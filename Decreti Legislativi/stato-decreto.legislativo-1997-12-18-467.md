@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2003-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -87,6 +87,71 @@ Le modificazioni introdotte dall'articolo 2, comma 1, numeri 1), 2), 3), 4), 5) 
 Le modificazioni introdotte dall'articolo 2, comma 1, numero 14), si applicano con riguardo alle trasformazioni che hanno effetto a decorrere dal secondo esercizio successivo a quello in corso al 31 dicembre 1996.
 
 Le modificazioni introdotte dall'articolo 2, comma 1, numeri 7), 8), 9), 10), 11), 12) e 13), decorrono dal secondo esercizio successivo a quello in corso al 31 dicembre 1996. Nella dichiarazione dei redditi presentata per l'esercizio successivo a quello in corso al 31 dicembre 1996 devono essere distintamente indicati gli importi di cui ai commi 1 e 2 dell'articolo 1 del presente decreto e l'ammontare delle imposte di cui alle lettere a) e b) del comma 1 dell'articolo 105, del testo unico delle imposte sui redditi, come sostituito dall'articolo 2, comma 1, numero 10), del presente decreto.
+
+4.
+                    
+                        
+                            Ai fini dell'applicazione delle disposizioni del comma 3, nell'ammontare delle imposte di cui al comma 2 dell'articolo 105 del testo unico delle imposte sui redditi, sono compresi, inizialmente, i seguenti importi:
+ 
+                        
+                        
+                            a)
+                            
+                                i nove sedicesimi delle riserve e degli altri fondi esistenti nel bilancio o rendiconto dell'esercizio successivo a quello in corso al 31 dicembre 1996, che, ai sensi dell'articolo 105, conuna 3, del testo unico delle imposte sui redditi, nel testo vigente anteriormente alla modifica di cui all'articolo 2, comma 1, numero 10), ovvero ai sensi dell'articolo 1, comma 2, del presente decreto si considerano formati con utili assoggettati all'imposta sul reddito delle persone giuridiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il 25 per cento delle riserve e degli altri fondi esistenti nel bilancio o rendiconto dell'esercizio successivo a quello in corso al 31 dicembre 1996, assoggettati ad imposta sostitutiva ai sensi dell'articolo 8, comma 1, della legge 29 dicembre 1990, n. 408;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il 25 per cento delle riserve e degli altri fondi esistenti nel bilancio o rendiconto dell'esercizio successivo a quello in corso al 31 dicembre 1996, assoggettati ad imposta sostitutiva ai sensi dell'articolo 22, comma 4, del decreto-legge 23 febbraio 1995, n. 41, convertito con modificazioni dalla legge 25 marzo 1995, n. 85, nonche' l'11 per cento di dette riserve e altri fondi, ove non distribuiti entro il terzo esercizio successivo a quello in corso alla data del 24 febbraio 1995;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i nove sedicesimi dell'eccedenza di cui al comma 3, secondo periodo, dell'articolo 105 del testo unico delle imposte sui redditi nel testo vigente anteriormente alla modifica di cui all'articolo 2, comma 1, numero 10), che non e' stata utilizzata agli effetti dell'applicazione dell'articolo 1, comma 2, del presente decreto.
+Tale importo va computato per quote costanti nella dichiarazione dei redditi di cui al presente comma e in quelle relative ai nove esercizi successivi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'imposta sostitutiva applicata ai sensi dell'articolo 1 del presente decreto.
+
+5.
+                    
+                        
+                            Ai fini dell'applicazione delle disposizioni del comma 3, nell'ammontare delle imposte di cui al comma 4 dell'articolo 105 del testo unico delle imposte sui redditi, sono ricompresi, inizialmente, i seguenti importi:
+ 
+                        
+                        
+                            a)
+                            
+                                il 55,24 per cento delle riserve e degli altri fondi assoggettati ad imposta sostitutiva del 2,2 per cento ed il 49,84 per cento delle riserve e degli altri fondi assoggettati ad imposta sostitutiva del 5,6 per cento, ai sensi dell'articolo 1 del presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i nove sedicesimi delle riserve e degli altri fondi esistenti nel bilancio o rendiconto dell'esercizio successivo a quello in corso al 31 dicembre 1996 che si considerano formati con gli utili che non concorrono alla determinazione del reddito ai sensi dell'articolo 96-bis del testo unico delle imposte sui redditi, nel testo vigente anteriormente alle modifiche di cui all'articolo 2, comma 1, numeri 8) e 9), ovvero che si considerano formati per ogni successivo percettore con detti utili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'imposta corrispondente al reddito dichiarato a partire dall'esercizio successivo a quello in corso al 31 dicembre 1996 e compensato con le perdite di detto esercizio e di quelli precedenti, ai sensi dell'articolo 102 del testo unico delle imposte sui redditi.
 
 L'articolo 107 del testo unico delle imposte sui redditi relativo alla compensazione e al rimborso delle eccedenze della maggiorazione di conguaglio conserva efficacia e i riferimenti ivi contenuti all'articolo 105 dello stesso testo unico, devono intendersi effettuati all'articolo 105 nel testo vigente anteriormente alla modifica di cui all'articolo 2, comma 1, numero 10).
 

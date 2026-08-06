@@ -6,8 +6,8 @@ urn: urn:nir:stato:regio.decreto:1884-11-15;1515
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:26:54Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO

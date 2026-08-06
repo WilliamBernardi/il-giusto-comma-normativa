@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-05-19;85
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,270 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sviluppo economico, di concerto con i Ministri dell'economia e delle finanze, della giustizia e degli affari esteri e della cooperazione internazionale;
 
 ## Art. 1. — Campo di applicazione e definizioni
+
+1.
+                    
+                        
+                            Il presente decreto, con i relativi allegati che ne fanno parte integrante, si applica ai seguenti prodotti, di seguito indicati unitariamente anche come «prodotti»: 
+ 
+                        
+                        
+                            a)
+                            
+                                apparecchi e sistemi di protezione destinati ad essere utilizzati in atmosfera potenzialmente esplosiva; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dispositivi di sicurezza, di controllo e di regolazione destinati ad essere utilizzati al di fuori di atmosfere potenzialmente esplosive, necessari o utili per un sicuro funzionamento degli apparecchi e dei sistemi di protezione, rispetto ai rischi di esplosione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                componenti destinati ad essere inseriti negli apparecchi e sistemi di protezione di cui alla lettera a).
+
+2.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle apparecchiature mediche destinate ad impieghi in ambiente medico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli apparecchi e sistemi di protezione, quando il pericolo di esplosione e' dovuto esclusivamente alla presenza di materie esplosive o di materie chimiche instabili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                agli apparecchi destinati ad impieghi in ambiente domestico e non commerciale, ove un'atmosfera potenzialmente esplosiva puo' essere provocata solo raramente e unicamente da una fuga accidentale di gas; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai dispositivi di protezione individuale di cui al decreto legislativo 4 dicembre 1992, n. 475; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alle navi marittime e alle unita' mobili off-shore, nonche' alle attrezzature utilizzate a bordo di dette navi o unita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ai mezzi di trasporto, quali veicoli e i loro rimorchi, destinati unicamente al trasporto di persone per via aerea, sulle reti stradali, ferroviarie oppure per via navigabile e ai mezzi di trasporto di merci per via aerea, su reti stradali o ferroviarie oppure per via navigabile; i veicoli destinati a essere utilizzati in atmosfera potenzialmente esplosiva non sono esclusi dall'ambito di applicazione del presente decreto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                ai prodotti contemplati dall'articolo 346, paragrafo 1, lettera b), del trattato sul funzionamento dell'Unione europea.
+
+3.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «apparecchi»: le macchine, le apparecchiature, i dispositivi fissi o mobili, gli organi di comando, la strumentazione e i sistemi di rilevazione e di prevenzione che, da soli o combinati, sono destinati alla generazione, al trasporto, allo stoccaggio, alla misurazione, alla regolazione e alla conversione di energia e/o alla trasformazione di materiale e che, a causa delle potenziali sorgenti di innesco che sono loro proprie, rischiano di provocare un'esplosione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «sistemi di protezione»: dispositivi, diversi dai componenti degli apparecchi, la cui funzione e' bloccare sul nascere le esplosioni e/o circoscrivere la zona da esse colpita, messi a disposizione sul mercato separatamente come sistemi con funzioni autonome; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «componenti»: tutte le parti essenziali per il funzionamento sicuro degli apparecchi e dei sistemi di protezione, prive tuttavia di funzione autonoma; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «atmosfera esplosiva»: una miscela contenente aria, a condizioni atmosferiche, sostanze infiammabili allo stato di gas, vapori, nebbie o polveri nella quale, dopo l'innesco, la combustione si propaga all'intera miscela non bruciata; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «atmosfera potenzialmente esplosiva»: un'atmosfera suscettibile di trasformarsi in atmosfera esplosiva a causa di condizioni locali e operative; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «gruppo di apparecchi I»: apparecchi destinati a lavori in sotterraneo nelle miniere e nei loro impianti di superficie, passibili di essere esposti al rischio di sprigionamento di grisu' e/o di polveri combustibili, comprendenti gli apparecchi appartenenti alle categorie M1 ed M2 di cui all'allegato I; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «gruppo di apparecchi II»: apparecchi destinati a essere utilizzati in altri siti passibili di essere messi in pericolo da atmosfere esplosive, comprendenti apparecchi appartenenti alle categorie 1, 2 e 3 di cui all'allegato I; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «categoria di apparecchi»: la classificazione di apparecchi, in ogni gruppo di apparecchi, specificata all'allegato I, che determina il livello di protezione richiesto; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «uso previsto»: l'uso di un prodotto prescritto dal fabbricante assegnando l'apparecchio a un particolare gruppo o categoria di apparecchi o fornendo tutte le indicazioni necessarie per il funzionamento sicuro di un sistema protettivo, dispositivo o componente; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «messa a disposizione sul mercato»: la fornitura sul mercato dell'Unione, nel corso di un'attivita' commerciale, a titolo oneroso o gratuito, di un prodotto destinato a essere distribuito, consumato o usato; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «commercializzazione»: la prima messa a disposizione di un prodotto sul mercato dell'Unione; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «fabbricante»: una persona fisica o giuridica che fabbrica un prodotto oppure lo fa progettare o fabbricare e lo commercializza apponendovi il proprio nome o marchio o lo utilizza a fini propri; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «rappresentante autorizzato»: una persona fisica o giuridica stabilita nell'Unione che abbia ricevuto da un fabbricante un mandato scritto che la autorizzi ad agire per suo conto in relazione a determinati compiti; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «importatore»: una persona fisica o giuridica stabilita nell'Unione che commercializzi sul mercato UE un prodotto originario di un Paese terzo; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «distributore»: una persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall'importatore, che metta un prodotto a disposizione sul mercato; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «operatori economici»: il fabbricante, il rappresentante autorizzato, l'importatore e il distributore; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «specificazione tecnica»: un documento che prescriva i requisiti tecnici che devono essere soddisfatti da un prodotto; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «norma armonizzata»: la norma armonizzata di cui all'articolo 2, punto 1, lettera c), del regolamento (UE) n. 1025/2012; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                «accreditamento»: accreditamento quale definito all'articolo 2, punto 10, del regolamento (CE) n. 765/2008; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                «organismo nazionale di accreditamento»: l'organismo di accreditamento nazionale quale definito all'articolo 2, punto 11, del regolamento (CE) n. 765/2008; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                «valutazione della conformita'»: il processo atto a dimostrare che le prescrizioni specifiche della presente direttiva relative a un prodotto sono state rispettate; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                «organismo di valutazione della conformita'»: un organismo che svolge attivita' di valutazione della conformita', come tarature, prove, certificazioni e ispezioni; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                «richiamo»: un provvedimento mirante a ottenere la restituzione di un prodotto, gia' messo a disposizione dell'utente finale; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                «ritiro»: indica un provvedimento mirante a impedire che un prodotto, presente nella catena della fornitura, sia messo a disposizione sul mercato; 
+
+                            
+                        
+                        
+                            dd)
+                            
+                                «normativa di armonizzazione dell'Unione»: indica una normativa dell'Unione che mira ad armonizzare le condizioni della commercializzazione dei prodotti; 
+
+                            
+                        
+                        
+                            ee)
+                            
+                                «marcatura CE»: indica il marchio mediante il quale il fabbricante attesta che il prodotto e' conforme ai requisiti applicabili stabiliti nella normativa di armonizzazione dell'Unione che ne prevede l'apposizione.
 
 ## Art. 2. — Requisiti essenziali di sicurezza e di salute
 
@@ -70,6 +334,31 @@ I fabbricanti, a seguito di una richiesta motivata di un'autorita' nazionale com
 
 Il fabbricante puo' nominare, mediante mandato scritto, un rappresentante autorizzato. Gli obblighi di cui all'articolo 5, comma 1, e l'obbligo di redigere la documentazione tecnica di cui all'articolo 5, comma 2, non rientrano tra gli atti che il rappresentante autorizzato puo' compiere.
 
+2.
+                    
+                        
+                            Un rappresentante autorizzato esegue i compiti specificati nel mandato ricevuto dal fabbricante. Il mandato consente al rappresentante autorizzato di eseguire almeno i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                mantenere a disposizione delle autorita' nazionali di vigilanza del mercato la dichiarazione di conformita' UE o, se del caso, l'attestato di conformita' e la documentazione tecnica per un periodo di dieci anni dalla data in cui il prodotto e' stato immesso sul mercato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a seguito di una richiesta motivata di un'autorita' nazionale competente, fornire a tale autorita' tutte le informazioni e la documentazione necessarie per dimostrare la conformita' del prodotto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                cooperare con le autorita' nazionali competenti, su loro richiesta, a ogni iniziativa tesa a eliminare i rischi presentati dai prodotti che rientrano nel loro mandato.
+
 ## Art. 7. — Obblighi degli importatori
 
 Gli importatori immettono sul mercato solo prodotti conformi.
@@ -112,6 +401,24 @@ Un importatore o distributore e' ritenuto un fabbricante ai fini del presente de
 
 ## Art. 10. — Identificazione degli operatori economici
 
+1.
+                    
+                        
+                            Gli operatori economici indicano alle autorita' di vigilanza che ne fanno richiesta: 
+ 
+                        
+                        
+                            a)
+                            
+                                qualsiasi operatore economico che ha fornito loro un prodotto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualsiasi operatore economico cui essi hanno fornito un prodotto.
+
 Gli operatori economici devono essere in grado di presentare le informazioni di cui al comma 1 per dieci anni dal momento in cui e' stato loro fornito un prodotto e per dieci anni dal momento in cui essi hanno fornito un prodotto.
 
 ## Art. 11. — Principi generali della marcatura CE e regole e condizioni per l'apposizione della marcatura CE e di altre marcature
@@ -131,6 +438,42 @@ La marcatura CE e le marcature, i simboli e le informazioni di cui al comma 5, n
 ## Art. 12.
 
 Procedure di valutazione della conformita'
+
+1.
+                    
+                        
+                            Le procedure da seguire per valutare la conformita' di apparecchi, compresi, se necessario, i dispositivi di cui all'articolo 1, comma 1, lettera b), sono le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                per il gruppo di apparecchi I e II, categoria M 1 e 1, la procedura di esame UE del tipo di cui all'allegato III unitamente a una delle seguenti procedure: 
+ 1) conformita' al tipo basata sulla garanzia della qualita' del processo di produzione di cui all'allegato IV; 
+ 2) conformita' al tipo basata sulla verifica del prodotto di cui all'allegato V; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il gruppo di apparecchi I e II, categoria M 2 e 2: 
+ 1) in caso di motori a combustione interna e di apparecchi elettrici appartenenti ai suddetti gruppi e categorie, la procedura di esame UE del tipo di cui all'allegato III, unitamente a una delle seguenti procedure: conformita' al tipo basata sul controllo interno della produzione unito a prove del prodotto sotto controllo ufficiale di cui all'allegato VI, oppure conformita' al tipo basata sulla garanzia della qualita' del prodotto di cui all'allegato VII; 
+ 2) in caso di altri apparecchi appartenenti ai suddetti gruppi e categorie, il controllo interno della produzione previsto dall'allegato VIII e invio della documentazione tecnica indicata all'allegato VIII, punto 2 a un organismo notificato, che ne accusi quanto prima ricevuta e la conservi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per il gruppo di apparecchi II, categoria 3, il controllo interno della produzione di cui all'allegato VIII; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per i gruppi di apparecchi I e II, oltre alle procedure di cui alle lettere a), b) e c) del presente comma e' possibile seguire la conformita' basata sulla verifica dell'unita' di cui all'allegato IX.
 
 Per valutare la conformita' dei sistemi di protezione a funzione autonoma si deve usare la procedura di cui alle lettere a) o d) del comma 1.
 
@@ -167,6 +510,52 @@ Le modalita' di svolgimento dell'attivita' di cui al primo periodo del comma 2 e
 
 Il Ministero dello sviluppo economico assume piena responsabilita' per i compiti svolti dall'organismo di cui al comma 3.
 
+5.
+                    
+                        
+                            Il Ministero dello sviluppo economico, quale autorita' di notifica e ai fini dell'attivita' di autorizzazione, nonche' l'organismo nazionale di accreditamento, ai fini dell'attivita' di valutazione e controllo, organizzano e gestiscono le relative attivita' nel rispetto delle seguenti prescrizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                in modo che non sorgano conflitti d'interesse con gli organismi di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in modo che sia salvaguardata l'obiettivita' e l'imparzialita' delle attivita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in modo che ogni decisione relativa alla notifica di un organismo di valutazione della conformita' sia presa da persone competenti diverse da quelle che hanno effettuato la valutazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                evitando di offrire ed effettuare attivita' eseguite dagli organismi di valutazione della conformita' o servizi di consulenza commerciali o su base concorrenziale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                salvaguardando la riservatezza delle informazioni ottenute; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                assegnando a tali attivita' un numero di dipendenti competenti sufficiente per l'adeguata esecuzione dei suoi compiti.
+
 Il Ministero dello sviluppo economico informa la Commissione europea delle procedure adottate per la valutazione e la notifica degli organismi di valutazione della conformita' e per il controllo degli organismi notificati, nonche' di qualsiasi modifica delle stesse.
 
 ## Art. 15.
@@ -185,6 +574,65 @@ L'organismo di valutazione della conformita', i suoi dirigenti e il personale ad
 L'organismo di valutazione della conformita' garantisce che le attivita' delle sue affiliate o dei suoi subappaltatori non si ripercuotano sulla riservatezza, sull'obiettivita' o sull'imparzialita' delle sue attivita' di valutazione della conformita'.
 
 L'organismo di valutazione della conformita' e il suo personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica e sono liberi da qualsivoglia pressione o incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
+
+6.
+                    
+                        
+                            L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base agli allegati da III a VII e IX e per i quali e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'.
+In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di prodotti per i quali e' stato notificato, l'organismo di valutazione della conformita' ha a sua disposizione: 
+ 
+                        
+                        
+                            a)
+                            
+                                personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le necessarie descrizioni delle procedure in conformita' delle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; una politica e procedure appropriate che distinguano i compiti che svolge in qualita' di organismo di valutazione della conformita' dalle altre attivita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia del prodotto in questione e della natura di massa o seriale del processo produttivo.
+
+7.
+                    
+                        
+                            L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutti gli strumenti o impianti occorrenti.
+Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone di quanto segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                una formazione tecnica e professionale solida che include tutte le attivita' di valutazione della conformita' in relazione alle quali l'organismo di valutazione della conformita' e' stato notificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una conoscenza e una comprensione adeguate dei requisiti essenziali di salute e sicurezza di cui all'allegato II, delle norme armonizzate applicabili, delle disposizioni pertinenti della normativa di armonizzazione dell'Unione europea, nonche' delle normative nazionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la capacita' di elaborare certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei loro alti dirigenti e del personale addetto alla valutazione della conformita'. La remunerazione degli alti dirigenti e del personale addetto alla valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -246,6 +694,38 @@ Contro le decisioni degli organismi notificati puo' essere espletata l'apposita 
 ## Art. 19. — Obbligo di informazione a carico 
  degli organismi notificati
 
+1.
+                    
+                        
+                            Gli organismi notificati informano il Ministero dello sviluppo economico e l'organismo nazionale di accreditamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di qualunque circostanza che possa influire sull'ambito o sulle condizioni della notifica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di eventuali richieste di informazioni che abbiano ricevuto dalle autorita' di vigilanza del mercato in relazione alle attivita' di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                su richiesta, delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
+
 Gli organismi notificati forniscono agli altri organismi notificati a norma della direttiva attuata con il presente decreto, le cui attivita' di valutazione della conformita' sono simili o coprono gli stessi prodotti, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi delle valutazioni della conformita'.
 
 Gli organismi notificati partecipano, direttamente o mediante rappresentanti designati, al sistema di cooperazione e coordinamento tra organismi notificati istituito dalla Commissione europea a norma della direttiva attuata con il presente decreto ed ai lavori del relativo gruppo settoriale di organismi notificati.
@@ -279,6 +759,25 @@ Nel caso in cui l'operatore economico interessato non prende le misure correttiv
 
 Il Ministero dello sviluppo economico informa immediatamente la Commissione e gli altri Stati membri circa le misure di cui ai commi 6 e 7. Il Ministero dello sviluppo economico comunica i provvedimenti di cui al presente articolo agli organi segnalanti la presunta non conformita'.
 
+9.
+                    
+                        
+                            Le informazioni di cui al primo periodo del comma 8, includono tutti i particolari disponibili, soprattutto i dati necessari all'identificazione del prodotto non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dall'operatore economico interessato. In particolare, il Ministero dello sviluppo economico indica se l'inadempienza sia dovuta a una delle due cause seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                non conformita' del prodotto alle prescrizioni relative agli aspetti di protezione del pubblico interesse stabiliti nel presente decreto; 
+oppure, 
+
+                            
+                        
+                        
+                            b)
+                            
+                                carenze nelle norme armonizzate di cui all'articolo 3, che conferiscono la presunzione di conformita'.
+
 Il Ministero dello sviluppo economico, quando la procedura a norma dell'articolo 35 della direttiva 2014/34/UE e' stata avviata dall'autorita' di un altro Stato membro, informa immediatamente la Commissione e gli altri Stati membri di tutti i provvedimenti adottati, di tutte le altre informazioni a sua disposizione sulla non conformita' del prodotto interessato e, in caso di disaccordo con la misura nazionale adottata, delle sue obiezioni.
 
 Il Ministero dello sviluppo economico tiene conto nello svolgimento della propria attivita', sia per le proprie misure provvisorie che per quelle assunte da autorita' di altri Stati membri, che qualora, entro tre mesi dal ricevimento delle informazioni di cui al comma 8, uno Stato membro o la Commissione non sollevano obiezioni contro la misura provvisoria presa da uno Stato membro, tale misura e' ritenuta giustificata.
@@ -308,6 +807,73 @@ Il Ministero dello sviluppo economico cura, ove necessario, l'attuazione degli a
 ## Art. 24.
 
 Non conformita' formale
+
+1.
+                    
+                        
+                            Fatto salvo l'articolo 21, se il Ministero dello sviluppo economico giunge a una delle seguenti conclusioni, chiede all'operatore economico interessato di porre fine allo stato di non conformita' in questione: 
+ 
+                        
+                        
+                            a)
+                            
+                                la marcatura CE e' stata apposta in violazione dell'articolo 30 del regolamento (CE) n. 765/2008 o dell'articolo 11 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la marcatura CE non e' stata apposta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il marchio specifico di protezione dalle esplosioni di cui all'articolo 11, comma 5, i simboli del gruppo e della categoria degli apparecchi e, ove applicabile, le altre marcature e informazioni sono state apposte in violazione del punto 1.0.5 dell'allegato II o non sono state apposte; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero di identificazione dell'organismo notificato, qualora tale organismo intervenga nella fase di controllo della produzione, e' stato apposto in violazione dell'articolo 11 o non e' stato apposto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la dichiarazione di conformita' UE o, ove necessario, l'attestato di conformita' non sono stati apposti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                non e' stata compilata correttamente la dichiarazione di conformita' UE; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la documentazione tecnica non e' disponibile o e' incompleta; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le informazioni di cui all'articolo 5, comma 6, o all'articolo 7, comma 3, sono assenti, false o incomplete; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                non e' rispettata qualsiasi altra prescrizione amministrativa di cui all'articolo 5 o all'articolo 7.
 
 Se la non conformita' di cui al comma 1 permane, il Ministero dello sviluppo economico adotta le adeguate misure per limitare o proibire la messa a disposizione sul mercato del prodotto o per garantire che sia richiamato o ritirato dal mercato.
 

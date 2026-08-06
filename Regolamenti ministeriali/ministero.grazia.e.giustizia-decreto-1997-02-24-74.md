@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1999-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -68,6 +68,25 @@ La durata massima della prova e' di 70 minuti. Per i portatori di handicap il te
 
 ((
 
+6.
+                    
+                        
+                            Il sistema tecnico per le prove di preselezione deve assicurare che a ciascun candidato sia assegnato, in ciascuna sessione della stessa prova, un questionario contenente un egual numero di quesiti.
+La generazione dei questionari, in relazione all'archivio informatico dei quesiti esistenti, dovra' rispettare, per ogni questionario, i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                che siano rappresentati tutti i raggruppamenti per materie, cosi' come identificati dalla Commissione ministeriale per l'archivio informatico dei quesiti, in proporzione alla rispettiva consistenza numerica di tali raggruppamenti; il calcolo percentuale, rapportato al totale delle domande da somministrare, dovra' comportare un arrotondamento all'unita' superiore, per frazioni superiori allo 0,5 ovvero all'unita' inferiore, per frazioni pari o inferiori allo 0,5; se, in virtu' di tale arrotondamento, si dovesse ottenere un numero totale di domande superiore a quello dei qesiti da somministrare (45) si ridurra' di un'unita' il numero, come sopra proporzionalmente individuato, dei quesiti appartenenti al raggruppamento per materia numericamente piu' ridotto; se, al contrario, si dovesse ottenere un numero totale di domande inferiore a quello dei quesiti da somministrare (45) si aumentera' di un'unita' il numero, come sopra proporzionalmente individuato, dei quesiti appartenenti al raggruppamento per materia numericamente piu' cospicuo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che siano rappresentati tutti i gradi di difficolta', di cui all'articolo 3, in proporzione alla consistenza di ciascuno degli insiemi di quesiti aventi il medesimo grado di difficolta', tenendo conto, a tal fine, dell'intero archivio, unitariamente e complessivamente considerato, indipendentemente dai singoli raggruppamenti per materie; il calcolo percentuale, rapportato al totale delle domande da somministrare, dovra' comportare un arrotondamento all'unita' superiore, per frazioni superiori allo 0,5 ovvero all'unita' inferiore, per frazioni pari o inferiori allo 0,5; se in virtu' di tale arrotondamento si dovesse ottenere un numero totale di domande superiori a quello dei quesiti da somministrare (45) si ridurra' di un'unita' il numero, come sopra proporzionalmente individuato, dei quesiti aventi il massimo grado di difficolta'; se, al contrario, si dovesse ottenere un numero totale di domande inferiore a quello dei quesiti da somministrare (45) si aumentera' di un'unita' il numero, come sopra proporzionalmente individuato, dei quesiti aventi il minimo grado di difficolta'.
+
 ))
 
 E' ammessa la correzione delle risposte durante la prova sino alla scadenza del tempo consentito a norma del comma 5.
@@ -95,6 +114,31 @@ Al termine di ogni sessione, il candidato che ne faccia richiesta puo' prendere 
 Il sistema utilizza un elaboratore cui sono collegati i terminali per l'espletamento della prova.
 
 Nell'elaboratore sono inseriti il programma, l'archivio dei quesiti, le risposte con il punteggio relativo al grado di difficolta' e quant'altro occorra per il corretto funzionamento della preselezione.
+
+3.
+                    
+                        
+                            Il programma contiene le seguenti funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la miscelazione delle domande con relative risposte, da assegnare a ciascun candidato rispettando le condizioni di parita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                il sistema automatico di assegnazione delle domande e gli algoritmi di calcolo dei punteggi delle risposte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i driver di stampa.
 
 Nell'elaboratore e' anche inserito il software idoneo a realizzare la distribuzione in rete del programma per l'assegnazione dei questionari nonche' la stampa del promemoria delle risposte di ciascun candidato.
 

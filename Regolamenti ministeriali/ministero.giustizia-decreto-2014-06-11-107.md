@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2014-06-11;107
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,73 @@ Sentite le organizzazioni sindacali del personale della Polizia penitenziaria ma
 ## - Titolo I DISPOSIZIONI DI CARATTERE GENERALE
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intendono se non diversamente specificato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per Ministro, il Ministro della giustizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per Capo del Dipartimento, il Capo del Dipartimento dell'Amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per Direttore generale, il Direttore generale del personale e della formazione del Dipartimento dell'amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per Direttore dell'Istituto, il Direttore dell'Istituto Superiore di Studi penitenziari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per Amministrazione, l'Amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per Provveditorato, il Provveditorato regionale dell'Amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per Istituto, l'Istituto Superiore di Studi penitenziari; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per Corpo, il Corpo di polizia penitenziaria di cui alla legge 15 dicembre 1990, n. 395; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per Laboratorio, il Laboratorio Centrale per la banca dati nazionale del DNA, cosi' come istituito ai sensi dell'articolo 5, comma 2, della legge 30 giugno 2009, n. 85, presso il Dipartimento dell'Amministrazione penitenziaria del Ministero della giustizia.
 
 ## Art. 2. — Oggetto
 

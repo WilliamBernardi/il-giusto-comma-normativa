@@ -8,8 +8,8 @@ codice_redazionale: 097G0426
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -260,6 +260,22 @@ All'articolo 46, comma 4, del decreto legislativo 5 febbraio 1997, n. 22, dopo l
 
 All'articolo 46 del decreto legislativo 5 febbraio 1997, n. 22, il comma 5 e' sostituito dal seguente:
  " 5. Dal 30 giugno 1998 la cancellazione dal Pubblico registro automobilistico (PRA) dei veicoli e dei rimorchi avviati a demolizione avviene esclusivamente a cura del titolare del centro di raccolta o del concessionario o del titolare della succursale senza oneri di agenzia a carico del proprietario del veicolo o del rimorchio. A tal fine, entro sessanta giorni dalla consegna del veicolo e del rimorchio da parte del proprietario, il titolare del centro di raccolta, il concessionario o il titolare della succursale della casa costruttrice deve comunicare l'avvenuta consegna per la demolizione del veicolo e consegnare il certificato di proprieta', la carta di circolazione e le targhe al competente ufficio del PRA che provvede ai sensi e per gli effetti dell'articolo 103, comma 1, del decreto legislativo 30 aprile 1992, n. 285.".
+
+12.
+                    
+                        
+                            All'articolo 46 del decreto legislativo 5 febbraio 1997, n. 22, dopo il comma 6 sono inseriti i seguenti commi:
+ "6-bis. I gestori di centri di raccolta, i concessionari e i gestori delle succursali delle case costruttrici di cui ai commi 1 e 2 non possono alienare, smontare o distruggere i veicoli a motore e i rimorchi da avviare allo smontaggio ed alla successiva riduzione in rottami senza aver prima adempiuto ai compiti di cui al comma 5.
+ 6-ter. Gli estremi della ricevuta dell'avvenuta denuncia e consegna delle targhe e dei documenti agli uffici competenti devono essere annotati sull'apposito registro di entrata e di uscita dei veicoli da tenersi secondo le norme del regolamento di cui al decreto legislativo 30 aprile 1992, n. 285.
+ 6-quater. Agli stessi obblighi di cui al comma 6-bis e 6-ter sono soggetti i responsabili dei centri di raccolta o altri luoghi di custodia di veicoli rimossi ai sensi dell'articolo 159 del decreto legislativo 30 aprile 1992, n. 285, nel caso di demolizione del veicolo ai sensi dell'articolo 215, comma 4, del predetto decreto legislativo 30 aprile 1992, n. 285.
+ 6-quinquies. All'articolo 103, comma 1, del decreto legislativo 30 aprile 1992, n. 285, le parole: "la distruzione, la demolizione" sono sostituite dalle parole: "la cessazione della circolazione di veicoli a motore e di rimorchi non avviati alla demolizione.".
+ 13. All'articolo 47, comma 5, del decreto legislativo 5 febbraio 1997, n. 22, la lettera a) e' sostituita dalla seguente:
+ " 
+                        
+                        
+                            a)
+                            
+                                le imprese che producono, importano o detengono oli e grassi vegetali ed animali, esausti;".
 
 ## Art. 7. — Sanzioni e norme finali
 

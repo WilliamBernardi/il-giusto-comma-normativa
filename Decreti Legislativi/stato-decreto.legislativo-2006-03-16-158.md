@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-03-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,128 @@ Ai fini del presente decreto si applicano le definizioni previste dal regolament
 
 ))
 
+3.
+                    
+                        
+                            Si intende, inoltre per: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                animali da azienda: gli animali domestici delle specie bovina, suina, ovina, caprina ed equina, nonche' i volatili da cortile e i conigli domestici, gli animali selvatici di dette specie e i ruminanti selvatici allevati in un'azienda; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                trattamento terapeutico: la somministrazione in conformita' alle prescrizioni di cui all'articolo 4, ad un singolo animale da azienda di una delle sostanze autorizzate allo scopo di trattare, previo esame dell'animale da parte di un veterinario, una disfunzione della fecondita', inclusa l'interruzione di una gravidanza indesiderata, e, per quanto riguarda le sostanze beta-agoniste, in vista dell'induzione della tocolisi nelle vacche al momento del parto nonche' del trattamento di disfunzioni respiratorie, di malattia navicolare e di laminite e dell'induzione della tocolisi negli equidi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                trattamento zootecnico: la somministrazione di una delle sostanze autorizzate in conformita' alle prescrizioni di cui all'articolo 5: 
+ 1) ad un singolo animale da azienda, ai fini della sincronizzazione del ciclo estrale e della preparazione delle donatrici e delle ricettrici per l'impianto di embrioni, previo esame dell'animale in oggetto da parte di un medico veterinario; 
+ 2) agli animali d'acquacoltura, destinati alla riproduzione a scopo di inversione sessuale, su prescrizione di un veterinario e sotto la sua responsabilita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            n)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            o)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            p)
+                            
+                                laboratorio nazionale di riferimento per i residui: l'Istituto superiore di sanita' o altro laboratorio pubblico individuato dal Ministero della salute per categorie o gruppi di sostanze o residui; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)).
+
 ## Art. 2. — (( (Divieto di immissione sul mercato) ))
 
 ((
@@ -52,13 +174,102 @@ E' vietata l'immissione sul mercato di tireostatici, stilbeni, derivati dello st
 ## Art. 3. — Divieti di somministrazione, detenzione in azienda immissione sul
  mercato e trasformazione
 
+1.
+                    
+                        
+                            Salvo quanto previsto agli articoli 4 e 5, e' vietata per tireostatici, stilbeni e derivati dello stilbene e loro sali ed esteri, estradiolo-17 beta e suoi derivati sotto forma di esteri e sostanze beta-agoniste e per sostanze ad azione estrogena - diverse dall'estradiolo-17 beta e dai suoi derivati sotto forma di esteri - androgena o gestagena ((, nonche' qualsiasi altra sostanza ad effetto anabolizzante)):
+ 
+                        
+                        
+                            a)
+                            
+                                la somministrazione, mediante qualsiasi metodo, agli animali d'azienda e agli animali d'acquacoltura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la detenzione in un'azienda, escluse quelle sotto controllo ufficiale, di animali d'azienda e di acquacoltura, nonche' l'immissione sul mercato o la macellazione per il consumo umano di animali d'azienda che contengono sostanze di cui al presente comma o nei quali e' stata constatata la presenza di tali sostanze, salvo che venga provato che detti animali sono stati trattati a norma degli articoli 4 o 5;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'immissione sul mercato per il consumo umano di animali d'acquacoltura cui sono state somministrate le sostanze di cui al presente comma, nonche' di prodotti trasformati provenienti da detti animali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'immissione sul mercato delle carni degli animali di cui alla lettera b);
+
+                            
+                        
+                        
+                            e)
+                            
+                                la trasformazione delle carni di cui alla lettera d) ovvero la successiva immissione delle stesse sul mercato.
+
 E' vietata la detenzione nelle aziende in cui si allevano animali da produzione di medicinali contenenti le sostanze di cui al comma 1.
 
 ## Art. 4. — Somministrazione agli animali d'azienda di medicinali veterinari
 
+1.
+                    
+                        
+                            In deroga ai divieti di cui all'articolo 3, e' consentito somministrare ad animali d'azienda, a scopo terapeutico, medicinali veterinari contenenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                testosterone, progesterone o derivati che si trasformano facilmente nel composto iniziale per idrolisi, dopo assorbimento nel luogo d'applicazione; la somministrazione deve essere effettuata solo da un veterinario mediante iniezione o, per il trattamento di una disfunzione ovarica, mediante spirali vaginali e non mediante impianti, su animali di azienda chiaramente identificati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                trembolone allilico da somministrare per via orale, ovvero le sostanze ß-agoniste a equidi, sempreche' siano utilizzati conformemente alle indicazioni del fabbricante; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sostanze (ß)-agoniste, alle vacche al momento del parto, sotto forma di un'iniezione per l'induzione della tocolisi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                LETTERA SOPPRESSA DAL D.LGS. 29 OTTOBRE 2009, N. 148.
+
 La somministrazione dei medicinali veterinari di cui al comma 1, lettere a) e c), deve essere effettuata da un veterinario o, nel caso di medicinali veterinari contenenti le sostanze di cui al comma 1, lettera b), sotto la sua diretta responsabilita'.
 
 ((
+
+3.
+                    
+                        
+                            I trattamenti di cui al comma 1, devono essere registrati entro 48 ore elettronicamente dal veterinario che ha in cura gli animali nella banca dati centrale, finalizzata a monitorare le confezioni dei medicinali all'interno del sistema distributivo, istituita ai sensi del decreto del Ministro della salute 15 luglio 2004, pubblicato nella Gazzetta Ufficiale n. 2 del 4 gennaio 2005, o annotati su un registro cartaceo tenuto nell'azienda vidimato dal servizio veterinario della azienda unita' sanitaria locale competente per territorio. In esso sono annotate le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                numero e PIN della ricetta di riferimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                data di inizio e fine trattamento.
 
 Il registro di cui al comma 3 deve essere conservato nell'azienda a cura del titolare, per almeno cinque anni e messo a disposizione dell'autorita' competente.
 
@@ -69,6 +280,31 @@ Gli animali assoggettati ai trattamenti di cui al comma 1 non possono essere mac
 Fatto salvo quanto previsto al comma 1, lettera c), il trattamento terapeutico e' vietato negli animali da produzione, nonche' in quelli da riproduzione a fine carriera.
 
 ## Art. 5. — Deroghe al divieto di somministrazione
+
+1.
+                    
+                        
+                            In deroga al divieto di cui all'articolo 3, comma 1, lettera a), e fatto salvo il divieto dell'articolo 2, sono consentiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la somministrazione per fini di trattamento zootecnico di medicinali veterinari che contengono sostanze ad azione estrogena diverse dall'estradiolo-17 beta e dai suoi derivati sotto forma di esteri, androgena o gestagena; la somministrazione deve essere effettuata da un veterinario ad animali chiaramente identificati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il trattamento di avannotti d'acquacoltura a scopo di inversione sessuale durante i primi tre mesi di vita con medicinali veterinari contenenti sostanze ad azione androgena; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                LETTERA SOPPRESSA DAL D.LGS. 29 OTTOBRE 2009, N. 148.
 
 Nelle ipotesi di cui al comma 1, il veterinario compila una ricetta in triplice copia non ripetibile, in cui sia precisato il trattamento zootecnico previsto e la quantita' di prodotto necessario, procedendo alla registrazione dei medicinali prescritti in conformita' a quanto previsto all'articolo 4, comma 3.
 
@@ -86,7 +322,43 @@ In caso di macellazione d'urgenza e qualora non sia trascorso il prescritto temp
 
 ## Art. 6. — Divieto di autorizzazione all'immissione in commercio
 
+1.
+                    
+                        
+                            Non possono essere autorizzati ((ai sensi dell'articolo 5 del decreto legislativo 6 aprile 2006, n. 193,)) e successive modificazioni, medicinali veterinari destinati ad animali d'azienda contenenti:
+ 
+                        
+                        
+                            a)
+                            
+                                sostanze ormonali che agiscono mediante un effetto deposito oppure il cui tempo di sospensione e' superiore a quindici giorni dopo la fine del trattamento, nonche' i prodotti autorizzati in base a norme antecedenti alla modifica ((apportata dal regolamento (CE) n. 726/2004)), le cui condizioni d'uso non sono note e per i quali non esistono reagenti, ne' esiste il materiale necessario per i metodi d'analisi per l'individuazione dei residui eccedenti i limiti consentiti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sostanze (ß)-agoniste, il cui tempo di sospensione e' superiore a ventotto giorni dopo la fine del trattamento.
+
 ## Art. 7. — Immissione sul mercato di animali e bollatura delle relative carni
+
+1.
+                    
+                        
+                            Qualora siano state rispettate le disposizioni di cui agli articoli 4 e 5 e i tempi di sospensione minimi previsti nell'autorizzazione all'immissione in commercio del medicinale veterinario, e' consentito:
+ 
+                        
+                        
+                            a)
+                            
+                                immettere sul mercato gli animali destinati alla riproduzione o gli animali riproduttori che sono stati sottoposti ad uno dei trattamenti di cui agli articoli 4 e 5, ad eccezione di quelli a fine carriera;
+
+                            
+                        
+                        
+                            b)
+                            
+                                apporre la bollatura sanitaria comunitaria sulle carni provenienti dagli animali di cui alla lettera a).
 
 I cavalli di gran pregio, in particolare cavalli da corsa, da competizione, da circo o equidi destinati alla riproduzione o ad esposizioni, inclusi gli equidi registrati, ai quali sono stati somministrati, per le finalita' previste all'articolo 4, medicinali veterinari contenenti trenbolone allilico o sostanze (ß)-agoniste, possono essere movimentati prima della fine del tempo di sospensione solo se sono state rispettate le condizioni di somministrazione e se la natura e la data del trattamento risultano sul certificato o sul passaporto che accompagna detti animali.
 
@@ -106,6 +378,26 @@ Qualora dall'esito dei controlli effettuati su animali o prodotti provenienti da
 
 ## Art. 10. — Divieti all'importazione
 
+1.
+                    
+                        
+                            E' vietato importare, anche da Paesi terzi inseriti negli elenchi comunitari da cui e' autorizzata l'importazione:
+ 
+                        
+                        
+                            a)
+                            
+                                animali da azienda o d'acquacoltura cui siano stati somministrati:
+ 1) per qualsiasi via o metodo medicinali veterinari contenenti sostanze tireostatiche, stilbeni, prodotti contenenti tali sostanze o loro derivati;
+ 2) sostanze o prodotti contenenti sostanze beta-agoniste, estrogene, ivi compreso l'estradiolo-17 beta ed i suoi esteri, gestagene ed androgene, nonche' qualsiasi altra sostanza ad effetto anabolizzante, salvo che tale somministrazione sia stata effettuata nel rispetto delle disposizioni previste dagli articoli 4, 5 e 7 e nel rispetto dei tempi di sospensione previsti dalla normativa vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                carni o prodotti ottenuti da animali ((destinati al consumo umano)) la cui importazione e' vietata ai sensi della lettera a).
+
 ## Art. 11. — Piani di sorveglianza per la ricerca dei residui o delle sostanze
 
 La sorveglianza del processo di allevamento degli animali e di quello di prima trasformazione dei prodotti di origine animale, per la ricerca dei residui e delle sostanze di cui all'allegato I negli animali vivi, nei loro escrementi e nei liquidi biologici, nonche' nei tessuti, nei prodotti di origine animale, negli alimenti per animali e nell'acqua di abbeveraggio e' effettuata secondo le disposizioni del presente articolo ((, dell'articolo 12 e degli allegati al presente decreto.)).
@@ -116,6 +408,38 @@ Ai fini della ricerca di cui al comma l, le regioni e le province autonome posso
 
 Il Ministero della salute, fatte salve le norme piu' specifiche applicabili nel campo del controllo della nutrizione degli animali, coordina l'esecuzione della ricerca di cui all'articolo 11.
 
+2.
+                    
+                        
+                            Ai fini di cui al comma 1, il Ministero della salute: 
+ 
+                        
+                        
+                            a)
+                            
+                                aggiorna annualmente il piano di cui all'articolo 13: 
+
+                            
+                        
+                        
+                            b)
+                            
+                                coordina le attivita' dei servizi centrali e regionali incaricati della sorveglianza sui vari residui e tutti i servizi che effettuano comunque il controllo sull'uso delle sostanze o dei prodotti negli allevamenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                raccoglie le informazioni necessarie per la valutazione delle misure adottate e dei risultati ottenuti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasmette annualmente alla Commissione europea e ad EFSA, secondo le procedure condivise in ambito europeo e indicate dalla Commissione europea, il Piano per l'anno in corso e i risultati del Piano dell'anno precedente.
+
 ## Art. 13. — ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 
 
@@ -125,6 +449,31 @@ Il Ministero della salute, fatte salve le norme piu' specifiche applicabili nel 
 ((
 
 Il titolare dell'azienda di cui all'articolo 1, comma 2, se non gia' registrato presso il servizio veterinario dell'azienda unita' sanitaria locale competente per territorio ai sensi delle normative vigenti, deve chiedere la registrazione presso il predetto servizio.
+
+2.
+                    
+                        
+                            Il responsabile delle aziende e degli stabilimenti puo' commercializzare soltanto: 
+ 
+                        
+                        
+                            a)
+                            
+                                animali ai quali non siano stati somministrati sostanze o prodotti non autorizzati, ovvero che non siano stati oggetto di un trattamento illecito; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                animali per i quali, in caso di somministrazione di sostanze o prodotti autorizzati, sia stato rispettato il periodo di attesa prescritto. Nell'ipotesi di mancato rispetto del periodo di attesa prescritto e' consentito l'esclusivo invio degli animali verso altri allevamenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prodotti provenienti dagli animali di cui alle lettere a) e b).
 
 ))
 
@@ -210,7 +559,48 @@ Tutti i campioni sono prelevati e analizzati conformemente al regolamento (UE) 2
 
 ## Art. 29. — Decretazione del Ministro della salute
 
+1.
+                    
+                        
+                            Il Ministro della salute, con uno o piu' decreti, stabilisce: 
+ 
+                        
+                        
+                            a)
+                            
+                                le specialita' medicinali da impiegare ai fini previsti dagli articoli 4 e 5, nonche' le relative condizioni di utilizzazione, in particolare, il tempo di sospensione necessario; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le indicazioni che devono essere riportate sulla ricetta medico-veterinaria; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i livelli fisiologici massimi delle sostanze ad azione estrogena, androgena e gestagena, di natura endogena, presenti negli animali.
+
+((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27)).
 
 ## Art. 30. — ((ARTICOLO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27))
 

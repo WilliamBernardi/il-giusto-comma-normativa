@@ -8,8 +8,8 @@ codice_redazionale: 001G0248
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,7 +26,175 @@ Sulla proposta del Ministro delle finanze, di concerto con i Ministri del tesoro
 ## Art. 1. — Modifiche al decreto del Presidente della
  Repubblica 29 settembre 1973, n. 602
 
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 19, concernente la dilazione del pagamento, dopo il comma 4, e' aggiunto, in fine, il seguente: "4-bis. Se, in caso di decadenza del contribuente dal beneficio della dilazione, il fidejussore non versa l'importo garantito entro trenta giorni dalla notificazione di apposito invito, contenente l'indicazione delle generalita' del fidejussore stesso, delle somme da esso dovute e dei presupposti di fatto e di diritto della pretesa, il concessionario puo' procedere ad espropriazione forzata nei suoi confronti sulla base dello stesso ruolo emesso a carico del debitore";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 25, comma 1, concernente la cartella di pagamento, le parole da "entro" a "del ruolo", sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nell'articolo 26, comma 1, concernente notificazione della cartella di pagamento, dopo la parola "comma", sono inserite le seguenti: "o dal portiere dello stabile dove e' l'abitazione, l'ufficio o l'azienda";
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 47, comma 1, in materia di gratuita' delle formalita' richieste dai concessionari presso i pubblici registri, la parola "tassa", e' sostituita dalla seguente: "tributo";
+
+                            
+                        
+                        
+                            e)
+                            
+                                nell'articolo 49, comma 2, concernente le disposizioni applicabili al procedimento di espropriazione forzata, dopo la parola "compatibili", sono aggiunte, in fine, le seguenti "; gli atti relativi a tale procedimento sono notificati con le modalita' previste dall'articolo 26";
+
+                            
+                        
+                        
+                            f)
+                            
+                                nell'articolo 50, comma 2. concernente la notifica dell'intimazione ad adempiere, dopo le parole "preceduta dalla notifica", sono inserite le seguenti: ", da effettuarsi con le modalita' previste dall'articolo 26.";
+
+                            
+                        
+                        
+                            g)
+                            
+                                nell'articolo 58, concernente opposizione di terzi, al comma 2:
+ 1) la parola "lui", e' sostituita dalla seguente: "loro";
+ 2) sono aggiunte, in fine, le seguenti parole: "o dei medesimi coobbligati";
+
+                            
+                        
+                        
+                            h)
+                            
+                                nell'articolo 61, concernente estinzione del procedimento per pagamento del debito, al comma 1, le parole "la quietanza rilasciata dal concessionario", sono sostituite dalle seguenti: "la prova dell'avvenuto pagamento";
+
+                            
+                        
+                        
+                            i)
+                            
+                                nell'articolo 66, comma 1, concernente l'avviso di vendita dei beni pignorati, dopo la parola "contenente", sono inserite le seguenti: "la descrizione dei beni e";
+
+                            
+                        
+                        
+                            l)
+                            
+                                nell'articolo 73, concernente pignoramento di cose del debitore in possesso di terzi, al comma 1, dopo le parole "si dichiara o", e' soppressa la parola "si";
+
+                            
+                        
+                        
+                            m)
+                            
+                                nell'articolo 74, concernente vendita e assegnazione dei debiti pignorati, al comma 1, le parole "l'assegnazione", sono sostituite dalle seguenti: "la riscossione";
+
+                            
+                        
+                        
+                            n)
+                            
+                                nell'articolo 76, al comma 1, concernente i limiti per l'espropriazione immobiliare, le parole "le somme iscritte a ruolo nei confronti del debitore superano", sono sostituite dalle seguenti: "l'importo complessivo del credito per cui si procede supera";
+
+                            
+                        
+                        
+                            o)
+                            
+                                nell'articolo 77 in materia di iscrizione di ipoteca:
+ 1) al comma 1, le parole "delle somme complessivamente iscritte", sono sostituite dalle seguenti: "dell'importo complessivo del credito per cui si procede";
+ 2) al comma 2, le parole "le somme complessivamente iscritte a ruolo non superano", sono sostituite dalle seguenti: "l'importo complessivo del credito per cui si procede non supera";
+
+                            
+                        
+                        
+                            p)
+                            
+                                nell'articolo 78, comma 1, lettera e), in materia di dati contenuti nell'avviso di vendita, le parole: da "l'ammontare" a "distinte", sono sostituite dalle seguenti: "l'importo complessivo del credito per cui si procede, distinto";
+
+                            
+                        
+                        
+                            q)
+                            
+                                nell'articolo 86, comma 1, concernente il fermo di beni mobili registrati, e' sostituito dal seguente: "1. Decorso inutilmente il termine di cui all'articolo 50, comma 1, il concessionario puo' disporre il fermo dei beni mobili del debitore o dei coobbligati iscritti in pubblici registri, dandone notizia alla direzione regionale delle entrate ed alla regione di residenza".
+
 ## Art. 2. — Modifiche al decreto legislativo 26 febbraio 1999, n. 46
+
+1.
+                    
+                        
+                            Al decreto legislativo 26 febbraio 1999, n. 46, recante riordino della disciplina della riscossione mediante ruolo, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 19, comma 1, concernente le disposizioni applicabili alle sole imposte sui redditi, le parole "15-bis, 20,", sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 20, comma 1, concernente le disposizioni applicabili alle sole entrate tributarie dello Stato, dopo la parola "articoli", sono inserite le seguenti: "15-bis,";
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'art. 23 e' sostituito dal seguente:
+ "Art. 23 (Iscrizioni a ruolo a titolo provvisorio e termini di decadenza). - 1. Le disposizioni previste dagli articoli 15, comma 1, e 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, come sostituiti, rispettivamente dall'articolo 4 del decreto legislativo 18 dicembre 1997, n. 462, e dall'articolo 6 del presente decreto, si applicano anche all'imposta sul valore aggiunto";
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 25, comma 1, concernente i termini di decadenza per l'iscrizione a ruolo dei crediti degli enti pubblici previdenziali, le parole "dovuti dagli", sono sostituite dalle seguenti: "dovuti agli";
+
+                            
+                        
+                        
+                            e)
+                            
+                                nell'articolo 32, concernente la riscossione spontanea a mezzo ruolo, il comma 2 e' sostituito dal seguente: "2. Nel caso previsto dal comma 1, lettera a):
+ a) su richiesta dell'ente creditore, possono essere regolate con convenzioni da stipulare con i concessionari del servizio nazionale della riscossione:
+ 1) le procedure di formazione e consegna dei ruoli;
+ 2) limitatamente alla fase antecedente la notifica della cartella di pagamento, le modalita' di richiesta del pagamento al debitore e di riversamento delle somme riscosse e la remunerazione per lo svolgimento del servizio;
+ 3) i termini di notifica della cartella di pagamento;
+ 4) le penalita' per l'inadempimento degli obblighi derivanti dalla convenzione;
+ b) in mancanza della richiesta di cui alla lettera a), la cadenza delle eventuali rate e' indicata dall'ente creditore e i concessionari possono far precedere la notifica della cartella di pagamento dall'invio, a mezzo lettera non raccomandata, di una comunicazione contenente gli elementi da indicare nella cartella stessa. In ogni caso, essi inviano tale comunicazione in modo che la prima o unica rata di pagamento cada entro l'ultimo giorno del terzo mese successivo a quello di consegna del ruolo.";
+
+                            
+                        
+                        
+                            f)
+                            
+                                nell'articolo 37, recante abrogazione di norme:
+ 1) le parole "gli articolo", sono sostituite dalle seguenti: "l'articolo 60, commi dal secondo al quinto, e 61 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, gli articoli";
+ 2) le parole "11, comma 5", sono sostituite dalle seguenti: "11, commi 4-bis e 5".
 
 ## Art. 3. — Modifiche al decreto legislativo 13 aprile 1999, n. 112
 

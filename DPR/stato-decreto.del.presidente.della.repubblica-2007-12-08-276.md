@@ -8,8 +8,8 @@ codice_redazionale: 008G0050
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:03Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,63 @@ Sulla proposta del Ministro dell'interno;
 ## Art. 1. — Procedure per la scelta del contraente
 
 Fatto salvo quanto previsto dai commi 2 e 3, la locazione degli immobili appartenenti al Fondo edifici di culto (FEC) consegue all'esperimento di pubblici incanti.
+
+2.
+                    
+                        
+                            Si procede a licitazione privata:
+ 
+                        
+                        
+                            a)
+                            
+                                quando la locazione riguarda immobili per i quali sussiste la dichiarazione di interesse culturale, di cui all'articolo 13 del decreto legislativo 22 gennaio 2004, n. 42;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in ogni altro caso in cui per ragioni particolari, da menzionare nel decreto di approvazione del contratto, il FEC non trovi conveniente esperire i pubblici incanti.
+
+3.
+                    
+                        
+                            Si procede a trattativa privata, quando:
+ 
+                        
+                        
+                            a)
+                            
+                                la procedura ad evidenza pubblica mediante pubblico incanto o licitazione privata e' andata deserta o comunque e' stata esperita infruttuosamente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il canone complessivo previsto per l'intera durata della locazione non supera l'importo di 60.000 euro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un soggetto gia' locatario di un immobile di proprieta' del FEC chiede l'affidamento in locazione di un altro immobile costituente pertinenza del bene gia' locato ovvero confinante con quest'ultimo. La superficie dell'immobile confinante da locare non puo' essere superiore ad un terzo della superficie totale originariamente locata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un dipendente dell'amministrazione civile dell'interno, in servizio nella provincia in cui e' ubicato l'immobile, chiede l'affidamento del medesimo in locazione, anche in attuazione di apposite convenzioni stipulate tra il FEC e il dipartimento competente per l'amministrazione del predetto personale; tale disposizione non si applica al personale destinatario di alloggio di servizio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                quando, ricorrendo la fattispecie di cui all'articolo 4, il costo degli interventi di ripristino, adattamento, ristrutturazione o restauro dell'immobile e' pari ad almeno il venti per cento dell'importo complessivo del canone previsto per l'intera durata della locazione.
 
 Salvo che nei casi in cui la procedura ad evidenza pubblica mediante pubblico incanto o licitazione privata sia andata deserta e in quelli di cui alle lettere c) e d) del comma 3, la trattativa privata e' preceduta da un'adeguata pubblicita' delle caratteristiche degli immobili che il FEC intende locare e dei relativi canoni minimi richiesti, con indicazione della ragione che, per ciascun immobile, ha comportato tale modalita' di scelta del contraente. Nei casi previsti dalla lettera a), del comma 3, la trattativa privata non puo' concludersi a condizioni piu' favorevoli per il locatario rispetto a quelle offerte al pubblico, ai sensi dei commi 1 e 2, nella gara. La trattativa privata e' altresi' preceduta da una gara informale tra coloro che, entro un congruo termine dalla pubblicazione dell'avviso, abbiano comunicato al FEC il proprio interesse alla locazione.
 
@@ -50,6 +107,24 @@ La prestazione del corrispettivo secondo la modalita' di cui comma 1 e' resa not
 ## Art. 5. — Durata e rinnovo della locazione
 
 La durata del contratto di locazione e' stabilita in conformita' alle previsioni della legge 9 dicembre 1998, n. 431.
+
+2.
+                    
+                        
+                            Alle scadenze del contratto di locazione successive alla prima, e' esclusa qualsiasi forma di rinnovo automatico o tacito del contratto medesimo. In tal caso e' facolta' del FEC rinnovare il contratto in favore del soggetto locatario che ne faccia richiesta nel termine di cui al comma 3, al massimo per lo stesso termine di durata originariamente stabilito, previa rideterminazione del canone e verifica:
+ 
+                        
+                        
+                            a)
+                            
+                                del comportamento tenuto dal locatario, quanto ad esatto adempimento degli obblighi contrattuali, inclusi quelli relativi al regolare pagamento del canone e all'effettuazione delle opere di manutenzione necessarie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dell'impossibilita', accertata attraverso gara informale tra coloro che entro un congruo termine dalla pubblicazione dell'avviso abbiano comunicato al FEC il proprio interesse alla locazione, di conseguire una piu' proficua valorizzazione dell'immobile o una maggiore remunerativita' della locazione.
 
 La domanda di rinnovo ai sensi del comma 2 e' presentata al FEC non oltre il termine di sei mesi prima della data di cessazione del rapporto. Per la stipula del contratto di rinnovo si applicano le disposizioni dell'articolo 3.
 

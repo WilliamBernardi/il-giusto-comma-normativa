@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2003-10-29
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,105 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di
 ## Art. 1. — (( (Ambito di applicazione) ))
 
 ## Art. 2. — Condizioni del riconoscimento
+
+1.
+                        
+                            
+                                Sono riconosciuti i diplomi, certificati ed altri titoli rilasciati a conclusione di un corso di studi di livello universitario, che presenti i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la formazione deve riguardare principalmente l'architettura ed essere equilibratamente ripartita tra gli aspetti tecnici e pratici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la durata della formazione deve comprendere almeno quattro anni di studi a tempo pieno presso un'universita' o un istituto d'istruzione analogo, ovvero almeno sei anni di studio presso un'universita' o analogo istituto, di cui non meno di tre a tempo pieno, ed essere sancita, a conclusione del corso di studi, dal superamento di un esame di livello universitario.
+
+2.
+                        
+                            
+                                La formazione data dal corso di studi deve assicurare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la capacita' di creare progetti architettonici che soddisfino le esigenze estetiche e tecniche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un'adeguata conoscenza della storia e delle teorie dell'architettura nonche' delle arti, tecnologie e scienze umane ad esse attinenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una conoscenza delle belle arti in quanto fattori che possono influire sulla qualita' della concezione architettonica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un'adeguata conoscenza in materia di urbanistica, pianificazione e tecniche applicate nel processo di pianificazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la capacita' di cogliere i rapporti tra uomo e creazioni architettoniche e tra queste e il loro ambiente, nonche' la capacita' di cogliere la necessita' di adeguare tra loro creazioni architettoniche e spazi in funzione dei bisogni e della misura dell'uomo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la capacita' di capire l'importanza della professione e delle funzioni dell'architetto nella societa', in particolare elaborando progetti che tengano conto dei fattori sociali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    una conoscenza di metodi d'indagine e di preparazione del progetto di costruzione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la conoscenza dei problemi di concezione strutturale, di costruzione e di ingegneria civile connessi con la progettazione degli edifici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    una conoscenza adeguata dei problemi fisici e delle tecnologie nonche' della funzione degli edifici, in modo da renderli internamente confortevoli e proteggerli dai fattori climatici; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    una capacita' tecnica, che consenta di progettare edifici che rispondano alle esigenze degli utenti, nei limiti imposti dal fattore costo e dai regolamenti in materia di costruzione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    una conoscenza adeguata delle industrie, organizzazioni, regolamentazioni e procedure necessarie per realizzare progetti di edifici e per l'integrazione dei piani nella pianificazione.
 
 I diplomi, certificati e altri titoli, di cui ai commi 1 e 2, rilasciati dagli altri Stati membri dell'Unione europea, sono elencati nella comunicazione della Commissione europea 2001/C333/02 del 28 novembre 2001, e successive modificazioni, pubblicata nella Gazzetta Ufficiale delle Comunita' europee, ai sensi dell'articolo 7, paragrafo 2, della direttiva 85/384/CEE.
 
@@ -49,11 +148,68 @@ Il riconoscimento attribuisce il diritto di far uso del titolo di Architetto sec
 
 I soggetti di cui all'articolo 1 devono presentare al Ministero dell'istruzione, dell'universita' e della ricerca domanda per il riconoscimento del proprio titolo ai fini dell'ammissione all'esercizio dell'attivita' di architetto nel territorio della Repubblica italiana.
 
+2.
+                        
+                            
+                                La domanda, redatta in lingua italiana ed in carta da bollo, deve indicare la provincia nella quale l'interessato ha intenzione di stabilirsi o di operare, ed essere corredata dei seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il diploma, certificato, o titolo o insieme di titoli di cui si chiede il riconoscimento, in copia autenticata, o un attestato rilasciato dalla stessa autorita' che ha conferito il diploma, certificato o altri titoli, che, riportando gli stessi dati, ne conferma la veridicita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un certificato rilasciato da un'autorita' competente dello Stato membro d'origine o di provenienza, che dichiari soddisfatti i requisiti di moralita' o di onorabilita' in esso richiesti per l'accesso all'attivita' di architetto. Se lo Stato membro d'origine o di provenienza non richiede tale attestato, in sostituzione deve essere presentato un estratto del casellario giudiziario o, in mancanza, un documento equipollente rilasciato dalla competente autorita' di quello Stato. Se nessuno dei predetti documenti viene rilasciato nello Stato membro d'origine o di provenienza, deve essere presentato un attestato che faccia fede che l'interessato ha reso una dichiarazione giurata o, negli Stati in cui tale giuramento non esista, una dichiarazione solenne davanti ad una competente autorita' giudiziaria o amministrativa, ad un notaio o ad un organismo professionale qualificato dello Stato membro d'origine o di provenienza. Dai documenti sopra indicati deve altresi' risultare che l'interessato non e' stato in precede nza dichiarato fallito o, se lo e' stato, che sono decorsi almeno cinque anni dalla pronunzia della dichiarazione di fallimento o, se e' decorso un termine piu' breve, che nei confronti dell'interessato e' stato adottato provvedimento con effetti di riabilitazione civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un certificato di cittadinanza o copia di altro documento dalla quale si evinca la cittadinanza dell'interessato.
+
 Il Ministero dell'istruzione, dell'universita' e della ricerca puo' richiedere che i documenti, se redatti in lingua diversa dall'italiano, siano accompagnati da una traduzione ufficiale in lingua italiana del testo originale qualora sia impossibile acquisire, attraverso altri canali, le necessarie informazioni dai documenti prodotti.
 
 Al momento della loro presentazione i documenti di cui alle lettere b) e c) del comma 2 non devono essere di data anteriore a tre mesi.
 
 Entro trenta giorni dalla data di presentazione della documentazione, il Ministero dell'istruzione, dell'universita' e della ricerca accerta la completezza e la regolarita' della domanda e della relativa documentazione, richiedendo all'interessato le eventuali integrazioni.
+
+6.
+                        
+                            
+                                Per la valutazione dei titoli di cui al comma 2, il Ministero dell'istruzione, dell'universita' e della ricerca indice, previa consultazione del Consiglio universitario nazionale, una conferenza di servizi ai sensi della legge 7 agosto 1990, n. 241, alla quale partecipano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Dipartimento per il coordinamento delle politiche comunitarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Ministero degli affari esteri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Ministero della giustizia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il Consiglio nazionale degli architetti, pianificatori, paesaggisti e conservatori.
 
 In relazione a casi specifici, la conferenza di servizi di cui al comma 6 puo' essere integrata da un rappresentante del Consiglio nazionale degli ingegneri.
 
@@ -72,6 +228,31 @@ Il provvedimento di cui al comma 8 e' debitamente motivato e puo' essere impugna
 ## - Titolo II DISPOSIZIONI RELATIVE AL DIRITTO DI STABILIMENTO
 
 ## Art. 5. — Ammissione alla professione di architetto
+
+1.
+                        
+                            
+                                Sono ammessi all'esercizio dell'attivita' nel settore dell'architettura con il relativo titolo professionale e sono iscritti all'albo degli architetti i cittadini degli Stati membri delle Comunita' europee che:
+ 
+                            
+                            
+                                a)
+                                
+                                    sono in possesso di un titolo riconosciuto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presentano requisiti di moralita' ed onorabilita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    hanno residenza o domicilio in Italia.
 
 Il Consiglio dell'ordine degli architetti del luogo di residenza o domicilio dell'interessato provvede all'iscrizione sulla base del decreto di riconoscimento o, se l'iscrizione sia richiesta in epoca successiva, previo accertamento dei requisiti di moralita' ed onorabilita' nei modi previsti dall'art. 4, comma 2, lettera b).
 
@@ -95,6 +276,24 @@ Le precedenti disposizioni, relative al diritto di stabilimento, si applicano an
 ## Art. 9. — (( (Ammissione alla prestazione di servizi) ))
 
 ((
+
+1.
+                        
+                            
+                                Sono ammessi all'esercizio dell'attivita' disciplinata dal presente decreto, con carattere di temporaneita', previa dichiarazione al Consiglio nazionale degli architetti, pianificatori, paesaggisti e conservatori, i cittadini di cui all'articolo 1 che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono in possesso di uno dei titoli di cui all'allegato A o contenuti nella comunicazione della Commissione europea di cui all'articolo 2, comma 2-bis, o si trovano nella situazione prevista dall'articolo 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercitano legalmente l'attivita' relativa al settore dell'architettura nello Stato membro in cui sono stabiliti.
 
 La prestazione di servizi, di cui al comma 1, comporta l'iscrizione in appositi registri, istituiti e tenuti presso i Consigli provinciali ed il Consiglio nazionale degli architetti, pianificatori, paesaggisti e conservatori, con oneri a carico degli ordini.
 
@@ -122,6 +321,45 @@ Gli ordini possono attivare corsi, con oneri a carico degli interessati, per for
 ## Art. 11. — (( (Norme transitorie) ))
 
 ((
+
+1.
+                        
+                            
+                                Sono riconosciuti, ai fini dell'accesso alle attivita' disciplinate dal presente decreto e del loro esercizio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i diplomi, certificati e altri titoli rilasciati dagli altri Stati membri dell'Unione europea fino al 5 agosto 1985 ed elencati nell'allegato A; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i diplomi, i certificati e gli altri titoli elencati nell'allegato A e rilasciati dai rispettivi Stati membri dell'Unione europea a coloro che abbiano iniziato la relativa formazione al massimo durante il terzo anno accademico successivo al 5 agosto 1985; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli attestati, rilasciati negli altri Stati membri dell'Unione europea, sulla base di disposizioni anteriori al 5 agosto 1985, da cui risulti che il titolare e' stato autorizzato, prima del 5 agosto 1987, a far uso del titolo di architetto ed ha effettivamente svolto, per almeno tre anni consecutivi, nel corso dei cinque anni precedenti il rilascio dell'attestato, le attivita' relative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli attestati, rilasciati negli altri Stati membri dell'Unione europea, sulla base di disposizioni emanate nel periodo tra il 5 agosto 1985 e il 5 agosto 1987, da cui risulti che il titolare e' stato autorizzato, entro tale ultima data, a far uso del titolo di architetto ed ha effettivamente svolto, per almeno tre anni consecutivi, nel corso dei cinque anni precedenti il rilascio dell'attestato, le attivita' relative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli attestati rilasciati dalle autorita' competenti della Repubblica Federale di Germania che sanzionano la relativa equivalenza dei titoli di formazione rilasciati, a decorrere dall'8 maggio 1945, dalle autorita' competenti della Repubblica democratica tedesca, con i titoli elencati all'allegato A.
 
 ))
 

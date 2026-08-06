@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2023-04-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,9 +37,129 @@ Le disposizioni del presente regolamento non si applicano ai progetti sottoposti
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    autorizzazione unica ambientale: il provvedimento rilasciato dallo sportello unico per le attivita' produttive, che sostituisce gli atti di comunicazione, notifica ed autorizzazione in materia ambientale di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    autorita' competente: la Provincia o la diversa autorita' indicata dalla normativa regionale quale competente ai fini del rilascio, rinnovo e aggiornamento dell'autorizzazione unica ambientale, che confluisce nel provvedimento conclusivo del procedimento adottato dallo sportello unico per le attivita' produttive, ai sensi dell'articolo 7 del decreto del Presidente della Repubblica 7 settembre 2010, n. 160, ovvero nella determinazione motivata di cui all'articolo 14-ter, comma 6-bis, della legge 7 agosto 1990, n. 241; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soggetti competenti in materia ambientale: le pubbliche amministrazioni e gli enti pubblici che, in base alla normativa vigente, intervengono nei procedimenti sostituiti dall'autorizzazione unica ambientale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestore: la persona fisica o giuridica che ha potere decisionale circa l'installazione o l'esercizio dello stabilimento e che e' responsabile dell'applicazione dei limiti e delle prescrizioni disciplinate dal decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sportello unico per le attivita' produttive (SUAP): l'unico punto di accesso per il richiedente in relazione a tutte le vicende amministrative riguardanti la sua attivita' produttiva, che fornisce una risposta unica e tempestiva in luogo di tutte le pubbliche amministrazioni, comunque coinvolte nel procedimento, ai sensi del decreto del Presidente della Repubblica 7 settembre 2010, n. 160; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    modifica: ogni variazione al progetto, gia' autorizzato, realizzato o in fase di realizzazione o dell'impianto, che possa produrre effetti sull'ambiente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    modifica sostanziale di un impianto: ogni modifica considerata sostanziale ai sensi delle normative di settore che disciplinano gli atti di comunicazione, notifica e autorizzazione in materia ambientale compresi nell'autorizzazione unica ambientale in quanto possa produrre effetti negativi e significativi sull'ambiente.
+
 ## - Capo II Autorizzazione unica ambientale
 
 ## Art. 3. — Autorizzazione unica ambientale
+
+1.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 7, comma 1, i gestori degli impianti di cui all'articolo 1 presentano domanda di autorizzazione unica ambientale nel caso in cui siano assoggettati, ai sensi della normativa vigente, al rilascio, alla formazione, al rinnovo o all'aggiornamento di almeno uno dei seguenti titoli abilitativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    autorizzazione agli scarichi di cui al capo II del titolo IV della sezione II della Parte terza del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicazione preventiva di cui all'articolo 112 del decreto legislativo 3 aprile 2006, n. 152, per l'utilizzazione agronomica degli effluenti di allevamento, delle acque di vegetazione dei frantoi oleari e delle acque reflue provenienti dalle aziende ivi previste; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autorizzazione alle emissioni in atmosfera per gli stabilimenti di cui all'articolo 269 del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    autorizzazione generale di cui all'articolo 272 del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comunicazione o nulla osta di cui all'articolo 8, commi 4 o comma 6, della legge 26 ottobre 1995, n. 447; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    autorizzazione all'utilizzo dei fanghi derivanti dal processo di depurazione in agricoltura di cui all'articolo 9 del decreto legislativo 27 gennaio 1992, n. 99; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    comunicazioni in materia di rifiuti di cui agli articoli 215 e 216 del decreto legislativo 3 aprile 2006, n. 152. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    autorizzazione di cui all'articolo 26 del decreto legislativo 31 luglio 2020, n. 101; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    notifica di pratica di cui all'articolo 24 del decreto legislativo 31 luglio 2020, n. 101.
 
 Nel rispetto della disciplina comunitaria e nazionale vigente in materia, le regioni e le province autonome di Trento e di Bolzano possono individuare ulteriori atti di comunicazione, notifica ed autorizzazione in materia ambientale che possono essere compresi nell'autorizzazione unica ambientale. (2)
 
@@ -86,6 +206,24 @@ E' consentito far riferimento alla documentazione eventualmente gia' in possesso
 L'autorita' competente si esprime sulla domanda di rinnovo secondo la procedura prevista dall'articolo
 
 4. Per le attivita' e gli impianti per cui le istanze di rinnovo sono presentate nei termini di cui al comma 1, nelle more dell'adozione del provvedimento di rinnovo, fatta salva diversa previsione contenuta nella specifica normativa di settore, l'esercizio dell'attivita' o dell'impianto puo' continuare sulla base della precedente autorizzazione.
+
+5.
+                        
+                            
+                                L'autorita' competente puo' comunque imporre il rinnovo dell'autorizzazione, o la revisione delle prescrizioni contenute nell'autorizzazione stessa, prima della scadenza quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le prescrizioni stabilite nella stessa impediscano o pregiudichino il conseguimento degli obiettivi di qualita' ambientale stabiliti dagli strumenti di pianificazione e programmazione di settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nuove disposizioni legislative comunitarie, statali o regionali lo esigono.
 
 ## Art. 6. — Modifiche
 
@@ -136,6 +274,36 @@ Decorsi inutilmente i termini per la conclusione dei procedimenti previsti dal p
 Dalla data di entrata in vigore del presente decreto, i poteri sostitutivi gia' attribuiti al Ministro dell'ambiente e della tutela del territorio e del mare per la conclusione dei procedimenti di cui all'articolo 269, comma 3, e per la prosecuzione dell'esercizio degli stabilimenti di cui all'articolo 281, comma 1, del decreto legislativo 3 aprile 2006, n. 152, sono attribuiti al soggetto responsabile dei poteri sostitutivi di cui all'articolo 2, comma 9-bis, della legge 7 agosto 1990, n. 241, che li esercita con le modalita' e nei termini dei commi 9-ter, 9-quater e 9-quinquies del medesimo articolo.
 
 Per la prosecuzione dell'esercizio degli stabilimenti di cui all'articolo 281, commi 1 e 3, del decreto legislativo 3 aprile 2006, n. 152, in caso di mancata pronuncia entro i termini previsti, l'esercizio degli stessi puo' essere proseguito fino alla scadenza del termine previsto per la pronuncia del soggetto di cui all'articolo 2, comma 9-bis, della legge 7 agosto 1990, n. 241, a cui sia stato richiesto di provvedere ai sensi dell'articolo 269.
+
+4.
+                        
+                            
+                                Dalla data di entrata in vigore del presente regolamento al decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 269, comma 3, il quarto periodo e' abrogato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 272, comma 2, il quarto e sesto periodo sono abrogati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 281: 
+ 1) al comma 1 le parole: «; in caso di mancata pronuncia entro i termini previsti l'esercizio puo' essere proseguito fino alla scadenza del termine previsto per la pronuncia del Ministro dell'ambiente e della tutela del territorio e del mare a cui sia stato richiesto di provvedere ai sensi dell'articolo 269» sono abrogate; 
+ 2) al comma 3 le parole: «; in caso di mancata pronuncia entro i termini previsti l'esercizio puo' essere proseguito fino alla scadenza del termine previsto per la pronuncia del Ministro dell'ambiente e della tutela del territorio e del mare a cui sia stato richiesto di provvedere ai sensi dell'articolo 269» sono abrogate; 
+ 3) al comma 4 il secondo periodo e' abrogato; 
+ 4) il comma 8 e' abrogato; 
+ 5) il comma 11 e' abrogato.
 
 ## Art. 12. — Clausola d'invarianza finanziaria
 

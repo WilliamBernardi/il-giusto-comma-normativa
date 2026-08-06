@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2000-08-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,9 +36,122 @@ Nel quadro della programmazione dell'offerta formativa e delle attivita' di orie
 
 Il Dipartimento di cui al comma 4, lettera c), svolge funzioni di supporto in ordine alla programmazione degli accessi, all'informazione agli studenti, alle attivita' di orientamento, svolte dalle universita', nonche' alle preiscrizioni di cui all'articolo 3.
 
+4.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per Ministro, il Ministro dell'universita' e della ricerca scientifica e tecnologica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Ministero, il Ministero dell'universita' e della ricerca scientifica e tecnologica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per Dipartimento, il Dipartimento per l'autonomia universitaria e gli studenti, di cui al decreto del Presidente della Repubblica 6 settembre 1996, n. 522, articolo 3, comma 1, lettera a) e comma 2;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per Osservatorio, l'Osservatorio per la valutazione del sistema universitario, di cui alla legge 24 dicembre 1993, n. 537, articolo 5, comma 23;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per studenti, gli iscritti ai corsi universitari di cui alla lettera g);
+
+                            
+                        
+                        
+                            f)
+                            
+                                per universita' o ateneo, le universita' e gli istituti di istruzione universitaria o di grado universitario statali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per corsi universitari, i corsi attivati per il rilascio dei titoli di cui alla legge 19 novembre 1990, n. 341, articolo 1, lettere a), b) e c), e articolo 7.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e' sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Programmazione e informazione
 
+1.
+                    
+                        
+                            Entro il 28 febbraio di ogni anno il Ministro sentito l'Osservatorio, definisce e aggiorna, con proprio decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                i criteri di riferimento, utilizzabili dalle universita', per l'attivazione di forme diversificate di iscrizione e di frequenza degli studenti, a tempo pieno e a tempo parziale, in relazione a tutte le tipologie dei corsi universitari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le procedure e i parametri standard per la determinazione della disponibilita' di posti per studenti da parte delle universita' ove si svolgono corsi universitari ad accesso limitato, nonche' delle condizioni di offerta formativa ottimale nelle universita'.
+
 Entro il 31 gennaio di ogni anno l'Osservatorio, nell'ambito delle attivita' di cui alla legge 24 dicembre 1993, n. 537, articolo 5, comma 23, redige e aggiorna un rapporto sullo stato delle universita' italiane in relazione alle dotazioni di strutture, attrezzature e personale universitario, nonche' alle provvidenze e ai servizi offerti agli studenti.
+
+3.
+                    
+                        
+                            Il Dipartimento e le universita', anche sulla base di intese con il Ministero della pubblica istruzione e le sue strutture periferiche, nonche' con le regioni e gli enti locali, realizzano una campagna informativa presso gli istituti e le scuole di istruzione secondaria superiore e sui mezzi di comunicazione di massa finalizzata alla diffusione della conoscenza:
+ 
+                        
+                        
+                            a)
+                            
+                                dei decreti di cui al comma 1 e del rapporto di cui al comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle modalita' delle preiscrizioni di cui all'articolo 3, commi 1 e 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle attivita' di cui all'articolo 3, comma 3;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dei corsi ad accesso limitato, della determinazione e ripartizione dei posti tra le universita' e delle modalita' di ammissione di cui agli articoli 4 e 5;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dei contenuti generali dei corsi universitari e dei prevedibili sbocchi professionali.
 
 Le universita', in attesa dell'emanazione dei decreti di cui al comma 1, lettera a), possono sperimentare dall'anno accademico 1997 - 1998 forme diversificate di frequenza degli studenti, a tempo pieno e a tempo parziale.
 
@@ -53,7 +166,78 @@ Tali attivita' si concludono con una valutazione finale, non condizionante l'isc
 
 ## Art. 4. — Corsi ad accesso limitato
 
+1.
+                    
+                        
+                            In attesa delle norme di attuazione dell'autonomia didattica degli atenei, di cui alla legge 15 maggio 1997, n. 127, articolo 17, comma 95, costituiscono criteri generali da valutarsi per le determinazioni di limitazione degli accessi all'istruzione universitaria:
+ 
+                        
+                        
+                            a)
+                            
+                                la sussistenza di requisiti qualitativi necessari per lo svolgimento dei corsi, connessi alla disponibilita' di strutture, attrezzature e docenti, con particolare riferimento alla normativa comunitaria vigente e alle raccomandazioni dell'Unione europea in tema di standard formativi e di accesso alle professioni, nonche' alla necessita' di attivita' teorico - pratiche;
 
+                            
+                        
+                        
+                            b)
+                            
+                                il verificarsi di una documentata impossibilita' di inizio o prosecuzione di corsi universitari a causa di eccezionali carenze di strutture, attrezzature e docenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'obbligo di tirocinio previsto da specifici ordinamenti didattici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il carattere specialistico e direttamente professionalizzante di determinati corsi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le esigenze connesse alla fase di avvio di nuovi corsi e alla sperimentazione di corsi a cattere innovativo, finalizzati all'ampliamento dell'offerta formativa.
+
+2.
+                    
+                        
+                            In applicazione dei criteri di cui al comma 1, e' limitato l'accesso ai seguenti corsi universitari:
+ 
+                        
+                        
+                            a)
+                            
+                                corsi di diploma e di laurea afferenti alle facolta' di medicina e chirurgia e veterinaria (( . . . ));
+
+                            
+                        
+                        
+                            b)
+                            
+                                corsi di diploma e di laurea afferenti alle facolta' di architettura (( . . . ));
+
+                            
+                        
+                        
+                            d)
+                            
+                                corsi di diploma universitario il cui ordinamento didattico prevede l'obbligo di tirocinio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                corsi di specializzazione.
+
+(( COMMA SOPPRESSO DAL DECRETO 8 GIUGNO 1999, N. 235)).
 
 ((
 

@@ -8,8 +8,8 @@ codice_redazionale: 097G0413
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,24 @@ In caso di ridistillazione o di rettifica, in regime sospensivo, di alcole etili
 
 In caso di rilavorazione della birra promiscuamente con semilavorati o con prodotto non ancora accertato si applicano le disposizioni di cui all'articolo 1, comma 3.
 
+3.
+                    
+                        
+                            Per l'impiego, in regime sospensivo, di alcole etilico, compreso quello contenuto negli aromi, nella preparazione di liquori, di acquaviti e di frutta allo spirito l'abbuono di cui all'articolo 4, comma 2, del testo unico si applica sulle deficienze riscontrate in sede di inventario, purche' non superino le seguenti misure, riferite al periodo preso a base per l'inventario:
+ 
+                        
+                        
+                            a)
+                            
+                                2,5 per cento dell'alcole impiegato, per le perdite connesse alle operazioni di trasformazione e preparazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le percentuali previste dalla normativa doganale, per i cali naturali relativi al periodo di trasformazione, preparazione e giacenza e per i cali tecnici relativi alle operazioni semplici di condizionamento.
+
 Quando la deficienza riscontrata e' inferiore al calo complessivamente ammissibile, la differenza, fino al limite determinato applicando la percentuale stabilita nel comma 3, lettera a), eventualmente aumentata ai sensi del comma 5, all'alcole contenuto nei prodotti in corso di lavorazione al momento dell'effettuazione dell'inventario, va ad incrementare il calo ammissibile relativo all'inventario successivo.
 
 Le disposizioni di cui ai commi 3 e 4 si applicano anche all'alcole impiegato in regime sospensivo nella preparazione di prodotti destinati ad usi esenti o all'esportazione.
@@ -45,6 +63,31 @@ Le disposizioni di cui ai commi 3 e 4 si applicano anche all'alcole impiegato in
 A richiesta dell'operatore puo' essere riconosciuta dall'UTF o dalla dogana, per le lavorazioni successive alla richiesta medesima, un calo superiore a quello previsto dal comma 3, lettera a), sulla base di esperimenti eseguiti dall'UTF. La medesima procedura di determinazione del calo mediante esperimenti si applica anche nel caso di impiego in regime sospensivo di prodotti alcolici diversi dal'alcole etilico e dagli aromi, di fabbricazione di prodotti diversi da quelli dei commi 3 e 7, o quando nell'opificio venga introdotto, per il completamento della lavorazione, alcole contenuto in prodotti provenienti da altri opifici. Resta ferma la facolta' dell'UTF di eseguire riscontri, mediante esperimenti, per verificare la congruita' delle perdite, anche se contenute nei limiti previsti dai commi 3 e 7; per i depositi sotto il controllo della dogana tali esperimenti vengono effettuati su richiesta della dogana medesima.
 
 Le disposizioni dei commi 3, 4, 5 e 6 si applicano anche per la preparazione degli aromi, in regime sospensivo, sostituendo alla percentuale indicata nel comma 3, lettera a), quella del 7 per cento.
+
+8.
+                    
+                        
+                            I fabbricanti dei prodotti di cui ai commi 3, 6 e 7 tengono, secondo modalita' stabilite dall'amministrazione finanziaria, registrazioni contabili, relativamente:
+ 
+                        
+                        
+                            a)
+                            
+                                al magazzino dell'alcole da impiegare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'opificio di trasformazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al magazzino del prodotto condizionato.
 
 Per la scritturazione e la conservazione dei registri utilizzati per le contabilizzazioni di cui al comma 8 si seguono le disposizioni di cui all'articolo 12 del decreto del Ministro delle finanze 9 luglio 1996, n. 524.
 

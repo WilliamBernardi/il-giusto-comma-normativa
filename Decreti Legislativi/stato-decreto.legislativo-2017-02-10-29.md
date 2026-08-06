@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-09-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -141,6 +141,24 @@ Autorita' competente per l'irrogazione delle sanzioni
 Il rapporto relativo all'accertamento delle violazioni sanzionate dal presente decreto e' presentato, ai fini dell'irrogazione delle sanzioni, all'autorita' amministrativa competente ai sensi delle leggi regionali.
 
 ## Art. 13. — Modifiche al decreto del Presidente della Repubblica del 23 agosto 1982, n. 777
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica n. 777 del 1982 e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 2; 4, commi 1, 2, 3, 4, 6, 7 e 8; 5-ter e 7 sono abrogati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 6, le parole «di cui al precedente articolo 2» sono sostituite dalle seguenti: «di cui all'articolo 3 del regolamento (CE) n. 1935/2004».
 
 ## Art. 14. — Norme applicabili al procedimento sanzionatorio
 

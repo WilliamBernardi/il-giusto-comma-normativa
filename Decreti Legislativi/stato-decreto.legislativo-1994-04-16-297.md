@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -92,6 +92,39 @@ Il consiglio di intersezione nella scuola materna, il consiglio di interclasse n
 
 Gli insegnanti tecnico-pratici, anche quando il loro insegnamento si svolge in compresenza, fanno parte, a pieno titolo e con pienezza di voto deliberativo, del consiglio di classe. Le proposte di voto per le valutazioni periodiche e finali relative alle materie il cui insegnamento e' svolto in compresenza sono autonomamente formulate, per gli ambiti di rispettiva competenza didattica, dal singolo docente, sentito l'altro insegnante. Il voto unico viene assegnato dal consiglio di classe sulla base delle proposte formulate, nonche' degli elementi di giudizio forniti dai due docenti interessati.
 
+2.
+                        
+                            
+                                Fanno parte, altresi', del consiglio di intersezione, di interclasse o di classe. 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella scuola materna e nella scuola elementare, per ciascuna delle sezioni o delle classi interessate un rappresentante eletto dai genitori degli alunni iscritti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella scuola media, quattro rappresentanti eletti dai genitori degli alunni iscritti alla classe; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella scuola secondaria superiore, due rappresentanti eletti dai genitori degli alunni iscritti alla classe, nonche' due rappresentanti degli studenti, eletti dagli studenti della classe; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 29 OTTOBRE 2012, N. 263 COME MODIFICATO DALL'AVVISO DI RETTIFICA IN G.U. 3/5/2013, N.102)).
+
 Nella scuola dell'obbligo alle riunioni del consiglio di classe e di interclasse puo' partecipare, qualora non faccia gia' parte del consiglio stesso, un rappresentante dei genitori degli alunni iscritti alla classe o alle classi interessate, figli di lavoratori stranieri residenti in Italia che abbiano la cittadinanza di uno dei Paesi membri della comunita' europea.
 
 Del consiglio di classe fanno parte a titolo consultivo anche gli assistenti addetti alle esercitazioni di laboratorio che coadiuvano i docenti delle corrispondenti materie tecniche e scientifiche, negli istituti tecnici, negli istituti professionali e nei licei. Le proposte di voto per le valutazioni periodiche e finali sono formulate dai docenti di materie tecniche e scientifiche, sentiti gli assistenti coadiutori.
@@ -122,6 +155,122 @@ Gli specialisti che operano in modo continuativo sul piano medico, socio-psico-p
 ## Art. 7. — Collegio dei docenti
 
 Il collegio dei docenti e' composto dal personale docente di ruolo e non di ruolo in servizio nel circolo o nell'istituto, ed e' presieduto dal direttore didattico o dal preside. Fanno altresi' parte del collegio dei docenti i docenti di sostegno che ai sensi del successivo articolo 315, comma 5, assumono la contitolarita' di classi del circolo o istituto. Nelle ipotesi di piu' istituti o scuole di istruzione secondaria superiore di diverso ordine e tipo aggregati, ogni istituto o scuola aggregata mantiene un proprio collegio dei docenti per le competenze di cui al comma 2.
+
+2.
+                        
+                            
+                                Il collegio dei docenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha potere deliberante in materia di funzionamento didattico del circolo o dell'istituto. In particolare cura la programmazione dell'azione educativa anche al fine di adeguare, nell'ambito degli ordinamenti della scuola stabiliti dallo Stato, i programmi di insegnamento alle specifiche esigenze ambientali e di favorire il coordinamento interdisciplinare. Esso esercita tale potere nel rispetto della liberta' di insegnamento garantita a ciascun docente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formula proposte al direttore didattico o al preside per la formazione, la composizione delle classi e l'assegnazione ad esse dei docenti, per la formulazione dell'orario delle lezioni e per lo svolgimento delle altre attivita' scolastiche, tenuto conto dei criteri generali indicati dal consiglio di circolo o d'istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delibera, ai fini della valutazione degli alunni e unitamente per tutte le classi, la suddivisione dell'anno scolastico in due o tre periodi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valuta periodicamente l'andamento complessivo dell' azione didattica per verificarne l'efficacia in rapporto agli orientamenti e agli obiettivi programmati, proponendo, ove necessario, opportune misure per il miglioramento dell'attivita' scolastica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    provvede all'adozione dei libri di testo, sentiti i consigli di interclasse o di classe e, nei limiti delle disponibilita' finanziarie indicate dal consiglio di circolo o di istituto, alla scelta dei sussidi didattici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adotta o promuove nell'ambito delle proprie competenze iniziative di sperimentazione in conformita' degli articoli 276 e seguenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    promuove iniziative di aggiornamento dei docenti del circolo o dell'istituto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    elegge, in numero di uno nelle scuole fino a 200 alunni, di due nelle scuole fino a 500 alunni, di tre nelle scuole fino a 900 alunni, e di quattro nelle scuole con piu' di 900 alunni, i docenti incaricati di collaborare col direttore didattico o col preside; uno degli eletti sostituisce il direttore didattico o preside in caso di assenza o impedimento. Nelle scuole di cui all'articolo 6, le cui sezioni o classi siano tutte finalizzate all'istruzione ed educazione di minori portatori di handicap anche nei casi in cui il numero degli alunni del circolo o istituto sia inferiore a duecento il collegio dei docenti elegge due docenti incaricati di collaborare col direttore didattico o preside; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    elegge i suoi rappresentanti nel consiglio di circolo o di istituto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    elegge, nel suo seno, i docenti che fanno parte del comitato per la valutazione del servizio del personale docente; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    programma ed attua le iniziative per il sostegno degli alunni portatori di handicap; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    nelle scuole dell'obbligo che accolgono alunni figli di lavoratori stranieri residenti in Italia e di lavoratori italiani emigrati adotta le iniziative previste dagli articoli 115 e 116; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    esamina, allo scopo di individuare i mezzi per ogni possibile recupero, i casi di scarso profitto o di irregolare comportamento degli alunni, su iniziativa dei docenti della rispettiva classe e sentiti gli specialisti che operano in modo continuativo nella scuola con compiti medico, socio-psico-pedagogici e di orientamento; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    esprime al direttore didattico o al preside parere in ordine alla sospensione dal servizio e alla sospensione cautelare del personale docente quando ricorrano ragioni di particolare urgenza ai sensi degli articoli 468 e 506; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    esprime parere, per gli aspetti didattici, in ordine alle iniziative dirette alla educazione della salute e alla prevenzione delle tossicodipendenze previste dall'articolo 106 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990 n. 309; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    si pronuncia su ogni altro argomento attribuito dal presente testo unico, dalle leggi e dai regolamenti, alla sua competenza.
 
 Nell'adottare le proprie deliberazioni il collegio dei docenti tiene conto delle eventuali proposte e pareri dei consigli di intersezione, di interclasse o di classe.
 
@@ -167,6 +316,66 @@ Il consiglio di circolo o di istituto elabora e adotta gli indirizzi generali e 
 
 Esso delibera il bilancio preventivo e il conto consuntivo e dispone in ordine all'impiego dei mezzi finanziari per quanto concerne il funzionamento amministrativo e didattico del circolo o dell'istituto.
 
+3.
+                        
+                            
+                                Il consiglio di circolo o di istituto, fatte salve le competenze del collegio dei docenti e dei consigli di intersezione, di interclasse, e di classe, ha potere deliberante, su proposta della giunta, per quanto concerne l'organizzazione e la programmazione della vita e dell'attivita' della scuola, nei limiti delle disponibilita' di bilancio, nelle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adozione del regolamento interno del circolo o dell' istituto che deve fra l'altro, stabilire le modalita' per il funzionamento della biblioteca e per l'uso delle attrezzature culturali, didattiche e sportive, per la vigilanza degli alunni durante l'ingresso e la permanenza nella scuola nonche' durante l'uscita dalla medesima, per la partecipazione del pubblico alle sedute del consiglio ai sensi dell'articolo 42; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquisto, rinnovo e conservazione delle attrezzature tecnico-scientifiche e dei sussidi didattici, compresi quelli audio-televisivi e le dotazioni librarie, e acquisto dei materiali di consumo occorrenti per le esercitazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adattamento del calendario scolastico alle specifiche esigenze ambientali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    criteri generali per la programmazione educativa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    criteri per la programmazione e l'attuazione delle attivita' parascolastiche, interscolastiche, extrascolastiche, con particolare riguardo ai corsi di recupero e di sostegno, alle libere attivita' complementari, alle visite guidate e ai viaggi di istruzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promozione di contatti con altre scuole o istituti al fine di realizzare scambi di informazioni e di esperienze e di intraprendere eventuali iniziative di collaborazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    partecipazione del circolo o dell'istituto ad attivita' culturali, sportive e ricreative di particolare interesse educativo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    forme e modalita' per lo svolgimento di iniziative assistenziali che possono essere assunte dal circolo o dall' istituto.
+
 Il consiglio di circolo o di istituto indica, altresi', i criteri generali relativi alla formazione delle classi, all' assegnazione ad esse dei singoli docenti, all'adattamento dell' orario delle lezioni e delle altre attivita' scolastiche alle condizioni ambientali e al coordinamento organizzativo dei consigli di intersezione, di interclasse o di classe; esprime parere sull' andamento generale, didattico ed amministrativo, del circolo o dell'istituto, e stabilisce i criteri per l'espletamento dei servizi amministrativi.
 
 Esercita le funzioni in materia di sperimentazione ed aggiornamento previste dagli articoli 276 e seguenti.
@@ -190,6 +399,56 @@ Contro le decisioni in materia disciplinare della giunta esecutiva e' ammesso ri
 ((
 
 Presso ogni istituzione scolastica ed educativa e' istituito, senza nuovi o maggiori oneri per la finanza pubblica, il comitato per la valutazione dei docenti.
+
+2.
+                        
+                            
+                                Il comitato ha durata di tre anni scolastici, e' presieduto dal dirigente scolastico ed e' costituito dai seguenti componenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre docenti dell'istituzione scolastica, di cui due scelti dal collegio dei docenti e uno dal consiglio di istituto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due rappresentanti dei genitori, per la scuola dell'infanzia e per il primo ciclo di istruzione; un rappresentante degli studenti e un rappresentante dei genitori, per il secondo ciclo di istruzione, scelti dal consiglio di istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un componente esterno individuato dall'ufficio scolastico regionale tra docenti, dirigenti scolastici e dirigenti tecnici.
+
+3.
+                        
+                            
+                                Il comitato individua i criteri per la valorizzazione dei docenti sulla base: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della qualita' dell'insegnamento e del contributo al miglioramento dell'istituzione scolastica, nonche' del successo formativo e scolastico degli studenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei risultati ottenuti dal docente o dal gruppo di docenti in relazione al potenziamento delle competenze degli alunni e dell'innovazione didattica e metodologica, nonche' della collaborazione alla ricerca didattica, alla documentazione e alla diffusione di buone pratiche didattiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle responsabilita' assunte nel coordinamento organizzativo e didattico e nella formazione del personale.
 
 Il comitato esprime altresi' il proprio parere sul superamento del periodo di formazione e di prova per il personale docente ed educativo. A tal fine il comitato e' composto dal dirigente scolastico, che lo presiede, dai docenti di cui al comma 2, lettera a), ed e' integrato dal docente a cui sono affidate le funzioni di tutor.
 
@@ -280,7 +539,159 @@ All'assemblea di sezione, di classe o di istituto possono partecipare con diritt
 
 Il consiglio scolastico provinciale comprende nell'ambito della sua competenza le scuole materne, elementari, medie e secondarie superiori della provincia.
 
+2.
+                        
+                            
+                                Il numero complessivo dei componenti del consiglio scolastico provinciale e' determinato come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in proporzione alla popolazione scolastica della provincia: 12, 16, 20 seggi quando il numero degli alunni iscritti alle scuole statali, pareggiate, parificate e legalmente riconosciute indicate nel comma 1 sia rispettivamente non superiore a 100.000 compreso fra 100.001 e 300.000, superiore a 300.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in proporzione al numero delle unita' scolastiche delle scuole di cui alla precedente lettera a) comprese nella provincia: 12, 16, 20 seggi quando il numero delle unita' scolastiche sia rispettivamente non superiore a 100, compreso fra 101 e 300, superiore a 300; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in proporzione al numero degli appartenenti al personale direttivo e docente delle scuole di cui alla precedente lettera a) e al personale amministrativo, tecnico e ausiliario delle scuole medesime che siano statali: 12, 16, 20 seggi quando il suddetto personale sia rispettivamente in numero non superiore a 10.000, compreso fra 10.001 e 30.000, superiore a 30.000; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    6 altri componenti.
+
+3.
+                        
+                            
+                                Fanno parte del consiglio scolastico provinciale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il provveditore agli studi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rappresentanti del personale direttivo e docente di ruolo e non di ruolo delle scuole statali indicate nel comma 1, eletti dal corrispondente personale in servizio nelle suddette scuole; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i rappresentanti del personale amministrativo, tecnico ed ausiliario di ruolo e non di ruolo delle scuole statali indicate nel comma 1, eletti dal corrispondente personale in servizio nelle suddette scuole; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i rappresentanti del personale degli uffici dell' amministrazione scolastica periferica funzionanti nella provincia, eletti dal corrispondente personale in servizio nei suddetti uffici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i rappresentanti del personale direttivo e docente delle scuole pareggiate, parificate e legalmente riconosciute indicate nel comma 1, designati dal Ministro della pubblica istruzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i rappresentanti dei genitori degli alunni iscritti alle scuole statali pareggiate, parificate e legalmente riconosciute comprese nella provincia, eletti dai genitori dei suddetti alunni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    tre rappresentanti dei comuni della provincia, eletti dalle rappresentanze comunali dei consigli distrettuali della provincia in cui sono indette le elezioni: dei tre seggi disponibili, uno e' riservato alla minoranza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'assessore alla pubblica istruzione dell'amministrazione provinciale o, in sua rappresentanza, un consigliere provinciale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    un rappresentante del consiglio regionale, esclusa la regione Trentino-Alto Adige; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i rappresentanti del mondo dell'economia e del lavoro di cui al comma 7.
+
 La meta' dei seggi e' riservata ai rappresentanti del personale docente di ruolo e non di ruolo delle scuole statali indicate nel comma 1 e del personale docente delle scuole pareggiate, parificate e legalmente riconosciute indicate nel comma medesimo, rispettivamente in ragione del 90 per cento e del 10 per cento. I seggi sono ripartiti fra i docenti dei diversi ordini di scuola proporzionalmente alla loro consistenza numerica a livello provinciale. Le frazioni di unita' non inferiori a cinque decimi si arrotondano all'unita' successiva.
+
+5.
+                        
+                            
+                                Il residuo numero dei seggi, detratto il numero dei seggi riservato ai componenti di cui alle lettere a), g), h), ed i) del comma 3, e' attribuito secondo le seguenti proporzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il 20 per cento ai rappresentanti eletti del personale direttivo delle scuole statali in modo che sia garantita la presenza di un direttore didattico, di un preside di scuola media e di un preside di scuola secondaria superiore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il 10 per cento ai rappresentanti eletti del personale amministrativo, tecnico e ausiliario di ruolo e non di ruolo delle scuole statali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il 5 per cento ai rappresentanti eletti del personale degli uffici dell'amministrazione scolastica periferica funzionanti nella provincia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il 5 per cento dei rappresentanti del personale dirigente delle scuole pareggiate, parificate e legalmente riconosciute comprese nella provincia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il 25 per cento ai rappresentanti eletti dei genitori degli alunni iscritti alle scuole statali, pareggiate, parificate e legalmente riconosciute, comprese nella provincia, riservando almeno un posto ai genitori degli alunni delle scuole non statali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il 35 per cento ai rappresentanti del mondo dell' economia e del lavoro.
 
 Nella determinazione del numero dei quozienti le frazioni di unita' non inferiori a cinque decimi si arrotondano all'unita' successiva; e' comunque fatta salva la riserva di almeno il 50 per cento dei seggi a favore del personale docente.
 
@@ -334,6 +745,129 @@ AGGIORNAMENTO (26a)
 
 ## Art. 22. — Funzioni del consiglio scolastico provinciale
 
+1.
+                        
+                            
+                                Il consiglio scolastico provinciale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esprime pareri al provveditore agli studi e alla regione sui piani annuali e pluriennali di sviluppo e di distribuzione territoriale delle istituzioni scolastiche ed educative, indicandone le priorita', tenendo conto delle proposte dei consigli scolastici distrettuali della provincia; tali pareri sono vincolanti per le materie demandate alla competenza del provveditore agli studi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indica i criteri generali per il coordinamento a livello provinciale dei servizi di orientamento scolastico, di medicina scolastica e di assistenza psico-pedagogica, tenuto conto dei programmi formulati dai consigli scolastici distrettuali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    approva i piani provinciali istitutivi dei corsi di istruzione ed educazione degli adulti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    formula al Ministro della pubblica istruzione e alla regione proposte per il coordinamento delle iniziative in materia di adempimento dell'obbligo scolastico, di attuazione del diritto allo studio, nonche' di educazione permanente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accerta e indica il fabbisogno di edilizia scolastica per la formulazione dei relativi piani di finanziamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    determina i criteri generali per l'utilizzazione, al di fuori dell'orario scolastico, dei locali e delle attrezzature delle scuole ed esprime al provveditore agli studi parere in ordine al piano di utilizzazione degli edifici e locali scolastici disponibili; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esprime al provveditore agli studi pareri obbligatori sui ritardi di promozione, sulla decadenza e sulla dispensa dal servizio, sulla riammissione in servizio del personale docente della scuola materna, elementare e media; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    esprime al provveditore agli studi parere vincolante sui trasferimenti d'ufficio del personale docente della scuola materna, elementare e media per accertata situazione di incompatibilita' di permanenza nella scuola o nella sede; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    esprime al provveditore agli studi parere obbligatorio sulle proposte di ripartizione dei fondi destinati alle spese di funzionamento dei distretti scolastici, dei circoli didattici e degli istituti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    formula annualmente una relazione sull'andamento generale dell'attivita' scolastica e dei servizi scolastici della provincia, anche sulla base delle relazioni dei consigli scolastici distrettuali, dei consigli di circolo e di istituto e dell'amministrazione scolastica periferica; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    esprime parere sul piano predisposto dal provveditore agli studi al fine di favorire la realizzazione del nuovo ordinamento della scuola elementare e di garantire la necessaria disponibilita' di organico; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    esercita le competenze previste dall'articolo 105 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990 n. 309 in ordine all'organizzazione dei corsi di studio per i docenti sull'educazione sanitaria e sui danni derivanti ai giovani dall'uso delle sostanze stupefacenti o psicotrope, nonche' sul fenomeno criminoso nel suo insieme; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    compila gli elenchi del personale docente per la nomina nelle commissioni giudicatrici di concorsi come previsto dall' articolo 404, comma 4. 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    predispone programmi e forme di integrazione e sostegno a favore degli alunni sordomuti come previsto dall'articolo 323, comma 4. 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    esprime parere al provveditore agli studi in ordine ai ricorsi proposti contro le decisioni in materia disciplinare degli alunni, adottate dai consigli di classe e dalla giunta esecutiva degli istituti; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    provvede su ogni altro argomento devoluto alla sua competenza in merito alla organizzazione e al funzionamento della scuola e ad ogni altra attivita' ad essa connessa e si pronunzia su tutte le questioni che il provveditore agli studi ritenga di sottoporgli;. 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    si pronuncia su ogni altro argomento attribuito dal presente testo unico, dalle leggi e dai regolamenti, alla sua competenza.
+
 Il consiglio scolastico provinciale funziona unitariamente per le materie comuni a tutte le scuole e si articola, con regolamento interno, in sezioni verticali per singole materie e orizzontali per gradi di scuola, anche agli effetti dell'esame dei ricorsi relativi alle sanzioni disciplinari comminate agli alunni.
 
 La giunta esecutiva prepara i lavori del consiglio scolastico provinciale, fissa l'ordine del giorno e cura l'esecuzione delle delibere del consiglio stesso.
@@ -363,6 +897,87 @@ AGGIORNAMENTO (26a)
 Il Consiglio nazionale della pubblica istruzione, istituito a norma del decreto del Presidente della Repubblica 31 maggio 1974, n. 416, sostituisce le sezioni seconda e terza del consiglio superiore della pubblica istruzione, le sezioni quarta e quinta del consiglio superiore delle antichita' e belle arti per quanto concerne le materie scolastiche, e il consiglio di disciplina di cui all'articolo 18 della legge 30 dicembre 1947, n. 1477.
 
 Il Consiglio nazionale della pubblica istruzione e' formato da 74 componenti, secondo le proporzioni indicate nel comma successivo.
+
+3.
+                        
+                            
+                                Fanno parte del Consiglio nazionale della pubblica istruzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    47 rappresentanti del personale docente di ruolo e non di ruolo delle scuole statali di ogni ordine e grado, esclusa l'universita', eletti dal personale docente in servizio nelle predette scuole, cosi' ripartite: 4 per la scuola materna, 14 per la scuola elementare, 14 per la scuola media, 11 per gli istituti di istruzione secondaria superiore, 3 per le scuole di istruzione artistica, 1 per le scuole statali italiane all'estero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    3 rappresentanti del personale docente delle scuole pareggiate, parificate e legalmente riconosciute, designati dal Ministro della pubblica istruzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    3 rappresentanti degli ispettori tecnici, eletti dal corrispondente personale di ruolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    3 rappresentanti dei presidi, di cui uno di scuola media, 1 di istituto di istruzione secondaria superiore e 1 di scuole di istruzione artistica, eletti dal corrispondente personale di ruolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    2 rappresentanti dei direttori didattici, eletti dal corrispondente personale di ruolo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    1 rappresentante del personale dirigente delle scuole pareggiate, parificate e legalmente riconosciute, designato dal Ministro della pubblica istruzione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    3 rappresentanti del personale amministrativo, tecnico e ausiliario di ruolo e non di ruolo delle scuole statali, eletti dal personale corrispondente in servizio nelle predette scuole; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    5 rappresentanti del mondo dell'economia e del lavoro, designati dal Consiglio nazionale dell'economia e del lavoro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    2 rappresentanti del personale dell'amministrazione centrale e dell'amministrazione scolastica periferica, di cui uno appartenente a qualifica funzionale non inferiore alla settima, eletti dal personale di ruolo in servizio nei predetti uffici; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    2 rappresentanti del consiglio universitario nazionale, eletti nel suo seno; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    3 rappresentanti complessivi del personale docente, direttivo ed ispettivo, rispettivamente, uno per le scuole di lingua tedesca, uno per le scuole di lingua slovena ed uno per le scuole della Valle d'Aosta, eletti dal medesimo personale in servizio nelle predette scuole.
 
 Il Consiglio nazionale e' integrato da un rappresentante della provincia di Bolzano, ai sensi dell'articolo 9 del testo unificato dei decreti del Presidente della Repubblica 20 giugno 1973 n. 116 e 4 dicembre 1981 n. 761 approvato con decreto del Presidente della Repubblica 10 febbraio 1983, n. 89, quando e' chiamato ad esprimere il parere sul progetto della Provincia di modifica dei programmi di insegnamento e di esame.
 
@@ -397,6 +1012,38 @@ AGGIORNAMENTO (26a)
 Il Consiglio nazionale della pubblica istruzione e' presieduto dal Ministro della pubblica istruzione. Il consiglio elegge nel suo seno, a maggioranza assoluta dei suoi componenti, un vice presidente; 
 qualora nella prima votazione non si raggiunga la predetta maggioranza, il vicepresidente e' eletto a maggioranza relativa dei votanti.
 
+2.
+                        
+                            
+                                Il Consiglio nazionale elegge altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ufficio di presidenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il consiglio di disciplina per il personale ispettivo tecnico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il consiglio di disciplina per il personale direttivo delle scuole ed istituti statali di ogni ordine e grado; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il consiglio di disciplina per il personale docente di ruolo e non di ruolo degli istituti di istruzione secondaria superiore statali e degli istituti di istruzione artistica statali.
+
 L'ufficio di presidenza e' costituito da 7 consiglieri eletti dal consiglio nel suo seno.
 
 Il consiglio di disciplina per il personale ispettivo tecnico e' formato da 5 membri effettivi e da 5 supplenti, designati dal Consiglio nazionale tra il personale ispettivo tecnico in servizio. I 3 rappresentanti del predetto personale eletti nel consiglio nazionale sono di diritto membri effettivi del consiglio di disciplina.
@@ -430,6 +1077,101 @@ AGGIORNAMENTO (26a)
  Il D.Lgs 30 giugno 1999, n. 233 come modificato dal D.L 23 novembre 2001, n. 411,convertito con modificazioni dalla L. 31 dicembre 2001, n. 463 ha disposto (con l'art. 8,comma 2)che "Con effetto dalla costituzione dei nuovi organi collegiali locali e regionali e del Consiglio superiore della pubblica istruzione gli articoli contenuti nei capi II, III e IV, titolo I della parte I del testo unico approvato con decreto legislativo 16 aprile 1994, n. 297, concernenti i consigli scolastici distrettuali e provinciali e il Consiglio nazionale della pubblica istruzione sono sostituiti dalle disposizioni di cui agli articoli da 1 a 7 del presente decreto legislativo; sono abrogate tutte le ulteriori disposizioni contenute nel decreto legislativo 16 aprile 1994, n. 297, nelle quali si faccia riferimento a modalita' di elezione e di funzionamento e a competenze del Consiglio nazionale della pubblica istruzione, dei consigli scolastici provinciali e distrettuali incompatibili col presente decreto legislativo".
 
 ## Art. 25. — Funzioni del Consiglio nazionale della pubblica istruzione
+
+1.
+                        
+                            
+                                Il Consiglio nazionale della pubblica istruzione svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formula annualmente, sulla base delle relazioni dell' amministrazione scolastica, una valutazione analitica dell'andamento generale dell'attivita' scolastica e dei relativi servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formula proposte ed esprime pareri obbligatori in ordine alla promozione della sperimentazione e della innovazione sul piano nazionale e locale, e ne valuta i risultati, propone al Ministro della pubblica istruzione sei nominativi per la scelta dei tre componenti dei consigli direttivi di esperti degli istituti regionali di ricerca, sperimentazione ed aggiornamento educativi e del consiglio direttivo di esperti della biblioteca di documentazione pedagogica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprime, anche di propria iniziativa, pareri su proposte o disegni di legge e in genere in materia legislativa e normativa attinente alla pubblica istruzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprime pareri obbligatori: sui ritardi di promozione, sulla decadenza e sulla dispensa dal servizio, sulla riammissione in servizio del personale ispettivo e direttivo di ruolo delle scuole e istituti di ogni ordine e grado e del personale docente di ruolo della scuola secondaria superiore; sulla utilizzazione in compiti diversi del personale dichiarato inidoneo per motivi di salute; sulla restituzione ai ruoli di provenienza del personale direttivo nei casi di incapacita' o di persistente insufficiente rendimento attinente alla funzione direttiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esprime parere vincolante sui trasferimenti d'ufficio del personale direttivo e del personale docente di ruolo degli istituti di istruzione secondaria superiore, ivi compresi i licei artistici e gli istituti d'arte, per accertata situazione di incompatibilita' di permanenza nella scuola o nella sede; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esprime pareri obbligatori in ordine alle disposizioni di competenza del Ministro della pubblica istruzione in materia di concorsi, valutazione dei titoli e ripartizione dei posti di cui agli articoli 404, 416, 419, 422, 425 e 427 in materia di utilizzazioni di cui all'articolo 455, in materia di trasferimenti e passaggi di cui agli articoli 463 e 471 in materia di titoli valutabili e punteggi per il conferimento delle supplenze, al personale docente, in materia di concorsi e conferimento delle supplenze per il personale amministrativo, tecnico e ausilario, di cui agli articoli 553 e 581; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esprime i pareri obbligatori previsti dagli articoli 119 e seguenti in ordine all'ordinamento della scuola elementare; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    esprime il parere obbligatorio previsto dall'articolo 74, in materia di calendario scolastico; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    esercita le ulteriori funzioni consultive previste dall'articolo 391 in ordine al riconoscimento del diploma di baccelleriato internazionale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    esprime il parere obbligatorio sui piani e i programmi di formazione e le modalita' di verifica finale dei corsi di riconversione professionale del personale docente della scuola, anche ai fini del valore abilitante degli stessi corsi, ai sensi dell'articolo 473; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    esprime parere obbligatorio al Ministro della pubblica istruzione in materia di titoli valutabili e relativo punteggio per gli incarichi e le supplenze di insegnamento nei conservatori di musica, nelle accademie di belle arti, nell'accademia nazionale di danza e nell'accademia nazionale di arte drammatica, esclusi gli insegnamenti della regia e della recitazione, e in materia di criteri per la formazione della commissione centrale competente per la decisione dei ricorsi; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    si pronuncia su ogni altro argomento attribuito dal presente testo unico, dalle leggi e dai regolamenti alla sua competenza; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    si pronuncia sulle questioni che il Ministro della pubblica istruzione ritenga sottoporgli.
 
 Nei casi di questioni generali in materia di programmazione dello sviluppo della scuola e di contenuti culturali e didattici nonche' di riforma di struttura di uno degli ordini scolastici, il parere e' obbligatorio.
 
@@ -563,6 +1305,73 @@ Per le elezioni del personale direttivo nel Consiglio nazionale della pubblica i
 
 ## Art. 33. — Svolgimento delle elezioni
 
+1.
+                        
+                            
+                                Con ordinanza del Ministro della pubblica istruzione sono stabilite le modalita' per lo svolgimento delle elezioni, per la proclamazione degli eletti e per l'insediamento degli organi collegiali elettivi in applicazione del presente titolo, e, in particolare per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la formazione, a cura di ogni scuola, degli elenchi degli elettori divisi per categoria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'istituzione di commissioni elettorali a vari livelli con la partecipazione di persone facenti parte di tutte le categorie degli elettori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la costituzione dei seggi con la nomina dei presidenti, degli scrutatori e dei rappresentanti di lista, scelti tra le persone facenti parte di tutte le categorie degli elettori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo svolgimento della propaganda elettorale che, al fine di non turbare l'attivita' didattica, va fatta al di fuori delle ore di lezione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la formazione delle liste, e la predisposizione dei vari tipi di schede; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lo svolgimento dello scrutinio che, comunque, deve avvenire immediatamente dopo la chiusura delle operazioni di voto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la proclamazione degli eletti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la convocazione dell'organo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la presentazione di ricorsi con indicazione degli organi decidenti.
+
 Le elezioni delle rappresentanze nei singoli organi collegiali, distinte per ciascuna categoria rappresentata, sono effettuate, quando e' possibile, congiuntamente.
 
 Le votazioni si svolgono di norma in un giorno non lavorativo e in quello successivo secondo le modalita' da stabilirsi in base al comma 1.
@@ -653,6 +1462,52 @@ Si osservano inoltre le disposizioni in materia di accesso ai documenti amminist
 
 Presso ogni direzione didattica di scuola materna statale e' costituito il consiglio di circolo. Esso e' formato secondo le disposizioni di cui all'articolo 8.
 
+2.
+                        
+                            
+                                Il consiglio di circolo ha potere deliberante, oltre che per quanto riguarda l'approvazione del bilancio preventivo, del conto consuntivo e in ordine all'impiego dei mezzi finanziari per il funzionamento amministrativo e didattico del circolo, sui seguenti argomenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adozione del regolamento interno del circolo, che deve, fra l'altro, stabilire le modalita' per la vigilanza dei bambini durante l'ingresso e la permanenza nella scuola nonche' durante l'uscita dalla medesima; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determinazione dei criteri di attuazione degli orientamenti dell'attivita' educativa e per l'organizzazione dell'attivita' medesima; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisto, conservazione e rinnovo delle attrezzature e del materiale di gioco necessari al funzionamento del circolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le forme e le modalita' per lo svolgimento di iniziative assistenziali che possano essere assunte dal circolo, per l'opera di prevenzione sanitaria e per l'attivita' dell'assistenza sociale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promozione di contatti con altri circoli al fine di realizzare scambi di informazioni e di esperienze e di intraprendere eventuali iniziative di collaborazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    partecipazione del circolo ad attivita' ricreative e ludiche di particolare interesse educativo.
+
 Per quanto non e' previsto nel presente articolo si applica quanto disposto dall'articolo 10.
 
 ## Art. 45. — Comitato per la valutazione del servizio dei docenti di scuola materna
@@ -668,6 +1523,31 @@ Presso ogni direzione didattica di scuola materna statale e' istituito il colleg
 Per quanto non previsto dal presente articolo si applica quanto disposto dall'articolo 7.
 
 ## Art. 47. — Norma transitoria sugli organi collegiali della scuola materna
+
+1.
+                        
+                            
+                                Fino a quando non siano costituite le direzioni didattiche di scuola materna: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si estendono in quanto applicabili le norme del presente titolo sugli organi di gestione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il collegio dei docenti di scuola materna e il comitato per la valutazione del servizio vengono istituiti presso la direzione didattica della scuola elementare del circolo di appartenenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i docenti della scuola materna partecipano alle elezioni del consiglio di circolo della scuola elementare in cui prestano servizio. Ai rappresentanti del predetto personale sono riservati uno o due dei seggi da attribuire al personale docente a seconda che i componenti del consiglio di circolo siano rispettivamente 14 o 19.
 
 ## - Capo VIII NORME PARTICOLARI
 
@@ -804,9 +1684,98 @@ Con decreto del Ministro della pubblica istruzione di concerto con il Ministro d
 
 ## Art. 64. — Istituto statale "Augusto Romagnoli". Finalita'
 
+1.
+                        
+                            
+                                L'Istituto statale Augusto Romagnoli di specializzazione per gli educatori dei minorati della vista e' alle dirette dipendenze del Ministero della pubblica istruzione ed assolve i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    specializza gli educatori e i docenti per gli istituti e per le scuole dei minorati della vista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specializza gli educatori e i docenti per gli istituti e per le scuole per minorati psichici privi della vista; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettua e promuove ricerche, studi e pubblicazioni per il progresso educativo dei minorati della vista; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    presta opera di assistenza e consulenza tecnica in materia di istruzione ed educazione speciale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    organizza corsi speciali di aggiornamento e di perfezionamento per gli educatori dei minorati della vista; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promuove la ricerca e lo studio di materiale didattico e di apparecchi ad uso dei minorati della vista.
+
 ## Art. 65. — Convitto - scuole annesse - strutture
 
 All'istituto statale "Augusto Romagnoli" di specializzazione per gli educatori dei minorati della vista e' annesso, in forza di una convenzione da stipularsi tra il Ministero della pubblica istruzione e un istituto per ciechi dotato di personalita' giuridica, un convitto di educandi minorati della vista.
+
+2.
+                        
+                            
+                                Presso il predetto istituto statale funzionano, ai fini del tirocinio degli allievi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la scuola materna; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la scuola elementare con classi speciali per ambliopi e tardivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una scuola media per il compimento dell'obbligo scolastico.
+
+3.
+                        
+                            
+                                L'istituto dispone di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una biblioteca in caratteri Braille e in stampa comune; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un gabinetto per gli studi di psicologia.
 
 ## Art. 66. — Funzionamento. Ammissione. Personale
 
@@ -1057,6 +2026,31 @@ Gli edifici per le scuole materne statali possono essere annessi ad edifici per 
 
 ## Art. 86. — Principi fondamentali per l'esecuzione delle opere di edilizia scolastica
 
+1.
+                        
+                            
+                                Le regioni, comprese quelle a statuto speciale, emanano norme legislative per l'affidamento e l'esecuzione delle opere di edilizia scolastica, nei limiti dei principi fondamentali che seguono e di quelli stabiliti dalla legge quadro in materia di lavori pubblici 11 febbraio 1994, n. 109: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dovra' essere previsto che per l'esecuzione delle opere gli enti obbligati, province e comuni e consorzi costituiti tra tali enti, operino, ove possibile con piani organici, per incentivare i processi di industrializzazione edilizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dovranno essere previsti i tempi per l'acquisizione delle aree occorrenti da parte degli enti competenti e dovra' essere garantita l'osservanza delle norme tecniche di cui al successivo articolo 90, comma 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dovranno essere previsti i tempi per la progettazione, approvazione ed esecuzione delle opere, nonche' le procedure surrogatorie regionali per i casi di inadempienza.
+
 ## Art. 87. — Patrimonio indisponibile
 
 Le opere realizzate ai sensi dell'articolo 86 appartengono al patrimonio indisponibile degli enti competenti con destinazione ad uso scolastico e con i conseguenti oneri di manutenzione.
@@ -1068,6 +2062,38 @@ Per l'individuazione di aree da destinare all'edilizia scolastica, non conformi 
 In ogni caso vanno osservate le norme tecniche relative alla edilizia scolastica e agli indici minimi di funzionalita' didattica, edilizia e urbanistica stabiliti con il decreto di cui al comma 6 dell'articolo 90.
 
 ## Art. 89. — Edifici scolastici, palestre ed impianti sportivi
+
+1.
+                        
+                            
+                                I nuovi edifici scolastici, comprensivi di palestre e di impianti sportivi, devono essere distribuiti sul territorio e progettati in modo da realizzare un sistema a dimensioni e localizzazioni ottimali il quale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    configuri ogni edificio scolastico come struttura inserita in un contesto urbanistico e sociale che garantisca a tutti gli alunni di formarsi nelle migliori condizioni ambientali ed educative e, compatibilmente con la preminente attivita' didattica della scuola, consenta la fruibilita' dei servizi scolastici, educativi, culturali e sportivi da parte della comunita', secondo il concetto dell'educazione permanente e consenta anche la piena attuazione della partecipazione alla gestione della scuola; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    favorisca l'integrazione tra piu' scuole di uno stesso distretto scolastico, assicurando il coordinamento e la migliore utilizzazione delle attrezzature scolastiche e dei servizi, nonche' la interrelazione tra le diverse esperienze educative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consenta una facile accessibilita' alla scuola per le varie eta' scolari tenendo conto, in relazione ad esse, delle diverse possibilita' di trasporto e permetta la scelta tra i vari indirizzi di studi indipendentemente dalle condizioni economiche e sociali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    permetta la massima adattabilita' degli edifici scolastici per l'attuazione del tempo pieno e lo svolgimento delle attivita' integrative, in relazione al rinnovamento e aggiornamento delle attivita' didattiche o di ogni altra attivita' di tempo prolungato.
 
 Tutti gli edifici scolastici devono comprendere un'area per le esercitazioni all'aperto.
 
@@ -1281,6 +2307,24 @@ L'iscrizione effettuata ai sensi del presente articolo non e' soggetta a ratific
 
 L'assegnazione alle classi degli alunni iscritti ai sensi del presente articolo e' effettuata, ove possibile, raggruppando alunni dello stesso gruppo linguistico che, comunque, non devono superare il numero di cinque per ogni classe.
 
+5.
+                        
+                            
+                                Nelle scuole che accolgono gli alunni di cui al precedente comma 1, la programmazione educativa deve comprendere apposite attivita' di sostegno o di integrazione, in favore degli alunni medesimi, al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adattare l'insegnamento della lingua italiana e delle altre materie di studio alle loro specifiche esigenze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere l'insegnamento della lingua e della cultura del Paese d'origine coordinandolo con l'insegnamento delle materie obbligatorie comprese nel piano di studi.
+
 Per l'attuazione di quanto previsto nel precedente comma, si provvede secondo le disposizioni contenute nell'articolo 455.
 
 Alle riunioni del consiglio di classe e di interclasse, puo' partecipare, qualora non faccia gia' parte del consiglio stesso, un rappresentante dei genitori degli alunni medesimi.
@@ -1394,6 +2438,31 @@ AGGIORNAMENTO (39)
  Il D.Lgs. 19 febbraio 2004, n. 59 ha disposto (con l'art. 19,comma 4)che le disposizioni del presente articolo sono abrogate, a decorrere dall'anno scolastico successivo alla data di entrata in vigore del presente decreto 59/2004.
 
 ## Art. 130. — Progetti formativi di tempo lungo
+
+2.
+                        
+                            
+                                Le attivita' di tempo pieno, di cui all'articolo 1 della legge 24 settembre 1971, n. 820, potranno proseguire (( . . . )) alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che esistano le strutture necessarie e che siano effettivamente funzionanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che l'orario settimanale, ivi compreso il "tempo-mensa", sia stabilito in quaranta ore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che la programmazione didattica e l'articolazione delle discipline siano uniformate ai programmi vigenti e che l' organizzazione didattica preveda la suddivisione dei docenti per ambiti disciplinari come previsto dall'articolo 128. (39) (( 46 ))
 
 ------------------
                             AGGIORNAMENTO (39)
@@ -1698,6 +2767,24 @@ Nei riguardi di contravventori si provvede in via disciplinare.
 Ogni classe elementare, esclusa la prima, ha una biblioteca scolastica per uso degli alunni.
 
 Le dotazioni librarie e le modalita' per la gestione delle biblioteche di classe e della biblioteca di circolo sono stabilite ai sensi dell'articolo 10.
+
+3.
+                        
+                            
+                                Al mantenimento e all'incremento delle biblioteche di classe si provvede anche con: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sussidi delle provincie, dei comuni e di altri enti locali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con eventuali donazioni e lasciti privati.
 
 ## - Capo VI MANUTENZIONE E GESTIONE DEGLI EDIFICI SCOLASTICI
 
@@ -2275,6 +3362,38 @@ Dalla medesima data, nell'articolo 199 del predetto testo unico, si intendono es
 
 ## Art. 200. — Tasse scolastiche e casi di dispensa
 
+1.
+                        
+                            
+                                Negli istituti e scuole di istruzione secondaria superiore le tasse scolastiche sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tassa di iscrizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tassa di frequenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tassa per esami di idoneita', integrativi, di licenza, di qualifica, di maturita' e di abilitazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tassa di rilascio dei relativi diplomi.
+
 Gli importi per esse determinati dalla tabella E annessa alla legge 28 febbraio 1986, n. 41 (legge finanziaria 1986) sono adeguati, con decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro delle finanze, previa deliberazione del Consiglio dei Ministri, secondo le modalita' previste dall'articolo 7, comma 1, del decreto-legge 27 aprile 1990, n. 90, convertito con modificazioni dalla legge 26 giugno 1990, n. 165.
 
 A decorrere dalla data di entrata in vigore dei decreti legislativi da emanarsi ai sensi dell'articolo 4 della legge 24 dicembre 1993, n. 537, le tasse di iscrizione e di frequenza negli istituti e scuole di istruzione secondaria superiore, ivi compresi i licei artistici e gli istituti d'arte, e le tasse di esame e di diploma sono annualmente determinate con decreto del Ministro delle finanze, di concerto con i Ministri del tesoro e della pubblica istruzione. I relativi introiti sono acquisiti ai bilanci delle istituzioni scolastiche interessate per le esigenze di funzionamento, amministrativo e didattico.
@@ -2286,6 +3405,31 @@ Sono dispensati dal pagamento delle tasse scolastiche:
  gli studenti appartenenti a nuclei familiari con redditi complessivi non superiori ai limiti di cui all'articolo 28, comma 4, della legge 28 febbraio 1986, n. 41 (legge finanziaria 1986), limiti che, ai sensi dell'articolo 21, comma 9, della legge 11 marzo 1988, n. 67 (legge finanziaria 1988) sono rivalutati, a decorrere dall'anno 1988, in ragione del tasso di inflazione annuo programmato, con arrotondamento alle lire 1.000 superiori.
 
 Ai fini dell'individuazione del reddito di cui al comma 5 si tiene conto del solo reddito personale dello studente, se derivante dal rapporto di lavoro dipendente; in mancanza di reddito personale da lavoro dipendente, si tiene conto del reddito complessivo dei familiari tenuti all'obbligazione del mantenimento.
+
+7.
+                        
+                            
+                                Sono dispensati altresi' dalle tasse scolastiche, nonche' dall'imposta di bollo, gli alunni e i candidati che appartengono a famiglie di disagiata condizione economica e rientrino in una delle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    orfani di guerra, di caduti per la lotta di liberazione, di civili caduti per fatti di guerra, di caduti per causa di servizio o di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    figli di mutilati o invalidi di guerra o per la lotta di liberazione, di militari dichiarati dispersi, di mutilati o di invalidi civili per fatti di guerra, di mutilati o invalidi per causa di servizio o di lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ciechi civili.
 
 Alla stessa condizione la dispensa e' concessa a coloro che siano essi stessi mutilati od invalidi di guerra o per la lotta di liberazione, mutilati od invalidi civili per fatti di guerra, mutilati od invalidi per causa di servizio o di lavoro.
 
@@ -2310,6 +3454,38 @@ Per l'assunzione dei modelli viventi nei licei artistici si applicano le disposi
 I convitti nazionali hanno per fine di curare l'educazione e lo sviluppo intellettuale e fisico dei giovani che vi sono accolti.
 
 I predetti istituti hanno personalita' giuridica pubblica e sono sottoposti alla tutela dei provveditori agli studi, cui sono inviati, per l'approvazione, gli atti e le deliberazioni dei consigli di amministrazione che sono indicati dal regolamento da emanarsi ai sensi dell'articolo 205.
+
+3.
+                        
+                            
+                                L'amministrazione di ciascun convitto e' affidata ad un consiglio di amministrazione, composto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal rettore, presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da due delegati, l'uno dal consiglio provinciale e l'altro dal consiglio comunale del luogo dove ha sede il convitto, scelti dai consigli medesimi anche fuori del loro seno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da due persone nominate dal Ministro della pubblica istruzione, una delle quali fra il personale direttivo e docente delle scuole medie frequentate dai convittori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da un funzionario dell'amministrazione finanziaria, designato dal direttore dell'ufficio corrispondente alle soppresse intendenze di finanza secondo la tabella allegata al decreto del Presidente della Repubblica 27 marzo 1992, n. 287.
 
 Il consiglio di amministrazione del convitto e' nominato con decreto del Ministro della pubblica istruzione; esso dura in carica tre anni e puo' essere confermato. Il consigliere che senza giustificato motivo, non intervenga a tre adunanze consecutive, decade dal suo ufficio. Le funzioni di presidente e di consigliere sono gratuite.
 
@@ -2380,6 +3556,31 @@ Fino all'emanazione delle norme di cui al presente articolo restano ferme le dis
 ## - TITOLO VI ISTRUZIONE ARTISTICA
 
 ## Art. 206. — Istituti di istruzione artistica
+
+1.
+                        
+                            
+                                L'istruzione artistica e' impartita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    negli istituti d'arte. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei licei artistici. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    negli istituti superiori di istruzione artistica, intendendosi in essi compresi le accademie di belle arti, gli istituti superiori per le industrie artistiche, i conservatori di musica e le accademie nazionali di arte drammatica e di danza. (41) ((96))
 
 Gli istituti ed enti che hanno il fine di promuovere l'istruzione artistica sono sottoposti alla vigilanza del Ministero della pubblica istruzione, che la esercita attraverso i provveditori agli studi per quanto concerne gli istituti di cui alle lettere a) e b) del comma 1 e direttamente per quanto concerne gli istituti di cui alla lettera c) del medesimo comma 1.
 
@@ -2848,6 +4049,24 @@ Nessuno puo' esercitare la professione di docente di materie musicali in istitut
 
 Per esercitare la professione di docente di materie musicali in istituti o scuole di musica e' prescritto il possesso del diploma relativo allo strumento o agli strumenti che formano la rispettiva materia d'insegnamento. ((96))
 
+3.
+                        
+                            
+                                Per far parte delle orchestre di cui al comma 1 si richiede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il diploma, quando si voglia far parte di orchestre sinfoniche o liriche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attestato di compimento del periodo medio oppure, se il corso regolare di studi consti di due soli periodi, l'attestato di compimento del periodo inferiore, quando si voglia far parte di orchestre di operette.
+
 Le orchestre della RAI - Radiotelevisione italiana - S.p.a. sono comprese, agli effetti della presente legge, nel novero delle orchestre sinfoniche o liriche.
 
 Il diploma o l'attestato, rispettivamente a norma del presente articolo, debbono essere relativi allo strumento o agli strumenti che si vogliono suonare in orchestra.
@@ -3031,6 +4250,31 @@ A decorrere dal 1 gennaio 1994 il servizio di cassa e' affidato all'Ente poste
 ## Art. 261. — Iniziative di promozione
 
 Il Ministro della pubblica istruzione ha la facolta' di promuovere presso gli istituti di istruzione artistica ogni iniziativa che sia riconosciuta utile all'incremento delle arti e delle industrie collegate.
+
+2.
+                        
+                            
+                                Al fine anzidetto il Ministro della pubblica istruzione, di concerto, ove occorra, con altri Ministri competenti, ed entro i limiti dei fondi stanziati in bilancio, e' autorizzato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ad istituire insegnamenti complementari permanenti, facoltativi ed obbligatori, per discipline che, pur non essendo comprese nei programmi ordinari, siano riconosciute necessarie ai fini dell'incremento dell'arte e delle industrie artistiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a favorire l'organizzazione di esposizioni artistiche ed industriali presso istituti di istruzione artistica od altri enti disposti a tale organizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a promuovere comitati o consorzi temporanei o permanenti per particolari imprese a favore dell'arte e delle industrie artistiche.
 
 I posti di insegnamento di cui al comma 2, lettera a), aventi carattere permanente sono determinati, ai fini della loro copertura con le procedure concorsuali di cui all'articolo 270, previa definizione didattica dei corsi medesimi da effettuarsi con decreto del Ministro della pubblica istruzione sentito il Consiglio nazionale della pubblica istruzione. ((96))
 
@@ -3526,6 +4770,32 @@ Negli ospedali, nelle cliniche e nelle divisioni pediatriche gli obiettivi di cu
 
 ## Art. 315. — Integrazione scolastica
 
+1.
+                        
+                            
+                                L'integrazione scolastica della persona handicappata nelle sezioni e nelle classi comuni delle scuole di ogni ordine e grado si realizza, fermo restando quanto previsto dagli articoli 322 e seguenti anche attraverso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la programmazione coordinata dei servizi scolastici con quelli sanitari, socio-assistenziali, culturali, ricreativi, sportivi e con altre attivita' sul territorio gestite da enti pubblici o privati. A tale scopo gli enti locali, gli organi scolastici e le unita' sanitarie locali, nell'ambito delle rispettive competenze, stipulano gli accordi di programma di cui all'articolo 27 della legge 8 giugno 1990, n. 142. (4) 
+ Con decreto del Ministro della pubblica istruzione, d'intesa con i Ministri per gli affari sociali e della sanita', sono fissati gli indirizzi per la stipula degli accordi di programma. Tali accordi di programma sono finalizzati alla predisposizione, attuazione e verifica congiunta di progetti educativi, riabilitativi e di socializzazione individualizzati, nonche' a forme di integrazione tra attivita' scolastiche e attivita' integrative extrascolastiche. Negli accordi sono altresi' previsti i requisiti che devono essere posseduti dagli enti pubblici e privati ai fini della partecipazione alle attivita' di collaborazione coordinate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dotazione alle scuole di attrezzature tecniche e di sussidi didattici nonche' di ogni altra forma di ausilio tecnico, ferma restando la dotazione individuale di ausili e presidi funzionali all'effettivo esercizio del diritto allo studio, anche mediante convenzioni con centri specializzati, aventi funzione di consulenza pedagogica, di produzione e adattamento di specifico materiale didattico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sperimentazione di cui agli articoli 276 e seguenti da realizzare nelle classi frequentate da alunni con handicap.
+
 Nelle scuole di ogni ordine e grado, fermo restando, ai sensi del decreto del Presidente della Repubblica 24 luglio 1977, n. 616, e successive modificazioni, l'obbligo per gli enti locali di fornire l'assistenza per l'autonomia e la comunicazione personale degli alunni con handicap fisici o sensoriali, sono garantite attivita' di sostegno mediante l'assegnazione di docenti specializzati.
 
 ((COMMA ABROGATO DALLA L. 27 DICEMBRE 1997, N. 449)).
@@ -3540,6 +4810,31 @@ I docenti di sostegno assumono la contitolarita' delle sezioni e delle classi in
  Si riporta in nota il testo dell'avviso di rettifica in G.U. 21/11/1994, n. 272 :" Alla pag. 97, all'art.315, al comma 1, la lettera a) si compone di due periodi, che devono intendersi conseguenti l'uno all'altro".
 
 ## Art. 316. — Modalita' di attuazione dell'integrazione scolastica
+
+1.
+                        
+                            
+                                Il Ministero della pubblica istruzione provvede alla formazione e all'aggiornamento del personale docente per l'acquisizione di conoscenze in materia di integrazione scolastica degli studenti handicappati ai sensi dell'articolo 26 del decreto del Presidente della Repubblica 23 agosto 1988 n. 399, nel rispetto delle modalita' di coordinamento con il Ministero dell'universita' e della ricerca scientifica e tecnologica di cui all'articolo 4 della legge 9 maggio 1989, n. 168. Il Ministero della pubblica istruzione provvede altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'attivazione di forme sistematiche di orientamento, particolarmente qualificate per la persona handicappata, con inizio almeno dalla prima classe della scuola media; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'organizzazione dell'attivita' educativa e didattica secondo il criterio della flessibilita' nell'articolazione delle sezioni e delle classi, anche aperte, in relazione alla programmazione scolastica individualizzata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a garantire la continuita' educativa fra i diversi gradi di scuola, prevedendo forme obbligatorie di consultazione tra docenti di scuole di grado diverso in modo da promuovere il massimo sviluppo dell'esperienza scolastica della persona handicappata in tutti gli ordini e gradi di scuola consentendo il completamento della scuola dell'obbligo anche sino al compimento del diciottesimo anno di eta'; nell'interesse dell'alunno, con deliberazione del collegio dei docenti, sentiti gli specialisti di cui all'articolo 314, su proposta del consiglio di classe, puo' essere consentita una terza ripetenza in singole classi.
 
 Fino alla prima applicazione dell'articolo 9 della legge 19 novembre 1990 n. 341, relativamente alle scuole di specializzazione, si applicano le disposizioni contenute nell'articolo 325.
 
@@ -3653,6 +4948,38 @@ Il Ministero della pubblica istruzione promuove e coordina le attivita' di educa
 Le attivita' di cui al comma 2 si inquadrano nello svolgimento ordinario dell'attivita' educativa e didattica, attraverso l'approfondimento di specifiche tematiche nell'ambito delle discipline curricolari.
 
 Il Ministro della pubblica istruzione approva programmi annuali differenziati per tipologie di iniziative e relative metodologie di applicazione, per la promozione di attivita' da realizzarsi nelle scuole, sulla base delle proposte formulate da un apposito comitato tecnico-scientifico da lui costituito con decreto, composto da venticinque membri, di cui diciotto esperti nel campo della prevenzione, compreso almeno un esperto di mezzi di comunicazione sociale, rappresentanti delle amministrazioni statali che si occupano di prevenzione, repressione e recupero nelle materie di cui al comma 2 e sette esponenti di associazioni giovanili e dei genitori.
+
+5.
+                        
+                            
+                                Il comitato, che funziona sia unitariamente sia attraverso gruppi di lavoro individuati nel decreto istitutivo, deve approfondire, nella formulazione dei programmi, le tematiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della pedagogia preventiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'impiego degli strumenti didattici, con particolare riferimento ai libri di testo, ai sussidi audiovisivi, ai mezzi di comunicazione di massa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'incentivazione di attivita' culturali, ricreative e sportive, da svolgersi eventualmente anche all'esterno della scuola; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del coordinamento con le iniziative promosse o attuate da altre amministrazioni pubbliche con particolare riguardo alla prevenzione primaria.
 
 Alle riunioni del comitato, quando vengono trattati argomenti di loro interesse, possono essere invitati rappresentanti delle regioni, delle province autonome e dei comuni.
 
@@ -4018,6 +5345,50 @@ Coloro che provengono da istituti che preparano al sacerdozio  o alla vita relig
 
 ## Art. 363. — Licei linguistici
 
+1.
+                        
+                            
+                                I Licei linguistici privati possono ottenere il riconoscimento 
+ legale se conformati ad uno dei seguenti licei linguistici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Civica scuola superiore femminile "Alessandro Manzoni" di 
+ Milano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Civica scuola superiore femminile "Grazia Deledda" gia' 
+ "Regina Margherita" di Genova; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Istituto di cultura e lingue "Marcelline" di Milano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Liceo linguistico femminile "Santa Caterina da Siena" di 
+ Venezia-Mestre; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Liceo linguistico "Orsoline del Sacro Cuore" di Cortina 
+ d'Ampezzo.
+
 Il corso di studi dei licei linguistici e' di durata 
  quinquennale. I programmi sono approvati con decreto del Ministro della pubblica istruzione.
 
@@ -4274,9 +5645,123 @@ Per gli scambi di docenti si applica inoltre l'articolo 457.
 
 La funzione docente e' intesa come esplicazione essenziale dell'attivita' di trasmissione della cultura, di contributo alla elaborazione di essa e di impulso alla partecipazione dei giovani a tale processo e alla formazione umana e critica della loro personalita'.
 
+2.
+                        
+                            
+                                I docenti delle scuole di ogni ordine e grado, oltre a svolgere il loro normale orario di insegnamento, espletano le altre attivita' connesse con la funzione docente, tenuto conto dei rapporti inerenti alla natura dell'attivita' didattica e della partecipazione al governo della comunita' scolastica. 
+ In particolare essi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    curano il proprio aggiornamento culturale e professionale, anche nel quadro delle iniziative promosse dai competenti organi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipano alle riunioni degli organi collegiali di cui fanno parte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    partecipano alla realizzazione delle iniziative educative della scuola, deliberate dai competenti organi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curano i rapporti con i genitori degli alunni delle rispettive classi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    partecipano ai lavori delle commissioni di esame e di concorso di cui siano stati nominati componenti.
+
 ## Art. 396. — Funzione direttiva
 
 Il personale direttivo assolve alla funzione di promozione e di coordinamento delle attivita' di circolo o di istituto; a tal fine presiede alla gestione unitaria di dette istituzioni, assicura l'esecuzione delle deliberazioni degli organi collegiali ed esercita le specifiche funzioni di ordine amministrativo, escluse le competenze di carattere contabile, di ragioneria e di economato, che non implichino assunzione di responsabilita' proprie delle funzioni di ordine amministrativo.
+
+2.
+                        
+                            
+                                In particolare, al personale direttivo spetta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rappresentanza del circolo o dell'istituto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presiedere il collegio dei docenti, il comitato per la valutazione del servizio dei docenti, i consigli di intersezione, interclasse, o di classe, la giunta esecutiva del consiglio di circolo o di istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    curare l'esecuzione delle deliberazioni prese dai predetti organi collegiali e dal consiglio di circolo o di istituto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedere alla formazione delle classi, all'assegnazione ad esse dei singoli docenti, alla formulazione dell'orario, sulla base dei criteri generali stabiliti dal consiglio di circolo o d'istituto e delle proposte del collegio dei docenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuovere e coordinare, nel rispetto della liberta' di insegnamento, insieme con il collegio dei docenti, le attivita' didattiche, di sperimentazione e di aggiornamento nell'ambito del circolo o dell'istituto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adottare o proporre, nell'ambito della propria competenza, i provvedimenti resi necessari da inadempienze o carenze del personale docente, amministrativo, tecnico e ausiliario; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    coordinare il calendario delle assemblee nel circolo o nell'istituto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    tenere i rapporti con l'amministrazione scolastica nelle sue articolazioni centrali e periferiche, con gli enti locali che hanno competenze relative al circolo e all'istituto e con gli organi del distretto scolastico; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    curare i rapporti con gli specialisti che operano sul piano medico e socio-psico-pedagogico; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    curare l'attivita' di esecuzione delle normative giuridiche e amministrative riguardanti gli alunni e i docenti, ivi compresi la vigilanza sull'adempimento dell'obbligo scolastico, l'ammissione degli alunni, il rilascio dei certificati, il rispetto dell'orario e del calendario, la disciplina delle assenze, la concessione dei congedi e delle aspettative, l'assunzione dei provvedimenti di emergenza e di quelli richiesti per garantire la sicurezza della scuola.
 
 Il direttore didattico, sulla base di quanto stabilito dalla programmazione dell'azione educativa, dispone l'assegnazione dei docenti alle classi di ciascuno dei moduli organizzativi di cui all'articolo 121 del presente testo unico e l'assegnazione degli ambiti disciplinari ai docenti, avendo cura di garantire le condizioni per la continuita' didattica, nonche' la migliore utilizzazione delle competenze e delle esperienze professionali, assicurando, ove possibile, una opportuna rotazione nel tempo.
 
@@ -4423,6 +5908,31 @@ L. 20 agosto 2001, n. 333, ha disposto (con l'art. 2, comma 3) che il presente a
 
 ## Art. 402. — Requisiti generali di ammissione
 
+1.
+                        
+                            
+                                Fino al termine dell'ultimo anno dei corsi di studi universitari per il rilascio dei titoli previsti dagli articoli 3 e 4 della legge 19 novembre 1990, n. 341, ai fini dell'ammissione ai concorsi a posti e a cattedre di insegnamento nelle scuole di ogni ordine e grado, ivi compresi i licei artistici e gli istituti d'arte, e' richiesto il possesso dei seguenti titoli di studio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma conseguito presso le scuole magistrali o (( presso gli istituti magistrali, od abilitazione valida, )) per i concorsi a posti di docente di scuola materna; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma conseguito presso gli istituti magistrali per i concorsi a posti di docente elementare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    laurea conformemente a quanto stabilito (( con decreto del Ministro della pubblica istruzione, od abilitazione valida per l'insegnamento )) della disciplina o gruppo di discipline cui il concorso si riferisce, per i concorsi a cattedre e a posti di insegnamento nelle scuole secondarie, tranne che per gli insegnamenti per i quali e' sufficiente il diploma di istruzione secondaria superiore.
+
 Per le classi di concorso per le quali e' prevista l'ammissione sulla base dei titoli artistico-professionali e artistici, si tiene conto dei titoli medesimi in luogo del titolo di studio.
 L'accertamento dei titoli, qualora non sia gia' avvenuto, e' operato dalla medesima commissione giudicatrice del concorso, prima dell'inizio delle prove di esame.
 
@@ -4505,6 +6015,24 @@ Ai concorsi a posti di direttore didattico di scuola elementare sono ammessi i d
 
 ## Art. 410. — Scuola media
 
+1.
+                        
+                            
+                                Ai concorsi a posti di preside della scuola media sono ammessi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i docenti di ruolo della scuola media forniti di qualsiasi laurea, nonche' i docenti di ruolo di educazione fisica laureati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i docenti laureati di ruolo nelle scuole ed istituti di istruzione secondaria di secondo grado, nei licei artistici e negli istituti d'arte, nonche' i vice rettori aggiunti del ruolo ad esaurimento, che nelle prove d'esame di un concorso a cattedre di scuola media abbiano riportato la votazione di almeno sette decimi.
+
 ## Art. 411. — Scuole secondarie superiori
 
 Ai concorsi a posti di preside di liceo classico, di liceo scientifico, di istituto magistrale, di istituti tecnici e di istituti professionali, esclusi quelli di cui al comma 3, sono ammessi i docenti laureati appartenenti ai ruoli del tipo di scuola o di istituto cui si riferisce il posto direttivo, nonche' i docenti laureati che abbiano titolo al trasferimento o al passaggio a cattedre di insegnamento del tipo di scuola o istituto cui si riferisce il posto direttivo.
@@ -4531,6 +6059,38 @@ Ai concorsi a posti di rettore dei convitti nazionali e di direttrice degli educ
 Per quanto non previsto specificamente per i concorsi di cui al presente articolo si applicano le norme generali che disciplinano il reclutamento del personale direttivo della scuola.
 
 ## Art. 414. — Commissioni giudicatrici
+
+1.
+                        
+                            
+                                Le commissioni dei concorsi per il reclutamento del personale direttivo sono nominate con decreto del direttore generale o capo del servizio centrale competente e sono composte da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un docente universitario, con funzione di presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un ispettore tecnico del contingente relativo al settore di scuola cui si riferisce il concorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    due direttori didattici, presidi, rettori o direttrici delle scuole o istituzioni cui si riferisce il concorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un funzionario dell'amministrazione della pubblica istruzione con qualifica di dirigente.
 
 I membri di cui alle lettere a) e c) sono scelti tra i docenti universitari ed il personale direttivo che abbia superato il periodo di prova, compresi in appositi elenchi.
 
@@ -4571,6 +6131,24 @@ Il Ministro della pubblica istruzione, tenuto conto del numero di domande di par
 
 ## Art. 416. — Determinazione degli orientamenti programmatici di esame e criteri di ripartizione dei punteggi per i titoli
 
+1.
+                        
+                            
+                                Con decreto del Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione, sono stabiliti per i concorsi per il reclutamento del personale direttivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli orientamenti programmatici per le prove di esame dei concorsi relativi a ciascun tipo di scuola e di istituzione educativa, nell'ambito degli argomenti indicati nel precedente articolo 415; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i titoli valutabili, con particolare riguardo ad incarichi direttivi espletati, e le relative tabelle di valutazione.
+
 ## Art. 417. — Graduatorie
 
 Le graduatorie dei concorsi a posti del personale direttivo sono compilate sulla base del punteggio risultante, per ciascun concorrente, dalla somma dei voti riportati nelle prove di esame e dei punti assegnati per i titoli.
@@ -4602,6 +6180,63 @@ Presso il Ministero dell'istruzione, nell'ambito del ruolo dei dirigenti di cui 
 
 L'accesso alla sezione dei dirigenti tecnici con funzioni ispettive, di cui all'articolo 419, comma 1, si consegue mediante concorsi per titoli ed esami.
 
+2.
+                        
+                            
+                                Ai concorsi di cui al comma 1 sono ammessi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dirigenti scolastici delle istituzioni scolastiche ed educative statali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il personale docente ed educativo delle istituzioni scolastiche ed educative statali che abbia superato il periodo di prova e che abbia maturato un'anzianita' complessiva ((,)) nel profilo di appartenenza o anche nei diversi profili indicati nel presente comma, di almeno dieci anni.
+
+2-bis.
+                        
+                            
+                                Per l'ammissione ai concorsi, i soggetti di cui al comma 2 devono essere in possesso di uno tra i seguenti titoli di studio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    laurea magistrale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    laurea specialistica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diploma di laurea conseguito secondo gli ordinamenti didattici previgenti al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 2 del 4 gennaio 2000; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma accademico di secondo livello rilasciato dalle istituzioni dell'alta formazione artistica, musicale e coreutica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma accademico di vecchio ordinamento congiunto con diploma di istituto secondario superiore.
+
 COMMA ABROGATO DAL D.L. 25 MAGGIO 2021, N. 73, CONVERTITO CON MODIFICAZIONI DALLA L. 23 LUGLIO 2021, N. 106.
 
 COMMA ABROGATO DAL D.L. 25 MAGGIO 2021, N. 73, CONVERTITO CON MODIFICAZIONI DALLA L. 23 LUGLIO 2021, N. 106.
@@ -4609,6 +6244,60 @@ COMMA ABROGATO DAL D.L. 25 MAGGIO 2021, N. 73, CONVERTITO CON MODIFICAZIONI DALL
 COMMA ABROGATO DAL D.L. 25 MAGGIO 2021, N. 73, CONVERTITO CON MODIFICAZIONI DALLA L. 23 LUGLIO 2021, N. 106.
 
 I concorsi a posti di dirigente tecnico con funzioni ispettive sono indetti ogni due anni dal Ministero dell'istruzione, nei limiti dei posti vacanti e disponibili.
+
+7.
+                        
+                            
+                                7. Con decreto del Ministro dell'istruzione e del merito da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono ((definiti)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di svolgimento del concorso e dell'eventuale preselezione, nonche' le modalita' di pubblicazione del bando e dei successivi adempimenti informativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le prove e i programmi concorsuali, nonche' i titoli valutabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di individuazione e di nomina delle Commissioni esaminatrici di cui all'articolo 421; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la valutazione della eventuale preselezione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la valutazione delle prove e dei titoli; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la quantificazione e le modalita' di versamento da parte dei candidati di un diritto di segreteria da riassegnare al Ministero dell'istruzione e del merito; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' attuative delle disposizioni di cui al presente articolo e di cui agli articoli 421, 422, 423 e 430. 
+ 7.1. Le singole prove scritte e la prova orale si intendono superate con una valutazione pari ad almeno sette decimi o equivalente. Il decreto di cui al comma 7 puo' definire, altresi', una eventuale soglia di superamento della prova preselettiva, anche diversa da quella di cui al primo periodo, nonche' un eventuale numero massimo di candidati ammessi alle prove scritte.
 
 I bandi di concorso possono prevedere una riserva fino al 10 per cento dei posti messi a concorso per i soggetti che, avendo i requisiti per partecipare al concorso, abbiano ottenuto l'incarico di dirigente tecnico, ai sensi dell'articolo 19, commi 5-bis e 6, del decreto legislativo 30 marzo 2001, n. 165, e abbiano svolto le relative funzioni ispettive per almeno tre anni, entro il termine di presentazione della domanda di partecipazione al concorso, presso gli uffici dell'amministrazione centrale o periferica del Ministero dell'istruzione. 
  (76)
@@ -4620,7 +6309,33 @@ I bandi di concorso possono prevedere una riserva fino al 10 per cento dei posti
 
 ## Art. 421. — Commissioni esaminatrici
 
+1.
+                        
+                            
+                                Le commissioni dei concorsi a posti di dirigente tecnico con funzioni ispettive sono nominate con decreto del dirigente generale competente e sono composte da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre membri scelti tra i dirigenti appartenenti ai ruoli del Ministero dell'istruzione e del merito che ricoprano o abbiano ricoperto un incarico di funzioni dirigenziali generali ovvero tra i professori di prima e di seconda fascia di universita' statali e non statali, i magistrati amministrativi, i magistrati ordinari, i magistrati contabili, gli avvocati dello Stato e i prefetti; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    due membri scelti fra i dirigenti non generali del comparto funzioni centrali appartenenti ai ruoli del Ministero dell'istruzione e del merito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.L. 22 APRILE 2023, N. 44, CONVERTITO CON MODIFICAZIONI DALLA L. 21 GIUGNO 2023, N. 74)).
+
+((1-bis. I membri di cui alle lettere a) e b) del comma 1 del presente articolo nonche' quelli eventualmente previsti nell'ambito del decreto di cui all'articolo 420, comma 7, possono essere nominati anche fra soggetti collocati in quiescenza da non piu' di quattro anni alla data di pubblicazione del bando di concorso))
 
 COMMA ABROGATO DAL D.L. 25 MAGGIO 2021, N. 73, CONVERTITO CON MODIFICAZIONI DALLA L. 23 LUGLIO 2021, N. 106.
 
@@ -4641,6 +6356,31 @@ COMMA ABROGATO DAL D.L. 25 MAGGIO 2021, N. 73, CONVERTITO CON MODIFICAZIONI DALL
 I concorsi per titoli ed esami a posti di dirigente tecnico con funzioni ispettive constano di due prove scritte e di una prova orale.
 
 ((
+
+2.
+                        
+                            
+                                Le commissioni esaminatrici dispongono di 210 punti, di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    massimo 70 punti da attribuire a ciascuna delle prove scritte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    massimo 60 punti da attribuire alla prova orale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    massimo 10 punti da attribuire alla valutazione dei titoli.
 
 ))
 
@@ -4911,6 +6651,24 @@ Il congedo ordinario deve essere fruito, compatibilmente con le esigenze di serv
 
 La ricorrenza del Santo Patrono, se ricadente in giornata lavorativa, e' considerata aggiuntiva al congedo ordinario.
 
+5.
+                        
+                            
+                                Al personale della scuola e' attribuito, in aggiunta ai periodi di congedo, sei giornate complessive di riposo da fruire nel corso dell'anno solare come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    due giornate aggiunte al congedo ordinario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quattro giornate, a richiesta degli interessati, tenendo conto dell'esigenza di servizio.
+
 Le quattro giornate di riposo, di cui alla lettera b) del comma 5, devono essere fruite dal personale docente nel corso dell'anno solare cui si riferiscono e, in ogni caso, esclusivamente durante il periodo tra il termine delle lezioni e degli esami e l'inizio delle lezioni dell'anno scolastico successivo, ovvero durante i periodi intrannuali di sospensione dell'attivita' didattica.
 
 ## Art. 450. — Congedi straordinari e aspettative
@@ -4973,6 +6731,59 @@ I posti che si rendono disponibili in applicazione del presente articolo possono
 ## Art. 455. — Utilizzazione del personale docente delle dotazioni organiche aggiuntive e di altro personale docente di ruolo
 
 L'utilizzazione dei docenti delle dotazioni organiche aggiuntive e' finalizzata alla copertura di posti e cattedre da attribuire alle supplenze annuali, nonche' di posti comunque disponibili per l'intero anno scolastico, in misura prevalente rispetto a tutte le altre attivita' previste dai successivi commi. Relativamente alle attivita' previste dai commi 7 e 11, l'utilizzazione e' consentita nel limite del 15 per cento delle dotazioni organiche medesime.
+
+2.
+                        
+                            
+                                Fermo restando quanto disposto dal comma 1, l'utilizzazione dei docenti delle predette dotazioni organiche aggiuntive assicura il soddisfacimento, nell'ordine, delle seguenti esigenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    copertura dei posti di insegnamento che non possono concorrere a costituire cattedre o posti orario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copertura dei posti di insegnamento comunque vacanti e disponibili per un periodo anche inferiore a 5 mesi nell'ambito del distretto o dei distretti viciniori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostituzione dei docenti destinati ai compiti di cui al comma 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sostituzione dei docenti impegnati nella realizzazione delle scuole a tempo pieno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sostituzione dei docenti impegnati nello svolgimento dei corsi di istruzione per adulti finalizzati al conseguimento dei titoli di studio e per l'insegnamento nei corsi sperimentali di scuola media per lavoratori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sostituzione dei docenti utilizzati ai sensi dell'articolo 456, comma 1; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    partecipazione, nella scuola media, e, per quanto compatibile, nella scuola materna, alla realizzazione della programmazione educativa.
 
 Ai fini di cui al comma 2, il provveditore agli studi definisce il contingente su base distrettuale ed assegna a ciascun circolo o scuola, in relazione alle esigenze, un contingente di docenti della dotazione aggiuntiva per la scuola materna e media.
 
@@ -5220,6 +7031,24 @@ Con ordinanza del Ministro della pubblica istruzione sono annualmente stabiliti 
 
 Gli incarichi di presidenza di durata annuale negli istituti e nelle scuole di istruzione secondaria, nei licei artistici e negli istituti d'arte sono conferiti, a domanda, ogni anno, dal provveditore agli studi in base ad apposite graduatorie provinciali di merito distintamente formate per i vari tipi di presidenza da conferire. Per le scuole con lingua di insegnamento diversa da quella italiana saranno formate apposite graduatorie provinciali di merito.
 
+2.
+                        
+                            
+                                Per ciascun tipo di incarico di presidenza il provveditore agli studi compila due distinte graduatorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono iscritti nella prima graduatoria i docenti inclusi nelle graduatorie di merito dei concorsi a posti di preside negli istituti del medesimo tipo di quello al cui incarico di presidenza aspirano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono iscritti nella seconda graduatoria i docenti di ruolo che abbiano i requisiti richiesti per la partecipazione ai concorsi a posti di preside nelle scuole e negli istituti del medesimo tipo di quello al cui incarico di presidenza aspirano. La domanda per l'iscrizione nelle suddette graduatorie puo' essere presentata al solo provveditorato agli studi della provincia nella quale l'aspirante presta servizio. Gli aspiranti di cui alla lettera a) sono inclusi nella graduatoria provinciale con punteggio pari al voto conseguito nel concorso a posti di preside e, nel caso di piu' di una partecipazione, con il punteggio piu' favorevole, cui e' aggiunta una adeguata valutazione per ciascuna delle idoneita' conseguite nei concorsi a posti di preside negli istituti del medesimo tipo di quello al cui incarico di presidenza aspirano. La votazione conseguita al concorso e' rapportata a 100. Con ordinanza del Ministro della pubblica istruzione sono determinati, per la fissazione del punteggio complessivo, gli altri titoli degli aspiranti di cui alla suddetta lettera a), maturati dopo la partecipazione al concorso o all'ultimo concorso a posti di preside, nonche' la tabella di valutazione dei titoli stessi. La medesima ordinanza determina i titoli valutabili degli aspiranti di cui alla lettera b), nonche' la tabella di valutazione dei titoli stessi e fissa i criteri per la formazione della commissione incaricata della compilazione delle graduatorie.
+
 Nell'ambito di ciascuna graduatoria provinciale di merito non si da' luogo a nomine di aspiranti di cui alla lettera b) del comma 2, se prima non sia stata esaurita la graduatoria degli aspiranti di cui alla lettera a) dello stesso comma. Qualora la vacanza si verifichi nel corso dell'anno scolastico, l'incarico e' conferito a un docente scelto tra quelli in servizio nella scuola interessata, dando la precedenza agli iscritti nelle graduatorie di cui al precedente comma 2 e secondo l'ordine di inclusione nelle stesse. In ogni caso non si da' luogo a conferimento di incarico di presidenza ad aspiranti trasferiti per incompatibilita' ambientale o che abbiano riportato una sanzione disciplinare superiore alla censura e non siano stati riabilitati.
 
 ## Art. 478. — Sostituzione docenti assenti
@@ -5371,6 +7200,24 @@ Le nuove misure per il riconoscimento dei servizi, previsti dagli articoli 485 e
 
 Fino al perfezionamento dei contratti collettivi, di cui al decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, l'orario obbligatorio di servizio dei docenti e' determinato secondo quanto previsto dai commi seguenti.
 
+2.
+                        
+                            
+                                L'orario di servizio per i docenti e' costituito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle ore da destinare all'insegnamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle ore riguardanti le attivita' connesse con il funzionamento della scuola.
+
 L'orario obbligatorio di insegnamento per i docenti della scuola materna e' stabilito in 25 ore settimanali per le attivita' educative.
 
 L'orario obbligatorio di insegnamento per i docenti della scuola elementare e' costituito di 24 ore settimanali di attivita' didattica, secondo le modalita' stabilite dall'articolo 131.
@@ -5385,6 +7232,45 @@ Il rapporto di lavoro a tempo parziale e' regolato sulla base delle disposizioni
 
 Fino al riordinamento degli organi collegiali ((. . . )), le sanzioni disciplinari e le relative procedure di irrogazione sono regolate, per il personale direttivo e docente, dal presente articolo e dagli articoli seguenti.
 
+2.
+                        
+                            
+                                Al personale predetto, nel caso di violazione dei propri doveri, possono essere inflitte le seguenti sanzioni disciplinari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la censura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sospensione dall'insegnamento o dall'ufficio fino a un mese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sospensione dall'insegnamento o dall'ufficio da oltre un mese a sei mesi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sospensione dall'insegnamento o dall'ufficio per un periodo di sei mesi e l'utilizzazione, trascorso il tempo di sospensione, per lo svolgimento di compiti diversi da quelli inerenti alla funzione docente o direttiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la destituzione.
+
 Per il personale docente il primo grado di sanzione disciplinare e' costituito dall'avvertimento scritto, consistente nel richiamo all'osservanza dei propri doveri.
 
 ## Art. 493. — C e n s u r a
@@ -5394,7 +7280,63 @@ La censura consiste in una dichiarazione di biasimo scritta e motivata, che vien
 ## Art. 494. — Sospensione dall'insegnamento 
 o dall'ufficio fino a un mese
 
+1.
+                        
+                            
+                                La sospensione dall'insegnamento o dall'ufficio consiste nel divieto di esercitare la funzione docente o direttiva, con la perdita del trattamento economico ordinario, salvo quanto disposto dall'articolo 497. La sospensione dall'insegnamento o dall'ufficio fino a un mese viene inflitta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per atti non conformi alle responsabilita', ai doveri e alla correttezza inerenti alla funzione o per gravi negligenze in servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per violazione del segreto d'ufficio inerente ad atti o attivita' non soggetti a pubblicita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per avere omesso di compiere gli atti dovuti in relazione ai doveri di vigilanza.
+
 ## Art. 495. — Sospensione dall'insegnamento o dall'ufficio da oltre un mese a sei mesi
+
+1.
+                        
+                            
+                                La sospensione dall'insegnamento o dall'ufficio da oltre un mese a sei mesi e' inflitta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi previsti dall'articolo 494 qualora le infrazioni abbiano carattere di particolare gravita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per uso dell'impiego ai fini di interesse personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per atti in violazione dei propri doveri che pregiudichino il  regolare funzionamento della scuola e per concorso negli stessi atti;
+                                
+                            
+                            
+                                d)
+                                
+                                    per abuso di autorita'.
 
 ## Art. 496. — Sospensione dall'insegnamento o dall'ufficio per un periodo di sei 
 mesi e utilizzazione in compiti diversi
@@ -5634,6 +7576,24 @@ Il conferimento delle supplenze temporanee e' consentito esclusivamente per il p
 
 La formazione delle graduatorie provinciali per il conferimento delle supplenze annuali al personale docente della scuola materna, elementare, media e degli istituti e scuole di istruzione secondaria superiore e' curata dal provveditore agli studi secondo le modalita' e nei termini che sono stabiliti dal Ministro della pubblica istruzione con apposita ordinanza, emanata sentiti i rappresentanti delle organizzazioni sindacali di categoria maggiormente rappresentative su base nazionale. I titoli valutabili ed i relativi punteggi sono stabiliti con decreto del Ministro della pubblica istruzione, sentito il Consiglio nazionale della pubblica istruzione, con specifico riferimento al titolo di studio e, ove prescritto, di abilitazione e di specializzazionee al servizio prestato, attinenti al tipo di insegnamento per il quale si chiede l'inclusione nella graduatoria provinciale.
 
+2.
+                        
+                            
+                                Per ciascun insegnamento o gruppo di insegnamenti, impartiti nella scuola materna e media, nonche' negli istituti e scuole di istruzione secondaria superiore, vengono compilate due graduatorie, da utilizzarsi nel seguente ordine di successione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    graduatoria degli aspiranti forniti di un titolo di abilitazione valido per l'insegnamento o per il gruppo di insegnamenti richiesto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    graduatoria degli aspiranti forniti di un titolo di studio dichiarato valido per l'ammissione a concorsi per posti di insegnamento od a concorsi a cattedre.
+
 Le graduatorie di cui al comma 1 hanno carattere permanente. Il Ministro della pubblica istruzione dispone ogni triennio, con propria ordinanza, l'integrazione delle graduatorie con l'inclusione di nuovi aspiranti e l'aggiornamento delle stesse con la valutazione dei nuovi titoli.
 
 La compilazione delle predette graduatorie e' effettuata alla scadenza annuale soltanto quando esse siano state esaurite.
@@ -5694,6 +7654,24 @@ Avverso i provvedimenti adottati sulla base delle graduatorie definitive per il 
  - I regolamenti di cui all'art. 4, comma 14 della L. 3 maggio 1999, n. 124 sono stati emanati con Decreto 25 maggio 2000, n. 201, pubblicato in G.U. 20/07/2000, n. 168, e con Decreto 13 dicembre 2000, n. 430, pubblicato in G.U. 24/01/2001, n. 19.
 
 ## Art. 525. — Commissione per i ricorsi
+
+1.
+                        
+                            
+                                Presso ogni provveditorato agli studi sono istituite apposite commissioni competenti a decidere sui ricorsi di cui all'articolo 524, esclusi quelli previsti nel comma 6 di detto articolo. Tali commissioni sono composte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la scuola materna ed elementare, dal provveditore agli studi o da un impiegato di detto ufficio di qualifica funzionale non inferiore alla settima, da lui delegato, che la presiede, da un direttore didattico, da un impiegato con qualifica funzionale non inferiore alla settima o, in mancanza, con qualifica funzionale non inferiore alla sesta, da due docenti della scuola materna e da due docenti della scuola elementare. Uno dei docenti della scuola materna ed uno dei docenti elementari debbono essere, ove possibile, supplenti annuali. Il direttore didattico e gli impiegati sono nominati dal provveditore agli studi, il quale nomina altresi' gli altri componenti della commissione, fra i docenti proposti dai rappresentanti provinciali dei sindacati di categoria maggiormente rappresentativi su base nazionale. Nello stesso modo vengono nominati inoltre un direttore didattico, un impiegato con qualifica funzionale non inferiore alla settima od alla sesta, un docente della scuola materna ed un docente della scuola elementare, per supplire eventuali assenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la scuola media e gli istituti e scuole di istruzione secondaria superiore, dal provveditore agli studi, che la presiede, da un capo di istituto di ruolo, da un impiegato del provveditorato stesso con qualifica funzionale non inferiore alla settima, da due docenti di ruolo, da un docente supplente annuale e da un docente tecnico-pratico. Il provveditore agli studi, puo' delegare a presiedere la Commissione l'impiegato con qualifica funzionale non inferiore alla settima. Il capo di istituto e gli impiegati sono nominati dal provveditore agli studi, il quale nomina gli altri componenti della commissione fra i docenti di ruolo, i supplenti annuali e i docenti tecnico-pratici proposti dai rappresentanti provinciali dei sindacati di categoria maggiormente rappresentativi su base nazionale. Nello stesso modo vengono nominati inoltre un capo di istituto, un impiegato con qualifica funzionale non inferiore alla settima del provveditorato agli studi e due docenti per supplire eventuali assenti.
 
 La proposta da parte dei sindacati di categoria, prevista dal comma 1, ha luogo sino all'emanazione del regolamento di cui all'articolo 1, comma 28, della legge 24 dicembre 1993, n. 537, ferma restando la composizione delle commissioni per i ricorsi.
 
@@ -5890,6 +7868,31 @@ AGGIORNAMENTO (96)
 
 Ogni qualifica funzionale comprende piu' profili professionali fondati sulla tipologia della prestazione lavorativa, considerata per il suo contenuto, in relazione ai requisiti culturali, al grado di responsabilita', alla sfera di autonomia che comporta, al grado di mobilita' ed ai requisiti di accesso alla qualifica.
 
+2.
+                        
+                            
+                                I profili professionali delle qualifiche del personale A.T.A. sono inseriti nelle seguenti aree funzionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'area funzionale dei servizi generali ausiliari comprende il profilo professionale degli ausiliari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'area funzionale dei servizi tecnici comprende i profili professionali dei guardarobieri, degli aiutanti cuochi, dei cuochi, degli infermieri e dei collaboratori tecnici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'area funzionale dei servizi amministrativi comprende i profili professionali dei collaboratori amministrativi, dei coordinatori amministrativi e dei coordinatori amministrativi dei conservatori di musica, delle accademie di belle arti e delle accademie nazionali di arte drammatica e di danza. Alla stessa area appartiene anche il profilo professionale dei direttori amministrativi dei conservatori di musica, delle accademie di belle arti e delle accademie nazionali di arte drammatica e di danza. A questi ultimi, si applicano le norme riguardanti lo stato giuridico ed economico dei dipendenti civili dello Stato.
+
 I profili professionali sono definiti con i contratti collettivi di cui al decreto legislativo 3 febbraio 1993, n. 29 e successive modificazioni. 
  ((96)) 
  
@@ -5946,6 +7949,45 @@ AGGIORNAMENTO (96)
 ## - Capo II RECLUTAMENTO
 
 ## Art. 550. — Disciplina regolamentare
+
+1.
+                        
+                            
+                                Con regolamento da emanarsi ai sensi dell'articolo 41 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, sono disciplinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti generali di accesso all'impiego e la relativa documentazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contenuti dei bandi di concorso, le modalita' di svolgimento delle prove concorsuali, anche con riguardo agli adempimenti dei partecipanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le categorie riservatarie ed i titoli di precedenza e preferenza per l'ammissione all'impiego; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le procedure di reclutamento tramite apposite liste di collocamento per le qualifiche previste dalla legge; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la composizione e gli adempimenti delle commissioni esaminatrici.
 
 In attesa dell'emanazione del regolamento si applicano le disposizioni di cui agli articoli che seguono. Sono comunque portate a compimento le procedure concorsuali attivate alla data di entrata in vigore del regolamento stesso.
 
@@ -6051,6 +8093,24 @@ AGGIORNAMENTO (96)
  Il D.P.R. 24 aprile 2024, n. 83 ha disposto (con l'art. 18, comma 2, alinea) che, a decorrere dall'anno accademico 2025/2026, il presente articolo cessa di avere efficacia nei confronti delle istituzioni e del personale appartenente ai ruoli dell'Alta formazione artistica musicale e coreutica.
 
 ## Art. 555. — Commissioni
+
+1.
+                        
+                            
+                                Le commissioni esaminatrici dei concorsi per il reclutamento del personale amministrativo, tecnico ed ausiliario sono cosi' composte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la quinta qualifica: di un presidente scelto tra gli impiegati con qualifica di dirigente, e di altri due membri di cui uno preside, direttore didattico o rettore e l'altro docente d'istituto di istruzione secondaria superiore delle materie sulle quali vertono le prove di esame; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la IV qualifica: di un presidente, scelto tra i presidi, direttori didattici o rettori e di altri due membri, di cui uno impiegato con qualifica non inferiore alla ottava dell'amministrazione scolastica centrale e periferica e l'altro appartenente alla corrispondente qualifica del personale A.T.A., con almeno cinque anni di anzianita'.
 
 Quando trattasi di concorsi per il conferimento di posti di infermiere il componente della commissione appartenente al personale A.T.A. e' sostituito da un sanitario designato dalle competenti autorita' sanitarie.
 
@@ -6159,6 +8219,24 @@ AGGIORNAMENTO (96)
 ## Art. 562. — Congedo ordinario
 
 Il personale A.T.A. ha diritto a trenta giorni lavorativi di congedo ordinario nell'anno solare.
+
+2.
+                        
+                            
+                                Al personale A.T.A. sono attribuite, in aggiunta ai periodi di congedo, sei giornate complessive di riposo da fruire nell'anno solare come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    due giornate aggiuntive al congedo ordinario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quattro giornate a richiesta degli interessati tenendo conto delle esigenze di servizio.
 
 Il congedo ordinario deve essere fruito su richiesta del dipendente e previa autorizzazione del capo d'istituto, compatibilmente alle esigenze di servizio, irrinunciabilmente nel corso di ciascun anno solare anche in piu' periodi, uno dei quali non inferiore a quindici giorni.
 
@@ -6649,6 +8727,47 @@ Per quanto non previsto dal presente testo unico al personale della scuola si ap
 
 Il Ministero della pubblica istruzione provvede, mediante i suoi uffici centrali e periferici, ai servizi relativi all'istruzione materna, elementare, media, secondaria superiore e artistica.
 
+2.
+                        
+                            
+                                Il Ministero esercita la vigilanza o la sorveglianza sui seguenti enti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilanza sull'Ente per le scuole materne della Sardegna, secondo le modalita' stabilite dalla legge 1 giugno 1942, n. 901, istitutiva dell'ente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilanza sull'Ente nazionale di assistenza magistrale, secondo le disposizioni del decreto legislativo del Capo provvisorio dello Stato 21 ottobre 1947, n. 1346, ratificato con la legge 21 marzo 1953, n. 100, e successive modificazioni e secondo le norme dello statuto dell'ente; sono iscritti d'ufficio all'Ente, e sottoposti alla ritenuta di cui all'articolo 3 del citato decreto legislativo del Capo provvisorio dello Stato e successive modificazioni, gli insegnanti di ruolo delle scuole elementari statali, i docenti di ruolo delle scuole elementari statali, i docenti di ruolo delle scuole materne statali e i direttori didattici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sorveglianza sull'Unione nazionale per la lotta contro l'analfabetismo nei limiti conseguenti al disposto dell'articolo 2 della legge 2 aprile 1968, n. 470 e delle disposizioni dello statuto dell'ente; nel potere di sorveglianza e' compresa la facolta' di disporre accertamenti e ispezioni relativamente all'impiego, da parte dell'ente, del contributo annuo, a carico dello Stato, di lire 150 
+milioni, previsto dall'articolo 1 della predetta 
+legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigilanza sull'Opera nazionale Montessori, secondo quanto previsto dalle leggi 3 marzo 1983, n. 66, e 16 febbraio 1987, n. 46; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigilanza sull'Ente per il museo nazionale della scienza e della tecnica "Leonardo da Vinci", ai sensi dell'articolo 1 della legge 2 aprile 1958, n. 332.
+
 Il Ministero esercita altresi' la vigilanza su altri enti quando sia previsto dal rispettivo ordinamento.
 
 ## Art. 606. — Attribuzioni dell'Amministrazione centrale
@@ -6810,7 +8929,104 @@ Nel territorio della regione siciliana l'ufficio scolastico regionale e i provve
 
 ## Art. 623. — Organi collegiali operanti nell'amministrazione centrale
 
+1.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 612, nell'Amministrazione centrale operano i seguenti organi collegiali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Consiglio di amministrazione, secondo le disposizioni previste dall'articolo 146 del testo unico approvato con decreto del Presidente della Repubblica 10 gennaio 1957 n. 3 e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Consiglio nazionale della pubblica istruzione di cui all'articolo 23; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la Consulta presso il centro studi per l'edilizia scolastica, di cui all'articolo 90; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la Commissione centrale per i ricorsi in materia di supplenze di insegnamento nei conservatori di musica e nelle accademie di cui all'articolo 272; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il Comitato tecnico scientifico per la formulazione di proposte in materia di interventi a favore di alunni in particolari condizioni di disagio, di cui all'articolo 326; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la Commissione per i pareri in materia di insegnamenti a titolo privato nelle accademie di belle arti, di cui all'articolo 211, comma 1; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la Commissione per i pareri in materia di conferimento di diplomi ai benemeriti della scuola, della cultura o dell'arte, di cui all'articolo 6 della legge 16 novembre 1950, n. 1093; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la Commissione per i ricorsi in materia di supplenze per l'insegnamento di specifiche discipline negli istituti d'arte e nei licei artistici di cui all'articolo 524.
+
 ## Art. 624. — Organi collegiali operanti nell'amministrazione periferica
+
+1.
+                        
+                            
+                                Salvo quanto previsto dagli articoli 575 e seguenti nell'amministrazioneperiferica operano i seguenti organi collegiali: 
+ A - presso gli uffici scolastici regionali: 
+ 1 - la Commissione sindacale di cui all'articolo 597; 
+ 2 - per i problemi riguardanti il funzionamento delle scuole con lingua d'insegnamento slovena il sovrintendente scolastico della regione Friuli-Venezia Giulia e' assistito da una commissione da lui nominata e composta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dai provveditori agli studi di Trieste e Gorizia o dai loro rispettivi delegati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da due presidi, di cui uno di scuola media, un direttore didattico e tre docenti, di cui uno della scuola elementare, uno della scuola media e uno degli istituti e scuole di istruzione secondaria superiore di lingua slovena preposti dal personale docente e direttivo delle rispettive scuole; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da cinque cittadini italiani di lingua slovena, dei quali tre designati dal consiglio provinciale di Trieste e due da quello di Gorizia, con voto limitato. La Commissione e' altresi' competente in materia di formazione degli elenchi del personale direttivo e docente da nominare nelle commissioni giudicatrici dei concorsi per il reclutamento del personale docente delle scuole con lingua di insegnamento slovena ai sensi dell'articolo 426. 
+ B - Presso i provveditorati agli studi: 
+ 1) il Consiglio scolastico provinciale di cui all'articolo 20; 
+ 2) il Consiglio di amministrazione provinciale del personale amministrativo, tecnico e ausiliario, di cui all'articolo 549; 
+ 3) la Commissione di disciplina provinciale del predetto personale di cui all'articolo 577; 
+ 4) la Commissione delle graduatorie per gli incarichi di presidenza di cui all'articolo 477, comma 2; 
+ 5) le Commissioni per i ricorsi in materia di supplenze di insegnamento di cui all'articolo 525; 
+ 6) la Commissione per i ricorsi in materia di supplenze del personale amministrativo tecnico e ausiliario, di cui all'articolo 586; 
+ 7) la Commissione sindacale di cui all'articolo 597; 
+ 8) la Commissione per il parere in materia di conti consuntivi delle scuole di cui all'articolo 28.
 
 ## - Parte V SCUOLE ITALIANE ALL'ESTERO TITOLO I ISTITUZIONE ED ORDINAMENTO Capo I DISPOSIZIONI GENERALI
 

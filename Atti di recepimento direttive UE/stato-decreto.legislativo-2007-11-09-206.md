@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-02-27
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -49,6 +49,31 @@ Il presente decreto si applica ai cittadini degli Stati membri dell'Unione europ
 
 ((1-bis. Le disposizioni del presente decreto si applicano, ove compatibili, anche ai tirocini professionali di cui all'articolo 17-bis, effettuati dai cittadini degli Stati membri dell'Unione europea al di fuori del territorio nazionale))
 
+1-ter.
+                        
+                            
+                                Gli articoli da 5-bis a 5-sexies si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai cittadini italiani titolari di un qualifica professionale conseguita o riconosciuta in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai cittadini italiani o europei che hanno conseguito le qualifiche professionali in piu' di uno Stato membro tra cui l'Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai cittadini dell'Unione europea legalmente stabiliti in Italia, che richiedono il rilascio di una tessera professionale europea ai fini della libera prestazione di servizi o dello stabilimento in un altro Stato membro.
+
 Le disposizioni del presente decreto non si applicano ai cittadini degli Stati membri dell'Unione europea titolari di qualifiche professionali non acquisite in uno Stato membro, per i quali continuano ad applicarsi le disposizioni vigenti. Per le professioni che rientrano nel titolo III, capo IV, il riconoscimento deve avvenire nel rispetto delle condizioni minime di formazione elencate in tale capo.
 
 Per il riconoscimento dei titoli di formazione acquisiti dai cittadini dei Paesi aderenti allo Spazio economico europeo e della Confederazione Svizzera, si applicano gli accordi in vigore con l'Unione europea.
@@ -63,15 +88,354 @@ Salvo quanto previsto dagli articoli 12 e 16, comma 10, con riguardo all'uso del
 
 ## Art. 4. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «professione regolamentata»: 
+ 1) l'attivita', o l'insieme delle attivita', il cui esercizio e' consentito solo a seguito di iscrizione in Ordini o Collegi o in albi, registri ed elenchi tenuti da amministrazioni o enti pubblici, se la iscrizione e' subordinata al possesso di qualifiche professionali o all'accertamento delle specifiche professionalita'; 
+ 2) i rapporti di lavoro subordinato, se l'accesso ai medesimi e' subordinato, da disposizioni legislative o regolamentari, al possesso di qualifiche professionali; 
+ 3) l'attivita' esercitata con l'impiego di un titolo professionale il cui uso e' riservato a chi possiede una qualifica professionale; 
+ 4) le attivita' attinenti al settore sanitario nei casi in cui il possesso di una qualifica professionale e' condizione determinante ai fini della retribuzione delle relative prestazioni o della ammissione al rimborso; 
+ 5) le professioni esercitate dai membri di un'associazione o di un organismo di cui all'Allegato I. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «qualifiche professionali»: le qualifiche attestate da un titolo di formazione, un attestato di competenza di cui all'articolo 19, comma 1, lettera a), numero 1), o un'esperienza professionale; non costituisce qualifica professionale quella attestata da una decisione di mero riconoscimento di una qualifica professionale acquisita in Italia adottata da parte di un altro Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «titolo di formazione»: diplomi, certificati e altri titoli rilasciati da un'universita' o da altro organismo abilitato secondo particolari discipline che certificano il possesso di una formazione professionale acquisita in maniera prevalente sul territorio della Comunita'. Hanno eguale valore i titoli di formazione rilasciati da un Paese terzo se i loro possessori hanno maturato, nell'effettivo svolgimento dell'attivita' professionale, un'esperienza di almeno tre anni sul territorio dello Stato membro che ha riconosciuto tale titolo, certificata dal medesimo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «autorita' competente»: qualsiasi autorita' o organismo abilitato da disposizioni nazionali a rilasciare o a ricevere titoli di formazione e altri documenti o informazioni, nonche' a ricevere le domande e ad adottare le decisioni di cui al presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «formazione regolamentata»: qualsiasi formazione che, secondo le prescrizioni vigenti, e' specificamente orientata all'esercizio di una determinata professione e consiste in un ciclo di studi completato, eventualmente, da una formazione professionale, un tirocinio professionale o una pratica professionale, secondo modalita' stabilite dalla legge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «esperienza professionale»: l'esercizio effettivo e legittimo della professione in uno Stato membro, a tempo pieno o a tempo parziale per un periodo equivalente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «tirocinio di adattamento»: l'esercizio di una professione regolamentata sotto la responsabilita' di un professionista qualificato, accompagnato eventualmente da una formazione complementare secondo modalita' stabilite dalla legge. Il tirocinio e' oggetto di una valutazione da parte dell'autorita' competente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «prova attitudinale»: una verifica riguardante le conoscenze, le competenze e le abilita' professionali del richiedente effettuata dalle autorita' competenti allo scopo di valutare l'idoneita' del richiedente ad esercitare una professione regolamentata; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «dirigente d'azienda»: qualsiasi persona che abbia svolto in un'impresa del settore professionale corrispondente: 
+ 1) la funzione di direttore d'azienda o di filiale; 
+ 2) la funzione di institore o vice direttore d'azienda, se tale funzione implica una responsabilita' corrispondente a quella dell'imprenditore o del direttore d'azienda rappresentato; 
+ 3) la funzione di dirigente responsabile di uno o piu' reparti dell'azienda, con mansioni commerciali o tecniche; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «Stato membro di stabilimento»: lo stato membro dell'Unione europea nel quale il prestatore e' legalmente stabilito per esercitarvi una professione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «Stato membro d'origine»: lo Stato membro in cui il cittadino dell'Unione europea ha acquisito le proprie qualifiche professionali; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15; 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    «tirocinio professionale»: un periodo di pratica professionale effettuato sotto supervisione, purche' costituisca una condizione per l'accesso a una professione regolamentata e che puo' svolgersi in forma di tirocinio curriculare o in forma di tirocinio extracurriculare o, laddove previsto, anche in apprendistato; 
+
+                                
+                            
+                            
+                                n-ter)
+                                
+                                    «tessera professionale europea»: un certificato elettronico attestante o che il professionista ha soddisfatto tutte le condizioni necessarie per fornire servizi, su base temporanea e occasionale, nel territorio dello Stato o il riconoscimento delle qualifiche professionali ai fini dello stabilimento nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                n-quater)
+                                
+                                    «apprendimento permanente»: l'intero complesso di istruzione generale, istruzione e formazione professionale, istruzione non formale e apprendimento non formale e informale, intrapresi nel corso della vita, che comporta un miglioramento delle conoscenze, delle abilita' e delle competenze, che puo' includere l'etica professionale; 
+
+                                
+                            
+                            
+                                n-quinquies)
+                                
+                                    «motivi imperativi di interesse generale»: motivi riconosciuti tali dalla giurisprudenza della Corte di giustizia dell'Unione europea; 
+
+                                
+                            
+                            
+                                n-sexies)
+                                
+                                    «Sistema europeo di accumulazione e trasferimento dei crediti o crediti ECTS»: il sistema di crediti per l'istruzione superiore utilizzato nello Spazio europeo dell'istruzione superiore;
+
 ## Art. 5. — Autorita' competente
+
+1.
+                        
+                            
+                                Ai fini del riconoscimento di cui al titolo II e al titolo III, capi II e IV, sono competenti a ricevere le domande, a ricevere le dichiarazioni e a prendere le decisioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Presidenza del Consiglio dei ministri - Ufficio per lo sport, per tutte le attivita' che riguardano il settore sportivo e per quelle esercitate con la qualifica di professionista sportivo, ad accezione di quelle di cui alla lettera l-septies), nonche' per le professioni di cui alla legge 2 gennaio 1989, n. 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Ministero titolare della vigilanza per le professioni che necessitano, per il loro esercizio, dell'iscrizione in Ordini, Collegi, albi, registri o elenchi, fatto salvo quanto previsto alle lettere f) e l-sexies); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica, per le professioni svolte in regime di lavoro subordinato presso la pubblica amministrazione, salvo quanto previsto alle lettere e), f) e g); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il Ministero della salute, per le professioni sanitarie; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il Ministero dell'istruzione, dell'universita' e della ricerca, per i docenti di scuole dell'infanzia, primaria, secondaria di primo grado e secondaria superiore e per il personale amministrativo, tecnico e ausiliario della scuola nonche' per il personale ricercatore e per le professioni di architetto, pianificatore territoriale, paesaggista, conservatore dei beni architettonici ed ambientali, architetto junior e pianificatore junior; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il Ministero dell'istruzione, dell'universita' e della ricerca per ogni altro caso relativamente a professioni che possono essere esercitate solo da chi e' in possesso di qualifiche professionali di cui all'articolo 19, comma 1, lettere d) ed e), salvo quanto previsto alla lettera c); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il Ministero dei beni e delle attivita' culturali e del turismo per le attivita' afferenti al settore del restauro e della manutenzione dei beni culturali, secondo quanto previsto dai commi 7, 8 e 9 dell'articolo 29 del decreto legislativo 22 gennaio 2004, n. 42, e successive modificazioni ((...)); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il Ministero del lavoro e delle politiche sociali per ogni altro caso relativamente a professioni che possono essere esercitate solo da chi e' in possesso di qualifiche professionali di cui all'articolo 19, comma 1, lettere a), b) e c) nonche' per la professione di consulente del lavoro, per le professioni afferenti alla conduzione di impianti termici e di generatori di vapore; 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    il Ministero dello sviluppo economico, per la professione di consulente in proprieta' industriale e per quella di agente immobiliare; 
+
+                                
+                            
+                            
+                                l-ter)
+                                
+                                    il Ministero delle politiche agricole alimentari e forestali per le professioni di classificatore di carcasse suine e classificatore di carcasse bovine; 
+
+                                
+                            
+                            
+                                l-quater)
+                                
+                                    il Ministero delle infrastrutture e dei trasporti, per le professioni di insegnante di autoscuola, istruttore di autoscuola e assistente bagnante; 
+
+                                
+                            
+                            
+                                l-quinquies)
+                                
+                                    il Ministero dell'interno, per le professioni afferenti all'area dei servizi di controllo e della sicurezza, nonche' per le professioni di investigatore privato, titolare di istituto di investigazioni private, addetto ai servizi di accoglienza in ambito sportivo; 
+
+                                
+                            
+                            
+                                l-sexies)
+                                
+                                    l'Agenzia delle dogane e dei monopoli, per la professione di spedizioniere doganale/doganalista; 
+
+                                
+                            
+                            
+                                l-septies)
+                                
+                                    il Comitato olimpico nazionale italiano, per le professioni di maestro di scherma, allenatore, preparatore atletico, direttore tecnico sportivo, dirigente sportivo e ufficiale di gara; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le regioni a statuto speciale e le province autonome di Trento e di Bolzano per le professioni per le quali sussiste competenza esclusiva, ai sensi dei rispettivi statuti.
 
 Per le attivita' di cui al titolo III, capo III, le regioni e le province autonome di Trento e di Bolzano individuano l'autorita' competente a pronunciarsi sulle domande di riconoscimento presentate dai beneficiari.
 
 Le autorita' competenti di cui ai commi 1 e 2, ciascuna per le professioni di propria competenza, sono altresi' autorita' competenti responsabili della gestione delle domande di tessera professionale europea di cui agli articoli 5-ter e seguenti. Per la professione di guida alpina, l'Ufficio per lo sport della Presidenza del Consiglio dei ministri e', inoltre, autorita' competente incaricata dell'assegnazione delle domande di tessera professionale europea qualora vi siano piu' autorita' regionali competenti, cosi' come previsto dall'articolo 2 del regolamento di esecuzione (UE) n. 983/2015 della Commissione del 24 giugno 2015.
 
+3.
+                        
+                            
+                                Fino all'individuazione di cui al comma 2, sulle domande di riconoscimento provvedono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Presidenza del Consiglio dei Ministri - Ufficio per lo sport, per le attivita' di cui all'allegato IV, Lista III, punto 4), limitatamente alle attivita' afferenti al settore sportivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Ministero dello sviluppo economico per le attivita' di cui all'allegato IV, Lista I, Lista II e Lista III e non comprese nelle lettere d), e) ed f); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il Ministero dei beni e delle attivita' culturali e del turismo, per le attivita' di cui all'allegato IV, Lista II e III, non comprese nelle lettere c), d),
+                                
+                            
+                            
+                                e)
+                                
+                                    ed f); 
+ e) il Ministero del lavoro e delle politiche sociali per le attivita' di cui all'allegato IV, Lista III, punto 4), classe ex 851 e 855; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il Ministero dei trasporti per le attivita' di cui all'allegato IV, Lista II e Lista III, nelle parti afferenti ad attivita' di trasporto.
+
 ## Art. 5-bis. — (( (Tessera professionale europea (EPC) ))
 
 ((
+
+1.
+                        
+                            
+                                E' possibile richiedere il rilascio della tessera professionale europea alle autorita' competenti di cui all'articolo 5, per le professioni di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    infermiere responsabile dell'assistenza generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    farmacista; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fisioterapista; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    guida alpina; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    agente immobiliare.
 
 La richiesta di rilascio della tessera professionale europea viene gestita dall'autorita' competente di cui all'articolo 5 secondo le procedure previste dal regolamento di esecuzione (UE) n. 2015/983 della Commissione del 24 giugno 2015, attraverso il Sistema di informazione del mercato interno (IMI) di cui al regolamento (UE) n. 1024/2012, del Parlamento europeo e del Consiglio del 25 ottobre 2012.
 
@@ -131,6 +495,45 @@ Le autorita' giudiziarie nazionali che hanno emesso un provvedimento che limita 
 
 Gli ordini e i collegi professionali informano le autorita' competenti di cui all'articolo 5 dei provvedimenti di cui al comma 2 nonche' degli altri provvedimenti, di cui siano a conoscenza, che limitano o vietano al titolare di tessera professionale europea, anche solo a titolo temporaneo, l'esercizio totale o parziale sul territorio.
 
+4.
+                        
+                            
+                                Il contenuto degli aggiornamenti delle informazioni di cui al comma 1 si limita a indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'identita' del professionista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la professione interessata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni riguardanti l'autorita' nazionale che ha adottato la decisione di divieto o restrizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ambito di applicazione della restrizione o del divieto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il periodo nel quale si applica la restrizione o il divieto.
+
 L'accesso alle informazioni contenute nel fascicolo IMI e' limitato alle autorita' competenti in qualita' di Stato membro d'origine e ospitante conformemente alla direttiva 95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati. Le autorita' competenti rilasciano al titolare della tessera professionale europea, se richiesto, informazioni sul contenuto del fascicolo IMI.
 
 Le informazioni contenute nella tessera professionale europea si limitano alle informazioni necessarie ad accertare il diritto del titolare all'esercizio della professione per la quale la tessera e' stata rilasciata, vale a dire nome, cognome, data e luogo di nascita, professione, qualifiche formali del titolare e regime applicabile, autorita' competenti coinvolte, numero di tessera, caratteristiche di sicurezza e riferimento a un documento di identita' valido. Le informazioni relative all'esperienza professionale acquisita dal titolare della tessera professionale europea e le misure compensative superate sono incluse nel fascicolo IMI.
@@ -147,6 +550,31 @@ Fatto salvo il comma 3, le Autorita' competenti prevedono la possibilita' per da
 
 ((
 
+1.
+                        
+                            
+                                Le autorita' competenti di cui all'articolo 5, previa valutazione di ciascun singolo caso, accordano l'accesso parziale a un'attivita' professionale sul territorio nazionale unicamente se sono soddisfatte congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il professionista e' pienamente qualificato per esercitare nello Stato membro d'origine l'attivita' professionale per la quale si chiede un accesso parziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le differenze tra l'attivita' professionale legalmente esercitata nello Stato membro d'origine e la professione regolamentata in Italia sono cosi' rilevanti che l'applicazione di misure compensative comporterebbe per il richiedente di portare a termine il programma completo di istruzione e formazione previsto sul territorio nazionale al fine di avere accesso alla professione regolamentata nel suo complesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivita' professionale puo' essere oggettivamente separata da altre attivita' che rientrano nella professione regolamentata in Italia. In ogni caso un'attivita' verra' considerata separabile solo se puo' essere esercitata autonomamente nello Stato membro di origine.
+
 L'accesso parziale puo' essere rifiutato se cio' e' giustificato da un motivo imperativo di interesse generale, che permette di conseguire l'obiettivo perseguito e si limita a quanto necessario per raggiungere tale obiettivo.
 
 Le domande ai fini dello stabilimento sono esaminate conformemente alle disposizioni del titolo III, capi I e II.
@@ -159,7 +587,90 @@ In deroga alle disposizioni del presente decreto sull'uso del titolo professiona
 
 ## Art. 6. — (Centro di assistenza)
 
+1.
+                        
+                            
+                                La Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee assolve i compiti di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Coordinatore nazionale presso la Commissione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Centro di assistenza per il riconoscimento delle qualifiche professionali.
+
+2.
+                        
+                            
+                                Il coordinatore di cui al comma 1, lettera a), ha i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere l'applicazione uniforme del presente decreto da parte delle autorita' di cui all'articolo 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    favorire la circolazione di ogni informazione utile ad assicurare l'applicazione del presente decreto, in particolare quelle relative alle condizioni d'accesso alle professioni regolamentate, anche sollecitando l'aiuto dei centri di assistenza di cui al presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esaminare proposte di quadri comuni di formazione e di prove di formazione comune; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    scambiare informazioni e migliori prassi al fine di ottimizzare il continuo sviluppo professionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    scambiare informazioni e migliori prassi sull'applicazione delle misure compensative di cui all'articolo 22 per presente decreto.
+
 Le autorita' di cui all'articolo 5 mettono a disposizione del coordinatore di cui al comma 1, lettera a), le informazioni e i dati statistici necessari ai fini della predisposizione della relazione biennale sull'applicazione del presente decreto da trasmettere alla Commissione europea.
+
+4.
+                        
+                            
+                                Il centro di assistenza di cui al comma 1, lettera b), curando il raccordo delle attivita' dei centri di assistenza di cui al comma 5 e i rapporti con la Commissione europea: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce ai cittadini e ai centri di assistenza degli altri Stati membri l'assistenza necessaria in materia di riconoscimento delle qualifiche professionali interessate dal presente decreto, incluse le informazioni sulla legislazione nazionale che disciplina le professioni e il loro esercizio, compresa la legislazione sociale ed eventuali norme deontologiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assiste, se del caso, i cittadini per l'ottenimento dei diritti attribuiti loro dal presente decreto, eventualmente cooperando con il centro di assistenza dello Stato membro di origine nonche' con le autorita' competenti e con il punto di contatto unico di cui all'articolo 25 del decreto legislativo 26 marzo 2010, n. 59.
+Su richiesta della Commissione europea, il centro di assistenza assicura le informazioni sui risultati dell'assistenza prestata, entro due mesi dalla richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valuta le questioni di particolare rilevanza o complessita', congiuntamente con un rappresentante delle regioni e province autonome designato in sede di Conferenza Stato-regioni e province autonome di Trento e di Bolzano, nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
 Le autorita' competenti di cui all'articolo 5 istituiscono un proprio centro di assistenza che, in relazione ai riconoscimenti di competenza, assicura i compiti di cui alla lettera a) e b) del comma 4. I casi trattati ai sensi del comma 4, lettera b), sono comunicati al centro di assistenza di cui al comma 1, lettera b).
 
@@ -209,9 +720,161 @@ Nell'ambito della procedura di cui al titolo II, qualora le autorita' competenti
 
 Nell'ambito della procedura di riconoscimento a norma del titolo III l'autorita' di cui all'articolo 5, in caso di fondato dubbio, puo' chiedere all'autorita' competente dello Stato membro d'origine conferma sull'autenticita' degli attestati o dei titoli di formazione da esso rilasciati e, per le attivita' previste dal titolo III, capo IV, conferma che siano soddisfatte le condizioni minime di formazione previste dalla legge.
 
+5.
+                        
+                            
+                                Nei casi di cui al titolo III, in presenza di un titolo di formazione rilasciato da una autorita' competente dello Stato membro di origine a seguito di una formazione ricevuta in tutto o in parte in un centro legalmente stabilito in Italia, ovvero nel territorio di un altro Stato membro dell'Unione europea, l'autorita' competente di cui all'articolo 5 assicura l'ammissione alla procedura di riconoscimento previa verifica, ((in caso di dubbio motivato,)) presso la competente autorita' dello stato membro d'origine, che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il programma di formazione del centro che ha impartito la formazione sia stato certificato nelle forme prescritte dall'autorita' competente che ha rilasciato il titolo di formazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il titolo di formazione in oggetto sia lo stesso titolo rilasciato dall'autorita' competente dello stato membro d'origine a seguito del percorso formativo impartito integralmente nella propria struttura d'origine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i titoli di formazione di cui alla lettera b) conferiscano gli stessi diritti d'accesso e di esercizio della relativa professione.
+
 ## Art. 8-bis. — (( (Meccanismo di allerta) ))
 
 ((
+
+1.
+                        
+                            
+                                Gli ordini o i collegi professionali competenti e, nel caso in cui per la professione regolamentata non esistano ordini o collegi professionali, le autorita' competenti di cui all'articolo 5 informano le autorita' competenti di tutti gli altri Stati membri, mediante un'allerta attraverso il sistema IMI, dei provvedimenti che limitano o vietano ad un professionista, anche solo a titolo temporaneo, l'esercizio totale o parziale sul territorio nazionale delle seguenti attivita' professionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    medico e medico generico, in possesso di un titolo di formazione di cui all'allegato V, punti 5.1.1 e 5.1.4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    medico specialista, in possesso di un titolo di cui all'allegato V, punto 5.1.3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    infermiere responsabile dell'assistenza generale, in possesso di un titolo di formazione di cui all'allegato V, punto 5.2.2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dentista in possesso di un titolo di formazione di cui all'allegato V, punto 5.3.2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dentista specialista in possesso di un titolo di formazione di cui all'allegato V, punto 5.3.3; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    veterinario in possesso di un titolo di formazione di cui all'allegato V, punto 5.4.2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ostetrica in possesso di un titolo di formazione di cui all'allegato V, punto 5.5.2; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    farmacista in possesso di un titolo di formazione di cui all'allegato V, punto 5.6.2; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    possessori dei certificati di cui all'articolo 17, comma 9, attestanti che il possessore ha completato una formazione che soddisfa i requisiti minimi di cui rispettivamente agli articoli 33, 34, 38, 41, 42, 44, 46 o 50, ma che e' iniziata prima delle date di riferimento per i titoli di cui all'allegato V, punti 5.1.3, 5.1.4, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.5.2 e 5.6.2; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    possessori di attestati di diritti acquisiti di cui agli articoli 32, 35, 37, 40, 45, 33-bis, 43, 49 e 43-bis; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    tutti i professionisti che esercitano attivita' regolamentate aventi ripercussioni sulla sicurezza dei pazienti; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    professionisti che esercitano attivita' regolamentate relative all'istruzione dei minori, tra cui l'assistenza e l'istruzione della prima infanzia.
+
+2.
+                        
+                            
+                                Le informazioni sono trasmesse entro il termine di tre giorni dal momento in cui i soggetti di cui al comma 1 vengono a conoscenza della decisione che limita o vieta l'esercizio totale o parziale dell'attivita' professionale. Tali informazioni riguardano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'identita' del professionista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la professione in questione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni circa l'autorita' o il giudice nazionale che adotta la decisione sulla limitazione o il divieto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ambito di applicazione della limitazione o del divieto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il periodo durante il quale si applica la limitazione o il divieto.
 
 Le autorita' competenti di cui all'articolo 5 informano, altresi', entro al massimo tre giorni dalla data in cui vengono a conoscenza della decisione del tribunale, le autorita' competenti di tutti gli altri Stati membri, mediante un'allerta attraverso il sistema IMI, circa l'identita' dei professionisti che hanno presentato domanda di riconoscimento di una qualifica ai sensi del presente decreto e che sono stati successivamente giudicati dai tribunali responsabili di aver falsificato le qualifiche professionali in questo contesto.
 
@@ -237,6 +900,24 @@ Le disposizioni sulle autorita' legittimate a inviare o ricevere allerte e sul r
 
 ## Art. 9. — Libera prestazione di servizi e prestazione occasionale e temporanea
 
+1.
+                        
+                            
+                                Fatti salvi gli articoli da 10 a 15, la libera prestazione di servizi sul territorio nazionale non puo' essere limitata per ragioni attinenti alle qualifiche professionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il prestatore e' legalmente stabilito in un altro Stato membro per esercitarvi la corrispondente professione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di spostamento del prestatore; in tal caso, se nello Stato membro di stabilimento la professione non e' regolamentata, il prestatore deve aver esercitato tale professione per almeno un anno nel corso dei dieci anni che precedono la prestazione di servizi. ((La condizione che esige un anno di esercizio della professione non si applica se la professione o la formazione propedeutica alla professione e' regolamentata)).
+
 Le disposizioni del presente titolo si applicano esclusivamente nel caso in cui il prestatore si sposta sul territorio dello Stato per esercitare, in modo temporaneo e occasionale, la professione di cui al comma 1.
 
 Il carattere temporaneo e occasionale della prestazione e' valutato, dall'autorita' di cui all'art. 5, caso per caso, tenuto conto anche della natura della prestazione, della durata della prestazione stessa, della sua frequenza, della sua periodicita' e della sua continuita'.
@@ -250,6 +931,59 @@ In caso di spostamento, il prestatore e' soggetto ((a norme professionali, di ca
 ## Art. 10. — Dichiarazione preventiva in caso di spostamento del prestatore
 
 ). Tale dichiarazione ha validita' per l'anno in corso e deve essere rinnovata, se il prestatore intende successivamente fornire servizi temporanei o occasionali in tale Stato membro. Il prestatore puo' fornire la dichiarazione con qualsiasi mezzo idoneo di comunicazione.
+
+2.
+                        
+                            
+                                In occasione della prima prestazione, o in qualunque momento interviene un mutamento oggettivo della situazione attestata dai documenti, la dichiarazione di cui al comma 1 deve essere corredata di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un certificato o copia di un documento che attesti la nazionalita' del prestatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una certificazione dell'autorita' competente che attesti che il titolare e' legalmente stabilito in uno Stato membro per esercitare le attivita' in questione e che non gli e' vietato esercitarle, anche su base temporanea, al momento del rilascio dell'attestato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un documento che comprovi il possesso delle qualifiche professionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei casi di cui all'articolo 9, comma 1, lettera b), una prova con qualsiasi mezzo che il prestatore ha esercitato l'attivita' in questione per almeno un anno nei precedenti dieci anni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le professioni nel settore della sicurezza, nel settore della sanita' e per le professioni inerenti all'istruzione dei minori, inclusa l'assistenza e l'istruzione della prima infanzia, un attestato che comprovi l'assenza di sospensioni temporanee o definitive dall'esercizio della professione o di condanne penali. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    per le professioni che hanno implicazioni per la sicurezza dei pazienti, una dichiarazione da parte del richiedente di essere in possesso della conoscenza della lingua necessaria all'esercizio della professione; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    per le professioni riguardanti le attivita' di cui all'articolo 27, contenute nell'elenco notificato alla Commissione europea, per le quali e' necessaria una verifica preliminare delle qualifiche professionali, un certificato concernente la natura e la durata dell'attivita', rilasciato dall'autorita' o dall'organismo competente dello Stato membro di stabilimento.
 
 La presentazione della dichiarazione di cui al comma 1 consente al prestatore di avere accesso all'attivita' di servizio e di esercitarla su tutto il territorio nazionale.
 
@@ -306,6 +1040,52 @@ Le autorita' di cui all'articolo 5 provvedono affinche' lo scambio di tutte le i
 
 ## Art. 15. — Informazioni al destinatario della prestazione
 
+1.
+                        
+                            
+                                Nei casi in cui la prestazione e' effettuata con il titolo professionale dello Stato membro di stabilimento o con il titolo di formazione del prestatore, il prestatore e' tenuto a fornire al destinatario del servizio, in lingua italiana o in altra lingua comprensibile dal destinatario del servizio, le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il prestatore e' iscritto in un registro commerciale o in un analogo registro pubblico, il registro in cui e' iscritto, il suo numero d'iscrizione o un mezzo d'identificazione equivalente, che appaia in tale registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'attivita' e' sottoposta a un regime di autorizzazione nello Stato membro di stabilimento, gli estremi della competente autorita' di vigilanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ordine professionale, o analogo organismo, presso cui il prestatore e' iscritto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il titolo professionale o, ove il titolo non esista, il titolo di formazione del prestatore e lo Stato membro in cui e' stato conseguito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se il prestatore esercita un'attivita' soggetta all'IVA, il numero d'identificazione IVA di cui agli articoli 214 e 215 della direttiva 2006/112/CE del Consiglio, del 28 novembre 2006, relativa al sistema comune d'imposta sul valore aggiunto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le prove di qualsiasi copertura assicurativa o analoghi mezzi di tutela personale o collettiva per la responsabilita' professionale.
+
 ## - Titolo III LIBERTA' DI STABILIMENTO Capo I Norme procedurali
 
 ## Art. 16. — Procedura di riconoscimento in regime di stabilimento
@@ -313,6 +1093,31 @@ Le autorita' di cui all'articolo 5 provvedono affinche' lo scambio di tutte le i
 Ai fini del riconoscimento professionale come disciplinato dal presente titolo, il cittadino di cui all'articolo 2 presenta apposita domanda all'autorita' competente di cui all'articolo 5.
 
 Entro trenta giorni dal ricevimento della domanda di cui al comma 1 l'autorita' accerta la completezza della documentazione esibita, e ne da' notizia all'interessato. Ove necessario, l'Autorita' competente richiede le eventuali necessarie integrazioni.
+
+3.
+                        
+                            
+                                Fuori dai casi previsti dall'articolo 5, comma 2, per la valutazione dei titoli acquisiti, l'autorita' ((puo' indire)) una conferenza di servizi ai sensi della legge 7 agosto 1990, n. 241, previa consultazione del Consiglio Universitario Nazionale per le attivita' di cui al titolo III, capo IV, sezione VIII, alla quale partecipano rappresentanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle amministrazioni di cui all'articolo 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del Dipartimento per il coordinamento delle politiche comunitarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del Ministero degli affari esteri.
 
 Nella conferenza dei servizi sono sentiti un rappresentante dell'Ordine o Collegio professionale ovvero della categoria professionale interessata.
 
@@ -329,6 +1134,31 @@ Se l'esercizio della professione in questione e' condizionato alla prestazione d
 I beneficiari del riconoscimento esercitano la professione facendo uso della denominazione del titolo professionale, e della sua eventuale abbreviazione, prevista dalla legislazione italiana.
 
 ## Art. 17. — Domanda per il riconoscimento
+
+1.
+                        
+                            
+                                La domanda di cui all'articolo 16 e' corredata dei seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un certificato o copia di un documento che attesti la nazionalita' del prestatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una copia degli attestati di competenza o del titolo di formazione che da' accesso alla professione ed eventualmente un attestato dell'esperienza professionale dell'interessato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di cui all'articolo 27, un attestato relativo alla natura ed alla durata dell'attivita', rilasciato dall'autorita' o dall'organismo competente dello Stato membro d'origine o dello Stato membro da cui proviene il cittadino di cui all'articolo 2, comma 1.
 
 Le autorita' competenti di cui all'articolo 5 possono invitare il richiedente a fornire informazioni quanto alla sua formazione nella misura necessaria a determinare l'eventuale esistenza di differenze sostanziali rispetto alla formazione richiesta sul territorio dello Stato italiano. Qualora sia impossibile per il richiedente fornire tali informazioni, le autorita' competenti di cui all'articolo 5 si rivolgono al punto di contatto, all'autorita' competente o a qualsiasi altro organismo pertinente dello Stato membro di origine.
 
@@ -374,7 +1204,106 @@ Il Ministero dell'istruzione, dell'universita' e della ricerca, per le professio
 
 ## Art. 18. — Ambito di applicazione
 
+1.
+                        
+                            
+                                Il presente capo si applica a tutte le professioni non coperte dai capi III e IV del presente titolo e nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle attivita' elencate all'allegato IV, qualora il migrante non soddisfi i requisiti di cui agli articoli da 28 a 30; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((ai medici chirurghi con formazione di base, ai medici chirurghi specialisti, agli infermieri responsabili dell'assistenza generale, agli odontoiatri, agli odontoiatri specialisti, ai veterinari, alle ostetriche, ai farmacisti e agli architetti, qualora il migrante non soddisfi i requisiti di pratica professionale effettiva e lecita previsti agli articoli 32, 35, 37, 40, 40 bis, 43, 45, 47, 49 e 55;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    agli architetti, qualora il migrante sia in possesso di un titolo di formazione non elencato all'allegato V, punto 5.7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fatti salvi gli articoli 31, comma 1, 32 e 35, ai medici, agli infermieri, agli odontoiatri, ai veterinari, alle ostetriche, ai farmacisti e agli architetti in possesso di titoli di formazione specialistica, che devono seguire la formazione che porta al possesso dei titoli elencati all'allegato V, punti 5.1.1, 5.2.2, 5.3.2, 5.4.2, 5.5.2, 5.6.2 e 5.7.1, e solamente ai fini del riconoscimento della pertinente specializzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    agli infermieri responsabili dell'assistenza generale e agli infermieri specializzati in possesso di titoli di formazione specialistica, che seguono la formazione che porta al possesso dei titoli elencati all'allegato V, punto 5.2.2, qualora il migrante chieda il riconoscimento in un altro Stato membro in cui le pertinenti attivita' professionali sono esercitate da infermieri specializzati sprovvisti della formazione di infermiere responsabile dell'assistenza generale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    agli infermieri specializzati sprovvisti della formazione di infermiere responsabile dell'assistenza generale, qualora il migrante chieda il riconoscimento in un altro Stato membro in cui le pertinenti attivita' professionali sono esercitate da infermieri responsabili dell'assistenza generale, da infermieri specializzati sprovvisti della formazione di infermiere responsabile dell'assistenza generale o da infermieri specializzati in possesso di titoli di formazione specialistica, che seguono la formazione che porta al possesso dei titoli elencati all'allegato V, punto 5.2.2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai migranti in possesso dei requisiti previsti all'articolo 4, comma 1, lettera c), secondo periodo.
+
 ## Art. 19. — Livelli di qualifica
+
+1.
+                        
+                            
+                                Ai soli fini dell'applicazione delle condizioni di riconoscimento professionale di cui all'articolo 21 ((e all'articolo 22, comma 8-bis)), le qualifiche professionali sono inquadrate nei seguenti livelli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attestato di competenza: attestato rilasciato da un'autorita' competente dello Stato membro d'origine designata ai sensi delle disposizioni legislative, regolamentari o amministrative di tale Stato membro, sulla base: 
+ 1) o di una formazione non facente parte di un certificato o diploma ai sensi delle lettere b), c), d) o e), o di un esame specifico non preceduto da una formazione o dell'esercizio a tempo pieno della professione per tre anni consecutivi in uno Stato membro o a tempo parziale per un periodo equivalente nei precedenti dieci anni, 
+ 2) o di una formazione generale a livello d'insegnamento elementare o secondario attestante che il titolare possiede conoscenze generali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato: certificato che attesta il compimento di un ciclo di studi secondari, 
+ 1) o generale completato da un ciclo di studi o di formazione professionale diversi da quelli di cui alla lettera c) o dal tirocinio o dalla pratica professionale richiesti in aggiunta a tale ciclo di studi, 
+ 2) o tecnico o professionale, completato eventualmente da un ciclo di studi o di formazione professionale di cui al punto 1, o dal tirocinio o dalla pratica professionale richiesti in aggiunta a tale ciclo di studi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diploma: diploma che attesta il compimento: 
+ 1) o di una formazione a livello di insegnamento post-secondario diverso da quello di cui alle lettere d) ed e) di almeno un anno o di una durata equivalente a tempo parziale, di cui una delle condizioni di accesso e', di norma, il completamento del ciclo di studi secondari richiesto per accedere all'insegnamento universitario o superiore ovvero il completamento di una formazione scolastica equivalente al secondo ciclo di studi secondari, nonche' la formazione professionale eventualmente richiesta oltre al ciclo di studi post-secondari; 
+ ((2) o di una formazione o un'istruzione regolamentata o, nel caso di professione regolamentata, di una formazione a struttura particolare con competenze che vanno oltre quanto previsto al livello b, equivalenti al livello di formazione indicato al numero 1), se tale formazione conferisce un analogo livello professionale e prepara a un livello analogo di responsabilita' e funzioni, a condizione che detto diploma sia corredato di un certificato dello Stato membro di origine;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma: diploma che attesta il compimento di una formazione a livello di insegnamento post-secondario di una durata minima di tre e non superiore a quattro anni o di una durata equivalente a tempo parziale, impartita presso un'universita' o un istituto d'insegnamento superiore o un altro istituto che impartisce una formazione di livello equivalente, nonche' la formazione professionale eventualmente richiesta oltre al ciclo di studi post-secondari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma: diploma che attesta che il titolare ha completato un ciclo di studi post-secondari della durata di almeno quattro anni, o di una durata equivalente a tempo parziale, presso un'universita' o un istituto d'insegnamento superiore ovvero un altro istituto di livello equivalente e, se del caso, che ha completato con successo la formazione professionale richiesta in aggiunta al ciclo di studi post-secondari.
 
 ## Art. 20. — Titoli di formazione assimilati
 
@@ -387,6 +1316,32 @@ E' altresi' assimilata ad un titolo di formazione, alle stesse condizioni del co
 Al fine dell'applicazione dell'articolo 18, comma 1, per l'accesso o l'esercizio di una professione regolamentata sono ammessi al riconoscimento professionale le qualifiche professionali che sono prescritte da un altro Stato membro per accedere alla corrispondente professione ed esercitarla. Gli attestati di competenza o i titoli di formazione ammessi al riconoscimento ((sono rilasciati)) da un'autorita' competente in un altro Stato membro, designata ai sensi delle disposizioni legislative, regolamentari o amministrative di tale Stato; 
  b) ((LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15)).
 
+2.
+                        
+                            
+                                L'accesso e l'esercizio della professione regolamentata di cui al comma 1 sono consentiti anche ai richiedenti che abbiano esercitato a tempo pieno tale professione ((per un anno o, se a tempo parziale, per una durata complessiva equivalente)), nel corso dei precedenti dieci, in un altro Stato membro che non la regolamenti e abbiano uno o piu' attestati di competenza o uno o piu' titoli di formazione che soddisfino le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere stati rilasciati da un'autorita' competente in un altro Stato membro, designata ai sensi delle disposizioni legislative, regolamentari o amministrative di tale Stato membro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attestare la preparazione del titolare all'esercizio della professione interessata.
+
 ((3. Non e' necessario l'anno di esperienza professionale di cui al comma 2 se i titoli di formazione posseduti dal richiedente sanciscono una formazione e un'istruzione regolamentata. L'autorita' competente accetta il livello attestato ai sensi dell'articolo 19 dallo Stato membro di origine nonche' il certificato mediante il quale lo Stato membro di origine attesta che la formazione e l'istruzione regolamentata o la formazione professionale con una struttura particolare di cui all'articolo 19, comma 1, lettera c), numero 2), e' di livello equivalente a quello previsto dall'articolo 19, comma 1, lettera c), numero 1) ))
 
 ((
@@ -397,9 +1352,66 @@ In deroga ai commi 1 e 2 del presente articolo e all'articolo 22, l'autorita' co
 
 ## Art. 22. — Misure compensative
 
+1.
+                        
+                            
+                                Il riconoscimento di cui al presente capo puo' essere subordinato al compimento di un tirocinio di adattamento non superiore a tre anni o di una prova attitudinale, a scelta del richiedente, in uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la formazione ricevuta riguarda materie sostanzialmente diverse da quelle coperte dal titolo di formazione richiesto in Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se la professione regolamentata include una o piu' attivita' professionali regolamentate, mancanti nella corrispondente professione dello Stato membro d'origine del richiedente, e se la formazione richiesta dalla normativa nazionale riguarda materie sostanzialmente diverse da quelle dell'attestato di competenza o del titolo di formazione in possesso del richiedente.
+
 Nei casi di cui al comma 1 per l'accesso alle professioni di avvocato, dottore commercialista, ragioniere e perito commerciale, consulente per la proprieta' industriale, consulente del lavoro, attuario e revisore contabile, nonche' per l'accesso alle professioni di maestro di sci e di guida alpina, il riconoscimento e' subordinato al superamento di una prova attitudinale.
 
 Con provvedimento dell'autorita' competente di cui all'articolo 5, sentita la Presidenza del Consiglio dei Ministri - Dipartimento per il coordinamento delle politiche comunitarie, sono individuate altre professioni per le quali la prestazione di consulenza o assistenza in materia di diritto nazionale costituisce un elemento essenziale e costante dell'attivita'.
+
+4.
+                        
+                            
+                                In deroga al principio enunciato al comma 1, che lascia al richiedente il diritto di scelta, nei casi di cui al medesimo comma 1 le autorita' competenti di cui all'articolo 5 subordinano il riconoscimento al superamento di una prova attitudinale o di un tirocinio di adattamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi in cui si applica l'articolo 18, comma 1, lettere b) e c), l'articolo 18, comma 1, lettera d), limitatamente ai medici e agli odontoiatri, l'articolo 18, comma 1, lettera f), qualora il migrante chieda il riconoscimento per attivita' professionali esercitate da infermieri professionali e per attivita' professionali esercitate da infermieri specializzati in possesso di titoli di formazione specialistica, che seguono la formazione che porta al possesso dei titoli elencati all'allegato V, punto 5.2.2, o l'articolo 18, comma 1, lettera g); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi in cui si applica l'articolo 18, comma 1, lettera a), limitatamente alle attivita' esercitate a titolo autonomo o con funzioni direttive in una societa' per le quali la normativa vigente richieda la conoscenza e l'applicazione di specifiche disposizioni nazionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se e' richiesto dal titolare di una qualifica professionale di cui all'articolo 19, comma 1, lettera a), nei casi in cui la qualifica professionale nazionale richiesta e' classificata a norma dell'articolo 19, comma 1, lettera c); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se e' richiesto dal titolare di qualifica professionale di cui all'articolo 19, comma 1, lettera b), nei casi in cui la qualifica professionale nazionale richiesta e' classificata a norma dell'articolo 19, comma 1, lettere d) o e).
 
 COMMA ABROGATO DALLA L. 3 MAGGIO 2019, N. 37.
 
@@ -412,6 +1424,24 @@ L'applicazione dei commi 1 e 4) comporta una successiva verifica sull'eventuale 
 Con provvedimento dell'autorita' competente interessata, sentiti il Ministro per le politiche europee e i Ministri competenti per materia, osservata la procedura comunitaria di preventiva comunicazione agli altri Stati membri e alla Commissione contenente adeguata giustificazione della deroga, possono essere individuati altri casi per i quali in applicazione del comma 1 e' richiesta la prova attitudinale.
 
 Il provvedimento di cui al comma 7 e' efficace tre mesi dopo la sua comunicazione alla Commissione europea, se la stessa nel detto termine non chiede di astenersi dall'adottare la deroga.
+
+8-bis.
+                        
+                            
+                                La decisione di imporre un tirocinio di adattamento o una prova attitudinale e' debitamente motivata. In particolare al richiedente sono comunicate le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il livello di qualifica professionale richiesto dalla normativa nazionale e il livello di qualifica professionale detenuto dal richiedente secondo la classificazione stabilita dall'articolo 19; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le differenze sostanziali di cui al comma 5 e le ragioni per cui tali differenze non possono essere compensate dalle conoscenze, dalle abilita' e dalle competenze acquisite nel corso dell'esperienza professionale ovvero mediante apprendimento permanente formalmente convalidate a tal fine da un organismo competente.
 
 Al richiedente dovra' essere data la possibilita' di svolgere la prova attitudinale di cui al comma 1 entro sei mesi dalla decisione iniziale di imporre tale prova al richiedente.
 
@@ -444,15 +1474,132 @@ Per le attivita' elencate nell'allegato IV il cui accesso o esercizio e' subordi
 
 ## Art. 28. — Condizioni per il riconoscimento delle attivita' di cui alla Lista I dell'allegato IV
 
+1.
+                        
+                            
+                                In caso di attivita' di cui alla Lista I dell'allegato IV, l'attivita' deve essere stata precedentemente esercitata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per sei anni consecutivi come lavoratore autonomo o dirigente d'azienda; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per tre anni consecutivi come lavoratore autonomo o dirigente d'azienda, se il beneficiario prova di aver in precedenza ricevuto, per l'attivita' in questione, una formazione di almeno tre anni sancita da un certificato riconosciuto da uno Stato membro o giudicata del tutto valida da un competente organismo professionale; oppure 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per quattro anni consecutivi come lavoratore autonomo o dirigente d'azienda, se il beneficiario prova di aver in precedenza ricevuto, per l'attivita' in questione, una formazione di almeno due anni sancita da un certificato riconosciuto da uno Stato membro o giudicata del tutto valida da un competente organismo professionale; oppure 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per tre anni consecutivi come lavoratore autonomo, se il beneficiario prova di aver esercitato l'attivita' in questione per almeno cinque anni come lavoratore subordinato; 
+oppure 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per cinque anni consecutivi in funzioni direttive, di cui almeno tre anni con mansioni tecniche che implichino la responsabilita' di almeno uno dei reparti dell'azienda, se il beneficiario prova di aver in precedenza ricevuto, per l'attivita' in questione, una formazione di almeno tre anni sancita da un certificato riconosciuto da uno Stato membro o giudicata del tutto valida da un competente organismo professionale.
+
 Nei casi di cui alle lettere a) e d) del comma 1 l'attivita' non deve essere cessata da piu' di 10 anni alla data di presentazione della documentazione completa dell'interessato alle autorita' competenti di cui all'articolo 5.
 
 Il comma 1, lettera e), non si applica alle attivita' del gruppo ex 855 (parrucchieri) della nomenclatura ISIC.
 
 ## Art. 29. — Condizioni per il riconoscimento delle attivita' di cui alla Lista II dell'Allegato IV
 
+1.
+                        
+                            
+                                In caso di attivita' di cui alla Lista II dell'allegato IV, l'attivita' in questione deve essere stata precedentemente esercitata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per cinque anni consecutivi come lavoratore autonomo o dirigente d'azienda; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per tre anni consecutivi come lavoratore autonomo o dirigente d'azienda, se il beneficiario prova di aver in precedenza ricevuto, per l'attivita' in questione, una formazione di almeno tre anni sancita da un certificato riconosciuto da uno Stato membro o giudicata del tutto valida da un competente organismo professionale; oppure 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per quattro anni consecutivi come lavoratore autonomo o dirigente d'azienda, se il beneficiario prova di aver in precedenza ricevuto, per l'attivita' in questione, una formazione di almeno due anni sancita da un certificato riconosciuto da uno Stato membro o giudicata del tutto valida da un competente organismo professionale; oppure 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per tre anni consecutivi come lavoratore autonomo o dirigente d'azienda, se il beneficiario prova di aver esercitato l'attivita' in questione per almeno cinque anni come lavoratore subordinato; oppure 
+                                
+                            
+                            
+                                e)
+                                
+                                    per cinque anni consecutivi come lavoratore subordinato, se il beneficiario prova di aver in precedenza ricevuto, per l'attivita' in questione, una formazione di almeno tre anni sancita da un certificato riconosciuto da uno Stato membro o giudicata del tutto valida da un competente organismo professionale; oppure 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per sei anni consecutivi come lavoratore subordinato, se il beneficiario prova di aver in precedenza ricevuto, per l'attivita' in questione, una formazione di almeno due anni sancita da un certificato riconosciuto da uno Stato membro o giudicata del tutto valida da un competente organismo professionale.
+
 Nei casi di cui alle lettere a) e d) del comma 1, l'attivita' non deve essere cessata da piu' di 10 anni alla data di presentazione della documentazione completa dell'interessato alle autorita' competenti di cui all'articolo 5.
 
 ## Art. 30. — Condizioni per il riconoscimento delle attivita' di cui alla Lista III dell'allegato IV
+
+1.
+                        
+                            
+                                In caso di attivita' di cui alla Lista III dell'allegato IV, l'attivita' in questione deve essere stata precedentemente esercitata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per tre anni consecutivi come lavoratore autonomo o dirigente d'azienda; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per due anni consecutivi come lavoratore autonomo o dirigente d'azienda, se il beneficiario prova di aver in precedenza ricevuto, per l'attivita' in questione, una formazione sancita da un certificato riconosciuto da uno Stato membro o giudicata del tutto valida da un competente organismo professionale; oppure 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per due anni consecutivi come lavoratore autonomo o dirigente d'azienda se il beneficiario prova di aver in precedenza esercitato l'attivita' in questione come lavoratore subordinato per almeno tre anni; oppure 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per tre anni consecutivi come lavoratore subordinato, se il beneficiario prova di aver in precedenza ricevuto, per l'attivita' in questione, una formazione sancita da un certificato riconosciuto da uno Stato membro o giudicata del tutto valida da un competente organismo professionale.
 
 Nei casi di cui alle lettere a) e c) del comma 1, l'attivita' non deve essere cessata da piu' di 10 anni alla data di presentazione della documentazione completa dell'interessato alle autorita' competenti di cui all'articolo 5.
 
@@ -494,9 +1641,49 @@ Non hanno diritto al riconoscimento professionale ai sensi del presente decreto 
 
 Fatti salvi i diritti acquisiti relativi alle professioni di cui al presente capo i titoli di formazione che danno accesso alle attivita' professionali di medico con formazione di medico di base e di medico specialista, di infermiere responsabile dell'assistenza generale, di odontoiatra, di odontoiatra specialista, di veterinario, ((di ostetrica e)) di farmacista in possesso dei cittadini di cui all'articolo 2, comma 1 e che non soddisfano l'insieme dei requisiti di formazione di cui agli articoli 33, 34, 38, 41, 42, 44, 46 e 50 sono riconosciuti se sanciscono il compimento di una formazione iniziata prima delle date indicate nell'allegato V, punti 5.1.1., 5.1.2., 5.2.2., 5.3.2, 5.3.3, 5.4.2, 5.5.2, 5.6.2 e se sono accompagnati da un attestato che certifica l'esercizio effettivo e lecito dell'attivita' in questione per almeno tre anni consecutivi nei cinque anni che precedono il rilascio dell'attestato stesso.
 
+2.
+                        
+                            
+                                Il riconoscimento e' altresi' assicurato ai titoli di formazione in medicina che danno accesso alle attivita' professionali di medico con formazione di base e di medico specialista, di infermiere responsabile dell'assistenza generale, di odontoiatra, di odontoiatra specialista, di veterinario, di ostetrica e di farmacista acquisiti sul territorio della ex Repubblica democratica tedesca, che non soddisfano i requisiti minimi di formazione di cui agli articoli 33, 34, 38, 41, 42, 44, 46 e 50 se tali titoli sanciscono il completamento di una formazione iniziata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prima del 3 ottobre 1990 per i medici con formazione di base, infermieri responsabile dell'assistenza generale, odontoiatri, odontoiatri specialisti, veterinari, ostetriche e farmacisti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prima del 3 aprile 1992 per i medici specialisti.
+
 I titoli di formazione di cui al comma 2 consentono l'esercizio delle attivita' professionali su tutto il territorio della Germania alle stesse condizioni dei titoli di formazione rilasciati dalle competenti autorita' tedesche di cui all'allegato V, 5.1.1., 5.1.2, 5.2.2, 5.3.2, 5.3.3, 5.4.2, 5.5.2, 5.6.2.
 
 Sono altresi' riconosciuti i titoli di formazione in medicina, che danno accesso alle attivita' professionali di medico con formazione di base e di medico specialista, di infermiere responsabile dell'assistenza generale, di veterinario, di ostetrica, di farmacista e di architetto che sono in possesso dei cittadini di cui all'articolo 2, comma 1, e che sono stati rilasciati nell'ex Cecoslovacchia, o per i quali la corrispondente formazione e' iniziata, per la Repubblica ceca e la Slovacchia, anteriormente al 1° gennaio 1993, qualora le autorita' dell'uno o dell'altro Stato membro sopra indicato attestino che detti titoli di formazione hanno sul loro territorio la stessa validita' giuridica dei titoli che esse rilasciano e, per quanto riguarda gli architetti, la stessa validita' giuridica dei titoli menzionati, per detti Stati membri, all'allegato VI, punto 6), per quanto riguarda l'accesso e l'esercizio delle attivita' professionali di medico con formazione di base, medico specialista, infermiere responsabile dell'assistenza generale, veterinario, ostetrica e farmacista, relativamente alle attivita' di cui all'articolo 51, e di architetto, relativamente alle attivita' di cui all'articolo 54. Detto attestato deve essere corredato da un certificato rilasciato dalle medesime autorita', il quale dimostri l'effettivo e lecito esercizio da parte dei cittadini in questione, nel territorio di questi, delle attivita' in oggetto per almeno tre anni consecutivi nei cinque anni precedenti il rilascio del certificato.
+
+5.
+                        
+                            
+                                Sono altresi' riconosciuti ai sensi dell'articolo 31 i titoli di formazione in medicina, che danno accesso alle attivita' professionali di medico con formazione di base e di medico specialista, di infermiere responsabile dell'assistenza generale, di odontoiatra, di odontoiatra specialista, di veterinario, di ostetrica, di farmacista e di architetto che sono in possesso dei cittadini di cui all'articolo 2, comma 1, e che sono stati rilasciati nell'ex Unione Sovietica, o per cui la corrispondente formazione e' iniziata: 
+                            
+                            
+                                a)
+                                
+                                    per l'Estonia, anteriormente al 20 agosto 1991;
+                                
+                            
+                            
+                                b)
+                                
+                                    per la Lettonia, anteriormente al 21 agosto 1991;
+                                
+                            
+                            
+                                c)
+                                
+                                    per la Lituania, anteriormente all'11 marzo 1990, qualora le autorita' di uno dei tre Stati membri sopra citati attestino che detti titoli hanno sul loro territorio la stessa validita' giuridica dei titoli che esse rilasciano e, per quanto riguarda gli architetti, la stessa validita' giuridica dei titoli menzionati, per detti Stati membri, all'allegato VI, punto 6, per quanto riguarda l'accesso alle, e l'esercizio delle, attivita' professionali di medico con formazione di base, medico specialista, infermiere responsabile dell'assistenza generale, dentista, dentista specialista, veterinario, ostetrica e farmacista, relativamente alle attivita' di cui all'articolo 46, e di architetto, relativamente alle attivita' di cui all'articolo 54. Detto attestato deve essere corredato da un certificato rilasciato dalle medesime autorita', il quale dimostri l'effettivo e lecito esercizio da parte dei cittadini in questione, nel territorio di questi, delle attivita' in oggetto per almeno tre anni consecutivi nei cinque anni precedenti il rilascio del certificato.
 
 Sono altresi' ammessi al riconoscimento di cui all'articolo 31 i titoli di formazione in medicina, che danno accesso alle attivita' professionali di medico con formazione di base e di medico specialista, di infermiere responsabile dell'assistenza generale, di odontoiatra, di odontoiatra specialista, di veterinario, di ostetrica, di farmacista e di architetto che sono in possesso dei cittadini di cui all'articolo 1 e che sono stati rilasciati nell'ex Jugoslavia, o per i quali la corrispondente formazione e' iniziata, per la Slovenia, anteriormente al 25 giugno 1991, e, per la Croazia, anteriormente all'8 ottobre 1991, qualora le autorita' degli Stati membri sopra citati attestino che detti titoli hanno sul loro territorio la stessa validita' giuridica dei titoli che esse rilasciano e, per quanto riguarda gli architetti, la stessa validita' giuridica dei titoli menzionati, per detti Stati membri, all'allegato VI, punto 6, per quanto riguarda l'accesso alle, e l'esercizio delle, attivita' professionali di medico con formazione di base, medico specialista, infermiere responsabile dell'assistenza generale, dentista, dentista specialista, veterinario, ostetrica e farmacista, relativamente alle attivita' di cui all'articolo 51, e di architetto, relativamente alle attivita' di cui all'articolo 54. Detto attestato deve essere corredato da un certificato rilasciato dalle medesime autorita', il quale dimostri l'effettivo e lecito esercizio da parte dei cittadini di tali Stati membri, nel territorio di questi, delle attivita' in questione per almeno tre anni consecutivi nei cinque anni precedenti il rilascio del certificato.
 
@@ -508,6 +1695,38 @@ I titoli di formazione di medico, di infermiere responsabile dell'assistenza gen
 
 L'ammissione alla formazione di medico chirurgo e' subordinata al possesso del diploma di scuola secondaria superiore, che dia accesso, per tali studi, alle universita'.
 
+2.
+                        
+                            
+                                La formazione di medico chirurgo garantisce l'acquisizione da parte dell'interessato delle seguenti conoscenze e competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguate conoscenze delle scienze sulle quali si fonda l'arte medica, nonche' una buona comprensione dei metodi scientifici, compresi i principi relativi alla misura delle funzioni biologiche, alla valutazione di fatti stabiliti scientificamente e all'analisi dei dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adeguate conoscenze della struttura, delle funzioni e del comportamento degli esseri umani, in buona salute e malati, nonche' dei rapporti tra l'ambiente fisico e sociale dell'uomo ed il suo stato di salute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adeguate conoscenze dei problemi e delle metodologie cliniche atte a sviluppare una concezione coerente della natura delle malattie mentali e fisiche, dei tre aspetti della medicina: prevenzione, diagnosi e terapia, nonche' della riproduzione umana; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adeguata esperienza clinica acquisita sotto opportuno controllo in ospedale.
+
 La formazione di cui al comma l comprende un percorso formativo di durata minima ((di cinque anni di studio complessivi, che possono essere espressi in aggiunta anche in crediti ECTS equivalenti, consistenti in almeno)) 5.500 ore di insegnamento teoriche e pratiche impartite in una universita' o sotto il controllo di una universita'.
 
 Per coloro che hanno iniziato i loro studi prima del 1° gennaio 1972, la formazione di cui al comma 2 puo' comportare una formazione pratica a livello universitario di 6 mesi effettuata a tempo pieno sotto il controllo delle autorita' competenti.
@@ -517,6 +1736,32 @@ Fermo restando il principio dell'invarianza della spesa, la formazione continua,
 ## Art. 34. — Formazione medica specialistica e denominazione medica specialistica
 
 L'ammissione alla formazione medica specializzata e' subordinata al compimento e alla convalida di cinque anni di studi nel quadro del ciclo di formazione di cui all'articolo 33 durante i quali sono state acquisite appropriate conoscenze di medico chirurgo.
+
+2.
+                        
+                            
+                                
+                                    ((La formazione che permette di ottenere un diploma di medico chirurgo specialista nelle specializzazioni indicate nell'allegato V, punti 5.1.2, 5.1.3, comporta la partecipazione personale del medico in formazione specialistica alle attivita' e alle responsabilita' relative ai servizi presso cui esegue la formazione e risponde ai seguenti requisiti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    presupporre il conferimento e validita' del titolo conseguito a seguito di un ciclo di formazione di cui all'articolo 33 nel corso del quale siano state acquisite adeguate conoscenze nel campo della medicina di base; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    insegnamento teorico e pratico, effettuato in un centro universitario, un centro ospedaliero universitario o anche un istituto di cure sanitarie a tal fine autorizzato da autorita' od organi competenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    formazione a tempo pieno sotto il controllo delle autorita' o enti competenti.
 
 ((2-bis. La formazione che si svolge a tempo pieno in luoghi appositi riconosciuti dalle autorita' competenti implica la partecipazione guidata del medico in formazione specialistica a tutte le attivita' mediche della struttura in cui essa avviene, compresi i turni di guardia, nel rispetto degli ordinamenti didattici del corso di studi, in modo che lo specializzando dedichi alla formazione pratica e teorica tutta la sua attivita' per l'intera durata della settimana lavorativa e per tutta la durata dell'anno, secondo modalita' fissate dalle competenti autorita'. In tali casi si applicano il regime giuridico e il trattamento economico di cui agli articoli da 37 a 41 del decreto legislativo 17 agosto 1999, n. 368))
 
@@ -575,6 +1820,24 @@ Il Ministero della salute fornisce a richiesta delle competenti autorita' dei Pa
 
 ## Art. 38. — Formazione d'infermiere responsabile dell'assistenza generale
 
+1.
+                        
+                            
+                                L'ammissione alla formazione di infermiere responsabile dell'assistenza generale e' subordinata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al completamento di una formazione scolastica generale di dodici anni sancita da un diploma, attestato o altro titolo rilasciato da autorita' od organi competenti di uno Stato membro, o da un certificato attestante il superamento di un esame di livello equivalente che dia accesso all'universita' o a istituti di insegnamento superiore di un livello riconosciuto come equivalente; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al completamento di una formazione scolastica generale di almeno dieci anni sancita da un diploma, attestato o altro titolo rilasciato da autorita' od organi competenti di uno Stato membro, o da un certificato attestante il superamento di un esame di livello equivalente che dia accesso alle scuole professionali o ai programmi di formazione professionale per infermieri.
+
 La formazione d'infermiere responsabile dell'assistenza generale avviene a tempo pieno con un programma che corrisponde almeno a quello di cui all'allegato V, punto 5.2.1.
 
 La formazione d'infermiere responsabile dell'assistenza generale comprende almeno tre anni di studi complessivi, che possono essere espressi in aggiunta anche in crediti ECTS equivalenti, consistenti in almeno 4.600 ore d'insegnamento teorico e clinico. L'insegnamento teorico rappresenta almeno un terzo e quello clinico almeno la meta' della durata minima della formazione. Possono essere accordate esenzioni parziali a persone che hanno acquisito parte di questa formazione nel quadro di altre formazioni di livello almeno equivalente.
@@ -583,6 +1846,67 @@ L'istruzione teorica e' la parte della formazione di infermiere dalla quale gli 
 
 L'insegnamento clinico e' la parte di formazione di infermiere con cui il candidato infermiere apprende, nell'ambito di un gruppo e a diretto contatto con individui o collettivita' sani o malati, a pianificare, dispensare e valutare le necessarie cure infermieristiche globali in base a conoscenze, abilita' e competenze acquisite. Egli apprende non solo a lavorare come membro di un gruppo, ma anche a essere un capogruppo che organizza cure infermieristiche globali, e anche l'educazione alla salute per singoli individui e piccoli gruppi in seno all'istituzione sanitaria o alla collettivita'. L'istituzione incaricata della formazione d'infermiere e' responsabile del coordinamento tra l'insegnamento teorico e quello clinico per tutto il programma di studi. L'attivita' d'insegnamento ha luogo in ospedali e altre istituzioni sanitarie e nella collettivita', sotto la responsabilita' di infermieri insegnanti e con la cooperazione e l'assistenza di altri infermieri qualificati. All'attivita' dell'insegnamento potra' partecipare anche altro personale qualificato. I candidati infermieri partecipano alle attivita' dei servizi in questione nella misura in cui queste contribuiscono alla loro formazione, consentendo loro di apprendere ad assumersi le responsabilita' che le cure infermieristiche implicano.
 
+6.
+                        
+                            
+                                
+                                    ((La formazione di infermiere responsabile dell'assistenza generale garantisce l'acquisizione da parte del professionista in questione delle conoscenze e abilita' seguenti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((un'estesa conoscenza delle scienze che sono alla base dell'assistenza infermieristica generale, compresa una sufficiente conoscenza dell'organismo, delle funzioni fisiologiche e del comportamento delle persone sane e malate, nonche' delle relazioni esistenti tra lo stato di salute e l'ambiente fisico e sociale dell'essere umano;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((una conoscenza della natura e dell'etica della professione e dei principi generali riguardanti la salute e l'assistenza infermieristica;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((un'adeguata esperienza clinica; tale esperienza, che deve essere scelta per il suo valore formativo, deve essere acquisita sotto il controllo di personale infermieristico qualificato e in luoghi in cui il numero del personale qualificato e l'attrezzatura siano adeguati all'assistenza infermieristica dei pazienti;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((la capacita' di partecipare alla formazione pratica del personale sanitario e un'esperienza di lavoro con tale personale e con altri professionisti del settore sanitario;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((la capacita' di fornire cure infermieristiche personalizzate e di responsabilizzare i pazienti, i parenti e le altre persone interessate in relazione all'autoassistenza e alla necessita' di condurre uno stile di vita sano;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((la capacita' di sviluppare un approccio efficace alla leadership e capacita' decisionali;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((conoscenza delle innovazioni tecniche relative ai metodi di assistenza sanitaria e infermieristica)).
+
 ## Art. 39. — Esercizio delle attivita' professionali d'infermiere responsabile dell'assistenza generale
 
 Le attivita' professionali d'infermiere responsabile dell'assistenza generale sono le attivita' esercitate a titolo professionale e indicate nell'allegato V, punto 5.2.2.
@@ -590,6 +1914,26 @@ Le attivita' professionali d'infermiere responsabile dell'assistenza generale so
 ## Art. 40. — Diritti acquisiti specifici agli infermieri responsabili dell'assistenza generale
 
 Se agli infermieri responsabili dell'assistenza generale si applicano le norme generali sui diritti acquisiti, le attivita' da essi svolte devono comprendere la piena responsabilita' della programmazione, organizzazione e somministrazione delle cure infermieristiche ai pazienti.
+
+1-bis.
+                        
+                            
+                                Ai cittadini di cui all'articolo 2, comma 1, allo scopo di verificare che gli infermieri interessati siano in possesso di un livello di conoscenza e di competenza paragonabile a quello degli infermieri in possesso delle qualifiche di cui alla lista per la Polonia, al punto 5.2.2 dell'allegato V, sono riconosciuti i titoli di infermiere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilasciati in Polonia agli infermieri che abbiano completato anteriormente al 1º maggio 2004 la corrispondente formazione che non soddisfa i requisiti minimi di formazione di cui all'articolo 31; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attestati dal diploma di «licenza di infermiere» ottenuto sulla base di uno speciale programma di rivalorizzazione di cui: 
+ 1) all'articolo 11 della legge del 20 aprile 2004, che modifica la legge sulle professioni di infermiere e ostetrica e taluni altri atti giuridici (Gazzetta Ufficiale della Repubblica di Polonia del 2004 n. 92, pag. 885 e del 2007, n. 176, pag. 1237), e il regolamento del Ministro della sanita' dell'11 maggio 2004 sulle condizioni dettagliate riguardanti i corsi impartiti agli infermieri e alle ostetriche, che sono titolari di un certificato di scuola secondaria (esame finale - maturita') e che hanno conseguito un diploma di infermiere e di ostetrica presso un liceo medico o una scuola professionale medica (Gazzetta Ufficiale della Repubblica di Polonia del 2004, n. 110, pag. 1170 e del 2010, n. 65, pag. 420), o 
+ 2) all'articolo 52, paragrafo 3, della legge del 15 luglio 2011 relativa alle professioni di infermiere e ostetrica (Gazzetta Ufficiale della Repubblica di Polonia del 2011, n. 174, pag. 1039) e al regolamento del Ministro della sanita' del 14 giugno 2012 sulle condizioni dettagliate riguardanti i corsi di istruzione universitaria impartiti agli infermieri e alle ostetriche che sono titolari di un certificato di scuola secondaria (esame finale - maturita') e che hanno conseguito un diploma di infermiere e di ostetrica presso una scuola medica secondaria o un istituto di studi superiori (Gazzetta Ufficiale della Repubblica di Polonia del 2012, pag. 770).
 
 ((COMMA ABROGATO DAL D.LGS. 6 NOVEMBBRE 2025, N. 169)).
 
@@ -619,6 +1963,59 @@ L'ammissione alla formazione di odontoiatra e' subordinata al possesso di un dip
 
 La formazione dell'odontoiatra comprende un percorso di studi teorici e pratici della durata minima di cinque anni svolti a tempo pieno che possono essere espressi in aggiunta anche in crediti ECTS equivalenti e consiste in almeno 5.000 ore di insegnamento. Il programma di studi, che permette il conseguimento del diploma di laurea in odontoiatria e protesi dentaria, corrisponde almeno a quello di cui all'allegato V, punto 5.3.1. Detti studi sono effettuati presso un'universita' o sotto il controllo di un'universita'.
 
+3.
+                        
+                            
+                                
+                                    ((La formazione dell'odontoiatra garantisce l'acquisizione da parte dell'interessato delle conoscenze e abilita' seguenti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((adeguate conoscenze delle scienze sulle quali si fonda l'odontoiatria, nonche' una buona comprensione dei metodi scientifici e in particolare dei principi relativi alla misura delle funzioni biologiche, alla valutazione di fatti stabiliti scientificamente e all'analisi dei dati;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((adeguate conoscenze della costituzione, della fisiologia e del comportamento di persone sane e malate, nonche' del modo in cui l'ambiente naturale e sociale influisce sullo stato di salute dell'uomo, nella misura in cui cio' sia correlato all'odontoiatria;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((adeguate conoscenze della struttura e della funzione di denti, bocca, mascelle e dei relativi tessuti, sani e malati, nonche' dei loro rapporti con lo stato generale di salute ed il benessere fisico e sociale del paziente;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((adeguate conoscenze delle discipline e dei metodi clinici che forniscano un quadro coerente delle anomalie, lesioni e malattie dei denti, della bocca, delle mascelle e dei relativi tessuti, nonche' dell'odontoiatria sotto l'aspetto preventivo, diagnostico e terapeutico;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((un'adeguata esperienza clinica acquisita sotto opportuno controllo;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((un'adeguata conoscenza dell'odontoiatria digitale e una buona comprensione del suo uso e della sua applicazione sicura nella pratica.))
+
 ## Art. 42. — Formazione di odontoiatra specialista
 
 L'ammissione alle scuole di specializzazione in odontoiatria presuppone il possesso di un diploma di laurea in odontoiatria e protesi dentaria, corredato della relativa abilitazione all'esercizio professionale. Tale diploma attesta il compimento con successo di cinque anni di studi teorici e pratici nell'ambito del ciclo di formazione di cui all'articolo 41. 
@@ -630,15 +2027,84 @@ L'ammissione alle scuole di specializzazione in odontoiatria presuppone il posse
 
 Ai fini dell'esercizio dell'attivita' professionale di odontoiatra di cui all'allegato V, punto 5.3.2, ai cittadini di cui all'articolo 2, comma 1, in possesso di un titolo di medico rilasciato in Spagna, Austria, Repubblica Ceca, Slovacchia e Romania, che hanno iniziato la formazione in medicina entro la data indicata per ciascuno dei suddetti Stati nell'allegato V, punto 5.3.2, e' riconosciuto il titolo di formazione di medico purche' accompagnato da un attestato rilasciato dalla autorita' competente dello Stato di provenienza.
 
+2.
+                        
+                            
+                                Detto attestato deve certificare il contestuale rispetto delle sottoelencate condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che tali cittadini hanno esercitato effettivamente, lecitamente e a titolo principale nello Stato di provenienza l'attivita' professionale di odontoiatra, per almeno tre anni consecutivi nel corso dei cinque precedenti il rilascio dell'attestato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che tali persone sono autorizzate a esercitare la suddetta attivita' alle stesse condizioni dei titolari del titolo di formazione indicato per lo Stato di provenienza nell'allegato V, punto 5.3.2.
+
 E' dispensato dal requisito della pratica professionale di tre anni, di cui al comma 2, lettera a), chi ha portato a termine studi di almeno tre anni, che le autorita' competenti dello Stato di provenienza dell'interessato certificano equivalenti alla formazione di cui all'articolo 41.
 
 Per quanto riguarda la Repubblica Ceca e la Slovacchia, i titoli di formazione conseguiti nell'ex Cecoslovacchia sono riconosciuti al pari dei titoli di formazione cechi e slovacchi e alle stesse condizioni stabilite nei commi precedenti.
+
+5.
+                        
+                            
+                                Il Ministero della salute, previi opportuni accertamenti ed in collaborazione con gli Ordini dei medici chirurghi e degli odontoiatri, attesta il possesso dei titoli di formazione in medicina rilasciati in Italia a chi ha iniziato la formazione universitaria in medicina dopo il 28 gennaio 1980 e prima del 31 dicembre 1984.
+L'attestato deve certificare il rispetto delle tre seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che tali persone hanno superato la specifica prova attitudinale organizzata dalle competenti autorita' italiane per verificare il possesso delle conoscenze e competenze di livello paragonabile a quelle dei possessori del titolo di formazione indicato per l'Italia all'allegato V, punto 5.3.2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che tali persone hanno esercitato effettivamente, lecitamente e a titolo principale in Italia l'attivita' professionale di odontoiatra, per almeno tre anni consecutivi nel corso dei cinque precedenti il rilascio dell'attestato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che tali persone sono autorizzate a esercitare o esercitano effettivamente, lecitamente e a titolo principale le attivita' professionale di odontoiatra alle stesse condizioni dei possessori del titolo di formazione indicato per l'Italia all'allegato V, punto 5.3.2.
 
 E' dispensato dalla prova attitudinale, di cui al quinto comma, lettera a), chi ha portato a termine studi di almeno tre anni, che il Ministero della salute, previi gli opportuni accertamenti presso il Ministero dell'universita' e della ricerca ed in collaborazione con gli Ordini dei medici chirurghi e degli odontoiatri certificano equivalenti alla formazione di cui all'articolo 41. Sono equiparati ai predetti soggetti coloro che hanno iniziato la formazione universitaria in Italia di medico dopo il 31 dicembre 1984, purche' i tre anni di studio sopra citati abbiano avuto inizio entro il 31 dicembre 1994.
 
 ((
 
 I titoli ufficiali di formazione di odontoiatra, ottenuti in uno Stato membro, sono riconosciuti, a norma dell'articolo 31 del presente decreto, ai cittadini di cui all'articolo 2, comma 1, se hanno iniziato la propria formazione anteriormente al 18 gennaio 2016.
+
+6-ter.
+                        
+                            
+                                Ai cittadini di cui all'articolo 2, comma 1, sono riconosciuti i titoli di formazione inmedicina rilasciati in Spagna ai professionisti che hanno iniziato la formazione universitaria in medicina tra il 1° gennaio 1986 e il 31 dicembre 1997, purche' accompagnati da un attestato rilasciato dalle competenti autorita' spagnole. Detto attestato deve confermare il rispetto delle tre condizioni che seguono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il professionista interessato ha concluso proficuamente almeno tre anni di studio, certificato dalle competenti autorita' spagnole come equivalenti alla formazione di cui all'articolo 41; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il professionista in questione ha esercitato effettivamente, in maniera legale e a titolo principale in Spagna le attivita' di cui all'articolo 41, comma 4, per almeno tre anni consecutivi nel corso dei cinque precedenti il rilascio dell'attestato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il professionista in questione e' autorizzato a esercitare o esercita effettivamente, in maniera legale e a titolo principale le attivita' di cui all'articolo 41, comma 4, alle stesse condizioni dei titolari del titolo di formazione indicato per la Spagna all'allegato V, punto 5.3.2.
 
 ))
 
@@ -652,6 +2118,64 @@ Il diploma di laurea in medicina veterinaria si consegue a seguito di un corso d
 
 Il ciclo di formazione per il conseguimento del titolo di medico veterinario verte almeno sul programma indicato nell'allegato V, punto 5.4.1.
 
+4.
+                        
+                            
+                                La formazione di medico veterinario garantisce l'acquisizione da parte dell'interessato delle sottoelencate conoscenze e ((abilita')): 
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguate conoscenze delle scienze sulle quali si fondano le attivita' di medico veterinario ((e della pertinente legislazione dell'Unione)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adeguate conoscenze dell'anatomia, delle funzioni, del comportamento e delle esigenze fisiologiche degli animali, nonche' delle abilita' e competenze richieste per il loro allevamento, la loro alimentazione, il loro benessere, la loro riproduzione e la loro igiene in generale;
+                                
+                            
+                            
+                                c)
+                                
+                                    abilita' e competenze cliniche, epidemiologiche e analitiche necessarie ai fini della prevenzione, della diagnosi e delle terapie delle malattie degli animali, compresa anestesia, chirurgia asettica e morte senza dolore, sia individualmente che collettivamente, nonche' una conoscenza specifica delle malattie trasmissibili all'uomo;
+                                
+                            
+                            
+                                d)
+                                
+                                    conoscenze, abilita' e competenze necessarie all'utilizzo responsabile e ragionato dei prodotti medicinali veterinari, al fine di trattare e assicurare la sicurezza della catena alimentare e la protezione dell'ambiente;
+                                
+                            
+                            
+                                e)
+                                
+                                    adeguate conoscenze, abilita' e competenze della medicina preventiva, tra cui competenze in materia di indagini e certificazione;
+                                
+                            
+                            
+                                f)
+                                
+                                    adeguate conoscenze dell'igiene e della tecnologia per ottenere, fabbricare e immettere in commercio ((i mangimi animali o i prodotti alimentari di origine animale)) destinati al consumo umano ((, incluse le abilita' e competenze necessarie alla comprensione e spiegazione delle buone prassi in materia;)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 28 GENNAIO 2016, N. 15)).
+
 ## Art. 45. — Diritti acquisiti specifici dei medici veterinari
 
 Fatto salvo l'articolo 32, ai cittadini di cui all'articolo 2, comma 1, i cui titoli di formazione di veterinario sono stati rilasciati in Estonia o per i quali la corrispondente formazione e' iniziata in tale Stato anteriormente al 1 maggio 2004 e' riconosciuto il titolo di medico veterinario se corredato di un certificato rilasciato dall'autorita' competente dell'Estonia attestante che detti cittadini hanno effettivamente e lecitamente svolto l'attivita' professionale di medico veterinario in tale territorio per almeno cinque anni consecutivi nei sette anni precedenti il rilascio di detto certificato.
@@ -659,6 +2183,79 @@ Fatto salvo l'articolo 32, ai cittadini di cui all'articolo 2, comma 1, i cui ti
 ## - SEZIONE VI Ostetrica
 
 ## Art. 46. — Formazione di ostetrica
+
+1.
+                        
+                            
+                                La formazione di ostetrica comprende almeno una delle formazioni che seguono: 
+                            
+                            
+                                a)
+                                
+                                    una formazione specifica a tempo pieno di ostetrica di almeno 3 anni di studi teorici e pratici (possibilita' I) vertente almeno sul programma di cui all'allegato V, punto 5.5.1.;
+                                
+                            
+                            
+                                b)
+                                
+                                    una formazione specifica a tempo pieno di ostetrica di 18 mesi (possibilita' II), vertente almeno sul programma di cui all'allegato V, punto 5.5.1 le cui materie non siano comprese in un insegnamento equivalente per la formazione di infermiere responsabile dell'assistenza generale. L'ente incaricato della formazione delle ostetriche e' responsabile del coordinamento tra teoria e pratica per tutto il programma di studi.
+
+2.
+                        
+                            
+                                L'accesso alla formazione di ostetrica e' subordinato a una delle condizioni che seguono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    compimento almeno dei primi ((dodici)) anni di formazione scolastica generale ((o possesso di un certificato che attesti il superamento di un esame, di livello equivalente, per l'ammissione a una scuola di ostetricia)), per la possibilita' I, o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possesso di un titolo di formazione d'infermiere responsabile dell'assistenza generale di cui all'allegato V, 5.5.1, per la possibilita' II.
+
+3.
+                        
+                            
+                                La formazione di ostetrica garantisce l'acquisizione da parte dell'interessato delle conoscenze e competenze seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((una conoscenza dettagliata)) delle scienze che sono alla base delle attivita' di ostetrica, ed in special modo ((delle scienze ostetriche,)) dell'ostetricia e della ginecologia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un'adeguata conoscenza della deontologia e della legislazione professionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conoscenza adeguata di nozioni di medicina generale (funzioni biologiche, anatomia e fisiologia) e di farmacologia nel settore dell'ostetricia e per quanto riguarda il neonato, nonche' conoscenza dei nessi esistenti tra lo stato di salute e l'ambiente fisico e sociale dell'essere umano e del proprio comportamento;
+                                
+                            
+                            
+                                d)
+                                
+                                    esperienza clinica adeguata acquisita presso istituzioni approvate per cui l'ostetrica e' in grado, in modo indipendente e sotto la propria responsabilita', per quanto necessario e a esclusione del quadro patologico, di gestire l'assistenza prenatale, condurre il parto e le sue conseguenze in istituzioni approvate e controllare travaglio e nascita, assistenza postnatale e rianimazione neonatale in attesa dell'intervento di un medico;
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((una comprensione adeguata)) della formazione del personale sanitario e un'esperienza di collaborazione con tale personale.
 
 ## Art. 47. — Condizioni per il riconoscimento del titolo di formazione di ostetrica
 
@@ -673,6 +2270,87 @@ L'attestato di cui al comma 1 e' rilasciato dalle autorita' competenti dello Sta
 
 Le disposizioni della presente sezione si applicano alle attivita' di ostetrica come definite dalla legislazione vigente, fatto salvo il comma 2, ed esercitate con i titoli professionali di cui all'allegato V, punto 5.5.2.
 
+2.
+                        
+                            
+                                Le ostetriche sono autorizzate all'esercizio delle seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire una buona informazione e dare consigli per quanto concerne i problemi della pianificazione familiare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accertare la gravidanza e in seguito sorvegliare la gravidanza ((...)) normale ((...)), effettuare gli esami necessari al controllo dell'evoluzione della gravidanza normale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prescrivere gli esami necessari per la diagnosi quanto piu' precoce di gravidanze a rischio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predisporre programmi di preparazione dei futuri genitori ai loro compiti, assicurare la preparazione completa al parto e fornire consigli in materia di igiene e di alimentazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assistere la partoriente durante il travaglio e sorvegliare lo stato del feto nell'utero con i mezzi clinici e tecnici appropriati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    praticare il parto normale, quando si tratti di presentazione del vertex, compresa, se necessario, l'episiotomia e, in caso di urgenza, praticare il parto nel caso di una presentazione podalica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    individuare nella madre o nel bambino i segni di anomalie che richiedono l'intervento di un medico e assistere quest'ultimo in caso d'intervento; prendere i provvedimenti d'urgenza che si impongono in assenza del medico e, in particolare, l'estrazione manuale della placenta seguita eventualmente dalla revisione uterina manuale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    esaminare il neonato e averne cura; prendere ogni iniziativa che s'imponga in caso di necessita' e, eventualmente, praticare la rianimazione immediata; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    assistere la partoriente, sorvegliare il puerperio e dare alla madre tutti i consigli utili affinche' possa allevare il neonato nel modo migliore; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    praticare le cure prescritte da un medico; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    redigere i necessari rapporti scritti.
+
 ## Art. 49. — Diritti acquisiti specifici alle ostetriche
 
 Viene riconosciuta come prova sufficiente per i cittadini degli altri Stati membri dell'Unione europea, i cui titoli di formazione in ostetricia soddisfano tutti i requisiti minimi di formazione di cui all'articolo 46 ma, ai sensi dell'articolo 47, sono riconoscibili solo se accompagnati dall'attestato di pratica professionale di cui al suddetto articolo 47, comma 2, i titoli di formazione rilasciati dagli Stati membri prima della data di riferimento di cui all'allegato V, punto 5.5.2, accompagnati da un attestato che certifichi l'effettivo e lecito esercizio da parte di questi cittadini delle attivita' in questione per almeno due anni consecutivi nei cinque che precedono il rilascio dell'attestato.
@@ -682,6 +2360,24 @@ Ai cittadini di cui all'articolo 2, comma 1, in possesso dei titoli di formazion
 Le condizioni di cui al comma 1 si applicano ai cittadini degli Stati membri i cui titoli di formazione in ostetricia sanciscono una formazione acquisita sul territorio della ex Repubblica democratica tedesca e che soddisfa tutti i requisiti minimi di formazione di cui all'articolo 46, ma, ai sensi dell'articolo 47, sono riconoscibili solo se accompagnati dall'attestato di pratica professionale di cui all'articolo 47, comma 2, se sanciscono una formazione iniziata prima del 3 ottobre 1990.
 
 COMMA ABROGATO DAL D.LGS. 28 GENNAIO 2016, N. 15.
+
+4.
+                        
+                            
+                                Ai cittadini di cui all'articolo 2, comma 1, allo scopo di verificare che le ostetriche interessate sono in possesso di un livello di conoscenze e di competenze paragonabili a quello delle ostetriche in possesso delle qualifiche di cui alla lista per la Polonia all'allegato V, punto 5.5.2, sono riconosciuti i titoli di ostetrica che sono stati rilasciati in Polonia a ostetriche che hanno completato anteriormente al 1° maggio 2004 la corrispondente formazione, che non soddisfa i requisiti minimi di formazione di cui all'articolo 40, sancita dal titolo di «licenza di ostetrica» ottenuto sulla base di uno speciale programma di aggiornamento di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 11 della legge del 20 aprile 2004 che modifica la legge sulle professioni di infermiere e ostetrica e taluni altri atti giuridici (Gazzetta Ufficiale della Repubblica di Polonia del 2004 n. 92, pag. 885 e del 2007, n. 176, pag. 1237) e al regolamento del Ministro della sanita' dell'11 maggio 2004 sulle condizioni dettagliate riguardanti i corsi impartiti agli infermieri e alle ostetriche, che sono titolari di un certificato di scuola secondaria (esame finale - maturita') e che hanno conseguito un diploma presso un liceo medico o una scuola professionale medica per l'insegnamento di una professione di infermiere e ostetrica (Gazzetta Ufficiale della Repubblica di Polonia del 2004, n. 110, pag. 1170 e del 2010, n. 65, pag. 420), o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 53, paragrafo 3, della legge del 15 luglio 2011 relativa alle professioni di infermiere e ostetrica (Gazzetta Ufficiale della Repubblica di Polonia del 2011, n. 174, pag. 1039) e al regolamento del Ministro della sanita' del 14 giugno 2012 sulle condizioni dettagliate riguardanti i corsi di insegnamento universitario impartiti agli infermieri e alle ostetriche, che sono titolari di un certificato di scuola secondaria (esame finale - maturita') e che hanno conseguito un diploma di infermiere e di ostetrica presso una scuola medica secondaria o un istituto di studi superiori per l'insegnamento di una professione di infermiere e ostetrica (Gazzetta Ufficiale della Repubblica di Polonia del 2012, pag. 770).
 
 Per i cittadini degli Stati membri i cui titoli di formazione in ostetricia (asistent medical obstetricã-ginecologie) sono stati rilasciati dalla Romania anteriormente alla data di adesione all'Unione europea e la cui formazione non soddisfa i requisiti minimi di formazione di cui all'articolo 46, detti titoli sono riconosciuti come prova sufficiente ai fini dell'esercizio delle attivita' di ostetrica, se corredati da un attestato il quale dimostri l'effettivo e lecito esercizio da parte degli interessati, nel territorio della Romania, delle attivita' di ostetrica per un periodo di almeno cinque anni consecutivi nei sette anni precedenti il rilascio del certificato.
 
@@ -693,7 +2389,173 @@ Per i cittadini degli Stati membri i cui titoli di formazione in ostetricia (asi
 
 L'ammissione alla formazione di farmacista e' subordinata al possesso di un diploma di scuola secondaria superiore che dia accesso, per tali studi, alle universita'.
 
+2.
+                        
+                            
+                                Il titolo di formazione di farmacista sancisce una formazione della durata di almeno cinque anni che puo' essere anche espressa in aggiunta in crediti ECTS equivalenti, di cui almeno: 
+                            
+                            
+                                a)
+                                
+                                    quattro anni d'insegnamento teorico e pratico a tempo pieno in una universita', un istituto superiore di livello riconosciuto equivalente o sotto la sorveglianza di una universita';
+                                
+                            
+                            
+                                b)
+                                
+                                    durante o al termine della formazione teorica e pratica, sei mesi di tirocinio in una farmacia aperta al pubblico o in un ospedale sotto la sorveglianza del servizio farmaceutico di quest'ultimo. Tale ciclo di formazione verte almeno sul programma di cui all'allegato V, punto 5.6.1.
+
+3.
+                        
+                            
+                                
+                                    ((La formazione di farmacista garantisce l'acquisizione da parte dell'interessato delle conoscenze e abilita' seguenti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((un'adeguata conoscenza dei medicinali e delle sostanze utilizzate per la loro fabbricazione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((un'adeguata conoscenza della tecnologia farmaceutica e del controllo fisico, chimico, biologico e microbiologico dei medicinali;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((un'adeguata conoscenza del metabolismo e degli effetti dei medicinali, nonche' dell'azione delle sostanze tossiche e dell'utilizzo dei medicinali stessi;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((un'adeguata conoscenza che consenta di valutare i dati scientifici concernenti i medicinali in modo da potere su tale base fornire le informazioni appropriate;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((un'adeguata conoscenza delle norme e delle condizioni che disciplinano l'esercizio delle attivita' farmaceutiche;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((un'adeguata conoscenza della farmacia clinica e dell'assistenza farmaceutica, nonche' le competenze relative all'applicazione pratica;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((conoscenze e abilita' adeguate relative alla sanita' pubblica e alle sue ripercussioni sulla promozione della salute e sulla gestione delle malattie;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((conoscenze e abilita' adeguate in materia di collaborazione interdisciplinare, pratica interprofessionale e comunicazione;))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((conoscenza adeguata delle tecnologie dell'informazione e della tecnologia digitale e competenze relative all'applicazione pratica.))
+
 ## Art. 51. — Esercizio delle attivita' professionali di farmacista
+
+1.
+                        
+                            
+                                I titolari del titolo di formazione universitaria di farmacista, corredato del diploma di abilitazione all'esercizio della professione di cui allegato V, punto 5.6.2, che soddisfi le condizioni di formazione di cui all'articolo 50, sono autorizzati ad accedere e ad esercitare almeno le sottoelencate attivita', fermo restando le disposizioni che prevedono, nell'ordinamento nazionale, ulteriori requisiti per l'esercizio delle stesse: 
+ 
+                            
+                            
+                                a)
+                                
+                                    preparazione della forma farmaceutica dei medicinali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fabbricazione e controllo dei medicinali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    controllo dei medicinali in un laboratorio di controllo dei medicinali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    immagazzinamento, conservazione e distribuzione dei medicinali nella fase di commercio all'ingrosso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    approvvigionamento, preparazione, controllo, immagazzinamento, distribuzione e consegna di medicinali sicuri e di qualita' nelle farmacie aperte al pubblico;
+                                
+                            
+                            
+                                f)
+                                
+                                    preparazione, controllo, immagazzinamento e distribuzione dei medicinali negli ospedali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    diffusione di informazioni e consigli ((sui medicinali in quanto tali, compreso il loro uso corretto)); 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    segnalazione alle autorita' competenti degli effetti indesiderati dei prodotti farmaceutici; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    accompagnamento personalizzato dei pazienti che praticano l'automedicazione; 
+
+                                
+                            
+                            
+                                g-quater)
+                                
+                                    contributo a campagne istituzionali di sanita' pubblica.
 
 ## - SEZIONE VIII Architetto
 
@@ -701,9 +2563,108 @@ L'ammissione alla formazione di farmacista e' subordinata al possesso di un dipl
 
 ((
 
+1.
+                        
+                            
+                                La formazione di un architetto prevede alternativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    almeno cinque anni di studi a tempo pieno, in un'universita' o un istituto di insegnamento comparabile, sanciti dal superamento di un esame di livello universitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non meno di quattro anni di studi a tempo pieno, in un'universita' o un istituto di insegnamento comparabile, sanciti dal superamento di un esame di livello universitario, accompagnati da un attestato che certifica il completamento di due anni di tirocinio professionale a norma del comma 4.
+
 ))
 
 ((
+
+1-bis.
+                        
+                            
+                                L'architettura deve essere l'elemento principale della formazione di cui al comma 1. Questo insegnamento deve mantenere un equilibrio tra gli aspetti teorici e pratici della formazione in architettura e deve garantire almeno l'acquisizione delle seguenti conoscenze, abilita' e competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capacita' di realizzare progetti architettonici che soddisfino le esigenze estetiche e tecniche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adeguata conoscenza della storia e delle teorie dell'architettura nonche' delle arti, tecnologie e scienze umane a essa attinenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conoscenza delle belle arti in quanto fattori che possono influire sulla qualita' della concezione architettonica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adeguata conoscenza in materia di urbanistica, pianificazione e tecniche applicate nel processo di pianificazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    capacita' di cogliere i rapporti tra uomo e opere architettoniche e tra opere architettoniche e il loro ambiente, nonche' la capacita' di cogliere la necessita' di adeguare tra loro opere architettoniche e spazi, in funzione dei bisogni e della misura dell'uomo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    capacita' di capire l'importanza della professione e delle funzioni dell'architetto nella societa', in particolare elaborando progetti che tengano conto dei fattori sociali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    conoscenza dei metodi d'indagine e di preparazione del progetto di costruzione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    conoscenza dei problemi di concezione strutturale, di costruzione e di ingegneria civile connessi con la progettazione degli edifici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    conoscenza adeguata dei problemi fisici e delle tecnologie nonche' della funzione degli edifici, in modo da renderli internamente confortevoli e proteggerli dai fattori climatici, nel contesto dello sviluppo sostenibile; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    capacita' tecnica che consenta di progettare edifici che rispondano alle esigenze degli utenti, nei limiti imposti dal fattore costo e dai regolamenti in materia di costruzione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    conoscenza adeguata delle industrie, organizzazioni, regolamentazioni e procedure necessarie per realizzare progetti di edifici e per l'integrazione dei piani nella pianificazione generale.
 
 Il numero di anni di insegnamento accademico di cui ai commi 1 e 1-bis puo' essere anche espresso in aggiunta in crediti ECTS equivalenti.
 
@@ -739,6 +2700,38 @@ Sono riconosciuti gli attestati delle autorita' competenti della Repubblica fede
 
 ((
 
+2-bis.
+                        
+                            
+                                Fatti salvi i commi 1 e 2, sono riconosciuti, attribuendo loro gli stessi effetti dei titoli di formazione rilasciati sul territorio italiano per accedere ed esercitare l'attivita' professionale di architetto, con il titolo professionale di architetto, gli attestati rilasciati ai cittadini degli Stati membri da Stati membri che dispongono di norme per l'accesso e l'esercizio dell'attivita' di architetto, alle seguenti date: 
+ 
+                            
+                            
+                                a)
+                                
+                                    1° gennaio 1995 per Austria, Finlandia e Svezia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    1° gennaio 2004 per la Repubblica ceca, Estonia, Cipro, Lettonia, Lituania, Ungheria, Malta, Polonia, Slovenia e Slovacchia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    1° luglio 2013 per la Croazia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    5 agosto 1987 per gli altri Stati membri.
+
 Gli attestati di cui al comma 1 certificano che il loro titolare e' stato autorizzato a usare il titolo professionale di architetto entro tale data e, nel quadro di tali norme, ha effettivamente esercitato l'attivita' in questione per almeno tre anni consecutivi nel corso dei cinque anni precedenti il rilascio dell'attestato.
 
 Ai fini dell'accesso e dell'esercizio delle attivita' professionali di architetto, sono riconosciuti titoli di completamento della formazione vigente al 5 agosto 1985 e iniziata non oltre il 17 gennaio 2014, impartita da «Fachhochschulen» nella Repubblica federale di Germania per un periodo di tre anni, conforme ai requisiti di cui all'articolo 52, comma 2, e idonea all'accesso alle attivita' esercitate in detto Stato membro con il titolo professionale di «architetto» purche' la formazione sia completata da un periodo di esperienza professionale di 4 anni, nella Repubblica federale di Germania, attestato da un certificato rilasciato dall'autorita' competente cui e' iscritto l'architetto che desidera beneficiare delle disposizioni del presente decreto.
@@ -771,6 +2764,31 @@ Il quadro comune di formazione, stabilito con atto delegato della Commissione eu
 
 La Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee, coordinando le Autorita' competenti di cui all'articolo 5, notifica alla Commissione europea, entro sei mesi dall'entrata in vigore dell'atto delegato di cui al comma 2, le qualifiche nazionali e, se del caso, i titoli professionali nazionali conformi al quadro di formazione comune o la richiesta di deroga conforme alle disposizioni di cui al comma 4, corredata di una motivazione che specifichi quali condizioni previste da tale comma siano state soddisfatte. Se entro tre mesi la Commissione richiede ulteriori chiarimenti, ritenendo le motivazioni fornite insufficienti, la Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee, coordinando le Autorita' competenti di cui all'articolo 5, trasmette la replica entro tre mesi dalla richiesta.
 
+4.
+                        
+                            
+                                E' possibile chiedere la deroga all'introduzione di un quadro comune di formazione e all'obbligo di rilasciare il riconoscimento automatico delle qualifiche professionali acquisito a titolo del quadro di formazione comune ove sia soddisfatta una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non esistono istituzioni di insegnamento o formazione che offrono formazione per la professione in questione su tutto il territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'introduzione del quadro di formazione comune avrebbe effetti avversi sull'organizzazione del sistema nazionale di istruzione e formazione professionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sussistono differenze sostanziali tra il quadro di formazione comune e la formazione richiesta nel territorio nazionale, con gravi rischi per l'ordine pubblico, la pubblica sicurezza, la salute pubblica o la sicurezza dei destinatari dei servizi o la protezione dell'ambiente.
+
 Le qualifiche e i titoli professionali nazionali che fruiscono del riconoscimento automatico ai sensi del quadro di formazione comune sono elencate nel regolamento di esecuzione della Commissione europea sui quadri comuni di formazione adottato ai sensi dell'articolo 49-bis, paragrafo 6, della direttiva 2013/55/UE.
 
 ))
@@ -785,6 +2803,31 @@ I contenuti di una prova professionale comune e le condizioni per prendervi part
 
 La Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee, coordinando le Autorita' competenti di cui all'articolo 5, notifica, entro sei mesi dalla data di entrata in vigore dell'atto delegato di cui al comma 2, la capacita' organizzativa per effettuare dette prove o la richiesta di deroga conforme alle disposizioni di cui al comma 4, corredata di una motivazione in relazione a quali condizioni previste da tale comma siano state soddisfatte. Se entro tre mesi la Commissione europea richiede ulteriori chiarimenti, ritenendo le motivazioni fornite insufficienti, la Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee, coordinando le Autorita' competenti di cui all'articolo 5, trasmette la replica entro tre mesi dalla richiesta.
 
+4.
+                        
+                            
+                                E' possibile chiedere la deroga dall'obbligo di organizzare una prova di formazione comune di cui al comma 2 e dall'obbligo di rilasciare il riconoscimento automatico ai professionisti che hanno superato la prova di formazione comune, ove sia soddisfatta una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la professione in questione non e' regolamentata nel suo territorio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contenuti della prova di formazione comune non attenuano in misura adeguata gravi rischi per la salute pubblica o la sicurezza dei destinatari dei servizi corrispondenti nel territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i contenuti della prova di formazione comune renderebbero l'accesso alla professione significativamente meno attraente rispetto ai requisiti nazionali.
+
 L'elenco degli Stati membri in cui devono essere organizzate le prove di formazione comuni di cui al comma 2, la frequenza nel corso dell'anno e altri dettagli necessari all'organizzazione di prove di formazione comuni sono contenuti nel regolamento di esecuzione della Commissione sulle prove di formazione comuni adottato ai sensi dell'articolo 49-ter, paragrafo 6, della direttiva 2013/55/UE.
 
 ))
@@ -797,6 +2840,52 @@ Con decreto del Presidente del Consiglio dei Ministri, sentito il Ministro per l
 
 ## Art. 59-bis. — (Accesso centralizzato online alle informazioni)
 
+1.
+                        
+                            
+                                Le autorita' competenti di cui all'articolo 5 garantiscono che le seguenti informazioni siano disponibili online attraverso il punto di contatto unico, di cui all'articolo 25 del decreto legislativo 26 marzo 2010, n. 59, e che siano regolarmente aggiornate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco di tutte le professioni regolamentate, che reca gli estremi delle autorita' competenti per ciascuna professione regolamentata e dei centri di assistenza di cui all'articolo 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco delle professioni per le quali e' disponibile una tessera professionale europea, con indicazione delle modalita' di funzionamento della tessera, compresi i diritti a carico dei professionisti e delle autorita' competenti per il rilascio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco di tutte le professioni per le quali si applica l'articolo 11; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'elenco delle formazioni regolamentate e delle formazioni a struttura particolare di cui all'articolo 19, comma 1, lettera c), numero 2); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i requisiti e le procedure indicati agli articoli 7, 11, 16 e 17 per le professioni regolamentate, compresi i diritti da corrispondere e i documenti da presentare alle autorita' competenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di ricorso, conformemente alle disposizioni legislative, regolamentari e amministrative, avverso le decisioni delle autorita' competenti adottate ai sensi del presente decreto.
+
 ((
 
 Le autorita' competenti di cui all'articolo 5 provvedono affinche' le informazioni di cui al comma 1 del presente articolo siano fornite in modo chiaro e comprensibile agli utenti, siano facilmente accessibili mediante connessione remota e per via elettronica e siano costantemente aggiornate. Verificano altresi' che il punto di contatto unico di cui all'articolo 25, comma 5, del decreto legislativo 26 marzo 2010, n. 59, risponda tempestivamente a qualsiasi richiesta di informazione, eventualmente cooperando con il Centro di assistenza di cui all'articolo 6 del presente decreto.
@@ -807,7 +2896,50 @@ Le autorita' competenti di cui all'articolo 5 provvedono affinche' le informazio
 
 ((
 
+1.
+                        
+                            
+                                La Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee notifica alla Commissione europea: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le eventuali modifiche apportate all'elenco nazionale delle professioni regolamentate e all'elenco nazionale delle tipologie regolamentate di istruzione e formazione, nonche' di formazione con una struttura particolare, di cui all'articolo 19, comma 1, lettera c), numero 2), gia' inserite nella banca dati della Commissione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le eventuali modifiche all'elenco nazionale delle professioni, gia' inserite nella banca dati della Commissione europea, per le quali e' necessaria una verifica preliminare delle qualifiche ai sensi dell'articolo 11, corredate da specifica motivazione.
+
 Ogni due anni la Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee trasmette alla Commissione europea una relazione sui requisiti, stabiliti dalla legislazione nazionale per limitare l'accesso a una professione o il suo esercizio ai possessori di una specifica qualifica professionale, inclusi l'impiego di titoli professionali e le attivita' professionali autorizzate in base a tale titolo, che sono stati eliminati o resi meno rigidi.
+
+3.
+                        
+                            
+                                Entro sei mesi dalla loro adozione, la Presidenza del Consiglio - Dipartimento per le politiche europee trasmette alla Commissione europea informazioni sui nuovi requisiti di cui al comma 2 introdotti e sui motivi per ritenerli conformi ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti non devono essere direttamente o indirettamente discriminatori sulla base della nazionalita' o del luogo di residenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti devono essere giustificati da un motivo imperativo di interesse generale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i requisiti devono essere tali da garantire il raggiungimento dell'obiettivo perseguito e non vanno al di la' di quanto e' necessario per raggiungere tale obiettivo.
 
 ))
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-03-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,38 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'ec
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto devono intendersi: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «acquirente»: la persona fisica che sia promissaria acquirente o che acquisti un immobile da costruire, ovvero che abbia stipulato ogni altro contratto, compreso quello di leasing, che abbia o possa avere per effetto l'acquisto o comunque il trasferimento non immediato, a se' o ad un proprio parente in primo grado, della proprieta' o della titolarita' di un diritto reale di godimento su di un immobile da costruire, ovvero colui il quale, ancorche' non socio di una cooperativa edilizia, abbia assunto obbligazioni con la cooperativa medesima per ottenere l'assegnazione in proprieta' o l'acquisto della titolarita' di un diritto reale di godimento su di un immobile da costruire per iniziativa della stessa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «costruttore»: l'imprenditore o la cooperativa edilizia che promettano in vendita o che vendano un immobile da costruire, ovvero che abbiano stipulato ogni altro contratto, compreso quello di leasing, che abbia o possa avere per effetto la cessione o il trasferimento non immediato in favore di un acquirente della proprieta' o della titolarita' di un diritto reale di godimento su di un immobile da costruire, sia nel caso in cui lo stesso venga edificato direttamente dai medesimi, sia nel caso in cui la realizzazione della costruzione sia data in appalto o comunque eseguita da terzi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «situazione di crisi»: la situazione che ricorre nei casi in cui il costruttore sia sottoposto o sia stato sottoposto ad esecuzione immobiliare, in relazione all'immobile oggetto del contratto, ovvero a fallimento, amministrazione straordinaria, concordato preventivo, liquidazione coatta amministrativa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per «immobili da costruire»: gli immobili per i quali sia stato richiesto il permesso di costruire e che siano ancora da edificare o la cui costruzione non risulti essere stata ultimata versando in stadio tale da non consentire ancora il rilascio del certificato di agibilita'. ((11))
+
 --------------
                         AGGIORNAMENTO (11)
                         
@@ -40,6 +72,56 @@ Per le societa' cooperative, l'atto equipollente a quello indicato al comma 1 co
 ## Art. 3. — Rilascio, contenuto e modalita' di escussione della fideiussione
 
 La fideiussione e' rilasciata da una banca o da un'impresa esercente le assicurazioni; essa deve garantire, nel caso in cui il costruttore incorra in una situazione di crisi di cui al comma 2 o, nel caso di inadempimento all'obbligo assicurativo di cui all'articolo 4, la restituzione delle somme e del valore di ogni altro eventuale corrispettivo effettivamente riscossi e dei relativi interessi legali maturati fino al momento in cui la predetta situazione si e' verificata. (6) (7) (10) (12)
+
+2.
+                    
+                        
+                            La situazione di crisi si intende verificata in una delle seguenti date: 
+ 
+                        
+                        
+                            a)
+                            
+                                di trascrizione del pignoramento relativo all'immobile oggetto del contratto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di pubblicazione della sentenza dichiarativa del fallimento o del provvedimento di liquidazione coatta amministrativa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di presentazione della domanda di ammissione alla procedura di concordato preventivo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                di pubblicazione della sentenza che dichiara lo stato di insolvenza o, se anteriore, del decreto che dispone la liquidazione coatta amministrativa o l'amministrazione straordinaria.
+
+3.
+                    
+                        
+                            La fideiussione puo' essere escussa: 
+ 
+                        
+                        
+                            a)
+                            
+                                a decorrere dalla data in cui si e' verificata la situazione di crisi di cui al comma 2 a condizione che, per l'ipotesi di cui alla lettera a) del medesimo comma, l'acquirente abbia comunicato al costruttore la propria volonta' di recedere dal contratto e, per le ipotesi di cui alle lettere b), c) e d) del comma 2, il competente organo della procedura concorsuale non abbia comunicato la volonta' di subentrare nel contratto preliminare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a decorrere dalla data dell'attestazione del notaio di non aver ricevuto per la data dell'atto di trasferimento della proprieta' la polizza assicurativa conforme al decreto ministeriale di cui all'articolo 4, quando l'acquirente ha comunicato al costruttore la propria volonta' di recedere dal contratto di cui all'articolo 6. (6) (7) (10) (12)
 
 La fideiussione deve prevedere la rinuncia al beneficio della preventiva escussione del debitore principale di cui all'articolo 1944, secondo comma, del codice civile e deve essere escutibile, verificatesi le condizioni di cui al comma 3, a richiesta scritta dell'acquirente, corredata da idonea documentazione comprovante l'ammontare delle somme e il valore di ogni altro eventuale corrispettivo che complessivamente il costruttore ha riscosso, da inviarsi al domicilio indicato dal fideiussore a mezzo di lettera raccomandata con avviso di ricevimento.
 
@@ -109,11 +191,124 @@ Le modifiche apportate dal decreto legislativo di attuazione dell'articolo 12 de
 
 ## Art. 6. — Contenuto del contratto preliminare
 
+1.
+                    
+                        
+                            Il contratto preliminare ed ogni altro contratto che ai sensi dell'articolo 2 sia comunque diretto al successivo acquisto in capo ad una persona fisica della proprieta' o di altro diritto reale su un immobile oggetto del presente decreto ((devono essere stipulati per atto pubblico o per scrittura privata autenticata)) devono contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                le indicazioni previste agli articoli 2659, primo comma, n. 1), e 2826 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione dell'immobile e di tutte le sue pertinenze di uso esclusivo oggetto del contratto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli estremi di eventuali atti d'obbligo e convenzioni urbanistiche stipulati per l'ottenimento dei titoli abilitativi alla costruzione e l'elencazione dei vincoli previsti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le caratteristiche tecniche della costruzione, con particolare riferimento alla struttura portante, alle fondazioni, alle tamponature, ai solai, alla copertura, agli infissi ed agli impianti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i termini massimi di esecuzione della costruzione, anche eventualmente correlati alle varie fasi di lavorazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'indicazione del prezzo complessivo da corrispondersi in danaro o il valore di ogni altro eventuale corrispettivo, i termini e le modalita' per il suo pagamento, la specificazione dell'importo di eventuali somme a titolo di caparra; le modalita' di corresponsione del prezzo devono essere rappresentate da bonifici bancari o versamenti diretti su conti correnti bancari o postali indicati dalla parte venditrice ed alla stessa intestati o da altre forme che siano comunque in grado di assicurare la prova certa dell'avvenuto pagamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                gli estremi della fideiussione di cui all'articolo 2 e l'attestazione della sua conformita' al modello contenuto nel decreto di cui all'articolo 3, comma 7-bis;
+                            
+                        
+                        
+                            h)
+                            
+                                l'eventuale esistenza di ipoteche o trascrizioni pregiudizievoli di qualsiasi tipo sull'immobile con la specificazione del relativo ammontare, del soggetto a cui favore risultano e del titolo dal quale derivano, nonche' la pattuizione espressa degli obblighi del costruttore ad esse connessi e, in particolare, se tali obblighi debbano essere adempiuti prima o dopo la stipula del contratto definitivo di vendita; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                gli estremi del permesso di costruire o della sua richiesta se non ancora rilasciato, nonche' di ogni altro titolo, denuncia o provvedimento abilitativo alla costruzione; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'eventuale indicazione dell'esistenza di imprese appaltatrici, con la specificazione dei relativi dati identificativi.
+
+2.
+                    
+                        
+                            Agli stessi contratti devono essere allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il capitolato contenente le caratteristiche dei materiali da utilizzarsi, individuati anche solo per tipologie, caratteristiche e valori omogenei, nonche' l'elenco delle rifiniture e degli accessori convenuti fra le parti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli elaborati del progetto in base al quale e' stato richiesto o rilasciato il permesso di costruire o l'ultima variazione al progetto originario, limitatamente alla rappresentazione grafica degli immobili oggetto del contratto, delle relative pertinenze esclusive e delle parti condominiali.
+
 Sono fatte salve le disposizioni di cui al regio decreto 28 marzo 1929, n. 499.
 
 ## Art. 7.
 
 Modificazioni all'articolo 39 del decreto legislativo 1° settembre 1993, n. 385
+
+1.
+                    
+                        
+                            All'articolo 39 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                Il comma 6 e' sostituito dal seguente:
+ «6. In caso di edificio o complesso condominiale per il quale puo' ottenersi l'accatastamento delle singole porzioni che lo costituiscono, ancorche' in corso di costruzione, il debitore, il terzo acquirente, il promissario acquirente o l'assegnatario del bene ipotecato o di parte dello stesso, questi ultimi limitatamente alla porzione immobiliare da essi acquistata o promessa in acquisto o in assegnazione, hanno diritto alla suddivisione del finanziamento in quote e, correlativamente, al frazionamento dell'ipoteca a garanzia.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 6 sono inseriti i seguenti:
+ «6-bis. La banca deve provvedere agli adempimenti di cui al comma 6 entro il termine di novanta giorni dalla data di ricevimento della richiesta di suddivisione del finanziamento in quote corredata da documentazione idonea a comprovare l'identita' del richiedente, la data certa del titolo e l'accatastamento delle singole porzioni per le quali e' richiesta la suddivisione del finanziamento. Tale termine e' aumentato a centoventi giorni, se la richiesta riguarda un finanziamento da suddividersi in piu' di cinquanta quote.
+ 6-ter. Qualora la banca non provveda entro il termine indicato al comma 6-bis, il richiedente puo' presentare ricorso al presidente del tribunale nella cui circoscrizione e' situato l'immobile; il presidente del tribunale, sentite le parti, ove accolga il ricorso, designa un notaio che, anche avvalendosi di ausiliari, redige un atto pubblico di frazionamento sottoscritto esclusivamente dal notaio stesso. Dall'atto di suddivisione del finanziamento o dal diverso successivo termine stabilito nel contratto di mutuo decorre, con riferimento alle quote frazionate, l'inizio dell'ammortamento delle somme erogate; di tale circostanza si fa menzione nell'atto stesso.
+ 6-quater. Salvo diverso accordo delle parti, la durata dell'ammortamento e' pari a quella originariamente fissata nel contratto di mutuo e l'ammortamento stesso e' regolato al tasso di interesse determinato in base ai criteri di individuazione per il periodo di preammortamento immediatamente precedente. Il responsabile del competente Ufficio del territorio annota a margine dell'iscrizione ipotecaria il frazionamento del finanziamento e della relativa ipoteca, l'inizio e la durata dell'ammortamento ed il tasso relativo.».
 
 ## Art. 8. — Obbligo di cancellazione o frazionamento dell'ipoteca antecedente alla compravendita
 
@@ -157,6 +352,24 @@ L'accesso alle prestazioni del Fondo e' consentito nei casi in cui per il bene i
 
 ## Art. 13. — Requisiti per l'accesso alle prestazioni del Fondo
 
+1.
+                    
+                        
+                            Per l'accesso alle prestazioni del Fondo devono ricorrere congiuntamente i seguenti requisiti oggettivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                aver subito, a seguito dell'insorgenza di una situazione di crisi per effetto dell'insolvenza del costruttore, perdite di somme di denaro versate o di altri beni trasferiti dall'acquirente al costruttore medesimo come corrispettivo per l'acquisto o l'assegnazione dell'immobile da costruire; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non aver acquistato la proprieta' o altro diritto reale di godimento sull'immobile da costruire ovvero non averne conseguito l'assegnazione.
+
 Il requisito di cui al comma 1, lettera b), non viene meno per effetto dell'acquisto della proprieta' o del conseguimento dell'assegnazione in virtu' di accordi negoziali con gli organi della procedura concorsuale ovvero di aggiudicazione di asta nell'ambito della medesima procedura ovvero, infine, da terzi aggiudicatari.
 
 Nei casi di cui al comma 2 l'indennizzo spetta solo qualora l'importo complessivo delle somme versate e del valore dei beni corrisposti al costruttore e delle somme versate per l'effettivo acquisto del bene sia superiore al prezzo originariamente convenuto con il costruttore ed e' determinato in misura pari alla differenza tra il predetto importo complessivo ed il prezzo originario, fino comunque a concorrenza delle somme versate e dei beni corrisposti al costruttore.
@@ -190,6 +403,66 @@ Le somme recuperate dal Fondo ai sensi del comma 7 sono imputate alla sezione au
 La gestione del Fondo e' attribuita alla CONSAP - Concessionaria di servizi assicurativi pubblici s.p.a., che vi provvede per conto del Ministero dell'economia e delle finanze sulla base di apposita concessione, approvata con decreto del medesimo Ministero.
 
 La concessione si conforma al principio di affidare alla CONSAP, quale concessionaria, la gestione di cassa e patrimoniale del Fondo, la conservazione della sua integrita', la liquidazione delle relative spese, nonche' al principio di garantire la verifica periodica, da parte dell'amministrazione concedente, della corrispondenza della gestione del Fondo alle finalita' indicate dal presente decreto. Ai relativi oneri e alle spese di gestione si provvede nell'ambito delle risorse finanziarie del Fondo, senza nuovi o maggiori oneri per la finanza pubblica.
+
+3.
+                    
+                        
+                            Ai fini di cui al comma 2, la concessione definisce, tra l'altro, le modalita' di esercizio concernenti:
+ 
+                        
+                        
+                            a)
+                            
+                                iniziative informative da assumersi ad opera del Fondo, con oneri a suo carico, al fine di garantire l'effettiva fruizione dei benefici previsti dal presente decreto da parte dei destinatari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la rilevazione dei dati necessari per la definizione delle aree territoriali e delle corrispondenti sezioni autonome del Fondo, ai sensi dell'articolo 14, comma 1, nonche' per la determinazione annua della misura del contributo obbligatorio, di cui all'articolo 17, comma 4;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istruttoria delle richieste di indennizzo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la liquidazione degli indennizzi e la loro erogazione, anche tramite apposite convenzioni con le banche;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la ripetizione delle somme gia' erogate, nei casi di revoca o riforma dell'attribuzione, nonche' l'esercizio del diritto di surroga previsto dall'articolo 14, comma 7;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la previsione dell'ammontare complessivo delle somme da destinare all'erogazione degli indennizzi, nonche' al sostenimento degli oneri di gestione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la destinazione ad investimenti a redditivita' certa ed adeguata delle somme disponibili, compatibilmente con le esigenze di liquidita' del Fondo;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la presentazione al Ministero dell'economia e delle finanze, per il successivo inoltro alla Corte dei conti, del rendiconto annuale, approvato dal Consiglio di amministrazione della concessionaria, accompagnato dalla situazione patrimoniale del Fondo e da una relazione sull'attivita' svolta.
 
 La concessione stabilisce, altresi', le modalita' di accreditamento alla CONSAP delle somme che affluiscono al Fondo.
 

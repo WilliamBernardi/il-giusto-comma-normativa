@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2021-04-15
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -36,7 +36,230 @@ Fatte salve le disposizioni del decreto legislativo 17 marzo 1995, n. 194, il pr
 
 Fatte salve le disposizioni del decreto legislativo 25 febbraio 2000, n. 174, il presente decreto si applica anche alla classificazione, all'imballaggio, all'etichettatura e alle schede informative in materia di sicurezza dei biocidi.
 
+5.
+                    
+                        
+                            Le norme del presente decreto non si applicano ai preparati, allo stadio di prodotto finito, destinati all'utilizzatore finale, di seguito elencati:
+
+
+                        
+                        
+                            a)
+                            
+                                medicinali per uso umano e veterinario;
+                            
+                        
+                        
+                            b)
+                            
+                                prodotti cosmetici;
+                            
+                        
+                        
+                            c)
+                            
+                                miscugli di sostanze che si presentano sotto forma di rifiuti;
+                            
+                        
+                        
+                            d)
+                            
+                                prodotti alimentari;
+                            
+                        
+                        
+                            e)
+                            
+                                mangimi;
+                            
+                        
+                        
+                            f)
+                            
+                                preparati contenenti sostanze radioattive;
+                            
+                        
+                        
+                            g)
+                            
+                                dispositivi medici invasivi o utilizzati a contatto diretto con il corpo umano.
+
+6.
+                    
+                        
+                            Le norme del presente decreto non si applicano, altresi':
+
+
+                        
+                        
+                            a)
+                            
+                                al trasporto di preparati pericolosi per ferrovia, su strada, per via fluviale, marittima o aerea;
+                            
+                        
+                        
+                            b)
+                            
+                                ai preparati in transito soggetti a controllo doganale quando non siano oggetto di trattamento o di trasformazione.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto s'intende per:
+
+
+                        
+                        
+                            a)
+                            
+                                sostanze: gli elementi chimici ed i loro composti, allo stato naturale o ottenuti mediante qualsiasi procedimento di produzione, compresi gli additivi necessari per mantenere la stabilita' dei prodotti e le impurezze derivanti dal procedimento impiegato, ma esclusi i solventi che possono essere eliminati senza incidere sulla stabilita' delle sostanze e senza modificare la loro composizione;
+                            
+                        
+                        
+                            b)
+                            
+                                preparati: le miscele o le soluzioni costituite da due o piu' sostanze;
+                            
+                        
+                        
+                            c)
+                            
+                                polimero: una sostanza composta di molecole caratterizzate dalla sequenza di uno o piu' tipi di unita' monomeriche che comprenda una maggioranza ponderale semplice di molecole contenenti almeno tre unita' monomeriche aventi un legame covalente con almeno un'altra unita' monomerica o altro reagente e sia costituita da meno di una maggioranza ponderale semplice di molecole dello stesso peso molecolare. Tali molecole debbono essere distribuite su una gamma di pesi molecolari in cui le differenze di peso molecolare siano principalmente attribuibili a differenze nel numero di unita' monomeriche. Nel contesto di tale definizione per unita' monomerica s'intende la forma sottoposta a reazione di un monomero in un polimero;
+                            
+                        
+                        
+                            d)
+                            
+                                immissione sul mercato: la messa a disposizione di terzi e l'importazione nel territorio doganale dell'Unione europea;
+                            
+                        
+                        
+                            e)
+                            
+                                ricerca e sviluppo scientifici: la sperimentazione scientifica o le analisi e le ricerche chimiche effettuate in condizioni controllate, compresa la determinazione delle proprieta' intrinseche, degli effetti e dell'efficacia, nonche' le ricerche scientifiche relative allo sviluppo del prodotto;
+                            
+                        
+                        
+                            f)
+                            
+                                ricerca e sviluppo di processo: ogni ulteriore sviluppo di una sostanza nel corso del quale i settori di applicazione della sostanza stessa vengono controllati utilizzando impianti pilota o prove di produzione;
+                            
+                        
+                        
+                            g)
+                            
+                                Inventano Europeo delle Sostanze Commerciali Esistenti, di seguito denominato EINECS: l'inventano europeo delle sostanze chimiche considerate presenti sul mercato comunitario alla data del 18 settembre 1981;
+                            
+                        
+                        
+                            h)
+                            
+                                Lista Europea delle Sostanze Chimiche Notificate, di seguito denominata ELINCS: l'elenco delle nuove sostanze chimiche notificate, nella comunita' europea, a partire dal 19 settembre 1981.
+
+2.
+                    
+                        
+                            Ai sensi degli articoli 4,5 e 6 sono considerati pericolosi i preparati classificati come:
+
+
+                        
+                        
+                            a)
+                            
+                                esplosivi: i preparati solidi, liquidi, pastosi o gelatinosi che, anche senza l'azione dell'ossigeno atmosferico, possono provocare una reazione esotermica con rapida formazione di gas e che, in determinate condizioni di prova, detonano, deflagrano rapidamente o esplodono in seguito a riscaldamento quando soggetti a parziale contenimento;
+                            
+                        
+                        
+                            b)
+                            
+                                comburenti: i preparati che a contatto con altre sostanze, soprattutto se infiammabili, provocano una forte reazione esotermica;
+                            
+                        
+                        
+                            c)
+                            
+                                estremamente infiammabili: i preparati liquidi che presentano punto di infiammabilita' estremamente basso e punto di ebollizione basso e le sostanze ed i preparati gassosi che a temperatura e pressione ambiente sono infiammabili a contatto con l'aria;
+                            
+                        
+                        
+                            d)
+                            
+                                facilmente infiammabili:
+
+1) i preparati che, a contatto con l'aria, a temperatura ambiente e senza apporto di energia, possono subire innalzamenti termici e infiammarsi;
+2) i preparati solidi che possono facilmente infiammarsi dopo un breve contatto con una sorgente di accensione e che continuano a bruciare o a consumarsi anche dopo il distacco della sorgente stessa;
+3) i preparati liquidi il cui punto di infiammabilita' e' molto basso;
+4) i preparati che, a contatto con l'acqua o l'aria umida, sprigionano gas estremamente infiammabile in quantita' pericolose;
+
+
+                            
+                        
+                        
+                            e)
+                            
+                                infiammabili: i preparati liquidi con un basso punto di infiammabilita';
+                            
+                        
+                        
+                            f)
+                            
+                                molto tossici: i preparati che, in caso di inalazione, ingestione o assorbimento cutaneo, in piccolissime quantita', sono letali oppure provocano lesioni acute o croniche;
+                            
+                        
+                        
+                            g)
+                            
+                                tossici: i preparati che, in caso di inalazione, ingestione o assorbimento cutaneo, in piccole quantita', sono letali oppure provocano lesioni acute o croniche;
+                            
+                        
+                        
+                            h)
+                            
+                                nocivi: i preparati che, in caso di inalazione, ingestione o assorbimento cutaneo, possono essere letali oppure provocare lesioni acute o croniche;
+                            
+                        
+                        
+                            i)
+                            
+                                corrosivi: i preparati che, a contatto con i tessuti vivi, possono esercitare su di essi un'azione distruttiva;
+                            
+                        
+                        
+                            l)
+                            
+                                irritanti: i preparati non corrosivi, il cui contatto diretto, prolungato o ripetuto con la pelle o le mucose puo' provocare una reazione infiammatoria;
+                            
+                        
+                        
+                            m)
+                            
+                                sensibilizzanti: i preparati che, per inalazione o assorbimento cutaneo, possono dar luogo ad una reazione di ipersensibilizzazione per cui una successiva esposizione alla sostanza o al preparato produce reazioni avverse caratteristiche;
+                            
+                        
+                        
+                            n)
+                            
+                                cancerogeni: i preparati che, per inalazione, ingestione o assorbimento cutaneo, possono provocare il cancro o aumentarne la frequenza di insorgenza;
+                            
+                        
+                        
+                            o)
+                            
+                                mutageni: i preparati che, per inalazione, ingestione o assorbimento cutaneo, possono produrre difetti genetici ereditari o aumentarne la frequenza di insorgenza;
+                            
+                        
+                        
+                            p)
+                            
+                                tossici per il ciclo riproduttivo: i preparati che, per inalazione, ingestione o assorbimento cutaneo, possono provocare o rendere piu' frequenti effetti nocivi non ereditari nella prole o danni a carico della funzione o delle capacita' riproduttive maschili o femminili;
+                            
+                        
+                        
+                            q)
+                            
+                                pericolosi per l'ambiente: i preparati che, qualora si diffondano nell'ambiente, presentino o possano presentare rischi immediati o differiti per una o piu' delle componenti ambientali.
 
 ## Art. 3. — Determinazione delle proprieta' pericolose dei preparati, loro
  classificazione ed etichettatura
@@ -44,6 +267,42 @@ Fatte salve le disposizioni del decreto legislativo 25 febbraio 2000, n. 174, il
 La valutazione delle proprieta' pericolose di un preparato si basa sulla determinazione delle proprieta' chimico-fisiche, delle proprieta' aventi effetti sulla salute e delle proprieta' ambientali, secondo i criteri stabiliti agli articoli 4, 5 e 6.
 
 Ove sia necessario effettuare prove di laboratorio ai fini della valutazione delle proprieta' pericolose di cui al comma 1, esse sono eseguite sul preparato cosi' come immesso sul mercato.
+
+3.
+                    
+                        
+                            Ai fini della determinazione delle proprieta' pericolose, sono prese in considerazione, secondo le modalita' stabilite dal metodo utilizzato, tutte le sostanze pericolose ai sensi dell'articolo 2, comma 2, in particolare quelle che:
+
+
+                        
+                        
+                            a)
+                            
+                                sono indicate nell'Allegato VIII;
+                            
+                        
+                        
+                            b)
+                            
+                                sono classificate ed etichettate provvisoriamente a cura del responsabile dell'immissione sul mercato ai sensi dell'articolo 6 del decreto legislativo 3 febbraio 1997, n. 52;
+                            
+                        
+                        
+                            c)
+                            
+                                sono classificate ed etichettate in base all'articolo 7 del decreto legislativo 3 febbraio 1997, n. 52, e non figurano ancora nell' ELINCS;
+                            
+                        
+                        
+                            d)
+                            
+                                sono contemplate dall'articolo 8 del decreto legislativo 3 febbraio 1997, n. 52;
+                            
+                        
+                        
+                            e)
+                            
+                                sono classificate ed etichettate in base all'articolo 13 del decreto legislativo 3 febbraio 1997, n. 52.
 
 Per i preparati contemplati dal presente decreto, le sostanze pericolose che rientrano nelle categorie di pericolo di cui all'articolo 2, comma 2, anche se sono presenti come impurezze o additivi, sono prese in considerazione qualora la loro concentrazione sia pari o superiore a quella definita all'Allegato IX.
 
@@ -55,9 +314,51 @@ I principi generali della classificazione e dell'etichettatura dei preparati son
 
 I pericoli derivanti dalle proprieta' chimico-fisiche di un preparato sono valutati ai sensi dell'articolo 37, comma 2, del decreto legislativo 3 febbraio 1997, n. 52, determinando, secondo i metodi specificati alla parte A dell'allegato V del decreto del Ministro della sanita' in data 28 aprile 1997, e successivi aggiornamenti, le proprieta' chimico-fisiche del preparato necessarie per una classificazione ed un'etichettatura adeguate, conformemente ai criteri definiti nell'allegato VI di detto decreto.
 
+2.
+                    
+                        
+                            In deroga al comma 1, la determinazione delle proprieta' esplosive, comburenti, estremamente infiammabili, facilmente infiammabili o infiammabili di un preparato non e' necessaria a condizione che:
+
+
+                        
+                        
+                            a)
+                            
+                                nessuno dei componenti presenti tali proprieta' e che, in base alle informazioni di cui dispone il fabbricante, sia improbabile che il preparato presenti questo tipo di pericolo o rischio;
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di modifica della composizione di un preparato di composizione nota si concluda, su base scientifica, che una nuova valutazione dei pericoli non comporta un cambiamento di classificazione;
+                            
+                        
+                        
+                            c)
+                            
+                                se il preparato e' immesso sul mercato sotto forma di aerosol, esso soddisfi le disposizioni di cui all'articolo 7 del decreto del Presidente della Repubblica 21 luglio 1962, n. 741, e definite dall'articolo 1, comma 2, punto 2.4, del decreto del Ministro dell'industria, del commercio e dell'artigianato 8 maggio 1997, n. 208.
+
 I pericoli derivanti dalle proprieta' chimico-fisiche di un preparato contemplato dal decreto legislativo 17 marzo 1995, n. 194, sono valutati determinando le proprieta' chimico-fisiche del preparato necessarie per una classificazione adeguata secondo i criteri e i metodi definiti negli allegati richiamati al comma 1, salvo se sono accettabili altri metodi in base alle disposizioni degli allegati II e III del decreto legislativo 17 marzo 1995, n. 194, riconosciuti a livello internazionale.
 
 ## Art. 5. — Valutazione dei pericoli per la salute
+
+1.
+                    
+                        
+                            I pericoli per la salute di un preparato sono valutati secondo una o piu' delle seguenti procedure:
+
+
+                        
+                        
+                            a)
+                            
+                                un metodo convenzionale descritto all'allegato I;
+                            
+                        
+                        
+                            b)
+                            
+                                la determinazione delle proprieta' tossicologiche necessarie per una classificazione adeguata, ai sensi dell'articolo 37, comma 2, del decreto legislativo 3 febbraio 1997, n. 52, secondo i criteri dell'allegato VI del decreto del Ministro della sanita' in data 28 aprile 1997, e successivi aggiornamenti, ed i metodi indicati nell'allegato V, parte B, del medesimo decreto, salvo se, nel caso di prodotti fitosanitari, sono accettabili altri metodi, in base alle disposizioni degli allegati II e III del decreto legislativo 17 marzo 1995, n.194, riconosciuti a livello internazionale.
 
 Fatti salvi i requisiti del decreto legislativo 17 marzo 1995, n. 194, solo qualora la persona responsabile dell'immissione in commercio del preparato sia in grado di dimostrare scientificamente che le proprieta' tossicologiche del medesimo non possono essere correttamente determinate ne' con il metodo indicato al comma 1, lettera a), ne' sulla base di risultati di prove gia' effettuate su animali, possono essere utilizzati i metodi indicati al comma 1, lettera b), fermo il rispetto dei decreti legislativi 27 gennaio 1992, n. 116, relativo alla protezione degli animali utilizzati a fini sperimentali o ad altri fini scientifici e 27 gennaio 1992, n. 120, relativo all'applicazione dei principi della buona pratica di laboratorio.
 
@@ -69,17 +370,149 @@ Qualora si possa dimostrare mediante studi epidemiologici, studi di casi clinici
 
 Qualora si possa dimostrare che una valutazione convenzionale porterebbe a o sopravvalutare il pericolo tossicologico a causa di effetti quali, rispettivamente, il potenziamento o l'antagonismo, la classificazione tiene conto di tali effetti.
 
+7.
+                    
+                        
+                            Qualora non esistano valide ragioni scientifiche per ritenere che una nuova valutazione del pericolo non porti a modificare la classificazione, per i preparati di composizione nota, ad eccezione di quelli contemplati dal decreto legislativo 17 marzo 1995, n.194 , classificati ai sensi del comma 1, lettera b), si procede ad una nuova valutazione mediante i metodi indicati al comma 1, lettere a) o b), allorche':
+
+
+                        
+                        
+                            a)
+                            
+                                il fabbricante modifichi il tenore iniziale espresso in percentuale peso/peso o volume/volume di uno dei componenti pericolosi rientranti nella composizione, sulla base dei valori riportati nella tabella di cui all'Allegato X;
+                            
+                        
+                        
+                            b)
+                            
+                                il fabbricante modifichi la composizione sostituendo o aggiungendo uno o piu' componenti a prescindere dal fatto che si tratti o meno di componenti pericolosi secondo le definizioni di cui all'articolo 2.
+
 ## Art. 6. — Valutazione dei pericoli per l'ambiente
+
+1.
+                    
+                        
+                            I pericoli per l'ambiente di un preparato sono valutati secondo una o piu' delle seguenti procedure:
+
+
+                        
+                        
+                            a)
+                            
+                                metodo convenzionale descritto all'allegato II del presente decreto;
+                            
+                        
+                        
+                            b)
+                            
+                                determinazione delle proprieta' pericolose per l'ambiente necessarie per una classificazione adeguata ai sensi dell'articolo 37, comma 2, del decreto legislativo 3 febbraio 1997, n. 52, secondo i criteri dell'allegato VI del decreto del Ministro della sanita' in data 28 aprile 1997, e successivi aggiornamenti, ed i metodi indicati nell'allegato V, parte C, del medesimo decreto, salvo se, nel caso di prodotti fitosanitari, sono accettabili altri metodi, in base alle disposizioni degli allegati II e III del decreto legislativo 17 marzo 1995, n. 194, riconosciuti a livello internazionale. Fatte salve le prove richieste da quest'ultimo decreto, le condizioni di applicazione di metodi di prova sono descritte nella parte C dell'allegato II del presente decreto.
 
 Se e' constatata una proprieta' ecotossicologica secondo uno dei metodi indicati al comma 1, lettera b), per ottenere nuovi dati, le prove devono essere realizzate secondo i principi della buona pratica di laboratorio di cui al decreto legislativo 27 gennaio 1992, n. 120, e successivi aggiornamenti.
 
 Se i pericoli per l'ambiente sono stati valutati secondo entrambe le procedure di cui al comma 1, per classificare il preparato si utilizza il risultato ottenuto secondo i metodi di cui al comma 1, lettera b).
 
+4.
+                    
+                        
+                            Qualora non esistano valide ragioni scientifiche per ritenere che una nuova valutazione del pericolo non porti a modificare la classificazione, per i preparati di composizione nota, ad eccezione di quelli contemplati dal decreto legislativo 17 marzo 1995, n. 194, classificati ai sensi del comma 1, lettera b), si procede ad una nuova valutazione mediante i metodi indicati al comma 1, lettere a) o b), allorche':
+
+
+                        
+                        
+                            a)
+                            
+                                il fabbricante modifichi il tenore iniziale espresso in percentuale peso/peso o volume/volume di uno dei componenti pericolosi rientranti nella composizione, sulla base dei valori riportati nella tabella di cui all'Allegato X;
+                            
+                        
+                        
+                            b)
+                            
+                                il fabbricante modifichi la composizione sostituendo o aggiungendo uno o piu' componenti a prescindere dal fatto che si tratti o meno di componenti pericolosi secondo le definizioni di cui all'articolo 2.
+
 ## Art. 7. — Obblighi generali
 
 I preparati di cui all'articolo 1 possono essere immessi sul mercato soltanto se conformi alle disposizioni del presente decreto.
 
+2.
+                    
+                        
+                            Il responsabile dell'immissione sul mercato del preparato tiene a disposizione delle autorita' competenti
+
+
+                        
+                        
+                            a)
+                            
+                                i dati sulla composizione del preparato;
+                            
+                        
+                        
+                            b)
+                            
+                                i dati utilizzati per la classificazione e l'etichettatura del preparato;
+                            
+                        
+                        
+                            c)
+                            
+                                qualsiasi informazione utile concernente le condizioni di imballaggio ai sensi dei dell'articolo 8, comma 3, compreso il certificato delle prove, redatto ai sensi dell'articolo 37, comma 2, del decreto legislativo 3 febbraio 1997, n. 52, secondo i criteri riportati nell'allegato IX, parte A, al decreto del Ministro della sanita' in data 28 aprile 1997, e successivi aggiornamenti;
+                            
+                        
+                        
+                            d)
+                            
+                                i dati utilizzati per la predisposizione della scheda informativa in materia di sicurezza ai sensi dell'articolo 13.
+
 ## Art. 8. — Imballaggio
+
+1.
+                    
+                        
+                            I preparati di cui all'articolo 1 sono immessi sul mercato soltanto se i loro imballaggi soddisfano le seguenti condizioni:
+
+
+                        
+                        
+                            a)
+                            
+                                sono progettati e realizzati in modo tale a impedire qualsiasi fuoriuscita del contenuto; questo requisito non si applica qualora siano prescritti speciali dispositivi di sicurezza;
+                            
+                        
+                        
+                            b)
+                            
+                                i materiali che costituiscono l'imballaggio e la chiusura non devono deteriorarsi a contatto con il contenuto, ne' formare con questo composti pericolosi;
+                            
+                        
+                        
+                            c)
+                            
+                                tutte le parti dell'imballaggio e della chiusura devono essere solide e robuste, in modo da escludere qualsiasi allentamento e da sopportare in piena sicurezza le normali sollecitazioni dovute a manipolazione;
+                            
+                        
+                        
+                            d)
+                            
+                                recipienti muniti di un sistema che puo' essere riapplicato devono essere progettati in modo che l'imballaggio stesso possa essere richiuso varie volte senza fuoriuscite di contenuto.
+
+2.
+                    
+                        
+                            I recipienti contenenti preparati di cui all'articolo 1, offerti o venduti al dettaglio, non devono avere:
+
+
+                        
+                        
+                            a)
+                            
+                                una forma o una decorazione grafica che attiri o risvegli la curiosita' dei bambini o che sia tale da indurre in errore il consumatore; oppure
+                            
+                        
+                        
+                            b)
+                            
+                                una presentazione o una denominazione usata per prodotti alimentari, alimenti per animali, medicinali o cosmetici.
 
 I recipienti contenenti taluni preparati offerti o venduti al dettaglio e di cui all'allegato III devono essere muniti di chiusura di sicurezza per bambini e recare un'indicazione di pericolo riconoscibile al tatto.
 
@@ -99,6 +532,65 @@ I preparati di cui all'articolo 1, comma 2, quali definiti nell'allegato IV, par
 
 Fatte salve le informazioni richieste a norma dell'articolo 16 e dell'allegato V del decreto legislativo 17 marzo 1995, n. 194, i prodotti fitosanitari sono immessi sul mercato soltanto se l'etichettatura e' conforme alle prescrizioni del presente decreto e se recano la dicitura: "Per evitare rischi per l'uomo e per l'ambiente seguire le istruzioni per l'uso".
 
+4.
+                    
+                        
+                            Ogni imballaggio deve recare le seguenti indicazioni scritte in modo leggibile ed indelebile, in lingua italiana:
+
+                        
+                        
+                            a)
+                            
+                                denominazione o nome commerciale del preparato;
+                            
+                        
+                        
+                            b)
+                            
+                                nome e indirizzo completi, compreso il numero di telefono, del responsabile dell'immissione sul mercato stabilito nell'Unione europea;
+                            
+                        
+                        
+                            c)
+                            
+                                il nome chimico delle sostanze presenti nel preparato che hanno dato luogo alla classificazione ed alla scelta delle corrispondenti frasi di rischio, secondo i criteri indicati nell'allegato VII, parte A;
+                            
+                        
+                        
+                            d)
+                            
+                                simboli ed indicazioni di pericolo individuati sulla base dei criteri di cui all'allegato VII parte B;
+                            
+                        
+                        
+                            e)
+                            
+                                frasi di rischio (frasi R) individuati secondo quanto previsto all'allegato VII parte C;
+                            
+                        
+                        
+                            f)
+                            
+                                consigli di prudenza (frasi S) individuati secondo quanto previsto dall'allegato VII parte D;
+q) quantitativo nominale espresso in massa o in volume del contenuto, nel caso di preparati offerti o venduti al pubblico.
+
+5.
+                    
+                        
+                            Se il contenuto dell'imballaggio non supera 125 ml:
+
+                        
+                        
+                            a)
+                            
+                                per i preparati classificati come facilmente infiammabili, comburenti o irritanti, tranne quelli contrassegnati con R41, o pericolosi per l'ambiente e contrassegnati con il simbolo N, non e' necessario indicare e frasi R o S;
+                            
+                        
+                        
+                            b)
+                            
+                                per i preparati classificati infiammabili o pericolosi per l'ambiente non contrassegnati dal simbolo N e' necessario indicare le frasi R, ma non e' necessario indicare le frasi S.
+
 Fatte salve le disposizioni dell'articolo 16, comma 4, del decreto legislativo 17 marzo 1995, n. 194, sull'imballaggio o sull'etichetta dei preparati contemplati dal presente decreto non possono figurare indicazioni quali non tossico, non nocivo, non inquinante, ecologico o qualsiasi altra indicazione diretta ad indicare il carattere non pericoloso o che induca a sottovalutare i pericoli inerenti tali preparati.
 
 ## Art. 10. — Applicazione dei requisiti per l'etichettatura
@@ -111,6 +603,26 @@ Il colore e la presentazione dell'etichetta, o dell'imballaggio nel caso previst
 
 Le informazioni da apporre sull'etichetta, a norma dell'articolo 9, devono risultare chiaramente sul fondo e la loro dimensione e spaziatura devono essere sufficienti per consentirne un'agevole lettura. Le disposizioni specifiche riguardanti la presentazione ed il formato di queste informazioni, nonche' le dimensioni dell'etichetta, sono stabilite, ai sensi dell'articolo 37, comma 2, del decreto legislativo 3 febbraio 1997, n. 52, ((secondo i criteri riportati nella Tabella A del decreto legislativo 3 febbraio 1997, n. 52.))
 
+5.
+                    
+                        
+                            I requisiti di etichettatura previsti dal presente decreto si considerano soddisfatti:
+
+                        
+                        
+                            a)
+                            
+                                nel caso di imballaggi esterni che racchiudono uno o piu' imballaggi interni, quando l'imballaggio esterno e' provvisto di una etichetta conforme ai regolamenti internazionali relativi al trasporto di merci pericolose e l'imballaggio o gli imballaggi interni sono provvisti di una etichettatura conforme al presente decreto;
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di imballaggi unici:
+ ((1) quando l'imballaggio e' provvisto di una etichettatura conforme ai regolamenti internazionali relativi al trasporto di merci pericolose e conforme all'articolo 9, comma 4, lettere a), b), c), e) e f); ai preparati classificati in base all'articolo 6 sono altresi' applicabili le disposizioni dell'articolo 9, comma 4, lettera d), concernenti tale proprieta' se quest'ultima non e' stata espressamente indicata sull'etichetta;))
+ oppure
+ 2) ove opportuno, per tipologie particolari di imballaggio, ivi comprese le bombole mobili per il gas, se sono soddisfatte, ai sensi dell'articolo 37, comma 2, del decreto legislativo 3 febbraio 1997, n. 52, le disposizioni specifiche secondo i criteri di cui all'allegato VI decreto del Ministro della sanita' in data 26 aprile 1997, e successivi aggiornamenti.
+
 ## Art. 11. — Deroghe alle norme di etichettatura e di imballaggio
 
 Gli articoli 8, 9 e 10 non si applicano agli esplosivi immessi sul mercato allo scopo di produrre come effetto pratico esplosioni o effetti pirotecnici.
@@ -122,6 +634,29 @@ Quando gli imballaggi sono di dimensioni ridotte o sono altrimenti inadatti per 
 Nel caso in cui risulti materialmente impossibile effettuare una etichettatura conforme alle modalita' di cui al comma 3, il Ministro della salute, con decreto da adottare di concerto con il Ministro delle attivita' produttive, stabilisce le caratteristiche cui deve corrispondere l'etichetta.
 
 ((
+
+5.
+                    
+                        
+                            Il Ministro della salute stabilisce altresi', di concerto con le Amministrazioni competenti e con le modalita', di cui al comma 4:
+
+                        
+                        
+                            a)
+                            
+                                in deroga agli articoli 9 e 10, i casi in cui gli imballaggi dei preparati pericolosi che non sono classificati come nocivi, estremamente infiammabili, facilmente infiammabili o infiammabili, irritanti o comburenti possono non essere etichettati o possono essere etichettati in modo diverso, quando contengano quantitativi talmente limitati da non comportare alcun pericolo sia per le persone che manipolano tali preparati che per terzi;
+                            
+                        
+                        
+                            b)
+                            
+                                in deroga agli articoli 9 e 10, i casi in cui gli imballaggi dei preparati pericolosi, classificati conformemente all'articolo 6, possono non essere etichettati o possono essere etichettati in modo diverso, quando contengano quantitativi talmente limitati da non comportare alcun pericolo per l'ambiente;
+                            
+                        
+                        
+                            c)
+                            
+                                in deroga agli articoli 9 e 10, i casi in cui gli imballaggi dei preparati pericolosi che non ricadono nelle fattispecie di cui alle lettere a) e b), sono etichettati in altro modo idoneo, qualora le dimensioni ridotte non consentano l'etichettatura di cui agli articoli 9 e 10 e non vi sia motivo di temere un pericolo sia per le persone che manipolano tali preparati che per terzi.
 
 In caso di applicazione dei commi 3, 4 e 5, non e' consentito l'impiego di simboli, indicazioni di pericolo, frasi di rischio (R) o consigli di prudenza (S) diversi da quelli stabiliti dal presente decreto.
 
@@ -150,6 +685,24 @@ Il responsabile dell'immissione sul mercato della sostanza fornisce la scheda in
 ## Art. 14. — Riservatezza delle informazioni
 
 ((
+
+1.
+                    
+                        
+                            Il responsabile dell'immissione sul mercato del preparato puo' essere autorizzato a fare riferimento ad una sostanza mediante una denominazione che identifichi i principali gruppi chimici funzionali o mediante una denominazione alternativa, qualora possa dimostrare che la divulgazione dell'identita' chimica della sostanza, sull'etichetta o sulla scheda informativa in materia di sicurezza, compromette il carattere riservato della sua proprieta' intellettuale. Tale possibilita' e' ammessa nei casi in cui la sostanza e' classificata come:
+ 
+                        
+                        
+                            a)
+                            
+                                irritante, ad eccezione di quelle cui e' stata attribuita la frase di rischio R41, o irritante in combinazione con una o piu' delle altre proprieta' di cui all'Allegato VII, parte A, punto 4;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nociva, o nociva in combinazione con una o piu' proprieta' di cui all'Allegato VII, parte A, punto 4, che presenta, da sola, effetti acuti letali.
 
 ))
 

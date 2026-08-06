@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-05-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,24 @@ I modelli delle schede per l'annotazione dei dati riguardanti le vendite, gli ac
 Le schede devono essere compilate secondo le modalita' e con i tempi e le procedure di rilevamento e trasmissione dei dati precisati per ciascuna di esse negli articoli seguenti.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            La scheda relativa alla dichiarazione dei dati di vendita, di cui all'allegato 1, deve essere trasmessa al "Ministero dell'agricoltura e delle foreste - sistema informativo agricolo nazionale (s.i.a.n.)", entro il secondo mese successivo alla fine di ciascun semestre solare: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalle ditte intestatarie delle registrazioni di presidi sanitari, dai distributori e dai venditori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da coloro che effettuano trattamenti per conto terzi, limitatamente ai presidi sanitari acquistati in proprio, dalle coop- erative di acquisto e dai centri di distribuzione collettiva.
 
 La dichiarazione di cui al comma 1 deve essere trasmessa distintamente per ciascuna attivita', qualora il dichiarante eserciti piu' di una delle attivita' indicate nel modello di cui all'allegato 1.
 

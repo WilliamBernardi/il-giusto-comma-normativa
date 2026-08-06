@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-07-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -59,11 +59,54 @@ Costituiscono armamento di reparto le armi in carico agli uffici o reparti e ist
 
 ## Art. 5. — Assegnazione e consegna delle armi
 
+1.
+                        
+                            
+                                Il Dipartimento della pubblica sicurezza - Direzione centrale dei servizi tecnico-logistici e della gestione patrimoniale assegna agli istituti di istruzione e, direttamente o tramite i centri territoriali di supporto, agli uffici e reparti della Polizia di Stato:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'armamento individuale occorrente, per la successiva assegnazione al personale di cui all'art. 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'armamento di reparto occorrente in considerazione delle caratteristiche dei servizi, del personale da impiegare e degli obiettivi da conseguire, sentite, ove occorra, le Direzioni centrali competenti.
+
 Con l'ordine di servizio di cui all'art. 42 del regolamento di servizio dell'Amministrazione della pubblica sicurezza, approvato con decreto del Presidente della Repubblica 28 ottobre 1985, n. 782, il dirigente dell'ufficio, il comandante del reparto o il direttore dell'istituto di istruzione determina l'armamento di reparto che deve essere consegnato al personale comandato in operazioni di servizio oppure ai fini delle esercitazioni e dell'addestramento e provvede per la consegna.
 
 La consegna dell'armamento al personale della Polizia di Stato diverso da quello indicato dall'art. 3 puo' essere disposta solo per motivi di addestramento o per motivi di assoluta necessita', allorche' detto personale e' impiegato in operazioni di polizia o soccorso pubblico. In quest'ultimo caso, si osservano le disposizioni dell'art. 9, comma 2.
 
 ## Art. 6. — Doveri dell'assegnatario
+
+1.
+                        
+                            
+                                L'assegnatario deve:
+ 
+                            
+                            
+                                a)
+                                
+                                    custodire diligentemente l'arma e curarne responsabilmente ed in modo costante la manutenzione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    applicare sempre e ovunque le misure di sicurezza previste per il maneggio dell'arma;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mantenere l'addestramento ricevuto, curando attivamente l'esercizio delle tecniche apprese e partecipando alle esercitazioni di tiro a tale scopo organizzate dall'Amministrazione.
 
 L'armamento individuale deve essere immediatamente versato all'ufficio o al reparto di appartenenza all'atto della cessazione o sospensione del rapporto di impiego, nonche' in ogni altro caso in cui l'Amministrazione lo disponga con provvedimento motivato.
 

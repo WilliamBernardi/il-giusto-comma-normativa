@@ -8,8 +8,8 @@ codice_redazionale: 001G0233
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -89,6 +89,52 @@ E' soppressa la figura professionale di tecnico dell'educazione e della riabilit
 ## Art. 2.
 
 E' individuata la figura professionale del tecnico della riabilitazione psichiatrica con il seguente profilo: il tecnico della riabilitazione psichiatrica e' l'operatore sanitario che, in possesso del diploma universitario abilitante, svolge, nell'ambito di un progetto terapeutico elaborato da un'equipe multidisciplinare, interventi riabilitativi ed educativi sui soggetti con disabilita' psichica.
+
+2.
+                    
+                        
+                            Il tecnico della riabilitazione psichiatrica:
+ 
+                        
+                        
+                            a)
+                            
+                                collabora alla valutazione della disabilita' psichica e delle potenzialita' del soggetto, analizza bisogni e istanze evolutive e rileva le risorse del contesto familiare e socio-ambientale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collabora all'identificazione degli obiettivi formativo-terapeutici e di riabilitazione psichiatrica nonche' alla formulazione dello specifico programma di intervento mirato al recupero e allo sviluppo del soggetto in trattamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attua interventi volti all'abilitazione/riabilitazione dei soggetti alla cura di se' e alle relazioni interpersonali di varia complessita' nonche, ove possibile, ad un'attivita' lavorativa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                opera nel contesto della prevenzione primaria sul territorio, al fine di promuovere lo sviluppo delle relazioni di rete, per favorire l'accoglienza e la gestione delle situazioni a rischio e delle patologie manifestate;
+
+                            
+                        
+                        
+                            e)
+                            
+                                opera sulle famiglie e sul contesto sociale dei soggetti, allo scopo di favorirne il reinserimento nella comunita;
+
+                            
+                        
+                        
+                            f)
+                            
+                                collabora alla valutazione degli esiti del programma di abilitazione e riabilitazione nei singoli soggetti, in relazione agli obiettivi prefissati.
 
 Il tecnico della riabilitazione psichiatrica contribuisce alla formazione del personale di supporto e concorre direttamente all'aggiornamento relativo al proprio profilo professionale.
 

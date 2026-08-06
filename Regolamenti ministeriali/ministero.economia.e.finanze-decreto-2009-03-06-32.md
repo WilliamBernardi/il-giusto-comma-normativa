@@ -8,8 +8,8 @@ codice_redazionale: 009G0040
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,70 @@ Ritenuta la necessita' di adeguare la normativa nazionale alle summenzionate dis
 Udito il parere espresso dal Consiglio di Stato nell'adunanza della Sezione consultiva per gli atti normativi del 15 dicembre 2008;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione delle disposizioni previste nel presente regolamento sono adottate le seguenti definizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                importazioni di natura non commerciale: le importazioni che, contemporaneamente, presentano carattere occasionale e riguardano esclusivamente merci, riservate all'uso personale o familiare dei viaggiatori o destinate ad essere regalate, che non riflettono, per la loro natura o quantita', alcun intento di carattere commerciale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                bagagli personali: i bagagli che il viaggiatore e' in grado di presentare all'Ufficio doganale al momento del suo arrivo nonche' quelli che presenta a tale ufficio in un secondo tempo, a condizione che comprovi che sono stati registrati come bagaglio al seguito, al momento della partenza, presso il vettore che ha provveduto al trasporto del viaggiatore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                zona di frontiera: fatte salve le relative convenzioni, il territorio dei comuni che ricadono, anche parzialmente, nella zona avente una profondita' in linea d'aria di 15 chilometri dalla frontiera con Paesi non comunitari;
+
+                            
+                        
+                        
+                            d)
+                            
+                                lavoratore frontaliero: la persona che, per la sua abituale attivita', deve varcare la frontiera nei suoi giorni di lavoro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                viaggiatori aerei e viaggiatori via mare: tutti i passeggeri che effettuano viaggi aerei o marittimi, fatta eccezione per l'aviazione privata da diporto o la navigazione privata da diporto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                aviazione privata da diporto e navigazione privata da diporto: l'uso di un aeromobile o di un battello marittimo da parte del proprietario o della persona fisica o giuridica che ha un contratto di locazione o altro titolo, per scopi non commerciali e diversi dal trasporto di passeggeri o merci o dalla prestazione di servizi a titolo oneroso o per conto di autorita' pubbliche.
+
+2.
+                    
+                        
+                            Ai fini dell'applicazione del presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                il Principato di Monaco non e' considerato Paese terzo e, limitatamente alle accise, la Repubblica di San Marino non e' considerata Paese terzo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'isola di Man e' considerata territorio in cui si applicano le norme comunitarie in materia di IVA o di accisa.
 
 ## Art. 2. — Soglie monetarie
 

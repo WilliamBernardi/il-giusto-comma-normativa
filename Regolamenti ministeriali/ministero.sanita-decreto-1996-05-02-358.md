@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1997-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,7 +40,92 @@ Uditi i pareri del Consiglio di Stato resi nelle adunanze generali del 20 luglio
 
 Il presente regolamento stabilisce le misure sanitarie da applicare agli allevamenti di bovini e di bufalini dell'intero territorio nazionale per conseguire la eradicazione della leucosi bovina enzootica.
 
+2.
+                        
+                            
+                                Il piano nazionale di profilassi della leucosi bovina enzootica di cui al successivo art. 18, e' diretto ai seguenti obiettivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'eradicazione della leucosi bovina enzootica dagli allevamenti bovini e bufalini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la protezione degli allevamenti indenni dalla leucosi bovina enzootica.
+
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai sensi del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    bovino e bufalino da macello: l'animale della specie bovina e bufalina destinato ad essere inviato al macello direttamente o dopo essere passato attraverso un mercato o un centro di raccolta riconosciuto, per esservi macellato nelle condizioni stabilite dall'art. 6 della direttiva CEE n. 64/432 recepita con legge 30 aprile 1976, n. 397, e succesive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    bovini e bufalini da riproduzione, da allevamento e da ingrasso: gli animali della specie bovina e bufalina diversi da quelli menzionati al punto a) destinati ad essere avviati verso il luogo di destinazione direttamente o dopo essere passati per un mercato o per un centro di raccolta riconosciuto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    allevamento bovino e bufalino indenne da leucosi bovina enzootica: l'allevamento che soddisfa le condizioni di cui al successivo art. 8 e che sia riconosciuto indenne ai sensi dell'art. 9 del presente regolamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    azienda: il complesso agricolo o la stalla di chi commercia animali ufficialmente autorizzata e controllata situati nel territorio nazionale nei quali sono tenuti od allevati abitualmente bovini o bufalini da riproduzione, da ingrasso o da macello;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    veterinario ufficiale: il veterinario dipendente dal Ministero della sanita', dalle regioni, dalle province autonome, o dalle unita' sanitarie locali, o libero professionista formalmente incaricato dell'esecuzione delle operazioni di risanamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eradicazione: l'eliminazione della leucosi bovina enzootica e del relativo agente eziologico dagli allevamenti bovini e bufalini tramite le opportune operazioni di profilassi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    mercato o centro di raccolta riconosciuto: qualsiasi luogo, diverso dall'azienda, in cui si vendono o si acquistano, o in cui si raccolgono, si caricano o si imbarcano bovini o bufalini, che sia conforme all'art. 9 della legge 30 aprile 1976, n. 397;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    animale infetto: quello che risponde positivamente agli esami sierologici come dal successivo art. 6, comma 1;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    animali allo stato brado: gli animali che vivono in liberta' in un determinato territorio nel quale alimentazione, riproduzione e movimenti sono liberi, senza governo diretto da parte dell'uomo se non in occasione della cattura per la marcatura, per l'avvio al mercato, per trattamenti profilattico-terapeutici e per l'alimentazione integrativa quali-quantitativa. Tali animali hanno tuttavia un proprietario.
 
 Ai sensi del presente regolamento secondo le disposizioni di cui al decreto del Presidente della Repubblica 1 marzo 1992, n. 230, la parte minima del territorio nazionale a cui puo' essere attribuita la qualifica sanitaria di "Indenne" e' il territorio di una provincia.
 
@@ -99,6 +184,31 @@ Un bovino o un bufalino e' considerato infetto da leucosi bovina enzootica quand
 
 Qualora gli animali riconosciuti infetti provengano da aziende ubicate nel territorio di competenza di altra unita' sanitaria locale, il servizio veterinario della unita' sanitaria locale che ha operato l'accertamento notifica l'episodio infettivo a quella di provenienza. Se gli animali provengono dall'estero la unita' sanitaria locale inoltra immediato avviso all'assessorato regionale alla sanita' e al Ministero della sanita' - Direzione generale dei servizi veterinari.
 
+3.
+                        
+                            
+                                I veterinari preposti alla vigilanza e all'ispezione delle carni presso i macelli ed i locali di macellazione pubblici e privati, nei casi in cui riscontrino neoplasie negli organi e nel sistema linfatico all'ispezione di un animale macellato, devono:
+ 
+                            
+                            
+                                a)
+                                
+                                    svolgere indagini per conoscere il comune e la localita' in cui e' situato l'allevamento da cui proviene l'animale nonche' il nome e cognome del proprietario di tale allevamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inviare idonei campioni di materiale patologico all'istituto zooprofilattico di competenza o al centro di referenza nazionale per l'esame istologico di cui al punto C dell'allegato tecnico al presente regolamento, o per altri tipi di esame utili per la diagnosi di leucosi bovina enzootica. Nell'eventualita' che sia l'istituto zooprofilattico ad eseguire l'esame istologico, lo stesso deve segnalare periodicamente al centro di referenza i casi positivi riscontrati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segnalare ufficialmente il caso alla unita' sanitaria locale competente per territorio.
+
 I casi di sospetto clinico od anatomopatologico di leucosi bovina enzootica devono essere ufficialmente segnalati alla unita' sanitaria locale competente per territorio.
 
 La unita' sanitaria locale competente, qualora l'animale sospetto provenga da allevamento da riproduzione, provvede a svolgervi le opportune indagini sierologiche.
@@ -106,6 +216,59 @@ La unita' sanitaria locale competente, qualora l'animale sospetto provenga da al
 ## Art. 7. — Provvedimenti
 
 Un allevamento bovino o bufalino e' considerato infetto da leucosi bovina enzootica qualora uno o piu' capi abbiano reagito positivamente alle prove sierologiche ufficiali.
+
+2.
+                        
+                            
+                                Negli allevamenti in cui si riscontri la presenza di animali infetti da leucosi bovina enzootica si applicano i seguenti provvedimenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    isolamento o idonea separazione dei capi infetti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pulizia, disinfezione e disinfestazione periodica delle stalle e particolarmente dei reparti occupati dai bovini o bufalini infetti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esclusione dalla monta dei bovini o bufalini infetti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    obbligo di eliminare il colostro delle vacche e delle bufale infette oppure di risanarlo con idoneo trattamento prima di somministrarlo ai vitelli o agli annutoli;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    obbligo di bollire il latte delle vacche e bufale infette destinato all'alimentazione dei vitelli e degli annutoli;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' vietato qualsiasi movimento di bovini o bufalini verso o da tale allevamento, salvo autorizzazione per l'uscita di capi destinati alla macellazione o a centri da ingrasso da rilasciarsi ai sensi del regolamento di Polizia veterinaria;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dopo l'isolamento di cui al punto a) gli animali devono essere marcati analogamente a quanto previsto per brucellosi e tubercolosi, dal decreto del Presidente della Repubblica 8 febbraio 1954, n. 320, o comunque conformemente alle norme emanate dal Ministero della sanita'.
 
 Le misure di cui sopra restano in vigore sino a quando, abbattuti tutti i capi sieropositivi, i restanti risultino negativi a due prove come previsto dal punto b) dell'art. 8, la prima delle quali da effettuarsi non prima di quattro mesi dall'abbattimento dell'ultimo capo infetto.
 
@@ -120,6 +283,31 @@ Dopo l'eliminazione degli animali infetti, l'autorita' veterinaria competente pe
 ## - Capitolo IV ALLEVAMENTI E PROVINCE RICONOSCIUTI
 
 ## Art. 8. — Allevamento indenne da leucosi bovina enzootica
+
+1.
+                        
+                            
+                                E' riconosciuto indenne da leucosi bovina enzootica un allevamento in cui:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel corso degli ultimi due anni non e' stato evidenziato e confermato alcun caso ne' clinico ne' anatomopatologico di leucosi bovina enzootica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    negli ultimi dodici mesi tutti i bovini e i bufalini di eta' superiore ad un anno sono stati sottoposti con esito negativo a due esami sierologici per la diagnosi della leucosi bovina enzootica, ad un intervallo di almeno quattro mesi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i capi eventualmente introdotti nell'allevamento siano scortati da certificato sanitario comprovante che provengono da un allevamento riconosciuto indenne da leucosi bovina enzootica ai sensi del presente regolamento, e che sono stati sottoposti con esito negativo ad esame sierologico ufficiale nei trenta giorni precedenti il carico; negli allevamenti sotto controllo possono essere introdotti solo soggetti provenienti da allevamenti indenni.
 
 La qualifica di allevamento indenne da leucosi bovina enzootica e' mantenuta se non si riscontrano segni clinici o anatomopatologici riferibili alla presenza di leucosi bovina enzootica e tutti i capi di eta' superiore a dodici mesi reagiscono negativamente ad un controllo sierologico effettuato con cadenza annuale.
 
@@ -140,7 +328,45 @@ Tale attestazione ha validita' di quindici giorni.
 
 ## Art. 11. — Province indenni da leucosi bovina enzootica
 
+1.
+                        
+                            
+                                Il Ministro della sanita' su richiesta delle amministrazioni regionali puo' dichiarare indenne da leucosi bovina enzootica il territorio delle singole province in cui:
+ 
+                            
+                            
+                                a)
+                                
+                                    tutti gli allevamenti presenti sul territorio sono sottoposti a controllo ufficiale e almeno il 99,8% degli allevamenti bovini o bufalini sono indenni da leucosi bovina enzootica; oppure:
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel corso degli ultimi tre anni non e' stato denunciato e confermato alcun caso di leucosi bovina enzootica; e:
+ 1) nel corso degli ultimi due anni i controlli sierologici ufficiali su base casuale praticati su tutto il territorio, effettuati in almeno il 10% degli allevamenti su tutti gli animali di eta' superiore a 24 mesi, abbiano dato esito negativo; e:
+ 2) tutti gli animali di eta' superiore ai 24 mesi siano stati sottoposti con esito negativo ad un esame sierologico ufficiale, almeno una volta.
+
 Per gli anni 1995 e 1996, al fine di consentire agli uffici interessati il graduale adeguamento alla disposizione di cui sopra, per la concessione della qualifica in oggetto, avendo comunque controllato tutti gli allevamenti esistenti sul territorio, e' sufficiente che la percentuale di infezione sia inferiore all'1%, calcolato sulla base di tutti gli allevamenti riscontrati infetti durante l'anno.
+
+3.
+                        
+                            
+                                La qualifica e' mantenuta quando, dopo aver soddisfatto le condizioni di cui al comma 1:
+ 
+                            
+                            
+                                a)
+                                
+                                    ogni anno, un sondaggio a campione randomizzato, che assicuri un tasso di probabilita' del 99,8%, dimostri che meno dello 0,2% degli allevamenti e' stato infettato; oppure:
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni anno il 20% degli animali di eta' superiore a 24 mesi sia sottoposto a controllo ufficiale con esito negativo e sono soddisfatti i requisiti previsti all'art. 8.
 
 Se la leucosi bovina enzootica e' stata diagnosticata in piu' dello 0,2% degli allevamenti di una provincia, la qualifica di territorio indenne viene sospesa. Detta qualifica puo' essere ripristinata se gli esami ufficiali praticati nel corso di 12 mesi in almeno il 20% degli allevamenti su tutti i bovini e bufalini di eta' superiore a 24 mesi, danno esito negativo, oltre quanto previsto al successivo art. 12, comma 1.
 
@@ -148,11 +374,54 @@ Il Ministro della sanita' puo' dichiarare una regione indenne da leucosi bovina 
 
 ## Art. 12. — Sospensione e revoca delle qualifiche
 
+1.
+                        
+                            
+                                Nei casi in cui in un allevamento riconociuto in precedenza indenne da leucosi bovina enzootica un animale reagisca positivamente ad uno degli esami ufficiali, la unita' sanitaria locale competente per territorio provvede a sospemdere la qualifica di tale allevamento fino a quando non vengano adottate le seguenti misure:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'animale che ha reagito positivamente e, se si tratta di vacca o bufala, l'eventuale vitello o annutolo, devono essere allontanati entro otto giorni dall'allevamento ed essere abbattuti seguendo le procedure previste nel presente regolamento per gli animali infetti. In deroga a tale obbligo nel caso in cui il vitello o annutolo sia stato separato dalla madre subito dopo il parto, questo puo' essere destinato ad un centro di ingrasso, previa autorizzazione della unita' sanitaria locale per territorio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli altri animali devono essere sottoposti con esito negativo ad un esame sierologico individuale ufficiale, almeno tre mesi dopo l'eliminazione dell'animale positivo e dell'eventuale vitello o annutolo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un'indagine epidemiologica deve essere svolta e gli eventuali allevamenti epidemiologicamente correlati devono essere sottoposti alle misure di cui alla precedente lettera b).
+
 L'attestazione di cui all'art. 9 del presente regolamento perde la sua validita' nel caso in cui negli allevamenti vengano introdotti bovini o bufalini senza i requisiti previsti dall'art. 8, comma 1, lettera c).
 
 L'attestazione di cui all'art. 10 del presente regolamento perde la sua validita' se gli animali entrano in contatto con bovini o bufalini non indenni da leucosi bovina enzootica.
 
 ## Art. 13. — Scambi di animali
+
+1.
+                        
+                            
+                                I bovini e i bufalini da riproduzione, da allevamento e da ingrasso possono essere oggetto di scambio tra aziende site nel territorio italiano, se:
+ 
+                            
+                            
+                                a)
+                                
+                                    provengono da un allevamento indenne da leucosi bovina enzootica, oltre che da un allevamento ufficialmente indenne da tubercolosi e indenne o ufficialmente indenne da brucellosi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oltre ai requisiti indicati nella precedente lettera a), se sono di eta' superiore ai dodici mesi hanno reagito negativamente ad un esame individuale ufficiale effettuato non oltre trenta giorni prima del carico.
 
 I bovini e i bufalini di eta' inferiore a dodici mesi destinati esclusivamente agli allevamenti da ingrasso non sono soggetti, per quanto riguarda la leucosi bovina enzootica, ai requisiti indicati alle lettere a) e b) di cui al comma 1.
 
@@ -178,6 +447,31 @@ Il servizio veterinario della azienda sanitaria locale competente per territorio
 
 ## Art. 16. — Disposizioni finanziarie
 
+1.
+                        
+                            
+                                Le regioni e le province autonome sostengono con i fondi loro assegnati dal fondo sanitario nazionale (parte corrente - capitolo 5941 del Ministero del tesoro) le spese relative all'esecuzione delle operazioni di cui al presente regolamento ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese per i corsi di addestramento e formazione riservati al personale destinato ad operare per l'applicazione delle norme del presente regolamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la gestione del sistema informativo e la sorveglianza epidemiologica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutte le altre spese ritenute necessarie per l'eradicazione dagli allevamenti bovini e bufalini, nonche' il pagamento delle prestazioni dei medici veterinari liberi professionisti autorizzati ad operare nell'ambito dei piani di profilassi e delle indennita' di abbattimento dei capi riscontrati infetti ai sensi del presente regolamento.
+
 Qualora le operazioni di profilassi e di risanamento della tubercolosi bovina vengano effettuate contestualmente ai controlli per la brucellosi bovina e/o per la leucosi bovina enzootica viene corrisposto ai veterinari ufficiali un unico compenso per allevamento controllato come previsto dalla normativa vigente.
 
 ## Art. 17. — Competenze esecutive
@@ -185,6 +479,24 @@ Qualora le operazioni di profilassi e di risanamento della tubercolosi bovina ve
 ((
 
 L'allevatore o il detentore e' tenuto ad offrire la massima collaborazione per l'esecuzione delle operazioni di risanamento ed in particolare deve provvedere al contenimento degli animali e rispettare tutti gli obblighi previsti dal presente regolamento.
+
+2.
+                        
+                            
+                                Gli allevatori che non sottopongono i propri animali alle operazioni di eradicazione nei confronti della leucosi bovina enzootica dei bovini, non possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accedere a qualsiasi forma di contribuzione e prestiti agevolati erogati da una pubblica amministrazione, ivi compresi quelli di natura comunitaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    commercializzare i prodotti lattierocaseari per l'alimentazione umana.
 
 3. In caso di inadempienza le operazioni di risanamento sono eseguite d'ufficio, con addebito delle spese a carico dei trasgressori))
 

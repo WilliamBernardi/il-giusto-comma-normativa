@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2013-08-06;115
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,24 @@ Finalita'
 
 Le disposizioni del presente regolamento disciplinano la soppressione e la riorganizzazione, anche mediante ridenominazione, delle scuole militari e degli istituti militari di formazione, ai sensi dell'articolo 11, comma 2, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135.
 
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «soppressione», qualsiasi provvedimento connesso all'esaurita missione dell'ente da cui consegue lo scioglimento o la ridefinizione dell'organismo per altra missione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «riorganizzazione», qualsiasi provvedimento connesso alla revisione, all'integrazione o riconfigurazione della missione dell'ente ovvero qualsiasi determinazione volta ad accentrare presso altri organismi funzioni svolte da enti soppressi o ridefiniti ai sensi del presente regolamento.
+
 ## Art. 2. — Modificazioni al libro primo del decreto del Presidente della Repubblica 15 marzo 2010, n. 90
 
 Al libro primo del decreto del Presidente della repubblica 15 marzo 2010, n. 90, nel titolo V, dopo l'articolo 280 e' inserito il seguente: 
@@ -48,6 +66,32 @@ I provvedimenti di soppressione di cui al comma 1, lettere b) e c), sono adottat
 I provvedimenti di reimpiego del personale, conseguenti alle soppressioni di cui ai commi 2 e 3, sono istruiti e disposti in base alla disciplina vigente, tenuto conto delle esigenze funzionali del Ministero della difesa.».
 
 ## Art. 3. — Modifiche, abrogazioni
+
+1.
+                    
+                        
+                            Ai sensi e per gli effetti di cui all'articolo 11, comma 2, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135: 
+ 
+                        
+                        
+                            a)
+                            
+                                al codice dell'ordinamento militare: 
+ 1) a fare data dall'adozione del decreto di soppressione del Raggruppamento unita' addestrative per la formazione dei volontari dell'Esercito italiano di cui all'articolo 2, comma 1, lettera d), all'articolo 104, al comma 1, lettera a), il numero 6) e' soppresso; 
+ 2) a fare data dall'adozione del decreto di soppressione del Centro addestramento e formazione del personale volontario della Marina militare di cui all'articolo 2, comma 1, lettera f), all'articolo 116, al comma 1, la lettera e) e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al testo unico dell'ordinamento militare, sono apportate le seguenti modificazioni: 
+ 1) a fare data dall'adozione del decreto di soppressione del Centro addestramento e formazione del personale volontario della Marina militare di cui all'articolo 2, comma 1, lettera f), la rubrica dell'articolo 156 e' sostituita dalla seguente: «Centro di Selezione»; 
+ 2) a fare data dall'adozione del decreto di soppressione del Centro addestramento e formazione del personale volontario della Marina militare di cui all'articolo 2, comma 1, lettera f), all'articolo 156, il comma 1 e' abrogato; 
+ 3) a fare data dall'adozione del decreto di soppressione del Centro addestramento e formazione del personale volontario della Marina militare di cui all'articolo 2, comma 1, lettera f), all'articolo 156, al comma 3, le parole: «addestramento e formazione e di» sono soppresse; 
+ 4) a fare data dall'adozione dei decreti di soppressione del Raggruppamento unita' addestrative per la formazione dei volontari dell'Esercito italiano e del Reggimento addestramento volontari «Ferrara» dell'Esercito italiano di cui all'articolo 2, comma 1, lettere d) ed e), all'articolo 277, al comma 1, le lettere c) e d) sono soppresse; 
+ 5) a fare data dall'adozione dei decreti di soppressione del Raggruppamento unita' addestrative per la formazione dei volontari dell'Esercito italiano e del Reggimento addestramento volontari «Ferrara» dell'Esercito italiano di cui all'articolo 2, comma 1, lettere d) ed e), all'articolo 277, al comma 1, alla lettera e) dopo le parole: «Scuola di fanteria» sono aggiunte le seguenti: «e dipendenti reggimenti di addestramento dei volontari»; 
+ 6) a fare data dall'adozione del decreto di soppressione del Centro addestramento e formazione del personale volontario della Marina militare di cui all'articolo 2, comma l, lettera f), all'articolo 278, al comma 1, la lettera c) e' soppressa.
 
 ## Art. 4. — Relazione al Parlamento
 

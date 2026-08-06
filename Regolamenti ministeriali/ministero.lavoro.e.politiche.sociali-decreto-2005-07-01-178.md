@@ -8,8 +8,8 @@ codice_redazionale: 005G0202
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,6 +41,24 @@ Il Fondo gode di autonoma gestione finanziaria e patrimoniale, ai sensi dell'art
 
 ## Art. 2. — Finalita' del Fondo
 
+1.
+                    
+                        
+                            Il Fondo ha lo scopo di attuare interventi nei confronti dei lavoratori delle Poste Italiane S.p.A. che, nell'ambito ed in connessione con processi di ristrutturazione o di situazioni di crisi, ai sensi dell'articolo 2, comma 28, della legge 23 dicembre 1996, n. 662, o di riorganizzazione aziendale o di riduzione o trasformazione di attivita' o di lavoro:
+ 
+                        
+                        
+                            a)
+                            
+                                favoriscano il mutamento e il rinnovamento delle professionalita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                realizzino politiche attive di sostegno del reddito e dell'occupazione.
+
 ## Art. 3. — Amministrazione del Fondo
 
 Il Fondo e' gestito da un «Comitato amministratore» composto da sette esperti designati da Poste Italiane S.p.A. e da sette esperti designati dalle organizzazioni sindacali stipulanti il contratto collettivo nazionale di lavoro, maggiormente rappresentative in base alle previsioni normative vigenti, in possesso di specifica competenza e pluriennale esperienza in materia di lavoro ed occupazione, nonche' da due rappresentanti con qualifica non inferiore a dirigente, rispettivamente del Ministero del lavoro e delle politiche sociali e del Ministero dell'economia e delle finanze. Per la validita' delle sedute e' necessaria la presenza dei due terzi dei componenti del comitato amministratore. Le deliberazioni vengono assunte a maggioranza dei presenti, SLC-CGIL, SLP-CISL, UIL-POST, FAILP-CISAL, SAILP-CONFSAL e UGL comunicazioni, provvederanno a designare un elemento ciascuno. L'ulteriore esperto verra' nominato da TECSTAT-USPPI, UNIONQUADRI e SINDIP-QUADRI, nel rispetto dei criteri di rotazione.
@@ -53,7 +71,88 @@ I componenti del Comitato durano in carica due anni, e la nomina non puo' essere
 
 ## Art. 4. — Compiti del Comitato amministratore del Fondo
 
+1.
+                    
+                        
+                            Il Comitato amministratore deve:
+ 
+                        
+                        
+                            a)
+                            
+                                predisporre, sulla base dei criteri stabiliti dal consiglio di indirizzo e vigilanza dell'I.N.P.S., i bilanci annuali della gestione, preventivo e consuntivo, corredati da una relazione, e deliberare sui bilanci tecnici relativi alla gestione stessa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                deliberare in ordine alla concessione degli interventi e dei trattamenti e compiere ogni altro atto richiesto per la gestione degli istituti previsti dal regolamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                deliberare, sentite le parti firmatarie dell'accordo, la misura del contributo addizionale di cui all'articolo 6, comma 1, lettera b), nonche' la misura espressa in termini percentuali, del contributo straordinario di cui all'articolo 6, comma 3;
+
+                            
+                        
+                        
+                            d)
+                            
+                                deliberare le sospensioni ai sensi dell'articolo 6, comma 4;
+
+                            
+                        
+                        
+                            e)
+                            
+                                vigilare sulla affluenza dei contributi, sulla erogazione delle prestazioni nonche' sull'andamento della gestione del Fondo, adottando i provvedimenti necessari per assicurare al funzionamento del medesimo la massima economicita' e trasparenza;
+
+                            
+                        
+                        
+                            f)
+                            
+                                decidere, in unica istanza, sui ricorsi in materia di contributi e prestazioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                assolvere ogni altro compito che sia ad esso demandato da leggi o regolamenti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                deliberare le revoche degli assegni straordinari nei casi di non cumulabilita' di cui all'articolo 10.
+
 ## Art. 5. — Prestazioni
+
+1.
+                    
+                        
+                            Il Fondo provvede, nell'ambito dei processi di cui all'articolo 2, comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                in via ordinaria:
+ 1) a contribuire al finanziamento di programmi formativi di riconversione o riqualificazione professionale, anche in concorso con appositi fondi nazionali o comunitari;
+ 2) al finanziamento di specifici trattamenti a favore dei lavoratori interessati da riduzioni dell'orario di lavoro o dalla sospensione temporanea dell'attivita' lavorativa anche in concorso con gli appositi strumenti di sostegno previsti dalla legislazione vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in via straordinaria:
+ 1) all'erogazione di assegni straordinari per il sostegno al reddito, in forma rateale, e al versamento della contribuzione correlata di cui all'articolo 2, comma 28, della legge 23 dicembre 1996, n. 662, riconosciuti ai lavoratori ammessi a fruirne nel quadro dei processi di agevolazione all'esodo. Qualora l'erogazione avvenga su richiesta del lavoratore in unica soluzione, l'assegno straordinario sara' pari ad un importo corrispondente al 60 per cento del valore attuale, calcolato secondo il tasso ufficiale di sconto vigente alla data della stipula dell'accordo del 18 luglio 2001, di quanto sarebbe spettato, dedotta la contribuzione correlata, che pertanto non verra' versata, se detta erogazione fosse avvenuta in forma rateale.
 
 Agli interventi sopra definiti vengono ammessi i soggetti di cui all'articolo 2, per i quali la richiesta venga presentata entro sei anni dalla data di entrata in vigore del presente regolamento.
 
@@ -64,6 +163,24 @@ Ai fini dell'applicazione dei criteri di cui al comma 3, si dovra' tenere conto 
 Il Fondo versa, altresi', la contribuzione di cui al comma 1, lettera b), dovuta alla competente gestione assicurativa obbligatoria.
 
 ## Art. 6. — Finanziamento
+
+1.
+                    
+                        
+                            Per la prestazione di cui all'articolo 5, comma 1, lettera a), e' dovuto al Fondo:
+ 
+                        
+                        
+                            a)
+                            
+                                un contributo ordinario dello 0,50 per cento (di cui lo 0,375 per cento a carico del datore di lavoro e lo 0,125 per cento a carico dei lavoratori) calcolato sulla retribuzione imponibile ai fini previdenziali di tutti i lavoratori dipendenti con contratto a tempo indeterminato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un contributo addizionale a carico del datore di lavoro in caso di fruizione delle prestazioni di cui all'articolo 5, comma 1, lettera a), punto 2, nella misura non superiore all'1,50 per cento, calcolato sulla retribuzione imponibile di cui alla lettera a), con l'applicazione di un coefficiente correttivo pari al rapporto tra le retribuzioni parzialmente o totalmente perdute dai dipendenti che fruiscono delle prestazioni, e le retribuzioni che restano in carico al datore di lavoro.
 
 Eventuali variazioni della misura del contributo ordinario (0,50 per cento) sono ripartite tra datore di lavoro e lavoratori in ragione degli stessi criteri di ripartizione di cui al comma 1, lettera a).
 
@@ -84,6 +201,31 @@ Alle operazioni di liquidazione provvede il Comitato amministratore del Fondo, c
 Qualora la gestione di liquidazione non risulti chiusa nel termine di cui al comma 9, la stessa e' assunta dal Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato - Ispettorato generale per la liquidazione degli enti disciolti. Il Comitato amministratore del Fondo cessa dalle sue funzioni il trentesimo giorno successivo alla data di assunzione della gestione da parte del medesimo Ispettorato generale. Entro tale data il Comitato amministratore deve consegnare all'Ispettorato generale per la liquidazione degli enti disciolti, sulla base di appositi inventari, le attivita' esistenti, i libri contabili, i bilanci e gli altri documenti del Fondo, nonche' il rendiconto relativo al periodo successivo all'ultimo bilancio approvato.
 
 ## Art. 7. — Accesso alle prestazioni
+
+1.
+                    
+                        
+                            L'accesso alle prestazioni di cui all'articolo 5 e' subordinato:
+ 
+                        
+                        
+                            a)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera a), punto 1), all'espletamento delle procedure contrattuali previste per i processi che modificano le condizioni di lavoro del personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera a), punto 2), all'espletamento delle procedure contrattuali previste per i processi che modificano le condizioni di lavoro del personale, ovvero determinano la riduzione dei livelli occupazionali, nonche' di quelle legislative laddove espressamente previste;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le prestazioni di cui all'articolo 5, comma 1, lettera b), all'espletamento delle procedure contrattuali preventive e di legge, previste per i processi che determinano la riduzione dei livelli occupazionali.
 
 L'accesso alle prestazioni di cui all'articolo 5 e' subordinato alla condizione che le procedure sindacali di cui al comma 1 si concludano con un accordo aziendale, nell'ambito del quale siano stati individuati, per i casi di cui al comma 1, lettere b) e c) una pluralita' di strumenti secondo quanto indicato dalle normative vigenti in materia di processi che modificano le condizioni di lavoro del personale, ovvero determinano la riduzione dei livelli occupazionali.
 
@@ -114,6 +256,28 @@ Nei casi di riduzione dell'orario di lavoro, l'assegno ordinario e' calcolato ne
 La retribuzione mensile dell'interessato, utile per la determinazione dell'assegno ordinario e della paga oraria di cui al comma 1, e' quella individuata in base alle disposizioni del contratto collettivo in vigore, e cioe' la retribuzione di cui all'articolo 56 del contratto nazionale di lavoro dell'11 gennaio 2001, integrata dall'eventuale indennita' di funzione nella misura in godimento, secondo il criterio contrattuale di 1/312 della retribuzione annua per ogni giornata.
 
 Per i lavoratori a tempo parziale l'importo dell'assegno ordinario viene determinato proporzionando lo stesso alla minore durata della prestazione lavorativa.
+
+8.
+                    
+                        
+                            Nei casi di cui all'articolo 5, comma 1, lettera b), il Fondo eroga un assegno straordinario di sostegno al reddito il cui valore e' pari:
+ 
+                        
+                        
+                            a)
+                            
+                                per i lavoratori che possono conseguire la pensione di anzianita' prima di quella di vecchiaia, alla somma dei seguenti importi:
+ 1) l'importo netto del trattamento pensionistico spettante nell'assicurazione generale obbligatoria con la maggiorazione dell'anzianita' contributiva mancante per il diritto alla pensione di anzianita';
+ 2) l'importo delle ritenute di legge sull'assegno straordinario, cosi' come stabilito dall'articolo 17, comma 4-bis, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, aggiunto dall'articolo 5, comma 1, lettera d), n. 1), del decreto legislativo 2 settembre 1997, n. 314;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i lavoratori che possono conseguire la pensione di vecchiaia prima di quella di anzianita', alla somma dei seguenti importi:
+ 1) l'importo netto del trattamento pensionistico spettante nell'assicurazione generale obbligatoria con la maggiorazione dell'anzianita' contributiva mancante per il diritto alla pensione di vecchiaia;
+ 2) l'importo netto delle ritenute di legge sull'assegno straordinario, cosi' come stabilito dall'articolo 17, comma 4-bis, del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, aggiunto dall'articolo 5, comma 1, lettera d), n. 1), del decreto legislativo 2 settembre 1997, n. 314.
 
 Nei casi di cui al comma 8, il versamento della contribuzione correlata e' effettuato per il periodo compreso tra la cessazione del rapporto di lavoro e la maturazione dei requisiti minimi richiesti per il diritto alla pensione di anzianita' o vecchiaia; l'assegno straordinario, esclusa pertanto la predetta contribuzione correlata, e' corrisposto sino alla fine del mese antecedente a quello previsto per la decorrenza della pensione.
 

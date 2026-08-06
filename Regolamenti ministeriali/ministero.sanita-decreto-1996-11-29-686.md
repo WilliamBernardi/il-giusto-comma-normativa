@@ -8,8 +8,8 @@ codice_redazionale: 097G0014
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,24 @@ Il rilascio dell'attestato di micologo e' subordinato al superamento di un esame
 
 Le regioni e le province autonome di Trento e Bolzano programmano i corsi di formazione per micologo.
 
+2.
+                    
+                        
+                            Gli enti pubblici o privati che intendono organizzare i corsi di formazione per micologo presentano, per l'approvazione, alla regione o alla provincia autonoma territorialmente competente la richiesta della gestione del corso. Essi, in ogni caso, devono disporre almeno di:
+ 
+                        
+                        
+                            a)
+                            
+                                strutture adeguate per lo svolgimento dell'attivita' formativa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                docenti qualificati e in numero sufficiente.
+
 Le materie oggetto dei corsi sono, almeno, quelle riportate nell'allegato A.
 
 Gli enti pubblici o privati presentano alla regione o alla provincia autonoma territorialmente competente, al termine del corso, una relazione sull'attivita' svolta, corredata da un elenco dei candidati che hanno superato il corso, nonche' dalla dichiarazione conforme al modello riportato nell'allegato B debitamente compilato in ogni sua parte.
@@ -56,6 +74,45 @@ Possono accedere al corso organizzato da una regione o da una provincia autonoma
 Il modello dell'attestato e' conforme a quello riportato nell'allegato C.
 
 ## Art. 5. — Commissione esaminatrice
+
+1.
+                    
+                        
+                            La commissione esaminatrice per l'esame finale e' nominata dalla regione o dalla provincia autonoma territorialmente competente ed e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante della regione o della provincia autonoma, con qualifica di dirigente o di funzionario, con funzioni di presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il responsabile del dipartimento di prevenzione della USL o suo delegato, nel cui ambito territoriale si svolge il corso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un esperto micologo designato dalla USL nel cui ambito e' ubicata la struttura organizzativa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un docente del corso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante del Ministero della sanita' o dell'Istituto superiore di sanita'.
 
 Svolge le funzioni di segretario un dipendente dell'Ente organizzatore del corso.
 

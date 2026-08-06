@@ -8,8 +8,8 @@ codice_redazionale: 002G0096
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,11 +37,103 @@ Le societa' e le associazioni sportive dilettantistiche che, avendone i requisit
 
 ## Art. 3. — Titoli di ingresso
 
+1.
+                    
+                        
+                            I titoli di ingresso sono costituiti da almeno due sezioni, ciascuna recante la numerazione progressiva ed il contrassegno del concessionario di cui all'articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, nonche' le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero di serie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la categoria di posto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il corrispettivo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il corrispettivo per l'eventuale prevendita;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la dicitura "gratuito" ovvero "ridotto", per i titoli di ingresso rilasciati gratuitamente o ad importo ridotto.
+
 I titoli di ingresso sono distinti in serie per categorie di posto e di corrispettivo, nonche' in caso di cessione gratuita o a prezzo ridotto. Il corrispettivo, ove non risulti prestampato, e' apposto prima del rilascio del titolo.
 
 Le due sezioni del titolo sono separate al momento dell'ingresso e sono conservate per tutta la durata della manifestazione, una dall'organizzatore e l'altra dallo spettatore.
 
 ## Art. 4. — Abbonamenti
+
+1.
+                    
+                        
+                            Gli abbonamenti recano la numerazione progressiva e il contrassegno del concessionario di cui all'articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, nonche' le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli elementi identificativi dei soggetti, di cui all'articolo 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la validita' temporale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero delle manifestazioni cui danno diritto di assistere, con l'indicazione delle stesse nelle ipotesi di abbonamento a turno fisso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il corrispettivo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la categoria di posto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la dicitura abbonamento "gratuito" ovvero "ridotto", per gli abbonamenti rilasciati gratuitamente o ad importo ridotto;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la data di rilascio.
 
 Nell'ipotesi di abbonamento rilasciato a data libera, che da' diritto di assistere a un numero prefissato di manifestazioni, e' consegnato allo spettatore, prima dell'ingresso a ciascuna manifestazione, un titolo con le caratteristiche di cui all'articolo 3, recante la dicitura "abbonato", senza l'indicazione del corrispettivo.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-02-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -44,6 +44,38 @@ Allo scopo di dare organica attuazione agli interventi individuati ai sensi del 
 
 L'intesa istituzionale di programma di cui al comma 2 e' approvata dal CIPE, su proposta del Presidente del Consiglio dei Ministri, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281. Gli interventi previsti dall'intesa istituzionale di programma possono essere inseriti nel programma di cui all'articolo 1, comma 1, della legge 21 dicembre 2001, n. 443, con le modalita' previste dai commi 1 e 1-bis del medesimo articolo 1.
 
+4.
+                        
+                            
+                                All'articolo 1 della legge 21 dicembre 2001, n. 443, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, secondo periodo, dopo le parole «e le regioni o province autonome interessate», sono inserite le seguenti: «, nonche' l'ente Roma capitale ove interessato,»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, lettera b), dopo le parole «i comuni interessati,», sono inserite le seguenti: «nonche' con Roma capitale se competente,»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2, lettera c), primo periodo, dopo le parole «e delle province autonome interessate», sono inserite le seguenti: «nonche' dal Sindaco di Roma capitale ove interessato,»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 2, lettera c), secondo periodo, dopo le parole «o province autonome interessate», sono inserite le seguenti: «nonche' dal Sindaco di Roma capitale ove interessato,».
+
 Nell'ambito dell'intesa istituzionale di programma, le amministrazioni centrali concorrono al finanziamento degli interventi di interesse nazionale nel territorio di Roma capitale, nei limiti delle risorse disponibili a legislazione vigente e di quelle allo scopo autorizzate ai sensi dell'articolo 10 della legge 15 dicembre 1990, n. 396, anche in coerenza con quanto previsto dal decreto del Ministro dell'economia e delle finanze in data 26 novembre 2010, pubblicato nella Gazzetta Ufficiale n. 75 del 1° aprile 2011, in materia di perequazione infrastrutturale.
 
 Sono abrogati gli articoli da 1 a 9 della legge 15 dicembre 1990, n. 396, e successive modificazioni.
@@ -70,6 +102,38 @@ La Conferenza decide il piano degli interventi di valorizzazione di particolare 
 
 Componenti della Conferenza delle Soprintendenze sono la Direzione generale per la valorizzazione del patrimonio culturale, la Direzione regionale per i beni culturali e paesaggistici del Lazio, la Sovraintendenza capitolina, la Soprintendenza speciale per i beni archeologici di Roma e le altre Soprintendenze statali aventi competenza sui beni storici e artistici nel territorio di Roma capitale. La partecipazione alla Conferenza e' gratuita e non sono corrisposti indennita' o rimborsi spese.
 
+4.
+                        
+                            
+                                La Conferenza delle Soprintendenze, nel rispetto del principio di leale collaborazione, ai sensi dell'articolo 112 del codice dei beni culturali e del paesaggio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definisce strategie e obiettivi comuni di valorizzazione, nonche' elabora piani strategici e programmi di sviluppo culturale, relativamente ai beni culturali di pertinenza pubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercita funzioni di coordinamento strategico degli interventi di valorizzazione dei beni culturali rimessi alle rispettive competenze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuove la stipula di accordi per la valorizzazione di beni di appartenenza pubblica, nonche' forme di collaborazione per regolare servizi strumentali comuni destinati alla fruizione e valorizzazione degli stessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adotta i piani di gestione dei siti iscritti nella lista del patrimonio mondiale dell'UNESCO presenti nel territorio di Roma capitale.
+
 Il funzionamento e gli effetti della Conferenza sono disciplinati in base agli articoli 14 e seguenti della legge 7 agosto 1990, n. 241, e successive modificazioni. Roma capitale e il Ministero per i beni e le attivita' culturali stipulano accordi per definire ulteriori modalita' acceleratorie e di semplificazione dei lavori della Conferenza.
 
 In caso di realizzazione di opere pubbliche ricadenti in aree di interesse archeologico nel territorio di Roma capitale, la Sovraintendenza capitolina partecipa all'accordo previsto dall'articolo 96, comma 7, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni.
@@ -91,6 +155,38 @@ Restano esclusi dalle funzioni conferite a Roma capitale dal presente articolo i
 ## Art. 7. — Funzioni in materia di beni ambientali e fluviali
 
 Fermo restando il potere statale d'indirizzo e coordinamento, sono conferite a Roma capitale le funzioni amministrative riguardanti l'individuazione, sulla base di criteri di cui all'articolo 78, comma 2, del decreto legislativo 31 marzo 1998, n. 112, stabiliti d'intesa con la Conferenza Stato-Regioni, delle riserve statali non collocate nei parchi nazionali, la cui gestione viene affidata a Roma capitale.
+
+2.
+                        
+                            
+                                Roma capitale concorre, con il Ministero per i beni e le attivita' culturali, la Regione Lazio, e gli altri enti preposti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla definizione delle politiche di tutela e valorizzazione del paesaggio di Roma capitale, tenuto conto anche degli studi, delle analisi e delle proposte formulati dall'Osservatorio nazionale per la qualita' del paesaggio, nonche' dagli Osservatori istituiti in ogni regione e presso Roma capitale con le medesime finalita', ai sensi dell'articolo 133 del codice dei beni culturali e del paesaggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla definizione di indirizzi e criteri riguardanti le attivita' di tutela, pianificazione, recupero, riqualificazione e valorizzazione del paesaggio di Roma capitale e di gestione dei relativi interventi, ai sensi dell'articolo 133 del codice dei beni culturali e del paesaggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle attivita' di formazione e di educazione al fine di diffondere ed accrescere la conoscenza del paesaggio di Roma capitale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle attivita' di vigilanza sui beni paesaggistici del territorio di Roma capitale tutelati dal codice dei beni culturali e del paesaggio.
 
 ## - Capo III Sviluppo economico e sociale con particolare riferimento al settore  produttivo e turistico
 

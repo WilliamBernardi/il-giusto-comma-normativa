@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2016-08-01;180
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,6 +51,24 @@ L'articolo 3 del decreto del Ministro dell'interno 18 settembre 2008, n. 163, e'
  10. I titoli valutabili sono indicati negli allegati B e C, che costituiscono parte integrante del presente regolamento. Sono, altresi', valutabili i titoli professionali e di studio corrispondenti a quelli di cui all'allegato C, conseguiti antecedentemente all'entrata in vigore del decreto legislativo 17 ottobre 2005, n. 226. Per la corrispondenza dei diplomi di istruzione tecnica e per quella relativa ai diplomi di istruzione professionale si applicano, rispettivamente, la tabella di confluenza di cui all'allegato D al decreto del Presidente della Repubblica 15 marzo 2010, n. 88 e la tabella di confluenza di cui all'allegato D al decreto del Presidente della Repubblica 15 marzo 2010, n. 87. Per la corrispondenza dei percorsi di istruzione e formazione professionale si tiene conto del decreto Ministro della pubblica istruzione 14 aprile 1997, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 117 del 22 maggio 1997. 
  11. A conclusione delle prove di esame e della valutazione dei titoli, la commissione esaminatrice forma la graduatoria di merito secondo l'ordine della votazione complessiva riportata dai candidati, determinata sommando le votazioni conseguite nella prova motorio-attitudinale, nel colloquio e nella valutazione dei titoli.
 Sulla base di tale graduatoria, l'Amministrazione redige la graduatoria finale del concorso, tenendo conto, a parita' di merito, dei titoli di preferenza di cui al decreto del Presidente della Repubblica 9 maggio 1994, n. 487. Con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, e' approvata la graduatoria finale del concorso e sono dichiarati vincitori i candidati utilmente collocati in graduatoria, ivi compresi quelli derivanti dalle categorie riservatarie. Detto decreto e' pubblicato nel Bollettino ufficiale del personale del Ministero dell'interno con avviso della pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.».
+
+3.
+                    
+                        
+                            All'articolo 4 del decreto del Ministro dell'interno 18 settembre 2008, n. 163, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. Per le prove di lingua straniera e di informatica il giudizio e' espresso dalla commissione con l'integrazione, ove occorra, di un esperto delle lingue straniere previste nel bando di concorso e di un esperto di informatica.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 6, dopo le parole: «con successivo provvedimento» sono aggiunte le seguenti: «con le stesse modalita' di cui al comma 1».
 
 L'allegato A al decreto del Ministro dell'interno 18 settembre 2008, n. 163, e' sostituito dagli allegati A, B e C di cui all'allegato 1 al presente regolamento.
 

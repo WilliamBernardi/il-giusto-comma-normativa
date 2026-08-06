@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2024-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,31 @@ Il trattamento di cui al comma 1 e' concesso anche ai lavoratori dipendenti per 
 Il trattamento di cui al comma 1 e' concesso in via provvisoria su richiesta dell'amministratore giudiziario e previa autorizzazione scritta del giudice delegato a decorrere dal provvedimento emesso ai sensi dell'articolo 41, comma 1-quinquies, del decreto legislativo n. 159 del 2011. Il trattamento cessa di essere corrisposto quando la richiesta non e' reiterata dall'amministratore giudiziario dopo l'approvazione del programma di prosecuzione o di ripresa dell'attivita' di cui all'articolo 41, comma 1-sexies, del medesimo decreto legislativo.
 
 L'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata puo' richiedere, per le imprese poste sotto la propria gestione, il trattamento di cui al comma 1, previo nulla osta del giudice delegato ai sensi dell'articolo 44, comma 2, del decreto legislativo n. 159 del 2011.
+
+5.
+                    
+                        
+                            Il trattamento di cui al comma 1 non puo' essere richiesto per: 
+ 
+                        
+                        
+                            a)
+                            
+                                i lavoratori indagati, imputati o condannati per il reato di associazione mafiosa, per i reati aggravati ai sensi dell'articolo 416-bis.1, primo comma, del codice penale o per reati ad essi connessi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il proposto, il coniuge del proposto o la parte dell'unione civile, i parenti, gli affini e le persone con essi conviventi ove risulti che il rapporto di lavoro sia fittizio o che gli stessi si siano concretamente ingeriti nella gestione dell'azienda; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i lavoratori che abbiano concretamente partecipato alla gestione dell'azienda prima del sequestro e fino all'esecuzione di esso.
 
 Il trattamento di cui al comma 1 cessa di essere corrisposto nel momento in cui le condizioni di esclusione di cui al comma 5 si realizzano ed e' revocato, con effetto retroattivo, quando tali condizioni sono accertate successivamente.
 
@@ -57,6 +82,24 @@ L'indennita' di cui al comma 1 cessa di essere corrisposta nel momento in cui le
 
 ## Art. 3. — Misure di sostegno alle imprese. 
  Modifiche alla legge 28 dicembre 2015, n. 208
+
+1.
+                    
+                        
+                            All'articolo 1 della legge 28 dicembre 2015, n. 208, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 195 dopo le parole: «codice di procedura penale» sono inserite le seguenti: «e di cui agli articoli 240-bis, primo comma, del codice penale, 301, comma 5-bis, del decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, e 85-bis del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309», e dopo le parole: «cooperative previste dall'articolo 48, comma 3, lettera c), e comma 8, lettera a)» sono inserite le seguenti: «nonche' delle imprese affittuarie o cessionarie di cui all'articolo 48, comma 8, lettere a) e b),»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 196, lettera b), dopo le parole: «finanziamenti agevolati», sono inserite le seguenti: «di importo non superiore a due milioni di euro e di durata non superiore a quindici anni comprensivi di cinque anni di preammortamento».
 
 ## Art. 4.
 

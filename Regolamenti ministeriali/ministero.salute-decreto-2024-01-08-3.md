@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2024-01-08;3
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,11 +51,169 @@ All'articolo 1, comma 1, dopo le parole «di seguito denominato "legge di riferi
 
 ## Art. 2. — Modifiche all'articolo 4 del regolamento
 
+1.
+                    
+                        
+                            All'articolo 4, comma 2, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla lettera a), le parole «con proprio decreto» sono sostituite dalle seguenti: «, con proprio decreto,», dopo la parola «lettere» sono soppresse le seguenti: «a)» e dopo le parole «della legge di riferimento» sono inserite le seguenti: «nonche' del decreto-legge n. 169 del 2022
+                                        »;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo la lettera a), e' inserita la seguente: «a-bis) conferisce, con proprio decreto, sentito il Ministro dell'economia e delle finanze, gli incarichi di Direttore amministrativo e di Direttore tecnico-scientifico e ne stabilisce i relativi compensi, secondo quanto previsto dagli articoli 10 e 10-bis del presente regolamento»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    alla lettera b), le parole «Conferenza permanente per i rapporti tra lo Stato e le Regioni e le Province Autonome di seguito denominata Conferenza Stato-Regioni» sono sostituite dalle seguenti: «Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    alla lettera c), le parole «Conferenza Stato-Regioni» sono sostituite dalle seguenti: «Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano,»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    alla lettera d), dopo la parola: «acquisisce» sono inserite le seguenti: «dal Presidente»;
+                                    le parole: «dal Direttore generale» sono sostituite dalle seguenti: «dal Direttore amministrativo, in raccordo con il Direttore tecnico-scientifico,».
+
+2.
+                    
+                        
+                            All'articolo 4, comma 3, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    le parole «e i correlati risultati» sono soppresse;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    alla lettera a), la parola «favorendo» e' sostituita dalla seguente: «favorire».
+
 ## Art. 3. — Modifiche all'articolo 5 del regolamento
 
 All'articolo 5, comma 1, le parole «Direttore generale» sono sostituite dalla seguente: «Presidente».
 
 ## Art. 4. — Modifiche all'articolo 6 del regolamento
+
+1.
+                    
+                        
+                            All'articolo 6 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Il Consiglio di amministrazione, in conformita' alle disposizioni di cui all'articolo 48, comma 4, della legge di riferimento, all'articolo 3 del decreto-legge n. 169 del 2022 e all'articolo 4, comma 9-undecies, del decreto-legge 29 dicembre 2022, n. 198, convertito, con modificazioni, dalla legge 24 febbraio 2023, n. 14, e' costituito dal Presidente e da quattro componenti di cui uno designato dal Ministro della salute, uno dal Ministro dell'economia e delle finanze e due dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, tutti scelti tra persone di comprovata esperienza in materia sanitaria,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole «su proposta del Direttore generale dell'Agenzia» sono sostituite dalle seguenti: «su proposta del Direttore tecnico-scientifico»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 2-bis, la parola «attribuitele» e' sostituita dalla seguente: «attribuite», le parole «su proposta del direttore generale» sono sostituite dalle seguenti: «su proposta del Direttore amministrativo, sentito il Direttore tecnico-scientifico» e la parola «Agenzia» e' sostituita dalle seguenti: «Agenzia,»
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 3, le parole «su istruttoria del Direttore generale» sono sostituite dalle seguenti: «su proposta del Direttore competente ai sensi degli articoli 10 e 10-bis»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 3, lettera a), la parola «delibera» e' sostituita dalla seguente: «approva»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    al comma 3, lettera b), la parola «delibera» e' sostituita dalla seguente: «adotta»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    al comma 3, lettera d), le parole «predisposti dal Direttore generale» sono soppresse e dopo le parole «comma 5» sono inserite le seguenti: «lettera i),»;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    al comma 3, la lettera h) e' soppressa;
+                                
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    al comma 3, lettera i), le parole «la lista» sono sostituite dalle seguenti: «l'elenco» e, alla fine del primo periodo, sono aggiunte le seguenti: «, da aggiornare periodicamente e comunque ogni due anni»;
+                                
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    al comma 4, la lettera c) e' sostituita dalla seguente: «il compenso dei membri della Commissione di cui all'articolo 19 del presente regolamento, nel rispetto delle disposizioni di cui al decreto del Presidente del Consiglio dei Ministri 23 agosto 2022, n. 143.»;
+                                
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    al comma 5, la parola «sara'» e' sostituita dalla seguente: «e'» e, in fine, sono aggiunte le seguenti: «, tenuto conto di quanto stabilito dalle disposizioni di cui al decreto del Presidente del Consiglio dei Ministri 23 agosto 2022, n. 143.».
 
 ## Art. 5. — Sostituzione dell'articolo 7 del regolamento
 
@@ -82,7 +240,79 @@ Dopo l'articolo 7 e' inserito il seguente:
 
 ## Art. 7. — Modifiche all'articolo 8 del regolamento
 
+1.
+                    
+                        
+                            All'articolo 8 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, la parola «mese» e' sostituita dalle seguenti: «mese,» e le parole «o anche su richiesta di» sono sostituite dalle seguenti: «o ne facciano richiesta»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole «la data, il luogo della seduta, l'ora della stessa» sono sostituite dalle seguenti: «la data, l'ora e il luogo della seduta» e le parole «raccomandata o a mezzo telefax o posta elettronica» sono sostituite dalle seguenti: «posta elettronica certificata (PEC)»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, le parole «, comunque, si intende» sono sostituite dalle seguenti: «si intende comunque»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 4, le parole «piu' anziano» sono sostituite dalle seguenti: «designato dal Ministro della salute»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    dopo il comma 4, e' inserito il seguente: «4-bis. Alle sedute del Consiglio di amministrazione partecipano, senza diritto di voto, il Direttore amministrativo ed il Direttore tecnico-scientifico, che, per i profili di rispettiva competenza, informano i consiglieri sulle attivita' compiute e le iniziative adottate. In caso di assenza o di impedimento temporaneo, i Direttori sono sostituiti da dirigenti dai medesimi all'uopo designati.».
+
 ## Art. 8. — Modifiche all'articolo 9 del regolamento
+
+1.
+                    
+                        
+                            All'articolo 9 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 3, le parole «Presidente o» sono soppresse, le parole «il fallito» sono sostituite dalle seguenti: «l'imprenditore in liquidazione giudiziale» e le parole «anche temporanea» sono sostituite dalle seguenti: «, anche temporanea»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 4, le parole «comma 2 del» sono soppresse;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo il comma 4, e' inserito il seguente: «4-bis. In materia di inconferibilita' e incompatibilita' di incarichi, si applicano in ogni caso le disposizioni di cui al decreto legislativo 8 aprile 2013, n. 39.».
 
 ## Art. 9. — Sostituzione dell'articolo 10 del regolamento
 
@@ -116,6 +346,35 @@ Dopo l'articolo 10 e' inserito il seguente:
 
 ## Art. 11. — Modifiche all'articolo 11 del regolamento
 
+1.
+                    
+                        
+                            All'articolo 11 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole «il Direttore generale dell'Agenzia puo' essere revocato» sono sostituite dalle seguenti: «i Direttori di cui agli articoli 10 e 10-bis possono essere revocati», le parole «a lui» sono sostituite dalla seguente: «loro» e le parole «comma 2, lettera g)» sono sostituite dalle seguenti: «comma 2-bis, lettera b),»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole «Non puo' essere nominato Direttore generale e se nominato decade dal suo» sono sostituite dalle seguenti: «Non possono essere nominati Direttori di cui agli articoli 10 e 10-bis e, se nominati, decadono dal loro», le parole «il fallito» sono sostituite dalle seguenti: «l'imprenditore in liquidazione giudiziale» e le parole «anche temporanea» sono sostituite dalle seguenti «, anche temporanea»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, le parole «del Direttore generale» sono sostituite dalle seguenti: «dei Direttori di cui agli articoli 10 e 10-bis; 
+ d) dopo il comma 3, e' aggiunto il seguente: «3-bis. In materia di inconferibilita' e incompatibilita' di incarichi, si applicano in ogni caso le disposizioni di cui al decreto legislativo 8 aprile 2013, n. 39.».
+
 La rubrica dell'articolo 11 e' sostituita dalla seguente: «Revoca, decadenza e incompatibilita' del Direttore amministrativo e del Direttore tecnico-scientifico.».
 
 ## Art. 12. — Sostituzione dell'articolo 15 del regolamento
@@ -124,6 +383,35 @@ L'articolo 15 e' sostituito dal seguente:
  «15 (Casi particolari di scioglimento degli organi). - 1. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro della salute puo', motivatamente, essere disposto lo scioglimento degli organi dell'Agenzia per manifesta incapacita' di perseguire gli scopi assegnati all'Agenzia, anche con riferimento al mantenimento dell'equilibrio economico finanziario nel settore dell'assistenza farmaceutica, cosi' come previsto all'articolo 48, comma 13, della legge di riferimento, o in caso di manifesta impossibilita' di funzionamento o per gravi motivi di interesse pubblico, adeguatamente motivati. In caso di scioglimento motivato da ragioni inerenti all'equilibrio economico finanziario nel settore dell'assistenza farmaceutica, la proposta e' formulata dal Ministro dell'economia e delle finanze di concerto con il Ministro della salute.».
 
 ## Art. 13. — Modifiche all'articolo 16 del regolamento
+
+1.
+                    
+                        
+                            All'articolo 16 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole «Nei casi di cui all'articolo 15, con decreto del Presidente del Consiglio dei Ministri» sono sostituite dalle seguenti: «Con il decreto di cui all'articolo 15» e le parole «del Direttore generale» sono sostituite dalle seguenti: «del Presidente»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, la parola «Organi» e' sostituita dalla seguente: «organi» e, in fine, sono inserite le seguenti: «, avvalendosi dei Direttori di cui agli articoli 10 e 10-bis»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, la parola «dal» e' sostituita dalla seguente:
+«con».
 
 ## Art. 14. — Sostituzione dell'articolo 17 del regolamento
 
@@ -158,6 +446,42 @@ Nell'ambito dell'Agenzia opera la Commissione scientifica ed economica del farma
 
 ## Art. 16. — Modifiche all'articolo 19-bis del regolamento
 
+1.
+                    
+                        
+                            All'articolo 19-bis, comma 1, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    le parole «Commissione consultiva tecnico scientifica e del Comitato prezzi e rimborso», ogni qual volta ricorrono, sono sostituite dalle seguenti: «Commissione scientifica ed economica del farmaco»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    le parole «sono disciplinati» sono sostituite dalle seguenti: «sono disciplinate»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    le parole «, su proposta del direttore generale» sono soppresse;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    le parole «con l'attivita' delle commissioni» sono sostituite dalle seguenti: «con l'attivita' della Commissione».
+
 La rubrica dell'articolo 19-bis e' sostituita dalla seguente: «Revoca, sospensione e decadenza dei componenti non di diritto della Commissione scientifica ed economica del farmaco».
 
 ## Art. 17. — Modifiche all'articolo 22 del regolamento
@@ -165,6 +489,26 @@ La rubrica dell'articolo 19-bis e' sostituita dalla seguente: «Revoca, sospensi
 All'articolo 22, comma 2, le parole «Direttore generale» sono sostituite dalle seguenti: «Presidente e ai Direttori di cui agli articoli 10 e 10-bis».
 
 ## Art. 18. — Modifiche all'articolo 26 del regolamento
+
+1.
+                    
+                        
+                            All'articolo 26, comma 1, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al primo periodo, le parole «Direttore generale» sono sostituite dalle parole: «Direttore Amministrativo e del Direttore tecnico-scientifico»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al secondo e al terzo periodo, le parole «Direttore generale» sono sostituite dalle seguenti: «Direttore amministrativo».
 
 ## Art. 19. — Abrogazione dell'articolo 27 del regolamento
 

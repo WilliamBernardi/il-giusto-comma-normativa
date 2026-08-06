@@ -8,8 +8,8 @@ codice_redazionale: 094G0407
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -45,15 +45,157 @@ Tra le finalita' dell'organismo ufficialmente autorizzato deve essere espressame
 L'organismo che intende organizzare concorsi enologici e rilasciare distinzioni, ne richiede l'autorizzazione al Ministero delle risorse agricole, alimentari e forestali, Direzione generale della produzione agricola, trasmettendo il proprio atto costitutivo nonche' il regolamento del concorso enologico che intende effettuare.
 L'autorizzazione e' rilasciata nel termine di sessanta giorni dal ricevimento della domanda.
 
+4.
+                    
+                        
+                            Ottenuta l'autorizzazione, l'organismo ufficialmente autorizzato deve:
+ 
+                        
+                        
+                            a)
+                            
+                                sei mesi prima dell'inizio delle selezioni, comunicare al Ministero delle risorse agricole, alimentari e forestali: l'avvenuta pubblicazione per estratto del regolamento del concorso su almeno due quotidiani a larga diffusione, a livello nazionale od a livello regionale, in relazione all'ambito di svolgimento del concorso medesimo; la composizione del comitato organizzatore; il luogo e la data della manifestazione e delle operazioni di selezione; il nome del notaio, o di altro pubblico ufficiale incaricato alla anonimizzazione di cui all'art. 5; il nome del responsabile della segreteria e della tenuta della documentazione contabile; il nome del presidente delle commissioni di degustazione responsabile della parte tecnica del concorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quindici giorni prima dell'inizio delle selezioni, comunicare al Ministero delle risorse agricole, alimentari e forestali l'elenco dei componenti le commissioni di degustazione, specificando nome, cognome, luogo e data di nascita, qualifica professionale e mansione ricoperta da ciascun componente.
+
 L'organismo ufficialmente autorizzato e' il diretto responsabile nei confronti del Ministero delle risorse agricole, alimentari e forestali di tutti gli adempimenti e procedure connesse all'organizzazione dei concorsi enologici ed al rilascio delle relative distinzioni di cui al presente regolamento.
 
 ## Art. 3. — Regolamento del concorso enologico
+
+1.
+                    
+                        
+                            Il regolamento del concorso enologico, predisposto dallo stesso organismo che richiede l'autorizzazione all'organizzazione del concorso ed al rilascio delle relative distinzioni, e' trasmesso al Ministero delle risorse agricole, alimentari e forestali ai sensi dell'art. 2, comma 3, e deve stabilire:
+ 
+                        
+                        
+                            a)
+                            
+                                le finalita' del concorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i tipi di vino ammessi, anche suddivisi per categorie, e quantitativo minimo delle relative partite;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la struttura della partita che deve essere costituita da bottiglie aventi una capacita' non superiore a due litri. Soltanto per concorsi a carattere locale e' consentito che i vini siano detenuti anche in recipienti di capacita' superiore, purche' ne sia garantita la consistenza quantitativa e qualitativa dell'intera partita, attraverso idonee metodologie di controllo disposte dall'organismo organizzatore del concorso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i requisiti delle aziende produttrici partecipanti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di prelievo, di trasporto, di deposito e di anonimizzazione dei campioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la composizione delle commissioni di degustazione e loro funzionamento;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il criterio di valutazione e punteggio minimo richiesto per l'attribuzione della distinzione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                il tipo di distinzione da attribuire;
+
+                            
+                        
+                        
+                            i)
+                            
+                                le modalita' di soluzione di eventuali controversie relative all'espletamento del concorso.
 
 Il regolamento del concorso garantisce parita' di condizioni a tutte le aziende produttrici partecipanti e puo' prevedere un contributo di adesione ed una quota di partecipazione, che comunque devono essere contenute entro il limite delle effettive spese di organizzazione.
 
 Il regolamento prevede espressamente il divieto di rendere noto l'elenco delle aziende che hanno partecipato al concorso.
 
 ## Art. 4. — Partecipazione al concorso
+
+1.
+                    
+                        
+                            L'azienda produttrice che intende partecipare ad un concorso enologico organizzato da un organismo ufficialmente autorizzato, deve farne domanda all'organismo medesimo specificando:
+ 
+                        
+                        
+                            a)
+                            
+                                i dati di identificazione dell'azienda;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati relativi alla denuncia di produzione delle uve;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la qualita' e la tipologia della partita di vino;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la categoria di partecipazione al concorso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'impegno a consentire l'accesso in azienda del personale incaricato ad effettuare il prelievo dei campioni.
+
+2.
+                    
+                        
+                            L'azienda di cui al comma 1 e' tenuta, inoltre, a trasmettere all'organismo che organizza il concorso enologico per ciascun vino iscritto:
+ 
+                        
+                        
+                            a)
+                            
+                                apposita scheda contenente i principali dati analitici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tre copie della etichetta con la quale si intende designare la partita di vino.
 
 Il Ministero delle risorse agricole, alimentari e forestali e l'organismo ufficialmente autorizzato effettuano gli opportuni controlli, anche mediante eventuali sopralluoghi presso le aziende produttrici partecipanti al concorso enologico, per constatare la veridicita' e la regolarita' di quanto specificato in domanda e nella predetta documentazione allegata.
 
@@ -62,6 +204,32 @@ Qualora i controlli di cui al comma 3 evidenzino divergenza tra i dati dichiarat
 ## Art. 5. — Prelievo ed anonimizzazione dei campioni
 
 Il prelievo dei campioni dei vini partecipanti ad un concorso enologico, le cui modalita' sono previste nel regolamento del concorso stesso, e' effettuato da un pubblico ufficiale o da esperto formalmente incaricato dall'ente organizzatore. Solo per i vini stranieri partecipanti a concorsi enologici internazionali organizzati in Italia e' consentito l'invio diretto dei campioni da parte delle rispettive aziende.
+
+2.
+                    
+                        
+                            Per ciascun vino partecipante al concorso e' redatto apposito verbale di prelievo, contenente:
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' del prelevatore e l'indicazione dell'organismo che lo ha incaricato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la specificazione del vino prelevato, e, in particolare, del nome, dell'annata e della categoria, nonche' gli elementi caratteristici del campione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione della consistenza quantitativa della partita di vino, proveniente da un unico recipiente originario, dalla quale e' stato prelevato il campione. Nel caso di vino imbottigliato, la consistenza quantitativa della partita di vino e' individuata anche attraverso l'indicazione del numero delle bottiglie utilizzate.
+Nell'eventualita' che il vino sia detenuto in contenitori di capacita' superiore a due litri, la consistenza quantitativa e qualitativa della partita deve essere garantita attraverso l'identificazione dei singoli recipienti.
 
 Il verbale di prelievo dei campioni e' redatto in tre copie, delle quali una e' rilasciata all'azienda produttrice, una e' trasmessa all'organismo ufficialmente autorizzato assieme ai relativi campioni ed una e' trattenuta dal prelevatore.
 
@@ -73,6 +241,31 @@ in particolare nella porzione di bottiglia esterna al contenitore anonimizzante.
 ## Art. 6. — Commissioni di degustazione
 
 Le commissioni di degustazione per i concorsi enologici sono nominate, nel rispetto delle indicazioni contenute nel regolamento dei concorsi medesimi, dall'organismo ufficialmente autorizzato e sono composte, da non meno di cinque componenti. Il Ministero delle risorse agricole, alimentari e forestali, direzione generale della produzione agricola, puo' autorizzare la composizione di commissioni con tre componenti.
+
+2.
+                    
+                        
+                            Le commissioni sono composte in maggioranza da tecnici degustatori aventi i seguenti titoli di studio e requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                diploma di perito agrario specializzato in viticoltura ed enologia od enotecnico collegato all'esercizio di attivita' continuativa di almeno tre anni nel settore vitivinicolo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                titolo di enologo ai sensi della legge 10 aprile 1991, n. 129;
+
+                            
+                        
+                        
+                            c)
+                            
+                                titoli equipollenti conseguiti nella Comunita' economica europea o all'estero.
 
 Qualora sia previsto per una commissione di degustazione il presidente, questi e' nominato tra i tecnici degustatori.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-06-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -71,6 +71,29 @@ Nell'articolo 16, comma 4-bis, lettera b), del decreto del Ministro delle finanz
 
 Trasmissione all'Agenzia delle entrate da parte di soggetti terzi di dati relativi a oneri e spese sostenute dai contribuenti ((e a redditi percepiti dai contribuenti))
 
+1.
+                        
+                            
+                                All'articolo 78 della legge 30 dicembre 1991, n. 413, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 25 e' sostituito dal seguente: 
+ «25. Ai fini della elaborazione della dichiarazione dei redditi da parte dell'Agenzia delle entrate nonche' dei controlli sugli oneri deducibili e sugli oneri detraibili, i soggetti che erogano mutui agrari e fondiari, le imprese assicuratrici, gli enti previdenziali, le forme pensionistiche complementari, trasmettono, entro il 28 febbraio di ciascun anno all'Agenzia dell'entrate, per tutti i soggetti del rapporto, una comunicazione contenente i dati dei seguenti oneri corrisposti nell'anno precedente: 
+ a) quote di interessi passivi e relativi oneri accessori per mutui in corso; 
+ b) premi di assicurazione sulla vita, causa morte e contro gli infortuni; 
+ c) contributi previdenziali ed assistenziali; 
+ d) contributi di cui all'articolo 10, comma 1, lettera e-bis), del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 26 e' aggiunto, in fine, il seguente periodo: «Le modalita' e il contenuto della trasmissione sono definite con provvedimento del Direttore dell'Agenzia delle entrate. In caso di omessa, tardiva o errata trasmissione dei dati di cui al comma 25 si applica la sanzione di cento euro per ogni comunicazione in deroga a quanto previsto dall'articolo 12, del decreto legislativo 18 dicembre 1997, n. 472. Nei casi di errata comunicazione dei dati, la sanzione non si applica se la trasmissione dei dati corretti e' effettuata entro i cinque giorni successivi alla scadenza di cui al comma 25, ovvero, in caso di segnalazione da parte dell'Agenzia delle entrate, entro i cinque giorni successivi alla segnalazione stessa.».
+
 Ai fini della elaborazione della dichiarazione dei redditi, l'Agenzia delle entrate puo' utilizzare i dati di cui all'articolo 50, comma 7, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326.
 
 Ai fini della elaborazione della dichiarazione dei redditi, le aziende sanitarie locali, le aziende ospedaliere, gli istituti di ricovero e cura a carattere scientifico, i policlinici universitari, le farmacie, pubbliche e private, i presidi di specialistica ambulatoriale, le strutture per l'erogazione delle prestazioni di assistenza protesica e di assistenza integrativa, gli altri presidi e strutture accreditati per l'erogazione dei servizi sanitari e gli iscritti all'Albo dei medici chirurghi e degli odontoiatri, inviano al Sistema tessera sanitaria, secondo le modalita' previste dal decreto del Presidente del Consiglio dei ministri 26 marzo 2008, attuativo dell'articolo 50, comma 5-bis, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, e successive modificazioni, i dati relativi alle prestazioni erogate dal 2015 ad esclusione di quelle gia' previste nel comma 2, ai fini della loro messa a disposizione dell'Agenzia delle entrate. Le specifiche tecniche e le modalita' operative relative alla trasmissione telematica dei dati, sono rese disponibili sul sito internet del Sistema tessera sanitaria. I dati relativi alle prestazioni sanitarie erogate a partire dal 1º gennaio 2016 sono inviati al Sistema tessera sanitaria, con le medesime modalita' di cui al presente comma, anche da parte delle strutture autorizzate per l'erogazione dei servizi sanitari e non accreditate.
@@ -97,6 +120,62 @@ AGGIORNAMWNTO (3)
 ## Art. 4. — Accettazione e modifica della dichiarazione precompilata
 
 La dichiarazione precompilata relativa al periodo d'imposta precedente puo' essere accettata ovvero modificata dal contribuente.
+
+2.
+                        
+                            
+                                Al decreto del Ministro delle finanze 31 maggio 1999, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 13, comma 1: 
+ 1) alla lettera a), le parole: «entro il mese di aprile» sono sostituite dalle seguenti: «entro il 7 luglio»; 
+ 2) alla lettera b), le parole: «entro il mese di maggio» sono sostituite dalle seguenti: «entro il 7 luglio»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 16, comma 1: 
+ 1) alla lettera a) e alla lettera c), le parole: «entro il 30 giugno» sono sostituite dalle seguenti: «entro il 7 luglio»; 
+ 2) alla lettera b), le parole: «entro il 15 giugno di ciascun anno» sono sostituite dalle seguenti: «prima della trasmissione della dichiarazione e comunque entro il 7 luglio»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 17, comma 1: 
+ 1) alla lettera b), le parole: «entro il 31 maggio di ciascun anno» sono sostituite dalle seguenti: «prima della trasmissione della dichiarazione e comunque entro il 7 luglio»; 
+ 2) alla lettera c) le parole: «entro il 30 giugno» sono sostituite dalle seguenti: «entro il 7 luglio».
+
+3.
+                        
+                            
+                                La dichiarazione precompilata e' presentata entro il termine di cui all'articolo 13, comma 1, lettere a) e b), del decreto del Ministro delle finanze 31 maggio 1999, n. 164: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'Agenzia delle entrate direttamente in via telematica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al sostituto d'imposta che presta assistenza fiscale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a un CAF o a un professionista indicati nell'articolo 1, presentando anche la relativa documentazione. L'attivita' di verifica di conformita' e' effettuata, ai sensi della lettera c) del comma 3 dell'articolo 34 del decreto legislativo 9 luglio 1997, n. 241, sui dati della dichiarazione compresi quelli forniti con la dichiarazione precompilata e comporta assunzione di responsabilita' ai fini di quanto previsto dall'articolo 6, comma 1.
 
 Il contribuente puo' avvalersi della facolta' di inviare all'Agenzia delle entrate direttamente in via telematica la dichiarazione precompilata entro il 30 settembre di ciascun anno senza che questo determini la tardivita' della presentazione. (6) ((9))
 
@@ -140,6 +219,61 @@ Nel caso di presentazione della dichiarazione direttamente ovvero tramite il sos
 
 Visto di conformita'
 
+1.
+                        
+                            
+                                Nell'articolo 39 del decreto legislativo 9 luglio 1997, n. 241, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 1, lettera a), dopo il primo periodo sono aggiunti i seguenti: «Salvo il caso di presentazione di dichiarazione rettificativa, se il visto infedele e' relativo alla dichiarazione dei redditi presentata con le modalita' di cui all'articolo 13, del decreto ministeriale 31 maggio 1999, n. 164, i soggetti indicati nell'articolo 35 sono tenuti nei confronti dello Stato o del diverso ente impositore al pagamento di una somma pari all'importo dell'imposta, della sanzione e degli interessi che sarebbero stati richiesti al contribuente ai sensi dell'articolo 36-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sempre che il visto infedele non sia stato indotto dalla condotta dolosa o gravemente colposa del contribuente. Costituiscono titolo per la riscossione mediante ruolo di cui al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, le comunicazioni con le quali sono richieste le somme di cui al periodo precedente. Eventuali controversie sono devolute alla giurisdizione tributaria. Se entro il 10 novembre dell'anno in cui la violazione e' stata commessa il CAF o il professionista trasmette una dichiarazione rettificativa del contribuente ovvero, se il contribuente non intende presentare la nuova dichiarazione, trasmette una comunicazione dei dati relativi alla rettifica il cui contenuto e' definito con provvedimento del Direttore dell'Agenzia delle entrate, la somma dovuta e' pari all'importo della sola sanzione. La sanzione e' ridotta nella misura prevista dall'articolo 13, comma 1, lettera b), del decreto legislativo 18 dicembre 1997, n. 472, se il versamento e' effettuato entro la stessa data del 10 novembre.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 1, dopo la lettera a), sono inserite le seguenti: 
+ «a-bis) se il visto infedele e' relativo alla dichiarazione dei redditi presentata con le modalita' di cui all'articolo 13, del decreto ministeriale 31 maggio 1999, n. 164, non si applica la sanzione amministrativa di cui al primo periodo della lettera a); 
+ a-ter) nell'ipotesi di dichiarazione rettificativa di cui al comma 1, lettera a), il contribuente e' tenuto al versamento della maggiore imposta dovuta e dei relativi interessi.».
+
+2.
+                        
+                            
+                                Nel decreto del Ministro delle finanze 31 maggio 1999, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 6, comma 1, le parole: «due miliardi di lire» sono sostituite dalle seguenti: «tre milioni di euro» e dopo le parole: «provocati dall'assistenza fiscale prestata» sono aggiunte le seguenti: «e al bilancio dello Stato o del diverso ente impositore le somme di cui all'articolo 39, comma 1, lettera a), del decreto legislativo 9 luglio 1997, n. 241»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 22, comma 1, le parole: «due miliardi di lire» sono sostituite dalle seguenti: «tre milioni di euro» e dopo le parole: «provocati dall'attivita' prestata» sono aggiunte le seguenti: «e al bilancio dello Stato o del diverso ente impositore le somme di cui all'articolo 39, comma 1, lettera a) del decreto legislativo 9 luglio 1997, n. 241»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 26, il comma 3-bis e' sostituito dal seguente:
+«3-bis. Ai fini della verifica del visto di conformita', entro il 31 dicembre del secondo anno successivo a quello di trasmissione della dichiarazione, l'Agenzia delle entrate trasmette in via telematica le richieste di documenti e di chiarimenti relative alle dichiarazioni di cui all'articolo 13 al centro di assistenza fiscale e al responsabile dell'assistenza fiscale o al professionista che ha rilasciato il visto di conformita', per la trasmissione in via telematica all'Agenzia delle entrate entro sessanta giorni della documentazione e dei chiarimenti richiesti.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 3-bis, sono aggiunti i seguenti: 
+ «3-ter. L'esito del controllo di cui al comma 3-bis, e' comunicato in via telematica al centro di assistenza fiscale e al responsabile dell'assistenza fiscale o al professionista con l'indicazione dei motivi che hanno dato luogo alla rettifica dei dati contenuti nella dichiarazione per consentire anche la segnalazione di eventuali dati ed elementi non considerati o valutati erroneamente in sede di controllo del visto di conformita' entro i sessanta giorni successivi al ricevimento della comunicazione. 
+ 3-quater. Le somme che risultano dovute a seguito dei controlli di cui al comma 3-bis, possono essere pagate entro sessanta giorni dal ricevimento della comunicazione prevista dal comma 3-ter, con le modalita' indicate nell'articolo 19, del decreto legislativo 9 luglio 1997, n. 241. In tal caso, l'ammontare delle somme dovute e' pari all'imposta, agli interessi dovuti fino all'ultimo giorno del mese antecedente a quello dell'elaborazione della comunicazione e alla sanzione di cui all'articolo 13, del decreto legislativo 18 dicembre 1997, n. 471, ridotta a due terzi. Per la riscossione coattiva delle somme si applicano le disposizioni previste dal decreto del Presidente della Repubblica 29 settembre 1973, n. 602, con riferimento alle somme dovute ai sensi dell'articolo 36-ter, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.».
+
 Le disposizioni di cui all'articolo 26 del decreto del Ministro delle finanze 31 maggio 1999, n. 164, come modificate dal comma 2, si applicano a decorrere dall'assistenza fiscale prestata nel 2015. Per l'attivita' di assistenza fiscale prestata fino al 31 dicembre 2014, continuano ad applicarsi le disposizioni del menzionato articolo 26 nel testo vigente anteriormente alle modifiche apportate dallo stesso comma 2.
 
 ## Art. 7. — Modifica compensi
@@ -152,6 +286,24 @@ Con decreto del Ministro dell'economia e delle finanze, da adottare entro il 30 
 
 ## Art. 8. — Semplificazioni in materia di addizionali comunali 
  e regionali all'Irpef
+
+1.
+                        
+                            
+                                All'articolo 50 del decreto legislativo 15 dicembre 1997, n. 446, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 3 e' aggiunto, in fine, il seguente periodo: «Ai fini della semplificazione delle dichiarazioni e delle funzioni dei sostituti d'imposta e dei centri di assistenza fiscale nonche' degli altri intermediari, le regioni e le province autonome di Trento e di Bolzano sono tenute ad inviare, ai fini della pubblicazione sul sito informatico di cui all'articolo 1, comma 3, del decreto legislativo 28 settembre 1998, n. 360, entro il 31 gennaio dell'anno a cui l'addizionale si riferisce, i dati contenuti nei provvedimenti di variazione dell'addizionale regionale, individuati con decreto del Ministero dell'economia e delle finanze, di natura non regolamentare, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Il mancato inserimento nel suddetto sito informatico dei dati rilevanti ai fini della determinazione dell'addizionale comporta l'inapplicabilita' di sanzioni e di interessi.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 5 le parole: «31 dicembre dell'anno cui si riferisce l'addizionale stessa ovvero relativamente ai redditi di lavoro dipendente e a quelli assimilati a questi alla regione in cui il sostituito ha il domicilio fiscale all'atto della effettuazione delle operazioni di conguaglio relative a detti redditi» sono sostituite dalle seguenti: «1° gennaio dell'anno cui si riferisce l'addizionale stessa».
 
 All'articolo 1, comma 4, ultimo periodo, del decreto legislativo 28 settembre 1998, n. 360, le parole: «salvo che la pubblicazione della delibera sia effettuata entro il 20 dicembre precedente l'anno di riferimento» sono soppresse.
 
@@ -171,6 +323,34 @@ All'articolo 54, comma 5, del testo unico delle imposte sui redditi di cui al de
 
 ## Art. 11. — Dichiarazione di successione: 
  esoneri e documenti da allegare
+
+1.
+                        
+                            
+                                Al testo unico delle disposizioni concernenti l'imposta sulle successioni e donazioni di cui al decreto legislativo 31 ottobre 1990, n. 346, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 28: 
+ 1) al comma 6, dopo le parole: «diverso da quelli indicati all'articolo 13, comma 4,» sono inserite le seguenti: «e dall'erogazione di rimborsi fiscali»; 
+ 2) al comma 7, le parole: «a lire cinquanta milioni» sono sostituite dalle seguenti: «a euro centomila»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 30, dopo il comma 3, e' aggiunto il seguente: 
+ «3-bis. I documenti di cui alle lettere c), d), g), h) e i) possono essere sostituiti anche da copie non autentiche con la dichiarazione sostitutiva di atto di notorieta' di cui all'articolo 47, del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante che le stesse costituiscono copie degli originali. Resta salva la facolta' dell'Agenzia delle entrate di richiedere i documenti in originale o in copia autentica.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 33, comma 1, sono aggiunte, in fine, le seguenti parole: «, nonche' dei rimborsi fiscali di cui allo stesso articolo 28, comma 6, erogati successivamente alla presentazione della dichiarazione di successione».
 
 ## Art. 12.
 
@@ -214,6 +394,33 @@ All'articolo 78, comma 33, della legge 30 dicembre 1991, n. 413, concernente l'e
 La disposizione di cui al comma 1 si applica ai rimborsi erogati a partire dal 1° gennaio 2015.
 
 ## Art. 15. — Compensazione dei rimborsi da assistenza
+
+1.
+                        
+                            
+                                Al fine di favorire la trasparenza e semplificare le operazioni poste in essere dai sostituti d'imposta, a decorrere dal 1° gennaio 2015: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le somme rimborsate ai percipienti sulla base dei prospetti di liquidazione delle dichiarazioni dei redditi e dei risultati contabili trasmessi dai CAF e dai professionisti abilitati sono compensate dai sostituti d'imposta esclusivamente con le modalita' di cui all'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, nel mese successivo a quello in cui e' stato effettuato il rimborso, nei limiti previsti dall'articolo 37, comma 4, dello stesso decreto legislativo n. 241 del 1997. Dette somme non concorrono alla determinazione del limite di cui all'articolo 34, comma 1, della legge 23 dicembre 2000, n. 388; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in deroga a quanto previsto dall'articolo 17, comma 1, del decreto legislativo n. 241 del 1997 le eccedenze di versamento di ritenute e di imposte sostitutive sono scomputate dai successivi versamenti esclusivamente con le modalita' di cui all'articolo 17 del citato decreto legislativo n. 241 del 1997. Dette somme non concorrono alla determinazione del limite di cui all'articolo 34, comma 1, della legge n. 388 del 2000 fermo restando quanto previsto dall'articolo 1, commi da 2 a 6, del decreto del Presidente della Repubblica 10 novembre 1997, n. 445; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 1, del decreto del Presidente della Repubblica 10 novembre 1997, n. 445, sono apportate le seguenti modificazioni: 
+ 1) il comma 1 e' abrogato; 
+ 2) nel comma 4, le parole: «che non trova capienza nelle ritenute da versare nel periodo d'imposta successivo o», sono soppresse.
 
 ## - Capo III Semplificazioni per le societa'
 
@@ -260,6 +467,24 @@ Il comma 2 dell'articolo 4 del decreto del Presidente della Repubblica 29 settem
 ## Art. 20. — Comunicazione all'Agenzia delle entrate 
  dei dati contenuti nelle lettere d'intento
 
+1.
+                        
+                            
+                                All'articolo 1, comma 1, lettera c), del decreto-legge 29 dicembre 1983, n. 746, convertito, con modificazioni, dalla legge 27 febbraio 1984, n. 17, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: «consegnata o spedita al fornitore o prestatore, ovvero presentata in dogana» sono sostituite dalle seguenti: «trasmessa telematicamente all'Agenzia delle entrate, che rilascia apposita ricevuta telematica. La dichiarazione, unitamente alla ricevuta di presentazione rilasciata dall'Agenzia delle entrate, sara' consegnata al fornitore o prestatore, ovvero in dogana. Entro 120 giorni dall'entrata in vigore della presente disposizione, l'Agenzia delle entrate mette a disposizione dell'Agenzia delle dogane e dei monopoli la banca dati delle dichiarazioni d'intento per dispensare dalla consegna in dogana della copia cartacea delle predette dichiarazioni e delle ricevute di presentazione.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ultimo periodo e' sostituito dal seguente: «Nella prima ipotesi, il cedente o prestatore riepiloga nella dichiarazione IVA annuale i dati contenuti nelle dichiarazioni d'intento ricevute.».
+
 All'articolo 7 del decreto legislativo 18 dicembre 1997, n. 471, il comma 4-bis e' sostituito dal seguente: «4-bis. E' punito con la sanzione prevista nel comma 3 il cedente o prestatore che effettua cessioni o prestazioni, di cui all'articolo 8, comma 1, lettera c), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, prima di aver ricevuto da parte del cessionario o committente la dichiarazione di intento e riscontrato telematicamente l'avvenuta presentazione all'Agenzia delle entrate, prevista dall'articolo 1, comma 1, lettera c), del decreto-legge 29 dicembre 1983, n. 746, convertito, con modificazioni, dalla legge 27 febbraio 1984, n. 17.».
 
 Le disposizioni di cui ai commi 1 e 2 si applicano alle dichiarazioni d'intento relative ad operazioni senza applicazione dell'imposta da effettuare a decorrere dal 1° gennaio 2015. Con provvedimento del Direttore dell'Agenzia delle entrate da emanare entro novanta giorni dalla data di entrata in vigore della presente disposizione sono definite le modalita' applicative, anche di natura tecnica, delle disposizioni di cui ai commi 1 e 2 e sono definiti i requisiti cui e' subordinato il rilascio della ricevuta da parte dell'Agenzia delle entrate. Con successivi provvedimenti possono essere definiti ulteriori requisiti.
@@ -267,10 +492,61 @@ Le disposizioni di cui ai commi 1 e 2 si applicano alle dichiarazioni d'intento 
 ## Art. 21. — Comunicazione delle operazioni intercorse 
  con paesi black list
 
+1.
+                        
+                            
+                                All'articolo 1, comma 1, del decreto-legge 25 marzo 2010, n. 40, convertito, con modificazioni, dalla legge 22 maggio 2010, n. 73, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: «comunicano telematicamente all'Agenzia delle entrate» sono sostituite dalle seguenti: «comunicano annualmente per via telematica all'Agenzia delle entrate»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole: «di importo superiore a euro 500» sono sostituite dalle seguenti: «il cui importo complessivo annuale e' superiore ad euro 10.000».
+
 Le modifiche di cui al comma 1 si applicano alle operazioni indicate all'articolo 1, comma 1, del decreto-legge 25 marzo 2010, n. 40, convertito, con modificazioni, dalla legge 22 maggio 2010, n. 73, poste in essere nell'anno solare in corso alla data di entrata in vigore del presente provvedimento.
 
 ## Art. 22. — Richiesta di autorizzazione 
  per effettuare operazioni intracomunitarie
+
+1.
+                        
+                            
+                                All'articolo 35 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 7-bis e' sostituito dal seguente: 
+ «7-bis. L'opzione di cui al comma 2, lettera e-bis), determina l'immediata inclusione nella banca dati dei soggetti passivi che effettuano operazioni intracomunitarie, di cui all'articolo 17 del regolamento (CE) n. 904/2010, del Consiglio, del 7 ottobre 2010; fatto salvo quanto disposto dal comma 15-bis, si presume che un soggetto passivo non intende piu' effettuare operazioni intracomunitarie qualora non abbia presentato alcun elenco riepilogativo per quattro trimestri consecutivi, successivi alla data di inclusione nella suddetta banca dati. A tal fine l'Agenzia delle entrate procede all'esclusione della partita IVA dalla banca dati di cui al periodo precedente, previo invio di apposita comunicazione al soggetto passivo.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 7-ter e' abrogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 15-bis, sono aggiunti i seguenti periodi: «Gli Uffici, avvalendosi dei poteri di cui al presente decreto, verificano che i dati forniti da soggetti per la loro identificazione ai fini dell'IVA, siano completi ed esatti. In caso di esito negativo, l'Ufficio emana provvedimento di cessazione della partiva IVA e provvede all'esclusione della stessa dalla banca dati dei soggetti passivi che effettuano operazioni intracomunitarie. Con Provvedimento del Direttore dell'Agenzia delle entrate sono stabiliti le modalita' operative per l'inclusione delle partite IVA nella banca dati dei soggetti passivi che effettuano operazioni intracomunitarie, nonche' i criteri e le modalita' di cessazione della partita IVA e dell'esclusione della stessa dalla banca dati medesima.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 15-quater e' abrogato.
 
 ## Art. 23. — Semplificazione elenchi intrastat servizi
 
@@ -278,6 +554,25 @@ Con provvedimento del Direttore dell'Agenzia delle dogane e dei monopoli, di con
 
 ## Art. 24. — Termini di presentazione della denuncia 
  dei premi incassati dagli operatori esteri
+
+1.
+                        
+                            
+                                All'articolo 4-bis della legge 29 ottobre 1961, n. 1216, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 5 e' sostituito dal seguente: 
+ «5. Il rappresentante fiscale deve presentare entro il 31 maggio di ciascun anno, con le modalita' stabilite con provvedimento del Direttore dell'Agenzia delle entrate, la denuncia dei premi ed accessori incassati nell'anno solare precedente, distinguendo i premi stessi per categoria e per aliquota applicabile. Si applicano al rappresentante fiscale le disposizioni dell'articolo 9.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 6-bis sono aggiunti, in fine, i seguenti periodi: «Le imprese assicuratrici che operano nel territorio dello Stato in regime di libera prestazione di servizi, ove non si avvalgano di un rappresentante fiscale, presentano entro il 31 maggio di ciascun anno, con le modalita' stabilite con provvedimento del direttore dell'Agenzia delle entrate, la denuncia dei premi ed accessori incassati nell'anno solare precedente, distinguendo i premi stessi per categoria e per aliquota applicabile. Si applicano al rappresentante fiscale eventualmente nominato le disposizioni dell'articolo 9.».
 
 ## Art. 25. — Sanzioni per omissione o inesattezza 
  dati statistici degli elenchi intrastat
@@ -309,6 +604,24 @@ Al fine di potenziare le attivita' di controllo sul corretto adempimento degli o
 
 Ai soli fini della validita' e dell'efficacia degli atti di liquidazione, accertamento, contenzioso e riscossione dei tributi e contributi, sanzioni e interessi, l'estinzione della societa' di cui all'articolo 2495 del codice civile ha effetto trascorsi cinque anni dalla richiesta di cancellazione del Registro delle imprese.
 
+5.
+                        
+                            
+                                All'articolo 36 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma primo e' sostituito dal seguente: «I liquidatori dei soggetti all'imposta sul reddito delle persone giuridiche che non adempiono all'obbligo di pagare, con le attivita' della liquidazione, le imposte dovute per il periodo della liquidazione medesima e per quelli anteriori rispondono in proprio del pagamento delle imposte se non provano di aver soddisfatto i crediti tributari anteriormente all'assegnazione di beni ai soci o associati, ovvero di avere soddisfatto crediti di ordine superiore a quelli tributari. Tale responsabilita' e' commisurata all'importo dei crediti d'imposta che avrebbero trovato capienza in sede di graduazione dei crediti.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma terzo e' aggiunto il seguente periodo: «Il valore del denaro e dei beni sociali ricevuti in assegnazione si presume proporzionalmente equivalente alla quota di capitale detenuta dal socio od associato, salva la prova contraria.».
+
 Dall'entrata in vigore delle disposizioni di cui ai commi 4 e 5 non discendono obblighi di dichiarazione nuovi o diversi rispetto a quelli vigenti.
 
 All'articolo 19, comma 1, del decreto legislativo 26 febbraio 1999, n. 46, le parole: «, 36» sono soppresse.
@@ -321,6 +634,31 @@ All'articolo 74, sesto comma, terzo periodo, del decreto del Presidente della Re
 
 ## Art. 30. — Spese di rappresentanza - adeguamento valore 
  di riferimento omaggi a disciplina imposte sui redditi
+
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 2, secondo comma, n. 4), le parole: «a lire cinquantamila» sono sostituite dalle seguenti: «ad euro cinquanta»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 3, terzo comma, primo periodo, le parole: «a lire cinquantamila» sono sostituite dalle seguenti: «ad euro cinquanta»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 19-bis1, primo comma, lettera h), le parole: «a lire cinquantamila» sono sostituite dalle seguenti: «ad euro cinquanta».
 
 ## Art. 31. — Rettifica IVA crediti non riscossi
 
@@ -339,11 +677,61 @@ Al n. 21 della Tabella A, Parte II, allegata al decreto del Presidente della Rep
 
 Disposizioni per la cooperazione nell'attivita' di rilevazione delle violazioni in materia di attestazione della prestazione energetica
 
+1.
+                        
+                            
+                                All'articolo 6, comma 3, del decreto legislativo 19 agosto 2005, n. 192, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al terzo periodo dopo le parole: «dall'obbligo di presentare» sono inserite le seguenti: «al Ministero dello sviluppo economico»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il quarto periodo e' sostituito dal seguente: «L'Agenzia delle entrate, sulla base di apposite intese con il Ministero dello sviluppo economico, individua, nel quadro delle informazioni disponibili acquisite con la registrazione nel sistema informativo dei contratti di cui al presente comma, quelle rilevanti ai fini del procedimento sanzionatorio di cui alla legge 24 novembre 1981, n. 689, e le trasmette, in via telematica, allo stesso Ministero dello sviluppo economico per l'accertamento e la contestazione della violazione.».
+
 Sulla base delle apposite intese di cui al comma 1 sono stabiliti altresi' i tempi e le modalita' di trasmissione al Ministero dello sviluppo economico delle informazioni indicate al medesimo comma relativamente ai contratti registrati a decorrere dall'entrata in vigore del decreto-legge 23 dicembre 2013, n. 145, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 9.
 
 ## Art. 35.
 
 Requisiti per l'autorizzazione allo svolgimento dell'attivita' di assistenza fiscale e requisiti delle societa' richiedenti e dei Centri autorizzati
+
+1.
+                        
+                            
+                                Nel decreto del Ministro delle finanze 31 maggio 1999, n. 164, concernente regolamento recante norme per l'assistenza fiscale resa dai Centri di assistenza fiscale per le imprese e per i dipendenti, dai sostituti d'imposta e dai professionisti ai sensi dell'articolo 40 del decreto legislativo 9 luglio 1997, n. 241, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 7: 
+ 1) la rubrica e' sostituita dalla seguente: «Procedimento per l'autorizzazione allo svolgimento dell'attivita' di assistenza fiscale e requisiti delle societa' richiedenti e dei Centri autorizzati»; 
+ 2) nel comma 1, la lettera d) e' sostituita dalla seguente: «d) le sedi e gli uffici periferici presso le quali e' svolta l'attivita' di assistenza fiscale, compresi quelli di cui all'articolo 11 che, per i centri costituiti ai sensi dell'articolo 32, comma 1, lettere d), e) ed f), del decreto legislativo 9 luglio 1997, n. 241, devono essere presenti in almeno un terzo delle province. Per i centri di assistenza fiscale riconducibili alla medesima associazione od organizzazione o a strutture da esse delegate ai sensi dell'articolo 32 del decreto legislativo 9 luglio 1997, n. 241, il requisito indicato nella presente lettera e' considerato complessivamente;»; 
+ 3) nel comma 2, la lettera d) e' sostituita dalla seguente: «d) relazione tecnica dalla quale emerga il rispetto dei requisiti sulle garanzie di idoneita' tecnico-organizzativa del centro anche in relazione a quanto previsto dal comma 1, lettera d), la formula organizzativa assunta anche in ordine ai rapporti di lavoro dipendente utilizzati nel rispetto del decreto legislativo 6 settembre 2001, n. 368, e successive modificazioni, i sistemi di controllo interno volti a garantire la correttezza dell'attivita', anche in ordine all'affidamento a terzi dell'attivita' di assistenza fiscale e a garantire adeguati livelli di servizio nonche' il piano di formazione del personale differenziato in base alle funzioni svolte dalle diverse figure professionali che operano nei centri. Con decreto del Ministro dell'economia e delle finanze sono stabilite le modalita' dell'attivita' formativa tenendo conto delle diverse figure professionali, l'unita' di misura per la valutazione della formazione e le modalita' di attestazione e di verifica dello svolgimento della formazione;»; 
+ 4) dopo il comma 2 sono inseriti i seguenti: 
+ «2-bis. I centri costituiti ai sensi dell'articolo 32, comma 1, lettere d), e) ed f), del citato decreto legislativo n. 241 del 1997, dopo il primo anno di attivita', presentano entro il 31 gennaio, con riferimento all'anno precedente, una relazione sulla capacita' operativa e sulle risorse umane utilizzate anche in ordine alla tipologia di rapporti di lavoro instaurati e alla formazione svolta, sull'affidamento a terzi dell'attivita' di assistenza fiscale e sui controlli effettuati volti a garantire la qualita' del prodotto, la qualita' e l'adeguatezza dei livelli di servizio, sul numero di dichiarazioni validamente trasmesse all'Agenzia delle entrate. 
+ 2-ter. L'Agenzia delle entrate verifica che il numero delle dichiarazioni validamente trasmesse da ciascun centro sia almeno pari all'uno per cento del rapporto risultante tra la media delle dichiarazioni trasmesse dal centro nel triennio precedente e la media delle dichiarazioni complessivamente trasmesse dai soggetti che svolgono attivita' di assistenza fiscale nel medesimo triennio. Per i centri di assistenza fiscale riconducibili alla medesima associazione od organizzazione o a strutture da esse delegate ai sensi dell'articolo 32 del decreto legislativo 9 luglio 1997, n. 241, il requisito indicato nel presente comma e' considerato complessivamente.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 10, comma 3, e' aggiunto, in fine, il seguente periodo: «Se dalle verifiche effettuate emerge la mancanza di almeno uno dei requisiti di cui all'articolo 7, comma 2, lettera d), e comma 2-ter, la decadenza dall'autorizzazione allo svolgimento dell'assistenza fiscale interviene successivamente al completamento dell'attivita' di assistenza in corso allo scadere del termine di cui al comma 3.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 11, dopo il comma 1 e' inserito il seguente:
+«1-bis. Per l'attivita' di assistenza fiscale, oltre alle societa' di servizi di cui al comma 1, i centri possono avvalersi esclusivamente di lavoratori autonomi individuati tra gli intermediari di cui all'articolo 3, comma 3, lettere a) e b), del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, che agiscono in nome e per conto del centro stesso.».
 
 I centri di assistenza fiscale gia' autorizzati alla data di entrata in vigore del presente decreto presentano la relazione di cui al comma 1, lettera a), numero 3), entro il 30 settembre 2015. 
  3.((COMMA ABROGATO DAL D.L. 28 GENNAIO 2019, N. 4, CONVERTITO CON MODIFICAZIONI DALLA L. 28 MARZO 2019, N. 26)). 

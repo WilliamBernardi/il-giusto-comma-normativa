@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2017-11-07;18
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,7 +44,99 @@ Il presente regolamento stabilisce i requisiti, le procedure e le competenze per
 
 I produttori che intendono richiedere la certificazione ambientale osservano le disposizioni del presente regolamento.
 
+3.
+                    
+                        
+                            Possono essere oggetto di certificazione ambientale ai sensi del presente regolamento le seguenti categorie di generatori di calore, conformi alle norme UNI EN associate a ciascuna categoria ed alle successive modifiche di tali norme: 
+ 
+                        
+                        
+                            a)
+                            
+                                camini chiusi, inserti a legna: UNI EN 13229 - inserti e caminetti aperti alimentati a combustibile solido - requisiti e metodi di prova; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                caminetti aperti: UNI EN 13229 - inserti e caminetti aperti alimentati a combustibile solido - requisiti e metodi di prova; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                stufe a legna: UNI EN 13240 - stufe a combustibile solido - requisiti e metodi di prova; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                stufe ad accumulo: UNI EN 15250 - apparecchi a lento rilascio di calore alimentati a combustibili solidi - requisiti e metodi di prova; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                cucine a legna: UNI EN 12815 - termocucine a combustibile solido - requisiti e metodi di prova; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                caldaie fino a 500 kW: UNI EN 303-5 - caldaie per riscaldamento - parte 5: caldaie per combustibili solidi, con alimentazione manuale o automatica, con una potenza termica nominale fino a 500 kW - terminologia, requisiti, prove e marcatura; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                stufe, inserti e cucine a pellet - termostufe: UNI EN 14785 - apparecchi per il riscaldamento domestico alimentati con pellet di legno - requisiti e metodi di prova.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si applicano le definizioni di cui all'articolo 283 del decreto legislativo 3 aprile 2006, n. 152, nonche' le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                generatore di calore: qualsiasi dispositivo di combustione alimentato con i combustibili individuati alle lettere f), g) e h) della parte I, sezione 2 dell'allegato X alla parte quinta del decreto legislativo 3 aprile 2006 n. 152 al fine di produrre calore, costituito da un focolare ed eventualmente uno scambiatore di calore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                organismo notificato: organismo di valutazione della conformita' operante nell'ambito del regolamento UE 305/2011 che fissa condizioni armonizzate per la commercializzazione dei prodotti da costruzione e che abroga la direttiva 89/106/CEE; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificazione ambientale: il documento attestante l'idoneita' del generatore di calore ad assicurare specifiche prestazioni emissive espressa attraverso l'appartenenza ad una specifica classe di qualita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                produttore: la persona fisica o giuridica che fabbrica un generatore di calore oppure lo fa progettare o fabbricare e lo commercializza apponendovi il suo nome o marchio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                classe di qualita': livello di prestazione emissiva del generatore di calore.
 
 ## Art. 3. — Procedura di certificazione
 
@@ -61,6 +153,45 @@ Il Ministero dell'ambiente e della tutela del territorio e del mare, previo acco
 ## Art. 4.
 
 Indicazioni circa le modalita' di installazione e di manutenzione dei generatori di calore
+
+1.
+                    
+                        
+                            Ferme restando le vigenti norme in materia di installazione e di manutenzione dei generatori di calore, il produttore che ha ottenuto la certificazione ambientale indica, nel libretto di installazione, uso e manutenzione del generatore di calore, i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la classe di appartenenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le eventuali ulteriori informazioni necessarie affinche' siano rispettate le prestazioni emissive di cui alla certificazione ambientale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le corrette modalita' di gestione del generatore; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il regime di funzionamento ottimale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i sistemi di regolazione presenti e le configurazioni impiantistiche piu' idonee, ivi compresi i valori ottimali del tiraggio per il sistema di evacuazione dei prodotti della combustione cui deve essere collegato il generatore.
 
 In caso di generatori di calore che, al momento del rilascio della certificazione, sono a disposizione del produttore, costui provvede ad integrare il relativo libretto di installazione, uso e manutenzione con i dati di cui al comma 1 prima della loro immissione sul mercato.
 

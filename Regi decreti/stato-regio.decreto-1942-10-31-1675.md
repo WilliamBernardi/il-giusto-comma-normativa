@@ -8,8 +8,8 @@ codice_redazionale: 042U1675
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:29:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO

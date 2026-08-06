@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2015-07-17
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -1607,11 +1607,55 @@ Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo del
 
 All'articolo 91, del decreto legislativo 7 settembre 2005, n. 209, comma 2, le parole: «e le sedi secondarie di cui all'articolo 88, comma 2,» sono soppresse.
 
+102.
+                    
+                        
+                            All'articolo 93, del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «e le sedi secondarie di cui all'articolo 88, comma 2,» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «insieme alla relazione dell'attuario nominato dalla medesima societa'» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 5 e' abrogato.
+
 All'articolo 95, del decreto legislativo 7 settembre 2005, n. 209, comma 1, le parole: «e le sedi secondarie delle imprese estere di cui all'articolo 88, comma 2,» sono soppresse.
 
 All'articolo 100, del decreto legislativo 7 settembre 2005, n. 209, comma 1-ter, le parole: «delle imprese incluse» sono sostituite dalle seguenti: «delle societa' incluse».
 
 All'articolo 101, del decreto legislativo 7 settembre 2005, n. 209, comma 1, le parole: «e le sedi secondarie di imprese di assicurazione di Stati terzi» sono soppresse.
+
+106.
+                    
+                        
+                            All'articolo 102, del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1, e' sostituito dal seguente: «1. Il bilancio delle imprese di assicurazione e di riassicurazione con sede legale nel territorio della Repubblica e' corredato dalla relazione di un revisore legale o di una societa' di revisione legale iscritti nell'apposito registro. 
+ b) il comma 2, e' sostituito dal seguente «La relazione del revisore legale o della societa' di revisione legale esprime anche un giudizio sulla sufficienza delle riserve tecniche dell'impresa, avuto riguardo alle disposizioni del presente codice e tenuto conto di corrette tecniche attuariali. A tal fine, l'IVASS individua con regolamento i criteri per la determinazione della sufficienza delle riserve tecniche e le corrette tecniche attuariali alla luce delle quali deve essere espresso il giudizio del revisore o della societa' di revisione legale, nonche' le modalita' e i termini di espressione del giudizio medesimo.».
 
 L'articolo 103, del decreto legislativo 7 settembre 2005, n. 209, e' abrogato.
 
@@ -1653,6 +1697,125 @@ Dopo l'articolo 187 del decreto legislativo 7 settembre 2005, n. 209, e' inserit
  (Modalita' di esercizio dei poteri di vigilanza) 
  
  1. I poteri di vigilanza sono esercitati in modo tempestivo e proporzionato.».
+
+115.
+                    
+                        
+                            All'articolo 188 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, capoverso, le parole: «per l'esercizio» sono sostituite dalle seguenti: «nell'esercizio»; le parole: «di assicurazione e di riassicurazione» sono soppresse e dopo le parole: «del presente codice» sono inserite le seguenti: «nonche' delle disposizioni dell'Unione europea direttamente applicabili»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera a), le parole: «, l'attuario revisore, l'attuario incaricato per i rami vita e l'attuario incaricato per l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli e dei natanti» sono sostituite dalle seguenti: «e i soggetti responsabili delle funzioni fondamentali all'interno delle imprese di assicurazione e riassicurazione;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole: «per l'esercizio» sono sostituite dalle seguenti: «nell'esercizio»; dopo le parole: «nel presente codice» sono inserite le seguenti: «, nonche' delle disposizioni dell'Unione europea direttamente applicabili»; le parole: «ed al ruolo dei periti assicurativi» sono soppresse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3 sono aggiunti i seguenti: 
+ «3-bis. L'IVASS puo', nell'esercizio delle funzioni indicate al comma 1, ove la situazione lo richieda, anche a seguito del processo di controllo prudenziale di cui all'articolo 47-quinquies, adottare misure preventive o correttive nei confronti delle singole imprese di assicurazione o riassicurazione, ivi inclusi i provvedimenti specifici riguardanti anche: 
+ a) la restrizione dell'attivita', ivi incluso il potere di vietare l'ulteriore commercializzazione dei prodotti assicurativi; 
+ b) il divieto di effettuare determinate operazioni anche di natura societaria; 
+ c) la distribuzione di utili o di altri elementi del patrimonio; 
+ d) il rafforzamento dei sistemi di governo societario, ivi incluso il contenimento dei rischi; 
+ e) l'ordine di rimuovere i soggetti che svolgono funzioni di amministrazione, di direzione, di controllo e i titolari di funzioni fondamentali, in caso di inerzia della societa'. 
+ 3-ter. L'esercizio dei poteri di vigilanza di cui al comma 3-bis, lettera a), e' attribuito alla CONSOB, per i profili di propria competenza.».
+
+116.
+                    
+                        
+                            All'articolo 189 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «alle imprese di assicurazione e di riassicurazione, ai soggetti che svolgono funzioni parzialmente comprese nel ciclo operativo delle imprese di assicurazione e di riassicurazione per indagini esclusivamente rivolte ai profili assicurativi o riassicurativi, agli intermediari assicurativi e riassicurativi, ai periti assicurativi,» sono sostituite dalle seguenti: «ai destinatari della vigilanza di cui all'articolo 6»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «dei periti assicurativi» sono soppresse; e' aggiunto, in fine, il seguente periodo: «Per le ispezioni nei confronti delle imprese che hanno ad oggetto i modelli interni di cui al Titolo III, Capo IV-bis, Sezione III, l'IVASS puo', fino al 31 dicembre 2016, avvalersi di esperti esterni, inclusi revisori dei conti ed attuari, con onere a carico dell'impresa.
+L'IVASS disciplina con regolamento i criteri di scelta e le ipotesi di conflitto di interesse.».
+
+117.
+                    
+                        
+                            All'articolo 190 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. L'IVASS, nel rispetto degli articoli 3 e 5, puo' chiedere ai soggetti vigilati la comunicazione, anche periodica, di dati e notizie e la trasmissione di atti e documenti, nonche' qualsiasi informazione in merito ai contratti che sono detenuti da intermediari o in merito ai contratti conclusi con terzi con i termini e le modalita' da esso stabilite con regolamento.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, sono inseriti i seguenti: 
+ «1-bis. Le informazioni di cui al comma 1 comprendono: 
+ a) elementi qualitativi o quantitativi o un'appropriata combinazione di entrambi; 
+ b) dati storici, attuali o futuri, o un'appropriata combinazione di tali dati; e 
+ c) dati provenienti da fonti interne o esterne o un'appropriata combinazione di entrambi. 
+ 1-ter. Le informazioni, i dati, i documenti trasmessi all'IVASS: 
+ a) riflettono la natura, la portata e la complessita' dell'attivita' dell'impresa interessata, in particolare i rischi inerenti all'attivita' in oggetto; 
+ b) sono accessibili, completi da tutti i punti di vista sostanziali, confrontabili e coerenti nel tempo; e 
+ c) sono pertinenti, affidabili e comprensibili.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. I poteri previsti dal comma 1 possono essere esercitati anche nei confronti del soggetto incaricato della revisione legale dei conti delle imprese di assicurazione e di riassicurazione. L'IVASS stabilisce, con regolamento, le modalita' e i termini per la trasmissione, da parte del medesimo soggetto, delle informazioni previste dai commi 3 e 4.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2, e' inserito il comma 2-bis: « I poteri previsti dal comma 1 possono essere esercitati anche nei confronti di esperti esterni, quali attuari. L'IVASS stabilisce, con regolamento, le modalita' e i termini per la trasmissione, da parte dei medesimi soggetti, delle informazioni previste dai commi 3 e 4»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 4, dopo le parole: «un giudizio sul bilancio», sono inserite le seguenti: «, o che possano determinare l'inosservanza del Requisito Patrimoniale di Solvibilita' o l'inosservanza del Requisito Patrimoniale Minimo»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 4, e' inserito il comma 4-bis: «La comunicazione in buona fede alle autorita' di vigilanza da parte dei soggetti di cui ai commi 2 e 2-bis di fatti o decisioni di cui al comma 4 non costituisce violazione di eventuali restrizioni alla comunicazione di informazioni imposte in sede contrattuale o in forma di disposizioni legislative, regolamentari o amministrative e non comporta per tali persone responsabilita' di alcun tipo.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 5, dopo le parole: «primo periodo,» le parole «e 4» sono sostituite da «4 e 4-bis».
 
 Dopo l'articolo 190 del decreto legislativo 7 settembre 2005, n. 209, e' inserito il seguente: 
  
@@ -1705,12 +1868,127 @@ L'articolo 191 del decreto legislativo 7 settembre 2005, n. 209, e' sostituito d
  5. L'IVASS puo' richiedere, in ogni fase del procedimento, il parere del Consiglio di Stato e si esprime pubblicamente sulle osservazioni ricevute, a seguito della procedura di consultazione, e sul parere eventualmente richiesto al Consiglio di Stato. 
  6. I regolamenti adottati dall'IVASS sono fra loro coordinati e formano un'unica raccolta delle istruzioni di vigilanza.».
 
+120.
+                    
+                        
+                            All'articolo 192 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. L'IVASS esercita le funzioni di vigilanza prudenziale, avendo riguardo alla costante verifica della gestione tecnica, finanziaria e patrimoniale dell'impresa, con particolare riferimento all'adeguatezza dei requisiti patrimoniali e delle riserve tecniche in rapporto all'insieme dell'attivita' svolta, alla disponibilita' di attivi e di fondi propri ammissibili ai fini dell'integrale copertura delle riserve tecniche e dei requisiti patrimoniali di solvibilita', alla valutazione dei rischi emergenti, nonche' al governo societario e all'informativa all'IVASS ed ai terzi. Nei confronti delle imprese autorizzate all'esercizio del ramo assistenza la vigilanza dell'IVASS si estende anche alle verifiche sul personale e sui mezzi tecnici di cui le imprese dispongono per fornire la prestazione.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 le parole da: «dispongano» fino ad: «assunti» sono sostituite dalle seguenti: «rispettino le condizioni di esercizio stabilite dal presente codice e dalla normativa attuativa».
+
+121.
+                    
+                        
+                            All'articolo 193 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, e' inserito il seguente: «1-bis. Qualora l'IVASS abbia motivo di ritenere che le attivita' dell'impresa di assicurazione di cui al comma 1 possa eventualmente compromettere la solidita' finanziaria della stessa, ne informa l'autorita' di vigilanza dello Stato membro di origine di tale impresa.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, e' aggiunto, in fine, il seguente periodo: «L'IVASS puo' rinviare la questione all'AEAP conformemente all'articolo 19 del regolamento (UE) n. 1094/2010»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 7 e' aggiunto, in fine, il seguente: «7-bis, L'impresa di assicurazione e' tenuta a presentare tutti i documenti ad essa richiesti ai fini dell'applicazione dei commi da 1 a 7.».
+
+122.
+                    
+                        
+                            All'articolo 195 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «svolta in regime di» sono inserite le seguenti: «stabilimento o di»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. Nei confronti delle imprese di cui al comma 1, l'IVASS esercita le funzioni di vigilanza prudenziale, avendo riguardo alla costante verifica della gestione tecnica, finanziaria e patrimoniale dell'impresa, con particolare riferimento all'adeguatezza dei requisiti patrimoniali e delle riserve tecniche in rapporto all'insieme dell'attivita' svolta, alla disponibilita' di attivi e di fondi propri ammissibili ai fini dell'integrale copertura delle riserve tecniche e dei requisiti patrimoniali di solvibilita' e della valutazione dei rischi emergenti, nonche' del governo societario e della informativa all'IVASS ed ai terzi.».
+
+123.
+                    
+                        
+                            All'articolo 195-bis del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente: «1-bis. Qualora l'IVASS abbia motivo di ritenere che le attivita' dell'impresa di riassicurazione di cui al comma 1 possa eventualmente compromettere la solidita' finanziaria della stessa, ne informa l'autorita' di vigilanza dello Stato membro di origine di tale impresa.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 e' aggiunto, in fine, il seguente periodo: «L'IVASS puo' rinviare la questione all'AEAP conformemente all'articolo 19 del regolamento (UE) n. 1094/2010.».
+
 All'articolo 197 del decreto legislativo 7 settembre 2005, n. 209, il comma 3 e' sostituito dal seguente: 
  «3. L'impresa comunica all'IVASS ogni variazione apportata al programma di attivita', nonche' ogni variazione intervenuta nelle persone che ricoprono funzioni di amministrazione, di direzione e di controllo, nei responsabili delle funzioni fondamentali nonche' nei soggetti che detengono una partecipazione indicata dall'articolo 68 nell'impresa di assicurazione. Le eventuali modifiche del programma di attivita' sono sottoposte all'approvazione dell'IVASS secondo la procedura stabilita con regolamento.».
+
+125.
+                    
+                        
+                            All'articolo 198 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai commi 2 e 3, le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, la lettera d) e' sostituita dalla seguente: «d) la sede secondaria disponga, tenuto conto del trasferimento, del Requisito Patrimoniale di Solvibilita' richiesto.».
 
 All'articolo 199 del decreto legislativo 7 settembre 2005, n. 209, ai commi 2, 3, lettera b), 4, lettera b), e 5, lettera b), le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.».
 
 All'articolo 200 del decreto legislativo 7 settembre 2005, n. 209, al comma 4 le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.».
+
+128.
+                    
+                        
+                            All'articolo 201 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, lettera b), le parole: «del margine di solvibilita' richiesto, tenuto conto della fusione» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis, tenuto conto della fusione.».
 
 All'articolo 202 del decreto legislativo 7 settembre 2005, n. 209, al comma 1 le parole: «del margine di solvibilita' richiesto» sono sostituite dalle seguenti: «dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 66-quater.».
 
@@ -1732,6 +2010,53 @@ Dopo l'articolo 203 del decreto legislativo 7 settembre 2005, n. 209, e' inserit
 (Cooperazione per l'esercizio della vigilanza sulle societa' veicolo) 
  
  1. L'IVASS coopera e scambia informazioni con le Autorita' di vigilanza degli altri Stati membri al fine di verificare i contratti conclusi dalle imprese di assicurazione o di riassicurazione aventi sede nel territorio della Repubblica con societa' veicolo aventi sede in un altro Stato membro o per verificare i contratti conclusi con societa' veicolo aventi sede nel territorio della Repubblica da imprese di assicurazione o di riassicurazione di altri Stati membri.».
+
+134.
+                    
+                        
+                            All'articolo 204 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. L'IVASS, nei casi in cui e' previsto il rilascio dell'autorizzazione di cui all'articolo 68, opera in piena consultazione con le Autorita' competenti degli altri Stati membri allorche' l'acquisizione o la sottoscrizione di azioni sia effettuata da un acquirente che sia: 
+ a) una banca, un'impresa di assicurazione, un'impresa di riassicurazione, un'impresa di investimento o una societa' di gestione ai sensi dell'articolo 2, paragrafo 1, lettera b), della direttiva 2009/65/CE autorizzati in un altro Stato membro; 
+ b) un'impresa madre, come definita secondo le rilevanti disposizioni dell'ordinamento dell'Unione europea sulla vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario, delle imprese di cui alla lettera a); 
+ c) una persona, fisica o giuridica, che controlla una delle imprese di cui alla lettera a).»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2-bis e' rinumerato come «1-ter».
+
+135.
+                    
+                        
+                            All'articolo 205 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente: «1-bis. Qualora l'IVASS abbia informato l'autorita' di vigilanza dello Stato membro ospitante della propria intenzione di procedere ad ispezioni nei locali della sede secondaria di cui al primo comma e all'IVASS non sia di fatto consentito il diritto di effettuarle, puo' rinviare la questione all'AEAP ai sensi dell'articolo 19 del regolamento UE n. 1094/2010.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, la parola: «assicurazioni» e' sostituita dalla seguente: «assicurazione»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente: «2-bis. Qualora l'IVASS sia di fatto impossibilitato ad esercitare il diritto di partecipazione di cui al comma 2, puo' rinviare la questione all'AEAP ai sensi dell'articolo 19 del regolamento UE n. 1094/2010.».
 
 Dopo l'articolo 205 del decreto legislativo 7 settembre 2005, n. 209, e' inserito il seguente: 
  

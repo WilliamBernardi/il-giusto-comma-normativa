@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -57,6 +57,37 @@ In particolare:
 (articoli 10, 11, 12, legge 13 maggio 1961, n. 469; articolo 4, comma 4 e articolo 15, comma 2, decreto legislativo 30 luglio 1999, n. 300)
 
 L'organizzazione a livello centrale del Corpo nazionale si articola in direzioni centrali e in uffici del Dipartimento, secondo quanto previsto dal decreto legislativo 30 luglio 1999, n. 300, e successive modificazioni, dall'articolo 12 del decreto legislativo 19 maggio 2000, n. 139, e dall'articolo 6 del decreto del Presidente della Repubblica 7 settembre 2001, n. 398.
+
+2.
+                        
+                            
+                                Le strutture periferiche del Corpo nazionale ((sono di seguito indicate)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    direzioni regionali ((o interregionali)) dei vigili del fuoco del soccorso pubblico e della difesa civile, di livello dirigenziale generale, istituite per lo svolgimento in ambito regionale delle funzioni di cui all'articolo 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comandi dei vigili del fuoco, di seguito denominati: "comandi", di livello dirigenziale non generale, istituiti per l'espletamento delle funzioni di cui all'articolo 1 in ambito territoriale sub-regionale;
+                                
+                            
+                            
+                                c)
+                                
+                                    distretti, distaccamenti permanenti e volontari e posti di vigilanza, istituiti alle dipendenze dei comandi ((di cui alla lettera b) )); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    reparti e nuclei speciali, per particolari attivita' operative che richiedano l'impiego di personale specificamente preparato, nonche' l'ausilio di mezzi speciali o di animali.
 
 Con regolamento emanato ai sensi dell'articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400, sono determinate l'organizzazione e la disciplina degli uffici di livello dirigenziale generale di cui al comma 2, lettera a). Con decreto del Ministro dell'interno di natura non regolamentare sono istituiti gli uffici di livello dirigenziale non generale con l'indicazione dei relativi compiti e gli uffici di cui al comma 2, lettera c) e lettera d).
 
@@ -144,6 +175,31 @@ Le amministrazioni statali, gli enti pubblici e privati e gli altri datori di la
 
 Il personale volontario puo' essere richiamato in servizio temporaneo in occasione di calamita' naturali o catastrofi e destinato in qualsiasi localita'.
 
+2.
+                        
+                            
+                                Il personale di cui al comma 1 puo' inoltre essere richiamato in servizio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di necessita' delle strutture centrali e periferiche del Corpo nazionale motivate dall'autorita' competente che opera il richiamo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le esigenze dei distaccamenti volontari del Corpo nazionale, connesse al servizio di soccorso pubblico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per frequentare periodici corsi di formazione, secondo i programmi stabiliti dal Ministero dell'interno.
+
 I richiami in servizio di cui al comma 2, lettera a), sono disposti nel limite di centosessanta giorni all'anno per le emergenze di protezione civile e per le esigenze dei comandi ((...)) nei quali il personale volontario sia numericamente insufficiente. Con regolamento da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono disciplinate le modalita' di avvicendamento del personale volontario richiamato in servizio.
 
 Al personale volontario puo' essere affidata, con provvedimento del Direttore regionale dei vigili del fuoco, del soccorso pubblico e della difesa civile, la custodia dei distaccamenti. L'incaricato della custodia ha l'obbligo di ricevere le comunicazioni e le richieste di intervento e di dare l'allarme; e' tenuto inoltre alla manutenzione ordinaria dei locali ed alla conservazione del materiale antincendio.
@@ -161,6 +217,31 @@ I massimali delle assicurazioni di cui al comma 2 sono stabiliti con provvedimen
 ## Art. 11. — Disciplina 
  
  (articolo 35, legge 5 dicembre 1988, n. 521)
+
+1.
+                        
+                            
+                                Il personale volontario del Corpo nazionale e' tenuto ai medesimi obblighi di servizio del personale ((di ruolo)) ed e' assoggettato alle seguenti sanzioni disciplinari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    censura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospensione dai richiami da 1 a 5 anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    radiazione.
 
 ((
 
@@ -208,6 +289,87 @@ Ferma restando la competenza di altre amministrazioni, enti ed organismi, la pre
 (articoli 22 e 30, legge 27 dicembre 1941, n. 1570; articolo 2, legge 26 luglio 1965, n. 966; articolo 14, decreto legislativo 30 luglio 1999, n. 300; articoli 1, 6 e 8, decreto del Presidente della Repubblica 29 luglio 1982, n. 577)
 
 La prevenzione incendi e' affidata alla competenza esclusiva del Ministero dell'interno, che esercita le relative attivita' attraverso il Dipartimento e il Corpo nazionale.
+
+2.
+                        
+                            
+                                Le attivita' di prevenzione incendi di cui al comma 1 sono in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elaborazione di norme di prevenzione incendi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rilascio di certificati di prevenzione incendi, di pareri, di verbali, di atti di autorizzazione, di benestare tecnico, di collaudo e di certificazione, comunque denominati, attestanti la conformita' alla normativa di prevenzione incendi di attivita' e costruzioni civili, industriali, artigianali e commerciali e di impianti, prodotti, materiali, apparecchiature e simili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rilascio a professionisti, enti, laboratori e organismi di atti di abilitazione, iscrizione e autorizzazione comunque denominati, attestanti la sussistenza dei requisiti necessari o l'idoneita' a svolgere attivita' di certificazione, ispezione e prova nell'ambito di procedimenti inerenti alla prevenzione incendi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo studio, la ricerca, la sperimentazione e le prove su prodotti, materiali, strutture, impianti ed apparecchiature, finalizzati a garantire il rispetto della sicurezza in caso di incendio, anche in qualita' di organismo di certificazione, ispezione e di laboratorio di prova; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    lo studio, la ricerca e l'analisi per la valutazione delle cause di incendio ((e di esplosione)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la partecipazione, per gli aspetti connessi con la prevenzione incendi, all'attivita' di produzione normativa nell'ambito dell'Unione europea e delle organizzazioni internazionali e alla relativa attivita' di recepimento in ambito nazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la partecipazione alle attivita' di organismi collegiali, istituiti presso le pubbliche amministrazioni, l'Unione europea o le organizzazioni nazionali ed internazionali, deputati, in base a disposizioni di legge o regolamentari, a trattare questioni connesse con la prevenzione incendi, fermo restando quanto previsto in materia di organizzazione amministrativa di organi dello Stato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le attivita' di formazione, di addestramento, di aggiornamento e le relative attestazioni di idoneita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'informazione, la consulenza e l'assistenza; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i servizi di vigilanza antincendio nei locali di pubblico spettacolo ed intrattenimento e nelle strutture caratterizzate da notevole presenza di pubblico; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la vigilanza ispettiva sull'applicazione della normativa di prevenzione incendi.
 
 Il Corpo nazionale, oltre alle attivita' di cui al comma 2, programma, coordina e sviluppa le attivita' di prevenzione incendi nei suoi aspetti interdisciplinari attraverso la promozione e lo svolgimento di studi, ricerche, sperimentazioni e attivita' di normazione, anche in cooperazione con altre amministrazioni, istituti, enti e aziende, anche di rilievo internazionale. Tali attivita' concorrono a fornire elementi tecnico-scientifici da porsi a base dei fondamenti attuativi della prevenzione incendi, relativamente alla sicurezza di opere, prodotti, materiali, macchinari, impianti, attrezzature e dei luoghi di lavoro, in armonia con le disposizioni comunitarie.
 
@@ -298,11 +460,54 @@ Ferme restando le sanzioni penali previste dalle disposizioni vigenti, il prefet
  
 (articoli 10 e 11 decreto del Presidente della Repubblica 29 luglio 1982, n. 577)
 
+1.
+                        
+                            
+                                Nell'ambito del Dipartimento e' istituito il Comitato centrale tecnico-scientifico per la prevenzione incendi, quale organo tecnico consultivo e propositivo sulle questioni riguardanti la prevenzione degli incendi. Il Comitato svolge in particolare i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concorre all'elaborazione e esprime il parere preliminare sulle norme tecniche e procedurali di prevenzione incendi e su ogni altra questione inerente alla prevenzione incendi ad esso rimessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    propone ((alle competenti direzioni centrali)) del Dipartimento l'effettuazione di studi, ricerche, progetti e sperimentazioni e l'elaborazione di atti di normazione tecnica nella specifica materia, anche in cooperazione con altre amministrazioni, istituti, enti e aziende, anche di rilievo internazionale.
+
 Con decreto del ((Ministro dell'interno)) da emanare a norma ((dell'articolo 17, comma 3)), della legge 23 agosto 1988, n. 400, ((...)) sono dettate le disposizioni relative alla composizione e al funzionamento del Comitato.
 
 ## Art. 22. — Comitato tecnico regionale per la prevenzione incendi 
  
 (articolo 19, decreto legislativo 17 agosto 1999, n. 334; articolo 19, lettera c), e articolo 20 decreto del Presidente della Repubblica 29 luglio 1982, n. 577)
+
+1.
+                        
+                            
+                                Nell'ambito di ciascuna Direzione regionale ((o interregionale)) dei vigili del fuoco, del soccorso pubblico e della difesa civile e' istituito un Comitato tecnico regionale per la prevenzione incendi, quale organo tecnico consultivo territoriale sulle questioni riguardanti la prevenzione degli incendi. Il Comitato svolge in particolare i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su richiesta dei Comandi ((...)), esprime la valutazione sui progetti e designa gli esperti per l'effettuazione delle visite tecniche, nell'ambito ((delle procedure)) di prevenzione incendi riguardanti insediamenti industriali ed attivita' di tipo complesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esprime il parere sulle istanze di deroga all'osservanza della normativa di prevenzione incendi inoltrate in relazione agli insediamenti o impianti le cui attivita' presentino caratteristiche tali da non consentire il rispetto della normativa stessa; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    esprime il parere di cui all'articolo 29, comma 2.
 
 COMMA ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105.
 
@@ -338,6 +543,31 @@ Il decreto di cui al comma 2 prevede che l'onere finanziario per i soggetti bene
 
 Il Corpo nazionale, al fine di salvaguardare l'incolumita' delle persone e l'integrita' dei beni, assicura, in relazione alla diversa intensita' degli eventi, la direzione e il coordinamento degli interventi tecnici caratterizzati dal requisito dell'immediatezza della prestazione, per i quali siano richieste professionalita' tecniche anche ad alto contenuto specialistico ed idonee risorse strumentali. Al medesimo fine effettua studi ed esami sperimentali e tecnici nello specifico settore, anche promuovendo e partecipando ad attivita' congiunte e coordinate con enti e organizzazioni anche internazionali.
 
+2.
+                        
+                            
+                                Sono compresi tra gli interventi di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'opera tecnica di soccorso in occasione di incendi, di incontrollati rilasci di energia, di improvviso o minacciante crollo strutturale, di incidenti ferroviari, stradali e aerei e, ferma restando l'attribuzione delle funzioni di coordinamento in materia di protezione civile, di frane, di piene, di terremoti, di alluvioni o di ogni altra pubblica calamita' in caso di eventi di protezione civile, ove il Corpo nazionale opera quale componente fondamentale del Servizio nazionale della protezione civile ai sensi dell'articolo 11 della legge 24 febbraio 1992, n. 225; ((6))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    fatto salvo quanto previsto al comma 10, l'opera tecnica di ricerca, soccorso e salvataggio, anche con l'utilizzo di mezzi aerei; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'opera tecnica di contrasto dei rischi derivanti dall'impiego dell'energia nucleare e dall'uso di sostanze batteriologiche, chimiche e radiologiche, anche con l'impiego della rete nazionale di rilevamento della radioattivita' del territorio.
+
 Il Corpo nazionale assicura, altresi', il concorso alle operazioni di ricerca, soccorso e salvataggio in mare.
 
 Gli interventi tecnici di soccorso pubblico del Corpo nazionale, di cui ai commi 1 e 2, si limitano ai compiti di carattere strettamente urgente e cessano al venir meno della effettiva necessita'.
@@ -347,6 +577,45 @@ Su richiesta degli organi competenti, il personale e i mezzi del Corpo nazionale
 Resta fermo quanto disposto dall'articolo 11, comma 1, del decreto-legge 14 agosto 2013, n. 93, convertito, con modificazioni, dalla legge 15 ottobre 2013, n. 119.
 
 Il Corpo nazionale puo' collaborare alla redazione dei piani di emergenza comunali e di protezione civile su istanza degli enti locali e delle regioni, previa stipula, ai sensi dell'articolo 17 della legge 10 agosto 2000, n. 246, di apposite convenzioni che prevedano il rimborso delle spese sostenute dal Corpo nazionale per l'impiego delle risorse umane e l'utilizzo di quelle logistiche e strumentali necessarie.
+
+8.
+                        
+                            
+                                Il Corpo nazionale, nell'ambito delle proprie competenze istituzionali, in materia di difesa civile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fronteggia, anche in relazione alla situazione internazionale, mediante presidi sul territorio, i rischi non convenzionali derivanti da eventuali atti criminosi compiuti in danno di persone o beni, con l'uso di armi nucleari, batteriologiche, chimiche e radiologiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concorre alla preparazione di unita' antincendi per le Forze armate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concorre alla predisposizione dei piani nazionali e territoriali di difesa civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    provvede all'approntamento dei servizi relativi all'addestramento e all'impiego delle unita' preposte alla protezione della popolazione civile, ivi compresa l'attivita' esercitativa, in caso di eventi bellici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    partecipa, con propri rappresentanti, agli organi collegiali competenti in materia di difesa civile.
 
 Ferme restando le competenze delle regioni e delle province autonome e del Dipartimento della protezione civile della Presidenza del Consiglio dei ministri in materia di spegnimento degli incendi boschivi, di cui all'articolo 7, comma 3, della legge 21 novembre 2000, n. 353, le strutture centrali e periferiche del Corpo nazionale assicurano, al ricorrere delle condizioni di cui al comma 1, gli interventi tecnici urgenti di propria competenza diretti alla salvaguardia dell'incolumita' delle persone e dell'integrita' dei beni e svolgono i compiti che la legge assegna allo Stato in materia di lotta attiva agli incendi boschivi. Sulla base di preventivi accordi di programma, il Corpo nazionale pone, inoltre, a disposizione delle regioni risorse, mezzi e personale per gli interventi di lotta attiva contro gli incendi boschivi. Gli accordi di programma sono conclusi tra il Corpo nazionale e le regioni che vi abbiano interesse e debbono prevedere, per ciascun territorio, le risorse, i mezzi ed il personale del Corpo nazionale da mettere a disposizione. I relativi oneri finanziari sono a carico delle regioni.
 
@@ -407,6 +676,31 @@ In relazione alle esigenze connesse all'espletamento delle attivita' in materia 
 Il Corpo nazionale assicura le attivita' formative anche in materia di sicurezza nei luoghi di lavoro e, in particolare, nei riguardi dei responsabili e degli addetti ai servizi di prevenzione e protezione di cui all'articolo 32, comma 4, del decreto legislativo 9 aprile 2008, n. 81, del personale addetto ai servizi di sicurezza nei luoghi di lavoro di cui all'articolo 43, comma 1, lettera b), e dei lavoratori addetti ai sistemi di accesso e posizionamento mediante funi di cui all'articolo 116, comma 4, del medesimo decreto legislativo, ovvero del datore di lavoro che non abbia provveduto ad indicare i responsabili e gli addetti ai servizi.
 
 Ai lavoratori designati dai datori di lavoro di cui all'articolo 43, comma 1, lettera b), del decreto legislativo 9 aprile 2008, n. 81, che hanno partecipato ai corsi di formazione svolti dal Corpo nazionale o da enti pubblici e privati, e' rilasciato, previo superamento di prova tecnica, un attestato di idoneita'. Con decreto del Ministro dell'interno sono determinate le modalita' della separazione delle funzioni di formazione da quelle di attestazione di idoneita'.
+
+6.
+                        
+                            
+                                Il Corpo nazionale svolge, su richiesta degli interessati e con oneri a carico dei medesimi, le seguenti attivita' nelle materie di specifica competenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formazione, addestramento e aggiornamento del personale e dei volontari di protezione civile, ivi compreso il rilascio delle relative attestazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formazione, addestramento e aggiornamento del personale e dei volontari antincendio boschivo, ivi compreso il rilascio delle relative attestazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    formazione di alta specializzazione.
 
 ))
 
@@ -531,6 +825,331 @@ Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri 
 ))
 
 ## Art. 35. — Norme abrogate
+
+1.
+                        
+                            
+                                Sono e restano abrogate le seguenti disposizioni, fatti salvi gli effetti gia' prodotti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        regio decreto-legge 10 ottobre 1935, n. 2472; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        regio decreto 10 ottobre 1935, n. 1971; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        legge 10 aprile 1936, n. 833; regio decreto 16 aprile 1940, n. 454; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        legge 27 dicembre 1941, n. 1570, ad eccezione degli articoli 7, quarto comma; 8, primo comma; 9 fino alla attuazione dei decreti legislativi di cui all'articolo 6, comma 1; 13, quarto comma; 18; 19; 
+22; 24; 30; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        regio decreto 16 marzo 1942, n. 699, ad eccezione degli articoli da 62 a 72 limitatamente alle parti ancora in vigore e fino all'emanazione del regolamento di cui all'articolo 32; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        regio decreto 16 marzo 1942, n. 702; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        regio decreto 30 novembre 1942, n. 1502; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        decreto legislativo C.P.S. 2 ottobre 1947, n. 1254; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        decreto legislativo 21 aprile 1948, n. 641; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        legge 24 ottobre 1955, n. 1077; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        legge 14 marzo 1958, n. 251; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    
+                                        legge 13 maggio 1961, n. 469, ad eccezione degli articoli 2 primo comma, lettera c), limitatamente agli aspetti non compresi nel decreto legislativo 17 agosto 1999, n. 334; 6; 11; 12; 17; 19 e 20, primo comma, fino all'emanazione dei decreti legislativi di cui all'articolo 6, comma 1; 21, secondo comma; 25, secondo comma; 78; 80; 84; 85; 106; 107; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    
+                                        legge 31 ottobre 1961, n. 1169; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    
+                                        legge 4 gennaio 1963, n. 10; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    
+                                        legge 2 marzo 1963, n. 364; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    
+                                        legge 26 luglio 1965, n. 966, ad eccezione dell'articolo 2, primo comma, lettera c); 4 limitatamente agli aspetti non compresi nel decreto legislativo 17 agosto 1999, n. 334; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    
+                                        legge 21 novembre 1966, n. 1046; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    
+                                        legge 9 marzo 1967, n. 212; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    
+                                        legge 8 dicembre 1970, n. 996, limitatamente agli articoli 8, dal primo al quarto comma; 9, 10, 11,13, 14, 15, 16, 17, 18, 20, primo comma; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    
+                                        legge 2 luglio 1971, n. 599; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    
+                                        legge 27 dicembre 1973, n. 850, ad eccezione degli articoli 9, 14, 19 e 20 ((, commi primo, secondo e quarto)); 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    
+                                        legge 15 febbraio 1974, n. 42; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    
+                                        decreto-legge 3 luglio 1976, n. 463, convertito, con modificazioni, dalla legge 10 agosto 1976, n. 557; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    
+                                        decreto-legge 30 dicembre 1976, n. 868, convertito, con modificazioni, dalla legge 26 febbraio 1977, n. 45; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    
+                                        legge 11 gennaio 1979, n. 14; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    
+                                        legge 5 agosto 1978, n. 472; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    
+                                        legge 8 luglio 1980, n. 336; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    
+                                        legge 23 dicembre 1980, n. 930, ad eccezione dell'articolo 2, commi 1 e 5; dell'articolo 7, comma 2; dell'articolo 32 per la parte relativa al trasferimento in soprannumero; degli articoli 33 e 38; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    
+                                        decreto-legge 15 gennaio 1982, n. 4, convertito, con modificazioni, dalla legge 22 marzo 1982, n. 86; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    
+                                        legge 4 marzo 1982, n. 66; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    
+                                        legge 7 dicembre 1984, n. 818, ad eccezione degli articoli 2, dal primo al quarto comma, e 3 da mantenere in vigore fino all'emanazione delle direttive del Ministro dell'interno previste dall'articolo 7 del decreto del Presidente della Repubblica 12 gennaio 1998, n. 37, secondo quanto in esse espressamente disposto; 16, 17; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    
+                                        legge 13 maggio 1985, n. 197; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    
+                                        decreto-legge 27 febbraio 1987, n. 51, convertito, con modificazioni, dalla legge 13 aprile 1987, n. 149, ad eccezione dell'articolo 5; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    
+                                        decreto-legge 4 agosto 1987, n. 325, convertito, con modificazioni, dalla legge 3 ottobre 1987, n. 402, limitatamente agli articoli 11, 13, 14, 15, 16, 17, 19; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    
+                                        legge 5 dicembre 1988, n. 521, limitatamente agli articoli, 9, 15, 16, 17, 18, 19, 20, 22, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, mantenuto in vigore fino alla emanazione del regolamento di cui all'articolo 11; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    
+                                        decreto-legge 1° ottobre 1996, n. 512, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 609, ad eccezione degli articoli 1, commi 3, 5, 7; 1-ter, 2; 3; 
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    
+                                        legge 10 agosto 2000, n. 246, limitatamente all'articolo 10, commi 1 e 2; 
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    
+                                        legge 21 marzo 2001, n. 75; 
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 29 luglio 1982, n. 577, limitatamente agli articoli 1; 2; 3, commi 1 e 2, numeri 1) e 2); 7; 8; 10, successivamente all'emanazione del decreto di cui all'articolo 21, comma 2, del presente decreto legislativo; 11, ad eccezione dei commi 2, 3, 4 e 5, da mantenere in vigore fino all'emanazione del decreto di cui all'articolo 21, comma 2, del presente decreto legislativo; 12; 17; 20, ad eccezione dei commi 2, 3, 4 e 5, da mantenere in vigore fino all'emanazione del decreto di cui all'articolo 22, comma 3; 
+
+                                
+                            
+                            
+                                tt-bis)
+                                
+                                    
+                                        articolo 4, comma 1, della legge 2 dicembre 1991, n. 384.
 
 ## Art. 36. — Norma finale
 

@@ -8,8 +8,8 @@ codice_redazionale: 099G0395
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -88,11 +88,100 @@ Le istituzioni scolastiche, anche attraverso i consigli di classe, promuovono le
 
 L'elevamento dell'obbligo nel primo anno di scuola secondaria superiore, che conserva l'attuale ordinamento, richiede una gestione flessibile del curricolo da realizzare nell'ambito di quanto previsto dal successivo articolo 8. La programmazione e la realizzazione dell'attivita' didattica sono finalizzate al successo formativo, da perseguire anche con iniziative di riorientamento verso percorsi formativi diversi da quelli scelti, compresi quelli offerti dalla formazione professionale.
 
+2.
+                    
+                        
+                            Le istituzioni scolastiche, per raggiungere gli obiettivi previsti dal comma 3 dell'articolo 1 della legge 20 gennaio 1999, n. 9, programmano e realizzano l'azione formativa del primo anno dei diversi indirizzi di scuola secondaria superiore con modalita' organizzative e didattiche volte a:
+ 
+                        
+                        
+                            a)
+                            
+                                motivare tutti gli allievi, favorendone l'esercizio del senso critico anche attraverso apposite iniziative formative sui principali temi della cultura, della societa' e della scienza contemporanee;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare la coerenza tra l'indirizzo scelto e le potenzialita' e le attitudini individuali al fine di confermare e rafforzare le scelte effettuate o di individuare possibili percorsi alternativi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sostenere sul piano didattico gli allievi orientati a passare ad altro indirizzo di scuola secondaria superiore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuovere condizioni favorevoli, anche attraverso una adeguata personalizzazione del curricolo, al pieno sviluppo delle potenzialita' educative degli alunni la cui integrazione per ragioni culturali, sociali e linguistiche presenta particolari difficolta';
+
+                            
+                        
+                        
+                            e)
+                            
+                                realizzare percorsi mirati per gli allievi orientati ad uscire dal sistema scolastico.
+
+3.
+                    
+                        
+                            Le istituzioni scolastiche, in particolare, promuovono iniziative di:
+ 
+                        
+                        
+                            a)
+                            
+                                accoglienza, analisi delle competenze, consolidamento delle scelte o riorientamento, da realizzare anche attraverso il ricorso a progetti e materiali strutturati adottati o prodotti dai docenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                agevolazione del passaggio ad altri indirizzi di scuola secondaria superiore attraverso specifiche attivita' didattiche, da realizzare anche in collaborazione con le scuole destinatarie dei passaggi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                predisposizione di percorsi integrati, ferma restando la competenza delle istituzioni scolastiche in materia di certificazione delle attivita' svolte, da realizzare attraverso la stipula di convenzioni anche con enti di formazione professionale riconosciuti.
+
 Al fine di realizzare le attivita' sopra indicate, le istituzioni scolastiche ne programmano l'effettuazione prevedendo inoltre, nella seconda parte dell'anno scolastico, la predisposizione delle iniziative finalizzate al passaggio ad altro indirizzo, al sistema della formazione professionale e allo svolgimento dell'attivita' di apprendistato.
 
 ## Art. 5. — Passaggi fra indirizzi della scuola secondaria superiore
 
 Al fine di agevolare il passaggio degli studenti da un indirizzo all'altro, anche di ordine diverso, vengono progettati e realizzati - nel corso del primo e/o del secondo anno della scuola secondaria superiore - interventi didattici integrativi che si concludono con una certificazione attestante l'acquisizione delle conoscenze, delle capacita' e delle competenze necessarie al passaggio.
+
+2.
+                    
+                        
+                            Gli interventi didattici integrativi sono progettati con il concorso dei docenti dell'indirizzo a cui lo studente intende passare e si svolgono di norma, nel corso di studi frequentato. In particolare sono coprogettati moduli di raccordo sulle discipline non previste nell'indirizzo di provenienza, al fine di consentire un efficace inserimento nel percorso formativo di destinazione. Il consiglio di classe dello studente che chiede il passaggio individua:
+ 
+                        
+                        
+                            a)
+                            
+                                le discipline da seguire, sulle quali sara' espressa una valutazione in sede di scrutinio finale, con eventuale progettazione di moduli formativi coerenti con il nuovo percorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le discipline che non sono oggetto di valutazione nello scrutinio finale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i moduli di raccordo per le discipline presenti soltanto nell'indirizzo di destinazione; le discipline in questione sono oggetto di valutazione in sede di scrutinio finale a cui partecipano, limitatamente agli allievi coinvolti e a pieno titolo, i docenti che hanno svolto i moduli di raccordo.
 
 Lo studente che, a conclusione del primo anno della scuola secondaria superiore, sia stato promosso e che richiede il passaggio ad altro indirizzo di studi e' iscritto alla classe successiva previo un colloquio presso la scuola ricevente, diretto ad accertare gli eventuali debiti formativi da colmarsi mediante specifici interventi realizzabili all'inizio dell'anno scolastico successivo. Il colloquio sostituisce le prove integrative previste dall'articolo 192 del testo unico n. 297 del 16 aprile 1994.
 

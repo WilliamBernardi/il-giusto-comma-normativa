@@ -8,8 +8,8 @@ codice_redazionale: 001G0283
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,7 +44,85 @@ Le risorse finanziarie del Fondo sono costituite dalle:
 
 ## Art. 2. — Finalita' del Fondo e criteri di valutazione
 
+1.
+                    
+                        
+                            Le disponibilita' del Fondo di cui all'articolo 1 sono utilizzate prioritariamente per soddisfare le richieste dei commissari straordinari, come previsto dall'articolo 14 della legge 17 maggio 1999, n. 144. Sempre in via prioritaria possono altresi' essere finanziati progetti di:
+ 
+                        
+                        
+                            a)
+                            
+                                interventi ammissibili al cofinanziamento comunitario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                opere infrastrutturali individuate sul territorio nazionale nelle zone colpite da calamita' naturali e/o dissesto idrogeologico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                opere infrastrutturali di completamento delle previsioni dei piani regolatori portuali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                opere nel settore della sicurezza anche penitenziaria;
+
+                            
+                        
+                        
+                            e)
+                            
+                                opere relative ad organismi internazionali ovvero ad organi costituzionali o aventi rilevanza costituzionale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                opere previste nei programmi triennali delle Amministrazioni aggiudicatrici, di cui all'articolo 14 della legge n. 109 del 1994, da inserire nel piano annuale, quando non sia possibile affidare la progettazione ai competenti uffici della Amministrazione.
+
 Una quota pari al 10% delle disponibilita' del Fondo e' riservata a proposte relative all'indizione di concorsi di progettazione come disciplinati dai commi da 1 a 5 dell'articolo 59 del decreto del Presidente della Repubblica n. 554/99 per interventi di rilevante interesse sociale, urbanistico, architettonico o ambientale, promossi da Amministrazioni statali anche d'intesa con enti locali, ovvero da enti sovraregionali vigilati da Amministrazioni statali.
+
+3.
+                    
+                        
+                            Nell'ambito delle priorita' indicate al precedente comma 1 le richieste sono valutate secondo i seguenti criteri di precedenza:
+ 
+                        
+                        
+                            a)
+                            
+                                progetti che prevedono la partecipazione di capitali privati, in quanto suscettibili di gestione economica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                progetti di recupero del patrimonio edilizio esistente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                progetti di completamenti di interventi gia' realizzati o in corso di esecuzione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                progetti relativi a lavori di manutenzione.
 
 ## Art. 3. — Limiti di spesa
 

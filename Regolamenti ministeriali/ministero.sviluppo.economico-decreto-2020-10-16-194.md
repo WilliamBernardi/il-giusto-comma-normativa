@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2020-10-16;194
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,4 +27,22 @@ Sentita la Commissione per l'accesso ai documenti amministrativi;
 Udito il parere del Consiglio di Stato n. 1510/2020, reso dalla Sezione consultiva per gli atti normativi nell'adunanza del 3 settembre 2020;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto del Ministro delle poste e telecomunicazioni 10 aprile 1996, n. 296: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla fine della lettera i) il punto e' sostituito con il punto e virgola; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera i) e' aggiunta la seguente: «i-bis) documenti relativi alle procedure ed alle metodologie di test di hardware e software definiti, disposti, imposti o comunque impiegati, direttamente o indirettamente, dal Centro di valutazione e certificazione nazionale (CVCN), di cui all'articolo 1, comma 6, lettera a), del decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, per le finalita' stabilite dall'articolo 1 dello stesso decreto-legge.».
 

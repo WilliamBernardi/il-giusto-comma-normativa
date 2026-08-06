@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2020-01-28;123
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,98 @@ Modalita' di presentazione
  della domanda di autorizzazione
 
 La domanda per il rilascio dell'autorizzazione di cui all'articolo 2 e' trasmessa dalla societa' armatrice, mediante posta elettronica certificata, unitamente alla documentazione di cui al comma 3, al Ministero delle infrastrutture e dei trasporti - Direzione generale per la vigilanza sulle autorita' portuali, le infrastrutture portuali ed il trasporto marittimo e per vie d'acqua interna, e al Ministero della salute - Direzione generale della prevenzione sanitaria.
+
+2.
+                    
+                        
+                            La domanda contiene i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' o la ragione sociale nonche' la sede dell'armatore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i seguenti elementi di identificazione della nave cisterna: numero di iscrizione nei registri navali e il nominativo internazionale.
+
+3.
+                    
+                        
+                            Alla domanda e' allegata la seguente documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione di classe rilasciata dal registro italiano navale, con l'indicazione del tipo di abilitazione alla navigazione e degli estremi delle ultime visite effettuate, comprese quelle speciali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la documentazione concernente le caratteristiche tecnico-costruttive della nave, riferita, in particolare, agli impianti e alle strutture delle cisterne, corredata da piani generali in scala non inferiore a 1:100 e da indicazioni sui principali servizi generali di bordo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la documentazione di conformita' di materiali e oggetti, in contatto con le acque destinate al consumo umano, di cui al decreto del Ministro della salute 6 aprile 2004, n. 174, nonche' l'eventuale documentazione funzionale a dimostrare l'assicurazione di qualita' di sostanze utilizzate per il trattamento delle acque, ai sensi dell'articolo 9 del decreto legislativo 2 febbraio 2001, n. 31; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la descrizione dettagliata degli impianti e delle strutture delle navi elencati nell'allegato al presente decreto, con particolare riferimento ai materiali che vengono in contatto con l'acqua destinata al consumo umano; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un programma di autocontrollo basato sul piano di sicurezza dell'acqua, richiamato nell'allegato II del decreto legislativo 2 febbraio 2001, n. 31, basato sui principi generali della valutazione del rischio stabiliti dalle norme internazionali di attuazione dei Water Safety Plans, trasposte nelle «Linee guida nazionali per la valutazione e gestione del rischio nella filiera delle acque destinate al consumo umano secondo il modello dei Water Safety Plans», elaborate dall'Istituto superiore di sanita' e pubblicate sui siti istituzionali del Ministero della salute e del predetto Istituto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la descrizione delle iniziative di formazione svolte per il personale che opera sulle navi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la descrizione delle procedure operative di lavaggio e di sanificazione idonee a garantire il ripristino della idoneita' igienico-sanitaria della nave anche in caso di trasporto di sostanze alimentari liquide sfuse, idrosolubili e liposolubili; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la descrizione delle procedure operative di carico e scarico; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'esito delle analisi dell'acqua destinata al consumo umano dopo la permanenza in cisterna per almeno ventiquattro ore, ai fini della verifica della conformita' ai requisiti di qualita' di detta acqua di cui al decreto legislativo 2 febbraio 2001, n. 31; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                la quietanza di avvenuto versamento della tariffa stabilita dal citato decreto 6 dicembre 2005.
 
 ## Art. 4.
 

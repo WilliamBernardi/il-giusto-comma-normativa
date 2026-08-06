@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2015-10-09;192
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,9 +26,46 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Le piattaforme semoventi, ai sensi degli articoli 10 e 59 del decreto legislativo 30 aprile 1992, n. 285, sono veicoli eccezionali con caratteristiche atipiche destinate ai trasporti eccezionali e finalizzate esclusivamente al trasporto su strada, a velocita' ridotta comunque non superiore a 20 km/h, di manufatti ovvero di carichi indivisibili e sono costituite da: 
+ 
+                        
+                        
+                            a)
+                            
+                                un gruppo motopropulsore di potenza abbinato a una o piu' unita', di tipo modulare, munite di piano di carico, ovvero 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un gruppo motopropulsore di potenza incorporato in una unita' munita di piano di carico (tipo cosiddetto «monolitico»). 
+ In funzione del numero e del tipo di moduli presenti nelle varie configurazioni di marcia, le piattaforme semoventi possono assumere masse massime e dimensioni diverse tra loro.
+
 Le piattaforme semoventi, in relazione a particolari necessita' di trasporto e movimentazione di manufatti di elevate dimensioni, possono essere abbinate ad altre piattaforme semoventi sia lateralmente che longitudinalmente, secondo le prescrizioni dettate dalla Direzione generale per la motorizzazione, come previsto in Appendice I, articolo 9, del decreto del Presidente della Repubblica del 16 dicembre 1992, n. 495.
 
 ## Art. 2. — Campo di applicazione
+
+1.
+                    
+                        
+                            Il presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                disciplina, ai sensi degli articolo 59 e 75, commi 1, 2 e 3, del decreto legislativo 30 aprile 1992, n. 285, ed in conformita' al decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277, le procedure di omologazione e di accertamento dei requisiti di idoneita' alla circolazione delle piattaforme semoventi eccezionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                individua i requisiti richiesti per la circolazione delle piattaforme semoventi eccezionali.
 
 ## Art. 3. — Assimilazione ai fini della circolazione e della guida
 
@@ -38,6 +75,24 @@ Ai fini della circolazione su strada e della guida, le piattaforme semoventi ecc
 
 Omologazione ed accertamento dei requisiti di 
  idoneita' alla circolazione
+
+1.
+                    
+                        
+                            Ad ogni veicolo costruito in serie si applica l'omologazione del tipo di veicolo, prevista dall'articolo 2, comma 2, lettere a) e b), del decreto del Ministro dei trasporti e della navigazione 2 maggio 2001, n. 277, in conformita' alle prescrizioni tecniche individuate: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'Allegato A del presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nelle direttive comunitarie, ovvero nei regolamenti UNECE (United Nations Economic Commission for Europe - Commissione economica per l'Europa delle Nazioni Unite), di cui all'Allegato B del presente regolamento, inerenti ai veicoli della categoria N3.
 
 L'Allegato A «Caratteristiche tecniche delle piattaforme semoventi eccezionali» e l'Allegato B «Prescrizioni per l'omologazione o l'accertamento dei requisiti di idoneita' alla circolazione» sono parte integrante del presente regolamento.
 

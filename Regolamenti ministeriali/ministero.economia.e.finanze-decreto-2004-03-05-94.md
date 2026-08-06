@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-04-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,87 @@ L'Accademia della Guardia di finanza ha in dotazione la bandiera d'Istituto mili
 ## - TITOLO II Attribuzioni ed incarichi connessi allo svolgimento dei corsi
 
 ## Art. 3. — Comandante dell'Accademia
+
+1.
+                        
+                            
+                                Allo svolgimento dei corsi di formazione sovrintende il Comandante dell'Accademia, che esercita l'alta direzione di tutte le attivita' dell'Istituto. In particolare, egli:
+ 
+                            
+                            
+                                a)
+                                
+                                    emana le disposizioni relative al comportamento degli allievi, ne regolamenta le attivita' e determina l'orario giornaliero delle operazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    propone, previa intesa con i competenti organi universitari, le attivita' didattiche, ed i relativi programmi, ricomprese nei corsi di studio per la formazione degli ufficiali attivati dalle universita' convenzionate con l'Accademia, la cui titolarita' e' affidata a docenti universitari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    propone le attivita' didattiche a carattere tecnico-operativo ed i relativi docenti, le attivita' addestrative ed il calendario generale dell'anno accademico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pianifica le attivita' didattiche, addestrative e le prove di valutazione in conformita' all'ordinamento didattico-addestrativo approvato e ne controlla il puntuale adempimento promuovendo il pieno coinvolgimento dei docenti nel progetto formativo dell'Istituto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    emana le norme per lo svolgimento delle prove scritte d'esame in modo da garantirne il corretto, imparziale e trasparente svolgimento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promuove, nell'ambito dei programmi dei corsi di formazione dell'Istituto, attivita' di studio e di ricerca nei settori d'interesse istituzionale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    determina l'indirizzo didattico degli insegnamenti concernenti l'acquisizione delle conoscenze teoriche e delle competenze tecnico-professionali relative agli ambiti operativi della Guardia di finanza;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    assume le piu' idonee iniziative per valutare la qualita' del processo formativo operando, per le attivita' di cui alla lettera b), d'intesa con i competenti organi universitari;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    su proposta dei docenti, stabilisce i libri di testo e le dispense da adottare per gli insegnamenti a carattere universitario e propone quelli relativi agli insegnamenti dell'area tecnico-operativa;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    autorizza l'organizzazione di lezioni di sostegno nel caso di lacune generalizzate ovvero individuali;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    indirizza le relazioni esterne dell'Accademia ed assume le piu' idonee iniziative per promuovere l'immagine dell'Istituto.
 
 ## Art. 4. — (( (Comandante dei corsi di Accademia, di applicazione e speciali). ))
 
@@ -181,6 +262,38 @@ Per lo svolgimento delle attivita' tecnico-applicative, ed in particolare per i 
 ## Art. 15. — Consiglio dei docenti
 
 Per ciascun corso e' istituito un «consiglio dei docenti», presieduto dal Comandante dell'Accademia e composto dagli insegnanti titolari delle attivita' didattiche ((o, in caso di impedimento, da insegnanti aggiunti da questi delegati)). ((1))
+
+2.
+                        
+                            
+                                Il consiglio, fatte salve, ove previste, le attribuzioni dei competenti organi universitari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce indicazioni in ordine all'indirizzo didattico degli insegnamenti e valuta l'adeguatezza dei relativi programmi ed il loro coordinamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formula proposte sull'organizzazione e qualita' delle attivita' didattiche e sui criteri di valutazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stabilisce, per gli insegnamenti ad esame finale, le modalita' di accertamento del profitto ed il calendario delle prove; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprime pareri non vincolanti in merito alle proposte di modifica dell'ordinamento didattico.
 
 Il consiglio viene convocato ogni volta che il Comandante dell'Accademia lo ritenga necessario, ovvero a richiesta di un docente titolare del corso, per prendere in esame questioni concernenti le suddette competenze e, comunque, almeno una volta ((all'anno)). ((1))
 
@@ -334,7 +447,33 @@ Entro il termine dell'anno accademico a ciascun frequentatore dei corsi di forma
 
 ## Art. 25. — Ripetizione dell'anno di corso
 
+1.
+                        
+                            
+                                Ripete l'anno di corso l'allievo che, nell'ambito delle aree di valutazione previste dall'ordinamento didattico-addestrativo del corso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non ha superato piu' di tre esami ovvero scrutini in prima sessione; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    non ha superato anche un solo esame ovvero un solo scrutinio in seconda sessione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al termine dell'anno di corso ha conseguito una media complessiva inferiore a 18 trentesimi nel profitto degli studi. 
+ ((PERIODO SOPPRESSO DAL DECRETO 10 GENNAIO 2024, N. 33)). ((1))
+
+((1-bis. Per il primo anno dei corsi di formazione di durata pluriennale, tra gli esami ovvero gli scrutini di cui al comma 1, lettere a) e b), sono compresi quelli relativi alle lingue straniere.))
 
 ((1))
 
@@ -389,6 +528,49 @@ A parita' di punto di classificazione e' data la precedenza al frequentatore con
 
 ## Art. 28. — Formazione della graduatoria annuale
 
+1.
+                        
+                            
+                                L'anzianita' relativa dei frequentatori in ciascun anno di corso e' determinata come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la graduatoria degli allievi del 1° anno del corso di Accademia e' data dalla graduatoria di ingresso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la graduatoria degli allievi del 2° anno del corso di Accademia e' data dalla graduatoria formata al termine del 1° anno del corso di Accademia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la graduatoria degli allievi del ((1° anno del corso di applicazione)) e' data dalla graduatoria formata dalla media aritmetica dei punti di classificazione annuale conseguiti al termine del 1° e del 2° anno del corso di Accademia. La nomina a sottotenente ha luogo secondo l'ordine di tale graduatoria;((1))
+
+2.
+                        
+                            
+                                L'allievo che ripete ovvero recupera l'anno e' inserito nel corso che deve ripetere ovvero recuperare in base al punto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riportato nel concorso di ammissione, per la ripetizione ovvero il recupero del 1° anno di Accademia e per il recupero del corso di durata annuale o inferiore all'anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di classificazione annuale conseguito nel precedente anno accademico, per la ripetizione ovvero il recupero degli altri anni di corso.
+
 L'allievo frequentatore dei corsi di durata annuale o inferiore all'anno ((, fatta eccezione per l'ufficiale allievo reclutato ai sensi dell'articolo 9 del decreto legislativo 19 marzo 2001, n. 69,)) all'atto della nomina ad ufficiale e' iscritto in ruolo in base alla graduatoria al termine del corso. Qualora abbia frequentato il corso da ufficiale, l'anzianita' relativa viene rideterminata in base alla graduatoria al termine del corso. ((1))
 
 ---------------
@@ -401,7 +583,66 @@ L'allievo frequentatore dei corsi di durata annuale o inferiore all'anno ((, fat
 
 ## Art. 29. — Rinvio
 
+1.
+                        
+                            
+                                Sono rinviati dall'Accademia gli allievi che dimostrano di non possedere il complesso delle qualita' e delle attitudini indispensabili per bene assolvere le funzioni del grado rivestito o cui aspirano, ai sensi ((dell'articolo 6-bis, comma 6, lettera b),)) del decreto legislativo 19 marzo 2001, n. 69. Sono considerati tali gli allievi che: ((1))
+                                
+                            
+                            
+                                a)
+                                
+                                    non riportano un voto pari o superiore a 18 trentesimi nell'attitudine militare o professionale, la cui valutazione e' effettuata in qualsiasi fase dell'anno di corso ovvero del corso e comunque al termine dello stesso; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    al termine dell'anno di corso ovvero del corso non riportano un voto pari o superiore a 18 trentesimi nelle esercitazioni militari;
+
+2.
+                        
+                            
+                                Sono altresi' rinviati dall'Accademia gli allievi che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non sottoscrivono il previsto obbligo di servizio ai sensi dell'articolo 11 del decreto legislativo 19 marzo 2001, n. 69; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riportano una inidoneita' permanente al servizio. E' equiparata ad essa l'inidoneita' incondizionata al servizio per un periodo ininterrotto superiore ad un anno o per diversi periodi che, sommati, superino l'anno, determinata da malattie non diagnosticate alla visita medica di ammissione od insorte in seguito. Per i corsi di durata annuale o inferiore all'anno, il limite di un anno e' ridotto ad un periodo pari a un terzo della durata del corso stesso.
+Nel computo degli anzidetti periodi non si considerano i giorni coincidenti con le interruzioni collettive delle attivita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non sono ammessi all'anno successivo ai sensi dell'articolo 25 per la seconda volta nell'ambito del ciclo formativo quinquennale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL DECRETO 10 GENNAIO 2024, N. 33)); ((1))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    non superano i corsi di formazione di durata annuale o inferiore all'anno ai sensi dell'articolo 25, comma 3, fatta salva la facolta' prevista dall'articolo 26, comma 3.
+
+((2-bis. L'ufficiale allievo ammesso a ripetere il terzo anno del corso di applicazione a seguito di mancato superamento degli esami e' immesso in servizio con la medesima anzianita' assoluta dei colleghi del corso con cui ha ultimato il ciclo formativo ed e' iscritto in ruolo secondo la graduatoria redatta al termine del quinquennio dello stesso corso.))
 
 ((1))
 
@@ -425,6 +666,24 @@ Il provvedimento di rinvio e' adottato con determinazione del Comandante general
 ## Art. 31. — Procedura di espulsione
 
 ((1))
+
+2.
+                        
+                            
+                                Il Comandante dell'Accademia, effettuato il controllo di legittimita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    avvia, con immediatezza, il procedimento dandone comunicazione all'interessato avvisandolo, nel contempo, della facolta' a lui riconosciuta, entro quindici giorni, di prendere visione degli atti e di presentare memorie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nomina una commissione, composta dal ((Capo di Stato maggiore dell'Accademia)), quale presidente, e da altri due ufficiali.((1))
 
 L'allievo e' avvisato della facolta' di partecipare alla seduta della commissione, di farsi assistere da un militare di grado inferiore a quello rivestito dal presidente della commissione e di produrre memorie e rilasciare dichiarazioni.
 
@@ -453,6 +712,102 @@ Fermo quanto previsto ((dall'articolo 6-bis, comma 13,)), del decreto legislativ
 ## - TITOLO VI Disposizioni finali
 
 ## Art. 34. — Determinazione della graduatoria al termine del ciclo formativo quinquennale: regime transitorio
+
+1.
+                        
+                            
+                                Per il novantasettesimo corso, l'ordine di iscrizione in ruolo al termine del ciclo quinquennale di formazione e' dato dalla media aritmetica tra:
+ 
+                            
+                            
+                                a)
+                                
+                                    la media dei punti di classificazione annuale conseguiti al termine del primo e del secondo anno del corso (anni accademici 1997-1998 e 1998-1999);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il punto di classificazione annuale conseguito al termine del terzo anno del corso (anno accademico 1999-2000);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il punto di classificazione annuale conseguito al termine del quarto anno del corso (anno accademico 2000-2001);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il punto di classificazione annuale conseguito al termine del quinto anno del corso (anno accademico 2001-2002).
+
+2.
+                        
+                            
+                                Per il novantottesimo corso, l'ordine di cui al comma 1 e' dato dalla media aritmetica tra:
+ 
+                            
+                            
+                                a)
+                                
+                                    la media dei punti di classificazione annuale conseguiti al termine del primo e del secondo anno del corso (anni accademici 1998-1999 e 1999-2000);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il punto di classificazione annuale conseguito al termine del terzo anno del corso (anno accademico 2000-2001);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il punto di classificazione annuale conseguito al termine del quarto anno del corso (anno accademico 2001-2002);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il punto di classificazione annuale conseguito al termine del quinto anno del corso (anno accademico 2002-2003).
+
+3.
+                        
+                            
+                                Per il novantanovesimo corso, l'ordine di cui al comma 1 e' dato dalla media aritmetica tra:
+ 
+                            
+                            
+                                a)
+                                
+                                    la media dei punti di classificazione annuale conseguiti al termine del primo e del secondo anno del corso (anni accademici 1999-2000 e 2000-2001);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il punto di classificazione annuale conseguito al termine del terzo anno del corso (anno accademico 2001-2002);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il punto di classificazione annuale conseguito al termine del quarto anno del corso (anno accademico 2002-2003);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il punto di classificazione annuale conseguito al termine del quinto anno del corso (anno accademico 2003-2004).
 
 Per l'ordine di precedenza interno valgono le disposizioni di cui all'articolo 28, in quanto applicabili.
 

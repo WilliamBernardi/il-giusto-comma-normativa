@@ -8,8 +8,8 @@ codice_redazionale: 099G0034
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -92,6 +92,52 @@ Le operazioni di verifica devono essere riportate in un apposito verbale di acce
 ## Art. 8. — Esito delle verifiche istruttorie per l'accertamento del possesso dei requisiti per la concessione dell'aiuto per il mancato reddito.
 
 Qualora l'interessato non sia in grado di documentare la sussistenza dei requisiti oggettivi e soggettivi per la concessione dell'aiuto compensativo per il mancato reddito o l'organo regionale competente non ritenga idonea o sufficiente a tale scopo la documentazione fornita, l'aiuto medesimo non viene concesso.
+
+2.
+                    
+                        
+                            Qualora nel corso delle verifiche in questione si riscontri l'inadempimento parziale o totale degli obblighi assunti e risultanti dalla domanda di adesione si applicano le procedure previste dagli articoli 12 e successivi, fatte salve le seguenti cause di forza maggiore:
+ 
+                        
+                        
+                            a)
+                            
+                                decesso dell'imprenditore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                incapacita' professionale di lunga durata dell'imprenditore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                espropriazione per cause di pubblica utilita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                calamita' naturale grave;
+
+                            
+                        
+                        
+                            e)
+                            
+                                attacco parassitario grave che colpisca una parte rilevante dell'impianto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                danni gravi causati da animali selvatici su una parte rilevante dell'impianto qualora non siano dovuti all'incuria del beneficiario.
 
 ## Art. 9. — Autocertificazione di adempimento
 

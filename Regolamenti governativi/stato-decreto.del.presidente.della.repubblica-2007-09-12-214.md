@@ -8,8 +8,8 @@ codice_redazionale: 007G0230
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,32 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'ec
 
 ## Art. 1. — Consiglieri del Ministro e Vice Capi degli Uffici
  di diretta collaborazione
+
+1.
+                    
+                        
+                            All'articolo 12 del decreto del Presidente della Repubblica 25 luglio 2001, n. 315, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 3 e' inserito il seguente:
+ «3-bis. Nei limiti di cui al comma 3, secondo periodo, e nel rispetto del criterio di invarianza della spesa di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, il Ministro puo' nominare, tra soggetti aventi specifica esperienza professionale o scientifica, un consigliere economico e finanziario, un consigliere per le libere professioni ed un consigliere per le tematiche sociali e della devianza.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, lettera b), le parole: «per i Vice Capi con funzioni vicarie degli uffici di cui all'articolo 3, comma 1, lettere c) e d)» sono sostituite dalle seguenti: «per i Vice Capi degli uffici di cui all'articolo 3, comma 1, lettere c) e d)»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, lettera c), le parole: «ai Vice Capi con funzioni vicarie degli uffici di cui all'articolo 3, comma 1, lettere c) e d)» sono sostituite dalle seguenti: «ai Vice Capi degli uffici di cui all'articolo 3, comma 1, lettere c) e d)».
 
 ## Art. 2. — Divieto di nuovi o maggiori oneri
 

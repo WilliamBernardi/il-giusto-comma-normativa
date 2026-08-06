@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -730,6 +730,40 @@ A decorrere dal 1° ottobre 2009, le misure dell'indennita' pensionabile di cui 
  Il D.P.R. 24 marzo 2025, n. 53, nel modificare l'art. 4, comma 1 del D.P.R. 20 aprile 2022, n. 57, che a sua volta modifica l'art. 4, comma 1 del D.P.R. 15 marzo 2018, n. 39, ha conseguentemente disposto (con l'art. 4, comma 1) che a decorrere dal 1° gennaio 2024, le misure dell'indennita' pensionabile sono incrementate e rideterminate negli importi mensili lordi di cui alla tabella riportata nell'art. 4 del medesimo D.P.R. 24 marzo 2025, n. 53.
 
 ## Art. 5. — Fondo per l'efficienza dei servizi istituzionali
+
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento civile il Fondo per l'efficienza dei servizi istituzionali di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, come incrementato dall'art. 3 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, dall'art. 7 del decreto del Presidente della Repubblica 5 novembre 2004, n. 301, dall'art. 4 del decreto del Presidente della Repubblica 28 aprile 2006, n. 220, dall'art. 5 del decreto del Presidente della Repubblica 11 settembre 2007, n. 170, dall'art. 5 del decreto del Presidente della Repubblica 16 aprile 2009, n. 51, e' ulteriormente incrementato delle seguenti risorse economiche annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2008: 
+ Polizia di Stato: euro 458.000,00; 
+ Polizia penitenziaria: euro 149.000,00; 
+ Corpo forestale dello Stato: euro 36.000,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2009: 
+ Polizia di Stato: euro 6.132.000,00; 
+ Polizia penitenziaria: euro 1.793.000,00; 
+ Corpo forestale dello Stato: euro 118.000,00; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dal 31 dicembre 2009 ed a valere per l'anno 2010: 
+ Polizia di Stato: euro 3.267.000,00; 
+ Polizia penitenziaria: euro 567.000,00; 
+ Corpo forestale dello Stato: euro 26.000,00.
 
 Gli importi di cui alle lettere a), b) e c) del comma 1, non comprendono gli oneri contributivi e l'IRAP a carico dello Stato. Gli importi di cui alle lettere a) e b) non hanno effetto di trascinamento negli anni successivi.
 
@@ -1556,6 +1590,37 @@ A decorrere dal 1° ottobre 2009, le misure dell'indennita' pensionabile di cui 
  Parte di provvedimento in formato grafico
 
 ## Art. 11. — Fondo per l'efficienza dei servizi istituzionali
+
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento militare il Fondo per l'efficienza dei servizi istituzionali di cui all'articolo 53 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, come incrementato dall'articolo 8 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, dall'articolo 14 del decreto del Presidente della Repubblica 5 novembre 2004, n. 301, dall'articolo 8 del decreto del Presidente della Repubblica 28 aprile 2006, n. 220, dall'articolo 23 del decreto del Presidente della Repubblica 11 settembre 2007, n. 170, dall'articolo 28 del decreto del Presidente della Repubblica 16 aprile 2009, n. 51, e' ulteriormente incrementato delle seguenti risorse economiche annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2008: 
+ Arma dei carabinieri: euro 495.000,00; 
+ Corpo della Guardia di finanza: euro 250.000,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2009: 
+ Arma dei carabinieri: euro 8.560.000,00; 
+ Corpo della Guardia di finanza: euro 4.789.000,00; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dal 31 dicembre 2009 ed a valere per l'anno 2010: 
+ Arma dei carabinieri: euro 5.831.000,00; 
+ Corpo della Guardia di finanza: euro 3.348.000,00.
 
 Gli importi di cui alle lettere a), b) e c) del comma 1 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato. Gli importi di cui alle lettere a) e b) non hanno effetto di trascinamento negli anni successivi.
 

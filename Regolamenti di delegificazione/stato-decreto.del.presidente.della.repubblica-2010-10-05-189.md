@@ -8,8 +8,8 @@ codice_redazionale: 010G0210
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,31 @@ Il presente regolamento concerne il riordino strutturale dell'Agenzia nazionale 
 
 ## Art. 2. — Organi dell'Agenzia
 
+1.
+                    
+                        
+                            Sono organi dell'Agenzia: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il collegio, composto da tre membri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori dei conti, composto da tre membri effettivi e un supplente.
+
 Il presidente e' nominato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Presidente del Consiglio dei Ministri.
 
 I membri del collegio sono nominati con decreto del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, su proposta, rispettivamente, uno del Ministro delle infrastrutture e dei trasporti, uno del Ministro dell'interno e uno del Ministro della giustizia.
@@ -47,11 +72,149 @@ Con decreto del Presidente del Consiglio dei Ministri, sentito il Ministro dell'
 
 Il presidente ha la rappresentanza legale dell'Agenzia, sovrintende alla sua attivita', convoca e presiede le riunioni del collegio, fissandone l'ordine del giorno.
 
+2.
+                    
+                        
+                            Il presidente inoltre: 
+ 
+                        
+                        
+                            a)
+                            
+                                sovrintende al coordinamento dell'attivita' investigativa, designa l'investigatore incaricato e, nel caso di inchieste tecniche condotte da Stati stranieri, il rappresentante accreditato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esercita i poteri di delega previsti dall'articolo 9, comma 4, lettera c), del decreto legislativo 25 febbraio 1999, n. 66, nonche', sentita l'amministrazione vigilante qualora si tratti di Stati non appartenenti all'Unione europea, dalle previsioni 5.1 e 5.1.1 dell'allegato 13 alla Convenzione relativa all'aviazione civile internazionale, stipulata a Chicago il 7 dicembre 1944, approvata e resa esecutiva con decreto legislativo 6 marzo 1948, n. 616, ratificato con la legge 17 aprile 1956, n. 561; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                puo' accettare la delega da parte di uno Stato straniero allo svolgimento di una inchiesta tecnica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                mantiene i rapporti con l'autorita' giudiziaria e con le altre autorita' nazionali e straniere; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                conclude le convenzioni previste dall'articolo 9, comma 4, del decreto legislativo 25 febbraio 1999, n. 66.
+
+3.
+                    
+                        
+                            Il collegio provvede, in particolare a: 
+ 
+                        
+                        
+                            a)
+                            
+                                fissare le linee programmatiche e di indirizzo per lo svolgimento delle attivita' di inchiesta e degli altri compiti istituzionali dell'Agenzia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                predisporre il rapporto informativo annuale al Presidente del Consiglio dei Ministri e disporne la diffusione ai soggetti interessati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conferire incarichi di studio, di indagine e di consulenza tecnica e giuridica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                approvare i bilanci dell'Agenzia; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                deliberare le relazioni ed i rapporti predisposti dagli investigatori sulle inchieste svolte; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                deliberare i regolamenti concernenti l'organizzazione interna e il funzionamento dell'Agenzia.
+
 ## Art. 4. — Direttore generale dell'Agenzia
 
 Il direttore generale e' scelto tra soggetti di provata capacita' giuridico-amministrativa e di gestione del personale ed e' nominato dal presidente, previa delibera del collegio.
 
 Il direttore generale e' a capo degli uffici dell'Agenzia ed interviene, senza diritto di voto, alle riunioni del collegio, al quale propone l'adozione dei provvedimenti che ritenga necessari.
+
+3.
+                    
+                        
+                            Il direttore generale, inoltre: 
+ 
+                        
+                        
+                            a)
+                            
+                                conformemente alle direttive del collegio, cura l'esecuzione delle delibere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                formula proposte ed esprime pareri al presidente e al collegio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                coordina l'attivita' degli uffici e adotta i provvedimenti relativi al personale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esercita i poteri di spesa secondo le direttive del collegio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dirige, controlla e coordina l'attivita' dei responsabili dei procedimenti amministrativi, anche con potere di sostituzione in caso di inerzia; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                fatto salvo quanto previsto dall'articolo 3, comma 2, lettera a), svolge attivita' di organizzazione e di gestione del personale e di gestione dei rapporti sindacali e di lavoro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                esegue compiti specifici stabiliti dal collegio.
 
 Il trattamento giuridico e economico del direttore generale e' disciplinato con delibera del Collegio da sottoporre all'approvazione della Presidenza del Consiglio dei Ministri, sentito il Ministero dell'economia e delle finanze, ed e' regolamentato con contratto di diritto privato di durata quinquennale.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1996-10-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -97,6 +97,38 @@ L'art. 12 del decreto legislativo 16 marzo 1992, n. 268, e' sostituito dal segue
 Le disposizioni dell'art. 9 del decreto legislativo 16 marzo 1992, n. 268, come sostituito dall'art. 4 del presente decreto, hanno effetto dalla data del 1 gennaio 1996. A decorrere dalla medesima data cessano di avere applicazione per la regione e per le province le riserve all'erario gia' disposte da leggi statali entrate in vigore anteriormente alla data di entrata in vigore del presente decreto.
 
 Le disposizioni di cui all'art. 10 del predetto decreto legislativo 16 marzo 1992, n. 268, come sostituito dall'art. 5 del presente decreto, trovano prima applicazione, fatto salvo quanto disposto dal comma 4, con la definizione degli accordi relativi alla determinazione della quota variabile per l'esercizio 1996. Le disposizioni di cui all'art. 10-bis del medesimo decreto legislativo 16 marzo 1992, n. 268, come introdotte dall'art. 6 del presente decreto, trovano prima applicazione con la definizione degli accordi relativi all'esercizio 1996. Nella definizione degli accordi di cui all'art. 10-bis relativi agli esercizi 1996 e 1997 si tiene conto dei risparmi di spesa gia' assicurati al bilancio dello Stato ai sensi dell'art. 34, comma 6, della legge 23 dicembre 1994, n. 724.
+
+3.
+                    
+                        
+                            Entro sei mesi dall'entrata in vigore del presente decreto, sono determinati, d'intesa tra il Governo e i presidenti delle giunte regionale e provinciali:
+ 
+                        
+                        
+                            a)
+                            
+                                gli ammontari delle riserve all'erario, gia' disposte da leggi in vigore, spettanti allo Stato fino al 31 dicembre 1995, sulla base di una stima degli incrementi di gettito derivanti dalle medesime leggi, al netto delle eventuali riduzioni di gettito conseguenti a norme connesse e dell'incremento derivante dall'evoluzione tendenziale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli ammontari delle quote variabili fino al 1995, non ancora definite alla data di entrata in vigore del presente decreto, tenendo conto delle disposizioni di cui al comma 6;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la quota di partecipazione, limitatamente all'anno 1995, al processo di contenimento del fabbisogno del settore statale di cui all'art. 34, comma 4, della legge 23 dicembre 1994, n. 724;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' per la regolazione anche graduale dei rapporti finanziari conseguenti alle disposizioni di cui alle lettere a), b) e c), che dovranno comunque prevedere la corresponsione delle somme nette spettanti alle province in un numero massimo di quattro annualita', decorrenti dal 1996.
 
 Le disposizioni di cui al comma 10 dell'art. 10 del decreto legislativo 16 marzo 1992, n. 268, come sostituito dall'art. 5 del presente decreto, trovano prima applicazione con la definizione degli accordi relativi alla determinazione della quota variabile per l'esercizio 1997.
 

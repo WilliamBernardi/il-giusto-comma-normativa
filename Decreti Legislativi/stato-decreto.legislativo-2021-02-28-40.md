@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-08-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,127 @@ Sulla proposta del Presidente del Consiglio dei ministri, di concerto con i Mini
 Il presente decreto, in attuazione della delega di cui all'articolo 9 della legge 8 agosto 2019, n. 86, e in conformita' dei relativi principi e criteri direttivi, revisiona e adegua le norme in materia di sicurezza nella pratica nelle discipline sportive invernali, al fine di garantire livelli di sicurezza piu' elevati e la piu' ampia partecipazione da parte delle persone con disabilita'.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini di cui al presente decreto si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aree sciabili attrezzate: le superfici innevate, anche artificialmente, aperte al pubblico e comprendenti piste, impianti di risalita e di innevamento, abitualmente riservate alla pratica degli sport sulla neve; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Comitato olimpico nazionale italiano: l'ente pubblico, riconosciuto dal Comitato olimpico internazionale che, in conformita' alla Carta olimpica, svolge il ruolo di Comitato olimpico sul territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Federazione sportiva nazionale: l'organizzazione sportiva nazionale, affiliata alla Federazione sportiva internazionale di appartenenza, posta al vertice di una disciplina sportiva o a un gruppo di discipline affini; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pericolo atipico: pericolo difficilmente evitabile anche per uno sciatore o sciatrice responsabile lungo il tracciato sciistico; 
+                                
+                            
+                            
+                                e)
+                                
+                                    piste di discesa: tracciati appositamente adibiti alla pratica dello sci alpino nelle sue varie articolazioni, della tavola da neve o di altri attrezzi destinati alla pratica degli sport sulla neve, segnalati, preparati e conformi alle linee guida predisposte della Federazione sportiva nazionale competente in materia di sport invernali riconosciuta dal CONI;
+                                
+                            
+                            
+                                f)
+                                
+                                    piste di fondo: tracciati appositamente destinati alla pratica dello sci di fondo, segnalati e preparati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    piste per la slitta, lo slittino o altri sport sulla neve: aree esclusivamente destinate a tali attivita', anche in forma di tracciati obbligati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    pista di collegamento: tracciato che consente l'agevole trasferimento degli sciatori all'interno dell'area sciabile; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    sci alpinismo: attivita' sportiva, anche agonistica, consistente nel compiere ascensioni in montagna, con gli sci ai piedi o in spalla, affrontando anche difficolta' tipicamente alpinistiche, come passaggi di ghiaccio e di roccia, e scendendo con gli sci dallo stesso versante di salita o da altro versante; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sci alpino: sport invernale praticato su percorsi, liberi o tracciati da paletti, lungo discese innevate con l'ausilio di sci; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    sci di fondo: disciplina dello sci che si pratica su percorsi piani e su lunghe distanze; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    sci fuori pista: attivita' sciistica che viene praticata fuori delle piste, su percorsi liberi, anche utilizzando per la salita gli impianti di risalita nei comprensori sciistici; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    slitta: discesa su pista attrezzata con una slitta carenata dotata di pattini; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    slittino: sport praticato su una piccola slitta sulla quale si viaggia in posizione supina con i piedi in avanti e su piste ghiacciate; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    snowboard: sport di scivolamento sulla neve, praticato utilizzando una tavola costruita a partire da un'anima di legno e provvista di lamine e soletta in materiale sintetico, simili a quelle dello sci; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    snowpark: area riservata alla pratica di evoluzioni acrobatiche con lo sci e lo snowboard, nonche' alla pratica del boardercross e dello skicross; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    telemark: tecnica sciistica connotata da una serie di movimenti e atteggiamenti, in particolare con la posizione inginocchiata, come posizione di stabilita' e sicurezza.
 
 ## Art. 3. — Competenze legislative di Stato, regioni e province autonome
 
@@ -61,7 +182,66 @@ All'interno delle aree di cui al comma 1, aventi piu' di venti piste, servite da
 
 Segnalazione delle piste in base al grado di difficolta'
 
+1.
+                        
+                            
+                                Le piste di discesa vengono segnalate dal gestore degli impianti secondo il grado difficolta' come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    colore blu: piste facili caratterizzate da una pendenza longitudinale non superiore al 25 per cento, ad eccezione di brevi tratti e che non presentano apprezzabili pendenze trasversali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    colore rosso: piste di media difficolta' caratterizzate da una pendenza longitudinale non superiore al 40 per cento, ad eccezione di brevi tratti, ed in cui apprezzabili pendenze trasversali sono ammesse solo per brevi tratti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    colore nero: piste difficili caratterizzate da pendenze longitudinali o trasversali superiori al 40 per cento.
+
 Tutte le piste non battute sono considerate piste difficili e devono essere segnalate in nero al loro imbocco.
+
+3.
+                        
+                            
+                                Le piste di fondo sono suddivise in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pista facile, segnata in blu, avente: 
+ 1) pendenza longitudinale non superiore al 10 per cento, ad eccezione di brevi tratti; 
+ 2) pendenza media longitudinale non superiore al 4 per cento; 
+ 3) lunghezza non superiore ai 10 chilometri; 
+ 4) sezione che normalmente non presenta pendenze trasversali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pista di media difficolta' segnata in rosso, avente: 
+ 1) pendenza longitudinale non superiore al 20 per cento, ad eccezione di brevi tratti; 
+ 2) pendenza media longitudinale non superiore all'8 per cento; 
+ 3) lunghezza non superiore ai 30 chilometri; 
+ 4) sezione che puo' presentare moderata pendenza trasversale; 
+ 5) tracciato che non presenta un elevato numero di passaggi impegnativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pista difficile, segnata in nero, caratterizzata da pendenze longitudinali o trasversali superiori a quelle delle piste di cui alla lettera b).
 
 Le piste innevate di slitta o slittino sono caratterizzate da una pendenza longitudinale non superiore al 15 per cento, ad eccezione di ((brevi tratti che)) non presentino apprezzabili pendenze trasversali, con larghezza minima di almeno 3 metri. I gestori adottano misure compensative di sicurezza attiva e ((adeguano la segnaletica relativa alle aree sciabili a quella stabilita dal decreto)) del Ministro delle infrastrutture e dei trasporti, adottato ai sensi dell'articolo 13.
 
@@ -79,7 +259,50 @@ Le caratteristiche della palinatura vengono stabilite secondo quanto previsto da
 
 ## Art. 7. — Delimitazione piste da fondo e altre piste
 
+1.
+                        
+                            
+                                Le piste di fondo preparate, segnalate, controllate e aperte al pubblico sono delimitate lateralmente con apposita palinatura: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lungo i bordi pista che separano tracciati adiacenti con diverso senso di marcia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lungo un bordo pista quando siano tracciate in ambiti scarsamente connotati da elementi naturali.
+
 La palinatura di delimitazione e' realizzata con aste a sezione circolare, prive di spigoli, del colore corrispondente al grado di difficolta' della pista e puo' essere integrata con dischi posti ad intervalli di circa 500 metri recanti la denominazione o la numerazione della pista. La palinatura e' realizzata preferibilmente con materiali biodegradabili.
+
+3.
+                        
+                            
+                                La palinatura puo' essere omessa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei tratti in cui la pista e' delimitata da elementi naturali quali pendii, scarpate a monte, aree boscate o da elementi artificiali quali muri o staccionate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei tratti in cui siano state posizionate, lungo il bordo della pista, reti di protezione o altri elementi di sicurezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei tratti di raccordo o confluenza tra piu' piste.
 
 La palinatura deve essere realizzata in modo tale da consentirne l'agevole rimozione a conclusione della stagione invernale.
 
@@ -87,11 +310,90 @@ Le piste per la slitta o lo slittino sono delimitate come le piste da discesa; l
 
 ## Art. 8. — Requisiti delle piste da sci e dei tratti di raccordo o trasferimento
 
+1.
+                        
+                            
+                                Le piste di discesa possiedono i seguenti requisiti tecnici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    devono essere individuate in zone idrogeologicamente idonee alla pratica degli sport invernali, o comunque in zone protette o vigilate secondo le misure tecniche di sicurezza previste dalle rispettive normative regionali o provinciali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((devono avere una larghezza minima di almeno 15 metri; larghezze inferiori sono ammesse per le piste di raccordo e di collegamento;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    presentano un franco verticale libero, inteso come l'altezza che separa il manto nevoso della pista dai sovrastanti ostacoli, che, in condizioni di normale innevamento, non puo' essere inferiore a 3,50 m, salvo per brevi tratti opportunamente segnalati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se utilizzate come tracciati di raccordo o trasferimento devono avere una larghezza minima proporzionata alla pendenza e comunque non inferiore a 3,50 m.
+
 Per le piste gia' individuate tra le aree sciabili attrezzate alla data di emanazione del presente decreto non rispondenti alle caratteristiche morfologiche di cui al comma 1, i gestori adottano misure compensative di sicurezza attiva, quali reti di protezione, cartelli informativi, segnali di rallentamento e pericolo.
 
 ## Art. 9. — Personale operante nell'area sciabile attrezzata
 
 Il gestore dell'impianto di risalita individua il direttore delle piste. Le funzioni di direttore delle piste possono essere assunte anche dal gestore dell'impianto.
+
+2.
+                        
+                            
+                                Il direttore delle piste: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove, sovrintende e dirige le attivita' di gestione delle piste vigilando sullo stato di sicurezza delle stesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coordina e collabora con il servizio di soccorso sulle piste; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segnala senza indugio al gestore dell'impianto la sussistenza delle situazioni che impongono la chiusura della pista, provvedendovi direttamente in caso di incombente pericolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indica gli interventi di manutenzione ordinaria e straordinaria la cui realizzazione e' necessaria affinche' la pista risulti in sicurezza e ne sovrintende la realizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordina e dirige gli operatori addetti al servizio di soccorso ((, salvo che tale attivita' non sia stata affidata ai soggetti individuati dall'articolo 29, alla Croce Rossa italiana o alla Croce Bianca italiana, mediante specifiche convenzioni)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    predispone un piano di gestione delle emergenze, in caso di pericolo valanghe, sul proprio comprensorio.
 
 Le regioni e le province autonome disciplinano le modalita' di individuazione e formazione del personale di cui al comma 1 ((, sentita la Federazione sportiva nazionale competente in materia di sport invernali riconosciuta dal CONI)).
 
@@ -291,6 +593,87 @@ Quando gli accertamenti qualitativi di cui al comma 2 hanno dato esito positivo 
 
 Le regioni e i comuni possono adottare ulteriori prescrizioni rispetto a quelle di cui al presente capo per garantire la sicurezza e il migliore utilizzo delle piste e degli impianti.
 
+2.
+                        
+                            
+                                Salvo che il fatto non costituisca reato, ai trasgressori si applicano le seguenti sanzioni amministrative pecuniarie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da 100 euro a 250 euro per violazioni delle disposizioni di cui agli articoli 5, 6 e 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da 250 euro a 1.000 euro per violazioni delle disposizioni di cui all'articolo 10, commi 2 e 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da 250 euro a 1.000 euro per violazioni delle disposizioni di cui all'articolo 13; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da 250 euro a 1.000 euro per violazioni delle disposizioni di cui all'articolo 16, comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da 50 euro a 150 euro per violazioni delle disposizioni di cui agli articoli 18, 19, 20, 21, 22; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da 100 euro a 150 euro per violazioni delle disposizioni di cui all'articolo 24; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    da 100 euro a 150 euro per violazioni delle disposizioni di cui all'articolo 25; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    da 100 euro a 150 euro per violazioni delle disposizioni di cui all'articolo 26; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    da 250 euro a 1.000 euro per violazioni delle disposizioni di cui all'articolo 27, comma 1; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    da 100 euro a 150 euro per violazioni delle disposizioni di cui all'articolo 30 oltre al ritiro dello skipass; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    da 250 euro a 1.000 euro per violazioni delle disposizioni di cui all'articolo 31.
+
 Le sanzioni di cui al comma 2 sono irrogate dai soggetti competenti per il controllo e vigilanza di cui all'articolo 29.
 
 In caso di violazioni di particolare gravita' delle condotte vietate dal presente decreto o di reiterate violazioni, i soggetti competenti al controllo provvedono, in aggiunta alla sanzione pecuniaria, al ritiro del titolo di transito giornaliero o alla sospensione dello stesso fino a giorni tre. Al trasgressore e' rilasciato un documento per consentirgli l'utilizzo degli impianti strettamente necessari al rientro presso il suo domicilio. In caso di ulteriore reiterazione delle violazioni, il titolo puo' essere definitivamente ritirato.
@@ -298,6 +681,31 @@ In caso di violazioni di particolare gravita' delle condotte vietate dal present
 ## - Capo IV Normativa a favore delle persone con disabilità
 
 ## Art. 34. — Categorie
+
+1.
+                        
+                            
+                                Gli sciatori con disabilita' si suddividono nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    standing: sciatori che sono in grado di sciare in piedi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sitting: sciatori che stanno seduti utilizzando particolari attrezzature; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasportati: sciatori che hanno necessita' di un accompagnatore.
 
 ## Art. 35. — Accompagnamento
 
@@ -332,6 +740,31 @@ Le regioni, entro il ((30 giugno 2025)), adeguano le proprie normative alle disp
 I gestori delle aree individuate ai sensi dell'articolo 4 e degli impianti di risalita adeguano, entro il ((30 giugno 2025)), gli impianti di risalita e le piste da sci alle prescrizioni stabilite dal presente decreto.
 
 ## Art. 41. — Rinegoziazione concessioni
+
+1.
+                        
+                            
+                                Al fine di adeguarsi alle norme del presente decreto, i soggetti affidatari di impianti sciistici, entro sei mesi dalla data di entrata in vigore del presente decreto, hanno facolta' di sottoporre all'ente affidante una domanda di revisione dei contratti concessori o di partenariato pubblico privato comunque denominati in essere alla data di entrata in vigore del presente decreto, mediante la rideterminazione delle condizioni di equilibrio economico-finanziarie originariamente pattuite, anche attraverso la proroga della durata del rapporto, al fine di consentire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il graduale recupero dei maggiori costi derivanti dall'applicazione delle norme del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'integrale ammortamento degli investimenti effettuati o di quelli programmati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rimborso dell'indebitamento contratto, come eventualmente rimodulato per effetto di eventuali moratorie o agevolazioni concesse da parte degli istituti finanziatori.
 
 La revisione deve consentire la permanenza dei rischi trasferiti in capo all'operatore economico e delle condizioni di equilibrio economico finanziario relative al contratto di concessione. In caso di mancato accordo, le parti possono recedere dal contratto. In tale caso, l'operatore economico ha diritto al rimborso del valore delle opere realizzate piu' gli oneri accessori, al netto degli ammortamenti, ovvero, nel caso in cui l'opera non abbia ancora superato la fase di collaudo, dei costi effettivamente sostenuti dall'operatore economico, nonche' delle penali e degli altri costi sostenuti o da sostenere in conseguenza dello scioglimento del contratto.
 

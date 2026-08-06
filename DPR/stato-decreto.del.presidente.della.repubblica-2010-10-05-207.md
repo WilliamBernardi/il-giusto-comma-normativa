@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2019-04-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -544,6 +544,45 @@ Le fasi di progettazione, affidamento ed esecuzione di ogni singolo intervento s
 
 Il responsabile del procedimento provvede a creare le condizioni affinche' il processo realizzativo dell'intervento risulti condotto in modo unitario in relazione ai tempi e ai costi preventivati, alla qualita' richiesta, alla manutenzione programmata, alla sicurezza e alla salute dei lavoratori ed in conformita' di qualsiasi altra disposizione di legge in materia.
 
+3.
+                        
+                            
+                                Nello svolgimento delle attivita' di propria competenza il responsabile del procedimento formula proposte al dirigente cui e' affidato il programma triennale e fornisce allo stesso dati e informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle fasi di aggiornamento annuale del programma triennale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle fasi di affidamento, di elaborazione ed approvazione del progetto preliminare, definitivo ed esecutivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nelle procedure di scelta del contraente per l'affidamento di appalti e concessioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sul controllo periodico del rispetto dei tempi programmati e del livello di prestazione, qualita' e prezzo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nelle fasi di esecuzione e collaudo dei lavori.
+
 Il responsabile del procedimento e' un tecnico, abilitato all'esercizio della professione o, quando l'abilitazione non sia prevista dalle norme vigenti, e' un funzionario tecnico, anche di qualifica non dirigenziale, con anzianita' di servizio non inferiore a cinque anni. Il responsabile del procedimento puo' svolgere per uno o piu' interventi, nei limiti delle proprie competenze professionali, anche le funzioni di progettista o di direttore dei lavori. Tali funzioni non possono coincidere nel caso di interventi di cui all'articolo 3, comma 1, lettere l) e m), ovvero di interventi di importo superiore a 500.000 euro. Il responsabile del procedimento puo' altresi' svolgere le funzioni di progettista per la predisposizione del progetto preliminare relativo a lavori di importo inferiore alla soglia di cui all'articolo 28, comma 1, lettera c), del codice.
 
 In caso di particolare necessita' per appalti di importo inferiore a 500.000 euro, diversi da quelli definiti ai sensi dell'articolo 3, comma 1, lettera l), le competenze del responsabile del procedimento sono attribuite al responsabile dell'ufficio tecnico o della struttura corrispondente. Ove non sia presente tale figura professionale, le competenze sono attribuite al responsabile del servizio al quale attiene il lavoro da realizzare. 
@@ -559,13 +598,239 @@ In caso di particolare necessita' per appalti di importo inferiore a 500.000 eur
  
  (art. 8, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                Il responsabile del procedimento fra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove e sovrintende agli accertamenti ed alle indagini preliminari idonei a consentire la verifica della fattibilita' tecnica, economica ed amministrativa degli interventi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica in via generale la conformita' ambientale, paesistica, territoriale ed urbanistica degli interventi e promuove l'avvio delle procedure di variante urbanistica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    redige, secondo quanto previsto dall'articolo 93, commi 1 e 2, del codice, il documento preliminare alla progettazione e cura che sia richiesto il codice unico di progetto (CUP) di cui all'articolo 11 della legge 16 gennaio 2003, n. 3, e che lo stesso sia riportato su tutti i documenti amministrativi e contabili concernenti il progetto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accerta e certifica, sulla base degli atti forniti dal dirigente dell'amministrazione aggiudicatrice preposto alla struttura competente, la ricorrenza delle condizioni di cui all'articolo 90, comma 6, del codice, motiva la scelta del metodo di affidamento degli incarichi di natura tecnica, compresa la valutazione di cui all'articolo 91, comma 5, del codice, coordina e verifica la predisposizione dei bandi di gara, nonche' il successivo svolgimento delle relative procedure; verifica l'effettiva possibilita' di svolgere all'interno dell'amministrazione le diverse fasi della progettazione senza l'ausilio di consulenze esterne; in relazione alle caratteristiche e alla dimensione dell'intervento, promuove e definisce, sulla base delle indicazioni del dirigente, le modalita' di verifica dei vari livelli progettuali, le procedure di eventuale affidamento a soggetti esterni e la stima dei corrispettivi, da inserire nel quadro economico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordina le attivita' necessarie al fine della redazione del progetto preliminare, verificando che, nel rispetto del contenuto del documento preliminare alla progettazione, siano indicati gli indirizzi che devono essere seguiti nei successivi livelli di progettazione ed i diversi gradi di approfondimento delle verifiche, delle rilevazioni e degli elaborati richiesti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    coordina le attivita' necessarie alla redazione del progetto definitivo ed esecutivo, verificando che siano rispettate le indicazioni contenute nel documento preliminare alla progettazione e nel progetto preliminare; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    convoca e presiede nelle procedure ristrette e di appalto di progettazione ed esecuzione sulla base del progetto preliminare, ove ne ravvisi la necessita', un incontro preliminare per l'illustrazione del progetto e per consentire osservazioni allo stesso; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    propone alla amministrazione aggiudicatrice i sistemi di affidamento dei lavori; nel caso di procedura negoziata senza pubblicazione di bando promuove la gara informale e garantisce la pubblicita' dei relativi atti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    richiede all'amministrazione aggiudicatrice la nomina della commissione giudicatrice nel caso di affidamento con il criterio dell'offerta economicamente piu' vantaggiosa; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    promuove l'istituzione dell'ufficio di direzione dei lavori ed accerta sulla base degli atti forniti dal dirigente dell'amministrazione aggiudicatrice preposto alla struttura competente, la sussistenza delle condizioni che ai sensi dell'articolo 90, comma 6, del codice giustificano l'affidamento dell'incarico a soggetti esterni alla amministrazione aggiudicatrice; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    accerta e certifica, sulla base degli atti forniti dal dirigente dell'amministrazione aggiudicatrice preposto alla struttura competente, le situazioni di carenza di organico in presenza delle quali le funzioni di collaudatore sono affidate ai sensi dell'articolo 141, comma 4, del codice ai soggetti esterni alla stazione appaltante; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    adotta gli atti di competenza a seguito delle iniziative e delle segnalazioni del coordinatore per l'esecuzione dei lavori sentito il direttore dei lavori; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    effettua, prima dell'approvazione del progetto in ciascuno dei suoi livelli, le necessarie verifiche circa la rispondenza dei contenuti del documento alla normativa vigente, alle indicazioni del documento preliminare e alle disponibilita' finanziarie, nonche' all'esistenza dei presupposti di ordine tecnico ed amministrativo necessari per conseguire la piena disponibilita' degli immobili; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    nel caso di lavori eseguibili per lotti, accerta e attesta: 
+ 1) l'avvenuta redazione, ai fini dell'inserimento nell'elenco annuale, della progettazione preliminare dell'intero lavoro e la sua articolazione per lotti; 
+ 2) la quantificazione, nell'ambito del programma e dei relativi aggiornamenti, dei mezzi finanziari necessari per appaltare l'intero lavoro; 
+ 3) l'idoneita' dei singoli lotti a costituire parte funzionale, fattibile e fruibile dell'intero intervento; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    svolge le attivita' necessarie all'espletamento della conferenza dei servizi, curando gli adempimenti di pubblicita' delle relative deliberazioni ed assicurando l'allegazione del verbale della conferenza tenutasi sul progetto preliminare posto a base delle procedure di appalto di progettazione ed esecuzione sulla base del progetto preliminare e di affidamento della concessione di lavori pubblici; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    svolge la funzione di vigilanza sulla realizzazione dei lavori nella concessione di lavori pubblici, verificando il rispetto delle prescrizioni contrattuali; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    raccoglie, verifica e trasmette all'Osservatorio gli elementi relativi agli interventi di sua competenza anche in relazione a quanto prescritto dall'articolo 7, comma 8, del codice; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    accerta la data di effettivo inizio dei lavori e ogni altro termine di svolgimento dei lavori; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    trasmette agli organi competenti della amministrazione aggiudicatrice sentito il direttore dei lavori, la proposta del coordinatore per l'esecuzione dei lavori di sospensione, allontanamento dell'esecutore o dei subappaltatori o dei lavoratori autonomi dal cantiere o di risoluzione del contratto; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    assicura che ricorrano le condizioni di legge previste per le varianti in corso d'opera; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    irroga le penali per il ritardato adempimento degli obblighi contrattuali, anche sulla base delle indicazioni fornite dal direttore dei lavori; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    accerta e certifica, sulla base degli atti forniti dal dirigente dell'amministrazione aggiudicatrice preposto alla struttura competente, negli interventi l'eventuale presenza delle caratteristiche di cui all'articolo 3, comma 1, lettere l) e m); 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    propone la risoluzione del contratto ogni qual volta se ne realizzino i presupposti; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    propone la transazione e la definizione bonaria delle controversie che insorgono in ogni fase di realizzazione dei lavori; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    svolge, ai sensi dell'articolo 16 del decreto legislativo 9 aprile 2008, n. 81, su delega del soggetto di cui all'articolo 26, comma 3, del predetto decreto legislativo, i compiti previsti nel citato articolo 26, comma 3, qualora non sia prevista la predisposizione del piano di sicurezza e di coordinamento ai sensi del decreto legislativo 9 aprile 2008, n. 81.
+
 Il responsabile del procedimento assume il ruolo di responsabile dei lavori, ai fini del rispetto delle norme sulla sicurezza e salute dei lavoratori sui luoghi di lavoro.
+
+3.
+                        
+                            
+                                Il responsabile del procedimento, nello svolgimento dell'incarico di responsabile dei lavori, salvo diversa indicazione e fermi restando i compiti e le responsabilita' di cui agli articoli 90, 93, comma 2, 99, comma 1, e 101, comma 1, del decreto legislativo 9 aprile 2008, n. 81: 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiede la nomina del coordinatore per la progettazione e del coordinatore per l'esecuzione dei lavori e vigila sulla loro attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede, sentito il direttore dei lavori e il coordinatore per l'esecuzione, a verificare che l'esecutore corrisponda gli oneri della sicurezza, relativi alle prestazioni affidate in subappalto, alle imprese subappaltatrici senza alcun ribasso.
 
 Il responsabile del procedimento svolge i propri compiti con il supporto dei dipendenti dell'amministrazione aggiudicatrice.
 
 Nel caso di inadeguatezza dell'organico, il responsabile del procedimento propone all'amministrazione aggiudicatrice l'affidamento delle attivita' di supporto secondo le procedure e con le modalita' previste dall'articolo 261, commi 4 e 5. Gli affidatari devono essere muniti di assicurazione di responsabilita' civile professionale per i rischi derivanti dallo svolgimento delle attivita' di propria competenza.
 
 Gli affidatari dei servizi di supporto di cui al presente articolo non possono partecipare agli incarichi di progettazione ovvero ad appalti e concessioni di lavori pubblici nonche' a subappalti e cottimi dei lavori pubblici con riferimento ai quali abbiano espletato i propri compiti direttamente o per il tramite di altro soggetto che risulti controllato, controllante o collegato a questi ai sensi dell'articolo 90, comma 8, del codice.
+
+7.
+                        
+                            
+                                Al responsabile del procedimento delle amministrazioni aggiudicatrici si applicano, relativamente ai contratti nei settori ordinari di cui alla parte II, titolo I, del codice ed ad ogni altro contratto di appalto o di concessione che alla normativa propria di tali contratti faccia riferimento, le disposizioni del titolo II, capo V, sezione I, del regio decreto 12 luglio 1934, n. 1214 e quelle di cui al titolo II, capo I e capo II del regio decreto 13 agosto 1933, n. 1038, nonche' l'articolo 2 della legge 14 gennaio 1994, n. 20, in quanto compatibili. Entro sessanta giorni dalla deliberazione di cui all'articolo 234, comma 2, da parte dell'amministrazione aggiudicatrice, in merito al certificato di collaudo il responsabile del procedimento trasmette all'amministrazione aggiudicatrice la documentazione relativa alle fasi della progettazione, dell'affidamento e dell'esecuzione del contratto ed in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contratto, la relazione al conto finale, gli ordinativi di pagamento con gli allegati documenti di svolgimento della spesa a essi relativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione dell'organo di collaudo ed il certificato di collaudo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione relativa agli esiti stragiudiziali, arbitrali o giurisdizionali del contenzioso sulle controversie relative a diritti soggettivi derivanti dall'esecuzione del contratto di cui alla parte IV del codice. 
+ ((16))
 
 ---------------
                             AGGIORNAMENTO (16)
@@ -590,6 +855,102 @@ Gli affidatari dei servizi di supporto di cui al presente articolo non possono p
 
 ## Art. 14. — Studio di fattibilita'
 
+1.
+                        
+                            
+                                Lo studio di fattibilita' si compone di una relazione illustrativa contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le caratteristiche funzionali, tecniche, gestionali, economico-finanziarie dei lavori da realizzare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'analisi delle possibili alternative rispetto alla soluzione realizzativa individuata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la verifica della possibilita' di realizzazione mediante i contratti di partenariato pubblico privato di cui all'articolo 3, comma 15-ter, del codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'analisi dello stato di fatto, nelle sue eventuali componenti architettoniche, geologiche, socio-economiche, amministrative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la descrizione, ai fini della valutazione preventiva della sostenibilita' ambientale e della compatibilita' paesaggistica dell'intervento, dei requisiti dell'opera da progettare, delle caratteristiche e dei collegamenti con il contesto nel quale l'intervento si inserisce, con particolare riferimento alla verifica dei vincoli ambientali, storici, archeologici, paesaggistici interferenti sulle aree o sugli immobili interessati dall'intervento, nonche' l'individuazione delle misure idonee a salvaguardare la tutela ambientale e i valori culturali e paesaggistici.
+
+2.
+                        
+                            
+                                Qualora lo studio di fattibilita' e' posto a base di gara, ai sensi degli articoli 58 e 153 del codice, si compone dei seguenti elaborati, salva diversa motivata determinazione del responsabile del procedimento, anche con riferimento alla loro articolazione, in rapporto alla specifica tipologia e alla dimensione dei lavori da realizzare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione illustrativa generale contenente: 
+ 1. l'inquadramento territoriale e socio-economico dell'area oggetto dell'intervento: 
+ 1.1. corografia, stralcio del piano regolatore generale comunale, verifica della compatibilita' con gli strumenti urbanistici; 
+ 1.2. analisi dell'impatto socio-economico con riferimento al contesto produttivo e commerciale esistenti; 
+ 2. l'analisi della domanda e dell'offerta attuale e di previsione con riferimento: 
+ 2.1. al bacino d'utenza; 
+ 2.2. alla stima dei bisogni dell'utenza mediante utilizzo di parametri fisici riferiti alla specifica tipologia dell'intervento, quali i flussi di traffico e il numero di accessi; 
+ 2.3. all'individuazione, in termini quantitativi e di gradimento, dell'offerta attuale e di quella prevista nei medesimi settori dell'intervento; 
+ 3. l'analisi delle alternative progettuali: 
+ 3.1. individuazione delle alternative progettuali dal punto di vista delle scelte tecnologiche, organizzative e finanziarie; 
+ 3.2. matrice delle alternative progettuali; 
+ 4. lo studio dell'impatto ambientale riferito alla soluzione progettuale individuata e alle possibili soluzioni alternative: 
+ 4.1. analisi sommaria degli aspetti geologici, geotecnici, idraulici, idrogeologici, desunti dalle cartografie disponibili o da interventi gia' realizzati ricadenti nella zona; 
+ 4.2. verifica dei vincoli ambientali, storici, archeologici, paesaggistici interferenti sulle aree o sugli immobili interessati dall'intervento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazione tecnica contenente: 
+ 1. le caratteristiche funzionali e tecniche dei lavori da realizzare; 
+ 2. descrizione, ai fini della valutazione preventiva della sostenibilita' ambientale e della compatibilita' paesaggistica dell'intervento, dei requisiti dell'opera da progettare, delle caratteristiche e dei collegamenti con il contesto nel quale l'intervento si inserisce nonche' delle misure idonee a salvaguardare la tutela ambientale i valori culturali e paesaggistici; 
+ 3. analisi sommaria delle tecniche costruttive e indicazione delle norme tecniche da applicare; 
+ 4. cronoprogramma; 
+ 5. stima sommaria dell'intervento secondo le modalita' di cui all'articolo 22, comma 1, con l'individuazione delle categorie di cui all'allegato A e dei relativi importi, determinati mediante l'applicazione delle quote di incidenza delle corrispondenti lavorazioni rispetto al costo complessivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elaborati progettuali stabiliti dal responsabile del procedimento tra quelli previsti dall'articolo 21; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elaborato tecnico-economico contenente: 
+ 1. la verifica della possibilita' di realizzazione mediante concessione rispetto all'appalto; 
+ 2. analisi della fattibilita' finanziaria (costi e ricavi) con riferimento alla fase di costruzione e, nel caso di concessione, alla fase di gestione; 
+ 3. analisi della fattibilita' economica e sociale (analisi costi-benefici); 
+ 4. schema di sistema tariffario, nel caso di concessione; 
+ 5. elementi essenziali dello schema di contratto. 
+ 
+ ((16))
+
 ---------------
                             AGGIORNAMENTO (16)
                             
@@ -606,9 +967,161 @@ Per ogni intervento, il responsabile del procedimento, in conformita' di quanto 
 
 Al fine di potere effettuare la manutenzione e le eventuali modifiche dell'intervento nel suo ciclo di vita utile, gli elaborati del progetto sono aggiornati in conseguenza delle varianti o delle soluzioni esecutive che si siano rese necessarie, a cura dell'esecutore e con l'approvazione del direttore dei lavori, in modo da rendere disponibili tutte le informazioni sulle modalita' di realizzazione dell'opera o del lavoro.
 
+5.
+                        
+                            
+                                Il responsabile del procedimento redige un documento preliminare all'avvio della progettazione, con allegato ogni atto necessario alla redazione del progetto e recante, in particolare, le seguenti precisazioni di natura procedurale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tipologia di contratto individuata per la realizzazione dell'opera o del lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se per l'appalto si seguira' una procedura aperta, ristretta o negoziata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se il contratto sara' stipulato a corpo o a misura, o parte a corpo e parte a misura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se in relazione alle caratteristiche dell'oggetto del contratto, verra' adottato il criterio di aggiudicazione al prezzo piu' basso o dell'offerta economicamente piu' vantaggiosa;
+
+6.
+                        
+                            
+                                Il documento preliminare, con approfondimenti tecnici e amministrativi graduati in rapporto all'entita', alla tipologia e categoria dell'intervento da realizzare, riporta fra l'altro l'indicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della situazione iniziale e della possibilita' di far ricorso alle tecniche di ingegneria naturalistica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli obiettivi generali da perseguire e delle strategie per raggiungerli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle esigenze e bisogni da soddisfare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle regole e norme tecniche da rispettare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dei vincoli di legge relativi al contesto in cui l'intervento e' previsto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    delle funzioni che dovra' svolgere l'intervento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dei requisiti tecnici che dovra' rispettare; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    degli impatti dell'opera sulle componenti ambientali e, nel caso degli organismi edilizi, delle attivita' ed unita' ambientali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    delle fasi di progettazione da sviluppare e della loro sequenza logica nonche' dei relativi tempi di svolgimento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    dei livelli di progettazione e degli elaborati grafici e descrittivi da redigere; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    dei limiti finanziari da rispettare e della stima dei costi e delle fonti di finanziamento; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    dei possibili sistemi di realizzazione da impiegare.
+
 Nel caso di concorso di progettazione, il documento preliminare e' integrato con i documenti preparatori del concorso stesso, predisposti a cura del responsabile del procedimento; questi propone all'amministrazione aggiudicatrice l'affidamento a soggetti esterni delle attivita' di supporto relative alla predisposizione di tali documenti in caso di carenza in organico di personale tecnico, accertata ai sensi dell'articolo 10, comma 7, del codice. I documenti preparatori sono redatti ai fini di una maggiore corrispondenza della progettazione del concorso all'identificazione e quantificazione dei bisogni dell'amministrazione aggiudicatrice secondo quando previsto dall'articolo 128, comma 1, del codice. I documenti preparatori sono costituiti da approfondimenti degli studi di cui all'articolo 10, comma 1, lettere a) e b), e del documento preliminare di cui ai commi 5 e 6 del presente articolo e definiscono il contenuto del concorso.
 
 I progetti, con le necessarie differenziazioni, in relazione alla loro specificita' e dimensione, sono redatti nel rispetto degli standard dimensionali e di costo ed in modo da assicurare il massimo rispetto e la piena compatibilita' con le caratteristiche del contesto territoriale e ambientale in cui si colloca l'intervento, sia nella fase di costruzione che in sede di gestione.
+
+9.
+                        
+                            
+                                Gli elaborati progettuali prevedono misure atte ad evitare effetti negativi sull'ambiente, sul paesaggio e sul patrimonio storico, artistico ed archeologico in relazione all'attivita' di cantiere ed a tal fine comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno studio della viabilita' di accesso ai cantieri, ed eventualmente la progettazione di quella provvisoria, in modo che siano contenuti l'interferenza con il traffico locale ed il pericolo per le persone e l'ambiente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione degli accorgimenti atti ad evitare inquinamenti del suolo, acustici, idrici ed atmosferici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la localizzazione delle cave eventualmente necessarie e la valutazione sia del tipo e quantita' di materiali da prelevare, sia delle esigenze di eventuale ripristino ambientale finale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo studio e la stima dei costi per la copertura finanziaria per la realizzazione degli interventi di conservazione, protezione e restauro volti alla tutela e salvaguardia del patrimonio di interesse artistico e storico e delle opere di sistemazione esterna.
 
 I progetti sono redatti considerando anche il contesto in cui l'intervento si inserisce in modo che esso non pregiudichi l'accessibilita', l'utilizzo e la manutenzione delle opere, degli impianti e dei servizi esistenti.
 
@@ -664,6 +1177,133 @@ COMMA ABROGATO DAL D.L. 13 MAGGIO 2011, N. 70, CONVERTITO CON MODIFICAZIONI CON 
  
  (art. 18, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                Il progetto preliminare definisce le caratteristiche qualitative e funzionali dei lavori, il quadro delle esigenze da soddisfare e delle specifiche prestazioni da fornire nel rispetto delle indicazioni del documento preliminare alla progettazione; evidenzia le aree impegnate, le relative eventuali fasce di rispetto e le occorrenti misure di salvaguardia, nonche' le specifiche funzionali ed i limiti di spesa delle opere da realizzare, ivi compreso il limite di spesa per gli eventuali interventi e misure compensative dell'impatto territoriale e sociale e per le infrastrutture ed opere connesse, necessarie alla realizzazione. Il progetto preliminare stabilisce i profili e le caratteristiche piu' significative degli elaborati dei successivi livelli di progettazione, in funzione delle dimensioni economiche e della tipologia e categoria dell'intervento, ed e' composto dai seguenti elaborati, salva diversa motivata determinazione del responsabile del procedimento ai sensi dell'articolo 15, comma 3, anche con riferimento alla loro articolazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione illustrativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazione tecnica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    studio di prefattibilita' ambientale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    studi necessari per un'adeguata conoscenza del contesto in cui e' inserita l'opera, corredati da dati bibliografici, accertamenti ed indagini preliminari - quali quelle storiche archeologiche ambientali, topografiche, geologiche, idrologiche, idrauliche, geotecniche e sulle interferenze e relative relazioni ed elaborati grafici - atti a pervenire ad una completa caratterizzazione del territorio ed in particolare delle aree impegnate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    planimetria generale e elaborati grafici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    prime indicazioni e misure finalizzate alla tutela della salute e sicurezza dei luoghi di lavoro per la stesura dei piani di sicurezza con i contenuti minimi di cui al comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    calcolo sommario della spesa; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    quadro economico di progetto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    piano particellare preliminare delle aree o rilievo di massima degli immobili.
+
+2.
+                        
+                            
+                                I contenuti minimi dell'elaborato di cui al comma 1, lettera f), sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'identificazione e la descrizione dell'opera, esplicitata con: 
+ 1) la localizzazione del cantiere e la descrizione del contesto in cui e' prevista l'area di cantiere; 
+ 2) una descrizione sintetica dell'opera, con riferimento alle scelte progettuali preliminari individuate nella relazioni di cui agli articoli 18 e 19; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una relazione sintetica concernente l'individuazione, l'analisi e la valutazione dei rischi in riferimento all'area ed all'organizzazione dello specifico cantiere nonche' alle lavorazioni interferenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le scelte progettuali ed organizzative, le procedure e le misure preventive e protettive, in riferimento all'area di cantiere, all'organizzazione del cantiere, e alle lavorazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la stima sommaria dei costi della sicurezza, determinata in relazione all'opera da realizzare sulla base degli elementi di cui alle lettere da a) a c) secondo le modalita' di cui all'articolo 22, comma 1, secondo periodo.
+
+3.
+                        
+                            
+                                Qualora il progetto debba essere posto a base di gara di un appalto di cui all'articolo 53, comma 2, lettera c), del codice o di una concessione di lavori pubblici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono effettuate, sulle aree interessate dall'intervento, le indagini necessarie quali quelle geologiche, idrologiche, idrauliche, geotecniche, nonche' archeologiche e sulle interferenze e sono redatti le relative relazioni ed elaborati grafici nonche' la relazione tecnica sullo stato di consistenza degli immobili da ristrutturare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' redatto un capitolato speciale descrittivo e prestazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' redatto uno schema di contratto. 
+ L'elaborato di cui al comma 1, lettera f), contenente la stima sommaria dei costi della sicurezza da indicare nel bando di gara, nell'avviso di gara o nella lettera di invito, e' allegato al contratto, ferma restando l'integrazione del contratto con il piano di sicurezza e coordinamento di cui all'articolo 100 del decreto legislativo 9 aprile 2008, n. 81, predisposto a corredo del progetto esecutivo.
+
 Qualora il progetto preliminare e' posto a base di gara per l'affidamento di una concessione di lavori pubblici, deve essere altresi' predisposto un piano economico e finanziario di massima, sulla base del quale sono determinati i criteri di valutazione dell'offerta da inserire nel relativo bando di gara. 
  
  ((16))
@@ -676,6 +1316,53 @@ Qualora il progetto preliminare e' posto a base di gara per l'affidamento di una
 ## Art. 18. — Relazione illustrativa del progetto preliminare 
  
  (art. 19, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                La relazione illustrativa, secondo la tipologia, la categoria e la entita' dell'intervento, salva diversa motivata determinazione del responsabile del procedimento, si articola nei seguenti punti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    scelta delle alternative: riepiloga tutti i dati e le considerazioni sulla base dei quali si e' giunti alla determinazione della soluzione progettuale migliore (soluzione selezionata) riportando altresi', tramite elaborati grafici, le soluzioni progettuali alternative prese in esame; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione puntuale del progetto della soluzione selezionata e indicazioni per la prosecuzione dell'iter progettuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riepilogo degli aspetti economici e finanziari del progetto. 
+ Nel dettaglio: 
+ a) scelta delle alternative: 
+ * descrizione generale corredata da elaborati grafici redatti anche su base cartografica delle soluzioni progettuali analizzate, caratterizzate sotto il profilo funzionale, tecnico (aspetti geologici, geotecnici, idrologici, idrogeologici, di traffico, strutturali, impiantistici, ecc.) e sotto il profilo dell'inserimento ambientale (aspetti urbanistici, archeologici, vincolistici, ecc.);  * illustrazione delle ragioni della soluzione selezionata sotto il profilo localizzativo, funzionale ed economico, nonche' delle problematiche connesse all'inserimento ambientale, alle preesistenze archeologiche e alla situazione complessiva della zona, con riferimento alle altre possibili soluzioni; 
+ ove l'intervento preveda l'adeguamento o l'ampliamento di opere esistenti, il progetto espone chiaramente le caratteristiche dell'opera esistente, le motivazioni che hanno portato a tale scelta e l'esame di possibili alternative anche parziali. 
+ b) progetto della soluzione selezionata: 
+ * descrizione dettagliata della soluzione selezionata; 
+ * esposizione della fattibilita' dell'intervento, documentata anche attraverso i risultati dello studio di prefattibilita' ambientale, ed in particolare: 
+ * l'esito delle indagini geologiche, idrologiche e idrauliche, di traffico, geotecniche ed archeologiche di prima approssimazione delle aree interessate; 
+ * l'esito degli accertamenti in ordine agli eventuali vincoli di natura storica, artistica, archeologica, paesaggistica o di qualsiasi altra natura interferenti sulle aree o sugli immobili interessati; 
+ * aspetti funzionali ed interrelazionali dei diversi elementi del progetto anche in riferimento al quadro delle esigenze e dei bisogni da soddisfare di cui all'articolo 15, comma 6, lettera c); nel caso di opere puntuali, la relazione ne illustra le caratteristiche architettoniche; 
+ * accertamento in ordine alla disponibilita' delle aree ed immobili da utilizzare, alle relative modalita' di acquisizione, ai prevedibili oneri; 
+ * l'accertamento della disponibilita' dei pubblici servizi e delle modalita' dei relativi allacciamenti; 
+ * accertamento in ordine alle interferenze con pubblici servizi presenti lungo il tracciato, la proposta di soluzione ed i prevedibili oneri; 
+ * indirizzi per la redazione del progetto definitivo; 
+ * cronoprogramma delle fasi attuative, con l'indicazione dei tempi massimi di svolgimento delle varie attivita' di progettazione, approvazione, affidamento, esecuzione e collaudo; 
+ * indicazioni su accessibilita', utilizzo e manutenzione delle opere, degli impianti e dei servizi esistenti. 
+ c) aspetti economici e finanziari: 
+ * calcoli estimativi giustificativi della spesa; 
+ * l'eventuale articolazione dell'intervento in stralci funzionali e fruibili, ovvero in tratte funzionali e fruibili per le opere a rete; 
+ * quadro economico; 
+ * sintesi delle forme e fonti di finanziamento per la copertura della spesa; 
+ * risultati del piano economico e finanziario per gare in concessione.
 
 La relazione da' chiara e precisa nozione di quelle circostanze che non possono risultare dai disegni e che hanno influenza sulla scelta e sulla riuscita del progetto. 
  
@@ -690,6 +1377,150 @@ La relazione da' chiara e precisa nozione di quelle circostanze che non possono 
  
  (art. 20, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                La relazione riporta lo sviluppo degli studi tecnici specialistici del progetto ed indica requisiti e prestazioni che devono essere riscontrate nell'intervento. Descrive nel dettaglio le indagini effettuate e la caratterizzazione del progetto dal punto di vista dell'inserimento nel territorio, descrive e motiva le scelte tecniche del progetto. 
+ Salva diversa motivata determinazione del responsabile del procedimento, a titolo indicativo e non esaustivo, si riportano i principali argomenti che devono essere contenuti nella relazione tecnica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    geologia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    geotecnica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sismica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    studio preliminare di inserimento urbanistico e vincoli; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    archeologia: la relazione deve riportare gli sviluppi e gli esiti della verifica preventiva dell'interesse archeologico in sede di progetto preliminare di cui agli articoli 95 e 96 del codice; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    censimento delle interferenze (con le ipotesi di risoluzione delle principali interferenze riscontrate e preventivo di costo); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    piano di gestione delle materie con ipotesi di soluzione delle esigenze di cave e discariche; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    espropri (quantificazione preliminare degli importi); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    architettura e funzionalita' dell'intervento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    strutture ed opere d'arte; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    tracciato plano-altimetrico e sezioni tipo (per opere a rete); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    impianti e sicurezza; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    idrologia; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    idraulica; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    strutture; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    traffico.
+
+2.
+                        
+                            
+                                Salva diversa motivata determinazione del responsabile del procedimento, per interventi di adeguamento/ampliamento di opere esistenti, la relazione tecnica contiene inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dettagliato resoconto sulla composizione, caratteri storici, tipologici e costruttivi, consistenza e stato di manutenzione dell'opera da adeguare/ampliare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la destinazione finale delle zone dismesse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    chiare indicazioni sulle fasi esecutive necessarie per garantire l'esercizio durante la costruzione dell'intervento (se previsto). 
+ 
+ ((16))
+
 ---------------
                             AGGIORNAMENTO (16)
                             
@@ -698,6 +1529,45 @@ La relazione da' chiara e precisa nozione di quelle circostanze che non possono 
 ## Art. 20. — Studio di prefattibilita' ambientale 
  
  (art. 21, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                Lo studio di prefattibilita' ambientale in relazione alla tipologia, categoria e all'entita' dell'intervento e allo scopo di ricercare le condizioni che consentano la salvaguardia nonche' un miglioramento della qualita' ambientale e paesaggistica del contesto territoriale comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la verifica, anche in relazione all'acquisizione dei necessari pareri amministrativi, di compatibilita' dell'intervento con le prescrizioni di eventuali piani paesaggistici, territoriali ed urbanistici sia a carattere generale che settoriale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo studio sui prevedibili effetti della realizzazione dell'intervento e del suo esercizio sulle componenti ambientali e sulla salute dei cittadini; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'illustrazione, in funzione della minimizzazione dell'impatto ambientale, delle ragioni della scelta del sito e della soluzione progettuale prescelta nonche' delle possibili alternative localizzative e tipologiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la determinazione delle misure di compensazione ambientale e degli eventuali interventi di ripristino, riqualificazione e miglioramento ambientale e paesaggistico, con la stima dei relativi costi da inserire nei piani finanziari dei lavori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione delle norme di tutela ambientale che si applicano all'intervento e degli eventuali limiti posti dalla normativa di settore per l'esercizio di impianti, nonche' l'indicazione dei criteri tecnici che si intendono adottare per assicurarne il rispetto.
 
 Nel caso di interventi ricadenti sotto la procedura di valutazione di impatto ambientale, lo studio di prefattibilita' ambientale, contiene le informazioni necessarie allo svolgimento della fase di selezione preliminare dei contenuti dello studio di impatto ambientale. Nel caso di interventi per i quali si rende necessaria la procedura di selezione prevista dalle direttive comunitarie lo studio di prefattibilita' ambientale consente di verificare che questi non possono causare impatto ambientale significativo ovvero deve consentire di identificare misure prescrittive tali da mitigare tali impatti. 
  
@@ -711,6 +1581,84 @@ Nel caso di interventi ricadenti sotto la procedura di valutazione di impatto am
 ## Art. 21. — Elaborati grafici del progetto preliminare 
  
  (art. 22, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                Gli elaborati grafici, redatti in scala opportuna e debitamente quotati, con le necessarie differenziazioni in relazione alla dimensione, alla categoria e alla tipologia dell'intervento, e tenendo conto della necessita' di includere le misure e gli interventi di compensazione ambientale e degli eventuali interventi di ripristino, riqualificazione e miglioramento ambientale e paesaggistico, con la stima dei relativi costi, sono costituiti salva diversa motivata determinazione del responsabile del procedimento in conformita' di quanto disposto dall'articolo 93, comma 2, del codice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per opere e lavori puntuali: 
+ 1) dallo stralcio degli strumenti di pianificazione territoriale e di tutela ambientale e paesaggistica, nonche' degli strumenti urbanistici generali ed attuativi vigenti, sui quali sono indicate la localizzazione dell'intervento da realizzare e le eventuali altre localizzazioni esaminate; 
+ 2) dalle planimetrie con le indicazioni delle curve di livello in scala non inferiore a 1:2.000, sulle quali sono riportati separatamente le opere ed i lavori da realizzare e le altre eventuali ipotesi progettuali esaminate; 
+ 3) dagli elaborati relativi alle indagini e studi preliminari, in scala adeguata alle dimensioni dell'opera in progettazione: 
+ - carta e sezioni geologiche; 
+ - sezioni e profili geotecnici; 
+ - carta archeologica; 
+ - planimetria delle interferenze; 
+ - planimetrie catastali; 
+ - planimetria ubicativa dei siti di cava e di deposito; 
+ 4) dagli schemi grafici e sezioni schematiche nel numero, nell'articolazione e nelle scale necessarie a permettere l'individuazione di massima di tutte le caratteristiche spaziali, tipologiche, funzionali e tecnologiche delle opere e dei lavori da realizzare, integrati da tabelle relative ai parametri da rispettare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per opere e lavori a rete: 
+ 1) dalla corografia generale di inquadramento dell'opera in scala non inferiore a 1:100.000; 
+ 2) dalla corografia contenente l'indicazione dell'andamento planimetrico dei tracciati esaminati con riferimento all'orografia dell'area, al sistema di trasporti e degli altri servizi esistenti, al reticolo idrografico, in scala non inferiore a 1:25.000; 
+ 3) dallo stralcio degli strumenti di pianificazione territoriale e di tutela ambientale e paesaggistica, nonche' degli strumenti urbanistici generali ed attuativi vigenti, sui quali sono indicati i tracciati esaminati. 
+ 4) dalle planimetrie con le indicazioni delle curve di livello, in scala non inferiore a 1:10.000, sulle quali sono riportati separatamente i tracciati esaminati; 
+ 5) dalle planimetrie su foto mosaico, in scala non inferiore a 1:10.000, sulle quali sono riportati separatamente i tracciati esaminati; 
+ 6) dai profili longitudinali altimetrici dei tracciati esaminati in scala non inferiore a 1:10.000/1000; 
+ 7) dagli elaborati relativi alle indagini e studi preliminari, ed in particolare: 
+ - carta e sezioni geologiche, geomorfologiche e idrogeologiche in scala non inferiore a 1:10.000/1000; 
+ - planimetria idraulica in scala non inferiore a 1:10.000; 
+ - sezioni geotecniche con indicazione delle unita' stratigrafiche omogenee sotto il profilo fisico-meccanico, delle principali grandezze fisiche e proprieta' indice, nonche' del regime delle pressioni interstiziali nel volume significativamente interessato dall'opera in scala non inferiore a 1:5.000/500; 
+ - carta archeologica in scala non inferiore a 1:25.000; 
+ - planimetria delle interferenze in scala non inferiore a 1:10.000; 
+ - corografia in scala non inferiore a 1:25.000 con l'ubicazione dei siti di cava e di deposito; 
+ - planimetria dei siti di cava e di deposito in scala non inferiore a 1:10.000; 
+ - sistemazione tipo aree di deposito; 
+ 8) dalle planimetrie con le indicazioni delle curve di livello, in scala non inferiore a 1:5.000, per il tracciato selezionato; la scala non dovra' essere inferiore a 1:2.000 per le tratte in area urbana. La planimetria dovra' contenere una rappresentazione del corpo stradale, ferroviario o idraulico e degli sviluppi di tutti gli assi di progetto, calcolati in base alle caratteristiche geometriche assunte. Dovranno essere rappresentate le caratteristiche geometriche del tracciato e le opere d'arte principali; 
+ 9) dalle planimetrie su foto mosaico, in scala non inferiore a 1:5.000, del tracciato selezionato; 
+ 10) dai profili longitudinali altimetrici delle opere e dei lavori da realizzare in scala non inferiore a 1:5.000/500, contenenti l'indicazione di tutte le opere d'arte previste, le intersezioni con reti di trasporto, di servizi e/o idrologiche, le caratteristiche geometriche del tracciato; per le tratte in area urbana la scala non dovra' essere inferiore a 1:2000/200; 
+ 11) da sezioni tipo idriche, stradali, ferroviarie e simili in scala non inferiore ad 1:200 nonche' uguali sezioni per le eventuali altre ipotesi progettuali esaminate; 
+ 12) da sezioni trasversali correnti, in numero adeguato per una corretta valutazione preliminare delle quantita' da utilizzare nella quantificazione dei costi dell'opera; 
+ 13) da elaborati che consentano, mediante piante, prospetti e sezioni in scala adeguata, la definizione di tutti i manufatti speciali che l'intervento richiede; 
+ 14) da elaborati che riassumono i criteri di sicurezza previsti per l'esercizio dell'infrastruttura; 
+ 15) da elaborati tipologici che consentano, mediante piante, prospetti e sezioni in scala adeguata, la definizione di tutte le opere correnti e minori che l'intervento richiede; 
+ 16) da elaborati che consentano, mediante schemi, piante e sezioni in scala adeguata, la definizione delle componenti impiantistiche presenti nel progetto. 
+ I valori minimi delle scale contenuti nel presente comma possono essere variati su indicazione del responsabile del procedimento.
+
+2.
+                        
+                            
+                                Nel caso in cui il progetto preliminare venga posto a base di appalto di cui all'articolo 53, comma 2, lettera c), del codice, gli elaborati da porre a base di gara comprendono tutte le informazioni necessarie per consentire ai concorrenti di formulare le offerte, ed in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i rilievi plano altimetrici delle aree e lo stato di consistenza delle opere da ristrutturare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli elaborati grafici a corredo delle relazioni geologica, idrologica e geotecnica delle aree, di cui all'articolo 17, comma 3, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli elaborati grafici a corredo del piano di sicurezza e di coordinamento.
 
 Sia per le opere ed i lavori puntuali che per le opere ed i lavori a rete, il progetto preliminare puo' specificare gli elaborati e le relative scale da adottare in sede di progetto definitivo ed esecutivo, secondo quanto previsto nei successivi articoli. Le planimetrie e gli elaborati grafici riportano le indicazioni preliminari relative al soddisfacimento delle esigenze di cui all'articolo 128, comma 7, del codice. 
  
@@ -729,6 +1677,45 @@ Il calcolo sommario della spesa e' effettuato, per quanto concerne le opere o i 
 
 Il quadro economico, articolato secondo quanto previsto all'articolo 16, comprende, oltre all'importo per lavori determinato nel calcolo sommario della spesa, gli oneri della sicurezza non soggetti a ribasso, determinati in base alla stima sommaria di cui all'articolo 17, comma 2, lettera d), e le somme a disposizione della stazione appaltante, determinate attraverso valutazioni effettuate in sede di accertamenti preliminari.
 
+3.
+                        
+                            
+                                Nel caso di concessione, il quadro economico e' accompagnato da specifico allegato relativo al piano economico di massima di copertura della spesa e della connessa gestione, con l'indicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'arco temporale prescelto secondo quanto disposto dall'articolo 143, commi 6 e 8, del codice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'eventuale prezzo che l'amministrazione prevede di riconoscere per consentire al concessionario di perseguire l'equilibrio economico e finanziario, secondo quanto previsto dall'articolo 143, comma 4, del codice; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della eventuale cessione in proprieta' o a titolo di godimento, a titolo di prezzo, dei beni da indicare in conformita' di quanto disposto dall'articolo 143, comma 5, del codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dei conseguenti oneri a carico del concessionario, da porre a base di gara; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dei costi della sicurezza dedotti dal piano di sicurezza.
+
 Nel caso di appalti di cui all'articolo 53, comma 2, lettere b) e c), del codice, o di concessione, nella parte del quadro economico relativa ai lavori va indicato l'importo delle spese di progettazione valutate conformemente al disposto di cui all'articolo 262, comma 2. 
  
  ((16))
@@ -741,6 +1728,31 @@ Nel caso di appalti di cui all'articolo 53, comma 2, lettere b) e c), del codice
 ## Art. 23. — Capitolato speciale descrittivo e prestazionale del progetto preliminare 
  
  (art. 24, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                Il capitolato speciale prestazionale contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione delle necessita' funzionali, dei requisiti e delle specifiche prestazioni che dovranno essere presenti nell'intervento in modo che questo risponda alle esigenze della stazione appaltante e degli utilizzatori, nel rispetto delle rispettive risorse finanziarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la specificazione delle opere generali e delle eventuali opere specializzate comprese nell'intervento con i relativi importi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una tabella dei criteri e sub-criteri in cui l'intervento e' suddivisibile, necessaria per l'applicazione della metodologia di determinazione dell'offerta economicamente piu' vantaggiosa.
 
 Ai fini di quanto previsto dall'articolo 17, comma 3, qualora il progetto preliminare sia posto a base di gara ai sensi dell'articolo 53, comma 2, lettera c), del codice, o di una concessione di lavori pubblici, il capitolato speciale descrittivo e prestazionale, redatto in conformita' di quanto disposto dall'articolo 43, comma 3, costituisce allegato allo schema di contratto di cui al comma 2 dello stesso articolo. 
  
@@ -757,6 +1769,101 @@ Ai fini di quanto previsto dall'articolo 17, comma 3, qualora il progetto prelim
 
 Il progetto definitivo, redatto sulla base delle indicazioni del progetto preliminare approvato e di quanto emerso in sede di eventuale conferenza di servizi, contiene tutti gli elementi necessari ai fini dei necessari titoli abilitativi, dell'accertamento di conformita' urbanistica o di altro atto equivalente; inoltre sviluppa gli elaborati grafici e descrittivi nonche' i calcoli ad un livello di definizione tale che nella successiva progettazione esecutiva non si abbiano significative differenze tecniche e di costo.
 
+2.
+                        
+                            
+                                Esso comprende i seguenti elaborati, salva diversa motivata determinazione del responsabile del procedimento ai sensi dell'articolo 15, comma 3, anche con riferimento alla loro articolazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazioni tecniche e relazioni specialistiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rilievi planoaltimetrici e studio dettagliato di inserimento urbanistico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elaborati grafici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    studio di impatto ambientale ove previsto dalle vigenti normative ovvero studio di fattibilita' ambientale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    calcoli delle strutture e degli impianti secondo quanto specificato all'articolo 28, comma 2, lettere h) ed i); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    disciplinare descrittivo e prestazionale degli elementi tecnici; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    censimento e progetto di risoluzione delle interferenze; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    piano particellare di esproprio; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    elenco dei prezzi unitari ed eventuali analisi; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    computo metrico estimativo; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    aggiornamento del documento contenente le prime indicazioni e disposizioni per la stesura dei piani di sicurezza; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    quadro economico con l'indicazione dei costi della sicurezza desunti sulla base del documento di cui alla lettera n).
+
 Quando il progetto definitivo e' posto a base di gara ai sensi dell'articolo 53, comma 2, lettera b), del codice ferma restando la necessita' della previa acquisizione della positiva valutazione di impatto ambientale se richiesta, in sostituzione del disciplinare di cui all'articolo 30, il progetto e' corredato dello schema di contratto e del capitolato speciale d'appalto redatti con le modalita' indicate all'articolo 43 nonche' del piano di sicurezza e di coordinamento di cui all'articolo 100 del decreto legislativo 9 aprile 2008, n. 81, sulla base del quale determinare il costo della sicurezza, nel rispetto dell'allegato XV del decreto legislativo 9 aprile 2008, n. 81. Lo schema di contratto prevede, inoltre, che il concorrente debba indicare, al momento dell'offerta, la sede di redazione del progetto esecutivo, nonche' i tempi della progettazione esecutiva e le modalita' di controllo, da parte del responsabile del procedimento, del rispetto delle indicazioni del progetto definitivo, anche ai fini di quanto disposto dall'articolo 112, comma 3, del codice. 
  
  ((16))
@@ -772,6 +1879,75 @@ Quando il progetto definitivo e' posto a base di gara ai sensi dell'articolo 53,
 
 La relazione fornisce i chiarimenti atti a dimostrare la rispondenza del progetto alle finalita' dell'intervento, il rispetto del prescritto livello qualitativo, dei conseguenti costi e dei benefici attesi.
 
+2.
+                        
+                            
+                                In particolare la relazione salva diversa motivata determinazione del responsabile del procedimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    descrive, con espresso riferimento ai singoli punti della relazione illustrativa del progetto preliminare, i criteri utilizzati per le scelte progettuali, gli aspetti dell'inserimento dell'intervento sul territorio, le caratteristiche prestazionali e descrittive dei materiali prescelti, nonche' i criteri di progettazione delle strutture e degli impianti, in particolare per quanto riguarda la sicurezza, la funzionalita' e l'economia di gestione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riferisce in merito a tutti gli aspetti riguardanti la geologia, la topografia, l'idrologia, le strutture e la geotecnica; riferisce, inoltre, in merito agli aspetti riguardanti le interferenze, gli espropri, il paesaggio, l'ambiente e gli immobili di interesse storico, artistico ed archeologico che sono stati esaminati e risolti in sede di progettazione attraverso lo studio di fattibilita' ambientale, di cui all'articolo 27; in particolare riferisce di tutte le indagini e gli studi integrativi di quanto sviluppato in sede di progetto preliminare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indica le eventuali cave e discariche autorizzate e in esercizio, che possono essere utilizzate per la realizzazione dell'intervento con la specificazione della capacita' complessiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indica le soluzioni adottate per il superamento delle barriere architettoniche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    riferisce in merito all'idoneita' delle reti esterne dei servizi atti a soddisfare le esigenze connesse all'esercizio dell'intervento da realizzare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    riferisce in merito alla verifica sulle interferenze delle reti aeree e sotterranee con i nuovi manufatti ed al progetto della risoluzione delle interferenze medesime; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    attesta la rispondenza al progetto preliminare ed alle eventuali prescrizioni dettate in sede di approvazione dello stesso; contiene le motivazioni che hanno indotto il progettista ad apportare variazioni alle indicazioni contenute nel progetto preliminare; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    riferisce in merito alle eventuali opere di abbellimento artistico o di valorizzazione architettonica; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    riferisce in merito ai criteri ed agli elaborati che dovranno comporre il progetto esecutivo; riferisce inoltre in merito ai tempi necessari per la redazione del progetto esecutivo e per la realizzazione dell'opera eventualmente aggiornando i tempi indicati nel cronoprogramma del progetto preliminare. 
+ 
+ ((16))
+
 ---------------
                             AGGIORNAMENTO (16)
                             
@@ -780,6 +1956,84 @@ La relazione fornisce i chiarimenti atti a dimostrare la rispondenza del progett
 ## Art. 26. — Relazioni tecniche e specialistiche del progetto definitivo 
  
  (artt. 27 e 28, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                A completamento di quanto contenuto nella relazione generale, il progetto definitivo deve comprendere, salva diversa motivata determinazione del responsabile del procedimento, almeno le seguenti relazioni tecniche, sviluppate - anche sulla base di indagini integrative di quelle eseguite per il progetto preliminare - ad un livello di definizione tale che nella successiva progettazione esecutiva non si abbiano significative differenze tecniche e di costo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione geologica: comprende, sulla base di specifiche indagini geologiche, la identificazione delle formazioni presenti nel sito, lo studio dei tipi litologici, della struttura e dei caratteri fisici del sottosuolo, definisce il modello geologico del sottosuolo, illustra e caratterizza gli aspetti stratigrafici, strutturali, idrogeologici, geomorfologici, nonche' il conseguente livello di pericolosita' geologica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazioni idrologica e idraulica: riguardano lo studio delle acque meteoriche, superficiali e sotterranee. Illustra inoltre i calcoli preliminari relativi al dimensionamento dei manufatti idraulici. Gli studi devono indicare le fonti dalle quali provengono gli elementi elaborati ed i procedimenti usati nella elaborazione per dedurre le grandezze di interesse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relazione sulle strutture: descrive le tipologie strutturali e gli schemi e modelli di calcolo. In zona sismica, definisce l'azione sismica tenendo anche conto delle condizioni stratigrafiche e topografiche, coerentemente con i risultati delle indagini e delle elaborazioni riportate nella relazione geotecnica. Definisce i criteri di verifica da adottare per soddisfare i requisiti di sicurezza previsti dalla normativa tecnica vigente, per la costruzione delle nuove opere o per gli interventi sulle opere esistenti. Per tali ultimi interventi la relazione sulle strutture e' integrata da una specifica relazione inerente la valutazione dello stato di fatto dell'immobile, basata su adeguate indagini relative ai materiali ed alle strutture, che pervenga a valutare la sicurezza del manufatto anche in relazione allo stato di eventuali dissesti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    relazione geotecnica: definisce, alla luce di specifiche indagini, scelte in funzione del tipo di opera e delle modalita' costruttive, il modello geotecnico del volume del terreno influenzato, direttamente o indirettamente, dalla costruzione del manufatto e che a sua volta influenzera' il comportamento del manufatto stesso. Illustra inoltre i procedimenti impiegati per le verifiche geotecniche, per tutti gli stati limite previsti dalla normativa tecnica vigente, che si riferiscono al rapporto del manufatto con il terreno, e i relativi risultati. Per le costruzioni in zona sismica e nei casi per i quali sia necessario svolgere specifiche analisi della risposta sismica locale, la relazione geotecnica deve comprendere l'illustrazione delle indagini effettuate a tal fine, dei procedimenti adottati e dei risultati ottenuti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    relazione archeologica: approfondisce e aggiorna i dati presenti nel progetto preliminare, anche sulla base di indagini dirette, per le aree ad elevato rischio archeologico, da concordare con gli enti preposti alla tutela; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    relazione tecnica delle opere architettoniche: individua le principali criticita' e le soluzioni adottate, descrive le tipologie e le soluzioni puntuali di progetto e le motivazioni delle scelte; descrive le caratteristiche funzionali delle opere; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    relazione tecnica impianti: descrive i diversi impianti presenti nel progetto, motivando le soluzioni adottate; individua e descrive il funzionamento complessivo della componente impiantistica e gli elementi interrelazionali con le opere civili; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    relazione che descrive la concezione del sistema di sicurezza per l'esercizio e le caratteristiche del progetto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    relazione sulla gestione delle materie: descrizione dei fabbisogni di materiali da approvvigionare da cava, al netto dei volumi reimpiegati, e degli esuberi di materiali di scarto, provenienti dagli scavi; individuazione delle cave per approvvigionamento delle materie e delle aree di deposito per lo smaltimento delle terre di scarto; descrizione delle soluzioni di sistemazione finali proposte; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    relazione sulle interferenze: prevede, ove necessario ed in particolare per le opere a rete, il controllo ed il completamento del censimento delle interferenze e degli enti gestori gia' fatto in sede di progetto preliminare. 
+ Il progetto definitivo prevede inoltre, per ogni interferenza, la specifica progettazione della risoluzione, con definizione dei relativi costi e tempi di esecuzione e deve, quindi, contenere almeno i seguenti elaborati: 
+ 1) planimetria con individuazione di tutte le interferenze (scala non inferiore a 1:2000), contenente i risultati della ricerca e censimento di tutte le interferenze. 
+ 2) relazione giustificativa della risoluzione delle singole interferenze; 
+ 3) progetto dell'intervento di risoluzione della singola interferenza: per ogni sottoservizio interferente dovranno essere redatti degli specifici progetti di risoluzione dell'interferenza stessa.
 
 Ove la progettazione implichi la soluzione di ulteriori questioni specialistiche, queste formano oggetto di apposite relazioni che definiscono le problematiche e indicano le soluzioni da adottare in sede di progettazione esecutiva. 
  
@@ -812,9 +2066,213 @@ Esso contiene tutte le informazioni necessarie al rilascio delle prescritte auto
 
 Gli elaborati grafici descrivono le principali caratteristiche dell'intervento da realizzare. Essi sono redatti nelle opportune scale in relazione al tipo di opera o di lavoro, puntuale o a rete, da realizzare, ad un livello di definizione tale che nella successiva progettazione esecutiva non si abbiano significative differenze tecniche e di costo.
 
+2.
+                        
+                            
+                                Per gli edifici, i grafici sono costituiti, salva diversa motivata indicazione del progetto preliminare e salva diversa determinazione del responsabile del procedimento, da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stralcio dello strumento urbanistico generale o attuativo con l'esatta indicazione dell'area interessata all'intervento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    planimetria d'insieme in scala non inferiore a 1:500, con le indicazioni delle curve di livello dell'area interessata all'intervento, con equidistanza non superiore a cinquanta centimetri, delle strade, della posizione, sagome e distacchi delle eventuali costruzioni confinanti e delle eventuali alberature esistenti con la specificazione delle varie essenze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    planimetria in scala non inferiore a 1:500 con l'ubicazione delle indagini geologiche; planimetria in scala non inferiore a 1:200, in relazione alla dimensione dell'intervento, con indicazione delle indagini geotecniche e sezioni, nella stessa scala, che riportano il modello geotecnico del sottosuolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    planimetria in scala non inferiore a 1:200, in relazione alla dimensione dell'intervento, corredata da due o piu' sezioni atte ad illustrare tutti i profili significativi dell'intervento, anche in relazione al terreno, alle strade ed agli edifici circostanti, prima e dopo la realizzazione, nella quale risultino precisati la superficie coperta di tutti i corpi di fabbrica. Tutte le quote altimetriche relative sia al piano di campagna originario sia alla sistemazione del terreno dopo la realizzazione dell'intervento, sono riferite ad un caposaldo fisso. La planimetria riporta la sistemazione degli spazi esterni indicando le recinzioni, le essenze arboree da porre a dimora e le eventuali superfici da destinare a parcheggio; e' altresi' integrata da una tabella riassuntiva di tutti gli elementi geometrici del progetto: superficie dell'area, volume dell'edificio, superficie coperta totale e dei singoli piani e ogni altro utile elemento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le piante dei vari livelli, nella scala prescritta dai regolamenti edilizi o da normative specifiche e comunque non inferiore a 1:100 con l'indicazione delle destinazioni d'uso, delle quote planimetriche e altimetriche e delle strutture portanti. Le quote altimetriche sono riferite al caposaldo di cui alla lettera d) ed in tutte le piante sono indicate le linee di sezione di cui alla lettera f); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un numero adeguato di sezioni, trasversali e longitudinali nella scala prescritta da regolamenti edilizi o da normative specifiche e comunque non inferiore a 1:100, con la misura delle altezze nette dei singoli piani, dello spessore dei solai e della altezza totale dell'edificio. In tali sezioni e' altresi' indicato l'andamento del terreno prima e dopo la realizzazione dell'intervento, lungo le sezioni stesse, fino al confine ed alle eventuali strade limitrofe. Tutte le quote altimetriche sono riferite allo stesso caposaldo di cui alla lettera d); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    tutti i prospetti, a semplice contorno, nella scala prescritta da normative specifiche e comunque non inferiore a 1:100 completi di riferimento alle altezze e ai distacchi degli edifici circostanti, alle quote del terreno e alle sue eventuali modifiche. Se l'edificio e' adiacente ad altri fabbricati, i disegni dei prospetti comprendono anche quelli schematici delle facciate adiacenti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    elaborati grafici nella diversa scala prescritta da normative specifiche e comunque non inferiore a 1:100 atti ad illustrare il progetto strutturale nei suoi aspetti fondamentali, in particolare per quanto riguarda le fondazioni; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    schemi funzionali e dimensionamento di massima dei singoli impianti, sia interni che esterni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    planimetrie e sezioni in scala non inferiore a 1:100, in cui sono riportati i tracciati principali delle reti impiantistiche esterne e la localizzazione delle centrali dei diversi apparati, con l'indicazione del rispetto delle vigenti norme in materia di sicurezza, in modo da poterne determinare il relativo costo.
+
 Le prescrizioni di cui al comma 2 valgono anche per gli altri lavori ed opere puntuali per quanto possibile e con gli opportuni adattamenti.
 
 Per interventi su opere esistenti, gli elaborati indicano, con idonea rappresentazione grafica, le parti conservate, quelle da demolire e quelle nuove.
+
+5.
+                        
+                            
+                                Per i lavori e le opere a rete gli elaborati grafici sono costituiti, salva diversa indicazione del progetto preliminare e salva diversa motivata determinazione del responsabile del procedimento, da: 
+ elaborati generali - studi e indagini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stralcio dello strumento urbanistico generale o attuativo con l'esatta indicazione dei tracciati dell'intervento. Se sono necessari piu' stralci e' redatto anche un quadro d'insieme in scala non inferiore a 1:25.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corografia di inquadramento 1:25.000; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    corografia generale in scala non inferiore a 1:10.000; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    planimetria ubicazione indagini geologiche in scala non inferiore a 1:5.000. Planimetria con ubicazione delle indagini geotecniche e sezioni geotecniche nelle stesse scale indicate nelle successive lettere da o) a r); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    carta geologica in scala non inferiore a 1:5.000; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    carta geomorfologica in scala non inferiore a 1:5.000; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    carta idrogeologica in scala non inferiore a 1:5.000; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    profilo geologico in scala non inferiore a 1:5.000/500; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    profilo geotecnico in scala non inferiore a 1:5.000/500; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    corografia dei bacini in scala non inferiore a 1:25.000; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    planimetrie stato attuale in scala non inferiore a 1:5.000; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    planimetrie di insieme in scala non inferiore a 1:5.000; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    planimetrie stradali, ferroviarie e idrauliche con le indicazioni delle curve di livello, in scala non inferiore a 1:2.000 (1:1000 per le tratte in area urbana). La planimetria dovra' contenere una rappresentazione del corpo stradale, ferroviario o idraulico. Il corpo stradale dovra' essere rappresentato in ogni sua parte (scarpate, opere di sostegno, fossi di guardia, opere idrauliche, reti di recinzione, fasce di rispetto), allo scopo di determinare esattamente l'ingombro dell'infrastruttura. Dovranno inoltre essere rappresentate le caratteristiche geometriche del tracciato e le opere d'arte; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    profili longitudinali altimetrici delle opere e dei lavori da realizzare in scala non inferiore 1:200 per le altezze e 1:2.000 per le lunghezze, contenenti l'indicazione di tutte le opere d'arte previste, le intersezioni con reti di trasporto, di servizi e idrologiche, le caratteristiche geometriche del tracciato; per le tratte in area urbana la scala non dovra' essere inferiore a 1:100 per le altezze e 1:1000 per le lunghezze; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    sezioni tipo stradali, ferroviarie, idriche e simili in scala non inferiore ad 1:100; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    sezioni trasversali correnti, in numero e scala adeguati comunque non inferiori a 1:200 per una corretta valutazione delle quantita' e dei costi; 
+ opere d'arte: 
+ a) planimetria, pianta, prospetto, sezioni longitudinale e trasversale, atte a descrivere l'opera nel complesso e in tutte le sue componenti strutturali; 
+ b) profilo geotecnico in scala adeguata alle caratteristiche dell'opera; 
+ c) carpenterie in scala non inferiore a 1:100; 
+ d) disegni complessivi delle opere accessorie in scala adeguata;  interventi di inserimento paesaggistico e ambientale: 
+ a) planimetria generale in scala non inferiore a 1:5.000; 
+ b) elaborati tipologici per i diversi interventi di mitigazione;  impianti: 
+ a) schemi funzionali e dimensionamento preliminare dei singoli impianti; 
+ b) planimetrie e sezioni in scala adeguata, in cui sono riportati i tracciati principali delle reti impiantistiche e la localizzazione delle centrali dei diversi apparati, con l'indicazione del rispetto delle vigenti norme in materia di sicurezza, in modo da poterne determinare il relativo costo; 
+ c) sezioni tipo stradali, ferroviarie o idrauliche con le differenti componenti impiantistiche; 
+ siti di cava e di deposito: 
+ a) planimetria rappresentativa dei siti di cave e di deposito in scala non inferiore a 1:5000 nelle situazioni anteriori e posteriori agli interventi; 
+ b) sistemazione finale del singolo sito in scala adeguata.
 
 Per ogni opera e lavoro, indipendentemente dalle tipologie e categorie, gli elaborati grafici del progetto definitivo comprendono le opere ed i lavori necessari per il rispetto delle esigenze di cui all'articolo 15, commi 9 e 11.
 
@@ -884,11 +2342,173 @@ Se l'incarico di acquisire l'area su cui insiste l'intervento da realizzare e' a
 
 Il computo metrico estimativo viene redatto applicando alle quantita' delle lavorazioni i prezzi unitari riportati nell'elaborato elenco dei prezzi unitari. Tali prezzi sono dedotti dai vigenti prezzari della stazione appaltante nel rispetto di quanto disposto dall'articolo 133, comma 8, del codice, o, in mancanza della corrispondente voce nei prezzari, dai listini ufficiali vigenti nell'area interessata. Quando il progetto definitivo e' posto a base di gara ai sensi dell'articolo 53, comma 2, lettera b), del codice, le quantita' totali delle singole lavorazioni sono ricavate da computi di quantita' parziali, con indicazione puntuale dei corrispondenti elaborati grafici; le singole lavorazioni, risultanti dall'aggregazione delle rispettive voci dedotte dal computo metrico estimativo, sono poi raggruppate, in sede di redazione dello schema di contratto e del bando di gara, ai fini della definizione dei gruppi di categorie ritenute omogenee di cui all'articolo 3, comma 1, lettera s). Tale aggregazione avviene in forma tabellare con riferimento alle specifiche parti di opere cui le aliquote si riferiscono.
 
+2.
+                        
+                            
+                                Per eventuali voci mancanti il relativo prezzo viene determinato mediante analisi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    applicando alle quantita' di materiali, mano d'opera, noli e trasporti, necessari per la realizzazione delle quantita' unitarie di ogni voce, i rispettivi prezzi elementari dedotti da listini ufficiali o dai listini delle locali camere di commercio ovvero, in difetto, dai prezzi correnti di mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aggiungendo ulteriormente una percentuale variabile tra il tredici e diciassette per cento, a seconda della importanza, della natura, della durata e di particolari esigenze dei singoli lavori, per spese generali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aggiungendo infine una percentuale del dieci per cento per utile dell'esecutore.
+
 In relazione alle specifiche caratteristiche dell'intervento il computo metrico estimativo puo' prevedere le somme da accantonare per eventuali lavorazioni in economia, da prevedere nel contratto d'appalto o da inserire nel quadro economico tra quelle a disposizione della stazione appaltante.
+
+4.
+                        
+                            
+                                Per spese generali comprese nel prezzo dei lavori e percio' a carico dell'esecutore, si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese di contratto ed accessorie e l'imposta di registro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli oneri finanziari generali e particolari, ivi comprese la cauzione definitiva o la garanzia globale di esecuzione, ove prevista, e le polizze assicurative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la quota delle spese di organizzazione e gestione tecnico-amministrativa di sede dell'esecutore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la gestione amministrativa del personale di cantiere e la direzione tecnica di cantiere; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le spese per l'impianto, la manutenzione, l'illuminazione e il ripiegamento finale dei cantieri, ivi inclusi i costi per la utilizzazione di aree diverse da quelle poste a disposizione dal committente; sono escluse le spese relative alla sicurezza nei cantieri stessi non assoggettate a ribasso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le spese per trasporto di qualsiasi materiale o mezzo d'opera; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le spese per attrezzi e opere provvisionali e per quanto altro occorre alla esecuzione piena e perfetta dei lavori; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le spese per rilievi, tracciati, verifiche, esplorazioni, capisaldi e simili che possono occorrere, anche su motivata richiesta del direttore dei lavori o del responsabile del procedimento o dell'organo di collaudo, dal giorno in cui comincia la consegna fino all'emissione del certificato di collaudo provvisorio o all'emissione del certificato di regolare esecuzione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le spese per le vie di accesso al cantiere, l'istallazione e l'esercizio delle attrezzature e dei mezzi d'opera di cantiere; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le spese per idonei locali e per la necessaria attrezzatura da mettere a disposizione per l'ufficio di direzione lavori; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le spese per passaggio, per occupazioni temporanee e per risarcimento di danni per abbattimento di piante, per depositi od estrazioni di materiali; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le spese per la custodia e la buona conservazione delle opere fino all'emissione del certificato di collaudo provvisorio o all'emissione del certificato di regolare esecuzione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    le spese di adeguamento del cantiere in osservanza del decreto legislativo 9 aprile 2008, n. 81, di cui e' indicata la quota di incidenza sul totale delle spese generali, ai fini degli adempimenti previsti dall'articolo 86, comma 3-bis, del codice; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    gli oneri generali e particolari previsti dal capitolato speciale di appalto.
 
 L'elaborazione del computo metrico dell'intervento puo' essere effettuata anche attraverso programmi di gestione informatizzata; se la progettazione e' affidata a progettisti esterni, i programmi devono essere preventivamente accettati dalla stazione appaltante.
 
 Il risultato del computo metrico estimativo e delle espropriazioni confluisce in un quadro economico redatto secondo lo schema di cui all'articolo 16.
+
+7.
+                        
+                            
+                                Le varie voci di lavoro del computo metrico estimativo vanno aggregate secondo le rispettive categorie di appartenenza, generali e specializzate, allo scopo di rilevare i rispettivi importi, in relazione ai quali individuare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la categoria prevalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le categorie scorporabili di importo superiore al dieci per cento dell'importo totale dei lavori oppure a 150.000 euro e subappaltabili a scelta del concorrente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'ambito delle categorie suddette, quelle di cui all'articolo 37, comma 11, del codice, definite strutture, impianti ed opere speciali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quelle ricadenti nel sopra indicato comma 11 che superano il quindici per cento. 
+ Il responsabile del procedimento trasmette l'elaborato riportante gli esiti dell'aggregazione, verificato dallo stesso responsabile del procedimento ai sensi di quanto disposto dall'articolo 53, comma 2, lettera f), punto 9, all'ufficio competente della stazione appaltante per la redazione del bando di gara. 
+ 
+ ((16))
 
 ---------------
                             AGGIORNAMENTO (16)
@@ -898,6 +2518,89 @@ Il risultato del computo metrico estimativo e delle espropriazioni confluisce in
 ## Art. 33. — Documenti componenti il progetto esecutivo 
  
  (art. 35, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                Il progetto esecutivo costituisce la ingegnerizzazione di tutte le lavorazioni e, pertanto, definisce compiutamente ed in ogni particolare architettonico, strutturale ed impiantistico l'intervento da realizzare. Restano esclusi soltanto i piani operativi di cantiere, i piani di approvvigionamenti, nonche' i calcoli e i grafici relativi alle opere provvisionali. Il progetto e' redatto nel pieno rispetto del progetto definitivo nonche' delle prescrizioni dettate nei titoli abilitativi o in sede di accertamento di conformita' urbanistica, o di conferenza di servizi o di pronuncia di compatibilita' ambientale, ove previste. Il progetto esecutivo e' composto dai seguenti documenti, salva diversa motivata determinazione del responsabile del procedimento ai sensi dell'articolo 15, comma 3, anche con riferimento alla loro articolazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazioni specialistiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elaborati grafici comprensivi anche di quelli delle strutture, degli impianti e di ripristino e miglioramento ambientale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    calcoli esecutivi delle strutture e degli impianti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    piano di manutenzione dell'opera e delle sue parti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    piano di sicurezza e di coordinamento di cui all'articolo 100 del decreto legislativo 9 aprile 2008, n. 81, e quadro di incidenza della manodopera; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    computo metrico estimativo e quadro economico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    cronoprogramma; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    elenco dei prezzi unitari e eventuali analisi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    schema di contratto e capitolato speciale di appalto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    piano particellare di esproprio. 
+ 
+ ((16))
 
 ---------------
                             AGGIORNAMENTO (16)
@@ -940,6 +2643,66 @@ Le relazioni contengono l'illustrazione di tutte le problematiche esaminate e de
  
  (art. 38, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                Gli elaborati grafici esecutivi, eseguiti con i procedimenti piu' idonei, sono costituiti, salva diversa motivata determinazione del responsabile del procedimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dagli elaborati che sviluppano nelle scale ammesse o prescritte, tutti gli elaborati grafici del progetto definitivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dagli elaborati che risultino necessari all'esecuzione delle opere o dei lavori sulla base degli esiti, degli studi e di indagini eseguite in sede di progettazione esecutiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dagli elaborati di tutti i particolari costruttivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dagli elaborati atti ad illustrare le modalita' esecutive di dettaglio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dagli elaborati di tutte le lavorazioni che risultano necessarie per il rispetto delle prescrizioni disposte dagli organismi competenti in sede di approvazione dei progetti preliminari, definitivi o di approvazione di specifici aspetti dei progetti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dagli elaborati di tutti i lavori da eseguire per soddisfare le esigenze di cui all'articolo 15, comma 9; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dagli elaborati atti a definire le caratteristiche dimensionali, prestazionali e di assemblaggio dei componenti prefabbricati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dagli elaborati che definiscono le fasi costruttive assunte per le strutture.
+
 Gli elaborati sono redatti in modo tale da consentire all'esecutore una sicura interpretazione ed esecuzione dei lavori in ogni loro elemento. 
  
  ((16))
@@ -963,7 +2726,57 @@ La progettazione esecutiva delle strutture e degli impianti e' effettuata unitam
 
 I calcoli delle strutture e degli impianti, comunque eseguiti, sono accompagnati da una relazione illustrativa dei criteri e delle modalita' di calcolo che ne consentano una agevole lettura e verificabilita'.
 
+6.
+                        
+                            
+                                Il progetto esecutivo delle strutture comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli elaborati grafici di insieme (carpenterie, profili e sezioni) in scala non inferiore ad 1:50, e gli elaborati grafici di dettaglio in scala non inferiore ad 1:10, contenenti fra l'altro: 
+ 1) per le strutture in cemento armato o in cemento armato precompresso: i tracciati dei ferri di armatura con l'indicazione delle sezioni e delle misure parziali e complessive, nonche' i tracciati delle armature per la precompressione; resta esclusa soltanto la compilazione delle distinte di ordinazione a carattere organizzativo di cantiere; 
+ 2) per le strutture metalliche o lignee: tutti i profili e i particolari relativi ai collegamenti, completi nella forma e spessore delle piastre, del numero e posizione di chiodi e bulloni, dello spessore, tipo, posizione e lunghezza delle saldature; resta esclusa soltanto la compilazione dei disegni di officina e delle relative distinte pezzi; 
+ 3) per le strutture murarie: tutti gli elementi tipologici e dimensionali atti a consentirne l'esecuzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione di calcolo contenente: 
+ 1) l'indicazione delle norme di riferimento; 
+ 2) la specifica della qualita' e delle caratteristiche meccaniche dei materiali e delle modalita' di esecuzione qualora necessarie; 
+ 3) l'analisi dei carichi per i quali le strutture sono state dimensionate; 
+ 4) le verifiche statiche.
+
 Nelle strutture che si identificano con l'intero intervento, quali ponti, viadotti, pontili di attracco, opere di sostegno delle terre e simili, il progetto esecutivo deve essere completo dei particolari esecutivi di tutte le opere integrative.
+
+8.
+                        
+                            
+                                Il progetto esecutivo degli impianti comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli elaborati grafici di insieme, in scala ammessa o prescritta e comunque non inferiore ad 1:50, e gli elaborati grafici di dettaglio, in scala non inferiore ad 1:10, con le notazioni metriche necessarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elencazione descrittiva particolareggiata delle parti di ogni impianto con le relative relazioni di calcolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la specificazione delle caratteristiche funzionali e qualitative dei materiali, macchinari ed apparecchiature.
 
 I valori minimi delle scale contenuti nel presente articolo possono essere variati su motivata indicazione del responsabile del procedimento. 
  
@@ -980,10 +2793,145 @@ I valori minimi delle scale contenuti nel presente articolo possono essere varia
 
 Il piano di manutenzione e' il documento complementare al progetto esecutivo che prevede, pianifica e programma, tenendo conto degli elaborati progettuali esecutivi effettivamente realizzati, l'attivita' di manutenzione dell'intervento al fine di mantenerne nel tempo la funzionalita', le caratteristiche di qualita', l'efficienza ed il valore economico.
 
+2.
+                        
+                            
+                                Il piano di manutenzione assume contenuto differenziato in relazione all'importanza e alla specificita' dell'intervento, ed e' costituito dai seguenti documenti operativi, salvo diversa motivata indicazione del responsabile del procedimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il manuale d'uso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il manuale di manutenzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il programma di manutenzione.
+
 Il manuale d'uso si riferisce all'uso delle parti significative del bene, ed in particolare degli impianti tecnologici.
 Il manuale contiene l'insieme delle informazioni atte a permettere all'utente di conoscere le modalita' per la migliore utilizzazione del bene, nonche' tutti gli elementi necessari per limitare quanto piu' possibile i danni derivanti da un'utilizzazione impropria, per consentire di eseguire tutte le operazioni atte alla sua conservazione che non richiedono conoscenze specialistiche e per riconoscere tempestivamente fenomeni di deterioramento anomalo al fine di sollecitare interventi specialistici.
 
+4.
+                        
+                            
+                                Il manuale d'uso contiene le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la collocazione nell'intervento delle parti menzionate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rappresentazione grafica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di uso corretto.
+
 Il manuale di manutenzione si riferisce alla manutenzione delle parti significative del bene ed in particolare degli impianti tecnologici. Esso fornisce, in relazione alle diverse unita' tecnologiche, alle caratteristiche dei materiali o dei componenti interessati, le indicazioni necessarie per la corretta manutenzione nonche' per il ricorso ai centri di assistenza o di servizio.
+
+6.
+                        
+                            
+                                Il manuale di manutenzione contiene le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la collocazione nell'intervento delle parti menzionate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rappresentazione grafica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione delle risorse necessarie per l'intervento manutentivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il livello minimo delle prestazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le anomalie riscontrabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le manutenzioni eseguibili direttamente dall'utente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le manutenzioni da eseguire a cura di personale specializzato.
+
+7.
+                        
+                            
+                                Il programma di manutenzione si realizza, a cadenze prefissate temporalmente o altrimenti prefissate, al fine di una corretta gestione del bene e delle sue parti nel corso degli anni. Esso si articola in tre sottoprogrammi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il sottoprogramma delle prestazioni, che prende in considerazione, per classe di requisito, le prestazioni fornite dal bene e dalle sue parti nel corso del suo ciclo di vita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il sottoprogramma dei controlli, che definisce il programma delle verifiche comprendenti, ove necessario, anche quelle geodetiche, topografiche e fotogrammetriche, al fine di rilevare il livello prestazionale (qualitativo e quantitativo) nei successivi momenti della vita del bene, individuando la dinamica della caduta delle prestazioni aventi come estremi il valore di collaudo e quello minimo di norma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il sottoprogramma degli interventi di manutenzione, che riporta in ordine temporale i differenti interventi di manutenzione, al fine di fornire le informazioni per una corretta conservazione del bene.
 
 In conformita' di quanto disposto all'articolo 15, comma 4, il programma di manutenzione, il manuale d'uso ed il manuale di manutenzione redatti in fase di progettazione, in considerazione delle scelte effettuate dall'esecutore in sede di realizzazione dei lavori e delle eventuali varianti approvate dal direttore dei lavori, che ne ha verificato validita' e rispondenza alle prescrizioni contrattuali, sono sottoposte a cura del direttore dei lavori medesimo al necessario aggiornamento, al fine di rendere disponibili, all'atto della consegna delle opere ultimate, tutte le informazioni necessarie sulle modalita' per la relativa manutenzione e gestione di tutte le sue parti, delle attrezzature e degli impianti.
 
@@ -1051,6 +2999,40 @@ Il computo metrico estimativo del progetto esecutivo costituisce l'integrazione 
 
 Il computo metrico estimativo viene redatto applicando alle quantita' delle lavorazioni, dedotte dagli elaborati grafici del progetto esecutivo, i prezzi dell'elenco di cui all'articolo 41. Le quantita' totali delle singole lavorazioni sono ricavate da dettagliati computi di quantita' parziali, con indicazione puntuale dei corrispondenti elaborati grafici. Le singole lavorazioni, risultanti dall'aggregazione delle rispettive voci dedotte dal computo metrico estimativo, sono poi raggruppate, in sede di redazione dello schema di contratto e del bando di gara, ai fini della definizione dei gruppi di categorie ritenute omogenee di cui all'articolo 3, comma 1, lettera s). Tale aggregazione avviene in forma tabellare con riferimento alle specifiche parti di opere cui le aliquote si riferiscono.
 
+3.
+                        
+                            
+                                Nel quadro economico, redatto secondo l'articolo 16, confluiscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il risultato del computo metrico estimativo dei lavori, comprensivi delle opere di cui all'articolo 15, comma 9, nonche' l'importo degli oneri della sicurezza non soggetti a ribasso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'accantonamento in misura non superiore al dieci per cento per imprevisti e per eventuali lavori in economia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo dei costi di acquisizione o di espropriazione di aree o immobili, come da piano particellare allegato al progetto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutti gli ulteriori costi relativi alle varie voci riportate all'articolo 16. 
+ 
+ ((16))
+
 ---------------
                             AGGIORNAMENTO (16)
                             
@@ -1062,7 +3044,92 @@ Schema di contratto e capitolato speciale d'appalto
  
  artt. 45 e 42, comma 4, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                Lo schema di contratto contiene, per quanto non disciplinato dal presente regolamento e dal capitolato generale, se menzionato nel bando o nell'invito, le clausole dirette a regolare il rapporto tra stazione appaltante ed esecutore, in relazione alle caratteristiche dell'intervento con particolare riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    termini di esecuzione e penali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    programma di esecuzione dei lavori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sospensioni o riprese dei lavori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    oneri a carico dell'esecutore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    contabilizzazione dei lavori a misura e a corpo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    liquidazione dei corrispettivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    controlli; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    specifiche modalita' e termini di collaudo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    modalita' di soluzione delle controversie.
+
 Allo schema di contratto e' allegato il capitolato speciale, che riguarda le prescrizioni tecniche da applicare all'oggetto del singolo contratto.
+
+3.
+                        
+                            
+                                Il capitolato speciale d'appalto e' diviso in due parti, l'una contenente la descrizione delle lavorazioni e l'altra la specificazione delle prescrizioni tecniche; esso illustra in dettaglio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella prima parte tutti gli elementi necessari per una compiuta definizione tecnica ed economica dell'oggetto dell'appalto, anche ad integrazione degli aspetti non pienamente deducibili dagli elaborati grafici del progetto esecutivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella seconda parte le modalita' di esecuzione e le norme di misurazione di ogni lavorazione, i requisiti di accettazione di materiali e componenti, le specifiche di prestazione e le modalita' di prove nonche', ove necessario, in relazione alle caratteristiche dell'intervento, l'ordine da tenersi nello svolgimento di specifiche lavorazioni; nel caso in cui il progetto prevede l'impiego di componenti prefabbricati, ne vanno precisate le caratteristiche principali, descrittive e prestazionali, la documentazione da presentare in ordine all'omologazione e all'esito di prove di laboratorio nonche' le modalita' di approvazione da parte del direttore dei lavori, sentito il progettista, per assicurarne la rispondenza alle scelte progettuali.
 
 Nel caso di interventi complessi di cui all'articolo 3, comma 1, lettera l), il capitolato contiene, altresi', l'obbligo per l'esecutore di redigere un documento (piano di qualita' di costruzione e di installazione), da sottoporre alla approvazione della direzione dei lavori, che prevede, pianifica e programma le condizioni, sequenze, modalita', strumentazioni, mezzi d'opera e fasi delle attivita' di controllo da svolgersi nella fase esecutiva. Il piano definisce i criteri di valutazione dei fornitori e dei materiali ed i criteri di valutazione e risoluzione delle non conformita'.
 
@@ -1269,6 +3336,61 @@ La composizione e la struttura organizzativa delle SOA deve assicurare, anche in
 
 Le SOA devono dichiarare e adeguatamente documentare, entro quindici giorni dal loro verificarsi, le eventuali circostanze che possano implicare la presenza di interessi idonei ad influire sul requisito dell'indipendenza.
 
+6.
+                        
+                            
+                                Non possono svolgere attivita' di attestazione le SOA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che si trovano in stato di fallimento, liquidazione, concordato preventivo, o qualsiasi altra situazione equivalente secondo la legislazione vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che sono soggette a procedimento per la dichiarazione di una di tali situazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che non sono in regola con gli obblighi fiscali, contributivi ed assistenziali previsti dalla vigente legislazione o abbiano commesso gravi violazioni debitamente accertate delle norme in materia di sicurezza e degli obblighi derivanti dai rapporti di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualora nei confronti dei propri amministratori, legali rappresentanti, soci diretti o indiretti, direttori tecnici e del personale di cui all'articolo 67, comma 2, sia pendente un procedimento per l'applicazione di una delle misure di prevenzione prevista dall'articolo 3 della legge 27 dicembre 1956 n. 1423, o sussista una delle cause ostative previste dell'articolo 10 della legge 31 maggio 1965 n. 575, ovvero nei cui confronti sia stato emanato un provvedimento da cui derivi il divieto di contrarre con la pubblica amministrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualora nei confronti dei propri amministratori, legali rappresentanti, i soci diretti o indiretti, o i direttori tecnici e del personale di cui all'articolo 67, comma 2, sia stata pronunciata sentenza di condanna passata in giudicato, ovvero di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale per qualsiasi reato che incida sulla affidabilita' morale o professionale, o per delitti finanziari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualora gli amministratori, i legali rappresentanti, i soci diretti o indiretti, i direttori tecnici e il personale di cui all'articolo 67, comma 2, si siano resi responsabili di errore professionale grave formalmente accertato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    qualora gli amministratori, i legali rappresentanti, i soci diretti o indiretti, i direttori tecnici e il personale di cui all'articolo 67, comma 2, abbiano reso false dichiarazioni o fornito falsa documentazione in merito alle informazioni loro richieste o all'assenza di situazioni idonee a pregiudicare il requisito dell'indipendenza o abbiano utilizzato con dolo o colpa grave documentazione dell'impresa, di cui agli articoli 78 e 79, non veritiera. 
+ 
+ (16)
+
 ---------------
                             AGGIORNAMENTO (16)
                             
@@ -1317,6 +3439,31 @@ L'Autorita' puo' negare l'autorizzazione alla partecipazione azionaria della SOA
  
  (art. 9, d.P.R. n. 34/2000)
 
+1.
+                        
+                            
+                                L'organico minimo delle SOA e' costituito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da un direttore tecnico laureato in ingegneria, o in architettura, abilitato all'esercizio della professione da almeno dieci anni, iscritto, al momento dell'attribuzione dell'incarico, al relativo albo professionale, assunto a tempo indeterminato e a tempo pieno, dotato di adeguata esperienza almeno quinquennale nel settore dei lavori pubblici maturata in posizione di responsabilita' direttiva, nell'attivita' di controllo tecnico dei cantieri (organizzazione, qualita', avanzamento lavori, costi) o di valutazione della capacita' economico - finanziaria delle imprese in relazione al loro portafoglio ordini, ovvero nella attivita' di certificazione della qualita'; il medesimo direttore tecnico deve dichiarare, nelle forme previste dalle vigenti leggi, di non svolgere analogo incarico presso altre SOA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da tre laureati, di cui uno in ingegneria o architettura, uno in giurisprudenza ed uno in economia e commercio, assunti a tempo indeterminato e a tempo pieno, in possesso di esperienza professionale almeno triennale attinente al settore dei lavori pubblici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da sei dipendenti, in possesso almeno del diploma di scuola media superiore, assunti a tempo indeterminato e a tempo pieno.
+
 Il personale delle SOA nonche' i soggetti che svolgono funzioni di amministrazione, direzione e controllo nelle SOA, nonche' i soggetti che svolgono attivita' in maniera diretta o indiretta in nome e per conto delle SOA, devono possedere i requisiti morali previsti dall'articolo 64, comma 6.
 
 Il venire meno dei requisiti di cui all'articolo 64, comma 6, determina la decadenza dalla carica per i soggetti che svolgono funzioni di amministrazione, direzione e controllo nelle SOA; essa e' dichiarata dagli organi sociali delle SOA entro quindici giorni dalla conoscenza del fatto; la SOA, nei successivi quindici giorni dalla dichiarazione di decadenza, informa l'Autorita'.
@@ -1337,6 +3484,59 @@ Le SOA devono disporre di attrezzatura informatica per la comunicazione delle in
  (art. 10, commi 1, 2, 3, e 4 d.P.R. n. 34/2000)
 
 Lo svolgimento da parte delle SOA dell'attivita' di attestazione della qualificazione ai sensi del presente titolo e' subordinato alla autorizzazione dell'Autorita'.
+
+2.
+                        
+                            
+                                La SOA presenta istanza di autorizzazione, corredata dai seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'atto costitutivo e lo statuto sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elencazione della compagine sociale e la dichiarazione circa eventuali situazioni di controllo o di collegamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'organigramma della SOA, comprensivo del curriculum dei soggetti che ne fanno parte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la dichiarazione del legale rappresentante, nei modi e con le forme previsti dalle vigenti leggi, circa l'inesistenza delle situazioni previste dall'articolo 64, comma 6, in capo alla SOA, ai suoi amministratori, legali rappresentanti o direttori tecnici e del personale di cui all'articolo 67, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    certificato del casellario giudiziale relativo agli amministratori, legali rappresentanti, direttori tecnici e del personale di cui all'articolo 67, comma 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un documento contenente la descrizione delle procedure che, conformemente a quanto stabilito dall'Autorita', saranno utilizzate per l'esercizio dell'attivita' di attestazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    una polizza assicurativa stipulata con impresa di assicurazione autorizzata alla copertura del rischio cui si riferisce l'obbligo, per la copertura delle responsabilita' conseguenti all'attivita' svolta, avente massimale non inferiore a sei volte il volume di affari prevedibile.
 
 L'Autorita' ai fini istruttori puo' chiedere ulteriori informazioni ed integrazioni alla documentazione fornita dalla SOA istante, e conclude il procedimento entro il termine di sessanta giorni dal ricevimento dell'istanza. Il tempo necessario all'Autorita' per acquisire le richieste integrazioni non si computa nel termine.
 
@@ -1367,6 +3567,59 @@ L'Autorita', sulla base delle attestazioni trasmesse dalle SOA ai sensi dell'art
  
  (art. 12, d.P.R. n. 34/2000)
 
+1.
+                        
+                            
+                                Nello svolgimento della propria attivita' le SOA devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comportarsi con diligenza, correttezza e trasparenza, nel rispetto dei principi di cui all'articolo 2 del codice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquisire le informazioni necessarie dai soggetti da qualificare ed operare in modo da assicurare adeguata informazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agire in modo da garantire imparzialita' ed equo trattamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicurare e mantenere l'indipendenza richiesta dalle disposizioni del codice e dal presente titolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disporre di risorse e procedure, anche di controllo interno, idonee ad assicurare efficienza e correttezza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    verificare la veridicita' e la sostanza delle dichiarazioni, delle certificazioni e delle documentazioni, di cui agli articoli 78 e 79, presentate dai soggetti cui rilasciare l'attestato, nonche' il permanere del possesso dei requisiti di cui all'articolo 78; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rilasciare l'attestazione di qualificazione conformemente alla documentazione prodotta dall'impresa e verificata ai sensi della lettera f).
+
 Nello svolgimento della propria attivita' di valutazione e verifica della qualificazione, le SOA acquisiscono i dati di carattere economico-finanziario, quali i bilanci nonche' le informazioni sulle variazioni organizzative e sulle trasformazioni della natura giuridica delle imprese, anche dalla banca dati della camera di commercio, industria e artigianato.
 
 Per l'espletamento delle loro attivita' istituzionali le SOA non possono ricorrere a prestazioni di soggetti esterni alla loro organizzazione aziendale. Le SOA sono comunque responsabili di ogni attivita' espletata in maniera diretta e indiretta in nome e per conto delle stesse.
@@ -1389,6 +3642,45 @@ Le SOA comunicano all'Autorita', entro il termine di dieci giorni, l'avvio del p
 ## Art. 71. — Vigilanza dell'Autorita' 
  
  (artt. 14 e 16 d.P.R. n. 34/2000)
+
+1.
+                        
+                            
+                                L'Autorita', ai sensi dell'articolo 6, comma 7, lettera m), del codice, vigila sul sistema di qualificazione, e a tale fine, anche effettuando ispezioni, anche senza preavviso, o richiedendo qualsiasi documento ritenesse necessario, controlla che le SOA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    operino secondo le procedure, anche di controllo interno, presentate in sede di richiesta di autorizzazione ed approvate dall'Autorita' stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbiano un comportamento che elimini qualsiasi possibilita' di conflitti di interesse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rilascino le attestazioni nel pieno rispetto dei requisiti stabiliti nell'articolo 63, e nel capo III del presente titolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    applichino le tariffe di cui all'allegato C - parte I; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgano la propria attivita' conformemente a quanto previsto dall'articolo 70.
 
 I poteri di vigilanza e di controllo dell'Autorita', ai fini di quanto previsto dal comma 1, sono esercitati anche su motivata e documentata istanza di una impresa ovvero di una SOA o di una stazione appaltante. Sull'istanza di verifica l'Autorita', disposti i necessari accertamenti anche a mezzo dei propri uffici e sentita l'impresa sottoposta a verifica, provvede entro sessanta giorni nei modi e con gli effetti previsti dal comma 3.
 
@@ -1419,6 +3711,163 @@ L'Autorita' controlla le determinazioni assunte dalle SOA in merito ai contratti
 Sospensione e decadenza dell'autorizzazione all'esercizio dell'attivita' di attestazione 
  
 (art. 7, comma 9, art. 10, commi 5, 6, 8, 9, e 10, d.P.R. n. 34/2000)
+
+1.
+                        
+                            
+                                Alle SOA si applica la sanzione amministrativa pecuniaria prevista dall'articolo 6, comma 11, del codice, fino ad un massimo di euro 25.822, in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancata risposta alle richieste dell'Autorita' ai sensi degli articoli 65, comma 1, e 66, comma 4, nel termine indicato dall'Autorita' stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancata comunicazione di cui agli articoli 64, comma 5, 65, comma 2, 67, commi 3 e 4, 70, comma 7, 74, comma 4, e 83, comma 6, nei termini ivi previsti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    violazione degli obblighi di comunicazione e trasmissione della documentazione di cui al comma 8 del presente articolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    violazione degli obblighi di conservazione della documentazione, di cui all'articolo 40, comma 9-bis, primo periodo, del codice.
+
+2.
+                        
+                            
+                                Alle SOA si applica la sanzione amministrativa pecuniaria prevista dall'articolo 6, comma 11, del codice, fino ad un massimo di 51.545 euro in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasmissione di informazioni, dati ovvero atti non veritieri, compresi i documenti forniti dall'impresa in sede di attestazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolgimento dell'attivita' della SOA in modo non conforme alle disposizioni previste dall'articolo 70, commi 1 e 2, e alle procedure contenute nel documento di cui all'articolo 68, comma 2, lettera f); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mancato rispetto delle condizioni previste dall'articolo 71, comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    invio di comunicazioni inesatte o non veritiere, ovvero trasmissione di documentazione inesatta o non veritiera, in relazione agli obblighi di cui al comma 8; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    inadempimento per quanto previsto all'articolo 77, comma 3; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    inadempimento a quanto previsto all'articolo 83, comma 7; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    inadempimento per quanto previsto dall'articolo 8, comma 7, lettere d), g) e h);
+
+3.
+                        
+                            
+                                In aggiunta alla sanzione pecuniaria, in caso di violazioni commesse, secondo valutazione da parte dell'Autorita', con dolo o colpa grave, si applica la sanzione della sospensione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per un periodo fino a centoventi giorni, in caso di piu' violazioni di cui al comma 1, o di nuova violazione di cui al comma 1 dopo una precedente sanzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per un periodo fino a duecentoquaranta giorni, in caso di piu' violazioni di cui ai commi 1 e 2, o di nuova violazione del comma 2 dopo una precedente sanzione per violazioni di cui al comma 1, o viceversa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per un periodo fino ad un anno, in caso di piu' violazioni di cui al comma 2, o di nuova violazione di cui al comma 2 dopo una precedente sanzione. 
+ Si applica la sanzione della decadenza in caso di nuova violazione dopo una precedente sospensione, se il periodo di sospensione da irrogare per la nuova violazione, cumulato con quella precedente, sia pari o superiore a trecentosessanta giorni, nonche' nel caso di nuova violazione dopo quattro sanzioni che abbiano comportato la sospensione per un periodo complessivamente superiore a centoventi giorni.
+
+4.
+                        
+                            
+                                E' disposta la decadenza dell'autorizzazione, oltre ai casi di cui al comma 3, in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    venire meno dei requisiti e delle condizioni di cui agli articoli 64, 65, 66, 67 e 70, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancato inizio dell'attivita' sociale entro centottanta giorni dalla autorizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    interruzione dell'attivita' per piu' di centottanta giorni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    inosservanza delle disposizioni di cui al comma 8, primo periodo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    inosservanza delle disposizioni impartite con il provvedimento di sospensione di cui al comma 3; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    inosservanza delle disposizioni di cui all'articolo 85, commi 1 e 2.
 
 Il procedimento per l'irrogazione delle sanzioni di cui ai commi 1, 2 e 3, e quello di decadenza di cui al comma 4, e' iniziato d'ufficio dall'Autorita', quando viene a conoscenza dell'esistenza, anche a seguito di denuncia di terzi interessati, del verificarsi di una delle circostanze di cui ai commi da 1 a 4. A tal fine l'Autorita' contesta alla SOA gli addebiti, invitandola a presentare le proprie controdeduzioni ed eventuale documentazione entro un termine perentorio non superiore a trenta giorni, e adotta il pertinente provvedimento entro i successivi novanta giorni.
 
@@ -1560,9 +4009,91 @@ Le SOA non rilasciano l'attestazione di qualificazione ai soggetti che, ai fini 
 ## Art. 79. — Requisiti di ordine speciale 
  (art. 18, d.P.R. n. 34/2000)
 
+1.
+                        
+                            
+                                I requisiti d'ordine speciale occorrenti per la qualificazione sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguata capacita' economica e finanziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adeguata idoneita' tecnica e organizzativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adeguata dotazione di attrezzature tecniche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adeguato organico medio annuo.
+
+2.
+                        
+                            
+                                La adeguata capacita' economica e finanziaria e' dimostrata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da idonee referenze bancarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla cifra di affari, determinata secondo quanto previsto all'articolo 83, realizzata con lavori svolti mediante attivita' diretta ed indiretta non inferiore al cento per cento degli importi delle qualificazioni richieste nelle varie categorie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    limitatamente ai soggetti tenuti alla redazione del bilancio, dal patrimonio netto, costituito dal totale della lettera A del passivo di cui all'articolo 2424 del codice civile, riferito all'ultimo bilancio depositato, di valore positivo.
+
 La cifra di affari in lavori relativa all'attivita' diretta e' comprovata: da parte delle ditte individuali, delle societa' di persone, dei consorzi di cooperative, dei consorzi tra imprese artigiane e dei consorzi stabili con le dichiarazioni annuali IVA e con le relative ricevute di presentazione da parte delle societa' di capitale con i bilanci riclassificati in conformita' delle direttive europee e con le relative note di deposito.
 
 La cifra di affari in lavori relativa alla attivita' indiretta e' attribuita in proporzione alle quote di partecipazione dell'impresa richiedente ai consorzi di cui all'articolo 34, comma 1, lettere e) ed f), del codice, e alle societa' fra imprese riunite dei quali l'impresa stessa fa parte, nel caso in cui questi abbiano fatturato direttamente alla stazione appaltante e non abbiano ricevuto fatture per lavori eseguiti da parte di soggetti consorziati. La cifra di affari in lavori relativa alla attivita' indiretta e' comprovata con i bilanci riclassificati in conformita' delle direttive europee e le relative note di deposito o con le dichiarazioni annuali IVA e relative ricevute di presentazione qualora i soggetti partecipati non siano obbligati alla redazione e deposito dei bilanci.
+
+5.
+                        
+                            
+                                La adeguata idoneita' tecnica e' dimostrata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la presenza di idonea direzione tecnica secondo quanto previsto dall'articolo 87; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'esecuzione di lavori, realizzati in ciascuna delle categorie oggetto della richiesta, di importo non inferiore al novanta per cento di quello della classifica richiesta; l'importo e' determinato secondo quanto previsto dall'articolo 82; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'esecuzione di un singolo lavoro, in ogni singola categoria oggetto della richiesta, di importo non inferiore al quaranta per cento dell'importo della qualificazione richiesta, ovvero, in alternativa, di due lavori, nella stessa singola categoria, di importo complessivo non inferiore al cinquantacinque per cento dell'importo della qualificazione richiesta, ovvero, in alternativa, di tre lavori, nella stessa singola categoria, di importo complessivo, non inferiore al sessantacinque per cento dell'importo della qualificazione richiesta; gli importi sono determinati secondo quanto previsto dall'articolo 83.
 
 L'esecuzione dei lavori e' documentata dai certificati di esecuzione dei lavori previsti dagli articoli 83, comma 4, e 84 indicati dall'impresa e acquisiti dalla SOA ai sensi dell'articolo 40, comma 3, lettera b), del codice, nonche' secondo quanto previsto dall'articolo 86.
 
@@ -1614,6 +4145,39 @@ Per ottenere la qualificazione nelle categorie OS 13, OS 18-A, OS 18-B e OS 32, 
 ## Art. 80. — Incremento convenzionale premiante 
  
  (art. 19, d.P.R. n. 34/2000)
+
+1.
+                        
+                            
+                                Qualora l'impresa, oltre al possesso del sistema di qualita' di cui all'articolo 59, presenti almeno tre dei seguenti requisiti ed indici economico finanziari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    patrimonio netto, costituito dal totale della lettera A del passivo dello stato patrimoniale di cui all'articolo 2424 del codice civile dell'ultimo bilancio approvato, pari o superiore al cinque per cento della cifra di affari media annuale richiesta ai fini di cui all'articolo 79, comma 2, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indice di liquidita', costituito dal rapporto tra la somma delle liquidita' e dei crediti correnti e la somma dei debiti correnti dell'ultimo bilancio approvato, pari o superiore a 0,5; le liquidita' comprendono le rimanenze per lavori in corso alla fine dell'esercizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indice di economicita', costituito dalla differenza tra il valore ed i costi della produzione di cui all'articolo 2425 del codice civile, di valore positivo in almeno due esercizi tra gli ultimi tre; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    requisiti di cui all'articolo 79, comma 1, lettere c) e d), di valore non inferiori ai minimi stabiliti al medesimo articolo, commi 8 e 10; 
+ ottiene l'incremento figurativo, in base alla percentuale determinata secondo quanto previsto dall'allegato D, dei valori degli importi di cui all'articolo 79, comma 2, lettera b), e comma 5, lettere b) e c). Gli importi cosi' figurativamente rideterminati valgono per la dimostrazione dei requisiti dei suddetti commi dell'articolo 79.
 
 Per le ditte individuali e le societa' di persone, i requisiti di cui al comma 1 sono dimostrati mediante il libro degli inventari o il bilancio di verifica riclassificato e vidimato da un professionista abilitato. 
  3 Qualora l'impresa, oltre al possesso del sistema di qualita' di cui all'articolo 59, presenti un patrimonio netto, costituito dal totale della lettera A del passivo dello stato patrimoniale di cui all'articolo 2424 del codice civile dell'ultimo bilancio approvato, pari o superiore al dieci per cento della cifra di affari media annuale richiesta ai fini di cui all'articolo 79, comma 2, lettera b), nonche' i requisiti e gli indici economico finanziari di cui al comma 1, lettere b), c) e d), del presente articolo, ottiene, anziche' l'incremento figurativo di cui al comma 1, un incremento figurativo dei valori degli importi dei cui all'articolo 79, comma 2, lettera b), e comma 5, lettere b) e c), in base alla percentuale determinata secondo quanto previsto dall'allegato D, sostituendo nelle formule C1 e C2 il valore trenta con il valore trentanove. Gli importi cosi' figurativamente rideterminati valgono per la dimostrazione dei requisiti dei suddetti commi dell'articolo 79. 
@@ -1708,6 +4272,27 @@ Qualora l'interessato abbia ultimato i lavori e non disponga piu' di propria rap
  
  (art. 24, d.P.R. n. 34/2000)
 
+1.
+                        
+                            
+                                Ai fini della qualificazione delle imprese che hanno affidato lavorazioni in subappalto e delle imprese subappaltatrici le SOA si attengono ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le lavorazioni eseguite dalle imprese subappaltatrici sono classificabili ai sensi delle tabelle di cui all'allegato A; l'impresa subappaltatrice puo' utilizzare per la qualificazione il quantitativo delle lavorazioni eseguite aventi le caratteristiche predette; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa affidataria puo' utilizzare: 
+ 1) i lavori della categoria prevalente, subappaltati nel limite massimo del trenta per cento di cui all'articolo 170, comma 1, per l'intero importo; 
+ 2) i lavori di ciascuna delle categorie scorporabili previste nel bando o nell'avviso di gara o nella lettera di invito, appartenenti alle categorie di cui all'allegato A, per le quali non e' prescritta la qualificazione obbligatoria, per l'intero importo in ciascuna delle categorie scorporabili se le lavorazioni sono subappaltate entro il limite del trenta per cento riferito a ciascuna categoria; l'importo dei lavori di ciascuna categoria scorporabile subappaltata oltre il predetto limite, e' decurtato della quota eccedente il trenta per cento e puo' essere, cosi' decurtato, utilizzato, in alternativa, per la qualificazione nella categoria prevalente ovvero ripartito tra la categoria prevalente e la categoria scorporabile, per una percentuale riferita a tale categoria scorporabile non superiore al dieci per cento; 
+ 3) i lavori di ciascuna delle categorie scorporabili previste nel bando o nell'avviso di gara o nella lettera di invito, appartenenti alle categorie di cui all'allegato A, per le quali e' prescritta la qualificazione obbligatoria, per l'intero importo in ciascuna delle categorie scorporabili se le lavorazioni sono subappaltate entro il limite del quaranta per cento riferito a ciascuna categoria; l'importo dei lavori di ciascuna categoria scorporabile subappaltata oltre il predetto limite, e' decurtato della quota eccedente il quaranta per cento e puo' essere, cosi' decurtato, utilizzato, in alternativa, per la qualificazione nella categoria prevalente ovvero ripartito tra la categoria prevalente e la categoria scorporabile, per una percentuale riferita a tale categoria scorporabile non superiore al dieci per cento.
+
 La SOA, nella attivita' di attestazione, e' tenuta ad attribuire la qualificazione conformemente al contenuto del certificato di esecuzione lavori. Ai fini della qualificazione, la SOA verifica che nel certificato di esecuzione dei lavori, redatto secondo l'allegato B, non siano presenti lavorazioni relative a categorie di cui all'allegato A non previste nel bando di gara o nell'avviso o nella lettera di invito nonche' nel contratto e negli eventuali atti di sottomissione o aggiuntivi debitamente approvati.
 Detta documentazione e' richiesta dalla SOA al soggetto di cui all'articolo 3, comma 1, lettera b), che ha emesso il certificato di esecuzione dei lavori. La SOA e' tenuta a segnalare all'Autorita' eventuali incongruenze riscontrate nel certificato di esecuzione lavori, ai sensi dell'articolo 70, comma 1, lettera f).
 
@@ -1732,6 +4317,38 @@ Per i lavori il cui committente non sia tenuto all'applicazione del codice e del
 Per i lavori eseguiti in proprio e non su committenza si fa riferimento a parametri fisici (metri quadrati, metri cubi) valutati sulla base di prescrizioni od indici ufficiali e il relativo importo e' valutato nella misura del cento per cento.
 
 Nel caso di opere di edilizia abitativa, si fa riferimento al costo totale dell'intervento (C.T.N.), costituito dal costo a metro quadro, cosi' come determinato dai soggetti competenti secondo le norme vigenti, moltiplicato per la superficie complessiva (S.C.) e maggiorato del venticinque per cento.
+
+5.
+                        
+                            
+                                Nel caso indicato al comma 2 le relative dichiarazioni sono corredate dalla seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    permesso a costruire ovvero dichiarazione di inizio attivita', relativi all'opera realizzata, ove richiesti, con allegata copia autentica del progetto approvato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copia del contratto stipulato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    copia delle fatture corrispondenti al quantitativo di lavori eseguiti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    copia del certificato di regolare esecuzione rilasciato dal direttore dei lavori.
 
 Nel caso indicato al comma 3, le relative dichiarazioni sono corredate dalla documentazione di cui al comma 5, lettere a) e d), nonche' dalle fatture o da diversa documentazione corrispondenti all'acquisto di materiali e di servizi e ad eventuali subappalti.
 
@@ -1758,6 +4375,24 @@ I soggetti designati nell'incarico di direttore tecnico non possono rivestire an
 
 La qualificazione conseguita ai sensi dell'articolo 79, comma 14, e' collegata al direttore tecnico che l'ha consentita. La stessa qualificazione puo' essere confermata sulla base di autonoma e specifica valutazione se l'impresa provvede alla sostituzione del direttore tecnico o dei direttori tecnici uscenti con soggetti aventi analoga idoneita'.
 
+5.
+                        
+                            
+                                Se l'impresa non provvede alla sostituzione del o dei direttori tecnici uscenti, la SOA o, in caso di inerzia, l'Autorita' dispone: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la decadenza dell'attestazione di qualificazione nelle categorie ed importi corrispondenti, connessi alla presenza del o dei direttori tecnici uscenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la conferma o la riduzione della qualificazione nelle categorie ed importi corrispondenti, nel caso in cui l'impresa dimostri di aver eseguito lavori rispettivamente di pari o di minore importo nelle categorie in precedenza connesse alla direzione tecnica.
+
 In ogni caso di variazione della direzione tecnica, l'impresa provvede a darne comunicazione alla SOA che l'ha qualificata e all'Osservatorio entro trenta giorni dalla data della avvenuta variazione. 
  
  ((16))
@@ -1769,11 +4404,54 @@ In ogni caso di variazione della direzione tecnica, l'impresa provvede a darne c
 
 ## Art. 88. — Contratto di avvalimento in gara e qualificazione mediante avvalimento
 
+1.
+                        
+                            
+                                Per la qualificazione in gara, il contratto di cui all'articolo 49, comma 2, lettera f), del codice deve riportare in modo compiuto, esplicito ed esauriente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    oggetto: le risorse e i mezzi prestati in modo determinato e specifico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    durata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni altro utile elemento ai fini dell'avvalimento.
+
 Per l'ottenimento dell'attestazione di qualificazione ai sensi dell'articolo 50 del codice, l'impresa ausiliata, presenta alla SOA la dichiarazione con la quale l'impresa ausiliaria assume l'obbligo di mettere a disposizione le risorse oggetto di avvalimento in favore dell'impresa ausiliata per tutto il periodo di validita' della attestazione SOA rilasciata mediante avvalimento.
 
 Per le finalita' di cui al comma 2, l'impresa ausiliaria e l'impresa ausiliata hanno l'obbligo di documentare alla SOA il rapporto di controllo tra le imprese sensi dell'articolo 2359, commi 1 e 2, del codice civile, e di comunicare alla SOA e all'Autorita' entro quindici giorni il venire meno di tale rapporto di controllo, ovvero le circostanze che fanno venire meno la messa a disposizione delle risorse di cui al comma 2.
 
 Entro il successivo termine di quindici giorni, la SOA provvede a comunicare all'Autorita' le informazioni di cui al comma 3 e dispone la decadenza, entro lo stesso termine, dell'attestazione dell'impresa ausiliata.
+
+5.
+                        
+                            
+                                L'impresa ausiliata, per conseguire la qualificazione di cui all'articolo 50 del codice, deve possedere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti di cui all'articolo 78 in proprio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti di cui all'articolo 79 anche mediante i requisiti resi disponibili dall'impresa ausiliaria.
 
 L'impresa ausiliata e' sottoposta a tutti gli obblighi previsti, per le imprese attestate dalle SOA, secondo le disposizioni del presente titolo III.
 
@@ -1802,6 +4480,32 @@ Le attestazioni devono indicare espressamente le referenze che hanno permesso il
 ## Art. 90. — Requisiti per lavori pubblici di importo pari o inferiore a 150. 000 euro 
  
  (art. 28, d.P.R. n. 34/2000)
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 38 del codice in materia di esclusione dalle gare, gli operatori economici possono partecipare agli appalti di lavori pubblici di importo pari o inferiore a 150.000 euro qualora in possesso dei seguenti requisiti di ordine tecnico - organizzativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    importo dei lavori analoghi eseguiti direttamente nel quinquennio antecedente la data di pubblicazione del bando non inferiore all'importo del contratto da stipulare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costo complessivo sostenuto per il personale dipendente non inferiore al quindici per cento dell'importo dei lavori eseguiti nel quinquennio antecedente la data di pubblicazione del bando; nel caso in cui il rapporto tra il suddetto costo e l'importo dei lavori sia inferiore a quanto richiesto, l'importo dei lavori e' figurativamente e proporzionalmente ridotto in modo da ristabilire la percentuale richiesta; l'importo dei lavori cosi' figurativamente ridotto vale per la dimostrazione del possesso del requisito di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adeguata attrezzatura tecnica. 
+ Nel caso di imprese gia' in possesso dell'attestazione SOA relativa ai lavori da eseguire, non e' richiesta ulteriore dimostrazione circa il possesso dei requisiti.
 
 Gli operatori economici, per partecipare agli appalti di importo pari o inferiore a 150.000 euro concernenti i lavori relativi alla categoria OG 13, fermo restando quanto previsto al comma 1, devono aver realizzato nel quinquennio antecedente la data di pubblicazione del bando, dell'avviso o della lettera di invito, di lavori analoghi per importo pari a quello dei lavori che si intendono eseguire, e presentare l'attestato di buon esito degli stessi rilasciato dalle autorita' eventualmente preposte alla tutela dei beni cui si riferiscono i lavori eseguiti.
 
@@ -1840,6 +4544,25 @@ Per i raggruppamenti temporanei di cui all'articolo 34, comma 1, lettera d), del
 Per i soggetti di cui all'articolo 34, comma 1, lettera f-bis), del codice, si applicano i commi 1, 2 e 3 rispettivamente nel caso di concorrente singolo, di raggruppamento di tipo orizzontale e di raggruppamento di tipo verticale.
 
 Se il singolo concorrente o i concorrenti che intendano riunirsi in raggruppamento temporaneo hanno i requisiti di cui al presente articolo, possono raggruppare altre imprese qualificate anche per categorie ed importi diversi da quelli richiesti nel bando, a condizione che i lavori eseguiti da queste ultime non superino il venti per cento dell'importo complessivo dei lavori e che l'ammontare complessivo delle qualificazioni possedute da ciascuna sia almeno pari all'importo dei lavori che saranno ad essa affidati.
+
+6.
+                        
+                            
+                                I requisiti per i progettisti previsti dal bando ai sensi dell'articolo 53, comma 3, del codice devono essere posseduti dalle imprese attestate per prestazioni di sola esecuzione, attraverso un progettista associato o indicato in sede di offerta in grado di dimostrarli, scelto tra i soggetti di cui all'articolo 90, comma 1, lettere d), e), f), f-bis, g) e h), del codice, e sono costituiti in rapporto all'ammontare delle spese di progettazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dai requisiti indicati all'articolo 263 qualora l'importo delle spese di progettazione sia pari o superiore a 100.000 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dai requisiti indicati all'articolo 267, qualora l'importo delle spese di progettazione sia inferiore a 100.000 euro. 
+ Le imprese attestate per prestazioni di progettazione e costruzione devono possedere i requisiti di cui alla lettera a) ovvero alla lettera b) attraverso l'associazione o l'indicazione in sede di offerta di un progettista scelto tra i soggetti di cui all'articolo 90, comma 1, lettere d), e), f), f-bis), g) e h), del codice, laddove i predetti requisiti non siano dimostrati attraverso il proprio staff di progettazione.
 
 In riferimento all'articolo 37, comma 11, del codice, ai fini della partecipazione alla gara, il concorrente, singolo o riunito in raggruppamento, che non possiede la qualificazione in ciascuna delle categorie di cui all'articolo 107, comma 2, per l'intero importo richiesto dal bando di gara o dalla lettera di invito, deve possedere i requisiti mancanti relativi a ciascuna delle predette categorie di cui all'articolo 107, comma 2, e oggetto di subappalto, con riferimento alla categoria prevalente. Resta fermo il limite massimo di subappaltabilita' nella misura del trenta per cento fissata dall'articolo 170, comma 1, per ciascuna categoria specialistica prevista dal bando di gara o dalla lettera di invito. Il bando di gara, l'avviso di gara o la lettera di invito, ove prevedano lavorazioni relative ad una o piu' categorie di cui all'articolo 107, comma 2, di importo non superiore ai 150.000 euro e singolarmente superiore al quindici per cento ai sensi dell'articolo 37, comma 11, del codice indicano per ciascuna di esse i requisiti di qualificazione ai sensi dell'articolo 90.
 
@@ -1900,6 +4623,38 @@ In caso di scioglimento del consorzio stabile ai consorziati sono attribuiti pro
  
  (art. 98, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                I soggetti che intendono partecipare alle gare per l'affidamento di concessione di lavori pubblici, se eseguono lavori con la propria organizzazione di impresa, devono essere qualificati secondo quanto previsto dall'articolo 40 del codice e dall'articolo 79, comma 7, del presente regolamento, con riferimento ai lavori direttamente eseguiti ed essere in possesso dei seguenti ulteriori requisiti economico-finanziari e tecnico-organizzativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fatturato medio relativo alle attivita' svolte negli ultimi cinque anni antecedenti alla pubblicazione del bando non inferiore al dieci per cento dell'investimento previsto per l'intervento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capitale sociale non inferiore ad un ventesimo dell'investimento previsto per l'intervento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgimento negli ultimi cinque anni di servizi affini a quello previsto dall'intervento per un importo medio non inferiore al cinque per cento dell'investimento previsto per l'intervento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolgimento negli ultimi cinque anni di almeno un servizio affine a quello previsto dall'intervento per un importo medio pari ad almeno il due per cento dell'investimento previsto dall'intervento.
+
 In alternativa ai requisiti previsti dal comma 1, lettere c) e d), il concessionario puo' incrementare i requisiti previsti dal medesimo comma, lettere a) e b), nella misura fissata dal bando di gara, comunque compresa fra 1,5 volte e tre volte. Il requisito previsto dal comma 1, lettera b), puo' essere dimostrato anche attraverso il patrimonio netto.
 
 Se il concessionario non esegue direttamente i lavori oggetto della concessione, deve essere in possesso esclusivamente degli ulteriori requisiti di cui al comma 1, lettere a), b), c) e d).
@@ -1925,6 +4680,61 @@ Possono presentare proposte anche soggetti appositamente costituiti, nei quali c
 Al fine di ottenere l'affidamento della concessione, il proponente, al momento dell'indizione delle procedure di gara di cui all'articolo 153 del codice, deve comunque possedere, anche associando o consorziando altri soggetti, i requisiti previsti dall'articolo 95.
 
 L'asseverazione del piano economico-finanziario presentato dal concorrente ai sensi dell'articolo 153 del codice consiste nella valutazione degli elementi economici e finanziari, quali costi e ricavi del progetto e composizione delle fonti di finanziamento, e nella verifica della capacita' del piano di generare flussi di cassa positivi e della congruenza dei dati con la bozza di convenzione.
+
+5.
+                        
+                            
+                                La valutazione economica e finanziaria di cui al comma 4 deve avvenire almeno sui seguenti elementi, desunti dalla documentazione messa a disposizione ai fini dell'asseverazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prezzo che il concorrente intende chiedere all'amministrazione aggiudicatrice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prezzo che il concorrente intende corrispondere all'amministrazione aggiudicatrice per la costituzione o il trasferimento dei diritti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    canone che il concorrente intende corrispondere all'amministrazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tempo massimo previsto per l'esecuzione dei lavori e per l'avvio della gestione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    durata prevista della concessione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    struttura finanziaria dell'operazione, comprensiva dell'analisi dei profili di bancabilita' dell'operazione in relazione al debito indicato nel piano economico-finanziario; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    costi, ricavi e conseguenti flussi di cassa generati dal progetto con riferimento alle tariffe. 
+ 
+ ((16))
 
 ---------------
                             AGGIORNAMENTO (16)
@@ -2430,6 +5240,53 @@ Gli accertamenti e le verifiche effettuati nelle visite sopralluogo disposte dal
 
 Il collaudo comprende anche l'esame delle riserve dell'esecutore, sulle quali non sia gia' intervenuta una risoluzione definitiva in via amministrativa, se iscritte nel registro di contabilita' e nel conto finale nei termini e nei modi stabiliti dal presente regolamento.
 
+4.
+                        
+                            
+                                Ai sensi dell'articolo 141, comma 7, del codice, il collaudo in corso d'opera, sempre che non sussistano le condizioni per il rilascio del certificato di regolare esecuzione di cui all'articolo 141, comma 3, del codice, e' obbligatorio nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando la direzione dei lavori sia stata affidata, ai sensi dell'articolo 130, comma 2, lettere b) e c), del codice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di lavoro di particolare complessita' di cui all'articolo 236; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di intervento affidato in concessione ai sensi degli articoli 142 o 153 del codice, nonche' con dialogo competitivo o mediante locazione finanziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di intervento affidato ai sensi dell'articolo 53, comma 2, lettere b) o c), del codice; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di opera o lavoro comprendenti significative e non abituali lavorazioni non piu' ispezionabili in sede di collaudo finale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nei casi di aggiudicazione con ribasso d'asta superiore alla soglia di anomalia determinata ai sensi delle vigenti disposizioni.  
+ ((16))
+
 ---------------
                             AGGIORNAMENTO (16)
                             
@@ -2451,7 +5308,64 @@ L'incarico di collaudo puo' essere conferito anche a soggetti muniti di laurea b
 
 Il collaudo di lavori di manutenzione puo' essere affidato ad un funzionario delle stazioni appaltanti munito di diploma tecnico che abbia prestato servizio per almeno cinque anni presso amministrazioni aggiudicatrici ovvero ad un tecnico diplomato, geometra o perito, nell'ambito stabilito dalla normativa vigente in ordine alle attivita' attribuite a ciascuna professione iscritto da almeno cinque anni all'ordine o collegio professionale di appartenenza.
 
+7.
+                        
+                            
+                                Non possono essere affidati incarichi di collaudo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai magistrati ordinari, amministrativi e contabili, e agli avvocati e procuratori dello Stato, in attivita' di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a coloro che nel triennio antecedente hanno avuto rapporti di lavoro autonomo o subordinato con l'esecutore o con i subappaltatori dei lavori da collaudare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a coloro che hanno comunque svolto o svolgono attivita' di controllo, progettazione, approvazione, autorizzazione, vigilanza o direzione dei lavori da collaudare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a soggetti che facciano parte di strutture o di articolazioni organizzative comunque denominate di organismi con funzioni di vigilanza o di controllo nei riguardi dell'intervento da collaudare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a soggetti che hanno espletato le attivita' di cui agli articoli 93, comma 6, e 112 del codice.
+
 Per i lavori comprendenti strutture, al soggetto incaricato del collaudo o ad uno dei componenti della commissione di collaudo e' affidato anche il collaudo statico, purche' essi abbiano i requisiti specifici previsti dalla legge. Per i lavori eseguiti in zone classificate come sismiche, il collaudo e' esteso alla verifica dell'osservanza delle norme sismiche.
+
+9.
+                        
+                            
+                                L'affidamento dell'incarico di collaudo a soggetti esterni, liberi professionisti, e' regolato, in quanto compatibili, dalle norme dettate dalla parte III, titoli II e III. Ai fini dell'affidamento dell'incarico di collaudo a soggetti esterni, il collaudatore o i collaudatori da incaricare, devono essere in possesso dei requisiti specifici, richiesti per l'intervento da collaudare ed avere conseguito il titolo professionale di cui ai commi 3, 4, 5, e 6: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da almeno dieci anni per il collaudo di lavori di importo pari o superiore a 5.000.000 di euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da almeno cinque anni per il collaudo di lavori di importo inferiore a 5.000.000 di euro.
 
 Il soggetto esterno che e' stato incaricato di un collaudo in corso d'opera da una stazione appaltante, non puo' essere incaricato dalla medesima di un nuovo collaudo se non sono trascorsi almeno sei mesi dalla chiusura delle operazioni del precedente collaudo. Per i collaudi non in corso d'opera il divieto e' stabilito in un anno. Nel caso di stazioni appaltanti nazionali la cui struttura organizzativa e' articolata su basi locali, il divieto e' limitato alla singola articolazione locale. I suddetti divieti si riferiscono alla sola ipotesi di collaudatori non appartenenti all'organico delle stazioni appaltanti. 
  
@@ -2469,6 +5383,115 @@ Il soggetto esterno che e' stato incaricato di un collaudo in corso d'opera da u
 ## Art. 217. — Documenti da fornirsi al collaudatore 
  
  (art. 190, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                Il responsabile del procedimento trasmette all'organo di collaudo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la copia conforme del contratto d'appalto e dei documenti di cui all'articolo 137, nonche' il provvedimento di approvazione del progetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali perizie di variante e suppletive, con le relative approvazioni intervenute e copia dei relativi atti di sottomissione o aggiuntivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    copia del programma di esecuzione dei lavori redatto dall'esecutore e relativi eventuali aggiornamenti approvati dal direttore dei lavori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verbale di consegna dei lavori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disposizioni del responsabile del procedimento e ordini di servizio e rapporti periodici emessi dal direttore dei lavori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eventuali verbali di sospensione e ripresa lavori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    certificato di ultimazione lavori; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    originali di tutti i documenti contabili o giustificativi prescritti dal presente regolamento; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    verbali di prova sui materiali, nonche' le relative certificazioni di qualita'; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    conto finale dei lavori; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    relazione del direttore dei lavori in accompagnamento allo conto finale, relativa documentazione allegata nonche' l'esito dell'avviso ai creditori di cui all'articolo 218; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    relazione del responsabile del procedimento sul conto finale; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    relazioni riservate sia del direttore dei lavori, che del responsabile del procedimento sulle eventuali riserve avanzate dall'esecutore dei lavori non definite in corso d'opera ai sensi degli articoli 239 e 240 del codice; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    certificati inerenti ai controlli eseguiti conformemente al piano per i controlli da effettuare in cantiere nel corso delle varie fasi dei lavori, nel caso di interventi complessi di cui all'articolo 3, comma 1, lettera l); 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    certificati di cui all'articolo 79, comma 17, limitatamente ai lavori relativi alla categoria OS 12-A.
 
 E' facolta' dell'organo di collaudo chiedere al responsabile del procedimento o al direttore dei lavori altra documentazione ritenuta necessaria o utile per l'espletamento dell'incarico.
 
@@ -2582,6 +5605,31 @@ Il direttore dei lavori ha l'obbligo di presenziare alle visite di collaudo.
  
  (art. 194, commi 1, 2, 4, 5, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                Della visita di collaudo e' redatto processo verbale che, oltre ad una sintetica descrizione dell'opera e della sua ubicazione ed ai principali estremi dell'appalto, deve contenere le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi del provvedimento di nomina dell'organo di collaudo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il giorno della visita di collaudo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le generalita' degli intervenuti alla visita e di coloro che, sebbene invitati, non sono intervenuti.
+
 Nel processo verbale sono descritti i rilievi fatti dall'organo di collaudo, le singole operazioni e le verifiche compiute, il numero e la profondita' dei saggi effettuati e i risultati ottenuti. I punti di esecuzione dei saggi sono riportati sui disegni di progetto o chiaramente individuati a verbale.
 
 I processi verbali, oltre che dall'organo di collaudo e dall'esecutore, sono firmati dal direttore dei lavori nonche' dal responsabile del procedimento, se intervenuto, e dagli altri obbligati ad intervenire. E' inoltre firmato da quegli assistenti la cui testimonianza e' invocata negli stessi processi verbali per gli accertamenti di taluni lavori.
@@ -2617,6 +5665,45 @@ Sono ad esclusivo carico dell'esecutore le spese di visita del personale della s
 ## Art. 225. — Valutazioni dell'organo di collaudo 
  
  (art. 195, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                L'organo di collaudo provvede a raffrontare i dati di fatto risultanti dal processo verbale di visita con i dati di progetto e delle varianti approvate e dei documenti contabili e formulare le proprie considerazioni sul modo con cui l'esecutore ha osservato le prescrizioni contrattuali e le disposizioni impartite dal direttore dei lavori. Sulla base di quanto rilevato, l'organo di collaudo, anche sulla scorta dei pareri del responsabile del procedimento, determina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il lavoro sia o no collaudabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a quali condizioni e restrizioni si possa collaudare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i provvedimenti da prendere qualora non sia collaudabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modificazioni da introdursi nel conto finale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il credito liquido dell'esecutore.
 
 Ai fini di quanto prescritto dal codice e dal presente regolamento in materia di qualificazione, l'organo di collaudo esprime le sue valutazioni sulle modalita' di conduzione dei lavori da parte dell'esecutore e del subappaltatore.
 
@@ -2680,6 +5767,90 @@ L'eventuale riconoscimento delle lavorazioni non autorizzate, non libera il dire
  
  (art. 199, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                Ultimate le operazioni di cui agli articoli precedenti, l'organo di collaudo, qualora ritenga collaudabile il lavoro, emette il certificato di collaudo che deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una relazione che ripercorra l'intera vicenda dell'appalto dalla progettazione all'esecuzione, indicando puntualmente: 
+ - il titolo dell'opera o del lavoro; 
+ - la localita' e la provincia interessate; 
+ - la data e l'importo del progetto e delle eventuali successive varianti; 
+ - gli estremi del contratto e degli eventuali atti di sottomissione e atti aggiuntivi, nonche' quelli dei rispettivi provvedimenti approvativi; 
+ - il quadro economico recante gli importi autorizzati; 
+ - l'indicazione dell'esecutore; 
+ - il nominativo del direttore dei lavori e degli eventuali altri componenti l'ufficio di direzione lavori; 
+ - il tempo prescritto per l'esecuzione dei lavori, con l'indicazione delle eventuali proroghe; 
+ - le date dei processi verbali di consegna, di sospensione, di ripresa e di ultimazione dei lavori; 
+ - la data e gli importi riportati nel conto finale; 
+ - l'indicazione di eventuali danni di forza maggiore e di infortuni verificatisi; 
+ - la posizione dell'esecutore e dei subappaltatori nei riguardi degli adempimenti assicurativi e previdenziali; 
+ - gli estremi del provvedimento di nomina dell'organo di collaudo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il richiamo agli eventuali verbali di visita in corso d'opera (da allegare); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il verbale della visita definitiva (ovvero il richiamo ad esso se costituisce un documento a parte); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sintesi delle valutazioni dell'organo di collaudo circa la collaudabilita' dell'opera; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la certificazione di collaudo.
+
+2.
+                        
+                            
+                                Nella certificazione l'organo di collaudo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riassume per sommi capi il costo del lavoro indicando partitamente le modificazioni, le aggiunte, le deduzioni al conto finale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina la somma da porsi a carico dell'esecutore per danni da rifondere alla stazione appaltante per maggiori spese dipendenti dalla esecuzione d'ufficio in danno o per altro titolo; la somma da rimborsare alla stessa stazione appaltante per le spese sostenute per i propri addetti ai lavori, oltre il termine convenuto per il compimento degli stessi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiara, fatte salve le rettifiche che puo' apportare l'ufficio in sede di revisione, l'importo a saldo da liquidare all'esecutore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attesta la collaudabilita' dell'opera o del lavoro con le eventuali prescrizioni.
+
 Qualora nel biennio di cui all'articolo 141, comma 3, del codice, dovessero emergere vizi o difetti dell'opera, il responsabile del procedimento provvedera' a denunciare entro il medesimo periodo il vizio o il difetto e ad accertare, sentiti il direttore dei lavori e l'organo di collaudo ed in contraddittorio con l'esecutore, se detti difetti derivino da carenze nella realizzazione dell'opera; in tal caso proporra' alla stazione appaltante di fare eseguire dall'esecutore, od in suo danno, i necessari interventi. Nell'arco di tale biennio l'esecutore e' tenuto alla garanzia per le difformita' e i vizi dell'opera, indipendentemente dalla intervenuta liquidazione del saldo. 
  
  ((16))
@@ -2691,6 +5862,45 @@ Qualora nel biennio di cui all'articolo 141, comma 3, del codice, dovessero emer
 
 ## Art. 230. — Verbali di accertamento ai fini della presa in consegna anticipata  
  (art. 200, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                Qualora la stazione appaltante abbia necessita' di occupare od utilizzare l'opera o il lavoro realizzato, ovvero parte dell'opera o del lavoro, prima che intervenga l'emissione del certificato di collaudo provvisorio, puo' procedere alla presa in consegna anticipata a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia stato eseguito con esito favorevole il collaudo statico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia stato tempestivamente richiesto, a cura del responsabile del procedimento, il certificato di agibilita' per i fabbricati e le certificazioni relative agli impianti ed alle opere a rete; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano stati eseguiti i necessari allacciamenti idrici, elettrici e fognari alle reti dei pubblici servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano state eseguite le prove previste dal capitolato speciale d'appalto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sia stato redatto apposito stato di consistenza dettagliato, da allegare al verbale di consegna del lavoro.
 
 A richiesta della stazione appaltante interessata, l'organo di collaudo procede a verificare l'esistenza delle condizioni sopra specificate nonche' ad effettuare le necessarie constatazioni per accertare che l'occupazione e l'uso dell'opera o lavoro sia possibile nei limiti di sicurezza e senza inconvenienti nei riguardi della stazione appaltante e senza ledere i patti contrattuali; redige pertanto un verbale, sottoscritto anche dal direttore dei lavori e dal responsabile del procedimento, nel quale riferisce sulle constatazioni fatte e sulle conclusioni cui perviene.
 
@@ -2749,6 +5959,39 @@ L'organo di collaudo riferisce al responsabile del procedimento sulle singole ri
  
  (artt. 204 e 209, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                Condotte a termine le operazioni connesse allo svolgimento del mandato ricevuto, l'organo di collaudo trasmette al responsabile del procedimento tutti i documenti amministrativi e contabili ricevuti, unendovi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i verbali di visita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione del direttore dei lavori attestante l'esito delle prescrizioni ordinate dall'organo di collaudo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il certificato di collaudo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le eventuali relazioni riservate relative alle riserve e alle richieste formulate dall'esecutore nel certificato di collaudo. 
+ L'organo di collaudo invia, per conoscenza, all'esecutore la lettera di trasmissione dei documenti di cui al presente comma.
+
 La stazione appaltante - preso in esame l'operato e le deduzioni dell'organo di collaudo e richiesto, quando ne sia il caso in relazione all'ammontare o alla specificita' dell'intervento, i pareri ritenuti necessari all'esame - effettua la revisione contabile degli atti e delibera, entro sessanta giorni dalla data di ricevimento degli atti di collaudo, sull'ammissibilita' del certificato di collaudo, sulle domande dell'esecutore e sui risultati degli avvisi ai creditori. In caso di iscrizione di riserve sul certificato di collaudo per le quali sia attivata la procedura di accordo bonario, il termine di cui al precedente periodo decorre dalla scadenza del termine di cui all'articolo 240, comma 12, del codice. Le deliberazioni della stazione appaltante sono notificate all'esecutore.
 
 Finche' non e' intervenuta l'approvazione degli atti di collaudo, la stazione appaltante ha facolta' di procedere ad un nuovo collaudo.
@@ -2784,6 +6027,24 @@ Il decorso del termine fissato dalla legge per il compimento delle operazioni di
 ## Art. 236. — Collaudo dei lavori di particolare complessita' tecnica o di grande rilevanza economica 
  
  (art. 207, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                Ai fini dell'articolo 141, comma 6, del codice, sono definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lavori di particolare complessita' tecnica: quelli nei quali le componenti architettonica e/o strutturale e/o impiantistica siano non usuali e di particolare rilevanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavori di grande rilevanza economica: quelli di importo superiore a 25 milioni di euro.
 
 Per i lavori di cui al comma 1 il collaudo e' effettuato sulla base della certificazione di qualita' dei materiali o componenti impiegati che hanno incidenza sul costo complessivo dei lavori non inferiore al cinque per cento. 
  
@@ -2864,6 +6125,31 @@ Per quanto non disposto dal presente titolo, ai contratti relativi ai beni del p
  
  (art. 212, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                I lavori di cui al presente titolo si articolano nelle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    scavo archeologico, comprese le indagini archeologiche subacquee; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    restauro e manutenzione dei beni immobili di interesse archeologico, storico ed artistico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    restauro e manutenzione di superfici architettoniche decorate e di beni mobili di interesse storico, artistico ed archeologico.
+
 Lo scavo archeologico consiste in tutte le operazioni che consentono la lettura storica delle azioni umane, nonche' dei fenomeni geologici che hanno con esse interagito, succedutesi in un determinato territorio, delle quali con metodo stratigrafico si recuperano le documentazioni materiali, mobili e immobili, riferibili al patrimonio archeologico. Lo scavo archeologico recupera altresi' la documentazione del paleoambiente anche delle epoche anteriori alla comparsa dell'uomo.
 
 I contenuti qualificanti e le finalita' della manutenzione e del restauro sono definiti all'articolo 29, commi 3 e 4, del codice dei beni culturali e del paesaggio di cui al decreto legislativo 22 gennaio 2004, n. 42.
@@ -2908,7 +6194,106 @@ Qualora ricorra l'ipotesi prevista dall'articolo 252, comma 3, i membri della co
 
 Il progetto preliminare consiste in una relazione programmatica del quadro delle conoscenze, sviluppato per settori di indagine, nonche' dei metodi di intervento, con allegati i necessari elaborati grafici. Il quadro delle conoscenze e' la risultante della lettura dello stato esistente e consiste nella indicazione delle tipologie di indagine che si ritengono necessarie per la conoscenza del manufatto e del suo contesto storico e ambientale.
 
+2.
+                        
+                            
+                                Sono documenti del progetto preliminare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione illustrativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazione tecnica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indagini e ricerche preliminari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    planimetria generale ed elaborati grafici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prime indicazioni e disposizioni per la stesura dei piani della sicurezza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    calcolo sommario della spesa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    quadro economico di progetto.
+
 Il progetto preliminare comporta indagini e ricerche volte ad acquisire gli elementi idonei e necessari per le scelte dei tipi e dei metodi di intervento da approfondire nel progetto definitivo nonche' per la stima del costo dell'intervento medesimo.
+
+4.
+                        
+                            
+                                Le indagini e ricerche di cui al comma 3 riguardano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'analisi storico - critica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i materiali costitutivi e le tecniche di esecuzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rilievo e la documentazione fotografica dei manufatti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la diagnostica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'individuazione del comportamento strutturale e l'analisi dello stato di conservazione, del degrado e dei dissesti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'individuazione degli eventuali apporti di altre discipline afferenti.
 
 In ragione della complessita' dell'intervento in relazione allo stato di conservazione ed ai caratteri storico-artistici del manufatto, il progetto preliminare puo' limitarsi a comprendere quelle ricerche e quelle indagini che sono strettamente necessarie per una prima reale individuazione delle scelte di restauro e dei relativi costi di intervento.
 
@@ -2932,6 +6317,155 @@ Alle concessioni, ivi comprese quelle affidate secondo le procedure previste dal
  
  (art. 215, d.P.R. n. 554/1999)
 
+1.
+                        
+                            
+                                Il progetto definitivo, redatto sulla base delle indicazioni del progetto preliminare approvato, studia il bene con riferimento all'intero complesso ed al contesto ambientale in cui e' inserito; approfondisce gli apporti disciplinari necessari e definisce i collegamento interdisciplinari; definisce in modo compiuto le tecniche, le tecnologie di intervento, i materiali riguardanti le singole parti del complesso; prescrive le modalita' esecutive delle operazioni tecniche; definisce gli indirizzi culturali e le compatibilita' fra progetto e funzione attribuita al bene attraverso una conoscenza compiuta dello stato di fatto; configura nel complesso un giudizio generale volto ad individuare le priorita', i tipi e i metodi di intervento con particolare riguardo all'esigenza di tutela ed ai fattori di degrado. Sono documenti del progetto definitivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazioni tecniche e specialistiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rilievi e documentazione fotografica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elaborati grafici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    calcoli esecutivi delle strutture e degli impianti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    elenco dei prezzi unitari ed eventuali analisi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    computo metrico estimativo e quadro economico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    piani di sicurezza e di coordinamento; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    cronoprogramma; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    schema di contratto e capitolato speciale di appalto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    piano di manutenzione dell'opera e delle sue parti.
+
+2.
+                        
+                            
+                                Qualora il responsabile del procedimento abbia previsto la redazione del progetto esecutivo da porre a base di gara, i documenti del progetto definitivo sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazioni tecniche e specialistiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rilievi e documentazione fotografica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elaborati grafici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    calcoli preliminari delle strutture e degli impianti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quadro economico con l'indicazione dei costi della sicurezza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    disciplinare descrittivo e prestazionale degli elementi tecnici; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    aggiornamento del calcolo sommario della spesa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    aggiornamento del documento contenente le prime indicazioni e disposizioni per la stesura dei piani di sicurezza. 
+ (16) ((19))
+
 ---------------
                             AGGIORNAMENTO (16)
                             
@@ -2944,6 +6478,80 @@ Alle concessioni, ivi comprese quelle affidate secondo le procedure previste dal
 ## Art. 244. — Progetto esecutivo per i lavori riguardanti i beni del patrimonio culturale 
  
  (art. 216, d.P.R. n. 554/1999)
+
+1.
+                        
+                            
+                                Il progetto esecutivo, ove redatto ai sensi dell'articolo 203, comma 2, del codice, indica in modo compiuto, entrando nel dettaglio e sulla base delle indagini eseguite, le tecniche, le tecnologie di intervento, i materiali riguardanti le singole parti del complesso; prescrive le modalita' esecutive delle operazioni tecniche; indica i controlli da effettuare in cantiere nel corso dei lavori. Sono documenti del progetto esecutivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relazione generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazioni specialistiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elaborati grafici comprensivi anche di quelli delle strutture e degli impianti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    calcoli esecutivi delle strutture e degli impianti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    piano di manutenzione dell'opera e delle sue parti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    piano di sicurezza e di coordinamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    computo metrico estimativo e quadro economico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    cronoprogramma; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    elenco dei prezzi unitari e eventuali analisi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    capitolato speciale di appalto.
 
 Il progetto esecutivo, se posto a base di gara, e' redatto secondo quanto indicato al comma 1, e comprende, oltre ai documenti ivi elencati, anche lo schema di contratto. 
  (16) ((19))
@@ -2967,7 +6575,92 @@ La relazione di cui al comma 1 illustra i tempi e i modi dell'intervento, relati
 
 Il quadro delle conoscenze pregresse consiste in una lettura critica dello stato esistente aggiornato alla luce degli elementi di conoscenza raccolti in eventuali scoperte.
 
+4.
+                        
+                            
+                                Le indagini di cui al comma 1 consistono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilievo generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricognizioni territoriali ed indagini diagnostiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indagini complementari necessarie.
+
 Il progetto definitivo dei lavori di scavo archeologico per finalita' di ricerca, nel quale confluiscono i risultati delle indagini previste nel progetto preliminare, comprende dettagliate previsioni tecnico-scientifiche ed economiche relative alle diverse fasi e tipologie di intervento e indica la quantita' e la durata di esse.
+
+6.
+                        
+                            
+                                Le fasi di cui al comma 5 comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilievi ed indagini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    scavo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    documentazione di scavo, quali giornali di scavo, schede stratigrafiche, documentazione grafica e fotografica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    restauro dei reperti mobili ed immobili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    schedatura preliminare dei reperti e loro immagazzinamento insieme con gli eventuali campioni da sottoporre ad analisi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    studio e pubblicazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    forme di fruizione anche con riguardo alla sistemazione e musealizzazione del sito o del contesto recuperato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    manutenzione programmata.
 
 Il progetto definitivo dei lavori di scavo archeologico per finalita' di ricerca contiene inoltre la definizione delle tipologie degli interventi, distinguendo quelli di prevalente merito scientifico, eventualmente da affidare a ditte in possesso di requisiti specifici ove non curate dalla stessa amministrazione aggiudicatrice.
 
@@ -3004,6 +6697,37 @@ I progetti relativi ai lavori di impiantistica e per la sicurezza, redatti ai va
 ## Art. 247. — Verifica dei progetti per i lavori riguardanti i beni del patrimonio culturale
 
 Per i progetti relativi ai lavori di cui al presente titolo, si applicano le disposizioni contenute nella parte II, titolo II, capo II, in quanto compatibili con le disposizioni del presente titolo, fatto salvo quanto previsto al successivo comma 2.
+
+2.
+                        
+                            
+                                Per i progetti relativi ai lavori di importo non superiore alla soglia di rilevanza comunitaria di cui all'articolo 28, comma 1, lettera c), del codice, il responsabile del procedimento provvede direttamente all'attivita' di verifica, avvalendosi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi di interventi su beni culturali mobili o superfici architettoniche decorate: 
+ 1) del soggetto che ha predisposto la scheda tecnica di cui all'articolo 202, comma 1, del codice, sempre che non abbia assunto il ruolo di progettista dell'intervento da attuare; 
+ 2) ovvero di un funzionario tecnico, appartenente ai ruoli della pubblica amministrazione, con la qualifica di restauratore in possesso di specifica esperienza e capacita' professionale coerente con l'intervento, che non abbia partecipato alla redazione del progetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi di interventi su beni culturali immobili: 
+ 1) qualora ne sia prevista la redazione, del soggetto che ha predisposto la scheda tecnica di cui all'articolo 202, comma 1, del codice, sempre che non abbia assunto il ruolo di progettista dell'intervento da attuare; 
+ 2) ovvero di un funzionario tecnico, appartenente ai ruoli della pubblica amministrazione, con la qualifica di architetto o ingegnere, laureato, in possesso di specifica esperienza e capacita' professionale coerente con l'intervento, che non abbia partecipato alla redazione del progetto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di lavori di scavo archeologico: 
+ 1) qualora ne sia prevista la redazione, del soggetto che ha predisposto la scheda tecnica di cui all'articolo 202, comma 1, del codice, sempre che non abbia assunto il ruolo di progettista dell'intervento da attuare; 
+ 2) ovvero di un funzionario tecnico, appartenente ai ruoli della pubblica amministrazione, con la qualifica di archeologo in possesso di specifica esperienza e capacita' professionale coerente con l'intervento, che non abbia partecipato alla redazione del progetto.
 
 Alle procedure di affidamento dell'attivita' di verifica possono partecipare anche i soggetti di cui all'articolo 202, comma 3, del codice. Detti soggetti, con esperienza professionale di almeno cinque anni, possono, altresi', assumere l'incarico di coordinatore del gruppo di lavoro di verifica di cui all'articolo 50, comma 2.
 

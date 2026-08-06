@@ -8,8 +8,8 @@ codice_redazionale: 005G0286
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,11 +33,75 @@ Il reclutamento degli atleti avviene mediante pubblico concorso per titoli al qu
 
 Requisito indispensabile per l'ammissione al concorso, oltre a quelli previsti dal comma 1, e' l'avvenuto riconoscimento da parte del Comitato olimpico nazionale italiano o delle Federazioni sportive nazionali, che il candidato sia atleta di interesse nazionale e che sia in possesso di almeno uno dei titoli valutabili di cui alla tabella A, categoria I, nelle discipline previste dallo statuto che regolamenta il «Gruppo sportivo forestale».
 
+3.
+                    
+                        
+                            Il concorso e' indetto con decreto del Capo del Corpo forestale dello Stato. Il relativo bando deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso relativamente alle singole discipline sportive, ovvero per ciascuna specialita' nell'ambito delle stesse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di presentazione delle domande di partecipazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le categorie dei titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di essi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ogni altra prescrizione o notizia utile all'espletamento del concorso.
+
 L'accertamento dei requisiti psico-fisici ed attitudinali richiesti e' effettuato a cura dell'amministrazione in base al decreto del Presidente della Repubblica 27 febbraio 1991, n. 132.
 
 Per particolari esigenze sportive, ove non sia possibile ricorrere tempestivamente alla procedura concorsuale prevista per il presente regolamento, puo' essere assegnato al «Gruppo sportivo forestale», con il consenso dell'interessato, il personale proveniente dai ruoli del Corpo forestale dello Stato in possesso dei requisiti indicati nel comma 1.
 
 ## Art. 3. — Commissione del concorso
+
+1.
+                    
+                        
+                            La commissione del concorso, nominata con decreto del Capo del Corpo forestale dello Stato, e' presieduta da un funzionario del medesimo Corpo con qualifica dirigenziale, ed e' composta:
+ 
+                        
+                        
+                            a)
+                            
+                                dal responsabile dell'Ufficio di coordinamento del «Gruppo sportivo forestale»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un funzionario addetto alla competente divisione del personale con qualifica non inferiore a Vice questore aggiunto forestale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un direttore tecnico di una sezione sportiva del «Gruppo sportivo forestale».
 
 Le funzioni di segretario sono svolte da un appartenente al ruolo degli ispettori del Corpo forestale dello Stato o qualifiche equiparate.
 
@@ -64,6 +128,38 @@ I vincitori del concorso sono nominati allievi agenti forestali e ammessi alla f
 ## Art. 6. — Impiego in altre attivita' istituzionali e passaggio ad altri ruoli
 
 Gli atleti che perdono l'idoneita' alle attivita' del «Gruppo sportivo forestale», per una delle cause previste dal comma 2 del presente articolo, sono destinati, con decreto del Capo del Corpo forestale dello Stato, ad altri compiti di istituto, fermo restando il possesso dei relativi requisiti di idoneita' al servizio e, per il caso di cui al comma 2, lettera c), subordinatamente alla valutazione del comportamento dell'atleta ai fini disciplinari. I predetti svolgono un periodo di tirocinio professionale della durata non inferiore a tre mesi.
+
+2.
+                    
+                        
+                            Le cause che determinano la perdita dell'idoneita' alle attivita' del «Gruppo sportivo forestale», sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                perdita dei requisiti di idoneita' fisica necessari per l'espletamento della disciplina sportiva praticata nell'ambito del «Gruppo sportivo forestale»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non riconoscimento della qualita' di atleta di interesse nazionale da parte della competente federazione sportiva per un periodo superiore ai due anni consecutivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sospensione definitiva disposta dalla competente federazione sportiva per un periodo superiore ad undici mesi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non riconoscimento della qualifica di atleta del «Gruppo sportivo forestale», su decisione del Consiglio direttivo, su segnalazione del responsabile di sezione, per motivate valutazioni tecniche o disciplinari.
 
 Il personale di cui al comma 1, in possesso dei prescritti titoli professionali, puo', per esigenze di servizio o a domanda presentata entro trenta giorni dalla data di comunicazione del decreto previsto dal medesimo comma 1, essere trasferito, con decreto del Capo del Corpo forestale dello Stato, nelle corrispondenti qualifiche del personale del Corpo forestale dello Stato che espleta attivita' tecnico-scientifica, strumentale o amministrativa, nei limiti delle vacanze esistenti nelle dotazioni organiche dei predetti ruoli. Il trasferimento e' subordinato al superamento di una prova teorica o pratica le cui modalita' sono stabilite con decreto del Capo del Corpo forestale dello Stato.
 

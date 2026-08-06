@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-03-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,6 +44,271 @@ Per i fini di cui all'articolo 1, l'equipaggiamento di cui al comma 1 e' soggett
 ## Art. 3. — Definizioni - Attuazione dell'articolo 2 
  della direttiva 2014/90/UE
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accreditamento: l'accreditamento di cui all'articolo 2, numero 10, del regolamento (CE) n. 765/2008; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    amministrazione competente: 
+ 1) il Ministero dell'ambiente e della tutela del territorio e del mare relativamente all'equipaggiamento marittimo prescritto dalla convenzione di cui alla lettera h), numero 2); 
+ 2) il Ministero dell'interno - Dipartimento dei Vigili del fuoco, del Soccorso pubblico e della Difesa civile relativamente all'equipaggiamento marittimo antincendio prescritto dalla convenzione di cui alla lettera h), numero 3); 
+ 3) il Ministero dello sviluppo economico relativamente all'equipaggiamento marittimo destinato alle apparecchiature di radiocomunicazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    apparecchiature di radiocomunicazione: l'equipaggiamento marittimo richiesto ai sensi del capitolo IV della convenzione internazionale di cui alla lettera h), numero 3), e apparecchi radio telefonici ricetrasmittenti VHF per mezzi di salvataggio richiesti dalla regola III/6.2.1 e apparati AIS di cui alla regola V/19 della medesima convenzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    autorita' di notifica: il Ministero dello sviluppo economico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    autorita' di vigilanza del mercato: il Ministero delle infrastrutture e dei trasporti - Comando generale del Corpo delle capitanerie di porto, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    autorita' marittima: gli uffici marittimi in conformita' alle attribuzioni loro conferite dall'articolo 17 del codice della navigazione, retti da ufficiali del Corpo delle capitanerie di porto.
+Per le navi che scalano porti esteri, gli uffici marittimi di iscrizione delle stesse; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    certificati di sicurezza: i certificati rilasciati alle navi secondo le convenzioni internazionali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    convenzioni internazionali: le convenzioni di seguito indicate, unitamente ai protocolli, ai successivi emendamenti e relativi codici obbligatori, che sono entrate in vigore e che fissano requisiti specifici per l'approvazione, da parte dello Stato di bandiera, dell'equipaggiamento marittimo da installare a bordo delle navi: 
+ 1) la Convenzione sul regolamento internazionale del 1972 (COLREG) per prevenire gli abbordi in mare, ratificata con legge 27 dicembre 1977, n. 1085; 
+ 2) la Convenzione internazionale del 2 novembre 1973 per la prevenzione dell'inquinamento causato da navi (MARPOL 73/78), ratificata con legge 29 settembre 1980, n. 662, entrata in vigore in Italia il 2 ottobre 1983; 
+ 3) la Convenzione internazionale del 1° novembre 1974 per la salvaguardia della vita umana in mare (SOLAS 74), resa esecutiva con legge 23 maggio 1980, n. 313; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dichiarazione di tipo approvato nazionale: la dichiarazione con la quale il Ministero delle infrastrutture e dei trasporti - Comando generale del Corpo delle capitanerie di porto - riconosce la conformita' dell'equipaggiamento marittimo sulle navi mercantili nel caso di un equipaggiamento marittimo non previsto dagli atti di esecuzione della Commissione europea; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    dichiarazione UE di conformita': la dichiarazione rilasciata dal fabbricante in conformita' all'articolo 18 del presente decreto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    distributore: una persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall'importatore, che mette a disposizione sul mercato l'equipaggiamento marittimo; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    equipaggiamento marittimo: l'equipaggiamento che rientra nell'ambito di applicazione del presente decreto, ai sensi dell'articolo 2, comma 1; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    fabbricante: una persona fisica o giuridica che produce equipaggiamento marittimo oppure lo fa progettare o fabbricare e lo commercializza apponendovi il suo nome o marchio; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    immissione sul mercato: la prima messa a disposizione di equipaggiamento marittimo sul mercato dell'Unione europea; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    importatore: una persona fisica o giuridica stabilita nell'Unione europea che immette sul mercato dell'Unione europea equipaggiamento marittimo proveniente da un paese terzo; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    marcatura di conformita': il simbolo di cui all'articolo 8 o l'etichetta elettronica nei casi previsti dall'articolo 9; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    messa a disposizione sul mercato: la fornitura di equipaggiamento marittimo sul mercato dell'Unione europea nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    Ministero delle infrastrutture e dei trasporti: Comando generale del Corpo delle capitanerie di porto; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    nave nazionale: una nave iscritta nelle matricole o nei registri dell'autorita' marittima e che rientra nel campo di applicazione delle convenzioni internazionali, escluse le navi da guerra; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    nave UE: una nave battente bandiera di uno Stato membro e che rientra nell'ambito di applicazione delle convenzioni internazionali, escluse le navi da guerra; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    normativa europea di armonizzazione: la normativa dell'Unione europea che armonizza le condizioni di commercializzazioni dei prodotti; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    norme di prova: le norme di prova per l'equipaggiamento marittimo previste da: 
+ 1) Organizzazione marittima internazionale (IMO); 
+ 2) Organizzazione internazionale per la normalizzazione (ISO); 
+ 3) Commissione elettrotecnica internazionale (CEI); 
+ 4) Comitato europeo di normalizzazione (CEN); 
+ 5) Comitato europeo di normalizzazione elettrotecnica (Cenelec); 
+ 6) Unione internazionale delle telecomunicazioni (ITU); 
+ 7) Istituto europeo per le norme di telecomunicazione (ETSI); 
+ 8) Commissione europea; 
+ 9) autorita' di regolamentazione riconosciute negli accordi di riconoscimento reciproco dei quali l'Unione e' parte contraente; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    operatori economici: il fabbricante, il rappresentante autorizzato, l'importatore e il distributore; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    organismo di valutazione della conformita': un organismo che svolge l'attivita' di valutazione della conformita', fra cui taratura, prova, certificazione e ispezione; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    organismo nazionale di accreditamento: l'organismo nazionale di accreditamento di cui all'articolo 2, punto 11), del regolamento (CE) n. 765/2008; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    organismo notificato: un organismo designato ai sensi dell'articolo 19; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    organismo riconosciuto: un organismo riconosciuto o affidato, ai sensi del decreto legislativo 14 giugno 2011, n. 104; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    prodotto: un elemento dell'equipaggiamento marittimo; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    rappresentante autorizzato: un soggetto stabilito nell'Unione europea che ha ricevuto in relazione a determinate attivita' un mandato con rappresentanza da parte di un fabbricante; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    richiamo: un provvedimento volto a ottenere la restituzione dell'equipaggiamento marittimo che e' gia' stato installato a bordo di navi UE o acquistato con l'intenzione di installarlo a bordo delle medesime navi; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    ritiro: una misura volta a impedire la messa a disposizione sul mercato di equipaggiamento marittimo presente nella catena di fornitura; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    specificazione tecnica: un documento che prescrive i requisiti tecnici che devono essere soddisfatti da un prodotto; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    strumenti internazionali: le convenzioni internazionali in materia di sicurezza della navigazione, le risoluzioni e le circolari dell'Organizzazione marittima internazionale (IMO) nonche' le norme di prova; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    valutazione della conformita': il processo compiuto dagli organismi notificati, finalizzato a dimostrare che l'equipaggiamento marittimo e' conforme ai requisiti del presente decreto; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    vigilanza del mercato: le attivita' di cui all'articolo 2, punto 17), del regolamento (CE) n. 765/2008.
+
 ## Art. 4.
 
 Conformita' dell'equipaggiamento marittimo - 
@@ -58,6 +323,38 @@ I requisiti e le norme di prova di cui ai commi 1 e 2 sono indicati dalla Commis
 Fermo restando quanto previsto al comma 1, l'equipaggiamento marittimo da installare o gia' installato su navi nazionali per il quale la Commissione europea non ha indicato i requisiti e le norme di prova deve essere conforme ai requisiti di progettazione, costruzione ed efficienza stabiliti dal Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento.
 
 ## Art. 5. — Funzioni delle amministrazioni competenti - Attuazione dell'articolo 5 della direttiva 2014/90/UE
+
+1.
+                        
+                            
+                                Il Ministero delle infrastrutture e dei trasporti svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attua la normativa in materia di ispezione e certificazione relativa all'equipaggiamento marittimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercita l'attivita' di coordinamento e indirizzo in materia di equipaggiamento marittimo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicura il controllo e il coordinamento dell'attivita' ispettiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    programma annualmente, d'intesa con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, specifiche campagne ispettive finalizzate alla verifica della conformita' dell'equipaggiamento marittimo da installare o gia' installato a bordo di navi nazionali e di navi UE sulla base dei rapporti ispettivi, nonche' sulla base di risultati statistici annuali e di apposite ricerche relativamente alle violazioni in materia di conformita'.
 
 Al fine di garantire la conformita' dell'equipaggiamento marittimo da installare o gia' installato a bordo di navi nazionali e di navi UE ai requisiti previsti dai pertinenti strumenti internazionali applicabili, l'autorita' marittima, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, attraverso gli ispettori autorizzati, nonche', laddove previsto, gli organismi riconosciuti, esercita l'attivita' di ispezione.
 
@@ -82,6 +379,24 @@ Una nave non UE che deve essere iscritta nelle matricole o nei registri tenuti d
 Nel caso in cui l'equipaggiamento non rechi la marcatura di conformita' di cui all'articolo 8, il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, a richiesta dell'armatore della nave o di un suo legale rappresentante, stabilisce, previo accertamento tecnico, se l'equipaggiamento e' equivalente al tipo conforme al presente decreto.
 
 Nel caso in cui non possa essere determinata la data di installazione a bordo dell'equipaggiamento, il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, stabilisce con proprio provvedimento i requisiti di equivalenza soddisfacenti per il singolo caso, tenendo conto dei pertinenti strumenti internazionali.
+
+4.
+                        
+                            
+                                L'equipaggiamento di cui al comma 2 e' sostituito in uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, non lo ritiene equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per quanto riguarda le apparecchiature di radiocomunicazione, il Ministero dello sviluppo economico non lo ritiene equivalente.
 
 Il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, per l'equipaggiamento ritenuto equivalente ai sensi del comma 2, rilascia un certificato che e' custodito unitamente all'equipaggiamento. Il certificato attesta che l'equipaggiamento puo' essere installato a bordo della nave e indica eventuali restrizioni concernenti il suo uso.
 
@@ -141,6 +456,24 @@ Il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministraz
 
 Nel caso in cui non possa essere determinata la data di installazione a bordo dell'equipaggiamento marittimo, il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, stabilisce con proprio provvedimento i requisiti di equivalenza soddisfacenti per il singolo caso, tenuto conto dei pertinenti strumenti internazionali.
 
+4.
+                        
+                            
+                                L'equipaggiamento di cui al comma 2, e' sostituito in uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, non lo ritiene equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per quanto riguarda le apparecchiature di radiocomunicazione, il Ministero dello sviluppo economico non lo ritiene equivalente.
+
 Il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, per l'equipaggiamento ritenuto equivalente ai sensi del comma 2, rilascia un certificato che e' custodito unitamente all'equipaggiamento. Il certificato attesta che l'equipaggiamento puo' essere installato a bordo della nave e indica eventuali restrizioni concernenti il suo uso.
 
 Per le apparecchiature di radiocomunicazione il certificato di cui al comma 5 e' rilasciato dal Ministero dello sviluppo economico.
@@ -173,6 +506,31 @@ I fabbricanti che non hanno sede nel territorio di almeno uno Stato membro nomin
 
 Sono in ogni caso esclusi dal mandato conferito al rappresentante autorizzato gli obblighi di cui all'articolo 12, comma 1, e l'elaborazione della documentazione tecnica.
 
+3.
+                        
+                            
+                                Il rappresentante autorizzato esegue i compiti specificati nel mandato ricevuto dal fabbricante. Il mandato consente al rappresentante autorizzato almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di mantenere a disposizione dell'autorita' di vigilanza del mercato la dichiarazione UE di conformita' di cui all'articolo 17 e la documentazione tecnica per dieci anni dalla data di apposizione della marcatura di conformita' e, in ogni caso, non inferiore al periodo di vita atteso dell'equipaggiamento marittimo interessato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di fornire, a seguito di una richiesta motivata dell'autorita' di vigilanza del mercato, tutte le informazioni e la documentazione necessaria per dimostrare la conformita' del prodotto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di cooperare con l'autorita' di vigilanza del mercato, su sua richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dai prodotti che rientrano nel suo mandato.
+
 ## Art. 14. — Obblighi degli importatori e dei distributori - Attuazione dell'articolo 14 della direttiva 2014/90/UE
 
 Gli importatori indicano sull'equipaggiamento marittimo oppure, ove cio' non e' possibile, sull'imballaggio o in un documento di accompagnamento dello stesso o, se del caso, su entrambi, il loro nome, la loro denominazione commerciale registrata o il loro marchio registrato e l'indirizzo al quale possono essere contattati.
@@ -185,6 +543,24 @@ Un importatore o un distributore che mette a disposizione sul mercato o installa
 
 ## Art. 16. — Identificazione degli operatori economici - Attuazione dell'articolo 14, paragrafo 4, della direttiva 2014/90/UE
 
+1.
+                        
+                            
+                                Su richiesta, gli operatori economici comunicano all'autorita' di vigilanza del mercato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nominativo di ogni operatore economico che ha fornito loro equipaggiamento marittimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nominativo di ogni operatore economico cui essi hanno fornito equipaggiamento marittimo.
+
 Gli operatori economici sono tenuti a produrre le informazioni di cui al comma 1 per un periodo di dieci anni dalla data di apposizione della marcatura di conformita' e, in ogni caso, per un periodo di tempo non inferiore al periodo di vita atteso dell'equipaggiamento marittimo interessato.
 
 ## - Capo IV Valutazione della conformita' e notifica degli organismi di  valutazione della conformita'
@@ -196,6 +572,32 @@ Procedure della valutazione di conformita' - Attuazione dell'articolo 15 della d
 Le procedure della valutazione della conformita' sono indicate nell'allegato II al presente decreto.
 
 Il fabbricante o il suo rappresentante autorizzato effettua, mediante un organismo notificato, la valutazione della conformita' per un elemento specifico dell'equipaggiamento marittimo, applicando una delle procedure relative ai pertinenti moduli di cui all'allegato II al presente decreto.
+
+3.
+                        
+                            
+                                Per i fini di cui al comma 2, nel caso in cui sia utilizzato il modulo B (esame CE del tipo) prima della messa a disposizione sul mercato, l'equipaggiamento marittimo e' soggetto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    modulo D (garanzia della qualita' di produzione); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modulo E (garanzia della qualita' del prodotto); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modulo F (verifica del prodotto). 
+ 3. Nei casi in cui insiemi di equipaggiamento marittimo siano prodotti singolarmente o in piccole quantita', e non in serie o in massa, la procedura di valutazione della conformita' puo' consistere nella verifica CE di una unica unita' (modulo G).
 
 ## Art. 18.
 
@@ -225,6 +627,59 @@ Le modalita' di svolgimento dell'attivita' di cui al primo periodo del comma 3 e
 
 Il Ministero delle infrastrutture e dei trasporti assume piena responsabilita' per i compiti svolti dall'organismo di cui al comma 4. Relativamente ai compiti attribuiti dal presente articolo e dall'articolo 24 al Ministero delle infrastrutture e dei trasporti e al Ministero dello sviluppo economico, le competenze e le responsabilita' degli uffici dirigenziali generali competenti sono ripartite secondo il regolamento di organizzazione dei medesimi Ministeri.
 
+6.
+                        
+                            
+                                Il Ministero dello sviluppo economico, quale autorita' di notifica, e il Ministero delle infrastrutture e dei trasporti, ai fini dell'attivita' di valutazione, autorizzazione e controllo, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo ovvero con l'organismo nazionale di accreditamento, organizzano e gestiscono le relative attivita' nel rispetto delle seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in modo che non sorgano conflitti d'interesse con gli organismi di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in modo che sia salvaguardata l'obiettivita' e l'imparzialita' delle attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in modo che ogni decisione relativa alla notifica di un organismo di valutazione della conformita' sia presa da persone competenti diverse da quelle che hanno effettuato la valutazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    evitando di offrire ed effettuare attivita' eseguite dagli organismi di valutazione della conformita' o servizi di consulenza commerciali o su base concorrenziale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    salvaguardando la riservatezza delle informazioni ottenute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assegnando a tali attivita' un numero di dipendenti competenti sufficiente per l'adeguata esecuzione dei suoi compiti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    semplificando e riducendo gli oneri amministrativi gravanti sugli operatori economici.
+
 ## Art. 20. — Organismi notificati - Attuazione dell'allegato III della direttiva 2014/90/UE
 
 Possono essere autorizzati a espletare le procedure di valutazione di conformita' di cui all'articolo 17 gli organismi per la valutazione della conformita', previa notifica alla Commissione europea, che soddisfano le disposizioni di cui ai commi da 2 a 12.
@@ -238,6 +693,72 @@ L'organismo di valutazione della conformita', i suoi dirigenti apicali e il pers
 L'organismo di valutazione della conformita' garantisce che le attivita' delle sue affiliate o dei suoi subappaltatori non si ripercuotano sulla riservatezza, sull'obiettivita' o sull'imparzialita' delle sue attivita' di valutazione della conformita'.
 
 L'organismo di valutazione della conformita' e il suo personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica e sono liberi da qualsivoglia pressione o incentivo, soprattutto di ordine finanziario, che puo' influenzare il proprio giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
+
+6.
+                        
+                            
+                                L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli ai sensi del presente decreto e per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'.
+In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di equipaggiamento marittimo per il quale e' stato notificato, l'organismo di valutazione della conformita' ha a sua disposizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le necessarie descrizioni delle procedure in base alle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una politica e procedure appropriate che distinguono i compiti che svolge in qualita' di organismo notificato dalle altre attivita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia dell'equipaggiamento marittimo in questione e della natura di massa o seriale del processo produttivo.
+
+7.
+                        
+                            
+                                L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutti gli strumenti o impianti occorrenti.
+Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone di quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione tecnica e professionale solida che include tutte le attivita' di valutazione della conformita' in relazione alle quali l'organismo di valutazione della conformita' e' stato notificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una conoscenza e una comprensione adeguate dei requisiti essenziali delle norme armonizzate applicabili, delle disposizioni pertinenti della normativa di armonizzazione dell'Unione europea nonche' delle normative nazionali applicabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di redigere certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei loro dirigenti apicali e del personale addetto allo svolgimento di compiti di valutazione della conformita'. La remunerazione dei dirigenti apicali e del personale addetto allo svolgimento di compiti di valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -276,7 +797,100 @@ L'autorizzazione agli organismi che presentano domanda ai sensi dell'articolo 22
 
 Il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, avvia l'attivita' istruttoria sulla documentazione che accompagna la domanda e pianifica i controlli da effettuarsi presso le sedi dell'organismo richiedente e di eventuali altri soggetti di cui all'articolo 21, per l'accertamento dei requisiti prescritti e di ogni altro elemento ritenuto necessario.
 
+3.
+                        
+                            
+                                Il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge i controlli periodici, con cadenza quantomeno biennale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decide sull'opportunita' di procedere, in ogni momento, congiuntamente o disgiuntamente, di propria iniziativa o a seguito di segnalazioni esterne, al controllo degli organismi per verificare le condizioni in base alle quali gli stessi hanno ottenuto l'autorizzazione, il mantenimento dei requisiti, il regolare svolgimento delle procedure e l'adempimento dei propri obblighi.
+
 Il Ministero delle infrastrutture e dei trasporti autorizza solo gli organismi di valutazione della conformita' che soddisfano le prescrizioni di cui all'articolo 20.
+
+5.
+                        
+                            
+                                Nel caso di violazioni in merito al possesso dei requisiti di cui all'articolo 20, al regolare svolgimento delle procedure o all'adempimento dei propri obblighi da parte dell'organismo notificato, anche su segnalazione delle amministrazioni competenti in base alla tipologia di equipaggiamento marittimo, l'autorita' di notifica limita, sospende o ritira la notifica, a seconda dei casi, in funzione della gravita' del mancato rispetto di tali prescrizioni o dell'inadempimento di tali obblighi, e ne informa immediatamente la Commissione europea e gli altri Stati membri. La misura puo' consistere in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiamo scritto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospensione parziale o totale dell'autorizzazione per un periodo variabile da tre mesi a un anno, in relazione alla gravita' dell'irregolarita' rilevata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    revoca dell'autorizzazione.
+
+6.
+                        
+                            
+                                La misura della sospensione parziale o totale di cui al comma 5, si applica quando l'organismo notificato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non ottempera alle disposizioni date dall'autorita' di notifica, nonostante il richiamo scritto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    viola norme legislative e amministrative che regolano l'attivita' di valutazione della conformita' dei prodotti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non comunica o non trasmette le informazioni o i documenti richiesti.
+
+7.
+                        
+                            
+                                La misura della revoca dell'autorizzazione e' sempre disposta quando l'organismo notificato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha ricevuto almeno due provvedimenti di sospensione nel quinquennio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' inattivo per oltre un anno salvo comprovati motivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    continua a commettere una violazione gia' sanzionata con la sospensione a norma del comma 6.
 
 Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro delle infrastrutture e dei trasporti, il Ministro dell'interno e il Ministro dell'ambiente e della tutela del territorio e del mare, da emanarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite, nel rispetto del principio del contradditorio e dei principi generali dell'attivita' amministrativa, le procedure di applicazione delle misure di cui al comma 5 per le violazioni accertate dall'autorita' di notifica.
 
@@ -313,6 +927,31 @@ Nel caso in cui non siano adottate misure correttive o queste non producano il r
 
 ## Art. 26. — Obbligo di informazione a carico degli organismi notificati - Attuazione dell'articolo 24 della direttiva 2014/90/UE
 
+1.
+                        
+                            
+                                Gli organismi notificati informano il Ministero delle infrastrutture e dei trasporti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato di conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di qualunque circostanza che puo' influire sull'ambito e sulle condizioni della notifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
+
 Il Ministero delle infrastrutture e dei trasporti comunica al Ministero dello sviluppo economico e alle amministrazioni competenti in base alla tipologia di equipaggiamento marittimo le informazioni di cui al comma 1.
 
 Su richiesta della Commissione europea e degli Stati membri, gli organismi notificati forniscono le informazioni pertinenti sugli esiti delle valutazioni della conformita'.
@@ -330,6 +969,39 @@ Gli articoli da 15 a 29 del regolamento CE n. 765/2008 si applicano alla vigilan
 La vigilanza sul mercato relativa all'equipaggiamento marittimo e' svolta dall'autorita' di vigilanza del mercato. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, il Ministro dello sviluppo economico e il Ministro dell'ambiente e della tutela del territorio e del mare, da adottare entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' per la vigilanza sul mercato dell'equipaggiamento marittimo.
 
 Al fine di garantire che l'equipaggiamento marittimo di cui all'articolo 2 sia conforme ai requisiti stabiliti dal presente decreto, l'autorita' di vigilanza del mercato, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, ha facolta' di disporre verifiche e controlli mediante i propri uffici centrali o periferici.
+
+4.
+                        
+                            
+                                Gli accertamenti possono essere effettuati, anche con metodo a campione, presso gli operatori economici e i depositi sussidiari degli operatori economici, nonche' presso le navi nazionali e le navi UE. L'accertamento sull'equipaggiamento marittimo gia' installato a bordo di navi nazionali e di navi UE e' limitato all'esame effettuato, finche' l'equipaggiamento marittimo rimane in funzione a bordo. 
+ A tale fine, e' consentito, a spese degli operatori economici e degli armatori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accesso ai luoghi di fabbricazione o di immagazzinamento dell'equipaggiamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'acquisizione di tutte le informazioni necessarie all'accertamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prelievo di campioni per l'esecuzione di esami e prove, qualora necessario e giustificato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'effettuazione di esami e prove presso strutture tecniche specializzate, pubbliche o private.
 
 Le funzioni di controllo alle frontiere esterne sono svolte dall'Agenzia delle dogane e dei monopoli conformemente agli articoli da 27 a 29 del regolamento (CE) n. 765/2008.
 
@@ -367,6 +1039,38 @@ L'autorita' di vigilanza del mercato cura, se necessario, l'attuazione delle dec
 
 Non conformita' formale - Attuazione dell'articolo 29 della direttiva 2014/90/UE
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 28, l'autorita' di vigilanza del mercato chiede all'operatore economico interessato di eliminare lo stato di non conformita', entro il termine perentorio di sessanta giorni, nel caso in cui ricorrano una o piu' delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la marcatura di conformita' non e' stata apposta o e' stata apposta in violazione dell'articolo 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dichiarazione UE di conformita' non e' stata redatta o non e' stata redatta correttamente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione tecnica non e' disponibile o e' incompleta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la dichiarazione UE di conformita' non e' stata trasmessa alla nave.
+
 Nel caso in cui la non conformita' di cui al comma 1 permanga, l'autorita' di vigilanza del mercato adotta tutte le opportune misure per limitare o proibire la messa a disposizione sul mercato dell'equipaggiamento marittimo o garantisce che e' richiamato o ritirato dal mercato, a spese degli operatori economici in funzione dei rispettivi obblighi.
 
 ## Art. 31. — Deroghe motivate dall'innovazione tecnica - Attuazione dell'articolo 30 della direttiva 2014/90/UE
@@ -394,6 +1098,38 @@ L'equipaggiamento di cui al comma 1 non e' utilizzato al posto dell'equipaggiame
 Se l'equipaggiamento di una nave nazionale deve essere sostituito in un porto fuori dall'Unione europea e vi sono circostanze eccezionali, debitamente giustificate dall'autorita' marittima, che non consentono di installare a bordo in tempi e a costi ragionevoli l'equipaggiamento provvisto della marcatura di conformita' di cui all'articolo 8 o dichiarato di tipo approvato nazionale, puo' essere installato altro equipaggiamento, corredato della documentazione rilasciata da un altro Stato membro dell'IMO attestante la conformita' ai requisiti dei pertinenti strumenti internazionali. Il comandante della nave, l'armatore o il suo rappresentante legale forniscono immediatamente all'autorita' marittima di iscrizione della nave ogni elemento idoneo per verificare le citate circostanze eccezionali, nonche' comunicano le caratteristiche dell'equipaggiamento marittimo installato. Ricevuta tale comunicazione, l'autorita' marittima esegue quanto prima possibile una ispezione, per verificare se le effettive condizioni dell'equipaggiamento marittimo corrispondono ai pertinenti strumenti internazionali e sono conformi al presente decreto. Gli accertamenti riguardanti apparecchiature di radiocomunicazione sono di competenza del Ministero dello sviluppo economico. L'autorita' marittima comunica le attivita' svolte nei porti esteri all'ufficio consolare, che puo' fornire assistenza nelle relazioni con lo Stato del porto.
 
 Nel caso in cui non sia disponibile sul mercato uno specifico equipaggiamento marittimo provvisto della marcatura di conformita' di cui all'articolo 8 o un equipaggiamento dichiarato di tipo approvato nazionale, e' possibile installare altro equipaggiamento marittimo quanto piu' possibile conforme ai requisiti e alle norme di prova di cui all'articolo 4.
+
+3.
+                        
+                            
+                                Il Ministero delle infrastrutture e dei trasporti, di concerto con l'amministrazione competente in base alla tipologia di equipaggiamento marittimo, per l'equipaggiamento di cui al comma 2, rilascia un certificato provvisorio di approvazione, che e' custodito unitamente all'equipaggiamento. Il certificato deve attestare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'equipaggiamento provvisto della marcatura di conformita' che deve essere sostituito dall'equipaggiamento certificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le esatte circostanze in cui e' stato rilasciato il certificato di approvazione e l'indisponibilita' sul mercato dell'equipaggiamento provvisto della marcatura di conformita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli esatti requisiti di progettazione, costruzione ed efficienza sulla base dei quali l'equipaggiamento e' stato approvato dallo Stato membro IMO di certificazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le eventuali norme di prova applicate nelle procedure di approvazione pertinenti.
 
 Il Ministero delle infrastrutture e dei trasporti, dopo aver rilasciato il certificato di cui al comma 3, informa immediatamente la Commissione europea. Il certificato e' ritirato se la Commissione europea lo richiede, a norma dell'articolo 32, paragrafo 8, della direttiva n. 2014/90/UE.
 

@@ -8,8 +8,8 @@ codice_redazionale: 008G0101
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,11 +39,89 @@ Con il presente decreto sono individuati gli obblighi di comunicazione a carico 
 
 ## Art. 2. — Attivita' ammissibili
 
+1.
+                    
+                        
+                            Coerentemente con quanto previsto dalla disciplina comunitaria in materia di aiuti di Stato a favore di ricerca, sviluppo e innovazione, sono ammissibili al credito d'imposta di cui ai commi 280 e seguenti dell'articolo 1 della legge 27 dicembre 2006, n. 296, le seguenti attivita' di ricerca e sviluppo:
+ 
+                        
+                        
+                            a)
+                            
+                                lavori sperimentali o teorici svolti soprattutto per acquisire nuove conoscenze sui fondamenti di fenomeni e di fatti osservabili, senza che siano previste applicazioni o utilizzazioni pratiche dirette;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ricerca pianificata o indagini critiche miranti ad acquisire nuove conoscenze, da utilizzare per mettere a punto nuovi prodotti, processi o servizi o permettere un notevole miglioramento dei prodotti, processi o servizi esistenti; creazione di componenti di sistemi complessi necessaria per la ricerca industriale, in particolare per la validazione di tecnologie generiche, ad esclusione dei prototipi di cui alla lettera c);
+
+                            
+                        
+                        
+                            c)
+                            
+                                acquisizione, combinazione, strutturazione e utilizzo delle conoscenze e capacita' esistenti di natura scientifica, tecnologica, commerciale e altro, allo scopo di produrre piani, progetti o disegni per prodotti, processi o servizi nuovi, modificati o migliorati; puo' trattarsi anche di altre attivita' destinate alla definizione concettuale, alla pianificazione e alla documentazione concernenti nuovi prodotti, processi e servizi; tali attivita' possono comprendere l'elaborazione di progetti, disegni, piani e altra documentazione, purche' non siano destinati a uso commerciale; realizzazione di prototipi utilizzabili per scopi commerciali e di progetti pilota destinati a esperimenti tecnologici e/o commerciali, quando il prototipo e' necessariamente il prodotto commerciale finale e il suo costo di fabbricazione e' troppo elevato per poterlo usare soltanto a fini di dimostrazione e di convalida. L'eventuale, ulteriore sfruttamento di progetti di dimostrazione o di progetti pilota a scopo commerciale comporta la deduzione dei redditi cosi' generati dai costi ammissibili. Produzione e collaudo di prodotti, processi e servizi, a condizione che non siano impiegati o trasformati in vista di applicazioni industriali o per finalita' commerciali. Non sono ammissibili le modifiche di routine o le modifiche periodiche apportate a prodotti, linee di produzione, processi di fabbricazione, servizi esistenti e altre operazioni in corso, anche quando tali modifiche rappresentino miglioramenti.
+
 ## Art. 3. — Soggetti beneficiari
 
 Possono beneficiare del credito d'imposta le imprese operanti in tutti i settori di attivita', escluse le imprese in difficolta' di cui alla definizione degli Orientamenti comunitari sugli aiuti di Stato per il salvataggio e la ristrutturazione di imprese in difficolta' (2004/C 244/2).
 
 ## Art. 4. — Costi ammissibili
+
+1.
+                    
+                        
+                            Ai fini della determinazione del credito d'imposta, sono ammissibili, nel limite massimo di 50 milioni di euro per ciascun periodo d'imposta, i costi, nella misura congrua e pertinente, riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                il personale, limitatamente a ricercatori e tecnici, purche' impiegati nell'attivita' di ricerca e sviluppo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli strumenti e le attrezzature di laboratorio, nella misura e per il periodo in cui sono utilizzati per l'attivita' di ricerca e sviluppo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i fabbricati ed i terreni esclusivamente per la realizzazione di centri di ricerca, nella misura e per il periodo in cui sono utilizzati per l'attivita' di ricerca e sviluppo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la ricerca contrattuale, le competenze tecniche e i brevetti, acquisiti ovvero ottenuti in licenza da fonti esterne a prezzi di mercato, nell'ambito di un'operazione effettuata alle normali condizioni di mercato e che non comporti elementi di collusione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i servizi di consulenza, utilizzati esclusivamente ai fini dell'attivita' di ricerca e sviluppo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le spese generali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i costi sostenuti per l'acquisto di materiali, forniture e prodotti analoghi, utilizzati per l'attivita' di ricerca e sviluppo.
 
 Con riferimento ai costi di cui alla lettera a) del comma 1, viene preso in considerazione il costo aziendale del personale dipendente, compreso quello assunto con contratto «a progetto», in rapporto all'effettivo impiego per le attivita' di ricerca e sviluppo.
 
@@ -60,6 +138,38 @@ L'impresa beneficiaria indica, a pena di decadenza, in un'apposita sezione della
 ## Art. 6. — Controlli
 
 I controlli sulla corretta fruizione del credito d'imposta da parte delle imprese beneficiarie sono effettuati dall'Agenzia delle entrate nell'ambito dell'ordinaria attivita' di controllo. Qualora siano necessarie valutazioni di carattere tecnico in ordine alla ammissibilita' di specifiche attivita' ovvero alla pertinenza e congruita' dei costi, i controlli possono essere effettuati con la collaborazione del Ministero dello sviluppo economico, che, previa richiesta della stessa Agenzia, esprime il proprio parere ovvero dispone la partecipazione di proprio personale all'attivita' di controllo.
+
+2.
+                    
+                        
+                            Con riferimento ai costi sulla base dei quali e' stato determinato l'importo del credito d'imposta, le imprese beneficiarie sono tenute a conservare tutta la documentazione utile a dimostrare l'ammissibilita' e l'effettivita' degli stessi e in particolare, oltre ai titoli di spesa relativi alle acquisizioni di beni e servizi:
+ 
+                        
+                        
+                            a)
+                            
+                                per quanto riguarda i costi del personale, fogli di presenza nominativi riportanti per ciascun giorno le ore impiegate nell'attivita' di ricerca e sviluppo, firmati dal legale rappresentante dell'impresa beneficiaria, ovvero dal responsabile dell'attivita' di ricerca e sviluppo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per quanto riguarda gli strumenti e le attrezzature di laboratorio, dichiarazione del legale rappresentante dell'impresa, ovvero del responsabile dell'attivita' di ricerca e sviluppo, relativa alla misura ed al periodo in cui gli stessi sono stati utilizzati per l'attivita' di ricerca e sviluppo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per quanto riguarda i fabbricati dedicati esclusivamente alla realizzazione di centri di ricerca, dichiarazione del legale rappresentante dell'impresa, ovvero del responsabile dell'attivita' di ricerca e sviluppo, relativa alla misura ed al periodo in cui gli stessi sono stati utilizzati per l'attivita' di ricerca e sviluppo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per quanto riguarda le acquisizioni effettuate mediante locazione finanziaria, documentazione attestante il costo sostenuto dal concedente.
 
 La documentazione di cui alle lettere a), b), c) e d) del comma 2 e' predisposta annualmente entro la data di presentazione della dichiarazione dei redditi ed e' controfirmata da un revisore dei conti o da un professionista iscritto nell'albo dei revisori dei conti, dei dottori commercialisti, dei ragionieri e periti commerciali o in quello dei consulenti del lavoro, ovvero dal responsabile del centro di assistenza fiscale.
 

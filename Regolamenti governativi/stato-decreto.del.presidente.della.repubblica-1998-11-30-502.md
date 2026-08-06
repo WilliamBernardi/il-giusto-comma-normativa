@@ -8,8 +8,8 @@ codice_redazionale: 099G0050
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,24 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Ministro per le politiche comunitarie, di concerto con i Ministri dell'industria, del commercio e dell'artigianato e della sanita';
 
 ## Art. 1. — Pane parzialmente cotto
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione dell'articolo 14, comma 4, della legge 4 luglio 1967, n. 580, come modificato dall'articolo 44 della legge 22 febbraio 1994, n. 146, il pane ottenuto mediante completamento di cottura da pane parzialmente cotto, surgelato o non surgelato, deve essere distribuito e messo in vendita in comparti separati dal pane fresco e in imballaggi preconfezionati riportati oltre alle indicazioni previste dal decreto legislativo 27 gennaio 1992, n. 109, anche le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                "ottenuto da pane parzialmente cotto surgelato" in caso di provenienza da prodotto surgelato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "ottenuto da pane parzialmente cotto" in caso di provenienza da prodotto non surgelato ne' congelato.
 
 Ove le operazioni di completamento della cottura e di preconfezionamento del pane non possano avvenire in aree separate da quelle di vendita del prodotto, dette operazioni possono avvenire, fatte salve comunque le norme igienicosanitarie, anche nella stessa area di vendita e la specifica dicitura di cui al comma l deve figurare altresi' su un cartello esposto in modo chiaramente visibile al consumatore nell'area di vendita.
 
@@ -89,6 +107,31 @@ La crema di lievito impiegabile nella panificazione deve essere costituita da ce
 Le disposizioni del presente regolamento, nonche' quelle previste dalla legge 4 luglio 1967, n. 580, non si applicano al pane legalmente prodotto o commercializzato negli Stati membri dell'Unione europea ed a quello originario dei Paesi contraenti dell'Accordo sullo spazio economico europeo, introdotto e posto in vendita sul territorio nazionale.
 
 ## Art. 10. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente regolamento cessano di avere efficacia le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 18, comma primo, 19, 20, 22, 24, commi terzo e quarto, 25, comma secondo, 37 e 38 della legge 4 luglio 1967, n. 580;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 31 del regio decreto-legge 15 ottobre 1925, n. 2033, convertito dalla legge 18 marzo 1926, n. 562;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 124 del regio decreto 3 agosto 1890, n. 7045.
 
 ## Art. 11. — Norme transitorie
 

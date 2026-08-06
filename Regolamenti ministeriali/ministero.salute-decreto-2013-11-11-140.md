@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2013-11-11;140
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,37 @@ L'articolo 37 del decreto del Ministro della sanita' 21 marzo 1973 e' sostituito
 ## Art. 2.
 
 L'allegato II, sezione 6: «Acciai inossidabili» del decreto del Ministro della sanita' 21 marzo 1973 e' sostituito dall'allegato I al presente decreto.
+
+2.
+                    
+                        
+                            Nell'allegato IV, sezione 2: «Determinazione della migrazione specifica» del decreto del Ministro della sanita' 21 marzo 1973 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il punto 3 e' sostituito come segue: 
+ «3. Cromo trivalente. 
+ La determinazione del cromo (trivalente) viene effettuata sul liquido di cessione, mediante spettrofotometria di assorbimento atomico o altra tecnica di prestazioni adeguate ai limiti previsti, adattando le modalita' operative (concentrazione o diluizione) alla particolare sensibilita' dello strumento disponibile.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il punto 5 e' sostituito come segue: 
+ «5. Nichel. 
+ La determinazione del nichel viene effettuata sul liquido di cessione, mediante spettrofotometria di assorbimento atomico o altra tecnica di prestazioni adeguate ai limiti previsti, adattando le modalita' operative (concentrazione o diluizione) alla particolare sensibilita' dello strumento disponibile.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il punto 10 e' sostituito come segue: 
+ «10. Manganese. 
+ La determinazione del manganese viene effettuata sul liquido di cessione, mediante spettrofotometria di assorbimento atomico o altra tecnica di prestazioni adeguate ai limiti previsti, adattando le modalita' operative (concentrazione o diluizione) alla particolare sensibilita' dello strumento disponibile.».
 
 ## Art. 3.
 

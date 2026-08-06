@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -53,6 +53,24 @@ Fermo restando quanto previsto dall'art. 1, comma 3, il personale da adibire a m
 I comuni con popolazione inferiore a 100 mila abitanti provvedono, nell'ambito delle disponibilita' di bilancio - nel rispetto di quanto stabilito dall'art. 16 della legge 28 febbraio 1987, n. 56, e successive modificazioni ed integrazioni - al reclutamento del personale indicato nel comma 1, secondo i sistemi di selezione previsti dai relativi regolamenti, garantendo in ogni caso la pubblicita' dell'avviso di reclutamento ai sensi dell'art. 7, comma 6, della legge 29 dicembre 1988, n. 554.
 
 ## Art. 3. — Formazione della graduatoria
+
+1.
+                    
+                        
+                            Le amministrazioni e gli enti pubblici, con riferimento alle singole qualifiche, categorie o profili professionali ed ai regimi di orario a tempo pieno e a tempo parziale indicati negli avvisi di reclutamento, predispongono apposite graduatorie, sulla base dei seguenti titoli dichiarati dai candidati nelle domande:
+ 
+                        
+                        
+                            a)
+                            
+                                votazione riportata nel conseguimento del titolo di studio richiesto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                precedenti rapporti di pubblico impiego, anche a tempo determinato, purche' non si siano conclusi per demerito.
 
 Alla votazione conseguita nel titolo di studio prescritto rispettivamente per l'accesso alla settima e per l'accesso alla quinta ed alla sesta qualifica funzionale e' attribuito un punteggio fino al massimo di 4 punti. Per ciascun periodo di nove mesi prestato con rapporto a tempo indeterminato e per ciascun periodo di novanta giorni prestato con rapporto a tempo determinato sono attribuiti, in aggiunta, punti 0,50 fino ad un massimo di punti 6. A parita' di punteggio precede in graduatoria il candidato piu' anziano di eta'.
 In nessun caso sono valutati i periodi di servizio a tempo indeterminato che hanno dato luogo a trattamento pensionistico.

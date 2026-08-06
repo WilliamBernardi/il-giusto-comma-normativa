@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,45 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dei trasport
 Il presente decreto individua misure di sicurezza marittima aventi come obiettivo il miglioramento della sicurezza nei porti e tali da garantire che le misure adottate in applicazione del regolamento (CE) n. 725/2004 ne risultino rinforzate.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «porto»: una specifica area terrestre e marittima, comprendente impianti ed attrezzature intesi ad agevolare le operazioni commerciali di trasporto marittimo, come individuata ai sensi dell'articolo 3, comma 2, che ha al suo interno uno o piu' impianti portuali dotati di un piano di sicurezza approvato a norma del regolamento (CE) n. 725/2004 che forniscono servizi alle navi di cui alla regola 2, cap. XI-2 Convenzione SOLAS o alle navi di cui all'articolo 3, comma 2, del citato regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Amministrazione»: il Ministero dei trasporti - Comando generale del Corpo delle capitanerie di porto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «punto di contatto nazionale per la sicurezza dei porti»: il Ministero dei trasporti - Comando generale del Corpo delle capitanerie di porto, incaricato di mantenere i contatti con la Commissione europea e gli altri Stati membri, in merito all'attuazione, al controllo e all'informazione sull'applicazione delle misure di sicurezza di cui alle presenti norme;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Autorita' di sicurezza del porto»: Ufficio del Compartimento marittimo avente giurisdizione sui porti soggetti all'applicazione del presente decreto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Autorita' portuale»: gli Enti di cui all'articolo 6 della legge 28 gennaio 1994, n. 84, e successive modificazioni.
 
 Per le definizioni non espressamente indicate, si applicano quelle contenute nel regolamento (CE) n. 725/2004.
 
@@ -68,6 +107,101 @@ L'Autorita' portuale, per i porti di competenza, o l'Autorita' marittima negli a
 
 Ogni valutazione di sicurezza del porto e' elaborata tenuto conto delle prescrizioni di cui all'allegato I.
 
+3.
+                    
+                        
+                            L'Autorita' portuale, ovvero l'Autorita' marittima, per l'elaborazione della valutazione di sicurezza puo' avvalersi, nel rispetto dei vincoli normativi e finanziari previsti dalla normativa vigente, di esperti in materia di:
+ 
+                        
+                        
+                            a)
+                            
+                                conoscenza delle minacce alla sicurezza nelle loro varie forme;
+
+                            
+                        
+                        
+                            b)
+                            
+                                riconoscimento e individuazione di armi, sostanze e apparecchiature pericolose;
+
+                            
+                        
+                        
+                            c)
+                            
+                                riconoscimento dei modelli comportamentali delle persone che potrebbero rappresentare un rischio per la sicurezza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tecniche utilizzate per aggirare le misure di sicurezza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                metodi utilizzati per provocare incidenti per la sicurezza;
+
+                            
+                        
+                        
+                            f)
+                            
+                                conseguenze di un'esplosione sulle strutture e i servizi del porto;
+
+                            
+                        
+                        
+                            g)
+                            
+                                pratiche commerciali del porto;
+
+                            
+                        
+                        
+                            h)
+                            
+                                pianificazione di emergenza, preparazione e reazione alle situazioni di emergenza;
+
+                            
+                        
+                        
+                            i)
+                            
+                                misure di sicurezza fisica, ad esempio recinzioni;
+
+                            
+                        
+                        
+                            l)
+                            
+                                sistemi di radio e telecomunicazioni, compresi reti e sistemi informatici;
+
+                            
+                        
+                        
+                            m)
+                            
+                                trasporti e ingegneria civile;
+
+                            
+                        
+                        
+                            n)
+                            
+                                operazioni portuali;
+
+                            
+                        
+                        
+                            o)
+                            
+                                impatto economico delle misure di sicurezza sui porti.
+
 La valutazione di sicurezza del porto e' adottata, a maggioranza relativa, dalla conferenza di servizi di cui all'articolo 5 ed e' approvata dal Capo del Compartimento marittimo previo nulla osta del Prefetto.
 
 ## Art. 7. — Autorita' di sicurezza del porto
@@ -79,6 +213,31 @@ Per i porti ricompresi nelle circoscrizioni territoriali dell'Autorita' portuale
 ## Art. 8. — Piano di sicurezza del porto
 
 In funzione delle conclusioni della valutazione di sicurezza del porto, l'Autorita' di sicurezza elabora il piano di sicurezza del porto. Il piano di sicurezza prende in debita considerazione le specificita' delle diverse zone di un porto ed integra i piani di sicurezza degli impianti portuali elaborati a norma del regolamento (CE) n. 725/2004.
+
+2.
+                    
+                        
+                            I piani di sicurezza dei porti individuano, per ciascun livello di sicurezza di cui all'articolo 10:
+ 
+                        
+                        
+                            a)
+                            
+                                le procedure da seguire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le misure da attuare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le azioni da intraprendere.
 
 Ogni piano di sicurezza del porto tiene conto delle prescrizioni dettagliate di cui all'allegato II. Se del caso e in misura appropriata, il piano di sicurezza del porto comprende misure di sicurezza da applicare ai passeggeri e ai veicoli destinati ad essere imbarcati su navi che trasportano passeggeri e veicoli.
  Per gli scali interessati da traffico internazionale la valutazione di sicurezza ed il successivo piano tengono conto del contenuto di eventuali specifici protocolli o intese di cooperazione stipulati con gli altri Stati interessati.

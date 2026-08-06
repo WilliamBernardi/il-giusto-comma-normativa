@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-08-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -76,6 +76,24 @@ All'articolo 9 del decreto legislativo 7 settembre 2012, n. 155 dopo il comma 2 
  2-sexies. L'istituzione del tribunale di Napoli nord non determina effetti sulla competenza dell'ufficio di sorveglianza di Santa Maria Capua Vetere per i procedimenti pendenti a norma del comma 2-quater alla data di cui all'articolo 11, comma 2.».
 
 ## Art. 9. — Disposizioni relative alla gestione degli uffici giudiziari di Napoli nord
+
+1.
+                        
+                            
+                                All'articolo 1 del decreto-legge 16 dicembre 1993, n. 522, convertito, con modificazioni, dalla legge 11 febbraio 1994, n. 102, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, in fine, sono aggiunte le seguenti parole: «, nonche' degli edifici e locali ospitanti il tribunale di Napoli nord e la procura della Repubblica presso il medesimo tribunale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, in fine, e' aggiunto il seguente periodo: «Le attivita' di cui al periodo precedente sono attribuite all'ufficio speciale anche in relazione agli edifici e ai locali ospitanti il tribunale di Napoli nord e la procura della Repubblica presso il medesimo tribunale.».
 
 La disposizione di cui al comma 1 lascia fermo quanto previsto dal decreto del Presidente della Repubblica 6 marzo 2001, n. 55.
 
@@ -154,6 +172,24 @@ A decorrere dal 1° gennaio 2017 le disposizioni del presente articolo cessano d
 ## - Capo II Disposizioni correttive e integrative delle disposizioni recanti la revisione delle circoscrizioni giudiziarie - Uffici del giudice di  pace
 
 ## Art. 11. — Modifiche in materia di riduzione degli uffici del giudice di pace
+
+1.
+                        
+                            
+                                Al decreto legislativo 7 settembre 2012, n. 156, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tabella A e' sostituita dalla tabella di cui all'allegato V; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tabella B e' sostituita dalla tabella di cui all'allegato VI.
 
 ## Art. 12. — Modifiche alla legge 21 novembre 1991, n. 374 e disposizioni correttive e di coordinamento
 

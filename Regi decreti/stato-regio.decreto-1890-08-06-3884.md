@@ -6,8 +6,8 @@ urn: urn:nir:stato:regio.decreto:1890-08-06;3884
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:22:56Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO

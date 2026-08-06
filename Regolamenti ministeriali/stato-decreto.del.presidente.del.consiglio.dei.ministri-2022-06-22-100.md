@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2022-06-22;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI

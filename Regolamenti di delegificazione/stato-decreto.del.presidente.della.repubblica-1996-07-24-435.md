@@ -8,8 +8,8 @@ codice_redazionale: 096G0459
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -41,6 +41,31 @@ Per i crediti gia' iscritti a ruolo, unitamente alle somme di cui al comma 1, il
 ## Art. 3. — Controllo degli uffici
 
 La direzione compartimentale, entro trenta giorni dalla ricezione delle domande, trasmette all'autorita' giudiziaria o a quella amministrativa, dinanzi alla quale la lite e' pendente, copia della domanda e dell'attestazione di pagamento.
+
+2.
+                    
+                        
+                            La direzione compartimentale, entro e non oltre il 31 dicembre 1997, procede all'esame delle domande, al fine di verificare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammissibilita' della domanda stessa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esatta liquidazione delle somme dovute;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'assolvimento dell'obbligo di pagamento.
 
 Qualora dai controlli effettuati risulti che non sussistano i presupposti per la definizione della lite, la direzione compartimentale provvede a darne comunicazione all'interessato nonche' all'autorita' giudiziaria o amministrativa presso la quale la lite e' pendente.
 

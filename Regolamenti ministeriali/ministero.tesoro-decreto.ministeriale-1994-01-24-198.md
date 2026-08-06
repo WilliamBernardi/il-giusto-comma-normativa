@@ -8,8 +8,8 @@ codice_redazionale: 094G0222
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -26,6 +26,25 @@ IL MINISTRO DELLE FINANZE
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 23 dicembre 1993;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Agli effetti del presente regolamento si identificano le seguenti due categorie di intermediari: 
+ 
+                        
+                        
+                            a)
+                            
+                                per banca di primo livello si intende ogni ente creditizio o finanziario, avente sede in Italia ovvero in Paesi con i quali l'Italia ha stipulato convenzioni per evitare le doppie imposizioni, presso il quale l'effettivo beneficiario dei proventi dei titoli del debito pubblico, che ha diritto al regime fiscale agevolato di cui all'art. 1 del decreto-legge n. 377 del 24 settembre 1993, tiene in deposito direttamente o indirettamente i titoli medesimi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per banca di secondo livello si intende ogni ente creditizio italiano, nonche' gli enti internazionali Euroclear e Cedel, - i quali ultimi, ai sensi dell'art. 1, comma 4, del decreto-legge 24 settembre 1993, n. 377, ricevono i fondi di loro pertinenza per il tramite di un'azienda di credito, procuratrice speciale in Italia - sub-depositari dei titoli di cui alla lettera a), che intrattengono rapporti diretti con l'Amministrazione finanziaria - Dipartimento delle entrate ai fini della procedura di cui al presente regolamento. 
+Le banche di secondo livello nonche' le aziende di credito procuratrici speciali di Euroclar e Cedel devono intrattenere rapporti di conto corrente con la Banca d'Italia.
 
 Qualora l'effettivo beneficiario dei proventi dei titoli del debito pubblico tenga in deposito i titoli stessi direttamente presso un ente creditizio italiano di cui alla lettera b), detto ente assume la veste sia di banca di primo livello, sia di banca di secondo livello.
 
@@ -51,6 +70,24 @@ Nello stesso arco temporale la banca di secondo livello e' altresi' tenuta a for
 
 Alla data di scadenza di ogni cedola la banca di primo livello, sulla base dei dati di cui e' in possesso, definisce l'importo dei maggiori interessi, derivanti dall'applicazione del regime fiscale agevolato di cui all'art. 1 del decreto-legge n. 377 del 24 settembre 1993, da corrispondere agli investitori "non residenti" che abbiano presentato la richiesta di cui al precedente art. 2.
 
+2.
+                    
+                        
+                            La banca di primo livello deve far pervenire alla banca di secondo livello i dati identificativi dell'avente diritto e quelli necessari alla definizione dell'importo degli ulteriori proventi, con l'indicazione esplicita dei maggiori interessi richiesti, secondo le seguenti scadenze:
+ 
+                        
+                        
+                            a)
+                            
+                                entro il giorno 15 del mese, relativamente alle cedole scadute nel periodo decorrente dal giorno 25 del mese precedente al giorno 9 dello stesso mese;
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro l'ultimo giorno del mese, relativamente alle cedole scadute nel periodo decorrente dal giorno 10 al giorno 24 dello stesso mese.
+
 ## Art. 5.
 
 La banca di secondo livello deve presentare all'Amministrazione finanziaria apposita richiesta di utilizzo della procedura conforme al modello 115/IMP allegato al presente regolamento.
@@ -68,6 +105,24 @@ Le informazioni relative alle posizioni riscontrate regolari sono trasmesse per 
 Per i titoli in valuta estera le informazioni relative agli importi devono essere segnalate nella stessa valuta. Il pagamento delle somme spettanti viene effettuato in lire sulla base del medesimo cambio utilizzato per la corresponsione in lire degli interessi.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            Entro cinque giorni lavorativi successivi alla ricezione dei dati di cui al precedente art. 5, l'Amministrazione finanziaria, anche sulla base di dati forniti dalla Banca d'Italia, effettua i controlli indicati nell'allegato A, scarta le posizioni risultate irregolari e le segnala alla banca di secondo livello. Per le posizioni risultate regolari:
+ 
+                        
+                        
+                            a)
+                            
+                                invia al Ministero del tesoro - Direzione generale del tesoro, i dati relativi all'ammontare complessivo degli importi da riconoscere agli aventi diritto a titolo di maggiori interessi e "scarti di emissione", distinti per cedola e banca di secondo livello; tale segnalazione viene effettuata distintamente per i buoni del tesoro poliennali e per i titoli di altra specie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                comunica, per via telematica, alle banche di secondo livello, l'importo degli interessi e degli "scarti di emissione", distinti per banca di primo livello ed investitore.
 
 L'Amministrazione finanziaria fornisce semestralmente alle autorita' fiscali estere, in un'ottica di interscambio, i dati relativi agli investitori di ciascun Paese e al Ministero del tesoro i dati analitici e di consuntivo relativi ai proventi riconosciuti.
 

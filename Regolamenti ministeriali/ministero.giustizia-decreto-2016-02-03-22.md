@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2016-02-03;22
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,6 +23,38 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 ## - Capo I Definizioni
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «decreto legislativo», il decreto legislativo 9 novembre 2007, n. 206, attuativo della direttiva 2005/36/CE relativa al riconoscimento delle qualifiche professionali, nonche' della direttiva 2006/100/CE che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «decreto di riconoscimento», il decreto di riconoscimento adottato dal direttore generale della giustizia civile presso il Ministero della giustizia, ai sensi dell'articolo 16, comma 6, del decreto legislativo 9 novembre 2007, n. 206; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «richiedente», il professionista che domanda, ai fini dell'esercizio della professione di attuario in Italia, il riconoscimento del titolo rilasciato dal Paese di appartenenza attestante una formazione professionale al cui possesso la legislazione del medesimo Stato subordina l'esercizio o l'accesso alla professione ovvero il prestatore di servizi temporaneo e occasionale nella ipotesi di cui all'articolo 11, comma 4, del decreto legislativo 9 novembre 2007, n. 206; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Consiglio nazionale», il Consiglio nazionale degli attuari.
 
 ## - Capo II Prova attitudinale
 

@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-01-01
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO-LEGGE
@@ -91,7 +91,103 @@ Al comma 1 dell'articolo 2 del decreto legislativo 19 agosto 2005, n. 192, dopo 
 
 ## Art. 3. — Modificazioni all'articolo 3 del decreto legislativo 19 agosto 2005, n. 192
 
+1.
+                    
+                        
+                            All'articolo 3 del decreto legislativo 19 agosto 2005, n. 192, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera b), le parole «agli articoli 7, 9 e 12» sono sostituite dalle seguenti: «agli articoli 7 e 9»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2, sono inseriti i seguenti: 
+ «2-bis. Il presente decreto si applica all'edilizia pubblica e privata. 
+ 2-ter. Il presente decreto disciplina in particolare: 
+ a) la metodologia per il calcolo delle prestazioni energetiche degli edifici; 
+ b) le prescrizioni e i requisiti minimi in materia di prestazioni energetiche degli edifici quando sono oggetto di: 
+ 1) nuova costruzione; 
+ 2) ristrutturazioni importanti; 
+ 3) riqualificazione energetica; 
+ c) la definizione di un Piano di azione per la promozione degli edifici a "energia quasi zero"; 
+ d) l'attestazione della prestazione energetica degli edifici e delle unita' immobiliari; 
+ e) lo sviluppo di strumenti finanziari e la rimozione di barriere di mercato per la promozione dell'efficienza energetica degli edifici; 
+ f) l'utilizzo delle fonti energetiche rinnovabili negli edifici; 
+ g) la realizzazione di un sistema coordinato di ispezione periodica degli impianti termici negli edifici; 
+ h) i requisiti professionali e di indipendenza degli esperti o degli organismi cui affidare l'attestazione della prestazione energetica degli edifici e l'ispezione degli impianti di climatizzazione; 
+ i) la realizzazione e l'adozione di strumenti comuni allo Stato e alle regioni e province autonome per la gestione degli adempimenti a loro carico; 
+ l) la promozione dell'uso razionale dell'energia anche attraverso l'informazione e la sensibilizzazione degli utenti finali, la formazione e l'aggiornamento degli operatori del settore; 
+ m) la raccolta delle informazioni e delle esperienze, delle elaborazioni e degli studi necessari all'orientamento della politica energetica del settore.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Sono escluse dall'applicazione del presente decreto le seguenti categorie di edifici: 
+ a) gli edifici ricadenti nell'ambito della disciplina della parte seconda e dell'articolo 136, comma 1, lettere b) e c), del decreto legislativo 22 gennaio 2004, n. 42, recante il codice dei beni culturali e del paesaggio, fatto salvo quanto disposto al comma 3-bis; 
+ b) gli edifici industriali e artigianali quando gli ambienti sono riscaldati per esigenze del processo produttivo o utilizzando reflui energetici del processo produttivo non altrimenti utilizzabili; 
+ c) edifici rurali non residenziali sprovvisti di impianti di climatizzazione; 
+ d) i fabbricati isolati con una superficie utile totale inferiore a 50 metri quadrati; 
+ e) gli edifici che risultano non compresi nelle categorie di edifici classificati sulla base della destinazione d'uso di cui all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, il cui utilizzo standard non prevede l'installazione e l'impiego di sistemi tecnici ((di climatizzazione)), quali box, cantine, autorimesse, parcheggi multipiano, depositi, strutture stagionali a protezione degli impianti sportivi, fatto salvo quanto disposto dal comma 3-ter; 
+ f) gli edifici adibiti a luoghi di culto e allo svolgimento di attivita' religiose.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3, sono inseriti i seguenti: 
+ «3-bis. Per gli edifici di cui al comma 3, lettera a), il presente decreto si applica limitatamente alle disposizioni concernenti: 
+ a) l'attestazione della prestazione energetica degli edifici, di cui all'articolo 6; 
+ b) l' esercizio, la manutenzione e le ispezioni degli impianti tecnici, di cui all'articolo 7. 
+ ((3-bis. 1. Gli edifici di cui al comma 3, lettera a), sono esclusi dall'applicazione del presente decreto ai sensi del comma 3-bis, solo nel caso in cui, previo giudizio dell'autorita' competente al rilascio dell'autorizzazione ai sensi del codice di cui al decreto legislativo 22 gennaio 2004, n. 42, il rispetto delle prescrizioni implichi un'alterazione sostanziale del loro carattere o aspetto, con particolare riferimento ai profili storici, artistici e paesaggistici)). 
+ 3-ter. Per gli edifici di cui al comma 3, lettera d), il presente decreto si applica limitatamente alle porzioni eventualmente adibite ad uffici e assimilabili, purche' scorporabili ai fini della valutazione di efficienza energetica.».
+
 ## Art. 4. — Modificazioni all'articolo 4 del decreto legislativo 19 agosto 2005, n. 192
+
+1.
+                    
+                        
+                            All'articolo 4 del decreto legislativo 19 agosto 2005, n. 192, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Con uno o piu' decreti del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, il Ministro delle infrastrutture e dei trasporti e, per i profili di competenza, con il Ministro della salute e con il Ministro della difesa, acquisita l'intesa con la Conferenza unificata, sono definiti: 
+ a) le modalita' di applicazione della metodologia di calcolo delle prestazioni energetiche e l'utilizzo delle fonti rinnovabili negli edifici, in relazione ai paragrafi 1 e 2 dell'allegato I della direttiva 2010/31/UE del Parlamento europeo e del Consiglio, del 19 maggio 2010, sulla prestazione energetica nell'edilizia, tenendo conto dei seguenti criteri generali: 
+ 1) la prestazione energetica degli edifici e' determinata in conformita' alla normativa tecnica UNI e CTI, allineate con le norme predisposte dal CEN a supporto della direttiva 2010/31/CE, su specifico mandato della Commissione europea; 
+ 2) il fabbisogno energetico annuale globale si calcola per singolo servizio energetico, espresso in energia primaria, su base mensile. Con le stesse modalita' si determina l'energia rinnovabile prodotta all'interno del confine del sistema; 
+ 3) si opera la compensazione mensile tra i fabbisogni energetici e l'energia rinnovabile prodotta all'interno del confine del sistema, per vettore energetico e fino a copertura totale del corrispondente vettore energetico consumato; 
+ 4) ai fini della compensazione di cui al numero 3, e' consentito utilizzare l'energia elettrica prodotta da fonti rinnovabili all'interno del confine del sistema ed esportata, secondo le modalita' definite dai decreti di cui al presente comma; 
+ b) l'applicazione di prescrizioni e requisiti minimi, aggiornati ogni cinque anni, in materia di prestazioni energetiche degli edifici e unita' immobiliari, siano essi di nuova costruzione, oggetto di ristrutturazioni importanti o di riqualificazioni energetiche, sulla base dell'applicazione della metodologia comparativa di cui all'articolo 5 della direttiva 2010/31/UE, secondo i seguenti criteri generali: 
+ 1) i requisiti minimi rispettano le valutazioni tecniche ed economiche di convenienza, fondate sull'analisi costi benefici del ciclo di vita economico degli edifici; 
+ 2) in caso di nuova costruzione e di ristrutturazione importante, i requisiti sono determinati con l'utilizzo dell' "edificio di riferimento", in funzione della tipologia edilizia e delle fasce climatiche; 
+ 3) per le verifiche necessarie a garantire il rispetto della qualita' energetica prescritta, sono previsti dei parametri specifici del fabbricato, in termini di indici di prestazione termica e di trasmittanze, e parametri complessivi, in termini di indici di prestazione energetica globale, espressi sia in energia primaria totale che in energia primaria non rinnovabile.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Con uno o piu' decreti del Presidente della Repubblica ((ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400,)) sono aggiornate, in relazione all'articolo 8 e agli articoli da 14 a 17 della direttiva 2010/31/UE, le modalita' di progettazione, installazione, esercizio, manutenzione e ispezione degli impianti termici per la climatizzazione invernale ed estiva degli edifici, nonche' i requisiti professionali e i criteri di accreditamento per assicurare la qualificazione e l'indipendenza degli esperti e degli organismi a cui affidare l'attestazione della prestazione energetica degli edifici e l'ispezione degli impianti di climatizzazione e la realizzazione di un sistema informativo coordinato per la gestione dei rapporti tecnici di ispezione e degli attestati di prestazione energetica. ((Per le attivita' propedeutiche all'emanazione dei decreti di cui al primo periodo, di competenza del Ministero dello sviluppo economico, quest'ultimo puo' avvalersi delle competenze dell'ENEA. Con gli stessi decreti, sono individuate modalita' di progettazione, installazione e manutenzione di sistemi di controllo attivo, come i sistemi di automazione, controllo e monitoraggio, finalizzati al risparmio energetico))»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole: «comma 1» sono sostituite dalle seguenti: «comma 1-bis» e dopo le parole: «Ministro dell'ambiente e della tutela del territorio» sono inserite le seguenti: «e, per i profili di competenza, con il Ministro della difesa».
 
 ## Art. 5. — Modificazioni al decreto legislativo 19 agosto 2005, n. 192, in materia di edifici a energia quasi zero
 
@@ -149,6 +245,41 @@ Dopo il comma 1 ((del citato articolo 8 del decreto legislativo n. 192 del 2005)
 
 ## Art. 8. — Modificazioni all'articolo 9 del decreto legislativo 19 agosto 2005, n. 192
 
+1.
+                    
+                        
+                            All'articolo 9 del decreto legislativo 19 agosto 2005, n. 192, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3 dell'articolo 9 del decreto legislativo 19 agosto 2005, n. 192, il secondo periodo e' sostituito dal seguente: 
+ «A tali fini: 
+ a) i soggetti di cui all'articolo 7, comma 1, comunicano ((entro centoventi giorni)) all'ente competente in materia di controlli sugli impianti termici l'ubicazione e le principali caratteristiche degli impianti di proprieta' o dai medesimi gestiti nonche' le eventuali successive modifiche significative; 
+ b) le societa' di distribuzione dei diversi tipi di combustibile, a uso degli impianti termici, comunicano all'ente competente in materia di controlli sugli impianti termici l'ubicazione e la titolarita' delle utenze da esse rifornite al 31 dicembre di ogni anno; 
+ c) l'ente competente in materia di controlli sugli impianti termici trasmette annualmente alle regioni ((e alle province autonome)) i dati di cui alle lettere a) e b) per via informatica ((, avvalendosi del sistema informativo di cui all'articolo 4, comma 1-bis)).»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 5-bis, sono inseriti i seguenti: 
+ «5-ter. In tale contesto, fermo restando il divieto di aggravamento degli oneri e degli adempimenti amministrativi previsti dal presente decreto in conformita' alla direttiva 2010/31/UE, ((le regioni e le province autonome possono adottare provvedimenti migliorativi)) di quelli disposti dal presente decreto, in termini di: 
+ a) flessibilita' applicativa dei requisiti minimi, anche con l'utilizzo di soluzioni alternative, in relazione a specifiche situazioni di impossibilita' o di elevata onerosita', che comunque garantiscano un equivalente risultato sul bilancio energetico regionale; 
+ b) semplificazioni amministrative in materia di esercizio, manutenzione controllo e ispezione degli impianti termici, soprattutto in relazione all'integrazione dei controlli di efficienza energetica con quelli in tema di qualita' dell'aria. 
+ 5-quater. I provvedimenti di cui al comma 5-ter devono essere compatibili con il Trattato sul funzionamento dell'Unione europea, con la direttiva 2010/31/UE, con il presente decreto legislativo e devono essere notificati alla Commissione europea. 
+ 5-quinquies. Le regioni e le province autonome ((, in conformita' a quanto previsto dai regolamenti di cui ai decreti del Presidente della Repubblica 16 aprile 2013, n. 74, e 16 aprile 2013, n. 75,)) provvedono inoltre a: 
+ a) istituire un sistema di riconoscimento degli organismi e dei soggetti cui affidare le attivita' di ispezione sugli impianti termici e di attestazione della prestazione energetica degli edifici, promuovendo programmi per la loro qualificazione, formazione e aggiornamento professionale, tenendo conto dei requisiti previsti dalle norme nazionali e nel rispetto delle norme comunitarie in materia di libera circolazione dei servizi. 
+ b) avviare programmi di verifica annuale della conformita' dei rapporti di ispezione e degli attestati emessi. 
+ 5-sexies. Le regioni e le province autonome, anche attraverso propri enti o agenzie, collaborano con il Ministero dello sviluppo economico e, per la sola lettera c) anche ((con il Dipartimento della funzione pubblica della Presidenza del Consiglio dei Ministri)), per la definizione congiunta: 
+ a) di metodologie di calcolo della prestazione energetica degli edifici; 
+ b) di metodologie per la determinazione dei requisiti minimi di edifici e impianti; 
+ c) di sistemi di classificazione energetica degli edifici, compresa la definizione del sistema informativo comune di cui all'articolo 6, comma 12, lettera d); 
+ d) del ((Piano d'azione)) destinato ad aumentare il numero di edifici a energia quasi zero, di cui all'articolo 4-bis, comma 2; 
+ e) dell'azione di monitoraggio, analisi, valutazione e adeguamento della normativa energetica nazionale e regionale di cui agli articoli 10 e 13.».
+
 ## Art. 9. — Modificazioni all'articolo 11 del decreto legislativo 19 agosto 2005, n. 192
 
 L'articolo 11 del decreto legislativo 19 agosto 2005, n. 192, e' sostituito dal seguente: 
@@ -199,6 +330,34 @@ All'articolo 16 del decreto legislativo 19 agosto 2005, n. 192, dopo il comma 4,
 
 Le disposizioni di cui all'articolo 1, comma 48, della legge 13 dicembre 2010, n. 220, e successive modificazioni, si applicano, nella misura del 65 per cento, anche alle spese sostenute dal 6 giugno 2013 al 31 dicembre 2024. PERIODO SOPPRESSO DAL D.L. 19 MAGGIO 2020, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 17 LUGLIO 2020, N.
 77. PERIODO SOPPRESSO DAL D.L. 19 MAGGIO 2020, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 17 LUGLIO 2020, N. 77. PERIODO SOPPRESSO DAL D.L. 19 MAGGIO 2020, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 17 LUGLIO 2020, N. 77.
+
+2.
+                    
+                        
+                            La detrazione di cui al comma 1 si applica, nella misura del 65 per cento, anche alle spese documentate e rimaste a carico del contribuente: 
+ 
+                        
+                        
+                            a)
+                            
+                                per interventi relativi a parti comuni degli edifici condominiali di cui agli articoli 1117 e 1117-bis del codice civile o che interessino tutte le unita' immobiliari di cui si compone il singolo condominio, sostenute dal 6 giugno 2013 al 31 dicembre 2024; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'acquisto e la posa in opera delle schermature solari di cui all'allegato M al decreto legislativo 29 dicembre 2006, n. 311, sostenute dal 1º gennaio 2015 al 31 dicembre 2024, fino a un valore massimo della detrazione di 60.000 euro. 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                per l'acquisto e la posa in opera di micro-cogeneratori in sostituzione di impianti esistenti, sostenute dal 1° gennaio 2020 al 31 dicembre 2024, fino a un valore massimo della detrazione di 100.000 euro. Per poter beneficiare della suddetta detrazione gli interventi in oggetto devono condurre a un risparmio di energia primaria (PES), come definito all'allegato III del decreto del Ministro dello sviluppo economico 4 agosto 2011, pubblicato nella Gazzetta Ufficiale n. 218 del 19 settembre 2011, pari almeno al 20 per cento. PERIODO SOPPRESSO DALLA L. 27 DICEMBRE 2019, N. 160.
+PERIODO SOPPRESSO DALLA L. 27 DICEMBRE 2019, N. 160. PERIODO SOPPRESSO DALLA L. 27 DICEMBRE 2019, N. 160. 
+PERIODO SOPPRESSO DALLA L. 27 DICEMBRE 2019, N. 160. PERIODO SOPPRESSO DALLA L. 27 DICEMBRE 2019, N. 160. PERIODO SOPPRESSO DALLA L. 27 DICEMBRE 2019, N. 160. 
+ 2.1. La detrazione di cui ai commi 1 e 2 e' ridotta al 50 per cento per le spese, sostenute dal 1° gennaio 2018, relative agli interventi di acquisto e posa in opera di finestre comprensive di infissi, di schermature solari e di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione con efficienza almeno pari alla classe A di prodotto prevista dal regolamento delegato (UE) n. 811/2013 della Commissione, del 18 febbraio 2013. Sono esclusi dalla detrazione di cui al presente articolo gli interventi di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione con efficienza inferiore alla classe di cui al periodo precedente. La detrazione si applica nella misura del 65 per cento per gli interventi di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione, di efficienza almeno pari alla classe A di prodotto prevista dal citato regolamento delegato (UE) n. 811/2013, e contestuale installazione di sistemi di termoregolazione evoluti, appartenenti alle classi V, VI oppure VIII della comunicazione 2014/C 207/02 della Commissione, o con impianti dotati di apparecchi ibridi, costituiti da pompa di calore integrata con caldaia a condensazione, assemblati in fabbrica ed espressamente concepiti dal fabbricante per funzionare in abbinamento tra loro, o per le spese sostenute per l'acquisto e la posa in opera di generatori d'aria calda a condensazione. (14)
 
 La detrazione nella misura del 50 per cento si applica altresi' alle spese sostenute dal 1° gennaio 2021 al 31 dicembre 2024 per l'acquisto e la posa in opera di impianti di climatizzazione invernale con impianti dotati di generatori di calore alimentati da biomasse combustibili, fino a un valore massimo della detrazione di 30.000 euro.
 
@@ -399,6 +558,52 @@ Alla tabella A, parte III, allegata al decreto del Presidente della Repubblica 2
 L'autorizzazione di spesa di cui all'articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236, confluita nel Fondo sociale per l'occupazione e la formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e' incrementata di 47,8 milioni di euro per l'anno 2013 e di 121,5 milioni di euro per l'anno 2014, per essere destinata al rifinanziamento degli ammortizzatori sociali in deroga di cui all'articolo 2, commi 64, 65 e 66, della legge 28 giugno 2012, n. 92.
 
 L'autorizzazione di spesa di cui all'articolo 5 della legge 6 febbraio 2009, n. 7 e' incrementata di 413,1 milioni di euro per l'anno 2024.
+
+3.
+                    
+                        
+                            Agli oneri derivanti dagli articoli 14 e 16 e dai commi da 1 e 2 del presente articolo, pari a 47,8 milioni di euro per l'anno 2013, a 274 milioni di euro per l'anno 2014, a 379,7 milioni di euro per l'anno 2015, a 265,1 milioni di euro per l'anno 2016, a 262,2 milioni di euro per ciascuno degli anni dal 2017 al 2023 e a 413,1 milioni di euro per l'anno 2024, si provvede: ((4))
+                            
+                        
+                        
+                            a)
+                            
+                                quanto a 47,8 milioni di euro per l'anno 2013, a 194 milioni di euro per ciascuno degli anni dal 2014 al 2023 e a 379 milioni di euro per l'anno 2024, mediante corrispondente utilizzo delle maggiori entrate e delle minori spese derivanti dalle misure previste dagli articoli 14,16, 19 e 20; ((4))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a 44,8 milioni di euro per l'anno 2014, a 54,7 milioni di euro per l'anno 2015 e a 34,7 milioni di euro per l'anno 2016 e a 31,8 milioni di euro per ciascuno degli anni dal 2017 al 2023, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 5 della legge 6 febbraio 2009, n. 7; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a 0,2 milioni di euro per l'anno 2014, a 20 milioni di euro per l'anno 2015 e a 1,4 milioni di euro per ciascuno degli anni dal 2016 al 2024, mediante corrispondente riduzione della dotazione del fondo di cui all'articolo 2 comma 616 della legge 24 dicembre 2007 n. 244, relativo allo stato di previsione del Ministero dello sviluppo economico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quanto a 20 milioni di euro per l'anno 2014 e a 35 milioni di euro per l'anno 2015, mediante corrispondente riduzione dall'autorizzazione di spesa di cui all'articolo 47, secondo comma, della legge 20 maggio 1985, n. 222, relativamente alla quota dell'otto per mille dell'imposta sul reddito delle persone fisiche (IRPEF) destinata allo Stato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                quanto a 41 milioni di euro per l'anno 2015, mediante corrispondente riduzione della proiezione, per il medesimo anno, dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2013-2015, nell'ambito del programma «Fondi di riserva e speciali » della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2013, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente e della tutela del territorio e del mare; 
+
+                            
+                        
+                        
+                            e-bis)
+                            
+                                quanto a 15 milioni di euro per l'anno 2014, a 35 milioni di euro per ciascuno degli anni dal 2015 al 2023 e a 32,7 milioni di euro per l'anno 2024, mediante corrispondente riduzione della dotazione del Fondo di cui all'articolo 1, comma 515, della legge 24 dicembre 2012, n. 228.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 

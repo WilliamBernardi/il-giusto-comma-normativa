@@ -8,8 +8,8 @@ codice_redazionale: 003G0063
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,6 +23,42 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo la lettera d) e' aggiunta la seguente:
+ "d-bis) "fondi immobiliari" : i fondi che investono esclusivamente o prevalentemente in beni immobili, diritti reali immobiliari e partecipazioni in societa' immobiliari;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera g) e' sostituita dalla seguente:
+ "g) "fondazioni bancarie" : le fondazioni disciplinate dal decreto legislativo 17 maggio 1999, n. 153, e successive modificazioni;";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo la lettera g) e' aggiunta la seguente:
+ "g-bis) "partecipazioni in societa' immobiliari" : le partecipazioni in societa' di capitali che svolgono attivita' di costruzione, valorizzazione, acquisto, alienazione e gestione di immobili;";
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo la lettera h) e' aggiunta la seguente:
+ "h-bis) "gruppo rilevante" : il gruppo come definito ai sensi dell'articolo 11, comma 1, lettera a) del Testo unico.".
+
 ## Art. 2. — Pubblicita'
 
 All'articolo 3 del regolamento n. 228 del 1999 e' aggiunto, dopo il comma 5, il seguente comma:
@@ -33,6 +69,17 @@ All'articolo 3 del regolamento n. 228 del 1999 e' aggiunto, dopo il comma 5, il 
  d) del gruppo di appartenenza dell'intermediario finanziario di cui all'articolo 12-bis, comma 3, lettera b).".
 
 ## Art. 3. — Oggetto dell'investimento
+
+1.
+                    
+                        
+                            All'articolo 4 del regolamento n. 228 del 1999 e' apportata la seguente modifica:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera d), le parole "beni immobili e diritti reali immobiliari;" sono sostituite dalle seguenti: "beni immobili, diritti reali immobiliari e partecipazioni in societa' immobiliari;".
 
 ## Art. 4. — Quotazione dei certificati
 
@@ -45,6 +92,24 @@ All'articolo 10 del regolamento n. 228 del 1999, il comma 1 e' sostituito dal se
  "1. La sottoscrizione delle quote del fondo aperto o delle quote di un comparto del fondo stesso, se questo e' suddiviso in comparti, ha luogo o mediante versamento di un importo corrispondente al valore delle quote di partecipazione o, nel caso in cui il regolamento del fondo lo preveda, mediante conferimento di strumenti finanziari nella composizione che riproduce l'indice in conformita' del quale il fondo investe.".
 
 ## Art. 6. — Fondi chiusi
+
+1.
+                    
+                        
+                            All'articolo 12 del regolamento n. 228 del 1999 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: "2-bis. I fondi chiusi possono assumere prestiti per i rimborsi anticipati delle quote per un ammontare non superiore al 10 per cento del valore del fondo. Detti rimborsi anticipati avvengono proporzionalmente nel caso in cui le somme necessarie per effettuare gli stessi eccedano quelle acquisite attraverso le nuove emissioni ed i prestiti consentiti.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: "3. Il patrimonio del fondo non puo' essere investito in beni direttamente o indirettamente ceduti o conferiti da un socio, amministratore, direttore generale o sindaco della SGR, o da una societa' del gruppo, ne' tali beni possono essere direttamente o indirettamente ceduti ai medesimi soggetti. Il patrimonio del fondo non puo' essere altresi' investito in strumenti finanziari rappresentativi di operazioni di cartolarizzazione aventi ad oggetto crediti ceduti da soci della societa' di gestione, o da soggetti appartenenti al loro gruppo, in misura superiore al 3 per cento del valore del fondo.".
 
 ## Art. 7. — Fondi immobiliari
 
@@ -68,7 +133,58 @@ Dopo l'articolo 12 del regolamento n. 228 del 1999 e' inserito il seguente:
 
 ## Art. 8. — Fondi immobiliari con apporto pubblico
 
+1.
+                    
+                        
+                            All'articolo 13 del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole: "articolo 14-bis," sono aggiunte le seguenti: "in quanto compatibili con le disposizioni del presente regolamento e non penalizzanti rispetto ai fondi con apporto privato,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: "beni immobili" sono aggiunte le seguenti: "ad eccezione dei limiti indicati al comma 4 dell'articolo 12-bis.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' abrogato.
+
 ## Art. 9. — Modalita' di partecipazione ai fondi chiusi
+
+1.
+                    
+                        
+                            All'articolo 14 del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: "un'unica emissione" sono sostituite dalle seguenti: "una o piu' emissioni, secondo le modalita' stabilite dal regolamento,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, in fine, sono aggiunte le seguenti parole: "Il regolamento del fondo disciplina le modalita' concernenti le emissioni successive alla prima.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 6 e' aggiunto il seguente comma:
+ "6-bis. Ove il regolamento del fondo preveda emissioni successive alla prima, i rimborsi anticipati hanno luogo con la medesima frequenza ed in coincidenza con le nuove emissioni. Alla stessa data e' prevista la determinazione periodica del valore delle quote del fondo.".
 
 ## Art. 10. — Rubrica del Capo III
 
@@ -83,4 +199,24 @@ Dopo l'articolo 15 del regolamento n. 228 del 1999 e' inserito il seguente:
  3. Il regolamento del fondo stabilisce le modalita' per la prestazione della garanzia di cui al comma 1.".
 
 ## Art. 12. — Fondi speculativi
+
+1.
+                    
+                        
+                            All'articolo 16 del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ "2. Il numero dei soggetti che partecipano a ciascun fondo speculativo non puo' superare le duecento unita'.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ "3. L'importo minimo della quota iniziale non puo' essere inferiore a 500.000 euro. Le quote dei fondi speculativi non possono essere frazionate in nessun caso.".
 

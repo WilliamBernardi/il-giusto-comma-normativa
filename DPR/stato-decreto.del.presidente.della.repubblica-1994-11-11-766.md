@@ -8,8 +8,8 @@ codice_redazionale: 095G0077
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:02Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,54 @@ Sulla proposta del Ministro del tesoro, di concerto con il Ministro per la funzi
 Il Ministero del tesoro - Direzione generale dei servizi periferici, fuori dei casi previsti dall'art. 16 della legge 28 febbraio 1987, n. 56, e successive modificazioni, puo' procedere con propri bandi di concorso all'assunzione di personale per la conduzione tecnica del sistema informativo nei limiti dell'organico previsto all'art. 2 della legge 17 dicembre 1986, n. 890, come successivamente modificato dalle dotazioni organiche relative ai profili professionali dell'area informatica.
 
 Il Ministero del tesoro - Direzione generale dei servizi periferici, per le qualifiche funzionali superiori alla settima, puo' altresi' procedere all'assunzione di personale per il tramite della Scuola superiore della pubblica amministrazione. Le materie e i periodi di applicazione previsti per i corsi di preparazione dal decreto del Presidente della Repubblica 21 aprile 1972, n. 472, e dal relativo regolamento di esecuzione, approvato con decreto del Presidente della Repubblica 20 giugno 1977, n. 701, e successive modificazioni, saranno stabilite, sentita l'amministrazione interessata, al fine di dare all'insegnamento un indirizzo teorico-pratico per la conoscenza specifica delle procedure in uso nella conduzione tecnica del servizio informativo della Direzione generale dei servizi periferici del tesoro.
+
+3.
+                    
+                        
+                            Per l'accesso alla quarta qualifica funzionale, nel caso in cui per la specificita' del profilo richiesto non sia possibile attingere dalle liste di collocamento personale munito della prevista specializzazione, la Direzione generale dei servizi periferici del tesoro potra' avvalersi delle normali procedure concorsuali ed avra' cura di organizzare, per i vincitori, appositi corsi di specializzazione.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - L'art. 87, comma quinto, della Costituzione conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
+ - Si riporta il testo dell'art. 2 della legge n. 890/1986:
+ "Art. 2 (Sistema informativo dei servizi periferici del Ministero del tesoro). - 1. Tutte le attivita' concernenti l'esercizio delle funzioni attribuite agli uffici centrali e periferici dipendenti dalla Direzione generale dei servizi periferici del tesoro sono disciplinate in maniera da consentire, in quanto possibile, il loro svolgimento in forma automatizzata.
+ 2. Per l'espletamento delle attivita' di conduzione tecnica dei centri elaborazione dati, la Direzione generale dei servizi periferici del tesoro si avvale di un organico nel limite massimo di 300 unita' di personale, utilizzando a tal fine una corrispondente quota della dotazione organica come modificata dal primo comma dell'art. 6 della legge 7 agosto 1985, n. 428.
+ 3. Con decreto del Presidente della Repubblica, da emanare su proposta del Ministro del tesoro, sentite le organizzazioni sindacali maggiormente rappresentative nel settore, verranno definite, in conformita' ai principi di cui alla legge 29 marzo 1983, n. 93, le modalita' per lo svolgimento dei concorsi, la composizione delle commissioni esaminatrici, i corsi di formazione, di qualificazione e di aggiornamento tecnico-professionale, l'orario di lavoro, nonche' le norme transitorie di inquadramento del personale in servizio presso il sistema informativo dipendente dalla Direzione generale dei servizi periferici del tesoro alla data di entrata in vigore della presente legge, norme che dovranno tener conto dei requisiti di professionalita' richiesti per l'esercizio delle diverse funzioni.
+ 4. Per assicurare lo sviluppo del sistema informativo, la Direzione generale dei servizi periferici del tesoro puo' affidare incarichi di consulenza ad esperti o a societa' specializzate nel settore dell'informatica.
+ 5. Nei confronti del personale di cui al presente articolo non trovano applicazione le disposizioni degli articoli 56, 58 e 199 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni ed integrazioni.
+ 6. Si procedera' inoltre all'inquadramento nelle qualifiche funzionali corrispondenti alle soppresse qualifiche di segretario principale e coadiutore principale degli idonei dei concorsi di passaggio di carriera previsti dagli articoli 21 e 27 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077".
+ - La legge n. 56/1987, concernente norme sull'organizzazione del mercato del lavoro, e' stata modificata dal D.L. n. 86/1988, convertito con modificazioni nella legge n. 160/1988 riguardante norme in materia previdenziale, di occupazione giovanile, di mercato del lavoro nonche' il potenziamento del sistema informativo del Ministero del lavoro e della previdenza sociale.
+ - Il D.P.R. n. 701/1977 (Regolamento di esecuzione del D.P.R. n. 472/1972) e' stato modificato con D.P.C.M. 9 gennaio 1985 (in Gazzetta Ufficiale - serie generale - n. 224 del 23 settembre 1985) recante nuovo regolamento concernente le modalita' di ammissione ai corsi di preparazione, con concessione di borse di studio, per il reclutamento di impiegati alle qualifiche funzionali settima ed ottava delle amministrazioni dello Stato, nonche' modalita' di organizzazione e di svolgimento dei corsi medesimi: quest'ultimo e' stato modificato dal D.P.C.M. 8 aprile 1987, n. 227 il cui testo aggiornato e' nella Gazzetta Ufficiale - serie generale - n. 168 del 21 luglio 1987.
+ - Il D.Lgs. n. 29/1993 (concernente la razionalizzazione dell'organizzazione delle Amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego a norma dell'art. 2 della legge 23 ottobre 1992, n. 421) e' stato modificato dal D.Lgs. 18 novembre 1993, n. 470 e dal D.Lgs. 23 dicembre 1993, n. 546, recanti, entrambi, disposizioni correttive del predetto D.Lgs. n. 29/1993.
+ - Il comma 1 dell'art. 17 della legge n. 400/1988 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), come modificato dall'art. 74 del D.Lgs. 3 febbraio 1993, n. 29, prevede che con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possano essere emanati regolamenti per:
+ 
+                        
+                        
+                            a)
+                            
+                                l'esecuzione delle leggi e dei decreti legislativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge.
+ Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 ## Art. 2. — Prove di esame
 

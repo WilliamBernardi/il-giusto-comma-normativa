@@ -8,8 +8,8 @@ codice_redazionale: 000G0314
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -49,6 +49,38 @@ In tale caso il controllo sanitario ha periodicita' almeno biennale.
  10. In deroga all'articolo 44, comma 3, del decreto legislativo n. 277 del 1991, per gli adolescenti la cui esposizione personale al rumore sia compresa fra 85 e 90 decibel, gli intervalli del controllo sanitario non possono essere superiori all'anno. ".
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            All'allegato I alla legge 17 ottobre 1967, n. 977, introdotto dall'articolo 15, comma 1, del decreto legislativo 4 agosto 1999, n. 345, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al titolo del punto I la parola: "Lavorazioni" e' sostituita dalla seguente: "Mansioni";
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera b) del numero 1) concernente gli agenti fisici e' sostituita dalla seguente: "b) rumori con esposizione media giornaliera superiore a 90 decibel LEP-d.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera c) del numero 3 concernente gli agenti chimici e' sostituita dalla seguente: "c) sostanze e preparati classificati irritanti (Xi) e comportanti il rischio, descritto dalla seguente frase, che non sia evitabile mediante l'uso di dispositivi di protezione individuale: "puo' provocare sensibilizzazione per contatto con la pelle (R43) ";
+ d) al punto II, dopo il titolo: "Processi e lavori" al numero 1 e' premesso il seguente periodo: "Il divieto e' riferito solo alle specifiche fasi del processo produttivo e non all'attivita' nel suo complesso.";
+ e) al punto II, il numero 7) e' sostituto dal seguente: "7) Lavori comportanti rischi di crolli e allestimento e smontaggio delle armature esterne alle costruzioni.";
+ f) al punto II, il numero 13) e' soppresso;
+ g) al punto II, il numero 27) e' sostituito dal seguente: "27.
+Condotta dei veicoli di trasporto, con esclusione di ciclomotori e motoveicoli fino a 125 cc., in base a quanto previsto dall'articolo 115 del decreto legislativo 30 aprile 1992, n. 285, e di macchine operatrici semoventi con propulsione meccanica, nonche' lavori di pulizia e di servizio dei motori e degli organi di trasmissione che sono in moto.";
+ h) al punto II, il numero 33) e' sostituito dal seguente: "33) Cernita e trituramento degli stracci e della carta usata senza l'uso di adeguati dispositivi di protezione individuale.";
+ i) al punto II, al numero 34), dopo le parole: "pistole fissachiodi" sono aggiunte in fine le seguenti: "di elevata potenza".
 
 ## Art. 4.
 

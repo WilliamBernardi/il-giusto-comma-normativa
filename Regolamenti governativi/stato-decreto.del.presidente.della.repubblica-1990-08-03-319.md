@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,6 +40,133 @@ Entro un anno dalla data di entrata in vigore del presente regolamento ed, in pr
 
 ## Art. 3. — Norme di garanzia del funzionamento dei servizi
  pubblici essenziali - Servizi pubblici essenziali
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 10 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, i servizi da considerare essenziali nel comparto del personale delle universita' sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                istruzione universitaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                igiene;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' assistenziali e sanitarie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                protezione civile e tutela dell'ambiente e del territorio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                sicurezza e salvaguardia degli impianti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                produzione e distribuzione di energia e beni di prima necessita', nonche' gestione e manutenzione dei relativi impianti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                erogazione di assegni e di indennita' con funzione di sostentamento.
+
+2.
+                    
+                        
+                            Nell'ambito dei servizi essenziali di cui al comma 1, dovra' garantirsi, con le modalita' di cui all'art. 4, la continuita' delle seguenti prestazioni indispensabili per assicurare il rispetto dei valori e dei diritti costituzionalmente tutelati:
+ 
+                        
+                        
+                            a)
+                            
+                                immatricolazione ed iscrizione ai corsi di istruzione universitaria, per un periodo non inferiore ad un terzo di quello complessivamente previsto nelle singole sedi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esami conclusivi dei cicli di istruzioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificazioni per rinvio del servizio militare e partecipazione a concorsi, nei casi di documentata urgenza per scadenza di termini;
+
+                            
+                        
+                        
+                            d)
+                            
+                                prestazioni di accettazione e di pronto soccorso, specialistiche e diagnostiche, necessarie a garantire le attivita' assistenziali a carattere di urgenza assicurate al Servizio sanitario nazionale; servizio ambulanze nei casi di urgenza; servizi di cucina per assicurare le esigenze alimentari e dietetiche, nei casi in cui non sia possibile prevedere adeguata sostituzione di servizio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                cura degli animali e delle piante;
+
+                            
+                        
+                        
+                            f)
+                            
+                                sicurezza e funzionamento degli impianti termoelettrici e di emergenza necessari ad assicurare la continuita' dei servizi essenziali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                salvaguardia degli impianti e delle apparecchiature operanti anche a ciclo continuo, laddove l'interruzione del funzionamento comporti danni alle persone o alle apparecchiature stesse;
+
+                            
+                        
+                        
+                            h)
+                            
+                                raccolta, allontanamento e smaltimento dei rifiuti speciali, tossici, nocivi e radioattivi;
+
+                            
+                        
+                        
+                            i)
+                            
+                                prestazioni svolte per conto del Servizio nazionale della protezione civile, con particolare riferimento ad attivita' inerenti le osservazioni geologiche, geofisiche, sismologiche e vulcanologiche, con prestazioni ridotte anche in regime di reperibilita';
+
+                            
+                        
+                        
+                            l)
+                            
+                                adempimenti necessari per assicurare il pagamento degli stipendi e delle pensioni, secondo modalita' da definirsi in sede di contrattazione decentrata e comunque per il periodo di tempo strettamente necessario in base alla organizzazione delle singole amministrazioni.
 
 ## Art. 4. — Prestazioni indispensabili e contingenti di personale
  per il funzionamento dei servizi pubblici essenziali
@@ -88,6 +215,31 @@ Gli importi liquidati dalle societa' assicuratrici in base alle polizze stipulat
 
 ## Art. 9. — Diritto allo studio
 
+1.
+                    
+                        
+                            I permessi di cui all'art. 3 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, qualora le richieste superino il tre per cento delle unita' in servizio presso ciascuna universita' o istituzione universitaria all'inizio dell'anno, sono concessi nel seguente ordine:
+ 
+                        
+                        
+                            a)
+                            
+                                ai dipendenti che frequentano l'ultimo anno del corso di studi e, se studenti universitari o post-universitari, abbiano superato gli esami degli anni precedenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai dipendenti che frequentino l'anno di corso che precede l'ultimo e, successivamente, quelli che, nell'ordine, frequentino gli anni ancora anteriori, escluso il primo, ferma restando per gli studenti universitari e post-universitari la condizione di cui alla lettera a);
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai dipendenti ammessi a frequentare attivita' didattiche e formative, che non si trovino nelle condizioni di cui alle lettere a) e b).
+
 Nell'ambito di ciascuna delle fattispecie di cui al comma 1, la precedenza e' accordata, nell'ordine, ai dipendenti che frequentino corsi di studi della scuola media inferiore, della scuola media superiore, universitari o post-universitari.
 
 A parita' di condizioni, i permessi sono accordati ai dipendenti che non abbiano mai usufruito dei permessi medesimi per lo stesso corso di studi e, in caso di ulteriore parita', secondo l'ordine decrescente di eta'.
@@ -110,6 +262,38 @@ Devono essere, comunque, privilegiati i corsi per la qualificazione del personal
 
 ## Art. 11. — Tutela dei dipendenti in particolari condizioni psico-fisiche
 
+1.
+                    
+                        
+                            In attuazione dell'art. 18 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, fatte salve le disposizioni normative vigenti, allo scopo di favorire la riabilitazione ed il recupero di dipendenti nei confronti dei quali sia stata attestata, da una struttura sanitaria pubblica o da strutture associative convenzionate previste dalle leggi regionali vigenti, la condizione di portatore di handicaps o di soggetto ad effetti di tossicodipendenza, alcolismo cronico o grave debilitazione psico-fisica e che si impegnino a sottoporsi ad un progetto terapeutico di recupero e di riabilitazione predisposto dalle strutture medesime, sono stabilite le seguenti misure di sostegno secondo le modalita' di esecuzione del progetto:
+ 
+                        
+                        
+                            a)
+                            
+                                concessione dell'aspettativa per infermita' per l'intera durata del ricovero presso strutture specializzate; per il periodo eccedente la durata massima dell'aspettativa con retribuzione intera compete la retribuzione ridotta alla meta' per l'intera durata del ricovero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                concessione di permessi giornalieri orari retribuiti, nel limite massimo di due ore per la durata del progetto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                riduzione dell'orario di lavoro, con l'applicazione degli istituti normativi e retributivi previsti per il rapporto a tempo parziale, limitatamente alla durata del progetto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                utilizzazione del dipendente in mansioni della stessa qualifica diverse da quelle abituali quando tale misura sia individuata dalla struttura sanitaria pubblica come supporto della terapia in atto.
+
 I dipendenti, i cui parenti entro il secondo grado o, in mancanza, entro il terzo grado, si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato l'esecuzione del progetto di recupero e di riabilitazione, hanno titolo ad essere collocati in aspettativa per motivi di famiglia, per l'intera durata del progetto medesimo.
 
 Le universita' o le istituzioni universitarie dispongono l'accertamento della idoneita' al servizio dei dipendenti di cui al comma 1 qualora i dipendenti medesimi non si siano volontariamente sottoposti alle previste terapie.
@@ -124,6 +308,24 @@ Le confederazioni ed organizzazioni sindacali di cui al decreto del Ministro per
 
 Il fondo di incentivazione di cui all'art. 28 del decreto del Presidente della Repubblica 28 settembre 1987, n. 567, resta disciplinato dalla suddetta disposizione fino al 30 giugno 1990.
 
+2.
+                    
+                        
+                            Per le finalita' di cui all'art. 14, a decorrere dal 1 luglio 1990 e' costituito presso ciascuna universita' o istituzione universitaria un fondo annuo, denominato "Fondo per il miglioramento dell'efficienza dei servizi", che e' alimentato:
+ 
+                        
+                        
+                            a)
+                            
+                                dall'importo destinato nell'anno 1988 alla corresponsione delle maggiorazioni di stipendio per turni ordinari di servizio ed all'erogazione delle indennita' di rischio, di servizio meccanografico, di maneggio valori e di servizio notturno e festivo di cui agli articoli 24, 25, 26 e 27 del decreto del Presidente della Repubblica 28 settembre 1987, n. 567, maggiorato della eventuale integrazione di spesa per turni di servizio riferita all'anno 1989;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalla quota del monte retribuzioni annuo relativo a ciascuna istituzione, compreso il corrispettivo di dieci ore di lavoro straordinario annue pro-capite, riferite al 1 gennaio 1988, di cui all'art. 28 del decreto del Presidente della Repubblica 28 settembre 1987, n. 567, incrementato, a decorrere dal 1 luglio 1990, di una quota pari allo 0,65 per cento dello stesso monte salari.
+
 Il fondo di cui al comma 2 e' integrato, in presenza di effetti finanziari positivi conseguenti all'intensificazione dell'attivita' svolta dalle istituzioni, di una quota delle maggiori entrate derivanti dalla eventuale istituzione od adeguamento, secondo la normativa vigente, di corrispettivi finalizzati alla erogazione di servizi piu' qualificati a favore dell'utenza.
 
 Le quote di incremento di cui al comma 3 sono definite in sede di negoziazione decentrata a livello di istituzione.
@@ -135,6 +337,38 @@ Per le amministrazioni destinatarie di disposizioni legislative di istituzione, 
  per il miglioramento dell'efficienza dei servizi
 
 Il fondo di cui all'art. 13 e' destinato alla erogazione di compensi al personale, escluso quello con qualifiche dirigenziali ed equiparate, secondo le disposizioni del presente articolo per la realizzazione di piani, progetti e altre iniziative, individuate con la negoziazione decentrata, volti ad ottenere il miglioramento dell'efficienza e dell'efficacia dei servizi istituzionali.
+
+2.
+                    
+                        
+                            In rapporto alle esigenze peculiari di ciascuna istituzione, il fondo e' finalizzato:
+ 
+                        
+                        
+                            a)
+                            
+                                in via prioritaria, all'erogazione di compensi incentivanti la produttivita'. La misura dei compensi e' determinata in rapporto al superamento di standards sperimentali di produttivita' di base ed ai diversi livelli di incremento degli stessi, entrambi definiti con la negoziazione decentrata, attivando le risorse necessarie anche in termini di formazione e di mobilita' per la realizzazione di obiettivi di produzione programmati; a tal fine si terra' conto delle disposizioni dell'art. 12 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13. Per i settori di attivita' non regolati da standards saranno definite, con la negoziazione decentrata, le modalita' per correlare la misura dei compensi ai risultati conseguiti rispetto agli obiettivi fissati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a remunerare gravose articolazioni dell'orario di lavoro, connesse anche all'apertura pomeridiana, per le esigenze degli utenti, degli uffici e delle strutture ed al funzionamento delle attrezzature informatiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'attribuzione di compensi per l'esercizio di compiti che comportano specifiche responsabilita', ovvero oneri, rischi o disagi particolarmente rilevanti, nonche' alla reperibilita' collegata alla particolare natura dei servizi che richiedono interventi di urgenza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                a corrispondere specifici compensi ai dipendenti che abbiano conseguito un particolare arricchimento professionale a seguito del superamento di appositi corsi di formazione correlati all'evoluzione del sistema organizzativo o tecnologico e che siano stati conseguentemente adibiti ai compiti propri della specializzazione acquisita.
 
 I criteri per l'attuazione, le modalita' e la periodicita' di erogazione dei compensi ed indennita' di cui al comma 2 saranno definiti in sede di negoziazione decentrata.
 
@@ -270,6 +504,63 @@ I trasferimenti del personale da una sede ad altra all'interno del comparto sono
 I trasferimenti di cui al comma 2 sono attuati nell'ambito dei posti vacanti e disponibili in corrispondenza all'area funzionale, alla qualifica ed al profilo professionale di inquadramento dell'interessato.
 
 ## Art. 19. — Trattamento di missione
+
+1.
+                    
+                        
+                            Le misure intere lorde dell'indennita' di cui all'art. 5, comma 2, del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                qualifiche funzionali quinta, sesta, settima, ottava e nona; qualifiche del ruolo speciale tecnico, scientifico e delle biblioteche: L. 39.600;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualifica funzionale prima, seconda, terza e quarta: L. 28.800.
+
+2.
+                    
+                        
+                            Le particolari categorie di dipendenti di cui all'art. 5, comma 7, del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono individuate nel personale inviato in missione fuori della ordinaria sede di servizio per:
+ 
+                        
+                        
+                            a)
+                            
+                                attivita' di protezione civile nelle situazioni di prima urgenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' di rilevazione, osservazione e controllo di impianti ed installazioni scientifiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' di tutela e rilevazione del patrimonio storico, artistico ed ambientale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' di escavazione nelle ricerche geologiche, archeologiche e sul territorio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' che comportino imbarchi su unita'.
 
 Per il personale indicato nel comma 2, le particolarissime condizioni di cui al comma 7 dell'articolo 5 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono individuate nella impossibilita' della fruizione del pasto o del pernottamento per mancanza di strutture e servizi di ristorazione; in tale circostanza viene corrisposto un compenso forfettario giornaliero di lire ventimila nette in luogo dell'importo corrispondente al costo del pasto e di lire ventimila nette in luogo dell'importo corrispondente al pernottamento.
 

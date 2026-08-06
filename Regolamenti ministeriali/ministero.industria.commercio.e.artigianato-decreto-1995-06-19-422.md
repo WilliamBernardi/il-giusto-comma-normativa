@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2013-01-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,6 +23,46 @@ Entrata in vigore del decreto: 29-10-1995
 DEL COMMERCIO E DELL'ARTIGIANATO
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento l'espressione: 
+ 
+                        
+                        
+                            a)
+                            
+                                "legge", indica la legge 29 dicembre 1993, n. 580; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "elenco", indica l'elenco previsto dal comma 2 dell'art. 20 della legge 29 dicembre 1993, n. 580; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "Ministro e Ministero", indica il Ministro e il Ministero dell'industria, del commercio e dell'artigianato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "direttore generale del commercio e Direzione generale del commercio", indicano il direttore generale e la Direzione generale del commercio interno e dei consumi industriali del Ministero dell'industria, del commercio e dell'artigianato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "camera di commercio", indica la camera di commercio, industria, artigianato e agricoltura. 
+ ((1))
 
 -------------
                         AGGIORNAMENTO (1)
@@ -86,6 +126,34 @@ Per i soggetti diversi dalle camere di commercio, salvo quanto precisato al comm
 
 ## Art. 6. — Requisiti professionali
 
+1.
+                    
+                        
+                            In conformita' ai principi stabiliti dall'art. 19, comma 1, del decreto legislativo 3 febbraio 1993, n. 29, i requisiti professionali per l'iscrizione nell'elenco sono individuati: 
+ 1) nell'attitudine all'esercizio delle funzioni di vertice dell'amministrazione delle camere di commercio; il predetto requisito attitudinale si intende acquisito con l'esperienza maturata nell'esercizio di funzioni di direzione di unita' organizzative complesse, comportanti assunzioni di autonome responsabilita' gestionali, per un periodo complessivo di almeno tre anni nel quinquennio precedente la data della domanda; 
+ 2) nelle capacita' professionali acquisite in almeno due delle seguenti aree di attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                area giuridico-amministrativa, con particolare riferimento alla tenuta di registri, albi, ruoli o elenchi di esercenti attivita' economiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                area amministrativo-contabile, con particolare riferimento alle funzioni organizzative e di gestione del personale; di gestione patrimoniale e finanziaria; di supporto dell'attivita' degli organi decisionali; di controllo interno e di verifica dei risultati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                area economico-promozionale, con particolare riferimento alle funzioni di analisi economiche e di ricerca di mercato, di studi e rilevazioni statistiche in campo economico e sociale, di promozione o gestione di servizi alle imprese. La suddetta capacita' professionale si intende acquisita con l'esperienza maturata, per almeno un quinquennio complessivo nell'esercizio di funzioni nelle aree di attivita' di cui al punto 2). Ai fini della valutazione della capacita' professionale possono essere prese in considerazione soltanto le funzioni espletate, anche congiuntamente, per un periodo continuativo non inferiore a un anno nell'ambito di ciascuna area di attivita'. 
+ ((1))
+
 -------------
                         AGGIORNAMENTO (1)
                         
@@ -119,6 +187,31 @@ Possono essere considerate solo le esperienze acquisite in qualifiche dirigenzia
  Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
 
 ## Art. 9. — Cancellazione dall'elenco
+
+1.
+                    
+                        
+                            La cancellazione dall'elenco e' disposta: 
+ 
+                        
+                        
+                            a)
+                            
+                                a richiesta dell'interessato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al raggiungimento dei limiti di eta' per il collocamento in quiescenza dei dirigenti delle camere di commercio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                qualora venga accertata la mancanza o il venir meno dei requisiti richiesti per l'iscrizione.
 
 La cancellazione dall'albo di cui all'art. 23 del decreto legislativo 3 febbraio 1993, n. 29, e la cessazione da oltre due anni del rapporto di lavoro con imprese pubbliche o private comporta la cancellazione dall'elenco.
 

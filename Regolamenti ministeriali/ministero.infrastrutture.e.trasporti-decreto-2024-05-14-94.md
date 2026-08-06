@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2024-05-14;94
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,11 +26,489 @@ Udito il parere del Consiglio di Stato, espresso nella sezione consultiva degli 
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «altezza dello sbarramento»: la differenza tra la quota del piano di coronamento e quella del punto piu' depresso dei paramenti, escluso l'eventuale interrimento. Per le traverse prive di coronamento si fa riferimento alla quota del punto piu' elevato della struttura di ritenuta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «alveo di valle»: lo spazio contenuto tra le sponde fisse o gli argini del corso d'acqua a valle dello sbarramento; nel caso di alvei a sponde incerte, di cui all'articolo 94 del regio decreto 25 luglio 1904, n. 523, come individuato dall'Autorita' idraulica competente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «amministrazione concedente»: l'amministrazione competente al rilascio della concessione della derivazione di acqua pubblica di cui all'articolo 89 del decreto legislativo 31 marzo 1998, n. 112 e al regio decreto 11 dicembre 1933, n. 1775; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «autorita' idraulica competente»: l'amministrazione preposta alla tutela dei corsi d'acqua, con compiti di polizia idraulica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «cartelli monitori»: cartelli di tipo unificato figurativi e polilingue segnalanti il pericolo di piene artificiali, anche improvvise, per manovre degli organi di scarico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «cassa in derivazione»: la cassa di espansione realizzata esternamente al corso d'acqua, senza sbarramento in alveo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «cassa di espansione»: l'opera idraulica per l'accumulo temporaneo dei volumi di piena di un corso d'acqua; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «cassa in linea» o «cassa di valle»: la cassa di espansione realizzata tramite uno sbarramento in alveo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «cassa mista»: la cassa di espansione costituita in parte in linea con sbarramento in alveo, in parte in derivazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «documento di protezione civile (DPC)»: il documento contenente le condizioni per l'attivazione delle «fasi di allerta» per le finalita' di protezione civile nei bacini in cui siano presenti dighe, redatto ed approvato secondo quanto disposto dall'Autorita' nazionale di protezione civile; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «esercizio limitato»: l'esercizio dell'impianto di ritenuta subordinato a vincoli o restrizioni sulla quota di invaso per motivi di ordine tecnico relativi a una riduzione del grado di sicurezza dell'opera; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «esercizio ordinario»: l'esercizio dell'impianto di ritenuta non subordinato a vincoli o restrizioni diversi da quelli derivanti dal collaudo tecnico speciale e dal disciplinare di concessione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «esercizio sperimentale»: l'esercizio temporaneo dell'impianto di ritenuta ai fini del collaudo tecnico speciale; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «foglio di condizioni per l'esercizio sperimentale (FCS)»: il documento contenente gli obblighi per il controllo e la manutenzione dell'impianto di ritenuta nel corso dell'esercizio sperimentale; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «foglio di condizioni per l'esercizio e la manutenzione (FCEM)»: il documento contenente gli obblighi per il controllo e la manutenzione dell'impianto di ritenuta durante l'esercizio ordinario e l'esercizio limitato; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «foglio di condizioni per l'esercizio e la manutenzione delle opere di derivazione (FCEMD)»: il documento contenente gli obblighi per il controllo e la manutenzione delle opere di derivazione; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «Direzione generale»: la Direzione generale per le dighe e le infrastrutture idriche del Ministero delle infrastrutture e dei trasporti e gli Uffici tecnici per le dighe da essa funzionalmente dipendenti; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «documento di fattibilita' delle alternative progettuali (DOCFAP)»: documento previsto dall'articolo 2, dell'allegato I.7 del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «gestore»: il titolare della concessione di derivazione d'acqua pubblica o il soggetto richiedente la concessione o, se soggetto diverso, il gestore dello sbarramento e/o delle opere di derivazione; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «impianto di ritenuta»: l'insieme dello sbarramento, delle opere complementari ed accessorie, dei pendii costituenti le sponde del serbatoio e dell'acqua invasata; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «impianti tecnologici»: impianti, a servizio degli sbarramenti, di cui all'articolo 1, comma 2, del decreto del Ministero dello sviluppo economico 22 gennaio 2008, n. 37 pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 61 del 12 marzo 2008; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «Ingegnere responsabile»: l'ingegnere responsabile della sicurezza delle opere e dell'esercizio dell'impianto di ritenuta, ai sensi dell'articolo 4, comma 7, del decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «interventi di manutenzione»: lavori e opere previste dal Piano di manutenzione o altri interventi diversi da quelli di cui alla lettera ee) per assicurare regolare esercizio dell'impianto di ritenuta e delle opere di derivazione; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «interventi di declassamento»: interventi di trasformazione dell'impianto di ritenuta che determinano il trasferimento delle competenze di vigilanza dallo Stato, alle Regioni o Province autonome o agli enti territoriali da esse delegati; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «interventi di dismissione»: interventi per privare in via definitiva lo sbarramento della funzione di ritenuta idraulica, anche in occasione di eventi di piena estremi, garantendo la sicurezza del sito; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    «interventi di ristrutturazione»: lavori e opere di trasformazione, anche parziale, degli impianti di ritenuta, suddivisi in interventi di adeguamento, miglioramento, riparazione o interventi locali e declassamento, secondo la declaratoria recata dalle «Norme tecniche per la progettazione e la costruzione degli sbarramenti di ritenuta (dighe e traverse)»; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    «invaso»: l'insieme delle sponde, compreso il fondo del serbatoio e dell'acqua invasata; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    «norme tecniche per la progettazione e la costruzione degli sbarramenti di ritenuta (dighe e traverse) (NTD)»: norme approvate con decreto del Ministro delle infrastrutture e dei trasporti 26 giugno 2014, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 156 dell'8 luglio 2014; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    «aggiornamento delle norme tecniche per le costruzioni (NTC)»: norme approvate con decreto del Ministro delle infrastrutture e dei trasporti 17 gennaio 2018, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 42 del 20 febbraio 2018; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    «opere di derivazione e adduzione connesse agli sbarramenti di ritenuta»: l'insieme delle opere di presa, regolazione del flusso, trasporto, condotta e restituzione delle acque che traggono origine e sono direttamente alimentate da un invaso realizzato tramite uno sbarramento di ritenuta. Di seguito «Opere di derivazione»; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    «progetto di fattibilita' tecnico-economica (PFTE)»: progetto di cui all'articolo 41 del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    «progetto esecutivo (PE)»: progetto previsto dall'articolo 41 del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    «Responsabile tecnico»: il tecnico responsabile dell'esercizio in sicurezza delle opere di derivazione; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    «sbarramento»: la struttura di ritenuta dell'acqua, costituita da una diga o da una traversa e dalle opere di scarico; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    «sponde del serbatoio»: il complesso dei pendii naturali o artificiali costituenti, insieme allo sbarramento, il serbatoio, nonche' dei pendii a quota superiore a quella di massimo invaso, le cui condizioni di stabilita' possano essere influenzate dall'invaso, ovvero possano influenzare la sicurezza o la funzionalita' dell'invaso stesso; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    «volume di invaso»: la capacita' del serbatoio compresa tra la quota piu' elevata delle soglie sfioranti degli scarichi, o della sommita' delle eventuali paratoie, e la quota del punto piu' depresso del paramento di monte, escluso l'eventuale interrimento.
+
 ## Art. 2. — Oggetto e ambito di applicazione
+
+1.
+                        
+                            
+                                Il presente regolamento disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il procedimento di approvazione tecnica dei progetti, il controllo sulla costruzione e sull'esercizio degli impianti di ritenuta aventi le caratteristiche dimensionali di cui all'articolo 1, comma 1, del decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584 e delle opere di derivazione, che da tali impianti di ritenuta traggono origine e sono direttamente alimentate, di cui al comma 4-bis, dell'articolo 6 della legge 1° agosto 2002, n. 166, con o senza restituzione in alveo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'individuazione e le modalita' di espletamento delle funzioni assegnate alla Direzione generale, concernenti gli aspetti di sicurezza e vigilanza derivanti dalla costruzione, esercizio, dismissione, conservazione e manutenzione delle opere di competenza.
+
+2.
+                        
+                            
+                                Sono esclusi dall'applicazione del presente regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli sbarramenti che determinano invasi adibiti esclusivamente a deposito o decantazione o concentrazione o lavaggio di minerali o di residui industriali o di sostanze diverse dall'acqua; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le casse di espansione in derivazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le conche di navigazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i serbatoi idrici o di accumulo di altre sostanze realizzati con strutture in elevazione di cemento armato, cemento armato precompresso o acciaio e i serbatoi di accumulo interrati o sotterranei; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le briglie; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli argini fluviali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le opere residuali di sbarramenti dismessi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le opere di derivazione da impianti di ritenuta non aventi le caratteristiche dimensionali di cui all'articolo 1, comma 1, del decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le opere di derivazione da prese su corsi d'acqua non realizzate tramite sbarramenti di ritenuta anche se convoglianti verso di essi le acque prelevate; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le opere di derivazione ricadenti nella competenza delle regioni e delle Province autonome in base agli accordi di cui al comma 4-quater, dell'articolo 6 della legge 1° agosto 2002, n. 166.
 
 Per le dighe non rientranti nei limiti dimensionali di cui al comma 1 dell'articolo 1 del decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584, le regioni adottano o aggiornano i propri regolamenti ai sensi del comma 2-bis dell'articolo 2 del medesimo decreto-legge, disciplinando nell'ambito della propria autonomia regolamentare l'approvazione dei progetti e il controllo sulla costruzione e sull'esercizio delle dighe e delle relative opere di derivazione in relazione alle caratteristiche degli impianti di propria competenza.
 
 ## Art. 3. — Compiti della Direzione generale
+
+1.
+                        
+                            
+                                Fermi i compiti, gli obblighi e le responsabilita' dei concessionari e dei soggetti gestori in materia di sicurezza e di derivazione di acqua pubblica, la Direzione generale, in relazione agli impianti di ritenuta e alle opere di derivazione di cui all'articolo 2, provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ad esprimere il parere tecnico obbligatorio e vincolante sul PFTE e parere facoltativo sui documenti di fattibilita' delle alternative progettuali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad approvare in linea tecnica il PE, anche ai fini degli adempimenti di cui all'articolo 1, comma 7-bis, del decreto-legge 8 agosto 1994, n. 507, convertito, con modificazioni, dalla legge 21 ottobre 1994, n. 584, e delle eventuali varianti in corso d'opera e alla verifica di ottemperanza alle prescrizioni tecniche impartite in sede di parere sul PFTE o di approvazione del PE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a disporre le verifiche sismiche e idrauliche degli sbarramenti in conseguenza della variata classificazione sismica dei siti, ovvero delle rivalutazioni idrologiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a rilasciare l'autorizzazione tecnica all'inizio dei lavori di costruzione dello sbarramento e alla vigilanza sulla costruzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a rilasciare l'autorizzazione all'esercizio sperimentale e all'esercizio ordinario degli impianti di ritenuta; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a disporre l'esercizio limitato degli impianti di ritenuta per manifestazioni che possano far dubitare della stabilita' delle opere o per riportare, in generale, il grado di sicurezza entro i limiti normativi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    a esprimere il parere sul progetto di gestione dell'invaso secondo quanto previsto dall'articolo 114 del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    a disporre il collaudo tecnico speciale dello sbarramento di ritenuta, nominando la commissione di collaudo, e ad approvare gli atti di collaudo tecnico speciale degli impianti di ritenuta, di cui all'articolo 22; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'accertamento tecnico e al rilascio dell'autorizzazione all'esercizio ordinario delle opere di derivazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    a vigilare sulle operazioni di controllo del comportamento degli impianti di ritenuta e delle opere di derivazione che i gestori sono tenuti a svolgere ai sensi del presente regolamento; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    a dettare prescrizione di studi, indagini e ispezioni per accertare lo stato delle opere, nonche' a richiedere la presentazione di progetti e l'esecuzione di attivita' ed opere per migliorare o adeguare il livello di sicurezza; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    ad acquisire gli studi sulle conseguenze sui territori di valle per manovre degli organi di scarico e per l'ipotetico collasso dello sbarramento; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    alla suddivisione degli sbarramenti e delle opere di derivazione in classi di attenzione; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    alla tenuta dell'Archivio tecnico e del Registro delle dighe e di quelli delle opere di derivazione; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    alla predisposizione ed emanazione di raccomandazioni tecniche nelle materie di competenza; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    a esprimere parere tecnico su progetti di infrastrutture o altre opere da realizzarsi in prossimita' del serbatoio o in aree limitrofe e che possono avere influenza sulla sicurezza del serbatoio; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    a esprimere parere tecnico sui progetti di declassamento e di dismissione degli impianti di ritenuta soggetti al presente regolamento; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    a trasmettere all'amministrazione concedente ogni provvedimento relativo all'impianto oggetto del rapporto concessorio e ad acquisire dalla medesima l'atto e il disciplinare contenente gli obblighi e le condizioni a cui e' vincolata la concessione di derivazione d'acqua, nonche' ogni altro provvedimento relativo alla costruzione, modifica, esercizio e manutenzione dell'impianto di ritenuta.
 
 La Direzione generale acquisisce il parere del Consiglio superiore dei lavori pubblici sui PFTE relativi alla costruzione di nuovi impianti di ritenuta, nonche' per gli interventi di adeguamento su opere esistenti, ai sensi delle NTD. E' fatta salva la facolta' della Direzione generale di richiedere al Consiglio superiore dei lavori pubblici l'espressione del relativo parere su differenti livelli progettuali o in relazione a interventi di particolare complessita' su impianti di ritenuta esistenti e su opere di derivazione.
 
@@ -73,6 +551,38 @@ Progetto di fattibilita' tecnico-economica
 
 Il PFTE dell'impianto di ritenuta e' oggetto di parere tecnico vincolante della Direzione generale nell'ambito del procedimento concessorio di cui all'articolo 7 del regio decreto 11 dicembre 1933, n. 1775 ovvero del procedimento unico autorizzativo o della conferenza di servizi preliminare o decisoria per la costruzione e l'esercizio dell'impianto di ritenuta, secondo quanto previsto dalla normativa vigente. La Direzione generale, in sede di parere tecnico vincolante, attribuisce la classe di attenzione cui l'opera e' associata.
 
+2.
+                        
+                            
+                                Il PFTE e' redatto in conformita' ai contenuti previsti dal codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36, e contiene inoltre i seguenti ulteriori elaborati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    piano della strumentazione di controllo e di misura delle opere e delle sponde costituenti l'impianto di ritenuta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    schemi di funzionamento e calcoli di predimensionamento degli impianti elettromeccanici ed oleodinamici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    studi idraulici sull'alveo a valle degli sbarramenti di cui all'articolo 9, comma 1, e gli elementi per l'attribuzione della classe di attenzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    piano degli invasi dell'esercizio sperimentale che stabilisca le fasi di invaso e svaso con le relative tempistiche, contenente l'indicazione del subordinato piano di utilizzo dell'acqua secondo i volumi disponibili.
+
 La relazione geologica comprende lo studio geomorfologico dei versanti del serbatoio e gli studi di reperibilita' dei materiali da costruzione e d'individuazione delle cave di prestito. La relazione geotecnica e la relazione di calcolo di stabilita' comprendono lo studio delle caratteristiche dei materiali da costruzione, comprensivo del programma delle prove preliminari sui materiali e delle modalita' di posa in opera e di controllo durante la costruzione.
 
 La relazione idrologica, la relazione geologica e le verifiche di sicurezza della diga del PFTE sono elaborate con il livello di dettaglio necessario al rispetto delle NTD.
@@ -97,10 +607,99 @@ In caso di sopravvenute modifiche della normativa tecnica (NTD e/o NTC) prima de
 
 ## Art. 9. — Studi idraulici sull'alveo a valle degli sbarramenti
 
+1.
+                        
+                            
+                                Tra gli elaborati specialistici del PFTE di un impianto di ritenuta sono ricompresi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli studi della propagazione, nel tempo e nello spazio, delle onde di piena artificiali conseguenti all'ipotetico collasso dello sbarramento e alle manovre di apertura degli organi di scarico, ivi compresa la delimitazione delle aree allagabili, con il dettaglio e l'estensione sufficiente a consentire la redazione dei piani di emergenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo studio di determinazione del valore e tempo di ritorno della massima portata transitabile lungo l'alveo a valle dello sbarramento ai fini della disciplina delle ordinarie manovre volontarie; lo studio deve individuare anche le sezioni maggiormente critiche per il deflusso delle portate scaricate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo studio di valutazione del rischio idraulico residuo al quale il territorio a valle dello sbarramento rimane soggetto dopo la costruzione dell'impianto di ritenuta, al fine di valutare il beneficio, in termini di difesa idraulica del territorio, conseguibile con la realizzazione dell'opera e gli effetti sui correlati piani di bacino; lo studio deve definire l'estensione delle aree inondabili a valle della diga, prima e dopo l'entrata in esercizio dell'impianto di ritenuta e indipendentemente dall'eventuale adozione di un piano di laminazione, per eventi di piena con tempi di ritorno coerenti con quelli adottati nei piani citati. Tale studio e' richiesto solo per le dighe di nuova costruzione.
+
+2.
+                        
+                            
+                                Sugli studi di cui al comma 1 e' acquisito il parere dell'Autorita' idraulica per gli aspetti di competenza inerenti al rischio idraulico a valle della diga, ferma restando la competenza della Direzione generale per le valutazioni relative agli idrogrammi delle onde di piena artificiali in uscita dallo sbarramento di cui al comma 1, lettera a). A seguito degli adempimenti di cui all'articolo 3, comma 1, lettera b), gli studi di cui al comma 1 sono trasmessi dalla Direzione generale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla Protezione civile della regione e all'Ufficio Territoriale di Governo - Prefettura di ubicazione dell'impianto di ritenuta per la pianificazione di emergenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'Autorita' idraulica competente per territorio per la relativa validazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'Autorita' di bacino distrettuale ovvero altra autorita' competente per l'eventuale aggiornamento della pianificazione per rischio idraulico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'amministrazione concedente.
+
 La Direzione generale, in caso di modificazioni dello sbarramento tali da alterare le caratteristiche delle onde di piena precedentemente considerate, chiede al gestore l'aggiornamento degli studi di cui al comma 1, lettere a) e c).
 
 ## Art. 10. — Disposizioni per la costruzione e le prove 
  di qualificazione sui materiali
+
+1.
+                        
+                            
+                                Con la verifica di ottemperanza e l'approvazione del PE, la Direzione generale stabilisce le prescrizioni relative alle modalita' di esecuzione dell'opera, da inserire in una specifica ed autonoma sezione della parte tecnica del capitolato speciale di appalto o documento tecnico equivalente. Tali prescrizioni disciplinano tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accessi provvisori allo sbarramento e deviazione provvisoria del corso d'acqua, sentita l'Autorita' idraulica competente e l'amministrazione concedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indagini e prove sui terreni e/o ammassi rocciosi di fondazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    materiali da costruzione e relative prove preliminari, di accettazione e di controllo, ivi compreso il laboratorio di cantiere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    osservazioni e misure per il controllo delle opere nel corso dei lavori, ivi comprese le misure idrologiche.
 
 ## Art. 11. — Piano di manutenzione dell'impianto di ritenuta
 
@@ -118,6 +717,56 @@ Il gestore trasmette alla Direzione generale il progetto di variante in corso d'
 Le varianti che incidono sulle caratteristiche di sicurezza e funzionalita' dell'impianto di ritenuta sono soggette alla preventiva approvazione tecnica della Direzione generale, secondo le disposizioni relative all'approvazione del PE e sono soggette ad autorizzazione dell'amministrazione concedente o notifica secondo la normativa regionale.
 
 ## Art. 13. — Progetto di intervento su opere esistenti
+
+1.
+                        
+                            
+                                Il PFTE e il PE degli interventi di ristrutturazione o di dismissione comprendono, con il corrispondente livello di sviluppo, oltre ai documenti tecnici previsti ai sensi del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36, i documenti necessari a inquadrare i problemi e le cause che hanno determinato l'esigenza di interventi e a valutare l'idoneita' delle soluzioni. In particolare, il PFTE e il PE degli interventi di ristrutturazione o di dismissione comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati e le notizie sul comportamento dell'opera durante la costruzione e l'esercizio e la relativa interpretazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i calcoli e le verifiche specifiche delle opere anche nelle diverse situazioni transitorie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le indagini e misure di controllo da effettuare sia nel corso dei lavori che successivamente.
+
+2.
+                        
+                            
+                                Gli interventi di ristrutturazione di sbarramenti sono realizzati secondo le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di interventi di riparazione o interventi locali, il progetto puo' essere riferito alle sole parti o elementi interessati per documentare il mantenimento o miglioramento delle condizioni di sicurezza preesistenti al danno o al degrado su cui si interviene; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di interventi di miglioramento, il progetto documenta l'incremento dei livelli di sicurezza rispetto a quelli preesistenti, almeno limitatamente alle opere oggetto di modifica e a quelle strutturalmente e funzionalmente correlate, pur senza necessariamente raggiungere i livelli richiesti per le nuove costruzioni, documentando, inoltre, invariate condizioni di sicurezza per le restanti parti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di interventi di adeguamento, il progetto documenta il raggiungimento dei livelli di sicurezza e funzionalita' previsti dalle norme (NTD e NTC).
 
 Per quanto concerne gli impianti tecnologici e i dispositivi di regolazione e chiusura degli scarichi, la relativa manutenzione, integrazione o sostituzione deve aver luogo in conformita' alla normativa vigente al momento degli interventi. Ai fini di preservare la funzionalita' e durabilita' delle opere di scarico, e' facolta' della Direzione generale prescrivere la realizzazione di uno specifico organo dedicato al rilascio a valle del deflusso ecologico o del deflusso minimo vitale.
 
@@ -191,6 +840,70 @@ Fermo restando quanto disposto dai DPC in merito alla messa a disposizione delle
 
 Il gestore, entro il 28 febbraio e il 31 agosto di ogni anno, salvo diversa tempistica stabilita nei documenti di cui al comma 1, trasmette alla Direzione generale una relazione asseverata dell'Ingegnere responsabile, sottoscritta anche dal gestore, che descrive il comportamento e lo stato di sicurezza delle opere. La relazione e' corredata dalle descrizioni delle principali osservazioni svolte e dai diagrammi delle misure alla strumentazione automatica e dei controlli manuali, secondo quanto stabilito dai documenti di cui al comma 1.
 
+4.
+                        
+                            
+                                Il gestore ha l'obbligo di registrare le misure e le prove, eseguite secondo quanto previsto dal comma 1 e conservarli in un «Registro delle osservazioni» da tenere nella casa di guardia. Nel Registro delle osservazioni, sono riportati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i controlli e le ispezioni eseguiti e i relativi risultati, secondo quanto stabilito dai documenti di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le letture o registrazioni delle grandezze misurate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione dei lavori di manutenzione eseguiti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ubicazione e la descrizione di eventi particolari e delle eventuali anomalie che si fossero manifestate.
+
+5.
+                        
+                            
+                                Nella casa di guardia e' conservato altresi' un «Registro delle manovre degli organi di scarico», nel quale sono riportate tutte le movimentazioni degli organi di scarico presidiati con paratoie e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la scansione temporale degli eventi di piena idonea a ricostruire gli stessi in termini di portate affluenti al serbatoio e scaricate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le variazioni del livello d'invaso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il grado di apertura di ciascuna luce di efflusso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le portate scaricate per ogni singolo organo di scarico e derivazione.
+
 Il Registro delle osservazioni e il Registro delle manovre degli organi di scarico sono redatti e conservati, anche in forma digitale, con modalita' tali da preservarne l'integrita' e il valore probatorio.
 
 In caso di incidente, nonche' a seguito di eventi di piena o sismici, l'Ingegnere responsabile redige, secondo quanto previsto dal Documento di protezione civile, un rapporto di evento. Il rapporto di evento e' trasmesso alla Direzione generale ed e' allegato al Registro delle osservazioni.
@@ -201,6 +914,98 @@ Il gestore e' tenuto alla verifica periodica del corretto funzionamento degli or
 
 ## Art. 19. — Obblighi del gestore e Foglio di condizioni 
  per l'esercizio sperimentale
+
+1.
+                        
+                            
+                                Il FCS articolato in sezioni, definisce gli obblighi del gestore e dell'Ingegnere responsabile per il controllo e la manutenzione dell'impianto di ritenuta durante l'esercizio sperimentale e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli adempimenti per accertare le condizioni di sicurezza e manutenzione dell'impianto di ritenuta e quelli da attuare in caso di malfunzionamento degli organi di scarico o della strumentazione di controllo e misura, o nel caso di anomalia delle misure o dei risultati delle ispezioni, nonche' in caso di eventi sismici o di piena; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' della sorveglianza dell'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero, il tipo e la localizzazione delle apparecchiature di controllo e misura, nonche' il tipo e le frequenze delle misure delle opere e delle sponde costituenti l'impianto di ritenuta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i sistemi di segnalazione di pericolo, di illuminazione, di sicurezza degli accessi e di allarme antintrusione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il valore della massima portata contenuta in alveo a valle dello sbarramento; le mappe delle aree allagabili per l'apertura volontaria degli scarichi e tutte le informazioni necessarie per garantire la gestione degli scarichi stessi in sicurezza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di manutenzione delle apparecchiature e dispositivi di cui ai punti precedenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'obbligo di non superare, nel corso delle manovre degli organi di scarico connesse all'ordinario esercizio del serbatoio, il valore della massima portata di cui al punto e), tenendo conto anche della preesistenza di eventuali deflussi in alveo; tale obbligo non opera in relazione agli eventi che comportano le attivazioni delle fasi di allerta del DPC.
+
+2.
+                        
+                            
+                                Il FCS contiene altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    il programma degli invasi sperimentali in coerenza con il corrispondente piano facente parte del PFTE, dove e' anche evidenziata la possibilita' di utilizzazione dei volumi invasati e disponibili durante l'esercizio sperimentale, fissandone eventuali limiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il piano di ubicazione dei «cartelli monitori» di cui all'articolo 1, comma 1, lettera e), che il gestore deve installare, prima dell'inizio degli invasi sperimentali, lungo gli alvei a valle degli sbarramenti e nei luoghi di accesso e per l'estensione dell'asta fluviale significativamente interessata dalla propagazione dell'onda di piena artificiale per apertura degli scarichi regolati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ubicazione, in prossimita' dello sbarramento o comunque ove ritenuto necessario, dei dispositivi di segnalazione acustica che il gestore e' tenuto ad installare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ubicazione, il tipo e le modalita' di esercizio della strumentazione per il rilevamento delle misure idrologico-idrauliche che il gestore e' tenuto ad eseguire e trasmettere alla Direzione generale e alle Regioni e Province autonome; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli estremi di approvazione del Progetto di gestione di cui all'articolo 114 del decreto legislativo n. 152 del 2006.
 
 Il FCS e le successive revisioni delle relative sezioni, redatti sulla base delle informazioni fornite dal gestore, sono approvati dalla Direzione generale, comunicati e notificati al gestore e sono trasmessi all'amministrazione concedente prima dell'inizio degli invasi sperimentali.
 
@@ -240,8 +1045,93 @@ La Direzione generale trasmette alla Commissione copia del progetto e delle even
 
 Prima dell'avvio degli invasi sperimentali la Commissione di collaudo tecnico speciale esprime parere sullo schema di FCS.
 
+9.
+                        
+                            
+                                La Commissione certifica l'avvenuto collaudo dell'impianto di ritenuta e lo stato di esercibilita' ordinaria, in funzione della tutela della pubblica incolumita' e, a tal fine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica la conformita' delle opere al progetto approvato in linea tecnica e alle eventuali varianti e la completezza dei disegni di consistenza dell'impianto di ritenuta compresa la strumentazione di controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valuta i risultati delle indagini e delle prove effettuate in corso d'opera sui terreni di fondazione e di sponda e sui materiali impiegati per la costruzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tiene conto dell'esito dell'attivita' di vigilanza svolta dalla Direzione generale e i rapporti tecnici dell'assistente della Direzione generale, ove nominato, i rapporti del Direttore dei lavori e le asseverazioni dell'Ingegnere responsabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valuta le risultanze degli invasi sperimentali e la conformita' del comportamento delle opere e delle sponde alle ipotesi di progetto, tenuto conto delle indagini, delle misure e delle osservazioni disponibili e degli eventi straordinari occorsi, quali, a titolo esemplificativo, terremoti e piene; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verifica il regolare funzionamento degli organi di scarico, del sistema di monitoraggio e degli impianti, nonche' la agibilita' delle vie di accesso, in conformita' a quanto previsto dal FCS; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    acquisisce nei casi previsti il certificato di collaudo tecnico-amministrativo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    acquisisce il certificato di collaudo statico delle strutture in calcestruzzo armato e metalliche ove gia' oggetto di distinto procedimento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    acquisisce le certificazioni degli impianti elettromeccanici ed oleodinamici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    esprime parere sullo schema del FCEM.
+
 La Commissione di collaudo trasmette il certificato e gli atti di collaudo alla Direzione generale per l'approvazione. La Direzione generale approva gli atti di collaudo previa verifica della regolarita' formale dell'operato della Commissione, della completezza degli accertamenti effettuati e della coerenza dei giudizi espressi.
 Copia degli atti di collaudo e' trasmessa dalla Direzione generale al gestore e all'amministrazione concedente.
+
+11.
+                        
+                            
+                                In caso di motivati impedimenti al completamento del programma degli invasi sperimentali, la Commissione di collaudo tecnico speciale comunica alla Direzione generale l'impossibilita' di concludere le operazioni di collaudo dell'impianto di ritenuta, indicando eventuali interventi necessari per procedere al collaudo delle opere e la quota massima di invaso raggiungibile in sicurezza in assenza di detti interventi. In tal caso l'atto di collaudo e' emesso con limitazione del massimo invaso ed e' approvato dalla Direzione generale che dispone contestualmente l'entrata in esercizio limitato dell'impianto di ritenuta stabilendo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un termine di validita' del certificato di collaudo entro il quale il gestore deve provvedere a realizzare gli interventi necessari alla collaudabilita' dell'opera per l'esercizio ordinario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quota massima di regolazione, compatibile con la sicurezza delle opere nel periodo di validita' del collaudo tecnico speciale.
 
 Decorsi i termini di validita' del certificato di collaudo senza che sia stato possibile superare gli impedimenti, l'impianto di ritenuta e' posto fuori esercizio con provvedimento della Direzione generale, trasmesso all'amministrazione concedente per i seguiti di competenza. La Direzione generale rinnova il procedimento di collaudo per l'esercizio alle quote di progetto sulla base di un nuovo programma di invasi sperimentali.
 
@@ -270,6 +1160,52 @@ Al fine di garantire la sicurezza, la manutenzione e la ispezionabilita', l'oper
 
 Lo sbarramento e' sorvegliato con continuita' dal gestore, mediante personale tecnico e custodito da personale di guardiania presente in casa di guardia ubicata nelle vicinanze dello sbarramento stesso, dotata di sistemi di comunicazione idonei anche in caso di emergenza.
 
+3.
+                        
+                            
+                                In funzione della classe di attenzione dell'impianto di ritenuta, della localizzazione e dei tempi di accesso alle opere, del comportamento pregresso in esercizio, del sistema di monitoraggio e della propria struttura tecnico-organizzativa, il gestore puo' proporre alla Direzione generale modalita' di guardiania e sorveglianza alternative rispetto a quanto previsto al comma 2, tenuto conto dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sistemi di monitoraggio a distanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sistemi di presidio a distanza in continuo e sistemi anti-intrusione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedure di ispezione periodica da parte di personale tecnico specializzato anche in funzione del raggiungimento delle soglie di attenzione e di allarme; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definizione di procedure che garantiscano l'accesso alla diga e agli organi di manovra delle opere di scarico in qualunque situazione meteorologica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    definizione di procedure che garantiscano la presenza di personale in sito in caso di sequenze sismiche e di allerte meteo di elevata criticita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    livello d'invaso.
+
 La Direzione generale, tenuto conto degli elementi di cui al comma 3, puo' autorizzare differenti modalita' di sorveglianza e guardiania rispetto a quanto previsto al comma 2, dandone indicazione anche nel FCEM. Per i casi in cui il personale di guardiania e' autorizzato a non risiedere permanentemente nella casa di guardia, questa deve comunque essere sempre manutenuta dal gestore e devono essere installati idonei sistemi antintrusione a protezione dell'impianto. Devono inoltre essere garantiti l'accesso e la permanenza presso lo sbarramento in ogni condizione e nel rispetto dei tempi massimi di intervento stabiliti nel FCEM.
 
 Durante le fasi di allerta o nei casi stabiliti dal FCEM, deve comunque essere assicurata la presenza continua del personale presso la casa di guardia.
@@ -280,6 +1216,52 @@ Per particolari condizioni previste nel progetto approvato l'impianto di ritenut
 
 ## Art. 25. — Vigilanza sulle opere e sulle sponde 
  e verifiche periodiche
+
+1.
+                        
+                            
+                                A partire dall'avvio degli invasi sperimentali, la Direzione generale effettua visite di vigilanza periodiche all'impianto di ritenuta al fine di verificare eventuali variazioni delle condizioni di manutenzione e sicurezza, di accertare il rispetto del FCS o del FCEM, nonche' di acquisire elementi per accertare l'adempimento alle prescrizioni adottate dalla Direzione generale. Nel corso del sopralluogo la Direzione generale verifica altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sicura agibilita' degli accessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'efficienza della strumentazione di controllo e misura con verifiche anche a campione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'efficienza delle opere di scarico tramite manovre di controllo e movimentazioni totali o parziali eseguite dal gestore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la funzionalita' dell'impianto d'illuminazione, del sistema di allarme, dei sistemi di comunicazione, delle fonti di energia alternative o di riserva, del sistema antintrusione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la corretta tenuta dei registri di cui all'articolo 18 mediante verifiche a campione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la coerenza delle misure acquisite, a campione, durante l'ispezione con quanto riportato nei diagrammi di cui all'articolo 18, comma 3.
 
 La Direzione generale stabilisce un calendario annuale delle visite ispettive agli impianti di ritenuta in funzione della classe di attenzione, delle condizioni di manutenzione delle opere, delle prescrizioni rilevanti per la sicurezza o in conseguenza di eventi meteorologici o sismici eccezionali o di dissesti idrogeologici interessanti l'impianto di ritenuta. E' comunque assicurata almeno una ispezione annuale per ciascun impianto. In funzione dei medesimi criteri e tenuto anche conto dei risultati delle ispezioni di cui al comma 5, la Direzione generale puo' altresi' stabilire un calendario pluriennale di accertamenti straordinari sulle condizioni di sicurezza dell'impianto di ritenuta a carico del gestore.
 
@@ -313,6 +1295,24 @@ Il gestore, qualora si verifichi un evento di piena caratterizzato da una portat
 
 Per i serbatoi destinati ad esclusive finalita' di laminazione delle piene, la cui progettazione e gestione sono demandate all'Autorita' idraulica deputata alla tutela del buon regime delle acque o ad altre amministrazioni pubbliche, puo' essere stipulato un accordo di programma tra la Direzione generale e le amministrazioni interessate, per la definizione delle procedure per l'espletamento dell'attivita' di controllo e la relativa vigilanza anche al fine di prevedere l'applicazione parziale delle disposizioni di cui ai capi II, III e IV e anche tenuto conto delle classi di attenzione delle opere. Per tali serbatoi il FCS e il FCEM sono approvati dalla Direzione generale di intesa con l'Autorita' idraulica e definiscono le attivita' che l'amministrazione che gestisce l'opera e' tenuta a svolgere anche nell'ambito del servizio di polizia idraulica, le modalita' con cui la Direzione generale vigila sulle attivita' del gestore nonche' i particolari controlli da effettuarsi nel corso degli eventi di piena in relazione alle particolari funzioni previste.
 
+2.
+                        
+                            
+                                La Direzione generale, in relazione a specifiche caratteristiche dello sbarramento e dell'invaso e per gli aspetti relativi alla sicurezza degli stessi puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    prescrivere, sentito il gestore e l'amministrazione concedente, particolari condizioni e limitazioni all'esercizio di attivita' di navigazione, di fruizione turistica o di attivita' economiche da svolgersi nell'invaso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assoggettare a preventiva autorizzazione tecnica la realizzazione di progetti di infrastrutture che interferiscono con la sicurezza dell'impianto di ritenuta o che prevedano la realizzazione nell'invaso di opere fisse o galleggianti.
+
 Le attivita' e i progetti di cui al comma 2 sono notificati dal proponente delle attivita' alla Direzione generale, all'amministrazione concedente e al gestore. La notifica di cui al precedente periodo non si effettua per le attivita' da svolgersi nei laghi naturali regolati e nei corsi d'acqua sbarrati da traverse fluviali, al di fuori delle aree che potrebbero interferire con la sicurezza dell'impianto di ritenuta o pregiudicare la sicurezza dell'attivita' stessa.
 
 ## - Titolo III OPERE DI DERIVAZIONE Capo I Progettazione, costruzione ed esercizio
@@ -320,6 +1320,49 @@ Le attivita' e i progetti di cui al comma 2 sono notificati dal proponente delle
 ## Art. 30. — Progettazione delle opere e categorie di intervento
 
 Il PFTE degli interventi di nuova costruzione e di ristrutturazione che modificano in modo sostanziale le opere di derivazione esistenti e' oggetto di parere tecnico vincolante della Direzione generale che attribuisce la classe di attenzione cui le opere sono associate.
+
+2.
+                        
+                            
+                                Il PFTE contiene, oltre agli elaborati tecnici previsti ai sensi del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo schema dei dispositivi di sicurezza e delle azioni di protezione e/o prevenzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo studio delle perturbazioni conseguenti a manovre degli organi di intercettazione e regolazione e il piano dei dispositivi di protezione previsti e le relative ridondanze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo studio degli scenari conseguenti al collasso delle opere o alla perdita di tenuta idraulica ed elementi utili per l'attribuzione della classe di attenzione.
+
+3.
+                        
+                            
+                                Il PE contiene oltre agli elaborati tecnici previsti ai sensi del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36 e agli elaborati progettuali di cui al comma 2, lettere a), b) e c): 
+ 
+                            
+                            
+                                a)
+                                
+                                    il piano delle attivita' di controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il progetto della strumentazione di controllo.
 
 Il parere sul PFTE puo' essere condizionato all'osservanza di prescrizioni da ottemperare in sede di PE. La verifica di ottemperanza e l'approvazione tecnica del PE autorizzano l'esecuzione delle opere per quanto di competenza della Direzione generale.
 
@@ -344,6 +1387,31 @@ Per gli interventi non soggetti ad approvazione tecnica, il gestore trasmette al
 ## Art. 33. — Accertamento tecnico e autorizzazione 
  all'esercizio definitivo
 
+1.
+                        
+                            
+                                Ferma restando la competenza dell'amministrazione concedente per il collaudo della derivazione ai sensi dell'articolo 24 del regio decreto 14 agosto 1920, n. 1285, gli interventi di cui all'articolo 30, comma 1 sono sottoposti ad accertamento tecnico da parte della Direzione generale. A tal fine il gestore comunica alla Direzione generale l'ultimazione dei lavori e l'entrata in esercizio provvisorio delle opere ed invia la Relazione a opere ultimate di cui all'articolo 32, comma 3. L'accertamento tecnico verifica la rispondenza delle opere eseguite alle previsioni del progetto approvato, il comportamento delle opere in esercizio provvisorio e acquisisce inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il certificato di collaudo statico delle strutture in calcestruzzo armato e metalliche ove gia' oggetto di distinto procedimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il certificato di collaudo tecnico-amministrativo nei casi previsti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le certificazioni di cui alle norme tecniche sulle tubazioni e quelle degli impianti elettromeccanici ed oleodinamici.
+
 In caso di esito positivo dell'accertamento tecnico, la Direzione generale, previa approvazione del FCEMD di cui all'articolo 35, autorizza l'esercizio definitivo ai fini della salvaguardia della pubblica incolumita'.
 
 Copia dell'accertamento tecnico e' trasmessa dalla Direzione generale al gestore e all'amministrazione concedente.
@@ -360,6 +1428,59 @@ L'inottemperanza da parte del gestore alle disposizioni di cui al comma 2 e' seg
  delle opere di derivazione
 
 Il Foglio condizioni per l'esercizio e la manutenzione delle opere di derivazione (FCEMD), articolato in sezioni, redatto sulla base delle informazioni fornite dal gestore, definisce gli obblighi a carico del gestore per il controllo e la manutenzione delle opere di derivazione in corso di esercizio per la tutela della pubblica incolumita'. A seguito dell'accertamento tecnico di cui all'articolo 33, il FCEMD e' approvato dalla Direzione generale, trasmesso all'amministrazione concedente e notificato al gestore ai fini dell'entrata in esercizio definitivo delle opere.
+
+2.
+                        
+                            
+                                Il FCEMD, in particolare, contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la descrizione delle opere di derivazione con l'indicazione degli elementi che le compongono e delle relative caratteristiche, prestazioni e classi di attenzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la descrizione degli eventuali dispositivi di sicurezza e delle azioni di protezione e/o prevenzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione e ubicazione degli accessi alle opere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la descrizione e ubicazione della strumentazione di controllo, qualora prevista, con le relative frequenze di misura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il piano di manutenzione in forma sintetica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'elenco della documentazione da conservare in apposito locale individuato nel FCEMD; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le informazioni periodiche da fornire alla Direzione generale.
 
 Il FCEMD stabilisce inoltre gli adempimenti che il gestore e il Responsabile tecnico sono tenuti a rispettare nel caso di intervento degli organi di intercettazione di emergenza, di malfunzionamento della strumentazione di controllo e misura, o nel caso di anomalia delle misure o dei risultati delle ispezioni, nonche' in caso di eventi sismici.
 
@@ -402,6 +1523,24 @@ In caso di motivati impedimenti al completamento degli invasi sperimentali, si a
 Per le dighe esistenti alla data di entrata in vigore del presente regolamento, sono ammessi gli accessi e restano confermate le modalita' di guardiania e sorveglianza definiti nel FCEM vigente o, in mancanza, nell'atto del collaudo tecnico speciale delle opere stesse.
 
 ## Art. 39. — Disposizioni per le opere di derivazione
+
+1.
+                        
+                            
+                                Per le opere di derivazione esistenti alla data di entrata in vigore del presente regolamento, nelle more dell'approvazione del FCEMD, il gestore, ai fini della prosecuzione dell'esercizio delle opere, presenta alla Direzione generale, entro sei mesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la nomina del Responsabile tecnico e del sostituto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il certificato di collaudo di cui all'articolo 24 del regio decreto 4 agosto 1920, n. 1285, se emesso, e una relazione asseverata, da trasmettere entro il 28 febbraio di ogni anno a firma del Responsabile tecnico, attestante l'idoneita' delle opere di derivazione ad essere esercite in sicurezza, sulla base dei controlli eseguiti e degli esiti riscontrati.
 
 Fermo restando quanto previsto al comma 1, per le medesime opere di cui al comma 1, il gestore presenta alla Direzione generale, entro ventiquattro mesi dall'entrata in vigore del presente regolamento gli stati di consistenza delle opere di derivazione di sua competenza, qualora non abbia gia' provveduto ai sensi dell'articolo 43, comma 11, del decreto-legge 6 dicembre 2011, n. 201, convertito dalla legge 22 dicembre 2011, n. 214.
 

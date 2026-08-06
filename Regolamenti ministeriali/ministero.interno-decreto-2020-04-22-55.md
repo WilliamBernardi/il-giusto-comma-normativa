@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2020-04-22;55
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -68,11 +68,124 @@ Le prove scritte consistono nella stesura di un elaborato, senza l'ausilio di st
 
 Sono ammessi alla prova orale i candidati che abbiano riportato in ciascuna prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
+4.
+                    
+                        
+                            La prova orale verte, oltre che sulla materia oggetto di entrambe le prove scritte di cui al comma 2, sulle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                traumatologia e medicina di urgenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                semeiotica medica e chirurgica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                igiene, medicina preventiva e salute pubblica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                medicina legale e delle assicurazioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                norme sulla prevenzione degli infortuni sul lavoro; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                medicina del lavoro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                elementi di oculistica, otorinolaringoiatria, ortopedia, neuropsichiatria, psicologia sociale e del lavoro; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                elementi di medicina delle grandi emergenze e delle catastrofi; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                elementi di medicina dello sport; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                ordinamento del Ministero dell'interno, con particolare riguardo al Dipartimento, e ordinamento del personale del Corpo nazionale.
+
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso, e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
 ## Art. 5. — Titoli
+
+1.
+                    
+                        
+                            La commissione esaminatrice valuta i seguenti titoli, con esclusione di quelli richiesti per l'ammissione al concorso: 
+ 
+                        
+                        
+                            a)
+                            
+                                diploma di specializzazione in medicina legale e delle assicurazioni; medicina del lavoro; igiene e medicina preventiva - punti 5,00; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                altri diplomi di specializzazione - punti 3,00; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dottorato di ricerca - punti 1,00; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                master universitario di I livello - punti 0,40; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                master universitario di II livello - punti 0,60.
 
 I punteggi di cui al comma 1, lettere c), d) ed e), sono cumulabili fino a un massimo di punti 2,00.
 

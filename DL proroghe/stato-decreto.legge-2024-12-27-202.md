@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2026-05-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -30,9 +30,88 @@ All'articolo 35, comma 4, del decreto legislativo 30 marzo 2001, n. 165, sono ag
 
 A decorrere dall'anno 2025, le facolta' assunzionali autorizzate in favore delle universita' statali con decreto del Ministro dell'universita' e della ricerca ai sensi dell'articolo 66, comma 13-bis, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, hanno una validita' non superiore a tre anni e non possono essere ulteriormente prorogate. In via transitoria, alle facolta' assunzionali relative ad annualita' pregresse al 2025, autorizzate o da autorizzare con il decreto di cui al primo periodo e non ancora esercitate, si provvede, relativamente alle cessazioni verificatesi negli anni 2017, 2018, 2019 e 2020, entro il 31 dicembre 2025, relativamente alle cessazioni verificatesi negli anni 2021 e 2022, entro il 31 dicembre 2026 e, relativamente alle cessazioni verificatesi nell'anno 2023, entro il 31 dicembre 2027.
 
+2.
+                    
+                        
+                            All'articolo 3 della legge 8 agosto 1995, n. 335, recante disposizioni in materia assistenziale e previdenziale, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 10-bis, relativo alla sospensione dei termini prescrizionali per gli obblighi contributivi in favore dei dipendenti delle amministrazioni pubbliche di cui al decreto legislativo 30 marzo 2001, n. 165, le parole: «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2020» e le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 10-ter, relativo alla sospensione dei termini prescrizionali per gli obblighi contributivi in favore dei collaboratori coordinati e continuativi e figure assimilate, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025».
+
+2-bis.
+                    
+                        
+                            All'articolo 1, comma 72, della legge 30 dicembre 2023, n. 213, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "Limitatamente all'anno 2023" sono sostituite dalle seguenti: "Limitatamente agli anni 2023 e 2024"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: "entro il 30 novembre 2023" sono sostituite dalle seguenti: "entro il 30 novembre di ciascuno dei due anni"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo le parole: "fissato al 15 gennaio 2024" sono aggiunte le seguenti: "per l'anno 2023 e al 7 febbraio 2025 per l'anno 2024".))
+
+2-ter.
+                    
+                        
+                            All'articolo 1, comma 73, della legge 30 dicembre 2023, n. 213, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "entro il 18 dicembre 2023" sono sostituite dalle seguenti: "entro il 18 dicembre 2023 ed entro il 16 dicembre 2024"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo le parole: "entro il 29 febbraio 2024" sono aggiunte le seguenti: "per l'anno 2023 ed entro il 28 febbraio 2025 per l'anno 2024".
+
 All'articolo 9, comma 4, del decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15, relativo al regime sanzionatorio per il mancato pagamento nei termini dei contributi previdenziali e assistenziali da parte delle pubbliche amministrazioni, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025».
 
 All'articolo 1, comma 18, del decreto-legge 30 dicembre 2023, n. 215, convertito, con modificazioni, dalla legge 23 febbraio 2024, n. 18, che autorizza l'Avvocatura dello Stato, nell'ambito delle risorse disponibili a legislazione vigente, ad avvalersi di personale non dirigenziale in posizione di comando, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025».
+
+5.
+                    
+                        
+                            All'articolo 42-bis del decreto-legge 8 aprile 2020, n. 23, convertito, con modificazioni, dalla legge 5 giugno 2020, n. 40, relativo alla realizzazione del nuovo complesso ospedaliero della citta' di Siracusa, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025».
 
 Agli oneri derivanti dal comma 5, pari a 100.000 euro per l'anno 2025, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190.
 
@@ -77,13 +156,103 @@ All'articolo 2, comma 6-quater, del decreto-legge 30 dicembre 2023, n. 215, conv
 
 ## Art. 2. — Proroga di termini in materie di competenza del Ministero dell'interno e di personale del comparto sicurezza-difesa e del Corpo nazionale dei vigili del fuoco
 
+1.
+                    
+                        
+                            Al decreto legislativo 29 maggio 2017, n. 95, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DALLA L. 21 FEBBRAIO 2025, N. 15)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 46, commi 5 e 6, relativi al meccanismo di finanziamento dell'area negoziale relativa ai dirigenti delle Forze di polizia e delle Forze armate, le parole: «per gli anni dal 2018 al 2024» sono sostituite dalle seguenti: «per gli anni dal 2018 ((al 2026))».
+
 I permessi di soggiorno in scadenza al 31 dicembre 2024, rilasciati ai beneficiari di protezione temporanea ai sensi della decisione di esecuzione (UE) 2022/382 del Consiglio, del 4 marzo 2022, che accerta l'esistenza di un afflusso massiccio di sfollati dall'Ucraina, ai sensi dell'articolo 5 della direttiva 2001/55/CE del Consiglio, del 20 luglio 2001, possono essere rinnovati, previa richiesta dell'interessato, fino al 4 marzo 2026, in attuazione della decisione di esecuzione (UE) 2024/1836 del Consiglio del 25 giugno 2024. I permessi di soggiorno di cui al primo periodo perdono efficacia e sono revocati, anche prima della scadenza, in conseguenza dell'adozione, da parte del Consiglio dell'Unione europea, della decisione di cessazione della protezione temporanea.
 
 Nei casi di cui al comma 2, primo periodo, al momento della richiesta di rinnovo, il permesso di soggiorno puo' essere convertito per lavoro, per l'attivita' effettivamente svolta e si applicano le disposizioni di cui all'articolo 5, comma 2-ter, del ((testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al)) decreto legislativo 25 luglio 1998, n. 286.
 
 ((All'articolo 4, comma 4-bis, del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, dopo le parole: "medesima normativa" sono aggiunte le seguenti: ", fatti salvi i casi di esenzione che possono essere previsti con decreto del Ministro degli affari esteri e della cooperazione internazionale pubblicato nella Gazzetta Ufficiale")).
 
+4.
+                    
+                        
+                            Al fine di assicurare le facolta' assunzionali relative a diverse qualifiche dei ruoli del personale del Corpo nazionale dei Vigili del fuoco, e' prorogata fino al 31 dicembre 2025 la validita' delle seguenti graduatorie: 
+ 
+                        
+                        
+                            a)
+                            
+                                graduatoria del concorso pubblico a 300 posti nella qualifica di vigile del fuoco del Corpo nazionale dei vigili del fuoco, approvata con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile n. 207 del 17 aprile 2023, modificata con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile n. 381 del 19 maggio 2023; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                graduatoria del concorso pubblico a 4 posti nella qualifica di vice direttore tecnico-scientifico, nell'ambito professionale di biologia, approvata con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile n. 632 del 3 agosto 2023; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                graduatoria del concorso pubblico a 4 posti nella qualifica di vice direttore tecnico-scientifico, nell'ambito professionale chimica, approvata con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile n. 609 del 28 luglio 2023; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                graduatoria del concorso pubblico a 4 posti nella qualifica di vice direttore tecnico-scientifico, nell'ambito professionale psicologia, approvata con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile n. 725 del 29 settembre 2023.
+
+5.
+                    
+                        
+                            Al decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 15, concernente la validita' della graduatoria della procedura speciale di reclutamento nella qualifica di vigile del fuoco del Corpo nazionale dei vigili del fuoco, riservata al personale volontario del medesimo Corpo, approvata con decreto del capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile del Ministero dell'interno n. 310 dell'11 giugno 2019, le parole: «fino al 31 dicembre 2024» sono sostituite dalle seguenti: «((fino al 31 dicembre 2025))»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 4, concernente le risorse relative al contributo economico per i familiari del personale delle Forze di polizia, del Corpo nazionale dei vigili del fuoco e delle Forze armate, impegnato nelle azioni di contenimento, ((di contrasto)) e di gestione dell'emergenza epidemiologica da COVID-19, non utilizzate nell'anno 2021, le parole: «negli anni 2022, 2023 e 2024» sono sostituite dalle seguenti: «negli anni 2022, 2023, 2024 e fino al 30 aprile 2025». Alla compensazione degli effetti in termini di fabbisogno e indebitamento netto derivanti dal primo periodo, pari a 300.000 euro ((per l'anno 2025)), si provvede mediante corrispondente riduzione, per l'anno 2025, del Fondo di cui all'articolo 2, comma 6-sexies, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10.
+
 ((COMMA SOPPRESSO DALLA L. 21 FEBBRAIO 2025, N. 15)).
+
+6-bis.
+                    
+                        
+                            
+                                ((All'articolo 1, comma 1122, lettera i), della legge 27 dicembre 2017, n. 205, sono apportate le seguenti modificazioni:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((al primo periodo, le parole: "entro il 31 dicembre 2024, previa presentazione al comando provinciale dei vigili del fuoco, entro il 30 giugno 2023, della SCIA parziale, attestante il rispetto di almeno sei delle seguenti prescrizioni" sono sostituite dalle seguenti: "entro il 31 dicembre 2026, previa presentazione al comando provinciale dei vigili del fuoco, entro il 31 dicembre 2025, della SCIA parziale, attestante il rispetto di almeno otto delle seguenti prescrizioni";))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((al secondo periodo, le parole: "31 dicembre 2023" sono sostituite dalle seguenti: "31 dicembre 2025")).
 
 ## Art. 2-bis. — (( (Riserva a favore degli idonei della graduatoria della procedura speciale di reclutamento del personale volontario del Corpo nazionale dei vigili del fuoco).))
 
@@ -96,6 +265,26 @@ Al fine di assicurare l'ordinato svolgimento delle attivita' di alimentazione de
 Le disposizioni di cui all'articolo 31-octies, comma 1, del decreto-legge 28 ottobre 2020, n. 137, convertito, con modificazioni, dalla legge 18 dicembre 2020, n. 176, relativo alla sospensione della responsabilita' per l'inadempimento di obblighi riguardanti la registrazione degli aiuti di Stato, sono prorogate al 31 dicembre 2025.
 
 All'articolo 15-bis, comma 1, del decreto-legge 24 febbraio 2023, n. 13, convertito, con modificazioni, dalla legge 21 aprile 2023, n. 41, riguardante il trasferimento in proprieta', a titolo non oneroso, agli enti territoriali di alcuni immobili statali in gestione all'Agenzia del demanio, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025».
+
+4.
+                    
+                        
+                            All'articolo 16-sexies del decreto-legge 21 ottobre 2021, n. 146, convertito, con modificazioni, dalla legge 17 dicembre 2021, n. 215, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, relativo alla disciplina dei contratti di locazione passiva stipulati dalle amministrazioni statali, all'alinea, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, riguardante la disapplicazione nei confronti della societa' AMCO S.p.A. delle norme di contenimento della spesa a carico dei soggetti inclusi nell'elenco delle amministrazioni pubbliche redatto dall'ISTAT: 
+ 1) al primo periodo le parole: «2023 e 2024» sono sostituite dalle seguenti: «2023, 2024 e 2025»; 
+ 2) all'ultimo periodo, dopo le parole «della societa' stessa» sono aggiunte le seguenti «, nonche' l'obbligo di comunicazione dei dati e delle informazioni rilevanti in materia di finanza pubblica».
 
 Agli oneri derivanti dal comma 4, lettera b), pari a 500.000 euro per l'anno 2025, si provvede mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all' articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
 
@@ -118,6 +307,24 @@ All'articolo 1, comma 1-sexies, del decreto-legge 16 dicembre 2019, n. 142, conv
 Ai maggiori oneri derivanti dal comma 11, pari a 100 milioni di euro per l'anno 2024, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 4, comma 1, della legge 27 dicembre 2023, n. 206.
 
 Il finanziamento di cui all'articolo 1 del decreto-legge 16 dicembre 2019, n. 142, convertito, con modificazioni, dalla legge 7 febbraio 2020, n. 5, nell'importo rideterminato, previa richiesta motivata del commissario straordinario, ai sensi del comma 11 del presente articolo, e' soggetto ai medesimi oneri, termini e condizioni disciplinati in sede di attuazione del comma 1-sexies del medesimo articolo 1 del decreto-legge n. 142 del 2019.
+
+14.
+                    
+                        
+                            All'articolo 5 del decreto-legge 29 settembre 2023, n. 131, convertito, con modificazioni, dalla legge 27 novembre 2023, n. 169, recante disposizioni in materia di cessioni di compendi assicurativi e allineamento di valori contabili per le imprese, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «in quello successivo» sono sostituite dalle seguenti: «nei due esercizi successivi»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole «entro diciotto mesi dalla data di entrata in vigore del presente decreto» sono sostituite dalle seguenti: «entro il 31 dicembre 2025».
 
 Nelle more dell'adozione del decreto del Ministero dell'economia e delle finanze previsto dall'articolo 6, comma 1-bis, del decreto legislativo 27 gennaio 2010, n. 39, i revisori responsabili degli incarichi di attestazione della conformita' della rendicontazione di sostenibilita', conferiti con riferimento all'esercizio in corso al 31 dicembre 2024, possono rilasciare le predette attestazioni di conformita', purche' abbiano maturato entro la data di entrata in vigore della legge di conversione del presente decreto almeno cinque crediti formativi nelle materie caratterizzanti la rendicontazione e l'attestazione della sostenibilita' ai sensi dell'articolo 5 del citato decreto legislativo n. 39 del 2010.
 
@@ -144,6 +351,40 @@ Per le societa' di cui all'articolo 112, comma 7, alinea, ultimo periodo, del te
 
 Limitatamente ai debiti compresi nelle dichiarazioni precedentemente effettuate ai sensi dell'articolo 1, comma 235, della legge 29 dicembre 2022, n. 197, i debitori che alla data del 31 dicembre 2024 sono incorsi nell'inefficacia della relativa definizione a seguito del mancato, insufficiente o tardivo versamento, alle relative scadenze, delle somme da corrispondere per effetto dell'adesione alla predetta procedura di definizione agevolata, possono essere riammessi alla medesima rendendo, entro il 30 aprile 2025, la dichiarazione prevista dal medesimo comma 235 dell'articolo 1 della citata legge n. 197 del 2022. Tale dichiarazione e' resa con le modalita', esclusivamente telematiche, che l'agente della riscossione pubblica nel proprio sito internet entro venti giorni dalla data di entrata in vigore della legge di conversione del presente decreto; in tale dichiarazione il debitore sceglie altresi' il numero di rate nel quale intende effettuare il pagamento, entro il limite massimo di cui al comma 2, lettera b), numero 2), del presente articolo. ((2))
 
+2.
+                    
+                        
+                            In caso di riammissione alla procedura di definizione agevolata, ai sensi del comma 1, si applicano, con le seguenti deroghe, le disposizioni dell'articolo 1, commi 231, 232, 233, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251 e 252 della legge n. 197 del 2022: 
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione resa ai sensi del comma 1 puo' essere integrata, relativamente ai soli debiti di cui al medesimo comma 1, entro la stessa data del 30 aprile 2025; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il pagamento delle somme di cui all'articolo 1, comma 231, della legge n. 197 del 2022, sulle quali sono dovuti gli interessi al tasso del 2 per cento annuo a decorrere dal 1° novembre 2023, e' effettuato alternativamente: 
+ 1) in unica soluzione, entro il 31 luglio 2025; 
+ 2) nel numero massimo di dieci rate consecutive, di pari ammontare, con scadenza, rispettivamente, le prime due il 31 luglio e il 30 novembre 2025 e le successive il 28 febbraio, il 31 maggio, il 31 luglio e il 30 novembre degli anni 2026 e 2027; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare complessivo delle somme dovute ai fini della definizione, nonche' quello delle singole rate, e il giorno e il mese di scadenza di ciascuna di esse sono comunicati dall'agente della riscossione al debitore entro il 30 giugno 2025; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli effetti di cui alla lettera a) del comma 243 dell'articolo 1 della legge n. 197 del 2022 si determinano alla data del 31 luglio 2025. ((2))
+
 Per l'anno 2025, i termini per l'approvazione e la disponibilita' in formato elettronico dei modelli di dichiarazione concernenti le imposte sui redditi e l'imposta regionale sulle attivita' produttive, nonche' delle relative istruzioni e specifiche tecniche, di cui agli articoli 1, comma 1, e 2, comma 3-bis, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono rinviati al 17 marzo 2025.
 
 Per l'anno 2025, la data a partire dalla quale possono essere presentate le dichiarazioni di cui all'articolo 2, commi 1 e 2, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, e' rinviata al 30 aprile 2025.
@@ -154,6 +395,24 @@ Il fondo di cui all'articolo 62 del decreto legislativo 27 dicembre 2023, n. 209
 
 Il Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente, anche conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 1, comma 511, della legge 27 dicembre 2006, n. 296, e' incrementato di 15,735 milioni di euro per l'anno 2025, 88,774 milioni di euro per l'anno 2026 e 92,565 milioni di euro per l'anno 2027. Ai relativi oneri si provvede mediante corrispondente utilizzo di quota parte delle maggiori entrate e minori spese derivanti dai commi 1 e 2.
 
+8.
+                    
+                        
+                            Agli oneri derivanti dai commi 1 e 2, valutati in 1,02 milioni di euro per l'anno 2025, 0,6 milioni di euro per l'anno 2026, 0,34 milioni di euro per l'anno 2027, 13,99 milioni di euro per l'anno 2028, 13,021 milioni di euro per l'anno 2029, 9,975 milioni di euro per l'anno 2030, 9,214 milioni di euro per l'anno 2031, 8,714 milioni di euro per l'anno 2032, 8,025 milioni di euro per l'anno 2033, 4,016 milioni di euro per l'anno 2034 e 1,521 milioni di euro per l'anno 2035, che aumentano, in termini di fabbisogno e indebitamento netto, a 32,27 milioni di euro per l'anno 2028, 30,26 milioni di euro per l'anno 2029, 23,22 milioni di euro per l'anno 2030, 21,46 milioni di euro per l'anno 2031, 20,3 milioni di euro per l'anno 2032, 18,69 milioni di euro per l'anno 2033, 9,35 milioni di euro per l'anno 2034 e 3,55 milioni di euro per l'anno 2035, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a 32,27 milioni di euro per l'anno 2028, 30,26 milioni di euro per l'anno 2029, 23,22 milioni di euro per l'anno 2030, 21,46 milioni di euro per l'anno 2031, 20,30 milioni di euro per l'anno 2032, 18,69 milioni di euro per l'anno 2033, 9,35 milioni di euro per l'anno 2034 e 3,55 milioni di euro per l'anno 2035, mediante corrispondente riduzione del fondo di cui all'articolo 62, comma 1, del decreto legislativo n. 209 del 2023; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a 1,02 milioni di euro per l'anno 2025, 0,6 milioni di euro per l'anno 2026 e 0,34 milioni di euro per l'anno 2027, mediante corrispondente utilizzo di quota parte delle maggiori entrate e minori spese derivanti dai commi 1 e 2.
+
 ------------
                         AGGIORNAMENTO (2)
                         
@@ -162,6 +421,75 @@ Il Fondo per la compensazione degli effetti finanziari non previsti a legislazio
 ## Art. 4. — Disposizioni concernenti termini in materia di salute
 
 All'articolo 8, comma 2, del decreto legislativo 28 settembre 2012, n. 178, concernente la permanenza in carica degli organi deputati alla liquidazione coatta amministrativa dell'ente strumentale alla Croce Rossa Italiana (ESACRI), al terzo periodo, le parole «e, comunque, non oltre il 31 dicembre 2024» sono soppresse.
+
+2.
+                    
+                        
+                            
+                                ((All'articolo 34, comma 1, del decreto-legge 21 marzo 2022, n. 21, convertito, con modificazioni, dalla legge 20 maggio 2022, n. 51, relativo alla deroga alla disciplina del riconoscimento delle qualifiche professionali per medici e operatori socio-sanitari ucraini, sono apportate le seguenti modificazioni:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((al primo periodo, le parole: "fino al 31 dicembre 2024" sono sostituite dalle seguenti: "fino al 31 dicembre 2027";))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((al secondo periodo, dopo le parole: "muniti del Passaporto europeo delle qualifiche per i rifugiati" sono inserite le seguenti: "o della documentazione da cui si evince inequivocabilmente che il soggetto e' abilitato nel Paese di origine all'esercizio della professione sanitaria o all'attivita' riferita agli operatori socio-sanitari";))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((al secondo periodo, le parole: "dall'articolo 11 del decreto-legge 30 aprile 2019, n. 35, convertito, con modificazioni, dalla Legge 25 giugno 2019, n. 60" sono sostituite dalle seguenti: "dalla disciplina vigente in materia di spesa di personale per gli enti del Servizio sanitario nazionale")).
+
+2-bis.
+                    
+                        
+                            
+                                ((All'articolo 5-bis del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, relativo all'assolvimento degli obblighi di formazione continua in medicina, sono apportate le seguenti modificazioni:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((al comma 1-bis, le parole: "31 dicembre 2023" sono sostituite dalle seguenti: "31 dicembre 2025";))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((al comma 1-ter, le parole: "2014-2016 e 2017-2019" sono sostituite dalle seguenti: "2014-2016, 2017-2019 e 2020-2022")).
+
+3.
+                    
+                        
+                            All'articolo 1, comma 268, della legge 30 dicembre 2021, n. 234, relativo all'applicazione delle misure straordinarie per il conferimento di incarichi semestrali di lavoro autonomo ai medici specializzandi e di incarichi a tempo determinato al personale delle professioni sanitarie, agli operatori socio-sanitari e ai medici specializzandi iscritti regolarmente all'ultimo e al penultimo anno di corso della scuola di specializzazione, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((all'alinea, le parole:)) «degli enti medesimi dall'articolo 11, comma 1, del decreto-legge 30 aprile 2019, n. 35, convertito, con modificazioni, dalla legge 25 giugno 2019, n. 60, come modificato dal comma 269 del presente articolo:» sono sostituite ((dalle seguenti:)) «dalla disciplina vigente in materia:»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla ((lettera a),)) le parole: «2023 e 2024» sono sostituite dalle seguenti: «2023, 2024 e 2025» e le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025».
 
 ((All'articolo 1, comma 268, lettera b), della legge 30 dicembre 2021, n. 234, sono apportate le seguenti modificazioni: 
  a) le parole: "maturato al 31 dicembre 2023" sono sostituite dalle seguenti: "maturato al 31 dicembre 2025"; 
@@ -175,7 +503,99 @@ All'articolo 12, comma 1, del decreto-legge 30 marzo 2023, n. 34, convertito, co
 
 All'articolo 1, comma 583, della legge 30 dicembre 2018, n. 145, relativo alla rilevazione del fatturato di ciascuna azienda titolare di autorizzazioni all'immissione in commercio di farmaci, sulla base dei dati delle fatture elettroniche, le parole «31 dicembre 2024», ovunque ricorrono, sono sostituite dalle seguenti: «((31 dicembre 2025))».
 
+7.
+                    
+                        
+                            All'articolo 4 ((...)) del decreto-legge 30 dicembre 2023, n. 215, convertito, con modificazioni, dalla legge 23 febbraio 2024, n. 18, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, concernente la proroga del termine di validita' dell'iscrizione nell'elenco nazionale dei soggetti idonei alla nomina di direttore generale delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale di cui all'articolo 1, comma 2, del decreto legislativo 4 agosto 2016, n. 171, per i soggetti iscritti nell'elenco pubblicato sul sito internet del Ministero della salute in data 1° aprile 2020, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5-bis, ((concernente l'applicazione del regolamento recante)) la disciplina per l'attivita' di raccolta di sangue e di emocomponenti da parte di laureati in medicina e chirurgia abilitati, di cui al decreto del Ministro della salute 30 agosto 2023, n. 156, le parole: «fino al 31 dicembre 2024» sono sostituite dalle seguenti: «fino al 31 dicembre 2025»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((il comma 7-bis e' sostituito dal seguente: 
+ "7-bis. Il termine per l'adeguamento dell'ordinamento delle regioni e delle province autonome alle disposizioni di cui agli articoli 8-quater, comma 7, e 8-quinquies, comma 1-bis, del decreto legislativo 30 dicembre 1992, n. 502, e' prorogato al 31 dicembre 2026. Resta ferma la possibilita' da parte delle regioni di accreditare nuove strutture sanitarie ai sensi del decreto legislativo 30 dicembre 1992, n. 502")); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 8-septies, relativo alla limitazione di responsabilita' penale ai casi di ((...)) colpa grave a carico degli esercenti una professione sanitaria in situazioni di grave carenza di personale, le parole: «fino al 31 dicembre 2024» sono sostituite dalle seguenti: «fino al 31 dicembre 2025».
+
 All'articolo 29, comma 1, secondo periodo, del decreto-legge 25 maggio 2021, n. 73, convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, in materia di incentivi al processo di riorganizzazione della rete dei laboratori del Servizio sanitario nazionale, le parole «31 dicembre 2024» sono sostitute dalle seguenti: «31 dicembre 2025».
+
+9.
+                    
+                        
+                            All'articolo 9, comma 1, del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, relativo alla possibilita' per i laureati in medicina e chirurgia abilitati all'esercizio professionale, iscritti al corso di formazione specifica in medicina generale, di partecipare all'assegnazione degli incarichi convenzionali, rimessi all'accordo collettivo nazionale nell'ambito della disciplina dei rapporti con i medici di medicina generale, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole «Fino al 31 dicembre 2024, in relazione» sono sostituite dalle seguenti: «In relazione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo le parole «iscritti al corso di formazione specifica in medicina generale, possono» sono inserite le seguenti: «mantenere gli incarichi gia' assegnati ovvero»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo le parole «partecipare all'assegnazione degli incarichi convenzionali» sono inserite le seguenti: «, ivi inclusi quelli provvisori e di sostituzione ((...))».
+
+10.
+                    
+                        
+                            All'articolo 2-quinquies del decreto-legge 17 marzo 2020, n. 18, convertito con modificazioni, dalla legge 24 aprile 2020, n. 27, relativo alla possibilita' ((per i medici iscritti al corso di formazione in medicina generale di instaurare un rapporto convenzionale a tempo determinato con il Servizio sanitario nazionale,)) per i laureati in medicina e chirurgia abilitati di assumere incarichi provvisori o di sostituzione di medici di medicina generale, nonche' per i medici iscritti al corso di specializzazione in pediatria, durante il percorso formativo, di assumere incarichi provvisori o di sostituzione di pediatri di libera scelta convenzionati con il Servizio sanitario nazionale, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «Per la durata dell'emergenza epidemiologica da COVID-19, come stabilita dalla delibera del Consiglio dei ministri del 31 gennaio 2020» sono sostituite dalle seguenti: «A decorrere dal 1° gennaio 2025»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole «Per la durata dell'emergenza epidemiologica da COVID-19, come stabilita dalla delibera del Consiglio dei ministri del 31 gennaio 2020» sono sostituite dalle seguenti: «A decorrere dal 1° gennaio 2025» ((e le parole: "e occupati fino alla fine della durata dello stato di emergenza" e "esclusivamente durante lo stato di emergenza" sono soppresse)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole «Per la durata dell'emergenza epidemiologica da COVID-19 ((come stabilita dalla delibera del Consiglio dei ministri del 31 gennaio 2020,))» sono sostituite dalle seguenti: «A decorrere dal 1° gennaio 2025»; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                
+                                    ((al comma 4, al primo periodo, le parole: "Per la durata dell'emergenza epidemiologica da COVID-19," sono sostituite dalle seguenti: "A decorrere dal 1° gennaio 2025," e, al secondo periodo, le parole: "esclusivamente durante lo stato di emergenza" sono soppresse)).
 
 Al fine di far fronte alla carenza di personale sanitario negli enti e nelle aziende del Servizio sanitario nazionale nonche' di ridurre le liste d'attesa, le regioni e le province autonome di Trento e di Bolzano nell'anno 2025, in aggiunta a quanto previsto dall'articolo 1, comma 220, della legge 30 dicembre 2023, n. 213, possono incrementare, a valere sul livello di finanziamento indistinto del fabbisogno sanitario nazionale standard cui concorre lo Stato per l'anno 2025, la spesa per prestazioni aggiuntive dei dirigenti medici e del personale sanitario del comparto sanita' dipendenti dei medesimi enti e aziende nel limite degli importi lordi indicati, per ciascuna regione e provincia autonoma, nella tabella 1 allegata al presente decreto, pari complessivamente a 143.500.000 euro, di cui 101.885.000 euro per i dirigenti medici e 41.615.000 euro per il personale sanitario del comparto sanita'. I compensi erogati per lo svolgimento delle prestazioni aggiuntive di cui al presente comma sono soggetti a una imposta sostitutiva dell'imposta sul reddito delle persone fisiche e delle addizionali regionali e comunali pari al 15 per cento. Restano ferme le disposizioni di cui all'articolo 1, commi 218 e 219, della citata legge n. 213 del 2023 in materia di prestazioni aggiuntive. Agli oneri derivanti dal presente comma, valutati in 31.400.000 euro per l'anno 2025 e in 3.000.000 di euro per l'anno 2026, si provvede mediante utilizzo delle risorse iscritte nello stato di previsione della spesa del Ministero dell'economia e delle finanze ai sensi dell'articolo 1, comma 519, della legge 30 dicembre 2023, n. 213. Alla compensazione degli effetti finanziari in termini di fabbisogno e di indebitamento netto derivanti dal presente comma, pari a 31.400.000 euro per l'anno 2025 e 3.000.000 di euro per l'anno 2026 ((,)) si provvede mediante corrispondente riduzione del Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189.
 
@@ -205,6 +625,31 @@ Al fine di garantire il raggiungimento dei traguardi e degli obiettivi del Piano
 
 La valorizzazione dei docenti impegnati nelle attivita' di tutor, orientamento, coordinamento e sostegno della ricerca educativo-didattica e valutativa, funzionali ai processi di innovazione e al miglioramento dei livelli di apprendimento, e' prorogata all'anno scolastico 2025/2026. Per la finalita' di cui al primo periodo, il fondo di cui all'articolo 1, comma 561, della legge 29 dicembre 2022, n. 197, e' incrementato di 50 milioni di euro per ciascuno degli anni 2025 e 2026. Agli oneri di cui al presente comma si provvede mediante corrispondente riduzione del fondo di cui all'articolo 1, comma 565, della legge 30 dicembre 2024, n. 207.
 
+4-ter.
+                    
+                        
+                            All'articolo 4 del decreto-legge 30 dicembre 2016, n. 244, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 19, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: "al 31 dicembre 2024" sono sostituite dalle seguenti: "al 31 dicembre 2027"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-bis, le parole: "al 31 dicembre 2024" sono sostituite dalle seguenti: "al 31 dicembre 2027"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2-ter, le parole: "al 31 dicembre 2024" sono sostituite dalle seguenti: "al 31 dicembre 2027".
+
 Con decreto del Ministro dell'interno, di concerto con il Ministro dell'istruzione e del merito e il Ministro dell'universita' e della ricerca, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo del 28 agosto 1997, n. 281, da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono definite le misure gestionali di mitigazione del rischio, previste sino al completamento dei lavori di adeguamento, nonche' le scadenze differenziate per il completamento dei lavori di adeguamento a fasi successive.
 
 Il termine previsto per l'adozione del decreto del Ministro dell'istruzione e del merito, di concerto con il Ministro del lavoro e delle politiche sociali, sentita la Conferenza Stato-citta' ed autonomie locali, che definisce le modalita' di valutazione congiunta dei rischi connessi agli edifici scolastici di cui all'articolo 18, comma 3.2, del decreto legislativo 9 aprile 2008, n. 81, e' prorogato al ((31 dicembre 2026)).
@@ -226,6 +671,27 @@ All'articolo 15-bis, comma 6, lettera a), del decreto-legge 17 ottobre 2016, n. 
 
 All'articolo 18, comma 2, del decreto-legge 9 febbraio 2017, n. 8, convertito, con modificazioni, dalla legge 7 aprile 2017, n. 45, relativo all'incremento del personale facente capo alla segreteria tecnica di progettazione di cui si avvale l'ufficio del Soprintendente speciale per le aree colpite dal sisma del 24 agosto 2016, le parole «al 2024» sono sostituite dalle seguenti: «al 2025».
 
+3-bis.
+                    
+                        
+                            
+                                ((All'articolo 24, comma 3, del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126, in materia di incarichi dirigenziali non generali del Ministero della cultura, sono apportate le seguenti modificazioni:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((al primo periodo, le parole: "Nelle more delle procedure concorsuali per il reclutamento del personale dirigenziale di cui al comma 5, e comunque non oltre il 31 dicembre 2024" sono sostituite dalle seguenti: "Nelle more del perfezionamento delle procedure per il conferimento degli incarichi dirigenziali di seconda fascia relativi alla nuova organizzazione del Ministero della cultura in attuazione del regolamento di cui al decreto del Presidente del Consiglio dei ministri 15 marzo 2024, n. 57, e, comunque, non oltre il 31 dicembre 2025";))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((il quinto periodo e' sostituito dal seguente: "In deroga a quanto previsto dal quarto periodo, i contratti relativi a detti incarichi, limitatamente alle Soprintendenze archeologia, belle arti e paesaggio nel numero massimo di sei, conferiti e in essere al 31 dicembre 2024, possono essere nuovamente conferiti e cessano di avere efficacia all'atto del conferimento dei corrispondenti incarichi dirigenziali di seconda fascia relativi alla nuova organizzazione del Ministero della cultura in attuazione del regolamento di cui al decreto del Presidente del Consiglio dei ministri 15 marzo 2024, n. 57, o, in ogni caso, il 31 dicembre 2025")).
+
 Per l'attuazione delle disposizioni di cui ai commi 2 e 3, rispettivamente pari a euro 500.000 e a euro 1.000.000 ((per l'anno 2025)), e' autorizzata la spesa complessiva di 1.500.000 euro per l'anno 2025, cui si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2024-2026, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2024, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della cultura.
 
 ((All'articolo 26, comma 13, della legge 5 agosto 2022, n. 118, le parole: "Entro ventiquattro mesi" sono sostituite dalle seguenti: "Entro quarantotto mesi".))
@@ -236,6 +702,31 @@ Per l'attuazione delle disposizioni di cui ai commi 2 e 3, rispettivamente pari 
 
 All'articolo 1-bis del decreto-legge 29 settembre 2023, n. 132, convertito, con modificazioni, dalla legge 27 novembre 2023, n. 170, in materia di politiche abitative, le parole: «31 dicembre 2024», ovunque ricorrono, sono sostituite dalle seguenti: «31 dicembre 2025».
 
+2.
+                    
+                        
+                            All'articolo 10-septies, comma 1, del decreto-legge 21 marzo 2022, n. 21, convertito, con modificazioni, dalla legge 20 maggio 2022, n. 51, relativo ai termini dei lavori in materia edilizia, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea, le parole: «trenta mesi» sono sostituite dalle seguenti: «trentasei mesi»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera a), primo periodo, le parole: «fino al 30 giugno 2024» sono sostituite dalle seguenti: «fino al 31 dicembre 2024»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera b), primo periodo, le parole: «fino al 30 giugno 2024» sono sostituite dalle seguenti: «fino al 31 dicembre 2024».
+
 All'articolo 13, comma 17-bis, del decreto-legge 31 dicembre 2020, n. 183, convertito, con modificazioni, dalla legge 26 febbraio 2021, n. 21, relativo a disposizioni in materia di trasporto ferroviario, al terzo periodo le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «30 aprile 2025».
 
 All'articolo 1, comma 497, della legge 29 dicembre 2022, n. 197, relativo alla sospensione dell'aggiornamento biennale delle sanzioni previste dal codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, le parole: «per gli anni 2023 e 2024» sono sostituite dalle seguenti: «per gli anni 2023, 2024 e 2025» ed e' aggiunto, in fine, il seguente periodo: «Il decreto previsto dall'articolo 195, comma 3, del citato codice di cui al decreto legislativo 30 aprile 1992, n. 285, e' adottato entro il 1° dicembre 2025 per l'aggiornamento delle sanzioni applicate a decorrere dal 1° gennaio 2026, aggiornate all'andamento inflattivo relativo al biennio 2024-2025.».
@@ -244,9 +735,61 @@ All'articolo 10, comma 1, del decreto-legge 30 dicembre 2021, n. 228, convertito
 
 All'articolo 13, comma 6-bis, del decreto-legge 31 dicembre 2020, n. 183, convertito, con modificazioni, dalla legge 26 febbraio 2021, n. 21, le parole: "31 dicembre 2024" sono sostituite dalle seguenti: "31 dicembre 2025". Resta in ogni caso fermo quanto previsto dall'articolo 1, comma 489, della legge 27 dicembre 2013, n. 147, e dagli articoli 14, comma 3, e 14.1, comma 3, del decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2019, n. 26.
 
+4-quater.
+                    
+                        
+                            All'articolo 9-bis, comma 1-ter, del decreto-legge 28 settembre 2018, n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il primo periodo e' sostituito dal seguente: "Dalla data di entrata in vigore della presente disposizione e fino al 31 agosto 2026, il Commissario straordinario di cui all'articolo 1 assume ogni determinazione ritenuta necessaria per l'affidamento, l'avvio, la gestione o la prosecuzione dei lavori, nonche' per il coordinamento e il monitoraggio delle attivita' dei soggetti attuatori relativi al Tunnel sub-portuale e alla Diga foranea di Genova"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il terzo periodo, e' inserito il seguente: "Le risorse finanziarie destinate alla realizzazione dei progetti di cui al presente comma sono trasferite alla contabilita' speciale del Commissario straordinario di cui all'articolo 1"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'ultimo periodo sono aggiunte, in fine, le seguenti parole: ", nonche' dei soggetti di cui all'articolo 1, comma 3, per le finalita' ivi indicate".
+
 Dalle disposizioni di cui al comma 4-quater non devono derivare nuovi o maggiori oneri per la finanza pubblica. Le amministrazioni interessate provvedono agli adempimenti ivi previsti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 All'articolo 103-bis, comma 1, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, le parole: "fino al 31 dicembre 2024" sono sostituite dalle seguenti: "fino al 31 dicembre 2025".
+
+4-septies.
+                    
+                        
+                            All'articolo 7-bis del decreto-legge 21 ottobre 2021, n. 146, convertito, con modificazioni, dalla legge 17 dicembre 2021, n. 215, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, primo periodo: 
+ 1) le parole: "30 marzo 2025" sono sostituite dalle seguenti: "30 marzo 2026"; 
+ 2) le parole: ", al fine di semplificare la disciplina transitoria disposta dalle linee guida, adottate con il medesimo decreto, sui trasporti in condizione di eccezionalita', relativa alle verifiche di sicurezza per il transito dei mezzi fino a 86 tonnellate" sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, il secondo periodo e' sostituito dal seguente: "Fino alla medesima data continua ad applicarsi, ai trasporti in condizioni di eccezionalita', la disciplina di cui all'articolo 10, comma 10, del codice di cui al decreto legislativo 30 aprile 1992, n. 285, nonche', ai trasporti in condizioni di eccezionalita' per massa complessiva oltre le 86 tonnellate effettuati mediante complessi di veicoli con meno di otto assi, la disciplina transitoria sulle eventuali misure, anche di natura organizzativa o gestionale, di mitigazione del rischio applicabili di cui all'articolo 10, comma 10-bis, lettera b-bis), del medesimo codice"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2-bis, le parole: "entro il 30 ottobre 2024" sono sostituite dalle seguenti: "entro il 31 dicembre 2025".
 
 All'articolo 32-bis, comma 1, terzo periodo, del decreto-legge 2 marzo 2024, n. 19, convertito, con modificazioni, dalla legge 29 aprile 2024, n. 56, le parole: "per l'anno 2024" sono sostituite dalle seguenti: "per ciascuno degli anni 2024, 2025 e 2026". Agli oneri derivanti dal presente comma, pari a euro 150.000 per ciascuno degli anni 2025 e 2026, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2025-2027, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2025, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti.
 
@@ -273,6 +816,26 @@ All'articolo 4, comma 2, del decreto-legge 25 febbraio 2022, n. 14, convertito, 
 
 ## Art. 9. — Proroga di termini in materie di competenza del Ministero della difesa
 
+1.
+                    
+                        
+                            Al codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, sono apportate le seguenti modificazioni, in materia di regime transitorio del collocamento in ausiliaria: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2229, comma 1, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2230: 
+ 1) al comma 1, dopo la lettera m-quinquies), e' aggiunta la seguente: «m-sexies) 2025: ufficiali: 32; marescialli: 75; totale 107.»; 
+ 2) ((al comma 1-bis, la parola: "m-quinquies)" e' sostituita dalla seguente: "m-sexies)")).
+
 L'applicazione delle disposizioni di cui all'articolo 75, comma 3, del decreto-legge 25 maggio 2021, n. 73, convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, concernenti le modalita' di deposito di atti, documenti e istanze nei procedimenti penali militari, e' prorogata fino al 31 dicembre 2025.
 
 Allo scopo di garantire la necessaria continuita' delle funzioni delle Associazioni Professionali a Carattere Sindacale tra Militari di cui agli articoli 1475 e 1476 del codice dell'ordinamento militare di cui al decreto legislativo 15 marzo 2010, n. 66, a decorrere dal 1° gennaio 2025 fino all'accertamento della rappresentativita' per il triennio 2025-2027, e comunque non oltre il 30 aprile 2025, alle stesse Associazioni sono riconosciuti i distacchi e i permessi retribuiti di cui all'articolo 1480, comma 3, del citato codice, secondo i criteri di cui all'articolo 1 del decreto-legge 9 maggio 2024, n. 61, convertito, con modificazioni, dalla legge 4 luglio 2024, n. 96.
@@ -292,6 +855,31 @@ Per l'attuazione delle disposizioni del comma 1 e' autorizzata la spesa di 4.103
 ((All'articolo 49, comma 1, della legge 31 dicembre 2012, n. 247, le parole: "dodici anni" sono sostituite dalle seguenti: "tredici anni")).
 
 All'articolo 14, comma 12-ter, del decreto-legge 9 giugno 2021, n. 80, convertito, con modificazioni, dalla legge 6 agosto 2021, n. 113, in materia di personale del Ministero della giustizia, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025».
+
+4.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 19 febbraio 2014, n. 14, relativo al temporaneo ripristino di sezioni distaccate insulari, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025».
 
 Il termine di cui all'articolo 10, comma 13, del decreto legislativo 19 febbraio 2014, n. 14, limitatamente alle sezioni distaccate di Ischia, Lipari e Portoferraio, e' prorogato al 1° gennaio 2026.
 
@@ -362,6 +950,31 @@ All'articolo 1, comma 101, della legge 30 dicembre 2023, n. 213, relativo alla s
 
 ## Art. 14. — Proroga di termini in materie di competenza del Ministero del turismo
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto-legge 6 novembre 2021, n. 152, convertito, con modificazioni, dalla legge 29 dicembre 2021, n. 233, relativo all'utilizzo del credito di imposta per le imprese turistiche, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 ottobre 2025»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, alinea, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 ottobre 2025»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 10, primo periodo, dopo le parole «degli investimenti di riqualificazione energetica» sono aggiunte le seguenti: «, senza nuovi o maggiori oneri a carico della finanza pubblica».
+
 All'articolo 6, comma 2-septies, del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91, relativo alle procedure autorizzative per gli impianti di produzione di energia da fonti rinnovabili, le parole: «fino al 31 dicembre 2024» sono sostituite dalle seguenti: «fino al 31 dicembre 2025».
 
 All'articolo 19, comma 1, lettera b), del decreto legislativo 15 giugno 2015, n. 81, riguardante la disciplina dei contratti di lavoro dipendente a tempo determinato nel settore privato, le parole: «31 dicembre 2024» sono sostituite dalle seguenti: «31 dicembre 2025».
@@ -408,7 +1021,50 @@ All'articolo 4, comma 2-bis, del decreto-legge 27 luglio 2005, n. 144, convertit
 
 ## Art. 19. — Disposizioni concernenti termini in materia di agricoltura
 
+1.
+                    
+                        
+                            All'articolo 8-ter del decreto-legge 29 marzo 2019, n. 27, convertito, con modificazioni, dalla legge 21 maggio 2019, n. 44, relativo al contenimento della diffusione del batterio Xylella fastidiosa, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «della batteriosi,» le parole: «per un periodo di sette anni» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2-bis e' abrogato.
+
 All'articolo 1, comma 142, della legge 30 dicembre 2020, n. 178, le parole: "1° marzo 2025" sono sostituite dalle seguenti: "31 luglio 2025".
+
+1-ter.
+                    
+                        
+                            All'articolo 11, comma 5-ter, del decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), le parole: "31 dicembre 2024" sono sostituite dalle seguenti: "31 dicembre 2025"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b), le parole: "31 dicembre 2024" sono sostituite dalle seguenti: "31 dicembre 2025"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera c), le parole: "31 dicembre 2025" sono sostituite dalle seguenti: "31 dicembre 2026".
 
 Per le imprese della pesca e dell'acquacoltura il termine di cui all'articolo 1, comma 101, della legge 30 dicembre 2023, n. 213, e' prorogato ((al 31 dicembre 2026)).
 

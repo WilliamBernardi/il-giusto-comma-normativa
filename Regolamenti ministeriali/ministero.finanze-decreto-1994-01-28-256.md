@@ -8,8 +8,8 @@ codice_redazionale: 094G0278
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -53,6 +53,38 @@ Corrispondentemente alle attestazioni ed alle annotazioni di cui al precedente c
 Per le merci viaggianti sotto regime di transito comunitario in uscita dal territorio doganale verso Paesi non partecipanti al suddetto regime si effettuano solo gli adempimenti di cui all'art. 2, comma 1.
 
 Fuori dei casi di cui al precedente comma, eseguito il riscontro, si prescinde dagli adempimenti prescritti dall'art. 2 per le merci che, sotto regime di transito comunitario o sotto regime TIR ovvero scortate da carnet ATA o comunitario, siano, in uscita dagli spazi doganali, direttamente inoltrate fuori dal territorio doganale od avviate verso l'interno del territorio stesso; si prescinde inoltre da detti adempimenti per le merci in uscita dagli spazi doganali a seguito di viaggiatore, accompagnate da documento doganale emesso su dichiarazione verbale.
+
+3.
+                    
+                        
+                            Il riscontro non viene eseguito:
+ 
+                        
+                        
+                            a)
+                            
+                                per i trasporti effettuati dalle amministrazioni ferroviarie con lettera di vettura internazionale (CIM), con bollettino di spedizione colli espressi internazionali (TIEX) e con bollettino di consegna TR (BCTR);
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'estrazione delle merci dai depositi, magazzini e recinti, esclusi quelli sottoposti all'obbligo della doppia chiave, gestiti da privati ed enti e situati fuori del circuito doganale, quando sia stata prestata idonea garanzia per il rispetto dei vincoli doganali cui le merci sono sottoposte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le merci in uscita da depositi, magazzini e recinti operanti sotto qualsiasi regime se compresi in spazi doganali di maggiore estensione recintati e dotati di varchi presidiati; in tali casi il riscontro viene eseguito all'uscita da detti varchi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per i prodotti petroliferi estratti dai depositi di cui all'art. 264 del testo unico delle disposizioni legislative in materia doganale e destinati a provviste di bordo.
 
 ## Art. 4. — Mezzi di identificazione delle merci
 

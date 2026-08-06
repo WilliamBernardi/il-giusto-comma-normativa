@@ -8,8 +8,8 @@ codice_redazionale: 008G0108
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -45,15 +45,136 @@ Il presente regolamento si applica all'assicurazione obbligatoria della responsa
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti»: l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore per i rischi del ramo 10, diversi dalla responsabilita' del vettore, e per i rischi del ramo 12 di cui all'articolo 2, comma 3, del decreto legislativo 7 settembre 2005, n. 209;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Codice»: il decreto legislativo 7 settembre 2005, n. 209, recante il Codice delle assicurazioni private;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «imprese»: le imprese di assicurazione autorizzate in Italia all'esercizio dell'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti nonche' le imprese di assicurazione aventi sede legale in un altro Stato membro dello Spazio economico europeo abilitate in Italia all'esercizio dei rami 10 (esclusa la responsabilita' del vettore) e 12 in regime di stabilimento o di libera prestazione di servizi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «natante»: qualsiasi unita' che e' destinata alla navigazione marittima, fluviale o lacustre e che e' azionata da propulsione meccanica;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «Stato membro»: uno Stato membro dell'Unione europea o uno Stato aderente allo Spazio economico europeo, come tale equiparato allo Stato membro dell'Unione europea;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «Stato terzo»: uno Stato che non e' membro dell'Unione europea o non e' aderente allo Spazio economico europeo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «Ufficio centrale italiano»: l'ente costituito dalle imprese di assicurazione autorizzate ad esercitare il ramo responsabilita' civile autoveicoli che e' stato abilitato all'esercizio delle funzioni di Ufficio nazionale di assicurazione nel territorio della Repubblica ed allo svolgimento degli altri compiti previsti dall'ordinamento comunitario e italiano;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «unita' da diporto»: ogni costruzione di qualunque tipo e con qualunque mezzo di propulsione destinata alla navigazione da diporto, ai sensi dell'articolo 3, comma 1, lettera a) del decreto legislativo 18 luglio 2005, n. 171, recante il Codice sulla nautica da diporto;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «veicolo»: qualsiasi autoveicolo destinato a circolare sul suolo e che puo' essere azionato da una forza meccanica, senza essere vincolato ad una strada ferrata, nonche' i rimorchi, anche se non agganciati ad una motrice.
+
 ## - Capo II Obbligo di assicurazione  Sezione I  Veicoli a motore e natanti soggetti all'obbligo di assicurazione
 
 ## Art. 3. — Veicoli a motore
 
 Sono soggetti all'obbligo di assicurazione per la responsabilita' civile verso i terzi di cui all'articolo 122 del Codice tutti i veicoli a motore senza guida di rotaie, compresi i filoveicoli e rimorchi posti in circolazione su strade di uso pubblico o su aree a queste equiparate.
 
+2.
+                        
+                            
+                                Ai fini di cui al comma 1:
+ 
+                            
+                            
+                                a)
+                                
+                                    sono equiparate alle strade di uso pubblico tutte le aree, di proprieta' pubblica o privata, aperte alla circolazione del pubblico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono considerati in circolazione anche i veicoli in sosta su strade di uso pubblico o su aree a queste equiparate.
+
 ## Art. 4. — Natanti
 
 Sono soggetti all'obbligo di assicurazione per la responsabilita' civile verso i terzi di cui all'articolo 123 del Codice tutte le unita' da diporto, i natanti ed i motori amovibili, cosi' come rispettivamente previsti dai commi 1, 2 e 3 dello stesso articolo, posti in navigazione in acque ad uso pubblico o in acque a queste equiparate.
+
+2.
+                        
+                            
+                                Ai fini di cui al comma 1:
+ 
+                            
+                            
+                                a)
+                                
+                                    sono considerati in navigazione anche i natanti ormeggiati in acque ad uso pubblico o in acque a queste equiparate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono equiparate alle acque di uso pubblico, ancorche' di uso privato, tutte le acque aperte alla navigazione del pubblico.
+
+3.
+                        
+                            
+                                Ai fini dell'individuazione dei natanti soggetti all'obbligo di assicurazione per la responsabilita' civile verso i terzi ai sensi dell'articolo 123, comma 2, del Codice, la stazza lorda e la potenza del motore dei natanti sono quelle risultanti:
+ 
+                            
+                            
+                                a)
+                                
+                                    per i natanti registrati in Italia, dai documenti di identificazione del motore e del natante prescritti dalle vigenti disposizioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i motoscafi e le imbarcazioni a motore registrati all'estero, dai corrispondenti documenti rilasciati dalle competenti autorita' dello Stato di registrazione.
 
 Per i natanti in navigazione sui laghi Maggiore e di Lugano e per quelli la cui stazza lorda non risulti indicata nei documenti di cui al comma 2, e' preso in considerazione il dislocamento considerando sostituito, al limite di 25 tonnellate di stazza lorda, quello di 25 tonnellate di dislocamento.
 
@@ -81,12 +202,113 @@ Le disposizioni di cui all'articolo 125, comma 3, lettera b), e comma 4 del Codi
 
 ## Art. 8. — Natanti registrati in Stati esteri
 
+1.
+                        
+                            
+                                Per i natanti registrati in Stati esteri e per i motori amovibili di cui all'articolo 123, comma 3, del Codice, muniti di certificato di uso straniero o di altro documento equivalente emesso all'estero, che circolano temporaneamente nelle acque territoriali soggette alla sovranita' della Repubblica italiana, l'obbligo di assicurazione della copertura assicurativa per la responsabilita' civile verso i terzi per la durata della permanenza in Italia si considera assolto:
+ 
+                            
+                            
+                                a)
+                                
+                                    con la stipula di un contratto di assicurazione con un'impresa con sede legale nel territorio della Repubblica, autorizzata ad esercitare l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei natanti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con la stipula di un contratto di assicurazione con un'impresa con sede legale in uno Stato membro, abilitata ad esercitare in Italia in regime di stabilimento o di liberta' di prestazione di servizi l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei natanti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la stipula di un contratto di assicurazione con un'impresa con sede legale in uno Stato terzo, autorizzata ad esercitare in Italia in regime di stabilimento l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei natanti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con la stipula di un contratto di assicurazione con un'impresa con sede legale nel territorio della Repubblica abilitata ad esercitare l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei natanti in regime di stabilimento o in regime di libera prestazione di servizi nello Stato estero di registrazione del natante;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    con un contratto di assicurazione rilasciato da un'impresa con sede legale nello Stato di registrazione del natante, e ivi autorizzata all'esercizio dell'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei natanti, che abbia stipulato con un'impresa di cui alle lettere a), b) o c) un'apposita convenzione che obblighi quest'ultima a provvedere, nei limiti e nelle forme stabilite dal decreto o, eventualmente, nei limiti dei maggiori massimali previsti dal contratto di assicurazione che rientra nella convenzione, alla liquidazione dei predetti danni e la legittimita' a stare in giudizio per le domande dei danneggiati.
+
 Nei casi di cui al comma 1, lettera e), l'impresa autorizzata o abilitata ad esercitare nel territorio della Repubblica trasmette all'ISVAP la convenzione, corredata del certificato di assicurazione predisposto ai sensi dell'articolo 9, per la preventiva approvazione.
 
 ## Art. 9. — Certificato di assicurazione comprovante
  l'esistenza della copertura assicurativa
 
 In esecuzione della convenzione stipulata ai sensi dell'articolo 8, comma 1, lettera e), l'impresa di assicurazione autorizzata nello Stato di registrazione del natante rilascia all'assicurato un certificato di assicurazione attestante la valida ed efficace assicurazione di responsabilita' civile per i danni cagionati a terzi dalla navigazione del natante nelle acque territoriali soggette alla sovranita' della Repubblica italiana.
+
+2.
+                        
+                            
+                                Il certificato di assicurazione di cui al comma 1, rilasciato su carta intestata dell'impresa, riporta in lingua italiana:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi identificativi della convenzione stipulata e la data dell'approvazione da parte dell'ISVAP;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nome, cognome e domicilio dell'assicurato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero di polizza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli estremi identificativi del natante ed in particolare la potenza del motore ed i dati di iscrizione o registrazione oppure il marchio e il numero del motore;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il massimale di garanzia coperto dal contratto;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la denominazione e la sede dell'impresa con la quale e' stata stipulata la convenzione e gli obblighi dalla stessa assunti:
+ 1) di provvedere a risarcire, nelle forme e fino ai massimali di legge, o, se superiori, fino ai limiti previsti dal contratto di assicurazione, i danni causati a terzi dalla navigazione del natante, come identificato nel certificato di assicurazione, nelle acque territoriali soggette alla sovranita' della Repubblica italiana;
+ 2) di stare in giudizio per le domande dei danneggiati relative al risarcimento dei danni predetti;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il periodo di validita' del certificato;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la ragione sociale dell'impresa di assicurazione autorizzata nello Stato di registrazione del natante e la firma del rappresentante legale.
 
 ## - Capo III Norme relative al contratto di assicurazione
 

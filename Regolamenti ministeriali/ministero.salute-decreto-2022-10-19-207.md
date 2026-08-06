@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2022-10-19;207
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,7 +34,176 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 Ai fini del presente regolamento, si applicano le definizioni di cui all'articolo 2 del regolamento (UE) 2017/745 del Parlamento Europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici.
 
+2.
+                    
+                        
+                            Fermo restando quanto previsto dal comma 1, ai fini del presente regolamento, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                registro di protesi impiantabili: sistema di raccolta dei dati relativi all'utilizzo di un dispositivo protesico impiantato, per consentire la valutazione clinica di efficacia e sicurezza del dispositivo dopo l'immissione sul mercato, nonche' per la rintracciabilita' tempestiva dei pazienti in caso di necessita' di specifici controlli periodici o di eventuale espianto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                registro nazionale degli impianti protesici mammari, di seguito denominato «registro nazionale»: il sistema, istituito dalla legge 5 giugno 2012, n. 86, per la raccolta dei dati relativi all'impianto o alla rimozione di una protesi mammaria avvenuti sul territorio nazionale, per le finalita' di cui all'articolo 4, comma 1, lettera b), e comma 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                registri regionali e delle Province autonome di Trento e di Bolzano degli impianti protesici mammari, di seguito denominati «registri regionali o provinciali»: i sistemi, istituiti dalla legge 5 giugno 2012, n. 86, per la raccolta dei dati di cui all'articolo 6 e relativi all'impianto o alla rimozione di una protesi mammaria avvenuti nei territori di competenza regionale e provinciale, per le finalita' di cui all'articolo 4, comma 1, lettere a) e b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                protesi mammaria: il dispositivo medico sterile, monouso, di classe III che, con finalita' estetiche o ricostruttive e' destinato a essere impiantato nel corpo dell'assistito, in sede toracica, su indicazione del medico e secondo le istruzioni d'uso descritte dal fabbricante; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                UDI-PI: il codice numerico o alfanumerico che identifica l'unita' di produzione del dispositivo di cui all'Allegato VI, Parte C, del regolamento (UE) 2017/745; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                codice del dispositivo: la serie numerica o alfabetica o alfanumerica attribuita dal fabbricante al dispositivo medico per identificare la protesi mammaria all'interno del catalogo del fabbricante; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                nome commerciale: il nome, assegnato dal fabbricante a un determinato prodotto e per mezzo del quale esso e' noto in commercio; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                numero di lotto: l'insieme di cifre o di lettere che identifica un certo numero di dispositivi prodotti in un determinato ciclo di fabbricazione, che deve avere come caratteristica fondamentale l'omogeneita'; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                numero di serie: l'insieme di cifre o di lettere che in maniera univoca identifica una specifica protesi mammaria; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                acquirente: il soggetto a cui e' venduta la protesi e puo' riferirsi ad assistito, a medico, a struttura sanitaria; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                assistito: il soggetto che ricorre all'assistenza sanitaria; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                stato del dispositivo: la condizione del dispositivo a una determinata data, ossia disponibile sul mercato, venduto a un acquirente, richiamato, ritirato; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                codice identificativo dell'assistito: il codice fiscale, il codice straniero temporaneamente presente (STP), il codice europeo non iscritto (ENI) o il numero di identificazione personale della tessera europea di assicurazione malattia (TEAM); 
+
+                            
+                        
+                        
+                            p)
+                            
+                                codice univoco dell'assistito: il codice assegnato, attraverso una procedura automatica, ad ogni assistito a partire dal codice identificativo, tale da non consentire l'identificazione diretta dell'interessato durante il trattamento dei dati personali; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                strutture sanitarie: le strutture sanitarie pubbliche, private accreditate che erogano prestazioni a carico del Servizio sanitario nazionale e private autorizzate; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                territorio di competenza regionale o provinciale: regione o provincia autonoma di Trento o di Bolzano nella quale sono situate le strutture sanitarie dove viene effettuato l'intervento di impianto o di rimozione di una protesi mammaria.
+
 ## Art. 2. — Oggetto
+
+1.
+                    
+                        
+                            Il presente regolamento disciplina: 
+ 
+                        
+                        
+                            a)
+                            
+                                i tempi e le modalita' di raccolta dei dati nel registro nazionale, istituito presso la Direzione generale competente in materia di dispositivi medici e servizio farmaceutico del Ministero della salute, e gli obblighi informativi delle regioni e delle Province autonome di Trento e di Bolzano nei confronti del registro nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i tipi di dati sensibili e le operazioni eseguibili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i soggetti che possono avere accesso ai dati del registro nazionale e dei registri regionali, anche in relazione al loro diverso livello di aggregazione, secondo le modalita' riportate nel disciplinare tecnico di cui all'Allegato A; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di trasmissione tra le regioni dei dati raccolti fuori della regione di residenza del soggetto sottoposto a impianto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le garanzie e le misure di sicurezza da adottare nel trattamento dei dati personali, nel rispetto dei diritti del soggetto sottoposto all'impianto o alla rimozione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la definizione e le relative modalita' di attribuzione di un codice identificativo univoco del soggetto, che non consenta l'identificazione diretta dell'interessato, fatto salvo il caso in cui, per il verificarsi di incidenti correlati allo specifico tipo o modello di protesi impiantata, occorra risalire, ai sensi dell'articolo 4, comma 2, della legge 5 giugno 2012, n. 86, all'identita' dell'interessato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i tempi e le modalita' di trasmissione dei dati concernenti le protesi mammarie da parte dei relativi distributori sul territorio nazionale.
 
 I livelli di accesso, i criteri di organizzazione ed elaborazione dei dati, le misure per la custodia e la sicurezza dei dati e le modalita' di trasmissione dei dati sono definiti nel disciplinare tecnico di cui all'Allegato A al presente regolamento.
 Quando lo richiedano revisioni di natura tecnica o normativa tali da non comportare modifiche alle previsioni relative ai tipi di dati e di operazioni eseguibili, il disciplinare tecnico di cui all'Allegato A e' aggiornato con decreto del Ministro della salute.
@@ -49,6 +218,24 @@ Entro centottanta giorni dalla data di entrata in vigore del regolamento le regi
 
 Finalita' del trattamento dei dati contenuti nei registri
 
+1.
+                    
+                        
+                            I registri di cui all'articolo 1, comma 2, lettere b) e c), sono istituiti per le finalita' di cui alla legge 5 giugno 2012, n. 86, ovvero: 
+ 
+                        
+                        
+                            a)
+                            
+                                monitoraggio clinico del soggetto sottoposto a impianto, allo scopo di prevenire le complicanze e migliorare la gestione clinico assistenziale degli eventuali effetti indesiderati ed esiti a distanza, consentendo la rintracciabilita' tempestiva degli assistiti in caso di necessita' di specifici controlli periodici o di eventuale espianto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                monitoraggio epidemiologico, a scopo di studio e ricerca scientifica in campo clinico e biomedico anche nell'ottica della valutazione clinica di efficacia e sicurezza del dispositivo a breve e a lungo termine e di programmazione, gestione, prevenzione delle complicanze, controllo e valutazione dell'assistenza sanitaria.
+
 Ciascun registro regionale o provinciale tratta, per le finalita' di cui al comma 1, lettere a) e b), i dati personali relativi agli assistiti sottoposti a un intervento di impianto o rimozione di protesi mammarie nel territorio di competenza.
 
 I dati raccolti nel registro nazionale sono trattati sia per le finalita' di cui al comma 1, lettera b), sia per le finalita' previste dall'articolo 1, comma 2, lettera f), limitatamente alla prevenzione primaria e secondaria, e lettere h), i), j), k), l) e m), del decreto del Presidente del Consiglio dei ministri 3 marzo 2017.
@@ -57,7 +244,64 @@ Il Ministero della salute in qualita' di titolare del trattamento dei dati del r
 
 ## Art. 5. — Titolari del trattamento dei dati contenuti nei registri
 
+1.
+                    
+                        
+                            I titolari del trattamento dei dati contenuti nel registro degli impianti protesici mammari sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Ministero della salute, per il registro nazionale di cui all'articolo 1, comma 2, lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le regioni e le Province autonome di Trento e di Bolzano, rispettivamente per i registri regionali e i registri provinciali, di cui all'articolo 1, comma 2, lettera c).
+
 ## Art. 6. — Tipologia di dati raccolti nei registri
+
+1.
+                    
+                        
+                            Per il perseguimento delle finalita' di cui all'articolo 4, i registri regionali e provinciali degli impianti protesici mammari, per gli interventi di impianto o rimozione effettuati nel territorio di loro competenza, nel rispetto delle specifiche indicazioni contenute nel disciplinare tecnico di cui all'allegato A, raccolgono: 
+ 
+                        
+                        
+                            a)
+                            
+                                dati anagrafici degli assistiti sottoposti a impianto o rimozione di protesi mammaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dati clinici degli assistiti sottoposti a impianto o rimozione di protesi mammaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dati relativi alla protesi mammaria impiantata o rimossa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dati relativi alla struttura sanitaria dove viene effettuato l'impianto o la rimozione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dati relativi ai medici e agli altri professionisti sanitari per le finalita' previste dall'articolo 1, comma 7, della legge 5 giugno 2012, n. 86.
 
 Il registro nazionale degli impianti protesici mammari e' alimentato con i dati provenienti dai registri regionali e provinciali previo trattamento dei dati personali esclusivamente con un codice univoco che non consente l'identificazione diretta dell'interessato.
 
@@ -82,6 +326,24 @@ I titolari del trattamento dei dati contenuti nei registri degli impianti protes
 La sicurezza dei dati trattati deve essere garantita in tutte le fasi del trattamento dei dati, mediante l'adozione degli opportuni accorgimenti volti a preservare i medesimi dati da rischi di distruzione o perdita, anche accidentale, di accesso non autorizzato o di trattamento non consentito o non conforme alle finalita' della raccolta.
 
 Ai fini della verifica della liceita' del trattamento dei dati, tutti gli accessi al registro nazionale e ai registri regionali e provinciali devono essere registrati.
+
+4.
+                    
+                        
+                            Il Ministero della salute, le regioni e le Province autonome di Trento e di Bolzano, al fine di garantire la qualita' dei registri, provvedono alla: 
+ 
+                        
+                        
+                            a)
+                            
+                                verifica sistematica della copertura della raccolta dei dati attraverso la valutazione di specifici indicatori, definiti nel disciplinare tecnico di cui all'Allegato A; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                informazione e formazione dei medici e degli altri professionisti sanitari di cui all'articolo 1, comma 7, della legge 5 giugno 2012, n. 86, e dei soggetti designati ad effettuare operazioni di trattamento dei dati contenuti nei registri, secondo quanto previsto nel presente regolamento.
 
 ## Art. 9. — Codifica dei dati personali ed identificativi
 
@@ -122,6 +384,47 @@ Il titolare del trattamento dei dati contenuti nel registro degli impianti prote
 
 ## Art. 13. — Adempimenti dei distributori 
  di protesi mammarie sul territorio nazionale
+
+1.
+                    
+                        
+                            Per le finalita' di cui all'articolo 4, comma 1, lettera b), e al fine di consentire la tracciabilita' delle protesi mammarie sul territorio nazionale anche quando non impiantate, i distributori di protesi mammarie in Italia, trasmettono, mensilmente, al registro nazionale degli impianti protesici mammari, secondo le modalita' previste dal disciplinare tecnico di cui all'allegato A, le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                identificazione del distributore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ogni singola protesi mammaria: 
+ 1) identificazione della protesi mammaria; 
+ 2) caratteristiche specifiche della protesi mammaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                identificazione della struttura sanitaria destinataria, o in caso di vendita a un utente diverso da una struttura sanitaria, precisazione della categoria di appartenenza del soggetto a cui il dispositivo e' stato venduto: medico o assistito; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                stato della protesi mammaria: disponibile, venduto, ritirato, richiamato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                data cui e' riferito lo stato del dispositivo.
 
 ## Art. 14. — Sanzioni
 

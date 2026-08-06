@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-04-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,205 @@ In relazione a quanto disposto dall'articolo 117, quinto comma, della Costituzio
 Gli atti, i provvedimenti e gli adempimenti attuativi del presente decreto sono effettuati nel rispetto dei principi del decreto legislativo 30 giugno 2003, n. 196.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini ed agli effetti delle disposizioni di cui al presente decreto legislativo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "lavoratore": persona che, indipendentemente dalla tipologia contrattuale, svolge un'attivita' lavorativa nell'ambito dell'organizzazione di un datore di lavoro pubblico o privato, con o senza retribuzione, anche al solo fine di apprendere un mestiere, un'arte o una professione, esclusi gli addetti ai servizi domestici e familiari. Al lavoratore cosi' definito e' equiparato: il socio lavoratore di cooperativa o di societa', anche di fatto, che presta la sua attivita' per conto delle societa' e dell'ente stesso; l'associato in partecipazione di cui all'articolo 2549, e seguenti del codice civile; il soggetto beneficiario delle iniziative di tirocini formativi e di orientamento di cui all'articolo 18 della legge 24 giugno 1997, n. 196, e di cui a specifiche disposizioni delle leggi regionali promosse al fine di realizzare momenti di alternanza tra studio e lavoro o di agevolare le scelte professionali mediante la conoscenza diretta del mondo del lavoro; l'allievo degli istituti di istruzione ed universitari e il partecipante ai corsi di formazione professionale nei quali si faccia uso di laboratori, attrezzature di lavoro in genere, agenti chimici, fisici e biologici, ivi comprese le apparecchiature fornite di videoterminali limitatamente ai periodi in cui l'allievo sia effettivamente applicato alla strumentazioni o ai laboratori in questione; il volontario, come definito dalla legge 1° agosto 1991, n. 266; ((nei limiti di quanto previsto dall'articolo 3-bis, i volontari del Corpo nazionale dei vigili del fuoco e della protezione civile)); il lavoratore di cui al decreto legislativo 1° dicembre 1997, n. 468, e successive modificazioni; (6) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "datore di lavoro": il soggetto titolare del rapporto di lavoro con il lavoratore o, comunque, il soggetto che, secondo il tipo e l'assetto dell'organizzazione nel cui ambito il lavoratore presta la propria attivita', ha la responsabilita' dell'organizzazione stessa o dell'unita' produttiva in quanto esercita i poteri decisionali e di spesa. Nelle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, per datore di lavoro si intende il dirigente al quale spettano i poteri di gestione, ovvero il funzionario non avente qualifica dirigenziale, nei soli casi in cui quest'ultimo sia preposto ad un ufficio avente autonomia gestionale, individuato dall'organo di vertice delle singole amministrazioni tenendo conto dell'ubicazione e dell'ambito funzionale degli uffici nei quali viene svolta l'attivita', e dotato di autonomi poteri decisionali e di spesa. In caso di omessa individuazione, o di individuazione non conforme ai criteri sopra indicati, il datore di lavoro coincide con l'organo di vertice medesimo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "azienda": il complesso della struttura organizzata dal datore di lavoro pubblico o privato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "dirigente": persona che, in ragione delle competenze professionali e di poteri gerarchici e funzionali adeguati alla natura dell'incarico conferitogli, attua le direttive del datore di lavoro organizzando l'attivita' lavorativa e vigilando su di essa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "preposto": persona che, in ragione delle competenze professionali e nei limiti di poteri gerarchici e funzionali adeguati alla natura dell'incarico conferitogli, sovrintende alla attivita' lavorativa e garantisce l'attuazione delle direttive ricevute, controllandone la corretta esecuzione da parte dei lavoratori ed esercitando un funzionale potere di iniziativa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "responsabile del servizio di prevenzione e protezione": persona in possesso delle capacita' e dei requisiti professionali di cui all'articolo 32 designata dal datore di lavoro, a cui risponde, per coordinare il servizio di prevenzione e protezione dai rischi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "addetto al servizio di prevenzione e protezione": persona in possesso delle capacita' e dei requisiti professionali di cui all'articolo 32, facente parte del servizio di cui alla lettera l); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "medico competente": medico in possesso di uno dei titoli e dei requisiti formativi e professionali di cui all'articolo 38, che collabora, secondo quanto previsto all'articolo 29, comma 1, con il datore di lavoro ai fini della valutazione dei rischi ed e' nominato dallo stesso per effettuare la sorveglianza sanitaria e per tutti gli altri compiti di cui al presente decreto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "rappresentante dei lavoratori per la sicurezza": persona eletta o designata per rappresentare i lavoratori per quanto concerne gli aspetti della salute e della sicurezza durante il lavoro; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "servizio di prevenzione e protezione dai rischi": insieme delle persone, sistemi e mezzi esterni o interni all'azienda finalizzati all'attivita' di prevenzione e protezione dai rischi professionali per i lavoratori; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "sorveglianza sanitaria": insieme degli atti medici, finalizzati alla tutela dello stato di salute e sicurezza dei lavoratori, in relazione all'ambiente di lavoro, ai fattori di rischio professionali e alle modalita' di svolgimento dell'attivita' lavorativa; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "prevenzione": il complesso delle disposizioni o misure necessarie anche secondo la particolarita' del lavoro, l'esperienza e la tecnica, per evitare o diminuire i rischi professionali nel rispetto della salute della popolazione e dell'integrita' dell'ambiente esterno; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    "salute": stato di completo benessere fisico, mentale e sociale, non consistente solo in un'assenza di malattia o d'infermita'; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    "sistema di promozione della salute e sicurezza": complesso dei soggetti istituzionali che concorrono, con la partecipazione delle parti sociali, alla realizzazione dei programmi di intervento finalizzati a migliorare le condizioni di salute e sicurezza dei lavoratori; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    "valutazione dei rischi": valutazione globale e documentata di tutti i rischi per la salute e sicurezza dei lavoratori presenti nell'ambito dell'organizzazione in cui essi prestano la propria attivita', finalizzata ad individuare le adeguate misure di prevenzione e di protezione e ad elaborare il programma delle misure atte a garantire il miglioramento nel tempo dei livelli di salute e sicurezza; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    "pericolo": proprieta' o qualita' intrinseca di un determinato fattore avente il potenziale di causare danni; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    "rischio": probabilita' di raggiungimento del livello potenziale di danno nelle condizioni di impiego o di esposizione ad un determinato fattore o agente oppure alla loro combinazione; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    "unita' produttiva": stabilimento o struttura finalizzati alla produzione di beni o all'erogazione di servizi, dotati di autonomia finanziaria e tecnico funzionale; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    "norma tecnica": specifica tecnica, approvata e pubblicata da un'organizzazione internazionale, da un organismo europeo o da un organismo nazionale di normalizzazione, la cui osservanza non sia obbligatoria; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    "buone prassi": soluzioni organizzative o procedurali coerenti con la normativa vigente e con le norme di buona tecnica, adottate volontariamente e finalizzate a promuovere la salute e sicurezza sui luoghi di lavoro attraverso la riduzione dei rischi e il miglioramento delle condizioni di lavoro, elaborate e raccolte dalle regioni, dall'Istituto superiore per la prevenzione e la sicurezza del lavoro (ISPESL), dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL) e dagli organismi paritetici di cui all'articolo 51, validate dalla Commissione consultiva permanente di cui all'articolo 6, previa istruttoria tecnica dell'ISPESL, che provvede a assicurarne la piu' ampia diffusione; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    "linee guida": atti di indirizzo e coordinamento per l'applicazione della normativa in materia di salute e sicurezza predisposti dai Ministeri, dalle regioni, dall'ISPESL e dall'INAIL e approvati in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    "formazione": processo educativo attraverso il quale trasferire ai lavoratori ed agli altri soggetti del sistema di prevenzione e protezione aziendale conoscenze e procedure utili alla acquisizione di competenze per lo svolgimento in sicurezza dei rispettivi compiti in azienda e alla identificazione, alla riduzione e alla gestione dei rischi; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    "informazione": complesso delle attivita' dirette a fornire conoscenze utili alla identificazione, alla riduzione e alla gestione dei rischi in ambiente di lavoro; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    "addestramento": complesso delle attivita' dirette a fare apprendere ai lavoratori l'uso corretto di attrezzature, macchine, impianti, sostanze, dispositivi, anche di protezione individuale, e le procedure di lavoro; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    "modello di organizzazione e di gestione": modello organizzativo e gestionale per la definizione e l'attuazione di una politica aziendale per la salute e sicurezza, ai sensi dell'articolo 6, comma 1, lettera a), del decreto legislativo 8 giugno 2001, n. 231, idoneo a prevenire i reati di cui agli articoli 589 e 590, terzo comma, del codice penale, commessi con violazione delle norme antinfortunistiche e sulla tutela della salute sul lavoro; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    "organismi paritetici": organismi costituiti a iniziativa di una o piu' associazioni dei datori e dei prestatori di lavoro comparativamente piu' rappresentative sul piano nazionale, quali sedi privilegiate per: la programmazione di attivita' formative e l'elaborazione e la raccolta di buone prassi a fini prevenzionistici; 
+lo sviluppo di azioni inerenti alla salute e alla sicurezza sul lavoro; l'assistenza alle imprese finalizzata all'attuazione degli adempimenti in materia; ogni altra attivita' o funzione assegnata loro dalla legge o dai contratti collettivi di riferimento; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    "responsabilita' sociale delle imprese": integrazione volontaria delle preoccupazioni sociali ed ecologiche delle aziende e organizzazioni nelle loro attivita' commerciali e nei loro rapporti con le parti interessate. 
+ 
+----------------
+ 
+AGGIORNAMENTO (6) 
+ Il D. Lgs. 3 agosto 2009, n. 106 ha disposto (con l'art. 2, comma 1) che all'articolo 2, comma 1, lettera a), del presente decreto, le parole: "il volontario, come definito dalla legge 11 agosto 1991, n. 266" sono soppresse".
 
 ## Art. 3. — Campo di applicazione
 
@@ -107,6 +306,63 @@ Con un ulteriore decreto del Ministro del lavoro e delle politiche sociali e del
 
 ## Art. 3-bis. — (Organizzazioni di volontariato della protezione civile)
 
+1.
+                        
+                            
+                                Ai fini del presente articolo, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «organizzazione di protezione civile»: le organizzazioni di volontariato, le reti associative e gli altri enti del Terzo settore ((, ivi compresi i gruppi comunali, intercomunali e provinciali di protezione civile,)) che annoverano la protezione civile tra le attivita' di interesse generale e le altre forme di volontariato organizzato di protezione civile ((iscritti)) nell'elenco nazionale del volontariato di protezione civile di cui all'articolo 34 del codice della protezione civile, di cui al decreto legislativo 2 gennaio 2018, n. 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «formazione»: processo educativo attraverso il quale trasferire conoscenze e procedure utili all'acquisizione di competenze per lo svolgimento in sicurezza delle ((attivita' operative nonche')) all'identificazione e alla eliminazione o, ove impossibile, alla riduzione e alla gestione dei rischi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «informazione»: complesso di attivita' dirette a fornire conoscenze utili all'identificazione, alla eliminazione o, ove impossibile, alla riduzione e alla gestione dei rischi nello svolgimento delle attivita' operative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «addestramento»: complesso di attivita' dirette a far apprendere l'uso corretto di attrezzature, macchine, impianti, dispositivi, anche di protezione individuale, nonche' le misure e le procedure di intervento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «controllo sanitario»: insieme degli accertamenti medici basilari individuati anche da disposizioni delle regioni e delle province autonome di Trento e di Bolzano, emanate specificatamente per il volontariato oggetto del presente articolo, finalizzati alla ricognizione delle condizioni di salute, quale misura generale di prevenzione nell'ambito delle attivita' di controllo sanitario nello specifico settore, fatto salvo quanto previsto ai commi 6, 7 e 8 in materia di sorveglianza sanitaria.
+
+2.
+                        
+                            
+                                Ai fini dell'applicazione del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il volontario della protezione civile aderente alle organizzazioni di cui al comma 1, lettera a), e' equiparato al lavoratore esclusivamente per le attivita' di cui ai commi 3 e 4, fermo restando il dovere di prendersi cura della propria salute e sicurezza e di quella delle altre persone, presenti nelle sedi delle organizzazioni nonche' sui luoghi di intervento, di formazione e di esercitazione, su cui ricadono gli effetti delle sue azioni o omissioni, conformemente alla sua formazione e informazione, alle istruzioni operative, alle procedure, alle attrezzature e ai dispositivi di protezione individuale in dotazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il legale rappresentante delle organizzazioni di cui al comma 1, lettera a), e' tenuto all'osservanza degli obblighi di cui ai ((commi 3 e 4)), salvi i casi in cui sussistano rapporti di lavoro, qualunque sia la relativa tipologia contrattuale.
+
 Le organizzazioni di cui al comma 1, lettera a), curano che il volontario ((aderente, nell'ambito)) degli scenari di rischio di protezione civile individuati dalle autorita' ((competenti e)) sulla base dei compiti da lui svolti, riceva formazione, informazione e addestramento, ((nel rispetto di standard minimi di sicurezza definiti a livello nazionale con direttiva ai sensi dell'articolo 15 del codice della protezione civile, di cui al decreto legislativo 2 gennaio 2018, n. 1,)) nonche' sia sottoposto al controllo sanitario, anche in collaborazione con i competenti servizi regionali, nel rispetto dei principi previsti dal ((codice in materia)) di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, fatto salvo quanto previsto ai commi 6, 7 e 8 in materia di sorveglianza sanitaria. Il controllo sanitario puo' essere assicurato dalle componenti mediche interne delle organizzazioni, ove presenti, ovvero mediante accordi tra organizzazioni, ovvero dalle strutture del Servizio sanitario nazionale pubbliche o private accreditate.
 
 Le organizzazioni di cui al comma 1, lettera a), curano che il volontario aderente, nell'ambito degli scenari di rischio di protezione civile individuati dalle autorita' competenti e sulla base dei compiti da lui svolti, sia dotato di attrezzature e dispositivi di protezione individuale idonei per lo specifico impiego e sia adeguatamente formato e addestrato al loro uso conformemente alle indicazioni specificate dal fabbricante.
@@ -141,6 +397,87 @@ Con uno o piu' decreti del Presidente del Consiglio dei ministri o, ove nominata
 
 ## Art. 4. — Computo dei lavoratori
 
+1.
+                        
+                            
+                                Ai fini della determinazione del numero di lavoratori dal quale il presente decreto legislativo fa discendere particolari obblighi non sono computati:
+ 
+                            
+                            
+                                a)
+                                
+                                    i collaboratori familiari di cui all'articolo 230-bis del codice civile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti beneficiari delle iniziative di tirocini formativi e di orientamento ((...));
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli allievi degli istituti di istruzione e universitari e i partecipanti ai corsi di formazione professionale nei quali si faccia uso di laboratori, attrezzature di lavoro in genere, agenti chimici, fisici e biologici, ivi comprese le attrezzature munite di videoterminali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i lavoratori assunti con contratto di lavoro a tempo determinato, ai sensi dell'articolo 1 del decreto legislativo 6 settembre 2001, n. 368, in sostituzione di altri prestatori di lavoro assenti con diritto alla conservazione del posto di lavoro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i lavoratori che svolgono prestazioni occasionali di tipo accessorio ai sensi degli articoli 70, e seguenti, del decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni, nonche' prestazioni che esulano dal mercato del lavoro ai sensi dell'articolo 74 del medesimo decreto.
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i lavoratori di cui alla legge 18 dicembre 1973, n. 877, ove la loro attivita' non sia svolta in forma esclusiva a favore del datore di lavoro committente;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i volontari, come definiti dalla legge 11 agosto 1991, n. 266, i volontari del Corpo nazionale dei vigili del fuoco e della protezione civile e i volontari che effettuano il servizio civile;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i lavoratori utilizzati nei lavori socialmente utili di cui al decreto legislativo 1° dicembre 1997, n. 468, e successive modificazioni;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i lavoratori autonomi di cui all'articolo 2222 del codice civile, fatto salvo quanto previsto dalla successiva lettera l);
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i collaboratori coordinati e continuativi di cui all'articolo 409, primo comma, n. 3, del codice di procedura civile, nonche' i lavoratori a progetto di cui agli articoli 61 e seguenti del decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni, ove la loro attivita' non sia svolta in forma esclusiva a favore del committente.
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    i lavoratori in prova.
+
 I lavoratori utilizzati mediante somministrazione di lavoro ai sensi degli articoli 20, e seguenti, del decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni, e i lavoratori assunti a tempo parziale ai sensi del decreto legislativo 25 febbraio 2000, n. 61, e successive modificazioni, si computano sulla base del numero di ore di lavoro effettivamente prestato nell'arco di un semestre.
 
 Fatto salvo quanto previsto dal comma 4, nell'ambito delle attivita' stagionali definite dal decreto del Presidente della Repubblica 7 ottobre 1963, n. 1525 e successive modificazioni, nonche' di quelle individuate dai contratti collettivi nazionali stipulati dalle organizzazioni dei lavoratori e dei datori di lavoro comparativamente piu' rappresentative, il personale in forza si computa a prescindere dalla durata del contratto e dall'orario di lavoro effettuato.
@@ -155,7 +492,107 @@ Il numero degli operai impiegati a tempo determinato, anche stagionali, nel sett
 
 ## Art. 5. — Comitato per l'indirizzo e la valutazione delle politiche attive e per il coordinamento nazionale delle attivita' di vigilanza in materia di salute e sicurezza sul lavoro
 
+1.
+                        
+                            
+                                Presso il Ministero della salute e' istituito il Comitato per l'indirizzo e la valutazione delle politiche attive e per il coordinamento nazionale delle attivita' di vigilanza in materia di salute e sicurezza sul lavoro. Il Comitato e' presieduto dal Ministro della salute ed e' composto da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Direttore Generale della competente Direzione Generale e i Direttori dei competenti uffici del Ministero della salute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due Direttori Generali delle competenti Direzioni Generali del Ministero del lavoro e delle politiche sociali; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((il Direttore centrale della competente Direzione centrale dell'Ispettorato nazionale del lavoro)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Direttore Centrale per la Prevenzione e la sicurezza tecnica del Dipartimento dei Vigili del fuoco e del soccorso pubblico del Ministero dell'interno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Il Direttore Generale della competente Direzione Generale del Ministero delle Infrastrutture e dei Trasporti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il Coordinatore della Commissione Salute della Conferenza delle Regioni e delle Province autonome; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quattro rappresentanti delle regioni e province autonome di Trento e di Bolzano individuati per un quinquennio in sede di Conferenza delle regioni e delle province autonome.
+
 Al Comitato partecipano, con funzione consultiva, un rappresentante dell'INAIL, uno dell'ISPESL e uno dell'Istituto di previdenza per il settore marittimo (IPSEMA).
+
+3.
+                        
+                            
+                                Il Comitato di cui al comma 1, al fine di garantire la piu' completa attuazione del principio di leale collaborazione tra Stato e regioni, ha il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stabilire le linee comuni delle politiche nazionali in materia di salute e sicurezza sul lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individuare obiettivi e programmi dell'azione pubblica di miglioramento delle condizioni di salute e sicurezza dei lavoratori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definire la programmazione annuale in ordine ai settori prioritari di intervento dell'azione di vigilanza, i piani di attivita' e i progetti operativi a livello nazionale, tenendo conto delle indicazioni provenienti dai comitati regionali di coordinamento e dai programmi di azione individuati in sede comunitaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    programmare il coordinamento della vigilanza a livello nazionale in materia di salute e sicurezza sul lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    garantire lo scambio di informazioni tra i soggetti istituzionali al fine di promuovere l'uniformita' dell'applicazione della normativa vigente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    individuare le priorita' della ricerca in tema di prevenzione dei rischi per la salute e sicurezza dei lavoratori.
 
 Ai fini delle definizioni degli obiettivi di cui al comma 3, lettere a), b), e), f), le parti sociali sono consultate preventivamente. Sull'attuazione delle azioni intraprese e' effettuata una verifica con cadenza almeno annuale.
 
@@ -171,6 +608,95 @@ Le riunioni del Comitato si svolgono presso la sede del Ministero della salute, 
 ## Art. 6. — Commissione consultiva permanente per la salute e sicurezza sul 
  Lavoro
 
+1.
+                        
+                            
+                                Presso il Ministero del lavoro e delle politiche sociali e' istituita la Commissione consultiva permanente per la salute e sicurezza sul lavoro. La Commissione e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante del Ministero del lavoro e delle politiche sociali con funzioni di presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante del Ministero della salute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante del Ministero dello sviluppo economico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante del Ministero delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante del Ministero dell'interno; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante del Ministero della difesa, un rappresentante del Ministero delle politiche agricole alimentari e forestali, un rappresentante del Ministero dell'istruzione, dell'universita' e della ricerca o un rappresentante della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica quando il Presidente della Commissione, ravvisando profili di specifica competenza, ne disponga la convocazione; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    
+                                        ((un rappresentante dell'Ispettorato nazionale del lavoro)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sei rappresentanti delle regioni e delle province autonome di Trento e di Bolzano, designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sei esperti designati delle organizzazioni sindacali dei lavoratori comparativamente piu' rappresentative a livello nazionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    sei esperti designati dalle organizzazioni sindacali dei datori di lavoro comparativamente piu' rappresentative a livello nazionale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    tre esperti in medicina del lavoro, igiene industriale e impiantistica industriale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    un rappresentante dell'ANMIL.
+
 Per ciascun componente puo' essere nominato un supplente, il quale interviene unicamente in caso di assenza del titolare. Ai lavori della Commissione possono altresi' partecipare rappresentanti di altre amministrazioni centrali dello Stato in ragione di specifiche tematiche inerenti le relative competenze, con particolare riferimento a quelle relative alle differenze di genere e a quelle relative alla materia dell'istruzione per le problematiche di cui all'articolo 11, comma 1, lettera c). I componenti di cui al comma 1, lettere l) ed m), partecipano alla Commissione senza diritto di voto. ((I componenti di cui al comma 1, lettere l) e m), partecipano alla Commissione senza diritto di voto)).
 
 All'inizio di ogni mandato la Commissione puo' istituire comitati speciali permanenti, dei quali determina la composizione e la funzione.
@@ -182,6 +708,115 @@ I componenti della Commissione e i segretari sono nominati con decreto del Minis
 Le modalita' di funzionamento della commissione sono fissate con regolamento interno da adottarsi a maggioranza qualificata rispetto al numero dei componenti; le funzioni di segreteria sono svolte da personale del Ministero del lavoro e delle politiche sociali appositamente assegnato.
 
 ((Ai componenti della Commissione e ai soggetti invitati a partecipare ai sensi del comma 2 non spetta alcun compenso, gettone di presenza, rimborso di spesa o altro emolumento comunque denominato)).
+
+8.
+                        
+                            
+                                La Commissione consultiva permanente per la salute e sicurezza sul lavoro ha il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esaminare i problemi applicativi della normativa di salute e sicurezza sul lavoro e formulare proposte per lo sviluppo e il perfezionamento della legislazione vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esprimere pareri sui piani annuali elaborati dal Comitato di cui all'articolo 5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definire le attivita' di promozione e le azioni di prevenzione di cui all'articolo 11; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    validare le buone prassi in materia di salute e sicurezza sul lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    redigere annualmente, sulla base dei dati forniti dal sistema informativo di cui all'articolo 8, una relazione sullo stato di applicazione della normativa di salute e sicurezza e sul suo possibile sviluppo, da trasmettere alle commissioni parlamentari competenti e ai presidenti delle regioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    elaborare, entro e non oltre il 31 dicembre 2010, le procedure standardizzate di effettuazione della valutazione dei rischi di cui all'articolo 29, comma 5, tenendo conto dei profili di rischio e degli indici infortunistici di settore. Tali procedure vengono recepite con decreto dei Ministeri del lavoro e della previdenza sociale, della salute e dell'interno acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e province autonome di Trento e di Bolzano; La Commissione procede al monitoraggio dell'applicazione delle suddette procedure al fine di un'eventuale rielaborazione delle medesime. 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    elaborare i criteri finalizzati alla definizione del sistema di qualificazione delle imprese e dei lavoratori autonomi di cui all'articolo 27. Il sistema di qualificazione delle imprese e' disciplinato con decreto del Presidente della Repubblica, su proposta del Ministro del lavoro e delle politiche sociali, acquisito il parere della Conferenza per i rapporti permanenti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, da emanarsi entro dodici mesi dalla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    valorizzare sia gli accordi sindacali sia i codici di condotta ed etici, adottati su base volontaria, che, in considerazione delle specificita' dei settori produttivi di riferimento, orientino i comportamenti dei datori di lavoro, anche secondo i principi della responsabilita' sociale, dei lavoratori e di tutti i soggetti interessati, ai fini del miglioramento dei livelli di tutela definiti legislativamente; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    valutare le problematiche connesse all'attuazione delle direttive comunitarie e delle convenzioni internazionali stipulate in materia di salute e sicurezza del lavoro; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    redigere ogni cinque anni una relazione sull'attuazione pratica della direttiva 89/391/CEE del Consiglio e delle altre direttive dell'Unione europea in materia di salute e sicurezza sul lavoro, comprese le direttive del Consiglio 83/477/CEE, 91/383/CEE, 92/29/CEE e 94/33/CE, con le modalita' previste dall'articolo 17-bis della direttiva 89/391/CEE del Consiglio. (16) 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    promuovere la considerazione della differenza di genere in relazione alla valutazione dei rischi e alla predisposizione delle misure di prevenzione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    indicare modelli di organizzazione e gestione aziendale ai fini di cui all'articolo 30.La Commissione monitora ed eventualmente rielabora le suddette procedure, entro 24 mesi dall'entrata in vigore del decreto con il quale sono stati recepiti i modelli semplificati per l'adozione ed efficace attuazione dei modelli di organizzazione e gestione della sicurezza nelle piccole e medie imprese. 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    elaborare criteri di qualificazione della figura del formatore per la salute e sicurezza sul lavoro, anche tenendo conto delle peculiarita' dei settori di riferimento; 
+
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    elaborare le procedure standardizzate per la redazione del documento di valutazione dei rischi di cui all'articolo 26, comma 3, anche previa individuazione di tipologie di attivita' per le quali l'obbligo in parola non operi in quanto l'interferenza delle lavorazioni in tali ambiti risulti irrilevante; 
+
+                                
+                            
+                            
+                                m-quater)
+                                
+                                    elaborare le indicazioni necessarie alla valutazione del rischio da stress lavoro-correlato. La Commissione monitora l'applicazione delle suddette indicazioni metodologiche al fine di verificare l'efficacia della metodologia individuata, anche per eventuali integrazioni alla medesima.
 
 ------------
                             AGGIORNAMENTO (16)
@@ -213,6 +848,52 @@ Per l'attivita' di coordinamento e sviluppo del SINP, con decreto del Ministro d
 
 La partecipazione delle parti sociali al Sistema informativo avviene attraverso la periodica consultazione in ordine ai flussi informativi di cui al comma 6.
 
+6.
+                        
+                            
+                                I contenuti dei flussi informativi devono almeno riguardare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il quadro produttivo ed occupazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il quadro dei rischi anche in un'ottica di genere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il quadro di salute e sicurezza dei lavoratori e delle lavoratrici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il quadro degli interventi di prevenzione delle istituzioni preposte; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il quadro degli interventi di vigilanza delle istituzioni preposte. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    i dati degli infortuni sotto la soglia indennizzabile dall'INAIL.
+
 La diffusione delle informazioni specifiche e' finalizzata al raggiungimento di obiettivi di conoscenza utili per le attivita' dei soggetti destinatari e degli enti utilizzatori. I dati sono resi disponibili ai diversi destinatari e resi pubblici nel rispetto della normativa di cui al decreto legislativo 30 giugno 2003, n. 196.
 
 Le attivita' di cui al presente articolo sono realizzate dalle amministrazioni di cui al comma 2 utilizzando le ordinarie risorse personali, economiche e strumentali in dotazione.
@@ -231,15 +912,309 @@ Le attivita' di cui al presente articolo sono realizzate dalle amministrazioni d
 
 L'ISPESL, l'INAIL e l'IPSEMA sono enti pubblici nazionali con competenze in materia di salute e sicurezza sul lavoro che esercitano le proprie attivita', anche di consulenza, in una logica di sistema con il ((Ministero del lavoro, della salute e delle politiche sociali)), il ((Ministero del lavoro, della salute e delle politiche sociali)), le regioni e le province autonome di Trento e di Bolzano.
 
+2.
+                        
+                            
+                                L'ISPESL, l'INAIL e l'IPSEMA operano in funzione delle attribuzioni loro assegnate dalla normativa vigente, svolgendo in forma coordinata, per una maggiore sinergia e complementarieta', le seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    elaborazione e applicazione dei rispettivi piani triennali di attivita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interazione, per i rispettivi ruoli e competenze, in logiche di conferenza permanente di servizio, per assicurare apporti conoscitivi al sistema di sostegno ai programmi di intervento in materia di sicurezza e salute sul lavoro di cui all'articolo 2, comma 1, lettera p), per verificare l'adeguatezza dei sistemi di prevenzione e assicurativi e per studiare e proporre soluzioni normative e tecniche atte a ridurre il fenomeno degli infortuni e delle malattie professionali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consulenza alle aziende, in particolare alle medie, piccole e micro imprese, anche attraverso forme di sostegno tecnico e specialistico finalizzate sia al suggerimento dei piu' adatti mezzi, strumenti e metodi operativi, efficaci alla riduzione dei livelli di rischiosita' in materia di salute e sicurezza sul lavoro, sia all'individuazione degli elementi di innovazione tecnologica in materia con finalita' prevenzionali, raccordandosi con le altre istituzioni pubbliche operanti nel settore e con le parti sociali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    progettazione ed erogazione di percorsi formativi in materia di salute e sicurezza sul lavoro tenuto conto ed in conformita' ai criteri e alle modalita' elaborati ai sensi degli articoli 6 e 11;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    formazione per i responsabili e gli addetti ai servizi di prevenzione e protezione di cui all'articolo 32;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promozione e divulgazione, della cultura della salute e della sicurezza del lavoro nei percorsi formativi scolastici, universitari e delle istituzioni dell'alta formazione artistica, musicale e coreutica, previa stipula di apposite convenzioni con le istituzioni interessate;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    partecipazione, con funzioni consultive, al Comitato per l'indirizzo e la valutazione delle politiche attive e per il coordinamento nazionale delle attivita' di vigilanza in materia di salute e sicurezza del lavoro di cui all'articolo 5;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    consulenza alla Commissione consultiva permanente per la salute e sicurezza del lavoro di cui all'articolo 6;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    elaborazione, raccolta e diffusione delle buone prassi di cui all'articolo 2, comma 1, lettera v);
+
+                                
+                            
+                            
+                                l)
+                                
+                                    predisposizione delle linee guida di cui all'articolo 2, comma 1, lettera z);
+
+                                
+                            
+                            
+                                m)
+                                
+                                    contributo al Sistema informativo nazionale per la prevenzione nei luoghi di lavoro secondo quanto previsto dall'articolo 8.
+
 L'attivita' di consulenza di cui alla lettera c) del comma 2, non puo' essere svolta dai funzionari degli istituti di cui al presente articolo che svolgono attivita' di controllo e verifica degli obblighi nelle materie di competenza degli istituti medesimi. I soggetti che prestano tale attivita' non possono, per un periodo di tre anni dalla cessazione dell'incarico, esercitare attivita' di controllo e verifica degli obblighi nelle materie di competenza degli istituti medesimi. Nell'esercizio dell'attivita' di consulenza non vi e' l'obbligo di denuncia di cui all'articolo 331 del codice di procedura penale o di comunicazione ad altre Autorita' competenti delle contravvenzioni rilevate ove si riscontrino violazioni alla normativa in materia di salute e sicurezza sul lavoro; in ogni caso, l'esercizio dell'attivita' di consulenza non esclude o limita la possibilita' per l'ente di svolgere l'attivita' di controllo e verifica degli obblighi nelle materie di competenza degli istituti medesimi. Con successivo decreto del ((Ministro del lavoro, della salute e delle politiche sociali)), di concerto con il ((Ministro del lavoro, della salute e delle politiche sociali)) per la parte concernente i funzionari dell'ISPESL, e' disciplinato lo svolgimento dell'attivita' di consulenza e dei relativi proventi, fermo restando che i compensi percepiti per lo svolgimento dell'attivita' di consulenza sono devoluti in ragione della meta' all'ente di appartenenza e nel resto al Fondo di cui all'articolo 52, comma 1.
 
+4.
+                        
+                            
+                                L'INAIL fermo restando quanto previsto dall'articolo 12 della legge 11 marzo 1988, n. 67, dall'articolo 2, comma 6, della legge 28 dicembre 1995, n. 549, e dall'articolo 2, comma 130, della legge 23 dicembre 1996, n. 662, nonche' da ogni altra disposizione previgente, svolge, con la finalita' di ridurre il fenomeno infortunistico e ad integrazione delle proprie competenze quale gestore dell'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, i seguenti compiti oltre a quanto previsto negli altri articoli del presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    raccoglie e registra, a fini statistici e informativi, i dati relativi agli infortuni sul lavoro che comportino un'assenza dal lavoro di almeno un giorno, escluso quello dell'evento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concorre alla realizzazione di studi e ricerche sugli infortuni e sulle malattie correlate al lavoro, coordinandosi con il ((Ministero del lavoro, della salute e delle politiche sociali)) e con l'ISPESL;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    partecipa alla elaborazione, formulando pareri e proposte, della normazione tecnica in materia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eroga, previo trasferimento delle necessarie risorse da parte del ((Ministero del lavoro, della salute e delle politiche sociali)), le prestazioni del Fondo di cui all'articolo 1, comma 1187, della legge 27 dicembre 2006, n. 296. In sede di prima applicazione, le relative prestazioni sono fornite con riferimento agli infortuni verificatisi a fare data dal 1° gennaio 2007. ((Le somme eventualmente riversate all'entrata del bilancio dello Stato a seguito di economie di gestione realizzatesi nell'esercizio finanziario sono riassegnate al pertinente capitolo dello stato di previsione del Ministero del lavoro, della salute e delle politiche sociali.
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    puo' erogare prestazioni di assistenza sanitaria riabilitativa non ospedaliera, previo accordo quadro stipulato in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, su proposta del Ministero del lavoro, della salute e delle politiche sociali, di concerto con il Ministero dell'economia e delle finanze, sentito l'INAIL, che definisca le modalita' di erogazione delle prestazioni da parte dell'INAIL, senza oneri aggiuntivi per la finanza pubblica.
+
 L'Istituto superiore per la prevenzione e la sicurezza del lavoro - ISPESL e' ente di diritto pubblico, nel settore della ricerca, dotato di autonomia scientifica, organizzativa, patrimoniale, gestionale e tecnica. L'ISPESL e' organo tecnico-scientifico del Servizio sanitario nazionale di ricerca, sperimentazione, controllo, consulenza, assistenza, alta formazione, informazione e documentazione in materia di prevenzione degli infortuni e delle malattie professionali, sicurezza sul lavoro e di promozione e tutela della salute negli ambienti di vita e di lavoro, del quale si avvalgono gli organi centrali dello Stato preposti ai settori della salute, dell'ambiente, del lavoro e della produzione e le regioni e le province autonome di Trento e di Bolzano.
+
+6.
+                        
+                            
+                                L'ISPESL, nell'ambito delle sue attribuzioni istituzionali, opera avvalendosi delle proprie strutture centrali e territoriali, garantendo unitarieta' della azione di prevenzione nei suoi aspetti interdisciplinari e svolge le seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge e promuove programmi di studio e ricerca scientifica e programmi di interesse nazionale nel campo della prevenzione degli infortuni, e delle malattie professionali, della sicurezza sul lavoro e della promozione e tutela della salute negli ambienti di vita e di lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interviene nelle materie di competenza dell'Istituto, su richiesta degli organi centrali dello Stato e delle regioni e delle province autonome di Trento e di Bolzano, nell'ambito dei controlli che richiedono un'elevata competenza scientifica. Ai fini della presente lettera, esegue, accedendo nei luoghi di lavoro, accertamenti e indagini in materia di salute e sicurezza del lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' organo tecnico-scientifico delle Autorita' nazionali preposte alla sorveglianza del mercato ai fini del controllo della conformita' ai requisiti di sicurezza e salute di prodotti messi a disposizione dei lavoratori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolge attivita' di organismo notificato per attestazioni di conformita' relative alle Direttive per le quali non svolge compiti relativi alla sorveglianza del mercato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' titolare di prime verifiche e verifiche di primo impianto di attrezzature di lavoro sottoposte a tale regime;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fornisce consulenza al ((Ministero del lavoro, della salute e delle politiche sociali)), agli altri Ministeri e alle regioni e alle province autonome in materia salute e sicurezza del lavoro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fornisce assistenza al ((Ministero del lavoro, della salute e delle politiche sociali)) e alle regioni e alle province autonome per l'elaborazione del Piano sanitario nazionale, dei piani sanitari regionali e dei piani nazionali e regionali della prevenzione, per il monitoraggio delle azioni poste in essere nel campo salute e sicurezza del lavoro e per la verifica del raggiungimento dei livelli essenziali di assistenza in materia;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    supporta il Servizio sanitario nazionale, fornendo informazioni, formazione, consulenza e assistenza alle strutture operative per la promozione della salute, prevenzione e sicurezza negli ambienti di lavoro;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((puo' svolgere)), congiuntamente ai servizi di prevenzione e sicurezza nei luoghi di lavoro delle ASL, l'attivita' di vigilanza sulle strutture sanitarie del Servizio sanitario nazionale;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    effettua il raccordo e la divulgazione dei risultati derivanti dalle attivita' di prevenzione nei luoghi di lavoro svolte dalle strutture del Servizio sanitario nazionale;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    partecipa alla elaborazione di norme di carattere generale e formula, pareri e proposte circa la congruita' della norma tecnica non armonizzata ai requisiti di sicurezza previsti dalla legislazione nazionale vigente;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    assicura la standardizzazione tecnico-scientifica delle metodiche e delle procedure per la valutazione e la gestione dei rischi e per l'accertamento dello stato di salute dei lavoratori in relazione a specifiche condizioni di rischio e contribuisce alla definizione dei limiti di esposizione;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    diffonde, previa istruttoria tecnica, le buone prassi di cui all'articolo 2, comma 1, lettera v);
+
+                                
+                            
+                            
+                                p)
+                                
+                                    coordina il network nazionale in materia di salute e sicurezza nei luoghi di lavoro, in qualita' di focal point italiano nel network informativo dell'Agenzia europea per la salute e sicurezza nei luoghi di lavoro;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    supporta l'attivita' di monitoraggio del ((Ministero del lavoro, della salute e delle politiche sociali)) sulla applicazione dei livelli essenziali di assistenza relativi alla sicurezza nei luoghi di lavoro.
+
+7.
+                        
+                            
+                                L'IPSEMA svolge, con la finalita' di ridurre il fenomeno infortunistico ed ad integrazione delle proprie competenze quale gestore dell'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali del settore marittimo, i seguenti compiti oltre a quanto previsto negli altri articoli del presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    raccoglie e registra, a fini statistici ed informativi, i dati relativi agli infortuni sul lavoro che comportino un'assenza dal lavoro di almeno un giorno, escluso quello dell'evento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concorre alla realizzazione di studi e ricerche sugli infortuni e sulle malattie correlate al lavoro, raccordandosi con il ((Ministero del lavoro, della salute e delle politiche sociali)) e con l'ISPESL;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    finanzia, nell'ambito e nei limiti delle proprie spese istituzionali, progetti di investimento e formazione in materia di salute e sicurezza sul lavoro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    supporta, in raccordo con le amministrazioni competenti in materia di salute per il settore marittimo, anche mediante convenzioni con l'INAIL, le prestazioni di assistenza sanitaria riabilitativa per i lavoratori marittimi anche al fine di assicurare il loro reinserimento lavorativo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eroga, previo trasferimento delle necessarie risorse da parte del ((Ministero del lavoro, della salute e delle politiche sociali)), le prestazioni del Fondo di cui all'articolo 1, comma 1187, della legge 27 dicembre 2006, n. 296, con riferimento agli infortuni del settore marittimo. In sede di prima applicazione, le relative prestazioni sono fornite con riferimento agli infortuni verificatisi a fare data dal 1° gennaio 2007. ((Le somme eventualmente riversate all'entrata del bilancio dello Stato a seguito di economie di gestione realizzatesi nell'esercizio finanziario sono riassegnate al pertinente capitolo dello stato di previsione del Ministero del lavoro, della salute e delle politiche sociali.))
 
 ## Art. 10. — Informazione e assistenza in materia di salute e sicurezza nei luoghi di lavoro
 
 Le regioni e le province autonome di Trento e di Bolzano, tramite le AA.SS.LL. del SSN, il Ministero dell'interno tramite le strutture del Corpo nazionale dei vigili del fuoco, l'Istituto superiore per la prevenzione e la sicurezza sul lavoro (ISPESL), il ((Ministero del lavoro, della salute e delle politiche sociali)), il Ministero dello sviluppo economico per il settore estrattivo, l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), l'Istituto di previdenza per il settore marittimo (IPSEMA), gli organismi paritetici e gli enti di patronato svolgono, anche mediante convenzioni, attivita' di informazione, assistenza, consulenza, formazione, promozione in materia di sicurezza e salute nei luoghi di lavoro, in particolare nei confronti delle imprese artigiane, delle imprese agricole e delle piccole e medie imprese e delle rispettive associazioni dei datori di lavoro.
 
 ## Art. 11. — Attivita' promozionali
+
+1.
+                        
+                            
+                                Nell'ambito della Commissione consultiva di cui all'articolo 6 sono definite, in coerenza con gli indirizzi individuati dal Comitato di cui all'articolo 5, le attivita' promozionali della cultura e delle azioni di prevenzione con riguardo in particolare a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    finanziamento, da parte dell'INAIL e previo trasferimento delle necessarie risorse da parte del Ministero del lavoro, della salute e delle politiche sociali, di progetti di investimento in materia di salute e sicurezza sul lavoro da parte delle piccole, medie e micro imprese; per l'accesso a tali finanziamenti deve essere garantita la semplicita' delle procedure; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    finanziamento, da parte dell'INAIL e delle regioni, previo trasferimento delle necessarie risorse da parte del Ministero del lavoro, della salute e delle politiche sociali, di progetti formativi specificamente dedicati alle piccole, medie e micro imprese, ivi compresi quelli di cui all'articolo 52, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    finanziamento, da parte del Ministero dell'istruzione, dell'universita' e della ricerca., previo trasferimento delle necessarie risorse da parte del Ministero del lavoro, della salute e delle politiche sociali, delle attivita' degli istituti scolastici, universitari e di formazione professionale finalizzata all'inserimento in ogni attivita' scolastica ed universitaria, nelle istituzioni dell'alta formazione artistica e coreutica e nei percorsi di istruzione e formazione professionale di specifici percorsi formativi interdisciplinari alle diverse materie scolastiche volti a favorire la conoscenza delle tematiche della salute e della sicurezza nel rispetto delle autonomie didattiche.
 
 Ai finanziamenti di cui al comma 1 si provvede con oneri a carico delle risorse di cui all'articolo 1, comma 7-bis, della legge 3 agosto 2007, n. 123, come introdotto dall'articolo 2, comma 533, della legge 24 dicembre 2007, n. 244. Con decreto del Ministro del lavoro, della salute e delle politiche sociali, di concerto con i Ministri dell'economia e delle finanze, dell'istruzione e dell'universita' e della ricerca, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, si provvede al riparto annuale delle risorse tra le attivita' di cui alle lettere a), b) e c) del comma 1 e dell'articolo 52, comma 2, lettera d).
 
@@ -318,6 +1293,45 @@ In materia di prevenzione incendi, in ragione della competenza esclusiva del Cor
 
 I poteri di cui al comma 1 spettano anche ai servizi ispettivi delle aziende sanitarie locali nell'ambito di accertamenti in materia di tutela della salute e della sicurezza del lavoro.
 
+9.
+                        
+                            
+                                E' condizione per la revoca del provvedimento da parte dell'amministrazione che lo ha adottato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la regolarizzazione dei lavoratori non risultanti dalle scritture o da altra documentazione obbligatoria anche sotto il profilo degli adempimenti in materia di salute e sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'accertamento del ripristino delle regolari condizioni di lavoro nelle ipotesi di violazioni della disciplina in materia di tutela della salute e della sicurezza sul lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la rimozione delle conseguenze pericolose delle violazioni nelle ipotesi di cui all'Allegato I; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nelle ipotesi di lavoro irregolare, il pagamento di una somma aggiuntiva pari a 2.500 euro qualora siano impiegati fino a cinque lavoratori irregolari e pari a 5.000 euro qualora siano impiegati piu' di cinque lavoratori irregolari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nelle ipotesi di cui all'Allegato I, il pagamento di una somma aggiuntiva di importo pari a quanto indicato nello stesso Allegato I con riferimento a ciascuna fattispecie.
+
 Le somme aggiuntive di cui alle lettere d) ed e) del comma 9 sono raddoppiate nelle ipotesi in cui, nei cinque anni precedenti alla adozione del provvedimento, la medesima impresa sia stata destinataria di un provvedimento di sospensione.
 
 Su istanza di parte, fermo restando il rispetto delle condizioni di cui al comma 9, la revoca e' altresi' concessa subordinatamente al pagamento del venti per cento della somma aggiuntiva dovuta. L'importo residuo, maggiorato del cinque per cento, e' versato entro sei mesi dalla data di presentazione dell'istanza di revoca. In caso di mancato versamento o di versamento parziale dell'importo residuo entro detto termine, il provvedimento di accoglimento dell'istanza di cui al presente comma costituisce titolo esecutivo per l'importo non versato.
@@ -340,9 +1354,207 @@ L'emissione del decreto di archiviazione per l'estinzione delle contravvenzioni,
 
 ## Art. 15. — Misure generali di tutela
 
+1.
+                        
+                            
+                                Le misure generali di tutela della salute e della sicurezza dei lavoratori nei luoghi di lavoro sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la valutazione di tutti i rischi per la salute e sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la programmazione della prevenzione, mirata ad un complesso che integri in modo coerente nella prevenzione le condizioni tecniche produttive dell'azienda nonche' l'influenza dei fattori dell'ambiente e dell'organizzazione del lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'eliminazione dei rischi e, ove cio' non sia possibile, la loro riduzione al minimo in relazione alle conoscenze acquisite in base al progresso tecnico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rispetto dei principi ergonomici nell'organizzazione del lavoro, nella concezione dei posti di lavoro, nella scelta delle attrezzature e nella definizione dei metodi di lavoro e produzione, in particolare al fine di ridurre gli effetti sulla salute del lavoro monotono e di quello ripetitivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la riduzione dei rischi alla fonte; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la sostituzione di cio' che e' pericoloso con cio' che non lo e', o e' meno pericoloso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la limitazione al minimo del numero dei lavoratori che sono, o che possono essere, esposti al rischio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'utilizzo limitato degli agenti chimici, fisici e biologici sui luoghi di lavoro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la priorita' delle misure di protezione collettiva rispetto alle misure di protezione individuale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il controllo sanitario dei lavoratori; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'allontanamento del lavoratore dall'esposizione al rischio per motivi sanitari inerenti la sua persona e l'adibizione, ove possibile, ad altra mansione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'informazione e formazione adeguate per i lavoratori; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'informazione e formazione adeguate per dirigenti e i preposti; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'informazione e formazione adeguate per i rappresentanti dei lavoratori per la sicurezza; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    l'istruzioni adeguate ai lavoratori; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    la partecipazione e consultazione dei lavoratori; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    la partecipazione e consultazione dei rappresentanti dei lavoratori per la sicurezza; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    la programmazione delle misure ritenute opportune per garantire il miglioramento nel tempo dei livelli di sicurezza, anche attraverso l'adozione di codici di condotta e di buone prassi; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    le misure di emergenza da attuare in caso di primo soccorso, di lotta antincendio, di evacuazione dei lavoratori e di pericolo grave e immediato; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    l'uso di segnali di avvertimento e di sicurezza; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    la regolare manutenzione di ambienti, attrezzature, impianti, con particolare riguardo ai dispositivi di sicurezza in conformita' alla indicazione dei fabbricanti. 
+
+                                
+                            
+                            
+                                z-bis)
+                                
+                                    
+                                        ((la programmazione di misure di prevenzione di condotte violente o moleste nei confronti dei lavoratori, come definiti all'articolo 2, comma 1, lettera a), nei luoghi di lavoro di cui all'articolo 62.))
+
 Le misure relative alla sicurezza, all'igiene ed alla salute durante il lavoro non devono in nessun caso comportare oneri finanziari per i lavoratori.
 
 ## Art. 16. — Delega di funzioni
+
+1.
+                        
+                            
+                                La delega di funzioni da parte del datore di lavoro, ove non espressamente esclusa, e' ammessa con i seguenti limiti e condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    che essa risulti da atto scritto recante data certa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che il delegato possegga tutti i requisiti di professionalita' ed esperienza richiesti dalla specifica natura delle funzioni delegate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che essa attribuisca al delegato tutti i poteri di organizzazione, gestione e controllo richiesti dalla specifica natura delle funzioni delegate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che essa attribuisca al delegato l'autonomia di spesa necessaria allo svolgimento delle funzioni delegate;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che la delega sia accettata dal delegato per iscritto.
 
 Alla delega di cui al comma 1 deve essere data adeguata e tempestiva pubblicita'.
 
@@ -353,9 +1565,245 @@ La delega di funzioni di cui al primo periodo non esclude l'obbligo di vigilanza
 
 ## Art. 17. — Obblighi del datore di lavoro non delegabili
 
+1.
+                        
+                            
+                                Il datore di lavoro non puo' delegare le seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    la valutazione di tutti i rischi con la conseguente elaborazione del documento previsto dall'articolo 28;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la designazione del responsabile del servizio di prevenzione e protezione dai rischi.
+
 ## Art. 18. — Obblighi del datore di lavoro e del dirigente
 
+1.
+                        
+                            
+                                Il datore di lavoro, che esercita le attivita' di cui all'articolo 3, e i dirigenti, che organizzano e dirigono le stesse attivita' secondo le attribuzioni e competenze ad essi conferite, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nominare il medico competente per l'effettuazione della sorveglianza sanitaria nei casi previsti dal presente decreto legislativo e qualora richiesto dalla valutazione dei rischi di cui all'articolo 28. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    designare preventivamente i lavoratori incaricati dell'attuazione delle misure di prevenzione incendi e lotta antincendio, di evacuazione dei luoghi di lavoro in caso di pericolo grave e immediato, di salvataggio, di primo soccorso e, comunque, di gestione dell'emergenza; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    individuare il preposto o i preposti per l'effettuazione delle attivita' di vigilanza di cui all'articolo 19. I contratti e gli accordi collettivi di lavoro possono stabilire l'emolumento spettante al preposto per lo svolgimento delle attivita' di cui al precedente periodo. Il preposto non puo' subire pregiudizio alcuno a causa dello svolgimento della propria attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'affidare i compiti ai lavoratori, tenere conto delle capacita' e delle condizioni degli stessi in rapporto alla loro salute e alla sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornire ai lavoratori i necessari e idonei dispositivi di protezione individuale, sentito il responsabile del servizio di prevenzione e protezione e il medico competente, ove presente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prendere le misure appropriate affinche' soltanto i lavoratori che hanno ricevuto adeguate istruzioni e specifico addestramento accedano alle zone che li espongono ad un rischio grave e specifico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    richiedere l'osservanza da parte dei singoli lavoratori delle norme vigenti, nonche' delle disposizioni aziendali in materia di sicurezza e di igiene del lavoro e di uso dei mezzi di protezione collettivi e dei dispositivi di protezione individuali messi a loro disposizione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    inviare i lavoratori alla visita medica entro le scadenze previste dal programma di sorveglianza sanitaria e richiedere al medico competente l'osservanza degli obblighi previsti a suo carico nel presente decreto; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    nei casi di sorveglianza sanitaria di cui all'articolo 41, comunicare tempestivamente al medico competente la cessazione del rapporto di lavoro; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    adottare le misure per il controllo delle situazioni di rischio in caso di emergenza e dare istruzioni affinche' i lavoratori, in caso di pericolo grave, immediato ed inevitabile, abbandonino il posto di lavoro o la zona pericolosa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    informare il piu' presto possibile i lavoratori esposti al rischio di un pericolo grave e immediato circa il rischio stesso e le disposizioni prese o da prendere in materia di protezione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    adempiere agli obblighi di informazione, formazione e addestramento di cui agli articoli 36 e 37; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    astenersi, salvo eccezione debitamente motivata da esigenze di tutela della salute e sicurezza, dal richiedere ai lavoratori di riprendere la loro attivita' in una situazione di lavoro in cui persiste un pericolo grave e immediato; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    consentire ai lavoratori di verificare, mediante il rappresentante dei lavoratori per la sicurezza, l'applicazione delle misure di sicurezza e di protezione della salute; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    consegnare tempestivamente al rappresentante dei lavoratori per la sicurezza, su richiesta di questi e per l'espletamento della sua funzione, copia del documento di cui all'articolo 17, comma 1, lettera a), anche su supporto informatico come previsto dall'articolo 53, comma 5, nonche' consentire al medesimo rappresentante di accedere ai dati di cui alla lettera r); il documento e' consultato esclusivamente in azienda 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    elaborare il documento di cui all'articolo 26, comma 3 anche su supporto informatico come previsto dall'articolo 53, comma 5, e, su richiesta di questi e per l'espletamento della sua funzione, consegnarne tempestivamente copia ai rappresentanti dei lavoratori per la sicurezza. Il documento e' consultato esclusivamente in azienda; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    prendere appropriati provvedimenti per evitare che le misure tecniche adottate possano causare rischi per la salute della popolazione o deteriorare l'ambiente esterno verificando periodicamente la perdurante assenza di rischio; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    comunicare in via telematica all'INAIL e all'IPSEMA, nonche' per loro tramite, al sistema informativo nazionale per la prevenzione nei luoghi di lavoro di cui all'articolo 8, entro 48 ore dalla ricezione del certificato medico, a fini statistici e informativi, i dati e le informazioni relativi agli infortuni sul lavoro che comportino l'assenza dal lavoro di almeno un giorno, escluso quello dell'evento e, a fini assicurativi, quelli relativi agli infortuni sul lavoro che comportino un'assenza dal lavoro superiore a tre giorni; l'obbligo di comunicazione degli infortuni sul lavoro che comportino un'assenza dal lavoro superiore a tre giorni si considera comunque assolto per mezzo della denuncia di cui all'articolo 53 del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, di cui al decreto del Presidente della Repubblica 30 giugno 1965, n. 1124; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    consultare il rappresentante dei lavoratori per la sicurezza nelle ipotesi di cui all'articolo 50; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    adottare le misure necessarie ai fini della prevenzione incendi e dell'evacuazione dei luoghi di lavoro, nonche' per il caso di pericolo grave e immediato, secondo le disposizioni di cui all'articolo 43. Tali misure devono essere adeguate alla natura dell'attivita', alle dimensioni dell'azienda o dell'unita' produttiva, e al numero delle persone presenti; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    nell'ambito dello svolgimento di attivita' in regime di appalto e di subappalto, munire i lavoratori di apposita tessera di riconoscimento, corredata di fotografia, contenente le generalita' del lavoratore e l'indicazione del datore di lavoro; (10) 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    nelle unita' produttive con piu' di 15 lavoratori, convocare la riunione periodica di cui all'articolo 35; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    aggiornare le misure di prevenzione in relazione ai mutamenti organizzativi e produttivi che hanno rilevanza ai fini della salute e sicurezza del lavoro, o in relazione al grado di evoluzione della tecnica della prevenzione e della protezione; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    comunicare in via telematica all'INAIL e all'IPSEMA, nonche' per loro tramite, al sistema informativo nazionale per la prevenzione nei luoghi di lavoro di cui all'articolo 8, in caso di nuova elezione o designazione, i nominativi dei rappresentanti dei lavoratori per la sicurezza; in fase di prima applicazione l'obbligo di cui alla presente lettera riguarda i nominativi dei rappresentanti dei lavoratori gia' eletti o designati; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    vigilare affinche' i lavoratori per i quali vige l'obbligo di sorveglianza sanitaria non siano adibiti alla mansione lavorativa specifica senza il prescritto giudizio di idoneita'.
+
 L'obbligo di cui alla lettera r) del comma 1, relativo alla comunicazione a fini statistici e informativi dei dati relativi agli infortuni che comportano l'assenza dal lavoro di almeno un giorno, escluso quello dell'evento, decorre dalla scadenza del termine di dodici mesi dall'adozione del decreto di cui all'articolo 8, comma 4.
+
+2.
+                        
+                            
+                                Il datore di lavoro fornisce al servizio di prevenzione e protezione ed al medico competente informazioni in merito a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la natura dei rischi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'organizzazione del lavoro, la programmazione e l'attuazione delle misure preventive e protettive; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione degli impianti e dei processi produttivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dati di cui al comma 1, lettera r), e quelli relativi alle malattie professionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i provvedimenti adottati dagli organi di vigilanza.
 
 Gli obblighi relativi agli interventi strutturali e di manutenzione necessari per assicurare, ai sensi del presente decreto legislativo, la sicurezza dei locali e degli edifici assegnati in uso a pubbliche amministrazioni o a pubblici uffici, ivi comprese le istituzioni scolastiche ed educative, restano a carico dell'amministrazione tenuta, per effetto di norme o convenzioni, alla loro fornitura e manutenzione. In tale caso gli obblighi previsti dal presente decreto legislativo, relativamente ai predetti interventi, si intendono assolti, da parte dei dirigenti o funzionari preposti agli uffici interessati, con la richiesta del loro adempimento all'amministrazione competente o al soggetto che ne ha l'obbligo giuridico. 
  3.1. I dirigenti delle istituzioni scolastiche sono esentati da qualsiasi responsabilita' civile, amministrativa e penale qualora abbiano tempestivamente richiesto gli interventi strutturali e di manutenzione di cui al comma 3, necessari per assicurare la sicurezza dei locali e degli edifici assegnati, adottando le misure di carattere gestionale di propria competenza nei limiti delle risorse disponibili a legislazione vigente. In ogni caso gli interventi relativi all'installazione degli impianti e alla loro verifica periodica e gli interventi strutturali e di manutenzione riferiti ad aree e spazi degli edifici non assegnati alle istituzioni scolastiche nonche' ai vani e locali tecnici e ai tetti e sottotetti delle sedi delle istituzioni scolastiche restano a carico dell'amministrazione tenuta, ai sensi delle norme o delle convenzioni vigenti, alla loro fornitura e manutenzione. Qualora i dirigenti, sulla base della valutazione svolta con la diligenza del buon padre di famiglia, rilevino la sussistenza di un pericolo grave e immediato, possono interdire parzialmente o totalmente l'utilizzo dei locali e degli edifici assegnati, nonche' ordinarne l'evacuazione, dandone tempestiva comunicazione all'amministrazione tenuta, ai sensi delle norme o delle convenzioni vigenti, alla loro fornitura e manutenzione, nonche' alla competente autorita' di pubblica sicurezza. Nei casi di cui al periodo precedente non si applicano gli articoli 331, 340 e 658 del codice penale. 
@@ -405,9 +1853,119 @@ In riferimento alle attivita' indicate all'articolo 3, i preposti, secondo le lo
 
 Ogni lavoratore deve prendersi cura della propria salute e sicurezza e di quella delle altre persone presenti sul luogo di lavoro, su cui ricadono gli effetti delle sue azioni o omissioni, conformemente alla sua formazione, alle istruzioni e ai mezzi forniti dal datore di lavoro.
 
+2.
+                        
+                            
+                                I lavoratori devono in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contribuire, insieme al datore di lavoro, ai dirigenti e ai preposti, all'adempimento degli obblighi previsti a tutela della salute e sicurezza sui luoghi di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    osservare le disposizioni e le istruzioni impartite dal datore di lavoro, dai dirigenti e dai preposti, ai fini della protezione collettiva ed individuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzare correttamente le attrezzature di lavoro, le sostanze e i miscele pericolose, i mezzi di trasporto, nonche' i dispositivi di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzare in modo appropriato i dispositivi di protezione messi a loro disposizione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    segnalare immediatamente al datore di lavoro, al dirigente o al preposto le deficienze dei mezzi e dei dispositivi di cui alle lettere c) e d), nonche' qualsiasi eventuale condizione di pericolo di cui vengano a conoscenza, adoperandosi direttamente, in caso di urgenza, nell'ambito delle proprie competenze e possibilita' e fatto salvo l'obbligo di cui alla lettera f) per eliminare o ridurre le situazioni di pericolo grave e incombente, dandone notizia al rappresentante dei lavoratori per la sicurezza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non rimuovere o modificare senza autorizzazione i dispositivi di sicurezza o di segnalazione o di controllo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    non compiere di propria iniziativa operazioni o manovre che non sono di loro competenza ovvero che possono compromettere la sicurezza propria o di altri lavoratori; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    partecipare ai programmi di formazione e di addestramento organizzati dal datore di lavoro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    sottoporsi ai controlli sanitari previsti dal presente decreto legislativo o comunque disposti dal medico competente ((,)) che devono essere computati nell'ambito dell'orario di lavoro, ad eccezione di quelli compiuti in fase preassuntiva.
+
 I lavoratori di aziende che svolgono attivita' in regime di appalto o subappalto, devono esporre apposita tessera di riconoscimento, corredata di fotografia, contenente le generalita' del lavoratore e l'indicazione del datore di lavoro. Tale obbligo grava anche in capo ai lavoratori autonomi che esercitano direttamente la propria attivita' nel medesimo luogo di lavoro, i quali sono tenuti a provvedervi per proprio conto.
 
 ## Art. 21. — Disposizioni relative ai componenti dell'impresa familiare di cui all'articolo 230-bis del codice civile e ai lavoratori autonomi
+
+1.
+                        
+                            
+                                I componenti dell'impresa familiare di cui all'articolo 230-bis del codice civile, i lavoratori autonomi che compiono opere o servizi ai sensi dell'articolo 2222 del codice civile, i coltivatori diretti del fondo, i soci delle societa' semplici operanti nel settore agricolo, gli artigiani e i piccoli commercianti devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizzare attrezzature di lavoro in conformita' alle disposizioni di cui al titolo III ((, nonche' idonee opere provvisionali in conformita' alle disposizioni di cui al titolo IV)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    munirsi di dispositivi di protezione individuale ed utilizzarli conformemente alle disposizioni di cui al titolo III; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    munirsi di apposita tessera di riconoscimento corredata di fotografia, contenente le proprie generalita', qualora effettuino la loro prestazione in un luogo di lavoro nel quale si svolgano attivita' in regime di appalto o subappalto.(10)
+
+2.
+                        
+                            
+                                I soggetti di cui al comma 1, relativamente ai rischi propri delle attivita' svolte e con oneri a proprio carico hanno facolta' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    beneficiare della sorveglianza sanitaria secondo le previsioni di cui all'articolo 41, fermi restando gli obblighi previsti da norme speciali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipare a corsi di formazione specifici in materia di salute e sicurezza sul lavoro, incentrati sui rischi propri delle attivita' svolte, secondo le previsioni di cui all'articolo 37, fermi restando gli obblighi previsti da norme speciali.
 
 ---------------
                             AGGIORNAMENTO (10)
@@ -431,12 +1989,159 @@ Gli installatori e montatori di impianti, attrezzature di lavoro o altri mezzi t
 
 ## Art. 25. — Obblighi del medico competente
 
+1.
+                        
+                            
+                                Il medico competente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collabora con il datore di lavoro e con il servizio di prevenzione e protezione alla valutazione dei rischi, anche ai fini della programmazione, ove necessario, della sorveglianza sanitaria, alla predisposizione della attuazione delle misure per la tutela della salute e della integrita' psico-fisica dei lavoratori, all'attivita' di formazione e informazione nei confronti dei lavoratori, per la parte di competenza, e alla organizzazione del servizio di primo soccorso considerando i particolari tipi di lavorazione ed esposizione e le peculiari modalita' organizzative del lavoro. Collabora inoltre alla attuazione e valorizzazione di programmi volontari di "promozione della salute", secondo i principi della responsabilita' sociale; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    fornisce informazioni ai lavoratori sull'importanza della prevenzione oncologica, promuovendo l'adesione ai programmi di screening oncologici previsti dai livelli essenziali di assistenza (LEA), informando le lavoratrici e i lavoratori sulla loro finalita' e utilita', anche con il supporto di campagne informative a tale scopo promosse dal Ministero della salute; ((65))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    programma ed effettua la sorveglianza sanitaria di cui all'articolo 41 attraverso protocolli sanitari definiti in funzione dei rischi specifici e tenendo in considerazione gli indirizzi scientifici piu' avanzati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    istituisce, aggiorna e custodisce, sotto la propria responsabilita', una cartella sanitaria e di rischio per ogni lavoratore sottoposto a sorveglianza sanitaria; tale cartella e' conservata con salvaguardia del segreto professionale e, salvo il tempo strettamente necessario per l'esecuzione della sorveglianza sanitaria e la trascrizione dei relativi risultati, presso il luogo di custodia concordato al momento della nomina del medico competente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    consegna al datore di lavoro, alla cessazione dell'incarico, la documentazione sanitaria in suo possesso, nel rispetto delle disposizioni di cui al decreto legislativo del 30 giugno 2003, n. 196, e con salvaguardia del segreto professionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    consegna al lavoratore, alla cessazione del rapporto di lavoro, copia della cartella sanitaria e di rischio, e gli fornisce le informazioni necessarie relative alla conservazione della medesima; l'originale della cartella sanitaria e di rischio va conservata, nel rispetto di quanto disposto dal decreto legislativo 30 giugno 2003, n. 196, da parte del datore di lavoro, per almeno dieci anni, salvo il diverso termine previsto da altre disposizioni del presente decreto; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    in occasione della visita medica preventiva o della visita medica preventiva in fase preassuntiva di cui all'articolo 41, richiede al lavoratore di esibire copia della cartella sanitaria e di rischio rilasciata alla risoluzione del precedente rapporto di lavoro e ne valuta il contenuto ai fini della formulazione del giudizio di idoneita', salvo che ne sia oggettivamente impossibile il reperimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA SOPPRESSA DAL D. LGS. 3 AGOSTO 2009, N. 106; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fornisce informazioni ai lavoratori sul significato della sorveglianza sanitaria cui sono sottoposti e, nel caso di esposizione ad agenti con effetti a lungo termine, sulla necessita' di sottoporsi ad accertamenti sanitari anche dopo la cessazione della attivita' che comporta l'esposizione a tali agenti. Fornisce altresi', a richiesta, informazioni analoghe ai rappresentanti dei lavoratori per la sicurezza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    informa ogni lavoratore interessato dei risultati della sorveglianza sanitaria di cui all'articolo 41 e, a richiesta dello stesso, gli rilascia copia della documentazione sanitaria; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    comunica per iscritto, in occasione delle riunioni di cui all'articolo 35, al datore di lavoro, al responsabile del servizio di prevenzione protezione dai rischi, ai rappresentanti dei lavoratori per la sicurezza, i risultati anonimi collettivi della sorveglianza sanitaria effettuata e fornisce indicazioni sul significato di detti risultati ai fini della attuazione delle misure per la tutela della salute e della integrita' psico-fisica dei lavoratori; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    visita gli ambienti di lavoro almeno una volta all'anno o a cadenza diversa che stabilisce in base alla valutazione dei rischi; la indicazione di una periodicita' diversa dall'annuale deve essere comunicata al datore di lavoro ai fini della sua annotazione nel documento di valutazione dei rischi; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    partecipa alla programmazione del controllo dell'esposizione dei lavoratori i cui risultati gli sono forniti con tempestivita' ai fini della valutazione del rischio e della sorveglianza sanitaria; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    comunica, mediante autocertificazione, il possesso dei titoli e requisiti di cui all'articolo 38 al Ministero del lavoro, della salute e delle politiche sociali entro il termine di sei mesi dalla data di entrata in vigore del presente decreto. 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    in caso di impedimento per gravi e motivate ragioni, comunica per iscritto al datore di lavoro il nominativo di un sostituto, in possesso dei requisiti di cui all'articolo 38, per l'adempimento degli obblighi di legge durante il relativo intervallo temporale specificato.
+
 ------------
                             AGGIORNAMENTO (65)
                             
  La L. 29 dicembre 2025, n. 198, nel convertire l'art. 17, comma 1, lettera b) del D.L. 31 ottobre 2025, n. 159, ha disposto (con l'art. 1, comma 1) che "alla lettera b), capoverso a-bis), le parole: «Ministero della salute".» sono sostituite dalle seguenti: «Ministero della salute";»".
 
 ## Art. 26. — Obblighi connessi ai contratti d'appalto o d'opera o di somministrazione
+
+1.
+                        
+                            
+                                Il datore di lavoro, in caso di affidamento di lavori, servizi e forniture all'impresa appaltatrice o a lavoratori autonomi all'interno della propria azienda, o di una singola unita' produttiva della stessa, nonche' nell'ambito dell'intero ciclo produttivo dell'azienda medesima, sempre che abbia la disponibilita' giuridica dei luoghi in cui si svolge l'appalto o la prestazione di lavoro autonomo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica, con le modalita' previste dal decreto di cui all'articolo 6, comma 8, lettera g), l'idoneita' tecnico professionale delle imprese appaltatrici o dei lavoratori autonomi in relazione ai lavori, ai servizi e alle forniture da affidare in appalto o mediante contratto d'opera o di somministrazione. Fino alla data di entrata in vigore del decreto di cui al periodo che precede, la verifica e' eseguita attraverso le seguenti modalita': 
+ 1) acquisizione del certificato di iscrizione alla camera di commercio, industria e artigianato; 
+ 2) acquisizione dell'autocertificazione dell'impresa appaltatrice o dei lavoratori autonomi del possesso dei requisiti di idoneita' tecnico professionale, ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica del 28 dicembre 2000, n. 445; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce agli stessi soggetti dettagliate informazioni sui rischi specifici esistenti nell'ambiente in cui sono destinati ad operare e sulle misure di prevenzione e di emergenza adottate in relazione alla propria attivita'.
+
+2.
+                        
+                            
+                                Nell'ipotesi di cui al comma 1, i datori di lavoro, ivi compresi i subappaltatori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cooperano all'attuazione delle misure di prevenzione e protezione dai rischi sul lavoro incidenti sull'attivita' lavorativa oggetto dell'appalto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coordinano gli interventi di protezione e prevenzione dai rischi cui sono esposti i lavoratori, informandosi reciprocamente anche al fine di eliminare rischi dovuti alle interferenze tra i lavori delle diverse imprese coinvolte nell'esecuzione dell'opera complessiva.
 
 Il datore di lavoro committente promuove la cooperazione e il coordinamento di cui al comma 2, elaborando un unico documento di valutazione dei rischi che indichi le misure adottate per eliminare o, ove cio' non e' possibile, ridurre al minimo i rischi da interferenze ovvero individuando, limitatamente ai settori di attivita' a basso rischio di infortuni e malattie professionali di cui all'articolo 29, comma 6-ter, con riferimento sia all'attivita' del datore di lavoro committente sia alle attivita' dell'impresa appaltatrice e dei lavoratori autonomi, un proprio incaricato, in possesso di formazione, esperienza e competenza professionali, adeguate e specifiche in relazione all'incarico conferito, nonche' di periodico aggiornamento e di conoscenza diretta dell'ambiente di lavoro, per sovrintendere a tali cooperazione e coordinamento. In caso di redazione del documento esso e' allegato al contratto di appalto o di opera e deve essere adeguato in funzione dell'evoluzione dei lavori, servizi e forniture. A tali dati accedono il rappresentante dei lavoratori per la sicurezza e gli organismi locali delle organizzazioni sindacali dei lavoratori comparativamente piu' rappresentative a livello nazionale. Dell'individuazione dell'incaricato di cui al primo periodo o della sua sostituzione deve essere data immediata evidenza nel contratto di appalto o di opera.
 Le disposizioni del presente comma non si applicano ai rischi specifici propri dell'attivita' delle imprese appaltatrici o dei singoli lavoratori autonomi. Nell'ambito di applicazione del codice di cui al decreto legislativo 12 aprile 2006, n. 163, tale documento e' redatto, ai fini dell'affidamento del contratto, dal soggetto titolare del potere decisionale e di spesa relativo alla gestione dello specifico appalto.
@@ -465,6 +2170,52 @@ Nell'ambito dello svolgimento di attivita' in regime di appalto o subappalto, i 
  Il D. Lgs. 3 agosto 2009, n. 106 ha disposto (con l'art. 16, comma 4) che al comma 5 del presente articolo, le parole: "i costi relativi alla sicurezza del lavoro con particolare riferimento a quelli propri dello specifico appalto" sono sostituite dalle seguenti: "i costi delle misure adottate per eliminare o, ove cio' non sia possibile, ridurre al minimo i rischi in materia di salute e sicurezza sul lavoro derivanti dalle interferenze delle lavorazioni".
 
 ## Art. 27. — (Sistema di qualificazione delle imprese e dei lavoratori autonomi tramite crediti)
+
+1.
+                        
+                            
+                                A decorrere dal 1° ottobre 2024, sono tenuti al possesso della patente di cui al presente articolo le imprese e i lavoratori autonomi che operano nei cantieri temporanei o mobili di cui all'articolo 89, comma 1, lettera a), ad esclusione di coloro che effettuano mere forniture o prestazioni di natura intellettuale. Per le imprese e i lavoratori autonomi stabiliti in uno Stato membro dell'Unione europea diverso dall'Italia o in uno Stato non appartenente all'Unione europea e' sufficiente il possesso di un documento equivalente rilasciato dalla competente autorita' del Paese d'origine e, nel caso di Stato non appartenente all'Unione europea, riconosciuto secondo la legge italiana. La patente e' rilasciata, in formato digitale, dall'Ispettorato nazionale del lavoro subordinatamente al possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iscrizione alla camera di commercio, industria, artigianato e agricoltura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adempimento, da parte dei datori di lavoro, dei dirigenti, dei preposti, dei lavoratori autonomi e dei prestatori di lavoro, degli obblighi formativi previsti dal presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possesso del documento unico di regolarita' contributiva in corso di validita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    possesso del documento di valutazione dei rischi, nei casi previsti dalla normativa vigente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    possesso della certificazione di regolarita' fiscale, di cui all'articolo 17-bis, commi 5 e 6, del decreto legislativo 9 luglio 1997, n. 241, nei casi previsti dalla normativa vigente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    avvenuta designazione del responsabile del servizio di prevenzione e protezione, nei casi previsti dalla normativa vigente.
 
 Il possesso dei requisiti di cui al comma 1 e' autocertificato secondo le disposizioni del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. Nelle more del rilascio della patente e' comunque consentito lo svolgimento delle attivita' di cui al comma 1, salva diversa comunicazione notificata dall'Ispettorato nazionale del lavoro.
 
@@ -506,6 +2257,52 @@ La valutazione di cui all'articolo 17, comma 1, lettera a), anche nella scelta d
 
 La valutazione dello stress lavoro-correlato di cui al comma 1 e' effettuata nel rispetto delle indicazioni di cui all'articolo 6, comma 8, lettera m-quater), e il relativo obbligo decorre dalla elaborazione delle predette indicazioni e comunque, anche in difetto di tale elaborazione, a fare data dal 1° agosto 2010.
 
+2.
+                        
+                            
+                                Il documento di cui all'articolo 17, comma 1, lettera a), redatto a conclusione della valutazione, puo' essere tenuto, nel rispetto delle previsioni di cui all'articolo 53, su supporto informatico e deve essere munito anche tramite le procedure applicabili ai supporti informatici di cui all'articolo 53, di data certa o attestata dalla sottoscrizione del documento medesimo da parte del datore di lavoro, nonche', ai soli fini della prova della data, dalla sottoscrizione del responsabile del servizio di prevenzione e protezione, del rappresentante dei lavoratori per la sicurezza o del rappresentante dei lavoratori per la sicurezza territoriale e del medico competente, ove nominato, e contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una relazione sulla valutazione di tutti i rischi per la sicurezza e la salute durante l'attivita' lavorativa, nella quale siano specificati i criteri adottati per la valutazione stessa. La scelta dei criteri di redazione del documento e' rimessa al datore di lavoro, che vi provvede con criteri di semplicita', brevita' e comprensibilita', in modo da garantirne la completezza e l'idoneita' quale strumento operativo di pianificazione degli interventi aziendali e di prevenzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione delle misure di prevenzione e di protezione attuate e dei dispositivi di protezione individuali adottati, a seguito della valutazione di cui all'articolo 17, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il programma delle misure ritenute opportune per garantire il miglioramento nel tempo dei livelli di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'individuazione delle procedure per l'attuazione delle misure da realizzare, nonche' dei ruoli dell'organizzazione aziendale che vi debbono provvedere, a cui devono essere assegnati unicamente soggetti in possesso di adeguate competenze e poteri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del nominativo del responsabile del servizio di prevenzione e protezione, del rappresentante dei lavoratori per la sicurezza o di quello territoriale e del medico competente che ha partecipato alla valutazione del rischio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'individuazione delle mansioni che eventualmente espongono i lavoratori a rischi specifici che richiedono una riconosciuta capacita' professionale, specifica esperienza, adeguata formazione e addestramento.
+
 Il contenuto del documento di cui al comma 2 deve altresi' rispettare le indicazioni previste dalle specifiche norme sulla valutazione dei rischi contenute nei successivi titoli del presente decreto.
 
 In caso di costituzione di nuova impresa, il datore di lavoro e' tenuto ad effettuare immediatamente la valutazione dei rischi elaborando il relativo documento entro novanta giorni dalla data di inizio della propria attivita'. Anche in caso di costituzione di nuova impresa, il datore di lavoro deve comunque dare immediata evidenza, attraverso idonea documentazione, dell'adempimento degli obblighi di cui al comma 2, lettere b), c), d), e) e f), e al comma 3, e immediata comunicazione al rappresentante dei lavoratori per la sicurezza. A tale documentazione accede, su richiesta, il rappresentante dei lavoratori per la sicurezza. (9)
@@ -533,6 +2330,37 @@ Le attivita' di cui al comma 1 sono realizzate previa consultazione del rapprese
 
 La valutazione dei rischi deve essere immediatamente rielaborata, nel rispetto delle modalita' di cui ai commi 1 e 2, in occasione di modifiche del processo produttivo o della organizzazione del lavoro significative ai fini della salute e sicurezza dei lavoratori, o in relazione al grado di evoluzione della tecnica, della prevenzione o della protezione o a seguito di infortuni significativi o quando i risultati della sorveglianza sanitaria ne evidenzino la necessita'. A seguito di tale rielaborazione, le misure di prevenzione debbono essere aggiornate. Nelle ipotesi di cui ai periodi che precedono il documento di valutazione dei rischi deve essere rielaborato, nel rispetto delle modalita' di cui ai commi 1 e 2, nel termine di trenta giorni dalle rispettive causali. Anche in caso di rielaborazione della valutazione dei rischi, il datore di lavoro deve comunque dare immediata evidenza, attraverso idonea documentazione, dell'aggiornamento delle misure di prevenzione e immediata comunicazione al rappresentante dei lavoratori per la sicurezza. A tale documentazione accede, su richiesta, il rappresentante dei lavoratori per la sicurezza.
 
+4.
+                        
+                            
+                                Il documento di cui all'articolo 17, comma 1, lettera a), e quello di cui all'articolo 26, comma 3, devono essere custoditi presso l'unita' produttiva alla quale si riferisce la valutazione dei rischi. 
+ 5.Fermo restando quanto previsto al comma 6-ter, I datori di lavoro che occupano fino a 10 lavoratori effettuano la valutazione dei rischi di cui al presente articolo sulla base delle procedure standardizzate di cui all'articolo 6, comma 8, lettera f). Fino alla scadenza del terzo mese successivo alla data di entrata in vigore del decreto interministeriale di cui all'articolo 6, comma 8, lettera f), e, comunque, non oltre il 31 dicembre 2012, gli stessi datori di lavoro possono autocertificare l'effettuazione della valutazione dei rischi. Quanto previsto nel precedente periodo non si applica alle attivita' di cui all'articolo 31, comma 6, lettere a), b), c), d) nonche g). (15) 
+ 6. Fermo restando quanto previsto al comma 6-ter, I datori di lavoro che occupano fino a 50 lavoratori possono effettuare la valutazione dei rischi sulla base delle procedure standardizzate di cui all'articolo 6, comma 8, lettera f). Nelle more dell'elaborazione di tali procedure trovano applicazione le disposizioni di cui ai commi 1, 2, 3, e 4. 
+ 6-bis. Le procedure standardizzate di cui al comma 6, anche con riferimento alle aziende che rientrano nel campo di applicazione del titolo IV, sono adottate nel rispetto delle disposizioni di cui all'articolo 28. 
+ 6-ter. Con decreto del Ministro del lavoro e delle politiche sociali, da adottare, sulla base delle indicazioni della Commissione consultiva permanente per la salute e sicurezza sul lavoro e previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono individuati settori di attivita' a basso rischio di infortuni e malattie professionali, sulla base di criteri e parametri oggettivi, desunti dagli indici infortunistici dell'INAIL e relativi alle malattie professionali di settore e specifiche della singola azienda.
+Il decreto di cui al primo periodo reca in allegato il modello con il quale, fermi restando i relativi obblighi, i datori di lavoro delle aziende che operano nei settori di attivita' a basso rischio infortunistico possono dimostrare di aver effettuato la valutazione dei rischi di cui agli articoli 17 e 28 e al presente articolo. Resta ferma la facolta' delle aziende di utilizzare le procedure standardizzate previste dai commi 5 e 6 del presente articolo. (19)  6-quater. Con decreto del Ministro del lavoro e delle politiche sociali, da adottarsi previo parere della Commissione consultiva permanente per la salute e sicurezza sul lavoro, sono individuati strumenti di supporto per la valutazione dei rischi di cui agli articoli 17 e 28 e al presente articolo, tra i quali gli strumenti informatizzati secondo il prototipo europeo OIRA (Online Interactive Risk Assessment). 
+ 7. Le disposizioni di cui al comma 6 non si applicano alle attivita' svolte nelle seguenti aziende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aziende di cui all'articolo 31, comma 6, lettere a), b), c), d), f) e g); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aziende in cui si svolgono attivita' che espongono i lavoratori a rischi chimici, biologici, da atmosfere esplosive, ((cancerogeni, mutageni, da sostanze tossiche per la riproduzione)), connessi all'esposizione ad amianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 3 AGOSTO 2009, N.106. (9)
+
 -------------
                             AGGIORNAMENTO (9)
                             
@@ -547,6 +2375,66 @@ La valutazione dei rischi deve essere immediatamente rielaborata, nel rispetto d
  Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 2013, n. 98 ha disposto (con l'art. 32, comma 2) che "I decreti di cui agli articoli 29, comma 6-ter e 104-bis, del decreto legislativo 9 aprile 2008, n. 81, introdotti dal comma 1, lettere b), ed h), del presente articolo sono adottati, rispettivamente, entro novanta giorni e sessanta giorni dalla data di entrata in vigore del presente decreto.".
 
 ## Art. 30. — Modelli di organizzazione e di gestione
+
+1.
+                        
+                            
+                                Il modello di organizzazione e di gestione idoneo ad avere efficacia esimente della responsabilita' amministrativa delle persone giuridiche, delle societa' e delle associazioni anche prive di personalita' giuridica di cui al decreto legislativo 8 giugno 2001, n. 231, deve essere adottato ed efficacemente attuato, assicurando un sistema aziendale per l'adempimento di tutti gli obblighi giuridici relativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al rispetto degli standard tecnico-strutturali di legge relativi a attrezzature, impianti, luoghi di lavoro, agenti chimici, fisici e biologici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle attivita' di valutazione dei rischi e di predisposizione delle misure di prevenzione e protezione conseguenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle attivita' di natura organizzativa, quali emergenze, primo soccorso, gestione degli appalti, riunioni periodiche di sicurezza, consultazioni dei rappresentanti dei lavoratori per la sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle attivita' di sorveglianza sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle attivita' di informazione e formazione dei lavoratori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle attivita' di vigilanza con riferimento al rispetto delle procedure e delle istruzioni di lavoro in sicurezza da parte dei lavoratori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alla acquisizione di documentazioni e certificazioni obbligatorie di legge; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alle periodiche verifiche dell'applicazione e dell'efficacia delle procedure adottate.
 
 Il modello organizzativo e gestionale di cui al comma 1 deve prevedere idonei sistemi di registrazione dell'avvenuta effettuazione delle attivita' di cui al comma 1.
 
@@ -583,6 +2471,59 @@ Il ricorso a persone o servizi esterni e' obbligatorio in assenza di dipendenti 
 
 Ove il datore di lavoro ricorra a persone o servizi esterni non e' per questo esonerato dalla propria responsabilita' in materia.
 
+6.
+                        
+                            
+                                L'istituzione del servizio di prevenzione e protezione all'interno dell'azienda, ovvero dell'unita' produttiva, e' comunque obbligatoria nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle aziende industriali di cui all'articolo 2 del decreto legislativo 17 agosto 1999, n. 334, e successive modificazioni, soggette all'obbligo di notifica o rapporto, ai sensi degli articoli 6 e 8 del medesimo decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle centrali termoelettriche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    negli impianti ed installazioni di cui agli articoli 7, 28 e 33 del decreto legislativo 17 marzo 1995, n. 230, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nelle aziende per la fabbricazione ed il deposito separato di esplosivi, polveri e munizioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nelle aziende industriali con oltre 200 lavoratori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nelle industrie estrattive con oltre 50 lavoratori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nelle strutture di ricovero e cura pubbliche e private con oltre 50 lavoratori.
+
 Nelle ipotesi di cui al comma 6 il responsabile del servizio di prevenzione e protezione deve essere interno.
 
 Nei casi di aziende con piu' unita' produttive nonche' nei casi di gruppi di imprese, puo' essere istituito un unico servizio di prevenzione e protezione. I datori di lavoro possono rivolgersi a tale struttura per l'istituzione del servizio e per la designazione degli addetti e del responsabile.
@@ -609,11 +2550,75 @@ E' fatto salvo quanto previsto dall'articolo 34.
 
 Le competenze acquisite a seguito dello svolgimento delle attivita' di formazione di cui al presente articolo nei confronti dei componenti del servizio interno sono registrate nel libretto formativo del cittadino di cui all'articolo 2, comma 1, lettera i), del decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni, se concretamente disponibile in quanto attivato nel rispetto delle vigenti disposizioni.
 
+8.
+                        
+                            
+                                Negli istituti di istruzione, di formazione professionale e universitari e nelle istituzioni dell'alta formazione artistica e coreutica, il datore di lavoro che non opta per lo svolgimento diretto dei compiti propri del servizio di prevenzione e protezione dei rischi designa il responsabile del servizio di prevenzione e protezione, individuandolo tra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il personale interno all'unita' scolastica in possesso dei requisiti di cui al presente articolo che si dichiari a tal fine disponibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il personale interno ad una unita' scolastica in possesso dei requisiti di cui al presente articolo che si dichiari disponibile ad operare in una pluralita' di istituti.
+
 In assenza di personale di cui alle lettere a) e b) del comma 8, gruppi di istituti possono avvalersi in maniera comune dell'opera di un unico esperto esterno, tramite stipula di apposita convenzione, in via prioritaria con gli enti locali proprietari degli edifici scolastici e, in via subordinata, con enti o istituti specializzati in materia di salute e sicurezza sul lavoro o con altro esperto esterno libero professionista.
 
 Nei casi di cui al comma 8 il datore di lavoro che si avvale di un esperto esterno per ricoprire l'incarico di responsabile del servizio deve comunque organizzare un servizio di prevenzione e protezione con un adeguato numero di addetti.
 
 ## Art. 33. — Compiti del servizio di prevenzione e protezione
+
+1.
+                        
+                            
+                                Il servizio di prevenzione e protezione dai rischi professionali provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'individuazione dei fattori di rischio, alla valutazione dei rischi e all'individuazione delle misure per la sicurezza e la salubrita' degli ambienti di lavoro, nel rispetto della normativa vigente sulla base della specifica conoscenza dell'organizzazione aziendale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad elaborare, per quanto di competenza, le misure preventive e protettive di cui all'articolo 28, comma 2, e i sistemi di controllo di tali misure;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad elaborare le procedure di sicurezza per le varie attivita' aziendali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a proporre i programmi di informazione e formazione dei lavoratori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a partecipare alle consultazioni in materia di tutela della salute e sicurezza sul lavoro, nonche' alla riunione periodica di cui all'articolo 35;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a fornire ai lavoratori le informazioni di cui all'articolo 36.
 
 I componenti del servizio di prevenzione e protezione sono tenuti al segreto in ordine ai processi lavorativi di cui vengono a conoscenza nell'esercizio delle funzioni di cui al presente decreto legislativo.
 
@@ -632,6 +2637,88 @@ Il datore di lavoro che svolge i compiti di cui al comma 1 e' altresi' tenuto a 
 
 ## Art. 35. — Riunione periodica
 
+1.
+                        
+                            
+                                Nelle aziende e nelle unita' produttive che occupano piu' di 15 lavoratori, il datore di lavoro, direttamente o tramite il servizio di prevenzione e protezione dai rischi, indice almeno una volta all'anno una riunione cui partecipano:
+ 
+                            
+                            
+                                a)
+                                
+                                    il datore di lavoro o un suo rappresentante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il responsabile del servizio di prevenzione e protezione dai rischi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il medico competente, ove nominato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rappresentante dei lavoratori per la sicurezza.
+
+2.
+                        
+                            
+                                Nel corso della riunione il datore di lavoro sottopone all'esame dei partecipanti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il documento di valutazione dei rischi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'andamento degli infortuni e delle malattie professionali e della sorveglianza sanitaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri di scelta, le caratteristiche tecniche e l'efficacia dei dispositivi di protezione individuale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i programmi di informazione e formazione dei dirigenti, dei preposti e dei lavoratori ai fini della sicurezza e della protezione della loro salute.
+
+3.
+                        
+                            
+                                Nel corso della riunione possono essere individuati:
+ 
+                            
+                            
+                                a)
+                                
+                                    codici di comportamento e buone prassi per prevenire i rischi di infortuni e di malattie professionali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    obiettivi di miglioramento della sicurezza complessiva sulla base delle linee guida per un sistema di gestione della salute e sicurezza sul lavoro.
+
 La riunione ha altresi' luogo in occasione di eventuali significative variazioni delle condizioni di esposizione al rischio, compresa la programmazione e l'introduzione di nuove tecnologie che hanno riflessi sulla sicurezza e salute dei lavoratori. Nelle ipotesi di cui al presente articolo, nelle unita' produttive che occupano fino a 15 lavoratori e' facolta' del rappresentante dei lavoratori per la sicurezza chiedere la convocazione di un'apposita riunione.
 
 Della riunione deve essere redatto un verbale che e' a disposizione dei partecipanti per la sua consultazione.
@@ -640,14 +2727,147 @@ Della riunione deve essere redatto un verbale che e' a disposizione dei partecip
 
 ## Art. 36. — Informazione ai lavoratori
 
+1.
+                        
+                            
+                                Il datore di lavoro provvede affinche' ciascun lavoratore riceva una adeguata informazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sui rischi per la salute e sicurezza sul lavoro connessi alla attivita' della impresa in generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulle procedure che riguardano il primo soccorso, la lotta antincendio, l'evacuazione dei luoghi di lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sui nominativi dei lavoratori incaricati di applicare le misure di cui agli articoli 45 e 46; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sui nominativi del responsabile e degli addetti del servizio di prevenzione e protezione, e del medico competente.
+
+2.
+                        
+                            
+                                Il datore di lavoro provvede altresi' affinche' ciascun lavoratore riceva una adeguata informazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sui rischi specifici cui e' esposto in relazione all'attivita' svolta, le normative di sicurezza e le disposizioni aziendali in materia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sui pericoli connessi all'uso delle sostanze e dei ((miscele pericolose)) sulla base delle schede dei dati di sicurezza previste dalla normativa vigente e dalle norme di buona tecnica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sulle misure e le attivita' di protezione e prevenzione adottate.
+
 Il datore di lavoro fornisce le informazioni di cui al comma 1, lettera a), e al comma 2, lettere a), b) e c), anche ai lavoratori di cui all'articolo 3, comma 9.
 
 Il contenuto della informazione deve essere facilmente comprensibile per i lavoratori e deve consentire loro di acquisire le relative conoscenze. Ove la informazione riguardi lavoratori immigrati, essa avviene previa verifica della comprensione della lingua utilizzata nel percorso informativo.
 
 ## Art. 37. — Formazione dei lavoratori e dei loro rappresentanti
 
+1.
+                        
+                            
+                                Il datore di lavoro assicura che ciascun lavoratore riceva una formazione sufficiente ed adeguata in materia di salute e sicurezza, anche rispetto alle conoscenze linguistiche, con particolare riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concetti di rischio, danno, prevenzione, protezione, organizzazione della prevenzione aziendale, diritti e doveri dei vari soggetti aziendali, organi di vigilanza, controllo, assistenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rischi riferiti alle mansioni e ai possibili danni e alle conseguenti misure e procedure di prevenzione e protezione caratteristici del settore o comparto di appartenenza dell'azienda.
+
+2.
+                        
+                            
+                                La durata, i contenuti minimi e le modalita' della formazione di cui al comma 1 sono definiti mediante accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano adottato, previa consultazione delle parti sociali, entro il termine di dodici mesi dalla data di entrata in vigore del presente decreto legislativo. Entro il 30 giugno 2022, la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano adotta un accordo nel quale provvede all'accorpamento, alla rivisitazione e alla modifica degli accordi attuativi del presente decreto in materia di formazione, in modo da garantire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'individuazione della durata, dei contenuti minimi e delle modalita' della formazione obbligatoria a carico del datore di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'individuazione delle modalita' della verifica finale di apprendimento obbligatoria per i discenti di tutti i percorsi formativi e di aggiornamento obbligatori in materia di salute e sicurezza sul lavoro e delle modalita' delle verifiche di efficacia della formazione durante lo svolgimento della prestazione lavorativa; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    il monitoraggio dell'applicazione degli accordi in materia di formazione, nonche' il controllo sulle attivita' formative e sul rispetto della normativa di riferimento, sia da parte dei soggetti che erogano la formazione, sia da parte dei soggetti destinatari della stessa.
+
 Il datore di lavoro assicura, altresi', che ciascun lavoratore riceva una formazione sufficiente ed adeguata in merito ai rischi specifici di cui ai titoli del presente decreto successivi al I.
 Ferme restando le disposizioni gia' in vigore in materia, la formazione di cui al periodo che precede e' definita mediante l'accordo di cui al comma 2.
+
+4.
+                        
+                            
+                                La formazione e, ove previsto, l'addestramento specifico devono avvenire in occasione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della costituzione del rapporto di lavoro o dell'inizio dell'utilizzazione qualora si tratti di somministrazione di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del trasferimento o cambiamento di mansioni; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((dei periodi di cassa integrazione guadagni, sia in caso di sospensione che in caso di riduzione dell'orario di lavoro)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della introduzione di nuove attrezzature di lavoro o di nuove tecnologie, di nuove sostanze e miscele pericolose.
 
 ((L'addestramento e' effettuato da persona esperta e sul luogo di lavoro. L'addestramento consiste nella prova pratica per l'uso corretto e in sicurezza di attrezzature, macchine, impianti, sostanze, dispositivi, anche di protezione individuale; include altresi' l'esercitazione applicata per le procedure di lavoro in sicurezza. Gli interventi di addestramento possono essere effettuati anche mediante l'uso di moderne tecnologie di simulazione in ambiente reale o virtuale e devono essere tracciati in apposito registro, anche informatizzato)).
 
@@ -679,6 +2899,45 @@ In tutti i casi di formazione ed aggiornamento, previsti dal presente decreto le
 
 ## Art. 38. — Titoli e requisiti del medico competente
 
+1.
+                        
+                            
+                                Per svolgere le funzioni di medico competente e' necessario possedere uno dei seguenti titoli o requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    specializzazione in medicina del lavoro o in medicina preventiva dei lavoratori e psicotecnica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    docenza in medicina del lavoro o in medicina preventiva dei lavoratori e psicotecnica o in tossicologia industriale o in igiene industriale o in fisiologia e igiene del lavoro o in clinica del lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autorizzazione di cui all'articolo 55 del decreto legislativo 15 agosto 1991, n. 277; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    specializzazione in igiene e medicina preventiva o in medicina legale. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    con esclusivo riferimento al ruolo dei sanitari delle Forze armate, compresa l'Arma dei carabinieri, della Polizia di Stato e della Guardia di finanza, svolgimento di attivita' di medico nel settore del lavoro per almeno quattro anni.
+
 I medici in possesso dei titoli di cui al comma 1, lettera d), sono tenuti a frequentare appositi percorsi formativi universitari da definire con apposito decreto del Ministero dell'universita' e della ricerca di concerto con il Ministero del lavoro, della salute e delle politiche sociali. I soggetti di cui al precedente periodo i quali, alla data di entrata in vigore del presente decreto, svolgano le attivita' di medico competente o dimostrino di avere svolto tali attivita' per almeno un anno nell'arco dei tre anni anteriori all'entrata in vigore del presente decreto legislativo, sono abilitati a svolgere le medesime funzioni. A tal fine sono tenuti a produrre alla Regione attestazione del datore di lavoro comprovante l'espletamento di tale attivita'.
 
 Per lo svolgimento delle funzioni di medico competente e' altresi' necessario partecipare al programma di educazione continua in medicina ai sensi del decreto legislativo 19 giugno 1999, n. 229, e successive modificazioni e integrazioni, a partire dal programma triennale successivo all'entrata in vigore del presente decreto legislativo. I crediti previsti dal programma triennale dovranno essere conseguiti nella misura non inferiore al 70 per cento del totale nella disciplina "medicina del lavoro e sicurezza degli ambienti di lavoro".
@@ -690,6 +2949,31 @@ I medici in possesso dei titoli e dei requisiti di cui al presente articolo sono
 ## Art. 39. — Svolgimento dell'attivita' di medico competente
 
 L'attivita' di medico competente e' svolta secondo i principi della medicina del lavoro e del codice etico della Commissione internazionale di salute occupazionale (ICOH).
+
+2.
+                        
+                            
+                                Il medico competente svolge la propria opera in qualita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dipendente o collaboratore di una struttura esterna pubblica o privata, convenzionata con l'imprenditore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    libero professionista; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dipendente del datore di lavoro.
 
 ((Con decreto del Ministro della salute, da adottare entro dodici mesi dalla data di entrata in vigore della presente disposizione, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono definiti i requisiti delle strutture di cui al comma 2, lettera a).))
 
@@ -716,13 +3000,150 @@ Gli obblighi di redazione e trasmissione relativi alle informazioni di cui al co
 
 ## Art. 41. — Sorveglianza sanitaria
 
+1.
+                        
+                            
+                                La sorveglianza sanitaria e' effettuata dal medico competente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi previsti dalla normativa vigente, dalle indicazioni fornite dalla Commissione consultiva di cui all'articolo 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora il lavoratore ne faccia richiesta e la stessa sia ritenuta dal medico competente correlata ai rischi lavorativi.
+
+2.
+                        
+                            
+                                La sorveglianza sanitaria comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    visita medica preventiva, anche in fase preassuntiva, intesa a constatare l'assenza di controindicazioni al lavoro cui il lavoratore e' destinato al fine di valutare la sua idoneita' alla mansione specifica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    visita medica periodica per controllare lo stato di salute dei lavoratori ed esprimere il giudizio di idoneita' alla mansione specifica. La periodicita' di tali accertamenti, qualora non prevista dalla relativa normativa, viene stabilita, di norma, in una volta l'anno. Tale periodicita' puo' assumere cadenza diversa, stabilita dal medico competente in funzione della valutazione del rischio.
+L'organo di vigilanza, con provvedimento motivato, puo' disporre contenuti e periodicita' della sorveglianza sanitaria differenti rispetto a quelli indicati dal medico competente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    visita medica su richiesta del lavoratore, qualora sia ritenuta dal medico competente correlata ai rischi professionali o alle sue condizioni di salute, suscettibili di peggioramento a causa dell'attivita' lavorativa svolta, al fine di esprimere il giudizio di idoneita' alla mansione specifica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    visita medica in occasione del cambio della mansione onde verificare l'idoneita' alla mansione specifica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    visita medica alla cessazione del rapporto di lavoro nei casi previsti dalla normativa vigente. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    LETTERA ABROGATA DALLA L. 13 DICEMBRE 2024, N. 203; 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    visita medica precedente alla ripresa del lavoro, a seguito di assenza per motivi di salute di durata superiore ai sessanta giorni continuativi, qualora sia ritenuta necessaria dal medico competente al fine di verificare l'idoneita' alla mansione.
+Qualora non ritenga necessario procedere alla visita, il medico competente e' tenuto a esprimere il giudizio di idoneita' alla mansione specifica. 
+
+                                
+                            
+                            
+                                e-quater)
+                                
+                                    visita medica, effettuata prima o durante il turno lavorativo, in presenza di ragionevole motivo di ritenere che il lavoratore si trovi sotto l'effetto conseguente all'uso di alcol o di sostanze stupefacenti o psicotrope, finalizzata alla verifica che il lavoratore non si trovi ((sotto l'effetto)) delle predette sostanze, per le attivita' lavorative ad elevato rischio infortuni individuate ai sensi dell'articolo 15 della legge 30 marzo 2001, n. 125, e dell'articolo 125 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, nel rispetto delle disposizioni vigenti in materia di controlli relativi all'assunzione di ((alcol)) e di sostanze stupefacenti, psicotrope o psicoattive
+
 Il medico competente, nella prescrizione di esami clinici e biologici e di indagini diagnostiche ritenuti necessari in sede di visita preventiva, tiene conto delle risultanze dei medesimi esami e indagini gia' effettuati dal lavoratore e risultanti dalla copia della cartella sanitaria e di rischio in possesso del lavoratore stesso ai sensi dell'articolo 25, comma 1, lettera e), al fine di evitarne la ripetizione, qualora cio' sia ritenuto compatibile dal medico competente con le finalita' della visita preventiva.
+
+3.
+                        
+                            
+                                Le visite mediche di cui al comma 2 non possono essere effettuate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA SOPPRESSA DAL D. LGS. 3 AGOSTO 2009, N. 106; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per accertare stati di gravidanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    negli altri casi vietati dalla normativa vigente.
 
 Le visite mediche di cui al comma 2, a cura e spese del datore di lavoro, comprendono gli esami clinici e biologici e indagini diagnostiche mirati al rischio ritenuti necessari dal medico competente. Nei casi ed alle condizioni previste dall'ordinamento, le visite di cui al comma 2, lettere a), b), d), ((e-ter) ed e-quater)) sono altresi' finalizzate alla verifica di assenza di condizioni di alcol dipendenza e di assunzione di sostanze psicotrope e stupefacenti.
 
 Entro il 31 dicembre 2026, mediante accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome ((di Trento e di Bolzano)), concluso previa consultazione delle parti sociali, vengono rivisitate le condizioni e le modalita' per l'accertamento della tossicodipendenza e dell'alcol dipendenza. ((In caso di mancato raggiungimento dell'accordo,)) Il Ministro della salute, di concerto con il Ministro del lavoro e delle politiche sociali, trascorsi sessanta giorni dal termine di cui al primo periodo, e' autorizzato a intervenire con proprio decreto per l'attuazione di quanto stabilito dal medesimo primo periodo.
 
 Gli esiti della visita medica devono essere allegati alla cartella sanitaria e di rischio di cui all'articolo 25, comma 1, lettera c), secondo i requisiti minimi contenuti nell'Allegato 3A e predisposta su formato cartaceo o informatizzato, secondo quanto previsto dall'articolo 53.
+
+6.
+                        
+                            
+                                Il medico competente, sulla base delle risultanze delle visite mediche di cui al comma 2, esprime uno dei seguenti giudizi relativi alla mansione specifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    idoneita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' parziale, temporanea o permanente, con prescrizioni o limitazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inidoneita' temporanea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    inidoneita' permanente.
 
 Nei casi di cui al comma 6 il medico competente esprime il proprio giudizio per iscritto dando copia del giudizio medesimo al lavoratore e al datore di lavoro.
 
@@ -745,6 +3166,52 @@ Il datore di lavoro, anche in considerazione di quanto disposto dalla legge 12 m
 ## - Sezione VI GESTIONE DELLE EMERGENZE
 
 ## Art. 43. — Disposizioni generali
+
+1.
+                        
+                            
+                                Ai fini degli adempimenti di cui all'articolo 18, comma 1, lettera t), il datore di lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    organizza i necessari rapporti con i servizi pubblici competenti in materia di primo soccorso, salvataggio, lotta antincendio e gestione dell'emergenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    designa preventivamente i lavoratori di cui all'articolo 18, comma 1, lettera b);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    informa tutti i lavoratori che possono essere esposti a un pericolo grave e immediato circa le misure predisposte e i comportamenti da adottare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    programma gli interventi, prende i provvedimenti e da' istruzioni affinche' i lavoratori, in caso di pericolo grave e immediato che non puo' essere evitato, possano cessare la loro attivita', o mettersi al sicuro, abbandonando immediatamente il luogo di lavoro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adotta i provvedimenti necessari affinche' qualsiasi lavoratore, in caso di pericolo grave ed immediato per la propria sicurezza o per quella di altre persone e nell'impossibilita' di contattare il competente superiore gerarchico, possa prendere le misure adeguate per evitare le conseguenze di tale pericolo, tenendo conto delle sue conoscenze e dei mezzi tecnici disponibili.
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    garantisce la presenza di mezzi di estinzione idonei alla classe di incendio ed al livello di rischio presenti sul luogo di lavoro, tenendo anche conto delle particolari condizioni in cui possono essere usati. L'obbligo si applica anche agli impianti di estinzione fissi, manuali o automatici, individuati in relazione alla valutazione dei rischi.
 
 Ai fini delle designazioni di cui al comma 1, lettera b), il datore di lavoro tiene conto delle dimensioni dell'azienda e dei rischi specifici dell'azienda o della unita' produttiva secondo i criteri previsti nei decreti di cui all'articolo 46.
 
@@ -774,6 +3241,28 @@ La prevenzione incendi e' la funzione di preminente interesse pubblico, di esclu
 
 Nei luoghi di lavoro soggetti al presente decreto legislativo devono essere adottate idonee misure per prevenire gli incendi e per tutelare l'incolumita' dei lavoratori.
 
+3.
+                        
+                            
+                                Fermo restando quanto previsto dal decreto legislativo 8 marzo 2006, n. 139 e dalle disposizioni concernenti la prevenzione incendi di cui al presente decreto, i Ministri dell'interno, del lavoro e della previdenza sociale, in relazione ai fattori di rischio, adottano uno o piu' decreti nei quali sono definiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri diretti atti ad individuare:
+ 1) misure intese ad evitare l'insorgere di un incendio ed a limitarne le conseguenze qualora esso si verifichi;
+ 2) misure precauzionali di esercizio;
+ 3) metodi di controllo e manutenzione degli impianti e delle attrezzature antincendio;
+ 4) criteri per la gestione delle emergenze;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche dello specifico servizio di prevenzione e protezione antincendio, compresi i requisiti del personale addetto e la sua formazione.
+
 Fino all'adozione dei decreti di cui al comma 3, continuano ad applicarsi i criteri generali di sicurezza antincendio e per la gestione delle emergenze nei luoghi di lavoro di cui al decreto del Ministro dell'interno in data 10 marzo 1998.
 
 Al fine di favorire il miglioramento dei livelli di sicurezza antincendio nei luoghi di lavoro, ed ai sensi dell'articolo 14, comma 2, lettera h), del decreto legislativo 8 marzo 2006, n. 139, con decreto del Ministro dell'interno sono istituiti, presso ogni direzione regionale dei vigili del fuoco, dei nuclei specialistici per l'effettuazione di una specifica attivita' di assistenza alle aziende. Il medesimo decreto contiene le procedure per l'espletamento della attivita' di assistenza.
@@ -801,6 +3290,28 @@ Il numero, le modalita' di designazione o di elezione del rappresentante dei lav
 L'elezione dei rappresentanti dei lavoratori per la sicurezza aziendali, territoriali o di comparto, salvo diverse determinazioni in sede di contrattazione collettiva, avviene di norma in corrispondenza della giornata nazionale per la salute e sicurezza sul lavoro, individuata, nell'ambito della settimana europea per la salute e sicurezza sul lavoro, con decreto del ((Ministro del lavoro, della salute e delle politiche sociali)) di concerto con il ((Ministro del lavoro, della salute e delle politiche sociali)), sentite le confederazioni sindacali dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative sul piano nazionale.
 Con il medesimo decreto sono disciplinate le modalita' di attuazione del presente comma.
 
+7.
+                        
+                            
+                                In ogni caso il numero minimo dei rappresentanti di cui al comma 2 e' il seguente: 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante nelle aziende ovvero unita' produttive sino a 200 lavoratori;
+                                
+                            
+                            
+                                b)
+                                
+                                    tre rappresentanti nelle aziende ovvero unita' produttive da 201 a 1.000 lavoratori;
+                                
+                            
+                            
+                                c)
+                                
+                                    sei rappresentanti in tutte le altre aziende o unita' produttive oltre i 1.000 lavoratori. In tali aziende il numero dei rappresentanti e' aumentato nella misura individuata dagli accordi interconfederali o dalla contrattazione collettiva.
+
 Qualora non si proceda alle elezioni previste dai commi 3 e 4, le funzioni di rappresentante dei lavoratori per la sicurezza sono esercitate dai rappresentanti di cui agli articoli 48 e 49, salvo diverse intese tra le associazioni sindacali dei lavoratori e dei datori di lavoro comparativamente piu' rappresentative sul piano nazionale.
 
 ## Art. 48. — Rappresentante dei lavoratori per la sicurezza territoriale
@@ -823,11 +3334,145 @@ L'esercizio delle funzioni di rappresentante dei lavoratori per la sicurezza ter
 
 ## Art. 49. — Rappresentante dei lavoratori per la sicurezza di sito produttivo
 
+1.
+                        
+                            
+                                Rappresentanti dei lavoratori per la sicurezza di sito produttivo sono individuati nei seguenti specifici contesti produttivi caratterizzati dalla compresenza di piu' aziende o cantieri:
+ 
+                            
+                            
+                                a)
+                                
+                                    i porti di cui all'articolo 4, comma 1, lettere b), c) e d), della legge 28 gennaio 1994, n. 84, sedi di autorita' portuale nonche' quelli sede di autorita' marittima da individuare con decreto dei Ministri del lavoro e della previdenza sociale e dei trasporti, da adottare entro dodici mesi dalla data di entrata in vigore del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    centri intermodali di trasporto di cui alla direttiva del Ministro dei trasporti del 18 ottobre 2006, n. 3858;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impianti siderurgici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cantieri con almeno 30.000 uomini-giorno, intesa quale entita' presunta dei cantieri, rappresentata dalla somma delle giornate lavorative prestate dai lavoratori, anche autonomi, previste per la realizzazione di tutte le opere;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    contesti produttivi con complesse problematiche legate alla interferenza delle lavorazioni e da un numero complessivo di addetti mediamente operanti nell'area superiore a 500.
+
 Nei contesti di cui al comma precedente il rappresentante dei lavoratori per la sicurezza di sito produttivo e' individuato, su loro iniziativa, tra i rappresentanti dei lavoratori per la sicurezza delle aziende operanti nel sito produttivo.
 
 La contrattazione collettiva stabilisce le modalita' di individuazione di cui al comma 2, nonche' le modalita' secondo cui il rappresentante dei lavoratori per la sicurezza di sito produttivo esercita le attribuzioni di cui all'articolo 50 in tutte le aziende o cantieri del sito produttivo in cui non vi siano rappresentanti per la sicurezza e realizza il coordinamento tra i rappresentanti dei lavoratori per la sicurezza del medesimo sito.
 
 ## Art. 50. — Attribuzioni del rappresentante dei lavoratori per la sicurezza
+
+1.
+                        
+                            
+                                Fatto salvo quanto stabilito in sede di contrattazione collettiva, il rappresentante dei lavoratori per la sicurezza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accede ai luoghi di lavoro in cui si svolgono le lavorazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' consultato preventivamente e tempestivamente in ordine alla valutazione dei rischi, alla individuazione, programmazione, realizzazione e verifica della prevenzione nella azienda o unita' produttiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' consultato sulla designazione del responsabile e degli addetti al servizio di prevenzione, alla attivita' di prevenzione incendi, al primo soccorso, alla evacuazione dei luoghi di lavoro e del medico competente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' consultato in merito all'organizzazione della formazione di cui all'articolo 37; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    riceve le informazioni e la documentazione aziendale inerente alla valutazione dei rischi e le misure di prevenzione relative, nonche' quelle inerenti alle sostanze ed ai ((miscele pericolose)), alle macchine, agli impianti, alla organizzazione e agli ambienti di lavoro, agli infortuni ed alle malattie professionali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    riceve le informazioni provenienti dai servizi di vigilanza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    riceve una formazione adeguata e, comunque, non inferiore a quella prevista dall'articolo 37; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    promuove l'elaborazione, l'individuazione e l'attuazione delle misure di prevenzione idonee a tutelare la salute e l'integrita' fisica dei lavoratori; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    formula osservazioni in occasione di visite e verifiche effettuate dalle autorita' competenti, dalle quali e', di norma, sentito; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    partecipa alla riunione periodica di cui all'articolo 35; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    fa proposte in merito alla attivita' di prevenzione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    avverte il responsabile della azienda dei rischi individuati nel corso della sua attivita'; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    puo' fare ricorso alle autorita' competenti qualora ritenga che le misure di prevenzione e protezione dai rischi adottate dal datore di lavoro o dai dirigenti e i mezzi impiegati per attuarle non siano idonei a garantire la sicurezza e la salute durante il lavoro.
 
 Il rappresentante dei lavoratori per la sicurezza deve disporre del tempo necessario allo svolgimento dell'incarico senza perdita di retribuzione, nonche' dei mezzi e degli spazi necessari per l'esercizio delle funzioni e delle facolta' riconosciutegli, anche tramite l'accesso ai dati, di cui all'articolo 18, comma 1, lettera r), contenuti in applicazioni informatiche. Non puo' subire pregiudizio alcuno a causa dello svolgimento della propria attivita' e nei suoi confronti si applicano le stesse tutele previste dalla legge per le rappresentanze sindacali.
 
@@ -867,9 +3512,98 @@ Gli organismi di cui al presente articolo trasmettono al Comitato di cui all'art
 
 Gli organismi paritetici comunicano alle aziende di cui all'articolo 48, comma 2, i nominativi dei rappresentanti dei lavoratori per la sicurezza territoriale. PERIODO SOPPRESSO DAL D.L. 31 OTTOBRE 2025, N. 159, CONVERTITO CON MODIFICAZIONI DALLA L. 29 DICEMBRE 2025, N. 198.
 
+8-bis.
+                        
+                            
+                                Gli organismi paritetici, per il tramite dell'INAIL, comunicano annualmente, nel rispetto delle disposizioni di cui al regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, agli organi di vigilanza territorialmente competenti, ((e all'Ispettorato nazionale del lavoro)) i dati relativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle imprese che hanno aderito al sistema degli organismi paritetici e a quelle che hanno svolto l'attivita' di formazione organizzata dagli stessi organismi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai rappresentanti dei lavoratori per la sicurezza territoriale di cui al comma 8; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al rilascio delle asseverazioni di cui al comma 3-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle aziende ((per le quali sono stati effettuati)) la consulenza e il monitoraggio con esito positivo.
+
 I dati di cui al comma 8-bis sono utilizzati ai fini della individuazione di criteri di priorita' nella programmazione della vigilanza e di criteri di premialita' nell'ambito della determinazione degli oneri assicurativi da parte dell'INAIL. Per la definizione dei suddetti criteri si tiene conto del fatto che le imprese facenti parte degli organismi paritetici aderiscono ad un sistema paritetico volontario che ha come obiettivo primario la prevenzione sul luogo di lavoro.
 
 ## Art. 52. — Sostegno alla piccola e media impresa, ai rappresentanti dei lavoratori per la sicurezza territoriali e alla pariteticita'
+
+1.
+                        
+                            
+                                Presso l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL) e' costituito il fondo di sostegno alla piccola e media impresa, ai rappresentanti dei lavoratori per la sicurezza territoriali e alla pariteticita'. Il fondo opera a favore delle realta' in cui la contrattazione nazionale o integrativa non preveda o costituisca, come nel settore edile, sistemi di rappresentanza dei lavoratori e di pariteticita' migliorativi o, almeno, di pari livello ed ha quali obiettivi il: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostegno ed il finanziamento, in misura non inferiore al cinquanta per cento delle disponibilita' del Fondo, delle attivita' delle rappresentanze dei lavoratori per la sicurezza territoriali, anche con riferimento alla formazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    finanziamento della formazione dei datori di lavoro delle piccole e medie imprese, dei piccoli imprenditori di cui all'articolo 2083 del codice civile, dei lavoratori stagionali del settore agricolo e dei lavoratori autonomi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostegno delle attivita' degli organismi paritetici.
+
+2.
+                        
+                            
+                                Il fondo di cui al comma 1 e' finanziato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da un contributo delle aziende di cui all'articolo 48, comma 3, in misura pari a due ore lavorative annue per ogni lavoratore occupato presso l'azienda ovvero l'unita' produttiva calcolate sulla base della retribuzione media giornaliera per il settore industria e convenzionale per il settore agricoltura determinate annualmente per il calcolo del minimale e massimale delle prestazioni economiche erogate dall'INAIL. Il computo dei lavoratori e' effettuato in base all'articolo 4 e la giornata lavorativa convenzionale e' stabilita in 8 ore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 3 AGOSTO 2009, N.106; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 3 AGOSTO 2009, N.106; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 3 AGOSTO 2009, N.106.
 
 Con decreto del Ministro del lavoro, della salute e delle politiche sociali e del Ministro del lavoro, della salute e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, adottato, previa intesa con le associazioni dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative sul piano nazionale, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ((entro il 30 giugno 2022)), sono definiti le modalita' di funzionamento e di articolazione settoriale e territoriale del Fondo del fondo di cui al comma 1, i criteri di riparto delle risorse tra le finalita' di cui al medesimo comma nonche' il relativo procedimento amministrativo e contabile di alimentazione e la composizione e le funzioni del comitato amministratore del fondo.
 
@@ -882,6 +3616,59 @@ Il rappresentante dei lavoratori per la sicurezza territoriale redige una relazi
 ## Art. 53. — Tenuta della documentazione
 
 E' consentito l'impiego di sistemi di elaborazione automatica dei dati per la memorizzazione di qualunque tipo di documentazione prevista dal presente decreto legislativo.
+
+2.
+                        
+                            
+                                Le modalita' di memorizzazione dei dati e di accesso al sistema di gestione della predetta documentazione devono essere tali da assicurare che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accesso alle funzioni del sistema sia consentito solo ai soggetti a cio' espressamente abilitati dal datore di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la validazione delle informazioni inserite sia consentito solo alle persone responsabili, in funzione della natura dei dati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le operazioni di validazione dei dati di cui alla lettera b) siano univocamente riconducibili alle persone responsabili che le hanno effettuate mediante la memorizzazione di codice identificativo autogenerato dagli stessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le eventuali informazioni di modifica, ivi comprese quelle inerenti alle generalita' e ai dati occupazionali del lavoratore, siano solo aggiuntive a quelle gia' memorizzate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sia possibile riprodurre su supporti a stampa, sulla base dei singoli documenti, ove previsti dal presente decreto legislativo, le informazioni contenute nei supporti di memoria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le informazioni siano conservate almeno su due distinti supporti informatici di memoria e siano implementati programmi di protezione e di controllo del sistema da codici virali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sia redatta, a cura dell'esercente del sistema, una procedura in cui siano dettagliatamente descritte le operazioni necessarie per la gestione del sistema medesimo. Nella procedura non devono essere riportati i codici di accesso.
 
 Nel caso in cui le attivita' del datore di lavoro siano articolate su vari sedi geografiche o organizzate in distinti settori funzionali, l'accesso ai dati puo' avvenire mediante reti di comunicazione elettronica, attraverso la trasmissione della password in modalita' criptata e fermo restando quanto previsto al comma 2 relativamente alla immissione e validazione dei dati da parte delle persone responsabili.
 
@@ -899,15 +3686,120 @@ La trasmissione di documentazione e le comunicazioni a enti o amministrazioni pu
 
 ## Art. 55. — (Sanzioni per il datore di lavoro e il dirigente)
 
+1.
+                        
+                            
+                                E' punito con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro il datore di lavoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la violazione dell'articolo 29, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che non provvede alla nomina del responsabile del servizio di prevenzione e protezione ai sensi dell'articolo 17, comma 1, lettera b), o per la violazione dell'articolo 34, comma 2;
+
+2.
+                        
+                            
+                                Nei casi previsti al comma 1, lettera a), si applica la pena dell'arresto da quattro a otto mesi se la violazione e' commessa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle aziende di cui all'articolo 31, comma 6, lettere a), b), c), d), f) e g); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in aziende in cui si svolgono attivita' che espongono i lavoratori a rischi biologici di cui all'articolo 268, comma 1, lettere c) e d), da atmosfere esplosive, cancerogeni, mutageni, da sostanze tossiche per la riproduzione, e da attivita' di manutenzione, rimozione smaltimento e bonifica di amianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le attivita' disciplinate dal Titolo IV caratterizzate dalla compresenza di piu' imprese e la cui entita' presunta di lavoro non sia inferiore a 200 uomini-giorno.
+
 E' punito con l'ammenda da 2.000 a 4.000 euro il datore di lavoro che adotta il documento di cui all'articolo 17, comma 1, lettera a), in assenza degli elementi di cui all'articolo 28, comma 2, lettere b), c) o d), o senza le modalita' di cui all'articolo 29, commi 2 e 3.
 
 E' punito con l'ammenda da 1.000 a 2.000 euro il datore di lavoro che adotta il documento di cui all'articolo 17, comma 1, lettera a), in assenza degli elementi di cui all'articolo 28, comma 2, lettere a), primo periodo, ed f).
+
+5.
+                        
+                            
+                                Il datore di lavoro e il dirigente sono puniti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 750 a 4.000 euro per la violazione degli articoli 3, comma 12-bis, 18, comma 1, lettera o), 26, comma 1, lettera b), 43, commi 1, lettere a), b), c) ed e), e 4, 45, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 1.000 a 4.800 euro per la violazione dell'articolo 26, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 1.200 a 5.200 euro per la violazione ((dell'obbligo informativo di cui all'articolo 3, comma 7-bis, e)) dell'articolo 18, comma 1, lettere c), e), f) e q), 36, commi 1 e 2, 37, commi 1, 7, 7-ter, 9 e 10, 43, comma 1, lettere d) ed e-bis), 46, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 1.500 a 6.000 euro per la violazione degli articoli 18, comma 1, lettere a), b-bis), d) e z), prima parte, e 26, commi 2, 3, primo periodo, e 8-bis; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    con l'ammenda da 2.000 a 4.000 euro per la violazione degli articoli 18, comma 1, lettere g), n), p), seconda parte, s) e v), 35, comma 4; 
+ f)con la sanzione amministrativa pecuniaria da 2.000 a 6.600 euro per la violazione degli articoli 29, comma 4, 35, comma 2, 41, comma 3; 
+ g) con la sanzione amministrativa pecuniaria da 1.000 a 4.500 euro per la violazione dell'articolo 18, comma 1, lettere r), con riferimento agli infortuni superiori ai tre giorni, bb), e comma 2; 
+ h) con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazione dell'articolo 18, comma 1, lettere g-bis) e r), con riferimento agli infortuni superiori ad un giorno, e dell'articolo 25, comma 1, lettera e), secondo periodo, e dell'articolo 35, comma 5; 
+ i) con la sanzione amministrativa pecuniaria da 100 a 500 euro per ciascun lavoratore, in caso di violazione dell'articolo 26, comma 8; 
+ l) con la sanzione amministrativa pecuniaria da 50 a 300 euro in caso di violazione dell'articolo 18, comma 1, lettera aa).
 
 L'applicazione della sanzione di cui al comma 5, lettera g), con riferimento agli infortuni superiori ai tre giorni, esclude l'applicazione delle sanzioni conseguenti alla violazione dell'articolo 53 del decreto del Presidente della Repubblica 30 giugno 1965, n. 1124.
 
 In caso di violazione delle disposizioni previste dall'articolo 18, comma 1, lettera g), e dall'articolo 37, commi 1, 7, 9 e 10, se la violazione si riferisce a piu' di cinque lavoratori gli importi della sanzione sono raddoppiati, se la violazione si riferisce a piu' di dieci lavoratori gli importi della sanzione sono triplicati.
 
 ## Art. 56. — Sanzioni per il preposto
+
+1.
+                        
+                            
+                                Con riferimento a tutte le disposizioni del presente decreto, i preposti, nei limiti delle proprie attribuzioni e competenze, sono puniti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto fino a due mesi o con l'ammenda da 400 a 1.200 euro per la violazione dell'articolo 19, comma 1, lettere a), c), e) ((, f) e f-bis) )); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto fino a un mese o con l'ammenda da 200 a 800 euro per la violazione dell'articolo 19, comma 1, lettere b), d) e g).
 
 ## Art. 57. — (( (Sanzioni per i progettisti, i fabbricanti, i fornitori e gli installatori) ))
 
@@ -925,11 +3817,68 @@ Gli installatori che violano il disposto dell'articolo 24 sono puniti con l'arre
 
 ((
 
+1.
+                        
+                            
+                                Il medico competente e' punito:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto fino a un mese o con l'ammenda da 200 a euro 800 per la violazione dell'articolo 25, comma 1, lettere d) ed e), primo periodo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto fino a due mesi o con l'ammenda da 300 a 1.200 euro per la violazione dell'articolo 25, comma 1, lettere b),
+                                
+                            
+                            
+                                c)
+                                
+                                    e g);
+ c) con l'arresto fino a tre mesi o con l'ammenda da 400 a 1.600 euro per la violazione dell'articolo 25, comma 1, lettere a), con riferimento alla valutazione dei rischi, e l);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con la sanzione amministrativa pecuniaria da 600 a 2.000 euro per la violazione dell'articolo 25, comma 1, lettere h) e i);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    con la sanzione amministrativa pecuniaria da 1.000 a 4.000 euro per le violazione degli articoli 40, comma 1, e 41, commi 3, 5 e 6-bis.
+
 ))
 
 ## Art. 59. — (( (Sanzioni per i lavoratori) ))
 
 ((
+
+1.
+                        
+                            
+                                I lavoratori sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto fino a un mese o con l'ammenda da 200 a 600 euro per la violazione degli articoli 20, comma 2, lettere b), c), d), e), f), g), h) ed i), e 43, comma 3, primo periodo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con la sanzione amministrativa pecuniaria da 50 a 300 euro per la violazione dell'articolo 20, comma 3.
 
 ))
 
@@ -940,6 +3889,24 @@ Gli installatori che violano il disposto dell'articolo 24 sono puniti con l'arre
  commercianti) ))
 
 ((
+
+1.
+                        
+                            
+                                I soggetti di cui all'articolo 21 sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto fino a un mese o con l'ammenda da 200 a 600 euro per la violazione dell'articolo 21, comma 1, lettere a) e b);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con la sanzione amministrativa pecuniaria da 50 a 300 euro per ciascun soggetto per la violazione dell'articolo 21, comma 1, lettera c).
 
 I lavoratori autonomi sono puniti con la sanzione amministrativa pecuniaria da 50 a 300 euro per la violazione dell'articolo 20, comma 3.
 
@@ -963,6 +3930,39 @@ Ferme restando le disposizioni di cui al titolo I, si intendono per luoghi di la
 
 ))
 
+2.
+                        
+                            
+                                Le disposizioni di cui al presente titolo non si applicano:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai mezzi di trasporto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai cantieri temporanei o mobili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle industrie estrattive;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai pescherecci.
+ (( d-bis): ai campi, ai boschi e agli altri terreni facenti parte di un'azienda agricola o forestale.))
+
 ## Art. 63. — Requisiti di salute e di sicurezza
 
 I luoghi di lavoro devono essere conformi ai requisiti indicati nell'allegato IV.
@@ -983,6 +3983,45 @@ Ove vincoli urbanistici o architettonici ostino agli adempimenti di cui al comma
 
 ## Art. 64. — Obblighi del datore di lavoro
 
+1.
+                        
+                            
+                                Il datore di lavoro provvede affinche':
+ 
+                            
+                            
+                                a)
+                                
+                                    i luoghi di lavoro siano conformi ai requisiti di cui all'articolo 63, commi 1, 2 e 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le vie di circolazione interne o all'aperto che conducono a uscite o ad uscite di emergenza e le uscite di emergenza siano sgombre allo scopo di consentirne l'utilizzazione in ogni evenienza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i luoghi di lavoro, gli impianti e i dispositivi vengano sottoposti a regolare manutenzione tecnica e vengano eliminati, quanto piu' rapidamente possibile, i difetti rilevati che possano pregiudicare la sicurezza e la salute dei lavoratori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i luoghi di lavoro, gli impianti e i dispositivi vengano sottoposti a regolare pulitura, onde assicurare condizioni igieniche adeguate;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli impianti e i dispositivi di sicurezza, destinati alla prevenzione o all'eliminazione dei pericoli, vengano sottoposti a regolare manutenzione e al controllo del loro funzionamento.
+
 ## Art. 65. — Locali sotterranei o semisotterranei
 
 E' vietato destinare al lavoro locali chiusi sotterranei o semisotterranei.
@@ -1002,6 +4041,24 @@ L'apertura di accesso a detti luoghi deve avere dimensioni tali da poter consent
 
 ((
 
+1.
+                        
+                            
+                                In caso di costruzione e di realizzazione di edifici o locali da adibire a lavorazioni industriali, nonche' nei casi di ampliamenti e di ristrutturazioni di quelli esistenti, i relativi lavori devono essere eseguiti nel rispetto della normativa di settore e devono essere comunicati all'organo di vigilanza competente per territorio i seguenti elementi informativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    descrizione dell'oggetto delle lavorazioni e delle principali modalita' di esecuzione delle stesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione delle caratteristiche dei locali e degli impianti.
+
 Il datore di lavoro effettua la comunicazione di cui al comma 1 nell'ambito delle istanze, delle segnalazioni o delle attestazioni presentate allo sportello unico per le attivita' produttive con le modalita' stabilite dal regolamento di cui al decreto del Presidente della Repubblica 7 settembre 2010, n. 160. Entro novanta giorni dalla data di entrata in vigore della presente disposizione, con decreto del Ministro del lavoro e delle politiche sociali e del Ministro per la pubblica amministrazione e la semplificazione, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono individuate, secondo criteri di semplicita' e di comprensibilita', le informazioni da trasmettere e sono approvati i modelli uniformi da utilizzare per i fini di cui al presente articolo.
 
 Le amministrazioni che ricevono le comunicazioni di cui al comma 1 provvedono a trasmettere in via telematica all'organo di vigilanza competente per territorio le informazioni loro pervenute con le modalita' indicate dal comma 2.
@@ -1018,6 +4075,31 @@ Fino alla data di entrata in vigore del decreto di cui al comma 2 trovano applic
 
 ((
 
+1.
+                        
+                            
+                                Il datore di lavoro e il dirigente sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 66;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 1.000 a 4.800 euro per la violazione degli articoli 64, comma 1, e 65, commi 1 e 2;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazione dell'articolo 67, commi 1 e 2.
+
 La violazione di piu' precetti riconducibili alla categoria omogenea di requisiti di sicurezza relativi ai luoghi di lavoro di cui all'allegato IV, punti 1. 1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1. 10, 1.11, 1.12, 1.13, 1.14, 2.1, 2.2, 3, 4, 6.1, 6.2, 6.3, 6.4, 6.5, e 6.6, e' considerata una unica violazione ed e' punita con la pena prevista dal comma 1, lettera b). L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati."
 
 ))
@@ -1025,6 +4107,45 @@ La violazione di piu' precetti riconducibili alla categoria omogenea di requisit
 ## - Titolo III USO DELLE ATTREZZATURE DI LAVORO E DEI DISPOSITIVI DI PROTEZIONE INDIVIDUALE  Capo I  Uso delle attrezzature di lavoro
 
 ## Art. 69. — Definizioni
+
+1.
+                        
+                            
+                                Agli effetti delle disposizioni di cui al presente titolo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attrezzatura di lavoro: qualsiasi macchina, apparecchio, utensile o impianto, inteso come il complesso di macchine, attrezzature e componenti necessari all'attuazione di un processo produttivo, destinato ad essere usato durante il lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uso di una attrezzatura di lavoro: qualsiasi operazione lavorativa connessa ad una attrezzatura di lavoro, quale la messa in servizio o fuori servizio, l'impiego, il trasporto, la riparazione, la trasformazione, la manutenzione, la pulizia, il montaggio, lo smontaggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    zona pericolosa: qualsiasi zona all'interno ovvero in prossimita' di una attrezzatura di lavoro nella quale la presenza di un lavoratore costituisce un rischio per la salute o la sicurezza dello stesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lavoratore esposto: qualsiasi lavoratore che si trovi interamente o in parte in una zona pericolosa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    operatore: il lavoratore incaricato dell'uso di una attrezzatura di lavoro ((o il datore di lavoro che ne fa uso)).
 
 ## Art. 70. — Requisiti di sicurezza
 
@@ -1036,17 +4157,133 @@ Si considerano conformi alle disposizioni di cui al comma 2 le attrezzature di l
 
 ((
 
+4.
+                        
+                            
+                                Qualora gli organi di vigilanza, nell'espletamento delle loro funzioni ispettive in materia di salute e sicurezza sul lavoro, constatino che un'attrezzatura di lavoro, messa a disposizione dei lavoratori dopo essere stata immessa sul mercato o messa in servizio conformemente alla legislazione nazionale di recepimento delle direttive comunitarie ad essa applicabili ed utilizzata conformemente alle indicazioni del fabbricante, presenti una situazione di rischio riconducibile al mancato rispetto di uno o piu' requisiti essenziali di sicurezza previsti dalle disposizioni legislative e regolamentari di cui al comma 1, ne informano immediatamente l'autorita' nazionale di sorveglianza del mercato competente per tipo di prodotto. In tale caso le procedure previste dagli articoli 20 e 21 del decreto legislativo 19 dicembre 1994, n. 758, vengono espletate:
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'organo di vigilanza che ha accertato in sede di utilizzo la situazione di rischio, nei confronti del datore di lavoro utilizzatore dell'esemplare di attrezzatura, mediante apposita prescrizione a rimuovere tale situazione nel caso in cui sia stata accertata una contravvenzione, oppure mediante idonea disposizione in ordine alle modalita' di uso in sicurezza dell'attrezzatura di lavoro ove non sia stata accertata una contravvenzione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'organo di vigilanza territorialmente competente rispettivamente, nei confronti del fabbricante ovvero dei soggetti della catena della distribuzione, qualora, alla conclusione dell'accertamento tecnico effettuato dall'autorita' nazionale per la sorveglianza del mercato, risulti la non conformita' dell'attrezzatura ad uno o piu' requisiti essenziali di sicurezza previsti dalle disposizioni legislative e regolamentari di cui al comma 1 dell'articolo 70.
+
 ))
 
 ## Art. 71. — Obblighi del datore di lavoro
 
 Il datore di lavoro mette a disposizione dei lavoratori attrezzature conformi ai requisiti di cui all'articolo precedente, idonee ai fini della salute e sicurezza e adeguate al lavoro da svolgere o adattate a tali scopi che devono essere utilizzate conformemente alle disposizioni legislative di recepimento delle direttive comunitarie.
 
+2.
+                        
+                            
+                                All'atto della scelta delle attrezzature di lavoro, il datore di lavoro prende in considerazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le condizioni e le caratteristiche specifiche del lavoro da svolgere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rischi presenti nell'ambiente di lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i rischi derivanti dall'impiego delle attrezzature stesse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i rischi derivanti da interferenze con le altre attrezzature gia' in uso.
+
 Il datore di lavoro, al fine di ridurre al minimo i rischi connessi all'uso delle attrezzature di lavoro e per impedire che dette attrezzature possano essere utilizzate per operazioni e secondo condizioni per le quali non sono adatte, adotta adeguate misure tecniche ed organizzative, tra le quali quelle dell'allegato VI.
+
+4.
+                        
+                            
+                                Il datore di lavoro prende le misure necessarie affinche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attrezzature di lavoro siano: 
+ 1) installate ed utilizzate in conformita' alle istruzioni d'uso; 
+ 2) oggetto di idonea manutenzione al fine di garantire nel tempo la permanenza dei requisiti di sicurezza di cui all'articolo 70 e siano corredate, ove necessario, da apposite istruzioni d'uso e libretto di manutenzione; 
+ 3) assoggettate alle misure di aggiornamento dei requisiti minimi di sicurezza stabilite con specifico provvedimento regolamentare adottato in relazione alle prescrizioni di cui all'articolo 18, comma 1, lettera z); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano curati la tenuta e l'aggiornamento del registro di controllo delle attrezzature di lavoro per cui lo stesso e' previsto.
 
 Le modifiche apportate alle macchine quali definite all'articolo 1, comma 2, del decreto del Presidente della Repubblica 24 luglio 1996, n. 459, per migliorarne le condizioni di sicurezza in rapporto alle previsioni del comma 1, ovvero del comma 4, lettera a), numero 3), non configurano immissione sul mercato ai sensi dell'articolo 1, comma 3, secondo periodo, sempre che non comportino modifiche delle modalita' di utilizzo e delle prestazioni previste dal costruttore.
 
 Il datore di lavoro prende le misure necessarie affinche' il posto di lavoro e la posizione dei lavoratori durante l'uso delle attrezzature presentino requisiti di sicurezza e rispondano ai principi dell'ergonomia.
+
+7.
+                        
+                            
+                                Qualora le attrezzature richiedano per il loro impiego conoscenze o responsabilita' particolari in relazione ai loro rischi specifici, il datore di lavoro prende le misure necessarie affinche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'uso dell'attrezzatura di lavoro sia riservato ai lavoratori allo scopo incaricati che abbiano ricevuto una informazione, formazione ed addestramento adeguati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di riparazione, di trasformazione o manutenzione, i lavoratori interessati siano qualificati in maniera specifica per svolgere detti compiti.
+
+8.
+                        
+                            
+                                Fermo restando quanto disposto al comma 4, il datore di lavoro , secondo le indicazioni fornite dai fabbricanti ovvero, in assenza di queste, dalle pertinenti norme tecniche o dalle buone prassi o da linee guida, provvede affinche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attrezzature di lavoro la cui sicurezza dipende dalle condizioni di installazione siano sottoposte a un controllo iniziale (dopo l'installazione e prima della messa in esercizio) e ad un controllo dopo ogni montaggio in un nuovo cantiere o in una nuova localita' di impianto, al fine di assicurarne l'installazione corretta e il buon funzionamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le attrezzature soggette a influssi che possono provocare deterioramenti suscettibili di dare origine a situazioni pericolose siano sottoposte: 
+ 1. ad interventi di controllo periodici, secondo frequenze stabilite in base alle indicazioni fornite dai fabbricanti, ovvero dalle norme di buona tecnica, o in assenza di queste ultime, desumibili dai codici di buona prassi; 
+ 2. ad interventi di controllo straordinari al fine di garantire il mantenimento di buone condizioni di sicurezza, ogni volta che intervengano eventi eccezionali che possano avere conseguenze pregiudizievoli per la sicurezza delle attrezzature di lavoro, quali riparazioni, trasformazioni, incidenti, fenomeni naturali o periodi prolungati di inattivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Gli interventi di controllo di cui alle lettere a) e b) sono volti ad assicurare il buono stato di conservazione e l'efficienza a fini di sicurezza delle attrezzature di lavoro e devono essere effettuati da persona competente.
 
 I risultati dei controlli di cui al comma 8 devono essere riportati per iscritto e, almeno quelli relativi agli ultimi tre anni, devono essere conservati e tenuti a disposizione degli organi di vigilanza.
 
@@ -1073,6 +4310,24 @@ Chiunque venda, noleggi o conceda in uso o locazione finanziaria macchine, appar
 Chiunque noleggi o conceda in uso attrezzature di lavoro senza operatore deve, al momento della cessione, attestarne il buono stato di conservazione, manutenzione ed efficienza a fini di sicurezza. ((Deve altresi' acquisire e conservare agli atti, per tutta la durata del noleggio o della concessione dell'attrezzatura, una dichiarazione autocertificativa del soggetto che prende a noleggio, o in concessione in uso, o del datore di lavoro, che attesti l'avvenuta formazione e addestramento specifico, effettuati conformemente alle disposizioni del presente Titolo, dei soggetti individuati per l'utilizzo.))
 
 ## Art. 73. — Informazione, formazione e addestramento
+
+1.
+                        
+                            
+                                Nell'ambito degli obblighi di cui agli articoli 36 e 37 il datore di lavoro provvede, affinche' per ogni attrezzatura di lavoro messa a disposizione, i lavoratori incaricati dell'uso dispongano di ogni necessaria informazione e istruzione e ricevano una formazione e un addestramento adeguati, in rapporto alla sicurezza relativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle condizioni di impiego delle attrezzature; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle situazioni anormali prevedibili.
 
 Il datore di lavoro provvede altresi' a informare i lavoratori sui rischi cui sono esposti durante l'uso delle attrezzature di lavoro, sulle attrezzature di lavoro presenti nell'ambiente immediatamente circostante, anche se da essi non usate direttamente, nonche' sui cambiamenti di tali attrezzature.
 
@@ -1108,6 +4363,60 @@ Fino all'emanazione del predetto decreto, resta ferma l'applicazione delle dispo
 
 
 
+2.
+                        
+                            
+                                
+                                    ((Ai fini del presente decreto non costituiscono DPI)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli indumenti di lavoro ordinari e le uniformi non specificamente destinati a proteggere la sicurezza e la salute del lavoratore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le attrezzature dei servizi di soccorso e di salvataggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le attrezzature di protezione individuale delle forze armate, delle forze di polizia e del personale del servizio per il mantenimento dell'ordine pubblico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le attrezzature di protezione individuale proprie dei mezzi di trasporto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i materiali sportivi quando utilizzati a fini specificamente sportivi e non per attivita' lavorative; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i materiali per l'autodifesa o per la dissuasione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli apparecchi portatili per individuare e segnalare rischi e fattori nocivi.
+
 ## Art. 75. — Obbligo di uso
 
 I DPI devono essere impiegati quando i rischi non possono essere evitati o sufficientemente ridotti da misure tecniche di prevenzione, da mezzi di protezione collettiva, da misure, metodi o procedimenti di riorganizzazione del lavoro.
@@ -1116,17 +4425,211 @@ I DPI devono essere impiegati quando i rischi non possono essere evitati o suffi
 
 I DPI devono essere conformi alle norme ((di cui al regolamento (UE) n. 2016/425)).
 
+2.
+                        
+                            
+                                
+                                    ((Ai fini del presente decreto i DPI di cui al comma 1)) devono inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere adeguati ai rischi da prevenire, senza comportare di per se' un rischio maggiore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere adeguati alle condizioni esistenti sul luogo di lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tenere conto delle esigenze ergonomiche o di salute dellavoratore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    poter essere adattati all'utilizzatore secondo le sue necessita'.
+
 In caso di rischi multipli che richiedono l'uso simultaneo di piu' DPI, questi devono essere tra loro compatibili e tali da mantenere, anche nell'uso simultaneo, la propria efficacia nei confronti del rischio e dei rischi corrispondenti.
 
 ## Art. 77. — Obblighi del datore di lavoro
 
+1.
+                        
+                            
+                                Il datore di lavoro ai fini della scelta dei DPI: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettua l'analisi e la valutazione dei rischi che non possono essere evitati con altri mezzi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individua le caratteristiche dei DPI necessarie affinche' questi siano adeguati ai rischi di cui alla lettera a), tenendo conto delle eventuali ulteriori fonti di rischio rappresentate dagli stessi DPI; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valuta, sulla base delle informazioni e delle norme d'uso fornite dal fabbricante a corredo dei DPI, le caratteristiche dei DPI disponibili sul mercato e le raffronta con quelle individuate alla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aggiorna la scelta ogni qualvolta intervenga una variazione significativa negli elementi di valutazione.
+
+2.
+                        
+                            
+                                Il datore di lavoro, anche sulla base delle norme d'uso fornite dal fabbricante, individua le condizioni in cui un DPI deve essere 
+ usato, specie per quanto riguarda la durata dell'uso, in funzione  di: 
+                            
+                            
+                                a)
+                                
+                                    entita' del rischio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    frequenza dell'esposizione al rischio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    caratteristiche del posto di lavoro di ciascun lavoratore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prestazioni del DPI.
+
 Il datore di lavoro, sulla base delle indicazioni del decreto di cui all'articolo 79, comma 2, fornisce ai lavoratori DPI conformi ai requisiti previsti dall'articolo 76.
+
+4.
+                        
+                            
+                                Il datore di lavoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((mantiene in efficienza i DPI e ne assicura le condizioni d'igiene, mediante la manutenzione, le riparazioni e le sostituzioni necessarie e secondo le eventuali indicazioni fornite dal fabbricante; tale obbligo si applica anche per specifici indumenti di lavoro che assumono la caratteristica di DPI, previa loro individuazione attraverso la valutazione dei rischi)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede a che i DPI siano utilizzati soltanto per gli usi previsti, salvo casi specifici ed eccezionali, conformemente alle informazioni del fabbricante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornisce istruzioni comprensibili per i lavoratori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    destina ogni DPI ad un uso personale e, qualora le circostanze richiedano l'uso di uno stesso DPI da parte di piu' persone, prende misure adeguate affinche' tale uso non ponga alcun problema sanitario e igienico ai vari utilizzatori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    informa preliminarmente il lavoratore dei rischi dai quali il DPI lo protegge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rende disponibile nell'azienda ovvero unita' produttiva informazioni adeguate su ogni DPI; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    stabilisce le procedure aziendali da seguire, al termine dell'utilizzo, per la riconsegna e il deposito dei DPI; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    assicura una formazione adeguata e organizza, se necessario, uno specifico addestramento circa l'uso corretto e l'utilizzo pratico dei DPI.
+
+5.
+                        
+                            
+                                In ogni caso l'addestramento e' indispensabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per ogni DPI che, ai sensi del decreto legislativo 4 dicembre 1992, n. 475, appartenga alla terza categoria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i dispositivi di protezione dell'udito.
 
 ## Art. 78. — Obblighi dei lavoratori
 
 In ottemperanza a quanto previsto dall'articolo 20, comma 2, lettera h), i lavoratori si sottopongono al programma di formazione e addestramento organizzato dal datore di lavoro nei casi ritenuti necessari ai sensi dell'articolo 77 commi 4, lettera h), e 5.
 
 In ottemperanza a quanto previsto dall'articolo 20, comma 2, lettera d), i lavoratori utilizzano i DPI messi a loro disposizione conformemente all'informazione e alla formazione ricevute e all'addestramento eventualmente organizzato ed espletato.
+
+3.
+                        
+                            
+                                I lavoratori:
+ 
+                            
+                            
+                                a)
+                                
+                                    provvedono alla cura dei DPI messi a loro disposizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non vi apportano modifiche di propria iniziativa.
 
 Al termine dell'utilizzo i lavoratori seguono le procedure aziendali in materia di riconsegna dei DPI.
 
@@ -1136,11 +4639,108 @@ I lavoratori segnalano immediatamente al datore di lavoro o al dirigente o al pr
 
 Il contenuto dell'allegato VIII, costituisce elemento di riferimento per l'applicazione di quanto previsto all'articolo 77, commi 1 e 4.
 
+2.
+                        
+                            
+                                Con decreto del Ministro del lavoro, della salute e delle politiche sociali, di concerto con il Ministro dello sviluppo economico, sentita la Commissione consultiva permanente di cui all'articolo 6, tenendo conto della natura, dell'attivita' e dei fattori specifici di rischio sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri per l'individuazione e l'uso dei DPI; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le circostanze e le situazioni in cui, ferme restando le priorita' delle misure di protezione collettiva, si rende necessario l'impiego dei DPI.
+
 Fino alla adozione del decreto di cui al comma 2 restano ferme le disposizioni di cui al decreto del Ministro del lavoro e della previdenza sociale in data 2 maggio 2001, pubblicato nella Gazzetta Ufficiale n. 126 del 1 ° giugno 2001 ((, aggiornato con le edizioni delle norme UNI piu' recenti)).
 
 ## - Capo III Impianti e apparecchiature elettriche
 
 ## Art. 80. — Obblighi del datore di lavoro
+
+1.
+                        
+                            
+                                
+                                    ((Il datore di lavoro prende le misure necessarie affinche' i lavoratori siano salvaguardati dai tutti i rischi di natura elettrica connessi all'impiego dei materiali, delle apparecchiature e degli impianti elettrici messi a loro disposizione ed, in particolare, da quelli derivanti da:))
+                                
+                            
+                            
+                                a)
+                                
+                                    contatti elettrici diretti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contatti elettrici indiretti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    innesco e propagazione di incendi e di ustioni dovuti a sovratemperature pericolose, archi elettrici e radiazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    innesco di esplosioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fulminazione diretta ed indiretta; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sovratensioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    altre condizioni di guasto ragionevolmente prevedibili.
+
+2.
+                        
+                            
+                                A tale fine il datore di lavoro esegue una valutazione dei rischi di cui al precedente comma 1, tenendo in considerazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le condizioni e le caratteristiche specifiche del lavoro, ivi comprese eventuali interferenze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rischi presenti nell'ambiente di lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutte le condizioni di esercizio prevedibili.
 
 A seguito della valutazione del rischio elettrico il datore di lavoro adotta le misure tecniche ed organizzative necessarie ad eliminare o ridurre al minimo i rischi presenti, ad individuare i dispositivi di protezione collettivi ed individuali necessari alla conduzione in sicurezza del lavoro ed a predisporre le procedure di uso e manutenzione atte a garantire nel tempo la permanenza del livello di sicurezza raggiunto con l'adozione delle misure di cui al comma 1.
 
@@ -1155,6 +4755,32 @@ Ferme restando le disposizioni legislative e regolamentari di recepimento delle 
 ((COMMA ABROGATO DAL D.LGS. 3 AGOSTO 2009, N.106)).
 
 ## Art. 82. — Lavori sotto tensione
+
+1.
+                        
+                            
+                                E' vietato eseguire lavori sotto tensione. Tali lavori sono tuttavia consentiti nei casi in cui le tensioni su cui si opera sono di sicurezza, secondo quanto previsto dallo stato della tecnica ((o)) quando i lavori sono eseguiti nel rispetto delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le procedure adottate e le attrezzature utilizzate sono conformi ai criteri definiti nelle norme ((tecniche)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per sistemi di categoria 0 e I purche' l'esecuzione di lavori su parti in tensione sia affidata a lavoratori riconosciuti dal datore di lavoro come idonei per tale attivita' secondo le indicazioni della pertinente normativa tecnica;
+                                
+                            
+                            
+                                c)
+                                
+                                    per sistemi di II e III categoria purche': 
+ 1) i lavori su parti in tensione siano effettuati da aziende autorizzate, con specifico provvedimento del Ministero del lavoro, della salute e delle politiche sociali, ad operare sotto tensione; 
+ 2) l'esecuzione di lavori su parti in tensione sia affidata a lavoratori abilitati dal datore di lavoro ai sensi della pertinente normativa tecnica riconosciuti idonei per tale attivita'.
 
 Con decreto del ((Ministro del lavoro, della salute e delle politiche sociali)), da adottarsi entro dodici mesi dalla data di entrata in vigore del presente decreto legislativo, sono definiti i criteri per il rilascio delle autorizzazioni di cui al comma 1, lettera c), numero 1).
 
@@ -1192,6 +4818,109 @@ L'esito dei controlli di cui al comma 1 e' verbalizzato e tenuto a disposizione 
 
 Il datore di lavoro e' punito con la pena dell'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 80, comma 2.
 
+2.
+                        
+                            
+                                Il datore di lavoro e il dirigente sono puniti con la pena dell'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'articolo 70, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'articolo 70, comma 2, limitatamente ai punti 3.2.1, 5.6.1, 5.6.6, 5.6.7, 5.9.1, 5.9.2, 5.13.8 e 5.13.9 dell'allegato V, parte II; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'articolo 71, commi 1, 2, 4, 7 e 8 ((,)) e dell'articolo 73, comma 4-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    degli articoli 75 e 77, commi 3, 4, lettere a), b) e d), e 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    degli articoli 80, comma 1, 82, comma 1, 83, comma 1, e 85, comma 1.
+
+3.
+                        
+                            
+                                Il datore di lavoro e il dirigente sono puniti con la pena dell'arresto da due a quattro mesi o con l'ammenda da 1.000 a 4.800 euro per la violazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'articolo 70, comma 2, limitatamente ai punti 2.10, 3.1.8, 3.1.11, 3.3.1, 5.1.3, 5.1.4, 5.5.3, 5.5.7, 5.7.1, 5.7.3, 5.12.1, 5.15.2, 5.16.2, 5.16.4, dell'allegato V, parte II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'articolo 71, comma 3, limitatamente ai punti 3.1.3, 3.1.4, 3.1.5, 3.1.6, 3.1.7, 3.2.1 dell'allegato VI; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'articolo 77, comma 4, lettere e), f) ed h); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'articolo 80, commi 3 e 3-bis.
+
+4.
+                        
+                            
+                                Il datore di lavoro e il dirigente sono puniti con la sanzione amministrativa pecuniaria da euro 500 a euro 1.800 per la violazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'articolo 70, comma 2, limitatamente ai punti dell'allegato V, parte II, diversi da quelli indicati alla lettera a) del comma 3 e alla lettera b) del comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'articolo 71, comma 3, limitatamente ai punti dell'allegato VI diversi da quelli indicati alla lettera b) del comma 3, e commi 6, 9, 10 e 11; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'articolo 77, comma 4, lettere c) e g); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'articolo 86, commi 1 e 3.
+
 La violazione di piu' precetti riconducibili alla categoria omogenea di requisiti di sicurezza relativi ai luoghi di lavoro di cui all'allegato V, parte II, punti 1, 2, 3.1, 3.2, 3.3, 3.4, 4.1, 4.2, 4.3, 4.4 , 4.5 , 5.1, 5.2 , 5.3 , 5.4 , 5.5 , 5.6, 5.7, 5.8, 5.9 , 5.10 , 5.11, 5.12 , 5.13 , 5.14 , 5.15 e 5.16 e' considerata una unica violazione, penale o amministrativa a seconda della natura dell'illecito, ed e' punita con la pena o la sanzione amministrativa pecuniaria rispettivamente previste dai precedenti commi. L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati.
 
 La violazione di piu' precetti riconducibili alla categoria omogenea di requisiti di sicurezza relativi alle attrezzature di lavoro di cui all'allegato VI, punti 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2, 3.1, 3.2, 4, 5, 6, 7, 8, 9 e 10 e' considerata una unica violazione, penale o amministrativa a seconda della natura dell'illecito, ed e' punita con la pena o la sanzione amministrativa pecuniaria rispettivamente previste dal comma 3, alinea, o dal comma 4, alinea. L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati.
@@ -1204,11 +4933,170 @@ Il venditore, il noleggiatore o il concedente in uso e' punito con la sanzione a
 
 Il presente capo contiene disposizioni specifiche relative alle misure per la tutela della salute e per la sicurezza dei lavoratori nei cantieri temporanei o mobili quali definiti all'articolo 89, comma 1, lettera a).
 
+2.
+                        
+                            
+                                Le disposizioni del presente capo non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai lavori di prospezione, ricerca e coltivazione delle sostanze minerali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai lavori svolti negli impianti connessi alle attivita' minerarie esistenti entro il perimetro dei permessi di ricerca, delle concessioni o delle autorizzazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai lavori svolti negli impianti che costituiscono pertinenze della miniera: gli impianti fissi interni o esterni, i pozzi, le gallerie, nonche' i macchinari, gli apparecchi e utensili destinati alla coltivazione della miniera, le opere e gli impianti destinati all'arricchimento dei minerali, anche se ubicati fuori del perimetro delle concessioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai lavori di frantumazione, vagliatura, squadratura e trasporto dei prodotti delle cave ed alle operazioni di caricamento di tali prodotti dai piazzali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle attivita' di prospezione, ricerca, coltivazione e stoccaggio degli idrocarburi liquidi e gassosi nel territorio nazionale, nel mare territoriale e nella piattaforma continentale e nelle altre aree sottomarine comunque soggette ai poteri dello Stato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai lavori svolti in mare; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alle attivita' svolte in studi teatrali, cinematografici, televisivi o in altri luoghi in cui si effettuino riprese, purche' tali attivita' non implichino l'allestimento di un cantiere temporaneo o mobile. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((ai lavori relativi a impianti elettrici, reti informatiche, gas, acqua, condizionamento e riscaldamento che non comportino lavori edili o di ingegneria civile di cui all'allegato X)); 
+ g-ter), alle attivita' di cui al decreto legislativo 27 luglio i1999, n. 272, che non comportino lavori edili o di ingegneria civile di cui all'allegato X.
+
 Le disposizioni di cui al presente titolo si applicano agli spettacoli musicali, cinematografici e teatrali e alle manifestazioni fieristiche tenendo conto delle particolari esigenze connesse allo svolgimento delle relative attivita', individuate con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro della salute, sentita la Commissione consultiva permanente per la salute e sicurezza sul lavoro, che deve essere adottato entro il 31 dicembre 2013.
 
 ## Art. 89. — Definizioni
 
+1.
+                        
+                            
+                                Agli effetti delle disposizioni di cui al presente capo si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    cantiere temporaneo o mobile, di seguito denominato: "cantiere": qualunque luogo in cui si effettuano lavori edili o di ingegneria civile il cui elenco e' riportato nell'allegato X.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    committente: il soggetto per conto del quale l'intera opera viene realizzata, indipendentemente da eventuali frazionamenti della sua realizzazione. Nel caso di appalto di opera pubblica, il committente e' il soggetto titolare del potere decisionale e di spesa relativo alla gestione dell'appalto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    responsabile dei lavori: soggetto che puo' essere incaricato dal committente per svolgere i compiti ad esso attribuiti dal presente decreto; nel campo di applicazione del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, il responsabile dei lavori e' il responsabile del procedimento.
+                                
+                            
+                            
+                                d)
+                                
+                                    lavoratore autonomo: persona fisica la cui attivita' professionale contribuisce alla realizzazione dell'opera senza vincolo di subordinazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinatore in materia di sicurezza e di salute durante la progettazione dell'opera, di seguito denominato coordinatore per la progettazione: soggetto incaricato, dal committente o dal responsabile dei lavori, dell'esecuzione dei compiti di cui all'articolo 91;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    coordinatore in materia di sicurezza e di salute durante la realizzazione dell'opera, di seguito denominato coordinatore per l'esecuzione dei lavori: soggetto incaricato, dal committente o dal responsabile dei lavori, dell'esecuzione dei compiti di cui all'articolo 92, che non puo' essere il datore di lavoro delle imprese ((affidatarie ed)) esecutrici o un suo dipendente o il responsabile del servizio di prevenzione e protezione (RSPP) da lui designato ((. Le incompatibilita' di cui al precedente periodo non operano in caso di coincidenza fra committente e impresa esecutrice));
+
+                                
+                            
+                            
+                                g)
+                                
+                                    uomini-giorno: entita' presunta del cantiere rappresentata dalla somma delle giornate lavorative prestate dai lavoratori, anche autonomi, previste per la realizzazione dell'opera;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    piano operativo di sicurezza: il documento che il datore di lavoro dell'impresa esecutrice redige, in riferimento al singolo cantiere interessato, ai sensi dell'articolo 17 comma 1, lettera a), i cui contenuti sono riportati nell'allegato XV;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    impresa affidataria: impresa titolare del contratto di appalto con il committente che, nell'esecuzione dell'opera appaltata, puo' avvalersi di imprese subappaltatrici o di lavoratori autonomi ((. Nel caso in cui titolare del contratto di appalto sia un consorzio tra imprese che svolga la funzione di promuovere la partecipazione delle imprese aderenti agli appalti pubblici o privati, anche privo di personale deputato alla esecuzione dei lavori, l'impresa affidataria e' l'impresa consorziata assegnataria dei lavori oggetto del contratto di appalto individuata dal consorzio nell'atto di assegnazione dei lavori comunicato al committente o, in caso di pluralita' di imprese consorziate assegnatarie di lavori, quella indicata nell'atto di assegnazione dei lavori come affidataria, sempre che abbia espressamente accettato tale individuazione));
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    impresa esecutrice: impresa che esegue un'opera o parte di essa impegnando proprie risorse umane e materiali;
+                                
+                            
+                            
+                                l)
+                                
+                                    idoneita' tecnico-professionale: possesso di capacita' organizzative, nonche' disponibilita' di forza lavoro, di macchine e di attrezzature, in riferimento ((ai lavori da realizzare)).
+
 ## Art. 90. — Obblighi del committente o del responsabile dei lavori
+
+1.
+                        
+                            
+                                Il committente o il responsabile dei lavori, nelle fasi di progettazione dell'opera, si attiene ai principi e alle misure generali di tutela di cui all'articolo 15, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al momento delle scelte architettoniche, tecniche ed organizzative, onde pianificare i vari lavori o fasi di lavoro che si svolgeranno simultaneamente o successivamente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'atto della previsione della durata di realizzazione di questi vari lavori o fasi di lavoro.
 
 Per i lavori pubblici l'attuazione di quanto previsto al comma 1 avviene nel rispetto dei compiti attribuiti al responsabile del procedimento e al progettista.
 
@@ -1226,11 +5114,68 @@ Il committente o il responsabile dei lavori comunica alle imprese affidatarie, a
 
 Il committente o il responsabile dei lavori ha facolta' di sostituire in qualsiasi momento, anche personalmente, se in possesso dei requisiti di cui all'articolo 98, i soggetti designati in attuazione dei commi 3 e 4.
 
+9.
+                        
+                            
+                                Il committente o il responsabile dei lavori, anche nel caso di affidamento dei lavori ad un'unica impresa o ad un lavoratore autonomo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica l'idoneita' tecnico-professionale delle imprese affidatarie, delle imprese esecutrici e dei lavoratori autonomi in relazione alle funzioni o ai lavori da affidare, con le modalita' di cui all'allegato XVII. Nei cantieri la cui entita' presunta e' inferiore a 200 uomini-giorno e i cui lavori non comportano rischi particolari di cui all'allegato XI, il requisito di cui al periodo che precede si considera soddisfatto mediante presentazione da parte delle imprese e dei lavoratori autonomi del certificato di iscrizione alla Camera di commercio, industria e artigianato e del documento unico di regolarita' contributiva, corredato da autocertificazione in ordine al possesso degli altri requisiti previsti dall'allegato XVII; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chiede alle imprese esecutrici una dichiarazione dell'organico medio annuo, distinto per qualifica, corredata dagli estremi delle denunce dei lavoratori effettuate all'Istituto nazionale della previdenza sociale (INPS), all'Istituto nazionale assicurazione infortuni sul lavoro (INAIL) e alle casse edili, nonche' una dichiarazione relativa al contratto collettivo stipulato dalle organizzazioni sindacali comparativamente piu' rappresentative, applicato ai lavoratori dipendenti. Nei cantieri la cui entita' presunta e' inferiore a 200 uomini-giorno e i cui lavori non comportano rischi particolari di cui all'allegato XI, il requisito di cui al periodo che precede si considera soddisfatto mediante presentazione da parte delle imprese del documento unico di regolarita' contributiva, fatto salvo quanto previsto dall'articolo 16-bis, comma 10, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e dell'autocertificazione relativa al contratto collettivo applicato; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    verifica il possesso della patente ((o del documento equivalente)) di cui all'articolo 27 nei confronti delle imprese esecutrici o dei lavoratori autonomi, anche nei casi di subappalto, ovvero, per le imprese che non sono tenute al possesso della patente ai sensi ((del comma 15)) del medesimo articolo 27, ((dell'attestazione di qualificazione)) SOA; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmette all'amministrazione concedente, prima dell'inizio dei lavori oggetto del permesso di costruire o della denuncia di inizio attivita', copia della notifica preliminare di cui all'articolo 99, il documento unico di regolarita' contributiva delle imprese e dei lavoratori autonomi, fatto salvo quanto previsto dall'articolo 16- bis, comma 10, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e una dichiarazione attestante l'avvenuta verifica della ulteriore documentazione di cui alle lettere a), b) e b-bis);.
+
 In assenza del piano di sicurezza e di coordinamento di cui all'articolo 100 o del fascicolo di cui all'articolo 91, comma 1, lettera b), quando previsti, oppure in assenza di notifica di cui all'articolo 99, quando prevista oppure in assenza del documento unico di regolarita' contributiva delle imprese o dei lavoratori autonomi, e' sospesa l'efficacia del titolo abilitativo. L'organo di vigilanza comunica l'inadempienza all'amministrazione concedente.
 
 La disposizione di cui al comma 3 non si applica ai lavori privati non soggetti a permesso di costruire in base alla normativa vigente e comunque di importo inferiore ad euro 100.000. In tal caso, le funzioni del coordinatore per la progettazione sono svolte dal coordinatore per la esecuzione dei lavori.
 
 ## Art. 91. — Obblighi del coordinatore per la progettazione
+
+1.
+                        
+                            
+                                Durante la progettazione dell'opera e comunque prima della richiesta di presentazione delle offerte, il coordinatore per la progettazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    redige il piano di sicurezza e di coordinamento di cui all'articolo 100, comma 1, i cui contenuti sono dettagliatamente specificati nell'allegato XV; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone un fascicolo adattato alle caratteristiche dell'opera, i cui contenuti sono definiti all'allegato XVI, contenente le informazioni utili ai fini della prevenzione e della protezione dai rischi cui sono esposti i lavoratori, tenendo conto delle specifiche norme di buona tecnica e dell'allegato II al documento UE 26 maggio 1993. Il fascicolo non e' predisposto nel caso di lavori di manutenzione ordinaria di cui all'articolo 3, comma 1, lettera a) del testo unico delle disposizioni legislative e regolamentari in materia di edilizia, di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    coordina l'applicazione delle disposizioni di cui all'articolo 90, comma 1.
 
 Il fascicolo di cui al comma 1, lettera b), e' preso in considerazione all'atto di eventuali lavori successivi sull'opera.
 
@@ -1247,6 +5192,53 @@ Fatta salva l'idoneita' tecnico-professionale in relazione al piano operativo di
 
 ## Art. 92. — Obblighi del coordinatore per l'esecuzione dei lavori
 
+1.
+                        
+                            
+                                Durante la realizzazione dell'opera, il coordinatore per l'esecuzione dei lavori:
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica, con opportune azioni di coordinamento e controllo, l'applicazione, da parte delle imprese esecutrici e dei lavoratori autonomi, delle disposizioni loro pertinenti contenute nel piano di sicurezza e di coordinamento di cui all'articolo 100 ((ove previsto)) e la corretta applicazione delle relative procedure di lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica l'idoneita' del piano operativo di sicurezza, da considerare come piano complementare di dettaglio del piano di sicurezza e coordinamento di cui all'articolo 100, assicurandone la coerenza con quest'ultimo ((,ove previsto)), adegua il piano di sicurezza e di coordinamento di cui all'articolo 100 ((,ove previsto,)) e il fascicolo di cui all'articolo 91, comma 1, lettera b), in relazione all'evoluzione dei lavori ed alle eventuali modifiche intervenute, valutando le proposte delle imprese esecutrici dirette a migliorare la sicurezza in cantiere, verifica che le imprese esecutrici adeguino, se necessario, i rispettivi piani operativi di sicurezza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizza tra i datori di lavoro, ivi compresi i lavoratori autonomi, la cooperazione ed il coordinamento delle attivita' nonche' la loro reciproca informazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verifica l'attuazione di quanto previsto negli accordi tra le parti sociali al fine di realizzare il coordinamento tra i rappresentanti della sicurezza finalizzato al miglioramento della sicurezza in cantiere;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((segnala al committente o)) al responsabile dei lavori, previa contestazione scritta alle imprese e ai lavoratori autonomi interessati, le inosservanze alle disposizioni degli articoli 94, 95 ((96 e 97, comma 1,)) e alle prescrizioni del piano di cui all'articolo 100 ((,ove previsto,)), e propone la sospensione dei lavori, l'allontanamento delle imprese o dei lavoratori autonomi dal cantiere, o la risoluzione del contratto. Nel caso in cui il committente o il responsabile dei lavori non adotti alcun provvedimento in merito alla segnalazione, senza fornire idonea motivazione, il coordinatore per l'esecuzione da' comunicazione dell'inadempienza alla azienda unita' sanitaria locale e alla direzione provinciale del lavoro territorialmente competenti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sospende, in caso di pericolo grave e imminente, direttamente riscontrato, le singole lavorazioni fino alla verifica degli avvenuti adeguamenti effettuati dalle imprese interessate.
+
 Nei casi di cui all'articolo 90, comma 5, il coordinatore per l'esecuzione, oltre a svolgere i compiti di cui al comma 1, redige il piano di sicurezza e di coordinamento e predispone il fascicolo, di cui all'articolo 91, comma 1, lettere a) e b) ((, fermo restando quanto previsto al secondo periodo della medesima lettera b))).
 
 ## Art. 93. — Responsabilita' dei committenti e dei responsabili dei lavori
@@ -1261,7 +5253,120 @@ I lavoratori autonomi che esercitano la propria attivita' nei cantieri, fermo re
 
 ## Art. 95. — Misure generali di tutela
 
+1.
+                        
+                            
+                                I datori di lavoro delle imprese esecutrici, durante l'esecuzione dell'opera osservano le misure generali di tutela di cui all'articolo 15 e curano, ciascuno per la parte di competenza, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il mantenimento del cantiere in condizioni ordinate e di soddisfacente salubrita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la scelta dell'ubicazione di posti di lavoro tenendo conto delle condizioni di accesso a tali posti, definendo vie o zone di spostamento o di circolazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le condizioni di movimentazione dei vari materiali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la manutenzione, il controllo prima dell'entrata in servizio e il controllo periodico ((degli apprestamenti, delle attrezzature di lavoro)) degli impianti e dei dispositivi al fine di eliminare i difetti che possono pregiudicare la sicurezza e la salute dei lavoratori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la delimitazione e l'allestimento delle zone di stoccaggio e di deposito dei vari materiali, in particolare quando si tratta di materie e di sostanze pericolose;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'adeguamento, in funzione dell'evoluzione del cantiere, della durata effettiva da attribuire ai vari tipi di lavoro o fasi di lavoro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la cooperazione ((e il coordinamento)) tra datori di lavoro e lavoratori autonomi;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le interazioni con le attivita' che avvengono sul luogo, all'interno o in prossimita' del cantiere.
+
 ## Art. 96. — Obblighi dei datori di lavoro, dei dirigenti e dei preposti
+
+1.
+                        
+                            
+                                I datori di lavoro delle imprese affidatarie e delle imprese esecutrici, anche nel caso in cui nel cantiere operi una unica impresa, anche familiare o con meno di dieci addetti:
+ 
+                            
+                            
+                                a)
+                                
+                                    adottano le misure conformi alle prescrizioni di cui all'allegato XIII;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispongono l'accesso e la recinzione del cantiere con modalita' chiaramente visibili e individuabili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    curano la disposizione o l'accatastamento di materiali o attrezzature in modo da evitarne il crollo o il ribaltamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curano la protezione dei lavoratori contro le influenze atmosferiche che possono compromettere la loro sicurezza e la loro salute;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    curano le condizioni di rimozione dei materiali pericolosi, previo, se del caso, coordinamento con il committente o il responsabile dei lavori;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    curano che lo stoccaggio e l'evacuazione dei detriti e delle macerie avvengano correttamente;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    redigono il piano operativo di sicurezza di cui all'articolo 89, comma 1, lettera h).
 
 ((
 
@@ -1277,6 +5382,24 @@ Il datore di lavoro dell'impresa affidataria ((verifica le condizioni di)) sicur
 
 Gli obblighi derivanti dall'articolo 26, fatte salve le disposizioni di cui all'articolo 96, comma 2, sono riferiti anche al datore di lavoro dell'impresa affidataria. Per la verifica dell'idoneita' tecnico professionale si fa riferimento alle modalita' di cui all'allegato XVII.
 
+3.
+                        
+                            
+                                Il datore di lavoro dell'impresa affidataria deve, inoltre:
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinare gli interventi di cui agli articoli 95 e 96;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificare la congruenza dei piani operativi di sicurezza (POS) delle imprese esecutrici rispetto al proprio, prima della trasmissione dei suddetti piani operativi di sicurezza al coordinatore per l'esecuzione.
+
 ((
 
 In relazione ai lavori affidati in subappalto, ove gli apprestamenti, gli impianti e le altre attivita' di cui al punto 4 dell'allegato XV siano effettuati dalle imprese esecutrici, l'impresa affidataria corrisponde ad esse senza alcun ribasso i relativi oneri della sicurezza.
@@ -1285,6 +5408,32 @@ In relazione ai lavori affidati in subappalto, ove gli apprestamenti, gli impian
 ))
 
 ## Art. 98. — Requisiti professionali del coordinatore per la progettazione del coordinatore per l'esecuzione dei lavori
+
+1.
+                        
+                            
+                                Il coordinatore per la progettazione e il coordinatore per l'esecuzione dei lavori devono essere in possesso di uno dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    laurea magistrale conseguita in una delle seguenti classi:
+LM-4, da LM-20 a LM-35, LM-69, LM-73, LM-74, di cui al decreto del Ministro dell'universita' e della ricerca in data 16 marzo 2007, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 157 del 9 luglio 2007, ovvero laurea specialistica conseguita nelle seguenti classi: 4/S, da 25/S a 38/S, 77/S, 74/S, 86/S, di cui al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica in data 28 novembre 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 18 del 23 gennaio 2001, ovvero corrispondente diploma di laurea ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca in data 5 maggio 2004, pubblicato nella Gazzetta Ufficiale n. 196 del 21 agosto 2004, nonche' attestazione, da parte di datori di lavoro o committenti, comprovante l'espletamento di attivita' lavorativa nel settore delle costruzioni per almeno un anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    laurea conseguita nelle seguenti classi L7, L8, L9, L17, L23, di cui al predetto decreto ministeriale in data 16 marzo 2007, ovvero laurea conseguita nelle classi 8, 9, 10, 4, di cui al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica in data 4 agosto 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 245 del 19 ottobre 2000, ((ovvero laurea conseguita in Tecniche della prevenzione nell'ambiente e nei luoghi di lavoro, della classe L/SNT/4, ai sensi del regolamento di cui al decreto del Ministro della sanita' 17 gennaio 1997, n. 58, e del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 19 febbraio 2009, pubblicato nella Gazzetta Ufficiale n. 119 del 25 maggio 2009,)) nonche' attestazione, da parte di datori di lavoro o committenti, comprovante l'espletamento di attivita' lavorative nel settore delle costruzioni per almeno due anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diploma di geometra o perito industriale o perito agrario o agrotecnico, nonche' attestazione, da parte di datori di lavoro o committenti, comprovante l'espletamento di attivita' lavorativa nel settore delle costruzioni per almeno tre anni.
 
 I soggetti di cui al comma 1, devono essere, altresi', in possesso di attestato di frequenza, con verifica dell'apprendimento finale, a specifico corso in materia di sicurezza organizzato dalle regioni, mediante le strutture tecniche operanti nel settore della prevenzione e della formazione professionale, o, in via alternativa, dall'ISPESL, dall'INAIL, dall'Istituto italiano di medicina sociale, dagli ordini o collegi professionali, dalle universita', dalle associazioni sindacali dei datori di lavoro e dei lavoratori o dagli organismi paritetici istituiti nel settore dell'edilizia. Fermo restando l'obbligo di aggiornamento di cui all'allegato XIV, sono fatti salvi gli attestati rilasciati nel rispetto della previgente normativa a conclusione di corsi avviati prima della data di entrata in vigore del presente decreto.
 
@@ -1298,6 +5447,32 @@ Le spese connesse all'espletamento dei corsi di cui al comma 2 sono a totale car
 Le regioni determinano la misura degli oneri per il funzionamento dei corsi di cui al comma 2, da esse organizzati, da porsi a carico dei partecipanti.
 
 ## Art. 99. — Notifica preliminare
+
+1.
+                        
+                            
+                                Il committente o il responsabile dei lavori, prima dell'inizio dei lavori, trasmette all'azienda unita' sanitaria locale e alla direzione provinciale del lavoro nonche', limitatamente ai lavori pubblici, al prefetto territorialmente competenti la notifica preliminare elaborata conformemente all'allegato XII, nonche' gli eventuali aggiornamenti nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cantieri di cui all'articolo 90, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cantieri che, inizialmente non soggetti all'obbligo di notifica, ricadono nelle categorie di cui alla lettera a) per effetto di varianti sopravvenute in corso d'opera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cantieri in cui opera un'unica impresa la cui entita' presunta di lavoro non sia inferiore a duecento uomini-giorno. 
+ ((1.1. I soggetti destinatari della notifica preliminare di cui al comma 1 la trasmettono alla cassa edile territorialmente competente)).
 
 Le comunicazioni di cui al comma 1 alimentano una apposita banca dati istituita presso l'Ispettorato nazionale del lavoro, ferma l'interoperabilita' con le banche dati esistenti. Con decreto del direttore dell'Ispettorato nazionale del lavoro sono individuate le modalita' tecniche, la data di effettivo avvio dell'alimentazione della banca dati e le modalita' di condivisione delle informazioni con le Pubbliche Amministrazioni interessate.
 
@@ -1384,6 +5559,31 @@ Le norme del presente capo si applicano alle attivita' che, da chiunque esercita
 
 ## Art. 106. — Attivita' escluse
 
+1.
+                        
+                            
+                                Le disposizioni del presente capo ((, ad esclusione delle sole disposizioni relative ai lavori in quota,)) non si applicano:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai lavori di prospezione, ricerca e coltivazione delle sostanze minerali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle attivita' di prospezione, ricerca, coltivazione e stoccaggio degli idrocarburi liquidi e gassosi nel territorio nazionale, nel mare territoriale e nella piattaforma continentale e nelle altre aree sottomarine comunque soggette ai poteri dello Stato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai lavori svolti in mare.
+
 ## Art. 107. — Definizioni
 
 Agli effetti delle disposizioni di cui al presente capo si intende per lavoro in quota: attivita' lavorativa che espone il lavoratore al rischio di caduta da una quota posta ad altezza superiore a 2 m rispetto ad un piano stabile.
@@ -1407,6 +5607,24 @@ Il cantiere, in relazione al tipo di lavori effettuati, deve essere dotato di re
 Il transito sotto ponti sospesi, ponti a sbalzo, scale aeree e simili deve essere impedito con barriere o protetto con l'adozione di misure o cautele adeguate.
 
 ## Art. 111. — Obblighi del datore di lavoro nell'uso di attrezzature per lavori in quota
+
+1.
+                        
+                            
+                                Il datore di lavoro, nei casi in cui i lavori temporanei in quota non possono essere eseguiti in condizioni di sicurezza e in condizioni ergonomiche adeguate a partire da un luogo adatto allo scopo, sceglie le attrezzature di lavoro piu' idonee a garantire e mantenere condizioni di lavoro sicure, in conformita' ai seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    priorita' alle misure di protezione collettiva rispetto alle misure di protezione individuale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dimensioni delle attrezzature di lavoro confacenti alla natura dei lavori da eseguire, alle sollecitazioni prevedibili e ad una circolazione priva di rischi.
 
 Il datore di lavoro sceglie il tipo piu' idoneo di sistema di accesso ai posti di lavoro temporanei in quota in rapporto alla frequenza di circolazione, al dislivello e alla durata dell'impiego.
 Il sistema di accesso adottato deve consentire l'evacuazione in caso di pericolo imminente. Il passaggio da un sistema di accesso a piattaforme, impalcati, passerelle e viceversa non deve comportare rischi ulteriori di caduta.
@@ -1435,12 +5653,108 @@ Le scale fisse a gradini, destinate al normale accesso agli ambienti di lavoro, 
 
 ((Le scale verticali permanenti di altezza superiore a 5 metri, aventi una inclinazione superiore a 75 gradi, fissate ad un supporto e utilizzate come mezzo di accesso, devono essere provviste, in alternativa, in base alla valutazione del rischio, di un sistema di protezione individuale contro le cadute dall'alto di cui all'articolo 115 o di una gabbia di sicurezza. I pioli devono distare almeno 15 centimetri dalla parete alla quale sono applicati o alla quale la scala e' fissata. Nel caso di adozione della gabbia di sicurezza la medesima deve essere dotata di maglie o aperture di ampiezza tale da impedire la caduta accidentale della persona verso l'esterno. La parete della gabbia opposta al piano dei pioli non deve distare da questi piu' di 60 centimetri)). ((65))
 
+3.
+                        
+                            
+                                Le scale semplici portatili (a mano) devono essere costruite con materiale adatto alle condizioni di impiego, devono essere sufficientemente resistenti nell'insieme e nei singoli elementi e devono avere dimensioni appropriate al loro uso. Dette scale, se di legno, devono avere i pioli fissati ai montanti mediante incastro. I pioli devono essere privi di nodi. Tali pioli devono essere trattenuti con tiranti in ferro applicati sotto i due pioli estremi; nelle scale lunghe piu' di 4 metri deve essere applicato anche un tirante intermedio. E' vietato l'uso di scale che presentino listelli di legno chiodati sui montanti al posto dei pioli rotti. Esse devono inoltre essere provviste di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dispositivi antisdrucciolevoli alle estremita' inferiori dei due montanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ganci di trattenuta o appoggi antisdrucciolevoli alle estremita' superiori, quando sia necessario per assicurare la stabilita' della scala.
+
 Per le scale provviste alle estremita' superiori di dispositivi di trattenuta, anche scorrevoli su guide, non sono richieste le misure di sicurezza indicate nelle lettere a) e b) del comma 3. Le scale a mano usate per l'accesso ai vari piani dei ponteggi e delle impalcature non devono essere poste l'una in prosecuzione dell'altra. 
 Le scale che servono a collegare stabilmente due ponti, quando sono sistemate verso la parte esterna del ponte, devono essere provviste sul lato esterno di un corrimano parapetto.
 
 Quando l'uso delle scale, per la loro altezza o per altre cause, comporti pericolo di sbandamento, esse devono essere adeguatamente assicurate o trattenute al piede da altra persona.
 
+6.
+                        
+                            
+                                Il datore di lavoro assicura che le scale a pioli siano sistemate in modo da garantire la loro stabilita' durante l'impiego e secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le scale a pioli portatili devono poggiare su un supporto stabile, resistente, di dimensioni adeguate e immobile, in modo da garantire la posizione orizzontale dei pioli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le scale a pioli sospese devono essere agganciate in modo sicuro e, ad eccezione delle scale a funi, in maniera tale da evitare spostamenti e qualsiasi movimento di oscillazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo scivolamento del piede delle scale a pioli portatili, durante il loro uso, deve essere impedito con fissaggio della parte superiore o inferiore dei montanti, o con qualsiasi dispositivo antiscivolo, o ricorrendo a qualsiasi altra soluzione di efficacia equivalente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le scale a pioli usate per l'accesso devono essere tali da sporgere a sufficienza oltre il livello di accesso, a meno che altri dispositivi garantiscono una presa sicura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le scale a pioli composte da piu' elementi innestabili o a sfilo devono essere utilizzate in modo da assicurare il fermo reciproco dei vari elementi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le scale a pioli mobili devono essere fissate stabilmente prima di accedervi.
+
 Il datore di lavoro assicura che le scale a pioli siano utilizzate in modo da consentire ai lavoratori di disporre in qualsiasi momento di un appoggio e di una presa sicuri. In particolare il trasporto a mano di pesi su una scala a pioli non deve precludere una presa sicura.
+
+8.
+                        
+                            
+                                Per l'uso delle scale portatili composte di due o piu' elementi innestati (tipo all'italiana o simili), oltre quanto prescritto nel comma 3, si devono osservare le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lunghezza della scala in opera non deve superare i 15 metri, salvo particolari esigenze, nel qual caso le estremita' superiori dei montanti devono essere assicurate a parti fisse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le scale in opera lunghe piu' di 8 metri devono essere munite di rompitratta per ridurre la freccia di inflessione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nessun lavoratore deve trovarsi sulla scala quando se ne effettua lo spostamento laterale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    durante l'esecuzione dei lavori, una persona deve esercitare da terra una continua vigilanza della scala.
 
 Le scale doppie non devono superare l'altezza di m 5 e devono essere provviste di catena di adeguata resistenza o di altro dispositivo che impedisca l'apertura della scala oltre il limite prestabilito di sicurezza.
 
@@ -1461,6 +5775,56 @@ Nei lavori che possono dar luogo a proiezione di schegge, come quelli di spaccat
 
 ## Art. 115. — (Sistemi di protezione contro le cadute dall'alto)
 
+1.
+                        
+                            
+                                Nei lavori in quota i sistemi di protezione collettiva a cui dare priorita' rispetto ai sistemi di protezione individuale, come previsto all'articolo 111, comma 1, lettera a), ((in via prioritaria sono)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    parapetti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    reti di sicurezza.
+
+2.
+                        
+                            
+                                Qualora non sia stato possibile attuare quanto previsto al comma 1, e' necessario che i lavoratori utilizzino sistemi di protezione individuale idonei per l'uso specifico quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sistemi di trattenuta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sistemi di posizionamento sul lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sistemi di accesso e di posizionamento mediante funi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sistemi di arresto caduta.
+
 Nella scelta dei sistemi di protezione individuale e' prioritario procedere alla scelta dei sistemi di cui al comma 2, lettere a), b) e c), rispetto al sistema di cui alla lettera d) del medesimo comma 2.
 
 I sistemi di cui al comma 2, costituiti da un dispositivo di presa del corpo e da un sistema di collegamento, devono essere assicurati a un punto di ancoraggio sicuro.
@@ -1469,11 +5833,130 @@ I sistemi di cui al comma 2, lettera c), devono rispettare quanto previsto all'a
 
 ## Art. 116. — Obblighi dei datori di lavoro concernenti l'impiego di sistemi di accesso e di posizionamento mediante funi
 
+1.
+                        
+                            
+                                Il datore di lavoro impiega sistemi di accesso e di posizionamento mediante funi in conformita' ai seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    sistema comprendente almeno due funi ancorate separatamente, una per l'accesso, la discesa e il sostegno, detta fune di lavoro, e l'altra con funzione di dispositivo ausiliario, detta fune di sicurezza. E' ammesso l'uso di una fune in circostanze eccezionali in cui l'uso di una seconda fune rende il lavoro piu' pericoloso e se sono adottate misure adeguate per garantire la sicurezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavoratori dotati di un'adeguata imbracatura di sostegno collegata alla fune di sicurezza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fune di lavoro munita di meccanismi sicuri di ascesa e discesa e dotata di un sistema autobloccante volto a evitare la caduta nel caso in cui l'utilizzatore perda il controllo dei propri movimenti.
+La fune di sicurezza deve essere munita di un dispositivo mobile contro le cadute che segue gli spostamenti del lavoratore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attrezzi ed altri accessori utilizzati dai lavoratori, agganciati alla loro imbracatura di sostegno o al sedile o ad altro strumento idoneo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lavori programmati e sorvegliati in modo adeguato, anche al fine di poter immediatamente soccorrere il lavoratore in caso di necessita'. Il programma dei lavori definisce un piano di emergenza, le tipologie operative, i dispositivi di protezione individuale, le tecniche e le procedure operative, gli ancoraggi, il posizionamento degli operatori, i metodi di accesso, le squadre di lavoro e gli attrezzi di lavoro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il programma di lavoro deve essere disponibile presso i luoghi di lavoro ai fini della verifica da parte dell'organo di vigilanza competente per territorio di compatibilita' ai criteri di cui all'articolo 111, commi 1 e 2.
+
 Il datore di lavoro fornisce ai lavoratori interessati una formazione adeguata e mirata alle operazioni previste, in particolare in materia di procedure di salvataggio.
+
+3.
+                        
+                            
+                                La formazione di cui al comma 2 ha carattere teorico-pratico e deve riguardare:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'apprendimento delle tecniche operative e dell'uso dei dispositivi necessari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'addestramento specifico sia su strutture naturali, sia su manufatti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'utilizzo dei dispositivi di protezione individuale, loro caratteristiche tecniche, manutenzione, durata e conservazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli elementi di primo soccorso;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i rischi oggettivi e le misure di prevenzione e protezione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le procedure di salvataggio.
 
 I soggetti formatori, la durata, gli indirizzi ed i requisiti minimi di validita' dei corsi sono riportati nell'allegato XXI.
 
 ## Art. 117. — Lavori in prossimita' di parti attive
+
+1.
+                        
+                            
+                                
+                                    ((Ferme restando le disposizioni di cui all'articolo 83, quando occorre effettuare)) lavori in prossimita' di linee elettriche o di impianti elettrici con parti attive non protette o che per circostanze particolari si debbano ritenere non sufficientemente protette, ferme restando le norme di buona tecnica, si deve rispettare almeno una delle seguenti precauzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    mettere fuori tensione ed in sicurezza le parti attive per tutta la durata dei lavori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    posizionare ostacoli rigidi che impediscano l'avvicinamento alle parti attive;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tenere in permanenza, persone, macchine operatrici, apparecchi di sollevamento, ponteggi ed ogni altra attrezzatura a distanza di sicurezza.
 
 La distanza di sicurezza deve essere tale che non possano avvenire contatti diretti o scariche pericolose per le persone tenendo conto del tipo di lavoro, delle attrezzature usate e delle tensioni presenti ((e comunque la distanza di sicurezza non deve essere inferiore ai limiti di cui all'allegato IX o a quelli risultanti dall'applicazione delle pertinenti norme tecniche)).
 
@@ -1611,7 +6094,78 @@ Il ((Ministero del lavoro, della salute e delle politiche sociali)) si avvale an
 
 ## Art. 132. — Relazione tecnica
 
+1.
+                        
+                            
+                                La relazione di cui all'articolo 131 deve contenere:
+ 
+                            
+                            
+                                a)
+                                
+                                    descrizione degli elementi che costituiscono il ponteggio, loro dimensioni con le tolleranze ammissibili e schema dell'insieme;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    caratteristiche di resistenza dei materiali impiegati e coefficienti di sicurezza adottati per i singoli materiali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indicazione delle prove di carico, a cui sono stati sottoposti i vari elementi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    calcolo del ponteggio secondo varie condizioni di impiego;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    istruzioni per le prove di carico del ponteggio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    istruzioni per il montaggio, impiego e smontaggio del ponteggio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    schemi-tipo di ponteggio con l'indicazione dei massimi ammessi di sovraccarico, di altezza dei ponteggi e di larghezza degli impalcati per i quali non sussiste l'obbligo del calcolo per ogni singola applicazione.
+
 ## Art. 133. — Progetto
+
+1.
+                        
+                            
+                                I ponteggi di altezza superiore a 20 metri e quelli per i quali nella relazione di calcolo non sono disponibili le specifiche configurazioni strutturali utilizzate con i relativi schemi di impiego, nonche' le altre opere provvisionali, costituite da elementi metallici o non, oppure di notevole importanza e complessita' in rapporto alle loro dimensioni ed ai sovraccarichi, devono essere eretti in base ad un progetto comprendente:
+ 
+                            
+                            
+                                a)
+                                
+                                    calcolo di resistenza e stabilita' eseguito secondo le istruzioni approvate nell'autorizzazione ministeriale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disegno esecutivo.
 
 Dal progetto, che deve essere firmato da un ingegnere o architetto abilitato a norma di legge all'esercizio della professione, deve risultare quanto occorre per definire il ponteggio nei riguardi dei carichi, delle sollecitazioni e dell'esecuzione.
 
@@ -1635,9 +6189,102 @@ Nel serraggio di piu' aste concorrenti in un nodo i giunti devono essere colloca
 
 Per ogni piano di ponte devono essere applicati due correnti, di cui uno puo' fare parte del parapetto.
 
+4.
+                        
+                            
+                                Il datore di lavoro assicura che:
+ 
+                            
+                            
+                                a)
+                                
+                                    lo scivolamento degli elementi di appoggio di un ponteggio e' impedito tramite fissaggio su una superficie di appoggio, o con un dispositivo antiscivolo, oppure con qualsiasi altra soluzione di efficacia equivalente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i piani di posa dei predetti elementi di appoggio hanno una capacita' portante sufficiente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il ponteggio e' stabile;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 3 AGOSTO 2009, N. 106));
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le dimensioni, la forma e la disposizione degli impalcati di un ponteggio sono idonee alla natura del lavoro da eseguire, adeguate ai carichi da sopportare e tali da consentire un'esecuzione dei lavori e una circolazione sicure;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il montaggio degli impalcati dei ponteggi e' tale da impedire lo spostamento degli elementi componenti durante l'uso, nonche' la presenza di spazi vuoti pericolosi fra gli elementi che costituiscono gli impalcati e i dispositivi verticali di protezione collettiva contro le cadute.
+
 Il datore di lavoro provvede ad evidenziare le parti di ponteggio non pronte per l'uso, in particolare durante le operazioni di montaggio, smontaggio o trasformazione, mediante segnaletica di avvertimento di pericolo generico e delimitandole con elementi materiali che impediscono l'accesso alla zona di pericolo, ai sensi del titolo V.
 
 Il datore di lavoro assicura che i ponteggi siano montati, smontati o trasformati sotto la diretta sorveglianza di un preposto, a regola d'arte e conformemente al Pi.M.U.S., ad opera di lavoratori che hanno ricevuto una formazione adeguata e mirata alle operazioni previste.
+
+7.
+                        
+                            
+                                La formazione di cui al comma 6 ha carattere teorico-pratico e deve riguardare:
+ 
+                            
+                            
+                                a)
+                                
+                                    la comprensione del piano di montaggio, smontaggio o trasformazione del ponteggio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sicurezza durante le operazioni di montaggio, smontaggio o trasformazione del ponteggio con riferimento alla legislazione vigente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le misure di prevenzione dei rischi di caduta di persone o di oggetti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le misure di sicurezza in caso di cambiamento delle condizioni meteorologiche pregiudizievoli alla sicurezza del ponteggio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le condizioni di carico ammissibile;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualsiasi altro rischio che le suddette operazioni di montaggio, smontaggio o trasformazione possono comportare.
 
 I soggetti formatori, la durata, gli indirizzi ed i requisiti minimi di validita' dei corsi sono riportati nell'allegato XXI.
 
@@ -1660,6 +6307,39 @@ E' consentito un distacco delle tavole del piano di calpestio dalla muratura non
 E' fatto divieto di gettare dall'alto gli elementi del ponteggio.
 
 E' fatto divieto di salire e scendere lungo i montanti.
+
+5.
+                        
+                            
+                                Per i ponteggi di cui alla presente sezione valgono, in quanto applicabili, le disposizioni relative ai ponteggi in legno. Sono ammesse deroghe:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla disposizione di cui all'articolo 125, comma 4, a condizione che l'altezza dei montanti superi di almeno 1 metro l'ultimo impalcato ((...));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla disposizione di cui all'articolo 126, comma 1, a condizione che l'altezza del parapetto sia non inferiore a 95 cm rispetto al piano di calpestio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla disposizione di cui all'articolo 126, comma 1, a condizione che l'altezza del fermapiede sia non inferiore a 15 cm rispetto al piano di calpestio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 3 AGOSTO 2009, N.106)).
 
 ## - Sezione VI Ponteggi movibili
 
@@ -1745,6 +6425,24 @@ Nel caso in cui sia dubbia tale resistenza, devono essere adottati i necessari a
 
 ## Art. 149. — Paratoie e cassoni
 
+1.
+                        
+                            
+                                Paratoie e cassoni devono essere:
+ 
+                            
+                            
+                                a)
+                                
+                                    ben costruiti, con materiali appropriati e solidi dotati di resistenza sufficiente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvisti dell'attrezzatura adeguata per consentire ai lavoratori di ripararsi in caso di irruzione d'acqua e di materiali.
+
 La costruzione, la sistemazione, la trasformazione o lo smantellamento di una paratoia o di un cassone devono essere effettuati soltanto sotto la diretta sorveglianza di un preposto.
 
 Il datore di lavoro assicura che le paratoie e i cassoni vengano ispezionati ad intervalli regolari.
@@ -1809,11 +6507,54 @@ Il ((Ministro del lavoro, della salute e delle politiche sociali)), sentita la C
 
 ## Art. 157. — (Sanzioni per i committenti e i responsabili dei lavori)
 
+1.
+                        
+                            
+                                Il committente o il responsabile dei lavori sono puniti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 90, commi 3, 4 e 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 1.000 a 4.800 euro per la violazione degli articoli 90, comma 9, lettera a), 93, comma 2, e 100, comma 6-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la sanzione amministrativa pecuniaria da 711,92 a 2.562,91 euro per la violazione degli articoli 90, commi 7, 9, lettere b-bis) e c), e 101, comma 1, primo periodo.
+
 ## Art. 158. — (( (Sanzioni per i coordinatori) ))
 
 ((
 
 Il coordinatore per la progettazione e' punito con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 91, comma 1;
+
+2.
+                        
+                            
+                                Il coordinatore per l'esecuzione dei lavori e' punito:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 92, commi 1, lettere a), b), c), e) ed f), e 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 1.000 a 4.800 euro per la violazione dell'articolo 92, comma 1, lettera d).
 
 ))
 
@@ -1823,6 +6564,38 @@ Il coordinatore per la progettazione e' punito con l'arresto da tre a sei mesi o
 
 Il datore di lavoro e' punito con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 96, comma 1, lettera g); si applica la pena dell'arresto da 4 a 8 mesi o l'ammenda da 2.000 a 8.000 euro se la violazione e' commessa in cantieri temporanei o mobili in cui l'impresa svolga lavorazioni in presenza di rischi particolari, individuati in base all'allegato XI; si applica la pena dell'ammenda da 2.000 a 4.000 euro se il piano operativo di sicurezza e' redatto in assenza di uno o piu' degli elementi di cui all'allegato XV.
 
+2.
+                        
+                            
+                                Il datore di lavoro e il dirigente sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto fino a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione degli articoli 97, comma 1, 100, comma 3, 111, commi 1, lettera a), e 6, 114, comma 1, 117, 118, 121, 122, 126, 128, comma 1, 145, commi 1 e 2 e 148;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 1.000 a 4.800 euro per la violazione degli articoli 108, 112, 119, 123, 125, commi 1, 2 e 3, 127, 129, comma 1, 136, commi 1, 2, 3, 4, 5 e 6, 140, comma 3, 147, comma 1, 151, comma 1, 152, commi 1 e 2 e 154;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con l'arresto sino a due mesi o con l'ammenda da 500 a 2.000 euro per la violazione degli articoli 96, comma 1, lettere. a), b), c), d), e) ed f), e 97, commi 3 e 3-ter, nonche' per la violazione delle disposizioni del capo II del presente titolo non altrimenti sanzionate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazione degli articoli 100, comma 4, e 101, commi 2 e 3.
+
 La violazione di piu' precetti riconducibili alla categoria omogenea di requisiti di sicurezza relativi ai luoghi di lavoro di cui all'allegato XIII, nella parte relativa alle "Prescrizioni per i servizi igienico-assistenziali a disposizione dei lavoratori nei cantieri", punti 1, 2, 3, 4, 5 e 6, e nella parte relativa alle "Prescrizioni per i posti di lavoro nei cantieri" per i punti 1, 2, 3, 4, 5, 6, 7 e 8, e' considerata una unica violazione ed e' punita con la pena prevista dal comma 2, lettera c). L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati.
 
 ))
@@ -1830,6 +6603,31 @@ La violazione di piu' precetti riconducibili alla categoria omogenea di requisit
 ## Art. 160. — (( (Sanzioni per i lavoratori autonomi) ))
 
 ((
+
+1.
+                        
+                            
+                                I lavoratori autonomi sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto fino a tre mesi o con l'ammenda da 400 a 1.600 euro per la violazione dell'articolo 100, comma 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto fino a un mese o con l'ammenda da 300 a 800 euro per la violazione dell'articolo 94;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con l'arresto fino a un mese o con l'ammenda da 200 a 600 euro per la violazione degli articoli 124, 138, commi 3 e 4, e 152, comma 2.
 
 ))
 
@@ -1849,6 +6647,108 @@ Entro dodici mesi dalla data di entrata in vigore del presente decreto legislati
 
 ## Art. 162. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente titolo si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    segnaletica di sicurezza e di salute sul luogo di lavoro, di seguito indicata «segnaletica di sicurezza»: una segnaletica che, riferita ad un oggetto, ad una attivita' o ad una situazione determinata, fornisce una indicazione o una prescrizione concernente la sicurezza o la salute sul luogo di lavoro, e che utilizza, a seconda dei casi, un cartello, un colore, un segnale luminoso o acustico, una comunicazione verbale o un segnale gestuale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    segnale di divieto: un segnale che vieta un comportamento che potrebbe far correre o causare un pericolo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segnale di avvertimento: un segnale che avverte di un rischio o pericolo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    segnale di prescrizione: un segnale che prescrive un determinato comportamento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    segnale di salvataggio o di soccorso: un segnale che fornisce indicazioni relative alle uscite di sicurezza o ai mezzi di soccorso o di salvataggio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    segnale di informazione: un segnale che fornisce indicazioni diverse da quelle specificate alle lettere da b) ad e);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    cartello: un segnale che, mediante combinazione di una forma geometrica, di colori e di un simbolo o pittogramma, fornisce una indicazione determinata, la cui visibilita' e' garantita da una illuminazione di intensita' sufficiente;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    cartello supplementare: un cartello impiegato assieme ad un cartello del tipo indicato alla lettera g) e che fornisce indicazioni complementari;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    colore di sicurezza: un colore al quale e' assegnato un significato determinato;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    simbolo o pittogramma: un'immagine che rappresenta una situazione o che prescrive un determinato comportamento, impiegata su un cartello o su una superficie luminosa;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    segnale luminoso: un segnale emesso da un dispositivo costituito da materiale trasparente o semitrasparente, che e' illuminato dall'interno o dal retro in modo da apparire esso stesso come una superficie luminosa;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    segnale acustico: un segnale sonoro in codice emesso e diffuso da un apposito dispositivo, senza impiego di voce umana o di sintesi vocale;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    comunicazione verbale: un messaggio verbale predeterminato, con impiego di voce umana o di sintesi vocale;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    segnale gestuale: un movimento o posizione delle braccia o delle mani in forma convenzionale per guidare persone che effettuano manovre implicanti un rischio o un pericolo attuale per i lavoratori.
+
 ## Art. 163. — Obblighi del datore di lavoro
 
 Quando, anche a seguito della valutazione effettuata in conformita' all'articolo 28, risultano rischi che non possono essere evitati o sufficientemente limitati con misure, metodi, ovvero sistemi di organizzazione del lavoro, o con mezzi tecnici di protezione collettiva, il datore di lavoro fa ricorso alla segnaletica di sicurezza, conformemente alle prescrizioni di cui agli allegati da XXIV a XXXII.
@@ -1859,11 +6759,47 @@ Il datore di lavoro, per regolare il traffico all'interno dell'impresa o dell'un
 
 ## Art. 164. — Informazione e formazione
 
+1.
+                        
+                            
+                                Il datore di lavoro provvede affinche':
+ 
+                            
+                            
+                                a)
+                                
+                                    il rappresentante dei lavoratori per la sicurezza e i lavoratori siano informati di tutte le misure da adottare riguardo alla segnaletica di sicurezza impiegata all'interno dell'impresa ovvero dell'unita' produttiva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i lavoratori ricevano una formazione adeguata, in particolare sotto forma di istruzioni precise, che deve avere per oggetto specialmente il significato della segnaletica di sicurezza, soprattutto quando questa implica l'uso di gesti o di parole, nonche' i comportamenti generali e specifici da seguire.
+
 ## - Capo II Sanzioni
 
 ## Art. 165. — (( (Sanzioni a carico del datore di lavoro e del dirigente) ))
 
 ((
+
+1.
+                        
+                            
+                                Il datore di lavoro ed il dirigente sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 163;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 750 a 4.000 euro per la violazione dell'articolo 164.
 
 La violazione di piu' precetti riconducibili alla categoria omogenea di requisiti di sicurezza relativi alla segnaletica di sicurezza di cui agli allegati XXIV, punti 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 e 12, XXV, punti 1, 2 e 3, XXVI, per l'intero, XXVII, per l'intero, XXVIII, punti 1 e 2, XXIX, punti 1 e 2, XXX, punti 1 e 2, XXXI, punti 1 e 2, e XXXII, punti 1, 2 e 3 e' considerata una unica violazione ed e' punita con la pena prevista dal comma 1, lettera a).
 L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati.
@@ -1880,13 +6816,81 @@ L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazio
 
 Le norme del presente titolo si applicano alle attivita' lavorative di movimentazione manuale dei carichi che comportano per i lavoratori rischi di patologie da sovraccarico biomeccanico, in particolare dorso-lombari.
 
+2.
+                        
+                            
+                                Ai fini del presente titolo, s'intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    movimentazione manuale dei carichi: le operazioni di trasporto o di sostegno di un carico ad opera di uno o piu' lavoratori, comprese le azioni del sollevare, deporre, spingere, tirare, portare o spostare un carico, che, per le loro caratteristiche o in conseguenza delle condizioni ergonomiche sfavorevoli, comportano rischi di patologie da sovraccarico biomeccanico, in particolare dorso-lombari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    patologie da sovraccarico biomeccanico: patologie delle strutture osteoarticolari, muscolotendinee e nervovascolari.
+
 ## Art. 168. — Obblighi del datore di lavoro
 
 Il datore di lavoro adotta le misure organizzative necessarie e ricorre ai mezzi appropriati, in particolare attrezzature meccaniche, per evitare la necessita' di una movimentazione manuale dei carichi da parte dei lavoratori.
 
+2.
+                        
+                            
+                                Qualora non sia possibile evitare la movimentazione manuale dei carichi ad opera dei lavoratori, il datore di lavoro adotta le misure organizzative necessarie, ricorre ai mezzi appropriati e fornisce ai lavoratori stessi i mezzi adeguati, allo scopo di ridurre il rischio che comporta la movimentazione manuale di detti carichi, tenendo conto dell'allegato XXXIII, ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    organizza i posti di lavoro in modo che detta movimentazione assicuri condizioni di sicurezza e salute;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valuta, se possibile anche in fase di proget-tazione, le condizioni di sicurezza e di salute connesse al lavoro in questione tenendo conto dell'allegato XXXIII;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    evita o riduce i rischi, particolarmente di patologie dorso-lombari, adottando le misure adeguate, tenendo conto in particolare dei fattori individuali di rischio, delle caratteristiche dell'ambiente di lavoro e delle esigenze che tale attivita' comporta, in base all'allegato XXXIII;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sottopone i lavoratori alla sorveglianza sanitaria di cui all'articolo 41, sulla base della valutazione del rischio e dei fattori individuali di rischio di cui all'allegato XXXIII.
+
 Le norme tecniche costituiscono criteri di riferimento per le finalita' del presente articolo e dell'allegato XXXIII, ove applicabili. Negli altri casi si puo' fare riferimento alle buone prassi e alle linee guida.
 
 ## Art. 169. — Informazione, formazione e addestramento
+
+1.
+                        
+                            
+                                Tenendo conto dell'allegato XXXIII, il datore di lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce ai lavoratori le informazioni adeguate relativamente al peso ed alle altre caratteristiche del carico movimentato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicura ad essi la formazione adeguata in relazione ai rischi lavorativi ed alle modalita' di corretta esecuzione delle attivita'.
 
 Il datore di lavoro fornisce ai lavoratori l'addestramento adeguato in merito alle corrette manovre e procedure da adottare nella movimentazione manuale dei carichi.
 
@@ -1895,6 +6899,24 @@ Il datore di lavoro fornisce ai lavoratori l'addestramento adeguato in merito al
 ## Art. 170. — (( (Sanzioni a carico del datore di lavoro e del dirigente) ))
 
 ((
+
+1.
+                        
+                            
+                                Il datore di lavoro ed il dirigente sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 fino a 6.400 euro per la violazione dell'articolo 168, commi 1 e 2.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 750 a 4.000 euro per la violazione dell'articolo 169, comma 1.
 
 ))
 
@@ -1908,11 +6930,100 @@ Il datore di lavoro fornisce ai lavoratori l'addestramento adeguato in merito al
 
 Le norme del presente titolo si applicano alle attivita' lavorative che comportano l'uso di attrezzature munite di videoterminali.
 
+2.
+                        
+                            
+                                Le norme del presente titolo non si applicano ai lavoratori addetti:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai posti di guida di veicoli o macchine;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai sistemi informatici montati a bordo di un mezzo di trasporto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai sistemi informatici destinati in modo prioritario all'utilizzazione da parte del pubblico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle macchine calcolatrici, ai registratori di cassa e a tutte le attrezzature munite di un piccolo dispositivo di visualizzazione dei dati o delle misure, necessario all'uso diretto di tale attrezzatura;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle macchine di videoscrittura senza schermo separato.
+
 ## Art. 173. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto legislativo si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    videoterminale: uno schermo alfanumerico o grafico a prescindere dal tipo di procedimento di visualizzazione utilizzato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    posto di lavoro: l'insieme che comprende le attrezzature munite di videoterminale, eventualmente con tastiera ovvero altro sistema di immissione dati, incluso il mouse, il software per l'interfaccia uomo-macchina, gli accessori opzionali, le apparecchiature connesse, comprendenti l'unita' a dischi, il telefono, il modem, la stampante, il supporto per i documenti, la sedia, il piano di lavoro, nonche' l'ambiente di lavoro immediatamente circostante;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lavoratore: il lavoratore che utilizza un'attrezzatura munita di videoterminali, in modo sistematico o abituale, per venti ore settimanali, dedotte le interruzioni di cui all'articolo 175.
 
 ## - Capo II Obblighi del datore di lavoro, dei dirigenti e dei preposti
 
 ## Art. 174. — Obblighi del datore di lavoro
+
+1.
+                        
+                            
+                                Il datore di lavoro, all'atto della valutazione del rischio di cui all'articolo 28, analizza i posti di lavoro con particolare riguardo:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai rischi per la vista e per gli occhi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai problemi legati alla postura ed all'affaticamento fisico o mentale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle condizioni ergonomiche e di igiene ambientale.
 
 Il datore di lavoro adotta le misure appropriate per ovviare ai rischi riscontrati in base alle valutazioni di cui al comma 1, tenendo conto della somma ovvero della combinazione della incidenza dei rischi riscontrati.
 
@@ -1936,6 +7047,24 @@ La pausa e' considerata a tutti gli effetti parte integrante dell'orario di lavo
 
 ## Art. 176. — Sorveglianza sanitaria
 
+1.
+                        
+                            
+                                I lavoratori sono sottoposti alla sorveglianza sanitaria di cui all'articolo 41, con particolare riferimento:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai rischi per la vista e per gli occhi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai rischi per l'apparato muscolo-scheletrico.
+
 Sulla base delle risultanze degli accertamenti di cui al comma 1 i lavoratori vengono classificati ai sensi dell'articolo 41, comma 6.
 
 Salvi i casi particolari che richiedono una frequenza diversa stabilita dal medico competente, la periodicita' delle visite di controllo e' biennale per i lavoratori classificati come idonei con prescrizioni o limitazioni e per i lavoratori che abbiano compiuto il cinquantesimo anno di eta'; quinquennale negli altri casi.
@@ -1948,11 +7077,50 @@ Il datore di lavoro fornisce a sue spese ai lavoratori i dispositivi speciali di
 
 ## Art. 177. — Informazione e formazione
 
+1.
+                        
+                            
+                                In ottemperanza a quanto previsto in via generale dall'articolo 18, comma 1, lettera l), il datore di lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce ai lavoratori informazioni, in particolare per quanto riguarda:
+ 1) le misure applicabili al posto di lavoro, in base all'analisi dello stesso di cui all'articolo 174;
+ 2) le modalita' di svolgimento dell'attivita';
+ 3) la protezione degli occhi e della vista;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicura ai lavoratori una formazione adeguata in particolare in ordine a quanto indicato al comma 1, lettera a).
+
 ## - Capo III Sanzioni
 
 ## Art. 178. — (( (Sanzioni a carico del datore di lavoro e del dirigente) ))
 
 ((
+
+1.
+                        
+                            
+                                Il datore di lavoro ed il dirigente sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 fino a 6.400 euro per la violazione degli articoli 174, comma 2 e 3, 175, commi 1 e 3, e 176, commi 1, 3, 5;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da 750 a 4.000 euro per la violazione degli articoli 176, comma 6, e 177.
 
 La violazione di piu' precetti riconducibili alla categoria omogenea di requisiti di sicurezza relativi alle attrezzature munite di videoterminale di cui all'allegato XXXIV, punti 1, 2 e 3 e' considerata una unica violazione ed e' punita con la pena prevista dal comma 1, lettera a). L'organo di vigilanza e' tenuto a precisare in ogni caso, in sede di contestazione, i diversi precetti violati.
 
@@ -1992,9 +7160,87 @@ Il datore di lavoro adatta le misure di cui all'articolo 182 alle esigenze dei l
 
 ## Art. 184. — Informazione e formazione dei lavoratori
 
+1.
+                        
+                            
+                                Nell'ambito degli obblighi di cui agli articoli 36 e 37, il datore di lavoro provvede affinche' i lavoratori esposti a rischi derivanti da agenti fisici sul luogo di lavoro e i loro rappresentanti vengano informati e formati in relazione al risultato della valutazione dei rischi con particolare riguardo:
+ 
+                            
+                            
+                                a)
+                                
+                                    alle misure adottate in applicazione del presente titolo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'entita' e al significato dei valori limite di esposizione e dei valori di azione definiti nei Capi II, III, IV e V, nonche' ai potenziali rischi associati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai risultati della valutazione, misurazione o calcolo dei livelli di esposizione ai singoli agenti fisici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle modalita' per individuare e segnalare gli effetti negativi dell'esposizione per la salute;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle circostanze nelle quali i lavoratori hanno diritto a una sorveglianza sanitaria e agli obiettivi della stessa;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle procedure di lavoro sicure per ridurre al minimo i rischi derivanti dall'esposizione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'uso corretto di adeguati dispositivi di protezione individuale e alle relative indicazioni e controindicazioni sanitarie all'uso.
+
 ## Art. 185. — Sorveglianza sanitaria
 
 La sorveglianza sanitaria dei lavoratori esposti agli agenti fisici viene svolta secondo i principi generali di cui all'articolo 41, ed e' effettuata dal medico competente nelle modalita' e nei casi previsti ai rispettivi capi del presente titolo sulla base dei risultati della valutazione del rischio che gli sono trasmessi dal datore di lavoro per il tramite del servizio di prevenzione e protezione.
+
+2.
+                        
+                            
+                                Nel caso in cui la sorveglianza sanitaria riveli in un lavoratore un'alterazione apprezzabile dello stato di salute correlata ai rischi lavorativi il medico competente ne informa il lavoratore e, nel rispetto del segreto professionale, il datore di lavoro, che provvede a:
+ 
+                            
+                            
+                                a)
+                                
+                                    sottoporre a revisione la valutazione dei rischi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sottoporre a revisione le misure predisposte per eliminare o ridurre i rischi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tenere conto del parere del medico competente nell'attuazione delle misure necessarie per eliminare o ridurre il rischio.
 
 ## Art. 186. — Cartella sanitaria e di rischio
 
@@ -2008,11 +7254,153 @@ Il presente capo determina i requisiti minimi per la protezione dei lavoratori c
 
 ## Art. 188. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente capo si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    pressione acustica di picco (ppeak): valore massimo della pressione acustica istantanea ponderata in frequenza «C»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    livello di esposizione giornaliera al rumore (LEX,8h): [dB(A) riferito a 20 \muPa]: valore medio, ponderato in funzione del tempo, dei livelli di esposizione al rumore per una giornata lavorativa nominale di otto ore, definito dalla norma internazionale ISO 1999: 1990 punto 3.6. Si riferisce a tutti i rumori sul lavoro, incluso il rumore impulsivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    livello di esposizione settimanale al rumore (LEX,w): valore medio, ponderato in funzione del tempo, dei livelli di esposizione giornaliera al rumore per una settimana nominale di cinque giornate lavorative di otto ore, definito dalla norma internazionale ISO 1999: 1990 punto 3.6, nota 2.
+
 ## Art. 189. — Valori limite di esposizione e valori di azione
+
+1.
+                        
+                            
+                                I valori limite di esposizione e i valori di azione, in relazione al livello di esposizione giornaliera al rumore e alla pressione acustica di picco, sono fissati a:
+ 
+                            
+                            
+                                a)
+                                
+                                    valori limite di esposizione rispettivamente LEX = 87 dB(A) e ppeak = 200 Pa (140 dB(C) riferito a 20 \muPa);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valori superiori di azione: rispettivamente LEX = 85 dB(A) e ppeak = 140 Pa (137 dB(C) riferito a 20 \muPa);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valori inferiori di azione: rispettivamente LEX = 80 dB(A) e ppeak = 112 Pa (135 dB(C) riferito a 20 \muPa).
+
+2.
+                        
+                            
+                                Laddove a causa delle caratteristiche intrinseche della attivita' lavorativa l'esposizione giornaliera al rumore varia significativamente, da una giornata di lavoro all'altra, e' possibile sostituire, ai fini dell'applicazione dei valori limite di esposizione e dei valori di azione, il livello di esposizione giornaliera al rumore con il livello di esposizione settimanale a condizione che:
+ 
+                            
+                            
+                                a)
+                                
+                                    il livello di esposizione settimanale al rumore, come dimostrato da un controllo idoneo, non ecceda il valore limite di esposizione di 87 dB(A);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano adottate le adeguate misure per ridurre al minimo i rischi associati a tali attivita'.
 
 Nel caso di variabilita' del livello di esposizione settimanale va considerato il livello settimanale massimo ricorrente.
 
 ## Art. 190. — Valutazione del rischio
+
+1.
+                        
+                            
+                                Nell'ambito di quanto previsto dall'articolo 181, il datore di lavoro valuta l'esposizione dei lavoratori al rumore durante il lavoro prendendo in considerazione in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il livello, il tipo e la durata dell'esposizione, ivi inclusa ogni esposizione a rumore impulsivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i valori limite di esposizione e i valori di azione di cui all'articolo 189; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutti gli effetti sulla salute e sulla sicurezza dei lavoratori particolarmente sensibili al rumore, con particolare riferimento alle donne in gravidanza e i minori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per quanto possibile a livello tecnico, tutti gli effetti sulla salute e sicurezza dei lavoratori derivanti da interazioni fra rumore e sostanze ototossiche connesse con l'attivita' svolta e fra rumore e vibrazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tutti gli effetti indiretti sulla salute e sulla sicurezza dei lavoratori risultanti da interazioni fra rumore e segnali di avvertimento o altri suoni che vanno osservati al fine di ridurre il rischio di infortuni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le informazioni sull'emissione di rumore fornite dai costruttori dell'attrezzatura di lavoro in conformita' alle vigenti disposizioni in materia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'esistenza di attrezzature di lavoro alternative progettate per ridurre l'emissione di rumore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il prolungamento del periodo di esposizione al rumore oltre l'orario di lavoro normale, in locali di cui e' responsabile; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le informazioni raccolte dalla sorveglianza sanitaria, comprese, per quanto possibile, quelle reperibili nella letteratura scientifica; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la disponibilita' di dispositivi di protezione dell'udito con adeguate caratteristiche di attenuazione.
 
 Se, a seguito della valutazione di cui al comma 1, puo' fondatamente ritenersi che i valori inferiori di azione possono essere superati, il datore di lavoro misura i livelli di rumore cui i lavoratori sono esposti, i cui risultati sono riportati nel documento di valutazione.
 
@@ -2026,9 +7414,86 @@ La valutazione di cui al comma 1 individua le misure di prevenzione e protezione
 
 ## Art. 191. — Valutazione di attivita' a livello di esposizione molto variabile
 
+1.
+                        
+                            
+                                Fatto salvo il divieto al superamento dei valori limite di esposizione, per attivita' che comportano un'elevata fluttuazione dei livelli di esposizione personale dei lavoratori, il datore di lavoro puo' attribuire a detti lavoratori un'esposizione al rumore al di sopra dei valori superiori di azione, garantendo loro le misure di prevenzione e protezione conseguenti e in particolare: 
+                            
+                            
+                                a)
+                                
+                                    la disponibilita' dei dispositivi di protezione individuale dell'udito;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'informazione e la formazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    il controllo sanitario. In questo caso la misurazione associata alla valutazione si limita a determinare il livello di rumore prodotto dalle attrezzature nei posti operatore ai fini dell'identificazione delle misure di prevenzione e protezione e per formulare il programma delle misure tecniche e organizzative di cui all'articolo 192, comma 2.
+
 Sul documento di valutazione di cui all'articolo 28, a fianco dei nominativi dei lavoratori cosi' classificati, va riportato il riferimento al presente articolo.
 
 ## Art. 192. — Misure di prevenzione e protezione
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 182, il datore di lavoro elimina i rischi alla fonte o li riduce al minimo mediante le seguenti misure:
+ 
+                            
+                            
+                                a)
+                                
+                                    adozione di altri metodi di lavoro che implicano una minore esposizione al rumore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    scelta di attrezzature di lavoro adeguate, tenuto conto del lavoro da svolgere, che emettano il minor rumore possibile, inclusa l'eventualita' di rendere disponibili ai lavoratori attrezzature di lavoro conformi ai requisiti di cui al titolo III, il cui obiettivo o effetto e' di limitare l'esposizione al rumore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    progettazione della struttura dei luoghi e dei posti di lavoro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adeguata informazione e formazione sull'uso corretto delle attrezzature di lavoro in modo da ridurre al minimo la loro esposizione al rumore;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adozione di misure tecniche per il contenimento:
+ 1) del rumore trasmesso per via aerea, quali schermature, involucri o rivestimenti realizzati con materiali fonoassorbenti;
+ 2) del rumore strutturale, quali sistemi di smorzamento o di isolamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    opportuni programmi di manutenzione delle attrezzature di lavoro, del luogo di lavoro e dei sistemi sul posto di lavoro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    riduzione del rumore mediante una migliore organizzazione del lavoro attraverso la limitazione della durata e dell'intensita' dell'esposizione e l'adozione di orari di lavoro appropriati, con sufficienti periodi di riposo.
 
 Se a seguito della valutazione dei rischi di cui all'articolo 190 risulta che i valori ((superiori)) di azione sono superati, il datore di lavoro elabora ed applica un programma di misure tecniche e organizzative volte a ridurre l'esposizione al rumore, considerando in particolare le misure di cui al comma 1.
 
@@ -2038,9 +7503,66 @@ Nel caso in cui, data la natura dell'attivita', il lavoratore benefici dell'util
 
 ## Art. 193. — Uso dei dispositivi di protezione individuali
 
+1.
+                        
+                            
+                                In ottemperanza a quanto disposto dall'articolo 18, comma 1, lettera c), il datore di lavoro, nei casi in cui i rischi derivanti dal rumore non possono essere evitati con le misure di prevenzione e protezione di cui all'articolo 192, fornisce i dispositivi di protezione individuali per l'udito conformi alle disposizioni contenute nel titolo III, capo II, e alle seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui l'esposizione al rumore superi i valori inferiori di azione il datore di lavoro mette a disposizione dei lavoratori dispositivi di protezione individuale dell'udito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui l'esposizione al rumore sia pari o al di sopra dei valori superiori di azione esige che i lavoratori utilizzino i dispositivi di protezione individuale dell'udito;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sceglie dispositivi di protezione individuale dell'udito che consentono di eliminare il rischio per l'udito o di ridurlo al minimo, previa consultazione dei lavoratori o dei loro rappresentanti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verifica l'efficacia dei dispositivi di protezione individuale dell'udito.
+
 Il datore di lavoro tiene conto dell'attenuazione prodotta dai dispositivi di protezione individuale dell'udito indossati dal lavoratore solo ai fini di valutare l'efficienza dei DPI uditivi e il rispetto del valore limite di esposizione. I mezzi individuali di protezione dell'udito sono considerati adeguati ai fini delle presenti norme se, correttamente usati, ((e comunque rispettano le prestazioni richieste dalle normative tecniche)).
 
 ## Art. 194. — Misure per la limitazione dell'esposizione
+
+1.
+                        
+                            
+                                Fermo restando l'obbligo del non superamento dei valori limite di esposizione, se, nonostante l'adozione delle misure prese in applicazione del presente capo, si individuano esposizioni superiori a detti valori, il datore di lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    adotta misure immediate per riportare l'esposizione al di sotto dei valori limite di esposizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individua le cause dell'esposizione eccessiva;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modifica le misure di protezione e di prevenzione per evitare che la situazione si ripeta.
 
 ## Art. 195. — Informazione e formazione dei lavoratori
 
@@ -2074,7 +7596,61 @@ Il presente capo prescrive le misure per la tutela della salute e della sicurezz
 
 ## Art. 200. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente capo, si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    vibrazioni trasmesse al sistema mano-braccio: le vibrazioni meccaniche che, se trasmesse al sistema mano-braccio nell'uomo, comportano un rischio per la salute e la sicurezza dei lavoratori, in particolare disturbi vascolari, osteoarticolari, neurologici o muscolari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vibrazioni trasmesse al corpo intero: le vibrazioni meccaniche che, se trasmesse al corpo intero, comportano rischi per la salute e la sicurezza dei lavoratori, in particolare lombalgie e traumi del rachide;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esposizione giornaliera a vibrazioni trasmesse al sistema mano-braccio A(8): [ms-2]: valore mediato nel tempo, ponderato in frequenza, delle accelerazioni misurate per una giornata lavorativa nominale di otto ore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esposizione giornaliera a vibrazioni trasmesse al corpo intero A(8): [ms-2]: valore mediato nel tempo, ponderato, delle accelerazioni misurate per una giornata lavorativa nominale di otto ore.
+
 ## Art. 201. — Valori limite di esposizione e valori d'azione
+
+1.
+                        
+                            
+                                Ai fini del presente capo, si definiscono i seguenti valori limite di esposizione e valori di azione.
+ 
+                            
+                            
+                                a)
+                                
+                                    per le vibrazioni trasmesse al sistema mano-braccio:
+ 1) il valore limite di esposizione giornaliero, normalizzato a un periodo di riferimento di 8 ore, e' fissato a 5 m/s2; mentre su periodi brevi e' pari a 20 m/s2;
+ 2) il valore d'azione giornaliero, normalizzato a un periodo di riferimento di 8 ore, che fa scattare l'azione, e' fissato a 2,5 m/s2.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le vibrazioni trasmesse al corpo intero:
+ 1) il valore limite di esposizione giornaliero, normalizzato a un periodo di riferimento di 8 ore, e' fissato a 1,0 m/s2; mentre su periodi brevi e' pari a 1,5 m/s2;
+ 2) il valore d'azione giornaliero, normalizzato a un periodo di riferimento di 8 ore, e' fissato a 0,5 m/s2.
 
 Nel caso di variabilita' del livello di esposizione giornaliero va considerato il livello giornaliero massimo ricorrente.
 
@@ -2089,7 +7665,141 @@ L'esposizione dei lavoratori alle vibrazioni trasmesse al sistema mano-braccio e
 
 L'esposizione dei lavoratori alle vibrazioni trasmesse al corpo intero e' valutata o misurata in base alle disposizioni di cui all'allegato XXXV, parte B.
 
+5.
+                        
+                            
+                                Ai fini della valutazione di cui al comma 1, il datore di lavoro tiene conto, in particolare, dei seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    il livello, il tipo e la durata dell'esposizione, ivi inclusa ogni esposizione a vibrazioni intermittenti o a urti ripetuti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i valori limite di esposizione e i valori d'azione specificati nell'articolo 201;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli eventuali effetti sulla salute e sulla sicurezza dei lavoratori particolarmente sensibili al rischio con particolare riferimento alle donne in gravidanza e ai minori;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli eventuali effetti indiretti sulla sicurezza e salute dei lavoratori risultanti da interazioni tra le vibrazioni meccaniche, il rumore e l'ambiente di lavoro o altre attrezzature;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le informazioni fornite dal costruttore dell'attrezzatura di lavoro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'esistenza di attrezzature alternative progettate per ridurre i livelli di esposizione alle vibrazioni meccaniche;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il prolungamento del periodo di esposizione a vibrazioni trasmesse al corpo intero al di la' delle ore lavorative, in locali di cui e' responsabile;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    condizioni di lavoro particolari, come le basse temperature, il bagnato, l'elevata umidita' o il sovraccarico biomeccanico degli arti superiori e del rachide;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    informazioni raccolte dalla sorveglianza sanitaria, comprese, per quanto possibile, quelle reperibili nella letteratura scientifica.
+
 ## Art. 203. — Misure di prevenzione e protezione
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto nell'articolo 182, in base alla valutazione dei rischi di cui all'articolo 202, quando sono superati i valori d'azione, il datore di lavoro elabora e applica un programma di misure tecniche o organizzative, volte a ridurre al minimo l'esposizione e i rischi che ne conseguono, considerando in particolare quanto segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    altri metodi di lavoro che richiedono una minore esposizione a vibrazioni meccaniche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la scelta di attrezzature di lavoro adeguate concepite nel rispetto dei principi ergonomici e che producono, tenuto conto del lavoro da svolgere, il minor livello possibile di vibrazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la fornitura di attrezzature accessorie per ridurre i rischi di lesioni provocate dalle vibrazioni, quali sedili che attenuano efficacemente le vibrazioni trasmesse al corpo intero e maniglie o guanti che attenuano la vibrazione trasmessa al sistema mano-braccio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adeguati programmi di manutenzione delle attrezzature di lavoro, del luogo di lavoro, dei sistemi sul luogo di lavoro e dei DPI;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la progettazione e l'organizzazione dei luoghi e dei posti di lavoro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'adeguata informazione e formazione dei lavoratori sull'uso corretto e sicuro delle attrezzature di lavoro e dei DPI, in modo da ridurre al minimo la loro esposizione a vibrazioni meccaniche;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la limitazione della durata e dell'intensita' dell'esposizione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'organizzazione di orari di lavoro appropriati, con adeguati periodi di riposo;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la fornitura, ai lavoratori esposti, di indumenti per la protezione dal freddo e dall'umidita'.
 
 Se, nonostante le misure adottate, il valore limite di esposizione e' stato superato, il datore di lavoro prende misure immediate per riportare l'esposizione al di sotto di tale valore, individua le cause del superamento e adatta, di conseguenza, le misure di prevenzione e protezione per evitare un nuovo superamento.
 
@@ -2129,6 +7839,70 @@ Il presente capo non riguarda la protezione da eventuali effetti a lungo termine
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente capo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "campi elettromagnetici", campi elettrici statici, campi magnetici statici e campi elettrici, magnetici ed elettromagnetici variabili nel tempo con frequenze sino a 300 GHz; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "effetti biofisici diretti", effetti provocati direttamente nel corpo umano a causa della sua presenza all'interno di un campo elettromagnetico, che comprendono: 
+ 1) effetti termici, quali il riscaldamento dei tessuti a causa dell'assorbimento di energia dai campi elettromagnetici nei tessuti medesimi; 
+ 2) effetti non termici, quali la stimolazione di muscoli, nervi e organi sensoriali. Tali effetti possono essere di detrimento per la salute mentale e fisica dei lavoratori esposti. Inoltre, la stimolazione degli organi sensoriali puo' comportare sintomi transitori quali vertigini e fosfeni. Inoltre, tali effetti possono generare disturbi temporanei e influenzare le capacita' cognitive o altre funzioni cerebrali o muscolari e possono, pertanto, influire negativamente sulla capacita' di un lavoratore di operare in modo sicuro; 
+ 3) correnti negli arti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "effetti indiretti", effetti provocati dalla presenza di un oggetto in un campo elettromagnetico, che potrebbe essere causa di un pericolo per la salute e sicurezza, quali: 
+ 1) interferenza con attrezzature e dispositivi medici elettronici, compresi stimolatori cardiaci e altri impianti o dispositivi medici portati sul corpo; 
+ 2) rischio propulsivo di oggetti ferromagnetici all'interno di campi magnetici statici; 
+ 3) innesco di dispositivi elettro-esplosivi (detonatori); 
+ 4) incendi ed esplosioni dovuti all'accensione di materiali infiammabili a causa di scintille prodotte da campi indotti, correnti di contatto o scariche elettriche; 
+ 5) correnti di contatto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "Valori limite di esposizione (VLE)", valori stabiliti sulla base di considerazioni biofisiche e biologiche, in particolare sulla base degli effetti diretti acuti e a breve termine scientificamente accertati, ossia gli effetti termici e la stimolazione elettrica dei tessuti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "VLE relativi agli effetti sanitari", VLE al di sopra dei quali i lavoratori potrebbero essere soggetti a effetti nocivi per la salute, quali il riscaldamento termico o la stimolazione del tessuto nervoso o muscolare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "VLE relativi agli effetti sensoriali", VLE al di sopra dei quali i lavoratori potrebbero essere soggetti a disturbi transitori delle percezioni sensoriali e a modifiche minori nelle funzioni cerebrali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "valori di azione (VA)", livelli operativi stabiliti per semplificare il processo di dimostrazione della conformita' ai pertinenti VLE e, ove appropriato, per prendere le opportune misure di protezione o prevenzione specificate nel presente capo.
+Nell'allegato XXXVI, parte II: 
+ 1) per i campi elettrici, per "VA inferiori" e "VA superiori" s'intendono i livelli connessi alle specifiche misure di protezione o prevenzione stabilite nel presente capo; 
+ 2) per i campi magnetici, per "VA inferiori" s'intendono i valori connessi ai VLE relativi agli effetti sensoriali e per "VA superiori" i valori connessi ai VLE relativi agli effetti sanitari.
+
 ))
 
 ## Art. 208. — (( (Valori limite di esposizione e valori di azione). ))
@@ -2141,6 +7915,70 @@ Il datore di lavoro assicura che l'esposizione dei lavoratori ai campi elettroma
 
 Ai fini del presente capo, si considera che i VLE siano rispettati qualora il datore di lavoro dimostri che i pertinenti VA di cui all'allegato XXXVI, parti II e III, non siano stati superati.
 Nel caso in cui l'esposizione superi i VA, il datore di lavoro adotta misure in conformita' dell'articolo 210, comma 1, salvo che la valutazione effettuata in conformita' dell'articolo 209, comma 1, dimostri che non sono superati i pertinenti VLE e che possono essere esclusi rischi per la sicurezza.
+
+4.
+                        
+                            
+                                Fermo restando quanto previsto al comma 3, l'esposizione puo' superare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i VA inferiori per i campi elettrici di cui all'allegato XXXVI parte II, tabella B1, seconda colonna, ove giustificato dalla pratica o dal processo produttivo, purche' siano verificate le seguenti condizioni: 
+ 1) non siano superati i VLE relativi agli effetti sanitari di cui all'allegato XXXVI, parte II, tabella A2; 
+ 2) siano evitate eccessive scariche elettriche e correnti di contatto di cui all'allegato XXXVI, parte II, tabella B3) attraverso le misure specifiche di protezione di cui all'articolo 210, comma 5; 
+ 3) siano state fornite ai lavoratori e ai rappresentanti dei lavoratori per la sicurezza informazioni sulle situazioni di rischio di cui all'articolo 210-bis, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i VA inferiori per i campi magnetici di cui all'allegato XXXVI, parte II, tabella B2, seconda colonna, ove giustificato dalla pratica o dal processo produttivo, anche a livello della testa e del tronco, durante il turno di lavoro, purche' siano verificate le seguenti condizioni: 
+ 1) il superamento dei VA inferiori per i campi magnetici di cui all'allegato XXXVI, parte II, tabella B2, e l'eventuale superamento dei VLE per gli effetti sensoriali di cui all'allegato XXXVI, parte II, tabella A3, sia solamente temporaneo in relazione al processo produttivo; 
+ 2) non siano superati i VLE relativi agli effetti sanitari di cui all'allegato XXXVI, parte II, tabella A2; 
+ 3) siano adottate misure in conformita' all'articolo 210, comma 8, in caso di sintomi transitori di cui alla lettera a) del medesimo comma; 
+ 4) siano state fornite ai lavoratori e ai rappresentanti dei lavoratori per la sicurezza informazioni sulle situazioni di rischio di cui all'articolo 210-bis, comma 1, lettera b).
+
+5.
+                        
+                            
+                                Fermo restando quanto previsto ai commi 2, 3 e 4, l'esposizione puo' superare i VLE relativi agli effetti sensoriali di cui all'allegato XXXVI, parte II, tabelle A1 e A3, e parte III, tabella A2, durante il turno di lavoro, ove giustificato dalla pratica o dal processo produttivo, purche' siano verificate le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il loro superamento sia solamente temporaneo in relazione al processo produttivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non siano superati i corrispondenti VLE relativi agli effetti sanitari di cui all'allegato XXXVI, parte II, tabelle A1 e A2 e parte III, tabelle A1 e A3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di superamento dei VLE relativi agli effetti sensoriali di cui all'allegato XXXVI, parte II, tabella A1, siano state prese misure specifiche di protezione in conformita' all'articolo 210, comma 6; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano adottate misure in conformita' all'articolo 210, comma 8, in caso di sintomi transitori, di cui alla lettera b) del medesimo comma; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano state fornite ai lavoratori informazioni sulle situazioni di rischio di cui all'articolo 210-bis, comma 1, lettera b).
 
 6. Nei casi di cui ai commi 4 e 5, il datore di lavoro comunica all'organo di vigilanza territorialmente competente il superamento dei valori ivi indicati, mediante una relazione tecnico-protezionistica contenente:
 
@@ -2171,6 +8009,94 @@ La valutazione, la misurazione e il calcolo di cui al comma 1, non devono necess
 
 La valutazione, la misurazione e il calcolo di cui al comma 1, non devono necessariamente essere effettuati ove siano utilizzate dai lavoratori, conformemente alla loro destinazione d'uso, attrezzature destinate al pubblico, conformi a norme di prodotto dell'Unione europea che stabiliscano livelli di sicurezza piu' rigorosi rispetto a quelli previsti dal presente capo, e non sia utilizzata nessun'altra attrezzatura.
 
+5.
+                        
+                            
+                                Nell'ambito della valutazione del rischio di cui all'articolo 181, il datore di lavoro presta particolare attenzione ai seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la frequenza, il livello, la durata e il tipo di esposizione, inclusa la distribuzione sul corpo del lavoratore e sul volume del luogo di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i valori limite di esposizione e i valori di azione di cui all'articolo 208; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effetti biofisici diretti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutti gli effetti sulla salute e sulla sicurezza dei lavoratori particolarmente sensibili al rischio; eventuali effetti sulla salute e la sicurezza dei lavoratori esposti a rischi particolari, con particolare riferimento a soggetti portatori di dispositivi medici impiantati, attivi o passivi, o dispositivi medici portati sul corpo e le lavoratrici in stato di gravidanza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualsiasi effetto indiretto di cui all'articolo 207, comma 1, lettera c); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'esistenza di attrezzature di lavoro alternative progettate per ridurre i livelli di esposizione ai campi elettromagnetici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la disponibilita' di azioni di risanamento volte a minimizzare i livelli di esposizione ai campi elettromagnetici; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    informazioni adeguate raccolte nel corso della sorveglianza sanitaria di cui all'articolo 211; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    informazioni fornite dal fabbricante delle attrezzature; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    altre informazioni pertinenti relative a salute e sicurezza; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    sorgenti multiple di esposizione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    esposizione simultanea a campi di frequenze diverse.
+
 Il datore di lavoro precisa, nel documento di valutazione del rischio di cui all'articolo 28, le misure adottate, previste dall'articolo 210.
 
 Fatti salvi gli articoli 50, 184, 210 e 210-bis del presente decreto, il datore di lavoro privato puo' consentire l'accesso al documento di valutazione di cui al comma 1 in tutti i casi in cui vi sia interesse e in conformita' alle disposizioni vigenti e lo puo' negare qualora tale accesso pregiudichi la tutela dei propri interessi commerciali, compresi quelli relativi alla proprieta' intellettuale e in conformita' alle disposizioni vigenti. Per i documenti di valutazione dei rischi elaborati o detenuti da pubbliche amministrazioni, si applica la disciplina del decreto legislativo 14 marzo 2013, n. 33. Qualora la valutazione contenga i dati personali dei lavoratori, l'accesso avviene nel rispetto delle disposizioni di cui al decreto legislativo 30 giugno 2003, n. 196.
@@ -2180,6 +8106,73 @@ Fatti salvi gli articoli 50, 184, 210 e 210-bis del presente decreto, il datore 
 ## Art. 210. — (( (Disposizioni miranti ad eliminare o ridurre i rischi). ))
 
 ((
+
+1.
+                        
+                            
+                                A seguito della valutazione dei rischi, qualora risulti che i valori di azione di cui all'articolo 208 sono superati, il datore di lavoro, a meno che la valutazione effettuata a norma dell'articolo 209, comma 1, dimostri che i pertinenti valori limite di esposizione non sono superati e che possono essere esclusi rischi relativi alla sicurezza, elabora ed applica un programma d'azione che comprenda misure tecniche e organizzative intese a prevenire esposizioni superiori ai valori limite di esposizione relativi agli effetti sensoriali e ai valori limite di esposizione relativi agli effetti sanitari, tenendo conto in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di altri metodi di lavoro che implicano una minore esposizione ai campi elettromagnetici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della scelta di attrezzature che emettano campi elettromagnetici di intensita' inferiore, tenuto conto del lavoro da svolgere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle misure tecniche per ridurre l'emissione dei campi elettromagnetici, incluso se necessario l'uso di dispositivi di sicurezza, schermature o di analoghi meccanismi di protezione della salute; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    degli appropriati programmi di manutenzione delle attrezzature di lavoro, dei luoghi e delle postazioni di lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    della progettazione e della struttura dei luoghi e delle postazioni di lavoro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    della limitazione della durata e dell'intensita' dell'esposizione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    della disponibilita' di adeguati dispositivi di protezione individuale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    di misure appropriate al fine di limitare e controllare l'accesso, quali segnali, etichette, segnaletica al suolo e barriere; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    in caso di esposizione a campi elettrici, delle misure e procedure volte a gestire le scariche elettriche e le correnti di contatto mediante mezzi tecnici e mediante la formazione dei lavoratori.
 
 Sulla base della valutazione dei rischi di cui all'articolo 209, il datore di lavoro elabora e applica un programma d'azione che comprenda misure tecniche e organizzative volte a prevenire qualsiasi rischio per lavoratori appartenenti a gruppi particolarmente sensibili al rischio e qualsiasi rischio dovuto a effetti indiretti di cui all'articolo 207.
 
@@ -2193,11 +8186,54 @@ Nel caso di cui all'articolo 208, comma 5, sono adottate misure di protezione sp
 
 I lavoratori non devono essere esposti a valori superiori ai VLE relativi agli effetti sanitari e ai VLE relativi agli effetti sensoriali a meno che non sussistano le condizioni di cui all'articolo 212, e all'articolo 208, commi 3, 4 e 5. Qualora, nonostante i provvedimenti presi dal datore di lavoro in applicazione del presente capo, i VLE relativi agli effetti sanitari o i VLE relativi agli effetti sensoriali sono superati, il datore di lavoro adotta misure immediate per riportare l'esposizione al di sotto dei VLE. Il datore di lavoro individua e registra le cause del superamento dei VLE relativi agli effetti sanitari e dei VLE relativi agli effetti sensoriali e modifica di conseguenza le misure di protezione e prevenzione per evitare un nuovo superamento. Le misure di protezione e prevenzione modificate sono conservate con le modalita' di cui all'articolo 53.
 
+8.
+                        
+                            
+                                Nei casi di cui all'articolo 208, commi 3, 4 e 5, nonche' nell'ipotesi in cui il lavoratore riferisce la comparsa di sintomi transitori, il datore di lavoro aggiorna, se necessario, la valutazione dei rischi e le misure di prevenzione. Ai fini del presente comma, i sintomi transitori possono comprendere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    percezioni ed effetti sensoriali nel funzionamento del sistema nervoso centrale, nella testa, indotti da campi magnetici variabili nel tempo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effetti indotti da campi magnetici statici, quali vertigini e nausea.
+
 ))
 
 ## Art. 210-bis. — (( (Informazione e formazione dei lavoratori e dei rappresentanti dei lavoratori per la sicurezza).))
 
 ((
+
+1.
+                        
+                            
+                                Ai sensi di quanto previsto all'articolo 184, comma 1, lettera b), il datore di lavoro garantisce, inoltre, che i lavoratori che potrebbero essere esposti ai rischi derivanti dai campi elettromagnetici sul luogo di lavoro e i loro rappresentanti ricevano le informazioni e la formazione necessarie in relazione al risultato della valutazione dei rischi con particolare riguardo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli eventuali effetti indiretti dell'esposizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla possibilita' di sensazioni e sintomi transitori dovuti a effetti sul sistema nervoso centrale o periferico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla possibilita' di rischi specifici nei confronti di lavoratori appartenenti a gruppi particolarmente sensibili al rischio, quali i soggetti portatori di dispositivi medici o di protesi metalliche e le lavoratrici in stato di gravidanza.
 
 ))
 
@@ -2235,6 +8271,76 @@ Il presente capo stabilisce prescrizioni minime di protezione dei lavoratori con
 
 ## Art. 214. — Definizioni
 
+1.
+                        
+                            
+                                Agli effetti delle disposizioni del presente capo si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    radiazioni ottiche: tutte le radiazioni elettromagnetiche nella gamma di lunghezza d'onda compresa tra 100 ¯Fm e 1 mm. Lo spettro delle radiazioni ottiche si suddivide in radiazioni ultraviolette, radiazioni visibili e radiazioni infrarosse:
+ ((1) radiazioni ultraviolette: radiazioni ottiche a lunghezza d'onda compresa tra 100 e 400 nm. La banda degli ultravioletti e' suddivisa in UVA (315-400 nm), UVB (280-315 nm) e UVC (100-280 nm);
+ 2) radiazioni visibili : radiazioni ottiche a lunghezza d'onda compresa tra 380 e 780 nm;
+ 3) radiazioni infrarosse: radiazioni ottiche a lunghezza d'onda compresa tra 780 nm e 1 mm. La regione degli infrarossi e' suddivisa in IRA (780-1400 nm), IRB (1400-3000 nm) e IRC (3000 nm-1 mm);))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    laser (amplificazione di luce mediante emissione stimolata di radiazione): qualsiasi dispositivo al quale si possa far produrre o amplificare le radiazioni elettromagnetiche nella gamma di lunghezze d'onda delle radiazioni ottiche, soprattutto mediante il processo di emissione stimolata controllata;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    radiazione laser: radiazione ottica prodotta da un laser;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    radiazione non coerente: qualsiasi radiazione ottica diversa dalla radiazione laser;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    valori limite di esposizione: limiti di esposizione alle radiazioni ottiche che sono basati direttamente sugli effetti sulla salute accertati e su considerazioni biologiche. Il rispetto di questi limiti garantisce che i lavoratori esposti a sorgenti artificiali di radiazioni ottiche siano protetti contro tutti gli effetti nocivi sugli occhi e sulla cute conosciuti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    irradianza (E) o densita' di potenza: la potenza radiante incidente per unita' di area su una superficie espressa in watt su metro quadrato (W m-2);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esposizione radiante (H): integrale nel tempo dell'irradianza espresso in joule su metro quadrato (J m-2);
+
+                                
+                            
+                            
+                                h)
+                                
+                                    radianza (L): il flusso radiante o la potenza per unita' d'angolo solido per unita' di superficie, espressa in watt su metro quadrato su steradiante (W m-2 sr-1);
+
+                                
+                            
+                            
+                                i)
+                                
+                                    livello: la combinazione di irradianza, esposizione radiante e radianza alle quali e' esposto un lavoratore.
+
 ## Art. 215. — Valori limite di esposizione
 
 I valori limite di esposizione per le radiazioni incoerenti sono riportati nell'allegato XXXVII, parte I.
@@ -2245,9 +8351,150 @@ I valori limite di esposizione per le radiazioni laser sono riportati nell'alleg
 
 Nell'ambito della valutazione dei rischi di cui all'articolo 181, il datore di lavoro valuta e, quando necessario, misura e/o calcola i livelli delle radiazioni ottiche a cui possono essere esposti i lavoratori. La metodologia seguita nella valutazione, nella misurazione e/o nel calcolo rispetta le norme della Commissione elettrotecnica internazionale (IEC), per quanto riguarda le radiazioni laser, le raccomandazioni della Commissione internazionale per l'illuminazione (CIE) e del Comitato europeo di normazione (CEN) per quanto riguarda le radiazioni incoerenti. Nelle situazioni di esposizione che esulano dalle suddette norme e raccomandazioni, fino a quando non saranno disponibili norme e raccomandazioni adeguate dell'Unione europea, il datore di lavoro adotta ((le buone prassi)) individuate od emanate dalla Commissione consultiva permanente per la prevenzione degli infortuni e per l'igiene del lavoro o, in subordine, linee guida nazionali o internazionali scientificamente fondate. In tutti i casi di esposizione, la valutazione tiene conto dei dati indicati dai fabbricanti delle attrezzature, se contemplate da pertinenti direttive comunitarie di prodotto.
 
+2.
+                        
+                            
+                                Il datore di lavoro, in occasione della valutazione dei rischi, presta particolare attenzione ai seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    il livello, la gamma di lunghezze d'onda e la durata dell'esposizione a sorgenti artificiali di radiazioni ottiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i valori limite di esposizione di cui all'articolo 215;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualsiasi effetto sulla salute e sulla sicurezza dei lavoratori appartenenti a gruppi particolarmente sensibili al rischio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualsiasi eventuale effetto sulla salute e sulla sicurezza dei lavoratori risultante dalle interazioni sul posto di lavoro tra le radiazioni ottiche e le sostanze chimiche foto-sensibilizzanti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualsiasi effetto indiretto come l'accecamento temporaneo, le esplosioni o il fuoco;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'esistenza di attrezzature di lavoro alternative progettate per ridurre i livelli di esposizione alle radiazioni ottiche artificiali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la disponibilita' di azioni di risanamento volte a minimizzare i livelli di esposizione alle radiazioni ottiche;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per quanto possibile, informazioni adeguate raccolte nel corso della sorveglianza sanitaria, comprese le informazioni pubblicate;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    sorgenti multiple di esposizione alle radiazioni ottiche artificiali;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    una classificazione dei laser stabilita conformemente alla pertinente norma IEC e, in relazione a tutte le sorgenti artificiali che possono arrecare danni simili a quelli di un laser della classe 3B o 4, tutte le classificazioni analoghe;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le informazioni fornite dai fabbricanti delle sorgenti di radiazioni ottiche e delle relative attrezzature di lavoro in conformita' delle pertinenti direttive comunitarie.
+
 Il datore di lavoro nel documento di valutazione dei rischi deve precisare le misure adottate previste dagli articoli 217 e 218.
 
 ## Art. 217. — Disposizioni miranti ad eliminare o a ridurre i rischi
+
+1.
+                        
+                            
+                                Se la valutazione dei rischi di cui all'articolo 17, comma 1, lettera a), mette in evidenza che i valori limite d'esposizione possono essere superati, il datore di lavoro definisce e attua un programma d'azione che comprende misure tecniche e/o organizzative destinate ad evitare che l'esposizione superi i valori limite, tenendo conto in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    di altri metodi di lavoro che comportano una minore esposizione alle radiazioni ottiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della scelta di attrezzature che emettano meno radiazioni ottiche, tenuto conto del lavoro da svolgere;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle misure tecniche per ridurre l'emissione delle radiazioni ottiche, incluso, quando necessario, l'uso di dispositivi di sicurezza, schermatura o analoghi meccanismi di protezione della salute;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    degli opportuni programmi di manutenzione delle attrezzature di lavoro, dei luoghi e delle postazioni di lavoro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    della progettazione e della struttura dei luoghi e delle postazioni di lavoro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    della limitazione della durata e del livello dell'esposizione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    della disponibilita' di adeguati dispositivi di protezione individuale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    delle istruzioni del fabbricante delle attrezzature.
 
 In base alla valutazione dei rischi di cui all'articolo 216, i luoghi di lavoro in cui i lavoratori potrebbero essere esposti a livelli di radiazioni ottiche che superino i valori ((limite di esposizione)) devono essere indicati con un'apposita segnaletica.
 Dette aree sono inoltre identificate e l'accesso alle stesse e' limitato, laddove cio' sia tecnicamente possibile.
@@ -2260,9 +8507,63 @@ La sorveglianza sanitaria viene effettuata periodicamente, di norma una volta l'
 
 Fermo restando il rispetto di quanto stabilito dall'articolo 182 e di quanto previsto al comma 1, sono tempestivamente sottoposti a controllo medico i lavoratori per i quali e' stata rilevata un'esposizione superiore ai valori limite di cui all'articolo 215.
 
+3.
+                        
+                            
+                                Laddove i valori limite sono superati, oppure sono identificati effetti nocivi sulla salute:
+ 
+                            
+                            
+                                a)
+                                
+                                    il medico o altra persona debitamente qualificata comunica al lavoratore i risultati che lo riguardano. Il lavoratore riceve in particolare le informazioni e i pareri relativi al controllo sanitario cui dovrebbe sottoporsi dopo la fine dell'esposizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il datore di lavoro e' informato di tutti i dati significativi emersi dalla sorveglianza sanitaria tenendo conto del segreto professionale.
+
 ## - Capo VI Sanzioni
 
 ## Art. 219. — (Sanzioni a carico del datore di lavoro e del dirigente)
+
+1.
+                        
+                            
+                                Il datore di lavoro e' punito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dagli articoli 181, comma 2, 190, commi 1 e 5, 202, commi 1 e 5,((209, commi 1 e 6)), e 216; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.000 a 4.000 euro per la violazione degli articoli 190, commi 2 e 3, 202, commi 3 e 4,((e 209, comma 5.))
+
+2.
+                        
+                            
+                                Il datore di lavoro e il dirigente sono puniti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con arresto da tre a sei mesi o con l'ammenda da 2.000 a 4.000 euro per la violazione degli articoli 182, comma 2, 185, 192, comma 2, 193, comma 1, 195, 196, 197, comma 3, secondo periodo, 203, 205, comma 4, secondo periodo ((, 210, commi 1 e 2,)) e 217, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto da due a quattro mesi o con l'ammenda da euro 750 a euro 4.000 per la violazione degli articoli 184, 192, comma 3, primo periodo((, 210, commi da 3 a 8.)) e 217, commi 2 e 3.
 
 ## Art. 220. — (( (Sanzioni a carico del medico competente) ))
 
@@ -2286,6 +8587,70 @@ Le disposizioni del presente capo non si applicano alle attivita' comportanti es
 
 ## Art. 222. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente capo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agenti chimici: tutti gli elementi o composti chimici, sia da soli sia nei loro miscugli, allo stato naturale o ottenuti, utilizzati o smaltiti, compreso lo smaltimento come rifiuti, mediante qualsiasi attivita' lavorativa, siano essi prodotti intenzionalmente o no e siano immessi o no sul mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agenti chimici pericolosi: 
+ 1) agenti chimici che soddisfano i criteri di classificazione come pericolosi in una delle classi di pericolo fisico o di pericolo per la salute di cui al regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, indipendentemente dal fatto che tali agenti chimici siano classificati nell'ambito di tale regolamento; 
+ 2) NUMERO SOPPRESSO DAL D.LGS. 15 FEBBRAIO 2016, N. 39; 
+ 3) agenti chimici che, pur non essendo classificabili come pericolosi ai sensi del presente articolo, lettera b), numero 1), comportano un rischio per la sicurezza e la salute dei lavoratori a causa di loro proprieta' chimico-fisiche, chimiche o tossicologiche e del modo in cui sono utilizzati o presenti sul luogo di lavoro, compresi gli agenti chimici cui e' stato assegnato un valore limite di esposizione professionale di cui all'Allegato XXXVIII; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' che comporta la presenza di agenti chimici: ogni attivita' lavorativa in cui sono utilizzati agenti chimici, o se ne prevede l'utilizzo, in ogni tipo di procedimento, compresi la produzione, la manipolazione, l'immagazzinamento, il trasporto o l'eliminazione e il trattamento dei rifiuti, o che risultino da tale attivita' lavorativa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valore limite di esposizione professionale: se non diversamente specificato, il limite della concentrazione media ponderata nel tempo di un agente chimico nell'aria all'interno della zona di respirazione di un lavoratore in relazione ad un determinato periodo di riferimento; un primo elenco di tali valori e' riportato nell'allegato XXXVIII; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    valore limite biologico: il limite della concentrazione del relativo agente, di un suo metabolita, o di un indicatore di effetto, nell'appropriato mezzo biologico; ((...))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    sorveglianza sanitaria: la valutazione dello stato di salute del singolo lavoratore in funzione dell'esposizione ad agenti chimici sul luogo di lavoro; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    pericolo: la proprieta' intrinseca di un agente chimico di poter produrre effetti nocivi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    rischio: la probabilita' che si raggiunga il potenziale nocivo nelle condizioni di utilizzazione o esposizione. 
+ (29) (30)
+
 -------------
                             AGGIORNAMENTO (29)
                             
@@ -2296,6 +8661,59 @@ Le disposizioni del presente capo non si applicano alle attivita' comportanti es
  L'avviso di rettifica (in G.U. 26/5/2016, n. 122) nel modificare l'art. 1, comma 1, lettera a) del D.Lgs. 15 febbraio 2016, n. 39 ha conseguentemente disposto il venir meno della modifica disposta dal suindicato D.Lgs. 39/2016.
 
 ## Art. 223. — Valutazione dei rischi
+
+1.
+                        
+                            
+                                Nella valutazione di cui all'articolo 28, il datore di lavoro determina preliminarmente l'eventuale presenza di agenti chimici pericolosi sul luogo di lavoro e valuta anche i rischi per la sicurezza e la salute dei lavoratori derivanti dalla presenza di tali agenti, prendendo in considerazione in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le loro proprieta' pericolose; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni sulla salute e sicurezza comunicate dal fornitore tramite la relativa scheda di sicurezza predisposta ai sensi del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il livello, il modo e la durata della esposizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le circostanze in cui viene svolto il lavoro in presenza di tali agenti tenuto conto della quantita' delle sostanze e dei miscele che li contengono o li possono generare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i valori limite di esposizione professionale o i valori limite biologici; ((di cui un primo elenco e' riportato nell'allegato XXXVIII)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli effetti delle misure preventive e protettive adottate o da adottare; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se disponibili, le conclusioni tratte da eventuali azioni di sorveglianza sanitaria gia' intraprese.
 
 Nella valutazione dei rischi il datore di lavoro indica quali misure sono state adottate ai sensi dell'articolo 224 e, ove applicabile, dell'articolo 225. Nella valutazione medesima devono essere incluse le attivita', ivi compresa la manutenzione e la pulizia, per le quali e' prevedibile la possibilita' di notevole esposizione o che, per altri motivi, possono provocare effetti nocivi per la salute e la sicurezza, anche dopo l'adozione di tutte le misure tecniche.
 
@@ -2311,15 +8729,118 @@ Il datore di lavoro aggiorna periodicamente la valutazione e, comunque, in occas
 
 ## Art. 224. — Misure e principi generali per la prevenzione dei rischi
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 15, i rischi derivanti da agenti chimici pericolosi devono essere eliminati o ridotti al minimo mediante le seguenti misure:
+ 
+                            
+                            
+                                a)
+                                
+                                    progettazione e organizzazione dei sistemi di lavorazione sul luogo di lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornitura di attrezzature idonee per il lavoro specifico e relative procedure di manutenzione adeguate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riduzione al minimo del numero di lavoratori che sono o potrebbero essere esposti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riduzione al minimo della durata e dell'intensita' dell'esposizione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    misure igieniche adeguate;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    riduzione al minimo della quantita' di agenti presenti sul luogo di lavoro in funzione delle necessita' della lavorazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    metodi di lavoro appropriati comprese le disposizioni che garantiscono la sicurezza nella manipolazione, nell'immagazzinamento e nel trasporto sul luogo di lavoro di agenti chimici pericolosi nonche' dei rifiuti che contengono detti agenti chimici.
+
 Se i risultati della valutazione dei rischi dimostrano che, in relazione al tipo e alle quantita' di un agente chimico pericoloso e alle modalita' e frequenza di esposizione a tale agente presente sul luogo di lavoro, vi e' solo un rischio basso per la sicurezza e irrilevante per la salute dei lavoratori e che le misure di cui al comma 1 sono sufficienti a ridurre il rischio, non si applicano le disposizioni degli articoli 225, 226, 229, 230.
 
 ## Art. 225. — Misure specifiche di protezione e di prevenzione
+
+1.
+                        
+                            
+                                Il datore di lavoro, sulla base dell'attivita' e della valutazione dei rischi di cui all'articolo 223, provvede affinche' il rischio sia eliminato o ridotto mediante la sostituzione, qualora la natura dell'attivita' lo consenta, con altri agenti o processi che, nelle condizioni di uso, non sono o sono meno pericolosi per la salute dei lavoratori. Quando la natura dell'attivita' non consente di eliminare il rischio attraverso la sostituzione il datore di lavoro garantisce che il rischio sia ridotto mediante l'applicazione delle seguenti misure da adottarsi nel seguente ordine di priorita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    progettazione di appropriati processi lavorativi e controlli tecnici, nonche' uso di attrezzature e materiali adeguati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    appropriate misure organizzative e di protezione collettive alla fonte del rischio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    misure di protezione individuali, compresi i dispositivi di protezione individuali, qualora non si riesca a prevenire con altri mezzi l'esposizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sorveglianza sanitaria dei lavoratori a norma degli articoli 229 e 230.
 
 Salvo che possa dimostrare con altri mezzi il conseguimento di un adeguato livello di prevenzione e di protezione, il datore di lavoro, periodicamente ed ogni qualvolta sono modificate le condizioni che possono influire sull'esposizione, provvede ad effettuare la misurazione degli agenti che possono presentare un rischio per la salute, con metodiche standardizzate di cui e' riportato un elenco meramente indicativo nell'allegato XLI o in loro assenza, con metodiche appropriate e con particolare riferimento ai valori limite di esposizione professionale e per periodi rappresentativi dell'esposizione in termini spazio temporali.
 
 Quando sia stato superato un valore limite di esposizione professionale stabilito dalla normativa vigente il datore di lavoro identifica e rimuove le cause che hanno cagionato tale superamento dell'evento, adottando immediatamente le misure appropriate di prevenzione e protezione.
 
 I risultati delle misurazioni di cui al comma 2 sono allegati ai documenti di valutazione dei rischi e resi noti ai rappresentanti per la sicurezza dei lavoratori. Il datore di lavoro tiene conto delle misurazioni effettuate ai sensi del comma 2 per l'adempimento degli obblighi conseguenti alla valutazione dei rischi di cui all'articolo 223. Sulla base della valutazione dei rischi e dei principi generali di prevenzione e protezione, il datore di lavoro adotta le misure tecniche e organizzative adeguate alla natura delle operazioni, compresi l'immagazzinamento, la manipolazione e l'isolamento di agenti chimici incompatibili fra di loro; in particolare, il datore di lavoro previene sul luogo di lavoro la presenza di concentrazioni pericolose di sostanze infiammabili o quantita' pericolose di sostanze chimicamente instabili.
+
+5.
+                        
+                            
+                                Laddove la natura dell'attivita' lavorativa non consenta di prevenire sul luogo di lavoro la presenza di concentrazioni pericolose di sostanze infiammabili o quantita' pericolose di sostanze chimicamente instabili, il datore di lavoro deve in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    evitare la presenza di fonti di accensione che potrebbero dar luogo a incendi ed esplosioni, o l'esistenza di condizioni avverse che potrebbero provocare effetti fisici dannosi ad opera di sostanze o miscele di sostanze chimicamente instabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    limitare, anche attraverso misure procedurali ed organizzative previste dalla normativa vigente, gli effetti pregiudizievoli sulla salute e la sicurezza dei lavoratori in caso di incendio o di esplosione dovuti all'accensione di sostanze infiammabili, o gli effetti dannosi derivanti da sostanze o miscele di sostanze chimicamente instabili.
 
 Il datore di lavoro mette a disposizione attrezzature di lavoro ed adotta sistemi di protezione collettiva ed individuale conformi alle disposizioni legislative e regolamentari pertinenti, in particolare per quanto riguarda l'uso dei suddetti mezzi in atmosfere potenzialmente esplosive.
 
@@ -2337,9 +8858,77 @@ Ai lavoratori cui e' consentito operare nell'area colpita o ai lavoratori indisp
 
 Il datore di lavoro adotta le misure necessarie per approntare sistemi d'allarme e altri sistemi di comunicazione necessari per segnalare tempestivamente l'incidente o l'emergenza.
 
+5.
+                        
+                            
+                                Le misure di emergenza devono essere contenute nel piano previsto dal decreto di cui al comma 1. In particolare nel piano vanno inserite:
+ 
+                            
+                            
+                                a)
+                                
+                                    informazioni preliminari sulle attivita' pericolose, sugli agenti chimici pericolosi, sulle misure per l'identificazione dei rischi, sulle precauzioni e sulle procedure, in modo tale che servizi competenti per le situazioni di emergenza possano mettere a punto le proprie procedure e misure precauzionali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualunque altra informazione disponibile sui rischi specifici derivanti o che possano derivare dal verificarsi di incidenti o situazioni di emergenza, comprese le informazioni sulle procedure elaborate in base al presente articolo.
+
 Nel caso di incidenti o di emergenza i soggetti non protetti devono immediatamente abbandonare la zona interessata.
 
 ## Art. 227. — Informazione e formazione per i lavoratori
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto agli articoli 36 e 37, il datore di lavoro garantisce che i lavoratori o i loro rappresentanti dispongano di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati ottenuti attraverso la valutazione del rischio e ulteriori informazioni ogni qualvolta modifiche importanti sul luogo di lavoro determinino un cambiamento di tali dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni sugli agenti chimici pericolosi presenti sul luogo di lavoro, quali l'identita' degli agenti, i rischi per la sicurezza e la salute, i relativi valori limite di esposizione professionale e altre disposizioni normative relative agli agenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    formazione ed informazioni su precauzioni ed azioni adeguate da intraprendere per proteggere loro stessi ed altri lavoratori sul luogo di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accesso ad ogni scheda dei dati di sicurezza messa a disposizione dal fornitore.
+
+2.
+                        
+                            
+                                Il datore di lavoro assicura che le informazioni siano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornite in modo adeguato al risultato della valutazione del rischio di cui all'articolo 223. Tali informazioni possono essere costituite da comunicazioni orali o dalla formazione e dall'addestramento individuali con il supporto di informazioni scritte, a seconda della natura e del grado di rischio rivelato dalla valutazione del rischio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aggiornate per tener conto del cambiamento delle circostanze.
 
 Laddove i contenitori e le condutture per gli agenti chimici pericolosi utilizzati durante il lavoro non siano contrassegnati da segnali di sicurezza in base a quanto disposto dal titolo V, il datore di lavoro provvede affinche' la natura del contenuto dei contenitori e delle condutture e gli eventuali rischi connessi siano chiaramente identificabili.
 
@@ -2355,11 +8944,100 @@ Sono vietate la produzione, la lavorazione e l'impiego degli agenti chimici sul 
 
 Il divieto non si applica se un agente e' presente in un ((miscela)), o quale componente di rifiuti, purche' la concentrazione individuale sia inferiore al limite indicato nell'allegato stesso.
 
+3.
+                        
+                            
+                                In deroga al divieto di cui al comma 1, possono essere effettuate, previa autorizzazione da rilasciarsi ai sensi del comma 5, le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' a fini esclusivi di ricerca e sperimentazione scientifica, ivi comprese le analisi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' volte ad eliminare gli agenti chimici che sono presenti sotto forma di sottoprodotto o di rifiuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    produzione degli agenti chimici destinati ad essere usati come intermedi.
+
 Ferme restando le disposizioni di cui al presente capo, nei casi di cui al comma 3, lettera c), il datore di lavoro evita l'esposizione dei lavoratori, stabilendo che la produzione e l'uso piu' rapido possibile degli agenti come prodotti intermedi avvenga in un sistema chiuso dal quale gli stessi possono essere rimossi soltanto nella misura necessaria per il controllo del processo o per la manutenzione del sistema.
+
+5.
+                        
+                            
+                                Il datore di lavoro che intende effettuare le attivita' di cui al comma 3 deve inviare una richiesta di autorizzazione al Ministero del lavoro, della salute e delle politiche sociali che la rilascia sentito il Ministero del lavoro, della salute e delle politiche sociali e la regione interessata. La richiesta di autorizzazione e' corredata dalle seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i motivi della richiesta di deroga; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i quantitativi dell'agente da utilizzare annualmente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero dei lavoratori addetti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    descrizione delle attivita' e delle reazioni o processi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    misure previste per la tutela della salute e sicurezza e per prevenire l'esposizione dei lavoratori.
 
 ## Art. 229. — Sorveglianza sanitaria
 
 Fatto salvo quanto previsto dall'articolo 224, comma 2, sono sottoposti alla sorveglianza sanitaria di cui all'articolo 41 i lavoratori esposti agli agenti chimici pericolosi per la salute che rispondono ai criteri per la classificazione di cui al Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, e successive modificazioni ed integrazioni, come tossici acuti, corrosivi, irritanti, sensibilizzanti, ((tossici specifici per organo bersaglio, tossici in caso di aspirazione, cancerogeni di categoria 2, mutageni di categoria 2 e tossici per la riproduzione di categoria 2 o con effetti sull'allattamento)).
+
+2.
+                        
+                            
+                                La sorveglianza sanitaria viene effettuata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prima di adibire il lavoratore alla mansione che comporta l'esposizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    periodicamente, di norma una volta l'anno o con periodicita' diversa decisa dal medico competente con adeguata motivazione riportata nel documento di valutazione dei rischi e resa nota ai rappresentanti per la sicurezza dei lavoratori, in funzione della valutazione del rischio e dei risultati della sorveglianza sanitaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'atto della cessazione del rapporto di lavoro. In tale occasione il medico competente deve fornire al lavoratore le eventuali indicazioni relative alle prescrizioni mediche da osservare.
 
 Il monitoraggio biologico e' obbligatorio per i lavoratori esposti agli agenti per i quali e' stato fissato un valore limite biologico. Dei risultati di tale monitoraggio viene informato il lavoratore interessato. I risultati di tale monitoraggio, in forma anonima, vengono allegati al documento di valutazione dei rischi e comunicati ai rappresentanti per la sicurezza dei lavoratori.
 
@@ -2368,6 +9046,38 @@ Gli accertamenti sanitari devono essere a basso rischio per il lavoratore.
 Il datore di lavoro, su parere conforme del medico competente, adotta misure preventive e protettive particolari per i singoli lavoratori sulla base delle risultanze degli esami clinici e biologici effettuati. Le misure possono comprendere l'allontanamento del lavoratore secondo le procedure dell'articolo 42.
 
 Nel caso in cui all'atto della sorveglianza sanitaria si evidenzi, in un lavoratore o in un gruppo di lavoratori esposti in maniera analoga ad uno stesso agente, l'esistenza di effetti pregiudizievoli per la salute imputabili a tale esposizione o il superamento di un valore limite biologico, il medico competente informa individualmente i lavoratori interessati ed il datore di lavoro.
+
+7.
+                        
+                            
+                                Nei casi di cui al comma 6, il datore di lavoro deve: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sottoporre a revisione la valutazione dei rischi effettuata a norma dell'articolo 223; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sottoporre a revisione le misure predisposte per eliminare o ridurre i rischi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tenere conto del parere del medico competente nell'attuazione delle misure necessarie per eliminare o ridurre il rischio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prendere le misure affinche' sia effettuata una visita medica straordinaria per tutti gli altri lavoratori che hanno subito un'esposizione simile.
 
 L'organo di vigilanza, con provvedimento motivato, puo' disporre contenuti e periodicita' della sorveglianza sanitaria diversi rispetto a quelli definiti dal medico competente.
 
@@ -2404,6 +9114,68 @@ Fatto salvo quanto previsto per le attivita' disciplinate dal capo III e per i l
 
 ## Art. 234. — Definizioni
 
+1.
+                        
+                            
+                                Agli effetti del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agente cancerogeno: 
+ 1) una sostanza o miscela che corrisponde ai criteri di classificazione come sostanza cancerogena di categoria 1 A o 1 B di cui all'allegato I del regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio; 
+ 2) una sostanza, miscela o procedimento menzionati all'allegato XLII del presente decreto, nonche' sostanza o miscela liberate nel corso di un processo e menzionate nello stesso allegato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agente mutageno: 
+ 1) una sostanza o miscela corrispondente ai criteri di classificazione come agente mutageno di cellule germinali di categoria 1 A o 1 B di cui all'allegato I del regolamento (CE) n. 1272/2008. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    sostanza tossica per la riproduzione: sostanza o miscela che corrisponde ai criteri di classificazione come sostanza tossica per la riproduzione di categoria 1A o 1B di cui all'allegato I del regolamento (CE) n. 1272/2008; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    sostanza tossica per la riproduzione priva di soglia: una sostanza tossica per la riproduzione per la quale non esiste un livello di esposizione sicuro per la salute dei lavoratori e che e' identificata come tale nella colonna "Osservazioni" dell'allegato XLIII; 
+
+                                
+                            
+                            
+                                b-quater)
+                                
+                                    sostanza tossica per la riproduzione con valore soglia: una sostanza tossica per la riproduzione per la quale esiste un livello di esposizione sicuro al di sotto del quale non vi sono rischi per la salute dei lavoratori e che e' identificata come tale nella colonna "Osservazioni" dell'allegato XLIII;
+                                
+                            
+                            
+                                c)
+                                
+                                    valore limite: se non altrimenti specificato, ((il limite della concentrazione media nell'aria, ponderata in funzione del tempo, di un agente cancerogeno, mutageno o di una sostanza tossica per la riproduzione)), rilevabile entro la zona di respirazione di un lavoratore, in relazione ad un periodo di riferimento determinato stabilito nell'allegato XLIII. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    valore limite biologico: il limite della concentrazione nell'adeguato mezzo biologico del relativo agente, di un suo metabolita, o di un indicatore di effetto; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    sorveglianza sanitaria: la valutazione dello stato di salute di un singolo lavoratore in funzione dell'esposizione a specifici agenti cancerogeni, mutageni o sostanze tossiche per la riproduzione durante il lavoro.
+
 ## - Sezione II Obblighi del datore di lavoro
 
 ## Art. 235. — Sostituzione e riduzione
@@ -2434,6 +9206,52 @@ Il datore di lavoro, in relazione ai risultati della valutazione di cui al comma
 
 ((
 
+4.
+                        
+                            
+                                Il documento di cui all'articolo 28, comma 2, o il documento redatto secondo le procedure standardizzate di effettuazione della valutazione dei rischi di cui all'articolo 29, comma 5, sono integrati con i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' lavorative che comportano la presenza di sostanze o miscele cancerogene, mutagene o tossiche per la riproduzione o di processi industriali di cui all'allegato XLII, con l'indicazione dei motivi per i quali sono impiegati agenti cancerogeni, mutageni o sostanze tossiche per la riproduzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i quantitativi di sostanze ovvero miscele cancerogene, mutagene o tossiche per la riproduzione prodotti ovvero utilizzati, ovvero presenti come impurita' o sottoprodotti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero dei lavoratori esposti ovvero potenzialmente esposti ad agenti cancerogeni, mutageni o a sostanze tossiche per la riproduzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esposizione dei suddetti lavoratori, ove nota, e il grado della stessa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le misure preventive e protettive applicate e il tipo di dispositivi di protezione individuale utilizzati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le indagini svolte per la possibile sostituzione degli agenti cancerogeni, mutageni o delle sostanze tossiche per la riproduzione e le sostanze e miscele eventualmente utilizzate come sostituti.
+
 ))
 
 Il datore di lavoro effettua nuovamente la valutazione di cui al comma 1 in occasione di modifiche del processo produttivo significative ai fini della sicurezza e della salute sul lavoro e, in ogni caso, trascorsi tre anni dall'ultima valutazione effettuata.
@@ -2455,9 +9273,81 @@ Il datore di lavoro:
 
 ## Art. 238. — Misure tecniche
 
+1.
+                        
+                            
+                                Il datore di lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    assicura che i lavoratori dispongano di servizi igienici appropriati ed adeguati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispone che i lavoratori abbiano in dotazione idonei indumenti protettivi da riporre in posti separati dagli abiti civili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede affinche' i dispositivi di protezione individuale siano custoditi in luoghi determinati, controllati e puliti dopo ogni utilizzazione, provvedendo altresi' a far riparare o sostituire quelli difettosi o deteriorati, prima di ogni nuova utilizzazione.
+
 Nelle zone di lavoro di cui all'articolo 237, comma 1, lettera b), e' vietato assumere cibi e bevande, fumare, conservare cibi destinati al consumo umano, usare pipette a bocca e applicare cosmetici.
 
 ## Art. 239. — Informazione e formazione
+
+1.
+                        
+                            
+                                Il datore di lavoro fornisce ai lavoratori, sulla base delle conoscenze disponibili, informazioni ed istruzioni, in particolare per quanto riguarda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((gli agenti cancerogeni, mutageni o le sostanze tossiche per la riproduzione)) presenti nei cicli lavorativi, la loro dislocazione, i rischi per la salute connessi al loro impiego, ivi compresi i rischi supplementari dovuti al fumare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le precauzioni da prendere per evitare l'esposizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le misure igieniche da osservare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la necessita' di indossare e impiegare indumenti di lavoro e protettivi e dispositivi individuali di protezione ed il loro corretto impiego; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il modo di prevenire il verificarsi di incidenti e le misure da adottare per ridurre al minimo le conseguenze. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    l'obbligo di sottoporsi alla sorveglianza sanitaria per le sostanze per le quali e' stato fissato un valore limite biologico di cui all'allegato XLIII-bis.
 
 Il datore di lavoro assicura ai lavoratori una formazione adeguata in particolare in ordine a quanto indicato al comma 1.
 
@@ -2485,6 +9375,24 @@ Il datore di lavoro comunica senza indugio all'organo di vigilanza il verificars
 
 ## Art. 241. — Operazioni lavorative particolari
 
+1.
+                        
+                            
+                                Per le operazioni lavorative, quale quella di manutenzione, per le quali e' prevedibile, nonostante l'adozione di tutte le misure di prevenzione tecnicamente applicabili, un'esposizione rilevante dei lavoratori addetti ((ad agenti cancerogeni, mutageni o a sostanze tossiche per la riproduzione)), il datore di lavoro previa consultazione del rappresentante per la sicurezza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dispone che soltanto tali lavoratori hanno accesso alle suddette aree anche provvedendo, ove tecnicamente possibile, all'isolamento delle stesse ed alla loro identificazione mediante appositi contrassegni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce ai lavoratori speciali indumenti e dispositivi di protezione individuale che devono essere indossati dai lavoratori adibiti alle suddette operazioni.
+
 La presenza nelle aree di cui al comma 1 dei lavoratori addetti e' in ogni caso ridotta al tempo strettamente necessario con riferimento alle lavorazioni da espletare.
 
 ## - Sezione III Sorveglianza sanitaria
@@ -2498,6 +9406,24 @@ Il datore di lavoro, su conforme parere del medico competente, adotta misure pre
 Le misure di cui al comma 2 possono comprendere l'allontanamento del lavoratore secondo le procedure dell'articolo 42.
 
 Ove gli accertamenti sanitari abbiano evidenziato, nei lavoratori esposti in modo analogo ad uno stesso agente, l'esistenza di una anomalia imputabile a tale esposizione, ((o si constati che un valore limite biologico e' stato superato,)) il medico competente ne informa il datore di lavoro.
+
+5.
+                        
+                            
+                                A seguito dell'informazione di cui al comma 4 il datore di lavoro effettua: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una nuova valutazione del rischio in conformita' all'articolo 236; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ove sia tecnicamente possibile, una misurazione della concentrazione dell'agente in aria e comunque dell'esposizione all'agente, considerando tutte le circostanze e le vie di esposizione possibilmente rilevanti per verificare l'efficacia delle misure adottate.
 
 Il medico competente fornisce ai lavoratori adeguate informazioni sulla sorveglianza sanitaria cui sono sottoposti e, ove ne ricorrano le condizioni, segnala la necessita' che la stessa prosegua anche dopo che e' cessata l'esposizione, per il periodo di tempo che ritiene necessario per la tutela della salute del lavoratore interessato. Il medico competente fornisce, altresi', al lavoratore indicazioni riguardo all'opportunita' di sottoporsi ad accertamenti sanitari, anche dopo la cessazione dell'attivita' lavorativa, sulla base dello stato di salute del medesimo e dell'evoluzione delle conoscenze scientifiche.
 
@@ -2521,6 +9447,39 @@ Le annotazioni individuali contenute nel registro di cui al comma 1 e le cartell
 
 I registri di esposizione, le annotazioni individuali e le cartelle sanitarie e di rischio sono custoditi e trasmessi con salvaguardia del segreto professionale e del trattamento dei dati personali e nel rispetto del decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni.
 
+8.
+                        
+                            
+                                Il datore di lavoro, in caso di esposizione del lavoratore ((ad agenti cancerogeni o a sostanze tossiche per la riproduzione)), oltre a quanto previsto ai commi da 1 a 7: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((trasmette copia del registro di cui al comma 1 all'INAIL)) ed all'organo di vigilanza competente per territorio, e comunica loro ogni tre anni, e comunque ogni qualvolta i medesimi ne facciano richiesta, le variazioni intervenute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consegna, a richiesta, all'Istituto superiore di sanita' copia del registro di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di cessazione di attivita' dell'azienda, consegna copia del registro di cui al comma 1 all'organo di vigilanza competente per territorio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di assunzione di lavoratori che hanno in precedenza esercitato attivita' con esposizione ((ad agenti cancerogeni o a sostanze tossiche per la riproduzione, il datore di lavoro chiede all'INAIL)) copia delle annotazioni individuali contenute nel registro di cui al comma 1, nonche' copia della cartella sanitaria e di rischio, qualora il lavoratore non ne sia in possesso ai sensi del comma 4.
+
 I modelli e le modalita' di tenuta del registro e delle cartelle sanitarie e di rischio sono determinati dal decreto del Ministro del lavoro, della salute e delle politiche sociali 12 luglio 2007, n. 155, ed aggiornati con decreto dello stesso Ministro, adottato di concerto con il Ministro del lavoro, della salute e delle politiche sociali e con il Ministro per le riforme e le innovazioni nella pubblica amministrazione, sentita la commissione consultiva permanente.
 
 ((
@@ -2535,6 +9494,39 @@ L'INAIL, tramite una rete completa di Centri operativi regionali (COR) e nei lim
 
 I medici e le strutture sanitarie pubbliche e private, nonche' gli istituti previdenziali ed assicurativi pubblici o privati, che identificano casi di neoplasie da loro ritenute attribuibili ad esposizioni lavorative ad agenti cancerogeni o mutageni, o casi di effetti nocivi sulla funzione sessuale e sulla fertilita' delle lavoratrici e dei lavoratori adulti o sullo sviluppo della loro progenie da loro ritenute attribuibili ad esposizioni lavorative a sostanze tossiche per la riproduzione, ne danno segnalazione all'INAIL, tramite i Centri operativi regionali (COR) di cui al comma 1, trasmettendo le informazioni di cui al decreto del Presidente del Consiglio dei Ministri 10 dicembre 2002, n. 308, che regola le modalita' di tenuta del registro, di raccolta e trasmissione delle informazioni.
 
+3.
+                        
+                            
+                                Presso l'INAIL e' costituito il registro nazionale dei casi di neoplasia di sospetta origine professionale e dei casi di effetti avversi per la salute da esposizione a sostanze tossiche per la riproduzione, con sezioni rispettivamente dedicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((ai casi di cui all'allegato XLIII-ter dell'articolo 261 del presente decreto sotto la denominazione Neoplasie correlate all'amianto;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    ai casi di neoplasie delle cavita' nasali e dei seni paranasali, sotto la denominazione di Registro nazionale dei tumori nasali e sinusali (ReNaTuNS); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai casi di neoplasie a piu' bassa frazione eziologia riguardo alle quali, tuttavia, sulla base dei sistemi di elaborazione ed analisi dei dati di cui al comma 1, siano stati identificati cluster di casi possibilmente rilevanti ovvero eccessi di incidenza ovvero di mortalita' di possibile significativita' epidemiologica in rapporto a rischi occupazionali. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    ai casi di effetti avversi per la salute da esposizione a sostanze tossiche per la riproduzione.
+
 L'INAIL rende disponibili al Ministero del lavoro e delle politiche sociali, al Ministero della salute e alle regioni e province autonome i risultati del monitoraggio con periodicita' annuale.
 
 I contenuti, le modalita' di tenuta, raccolta e trasmissione delle informazioni e di realizzazione complessiva dei sistemi di monitoraggio di cui ai commi 1 e 3 sono determinati dal Ministero del lavoro, della salute e delle politiche sociali, d'intesa con le regioni e province autonome.
@@ -2543,6 +9535,24 @@ I contenuti, le modalita' di tenuta, raccolta e trasmissione delle informazioni 
 
 
 
+2.
+                        
+                            
+                                Con decreto dei Ministri del lavoro e della previdenza sociale e della salute, sentita la commissione consultiva permanente e la Commissione consultiva tossicologica nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono aggiornati gli allegati XLII e XLIII in funzione del progresso tecnico, dell'evoluzione di normative e specifiche comunitarie o internazionali e delle conoscenze nel settore degli agenti cancerogeni o mutageni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' pubblicato l'elenco delle sostanze in funzione dell'individuazione effettuata ai sensi del comma 1.
+
 ## - Capo III Protezione dai rischi connessi all'esposizione all'amianto  Sezione I  Disposizioni generali
 
 ## Art. 246. — (( (Campo di applicazione). ))
@@ -2550,6 +9560,52 @@ I contenuti, le modalita' di tenuta, raccolta e trasmissione delle informazioni 
 
 
 ## Art. 247. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente capo il termine amianto designa i seguenti silicati fibrosi ((, classificati come sostanze cancerogene di categoria 1 A, a norma dell'allegato VI, parte 3, del regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'actinolite d'amianto, n. CAS 77536-66-4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la grunerite d'amianto (amosite), n. CAS 12172-73-5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'antofillite d'amianto, n. CAS 77536-67-5; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il crisotilo, n. CAS 12001-29-5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la crocidolite, n. CAS 12001-28-4; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la tremolite d'amianto, n. CAS 77536-68-6.
 
 ## - Sezione II Obblighi del datore di lavoro
 
@@ -2564,6 +9620,38 @@ Se vi e' il minimo dubbio sulla presenza di amianto in un materiale o in una cos
 Nella valutazione di cui all'articolo 28, il datore di lavoro valuta i rischi dovuti alla polvere proveniente dall'amianto e dai materiali contenenti amianto, al fine di stabilire la natura e il grado dell'esposizione e le misure preventive e protettive da attuare.
 
 ((Per qualsiasi attivita' lavorativa che possa presentare un rischio di esposizione alla polvere proveniente dall'amianto o da materiali contenenti amianto, il datore di lavoro valuta i rischi in modo da stabilire la natura e il grado dell'esposizione dei lavoratori e dare priorita' alla rimozione dell'amianto o di materiali contenenti amianto rispetto ad altre forme di manutenzione e bonifica dell'amianto o dei materiali contenenti amianto.))
+
+2.
+                        
+                            
+                                Nei casi di esposizioni sporadiche e di debole intensita' e a condizione che risulti chiaramente dalla valutazione dei rischi di cui al comma 1 che il valore limite di esposizione all'amianto non e' superato nell'aria dell'ambiente di lavoro, ((non si applica l'articolo 250)), nelle seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    brevi attivita' non continuative di manutenzione durante le quali il lavoro viene effettuato solo su materiali non friabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimozione senza deterioramento di materiali non degradati in cui le fibre di amianto sono fermamente legate ad una matrice; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incapsulamento e confinamento di materiali contenenti amianto che si trovano in buono stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sorveglianza e controllo dell'aria e prelievo dei campioni ai fini dell'individuazione della presenza di amianto in un determinato materiale.
 
 Il datore di lavoro effettua nuovamente la valutazione ogni qualvolta si verifichino modifiche che possono comportare un mutamento significativo dell'esposizione dei lavoratori alla polvere proveniente dall'amianto o dai materiali contenenti amianto.
 
@@ -2589,7 +9677,149 @@ Il datore di lavoro, ogni qualvolta una modifica delle condizioni di lavoro poss
 
 ## Art. 251. — Misure di prevenzione e protezione
 
+1.
+                        
+                            
+                                In tutte le attivita' di cui all'articolo 246, la concentrazione nell'aria della polvere proveniente dall'amianto o dai materiali contenenti amianto nel luogo di lavoro deve essere ridotta al minimo e, ((comunque, al piu' basso valore tecnicamente possibile)) al di sotto del valore limite fissato nell'articolo 254, in particolare mediante le seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei lavoratori esposti o che possono essere esposti alla polvere proveniente dall'amianto o da materiali contenenti amianto ((e')) limitato al numero piu' basso possibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((ove l'attivita' lavorativa presenti un rischio di esposizione connessa alla manipolazione attiva dell'amianto o dei materiali contenenti amianto, i lavoratori devono sempre utilizzare dispositivi di protezione individuale (DPI), inclusi quelli delle vie respiratorie con fattore di protezione operativo adeguato alla concentrazione di amianto nell'aria;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((nei casi di cui alla lettera b), l'utilizzo dei DPI deve essere intervallato da periodi di riposo adeguati all'impegno fisico richiesto dal lavoro, l'accesso alle aree di riposo deve essere preceduto da idonea decontaminazione di cui all'articolo 256, comma 4, lettera d);))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    per la protezione dei lavoratori addetti alle lavorazioni previste dall'articolo 249, ((comma 2)), si applica quanto previsto al comma 1, lettera b), del presente articolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((nei casi di cui alla lettera b), i processi lavorativi devono essere concepiti in modo tale da evitare di produrre polvere di amianto o, se cio' non e' possibile, da evitare emissione di polvere di amianto nell'aria adottando misure quali: 
+ 1) l'eliminazione della polvere di amianto; 
+ 2) l'aspirazione della polvere di amianto alla fonte; 
+ 3) l'abbattimento continuo delle fibre di amianto sospese in aria tramite l'uso di acqua nebulizzata e/o incapsulanti)); 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    
+                                        ((i lavoratori sono sottoposti a un'adeguata procedura di decontaminazione;))
+                                    
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    
+                                        ((per i lavori svolti in ambienti chiusi, e' garantita un'adeguata protezione;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((nei casi di cui alla lettera b) tutti i locali e le attrezzature per il trattamento dell'amianto sono regolarmente sottoposti a un'efficace pulizia e manutenzione;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    l'amianto o i materiali che rilasciano polvere di amianto o che contengono amianto ((sono)) stoccati e trasportati in appositi imballaggi chiusi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((i rifiuti di cui alla lettera g) sono raccolti e rimossi dal luogo di lavoro il piu' presto possibile in appropriati imballaggi chiusi su cui sara' apposta un'etichettatura indicante che contengono amianto. Detti rifiuti devono essere successivamente trattati in conformita' alla vigente normativa in materia di rifiuti pericolosi.
+Per i rifiuti derivanti da attivita' estrattive o di scavo in pietre verdi si applica la normativa specifica di riferimento.))
+
 ## Art. 252. — Misure igieniche
+
+1.
+                        
+                            
+                                
+                                    ((Fermo restando quanto previsto dall'articolo 249, comma 2, in tutte le attivita' lavorative nelle quali vi e' rischio di esposizione connessa alla manipolazione attiva dell'amianto o dei materiali contenenti amianto il datore di lavoro adotta le misure appropriate affinche':))
+                                
+                            
+                            
+                                a)
+                                
+                                    i luoghi in cui si svolgono tali attivita' siano: 
+ 1) chiaramente delimitati e contrassegnati da appositi cartelli; 
+ 2) accessibili esclusivamente ai lavoratori che vi debbano accedere a motivo del loro lavoro o della loro funzione; 
+ 3) oggetto del divieto di fumare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano predisposte aree speciali che consentano ai lavoratori di mangiare e bere senza rischio di contaminazione da polvere di amianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano messi a disposizione dei lavoratori adeguati indumenti di lavoro o adeguati dispositivi di protezione individuale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    detti indumenti di lavoro o protettivi restino all'interno dell'impresa. Essi possono essere trasportati all'esterno solo per il lavaggio in lavanderie attrezzate per questo tipo di operazioni, in contenitori chiusi, qualora l'impresa stessa non vi provveda o in caso di utilizzazione di indumenti monouso per lo smaltimento secondo le vigenti disposizioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli indumenti di lavoro o protettivi siano riposti in un luogo separato da quello destinato agli abiti civili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i lavoratori possano disporre di impianti sanitari adeguati, provvisti di docce, in caso di operazioni in ambienti polverosi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'equipaggiamento protettivo sia custodito in locali a tale scopo destinati e controllato e pulito dopo ogni utilizzazione: siano prese misure per riparare o sostituire l'equipaggiamento difettoso o deteriorato prima di ogni utilizzazione.
 
 ## Art. 253. — Controllo dell'esposizione
 
@@ -2624,6 +9854,39 @@ Nell'ipotesi di cui al comma 4, il datore di lavoro, previa consultazione con i 
 
 ## Art. 255. — Operazioni lavorative particolari
 
+1.
+                        
+                            
+                                Nel caso di determinate operazioni lavorative in cui, nonostante l'adozione di misure tecniche preventive per limitare la concentrazione di amianto nell'aria, e' prevedibile che questa superi il valore limite di cui all'articolo 254, il datore di lavoro adotta adeguate misure per la protezione dei lavoratori addetti, ed in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce ai lavoratori un adeguato dispositivo di protezione delle vie respiratorie e altri dispositivi di protezione individuali tali da garantire le condizioni previste dall'articolo 251, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede all'affissione di cartelli per segnalare che si prevede il superamento del valore limite di esposizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((adotta le misure necessarie per impedire la dispersione della polvere al di fuori dei locali o luoghi di lavoro; per i lavori effettuati in confinamento, l'area confinata e' a tenuta d'aria e ventilata mediante estrazione meccanica;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    consulta i lavoratori o i loro rappresentanti di cui all'articolo 46 sulle misure da adottare prima di procedere a tali attivita'.
+
 ## Art. 256. — Lavori di demolizione o rimozione dell'amianto
 
 I lavori di demolizione o di rimozione dell'amianto possono essere effettuati solo da imprese rispondenti ai requisiti di cui all'articolo 212 del decreto legislativo 3 aprile 2006, n. 152.
@@ -2631,6 +9894,81 @@ I lavori di demolizione o di rimozione dell'amianto possono essere effettuati so
 Il datore di lavoro, prima dell'inizio di lavori di demolizione o di rimozione dell'amianto o di materiali contenenti amianto da edifici, strutture, apparecchi e impianti, nonche' dai mezzi di trasporto, predispone un piano di lavoro.
 
 Il piano di cui al comma 2 prevede le misure necessarie per garantire la sicurezza e la salute dei lavoratori sul luogo di lavoro e la protezione dell'ambiente esterno.
+
+4.
+                        
+                            
+                                Il piano, in particolare, prevede e contiene informazioni sui seguenti punti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rimozione dell'amianto o dei materiali contenenti amianto prima dell'applicazione delle tecniche di demolizione, a meno che tale rimozione non possa costituire per i lavoratori un rischio maggiore di quello rappresentato dal fatto che l'amianto o i materiali contenenti amianto vengano lasciati sul posto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornitura ai lavoratori di idonei dispositivi di protezione individuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((verifica, prima della ripresa di altre attivita', dell'assenza di rischi dovuti all'esposizione, eventualmente anche attraverso la misurazione ambientale nel luogo confinato di lavoro)) all'amianto sul luogo di lavoro, al termine dei lavori di demolizione o di rimozione dell'amianto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adeguate misure per la protezione e la decontaminazione del personale incaricato dei lavori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adeguate misure per la protezione dei terzi e per la raccolta e lo smaltimento dei materiali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adozione, nel caso in cui sia previsto il superamento dei valori limite di cui all'articolo 254, delle misure di cui all'articolo 255, adattandole alle particolari esigenze del lavoro specifico; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    natura dei lavori, data di inizio e loro durata presumibile; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    luogo ove i lavori verranno effettuati; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    tecniche lavorative adottate per la rimozione dell'amianto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    caratteristiche delle attrezzature o dispositivi che si intendono utilizzare per attuare quanto previsto dalle lettere d) ed e).
 
 Copia del piano di lavoro e' inviata all'organo di vigilanza, almeno 30 giorni prima dell'inizio dei lavori. Se entro il periodo di cui al precedente capoverso l'organo di vigilanza non formula motivata richiesta di integrazione o modifica del piano di lavoro e non rilascia prescrizione operativa, il datore di lavoro puo' eseguire i lavori. L'obbligo del preavviso di trenta giorni prima dell'inizio dei lavori non si applica nei casi di urgenza. In tale ultima ipotesi, oltre alla data di inizio, deve essere fornita dal datore di lavoro indicazione dell'orario di inizio delle attivita'.
 
@@ -2640,11 +9978,118 @@ Il datore di lavoro provvede affinche' i lavoratori o i loro rappresentanti abbi
 
 ## Art. 257. — Informazione dei lavoratori
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 36, il datore di lavoro fornisce ai lavoratori, prima che essi siano adibiti ad attivita' comportanti esposizione ad amianto, nonche' ai loro rappresentanti, informazioni su:
+ 
+                            
+                            
+                                a)
+                                
+                                    i rischi per la salute dovuti all'esposizione alla polvere proveniente dall'amianto o dai materiali contenenti amianto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le specifiche norme igieniche da osservare, ivi compresa la necessita' di non fumare;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di pulitura e di uso degli indumenti protettivi e dei dispositivi di protezione individuale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le misure di precauzione particolari da prendere nel ridurre al minimo l'esposizione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'esistenza del valore limite di cui all'articolo 254 e la necessita' del monitoraggio ambientale.
+
 Oltre a quanto previsto al comma l, qualora dai risultati delle misurazioni della concentrazione di amianto nell'aria emergano valori superiori al valore limite fissato dall'articolo 254, il datore di lavoro informa il piu' presto possibile i lavoratori interessati e i loro rappresentanti del superamento e delle cause dello stesso e li consulta sulle misure da adottare o, nel caso in cui ragioni di urgenza non rendano possibile la consultazione preventiva, il datore di lavoro informa tempestivamente i lavoratori interessati e i loro rappresentanti delle misure adottate.
 
 ## Art. 258. — Formazione dei lavoratori
 
 Fermo restando quanto previsto dall'articolo 37, il datore di lavoro assicura che tutti i lavoratori esposti o potenzialmente esposti a polveri contenenti amianto ricevano una formazione sufficiente ed adeguata, ad intervalli regolari.
+
+2.
+                        
+                            
+                                Il contenuto della formazione ((e')) facilmente comprensibile per i lavoratori e ((consente)) loro di acquisire le conoscenze e le competenze necessarie in materia di prevenzione e di sicurezza, in particolare per quanto riguarda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le proprieta' dell'amianto e i suoi effetti sulla salute, incluso l'effetto sinergico del tabagismo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i tipi di prodotti o materiali che possono contenere amianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le operazioni che possono comportare un'esposizione all'amianto e l'importanza dei controlli preventivi per ridurre al minimo tale esposizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le procedure di lavoro sicure, i controlli e le attrezzature di protezione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((la funzione, la scelta, la selezione, i limiti e la corretta utilizzazione dei dispositivi di protezione, con particolare attenzione ai dispositivi di protezione delle vie respiratorie;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    le procedure di emergenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le procedure di decontaminazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'eliminazione dei rifiuti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la necessita' della sorveglianza medica.
 
 ((La formazione e' adattata il piu' possibile alle caratteristiche della mansione del lavoratore e ai compiti e metodi di lavoro specifici di tale professione.))
 
@@ -2680,15 +10125,101 @@ L'((INAIL)) provvede a conservare i documenti di cui al comma 3 per un periodo d
 
 ## Art. 262. — (Sanzioni per il datore di lavoro e il dirigente)
 
+1.
+                        
+                            
+                                Il datore di lavoro e' punito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione degli articoli 223, commi 1, 2 e 3, 236, commi 1, 2, 3, 4 e 5, ((e 249, commi 1, 1-bis e 3)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto fino a sei mesi o con l'ammenda da 2.000 a 4.000 euro per la violazione dell'articolo 223, comma 6.
+
+2.
+                        
+                            
+                                Il datore di lavoro e il dirigente sono puniti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione degli articoli 225, 226, 228, commi 1, 3, 4 e 5, 229, comma 7, 235, 237, 238, comma 1, 240, commi 1 e 2, 241, 242, commi 1, 2 e 5, lettera b), 248, comma 1, 250, commi 1 e 4, 251, 252, 253, comma 1, 254, 255, 256, commi 1, 2, 3 e 4, 257, 258, 259, commi 1, 2 e 3, e 260, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto fino a sei mesi o con l'ammenda da 2.000 a 4.000 euro per la violazione degli articoli 227, commi 1, 2 e 3, 229, commi 1, 2, 3 e 5, 239, commi 1, 2 e 4, e 240, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con l'arresto fino a tre mesi o con l'ammenda da 800 a 2.000 euro ((per la violazione degli articoli 250, commi 2, 2-bis e 3,)) e 256, commi 5 e 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazione degli articoli 243, commi 3, 4, 5, 6 e 8, 253, comma 3, e 260, commi 2 e 3.
+
 ## Art. 263. — (( (Sanzioni per il preposto) ))
 
 ((
+
+1.
+                        
+                            
+                                Con riferimento alle previsioni di cui al presente titolo, il preposto e' punito:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto sino a due mesi o con l'ammenda da 400 a 1.600 euro per la violazione degli articoli 225, 226, 228, commi 1, 3, 4 e 5, 235, 236, comma 3, 240, commi 1 e 2, 241, 242, commi 1 e 2, 248, comma 1, e 254;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto fino a un mese o con l'ammenda da 250 a 1000 euro per la violazione degli articoli 229, commi 1, 2, 3 e 5, e 239, commi 1, 2 e 4.
 
 ))
 
 ## Art. 264. — (( Sanzioni per il medico competente ))
 
 ((
+
+1.
+                        
+                            
+                                Il medico competente e' punito:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto fino a due mesi o con l'ammenda da 300 a 1.200 euro per la violazione degli articoli 229, commi 3, primo periodo, e 6, 230, e 242, comma 4;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto fino a un mese o con l'ammenda da 200 a 800 euro per la violazione dell'articolo 243, comma 2.
 
 ))
 
@@ -2714,13 +10245,88 @@ Restano ferme le disposizioni particolari di recepimento delle norme comunitarie
 
 ## Art. 267. — Definizioni
 
+1.
+                        
+                            
+                                Ai sensi del presente titolo s'intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    agente biologico: qualsiasi microrganismo anche se geneticamente modificato, coltura cellulare ed endoparassita umano che potrebbe provocare infezioni, allergie o intossicazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    microrganismo: qualsiasi entita' microbiologica, cellulare o meno, in grado di riprodursi o trasferire materiale genetico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coltura cellulare: il risultato della crescita in vitro di cellule derivate da organismi pluricellulari.
+
 ## Art. 268. — Classificazione degli agenti biologici
+
+1.
+                        
+                            
+                                Gli agenti biologici sono ripartiti nei seguenti quattro gruppi a seconda del rischio di infezione:
+ 
+                            
+                            
+                                a)
+                                
+                                    agente biologico del gruppo 1: un agente che presenta poche probabilita' di causare malattie in soggetti umani;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agente biologico del gruppo 2: un agente che puo' causare malattie in soggetti umani e costituire un rischio per i lavoratori; e' poco probabile che si propaga nella comunita'; sono di norma disponibili efficaci misure profilattiche o terapeutiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agente biologico del gruppo 3: un agente che puo' causare malattie gravi in soggetti umani e costituisce un serio rischio per i lavoratori; l'agente biologico puo' propagarsi nella comunita', ma di norma sono disponibili efficaci misure profilattiche o terapeutiche;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agente biologico del gruppo 4: un agente biologico che puo' provocare malattie gravi in soggetti umani e costituisce un serio rischio per i lavoratori e puo' presentare un elevato rischio di propagazione nella comunita'; non sono disponibili, di norma, efficaci misure profilattiche o terapeutiche.
 
 Nel caso in cui l'agente biologico oggetto di classificazione non puo' essere attribuito in modo inequivocabile ad uno fra i due gruppi sopraindicati, esso va classificato nel gruppo di rischio piu' elevato tra le due possibilita'.
 
 L'allegato XLVI riporta l'elenco degli agenti biologici classificati nei gruppi 2, 3 e 4.
 
 ## Art. 269. — Comunicazione
+
+1.
+                        
+                            
+                                Il datore di lavoro che intende esercitare attivita' che comportano uso di agenti biologici dei gruppi 2 o 3, comunica all'organo di vigilanza territorialmente competente le seguenti informazioni, almeno trenta giorni prima dell'inizio dei lavori:
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e l'indirizzo dell'azienda e il suo titolare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il documento di cui all'articolo 271, comma 5.
 
 Il datore di lavoro che e' stato autorizzato all'esercizio di attivita' che comporta l'utilizzazione di un agente biologico del gruppo 4 e' tenuto alla comunicazione di cui al comma 1.
 
@@ -2736,6 +10342,24 @@ I laboratori che forniscono un servizio diagnostico sono tenuti alla comunicazio
 
 Il datore di lavoro che intende utilizzare, nell'esercizio della propria attivita', un agente biologico del gruppo 4 deve munirsi di autorizzazione del ((Ministero del lavoro, della salute e delle politiche sociali)).
 
+2.
+                        
+                            
+                                La richiesta di autorizzazione e' corredata da:
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni di cui all'articolo 269, comma 1;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco degli agenti che si intende utilizzare.
+
 L'autorizzazione e' rilasciata dai competenti uffici del ((Ministero del lavoro, della salute e delle politiche sociali)) sentito il parere dell'Istituto superiore di sanita'. Essa ha la durata di 5 anni ed e' rinnovabile. L'accertamento del venir meno di una delle condizioni previste per l'autorizzazione ne comporta la revoca.
 
 Il datore di lavoro in possesso dell'autorizzazione di cui al comma 1 informa il ((Ministero del lavoro, della salute e delle politiche sociali)) di ogni nuovo agente biologico del gruppo 4 utilizzato, nonche' di ogni avvenuta cessazione di impiego di un agente biologico del gruppo 4.
@@ -2748,11 +10372,96 @@ Il ((Ministero del lavoro, della salute e delle politiche sociali)) comunica all
 
 ## Art. 271. — Valutazione del rischio
 
+1.
+                        
+                            
+                                Il datore di lavoro, nella valutazione del rischio di cui all'articolo 17, comma 1, tiene conto di tutte le informazioni disponibili relative alle caratteristiche dell'agente biologico e delle modalita' lavorative, ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    della classificazione degli agenti biologici che presentano o possono presentare un pericolo per la salute umana quale risultante dall'allegato XLVI o, in assenza, di quella effettuata dal datore di lavoro stesso sulla base delle conoscenze disponibili e seguendo i criteri di cui all'articolo 268, commi 1 e 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'informazione sulle malattie che possono essere contratte;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei potenziali effetti allergici e tossici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della conoscenza di una patologia della quale e' affetto un lavoratore, che e' da porre in correlazione diretta all'attivita' lavorativa svolta;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delle eventuali ulteriori situazioni rese note dall'autorita' sanitaria competente che possono influire sul rischio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    del sinergismo dei diversi gruppi di agenti biologici utilizzati.
+
 Il datore di lavoro applica i principi di buona prassi microbiologica, ed adotta, in relazione ai rischi accertati, le misure protettive e preventive di cui al presente titolo, adattandole alle particolarita' delle situazioni lavorative.
 
 Il datore di lavoro effettua nuovamente la valutazione di cui al comma 1 in occasione di modifiche dell'attivita' lavorativa significative ai fini della sicurezza e della salute sul lavoro e, in ogni caso, trascorsi tre anni dall'ultima valutazione effettuata.
 
 Nelle attivita', quali quelle riportate a titolo esemplificativo nell'allegato XLIV, che, pur non comportando la deliberata intenzione di operare con agenti biologici, possono implicare il rischio di esposizioni dei lavoratori agli stessi, il datore di lavoro puo' prescindere dall'applicazione delle disposizioni di cui agli articoli 273, 274, commi 1 e 2, 275, comma 3, e 279, qualora i risultati della valutazione dimostrano che l'attuazione di tali misure non e' necessaria.
+
+5.
+                        
+                            
+                                Il documento di cui all'articolo 17 e' integrato dai seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    le fasi del procedimento lavorativo che comportano il rischio di esposizione ad agenti biologici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero dei lavoratori addetti alle fasi di cui alla lettera a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le generalita' del responsabile del servizio di prevenzione e protezione dai rischi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i metodi e le procedure lavorative adottate, nonche' le misure preventive e protettive applicate;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il programma di emergenza per la protezione dei lavoratori contro i rischi di esposizione ad un agente biologico del gruppo 3 o del gruppo 4, nel caso di un difetto nel contenimento fisico.
 
 Il rappresentante per la sicurezza e' consultato prima dell'effettuazione della valutazione di cui al comma 1 ed ha accesso anche ai dati di cui al comma 5.
 
@@ -2760,7 +10469,120 @@ Il rappresentante per la sicurezza e' consultato prima dell'effettuazione della 
 
 In tutte le attivita' per le quali la valutazione di cui all'articolo 271 evidenzia rischi per la salute dei lavoratori il datore di lavoro attua misure tecniche, organizzative e procedurali, per evitare ogni esposizione degli stessi ad agenti biologici.
 
+2.
+                        
+                            
+                                In particolare, il datore di lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    evita l'utilizzazione di agenti biologici nocivi, se il tipo di attivita' lavorativa lo consente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    limita al minimo i lavoratori esposti, o potenzialmente esposti, al rischio di agenti biologici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    progetta adeguatamente i processi lavorativi ((, anche attraverso l'uso di dispositivi di sicurezza atti a proteggere dall'esposizione accidentale ad agenti biologici));
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adotta misure collettive di protezione ovvero misure di protezione individuali qualora non sia possibile evitare altrimenti l'esposizione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adotta misure igieniche per prevenire e ridurre al minimo la propagazione accidentale di un agente biologico fuori dal luogo di lavoro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    usa il segnale di rischio biologico, rappresentato nell'allegato XLV, e altri segnali di avvertimento appropriati;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    elabora idonee procedure per prelevare, manipolare e trattare campioni di origine umana ed animale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    definisce procedure di emergenza per affrontare incidenti;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    verifica la presenza di agenti biologici sul luogo di lavoro al di fuori del contenimento fisico primario, se necessario o tecnicamente realizzabile;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    predispone i mezzi necessari per la raccolta, l'immagazzinamento e lo smaltimento dei rifiuti in condizioni di sicurezza, mediante l'impiego di contenitori adeguati ed identificabili eventualmente dopo idoneo trattamento dei rifiuti stessi;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    concorda procedure per la manipolazione ed il trasporto in condizioni di sicurezza di agenti biologici all'interno ((e all'esterno)) del luogo di lavoro.
+
 ## Art. 273. — Misure igieniche
+
+1.
+                        
+                            
+                                In tutte le attivita' nelle quali la valutazione di cui all'articolo 271 evidenzia rischi per la salute dei lavoratori, il datore di lavoro assicura che:
+ 
+                            
+                            
+                                a)
+                                
+                                    i lavoratori dispongano dei servizi sanitari adeguati provvisti di docce con acqua calda e fredda, nonche', se del caso, di lavaggi oculari e antisettici per la pelle;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i lavoratori abbiano in dotazione indumenti protettivi od altri indumenti idonei, da riporre in posti separati dagli abiti civili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dispositivi di protezione individuale ((ove non siano mono uso,)) siano controllati, disinfettati e puliti dopo ogni utilizzazione, provvedendo altresi' a far riparare o sostituire quelli difettosi prima dell'utilizzazione successiva;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli indumenti di lavoro e protettivi che possono essere contaminati da agenti biologici vengano tolti quando il lavoratore lascia la zona di lavoro, conservati separatamente dagli altri indumenti, disinfettati, puliti e, se necessario, distrutti.
 
 Nelle aree di lavoro in cui c'e' rischio di esposizione e' vietato assumere cibi e bevande, fumare, conservare cibi destinati al consumo umano, usare pipette a bocca e applicare cosmetici.
 
@@ -2779,6 +10601,31 @@ Nelle strutture di isolamento che ospitano pazienti od animali che sono, o potre
 ## Art. 275. — Misure specifiche per i laboratori e gli stabulari
 
 Fatto salvo quanto specificatamente previsto all'allegato XLVI, punto 6, nei laboratori comportanti l'uso di agenti biologici dei gruppi 2, 3 o 4 a fini di ricerca, didattici o diagnostici, e nei locali destinati ad animali da laboratorio deliberatamente contaminati con tali agenti, il datore di lavoro adotta idonee misure di contenimento in conformita' all'allegato XLVII.
+
+2.
+                        
+                            
+                                Il datore di lavoro assicura che l'uso di agenti biologici sia eseguito:
+ 
+                            
+                            
+                                a)
+                                
+                                    in aree di lavoro corrispondenti almeno al secondo livello di contenimento, se l'agente appartiene al gruppo 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in aree di lavoro corrispondenti almeno al terzo livello di contenimento, se l'agente appartiene al gruppo 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in aree di lavoro corrispondenti almeno al quarto livello di contenimento, se l'agente appartiene al gruppo 4.
 
 Nei laboratori comportanti l'uso di materiali con possibile contaminazione da agenti biologici patogeni per l'uomo e nei locali destinati ad animali da esperimento, possibili portatori di tali agenti, il datore di lavoro adotta misure corrispondenti almeno a quelle del secondo livello di contenimento.
 
@@ -2802,6 +10649,52 @@ I lavoratori segnalano immediatamente al datore di lavoro o al dirigente o al pr
 
 ## Art. 278. — Informazioni e formazione
 
+1.
+                        
+                            
+                                Nelle attivita' per le quali la valutazione di cui all'articolo 271 evidenzia rischi per la salute dei lavoratori, il datore di lavoro fornisce ai lavoratori, sulla base delle conoscenze disponibili, informazioni ed istruzioni, in particolare per quanto riguarda:
+ 
+                            
+                            
+                                a)
+                                
+                                    i rischi per la salute dovuti agli agenti biologici utilizzati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le precauzioni da prendere per evitare l'esposizione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le misure igieniche da osservare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la funzione degli indumenti di lavoro e protettivi e dei dispositivi di protezione individuale ed il loro corretto impiego;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le procedure da seguire per la manipolazione di agenti biologici del gruppo 4;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il modo di prevenire il verificarsi di infortuni e le misure da adottare per ridurne al minimo le conseguenze.
+
 Il datore di lavoro assicura ai lavoratori una formazione adeguata in particolare in ordine a quanto indicato al comma 1.
 
 L'informazione e la formazione di cui ai commi 1 e 2 sono fornite prima che i lavoratori siano adibiti alle attivita' in questione, e ripetute, con frequenza almeno quinquennale, e comunque ogni qualvolta si verificano nelle lavorazioni cambiamenti che influiscono sulla natura e sul grado dei rischi.
@@ -2818,6 +10711,24 @@ Qualora l'esito della valutazione del rischio ne rilevi la necessita' i lavorato
 
 ))
 
+2.
+                        
+                            
+                                Il datore di lavoro, su conforme parere del medico competente, adotta misure protettive particolari per quei lavoratori per i quali, anche per motivi sanitari individuali, si richiedono misure speciali di protezione, fra le quali:
+ 
+                            
+                            
+                                a)
+                                
+                                    la messa a disposizione di vaccini efficaci per quei lavoratori che non sono gia' immuni all'agente biologico presente nella lavorazione, da somministrare a cura del medico competente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'allontanamento temporaneo del lavoratore secondo le procedure dell'articolo 42.
+
 Ove gli accertamenti sanitari abbiano evidenziato, nei lavoratori esposti in modo analogo ad uno stesso agente, l'esistenza di anomalia imputabile a tale esposizione, il medico competente ne informa il datore di lavoro.
 
 A seguito dell'informazione di cui al comma 3 il datore di lavoro effettua una nuova valutazione del rischio in conformita' all'articolo 271.
@@ -2831,6 +10742,38 @@ I lavoratori addetti ad attivita' comportanti uso di agenti del gruppo 3 ovvero 
 ((
 
 Il datore di lavoro istituisce ed aggiorna il registro di cui al comma 1 e ne cura la tenuta tramite il responsabile del servizio di prevenzione e protezione. Il medico competente e il rappresentante per la sicurezza hanno accesso a detto registro.
+
+3.
+                        
+                            
+                                Il datore di lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    consegna copia del registro di cui al comma 1 all'ISPESL e all'organo di vigilanza competente per territorio, comunicando ad essi ogni tre anni e comunque ogni qualvolta questi ne facciano richiesta,le variazioni intervenute;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunica all'ISPESL e all'organo di vigilanza competente per territorio la cessazione del rapporto di lavoro,dei lavoratori di cui al comma 1, fornendo al contempo l'aggiornamento dei dati che li riguardano e consegna al medesimo Istituto per tramite del medico competente le relative cartelle sanitarie e di rischio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di cessazione di attivita' dell'azienda, consegna all'Istituto superiore di sanita' e all'organo di vigilanza competente per territorio copia del registro di cui al comma 1 ed all'ISPESL copia del medesimo registro nonche' per il tramite del medico competente le cartelle sanitarie e di rischio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di assunzione di lavoratori che hanno esercitato attivita' che comportano rischio di esposizione allo stesso agente richiede all'ISPESL copia delle annotazioni individuali contenute nel registro di cui al comma 1, nonche' copia della cartella sanitaria e di rischio;
 
 ))
 
@@ -2864,6 +10807,31 @@ Il ((Ministero del lavoro, della salute e delle politiche sociali)) fornisce all
 
 Il datore di lavoro e' punito con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 271, commi 1, 3 e 5.
 
+2.
+                        
+                            
+                                Il datore di lavoro e i dirigenti sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione degli articoli 270, commi 1 e 4, 271, comma 2, 272, 273, comma 1, 274, commi 2 e 3, 275; 276, 278, 279, commi 1, 2, e 280, commi 1 e 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto fino a tre mesi o con l'ammenda da 800 a 2.000 euro per la violazione degli articoli 269, commi 1, 2 e 3, e 277, comma 2;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazione dell'articolo 280, commi 3 e 4.
+
 ))
 
 ## Art. 283. — (( (Sanzioni a carico dei preposti) ))
@@ -2885,6 +10853,24 @@ Il medico competente e' punito con l'arresto fino a due mesi o con l'ammenda da 
 ## Art. 285. — (( (Sanzioni a carico dei lavoratori) ))
 
 ((
+
+1.
+                        
+                            
+                                I lavoratori sono puniti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con l'arresto fino a un mese o con l'ammenda da 300 a 800 euro per la violazione dell'articolo 277, comma 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'arresto fino a quindici giorni o con l'ammenda da 100 a 400 euro per la violazione dell'articolo 277, comma 1.
 
 ))
 
@@ -2910,11 +10896,96 @@ Le disposizioni del presente titolo si applicano a tutti i lavoratori che operan
 
 ((
 
+1.
+                        
+                            
+                                Ai fini ed agli effetti delle disposizioni del presente titolo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    luoghi di lavoro interessati: strutture o servizi sanitari del settore pubblico e privato in cui si svolgono attivita' e servizi sanitari sottoposti alla responsabilita' organizzativa e decisionale del datore di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dispositivi medici taglienti: oggetti o strumenti necessari all'esercizio di attivita' specifiche nel quadro dell'assistenza sanitaria, che possono tagliare, pungere o infettare. Gli oggetti taglienti o acuminati sono considerati, ai sensi del presente decreto, attrezzature di lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    misure di prevenzione specifiche: misure adottate per prevenire le ferite e la trasmissione di infezioni nel quadro della prestazione di servizi e dello svolgimento delle attivita' direttamente connesse all'assistenza ospedaliera e sanitaria, incluso l'impiego di attrezzature ritenute tecnicamente piu' sicure in relazione ai rischi e ai metodi di smaltimento dei dispositivi medici taglienti, quali i dispositivi medici taglienti dotati di meccanismo di protezione e di sicurezza, in grado di proteggere le mani dell'operatore durante e al termine della procedura per la quale il dispositivo stesso e' utilizzato e di assicurare una azione protettiva permanente nelle fasi di raccolta e smaltimento definitivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    subfornitore: ogni persona che operi in attivita' e servizi direttamente legati all'assistenza ospedaliera e sanitaria nel quadro di rapporti contrattuali di lavoro con il datore di lavoro.
+
 ))
 
 ## Art. 286-quater. — ((Misure generali di tutela))
 
 ((
+
+1.
+                        
+                            
+                                Il datore di lavoro ha l'obbligo di garantire la salute e sicurezza dei lavoratori in tutti gli aspetti connessi alla loro vita professionale, inclusi i fattori psicosociali e di organizzazione del lavoro, provvedendo in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ad assicurare che il personale sanitario sia adeguatamente formato e dotato di risorse idonee per operare in condizioni di sicurezza tali da evitare il rischio di ferite ed infezioni provocate da dispositivi medici taglienti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad adottare misure idonee ad eliminare o contenere al massimo il rischio di ferite ed infezioni sul lavoro attraverso l'elaborazione di una politica globale di prevenzione che tenga conto delle tecnologie piu' avanzate, dell'organizzazione e delle condizioni di lavoro, dei fattori psicosociali legati all'esercizio della professione e dell'influenza esercitata sui lavoratori dall'ambiente di lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a creare le condizioni tali da favorire la partecipazione attiva dei lavoratori e dei loro rappresentanti all'elaborazione delle politiche globali di prevenzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a non supporre mai inesistente un rischio, applicando nell'adozione delle misure di prevenzione un ordine di priorita' rispondente ai principi generali dell'articolo 6 della direttiva 89/391/CEE e degli articoli 3, 5 e 6 della direttiva 2000/54/CE, al fine di eliminare e prevenire i rischi e creare un ambiente di lavoro sicuro, instaurando un'appropriata collaborazione con i rappresentanti dei lavoratori per la sicurezza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ad assicurare adeguate misure di sensibilizzazione attraverso un'azione comune di coinvolgimento dei lavoratori e loro rappresentanti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a pianificare ed attuare iniziative di prevenzione, sensibilizzazione, informazione e formazione e monitoraggio per valutare il grado di incidenza delle ferite da taglio o da punta nei luoghi di lavoro interessati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    a promuovere la segnalazione degli infortuni, al fine di evidenziare le cause sistemiche.
 
 ))
 
@@ -2931,6 +11002,71 @@ Il datore di lavoro, nella valutazione dei rischi di cui all'articolo 17, comma 
 ## Art. 286-sexies. — ((Misure di prevenzione specifiche))
 
 ((
+
+1.
+                        
+                            
+                                Qualora la valutazione dei rischi di cui all'articolo 286-quinquies evidenzi il rischio di ferite da taglio o da punta e di infezione, il datore di lavoro deve adottare le misure di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione e attuazione di procedure di utilizzo e di eliminazione in sicurezza di dispositivi medici taglienti e di rifiuti contaminati con sangue e materiali biologici a rischio, garantendo l'installazione di contenitori debitamente segnalati e tecnicamente sicuri per la manipolazione e lo smaltimento di dispositivi medici taglienti e di materiale da iniezione usa e getta, posti quanto piu' vicino possibile alle zone in cui sono utilizzati o depositati oggetti taglienti o acuminati; le procedure devono essere periodicamente sottoposte a processo di valutazione per testarne l'efficacia e costituiscono parte integrante dei programmi di informazione e formazione dei lavoratori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eliminazione dell'uso di oggetti taglienti o acuminati quando tale utilizzo non sia strettamente necessario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adozione di dispositivi medici dotati di meccanismi di protezione e di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    divieto immediato della pratica del reincappucciamento manuale degli aghi in assenza di dispositivi di protezione e sicurezza per le punture; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sorveglianza sanitaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    effettuazione di formazione in ordine a: 
+ 1) uso corretto di dispositivi medici taglienti dotati di meccanismi di protezione e sicurezza; 
+ 2) procedure da attuare per la notifica, la risposta ed il monitoraggio post-esposizione; 
+ 3) profilassi da attuare in caso di ferite o punture, sulla base della valutazione della capacita' di infettare della fonte di rischio. 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    informazione per mezzo di specifiche attivita' di sensibilizzazione, anche in collaborazione con le associazioni sindacali di categoria o con i rappresentanti dei lavoratori per la sicurezza, attraverso la diffusione di materiale promozionale riguardante: programmi di sostegno da porre in essere a seguito di infortuni, differenti rischi associati all'esposizione al sangue ed ai liquidi organici e derivanti dall'utilizzazione di dispositivi medici taglienti o acuminati, norme di precauzione da adottare per lavorare in condizioni di sicurezza, corrette procedure di uso e smaltimento dei dispositivi medici utilizzati, importanza, in caso di infortunio, della segnalazione da parte del lavoratore di informazioni pertinenti a completare nel dettaglio le modalita' di accadimento, importanza dell'immunizzazione, vantaggi e inconvenienti della vaccinazione o della mancata vaccinazione, sia essa preventiva o in caso di esposizione ad agenti biologici per i quali esistono vaccini efficaci; tali vaccini devono essere dispensati gratuitamente a tutti i lavoratori ed agli studenti che prestano assistenza sanitaria ed attivita' ad essa correlate nel luogo di lavoro; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    previsione delle procedure che devono essere adottate in caso di ferimento del lavoratore per: 
+ 1) prestare cure immediate al ferito, inclusa la profilassi post-esposizione e gli esami medici necessari e, se del caso, l'assistenza psicologica; 
+ 2) assicurare la corretta notifica e il successivo monitoraggio per l'individuazione di adeguate misure di prevenzione, da attuare attraverso la registrazione e l'analisi delle cause, delle modalita' e circostanze che hanno comportato il verificarsi di infortuni derivanti da punture o ferite e i successivi esiti, garantendo la riservatezza per il lavoratore.
 
 ))
 
@@ -2952,6 +11088,45 @@ Il presente titolo prescrive le misure per la tutela della sicurezza e della sal
 
 Il presente titolo si applica anche nei lavori in sotterraneo ove e' presente un'area con atmosfere esplosive, oppure e' prevedibile, sulla base di indagini geologiche, che tale area si possa formare nell'ambiente.
 
+3.
+                        
+                            
+                                Il presente titolo non si applica:
+ 
+                            
+                            
+                                a)
+                                
+                                    alle aree utilizzate direttamente per le cure mediche dei pazienti, nel corso di esse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'uso di apparecchi a gas di cui al decreto del Presidente della Repubblica 15 novembre 1996, n. 661;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla produzione, alla manipolazione, all'uso, allo stoccaggio ed al trasporto di esplosivi o di sostanze chimicamente instabili;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle industrie estrattive a cui si applica il decreto legislativo 25 novembre 1996, n. 624;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'impiego di mezzi di trasporto terrestre, marittimo, fluviale e aereo per i quali si applicano le pertinenti disposizioni di accordi internazionali tra i quali il Regolamento per il trasporto delle sostanze pericolose sul Reno (ADNR), l'Accordo europeo relativo al trasporto internazionale di merci pericolose per vie navigabili interne (ADN), l'Organizzazione per l'Aviazione civile internazionale (ICAO), l'Organizzazione marittima internazionale (IMO), nonche' la normativa comunitaria che incorpora i predetti accordi. Il presente titolo si applica invece ai veicoli destinati ad essere utilizzati in atmosfera potenzialmente esplosiva.
+
 ## Art. 288. — Definizioni
 
 Ai fini del presente titolo, si intende per: "atmosfera esplosiva" una miscela con l'aria, a condizioni atmosferiche, di sostanze infiammabili allo stato di gas, vapori, nebbie o polveri ((in cui, dopo accensione, la combustione si propaga nell'insieme della miscela incombusta)).
@@ -2968,15 +11143,83 @@ Per condizioni atmosferiche si intendono condizioni nelle quali la concentrazion
 
 Ai fini della prevenzione e della protezione contro le esplosioni, sulla base della valutazione dei rischi e dei principi generali di tutela di cui all'articolo 15, il datore di lavoro adotta le misure tecniche e organizzative adeguate alla natura dell'attivita'; in particolare il datore di lavoro previene la formazione di atmosfere esplosive.
 
+2.
+                        
+                            
+                                Se la natura dell'attivita' non consente di prevenire la formazione di atmosfere esplosive, il datore di lavoro deve:
+ 
+                            
+                            
+                                a)
+                                
+                                    evitare l'accensione di atmosfere esplosive;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attenuare gli effetti pregiudizievoli di un'esplosione in modo da garantire la salute e la sicurezza dei lavoratori.
+
 Se necessario, le misure di cui ai commi 1 e 2 sono combinate e integrate con altre contro la propagazione delle esplosioni e sono riesaminate periodicamente e, in ogni caso, ogniqualvolta si verifichino cambiamenti rilevanti.
 
 ## Art. 290. — Valutazione dei rischi di esplosione
+
+1.
+                        
+                            
+                                Nell'assolvere gli obblighi stabiliti dall'articolo 17, comma 1, il datore di lavoro valuta i rischi specifici derivanti da atmosfere esplosive, tenendo conto almeno dei seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    probabilita' e durata della presenza di atmosfere esplosive;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    probabilita' che le fonti di accensione, comprese le scariche elettrostatiche, siano presenti e divengano attive ed efficaci;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    caratteristiche dell'impianto, sostanze utilizzate, processi e loro possibili interazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    entita' degli effetti prevedibili.
 
 I rischi di esplosione sono valutati complessi-vamente.
 
 Nella valutazione dei rischi di esplosione vanno presi in considerazione i luoghi che sono o possono essere in collegamento, tramite aperture, con quelli in cui possono formarsi atmosfere esplosive.
 
 ## Art. 291. — Obblighi generali
+
+1.
+                        
+                            
+                                Al fine di salvaguardare la sicurezza e la salute dei lavoratori, e secondo i principi fondamentali della valutazione dei rischi e quelli di cui all'articolo 289, il datore di lavoro prende i provvedimenti necessari affinche':
+ 
+                            
+                            
+                                a)
+                                
+                                    dove possono svilupparsi atmosfere esplosive in quantita' tale da mettere in pericolo la sicurezza e la salute dei lavoratori o di altri, gli ambienti di lavoro siano strutturati in modo da permettere di svolgere il lavoro in condizioni di sicurezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    negli ambienti di lavoro in cui possono svilupparsi atmosfere esplosive in quantita' tale da mettere in pericolo la sicurezza e la salute dei lavoratori, sia garantito un adeguato controllo durante la presenza dei lavoratori, in funzione della valutazione del rischio, mediante l'utilizzo di mezzi tecnici adeguati.
 
 ## Art. 292. — Coordinamento
 
@@ -2996,6 +11239,52 @@ Se necessario, le aree in cui possono formarsi atmosfere esplosive in quantita' 
 
 Nell'assolvere gli obblighi stabiliti dall'articolo 290 il datore di lavoro provvede a elaborare e a tenere aggiornato un documento, denominato: "documento sulla protezione contro le esplosioni".
 
+2.
+                        
+                            
+                                Il documento di cui al comma 1, in particolare, deve precisare:
+ 
+                            
+                            
+                                a)
+                                
+                                    che i rischi di esplosione sono stati individuati e valutati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che saranno prese misure adeguate per raggiungere gli obiettivi del presente titolo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quali sono i luoghi che sono stati classificati nelle zone di cui all'allegato XLIX;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quali sono i luoghi in cui si applicano le prescrizioni minime di cui all'allegato L;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che i luoghi e le attrezzature di lavoro, compresi i dispositivi di allarme, sono concepiti, impiegati e mantenuti in efficienza tenendo nel debito conto la sicurezza;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che, ai sensi del titolo III, sono stati adottati gli accorgimenti per l'impiego sicuro di attrezzature di lavoro.
+
 Il documento di cui al comma 1 deve essere compilato prima dell'inizio del lavoro ed essere riveduto qualora i luoghi di lavoro, le attrezzature o l'organizzazione del lavoro abbiano subito modifiche, ampliamenti o trasformazioni rilevanti.
 
 Il documento di cui al comma 1 e' parte integrante del documento di valutazione dei rischi di cui all'articolo 17, comma 1.
@@ -3003,6 +11292,66 @@ Il documento di cui al comma 1 e' parte integrante del documento di valutazione 
 ## Art. 294-bis. — (( (Informazione e formazione dei lavoratori) ))
 
 ((
+
+1.
+                        
+                            
+                                Nell'ambito degli obblighi di cui agli articoli 36 e 37, il datore di lavoro provvede affinche' i lavoratori esposti al rischio di esplosione e i loro rappresentanti vengano informati e formati in relazione al risultato della valutazione dei rischi, con particolare riguardo:
+ 
+                            
+                            
+                                a)
+                                
+                                    alle misure adottate in applicazione del presente titolo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla classificazione delle zone;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle modalita' operative necessarie a minimizzare la presenza e l'efficacia delle sorgenti di accensione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai rischi connessi alla presenza di sistemi di protezione dell'impianto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai rischi connessi alla manipolazione ed al travaso di liquidi infiammabili e/o polveri combustibili;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al significato della segnaletica di sicurezza e degli allarmi ottico/acustici;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    agli eventuali rischi connessi alla presenza di sistemi di prevenzione delle atmosfere esplosive, con particolare riferimento all'asfissia;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'uso corretto di adeguati dispositivi di protezione individuale e alle relative indicazioni e controindicazioni all'uso.
 
 ))
 
@@ -3088,6 +11437,53 @@ Avverso le disposizioni di cui al comma 1 e' ammesso ricorso, entro trenta giorn
 ## - Titolo XIII NORME TRANSITORIE E FINALI
 
 ## Art. 304. — Abrogazioni
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 3, comma 3, e dall'articolo 306, comma 2, dalla data di entrata in vigore del presente decreto legislativo sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Presidente della Repubblica 27 aprile 1955, n. 547, il decreto del Presidente della Repubblica 7 gennaio 1956, n. 164, il decreto del Presidente della Repubblica 19 marzo 1956, n. 303, fatta eccezione per l'articolo 64, il decreto legislativo 15 agosto 1991, n. 277, il decreto legislativo 19 settembre 1994, n. 626, il decreto legislativo 14 agosto 1996, n. 493, il decreto legislativo 14 agosto 1996, n. 494, il decreto legislativo 19 agosto 2005, n. 187; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 36-bis, ((commi 1, 2, 3, 4 e 5,)) del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli: 2, 3, 5, 6 e 7 della legge 3 agosto 2007, n. 123; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ogni altra disposizione legislativa e regolamentare nella materia disciplinata dal decreto legislativo medesimo incompatibili con lo stesso. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    la lettera c) del terzo comma dell'articolo 3, della legge 22 luglio 1961, n. 628; 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    gli articoli 42 e 43 del decreto del Presidente della Repubblica 20 marzo 1956, n. 320; 
+ d-quater: il decreto del Presidente della Repubblica 3 luglio 2003, n. 222.
 
 Le funzioni attribuite all'ispettorato medico centrale dal decreto legislativo 17 marzo 1995, n. 230, e successive modificazioni, sono svolte dalla struttura di livello dirigenziale generale del Ministero del lavoro, della salute e delle politiche sociali, individuata in sede regolamentare nell'ambito del complessivo processo di riorganizzazione dello stesso Dicastero, in attuazione dell'articolo 74 del decreto- legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2019-12-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -83,6 +83,77 @@ L'ente locale puo' elaborare coefficienti di riduzione che consentano di tenere 
 
 Ai fini della determinazione della tariffa ai sensi dell'art. 49, comma 8, del decreto legislativo n. 22 del 1997, il soggetto gestore del ciclo dei rifiuti urbani di cui all'art. 23 del decreto legislativo 5 febbraio 1997, n. 22, e successive modificazioni e integrazioni, ovvero i singoli comuni, approvano il piano finanziario degli interventi relativi al servizio di gestione dei rifiuti urbani, tenuto conto della forma di gestione del servizio prescelta tra quelle previste dall'ordinamento.
 
+2.
+                    
+                        
+                            Il piano finanziario comprende:
+ 
+                        
+                        
+                            a)
+                            
+                                il programma degli interventi necessari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il piano finanziario degli investimenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la specifica dei beni, delle strutture e dei servizi disponibili, nonche' il ricorso eventuale all'utilizzo di beni e strutture di terzi, o all'affidamento di servizi a terzi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le risorse finanziarie necessarie;
+
+                            
+                        
+                        
+                            e)
+                            
+                                relativamente alla fase transitoria, il grado attuale di copertura dei costi afferenti alla tariffa rispetto alla preesistente tassa sui rifiuti.
+
+3.
+                    
+                        
+                            Il piano finanziario deve essere corredato da una relazione nella quale sono indicati i seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                il modello gestionale ed organizzativo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i livelli di qualita' del servizio ai quali deve essere commisurata la tariffa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la ricognizione degli impianti esistenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                con riferimento al piano dell'anno precedente, l'indicazione degli scostamenti che si siano eventualmente verificati e le relative motivazioni.
+
 Sulla base del piano finanziario l'ente locale determina la tariffa, fissa la percentuale di crescita annua della tariffa ed i tempi di raggiungimento del pieno grado di copertura dei costi nell'arco della fase transitoria, nel rispetto dei criteri di cui all'articolo 12, determina l'articolazione tariffaria.
 
 ## Art. 9. — Adempimenti dei comuni
@@ -98,6 +169,40 @@ A decorrere dal 1 gennaio 2000 i comuni avviano, con forme adeguate, l'attivazio
 Il soggetto gestore provvede alla riscossione della tariffa, ai sensi dell'articolo 49, commi 13 e 15, del decreto legislativo 5 febbraio 1997, n. 22.
 
 ## Art. 11. — Disposizioni transitorie
+
+1.
+                    
+                        
+                            Gli enti locali sono tenuti a raggiungere la piena copertura dei costi del servizio di gestione dei rifiuti urbani attraverso la tariffa entro la fine della fase di transizione della durata massima cosi' articolata:
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((sette anni)) per i comuni che abbiano raggiunto nell'anno 1999 un grado di copertura dei costi superiori all'85%;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((sette anni)) per i comuni che abbiano raggiunto un grado di copertura dei costi tra il 55 e l'85%;
+
+                            
+                        
+                        
+                            c)
+                            
+                                otto anni per i comuni che abbiano raggiunto un grado di copertura dei costi inferiore al 55%;
+
+                            
+                        
+                        
+                            d)
+                            
+                                otto anni per i comuni che abbiano un numero di abitanti fino a 5000, qualunque sia il grado di copertura dei costi raggiunto nel 1999. PERIODO SOPPRESSO DALLA L. 23 DICEMBRE 1999, N. 488.
 
 COMMA ABROGATO DALLA L. 23 DICEMBRE 1999, N. 488.
 

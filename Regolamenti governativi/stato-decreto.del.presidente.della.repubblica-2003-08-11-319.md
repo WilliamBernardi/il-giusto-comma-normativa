@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2008-01-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,9 +36,164 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                Ministro, il Ministro dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ministero, il Ministero dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            c)
+                            
+                                CRUI, la Conferenza dei rettori delle universita' italiane;
+
+                            
+                        
+                        
+                            d)
+                            
+                                CUN, il Consiglio universitario nazionale di cui all'articolo 17, comma 102, della legge 15 maggio 1997, n. 127;
+
+                            
+                        
+                        
+                            e)
+                            
+                                CONVSU, il Comitato nazionale per la valutazione del sistema universitario di cui all'articolo 2 della legge 19 ottobre 1999, n. 370;
+
+                            
+                        
+                        
+                            f)
+                            
+                                CSPI, il Consiglio superiore della pubblica istruzione di cui all'articolo 2 del decreto legislativo 30 giugno 1999, n. 233;
+
+                            
+                        
+                        
+                            g)
+                            
+                                CNPI, il Consiglio nazionale della pubblica istruzione di cui all'articolo 23 del decreto legislativo 16 aprile 1994, n. 297;
+
+                            
+                        
+                        
+                            h)
+                            
+                                CNAM, il Consiglio nazionale per l'alta formazione artistica e musicale di cui all'articolo 3 della legge 21 dicembre 1999, n. 508;
+
+                            
+                        
+                        
+                            i)
+                            
+                                PNR, il Programma nazionale per la ricerca di cui all'articolo 1, comma 2, del decreto legislativo 5 giugno 1998, n. 204;
+
+                            
+                        
+                        
+                            l)
+                            
+                                CIVR, il Comitato di indirizzo per la valutazione della ricerca di cui all'articolo 5, comma 1, del decreto legislativo 5 giugno 1998, n. 204;
+
+                            
+                        
+                        
+                            m)
+                            
+                                CNSU, il Consiglio nazionale degli studenti universitari, istituito con decreto del Presidente della Repubblica 2 dicembre 1997, n. 491, a norma dell'articolo 20, comma 8, lettera b), della legge 15 marzo 1997, n. 59;
+
+                            
+                        
+                        
+                            n)
+                            
+                                GARR, il Gruppo per l'armonizzazione delle reti della ricerca;
+
+                            
+                        
+                        
+                            o)
+                            
+                                INDIRE, l'Istituto nazionale di documentazione per l'innovazione e la ricerca educativa di cui all'articolo 2 del decreto legislativo 20 luglio 1999, n. 258;
+
+                            
+                        
+                        
+                            p)
+                            
+                                INVALSI, l'Istituto nazionale per la valutazione del sistema dell'istruzione di cui all'articolo 1 del decreto legislativo 20 luglio 1999, n. 258;
+
+                            
+                        
+                        
+                            q)
+                            
+                                IRRE, l'istituto regionale di ricerca educativa di cui all'articolo 76 del decreto legislativo 30 luglio 1999, n. 300;
+
+                            
+                        
+                        
+                            r)
+                            
+                                AIPA, l'Autorita' per l'informatica nella pubblica amministrazione di cui all'articolo 4 del decreto legislativo 12 febbraio 1993, n. 39;
+
+                            
+                        
+                        
+                            s)
+                            
+                                OCSE, l'Organizzazione per la cooperazione e lo sviluppo economico, di cui alla convenzione firmata a Parigi il 14 dicembre 1960 e ratificata con la legge 28 marzo 1962, n. 232;
+
+                            
+                        
+                        
+                            t)
+                            
+                                ESA, l'Agenzia spaziale europea di cui alla convenzione firmata a Parigi il 30 maggio 1975 e ratificata con la legge 9 giugno 1977, n. 358.
+
 ## Art. 2. — Articolazione del Ministero
 
 Il Ministero e' articolato a livello centrale, a norma dell'articolo 51 del decreto legislativo 30 luglio 1999, n. 300, in tre dipartimenti.
+
+2.
+                    
+                        
+                            I dipartimenti assumono rispettivamente la denominazione di:
+ 
+                        
+                        
+                            a)
+                            
+                                Dipartimento per la programmazione ministeriale e per la gestione ministeriale del bilancio, delle risorse umane e dell'informazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Dipartimento per l'istruzione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Dipartimento per l'universita', l'alta formazione artistica, musicale e coreutica e per la ricerca. Nell'ambito dei predetti dipartimenti sono individuati gli uffici di livello dirigenziale generale di cui agli articoli 5, 6 e 7.
 
 Il Ministero e' articolato, a livello periferico, negli uffici scolastici regionali di cui all'articolo 75, comma 3, del decreto legislativo 30 luglio 1999, n. 300.
 
@@ -64,6 +219,45 @@ Il servizio di segreteria necessario per i lavori della conferenza e' assicurato
 
 Il Dipartimento per la programmazione ministeriale e per la gestione ministeriale del bilancio, delle risorse umane e dell'informazione svolge funzioni nelle seguenti aree: studi e programmazione ministeriale; politica finanziaria, bilancio e monitoraggio del fabbisogno finanziario del Ministero; definizione degli indirizzi generali in materia di gestione delle risorse umane del Ministero, di disciplina giuridica ed economica del relativo rapporto di lavoro, di reclutamento e formazione, di relazioni sindacali e di contrattazione; acquisti e affari generali; gestione e sviluppo dei sistemi informativi del Ministero e connessione con i sistemi informativi delle universita', degli enti di ricerca e dei consorzi interuniversitari; elaborazioni statistiche; comunicazione istituzionale e relazioni con il pubblico, iniziative di promozione di attivita' in ambito editoriale, pubblicitario e di comunicazione.
 
+2.
+                    
+                        
+                            Il Dipartimento per la programmazione ministeriale e per la gestione ministeriale del bilancio, delle risorse umane e dell'informazione comprende i seguenti uffici di livello dirigenziale generale:
+ 
+                        
+                        
+                            a)
+                            
+                                direzione generale studi e programmazione sui sistemi dell'istruzione, dell'universita', della ricerca e dell'alta formazione artistica, musicale e coreutica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                direzione generale per la politica finanziaria e per il bilancio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                direzione generale per le risorse umane del Ministero, acquisti e affari generali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                direzione generale per la comunicazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                direzione generale per i sistemi informativi.
+
 La direzione generale studi e programmazione sui sistemi dell'istruzione, dell'universita', della ricerca e dell'alta formazione artistica, musicale e coreutica promuove e svolge attivita' di indagine, studio e documentazione concernenti il sistema dell'istruzione, dell'universita', della ricerca e dell'alta formazione artistica, musicale e coreutica, per gli aspetti quantitativi e qualitativi strumentali al governo del sistema medesimo; elabora studi ed analisi anche strumentali all'attivita' dei dipartimenti e delle direzioni generali relativamente ad aspetti tecnici inerenti le tematiche di rispettiva competenza; concorre alla valutazione del sistema dell'istruzione e al processo di autovalutazione delle istituzioni scolastiche ed educative.
 Nell'ambito della direzione generale opera il servizio di statistica istituito a norma dell'articolo 3 del decreto legislativo 6 settembre 1989, n. 322, come struttura di servizio per tutte le articolazioni organizzative, centrali e periferiche, del Ministero. Il predetto servizio si avvale anche degli apporti del sistema informativo.
 
@@ -78,6 +272,45 @@ La direzione generale per la comunicazione cura i rapporti con il dipartimento i
 ## Art. 6. — Dipartimento per l'istruzione
 
 Il Dipartimento svolge le funzioni nelle seguenti aree: organizzazione generale dell'istruzione scolastica, ordinamenti, curricola e programmi scolastici, stato giuridico del personale della scuola; definizione dei criteri e dei parametri per l'organizzazione della rete scolastica; definizione degli indirizzi per l'organizzazione dei servizi nel territorio e per la valutazione della loro efficienza, al fine di garantire il coordinamento dell'organizzazione e l'uniformita' dei relativi livelli in tutto il territorio nazionale; definizione dei criteri e parametri per l'attuazione di interventi sociali nella scuola; definizione di interventi a sostegno delle aree depresse per il riequilibrio territoriale della qualita' del servizio scolastico ed educativo, ricerca e sperimentazione delle innovazioni funzionali alle esigenze formative; riconoscimento dei titoli di studio e delle certificazioni in ambito europeo ed internazionale ed attuazione di politiche dell'educazione comuni ai Paesi dell'Unione europea; assetto complessivo dell'intero sistema formativo, individuazione degli obiettivi e degli standard e percorsi formativi in materia di istruzione superiore e di formazione tecnica superiore; consulenza e supporto all'attivita' delle istituzioni scolastiche autonome; definizione degli indirizzi in materia di scuole paritarie e di scuole e corsi di istruzione non statale; competenze in materia di edilizia scolastica, riservate al Ministero, a norma della legge 11 gennaio 1996, n. 23; competenze riservate all'amministrazione scolastica relativamente alle istituzioni di cui all'articolo 137, comma 2, del decreto legislativo 31 marzo 1998, n. 112; affari e relazioni internazionali, inclusa la collaborazione con l'Unione europea e con gli organismi internazionali in materia di istruzione scolastica.
+
+2.
+                    
+                        
+                            Il Dipartimento si articola nei seguenti uffici di livello dirigenziale generale:
+ 
+                        
+                        
+                            a)
+                            
+                                direzione generale per gli ordinamenti scolastici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                direzione generale per lo studente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                direzione generale per l'istruzione post-secondaria e per i rapporti con i sistemi formativi delle regioni e degli enti locali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                direzione generale per il personale della scuola;
+
+                            
+                        
+                        
+                            e)
+                            
+                                direzione generale per gli affari internazionali dell'istruzione scolastica.
 
 Al Dipartimento si raccordano funzionalmente gli uffici scolastici regionali di cui all'articolo 8.
 
@@ -96,6 +329,45 @@ I dirigenti con funzione tecniche dipendono funzionalmente dal capo dipartimento
 ## Art. 7. — Dipartimento per l'universita', l'alta formazione artistica, musicale e coreutica e per la ricerca scientifica e tecnologica.
 
 Il Dipartimento per l'universita', l'alta formazione artistica, musicale e coreutica e per la ricerca scientifica e tecnologica svolge funzioni nelle seguenti aree: istruzione universitaria, programmazione degli interventi sul sistema universitario; indirizzo e coordinamento, normazione generale e finanziamento delle universita'; monitoraggio e valutazione, anche mediante specifico organismo, in materia universitaria e di alta formazione artistica, musicale e coreutica; attuazione delle norme comunitarie e internazionali in materia di istruzione universitaria, armonizzazione europea e integrazione internazionale del sistema universitario, anche in attuazione degli accordi culturali stipulati a cura del Ministero degli affari esteri; razionalizzazione delle condizioni di accesso all'istruzione universitaria; partecipazione alle attivita' relative all'accesso alle amministrazioni e alle professioni, al raccordo dell'istruzione universitaria e dell'alta formazione artistica, musicale e coreutica con l'istruzione scolastica e con la formazione professionale; valorizzazione e sostegno della ricerca libera nelle universita'; competenze relative agli istituti di alta formazione artistica, musicale e coreutica, di cui alla legge 21 dicembre 1999, n. 508; indirizzo, programmazione e coordinamento della ricerca scientifica e tecnologica in ambito nazionale e internazionale; programmazione degli interventi degli enti di-ricerca non strumentali; indirizzo e coordinamento, normazione generale e finanziamento degli enti di ricerca non strumentali; monitoraggio degli enti di ricerca non strumentali; coordinamento delle iniziative degli altri Ministeri inerenti la ricerca; valorizzazione e sostegno della ricerca libera negli enti di ricerca; monitoraggio e sostegno del grado di interazione tra sistema delle universita' e sistema produttivo; integrazione tra ricerca applicata e ricerca pubblica; coordinamento della partecipazione italiana a programmi nazionali ed internazionali di ricerca; indirizzo e sostegno alla ricerca spaziale e aerospaziale; cooperazione scientifica in ambito nazionale, comunitario e internazionale; promozione e sostegno della ricerca delle imprese ivi compresa la gestione di apposito fondo per le agevolazioni anche con riferimento alle aree depresse e alla integrazione con la ricerca pubblica.
+
+2.
+                    
+                        
+                            Il Dipartimento per l'universita', l'alta formazione artistica, musicale e coreutica e per la ricerca comprende i seguenti uffici di livello dirigenziale generale:
+ 
+                        
+                        
+                            a)
+                            
+                                direzione generale per l'universita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                direzione generale per lo studente e il diritto allo studio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                direzione generale per l'alta formazione artistica, musicale e coreutica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                direzione generale per le strategie e lo sviluppo dell'internazionalizzazione della ricerca scientifica e tecnologica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                direzione generale per il coordinamento e lo sviluppo della ricerca.
 
 La direzione generale per l'universita' svolge i compiti relativi a: finanziamento, programmazione e sviluppo del sistema universitario e gestione dei fondi della edilizia; esame degli statuti e dei regolamenti di ateneo; monitoraggio degli ordinamenti universitari; rapporti con il CUN, con il CRUI e con il CONVSU per gli atti di competenza; verifiche amministrativo-contabili, monitoraggio e valutazione del sistema universitario e dell'attuazione delle normative e degli interventi in materia universitaria, anche avvalendosi degli organismi di valutazione; rapporti con il Ministero della salute per le attivita' di formazione e specializzazione, assistenza e ricerca della facolta' di medicina; raccordo con il sistema scolastico, con gli altri sistemi formativi, con il sistema produttivo e delle professioni e con le pubbliche amministrazioni; sviluppo e coordinamento delle iniziative di alta formazione post-universitaria, delle scuole superiori ad ordinamento speciale e della formazione e avviamento alla ricerca; promozione e attuazione degli accordi internazionali e delle attivita' inerenti la cooperazione internazionale in materia di istruzione universitaria; elaborazione previsioni a breve, medio e lungo termine, sull'evoluzione della domanda e dell'offerta formativa. Nell'ambito della direzione e' istituito il servizio di segreteria del CUN e del CONVSU.
 

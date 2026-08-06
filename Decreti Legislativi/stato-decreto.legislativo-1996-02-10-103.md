@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2017-12-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,6 +40,38 @@ Prestazioni pensionistiche di natura complementare possono essere istituite in f
 
 ## Art. 3. — Forme gestorie
 
+1.
+                    
+                        
+                            Entro sessanta giorni dalla data di entrata in vigore del presente decreto, gli enti esponenziali a livello nazionale degli enti abilitati alla tenuta di albi od elenchi provvedono a deliberare con la maggioranza dei componenti dell'organo statutario competente, ove previsto, alternativamente:
+ 
+                        
+                        
+                            a)
+                            
+                                la partecipazione all'ente pluricategoriale di cui all'art. 4, avente configurazione di diritto privato secondo il modello delineato dal decreto legislativo 30 giugno 1994, n. 509, in cui convergano anche altre categorie alle quali appartengono i soggetti di cui all'art. 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la costituzione di un ente di categoria, avente la medesima configurazione di diritto privato di cui alla lettera a), alla condizione che lo stesso sia destinato ad operare per un numero di soggetti non inferiore a 8.000 iscritti; la relativa delibera deve essere assunta con la maggioranza dei due terzi dei componenti dell'organo statutario competente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'inclusione della categoria professionale per la quale essi sono istituiti, in una delle forme di previdenza obbligatorie gia' esistenti per altra categoria professionale similare, per analogia delle prestazioni e del settore professionale, compresa fra quelle di cui all'elenco allegato al decreto legislativo 30 giugno 1994, n. 509, a condizione che abbia conseguito la natura di persona giuridica privata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'inclusione della categoria nella forma di previdenza obbligatoria di cui all'art. 2, comma 26, della legge 8 agosto 1995, n. 335.
+
 Nel caso di mancata adozione delle delibere di cui al comma 1, i soggetti appartenenti alle categorie professionali interessate sono inseriti nella gestione di cui al comma 1, lettera d).
 
 ## Art. 4. — Ente pluricategoriale
@@ -58,13 +90,87 @@ La delibera di costituzione assunta ai sensi dell'art. 3, comma 1, lettera b), e
 
 A seguito dell'approvazione ai sensi del comma 1 della delibera di costituzione e del relativo piano finanziario ed attuariale, l'ente esponenziale elabora lo statuto e il regolamento dell'ente gestore in base ai principi e criteri di cui all'art. 6.
 
+3.
+                    
+                        
+                            In caso di mancata approvazione da parte del Ministero del lavoro e della previdenza sociale, gli organi statutari deliberano, entro i trenta giorni successivi alla comunicazione del diniego, alternativamente:
+ 
+                        
+                        
+                            a)
+                            
+                                per la partecipazione all'ente gestore pluricategoriale, di cui all'art.
+
 In tale ipotesi la delibera deve contenere la designazione di un componente effettivo e di un componente supplente destinato a far parte del comitato fondatore di cui all'art. 4, comma 2. La delibera deve essere trasmessa immediatamente agli altri enti esponenziali di cui all'art. 3, che abbiano optato per la partecipazione all'ente di cui all'art. 3, comma 1, lettera a), nonche' al Ministero del lavoro e della previdenza sociale;
  b) per l'inclusione nella forma previdenziale obbligatoria di cui all'art. 3, comma 1, lettera d).
  4. In caso di mancata adozione della delibera di cui al comma 3, i soggetti appartenenti alle categorie professionali interessate sono inseriti nella gestione di cui al decreto attuativo dell'art. 2, comma 26 e seguenti, della legge 8 agosto 1995, n. 335.
 
 ## Art. 6. — Atto istitutivo, statuto e regolamento degli enti
 
+1.
+                    
+                        
+                            Gli enti di cui agli articoli 4 e 5 assumono natura di fondazione. Lo statuto deve contenere, oltre agli elementi di cui all'art. 16 del codice civile: 
+
+                        
+                        
+                            a)
+                            
+                                la determinazione delle modalita' di iscrizione obbligatoria dei soggetti di cui all'art. 1; 
+                            
+                        
+                        
+                            b)
+                            
+                                i criteri di composizione dell'organo di amministrazione dell'ente; nel caso dell'ente di cui all'art. 4 deve essere prevista la nomina di un componente per ogni categoria professionale interessata incrementato, per le categorie i cui iscritti all'ente gestore superino il numero di 10.000, di un ulteriore componente per ogni 5.000 iscritti e comunque fino ad un massimo di quattro componenti, nonche' le modalita' di designazione di detti componenti da parte di ciascuno degli enti esponenziali; 
+                            
+                        
+                        
+                            c)
+                            
+                                la costituzione di un organo di indirizzo generale, composta da un numero di membri elettivi corrispondente al rapporto di uno ogni mille iscritti all'ente gestore, con arrotondamenti all'unita' intera per ogni frazione inferiore a mille ((e nel massimo di cinquanta unita')). Nel caso dell'ente di cui all'art. 4 il predetto rapporto e' riferito ad ogni singola categoria professionale interessata.
+
+2.
+                    
+                        
+                            Nel caso dell'ente pluricategoriale di cui all'art. 4, lo statuto deve inoltre contenere: 
+
+                        
+                        
+                            a)
+                            
+                                l'adozione di un sistema di evidenza contabile dei flussi delle contribuzioni e delle prestazioni relativi a ciascuna categoria, al fine di prevedere eventuali manovre di riequilibrio interessanti singole categorie; 
+                            
+                        
+                        
+                            b)
+                            
+                                la costituzione di comitati dei delegati, composti ciascuno di tre membri, per ciascuna delle categorie professionali interessate, con funzioni di impulso nei confronti dell'organo di amministrazione e di indirizzo per gli effetti di conservazione dell'equilibrio di cui alla lettera a).
+
 I componenti degli organi di cui al comma 1, lettere b) e c), e comma 2, lettera b), devono essere iscritti all'ente gestore, con esclusione degli iscritti di cui all'art. 1, comma 2, nel caso di ente pluricategoriale.
+
+4.
+                    
+                        
+                            Allo statuto deve essere allegato un regolamento che definisca: 
+
+                        
+                        
+                            a)
+                            
+                                le modalita' di identificazione dei soggetti tenuti alla obbligatoria iscrizione; 
+                            
+                        
+                        
+                            b)
+                            
+                                la misura dei contributi in proporzione al reddito professionale fiscalmente dichiarato o accertato, secondo un'aliquota non inferiore, in fase di prima applicazione, a quella vigente all'atto di entrata in vigore del presente decreto per la gestione di cui all'art. 2, comma 26, della legge 8 agosto 1995, n. 335, con la fissazione, in caso di ente di cui all'art. 4, di un'aliquota di solidarieta'; l'aliquota contributiva ai fini previdenziali, ferma la totale deducibilita' fiscale del contributo, puo' essere modulata anche in misura differenziata, con facolta' di opzione degli iscritti; 
+                            
+                        
+                        
+                            c)
+                            
+                                la fissazione di una misura minima del contributo annuale.
 
 L'atto istitutivo degli enti di cui agli articoli 4 e 5 e' adottato con atto pubblico ai sensi dell'art. 14 del codice civile ad iniziativa, rispettivamente, del comitato fondatore e dell'ente esponenziale. A seguito dell'approvazione dello statuto e del regolamento l'ente consegue la personalita' giuridica per effetto di apposito decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro.
 
@@ -73,6 +179,24 @@ Con decreti del Ministro del lavoro e della previdenza sociale, di concerto con 
 Agli enti di cui agli articoli 4 e 5 e alle relative forme di previdenza obbligatorie si applicano, per quanto non diversamente disposto dal presente decreto, le disposizioni di cui al decreto legislativo 30 giugno 1994, n. 509, e successive modificazioni e integrazioni, con particolare riferimento al divieto di finanziamenti pubblici diretti e indiretti ai sensi dell'art. 1, comma 3, alle disposizioni in materia di gestione e di vigilanza.
 
 ## Art. 7. — Modalita' per l'inclusione in altra forma obbligatoria
+
+1.
+                    
+                        
+                            La delibera adottata ai sensi dell'art. 3, comma 1, lettera c), deve essere accompagnata dalla delibera di assenso all'inclusione effettuata, con maggioranza di due terzi dei componenti, dall'organo competente per le modifiche statutarie dell'ente previdenziale destinato ad includere la nuova categoria professionale. La delibera di assenso, corredata da un piano finanziario ed attuariale avente i contenuti di cui all'art. 4, comma 2, deve prevedere:
+ 
+                        
+                        
+                            a)
+                            
+                                il riassetto organizzativo dell'ente, anche al fine di consentire un'adeguata rappresentanza nei propri organi statutari della categoria professionale inclusa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la previsione di una specifica gestione separata per la categoria professionale inclusa.
 
 La delibera adottata ai sensi dell'art. 3, comma 1, lettera c), e la relativa delibera di assenso di cui al comma 1 sono trasmesse entro dieci giorni, per l'approvazione, al Ministero del lavoro e della previdenza sociale, che provvede, d'intesa con il Ministero del tesoro, entro trenta giorni dal ricevimento. Nell'ipotesi di mancata approvazione, trovano applicazione le disposizioni di cui all'art. 5, comma 3.
 

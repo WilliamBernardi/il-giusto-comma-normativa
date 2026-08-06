@@ -8,8 +8,8 @@ codice_redazionale: 009G0052
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -35,11 +35,122 @@ Per il perseguimento degli obiettivi di cui all'articolo 1, l'Osservatorio svolg
 
 L'Osservatorio svolge altresi' funzioni di supporto al Dipartimento per le politiche della famiglia ai fini della predisposizione del Piano nazionale per la famiglia di cui all'articolo 1, comma 1251, della legge 27 dicembre 2006, n. 296.
 
+3.
+                    
+                        
+                            Nello svolgimento delle funzioni di cui ai commi 1 e 2 l'Osservatorio:
+ 
+                        
+                        
+                            a)
+                            
+                                assicura lo sviluppo delle funzioni di analisi e studio della condizione e delle problematiche familiari, anche attraverso la realizzazione di un rapporto biennale sulla condizione familiare in Italia finalizzato ad aggiornare le conoscenze sulle principali dinamiche demografiche, sociologiche, economiche e di politica familiare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove iniziative ed incontri seminariali per favorire la conoscenza dei risultati delle ricerche e indagini e la diffusione delle buone pratiche attraverso lo scambio di esperienze;
+
+                            
+                        
+                        
+                            c)
+                            
+                                coordina le proprie attivita' di ricerca e documentazione con quelle dell'Osservatorio nazionale per l'infanzia e l'adolescenza per quanto concerne il Piano di azione e di interventi per la tutela dei diritti e lo sviluppo dei soggetti in eta' evolutiva;
+
+                            
+                        
+                        
+                            d)
+                            
+                                coordina le proprie attivita' di ricerca e documentazione con quelle degli Osservatori regionali e locali; a tal fine, alle riunioni del Comitato tecnico-scientifico di cui all'articolo 5 partecipano due esperti designati dalla Conferenza delle regioni e delle province autonome.
+
 ## Art. 3. — Organi dell'Osservatorio
 
 L'Osservatorio e' presieduto dal Presidente del Consiglio dei Ministri o dal Ministro o Sottosegretario delegato alle politiche per la famiglia.
 
+2.
+                    
+                        
+                            Sono organi dell'Osservatorio:
+ 
+                        
+                        
+                            a)
+                            
+                                il Presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'Assemblea;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il Comitato tecnico-scientifico.
+ 2. L'Assemblea e il Comitato tecnico-scientifico sono costituiti con decreto del Presidente del Consiglio dei Ministri e durano in carica tre anni.
+
 ## Art. 4. — Composizione e funzioni dell'Assemblea
+
+1.
+                    
+                        
+                            L'Assemblea e' composta:
+ 
+                        
+                        
+                            a)
+                            
+                                dal Presidente del Consiglio dei Ministri o dal Ministro o Sottosegretario delegato alle politiche per la famiglia che la presiede e ne nomina i componenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da dodici componenti, dei quali due designati dal Presidente del Consiglio dei Ministri o dal Ministro o Sottosegretario delegato alle politiche per la famiglia, e uno rispettivamente dai Ministri dell'interno, della giustizia, dell'economia e delle finanze, dello sviluppo economico, del lavoro, della salute e delle politiche sociali, dell'istruzione, dell'universita' e della ricerca, delle infrastrutture e dei trasporti, delle pari opportunita', della gioventu', dell'ambiente, della tutela del territorio e del mare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da dodici componenti designati dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, dei quali sette indicati dalle regioni e cinque dalle autonomie locali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da tre componenti designati dalle confederazioni sindacali maggiormente rappresentative;
+
+                            
+                        
+                        
+                            e)
+                            
+                                da tre componenti designati dalle associazioni dei datori di lavoro dell'industria, del commercio, dell'artigianato e dell'agricoltura maggiormente rappresentative;
+
+                            
+                        
+                        
+                            f)
+                            
+                                da tre componenti designati dalle associazioni familiari a carattere nazionale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                da tre componenti designati dalle associazioni del terzo settore aventi carattere nazionale.
 
 L'Assemblea stabilisce gli orientamenti generali del Piano delle attivita' dell'Osservatorio, la cui attuazione e' demandata al Comitato tecnico scientifico.
 

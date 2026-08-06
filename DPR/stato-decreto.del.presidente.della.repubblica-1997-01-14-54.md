@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2007-11-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -98,6 +98,40 @@ Sulla proposta del Presidente del Consiglio dei Ministri;
 
 ## Art. 19. — (Laboratorio nazionale di riferimento)
 
+1.
+                    
+                        
+                            L'Istituto superiore di sanita' e' il laboratorio nazionale di riferimento in materia di analisi e di prove sul latte e sui prodotti a base di latte. A tal fine espleta i seguenti adempimenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                coordina l'attivita' dei Presidi multizonali di prevenzione, 
+ degli Istituti zooprofilattici sperimentali e dei laboratori riconosciuti ai sensi dell'articolo 17; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assiste l'autorita' competente nell'organizzazione del sistema  di controllo del latte e dei prodotti a base di latte; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                organizza periodicamente prove comparative (ring-test); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                cura la diffusione delle informazioni provenienti dal 
+ laboratorio comunitario di riferimento alle autorita' di cui alla lettera b), nonche' ai Presidi, agli Istituti e ai laboratori di cui alla lettera a).
+
 ## Art. 20. — (( ARTICOLO ABROGATO DAL D.LGS. 6 NOVEMBRE 2007, N. 193 ))
 
 
@@ -123,6 +157,47 @@ Sulla proposta del Presidente del Consiglio dei Ministri;
 
 
 ## Art. 26. — (Abrogazioni)
+
+1.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ordinanza del Ministro della sanita' del 14 marzo 1966, 
+ pubblicata nella Gazzetta Ufficiale italiana 22 marzo 1966, n. 71; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Ministero della sanita' 14 maggio 1988, n. 212,  pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana 18 giugno 1991, n. 142; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto del Ministero della sanita' 9 maggio 1991, n. 184,  pubblicato nella Gazzetta Ufficiale della Repubblica italiana 19 giugno 1991, n. 142; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il decreto del Ministro della sanita' 29 maggio 1991, n. 222,  pubblicato nella Gazzetta Ufficiale della Repubblica italiana 25 luglio 1991, n. 173; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli articoli 4 e 5 del decreto ministeriale 2 dicembre 1991, n. 
+ 446, pubblicata nella Gazzetta Ufficiale della Repubblica italiana 13 febbraio 1992, n. 36.
 
 I capitoli III e IV della tabella A allegata all'ordinanza del Ministro della sanita' 11 ottobre 1978, pubblicata nel Supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana n. 346 del 13 dicembre 1978, sono soppressi.
 

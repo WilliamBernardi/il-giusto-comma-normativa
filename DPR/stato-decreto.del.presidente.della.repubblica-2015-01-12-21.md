@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-12-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,108 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'interno, di concerto con il Ministro degli affari esteri e della cooperazione internazionale, il Ministro della giustizia, il Ministro del lavoro e delle politiche sociali e il Ministro della salute;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                UNHCR/ACNUR: l'Alto commissariato delle Nazioni Unite per i rifugiati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                decreto: decreto legislativo 28 gennaio 2008, n. 25, di attuazione della direttiva 2005/85/CE, recante norme minime per le procedure applicate negli Stati membri ai fini del riconoscimento e della revoca dello status di rifugiato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                CARA: i centri di accoglienza per richiedenti asilo, previsti dall'articolo 20 del decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                CIE: i centri di identificazione ed espulsione previsti dall'articolo 14 del decreto legislativo 25 luglio 1998, n. 286; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                cittadino straniero: cittadino di un Paese non appartenente all'Unione europea o apolide; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Commissione territoriale: la Commissione territoriale per il riconoscimento della protezione internazionale, prevista dall'articolo 4 del decreto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Commissione nazionale: la Commissione nazionale per il diritto di asilo prevista dall'articolo 5 del decreto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                domanda o richiesta: la richiesta diretta ad ottenere la protezione internazionale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                EASO: European Asylum Support Office/ Ufficio europeo di sostegno per l'asilo, istituito dal regolamento (UE) n. 439/2010 del Parlamento europeo e del Consiglio del 19 maggio 2010; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                minore non accompagnato: il cittadino straniero di eta' inferiore agli anni diciotto che si trova, per qualsiasi causa, nel territorio nazionale, privo di assistenza e di rappresentanza legale; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                protezione internazionale: lo status di rifugiato o lo status di protezione sussidiaria, di cui al decreto legislativo 19 novembre 2007, n. 251; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                richiedente: il cittadino straniero che ha presentato la domanda di protezione internazionale sulla quale non e' stata ancora adottata una decisione definitiva; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                status di rifugiato: il riconoscimento da parte dello Stato di un cittadino straniero quale rifugiato, a seguito dell'accoglimento della domanda di protezione internazionale; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                status di protezione sussidiaria: il riconoscimento da parte dello Stato di un cittadino straniero quale persona ammessa alla protezione sussidiaria, a seguito dell'accoglimento della domanda di protezione internazionale.
 
 ## Art. 2.
 
@@ -90,7 +192,32 @@ Se il richiedente, benche' regolarmente convocato, non si presenta al colloquio,
 
 ## Art. 6. — Decisione
 
+1.
+                    
+                        
+                            La Commissione territoriale al termine del procedimento previsto dall'articolo 5 adotta una delle seguenti decisioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                riconosce lo status di rifugiato o di persona ammessa alla protezione sussidiaria; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                rigetta la domanda nei casi previsti dall'articolo 32, comma 1, lettera b), del decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rigetta la domanda per manifesta infondatezza nel caso previsto dall'articolo 32, comma 1, lettera b-bis), del decreto.
+
+((COMMA ABROGATO DAL D.L. 4 OTTOBRE 2018, N. 113, CONVERTITO CON MODIFICAZIONI DALLA L. 1 DICEMBRE 2018, N. 132)).
 
 La decisione su ogni domanda e' assunta in modo individuale, obiettivo ed imparziale, secondo i criteri previsti dagli articoli 8 e 9 del decreto. Quando la domanda presentata dal genitore e' estesa ai figli minori ai sensi dell'articolo 6, comma 2, del decreto, la decisione e' assunta in modo individuale per il genitore e per ciascuno dei figli.
 
@@ -146,6 +273,66 @@ Al momento dell'ingresso nel centro vengono fornite al richiedente tutte le info
 
 Il prefetto della provincia in cui e' istituito il CARA puo' affidarne la gestione ad enti locali o ad enti pubblici o privati che operino nel settore dell'assistenza ai richiedenti asilo o agli immigrati, ovvero nel settore dell'assistenza sociale, secondo le procedure di affidamento dei contratti pubblici previste dal titolo II, articoli 20 e 27, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni.
 
+2.
+                    
+                        
+                            Con decreto del Ministro dell'interno e' approvato lo schema di capitolato di gara d'appalto per fornitura dei beni e dei servizi relativi al funzionamento ed alla gestione del centro, tra cui in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                un servizio di gestione amministrativa concernente la registrazione dei richiedenti asilo al momento dell'ingresso e della uscita definitiva dal centro, nonche' la registrazione delle uscite giornaliere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un servizio di mensa e la fornitura dei beni necessari per la permanenza nel centro. Il servizio mensa tiene conto anche dei diversi regimi alimentari e di eventuali prescrizioni mediche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il servizio di assistenza sanitaria, che comprende uno screening medico di ingresso effettuato nel rispetto della privacy e della dignita' della persona, la tenuta di una scheda sanitaria da consegnare in copia allo straniero al momento dell'uscita dal centro e l'allestimento di un primo soccorso sanitario per le cure ambulatoriali urgenti, idoneo a garantire l'assistenza fino all'eventuale trasferimento dell'interessato presso le strutture del servizio sanitario nazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un servizio di mediazione linguistica e culturale che assicuri la copertura delle principali lingue parlate dai cittadini stranieri; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un servizio di orientamento legale in materia di immigrazione ed asilo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un servizio di insegnamento della lingua italiana e di orientamento al territorio che fornisca le indicazioni di base sulle caratteristiche della societa' italiana e sull'accesso ai pubblici servizi erogati nel territorio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'indicazione degli operatori necessari ad assicurare in via ordinaria anche nelle ore notturne e nei giorni festivi la funzionalita' del centro secondo standard predeterminati, in possesso di capacita' adeguate a fare fronte alle esigenze dei richiedenti asilo, comprese quelle dei minori, delle donne e dei soggetti appartenenti alle categorie vulnerabili indicate dall'articolo 8 del decreto legislativo 30 maggio 2005, n. 140; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la nomina del direttore del centro, secondo quanto previsto dal comma 3.
+
 Il direttore del centro e' scelto tra il personale in possesso di diploma di laurea della classe L-39 - Servizio sociale o di un titolo equipollente ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 11 novembre 2011, pubblicato nella Gazzetta Ufficiale n. 44 del 22 febbraio 2012, unitamente all'abilitazione all'esercizio della professione, con esperienza lavorativa di almeno cinque anni nel settore dell'assistenza agli immigrati o dell'assistenza sociale; diploma di laurea della classe LM-87 in servizio sociale e politiche sociali, unitamente all'abilitazione all'esercizio della professione; diploma di laurea della classe LM-51 in psicologia unitamente all'abilitazione all'esercizio della professione e con esperienza lavorativa di almeno due anni nel settore dell'assistenza agli immigrati o nell'assistenza sociale; diploma di laurea magistrale con esperienza lavorativa di almeno tre anni nel settore dell'assistenza agli immigrati o nell'assistenza sociale.
 
 Il direttore del centro predispone e regola i servizi dedotti in contratto ed e' responsabile della gestione degli stessi.
@@ -160,11 +347,82 @@ Il Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'inter
 
 Ferme restando le prerogative di accesso dei membri del Parlamento nazionale ed europeo, in ragione del proprio mandato istituzionale, accedono comunque ai CARA, con le modalita' fissate con le linee guida di cui al comma 1, i rappresentanti dell'UNHCR e degli enti di tutela dei titolari di protezione internazionale con esperienza consolidata nel settore e gli avvocati dei richiedenti.
 
+3.
+                    
+                        
+                            Possono altresi' essere autorizzati ad accedere ai CARA, secondo le modalita' fissate con le linee guida di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                sindaci; presidenti di provincia; presidenti di giunta o di consiglio regionale e i soggetti che in ragione dell'incarico istituzionale rivestito nell'ambito della regione o dell'ente locale, nella cui circoscrizione e' collocato il centro, ne abbiano motivato interesse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rappresentanti degli organi di informazione debitamente identificati.
+
 Le linee guida di cui al comma 1 definiscono, infine, le modalita' di accesso dei familiari ed eventualmente di altri soggetti che ne facciano motivata richiesta.
 
 Il prefetto competente in base alla circoscrizione territoriale in cui e' collocato il CARA, in conformita' alle linee guida di cui al comma 1, adotta le disposizioni necessarie per assicurare una ordinata convivenza, con particolare riferimento alle esigenze organizzative e di sicurezza del centro, al rispetto della privacy ed agli orari delle visite.
 
 ## Art. 13. — Commissione nazionale per il diritto di asilo
+
+1.
+                    
+                        
+                            La Commissione nazionale per il diritto di asilo opera presso il Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno. Ferme restando le funzioni indicate dall'articolo 5 del decreto, la Commissione nazionale in particolare provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                ad esaminare i casi di cessazione e revoca degli status di protezione internazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a fornire alle Commissioni territoriali, in sede di indirizzo e coordinamento dell'attivita' delle medesime, il supporto informativo e documentale necessario per assicurare criteri applicativi uniformi della disciplina vigente, anche attraverso l'elaborazione di apposite linee guida; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a svolgere il monitoraggio sull'andamento delle richieste di protezione internazionale e sull'evoluzione del fenomeno a livello nazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla organizzazione di periodici corsi di formazione ed aggiornamento per i propri componenti e per quelli delle Commissioni territoriali, per gli interpreti e per il personale di supporto alle Commissioni, compresa l'acquisizione delle competenze necessarie per lo svolgimento del colloquio, anche attraverso forme di collaborazione con l'UNHCR e l'EASO; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla tenuta e all'aggiornamento dei dati sulle domande e sulle decisioni relative alla protezione internazionale ed alla tenuta di un centro di documentazione sulla situazione socio-politico-economica dei Paesi di provenienza dei richiedenti asilo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                a mantenere rapporti di collaborazione con il Ministero degli affari esteri e della cooperazione internazionale, con le Rappresentanze permanenti d'Italia presso le organizzazioni internazionali di rilievo nel settore dell'asilo e della protezione dei diritti umani, con l'EASO e con le autorita' dei Paesi membri dell'Unione europea che si occupano di riconoscimento della protezione internazionale. La Commissione cura inoltre i collegamenti di carattere internazionale in materia di asilo; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                a fornire, ove necessario, informazioni al Presidente del Consiglio dei ministri, per l'adozione del provvedimento di cui all'articolo 20 del decreto legislativo 25 luglio 1998, n. 286.
 
 Le informazioni inserite nel centro di documentazione di cui al comma 1, lettera e), sono messe a disposizione delle Commissioni territoriali e, su richiesta, degli organi giurisdizionali.
 
@@ -185,6 +443,67 @@ Il permesso di soggiorno per asilo o per protezione sussidiaria, che scade nel c
 
 ## Art. 15. — Opuscolo informativo
 
+1.
+                    
+                        
+                            La Commissione nazionale cura la redazione e l'aggiornamento dell'opuscolo informativo da consegnare al richiedente all'atto della presentazione della domanda ai sensi dell'articolo 10 del decreto, in cui sono contenute tutte le informazioni necessarie relative al procedimento per il riconoscimento della protezione internazionale.
+In particolare, l'opuscolo illustra: 
+ 
+                        
+                        
+                            a)
+                            
+                                le fasi della procedura per il riconoscimento della protezione internazionale, consistente nell'attribuzione dello status di rifugiato e di titolare della protezione sussidiaria, nonche' i criteri per l'individuazione dello Stato competente per l'esame della domanda ai sensi del regolamento UE n. 604/2013 del Parlamento europeo e del Consiglio del 26 giugno 2013 e successive eventuali modifiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le garanzie riconosciute ai richiedenti nel corso della procedura ed i loro obblighi, ed in particolare le conseguenze di un eventuale allontanamento ingiustificato dai centri, ai sensi dell'articolo 22, comma 2, del decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i principali diritti e doveri del richiedente durante la sua permanenza in Italia; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le prestazioni sanitarie e le modalita' per riceverle; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di accesso al gratuito patrocinio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' di iscrizione del minore alle scuole dell'obbligo, di accesso ai servizi per l'accoglienza del richiedente asilo sprovvisto di mezzi di sostentamento ed in possesso del permesso di soggiorno, di accesso a corsi di formazione e di riqualificazione professionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'indirizzo ed il recapito telefonico dell'UNHCR e delle principali organizzazioni di tutela dei richiedenti protezione internazionale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                informazioni sui programmi di rimpatrio volontario assistito.
+
 L'opuscolo di cui al comma 1 e' tradotto nelle lingue indicate dall'articolo 10, comma 4, del decreto e nelle altre ritenute necessarie dalla Commissione nazionale ed e' pubblicato sul sito internet del Ministero dell'interno.
 
 ## Art. 16. — Assistenza sanitaria
@@ -196,6 +515,26 @@ Il richiedente ha accesso all'assistenza sanitaria secondo quanto previsto dall'
 Dall'attuazione del presente decreto non derivano nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni competenti provvedono agli adempimenti di cui al presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 ## Art. 18. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono o restano abrogate le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    decreto del Presidente della Repubblica 16 settembre 2004, n. 303, recante regolamento relativo alle procedure per il riconoscimento dello status di rifugiato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    decreto del Presidente della Repubblica 15 maggio 1990, n. 136, recante regolamento per l'attuazione dell'articolo 1, comma 2, del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n 39, in materia di riconoscimento dello status di rifugiato.
 
 ## Art. 19. — Disposizione finale
 

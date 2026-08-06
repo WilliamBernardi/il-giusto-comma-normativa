@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-01-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,56 @@ Udito il parere del Consiglio superiore di sanita' del 19 dicembre 1997;
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica e gli affari regionali, di concerto con il Ministro della sanita';
 
 ## Art. 1. — Ambito di applicazione e definizioni
+
+1.
+                    
+                        
+                            Il presente regolamento disciplina il procedimento di autorizzazione alla produzione e di autorizzazione all'immissione in commercio di presidi medico- chirurgici consistenti in: 
+ 
+                        
+                        
+                            a)
+                            
+                                disinfettanti e sostanze poste in commercio come germicide o battericide; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                insetticidi per uso domestico e civile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                insettorepellenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DALLA L. 18 DICEMBRE 2025, N. 190)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((LETTERA ABROGATA DALLA L. 18 DICEMBRE 2025, N. 190)); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((LETTERA ABROGATA DALLA L. 18 DICEMBRE 2025, N. 190)). 
+ 1. Ai fini del presente regolamento il Ministero della sanita' e' denominato "Ministero", l'Istituto superiore di sanita' e' denominato "Istituto", il presidio medicochirurgico e' denominato "presidio".
 
 ## Art. 2. — Autorizzazione all'immissione in commercio
 
@@ -83,6 +133,31 @@ In caso di improvvisa necessita' di sostituzione del direttore tecnico, il sogge
 I direttori tecnici che alla data di entrata in vigore del presente regolamento esercitano tale funzione continuano ad esercitarla anche in mancanza del titolo di studio di cui al comma 1.
 
 ## Art. 6. — Accertamenti sulla produzione di presidi
+
+1.
+                    
+                        
+                            Il Ministero puo', in qualsiasi momento: 
+ 
+                        
+                        
+                            a)
+                            
+                                procedere ad ispezioni delle officine e dei locali dove si effettuano la produzione, il controllo e l'immagazzinamento dei presidi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prelevare campioni di prodotto finito e, se del caso, di altre sostanze necessarie alle analisi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prendere conoscenza e, se necessario, acquisire copia di tutti i documenti relativi all'oggetto delle ispezioni.
 
 Le ispezioni alle officine di produzione ed ai laboratori di controllo dei presidi sono rinnovate almeno ogni cinque anni.
 

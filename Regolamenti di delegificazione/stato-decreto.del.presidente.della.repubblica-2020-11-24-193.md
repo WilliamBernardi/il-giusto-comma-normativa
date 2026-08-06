@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2020-11-24;193
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -52,7 +52,92 @@ Lo statuto e' deliberato dall'assemblea dei partecipanti a maggioranza dei due t
 
 Lo statuto determina le competenze dell'assemblea dei partecipanti, del Presidente, del consiglio di amministrazione, del collegio dei revisori dei conti, del comitato tecnico e del direttore generale, i criteri generali di organizzazione dei lavori assembleari e l'articolazione organizzativa interna del Banco, ripartita in distinte strutture amministrative e tecniche, nel rispetto di quanto previsto dal presente regolamento.
 
+4.
+                    
+                        
+                            Lo statuto prevede l'adozione di regolamenti interni, da approvarsi dal consiglio di amministrazione, in materia di: 
+ 
+                        
+                        
+                            a)
+                            
+                                criteri e modalita' per la designazione del direttore generale in relazione a requisiti di professionalita' e onorabilita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestione del personale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definizione delle aree di responsabilita' delle strutture interne; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definizione di assetti organizzativi delle strutture amministrative e tecniche e dei relativi compiti gestionali e tecnici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                disciplina dei servizi tecnici del Banco; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                criteri e modalita' per la stipula di accordi e convenzioni di cui all'articolo 2.
+
 ## Art. 4. — Organi
+
+1.
+                    
+                        
+                            Sono organi del Banco: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'assemblea dei partecipanti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei revisori dei conti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comitato tecnico.
 
 Per i componenti dell'assemblea, del consiglio di amministrazione e del comitato tecnico non sono previsti compensi.
 
@@ -62,13 +147,172 @@ I compensi dei componenti degli organi di cui alle lettere a) e d) del comma 1 s
 
 Il Presidente del Banco e' nominato dall'assemblea tra i suoi componenti e resta in carica quattro anni.
 
+2.
+                    
+                        
+                            Il Presidente e' di diritto presidente del consiglio di amministrazione, ha la rappresentanza legale del Banco ed esercita i seguenti poteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                convoca l'assemblea e il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da' esecuzione alle delibere del consiglio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in caso di urgenza, provvede alle deliberazioni di competenza del consiglio di amministrazione, da sottoporre a ratifica nella prima seduta successiva del consiglio stesso.
+
 ## Art. 6. — Assemblea dei partecipanti
 
 L'assemblea e' costituita da undici componenti nominati con decreto del Ministro dello sviluppo economico ed e' cosi' composta: un rappresentante per ciascuno dei Ministeri dello sviluppo economico e della difesa; uno per la Camera di commercio di Brescia; uno per il Comune di Brescia; uno per il Comune di Gardone Val Trompia; tre rappresentanti dei produttori delle armi, di cui due in rappresentanza dei produttori industriali e uno dei produttori artigiani; tre rappresentanti dei produttori di munizioni, di cui uno in rappresentanza dei produttori industriali, uno dei produttori artigiani e uno dei produttori industriali di componenti di munizioni.
 
+2.
+                    
+                        
+                            L'assemblea resta in carica quattro anni, e' presieduta dal Presidente e delibera sulle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                adozione dello statuto e delle sue modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                approvazione del piano triennale di attivita' e dei suoi aggiornamenti annuali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                approvazione del bilancio consuntivo e preventivo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                elezione e nomina dei componenti del consiglio di amministrazione, del Presidente e del comitato tecnico, nel rispetto di quanto stabilito dagli articoli 5, 7 e 10; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                determinazione dei compensi del Presidente e del collegio dei revisori, nel rispetto dei limiti di cui all'articolo 4, comma 3; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                designazione di un componente del collegio dei revisori; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                articolazione del Banco in sezioni o sedi in localita' dove l'industria delle armi assume una particolare rilevanza, previa proposta del consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                questioni ad essa sottoposte dal Presidente anche su richiesta di oltre la meta' dei consiglieri di amministrazione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                questioni attribuite espressamente dallo statuto.
+
 ## Art. 7. — Consiglio di amministrazione
 
 Il consiglio di amministrazione e' costituito da cinque componenti, incluso il Presidente, nominati dall'assemblea tra i propri componenti ed e' cosi' formato: un componente in rappresentanza dei produttori di armi, uno in rappresentanza dei produttori di munizioni, uno in rappresentanza del Ministero dello sviluppo economico, uno in rappresentanza del Ministero della difesa e uno scelto tra i rappresentanti della Camera di commercio di Brescia e dei Comuni di Brescia e di Gardone Val Trompia.
+
+2.
+                    
+                        
+                            Il consiglio di amministrazione resta in carica quattro anni e delibera in ordine a: 
+ 
+                        
+                        
+                            a)
+                            
+                                predisposizione del piano triennale di attivita' e aggiornamenti annuali, da sottoporre all'assemblea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica dell'attuazione dei programmi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                atti organizzativi interni, anche attinenti alla gestione del personale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                redazione del bilancio preventivo annuale, corredato della relazione del collegio dei revisori, da sottoporre all'assemblea; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                redazione del bilancio consuntivo e della relazione sull'andamento della gestione, da sottoporre all'assemblea; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                determinazione delle tariffe per le prove, da proporre al Ministero dello sviluppo economico; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                promozione di forme collaborative tra il Banco e altri organismi pubblici e privati; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                regolamenti interni; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                questioni attribuite espressamente dallo statuto.
 
 ## Art. 8. — Commissario straordinario
 
@@ -105,6 +349,45 @@ Il direttore generale e' membro di diritto e capo della delegazione italiana pre
 
 ## Art. 12. — Fonti di finanziamento
 
+1.
+                    
+                        
+                            Il Banco, senza oneri a carico dello Stato, provvede al finanziamento delle proprie attivita' attraverso: 
+ 
+                        
+                        
+                            a)
+                            
+                                contributi e tariffe determinate ai sensi dall'articolo 3 della legge 23 febbraio 1960, n. 186; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                corrispettivi per prestazioni di servizi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rendite del patrimonio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                donazioni, lasciti e liberalita', previa accettazione deliberata dal consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuali altre entrate.
+
 Le tariffe per le prove sono stabilite dal Ministro dello sviluppo economico sulla proposta del consiglio di amministrazione del Banco e, per le munizioni, previo parere della Commissione di cui all'articolo 8, comma 5, della legge 6 dicembre 1993, n. 509, in base al costo economico del servizio determinato dal costo tecnico e dalla quota delle spese generali ad esso imputabile e sono soggette ad adeguamento annuale automatico secondo l'indice di rivalutazione monetaria dell'ISTAT.
 
 Eventuali utili sono reinvestiti nelle attivita' del Banco.
@@ -118,6 +401,73 @@ I rapporti di lavoro dei dipendenti del Banco sono disciplinati dalle disposizio
 E' fatto divieto al personale di attendere a mansioni o disimpegnare incarichi incompatibili con le funzioni esercitate presso il Banco e, in particolare, di svolgere attivita' connesse con l'industria ed il commercio delle armi e delle munizioni.
 
 ## Art. 14. — Vigilanza
+
+1.
+                    
+                        
+                            Fermo restando quanto previsto dall'articolo 1, comma 2, sono soggetti all'approvazione del Ministero dello sviluppo economico i seguenti atti deliberativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                statuto e sue modificazioni, nel rispetto di quanto previsto all'articolo 3, comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i piani di attivita' deliberati dall'assemblea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il bilancio preventivo e il bilancio consuntivo, sentito il Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la determinazione dei contributi e delle tariffe ai sensi dall'articolo 3 della legge 23 febbraio 1960, n. 186; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la partecipazione a consorzi, societa' e associazioni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'istituzione di sezioni locali del Banco; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i compensi del Presidente e dei componenti del collegio dei revisori dei conti, nel rispetto di quanto previsto dall'articolo 4, commi 2 e 3; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i regolamenti interni di cui all'articolo 3, comma 4, fermo restando che i regolamenti di natura tecnica sono approvati sentito il Ministero della difesa; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il regolamento di amministrazione e contabilita', sentito il Ministero dell'economia e delle finanze.
 
 Fatte salve le deliberazioni dello statuto e delle sue modifiche, le restanti deliberazioni, di cui al comma 1, divengono esecutive se, nel termine di sessanta giorni dalla data di ricezione, il Ministero dello sviluppo economico non ne dispone l'annullamento ovvero il rinvio per il riesame.
 

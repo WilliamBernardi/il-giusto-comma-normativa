@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2001-07-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,7 +36,44 @@ All'articolo 18, comma 1, lettera c), del decreto legislativo 31 marzo 1998, n. 
 
 ## Art. 2. — Modifiche all'articolo 19
 
+1.
+                    
+                        
+                            All'articolo 19 del decreto legislativo 31 marzo 1998, n. 112, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 10 e' abrogato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 12, le parole: "in vigore alla data di emanazione del presente decreto legislativo" sono sostituite con le parole: "in vigore alla data di effettivo trasferimento e delega delle funzioni disposte dal presente decreto legislativo".
+
 ## Art. 3. — Modifiche all'articolo 29
+
+1.
+                    
+                        
+                            All'articolo 29, comma 2, del decreto legislativo 31 marzo 1998, n. 112, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b) dopo le parole: "stoccaggio di energia" sono aggiunte le seguenti parole: "limitatamente allo stoccaggio di metano in giacimento."; ((1))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera l) e' sostituita con la seguente:
+ "l) prospezione, ricerca e coltivazione di idrocarburi, ivi comprese le funzioni di polizia mineraria in mare; le funzioni amministrative relative a prospezione, ricerca e coltivazione di idrocarburi in terraferma, ivi comprese quelle di polizia mineraria, sono svolte dallo Stato d'intesa con la regione interessata secondo modalita' procedimentali da emanare entro sei mesi dalla entrata in vigore del presente decreto legislativo;".
 
 -----------------
                         AGGIORNAMENTO (1)
@@ -79,6 +116,32 @@ All'articolo 91, comma 3, del decreto legislativo 31 marzo 1998, n. 112, sono so
 
 ## Art. 11. — Modifiche all'articolo 104
 
+1.
+                    
+                        
+                            All'articolo 104 del decreto legislativo 31 marzo 1998, n. 112, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, alla lettera ii), sono aggiunte, in fine, le parole: "nonche' per unita' da diporto nautico;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera ll), e' cosi' modificata: "al rilascio di patenti, di certificati di abilitazione professionale, di patenti nautiche e di loro duplicati e aggiornamenti;";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, e' aggiunta la seguente lettera:
+ " qq) al sistema informativo del demanio marittimo, la cui gestione e' regolata mediante protocolli d'intesa ai sensi dell'articolo 6 del decreto legislativo n. 281/1997;".
+
 ## Art. 12. — Modifica all'articolo 106
 
 All'articolo 106 il comma 2 e' sostituito dal seguente:
@@ -100,7 +163,55 @@ All'articolo 112, al comma 3, dopo la lettera i), e' aggiunta la seguente:
 
 ## Art. 16. — Modifiche all'articolo 115
 
+1.
+                    
+                        
+                            All'articolo 115 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera e), sono aggiunte, in fine, le seguenti parole: "nonche' lo svolgimento di ispezioni agli stabilimenti di produzione di medicinali per uso umano e per uso veterinario, ivi comprese le materie prime farmacologicamente attive e i gas medicinali, e ai centri di sperimentazione clinica umana e veterinaria.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' aggiunto il seguente comma 3-bis:
+ "3-bis. Ai sensi del comma 3 del presente articolo, restano riservate allo Stato le funzioni di verifica, ai fini del controllo preventivo, della conformita' rispetto alla normativa nazionale e comunitaria, limitatamente agli aspetti di tutela della salute di rilievo nazionale:
+ a) degli stabilimenti di produzione dei prodotti destinati ad alimentazione particolare e dei prodotti fitosanitari;
+ b) dei macelli, dei mercati ittici e stabilimenti dove si allevano animali o pesci, nonche' dei laboratori di trasformazione e delle altre strutture di interesse veterinario che fabbricano o trattano prodotti destinati all'esportazione;
+ c) dei laboratori.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' aggiunto, in fine, il seguente comma 3-ter:
+ "3-ter. L'esercizio delle funzioni di cui ai commi 3 e 3 -bis e' regolato sulla base di modalita' definite con apposito accordo da approvare in conferenza Statoregioni, ai sensi dell'articolo 4 del decreto legislativo 28 agosto 1997, n. 281.".
+
 ## Art. 17. — Modifiche all'articolo 119
+
+1.
+                    
+                        
+                            All'articolo 119 sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera d), e' aggiunta la seguente lettera: " e) l'autorizzazione alla fabbricazione per l'immissione in commercio degli additivi o dei prodotti di cui al capitolo I.1.a) dell'allegato I al decreto legislativo 13 aprile 1999, n. 123.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato.
 
 ## Art. 18. — Modifica all'articolo 142
 

@@ -2,1129 +2,1879 @@
   "zip_date": "2026-08-06",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19671222_1518/1968-06-06_067U1518_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "c1560363a5beb4dbdb74fc07739d46510b65e30be9479e18c9c7e8d7fe694be2"
+      "sha256": "c1560363a5beb4dbdb74fc07739d46510b65e30be9479e18c9c7e8d7fe694be2",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1967-12-22-1518.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1967-12-22;1518"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19891024_369/1989-11-11_089G0447_ORIGINALE_V0.xml": {
-      "sha256": "05971cc571c78e0e8d70e2fc45e56e3a93b063aab04b05fafb7ea4e1dcd03a97"
+      "sha256": "05971cc571c78e0e8d70e2fc45e56e3a93b063aab04b05fafb7ea4e1dcd03a97",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1989-10-24-369.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1989-10-24;369"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19900410_101/1990-05-04_090G0124_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "809d28a304b095da347e6b41e6b39371627d9049e7b95ebdac957a0d3a46fd68"
+      "sha256": "809d28a304b095da347e6b41e6b39371627d9049e7b95ebdac957a0d3a46fd68",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1990-04-10-101.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1990-04-10;101"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19910221_70/1991-03-07_091G0107_ORIGINALE_V0.xml": {
-      "sha256": "60fd2399b91d3cc38e0d903d21803fd1fe12048e66820ae14a662c31febf1630"
+      "sha256": "60fd2399b91d3cc38e0d903d21803fd1fe12048e66820ae14a662c31febf1630",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1991-02-21-70.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1991-02-21;70"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19910808_294/1991-09-11_091G0335_ORIGINALE_V0.xml": {
-      "sha256": "7f08f55a1c87f110335ea6eabf9aeaaa91bcffd1e3e11d7aa8b13c26bf85bcff"
+      "sha256": "7f08f55a1c87f110335ea6eabf9aeaaa91bcffd1e3e11d7aa8b13c26bf85bcff",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1991-08-08-294.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1991-08-08;294"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19910910_312/1991-10-04_091G0348_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "c92dde497ebe6186876cf672e72d7fdef89af720b2bfcfdc3f22c90a581cc999"
+      "sha256": "c92dde497ebe6186876cf672e72d7fdef89af720b2bfcfdc3f22c90a581cc999",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1991-09-10-312.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1991-09-10;312"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19920301_230/1992-03-19_092G0259_ORIGINALE_V0.xml": {
-      "sha256": "b50595b8a22d9b08b2ce9f2342965dbebd1f12f578a5c22e9926b8b0a28422d3"
+      "sha256": "b50595b8a22d9b08b2ce9f2342965dbebd1f12f578a5c22e9926b8b0a28422d3",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1992-03-01-230.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1992-03-01;230"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19920426_300/1992-05-27_092G0341_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "35caccf0e2f18d8dcecaac431fc6eaf7c236e0b4a25521849bb36c6912b136fe"
+      "sha256": "35caccf0e2f18d8dcecaac431fc6eaf7c236e0b4a25521849bb36c6912b136fe",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1992-04-26-300.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1992-04-26;300"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19921216_495/1992-12-28_092G0531_VIGENZA_2026-02-20_V0.xml": {
-      "sha256": "f4a08085eb5dff81c29196de4913dfd3b5f1f3b621204eb8a41cdcbeb3851364"
+      "sha256": "f4a08085eb5dff81c29196de4913dfd3b5f1f3b621204eb8a41cdcbeb3851364",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1992-12-16-495.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19930218_135/1993-05-08_093G0198_ORIGINALE_V0.xml": {
-      "sha256": "e897e03f7736f4d757c0954c299354ad329c8fb52c2b30c87343d25e1b3684d7"
+      "sha256": "e897e03f7736f4d757c0954c299354ad329c8fb52c2b30c87343d25e1b3684d7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1993-02-18-135.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1993-02-18;135"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19930405_106/1993-04-10_093G0109_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "f27c9720a658702f8e4ddd3ad622b07c31df35596a9e478322787f837f62581d"
+      "sha256": "f27c9720a658702f8e4ddd3ad622b07c31df35596a9e478322787f837f62581d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1993-04-05-106.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1993-04-05;106"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19931006_418/1993-10-19_093G0486_ORIGINALE_V0.xml": {
-      "sha256": "5b7ccf70d25cedba0bca68470a2051787da0836e885d1a07f26b9e5b9017a42d"
+      "sha256": "5b7ccf70d25cedba0bca68470a2051787da0836e885d1a07f26b9e5b9017a42d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1993-10-06-418.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1993-10-06;418"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19931231_584/1994-01-25_094G0022_ORIGINALE_V0.xml": {
-      "sha256": "6a9a587d8951a7e7b477fa6529c37eab97703c3293a3e29eb2c900ca7353f679"
+      "sha256": "6a9a587d8951a7e7b477fa6529c37eab97703c3293a3e29eb2c900ca7353f679",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1993-12-31-584.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1993-12-31;584"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940202_196/1994-03-24_094G0128_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "762ec10cf1bc4080a35c5a7a3a19e2a21ec15b53b267e4f77839b242c613b2a6"
+      "sha256": "762ec10cf1bc4080a35c5a7a3a19e2a21ec15b53b267e4f77839b242c613b2a6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-02-02-196.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-02-02;196"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940413_336/1994-06-07_094G0408_ORIGINALE_V0.xml": {
-      "sha256": "94cd6ac1b722f7317225d8aecac122b3496ca435d35248dc2b7a4fae6cd9f703"
+      "sha256": "94cd6ac1b722f7317225d8aecac122b3496ca435d35248dc2b7a4fae6cd9f703",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-13-336.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-13;336"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_337/1994-06-08_094G0308_ORIGINALE_V0.xml": {
-      "sha256": "51760ccf0ae57841120dd64ce5bce4c348583e01ab4885c485234677cc82b1a7"
+      "sha256": "51760ccf0ae57841120dd64ce5bce4c348583e01ab4885c485234677cc82b1a7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-337.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;337"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_338/1994-06-08_094G0313_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "d7b390e7363799ef639293b9c428e50250804d7c46e7b17a177177d9448ade51"
+      "sha256": "d7b390e7363799ef639293b9c428e50250804d7c46e7b17a177177d9448ade51",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-338.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;338"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_339/1994-06-08_094G0314_ORIGINALE_V0.xml": {
-      "sha256": "2422d1b464929ce11aec1cfa20a9efa63b8d3c5655e30da6d558c48db349957d"
+      "sha256": "2422d1b464929ce11aec1cfa20a9efa63b8d3c5655e30da6d558c48db349957d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-339.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;339"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_340/1994-06-08_094G0319_ORIGINALE_V0.xml": {
-      "sha256": "f8220c3e893634924867a8add64c1c1a9562fdef2589c3fa82cd24a6d350abb5"
+      "sha256": "f8220c3e893634924867a8add64c1c1a9562fdef2589c3fa82cd24a6d350abb5",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-340.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;340"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_341/1994-06-08_094G0320_ORIGINALE_V0.xml": {
-      "sha256": "896312f2bb5ddbdb30b096f599b71c2ad9e873dd61d9b41ef4e9252e0973c4ea"
+      "sha256": "896312f2bb5ddbdb30b096f599b71c2ad9e873dd61d9b41ef4e9252e0973c4ea",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-341.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;341"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_342/1994-06-08_094G0322_ORIGINALE_V0.xml": {
-      "sha256": "42ead3a0abfd4e3563febd09870bfbce71af543bea41001627783efec8a53db1"
+      "sha256": "42ead3a0abfd4e3563febd09870bfbce71af543bea41001627783efec8a53db1",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-342.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;342"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_343/1994-06-08_094G0339_ORIGINALE_V0.xml": {
-      "sha256": "f3908d1df66d5ab746757aa105e06e8585ceba0abd37b799dcc2e790d17624b9"
+      "sha256": "f3908d1df66d5ab746757aa105e06e8585ceba0abd37b799dcc2e790d17624b9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-343.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;343"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_345/1994-06-08_094G0345_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "64526f992674fc12af31d9a3ea0eaebfa482627f839be5af9ae6183b6c3baf83"
+      "sha256": "64526f992674fc12af31d9a3ea0eaebfa482627f839be5af9ae6183b6c3baf83",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-345.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;345"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_347/1994-06-08_094G0327_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "320d4f83d0741f6d16543b0e0de092c1939f538c501ded3e50dedd68c5e816ca"
+      "sha256": "320d4f83d0741f6d16543b0e0de092c1939f538c501ded3e50dedd68c5e816ca",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-347.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;347"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_361/1994-06-13_094G0360_ORIGINALE_V0.xml": {
-      "sha256": "8d47689d9af64b5d6b059009335ae6b4a5d647e17ad4943d962f6544b8fbd520"
+      "sha256": "8d47689d9af64b5d6b059009335ae6b4a5d647e17ad4943d962f6544b8fbd520",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-361.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;361"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_362/1994-06-13_094G0368_ORIGINALE_V0.xml": {
-      "sha256": "e0671fa3cf1b098e1cf96473e54be4ca486d3654f9fd0b8c5a4b85739179a31e"
+      "sha256": "e0671fa3cf1b098e1cf96473e54be4ca486d3654f9fd0b8c5a4b85739179a31e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-362.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;362"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_363/1994-06-13_094G0353_ORIGINALE_V0.xml": {
-      "sha256": "4dd929a8c0f3ae40f86a31a6a4dbb58a9a81eb2a7482fa8b624e694ef4fa12ca"
+      "sha256": "4dd929a8c0f3ae40f86a31a6a4dbb58a9a81eb2a7482fa8b624e694ef4fa12ca",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-363.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;363"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_383/1994-06-18_094G0325_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "1e775e0c1b9111344f4f79e75a05ddfc7af490ad8da4cd1ca9b48e0f9f34dc74"
+      "sha256": "1e775e0c1b9111344f4f79e75a05ddfc7af490ad8da4cd1ca9b48e0f9f34dc74",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-383.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;383"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_388/1994-06-18_094G0310_ORIGINALE_V0.xml": {
-      "sha256": "797a16376ed0fd6a673ca8a9efd5fe514c5b9e9fa5313a00eabf80d9f21623e1"
+      "sha256": "797a16376ed0fd6a673ca8a9efd5fe514c5b9e9fa5313a00eabf80d9f21623e1",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-388.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;388"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_389/1994-06-18_094G0316_ORIGINALE_V0.xml": {
-      "sha256": "bebde7f3cb35f78a83ca02cbb70403be5131d26527b3ee280d7ffabf55d1202d"
+      "sha256": "bebde7f3cb35f78a83ca02cbb70403be5131d26527b3ee280d7ffabf55d1202d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-389.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;389"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_392/1994-06-18_094G0366_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "69dcd3547b55a745defb2da8f61188ab32d49e7c6bed58c102a867740099b850"
+      "sha256": "69dcd3547b55a745defb2da8f61188ab32d49e7c6bed58c102a867740099b850",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-392.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;392"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_420/1994-06-30_094G0369_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "81f98534f69a8e93093ea09c551cca73571b065629aebde0fcf49a44edce77c6"
+      "sha256": "81f98534f69a8e93093ea09c551cca73571b065629aebde0fcf49a44edce77c6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-420.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;420"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_484/1994-08-08_094G0354_ORIGINALE_V0.xml": {
-      "sha256": "6d4d86060e6f97fc0273059fd094f772c4b8850f6b7d957c1bf92c74489d57f0"
+      "sha256": "6d4d86060e6f97fc0273059fd094f772c4b8850f6b7d957c1bf92c74489d57f0",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-484.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;484"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940418_485/1994-08-08_094G0367_ORIGINALE_V0.xml": {
-      "sha256": "23f3e76b367f09af53af7509d8376854aa9f96ce5929ba57e3f9205edcad51d3"
+      "sha256": "23f3e76b367f09af53af7509d8376854aa9f96ce5929ba57e3f9205edcad51d3",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-18-485.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;485"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940419_303/1994-05-23_094G0385_ORIGINALE_V0.xml": {
-      "sha256": "27a603d0dacead32b98fc9e173ef1f5b3d0b148ff28c730679928a147dac5154"
+      "sha256": "27a603d0dacead32b98fc9e173ef1f5b3d0b148ff28c730679928a147dac5154",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-19-303.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;303"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940419_575/1994-10-13_094G0352_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "c8d935084d83ffe434fc3d420114880b8bf1b9517a7111c3d42fe975083c0865"
+      "sha256": "c8d935084d83ffe434fc3d420114880b8bf1b9517a7111c3d42fe975083c0865",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-19-575.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-19;575"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940420_350/1994-06-08_094G0342_ORIGINALE_V0.xml": {
-      "sha256": "33ce5aaa18ab97a505d87daaacb5f2f0d04c0dc7105d399edc3afc7774a3bc42"
+      "sha256": "33ce5aaa18ab97a505d87daaacb5f2f0d04c0dc7105d399edc3afc7774a3bc42",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-20-350.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;350"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940420_365/1994-06-13_094G0318_ORIGINALE_V0.xml": {
-      "sha256": "bc5b62b6d9f402e42064dcfcd9e89cfc6ff0f4b4be712851213dc6a0e5651678"
+      "sha256": "bc5b62b6d9f402e42064dcfcd9e89cfc6ff0f4b4be712851213dc6a0e5651678",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-20-365.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;365"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940420_366/1994-06-13_094G0321_ORIGINALE_V0.xml": {
-      "sha256": "efde2e3d7f6505919d03c74981f024940d8e51394b509b4e8166b9a3771a7bc9"
+      "sha256": "efde2e3d7f6505919d03c74981f024940d8e51394b509b4e8166b9a3771a7bc9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-20-366.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;366"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940420_367/1994-06-13_093G0309_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "9be02495951098345a7488f7647bce7f2555a556c01ced0d4cce136a8e73c3cd"
+      "sha256": "9be02495951098345a7488f7647bce7f2555a556c01ced0d4cce136a8e73c3cd",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-20-367.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;367"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940420_373/1994-06-15_094G0350_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "ffe0e6183d97b09a530450a3e5c5d88127d74e0aeffb68fb66b41c475bf0397f"
+      "sha256": "ffe0e6183d97b09a530450a3e5c5d88127d74e0aeffb68fb66b41c475bf0397f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-20-373.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;373"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940420_393/1994-06-18_094G0343_ORIGINALE_V0.xml": {
-      "sha256": "23078c56e818c6d6a683ae7c33e47029cf98a9282fbe217392b89f7305b01224"
+      "sha256": "23078c56e818c6d6a683ae7c33e47029cf98a9282fbe217392b89f7305b01224",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-20-393.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-20;393"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940421_394/1994-06-18_094G0371_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "4a42e39908e78485a3214b4af0420d3c19dcd977fd4840fcf519122a593413ab"
+      "sha256": "4a42e39908e78485a3214b4af0420d3c19dcd977fd4840fcf519122a593413ab",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-21-394.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-21;394"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940422_369/1994-06-13_094G0363_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "2570cbc61fbdaba8d5653de6b54e0c0eda89f017886e42a1db3aa6a7cee73065"
+      "sha256": "2570cbc61fbdaba8d5653de6b54e0c0eda89f017886e42a1db3aa6a7cee73065",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-22-369.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-22;369"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940422_486/1994-08-08_094G0344_ORIGINALE_V0.xml": {
-      "sha256": "8b5dfacddac020564bebecfab3e3f2dd8dd0fe1debf8e71bdf5c743852d7da21"
+      "sha256": "8b5dfacddac020564bebecfab3e3f2dd8dd0fe1debf8e71bdf5c743852d7da21",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-04-22-486.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-22;486"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940509_407/1994-06-25_094G0442_VIGENZA_2026-02-20_V0.xml": {
-      "sha256": "c653b69a76b0cc44cae87db179eaa906f82a43bb8fa6d8213fb6e9f4f45de2e8"
+      "sha256": "c653b69a76b0cc44cae87db179eaa906f82a43bb8fa6d8213fb6e9f4f45de2e8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-05-09-407.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;407"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940509_411/1994-06-28_094G0444_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "b2185eb67dc3fef275ad2cb4a3fd9ca08a1f0ec2f4840298ab21fd3c38757843"
+      "sha256": "b2185eb67dc3fef275ad2cb4a3fd9ca08a1f0ec2f4840298ab21fd3c38757843",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-05-09-411.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;411"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940509_608/1994-10-31_094G0637_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "d332553e349e6dea98fcf9973201281749c6b8f6189661548f5537968e5a5ab9"
+      "sha256": "d332553e349e6dea98fcf9973201281749c6b8f6189661548f5537968e5a5ab9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-05-09-608.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-05-09;608"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940808_542/1994-09-19_094G0577_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "4e254710565514a1c929b8d27e370c5034cf47bb065e646dc7666af3033d5f11"
+      "sha256": "4e254710565514a1c929b8d27e370c5034cf47bb065e646dc7666af3033d5f11",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-08-08-542.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-08-08;542"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940921_698/1994-12-22_094G0750_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "6e178b99b092651cfafecab75151fba404571731a8bf3c71422fadb0ae83e061"
+      "sha256": "6e178b99b092651cfafecab75151fba404571731a8bf3c71422fadb0ae83e061",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-09-21-698.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-09-21;698"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940928_591/1994-10-26_094G0627_ORIGINALE_V0.xml": {
-      "sha256": "32c684aa72a0db1203eb0c5b0547bca17dfe9bb70c2de04836d8d20a71aba511"
+      "sha256": "32c684aa72a0db1203eb0c5b0547bca17dfe9bb70c2de04836d8d20a71aba511",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-09-28-591.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-09-28;591"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19940928_592/1994-10-26_094G0628_ORIGINALE_V0.xml": {
-      "sha256": "e280c8c92db9e59b0b70cb1cbddc0396d4b190575512359bda6015ed7c77267f"
+      "sha256": "e280c8c92db9e59b0b70cb1cbddc0396d4b190575512359bda6015ed7c77267f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-09-28-592.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-09-28;592"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19941109_694/1994-12-21_094G0735_ORIGINALE_V0.xml": {
-      "sha256": "dc8c683efac7e1ef7ffa4be872e186faca07a4fd611425de11bb0f4547f04d15"
+      "sha256": "dc8c683efac7e1ef7ffa4be872e186faca07a4fd611425de11bb0f4547f04d15",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-11-09-694.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-11-09;694"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19941220_756/1995-01-20_095G0038_ORIGINALE_V0.xml": {
-      "sha256": "8a41d635be9cb29a65c1426cb1e5c8bcc5636259b1ec37e41daac981d64c01b5"
+      "sha256": "8a41d635be9cb29a65c1426cb1e5c8bcc5636259b1ec37e41daac981d64c01b5",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1994-12-20-756.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1994-12-20;756"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19950413_177/1995-05-19_095G0224_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "dbe4aa004c31118532932d4434717f6d00857ebb961e5f02690d83541c550edb"
+      "sha256": "dbe4aa004c31118532932d4434717f6d00857ebb961e5f02690d83541c550edb",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1995-04-13-177.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1995-04-13;177"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19950714_376/1995-09-11_095G0410_ORIGINALE_V0.xml": {
-      "sha256": "c8d7a0f421cb98e7fd338c1042110328d408ae058cf97dd4e05861323d7d864b"
+      "sha256": "c8d7a0f421cb98e7fd338c1042110328d408ae058cf97dd4e05861323d7d864b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1995-07-14-376.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-14;376"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19950727_388/1995-09-19_095G0421_ORIGINALE_V0.xml": {
-      "sha256": "1b38d007a14ceb31ead6ca265cae2dfb22d4fae6f62d721bc9e1920a04223dcb"
+      "sha256": "1b38d007a14ceb31ead6ca265cae2dfb22d4fae6f62d721bc9e1920a04223dcb",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1995-07-27-388.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-27;388"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19950727_398/1995-09-25_095G0440_ORIGINALE_V0.xml": {
-      "sha256": "1b74e8a66ccb7bb1a07c99238999da6c122429211c0ef69a3b4830347aa2e158"
+      "sha256": "1b74e8a66ccb7bb1a07c99238999da6c122429211c0ef69a3b4830347aa2e158",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1995-07-27-398.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-27;398"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19950901_464/1995-11-09_095G0509_ORIGINALE_V0.xml": {
-      "sha256": "9b175961ada42a8e477bf95dafe1833d1ec2f53c42fd07a113950658d6d96845"
+      "sha256": "9b175961ada42a8e477bf95dafe1833d1ec2f53c42fd07a113950658d6d96845",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1995-09-01-464.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1995-09-01;464"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19951125_580/1996-01-31_096G0032_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "8d07c90e05c7547a13d61a758a20bb35d0730db7f0e96df8695b9f4d56a7ef32"
+      "sha256": "8d07c90e05c7547a13d61a758a20bb35d0730db7f0e96df8695b9f4d56a7ef32",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1995-11-25-580.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1995-11-25;580"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960206_147/1996-03-22_096G0161_ORIGINALE_V0.xml": {
-      "sha256": "ed905327340544762b57c52658c52abe547e6f8cdc2103f553f28ce036377bc0"
+      "sha256": "ed905327340544762b57c52658c52abe547e6f8cdc2103f553f28ce036377bc0",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-02-06-147.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-02-06;147"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960430_316/1996-06-13_096G0334_ORIGINALE_V0.xml": {
-      "sha256": "881737a59b19b76cd2552d44849865e64926e94f7ff4e3ba69cd5b0608cf8e90"
+      "sha256": "881737a59b19b76cd2552d44849865e64926e94f7ff4e3ba69cd5b0608cf8e90",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-04-30-316.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-04-30;316"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960724_435/1996-08-24_096G0459_ORIGINALE_V0.xml": {
-      "sha256": "c0175fec7646b8fbeb961b16da4efe6857cac1e81dbd52d7b80f68b30adea379"
+      "sha256": "c0175fec7646b8fbeb961b16da4efe6857cac1e81dbd52d7b80f68b30adea379",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-07-24-435.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-07-24;435"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960731_460/1996-09-06_096G0483_ORIGINALE_V0.xml": {
-      "sha256": "785b404b65b429b4f3c645c829e6ccae1594ba6c66f8a39197141edae4a96eb4"
+      "sha256": "785b404b65b429b4f3c645c829e6ccae1594ba6c66f8a39197141edae4a96eb4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-07-31-460.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-07-31;460"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960731_468/1996-09-09_096G0484_ORIGINALE_V0.xml": {
-      "sha256": "9cadbcd8e60e7af8b5093857f9a00c38578f9bfed79a0c273f8600bd43bc6116"
+      "sha256": "9cadbcd8e60e7af8b5093857f9a00c38578f9bfed79a0c273f8600bd43bc6116",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-07-31-468.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-07-31;468"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960814_472/1996-09-12_096G0487_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "877106fa4b3155353e024c066e066da60b075abf8273eee4746906d2a41d9ae2"
+      "sha256": "877106fa4b3155353e024c066e066da60b075abf8273eee4746906d2a41d9ae2",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-08-14-472.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-08-14;472"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960916_533/1996-10-21_096G0554_ORIGINALE_V0.xml": {
-      "sha256": "5b75041ace3da8d41cbfa72399fd7ce5f020785af28a7c877d441852cbc3ae76"
+      "sha256": "5b75041ace3da8d41cbfa72399fd7ce5f020785af28a7c877d441852cbc3ae76",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-09-16-533.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-09-16;533"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960916_570/1996-11-08_096G0592_ORIGINALE_V0.xml": {
-      "sha256": "77b05a5490782a901a67fc23c8c0f98622d3539549a47d636ac3cddf8e98c53c"
+      "sha256": "77b05a5490782a901a67fc23c8c0f98622d3539549a47d636ac3cddf8e98c53c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-09-16-570.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-09-16;570"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960916_610/1996-12-04_096G0619_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "d9556fc9fc0b3ac2a0b07260871ab5bad192b5f85b989c49860818505ef02da4"
+      "sha256": "d9556fc9fc0b3ac2a0b07260871ab5bad192b5f85b989c49860818505ef02da4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-09-16-610.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-09-16;610"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19961030_634/1996-12-18_096G0658_ORIGINALE_V0.xml": {
-      "sha256": "ee5caea89835555821bbe884ee01f707056dec26aed7c6d8b29423d198591e9f"
+      "sha256": "ee5caea89835555821bbe884ee01f707056dec26aed7c6d8b29423d198591e9f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-10-30-634.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-10-30;634"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19961209_695/1997-02-06_097G0037_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "93bce133c2a82c6e759dbcedcfb95c945caf96b1be91581c0e3c0e30c866d65b"
+      "sha256": "93bce133c2a82c6e759dbcedcfb95c945caf96b1be91581c0e3c0e30c866d65b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-12-09-695.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-12-09;695"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19961221_696/1997-02-06_097G0038_VIGENZA_2026-02-20_V0.xml": {
-      "sha256": "7af1b740a86499a4b42e3a3570efdc9897964204c6faf2ac4fd62a3b23cd15df"
+      "sha256": "7af1b740a86499a4b42e3a3570efdc9897964204c6faf2ac4fd62a3b23cd15df",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1996-12-21-696.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-12-21;696"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19970519_268/1997-08-11_097G0288_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "c3bbefd91f0b9a72523e31645490983df621a9117ea17af8c97fa530b9c44d07"
+      "sha256": "c3bbefd91f0b9a72523e31645490983df621a9117ea17af8c97fa530b9c44d07",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-05-19-268.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-05-19;268"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19970618_246/1997-07-30_097G0281_ORIGINALE_V0.xml": {
-      "sha256": "7780b428450dae8c42d5715a75d1e140ca725b1a530ee4d8acaca37756667261"
+      "sha256": "7780b428450dae8c42d5715a75d1e140ca725b1a530ee4d8acaca37756667261",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-06-18-246.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-18;246"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19970619_247/1997-07-30_097G0282_ORIGINALE_V0.xml": {
-      "sha256": "d779b326b45c0a71be8fc3dcf91bf6c0c949ff328a85a23c0884687954b3f267"
+      "sha256": "d779b326b45c0a71be8fc3dcf91bf6c0c949ff328a85a23c0884687954b3f267",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-06-19-247.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-19;247"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19970725_306/1997-09-16_097G0344_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "65aa108ff4380a62d701568ae222df4f6b21bda04f593bb15b34a0619fb019f1"
+      "sha256": "65aa108ff4380a62d701568ae222df4f6b21bda04f593bb15b34a0619fb019f1",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-07-25-306.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-25;306"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19970725_404/1997-11-26_097G0443_ORIGINALE_V0.xml": {
-      "sha256": "3f06f5f337db55a7daf379d5cdb35beed9baad9a6f6da5f72e365a27197c1bf6"
+      "sha256": "3f06f5f337db55a7daf379d5cdb35beed9baad9a6f6da5f72e365a27197c1bf6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-07-25-404.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-25;404"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19970924_366/1997-10-29_097G0403_ORIGINALE_V0.xml": {
-      "sha256": "1f92213d2edccec2d6075131726391d68ae8837451bac7aed5bd2a87098144c4"
+      "sha256": "1f92213d2edccec2d6075131726391d68ae8837451bac7aed5bd2a87098144c4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-09-24-366.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-09-24;366"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19970924_367/1997-10-29_097G0404_ORIGINALE_V0.xml": {
-      "sha256": "cda2287db05a37be179ae11186f7a59aacbf6d303660eff08bc9cbffa936c829"
+      "sha256": "cda2287db05a37be179ae11186f7a59aacbf6d303660eff08bc9cbffa936c829",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-09-24-367.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-09-24;367"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19970924_368/1997-10-29_097G0405_ORIGINALE_V0.xml": {
-      "sha256": "08650e25b9ef11e1f29074fd51fe7df37f0d3c04dbeb65b91aec300d339aefcc"
+      "sha256": "08650e25b9ef11e1f29074fd51fe7df37f0d3c04dbeb65b91aec300d339aefcc",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-09-24-368.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-09-24;368"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971003_386/1997-11-07_097G0420_ORIGINALE_V0.xml": {
-      "sha256": "c9808117ff2927bca81420507c6b9e02e03d44ae3ec5c90d9dfb2da499980ecf"
+      "sha256": "c9808117ff2927bca81420507c6b9e02e03d44ae3ec5c90d9dfb2da499980ecf",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-10-03-386.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-10-03;386"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971104_479/1998-01-15_098G0008_ORIGINALE_V0.xml": {
-      "sha256": "ed6326ea31671e57ffc7b045f84c5d5627d7f7a639167b5be84913fc93e06be8"
+      "sha256": "ed6326ea31671e57ffc7b045f84c5d5627d7f7a639167b5be84913fc93e06be8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-11-04-479.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-04;479"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971110_441/1997-12-23_097G0472_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "e381e17a8b69a29b1521b42d760b465eec679af7725a1b39541f9a8ec9ff2c24"
+      "sha256": "e381e17a8b69a29b1521b42d760b465eec679af7725a1b39541f9a8ec9ff2c24",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-11-10-441.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-10;441"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971110_442/1997-12-23_097G0473_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "e1fbc92663478a2b6b3ebc23054a4aef204159af2fafa753efb6a7c05dce08cd"
+      "sha256": "e1fbc92663478a2b6b3ebc23054a4aef204159af2fafa753efb6a7c05dce08cd",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-11-10-442.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-10;442"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971110_443/1997-12-23_097G0474_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "8dba752e8cfa8c42bec7e2e5f17ca42f81cac4e707eaaf034656fb6d1358241c"
+      "sha256": "8dba752e8cfa8c42bec7e2e5f17ca42f81cac4e707eaaf034656fb6d1358241c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-11-10-443.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-10;443"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971110_445/1997-12-23_097G0476_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "c151fd9566de9a16190a93865dc5d8825b12f4fc76569aadd5940f7baf1cc94c"
+      "sha256": "c151fd9566de9a16190a93865dc5d8825b12f4fc76569aadd5940f7baf1cc94c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-11-10-445.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-10;445"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971119_514/1998-03-13_098G0084_ORIGINALE_V0.xml": {
-      "sha256": "db176bee9df716ce3c4d22df6a4cf7d82b92da01a26190c564a05e3b645ef59a"
+      "sha256": "db176bee9df716ce3c4d22df6a4cf7d82b92da01a26190c564a05e3b645ef59a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-11-19-514.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-11-19;514"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971202_491/1998-01-22_098G0018_ORIGINALE_V0.xml": {
-      "sha256": "3fe2672fc65761c5af39e0a4305c52e2483182afd37d2e4b0296435508f01fc7"
+      "sha256": "3fe2672fc65761c5af39e0a4305c52e2483182afd37d2e4b0296435508f01fc7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-12-02-491.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-12-02;491"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971202_509/1998-02-18_098G0058_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "70693a4ba0e3c04367e6aeded0ce44608bbe737cb66b6ceb97754407d3e72ca8"
+      "sha256": "70693a4ba0e3c04367e6aeded0ce44608bbe737cb66b6ceb97754407d3e72ca8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-12-02-509.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-12-02;509"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971204_465/1998-01-05_097G0505_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "71f069cc573ce18ce07e2515f073fe7ef18e99f50dd86cd325a2aa1acbc8b82f"
+      "sha256": "71f069cc573ce18ce07e2515f073fe7ef18e99f50dd86cd325a2aa1acbc8b82f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-12-04-465.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-12-04;465"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971210_484/1998-01-17_098G0005_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "65f701eb72b4eb194060ce6463457ec454f3eaf5ff8dc998dc77c6b74d1e9adb"
+      "sha256": "65f701eb72b4eb194060ce6463457ec454f3eaf5ff8dc998dc77c6b74d1e9adb",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-12-10-484.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-12-10;484"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19971223_522/1998-04-27_098G0162_ORIGINALE_V0.xml": {
-      "sha256": "375849fef5af4293803f29cef1820022c7faf625e6983ab641e0e2f6ae184081"
+      "sha256": "375849fef5af4293803f29cef1820022c7faf625e6983ab641e0e2f6ae184081",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1997-12-23-522.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1997-12-23;522"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980119_27/1998-02-23_098G0062_ORIGINALE_V0.xml": {
-      "sha256": "bdd17e1ab50b2c49a5ca4869cbeb0d0537c28ef3461bbeb9ea2f00100ddf4ec0"
+      "sha256": "bdd17e1ab50b2c49a5ca4869cbeb0d0537c28ef3461bbeb9ea2f00100ddf4ec0",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-01-19-27.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-01-19;27"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980127_25/1998-02-17_098G0061_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a33ceb4ae4380246c6b8c3657329c5222c254a0056ef02017150d04b2fd5fc3b"
+      "sha256": "a33ceb4ae4380246c6b8c3657329c5222c254a0056ef02017150d04b2fd5fc3b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-01-27-25.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-01-27;25"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980210_127/1998-05-05_098G0175_ORIGINALE_V0.xml": {
-      "sha256": "ad63e82b41ae052e1e9dc363d138367e7329ee1fcc63f680f56916e9c1914d0d"
+      "sha256": "ad63e82b41ae052e1e9dc363d138367e7329ee1fcc63f680f56916e9c1914d0d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-02-10-127.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-02-10;127"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980211_53/1998-03-23_098G0098_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "2effea381f34287bb7a546a0371a1be3981823bdd8adaee355a66371e60765a2"
+      "sha256": "2effea381f34287bb7a546a0371a1be3981823bdd8adaee355a66371e60765a2",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-02-11-53.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-02-11;53"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980323_100/1998-04-16_098G0158_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "f35bf35e95d0ef4736ab862cc3ec5542931a800cfeef55169a7621fb9d837d08"
+      "sha256": "f35bf35e95d0ef4736ab862cc3ec5542931a800cfeef55169a7621fb9d837d08",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-03-23-100.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-03-23;100"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980323_138/1998-05-12_098G0190_ORIGINALE_V0.xml": {
-      "sha256": "2862d12e6e45cdd0dd7d48d1254231da07ad55368e15b16a9d8bb6432d0e23db"
+      "sha256": "2862d12e6e45cdd0dd7d48d1254231da07ad55368e15b16a9d8bb6432d0e23db",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-03-23-138.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-03-23;138"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980323_139/1998-05-12_098G0191_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "1817d14a6239e6b3314dd1ad895f8dd2a63cf8906c0f67457ff2cf14ec462cfd"
+      "sha256": "1817d14a6239e6b3314dd1ad895f8dd2a63cf8906c0f67457ff2cf14ec462cfd",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-03-23-139.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-03-23;139"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980408_169/1998-06-01_098G0221_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "371f7b53e0f8b7dc122aaa543c70088479c6dbbfa67c3749426453eb2af0fe44"
+      "sha256": "371f7b53e0f8b7dc122aaa543c70088479c6dbbfa67c3749426453eb2af0fe44",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-04-08-169.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-08;169"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980428_351/1998-10-13_098G0399_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "71b4009c40046d8a3b6b23e2a8f961a0688ef450431008b78e7f98526a968b18"
+      "sha256": "71b4009c40046d8a3b6b23e2a8f961a0688ef450431008b78e7f98526a968b18",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-04-28-351.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-04-28;351"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980504_187/1998-06-18_098G0236_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "0d55f4b36dfd380506fc2cdd889b85b76c60da8eba214c6f58774df2cc7575c3"
+      "sha256": "0d55f4b36dfd380506fc2cdd889b85b76c60da8eba214c6f58774df2cc7575c3",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-05-04-187.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-05-04;187"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980518_189/1998-06-19_098G0237_ORIGINALE_V0.xml": {
-      "sha256": "d6f2a977a1985a4a840af21c7d7817c788ae209d9bc9b1fd7f14454cdfa579c8"
+      "sha256": "d6f2a977a1985a4a840af21c7d7817c788ae209d9bc9b1fd7f14454cdfa579c8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-05-18-189.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-05-18;189"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980518_341/1998-10-05_098G0395_ORIGINALE_V0.xml": {
-      "sha256": "0f57ece0d0234ef4f7c75adbf21c2b55d736a3d0821bb30de2458281596be838"
+      "sha256": "0f57ece0d0234ef4f7c75adbf21c2b55d736a3d0821bb30de2458281596be838",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-05-18-341.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-05-18;341"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980603_252/1998-07-30_098G0299_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "f2ba9728948da5fdfe047c7359984e4a9b546e75f74c4d837c8e2585abfd50a4"
+      "sha256": "f2ba9728948da5fdfe047c7359984e4a9b546e75f74c4d837c8e2585abfd50a4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-06-03-252.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-06-03;252"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980618_233/1998-07-16_098G0280_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "fd4959ba0efa407c03e7ebfb0c1835722a3cb1e6b0254927bb38a21a00ad7a60"
+      "sha256": "fd4959ba0efa407c03e7ebfb0c1835722a3cb1e6b0254927bb38a21a00ad7a60",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-06-18-233.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-06-18;233"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980624_255/1998-07-31_098G0300_ORIGINALE_V0.xml": {
-      "sha256": "143cb99f0f6c83bf7e3988bc57060d50401b7b2868dd8d4b9a85fdcb1a7e1daa"
+      "sha256": "143cb99f0f6c83bf7e3988bc57060d50401b7b2868dd8d4b9a85fdcb1a7e1daa",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-06-24-255.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-06-24;255"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980624_260/1998-08-04_098G0306_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "e3771ce348f7c2caa17af3ffd5fc47b5d7d9be8e138ce7890cebed24c62fc64d"
+      "sha256": "e3771ce348f7c2caa17af3ffd5fc47b5d7d9be8e138ce7890cebed24c62fc64d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-06-24-260.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-06-24;260"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980630_272/1998-08-10_098G0330_ORIGINALE_V0.xml": {
-      "sha256": "1939c4109e4123e86e262042663041228daeae25ebf5e6e0736e8c9d16315c68"
+      "sha256": "1939c4109e4123e86e262042663041228daeae25ebf5e6e0736e8c9d16315c68",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-06-30-272.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-06-30;272"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980708_263/1998-08-05_098G0315_ORIGINALE_V0.xml": {
-      "sha256": "f6b206d77667a2d7728fe8ac8175c7180afc75820173e1aad527b67cd9e1c668"
+      "sha256": "f6b206d77667a2d7728fe8ac8175c7180afc75820173e1aad527b67cd9e1c668",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-07-08-263.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-07-08;263"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980722_322/1998-09-07_098G0373_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "6ad5066623a8fafb950c723a021633f3b5a451c142e044ec67ceec74a97450c7"
+      "sha256": "6ad5066623a8fafb950c723a021633f3b5a451c142e044ec67ceec74a97450c7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-07-22-322.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-07-22;322"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980723_323/1998-09-09_098G0376_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "371ef05867aa98ef2b8ad1fa64e1886edb5b0cd2851f0b93238e394007075636"
+      "sha256": "371ef05867aa98ef2b8ad1fa64e1886edb5b0cd2851f0b93238e394007075636",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-07-23-323.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-07-23;323"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19980928_374/1998-10-30_098G0426_ORIGINALE_V0.xml": {
-      "sha256": "a325b82a64041b6af4fce40832a81ad2761915d63b369d7fd41c6a9c11fad91c"
+      "sha256": "a325b82a64041b6af4fce40832a81ad2761915d63b369d7fd41c6a9c11fad91c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-09-28-374.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-09-28;374"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19981019_390/1998-11-11_098G0440_ORIGINALE_V0.xml": {
-      "sha256": "8d27f5bb21e09ea7b58864686fc0997b94febc5a2351e792defb39fcb7243a8f"
+      "sha256": "8d27f5bb21e09ea7b58864686fc0997b94febc5a2351e792defb39fcb7243a8f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-10-19-390.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-10-19;390"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19981109_433/1998-12-16_098G0485_ORIGINALE_V0.xml": {
-      "sha256": "65ca0611ac94625a78972eb9327ca70373d62d5178eacdcf01edc1181c5fbe39"
+      "sha256": "65ca0611ac94625a78972eb9327ca70373d62d5178eacdcf01edc1181c5fbe39",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-11-09-433.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-11-09;433"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19981109_439/1998-12-21_098G0489_ORIGINALE_V0.xml": {
-      "sha256": "bd0459fedff37982ae8a34c63b7b234961650c5e62c92a1dc4d853e867c83b43"
+      "sha256": "bd0459fedff37982ae8a34c63b7b234961650c5e62c92a1dc4d853e867c83b43",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-11-09-439.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-11-09;439"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19981130_442/1998-12-22_098G0490_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "abb48af9383cf5835f13109d3301148cffeab05696ea0f0a096895da2bf55afa"
+      "sha256": "abb48af9383cf5835f13109d3301148cffeab05696ea0f0a096895da2bf55afa",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-11-30-442.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-11-30;442"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19981130_502/1999-02-01_099G0050_ORIGINALE_V0.xml": {
-      "sha256": "6f6034bf794ae0d0221de0ca04f94a1262a6fae52286199f33be8327d2e41aee"
+      "sha256": "6f6034bf794ae0d0221de0ca04f94a1262a6fae52286199f33be8327d2e41aee",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1998-11-30-502.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1998-11-30;502"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990129_34/1999-02-23_099G0078_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "77b0d01b5068aaa9cfc69cd251c1b1fde77af50de12c02471a6d354108756872"
+      "sha256": "77b0d01b5068aaa9cfc69cd251c1b1fde77af50de12c02471a6d354108756872",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-01-29-34.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-01-29;34"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990218_238/1999-07-26_099G0312_ORIGINALE_V0.xml": {
-      "sha256": "aa7953479c0410ae1d1375e67b8d301e645ec5c0ae313598dff5f7603bede932"
+      "sha256": "aa7953479c0410ae1d1375e67b8d301e645ec5c0ae313598dff5f7603bede932",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-02-18-238.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-02-18;238"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990226_150/1999-05-26_099G0229_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "d38f3705e35c23485f7377953aad0160f7f3cb3eed353916ef5364a849e6a01e"
+      "sha256": "d38f3705e35c23485f7377953aad0160f7f3cb3eed353916ef5364a849e6a01e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-02-26-150.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-02-26;150"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990308_275/1999-08-10_099G0339_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "3985a764fca040e60aac0514d06ffc9bbc6741e7c706521c79d369707cf719a8"
+      "sha256": "3985a764fca040e60aac0514d06ffc9bbc6741e7c706521c79d369707cf719a8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-03-08-275.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-03-08;275"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990308_70/1999-03-25_099G0121_ORIGINALE_V0.xml": {
-      "sha256": "eca0b0090ec91a2ab0d8f7444028292c1881a6f71a3541a3200c7848c5f49a23"
+      "sha256": "eca0b0090ec91a2ab0d8f7444028292c1881a6f71a3541a3200c7848c5f49a23",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-03-08-70.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-03-08;70"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990407_128/1999-05-12_099G0197_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "4bc2c4cc03eebcd58c6adb667bf80901e34001a4d4b6cd960e6f0b4c21e5a2fc"
+      "sha256": "4bc2c4cc03eebcd58c6adb667bf80901e34001a4d4b6cd960e6f0b4c21e5a2fc",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-04-07-128.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-04-07;128"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990416_129/1999-05-12_099G0193_ORIGINALE_V0.xml": {
-      "sha256": "349c8740a4ee2e407b093b75a3e204c1092711be97a3413f6ac7cedb7f37b799"
+      "sha256": "349c8740a4ee2e407b093b75a3e204c1092711be97a3413f6ac7cedb7f37b799",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-04-16-129.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-04-16;129"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990430_162/1999-06-10_099G0240_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "b72c51b7ad98d08f8cffc3e22c9e703b4388238cc97e993ebe1b7c19030ce054"
+      "sha256": "b72c51b7ad98d08f8cffc3e22c9e703b4388238cc97e993ebe1b7c19030ce054",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-04-30-162.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-04-30;162"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990531_195/1999-06-24_099G0277_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "43c3549ae8a3b142b8842a0bd993bdba26682a72508bf691a76476de7230a323"
+      "sha256": "43c3549ae8a3b142b8842a0bd993bdba26682a72508bf691a76476de7230a323",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-05-31-195.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-05-31;195"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990622_250/1999-08-02_099G0331_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "5cf598d48347702fcd22096e6081ac81a711bfe5f3ed1cc933691b34587a38dd"
+      "sha256": "5cf598d48347702fcd22096e6081ac81a711bfe5f3ed1cc933691b34587a38dd",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-06-22-250.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-06-22;250"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990903_353/1999-10-14_099G0426_ORIGINALE_V0.xml": {
-      "sha256": "037e3850b581a48b0af7a3b06866e4039a20fc922ad365e81846fcde1fccc032"
+      "sha256": "037e3850b581a48b0af7a3b06866e4039a20fc922ad365e81846fcde1fccc032",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-09-03-353.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-09-03;353"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19990930_377/1999-10-28_099G0452_ORIGINALE_V0.xml": {
-      "sha256": "c5be0f54425a212239a789d89d4f251f40fd3de6928601370fd837d2c59c39a4"
+      "sha256": "c5be0f54425a212239a789d89d4f251f40fd3de6928601370fd837d2c59c39a4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-09-30-377.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-09-30;377"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19991014_542/2000-02-17_000G0050_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "6761029119fa2bd115d3ee7573c345e14344e5367f16e023628bac98d0cf6103"
+      "sha256": "6761029119fa2bd115d3ee7573c345e14344e5367f16e023628bac98d0cf6103",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-10-14-542.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-10-14;542"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19991110_469/1999-12-15_099G0539_ORIGINALE_V0.xml": {
-      "sha256": "23fc6f719b0b909827ff8b07ec9d3227f2fde0dda9ea22bc9cdb48cb46987034"
+      "sha256": "23fc6f719b0b909827ff8b07ec9d3227f2fde0dda9ea22bc9cdb48cb46987034",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-11-10-469.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-11-10;469"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19991201_503/1999-12-30_099G0566_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "142c3c0d5160fb4462a2685e0f991ebdede438bf8a3f33db8a0b678e4f469a65"
+      "sha256": "142c3c0d5160fb4462a2685e0f991ebdede438bf8a3f33db8a0b678e4f469a65",
+      "out": "Regolamenti di delegificazione/presidenza.repubblica-decreto.del.presidente.della.repubblica-1999-12-01-503.md",
+      "urn": "urn:nir:presidenza.repubblica:decreto.del.presidente.della.repubblica:1999-12-01;503"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19991214_558/2000-11-21_000G0385_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "aafa2314a760b19e0b53c48232a1e6ecd286c63f0a80fe47ac31a6e8a7d71117"
+      "sha256": "aafa2314a760b19e0b53c48232a1e6ecd286c63f0a80fe47ac31a6e8a7d71117",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-12-14-558.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-14;558"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19991216_543/2000-02-18_000G0055_ORIGINALE_V0.xml": {
-      "sha256": "7bba3cb122daa76a4f4f493eb4a312efe3a07a0922b8e565f8bfb0d5103790a7"
+      "sha256": "7bba3cb122daa76a4f4f493eb4a312efe3a07a0922b8e565f8bfb0d5103790a7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-12-16-543.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-16;543"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19991218_545/2000-02-22_000G0060_ORIGINALE_V0.xml": {
-      "sha256": "8ff4bf2f49127153ba8f4be9621686b46fccbc7eec628dcecb678f12e2f2f400"
+      "sha256": "8ff4bf2f49127153ba8f4be9621686b46fccbc7eec628dcecb678f12e2f2f400",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-12-18-545.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-18;545"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19991230_536/2000-01-27_000G0034_ORIGINALE_V0.xml": {
-      "sha256": "4ebc1c90528864b20e42840f1ec0a027a7dec061fcd9f7e6c5623c3158e80aa5"
+      "sha256": "4ebc1c90528864b20e42840f1ec0a027a7dec061fcd9f7e6c5623c3158e80aa5",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-12-30-536.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-30;536"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19991230_544/2000-02-18_000G0057_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "ab471863b1eb05e27571012bb2181d15d95a9c680dad513ad5ee64ef250e8d3d"
+      "sha256": "ab471863b1eb05e27571012bb2181d15d95a9c680dad513ad5ee64ef250e8d3d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-1999-12-30-544.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1999-12-30;544"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000127_64/2000-03-23_000G0102_ORIGINALE_V0.xml": {
-      "sha256": "fbfe91dece818a16c1e2aabb3d281e0863175b064d8ef984e945308c2d29e5b9"
+      "sha256": "fbfe91dece818a16c1e2aabb3d281e0863175b064d8ef984e945308c2d29e5b9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-01-27-64.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-01-27;64"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000207_48/2000-03-09_000G0081_ORIGINALE_V0.xml": {
-      "sha256": "5817ab400533b169bb059bde8955b06602c97a5a0d4f3a4466a2cd056d539cc2"
+      "sha256": "5817ab400533b169bb059bde8955b06602c97a5a0d4f3a4466a2cd056d539cc2",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-02-07-48.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-02-07;48"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000210_361/2000-12-07_000G0410_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "ddb743450dba6c60796d2d386eafb89a48fe8adf2ca0f2451c75380e875afbf8"
+      "sha256": "ddb743450dba6c60796d2d386eafb89a48fe8adf2ca0f2451c75380e875afbf8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-02-10-361.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-02-10;361"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000309_104/2000-04-28_000G0143_ORIGINALE_V0.xml": {
-      "sha256": "54289d83037dca0b67df8dddc8ef16b908c74f34b6d53e6733fb5064a542d08d"
+      "sha256": "54289d83037dca0b67df8dddc8ef16b908c74f34b6d53e6733fb5064a542d08d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-03-09-104.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-09;104"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000309_105/2000-04-28_000G0144_ORIGINALE_V0.xml": {
-      "sha256": "e6210b33ca1811c181f9de63e97b17e9a6a70cbc8c673dde91f4bc1fa7dec193"
+      "sha256": "e6210b33ca1811c181f9de63e97b17e9a6a70cbc8c673dde91f4bc1fa7dec193",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-03-09-105.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-09;105"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000310_100/2000-04-27_000G0146_ORIGINALE_V0.xml": {
-      "sha256": "2c5cf49a514462acfbb8a43d5183197664837b24e1f55fd802c017038bbfd15a"
+      "sha256": "2c5cf49a514462acfbb8a43d5183197664837b24e1f55fd802c017038bbfd15a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-03-10-100.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-10;100"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000316_286/2000-10-16_000G0334_ORIGINALE_V0.xml": {
-      "sha256": "40fa0c44f00887b222feeaaa9e511f274af1c6a0e1d58744cc7aa6b6cf831420"
+      "sha256": "40fa0c44f00887b222feeaaa9e511f274af1c6a0e1d58744cc7aa6b6cf831420",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-03-16-286.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-16;286"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000323_117/2000-05-12_000G0162_ORIGINALE_V0.xml": {
-      "sha256": "01d7437966bc3ce162f7ed484671aa71950c5a5267963c5c286987f6a6b2cf30"
+      "sha256": "01d7437966bc3ce162f7ed484671aa71950c5a5267963c5c286987f6a6b2cf30",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-03-23-117.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-03-23;117"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000407_121/2000-05-16_000G0168_ORIGINALE_V0.xml": {
-      "sha256": "3db3c64ab6c962cf912767cb15a4889064abbfce048bcd29a1427fa8a10d2f92"
+      "sha256": "3db3c64ab6c962cf912767cb15a4889064abbfce048bcd29a1427fa8a10d2f92",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-04-07-121.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-04-07;121"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000619_177/2000-07-01_000G0226_ORIGINALE_V0.xml": {
-      "sha256": "ddb44ead8608b2e84333b4f5c633275f61e02be85ebd6973d32f3d92db9a2428"
+      "sha256": "ddb44ead8608b2e84333b4f5c633275f61e02be85ebd6973d32f3d92db9a2428",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-06-19-177.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-06-19;177"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000707_442/2001-02-13_001G0054_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "117b8cd7544c6fad80acbbf8b47f7dd157390fc48aabe5f1bb1bccbb9674de51"
+      "sha256": "117b8cd7544c6fad80acbbf8b47f7dd157390fc48aabe5f1bb1bccbb9674de51",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-07-07-442.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-07-07;442"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000724_255/2000-09-12_000G0308_ORIGINALE_V0.xml": {
-      "sha256": "7e61c16ba06c84bcb1384e4e5ac1019e5c249c3e085dbefed38fb982283fc30a"
+      "sha256": "7e61c16ba06c84bcb1384e4e5ac1019e5c249c3e085dbefed38fb982283fc30a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-07-24-255.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-07-24;255"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000728_314/2000-11-02_000G0365_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "6a09b47fb7aa4abda5de3b206eaad4137f86cb2667bb6a6b763e159359d49224"
+      "sha256": "6a09b47fb7aa4abda5de3b206eaad4137f86cb2667bb6a6b763e159359d49224",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-07-28-314.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-07-28;314"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000818_308/2000-10-30_000G0356_ORIGINALE_V0.xml": {
-      "sha256": "ab44dc1325638fc6abdae640cc7212f658fa7361c96b706d9f4500ef76145e58"
+      "sha256": "ab44dc1325638fc6abdae640cc7212f658fa7361c96b706d9f4500ef76145e58",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-08-18-308.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-08-18;308"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000908_299/2000-10-24_000G0349_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "ec131d59d94e96d61b35dff6cf3589685f06f0cae46181e9d2d692e89478c642"
+      "sha256": "ec131d59d94e96d61b35dff6cf3589685f06f0cae46181e9d2d692e89478c642",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-09-08-299.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-09-08;299"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000919_358/2000-12-06_000G0405_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "9711bfb57931f80c9eb88d534208aac367c04d06954d381afc027e378e52dea0"
+      "sha256": "9711bfb57931f80c9eb88d534208aac367c04d06954d381afc027e378e52dea0",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-09-19-358.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-09-19;358"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000927_315/2000-11-02_000G0364_ORIGINALE_V0.xml": {
-      "sha256": "10c85435d0f94e0caac303d1e3f31b90ae22b2fbb00c4f097837a7abea1ab138"
+      "sha256": "10c85435d0f94e0caac303d1e3f31b90ae22b2fbb00c4f097837a7abea1ab138",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-09-27-315.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-09-27;315"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20000929_367/2000-12-12_000G0416_ORIGINALE_V0.xml": {
-      "sha256": "739b5e03e77e5d72e2718ed9adc8f0b002a79021c9d2090fa0d8bd03c2ee0df4"
+      "sha256": "739b5e03e77e5d72e2718ed9adc8f0b002a79021c9d2090fa0d8bd03c2ee0df4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-09-29-367.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-09-29;367"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20001010_333/2000-11-18_000G0383_VIGENZA_2026-03-10_V0.xml": {
-      "sha256": "d930e91b9f03a202de91717dd91c73785f595dffe7f878384f53504a94257e8c"
+      "sha256": "d930e91b9f03a202de91717dd91c73785f595dffe7f878384f53504a94257e8c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-10-10-333.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-10-10;333"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20001103_396/2000-12-30_000G0442_VIGENZA_2026-02-20_V0.xml": {
-      "sha256": "9289a2240f41fab6d1bc5f0606cc5108ea063485a8db8c3f90493d4a53586215"
+      "sha256": "9289a2240f41fab6d1bc5f0606cc5108ea063485a8db8c3f90493d4a53586215",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-11-03-396.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-11-03;396"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20001117_387/2000-12-28_000G0434_ORIGINALE_V0.xml": {
-      "sha256": "60507081ba1616aa707ab9e24fefa285ac0bd9f1976c10a33a077d32dc671cd8"
+      "sha256": "60507081ba1616aa707ab9e24fefa285ac0bd9f1976c10a33a077d32dc671cd8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-11-17-387.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-11-17;387"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20001123_402/2001-01-08_000G0446_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "92d674a548944dc7c5b8f0972f51a32be8ac2b8ce3193ce6803b885855aacba3"
+      "sha256": "92d674a548944dc7c5b8f0972f51a32be8ac2b8ce3193ce6803b885855aacba3",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-11-23-402.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-11-23;402"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20001201_425/2001-01-22_001G0026_ORIGINALE_V0.xml": {
-      "sha256": "a579cee885169bc8466c258be3dadb396448d3981a48074d5d451a0dab17af3e"
+      "sha256": "a579cee885169bc8466c258be3dadb396448d3981a48074d5d451a0dab17af3e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-12-01-425.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-01;425"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20001215_438/2001-02-07_001G0051_ORIGINALE_V0.xml": {
-      "sha256": "518e3102ccb6fd7d6994e03529a0ddf163870424071566d4cafb66a40671755d"
+      "sha256": "518e3102ccb6fd7d6994e03529a0ddf163870424071566d4cafb66a40671755d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-12-15-438.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-15;438"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20001215_439/2001-02-08_001G0052_ORIGINALE_V0.xml": {
-      "sha256": "0b2255b2a4ebd98d1a7b1ba3bad5e604b2c9d8b24140d389da6f4c17d36323bc"
+      "sha256": "0b2255b2a4ebd98d1a7b1ba3bad5e604b2c9d8b24140d389da6f4c17d36323bc",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-12-15-439.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-15;439"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20001219_449/2001-03-06_001G0089_ORIGINALE_V0.xml": {
-      "sha256": "76c6e497323ac08f48e9e93b4494d4d8aa2a9054803249606ba0648ae726697b"
+      "sha256": "76c6e497323ac08f48e9e93b4494d4d8aa2a9054803249606ba0648ae726697b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-12-19-449.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-19;449"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20001229_416/2001-01-18_001G0021_ORIGINALE_V0.xml": {
-      "sha256": "9031eab7563d8c1a59b0165048b02d86b8c79b31fb90487a61316f89e3615d9f"
+      "sha256": "9031eab7563d8c1a59b0165048b02d86b8c79b31fb90487a61316f89e3615d9f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2000-12-29-416.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-29;416"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010108_37/2001-03-07_001G0091_ORIGINALE_V0.xml": {
-      "sha256": "87289defc26cc481d4afbe442595462f7cdebcf46b595a13268da09ad9be90e6"
+      "sha256": "87289defc26cc481d4afbe442595462f7cdebcf46b595a13268da09ad9be90e6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-01-08-37.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-01-08;37"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010111_101/2001-04-05_001G0154_ORIGINALE_V0.xml": {
-      "sha256": "3fa2464dd313a5cd16b42acb87f285ec991a9552a0bac92286a9affdd2d33d89"
+      "sha256": "3fa2464dd313a5cd16b42acb87f285ec991a9552a0bac92286a9affdd2d33d89",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-01-11-101.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-01-11;101"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010115_54/2001-03-16_001G0105_ORIGINALE_V0.xml": {
-      "sha256": "321c1ff426f401e355fa1a4ea272b696cbd7c695d261719cf39c6c93852fa527"
+      "sha256": "321c1ff426f401e355fa1a4ea272b696cbd7c695d261719cf39c6c93852fa527",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-01-15-54.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-01-15;54"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010117_65/2001-03-22_001G0120_ORIGINALE_V0.xml": {
-      "sha256": "9265d29a6bc4a0ef69c96c763360daccb344ceac8adc0564491e41b15128ff54"
+      "sha256": "9265d29a6bc4a0ef69c96c763360daccb344ceac8adc0564491e41b15128ff54",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-01-17-65.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-01-17;65"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010209_161/2001-05-08_001G0217_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a6288ed52c6a0c3f4e97fea5147fbbd0e5aca2d06c516414480f3e5b27b43799"
+      "sha256": "a6288ed52c6a0c3f4e97fea5147fbbd0e5aca2d06c516414480f3e5b27b43799",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-02-09-161.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-02-09;161"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010209_187/2001-05-22_001G0242_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "fabdd2c6092d74c5c9be81eeb7fd4434ca4072f1f6355adb79785c94800cf06a"
+      "sha256": "fabdd2c6092d74c5c9be81eeb7fd4434ca4072f1f6355adb79785c94800cf06a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-02-09-187.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-02-09;187"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010213_189/2001-05-23_001G0245_ORIGINALE_V0.xml": {
-      "sha256": "9a8497605fec638b0f40eef57ea4a92d99de7d470390998da254877c7b86d0f2"
+      "sha256": "9a8497605fec638b0f40eef57ea4a92d99de7d470390998da254877c7b86d0f2",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-02-13-189.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-02-13;189"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010213_213/2001-06-08_001G0274_ORIGINALE_V0.xml": {
-      "sha256": "71ea274b5d7924fa3cb4872099c90fb3ed2ee3d97628f3abdfaf4df9feaf0abf"
+      "sha256": "71ea274b5d7924fa3cb4872099c90fb3ed2ee3d97628f3abdfaf4df9feaf0abf",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-02-13-213.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-02-13;213"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010314_144/2001-04-23_001G0197_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "57ce5a1bf76df6729fdfea1318024da88b04e39f36b631fca2fc9427f2bc4084"
+      "sha256": "57ce5a1bf76df6729fdfea1318024da88b04e39f36b631fca2fc9427f2bc4084",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-03-14-144.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-14;144"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010322_208/2001-06-05_001G0267_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a5bc7baf8c268aad762d857aec9380e81ec02a5cc3d44c40c1ea8e84729aa0aa"
+      "sha256": "a5bc7baf8c268aad762d857aec9380e81ec02a5cc3d44c40c1ea8e84729aa0aa",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-03-22-208.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-22;208"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010404_235/2001-06-20_001G0291_ORIGINALE_V0.xml": {
-      "sha256": "65a4a2fedd1be49c3fd08d73fe1539432deb2738168f1ba1df8a6d501347396f"
+      "sha256": "65a4a2fedd1be49c3fd08d73fe1539432deb2738168f1ba1df8a6d501347396f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-04-04-235.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-04-04;235"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010406_218/2001-06-12_001G0278_ORIGINALE_V0.xml": {
-      "sha256": "68468bdf9f07ce3d759002b965f26b3df73df99b38ed338942e70d1f41278973"
+      "sha256": "68468bdf9f07ce3d759002b965f26b3df73df99b38ed338942e70d1f41278973",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-04-06-218.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-04-06;218"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010412_222/2001-06-13_001G0281_ORIGINALE_V0.xml": {
-      "sha256": "149d64745c3600f516c27fa80e35e88e6f30761366c5455b4e9d2695d8a47a9e"
+      "sha256": "149d64745c3600f516c27fa80e35e88e6f30761366c5455b4e9d2695d8a47a9e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-04-12-222.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-04-12;222"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010419_253/2001-07-03_001G0310_ORIGINALE_V0.xml": {
-      "sha256": "ec81f7be56bd4103e1f1bfb0145ac7cbebeb90cb54b10710e1623790411ff075"
+      "sha256": "ec81f7be56bd4103e1f1bfb0145ac7cbebeb90cb54b10710e1623790411ff075",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-04-19-253.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-04-19;253"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010423_290/2001-07-18_001G0351_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "141c6b72ae7155f44b0b6abfa099be0a3e338bb294b9e3f9af38d3d8ed057493"
+      "sha256": "141c6b72ae7155f44b0b6abfa099be0a3e338bb294b9e3f9af38d3d8ed057493",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-04-23-290.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-04-23;290"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010424_270/2001-07-07_001G0328_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "470f2c16923661e0f89c7a1b4bb78ddc7b5fec1f6906a36ba6dce83f468638c9"
+      "sha256": "470f2c16923661e0f89c7a1b4bb78ddc7b5fec1f6906a36ba6dce83f468638c9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-04-24-270.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-04-24;270"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010518_310/2001-08-02_001G0374_ORIGINALE_V0.xml": {
-      "sha256": "1a3774557646bda66b538374452dfc36a0b4f7fd134bc8c5cfa05eb1c64f7909"
+      "sha256": "1a3774557646bda66b538374452dfc36a0b4f7fd134bc8c5cfa05eb1c64f7909",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-05-18-310.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-05-18;310"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010524_254/2001-07-03_001G0311_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "50b182026e1ccac8dfa7cf7d864b8904011b3c930595a3fb9f5948c03e6a6c52"
+      "sha256": "50b182026e1ccac8dfa7cf7d864b8904011b3c930595a3fb9f5948c03e6a6c52",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-05-24-254.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-05-24;254"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010528_311/2001-08-02_001G0375_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a26fcd9a553363e9b660239d632816f1bbd5c3c319b07befb006e779c388da4e"
+      "sha256": "a26fcd9a553363e9b660239d632816f1bbd5c3c319b07befb006e779c388da4e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-05-28-311.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-05-28;311"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010804_352/2001-09-26_001G0408_ORIGINALE_V0.xml": {
-      "sha256": "7e7fecbf346ebe4ae2af30aff8ea2e6121dac111c21a663bdddd6a26e713c91b"
+      "sha256": "7e7fecbf346ebe4ae2af30aff8ea2e6121dac111c21a663bdddd6a26e713c91b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-08-04-352.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-08-04;352"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010820_361/2001-10-04_001G0419_ORIGINALE_V0.xml": {
-      "sha256": "61b08cd72b6c9bdb47cd15e949dcceec17dbdc6674e6dcc90c5e60118ab68c58"
+      "sha256": "61b08cd72b6c9bdb47cd15e949dcceec17dbdc6674e6dcc90c5e60118ab68c58",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-08-20-361.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-08-20;361"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010820_363/2001-10-05_001G0421_ORIGINALE_V0.xml": {
-      "sha256": "2b9e327b61717e8464c2d4f5abe29ff13f62c6684d08620198f1982ecc9aab0e"
+      "sha256": "2b9e327b61717e8464c2d4f5abe29ff13f62c6684d08620198f1982ecc9aab0e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-08-20-363.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-08-20;363"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20010921_439/2001-12-19_001G0499_ORIGINALE_V0.xml": {
-      "sha256": "28cdbeb042df7977d4340918fe6ad2567fb30039120c164d1628c6245ccd02a7"
+      "sha256": "28cdbeb042df7977d4340918fe6ad2567fb30039120c164d1628c6245ccd02a7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-09-21-439.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-09-21;439"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011005_404/2001-11-16_001G0463_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "29bfb20c3ec785a254752689cc3fd5589cc460f3c77c6791cca5d996c18e6560"
+      "sha256": "29bfb20c3ec785a254752689cc3fd5589cc460f3c77c6791cca5d996c18e6560",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-10-05-404.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-10-05;404"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011022_462/2002-01-08_001G0521_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "84cf4a94f3be291ec1a1d04bb2d69bfdd870578bb1979106005c78707d3c0e9e"
+      "sha256": "84cf4a94f3be291ec1a1d04bb2d69bfdd870578bb1979106005c78707d3c0e9e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-10-22-462.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-10-22;462"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011026_416/2001-11-28_001G0473_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "8594271bd2272e7b72212789ce0b68b74fd2d709416e0c2bb1c7f036d3963593"
+      "sha256": "8594271bd2272e7b72212789ce0b68b74fd2d709416e0c2bb1c7f036d3963593",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-10-26-416.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-10-26;416"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011026_430/2001-12-13_001G0490_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "48fc08ceb8268b77368b38907d36506bda19f4e778beda853073f271b36f34bd"
+      "sha256": "48fc08ceb8268b77368b38907d36506bda19f4e778beda853073f271b36f34bd",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-10-26-430.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-10-26;430"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011029_461/2002-01-07_001G0516_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "631791d5fa10c1f8cb91adbbec1e6996b11c3623209632139b40b6b49dc0cabb"
+      "sha256": "631791d5fa10c1f8cb91adbbec1e6996b11c3623209632139b40b6b49dc0cabb",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-10-29-461.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-10-29;461"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011106_427/2001-12-11_001G0485_ORIGINALE_V0.xml": {
-      "sha256": "f9d68fc19e8ebbcd1194ef6207293853fafea257f847abf14597d6128ff854cb"
+      "sha256": "f9d68fc19e8ebbcd1194ef6207293853fafea257f847abf14597d6128ff854cb",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-11-06-427.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-11-06;427"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011107_464/2002-01-09_002G0002_ORIGINALE_V0.xml": {
-      "sha256": "1099f43302d1a34fddd6c2e8659e6e1f54c6120086a48e9974ec8a93314714b6"
+      "sha256": "1099f43302d1a34fddd6c2e8659e6e1f54c6120086a48e9974ec8a93314714b6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-11-07-464.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-11-07;464"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011107_465/2002-01-09_002G0003_ORIGINALE_V0.xml": {
-      "sha256": "1d161ef0c033c7246e452b8046c82294a5143746dd2efcce456a1549c0809dbc"
+      "sha256": "1d161ef0c033c7246e452b8046c82294a5143746dd2efcce456a1549c0809dbc",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-11-07-465.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-11-07;465"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011124_474/2002-01-30_002G0018_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "70db79c17465212ac51a72c21c1555f1123e5a1185b86229e2311760a5257372"
+      "sha256": "70db79c17465212ac51a72c21c1555f1123e5a1185b86229e2311760a5257372",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-11-24-474.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-11-24;474"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011207_435/2001-12-17_001G0501_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "435c3cd39f06ca20e40002611dea03315f1859439d5b62ce7fb82e2f2d8c4607"
+      "sha256": "435c3cd39f06ca20e40002611dea03315f1859439d5b62ce7fb82e2f2d8c4607",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-12-07-435.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;435"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011207_476/2002-02-05_002G0020_ORIGINALE_V0.xml": {
-      "sha256": "632788f34b1294e1b1f13d149837c253b23eff016f1d35a868ae0c5463294a67"
+      "sha256": "632788f34b1294e1b1f13d149837c253b23eff016f1d35a868ae0c5463294a67",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-12-07-476.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-07;476"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011211_466/2002-01-12_002G0006_ORIGINALE_V0.xml": {
-      "sha256": "fec614a3fa4122da81f0b6107bfb1f3fd8c1cdc9c367a8f3ea0bdf8a66244df1"
+      "sha256": "fec614a3fa4122da81f0b6107bfb1f3fd8c1cdc9c367a8f3ea0bdf8a66244df1",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-12-11-466.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-11;466"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011215_482/2002-02-14_002G0028_ORIGINALE_V0.xml": {
-      "sha256": "0e031551e52564bd033b3d22bcc0a4b5b32e35b093203fc303487c9c12f3a1af"
+      "sha256": "0e031551e52564bd033b3d22bcc0a4b5b32e35b093203fc303487c9c12f3a1af",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-12-15-482.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-15;482"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011218_483/2002-02-15_002G0030_ORIGINALE_V0.xml": {
-      "sha256": "6dd7935048179706ed53bd51d4a1cad4dc554cb7953612a5aed61f091734d37b"
+      "sha256": "6dd7935048179706ed53bd51d4a1cad4dc554cb7953612a5aed61f091734d37b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-12-18-483.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-18;483"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011219_480/2002-02-13_002G0024_ORIGINALE_V0.xml": {
-      "sha256": "ec7bcc059da62b485b1ccc32451bcb37a6da5e9bd954237c3f6308881adc9302"
+      "sha256": "ec7bcc059da62b485b1ccc32451bcb37a6da5e9bd954237c3f6308881adc9302",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-12-19-480.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-19;480"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20011219_481/2002-02-13_002G0025_ORIGINALE_V0.xml": {
-      "sha256": "b6126d81d8dca73bc56f34b125253229ce7ef903702010045698c4fdc1eaa74c"
+      "sha256": "b6126d81d8dca73bc56f34b125253229ce7ef903702010045698c4fdc1eaa74c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2001-12-19-481.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2001-12-19;481"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020116_18/2002-02-27_002G0036_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "46c02bac14624e9dad08ce828b1b8f2ee0198511317e6c05cf77f48e82a84d14"
+      "sha256": "46c02bac14624e9dad08ce828b1b8f2ee0198511317e6c05cf77f48e82a84d14",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-01-16-18.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-01-16;18"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020124_33/2002-03-15_002G0058_ORIGINALE_V0.xml": {
-      "sha256": "126fa0849dc196c6ce8428dc208057fafdc5a22d313d4b47f8c28085759c79c8"
+      "sha256": "126fa0849dc196c6ce8428dc208057fafdc5a22d313d4b47f8c28085759c79c8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-01-24-33.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-01-24;33"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020308_66/2002-04-18_002G0091_ORIGINALE_V0.xml": {
-      "sha256": "164008d9343aabfa6e6d5983752edaccb178647f8b3f9a7714caec3ee88e7df0"
+      "sha256": "164008d9343aabfa6e6d5983752edaccb178647f8b3f9a7714caec3ee88e7df0",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-03-08-66.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-03-08;66"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020313_69/2002-04-19_002G0096_ORIGINALE_V0.xml": {
-      "sha256": "4f2146c20e224dee20590f04210dd27f900d501d04f933c93ca50c41b71570eb"
+      "sha256": "4f2146c20e224dee20590f04210dd27f900d501d04f933c93ca50c41b71570eb",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-03-13-69.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-03-13;69"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020320_57/2002-04-11_002G0085_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "15ff7d0e2f62564e6c8b585b05ced962ff57e809ee6da89f357b5f82174ed40a"
+      "sha256": "15ff7d0e2f62564e6c8b585b05ced962ff57e809ee6da89f357b5f82174ed40a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-03-20-57.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-03-20;57"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020430_132/2002-07-05_002G0164_ORIGINALE_V0.xml": {
-      "sha256": "51d9dc6a53f207afa8bf67c78cd4fdff21d1dd7084dd85d01a67b62d0f156a10"
+      "sha256": "51d9dc6a53f207afa8bf67c78cd4fdff21d1dd7084dd85d01a67b62d0f156a10",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-04-30-132.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-04-30;132"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020507_129/2002-07-04_002G0161_ORIGINALE_V0.xml": {
-      "sha256": "29b01678ac59eb05c8bd1e166b5bd3d93f65714c452ac97ff67f3b081fbb2770"
+      "sha256": "29b01678ac59eb05c8bd1e166b5bd3d93f65714c452ac97ff67f3b081fbb2770",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-05-07-129.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-07;129"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020705_152/2002-07-26_002G0189_ORIGINALE_V0.xml": {
-      "sha256": "7cc7e52e76951d46ac91586bef599ec421f190f5a09c3c7830152595b9130482"
+      "sha256": "7cc7e52e76951d46ac91586bef599ec421f190f5a09c3c7830152595b9130482",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-07-05-152.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-07-05;152"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020801_211/2002-09-25_002G0240_ORIGINALE_V0.xml": {
-      "sha256": "03549aeffb77e1f96934724d558b6acaf13bf9ae1d44f0c1f345cb975837ff6f"
+      "sha256": "03549aeffb77e1f96934724d558b6acaf13bf9ae1d44f0c1f345cb975837ff6f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-08-01-211.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-08-01;211"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020802_215/2002-09-28_002G0246_ORIGINALE_V0.xml": {
-      "sha256": "190edd98125eca1aae7bd2971cf1b6480b2a2d21afb637432d34bab75fb36b10"
+      "sha256": "190edd98125eca1aae7bd2971cf1b6480b2a2d21afb637432d34bab75fb36b10",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-08-02-215.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-08-02;215"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020808_207/2002-09-21_002G0239_ORIGINALE_V0.xml": {
-      "sha256": "aeec6ed2d488700ad5ee70294b98fcd83d1d2c6116dd8d2831983b10f3463275"
+      "sha256": "aeec6ed2d488700ad5ee70294b98fcd83d1d2c6116dd8d2831983b10f3463275",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-08-08-207.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-08-08;207"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20020912_237/2002-10-29_002G0268_ORIGINALE_V0.xml": {
-      "sha256": "c1e82d381c471182566717458ae0772b88027207c8b094812f372d145506197c"
+      "sha256": "c1e82d381c471182566717458ae0772b88027207c8b094812f372d145506197c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-09-12-237.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-09-12;237"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20021106_293/2003-01-02_002G0324_ORIGINALE_V0.xml": {
-      "sha256": "6d5935a70f8eaae6ca873d27128b61a465b7dbd2f29c0d6c8f429ab84023e100"
+      "sha256": "6d5935a70f8eaae6ca873d27128b61a465b7dbd2f29c0d6c8f429ab84023e100",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-11-06-293.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-06;293"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20021128_298/2003-01-16_003G0003_ORIGINALE_V0.xml": {
-      "sha256": "1dc030b28bbd1c99533566657a0e33f01c00b8719df684a6772cfc9cee93371d"
+      "sha256": "1dc030b28bbd1c99533566657a0e33f01c00b8719df684a6772cfc9cee93371d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-11-28-298.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-28;298"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20021218_316/2003-03-26_003G0066_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a073d47931812f9438c758db862e20843c319e1f66b91b1b7dc33e9765f4adaa"
+      "sha256": "a073d47931812f9438c758db862e20843c319e1f66b91b1b7dc33e9765f4adaa",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2002-12-18-316.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2002-12-18;316"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030204_58/2003-04-07_003G0079_ORIGINALE_V0.xml": {
-      "sha256": "e36a6bc85db661498634457d449033d4639d873e3b4ba883248a181564bfdaae"
+      "sha256": "e36a6bc85db661498634457d449033d4639d873e3b4ba883248a181564bfdaae",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-02-04-58.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-02-04;58"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030217_84/2003-04-19_003G0096_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "7f71b21f29dddf6788766737cb262c40e301836ab510b7a2521baf5b16ab7355"
+      "sha256": "7f71b21f29dddf6788766737cb262c40e301836ab510b7a2521baf5b16ab7355",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-02-17-84.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-02-17;84"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030228_132/2003-06-13_003G0159_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "d9e1a05b26be3c5cae7516a643f640d6141e150602c22a43fde1e300365eefb9"
+      "sha256": "d9e1a05b26be3c5cae7516a643f640d6141e150602c22a43fde1e300365eefb9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-02-28-132.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-02-28;132"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030402_104/2003-05-13_003G0128_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "34427684a627edf49d9d0f7f636fe71d47d68321ab7911954ff4bbb75e7e20b7"
+      "sha256": "34427684a627edf49d9d0f7f636fe71d47d68321ab7911954ff4bbb75e7e20b7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-04-02-104.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-04-02;104"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030407_137/2003-06-17_003G0158_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "78fb8cc379741810d570a37f93087236371e946e27dc2890bf5036a4c8a8eb4a"
+      "sha256": "78fb8cc379741810d570a37f93087236371e946e27dc2890bf5036a4c8a8eb4a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-04-07-137.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-04-07;137"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030416_126/2003-06-05_003G0150_ORIGINALE_V0.xml": {
-      "sha256": "304aedbb66d51f96395991a105a7108e0c0012a3ba5d16db085c763fef6930f7"
+      "sha256": "304aedbb66d51f96395991a105a7108e0c0012a3ba5d16db085c763fef6930f7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-04-16-126.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-04-16;126"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20030715_254/2003-09-11_003G0282_ORIGINALE_V0.xml": {
-      "sha256": "1f0a36ab0daa60b331b9fad62219253bb0651d6c54d704b2d0e817f19721e98d"
+      "sha256": "1f0a36ab0daa60b331b9fad62219253bb0651d6c54d704b2d0e817f19721e98d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-07-15-254.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-07-15;254"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20031124_357/2003-12-29_003G0379_ORIGINALE_V0.xml": {
-      "sha256": "ac01e93846929e70363c437ae2b9024cf98d286b5d91bf4c0fb1b7b68b212c7f"
+      "sha256": "ac01e93846929e70363c437ae2b9024cf98d286b5d91bf4c0fb1b7b68b212c7f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-11-24-357.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-11-24;357"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20031229_393/2004-02-19_004G0065_ORIGINALE_V0.xml": {
-      "sha256": "7ae0aab1437a00acf16a4ca23639b73b97abb481f540554319766b53edd5a530"
+      "sha256": "7ae0aab1437a00acf16a4ca23639b73b97abb481f540554319766b53edd5a530",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2003-12-29-393.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2003-12-29;393"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20040302_117/2004-05-06_004G0146_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "0c263bbd55da286a3a3b5b40d0aceb82efc21ab55ea9933a8052797c218d34df"
+      "sha256": "0c263bbd55da286a3a3b5b40d0aceb82efc21ab55ea9933a8052797c218d34df",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2004-03-02-117.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2004-03-02;117"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20040310_93/2004-04-13_004G0128_ORIGINALE_V0.xml": {
-      "sha256": "5bbb0943e1d77e5d6a4cebc5d46b43887b3a2df1ceb5a12f77852384c6d683e0"
+      "sha256": "5bbb0943e1d77e5d6a4cebc5d46b43887b3a2df1ceb5a12f77852384c6d683e0",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2004-03-10-93.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2004-03-10;93"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20040617_217/2004-08-19_004G0252_ORIGINALE_V0.xml": {
-      "sha256": "ce499c72f2f5420bab4f3b598693f9778f740b837e6592b13cb4ee325f3c2a17"
+      "sha256": "ce499c72f2f5420bab4f3b598693f9778f740b837e6592b13cb4ee325f3c2a17",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2004-06-17-217.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2004-06-17;217"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20040702_224/2004-08-24_004G0255_ORIGINALE_V0.xml": {
-      "sha256": "ec98addbebc58f13dcbede4943ee169e35ed5a6c7510e352f91a4c14569eeb07"
+      "sha256": "ec98addbebc58f13dcbede4943ee169e35ed5a6c7510e352f91a4c14569eeb07",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2004-07-02-224.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2004-07-02;224"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20040723_247/2004-10-04_004G0279_ORIGINALE_V0.xml": {
-      "sha256": "d57783207e54ebfc8df54aab34be7cdc1b9fb89f602499f7ac4e8b9b51bb0dcc"
+      "sha256": "d57783207e54ebfc8df54aab34be7cdc1b9fb89f602499f7ac4e8b9b51bb0dcc",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2004-07-23-247.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2004-07-23;247"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20041222_340/2005-03-14_005G0056_ORIGINALE_V0.xml": {
-      "sha256": "5e6e3a52930736db4a94d0bb5843b30718aa12052e0dfbcff13d25ee6205d5e6"
+      "sha256": "5e6e3a52930736db4a94d0bb5843b30718aa12052e0dfbcff13d25ee6205d5e6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2004-12-22-340.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2004-12-22;340"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20050211_68/2005-04-28_005G0091_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "73aaaee0133e2ea7f84dc8671d1602a697d969b0cf7159d68691662bfb75b1b3"
+      "sha256": "73aaaee0133e2ea7f84dc8671d1602a697d969b0cf7159d68691662bfb75b1b3",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2005-02-11-68.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2005-02-11;68"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20050708_169/2005-08-26_005G0199_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "ac3763ca95d7f4e90b555ef0cff598e32f953aca140455fc0e518ec6d7b84a19"
+      "sha256": "ac3763ca95d7f4e90b555ef0cff598e32f953aca140455fc0e518ec6d7b84a19",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2005-07-08-169.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2005-07-08;169"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20050708_212/2005-10-18_005G0236_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "d1ff467708cc7e120b686ed78f719f63ad0d99839767a19ca70f00907c91b22f"
+      "sha256": "d1ff467708cc7e120b686ed78f719f63ad0d99839767a19ca70f00907c91b22f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2005-07-08-212.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2005-07-08;212"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20050913_296/2006-02-02_006G0032_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "592fff3e2857b68c9e08185cfc53eeba15ba0e6e77ab93f94a9cf9e33b9651d6"
+      "sha256": "592fff3e2857b68c9e08185cfc53eeba15ba0e6e77ab93f94a9cf9e33b9651d6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2005-09-13-296.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2005-09-13;296"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20051109_304/2006-03-10_006G0099_ORIGINALE_V0.xml": {
-      "sha256": "dbffdd2a91e34cd7fa9947478e88a317b2bcc6c1e46ce39c35289cdb45e57a70"
+      "sha256": "dbffdd2a91e34cd7fa9947478e88a317b2bcc6c1e46ce39c35289cdb45e57a70",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2005-11-09-304.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2005-11-09;304"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20051111_255/2005-12-19_005G0281_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "72943912e68070ed8904295435464153b7b3ef8c82ea3987fb63c5d779df7cf5"
+      "sha256": "72943912e68070ed8904295435464153b7b3ef8c82ea3987fb63c5d779df7cf5",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2005-11-11-255.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2005-11-11;255"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20051117_259/2005-12-23_005G0286_ORIGINALE_V0.xml": {
-      "sha256": "b38389d527f9cde475ed36d65ccaa6aab35d714a8d0b223504872fabf68b6f44"
+      "sha256": "b38389d527f9cde475ed36d65ccaa6aab35d714a8d0b223504872fabf68b6f44",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2005-11-17-259.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2005-11-17;259"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20060403_199/2006-05-31_006G0219_ORIGINALE_V0.xml": {
-      "sha256": "b8d639dbbb3d0775523fab3e01a1ed8950998909708dde50b5dea0cd94fcb165"
+      "sha256": "b8d639dbbb3d0775523fab3e01a1ed8950998909708dde50b5dea0cd94fcb165",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2006-04-03-199.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2006-04-03;199"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20060412_184/2006-05-18_006G0200_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a99e0fc334f3681e13cd632b52a4257f4d8561b9ecd920be5a06bdb3003e8f1f"
+      "sha256": "a99e0fc334f3681e13cd632b52a4257f4d8561b9ecd920be5a06bdb3003e8f1f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2006-04-12-184.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2006-04-12;184"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20060418_231/2006-07-13_006G0249_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "06b0ceeea3a432ae0ed578028a5b5406ac0c2b3b785cdbedfd56283b129d43dc"
+      "sha256": "06b0ceeea3a432ae0ed578028a5b5406ac0c2b3b785cdbedfd56283b129d43dc",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2006-04-18-231.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2006-04-18;231"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20060503_252/2006-08-18_006G0272_ORIGINALE_V0.xml": {
-      "sha256": "427e06651f9d793411fd8bdf8b8719f4cd5e16ccf22503e634cc35ec945fe13b"
+      "sha256": "427e06651f9d793411fd8bdf8b8719f4cd5e16ccf22503e634cc35ec945fe13b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2006-05-03-252.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2006-05-03;252"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20060718_254/2006-08-28_006G0273_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "b74b3b6c339856531e9ab5c492f51135ab995cbdccb27ce0bce8e403f3a105c9"
+      "sha256": "b74b3b6c339856531e9ab5c492f51135ab995cbdccb27ce0bce8e403f3a105c9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2006-07-18-254.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2006-07-18;254"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20060801_256/2006-09-01_006G0276_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "8514dd3be2ecae063341f149528f13000d6719303a3abd658e3199c4b3fb3abf"
+      "sha256": "8514dd3be2ecae063341f149528f13000d6719303a3abd658e3199c4b3fb3abf",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2006-08-01-256.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2006-08-01;256"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20060918_276/2006-11-07_006G0296_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "51586b7167a35bdf820f42bcaa0bbbf3b78c1158ef796a9feb24494e484409b4"
+      "sha256": "51586b7167a35bdf820f42bcaa0bbbf3b78c1158ef796a9feb24494e484409b4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2006-09-18-276.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2006-09-18;276"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20061031_295/2006-12-23_006G0316_ORIGINALE_V0.xml": {
-      "sha256": "a1d3ec0bcbcb5363130b2b0b175019481697ce0e05ba290abf8b91a181b74707"
+      "sha256": "a1d3ec0bcbcb5363130b2b0b175019481697ce0e05ba290abf8b91a181b74707",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2006-10-31-295.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2006-10-31;295"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20061212_315/2007-02-15_007G0020_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "83bcb804af6f64c451b02aa179cc4b7c42758a65671c0f36ab2d5865ea150b54"
+      "sha256": "83bcb804af6f64c451b02aa179cc4b7c42758a65671c0f36ab2d5865ea150b54",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2006-12-12-315.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2006-12-12;315"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070328_75/2007-06-19_007G0089_ORIGINALE_V0.xml": {
-      "sha256": "3b7739b4f1c9b0c8569e499baf5f530914a732c3aabadaebed27efe728ea2573"
+      "sha256": "3b7739b4f1c9b0c8569e499baf5f530914a732c3aabadaebed27efe728ea2573",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-03-28-75.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-03-28;75"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070404_70/2007-06-13_007G0085_ORIGINALE_V0.xml": {
-      "sha256": "56c529f6a96dd3e35de6d4f99086d887b32ea9d7ba5a356395fa9aa869fe7722"
+      "sha256": "56c529f6a96dd3e35de6d4f99086d887b32ea9d7ba5a356395fa9aa869fe7722",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-04-04-70.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-04-04;70"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_101/2007-07-20_007G0115_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "45790f256a53d29a0139a933ba993e359c2df1c94016f9fe16f3b57801191e5b"
+      "sha256": "45790f256a53d29a0139a933ba993e359c2df1c94016f9fe16f3b57801191e5b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-101.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;101"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_102/2007-07-20_007G0116_ORIGINALE_V0.xml": {
-      "sha256": "e7d3ad3b69c7ab9d56025b15364879712cc1a8bc56eca1ebd904fcf2f0a81ef3"
+      "sha256": "e7d3ad3b69c7ab9d56025b15364879712cc1a8bc56eca1ebd904fcf2f0a81ef3",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-102.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;102"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_103/2007-07-23_007G0118_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "567ec346266a082432a2c6ab80984328b4fa8d1fe6c2658a474a934c6e6ce9df"
+      "sha256": "567ec346266a082432a2c6ab80984328b4fa8d1fe6c2658a474a934c6e6ce9df",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-103.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;103"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_104/2007-07-24_007G0119_ORIGINALE_V0.xml": {
-      "sha256": "a0065d14e46034d0549ce474ed23d8c3c28e804ad1ffbd89de3bebcd77a63167"
+      "sha256": "a0065d14e46034d0549ce474ed23d8c3c28e804ad1ffbd89de3bebcd77a63167",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-104.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;104"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_107/2007-07-25_007G0121_ORIGINALE_V0.xml": {
-      "sha256": "ece4c7cb24f7d62f2c39d14af5f44c2ad292774548819f3b6bf7f54a6007f8bb"
+      "sha256": "ece4c7cb24f7d62f2c39d14af5f44c2ad292774548819f3b6bf7f54a6007f8bb",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-107.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;107"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_114/2007-07-31_007G0127_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "f913fb5d58a0452596f06c728d41743b99748ecd0197993ae0cd7be8bf3416f3"
+      "sha256": "f913fb5d58a0452596f06c728d41743b99748ecd0197993ae0cd7be8bf3416f3",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-114.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;114"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_115/2007-08-01_007G0128_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "85a47acd10a713fce305c3714880910be515449c1c47ca279a5835c5b01d1fb9"
+      "sha256": "85a47acd10a713fce305c3714880910be515449c1c47ca279a5835c5b01d1fb9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-115.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;115"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_72/2007-06-15_007G0087_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "190b6d5d94acf620bdce7ee9a4f6eda925542fd5f8061c1448e3e06e4345de1d"
+      "sha256": "190b6d5d94acf620bdce7ee9a4f6eda925542fd5f8061c1448e3e06e4345de1d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-72.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;72"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_78/2007-06-21_007G0091_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "3a0914982e9395095ca6bb903479d3eb17985806b20ec98669d927c291dfe5eb"
+      "sha256": "3a0914982e9395095ca6bb903479d3eb17985806b20ec98669d927c291dfe5eb",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-78.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;78"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_84/2007-07-04_007G0098_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "60a27fe9b71d3e380036f35645463351ebbc890b6448c48baf54ca489662ccf2"
+      "sha256": "60a27fe9b71d3e380036f35645463351ebbc890b6448c48baf54ca489662ccf2",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-84.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;84"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_85/2007-07-05_007G0099_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "4ca368f8d4c23cbe1412c89c4a2e17a5618e84808e25ed50a3290b7a0de95bcf"
+      "sha256": "4ca368f8d4c23cbe1412c89c4a2e17a5618e84808e25ed50a3290b7a0de95bcf",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-85.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;85"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_86/2007-07-06_007G0100_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "2ca0009de329c7112305d80e843d9f59b39e8a1e544f053a07b8702d30bd7727"
+      "sha256": "2ca0009de329c7112305d80e843d9f59b39e8a1e544f053a07b8702d30bd7727",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-86.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;86"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_89/2007-07-10_007G0104_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "1b1d4a02628736b37ebc8af9534e8be2cd5c1a3b85e3d02d9a85f92b1f2d47ab"
+      "sha256": "1b1d4a02628736b37ebc8af9534e8be2cd5c1a3b85e3d02d9a85f92b1f2d47ab",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-89.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;89"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_90/2007-07-10_007G0102_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "85da17a044e5568320b00f483e21f89c4a7049358a6071a91c9d935df6e032c2"
+      "sha256": "85da17a044e5568320b00f483e21f89c4a7049358a6071a91c9d935df6e032c2",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-90.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;90"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_91/2007-07-11_007G0106_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "eb6633a09ffd52202e2d3500e0ba8316e4b19153f850c55a54d85754053115c8"
+      "sha256": "eb6633a09ffd52202e2d3500e0ba8316e4b19153f850c55a54d85754053115c8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-91.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;91"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_92/2007-07-12_007G0107_ORIGINALE_V0.xml": {
-      "sha256": "ff6327884f3e749109b0056dfd7ada64b6be264b845c0dbbd5fa12d602dd3643"
+      "sha256": "ff6327884f3e749109b0056dfd7ada64b6be264b845c0dbbd5fa12d602dd3643",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-92.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;92"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_93/2007-07-13_007G0108_ORIGINALE_V0.xml": {
-      "sha256": "89174714e83877b35e4646747e9c9e50ee4cff6d3f5fae5a1b80f93ea2d1762c"
+      "sha256": "89174714e83877b35e4646747e9c9e50ee4cff6d3f5fae5a1b80f93ea2d1762c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-93.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;93"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_95/2007-07-16_007G0109_ORIGINALE_V0.xml": {
-      "sha256": "70e9f37220dafc90125ce837d16a96d55eff81f4958f87b0286d9e21b2dd0f4a"
+      "sha256": "70e9f37220dafc90125ce837d16a96d55eff81f4958f87b0286d9e21b2dd0f4a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-95.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;95"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_96/2007-07-17_007G0110_ORIGINALE_V0.xml": {
-      "sha256": "998948158ca84473e043bfd0bb0ddecb8a490d23f58bd147e12bfd9afcbb11e5"
+      "sha256": "998948158ca84473e043bfd0bb0ddecb8a490d23f58bd147e12bfd9afcbb11e5",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-96.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;96"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070514_97/2007-07-18_007G0111_ORIGINALE_V0.xml": {
-      "sha256": "0de0367053366fcca8a9455916fab7d43a22f367c5285499871a97dfeffc7873"
+      "sha256": "0de0367053366fcca8a9455916fab7d43a22f367c5285499871a97dfeffc7873",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-05-14-97.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;97"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070724_158/2007-09-28_007G0173_ORIGINALE_V0.xml": {
-      "sha256": "08a56b82d5564b5ba26b2f2452e01498c982e086d4fb6b8488ede47ce2a672ad"
+      "sha256": "08a56b82d5564b5ba26b2f2452e01498c982e086d4fb6b8488ede47ce2a672ad",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-07-24-158.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-07-24;158"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20070802_157/2007-09-21_007G0172_ORIGINALE_V0.xml": {
-      "sha256": "930723c2b196151dd053948f06db39b03ef1027d79ae12c358e693b95abbfb72"
+      "sha256": "930723c2b196151dd053948f06db39b03ef1027d79ae12c358e693b95abbfb72",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2007-08-02-157.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2007-08-02;157"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20090120_8/2009-02-19_009G0016_ORIGINALE_V0.xml": {
-      "sha256": "c7503e5c1dbb36dfff055a6df3ed447cf314d80728e39e83cbe25ab82ef9b103"
+      "sha256": "c7503e5c1dbb36dfff055a6df3ed447cf314d80728e39e83cbe25ab82ef9b103",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-01-20-8.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-01-20;8"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20090218_28/2009-04-02_009G0036_ORIGINALE_V0.xml": {
-      "sha256": "7256194c7a08e225513946b3e8caeb6f91b13d13b7225f6f54c4cce3b20529f8"
+      "sha256": "7256194c7a08e225513946b3e8caeb6f91b13d13b7225f6f54c4cce3b20529f8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-02-18-28.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-02-18;28"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20090225_34/2009-04-21_009G0042_ORIGINALE_V0.xml": {
-      "sha256": "a5c668eed1d0f75f193ee246275258e473cd5fcd7a855fefdea8bd259a1d39c6"
+      "sha256": "a5c668eed1d0f75f193ee246275258e473cd5fcd7a855fefdea8bd259a1d39c6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-02-25-34.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-02-25;34"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20090225_35/2009-04-21_009G0043_ORIGINALE_V0.xml": {
-      "sha256": "75f0314421a6adf98be566625805330d581101b3cefa1cdb8df52d97737c6973"
+      "sha256": "75f0314421a6adf98be566625805330d581101b3cefa1cdb8df52d97737c6973",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-02-25-35.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-02-25;35"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20090303_36/2009-04-21_009G0044_ORIGINALE_V0.xml": {
-      "sha256": "61e9ef71a5eb68cf82769befe636c726a4be32e8168cdec38f15729b677e7628"
+      "sha256": "61e9ef71a5eb68cf82769befe636c726a4be32e8168cdec38f15729b677e7628",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-03-03-36.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-03-03;36"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20090528_107/2009-08-05_009G0112_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "689258f7e9e482a2392ec0515cfd94acd31199690841885515c0520aafe09183"
+      "sha256": "689258f7e9e482a2392ec0515cfd94acd31199690841885515c0520aafe09183",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-05-28-107.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-05-28;107"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20090622_119/2009-08-17_009G0132_ORIGINALE_V0.xml": {
-      "sha256": "098efea5b4d530cc004928e670e344ce9472d2455a705a636244bf7cb6a2db11"
+      "sha256": "098efea5b4d530cc004928e670e344ce9472d2455a705a636244bf7cb6a2db11",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-06-22-119.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-06-22;119"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20090622_122/2009-08-19_009G0130_VIGENZA_2026-02-20_V0.xml": {
-      "sha256": "4577a978a059e600b4b945a6cf2abe8317f7cd27c918554536eeabbab2943be4"
+      "sha256": "4577a978a059e600b4b945a6cf2abe8317f7cd27c918554536eeabbab2943be4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-06-22-122.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-06-22;122"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20090622_96/2009-07-28_009G0105_ORIGINALE_V0.xml": {
-      "sha256": "a11679a2f863a0b94938860e1aa472f2a32665164ba9b417943fe04cc12233a9"
+      "sha256": "a11679a2f863a0b94938860e1aa472f2a32665164ba9b417943fe04cc12233a9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-06-22-96.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-06-22;96"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20091013_180/2009-12-15_009G0188_ORIGINALE_V0.xml": {
-      "sha256": "62aec69ccc2f4e4885a96d25a9b6c3574a43907f6fe500ad64b3a52b6c2c86b6"
+      "sha256": "62aec69ccc2f4e4885a96d25a9b6c3574a43907f6fe500ad64b3a52b6c2c86b6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2009-10-13-180.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2009-10-13;180"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100201_54/2010-04-13_010G0067_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "bebfee851ae92d0cd59c83cc42390669ffb022e84bbea12387629b954ac25e96"
+      "sha256": "bebfee851ae92d0cd59c83cc42390669ffb022e84bbea12387629b954ac25e96",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-02-01-54.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-02-01;54"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100201_76/2010-05-27_010G0098_VIGENZA_2026-02-25_V0.xml": {
-      "sha256": "5cbe8904e584f40d5d1bcba6326f33c994c7d09d685f82949a0fb5c5184beb1c"
+      "sha256": "5cbe8904e584f40d5d1bcba6326f33c994c7d09d685f82949a0fb5c5184beb1c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-02-01-76.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-02-01;76"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100315_87/2010-06-15_010G0109_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "4a6d8abceca2fec4ecba4b4d6b7834434cc68b91d8a667a7fe6a44221b46df37"
+      "sha256": "4a6d8abceca2fec4ecba4b4d6b7834434cc68b91d8a667a7fe6a44221b46df37",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-03-15-87.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-03-15;87"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100315_88/2010-06-15_010G0110_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a624d74013e27d0fa957141b8bc4f68613473411715d5d154f50987361bd53f8"
+      "sha256": "a624d74013e27d0fa957141b8bc4f68613473411715d5d154f50987361bd53f8",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-03-15-88.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-03-15;88"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100315_89/2010-06-15_010G0111_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "14c3f4ae372d6e8de5e83ab586074c484c50eca09c0a5f6275f172a112825b17"
+      "sha256": "14c3f4ae372d6e8de5e83ab586074c484c50eca09c0a5f6275f172a112825b17",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-03-15-89.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-03-15;89"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100709_159/2010-09-30_010G0184_ORIGINALE_V0.xml": {
-      "sha256": "e926ca91b6209a05cbcab10cbfb4fc767c19a2b2d5a714834788e06f3465b20e"
+      "sha256": "e926ca91b6209a05cbcab10cbfb4fc767c19a2b2d5a714834788e06f3465b20e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-07-09-159.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-07-09;159"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100723_154/2010-09-13_010G0168_ORIGINALE_V0.xml": {
-      "sha256": "0490212a99d9ec5e81cc7994444932b80f3130703904627098541c4c87b11d99"
+      "sha256": "0490212a99d9ec5e81cc7994444932b80f3130703904627098541c4c87b11d99",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-07-23-154.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-07-23;154"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100802_150/2010-09-10_010G0169_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "c08e27f6502011474f56c4f51ff18fa96913f697437fbcec18b41fe1db9cdee7"
+      "sha256": "c08e27f6502011474f56c4f51ff18fa96913f697437fbcec18b41fe1db9cdee7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-08-02-150.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-08-02;150"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100802_164/2010-10-06_010G0181_ORIGINALE_V0.xml": {
-      "sha256": "16058d4bc16d15b7d142273faa9429619a273411b1f72d1ca69d30636e44d538"
+      "sha256": "16058d4bc16d15b7d142273faa9429619a273411b1f72d1ca69d30636e44d538",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-08-02-164.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-08-02;164"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100907_160/2010-09-30_010G0183_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "1880cc07783a5358679d4506c190175f544999767a7d6238772ac9bf636b9f7c"
+      "sha256": "1880cc07783a5358679d4506c190175f544999767a7d6238772ac9bf636b9f7c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-09-07-160.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-09-07;160"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100907_166/2010-10-07_010G0190_ORIGINALE_V0.xml": {
-      "sha256": "1d8a29b7f41ca823ac658f5fb945e006266cc2467b9bf6ca29d03fe39ff0dc2d"
+      "sha256": "1d8a29b7f41ca823ac658f5fb945e006266cc2467b9bf6ca29d03fe39ff0dc2d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-09-07-166.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-09-07;166"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20100907_168/2010-10-12_010G0189_ORIGINALE_V0.xml": {
-      "sha256": "e04475c409a181744cc4109f51a3502513ee47132810fde75a91e645c526a5bc"
+      "sha256": "e04475c409a181744cc4109f51a3502513ee47132810fde75a91e645c526a5bc",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-09-07-168.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-09-07;168"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101005_188/2010-11-12_010G0207_ORIGINALE_V0.xml": {
-      "sha256": "eb33aaf1b82edc94a0925b04360e793d49fd0450c2e1a48d1955afe248aa3782"
+      "sha256": "eb33aaf1b82edc94a0925b04360e793d49fd0450c2e1a48d1955afe248aa3782",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-05-188.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-05;188"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101005_189/2010-11-15_010G0210_ORIGINALE_V0.xml": {
-      "sha256": "23f4022548e6f9accce6a3a59619f08a6e9238a7f0844826fe905083ce1e4014"
+      "sha256": "23f4022548e6f9accce6a3a59619f08a6e9238a7f0844826fe905083ce1e4014",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-05-189.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-05;189"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101005_195/2010-11-25_010G0218_ORIGINALE_V0.xml": {
-      "sha256": "29d017afe9779c453f356c9e06fe476fc0430315b18449c57fea58645a3dd612"
+      "sha256": "29d017afe9779c453f356c9e06fe476fc0430315b18449c57fea58645a3dd612",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-05-195.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-05;195"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101005_207/2010-12-10_010G0226_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "92c89b881d8733dec1404509d2dfc0883c6a32c9b90d769885d88c9d480b3434"
+      "sha256": "92c89b881d8733dec1404509d2dfc0883c6a32c9b90d769885d88c9d480b3434",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-05-207.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-05;207"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101005_214/2010-12-15_010G0233_ORIGINALE_V0.xml": {
-      "sha256": "9e96b4ebddf3d13a9d564c0560ac4a544cd63d3cffe7e12cbf4b958e131c9bda"
+      "sha256": "9e96b4ebddf3d13a9d564c0560ac4a544cd63d3cffe7e12cbf4b958e131c9bda",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-05-214.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-05;214"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101020_215/2010-12-16_010G0234_ORIGINALE_V0.xml": {
-      "sha256": "4a5fc7b59777511d83d78352968bad6a3b921c48f6d184b33371398c0a39175c"
+      "sha256": "4a5fc7b59777511d83d78352968bad6a3b921c48f6d184b33371398c0a39175c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-20-215.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-20;215"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101028_232/2011-01-05_010G0252_ORIGINALE_V0.xml": {
-      "sha256": "af3359a7ca43f412c2761a3f0d19ad2cd714f4cac65c4ed8667114d67739ee60"
+      "sha256": "af3359a7ca43f412c2761a3f0d19ad2cd714f4cac65c4ed8667114d67739ee60",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-28-232.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-28;232"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101028_237/2011-01-12_011G0006_ORIGINALE_V0.xml": {
-      "sha256": "2d0aaffdff23a1a891ee7c5a684acce5065b1675a76e8eb2a6daaf5e3bb4b129"
+      "sha256": "2d0aaffdff23a1a891ee7c5a684acce5065b1675a76e8eb2a6daaf5e3bb4b129",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-28-237.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-28;237"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101029_243/2011-01-17_011G0005_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "30b43b0f2bb4cde1b9ba256fc789d45a16fef10b5fdb7c357d65b2956e351c6b"
+      "sha256": "30b43b0f2bb4cde1b9ba256fc789d45a16fef10b5fdb7c357d65b2956e351c6b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-29-243.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;243"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101029_244/2011-01-18_011G0010_ORIGINALE_V0.xml": {
-      "sha256": "fadd1ce809217b219d8771e36c6ee6cedae3a25b42c532870d81b9ab6a9de0a9"
+      "sha256": "fadd1ce809217b219d8771e36c6ee6cedae3a25b42c532870d81b9ab6a9de0a9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-29-244.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;244"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101029_261/2011-02-08_011G0024_ORIGINALE_V0.xml": {
-      "sha256": "d4333dfc95d9fccfe5423c26e9e9a2a62e53c525b3463462e4d6ef68427264d9"
+      "sha256": "d4333dfc95d9fccfe5423c26e9e9a2a62e53c525b3463462e4d6ef68427264d9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-29-261.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;261"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101029_263/2011-02-09_011G0025_ORIGINALE_V0.xml": {
-      "sha256": "81f921ee692d8f5717953dc06d90dc1866f682242edec8e54a898571c9cea19f"
+      "sha256": "81f921ee692d8f5717953dc06d90dc1866f682242edec8e54a898571c9cea19f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-10-29-263.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-29;263"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20101125_223/2010-12-23_010G0245_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "f87c66d6b3f0aeedcd15eb68a55a1cfad96249f2d3ee9dce4ed65f18521dc399"
+      "sha256": "f87c66d6b3f0aeedcd15eb68a55a1cfad96249f2d3ee9dce4ed65f18521dc399",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2010-11-25-223.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-11-25;223"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20110311_65/2011-05-10_011G0102_ORIGINALE_V0.xml": {
-      "sha256": "68e19308c82584c3179271eba2b14a4c771ee175963a9da720b3d388c298fb0a"
+      "sha256": "68e19308c82584c3179271eba2b14a4c771ee175963a9da720b3d388c298fb0a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2011-03-11-65.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-03-11;65"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20110519_117/2011-07-22_011G0155_ORIGINALE_V0.xml": {
-      "sha256": "62139b62411bef5858766bc1bcaee86c691a0c53021aa96bd15d499b58486724"
+      "sha256": "62139b62411bef5858766bc1bcaee86c691a0c53021aa96bd15d499b58486724",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2011-05-19-117.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-05-19;117"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20110603_127/2011-08-04_011G0176_ORIGINALE_V0.xml": {
-      "sha256": "85273aa28232549e0ef3b9db9381db87fe38cc7709640d22de416fba2f34d843"
+      "sha256": "85273aa28232549e0ef3b9db9381db87fe38cc7709640d22de416fba2f34d843",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2011-06-03-127.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-06-03;127"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20110801_151/2011-09-22_011G0193_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "39093a8a1407396e590e9c4a9eb59b97b725f8c5de7941fdbaf6e3b06976eec6"
+      "sha256": "39093a8a1407396e590e9c4a9eb59b97b725f8c5de7941fdbaf6e3b06976eec6",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2011-08-01-151.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-08-01;151"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20110914_222/2012-01-16_012G0004_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "e0d513e19b2c788cd75f7810ebfd4fc35bcc723c8cdc50967b46d7571f5b59c2"
+      "sha256": "e0d513e19b2c788cd75f7810ebfd4fc35bcc723c8cdc50967b46d7571f5b59c2",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2011-09-14-222.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-09-14;222"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20111019_227/2012-02-03_012G0013_ORIGINALE_V0.xml": {
-      "sha256": "ad2aac54dc550a7bd855f406ab5eb6b1f82a31ffc94ca585cf72e1d0d50214ea"
+      "sha256": "ad2aac54dc550a7bd855f406ab5eb6b1f82a31ffc94ca585cf72e1d0d50214ea",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2011-10-19-227.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-10-19;227"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20111027_207/2011-12-14_011G0253_ORIGINALE_V0.xml": {
-      "sha256": "817c13ce3b71201ffe79bcaee17cb8926205ae45780133f547a9afd1eecb704d"
+      "sha256": "817c13ce3b71201ffe79bcaee17cb8926205ae45780133f547a9afd1eecb704d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2011-10-27-207.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-10-27;207"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20111115_224/2012-01-19_012G0005_ORIGINALE_V0.xml": {
-      "sha256": "24b3a68cd813e469243114e1ca0a4a4c8d99fef6240096a2e8db2e8cf9c17a6d"
+      "sha256": "24b3a68cd813e469243114e1ca0a4a4c8d99fef6240096a2e8db2e8cf9c17a6d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2011-11-15-224.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-11-15;224"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20111215_232/2012-02-09_012G0018_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "128453d37e8ff084901af411873a05e49edac5cf7879f052a360ea6bc573faa7"
+      "sha256": "128453d37e8ff084901af411873a05e49edac5cf7879f052a360ea6bc573faa7",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2011-12-15-232.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2011-12-15;232"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20120228_55/2012-05-11_012G0075_ORIGINALE_V0.xml": {
-      "sha256": "a23c27fcbcb2be3b871f64e82c4031ebdd7270d96f5f70326a7c3da8ec5d2013"
+      "sha256": "a23c27fcbcb2be3b871f64e82c4031ebdd7270d96f5f70326a7c3da8ec5d2013",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2012-02-28-55.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2012-02-28;55"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20120313_54/2012-05-10_012G0076_ORIGINALE_V0.xml": {
-      "sha256": "226f099cbc53f499834728008b8ce3e36bfa8155ac021b347f2ba8a9ca277b29"
+      "sha256": "226f099cbc53f499834728008b8ce3e36bfa8155ac021b347f2ba8a9ca277b29",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2012-03-13-54.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2012-03-13;54"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20120807_137/2012-08-14_012G0159_ORIGINALE_V0.xml": {
-      "sha256": "b59a8ff260370afacbe17a75b0a65f307e5f59b07e638dc01de45a2b6f0a419d"
+      "sha256": "b59a8ff260370afacbe17a75b0a65f307e5f59b07e638dc01de45a2b6f0a419d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2012-08-07-137.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2012-08-07;137"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20121029_263/2013-02-25_13G00055_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "2408fd3d6a10bf074cc0f4b74ba993b3489eb03e0851ce9f07fad8c187972329"
+      "sha256": "2408fd3d6a10bf074cc0f4b74ba993b3489eb03e0851ce9f07fad8c187972329",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2012-10-29-263.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2012-10-29;263"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130212_29/2013-04-03_13G00071_ORIGINALE_V0.xml": {
-      "sha256": "f16139aa449a5cc9310cae4b06ccabbacb54151ece35286acc4d44059074a57a"
+      "sha256": "f16139aa449a5cc9310cae4b06ccabbacb54151ece35286acc4d44059074a57a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-02-12-29.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-02-12;29"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130305_52/2013-05-16_13G00095_ORIGINALE_V0.xml": {
-      "sha256": "0cad34846837c56bbb0f84c901132a6d57a6ae95c1dead23dd079ec8dc7dda81"
+      "sha256": "0cad34846837c56bbb0f84c901132a6d57a6ae95c1dead23dd079ec8dc7dda81",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-03-05-52.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-05;52"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130313_59/2013-05-29_13G00101_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "123d991d53d6054bdb5ab66950f26d5512d8f2d58d36dee3f217ac6fb7b466ef"
+      "sha256": "123d991d53d6054bdb5ab66950f26d5512d8f2d58d36dee3f217ac6fb7b466ef",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-03-13-59.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-13;59"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130318_50/2013-05-14_13G00093_ORIGINALE_V0.xml": {
-      "sha256": "7f0e5e222069d1e72e7f42751eef184fa7d9ad7b25dc30af0e893a5db1b47b95"
+      "sha256": "7f0e5e222069d1e72e7f42751eef184fa7d9ad7b25dc30af0e893a5db1b47b95",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-03-18-50.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-18;50"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130318_53/2013-05-20_13G00096_ORIGINALE_V0.xml": {
-      "sha256": "35566e070b187811cf700d028038b22376834e7496b9b391d24634cd98eab037"
+      "sha256": "35566e070b187811cf700d028038b22376834e7496b9b391d24634cd98eab037",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-03-18-53.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-18;53"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130328_44/2013-04-27_13G00085_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "1c99d632b239d07d9e3db70746173c094c568c75eeb9c5b95ac3f8c5427d6627"
+      "sha256": "1c99d632b239d07d9e3db70746173c094c568c75eeb9c5b95ac3f8c5427d6627",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-03-28-44.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-28;44"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130328_80/2013-07-04_13G00121_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a34e4438435775fc0b6afc31a079a1c7c3e30efc6dc3fd5e0e4e45a726899746"
+      "sha256": "a34e4438435775fc0b6afc31a079a1c7c3e30efc6dc3fd5e0e4e45a726899746",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-03-28-80.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-28;80"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130416_70/2013-06-24_13G00112_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "b9abcf3b4f405e8ac93b3579ad99bbe56592be383646b6332079e75ebb066ffa"
+      "sha256": "b9abcf3b4f405e8ac93b3579ad99bbe56592be383646b6332079e75ebb066ffa",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-04-16-70.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-04-16;70"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130416_73/2013-06-26_13G00113_ORIGINALE_V0.xml": {
-      "sha256": "b712f7b94db245bdb77b624bef2eea5cbd76a6407acafbbd6f520f0b86213f92"
+      "sha256": "b712f7b94db245bdb77b624bef2eea5cbd76a6407acafbbd6f520f0b86213f92",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-04-16-73.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-04-16;73"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130806_115/2013-10-10_13G00157_ORIGINALE_V0.xml": {
-      "sha256": "031a520b7da0ce84b1abc1a36583695b92519df4af6417b2078a584c1f76d9c4"
+      "sha256": "031a520b7da0ce84b1abc1a36583695b92519df4af6417b2078a584c1f76d9c4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-08-06-115.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-08-06;115"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130904_122/2013-10-25_13G00166_ORIGINALE_V0.xml": {
-      "sha256": "33d450cfaa497cba8c8453209ca0d3546f5c61cce65b89a386fdf2504c61f943"
+      "sha256": "33d450cfaa497cba8c8453209ca0d3546f5c61cce65b89a386fdf2504c61f943",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-09-04-122.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-09-04;122"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20130919_127/2013-11-06_13G00171_ORIGINALE_V0.xml": {
-      "sha256": "4eaa1b91d3451dd9d84a80fbb410e83a4ad9bb60ee253c251cc46a767d654bb4"
+      "sha256": "4eaa1b91d3451dd9d84a80fbb410e83a4ad9bb60ee253c251cc46a767d654bb4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-09-19-127.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-09-19;127"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20131028_157/2014-01-16_14G00004_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a5b2cf8ba34daaa0737d9a31df4141a5996c6d001099336a841581c9c8c62114"
+      "sha256": "a5b2cf8ba34daaa0737d9a31df4141a5996c6d001099336a841581c9c8c62114",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2013-10-28-157.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2013-10-28;157"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20140219_60/2014-04-09_14G00075_ORIGINALE_V0.xml": {
-      "sha256": "eb102412363b5fce4527a49a6cc842407e742bc39edec540431dece619e1f755"
+      "sha256": "eb102412363b5fce4527a49a6cc842407e742bc39edec540431dece619e1f755",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2014-02-19-60.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2014-02-19;60"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20140221_61/2014-04-11_14G00076_ORIGINALE_V0.xml": {
-      "sha256": "d668f72396e5d3445a2b46c5279b5bc5c196f9c3b9819b18ed8589a84efe77ec"
+      "sha256": "d668f72396e5d3445a2b46c5279b5bc5c196f9c3b9819b18ed8589a84efe77ec",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2014-02-21-61.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2014-02-21;61"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20141126_195/2015-01-09_15G00003_ORIGINALE_V0.xml": {
-      "sha256": "683c3ef51cb5c29f4dc0b8418662fdb28b44a96b2f97e1effad1a3ec9fb8df5e"
+      "sha256": "683c3ef51cb5c29f4dc0b8418662fdb28b44a96b2f97e1effad1a3ec9fb8df5e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2014-11-26-195.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2014-11-26;195"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20150119_8/2015-02-21_15G00022_ORIGINALE_V0.xml": {
-      "sha256": "a63cab6aee8790f57ac8da5230445ab9ee920203763d8e9e0e98a9623735b27d"
+      "sha256": "a63cab6aee8790f57ac8da5230445ab9ee920203763d8e9e0e98a9623735b27d",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2015-01-19-8.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2015-01-19;8"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20150917_201/2015-12-18_15G00213_ORIGINALE_V0.xml": {
-      "sha256": "34e3f70c9bb7c36f8c2ce88074d71c537e306e8c3b9745ddae8ea1a03e5892f4"
+      "sha256": "34e3f70c9bb7c36f8c2ce88074d71c537e306e8c3b9745ddae8ea1a03e5892f4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2015-09-17-201.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2015-09-17;201"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20160214_19/2016-02-22_16G00026_ORIGINALE_V0.xml": {
-      "sha256": "267cea6d5bd0df818db1ac2123b6503e6cb5ac20ba9a161a2557f3cc501f2535"
+      "sha256": "267cea6d5bd0df818db1ac2123b6503e6cb5ac20ba9a161a2557f3cc501f2535",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2016-02-14-19.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2016-02-14;19"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20160404_95/2016-06-06_16G00106_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "1c96a91b2539132d0ca775668fa0d8d3c511cdc251554e3f069b9c189bdba24c"
+      "sha256": "1c96a91b2539132d0ca775668fa0d8d3c511cdc251554e3f069b9c189bdba24c",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2016-04-04-95.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2016-04-04;95"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20160407_87/2016-05-26_16G00091_VIGENZA_2026-02-20_V0.xml": {
-      "sha256": "bfde0dc4a91dd1f20b3bce06d64d3468a5b7d225a6d8e1d17f17c2c4cb92a899"
+      "sha256": "bfde0dc4a91dd1f20b3bce06d64d3468a5b7d225a6d8e1d17f17c2c4cb92a899",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2016-04-07-87.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2016-04-07;87"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20160509_105/2016-06-17_16G00115_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "c66168f32daf7ba36eda92a1011d51cecbcdd77deecd5855718eb1acbf39617f"
+      "sha256": "c66168f32daf7ba36eda92a1011d51cecbcdd77deecd5855718eb1acbf39617f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2016-05-09-105.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2016-05-09;105"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20160526_108/2016-06-21_16G00120_ORIGINALE_V0.xml": {
-      "sha256": "4dd1ad2558cba10627f3daf5759dfd157657aa0470fcae8a949ea30cc8adc7d4"
+      "sha256": "4dd1ad2558cba10627f3daf5759dfd157657aa0470fcae8a949ea30cc8adc7d4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2016-05-26-108.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2016-05-26;108"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20160526_109/2016-06-21_16G00121_ORIGINALE_V0.xml": {
-      "sha256": "4366b0cd5ce211b8cb06231fa0d6718c75c0c9adb497b5fa8b82fa3bff1965ef"
+      "sha256": "4366b0cd5ce211b8cb06231fa0d6718c75c0c9adb497b5fa8b82fa3bff1965ef",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2016-05-26-109.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2016-05-26;109"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20160912_194/2016-10-27_16G00206_ORIGINALE_V0.xml": {
-      "sha256": "483ebaf94961ce21d5973411a9155091796cb7b24a3f94bc8efc39a0d90c6423"
+      "sha256": "483ebaf94961ce21d5973411a9155091796cb7b24a3f94bc8efc39a0d90c6423",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2016-09-12-194.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2016-09-12;194"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20170110_23/2017-03-15_17G00031_ORIGINALE_V0.xml": {
-      "sha256": "2f758f1d473a8d861a88f1ad121ab96ed3f3db8e66219e3d018b4103b5b17c4e"
+      "sha256": "2f758f1d473a8d861a88f1ad121ab96ed3f3db8e66219e3d018b4103b5b17c4e",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2017-01-10-23.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2017-01-10;23"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20170213_31/2017-03-22_17G00042_VIGENZA_2026-05-26_V0.xml": {
-      "sha256": "2e9a7d165d20bc87069395cfc15935ef8cc3640ac862e8f6ff7e0cfab853f97a"
+      "sha256": "2e9a7d165d20bc87069395cfc15935ef8cc3640ac862e8f6ff7e0cfab853f97a",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2017-02-13-31.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2017-02-13;31"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20170613_120/2017-08-07_17G00135_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "a9448c43df2d2e37b3eea2adbd8c92b527ca589ce892c634817f368fa5786fe3"
+      "sha256": "a9448c43df2d2e37b3eea2adbd8c92b527ca589ce892c634817f368fa5786fe3",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2017-06-13-120.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2017-06-13;120"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20170731_133/2017-09-14_17G00148_ORIGINALE_V0.xml": {
-      "sha256": "01a48feeab049acc7bcb914918796230e6b5c6073d75b59e94223aa632945d37"
+      "sha256": "01a48feeab049acc7bcb914918796230e6b5c6073d75b59e94223aa632945d37",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2017-07-31-133.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2017-07-31;133"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20170731_134/2017-09-14_17G00147_ORIGINALE_V0.xml": {
-      "sha256": "31a26ac6495063dec09e11ab8fed7346b8cae9e183caa7704ce874da0a87997f"
+      "sha256": "31a26ac6495063dec09e11ab8fed7346b8cae9e183caa7704ce874da0a87997f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2017-07-31-134.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2017-07-31;134"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20170823_146/2017-10-12_17G00162_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "c49a7b7b4998b31f6a7ea0bdadf4ee7f37be073e72defc218768a0904d4ca3e9"
+      "sha256": "c49a7b7b4998b31f6a7ea0bdadf4ee7f37be073e72defc218768a0904d4ca3e9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2017-08-23-146.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2017-08-23;146"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20171124_224/2018-01-23_18G00010_ORIGINALE_V0.xml": {
-      "sha256": "cfb3ddb0cb14f5f381f8a73589f75d995f4fa1eeeee3424f3ee2298136a5cfb5"
+      "sha256": "cfb3ddb0cb14f5f381f8a73589f75d995f4fa1eeeee3424f3ee2298136a5cfb5",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2017-11-24-224.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2017-11-24;224"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20171220_239/2018-03-10_18G00039_VIGENZA_2025-07-02_V0.xml": {
-      "sha256": "9575bab5815583836e8e8b07a2f89367521699e333f396364e706eaff182fac5"
+      "sha256": "9575bab5815583836e8e8b07a2f89367521699e333f396364e706eaff182fac5",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2017-12-20-239.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2017-12-20;239"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20180208_27/2018-03-29_18G00052_ORIGINALE_V0.xml": {
-      "sha256": "224679fbfe0d74ca8ca11e47dfd4826a7926496e1a5f2d3c074a1760a589cbd4"
+      "sha256": "224679fbfe0d74ca8ca11e47dfd4826a7926496e1a5f2d3c074a1760a589cbd4",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2018-02-08-27.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2018-02-08;27"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20180329_57/2018-05-30_18G00079_ORIGINALE_V0.xml": {
-      "sha256": "9feeb519040e69d6abf5c695d161ef2cb48328d8968f57dec2afdf44eff1df55"
+      "sha256": "9feeb519040e69d6abf5c695d161ef2cb48328d8968f57dec2afdf44eff1df55",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2018-03-29-57.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2018-03-29;57"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20181108_137/2018-12-21_18G00164_ORIGINALE_V0.xml": {
-      "sha256": "609de03268c2522c0a9ccab49eb60fbef8ae60951d9fc3a2fa01e1978ee2c230"
+      "sha256": "609de03268c2522c0a9ccab49eb60fbef8ae60951d9fc3a2fa01e1978ee2c230",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2018-11-08-137.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2018-11-08;137"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20181108_149/2019-01-19_19G00006_ORIGINALE_V0.xml": {
-      "sha256": "fd323b5835ee936a2a9227e30ad8cbe6691ae5202bea063caa30d6308e080c35"
+      "sha256": "fd323b5835ee936a2a9227e30ad8cbe6691ae5202bea063caa30d6308e080c35",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2018-11-08-149.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2018-11-08;149"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20181214_152/2019-02-27_19G00020_VIGENZA_2026-05-26_V0.xml": {
-      "sha256": "eaff44a278efdbfa71ee478be6d0eaae46111fdbe91b3f12f7afcf95f967565f"
+      "sha256": "eaff44a278efdbfa71ee478be6d0eaae46111fdbe91b3f12f7afcf95f967565f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2018-12-14-152.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2018-12-14;152"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20190823_131/2019-11-14_19G00114_ORIGINALE_V0.xml": {
-      "sha256": "47757cafd0ec0f8d258f2e862cd81bd39ff7d1ab72fa943dcc02f1a267afffb1"
+      "sha256": "47757cafd0ec0f8d258f2e862cd81bd39ff7d1ab72fa943dcc02f1a267afffb1",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2019-08-23-131.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2019-08-23;131"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20191205_171/2020-01-31_20G00008_ORIGINALE_V0.xml": {
-      "sha256": "fe971f0a9d5f059bdd5ec116105a909f6949556ee3a76815970088dc5e96c98f"
+      "sha256": "fe971f0a9d5f059bdd5ec116105a909f6949556ee3a76815970088dc5e96c98f",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2019-12-05-171.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2019-12-05;171"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20200918_171/2020-12-17_20G00192_ORIGINALE_V0.xml": {
-      "sha256": "9c58d1729e53a3c6efffab50de6287d39f6ddd8a216aa53d4ac2950eec3756cb"
+      "sha256": "9c58d1729e53a3c6efffab50de6287d39f6ddd8a216aa53d4ac2950eec3756cb",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2020-09-18-171.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2020-09-18;171"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20201015_186/2021-01-20_21G00004_ORIGINALE_V0.xml": {
-      "sha256": "9bdb7ca8fa214cd40d23c2e69e6b0120ba01ff9bb05ce6e8d90f1c766d887994"
+      "sha256": "9bdb7ca8fa214cd40d23c2e69e6b0120ba01ff9bb05ce6e8d90f1c766d887994",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2020-10-15-186.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2020-10-15;186"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20201124_193/2021-03-26_21G00050_ORIGINALE_V0.xml": {
-      "sha256": "7313a1b4518fd25a8873dd20bbff8dbf579032c082ec8034992ed3892ab96c80"
+      "sha256": "7313a1b4518fd25a8873dd20bbff8dbf579032c082ec8034992ed3892ab96c80",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2020-11-24-193.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2020-11-24;193"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20220127_26/2022-03-29_22G00033_ORIGINALE_V0.xml": {
-      "sha256": "e50394fd9b7b6bda96a23c4e3e432fcff5c959fdaa81e5a0f4e43ed640fcace5"
+      "sha256": "e50394fd9b7b6bda96a23c4e3e432fcff5c959fdaa81e5a0f4e43ed640fcace5",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2022-01-27-26.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2022-01-27;26"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20220617_126/2022-08-25_22G00135_ORIGINALE_V0.xml": {
-      "sha256": "d6c3f8f24a7403f0142712558942091971bd7373b8ea6a170062eba3a6c95f91"
+      "sha256": "d6c3f8f24a7403f0142712558942091971bd7373b8ea6a170062eba3a6c95f91",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2022-06-17-126.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2022-06-17;126"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20220624_81/2022-06-30_22G00088_ORIGINALE_V0.xml": {
-      "sha256": "e851c4d2483597f63ae6790b001e7e497043608178e659ff708d7081f78f4425"
+      "sha256": "e851c4d2483597f63ae6790b001e7e497043608178e659ff708d7081f78f4425",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2022-06-24-81.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2022-06-24;81"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20230616_82/2023-06-29_23G00093_ORIGINALE_V0.xml": {
-      "sha256": "151d90a51d35cac7e381e901b5d9c4261cdfc3049332b8bbbca68bdf02d9101b"
+      "sha256": "151d90a51d35cac7e381e901b5d9c4261cdfc3049332b8bbbca68bdf02d9101b",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2023-06-16-82.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2023-06-16;82"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20230622_108/2023-08-11_23G00116_ORIGINALE_V0.xml": {
-      "sha256": "3a51d97ea4f42c8b7549cea4e3325c3a7383c08489ebaeebd2034fc791f81ff9"
+      "sha256": "3a51d97ea4f42c8b7549cea4e3325c3a7383c08489ebaeebd2034fc791f81ff9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2023-06-22-108.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2023-06-22;108"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20231221_229/2024-02-14_24G00024_ORIGINALE_V0.xml": {
-      "sha256": "410017c5512736d912f68cb317c866d9db10052aefbc8ef5f72aed53b9900654"
+      "sha256": "410017c5512736d912f68cb317c866d9db10052aefbc8ef5f72aed53b9900654",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2023-12-21-229.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2023-12-21;229"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20240424_82/2024-06-20_24G00100_ORIGINALE_V0.xml": {
-      "sha256": "d63ec67cc991f717c7b0a781e88bb29e69ce26cc09f809e7805928f9b77a2d37"
+      "sha256": "d63ec67cc991f717c7b0a781e88bb29e69ce26cc09f809e7805928f9b77a2d37",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2024-04-24-82.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2024-04-24;82"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20240424_83/2024-06-20_24G00099_ORIGINALE_V0.xml": {
-      "sha256": "de97512ceb304926d03de698b52ddf6c6c0940f643804a07a4edbf83e08f9898"
+      "sha256": "de97512ceb304926d03de698b52ddf6c6c0940f643804a07a4edbf83e08f9898",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2024-04-24-83.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2024-04-24;83"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20241125_222/2025-02-19_25G00020_ORIGINALE_V0.xml": {
-      "sha256": "edaab375d4b6e2709b7014e1a329826fe0dc860630d94f445b8a9a38d10da7b1"
+      "sha256": "edaab375d4b6e2709b7014e1a329826fe0dc860630d94f445b8a9a38d10da7b1",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2024-11-25-222.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2024-11-25;222"
     },
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_20260220_73/2026-05-12_26G00086_ORIGINALE_V0.xml": {
-      "sha256": "6e9a295553309ce8fc93c33622793b7945a98ea3bc48a1cb0bdd10f0eb3351d9"
+      "sha256": "6e9a295553309ce8fc93c33622793b7945a98ea3bc48a1cb0bdd10f0eb3351d9",
+      "out": "Regolamenti di delegificazione/stato-decreto.del.presidente.della.repubblica-2026-02-20-73.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2026-02-20;73"
     }
   }
 }

@@ -8,8 +8,8 @@ codice_redazionale: 003G0311
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,7 +25,64 @@ Sulla proposta del Ministro delle attivita' produttive;
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per decreto legislativo, il decreto legislativo 25 gennaio 1992, n. 74, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Autorita', l'Autorita' garante della concorrenza e del mercato di cui all'articolo 10 della legge 10 ottobre 1990, n. 287.
+
 ## Art. 2. — Richiesta di intervento dell'Autorita'
+
+1.
+                    
+                        
+                            I concorrenti, i consumatori, le loro associazioni ed organizzazioni, il Ministro delle attivita' produttive, nonche' ogni altra pubblica amministrazione che ne abbia interesse in relazione ai propri compiti istituzionali, anche su denuncia del pubblico, che intendano richiedere l'intervento dell'Autorita' al fine di ottenere l'inibizione degli atti di pubblicita' ingannevole ovvero di pubblicita' comparativa illecita o della loro continuazione o l'eliminazione degli effetti, ne fanno richiesta per iscritto all'Autorita'. La relativa domanda, debitamente sottoscritta, deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                nome, cognome, denominazione o ragione sociale, residenza, domicilio o sede del richiedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elementi idonei a consentire l'identificazione del messaggio pubblicitario oggetto della richiesta, quali:
+ 1) copia, anche fotostatica, del messaggio, se la pubblicita' e' stata diffusa a mezzo stampa o stampati in genere, con le indicazioni necessarie alla individuazione del mezzo, del luogo e della data di diffusione;
+ 2) copia delle pagine del sito Internet nel quale la pubblicita' e' stata diffusa, nonche' indicazione dell'indirizzo del sito, del giorno e dell'ora del rilevamento;
+ 3) resoconto dettagliato della chiamata telefonica ricevuta, se la pubblicita' e' stata diffusa attraverso il telefono, con indicazione, ove possibile, del luogo, del giorno e dell'ora della chiamata, nonche' del numero telefonico che e' stato chiamato;
+ 4) riproduzione fotografica del messaggio con indicazione del luogo e della data del rilevamento, se la pubblicita' e' stata diffusa mediante affissione;
+ 5) indicazione dell'emittente, della zona di emissione, del giorno e dell'ora della diffusione, se la pubblicita' e' stata diffusa per radio o per televisione;
+ 6) indicazione dell'esercizio o catena di esercizi commerciali in cui avviene la diffusione, se la pubblicita' e' diffusa presso uno o piu' punti vendita;
+ 7) indicazioni idonee a consentire l'individuazione di almeno un esercizio in cui il prodotto e' posto in vendita, se la pubblicita' e' diffusa esclusivamente attraverso le confezioni del prodotto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                indicazione di possibili profili di ingannevolezza della pubblicita' o di illiceita' della pubblicita' comparativa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                indicazione degli elementi di legittimazione alla richiesta.
 
 La richiesta presentata dal Ministro delle attivita' produttive, ai sensi dell'articolo 7, comma 2, del decreto legislativo, deve contenere gli elementi di cui alle lettere b) e c) del comma 1, mentre le richieste presentate da altre pubbliche amministrazioni devono contenere anche gli elementi di cui alla lettera d) del medesimo comma 1.
 
@@ -53,6 +110,24 @@ Se la richiesta di cui all'articolo 2 risulta manifestamente infondata od inammi
 
 Il termine per la conclusione del procedimento e' di settantacinque giorni, decorrenti dalla data di ricevimento della richiesta. Nei casi previsti dall'articolo 4, commi 1 e 2, il termine inizia a decorrere dall'individuazione del committente ovvero dal ricevimento della richiesta regolarizzata o completata. Nei casi in cui alla richiesta di intervento di cui all'articolo 2, comma 1, lettera b), numeri 5), 6) e 7), non sia allegata copia del messaggio pubblicitario, il termine inizia a decorrere dall'acquisizione da parte dell'Autorita' di copia del messaggio stesso.
 
+2.
+                    
+                        
+                            Il termine di cui al comma 1 e' prorogato una sola volta di novanta giorni quando:
+ 
+                        
+                        
+                            a)
+                            
+                                siano disposte, ai sensi dell'articolo 8, comma 1, perizie o consulenze ovvero siano richieste informazioni o documenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'Autorita' richieda all'operatore pubblicitario, ai sensi dell'articolo 7, comma 4, del decreto legislativo di fornire prove sull'esattezza materiale dei dati di fatto contenuti nella pubblicita'.
+
 Il termine di cui al comma 1 e' prorogato di centottanta giorni nel caso in cui l'operatore pubblicitario sia residente, domiciliato od abbia sede all'estero.
 
 Nel caso di richiesta di parere dell'Autorita' per le garanzie nelle comunicazioni si applica l'articolo 12.
@@ -60,6 +135,49 @@ Nel caso di richiesta di parere dell'Autorita' per le garanzie nelle comunicazio
 Nel caso in cui, ai sensi dell'articolo 13, l'Autorita' disponga la sospensione del procedimento, i termini di cui al comma 1 restano sospesi in attesa della pronuncia dell'organismo di autodisciplina e, comunque, per un periodo, non superiore a trenta giorni, stabilito dall'Autorita'.
 
 ## Art. 6. — Partecipazione al procedimento
+
+1.
+                    
+                        
+                            I soggetti portatori di interessi pubblici o privati, nonche' i portatori di interessi diffusi costituiti in associazioni o comitati cui puo' derivare un pregiudizio dal provvedimento, hanno facolta' di intervenire nel procedimento in corso, inoltrando apposito atto scritto, debitamente sottoscritto, contenente:
+ 
+                        
+                        
+                            a)
+                            
+                                nome, cognome, denominazione o ragione sociale, sede, residenza o domicilio del richiedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione del procedimento nel quale si intende intervenire;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione dell'interesse ad intervenire.
+
+2.
+                    
+                        
+                            Il responsabile del procedimento, valutate la regolarita' e la completezza dell'atto, comunica al richiedente che lo stesso puo':
+ 
+                        
+                        
+                            a)
+                            
+                                accedere agli atti del procedimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                presentare memorie scritte e documenti.
 
 ## Art. 7. — Audizioni
 

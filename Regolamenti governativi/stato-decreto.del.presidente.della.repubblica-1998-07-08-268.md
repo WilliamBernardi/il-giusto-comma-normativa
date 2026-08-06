@@ -8,8 +8,8 @@ codice_redazionale: 098G0320
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,8 +29,88 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 
 Il Comitato di indirizzo e coordinamento per l'attuazione dell'EURO (Comitato EURO, di seguito denominato Comitato) di cui all'articolo 14 della legge 17 dicembre 1997, n. 433, coordina le problematiche e le azioni correlate con l'introduzione dell'EURO nel sistema economico e nell'ordinamento giuridico italiano, svolgendo, a tale fine, compiti di indirizzo, consulenza, assistenza tecnica e coordinamento in materia di attuazione della moneta unica europea.
 
+2.
+                    
+                        
+                            Il Comitato, in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                promuove, programma e attua a livello nazionale, anche fornendo direttive e indirizzi generali, le iniziative dirette ad assicurare l'equilibrato passaggio alla moneta unica, comprese attivita' di studio, di formazione e di informazione al pubblico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                formula proposte al Ministro del tesoro, del bilancio e della programmazione economica per l'adozione delle iniziative di sua competenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fornisce assistenza, informazioni e consulenza giuridica in ordine alle problematiche di cui al comma 1, anche attraverso la soluzione di quesiti che vengono sottoposti al suo esame, a tutti i soggetti interessati all'attuazione dell'EURO;
+
+                            
+                        
+                        
+                            d)
+                            
+                                verifica lo stato del processo di attuazione della moneta unica ed i risultati conseguiti; acquisisce i dati e gli elementi affinche' il Ministro del tesoro, del bilancio e della programmazione economica o, su sua de1ega, il Presidente del Comitato riferisca semestralmente alle competenti commissioni parlamentari.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle emanazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Composizione e modalita' di funzionamento
  del Comitato EURO
+
+1.
+                    
+                        
+                            Le funzioni di Presidente del Comitato sono affidate ad un Sottosegretario di Stato al Ministero del tesoro, del bilancio e della programmazione economica. Possono essere nominati componenti del Comitato esperti il cui contributo sia ritenuto di particolare utilita' ai fini dello svolgimento dei compiti di cui all'articolo 1, comma 1, nonche' rappresentanti di soggetti pubblici e privati le cui attivita' o competenze siano specificamente interessate dal processo di introduzione della moneta unica europea. Essi sono scelti, in particolare tra:
+ 
+                        
+                        
+                            a)
+                            
+                                amministrazioni statali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                altre autorita', enti ed amministrazioni pubbliche di rilievo nazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                organismi di rappresentanza degli enti locali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                principali associazioni imprenditoriali e di categoria;
+
+                            
+                        
+                        
+                            e)
+                            
+                                rappresentanti sindacali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                rappresentanti indicati dalla Consulta nazionale dei consumatori.
 
 Il Comitato e' composto da non meno di ventiquattro e fino a trenta componenti, escluso il Presidente. Il Presidente e i componenti del Comitato sono nominati con decreto del Ministro del tesoro, del bilancio e della programmazione economica.
 
@@ -52,9 +132,66 @@ Il Comitato resta in carica fino a centottanta giorni dopo la cessazione del cor
 
 ## Art. 3. — Struttura
 
+1.
+                    
+                        
+                            Sono organi del Comitato:
+ 
+                        
+                        
+                            a)
+                            
+                                il Presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esecutivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il segretario generale.
+
 ## Art. 4. — Presidente
 
 Il Presidente convoca, presiede ed orienta l'attivita' del Comitato.
+
+2.
+                    
+                        
+                            Il Presidente del Comitato in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                sovrintende al funzionamento del Comitato, ne guida l' iniziativa nel perseguimento dei fini istituzionali ed emana opportune direttive, anche per dirimere dubbi interpretativi e procedurali, al fine del rapido e puntuale svolgimento delle sue competenze;
+
+                            
+                        
+                        
+                            b)
+                            
+                                convoca e presiede l'esecutivo e ne dirige l'attivita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                coordina ed indirizza le attivita' dei sottocomitati e dei gruppi di lavoro nonche' dei comitati provinciali e regionali EURO;
+
+                            
+                        
+                        
+                            d)
+                            
+                                propone al Ministro del tesoro, del bilancio e della programmazione economica la nomina del segretario generale.
 
 Il Presidente, o un suo delegato, rappresenta il Comitato all'esterno.
 
@@ -66,6 +203,66 @@ I componenti dell'esecutivo sono nominati con decreto del Ministro del tesoro, d
 
 Alle riunioni dell'esecutivo assiste il segretario generale; il personale della segreteria generale assicura la verbalizzazione.
 
+4.
+                    
+                        
+                            L'esecutivo ha il compito di:
+ 
+                        
+                        
+                            a)
+                            
+                                dare attuazione alle decisioni del Comitato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                deliberare tutte le opportune iniziative per il perseguimento delle finalita' di cui all'articolo 1 e per il buon funzionamento del Comitato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                determinare, su proposta del segretario generale, la struttura della segreteria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                deliberare in ordine all'acquisto di beni e servizi ed agli impegni di spesa in generale; definire i criteri per la gestione delle risorse umane, finanziarie e strumentali da parte del segretario generale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                conferire incarichi di studio e di ricerca e di collaborazioni ad esterni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                adottare, in via d'urgenza e salva ratifica nella prima riunione successiva del Comitato, atti di competenza del Comitato stesso;
+
+                            
+                        
+                        
+                            g)
+                            
+                                istruire le questioni sottoposte all'esame del Comitato;
+
+                            
+                        
+                        
+                            h)
+                            
+                                proporre al Comitato l'adozione di iniziative di cui abbia rilevato la necessita' e l'opportunita'.
+
 Si applicano all'esecutivo le modalita' di funzionamento di cui ai commi 3, 4 e 6 dell'articolo 2.
 
 L'esecutivo si riunisce almeno una volta al mese e, comunque, ogni volta che lo richieda un numero di suoi componenti non inferiore ad un terzo.
@@ -74,7 +271,57 @@ L'esecutivo si riunisce almeno una volta al mese e, comunque, ogni volta che lo 
 
 L'incarico di segretario generale e' conferito, su proposta del Presidente del Comitato, con decreto del Ministro del tesoro, del bilancio e della programmazione economica ad un dirigente generale del Ministero del tesoro, del bilancio e della programmazione economica ovvero di altra amministrazione dello Stato, nonche' di altre amministrazioni pubbliche ovvero ad estranei alla pubblica amministrazione, dotati di specifica qualificazione professionale in relazione ai compiti da svolgere. Il segretario generale si avvale, per l'espletamento delle sue funzioni, di una segreteria generale.
 
+2.
+                    
+                        
+                            Il segretario generale e' responsabile dell'attuazione delle deliberazioni del Comitato e dell'esecutivo e delle decisioni del Presidente. Nel rispetto dei criteri deliberati dall'esecutivo:
+ 
+                        
+                        
+                            a)
+                            
+                                gestisce le risorse umane, finanziarie e strumentali assegnate al Comitato, assicurando il conseguimento dei risultati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                emette i mandati di pagamento in attuazione degli impegni di spesa assunti ai sensi dell'articolo 5, comma 4, lettera d);
+
+                            
+                        
+                        
+                            c)
+                            
+                                adotta tutte le determinazioni necessarie ad assicurare il funzionamento degli uffici della segreteria generale.
+
 ## Art. 7. — Segreteria generale
+
+1.
+                    
+                        
+                            La segreteria generale opera alle dirette dipendenze del segretario generale, con il compito di fornire il supporto tecnico e amministrativo al Comitato ed ai suoi organi esecutivi, nonche' ai sottocomitati ed ai gruppi di lavoro eventualmente costituiti ed assolve a tutte le funzioni operative necessarie per il loro funzionamento. In particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                collabora con i componenti del Comitato, dei sottocomitati e dei gruppi di lavoro in tutte le attivita' connesse ai compiti loro affidati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone gli avvisi di convocazione ed ogni altra comunicazione relativa del Comitato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                svolge ogni attivita' relativa alla preparazione delle riunioni dei vari organismi ed alla esecuzione delle decisioni dagli stessi adottate.
 
 La segreteria generale ha un organico di venti unita' ed una struttura organizzata per funzioni, qualifiche e profili professionali definita dall'esecutivo del Comitato.
 
@@ -97,6 +344,112 @@ I sottocomitati e i gruppi di lavoro hanno durata limitata nel tempo, in relazio
 Il funzionamento dei sottocomitati e dei gruppi di lavoro e' disciplinato con direttive del Presidente del Comitato.
 
 ## Art. 9. — Comitati provinciali per l'EURO e comitati regionali
+
+1.
+                    
+                        
+                            I comitati provinciali per l'EURO (CEP) operano come strutture locali funzionalmente collegate al Comitato EURO con il compito di:
+ 
+                        
+                        
+                            a)
+                            
+                                collaborare con il Comitato, curandone a livello locale la diffusione e l'attuazione delle direttive e degli indirizzi, allo scopo di assicurare il piu' ampio coinvolgimento dei soggetti interessati e la piena realizzazione delle finalita' di cui all'articolo 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicurare la massima informazione in ordine al processo di introduzione dell'EURO;
+
+                            
+                        
+                        
+                            c)
+                            
+                                raccogliere, a livello locale, richieste ed indicazioni provenienti da soggetti pubblici e privati e proporle, con le proprie eventuali osservazioni, all'esame del Comitato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                proporre al Comitato tutte le iniziative ritenute utili, a livello provinciale o subprovinciale, ai fini di un equilibrato passaggio alla moneta unica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fornire periodicamente al Comitato, alle scadenze da questo indicate, tutte le notizie e gli elementi necessari alla verifica del processo di attuazione della moneta unica nel territorio della provincia.
+
+2.
+                    
+                        
+                            I CEP sono presieduti dal prefetto, che ne nomina i componenti avendo cura di assicurare la presenza dei rappresentati delle seguenti amministrazioni, enti e categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                uffici periferici del Ministero del tesoro, del bilancio e della programmazione economica, del Ministero delle finanze e del Ministero della pubblica istruzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                amministrazione provinciale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                comuni al di sopra di 15.000 abitanti nell'ambito della provincia interessata, in numero non superiore a tre;
+
+                            
+                        
+                        
+                            d)
+                            
+                                camera di commercio, industria, artigianato e agricoltura;
+
+                            
+                        
+                        
+                            e)
+                            
+                                sede provinciale della Banca d'Italia;
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante dell'ufficio di tesoreria del comune capoluogo di provincia;
+
+                            
+                        
+                        
+                            g)
+                            
+                                banche, categorie produttive e professionali, in numero non superiore a dieci;
+
+                            
+                        
+                        
+                            h)
+                            
+                                sindacati, in numero non superiore a quattro;
+
+                            
+                        
+                        
+                            i)
+                            
+                                associazioni di consumatori, in numero non superiore a due rappresentanti.
 
 Il prefetto, quale presidente del CEP, ne determina le modalita' di funzionamento.
 

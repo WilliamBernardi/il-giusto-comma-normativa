@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,66 @@ Le disposizioni del presente decreto non si applicano alle emissioni acustiche d
 
 ## Art. 3. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si definisce:
+ 
+                        
+                        
+                            a)
+                            
+                                aeroporto: superficie delimitata di terreno o di acqua, inclusa ogni costruzione, installazione ed impianto, usata in tutto o in parte per l'arrivo e la partenza di velivoli, avente un traffico superiore a 50.000 movimenti di velivoli subsonici civili a reazione per anno solare riferito alla media nei tre anni solari precedenti l'applicazione delle disposizioni del presente decreto allo specifico aeroporto. L'elenco di detti aeroporti e' pubblicato con cadenza annuale dall'Ente nazionale per l'aviazione civile, di seguito denominato: «E.N.A.C.», entro il primo semestre di ogni anno, tenuto conto dei dati disponibili al 31 dicembre dell'anno precedente. Per movimento si intende il decollo o l'atterraggio dei veicoli subsonici civili a reazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                aeroporto metropolitano: un aeroporto situato nel centro di un grande agglomerato urbano, nessuna pista del quale ha lunghezza disponibile al decollo superiore a 2.000 metri, che fornisce solo collegamenti da punto a punto tra gli Stati europei o all'interno del territorio italiano e in cui un numero elevato di persone soffre obiettivamente per il rumore provocato dai velivoli. Detti aeroporti sono elencati nell'allegato 1, in conformita' alle decisioni dell'Unione europea;
+
+                            
+                        
+                        
+                            c)
+                            
+                                velivolo subsonico civile a reazione: velivolo la cui massa massima certificata al decollo e' pari o superiore a 34.000 kg, o con un numero massimo certificato di posti a sedere per passeggeri per il tipo di aereo in questione superiore a 19, esclusi i sedili riservati all'equipaggio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                velivolo marginalmente conforme: un velivolo subsonico civile a reazione che soddisfa i limiti di certificazione definiti nel volume 1, parte II, capitolo 3, dell'annesso 16 della convenzione sull'Aviazione civile internazionale, stipulata a Chicago il 7 dicembre 1944, approvata e resa esecutiva con decreto legislativo 6 marzo 1948, n. 616, e ratificata con legge 17 aprile 1956, n. 561, con margine cumulativo non superiore a 5 EPNdB (Effective Perceived Noise in decibels - unita' di misura del livello effettivo di rumorosita' percepita). Per margine cumulativo si intende la cifra espressa in EPNdB ottenuta sommando le singole eccedenze, cioe' le differenze tra il livello di rumore certificato e il livello di rumore massimo autorizzato, misurate in ciascuno dei tre punti di riferimento per la misurazione del rumore, quali definiti nel volume 1, parte II, capitolo 3, del citato annesso 16;
+
+                            
+                        
+                        
+                            e)
+                            
+                                superamento dei limiti acustici: un superamento dei limiti acustici determinati ai sensi dell'articolo 3, comma 1, lettera m), della legge 26 ottobre 1995, n. 447, e successive modificazioni, nelle zone di rispetto individuate in attuazione dello stesso articolo 3, comma 1, lettera m), numero 3), della citata legge n. 447 del 1995, e successive modificazioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                restrizioni operative: misure relative alle emissioni acustiche mediante le quali viene limitato, ridotto, ovvero vietato nel caso dei velivoli marginalmente conformi, l'accesso di velivoli subsonici civili a reazione in uno specifico aeroporto. Dette restrizioni sono parziali quando incidono sull'attivita' dei velivoli per un tempo determinato;
+
+                            
+                        
+                        
+                            g)
+                            
+                                soggetti interessati: le persone fisiche o giuridiche interessate o che possono essere interessate dall'introduzione di misure di riduzione del rumore, comprese le restrizioni operative o che hanno un legittimo interesse all'introduzione di dette misure;
+
+                            
+                        
+                        
+                            h)
+                            
+                                approccio equilibrato: il metodo in base al quale sono prese in considerazione le misure disponibili per affrontare il problema dell'inquinamento acustico in un aeroporto e, in particolare, la riduzione alla fonte del rumore degli aeromobili, la pianificazione e la gestione del territorio, procedure operative di riduzione del rumore e restrizioni operative, tenuto conto dei criteri e delle linee guida pubblicati dall'Organizzazione internazionale per l'aviazione civile, di seguito denominata: «ICAO», e comunque degli obiettivi di cui all'articolo 1.
+
 ## Art. 4. — Criteri generali relativi all'adozione di restrizioni operative
 
 Le restrizioni operative disciplinate dal presente decreto sono adottate previa valutazione da effettuare in conformita' alle prescrizioni dell'allegato 2, tenuto conto del rapporto tra costi e benefici probabili connessi alle misure da attuare, nonche' delle caratteristiche dell'aeroporto interessato.
@@ -60,6 +120,24 @@ Fino all'adozione dei provvedimenti di cui al comma 7 sono utilizzati i descritt
 ## Art. 5. — Criteri relativi all'introduzione di restrizioni
  operative per i velivoli marginalmente conformi
 
+1.
+                    
+                        
+                            Le restrizioni operative intese a ridurre o vietare l'accesso di velivoli marginalmente conformi sono attuate con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                per sei mesi, a decorrere dalla data di applicazione della restrizione operativa determinata ai sensi dell'articolo 10, comma 3, lettera a), gli operatori aerei non possono impiegare detti velivoli per un numero di voli superiore a quello effettuato nell'aeroporto interessato nel corrispondente periodo dell'anno precedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                decorso il periodo di cui al lettera a), E.N.A.C., puo' richiedere, ai sensi dell'articolo 6, agli operatori aerei di ridurre il numero totale iniziale di movimenti di detti velivoli fino al 20 per cento all'anno, sulla base di un piano di interventi adottato ai sensi dell'articolo 4, comma 1.
+
 Fermo restando quanto disposto all'articolo 4, commi 1 e 3, l'E.N.A.C. puo' adottare negli aeroporti metropolitani, presenti sul territorio nazionale, individuati nell'allegato 1 misure piu' restrittive di quelle stabilite dal presente articolo, con riferimento alla definizione di velivoli marginalmente conformi.
 
 Le disposizioni del comma 2 non si applicano ai velivoli in possesso della certificazione originale o della ricertificazione attestante la conformita' alle norme acustiche di cui al volume 1, parte II, capitolo 4, dell'annesso 16 alla citata Convenzione sull'aviazione civile internazionale.
@@ -73,22 +151,175 @@ Il Comitato tecnico-consultivo opera tenendo conto delle eventuali proposte dell
 
 Le restrizioni operative previste dal presente decreto sono adottate dall'E.N.A.C., con proprio provvedimento emanato entro 60 giorni dalla proposta del Comitato tecnico-consultivo di cui al comma 1, tenendo conto delle eventuali indicazioni operative della competente commissione aeroportuale.
 
+4.
+                    
+                        
+                            Il Comitato di cui al comma 1 e' composto da dieci tecnici indicati rispettivamente:
+ 
+                        
+                        
+                            a)
+                            
+                                dal Ministero delle infrastrutture e dei trasporti, con funzioni di presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal Ministero dell'ambiente e della tutela del territorio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dall'E.N.A.C.;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da ENAV S.p.a.;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dall'Agenzia per la protezione dell'ambiente ed i servizi tecnici;
+
+                            
+                        
+                        
+                            f)
+                            
+                                dalle Regioni e Province autonome;
+
+                            
+                        
+                        
+                            g)
+                            
+                                dall'Unione delle province d'Italia;
+
+                            
+                        
+                        
+                            h)
+                            
+                                dall'Associazione nazionale dei comuni italiani;
+
+                            
+                        
+                        
+                            i)
+                            
+                                dalle associazioni dei vettori aerei piu' rappresentative a livello nazionale;
+
+                            
+                        
+                        
+                            j)
+                            
+                                dall'associazione delle societa' di gestione aeroportuale.
+
 I componenti del Comitato tecnico di cui al comma 1 durano in carica due anni e possono essere confermati.
 
 Gli oneri connessi allo svolgimento della attivita' di valutazione prevista dal comma 1 ed i costi inerenti al funzionamento del Comitato, ivi compreso il trattamento economico di missione eventualmente spettante ai componenti del medesimo Comitato, sono posti a carico del gestore dell'aeroporto interessato.
 
 ## Art. 7. — Restrizioni operative esistenti
 
+1.
+                    
+                        
+                            Le disposizioni dell'articolo 4 non si applicano:
+ 
+                        
+                        
+                            a)
+                            
+                                alle restrizioni operative adottate prima della data di entrata in vigore del presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle modificazioni tecniche di ordine minore che non hanno incidenza significativa sul piano dei costi per le compagnie aeree e che sono apportate a restrizioni operative parziali introdotte dopo la data di entrata in vigore del presente decreto.
+
 ## Art. 8. — Deroghe per i velivoli immatricolati
  nei Paesi in via di sviluppo
 
+1.
+                    
+                        
+                            Per un periodo di 10 anni, a decorrere dalla data di entrata in vigore del presente decreto, ai velivoli marginalmente conformi immatricolati nei Paesi in via di sviluppo non si applicano le disposizioni dell'articolo 5, a condizione che:
+ 
+                        
+                        
+                            a)
+                            
+                                siano dotati di certificato attestante la loro rispondenza alle norme acustiche di cui al volume 1, parte II, capitolo 3, dell'allegato 16 alla citata Convenzione sull'aviazione civile internazionale e siano stati utilizzati nell'aeroporto che applica la deroga, tra il 1° gennaio 1996 e il 31 dicembre 2001;
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano stati iscritti, durante il periodo di cui alla lettera a), nel registro del Paese in via di sviluppo interessato dalla deroga e continuino ad essere gestiti da persona fisica o giuridica stabilita nello stesso Paese.
+
 ## Art. 9. — Deroga per singole attivita'
+
+1.
+                    
+                        
+                            In deroga alle disposizioni del presente decreto, l'E.N.A.C. puo' autorizzare singole attivita' anche di velivoli marginalmente conformi nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                per attivita' di carattere eccezionale, a condizione che la deroga sia temporanea;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per voli non aventi fini di lucro effettuati per trasformazioni, per riparazioni o per attivita' di manutenzione.
 
 ## Art. 10. — Consultazione, termine di preavviso e mezzi di impugnazione
 
 Contestualmente alla comunicazione di cui all'articolo 6, comma 2, il gestore dell'aeroporto interessato, secondo le modalita' stabilite dal Comitato di cui all'articolo 10, da' adeguata pubblicita' dell'eventuale superamento dei limiti acustici, consentendo la partecipazione dei soggetti interessati, secondo le modalita' di cui al comma 2.
 
 I soggetti interessati possono presentare, entro trenta giorni dalla pubblicazione della notizia di cui al comma 1, al Comitato di cui all'articolo 6, comma 1 ed all'E.N.A.C., memorie scritte e documenti.
+
+3.
+                    
+                        
+                            L'atto di adozione di una restrizione operativa e' motivato e comunicato, con indicazione contestuale del termine e dell'autorita' cui e' possibile ricorrere alla parte interessata, nonche' agli altri soggetti interessati mediante pubblicazione dell'estratto dell'atto di adozione nella Gazzetta Ufficiale della Repubblica italiana, recante l'indicazione che il testo integrale dell'atto stesso e' pubblicato sul sito del Ministero dell'ambiente e della tutela del territorio e del Ministero delle infrastrutture e dei trasporti:
+ 
+                        
+                        
+                            a)
+                            
+                                almeno sei mesi prima della sua applicazione, nel caso di restrizione operativa parziale e di restrizione operativa di cui all'articolo 5, comma 1, lettera a);
+
+                            
+                        
+                        
+                            b)
+                            
+                                almeno un anno prima della applicazione, nel caso di restrizioni operative previste all'articolo 5, comma 1, lettera b), e comma 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fermo restando quanto previsto alle lettere a) e b), comunque due mesi prima della Conferenza internazionale per gli orari dei vettori aerei, di cui all'articolo 4, paragrafo 4, del regolamento (CEE) 95/93 del Consiglio, del 18 gennaio 1993, e successive modificazioni, relativa alla stagione di traffico a cui la restrizione operativa si riferisce.
 
 ## Art. 11. — Informazione
 

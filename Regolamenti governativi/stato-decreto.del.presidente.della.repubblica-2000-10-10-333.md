@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2026-02-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -138,6 +138,38 @@ La certificazione di ottemperanza prevista dall'articolo 17 della legge n. 68 de
 Fino al momento della operativita' della graduatoria di cui all'articolo 8 della citata legge n. 68 del 1999, rimangono valide le graduatorie di cui alla previgente disciplina in materia di collocamento obbligatorio senza la distinzione per categorie. I lavoratori gia' iscritti nelle liste del collocamento obbligatorio alla data di entrata in vigore del presente regolamento mantengono la posizione in graduatoria precedentemente acquisita. Le regioni definiscono termini e modalita' per la costituzione della graduatoria unica degli aventi diritto al collocamento obbligatorio, di cui al citato articolo 8, comma 2.
 
 Per i lavoratori gia' iscritti in base alla precedente disciplina in materia di collocamento obbligatorio, il comitato tecnico, di cui all'articolo 4 del decreto legislativo 23 dicembre 1997, n. 469, come modificato dall'articolo 6, comma 2, lettera b), della legge n. 68 del 1999, redige, anche per il tramite dei servizi competenti, la scheda professionale, di cui all'articolo 8, comma 1, della legge n. 68 del 1999, all'atto dell'avviamento, con gli elementi in suo possesso.
+
+3.
+                    
+                        
+                            Ai fini della definizione da parte delle regioni, dell'attribuzione dei punteggi di valutazione degli elementi che concorrono alla formazione delle graduatorie, le regioni medesime, a norma di quanto previsto dall'articolo 8, comma 4, della legge n. 68 del 1999, tengono conto, prioritariamente, dei seguenti criteri generali:
+ 
+                        
+                        
+                            a)
+                            
+                                anzianita' di iscrizione negli elenchi del collocamento obbligatorio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                condizione economica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                carico familiare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                difficolta' di locomozione nel territorio.
 
 Le regioni, in base alle singole esigenze locali, possono individuare ulteriori criteri rispetto a quelli di cui al comma 1.
 

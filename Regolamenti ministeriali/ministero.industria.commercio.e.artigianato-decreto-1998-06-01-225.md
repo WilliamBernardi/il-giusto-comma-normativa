@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-11-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,59 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 
 Le amministrazioni dei comuni capoluogo di cui all'art. 17 della legge 8 giugno 1990, n. 142, al fine di superare la crisi di natura socioambientale in particolari aree del loro territorio, predispongono programmi di intervento per l'attuazione dell'art. 14 della legge 7 agosto 1997, n. 266.
 
+2.
+                    
+                        
+                            I programmi di intervento evidenziano:
+ 
+                        
+                        
+                            a)
+                            
+                                le aree di degrado urbano e sociale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli indicatori che misurano il degrado socioeconomico e ambientale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le attivita' da intraprendere e le azioni prioritarie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le iniziative da finanziare con particolare riferimento a quelle economiche ed imprenditoriali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i soggetti chiamati ad attivare gli interventi programmati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli obiettivi perseguiti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la durata e il fabbisogno finanziario del programma e delle singole azioni.
+
 Le aree di degrado urbano e sociale devono essere geograficamente identificabili ed omogenee e presentare indici socioeconomici inferiori ai valori medi dell'intero territorio comunale ovvero essere caratterizzate da crisi socio-ambientale.
 
 ## Art. 2. — Presentazione dei programmi di intervento
@@ -49,6 +102,66 @@ Le relazioni devono essere accompagnate da una scheda tecnica, di rilevazione qu
 
 ## Art. 3. — Azioni finanziabili
 
+1.
+                    
+                        
+                            I programmi di intervento presentati dai comuni possono includere il finanziamento delle seguenti azioni:
+ 
+                        
+                        
+                            a)
+                            
+                                animazione economica ed assistenza tecnica per la progettazione ed avvio di iniziative imprenditoriali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                interventi formativi riguardanti l'autoimpiego e la creazione di impresa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                costituzione di incubatori di nuova imprenditorialita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                animazione e assistenza tecnica alla costituzione di consorzi e imprese miste con partecipazione maggioritaria di imprese localizzate nell'area di intervento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                interventi per sviluppare l'associazionismo economico, la cooperazione aziendale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                interventi per la creazione di servizi nel campo dell'assistenza tecnica e manageriale, della sperimentazione, della qualita' e dell'informazione a favore delle imprese;
+
+                            
+                        
+                        
+                            g)
+                            
+                                interventi per la tutela delle condizioni di lavoro e la salvaguardia dell'ambiente;
+
+                            
+                        
+                        
+                            h)
+                            
+                                partecipazione o costituzione di fondi di garanzia fidi da destinare alle finalita' previste dal presente regolamento.
+
 Le spese per l'elaborazione e la gestione del programma, nonche' quelle per il monitoraggio degli interventi, le verifiche ed i controlli di cui all'art. 7 sono poste a carico delle risorse di cui al comma 3 nel limite massimo del 10 per cento delle risorse stesse.
 
 Il comune per l'attuazione delle azioni di cui al presente articolo utilizza la quota parte delle risorse di cui all'art. 8, comma 1 non assegnata agli interventi di cui all'art. 4, nonche' le eventuali risorse proprie ovvero quelle assegnate da leggi regionali o nazionali o da regolamenti comunitari per l'attuazione di programmi volti al risanamento di aree di degrado urbano sociale. Il comune, per l'attuazione dei programmi di cui al comma 1 e per le attivita' di cui al comma 2, puo' avvalersi di soggetti esterni stipulando a tal fine appositi contratti.
@@ -59,6 +172,25 @@ La scelta del contraente di cui al comma 3 e' effettuata, mediante gara, secondo
 
 Alle piccole imprese, a fronte delle spese sostenute per la realizzazione dei progetti nelle aree di degrado urbano, sono concesse agevolazioni non superiori al limite degli aiuti de minimis, cosi' come definito dalla Commissione dell'U.E., a condizione che qualsiasi altro aiuto supplementare concesso alla medesima impresa a titolo della regola de minimis sommato all'aiuto richiesto, non ecceda il limite massimo consentito in un periodo di tre anni che, alla data del presente decreto, e' pari a 100.000 ECU.
 
+2.
+                    
+                        
+                            Le amministrazioni comunali concedono e liquidano contributi in conto capitale, di cui al comma 1, commisurati alle spese ammissibili alle agevolazioni secondo le seguenti misure massime:
+ 
+                        
+                        
+                            a)
+                            
+                                65% per le zone interessate dagli obiettivi 1, 2 e 5b del regolamento (CEE) n. 2052/88 del Consiglio del 24 giugno 1988 e successive modifiche ed integrazioni e dalle deroghe di cui all'art.
+92.3.C. del trattato di Roma;
+
+                            
+                        
+                        
+                            b)
+                            
+                                50% per le restanti zone.
+
 Le amministrazioni comunali, nei limiti di cui al comma 1, possono concedere alle piccole imprese contributi in conto interessi su finanziamenti deliberati da banche per la realizzazione dei progetti nelle aree di degrado urbano, sgravi su imposte locali e garanzie fidi sul fondo istituito dai sensi dell'art. 3, comma 1, lettera h).
 
 L'impresa e' tenuta a dichiarare nella domanda di agevolazione di non aver ottenuto o chiesto per le stesse spese altre agevolazioni e di impegnarsi a non richiederle per il futuro qualora il cumulo delle agevolazioni de minimis accordate superi nel periodo di tre anni, dalla data della prima concessione, il limite di 100.000 ECU.
@@ -68,6 +200,52 @@ Ai fini della concessione delle agevolazioni si applicano le limitazioni ed i di
 I soggetti beneficiari delle agevolazioni, di cui al presente articolo, sono le piccole imprese, ivi comprese le cooperative di produzione e lavoro, che alla data di presentazione della domanda rientrano nei limiti individuati nell'ambito del regime agevolativo di cui all'art. 1, comma 2, del decreto-legge 22 ottobre 1992, n. 415, convertito, con modificazioni, dalla legge 19 dicembre 1992, n. 488.
 
 ## Art. 5. — Spese ammissibili alle agevolazioni
+
+1.
+                    
+                        
+                            Sono ammesse ai contributi di cui all'art. 4 le spese, al netto dell'IVA, comunque connesse alla realizzazione del progetto. Tali spese possono riguardare:
+ 
+                        
+                        
+                            a)
+                            
+                                studi di fattibilita', progettazione esecutiva, direzione lavori, servizi di consulenza e assistenza nel limite del 10 per cento del programma di investimenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisto brevetti, realizzazione di sistema di qualita', certificazione di qualita', ricerca e sviluppo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le opere murarie e assimilate comprese quelle per l'adeguamento funzionale dell'immobile e per la ristrutturazione dei locali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli impianti, i macchinari e le attrezzature nuovi di fabbrica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                sistemi informativi integrati per l'automazione, impianti automatizzati o robottizzati, acquisto di software per le esigenze produttive e gestionali dell'impresa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                introduzione investimenti atti a consentire che l'impresa operi nel rispetto di tutte le norme di sicurezza dei luoghi di lavoro dipendente, dell'ambiente e del consumatore.
 
 Per le nuove imprese l'amministrazione comunale puo' concedere contributi a fronte delle spese sostenute dall'impresa in conto gestione dalla data dell'ultima fattura del progetto alla data termine del primo anno a regime e comunque per un periodo di attivita' non superiore a due anni.
 
@@ -112,6 +290,24 @@ L'amministrazione comunale puo' disporre la revoca del contributo, oltre che nel
 Le agevolazioni sono revocate nel caso in cui i beni oggetto dell'agevolazione sono ceduti o alienati nei tre anni successivi alla data in cui ha avuto termine il progetto.
 
 Le somme da restituire, da parte dell'impresa, sono rivalutate sulla base degli indici ISTAT dei prezzi al consumo delle famiglie di operai e impiegati e maggiorate del tasso legale.
+
+5.
+                    
+                        
+                            Il Ministro dell'industria, del commercio e dell'artigianato d'intesa con il Ministro per la solidarieta' sociale, puo' revocare il trasferimento dei fondi assegnati ai comuni, di cui al comma 1 dell'art. 1, dopo l'approvazione dei programmi nei casi in cui:
+ 
+                        
+                        
+                            a)
+                            
+                                i programmi non risultano posti in esecuzione dopo sei mesi dall'approvazione del programma da parte dei comuni medesimi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                risultano attuate, in tutto o in parte, iniziative difformi dai programmi stessi. Nel caso di difformita' parziali quando queste non alterino i programmi e le finalita' ad essi collegate, la revoca puo' essere disposta soltanto con riferimento alle parti difformi.
 
 ## Art. 8. — Disponibilita' finanziarie
 

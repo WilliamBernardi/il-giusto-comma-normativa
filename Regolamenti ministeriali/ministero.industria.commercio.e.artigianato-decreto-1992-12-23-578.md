@@ -8,8 +8,8 @@ codice_redazionale: 093G0251
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,9 +31,49 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 17 di
 
 L'attivita' di normazione di cui all'art. 7 della legge 5 marzo 1990, n. 46, e' svolta dall'UNI (Ente nazionale italiano di unificazione) e dal CEI (Comitato elettrotecnico italiano) secondo programmi annuali da presentare entro il 31 dicembre dell'anno precedente e approvati dal Ministero dell'industria, del commercio e dell'artigianato, entro trenta giorni dalla data di arrivo.
 
+2.
+                    
+                        
+                            I programmi sono articolati nei seguenti capitoli e devono proporre i relativi preventivi di spesa: 
+                        
+                        
+                            a)
+                            
+                                capitolo norme da pubblicare;
+                            
+                        
+                        
+                            b)
+                            
+                                capitolo studi prenormativi e progetti di norme;
+                            
+                        
+                        
+                            c)
+                            
+                                capitolo relativo a programmi di studi per la certificazione ai fini del miglioramento qualitativo della sicurezza. Altri capitoli aggiuntivi saranno consentiti nel rispetto del campo di applicazione della legge.
+
 Il Ministero dell'industria, del commercio e dell'artigianato puo' procedere con cadenza semestrale alla revisione dei preventivi di spesa di cui al precedente comma 2.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            L'UNI (Ente nazionale italiano di unificazione) ed il CEI (Comitato elettrotecnico italiano) potranno, in ciascun esercizio, ottenere una contribuzione complessiva non superiore alla quota loro spettante sulle disponibilita' di cui all'art. 8 della legge 5 marzo 1990, n. 46, costituente il versamento dell'INAIL. Tale contributo sara' ripartito sulla base del seguente computo:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'UNI sara' determinato in base al conto economico relativo all'anno precedente a quello di erogazione, con una maggiorazione del 10% in ragione degli enti allo stesso federati, diviso la somma totale dei conti economici dell'UNI maggiorato del 10% e del CEI;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il CEI sara' determinato in base al conto economico relativo all'anno precedente a quello di erogazione diviso la somma totale dei conti economici dell'UNI maggiorato del 10% e del CEI.
 
 Per la realizzazione dei programmi di cui all'art. 6, comma 1, del decreto del Presidente della Repubblica 6 dicembre 1991, n. 447, predisposti sulla base di indicazioni, del Ministero dell'industria, del commercio e dell'artigianato, sara' destinata una somma massima pari al 20% della ripartizione assegnata a ciascun ente in base ai criteri di cui al comma precedente.
 

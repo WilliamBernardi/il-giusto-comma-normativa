@@ -8,8 +8,8 @@ codice_redazionale: 095G0404
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,11 +51,47 @@ Agli effetti del presente regolamento si intendono privi della vista coloro che 
 
 All'albo professionale nazionale dei terapisti della riabilitazione non vedenti vengono iscritti i cittadini italiani privi della vista diplomati ai sensi e con le modalita' previsti dall'art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502.
 
+2.
+                    
+                        
+                            L'iscrizione all'albo e' subordinata alla presentazione dei seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                diploma conseguito ai sensi e con le modalita' previsti dall'art. 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato, rilasciato dalla unita' sanitaria locale del luogo di residenza del non vedente o del luogo in cui e' stato conseguito il diploma, da cui risulti che il richiedente e' privo della vista o dispone di un residuo visivo non superiore ad un decimo in entrambi gli occhi anche con correzione di lenti, e che e' esente da altre minorazioni che potrebbero impedire l'espletamento delle funzioni di terapista della riabilitazione. Detta certificazione non deve essere di data anteriore a novanta giorni al momento della domanda di iscrizione.
+
 I terapisti della riabilitazione non vedenti, iscritti all'albo di cui all'art. 1, sono cancellati quando vengono meno i requisiti richiesti per l'iscrizione stessa.
 
 Qualora la gestione del suddetto albo professionale comporti oneri diversi da quelli propri del normale funzionamento dei competenti uffici ministeriali, il Ministro del lavoro e della previdenza sociale stabilisce con proprio decreto l'importo del contributo a carico degli iscritti, di cui all'art. 2, comma 3, della legge 11 gennaio 1994, n. 29, e la relativa disciplina.
 
 ## Art. 4. — Iscrizioni transitorie
+
+1.
+                    
+                        
+                            Agli effetti dell'applicazione dell'art. 6 della legge 11 gennaio 1994, n. 29, gli iscritti all'albo professionale nazionale dei massaggiatori e massofisioterapisti non vedenti sono iscritti all'albo professionale di cui all'art. 1 del presente decreto, su presentazione dei seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                certificato di cui alla lettera b) del precedente art. 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dichiarazione del o dei datori di lavoro da cui risulta che il lavoratore ha svolto mansioni di massaggiatore o massofisioterapista per non meno di cinque anni di effettivo servizio, di cui almeno due nel periodo immediatamente precedente al momento della presentazione dei documenti.
 
 ## Art. 5. — Ricorsi
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-03-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,38 @@ Sulla proposta dei Ministri per le politiche comunitarie e dei trasporti e della
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "impresa": una o piu' persone fisiche, una persona giuridica con o senza fini di lucro, una associazione senza personalita' giuridica con o senza fini di lucro, che effettuano il trasporto, il carico o lo scarico di merci pericolose;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "capo dell'impresa": il titolare od il legale rappresentante dell'impresa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "consulente per la sicurezza dei trasporti di merci pericolose", in appresso denominato "consulente": ogni persona designata dal capo dell'impresa per svolgere i compiti ed esercitare le funzioni definite all'articolo 4 ed in possesso del certificato di cui all'articolo 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "merci pericolose": le merci definite come tali nell'allegato A al decreto del Ministro dei trasporti e della navigazione 4 settembre 1996 e successivi aggiornamenti, per i trasporti su strada, e nell'allegato al decreto legislativo 13 gennaio 1999, n. 41, e successivi aggiornamenti, per i trasporti per ferrovia. ((4))
+
 ---------------
                         AGGIORNAMENTO (4)
                          Il D.Lgs. 27 gennaio 2010, n. 35 ha disposto (con l'art. 14, comma 1, lettera c)) che e' abrogato il "decreto legislativo 4 febbraio 2000, n. 40, di attuazione della direttiva 96/35/CE relativa alla designazione ed alla qualificazione professionale dei consulenti per la sicurezza dei trasporti su strada, per ferrovia o per via navigabile di merci pericolose, e successive modificazioni, per quanto in esso predisposto e' incompatibile con le disposizioni del presente decreto."
@@ -32,6 +64,24 @@ Sulla proposta dei Ministri per le politiche comunitarie e dei trasporti e della
 ## Art. 2. — Campo di applicazione
 
 Salvo quanto previsto al comma 2, le disposizioni del presente decreto si applicano alle imprese che effettuano operazioni di trasporto di merci pericolose su strada, per ferrovia o per via navigabile interna, oppure operazioni di carico e scarico connesse a tali trasporti.
+
+2.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano:
+ 
+                        
+                        
+                            a)
+                            
+                                alle attivita' di cui al comma 1 effettuate con mezzi di trasporto di proprieta' delle Forze armate o delle Forze di polizia ovvero con mezzi di trasporto impiegati sotto la responsabilita' delle stesse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle attivita' di cui al comma 1 effettuate per vie navigabili interne nazionali non collegate alle vie navigabili interne degli altri Stati dell'Unione europea. ((4))
 
 ---------------
                         AGGIORNAMENTO (4)
@@ -48,6 +98,24 @@ Il capo dell'impresa comunica all'ufficio provinciale della motorizzazione civil
 Il capo dell'impresa conserva la relazione di cui all'articolo 4, comma 1, per cinque anni e, su richiesta, la mette a disposizione dell'ufficio di cui al comma 3.
 
 La responsabilita' sull'osservanza, da parte dell'impresa, delle norme in materia di trasporto di merci pericolose e del loro carico e scarico e' del capo dell'impresa stessa.
+
+6.
+                    
+                        
+                            Sono esentate dall'obbligo di nominare il consulente:
+ 
+                        
+                        
+                            a)
+                            
+                                le imprese esercenti le attivita' di cui all'articolo 2, comma 1, riguardanti trasporti su strada di quantitativi limitati, per ogni unita' di trasporto, al di sotto dei limiti definiti dai marginali 10010 e 10011 dell'allegato B al decreto del Ministro dei trasporti e della navigazione 4 settembre 1996 e successivi aggiornamenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le imprese esercenti le attivita' di cui al comma 1 definite dal Ministro dei trasporti e della navigazione, con decreto da adottarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, quando i trasporti di merci pericolose, o le operazioni di carico o scarico ad essi connesse, non siano effettuati a titolo di attivita' principale od accessoria dell'impresa, ma vengano effettuati occasionalmente, in ambito esclusivamente nazionale e le merci trattate presentino un grado di pericolosita' o di inquinamento minimi. ((4))
 
 ---------------
                         AGGIORNAMENTO (4)
@@ -72,6 +140,45 @@ La relazione di cui al comma 4 e' trasmessa al capo dell'impresa e, per il trami
 ## Art. 5. — Qualificazione dei consulenti
 
 Il consulente deve avere una conoscenza sufficiente dei rischi inerenti il trasporto e le operazioni di carico e scarico di merci pericolose e delle disposizioni normative vigenti in materia, nonche' dei compiti definiti nell'allegato I, e deve possedere un certificato di formazione professionale rilasciato dal Ministero dei trasporti e della navigazione - Dipartimento dei trasporti terrestri, a seguito del superamento di un apposito esame.
+
+2.
+                    
+                        
+                            L'esame di cui al comma 1 deve riguardare le materie di cui all'allegato II, ovvero, qualora il candidato intenda conseguire il certificato di formazione professionale limitatamente a determinati tipi di merci pericolose o a determinate modalita' di trasporto, solo le materie di cui alle seguenti classi di merci:
+ 
+                        
+                        
+                            a)
+                            
+                                classe 1 (esplosivi);
+
+                            
+                        
+                        
+                            b)
+                            
+                                classe 2 (gas);
+
+                            
+                        
+                        
+                            c)
+                            
+                                classe 7 (materie radioattive);
+
+                            
+                        
+                        
+                            d)
+                            
+                                classi 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 8 e 9 (solidi e liquidi);
+
+                            
+                        
+                        
+                            e)
+                            
+                                numeri UN 1202, 1203, 1223 (prodotti petroliferi).
 
 Il certificato di formazione professionale e' conforme al modello di cui all'allegato III e deve indicare chiaramente la tipologia di merci pericolose e le modalita' di trasporto per le quali e' stato rilasciato.
 

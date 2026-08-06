@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1997-07-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,50 @@ Entrata in vigore del decreto: 10-7-1997
 Acquisito il parere delle competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica;
 
 ## Art. 1. — Contributi
+
+1.
+                    
+                        
+                            Il contributo destinato al finanziamento delle prestazioni pensionistiche per il personale iscritto all'Istituto nazionale di previdenza per i dirigenti di aziende industriali (INPDAI): 
+ 
+                        
+                        
+                            a)
+                            
+                                ove iscritto successivamente al 31 dicembre 1995, a decorrere dal 1 gennaio 1997 e' stabilito in base all'aliquota e con i criteri di ripartizione in vigore nell'assicurazione generale obbligatoria - Fondo pensione lavoratori dipendenti. A decorrere dalla predetta data, per i medesimi soggetti l'aliquota relativa al finanziamento dell'assegno per il nucleo familiare e' ridotta ((di 3,72 punti percentuali)) e l'aliquota per l'assicurazione obbligatoria contro la tubercolosi e' ridotta di 0,14 punti percentuali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ove iscritto antecedentemente al 1 gennaio 1996, a decorrere dal 1 gennaio 1997 e' stabilito secondo le disposizioni di cui al comma 2.
+
+2.
+                    
+                        
+                            Per il personale di cui al comma 1, lettera b), le aliquote contributive sono fissate, fino a concorrenza dell'aliquota in vigore nell'assicurazione generale obbligatoria per i lavoratori dipendenti, con le seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                dal 1 gennaio 1997, l'aliquota contributiva a carico dei datori di lavoro e' stabilita nella misura del 19,36 per cento e quella a carico dei lavoratori nella misura corrispondente a quella in vigore nell'assicurazione generale obbligatoria per i lavoratori dipendenti. 
+Dalla medesima data, l'aliquota relativa al finanziamento dell'assegno per il nucleo familiare e' ridotta ((di 1,36 punti percentuali)) e l'aliquota per l'assicurazione obbligatoria contro la tubercolosi e' ridotta di 0,14 punti percentuali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 1 gennaio 1998, l'aliquota contributiva a carico dei datori di lavoro e' stabilita nella misura del 22,36 per cento e l'aliquota relativa al finanziamento dell'assegno per il nucleo familiare e' ridotta ((di 1,5 punti percentuali)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal 1 gennaio 1999, l'aliquota contributiva a carico dei datori di lavoro e' stabilita nella misura corrispondente a quella in vigore nell'assicurazione generale obbligatoria per i lavoratori dipendenti e l'aliquota relativa al finanziamento dell'assegno per il nucleo familiare e' ridotta ((di 0,86 punti percentuali)).
 
 Per i lavoratori di cui al comma 1, sulle quote di retribuzione eccedenti la prima fascia di retribuzione pensionabile in vigore nell'assicurazione generale obbligatoria per i lavoratori dipendenti, si applica l'aliquota aggiuntiva di cui all'articolo 3 -ter del decreto - legge 19 settembre 1992, n. 384, convertito, con modificazioni, dalla legge 14 novembre 1992, n. 438.
 

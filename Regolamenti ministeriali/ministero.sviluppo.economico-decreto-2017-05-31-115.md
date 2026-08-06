@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-06-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,6 +41,179 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, sono adottate le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Registro nazionale aiuti: la banca dati istituita presso il Ministero dello sviluppo economico - Direzione generale incentivi alle imprese, ai sensi dell'articolo 14, comma 2, della legge 5 marzo 2001, n. 57, denominata dall'articolo 52, comma 1, della legge 24 dicembre 2012, n. 234, Registro nazionale degli aiuti di Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    SIAN: il Sistema informativo agricolo nazionale istituito ai sensi dell'articolo 15 della legge 4 giugno 1984, n. 194, presso il Ministero delle politiche agricole alimentari e forestali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    SIPA: Sistema italiano della pesca e dell'acquacoltura, realizzato nell'ambito del SIAN; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    registri SIAN e SIPA: le sezioni applicative del SIAN e del SIPA dedicate alla registrazione degli aiuti di Stato e degli aiuti de minimis nel settore agricolo e forestale e nelle zone rurali e nel settore della pesca e dell'acquacoltura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    TFUE: Trattato sul funzionamento dell'Unione europea, gia' Trattato che istituisce la Comunita' europea; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    aiuti di Stato: qualsiasi misura che risponda a tutti i criteri stabiliti all'articolo 107, paragrafo 1, TFUE; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    aiuti de minimis: gli aiuti de minimis come definiti dall'articolo 2 del regolamento (UE) n. 2015/1588 del Consiglio del 13 luglio 2015; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    aiuti de minimis SIEG: gli aiuti de minimis concessi a titolo di compensazione ad imprese che forniscono servizi di interesse economico generale ai sensi del regolamento (UE) n. 360/2012 della Commissione del 25 aprile 2012, nonche' delle disposizioni dell'Unione europea che saranno successivamente adottate nella medesima materia; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    aiuti SIEG: gli aiuti concessi a titolo di compensazione per i servizi di interesse economico generale, diversi dagli aiuti de minimis SIEG; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    regime di aiuti: atto in base al quale, senza che siano necessarie ulteriori misure di attuazione, possono essere adottate singole misure di aiuto a favore di imprese definite nell'atto in linea generale e astratta e qualsiasi atto in base al quale l'aiuto, che non e' legato a uno specifico progetto, puo' essere concesso a una o piu' imprese per un periodo di tempo indefinito e/o per un ammontare indefinito; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    aiuto ad hoc: aiuto concesso ad un singolo beneficiario al di fuori di un regime di aiuti; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    aiuto individuale: aiuto ad hoc ovvero aiuto concesso a singoli beneficiari nel quadro di un regime di aiuti; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    aiuti nei settori agricoltura e pesca: gli aiuti di Stato di cui all'articolo 107 del TFUE relativi al settore agricolo e forestale e nelle zone rurali e al settore della pesca e dell'acquacoltura inclusi gli aiuti de minimis; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    aiuti illegali oggetto di decisione di recupero: aiuti attuati in violazione dell'articolo 108, paragrafo 3, del TFUE, dei quali la Commissione europea abbia ordinato il recupero ai sensi dell'articolo 16 del regolamento (UE) n. 2015/1589 del Consiglio del 13 luglio 2015; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    Autorita' responsabile: il soggetto di natura pubblica o privata designato dalla norma primaria come responsabile della registrazione del regime di aiuti o dell'aiuto ad hoc, ovvero, in mancanza di detta designazione, il soggetto cui, nell'ambito dell'ordinamento giuridico nazionale, e' attribuita la competenza ad adottare il provvedimento di attuazione del regime di aiuti o dell'aiuto ad hoc; in caso di un regime di aiuto o di un aiuto ad hoc da notificare o concesso ai sensi di un regolamento di esenzione per il quale non sia prevista l'adozione di un provvedimento di attuazione, il soggetto che procede alla notifica o alla comunicazione alla Commissione europea ovvero la struttura amministrativa competente per l'intervento secondo l'organizzazione interna di ciascuna Amministrazione; ((2))
+                                    
+                                
+                            
+                            
+                                r)
+                                
+                                    Soggetto concedente: il soggetto di natura pubblica o privata che concede aiuti individuali; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    Autorita' di gestione del programma di CTE: l'autorita' pubblica o l'organismo pubblico o privato designato dagli Stati membri partecipanti ad un programma di cooperazione territoriale europea con responsabilita' nella gestione e attuazione del programma ai sensi del regolamento (UE) n. 1299/2013 del Parlamento europeo e del Consiglio del 17 dicembre 2013; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    Visura Aiuti: l'estrazione, operata dal Registro nazionale aiuti, di dati e informazioni relativi agli aiuti di Stato, agli aiuti SIEG, agli aiuti de minimis e agli aiuti de minimis SIEG concessi ad un determinato soggetto identificato tramite il codice fiscale in un periodo di massimo dieci esercizi finanziari, ai sensi dell'articolo 13, commi 2 e 3; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    Visura Deggendorf: l'estrazione, operata dal Registro nazionale aiuti, di dati e informazioni che evidenzia se un determinato soggetto identificato tramite il codice fiscale rientra o meno nell'elenco dei soggetti tenuti alla restituzione di aiuti illegali oggetto di decisione di recupero, ai sensi dell'articolo 13, commi 2 e 4, e dell'articolo 15; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    Visura Aiuti de minimis: l'estrazione, operata dal Registro nazionale aiuti, di dati e informazioni relativi agli aiuti de minimis e agli aiuti de minimis SIEG concessi nei due esercizi finanziari precedenti e nell'esercizio finanziario in corso alla data dell'estrazione con riferimento ad un soggetto beneficiario, a livello di impresa unica, ai sensi dell'articolo 14, commi 2 e 3; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    Codice SANI: codice aiuto attribuito attraverso il sistema di notifica elettronica della Commissione europea; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    impresa unica: l'insieme delle imprese ubicate in Italia fra cui esiste almeno una delle relazioni indicate nell'articolo 2, paragrafo 2, del regolamento (UE) n. 1407/2013 della Commissione del 18 dicembre 2013; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    soggetto beneficiario: il soggetto, italiano o straniero, a favore del quale viene concesso l'aiuto individuale o, nel caso degli aiuti di cui all'articolo 10, che fruisce dell'aiuto individuale; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    
+                                        Codice dell'Amministrazione Digitale: il codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82.
+
 ------------
                             AGGIORNAMENTO (2)
                             
@@ -53,6 +226,91 @@ Finalita' ed ambito di applicazione
 Il presente regolamento disciplina, ai sensi dell'articolo 52, comma 6, della legge 24 dicembre 2012, n. 234, e successive modificazioni, il funzionamento del Registro nazionale aiuti definendo le modalita' operative per la raccolta, la gestione e il controllo dei dati e delle informazioni relativi agli aiuti di Stato, agli aiuti de minimis, e agli aiuti SIEG nonche' i criteri per l'interoperabilita' con i registri SIAN e SIPA e per l'eventuale interoperabilita' con le banche di dati in materia di agevolazioni pubbliche alle imprese. Il presente regolamento individua, altresi', in conformita' con le pertinenti norme europee, i contenuti specifici degli obblighi ai fini dell'effettuazione dei controlli propedeutici alla concessione ed erogazione degli aiuti, nonche' la data a decorrere dalla quale il controllo relativo agli aiuti de minimis di cui all'articolo 3, comma 1, lettera c), gia' concessi avviene esclusivamente tramite il medesimo registro, nel rispetto dei termini stabiliti dall'articolo 6, paragrafo 2, del regolamento (UE) n. 1407/2013.
 
 ## Art. 3. — Informazioni del Registro nazionale aiuti
+
+1.
+                        
+                            
+                                Il Registro nazionale aiuti contiene le informazioni, individuate al comma 2, relative alle seguenti tipologie di aiuti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli aiuti di Stato notificati alla Commissione europea a norma dell'articolo 108, paragrafo 3, del TFUE, ad esclusione di quelli nel settore agricolo e forestale e nel settore della pesca e dell'acquacoltura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli aiuti di Stato esentati dall'obbligo di notifica di cui all'articolo 108, paragrafo 3, del TFUE ai sensi dei regolamenti della Commissione adottati per le esenzioni per categoria sulla base dell'articolo 1 del regolamento (UE) n. 2015/1588 del Consiglio del 13 luglio 2015 e successive modificazioni, ad esclusione di quelli nel settore agricolo e forestale e nel settore della pesca e dell'acquacoltura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli aiuti de minimis di cui al regolamento (CE) n. 1998/2006 della Commissione del 15 dicembre 2006 e al regolamento (UE) n. 1407/2013 della Commissione del 18 dicembre 2013, nonche' quelli previsti dalle disposizioni dell'Unione europea che saranno successivamente adottate nella medesima materia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli aiuti de minimis SIEG; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli aiuti SIEG.
+
+2.
+                        
+                            
+                                Con riferimento alle categorie di aiuti individuate al comma 1, il Registro nazionale aiuti contiene le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati identificativi dell'Autorita' responsabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dati identificativi del regime di aiuti o dell'aiuto ad hoc, con particolare riferimento al Codice SANI ove dovuto, al titolo, alla base giuridica, alla dotazione finanziaria complessiva, alla tipologia dell'aiuto e all'obiettivo perseguito, nonche' le ulteriori informazioni relative agli obblighi di trasparenza di cui all'articolo 16; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dati identificativi del Soggetto concedente ovvero dei soggetti di cui all'articolo 10, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dati identificativi del soggetto beneficiario dell'aiuto individuale, con particolare riferimento al codice fiscale, alla denominazione, alla ragione sociale, alla sede legale e alla dimensione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dati identificativi del progetto o dell'attivita' per il quale e' concesso l'aiuto individuale, con particolare riferimento ad una breve descrizione del progetto o dell'attivita' finanziata, comprese le date di inizio e fine, al Codice unico di progetto (CUP), all'ubicazione del progetto, all'elenco dei costi del progetto e delle spese ammesse; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dati identificativi dell'aiuto individuale, con particolare riferimento al Codice SANI ove dovuto, alla tipologia dell'aiuto, alla data di concessione, all'ammontare in termini di valore nominale e di equivalente sovvenzione.
 
 Oltre alle informazioni di cui al comma 2, il Registro nazionale aiuti, indipendentemente dal settore economico di riferimento, contiene in un'apposita sezione i dati identificativi dei soggetti tenuti alla restituzione degli aiuti illegali oggetto di decisione di recupero.
 
@@ -80,6 +338,24 @@ Il Registro nazionale aiuti, mediante l'interoperabilita' con il Sistema CUP ges
 ## Art. 6. — Aiuti nei settori agricoltura e pesca
 
 Fatto salvo quanto previsto all'articolo 3, comma 3, le informazioni relative agli aiuti nei settori agricoltura e pesca continuano ad essere contenute nei registri SIAN e SIPA, che assicurano, per il settore agricolo e forestale e nelle zone rurali e per il settore della pesca e dell'acquacoltura, la registrazione dei regimi di aiuti e degli aiuti ad hoc nonche' degli aiuti individuali e lo svolgimento delle verifiche propedeutiche alla concessione degli aiuti individuali.
+
+2.
+                        
+                            
+                                Le informazioni di cui al comma 1, ai sensi dell'articolo 52, comma 5, della legge 24 dicembre 2012, n. 234, sono rese disponibili al Registro nazionale aiuti attraverso criteri di integrazione e interoperabilita' stabiliti da uno specifico protocollo di comunicazione tra il Ministero dello sviluppo economico e il Ministero delle politiche agricole alimentari e forestali, che definisce le modalita' per la reciproca comunicazione dei dati presenti nei diversi registri e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli adeguamenti tecnici necessari per assicurare la compatibilita' tra i registri SIAN e SIPA e il Registro nazionale aiuti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le procedure per la reciproca messa a disposizione delle informazioni contenute nel Registro nazionale aiuti e nei registri SIAN e SIPA.
 
 Al fine di consentire l'integrazione e l'interoperabilita' di cui al comma 2, il Ministero delle politiche agricole alimentari e forestali provvede ad aggiornare, ove necessario, i contenuti delle informazioni che le Autorita' responsabili di aiuti nei settori agricoltura e pesca e i Soggetti concedenti i medesimi aiuti sono tenute a trasmettere ai registri SIAN e SIPA, rendendo uniformi i predetti contenuti e le modalita' dei controlli operati attraverso i medesimi registri e quelli del Registro nazionale aiuti, sulla base del protocollo di comunicazione di cui al comma 2.
 
@@ -112,6 +388,31 @@ La registrazione dell'aiuto individuale e' certificata dal Registro nazionale ai
 Le informazioni di cui all'articolo 3, comma 2, lettere c), d), e) ed f), per la registrazione dell'aiuto individuale sono specificate con il provvedimento di cui all'articolo 8, comma 4, con il quale sono resi disponibili i tracciati di dettaglio per la trasmissione delle informazioni stesse e sono definite le modalita' di accreditamento del Soggetto concedente.
 
 Con riferimento agli aiuti individuali registrati, il Soggetto concedente e' tenuto a trasmettere, entro venti giorni dalla data della registrazione, la data di adozione dell'atto di concessione dell'aiuto individuale. In assenza di inserimento nel registro della predetta data entro il termine indicato, la posizione dell'aiuto individuale decade e il «Codice Concessione RNA - COR» gia' rilasciato non puo' essere validamente utilizzato ai fini previsti dal presente regolamento e si considera come non apposto sugli atti che eventualmente lo riportano.
+
+6.
+                        
+                            
+                                Successivamente alla registrazione, il Soggetto concedente e', altresi', tenuto a trasmettere tempestivamente, attraverso la procedura informatica di cui al comma 1, le informazioni relative a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eventuali variazioni dell'importo dell'aiuto individuale dovute a variazioni del progetto per il quale e' concesso l'aiuto individuale stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali variazioni soggettive dovute a operazioni societarie ordinarie o straordinarie che comportano una traslazione, secondo la disciplina agevolativa applicabile, dell'aiuto individuale concesso o di parte dello stesso ad un altro soggetto giuridico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a conclusione del progetto per il quale e' concesso l'aiuto individuale, le informazioni relative all'aiuto individuale definitivamente concesso.
 
 Per ciascuna variazione di cui al comma 6, il Registro nazionale aiuti, fatto salvo quanto previsto al comma 8, rilascia, su richiesta del Soggetto concedente, uno specifico «Codice Variazione Concessione RNA - COVAR» che deve essere riportato nell'atto di variazione della concessione o nel provvedimento di concessione definitiva. Tale codice viene rilasciato a conclusione delle visure previste dall'articolo 13 per gli aiuti di Stato e gli aiuti SIEG e dall'articolo 14 per gli aiuti de minimis. Agli atti di variazione dell'aiuto individuale si applica la procedura di cui al comma 5.
 
@@ -178,6 +479,24 @@ Eventuali funzionalita' del Registro nazionale aiuti, ulteriori rispetto alle ve
 ## Art. 14. — Verifiche relative agli aiuti de minimis
 
 Ai sensi dell'articolo 52, comma 3, della legge 24 dicembre 2012, n. 234, e successive modificazioni, il Soggetto concedente nell'ambito delle attivita' inerenti alle verifiche propedeutiche alla concessione degli aiuti de minimis e agli aiuti de minimis SIEG, di cui all'articolo 3, comma 1, lettere c) e d), e' tenuto ad avvalersi, secondo quanto previsto dal presente articolo, del supporto del Registro nazionale aiuti utilizzando la procedura informatica disponibile sul sito web del registro.
+
+2.
+                        
+                            
+                                Al fine dello svolgimento delle verifiche di cui al comma 1, il Registro nazionale aiuti, sulla base dei dati identificativi del soggetto beneficiario inseriti per la registrazione dell'aiuto individuale, genera i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Visura Aiuti di cui all'articolo 13, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Visura Aiuti de minimis.
 
 La Visura Aiuti de minimis identifica gli aiuti de minimis e gli aiuti de minimis SIEG concessi, nei due esercizi finanziari precedenti e nell'esercizio finanziario in corso del soggetto beneficiario, a livello di impresa unica, come identificabile dalle informazioni rese disponibili dal Registro delle imprese tenuto dalle Camere di commercio e, ove presenti, dalle informazioni raccolte dal Soggetto concedente. In particolare, con riferimento a ciascun aiuto individuale concesso sono indicati l'importo, la data di concessione, il Soggetto concedente, la legge, il regolamento o la normativa in applicazione del quale l'aiuto e' concesso, con i riferimenti della data e dell'ora di ultimo aggiornamento disponibile. Le informazioni relative agli aiuti de minimis relativi al settore agricolo e forestale e nelle zone rurali e al settore della pesca e dell'acquacoltura sono rese disponibili dai registri SIAN e SIPA sulla base dei criteri di integrazione e interoperabilita' di cui all'articolo 6.
 

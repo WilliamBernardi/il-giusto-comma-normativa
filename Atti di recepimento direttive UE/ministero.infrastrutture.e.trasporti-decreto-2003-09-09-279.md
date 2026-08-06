@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -36,6 +36,24 @@ IL MINISTRO DELL'INTERNO
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 17 giugno 2002;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            L'articolo 1 del decreto del Presidente della Repubblica 6 ottobre 1999, n. 407, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera d) la dicitura «1° gennaio 1999» e' sostituita da «1° gennaio 2001»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera q) la dicitura «1° gennaio 1999» e' sostituita da «1° gennaio 2001».
 
 L'allegato A al decreto del Presidente della Repubblica 6 ottobre 1999, n. 407, e' sostituito dall'allegato al presente regolamento.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-11-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,38 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Possesso dei requisiti Provvedimenti di esclusione dal concorso
 
+1.
+                        
+                            
+                                I requisiti per la partecipazione ai concorsi sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    godimento dei diritti politici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    idoneita' fisica, psichica ed attitudinale all'espletamento dei compiti connessi con l'attivita' propria dei ruoli e della qualifica da rivestire.
+
 I requisiti devono essere posseduti alla data di scadenza del termine utile per la presentazione delle domande di partecipazione al concorso.
 
 Ai concorsi non sono ammessi coloro che sono stati espulsi dalle Forze armate, dai corpi militarmente organizzati o destituiti dai pubblici uffici, dispensati dall'impiego per persistente insufficiente rendimento, ovvero decaduti da un impiego statale, ai sensi dell'articolo 127, primo comma, lettera d), del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, nonche' coloro che hanno riportato una condanna a pena detentiva per delitto non colposo o sono stati sottoposti a misura di sicurezza o di prevenzione.
@@ -42,11 +74,180 @@ L'esclusione dal concorso e' disposta con decreto motivato del Capo della polizi
 
 ## Art. 2. — Bando di concorso
 
+1.
+                        
+                            
+                                I concorsi sono indetti, su base nazionale, con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, da pubblicare nella Gazzetta Ufficiale della Repubblica italiana, nel quale sono indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso, la ripartizione tra i vari profili professionali nel caso di concorsi per la copertura di posti nei ruoli tecnici, ed eventualmente la distribuzione degli stessi nelle diverse regioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti per la partecipazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero dei posti riservati ai sensi della vigente normativa in favore di determinate categorie di concorrenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i documenti prescritti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il termine e le modalita' di presentazione delle domande di ammissione e dei documenti di cui alla precedente lettera d);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le materie oggetto delle prove d'esame;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il diario della prova scritta d'esame o della eventuale prova preselettiva con l'indicazione della sede o delle sedi di effettuazione e la ripartizione dei candidati tra le stesse, ovvero la data della Gazzetta Ufficiale nella quale sara' pubblicato il diario delle suddette prove. E' facolta' dell'Amministrazione pubblicare nella Gazzetta Ufficiale anche il diario della prova orale. La pubblicazione ha valore di notifica a tutti gli effetti;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la votazione minima da conseguire nell'eventuale prova preselettiva e nelle prove d'esame;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il riferimento alla legge 10 aprile 1991, n. 125, che garantisce pari opportunita' tra uomini e donne per l'accesso al lavoro;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i titoli di preferenza di cui all'articolo 5, comma 4, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487 e successive modificazioni, nonche' i termini e le modalita' della loro presentazione;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le prove di efficienza fisica nei concorsi per l'accesso ai ruoli degli agenti ed assistenti e degli ispettori;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
+
 ## Art. 3. — Domande di partecipazione ai concorsi
 
 Le domande di partecipazione ai concorsi, redatte su modelli, anche telematici, predisposti dall'Amministrazione, sono presentate alla Questura della provincia ove il candidato risiede o ad altri Enti specificati dal bando entro il termine perentorio di trenta giorni, che decorre dalla data di pubblicazione del bando di concorso nella Gazzetta Ufficiale della Repubblica italiana.
 
 Le domande si considerano prodotte in tempo utile anche se spedite alla Questura ovvero al suddetto Ente a mezzo di raccomandata con avviso di ricevimento entro lo stesso termine di cui al comma precedente. A tal fine fa fede il timbro a data dell'ufficio postale accettante. Le modalita' ed il termine di presentazione delle domande redatte su modelli telematici sono indicate nel bando di concorso.
+
+3.
+                        
+                            
+                                Gli aspiranti devono dichiarare nella domanda:
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome e il nome;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data e il luogo di nascita;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il possesso della cittadinanza italiana;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comune ove sono iscritti nelle liste elettorali ovvero il motivo della non iscrizione o della cancellazione dalle liste medesime;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'immunita' da condanne penali, ovvero le condanne penali riportate e i procedimenti penali pendenti a loro carico;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il possesso del titolo di studio richiesto con l'indicazione dell'istituto che lo ha rilasciato e della data in cui e' stato conseguito;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i servizi eventualmente prestati come dipendenti presso le pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la lingua straniera, scelta tra quelle indicate nel bando di concorso, sulla quale intendono sostenere la prova;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per i candidati di sesso maschile, la posizione nei riguardi degli obblighi di leva, con la specificazione, ove occorra, di non essere stati ammessi a prestare servizio militare non armato o servizio sostitutivo civile;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'eventuale possesso di titoli di preferenza di cui all'articolo 5, comma 4, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487 e successive modificazioni;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    ogni altra indicazione specificamente richiesta dal bando di concorso.
 
 La lettera i) del comma e' efficace entro i termini previsti dall'articolo 61.
 
@@ -168,6 +369,38 @@ La documentazione non e' richiesta nel caso in cui l'Amministrazione ne sia gia'
 
 ## Art. 12. — Commissione esaminatrice
 
+1.
+                        
+                            
+                                La commissione esaminatrice del concorso per l'accesso al ruolo degli agenti ed assistenti della Polizia di Stato, nominata con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, e' presieduta da un funzionario, appartenente al ruolo dei dirigenti della Polizia di Stato che espletano funzioni di Polizia, con qualifica non inferiore a dirigente superiore, in servizio, preferibilmente ove possibile, presso il Dipartimento della pubblica sicurezza ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    due funzionari con qualifica non inferiore a commissario capo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due docenti di scuola secondaria superiore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un esperto nelle lingue straniere indicate nel bando di concorso;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un appartenente al ruolo dei direttori tecnici fisici del settore Telematica.
+
 Per l'incarico di presidente della commissione esaminatrice puo' essere nominato anche un funzionario, appartenente al ruolo dei dirigenti della Polizia di Stato che espletano funzioni di Polizia, con qualifica non inferiore a dirigente superiore, collocato in quiescenza da non oltre un quinquennio dalla data del decreto che indice il bando di concorso.
 
 Svolge le funzioni di segretario un funzionario del ruolo dei commissari o del ruolo direttivo speciale in servizio presso il Dipartimento della pubblica sicurezza.
@@ -208,7 +441,43 @@ Il decreto di approvazione della graduatoria di merito e di dichiarazione dei vi
 
 ## Art. 15. — Bando di concorso
 
+1.
+                        
+                            
+                                Salvo il disposto dell'articolo 2, il bando di corcorso indica:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti riservati agli appartenenti al ruolo dei sovrintendenti in possesso del prescritto titolo di studio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero dei posti riservati agli appartenenti ai ruoli della Polizia di Stato con almeno tre anni di anzianita' di effettivo servizio alla data del bando che indice il concorso, in possesso dei prescritti requisiti ad eccezione del limite di eta'.
+
 ## Art. 16. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice del concorso per l'accesso al ruolo degli ispettori, nominata con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, e' presieduta da un prefetto ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    due funzionari dei ruoli del personale della Polizia di Stato che espleta funzioni di polizia con qualifica non inferiore a primo dirigente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due docenti in materie giuridiche di scuola secondaria superiore.
 
 Per le prove relative alle lingue straniere indicate nel bando di concorso e all'informatica, la commissione esaminatrice, limitatamente all'espletamento delle predette prove, e' integrata da un esperto nella lingua straniera prescelta dal candidato e da un appartenente al ruolo dei direttori tecnici fisici della Polizia di Stato del Settore telematica.
 
@@ -223,6 +492,38 @@ Almeno un terzo del numero dei componenti della commissione di concorso, salva m
 Le prove d'esame del concorso sono costituite da una prova scritta e da un colloquio.
 
 La prova scritta consiste nella stesura di un elaborato vertente su elementi di diritto penale ovvero di diritto processuale penale, con eventuali riferimenti al diritto costituzionale.
+
+3.
+                        
+                            
+                                Il colloquio, oltre che sulle materie oggetto della prova scritta, ivi compresi gli elementi di diritto costituzionale, verte sulle seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    nozioni di diritto amministrativo, con particolare riguardo alla legislazione speciale in materia di pubblica sicurezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto civile, nelle parti concernenti le persone, la famiglia, i diritti reali, le obbligazioni e la tutela dei diritti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lingua straniera prescelta dal candidato tra quelle indicate nel bando di concorso;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informatica.
 
 L'accertamento della conoscenza della lingua straniera consiste nella traduzione di un testo senza ausilio del dizionario ed in una conversazione.
 
@@ -354,9 +655,52 @@ Il decreto di approvazione delle graduatorie suddette e di dichiarazione dei vin
 
 ## Art. 26. — Bando di concorso
 
+1.
+                        
+                            
+                                Salvo il disposto dell'articolo 2, il bando di concorso indica:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti riservati agli appartenenti al ruolo dei revisori tecnici in possesso del prescritto titolo di studio e dell'eventuale diploma o attestato di abilitazione professionale attinenti all'esercizio dell'attivita' inerente al profilo professionale per il quale si concorre;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo specifico titolo di studio di istruzione secondaria di secondo grado, nonche' i diplomi o attestati di abilitazione all'esercizio di attivita' inerenti al profilo professionale per il quale si concorre.
+
 Il bando contiene la previsione di presentare domanda di partecipazione, da parte di ciascun candidato, con riferimento ai posti di un solo profilo professionale tra quelli messi a concorso.
 
 ## Art. 27. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice del concorso per l'accesso al ruolo dei periti tecnici della Polizia di Stato, nominata con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, e' presieduta da un prefetto ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    un funzionario dei ruoli della Polizia di Stato con qualifica non inferiore a primo dirigente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due docenti di scuola secondaria superiore nelle materie relative a ciascuno dei profili professionali messi a concorso
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno o piu' esperti nelle materie relative ai profili professionali messi a concorso con qualifica non inferiore a direttore tecnico capo o medico capo.
 
 Per l'incarico di presidente della commissione esaminatrice puo' essere nominato anche un prefetto collocato in quiescenza da non oltre un quinquennio dalla data del decreto che indice il bando di concorso.
 
@@ -371,6 +715,24 @@ Almeno un terzo del numero dei componenti della commissione di concorso, salva m
 Il concorso e' articolato in una prova scritta ed in un colloquio che vertono sulle materie attinenti ai tipi di specializzazione richiesti dal bando di concorso e tendenti ad accertare il possesso delle capacita' professionali per assolvere le funzioni proprie degli appartenenti al ruolo dei periti tecnici.
 
 Le materie oggetto delle prove d'esame sono stabilite nel bando di concorso.
+
+3.
+                        
+                            
+                                Il colloquio verte, inoltre, sulle seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    lingua straniera prescelta dal candidato tra quelle indicate nel bando di concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informatica.
 
 L'accertamento della conoscenza della lingua straniera consiste nella traduzione senza ausilio del dizionario di un testo ed in una conversazione.
 
@@ -399,6 +761,80 @@ Il decreto di approvazione delle graduatorie suddette e di dichiarazione dei vin
 ## - Titolo II .od=3; CONCORSI INTERNI PER TITOLI ED ESAMI PER L'ACCESSO ALLA QUALIFICA INIZIALE DEI RUOLI DEGLI ISPETTORI, DEI PERITI TECNICI E DEI REVISORI TECNICI DELLA POLIZIA DI STATO. Capo I Disposizioni di carattere generale
 
 ## Art. 30. — Bando di concorso
+
+1.
+                        
+                            
+                                I concorsi interni sono indetti con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, da pubblicare nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso, la loro distribuzione tra i vari profili professionali nel caso di concorsi per la copertura di posti dei ruoli tecnici, ed eventualmente la loro ripartizione a livello provinciale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti richiesti per la partecipazione al concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il termine e le modalita' di presentazione delle domande di partecipazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data di svolgimento della prova scritta d'esame o dell'eventuale prova preselettiva, ovvero la data del Bollettino ufficiale del Ministero dell'interno nel quale sara' pubblicato il diario di dette prove con l'indicazione della sede o delle sedi di effettuazione di quest'ultima e la ripartizione dei candidati tra le stesse;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le materie oggetto delle prove d'esame ivi compreso, nei concorsi per l'accesso alle qualifiche iniziali dei ruoli degli ispettori e dei periti tecnici della Polizia di Stato, l'accertamento facoltativo della conoscenza della lingua straniera e dell'informatica. Tale ultima prova e' esclusa nei concorsi per l'accesso alla qualifica iniziale del ruolo dei periti tecnici del settore della telematica;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la votazione minima da conseguire nell'eventuale prova preselettiva e nelle prove d'esame;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la riserva di posti per il personale bilingue ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il riferimento alla legge 10 aprile 1991, n. 125, che garantisce pari opportunita' tra uomini e donne per l'accesso al lavoro;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
 
 ## Art. 31. — Domande di partecipazione ai concorsi
 
@@ -460,6 +896,59 @@ Il colloquio si intende superato se il candidato abbia riportato la votazione di
 
 ## Art. 38. — T i t o l i
 
+1.
+                        
+                            
+                                Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' delle mansioni svolte con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta, fino a punti 8;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi speciali conferiti con specifico provvedimento dell'amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 6;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli attinenti alla formazione professionale del candidato con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati con esclusione dei corsi di formazione obbligatori e dei seminari, fino a punti 4;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'amministrazione di appartenenza o da quella presso cui presta servizio e che vertono su problemi giuridici, amministrativi o tecnici ovvero su questioni di particolare rilievo attinenti ai servizi dell'amministrazione, fino a punti 4;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    speciali riconoscimenti, fino a punti 6;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    anzianita' complessiva di servizio, fino a punti 10.
+
 Nell'ambito delle suddette categorie, la commissione esaminatrice, nella riunione precedente l'inizio della correzione degli elaborati, determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi. Predetermina, altresi', in modo omogeneo i punteggi da attribuire ai giudizi complessivi presi in considerazione.
 
 Il Direttore centrale per le risorse umane del Dipartimento della pubblica sicurezza invia alla commissione esaminatrice copia dello stato matricolare aggiornato, nonche' le domande di partecipazione corredate da una scheda informativa su apposito modello predisposto dall'Amministrazione, contenente l'elenco dei titoli di servizio e ogni altra indicazione utile afferente il concorso, redatto dal dirigente dell'ufficio o reparto di appartenenza e sottoscritto per conferma dal candidato.
@@ -486,6 +975,31 @@ Il decreto di approvazione della graduatoria di merito e di dichiarazione dei vi
 
 ## Art. 40. — Bando di concorso
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 30, il bando di concorso indica:
+ 
+                            
+                            
+                                a)
+                                
+                                    la ripartizione in ciascun profilo professionale del numero dei posti messi a concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero dei posti riservati al personale con qualifica di collaboratore tecnico capo corrispondente al trenta per cento dei posti disponibili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la definizione, anche per categorie omogenee, delle corrispondenze fra i profili professionali del ruolo degli operatori e collaboratori tecnici e quelli relativi ai posti messi a concorso.
+
 ## Art. 41. — Possesso dei requisiti
 
 Sono ammessi al concorso gli appartenenti al ruolo degli operatori e collaboratori tecnici provenienti da profili professionali dichiarati dal bando di concorso omogenei a quello per cui concorrono, in possesso dell'abilitazione professionale eventualmente prevista dalla legge per l'esercizio dell'attivita' propria del profilo professionale per il quale si concorre, che abbiano compiuto al 31 dicembre dell'anno al quale si riferisce il concorso quattro anni di effettivo servizio e non abbiano riportato nei due anni precedenti sanzioni disciplinari piu' gravi della deplorazione.
@@ -503,6 +1017,60 @@ La predisposizione del questionario puo' essere affidata a qualificati istituti 
 La votazione massima attribuibile alla prova e' di 100 punti. La prova si intende superata se il candidato riporta una votazione non inferiore 60 punti.
 
 ## Art. 44. — T i t o l i
+
+1.
+                        
+                            
+                                Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' delle mansioni svolte con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta, fino a punti 8;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi speciali conferiti con specifico provvedimento dell'Amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 6;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli attinenti alla formazione professionale del candidato.
+Rientrano in tale categoria i corsi professionali frequentati e superati, con esclusione dei seminari e dei corsi di formazione obbligatori, in materie attinenti al settore tecnico di appartenenza, nonche' gli altri corsi teorici o pratici che, con riguardo al profilo professionale del candidato, siano, a giudizio della Commissione, idonei a potenziare le capacita' tecnico-professionali ovvero operative del candidato stesso. Rientrano, inoltre, in tale categoria i titoli di studio e le abilitazioni professionali purche' inerenti al profilo professionale per cui si partecipa, fino a punti 4;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'amministrazione di appartenenza o da quella presso cui presta servizio e che vertono su problemi tecnici ovvero su questioni di particolare rilievo attinenti al profilo professionale di appartenenza, fino a punti 4;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    speciali riconoscimenti, fino a punti 6;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    anzianita' complessiva di servizio, fino a punti 10.
 
 Nell'ambito delle suddette categorie, la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi.
 
@@ -556,6 +1124,59 @@ La convocazione alla prova orale, con l'indicazione del voto conseguito nella pr
 Il colloquio si intende superato se il candidato abbia riportato la votazione di almeno trenta cinquantesimi.
 
 ## Art. 50. — T i t o l i
+
+1.
+                        
+                            
+                                Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' delle mansioni svolte con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta, fino a punti 8;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi speciali conferiti con specifico provvedimento dell'Amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 6;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli attinenti alla formazione professionale del candidato con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati con esclusione dei corsi di formazione obbligatori e dei seminari, alle abilitazioni professionali conseguite, fino a punti 4;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'amministrazione di appartenenza o da quella presso cui presta servizio e che vertono su problemi tecnici attinenti ai servizi dell'Amministrazione, fino a punti 4;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    speciali riconoscimenti, fino a punti 6;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    anzianita' complessiva di servizio, fino a punti 10.
 
 Nell'ambito delle suddette categorie, la commissione esaminatrice nella riunione precedente l'inizio della correzione degli elaborati, determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi. Predetermina, altresi', in modo omogeneo i punteggi da attribuire ai giudizi complessivi presi in considerazione.
 
@@ -695,6 +1316,80 @@ I soggetti di cui al comma 1 devono essere in possesso, alla data di presentazio
 
 Le domande di assunzione, redatte su supporto cartaceo, ovvero su modello predisposto dall'Amministrazione, devono essere presentate alla Questura della provincia ove il candidato risiede.
 
+2.
+                        
+                            
+                                Gli aspiranti devono dichiarare nella domanda:
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome e il nome;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data e il luogo di nascita;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il possesso della cittadinanza italiana;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comune ove sono iscritti nelle liste elettorali ovvero il motivo della non iscrizione o della cancellazione dalle liste medesime;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'immunita' da condanne penali o eventualmente le condanne penali riportate e i procedimenti penali pendenti a loro carico;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    titolo di studio della scuola dell'obbligo con l'indicazione dell'istituto che lo ha rilasciato e della data in cui e' stato conseguito;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i servizi eventualmente prestati come dipendenti presso le pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la posizione nei riguardi degli obblighi di leva, con la specificazione, ove occorra, di non essere stati ammessi a prestare servizio militare non armato o servizio sostitutivo civile;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    precisazione dei requisiti che danno titolo all'assunzione obbligatoria;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    dichiarazione attestante il possesso dei requisiti di cui all'articolo 62.
+
 Il possesso dei requisiti richiesti e' comprovato con dichiarazioni sostitutive ai sensi degli articoli 46 e 47 della legge 28 dicembre 2000, n. 445.
 
 La domanda, corredata della necessaria documentazione, deve contenere la precisa indicazione del recapito al quale vanno inviate le comunicazioni relative all'assunzione e l'impegno a far conoscere le successive variazioni del recapito stesso.
@@ -724,6 +1419,80 @@ I soggetti di cui al comma 1 devono essere in possesso, alla data di presentazio
 ## Art. 66. — Domande di assunzione
 
 Le domande di assunzione redatte su supporto cartaceo, ovvero su modello predisposto dall'Amministrazione, devono essere presentate alla Questura della provincia ove il candidato risiede.
+
+2.
+                        
+                            
+                                Gli aspiranti devono dichiarare nella domanda:
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome e nome;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data e il luogo di nascita;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il possesso della cittadinanza italiana;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comune ove sono iscritti nelle liste elettorali ovvero il motivo della non iscrizione o della cancellazione dalle liste medesime;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'immunita' da condanne penali o eventualmente le condanne penali riportate e i procedimenti penali pendenti a loro carico;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    titolo di studio della scuola dell'obbligo con l'indicazione dell'istituto che lo ha rilasciato e della data in cui e' stato conseguito;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i servizi eventualmente prestati come dipendenti presso le pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la posizione nei riguardi degli obblighi di leva, con la specificazione, ove occorra, di non essere stati ammessi a prestare servizio militare non armato o servizio sostitutivo civile;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    precisazione dei requisiti che danno titolo all'assunzione obbligatoria;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    dichiarazione attestante la sussistenza dei requisiti di cui all'articolo 65.
 
 Il possesso dei requisiti richiesti e' comprovato con dichiarazioni sostitutive ai sensi degli articoli 46 e 47 della legge 28 dicembre 2000, n. 445.
 

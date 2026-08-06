@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-07-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -54,6 +54,32 @@ Sono fatte salve tutte le disposizioni vigenti in materia di sicurezza antincend
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi delle disposizioni del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                serbatoio interrato: contenitore di stoccaggio situato sotto il piano campagna di cui non sia direttamente e visivamente ispezionabile la superficie esterna; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sostanza: ogni sostanza appartenente ai gruppi e alle famiglie di sostanze liquide in condizioni standard riportati negli elenchi in allegato al decreto legislativo n. 132 del 27 gennaio 1992, e relativi preparati liquidi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                perdita di sostanza: qualsiasi evento di spillamento, trafilamento, emissione, sversamento, traboccamento o percolamento che si verifica, per qualsiasi causa, dal contenitore primario del serbatoio. 
+ ((1))
+
 --------------
                         AGGIORNAMENTO (1)
                         
@@ -63,12 +89,70 @@ Sono fatte salve tutte le disposizioni vigenti in materia di sicurezza antincend
 
 I principi generali di cui all'articolo 1, comma 1, e le disposizioni del presente decreto si applicano ai serbatoi interrati, aventi capacita' uguale o maggiore di un metro cubo, contenenti le sostanze e i preparati liquidi appartenenti alle categorie e gruppi di sostanze di cui alla lettera b) dell'articolo 2, con esclusione di quelli del comma 2 del presente articolo.
 
+2.
+                    
+                        
+                            Sono esclusi dall'applicazione del presente decreto i serbatoi interrati utilizzati: 
+ 
+                        
+                        
+                            a)
+                            
+                                nelle zone militari, se altrimenti regolati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'alimentazione degli impianti di produzione di calore, se con volume totale non superiore a 15 metri cubi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per stoccaggio di gas di petrolio liquefatto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per stoccaggio di carburanti per aviazione su aree demaniali in sedimi aeroportuali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per stoccaggio di prodotti liquidi, in serbatoi esistenti e completamente rivestiti in camicia di cemento armato o malte cementizie, di capacita' superiore a 100 m(elevato a)3 , purche' sia garantita nel tempo la tenuta dei serbatoi stessi. 
+ ((1))
+
 --------------
                         AGGIORNAMENTO (1)
                         
  La Corte Costituzionale, con sentenza 5 - 19 luglio 2001, n. 266 (in G.U. 1ª s.s. 25/07/2001, n. 29), "Dichiara che non spetta allo Stato, in assenza di base legislativa, emanare il decreto del Ministro dell'ambiente 24 maggio 1999, n. 246 (Regolamento recante norme concernenti i requisiti tecnici per la costruzione, l'installazione e l'esercizio di serbatoi interrati) e conseguentemente annulla lo stesso decreto del Ministro dell'ambiente 24 maggio 1999, n. 246."
 
 ## Art. 4. — Funzioni di indirizzo
+
+1.
+                    
+                        
+                            Il Ministero dell'ambiente, in conformita' ai pareri della Conferenza di servizi di cui all'articolo 1 della legge n. 137/1997: 
+ 
+                        
+                        
+                            a)
+                            
+                                svolge funzioni di indirizzo, di promozione e di coordinamento delle attivita' connesse con l'applicazione del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                elabora e propone le linee guida relative all'applicazione delle tecnologie di contenimento e rilevamento dei rilasci dei serbatoi interrati.
 
 L'Agenzia nazionale per la protezione dell'ambiente (ANPA), avvalendosi delle agenzie regionali per la protezione dell'ambiente (ARPA) o di altro organismo individuato transitoriamente dalla regione competente per territorio, ove l'ARPA non fosse ancora costituita, realizza e gestisce un sistema informativo nazionale che raccoglie i dati del censimento e della registrazione dei serbatoi interrati e delle sostanze o preparati in essi contenute, anche al fine di tenere informate le autorita' competenti nello svolgimento dei controlli e delle ispezioni di propria competenza. 
  ((1))
@@ -110,11 +194,122 @@ Le autorita' competenti di cui ai commi 1, 2 e 3 dell'articolo 5, provvederanno 
 
 ## Art. 7. — Requisiti di progettazione, costruzione ed installazione di nuovi serbatoi
 
+1.
+                    
+                        
+                            I nuovi serbatoi interrati debbono essere progettati, costruiti ed installati, nel rispetto delle norme vigenti, in modo tale da assicurare comunque: 
+ 
+                        
+                        
+                            a)
+                            
+                                il mantenimento dell'integrita' strutturale durante l'esercizio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il contenimento e il rilevamento delle perdite; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la possibilita' di eseguire i controlli previsti.
+
+2.
+                    
+                        
+                            I nuovi serbatoi interrati devono essere: 
+ 
+                        
+                        
+                            a)
+                            
+                                a doppia parete e con sistema di monitoraggio in continuo dell'intercapedine. Le pareti dei serbatoi possono essere: entrambe metalliche, con la parete esterna rivestita di materiale anticorrosione; la parete interna metallica e la parete esterna in altro materiale non metallico, purche' idoneo a garantire la tenuta dell'intercapedine tra le pareti; entrambe le pareti in materiali non metallici, resistenti a sollecitazioni meccaniche ed alle corrosioni; parete interna in materiale non metallico ed esterna in metallo, rivestita in materiale anticorrosione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a parete singola metallica o in materiale plastico all'interno di una cassa di contenimento in calcestruzzo, rivestita internamente con materiale impermeabile e con monitoraggio in continuo delle perdite. La cassa di contenimento puo' contenere uno o piu' serbatoi senza setti di separazione tra gli stessi.
+
 I serbatoi legalmente fabbricati o commercializzati negli altri Stati membri dell'Unione o originari degli Stati firmatari dell'Accordo sullo spazio economico europeo (Accordo SEE), sulla base di norme armonizzate o di norme o di regole tecniche internazionali riconosciute equivalenti, possono essere commercializzati in Italia per essere impiegati nel campo di applicazione disciplinato dal presente decreto.
 
 Le tubazioni di connessione con detti nuovi serbatoi possono essere di materiale non metallico.
 
+5.
+                    
+                        
+                            Per la prevenzione ed il contenimento delle perdite, i nuovi serbatoi dovranno essere dotati di: 
+ 
+                        
+                        
+                            a)
+                            
+                                un dispositivo di sovrappieno del liquido che eviti la fuoriuscita del prodotto in caso di eccessivo riempimento per errata operazione di scarico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una incamiciatura o sistema equivalente per le tubazioni interrate funzionanti in pressione, al fine di garantire il recupero di eventuali perdite.
+
 Con riferimento al monitoraggio in continuo, di cui al precedente comma 2, e' ammessa la centralizzazione dei sistemi, purche' sia consentito il controllo dei singoli serbatoi. Nel caso di serbatoio compartimentato ai sensi del successivo comma 7, lettera a), e' ammesso il controllo dell'intercapedine mediante unico sensore ove questo sia idoneo alla segnalazione di ognuna delle sostanze detenute.
+
+7.
+                    
+                        
+                            La capacita' massima dei nuovi serbatoi interrati, e' stabilita come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                in 50 m(elevato a)3 per i serbatoi di punti vendita interrati contenente sostanze o preparati liquidi classificati come infiammabili, inclusi i carburanti per autotrazione; i serbatoi possono essere compartimentati e contenere prodotti diversi nei vari compartimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in 100 m(elevato a)3 per i serbatoi per usi commerciali contenenti sostanze o preparati liquidi molto tossici o tossici, non classificati come infiammabili.
+
+8.
+                    
+                        
+                            La targa di identificazione del serbatoio deve indicare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il nome e l'indirizzo del costruttore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'anno di costruzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la capacita', lo spessore ed il materiale del serbatoio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la pressione di progetto del serbatoio e dell'intercapedine.  ((1))
 
 --------------
                         AGGIORNAMENTO (1)
@@ -165,13 +360,127 @@ Ai fini della programmazione e ottimizzazione delle attivita' di adeguamento dei
 ## Art. 11. — Controlli ed interventi sui serbatoi interrati esistenti 
  alla data di entrata in vigore del presente decreto
 
+1.
+                    
+                        
+                            I serbatoi interrati gia' installati prima del 1973 o in data non documentata e ancora funzionanti e non dotati di sistemi di rilevamento delle perdite in continuo, che vengano risanati, previa verifica dell'integrita' strutturale, entro il termine massimo di cinque anni, possono essere mantenuti in esercizio per un ulteriore periodo pari alla validita' della garanzia e comunque non oltre il decimo anno dalla data del risanamento, attraverso la realizzazione di una delle seguenti operazioni di risanamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                applicazione di un rivestimento anticorrosione sulle pareti interne del serbatoio in materiale che sia compatibile con il liquido contenuto, con uno spessore minimo di 2,5 mm; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                installazione di un sistema di protezione catodica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                realizzazione di una cassa di contenimento in calcestruzzo rivestita internamente con materiale impermeabile e con monitoraggio in continuo delle perdite; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                inserimento all'interno del serbatoio di una parete in materiale composito compatibile con il liquido contenuto. All'atto della verifica di integrita' strutturale, con eventuale giudizio di recuperabilita', e dell'operazione di risanamento e relativo collaudo, il responsabile della ditta esecutrice dovra' rilasciare una dichiarazione di conformita' alle norme tecniche di riferimento relative alle operazioni di risanamento indicate nel successivo articolo 12 del presente decreto. Inoltre, l'esercente e' tenuto a seguire le procedure previste ai sensi dell'articolo 17 del decreto legislativo n. 22/1997, qualora siano accertati inquinamenti causati dal rilascio delle sostanze contenute nel serbatoio stesso nel terreno circostante e sottostante il serbatoio.
+
 Alla scadenza del quinto anno i serbatoi di cui al comma 1 non risanati debbono essere messi fuori servizio e bonificati.
 
 I serbatoi installati dal 1973 in poi e non dotati di sistemi di rilevamento delle perdite in continuo possono essere mantenuti in esercizio per trenta anni dalla data di installazione.
 
 I serbatoi di cui al comma 3 che vengano risanati, previa verifica dell'integrita' strutturale attraverso la realizzazione di una delle operazioni di cui al comma 1, possono essere mantenuti in esercizio per un ulteriore periodo pari alla validita' della garanzia e comunque non oltre il decimo anno dalla data di risanamento.
 
+5.
+                    
+                        
+                            Prove di tenuta: 
+ 
+                        
+                        
+                            a)
+                            
+                                i serbatoi di cui al comma 1 installati prima del 1963 o in data sconosciuta ed in attesa di risanamento o di dismissione devono essere sottoposti a prova di tenuta entro il secondo anno dalla data di entrata in vigore del presente decreto e poi annualmente fino al momento del risanamento o della dismissione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i serbatoi di cui al comma 1 installati dal 1963 al 1978 debbono essere sottoposti a prova di tenuta entro il terzo anno dalla data di entrata in vigore del presente decreto e poi ogni due anni fino al momento del risanamento o della dismissione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i serbatoi a parete singola installati successivamente al 1978 dovranno essere sottoposti a prova di tenuta biennale a partire dal 25 anno di eta' fino al momento del risanamento o della dismissione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i serbatoi risanati debbono essere sottoposti a prova di tenuta dopo cinque anni dal risanamento e, successivamente, ogni tre anni.
+
+6.
+                    
+                        
+                            Ad ogni serbatoio sottoposto ad intervento di risanamento va stabilmente fissata in posizione ben visibile nel pozzetto di ispezione una targhetta che indichi: 
+ 
+                        
+                        
+                            a)
+                            
+                                estremi di identificazione della ditta esecutrice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                data dell'intervento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                data scadenza garanzia (periodo di garanzia non inferiore a quella di prolungamento del mantenimento).
+
 Per le prove di tenuta debbono essere adottati metodi in grado di rilevare una perdita nei serbatoi uguale o minore di quattrocento cm(elevato a)3 per ora (con una probabilita' di rilevamento pari o maggiore al 95%). Le prove devono essere effettuate da personale qualificato. l risultati delle prove devono essere annotate sul libretto del serbatoio. In caso di esito negativo della prova, deve essere data notifica immediata alle autorita' competenti.
+
+8.
+                    
+                        
+                            Norma transitoria: 
+ 
+                        
+                        
+                            a)
+                            
+                                i serbatoi di cui ai commi 1 e 3 gia' risanati alla data di entrata in vigore del presente decreto possono essere mantenuti in esercizio fino alla data di scadenza della garanzia, e comunque non oltre il decimo anno dalla data del risanamento previa esecuzione delle prove di tenuta come da comma 5, lettera d); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i serbatoi a doppia parete in esercizio alla data di entrata in vigore del presente decreto debbono essere dotati di un sistema fisso di monitoraggio dell'intercapedine entro un periodo di dieci anni dall'entrata in vigore del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i serbatoi a doppia parete possono essere mantenuti in esercizio per un tempo indefinito purche' venga sempre mantenuto attivo il controllo dell'intercapedine.
 
 Nel caso di installazione di un nuovo serbatoio interrato conforme alle disposizioni previste nel presente provvedimento, in sostituzione di un serbatoio interrato esistente si procede secondo quanto previsto all'articolo 19 della legge 7 agosto 1990, n. 241, e successive modificazioni, con esclusione degli impianti e dei depositi soggetti a controllo del Corpo nazionale dei vigili del fuoco.
 

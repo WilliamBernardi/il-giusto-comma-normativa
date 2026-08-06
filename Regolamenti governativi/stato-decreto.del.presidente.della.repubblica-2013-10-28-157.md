@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2019-03-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -47,6 +47,31 @@ All'articolo 1, comma 1, del decreto legislativo 2 febbraio 2006, n. 42, dopo le
 
 ## Art. 3. — Pensionamento anticipato per lavoratori 
  di aziende in crisi - Poligrafici
+
+1.
+                    
+                        
+                            All'articolo 37, comma 1, lettera a), della legge 5 agosto 1981, n. 416, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «almeno 384 contributi mensili ovvero 1664 contributi settimanali di cui, rispettivamente, alle tabelle A e B allegate al decreto del Presidente della Repubblica 27 aprile 1968, n. 488» sono sostituite dalle seguenti: «almeno 35 anni di anzianita' contributiva a decorrere dal 1° gennaio 2014, 36 anni di anzianita' contributiva a decorrere dal 1° gennaio 2016 e 37 anni di anzianita' contributiva a decorrere dal 1° gennaio 2018»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: «sulla base dell'anzianita' contributiva aumentata di un periodo pari a 3 anni» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole: «l'anzianita' contributiva non puo' comunque risultare superiore a 35 anni;» sono soppresse.
 
 ## Art. 4. — Personale viaggiante addetto ai pubblici 
  servizi di trasporto
@@ -174,6 +199,59 @@ Ai lavoratori iscritti al Fondo di previdenza del personale di volo dipendente d
  5. L'articolo 1, comma 4, del decreto legislativo 30 aprile 1997, n. 149, e' abrogato.
 
 ## Art. 11. — Deroghe
+
+1.
+                    
+                        
+                            Le disposizioni in materia di requisiti di accesso e di regime delle decorrenze dei trattamenti pensionistici vigenti al 31 dicembre 2013 continuano ad applicarsi, ancorche' maturino i requisiti per l'accesso al pensionamento successivamente alla predetta data, ai soggetti di cui agli articoli da 2 a 9 del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                collocati in mobilita' ai sensi degli articoli 4 e 24 della legge 23 luglio 1991, n. 223, e successive modificazioni, sulla base di accordi sindacali stipulati entro il 31 agosto 2013 ancorche' alla medesima data gli stessi lavoratori ancora non risultino cessati dall'attivita' lavorativa, i quali in ogni caso maturino i requisiti per il pensionamento entro il periodo di fruizione dell'indennita' di mobilita' di cui all'articolo 7, commi 1 e 2, della legge 23 luglio 1991, n. 223; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                collocati in mobilita' lunga ai sensi dell'articolo 7, commi 6 e 7, della legge 23 luglio 1991, n. 223, e successive modificazioni, per effetto di accordi collettivi stipulati entro il 31 agosto 2013 e che alla medesima data siano cessati dall'attivita' lavorativa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che entro il 31 agosto 2013 siano stati autorizzati alla prosecuzione volontaria della contribuzione e che perfezionino i requisiti anagrafici e contributivi utili per la decorrenza del trattamento pensionistico entro il 31 agosto 2016; questi lavoratori non devono aver comunque ripreso attivita' lavorativa successivamente all'autorizzazione alla prosecuzione volontaria della contribuzione ed alla predetta data del 31 agosto 2013 deve risultare accreditato o accreditabile almeno un contributo volontario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                che alla data del 31 agosto 2013 risultano essere in congedo per assistere figli con disabilita' grave ai sensi dell'articolo 42, comma 5, del decreto legislativo 26 marzo 2001, n. 151, con perfezionamento entro 24 mesi dalla data di inizio del predetto congedo del requisito contributivo per l'accesso al pensionamento indipendentemente dall'eta' anagrafica, di cui all'articolo 1, comma 6, lettera a), della legge 23 agosto 2004, n. 243, e successive modificazioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                che abbiano risolto il rapporto di lavoro entro il 31 agosto 2013 in ragione di accordi individuali sottoscritti anche ai sensi degli articoli 410, 411 e 412-ter del codice di procedura civile e, senza successiva rioccupazione in qualsiasi altra attivita' lavorativa, avrebbero maturato, secondo la previgente disciplina pensionistica, la decorrenza del trattamento pensionistico entro il 31 agosto 2016; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                che, in applicazione di accordi collettivi di incentivo all'esodo stipulati entro il 31 agosto 2013 dalle organizzazioni comparativamente piu' rappresentative a livello nazionale, senza successiva rioccupazione in qualsiasi altra attivita' lavorativa avrebbero maturato, secondo la previgente disciplina pensionistica, la decorrenza del trattamento pensionistico entro il 31 agosto 2016; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                collocati in cassa integrazione guadagni straordinaria finalizzata al prepensionamento ai sensi dell'articolo 37, comma 1, lettera a), della legge 5 agosto 1981, n. 416, in forza di accordi di procedura sottoscritti entro il 31 agosto 2013. ((1))
 
 Restano applicabili ai lavoratori iscritti alle gestioni richiamate dal presente decreto, laddove piu' favorevoli, le disposizioni di cui all'articolo 24, commi 14 e 15, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, di cui all'articolo 6, comma 2-ter, del decreto-legge 29 dicembre 2011, n. 216, convertito, con modificazioni, dalla legge 24 febbraio 2012, n. 14, di cui all'articolo 22 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, di cui all'articolo 1, comma 231, della legge 24 dicembre 2012, n. 228, e di cui all'articolo 11 del decreto-legge 31 agosto 2013, n. 102.
 

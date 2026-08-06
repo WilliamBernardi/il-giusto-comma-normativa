@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2022-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,11 +27,89 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 
 ## Art. 1. — Definizioni e denominazioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si adottano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                amministrazioni pubbliche: le amministrazioni in contabilita' finanziaria di cui all'articolo 1, comma 1, lettera a), del decreto legislativo 31 maggio 2011, n. 91, diverse dalle Amministrazioni centrali dello Stato per le quali si applicano le disposizioni di cui all'articolo 40 della legge 31 dicembre 2009, n. 196; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                piano dei conti integrato: elenco delle unita' elementari del bilancio finanziario gestionale e dei conti economico-patrimoniali, basato su una struttura gerarchica a piu' livelli; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                livelli della articolazione del piano dei conti: strutture gerarchiche esplicative della natura finanziaria ed economica delle transazioni riconducibili alle unita' elementari di bilancio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                livelli minimi di articolazione del piano dei conti: livello base della struttura gerarchica necessario per accedere al sistema integrato di scritturazione contabile; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                voce del piano dei conti: unita' elementare che costituisce il piano dei conti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                contenuto delle voci del piano dei conti: natura economica degli atti gestionali per la loro classificazione al livello elementare; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                sistema integrato di scritturazione contabile: sistema di scritturazione contabile che consenta la registrazione di ciascun evento gestionale contabilmente rilevante in modo da assicurare l'integrazione e la coerenza delle rilevazioni di natura finanziaria con quelle di natura economica e patrimoniale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                transazione elementare: ogni atto o fatto rilevante nell'ambito delle finalita' dell'amministrazione pubblica e oggetto delle rilevazioni contabili. La definizione e la codificazione della transazione elementare sono individuate in coerenza con quanto stabilito all'articolo 8 del decreto legislativo 31 maggio 2011, n. 91.
+
 ## Art. 2.
 
 Contabilita' finanziaria ed economica
 
 Le amministrazioni pubbliche affiancano, ai sensi dell'articolo 6 del decreto legislativo 31 maggio 2011, n. 91, la contabilita' economico-patrimoniale alla contabilita' finanziaria e realizzano un sistema integrato di contabilita', in conformita' a quanto previsto nell'allegato 1.
+
+2.
+                    
+                        
+                            Ciascun atto o fatto gestionale deve trovare corrispondenza in una transazione elementare, cosi' come definita dall'articolo 8 del decreto legislativo 31 maggio 2011, n. 91, ed e' rilevato in modo da assicurare una corrispondenza univoca con: 
+ 
+                        
+                        
+                            a)
+                            
+                                una voce del piano relativo alla contabilita' finanziaria secondo il principio contabile della competenza finanziaria contenuto nel decreto legislativo 31 maggio 2011, n. 91; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una voce del conto economico e del conto patrimoniale, ove la transazione elementare generi un evento rilevante ai fini della manifestazione economica e patrimoniale, secondo il principio della competenza economica contenuto nel decreto legislativo 31 maggio 2011, n. 91.
 
 Al fine di garantire l'integrazione contabile tra i moduli del piano di cui all'allegato 1, ciascuna voce del piano relativo alla contabilita' finanziaria viene correlata alle corrispondenti voci del piano relativo alla contabilita' economico-patrimoniale mediante schemi di transizione predisposti periodicamente dal Dipartimento della Ragioneria generale dello Stato e pubblicati sul sito Internet.
 

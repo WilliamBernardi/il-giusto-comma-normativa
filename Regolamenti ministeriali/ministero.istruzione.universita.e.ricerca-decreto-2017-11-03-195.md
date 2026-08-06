@@ -7,8 +7,8 @@ urn: urn:nir:ministero.istruzione.universita.e.ricerca:decreto:2017-11-03;195
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -90,6 +90,31 @@ Gli studenti hanno altresi' diritto ad esprimere una valutazione sull'efficacia 
 
 Gli studenti, durante i periodi di alternanza, rispettano le regole di comportamento, funzionali e organizzative della struttura presso la quale e' svolto il periodo di alternanza, nonche' il regolamento degli studenti dell'istituzione scolastica di appartenenza.
 
+10.
+                    
+                        
+                            Gli studenti in alternanza sono tenuti a: 
+ 
+                        
+                        
+                            a)
+                            
+                                garantire l'effettiva frequenza delle attivita' formative erogate dal soggetto ospitante, che sono parte integrante del curricolo scolastico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rispettare le norme in materia di igiene, salute e sicurezza sui luoghi di lavoro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ottemperare agli obblighi di riservatezza per quanto attiene a dati, informazioni e conoscenze acquisiti durante lo svolgimento dell'esperienza in alternanza.
+
 Ai fini della validita' del percorso di alternanza, e' richiesta la frequenza, da parte dello studente, di almeno tre quarti del monte ore previsto dal progetto.
 
 Gli studenti, al termine dell'attivita' di alternanza, sono tenuti a relazionare in merito all'esperienza svolta, con le modalita' individuate di concerto tra l'istituzione scolastica e la struttura ospitante.
@@ -104,6 +129,31 @@ Gli studenti impegnati nei percorsi in regime di alternanza ricevono preventivam
 
 E' di competenza dei dirigenti scolastici delle scuole secondarie di secondo grado l'organizzazione di corsi di formazione in materia di tutela della salute e della sicurezza nei luoghi di lavoro, rivolti agli studenti inseriti nei percorsi di alternanza e svolti secondo quanto disposto dal decreto legislativo 9 aprile 2008, n. 81, e successive modificazioni.
 
+3.
+                    
+                        
+                            Al fine di ridurre gli oneri a carico della struttura ospitante nell'erogazione della formazione di cui all'articolo 37 del decreto legislativo 9 aprile 2008, n. 81, e successive modificazioni, possono essere: 
+ 
+                        
+                        
+                            a)
+                            
+                                stipulati dagli uffici scolastici regionali appositi accordi territoriali con i soggetti e gli enti competenti ad erogare tale formazione, tra i quali l'INAIL e gli organismi paritetici previsti nell'accordo Stato-regioni del 21 dicembre 2011, n. 211; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolti percorsi formativi in modalita' e-learning, anche in convenzione con le piattaforme pubbliche esistenti riguardanti la formazione, come previsto dall'accordo Stato-regioni del 21 dicembre 2011, n. 221, e dall'accordo Stato-regioni del 7 luglio 2016, n. 128; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promosse forme piu' idonee di collaborazione, integrazione e compartecipazione finanziaria da determinarsi in sede di convenzione.
+
 Al fine di garantire la salute e la sicurezza degli studenti di cui all'articolo 2 del presente regolamento, considerata la specifica finalita' didattica e formativa, ai sensi dell'articolo 2 comma 1, lettera a), del decreto legislativo 9 aprile 2008, n. 81, e successive modificazioni, che equipara gli studenti allo status dei lavoratori, e' stabilito che il numero di studenti ammessi in una struttura sia determinato in funzione delle effettive capacita' strutturali, tecnologiche ed organizzative della struttura ospitante, nonche' in ragione della tipologia di rischio cui appartiene la medesima struttura ospitante con riferimento all'accordo Stato-regioni del 21 dicembre 2011, n. 221, in una proporzione numerica studenti/tutor della struttura ospitante non superiore al rapporto di 5 a 1 per attivita' a rischio alto, non superiore al rapporto di 8 a 1 per attivita' a rischio medio, non superiore al rapporto di 12 a 1 per attivita' a rischio basso.
 
 Agli studenti in regime di alternanza e' garantita la sorveglianza sanitaria di cui all'articolo 41 del decreto legislativo 9 aprile 2008, n. 81, e successive modificazioni, nei casi previsti dalla normativa vigente. Nei casi in cui la sorveglianza sanitaria si renda necessaria, la stessa e' a cura delle aziende sanitarie locali, fatta salva la possibilita' di regolare, nella convenzione tra queste ultime e l'istituzione scolastica, il soggetto a carico del quale gravano gli eventuali oneri ad essa conseguenti.
@@ -113,6 +163,24 @@ Gli studenti impegnati nelle attivita' di alternanza, in presenza dei requisiti 
 ## Art. 6. — Commissioni territoriali per l'alternanza scuola-lavoro
 
 Presso ciascun ufficio scolastico regionale e' istituita la commissione territoriale per l'alternanza scuola-lavoro, con lo scopo di garantire il rispetto delle disposizioni del presente regolamento sul territorio regionale.
+
+2.
+                    
+                        
+                            La commissione e' presieduta dal dirigente preposto all'ufficio scolastico regionale, ovvero da un dirigente delegato ed e' composta dai seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                tre studenti designati dal coordinamento regionale delle consulte provinciali degli studenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                due docenti, un dirigente scolastico, un rappresentante della regione di riferimento dell'ufficio scolastico regionale e un genitore, designati dal dirigente preposto alla direzione di detto ufficio.
 
 Gli studenti della scuola secondaria superiore o i soggetti aventi la relativa potesta' genitoriale possono presentare reclamo all'ufficio scolastico regionale territorialmente competente contro le violazioni delle norme di cui agli articoli 2, 3, 4 e 5 del presente regolamento, commesse in occasione dell'organizzazione dei percorsi di alternanza scuola-lavoro, ovvero legate a disposizioni emanate dalle istituzioni scolastiche in contrasto con il presente regolamento.
 

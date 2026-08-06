@@ -8,8 +8,8 @@ codice_redazionale: 012G0047
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,66 @@ Entrata in vigore del provvedimento: 27/03/2012
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'Adunanza dell'8 novembre 2011;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Il compenso al curatore di fallimento e' liquidato dal tribunale a norma dell'articolo 39 del regio decreto 16 marzo 1942, n. 267, tenendo conto dell'opera prestata, dei risultati ottenuti, dell'importanza del fallimento, nonche' della sollecitudine con cui sono state condotte le relative operazioni, e deve consistere in una percentuale sull'ammontare dell'attivo realizzato non superiore alle misure seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal 12% al 14% quando l'attivo non superi i 16.227,08 euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 10% al 12% sulle somme eccedenti i 16.227,08 euro fino a 24.340,62 euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dall'8,50% al 9,50% sulle somme eccedenti i 24.340,62 euro fino a 40.567,68 euro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dal 7% all'8% sulle somme eccedenti i 40.567,68 euro fino a 81.135,38 euro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dal 5,5% al 6,5% sulle somme eccedenti i 81.135,38 euro fino a 405.676,89 euro; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dal 4% al 5% sulle somme eccedenti i 405.676,89 euro fino a 811.353,79 euro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dallo 0,90% all'1,80% sulle somme eccedenti i 811.353,79 euro fino a 2.434.061,37 euro; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                dallo 0,45% allo 0,90% sulle somme che superano i 2.434.061,37 euro.
 
 Al curatore e' inoltre corrisposto, sull'ammontare del passivo accertato, un compenso supplementare dallo 0,19% allo 0,94% sui primi 81.131,38 euro e dallo 0,06% allo 0,46% sulle somme eccedenti tale cifra.
 

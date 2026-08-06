@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2001-04-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -189,6 +189,77 @@ L'addetto doganale viene designato, tra i dirigenti o funzionari di qualifica no
 ## Art. 35. — Istituzione di un compenso 
  incentivante unico
 
+1.
+                        
+                            
+                                E' istituito un unico compenso incentivante a favore del personale del Dipartimento delle dogane e delle imposte indirette, che assorbe i trattamenti accessori appresso indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indennita' di confine a favore del personale in servizio presso gli uffici doganali di confine ed aeroportuali posti in localita' disagiata (cap. 5321, e cap. 5305, parte); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    compensi incentivanti la produttivita' al personale civile periferico (cap. 5323, quota parte per sportello, cassa e meccanografia); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fondo da ripartire per le finalita' di cui ai commi 4 e 5 dell'art. 4 del decreto-legge 19 dicembre 1984, n. 853, convertito, con modificazioni, dalla legge 17 febbraio 1985, n. 17 (cap. 1383, parte); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indennita' di rischio di cui al decreto del Presidente della Repubblica 5 maggio 1975, n. 146 (cap. 5318, parte).
+
+2.
+                        
+                            
+                                E' istituito un unico capitolo di spesa per il lavoro straordinario, da erogare al personale del Dipartimento delle dogane e delle imposte indirette, che assorbe gli stanziamenti previsti per la erogazione dei seguenti compensi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lavoro straordinario del personale dirigente centrale (cap. 1019, parte) e periferico (cap. 5303); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavoro straordinario del personale centrale non dirigente (cap. 1019, parte); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    somme da erogare al personale in servizio nelle dogane per compenso per lavoro straordinario ai sensi del decreto del Presidente della Repubblica 13 luglio 1978, n. 396 (cap. 5310); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    somme da erogare a favore del personale in servizio nei laboratori chimici delle dogane per compenso per lavoro straordinario ai sensi del decreto del Presidente della Repubblica 13 luglio 1978, n. 396 (cap. 5311); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    somme da erogare al personale in servizio negli uffici tecnici delle imposte di fabbricazione per compenso per lavoro straordinario ai sensi del decreto del Presidente della Repubblica 13 luglio 1978, n. 396 (cap. 5312).
+
 Lo stanziamento da iscrivere annualmente nel capitolo di cui al comma 2 e' pari alla somma occorrente per corrispondere al personale del Dipartimento i compensi per il lavoro straordinario determinati nei limiti massimi individuali di ore autorizzate al 31 dicembre 1989 dal decreto del Presidente della Repubblica 22 luglio 1977, n. 422, e, dal decreto del Presidente della Repubblica 13 luglio 1978, n. 396.
 
 Le economie risultanti dalla graduale riduzione dei limiti massimi individuali di ore di lavoro straordinario confluiscono nel fondo del compenso incentivante unico di cui al comma 1.
@@ -210,6 +281,24 @@ D'intesa con le organizzazioni sindacali di categoria maggiormente rappresentati
 In attuazione dell'art. 3, comma 1, lettera i, n. 2), della legge 10 ottobre 1989, n. 349, e' istituita, con decorrenza 1 gennaio 1990, l'indennita' di istituto doganale. Detta indennita' e' analoga a quelle in godimento al personale di altre categorie del pubblico impiego operante negli spazi doganali.
 
 I criteri di attribuzione delle somme da corrispondere a ciascuna qualifica dirigenziale, ad esaurimento ed a ciascun livello retributivo sono stabiliti annualmente, d'intesa con le organizzazioni sindacali di cui all'art. 4, comma 4, del decreto del Presidente della Repubblica 8 maggio 1987, n. 266, con decreto del Ministro del tesoro, di concerto con il Ministro delle Finanze.
+
+3.
+                        
+                            
+                                Unitamente alla somma aggiuntiva di lire 30 miliardi annui prevista dall'art. 3, comma 1, lettera i, n. 2, della legge 10 ottobre 1989, n. 349, sono fatti affluire in un unico capitolo di spesa obbligatoria gli stanziamenti previsti per la erogazione al personale del Dipartimento dei seguenti compensi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    compenso incentivante previsto dall'art. 10 del decreto del Presidente della Repubblica 25 giugno 1983 n. 344; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    maggiorazione del compenso incentivante prevista dall'art. 3 della legge 13 luglio 1984, n. 302.
 
 ## Art. 38. — (( ARTICOLO ABROGATO DAL D.P.R. 26 MARZO 2001, N. 107 ))
 

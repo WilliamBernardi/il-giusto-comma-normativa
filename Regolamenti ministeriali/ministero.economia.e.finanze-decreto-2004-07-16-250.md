@@ -8,8 +8,8 @@ codice_redazionale: 004G0281
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,115 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Nel presente regolamento l'espressione:
+ 
+                            
+                            
+                                a)
+                                
+                                    «decreto legislativo» indica il decreto legislativo 21 aprile 2000, n. 185, pubblicato nella Gazzetta Ufficiale della Repubblica italiana del 6 luglio 2000, n. 156;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Sviluppo Italia» indica la societa' Sviluppo Italia S.p.A. di cui all'articolo 23 del decreto legislativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «beneficiari» indica le societa', ivi comprese le cooperative di produzione e lavoro, gli agricoltori e le cooperative sociali di cui agli articoli 5, 7, 9 e 11 del decreto legislativo destinatari delle agevolazioni di cui al presente regolamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «territori agevolati» indica i territori di cui all'articolo 2 del decreto legislativo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «nuove iniziative» indica i progetti che presentano i requisiti della novita';
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «iniziative di sviluppo e consolidamento» indica i progetti di sviluppo e/o consolidamento che contemplino ampliamenti, razionalizzazioni, diversificazioni e ammodernamenti di attivita' gia' esistenti;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «progetto» indica il documento tecnico in cui e' descritta l'idea di impresa, sono pianificate le scelte strategiche e operative necessarie a realizzarla, e' dimostrata la fattibilita' tecnica, economica e finanziaria dell'iniziativa e la sua redditivita';
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «de minimis» indica la regola di diritto comunitario di cui al Regolamento (CE) n. 69/2001 della Commissione europea del 12 gennaio 2001, relativo all'applicazione degli articoli 87 e 88 del Trattato CE agli aiuti di importanza minore (de minimis);
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «tasso di riferimento» indica il tasso di riferimento determinato dalla Commissione europea;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    «beni culturali» indica beni di interesse archeologico, storico, artistico, demoetno-antropologico, ambientale e paesistico, archivistico e librario o, comunque, beni che costituiscano testimonianza materiale avente valore di civilta', che possano essere oggetto dell'attivita' di fruizione;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    «orientamenti» indica gli Orientamenti comunitari per gli aiuti di Stato nel settore agricolo pubblicati nella Gazzetta Ufficiale delle Comunita' europee C 28 del 1° febbraio 2000;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «ESL» indica l'Equivalente Sovvenzione Lordo che rappresenta, espresso in percentuale, il valore totale dell'agevolazione concessa ad un'azienda, al lordo delle tasse e in rapporto all'intero ammontare dell'investimento, secondo il metodo dell'Equivalente Sovvenzione adottato dalla Comunita' europea per misurare l'effettiva intensita' dell'aiuto;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «regioni di cui all'Obiettivo 1» indica le regioni di cui all'articolo 3 del regolamento (CE) n. 1260/1999 del Consiglio del 21 giugno 1999, recante disposizioni generali sui Fondi strutturali per il periodo 2000-2006;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «POR» indica il Programma Operativo Regionale e rappresenta il documento di programmazione, predisposto dalle regioni ai sensi del regolamento (CE) n. 1260/1999 del Consiglio del 21 giugno 1999, per gli interventi strutturali comunitari nelle regioni interessate dall'Obiettivo 1 in Italia. Esso contiene gli assi prioritari del programma, la coerenza col quadro comunitario di sostegno corrispondente, una descrizione sintetica delle misure previste, il piano finanziario indicativo e le disposizioni di attuazione del programma;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «PSR» indica il Piano di Sviluppo Rurale e rappresenta il documento di programmazione, predisposto dalle regioni ai sensi del regolamento (CE) n. 1257/99 del Consiglio del 17 maggio 1999, per la razionalizzazione e il finanziamento degli interventi nel settore agricolo, forestale e dello sviluppo rurale e opera sull'intero territorio regionale.
+
 ## Art. 2. — Requisiti dei soggetti beneficiari
 
 Le misure previste dal presente regolamento interessano le piccole imprese, cosi' come definite nella Raccomandazione 96/280/CE della Commissione europea del 3 aprile 1996 e nell'allegato I al regolamento (CE) n. 70/2001 della Commissione europea del 12 gennaio 2001 relativo all'applicazione degli articoli 87 e 88 del Trattato CE agli aiuti di Stato a favore delle piccole e medie imprese, nonche', a decorrere dal 1° gennaio 2005, le microimprese e le piccole imprese cosi' come definite nella Raccomandazione 2003/361/CE della Commissione europea del 6 maggio 2003.
@@ -49,7 +158,43 @@ Le agevolazioni di cui all'articolo 3, comma 1, lettera a), del decreto legislat
 
 Con esclusione dei progetti nei settori dei trasporti ed in quelli della produzione, trasformazione e commercializzazione dei prodotti agricoli di cui all'allegato I del Trattato CE, in luogo dei benefici di cui al comma 1, puo' essere concesso un contributo nei limiti del de minimis. In tal caso, l'eventuale contributo concesso per le spese di avviamento e/o di assistenza tecnica e formazione concorre al raggiungimento del limite del de minimis.
 
+3.
+                        
+                            
+                                Per i progetti nel settore della produzione agricola le agevolazioni sono concedibili esclusivamente in termini di ESL secondo i limiti fissati dagli Orientamenti, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    50 per cento nelle zone svantaggiate individuate ai sensi del regolamento (CE) n. 1257/99 del 17 maggio 1999;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    40 per cento nelle restanti zone dei territori agevolati.
+
 I massimali di cui al comma 3 possono essere elevati di 5 punti percentuali per i giovani agricoltori, ai sensi del punto 4.1.1.2 degli Orientamenti.
+
+5.
+                        
+                            
+                                Per i progetti nel settore della trasformazione e commercializzazione dei prodotti agricoli le agevolazioni sono concedibili esclusivamente in termini di ESL secondo i limiti fissati dagli Orientamenti, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    50 per cento nelle regioni di cui all'Obiettivo 1;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    40 per cento nelle restanti zone dei territori agevolati.
 
 Ai fini del calcolo dell'ESL concorrono eventuali altre agevolazioni finanziarie pubbliche concesse al beneficiario.
 
@@ -58,6 +203,31 @@ Ai fini del calcolo dell'ESL concorrono eventuali altre agevolazioni finanziarie
 Nei settori della produzione, trasformazione e commercializzazione dei prodotti agricoli di cui all'allegato I del Trattato CE sono esclusi dal finanziamento i progetti che prevedono investimenti di mera sostituzione di beni preesistenti.
 
 Le agevolazioni agli investimenti devono contribuire a migliorare i redditi agricoli e le condizioni di vita, di lavoro e di produzione. Il progetto deve perseguire almeno uno dei seguenti obiettivi: ridurre i costi di produzione, migliorare e riconvertire la produzione, incrementare la qualita', tutelare e migliorare l'ambiente naturale, le condizioni di igiene e di benessere degli animali, promuovere la diversificazione delle attivita' agricole.
+
+3.
+                        
+                            
+                                Il sostegno agli investimenti viene concesso unicamente ad aziende che soddisfino le seguenti ulteriori condizioni, che devono sussistere al momento della deliberazione di ammissione alle agevolazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    redditivita' dell'azienda agricola comprovata mediante valutazione delle sue prospettive;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possesso di adeguate conoscenze e competenze professionali da parte dell'imprenditore proponente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rispetto dei requisiti comunitari minimi in materia di ambiente, igiene e benessere degli animali.
 
 Le condizioni di cui al comma 3, lettere b) e c), possono essere soddisfatte entro tre anni dall'insediamento soltanto nei casi in cui sia necessario un periodo di adattamento per agevolare l'insediamento del giovane agricoltore o l'adattamento strutturale della sua azienda.
 
@@ -114,6 +284,38 @@ Il contributo di cui al comma 1 e' concedibile, nell'ambito territoriale di appl
 
 ## Art. 10. — Benefici per l'assistenza tecnica nel settore agricolo
 
+1.
+                        
+                            
+                                Le agevolazioni sono concesse, ai sensi del punto 14.1 degli Orientamenti, per coprire, fino al 100 per cento, i seguenti costi:
+ 
+                            
+                            
+                                a)
+                                
+                                    istruzione e formazione: i costi ammissibili comprendono le spese inerenti all'organizzazione del programma di formazione, le spese di viaggio e di soggiorno e i costi della fornitura di servizi di sostituzione durante l'assenza dell'agricoltore o del suo collaboratore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestazione di servizi di gestione aziendale e di servizi ausiliari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizzazione di concorsi, mostre e fiere, incluse le spese connesse alla partecipazione a tali manifestazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre attivita' finalizzate alla diffusione di nuove tecniche, quali progetti pilota su scala ragionevolmente limitata o progetti dimostrativi.
+
 Ai sensi del punto 14.2 degli Orientamenti, non sono concessi aiuti limitati a determinate associazioni ed intesi a favorire soltanto i loro membri.
 
 Ai sensi del punto 14.3 degli Orientamenti, l'importo globale degli aiuti non puo' superare i 100.000,00 euro per ogni beneficiario per un periodo di tre anni.
@@ -160,6 +362,31 @@ La realizzazione del progetto non deve essere stata avviata prima della presenta
 
 ## Art. 16. — Istruttoria e valutazione delle domande
 
+1.
+                        
+                            
+                                Le domande vengono protocollate secondo l'ordine cronologico di ricevimento e, quindi, sottoposte ad un esame diretto ad accertare:
+ 
+                            
+                            
+                                a)
+                                
+                                    la sussistenza dei requisiti soggettivi dei richiedenti di cui agli articoli 5, 7, 9 e 11 del decreto legislativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sussistenza dei requisiti oggettivi inerenti i progetti di cui agli articoli 6, 8, 10 e 12 del decreto legislativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la validita' tecnica, economica e finanziaria dell'iniziativa proposta, con specifico riferimento all'attendibilita' professionale dei soggetti proponenti, all'affidabilita' del piano finanziario, alla redditivita' e al livello tecnologico del progetto, nonche' alla potenzialita' del mercato di riferimento.
+
 ## Art. 17. — Deliberazione di ammissione alle agevolazioni o di rigetto della domanda
 
 All'esito del procedimento istruttorio Sviluppo Italia, esperiti gli adempimenti di cui all'articolo 4 del decreto legislativo 8 agosto 1994, n. 490, e successive modificazioni ed integrazioni, delibera l'ammissione alle agevolazioni o il rigetto della domanda, dandone comunicazione agli interessati ed alla Regione competente.
@@ -205,6 +432,45 @@ La disposizione di cui al comma 2 si applica, alle medesime condizioni, ai benef
 
 ## Art. 22. — Spese di investimento ammissibili
 
+1.
+                        
+                            
+                                Per la realizzazione del progetto sono ammissibili le spese, al netto dell'I.V.A., relative alle seguenti voci:
+ 
+                            
+                            
+                                a)
+                                
+                                    studio di fattibilita', comprensivo dell'analisi di mercato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    terreno;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    opere edilizie da acquistare o da eseguire, compresi gli oneri dovuti per l'eventuale concessione edilizia e le spese necessarie per la progettazione esecutiva;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    allacciamenti, impianti, macchinari ed attrez-zature;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altri beni materiali ed immateriali ad utilita' pluriennale direttamente collegati al ciclo produttivo.
+
 La spesa di cui al comma 1, lettera a), e' ammissibile nella misura del 2 per cento in caso di investimenti fino a 550.000,00 euro, dell'1,5 per cento da 550.000,00 euro a 1.300.000,00 euro e dell'1 per cento da 1.300.000,00 euro fino al limite previsto dal decreto legislativo.
 
 L'importo complessivo delle spese di cui al comma 1 deve essere pari, ai fini dell'ammissibilita' delle spese di cui alla lettera c), ad almeno 2,5 volte le spese di cui alla stessa lettera. In casi eccezionali, tale fattore e' riducibile fino al valore di 1,67 in relazione alla specificita' del settore e dell'attivita'.
@@ -219,9 +485,91 @@ Ai progetti nel settore della trasformazione e commercializzazione dei prodotti 
 
 ## Art. 23. — Spese di gestione ammissibili
 
+1.
+                        
+                            
+                                Per l'avviamento dell'iniziativa sono ammissibili le spese, al netto dell'I.V.A., regolarmente documentate, relative alle seguenti voci:
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisto di materie prime, di semilavorati e di prodotti finiti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestazioni di servizi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oneri finanziari esclusi gli interessi relativi al mutuo di cui all'articolo 11.
+
+2.
+                        
+                            
+                                Non sono ammissibili le spese concernenti le seguenti voci:
+ 
+                            
+                            
+                                a)
+                                
+                                    spese per il personale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimborsi ai soci.
+
 Il presente articolo non si applica ai progetti nel settore agricolo.
 
 ## Art. 24. — Documentazione da allegare alla domanda
+
+1.
+                        
+                            
+                                Alla domanda di ammissione alle agevolazioni, corredata dalla fotocopia di un documento di identita' in corso di validita' del legale rappresentante della societa' richiedente, e dei soci dichiaranti va allegata, in duplice copia, la seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    fotocopia autenticata dell'atto costitutivo e dello statuto societario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, con la quale il legale rappresentante della societa' dichiara che la sede legale, amministrativa ed operativa della societa' medesima e' ubicata nei territori agevolati, ai sensi dell'articolo 5, comma 3, del decreto legislativo, che la compagine sociale e' costituita da soggetti aventi i requisiti di cui all'articolo 5, commi 1 e 2, del decreto legislativo, che i soci persone fisiche non sono titolari di quote o azioni di societa' o di ditte individuali beneficiarie di finanziamenti concessi ai sensi del decreto legislativo o ai sensi delle leggi indicate all'articolo 2, comma 3 e che nei confronti della societa' non sono in corso procedure esecutive o concorsuali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, con la quale ogni singolo socio persona fisica dichiara di non essere titolare di quote o azioni di societa' o di ditte individuali beneficiarie di finanziamenti concessi ai sensi del decreto legislativo o ai sensi delle leggi indicate all'articolo 2, comma 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    studio di fattibilita' del progetto da realizzare, sottoscritto dal legale rappresentante della societa', comprendente informazioni documentate sulle competenze ed esperienze di tutti i soci, con l'indicazione delle funzioni aziendali per essi previste, sul mercato di riferimento, sugli investimenti e sugli aspetti tecnico-organizzativi, sulla economicita' dell'iniziativa, dimostrata dai bilanci previsionali relativi almeno ai primi tre anni di attivita' e redatti secondo i criteri stabiliti dalla direttive comunitarie, tenendo conto delle agevolazioni di cui all'articolo 3, lettere a) e b), del decreto legislativo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    certificato di iscrizione della societa' nel Registro delle imprese tenuto dalla Camera di commercio o dichiarazione sostitutiva di certificazione.
 
 ## - Capo III Misure in favore della nuova imprenditorialita' nel settore dei servizi
 
@@ -241,6 +589,38 @@ Sono esclusi i progetti presentati da societa' di servizi che prevedono attivita
 
 ## Art. 27. — Spese di investimento ammissibili
 
+1.
+                        
+                            
+                                Per la realizzazione del progetto sono ammissibili le spese, al netto dell'I.V.A., relative alle seguenti voci:
+ 
+                            
+                            
+                                a)
+                                
+                                    studio di fattibilita' comprensivo dell'analisi di mercato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    opere edilizie da eseguire;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    allacciamenti, impianti, macchinari ed attrezzature;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altri beni materiali ed immateriali ad utilita' pluriennale direttamente collegati al ciclo produttivo.
+
 La spesa per lo studio di fattibilita' e' ammissibile nella misura del 2 per cento del valore complessivo dell'investimento da realizzare.
 
 Le spese di cui al comma 1, lettera b) sono ammesse esclusivamente per la sistemazione e/o la ristrutturazione di immobili, anche di terzi, entro il limite del 10 per cento dell'investimento complessivo. Tale limite puo' essere elevato da Sviluppo Italia in relazione alla possibilita' di acquisire le garanzie di cui all'articolo 4 del decreto legislativo.
@@ -259,11 +639,107 @@ Per i progetti relativi al settore dei servizi di fruizione dei beni culturali a
 
 ## Art. 30. — Requisiti dei beneficiari
 
+1.
+                        
+                            
+                                Possono presentare domanda di ammissione i soggetti aventi i requisiti di cui all'articolo 9, commi 1 e 2, del decreto legislativo, i quali:
+ 
+                            
+                            
+                                a)
+                                
+                                    siano imprenditori agricoli a titolo principale, intendendosi per tali coloro che ricavano dall'azienda agricola un reddito pari o superiore al 50 per cento del proprio reddito totale e dedicano alle attivita' esterne all'azienda medesima un tempo di lavoro inferiore alla meta' del proprio tempo di lavoro totale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    subentrino o siano subentrati da non piu' di dodici mesi ad un parente entro il terzo grado nella conduzione dell'azienda agricola localizzata nei territori agevolati, assumendo la responsabilita' civile e fiscale della gestione ovvero subentrino mortis causa ad un parente entro il terzo grado, purche' il progetto sia inoltrato nei sei mesi successivi al decesso.
+
 Nel caso in cui non sia posseduta alla data della presentazione della domanda, la qualifica di imprenditore agricolo a titolo principale deve sussistere al momento della deliberazione di ammissione alle agevolazioni.
 
 ## Art. 31. — Vincoli sui progetti finanziabili
 
+1.
+                        
+                            
+                                Il conduttore uscente deve avere il legittimo possesso dell'azienda a titolo di proprieta', di affitto, di comodato o di uso nei due anni precedenti la data di presentazione della domanda. Il soggetto richiedente si impegna a subentrare al conduttore uscente non oltre tre mesi dalla data della deliberazione di ammissione alle agevolazioni. In sede di prima applicazione della misura agevolativa di cui al presente capo sono accoglibili i progetti presentati entro sei mesi dalla data di entrata in vigore del presente regolamento, nei quali il subentro sia avvenuto in uno dei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel periodo tra il 24 maggio 1997 e il 23 mag-gio 1999, a condizione che i richiedenti risultino in possesso dei requisiti di cui all'articolo 9, commi 1 e 2, del decreto legislativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il 23 maggio 1999, a condizione che il conduttore uscente dimostri di aver avuto il legittimo possesso dell'azienda a titolo di proprieta', di affitto, di comodato o di uso nei due anni precedenti la data del subentro formale.
+
 ## Art. 32. — Spese di investimento ammissibili nei progetti di produzione
+
+1.
+                        
+                            
+                                Per la realizzazione del progetto, nel rispetto di quanto stabilito nel punto 4.1.1.5 degli Orientamenti, sono ammissibili le spese, al netto dell'I.V.A., concernenti le seguenti voci:
+ 
+                            
+                            
+                                a)
+                                
+                                    studio di fattibilita', comprensivo dell'analisi di mercato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    opere agronomiche e di miglioramento fondiario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    opere edilizie da acquistare o da eseguire;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    oneri per il rilascio della concessione edilizia;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    allacciamenti, impianti, macchinari ed attrezzature;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    servizi di progettazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    acquisto di animali e piante;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    brevetti e licenze.
 
 L'importo complessivo delle spese di cui al comma 1 deve essere pari, ai fini dell'ammissibilita' delle spese di cui alle lettere b), c) e d), ad almeno 2,5 volte la somma delle spese di cui alle stesse lettere. In casi eccezionali, tale fattore e' riducibile fino al valore di 1,67 in relazione alla specificita' del settore e dell'attivita'.
 
@@ -275,6 +751,52 @@ Non sono ammissibili le spese sostenute per la costruzione o la ristrutturazione
 
 ## Art. 33. — Spese di investimento ammissibili nei progetti di trasformazione e commercializzazione
 
+1.
+                        
+                            
+                                Per la realizzazione del progetto, nel rispetto di quanto stabilito nel punto 4.2.3 degli Orientamenti, sono ammissibili le spese, al netto dell'I.V.A., concernenti le seguenti voci:
+ 
+                            
+                            
+                                a)
+                                
+                                    studio di fattibilita', comprensivo dell'analisi di mercato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    opere edilizie da acquistare o da eseguire;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oneri per il rilascio della concessione edilizia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    allacciamenti, impianti, macchinari ed attrezzature;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi di progettazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    brevetti e licenze.
+
 La potenzialita' dei nuovi impianti di trasformazione non deve essere superiore al 100 per cento della capacita' produttiva, stimata a regime, dell'azienda oggetto del subentro.
 
 La spesa di cui al comma 1, lettera a), e' ammissibile nella misura del 2 per cento del valore complessivo dell'investimento da realizzare. L'importo complessivo delle spese di cui al comma 1 deve essere pari, ai fini dell'ammissibilita' delle spese di cui alle lettere b) e c), ad almeno 2,5 volte la somma delle spese di cui alle stesse lettere. In casi eccezionali, tale fattore e' riducibile fino al valore di 1,67 in relazione alla specificita' del settore e dell'attivita'.
@@ -284,6 +806,45 @@ Salvo il disposto di cui al comma 3, le spese di cui al comma 1, lettere a), e) 
 Non sono ammissibili le spese sostenute per la costruzione o la ristrutturazione di fabbricati rurali non strettamente connesse con l'attivita' prevista dal progetto.
 
 ## Art. 34. — Documentazione da allegare alla domanda
+
+1.
+                        
+                            
+                                Alla domanda di ammissione alle agevolazioni, corredata da fotocopia di un documento d'identita' in corso di validita' del richiedente, va allegata, in duplice copia, la seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    certificato di nascita e di residenza del richiedente al 1° gennaio 2000 o dichiarazione sostitutiva di certificazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione sostitutiva di atto di notorieta', resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, con la quale il conduttore uscente attesta di avere il legittimo possesso dei terreni oggetto dell'iniziativa, dei quali sono indicati i dati catastali, a titolo di proprieta' o di affitto o di comodato o di uso, secondo quanto previsto all'articolo 31;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    studio di fattibilita' del progetto da realizzare, contenente informazioni documentate sulle capacita' tecniche e professionali del soggetto proponente, sulle potenzialita' del mercato di riferimento, sugli investimenti previsti, sulla situazione dell'azienda agricola oggetto del subentro, sulla redditivita' attesa dell'iniziativa illustrata dai bilanci previsionali relativi almeno ai primi tre anni di attivita' redatti, considerando le agevolazioni di cui all'articolo 3, lettere a) e b), del decreto legislativo, secondo i criteri stabiliti dalle direttive comunitarie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    certificato di iscrizione dell'azienda nel Registro delle imprese presso la Camera di commercio o dichiarazione sostitutiva di certificazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, con la quale il richiedente dichiara di non essere titolare di quote o azioni di societa', di ditte individuali o di imprese agricole beneficiarie di agevolazioni concesse ai sensi del decreto legislativo o delle leggi di cui all'articolo 2, comma 3.
 
 ## - Capo V Misure in favore delle cooperative sociali
 
@@ -307,6 +868,45 @@ Nell'ambito dei settori agevolabili indicati all'articolo 12, comma 1, del decre
 
 ## Art. 37. — Spese di investimento ammissibili
 
+1.
+                        
+                            
+                                Per la realizzazione del progetto sono ammissibili le spese, al netto dell'I.V.A., regolarmente documentate concernenti le seguenti voci:
+ 
+                            
+                            
+                                a)
+                                
+                                    studio di fattibilita' comprensivo dell'analisi di mercato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    terreno;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    opere edilizie da acquistare o da eseguire, compresi gli oneri dovuti per l'eventuale concessione edilizia e le spese necessarie per la progettazione esecutiva;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    allacciamenti, impianti, macchinari ed attrezzature;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altri beni materiali ed immateriali ad utilita' pluriennale direttamente collegati al ciclo produttivo.
+
 La spesa di cui al comma 1, lettera a), e' ammissibile nella misura del 2 per cento.
 
 L'importo complessivo delle spese di cui al comma 1 deve essere pari, ai fini dell'ammissibilita' delle spese di cui alle lettere b), c) e d), ad almeno 2,5 volte la somma delle spese di cui alle stesse lettere. In casi eccezionali, tale fattore e' riducibile fino al valore di 1,67 in relazione alla specificita' del settore e dell'attivita'.
@@ -326,6 +926,52 @@ Per l'avviamento del progetto sono ammissibili, al netto dell'I.V.A., le spese i
 Il presente articolo non si applica ai progetti nel settore agricolo.
 
 ## Art. 39. — Documentazione da allegare alla domanda
+
+1.
+                        
+                            
+                                Alla domanda di ammissione, corredata dalla fotocopia di un documento d'identita' in corso di validita' del legale rappresentante della societa' richiedente e dei soci dichiaranti, va allegata, in duplice copia, la seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    fotocopia autenticata dell'atto costitutivo e dello statuto societario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato d'iscrizione della cooperativa nell'apposito registro presso la prefettura della provincia in cui essa ha la sede legale o dichiarazione sostitutiva di certificazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione sostitutiva di atto di notorieta', resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, con la quale il legale rappresentante della societa' richiedente dichiara che la sede legale, amministrativa ed operativa della societa' e' ubicata nei territori agevolati ai sensi dell'articolo 11, comma 4, del decreto legislativo, che la compagine sociale e' costituita da soggetti aventi i requisiti di cui all'articolo 11, commi 2 e 3, del decreto legislativo e che i soci persone fisiche non sono titolari di quote o azioni di societa' o di ditte individuali beneficiarie di agevolazioni concesse ai sensi del decreto legislativo o delle leggi indicate all'articolo 2, comma 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, con la quale ogni singolo socio persona fisica dichiara di non essere titolare di quote o azioni di societa' o di ditte individuali beneficiarie di finanziamenti concessi ai sensi del decreto legislativo o delle leggi indicate all'articolo 2, comma 3;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    studio di fattibilita' del progetto da realizzare, sottoscritto dal legale rappresentante della societa', che deve comprendere informazioni documentate sulle competenze ed esperienze di tutti i soci, con l'indicazione delle funzioni aziendali per essi previste, sul mercato di riferimento, sugli investimenti e sugli aspetti tecnico-organizzativi, sull'economicita' dell'iniziativa, illustrata dai bilanci previsionali relativi almeno ai primi tre anni di attivita' redatti secondo i criteri stabiliti dalle direttive comunitarie, tenendo conto delle agevolazioni di cui all'articolo 3, lettere a) e b), del decreto legislativo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nel caso di cooperative gia' esistenti, i bilanci degli ultimi due esercizi o dalla data di inizio dell'attivita' se inferiore, con le relative delibere assembleari di approvazione.
 
 Nel caso di nuove iniziative lo studio di fattibilita' del progetto deve comprendere informazioni relative ai riflessi sociali dell'iniziativa, con particolare riferimento al numero di soggetti svantaggiati inseriti nel processo lavorativo, alla capacita' di abilitare professionalmente i soggetti svantaggiati, alla riduzione dei costi assistenziali, alla capacita', a regime, di farsi carico dei maggiori oneri connessi con l'inserimento lavorativo di soggetti svantaggiati, al mercato di riferimento, agli investimenti e agli aspetti tecnico-organizzativi, nonche' agli aspetti economico-finanziari illustrati dai bilanci previsionali relativi almeno ai primi tre anni di attivita', redatti secondo i criteri stabiliti dalle direttive comunitarie, da cui risulti un sostanziale equilibrio di gestione.
 

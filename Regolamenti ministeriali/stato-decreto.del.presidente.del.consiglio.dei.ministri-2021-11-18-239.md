@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2021-11-18;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -23,6 +23,38 @@ DEL CONSIGLIO DEI MINISTRI
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 20 luglio 2021;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Codice», il decreto legislativo 18 aprile 2016, n. 50, recante «Codice dei contratti pubblici»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «RUO», il responsabile dell'unita' organizzativa che agisce come stazione appaltante, o un suo delegato, di livello dirigenziale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «RUP», il responsabile unico del procedimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Presidenza», la Presidenza del Consiglio dei ministri.
 
 ## Art. 2. — Oggetto e ambito di applicazione
 
@@ -42,9 +74,98 @@ Fermo restando quanto previsto dal comma 6, sono esclusi gli incentivi nei casi 
 
 ## Art. 3. — Misura degli incentivi
 
+1.
+                    
+                        
+                            Gli incentivi per le funzioni tecniche di cui all'articolo 113, comma 2, del Codice sono costituiti da una quota non superiore al 2 per cento dell'importo dei lavori, servizi e forniture posti a base di gara nella procedura di scelta del contraente, al netto dell'IVA, secondo i seguenti scaglioni e relative aliquote: 
+ 
+                        
+                        
+                            a)
+                            
+                                2 per cento per importi fino a cinque milioni di euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                1,8 per cento per la parte di importo eccedente cinque milioni di euro e fino a dieci milioni di euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                1,5 per cento per la parte di importo eccedente dieci milioni di euro e fino a venti milioni di euro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                1 per cento per la parte di importo eccedente venti milioni di euro.
+
 Ai sensi all'articolo 113, comma 1, del Codice, le somme di cui al comma 1 del presente articolo sono previste nell'ambito del quadro economico del progetto o del capitolato posto a base della procedura di scelta del contraente. Tali somme sono ricomprese, con specifica clausola, nell'impegno di spesa attinente al relativo contratto e fanno capo al medesimo capitolo di spesa previsto per i singoli lavori, servizi e forniture.
 
 Nel rispetto dell'articolo 113, comma 3, primo periodo, del Codice, l'80 per cento delle risorse di cui al comma 1 e' ripartito per ciascuna opera o lavoro, servizio o fornitura, tra il responsabile unico del procedimento e i soggetti che svolgono le funzioni tecniche indicate all'articolo 113, comma 2, del Codice, nonche' tra i loro collaboratori. Ai sensi dell'articolo 113, comma 3, secondo periodo, del Codice, gli importi sono comprensivi degli oneri previdenziali e assistenziali a carico della Presidenza.
+
+4.
+                    
+                        
+                            Le percentuali effettive degli incentivi attribuibili per le funzioni tecniche di cui all'articolo 113 del Codice, svolte nell'ambito di procedure di gara aventi a oggetto opere o lavori, sono identificate, secondo le modalita' e i criteri previsti in sede di contrattazione decentrata integrativa del personale, nel rispetto dei seguenti valori minimi e massimi e, comunque, entro il valore complessivo percentuale inferiore o uguale a 100: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal 25 per cento al 35 per cento, da ripartire tra il responsabile unico del procedimento e il personale tecnico e amministrativo di supporto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 5 per cento al 10 per cento, da ripartire tra gli incaricati della verifica dei progetti, della programmazione della spesa per investimenti, della predisposizione e del controllo delle procedure di bando; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal 25 per cento al 35 per cento, da ripartire tra il direttore dei lavori e il personale tecnico assistente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dal 20 per cento al 30 per cento, da ripartire tra l'incaricato del collaudo tecnico-amministrativo e il collaudatore statico.
+
+5.
+                    
+                        
+                            Le percentuali effettive degli incentivi attribuibili per le funzioni tecniche di cui all'articolo 113 del Codice, svolte nell'ambito di procedure di gara aventi a oggetto servizi e forniture, sono identificate, secondo le modalita' e i criteri previsti in sede di contrattazione decentrata integrativa del personale, nel rispetto dei seguenti valori minimi e massimi e, comunque, entro il valore complessivo percentuale inferiore o uguale a 100: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal 25 per cento al 45 per cento, da ripartire tra il responsabile unico del procedimento e il personale tecnico e amministrativo di supporto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 10 per cento al 20 per cento, da ripartire tra gli incaricati della programmazione della spesa per investimenti e gli incaricati della predisposizione e del controllo delle procedure di bando; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal 25 per cento al 45 per cento, da ripartire tra il direttore dell'esecuzione contrattuale e i collaboratori, nonche' l'incaricato della verifica di conformita'.
 
 Per i compiti svolti dal personale di cui all'articolo 113, comma 5, del Codice, puo' essere riconosciuta, su richiesta della centrale unica di committenza, una quota parte, non superiore a un quarto, dell'incentivo di cui al comma 1 del presente articolo.
 
@@ -89,6 +210,59 @@ La determinazione degli importi spettanti al personale incaricato avviene con pr
 
 La liquidazione puo' essere corrisposta anche in corrispondenza dei certificati di pagamento emessi sulla base degli stati di avanzamento lavori. Per i servizi e le forniture la liquidazione puo' essere corrisposta in concomitanza dell'emissione dei certificati di pagamento prodotti a seguito delle verifiche periodiche di conformita' o di regolare esecuzione.
 
+3.
+                    
+                        
+                            Le prestazioni sono da considerarsi rese: 
+ 
+                        
+                        
+                            a)
+                            
+                                per la direzione lavori, con l'emissione del certificato di ultimazione lavori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il collaudo tecnico amministrativo, con l'emissione del certificato di collaudo finale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la programmazione della spesa per investimenti, con l'emanazione del relativo provvedimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per la verifica dei progetti, con l'invio al responsabile unico del procedimento della relazione finale di verifica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per le procedure di bando, con la pubblicazione dell'aggiudicazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per l'esecuzione dei contratti in caso di forniture e servizi, con l'espletamento delle verifiche periodiche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per le verifiche di conformita', con l'emissione della certificazione di regolare esecuzione.
+
 Nel caso in cui a uno stesso dipendente siano affidati, nell'ambito della medesima opera o lavoro, piu' incarichi tecnici, la quota dell'incentivo spettante e' pari alla somma delle quote relative alle singole prestazioni svolte, nei limiti di cui al comma 6.
 
 In caso di cessazione dell'incarico per motivazioni diverse da quelle di cui agli articoli 8 e 9, l'incentivo spettante e' liquidato in proporzione alle attivita' effettivamente svolte.
@@ -106,6 +280,24 @@ L'incarico e' revocato e non e' corrisposto alcun incentivo qualora il ritardo d
 ## Art. 9.
 
 Altre ipotesi di responsabilita'
+
+1.
+                    
+                        
+                            L'incarico e' revocato e non e' corrisposto alcun incentivo al soggetto incaricato che, nello svolgimento dei compiti assegnati per l'esecuzione di funzioni tecniche, risulti responsabile di: 
+ 
+                        
+                        
+                            a)
+                            
+                                violazioni degli obblighi previsti dalla legge, dalla contrattazione collettiva di lavoro e dal codice di comportamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                errori, omissioni o negligenze, non ricompresi nei casi di cui alla lettera a), tali da determinare aumenti dei costi previsti nel quadro economico o danni per la Presidenza.
 
 ## Art. 10.
 

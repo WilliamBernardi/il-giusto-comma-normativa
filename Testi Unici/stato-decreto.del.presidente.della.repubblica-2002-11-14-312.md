@@ -8,8 +8,8 @@ codice_redazionale: 003G0018
 vigente: true
 source: normattiva-opendata
 collection: Testi Unici
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,6 +39,102 @@ Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro per la fu
 
 
 
+1.
+                        
+                            
+                                Ai fini del presente testo unico, se non diversamente ed espressamente indicato:
+
+
+                            
+                            
+                                a)
+                                
+                                    "casellario giudiziale" e' l'insieme dei dati relativi a provvedimenti giudiziari e amministrativi riferiti a soggetti determinati;
+                                
+                            
+                            
+                                b)
+                                
+                                    "casellario dei carichi pendenti" e' l'insieme dei dati relativi a provvedimenti giudiziari riferiti a soggetti determinati che hanno la qualita' di imputato;
+                                
+                            
+                            
+                                c)
+                                
+                                    "anagrafe delle sanzioni amministrative dipendenti da reato" e' l'insieme dei dati relativi a provvedimenti giudiziari che applicano, agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, le sanzioni amministrative dipendenti da reato, ai sensi del decreto legislativo 8 giugno 2001, n. 231;
+                                
+                            
+                            
+                                d)
+                                
+                                    "anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato" e' l'insieme dei dati relativi a provvedimenti giudiziari riferiti agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, cui e' stato contestato l'illecito amministrativo dipendente da reato, ai sensi del decreto legislativo 8 giugno 2001, n. 231;
+                                
+                            
+                            
+                                e)
+                                
+                                    "ente" e' l'ente fornito di personalita' giuridica, la societa' e l'associazione, anche priva di personalita' giuridica, ai sensi del decreto legislativo 8 giugno 2001, n. 231;
+                                
+                            
+                            
+                                f)
+                                
+                                    "provvedimento giudiziario" e' la sentenza, il decreto penale e ogni altro provvedimento emesso dall'autorita' giudiziaria;
+                                
+                            
+                            
+                                g)
+                                
+                                    "provvedimento giudiziario definitivo" e' il provvedimento divenuto irrevocabile, passato in giudicato o, comunque, non piu' soggetto a impugnazione con strumenti diversi dalla revocazione;
+                                
+                            
+                            
+                                h)
+                                
+                                    "codice identificativo" e' il codice fiscale o il codice individuato ai sensi dell'articolo 43;
+                                
+                            
+                            
+                                i)
+                                
+                                    "numero identificativo del procedimento" e' il numero del procedimento assegnato dal sistema al momento dell'iscrizione nel registro di cui all'articolo 335 del codice di procedura penale;
+                                
+                            
+                            
+                                l)
+                                
+                                    "estratto" e' l'insieme dei dati del provvedimento giudiziario o amministrativo da inserire nel sistema;
+                                
+                            
+                            
+                                m)
+                                
+                                    "ufficio iscrizione" e' l'ufficio presso l'autorita' giudiziaria che ha emesso il provvedimento giudiziario soggetto a iscrizione o a eliminazione, che ha competenze nella materia del presente testo unico;
+                                
+                            
+                            
+                                n)
+                                
+                                    "ufficio territoriale" e' l'ufficio presso il giudice di pace, che ha competenze nella materia del presente testo unico;
+                                
+                            
+                            
+                                o)
+                                
+                                    "ufficio locale" e' l'ufficio presso il tribunale e presso il tribunale per i minorenni, che ha competenze nella materia del presente testo unico;
+                                
+                            
+                            
+                                p)
+                                
+                                    "ufficio centrale" e' l'ufficio presso il Ministero della giustizia, che ha competenze nella materia del presente testo unico;
+                                
+                            
+                            
+                                q)
+                                
+                                    "sistema" e' il sistema informativo automatizzato del casellario giudiziale, del casellario dei carichi pendenti, dell'anagrafe delle sanzioni amministrative dipendenti da reato, dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato.
+
 ## - Titolo II Casellario giudiziale
 
 ## Art. 3. — Provvedimenti iscrivibili
@@ -48,6 +144,64 @@ Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro per la fu
 ## Art. 4. — Estratto del provvedimento iscrivibile
 
 
+
+1.
+                        
+                            
+                                Ogni provvedimento giudiziario e amministrativo e' iscritto per estratto contenente i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome, nome, luogo e data di nascita, codice identificativo della persona cui si riferisce il provvedimento; codice identificativo e' il codice fiscale per il cittadino italiano e per il cittadino di Stato dell'Unione europea che abbia il domicilio fiscale in Italia, nonche' il codice individuato ai sensi dell'articolo 43 per il cittadino di Stato dell'Unione europea che non abbia il codice fiscale e per il cittadino di Stato non appartenente all'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero identificativo del procedimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autorita' che ha emesso il provvedimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    data, dispositivo del provvedimento e norme applicate.
+
+2.
+                        
+                            
+                                L'estratta del provvedimento giudiziario penale contiene, inoltre, secondo il tipo di provvedimento, i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    luogo, data dell'infrazione e norme applicate, con riferimento a ciascun reato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, misure alternative alla detenzione, con riferimento a ciascun reato, anche nelle ipotesi di cui all'articolo 81 del codice penale e dell'articolo 6, del decreto legislativo 28 agosto 2000, n. 274;
+                                
+                            
+                            
+                                c)
+                                
+                                    misura di sicurezza, dichiarazione di abitualita' o professionalita', dichiarazione di tendenza a delinquere. 
+ 
+(artt. 6 e 7, r.d. n. 778/1931)
 
 ## Art. 5. — Eliminazione delle iscrizioni
 
@@ -63,6 +217,56 @@ Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro per la fu
 
 
 
+1.
+                        
+                            
+                                Ogni provvedimento giudiziario e' iscritto per estratto contenente, secondo il tipo di provvedimento, i seguenti dati:
+
+
+                            
+                            
+                                a)
+                                
+                                    cognome, nome, luogo e data di nascita, codice identificativo della persona cui si riferisce il provvedimento giudiziario; codice identificativo e' il codice fiscale per il cittadino italiano e per il cittadino di Stato dell'Unione europea che abbia il domicilio fiscale in Italia, nonche' il codice individuato ai sensi dell'articolo 43 per il cittadino di Stato dell'Unione europea che non abbia il codice fiscale e per il cittadino di Stato non appartenente all'Unione europea;
+                                
+                            
+                            
+                                b)
+                                
+                                    numero identificativo del procedimento;
+                                
+                            
+                            
+                                c)
+                                
+                                    autorita' che ha emesso il provvedimento giudiziario;
+                                
+                            
+                            
+                                d)
+                                
+                                    data, dispositivo del provvedimento giudiziario e norme applicate;
+                                
+                            
+                            
+                                e)
+                                
+                                    luogo, data dell'infrazione e norme applicate, con riferimento a ciascun reato;
+                                
+                            
+                            
+                                f)
+                                
+                                    pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, anche nelle ipotesi di cui all'articolo 81 del codice penale e dell'articolo 6 del decreto legislativo 28 agosto 2000, n. 274;
+                                
+                            
+                            
+                                g)
+                                
+                                    misura di sicurezza, dichiarazione di abitualita' o professionalita', dichiarazione di tendenza a delinquere.
+
+(estensione artt. 6 e 7 r.d. n. 778/1931)
+
 ## Art. 8. — Eliminazioni delle iscrizioni
 
 
@@ -77,6 +281,56 @@ Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro per la fu
 
 
 
+1.
+                        
+                            
+                                Ogni provvedimento giudiziario e' iscritto per estratto contenente i seguenti dati:
+
+
+                            
+                            
+                                a)
+                                
+                                    denominazione e codice identificativo dell'ente cui si riferisce il provvedimento giudiziario; codice identificativo e' il codice fiscale dell'ente;
+                                
+                            
+                            
+                                b)
+                                
+                                    rappresentante e sede legale dell'ente;
+                                
+                            
+                            
+                                c)
+                                
+                                    numero identificativo del procedimento;
+                                
+                            
+                            
+                                d)
+                                
+                                    autorita' che ha emesso il provvedimento giudiziario;
+                                
+                            
+                            
+                                e)
+                                
+                                    data, dispositivo del provvedimento giudiziario e norme applicate;
+                                
+                            
+                            
+                                f)
+                                
+                                    luogo, data dell'infrazione e norme applicate, con riferimento a ciascun illecito amministrativo dipendente da reato;
+                                
+                            
+                            
+                                g)
+                                
+                                    sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'articolo 21 del decreto legislativo 8 giugno 2001, n. 231.
+
+(estensione artt. 6 e 7 r.d. n. 778/1931)
+
 ## Art. 11. — Eliminazione delle iscrizioni
 
 
@@ -90,6 +344,56 @@ Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro per la fu
 ## Art. 13. — Estratto del provvedimento iscrivibile
 
 
+
+1.
+                        
+                            
+                                Ogni provvedimento giudiziario e' iscritto per estratto contenente, secondo il tipo di provvedimento, i seguenti dati:
+
+
+                            
+                            
+                                a)
+                                
+                                    denominazione e codice identificativo dell'ente cui si riferisce il provvedimento giudiziario; codice identificativo e' il codice fiscale dell'ente;
+                                
+                            
+                            
+                                b)
+                                
+                                    rappresentante e sede legale dell'ente;
+                                
+                            
+                            
+                                c)
+                                
+                                    numero identificativo del procedimento;
+                                
+                            
+                            
+                                d)
+                                
+                                    autorita' che ha emesso il provvedimento giudiziario;
+                                
+                            
+                            
+                                e)
+                                
+                                    data, dispositivo del provvedimento giudiziario e norme applicate;
+                                
+                            
+                            
+                                f)
+                                
+                                    luogo, data dell'infrazione e norme applicate, con riferimento a ciascun illecito amministrativo dipendente da reato;
+                                
+                            
+                            
+                                g)
+                                
+                                    sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'articolo 21 del decreto legislativo 8 giugno 2001, n. 231.
+
+(estensione artt. 6 e 7 r.d. n. 778/1931)
 
 ## Art. 14. — L
 
@@ -139,6 +443,54 @@ L'ufficio locale rilascia i certificati, compresi quelli richiesti da autorita' 
 
 
 
+1.
+                        
+                            
+                                L'ufficio centrale svolge i seguenti compiti:
+
+
+                            
+                            
+                                a)
+                                
+                                    raccoglie e conserva i dati immessi nel sistema del casellario giudiziale e dei carichi pendenti, trattando separatamente quelli delle iscrizioni relative ai minorenni;
+                                
+                            
+                            
+                                b)
+                                
+                                    raccoglie e conserva i dati immessi nell'anagrafe delle sanzioni amministrative dipendenti da reato e nell'anagrafe dei carichi pendenti delle sanzioni amministrative dipendenti da reato;
+                                
+                            
+                            
+                                c)
+                                
+                                    conserva i dati suddetti adottando le piu' idonee modalita' tecniche al fine di consentirne l'immediato utilizzo per la reintegrazione di quelli eventualmente andati persi e per la compilazione dei certificati di emergenza;
+                                
+                            
+                            
+                                d)
+                                
+                                    conserva a fini statistici, in modo anonimo, i dati eliminati;
+                                
+                            
+                            
+                                e)
+                                
+                                    concorre ad elaborare le modalita' tecniche di funzionamento del sistema di cui all'articolo 42, relative all'iscrizione, eliminazione, scambio, trasmissione e conservazione dei dati nelle procedure degli e tra gli uffici;
+                                
+                            
+                            
+                                f)
+                                
+                                    vigila sull'attivita' degli uffici, adottando le misure necessarie per prevenire o rimuovere eventuali irregolarita';
+                                
+                            
+                            
+                                g)
+                                
+                                    adotta le iniziative necessarie e promuove gli interventi opportuni per garantire il pieno svolgimento delle funzioni del casellario giudiziale, del casellario dei carichi pendenti, dell'anagrafe delle sanzioni amministrative dipendenti da reato, dell'anagrafe dei carichi pendenti delle sanzioni amministrative dipendenti da reato.
+
 L'ufficio centrale iscrive nel sistema l'estratto ed elimina dal sistema le iscrizioni dei provvedimenti amministrativi di espulsione e dei provvedimenti giudiziari che decidono il ricorso avverso questi.
 
 L'ufficio centrale iscrive nel sistema l'estratto del decreto di grazia.
@@ -146,6 +498,32 @@ L'ufficio centrale iscrive nel sistema l'estratto del decreto di grazia.
 Si applicano i commi 4, 5 e 6 dell'articolo 15.
 
 L'ufficio centrale elimina dal sistema le iscrizioni relative a persone morte, le iscrizioni relative a persone che hanno compiuto ottanta anni, nonche' le iscrizioni dei provvedimenti giudiziari relativi a minori ai sensi dell'articolo 5, comma 4.
+
+6.
+                        
+                            
+                                L'ufficio centrale, infine, svolge le seguenti attivita' di supporto:
+
+
+                            
+                            
+                                a)
+                                
+                                    fornisce al Ministero della giustizia i dati relativi all'esecuzione dei provvedimenti giudiziari in materia penale;
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce all'autorita' giudiziaria e alla pubblica amministrazione, in modo anonimo a fini statistici, dati in ordine all'andamento dei fenomeni criminali, utilizzando anche le informazioni relative alle iscrizioni eliminate, fatte salve le norme a tutela del trattamento dei dati personali;
+                                
+                            
+                            
+                                c)
+                                
+                                    in applicazione di convenzioni internazionali o per ragioni di reciprocita' e, in quest'ultimo caso, nei limiti ed alle condizioni di legge, fornisce alle competenti autorita' straniere i dati relativi a decisioni riguardanti cittadini stranieri.
+
+(art. 3 r.d. n. 778/1931)
 
 ## Art. 20. — Comunicazioni all'ufficio centrale
 
@@ -341,6 +719,24 @@ Fino alla data di entrata in vigore del regolamento di cui all'articolo 40 del d
 ## Art. 49. — Modifica dell'articolo 46, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445
 
 
+
+1.
+                        
+                            
+                                All'articolo 46, comma 1, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, sono apportate le seguenti modificazioni:
+
+
+                            
+                            
+                                a)
+                                
+                                    alla lettera aa) dopo le parole: "che riguardano l'applicazione" sono aggiunte le seguenti: "di misure di sicurezza e";
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo la lettera bb) e' inserita la seguente: "bb-bis) di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al decreto legislativo 8 giugno 2001, n. 231;".
 
 ## Art. 50. — Termine per l'emanazione dei decreti dirigenziali
 

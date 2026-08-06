@@ -8,8 +8,8 @@ codice_redazionale: 098G0496
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,11 +37,157 @@ Sono ammessi alle agevolazioni gli investimenti costituiti da acquisti di nuovi 
 
 ## Art. 3. — Spese ammissibili
 
+1.
+                    
+                        
+                            Sono ammesse alle agevolazioni le spese riferite alle iniziative di cui all'articolo 2 e sostenute per l'acquisizione di:
+ 
+                        
+                        
+                            a)
+                            
+                                macchinari ed impianti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attrezzature di controllo della produzione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                unita' e sistemi elettronici per l'elaborazione dei dati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                programmi e servizi di consulenza per l'informatica e le telecomunicazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                servizi finalizzati all'adesione ad un sistema di gestione ambientale normato, ovvero all'acquisizione del marchio di qualita' ecologica del prodotto, purche' connessi ad uno dei programmi di investimento di cui alle lettere a), b) e c).
+
 L'acquisizione dei beni puo' essere effettuata anche nelle forme previste dall'articolo 1523 del codice civile, dalla legge 28 novembre 1965, n. 1329, ovvero tramite operazioni di locazione finanziaria.
+
+3.
+                    
+                        
+                            I servizi di consulenza per l'informatica e le telecomunicazioni sono ammessi alle agevolazioni se acquisiti mediante appositi contratti, stipulati con:
+ 
+                        
+                        
+                            a)
+                            
+                                imprese o societa', anche sotto forma cooperativa, iscritte al registro delle imprese;
+
+                            
+                        
+                        
+                            b)
+                            
+                                enti pubblici e privati aventi personalita' giuridica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                professionisti iscritti ad un albo professionale legalmente riconosciuto.
 
 Tutti i beni devono essere di nuova fabbricazione ed il costo agevolabile e' costituito dal valore complessivo delle spese fatturate, incluse quelle per montaggio e collaudo dei beni stessi, ivi compresi il trasporto e l'imballaggio, al netto di imposte, spese notarili, interessi passivi ed oneri accessori. Le opere murarie strettamente connesse all'installazione dei macchinari e degli impianti, il montaggio, il collaudo, il trasporto e l'imballaggio dei beni nonche' i materiali di consumo e gli accessori di prima dotazione sono ammissibili nel limite massimo del 10 per cento del costo complessivo dei macchinari e degli impianti.
 
+5.
+                    
+                        
+                            Gli investimenti si intendono realizzati ove:
+ 
+                        
+                        
+                            a)
+                            
+                                i beni siano stati tutti consegnati ed installati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i contratti per i servizi siano stati stipulati e la fornitura dei servizi medesimi sia stata effettuata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i costi agevolabili siano stati fatturati all'impresa acquirente, ovvero alla societa' di locazione finanziaria, nel caso di acquisizione mediante locazione finanziaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'impresa beneficiaria abbia effettuato tutti i pagamenti relativi all'acquisto dei beni o dei servizi agevolabili, ovvero, per le operazioni di locazione finanziaria o ai sensi della citata legge n. 1329 del 1965, abbia rispettivamente corrisposto canoni o pagato effetti per un importo almeno pari all'agevolazione spettante e comunque in misura non inferiore al 30 per cento del costo dei predetti beni e servizi. In caso di acquisto ai sensi della legge n. 1329 del 1965 e', inoltre, necessario che siano stati emessi effetti, sottoscritti dall'acquirente, a totale copertura delle forniture e che gli stessi siano stati integralmente scontati.
+
+6.
+                    
+                        
+                            Sono esclusi:
+ 
+                        
+                        
+                            a)
+                            
+                                i beni e i servizi rispettivamente consegnati e rilasciati ad imprese diverse dall'impresa beneficiaria, ovvero installati in unita' locali diverse da quelle indicate nella dichiarazione di prenotazione, salvo i casi di riconoscibile equivalenza agevolativa ed accertata preventiva informazione del Ministero dell'industria, del commercio e dell'artigianato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i beni ordinati e consegnati, a qualsiasi titolo, oltre sei mesi anteriormente alla data di presentazione della dichiarazione di prenotazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i beni acquisiti nelle forme previste dall'articolo 1523 del codice civile, dalla legge 28 novembre 1965, n. 1329, ovvero tramite operazioni di locazione finanziaria ed i servizi per la cui fornitura siano stati stipulati contratti anteriormente al termine di cui alla lettera b);
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli investimenti per i quali siano state concesse altre agevolazioni.
+
 ## Art. 4. — Misura dell'agevolazione
+
+1.
+                    
+                        
+                            L'agevolazione e' determinata, in rapporto al costo agevolabile dei beni e dei servizi, secondo le misure di seguito indicate:
+ 
+                        
+                        
+                            a)
+                            
+                                piccole imprese: 15 per cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                medie imprese: 7,5 per cento.
 
 Agli investimenti effettuati nelle unita' produttive ubicate nelle aree depresse, e' applicata la misura di aiuto prevista dall'articolo 1 del decreto-legge 23 giugno 1995, n. 244, convertito, con modificazioni, in legge 8 agosto 1995, n. 341. Le istanze avanzate per i predetti investimenti ai sensi del presente decreto si considerano presentate per gli effetti di cui all'articolo 1 del citato decreto-legge 23 giugno 1995, n. 244, qualora, alla data della loro presentazione, sussistano disponibilita' residue sulla predetta normativa per le aree depresse. Le istanze avanzate ai sensi dell'articolo 1 del citato decreto-legge 23 giugno 1995, n. 244, in carenza dei relativi fondi, si considerano, viceversa, presentate per gli effetti di cui al presente decreto.
 

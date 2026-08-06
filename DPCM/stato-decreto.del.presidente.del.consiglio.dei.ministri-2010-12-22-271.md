@@ -8,8 +8,8 @@ codice_redazionale: 011G0043
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI

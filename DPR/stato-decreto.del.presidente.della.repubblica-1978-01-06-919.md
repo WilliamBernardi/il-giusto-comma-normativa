@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1990-11-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -169,6 +169,25 @@ Al personale che esegue incarichi ispettivi nonche' di direzione e di assistenza
  c) le indennita' previste dall'art. 5 della legge 11 gennaio 1979, n. 13 e dagli articoli 15, 16, 17, 18 e 19 del decreto del Presidente della Repubblica 6 gennaio 1978, n. 919, gia' rideterminate con il decreto ministeriale citato nelle premesse, sono aumentate di un ulteriore 12 per cento".
 
 ## Art. 16. — Indennita' per i servizi viaggianti.
+
+1.
+                        
+                            
+                                Al personale in servizio negli uffici ambulanti e natanti, in servizio viaggiante di messaggere ed al personale comandato a prestare servizio di trasporto degli effetti postali da comune a comune con automezzi dell'Amministrazione delle poste e delle telecomunicazioni, compreso quello addetto alla guida, e' concessa, dall'inizio della prestazione nell'ufficio di partenza fino al momento del rientro nello stesso ufficio, ivi compreso quindi il periodo di tempo trascorso fuori residenza, una indennita' oraria nelle seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    direttori di treni postali e capiturno: lire 1.710; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimanente personale: lire 1.590. 
+(5) ((6))
 
 Al personale che presta servizio nell'arco orario dalle 21 alle 7 compete, inoltre, la relativa indennita' oraria secondo l'aliquota stabilita nell'articolo 1 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985 , come modificato dal decreto ministeriale 27 luglio 1987 e dall'articolo 62 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269.
 

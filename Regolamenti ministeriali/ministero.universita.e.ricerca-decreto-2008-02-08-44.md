@@ -8,8 +8,8 @@ codice_redazionale: 008G0066
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,45 @@ Sono legittimati a presentare la domanda per la concessione dei contributi gli e
 Non possono usufruire dei contributi di cui all'articolo 1, comma 1, gli enti pubblici di ricerca, le universita' statali e non statali e loro consorzi, costituiti ai sensi degli articoli 91 e 91-bis del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, e loro fondazioni costituite ai sensi del decreto del Presidente della Repubblica 24 maggio 2001, n. 254, nonche' gli enti che hanno ottenuto nel corso del medesimo esercizio contributi di funzionamento o altri contributi aventi medesime finalita' e natura giuridica, a carico del bilancio dello Stato.
 
 ## Art. 3. — Criteri di valutazione e ripartizione delle risorse
+
+1.
+                    
+                        
+                            La valutazione e selezione delle domande e' effettuata da una commissione, composta da cinque esperti tecnico scientifici, nominata, per ciascun triennio, con decreto del Ministro dell'universita' e della ricerca. La commissione opera tenendo conto dei seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                tradizione storica dell'ente, sua rilevanza nazionale ed internazionale e sua attualita', sulla base dei riscontri riconosciuti nella comunita' scientifica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualita' e rilevanza dei programmi di attivita' di ricerca svolti in modo continuativo, anche mediante collegamenti con altre istituzioni italiane o internazionali, in particolare con quelle dell'Unione europea;
+
+                            
+                        
+                        
+                            c)
+                            
+                                coerenza e congruita' del contributo richiesto rispetto alle attivita' svolte e programmate e rispetto ai flussi di bilancio dell'ente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                consistenza e qualificazione delle risorse umane coinvolte;
+
+                            
+                        
+                        
+                            e)
+                            
+                                consistenza del patrimonio didattico, scientifico e strumentale.
 
 La commissione, per lo svolgimento della sua attivita', puo' avvalersi di esperti o studiosi di settore con particolare riferimento alla valutazione della rilevanza della produzione scientifica e della qualita' e della rilevanza dei programmi.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -92,4 +92,83 @@ In sede di prima applicazione del presente decreto, il collegio e' composto di t
 L'ente redige, per l'esercizio 1998, oltre ai rendiconti previsti dalle specifiche norme in vigore, una situazione patrimoniale secondo le norme civilistiche.
 
 ## Art. 8. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni:
+
+                        
+                        
+                            a)
+                            
+                                
+                                    regio decreto-legge 19 ottobre 1919, n. 2060, convertito, con modificazioni, dalla legge 23 settembre 1920, n. 1365, che istituisce, con sede in Bari, un Ente autonomo per la costruzione, manutenzione ed esercizio dell'acquedotto pugliese, fissandone l'ordinamento, con esclusione dell'articolo 14, primo comma;
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    regio decreto 16 gennaio 1921, n. 195, che approva il regolamento generale per il funzionamento dell'Ente autonomo per l'acquedotto pugliese;
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    legge 13 dicembre 1928, n. 3233;
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    regio decreto 9 aprile 1931, n. 334, recante disposizioni concernenti gli organi di amministrazione per l'Ente autonomo per l'acquedotto pugliese;
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    regio decreto-legge 2 agosto 1938, n. 1464, convertito dalla legge 16 gennaio 1939, n. 74, concernente affidamento all'Ente autonomo per l'acquedotto pugliese della costruzione e gestione delle fognature nei comuni serviti dall'aquedotto stesso;
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    legge 28 maggio 1942, n. 664, recante estensione agli acquedotti e fognature della Lucania dei compiti assegnati all'Ente autonomo per l'acquedotto pugliese;
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    decreto luogotenenziale 25 maggio 1945, n. 389, concernente modificazioni alle norme sugli organi di amministrazione dell'Ente autonomo per l'acquedotto pugliese;
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    decreto del Capo provvisorio dello Stato 2 luglio 1947, n. 944, recante modificazioni delle norme concernenti il funzionamento del consiglio di amministrazione dell'Ente autonomo per l'acquedotto pugliese;
+                            
+                        
+                        
+                            i)
+                            
+                                decreto del Presidente della Repubblica 20 giugno 1961, concernente sottoposizione dell'Ente autonomo per l'acquedotto pugliese al controllo della Corte dei conti;
+                            
+                        
+                        
+                            l)
+                            
+                                le parole: "Ente autonomo per l'acquedotto pugliese", di cui alla tabella - parte IV allegata alla legge 20 marzo 1975, n. 70;
+                            
+                        
+                        
+                            m)
+                            
+                                articolo 88, comma 1, lettera bb), del decreto legislativo 31 marzo 1998, n. 112, concernente conferimento di funzioni e compiti amministrativi dello Stato alle regioni e agli enti locali in attuazione del capo I della legge 15 marzo 1997, n. 59.
 

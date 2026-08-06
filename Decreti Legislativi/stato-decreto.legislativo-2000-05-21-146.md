@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-02-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -78,7 +78,112 @@ Al fine di realizzare il riconoscimento del maggior livello degli uffici di cui 
 
 Gli incarichi di direzione degli uffici di livello dirigenziale generale, di cui all'articolo 3, comma 2, sono conferiti ai sensi dell'articolo 19 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni. Con riguardo alle prioritarie finalita' ed alle esigenze funzionali di cui al comma 1, si tiene conto della professionalita' maturata nello specifico settore, fermo restando quanto previsto dal comma 6 del citato articolo 19 del decreto legislativo n. 29/1993 e dall'articolo 18, comma 2, del decreto legislativo 30 luglio 1999, n. 300. (2)
 
+3.
+                        
+                            
+                                Relativamente agli aumenti degli organici di cui all'articolo 3, tenuto conto della specificita' tecnica del ruolo di direttore di istituto penitenziario, dei centri per i servizi sociali e delle altre strutture del Dipartimento dell'Amministrazione penitenziaria e dell'Ufficio centrale per la Giustizia minorile anche con riguardo ai principi generali dettati dagli articoli 11, comma 4, lettera d), della legge 15 marzo 1997, n. 59, e 45, comma 3, del decreto legislativo 3 febbraio 1993, n. 29, in sede di prima applicazione del presente decreto la nomina a dirigente e' attribuita, per l'Amministrazione penitenziaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 27 LUGLIO 2005, N. 154)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 27 LUGLIO 2005, N. 154)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per quattro posti previsti in aumento, mediante concorso per titoli, integrato da un colloquio, riservato al personale, rispettivamente, per due posti del profilo di direttore coordinatore di area pedagogica e per due posti del profilo di direttore amministrativo contabile, munito di laurea che, alla data di entrata in vigore del presente decreto, abbia maturato almeno nove anni di effettivo servizio nell'area funzionale C). Le modalita' di espletamento dei concorsi indicati alle lettere a), b) e c), la composizione delle commissioni esaminatrici, le materie oggetto del colloquio e le categorie dei titoli da ammettere a valutazione ed i punteggi da attribuire in relazione a ciascuna delle suddette categorie sono stabiliti con decreto del Ministro della giustizia.
+Nell'ambito dei criteri valutativi sara' tra l'altro considerato l'aver svolto senza demerito, alla data di entrata in vigore del presente decreto, funzioni di direzione o reggenza degli uffici o servizi riconosciuti di maggior livello, di cui all'articolo 2, comma 1, e comunque l'aver ricoperto sulla base di formale attribuzione, senza demerito e con positivi risultati nel perseguimento degli obiettivi dell'Amministrazione, incarichi di livello dirigenziale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 27 LUGLIO 2005, N. 154)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 27 LUGLIO 2005, N. 154)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per cinque posti, mediante concorso per titoli, integrato da un colloquio, riservato al personale dell'Amministrazione penitenziaria inquadrato nell'area funzionale C che alla data di entrata in vigore del presente decreto abbia comunque maturato nell'Amministrazione della giustizia, per almeno cinque anni, una specifica esperienza nel settore delle relazioni esterne e almeno quindici anni di anzianita' nell'area. Le modalita' di espletamento del concorso, la composizione delle commissioni esaminatrici e le materie oggetto dell'esame, le categorie da ammettere a valutazione ed i punteggi da attribuire, sono stabiliti con decreto del Ministro della giustizia. Al concorso e' ammesso anche il personale dell'ufficio centrale per la Giustizia minorile gia' in servizio presso l'Amministrazione penitenziaria alla data di entrata in vigore del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, nella legge 7 agosto 1992, n. 356; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per un posto, mediante concorso, consistente in due prove scritte ed una prova orale, riservato al personale tecnico dell'Amministrazione penitenziaria inquadrato nei profili professionali di ingegnere, ingegnere direttore ed ingegnere direttore coordinatore ed architetto, muniti di laurea, che, alla data di entrata in vigore del presente decreto, abbiano maturato almeno cinque anni di effettivo servizio nell'area funzionale C); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per otto posti, mediante concorso, consistente in due prove scritte ed una prova orale, riservato al personale dell'Amministrazione penitenziaria appartenente ai profili di educatore coordinatore, direttore di area pedagogica e direttore coordinatore di area pedagogica, munito di laurea, che, alla data di entrata in vigore del presente decreto, abbia maturato almeno cinque anni di effettivo servizio nell'area funzionale C); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per otto posti, mediante concorso, consistente in due prove scritte ed una prova orale, riservato al personale dell'Amministrazione penitenziaria del settore amministrativo-contabile, profili collaboratore amministrativo-contabile, funzionario amministrativo-contabile e direttore amministrativo-contabile, muniti di laurea che, alla data di entrata in vigore del presente decreto, abbiano maturato almeno cinque anni di effettivo servizio nell'area funzionale C). 
+ Le modalita' di espletamento dei concorsi indicati alle lettere g), h), ed i) la composizione delle commissioni esaminatrici e le materie oggetto dell'esame sono stabilite con decreto del Ministro della giustizia; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 27 LUGLIO 2005, N. 154)).
+
 Successivamente, in ordine alle qualifiche di cui al comma 3, per la copertura delle vacanze sui posti che si determinano, eventualmente anche in sede di periodica ridefinizione degli uffici e delle dotazioni organiche di cui all'articolo 6, comma 3, del decreto legislativo 3 febbraio 1993, n. 29, si applica la procedura prevista dall'articolo 28, comma 2, valorizzata in ogni caso prioritariamente, nella fase selettiva, per quanto concerne la lettera a) della medesima disposizione normativa, l'esperienza professionale maturata nello specifico settore.
+
+5.
+                        
+                            
+                                Per l'Ufficio centrale per la Giustizia minorile la nomina a dirigente e' attribuita, in sede di prima applicazione del presente decreto, con le modalita' di seguito indicate: 
+
+                            
+                            
+                                a)
+                                
+                                    per il quaranta per cento dei posti mediante concorso per titoli, integrato da un colloquio, riservato al personale inquadrato nell'area funzionale C posizione economica C3, munito di laurea che, alla data di entrata in vigore del presente decreto, abbia maturato almeno nove anni di effettivo servizio nell'area. Le modalita' di espletamento del concorso, la composizione delle commissioni esaminatrici, le materie oggetto del colloquio e le categorie dei titoli da ammettere a valutazione ed i punteggi da attribuire in relazione a ciascuna delle suddette categorie, sono stabiliti con decreto del Ministro della giustizia. Nell'ambito dei criteri valutativi sara' soprattutto considerato l'aver svolto senza demerito, alla data di entrata in vigore del presente decreto, funzioni di direzione o reggenza degli uffici o servizi riconosciuti di maggior livello, di cui all'articolo 2, comma 1, e comunque l'aver ricoperto sulla base di formale attribuzione, senza demerito e con positivi risultati nel perseguimento degli obiettivi dell'Amministrazione, incarichi di livello dirigenziale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il cinquanta per cento dei posti mediante concorso consistente in due prove scritte ed una prova orale, riservato al personale dell'Ufficio centrale per la Giustizia minorile, inquadrato nell'area funzionale C, munito di laurea che, alla data di entrata in vigore del presente decreto, abbia maturato almeno cinque anni di effettivo servizio nell'area. Le modalita' di espletamento del concorso la composizione delle commissioni esaminatrici e le materie oggetto dell'esame, le categorie da ammettere a valutazione ed i punteggi da attribuire in relazione a ciascuna delle suddette categorie, sono stabiliti con decreto del Ministro della giustizia; 
+                                
+                            
+                            
+                                c)
+                                
+                                    per i restanti posti, mediante concorso per esami, ai sensi dell'articolo 28 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni.
 
 Successivamente, in ordine alle qualifiche di cui al comma 5, per le vacanze dei posti che si determineranno eventualmente anche in sede di periodica ridefinizione degli uffici e delle dotazioni organiche di cui all'articolo 6, comma 3, del decreto legislativo 3 febbraio 1993, n. 29, si applica la procedura di cui al comma 4.
 
@@ -92,6 +197,68 @@ Successivamente, in ordine alle qualifiche di cui al comma 5, per le vacanze dei
 dei funzionari del Corpo di polizia penitenziaria))
 
 ## Art. 5. — (Articolazione della carriera dei funzionari del Corpo di polizia penitenziaria)
+
+1.
+                        
+                            
+                                La carriera dei funzionari del Corpo di polizia penitenziaria, a sviluppo dirigenziale, si articola nelle seguenti qualifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice commissario ((di Polizia penitenziaria)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    commissario ((di Polizia penitenziaria)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    commissario capo ((di Polizia penitenziaria)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((dirigente aggiunto di Polizia penitenziaria)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((dirigente di Polizia penitenziaria)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    primo dirigente ((di Polizia penitenziaria)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dirigente superiore ((di Polizia penitenziaria)). 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    dirigente generale di Polizia penitenziaria
 
 La dotazione organica della carriera dei funzionari e' fissata nella tabella D allegata al presente decreto.
 
@@ -138,6 +305,63 @@ Il predetto personale, in qualita' di responsabile del nucleo, esercita i poteri
 
 ## Art. 7. — (Accesso alla carriera dei funzionari)
 
+1.
+                        
+                            
+                                L'accesso alla carriera dei funzionari avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei limiti del 70 per cento dei posti disponibili mediante concorso pubblico consistente in due prove scritte ed una prova orale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei limiti del 30 per cento dei posti disponibili mediante concorso interno per titoli di servizio ed esame consistente in due prove scritte ed una prova orale.
+
+2.
+                        
+                            
+                                Al concorso di cui al comma 1, lettera a), del presente articolo possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' compresa tra gli anni diciotto e gli anni trentadue; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica ed attitudinale al servizio di polizia penitenziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    requisiti morali e di condotta previsti dall'articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    laurea magistrale o specialistica.
+
 Il 20 per cento dei posti disponibili del concorso di cui al comma 1, lettera a), e' riservato al personale appartenente al Corpo di polizia penitenziaria con una anzianita' di servizio di almeno cinque anni in possesso dei prescritti requisiti previsti al comma 2 ad eccezione del limite di eta', che non abbia riportato, nel triennio precedente, un giudizio complessivo inferiore ad «ottimo» ne' sanzioni disciplinari pari o piu' gravi della pena pecuniaria. Si applicano, altresi', le disposizioni contenute negli articoli 93 e 205 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
 Al concorso non sono ammessi coloro che sono stati espulsi dalle Forze armate, dai Corpi militarmente organizzati o destituiti da pubblici uffici; non sono ammessi altresi' coloro che hanno riportato condanna a pena detentiva per reati non colposi o sono stati sottoposti a misura di prevenzione.
@@ -178,6 +402,45 @@ Ai fini della predisposizione delle domande a risposta a scelta multipla, l'Ammi
 
 ## Art. 10. — (Dimissione dal corso)
 
+1.
+                        
+                            
+                                Sono dimessi dai corsi di cui all'articolo 9 coloro che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarano di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengono il giudizio di idoneita' al servizio di polizia penitenziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non superano le prove, ovvero non conseguono, nei tempi stabiliti, tutti gli obiettivi formativi previsti dal corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superano l'esame finale del corso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    durante la frequenza del corso previsto dall'articolo 9, comma 1, sono stati per qualsiasi motivo assenti dall'attivita' corsuale per piu' di novanta giorni anche se non consecutivi, ovvero per piu' di centottanta giorni nel caso di assenza per infermita' contratta durante il corso, per infermita' dipendente da causa di servizio qualora si tratti di personale proveniente da altri ruoli del Corpo di polizia penitenziaria, ovvero per maternita' se si tratta di personale femminile. I tempi sono ridotti per la meta' per il corso previsto dall'articolo 9, comma 2. ((12))
+
 I commissari che non ottengono il giudizio di idoneita' previsto al termine del primo ciclo del corso, nonche' il giudizio di idoneita' al servizio di polizia penitenziaria, che non superano le prove, ovvero che non conseguono nei tempi stabiliti, tutti gli obiettivi formativi previsti per il primo ciclo ed il secondo ciclo del corso sono ammessi a partecipare, per una sola volta, al primo corso successivo.
 
 Gli allievi commissari e i vice commissari, la cui assenza rispettivamente oltre i centottanta ed i novanta giorni, e' stata determinata da infermita' contratta durante il corso, da infermita' dipendente da causa di servizio, ovvero da maternita' se si tratta di personale femminile, sono ammessi a partecipare al primo corso successivo al riconoscimento della loro idoneita' psico-fisica, ovvero successivo ai periodi di assenza previsti dalle disposizioni sulla tutela delle lavoratrici madri. Nel caso di assenza dal servizio per la fruizione di congedo obbligatorio di maternita' e' fatta salva la facolta' dell'Amministrazione di valutare la pianificazione di percorsi formativi di recupero delle assenze al fine di salvaguardare le esigenze di una completa formazione con il rispetto della disciplina di cui all'articolo 3 del decreto legislativo 26 marzo 2001, n. 151, e successive modifiche ed integrazioni.
@@ -212,6 +475,24 @@ La promozione a commissario capo di coloro che accedono attraverso il concorso d
 ## Art. 13. — Promozione a ((dirigente aggiunto))
 
 
+
+1.
+                        
+                            
+                                La promozione alla qualifica di commissario coordinatore del Corpo di polizia penitenziaria si consegue, a ruolo chiuso, mediante scrutinio per merito comparativo e superamento di un corso di formazione dirigenziale della durata non superiore a mesi tre con esame finale, al quale e' ammesso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei limiti del 70 per cento dei posti disponibili al 31 dicembre di ogni anno, il personale con qualifica di commissario capo, vincitore del concorso previsto dall'articolo 7, comma 1, lettera a), che ha maturato almeno sei anni di effettivo servizio nella qualifica, compreso il periodo di tirocinio operativo previsto dall'articolo 9, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei limiti del 30 per cento dei posti disponibili al 31 dicembre di ogni anno, il personale con qualifica di commissario capo, vincitore del concorso previsto dall'articolo 7, comma 1, lettera b), che ha maturato almeno sei anni di effettivo servizio nella qualifica ed e' in possesso del requisito previsto dall'articolo 7, comma 2, lettera e).
 
 Se i posti riservati per ciascuna annualita' ad una aliquota non vengono coperti la differenza va ad aumentare i posti spettanti all'altra categoria.
 
@@ -338,6 +619,52 @@ Al personale appartenente alla carriera dei funzionari del Corpo di polizia peni
 
 ((
 
+1.
+                        
+                            
+                                La carriera dei medici del Corpo di polizia penitenziaria, con sviluppo dirigenziale, si distingue come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    medico, limitatamente al periodo di frequenza del corso di formazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    medico principale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    medico capo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    medico superiore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    primo dirigente medico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dirigente superiore medico.
+
 La dotazione organica e' fissata nella tabella D-bis allegata al presente decreto.
 
 Il trattamento economico del personale della carriera dei medici e' quello spettante al personale di pari qualifica che espleta i compiti di cui gli articoli 5 della legge 15 dicembre 1990, n. 395, e 6 del decreto legislativo 21 maggio 2000, n. 146, secondo la tabella D-ter di equiparazione allegata al presente decreto.
@@ -347,6 +674,60 @@ La procedura di accesso alla qualifica iniziale, il percorso di formazione inizi
 ))
 
 ## Art. 19-ter. — (Attribuzioni dei medici del Corpo di polizia penitenziaria)
+
+1.
+                        
+                            
+                                I medici del Corpo di polizia penitenziaria, fermo restando quanto disposto dall'articolo 6, primo comma, lettera z), della legge 23 dicembre 1978, n. 833, indipendentemente dal diploma di specializzazione di cui sono in possesso, hanno le seguenti attribuzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvedono all'accertamento dell'idoneita' psicofisica dei candidati ai concorsi per l'accesso ai ruoli della polizia penitenziaria ed alla verifica, anche collegiale, della persistenza dei requisiti psicofisici per il personale in servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvedono all'assistenza sanitaria e di medicina preventiva del personale della polizia penitenziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgono attivita' di medico competente ai sensi dell'articolo 38 del decreto legislativo 9 aprile 2008, n. 81, ed attivita' di vigilanza nell'ambito delle strutture dell'Amministrazione e di quelle di cui all'articolo 13, comma 3, ((del medesimo decreto legislativo)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolgono attivita' di vigilanza in materia di manipolazione, preparazione e distribuzione di alimenti e bevande nelle mense e negli spacci dell'Amministrazione, ferme restando le attribuzioni riservate in materia ad altri soggetti dalla legislazione vigente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((ferme restando le disposizioni dell'articolo)) 56 del decreto legislativo 30 ottobre 1992, n. 443, e le attribuzioni riservate in materia ad altri soggetti dalla legislazione vigente, rilasciano certificazioni di idoneita' psicofisica anche con le stesse attribuzioni degli ufficiali medici delle Forze armate e del settore medico-legale delle aziende sanitarie locali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    provvedono all'istruttoria delle pratiche medico-legali del personale della polizia penitenziaria e fanno parte delle Commissioni sanitarie interforze, allorche' vengono prese in esame pratiche relative a personale appartenente ai ruoli della polizia penitenziaria; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    svolgono, presso le scuole di formazione, gli istituti di istruzione, i reparti, i nuclei, gli uffici e i servizi della polizia penitenziaria ((,)) attivita' didattica nel settore di competenza.
 
 Al personale appartenente alla carriera dei medici del Corpo di polizia penitenziaria sono attribuite le qualifiche di sostituto ufficiale di pubblica sicurezza e ufficiale di polizia giudiziaria fino alla qualifica di primo dirigente medico.
 
@@ -388,6 +769,35 @@ Ai fini dell'espletamento delle attivita' previste dal comma 1, il Dipartimento 
 
 ## Art. 27. — Ricollocamento del personale del ruolo ad esaurimento
 
+1.
+                        
+                            
+                                Ad integrazione e parziale modifica del comma 6 dell'articolo 25 della legge 15 dicembre 1990, n. 395, nell'ambito dell'Amministrazione penitenziaria i predetti ufficiali, per la specifica professionalita' e per la peculiare esperienza da essi maturata a livello operativo, sono applicati: 
+
+                            
+                            
+                                a)
+                                
+                                    presso uffici e servizi tecnico-logistici, sia a livello centrale che periferico, con funzioni di direzione o di supporto alla direzione; 
+                                
+                            
+                            
+                                b)
+                                
+                                    nel servizio di traduzione e piantonamento dei detenuti e degli internati, sia a livello centrale che periferico, con compiti di direzione o di supporto alla direzione; 
+                                
+                            
+                            
+                                c)
+                                
+                                    presso i Provveditorati regionali, di supporto al Provveditore per i settori e per le problematiche di cui alle lettere a) e b), oltre che per gli aspetti organizzativi e di coordinamento relativamente all'impiego dei contingenti di polizia penitenziaria, alla idoneita' delle caserme, delle mense e degli equipaggiamenti; 
+                                
+                            
+                            
+                                d)
+                                
+                                    nelle articolazioni centrali, presso l'Istituto superiore di Studi penitenziari e presso le scuole, di supporto ai responsabili di dette strutture per l'attivita' didattica, di formazione e di addestramento del personale del Corpo di polizia penitenziaria. In tale ambito sono preposti alla direzione ed alle connesse attivita' operative dei poligoni di tiro dell'Amministrazione.
+
 Tale impiego e' di norma disposto a domanda dell'interessato e con provvedimento da emanarsi tenendo conto dei criteri di cui all'articolo 90 del decreto del Presidente della Repubblica 15 febbraio 1999, n. 82. E' comunque fatta salva la facolta' dell'Amministrazione penitenziaria, per sopravvenute esigenze e per il perseguimento di propri obiettivi prioritari, di disporre autonomamente l'impiego di ufficiali nei compiti di cui al comma 1.
 
 Fermi restando il grado rivestito e l'anzianita' posseduta, le funzioni, sia di livello direttivo che dirigenziale, attribuibili agli ufficiali del ruolo ad esaurimento sono quelle corrispondenti alle responsabilita' ed agli incarichi ad essi effettivamente conferiti dall'amministrazione.
@@ -395,6 +805,23 @@ Fermi restando il grado rivestito e l'anzianita' posseduta, le funzioni, sia di 
 ## - Capo V DISPOSIZIONI TRANSITORIE E FINALI
 
 ## Art. 28. — Accesso in sede di prima attuazione alle qualifiche di vice commissario penitenziario, commissario penitenziario e commissario capo penitenziario del ruolo direttivo speciale
+
+1.
+                        
+                            
+                                In sede di prima attuazione del presente decreto, alle qualifiche di vice commissario penitenziario e di commissario penitenziario del ruolo direttivo speciale si accede: 
+
+                            
+                            
+                                a)
+                                
+                                    mediante concorso per titoli ed esame, consistente in una prova scritta ed un colloquio; 
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante selezione consistente nella valutazione di titoli ed un successivo colloquio.
 
 La nomina a vice commissario penitenziario del ruolo direttivo speciale del Corpo di polizia penitenziaria, per sessantacinque posti si consegue mediante il concorso di cui al comma 1, lettera a), al quale e' ammesso il personale appartenente al ruolo degli ispettori, con qualifica non inferiore ad ispettore, ed al ruolo separato e limitato del Corpo di polizia penitenziaria in possesso almeno del diploma di maturita' di scuola media superiore di secondo grado. Alla copertura di altri trentacinque posti, si provvede avvalendosi della procedura di cui al comma 1, lettera b), riservata al personale appartenente al ruolo degli ispettori, con qualifica non inferiore a ispettore superiore, che abbia maturato un'anzianita' nel ruolo di almeno dieci anni e che abbia svolto, senza demerito, per almeno cinque anni le funzioni di comandante di reparto, sempre che dette funzioni siano state svolte presso istituti penitenziari ai quali, nel periodo considerato, sia stato assegnato un contingente medio annuo di polizia penitenziaria non inferiore alle cento unita'. Alla copertura di altri dieci posti si provvede avvalendosi della procedura di cui al comma 1, lettera b), riservata al personale appartenente al ruolo degli ispettori, qualifica di ispettore superiore, in possesso almeno del diploma di scuola media e con almeno trenta anni di effettivo servizio alla data di entrata in vigore del presente decreto.
 

@@ -8,8 +8,8 @@ codice_redazionale: 012G0168
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,19 +39,235 @@ All'articolo 10 del decreto legislativo 26 marzo 2010, n. 59, il comma 2 e' abro
 
 All'articolo 17 del decreto legislativo 26 marzo 2010, n. 59, il comma 1 e' sostituito dal seguente: «1. Ai fini del rilascio del titolo autorizzatorio riguardante l'accesso e l'esercizio delle attivita' di servizi di cui al presente decreto si segue, ove non diversamente previsto, il procedimento di cui all'articolo 20 della legge 7 agosto 1990, n. 241. In tutti i casi diversi da quelli di cui all'articolo 14 per i quali le norme vigenti, alla data di entrata in vigore del presente comma, prevedono regimi autorizzatori o di dichiarazione di inizio attivita', si applica l'articolo 19 della legge 7 agosto 1990, n. 241, e successive modificazioni.».
 
+2.
+                    
+                        
+                            All'articolo 64 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. L'apertura o il trasferimento di sede degli esercizi di somministrazione di alimenti e bevande al pubblico, comprese quelle alcooliche di qualsiasi gradazione, di cui alla legge 25 agosto 1991, n. 287, sono soggetti ad autorizzazione rilasciata dal comune competente per territorio solo nelle zone soggette a tutela ai sensi del comma 3. L'apertura e il trasferimento di sede, negli altri casi, e il trasferimento della gestione o della titolarita' degli esercizi di cui al presente comma, in ogni caso, sono soggetti a segnalazione certificata di inizio di attivita' da presentare allo sportello unico per le attivita' produttive del comune competente per territorio, ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, e successive modificazioni.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «E' subordinata alla dichiarazione di inizio di attivita' ai sensi dell'articolo 19, comma 2, secondo periodo, anche» sono sostituite dalle seguenti: «E' subordinata alla segnalazione certificata di inizio di attivita' ai sensi dell'articolo 19 della legge n. 241 del 1990, anche»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 9, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'».
+
 ## Art. 3. — Modificazioni all'articolo 65 del decreto legislativo n. 59 del 2010, relativo agli esercizi di vicinato
+
+1.
+                    
+                        
+                            All'articolo 65 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'» e le parole: «articolo 19, comma 2, secondo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'».
 
 ## Art. 4. — Modificazioni all'articolo 66 del decreto legislativo n. 59 del 2010, relativo agli spacci interni
 
+1.
+                    
+                        
+                            All'articolo 66 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'» e le parole: «articolo 19, comma 2, secondo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'».
+
 ## Art. 5. — Modificazioni all'articolo 67 del decreto legislativo n. 59 del 2010, relativo agli apparecchi automatici
+
+1.
+                    
+                        
+                            All'articolo 67 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'» e le parole: «articolo 19, comma 2, secondo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'».
 
 ## Art. 6. — Modificazioni all'articolo 68 del decreto legislativo n. 59 del 2010, relativo alla vendita per corrispondenza, televisione o altri sistemi di comunicazione
 
+1.
+                    
+                        
+                            All'articolo 68 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: "segnalazione certificata di inizio di attivita'" e le parole: «articolo 19, comma 2, secondo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «dichiarazione di inizio di attivita'" sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'».
+
 ## Art. 7. — Modificazioni all'articolo 69 del decreto legislativo n. 59 del 2010, relativo alle vendite presso il domicilio dei consumatori
+
+1.
+                    
+                        
+                            All'articolo 69 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'» e le parole: «articolo 19, comma 2, secondo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 5, e' aggiunto il seguente: «5-bis. L'attivita' di incaricato alla vendita diretta a domicilio di cui al comma 5 e' considerata abituale, ai sensi dell'articolo 3, comma 4, della legge 17 agosto 2005, n. 173, se nell'anno solare per la stessa e' percepito un reddito superiore a cinquemila euro ed e' estranea al rapporto di agenzia di cui all'articolo 74 fintanto che l'incaricato operi, in assenza di esclusiva di zona e vincoli di durata della prestazione, a fronte della semplice autorizzazione scritta di cui al comma 2 dell'articolo 4 della legge 17 agosto 2005, n. 173, e senza aver assunto contrattualmente nei confronti dell'impresa affidante alcun obbligo vincolante di svolgere attivita' promozionale. ».
 
 ## Art. 8.
 
 Modificazioni all'articolo 71 del decreto legislativo n. 59 del 2010, recante requisiti di accesso e di esercizio delle attivita' commerciali, ed al decreto legislativo 31 marzo 1998, n. 114
+
+1.
+                    
+                        
+                            All'articolo 71 del decreto legislativo n. 59 del 2010, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera f) del comma 1 le parole: «non detentive» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: «il gioco d'azzardo, le scommesse clandestine, per infrazioni alle norme sui giochi» sono sostituite dalle seguenti: «il gioco d'azzardo, le scommesse clandestine, nonche' per reati relativi ad infrazioni alle norme sui giochi»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. Il divieto di esercizio dell'attivita', ai sensi del comma 1, lettere b), c), d), e) ed f), e ai sensi del comma 2, permane per la durata di cinque anni a decorrere dal giorno in cui la pena e' stata scontata. Qualora la pena si sia estinta in altro modo, il termine di cinque anni decorre dal giorno del passaggio in giudicato della sentenza, salvo riabilitazione.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 5 e' sostituito dal seguente: «5. In caso di societa', associazioni od organismi collettivi i requisiti morali di cui ai commi 1 e 2 devono essere posseduti dal legale rappresentante, da altra persona preposta all'attivita' commerciale e da tutti i soggetti individuati dall'articolo 2, comma 3, del decreto del Presidente della Repubblica 3 giugno 1998, n. 252. In caso di impresa individuale i requisiti di cui ai commi 1 e 2 devono essere posseduti dal titolare e dall'eventuale altra persona preposta all'attivita' commerciale.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'alinea del comma 6 e' sostituito dal seguente: «6.
+L'esercizio, in qualsiasi forma e limitatamente all'alimentazione umana, di un'attivita' di commercio al dettaglio relativa al settore merceologico alimentare o di un'attivita' di somministrazione di alimenti e bevande e' consentito a chi e' in possesso di uno dei seguenti requisiti professionali:»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la lettera b) del comma 6 e' sostituita dalla seguente: «b) avere, per almeno due anni, anche non continuativi, nel quinquennio precedente, esercitato in proprio attivita' d'impresa nel settore alimentare o nel settore della somministrazione di alimenti e bevande o avere prestato la propria opera, presso tali imprese, in qualita' di dipendente qualificato, addetto alla vendita o all'amministrazione o alla preparazione degli alimenti, o in qualita' di socio lavoratore o in altre posizioni equivalenti o, se trattasi di coniuge, parente o affine, entro il terzo grado, dell'imprenditore, in qualita' di coadiutore familiare, comprovata dalla iscrizione all'Istituto nazionale per la previdenza sociale;»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo il comma 6 e' inserito il seguente: «6-bis. Sia per le imprese individuali che in caso di societa', associazioni od organismi collettivi, i requisiti professionali di cui al comma 6 devono essere posseduti dal titolare o rappresentante legale, ovvero, in alternativa, dall'eventuale persona preposta all'attivita' commerciale.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'ultimo comma indicato con il numero 3 assume il numero 7; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 7, dopo le parole: «Sono abrogati i commi 2, 4, e 5» sono inserite le seguenti: «e 6».
+
+2.
+                    
+                        
+                            Al decreto legislativo 31 marzo 1998, n. 114, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 22, comma 1, dopo la parola: «decreto» sono inserite le seguenti: «e le disposizioni di cui agli articoli 65, 66, 67, 68 e 69 del decreto legislativo 26 marzo 2010, n. 59,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 22, comma 4, lettera c), e comma 5, lettera b), le parole: «di cui all'articolo 5, comma 2» sono sostituite dalle seguenti: «di cui all'articolo 71, comma 1, del decreto legislativo 26 marzo 2010, n. 59»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 26, il comma 2 e' sostituito dal seguente: «2.
+Nel caso di esercizio promiscuo nello stesso locale dell'attivita' di vendita all'ingrosso e al dettaglio, l'intera superficie di vendita e' presa in considerazione ai fini dell'applicazione di entrambe le discipline per le due tipologie di attivita'.».
 
 ## Art. 9.
 
@@ -71,9 +287,45 @@ Dopo l'articolo 71 del decreto legislativo n. 59 del 2010 sono inseriti i seguen
 
 Modificazioni all'articolo 72 del decreto legislativo n. 59 del 2010, relativo all'attivita' di facchinaggio
 
+1.
+                    
+                        
+                            All'articolo 72 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' aggiunto il seguente: «1-bis. All'articolo 17, comma 1, della legge 5 marzo 2001, n. 57, le parole: "di capacita' economico-finanziaria, tecnico-organizzativa e" sono soppresse.».
+
 ## Art. 11.
 
 Modificazioni all'articolo 73 del decreto legislativo n. 59 del 2010, relativo all'attivita' di intermediazione commerciale e di affari
+
+1.
+                    
+                        
+                            All'articolo 73 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'» e le parole: «articolo 19, comma 2, primo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 7 e' abrogato.
 
 ## Art. 12.
 
@@ -91,9 +343,78 @@ All'articolo 75, comma 2, del decreto legislativo n. 59 del 2010, le parole: «d
 
 Modificazioni all'articolo 76 del decreto legislativo n. 59 del 2010, relativo all'attivita' di spedizioniere, ed alla legge 14 novembre 1941, n. 1442
 
+1.
+                    
+                        
+                            All'articolo 76 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'» e le parole: «articolo 19, comma 2, primo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole: «se l'attivita' e' svolta in forma di impresa, oppure nel repertorio delle notizie economiche e amministrative (REA) previsto dall'articolo 8 della legge 29 dicembre 1993, n. 580, e dall'articolo 9 del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581, e successive modificazioni, assegnando ad essi la relativa qualifica» sono sostituite dalle seguenti: «e, quelli dei soggetti che l'abilitano, nella posizione REA relativa all'impresa»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 7 e' aggiunto in fine il seguente periodo: «E' altresi' soppressa la Commissione centrale di cui agli articoli 14, 15, e 16 della legge 14 novembre 1941, n. 1442, e le relative funzioni sono assicurate dal Ministero dello sviluppo economico.».
+
+2.
+                    
+                        
+                            Alla legge 14 novembre 1941, n. 1442, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 6, comma 3, primo periodo, come modificato dall'articolo 76 del decreto legislativo n. 59 del 2010, le parole: «Il soggetto deve essere in possesso dei requisiti di adeguata capacita' finanziaria, comprovati dal limite di 100.000 euro, nel caso di una Societa' per azioni, nel caso di Societa' a responsabilita' limitata, Societa' in accomandita semplice, Societa' in nome collettivo, occorre accertare, attraverso l'esame dell'atto costitutivo e delle eventuali modificazioni, l'ammontare del capitale sociale» sono sostituite dalle seguenti: «L'impresa deve essere in possesso dei requisiti di adeguata capacita' finanziaria, comprovati da un capitale sociale sottoscritto e versato di almeno 100.000 euro; nel caso di Societa' a responsabilita' limitata, Societa' in accomandita semplice, Societa' in nome collettivo, occorre accertare, attraverso l'esame dell'atto costitutivo e delle eventuali modificazioni, l'ammontare del capitale sociale realmente sottoscritto e versato,»; al secondo periodo, le parole: «Per le ditte individuali» sono sostituite dalle seguenti: «Per le imprese individuali e le societa' cooperative»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 7 e' sostituito dal seguente: 
+ «Art. 7 - 1. Quando il richiedente l'iscrizione nell'elenco autorizzato e' una societa', i certificati di cui alla lettera d) dell'articolo 4 devono riferirsi al presidente, al consigliere delegato o, comunque, alle persone cui e' conferita la firma sociale; per le societa' in accomandita ai soci accomandatari; per le societa' in nome collettivo a tutti i loro componenti; per le societa' cooperative e loro consorzi, al presidente o al direttore. I medesimi soggetti, fermo restando quanto previsto dal comma 2 dell'articolo 6, devono possedere i requisiti di cui al comma 1 dell'articolo 6.».
+
 ## Art. 15.
 
 Modificazioni alla legge 17 agosto 2005, n. 174, e all'articolo 77 del decreto legislativo n. 59 del 2010, relativo all'attivita' di acconciatore
+
+1.
+                    
+                        
+                            Alla legge 17 agosto 2005, n. 174, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, comma 2, come modificato dall'articolo 77, comma 1, del decreto legislativo n. 59 del 2010, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'» e le parole: «articolo 19, comma 2, secondo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 3, comma 5-bis, come inserito dall'articolo 77, comma 1, del decreto legislativo n. 59 del 2010, dopo la parola: «acconciatore» sono aggiunte le seguenti: «ed e' iscritto nel repertorio delle notizie economico-amministrative (REA) contestualmente alla trasmissione della segnalazione certificata di inizio di attivita'».
 
 All'articolo 77 del decreto legislativo n. 59 del 2010, dopo il comma 2 e' aggiunto il seguente: «2-bis. A decorrere dalla data di entrata in vigore del presente comma sono abrogati gli articoli 1, commi terzo, quarto, quinto e sesto e 2, 2-bis, 3, 4 e 5 della legge 14 febbraio 1963, n. 161. Al secondo comma dell'articolo 1 della legge 14 febbraio 1963, n. 161, le parole: "degli articoli successivi" sono sostituite dalle seguenti: "legislative vigenti in materia".».
 
@@ -101,11 +422,47 @@ All'articolo 77 del decreto legislativo n. 59 del 2010, dopo il comma 2 e' aggiu
 
 Modificazioni alla legge 4 gennaio 1990, n. 1, ed all'articolo 78 del decreto legislativo n. 59 del 2010, relativo all'attivita' di estetista
 
+1.
+                    
+                        
+                            Alla legge 4 gennaio 1990, n. 1, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, come modificato dall'articolo 78 del decreto legislativo n. 59 del 2010, le parole: «dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «segnalazione certificata di inizio di attivita'» e le parole: «articolo 19, comma 2, secondo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 3, comma 01, come inserito dall'articolo 78 del decreto legislativo n. 59 del 2010, e' aggiunto in fine il seguente periodo: «Il responsabile tecnico e' iscritto nel repertorio delle notizie economico amministrative (REA) contestualmente alla trasmissione della segnalazione certificata di inizio di attivita'.»;
+
 Il comma 3 dell'articolo 78 del decreto legislativo n. 59 del 2010 e' sostituito dal seguente: «3. Sono o restano abrogati l'articolo 4, comma 1, l'articolo 6, comma 4, dalle parole: "prevedendo le relative sessioni" fino alla fine del precitato comma, e l'articolo 9, comma 1, limitatamente alle parole: "in forma di imprese esercitate nella medesima sede ovvero mediante una delle forme di societa' previste dal secondo comma dell'articolo 3 della legge 8 agosto 1985, n. 443", della legge 4 gennaio 1990, n. 1.».
 
 ## Art. 17.
 
 Modificazioni all'articolo 79 del decreto legislativo n. 59 del 2010, relativo all'attivita' di tintolavanderia
+
+1.
+                    
+                        
+                            All'articolo 79 del decreto legislativo n. 59 del 2010, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «soggetta a dichiarazione di inizio di attivita'» sono sostituite dalle seguenti: «soggetto a segnalazione certificata di inizio di attivita'» e le parole: «articolo 19, comma 2, secondo periodo, della legge» sono sostituite dalle seguenti: «articolo 19 della legge»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: «1-bis. Le disposizioni della legge 22 febbraio 2006, n. 84, come integrate e modificate dal presente articolo, escluse quelle concernenti l'obbligo di designazione del responsabile tecnico, si applicano anche alle imprese di lavanderia dotate esclusivamente di lavatrici professionali ad acqua ed essiccatori destinati ad essere utilizzati direttamente dalla clientela previo acquisto di appositi gettoni.».
 
 ## Art. 18. — Articoli aggiuntivi dopo l'articolo 80 del decreto legislativo n. 59 del 2010, recanti semplificazioni ed altre soppressioni di ruoli
 
@@ -149,6 +506,46 @@ Modificazioni all'articolo 81 del decreto legislativo n. 59 del 2010, relativo a
 All'articolo 81, del decreto legislativo n. 59 del 2010, dopo il comma 1 e' aggiunto il seguente: «1-bis. Le violazioni delle disposizioni di cui al comma 1 sono valutate ai fini della individuazione di eventuali azioni ingannevoli o omissioni ingannevoli ai sensi degli articoli 21 e 22 del decreto legislativo 6 settembre 2005, n. 206, e successive modificazioni, recante il codice del consumo, anche ai fini dell'applicazione delle sanzioni di cui all'articolo 27 del medesimo codice.».
 
 ## Art. 20. — Modificazioni all'articolo 85 del decreto legislativo n. 59 del 2010, recante modifiche ed abrogazioni
+
+1.
+                    
+                        
+                            All'articolo 85 del decreto legislativo n. 59 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: «74, 75, 76, 77 e 78» sono sostituite dalle seguenti: «73, 74, 75 e 76»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, le lettere a), b), d), f) e g) sono soppresse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, dopo la lettera e) e' inserita la seguente:
+«e-bis) l'articolo 4, primo comma, lettere a) ed e), della legge 14 novembre 1941, n. 1442;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 5, e' inserito il seguente: «5-bis. All'articolo 139, comma 1, del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206, e successive modificazioni, e' aggiunta, in fine, la seguente lettera: «b-bis) decreto legislativo 26 marzo 2010, n. 59, recante attuazione della direttiva 2006/123/CE relativa ai servizi nel mercato interno.».
 
 ## Art. 21. — Disposizioni finanziarie
 

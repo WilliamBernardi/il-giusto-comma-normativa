@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2025-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,7 +34,135 @@ Sulla proposta del Ministro del tesoro, del bilancio e della programmazione econ
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Poste: la societa' per azioni Poste Italiane istituita ai sensi della deliberazione C.I.P.E. del 18 dicembre 1997, come modificata con deliberazione C.I.P.E. del 2 novembre 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    testo unico bancario: il decreto legislativo 1o settembre 1993, n. 385, e successive modificazioni e integrazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    testo unico finanza: il decreto legislativo 24 febbraio 1998, n. 58 ((, e successive modificazioni e integrazioni)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    conto corrente postale: il conto corrente aperto presso le Poste Italiane S.p.a.; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assegno postale: l'assegno tratto su Poste; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vaglia postale: lo strumento di trasferimento nazionale ed internazionale di fondi emesso da Poste; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    bollettino di conto corrente postale: il modulo ((cartaceo o elettronico)) emesso da Poste per il versamento di fondi su un conto corrente postale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    risparmio postale: la raccolta di fondi attraverso libretti di risparmio postale e buoni postali fruttiferi effettuata da Poste per conto della Cassa depositi e prestiti.
+
 ## Art. 2. — Attivita' di bancoposta
+
+1.
+                        
+                            
+                                Le attivita' di bancoposta svolte da Poste comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    raccolta di risparmio tra il pubblico, come definita dall'articolo 11, comma 1, del testo unico bancario ed attivita' connesse o strumentali; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    
+                                        ((raccolta delle somme di denaro ricevute dagli istituti di moneta elettronica per l'emissione di moneta elettronica e dagli istituti di pagamento per la prestazione di servizi di pagamento di cui agli articoli 114-quinquies.1 e 114-duodecies del testo unico bancario, nel rispetto delle condizioni ivi previste)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    raccolta del risparmio postale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prestazione di servizi di pagamento, comprese l'emissione di moneta elettronica e di altri di mezzi di pagamento, di cui all'articolo 1, comma 2, lettera f), numeri 4) e 5), del testo unico bancario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    servizio di intermediazione in cambi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promozione e collocamento presso il pubblico di finanziamenti concessi da banche ed intermediari finanziari abilitati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    servizi di investimento ed accessori di cui all'articolo 12. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    servizio di riscossione di crediti; 
+
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    esercizio in via professionale del commercio di oro, per conto proprio o per conto terzi, secondo quanto disciplinato dalla legge 17 gennaio 2000, n. 7.
 
 Poste e' autorizzata a prestare tutti i servizi di bancoposta senza necessita' di iscrizione in albi od elenchi.
 
@@ -75,6 +203,24 @@ La comunicazione ai clienti delle unilaterali variazioni contrattuali sfavorevol
 Salvo diversa disposizione della sede centrale e salva diversa comunicazione scritta del preposto all'ufficio postale che individuino differenti strumenti operativi, i clienti possono impartire a Poste disposizioni solo personalmente o a mezzo di rappresentante e nelle forme prescritte, a seguito di accesso ad uno degli uffici postali abilitati all'operazione richiesta.
 
 Salve le speciali disposizioni concernenti le amministrazioni pubbliche, ove l'operazione richiesta consenta il conferimento di procura questa, scritta o documentata per iscritto dal preposto all'ufficio postale, secondo la forma richiesta per l'atto da compiere, e' conservata presso l'ufficio medesimo e conserva efficacia fino alla notificazione al predetto preposto della sua modifica o revoca.
+
+5.
+                        
+                            
+                                La legittimazione del cliente e' controllata in base: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla corrispondenza della sottoscrizione, se richiesta dalla legge, o del diverso strumento di identificazione utilizzato su indicazione di Poste per singoli servizi, rispettivamente alla sottoscrizione depositata presso Poste od allo strumento da questa indicato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai documenti di riconoscimento esibiti, ove cio' sia richiesto dalla legge.
 
 ## - Titolo II Il conto corrente postale
 
@@ -174,4 +320,36 @@ La promozione ed il collocamento nei confronti del pubblico, da parte di Poste p
 ## Art. 13. — Norma finale
 
 Le disposizioni del presente decreto si applicano ai rapporti esistenti tra Poste e clientela alla data di entrata in vigore delle stesse, fatti salvi gli atti posti in essere e gli effetti prodotti in applicazione della normativa previgente.
+
+2.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli da 100 a 137, 138, comma 2, da 139 a 142, 144 e 145 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli da 1 a 5, da 7 a 13, da 16 a 63, da 67 a 95, 96 comma 2, da 97 a 100, da 102 a 104, 105, comma 1, limitatamente alle parole da: "il correntista" a: "tuttavia", nonche' i commi 3 e 4, da 106 a 121, 122, comma 1, limitatamente alla lettera a), ed alle parole da: "rettificare" a: "od" della lettera b), da 123 a 134 del decreto del Presidente della Repubblica 1o giugno 1989, n. 256;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutte le istruzioni per i servizi di bancoposta;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 4, comma 3-bis, 8, comma 3, e 11 del decreto-legge 1o dicembre 1993, n. 487, convertito, con modificazioni, dalla legge 29 gennaio 1994, n. 71, nella parte relativa ai servizi di bancoposta, nonche' tutte le disposizioni emanate in applicazione degli stessi.
 

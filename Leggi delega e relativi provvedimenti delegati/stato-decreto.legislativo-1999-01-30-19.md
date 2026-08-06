@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2003-06-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -76,7 +76,63 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'uni
 
 ((COMMA ABROGATO DAL D.LGS. 4 GIUGNO 2003, N. 127)).
 
+3.
+                    
+                        
+                            Sono abrogate le disposizioni incompatibili con il presente decreto ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto legislativo luogotenenziale 1 marzo 1945, n. 82, ad eccezione degli articoli 11, 23, 26, 27, 28, 29 e 30, e successive modificazioni ed integrazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    (( LETTERA ABROGATA DAL D.LGS. 4 GIUGNO 2003, N. 127 )).
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    (( LETTERA ABROGATA DAL D.LGS. 4 GIUGNO 2003, N. 127 )).
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    (( LETTERA ABROGATA DAL D.LGS. 4 GIUGNO 2003, N. 127 )).
+
 (( COMMA ABROGATO DAL D.LGS. 4 GIUGNO 2003, N. 127 )).
 
 (( COMMA ABROGATO DAL D.LGS. 4 GIUGNO 2003, N. 127 )).
+
+6.
+                    
+                        
+                            I gruppi nazionali di matematica del C.N.R. sono trasferiti
+ all'Istituto nazionale di alta matematica Francesco Severi. Alla legge 11 febbraio 1992, n. 153, sono apportate le seguenti modificazioni ed integrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, comma 2, premettere alla lettera a) la seguente:
+ "0a) costituire gruppi nazionali di ricerca, con l'apporto di professori e ricercatori urtiversitari, nonche' di ricercatori degli enti di ricerca, come istituti temporanei per l'organizzazione di un lavoro di ricerca distribuito tra piu' persone e organismi scientifici. All'attivita' dei gruppi sovrintende un consiglio scientifico e un direttore;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 6, comma 2, sono aggiunte, in fine, le seguenti
+ parole: ", nonche' dei direttori dei gruppi nazionali di ricerca".
 

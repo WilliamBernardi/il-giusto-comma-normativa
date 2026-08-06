@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-11-08;187
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,9 +32,93 @@ Ai fini del comma 1, le amministrazioni aggiudicatrici e gli enti aggiudicatori 
 
 ## Art. 2. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Il presente decreto si applica ai seguenti contratti: 
+ 
+                        
+                        
+                            a)
+                            
+                                contratti di acquisto, di leasing, di locazione o di vendita a rate di veicoli adibiti al trasporto su strada per i quali le amministrazioni aggiudicatrici o gli enti aggiudicatori hanno l'obbligo di applicare il decreto legislativo 18 aprile 2016, n. 50; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contratti di servizio pubblico ai sensi del regolamento (CE) n. 1370/2007 del Parlamento europeo e del Consiglio, del 23 ottobre 2007, aventi per oggetto la prestazione di servizi di trasporto di passeggeri su strada che superano la soglia di cui all'articolo 5, paragrafo 4, di detto regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                contratti di servizio come definiti nella tabella 1 dell'allegato al presente decreto per i quali le amministrazioni aggiudicatrici o gli enti aggiudicatori hanno l'obbligo di applicare il decreto legislativo n. 50 del 2016.
+
 Il presente decreto si applica unicamente ai contratti per i quali e' stato inviato l'avviso di indizione della gara dopo la data di entrata in vigore del decreto stesso ovvero, qualora non sia previsto l'avviso di indizione di gara, laddove l'amministrazione aggiudicatrice o l'ente aggiudicatore abbia avviato la procedura di appalto dopo la data di entrata in vigore del decreto stesso.
 
+3.
+                    
+                        
+                            Il presente decreto non si applica ai seguenti veicoli: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai veicoli di cui all'articolo 2, paragrafo 2, lettere a), b), c) e d), e all'articolo 2, paragrafo 3, lettere a),
+                            
+                        
+                        
+                            b)
+                            
+                                e c), del regolamento (UE) n. 2018/858 del Parlamento europeo e del Consiglio, del 30 maggio 2018 e all'allegato I, parte A, punti da 5.2. a 5.5. e punto 5.7., di tale regolamento; 
+ b) ai veicoli di categoria M3 diversi dai veicoli di classe I e dai veicoli di classe A, come definiti dall'articolo 3, punti 2 e 3, del regolamento (CE) n. 661/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009.
+
 ## Art. 3. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «amministrazioni aggiudicatrici»: le amministrazioni aggiudicatrici come definite all'articolo 3, comma 1, lettera a), del decreto legislativo n. 50 del 2016; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «enti aggiudicatori»: gli enti aggiudicatori come definiti all'articolo 3, comma 1, lettera e), numero 1), del decreto legislativo n. 50 del 2016; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «veicolo adibito al trasporto su strada»: un veicolo di categoria M o N, come definito all'articolo 4, paragrafo 1, lettere a) e b), del regolamento (UE) n. 2018/858; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «veicolo pulito»: 
+ 1) un veicolo di categoria M1 , M2 o N1 con emissioni allo scarico massime espresse in CO2 g/km ed emissioni di inquinanti in condizioni reali di guida inferiori a una percentuale dei limiti di emissione applicabili di cui alla tabella 2 dell'allegato; 
+ 2) un veicolo di categoria M3 , N2 o N3 che utilizza combustibili alternativi quali definiti all'articolo 2, comma 1, lettera a), del decreto legislativo 16 dicembre 2016, n. 257, esclusi i combustibili prodotti da biomassa a elevato rischio di cambiamento indiretto della destinazione d'uso dei terreni, prodotti da materie prime per le quali si osserva una considerevole espansione della zona di produzione in terreni che presentano elevate scorte di carbonio, conformemente all'articolo 26 della direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018. Nel caso di veicoli che utilizzano biocarburanti liquidi, carburanti sintetici e paraffinici, tali carburanti non devono essere miscelati con i combustibili fossili convenzionali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «veicolo pesante a emissioni zero»: un veicolo pulito come definito alla lettera d), numero 2), privo di motore a combustione interna o con un motore a combustione interna che emette meno di 1 g CO2 /kWh misurato a norma del regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio, del 18 luglio 2009 e delle relative disposizioni di attuazione, o che emette meno di 1 g CO2 /km misurato a norma del regolamento (CE) n. 715/2007 del Parlamento europeo e del Consiglio, del 20 giugno 2007 e delle relative disposizioni di attuazione.
 
 ## Art. 4. — Obiettivi minimi di appalto
 

@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2009-08-18
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -27,11 +27,68 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dei trasport
 
 ## Art. 1. — Campo di applicazione
 
+1.
+                    
+                        
+                            Il presente decreto legislativo si applica agli aeromobili immatricolati in Paesi terzi che:
+ 
+                        
+                        
+                            a)
+                            
+                                sono utilizzati da vettori esteri comunitari e non comunitari:
+
+                            
+                        
+                        
+                            b)
+                            
+                                atterrano in un aeroporto situato in territorio italiano;
+
+                            
+                        
+                        
+                            c)
+                            
+                                hanno un peso massimo al decollo uguale o superiore a 5700 kg ed effettuano trasporto commerciale.
+
 Possono essere soggetti alle ispezioni a terra di cui all'articolo 3 anche gli aeromobili immatricolati in Paesi membri dell'Unione europea.
  3. lI presente decreto legislativo non si applica agli aeromobili di Stato di cui all'articolo 744 del codice della navigazione.
  .
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                fermo: il divieto ufficiale imposto ad un aeromobile di lasciare un aeroporto e l'adozione delle misure a tale fine necessarie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                norme internazionali di sicurezza: le norme di sicurezza contenute nella convenzione di Chicago e nei suoi allegati, in vigore alla data dell'ispezione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ispezione a terra: l'esame di un aeromobile, effettuato conformemente ai contenuti ed alle procedure di cui all'allegato II della direttiva 2004/36/CE, e successive modificazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                aeromobile di Paesi terzi: un aeromobile il cui impiego o la cui gestione non e' soggetta al controllo delle autorita' competenti di uno stato membro.
 
 ## Art. 3. — Ispezioni a terra degli aeromobili
 
@@ -44,6 +101,45 @@ L'ispezione a terra di un aeromobile non ha lo scopo di determinare le condizion
 L'ENAC sviluppa e mette in atto un programma di ispezioni a terra avente ad oggetto gli aeromobili di cui all'articolo 1. lI programma e' di durata annuale ed e' rinnovato di anno in anno sulla base dei risultati delle ispezioni effettuate e delle indicazioni provenienti dalla Commissione europea, dagli Stati dell'Unione europea e dall'Agenzia europea della sicurezza aerea.
 
 Le ispezioni a terra sono effettuate da personale dell'ENAC qualificato allo scopo.
+
+3.
+                    
+                        
+                            Le ispezioni a terra vengono effettuate con particolare sollecitudine nel caso in cui:
+ 
+                        
+                        
+                            a)
+                            
+                                le informazioni disponibili lasciano presumere carenze di manutenzione o evidenti danni o difetti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono state segnalate manovre anomale dopo l'ingresso nello spazio aereo nazionale, tali da sollevare serie preoccupazioni per la sicurezza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                una precedente ispezione a terra ha rivelato carenze tali da far sorgere seri dubbi circa la conformita' dell'aeromobile alle norme internazionali di sicurezza e l'ENAC non ha evidenze che le carenze siano state corrette;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le informazioni disponibili dimostrano che le autorita' competenti del paese di immatricolazione potrebbero non esercitare un corretto controllo della sicurezza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le informazioni raccolte ai sensi dell'articolo 5 lasciano presumere che l'operatore aereo possa avere problemi di sicurezza ovvero una precedente ispezione a terra di un aeromobile usato dallo stesso operatore ha rivelato carenze nelle condizioni di sicurezza.
 
 Quando non sussistano particolari sospetti, l'ENAC effettua le ispezioni a terra secondo una procedura di campionatura, conformemente al diritto comunitario ed internazionale. La procedura e' messa in atto in modo non discriminatorio.
 
@@ -70,6 +166,42 @@ In caso di ispezioni a terra dalle quali risulta che le azioni correttive per di
 Nei casi di urgenza, quando risulta compromessa la sicurezza del volo, l'ENAC adotta le misure eccezionali di cui all'articolo 6 del regolamento (CE) n. 2111/2005.
 
 ## Art. 6. — Raccolta e scambio delle informazioni
+
+1.
+                    
+                        
+                            L'ENAC sviluppa un sistema appropriato che garantisce la raccolta, la gestione ed il trattamento delle informazioni sulla sicurezza degli aeromobili di cui all'articolo 1 e che comprende:
+ 
+                        
+                        
+                            a)
+                            
+                                importanti informazioni in materia di sicurezza, ricavate in particolare da:
+ 1) rapporti dei piloti;
+ 2) rapporti delle organizzazioni di manutenzione;
+ 3) rapporti sugli incidenti;
+ 4) altri organismi, indipendenti dalle autorita' dell'aviazione civile degli Stati dell'Unione europea
+ 5) reclami;
+
+                            
+                        
+                        
+                            b)
+                            
+                                informazioni sulle azioni intraprese in seguito ad un'ispezione a terra, fra cui:
+ 1) fermo dell'aeromobile;
+ 2) divieto operativo comunitario o in un singolo Stato dell'Unione europea, per l'aeromobile o l'operatore;
+ 3) interventi correttivi necessari;
+ 4) contatti con l'autorita' dell'aviazione civile competente sull'operatore
+
+                            
+                        
+                        
+                            c)
+                            
+                                informazioni complementari sull'operatore quali, ad esempio:
+ 1) interventi correttivi realizzati;
+ 2) ricorrenza delle anomalie.
 
 Le informazioni sono registrate in rapporti stilati su un formulario tipo conforme all'allegato I della direttiva 2004/36/CE, e successive modificazioni.
 

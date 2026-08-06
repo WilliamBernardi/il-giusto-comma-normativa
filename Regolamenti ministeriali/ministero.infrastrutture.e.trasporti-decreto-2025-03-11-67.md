@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2025-03-11;67
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -83,6 +83,122 @@ L'inserimento nell'anagrafe nazionale dei dati di cui all'articolo 1, commi 6 e 
 L'anagrafe nazionale delle patenti nautiche rende disponibili i dati in essa contenuti, limitatamente a quelli indispensabili al perseguimento delle rispettive finalita', alle pubbliche amministrazioni per lo svolgimento dei relativi compiti istituzionali, nonche' alle autorita' pubbliche autorizzate ai sensi degli articoli 1 e 3, comma 1, lettera a), del decreto del Presidente della Repubblica 28 settembre 1994, n. 634, mediante i servizi resi disponibili dalla piattaforma di cui all'articolo 50-ter del decreto legislativo 7 marzo 2005, n. 82. L'accesso e' garantito a titolo gratuito ai soggetti di cui all'articolo 1, comma 2, del decreto del Presidente della Repubblica n. 634 del 1994 e a titolo oneroso alle autorita' pubbliche di cui all'articolo 3, comma 1, lettera a), del medesimo decreto.
 
 ## Art. 5. — Dati trattati
+
+1.
+                    
+                        
+                            Nell'anagrafe nazionale delle patenti nautiche sono raccolte le seguenti informazioni sul titolare di patente nautica: 
+ 
+                        
+                        
+                            a)
+                            
+                                cognome; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nome; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                codice fiscale, ove previsto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                luogo, data di nascita e nazionalita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                residenza anagrafica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                numero della patente nautica e numero del relativo stampato a rigoroso rendiconto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                autorita' che ha rilasciato la patente nautica; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                data di rilascio della patente nautica; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                validita' della patente nautica; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                categoria e abilitazione della patente nautica; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                eventuali limitazioni di cui all'articolo 39, comma 6-bis, del decreto legislativo n. 171 del 2005; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                eventuali prescrizioni mediche annotate sulla patente nautica; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                eventuali sospensioni della patente nautica; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                eventuale revoca della patente nautica e motivazione; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                eventuali revisioni di cui all'articolo 39 del decreto del Ministro delle infrastrutture e dei trasporti n. 146 del 2008; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                i dati di cui all'articolo 1, commi 6 e 7.
 
 I dati anagrafici possono essere verificati con i dati contenuti nell'anagrafe nazionale della popolazione residente (ANPR), ai sensi dell'articolo 39-bis, comma 3-bis, del decreto legislativo n. 171 del 2005 e dell'articolo 62, comma 5, del decreto legislativo n. 82 del 2005, mediante i servizi resi disponibili dalla piattaforma di cui all'articolo 50-ter del decreto legislativo n. 82 del 2005.
 

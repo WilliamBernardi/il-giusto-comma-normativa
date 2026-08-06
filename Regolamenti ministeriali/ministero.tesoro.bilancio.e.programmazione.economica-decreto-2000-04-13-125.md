@@ -8,8 +8,8 @@ codice_redazionale: 000G0174
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,56 @@ che con decreto del Ministro del tesoro, del bilancio e della programmazione eco
 Sono ammessi alle agevolazioni di cui all'articolo 3-quinquies della legge n. 226 del 1999 i soggetti beneficiari dei finanziamenti di cui agli articoli 2 e 3 della legge n. 35 del 1995 e successive modificazioni, ivi compresi i soggetti mutuatari di cui all'articolo 4-quinquies della legge n. 438 del 1995, che rinegoziano con l'istituto mutuante, alle condizioni e modalita' di cui al presente regolamento, le operazioni finanziarie gia' stipulate ai tassi d'interesse allora vigenti.
 
 ## Art. 2. — Operazione di rinegoziazione
+
+1.
+                    
+                        
+                            L'operazione finanziaria gia' stipulata e' ammessa alla rinegoziazione per i seguenti valori:
+ 
+                        
+                        
+                            a)
+                            
+                                capitale residuo risultante dal piano d'ammortamento originario alla scadenza della prima rata successiva alla presentazione della domanda di rinegoziazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ammontare delle rate al tasso agevolato scadute e non pagate, incrementato degli interessi composti maturati dalle rispettive scadenze fino alla data di decorrenza delle nuove condizioni rinegoziate, al tasso di riferimento dell'operazione originaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                importo rimasto impagato della rata originaria, per le rate riscadenzate ai sensi dell'articolo 18 della legge 7 agosto 1997, n. 266, e successive modificazioni, maggiorato degli interessi composti al tasso a carico del mutuatario, dalla scadenza originaria fino alla decorrenza delle nuove condizioni rinegoziate.
+
+2.
+                    
+                        
+                            Sono a carico dei Fondi agevolativi:
+ 
+                        
+                        
+                            a)
+                            
+                                con riferimento al valore di cui al punto
+                            
+                        
+                        
+                            b)
+                            
+                                del comma 1, i contributi previsti dai piani contributivi originari;
+ b) relativamente al valore di cui al punto
+                            
+                        
+                        
+                            c)
+                            
+                                del comma 1, i contributi maturati sulle rate riscadenzate dalla scadenza originaria fino alla decorrenza delle nuove condizioni rinegoziate;
+ c) gli oneri finanziari conseguenti all'eventuale ritardo nel pagamento del contributo calcolati, per ciascuna rata, al costo della provvista relativo al tasso di riferimento vigente alla scadenza di ciascuna di esse.
 
 La rinegoziazione non costituisce una nuova operazione finanziaria.
 

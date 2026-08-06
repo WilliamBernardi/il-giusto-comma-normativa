@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2014-12-16;206
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -60,11 +60,154 @@ Finalita' e definizioni
 
 Con il presente decreto si definiscono le caratteristiche del casellario dell'assistenza, di cui all'articolo 13 del decreto-legge 31 maggio 2010, n. 78, quale strumento di raccolta delle informazioni sui beneficiari e sulle prestazioni sociali loro erogate, al fine di migliorare il monitoraggio, la programmazione e la gestione delle politiche sociali. Tali informazioni contribuiscono ad assicurare una compiuta conoscenza dei bisogni sociali e del sistema integrato degli interventi e dei servizi sociali e costituiscono, secondo le modalita' di cui all'articolo 6, parte della base conoscitiva del sistema informativo dei servizi sociali, ai sensi dell'articolo 21, comma 1, della legge 8 novembre 2000, n. 328. Per tali finalita' confluiscono nel casellario, secondo le modalita' di cui all'articolo 3, le informazioni della banca dati delle prestazioni sociali agevolate, di cui al decreto 8 marzo 2013 del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, concernente «Definizione delle modalita' di rafforzamento del sistema dei controlli ISEE». Il casellario acquisisce altresi' le informazioni sulle altre prestazioni sociali, la cui erogazione non e' condizionata alla verifica della situazione economica dei beneficiari, organizzate in apposita banca dati, secondo le modalita' di cui all'articolo 4. Il casellario acquisisce infine, in caso di prestazioni sociali che per la loro natura richiedono interventi di valutazione e presa in carico da parte dei servizi sociali, le informazioni sulla valutazione dei beneficiari, secondo le modalita' di cui all'articolo 5.
 
+2.
+                    
+                        
+                            Ai fini del presente decreto valgono le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Casellario»: il casellario dell'assistenza, di cui all'articolo 13 del decreto-legge 31 maggio 2010, n. 78; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Prestazioni sociali»: si intendono le prestazioni di natura assistenziale, ovvero, ai sensi dell'articolo 128 del decreto legislativo 31 marzo 1998, n. 112, nonche' dell'articolo 1, comma 2, della legge 8 novembre 2000, n. 328, tutte le attivita' relative alla predisposizione ed erogazione di servizi, gratuiti ed a pagamento, o di prestazioni economiche destinate a rimuovere e superare le situazioni di bisogno e di difficolta' che la persona umana incontra nel corso della sua vita, escluse soltanto quelle assicurate dal sistema previdenziale e da quello sanitario, nonche' quelle assicurate in sede di amministrazione della giustizia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Prestazioni sociali agevolate»: prestazioni sociali non destinate alla generalita' dei soggetti, ma limitate a coloro in possesso di particolari requisiti di natura economica, ovvero prestazioni sociali non limitate dal possesso di tali requisiti, ma comunque collegate nella misura o nel costo a determinate situazioni economiche, fermo restando il diritto ad usufruire delle prestazioni e dei servizi assicurati a tutti dalla Costituzione e dalle altre disposizioni vigenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Prestazioni di natura previdenziale rilevanti per il SISS»: prestazioni di natura previdenziale o comunque rivolte esclusivamente ai lavoratori, che per natura, categorie dei beneficiari e obiettivi perseguiti assumono rilievo per le finalita' del sistema informativo dei servizi sociali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Agevolazioni tributarie rilevanti per il SISS»: agevolazioni tributarie che per natura, categorie dei beneficiari e obiettivi perseguiti sono assimilabili alle prestazioni sociali, per quanto non erogate in forma diretta mediante trasferimenti monetari; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Posizione assistenziale»: si intende l'insieme delle informazioni relative alle prestazioni sociali e prestazioni sociali agevolate poste in essere su un dato beneficiario corredate dalle informazioni sul beneficiario stesso; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Ente erogatore»: ente che nella sua qualita' di titolare dell'erogazione di prestazioni sociali effettua altresi' la rilevazione delle informazioni per il Casellario individuate dal presente decreto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Servizio sociale professionale»: complessivo insieme di interventi attivati per la prevenzione, il sostegno ed il recupero di situazioni di bisogno e la promozione di nuove risorse sociali.
+Comprende, tra l'altro, le funzioni di presa in carico, progettazione, valutazione multidimensionale, inserimento in strutture residenziali e centri diurni; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «Presa in carico»: funzione esercitata dal servizio sociale professionale in favore di una persona o di un nucleo familiare in risposta a bisogni complessi che richiedono interventi personalizzati di valutazione, consulenza, orientamento, attivazione di prestazioni sociali, nonche' attivazione di interventi in rete con altre risorse e servizi pubblici e privati del territorio; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «SISS»: sistema informativo dei servizi sociali, di cui all'articolo 21, della legge 8 novembre 2000, n. 328; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «SINBA»: sistema informativo sulla cura e la protezione dei bambini e delle loro famiglie; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «SINA»: sistema informativo degli interventi per le persone non autosufficienti; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «SIP»: sistema informativo su interventi e servizi sociali a contrasto della poverta' e dell'esclusione sociale; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «ISEE»: indicatore della situazione economica equivalente, di cui al decreto legislativo 31 marzo 1998, n. 109, e al decreto del Presidente del Consiglio dei Ministri 5 dicembre 2013, n. 159; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «ISR»: indicatore della situazione reddituale, di cui all'articolo 3 del decreto del Presidente del Consiglio dei Ministri 4 aprile 2001, n. 242, e al decreto del Presidente del Consiglio dei Ministri 5 dicembre 2013, n. 159; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «ISP»: indicatore della situazione patrimoniale, di cui all'articolo 4 del decreto del Presidente del Consiglio dei Ministri 4 aprile 2001, n. 242, e al decreto del Presidente del Consiglio dei Ministri 5 dicembre 2013, n. 159.
+
 ## Art. 2. — Casellario dell'assistenza
 
 Il Casellario e' istituito presso l'Istituto nazionale della previdenza sociale (INPS), costituisce l'anagrafe generale delle posizioni assistenziali ed ha compiti di raccolta, conservazione e gestione dei dati relativi alle caratteristiche delle prestazioni sociali erogate, nonche', secondo le modalita' di cui all'articolo 5, delle informazioni utili alla presa in carico dei soggetti aventi titolo alle medesime prestazioni, incluse le informazioni sulle caratteristiche personali e familiari e sulla valutazione del bisogno.
 
 Gli enti locali e ogni altro ente erogatore di prestazioni sociali e di prestazioni sociali agevolate mettono a disposizione del Casellario le informazioni di propria competenza individuate dal presente decreto. Resta fermo che il Casellario raccoglie informazioni connesse alle sole prestazioni sociali per la cui erogazione e' necessaria l'identificazione del beneficiario. Le informazioni raccolte dal Casellario sono rese disponibili secondo le modalita' di cui all'articolo 6, fatti salvi gli specifici utilizzi della banca dati delle prestazioni sociali agevolate, di cui all'articolo
+
+3.
+                    
+                        
+                            Ai fini della trasmissione delle informazioni, gli enti locali possono avvalersi del sistema pubblico di connettivita' attraverso servizi di cooperazione applicativa. 
+ 3. Il Casellario e' costituito dalle seguenti componenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                banca dati delle prestazioni sociali agevolate, di cui all'articolo 3, nonche' al citato decreto interministeriale 8 marzo 2013; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                banca dati delle prestazioni sociali, di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                banca dati delle valutazioni multidimensionali, di cui all'articolo 5, nel caso in cui alle prestazioni sociali sia associata una presa in carico da parte del servizio sociale professionale.
 
 L'elenco delle prestazioni di riferimento per le banche dati di cui alle lettere a) e b) del comma 3 e' riportato nella Tabella 1, che costituisce parte integrante del presente decreto. L'elenco e' unitario, atteso che per la medesima tipologia di prestazione, nei casi previsti dalle disposizioni vigenti, l'erogazione puo' essere sottoposta o meno alla verifica della condizione economica dei beneficiari.
 
@@ -77,6 +220,38 @@ Le modalita' attuative e le specifiche tecniche per l'acquisizione, la trasmissi
 La banca dati delle prestazioni sociali agevolate, come definite all'articolo 1, comma 2, lettera c), raccoglie le informazioni sui beneficiari e sulle prestazioni sociali agevolate loro erogate.
 L'elenco delle prestazioni sociali che possono assumere la qualifica di prestazioni sociali agevolate e' riportato, unitamente con quello generale delle prestazioni sociali, nelle apposite sezioni A1, A2 e A3 della Tabella 1, che recepisce ed integra l'elenco di cui alla Tabella 1 del citato decreto interministeriale 8 marzo 2013. Nel caso in cui, ai sensi delle disposizioni vigenti, l'ente competente alla disciplina della prestazione non ne abbia sottoposto l'erogazione alla verifica della condizione economica dei beneficiari, la prestazione medesima e' da intendersi parte della banca dati delle prestazioni sociali di cui all'articolo 4. Per le prestazioni sociali agevolate che non siano riconducibili all'elenco di cui alla Tabella 1 del presente decreto, con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali, su segnalazione degli enti erogatori, si provvede ad ampliare l'elenco stesso e a rendere disponibile la sua versione aggiornata.
 
+2.
+                    
+                        
+                            Le informazioni che costituiscono la banca dati delle prestazioni sociali agevolate sono le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                dati identificativi dell'ente erogatore e del beneficiario; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tipologia delle prestazioni sociali agevolate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                informazioni relative alle caratteristiche e al valore economico delle prestazioni sociali agevolate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                informazioni relative al valore sintetico dell'ISEE, dell'ISR e dell'ISP, nonche' informazioni sul numero dei componenti del nucleo familiare e relativa classe d'eta'.
+
 Le informazioni, di cui al comma 2, lettere a), b) e c), sono individuate nella Tabella 2, che costituisce parte integrante del presente decreto e che recepisce ed integra la Tabella 2 del citato decreto interministeriale 8 marzo 2013.
 
 Le informazioni di cui al comma 2, lettera d) sono estratte dal sistema informativo dell'ISEE di cui all'articolo 4-bis del decreto legislativo 31 marzo 1998, n. 109, e di cui al decreto del Presidente del Consiglio dei Ministri 5 dicembre 2013, n. 159.
@@ -87,6 +262,31 @@ Oltre che per le finalita' di cui all'articolo 6, le informazioni contenute nell
 
 La banca dati delle prestazioni sociali raccoglie le informazioni sui beneficiari e sulle prestazioni sociali, che non sono state gia' incluse nella banca dati di cui all'articolo 3, nonche' sulle prestazioni di natura previdenziale rilevanti per il SISS, di cui all'articolo 1, comma 2, lettera d), e sulle agevolazioni tributarie rilevanti per il SISS, di cui all'articolo 1, comma 2, lettera e). L'elenco delle prestazioni sociali e' riportato nella Tabella 1, sezioni A1, A2 e A3, ad integrazione delle prestazioni sociali agevolate, nonche' nella sezione A4, concernente le prestazioni sociali erogate da INPS, incluse le prestazioni di natura previdenziale rilevanti per il SISS. La sezione A5 riporta le agevolazioni tributarie rilevanti per il SISS. Resta fermo che e' da intendersi parte della banca dati delle prestazioni sociali di cui al presente articolo anche la prestazione identificata nell'elenco delle sezioni A1, A2 e A3 come prestazione sociale agevolata laddove, ai sensi delle disposizioni vigenti, l'ente competente alla disciplina della prestazione medesima non ne abbia sottoposto l'erogazione alla verifica della condizione economica dei beneficiari. Per le prestazioni sociali che non siano riconducibili all'elenco di cui alla Tabella 1 del presente decreto, con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali, su segnalazione degli enti erogatori, si provvede ad aggiornare l'elenco stesso e a rendere disponibile la sua versione aggiornata.
 
+2.
+                    
+                        
+                            Le informazioni che costituiscono la banca dati delle prestazioni sociali sono le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                dati identificativi dell'ente erogatore e del beneficiario; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tipologia delle prestazioni sociali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                informazioni relative alle caratteristiche e al valore economico delle prestazioni sociali.
+
 Le informazioni di cui al comma 2 sono individuate con le medesime modalita' adottate con riferimento alle prestazioni sociali agevolate, di cui all'articolo 3, comma 3, fatta salva la mancata attivazione dei campi della Tabella 2, sezione 3, non rilevanti per le prestazioni non condizionate ad ISEE.
 
 Il Casellario acquisisce dall'Anagrafe tributaria le informazioni sulle agevolazioni tributarie incluse nella sezione A5 della Tabella 1. In ogni caso le informazioni sono acquisite solo in presenza di valori positivi dell'agevolazione tributaria e sono visualizzabili secondo modalita' che impediscono l'identificazione dei soggetti.
@@ -95,6 +295,82 @@ Il Casellario acquisisce dall'Anagrafe tributaria le informazioni sulle agevolaz
 
 Nel caso in cui all'erogazione di una prestazione sociale sia associata una presa in carico da parte del servizio sociale professionale, gli enti erogatori mettono a disposizione del Casellario le informazioni sulla valutazione multidimensionale, incluse le caratteristiche socio-demografiche del beneficiario e/o del suo nucleo familiare, come individuate nella Tabella 3, che costituisce parte integrante del presente decreto.
 
+2.
+                    
+                        
+                            Le informazioni di cui al comma 1 sono organizzate in tre sezioni corrispondenti a distinte aree di utenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                Infanzia, adolescenza e famiglia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Disabilita' e non autosufficienza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Poverta', esclusione sociale e altre forme di disagio. 
+ Le sezioni costituiscono moduli separati del Casellario, correlate selettivamente con la Tabella 2 e le informazioni estratte dal sistema informativo dell'ISEE secondo le modalita' di cui ai commi successivi.
+
+3.
+                    
+                        
+                            In sede di prima applicazione, la Tabella 3 recepisce per ciascuna delle sezioni di cui al comma 2 le informazioni definite, ai fini della realizzazione del SISS, nei moduli in fase di sperimentazione d'intesa tra il Ministero del lavoro e delle politiche sociali e le Regioni e le Province autonome, di cui all'articolo 5 del decreto 26 giugno 2013 del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze. In particolare, le informazioni di cui al comma 2 sono definite: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto alla lettera a), attraverso il modulo SINBA; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto alla lettera b), attraverso il modulo SINA; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto alla lettera c), attraverso il modulo SIP.
+
+4.
+                    
+                        
+                            Con riferimento alle sole informazioni raccolte attraverso il modulo SINBA, di cui al comma 3, l'acquisizione da parte del Casellario avviene in forma individuale ma priva di ogni riferimento che ne permetta il collegamento diretto con gli interessati e comunque con modalita' che, pur consentendo il collegamento nel tempo delle informazioni riferite ai medesimi individui, rendono questi ultimi non identificabili. A tal fine, gli enti erogatori inseriscono il codice fiscale dei beneficiari utilizzandolo esclusivamente per associare alle informazioni raccolte attraverso il modulo SINBA quelle sulle eventuali ulteriori prestazioni, acquisite dal Casellario con la Tabella 2, e quelle eventualmente estratte dal sistema informativo dell'ISEE, ai sensi dell'articolo 3. A seguito dell'associazione di cui al precedente periodo, le informazioni sono automaticamente riaggregate, al fine di garantire la non identificabilita' degli interessati, prevedendo comunque i seguenti livelli minimi di aggregazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                riferimenti territoriali di livello non inferiore a quello di ambito territoriale, di cui all'articolo 8, comma 3, lettera a), della legge 8 novembre 2000, n. 328; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                riferimenti all'eta' del beneficiario individuabili in classi non inferiori al triennio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                eventuali riferimenti all'ISEE o alle condizioni economiche per scaglioni non inferiori ad euro 3.000.
+
 Le procedure mediante le quali si assicura la non identificabilita' degli interessati, che deve essere comunque garantita all'atto dell'acquisizione delle informazioni del modulo SINBA da parte del Casellario, sono indicate nel decreto direttoriale di cui all'articolo 2, comma 6. Con il medesimo provvedimento si garantisce la non reversibilita' del processo di associazione tra le informazioni raccolte attraverso il modulo SINBA e le altre presenti nel Casellario, di cui al secondo periodo del presente comma.
 
 Con riferimento alle informazioni raccolte attraverso il modulo SIP, la definizione dei flussi informativi e' oggetto di apposita sperimentazione del Ministero del lavoro e delle politiche sociali d'intesa con le Regioni e le Province autonome, ai sensi del comma 7.
@@ -102,6 +378,24 @@ Con riferimento alle informazioni raccolte attraverso il modulo SIP, la definizi
 Al fine di sviluppare l'assetto dei relativi flussi, le informazioni di cui al presente articolo sono inviate all'INPS dagli enti locali, in forma singola o associata, individuati con accordo in sede di Conferenza Unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sentito il Garante per la protezione dei dati personali, in via sperimentale, per un periodo di 12 mesi a partire dal termine specificato con il decreto direttoriale di cui all'articolo 2, comma 6. Al termine della fase di sperimentazione e a seguito della verifica della congruita' dei flussi informativi, con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali, si procede all'integrazione ed eventuale revisione dei flussi informativi per tutto il territorio nazionale. Con il medesimo provvedimento si procede alla definizione dei flussi informativi del SIP.
 
 ## Art. 6. — Utilizzo del Casellario
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 16, comma 2, del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35, l'INPS rende disponibili per l'alimentazione del SISS, anche attraverso servizi di cooperazione applicativa, le informazioni contenute nel Casellario, in forma individuale ma prive di ogni riferimento che ne permetta il collegamento con gli interessati e comunque secondo modalita', stabilite con il decreto direttoriale di cui all'articolo 2, comma 6, che rendono gli interessati non identificabili, ai seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                Ministero del lavoro e delle politiche sociali, ai fini di monitoraggio della spesa sociale e valutazione dell'efficienza e dell'efficacia degli interventi, nonche' per elaborazioni a fini statistici, di ricerca e di studio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Regioni, Province Autonome e Comuni, nonche' altri enti pubblici ai quali, in conformita' alle leggi vigenti, sia affidata la programmazione di prestazioni e di servizi sociali e socio-sanitari, con riferimento al proprio ambito territoriale di azione, per fini di programmazione delle medesime prestazioni, oltre alle finalita' di cui alla lettera a).
 
 Le informazioni di cui al comma 1 sono altresi' utilizzate dal Ministero del lavoro e delle politiche sociali per la predisposizione della relazione sulle politiche sociali e assistenziali da presentare alle Camere ai sensi dell'articolo 16, comma 3, del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35, al fine di una migliore programmazione delle politiche sociali e a supporto delle scelte legislative, entro il 31 marzo di ogni anno.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-03-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,9 +31,131 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
 
 Finalita' ed ambito di applicazione
 
+1.
+                    
+                        
+                            Il presente decreto reca disposizioni di adeguamento dell'ordinamento interno a quello dell'Unione europea ed internazionale, con particolare riferimento alle disposizioni contenute nei seguenti regolamenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    (( regolamento (UE) 2021/821 del Parlamento europeo e del Consiglio, del 20 maggio 2021, che istituisce un regime dell'Unione di controllo delle esportazioni, dell'intermediazione, dell'assistenza tecnica, del transito e del trasferimento di prodotti a duplice uso (rifusione) )); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    (( regolamento (UE) 2019/125 del Parlamento europeo e del Consiglio, del 16 gennaio 2019, relativo al commercio di determinate merci che potrebbero essere utilizzate per la pena di morte, per la tortura o per altri trattamenti o pene crudeli, inumani o degradanti (codificazione) )); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                regolamenti (UE) del Consiglio adottati ai sensi dell'articolo 215 del Trattato sul funzionamento dell'Unione europea, concernenti misure restrittive nei confronti di determinati Paesi terzi assoggettati ad embargo commerciale.
+
 Il presente decreto non si applica ai materiali d'armamento di cui alla legge 9 luglio 1990, n. 185, ne' ai prodotti a duplice uso appositamente progettati o sviluppati, anche in conseguenza di modifiche sostanziali, per l'uso militare, in quanto ascrivibili alla categoria dei materiali d'armamento ai sensi delle vigenti disposizioni.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Oltre alle definizioni contenute nei regolamenti di cui all'articolo 1, comma 1, e, per gli aspetti doganali, a quelle di cui al regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio del 9 ottobre 2013, nonche' sulla base di quanto previsto dalla normativa doganale unionale e dal decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, ai fini del presente decreto valgono le definizioni seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «regolamento duplice uso» s'intende il regolamento (UE) 2021/821 del Parlamento europeo e del Consiglio, del 20 maggio 2021, che istituisce un regime dell'Unione di controllo delle esportazioni, dell'intermediazione, dell'assistenza tecnica, del transito e del trasferimento di prodotti a duplice uso (rifusione); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «regolamento antitortura» s'intende il regolamento (UE) 2019/125 del Parlamento europeo e del Consiglio, del 16 gennaio 2019, relativo al commercio di determinate merci che potrebbero essere utilizzate per la pena di morte, per la tortura o per altri trattamenti o pene crudeli, inumani o degradanti (codificazione); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «regolamenti (UE) concernenti misure restrittive» s'intendono le misure adottate ai sensi dell'articolo 215 del trattato sul funzionamento dell'Unione europea, concernenti misure restrittive nei confronti di determinati Paesi terzi assoggettati ad embargo commerciale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «per azione comune» s'intende l'azione comune del Consiglio n. 2000/401/PESC del 22 giugno 2000, relativa al controllo dell'assistenza tecnica riguardante taluni fini militari; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "prodotti a duplice uso listati" s'intendono i prodotti elencati nell'allegato I del regolamento duplice uso; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per «prodotti a duplice uso non listati» s'intendono quei prodotti di cui all'articolo 3, paragrafo 2, del regolamento duplice uso, non elencati nell'allegato I del regolamento duplice uso, ma che possono comunque avere un utilizzo sia civile sia militare; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per «merci soggette al regolamento antitortura» s'intendono le merci elencate negli allegati II, III e IV del regolamento antitortura; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per «prodotti listati per effetto di misure restrittive unionali» s'intendono quei prodotti o quelle attivita' il cui commercio con determinati Paesi terzi e' controllato conformemente ai regolamenti (UE) concernenti misure restrittive; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per «non proliferazione» s'intende l'attivita' volta a prevenire, rilevare e contrastare la realizzazione di armi di distruzione di massa, quali ordigni nucleari, armi chimiche, biologiche e radiologiche e correlati vettori. Sono incluse le iniziative tese ad individuare il traffico dei materiali connessi e di quelli cosiddetti dual use, nonche' di tecnologie e know-how; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per «tecnologie o software di pubblico dominio» s'intendono le tecnologie o i software disponibili senza restrizioni per un'ulteriore diffusione; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                per «ricerca scientifica di base» s'intendono quei lavori sperimentali o teorici intrapresi essenzialmente per acquisire nuove conoscenze dei principi fondamentali di fenomeni e fatti osservabili, non principalmente orientati verso obiettivi o scopi specifici pratici; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                per "operatore" s'intende l'esportatore, l'importatore, l'intermediario o il prestatore di assistenza tecnica;" 
+
+                            
+                        
+                        
+                            o)
+                            
+                                per «utilizzatore finale» s'intende qualsiasi persona fisica o giuridica che utilizzi definitivamente i prodotti controllati ai sensi del presente decreto ((o, limitatamente a beni di consumo non a duplice uso listati per effetto di misure restrittive unionali, la persona fisica o giuridica che li immette sul mercato ai fini della messa a disposizione dei consumatori)).
 
 ## Art. 3. — Controllo dello Stato
 
@@ -98,6 +220,38 @@ L'autorizzazione o il diniego al transito sono disposti dall'Autorita' competent
 
 ## Art. 8. — Procedimento autorizzativo
 
+1.
+                    
+                        
+                            Nei limiti e alle condizioni stabiliti dai regolamenti di cui all'articolo 1, comma 1, e dal presente decreto, l'Autorita' competente rilascia, a seconda dei casi, le seguenti tipologie di autorizzazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                autorizzazione specifica individuale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                autorizzazione globale individuale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                autorizzazione generale dell'Unione europea; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                autorizzazione generale nazionale.
+
 Per prestare servizi d'intermediazione relativi a prodotti a duplice uso e merci soggette al regolamento antitortura, e' necessaria un'autorizzazione specifica individuale. Tale autorizzazione e' rilasciata nei limiti e alle condizioni stabiliti dai regolamenti di cui all'articolo1, comma 1, e dal presente decreto, ad un singolo intermediario, per una determinata quantita' di prodotti specifici circolante tra due o piu' Paesi terzi.
 
 ((COMMA ABROGATO DALLA L. 2 DICEMBRE 2025, N. 182)).
@@ -143,6 +297,59 @@ L'autorizzazione specifica individuale e' rilasciata, previo parere del Comitato
 La domanda per ottenere un'autorizzazione specifica individuale, sottoscritta da un legale rappresentante dell'operatore, e' indirizzata all'Autorita' competente, utilizzando, a seconda dei casi, la modulistica prescritta dai pertinenti regolamenti unionali.
 In caso di compilazione incompleta o errata e' fatta salva la possibilita' di regolarizzare successivamente la domanda. Le informazioni e i dati contenuti nella domanda e negli eventuali allegati si intendono dichiarati dall'istante sotto la propria responsabilita'. Qualsiasi cambiamento intervenuto dopo la presentazione della domanda deve essere tempestivamente comunicato all'Autorita' competente.
 
+3.
+                    
+                        
+                            La domanda deve essere corredata di una copia del contratto di riferimento o comunque di sufficiente documentazione atta a comprovare l'effettiva volonta' di acquisto da parte dell'utilizzatore finale; delle specifiche tecniche dei prodotti oggetto di esportazione o intermediazione; del profilo dell'utilizzatore finale e di una dichiarazione del medesimo, cosiddetta end user statement, contenente obbligatoriamente le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'esatta indicazione della denominazione o della ragione sociale, della sede legale e dell'attivita' svolta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione dei prodotti importati, la loro quantita' e valore, l'eventuale classifica di segretezza ed il relativo livello, gli estremi del contratto di riferimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione dell'utilizzo specifico, civile o militare, dei prodotti importati, nonche' del loro esatto luogo di destinazione ed impiego; in caso di merci soggette al regolamento antitortura, l'indicazione dell'utilizzo specifico, che non sia volto ad infliggere la pena di morte, la tortura, o altri trattamenti o pene crudeli, inumani o degradanti; in caso di servizi d'intermediazione, indicazioni sull'ubicazione dei beni nel Paese terzo d'origine e sui terzi implicati nella transazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'impegno espresso, per i prodotti a duplice uso, appartenenti al settore nucleare o che potrebbero essere, direttamente o indirettamente, impiegati nello stesso settore, a non utilizzare tali prodotti in applicazioni militari o esplosive nucleari, in attivita' civili nucleari in impianti non coperti da salvaguardia dell'Agenzia internazionale per l'energia atomica (A.I.E.A.) o in applicazioni collegate allo sviluppo e produzione di altre armi di distruzione di massa e di missili che possano essere utilizzati come vettori di tali armi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'impegno espresso, per le merci soggette al regolamento antitortura, a non utilizzare tali merci per infliggere la pena di morte, la tortura, o altri trattamenti o pene crudeli, inumane o degradanti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'impegno espresso a non riesportare, trasferire o dirottare, durante il viaggio, i prodotti importati ((o, limitatamente a beni di consumo non a duplice uso listati per effetto di misure restrittive unionali, l'impegno a non riesportarli o dirottarli durante il viaggio)); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                eventuali altri impegni funzionali al rispetto dei regolamenti (UE) concernenti misure restrittive.
+
 La dichiarazione di cui al comma 3 deve essere debitamente datata e firmata da un legale rappresentante dell'utilizzatore finale. Essa deve essere autenticata dalla competente autorita' amministrativa straniera o diplomatica italiana, qualora venga cosi' richiesto dall'Autorita' competente.
 
 L'Autorita' competente puo' richiedere all'esportatore, all'intermediario o al fornitore di assistenza tecnica di presentare anche un certificato internazionale d'importazione o un certificato di uso finale rilasciato dalla competente autorita' amministrativa del Paese di appartenenza dell'utilizzatore finale.
@@ -164,6 +371,32 @@ L'autorizzazione globale individuale e' rilasciata, previo parere del Comitato c
 La domanda per ottenere un'autorizzazione globale individuale, sottoscritta da un legale rappresentante dell'esportatore, e' indirizzata all'Autorita' competente, utilizzando la modulistica prescritta dai pertinenti regolamenti unionali. La domanda deve specificare se l'autorizzazione ha ad oggetto materiali o informazioni classificati. In caso di compilazione incompleta o errata e' fatta salva la possibilita' di regolarizzare successivamente la domanda. Le informazioni e i dati contenuti nella domanda e negli eventuali allegati si intendono dichiarati dall'istante sotto la propria responsabilita'. Qualsiasi cambiamento intervenuto dopo la presentazione della domanda deve essere tempestivamente comunicato all'Autorita' competente.
 
 E' escluso il rilascio dell'autorizzazione globale individuale in favore di operatori occasionali e qualora non ricorrano le condizioni di continuita' e pluralita' di rapporti commerciali con destinatari e utilizzatori finali di un determinato Paese.
+
+5.
+                    
+                        
+                            
+                                ((Per ciascuna delle operazioni oggetto dell'autorizzazione globale individuale, l'operatore rispetta le seguenti condizioni:)): 
+ 
+                        
+                        
+                            a)
+                            
+                                utilizzare l'autorizzazione ottenuta esclusivamente per i prodotti e per i Paesi di destinazione in essa indicati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                riportare sulle fatture e sui documenti di trasporto la seguente stampigliatura: «Autorizzazione globale individuale (numero e data del provvedimento)»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                richiedere in sede di conclusione del contratto, ovvero di accettazione della proposta contrattuale, una dichiarazione di impegno del committente estero o dell'utilizzatore finale a non riesportare, trasferire o dirottare durante il viaggio i prodotti ((...)) oggetto del contratto stesso o dell'ordinativo, e ad utilizzarli esclusivamente per scopi civili o per fini militari e non offensivi e non proliferanti nei settori chimico, biologico, nucleare, radiologico, missilistico e strategico, nel caso di merci soggette al regolamento antitortura, tale dichiarazione di impegno deve indicare che le merci in discorso non saranno riesportate, trasferite o dirottate durante il viaggio, ne' destinate, in tutto o in parte, ad infliggere ad esseri umani la pena capitale, la tortura o altri trattamenti o pene crudeli, inumani o degradanti. ((Nel caso di prodotti listati per effetto di misure restrittive unionali, la dichiarazione indica che i prodotti non saranno riesportati o dirottati durante il viaggio e che saranno utilizzati in modo compatibile con gli scopi previsti nei pertinenti regolamenti (UE) concernenti misure restrittive. Se i prodotti listati per effetto di misure restrittive unionali sono prodotti a duplice uso o beni diversi da beni di consumo, la dichiarazione indica altresi' che i prodotti non saranno trasferiti))
 
 Entro trenta giorni dalla fine di ogni semestre l'esportatore trasmette all'Autorita' competente una lista riepilogativa delle operazioni effettuate in regime di autorizzazione globale individuale. Tale segnalazione deve contenere i seguenti elementi: copia del documento doganale, estremi della fattura e del contratto, quantita' e valore dei beni spediti, categorie e sottocategorie di riferimento, corrispondenti codici delle voci e sottovoci della nomenclatura combinata, paese di destinazione, generalita' del destinatario e dell'utilizzatore finale, data di spedizione, tipo di esportazione, definitiva, temporanea o transito. ((, e ogni altro elemento richiesto dall'Autorita' competente)).
 
@@ -214,6 +447,45 @@ L'utilizzo dell'autorizzazione generale nazionale puo' essere negato, annullato,
 
 Le autorizzazioni previste dal presente decreto non sono rilasciate quando le operazioni sono incompatibili con i criteri di rilascio previsti dai regolamenti di cui all'articolo 1, comma 1, e dal presente decreto. Nei casi di incompatibilita' con i criteri di cui ((all'articolo 15, paragrafo 1, lettere c) e d),)) del regolamento duplice uso, il diritto di accesso ai dati e documenti detenuti dall'Autorita' competente non e' ammesso.
 
+2.
+                    
+                        
+                            Le autorizzazioni gia' rilasciate possono, inoltre, essere annullate, revocate, sospese o modificate, nel rispetto della disciplina generale di cui alla legge 7 agosto 1990, n. 241, nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso in cui non sono compatibili con i criteri di rilascio di cui al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora vengano a mancare i requisiti o non siano rispettate le condizioni stabilite nel presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                qualora l'esportatore, l'intermediario o il fornitore di assistenza tecnica violino le disposizioni previste dalla normativa nazionale, unionale o internazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nel caso in cui l'esportatore, l'intermediario o il fornitore di assistenza tecnica non ottemperino agli obblighi eventualmente definiti nel provvedimento di autorizzazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                qualora emergano, successivamente all'adozione del provvedimento di autorizzazione, interessi pubblici rilevanti meritevoli di tutela, alla luce dei fondamentali interessi di sicurezza dello Stato e degli impegni ed obblighi assunti dall'Italia in materia di non proliferazione.
+
 Nei casi di cui al comma 2, l'Autorita' competente procede al ritiro ((...)) dell'autorizzazione in precedenza rilasciata. Il relativo provvedimento e' comunicato all'esportatore o all'intermediario ed all'Agenzia delle dogane e dei monopoli.
 
 L'utilizzo dell'autorizzazione generale dell'Unione europea o di quella nazionale puo' essere negato, annullato, revocato o sospeso nei confronti di un singolo esportatore qualora vengano a mancare i requisiti o non siano rispettate le condizioni stabilite nel regolamento duplice uso e nel presente decreto, ovvero l'esportatore interessato violi le disposizioni previste dalla normativa nazionale, unionale o internazionale. Tale provvedimento e' annotato sul relativo registro.
@@ -240,6 +512,56 @@ Per la cessione di materiali o informazioni classificati inclusi in prodotti a d
 
 Fatto salvo quanto disposto dal presente decreto, ai sensi del combinato disposto degli articoli 2 e 5 dell'azione comune e' proibita l'assistenza tecnica destinata ad essere utilizzata ai fini di perfezionamento, produzione, manipolazione, funzionamento, manutenzione, deposito, individuazione, identificazione o disseminazione di armi chimiche, biologiche o nucleari o di altri congegni esplosivi nucleari o di perfezionamento, produzione, manutenzione o deposito di missili che possono essere utilizzati come vettori di tali armi.
 
+2.
+                    
+                        
+                            Ai sensi del combinato disposto degli articoli 3 e 5 dell'azione comune e' proibita l'assistenza tecnica riguardante fini militari diversi da quelli di cui al comma 1 e fornita ad uno dei Paesi di destinazione soggetto ad un embargo sulle armi deciso da una posizione comune o da un'azione comune adottata dal Consiglio o da una decisione dell'OSCE, o soggetto ad un embargo sulle armi imposto da una risoluzione vincolante del Consiglio di sicurezza delle Nazioni Unite. Ai fini del presente comma, l'assistenza tecnica riguardante fini militari comprende: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'inserimento in prodotti militari figuranti nell'elenco dei materiali di armamento degli Stati membri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'utilizzazione di apparecchiature di produzione, controllo o analisi e loro componenti ai fini dello sviluppo, della produzione o della manutenzione dei prodotti militari figuranti nell'elenco di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'utilizzazione di eventuali prodotti non finiti in un impianto per la produzione di prodotti militari figuranti nell'elenco di cui alla lettera a).
+
+3.
+                    
+                        
+                            Quanto previsto dal comma 1 non si applica all'assistenza tecnica: 
+ 
+                        
+                        
+                            a)
+                            
+                                allorche' e' fornita ad un Paese elencato ((nell'allegato II, sezione A, parte 2,)) del regolamento duplice uso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                allorche' assume la forma di trasferimento di informazioni «di pubblico dominio» o per la «ricerca scientifica di base», come questi termini sono rispettivamente definiti dai regimi, enti e trattati internazionali di controllo delle esportazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                allorche' e' in forma orale e non e' connessa agli articoli che devono essere controllati dai regimi, enti e trattati internazionali di controllo delle esportazioni.
+
 ## Art. 17. — Misure ispettive
 
 Le operazioni di esportazione, importazione, trasferimento, intermediazione, transito, assistenza tecnica e le altre attivita' per le quali i regolamenti di cui all'articolo 1, comma 1, o il presente decreto impongono divieti o autorizzazioni preventive possono essere sottoposte a misure ispettive, riferite sia alla fase preliminare che successiva all'operazione, mediante riscontri documentali e verifiche presso la sede ((dell'operatore)), allo scopo di accertare l'effettiva destinazione finale e l'effettivo uso finale dei prodotti e delle tecnologie oggetto di autorizzazione.
@@ -258,11 +580,129 @@ Chiunque effettua le operazioni ovvero presta i servizi di cui al comma 1 in dif
 
 L'operatore che, nei casi previsti dagli articoli 4, paragrafo 2, 5, paragrafo 2, 6, paragrafo 2, e 8, paragrafo 2, del regolamento duplice uso, omette di informare l'Autorita' competente e' punito con l'arresto fino a due anni e con l'ammenda da euro 15.000 a euro 90.000. La medesima pena si applica in caso di violazione dell'obbligo di informativa di cui all'articolo 9, comma 7.
 
+4.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da euro 15.000 a euro 90.000 l'operatore che: 
+ 
+                        
+                        
+                            a)
+                            
+                                omette di comunicare all'Autorita' competente l'intervenuta variazione dei dati e delle informazioni contenuti nella domanda di autorizzazione entro quindici giorni dal verificarsi della variazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                viola gli obblighi di tenuta, conservazione ed esibizione della documentazione relativa alle operazioni effettuate o ai servizi resi, di cui all'articolo 27 del regolamento duplice uso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DALLA L. 2 DICEMBRE 2025, N. 182)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non presenta i documenti richiesti dall'autorita' competente ai sensi dell'articolo 17, comma 2.
+
+4-bis.
+                    
+                        
+                            
+                                ((Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da euro 2.500 a euro 15.000 l'operatore che:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((viola gli obblighi stabiliti dagli articoli 11, comma 6, 12, comma 4, e 13, comma 5;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((produce la dichiarazione di presa in carico dei prodotti sottoposti ad autorizzazione, redatta e firmata dall'utilizzatore finale, con ritardo non superiore a dodici mesi rispetto alla scadenza del termine stabilito dall'Autorita' competente)).
+
 ## Art. 19. — Sanzioni relative alle merci soggette al regolamento antitortura
+
+1.
+                    
+                        
+                            E' punito con la reclusione fino a sei anni e con la multa da euro 25.000 a euro 250.000 chiunque effettui: 
+ 
+                        
+                        
+                            a)
+                            
+                                operazioni, diverse da quelle di cui alla lettera b), concernenti merci elencate all'allegato II del regolamento antitortura in violazione dei divieti previsti dagli articoli 3, 4, 5, 6, 7, 8 e 9 del regolamento medesimo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                operazioni di esportazione, importazione o transito di merci elencate nell'allegato II del regolamento antitortura, nei casi previsti, rispettivamente, dall'articolo 3, paragrafo 2, dall'articolo 4, paragrafo 2, e dall'articolo 5, paragrafo 2, del regolamento antitortura, senza la prescritta autorizzazione, ovvero con autorizzazione ottenuta fornendo dichiarazioni o documentazioni false; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                operazioni di transito di merci elencate negli allegati III e IV del regolamento antitortura in violazione dei divieti di cui agli articoli 13 e 18 del regolamento medesimo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                operazioni di esportazione di merci elencate negli allegati III e IV del regolamento antitortura, ovvero presta servizi di intermediazione o di assistenza tecnica concernenti le merci medesime, senza la relativa autorizzazione, ovvero con autorizzazione ottenuta fornendo dichiarazioni o documentazione false.
 
 Chiunque effettua le operazioni ovvero presta i servizi di cui al comma 1, lettere b) e d), in difformita' dagli obblighi prescritti dalla relativa autorizzazione, e' punito con la reclusione fino a quattro anni e con la multa da euro 15.000 a euro 150.000.
 
 ((COMMA ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103)).
+
+4.
+                    
+                        
+                            Chiunque effettua le operazioni di cui al comma 1, lettere b) e d), e' assoggettato alla sanzione amministrativa da euro 15.000 a euro 90.000 quando: 
+ 
+                        
+                        
+                            a)
+                            
+                                omette di comunicare all'Autorita' competente le variazioni dei dati e delle informazioni contenuti nella domanda di autorizzazione entro 15 giorni dal verificarsi della variazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non provvede alla conservazione della documentazione relativa alle operazioni effettuate in regime di autorizzazione specifica individuale negli archivi della propria sede legale, per un periodo non inferiore a cinque anni a decorrere dalla fine dell'anno nel quale le operazioni hanno avuto luogo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non presenta i documenti richiesti dall'Autorita' competente a norma dell'articolo 17, comma 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                viola gli obblighi stabiliti dall'articolo 12, comma 4.
 
 Alla stessa sanzione di cui al comma 4 soggiace l'esportatore che non provvede alla conservazione della documentazione relativa alle esportazioni effettuate in regime di autorizzazione generale dell'Unione europea negli archivi della propria sede legale per un periodo non inferiore a cinque anni ((...)) a decorrere dalla fine dell'anno nel quale le operazioni hanno avuto luogo ((e all'esibizione)) della stessa su richiesta dell'Autorita' competente.
 
@@ -273,6 +713,52 @@ COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2025, N. 211.
 COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2025, N. 211.
 
 COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2025, N. 211.
+
+3-bis.
+                    
+                        
+                            Chiunque effettua operazioni di esportazione o importazione di prodotti listati per effetto di misure restrittive unionali o presta servizi di qualsiasi natura soggetti a misure restrittive unionali, o partecipa a qualsiasi titolo a procedure per l'affidamento di contratti di appalto pubblico o di concessione soggetti a misure restrittive unionali o esegue, in tutto o in parte, uno o piu' dei medesimi contratti, e' assoggettato alla sanzione amministrativa da euro 15.000 a euro 90.000 quando: 
+ 
+                        
+                        
+                            a)
+                            
+                                omette di comunicare all'Autorita' competente le variazioni dei dati e delle informazioni contenuti nella domanda di autorizzazione entro 15 giorni dal verificarsi della variazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non provvede alla conservazione della documentazione relativa alle operazioni effettuate negli archivi della propria sede legale, per un periodo non inferiore a cinque anni a decorrere dalla fine dell'anno nel quale le operazioni hanno avuto luogo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non presenta i documenti richiesti dall'Autorita' competente a norma dell'articolo 17, comma 2. 
+ 3-bis.1 ((L'Unita' di cui all'articolo 7-bis della legge 9 luglio 1990, n. 185 e' l'autorita' competente per l'applicazione delle sanzioni amministrative previste dalle seguenti disposizioni:)) 
+ a) ((articolo 275-bis, terzo comma, del codice penale, nell'ipotesi di cui al primo comma, lettera d), del medesimo articolo;)) 
+ b) ((articolo 275-quater, secondo comma, del codice penale, in caso di violazione di obblighi prescritti in autorizzazione rilasciata dalla medesima Unita'))
+
+3-ter.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da euro 2.500 a euro 15.000 l'operatore che: 
+ 
+                        
+                        
+                            a)
+                            
+                                viola gli obblighi stabiliti dagli articoli 11, comma 6, e 13, comma 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                produce la dichiarazione di presa in carico dei prodotti sottoposti ad autorizzazione, redatta e firmata dall'utilizzatore finale, con ritardo non superiore a dodici mesi rispetto alla scadenza del termine stabilito dall'Autorita' competente.
 
 COMMA ABROGATO DAL D.L. 13 GIUGNO 2023, N. 69, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 103.
 
@@ -294,6 +780,31 @@ Obbligo di comunicazione da parte
 L'Autorita' giudiziaria che procede per i reati previsti dagli articoli 18, 19, 20 e 21 ne da' immediata comunicazione all'Autorita' competente ai fini dell'adozione degli eventuali provvedimenti amministrativi.
 
 ## Art. 23. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto legislativo 9 aprile 2003, n. 96; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto legislativo 12 gennaio 2007, n. 11; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto legislativo 14 maggio 2009, n. 64.
 
 ## Art. 24. — Clausola di invarianza finanziaria
 

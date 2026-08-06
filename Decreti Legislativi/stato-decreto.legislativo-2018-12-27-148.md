@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-11-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -52,6 +52,38 @@ Per la ricezione delle fatture elettroniche di cui al comma 1, ai soggetti di cu
 Per le amministrazioni aggiudicatrici sub-centrali l'obbligo di cui all'articolo 3 comma 1, decorre dal 18 aprile 2020, in deroga a quanto stabilito dal medesimo articolo.
 
 ## Art. 5. — Tavolo tecnico permanente per la fatturazione elettronica
+
+1.
+                    
+                        
+                            Per l'attuazione degli obblighi di cui ai commi 1 e 2 dell'articolo 3 ((...)) e' istituito presso l'Agenzia per l'Italia Digitale un tavolo tecnico permanente per la fatturazione elettronica con le seguenti finalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                aggiornamento delle regole tecniche e delle modalita' applicative di cui al comma 3 dell'articolo 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                monitoraggio della corretta applicazione delle stesse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                valutazioni degli impatti per la pubblica amministrazione e di quelli riflessi per gli operatori economici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                raccordo e coinvolgimento, fin dalla fase di definizione, di tutte le iniziative legislative ed applicative in materia di fatturazione e appalti elettronici.
 
 Il tavolo tecnico permanente per la fatturazione elettronica e' composto da un componente indicato dall'Agenzia per l'Italia Digitale, ((due componenti indicati dalla struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la transizione digitale,)) due componenti indicati dal Ministero dell'economia e delle finanze, due componenti indicati dall'Agenzia delle entrate, tre componenti indicati dalla Conferenza delle regioni e delle Province autonome di Trento e di Bolzano, un rappresentante indicato dall'Unione province italiane (UPI) e due rappresentanti indicati dall'Associazione nazionale comuni italiani (ANCI).
 

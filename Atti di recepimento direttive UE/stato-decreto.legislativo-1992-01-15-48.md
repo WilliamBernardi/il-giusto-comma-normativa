@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2008-12-22
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO

@@ -8,8 +8,8 @@ codice_redazionale: 012G0084
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -73,6 +73,116 @@ In servizio e nei rapporti con l'utenza e' previsto l'uso della lingua italiana.
 Il personale del Corpo nazionale, in ragione dei suoi compiti istituzionali, conforma la sua condotta al dovere costituzionale di servire la Repubblica con efficacia, efficienza, professionalita', impegno e responsabilita'; rispetta i principi di buon andamento e imparzialita' dell'attivita' amministrativa, anteponendo l'osservanza della legge e dell'interesse pubblico agli interessi privati propri ed altrui.
 
 Il personale del Corpo nazionale si comporta in modo tale da favorire l'instaurazione di rapporti di fiducia e collaborazione tra l'Amministrazione e i cittadini.
+
+3.
+                        
+                            
+                                Al fine di garantire la migliore qualita' del servizio, il personale del Corpo nazionale, in coerenza con gli specifici compiti istituzionali, deve in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collaborare con diligenza, osservando le norme e le disposizioni impartite dall'Amministrazione per l'esecuzione e la disciplina del lavoro anche in relazione alla normativa in materia di sicurezza e di ambiente di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rispettare il segreto d'ufficio in merito a notizie relative ai servizi, a provvedimenti o operazioni di qualsiasi natura connessi alle attivita' istituzionali, nel rispetto delle disposizioni in materia di trasparenza e di esercizio del diritto di accesso all'attivita' amministrativa e di protezione dei dati personali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non utilizzare a fini privati le informazioni di cui disponga per ragioni d'ufficio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei rapporti con il cittadino, prestare adeguata attenzione alle richieste fornendo le risposte, nel rispetto delle disposizioni in materia di trasparenza e di esercizio del diritto di accesso all'attivita' amministrativa e di autocertificazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rispettare l'orario di lavoro; adempiere alle formalita' previste per la rilevazione delle presenze e non assentarsi dal luogo di lavoro senza l'autorizzazione del responsabile del servizio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    durante l'orario di lavoro, mantenere nei rapporti interpersonali e con gli utenti condotta uniformata a principi di correttezza ed astenersi da comportamenti lesivi della dignita' della persona; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    non attendere ad occupazioni estranee al servizio e ad attivita', che ritardino il recupero psicofisico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    eseguire le disposizioni inerenti all'espletamento delle proprie funzioni o mansioni che gli siano impartite dai superiori. Se ritiene che la disposizione sia palesemente illegittima, il dipendente deve farne rimostranza a chi l'ha impartita, dichiarandone le ragioni; se la disposizione e' rinnovata per iscritto ha il dovere di darvi esecuzione. Il dipendente non deve, comunque, eseguire la disposizione quando l'atto sia vietato dalla legge penale o costituisca illecito amministrativo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    avere la massima diligenza nell'uso e nella custodia di mezzi, attrezzature, dispositivi di protezione individuali, materiali e documenti ad esso affidati per ragioni di servizio, nonche' nell'utilizzo degli ambienti e delle strutture in cui opera.
+Eventuali danneggiamenti, deterioramenti, sottrazioni o smarrimenti del materiale in uso, salvo casi di forza maggiore, devono essere immediatamente segnalati per iscritto ai superiori, specificando le circostanze del fatto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    non valersi di quanto e' di proprieta' dell'Amministrazione per ragioni che non siano di servizio; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    non chiedere ne' accettare, a qualsiasi titolo, compensi, regali o altre utilita' in connessione con la prestazione lavorativa; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    osservare scrupolosamente le disposizioni che regolano l'accesso ai locali dell'Amministrazione da parte del personale e non introdurre, salvo che non siano debitamente autorizzate, persone estranee all'Amministrazione stessa in locali non aperti al pubblico; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    comunicare all'Amministrazione la propria residenza e, ove non coincidente, la dimora temporanea, nonche' ogni successivo mutamento delle stesse; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    in caso di legittimo impedimento alla puntuale presentazione in servizio, il personale ha l'obbligo di darne tempestivo avviso all'ufficio di appartenenza, salvo comprovata impossibilita'; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    astenersi dal partecipare all'adozione di decisioni o ad attivita' dell'Amministrazione, che possano coinvolgere direttamente o indirettamente interessi finanziari, o non finanziari, propri.
 
 Per quanto non previsto dal presente regolamento il personale osserva il Codice di comportamento dei dipendenti delle pubbliche amministrazioni adottato con il decreto del Ministro per la funzione pubblica 28 novembre 2000, pubblicato nella Gazzetta Ufficiale del 10 aprile 2001, n. 84, di cui ai commi 1 e 5 dell'articolo 54 del decreto legislativo 30 marzo 2001, n. 165.
 
@@ -160,6 +270,52 @@ Il personale del Corpo nazionale ha l'obbligo di presentarsi in servizio all'ora
 L'ingresso e l'uscita dalla sede di servizio vengono registrati attraverso sistemi di rilevazione.
 
 ## Art. 19. — Riconoscimento in servizio
+
+1.
+                        
+                            
+                                Salvo quanto disposto nei commi 2, 3 e 4, il personale dei ruoli operativi del Corpo nazionale, in orario lavorativo, e con riguardo alla propria specificita' professionale e di ruolo, indossa l'uniforme in tutte le circostanze e secondo le modalita' indicate dall'Amministrazione e comunque: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle fasi di attesa e di espletamento delle attivita' operative di soccorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'espletamento delle attivita' di addestramento e di formazione professionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'espletamento di servizi di vigilanza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'espletamento di servizi di guida di automezzi dell'Amministrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in occasioni di cerimonie ufficiali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nei servizi di istituto che comportano esigenze di qualificazione immediata.
 
 Il personale appartenente al ruolo degli ispettori e dei sostituti direttori antincendi e il personale appartenente al ruolo dei direttivi indossa l'uniforme nei servizi di soccorso tecnico urgente, nei servizi di guardia e nei servizi di vigilanza antincendio di cui all'articolo 18 del decreto legislativo 8 marzo 2006, n. 139.
 
@@ -263,6 +419,31 @@ In ogni circostanza, il personale di cui al comma 1, e' tenuto a far rimuovere c
 
 ## Art. 32. — Congedo ordinario
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dalla normativa vigente e dalle disposizioni contrattuali in materia di congedo ordinario, alla relativa autorizzazione provvedono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Capo del Dipartimento per i dirigenti generali previo nulla osta del Capo del Corpo nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Capo del Dipartimento per i dirigenti in servizio negli uffici della propria diretta collaborazione; il Capo del Corpo nazionale nell'ufficio di propria diretta collaborazione; il direttore centrale e il direttore regionale per i dirigenti responsabili di strutture negli ambiti di rispettiva competenza, dandone contestuale comunicazione al Capo del Dipartimento e al Capo del Corpo nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il dirigente dell'ufficio, o suo delegato, per il restante personale.
+
 I dirigenti richiedenti il congedo ordinario sono tenuti a comunicare preventivamente, e in caso di variazioni tempestivamente, il proprio recapito, anche telefonico, al dirigente competente alla concessione.
 
 ## Art. 33. — Assenze per malattia
@@ -280,6 +461,24 @@ Ferma restando la primaria competenza delle strutture sanitarie regionali e quan
 ## - Titolo V ASSISTENZA
 
 ## Art. 34. — Assistenza sanitaria
+
+1.
+                        
+                            
+                                In relazione all'espletamento di specifiche attivita' e nei settori in cui vi sia una particolare necessita', il Dipartimento puo' avvalersi, accanto ai propri funzionari medici dipendenti, di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    medici liberi professionisti estranei all'Amministrazione con incarico annuale conferito con decreto del Ministro dell'interno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    medici specialisti estranei all'Amministrazione anche mediante la stipula di apposite convenzioni con strutture sanitarie. In tale caso all'Ufficio sanitario del Dipartimento competono la predisposizione della convenzione ed il coordinamento amministrativo-contabile dell'attivita' affidata in convenzione.
 
 ## Art. 35. — Accertamenti sanitari
 
@@ -306,6 +505,31 @@ L'Amministrazione favorisce le attivita' assistenziali dirette al personale del 
 ## - Titolo VI ATTIVITA' SPORTIVA
 
 ## Art. 38. — Principi generali
+
+1.
+                        
+                            
+                                L'Amministrazione, compatibilmente con le esigenze di servizio, cura e promuove l'esercizio della pratica sportiva al fine di consentire la preparazione ed il ritempramento psico-fisico del personale necessari per lo svolgimento delle attivita' istituzionali, dando indicazione sulle modalita' di partecipazione; sviluppa l'attivita' agonistica di alto livello svolta dagli atleti del Corpo nazionale per perseguire l'obiettivo di accrescere il prestigio dell'istituzione ed il patrimonio sportivo nazionale; favorisce le attivita' sportive dilettantistiche dei giovani iscritti ai Gruppi sportivi dei vigili del fuoco provinciali del Corpo nazionale al fine di avvicinarli alle attivita' del Corpo nazionale. Il personale del Corpo nazionale organizza e coordina l'attivita' sportiva di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Gruppo sportivo nazionale dei vigili del fuoco, riservato al personale di cui agli articoli 145 e 147 del decreto legislativo 13 ottobre 2005, n. 217, con sede in Roma; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Gruppi sportivi dei vigili del fuoco, di cui al decreto del Ministro dell'interno 29 settembre 1964, recante il regolamento di istruzione per l'addestramento ginnico-sportivo del personale appartenente al Corpo nazionale, i quali sono incardinati presso il corrispondente Comando provinciale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Rappresentative nazionali e regionali del Corpo nazionale nelle varie discipline sportive, istituite e disciplinate con decreto del Capo del Dipartimento al momento della loro attivazione.
 
 Con appositi decreti del Ministro dell'interno sono approvati gli statuti dei Gruppi sportivi e delle rappresentative nazionali e regionali del Corpo nazionale.
 
@@ -361,11 +585,75 @@ Il Dipartimento puo' disporre assegnazioni temporanee del personale non dirigent
 
 ## Art. 44. — Mobilita' interna alle sedi di servizio
 
+1.
+                        
+                            
+                                All'interno delle sedi dirigenziali di servizio la mobilita' del personale non dirigente, a domanda o per specifiche e motivate esigenze di servizio, viene effettuata come di seguito indicato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tra le direzioni centrali e da e verso gli uffici di diretta collaborazione del Capo del Dipartimento, su disposizione del Capo del Dipartimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da e verso l'ufficio di diretta collaborazione del Capo del Corpo, su disposizione del Capo del Dipartimento, d'intesa con il Capo del Corpo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'interno della direzione centrale, su disposizione del direttore centrale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nelle direzioni regionali e interregionali, nei comandi provinciali su disposizione del dirigente responsabile.
+
 I criteri per la mobilita' interna agli uffici centrali di livello dirigenziale generale, ubicati in sedi diverse, sono individuati in sede di contrattazione decentrata a livello centrale; i criteri per la mobilita' del personale nell'ambito delle rispettive articolazioni territoriali delle direzioni regionali ed interregionali e dei comandi provinciali sono individuati in sede di contrattazione decentrata a livello periferico, sulla base dell'organizzazione e della disciplina degli uffici.
 
 ## - Titolo VIII SPECIALITA' E ABILITAZIONI     Capo I     Specialita'
 
 ## Art. 45. — Attivita' specialistiche
+
+1.
+                        
+                            
+                                Fino all'adozione dei provvedimenti previsti dal comma 1 dell'articolo 159 del decreto legislativo 13 ottobre 2005, n. 217, costituiscono specialita' del Corpo nazionale, in relazione al particolare impiego del personale specificamente preparato, le attivita' di soccorso tecnico specialistico espletate da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elicotteristi e piloti d'aereo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sommozzatori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nautici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    radioriparatori.
 
 Al personale di cui al comma 1, in possesso di brevetto o certificazione rilasciata dal Dipartimento a seguito del superamento di corso di formazione specialistica, e' rilasciato il libretto individuale di specialita'.
 
@@ -421,6 +709,45 @@ La presenza in turno per l'esercizio delle funzioni connesse alla specializzazio
 
 ## Art. 52. — Servizi ed attivita' del Corpo nazionale
 
+1.
+                        
+                            
+                                Il presente titolo disciplina le modalita' di effettuazione dei servizi istituzionali e delle attivita' del Corpo nazionale con particolare riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di soccorso pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi tecnici ed operativi in genere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi di prevenzione incendi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di formazione interna; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivita' funzionali all'espletamento dei servizi.
+
 ## - Capo II I servizi di soccorso pubblico     Sezione I     Disposizioni generali
 
 ## Art. 53. — Esecuzione dei servizi di soccorso pubblico
@@ -459,8 +786,149 @@ Gli interventi di soccorso pubblico vengono effettuati dai comandi provinciali. 
 
 Gli interventi di soccorso pubblico di cui al comma 1, sono riferiti alle situazioni di carattere urgente e a quanto altro necessario a garantire la sicurezza delle persone e la salvaguardia dei beni e cessano al venir meno delle effettive necessita'. Le attivita' di soccorso hanno origine al momento della ricezione della richiesta e si concludono con la redazione e la trasmissione degli atti e dei provvedimenti correlati all'intervento effettuato, da parte del personale preposto.
 
+3.
+                        
+                            
+                                Il personale del Corpo nazionale, in relazione alle responsabilita' connesse al ruolo ed alla funzione svolta, nell'effettuazione del servizio di soccorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assume le notizie di eventi in cui e' necessario l'intervento delle squadre dei vigili del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interviene con la massima celerita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si relaziona mediante il sistema di coordinamento, direzione e controllo del Corpo nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    affronta le situazioni di pericolo determinate dallo scenario dell'intervento tenendo conto della priorita' della tutela della vita umana, adottando i necessari dispositivi di protezione individuale e le tecniche operative finalizzate anche alla salvaguardia dell'incolumita' propria e degli altri soccorritori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    opera nella propria squadra, collaborando fattivamente con tutti i componenti e si coordina con gli operatori delle altre squadre presenti attraverso i responsabili delle stesse, secondo il sistema di coordinamento, direzione e controllo del Corpo nazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    individua le procedure d'intervento da applicare, anche in relazione al grado di urgenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    utilizza correttamente, secondo i manuali d'uso e sulla base della formazione e dell'addestramento ricevuti, le apparecchiature, i mezzi ed i dispositivi affidatigli, curandone la custodia ed il mantenimento in perfetta efficienza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    effettua valutazioni e da' disposizioni in funzione del livello di responsabilita' esercitato, tenendo conto delle conoscenze tecniche acquisite e sulla base dell'esperienza personale posseduta richiedendo e adottando conseguenti provvedimenti di protezione e tutela in connessione ai potenziali pericoli generati dalla situazione di emergenza in cui si trova ad operare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    informa, quando necessario, gli altri organi istituzionali sugli interventi, richiedendone il supporto anche ai fini dell'adozione dei provvedimenti di competenza; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    in qualita' di responsabile delle operazioni dirige l'intervento di soccorso, rapportandosi con le altre forze operative sul campo e con gli enti istituzionali presenti, al fine di favorire il migliore esito delle operazioni di soccorso; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    per motivi di soccorso urgente, accede ed interviene all'interno di proprieta' private, anche in assenza dei legittimi titolari, dandone immediata notizia alle forze di polizia per l'adozione di eventuali provvedimenti di competenza; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    identifica, assumendo i documenti di riconoscimento, le persone beneficiarie del servizio di soccorso e di quanti si trovano ad essere testimoni degli eventi, utili anche a successive eventuali indagini di polizia giudiziaria. Nel caso di mancanza dei documenti di riconoscimento, il personale intervenuto si rivolge alle forze dell'ordine per assumere le indicazioni di competenza; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    effettua, secondo quanto previsto dal codice di procedure penale, le attivita' di polizia giudiziaria di competenza; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    redige le relazioni di servizio, i rapporti di intervento ed ogni altro atto connesso con le funzioni espletate nel servizio di soccorso; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    trasmette le relazioni interne di servizio attinenti a eventuali disservizi verificatisi durante il turno.
+
 ## Art. 57. — Gestione dei servizi di soccorso pubblico 
  resi dal Corpo nazionale
+
+1.
+                        
+                            
+                                I servizi di soccorso pubblico assicurati dal Corpo nazionale, anche in relazione ad esigenze di protezione civile e di difesa civile, si espletano mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rispetto del sistema di coordinamento, direzione e controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'approntamento di dispositivi di soccorso in grado di intervenire efficacemente nelle situazioni di emergenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'effettuazione degli interventi operativi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la predisposizione degli atti e la definizione delle procedure di comunicazione relativi all'attivita' operativa effettuata.
 
 ## - Sezione II Attivita' di coordinamento, direzione e controllo
 
@@ -490,6 +958,42 @@ In caso di crisi o calamita', che superano le capacita' operative territoriali, 
 
 Il sistema di coordinamento, direzione e controllo delle operazioni di soccorso e' costituito dalle figure preposte alla gestione dell'intervento, a cui sono attribuiti specifici livelli di responsabilita' decisionale.
 
+2.
+                        
+                            
+                                Per la gestione dell'attivita' di soccorso pubblico vengono individuati livelli di organizzazione del sistema di coordinamento, direzione e controllo delle operazioni di soccorso tecnico i cui referenti sono di seguito indicati nell'ambito di ciascuna struttura: 
+ 
+                            
+                            
+                                a)
+                                
+                                    livello nazionale - direzione centrale per l'emergenza ed il soccorso tecnico: 
+ 1) unita' di servizio di guardia al centro operativo nazionale; 
+ 2) dirigenti di area della direzione centrale per l'emergenza e dirigenti di area del Dipartimento, qualora interessati; 
+ 3) dirigente dell'area "Gestione e coordinamento dell'emergenza" della direzione centrale per l'emergenza ed il soccorso tecnico; 
+ 4) direttore centrale per l'emergenza ed il soccorso tecnico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    livello regionale o interregionale - direzioni regionali ed interregionali: 
+ 1) responsabile della sala operativa regionale; 
+ 2) unita' in servizio di guardia regionale o interregionale, laddove previsto; 
+ 3) il dirigente di supporto al direttore regionale, laddove previsto; 
+ 4) direttore regionale o interregionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    livello provinciale - comandi provinciali: 
+ 1) capo partenza; 
+ 2) unita' in servizio di guardia provinciale; 
+ 3) comandante provinciale.
+
 In ogni caso le sale operative provinciali si relazionano in modo diretto con il responsabile delle operazioni di soccorso, di seguito R.O.S., presente sullo scenario di intervento, al fine di consentire l'efficace azione di supporto all'intervento stesso e le comunicazioni con le strutture e gli enti interessati.
 
 Qualora sul luogo dell'intervento operino piu' squadre o personale appartenente a ruoli o qualifiche diverse, con compiti di direzione e coordinamento operativo, la responsabilita' delle attivita' e' attribuita al R.O.S., funzione esercitata dal personale indicato al comma 2, lettera c), sulla base dei criteri di sovraordinazione di cui all'articolo 14.
@@ -498,11 +1002,153 @@ Qualora sul luogo dell'intervento operino piu' squadre o personale appartenente 
 
 ## Art. 62. — Articolazione del dispositivo di soccorso
 
+1.
+                        
+                            
+                                Il Corpo nazionale assicura in modo continuativo e su tutto il territorio nazionale, ivi compreso nelle acque interne e nel mare, gli interventi di soccorso, utilizzando lo specifico dispositivo costituito da personale, mezzi e sistemi che ne consentono l'immediato impiego. Fanno parte del dispositivo di soccorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le sale operative di livello provinciale, regionale e nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le squadre di soccorso, ivi comprese le componenti specialistiche e specializzate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le colonne mobili regionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i servizi di supporto tecnico-logistico all'attivita' di soccorso.
+
 I dispositivi di soccorso sono predisposti, diretti, gestiti ed impiegati sotto la responsabilita' dei dirigenti delle strutture centrali e periferiche del Corpo nazionale, che nel rispetto dei livelli di responsabilita' richiesta si avvalgono delle figure del sistema di coordinamento direzione e controllo. Oltre alle squadre ed alle componenti operative presenti nel turno, i dispositivi di soccorso possono essere integrati con personale in turno di reperibilita', in accordo con quanto previsto dalle procedure negoziali, da squadre e mezzi predisposti a seguito della stipula di convenzioni o accordi di programma, finalizzati ad assicurare l'incremento dei servizi operativi sul territorio, secondo quanto previsto dalle disposizioni vigenti.
 
 Il dispositivo di soccorso, di cui ai commi 1 e 2, puo' essere altresi' integrato, in caso di contingenti necessita', con personale operativo che presta orario di lavoro giornaliero, o in servizio a qualsiasi titolo, ovvero trattenuto o richiamato in servizio, secondo disposizioni del dirigente responsabile.
 
 ## Art. 63. — Servizio di guardia
+
+1.
+                        
+                            
+                                L'unita' responsabile del servizio di guardia provinciale dirige, sovrintende, coordina e controlla, su disposizione del comandante provinciale, l'attivita' di soccorso e le altre attivita' espletate durante il turno, effettuando quanto necessario per assicurare la funzionalita' del servizio e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informa il comandante provinciale sull'attivita' operativa di rilievo, mettendolo al corrente delle problematiche insorte nella gestione del servizio, proponendo adeguate soluzioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipa agli interventi di soccorso, assumendo la direzione tecnica delle operazioni qualora necessario per il livello di responsabilita' e competenza tecnica richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmette al comandante provinciale, con le proprie valutazioni, i rapporti di servizio interni contenenti segnalazioni di avvenuti disservizi o problematiche riscontrate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verifica la corretta e puntuale redazione dei rapporti di intervento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    richiede l'adozione di provvedimenti urgenti agli enti competenti a seguito degli interventi di soccorso, assicurandosi della avvenuta trasmissione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    redige gli atti di polizia giudiziaria, curando la trasmissione delle notizie di reato sulla base dell'attivita' di polizia giudiziaria effettuata.
+
+2.
+                        
+                            
+                                L'unita' responsabile del servizio di guardia della sala operativa regionale o interregionale dirige e controlla, su disposizione del direttore regionale o interregionale, l'attivita' della sala operativa durante il turno, effettuando quanto necessario per assicurare il corretto svolgimento dell'attivita' di soccorso nel territorio di competenza, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede all'invio dei nuclei specialistici dipendenti funzionalmente dalla direzione regionale o interregionale, nonche' di squadre e mezzi individuati nell'ambito del territorio di competenza per l'impiego in interventi complessi non gestibili con le sole risorse del comando provinciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone quanto necessario ad assicurare la mobilitazione e l'impiego della colonna mobile regionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riferisce al direttore regionale o interregionale sugli scenari incidentali in corso anche in relazione agli allenamenti ricevuti ed alle pianificazioni di emergenza predisposte; sulla base di possibili sviluppi di eventi calamitosi provvede all'invio delle squadre.
+
+3.
+                        
+                            
+                                L'unita' responsabile del servizio di guardia al centro operativo nazionale dirige e controlla, nell'osservanza delle disposizioni del sistema di coordinamento e controllo della direzione centrale per l'emergenza e il soccorso tecnico del Dipartimento, l'attivita' del centro operativo nazionale durante il turno di servizio, effettuando quanto necessario per assicurare il corretto svolgimento dell'attivita' informativa e dell'attivita' di soccorso a livello nazionale e internazionale, attraverso le principali seguenti azioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisisce le notizie relative ad eventi di interesse del Dipartimento, selezionandole ed approfondendone gli elementi conoscitivi e divulgandole alle strutture interessate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di interventi complessi non gestibili con le sole risorse delle direzioni regionali o interregionali, in base alle direttive ricevute provvede all'invio dei nuclei specialistici, di squadre e di mezzi di soccorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a seguito di eventi calamitosi di rilevanza nazionale, in base alle direttive ricevute predispone quanto necessario ad assicurare la mobilitazione e l'impiego della colonna mobile regionale nel territorio colpito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    analizza gli scenari incidentali in corso ed effettua, anche a seguito degli allertamenti ricevuti e delle pianificazioni di emergenza predisposte, valutazioni sui possibili sviluppi di eventi calamitosi, provvedendo in base alle direttive ricevute all'invio delle squadre per assicurare il piu' efficace contrasto all'emergenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    relaziona le autorita' centrali del Dipartimento sugli interventi in corso.
 
 All'unita' di servizio di guardia si associa, secondo le procedure stabilite dal Dipartimento, un servizio di reperibilita'.
 
@@ -512,11 +1158,265 @@ Il servizio nelle sale operative e' svolto da personale del Corpo nazionale appo
 
 L'accesso alle sale operative e l'utilizzo dei sistemi in dotazione e' riservato agli addetti alla sala stessa e ai responsabili del sistema di coordinamento direzione e controllo del soccorso.
 
+3.
+                        
+                            
+                                Il personale addetto alle sale operative effettua, conformemente alle direttive ricevute ed in relazione al livello di competenza della struttura in cui opera, prioritariamente le attivita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    allertamento ed attivazione del sistema di coordinamento direzione e controllo del soccorso della struttura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicazione e coordinamento con le strutture centrali e periferiche del Corpo nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivazione del dispositivo di soccorso nel territorio di competenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    monitoraggio e costante aggiornamento degli interventi in corso nel territorio di competenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    collegamento con altre sale operative di enti ed istituzioni interessate alla gestione dell'emergenza, richiedendone, secondo le modalita' previste, l'attivazione ed il supporto per le operazioni di competenza.
+
+4.
+                        
+                            
+                                Il personale addetto alla sala operativa provinciale, oltre a svolgere i compiti indicati al comma 3, cura in particolare le attivita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione delle richieste di soccorso pervenute alle linee telefoniche "115" o da altri collegamenti di emergenza, ovvero derivanti da segnalazioni di situazioni di pericolo trasmesse dal personale operativo delle sedi distaccate o durante l'espletamento dell'attivita' istituzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    invio delle squadre e dei mezzi per gli interventi di soccorso nel territorio di competenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivazione dei piani di emergenza attinenti agli scenari di intervento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione delle comunicazioni con le squadre durante le fasi di intervento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    trasmissione delle richieste di adozione di provvedimenti urgenti finalizzati alla tutela dell'incolumita' delle persone ed alla preservazione dei beni.
+
+5.
+                        
+                            
+                                Il personale addetto alla sala operativa regionale o interregionale, oltre a svolgere i compiti indicati al comma 3, cura in particolare le attivita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    invio dei nuclei specialistici dipendenti, funzionalmente, dalla direzione regionale o interregionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    invio di squadre e mezzi individuati nell'ambito del territorio di competenza per l'impiego in interventi complessi non gestibili con le sole risorse del comando provinciale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mobilitazione e impiego della colonna mobile regionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    monitoraggio della consistenza del personale operativo e dei mezzi in forza ai comandi provinciali, compresi quelli della colonna mobile regionale, nonche' del personale e dei nuclei specialistici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    monitoraggio a livello regionale della ricaduta radioattiva attraverso la rete di rilevamento nazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivazione dei piani di emergenza attinenti agli scenari di intervento.
+
+6.
+                        
+                            
+                                Il personale addetto al centro operativo nazionale, oltre a svolgere i compiti indicati al comma 3, cura in particolare le attivita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    allertamento, mobilitazione ed autorizzazione all'invio di squadre, nuclei specialistici e mezzi operativi in caso di interventi complessi non gestibili con le sole risorse delle direzioni regionali ed interregionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicazione con altre sale operative istituzionali di livello nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    monitoraggio della consistenza dei mezzi e del personale operativo, nonche' dei nuclei specialistici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    invio all'estero di squadre operative; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    monitoraggio della ricaduta radioattiva al suolo attraverso la rete di rilevamento nazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivazione dei piani di emergenza attinenti agli scenari di intervento.
+
 ## Art. 65. — Modalita' di espletamento dei servizi delle sale operative
+
+1.
+                        
+                            
+                                In relazione alla tipologia di sala operativa, per l'espletamento dei servizi indicati all'articolo 64, sulla base delle disposizioni impartite dal dirigente, il responsabile della sala operativa con qualifica non inferiore a capo squadra, avvalendosi del personale addetto, cura l'esecuzione di ogni attivita' connessa, con particolare riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica e mantenimento dell'efficienza degli apparati e dei sistemi in dotazione, nonche' del loro corretto utilizzo da parte del personale, attivandosi, in caso di malfunzionamenti al fine di consentire il completo ripristino dell'efficienza di tutte le dotazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controllo della situazione operativa in corso, attraverso l'assunzione del passaggio di consegne dal personale smontante, il continuo aggiornamento dei dati riguardanti l'impiego delle squadre, dei mezzi e del personale e ogni altra notizia di allertamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gestione delle richieste di soccorso, da effettuarsi anche nel rispetto delle seguenti direttive: 
+ 1) assicurare risposte tempestive, gestendo i colloqui con professionalita' e cortesia; 
+ 2) suggerire all'utente, qualora ritenuto utile in relazione agli scenari evidenziati, l'adozione di appropriate misure di autotutela o protezione; 
+ 3) non impegnare impropriamente i collegamenti di emergenza; 
+ 4) provvedere a registrare i dati del richiedente e tutte le informazioni necessarie per l'effettuazione dell'intervento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione degli interventi di soccorso, effettuata anche mediante: 
+ 1) invio sul posto delle squadre e dei mezzi, comunicando ai capi partenza il numero di intervento e l'orario ed ogni notizia assunta sull'intervento da espletare; allertamento, in caso di interventi complessi ed ove concorrano piu' squadre o nuclei specialistici, degli altri responsabili del sistema di coordinamento, direzione e controllo del Corpo nazionale, nonche' delle pubbliche autorita' e degli altri enti eventualmente coinvolti nella gestione della contingente situazione operativa, di cui si assumera' il coordinamento per gli aspetti tecnico operativi; 
+ 2) supporto delle squadre nelle necessita' contingenti manifestate dal responsabile operativo sul posto, anche mediante la comunicazione di notizie attinenti i piani di emergenza, e gli idranti antincendio, utilizzando i sistemi informatici e cartografici a disposizione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    partecipazione alle attivita' di sale operative locali ed interforze, di unita' di crisi o presso posti di comando avanzato sullo scenario di intervento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    compilazione del registro riepilogativo degli interventi di soccorso e delle attivita' svolte nel turno di servizio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ricezione, protocollazione, raccolta, trasmissione ed archiviazione degli atti di competenza.
 
 ## Art. 66. — Composizione e formazione delle squadre
 
 Le squadre sono composte da personale permanente e nei distaccamenti volontari da personale volontario. Il numero delle squadre previste sul territorio provinciale viene definito dal comandante provinciale, sulla base delle direttive emanate dal Dipartimento e della tipologia della sede a cui le squadre appartengono.
+
+2.
+                        
+                            
+                                Ai fini dello svolgimento dell'attivita' di soccorso, vengono individuate le seguenti tipologie di squadre, la cui composizione e ambiti di intervento, sono dettagliate con provvedimento del Dipartimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    squadra tipo attrezzata per l'effettuazione della generalita' degli interventi di soccorso, composta da 5 unita', di cui un capo partenza con qualifica non inferiore a capo squadra ed un autista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    squadra di intervento finalizzata a particolari manovre operative, costituita da unita' di personale variabile secondo le specifiche direttive del Dipartimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    squadra attrezzata per particolari tipologie di intervento di diversa complessita' denominata "partenza ridotta".
 
 Le squadre composte da personale permanente possono comprendere, in sostituzione di una unita' permanente, un volontario. Tale sostituzione non puo' riguardare il capo partenza e l'autista. Nel caso di distaccamenti misti o temporanei, nei quali possono operare personale permanente e volontario, la composizione puo' variare ma, in ogni caso, non puo' prevedere meno di tre unita' permanenti di cui un capo partenza con qualifica non inferiore a capo squadra ed un autista.
 
@@ -527,6 +1427,45 @@ A supporto delle squadre di cui al comma 1, sono previste delle squadre attrezza
 Al fine di assicurare la regolare funzionalita' del servizio operativo di soccorso, il dirigente, in caso di assenze impreviste del personale preposto, puo' disporne la sostituzione urgente con altro personale in servizio, anche appartenente ad altro settore, reparto o distaccamento della medesima sede dirigenziale di servizio, purche' del medesimo ruolo dei dipendenti assenti. Il personale interessato viene considerato in servizio operativo fino al rientro alla sede in cui presta ordinariamente servizio.
 
 ## Art. 68. — Attivita' del personale operativo in sede
+
+1.
+                        
+                            
+                                All'avvio del turno di servizio, il capo turno provinciale, sulla base delle direttive emanate dal dirigente, dopo avere assunto le consegne del personale smontante, provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilevare le presenze del personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificare la corretta composizione delle squadre; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fare effettuare le sostituzioni urgenti di cui all'articolo 67; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assegnare il personale ai servizi programmati da effettuare nel turno, tenendo conto della situazione operativa in corso e di quanto ricevuto in consegna da parte del personale smontante, secondo le disposizioni e le direttive emanate dal dirigente della struttura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    programmare manovre di addestramento e di utilizzo di tecniche operative da adottare in caso di intervento, finalizzate ad assicurare al personale la dimestichezza all'impiego di tutti i mezzi e le attrezzature in dotazione, istruzione teorico-pratica su argomenti attinenti l'attivita' di soccorso, nonche' attivita' di preparazione motoria con addestramento ginnico sportivo, attraverso l'utilizzo di personale appositamente formato.
 
 Il personale operativo, all'inizio del turno di servizio, radunato dal capo turno provinciale o dal responsabile di ciascuna sede, prende visione del foglio di servizio di cui all'articolo 24, nonche' assume conoscenza di tutti gli incarichi affidati, delle manovre e delle esercitazioni da effettuare, delle comunicazioni del comando provinciale, delle consegne del turno smontante e di tutto quanto ritenuto utile per l'esecuzione del servizio.
 
@@ -544,6 +1483,70 @@ Nel dispositivo di soccorso sono altresi' comprese le componenti specializzate, 
 
 Il personale del Corpo nazionale in servizio presso i distaccamenti aeroportuali e' inserito nel dispositivo di soccorso del comando provinciale da cui dipende ed assicura i servizi di soccorso e lotta antincendio secondo le modalita' definite dal presente regolamento e dalle specifiche disposizioni nazionali ed internazionali ed effettua, sotto la direzione del capo turno, le attivita' previste dall'articolo 69.
 
+2.
+                        
+                            
+                                Il responsabile del servizio, avvalendosi del personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predispone un programma di manutenzione preventiva dei mezzi di soccorso ed antincendio e verifica il mantenimento della efficienza degli automezzi, dei dispositivi e dei materiali in dotazione. Assicura l'immediata risposta agli allarmi derivanti da chiamate di emergenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica la funzionalita' dei sistemi di comunicazione e di allarme in dotazione che collegano la torre di controllo con la sala operativa del distaccamento aeroportuale, con le stazioni antincendio e con i veicoli di soccorso, assicurando il presidio della sala operativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura lo specifico addestramento del personale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicura l'attivita' di vigilanza, sulla base delle direttive del dirigente responsabile, ai servizi di assistenza durante il rifornimento degli aeromobili, ove siano presenti viaggiatori a bordo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    collabora con la struttura centrale per la manutenzione e la riparazione dei veicoli aeroportuali ai fini del ripristino dell'efficienza operativa allorquando non e' indispensabile il ricorso a ditte esterne.
+
+3.
+                        
+                            
+                                Nell'ambito del servizio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le squadre operano all'interno e all'esterno del sedime aeroportuale ed intervengono secondo i piani di emergenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di necessita' e per interventi di natura diversa da quelli ordinariamente espletati e qualora la dotazione delle risorse aeroportuali lo consenta, il comando provinciale fa operare le squadre anche all'esterno del sedime aeroportuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di chiusura del traffico aereo dell'aeroporto, il personale svolge gli ordinari interventi di soccorso, integrando l'attivita' operativa nel territorio provinciale.
+
 ## Art. 71. — Servizi antincendio portuali
 
 Il personale del Corpo nazionale in servizio presso i Distaccamenti portuali e' inserito nel dispositivo di soccorso del Comando provinciale da cui dipende ed assicura i servizi di soccorso e lotta antincendio secondo le modalita' definite dal presente regolamento, dalle specifiche disposizioni nazionali ed internazionali e dai piani di emergenza, ed effettua, sotto la direzione di un responsabile in turno, le attivita' previste dall'articolo 69. I servizi di soccorso e lotta antincendio sono effettuati nei porti e loro dipendenze, sia a terra che a bordo di natanti, imbarcazioni, navi e galleggianti, nonche' in mare con il coordinamento della Capitaneria di Porto.
@@ -554,11 +1557,61 @@ La squadra di intervento portuale e' composta da personale specialista indicato 
 
 Gli interventi possono anche riguardare zone esterne al sedime portuale, purche' limitrofe. In caso di interventi di non breve durata la squadra portuale impiegata in prima istanza deve essere sostituita, nel piu' breve tempo possibile da altra squadra proveniente dal territorio.
 
+5.
+                        
+                            
+                                Il responsabile del servizio, avvalendosi del personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predispone un programma di piccola manutenzione preventiva dei mezzi di soccorso ed antincendio e verifica il mantenimento della efficienza dei mezzi, dei dispositivi e dei materiali in dotazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    risponde tempestivamente agli allarmi attivati, verifica la funzionalita' dei sistemi di comunicazione e di allarme predisposti nella sala operativa del distaccamento portuale e nei mezzi nautici e terrestri in dotazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura lo specifico addestramento del personale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    effettua l'attivita' di vigilanza, secondo le disposizioni vigenti e sulla base delle direttive del dirigente responsabile, ai servizi di assistenza durante il rifornimento delle navi.
+
 ## Art. 72. — Servizi di colonna mobile regionale
 
 Il personale del Corpo nazionale, nella sua qualita' di componente fondamentale del servizio nazionale della protezione civile, partecipa alla gestione di grandi emergenze ovunque esse avvengano sul territorio nazionale o all'estero, in caso di richieste provenienti da altri Paesi o sulla base di accordi o trattati internazionali, per le attivita' di soccorso pubblico, favorendo il ripristino della normalita', secondo le modalita' definite dal Dipartimento, sentito, per le attivita' all'estero, il Ministero degli affari esteri.
 
 La partecipazione ai soccorsi, nelle calamita' di cui al comma 1, avviene mediante l'impiego delle colonne mobili regionali del Corpo nazionale dei vigili del fuoco. La mobilitazione puo' avvenire anche in caso di esercitazione disposta dal direttore regionale o dal Capo del Corpo tramite il Direttore centrale per l'emergenza ed il soccorso tecnico, anche per la partecipazione a manovre di protezione civile, secondo le direttive del Capo del Dipartimento.
+
+3.
+                        
+                            
+                                Per assicurare il pronto impiego in caso di calamita', i comandi provinciali predispongono i turni del personale delle sezioni operative di colonna mobile regionale, secondo criteri di rotazione e nel rispetto dei piani di mobilitazione. A tal fine, tutto il personale operativo e' tenuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a mantenere in ordine e pronte all'uso tutte le dotazioni individuali per la mobilitazione presso la sede in cui presta servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad addestrarsi all'impiego dei mezzi e delle attrezzature di colonna mobile regionale, seguendo i piani e i programmi predisposti dai direttori regionali.
 
 L'invio delle squadre e dei mezzi e' assicurato nel piu' breve tempo possibile, e, comunque, con tempi e modalita' stabiliti dal Capo del Corpo.
 
@@ -572,6 +1625,38 @@ Rimane fermo l'obbligo di rispetto di tutte le procedure di servizio e di interv
 
 ## Art. 73. — Servizi di supporto tecnico-logistico al soccorso
 
+1.
+                        
+                            
+                                I servizi di supporto tecnico-logistico di cui all'articolo 62, comma 1, lettera d), vanno garantiti al fine di assicurare la costante efficienza dell'attivita' operativa e comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autorimessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'officina; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i magazzini; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i laboratori.
+
 La partecipazione del personale ai servizi di cui al comma 1 e' disposta dal comandante provinciale o dal dirigente responsabile della struttura nel rispetto del sistema delle relazioni sindacali.
 
 ## Art. 74. — Gestione degli automezzi, delle attrezzature, delle officine, 
@@ -579,7 +1664,159 @@ La partecipazione del personale ai servizi di cui al comma 1 e' disposta dal com
 
 Nell'ambito dei servizi di supporto all'attivita' di soccorso, il mantenimento della efficienza e degli automezzi e delle attrezzature di servizio viene assicurata da parte di apposito personale preposto alla attivita' dell'autorimessa, dei magazzini, delle officine e dei laboratori, anche mobili.
 
+2.
+                        
+                            
+                                In particolare, il responsabile di ciascun servizio, durante i turni, anche in raccordo con i responsabili di altre unita' organizzative appartenenti alla struttura in cui opera, cura che vengano correttamente effettuati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le incombenze spettanti agli autisti degli automezzi di cui all'articolo 76, i controlli ed le manutenzioni ordinarie eseguite direttamente dal personale in servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'addestramento del personale autista alla condotta ed all'impiego dei mezzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rifornimento di carburante, il rabbocco dei liquidi e la pulizia dei mezzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la pianificazione dell'impiego degli automezzi in relazione ai contesti operativi per i quali sono destinati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il mantenimento dell'efficienza degli automezzi, dei macchinari e dei materiali in dotazione, su segnalazione del personale, attraverso la sorveglianza dei lavori e le prove sugli automezzi e attrezzature oggetto di riparazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il mantenimento dell'ordine nelle autorimesse, nelle officine, nei magazzini e nei laboratori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la gestione dei pezzi di ricambio e del materiale di facile consumo attraverso i registri di carico e scarico e quelli relativi alle lavorazioni effettuate; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    lo stoccaggio dei rifiuti prodotti per il successivo smaltimento; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la conservazione e tenuta della documentazione tecnica degli automezzi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la corretta osservanza delle norme di sicurezza negli ambienti di lavoro compresa la vigilanza sulle procedure adottate e sul corretto utilizzo dei dispositivi di protezione individuale.
+
+3.
+                        
+                            
+                                In particolare, il personale addetto ai laboratori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede alla manutenzione delle apparecchiature segnalando al responsabile del laboratorio stesso eventuali inefficienze o mancanza di materiali di consumo necessari per lo svolgimento delle prove; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tiene in ordine il laboratorio e vigila affinche' siano evitate situazioni a rischio di infortuni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizza durante l'attivita' idonei mezzi di protezione individuale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    controlla che ai laboratori accedano solo le persone autorizzate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adotta le procedure operative connesse alla lavorazione di competenza, acquisite anche a seguito dei corsi di formazione sostenuti.
+
 ## Art. 75. — Servizi di telecomunicazioni
+
+1.
+                        
+                            
+                                Il personale addetto ai servizi tecnici per le telecomunicazioni, presso i centri di telecomunicazione centrali e regionali o i nuclei provinciali espleta, in particolare, l'attivita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantenimento dell'efficienza dei sistemi di telecomunicazione, comprensivi delle infrastrutture dei ponti radio, dell'installazione e della ordinaria manutenzione degli apparati di telecomunicazione in uso alle squadre ed alle sedi del Corpo nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione di ponti radio mobili da installare in occasione di calamita' o in interventi ove e' necessario attivare nuovi canali di comunicazione, per favorire la corretta esecuzione del servizio di soccorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esecuzione delle prove di comunicazione radio con tutte le stazioni fisse e mobili in dotazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    studio e collaudo degli apparati e degli impianti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    progettazione delle reti di collegamento sul territorio nazionale, pianificazione delle frequenze radio e predisposizione di capitolati tecnici di strumenti, apparecchiature ed impianti.
 
 Il personale addetto ai servizi tecnici per le telecomunicazioni nei comandi provinciali esegue lavori di piccola manutenzione sugli impianti ed apparecchiature radio del Comando di appartenenza.
 
@@ -616,6 +1853,98 @@ Nel caso in cui siano piu' squadre a muovere dalla stessa sede, il responsabile 
 Le modalita' di comunicazione avvengono attraverso sistemi fonici o informatici, secondo le direttive emanate dal Dipartimento.
 L'eventuale uso di altoparlanti deve avvenire secondo modalita' pianificate dal dirigente responsabile ed in modo da limitare il disturbo all'esterno della sede di servizio.
 
+5.
+                        
+                            
+                                Il capo partenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verificato che gli altri componenti della squadra siano tempestivamente saliti a bordo dell'automezzo, predispone il personale all'intervento di soccorso mediante l'indicazione dei dispositivi di protezione individuale da adottare e la prefigurazione di tecniche e strategie, anche finalizzate all'intervento, connesse all'applicazione di eventuali piani di emergenza; si tiene in costante contatto via radio con la sala operativa per assumere notizie aggiornate sull'evoluzione dell'evento, sull'invio di ulteriori squadre e mezzi, nonche' su altre forze operative istituzionali allertate di cui assume il coordinamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fermi restando gli obblighi ed i doveri dell'autista, anche in relazione alla conoscenza dei percorsi per il rapido raggiungimento del luogo dell'intervento, il capo partenza puo' dare disposizioni in merito all'adozione di itinerari alternativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comunica, mediante il sistema di coordinamento, direzione e controllo, con i referenti delle altre forze operative impegnate sul posto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunica agli interessati le valutazioni in esito all'intervento, segnalando eventuali pericoli ed adottando le misure urgenti di tutela; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    effettua gli adempimenti di polizia giudiziaria previsti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a conclusione dell'intervento, comunica alla sala operativa il termine dell'intervento, acquisisce i dati utili alla redazione degli atti di ufficio e provvede, qualora possibile, al corretto ripristino dell'efficienza e del caricamento del mezzo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al rientro in sede, dopo averne data comunicazione alla sala operativa, provvede a far ripristinare l'efficienza dei mezzi e delle attrezzature impiegate, a compilare il rapporto di intervento e, se necessario, a fornire le notizie all'unita' in servizio di guardia per la richiesta, agli organi competenti, dell'adozione dei provvedimenti urgenti.
+
+6.
+                        
+                            
+                                Il capo partenza, raggiunto il luogo dell'intervento, coordinando gli altri componenti della squadra e tenendo conto di altre squadre eventualmente presenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunica alla sala operativa l'avvenuto arrivo sul posto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettua una rapida ricognizione della situazione incidentale e conseguentemente pianifica le operazioni di intervento, aggiornando la sala operativa e richiedendo eventuali rinforzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individua e, se necessario, delimita l'area di intervento all'interno della quale vengono effettuate le operazioni di soccorso ed il cui accesso e' in ogni caso riservato alle sole forze operative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    effettua la manovra di soccorso utilizzando correttamente i mezzi e le attrezzature affidati nonche' i dispositivi di protezione individuale necessari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conclude l'intervento adottando gli opportuni provvedimenti finalizzati alla tutela delle persone.
+
 ## Art. 78. — Avvicendamento delle squadre
 
 Qualora al termine del turno di servizio l'intervento sia in corso di esecuzione, l'avvicendamento delle squadre e' effettuato con il passaggio delle consegne sul luogo dell'intervento stesso.
@@ -625,6 +1954,45 @@ In tal caso il capo squadra informa gli interessati delle situazioni di pericolo
 
 ## Art. 79. — Servizio obbligatorio di soccorso reso dal personale operativo 
  al di fuori dell'orario ordinario di lavoro
+
+1.
+                        
+                            
+                                Il personale operativo e' impiegato in servizio di soccorso, anche al di fuori dell'orario ordinario di lavoro, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    completamento degli interventi di soccorso e redazione dei relativi atti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stati di emergenze in atto che richiedano il trattenimento del personale in turno. Il trattenimento in servizio e' disposto dal comandante provinciale dandone comunicazione al direttore regionale o interregionale e puo' riguardare tutto o parte del personale del turno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contingenti situazioni operative locali legate a stati di emergenza in atto qualora indispensabile per garantire l'operativita' delle squadre, nonche' per assicurare la sostituzione di personale inviato in missione per soccorso. In tal caso il personale puo' essere richiamato in servizio su disposizione del comandante provinciale dandone comunicazione al direttore regionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    integrazione del dispositivo di soccorso ordinario, in caso di interventi in corso non fronteggiabili con le risorse disponibili, mediante richiamo di unita' reperibili, con richiamo in servizio disposto dal comandante provinciale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi di colonna mobile regionale. La partecipazione ai servizi di colonna mobile e' disciplinata dal Dipartimento.
 
 I servizi resi al di fuori dell'orario di lavoro ordinario, di cui al comma 1 sono obbligatori.
 
@@ -642,6 +2010,31 @@ Le comunicazioni gestite dalle sale operative sono sottoposte a registrazione pe
 ## - Capo III Altri servizi tecnici ed operativi
 
 ## Art. 81. — Altri servizi tecnici ed operativi in genere
+
+1.
+                        
+                            
+                                Il Corpo nazionale, oltre ai servizi di soccorso pubblico, espleta i servizi tecnici ed operativi di seguito indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi di polizia giudiziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi tecnici, a carattere eccezionale, richiesti da enti o istituzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi tecnici o operativi resi a pagamento ovvero a seguito di convenzioni o accordi di programma.
 
 ## Art. 82. — Servizi di polizia giudiziaria
 
@@ -683,13 +2076,282 @@ Gli incarichi inerenti i servizi di prevenzione sono assegnati con criteri di eq
 ## Art. 86. — Servizi di prevenzione incendi resi dai Comandi provinciali 
  e dalle Direzioni regionali ed interregionali
 
+1.
+                        
+                            
+                                Il personale in servizio presso le strutture territoriali del Corpo nazionale, individuato secondo le modalita' indicate dall'articolo 85, comma 1, partecipa ai servizi di prevenzione incendi, secondo le modalita' indicate dal dirigente responsabile, in particolare nelle attivita' necessarie per il rilascio del certificato di prevenzione incendi, nonche' nelle attivita' per i compiti di vigilanza di cui all'articolo 19 del decreto legislativo 8 marzo 2006, n. 139. A tal fine il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riceve e fornisce informazioni al pubblico, nei locali individuati dal dirigente responsabile, secondo quanto previsto dall'articolo 101; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica la regolarita' e la completezza dell'istanza, avviando l'istruttoria di rito, nel rispetto delle modalita' e dei termini previsti dalla legge del 7 agosto 1990, n. 241, e successive modificazioni, e dalle disposizioni speciali di cui al decreto del Presidente della Repubblica 12 gennaio 1998, n. 37, e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    predispone gli atti per il rilascio del certificato di prevenzione incendi con le modalita' ed i tempi previsti dalle disposizioni vigenti.
+
+2.
+                        
+                            
+                                In particolare, per assicurare l'efficace realizzazione delle competenze di cui al comma 1, il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    procede all'effettuazione dell'esame tecnico dei progetti per la verifica della rispondenza alle norme vigenti, ovvero ai criteri tecnici di prevenzione incendi, fornendo pareri, accompagnati da eventuali prescrizioni ed indicazioni, finalizzate a garantire gli obiettivi fissati al Capo IV, in particolare di quelli di cui agli articoli 13, comma 1, 16, 19 e 20, del decreto legislativo 8 marzo 2006, n. 139; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esegue sopralluoghi, al fine di accertare la corretta adozione delle misure di prevenzione incendi, comprese quelle previste nell'ambito delle norme di sicurezza sui luoghi di lavoro, curando gli adempimenti di polizia giudiziaria, in presenza di una fattispecie di reato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    partecipa alle attivita' dei comitati tecnici regionali di prevenzione incendi, anche per quanto attiene agli stabilimenti a rischio di incidente rilevante, a norma del decreto legislativo del 17 agosto 1999, n. 334, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    effettua le attivita' di polizia amministrativa e giudiziaria mediante sopralluoghi e visite ispettive, anche a campione o a seguito di segnalazioni di pericolo, al fine di accertare la corretta adozione delle misure di prevenzione incendi, nonche' per accertare la conformita' alle norme tecniche di riferimento dei prodotti che hanno ricaduta sulla sicurezza antincendio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    effettua le visite ed esercitazioni presso siti e stabilimenti per la redazione di piani di intervento di competenza del Corpo nazionale, anche coordinati con altri enti o amministrazioni, segnalando agli enti competenti problematiche o esigenze atte ad assicurare il miglioramento del servizio di soccorso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    partecipa a seguito di designazione del dirigente ad organi collegiali per il rilascio di autorizzazioni, pareri o per l'effettuazione di controlli, nell'ambito della prevenzione incendi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    espleta sulla base di quanto stabilito dalle norme vigenti le attivita' di informazione, consulenza ed assistenza, anche in materia di prevenzione e sicurezza nei luoghi di lavoro, nonche' di formazione in materia di prevenzione incendi, anche in applicazione dell'articolo 46 del decreto legislativo 9 aprile 2008, n. 81; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    svolge attivita' di formazione curando la preparazione delle lezioni, dei supporti didattici e delle dispense, nonche' la preparazione e l'esecuzione di prove di addestramento pratico ed operativo, secondo le modalita' indicate dall'articolo 89; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    assicura la partecipazione ai servizi di vigilanza antincendio presso i locali di pubblico spettacolo ed altre attivita' in cui e' necessario il presidio di personale e mezzi del Corpo nazionale assumendo preventiva conoscenza delle peculiarita' dei locali o degli ambienti presso i quali deve prestare servizio, nonche' secondo le modalita' definite nell'articolo 91; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    partecipa a programmi di studio e ricerca definiti o autorizzati dal Dipartimento, anche derivanti da convenzioni o accordi di programma; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    effettua i controlli sui prodotti ai fini della sicurezza antincendio, secondo le disposizioni di cui all'articolo 107 del decreto legislativo 6 settembre 2005, n. 206.
+
 ## Art. 87. — Verifica e controllo dell'attuazione 
  delle norme di prevenzione incendi
+
+1.
+                        
+                            
+                                Fermo restando quanto stabilito dalle disposizioni vigenti in materia, ed, in particolare di quelle previste per il rilascio del certificato di prevenzione incendi, il personale del Corpo nazionale effettua procedimenti di verifica e controllo dell'attuazione delle norme di prevenzione incendi, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce informazioni all'utenza sulle norme e sulle disposizioni vigenti da cui discendono obblighi di adeguamento o di realizzazione di opere e sistemi antincendio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esamina le richieste assicurando la partecipazione dell'utenza, la trasparenza dell'attivita' amministrativa e la formale correttezza dei rapporti, secondo quanto previsto dalle disposizioni vigenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esamina per la definizione dei pareri di conformita' sui progetti, la documentazione trasmessa, richiedendo all'utente, qualora necessario, documentazione integrativa finalizzata alla corretta definizione del parere entro i termini del procedimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprime, all'esito dell'attivita' di esame delle istanze, il formale parere di competenza, motivando in ordine ad eventuali dinieghi, prescrizioni o indicazioni.
+
+2.
+                        
+                            
+                                In occasione dei sopralluoghi per il rilascio del certificato di prevenzione incendi, anche se eseguiti collegialmente, il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esamina preventivamente il fascicolo inerente l'attivita' soggetta al controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informa l'utente della data e dell'orario in cui sara' eseguita la visita in modo da consentirne la partecipazione, anche unitamente ad un tecnico di fiducia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifica la congruenza dello stato dei luoghi con gli elaborati di progetto approvati, l'assenza di situazioni di anomalia attinenti alle misure di sicurezza antincendio all'interno dell'attivita', la corretta funzionalita' di impianti, sistemi ed attrezzature antincendio, mediante verifica a campione, l'avvenuta adozione delle misure in materia di sicurezza antincendio nei luoghi di lavoro ed esamina l'eventuale ulteriore documentazione tecnica consegnata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in presenza di una fattispecie di reato predispone gli atti di polizia giudiziaria, in accordo con la struttura di polizia giudiziaria del comando; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a conclusione dei sopralluoghi redige un apposito verbale con l'indicazione delle attivita' effettuate, predispone gli atti di competenza, proponendo il rilascio del certificato di prevenzione incendi in caso di esito positivo del sopralluogo, ovvero motivando in ordine ad eventuali dinieghi, prescrizioni o indicazioni. Qualora non sussistano le condizioni per il rilascio del certificato di prevenzione incendi, ne predispone la comunicazione alle autorita' competenti e la contestuale comunicazione al soggetto che ha richiesto il rilascio del certificato di prevenzione incendi, della cessazione dell'efficacia della dichiarazione di inizio attivita' eventualmente presentata ai sensi dell'articolo 3, comma 5, del decreto del Presidente della Repubblica 12 gennaio 1998, n. 37, fermo restando l'applicazione delle disposizioni di cui agli articoli 19 e 20, del decreto legislativo 8 marzo 2006, n. 139, e delle altre disposizioni vigenti.
 
 Il personale presenzia e, ove necessario, effettua le operazioni di prelievo dei campioni di materiale da certificare ai sensi dell'articolo 10 del decreto del Ministro dell'interno 26 giugno 1984, pubblicato nel Supplemento Ordinario alla Gazzetta Ufficiale n. 234 del 25 agosto 1984, sottoscrivendo il verbale redatto in sede di sopralluogo e siglando il plico contenente il materiale prelevato da inviare al laboratorio certificatore per le prove previste.
 
 ## Art. 88. — Servizi di prevenzione incendi 
  degli Uffici centrali del Dipartimento
+
+1.
+                        
+                            
+                                Il personale degli uffici centrali del Dipartimento partecipa ai servizi di prevenzione incendi propri delle strutture centrali di cui all'articolo 14 del decreto legislativo 8 marzo 2006, n. 139, curando, in particolare, l'attivita' necessaria per la predisposizione della normazione tecnica di cui all'articolo 15 del decreto legislativo 8 marzo 2006, n. 139. Nell'esercizio delle attivita' di competenza, il personale della direzione centrale per la prevenzione e della sicurezza tecnica, tenuto conto dei ruoli, delle qualifiche e della specifica formazione posseduta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    espleta le prove di laboratorio secondo quanto previsto dalla normativa vigente e nel rispetto degli standard di qualita' verificando la funzionalita' delle apparecchiature; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede alla manutenzione ordinaria delle apparecchiature segnalando al responsabile del laboratorio stesso eventuali inefficienze o mancanza di materiali di consumo necessari per lo svolgimento delle prove; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mantiene in efficienza il laboratorio e utilizza durante le prove idonei mezzi di protezione individuale, onde evitare situazioni a rischio di infortuni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    controlla che ai laboratori non accedano persone e non vengano effettuate foto o riprese video all'interno del laboratorio se non autorizzate dal dirigente dell'area; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    riceve e protocolla le richieste di prova, di rilascio, estensione e rinnovo di omologazioni, di provvedimenti di abilitazione, di iscrizione e autorizzazione comunque denominati attestanti la sussistenza dei requisiti necessari o l'idoneita' a svolgere l'attivita' di certificazione, e prova; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    riceve e fornisce informazioni al pubblico osservando l'obbligo del segreto industriale e le disposizioni previste dalla legge del 7 agosto 1990, n. 241, e successive modificazioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    effettua i controlli sui prodotti ai fini della sicurezza antincendio, secondo le disposizioni di cui all'articolo 107 del decreto legislativo 6 settembre 2005, n. 206.
+
+2.
+                        
+                            
+                                Al fine di accertare il possesso dei requisiti richiesti per l'esercizio delle attivita' indicate al comma 1, lettera e), il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esamina preventivamente il fascicolo inerente la richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informa l'utente, della data e dell'orario in cui sara' eseguita la visita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in sede di sopralluogo, verifica la funzionalita' delle apparecchiature, la preparazione del personale, le metodologie di lavoro, le procedure di prova e la sicurezza antincendio degli ambienti, secondo quanto previsto dalle normative vigenti anche in materia di rispetto dei requisiti di qualita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in presenza di una fattispecie di reato predispone gli atti di polizia giudiziaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a conclusione dei sopralluoghi redige un apposito verbale con l'indicazione delle attivita' effettuate, predispone gli atti di competenza, motivando in ordine ad eventuali dinieghi, prescrizioni o indicazioni.
 
 ## Art. 89. — Attivita' di formazione esterna
 
@@ -705,6 +2367,45 @@ L'attivita' formativa di cui al comma 1 e' espletata in orario ordinario, straor
 
 La partecipazione ai corsi organizzati presso i comandi provinciali avviene previa stipula di idonea copertura assicurativa a tutela dei partecipanti. Analoga copertura deve essere prevista nel caso di svolgimento di prove pratiche presso altre strutture.
 L'assunzione dei relativi oneri e' a totale carico dei soggetti richiedenti, i quali sollevano l'Amministrazione da qualsiasi responsabilita' per fatti connessi allo svolgimento delle attivita' formative.
+
+7.
+                        
+                            
+                                Il personale addetto alle docenze e' tenuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al rispetto della puntualita' e degli orari previsti avendo cura della propria immagine come rappresentante del Corpo nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a fornire indicazioni sul ruolo e qualifica di appartenenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al rispetto dei discenti, adeguando le metodologie adottate alle esigenze dell'uditorio, in modo da assicurare la comprensione e l'apprendimento di quanto trattato, fornendo adeguate risposte alle domande formulate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a offrire un'esposizione esaustiva degli argomenti previsti dal programma didattico, anche in relazione ai supporti in dotazione ed alle dispense in possesso dei discenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla redazione di un verbale sull'attivita' didattica espletata, segnalando eventuali problematiche o disservizi al responsabile dell'attivita' formativa.
 
 Il personale addetto agli addestramenti ed alle esercitazioni pratiche cura, oltre a quanto previsto dal comma 7, lo svolgimento delle prove in condizioni di sicurezza e la verifica della corretta partecipazione alle prove di tutto il personale discente, nonche' la custodia e vigilanza dei mezzi ed attrezzature del Corpo nazionale, impiegati per l'attivita' di specie. A tal fine, durante l'attivita' addestrativa e' obbligato ad indossare l'uniforme ed adotta e fa adottare ai discenti i dispositivi di protezione individuale previsti.
 
@@ -726,6 +2427,38 @@ Il personale si presenta alla sede di servizio prevista all'ora prestabilita in 
 
 Per i servizi di vigilanza nei luoghi indicati al comma 2 e dal comma 4 dell'articolo 18 del decreto legislativo 8 marzo 2006, n. 139, il responsabile del servizio, prima dell'avvio dell'attivita', deve documentarsi sulle condizioni di esercizio e sulle eventuali prescrizioni imposte dalla commissione comunale o provinciale di vigilanza, coordinandosi con i referenti delle altre forze operative istituzionali presenti e con i referenti del servizio di prevenzione e protezione aziendale.
 
+5.
+                        
+                            
+                                Nello svolgimento del servizio di cui al comma 4, il personale operativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prima dell'inizio dello spettacolo ispeziona il locale e controlla gli impianti e mezzi di protezione antincendio, la fruibilita' delle vie di esodo e verifica l'efficienza dei sistemi di comunicazione. Laddove sono riscontrate inosservanze alle prescrizioni regolamentari e a quelle di esercizio imposte dalla commissione provinciale o comunale di vigilanza, che non sia possibile eliminare prima dell'inizio dello spettacolo, determinando condizioni di rischio, il responsabile del servizio di vigilanza attiva le procedure di cui al comma 3 dell'articolo 19 del decreto legislativo 8 marzo 2006, n. 139, dandone conoscenza al comando provinciale dei vigili del fuoco, e ne da comunicazione all'autorita' di pubblica sicurezza per l'eventuale adozione dei provvedimenti previsti dall'articolo 82 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    durante lo svolgimento dello spettacolo, verifica che vengano osservate le prescrizioni regolamentari e quelle di esercizio, finalizzate al mantenimento delle condizioni di sicurezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al termine dello spettacolo, assicura il presidio nel luogo dell'attivita' per il tempo necessario allo sfollamento del pubblico, ispezionando il locale e le aree di pertinenza al fine di accertare che non siano intervenute alterazioni delle condizioni di sicurezza preesistenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al termine del servizio, il responsabile redige un rapporto relativo alle attivita' svolte che viene acquisito agli atti del comando provinciale per gli eventuali, successivi adempimenti.
+
 ## - Capo V Attivita' di formazione interna
 
 ## Art. 92. — Attivita' di formazione interna
@@ -739,6 +2472,45 @@ Durante lo svolgimento dei corsi, il personale si attiene alle regole ed alla di
 ## Art. 93. — Formazione degli allievi
 
 Le attivita' di formazione iniziale degli allievi finalizzate all'immissione nei ruoli di cui al decreto legislativo 13 ottobre 2005, n. 217, sono svolte presso la Scuola di formazione di base, la Scuola di formazione operativa, l'Istituto superiore antincendi, nonche' presso i poli didattici, le altre strutture del Corpo nazionale o, in casi di particolari esigenze, presso altre sedi didattiche individuate dal Dipartimento.
+
+2.
+                        
+                            
+                                Durante lo svolgimento dei corsi l'allievo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' tenuto all'osservanza delle norme del presente regolamento compatibili con il proprio status di allievo e dei regolamenti emanati dalla competente struttura del Dipartimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    segue i programmi formativi adottati secondo le direttive del dirigente responsabile e del direttore del corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indossa l'uniforme e tutti gli equipaggiamenti previsti, di cui cura la custodia ed il mantenimento in perfetto ordine ed efficienza negli spazi affidati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    partecipa alle attivita' formative e alle prove pratiche con impegno e disciplina; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualora eccezionalmente impiegato in servizi di istituto si attiene alle disposizioni ed ai compiti affidati dal responsabile operativo in loco.
 
 ## Art. 94. — Formazione per il conseguimento di abilitazioni
 
@@ -766,6 +2538,31 @@ Il personale operativo puo' partecipare ai servizi di cui al comma 1 finalizzati
 In relazione a quanto previsto dall'articolo 134, comma 2, del decreto legislativo 13 ottobre 2005, n. 217, il personale operativo privo della piena idoneita' all'espletamento degli interventi di soccorso, tenuto conto dell'attitudine e della formazione ricevuta, e' impiegato in via prioritaria, nei servizi di supporto all'attivita' di soccorso.
 
 ## Art. 98. — Attivita' del personale addetto ai servizi informatici
+
+1.
+                        
+                            
+                                Il personale addetto ai servizi tecnici per l'informatica, nell'ambito dei laboratori di appartenenza, espleta l'attivita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controllo dell'efficienza e manutenzione dei sistemi in dotazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sviluppo di programmi, secondo le direttive del Dipartimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    partecipazione all'attivita' operativa al fine di garantire il funzionamento di strumentazioni informatiche in dotazione, anche per l'allestimento di sale operative, approntate in caso di calamita'.
 
 Gli addetti ai servizi tecnici rendono edotto il personale sulle caratteristiche e sul corretto utilizzo degli apparati e dei sistemi utilizzati, soprattutto quelli di nuova generazione.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-05-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -239,6 +239,38 @@ Per quanto concerne gli allievi dipendenti di amministrazioni pubbliche non stat
 
 Coloro che non si presentano entro otto giorni dall'inizio del corso, senza giustificato e documentato motivo, sono esclusi dal corso stesso.
 
+2.
+                    
+                        
+                            Con successivo regolamento interno, da adottarsi a cura dell'organo deliberante della Scuola superiore della pubblica amministrazione, sono stabilite le norme che gli allievi sono tenuti ad osservare durante i corsi; in particolare, sono previsti: 
+ 
+                        
+                        
+                            a)
+                            
+                                i casi in cui, per gravi motivi o per persistente scarso profitto, l'organo deliberante della Scuola superiore della pubblica amministrazione, su proposta del direttore, puo' disporre l'esclusione dal corso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i casi di assenza giustificata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il limite massimo delle assenze, giustificate e non, che comportano l'esclusione dal corso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i casi in cui le assenze stesse comportano la riduzione della borsa di studio.
+
 Gli allievi che al termine del corso non assumono servizio, senza giustificato motivo, presso l'amministrazione di destinazione, o non vi rimangano per un periodo di almeno due anni, sono tenuti a rimborsare tutti gli importi della borsa di studio percepiti durante il corso. ((1))
 
 ---------------
@@ -289,6 +321,31 @@ La commissione esaminatrice per il concorso, per titoli di servizio professional
  Il D. Lgs. 30 luglio 1999, n. 287 ha disposto (con l'art. 10, comma 1, lettera c)) l'abrogazione dell'intero provvedimento con decorrenza dalla data di approvazione della graduatoria dei vincitori del secondo corso-concorso per l'accesso alla dirigenza.
 
 ## Art. 21. — Valutazione dei titoli
+
+1.
+                    
+                        
+                            La valutazione dei titoli di servizio professionali e di cultura e' la seguente: 
+ 
+                        
+                        
+                            a)
+                            
+                                incarichi e servizi speciali . . . . . . . . fino a punti 8
+                            
+                        
+                        
+                            b)
+                            
+                                lavori originali prodotti nell'interesse 
+del servizio . . . . . . . . . . . . . . . . . . . " 10 c) pubblicazioni scientifiche attinenti alla 
+attivita' di istituto . . . . . . . . . . . . . . . " 11 d) frequenza di corsi di qualificazione 
+professionali organizzati dalla pubblica 
+amministrazione . . . . . . . . . . . . . . . . . . " 9 e) specializzazioni post laurea o altri 
+titoli culturali . . . . . . . . . . . . . . . . . " 12 f) risultati conseguiti nei concorsi 
+interni della carriera direttiva (a 
+ 
+direttore di sezione o simili) . . . . . . . . . . " 5
 
 Il colloquio verte sulle materie indicate dall'amministrazione nel bando di concorso. Il punteggio da attribuire al colloquio e' compreso fra un minimo di otto decimi ed un massimo di dieci decimi.
 

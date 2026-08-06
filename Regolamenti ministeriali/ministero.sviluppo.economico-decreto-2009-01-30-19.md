@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2015-03-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,9 +28,111 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «codice»: il codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «CONSAP»: la Concessionaria servizi assicurativi pubblici S.p.A.; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «contributo»: la contribuzione annuale dei mediatori a favore del Fondo determinata a sensi dell'articolo 115, comma 3, del codice; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                «danneggiato»: l'assicurato, l'impresa di assicurazione o di riassicurazione, o i loro aventi causa che abbiano subito un danno patrimoniale dal mediatore o dai mediatori solidalmente responsabili e non siano stati risarciti dal mediatore stesso o dagli altri solidalmente responsabili;
+                            
+                        
+                        
+                            d)
+                            
+                                «Fondo»: il Fondo di garanzia per i mediatori di assicurazione e di riassicurazione, di cui all'articolo 115 del codice; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «IVASS»: l'istituto per la vigilanza sulle assicurazioni;
+                            
+                        
+                        
+                            f)
+                            
+                                «mediatori»: gli intermediari di assicurazione e di riassicurazione iscritti nella sezione di cui all'articolo 109, comma 2, lettera b), del codice; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «polizza»: la polizza di assicurazione della responsabilita' civile, di cui agli articoli 110, comma 3, e 112, comma 3, del codice; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «registro»: il registro unico elettronico degli intermediari assicurativi e riassicurativi di cui all'articolo 109, comma 1, del codice; 
+
+                            
+                        
+                        
+                            h-bis)
+                            
+                                «sinistro»: azione od omissione che causa il danno patrimoniale. A tal fine, si considera unico sinistro l'insieme dei fatti causativi di danno a carico dello stesso danneggiato, ascrivibili al medesimo mediatore o ai medesimi mediatori solidalmente responsabili. In tal caso, i fatti lesivi si considerano occorsi nell'anno in cui si e' verificato il primo di essi, anche se gli stessi si sono protratti per piu' annualita';
+                            
+                        
+                        
+                            h-ter)
+                            
+                                «massimale globale»: il massimale della polizza di assicurazione della responsabilita' civile dei mediatori di assicurazione e di riassicurazione previsto in relazione all'insieme dei sinistri che sono accaduti nell'anno di riferimento, ai sensi degli articoli 110, comma 3 e 112, comma 3 del codice. Tale massimale comprende l'insieme delle richieste di risarcimento del danno patrimoniale che sono avanzate da una pluralita' di danneggiati al medesimo mediatore, o ai medesimi mediatori solidalmente responsabili, per fatti lesivi accaduti nel medesimo anno, cosi' come definiti dalla lettera h-bis).
+                            
+                        
+                        
+                            i)
+                            
+                                «Comitato»: il Comitato di gestione di cui all'articolo 115 del codice.
+
 ## Art. 2. — (( (Limiti di intervento del Fondo). ))
 
 ((
+
+1.
+                    
+                        
+                            Il Fondo risarcisce il danno patrimoniale arrecato dal mediatore, o dai mediatori solidalmente responsabili, relativamente all'anno in cui il sinistro e' accaduto, secondo i seguenti limiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il massimale minimo della polizza nella misura determinata secondo le previsioni degli articoli 110, comma 3, e 112, comma 3, del codice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il doppio del massimale minimo della medesima polizza determinato globalmente per tutti i sinistri provocati dai mediatori solidalmente responsabili, ai sensi dell'articolo 110, comma 3 e 112, comma 3, del codice.
 
 Nel rispetto dei limiti di cui al comma 1, i risarcimenti sono liquidati secondo l'ordine cronologico delle richieste pervenute al Fondo.
 
@@ -81,6 +183,38 @@ Il vicepresidente esercita le funzioni del presidente in caso di assenza o imped
 
 ((
 
+1.
+                    
+                        
+                            Il segretario del Comitato di cui all'articolo 4, comma 3: 
+ 
+                        
+                        
+                            a)
+                            
+                                raccoglie tutta la documentazione relativa agli affari da sottoporre al Comitato, nonche' ogni altro atto necessario alle deliberazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                redige i verbali delle riunioni del Comitato e ne cura la trascrizione sull'apposito registro, assicurandone, altresi', la relativa conservazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                trasmette alla CONSAP le delibere adottate ai fini della relativa attuazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                presenta al Comitato il progetto di rendiconto finanziario e la relativa relazione.
+
 ))
 
 ## Art. 8. — Norme per la nomina dei componenti del Comitato in rappresentanza degli intermediari e delle imprese di assicurazione e di riassicurazione
@@ -129,11 +263,66 @@ L'esercizio finanziario inizia il primo gennaio e termina il 31 dicembre di ogni
 
 ## Art. 14. — Rendiconto finanziario
 
+1.
+                    
+                        
+                            Il rendiconto finanziario del Fondo, deliberato dal Comitato ai sensi dell'articolo 5 entro novanta giorni dalla chiusura dell'esercizio, comprende le seguenti voci:
+ 
+                        
+                        
+                            a)
+                            
+                                in entrata:
+ 1) contributi degli aderenti al Fondo di competenza dell'esercizio;
+ 2) interessi su titoli;
+ 3) interessi attivi diversi;
+ 4) somme recuperate in dipendenza di azioni di surroga;
+ 5) altre entrate, da indicare analiticamente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in uscita:
+ 1) somme corrisposte per i risarcimenti ai sensi dell'articolo 115 del codice e relative spese di liquidazione;
+ 2) spese di funzionamento;
+ 3) oneri patrimoniali e finanziari;
+ 4) altre uscite, da indicare analiticamente.
+
 Al rendiconto e' allegata una relazione, approvata dal Comitato, che illustra le singole voci del rendiconto.
 
 Entro dieci giorni dalla delibera di approvazione di cui al comma 1, il Comitato trasmette il rendiconto alla CONSAP che lo approva nei successivi trenta giorni. Il rendiconto approvato dalla CONSAP e' trasmesso entro dieci giorni al Ministero dello sviluppo economico.
 
 ## Art. 15. — Situazione patrimoniale
+
+1.
+                    
+                        
+                            Il rendiconto di cui all'articolo 14 e' accompagnato da un documento che illustra la situazione patrimoniale del Fondo dalla quale risultino alla fine dell'esercizio:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'attivo:
+ 1) le immobilizzazioni finanziarie;
+ 2) i crediti verso i contribuenti;
+ 3) le disponibilita' liquide;
+ 4) i ratei e risconti attivi;
+ 5) le altre partite dell'attivo, da indicare analiticamente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel passivo:
+ 1) il capitale netto;
+ 2) la riserva premi;
+ 3) la riserva sinistri,
+ 4) i ratei e risconti passivi;
+ 5) le altre partite del passivo, da indicare analiticamente.
 
 La riserva premi costituita alla fine di ogni esercizio per far fronte agli oneri derivanti dagli obblighi di risarcimento di cui all'articolo 2, e' pari all'intero ammontare dei contributi versati dagli aderenti al Fondo in ciascun esercizio, compresi i rendimenti finanziari relativi agli investimenti dei contributi stessi, al netto dei sinistri dell'esercizio pagati o riservati e degli oneri di qualsiasi natura sopportati per la gestione e il funzionamento del Fondo stesso. L'obbligo di accantonamento a riserva cessa quando l'ammontare della riserva premi e' pari a quaranta volte l'ammontare del massimale annuo globale per tutti i sinistri previsto dall'articolo 110, comma 3, del Codice.
 

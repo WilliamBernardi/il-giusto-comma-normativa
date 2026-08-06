@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2017-07-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -54,6 +54,25 @@ Dopo l'articolo 2 e' inserito il seguente: «Art. 2-bis (Ambito soggettivo di ap
 
 ## Art. 4. — Modifiche all'articolo 3 del decreto legislativo 
  n. 33 del 2013
+
+1.
+                        
+                            
+                                All'articolo 3 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «i dati oggetto» sono inserite le seguenti: «di accesso civico, ivi compresi quelli oggetto»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 sono inseriti i seguenti: «1-bis. L'Autorita' nazionale anticorruzione, sentito il Garante per la protezione dei dati personali nel caso in cui siano coinvolti dati personali, con propria delibera adottata, previa consultazione pubblica, in conformita' con i principi di proporzionalita' e di semplificazione, e all'esclusivo fine di ridurre gli oneri gravanti sui soggetti di cui all'articolo 2-bis, puo' identificare i dati, le informazioni e i documenti oggetto di pubblicazione obbligatoria ai sensi della disciplina vigente per i quali la pubblicazione in forma integrale e' sostituita con quella di informazioni riassuntive, elaborate per aggregazione. In questi casi, l'accesso ai dati e ai documenti nella loro integrita' e' disciplinato dall'articolo 5. 
+ 1-ter. L'Autorita' nazionale anticorruzione puo', con il Piano nazionale anticorruzione, nel rispetto delle disposizioni del presente decreto, precisare gli obblighi di pubblicazione e le relative modalita' di attuazione, in relazione alla natura dei soggetti, alla loro dimensione organizzativa e alle attivita' svolte, prevedendo in particolare modalita' semplificate per i comuni con popolazione inferiore a 15.000 abitanti, per gli ordini e collegi professionali.».
 
 ## Art. 5. — Inserimento dell'articolo 4-bis e del capo I-bis
 
@@ -132,8 +151,44 @@ Dopo l'articolo 7 e' inserito il seguente: «Art. 7-bis (Riutilizzo dei dati pub
 ## Art. 8. — Modifiche all'articolo 8 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 8 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 3 sono aggiunte, in fine, le seguenti parole: «Decorsi detti termini, i relativi dati e documenti sono accessibili ai sensi dell'articolo 5.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3 e' inserito il seguente: «3-bis. L'Autorita' nazionale anticorruzione, sulla base di una valutazione del rischio corruttivo, delle esigenze di semplificazione e delle richieste di accesso, determina, anche su proposta del Garante per la protezione dei dati personali, i casi in cui la durata della pubblicazione del dato e del documento puo' essere inferiore a 5 anni.».
+
 ## Art. 9. — Modifiche all'articolo 9 del decreto legislativo n. 33 
  del 2013 e inserimento dell'articolo 9-bis
+
+1.
+                        
+                            
+                                All'articolo 9 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo il primo periodo e' inserito il seguente: «Al fine di evitare eventuali duplicazioni, la suddetta pubblicazione puo' essere sostituita da un collegamento ipertestuale alla sezione del sito in cui sono presenti i relativi dati, informazioni o documenti, assicurando la qualita' delle informazioni di cui all'articolo 6.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' abrogato.
 
 Dopo l'articolo 9 e' inserito il seguente: «Art. 9-bis (Pubblicazione delle banche dati). - 1. Le pubbliche amministrazioni titolari delle banche dati di cui all'Allegato B pubblicano i dati, contenuti nelle medesime banche dati, corrispondenti agli obblighi di pubblicazione di cui al presente decreto, indicati nel medesimo, con i requisiti di cui all'articolo 6, ove compatibili con le modalita' di raccolta ed elaborazione dei dati. 
  2. Nei casi di cui al comma 1, nei limiti dei dati effettivamente contenuti nelle banche dati di cui al medesimo comma, i soggetti di cui all'articolo 2-bis adempiono agli obblighi di pubblicazione previsti dal presente decreto, indicati nell'Allegato B, mediante la comunicazione dei dati, delle informazioni o dei documenti dagli stessi detenuti all'amministrazione titolare della corrispondente banca dati e con la pubblicazione sul proprio sito istituzionale, nella sezione "Amministrazione trasparente", del collegamento ipertestuale, rispettivamente, alla banca dati contenente i relativi dati, informazioni o documenti, ferma restando la possibilita' per le amministrazioni di continuare a pubblicare sul proprio sito i predetti dati purche' identici a quelli comunicati alla banca dati. 
@@ -143,8 +198,67 @@ Dopo l'articolo 9 e' inserito il seguente: «Art. 9-bis (Pubblicazione delle ban
 ## Art. 10. — Modifiche all'articolo 10 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 10 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Coordinamento con il Piano triennale per la prevenzione della corruzione»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Ogni amministrazione indica, in un'apposita sezione del Piano triennale per la prevenzione della corruzione di cui all'articolo 1, comma 5, della legge n. 190 del 2012, i responsabili della trasmissione e della pubblicazione dei documenti, delle informazioni e dei dati ai sensi del presente decreto.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 2 e' abrogato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. La promozione di maggiori livelli di trasparenza costituisce un obiettivo strategico di ogni amministrazione, che deve tradursi nella definizione di obiettivi organizzativi e individuali.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 7 e' abrogato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 8, la lettera a) e' sostituita dalla seguente: «a) il Piano triennale per la prevenzione della corruzione;» e la lettera d) e' soppressa.
+
 ## Art. 11. — Modifiche all'articolo 12 del decreto legislativo 
  n. 33 del 2013
+
+1.
+                        
+                            
+                                All'articolo 12 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1: 
+ 1) dopo le parole «e ogni atto» sono inserite le seguenti: «, previsto dalla legge o comunque adottato,»; 
+ 2) dopo le parole «i codici di condotta» sono inserite le seguenti: «, le misure integrative di prevenzione della corruzione individuate ai sensi dell'articolo 1, comma 2-bis, della legge n. 190 del 2012, i documenti di programmazione strategico-gestionale e gli atti degli organismi indipendenti di valutazione».
 
 ## Art. 12. — Modifiche all'articolo 13 del decreto legislativo 
  n. 33 del 2013
@@ -154,7 +268,78 @@ All'articolo 13, comma 1, lettera b), del decreto legislativo n. 33 del 2013, le
 ## Art. 13. — Modifiche all'articolo 14 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 14 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica dell'articolo 14 e' sostituita dalla seguente: «Obblighi di pubblicazione concernenti i titolari di incarichi politici, di amministrazione, di direzione o di governo e i titolari di incarichi dirigenziali»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, le parole «di carattere elettivo o comunque esercizio di poteri di indirizzo politico» sono sostituite dalle seguenti: «anche se non di carattere elettivo» e le parole «le pubbliche amministrazioni pubblicano con riferimento a tutti i propri componenti,» sono sostituite dalle seguenti: «lo Stato, le regioni e gli enti locali pubblicano»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 1 sono inseriti i seguenti: «1-bis. Le pubbliche amministrazioni pubblicano i dati di cui al comma 1 per i titolari di incarichi o cariche di amministrazione, di direzione o di governo comunque denominati, salvo che siano attribuiti a titolo gratuito, e per i titolari di incarichi dirigenziali, a qualsiasi titolo conferiti, ivi inclusi quelli conferiti discrezionalmente dall'organo di indirizzo politico senza procedure pubbliche di selezione. 
+ 1-ter. Ciascun dirigente comunica all'amministrazione presso la quale presta servizio gli emolumenti complessivi percepiti a carico della finanza pubblica, anche in relazione a quanto previsto dall'articolo 13, comma 1, del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89.
+L'amministrazione pubblica sul proprio sito istituzionale l'ammontare complessivo dei suddetti emolumenti per ciascun dirigente. 
+ 1-quater. Negli atti di conferimento di incarichi dirigenziali e nei relativi contratti sono riportati gli obiettivi di trasparenza, finalizzati a rendere i dati pubblicati di immediata comprensione e consultazione per il cittadino, con particolare riferimento ai dati di bilancio sulle spese e ai costi del personale, da indicare sia in modo aggregato che analitico. Il mancato raggiungimento dei suddetti obiettivi determina responsabilita' dirigenziale ai sensi dell'articolo 21 del decreto legislativo 30 marzo 2001, n. 165. Del mancato raggiungimento dei suddetti obiettivi si tiene conto ai fini del conferimento di successivi incarichi. 
+ 1-quinquies. Gli obblighi di pubblicazione di cui al comma 1 si applicano anche ai titolari di posizioni organizzative a cui sono affidate deleghe ai sensi dell'articolo 17, comma 1-bis, del decreto legislativo n. 165 del 2001, nonche' nei casi di cui all'articolo 4-bis, comma 2, del decreto-legge 19 giugno 2015, n. 78 e in ogni altro caso in cui sono svolte funzioni dirigenziali. Per gli altri titolari di posizioni organizzative e' pubblicato il solo curriculum vitae.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 2 e' sostituito dal seguente: «Le pubbliche amministrazioni pubblicano i dati cui ai commi 1 e 1-bis entro tre mesi dalla elezione, dalla nomina o dal conferimento dell'incarico e per i tre anni successivi dalla cessazione del mandato o dell'incarico dei soggetti, salve le informazioni concernenti la situazione patrimoniale e, ove consentita, la dichiarazione del coniuge non separato e dei parenti entro il secondo grado, che vengono pubblicate fino alla cessazione dell'incarico o del mandato.
+Decorsi detti termini, i relativi dati e documenti sono accessibili ai sensi dell'articolo 5.».
+
 ## Art. 14. — Modifiche all'articolo 15 del decreto legislativo n. 33 del 2013 e inserimento degli articoli 15-bis e 15-ter
+
+1.
+                        
+                            
+                                All'articolo 15 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica dell'articolo e' sostituita dalla seguente: «Obblighi di pubblicazione concernenti i titolari di incarichi di collaborazione o consulenza»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, 
+ 1) all'alinea, le parole «Fermi restando gli obblighi» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 9-bis e fermi restando gli obblighi» e le parole « amministrativi di vertice e di incarichi dirigenziali, a qualsiasi titolo conferiti, nonche'» sono soppresse; 
+ 2) alla lettera d), le parole: «di lavoro,» sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2, le parole «dirigenziali a soggetti estranei alla pubblica amministrazione,» sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 5 e' abrogato.
 
 Dopo l'articolo 15 sono inseriti i seguenti: «Art. 15-bis (Obblighi di pubblicazione concernenti incarichi conferiti nelle societa' controllate). - 1. Fermo restando quanto previsto dall'articolo 9-bis, le societa' a controllo pubblico, nonche' le societa' in regime di amministrazione straordinaria, ad esclusione delle societa' emittenti strumenti finanziari quotati nei mercati regolamentati e loro controllate, pubblicano, entro trenta giorni dal conferimento di incarichi di collaborazione, di consulenza o di incarichi professionali, inclusi quelli arbitrali, e per i due anni successivi alla loro cessazione, le seguenti informazioni: 
  a) gli estremi dell'atto di conferimento dell'incarico, l'oggetto della prestazione, la ragione dell'incarico e la durata; 
@@ -170,8 +355,51 @@ Dopo l'articolo 15 sono inseriti i seguenti: «Art. 15-bis (Obblighi di pubblica
 ## Art. 15. — Modifiche all'articolo 16 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 16 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «Le pubbliche amministrazioni» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole «Le pubbliche amministrazioni» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 3, e' inserito il seguente: «3-bis. Il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri assicura adeguate forme di pubblicita' dei processi di mobilita' dei dipendenti delle pubbliche amministrazioni, anche attraverso la pubblicazione di dati identificativi dei soggetti interessati.».
+
 ## Art. 16. — Modifiche all'articolo 17 del decreto legislativo 
  n. 33 del 2013
+
+1.
+                        
+                            
+                                All'articolo 17 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «Le pubbliche amministrazioni» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni» e le parole «con la indicazione delle diverse tipologie di rapporto, della distribuzione di questo personale tra le diverse qualifiche e aree professionali,» e «La pubblicazione comprende l'elenco dei titolari dei contratti a tempo determinato.» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole «Le pubbliche amministrazioni» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni» e le parole «articolato per aree professionali,» sono soppresse.
 
 ## Art. 17. — Modifiche all'articolo 18 del decreto legislativo 
  n. 33 del 2013
@@ -181,17 +409,135 @@ Al comma 1, le parole «Le pubbliche amministrazioni» sono sostituite dalle seg
 ## Art. 18. — Modifiche all'articolo 19 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 19 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «presso l'amministrazione» sono inserite le seguenti: «, nonche' i criteri di valutazione della Commissione e le tracce delle prove scritte»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole «, nonche' quello dei bandi espletati nel corso dell'ultimo triennio, accompagnato dall'indicazione, per ciascuno di essi, del numero dei dipendenti assunti e delle spese effettuate» sono soppresse.
+
 ## Art. 19. — Modifiche all'articolo 20 del decreto legislativo 
  n. 33 del 2013
+
+1.
+                        
+                            
+                                All'articolo 20 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 e' sostituito dal seguente: «Le pubbliche amministrazioni pubblicano i criteri definiti nei sistemi di misurazione e valutazione della performance per l'assegnazione del trattamento accessorio e i dati relativi alla sua distribuzione, in forma aggregata, al fine di dare conto del livello di selettivita' utilizzato nella distribuzione dei premi e degli incentivi, nonche' i dati relativi al grado di differenziazione nell'utilizzo della premialita' sia per i dirigenti sia per i dipendenti.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' abrogato.
 
 ## Art. 20. — Modifiche all'articolo 21 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 21 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «Le pubbliche amministrazioni» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, dopo le parole «Fermo restando quanto previsto» sono inserite le seguenti: «dall'articolo 9-bis e».
+
 ## Art. 21. — Modifiche all'articolo 22 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 22 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, 
+ 1) all'alinea, le parole «Ciascuna amministrazione» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 9-bis, ciascuna amministrazione»; 
+ 2) alla lettera a) le parole «e finanziati dall'Amministrazione medesima ovvero» sono sostituite dalle seguenti: «o finanziati dall'amministrazione medesima nonche' di quelli»; 
+ 3) dopo la lettera d) e' inserita la seguente: «d-bis) i provvedimenti in materia di costituzione di societa' a partecipazione pubblica, acquisto di partecipazioni in societa' gia' costituite, gestione delle partecipazioni pubbliche, alienazione di partecipazioni sociali, quotazione di societa' a controllo pubblico in mercati regolamentati e razionalizzazione periodica delle partecipazioni pubbliche, previsti dal decreto legislativo adottato ai sensi dell'articolo 18 della legge 7 agosto 2015, n. 124.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole «Per ciascuno degli enti» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 9-bis, per ciascuno degli enti»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, le parole «degli enti» sono sostituite dalle seguenti: «dei soggetti» e le parole «, nei quali sono pubblicati i dati relativi ai componenti degli organi di indirizzo e ai soggetti titolari di incarico, in applicazione degli articoli 14 e 15» sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 4, dopo le parole «dell'amministrazione interessata» sono inserite le seguenti: «ad esclusione dei pagamenti che le amministrazioni sono tenute ad erogare a fronte di obbligazioni contrattuali per prestazioni svolte in loro favore da parte di uno degli enti e societa' indicati nelle categorie di cui al comma 1, lettere da a) a c)»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 6 e' sostituito dal seguente: «6. Le disposizioni di cui al presente articolo non trovano applicazione nei confronti delle societa', partecipate da amministrazioni pubbliche, con azioni quotate in mercati regolamentati italiani o di altri paesi dell'Unione europea, e loro controllate.».
+
 ## Art. 22. — Modifiche all'articolo 23 del decreto legislativo 
  n. 33 del 2013
+
+1.
+                        
+                            
+                                All'articolo 23 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, 
+ 1) la lettera a) e' soppressa; 
+ 2) alla lettera b), le parole «12 aprile 2006, n. 163» sono sostituite dalle seguenti: «18 aprile 2016, n. 50, fermo restando quanto previsto dall'articolo 9-bis»; 
+ 3) la lettera c) e' soppressa; 
+ 4) alla lettera d) sono aggiunte, in fine, le seguenti parole: «, ai sensi degli articoli 11 e 15 della legge 7 agosto 1990, n. 241»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' abrogato.
 
 ## Art. 23. — Modifiche all'articolo 26 del decreto legislativo 
  n. 33 del 2013
@@ -221,6 +567,27 @@ Il comma 1 dell'articolo 31 del decreto legislativo n. 33 del 2013 e' sostituito
 ## Art. 28. — Modifiche all'articolo 32 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 32 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «Le pubbliche amministrazioni» sono inserite le seguenti: «e i gestori di pubblici servizi»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2: 
+ 1) dopo le parole «Le pubbliche amministrazioni» sono inserite le seguenti: «e i gestori di pubblici servizi,»; 
+ 2) alla lettera a), le parole «, evidenziando quelli effettivamente sostenuti e quelli imputati al personale per ogni servizio erogato» sono soppresse; 
+ 3) la lettera b) e' abrogata.
+
 ## Art. 29. — Modifiche all'articolo 33 del decreto legislativo 
  n. 33 del 2013
 
@@ -228,6 +595,31 @@ Al comma 1 dell'articolo 33 del decreto legislativo n. 33 del 2013, le parole «
 
 ## Art. 30. — Modifiche all'articolo 35 del decreto legislativo 
  n. 33 del 2013
+
+1.
+                        
+                            
+                                All'articolo 35 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Al comma 1, lettera c) le parole «il nome del responsabile» sono sostituite dalle seguenti: «l'ufficio»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera n) del comma 1 e' soppressa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le lettere b) e c) del comma 3 sono soppresse.
 
 ## Art. 31. — Modifiche all'articolo 37 del decreto legislativo 
  n. 33 del 2013
@@ -240,11 +632,80 @@ L'articolo 37 del decreto legislativo n. 33 del 2013 e' sostituito dal seguente:
 ## Art. 32. — Modifiche all'articolo 38 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 38 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «Le pubbliche amministrazioni» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni» e le parole da: «tempestivamente» a «ex ante;» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: «2. Fermi restando gli obblighi di pubblicazione di cui all'articolo 21 del decreto legislativo 18 aprile 2016, n. 50, le pubbliche amministrazioni pubblicano tempestivamente gli atti di programmazione delle opere pubbliche, nonche' le informazioni relative ai tempi, ai costi unitari e agli indicatori di realizzazione delle opere pubbliche in corso o completate. Le informazioni sono pubblicate sulla base di uno schema tipo redatto dal Ministero dell'economia e delle finanze d'intesa con l'Autorita' nazionale anticorruzione, che ne curano altresi' la raccolta e la pubblicazione nei propri siti web istituzionali al fine di consentirne una agevole comparazione; 
+ c) dopo il comma 2 e' aggiunto il seguente: «2-bis. Per i Ministeri, gli atti di programmazione di cui al comma 2 sono quelli indicati dall'articolo 2 del decreto legislativo 29 dicembre 2011, n. 228.».
+
 ## Art. 33. — Modifiche all'articolo 41 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 41 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 1 e' inserito il seguente: «1-bis. Le amministrazioni di cui al comma 1 pubblicano altresi', nei loro siti istituzionali, i dati relativi a tutte le spese e a tutti i pagamenti effettuati, distinti per tipologia di lavoro, bene o servizio, e ne permettono la consultazione, in forma sintetica e aggregata, in relazione alla tipologia di spesa sostenuta, all'ambito temporale di riferimento e ai beneficiari.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, le parole «, fatta eccezione per i responsabili di strutture semplici,» sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 6, dopo le parole "«Liste di attesa»," sono inserite le seguenti: «i criteri di formazione delle liste di attesa,».
+
 ## Art. 34. — Modifiche all'articolo 43 del decreto legislativo 
  n. 33 del 2013
+
+1.
+                        
+                            
+                                All'articolo 43 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «Programma triennale per la trasparenza e l'integrita'» sono sostituite dalle seguenti: «Piano triennale per la prevenzione della corruzione»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' abrogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. I dirigenti responsabili dell'amministrazione e il responsabile per la trasparenza controllano e assicurano la regolare attuazione dell'accesso civico sulla base di quanto stabilito dal presente decreto.».
 
 ## Art. 35. — Modifiche all'articolo 44 del decreto legislativo 
  n. 33 del 2013
@@ -254,14 +715,114 @@ Al comma 1 dell'articolo 44 del decreto legislativo n. 33 del 2013 le parole «P
 ## Art. 36. — Modifiche all'articolo 45 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 45 del decreto legislativo n. 33 del 2013, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole «la CIVIT, anche in qualita' di Autorita' nazionale anticorruzione,» e le parole «la CIVIT», ovunque ricorrano, sono sostituite dalle seguenti: «L'autorita' nazionale anticorruzione»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, le parole «l'adozione di atti o provvedimenti richiesti dalla normativa vigente, ovvero la rimozione di comportamenti o atti contrastanti con i piani e le regole sulla trasparenza.» sono sostituite dalle seguenti: «di procedere, entro un termine non superiore a trenta giorni, alla pubblicazione di dati, documenti e informazioni ai sensi del presente decreto, all'adozione di atti o provvedimenti richiesti dalla normativa vigente ovvero alla rimozione di comportamenti o atti contrastanti con i piani e le regole sulla trasparenza.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4, il primo periodo e' sostituito dai seguenti periodi: «Il mancato rispetto dell'obbligo di pubblicazione di cui al comma 1 costituisce illecito disciplinare. L'Autorita' nazionale anticorruzione segnala l'illecito all'ufficio di cui all'articolo 55-bis, comma 4, del decreto legislativo 30 marzo 2001, n. 165, dell'amministrazione interessata ai fini dell'attivazione del procedimento disciplinare a carico del responsabile della pubblicazione o del dirigente tenuto alla trasmissione delle informazioni.».
+
 ## Art. 37. — Modifiche all'articolo 46 del decreto legislativo 
  n. 33 del 2013
+
+1.
+                        
+                            
+                                All'articolo 46 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Responsabilita' derivante dalla violazione delle disposizioni in materia di obblighi di pubblicazione e di accesso civico»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, le parole «o la mancata predisposizione del Programma triennale per la trasparenza e l'integrita'» sono sostituite dalla seguente: «e il rifiuto, il differimento e la limitazione dell'accesso civico, al di fuori delle ipotesi previste dall'articolo 5-bis,».
 
 ## Art. 38. — Modifiche all'articolo 47 del decreto legislativo 
  n. 33 del 2013
 
+1.
+                        
+                            
+                                All'articolo 47 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: «Sanzioni per la violazione degli obblighi di trasparenza per casi specifici»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 e' inserito il seguente: «1-bis. La sanzione di cui al comma 1 si applica anche nei confronti del dirigente che non effettua la comunicazione ai sensi dell'articolo 14, comma 1-ter, relativa agli emolumenti complessivi percepiti a carico della finanza pubblica, nonche' nei confronti del responsabile della mancata pubblicazione dei dati di cui al medesimo articolo. La stessa sanzione si applica nei confronti del responsabile della mancata pubblicazione dei dati di cui all'articolo 4-bis, comma 2.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 dell'articolo 47 e' sostituito dal seguente: «3. Le sanzioni di cui al comma 1 sono irrogate dall'Autorita' nazionale anticorruzione. L'Autorita' nazionale anticorruzione disciplina con proprio regolamento, nel rispetto delle norme previste dalla legge 24 novembre 1981, n. 689, il procedimento per l'irrogazione delle sanzioni.».
+
 ## Art. 39. — Modifiche all'articolo 48 del decreto legislativo 
  n. 33 del 2013
+
+1.
+                        
+                            
+                                All'articolo 48 del decreto legislativo n. 33 del 2013 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1 le parole «Il Dipartimento della funzione pubblica» sono sostituite dalle seguenti: «L'Autorita' nazionale anticorruzione»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3 le parole «con decreti del Presidente del Consiglio dei ministri» sono sostituite dalle seguenti: «dall'Autorita' nazionale anticorruzione»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4 le parole «I decreti» sono sostituite dalle seguenti: «Gli standard, i modelli e gli schemi»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 5 le parole «Le amministrazioni di cui all'articolo 11,» sono sostituite dalle seguenti: «I soggetti di cui all'articolo 2-bis,».
 
 ## Art. 40. — Modifiche all'articolo 52 del decreto legislativo 
  n. 33 del 2013
@@ -271,6 +832,96 @@ All'articolo 52 del decreto legislativo n. 33 del 2013, dopo il comma 4 e' inser
 ## - Capo II Modifiche alla legge 6 novembre 2012, n. 190
 
 ## Art. 41. — Modifiche all'articolo 1 della legge n. 190 del 2012
+
+1.
+                        
+                            
+                                All'articolo 1 della legge n. 190 del 2012 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera b) del comma 2 e' sostituita dalla seguente: «b) adotta il Piano nazionale anticorruzione ai sensi del comma 2-bis;»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2 e' inserito il seguente: «2-bis. Il Piano nazionale anticorruzione e' adottato sentiti il Comitato interministeriale di cui al comma 4 e la Conferenza unificata di cui all'articolo 8, comma 1, del decreto legislativo 28 agosto 1997, n. 281. Il Piano ha durata triennale ed e' aggiornato annualmente. Esso costituisce atto di indirizzo per le pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, ai fini dell'adozione dei propri piani triennali di prevenzione della corruzione, e per gli altri soggetti di cui all'articolo 2-bis, comma 2, del decreto legislativo 14 marzo 2013, n. 33, ai fini dell'adozione di misure di prevenzione della corruzione integrative di quelle adottate ai sensi del decreto legislativo 8 giugno 2001, n. 231, anche per assicurare l'attuazione dei compiti di cui al comma 4, lettera a). Esso, inoltre, anche in relazione alla dimensione e ai diversi settori di attivita' degli enti, individua i principali rischi di corruzione e i relativi rimedi e contiene l'indicazione di obiettivi, tempi e modalita' di adozione e attuazione delle misure di contrasto alla corruzione.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Per l'esercizio delle funzioni di cui al comma 2, lettera f), l'Autorita' nazionale anticorruzione esercita poteri ispettivi mediante richiesta di notizie, informazioni, atti e documenti alle pubbliche amministrazioni, e ordina l'adozione di atti o provvedimenti richiesti dai piani di cui ai commi 4 e 5 e dalle regole sulla trasparenza dell'attivita' amministrativa previste dalle disposizioni vigenti, ovvero la rimozione di comportamenti o atti contrastanti con i piani e le regole sulla trasparenza citati.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la lettera c) del comma 4 e' soppressa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 6, e' sostituito dal seguente: «6. I comuni con popolazione inferiore a 15.000 abitanti possono aggregarsi per definire in comune, tramite accordi ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241, il piano triennale per la prevenzione della corruzione, secondo le indicazioni contenute nel Piano nazionale anticorruzione di cui al comma 2-bis. Ai fini della predisposizione del piano triennale per la prevenzione della corruzione, il prefetto, su richiesta, fornisce il necessario supporto tecnico e informativo agli enti locali, anche al fine di assicurare che i piani siano formulati e adottati nel rispetto delle linee guida contenute nel Piano nazionale approvato dalla Commissione.»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comma 7 e' sostituito dal seguente: «7. L'organo di indirizzo individua, di norma tra i dirigenti di ruolo in servizio, il Responsabile della prevenzione della corruzione e della trasparenza, disponendo le eventuali modifiche organizzative necessarie per assicurare funzioni e poteri idonei per lo svolgimento dell'incarico con piena autonomia ed effettivita'. Negli enti locali, il Responsabile della prevenzione della corruzione e della trasparenza e' individuato, di norma, nel segretario o nel dirigente apicale, salva diversa e motivata determinazione. Nelle unioni di comuni, puo' essere nominato un unico responsabile della prevenzione della corruzione e della trasparenza. Il Responsabile della prevenzione della corruzione e della trasparenza segnala all'organo di indirizzo e all'organismo indipendente di valutazione le disfunzioni inerenti all'attuazione delle misure in materia di prevenzione della corruzione e di trasparenza e indica agli uffici competenti all'esercizio dell'azione disciplinare i nominativi dei dipendenti che non hanno attuato correttamente le misure in materia di prevenzione della corruzione e di trasparenza. Eventuali misure discriminatorie, dirette o indirette, nei confronti del Responsabile della prevenzione della corruzione e della trasparenza per motivi collegati, direttamente o indirettamente, allo svolgimento delle sue funzioni devono essere segnalate all'Autorita' nazionale anticorruzione, che puo' chiedere informazioni all'organo di indirizzo e intervenire nelle forme di cui al comma 3, articolo 15, decreto legislativo 8 aprile 2013, n. 39.»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il comma 8 e' sostituito dal seguente: «8. L'organo di indirizzo definisce gli obiettivi strategici in materia di prevenzione della corruzione e trasparenza, che costituiscono contenuto necessario dei documenti di programmazione strategico-gestionale e del Piano triennale per la prevenzione della corruzione. L'organo di indirizzo adotta il Piano triennale per la prevenzione della corruzione su proposta del Responsabile della prevenzione della corruzione e della trasparenza entro il 31 gennaio di ogni anno e ne cura la trasmissione all'Autorita' nazionale anticorruzione. Negli enti locali il piano e' approvato dalla giunta.
+L'attivita' di elaborazione del piano non puo' essere affidata a soggetti estranei all'amministrazione. Il responsabile della prevenzione della corruzione e della trasparenza, entro lo stesso termine, definisce procedure appropriate per selezionare e formare, ai sensi del comma 10, i dipendenti destinati ad operare in settori particolarmente esposti alla corruzione. Le attivita' a rischio di corruzione devono essere svolte, ove possibile, dal personale di cui al comma 11.»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dopo il comma 8 e' inserito il seguente: «8-bis. L'Organismo indipendente di valutazione verifica, anche ai fini della validazione della Relazione sulla performance, che i piani triennali per la prevenzione della corruzione siano coerenti con gli obiettivi stabiliti nei documenti di programmazione strategico-gestionale e che nella misurazione e valutazione delle performance si tenga conto degli obiettivi connessi all'anticorruzione e alla trasparenza. Esso verifica i contenuti della Relazione di cui al comma 14 in rapporto agli obiettivi inerenti alla prevenzione della corruzione e alla trasparenza. A tal fine, l'Organismo medesimo puo' chiedere al Responsabile della prevenzione della corruzione e della trasparenza le informazioni e i documenti necessari per lo svolgimento del controllo e puo' effettuare audizioni di dipendenti. L'Organismo medesimo riferisce all'Autorita' nazionale anticorruzione sullo stato di attuazione delle misure di prevenzione della corruzione e di trasparenza.»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alla lettera a) del comma 9, dopo le parole «di cui al comma 16,» sono inserite le seguenti: «anche ulteriori rispetto a quelle indicate nel Piano nazionale anticorruzione,» e dopo le parole «rischio di corruzione,» sono inserite le seguenti: «e le relative misure di contrasto,»; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    alla lettera d) del comma 9, le parole «monitorare il» sono sostituite dalle seguenti: «definire le modalita' di monitoraggio del»; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    alla lettera e) del comma 9, le parole «monitorare i» sono sostituite dalle seguenti: «definire le modalita' di monitoraggio dei»; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il comma 14 e' sostituito dal seguente: «14. In caso di ripetute violazioni delle misure di prevenzione previste dal Piano, il responsabile individuato ai sensi del comma 7 del presente articolo risponde ai sensi dell'articolo 21 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, nonche', per omesso controllo, sul piano disciplinare, salvo che provi di avere comunicato agli uffici le misure da adottare e le relative modalita' e di avere vigilato sull'osservanza del Piano. La violazione, da parte dei dipendenti dell'amministrazione, delle misure di prevenzione previste dal Piano costituisce illecito disciplinare.
+Entro il 15 dicembre di ogni anno, il dirigente individuato ai sensi del comma 7 del presente articolo trasmette all'organismo indipendente di valutazione e all'organo di indirizzo dell'amministrazione una relazione recante i risultati dell'attivita' svolta e la pubblica nel sito web dell'amministrazione. Nei casi in cui l'organo di indirizzo lo richieda o qualora il dirigente responsabile lo ritenga opportuno, quest'ultimo riferisce sull'attivita'.».
 
 ## - Capo III Disposizioni finali e transitorie
 
@@ -283,6 +934,60 @@ Gli obblighi di pubblicazione di cui all'articolo 9-bis del decreto legislativo 
 Le forme di pubblicita' di cui all'articolo 16, comma 3-bis, del decreto legislativo n. 33 del 2013, inserito dall'articolo 15 del presente decreto, sono dovute anche per i processi di mobilita' di cui all'articolo 1, commi da 421 a 428 della legge 23 dicembre 2014, n. 190.
 
 ## Art. 43. — Abrogazioni
+
+1.
+                        
+                            
+                                Al decreto legislativo n. 33 del 2013 sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 11; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 24; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 25; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 34; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 39, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 42, comma 1, lettera d). 
+ 1. Al decreto del Presidente del Repubblica 7 aprile 2000, n. 118, l'articolo 1 e' abrogato.
 
 Alla legge 27 dicembre 2013, n. 147, la lettera f), del comma 611, e' soppressa.
 

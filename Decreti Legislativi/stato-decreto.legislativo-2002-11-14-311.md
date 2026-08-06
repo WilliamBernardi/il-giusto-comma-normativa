@@ -8,8 +8,8 @@ codice_redazionale: 003G0017
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -47,6 +47,127 @@ Le norme del presente testo unico disciplinano il casellario giudiziale, il case
 
 
 
+1.
+                        
+                            
+                                Nel casellario giudiziale si iscrivono per estratto:
+
+
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti giudiziari penali di condanna definitivi, anche pronunciati da autorita' giudiziarie straniere se riconosciuti ai sensi degli articoli 730 e seguenti del codice di procedura penale, salvo quelli concernenti contravvenzioni per le quali la legge ammette la definizione in via amministrativa, o l'oblazione limitatamente alle ipotesi di cui all'articolo 162 del codice penale, sempre che per quelli esclusi non sia stata concessa la sospensione condizionale della pena;
+                                
+                            
+                            
+                                b)
+                                
+                                    i provvedimenti giudiziari definitivi concernenti le pene, compresa la sospensione condizionale e la non menzione, le misure di sicurezza personali e patrimoniali, gli effetti penali della condanna, l'amnistia, l'indulto, la grazia, la dichiarazione di abitualita', di professionalita' nel reato, di tendenza a delinquere;
+                                
+                            
+                            
+                                c)
+                                
+                                    i provvedimenti giudiziari concernenti le pene accessorie;
+                                
+                            
+                            
+                                d)
+                                
+                                    i provvedimenti giudiziari concernenti le misure alternative alla detenzione;
+                                
+                            
+                            
+                                e)
+                                
+                                    i provvedimenti giudiziari concernenti la liberazione condizionale;
+                                
+                            
+                            
+                                f)
+                                
+                                    i provvedimenti giudiziari definitivi che hanno prosciolto l'imputato o dichiarato non luogo a procedere per difetto di imputabilita', o disposto una misura di sicurezza;
+                                
+                            
+                            
+                                g)
+                                
+                                    i provvedimenti giudiziari definitivi di condanna alle sanzioni sostitutive e i provvedimenti di conversione di cui all'articolo 66, terzo comma, e all'articolo 108, terzo comma, della legge 24 novembre 1981, n. 689;
+                                
+                            
+                            
+                                h)
+                                
+                                    i provvedimenti giudiziari del pubblico ministero previsti dagli articoli 656, comma 5, 657 e 663 del codice di procedura penale;
+                                
+                            
+                            
+                                i)
+                                
+                                    i provvedimenti giudiziari di conversione delle pene pecuniarie;
+                                
+                            
+                            
+                                l)
+                                
+                                    i provvedimenti giudiziari definitivi concernenti le misure di prevenzione della sorveglianza speciale semplice o con divieto o obbligo di soggiorno;
+                                
+                            
+                            
+                                m)
+                                
+                                    i provvedimenti giudiziari concernenti la riabilitazione;
+                                
+                            
+                            
+                                n)
+                                
+                                    i provvedimenti giudiziari di riabilitazione, di cui all'articolo 15 della legge 3 agosto 1988, n. 327;
+                                
+                            
+                            
+                                o)
+                                
+                                    i provvedimenti giudiziari di riabilitazione speciale relativi ai minori, di cui all'articolo 24 del regio decreto-legge 20 luglio 1934, 1404, convertito, con modificazioni, dalla legge 27 maggio 1935, n. 835, e successive modificazioni;
+                                
+                            
+                            
+                                p)
+                                
+                                    i provvedimenti giudiziari definitivi di interdizione e inabilitazione e quelli di revoca;
+                                
+                            
+                            
+                                q)
+                                
+                                    i provvedimenti giudiziari che dichiarano fallito l'imprenditore; quelli di omologazione del concordato fallimentare; quelli di chiusura del fallimento; quelli di riabilitazione del fallito;
+                                
+                            
+                            
+                                r)
+                                
+                                    i provvedimenti giudiziari relativi all'espulsione a titolo di sanzione sostitutiva o alternativa alla detenzione, ai sensi dell'articolo 16 del decreto legislativo 25 luglio 1998, n. 286, come sostituito dall'art. 15 della legge 30 luglio 2002, n. 189;
+                                
+                            
+                            
+                                s)
+                                
+                                    i provvedimenti amministrativi di espulsione e i provvedimenti giudiziari che decidono il ricorso avverso i primi, ai sensi dell'articolo 13 del decreto legislativo 25 luglio 1998, n. 286, come modificato dall'art. 12 della legge 30 luglio 2002, n. 189;
+                                
+                            
+                            
+                                t)
+                                
+                                    i provvedimenti di correzione, a norma di legge, dei provvedimenti gia' iscritti;
+                                
+                            
+                            
+                                u)
+                                
+                                    qualsiasi altro provvedimento che concerne a norma di legge i provvedimenti gia' iscritti, come individuato con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia.
+(art. 686 c.p.p.; art. 194 att. c.p.p; artt. 4 e 14, r.d. n. 778/1931; art. 24, parte del sesto comma, r.d.l. 1404/1934, convertito, con modificazioni, l. n. 835/1935; art. 58-bis, l. n. 354/1975; art. 73, l. n. 689/1981)
+
 ## Art. 4. — Estratto del provvedimento iscrivibile
 
 
@@ -56,6 +177,72 @@ Le norme del presente testo unico disciplinano il casellario giudiziale, il case
 
 
 Le iscrizioni nel casellario giudiziale sono eliminate al compimento dell'ottantesimo anno di eta' o per morte della persona alla quale si riferiscono.
+
+2.
+                        
+                            
+                                Sono, inoltre, eliminate le iscrizioni relative:
+
+
+                            
+                            
+                                a)
+                                
+                                    ai provvedimenti giudiziari revocati a seguito di revisione, o a norma dell'articolo 673 del codice di procedura penale;
+                                
+                            
+                            
+                                b)
+                                
+                                    ai provvedimenti giudiziari dichiarati mancanti o non esecutivi o dei quali e' stata sospesa l'esecuzione o disposta la restituzione nel termine, ai sensi dell'articolo 670 del codice di procedura penale;
+                                
+                            
+                            
+                                c)
+                                
+                                    ai provvedimenti giudiziari di proscioglimento o di non luogo a procedere per difetto di imputabilita', trascorsi dieci anni in caso di delitto o tre anni in caso di contravvenzione dal giorno in cui il provvedimento e' divenuto irrevocabile o, nel caso di non luogo a procedere, dal giorno in cui e' scaduto il termine per l'impugnazione;
+                                
+                            
+                            
+                                d)
+                                
+                                    ai provvedimenti giudiziari di condanna per contravvenzioni per le quali e' stata inflitta la pena dell'ammenda, salvo che sia stato concesso alcuno dei benefici di cui agli articoli 163 e 175 del codice penale, trascorsi dieci anni dal giorno in cui la pena e' stata eseguita ovvero si e' in altro modo estinta;
+                                
+                            
+                            
+                                e)
+                                
+                                    ai provvedimenti giudiziari di proscioglimento per difetto di imputabilita' emessi dal giudice di pace, trascorsi tre anni dal giorno in cui il provvedimento e' divenuto irrevocabile;
+                                
+                            
+                            
+                                f)
+                                
+                                    ai provvedimenti giudiziari di proscioglimento per difetto di imputabilita' relativi ai reati di competenza del giudice di pace, emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati, trascorsi tre anni dal giorno in cui il provvedimento e' divenuto irrevocabile;
+                                
+                            
+                            
+                                g)
+                                
+                                    ai provvedimenti giudiziari di condanna emessi dal giudice di pace, trascorsi cinque anni dal giorno in cui la sanzione e' stata eseguita se e' stata inflitta la pena pecuniaria, o dieci anni se e' stata inflitta una pena diversa, se nei periodi indicati non e' stato commesso un ulteriore reato;
+                                
+                            
+                            
+                                h)
+                                
+                                    ai provvedimenti giudiziari di condanna relativi ai reati di competenza del giudice di pace emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati, trascorsi cinque anni dal giorno in cui la sanzione e' stata eseguita se e' stata inflitta la pena pecuniaria, o dieci anni se e' stata inflitta una pena diversa, se nei periodi indicati non e' stato commesso un ulteriore reato;
+                                
+                            
+                            
+                                i)
+                                
+                                    ai provvedimenti giudiziari con i quali l'imprenditore e' stato dichiarato fallito ed e' stato chiuso il fallimento, quando il fallimento e' revocato con provvedimento definitivo;
+                                
+                            
+                            
+                                l)
+                                
+                                    ai provvedimenti amministrativi di espulsione, quando sono annullati con provvedimento giudiziario o amministrativo definitivo.
 
 Se sono state applicate misure di sicurezza, i termini previsti dal comma 2 decorrono dalla data della revoca della misura di sicurezza e, se questa e' stata applicata o sostituita con provvedimento giudiziario di esecuzione, e' eliminata anche l'iscrizione relativa a quest'ultimo.
 
@@ -68,6 +255,26 @@ art. 15 d.P.R. n. 448/1988; artt. 46 e 63 c. 2, d.lgs. n. 274/2000)
 ## Art. 6. — (L)
  (Provvedimenti iscrivibili)
 
+1.
+                        
+                            
+                                Nel casellario dei carichi pendenti si iscrivono per estratto:
+
+
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti giudiziari di cui all'articolo 60, comma 1, del codice di procedura penale, il provvedimento di revoca della sentenza di non luogo a procedere, il decreto di citazione di cui all'articolo 636, comma 1, del codice di procedura penale, i provvedimenti giudiziari di cui all'articolo 3 del decreto legislativo 28 agosto 2000, n. 274;
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni altro provvedimento giudiziario che decide sull'imputazione, emesso nelle fasi e nei gradi successivi.
+
+(art. 110, c. 1, lett. c), d.lgs. n. 271/1989, e raccordo con l'art. 60, c. 3, c.p.p)
+
 ## Art. 7. — Estratto del provvedimento iscrivibile
 
 
@@ -76,11 +283,57 @@ art. 15 d.P.R. n. 448/1988; artt. 46 e 63 c. 2, d.lgs. n. 274/2000)
 
 
 
+1.
+                        
+                            
+                                Le iscrizioni nel casellario dei carichi pendenti sono eliminate:
+
+
+                            
+                            
+                                a)
+                                
+                                    al compimento dell'ottantesimo anno di eta' o per morte della persona alla quale si riferiscono;
+                                
+                            
+                            
+                                b)
+                                
+                                    alla cessazione della qualita' di imputato ai sensi dell'articolo 60, comma 2, del codice di procedura penale.
+
+(art. 110, c. 1, lett. c), d.lgs. n. 271/1989 ed estensione del principio di cui all'art. 687, c. 1, c.p.p)
+
 ## - Titolo IV Anagrafe delle sanzioni amministrative dipendenti da reato
 
 ## Art. 9. — Provvedimenti iscrivibili
 
 
+
+1.
+                        
+                            
+                                Nell'anagrafe delle sanzioni amministrative dipendenti da reato si iscrivono per estratto:
+
+
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti giudiziari definitivi che applicano agli enti le sanzioni amministrative di cui al decreto legislativo 8 giugno 2001, n. 231;
+                                
+                            
+                            
+                                b)
+                                
+                                    i provvedimenti giudiziari definitivi relativi all'esecuzione delle stesse sanzioni;
+                                
+                            
+                            
+                                c)
+                                
+                                    qualsiasi altro provvedimento che concerne a norma di legge i provvedimenti gia' iscritti, come individuato con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia.
+
+(art. 80, c. 2, d.lgs. n. 231/2001)
 
 ## Art. 10. — Estratto del provvedimento iscrivibile
 
@@ -98,6 +351,26 @@ Le iscrizioni nell'anagrafe delle sanzioni amministrative sono eliminate trascor
 ## Art. 12. — Provvedimenti iscrivibili
 
 
+
+1.
+                        
+                            
+                                Nell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato si iscrivono per estratto:
+
+
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti giudiziari con i quali viene contestato all'ente l'illecito amministrativo dipendente da reato;
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni altro provvedimento giudiziario che decide sulla contestazione dell'illecito amministrativo emesso nelle fasi e nei gradi successivi.
+
+(art. 110, c. 1, lett. c), d.lgs. n. 271/1989, e raccordo con gli artt. 36 e 59 d.lgs. n. 231/2001)
 
 ## Art. 13. — Estratto del provvedimento iscrivibile
 
@@ -166,6 +439,84 @@ L'interessato ha il diritto di ottenere il certificato generale, il certificato 
 (Certificato generale del casellario giudiziale richiesto
  dall'interessato)
 
+1.
+                        
+                            
+                                Nel certificato generale sono riportate le iscrizioni esistenti nel casellario giudiziale ad eccezione di quelle relative:
+
+
+                            
+                            
+                                a)
+                                
+                                    alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'articolo 175 del codice penale, purche' il beneficio non sia stato revocato;
+                                
+                            
+                            
+                                b)
+                                
+                                    alle condanne per contravvenzioni punibili con la sola ammenda e alle condanne per reati estinti a norma dell'articolo 167, primo comma, del codice penale;
+                                
+                            
+                            
+                                c)
+                                
+                                    alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'articolo 556 del codice penale;
+                                
+                            
+                            
+                                d)
+                                
+                                    alle condanne in relazione alle quali e' stata definitivamente applicata l'amnistia e a quelle per le quali e' stata dichiarata la riabilitazione, senza che questa sia stata in seguito revocata;
+                                
+                            
+                            
+                                e)
+                                
+                                    ai provvedimenti previsti dall'articolo 445 del codice di procedura penale e ai decreti penali;
+                                
+                            
+                            
+                                f)
+                                
+                                    alle condanne per fatti che la legge ha cessato di considerare come reati, quando la relativa iscrizione non e' stata eliminata;
+                                
+                            
+                            
+                                g)
+                                
+                                    ai provvedimenti riguardanti misure di sicurezza conseguenti a sentenze di proscioglimento o di non luogo a procedere, quando le misure sono state revocate;
+                                
+                            
+                            
+                                h)
+                                
+                                    ai provvedimenti che riguardano l'applicazione delle misure di prevenzione della sorveglianza speciale semplice o con divieto o obbligo di soggiorno;
+                                
+                            
+                            
+                                i)
+                                
+                                    ai provvedimenti giudiziari emessi dal giudice di pace;
+                                
+                            
+                            
+                                l)
+                                
+                                    ai provvedimenti giudiziari relativi ai reati di competenza del giudice di pace emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati;
+                                
+                            
+                            
+                                m)
+                                
+                                    ai provvedimenti di interdizione e di inabilitazione, quando e' stata revocata;
+                                
+                            
+                            
+                                n)
+                                
+                                    ai provvedimenti concernenti il fallimento, quando il fallito e' stato riabilitato con sentenza definitiva.
+
 Se e' stata dichiarata la riabilitazione speciale ai sensi dell'articolo 24 del regio decreto-legge 20 luglio 1934, n. 1404, convertito, con modificazioni, dalla legge 27 maggio 1935, n. 835, e successive modificazioni, non e' riportata alcuna iscrizione relativa al minore.
  (art. 689 c.p.p, 194, c. 2, att. c.p.p.; artt. 45 e 63, c. 2, d.lgs. n. 274/2000; art. 24, settimo comma, r.d.l. n. 1404/1934, convertito, con modificazioni, dalla l. n. 835/1935)
 
@@ -173,6 +524,90 @@ Se e' stata dichiarata la riabilitazione speciale ai sensi dell'articolo 24 del 
 
 (Certificato penale del casellario giudiziale richiesto
  dall'interessato)
+
+1.
+                        
+                            
+                                Nel certificato penale sono riportate le iscrizioni esistenti nel casellario giudiziale ad eccezione di quelle relative:
+
+
+                            
+                            
+                                a)
+                                
+                                    alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'articolo 175 del codice penale, purche' il beneficio non sia stato revocato;
+                                
+                            
+                            
+                                b)
+                                
+                                    alle condanne per contravvenzioni punibili con la sola ammenda e alle condanne per reati estinti a norma dell'articolo 167, primo comma, del codice penale;
+                                
+                            
+                            
+                                c)
+                                
+                                    alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'articolo 556 del codice penale;
+                                
+                            
+                            
+                                d)
+                                
+                                    alle condanne in relazione alle quali e' stata definitivamente applicata l'amnistia e a quelle per le quali e' stata dichiarata la riabilitazione, senza che questa sia stata in seguito revocata;
+                                
+                            
+                            
+                                e)
+                                
+                                    ai provvedimenti previsti dall'articolo 445 del codice di procedura penale e ai decreti penali;
+                                
+                            
+                            
+                                f)
+                                
+                                    alle condanne per fatti che la legge ha cessato di considerare come reati, quando la relativa iscrizione non e' stata eliminata;
+                                
+                            
+                            
+                                g)
+                                
+                                    ai provvedimenti riguardanti misure di sicurezza conseguenti a sentenze di proscioglimento o di non luogo a procedere, quando le misure sono state revocate;
+                                
+                            
+                            
+                                h)
+                                
+                                    ai provvedimenti che riguardano l'applicazione delle misure di prevenzione della sorveglianza speciale semplice o con divieto o obbligo di soggiorno;
+                                
+                            
+                            
+                                i)
+                                
+                                    ai provvedimenti giudiziari emessi dal giudice di pace;
+                                
+                            
+                            
+                                l)
+                                
+                                    ai provvedimenti giudiziari relativi ai reati di competenza del giudice di pace emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati;
+                                
+                            
+                            
+                                m)
+                                
+                                    ai provvedimenti giudiziari definitivi di interdizione e inabilitazione e quelli di revoca;
+                                
+                            
+                            
+                                n)
+                                
+                                    ai provvedimenti giudiziari che dichiarano fallito l'imprenditore; a quelli di omologazione del concordato fallimentare; a quelli di chiusura del fallimento; a quelli di riabilitazione del fallito;
+                                
+                            
+                            
+                                o)
+                                
+                                    ai provvedimenti amministrativi di espulsione e ai provvedimenti giudiziari che decidono il ricorso avverso i primi, ai sensi dell'articolo 13 del decreto legislativo 25 luglio 1998, n. 286, come modificato dall'art. 12 della legge 30 luglio 2002, n. 189.
 
 Se e' stata dichiarata la riabilitazione speciale ai sensi dell'articolo 24 del regio decreto-legge 20 luglio 1934, n. 1404, convertito, con modificazioni, dalla legge 27 maggio 1935, n. 835, e successive modificazioni, non e' riportata alcuna iscrizione relativa al minore.
  (art. 689 c.p.p, 194, c. 2, att. c.p.p.; artt. 45 e 63, c. 2, d.lgs. n. 274/2000; art. 24, settimo comma, r.d.l. n. 1404/1934, convertito, con modificazioni, dalla l. n. 835/1935)
@@ -182,12 +617,88 @@ Se e' stata dichiarata la riabilitazione speciale ai sensi dell'articolo 24 del 
 (Certificato civile del casellario giudiziale richiesto
  dall'interessato)
 
+1.
+                        
+                            
+                                Nel certificato civile sono riportate le iscrizioni esistenti nel casellario giudiziale relative:
+
+
+                            
+                            
+                                a)
+                                
+                                    ai provvedimenti giudiziari definitivi di interdizione e inabilitazione, salvo che siano stati revocati;
+                                
+                            
+                            
+                                b)
+                                
+                                    ai provvedimenti concernenti il fallimento, salvo che il fallito sia stato riabilitato con sentenza definitiva;
+                                
+                            
+                            
+                                c)
+                                
+                                    ai provvedimenti amministrativi di espulsione e ai provvedimenti giudiziari che decidono il ricorso avverso i primi, ai sensi dell'articolo 13 del decreto legislativo 25 luglio 1998, n. 286, come modificato dall'art. 12 della legge 30 luglio 2002, n. 189;
+                                
+                            
+                            
+                                d)
+                                
+                                    ai provvedimenti concernenti le pene accessorie portanti limitazioni alla capacita' del condannato.
+
+(art. 689 c.p.p.)
+
 ## Art. 27.
 
 (Certificato del casellario dei carichi pendenti richiesto
  dall'interessato)
 
 L'interessato ha il diritto di ottenere il certificato senza motivare la richiesta.
+
+2.
+                        
+                            
+                                Nel certificato sono riportate le iscrizioni esistenti nel casellario dei carichi pendenti ad accezione di quelle relative:
+
+
+                            
+                            
+                                a)
+                                
+                                    alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'articolo 175 del codice penale, purche' il beneficio non sia stato revocato;
+                                
+                            
+                            
+                                b)
+                                
+                                    alle condanne per contravvenzioni punibili con la sola ammenda;
+                                
+                            
+                            
+                                c)
+                                
+                                    alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'articolo 556 del codice penale;
+                                
+                            
+                            
+                                d)
+                                
+                                    ai provvedimenti previsti dall'articolo 445 del codice di procedura penale e ai decreti penali;
+                                
+                            
+                            
+                                e)
+                                
+                                    ai provvedimenti giudiziari emessi dal giudice di pace;
+                                
+                            
+                            
+                                f)
+                                
+                                    ai provvedimenti giudiziari relativi ai reati di competenza del giudice di pace emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati.
+
+(estensione dell'art. 689, c. 1, e parte del c. 2, c.p.p.; art. 21 d.m. 6 aprile 2001, n. 204)
 
 ## Art. 28. — Certificato richiesto dalle amministrazioni pubbliche e dai gestori di pubblici servizi
 

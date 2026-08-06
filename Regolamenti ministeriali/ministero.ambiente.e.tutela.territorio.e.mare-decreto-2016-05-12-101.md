@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2016-05-12;10
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,9 +46,80 @@ Oggetto, finalita' e ambito di applicazione
 
 Il presente regolamento disciplina le modalita' di raccolta, di smaltimento e di distruzione dei prodotti esplodenti, compresi quelli scaduti, e dei rifiuti prodotti dall'accensione di pirotecnici di qualsiasi specie, ivi compresi quelli per le esigenze di soccorso. Le predette attivita' sono condotte nel rispetto delle norme in materia ambientale, di tutela della salute e dell' incolumita' pubblica e di sicurezza sul lavoro.
 
+2.
+                    
+                        
+                            Le disposizioni del presente regolamento non si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                agli articoli pirotecnici destinati ad essere utilizzati dalle forze armate, dalle forze di polizia e dai vigili del fuoco; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli articoli pirotecnici da impiegarsi nell'industria aeronautica e spaziale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle capsule a percussione da utilizzarsi specificatamente nei giocattoli che rientrano nel campo di applicazione del decreto legislativo 11 aprile 2011, n. 54; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                agli esplosivi che rientrano nel campo di applicazione del decreto legislativo 2 gennaio 1997, n. 7; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alle munizioni.
+
 Ai residui inerti generati dall'accensione di fuochi di artificio all'interno dei nuclei domestici e quelli giacenti su strade e aree pubbliche o private comunque soggette ad uso pubblico, inclusi i litorali costieri, si applica la disciplina dei rifiuti urbani di cui alla parte IV del decreto legislativo 3 aprile 2006, n. 152.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si applicano le definizioni di cui all'articolo 183, comma 1, del decreto legislativo 3 aprile 2006, n. 152, quelle di cui all'articolo 2 del decreto legislativo 29 luglio 2015, n. 123, nonche' le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «articolo pirotecnico per esigenze di soccorso»: articolo pirotecnico destinato alla richiesta ed alla segnalazione di soccorso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «utilizzatore»: chiunque utilizzi gli articoli pirotecnici compresi quelli per esigenze di soccorso di cui alla lettera a) del presente articolo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «rifiuti da pirotecnici»: i rifiuti derivanti dall'utilizzo degli articoli pirotecnici che possono contenere quantita' residue di sostanze esplosive in grado di causare danni alle persone e all'ambiente, nonche' le stesse sostanze esplosive che residuano dall'utilizzo degli articoli pirotecnici. Sono considerati rifiuti da pirotecnici, ai fini della raccolta, del trasporto e dello smaltimento, gli articoli pirotecnici scaduti, in disuso o comunque non piu' suscettibili di ulteriore uso per le finalita' cui sono destinati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «residui inerti»: gli articoli pirotecnici non di uso professionale che siano stati esplosi secondo le prescrizioni indicate nell'etichetta.
 
 ## Art. 3. — Obblighi dell'utilizzatore di articoli pirotecnici
 
@@ -73,6 +144,45 @@ Il fabbricante e l'importatore degli articoli pirotecnici assicurano, con oneri 
  effettuato presso i distributori
 
 Gli articoli pirotecnici inutilizzati, scaduti o restituiti dall'utilizzatore e i rifiuti da pirotecnici ritirati, nel rispetto di quanto previsto dall'articolo 4 del presente regolamento, sono depositati all'interno di contenitori idonei a conservarne l'integrita' anche durante le fasi del successivo trasporto presso gli impianti di smaltimento. Gli articoli pirotecnici scaduti sono conservati in contenitori separati, all'uopo contrassegnati.
+
+2.
+                    
+                        
+                            Il deposito preliminare alla raccolta allestito dal distributore presso il punto vendita deve essere conforme alle disposizioni del decreto del Ministero dell'interno 9 agosto 2011, pubblicato nella Gazzetta Ufficiale - Serie generale del 26 agosto 2011, n. 198, e presentare le seguenti caratteristiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                non deve essere accessibile da parte di soggetti terzi non autorizzati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere pavimentato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                deve essere coperto e protetto dall'azione delle acque meteoriche e del vento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                essere allestito in modo tale da assicurare che gli articoli pirotecnici comunque ritirati siano separati dalle altre tipologie di rifiuti da pirotecnici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                essere allestito in modo da assicurare l'integrita' degli articoli pirotecnici adottando tutte le precauzioni necessarie ad evitare il loro deterioramento e la fuoriuscita di sostanze pericolose.
 
 Il deposito preliminare alla raccolta dei rifiuti da pirotecnici e' effettuato in condizioni di sicurezza, non deve creare rischi per l'acqua, l'aria, il suolo, la fauna, la flora o inconvenienti da rumori o odori, ne' danneggiare il paesaggio e i beni paesaggistici di cui al Codice dei beni culturali e del paesaggio;
 

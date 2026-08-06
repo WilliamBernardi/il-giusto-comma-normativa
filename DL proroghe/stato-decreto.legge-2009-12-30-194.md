@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2023-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -28,6 +28,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per i ra
 
 Le attivita' finanziarie e patrimoniali detenute all'estero a partire da una data non successiva al 31 dicembre 2008 possono essere rimpatriate o regolarizzate, ai sensi dell'articolo 13-bis del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, e successive modificazioni, fino al 30 aprile 2010.
 
+2.
+                    
+                        
+                            Per le operazioni di rimpatrio ovvero di regolarizzazione perfezionate successivamente al 15 dicembre 2009 l'imposta di cui all'articolo 13-bis del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, e successive modificazioni, si applica, secondo quanto stabilito dal comma 2 del medesimo articolo 13-bis: 
+ 
+                        
+                        
+                            a)
+                            
+                                con un'aliquota sintetica del 60 per cento per le operazioni di rimpatrio o di regolarizzazione perfezionate entro il 28 febbraio 2010; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con un'aliquota sintetica del 70 per cento per le operazioni di rimpatrio o di regolarizzazione perfezionate dal 1° marzo 2010 al 30 aprile 2010.
+
 Entro il 15 giugno 2010, il Ministro dell'economia e delle finanze comunica al Parlamento, con apposito documento, dati statistici relativi al numero delle operazioni di rimpatrio ovvero di regolarizzazione perfezionate alla data del 15 dicembre 2009, del 28 febbraio 2010 e del 30 aprile 2010, suddivise per volumi d'importo, al numero dei soggetti coinvolti, con indicazione dei Paesi di provenienza delle richieste di rimpatrio e regolarizzazione, e l'ammontare complessivo delle attivita' finanziarie e patrimoniali rimpatriate, distinte per rimpatrio o regolarizzazione.
 
 All'articolo 12 del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, e successive modificazioni, dopo il comma 2 sono inseriti i seguenti: 
@@ -35,6 +53,24 @@ All'articolo 12 del decreto-legge 1° luglio 2009, n. 78, convertito, con modifi
  2-ter. Per le violazioni di cui ai commi 1, 2 e 3 dell'articolo 4 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, e successive modificazioni, riferite agli investimenti e alle attivita' di natura finanziaria di cui al comma 2, i termini di cui all'articolo 20 del decreto legislativo 18 dicembre 1997, n. 472, sono raddoppiati.".
 
 Al fine di tener conto degli effetti della crisi economica e dei mercati, in deroga all'articolo 1, comma 1, secondo periodo, del regolamento di cui al decreto del Presidente della Repubblica 31 maggio 1999, n. 195, per gli anni 2009 e 2010 il termine entro il quale gli studi di settore devono essere pubblicati nella Gazzetta Ufficiale e' fissato rispettivamente al 31 marzo 2010 ed al 31 marzo 2011.
+
+4-bis.
+                    
+                        
+                            All'articolo 182 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1-bis, lettera a), le parole: "di entrata in vigore del decreto del Ministro 24 ottobre 2001, n. 420" sono sostituite dalle seguenti: "del 31 luglio 2009"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1-quinquies, lettera c), le parole: "1° maggio 2004" sono sostituite dalle seguenti: "31 luglio 2009".
 
 Il termine in materia di accesso ai servizi erogati in rete dalle pubbliche amministrazioni, con strumenti diversi dalla carta d'identita' elettronica e dalla carta nazionale dei servizi, di cui all'articolo 64, comma 3, del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e' prorogato al 31 dicembre 2010.
 
@@ -88,11 +124,61 @@ Le quote che risultano accantonate al 31 dicembre 2009 ai sensi dell'articolo 1,
 
 Ai fini della partecipazione alle trattative per i rinnovi dei contratti collettivi di lavoro relativi agli anni 2010-2012, si fa riferimento alla rappresentativita' delle confederazioni e delle organizzazioni sindacali accertata in base ai dati certificati per il biennio contrattuale 2008-2009. Conseguentemente, ai soli fini della verifica della sussistenza delle condizioni previste dall'articolo 43, comma 3, del decreto legislativo 30 marzo 2001, n. 165, per la sottoscrizione dei contratti, la media tra dato associativo e dato elettorale e' rideterminata nei nuovi comparti ed aree di contrattazione sulla base dei dati certificati per il biennio contrattuale 2008-2009.
 
+20-ter.
+                    
+                        
+                            All'articolo 65, comma 3, del decreto legislativo 27 ottobre 2009, n. 150, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo periodo, le parole da: ", ai sensi dell'articolo 43" fino alla fine del periodo sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo periodo, la parola: "Conseguentemente," e' soppressa.
+
 Al comma 5 dell'articolo 24 della legge 5 maggio 2009, n. 42, le parole: "Con specifico decreto legislativo, adottato", sono sostituite dalle seguenti: "Con uno o piu' decreti legislativi, adottati".
 
 Le somme ancora disponibili al 31 dicembre 2009 sul Fondo per la tutela dell'ambiente e la promozione dello sviluppo del territorio, di cui all'articolo 13, comma 3-quater, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, sono conservate in bilancio per essere utilizzate nell'anno 2010.
 
 Alla compensazione dei conseguenti effetti finanziari sui saldi di finanza pubblica recati dal comma 22, si provvede mediante corrispondente utilizzo, valutato in 29 milioni di euro per l'anno 2010 e 14 milioni di euro per l'anno 2011, del fondo di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189.
+
+23-bis.
+                    
+                        
+                            All'articolo 2, comma 222, della legge 23 dicembre 2009, n. 191, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al secondo periodo, la parola: "gennaio" e' sostituita dalla seguente: "marzo"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al quarto periodo sono premesse le seguenti parole: "A decorrere dal 1° gennaio 2011,"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al decimo periodo sono premesse le seguenti parole: "A decorrere dal 1° gennaio 2010," e le parole: "entro il 31 dicembre di ciascun anno" sono sostituite dalla seguente: "semestralmente"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il decimo periodo e' inserito il seguente: "Gli stanziamenti alle singole amministrazioni per gli interventi di manutenzione ordinaria e straordinaria, a decorrere dall'esercizio finanziario 2011, non potranno eccedere gli importi spesi e comunicati all'Agenzia del demanio, fermi restando i limiti stabiliti dall'articolo 2, comma 618, della legge 24 dicembre 2007, n. 244".
 
 Per consentire la prosecuzione dei relativi interventi, nell'Elenco 1 allegato alla legge 23 dicembre 2009, n. 191, nella colonna "Intervento", dopo la voce: "legge 31 gennaio 1994, n. 93" sono inserite le seguenti: 
  "legge 21 marzo 2001, n. 73; 
@@ -101,6 +187,31 @@ Per consentire la prosecuzione dei relativi interventi, nell'Elenco 1 allegato a
  legge 15 luglio 2003, n. 189, e relativo decreto del Presidente del Consiglio dei ministri 8 aprile 2004, pubblicato nella Gazzetta Ufficiale n. 103 del 4 maggio 2004".
 
 Il termine per il versamento all'INPDAP delle differenze contributive a qualunque titolo dovute dalle amministrazioni di cui alle leggi 10 ottobre 1990, n. 287, 14 novembre 1995, n. 481, e 31 luglio 1997, n. 249, rispetto a quanto precedentemente versato all'INPS, e' prorogato al 1° luglio 2010, senza applicazione di interessi o sanzioni per il periodo pregresso. Ciascuna amministrazione provvede al predetto pagamento senza oneri a carico della finanza pubblica e del personale dipendente.
+
+23-quinquies.
+                    
+                        
+                            Al fine di assicurare l'adeguamento alle corrispondenti norme comunitarie nei termini da queste stabiliti, a decorrere dal 1° marzo 2010, nel testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504, alla Tabella A, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 12, alla voce: "gasolio", le parole: "euro 302,00" sono sostituite dalle seguenti: "euro 330,00"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 13, alla voce: "gasolio", le parole: "euro 302,00" sono sostituite dalle seguenti: "euro 330,00"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al punto 16-bis, alla voce: "Carburanti per motori", le parole: "Gasolio euro 302,00 per 1.000 litri" sono sostituite dalle seguenti: "Gasolio euro 330,00 per 1.000 litri".
 
 Lo stanziamento di cui all'articolo 1, comma 181, della legge 24 dicembre 2007, n. 244, e' incrementato di 4.100.000 euro per l'anno 2010 e di 5.000.000 di euro a decorrere dall'anno 2011.
 
@@ -118,12 +229,76 @@ All'articolo 12, comma 3, della legge 12 giugno 1990, n. 146, le parole: "per un
 
 Ai membri della Commissione sul diritto di sciopero di cui all'articolo 12 della legge 12 giugno 1990, n. 146, in carica alla data di entrata in vigore della legge di conversione del presente decreto, si applica il termine di durata in carica disposto ai sensi del comma 23-duodecies del presente articolo con decorrenza dalla stessa data.
 
+23-quaterdecies.
+                    
+                        
+                            Al fine di assicurare la pronta definizione delle procedure di riparto delle somme relative al 5 per mille inerenti agli anni finanziari 2006, 2007 e 2008, sono prorogati al 30 aprile 2010: 
+ 
+                        
+                        
+                            a)
+                            
+                                il termine per l'integrazione documentale delle domande regolarmente presentate dai soggetti interessati ai sensi dell'articolo 1 del decreto del Presidente del Consiglio dei Ministri 20 gennaio 2006, dell'articolo 1 del decreto del Presidente del Consiglio dei Ministri 16 marzo 2007 e dell'articolo 1 del decreto del Presidente del Consiglio dei Ministri 19 marzo 2008, pubblicati, rispettivamente, nella Gazzetta Ufficiale n. 22 del 27 gennaio 2006, n. 127 del 4 giugno 2007 e n. 128 del 3 giugno 2008; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il termine per la presentazione delle dichiarazioni sostitutive, ai sensi dell'articolo 5, commi 1, 2 e 3, del decreto del Ministro dell'economia e delle finanze 2 aprile 2009, pubblicato nella Gazzetta Ufficiale n. 88 del 16 aprile 2009, per le associazioni sportive dilettantistiche riconosciute ai fini sportivi dal CONI, individuate dal medesimo decreto del Ministro dell'economia e delle finanze 2 aprile 2009, come modificato dal decreto del Ministro dell'economia e delle finanze 16 aprile 2009, pubblicato nella Gazzetta Ufficiale n. 100 del 2 maggio 2009.
+
 Fino al 31 dicembre 2010 si applica la disciplina previgente all'articolo 2, comma 212, lettera b), numero 2), della legge 23 dicembre 2009, n. 191, per la parte relativa alle controversie in materia di lavoro dinanzi alla Corte di cassazione.
 Agli oneri derivanti dall'attuazione della presente disposizione, valutati in euro 800.000 per l'anno 2010, si provvede mediante riduzione delle risorse di cui all'ultima voce dell'Elenco 1 di cui all'articolo 2, comma 250, della legge 23 dicembre 2009, n. 191, intendendosi corrispondentemente ridotto lo stanziamento da destinare a favore del Ministero della giustizia.
 
 All'articolo 1, comma 17, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286, sono aggiunte, in fine, le seguenti parole: "e, fino al 31 dicembre 2011, per le esigenze di documentazione, di studio e di ricerca connesse al completo svolgimento delle attivita' indicate nella legge 5 maggio 2009, n. 42, e nella legge 31 dicembre 2009, n. 196".
 
 All'articolo 2, comma 98, della legge 23 dicembre 2009, n. 191, dopo le parole: "fino al 31 dicembre 2005" sono inserite le seguenti: "anche a seguito di accertamenti in sede contenziosa, con contestuale estinzione entro il 31 maggio 2010 dei relativi procedimenti pendenti".
+
+23-octiesdecies.
+                    
+                        
+                            Fino al 31 marzo 2010 e' prorogato il termine per l'adozione delle occorrenti disposizioni al fine di consentire: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'integrazione di 8.000.000 di euro a favore del fondo per la protezione civile, di cui all'articolo 6, comma 1, del decreto-legge 3 maggio 1991, n. 142, convertito, con modificazioni, dalla legge 3 luglio 1991, n. 195, per la tempestiva adozione delle misure occorrenti a fronteggiare gli stati emergenziali dell'ultimo anno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la prosecuzione della partecipazione del CONI nonche' del Comitato italiano paraolimpico agli eventi previsti dall'articolo 7-quinquies, comma 1, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, autorizzando conseguentemente la spesa per l'anno 2010 rispettivamente di 11.000.000 di euro e di 3.200.000 euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il trasferimento al Centro di formazione studi (Formez) di cui al decreto legislativo 30 luglio 1999, n. 285, delle occorrenti risorse, pari a 1.200.000 euro per l'anno 2010, per la prosecuzione delle relative attivita' di formazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fino al 31 dicembre 2011 l'applicazione delle disposizioni di cui all'articolo 1, comma 213-bis, secondo periodo, della legge 23 dicembre 2005, n. 266, anche ai dirigenti dei Servizi ispettivi del Ministero dell'economia e delle finanze, autorizzando conseguentemente la spesa di 70.000 euro per ciascuno degli anni 2010 e 2011; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                che fino all'avvio del funzionamento dell'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA), istituita ai sensi dell'articolo 37 della legge 23 luglio 2009, n. 99, e comunque fino al 31 dicembre 2010, al fine di garantire il controllo sulla ordinaria amministrazione e sullo svolgimento delle attivita' istituzionali, il collegio dei revisori dei conti gia' operante in seno all'Ente per le nuove tecnologie, l'energia e l'ambiente - ENEA, soppresso ai sensi del medesimo articolo 37, continui a esercitare le sue funzioni fino alla nomina del nuovo organo di controllo dell'Agenzia; (6) (7) 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'incremento di 7.200.000 euro per l'anno 2010 dell'autorizzazione di spesa di cui all'articolo 70, comma 2, del decreto legislativo 30 luglio 1999, n. 300, come determinata dalla Tabella C allegata alla legge 23 dicembre 2009, n. 191.
 
 All'onere derivante dal comma 23-octiesdecies, pari a 30.670.000 euro per l'anno 2010 e a 70.000 euro per l'anno 2011, si provvede, quanto a 30.600.000 euro per l'anno 2010, mediante riduzione del Fondo di riserva per le autorizzazioni di spesa delle leggi permanenti di natura corrente e, quanto a 70.000 euro per ciascuno degli anni 2010 e 2011, mediante corrispondente riduzione della dotazione del Fondo per interventi strutturali di politica economica di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
 
@@ -159,9 +334,45 @@ Il termine del 31 marzo 2010 di cui all'articolo 3, comma 3-bis, del decreto-leg
 
 All'onere derivante dalla disposizione di cui al comma 6, pari a 204.000 euro per l'anno 2010, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 5, comma 3-ter, del decreto-legge 1° ottobre 2005, n. 202, convertito, con modificazioni, dalla legge 30 novembre 2005, n. 244, e successive modificazioni.
 
+7-bis.
+                    
+                        
+                            All'articolo 74 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, alinea, le parole: " ivi inclusa la Presidenza del Consiglio dei Ministri, " sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, il terzo periodo e' sostituito dal seguente: " In considerazione delle esigenze generali di compatibilita' nonche' degli assetti istituzionali, la Presidenza del Consiglio dei Ministri assicura il conseguimento delle economie, corrispondenti a una riduzione degli organici dirigenziali pari al 7 per cento della dotazione di livello dirigenziale generale e al 15 per cento di quella di livello non generale, con l'adozione di provvedimenti specifici del Presidente del Consiglio dei Ministri ai sensi del decreto legislativo 30 luglio 1999, n. 303, e successive modificazioni, che tengono comunque conto dei criteri e dei principi di cui al presente articolo".
+
 All'onere conseguente al minor risparmio derivante dalle disposizioni di cui al comma 7-bis, quantificato in 2 milioni di euro, si provvede mediante soppressione dell'autorizzazione di spesa, di pari importo, di cui all'articolo 1, comma 724, della legge 27 dicembre 2006, n. 296, e all'articolo 26, comma 6, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133.
 
 All'articolo 5, comma 1, del decreto-legge 30 dicembre 2008, n. 207, convertito, con modificazioni, dalla legge 27 febbraio 2009, n. 14, le parole: "31 dicembre 2009" sono sostituite dalle seguenti: "31 dicembre 2010".
+
+8-bis.
+                    
+                        
+                            In considerazione di quanto previsto al comma 8, le amministrazioni indicate nell'articolo 74, comma 1, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni, all'esito della riduzione degli assetti organizzativi prevista dal predetto articolo 74, provvedono, anche con le modalita' indicate nell'articolo 41, comma 10, del decreto-legge 30 dicembre 2008, n. 207, convertito, con modificazioni, dalla legge 27 febbraio 2009, n. 14: 
+ 
+                        
+                        
+                            a)
+                            
+                                ad apportare, entro il 30 giugno 2010, un'ulteriore riduzione degli uffici dirigenziali di livello non generale, e delle relative dotazioni organiche, in misura non inferiore al 10 per cento di quelli risultanti a seguito dell'applicazione del predetto articolo 74; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla rideterminazione delle dotazioni organiche del personale non dirigenziale, ad esclusione di quelle degli enti di ricerca, apportando una ulteriore riduzione non inferiore al 10 per cento della spesa complessiva relativa al numero dei posti di organico di tale personale risultante a seguito dell'applicazione del predetto articolo 74.
 
 Per la Presidenza del Consiglio dei Ministri si provvede con le modalita' indicate al citato articolo 74, comma 4, terzo periodo, del decreto-legge n. 112 del 2008.
 
@@ -250,10 +461,60 @@ All'articolo 29, comma 1-quinquiesdecies, lettera a), del decreto-legge 30 dicem
 
 Al comma 1 dell'articolo 26 del decreto-legge 30 dicembre 2008, n. 207, convertito, con modificazioni dalla legge 27 febbraio 2009, n. 14, e successive modificazioni, le parole: "Entro il termine di cui al primo periodo" sono sostituite dalle seguenti: "Entro il 31 dicembre 2010".
 
+6.
+                    
+                        
+                            All'articolo 21-bis, comma 1, del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "31 dicembre 2009" sono sostituite dalle seguenti: "31 dicembre 2010"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' aggiunto, in fine, il seguente periodo: "L'aggiornamento della misura dei diritti decade qualora i concessionari non presentino completa istanza di stipula del contratto di programma entro il medesimo termine del 31 dicembre 2010.".
+
 All'articolo 3, comma 1, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, le parole: "31 dicembre 2009" sono sostituite dalle seguenti: "31 dicembre 2010"; conseguentemente, al medesimo comma, dopo le parole: "meccanismi automatici," sono inserite le seguenti: "con esclusione della regolazione tariffaria dei servizi aeroportuali offerti in regime di esclusiva, nonche' dei servizi di trasporto ferroviario sottoposti a regime di obbligo di servizio pubblico, nonche' delle tariffe postali agevolate,".
 
 All'articolo 1, comma 1, del decreto-legge 20 ottobre 2008, n. 
 158, convertito, con modificazioni, dalla legge 18 dicembre 2008, n. 199, in materia di finita locazione di immobili ad uso abitativo, le parole: "al 31 dicembre 2009" sono sostituite dalle seguenti: "al 31 dicembre 2010". Alle minori entrate derivanti dall'attuazione del presente comma, valutate in 5,78 milioni di euro per l'anno 2011, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, relativa al Fondo per interventi strutturali di politica economica.
+
+7-ter.
+                    
+                        
+                            All'articolo 9 del decreto legislativo 21 novembre 2005, n. 285, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "31 dicembre 2010" sono sostituite dalle seguenti: "31 dicembre 2013"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "31 dicembre 2010" sono sostituite dalle seguenti: "31 dicembre 2013" e le parole: "1° gennaio 2011" sono sostituite dalle seguenti: "1° gennaio 2014"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, le parole: "31 dicembre 2010" sono sostituite dalle seguenti: "31 dicembre 2013"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, le parole: "1° gennaio 2011" sono sostituite dalle seguenti: "1° gennaio 2014".
 
 La durata in carica del commissario delegato di cui al comma 3 dell'articolo 22-sexies del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31, e' prorogata al 31 dicembre 2010. Al relativo onere, pari a 140.000 euro per l'anno 2010, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 983, della legge 27 dicembre 2006, n. 296.
 
@@ -403,6 +664,24 @@ Gli incarichi di Direttore di Istituto di cultura all'estero di cui all'articolo
 ## Art. 10-bis. — Termini in materia di "taglia-enti" e di "taglia-leggi"
 
 L'articolo 26, comma 1, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, in materia di procedimento "taglia-enti", si interpreta nel senso che l'effetto soppressivo previsto dal secondo periodo concerne gli enti pubblici non economici con dotazione organica pari o superiore alle 50 unita', con esclusione degli enti gia' espressamente esclusi dal primo periodo del comma 1 ((nonche' di quelli comunque non inclusi nel conto economico consolidato della pubblica amministrazione, come individuati dall'Istituto nazionale di statistica (ISTAT) ai sensi del comma 3 dell'articolo 1 della legge 31 dicembre 2009, n. 196)).
+
+2.
+                    
+                        
+                            All'articolo 26, comma 1, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, in materia di procedimento "taglia-enti", sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il secondo periodo e' inserito il seguente: "Gli enti confermati ai sensi del primo periodo possono essere oggetto di regolamenti di riordino di enti ed organismi pubblici statali, di cui al comma 634 dell'articolo 2 della legge 24 dicembre 2007, n. 244";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il terzo periodo e' inserito il seguente: "Sono soppressi gli enti pubblici non economici di cui al secondo periodo i cui regolamenti di riordino, approvati in via preliminare entro il 31 ottobre 2009, non siano stati adottati in via definitiva entro il 31 ottobre 2010, con esclusione di quelli che formano oggetto di apposite previsioni legislative di riordino entrate in vigore nel corso della XVI legislatura".
 
 All'articolo 2, comma 635, della legge 24 dicembre 2007, n. 244, il terzo periodo e' soppresso.
 

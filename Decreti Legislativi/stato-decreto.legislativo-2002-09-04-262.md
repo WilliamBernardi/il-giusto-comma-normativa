@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-05-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,9 +28,154 @@ Il presente decreto disciplina i valori di emissione acustica, le procedure di v
 
 Esso si applica alle macchine ed attrezzature destinate a funzionare all'aperto individuate e definite all'articolo 2 e all'allegato I che, a decorrere dalla data di entrata in vigore del presente decreto, sono immesse in commercio o messe in servizio come unita' complete per l'uso previsto.
 
+3.
+                    
+                        
+                            Sono escluse dal campo di applicazione del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                le macchine destinate essenzialmente al trasporto di merci o passeggeri su strada, su rotaia, per via aerea o per via navigabile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le macchine progettate e costruite specificatamente a fini militari e di polizia e per i servizi di emergenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli accessori privi di motore delle macchine ed attrezzature di cui al comma 1 immessi in commercio o messi in servizio separatamente, ad eccezione dei martelli demolitori tenuti a mano e dei martelli demolitori idraulici.
+
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "macchine ed attrezzature destinate a funzionare all'aperto", di seguito denominate: "macchine ed attrezzature": tutte le macchine rientranti nella definizione di cui al decreto del Presidente della Repubblica 24 luglio 1996, n. 459, e successive modifiche, concernente il ravvicinamento delle legislazioni degli Stati membri relative alle macchine, semoventi o mobili, le quali, a prescindere dagli organi di trazione di cui dispongono ed a seconda del tipo cui appartengono, siano destinate al funzionamento all'aperto e contribuiscano, quindi, all'esposizione al rumore ambientale. L'uso di macchine ed attrezzature all'interno di strutture che non influiscono significativamente sulla trasmissione del suono, ad esempio sotto tendoni o tettoie di riparo dalle intemperie oppure all'interno di strutture aperte degli edifici, e' considerato alla stregua dell'utilizzo all'aperto. Questa definizione comprende anche macchine prive di motore, di applicazione industriale od ambientale, a seconda del tipo cui appartengono, destinate ad essere usate all'aperto e che contribuiscono all'esposizione al rumore ambientale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "marcatura": l'apposizione visibile, leggibile ed indelebile della marcatura CE di cui al decreto del Presidente della Repubblica 24 luglio 1996, n. 459, e successive modifiche, cui si aggiunge l'indicazione del livello di potenza sonora garantito;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "livello di potenza sonora LWA": il livello di potenza sonora ponderato A in dB riferito a 1 pW quale definito in EN ISO 3744:1995 e EN ISO 3746:1995;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "livello di potenza sonora rilevato": il livello di potenza sonora determinato in base alle misurazioni di cui all'allegato III; i valori misurati possono essere rilevati da una sola macchina rappresentativa del tipo o dalla media di una loro serie;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "livello di potenza sonora garantito": il livello di potenza sonora determinato in base ai requisiti di cui all'allegato III, che include le incertezze legate alle variazioni di produzione e alle procedure di misurazione, il cui non superamento sia confermato dal fabbricante o dal suo mandatario stabilito nella Comunita' in base agli strumenti tecnici applicati e citati nella documentazione tecnica;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "potenza netta installata": per motori endotermici: la potenza in "kW CEE", ottenuta sul banco di prova all'estremita' dell'albero motore o del suo equivalente, misurata conformemente al metodo di cui al decreto 12 giugno 1981, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 27 del 6 ottobre 1981, e al decreto del Ministro dei trasporti e della navigazione, in data 16 marzo 2000, pubblicato nella Gazzetta Ufficiale n. 78 del 3 aprile 2000, per la misura della potenza dei motori a combustione interna dei veicoli stradali, esclusa la potenza assorbita dalla ventola di raffreddamento del motore; per i motori diesella definizione e' conforme al decreto ministeriale 20 dicembre 1999, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 32 del 9 febbraio 2000;
+
+                            
+                        
+                        
+                            g)
+                            
+                                "immissione in commercio": prima messa a disposizione, all'interno della Comunita', a titolo oneroso o gratuito, delle macchine ed attrezzature di cui all'allegato I;
+
+                            
+                        
+                        
+                            h)
+                            
+                                "messa in servizio": primo utilizzo, conforme alla sua destinazione, all'interno della Comunita', di macchine ed attrezzature di cui all'allegato I; per le macchine che, anteriormente al primo utilizzo, non devono essere, dal fabbricante o da terzi da esso designati, ne' installate, ne' regolate, la messa in servizio e' considerata effettuata al momento dell'immissione in commercio;
+
+                            
+                        
+                        
+                            i)
+                            
+                                "fabbricante": persona fisica o giuridica responsabile della progettazione e della realizzazione di macchine ed attrezzature di cui all'allegato I, ai fini dell'immissione in commercio con il proprio nome o con il proprio marchio. Sono, altresi', considerati fabbricanti le persone fisiche o giuridiche che, per uso proprio, progettano o fanno progettare, realizzano o fanno realizzare o mettono in servizio le macchine ed attrezzature di cui all'allegato I;
+
+                            
+                        
+                        
+                            j)
+                            
+                                "mandatario": qualsiasi persona fisica o giuridica stabilita all'interno della Comunita' che abbia ricevuto mandato scritto dal fabbricante per adempiere a suo nome agli obblighi previsti dal presente decreto;
+
+                            
+                        
+                        
+                            k)
+                            
+                                "tipo": gruppo di macchine ed attrezzature, indicate con un nome generico, conformi alle definizioni di cui all'allegato I;
+
+                            
+                        
+                        
+                            l)
+                            
+                                "modello": gruppo di macchine ed attrezzature facenti parte di un determinato tipo;
+
+                            
+                        
+                        
+                            m)
+                            
+                                "esemplare": singola macchina ed attrezzatura identificata da un unico numero di serie.
+
 ## Art. 3. — Immissione in commercio e libera circolazione
+
+1.
+                    
+                        
+                            Il fabbricante o il mandatario puo' immettere in commercio o mettere in servizio le macchine ed attrezzature di cui all'allegato I, a condizione che dette macchine ed attrezzature: 
+ 
+                        
+                        
+                            a)
+                            
+                                soddisfino i requisiti in materia di emissione acustica ambientale stabiliti dal presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano state sottoposte alle procedure di valutazione della conformita' di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rechino la dichiarazione CE di conformita', nonche' la marcatura CE e l'indicazione del livello di potenza sonora garantito, di cui agli articoli 8, comma 1, e 9, comma l.
 
 Le macchine e le attrezzature di cui al comma 1 non conformi ai requisiti stabiliti dal presente decreto possono essere presentate nell'ambito di fiere, esposizioni o dimostrazioni purche' rechino l'indicazione, chiara e visibile, che non sono conformi ai predetti requisiti e che non possono essere immesse in commercio o messe in servizio fino a che non siano rese conformi agli stessi requisiti e purche', durante le dimostrazioni, siano adottate misure di sicurezza adeguate a garantire la protezione delle persone.
 
@@ -88,6 +233,31 @@ Il livello di potenza sonora garantito delle macchine e delle attrezzature di cu
 
 ## Art. 11. — Valutazione della conformita'
 
+1.
+                    
+                        
+                            Prima di immettere in commercio o di mettere in servizio macchine ed attrezzature di cui all'allegato 1, parte b), il fabbricante o il mandatario sottopone ciascun tipo di macchina e di attrezzatura a una delle seguenti procedure di valutazione della conformita':
+ 
+                        
+                        
+                            a)
+                            
+                                procedura di controllo interno della produzione con valutazione della documentazione tecnica e controlli di cui all'allegato VI;
+
+                            
+                        
+                        
+                            b)
+                            
+                                procedura di verifica dell'esemplare unico di cui all'allegato VII;
+
+                            
+                        
+                        
+                            c)
+                            
+                                procedura di garanzia di qualita' totale di cui all'allegato VIII.
+
 Ai fini dell'immissione in commercio o della messa in servizio di macchine e di attrezzature di cui all'allegato I, parte c), il fabbricante o il mandatario sottopone ciascun tipo di macchina e di attrezzatura alla procedura di controllo interno della produzione di cui all'allegato V.
 
 Il fabbricante o il mandatario fornisce, su richiesta motivata, alla Commissione europea e agli altri Stati membri tutte le informazioni utilizzate nell'ambito della procedura di valutazione della conformita' per un dato tipo di macchina e di attrezzatura e, in particolare, la documentazione tecnica di cui all'allegato V, punto 3, all'allegato VI, punto 3, all'allegato VII, punto 2, ed all'allegato VIII, punti 3.1 e 3.3.
@@ -106,6 +276,38 @@ Gli organismi di certificazione sono accreditati dall'organismo nazionale di acc
 L'autorizzazione ministeriale ha validita' fino alla data di scadenza indicata nel certificato di accreditamento.
 
 ))
+
+3.
+                    
+                        
+                            Con decreto del Ministero dell'ambiente e della tutela del territorio, di concerto con il Ministero delle attivita' produttive: 
+ 
+                        
+                        
+                            a)
+                            
+                                sono disciplinate le procedure, nonche' i requisiti previsti ai fini dell'autorizzazione ((...)). Fino all'adozione del predetto decreto si applicano le procedure e i requisiti minimi stabiliti nell'allegato IX; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' revocata l'autorizzazione nel caso in cui il Ministero dell'ambiente e della tutela del territorio, al quale spetta la vigilanza sugli organismi di certificazione, riscontri la sopravvenuta mancanza dei requisiti prescritti o accerti gravi e reiterate irregolarita' da parte dell'organismo stesso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' sospesa l'autorizzazione ((...)), previa contestazione all'organismo stesso dei relativi motivi e fissazione di un termine di trenta giorni per ricevere eventuali elementi giustificativi e controdeduzioni, nel caso in cui l'organismo di certificazione non svolga efficacemente o in modo soddisfacente i propri compiti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                e' revocata l'autorizzazione se l'organismo di cui al comma 1 non ottempera nei modi e nei tempi indicati a quanto stabilito nel provvedimento di sospensione di cui alla lettera c).
 
 ((
 

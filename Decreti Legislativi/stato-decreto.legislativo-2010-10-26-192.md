@@ -8,8 +8,8 @@ codice_redazionale: 010G0214
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,45 @@ Ai sensi dell'articolo 9 del decreto legislativo 22 giugno 1999, n. 230, le funz
 ## Art. 2.
 
 Il trasferimento delle funzioni in materia di assistenza sanitaria di cui all'articolo 1 decorre dalla data di trasferimento delle risorse di cui all'articolo 5.
+
+2.
+                    
+                        
+                            Le competenze di cui al comma 1 sono articolate nelle seguenti aree: 
+ 
+                        
+                        
+                            a)
+                            
+                                medicina generale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prestazioni specialistiche e d'urgenza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                patologie infettive e terminali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dipendenze patologiche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                salute mentale.
 
 L'uniformita' degli interventi e delle prestazioni e' garantito dalla partecipazione della regione autonoma Valle d'Aosta/Vallee d'Aoste al tavolo di consultazione in materia costituito presso la Conferenza unificata Stato, regioni e province autonome.
 

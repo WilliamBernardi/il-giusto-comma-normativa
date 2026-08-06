@@ -7,8 +7,8 @@ urn: urn:nir:ministero.difesa:decreto:2024-04-09;75
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,87 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 Il presente regolamento disciplina le modalita' di costituzione e funzionamento delle commissioni centrali e periferiche di cui all'articolo 1482-bis, comma 1, del codice dell'ordinamento militare, preposte alla risoluzione in via conciliativa delle controversie sulle violazioni dei diritti e delle prerogative sindacali recati dall'articolo 1482, comma 1, del medesimo codice.
 
+2.
+                        
+                            
+                                Ai fini del presente regolamento, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «legge» la legge 28 aprile 2022, n. 46; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «associazione» l'associazione professionale a carattere sindacale tra militari iscritta all'apposito albo istituito presso il Ministero della difesa ovvero, per le associazioni riferite esclusivamente al personale del Corpo della guardia di finanza, presso il Ministero dell'economia e delle finanze, ai sensi della legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «associazione rappresentativa» l'associazione riconosciuta rappresentativa a livello nazionale ai sensi dell'articolo 1478 del codice dell'ordinamento militare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «associazione interforze» l'associazione riferita a personale di una o piu' Forze armate o Forze di polizia a ordinamento militare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «controversie sindacali» le controversie riguardanti le violazioni dei diritti e delle prerogative sindacali di cui al citato articolo 1482, comma 1, del codice dell'ordinamento militare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «commissione centrale della difesa» la commissione costituita presso il Ministero della difesa ai sensi dell'articolo 1482-bis, comma 1, lettera a), del codice dell'ordinamento militare, per la risoluzione in conciliativa delle controversie sindacali aventi rilievo nazionale riferite al personale delle Forze armate ivi compresa l'Arma dei carabinieri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «commissione centrale della Guardia di finanza» la commissione costituita presso il Ministero dell'economia e delle finanze ai sensi dell'articolo 1482-bis, comma 1, lettera a), del codice dell'ordinamento militare, per la risoluzione in via conciliativa delle controversie sindacali aventi rilievo nazionale e riferite al personale della Guardia di finanza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «commissione periferica» la commissione di conciliazione costituita presso le articolazioni periferiche di livello non inferiore a quello regionale e paritetico delle Forze armate e delle Forze di polizia a ordinamento militare ai sensi dell'articolo 1482-bis, comma 1, lettera b), del Codice dell'ordinamento militare, per la risoluzione in via conciliativa delle controversie sindacali aventi rilievo locale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «conciliatori» i componenti delle commissioni di conciliazione designati in rappresentanza delle amministrazioni militari e delle associazioni rappresentative, ai sensi dell'articolo 1482-bis, comma 2, lettera b), del codice dell'ordinamento militare; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «iscritti» o «associati» i militari delle Forze armate e delle Forze di polizia a ordinamento militare, in servizio e in ausiliaria, iscritti a una associazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «codice dell'ordinamento militare» il decreto legislativo 15 marzo 2010, n. 66, e successive modificazioni.
+
 ## Art. 2. — Elenchi dei soggetti abilitati alla presidenza delle commissioni
 
 I presidenti delle commissioni di cui agli articoli 3 e 4 sono tratti dai magistrati delle giurisdizioni superiori o equiparati, dagli avvocati dello Stato, dagli avvocati del libero foro abilitati al patrocinio avanti alle giurisdizioni superiori e dai professori ordinari in materie giuridiche inclusi in distinti elenchi istituiti presso i Ministeri della difesa e dell'economia e delle finanze entro 90 giorni dall'entrata in vigore del presente regolamento. I presidenti cessano dall'incarico in caso di collocamento in quiescenza.
@@ -49,9 +130,140 @@ Essi sono rispettivamente nominati con decreto del Ministro della difesa e con d
 
 In ciascuna delle commissioni di cui al comma 1, il primo e il secondo presidente restano in carica per due anni e si alternano ogni sei mesi, a decorrere dalla nomina, nell'esercizio delle funzioni di cui al comma 2. Le procedure in atto alla scadenza del rispettivo semestre sono in ogni caso definite dal presidente che ne ha avviato la trattazione. In caso di cessazione anticipata per qualsiasi causa di uno o di entrambi i presidenti, i Ministri interessati, previo parere delle competenti commissioni parlamentari, provvedono tempestivamente, con proprio decreto, alla relativa sostituzione.
 
+4.
+                        
+                            
+                                La commissione centrale di conciliazione presso il Ministero della difesa di cui al comma 1 e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quattro rappresentanti per ciascuna Forza armata, compresa l'Arma dei carabinieri, nominati dal Capo di stato maggiore della difesa tra il personale in servizio nella regione amministrativa in cui ha sede la commissione, su proposta dei rispettivi Capi di stato maggiore e del Comandante generale dell'Arma; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due militari in servizio nella regione amministrativa in cui ha sede la commissione, designati da ciascuna associazione rappresentativa del personale di Forza armata, compresa l'Arma dei carabinieri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    due militari designati dalle associazioni interforze per ciascuna Forza armata, compresa l'Arma dei carabinieri, di cui esse sono rappresentative ai sensi dell'articolo 1478, commi 1 e 2, del codice dell'ordinamento militare, fra il personale in servizio nella regione amministrativa in cui ha sede la commissione.
+
+5.
+                        
+                            
+                                La commissione centrale di conciliazione presso il Ministero dell'economia e delle finanze di cui al comma 1 e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quattro rappresentanti del Corpo della guardia di finanza nominati dal Comandante generale del Corpo tra il personale in servizio nella regione amministrativa in cui ha sede la commissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due militari in servizio nella regione amministrativa in cui ha sede la commissione designati da ciascuna associazione rappresentativa del personale appartenente al Corpo della guardia di finanza.
+
 Entro 40 giorni dalla data di entrata in vigore del decreto del Ministro per la pubblica amministrazione di cui all'articolo 1478, comma 5, del codice dell'ordinamento militare, lo Stato maggiore della difesa, il Comando generale della guardia di finanza e le rispettive associazioni rappresentative, tramite posta elettronica certificata comunicano ai Ministeri competenti i nominativi dei rispettivi rappresentanti con l'incarico di membri delle commissioni di cui al comma 1. I membri delle commissioni assumono l'incarico a decorrere dal primo giorno del mese successivo a quello di designazione, permangono in carica fino all'assunzione dell'incarico dei nuovi membri nominati a seguito del successivo decreto di cui al medesimo articolo 1478, comma 5, e contestualmente i componenti della commissione non piu' legittimati cessano dalle proprie funzioni, fatta salva la definizione delle procedure ancora in corso ad essi assegnate ai sensi dell'articolo 9.
 
 ## Art. 4. — Commissioni periferiche di conciliazione
+
+1.
+                        
+                            
+                                In attuazione dell'articolo 1482-bis, comma 1, lettera b), del codice dell'ordinamento militare, per la risoluzione in via conciliativa delle controversie sindacali di rilievo locale riferite al personale delle Forze armate, compresa l'Arma dei carabinieri, e al personale del Corpo della guardia di finanza, sono istituite le seguenti commissioni periferiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Difesa nord-ovest, con sede a Milano presso il Comando interregionale carabinieri «Pastrengo», con competenza sulle regioni Piemonte, Valle d'Aosta, Liguria e Lombardia. La commissione dispone di una sede distaccata a La Spezia presso il Comando marittimo nord della Marina militare per le controversie riferite in via esclusiva a tale Forza armata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Difesa nord-est, con sede a Padova presso la sede del Comando forze operative nord dell'Esercito italiano, con competenza sulle regioni Emilia Romagna, Veneto, Friuli-Venezia Giulia e nelle province autonome di Trento e Bolzano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Difesa Centro, con sede a Roma presso il Comando delle Forze operative terrestri, con competenza sulle regioni Toscana, Lazio, Umbria, Marche, Abruzzo e Sardegna; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Difesa Sud, con sede a Bari presso il Comando delle scuole dell'Aeronautica militare - Comando della 3^ Regione Aerea - con competenza sulle regioni Puglia, Basilicata, Campania e Molise e sulle province di Cosenza e Crotone; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Difesa Sud-Ovest, con sede a Messina presso il Comando interregionale carabinieri «Culqualber», con competenza sulla regione Sicilia e sulle province della regione Calabria diverse da quelle di cui alla lettera d); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Guardia di finanza Nord-Occidentale, con sede a Milano presso il Comando regionale Lombardia, con competenza sulle regioni Lombardia, Liguria, Piemonte e Valle d'Aosta; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Guardia di finanza Nord-Orientale, con sede a Venezia presso il Comando Regionale Veneto, con competenza sulle regioni Veneto, Friuli-Venezia Giulia e Trentino-Alto Adige; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    Guardia di finanza Centro-Settentrionale, con sede a Firenze il Comando Regionale Toscana, con competenza sulle regioni Toscana, Emilia-Romagna e Marche; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    Guardia di finanza Centrale, con sede a Roma presso il Comando Regionale Lazio, con competenza sulla Regione Lazio, fatto salvo quanto previsto dalla lettera n), Umbria, Abruzzo e Sardegna; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    Guardia di finanza Meridionale, con sede a Napoli presso la sede del Comando Regionale Campania, con competenza sulle regioni Campania, Basilicata, Molise e Puglia; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    Guardia di finanza Sud-Occidentale, con sede a Palermo presso la sede del Comando Regionale Sicilia, con competenza sulle regioni Sicilia e Calabria; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    Guardia di finanza Speciale, con sede a Roma presso il Comando Tutela Economia e Finanza, con competenza sulle controversie riferite al personale in forza ai Reparti di Istruzione, Speciali e Aeronavali, a esclusione della componente territoriale, aventi sede nella Regione Lazio.
 
 La composizione e la permanenza in carica dei membri di ciascuna delle commissioni periferiche di cui al comma 1 e' determinata secondo le modalita' di cui all'articolo 3.
 
@@ -66,6 +278,16 @@ Le amministrazioni militari interessate provvedono al funzionamento e al support
 ## Art. 6. — Casi particolari
 
 Per le controversie sindacali riferite al personale delle Forze armate o dell'Arma dei carabinieri sorte per comportamenti, atti o provvedimenti ascrivibili ad appartenenti al Corpo della guardia di finanza, la competenza a trattare le relative richieste di conciliazione e', per questioni di rilievo nazionale, della commissione centrale di conciliazione costituita presso il Ministero dell'economia e delle finanze ai sensi dell'articolo 3, comma 1, mentre, per questioni di rilievo locale, delle commissioni periferiche di conciliazione di cui all'articolo 4, comma 1, lettere dalla f) alla n).
+
+2.
+                        
+                            
+                                Per le controversie sindacali riferite al personale del Corpo della guardia di finanza sorte per comportamenti, atti o provvedimenti ascrivibili ad appartenenti alle Forze armate o all'Arma dei carabinieri, la competenza a trattare le relative richieste di conciliazione e', per questioni di rilievo nazionale della commissione centrale di conciliazione costituita presso il Ministero della difesa ai sensi dell'articolo 3, comma 1, mentre, per questioni di rilievo locale, delle commissioni periferiche di conciliazione di cui all'articolo 4, comma 1, lettere dalla 
+                            
+                            
+                                a)
+                                
+                                    alla e).
 
 Per le controversie sindacali di rilievo nazionale e locale sorte per comportamenti, atti o provvedimenti contestualmente ascrivibili ad appartenenti alle Forze armate, compresa l'Arma dei carabinieri, e al Corpo della guardia di finanza, la competenza a trattare le relative richieste di conciliazione e' delle commissioni centrali di conciliazione di cui all'articolo 3, comma 1, riunite in seduta congiunta presso il Ministero della difesa.
 
@@ -86,6 +308,38 @@ Nei casi di cui al comma 3 primo periodo, le amministrazioni militari e le assoc
 ## Art. 8. — Richiesta di tentativo di conciliazione
 
 La richiesta di tentativo di conciliazione di cui all'articolo 1482, commi 4 e 5, del codice dell'ordinamento militare, e' presentata, a pena di irricevibilita', alla commissione di conciliazione competente ai sensi degli articoli 3, 4 e 6, sottoscritta dal rappresentante legale dall'associazione che ha interesse diretto alla controversia sindacale che ne costituisce l'oggetto, completata dall'attestazione dell'avvenuto versamento del contributo di cui all'articolo 10, a mezzo di posta elettronica certificata ovvero tramite raccomandata con avviso di ricevimento.
+
+2.
+                        
+                            
+                                La richiesta di cui al comma 1 contiene, a pena di inammissibilita', i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione, sede dell'associazione e nome del relativo legale rappresentante, nonche' l'atto statutario che gli conferisce i poteri rappresentativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicazione del luogo in cui e' sorta la controversia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esposizione dei fatti e delle ragioni poste a fondamento della pretesa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    proposta di risoluzione in via conciliativa della controversia.
 
 ## Art. 9. — Trattazione delle istanze
 

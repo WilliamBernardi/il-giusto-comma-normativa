@@ -8,8 +8,8 @@ codice_redazionale: 010G0217
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,26 @@ Sentite la Banca d'Italia e la Consob;
 Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione consultiva per gli atti normativi in data 10 maggio 2010;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            All'articolo l, comma 1, del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                1a lettera d-bis) e' sostituita dalla seguente: 
+ «d-bis) "fondi immobiliari": i fondi che investono esclusivamente o prevalentemente in beni immobili, diritti reali immobiliari ivi inclusi quelli derivanti da contratti di leasing immobiliare con natura traslativa e da rapporti concessori, partecipazioni in societa' immobiliari, parti di altri fondi immobiliari, anche esteri»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera d-bis) e' aggiunta la seguente: 
+ «d-ter) "fondi riservati"': fondi comuni di investimento la cui partecipazione, in base al regolamento di gestione, e' riservata a investitori qualificati».
 
 ## Art. 2. — Documenti contabili
 
@@ -68,13 +88,110 @@ All'articolo 9 del regolamento n. 228 del 1999, il comma 2 e' abrogato.
 
 ## Art. 8. — Modalita' di partecipazione ai fondi aperti
 
+1.
+                    
+                        
+                            All'articolo 10 del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole «almeno settimanale» sono aggiunte le seguenti: «per i fondi armonizzati aperti e almeno mensile per i fondi non armonizzati aperti»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, quarto periodo, la parola «Dalla» e' sostituita dalla seguente: «Della».
+
 ## Art. 9. — Fondi chiusi
+
+1.
+                    
+                        
+                            All'articolo 12 del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2-bis e' sostituito dal seguente: 
+ «2-bis. I fondi chiusi, fermo restando quanto previsto nel comma 2-ter, possono assumere prestiti per i rimborsi anticipati delle quote per un ammontare non superiore al 10 per cento del valore del fondo. Detti rimborsi anticipati avvengono proporzionalmente nel caso in cui le somme necessarie per effettuare gli stessi eccedano quelle acquisite attraverso le nuove emissioni ed i prestiti consentiti. Il regolamento del fondo, al fine di assicurare la parita' di trattamento dei partecipanti, specifica i criteri in base ai quali sono soddisfatte le richieste in caso di domande di rimborso eccedenti quelle di nuove sottoscrizioni»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2-bis e' aggiunto il seguente: 
+ «2-ter. I fondi chiusi per i cui certificati rappresentativi delle quote sia prevista la quotazione in un mercato regolamentato non possono assumere prestiti per effettuare rimborsi anticipati delle quote».
 
 ## Art. 10. — Fondi immobiliari
 
+1.
+                    
+                        
+                            All'articolo 12-bis del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: 
+ «2-bis. Per i fondi orientati all'investimento in beni immobili a prevalente utilizzo sociale il termine dei ventiquattro mesi di cui al comma 2 e' innalzato a quarantotto mesi nel caso in cui le attivita' in cui e' investito il patrimonio del fondo siano costituite esclusivamente dai beni di cui all'articolo 4, comma 2, lettera d) e da liquidita' o strumenti finanziari di elevati merito creditizio e liquidita', destinati al pagamento di oneri di edificazione sulla base di impegni assunti dalla SGR, nell'ambito di un programma volto al raggiungimento delle soglie indicate al comma 2 entro 48 mesi dall'avvio dell'operativita'»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ «7. I fondi immobiliari possono assumere prestiti sino ad un valore del 60 per cento del valore degli immobili, dei diritti reali immobiliari, delle partecipazioni in societa' immobiliari e delle parti di fondi immobiliari e del 20 per cento degli altri beni. Detti prestiti possono essere assunti anche al fine di effettuare operazioni di valorizzazione dei beni in cui e' investito il fondo per tali operazioni intendendosi anche il mutamento della destinazione d'uso ed il frazionamento dell'immobile»; 
+ b) al comma 8, dopo le parole «valore del fondo» sono aggiunte le seguenti: «fermo restando quanto previsto dall'articolo 12, comma 2-ter».
+
 ## Art. 11. — Modalita' di partecipazione ai fondi chiusi
 
+1.
+                    
+                        
+                            All'articolo 14 del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Il patrimonio del fondo deve essere raccolto mediante una o piu' emissioni, secondo le modalita' stabilite dal regolamento, di quote, di eguale valore unitario, che devono essere sottoscritte entro il termine massimo di ventiquattro mesi dalla pubblicazione del prospetto ai sensi dell'articolo 94, comma 3 del Testo unico o, se le quote non sono offerte al pubblico, dalla data di approvazione del regolamento del fondo da parte della Banca d'Italia. Il regolamento del fondo disciplina le modalita' concernenti le emissioni successive alla prima»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ «6. Le quote di partecipazione, secondo le modalita' indicate nel regolamento, devono essere rimborsate ai partecipanti alla scadenza del termine di durata del fondo ovvero possono essere rimborsate anticipatamente. Il regolamento del fondo puo' prevedere i casi in cui e' possibile una proroga del termine di durata del fondo non superiore a tre anni per il completamento dello smobilizzo degli investimenti. Le SGR danno comunicazione alla Banca d'Italia e alla Consob dell'effettuazione della proroga, specificando le motivazioni poste a supporto della relativa decisione».
+
 ## Art. 12. — Fondi speculativi
+
+1.
+                    
+                        
+                            All'articolo 16 del regolamento n. 228 del 1999, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole «sollecitazione all'investimento» sono sostituite dalle seguenti: «offerta al pubblico».
 
 ## Art. 13. — Titolo V
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-10-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,7 +26,204 @@ Sulla proposta del Ministro per le politiche europee e del Ministro delle infras
 
 ## Art. 1. — Campo di applicazione
 
+1.
+                    
+                        
+                            Le disposizioni del presente decreto si applicano alle seguenti unita' navali che effettuano navigazione nelle vie navigabili interne situate nel territorio nazionale e indicate nell'Allegato I:
+ 
+                        
+                        
+                            a)
+                            
+                                alle navi nuove di lunghezza pari o superiore a 20 metri; ovvero
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle navi nuove per le quali il prodotto tra lunghezza L, larghezza B e immersione T e' pari o superiore in volume a 100 mÂ³, indipendentemente dalla lunghezza.
+
+2.
+                    
+                        
+                            Le disposizioni del presente decreto si applicano inoltre alle seguenti unita' navali nuove:
+ 
+                        
+                        
+                            a)
+                            
+                                ai rimorchiatori e agli spintori destinati a rimorchiare o a spingere oppure alla propulsione in formazione di coppia delle unita' navali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle navi da passeggeri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai galleggianti.
+
+3.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano alle seguenti unita' navali:
+ 
+                        
+                        
+                            a)
+                            
+                                alle navi esistenti, fatto salvo quanto previsto dall'art. 7, comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle navi traghetto che hanno funzione di mero collegamento tra due sponde opposte di un fiume o canale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle navi militari e da guerra, nonche' alle navi e galleggianti in servizio governativo non commerciale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                alle navi della navigazione marittima, che
+ 1) navigano o si trovano in acque soggette a formazione di marea;
+ 2) navigano temporaneamente nelle acque interne, purche' provviste:
+ 2.1) di un certificato attestante la conformita' alla convenzione internazionale per la salvaguardia della vita umana in mare (SOLAS) del 1974 o uno strumento equivalente, un certificato attestante la conformita' alla convenzione internazionale sulla linea di massimo carico del 1966 o uno strumento equivalente, e un certificato internazionale per la prevenzione dell'inquinamento da olio minerale (IOPP) che attesti la conformita' alla convenzione internazionale per la prevenzione dell'inquinamento causato da navi (MARPOL) del 1973; o 2.2) di un certificato rilasciato in conformita' al decreto legislativo 4 febbraio 2000, n. 45, ovvero ad altra disposizione dello Stato di bandiera attuativa della direttiva 98/18/CE del Consiglio, del 17 marzo 1998, relativa alle disposizioni e norme di sicurezza per le navi da passeggeri, per le navi passeggeri cui non si applicano le convenzioni di cui all'alinea precedente; o
+ 2.3) di un certificato di sicurezza rilasciato dallo Stato di bandiera per le unita' da diporto cui non si applicano le convenzioni di cui al numero 2.1).
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                Amministrazione: il Ministero delle infrastrutture e dei trasporti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                autorita' competenti: gli Uffici della Motorizzazione civile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                organismo di classificazione autorizzato: l'organismo tecnico riconosciuto ai sensi dell'allegato VII;
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificato comunitario per la navigazione interna: un certificato rilasciato ad una unita' navale dall'autorita' competente, ovvero, dalla rispettiva autorita' competente di ogni Stato membro, che attesta la conformita' ai requisiti tecnici stabiliti dalla direttiva 2006/87/CE nella sua versione aggiornata;
+
+                            
+                        
+                        
+                            e)
+                            
+                                navigazione interna: la navigazione effettuata in acque diverse da quelle marittime;
+
+                            
+                        
+                        
+                            f)
+                            
+                                unita' navale: qualsiasi nave o galleggiante;
+
+                            
+                        
+                        
+                            g)
+                            
+                                nave nuova: una unita' navale la cui chiglia sia stata impostata, o che si trovi a un equivalente stadio di costruzione, dopo il 30 dicembre 2008. Per equivalente stadio di costruzione si intende lo stadio in cui ricorrono congiuntamente le seguenti condizioni:
+ 1) ha inizio la costruzione identificabile con una unita' navale specifica;
+ 2) ha avuto inizio, per quella determinata unita' navale, la sistemazione in posto di almeno dieci tonnellate o del cinque per cento della massa stimata di tutto il materiale strutturale, assumendo il minore di questi due valori;
+
+                            
+                        
+                        
+                            h)
+                            
+                                nave esistente: una unita' navale che non sia una nave nuova;
+
+                            
+                        
+                        
+                            i)
+                            
+                                nave della navigazione marittima: una unita' navale certificata per la navigazione marittima;
+
+                            
+                        
+                        
+                            l)
+                            
+                                nave della navigazione interna: una unita' navale destinata esclusivamente o principalmente alla navigazione interna;
+
+                            
+                        
+                        
+                            m)
+                            
+                                nave da passeggeri: una nave che trasporti piu' di dodici passeggeri, oltre all'equipaggio;
+
+                            
+                        
+                        
+                            n)
+                            
+                                nave traghetto (ro-ro/cargo): nave munita di attrezzature particolari che la rendono atta al trasporto di rotabili ferroviari o veicoli stradali con imbarco degli stessi sulle proprie ruote, con imbarco di un numero di passeggeri non superiore a dodici;
+
+                            
+                        
+                        
+                            o)
+                            
+                                nave traghetto-passeggeri (ro-ro/pax): nave munita di attrezzature particolari che la rendono atta al trasporto di rotabili ferroviari o veicoli stradali con imbarco degli stessi sulle proprie ruote, con imbarco di un numero di passeggeri superiore a dodici;
+
+                            
+                        
+                        
+                            p)
+                            
+                                rimorchiatore: una nave appositamente costruita per le operazioni di rimorchio;
+
+                            
+                        
+                        
+                            q)
+                            
+                                spintore: una nave appositamente costruita per provvedere alla propulsione a spinta di un convoglio;
+
+                            
+                        
+                        
+                            r)
+                            
+                                formazione di coppia: un insieme di unita' navali accoppiate lateralmente in modo rigido, nessuna delle quali e' collocata davanti a quella che provvede alla propulsione dell'insieme stesso.
 
 ## Art. 3. — Certificato comunitario per la navigazione interna
 

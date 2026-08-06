@@ -8,8 +8,8 @@ codice_redazionale: 096G0483
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -41,9 +41,130 @@ Sono escluse le adesioni parziali riguardanti singoli beni o diritti contenuti n
 
 ## Art. 2. — Criteri di applicazione
 
+1.
+                    
+                        
+                            Per le aree edificabili ed i diritti reali su di esse, i criteri per la determinazione del valore oggetto dell'adesione sono stabiliti sulla base di appositi prospetti predisposti dagli uffici unici delle entrate competenti per territorio di intesa con gli uffici del territorio e trasmessi alle direzioni regionali delle entrate. In tali prospetti sono indicati i valori medi di mercato nelle varie aree geografiche omogenee, sulla base degli indici di edificabilita' e della destinazione secondo le risultanze degli strumenti urbanistici. L'ufficio unico delle entrate determina, in contraddittorio con il contribuente, il valore tenendo conto in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                della edificabilita' del terreno risultante dalle certificazioni rilasciate dal comune competente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei valori gia' definiti nel triennio precedente per terreni aventi le medesime caratteristiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                della esistenza di concessione ad edificare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delle convenzioni comunque intercorse con il comune.
+
+2.
+                    
+                        
+                            Per gli altri immobili e per i diritti reali su di essi, i criteri per la determinazione del valore oggetto dell'adesione sono stabiliti su base catastale ovvero sulla base di appositi prospetti redatti ai sensi del comma 1. In tali prospetti sono indicati i valori medi di mercato nelle varie aree geografiche omogenee, individuati dagli uffici del territorio sulla base dei dati risultanti dall'osservatorio immobiliare per i comuni da esso considerati e mediante applicazione di opportuni coefficienti di ragguaglio per i rimanenti comuni. Per i terreni agricoli i predetti valori sono stabiliti sulla base dei valori agricoli medi determinati, per ciascun comune dalla competente commissione provinciale. L'ufficio unico delle entrate determina, in contraddittorio con il contribuente, il valore tenendo conto in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                dei valori definiti nel triennio precedente per immobili aventi le medesime caratteristiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della vetusta', del degrado e dello stato di manutenzione del fabbricato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                della ubicazione dell'immobile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dell'eventuale stato locativo o di affittanza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dell'effettiva destinazione del terreno.
+
 I valori risultanti dagli appositi prospetti di cui ai commi 1 e 2 sono aggiornati periodicamente in base all'andamento del mercato immobiliare.
 
+4.
+                    
+                        
+                            Per le aziende e per i diritti reali su di esse il valore di avviamento e' determinato sulla base degli elementi desunti dagli studi di settore o, in difetto, sulla base della percentuale di redditivita' applicata alla media dei ricavi accertati o, in mancanza, dichiarati ai fini delle imposte sui redditi negli ultimi tre periodi d'imposta anteriori a quello in cui e' intervenuto il trasferimento, moltiplicata per 3. La percentuale di redditivita' non puo' essere inferiore al rapporto tra il reddito d'impresa e i ricavi accertati o, in mancanza, dichiarati ai fini delle stesse imposte e nel medesimo periodo. Il moltiplicatore e' ridotto a 2 nel caso in cui emergano elementi validamente documentati e, comunque, nel caso in cui ricorra almeno una delle seguenti situazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                l'attivita' sia stata iniziata entro i tre periodi d'imposta precedenti a quello in cui e' intervenuto il trasferimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attivita' non sia stata esercitata, nell'ultimo periodo precedente a quello in cui e' intervenuto il trasferimento, per almeno la meta' del normale periodo di svolgimento della attivita' stessa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la durata residua del contratto di locazione dei locali, nei quali e' svolta l'attivita', sia inferiore a dodici mesi.
+
 ## Art. 3. — Modalita' dell'accertamento con adesione
+
+1.
+                    
+                        
+                            L'ufficio competente invia ai soggetti obbligati un invito a comparire nel quale sono indicate:
+ 
+                        
+                        
+                            a)
+                            
+                                l'atto, la denuncia o la dichiarazione cui si riferisce il valore suscettibile di adesione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'invito a presentarsi in ufficio per definire l'accertamento con adesione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il giorno e il luogo della comparizione.
 
 Nel caso in cui sia stato notificato avviso di accertamento, il contribuente puo' formulare, in carta libera, istanza di accertamento con adesione anteriormente alla impugnazione dell'atto, indicando il proprio recapito anche telefonico. La impugnazione dell'atto, anche da parte di uno solo degli obbligati, preclude l'accertamento con adesione. L'ufficio, entro quindici giorni dalla ricezione dell'istanza, formula al contribuente, anche telefonicamente, l'invito a comparire di cui al comma 1 ovvero comunica al medesimo che non sussistono le condizioni perche' possa avere luogo l'accertamento con adesione.
 

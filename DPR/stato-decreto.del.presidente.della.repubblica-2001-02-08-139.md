@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-06-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -2459,6 +2459,24 @@ Terza fascia..............................272.000
 Quarta fascia.............................245.000.
 
 ## Art. 9. — Alta valenza operativa
+
+1.
+                    
+                        
+                            Le risorse finanziarie di cui all'articolo 8 del decreto del Presidente della Repubblica 16 marzo 1999, n. 255, sono cosi' incrementate:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'anno 2001 dell'importo derivante dalla riduzione di un ulteriore tre per cento degli stanziamenti dei capitoli dei compensi per lavoro straordinario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gli anni 2000 e 2001 delle somme di cui all'articolo 19 della legge 23 dicembre 1999, n. 488, e all'articolo 50 della legge 23 dicembre 2000, n. 388, di pertinenza delle Forze armate, come da allegata tabella A. Tali somme, ove non utilizzate nell'esercizio di competenza, sono riassegnate per le medesime esigenze nell'anno successivo.
 
 L'alta valenza operativa di cui all'articolo 8 del decreto del Presidente della Repubblica 16 marzo 1999, n. 255, compete, nelle nuove misure giornaliere riportate nell'allegata tabella B, in relazione alle particolari condizioni di prolungato impegno in attivita' operative e addestrative, specificamente programmate dai rispettivi stati maggiori, per i giorni di effettiva navigazione e di impiego e fino ad un massimo di sessanta giorni l'anno.
 

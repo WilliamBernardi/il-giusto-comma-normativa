@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2013-12-28;154
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,7 +26,71 @@ Sulla proposta del Presidente del Consiglio dei ministri, dei Ministri per l'int
 
 ## Art. 1. — Modifiche all'articolo 87 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 87 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica le parole: "e affiliazione" sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma, numero 1) le parole: ", legittimi o naturali" sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il secondo comma e' abrogato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il terzo comma e' abrogato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al quarto comma le parole: "o di filiazione naturale" sono soppresse.
+
 ## Art. 2. — Modifiche all'articolo 128 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 128 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il secondo comma e' sostituito dal seguente: "Il matrimonio dichiarato nullo ha gli effetti del matrimonio valido rispetto ai figli."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel quarto comma le parole: "bigamia o" sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il quinto comma e' sostituito dal seguente: "Nell'ipotesi di cui al quarto comma, rispetto ai figli si applica l'articolo 251.".
 
 ## Art. 3. — Modifiche all'articolo 147 del codice civile
 
@@ -106,6 +170,31 @@ All'articolo 237 del codice civile il secondo comma e' sostituito dal seguente.
 
 ## Art. 13. — Modifiche all'articolo 238 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 238 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Irreclamabilita' di uno stato di figlio contrario a quello attribuito dall'atto di nascita"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma le parole: "233, 234, 235 e 239" sono sostituite dalle seguenti: "234, 239, 240 e 244"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il secondo comma e' abrogato.
+
 ## Art. 14. — Modifiche all'articolo 239 del codice civile
 
 L'articolo 239 del codice civile e' sostituito dal seguente: 
@@ -132,6 +221,31 @@ L'articolo 240 del codice civile e' sostituito dal seguente:
  Lo stato di figlio puo' essere contestato nei casi di cui al primo e secondo comma dell'articolo 239.".
 
 ## Art. 16. — Modifiche all'articolo 241 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 241 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Prova in giudizio"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il primo comma e' sostituito dal seguente: "Quando mancano l'atto di nascita e il possesso di stato, la prova della filiazione puo' darsi in giudizio con ogni mezzo."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il secondo comma e' abrogato.
 
 ## Art. 17. — Articolo 243-bis del codice civile
 
@@ -187,6 +301,32 @@ L'articolo 246 del codice civile e' sostituito dal seguente:
 
 ## Art. 20. — Modifiche all'articolo 248 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 248 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Legittimazione all'azione di contestazione dello stato di figlio.
+Imprescrittibilita'."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il primo comma e' sostituito dal seguente: "L'azione di contestazione dello stato di figlio spetta a chi dall'atto di nascita del figlio risulti suo genitore e a chiunque vi abbia interesse."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il quarto comma e' aggiunto il seguente: "Si applicano il sesto comma dell'articolo 244 e il secondo comma dell'articolo 245.".
+
 ## Art. 21. — Modifiche all'articolo 249 del codice civile
 
 L'articolo 249 del codice civile e' sostituito dal seguente: 
@@ -210,17 +350,120 @@ Al secondo comma dell'articolo 251 del codice civile le parole: "tribunale per i
 
 ## Art. 23. — Modifiche all'articolo 252 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 252 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Affidamento del figlio nato fuori del matrimonio e suo inserimento nella famiglia del genitore."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma la parola: "naturale" e' sostituita dalle seguenti: "nato fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al secondo comma la parola: "naturale" e' sostituita dalle seguenti: "nato fuori del matrimonio"; le parole: "e dei figli legittimi" sono sostituite dalle seguenti: "convivente e degli altri figli"; le parole: "genitore naturale" sono sostituite dalla seguente: "genitore"; l'ultimo periodo e' sostituito dal seguente: "In questo caso il giudice stabilisce le condizioni cui ciascun genitore deve attenersi."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al terzo comma le parole: "legittima" e la parola: "naturale" sono soppresse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al quarto comma la parola: "naturale" e' soppressa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il quarto comma e' inserito il seguente: "In caso di disaccordo tra i genitori, ovvero di mancato consenso degli altri figli conviventi, la decisione e' rimessa al giudice tenendo conto dell'interesse dei minori. Prima dell'adozione del provvedimento, il giudice dispone l'ascolto dei figli minori che abbiano compiuto gli anni dodici e anche di eta' inferiore ove capaci di discernimento.".
+
 ## Art. 24. — Modifiche all'articolo 253 del codice civile
 
 All'articolo 253 del codice civile le parole: "legittimo o legittimato" sono soppresse.
 
 ## Art. 25. — Modifiche all'articolo 254 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 254 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma la parola: "naturale" e' sostituita dalle seguenti: "nato fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' abrogato.
+
 ## Art. 26. — Modifiche all'articolo 255 del codice civile
 
 All'articolo 255 del codice civile le parole: "legittimi e dei suoi figli naturali riconosciuti" sono soppresse.
 
 ## Art. 27. — Modifiche all'articolo 262 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 262 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica dopo la parola: "figlio" sono aggiunte le seguenti: "nato fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la parola: "naturale", ovunque presente, e' soppressa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il secondo comma e' sostituito dal seguente: "Se la filiazione nei confronti del padre e' stata accertata o riconosciuta successivamente al riconoscimento da parte della madre, il figlio puo' assumere il cognome del padre aggiungendolo, anteponendolo o sostituendolo a quello della madre."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il secondo comma e' aggiunto il seguente: "Se la filiazione nei confronti del genitore e' stata accertata o riconosciuta successivamente all'attribuzione del cognome da parte dell'ufficiale dello stato civile, si applica il primo e il secondo comma del presente articolo; il figlio puo' mantenere il cognome precedentemente attribuitogli, ove tale cognome sia divenuto autonomo segno della sua identita' personale, aggiungendolo, anteponendolo o sostituendolo al cognome del genitore che per primo lo ha riconosciuto o al cognome dei genitori in caso di riconoscimento da parte di entrambi."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al terzo comma le parole: "l'assunzione del cognome del padre" sono sostituite dalle seguenti: "l'assunzione del cognome del genitore, previo ascolto del figlio minore, che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento".
 
 ## Art. 28. — Modifiche all'articolo 263 del codice civile
 
@@ -259,13 +502,74 @@ All'articolo 269 del codice civile la parola: "naturale", ovunque presente, e' s
 
 ## Art. 31. — Modifiche all'articolo 270 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 270 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma la parola: "naturale" e' soppressa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma le parole: "legittimi, legittimati o naturali riconosciuti" sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il terzo comma e' inserito il seguente: "Si applica l'articolo 245.".
+
 ## Art. 32. — Modifiche all'articolo 273 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 273 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma la parola: "naturale" e' soppressa; la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma la parola: "sedici" e' sostituita dalla seguente: "quattordici".
 
 ## Art. 33. — Modifiche all'articolo 276 del codice civile
 
 All'articolo 276 del codice civile la parola: "naturale" e' soppressa.
 
 ## Art. 34. — Modifiche all'articolo 277 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 277 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, la parola: "naturale" e' soppressa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma, dopo le parole: "che stima utili per" sono inserite le seguenti: "l'affidamento,".
 
 ## Art. 35. — Modifiche all'articolo 278 del codice civile
 
@@ -279,6 +583,31 @@ L'articolo 278 del codice civile e' sostituito dal seguente:
  Nei casi di figlio nato da persone, tra le quali esiste un vincolo di parentela in linea retta all'infinito o in linea collaterale nel secondo grado, ovvero un vincolo di affinita' in linea retta, l'azione per ottenere che sia giudizialmente dichiarata la paternita' o la maternita' non puo' essere promossa senza previa autorizzazione ai sensi dell'articolo 251.".
 
 ## Art. 36. — Modifiche all'articolo 279 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 279 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma la parola: "naturale", ovunque presente, e' sostituita dalle seguenti: "nato fuori del matrimonio"; dopo le parole: "per ottenere gli alimenti" sono inserite le seguenti: " a condizione che il diritto al mantenimento di cui all'articolo 315-bis, sia venuto meno."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente: "L'azione e' ammessa previa autorizzazione del giudice ai sensi dell'articolo 251."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al terzo comma la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale".
 
 ## Art. 37. — Modifiche agli articoli 293 e 297 del codice civile
 
@@ -322,6 +651,24 @@ Dopo l'articolo 316 del codice civile e' inserito il seguente:
 
 ## Art. 41. — Modifiche all'articolo 317 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 317 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente: "La responsabilita' genitoriale di entrambi i genitori non cessa a seguito di separazione, scioglimento, cessazione degli effetti civili, annullamento, nullita' del matrimonio; il suo esercizio, in tali casi, e' regolato dal capo II del presente titolo.".
+
 ## Art. 42. — Modifiche all'articolo 317-bis del codice civile
 
 L'articolo 317-bis del codice civile e' sostituito dal seguente: 
@@ -336,7 +683,43 @@ L'articolo 317-bis del codice civile e' sostituito dal seguente:
 
 ## Art. 43. — Modifiche all'articolo 318 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 318 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo le parole: "Il figlio" sono inserite le seguenti: ", sino alla maggiore eta' o all'emancipazione,"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale".
+
 ## Art. 44. — Modifiche all'articolo 320 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 320 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la parola: "potesta'" ovunque presente e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma dopo le parole: "i figli nati e nascituri" inserire le seguenti: ", fino alla maggiore eta' o all'emancipazione,".
 
 ## Art. 45. — Modifiche all'articolo 321 del codice civile
 
@@ -351,6 +734,24 @@ All'articolo 322 del codice civile la parola: "potesta'" e' sostituita dalle seg
 All'articolo 323 del codice civile la parola: "potesta'", ovunque presente, e' sostituita dalle seguenti: "responsabilita' genitoriale".
 
 ## Art. 48. — Modifiche all'articolo 324 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 324 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la parola: "potesta'", ovunque presente, e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma, dopo le parole: "dei beni del figlio", sono inserite le seguenti: ", fino alla maggiore eta' o all'emancipazione".
 
 ## Art. 49. — Modifiche all'articolo 327 del codice civile
 
@@ -462,6 +863,24 @@ Al primo comma dell'articolo 343 del codice civile le parole: "potesta' dei geni
 
 ## Art. 57. — Modifiche all'articolo 348 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 348 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il terzo comma e' sostituito dal seguente: "Il giudice, prima di procedere alla nomina del tutore, dispone l'ascolto del minore che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento.".
+
 ## Art. 58. — Modifiche all'articolo 350 del codice civile
 
 All'articolo 350 del codice civile le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale".
@@ -489,6 +908,24 @@ Al secondo comma dell'articolo 417 del codice civile le parole: "potesta' dei ge
 
 ## Art. 64. — Modifiche all'articolo 433 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 433 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero 2) e' sostituito dal seguente: "2) i figli, anche adottivi, e, in loro mancanza, i discendenti prossimi;"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero 3) e' sostituito dal seguente: "3) i genitori e, in loro mancanza, gli ascendenti prossimi; gli adottanti;".
+
 ## Art. 65. — Modifiche all'articolo 436 del codice civile
 
 All'articolo 436 del codice civile le parole: "legittimi o naturali" sono soppresse.
@@ -511,13 +948,131 @@ Al secondo comma dell'articolo 480 del codice civile dopo le parole: "la condizi
 
 ## Art. 70. — Modifiche all'articolo 536 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 536 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma le parole: "i figli legittimi, i figli naturali, gli ascendenti legittimi" sono sostituite dalle seguenti: "i figli, gli ascendenti"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma le parole: "legittimi" e "i legittimati e" sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al terzo comma le parole: "legittimi o naturali" ovunque presenti sono soppresse.
+
 ## Art. 71. — Modifiche all'articolo 537 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 537 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica le parole: "legittimi e naturali" sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma le parole: "legittimo o naturale," sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al secondo comma le parole: " , legittimi e naturali" sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il terzo comma e' abrogato.
 
 ## Art. 72. — Modifiche all'articolo 538 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 538 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica la parola: "legittimi" e' soppressa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma le parole: "legittimi ne' naturali" e la parola: "legittimi" sono soppresse.
+
 ## Art. 73. — Modifiche all'articolo 542 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 542 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma le parole: "legittimo o naturale," sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma le parole: ", legittimi o naturali" ovunque presenti sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il terzo comma e' abrogato.
+
 ## Art. 74. — Modifiche all'articolo 544 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 544 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica la parola: "legittimi" e' soppressa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma le parole: "ne' figli legittimi ne' figli naturali" sono sostituite dalla seguente: "figli"; la parola: "legittimi" e' soppressa.
 
 ## Art. 75. — Modifiche all'articolo 565 del codice civile
 
@@ -536,11 +1091,47 @@ L'articolo 566 del codice civile e' sostituito dal seguente:
 
 ## Art. 77. — Modifiche all'articolo 567 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 567 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente "Successione dei figli adottivi"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il primo comma e' sostituito dal seguente: "Ai figli sono equiparati gli adottivi".
+
 ## Art. 78. — Modifiche all'articolo 573 del codice civile
 
 All'articolo 573 del codice civile, nella rubrica e nel primo comma, la parola: "naturali" e' sostituita dalle seguenti: "nati fuori del matrimonio".
 
 ## Art. 79. — Modifiche all'articolo 580 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 580 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica la parola: "naturali" e' sostituita dalla seguente: "nati fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la parola: "naturali", ovunque presente, e' sostituita dalle seguenti: "nati fuori del matrimonio".
 
 ## Art. 80. — Modifiche all'articolo 581 del codice civile
 
@@ -548,17 +1139,71 @@ All'articolo 581 del codice civile le parole: "legittimi o figli naturali, o fig
 
 ## Art. 81. — Modifiche all'articolo 582 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 582 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica la parola: "legittimi" e' soppressa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma la parola: "legittimi" e' soppressa.
+
 ## Art. 82. — Modifiche all'articolo 583 del codice civile
 
 All'articolo 583 del codice civile le parole: "legittimi o naturali" sono soppresse.
 
 ## Art. 83. — Modifiche all'articolo 594 del codice civile
 
+1.
+                        
+                            
+                                All'articolo 594 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica la parola: "naturali" e' sostituita dalle seguenti: "nati fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la parola: "naturali" e' sostituita dalle seguenti: "nati fuori del matrimonio".
+
 ## Art. 84. — Modifiche all'articolo 643 del codice civile
 
 All'articolo 643 del codice civile il secondo comma e' sostituito dal seguente: "Se e' chiamato un concepito, l'amministrazione spetta al padre e alla madre.".
 
 ## Art. 85. — Modifiche all'articolo 687 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 687 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma la parola: "legittimo" e' soppressa; le parole: "o legittimato o" sono sostituite dalla seguente: "anche" e la parola: "naturale" e' sostituita dalle seguenti: "nato fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente: "La revocazione ha luogo anche se il figlio e' stato concepito al tempo del testamento.".
 
 ## Art. 86. — Modifiche all'articolo 715 del codice civile
 
@@ -601,15 +1246,253 @@ Al numero 2) dell'articolo 2941 del codice civile la parola: "potesta'" e' sosti
 
 ## Art. 93. — Modifiche al codice penale in materia di filiazione
 
+1.
+                        
+                            
+                                Al codice penale sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 19, primo comma, numero 6), le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 32, secondo comma, le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 34, nella rubrica e nel testo dell'articolo, le parole: "potesta' dei genitori" e la parola: "potesta'", ovunque presenti, sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 98, secondo comma, le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 111, secondo comma, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 112, terzo comma, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 146, secondo comma, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 147, terzo comma, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 540, primo comma, la parola: "illegittima" e' sostituita dalle seguenti: "fuori del matrimonio" e la parola: "legittima" e' sostituita dalle seguenti: "nel matrimonio"; nel secondo comma, la parola: "illegittima" e' sostituita dalle seguenti: "fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 564, quarto comma, le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    nella rubrica dell'articolo 568 le parole: "fanciullo legittimo o naturale riconosciuto" sono sostituite dalla seguente: "figlio"; al primo comma le parole: "legittimo o naturale riconosciuto" sono sostituite dalle seguenti "nato nel matrimonio o riconosciuto"; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    all'articolo 569, le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    all'articolo 570, primo comma, le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    all'articolo 573, primo comma, le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    all'articolo 574, primo comma, le parole: "potesta' dei genitori", ovunque presenti, sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    all'articolo 574-bis, le parole: "potesta' dei genitori" e le parole: "potesta' genitoriale", ovunque presenti, sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    all'articolo 583-bis, quarto comma, numero 1), le parole: "potesta' del genitore" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    all'articolo 600-septies.2, primo comma, numero 1), le parole: "potesta' genitoriale" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    all'articolo 609-nonies, primo comma, numero 1), le parole: "potesta' del genitore" sono sostituite dalle seguenti: "responsabilita' genitoriale".
+
 ## Art. 94. — Modifiche al codice di procedura penale in materia di filiazione
 
 All'articolo 288 del codice di procedura penale, nella rubrica e nel comma 1, le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale".
 
 ## Art. 95. — Modifiche al codice di procedura civile in materia di filiazione
 
+1.
+                        
+                            
+                                Al codice di procedura civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 706 il quarto comma e' sostituito dal seguente: "Nel ricorso deve essere indicata l'esistenza di figli di entrambi i coniugi."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 709-ter, primo comma, la parola: "potesta'" e' sostituita dalla seguente: "responsabilita'".
+
 ## - Titolo III Modifiche alle leggi speciali in materia di filiazione
 
 ## Art. 96. — Modifiche al regio decreto 30 marzo 1942, n. 318
+
+1.
+                        
+                            
+                                Al regio decreto 30 marzo 1942, n. 318, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 35 e' sostituito dal seguente: 
+ 
+ "Art. 35. 
+ 
+ Sulla domanda di adozione e di revoca della adozione di minore di eta' provvede il tribunale per i minorenni."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo l'articolo 37 e' inserito il seguente: 
+ 
+ "Art. 37-bis. 
+ 
+ I figli maggiorenni portatori di handicap grave previsti dall'articolo 337-septies, secondo comma, del codice civile, sono coloro i quali siano portatori di handicap ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 38, primo comma, dopo le parole: "spetta al giudice ordinario." e' aggiunto il seguente periodo: "Sono, altresi', di competenza del tribunale per i minorenni i provvedimenti contemplati dagli articoli 251 e 317-bis del codice civile."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo l'articolo 38 e' inserito il seguente: 
+ 
+ "Art. 38-bis. 
+ 
+ Quando la salvaguardia del minore e' assicurata con idonei mezzi tecnici, quali l'uso di un vetro specchio unitamente ad impianto citofonico, i difensori delle parti, il curatore speciale del minore, se gia' nominato, ed il pubblico ministero possono seguire l'ascolto del minore, in luogo diverso da quello in cui egli si trova, senza chiedere l'autorizzazione del giudice prevista dall'articolo 336-bis, secondo comma, del codice civile."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 117 le parole: "figli naturali" sono sostituite dalle seguenti: "figli nati fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 121 la parola: "legittimo" e' sostituita dalle seguenti: "nato nel matrimonio"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 122 la parola: "naturali" ovunque presente e' sostituita dalle seguenti: "nati fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 123 la parola: "naturali" e la parola: "adulterini" ovunque presenti sono sostituite dalle seguenti: "nati fuori del matrimonio"; al quinto comma la parola: "naturale" e' soppressa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dopo l'articolo 127 e' inserito il seguente: 
+ 
+ "Art. 127-bis. 
+ 
+ I divieti contenuti nei numeri 6, 7, 8 e 9 dell'articolo 87 del codice civile sono applicabili all'affiliazione.".
 
 ## Art. 97. — Modifiche alla legge 21 novembre 1967, n. 1185
 
@@ -617,19 +1500,322 @@ All'articolo 3 della legge 21 novembre 1967, n. 1185, le parole: "patria potesta
 
 ## Art. 98. — Modifiche alla legge 1° dicembre 1970, n. 898
 
+1.
+                        
+                            
+                                Alla legge 1° dicembre 1970, n. 898, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 4 il comma 4 e' sostituito dal seguente: "4. Nel ricorso deve essere indicata l'esistenza di figli di entrambi i coniugi."; nel comma 8, le parole da "qualora lo ritenga" fino a: "i figli minori" sono sostituite dalle seguenti: "disposto l'ascolto del figlio minore che abbia compiuto gli anni dodici e anche di eta' inferiore ove capace di discernimento"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 6, comma 1, le parole: "147 e 148" sono sostituite dalle seguenti: "315-bis e 316-bis "; il comma 2 e' sostituito dal seguente: "2. Il Tribunale che pronuncia lo scioglimento o la cessazione degli effetti civili del matrimonio applica, riguardo ai figli, le disposizioni contenute nel capo II, del titolo IX, del libro primo, del codice civile."; i commi 3, 4, 5, 8, 9, 10, 11 e 12 sono abrogati; nel comma 7, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 12, la parola: "naturale" e' sostituita dalle seguenti: "nato fuori del matrimonio".
+
 ## Art. 99. — Modifiche alla legge 22 maggio 1978, n. 194
 
 All'articolo 12 della legge 22 maggio 1978, n. 194, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale".
 
 ## Art. 100. — Modifiche alla legge 4 maggio 1983, n. 184
 
+1.
+                        
+                            
+                                Alla legge 4 maggio 1983, n. 184, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1 la parola: "potesta'" e' sostituita dalla seguente: "responsabilita'"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 3 le parole: "potesta' dei genitori" e la parola: "potesta'" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 4 la parola: "potesta'", ovunque presente, e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 5 le parole: "potesta' parentale" e la parola: "potesta'" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 6, comma 6, le parole: "naturali o" sono sostituite dalla seguente: "anche"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 8, comma 3, dopo le parole: "dei servizi sociali locali" sono inserite le seguenti: ", anche all'esito della segnalazione di cui all'articolo 79-bis,"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 9, comma 5, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 10, comma 3, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 11 la parola: "naturali" e la parola: "naturale", ovunque presenti, sono soppresse; al terzo comma, dopo le parole: "per altri due mesi." e' aggiunto il seguente periodo: "Il genitore autorizzato al riconoscimento prima del compimento del sedicesimo anno ai sensi dell'articolo 250, quinto comma, del codice civile, puo' chiedere ulteriore sospensione per altri due mesi dopo l'autorizzazione."; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 15, comma 1, la lettera c), e' sostituita dalla seguente: "c) le prescrizioni impartite ai sensi dell'articolo 12 sono rimaste inadempiute per responsabilita' dei genitori ovvero e' provata l'irrecuperabilita' delle capacita' genitoriali dei genitori in un tempo ragionevole."; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'articolo 19, comma 1, le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    all'articolo 25, comma 2, le parole: "legittimi o legittimati" sono soppresse e la parola: "quattordici" e' sostituita dalla seguente: "dodici"; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    all'articolo 27, comma 1, la parola: "legittimo" e' sostituita dalle seguenti: "nato nel matrimonio"; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    all'articolo 28, comma 4, le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    all'articolo 32, comma 2, lettera b), la parola: "legittimo" e' sostituita dalle seguenti: "nato nel matrimonio" e la parola: "naturali" e' sostituita dalla seguente: "biologici"; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    all'articolo 36, comma 2, lettera a), la parola: "naturali" e' sostituita dalla seguente: "biologici" e la parola: "legittimo" e' sostituita dalle seguenti: "nato nel matrimonio"; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    all'articolo 37, comma 2, la parola: "naturali" e' sostituita dalla seguente: "biologici"; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    all'articolo 44, comma 2, la parola: "legittimi" e' soppressa; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    all'articolo 46, comma 2, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    all'articolo 48, comma 1, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    all'articolo 50 la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    all'articolo 52, comma 3, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    all'articolo 71, comma 3, la parola: "potesta'" e' sostituita dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    all'articolo 73, comma 1, le parole: "legittimo per adozione" sono sostituite dalla seguente: "adottivo"; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    all'articolo 74 la parola: "naturale" e' sostituita dalle seguenti: "nato fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    dopo l'articolo 79 e' inserito il seguente: 
+ 
+ "Art. 79-bis. 
+ 
+ 1. Il giudice segnala ai comuni le situazioni di indigenza di nuclei familiari che richiedono interventi di sostegno per consentire al minore di essere educato nell'ambito della propria famiglia.".
+
 ## Art. 101. — Modifiche alla legge 31 maggio 1995, n. 218
+
+1.
+                        
+                            
+                                Alla legge 31 maggio 1995, n. 218, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 33 e' sostituito dal seguente: 
+ 
+ "Art. 33. 
+ 
+ 
+ Filiazione 
+ 
+ 1. Lo stato di figlio e' determinato dalla legge nazionale del figlio o, se piu' favorevole, dalla legge dello Stato di cui uno dei genitori e' cittadino, al momento della nascita. 
+ 2. La legge individuata ai sensi del comma 1 regola i presupposti e gli effetti dell'accertamento e della contestazione dello stato di figlio; qualora la legge cosi' individuata non permetta l'accertamento o la contestazione dello stato di figlio si applica la legge italiana. 
+ 3. Lo stato di figlio, acquisito in base alla legge nazionale di uno dei genitori, non puo' essere contestato che alla stregua di tale legge; se tale legge non consente la contestazione si applica la legge italiana. 
+ 4. Sono di applicazione necessaria le norme del diritto italiano che sanciscono l'unicita' dello stato di figlio."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella rubrica dell'articolo 35 la parola: "naturale" e' soppressa; il comma 1 e' sostituito dal seguente: "1. Le condizioni per il riconoscimento del figlio sono regolate dalla legge nazionale del figlio al momento della nascita, o se piu' favorevole, dalla legge nazionale del soggetto che fa il riconoscimento, nel momento in cui questo avviene; se tali leggi non prevedono il riconoscimento si applica la legge italiana."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 36 le parole: "potesta' dei genitori" sono sostituite dalle seguenti: "responsabilita' genitoriale"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo l'articolo 36 e' inserito il seguente: 
+ 
+ "Art. 36-bis. 
+ 
+ 1. Nonostante il richiamo ad altra legge, si applicano in ogni caso le norme del diritto italiano che: 
+ a) attribuiscono ad entrambi i genitori la responsabilita' genitoriale; 
+ b) stabiliscono il dovere di entrambi i genitori di provvedere al mantenimento del figlio; 
+ c) attribuiscono al giudice il potere di adottare provvedimenti limitativi o ablativi della responsabilita' genitoriale in presenza di condotte pregiudizievoli per il figlio."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 38, primo comma, la parola: "legittimo" e' soppressa.
 
 ## Art. 102. — Modifiche alla legge 19 febbraio 2004, n. 40
 
 All'articolo 8 della legge 19 febbraio 2004, n. 40, la parola: "legittimi" e' sostituita dalle seguenti: "nati nel matrimonio".
 
 ## Art. 103. — Modifiche al decreto legislativo 3 febbraio 2011, n. 71
+
+1.
+                        
+                            
+                                All'articolo 30 del decreto legislativo 3 febbraio 2011, n. 71, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Riconoscimento dei figli nati fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma la parola: "naturale" e' sostituita dalle seguenti: "nato fuori del matrimonio"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il secondo periodo del primo comma e' sostituito dal seguente: "Quando ricorrono i presupposti previsti dall'articolo 262 del codice civile, il capo dell'ufficio consolare riceve altresi' le domande relative al cognome del figlio nato fuori del matrimonio e le trasmette al giudice competente"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il secondo comma e' abrogato.
 
 ## - Titolo IV Disposizioni transitorie e finali
 
@@ -668,6 +1854,31 @@ Le parole: "figli naturali" o le parole: "figlio naturale", ovvero "figli adulte
 Le parole: "figli legittimati", "figlio legittimato", "legittimato", "legittimati" ovunque presenti in tutta la legislazione vigente, sono soppresse.
 
 ## Art. 106. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 155-bis, 155-ter, 155-quater, 155-quinquies, 155-sexies, 233, 235, 242, 243, 261, 578 e 579 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 34, 124 e 125 del regio decreto 30 marzo 1942, n. 318; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 34 della legge 31 maggio 1995, n. 218.
 
 ## Art. 107. — Clausola di invarianza finanziaria
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2019-12-20;181
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,31 @@ L'utilizzo del logo e' consentito unicamente ai soggetti di cui all'articolo 2 c
 Modalita' di richiesta di utilizzazione del logo «No Slot»
 
 I soggetti di cui all'articolo 2 interessati all'utilizzo del logo «No Slot» presentano telematicamente la segnalazione, di cui al comma 2, allo Sportello unico delle attivita' produttive, di cui al decreto del Presidente della Repubblica 7 settembre 2010, n. 160, del Comune del territorio in cui hanno sede i locali nei quali si intende esporre il logo.
+
+2.
+                    
+                        
+                            Ai fini di cui al comma 1, i soggetti interessati segnalano la volonta' di esporre il logo di cui all'articolo 1 e l'ubicazione dei locali nei quali si procedera' all'esposizione, unitamente alla dichiarazione sostitutiva di cui agli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, secondo il modello riportato all'allegato 2, relativa: 
+ 
+                        
+                        
+                            a)
+                            
+                                al possesso dei requisiti di cui all'articolo 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla descrizione dei locali, corredata da idonea documentazione fotografica, e dei flussi di pubblico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al tipo di attivita' e di utenza dei locali presso i quali sara' apposto il logo «No Slot».
 
 L'utilizzo del logo puo' essere iniziato dalla data di presentazione della segnalazione di cui al comma 2 e ha durata annuale. Al relativo rinnovo si provvede con le modalita' di cui al medesimo comma 2.
 

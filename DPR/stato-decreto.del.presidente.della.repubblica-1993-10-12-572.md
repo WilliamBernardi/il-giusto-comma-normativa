@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-03-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,17 +28,177 @@ Sulla proposta dei Ministri degli affari esteri e dell'interno, di concerto con 
 
 Nel presente regolamento la legge 5 febbraio 1992, n. 91, e' indicata con la denominazione "legge".
 
+2.
+                    
+                        
+                            Ai fini dell'acquisto della cittadinanza italiana: 
+ 
+                        
+                        
+                            a)
+                            
+                                si considera legalmente residente nel territorio dello Stato chi vi risiede avendo soddisfatto le condizioni e gli adempimenti previsti dalle norme in materia d'ingresso e di soggiorno degli stranieri in Italia e da quelle in materia d'iscrizione anagrafica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                si considera che abbia prestato effettivamente servizio militare chi abbia compiuto la ferma di leva nelle Forze armate italiane o la prestazione di un servizio equiparato a quello militare, a condizione che queste siano interamente rese, salvo che il mancato completamento dipenda da sopravvenute cause di forza maggiore riconosciute dalle autorita' competenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                salvi i casi nei quali la legge richiede specificamente l'esistenza di un rapporto di pubblico impiego, si considera cha abbia prestato servizio alle dipendenze dello Stato chi sia stato parte di un rapporto di lavoro dipendente con retribuzione a carico del bilancio dello Stato. 
+ AVVERTENZA: 
+ Il testo delle note qui pubblicato e' stato redatto ai 
+ sensi dell'art. 10, comma 3, del testo unico delle 
+ disposizioni sulla promulgazione delle leggi, 
+ sull'emanazione dei decreti del Presidente della Repubblica 
+ e sulle pubblicazioni ufficiali della Repubblica italiana, 
+ approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo 
+ fine di facilitare la lettura delle disposizioni di legge 
+ alle quali e' operato il rinvio. Restano invariati il 
+ valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Acquisto della cittadinanza per nascita nel territorio dello Stato
 
 Il figlio, nato in Italia da genitori stranieri, non acquista la cittadinanza italiana per nascita ai sensi dell'art. 1, comma 1, lettera b), della legge, qualora l'ordinamento del Paese di origine dei genitori preveda la trasmissione della cittadinanza al figlio nato all'estero, eventualmente anche subordinandola ad una dichiarazione di volonta' da parte dei genitori o legali rappresentanti del minore, ovvero all'adempimento di formalita' amministrative da parte degli stessi.
 
 ## Art. 3. — Dichiarazione di volonta'
 
+1.
+                    
+                        
+                            La dichiarazione di volonta' rivolta all'acquisto della cittadinanza di cui all'art. 2, comma 2, della legge deve essere corredata della seguente documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                atto di nascita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                atto di riconoscimento o copia autentica della sentenza con cui viene dichiarata la paternita' o maternita', ovvero copia autentica della sentenza che dichiara efficace in Italia la pronuncia del giudice straniero, ovvero copia autentica della sentenza con cui viene riconosciuto il diritto al mantenimento o agli alimenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificato di cittadinanza del genitore.
+
+2.
+                    
+                        
+                            La dichiarazione di volonta' di cui all'art. 4, comma 1, lettere b) e c), della legge deve essere corredata della seguente documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                atto di nascita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato di cittadinanza italiana per nascita del padre o della madre o di uno degli ascendenti in linea retta di secondo grado; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione relativa alla residenza, ove richiesta.
+
 Ai fini dell'acquisto della cittadinanza ai sensi dell'art. 4, comma 1, lettera c), della legge l'interessato deve aver risieduto legalmente in Italia senza interruzioni nell'ultimo biennio antecedente il conseguimento della maggiore eta' e sino alla data della dichiarazione di volonta'.
+
+4.
+                    
+                        
+                            La dichiarazione di volonta' di cui all'art. 4, comma 2, della legge deve essere corredata della seguente documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                atto di nascita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                documentazione relativa alla residenza.
 
 ## Art. 4. — Istanze per l'acquisto della cittadinanza
 
+1.
+                    
+                        
+                            L'istanza prodotta ai sensi dell'art. 7 della legge dallo straniero o apolide, coniugato con cittadino italiano, deve essere corredata, oltre che dai documenti necessari a dimostrare che egli si trova nelle condizioni previste dall'art. 5 della stessa legge, anche dei seguenti altri documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                atto di nascita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                estratto per riassunto dai registri di matrimonio rilasciato dal comune italiano presso il quale e' stato iscritto o trascritto l'atto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificazione penale rilasciata dagli Stati stranieri di origine e di residenza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificato di situazione di famiglia o documentazione equipollente.
+
 L'istanza di cui al comma 1 deve essere trasmessa al Ministero dell'interno entro trenta giorni dalla data della presentazione.
+
+3.
+                    
+                        
+                            L'istanza prodotta ai sensi dell'art. 9 della legge dallo straniero o apolide che vuole ottenere la cittadinanza deve essere presentata, per il tramite del prefetto della provincia di residenza, al Ministero dell'interno e corredata, oltre che dei documenti necessari a dimostrare che egli si trova in una delle condizioni previste dal detto articolo, dei seguenti altri: 
+ 
+                        
+                        
+                            a)
+                            
+                                atto di nascita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato di situazione di famiglia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificazione penale rilasciata dagli Stati di origine e di residenza.
 
 L'istanza di cui al comma 3 deve essere trasmessa al Ministero dell'interno entro trenta giorni dalla data della presentazione.
 
@@ -92,6 +252,35 @@ All'estero, la rinuncia alla cittadinanza deve farsi dinanzi all'autorita' diplo
 
 In Italia, la rinuncia alla cittadinanza italiana deve essere fatta dinanzi all'ufficiale dello stato civile del comune di residenza.
 
+3.
+                    
+                        
+                            La dichiarazione di rinuncia deve essere corredata della seguente documentazione: 
+
+                        
+                        
+                            a)
+                            
+                                atto di nascita rilasciato dal comune presso il quale detto atto risulta iscritto o trascritto; 
+                            
+                        
+                        
+                            b)
+                            
+                                certificato di cittadinanza italiana; 
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione relativa al possesso della cittadinanza straniera; 
+                            
+                        
+                        
+                            d)
+                            
+                                documentazione relativa alla residenza all'estero, ove richiesta.
+
 ## Art. 9. — Decreto di intimazione
 
 L'intimazione di cui all'art. 12, comma 1, della legge e' fatta con decreto del Ministro dell'interno ed ha effetto dal giorno della notificazione all'interessato.
@@ -99,6 +288,38 @@ L'intimazione di cui all'art. 12, comma 1, della legge e' fatta con decreto del 
 Perde la cittadinanza, dal giorno successivo al termine fissato dal decreto di intimazione, chi non ha abbandonato, entro il termine medesimo, l'impiego o la carica accettati da uno Stato, da un ente pubblico estero o da un ente internazionale, ovvero il servizio militare per uno Stato estero.
 
 ## Art. 10. — Riacquisto della cittadinanza
+
+1.
+                    
+                        
+                            Le dichiarazioni di riacquisto di cui agli articoli 13 e 17 della legge devono essere corredate della seguente documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                atto di nascita rilasciato dal comune presso il quale detto atto risulta iscritto o trascritto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                documentazione da cui risulti il trascorso possesso della cittadinanza italiana; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione relativa al possesso della cittadinanza straniera, ovvero allo status di apolidia; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificato di situazione di famiglia o documentazione equipollente.
 
 ## Art. 11. — Inibizione al riacquisto
 
@@ -159,6 +380,31 @@ Ad esclusione delle ipotesi previste dall'art. 1 della legge e di quelle in cui 
 La certificazione di cittadinanza e' rilasciata, sulla base delle risultanze dello stato civile ed anagrafiche, in Italia dal sindaco del comune di residenza degli interessati e all'estero dall'autorita' diplomatica o consolare competente per territorio. Non possono essere rilasciati certificati o documenti che abbiano per presupposto l'essersi prodotto uno degli effetti previsti dalla legge senza che sia stata previamente accertata dall'autorita' competente la sussistenza di tutte le condizioni stabilite perche' tale effetto si sia prodotto.
 
 ## Art. 17. — Certificazione della condizione d'apolidia
+
+1.
+                    
+                        
+                            Il Ministero dell'interno puo' certificare la condizione di apolidia, su istanza dell'interessato corredata della seguente documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                atto di nascita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                documentazione relativa alla residenza in Italia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ogni documento idoneo a dimostrare lo stato di apolide.
 
 E' facolta' del Ministero dell'interno di richiedere, a seconda dei casi, altri documenti.
 

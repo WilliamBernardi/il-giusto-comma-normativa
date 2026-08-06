@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-06-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1694,6 +1694,24 @@ Quarta fascia.... 245.000.
 
 ## Art. 11. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni forza di polizia ad ordinamento civile il Fondo unico per l'efficienza dei servizi istituzionali, di cui all'articolo 14 del decreto del Presidente della Repubblica 16 marzo 1999, n. 254, e' incrementato:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2001 dall'importo derivante dalla riduzione di un ulteriore 3 per cento degli stanziamenti dei capitoli dei compensi per lavoro straordinario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli anni 2000 e 2001 dalle somme di cui all'articolo 19 della legge 23 dicembre 1999, n. 488, e all'articolo 50 della legge 23 dicembre 2000, n. 388, di pertinenza di ogni singola amministrazione, come da tabella I allegata al presente decreto. Tali somme, ove non utilizzate nell'esercizio di competenza, sono riassegnate per le medesime esigenze nell'anno successivo. (1) ((2))
+
 ---------------
                             AGGIORNAMENTO (1)
                              Il D.P.R. 18 giugno 2002, n. 164 ha disposto (con l'art. 14, comma 1) che "Per ogni Forza di polizia ad ordinamento civile il Fondo unico per l'efficienza dei servizi istituzionali, di cui all'articolo 14 del secondo quadriennio normativo Polizia e all'articolo 11 del biennio economico Polizia 2000-2001, e' ulteriormente incrementato, come da tabella "A" allegata al presente decreto, dalle seguenti risorse economiche:
@@ -3286,6 +3304,24 @@ Terza fascia.... 272.000
 Quarta fascia.... 245.000.
 
 ## Art. 23. — Efficienza dei servizi istituzionali
+
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento militare, le risorse finanziarie di cui all'articolo 53 del decreto del Presidente della Repubblica 16 marzo 1999, n. 25, sono cosi' incrementate:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2001 dall'importo derivante dalla riduzione di un ulteriore 3 per cento degli stanziamenti dei capitoli dei compensi per lavoro straordinario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli anni 2000 e 2001 dalle somme di cui all'articolo 19 della legge 23 dicembre 1999, n. 488, e all'articolo 50 della legge 23 dicembre 2000, n. 388, di pertinenza di ogni singola amministrazione, come da tabella I allegata al presente decreto. Tali somme, ove non utilizzate nell'esercizio di competenza, sono riassegnate per le medesime esigenze nell'anno successivo.(1)((3))
 
 ---------------
                             AGGIORNAMENTO (1)

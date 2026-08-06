@@ -8,8 +8,8 @@ codice_redazionale: 009G0119
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del lavo
 ## Art. 1. — (Attuazione dell'articolo 1 del decreto-legge 16 maggio 2008, n. 85, convertito, con modificazioni,
  dalla legge 14 luglio 2008, n. 121)
 
+1.
+                    
+                        
+                            Al decreto legislativo 9 aprile 2008, n. 81, di seguito denominato:"decreto", sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "Ministero del lavoro e della previdenza sociale" e le parole: "Ministero della salute", ovunque presenti, sono sostituite dalle seguenti: "Ministero del lavoro, della salute e delle politiche sociali"; le parole: "Ministro del lavoro e della previdenza sociale" e le parole: "Ministro della salute", ovunque presenti, sono sostituite dalle seguenti: "Ministro del lavoro, della salute e delle politiche sociali";
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: "Ministero delle infrastrutture", ovunque presenti, sono sostituite dalle seguenti: "Ministero delle infrastrutture e dei trasporti" e le parole:"Ministro delle infrastrutture", ovunque presenti, sono sostituite dalle seguenti: "Ministro delle infrastrutture e dei trasporti".
+
 ## Art. 2. — (Modifiche all'articolo 2 del decreto legislativo
  9 aprile 2008, n. 81)
 
@@ -38,14 +56,124 @@ All'articolo 2, comma 1, lettera a), del decreto, le parole: "il volontario, com
 ## Art. 3. — (Modifiche all'articolo 3 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 3 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 le parole: "delle organizzazioni di volontariato di cui alla legge 11 agosto 1991, n. 266" sono sostituite dalle seguenti: "degli uffici all'estero di cui all'articolo 30 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18" e le parole: "particolari esigenze connesse al servizio espletato o alle peculiarita' organizzative individuate entro e non oltre ventiquattro mesi dalla data di entrata in vigore del presente decreto legislativo con decreti emanati, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400" sono sostituite dalle seguenti: "particolari esigenze connesse al servizio espletato o alle peculiarita' organizzative ivi comprese quelle per la tutela della salute e sicurezza del personale nel corso di operazioni ed attivita' condotte dalla Forze armate, compresa l'Arma dei carabinieri, nonche' dalle altre Forze di polizia e dal Corpo dei vigili del fuoco, nonche' dal Dipartimento della protezione civile fuori dal territorio nazionale, individuate entro e non oltre ventiquattro mesi dalla data di entrata in vigore del presente decreto legislativo con decreti emanati, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3 e' inserito il seguente: "3-bis. Nei riguardi delle cooperative sociali di cui alla legge 8 novembre 1991, n. 381, e delle organizzazioni di volontariato della protezione civile, ivi compresi i volontari della Croce Rossa Italiana e del Corpo Nazionale soccorso alpino e speleologico, e i volontari dei vigili del fuoco, le disposizioni del presente decreto legislativo sono applicate tenendo conto delle particolari modalita' di svolgimento delle rispettive attivita', individuate entro il 31 dicembre 2010 con decreto del Ministero del lavoro, della salute e delle politiche sociali, di concerto con il Dipartimento della protezione civile e il Ministero dell'interno, sentita la Commissione consultiva permanente per la salute e sicurezza sul lavoro.".
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 9 le parole: "Nei confronti dei lavoratori a domicilio di cui alla legge 18 dicembre 1973, n. 877, e dei" sono sostituite dalle seguenti: "Fermo restando quanto previsto dalla legge 18 dicembre 1973, n. 877, ai lavoratori a domicilio ed ai ";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 12, le parole: "dei piccoli imprenditori di cui all'articolo 2083 del codice civile" sono sostituite dalle seguenti: "dei coltivatori diretti del fondo, degli artigiani e dei piccoli commercianti".
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 12, e' inserito il seguente:
+ "12-bis. Nei confronti dei volontari di cui alla legge 1° agosto 1991, n. 266, e dei volontari che effettuano servizio civile si applicano le disposizioni relative ai lavoratori autonomi di cui all'articolo 21. Con accordi tra il volontario e l'associazione di volontariato o l'ente di servizio civile possono essere individuate le modalita' di attuazione della tutela di cui al precedente periodo.
+Ove il volontario svolga la propria prestazione nell'ambito dell'organizzazione di un datore di lavoro, questi e' tenuto a fornire al volontario dettagliate informazioni sui rischi specifici esistenti negli ambienti in cui e' chiamato ad operare e sulle misure di prevenzione e di emergenza adottate in relazione alla propria attivita'. Egli e' altresi' tenuto ad adottare le misure utili ad eliminare o, ove cio' non sia possibile, ridurre al minimo i rischi da interferenze tra la prestazione del volontario e altre attivita' che si svolgano nell'ambito della medesima organizzazione.".
+
 ## Art. 4. — (Modifiche all'articolo 4 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 4 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera b), dopo le parole: "formativi e di orientamento", le parole: "di cui all'articolo 18 della legge 24 giugno 1997, n. 196, e di cui a specifiche disposizioni delle leggi regionali promosse al fine di realizzare momenti di alternanza tra studio e lavoro o di agevolare le scelte professionali mediante la conoscenza diretta del mondo del lavoro" sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 dopo la lettera l) e' aggiunta la seguente: "l-bis) i lavoratori in prova.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ "4. Il numero degli operai impiegati a tempo determinato, anche stagionali, nel settore agricolo si computa per frazioni di unita' lavorative anno (ULA) come individuate sulla base della normativa comunitaria..".
 
 ## Art. 5. — (Modifiche all'articolo 5 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 5, comma 1, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole: "Ministero del lavoro, della salute e delle politiche sociali," sono inserite le seguenti: "e' istituito";
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera a) e' sostituita dalla seguente: "a) tre rappresentanti del Ministero del lavoro, della salute e delle politiche sociali;";
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera b) e' sostituita dalla seguente: " b) un rappresentante del Ministero delle infrastrutture e dei trasporti;".
+
 ## Art. 6. — (Modifiche all'articolo 6 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 6, comma 1, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera a) e' sostituita dalla seguente: "a) un rappresentante del Ministero del lavoro, della salute e delle politiche sociali che la presiede;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera b) e' sostituita dalla seguente: "b) un rappresentante della Presidenza del Consiglio dei Ministri - Dipartimento per le pari opportunita';".
 
 All'articolo 6, comma 8, del decreto, dopo la lettera m) sono aggiunte, infine, le seguenti:
  "m-bis) elaborare criteri di qualificazione della figura del formatore per la salute e sicurezza sul lavoro, anche tenendo conto delle peculiarita' dei settori di riferimento;
@@ -63,17 +191,136 @@ All'articolo 6, comma 8, del decreto, dopo la lettera m) sono aggiunte, infine, 
 ## Art. 8. — (Modifiche all'articolo 9 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 9, comma 4, del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera d) e' aggiunto, in fine, il seguente periodo: "Le somme eventualmente riversate all'entrata del bilancio dello Stato a seguito di economie di gestione realizzatesi nell'esercizio finanziario sono riassegnate al pertinente capitolo dello stato di previsione del Ministero del lavoro, della salute e delle politiche sociali.";
+ b)dopo la lettera d) e' aggiunta la seguente:
+ "d-bis) puo' erogare prestazioni di assistenza sanitaria riabilitativa non ospedaliera, previo accordo quadro stipulato in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, su proposta del Ministero del lavoro, della salute e delle politiche sociali, di concerto con il Ministero dell'economia e delle finanze, sentito l'INAIL, che definisca le modalita' di erogazione delle prestazioni da parte dell'INAIL, senza oneri aggiuntivi per la finanza pubblica.".
+
 All'articolo 9, comma 6, lettera i), del decreto, la parola: "svolge" e' sostituta dalle seguenti: "puo' svolgere".
  3.All'articolo 9, comma 7, del decreto, alla lettera e) e' aggiunto, in fine, il seguente periodo: " Le somme eventualmente riversate all'entrata del bilancio dello Stato a seguito di economie di gestione realizzatesi nell'esercizio finanziario sono riassegnate al pertinente capitolo dello stato di previsione del Ministero del lavoro, della salute e delle politiche sociali.".
 
 ## Art. 9. — (Modifiche all'articolo 11 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 11 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), dopo la parola: "finanziamento" sono inserite le seguenti: ", da parte dell'INAIL e previo trasferimento delle necessarie risorse da parte del Ministero del lavoro, della salute e delle politiche sociali, ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera b), dopo la parola: "finanziamento", sono inserite le seguenti: ", da parte dell'INAIL e delle regioni, previo trasferimento delle necessarie risorse da parte del Ministero del lavoro, della salute e delle politiche sociali, ";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera c), dopo la parola: "finanziamento", sono inserite le seguenti: ", da parte del Ministero dell'istruzione, dell'universita' e della ricerca., previo trasferimento delle necessarie risorse da parte del Ministero del lavoro, della salute e delle politiche sociali,";
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3, e' inserito il seguente:
+ "3-bis. Le regioni e le province autonome di Trento e di Bolzano, nel rispetto delle proprie competenze e con l'utilizzo appropriato di risorse gia' disponibili, finanziano progetti diretti a favorire la diffusione di soluzioni tecnologiche o organizzative avanzate in materia di salute e sicurezza sul lavoro, sulla base di specifici protocolli di intesa tra le parti sociali, o gli enti bilaterali, e l'INAIL. Ai fini della riduzione del tasso dei premi per l'assicurazione contro gli infortuni sul lavoro e le malattie professionali di cui all'articolo 3 del decreto legislativo 23 febbraio 2000, n. 38, ferma restando la verifica dei criteri di cui al comma 1 del predetto articolo 3, si tiene anche conto dell'adozione , da parte delle imprese, delle soluzioni tecnologiche o organizzative di cui al precedente periodo, verificate dall'INAIL.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, le parole: "Nell'ambito e nei limiti delle risorse di cui al comma 2 trasferite dal Ministero del lavoro e della previdenza sociale, l'INAIL" sono sostituite dalle seguenti: "L'INAIL finanzia con risorse proprie, anche nell'ambito della bilateralita' e di protocolli con le parti sociali e le associazioni nazionali di tutela degli invalidi del lavoro," ed e' aggiunto infine il seguente periodo: "L'INAIL svolge tali compiti con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.";
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 5 e' inserito il seguente: "5-bis. Al fine di garantire il diritto degli infortunati e tecnopatici a tutte le cure necessarie ai sensi del decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, e successive modificazioni, l'INAIL puo' provvedere utilizzando servizi pubblici e privati, d'intesa con le regioni interessate. L'INAIL svolge tali compiti con le risorse finanziarie disponibili a legislazione vigente e senza incremento di oneri per le imprese.".
+
 ## Art. 10. — (Modifiche all'articolo 13 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 13 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, e' inserito il seguente: "1-bis. Nei luoghi di lavoro delle Forze armate, delle Forze di polizia e dei vigili del fuoco la vigilanza sulla applicazione della legislazione in materia di salute e sicurezza sul lavoro e' svolta esclusivamente dai servizi sanitari e tecnici istituiti presso le predette amministrazioni.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: "previdenza sociale" sono inserite le seguenti: ", ivi compresa quella in materia di salute e sicurezza dei lavoratori di cui all'articolo 35 della legge 26 aprile 1974, n. 191, "; le parole: "lo stessi personale puo' esercitare" sono sostituite dalle seguenti: "lo stesso personale esercita" e le parole: "informandone preventivamente il servizio di prevenzione e sicurezza dell'Azienda sanitaria locale competente per territorio" sono sostituite dalle seguenti: "nel quadro del coordinamento territoriale di cui all'articolo 7".
+
 ## Art. 11. — (Modifiche all'articolo 14 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 14 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: "1. Al fine di far cessare il pericolo per la tutela della salute e la sicurezza dei lavoratori, nonche' di contrastare il fenomeno del lavoro sommerso e irregolare, ferme restando le attribuzioni del coordinatore per l'esecuzione dei lavori di cui all'articolo 92, comma 1, lettera e), gli organi di vigilanza del Ministero del lavoro, della salute e delle politiche sociali, anche su segnalazione delle amministrazioni pubbliche secondo le rispettive competenze, possono adottare provvedimenti di sospensione in relazione alla parte dell'attivita' imprenditoriale interessata dalle violazioni quando riscontrano l'impiego di personale non risultante dalla documentazione obbligatoria in misura pari o superiore al 20 per cento del totale dei lavoratori presenti sul luogo di lavoro, nonche' in caso di gravi e reiterate violazioni in materia di tutela della salute e della sicurezza sul lavoro individuate con decreto del Ministero del lavoro, della salute e delle politiche sociali, adottato sentito il Ministero dell'interno e la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
+In attesa della adozione del citato decreto, le violazioni in materia di tutela della salute e della sicurezza sul lavoro che costituiscono il presupposto per l'adozione del provvedimento di sospensione dell'attivita' imprenditoriale sono quelle individuate nell'Allegato I. Si ha reiterazione quando, nei cinque anni successivi alla commissione di una violazione oggetto di prescrizione dell'organo di vigilanza ottemperata dal contravventore o di una violazione accertata con sentenza definitiva, lo stesso soggetto commette piu' violazioni della stessa indole. Si considerano della stessa indole le violazioni della medesima disposizione e quelle di disposizioni diverse individuate, in attesa della adozione del decreto di cui al precedente periodo, nell'allegato I. L'adozione del provvedimento di sospensione e' comunicata all'Autorita' per la vigilanza sui contratti pubblici di lavori, servizi e forniture di cui all'articolo 6 del decreto legislativo 12 aprile 2006, n. 163, ed al Ministero delle infrastrutture e dei trasporti, per gli aspetti di rispettiva competenza, al fine dell'adozione, da parte del Ministero delle infrastrutture e dei trasporti, di un provvedimento interdittivo alla contrattazione con le pubbliche amministrazioni ed alla partecipazione a gare pubbliche. La durata del provvedimento e' pari alla citata sospensione nel caso in cui la percentuale dei lavoratori irregolari sia inferiore al 50 per cento del totale dei lavoratori presenti sul luogo di lavoro; nel caso in cui la percentuale dei lavoratori irregolari sia pari o superiore al 50 per cento del totale dei lavoratori presenti sul luogo di lavoro, ovvero nei casi di gravi e reiterate violazioni in materia di tutela della salute e della sicurezza sul lavoro, ovvero nei casi di reiterazione la durata e' incrementata di un ulteriore periodo di tempo pari al doppio della durata della sospensione e comunque non superiore a due anni; nel caso di reiterazione la decorrenza del periodo di interdizione e' successiva al termine del precedente periodo di interdizione; nel caso di non intervenuta revoca del provvedimento di sospensione entro quattro mesi dalla data della sua emissione, la durata del provvedimento e' pari a due anni, fatta salva l'adozione di eventuali successivi provvedimenti di rideterminazione della durata dell'interdizione a seguito dell'acquisizione della revoca della sospensione. Le disposizioni del presente comma si applicano anche con riferimento ai lavori nell'ambito dei cantieri edili. Ai provvedimenti del presente articolo non si applicano le disposizioni di cui alla legge 7 agosto 1990, n. 241. Limitatamente alla sospensione dell'attivita' di impresa, all'accertamento delle violazioni in materia di prevenzione incendi, indicate all'allegato I, provvede il comando provinciale dei vigili del fuoco territorialmente competente. Ove gli organi di vigilanza o le altre amministrazioni pubbliche rilevino possibili violazioni in materia di prevenzione incendi, ne danno segnalazione al competente Comando provinciale dei vigili del fuoco, il quale procede ai sensi delle disposizioni del decreto legislativo 8 marzo 2006, n. 139, e di cui al comma 2. ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: "in materia di prevenzioni incendi" sono inserite le seguenti: "in ragione della competenza esclusiva del Corpo nazionale dei vigili del fuoco di cui all'articolo 46";
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera c) del comma 4 e' sostituita dalla seguente: "c) il pagamento di una somma aggiuntiva rispetto a quelle di cui al comma 6 pari a 1.500 euro nelle ipotesi di sospensione per lavoro irregolare e a 2.500 euro nelle ipotesi di sospensione per gravi e reiterate violazioni in materia di tutela della salute e della sicurezza sul lavoro.".
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 10 e' sostituito dal seguente: "10. Il datore di lavoro che non ottempera al provvedimento di sospensione di cui al presente articolo e' punito con l'arresto fino a sei mesi nelle ipotesi di sospensione per gravi e reiterate violazioni in materia di tutela della salute e della sicurezza sul lavoro e con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro nelle ipotesi di sospensione per lavoro irregolare.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 11 e' aggiunto il seguente:
+ "11-bis. Il provvedimento di sospensione nelle ipotesi di lavoro irregolare non si applica nel caso in cui il lavoratore irregolare risulti l'unico occupato dall'impresa. In ogni caso di sospensione nelle ipotesi di lavoro irregolare gli effetti della sospensione possono essere fatti decorrere dalle ore dodici del giorno lavorativo successivo ovvero dalla cessazione dell'attivita' lavorativa in corso che non puo' essere interrotta, salvo che non si riscontrino situazioni di pericolo imminente o di grave rischio per la salute dei lavoratori o dei terzi.".
 
 ## Art. 12. — (Modifiche all'articolo 16 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -86,6 +333,53 @@ La delega di funzioni di cui al primo periodo non esclude l'obbligo di vigilanza
 
 ## Art. 13. — (Modifiche all'articolo 18 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 18, comma 1, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera g) e' sostituita dalla seguente: "g) inviare i lavoratori alla visita medica entro le scadenze previste dal programma di sorveglianza sanitaria e richiedere al medico competente l'osservanza degli obblighi previsti a suo carico nel presente decreto;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera g) e' inserita la seguente:
+ "g-bis) nei casi di sorveglianza sanitaria di cui all'articolo 41, comunicare tempestivamente al medico competente la cessazione del rapporto di lavoro;";
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera o) e' sostituita dalla seguente: "o) consegnare tempestivamente al rappresentante dei lavoratori per la sicurezza, su richiesta di questi e per l'espletamento della sua funzione, copia del documento di cui all'articolo 17, comma 1, lettera a), anche su supporto informatico come previsto dall'articolo 53, comma 5, nonche' consentire al medesimo rappresentante di accedere ai dati di cui alla lettera r); il documento e' consultato esclusivamente in azienda;";
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla lettera p), dopo le parole: "comma 3" sono inserite le seguenti: "anche su supporto informatico come previsto dall'articolo 53, comma 5, " ed e' aggiunto, infine, il seguente periodo: "Il documento e' consultato esclusivamente in azienda.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera r) e' sostituita dalla seguente: "r) comunicare in via telematica all'INAIL e all'IPSEMA, nonche' per loro tramite, al sistema informativo nazionale per la prevenzione nei luoghi di lavoro di cui all'articolo 8, entro 48 ore dalla ricezione del certificato medico, a fini statistici e informativi, i dati e le informazioni relativi agli infortuni sul lavoro che comportino l'assenza dal lavoro di almeno un giorno, escluso quello dell'evento e, a fini assicurativi, quelli relativi agli infortuni sul lavoro che comportino un'assenza dal lavoro superiore a tre giorni; l'obbligo di comunicazione degli infortuni sul lavoro che comportino un'assenza dal lavoro superiore a tre giorni si considera comunque assolto per mezzo della denuncia di cui all'articolo 53 del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, di cui al decreto del Presidente della Repubblica 30 giugno 1965, n. 1124; ";
+
+                            
+                        
+                        
+                            f)
+                            
+                                la lettera aa) e' sostituita dalla seguente: "aa) comunicare in via telematica all'INAIL e all'IPSEMA, nonche' per loro tramite, al sistema informativo nazionale per la prevenzione nei luoghi di lavoro di cui all'articolo 8, in caso di nuova elezione o designazione, i nominativi dei rappresentanti dei lavoratori per la sicurezza; in fase di prima applicazione l'obbligo di cui alla presente lettera riguarda i nominativi dei rappresentanti dei lavoratori gia' eletti o designati;".
 
 All'articolo 18, dopo il comma 1 e' inserito il seguente:
  "1-bis. L'obbligo di cui alla lettera r) del comma 1, relativo alla comunicazione a fini statistici e informativi dei dati relativi agli infortuni che comportano l'assenza dal lavoro di almeno un giorno, escluso quello dell'evento, decorre dalla scadenza del termine di sei mesi dall'adozione del decreto di cui all'articolo 8, comma 4. ".
@@ -101,8 +395,69 @@ All'articolo 21, comma 1, del decreto, le parole: "i piccoli imprenditori di cui
 ## Art. 15. — (Modifiche all'articolo 25 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 25, comma 1, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera c) e' sostituita dalla seguente: "c) istituisce, aggiorna e custodisce, sotto la propria responsabilita', una cartella sanitaria e di rischio per ogni lavoratore sottoposto a sorveglianza sanitaria; tale cartella e' conservata con salvaguardia del segreto professionale e, salvo il tempo strettamente necessario per l'esecuzione della sorveglianza sanitaria e la trascrizione dei relativi risultati, presso il luogo di custodia concordato al momento della nomina del medico competente;".
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera e) e' sostituita dalla seguente: "e) consegna al lavoratore, alla cessazione del rapporto di lavoro, copia della cartella sanitaria e di rischio, e gli fornisce le informazioni necessarie relative alla conservazione della medesima; l'originale della cartella sanitaria e di rischio va conservata, nel rispetto di quanto disposto dal decreto legislativo 30 giugno 2003, n. 196, da parte del datore di lavoro, per almeno dieci anni, salvo il diverso termine previsto da altre disposizioni del presente decreto;";
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera f) e' soppressa.
+
 ## Art. 16. — (Modifiche all'articolo 26 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 26, comma 1, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'alinea, le parole: "dei lavori" sono sostituite dalle seguenti: "di lavori, servizi e forniture" e dopo le parole: "dell'azienda medesima" sono aggiunte le seguenti: ", sempre che abbia la disponibilita' giuridica dei luoghi in cui si svolge l'appalto o la prestazione di lavoro autonomo";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera a), dopo le parole: "in relazione ai lavori" sono inserite le seguenti: ", ai servizi e alle forniture".
+
+2.
+                    
+                        
+                            All'articolo 26, comma 3, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole: "Tale documento e' allegato al contratto d'appalto o di opera" sono inserite le seguenti: "e va adeguato in funzione dell'evoluzione dei lavori, servizi e forniture";
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' aggiunto in fine il seguente periodo: "Nel campo di applicazione del decreto legislativo 12 aprile 2006 n. 163, e successive modificazioni, tale documento e' redatto, ai fini dell'affidamento del contratto, dal soggetto titolare del potere decisionale e di spesa relativo alla gestione dello specifico appalto.";
 
 All'articolo 26, dopo il comma 3 sono inseriti i seguenti:
  "3-bis. Ferme restando le disposizioni di cui ai commi 1 e 2, l'obbligo di cui al comma 3 non si applica ai servizi di natura intellettuale, alle mere forniture di materiali o attrezzature, nonche' ai lavori o servizi la cui durata non sia superiore ai due giorni, sempre che essi non comportino rischi derivanti dalla presenza di agenti cancerogeni, biologici, atmosfere esplosive o dalla presenza dei rischi particolari di cui all'allegato XI.
@@ -113,8 +468,79 @@ All'articolo 26, comma 5, le parole: "i costi relativi alla sicurezza del lavoro
 ## Art. 17. — (Modifiche all'articolo 27 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 27 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: "1. Nell'ambito della Commissione di cui all'articolo 6, anche tenendo conto delle indicazioni provenienti da organismi paritetici, vengono individuati settori, ivi compreso il settore della sanificazione del tessile e dello strumentario chirurgico, e criteri finalizzati alla definizione di un sistema di qualificazione delle imprese e dei lavoratori autonomi, con riferimento alla tutela della salute e sicurezza sul lavoro, fondato sulla base della specifica esperienza, competenza e conoscenza, acquisite anche attraverso percorsi formativi mirati, e sulla base delle attivita' di cui all'articolo 21, comma 2, nonche' sulla applicazione di determinati standard contrattuali e organizzativi nell'impiego della manodopera, anche in relazione agli appalti e alle tipologie di lavoro flessibile, certificati ai sensi del titolo VIII, capo I, del decreto legislativo 10 settembre 2003, n. 276. ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: "1-bis. Con riferimento all'edilizia, il sistema di qualificazione delle imprese e dei lavoratori autonomi si realizza almeno attraverso la adozione e diffusione, nei termini e alle condizioni individuati dal decreto del Presidente della Repubblica di cui all'articolo 6, comma 8, lettera g), di uno strumento che consenta la continua verifica della idoneita' delle imprese e dei lavoratori autonomi, in assenza di violazioni alle disposizioni di legge e con riferimento ai requisiti previsti, tra cui la formazione in materia di salute e sicurezza sul lavoro e i provvedimenti impartiti dagli organi di vigilanza. Tale strumento opera per mezzo della attribuzione alle imprese ed ai lavoratori autonomi di un punteggio iniziale che misuri tale idoneita', soggetto a decurtazione a seguito di accertate violazioni in materia di salute e sicurezza sul lavoro. L'azzeramento del punteggio per la ripetizione di violazioni in materia di salute e sicurezza sul lavoro determina l'impossibilita' per l'impresa o per il lavoratore autonomo di svolgere attivita' nel settore edile.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole: "Il possesso dei requisiti" sono sostituite dalle seguenti: "Fermo restando quanto previsto dal comma 1-bis, che potra', con le modalita' ivi previste, essere esteso ad altri settori di attivita' individuati con uno o piu' accordi interconfederali stipulati a livello nazionale dalle organizzazioni sindacali dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative, il possesso dei requisiti " e la parola: "vincolante" e' sostituita dalla seguente: "preferenziale";
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: " 2-bis. Sono fatte salve le disposizioni in materia di qualificazione previste dal decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni.".
+
 ## Art. 18. — (Modifiche all'articolo 28 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 28 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: "da altri Paesi" sono aggiunte le seguenti: "e quelli connessi alla specifica tipologia contrattuale attraverso cui viene resa la prestazione di lavoro";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: "1-bis. La valutazione dello stress lavoro-correlato di cui al comma 1 e' effettuata nel rispetto delle indicazioni di cui all'articolo 6, comma 8, lettera m-quater), e il relativo obbligo decorre dalla elaborazione delle predette indicazioni e comunque, anche in difetto di tale elaborazione, a fare data dal 1° agosto 2010. ";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, alinea, dopo le parole: "della valutazione," sono inserite le seguenti: "puo' essere tenuto, nel rispetto delle previsioni di cui all'articolo 53, su supporto informatico e "; le parole: "deve avere data certa" sono sostituite dalle seguenti: "deve essere munito anche tramite le procedure applicabili ai supporti informatici di cui all'articolo 53, di data certa o attestata dalla sottoscrizione del documento medesimo da parte del datore di lavoro, nonche', ai soli fini della prova della data, dalla sottoscrizione del responsabile del servizio di prevenzione e protezione, del rappresentante dei lavoratori per la sicurezza o del rappresentante dei lavoratori per la sicurezza territoriale e del medico competente, ove nominato,";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, lettera a), e' aggiunto in fine il seguente periodo: "La scelta dei criteri di redazione del documento e' rimessa al datore di lavoro, che vi provvede con criteri di semplicita', brevita' e comprensibilita', in modo da garantirne la completezza e l'idoneita' quale strumento operativo di pianificazione degli interventi aziendali e di prevenzione.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 3 e' aggiunto il seguente: "3-bis. In caso di costituzione di nuova impresa, il datore di lavoro e' tenuto ad effettuare immediatamente la valutazione dei rischi elaborando il relativo documento entro novanta giorni dalla data di inizio della propria attivita'.".
 
 ## Art. 19. — (Modifiche all'articolo 29 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -132,11 +558,87 @@ All'articolo 26, comma 5, le parole: "i costi relativi alla sicurezza del lavoro
 ## Art. 21. — (Modifiche all'articolo 32 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 32 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5, dopo le parole: "L17, L23, " sono inserite le seguenti: "e della laurea magistrale LM26 ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5 le parole: "ovvero di altre lauree riconosciute corrispondenti" sono sostituite dalle seguenti: "ovvero di altre lauree e lauree magistrali riconosciute corrispondenti ai sensi della normativa vigente con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, su parere conforme del Consiglio universitario nazionale";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 7, dopo le parole: "successive modificazioni" sono aggiunte le seguenti: ", se concretamente disponibile in quanto attivato nel rispetto delle vigenti disposizioni.
+
 ## Art. 22. — (Modifiche all'articolo 34 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 34 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente: "1- bis. Salvo che nei casi di cui all'articolo 31, comma 6, nelle imprese o unita' produttive fino a cinque lavoratori il datore di lavoro puo' svolgere direttamente i compiti di primo soccorso, nonche' di prevenzione degli incendi e di evacuazione, anche in caso di affidamento dell'incarico di responsabile del servizio di prevenzione e protezione a persone interne all'azienda o all'unita' produttiva o a servizi esterni cosi' come previsto all'articolo 31, dandone preventiva informazione al rappresentante dei lavoratori per la sicurezza ed alle condizioni di cui al comma 2-bis; ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' inserito il seguente: "2-bis. Il datore di lavoro che svolge direttamente i compiti di cui al comma 1-bis deve frequentare gli specifici corsi formazione previsti agli articoli 45 e 46. ".
+
 ## Art. 23. — (Modifiche all'articolo 37 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 37 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 7, le parole: "I preposti" sono sostituite dalle seguenti: "I dirigenti e i preposti" e le parole: "e in azienda" sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 7 e' inserito il seguente: "7-bis. La formazione di cui al comma 7 puo' essere effettuata anche presso gli organismi paritetici di cui all'articolo 51 o le scuole edili, ove esistenti, o presso le associazioni sindacali dei datori di lavoro o dei lavoratori.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 12 e' sostituito dal seguente:
+ "12. La formazione dei lavoratori e quella dei loro rappresentanti deve avvenire, in collaborazione con gli organismi paritetici, ove presenti nel settore e nel territorio in cui si svolge l'attivita' del datore di lavoro, durante l'orario di lavoro e non puo' comportare oneri economici a carico dei lavoratori.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 14, dopo le parole: "successive modificazioni" sono inserite le seguenti: " , se concretamente disponibile in quanto attivato nel rispetto delle vigenti disposizioni".
 
 ## Art. 24. — (Modifiche all'articolo 38 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -169,8 +671,46 @@ All'articolo 41 del decreto, dopo il comma 2 e' inserito il seguente: "2-bis. Le
 ## Art. 27. — (Modifiche all'articolo 42 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 42 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ "1. Il datore di lavoro, anche in considerazione di quanto disposto dalla legge 12 marzo 1999, n. 68, in relazione ai giudizi di cui all'articolo 41, comma 6, attua le misure indicate dal medico competente e qualora le stesse prevedano un'inidoneita' alla mansione specifica adibisce il lavoratore, ove possibile, a mansioni equivalenti o, in difetto, a mansioni inferiori garantendo il trattamento corrispondente alle mansioni di provenienza.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato.
+
 ## Art. 28. — (Modifiche all'articolo 43 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 43 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera e) e' aggiunta la seguente:
+ "e-bis) garantisce la presenza di mezzi di estinzione idonei alla classe di incendio ed al livello di rischio presenti sul luogo di lavoro, tenendo anche conto delle particolari condizioni in cui possono essere usati. L'obbligo si applica anche agli impianti di estinzione fissi, manuali o automatici, individuati in relazione alla valutazione dei rischi.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 e' aggiunto, in fine, il seguente periodo: "Con riguardo al personale della Difesa la formazione specifica svolta presso gli istituti o la scuole della stessa Amministrazione e' abilitativa alla funzione di addetto alla gestione delle emergenze.".
 
 ## Art. 29. — (Modifiche all'articolo 48 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -180,10 +720,80 @@ All'articolo 41 del decreto, dopo il comma 2 e' inserito il seguente: "2-bis. Le
 ## Art. 30. — (Modifiche all'articolo 51 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 51 del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 3 sono inseriti i seguenti: "3-bis. Gli organismi paritetici svolgono o promuovono attivita' di formazione, anche attraverso l'impiego dei fondi interprofessionali di cui all'articolo 118 della legge 23 dicembre 2000, n. 388, e successive modificazioni, e dei fondi di cui all'articolo 12 del decreto legislativo 10 settembre 2003, n. 276, nonche', su richiesta delle imprese, rilasciano una attestazione dello svolgimento delle attivita' e dei servizi di supporto al sistema delle imprese, tra cui l'asseverazione della adozione e della efficace attuazione dei modelli di organizzazione e gestione della sicurezza di cui all'articolo 30, della quale gli organi di vigilanza possono tener conto ai fini della programmazione delle proprie attivita';
+ 3-ter. Ai fini di cui al comma 3-bis, gli organismi paritetici istituiscono specifiche commissioni paritetiche, tecnicamente competenti.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 8 e' aggiunto il seguente: " 8-bis. Gli organismi paritetici comunicano all'INAIL i nominativi delle imprese che hanno aderito al sistema degli organismi paritetici e il nominativo o i nominativi dei rappresentanti dei lavoratori per la sicurezza territoriali.".
+
 ## Art. 31. — (Modifiche all'articolo 52 del decreto legislativo
  9 aprile 2008, n. 81)
 
 All'articolo 52, comma 1, del decreto, al secondo periodo, dopo le parole: "preveda o costituisca" sono inserite le seguenti: ", come nel settore edile,".
+
+2.
+                    
+                        
+                            All'articolo 52, comma 2, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), dopo le parole: "presso l'azienda ovvero l'unita' produttiva" sono aggiunte le seguenti: "calcolate sulla base della retribuzione media giornaliera per il settore industria e convenzionale per il settore agricoltura determinate annualmente per il calcolo del minimale e massimale delle prestazioni economiche erogate dall'INAIL. Il computo dei lavoratori e' effettuato in base all'articolo 4 e la giornata lavorativa convenzionale e' stabilita in 8 ore";
+
+                            
+                        
+                        
+                            b)
+                            
+                                le lettere b),
+                            
+                        
+                        
+                            c)
+                            
+                                e
+                            
+                        
+                        
+                            d)
+                            
+                                sono soppresse.
+
+3.
+                    
+                        
+                            All'articolo 52, comma 3, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "dodici mesi dalla data di entrata in vigore del presente decreto" sono sostituite dalle seguenti: "il 31 dicembre 2009";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo le parole: "modalita' di funzionamento, sono inserite le seguenti: "e di articolazione settoriale e territoriale del Fondo";
+ c) dopo le parole: "di alimentazione" sono aggiunte le seguenti: "e la composizione e le funzioni del comitato amministratore del fondo".
+ 4. All'articolo 52, dopo il comma 3 e' inserito il seguente:
+ "3-bis. In fase di prima attuazione il fondo e' alimentato con i residui iscritti nel bilancio dell'INAIL delle risorse previste per le finalita' di cui all'articolo 23, comma 1, lettera b), del decreto legislativo 23 febbraio 2000, n. 38. ".
 
 ## Art. 32. — (Modifiche all'articolo 55 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -276,8 +886,45 @@ L'articolo 60 del decreto e' sostituito dal seguente:
 ## Art. 38. — (Modifiche all'articolo 62 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 62 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ "1. Ferme restando le disposizioni di cui al titolo I, si intendono per luoghi di lavoro, unicamente ai fini della applicazione del presente titolo, i luoghi destinati a ospitare posti di lavoro, ubicati all'interno dell'azienda o dell'unita' produttiva, nonche' ogni altro luogo di pertinenza dell'azienda o dell'unita' produttiva accessibile al lavoratore nell'ambito del proprio lavoro.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo la lettera d) e' aggiunta la seguente: "d-bis): ai campi, ai boschi e agli altri terreni facenti parte di un'azienda agricola o forestale.".
+
 ## Art. 39. — (Modifiche all'articolo 63 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 63 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente: "3. L'obbligo di cui al comma 2 vige in particolare per le porte, le vie di circolazione, gli ascensori e le relative pulsantiere, le scale e gli accessi alle medesime, le docce, i gabinetti ed i posi di lavoro utilizzati da lavoratori disabili.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 6 e' abrogato.
 
 ## Art. 40. — (Modifiche all'articolo 67 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -313,8 +960,76 @@ All'articolo 70 del decreto il comma 4 e' sostituito dal seguente:
 ## Art. 44. — (Modifiche all'articolo 71 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 71 del decreto sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5, dopo le parole: "condizioni di sicurezza" sono inserite le seguenti: "in rapporto alle previsioni del comma 1, ovvero del comma 4, lettera a), numero 3), ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 7, lettera a), le parole: "formazione adeguata e specifica" sono sostituite dalle seguenti: "informazione, formazione ed addestramento adeguati".
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 8, sono apportate le seguenti modifiche:
+ 1) nell'alinea, dopo le parole: "datore di lavoro" sono inserite le seguenti: ", secondo le indicazioni fornite dai fabbricanti ovvero, in assenza di queste, dalle pertinenti norme tecniche o dalle buone prassi o da linee guida,";
+ 2) i numeri: "1) e 2)" sono sostituiti dalle lettere: "a) e b)";
+ 3) alla lettera b), cosi' come sostituita dal precedente numero 2, ai numeri 1) e 2), le parole: "a controlli" sono sostituite dalle seguenti: "ad interventi di controllo";
+ 4) alla lettera c) le parole: "i controlli" sono sostituite dalle seguenti: "Gli interventi di controllo";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 11, dopo le parole: "verifiche periodiche" sono inserite le seguenti: "volte a valutarne l'effettivo stato di conservazione e di efficienza ai fini di sicurezza," ed il secondo periodo e' sostituito dal seguente: "La prima di tali verifiche e' effettuata dall'ISPESL che vi provvede nel termine di sessanta giorni dalla richiesta, decorso inutilmente il quale il datore di lavoro puo' avvalersi delle ASL e o di soggetti pubblici o privati abilitati con le modalita' di cui al comma 13. Le successive verifiche sono effettuate dai soggetti di cui al precedente periodo, che vi provvedono nel termine di trenta giorni dalla richiesta, decorso inutilmente il quale il datore di lavoro puo' avvalersi di soggetti pubblici o privati abilitati, con le modalita' di cui al comma 13. ";
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 13, dopo le parole: "Ministro del lavoro, della salute e delle politiche sociali", cosi' come modificate dall'articolo 1, comma 1, sono inserite le seguenti: ", di concerto con il Ministro dello sviluppo economico";
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 14 le parole: "sentiti i Ministri della salute e dello sviluppo economico" sono sostituite dalle seguenti: "di concerto con il Ministro dello sviluppo economico".
+
 ## Art. 45. — (Modifiche all'articolo 72 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 72 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: "1. Chiunque venda, noleggi o conceda in uso o locazione finanziaria macchine, apparecchi o utensili costruiti o messi in servizio al di fuori della disciplina di cui all'articolo 70, comma 1, attesta, sotto la propria responsabilita', che le stesse siano conformi, al momento della consegna a chi acquisti, riceva in uso, noleggio o locazione finanziaria, ai requisiti di sicurezza di cui all'allegato V.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: "ad un datore di lavoro" sono soppresse; la parola: "conduttore" e' sostituita dalla seguente:"operatore" e dopo le parole: "disposizioni del presente titolo" sono aggiunte, in fine, le seguenti: "e, ove si tratti di attrezzature di cui all'articolo 73, comma 5, siano in possesso della specifica abilitazione ivi prevista".
 
 ## Art. 46. — (Modifiche all'articolo 73 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -337,11 +1052,81 @@ All'articolo 73 del decreto sono apportate le seguenti modificazioni:
 ## Art. 49. — (Modifiche all'articolo 80 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 80 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, l'alinea e' sostituito dal seguente:"1. Il datore di lavoro prende le misure necessarie affinche' i lavoratori siano salvaguardati dai tutti i rischi di natura elettrica connessi all'impiego dei materiali, delle apparecchiature e degli impianti elettrici messi a loro disposizione ed, in particolare, da quelli derivanti da:";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3 e' aggiunto il seguente: "3-bis. Il datore di lavoro prende, altresi', le misure necessarie affinche' le procedure di uso e manutenzione di cui al comma 3 siano predisposte ed attuate tenendo conto delle disposizioni legislative vigenti, delle indicazioni contenute nei manuali d'uso e manutenzione delle apparecchiature ricadenti nelle direttive specifiche di prodotto e di quelle indicate nelle pertinenti norme tecniche.".
+
 ## Art. 50. — (Modifiche all'articolo 81 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 81, del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 le parole: "norme di buona tecnica contenute nell'allegato IX" sono sostituite dalle seguenti: "pertinenti norme tecniche";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' abrogato.
+
 ## Art. 51. — (Modifiche all'articolo 82 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 82 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, alinea, le parole:"secondo la migliore scienza ed esperienza, nonche'" sono sostituite dalla seguente: "o";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera a), le parole: "di buona tecnica" sono sostituite dalla seguente: "tecniche";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, la lettera b) e' sostituita dalla seguente: "b) per sistemi di categoria 0 e I purche' l'esecuzione di lavori su parti in tensione sia affidata a lavoratori riconosciuti dal datore di lavoro come idonei per tale attivita' secondo le indicazioni della pertinente normativa tecnica;";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, la lettera c) e' sostituita dalla seguente: "c) per sistemi di II e III categoria purche':
+ 1) i lavori su parti in tensione siano effettuati da aziende autorizzate, con specifico provvedimento del Ministero del lavoro, della salute e delle politiche sociali, ad operare sotto tensione;
+ 2) l'esecuzione di lavori su parti in tensione sia affidata a lavoratori abilitati dal datore di lavoro ai sensi della pertinente normativa tecnica riconosciuti idonei per tale attivita'.".
 
 ## Art. 52. — (Modifiche all'articolo 83 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -410,6 +1195,46 @@ All'articolo 88, comma 2, del decreto, dopo la lettera g) sono aggiunte le segue
 ## Art. 58. — (Modifiche all'articolo 89 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 89, comma 1, del decreto, sono apportate le seguenti modificazioni :
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera c) e' sostituita dalla seguente: "c) responsabile dei lavori: soggetto che puo' essere incaricato dal committente per svolgere i compiti ad esso attribuiti dal presente decreto; nel campo di applicazione del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, il responsabile dei lavori e' il responsabile del procedimento.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera f), dopo le parole: "lavoro delle imprese" sono inserite le seguenti: "affidatarie ed" ed e' aggiunto, in fine, il seguente periodo: ". Le incompatibilita' di cui al precedente periodo non operano in caso di coincidenza fra committente e impresa esecutrice";
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera i) e' aggiunto, infine, il seguente periodo: ".
+Nel caso in cui titolare del contratto di appalto sia un consorzio tra imprese che svolga la funzione di promuovere la partecipazione delle imprese aderenti agli appalti pubblici o privati, anche privo di personale deputato alla esecuzione dei lavori, l'impresa affidataria e' l'impresa consorziata assegnataria dei lavori oggetto del contratto di appalto individuata dal consorzio nell'atto di assegnazione dei lavori comunicato al committente o, in caso di pluralita' di imprese consorziate assegnatarie di lavori, quella indicata nell'atto di assegnazione dei lavori come affidataria, sempre che abbia espressamente accettato tale individuazione";
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo la lettera i) e' inserita la seguente: "i-bis) impresa esecutrice: impresa che esegue un'opera o parte di essa impegnando proprie risorse umane e materiali;";
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla lettera l), le parole: "alla realizzazione dell'opera" sono sostituite dalle seguenti: "ai lavori da realizzare".
+
 ## Art. 59. — (Modifiche all'articolo 90 del decreto legislativo
  9 aprile 2008, n. 81)
 
@@ -435,22 +1260,146 @@ All'articolo 88, comma 2, del decreto, dopo la lettera g) sono aggiunte le segue
 ## Art. 61. — (Modifiche all'articolo 92 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 92, comma 1, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), dopo le parole: "all'articolo 100" sono inserite le seguenti: "ove previsto";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b), dopo le parole: "con quest'ultimo" sono inserite le seguenti: ",ove previsto" e dopo le parole: "all'articolo 100" sono inserite le seguenti: ",ove previsto,";
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera e), le parole: "segnala al committente e" sono sostituite dalle seguenti: "segnala al committente o", le parole: "e 96" sono sostituite dalle seguenti: "96 e 97, comma 1," e dopo le parole: "all'articolo 100" sono inserite le seguenti: ", ove previsto,".
+
 All'articolo 92, comma 2, del decreto, sono aggiunte, in fine, le seguenti parole: ", fermo restando quanto previsto al secondo periodo della medesima lettera b) ".
 
 ## Art. 62. — (Modifiche all'articolo 93 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 93 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 il secondo periodo e' soppresso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 dopo le parole: "coordinatore per l'esecuzione" sono inserite le seguenti: "dei lavori" dopo le parole: "non esonera" sono inserite le seguenti: " il committente o" e le parole: "lettere a), b), c) e d)" sono sostituite dalle seguenti: "lettere a), b), c) d) ed e) ".
+
 ## Art. 63. — (Modifiche all'articolo 95 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 95, comma 1, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera d), dopo le parole: "controllo periodico" sono inserite le seguenti: "degli apprestamenti, delle attrezzature di lavoro";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera g), dopo le parole: "la cooperazione" sono inserite le seguenti: "e il coordinamento".
 
 ## Art. 64. — (Modifiche all'articolo 96 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 96 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente: "1-bis. La previsione di cui al comma 1, lettera g), non si applica alle mere forniture di materiali o attrezzature. In tali casi trovano comunque applicazione le disposizioni di cui all'articolo 26. ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: "2. L'accettazione da parte di ciascun datore di lavoro delle imprese del piano di sicurezza e di coordinamento di cui all'articolo 100, nonche' la redazione del piano operativo di sicurezza costituiscono, limitatamente al singolo cantiere interessato, adempimento alle disposizioni di cui all'articolo 17 comma 1, lettera a), all'articolo 26, commi 1, lettera b), 2, 3, e 5, e all'articolo 29, comma 3. ".
+
 ## Art. 65. — (Modifiche all'articolo 97 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 97 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "vigila sulla" sono sostituite dalle seguenti: "verifica le condizioni di ", le parole: "e sull'applicazione" sono sostituite dalle seguenti: "e l'applicazione." ;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3 sono aggiunti i seguenti:
+ "3-bis. In relazione ai lavori affidati in subappalto, ove gli apprestamenti, gli impianti e le altre attivita' di cui al punto 4 dell'allegato XV siano effettuati dalle imprese esecutrici, l'impresa affidataria corrisponde ad esse senza alcun ribasso i relativi oneri della sicurezza.
+ 3-ter) Per lo svolgimento delle attivita' di cui al presente articolo, il datore di lavoro dell'impresa affidataria, i dirigenti e i preposti devono essere in possesso di adeguata formazione.".
+
 ## Art. 66. — (Modifiche all'articolo 98 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 98, comma 1, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alinea, dopo le parole:"in possesso" sono inserite le seguenti: "di uno";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera a), le parole: "in data 4 agosto 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 245 del 19 ottobre 2000" sono sostituite dalle seguenti: "in data 28 novembre 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 18 del 23 gennaio 2001 ";
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera b), le parole: "citato decreto ministeriale in data 4 agosto 2000" sono sostituite dalle seguenti: "decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica in data 4 agosto 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 245 del 19 ottobre 2000 ".
 
 All'articolo 98, comma 2, del decreto, le parole: "dai rispettivi ordini o collegi professionali" sono sostituite dalle seguenti: "dagli ordini o collegi professionali" ed, in fine, e' aggiunto il seguente periodo: "Fermo restando l'obbligo di aggiornamento di cui all'allegato XIV, sono fatti salvi gli attestati rilasciati nel rispetto della previgente normativa a conclusione di corsi avviati prima della data di entrata in vigore del presente decreto.".
 
@@ -486,6 +1435,31 @@ All'articolo 111, comma 8, del decreto, le parole: "lavori in quota" sono sostit
 
 ## Art. 72. — (Modifiche all'articolo 115 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 115 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, nell'alinea, dopo le parole: "sistemi di protezione" sono inserite le seguenti: "idonei per l'uso specifico" e dopo le parole: "presenti contemporaneamente," sono inserite le seguenti: "conformi alle norme tecniche,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 le parole: "Il cordino" sono sostituite dalle seguenti: "Il sistema di protezione".
 
 ## Art. 73. — (Modifiche all'articolo 117 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -558,6 +1532,34 @@ All'articolo 148 del decreto, il comma 1 e' sostituito dal seguente: "1. Prima d
 
 ## Art. 86. — (Modifiche all'articolo 157 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            L'articolo 157 del decreto e' sostituito dal seguente:
+ "ART. 157
+ (Sanzioni per i committenti e i responsabili dei lavori)
+ "1. Il committente o il responsabile dei lavori sono puniti:
+ 
+                        
+                        
+                            a)
+                            
+                                con l'arresto da tre a sei mesi o con l'ammenda da 2.500 a 6.400 euro per la violazione dell'articolo 90, commi 3, 4 e 5;
+
+                            
+                        
+                        
+                            b)
+                            
+                                con l'arresto da due a quattro mesi o con l'ammenda da 1.000 a 4.800 euro per la violazione degli articoli 90, comma 9, lettera a), 93, comma 2, e 100, comma 6-bis;
+
+                            
+                        
+                        
+                            c)
+                            
+                                con la sanzione amministrativa pecuniaria da 500 a 1.800 euro per la violazione degli articoli 90, commi 7 e 9, lettera c), 101, comma 1, primo periodo.".
 
 ## Art. 87. — (Modifiche all'articolo 158 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -731,6 +1733,31 @@ L'articolo 220 del decreto e' sostituito dal seguente:
 ## Art. 109. — (Modifiche all'articolo 223 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 223, comma 1, del decreto, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea, dopo le parole: "datore di lavoro determina" la virgola e' soppressa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera c) e' sostituita dalla seguente: "c) il livello, il modo e la durata della esposizione;";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, la lettera d) e' sostituita dalla seguente: "d) le circostanze in cui viene svolto il lavoro in presenza di tali agenti tenuto conto della quantita' delle sostanze e dei preparati che li contengono o li possono generare;".
+
 ## Art. 110. — (Modifiche all'articolo 232 del decreto legislativo
  9 aprile 2008, n. 81)
 
@@ -767,6 +1794,24 @@ All'articolo 251, comma 1, del decreto, la lettera b) e' sostituita dalla seguen
 ## Art. 116. — (Modifiche all'articolo 253 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 253 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 le parole: "dell'esposizione personale del lavoratore alla" sono sostituite dalle seguenti: "della concentrazione nell'aria della";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 dopo le parole: "successivamente analizzati" sono inserite le seguenti: "da laboratori qualificati".
+
 ## Art. 117. — (Modifiche all'articolo 254 del decreto legislativo
  9 aprile 2008, n. 81)
 
@@ -775,8 +1820,58 @@ All'articolo 254 , comma 4, del decreto, dopo le parole: "con altri mezzi" sono 
 ## Art. 118. — (Modifiche all'articolo 256 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 256 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: "all'articolo 30, comma 4, del decreto legislativo 5 febbraio 1997, n. 22" sono sostituite dalle seguenti: "all'articolo 212 del decreto legislativo 3 aprile 2006, n. 152 ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, lettera g), dopo le parole: "natura dei lavori" sono inserite le seguenti ", data di inizio";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5 e' aggiunto in fine il seguente periodo: "Se entro il periodo di cui al precedente capoverso l'organo di vigilanza non formula motivata richiesta di integrazione o modifica del piano di lavoro e non rilascia prescrizione operativa, il datore di lavoro puo' eseguire i lavori. L'obbligo del preavviso di trenta giorni prima dell'inizio dei lavori non si applica nei casi di urgenza. In tale ultima ipotesi, oltre alla data di inizio, deve essere fornita dal datore di lavoro indicazione dell'orario di inizio delle attivita'.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6 le parole: "di cui all'articolo 50" sono sostituite dalle seguenti: "di cui all'articolo 250".
+
 ## Art. 119. — (Modifiche all'articolo 259 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 259 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo le parole: "aree interessate" e' inserita la seguente: "di" e le parole:"ad un controllo sanitario volto a verificare"sono sostituite dalle seguenti: "a sorveglianza sanitaria finalizzata anche a verificare";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 e' aggiunto, in fine, il seguente periodo: "Ai fini della valutazione di cui al primo periodo il medico competente privilegia gli esami non invasivi e quelli per i quali e' documentata l'efficacia diagnostica.".
 
 ## Art. 120. — (Modifiche all'articolo 260 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -837,6 +1932,24 @@ L'articolo 265 del decreto e' abrogato .
 
 ## Art. 126. — (Modifiche all'articolo 272 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 272, comma 2, del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera c) sono aggiunte infine le seguenti parole: ", anche attraverso l'uso di dispositivi di sicurezza atti a proteggere dall'esposizione accidentale ad agenti biologici";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera m) dopo le parole: "all'interno" sono inserite le seguenti: "e all'esterno".
 
 ## Art. 127. — (Modifiche all'articolo 273 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -918,6 +2031,24 @@ L'articolo 286 del decreto e' sostituito dal seguente:
 
 ## Art. 136. — (Modifiche all'articolo 288 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 288 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: "nebbie o polveri" sono aggiunte le seguenti: "in cui, dopo accensione, la combustione si propaga nell'insieme della miscela incombusta";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' aggiunto il seguente "1-bis Per condizioni atmosferiche si intendono condizioni nelle quali la concentrazione di ossigeno nell'atmosfera e' approssimativamente del 21 per cento e che includono variazioni di pressione e temperatura al di sopra e al di sotto dei livelli di riferimento, denominate condizioni atmosferiche normali (pressione pari a 101325 Pa, temperatura pari a 293 K), purche' tali variazioni abbiano un effetto trascurabile sulle proprieta' esplosive della sostanza infiammabile o combustibile.".
 
 ## Art. 137. — (Modifiche all'articolo 292 del decreto legislativo
  9 aprile 2008, n. 81)
@@ -1001,8 +2132,45 @@ L'articolo 303 del decreto e' abrogato.
 ## Art. 146. — (Modifiche all'articolo 304 del decreto legislativo
  9 aprile 2008, n. 81)
 
+1.
+                    
+                        
+                            All'articolo 304 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera d) sono aggiunte le seguenti:
+"d-bis) la lettera c) del terzo comma dell'articolo 3, della legge 22 luglio 1961, n. 628; d-ter) gli articoli 42 e 43 del decreto del Presidente della Repubblica 20 marzo 1956, n. 320; d-quater: il decreto del Presidente della Repubblica 3 luglio 2003, n. 222. ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: "1-bis. Le funzioni attribuite all'ispettorato medico centrale dal decreto legislativo 17 marzo 1995, n. 230, e successive modificazioni, sono svolte dalla struttura di livello dirigenziale generale del Ministero del lavoro, della salute e delle politiche sociali, individuata in sede regolamentare nell'ambito del complessivo processo di riorganizzazione dello stesso Dicastero, in attuazione dell'articolo 74 del decreto- legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133. ".
+
 ## Art. 147. — (Modifiche all'articolo 306 del decreto legislativo
  9 aprile 2008, n. 81)
+
+1.
+                    
+                        
+                            All'articolo 306 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3 e' aggiunto, in fine, il seguente periodo: "In caso di attrezzature di lavoro messe a disposizione dei lavoratori anteriormente al 6 luglio 2007 e che non permettono il rispetto dei valori limite di esposizione tenuto conto del progresso tecnico e delle misure organizzative messe in atto, l'obbligo del rispetto dei valori limite di esposizione di cui all'articolo 201 entra in vigore il 6 luglio 2010. Per il settore agricolo e forestale l'obbligo del rispetto dei valori limite di esposizione di cui all'articolo 201, ferme restando le condizioni di cui al precedente periodo, entra in vigore il 6 luglio 2014. Per il settore della navigazione aerea e marittima, l'obbligo del rispetto dei valori limite di esposizione al rumore di cui all'articolo 189 entra in vigore il 15 febbraio 2011. ";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4 e' aggiunto il seguente comma: "4-bis. Le ammende previste con riferimento alle contravvenzioni in materia di igiene, salute e sicurezza sul lavoro e le sanzioni amministrative pecuniarie previste dal presente decreto nonche' da atti aventi forza di legge vengono rivalutate ogni cinque anni a far data dall'entrata in vigore del presente decreto in misura pari all'indice ISTAT dei prezzi al consumo per il corrispondente periodo, previo arrotondamento delle cifre al decimale superiore.".
 
 ## Art. 148. — (Clausola finanziaria)
 

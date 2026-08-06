@@ -8,8 +8,8 @@ codice_redazionale: 096G0334
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,6 +35,31 @@ L'accertamento con adesione e' escluso oltre che nel caso di omessa presentazion
 
 ## Art. 2. — Modalita' dell'accertamento con adesione
 
+1.
+                    
+                        
+                            L'ufficio competente invia al contribuente un invito a comparire, nel quale sono indicate:
+ 
+                        
+                        
+                            a)
+                            
+                                le annualita' cui si riferiscono le dichiarazioni suscettibili di rettifica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'invito a presentarsi in ufficio per definire l'accertamento con adesione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il giorno e il luogo della comparizione.
+
 La richiesta di chiarimenti al contribuente, di cui all'art. 12, comma 1, del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, e successive modificazioni e integrazioni, oltre a produrre gli effetti di cui al comma medesimo, costituisce invito al contribuente per l'eventuale definizione dell'accertamento con adesione.
 
 Nel caso in cui sia stato notificato avviso di accertamento o di rettifica il contribuente puo' formulare, in carta libera, istanza di accertamento con adesione anteriormente alla impugnazione dell'atto, indicando il proprio recapito anche telefonico. La impugnazione dell'atto comporta rinuncia all'istanza. L'ufficio, entro quindici giorni dalla ricezione dell'istanza, formula al contribuente, anche telefonicamente, l'invito a comparire di cui al comma 1 ovvero comunica al medesimo che non sussistono le condizioni perche' possa avere luogo l'accertamento con adesione.
@@ -58,6 +83,24 @@ Competente in ordine alla emanazione dell'atto unico di rettifica parziale e' l'
 Alla definizione dell'accertamento con adesione puo' partecipare un funzionario dell'ufficio dell'imposta sul valore aggiunto ovvero dell'ufficio delle imposte appositamente delegato.
 
 ## Art. 4. — Modalita' di pagamento
+
+1.
+                    
+                        
+                            I pagamenti degli importi dovuti sono eseguiti, in unica soluzione, con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                mediante delega ad un'azienda di credito autorizzata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tramite il concessionario della riscossione competente in base all'ultimo domicilio fiscale del contribuente.
 
 Con decreto del Ministro delle finanze sono stabilite le modalita' tecniche, la modulistica e i codici di versamento per l'attuazione del comma 1.
 

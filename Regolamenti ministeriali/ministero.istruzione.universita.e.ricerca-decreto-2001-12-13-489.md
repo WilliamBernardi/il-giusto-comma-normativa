@@ -8,8 +8,8 @@ codice_redazionale: 002G0084
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,24 @@ Udito il parere del Consiglio di Stato espresso in sede consultiva nella adunanz
 Ai sensi dell'articolo 113 del decreto legislativo 16 aprile 1994, n. 297, "rispondono dell'adempimento dell'obbligo i genitori dell'obbligato o chiunque a qualsiasi titolo ne faccia le veci".
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Alla vigilanza sull'adempimento dell'obbligo di istruzione provvedono secondo quanto previsto dal presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                il sindaco, o un suo delegato, del comune ove hanno la residenza i giovani che, in virtu' delle disposizioni vigenti, sono soggetti al predetto obbligo di istruzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dirigenti scolastici delle scuole di ogni ordine e grado statali, paritarie e, fino a quando non sara' realizzato, a norma dell'articolo 1, comma 7, della legge 10 marzo 2000, n. 62, il definitivo superamento delle disposizioni di cui alla parte II, titolo VIII del testo unico approvato con decreto legislativo 16 aprile 1994, n. 297, parificate, pareggiate o legalmente riconosciute, presso le quali sono iscritti, ovvero hanno fatto richiesta di iscrizione, gli studenti cui e' rivolto l'obbligo di istruzione.
 
 Entro il mese di dicembre che precede l'inizio di ogni anno scolastico, il comune di residenza predispone l'elenco dei minori soggetti all'obbligo di istruzione e provvede a darne notizia mediante diretta comunicazione agli interessati, ovvero mediante affissione all'albo pretorio di apposito avviso, nel quale siano indicate le modalita' di visione dell'elenco da parte degli aventi diritto, assicurando nel contempo la riservatezza dei dati personali.
 I genitori degli iscritti nell'elenco, o chiunque a qualsiasi titolo ne faccia le veci, sono tenuti, nei modi e nei termini di cui alle annuali disposizioni, a iscrivere gli stessi presso una scuola dell'obbligo statale, o paritaria o fino a quando non sara' realizzato, a norma dell'articolo 1, comma 7, della legge 10 marzo 2000, n. 62, il definitivo superamento delle disposizioni di cui alla parte seconda, titolo VIII del testo unico approvato con decreto legislativo 16 aprile 1994, n. 297, parificata, pareggiata o legalmente riconosciuta, ovvero a provvedere direttamente all'istruzione obbligatoria, a norma dell'articolo 111, comma 2, del decreto legislativo 16 aprile 1994, n. 297, rendendo, annualmente, apposita dichiarazione al dirigente dell'istituzione scolastica interessata.

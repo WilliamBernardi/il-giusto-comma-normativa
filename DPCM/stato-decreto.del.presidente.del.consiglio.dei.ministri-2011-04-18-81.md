@@ -8,8 +8,8 @@ codice_redazionale: 011G0121
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -24,4 +24,15 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 Su proposta del Ministro della salute;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al decreto del Presidente del Consiglio dei Ministri 30 marzo 1994, n. 298, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 7, comma 1, le parole « farmacologia, tecnica farmaceutica - anche con riferimenti alla chimica farmaceutica - e legislazione farmaceutica » sono sostituite dalle seguenti: «farmacologia; farmacognosia; tossicologia; tecnica farmaceutica, anche con riferimenti alla chimica farmaceutica; farmacoeconomia, con specifico riferimento alla gestione della farmacia; legislazione farmaceutica; diritto sanitario, ivi inclusa la legislazione dei prodotti di interesse sanitario.».
 

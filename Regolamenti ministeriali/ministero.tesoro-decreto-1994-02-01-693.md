@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1996-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -67,6 +67,42 @@ IL MINISTRO DEL TESORO
 
 ## Art. 1. — Soggetti beneficiari
 
+1.
+                    
+                        
+                            Possono essere ammessi ai benefici di cui all'art. 31 della legge 5 ottobre 1991, n. 317, le cooperative, i consorzi e le societa' consortili, anche in forma cooperativa, che abbiano come scopi sociali e svolgano le attivita' di cui all'art. 29, comma 1, lettere a) e b), della stessa legge. L'attivita' di cui alla lettera a), e' necessaria ai fini dell'ammissione ai benefici. Tali soggetti devono: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere costituiti ai sensi dell'art. 30 della legge n. 317 da almeno cinquanta piccole imprese industriali, commerciali, di servizi e da imprese artigiane, anche a carattere intersettoriale, che rispondano ai requisiti indicati nel decreto del Ministro del tesoro in data 12 ottobre 1993 o da imprese industriali secondo quanto previsto dall'art. 29, comma 2, della legge medesima e dal predetto decreto ministeriale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                disporre di fondi di garanzia monetari (fondi rischi) specificamente destinati alla copertura dei rischi connessi agli interventi di garanzia, costituiti da versamenti effettuati a qualsiasi titolo dalle imprese consorziate, compresi i ristorni, di importo complessivo non inferiore a lire 50 milioni. Tale importo si determina sottraendo dall'ammontare complessivo del fondo rischi esistente all'atto della presentazione della domanda (( al lordo delle perdite subite )) l'insieme degli eventuali contributi ad esso versati da terzi non consorziati, compresi gli enti sostenitori, nonche' la quota parte delle perdite definitive determinata applicando la medesima percentuale risultante dal rapporto tra tali versamenti di terzi e l'intero valore del fondo. Qualora il consorzio o la societa' di cui al comma 1 disponga di piu' fondi rischi presso una o piu' banche, essi si considerano unitariamente, con esclusione dei fondi costituiti per l'intero da contributi di terzi.
+
+2.
+                    
+                        
+                            Sono altresi' ammessi, ai sensi dell'art. 33, commi 6 e 7, della legge n. 317, ai benefici di cui all'art. 31 della stessa legge, con i criteri e le modalita' di cui al presente regolamento, i consorzi di garanzia collettiva fidi di secondo grado i quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                siano costituiti da almeno cinque cooperative artigiane di garanzia collettiva fidi iscritte alla separata sezione dell'albo delle imprese artigiane, ai sensi dell'art. 6, comma 1, della legge 8 agosto 1985, n. 443, composte ognuna da almeno cinquanta imprese artigiane; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dispongano di fondi di garanzia monetari di importo non inferiore a lire 150 milioni.
+
 I limiti di capitale investito delle imprese consorziate di cui al presente articolo sono adeguati per effetto dei provvedimenti eventualmente emanati ai sensi dell'art. 1, comma 6, della legge 5 ottobre 1991, n. 317.
 
 ## Art. 2. — Modalita' dell'intervento e misura dei contributi
@@ -89,9 +125,90 @@ Ai fini della concessione del contributo, il legale rappresentante della coopera
 
 ## Art. 4. — Domanda di contributo
 
+1.
+                    
+                        
+                            Ai fini della concessione del contributo, le cooperative, i consorzi e le societa', entro il 30 giugno di ogni anno, presentano domanda al Mediocredito Centrale o all'Artigiancassa, a seconda del settore di attivita' cui gli stessi consorzi e societa' appartengono, e per conoscenza al Ministero del tesoro - Direzione generale del tesoro - Servizio IV - Divisione V. La domanda presentata al Mediocredito centrale o all'Artigiancassa deve essere corredata, oltre che dalla dichiarazione di cui al precedente art. 3, dalla seguente documentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                copia autenticata dell'atto costitutivo, dello statuto dei consorzi e delle societa' richiedenti vigenti al momento della domanda, nonche' degli eventuali successivi atti consortili di modifica. Lo statuto deve contenere il divieto (( . . . )) di distribuzione di utili o avanzi di esercizio di ogni genere e sotto qualsiasi forma alle imprese consorziate, anche in caso di scioglimento, del consorzio o della societa'. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia della convenzione e di ogni altro accordo disciplinante i rapporti dei consorzi e delle societa' con gli enti finanziatori dai quali risulti, in particolare, il tipo di operazioni garantite, la loro durata e la quota garantita. 
+
+                            
+                        
+                        
+                            c)
+                            
+                                atto notorio o dichiarazione sostitutiva resa dal legale rappresentante del consorzio o societa' secondo le disposizioni della legge 4 gennaio 1968, n. 15, e successive modificazioni, dove si attesti la conformita' dei consorzi e delle societa' ai requisiti e alle condizioni di cui all'art. 1 del presente regolamento. 
+ Da tale atto dovra' risultare in particolare: 
+ 1) la data di costituzione del consorzio o societa', l'indicazione del legale rappresentante e dei componenti degli organi direttivi, l'indicazione di eventuali consorziati o soci che detengano una quota del fondo consortile superiore al 10 per cento, nonche' di quelli per conto dei quali il consorzio o la societa' operi in modo esclusivo nei confronti della pubblica amministrazione; 
+ 2) il numero delle imprese consorziate al momento della presentazione della domanda, distinte secondo il settore di attivita' (industriale, commerciale e di servizio, artigianale), con la dichiarazione che per ognuna e' stato acquisito il documento attestante l'iscrizione alla Camera di commercio, industria e agricoltura; 
+ 3) la natura di piccole imprese delle imprese consorziate o socie, quanto ai requisiti dimensionali delle stesse riferiti agli anzidetti settori di attivita'; 
+ 4) l'ambito territoriale cui si estende l'effettiva operativita' della cooperativa, del consorzio e della societa' consortile; 
+ 5) l'ammontare di contributi e finanziamenti, previsti a titolo di reintegro delle perdite da leggi statali, regionali, o delle province autonome di Trento e Bolzano, di cui i consorzi e le societa' abbiano beneficiato nell'esercizio finanziario di riferimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i consorzi di garanzia collettiva fidi di secondo grado di cui all'art. 1, comma 2, del presente regolamento devono altresi' fornire copia autentica dell'atto o della delibera di costituzione del fondo interconsortile di secondo grado a cui si aderisce, unitamente ad una relazione sulla consistenza del fondo, sui criteri di gestione attuati e sugli interventi effettuati negli ultimi tre anni. 
+
+                            
+                        
+                        
+                            e)
+                            
+                                certificazione rilasciata dagli enti finanziatori attestante:  l'ammontare dei fondi di garanzia monetari (fondi rischi) esistenti presso ciascuno di essi; 
+ l'ammontare dei prelevamenti da essi effettuati dai fondi di garanzia monetari (fondi rischi) nel corso dell'esercizio in relazione al verificarsi di insolvenze assistite da garanzia collettiva, con separata indicazione dei prelevamenti effettuati a titolo definitivo o a titolo provvisorio; 
+ l'indicazione, per ciascuna impresa consorziata insolvente, dell'ammontare dell'insolvenza nonche' dell'inizio delle eventuali azioni di recupero o, altrimenti, delle ragioni che giustificano il loro mancato esperimento; 
+ il proprio impegno a comunicare al Mediocredito centrale e all'Artigiancassa le restituzioni conseguenti all'esaurimento delle relative procedure coattive o all'intervento dei fondi di cui all'art. 20 della legge n. 675/1977, all'art. 7 della legge n. 517/1975 e all'art. 1 della legge n. 1068/1964; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL DECRETO 9 GENNAIO 1996, N. 43 )); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                documentazione comprovante l'iscrizione nell'apposita sezione dell'elenco previsto dall'art. 106 del decreto legislativo 1 settembre 1993, n. 385.
+
 Il Mediocredito centrale e l'Artigiancassa possono richiedere la presentazione da parte dei soggetti di cui al comma 1 del bilancio relativo all'esercizio cui si riferiscono le domande di reintegro.
 
 ## Art. 5. — Istruttoria delle domande e concessione del contributo
+
+1.
+                    
+                        
+                            Il Mediocredito centrale e l'Artigiancassa, nel rispetto dell'ordine cronologico di arrivo delle domande, verificano: 
+ 
+                        
+                        
+                            a)
+                            
+                                la completezza della documentazione pervenuta e la conformita' della stessa alle disposizioni di cui al presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la corretta determinazione dell'ammontare del contributo richiesto in rapporto alle perdite ammissibili al rimborso secondo i criteri indicati all'art. 3, anche avvalendosi delle banche dati esistenti e disponibili.
 
 I suddetti enti trasmettono al Ministero del tesoro - Direzione generale del tesoro - Servizio IV - Div. V, entro novanta giorni dalla data di ricevimento, le domande di agevolazione corredate delle relative risultanze istruttorie e con l'indicazione della misura di contributo concedibile, in ragione, dell'ammontare complessivo degli interventi richiesti, ovvero dei motivi che inducono a ritenere le domande stesse inammissibili (( e ne danno contestualmente comunicazione agli interessati. Questi provvedono ad inviare al Ministero del tesoro la documentazione relativa alla certificazione "antimafia" ai sensi della legge 19 marzo 1990, n. 55, e successive modificazioni ed integrazioni, riguardante il consorzio o la societa', i suoi organi responsabili (presidente, vice presidente, membri del consiglio di amministrazione), nonche' i soci (ditte e relativi responsabili), che detengono quote del fondo consortile superiori al 10 per cento e quelli per conto dei quali il consorzio operi in modo esclusivo nei confronti della pubblica amministrazione )).
 
@@ -100,6 +217,31 @@ Il direttore generale del Tesoro, sulla base delle risultanze istruttorie comuni
 Per quanto non previsto dal presente regolamento, l'attivita' del Mediocredito centrale e dell'Artigiancassa e' regolata secondo modalita' e procedure che saranno stabilite dagli stessi enti.
 
 ## Art. 6. — Ripartizione dei fondi
+
+1.
+                    
+                        
+                            Le disponibilita' finanziarie di cui all'art. 31, comma 6, della legge n. 317, destinate agli interventi di cui al presente regolamento, nel primo anno, sono ripartite in ragione di un terzo per ciascuna delle seguenti categorie: 
+ 
+                        
+                        
+                            a)
+                            
+                                consorzi e le societa' di cui all'art. 1 del presente regolamento costituiti in maggioranza da imprese industriali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i consorzi e le societa' di cui all'art. 1 del presente regolamento costituiti in maggioranza da imprese artigiane; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i consorzi e le societa' di cui all'art. 1 del presente regolamento costituiti in maggioranza da imprese commerciali e di servizi.
 
 Al fine di assicurare la massima efficienza delle gestioni, negli anni successivi, tenuto conto dell'andamento delle gestioni stesse, la ripartizione potra' avvenire con decreto del Ministro del tesoro ai sensi dell'art. 32, comma 1, della legge sulla base della combinazione dei seguenti parametri espressi percentualmente: 
  1) rapporto fra il numero delle domande ammesse, per ciascuna categoria, ai benefici dell'art. 31 ed il totale delle domande ammesse; 

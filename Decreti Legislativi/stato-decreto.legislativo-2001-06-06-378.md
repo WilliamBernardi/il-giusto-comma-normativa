@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-09-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -59,6 +59,59 @@ In nessun caso le norme del presente testo unico possono essere interpretate nel
  Definizioni degli interventi edilizi (legge 5 agosto 1978, n. 457,
  art. 31)
 
+1.
+                        
+                            
+                                Ai fini del presente testo unico si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "interventi di manutenzione ordinaria", gli interventi edilizi che riguardano le opere di riparazione, rinnovamento e sostituzione delle finiture degli edifici e quelle necessarie ad integrare o mantenere in efficienza gli impianti tecnologici esistenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "interventi di manutenzione straordinaria", le opere e le modifiche necessarie per rinnovare e sostituire parti anche strutturali degli edifici, nonche' per realizzare ed integrare i servizi igienico-sanitari e tecnologici, sempre che non alterino i volumi e le superfici delle singole unita' immobiliari e non comportino modifiche delle destinazioni di uso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "interventi di restauro e di risanamento conservativo", gli interventi edilizi rivolti a conservare l'organismo edilizio e ad assicurarne la funzionalita' mediante un insieme sistematico di opere che, nel rispetto degli elementi tipologici, formali e strutturali dell'organismo stesso, ne consentano destinazioni d'uso con essi compatibili. Tali interventi comprendono il consolidamento, il ripristino e il rinnovo degli elementi costitutivi dell'edificio, l'inserimento degli elementi accessori e degli impianti richiesti dalle esigenze dell'uso, l'eliminazione degli elementi estranei all'organismo edilizio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "interventi di ristrutturazione edilizia", gli interventi rivolti a trasformare gli organismi edilizi mediante un insieme sistematico di opere che possono portare ad un organismo edilizio in tutto o in parte diverso dal precedente. Tali interventi comprendono il ripristino o la sostituzione di alcuni elementi costitutivi dell'edificio, l'eliminazione, la modifica e l'inserimento di nuovi elementi ed impianti. Nell'ambito degli interventi di ristrutturazione edilizia sono ricompresi anche quelli consistenti nella demolizione e successiva fedele ricostruzione di un fabbricato identico, quanto a sagoma, volumi, area di sedime e caratteristiche dei materiali, a quello preesistente, fatte salve le sole innovazioni necessarie per l'adeguamento alla normativa antisismica.
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "interventi di nuova costruzione", quelli di trasformazione edilizia e urbanistica del territorio non rientranti nelle categorie definite alle lettere precedenti. Sono comunque da considerarsi tali:
+ e.1) la costruzione di manufatti edilizi fuori terra o interrati, ovvero l'ampliamento di quelli esistenti all'esterno della sagoma esistente, fermo restando, per gli interventi pertinenziali, quanto previsto alla lettera e.6);
+ e.2) gli interventi di urbanizzazione primaria e secondaria realizzati da soggetti diversi dal comune;
+ e.3) la realizzazione di infrastrutture e di impianti, anche per pubblici servizi, che comporti la trasformazione in via permanente di suolo inedificato;
+ e.4) l'installazione di torri e tralicci per im-pianti radio-ricetrasmittenti e di ripetitori per i servizi di telecomunicazione;
+ e.5) l'installazione di manufatti leggeri, anche prefabbricati, e di strutture di qualsiasi genere, quali roulottes, campers, case mobili, imbarcazioni, che siano utilizzati come abitazioni, ambienti di lavoro, oppure come depositi, magazzini e simili, e che non siano diretti a soddisfare esigenze meramente temporanee;
+ e.6) gli interventi pertinenziali che le norme tecniche degli strumenti urbanistici, in relazione alla zonizzazione e al pregio ambientale e paesaggistico delle aree, qualifichino come interventi di nuova costruzione, ovvero che comportino la realizzazione di un volume superiore al 20% del volume dell'edificio principale;
+ e.7) la realizzazione di depositi di merci o di materiali, la realizzazione di impianti per attivita' produttive all'aperto ove comportino l'esecuzione di lavori cui consegua la trasformazione permanente del suolo inedificato;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli "interventi di ristrutturazione urbanistica", quelli rivolti a sostituire l'esistente tessuto urbanistico-edilizio con altro diverso, mediante un insieme sistematico di interventi edilizi, anche con la modificazione del disegno dei lotti, degli isolati e della rete stradale.
+
 Le definizioni di cui al comma 1 prevalgono sulle disposizioni degli strumenti urbanistici generali e dei regolamenti edilizi. Resta ferma la definizione di restauro prevista dall'articolo 34 del decreto legislativo 29 ottobre 1999, n. 490.
 
 ## Art. 4. — (L)
@@ -78,6 +131,32 @@ Sportello unico per l'edilizia
 Attivita' edilizia libera (legge 28 gennaio 1977, n. 10, art. 9, lettera c) ; legge 9 gennaio 1989, n. 13, art. 7, commi 1 e 2;
  decreto-legge 23 gennaio 1982, n. 9, art. 7, comma 4, convertito
  in legge 25 marzo 1982, n. 94)
+
+1.
+                        
+                            
+                                Salvo piu' restrittive disposizioni previste dalla disciplina
+ regionale e dagli strumenti urbanistici, e comunque nel rispetto delle altre normative di settore aventi incidenza sulla disciplina dell'attivita' edilizia e, in particolare, delle disposizioni contenute nel decreto legislativo 29 ottobre 1999, n. 490, i seguenti interventi possono essere eseguiti senza titolo abilitativo:
+ 
+                            
+                            
+                                a)
+                                
+                                    interventi di manutenzione ordinaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interventi [...] volti all'eliminazione di barriere architettoniche che non comportino la realizzazione di rampe o di ascensori esterni, ovvero di manufatti che alterino la sagoma dell'edificio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    opere temporanee per attivita' di ricerca nel sottosuolo che abbiano carattere geognostico o siano eseguite in aree esterne al centro edificato.
 
 ## Art. 7.
 
@@ -101,12 +180,55 @@ La realizzazione da parte di privati di interventi edilizi su aree demaniali e' 
 Attivita' edilizia in assenza di pianificazione urbanistica (legge n. 10 del 1977, art. 4, u.c.; legge n. 457 del 1978, art. 27, ultimo
  comma)
 
+1.
+                        
+                            
+                                Salvi i piu' restrittivi limiti fissati dalle leggi regionali e nel rispetto delle norme previste dal decreto legislativo 29 ottobre 1999, n. 490, nei comuni sprovvisti di strumenti urbanistici sono consentiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli interventi previsti dalle lettere a), b), e c) del primo comma dell'articolo 3 che riguardino singole unita' immobiliari o parti di esse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fuori dal perimetro dei centri abitati, gli interventi di nuova edificazione nel limite della densita' massima fondiaria di 0,03 metri cubi per metro quadro; in caso di interventi a destinazione produttiva, la superficie coperta non puo' comunque superare un decimo dell'area di proprieta'.
+
 Nelle aree nelle quali non siano stati approvati gli strumenti urbanistici attuativi previsti dagli strumenti urbanistici generali come presupposto per l'edificazione, oltre agli interventi indicati al comma 1, lettera a), sono consentiti gli interventi di cui alla lettera d) del primo comma dell'articolo 3 del presente testo unico che riguardino singole unita' immobiliari o parti di esse. Tali ultimi interventi sono consentiti anche se riguardino globalmente uno o piu' edifici e modifichino fino al 25 per cento delle destinazioni preesistenti, purche' il titolare del permesso si impegni, con atto trascritto a favore del comune e a cura e spese dell'interessato, a praticare, limitatamente alla percentuale mantenuta ad uso residenziale, prezzi di vendita e canoni di locazione concordati con il comune ed a concorrere negli oneri di urbanizzazione di cui alla sezione II del capo II del presente titolo.
 
 ## - Capo II Permesso di costruire Sezione I Nozione e caratteristiche
 
 ## Art. 10. — (L)
 Interventi subordinati a permesso di costruire (legge n. 10 del 1977, art. 1; legge 28 febbraio 1985, n. 47, art. 25, comma 4)
+
+1.
+                        
+                            
+                                Costituiscono interventi di trasformazione urbanistica ed edilizia del territorio e sono subordinati a permesso di costruire:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli interventi di nuova costruzione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interventi di ristrutturazione urbanistica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli interventi di ristrutturazione edilizia che comportino aumento di unita' immobiliari, modifiche del volume, della sagoma, dei prospetti o delle superfici, ovvero che, limitatamente agli immobili compresi nelle zone omogenee A, comportino mutamenti della destinazione d'uso.
 
 Le regioni stabiliscono con legge quali mutamenti, connessi o non connessi a trasformazioni fisiche, dell'uso di immobili o di loro parti, sono subordinati a permesso di costruire o a denuncia di inizio attivita'.
 
@@ -170,6 +292,38 @@ La quota di contributo relativa agli oneri di urbanizzazione e' corrisposta al c
 
 La quota di contributo relativa al costo di costruzione, determinata all'atto del rilascio, e' corrisposta in corso d'opera, con le modalita' e le garanzie stabilite dal comune, non oltre sessanta giorni dalla ultimazione della costruzione.
 
+4.
+                        
+                            
+                                L'incidenza degli oneri di urbanizzazione primaria e secondaria e' stabilita con deliberazione del consiglio comunale in base alle tabelle parametriche che la regione definisce per classi di comuni in relazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'ampiezza ed all'andamento demografico dei comuni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle caratteristiche geografiche dei comuni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle destinazioni di zona previste negli strumenti urbanistici vigenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai limiti e rapporti minimi inderogabili fissati in applicazione dall'articolo 41-quinquies, penultimo e ultimo comma, della legge 17 agosto 1942, n. 1150, e successive modifiche e integrazioni, nonche' delle leggi regionali.
+
 Nel caso di mancata definizione delle tabelle parametriche da parte della regione e fino alla definizione delle tabelle stesse, i comuni provvedono, in via provvisoria, con deliberazione del consiglio comunale.
 
 Ogni cinque anni i comuni provvedono ad aggiornare gli oneri di urbanizzazione primaria e secondaria, in conformita' alle relative disposizioni regionali, in relazione ai riscontri e prevedibili costi delle opere di urbanizzazione primaria, secondaria e generale.
@@ -189,11 +343,82 @@ Nei casi di edilizia abitativa convenzionata, relativa anche ad edifici esistent
 
 Il contributo per la realizzazione della prima abitazione e' pari a quanto stabilito per la corrispondente edilizia residenziale pubblica, purche' sussistano i requisiti indicati dalla normativa di settore.
 
+3.
+                        
+                            
+                                Il contributo di costruzione non e' dovuto:
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli interventi da realizzare nelle zone agricole, ivi comprese le residenze, in funzione della conduzione del fondo e delle esigenze dell'imprenditore agricolo a titolo principale, ai sensi dell'articolo 12 della legge 9 maggio 1975, n. 153;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli interventi di ristrutturazione e di ampliamento, in misura non superiore al 20%, di edifici unifamiliari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per gli impianti, le attrezzature, le opere pubbliche o di interesse generale realizzate dagli enti istituzionalmente competenti nonche' per le opere di urbanizzazione, eseguite anche da privati, in attuazione di strumenti urbanistici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per gli interventi da realizzare in attuazione di norme o di provvedimenti emanati a seguito di pubbliche calamita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i nuovi impianti, lavori, opere, modifiche, installazioni, relativi alle fonti rinnovabili di energia, alla conservazione, al risparmio e all'uso razionale dell'energia, nel rispetto delle norme urbanistiche, di tutela artistico-storica e ambientale.
+
 Per gli interventi da realizzare su immobili di proprieta' dello Stato il contributo di costruzione e' commisurato alla incidenza delle sole opere di urbanizzazione.
 
 ## Art. 18. — (L)
  Convenzione-tipo (legge 28 gennaio 1977, n. 10, art. 8; legge
  17 febbraio 1992, n. 179, art. 23, comma 6)
+
+1.
+                        
+                            
+                                Ai fini del rilascio del permesso di costruire relativo agli interventi di edilizia abitativa di cui all'articolo 17, comma 1, la regione approva una conven-zione-tipo, con la quale sono stabiliti i criteri nonche' i parametri, definiti con meccanismi tabellari per classi di comuni, ai quali debbono uniformarsi le convenzioni comunali nonche' gli atti di obbligo in ordine essenzialmente a:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione delle caratteristiche tipologiche e costruttive degli alloggi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la determinazione dei prezzi di cessione degli alloggi, sulla base del costo delle aree, cosi' come definito dal comma successivo, della costruzione e delle opere di urbanizzazione, nonche' delle spese generali, comprese quelle per la progettazione e degli oneri di preammortamento e di finanziamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la determinazione dei canoni di locazione in percentuale del valore desunto dai prezzi fissati per la cessione degli alloggi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la durata di validita' della convenzione non superiore a trenta e non inferiore a venti anni.
 
 La regione stabilisce criteri e parametri per la determinazione del costo delle aree, in misura tale che la sua incidenza non superi il 20 per cento del costo di costruzione come definito ai sensi dell'articolo 16.
 
@@ -256,6 +481,29 @@ Titolo III
 (regio decreto 27 luglio 1934, n. 1265, articoli 220; 221, comma 2, come modificato dall'art. 70, decreto legislativo 30 dicembre 1999, n. 507; decreto legislativo 18 agosto 2000, n. 267, articoli 107 e  109; legge 28 febbraio 1985, n. 47, art. 52, comma 1)
 
 Il certificato di agibilita' attesta la sussistenza delle condizioni di sicurezza, igiene, salubrita', risparmio energetico degli edifici e degli impianti negli stessi installati, valutate secondo quanto dispone la normativa vigente.
+
+2.
+                        
+                            
+                                Il certificato di agibilita' viene rilasciato dal dirigente o dal responsabile del competente ufficio comunale con riferimento ai seguenti interventi: 
+
+                            
+                            
+                                a)
+                                
+                                    nuove costruzioni; 
+                                
+                            
+                            
+                                b)
+                                
+                                    ricostruzioni o sopraelevazioni, totali o parziali; 
+                                
+                            
+                            
+                                c)
+                                
+                                    interventi sugli edifici esistenti che possano influire sulle condizioni di cui al comma 1.
 
 Con riferimento agli interventi di cui al comma 2, il soggetto titolare del permesso di costruire o il soggetto che ha presentato la denuncia di inizio attivita', o i loro successori o aventi causa, sono tenuti a chiedere il rilascio del certificato di agibilita'. La mancata presentazione della domanda comporta l'applicazione della sanzione amministrativa pecuniaria da 77 a 464 euro.
 
@@ -373,6 +621,45 @@ Per le opere abusive di cui al presente articolo, il giudice, con la sentenza di
 
 ## Art. 32. — (L)
  Determinazione delle variazioni essenziali (legge 28 febbraio 1985, n. 47, art. 8)
+
+1.
+                        
+                            
+                                Fermo restando quanto disposto dal comma 1 dell'articolo 31, le regioni stabiliscono quali siano le variazioni essenziali al progetto approvato, tenuto conto che l'essenzialita' ricorre esclusivamente quando si verifica una o piu' delle seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    mutamento della destinazione d'uso che implichi variazione degli standards previsti dal decreto ministeriale 2 aprile 1968, pubblicato nella Gazzetta Ufficiale n. 97 del 16 aprile 1968;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aumento consistente della cubatura o della superficie di solaio da valutare in relazione al progetto approvato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modifiche sostanziali di parametri urbanistico-edilizi del progetto approvato ovvero della localizzazione dell'edificio sull'area di pertinenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    mutamento delle caratteristiche dell'intervento edilizio assentito;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    violazione delle norme vigenti in materia di edilizia antisismica, quando non attenga a fatti procedurali.
 
 Non possono ritenersi comunque variazioni essenziali quelle che incidono sulla entita' delle cubature accessorie, sui volumi tecnici e sulla distribuzione interna delle singole unita' abitative.
 
@@ -507,6 +794,31 @@ E' in ogni caso ammesso il ricorso a procedure negoziate aperte, per l'aggiudica
 
 Le regioni determinano le sanzioni per il ritardato o mancato versamento del contributo di costruzione in misura non inferiore a quanto previsto nel presente articolo e non superiore al doppio.
 
+2.
+                        
+                            
+                                Il mancato versamento, nei termini stabiliti, del contributo di costruzione di cui all'articolo 16 comporta:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'aumento del contributo in misura pari al 20 per cento qualora il versamento del contributo sia effettuato nei successivi centoventi giorni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'aumento del contributo in misura pari al 50 per cento quando, superato il termine di cui alla lettera a), il ritardo si protrae non oltre i successivi sessanta giorni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'aumento del contributo in misura pari al 100 per cento quando, superato il termine di cui alla lettera b), il ritardo si protrae non oltre i successivi sessanta giorni.
+
 Le misure di cui alle lettere precedenti non si cumulano.
 
 Nel caso di pagamento rateizzato le norme di cui al secondo comma si applicano ai ritardi nei pagamenti delle singole rate.
@@ -524,6 +836,31 @@ I contributi, le sanzioni e le spese di cui ai titoli II e IV della parte I del 
  Sanzioni penali 
  (legge 28 febbraio 1985, n. 47, articoli 19 e 20; 
 decreto-legge 23 aprile 1985, n. 146, art. 3, convertito, con modificazioni, in legge 21 giugno 1985, n. 298)
+
+1.
+                        
+                            
+                                Salvo che il fatto costituisca piu' grave reato e ferme le sanzioni amministrative, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ammenda fino a 10329 euro per l'inosservanza delle norme, prescrizioni e modalita' esecutive previste dal presente titolo, in quanto applicabili, nonche' dai regolamenti edilizi, dagli strumenti urbanistici e dal permesso di costruire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'arresto fino a due anni e l'ammenda da 5164 euro a 51645 euro nei casi di esecuzione dei lavori in totale difformita' o assenza del permesso o di prosecuzione degli stessi nonostante l'ordine di sospensione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'arresto fino a due anni e l'ammenda da 15493 euro a 51645 euro nel caso di lottizzazione abusiva di terreni a scopo edilizio, come previsto dal primo comma dell'articolo 30. La stessa pena si applica anche nel caso di interventi edilizi nelle zone sottoposte a vincolo storico, artistico, archeologico, paesistico, ambientale, in variazione essenziale, in totale difformita' o in assenza del permesso.
 
 La sentenza definitiva del giudice penale che accerta che vi e' stata lottizzazione abusiva, dispone la confisca dei terreni, abusivamente lottizzati e delle opere abusivamente costruite. Per effetto della confisca i terreni sono acquisiti di diritto e gratuitamente al patrimonio del comune nel cui territorio e' avvenuta la lottizzazione. La sentenza definitiva e' titolo per la immediata trascrizione nei registri immobiliari. 
  
@@ -633,6 +970,38 @@ La concessione di indennizzi, ai sensi della legislazione sulle calamita' natura
  Tipo di strutture e norme tecniche
  (legge 3 febbraio 1974, n. 64, articoli 1 e 32, comma 1)
 
+1.
+                        
+                            
+                                In tutti i comuni della Repubblica le costruzioni sia pubbliche sia private debbono essere realizzate in osservanza delle norme tecniche riguardanti i vari elementi costruttivi fissate con decreti del Ministro per le infrastrutture e i trasporti, sentito il Consiglio superiore dei lavori pubblici che si avvale anche della collaborazione del Consiglio nazionale delle ricerche. Qualora le norme tecniche riguardino costruzioni in zone sismiche esse sono adottate di concerto con il Ministro per l'interno. Dette norme definiscono:
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri generali tecnico-costruttivi per la progettazione, esecuzione e collaudo degli edifici in muratura e per il loro consolidamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i carichi e sovraccarichi e loro combinazioni, anche in funzione del tipo e delle modalita' costruttive e della destinazione dell'opera, nonche' i criteri generali per la verifica di sicurezza delle costruzioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le indagini sui terreni e sulle rocce, la stabilita' dei pendii naturali e delle scarpate, i criteri generali e le precisazioni tecniche per la progettazione, esecuzione e collaudo delle opere di sostegno delle terre e delle opere di fondazione; i criteri generali e le precisazioni tecniche per la progettazione, esecuzione e collaudo di opere speciali, quali ponti, dighe, serbatoi, tubazioni, torri, costruzioni prefabbricate in genere, acquedotti, fognature;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la protezione delle costruzioni dagli incendi.
+
 Qualora vengano usati sistemi costruttivi diversi da quelli in muratura o con ossatura portante in cemento armato normale e precompresso, acciaio o sistemi combinati dei predetti materiali, per edifici con quattro o piu' piani entro e fuori terra, l'idoneita' di tali sistemi deve essere comprovata da una dichiarazione rilasciata dal presidente del Consiglio superiore dei lavori pubblici su conforme parere dello stesso Consiglio.
 
 Le norme tecniche di cui al presente articolo e i relativi aggiornamenti entrano in vigore trenta giorni dopo la pubblicazione dei rispettivi decreti nella Gazzetta Ufficiale della Repubblica italiana.
@@ -640,9 +1009,91 @@ Le norme tecniche di cui al presente articolo e i relativi aggiornamenti entrano
 ## Art. 53. — (L)
 Definizioni (legge 5 novembre 1971, n. 1086, art. 1, primo, secondo e terzo comma)
 
+1.
+                        
+                            
+                                Ai fini del presente testo unico si considerano:
+ 
+                            
+                            
+                                a)
+                                
+                                    opere in conglomerato cementizio armato normale, quelle composte da un complesso di strutture in conglomerato cementizio ed armature che assolvono ad una funzione statica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    opere in conglomerato cementizio armato precompresso, quelle composte di strutture in conglomerato cementizio ed armature nelle quali si imprime artificialmente uno stato di sollecitazione addizionale di natura ed entita' tali da assicurare permanentemente l'effetto statico voluto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    opere a struttura metallica quelle nelle quali la statica e' assicurata in tutto o in parte da elementi strutturali in acciaio o in altri metalli.
+
 ## Art. 54. — (L)
  Sistemi costruttivi (legge 2 febbraio 1974, n. 64, art. 5, art. 6,
  primo comma, art. 7, primo comma, art. 8, primo comma)
+
+1.
+                        
+                            
+                                Gli edifici possono essere costruiti con:
+ 
+                            
+                            
+                                a)
+                                
+                                    struttura intelaiata in cemento armato normale o precompresso, acciaio o sistemi combinati dei predetti materiali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    struttura a pannelli portanti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    struttura in muratura;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    struttura in legname.
+
+2.
+                        
+                            
+                                Ai fini di questo testo unico si considerano:
+ 
+                            
+                            
+                                a)
+                                
+                                    costruzioni in muratura, quelle nelle quali la muratura ha funzione portante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    strutture a pannelli portanti, quelle formate con l'associazione di pannelli verticali prefabbricati (muri), di altezza pari ad un piano e di larghezza superiore ad un metro, resi solidali a strutture orizzontali (solai) prefabbricate o costruite in opera;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    strutture intelaiate, quelle costituite da aste rettilinee o curvilinee, comunque vincolate fra loro ed esternamente.
 
 ## Art. 55. — (L)
  Edifici in muratura (legge 3 febbraio 1974, n. 64, art. 6, secondo
@@ -664,6 +1115,24 @@ L'idoneita' di tali sistemi costruttivi, anche in funzione del grado di sismicit
 ## Art. 57. — (L)
 Edifici con strutture intelaiate (legge 3 febbraio 1974, n. 64, art. 8, secondo periodo del primo comma, secondo, terzo e quarto comma)
 
+1.
+                        
+                            
+                                Nelle strutture intelaiate possono essere compresi elementi irrigidenti costituiti da:
+ 
+                            
+                            
+                                a)
+                                
+                                    strutture reticolate in acciaio, calcestruzzo armato normale o precompresso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi-parete in acciaio, calcestruzzo armato normale o precompresso.
+
 Gli elementi irrigidenti devono essere opportunamente collegati alle intelaiature della costruzione in modo che sia assicurata la trasmissione delle azioni sismiche agli irrigidimenti stessi.
 
 Il complesso resistente deve essere proporzionato in modo da assorbire le azioni sismiche definite dalle norme tecniche di cui all'articolo 83.
@@ -673,6 +1142,38 @@ Le murature di tamponamento delle strutture intelaiate devono essere efficacemen
 ## Art. 58. — (L) 
 Produzione in serie in stabilimenti di manufatti in conglomerato normale e precompresso e di manufatti complessi in metallo 
  (legge 5 novembre 1971, n. 1086, art. 9)
+
+1.
+                        
+                            
+                                Le ditte che procedono alla costruzione di manufatti in conglomerato armato normale o precompresso ed in metallo, fabbricati in serie e che assolvono alle funzioni indicate negli articoli 53, comma 1 e 64, comma 1, hanno l'obbligo di darne preventiva comunicazione al Servizio Tecnico Centrale del Ministero delle infrastrutture e dei trasporti, con apposita relazione nella quale debbono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    descrivere ciascun tipo di struttura indicando le possibili applicazioni e fornire i calcoli relativi, con particolare riguardo a quelli riferentisi a tutto il comportamento sotto carico fino a fessurazione e rottura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    precisare le caratteristiche dei materiali impiegati sulla scorta di prove eseguite presso uno dei laboratori di cui all'articolo 59; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indicare, in modo particolareggiato, i metodi costruttivi e i procedimenti seguiti per la esecuzione delle strutture; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicare i risultati delle prove eseguite presso uno dei laboratori di cui all'articolo 59.
 
 Tutti gli elementi precompressi debbono essere chiaramente e durevolmente contrassegnati onde si possa individuare la serie di origine.
 
@@ -691,6 +1192,24 @@ Nota redazionale
 
 ## Art. 59. — (L)
  Laboratori (legge 5 novembre 1971, n. 1086, art. 20)
+
+1.
+                        
+                            
+                                Agli effetti del presente testo unico sono considerati laboratori ufficiali:
+ 
+                            
+                            
+                                a)
+                                
+                                    i laboratori degli istituti universitari dei politecnici e delle facolta' di ingegneria e delle facolta' o istituti universitari di architettura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il laboratorio di scienza delle costruzioni del centro studi ed esperienze dei servizi antincendi e di protezione civile (Roma).
 
 Il Ministro per le infrastrutture e i trasporti, sentito il Consiglio superiore dei lavori pubblici, puo' autorizzare con proprio decreto, ai sensi del presente capo, altri laboratori ad effettuare prove su materiali da costruzione, comprese quelle geotecniche su terreni e rocce.
 
@@ -871,6 +1390,38 @@ I progetti relativi alla costruzione di nuovi edifici privati, ovvero alla ristr
 
 Il Ministro delle infrastrutture e dei trasporti fissa con decreto, adottato ai sensi dell'articolo 52, le prescrizioni tecniche necessarie a garantire l'accessibilita', l'adattabilita' e la visitabilita' degli edifici privati e di edilizia residenziale pubblica, sovvenzionata ed age-volata.
 
+3.
+                        
+                            
+                                La progettazione deve comunque prevedere:
+ 
+                            
+                            
+                                a)
+                                
+                                    accorgimenti tecnici idonei alla installazione di meccanismi per l'accesso ai piani superiori, ivi compresi i servoscala;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idonei accessi alle parti comuni degli edifici e alle singole unita' immobiliari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    almeno un accesso in piano, rampe prive di gradini o idonei mezzi di sollevamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'installazione, nel caso di immobili con piu' di tre livelli fuori terra, di un ascensore per ogni scala principale raggiungibile mediante rampe prive di gradini.
+
 E' fatto obbligo di allegare al progetto la dichiarazione del professionista abilitato di conformita' degli elaborati alle disposizioni adottate ai sensi del presente capo.
 
 I progetti di cui al comma 1 che riguardano immobili vincolati ai sensi del decreto legislativo 29 ottobre 1999, n. 490, devono essere approvati dalla competente autorita' di tutela, a norma degli articoli 23 e 151 del medesimo decreto legislativo.
@@ -949,6 +1500,45 @@ Le regioni, sentite le province e i comuni interessati, provvedono alla individu
 ## Art. 84. — (L)
 Contenuto delle norme tecniche (legge 3 febbraio 1974, n. 64, art. 4)
 
+1.
+                        
+                            
+                                Le norme tecniche per le costruzioni in zone sismiche di cui all'articolo 83, da adottare sulla base dei criteri generali indicati dagli articoli successivi e in funzione dei diversi gradi di sismicita', definiscono:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'altezza massima degli edifici in relazione al sistema costruttivo, al grado di sismicita' della zona ed alle larghezze stradali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le distanze minime consentite tra gli edifici e giunzioni tra edifici contigui;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le azioni sismiche orizzontali e verticali da tenere in conto del dimensionamento degli elementi delle costruzioni e delle loro giunzioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il dimensionamento e la verifica delle diverse parti delle costruzioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le tipologie costruttive per le fondazioni e le parti in elevazione.
+
 Le caratteristiche generali e le proprieta' fisico-meccaniche dei terreni di fondazione, e cioe' dei terreni costituenti il sottosuolo fino alla profondita' alla quale le tensioni indotte dal manufatto assumano valori significativi ai fini delle deformazioni e della stabilita' dei terreni medesimi, devono essere esaurientemente accertate.
 
 Per le costruzioni su pendii gli accertamenti devono essere convenientemente estesi al di fuori del-l'area edificatoria per rilevare tutti i fattori occorrenti per valutare le condizioni di stabilita' dei pendii medesimi.
@@ -957,6 +1547,38 @@ Le norme tecniche di cui al comma 1 potranno stabilire l'entita' degli accertame
 
 ## Art. 85. — (L)
  Azioni sismiche (legge 3 febbraio 1974, n. 64, art. 9)
+
+1.
+                        
+                            
+                                L'edificio deve essere progettato e costruito in modo che sia in grado di resistere alle azioni verticali e orizzontali, ai momenti torcenti e ribaltanti indicati rispettivamente alle successive lettere a), b), c) e d) e definiti dalle norme tecniche di cui all'articolo 83:
+ 
+                            
+                            
+                                a)
+                                
+                                    azioni verticali: non si tiene conto in genere delle azioni sismiche verticali; per le strutture di grande luce o di particolare importanza, agli effetti di dette azioni, deve svolgersi una opportuna analisi dinamica teorica o sperimentale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    azioni orizzontali: le azioni sismiche orizzontali si schematizzano attraverso l'introduzione di due sistemi di forze orizzontali agenti non contemporaneamente secondo due direzioni ortogonali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    momenti torcenti: ad ogni piano deve essere considerato il momento torcente dovuto alle forze orizzontali agenti ai piani sovrastanti e in ogni caso non minore dei valori da determinarsi secondo le indicazioni riportate dalle norme tecniche di cui all'articolo 83;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    momenti ribaltanti: per le verifiche dei pilastri e delle fondazioni gli sforzi normali provocati dall'effetto ribaltante delle azioni sismiche orizzontali devono essere valutati secondo le indicazioni delle norme tecniche di cui all'articolo 83.
 
 ## Art. 86.
 
@@ -992,6 +1614,24 @@ In caso di mancato riscontro entro il termine di cui al comma 2 il parere deve i
 ## Art. 90. — (L) 
  Sopraelevazioni 
  (legge 3 febbraio 1974, n. 64, art. 14)
+
+1.
+                        
+                            
+                                E' consentita, nel rispetto degli strumenti urbanistici vigenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sopraelevazione di un piano negli edifici in muratura, purche' nel complesso la costruzione risponda alle prescrizioni di cui al presente capo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sopraelevazione di edifici in cemento armato normale e precompresso, in acciaio o a pannelli portanti, purche' il complesso della struttura sia conforme alle norme del presente testo unico.
 
 L'autorizzazione e' consentita previa certificazione del competente ufficio tecnico regionale che specifichi il numero massimo di piani che e' possibile realizzare in sopraelevazione e l'idoneita' della struttura esistente a sopportare il nuovo carico. 
  
@@ -1157,6 +1797,59 @@ Per le opere che si eseguono a cura del genio militare l'osservanza delle dispos
 Ambito di applicazione (legge 18 maggio 1990, n. 46, art. 1, primo
  comma)
 
+1.
+                        
+                            
+                                Sono soggetti all'applicazione del presente capo i seguenti impianti relativi agli edifici quale che ne sia la destinazione d'uso:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli impianti di produzione, di trasporto, di distribuzione e di utilizzazione dell'energia elettrica all'interno degli edifici a partire dal punto di consegna dell'energia fornita dall'ente distributore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli impianti radiotelevisivi ed elettronici in genere, le antenne e gli impianti di protezione da scariche atmosferiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli impianti di riscaldamento e di climatizzazione azionati da fluido liquido, aeriforme, gassoso e di qualsiasi natura o specie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli impianti idrosanitari nonche' quelli di trasporto, di trattamento, di uso, di accumulo e di consumo di acqua all'interno degli edifici a partire dal punto di consegna dell'acqua fornita dall'ente distri-butore;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli impianti per il trasporto e l'utilizzazione di gas allo stato liquido o aeriforme all'interno degli edifici a partire dal punto di consegna del combustibile gassoso fornito dall'ente distributore;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli impianti di sollevamento di persone o di cose per mezzo di ascensori, di montacarichi, di scale mobili e simili;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli impianti di protezione antincendio.
+
 ## Art. 108.
 
 Soggetti abilitati (legge 18 maggio 1990, n. 46, art. 2; al comma 3, e' l'art. 22 della legge 30 aprile 1999, n. 136)
@@ -1173,6 +1866,38 @@ Possono effettuare il collaudo ed accertare la conformita' alla normativa vigent
 
 Requisiti tecnico-professionali 
  (legge 18 maggio 1990, n. 46, art. 3)
+
+1.
+                        
+                            
+                                I requisiti tecnico-professionali di cui all'articolo 108, comma 2, sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    laurea in materia tecnica specifica conseguita presso una universita' statale o legalmente riconosciuta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oppure diploma di scuola secondaria superiore conseguito, con specializzazione relativa al settore delle attivita' di cui all'articolo 110, comma 1, presso un istituto statale o legalmente riconosciuto, previo un periodo di inserimento, di almeno un anno continuativo, alle dirette dipendenze di una impresa del settore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oppure titolo o attestato conseguito ai sensi della legislazione vigente in materia di formazione professionale, previo un periodo di inserimento, di almeno due anni consecutivi, alle dirette dipendenze di una impresa del settore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    oppure prestazione lavorativa svolta, alle dirette dipendenze di una impresa del settore, nel medesimo ramo di attivita' dell'impresa stessa, per un periodo non inferiore a tre anni, escluso quello computato ai fini dell'apprendistato, in qualita' di operaio installatore con qualifica di specializzato nelle attivita' di installazione, di trasformazione, di ampliamento e di manutenzione degli impianti di cui all'articolo 107.
 
 E' istituito presso le camere di commercio, industria, artigianato e agricoltura un albo dei soggetti in possesso dei requisiti professionali di cui al comma 1. Le modalita' per l'accertamento del possesso dei titoli professionali, sono stabiliti con decreto del Ministero delle attivita' produttive. 
  
@@ -1437,8 +2162,226 @@ Il decreto del Presidente della Repubblica 28 giugno 1977, n. 1052, si applica, 
 ## Art. 136. — (L, commi 1 e 2, lettere a), b), c), d), e), f), g), h), i), l) - R, comma 2, lettera m) 
  Abrogazioni
 
+1.
+                        
+                            
+                                Ai sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente testo unico sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        legge 17 agosto 1942, n. 1150, limitatamente all'articolo 31; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        legge 21 dicembre 1955, n. 1357, limitatamente all'articolo 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        legge 28 gennaio 1977, n. 10, limitatamente agli articoli 1; 4, commi 3, 4 e 5; 9, lettera c); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        legge 5 agosto 1978, n. 457, limitatamente all'articolo 48; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        decreto-legge 23 gennaio 1982, n. 9, limitatamente agli articoli 7 e 8, convertito, con modificazioni, in legge 25 marzo 1982, n. 94; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        legge 28 febbraio 1985, n. 47, articolo 15; 25, comma 4, come modificato dal decreto-legge 5 ottobre 1993, n. 398, articolo 4, comma 7, lettera g), convertito con modificazioni dalla legge 4 dicembre 1993, n. 493, nel testo sostituito dall'articolo 2, comma 60, della legge 23 dicembre 1996, n. 662; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        decreto-legge 5 ottobre 1993, n. 398, limitatamente all'articolo 4, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493, nel testo sostituito dall'articolo 2, comma 60, della legge 23 dicembre 1996, n. 662, come modificato dal decreto-legge 25 marzo 1997, n. 67, articolo 11, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135.
+
+2.
+                        
+                            
+                                Ai sensi dell'articolo 7 della legge 8 marzo 1999, n. 50, dalla data di entrata in vigore del presente testo unico sono altresi' abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        regio decreto 27 luglio 1934, n. 1265, limitatamente agli articoli 220 e 221, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        legge 17 agosto 1942, n. 1150, limitatamente agli articoli 26, 27, 33, 41-ter, 41-quater, 41-quinquies, ad esclusione dei commi 6, 8 e 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        legge 28 gennaio 1977, n. 10, limitatamente agli articoli 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 16; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        legge 3 gennaio 1978, n. 1, limitatamente all'art. 1, commi 4 e 5, come sostituiti dall'art. 4, legge 18 novembre 1998, n. 415; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        decreto-legge 23 gennaio 1982, n. 9, convertito, con modificazioni, dalla legge 25 marzo 1982, n. 94, limitatamente all'articolo 7; 
+ f)legge 28 febbraio 1985, n. 47, limitatamente agli articoli 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25, comma 4, 26, 27, 45, 46, 47, 48, 52, comma 1; 
+ g)legge 17 febbraio 1992, n. 179, limitatamente all'art. 23, comma 6; decreto-legge 5 ottobre 1993, n. 398, articolo 4, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493, come modificato dall'art. 2, comma 60, della legge 23 dicembre 1996, n. 662, nel testo risultante dalle modifiche introdotte dall'art. 10 del decreto-legge 31 dicembre 1996, n. 669; 
+ h) decreto-legge 25 marzo 1997, n. 67, art. 11, convertito, con modifiche, dalla legge 23 maggio 1997, n. 135; 
+ i) legge 23 dicembre 1996, n. 662, limitatamente all'articolo 2, commi 50 e 56; 
+ l legge 23 dicembre 1998, n. 448, limitatamente al comma 2 dell'articolo 61; 
+ m) - 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 13/11/2001, n. 264 e dall'errata-corrige pubblicato in G.U. 10/11/2001, n. 262 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 137. — (L)
  Norme che rimangono in vigore
+
+1.
+                        
+                            
+                                Restano in vigore le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        legge 17 agosto 1942, n. 1150, e successive modificazioni ad eccezione degli articoli di cui all'articolo 136, comma 2, lettera b);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        legge 5 agosto 1978, n. 457, e successive modificazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        legge 28 febbraio 1985, n. 47, ad eccezione degli articoli di cui all'articolo 136, comma 2, lettera f);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        legge 24 marzo 1989, n. 122;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        articolo17-bis del decreto-legge 13 maggio 1991, n. 152, convertito in legge 12 luglio 1991, n. 203;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        articolo 2, comma 58, della legge 23 dicembre 1996, n. 662.
+
+2.
+                        
+                            
+                                Restano in vigore, per tutti i campi di applicazione originariamente previsti dai relativi testi normativi e non applicabili alla parte I di questo testo unico, le seguenti leggi:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        legge 5 novembre 1971, n. 1086;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        legge 2 febbraio 1974, n. 64;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        legge 9 gennaio 1989, n. 13;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        legge 5 marzo 1990, n. 46;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        legge 9 gennaio 1991, n. 10;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        legge 5 febbraio 1992, n. 104.
 
 All'articolo 9 della legge 24 marzo 1989, n. 122, il comma 2 e' sostituito dal seguente:
  "2. L'esecuzione delle opere e degli interventi previsti dal comma 1 e' soggetta a denuncia di inizio attivita'."

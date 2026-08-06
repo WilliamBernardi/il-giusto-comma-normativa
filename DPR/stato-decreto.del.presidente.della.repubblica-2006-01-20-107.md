@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2008-06-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -160,6 +160,31 @@ Superati i periodi di conservazione del posto di cui al comma 1, nel caso in cui
 
 I periodi di assenza di cui al comma 1, limitatamente ai primi 18 mesi, non interrompono la maturazione dell'anzianita' di servizio a tutti gli effetti.
 
+4.
+                        
+                            
+                                Il trattamento economico spettante al funzionario diplomatico nel periodo di conservazione del posto e' il seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    la retribuzione costituita dalla componente stipendiale di base e da quella correlata alla posizione funzionale, per i primi nove mesi di assenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    90 per cento della retribuzione di cui alla lettera a), per i successivi tre mesi di assenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    50 per cento della retribuzione di cui alla lettera a), per gli ulteriori sei mesi di assenza.
+
 Restano ferme le vigenti norme di legge poste a tutela dei malati di Tbc.
 
 Nel caso in cui l'infermita' derivante da infortunio non dipendente da causa di servizio sia ascrivibile a responsabilita' di terzi, il funzionario diplomatico e' tenuto a dare comunicazione di tale circostanza all'Amministrazione, ai fini della rivalsa da parte di quest'ultima verso il terzo responsabile per la parte corrispondente alle retribuzioni erogate durante il periodo di assenza ai sensi del comma 4 e agli oneri riflessi relativi.
@@ -203,6 +228,31 @@ Le eventuali festivita' cadenti nel periodo di assenza sono computate ai fini de
 Al funzionario diplomatico, dopo il rientro al lavoro a seguito della fruizione dei congedi parentali, si applica quanto previsto dall'articolo 56, del decreto legislativo 26 marzo 2001, n. 151.
 
 ## Art. 8. — Permessi per esigenze personali
+
+1.
+                        
+                            
+                                Il funzionario diplomatico ha diritto di assentarsi nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipazione a concorsi od esami, limitatamente ai giorni di svolgimento delle prove ed al tempo strettamente necessario per il raggiungimento delle relative sedi di svolgimento delle stesse, ovvero, previa intesa con il responsabile della struttura di appartenenza, a congressi, convegni, seminari e corsi di aggiornamento professionale facoltativo entro il limite complessivo di otto giorni per ciascun anno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decesso o documentata grave infermita' del coniuge, o del convivente stabile, o di un parente entro il secondo grado o di un affine di primo grado, in ragione di tre giorni lavorativi, anche frazionati, per evento. I giorni di permesso devono essere utilizzati entro sette giorni dal decesso o dall'accertamento dell'insorgenza della grave infermita' o dalla necessita' di provvedere a conseguenti specifici interventi terapeutici. Nel caso di grave infermita' dei soggetti di cui alla presente lettera b), il funzionario diplomatico, entro sette giorni dall'evento predetto, puo' concordare con il responsabile della struttura presso cui presta servizio, in alternativa ai giorni di permesso, diverse modalita' di espletamento dell'attivita' lavorativa, anche per periodi superiori a tre giorni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    documentati motivi personali, entro il limite complessivo di tre giorni per ciascun anno.
 
 Il funzionario diplomatico ha inoltre il diritto di assentarsi per quindici giorni consecutivi in occasione del matrimonio.
 
@@ -293,6 +343,31 @@ I dirigenti sindacali, nell'esercizio delle loro funzioni, non sono soggetti ai 
 ## - Titolo III TRATTAMENTO ECONOMICO
 
 ## Art. 15. — Struttura del trattamento economico
+
+1.
+                        
+                            
+                                La struttura del trattamento economico dei funzionari appartenenti alla carriera diplomatica, a decorrere dal 1° gennaio 2004, e' articolata nelle seguenti componenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    stipendio tabellare, indennita' integrativa speciale e retribuzione individuale di anzianita', ove acquisita e spettante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    retribuzione di posizione, correlata alle posizioni funzionali ricoperte;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    retribuzione di risultato, correlata ai risultati conseguiti rispetto agli obiettivi assegnati.
 
 Il trattamento economico di cui al comma 1 e' onnicomprensivo e remunera tutte le funzioni, i compiti e gli incarichi attribuiti ai funzionari diplomatici.
 
@@ -424,6 +499,24 @@ Restano ferme le disposizioni dell'articolo 16 del decreto del Presidente della 
 
 ## Art. 19. — Fondo per la retribuzione di posizione
  e la retribuzione di risultato
+
+1.
+                        
+                            
+                                Il fondo di cui all'articolo 17 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, ferme restando le modifiche ed integrazioni previste dall'articolo 4 del decreto del Presidente della Repubblica 15 maggio 2003, n. 144, continua ad essere definito con le modalita' ivi indicate ed e' alimentato dalle seguenti ulteriori risorse finanziarie:
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 223,12 mensili pro capite per tredici mensilita' per l'anno 2005;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 9,56 mensili pro capite per tredici mensilita' a decorrere dal 31 dicembre 2005 e a valere sulla competenza 2006.
 
 Le risorse di cui al comma 1 sono determinate con riferimento al personale della carriera diplomatica in servizio alla data del 1° gennaio 2004.
 

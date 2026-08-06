@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-09-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,62 @@ Sulla proposta del Ministro per la pubblica amministrazione, di concerto con il 
 ## - Capo I Modifiche al decreto legislativo 8 marzo 2006, n. 139
 
 ## Art. 1. — Modifiche al decreto legislativo 8 marzo 2006, n. 139
+
+1.
+                        
+                            
+                                Al decreto legislativo 8 marzo 2006, n. 139, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 3: 
+ 1) la rubrica e' sostituita dalla seguente: «capo del Corpo nazionale dei vigili del fuoco»; 
+ 2) al comma 1: 
+ 2.1. all'alinea le parole: «Al vertice del Corpo nazionale e' posto un dirigente generale del Corpo nazionale che assume la qualifica di dirigente generale - capo del Corpo nazionale dei vigili del fuoco» sono sostituite dalle seguenti: «Al vertice del Corpo nazionale e' posto un dirigente generale del Corpo nazionale, che assume la qualifica di capo del Corpo nazionale dei vigili del fuoco»; 
+ 2.2. all'alinea le parole: «le funzioni, gia' affidate all'Ispettore generale capo del Corpo, ed in particolare» sono sostituite dalle seguenti: «le seguenti funzioni, ivi comprese quelle gia' affidate all'Ispettore generale capo del Corpo»; 
+ 2.3. alla lettera d), le parole: «del consiglio di amministrazione dell'Opera nazionale di assistenza per il personale del Corpo nazionale, nonche'» sono soppresse; 
+ 2.4. dopo la lettera e-bis), sono aggiunte le seguenti lettere: 
+ «e-ter) ai sensi dell'articolo 748 del codice della navigazione, e' autorita' aeronautica per la flotta aerea del Corpo nazionale; 
+ e-quater) esercita la funzione di autorita' competente per gli aspetti di certificazione e sorveglianza del servizio di salvataggio e antincendio negli aeroporti civili e militari aperti al trasporto aereo commerciale di cui all'articolo 26, comma 1; 
+ e-quinquies) rappresenta il Corpo nazionale nelle cerimonie e nei consessi nazionali e internazionali; 
+ e-sexies) in caso di calamita', dispone la mobilitazione delle sezioni operative e delle altre risorse del Corpo nazionale.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 13, comma 2, le parole: «dei prodotti da costruzione» sono sostituite dalle seguenti: «e anche con riferimento ai prodotti impiegati ai fini della sicurezza antincendio.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 14, comma 2, lettera d-bis), dopo le parole: «di incendio» sono aggiunte le seguenti: «e di esplosione»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 19, comma 3, le parole: «di urgenza» sono soppresse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 29, comma 1, terzo periodo, le parole: «I beni mobili in uso diretto al» sono sostituite dalle seguenti: «Materiali e prestazioni del»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 35, comma 1, lettera z), sono aggiunte infine le seguenti parole: «, commi primo, secondo e quarto».
 
 ## - Capo II Modifiche al decreto legislativo 13 ottobre 2005, n. 217
 

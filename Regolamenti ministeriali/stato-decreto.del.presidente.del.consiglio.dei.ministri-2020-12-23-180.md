@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2020-12-23;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -31,10 +31,88 @@ Sulla proposta dei Ministri dell'economia e delle finanze, dello sviluppo econom
 
 Ai fini dell'esercizio dei poteri speciali di cui all'articolo 2 del decreto-legge 15 marzo 2012, n. 21, convertito, con modificazioni, dalla legge 11 maggio 2012, n. 56, di seguito denominato: «decreto-legge», gli attivi di rilevanza strategica nel sistema energetico nazionale sono individuati nelle reti energetiche di interesse nazionale, e nei relativi rapporti convenzionali, elencate al comma 2.
 
+2.
+                    
+                        
+                            Sono inclusi negli attivi di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                rete nazionale di trasporto del gas naturale e relative stazioni di compressione e centri di dispacciamento, come individuata ai sensi dell'articolo 9 del decreto legislativo 23 maggio 2000, n. 164, nonche' gli impianti di stoccaggio del gas; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                infrastrutture di approvvigionamento di energia elettrica e gas da altri Stati, compresi gli impianti di rigassificazione di GNL onshore e offshore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rete nazionale di trasmissione dell'energia elettrica e relativi impianti di controllo e dispacciamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' di gestione e immobili fondamentali connessi all'utilizzo delle reti e infrastrutture di cui alle precedenti lettere a), b) e c).
+
 ## Art. 2. — Individuazione degli attivi di rilevanza strategica 
  nel settore trasporti
 
 Ai fini dell'esercizio dei poteri speciali di cui all'articolo 2 del decreto-legge, le reti e gli impianti di rilevanza strategica per il settore dei trasporti sono individuati nelle grandi reti e impianti di interesse nazionale, destinati anche a garantire i principali collegamenti transeuropei, e nei relativi rapporti convenzionali, come individuati dal comma 2.
+
+2.
+                    
+                        
+                            Sono inclusi nelle reti e negli impianti di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                porti di interesse nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                aeroporti di interesse nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                spazioporti nazionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rete ferroviaria nazionale di rilevanza per le reti trans-europee; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli interporti di rilievo nazionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                reti stradali e autostradali di interesse nazionale.
 
 ## Art. 3. — Individuazione degli attivi di rilevanza strategica 
  nel settore comunicazioni

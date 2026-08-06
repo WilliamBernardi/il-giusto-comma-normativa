@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2011-03-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -42,6 +42,38 @@ Nel corso del triennio scolastico 2009/2010-2011/2012, l'eventuale revisione del
 
 La scuola dell'infanzia accoglie bambini di eta' compresa tra i tre e i cinque anni compiuti entro il 31 dicembre dell'anno scolastico di riferimento.
 
+2.
+                    
+                        
+                            Su richiesta delle famiglie sono iscritti alla scuola dell'infanzia, le bambine e i bambini che compiono tre anni di eta' entro il 30 aprile dell'anno scolastico di riferimento. Al fine di garantire qualita' pedagogica, flessibilita' e specificita' dell'offerta educativa in coerenza con la particolare fascia di eta' interessata, l'inserimento dei bambini ammessi alla frequenza anticipata e' disposto alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                disponibilita' dei posti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                accertamento dell'avvenuto esaurimento di eventuali liste di attesa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                disponibilita' di locali e dotazioni idonei sotto il profilo dell'agibilita' e funzionalita', tali da rispondere alle diverse esigenze dei bambini di eta' inferiore a tre anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                valutazione pedagogica e didattica, da parte del collegio dei docenti, dei tempi e delle modalita' dell'accoglienza.
+
 Analogamente e' prevista la possibilita', previo accordo in sede di Conferenza unificata, di proseguire nelle iniziative e negli interventi relativi all'attivazione delle «sezioni primavera», ai sensi dell'articolo 1, commi 630 e 634, della legge 27 dicembre 2006, n. 296, stabilendo gli opportuni coordinamenti con l'istituto degli anticipi, nell'ambito delle risorse finanziarie destinate allo scopo a legislazione vigente.
 
 L' istituzione di nuove scuole e di nuove sezioni avviene in collaborazione con gli enti territoriali, assicurando la coordinata partecipazione delle scuole statali e delle scuole paritarie al sistema scolastico nel suo complesso. ((1))
@@ -68,6 +100,31 @@ Sono iscritti alla scuola primaria le bambine e i bambini che compiono sei anni 
 Possono, altresi', essere iscritti alla scuola primaria, su richiesta delle famiglie, le bambine e i bambini che compiono sei anni di eta' entro il 30 aprile dell'anno scolastico di riferimento.
 
 Il tempo scuola della primaria e' svolto ai sensi dell'articolo 4 del decreto-legge 1° settembre 2008, n. 137, convertito, con modificazioni, dalla legge 30 ottobre 2008, n. 169, secondo il modello dell'insegnante unico che supera il precedente assetto del modulo e delle compresenze, e secondo le differenti articolazioni dell'orario scolastico settimanale a 24, 27, e sino a 30 ore, nei limiti delle risorse dell'organico assegnato; e' previsto altresi' il modello delle 40 ore, corrispondente al tempo pieno. Tali articolazioni riguardano a regime l'intero percorso della scuola primaria e, per l'anno scolastico 2009-2010, solo le classi prime, tenendo conto delle specifiche richieste delle famiglie. Qualora il docente non sia in possesso degli specifici titoli previsti per l'insegnamento della lingua inglese e dei requisiti per l'insegnamento della religione cattolica, tali insegnamenti sono svolti da altri docenti che ne abbiano i titoli o i requisiti.
+
+4.
+                    
+                        
+                            Le classi successive alla prima continuano a funzionare, dall'anno scolastico 2009-2010 e fino alla graduale messa a regime del modello previsto dal precedente comma 3, secondo i modelli orario in atto:
+ 
+                        
+                        
+                            a)
+                            
+                                27 ore, corrispondenti all'orario di insegnamento di cui all'articolo 7, comma 1, del decreto legislativo n. 59 del 2004, con esclusione delle attivita' opzionali facoltative di cui al comma 2 del medesimo articolo, senza compresenze;
+
+                            
+                        
+                        
+                            b)
+                            
+                                30 ore comprensive delle attivita' opzionali facoltative, corrispondente all'orario delle attivita' di cui all'articolo 7, comma 2, del decreto legislativo n. 59 del 2004, senza compresenze e nei limiti dell'organico assegnato per l'anno scolastico 2008/2009;
+
+                            
+                        
+                        
+                            c)
+                            
+                                40 ore corrispondenti al modello di tempo pieno, nei limiti dell'organico assegnato per l'anno scolastico 2008/2009 senza compresenze.
 
 Le istituzioni scolastiche, nella loro autonomia e sulla base delle richieste delle famiglie e fermo quanto disposto ai commi precedenti, adeguano i diversi modelli orario agli obiettivi formativi e ai piani di studio allegati al decreto legislativo n. 59 del 2004, come aggiornati dal decreto del Ministro della pubblica istruzione in data 31 luglio 2007.
 
@@ -335,6 +392,32 @@ Le disposizioni del presente regolamento si applicano anche alle scuole con ling
 Ai sensi dell'articolo 2, comma 2, del decreto legislativo 30 marzo 2001, n. 165 le disposizioni del presente regolamento non possono essere disapplicate o derogate da norme contrattuali.
 
 ## Art. 7. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 1, comma 630, quarto periodo, della legge 27 dicembre 2006, n. 296;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    articolo 6 del decreto legislativo 19 febbraio 2004, n. 59;
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 12, comma 1, primo periodo, del decreto legislativo 19 febbraio 2004, n. 59.
 
 E' altresi' abrogata ogni altra disposizione comunque incompatibile con quelle del presente regolamento.
 

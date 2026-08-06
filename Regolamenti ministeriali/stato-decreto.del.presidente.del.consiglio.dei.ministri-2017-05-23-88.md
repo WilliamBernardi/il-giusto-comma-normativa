@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2017-05-23;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,48 @@ Il presente decreto disciplina le modalita' di attuazione delle disposizioni rel
 
 ## Art. 2. — Condizioni per l'accesso all'APE sociale
 
+1.
+                    
+                        
+                            Puo' conseguire l'APE sociale il soggetto iscritto all'assicurazione generale obbligatoria, alle forme sostitutive ed esclusive della medesima e alla gestione separata di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335, che ha cessato l'attivita' lavorativa, non e' titolare di un trattamento pensionistico diretto, ha compiuto almeno 63 anni di eta' e si trova in una delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' in possesso di un'anzianita' contributiva di almeno 30 anni, si trova in stato di disoccupazione ai sensi dell'articolo 19, comma 1, del decreto legislativo 14 settembre 2015, n. 150, per licenziamento, anche collettivo, dimissioni per giusta causa o risoluzione consensuale intervenuta nell'ambito della procedura di cui all'articolo 7, della legge 15 luglio 1966, n. 604, ed ha concluso da almeno tre mesi di godere dell'intera prestazione per la disoccupazione a lui spettante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' in possesso di un'anzianita' contributiva di almeno 30 anni e al momento della richiesta assiste da almeno sei mesi il coniuge, la persona in unione civile o un parente di primo grado, convivente, con handicap in situazione di gravita' ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104. Per l'assistenza alla stessa persona con handicap in situazione di gravita' e' possibile conseguire una sola APE sociale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' in possesso di un'anzianita' contributiva di almeno 30 anni e riconosciuto invalido civile di grado almeno pari al 74 per cento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                e' un lavoratore dipendente in possesso di un'anzianita' contributiva di almeno 36 anni, che alla data della domanda di accesso all'APE sociale svolge da almeno sei anni, in via continuativa, una o piu' delle attivita' elencate nell'allegato A del presente decreto.
+
+2.
+                    
+                        
+                            Ai fini del perfezionamento del requisito contributivo di cui al comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                a d), si tiene conto di tutta la contribuzione versata o accreditata, a qualsiasi titolo, presso le gestioni indicate dal comma 1. I versamenti contributivi per periodi coincidenti si considerano una sola volta ai fini del diritto all'indennita'.
+
 ## Art. 3. — Misura dell'APE sociale
 
 L'APE sociale e' erogata mensilmente per dodici mensilita' l'anno, e' pari all'importo corrispondente a quello della rata mensile della pensione di vecchiaia calcolata al momento della domanda e non puo' in ogni caso superare l'importo mensile di 1.500 euro lordi, non soggetto alla rivalutazione. Nel caso di soggetto con contribuzione versata o accreditata a qualsiasi titolo presso piu' gestioni ai fini del calcolo dell'APE sociale il computo della rata mensile di pensione e' effettuato pro-quota per ciascuna gestione in rapporto ai rispettivi periodi di iscrizione maturati, secondo le regole di calcolo previste da ciascun ordinamento e sulla base delle rispettive retribuzioni di riferimento.
@@ -49,9 +91,69 @@ Le condizioni per l'accesso all'APE sociale devono essersi realizzate gia' al mo
 
 ## Art. 5. — Documentazione da allegare alla domanda di riconoscimento delle condizioni per l'accesso all'APE sociale
 
+1.
+                    
+                        
+                            Unitamente alla domanda di riconoscimento delle condizioni per l'accesso all'APE sociale, l'interessato produce una dichiarazione sostitutiva di atto di notorieta' circa la sussistenza al momento della domanda o il realizzarsi entro la fine dell'anno delle condizioni di cui all'articolo 4, comma 4, nonche' i seguenti documenti a riprova della sussistenza, gia' al momento della domanda di riconoscimento, delle relative condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                con riguardo alle condizioni di cui all'articolo 2, comma 1, lettera a), la lettera di licenziamento, di dimissioni per giusta causa o il verbale di accordo di risoluzione consensuale stipulato ai sensi dell'articolo 7 della legge 15 luglio 1966, n. 604; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con riguardo alle condizioni di cui all'articolo 2, comma 1, lettera b), la certificazione attestante l'handicap in situazione di gravita' ai sensi dell'articolo 3, comma 3, della legge n. 104 del 1992 del coniuge, della persona in unione civile o del parente di primo grado, convivente cui presta assistenza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                con riguardo alle condizioni di cui all'articolo 2, comma 1, lettera c), il verbale di invalidita' civile attestante un'invalidita' a suo carico di grado almeno pari al 74 per cento.
+
+2.
+                    
+                        
+                            Con specifico riguardo alle condizioni di cui all'articolo 2, comma 1, lettera d), l'interessato produce, oltre ad una dichiarazione sostitutiva di atto di notorieta' circa la sussistenza delle predette condizioni, al contratto di lavoro o ad una busta paga, una dichiarazione del datore di lavoro, redatta su un apposito modulo predisposto dall'INPS o, nelle more della sua predisposizione, una dichiarazione sostitutiva di atto di notorieta' attestante i periodi di lavoro prestato alle sue dipendenze, il contratto collettivo applicato, le mansioni svolte, come specificate nell'allegato A, ed il livello di inquadramento attribuito, nonche', con riferimento alle attivita' lavorative di cui all'allegato A, lettere da 
+                        
+                        
+                            a)
+                            
+                                a e), g) e da i) a m), l'applicazione delle voci di tariffa INAIL con un tasso medio di tariffa non inferiore al 17 per mille, ai sensi del decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro del bilancio e della programmazione economica 12 dicembre 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 17 del 22 gennaio 2001.
+
 L'istruttoria della domanda per l'accertamento delle condizioni per l'accesso all'APE sociale e' svolta dalla sede territoriale dell'INPS, che la effettua con i dati disponibili nei suoi archivi e attraverso lo scambio di dati di cui all'articolo 10, secondo le modalita' individuate da un apposito Protocollo predisposto congiuntamente da Ministero del lavoro e delle politiche sociali, INPS, INAIL, ANPAL ed Ispettorato nazionale del lavoro, nel quale sono, tra l'altro, indicate le modalita' attraverso le quali riscontrare le informazioni contenute nella dichiarazione del richiedente e del datore di lavoro ed i casi in cui la sede INPS puo' avvalersi, al fine, dell'Ispettorato nazionale del lavoro. Nelle more dell'adozione del Protocollo l'INPS procede, comunque, ad istruire le domande presentate.
 
 ## Art. 6. — Comunicazioni dell'INPS
+
+1.
+                    
+                        
+                            In esito all'esame della domanda di riconoscimento delle condizioni per l'accesso all'APE sociale di cui all'articolo 4, l'INPS comunica all'interessato entro il 15 ottobre dell'anno 2017 ed entro il 30 giugno dell'anno 2018: 
+ 
+                        
+                        
+                            a)
+                            
+                                il riconoscimento delle condizioni, con indicazione della prima decorrenza utile, qualora a tale ultima data sia confermata la sussistenza delle condizioni e sia verificata la sussistenza della relativa copertura finanziaria in esito al monitoraggio di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il riconoscimento delle condizioni, con differimento della decorrenza dell'APE sociale in ragione dell'insufficiente copertura finanziaria. In tal caso la prima data utile per l'accesso all'APE sociale viene comunicata in data successiva in esito al monitoraggio di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il rigetto della domanda qualora non sussistano le necessarie condizioni.
 
 L'INPS comunica all'interessato l'esito delle domande di riconoscimento delle condizioni per l'accesso all'APE sociale prese in considerazione ai sensi dell'articolo 4, comma 3, entro il 31 dicembre di ciascun anno.
 
@@ -76,6 +178,16 @@ Il titolare dell'APE sociale decade dal diritto all'indennita' alla data di deco
 L'APE sociale non e' compatibile con i trattamenti di sostegno al reddito connessi allo stato di disoccupazione involontaria, con il trattamento di cui all'articolo 16 del decreto legislativo 4 marzo 2015, n. 22, nonche' con l'indennizzo previsto dall'articolo 1 del decreto legislativo 28 marzo 1996, n. 207, erogati per periodi per i quali e' corrisposta l'APE sociale.
 
 ## Art. 9. — Verifiche ispettive
+
+1.
+                    
+                        
+                            Ferma restando ogni ulteriore iniziativa di carattere ispettivo, l'Ispettorato nazionale del lavoro, avvalendosi delle banche dati e di ogni altra informazione in possesso degli Istituti previdenziali, svolge accertamenti sulla sussistenza in capo ai richiedenti ed ai titolari di APE sociale delle condizioni di cui all'articolo 2, comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                a d), sia su richiesta della sede INPS, ai sensi dell'articolo 5, comma 3, sia in attuazione di appositi piani di controllo adottati annualmente dal Ministero del lavoro e delle politiche sociali, sia, eventualmente, a campione.
 
 ## Art. 10. — Scambio dei dati tra enti
 

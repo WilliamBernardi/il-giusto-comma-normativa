@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2023-10-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,52 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della gi
 Il presente decreto attua nell'ordinamento interno la direttiva 2014/41/UE del Parlamento europeo e del Consiglio del 3 aprile 2014, di seguito denominata direttiva, relativa all'ordine europeo di indagine penale, nel rispetto dei principi dell'ordinamento costituzionale e della Carta dei diritti fondamentali dell'Unione europea in tema di diritti fondamentali, nonche' in tema di diritti di liberta' e di giusto processo.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Ordine europeo di indagine penale, di seguito denominato ordine di indagine: il provvedimento emesso dalla autorita' giudiziaria o dalla autorita' amministrativa e convalidato dall'autorita' giudiziaria di uno Stato membro dell'Unione europea, per compiere atti di indagine o di assunzione probatoria che hanno ad oggetto persone o cose che si trovano nel territorio dello Stato o di un altro Stato membro dell'Unione ovvero per acquisire informazioni o prove che sono gia' disponibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    autorita' di emissione: l'autorita' competente di uno Stato membro dell'Unione, che emette l'ordine di indagine con il quale dispone l'acquisizione di elementi di prova in un procedimento penale, o convalida una richiesta di acquisizione probatoria proveniente da un'autorita' amministrativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autorita' di esecuzione: l'autorita' competente di uno Stato membro dell'Unione che riceve, riconosce e da' esecuzione a un ordine di indagine emesso dall'autorita' giudiziaria italiana; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Stato di emissione: lo Stato di appartenenza dell'autorita' di emissione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Stato di esecuzione: lo Stato di appartenenza dell'autorita' di esecuzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Autorita' centrale: il Ministero della giustizia.
 
 ## Art. 3. — Protezione dei dati personali
 
@@ -105,13 +151,326 @@ L'impossibilita' di eseguire l'ordine di indagine secondo quanto disposto dal co
 
 Se per il compimento dell'atto oggetto dell'ordine di indagine e' necessaria autorizzazione a procedere, il procuratore della Repubblica ne fa tempestiva richiesta.
 
+5.
+                        
+                            
+                                Fermo quanto previsto dall'articolo 10, comma 1, si provvede in ogni caso all'esecuzione dell'ordine di indagine avente ad oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisizione dei verbali di prove di altro procedimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquisizione di informazioni contenute in banche dati accessibili all'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    audizione della persona informata dei fatti, del testimone, del consulente o del perito, della persona offesa, nonche' della persona sottoposta ad indagini o dell'imputato presenti nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compimento di atti di indagine che non incidono sulla liberta' personale e sul diritto all'inviolabilita' del domicilio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    identificazione di persone titolari di uno specifico numero telefonico o di un indirizzo di posta elettronica o di un indirizzo IP.
+
 ## Art. 10. — Motivi di rifiuto e di restituzione
+
+1.
+                        
+                            
+                                Oltre che nel caso di cui all'articolo 9, comma 3, non si provvede al riconoscimento e all'esecuzione dell'ordine di indagine ove: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ordine di indagine trasmesso risulta incompleto ovvero le informazioni in esso contenute sono manifestamente erronee o non corrispondenti al tipo di atto richiesto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la persona nei cui confronti si procede gode di immunita' riconosciute dallo Stato italiano che limitano o impediscono l'esercizio o il proseguimento dell'azione penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esecuzione dell'ordine di indagine potrebbe recare pregiudizio alla sicurezza nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dalle informazioni trasmesse risulta la violazione del divieto di sottoporre una persona, gia' definitivamente giudicata, ad un nuovo processo per i medesimi fatti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sussistono fondati motivi per ritenere che l'esecuzione dell'atto richiesto nell'ordine di indagine non e' compatibile con gli obblighi dello Stato sanciti dall'articolo 6 del Trattato dell'Unione europea e dalla Carta dei diritti fondamentali dell'Unione europea; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il fatto per il quale e' stato emesso l'ordine di indagine non e' punito dalla legge italiana come reato, indipendentemente dagli elementi costitutivi o dalla qualificazione giuridica individuati dalla legge dello Stato di emissione, salvo quanto disposto dagli articoli 9, comma 5, e 11.
 
 Se l'ordine di indagine e' stato emesso in relazione a violazioni tributarie, doganali o valutarie, l'esecuzione non puo' essere rifiutata per il fatto che la legge italiana non impone lo stesso tipo di tasse o di imposte, o per il fatto che la legislazione italiana in materia tributaria, valutaria o doganale e' diversa da quella dello Stato di emissione.
 
 E' restituito all'autorita' di emissione l'ordine di indagine emesso da un'autorita' diversa dalla giudiziaria o da questa non convalidato.
 
 ## Art. 11. — Deroghe alla doppia incriminazione
+
+1.
+                        
+                            
+                                Il motivo di rifiuto di cui all'articolo 10, comma 1, lettera f), non rileva per le seguenti categorie di reati, come indicati dall'autorita' di emissione nell'ordine di indagine, qualora il fatto sia punibile nello Stato di emissione con una pena non inferiore nel massimo a tre anni o con una misura di sicurezza detentiva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipazione a un'associazione per delinquere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    terrorismo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tratta di esseri umani; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sfruttamento sessuale di minori e pornografia infantile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    traffico illecito di stupefacenti e sostanze psicotrope; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    traffico illecito di armi, munizioni ed esplosivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    corruzione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    frode, compresa la frode che lede gli interessi finanziari delle Comunita' europee ai sensi della Convenzione del 26 luglio 1995, relativa alla tutela degli interessi finanziari delle Comunita' europee; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    riciclaggio; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    falsificazione e contraffazione di monete; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    criminalita' informatica; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    criminalita' ambientale, compreso il traffico illecito di specie animali protette e il traffico illecito di specie e di essenze vegetali protette; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    favoreggiamento dell'ingresso e del soggiorno illegali di cittadini non appartenenti a Stati membri dell'Unione europea; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    omicidio volontario, lesioni personali gravi; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    traffico illecito di organi e tessuti umani; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    sequestro di persona; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    razzismo e xenofobia; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    rapina commessa da un gruppo organizzato o con l'uso di armi; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    traffico illecito di beni culturali, compresi gli oggetti d'antiquariato e le opere d'arte; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    truffa; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    estorsione; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    contraffazione e pirateria in materia di marchi e prodotti; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    falsificazione di atti amministrativi e traffico di documenti alterati e contraffatti; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    falsificazione di mezzi di pagamento; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    traffico illecito di sostanze ormonali ed altri fattori di crescita; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    traffico illecito di materie nucleari e radioattive; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    ricettazione, riciclaggio e reimpiego di veicoli oggetto di furto; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    violenza sessuale; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    incendio; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    reati che rientrano nella competenza giurisdizionale della Corte penale internazionale; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    dirottamento di nave o aeromobile; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    sabotaggio.
 
 ## Art. 12. — Trasferimento delle prove
 
@@ -191,6 +550,38 @@ Il procuratore della Repubblica richiede l'esecuzione dell'ordine di indagine al
 
 Il procuratore della Repubblica e il giudice, nell'ambito delle rispettive attribuzioni, dispongono, nei casi previsti dalla legge, la nomina di un interprete.
 
+5.
+                        
+                            
+                                Provvedono altresi' a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    identificare la persona da ascoltare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    notificare l'ora e il luogo della comparizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    citare il testimone, il consulente tecnico o il perito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    invitare la persona sottoposta alle indagini o l'imputato a comparire con le modalita' stabilite dal codice di procedura penale e ad informarlo dei diritti e delle facolta' a lui riconosciuti dall'ordinamento dello Stato di emissione.
+
 L'audizione e' condotta direttamente dall'autorita' di emissione o sotto la sua direzione. Il procuratore della Repubblica, o il giudice quando provvede all'esecuzione dell'ordine di indagine, assicurano il rispetto, nel compimento dell'atto, dei principi fondamentali dell'ordinamento giuridico dello Stato. I testimoni e i periti sono informati della facolta' di astensione riconosciuta dall'ordinamento interno e da quello dello Stato di emissione.
 
 Il verbale dell'audizione e' trasmesso all'autorita' di emissione.
@@ -240,8 +631,65 @@ Intercettazione di telecomunicazioni con l'assistenza tecnica della autorita' gi
 
 Al riconoscimento dell'ordine di indagine emesso per le operazioni di intercettazione provvede, sempre che sussistano le condizioni di ammissibilita' previste dall'ordinamento interno, il procuratore della Repubblica presso il tribunale del capoluogo del distretto di cui all'articolo 4.
 
+2.
+                        
+                            
+                                Il procuratore della Repubblica trasmette al giudice per le indagini preliminari l'ordine di indagine con richiesta di esecuzione, dopo aver provveduto al riconoscimento e dopo aver specificamente verificato che siano indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autorita' che procede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esistenza del titolo che dispone o autorizza lo svolgimento delle operazioni di intercettazione con l'indicazione del reato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati tecnici necessari allo svolgimento delle operazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la durata dell'intercettazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i motivi che rendono necessaria l'attivita' di indagine richiesta.
+
 Il giudice per le indagini preliminari rifiuta l'esecuzione, oltre che per i motivi indicati dall'articolo 10, se non sussistono le condizioni di ammissibilita' previste dall'ordinamento interno.
 Del rifiuto e' data immediata comunicazione all'autorita' di emissione a cura del procuratore della Repubblica.
+
+4.
+                        
+                            
+                                All'ordine di indagine, previa consultazione con l'autorita' di emissione, puo' darsi esecuzione alternativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la trasmissione immediata dei flussi comunicativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con l'intercettazione, la registrazione e la successiva trasmissione dei risultati delle operazioni.
 
 In deroga a quanto previsto dal comma 4, il pubblico ministero, quando sono acquisite comunicazioni di servizio di appartenenti al Dipartimento delle informazioni per la sicurezza o ai servizi di informazione per la sicurezza, provvede agli adempimenti di cui all'articolo 270-bis del codice di procedura penale prima di trasmettere all'autorita' di emissione i risultati delle operazioni di intercettazione.
 
@@ -301,6 +749,45 @@ Le disposizioni del decreto legislativo 15 febbraio 2016, n. 34, relative alla r
 
 ## Art. 30. — Contenuto dell'ordine di indagine
 
+1.
+                        
+                            
+                                L'ordine di indagine contiene, secondo il modello di cui all'allegato A al presente decreto, le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati relativi all'autorita' di emissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'oggetto e le ragioni sulle quali si fonda; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati utili all'individuazione della persona o delle persone interessate dal compimento dell'atto richiesto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la descrizione sommaria del fatto per cui si procede e l'indicazione delle norme di legge violate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una sintetica descrizione dell'atto d'indagine o di prova richiesti.
+
 ## Art. 31. — Ordine di indagine emesso su richiesta della difesa
 
 Il difensore della persona sottoposta alle indagini, dell'imputato, della persona per la quale e' proposta l'applicazione di una misura di prevenzione, puo' chiedere al pubblico ministero o al giudice che procede l'emissione di un ordine d'indagine.
@@ -344,6 +831,24 @@ L'autorita' giudiziaria che ha emesso l'ordine di indagine, ricevuta dall'autori
 Disposizioni sulla utilizzabilita' degli atti compiuti 
  e delle prove assunte all'estero
 
+1.
+                        
+                            
+                                Sono raccolti nel fascicolo per il dibattimento di cui all'articolo 431 del codice di procedura penale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i documenti acquisiti all'estero mediante ordine di indagine e i verbali degli atti non ripetibili assunti con le stesse modalita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i verbali degli atti, diversi da quelli previsti dalla lettera a), assunti all'estero a seguito di ordine di indagine ai quali i difensori sono stati posti in grado di assistere e di esercitare le facolta' loro consentite dalla legge italiana.
+
 Nei casi e con le modalita' di cui all'articolo 512-bis del codice di procedura penale il giudice da' lettura dei verbali di dichiarazioni rese all'estero, diversi da quelli di cui all'articolo 431, comma 1, lettera e), del codice di procedura penale, acquisiti a seguito di ordine di indagine emesso nelle fasi precedenti il giudizio.
 
 ## - Capo II Disposizioni specifiche per determinati atti di indagine
@@ -374,6 +879,31 @@ Il pubblico ministero o il giudice che procede possono emettere, nell'ambito del
 
 Allo stesso modo possono provvedere per l'audizione a distanza dell'imputato o della persona sottoposta alle indagini, sempre che questi vi consentano.
 
+3.
+                        
+                            
+                                L'ordine di indagine puo' essere emesso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando per i soggetti di cui ai commi 1 e 2 ricorrono giustificati motivi che rendono non opportuna la loro presenza sul territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando la persona da interrogare o esaminare e' a qualsiasi titolo detenuta nello Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi previsti dall'articolo 147-bis del decreto legislativo 28 luglio 1989, n. 271.
+
 L'autorita' giudiziaria concorda con l'autorita' di esecuzione le modalita' dell'audizione.
 
 Se l'autorita' di esecuzione non ha la disponibilita' o l'accesso ai mezzi tecnici necessari, l'autorita' giudiziaria che ha emesso l'ordine di indagine puo' metterli a sua disposizione per il tramite dell'autorita' centrale.
@@ -402,6 +932,63 @@ Quando si procede per uno dei reati di cui all'articolo 9 della legge 16 marzo 2
 Richiesta di intercettazione di telecomunicazioni con l'assistenza tecnica dell'autorita' giudiziaria di altro Stato membro
 
 Il pubblico ministero emette ordine di indagine, secondo il modello di cui all'allegato A, sezione H 7, del presente decreto, per la necessaria assistenza tecnica all'esecuzione delle operazioni di intercettazione delle conversazioni o comunicazioni o del flusso di comunicazioni relativo a sistemi informatici o telematici, quando nel territorio di altro Stato membro si trova il dispositivo o il sistema da controllare.
+
+2.
+                        
+                            
+                                L'ordine di indagine contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione dell'autorita' giudiziaria che ha disposto l'intercettazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni informazione utile ai fini dell'identificazione della persona che ha in uso il dispositivo o il sistema da controllare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la durata delle operazioni di intercettazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i dati tecnici necessari allo svolgimento delle operazioni di intercettazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i motivi della rilevanza dell'atto.
+
+3.
+                        
+                            
+                                Il pubblico ministero, previo accordo con l'autorita' di esecuzione, indica nell'ordine di indagine se l'operazione deve essere eseguita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con trasmissione immediata delle telecomunicazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    intercettando, registrando e trasmettendo successivamente il risultato dell'intercettazione.
 
 La richiesta puo' avere ad oggetto la trascrizione, la decodificazione o la decrittazione delle comunicazioni intercettate.
 In tal caso le spese sono anticipate dallo Stato.

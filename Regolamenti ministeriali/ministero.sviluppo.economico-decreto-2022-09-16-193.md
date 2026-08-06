@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2022-09-16;193
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO 16 settembre 2022 193 Regolamento contenente gli schemi tipo per le garanzie fideiussorie e le polizze assicurative di cui agli articoli 24, 35, 93, 103 e 104 del decreto legislativo 18 aprile 2016, n. 50, e successive modificazioni. (22G00201)

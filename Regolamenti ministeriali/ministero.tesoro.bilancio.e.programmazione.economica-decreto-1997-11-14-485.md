@@ -8,8 +8,8 @@ codice_redazionale: 098G0014
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,61 @@ Sentite la Banca d'Italia e la Consob;
 Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione consultiva per gli atti normativi in data 3 luglio 1997;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                "sistemi di indennizzo": i soggetti di natura privatistica aventi personalita' giuridica eventualmente espressa anche in forma di societa' consortili, costituiti per la tutela di crediti vantati nei confronti delle imprese e degli intermediari di cui alle lettere b), c) e d) seguenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "imprese di investimento": le imprese di investimento comunitarie ed extra comunitarie definite dall'articolo 1, comma 5, lettere e) ed f), del decreto legislativo 23 luglio 1996, n. 415 (di seguito decreto);
+
+                            
+                        
+                        
+                            c)
+                            
+                                "intermediari finanziari": gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del decreto legislativo 1 settembre 1993, n. 385, e successive modificazioni (di seguito testo unico bancario) abilitati a prestare servizi di investimento ai sensi dell'articolo 2, comma 4, del decreto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "intermediari": le banche italiane, le societa' di intermediazione mobiliare (SIM), gli intermediari finanziari, gli agenti di cambio, nonche' le banche estere (comunitarie ed extra comunitarie) e le imprese di investimento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "investitori": i clienti che affidano denaro o strumenti finanziari agli intermediari, nell'ambito di operazioni di investimento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "operazioni di investimento": i servizi di investimento definiti dall'articolo 1, comma 3, del decreto ed il servizio accessorio di cui all'articolo 1, comma 4, lettera a), del decreto medesimo;
+
+                            
+                        
+                        
+                            g)
+                            
+                                "gruppo": quello definito dalla Banca d'Italia ai sensi dell'articolo 6, comma 4, del decreto.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Riconoscimento dei sistemi di indennizzo
 
@@ -45,9 +100,119 @@ Resta salvo quanto disposto dall'articolo 62, comma 1, del decreto.
 
 ## Art. 3. — Intervento del sistema
 
+1.
+                    
+                        
+                            Il sistema di indennizzo rimborsa i crediti degli investitori:
+ 
+                        
+                        
+                            a)
+                            
+                                nei casi di liquidazione coatta amministrativa di banche italiane e di societa' di intermediazione mobiliare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei casi di fallimento o di concordato preventivo degli agenti di cambio e degli intermediari finanziari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei casi di intervento di sistemi di indennizzo dei Paesi di origine di banche estere e di imprese di investimento cui facciano capo succursali insediate in Italia o, qualora in detti Paesi non siano previsti sistemi di indennizzo, nei casi in cui tali intermediari siano assoggettati a procedure analoghe a quelle indicate alle lettere a) e b).
+
 ## Art. 4. — Crediti ammessi al rimborso
 
+1.
+                    
+                        
+                            Il sistema di indennizzo rimborsa i crediti, rappresentati da somme di denaro e da strumenti finanziari derivanti da operazioni di investimento, vantati dagli investitori nei confronti di:
+ 
+                        
+                        
+                            a)
+                            
+                                banche italiane, societa' di intermediazione mobiliare, intermediari finanziari e di loro succursali comunitarie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                succursali insediate in Italia di banche estere e imprese di investimento che aderiscono al sistema di indennizzo, limitatamente all'attivita' svolta in Italia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                agenti di cambio.
+
 Il sistema di indennizzo puo' inoltre prevedere il rimborso dei crediti indicati nel comma 1 vantati dagli investitori nei confronti delle succursali extra comunitarie di banche italiane, di societa' di intermediazione mobiliare e di intermediari finanziari.
+
+3.
+                    
+                        
+                            Sono esclusi dal rimborso del sistema di indennizzo i crediti vantati dalle seguenti categorie di soggetti:
+ 
+                        
+                        
+                            a)
+                            
+                                investitori nei confronti dei quali sia intervenuta condanna per i reati previsti dagli articoli 648-bis e 648-ter del codice penale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                investitori che abbiano concorso a determinare l'insolvenza dell'intermediario, come accertato dagli organi della procedura concorsuale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                banche, societa' di intermediazione mobiliare, agenti di cambio, societa' finanziarie di cui al titolo V del testo unico bancario, imprese di investimento, imprese di assicurazione, organismi di investimento collettivo del risparmio e fondi pensione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                enti sopranazionali, amministrazioni dello Stato e degli enti pubblici territoriali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                societa' appartenenti allo stesso gruppo dell'intermediario;
+
+                            
+                        
+                        
+                            f)
+                            
+                                soci che detengono, anche per interposta persona, almeno il 5% del capitale dell'intermediario;
+
+                            
+                        
+                        
+                            g)
+                            
+                                amministratori, dirigenti, sindaci, certificatori del bilancio dell'intermediario, o di altre societa' del gruppo di appartenenza dell'intermediario medesimo, in carica negli ultimi due esercizi;
+
+                            
+                        
+                        
+                            h)
+                            
+                                coniuge e parenti fino al primo grado dei soggetti indicati nelle lettere a), b), c), f) e g).
 
 Sono escluse da qualsiasi indennizzo le operazioni effettuate per interposta persona dai soggetti di cui alle lettere f) e g) del precedente comma 3.
 
@@ -74,6 +239,31 @@ Il rimborso e' disposto entro tre mesi dalla scadenza del termine previsto dal c
 Il sistema di indennizzo fissa i criteri e le modalita' della contribuzione straordinaria ed aggiuntiva a carico degli intermediari aderenti, in modo da garantire la capacita' del sistema stesso di far fronte agli obblighi di rimborso nei tempi indicati dall'articolo 6, comma 2.
 
 Gli obblighi contributivi possono essere differenziati in relazione a criteri generali ed obiettivi, non discriminatori ed equi.
+
+3.
+                    
+                        
+                            Le somme che affluiscono al sistema di indennizzo a fronte degli obblighi contributivi devono essere depositate presso primarie banche, individuate in base alle caratteristiche definite dagli atti costitutivi di cui all'articolo 2, comma 1. Il sistema di indennizzo puo' effettuare investimenti, nella misura e nelle forme stabilite dall'organo di amministrazione, esclusivamente in:
+ 
+                        
+                        
+                            a)
+                            
+                                titoli di Stato o garantiti dallo Stato, emessi da Stati aderenti all'OCSE ovvero da soggetti ivi residenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                titoli di debito negoziati nei mercati regolamentati riconosciuti ai sensi dell'articolo 51 del decreto ovvero nei mercati regolamentati degli Stati Uniti, del Giappone e del Canada;
+
+                            
+                        
+                        
+                            c)
+                            
+                                parti di organismi di investimento collettivo in valori mobiliari per i quali non e' previsto l'investimento in titoli diversi da quelli previsti dalle lettere a) e b).
 
 Il sistema di indennizzo puo' stipulare polizze assicurative con imprese di assicurazione a cio' autorizzate sia in ragione del ramo di attivita' sia in ragione dell'entita' dei rischi da assumere.
 Anche in presenza di tali polizze, il sistema di indennizzo resta comunque direttamente responsabile nei confronti degli aventi diritto ai rimborsi previsti dal presente regolamento.

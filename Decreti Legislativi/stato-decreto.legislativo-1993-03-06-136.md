@@ -8,8 +8,8 @@ codice_redazionale: 093G0199
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -47,6 +47,30 @@ o a qualsiasi altra imposta che venga a sostituire una delle imposte sopraindica
  7. Alle societa' di cui al comma 1 che risultano controllate direttamente o indirettamente da uno o piu' soggetti non residenti in Stati della Comunita' europea le disposizioni di cui al presente articolo si applicano a condizione che dimostrino di non essere state costituite allo scopo esclusivo o principale di beneficiare del re- gime in esame. A tal fine per l'assunzione delle prove da parte dell'Amministrazione finanziaria si applicano le procedure di cui ai commi 12 e 13 dell'art. 11 della legge 30 dicembre 1991, n. 413.".
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il quarto comma dell'art. 27 e' inserito il seguente comma:
+ "La ritenuta d'acconto di cui al comma precedente non si applica sull'intero ammontare degli utili distribuiti soggetti al regime di cui all'art. 96- bis del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917. Con decreto del Ministro delle finanze possono essere stabilite particolari modalita' di attuazione mediante approvazione di appositi modelli";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'art. 27 e' inserito il seguente articolo:
+ "Art. 27-bis (Rimborso della ritenuta sui dividendi distribuiti a soggetti non residenti). - 1. Le societa' indicate al comma 2 dell'art. 96- bis del testo unico delle imposte sui redditi, approvato con il decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, che detengono una partecipazione diretta non inferiore al 25 per cento del capitale della societa' che distribuisce gli utili, hanno diritto, a richiesta, al rimborso della ritenuta di cui al terzo comma dell'art. 27, a condizione che la partecipazione sia stata posseduta ininterrottamente da almeno un anno alla data della relativa delibera di distribuzione.
+ 2. Ai fini dell'applicazione del comma 1, deve essere prodotta una certificazione, rilasciata dalle competenti autorita' fiscali dello Stato estero, che attesti che la societa' non residente possiede i requisiti indicati nel comma 2 dell'art. 96- bis del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
+ 3. Ove ricorrano le condizioni di cui ai precedenti commi, a richiesta della societa' beneficiaria dei dividendi, i soggetti di cui all'art. 23 possono non applicare la ritenuta di cui al terzo comma dell'art. 27. Alla richiesta deve essere allegata la certificazione delle competenti autorita' fiscali dello Stato estero, che attesta la ricorrenza dei requisiti. Copia della documentazione deve essere allegata alla dichiarazione prevista dall'art. 7. Con decreto del Ministro delle finanze possono essere stabilite specifiche modalita' di attuazione mediante approvazione di appositi modelli.
+ 4. Resta impregiudicata l'applicazione di ritenute alla fonte previste da disposizioni convenzionali che accordano rimborsi di somme afferenti i dividendi distribuiti.
+ 5. Le disposizioni di cui al presente articolo si applicano alle societa' di cui al comma 1 che risultano controllate direttamente o indirettamente da uno o piu' soggetti non residenti in Stati della Comunita' europea a condizione che dimostrino di non essere state costituite allo scopo esclusivo o principale di beneficiare del re- gime in esame. A tal fine per l'assunzione delle prove si applicano le procedure di cui ai commi 12 e 13 dell'art. 11 della legge 30 dicembre 1991, n. 413.".
 
 ## Art. 3.
 

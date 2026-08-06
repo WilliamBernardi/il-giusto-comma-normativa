@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2014-08-04;139
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -55,6 +55,25 @@ Dopo l'articolo 14 del decreto del Ministro della giustizia 18 ottobre 2010, n. 
  3. Chi ha svolto l'incarico di mediatore non puo' intrattenere rapporti professionali con una delle parti se non sono decorsi almeno due anni dalla definizione del procedimento. Il divieto si estende ai professionisti soci, associati ovvero che esercitano negli stessi locali.».
 
 ## Art. 7. — Modifiche all'articolo 16
+
+1.
+                    
+                        
+                            All'articolo 16, comma 2, del decreto del Ministro della giustizia 18 ottobre 2010, n. 180, e successive integrazioni e modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole «da ciascuna parte» sono aggiunte le parole «per lo svolgimento del primo incontro»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo le parole «euro 40,00» sono aggiunte le parole «per le liti di valore fino a 250.000,00 euro e di euro 80,00 per quelle di valore superiore, oltre alle spese vive documentate; 
+ c) dopo il primo periodo e' aggiunto il seguente: «l'importo e' dovuto anche in caso di mancato accordo».
 
 All'articolo 16, comma 4, lettera d) del decreto del Ministro della giustizia 18 ottobre 2010, n. 180, e successive integrazioni e modificazioni, le parole «di cui all'articolo 5, comma 1,» sono sostituite dalle parole «di cui all'articolo 5, comma 1-bis e comma 2,».
 

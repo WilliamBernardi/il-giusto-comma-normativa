@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2021-12-09;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -33,6 +33,101 @@ Di concerto con il Ministro dell'economia e delle finanze;
 ## - Titolo I DISPOSIZIONI GENERALI
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    decreto-legge, il decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109, recante disposizioni urgenti in materia di cybersicurezza, definizione dell'architettura nazionale di cybersicurezza e istituzione dell'Agenzia per la cybersicurezza nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decreto legislativo, il decreto legislativo 31 maggio 2011, n. 91, «Disposizioni recanti attuazione dell'articolo 2 della legge 31 dicembre 2009, n. 196, in materia di adeguamento ed armonizzazione dei sistemi contabili»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    decreto ministeriale, il decreto del Ministro dell'economia e delle finanze del 27 marzo 2013, recante criteri e modalita' di predisposizione del budget economico delle amministrazioni pubbliche di contabilita' civilistica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Presidente, il Presidente del Consiglio dei ministri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Autorita' delegata, il Sottosegretario di Stato o il Ministro senza portafoglio di cui all'articolo 3 del decreto-legge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Agenzia, l'Agenzia per la cybersicurezza nazionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Direttore generale, il Direttore generale dell'Agenzia per la cybersicurezza nazionale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    Vice Direttore generale, il Vice Direttore generale dell'Agenzia per la cybersicurezza nazionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    Organismo indipendente di valutazione (OIV), l'organismo nominato con provvedimento del Direttore generale, sentito il Vice Direttore generale, che esercita le attribuzioni di cui all'articolo 14 del decreto legislativo 27 ottobre 2009, n. 150; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    COPASIR, il Comitato parlamentare per la sicurezza della Repubblica di cui all'articolo 30 della legge 3 agosto 2007, n. 124; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    CIC, il Comitato interministeriale per la cybersicurezza di cui all'articolo 4 del decreto-legge; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    articolazioni, le articolazioni collocate al di fuori dei Servizi previste dal regolamento di organizzazione e funzionamento dell'Agenzia, adottato in attuazione dell'articolo 6, comma 1, del decreto-legge; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    Servizi, le strutture di livello dirigenziale generale previste dal regolamento di organizzazione e funzionamento dell'Agenzia, adottato in attuazione dell'articolo 6, comma 1, del decreto-legge.
 
 ## Art. 2. — Oggetto
 
@@ -93,6 +188,52 @@ Le previsioni di costo, desumibili dal prospetto di budget economico complessivo
 Il budget economico annuale e' redatto in modo da assicurare l'equilibrio tra proventi/ricavi e costi/oneri.
 
 Lo schema di bilancio preventivo, corredato dalla relazione illustrativa, viene trasmesso, almeno quindici giorni prima di quello fissato per la sua approvazione, dal Direttore generale al Collegio dei revisori dei conti, che redige un'apposita relazione.
+
+6.
+                        
+                            
+                                Secondo quanto previsto all'articolo 2, comma 4, del decreto ministeriale, costituiscono allegati al budget economico annuale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il budget economico pluriennale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione illustrativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prospetto delle previsioni di spesa complessiva articolato per missioni e programmi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il piano degli indicatori e dei risultati attesi di bilancio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la relazione del Collegio dei revisori dei conti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il budget di cassa.
 
 Ove non intervenga, da parte del Presidente del Consiglio dei ministri, l'approvazione del budget economico annuale entro il 31 dicembre, il Direttore generale delibera la gestione provvisoria, fissando limiti di costo mensili pari ad un dodicesimo del budget approvato nell'esercizio precedente, ovvero alla maggiore spesa necessaria, ove si tratti di spese obbligatorie e non suscettibili di frazionamento.
 
@@ -205,6 +346,38 @@ Il bilancio consuntivo di cui all'articolo 11 del decreto-legge consta di un bil
 
 Il bilancio d'esercizio e' redatto secondo quanto disposto dagli articoli 2423 e seguenti del codice civile, in conformita' ai principi contabili nazionali formulati dall'Organismo italiano di contabilita' e ai principi contabili generali previsti dall'articolo 2, comma 2, allegato 1, del decreto legislativo.
 
+3.
+                        
+                            
+                                Il bilancio dell'Agenzia, corredato dalla relazione sulla gestione di cui all'articolo 2428 del codice civile, si compone dei seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stato patrimoniale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    conto economico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rendiconto finanziario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nota integrativa.
+
 Al bilancio d'esercizio e' altresi' allegato, ai sensi dell'articolo 5 del decreto ministeriale, il conto consuntivo in termini di cassa, di cui all'articolo 9, commi 1 e 2, del decreto ministeriale.
 
 ## Art. 25. — Stato patrimoniale
@@ -220,6 +393,24 @@ Il conto economico evidenzia il risultato economico dell'esercizio. Esso fornisc
 Il rendiconto finanziario rappresenta le variazioni, positive o negative, delle disponibilita' liquide avvenute in un determinato esercizio.
 
 ## Art. 28. — Nota integrativa
+
+1.
+                        
+                            
+                                La nota integrativa espone in apposite sezioni i raccordi delle risultanze del bilancio di esercizio con i capitoli di spesa del bilancio dello Stato. Inoltre, la nota integrativa fornisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un commento esplicativo dei dati presentati nello stato patrimoniale e nel conto economico, che per loro natura sono sintetici e quantitativi, e un commento delle variazioni rilevanti intervenute nelle voci tra un esercizio e l'altro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una evidenza delle informazioni di carattere qualitativo che per la loro natura non possono essere fornite dagli schemi di stato patrimoniale e conto economico. La nota integrativa contiene, in forma descrittiva, informazioni ulteriori rispetto a quelle fornite dagli schemi di bilancio.
 
 ## Art. 29. — Approvazione del bilancio d'esercizio
 
@@ -270,6 +461,31 @@ Il Collegio svolge il controllo di competenza in conformita' a quanto previsto d
 ## - Titolo VII DISPOSIZIONI TRANSITORIE E FINALI
 
 ## Art. 35. — Regime transitorio
+
+1.
+                        
+                            
+                                Fermo restando il rispetto dei principi e delle norme fondamentali in materia contabile, in relazione ai tempi necessari per l'implementazione degli assetti organizzativi dell'Agenzia, dei processi operativo-contabili e dei sistemi informatici di supporto, per gli esercizi che si riferiscono alle annualita' 2022, 2023 e 2024 resta facoltativa l'applicazione delle disposizioni riguardanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il piano degli indicatori e dei risultati attesi di bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il sistema di contabilita' analitica articolato per centri di costo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la gestione patrimoniale.
 
 ## Art. 36. — Entrata in vigore
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2012-11-30;251
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA

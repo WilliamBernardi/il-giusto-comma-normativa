@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2014-02-21;21
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -412,6 +412,24 @@ L'istituto di emissione della carta di pagamento ha diritto di addebitare al pro
 Le modifiche apportate al decreto legislativo 6 settembre 2005, n. 206, dall'articolo 1, commi 1, 2, 3, 4 e 5, del presente decreto legislativo entrano in vigore dal 13 giugno 2014 e si applicano ai contratti conclusi dopo tale data.
 
 Il Ministero dello sviluppo economico informa la Commissione europea entro il 13 dicembre 2013 o, al piu' tardi, entro dieci giorni dall'entrata in vigore del presente decreto, delle disposizioni adottate agli articoli 47, comma 2, 49, commi 7, 8 e 9, 50, comma 4, 51, comma 6, e 52, comma 3, del decreto legislativo 6 settembre 2005, n. 206, come modificati dal presente decreto legislativo, ai sensi delle scelte normative previste rispettivamente all'articolo 3, paragrafo 4, all'articolo 6, paragrafi 7 e 8, all'articolo 7, paragrafo 4, all'articolo 8, paragrafo 6, e all'articolo 9, paragrafo 3, della direttiva 2011/83/UE. Il Ministero dello sviluppo economico comunica altresi' alla Commissione europea qualsiasi successiva modifica adottata in relazione alle citate scelte normative previste dalla direttiva comunitaria.
+
+3.
+                    
+                        
+                            Il Ministero dello sviluppo economico comunica alla Commissione europea le disposizioni di protezione dei consumatori piu' rigorose di quelle previste dalla direttiva 93/13/CE in materia di clausole vessatorie nei contratti con i consumatori, in particolare qualora tali disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                estendano la valutazione di abusivita' a clausole contrattuali negoziate individualmente o all'adeguatezza del prezzo o della remunerazione, oppure 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contengano liste di clausole contrattuali che devono essere considerate abusive.
 
 Il Ministero dello sviluppo economico comunica alla Commissione le disposizioni di protezione dei consumatori piu' rigorose di quelle previste dalla direttiva 99/44/CE su taluni aspetti della vendita e delle garanzie dei beni di consumo, qualora tali disposizioni riguardino i termini della durata della garanzia legale nella vendita di beni di consumo sia per i nuovi beni che per i beni usati.
 

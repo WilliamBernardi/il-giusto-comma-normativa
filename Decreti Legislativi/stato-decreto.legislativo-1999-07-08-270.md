@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-09-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,24 @@ L'amministrazione straordinaria e' la procedura concorsuale della grande impresa
 ## Art. 2. — Imprese soggette all'amministrazione straordinaria
 
 
+
+1.
+                        
+                            
+                                Possono essere ammesse all'amministrazione straordinaria, alle condizioni e nelle forme previste dal presente decreto, le imprese, anche individuali, soggette alle disposizioni sul fallimento che hanno congiuntamente i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un numero di lavoratori subordinati, compresi quelli ammessi al trattamento di integrazione dei guadagni, non inferiore a duecento da almeno un anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    debiti per un ammontare complessivo non inferiore ai due terzi tanto del totale dell'attivo dello stato patrimoniale che dei ricavi provenienti dalle vendite e dalle prestazioni dell'ultimo esercizio.
 
 Le imprese confiscate ai sensi della legge 31 maggio 1965, n. 575, e successive modificazioni, possono essere ammesse all'amministrazione straordinaria, alle condizioni e nelle forme previste dal presente decreto, anche in mancanza dei requisiti di cui alle lettere a) e b) del comma 1.
 
@@ -69,6 +87,41 @@ Se l'imprenditore muore dopo la dichiarazione dello stato di insolvenza si appli
 
 L'imprenditore che chiede la dichiarazione del proprio stato di insolvenza deve esporre, nel ricorso, le cause che lo hanno determinato, segnalando ogni elemento utile ai fini della valutazione dell'esistenza dei requisiti e delle condizioni indicati negli articoli 2 e 27.
 
+2.
+                        
+                            
+                                L'imprenditore deve altresi' depositare presso la cancelleria del tribunale:
+
+                            
+                            
+                                a)
+                                
+                                    le scritture contabili;
+                                
+                            
+                            
+                                b)
+                                
+                                    i bilanci relativi agli ultimi due esercizi, ovvero dall'inizio dell'impresa, se questa ha avuto una minore durata;
+                                
+                            
+                            
+                                c)
+                                
+                                    una situazione patrimoniale aggiornata a non piu' di trenta giorni anteriori alla data di presentazione del ricorso;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'elenco nominativo dei creditori con l'indicazione dei rispettivi crediti e delle cause di prelazione;
+                                
+                            
+                            
+                                e)
+                                
+                                    l'elenco nominativo di coloro che vantano diritti reali mobiliari su cose in suo possesso e l'indicazione delle cose stesse e del titolo da cui deriva il diritto.
+
 ## Art. 6. — Ricorso dei creditori
 
 
@@ -89,6 +142,52 @@ Tra la data della comunicazione dell'avviso di convocazione e quella dell'udienz
 L'avviso di convocazione diretto al Ministro dell'industria contiene l'invito ad indicare, entro la data fissata per l'udienza, uno o tre commissari giudiziali, da nominare nel caso di dichiarazione dello stato di insolvenza. Il numero dei commissari e' stabilito dal tribunale.
 
 ## Art. 8. — (Sentenza dichiarativa dello stato di insolvenza)
+
+1.
+                        
+                            
+                                Con la sentenza dichiarativa dello stato di insolvenza il tribunale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nomina il giudice delegato per la procedura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nomina uno o tre commissari giudiziali, in conformita' dell'indicazione del Ministro dell'industria, ovvero autonomamente, ((osservati gli articoli 356 e 358 del codice della crisi e dell'insolvenza,)) se l'indicazione non e' pervenuta nel termine stabilito a norma dell'articolo 7, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordina all'imprenditore di depositare entro due giorni in cancelleria le scritture contabili e i bilanci, se non vi si e' provveduto a norma dell'articolo 5, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assegna ai creditori e ai terzi, che vantano diritti reali mobiliari su beni in possesso dell'imprenditore, un termine non inferiore a novanta giorni e non superiore a centoventi giorni dalla data dell'ammissione della sentenza per la presentazione in cancelleria delle domande; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    stabilisce il luogo, il giorno e l'ora dell'adunanza in cui, nel termine di trenta giorni da quello indicato nella lettera a, si procedera' all'esame dello stato passivo davanti al giudice delegato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    stabilisce se la gestione dell'impresa, fino a quando non si proceda a norma dell'articolo 30, e' lasciata all'imprenditore insolvente o e' affidata al commissario giudiziale.
 
 La nomina di tre commissari giudiziali e' limitata ai casi di eccezionale rilevanza e complessita' della procedura.
 
@@ -267,6 +366,31 @@ Le disposizioni del presente capo non si applicano alle societa' cooperative.
 ## Art. 27. — Condizioni per l 'ammissione alla procedura
 
 Le imprese dichiarate insolventi a norma dell'articolo 3 sono ammesse alla procedura di amministrazione straordinaria qualora presentino concrete prospettive di recupero dell'equilibrio economico delle attivita' imprenditoriali.
+
+2.
+                        
+                            
+                                Tale risultato deve potersi realizzare, in via alternativa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tramite la cessione dei complessi aziendali ((o dei contratti o dei diritti, anche di natura obbligatoria, aventi a oggetto, in tutto o in parte, gli stessi complessi aziendali)), sulla base di un programma di prosecuzione dell'esercizio dell'impresa di durata non superiore ad un anno ("programma di cessione dei complessi aziendali"); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tramite la ristrutturazione economica e finanziaria dell'impresa, sulla base di un programma di risanamento di durata non superiore a due anni ("programma di ristrutturazione"); 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    per le societa' operanti nel settore dei servizi pubblici essenziali anche tramite la cessione di complessi di beni e contratti sulla base di un programma di prosecuzione dell'esercizio dell'impresa di durata non superiore ad un anno ("programma di cessione dei complessi di beni e contratti") . (16) (17)
 
 Per le imprese di cui all'articolo 2, comma 2, del decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39, la durata dei programmi di cui al comma 2 del presente articolo puo' essere autorizzata dal Ministro dello sviluppo economico fino ad un massimo di quattro anni.
 
@@ -447,6 +571,23 @@ Il commissario puo' essere autorizzato dal comitato di sorveglianza a farsi coad
 
 
 
+1.
+                        
+                            
+                                Sono soggetti ad autorizzazione del Ministero dell'industria, sentito il comitato di sorveglianza:
+
+                            
+                            
+                                a)
+                                
+                                    gli atti di alienazione e di affitto di aziende e di rami di aziende;
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti di alienazione e di locazione di beni immobili e di costituzione di diritti reali sui medesimi, gli atti di alienazione di beni mobili in blocco, di costituzione di pegno e le transazioni, se di valore indeterminato o superiore a lire quattrocento milioni.
+
 ## Art. 43. — (( (Revoca e sostituzione del commissario straordinario e dei coadiutori) ))
 
 
@@ -500,6 +641,52 @@ Il comitato ed ogni suo membro possono in qualunque momento ispezionare le scrit
 
 ## Art. 47. — Compenso dei commissari e dei membri del comitato di sorveglianza).
 
+1.
+                        
+                            
+                                L'ammontare del compenso spettante al commissario giudiziale, al commissario straordinario ed ai membri del comitato di sorveglianza ed i relativi criteri di liquidazione sono determinati con decreto non regolamentare del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, da adottarsi tenuto conto, per quanto applicabili e con gli adattamenti resi necessari dalla specificita' della procedura, delle disposizioni di cui al decreto ministeriale 25 gennaio 2012, n. 30, recante "Regolamento concernente l'adeguamento dei compensi spettanti ai curatori fallimentari e la determinazione dei compensi nelle procedure di concordato preventivo" nonche' dei seguenti ulteriori criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determinazione del compenso del commissario giudiziale in misura fissa, tra un importo minimo e un importo massimo definiti in relazione a parametri dimensionali dell'impresa, tenuto anche conto dell'eventuale affidamento della gestione dell'esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolazione del compenso del commissario straordinario in: un compenso remunerativo dell'attivita' gestionale, parametrato al fatturato dell'impresa ((, solo ove la gestione commissariale nell'esercizio d'impresa sia caratterizzata almeno dal pareggio tra ricavi e costi, con esclusione, quanto a questi ultimi, di quelli riferiti alle spese legali correlate alla rappresentanza in giudizio del commissario straordinario nell'ambito del contenzioso afferente agli interessi coinvolti nella procedura e agli adempimenti previsti dal presente decreto)); un compenso remunerativo dell'attivita' concorsuale, da liquidarsi in rapporto all'attivo realizzato al netto dei costi sostenuti per l'attivita' concorsuale e al passivo della procedura, secondo aliquote individuate in misura non superiore all'80% di quelle vigenti per la determinazione dei compensi dei curatori fallimentari e modulate sulla base di criteri predeterminati di apprezzamento della economicita', efficacia ed efficienza della procedura; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    corresponsione di acconti sul compenso spettante ai sensi della lettera b) nella sola fase di esercizio dell'impresa; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    subordinazione del 25 per cento del compenso complessivamente spettante ai sensi della lettera b) alla verifica da parte dell'Autorita' vigilante del conseguimento degli obiettivi di efficacia, efficienza ed economicita' ((e in particolare, per il 15 per cento di tale compenso, avendo riguardo alle seguenti attivita')): 1) adempimento, sotto il profilo della tempestivita' e completezza, della trasmissione delle relazioni e comunicazioni obbligatorie; 2) adeguato soddisfacimento del ceto creditorio anche con riferimento ai creditori chirografari; 3) adozione di iniziative volte al mantenimento dei livelli occupazionali; 4) restituzione dell'eventuale importo della garanzia di cui all'articolo 2-bis del decreto-legge 30 gennaio 1979, n. 26, convertito, con modificazioni, dalla legge 3 aprile 1979, n. 95; ((per il rimanente 10 per cento, avendo riguardo all'avvenuta chiusura dell'esercizio di impresa entro i due anni successivi all'ammissione dell'impresa all'amministrazione straordinaria ai sensi del presente decreto, ovvero entro i tre anni successivi per le imprese di cui al decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39)). 
+
+                                
+                            
+                            
+                                b-quater)
+                                
+                                    riduzione del 10 per cento del compenso, qualora la chiusura dell'esercizio di impresa avvenga dopo tre anni dall'apertura dell'amministrazione straordinaria per le imprese di cui al presente decreto, e dopo quattro anni per le imprese di cui al decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    determinazione del compenso dei membri esperti del Comitato di sorveglianza secondo importi minimi e massimi definiti in relazione al numero degli occupati, al fatturato e al numero delle imprese del gruppo assoggettate alla procedura.
+
 ## - CAPO III EFFETTI
 
 ## Art. 48. — Divieto di azioni esecutive individuali
@@ -524,6 +711,24 @@ Salvo quanto previsto dal comma 4, il commissario straordinario puo' sciogliersi
 Fino a quando la facolta' di scioglimento non e' esercitata, il contratto continua ad avere esecuzione. ((4))
 
 Dopo che e' stata autorizzata l'esecuzione del programma, l'altro contraente puo' intimare per iscritto al commissario straordinario di far conoscere le proprie determinazioni nel termine di trenta giorni dalla ricezione dell'intimazione, decorso il quale il contratto si intende sciolto.
+
+4.
+                        
+                            
+                                Le disposizioni del presente articolo non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai contratti di lavoro subordinato, in rapporto ai quali restano ferme le disposizioni vigenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se sottoposto ad amministrazione straordinaria e' il locatore, ai contratti di locazione di immobili, nei quali il commissario straordinario subentra, salvo patto contrario.
 
 --------------
                             AGGIORNAMENTO (4)
@@ -600,6 +805,45 @@ Se il programma prevede il ricorso alla garanzia del Tesoro dello Stato di cui a
  Il D.L. 13 maggio 2011, n. 70, convertito con modificazioni dalla L. 12 luglio 2011, n. 106, ha disposto (con l'art. 8, comma 3, lettera c)) che "Gli articoli 38, comma 2-bis, 50-bis e 55 del decreto legislativo 8 luglio 1999, n. 270, come modificato dalle precedenti lettere si applicano anche alle procedure di amministrazione straordinaria in corso di svolgimento alla data di entrata in vigore della presente disposizione".
 
 ## Art. 56. — Contenuto del programma
+
+1.
+                        
+                            
+                                Il programma deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' imprenditoriali destinate alla prosecuzione e quelle da dismettere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il piano per la eventuale liquidazione dei beni non funzionali all'esercizio dell'impresa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le previsioni economiche e finanziarie connesse alla prosecuzione dell'esercizio dell'impresa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i modi della copertura del fabbisogno finanziario, con specificazione dei finanziamenti o delle altre agevolazioni pubbliche di cui e' prevista l'utilizzazione. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    i costi generali e specifici complessivamente stimati per l'attuazione della procedura, con esclusione del compenso dei commissari e del comitato di sorveglianza.
 
 Se e' adottato l'indirizzo della cessione dei complessi aziendali, il programma deve altresi' indicare le modalita' della cessione, segnalando le offerte pervenute o acquisite, nonche' le previsioni in ordine alla soddisfazione dei creditori.
 
@@ -803,6 +1047,23 @@ Prima di presentare la richiesta di conversione, il commissario straordinario ne
 
 
 
+1.
+                        
+                            
+                                Il tribunale, su richiesta del commissario straordinario o d'ufficio, dispone la conversione della procedura di amministrazione straordinaria in fallimento:
+
+                            
+                            
+                                a)
+                                
+                                    quando, essendo stato autorizzato un programma di cessione dei complessi aziendali, tale cessione non sia ancora avvenuta, in tutto o in parte, alla scadenza del programma, salvo quanto previsto dall'articolo 66;
+                                
+                            
+                            
+                                b)
+                                
+                                    quando, essendo stato autorizzato un programma di ristrutturazione, l'imprenditore non abbia recuperato la capacita' di soddisfare regolarmente le proprie obbligazioni alla scadenza del programma.
+
 ## Art. 71. — Decreto di conversione
 
 
@@ -847,6 +1108,49 @@ La liquidazione degli eventuali beni residui acquisiti all'attivo e' effettuata 
 ## Art. 74. — Chiusura della procedura
 
 
+
+1.
+                        
+                            
+                                La procedura di amministrazione straordinaria si chiude: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se, nei termini previsti dalla sentenza dichiarativa dello stato di insolvenza, non sono' state proposte domande di ammissione al passivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se, anche prima del termine di scadenza del programma, l'imprenditore insolvente ha recuperato la capacita' di soddisfare regolarmente le proprie obbligazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con il passaggio in giudicato della sentenza che approva il concordato.
+
+2.
+                        
+                            
+                                Se e' stato autorizzato un programma di cessione dei complessi aziendali, la procedura di amministrazione straordinaria si chiude altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando, anche prima che sia compiuta la ripartizione finale dell'attivo, le ripartizioni ai creditori raggiungono l'intero ammontare dei crediti ammessi, o questi sono in altro modo estinti e sono pagati i compensi agli organi della procedura e le relative spese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando e' compiuta la ripartizione finale dell'attivo.
 
 ## Art. 74-bis. — Prosecuzione di giudizi e procedimenti esecutivi dopo la chiusura).
 
@@ -909,6 +1213,35 @@ Ai soci illimitatamente responsabili cui sono stati estesi gli effetti della dic
 
 Nel caso previsto dall'articolo 74, comma 2, lettera b), il tribunale, entro cinque anni dal decreto di chiusura, su istanza dell'imprenditore dichiarato insolvente o di qualunque creditore, puo' ordinare la riapertura della procedura di amministrazione straordinaria, convertendola in fallimento, quando risulta che nel patrimonio dell'imprenditore esistono attivita' in misura tale da rendere utile il provvedimento o quando l'imprenditore offre ga ranzia di pagare almeno il dieci per cento ai creditori vecchi e nuovi.
 
+2.
+                        
+                            
+                                Il tribunale, sentito l'imprenditore, se accoglie l'istanza, pronuncia sentenza in camera di consiglio non soggetta ad appello, con la quale:
+
+                            
+                            
+                                a)
+                                
+                                    richiama in ufficio il giudice delegato, o lo nomina di nuovo;
+                                
+                            
+                            
+                                b)
+                                
+                                    nomina il curatore;
+                                
+                            
+                            
+                                c)
+                                
+                                    impartisce l'ordine previsto dall'articolo 8, comma 1, lettera c);
+                                
+                            
+                            
+                                d)
+                                
+                                    stabilisce i termini previsti dall'articolo 8, comma 1, lettere d) ed e), abbreviandoli di non oltre la meta'.
+
 La sentenza e' comunicata e affissa a norma dell'articolo 8, comma 3.
 
 ## - SEZIONE III CONCORDATO
@@ -934,6 +1267,26 @@ Nell'amministrazione straordinaria di una societa' con soci a responsabilita' il
 ## Art. 80. — Definizioni
 
 
+
+1.
+                        
+                            
+                                Ai fini dell'applicazione delle disposizioni del presente capo si intendono:
+
+                            
+                            
+                                a)
+                                
+                                    per "procedura madre", la procedura di amministrazione straordinaria di una impresa che ha i requisiti previsti dagli articoli 2 e 27, facente parte di un gruppo;
+                                
+                            
+                            
+                                b)
+                                
+                                    per "imprese del gruppo":
+1) le imprese che controllano direttamente o indirettamente la societa' sottoposta alla procedura madre;
+2) le societa' direttamente o indirettamente controllate dall'impresa sottoposta alla procedura madre o dall'impresa che la controlla;
+3) le imprese che, per la composizione degli organi amministrativi o sulla base di altri concordanti elementi, risultano soggette ad una direzione comune a quella dell'impresa sottoposta alla procedura madre.
 
 Agli effetti del comma 1, lettera b), numeri 1) e 2), il rapporto di controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'articolo 2359, primo e secondo comma, del codice civile.
 
@@ -1003,6 +1356,29 @@ La conversione in fallimento e la chiusura della procedura madre a norma degli a
 
 
 
+1.
+                        
+                            
+                                Ai fini dell'applicazione delle disposizioni del presente capo si intendono:
+
+                            
+                            
+                                a)
+                                
+                                    per "impresa dichiarata insolvente", l'impresa dichiarata insolvente a norma dell'articolo 3, anche se successivamente ammessa alla procedura di all'amministrazione straordinaria o dichiarata fallita, nonche' l'impresa che, nel caso previsto dall'articolo 35, avrebbe dovuto essere dichiarata insolvente a norma del medesimo articolo 3;
+                                
+                            
+                            
+                                b)
+                                
+                                    per "imprese del gruppo", le imprese, anche non insolventi, che si trovano nei rapporti indicati dall'articolo 80, comma 1, lettera b), con l'impresa dichiarata insolvente;
+                                
+                            
+                            
+                                c)
+                                
+                                    per "societa' del gruppo", le imprese del gruppo costituite in forma societaria.
+
 ## Art. 89. — Denuncia al tribunale
 
 
@@ -1038,6 +1414,29 @@ Nell'ambito della procedura regolata dal presente decreto, il tribunale giudica 
 ## Art. 93. — Sospensione dei termini processuali
 
 
+
+1.
+                        
+                            
+                                La sospensione dei termini processuali, prevista dalla legge 7 ottobre 1969, n. 742, non si applica:
+
+                            
+                            
+                                a)
+                                
+                                    ai procedimenti per la dichiarazione dello stato di insolvenza e di opposizione alla medesima;
+                                
+                            
+                            
+                                b)
+                                
+                                    al procedimento per l'apertura della procedura di amministrazione straordinaria o la dichiarazione di fallimento dell'impresa insolvente, previsto dagli articoli 28, 29 e 30, ed al relativo procedimento di reclamo;
+                                
+                            
+                            
+                                c)
+                                
+                                    ai procedimenti di conversione dell'amministrazione straordinaria in fallimento e di conversione del fallimento in amministrazione straordinaria, nonche' ai relativi procedimenti di reclamo.
 
 ## Art. 94. — Affissione con mezzi informatici
 
@@ -1148,6 +1547,65 @@ La proposta del Ministero dell'industria, prevista dal comma 1, costituisce crit
 ## Art. 109. — Abrogazioni
 
 
+
+1.
+                        
+                            
+                                Sono abrogati:
+
+                            
+                            
+                                a)
+                                
+                                    il decreto-legge 30 giugno 1979, n. 26, convertito, con modificazioni, dalla legge 3 aprile 1979, n. 95, e successive modificazioni, fatta eccezione per l'articolo 2-bis;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 8, terzo comma, della legge 28 novembre 1980, n. 784;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 4 del decreto-legge 31 luglio 1981, n. 414, convertito, con modificazioni, dalla legge 2 ottobre 1981, n. 544;
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto-legge 28 aprile 1982, n. 185, convertito, con modificazioni, dalla legge 25 giugno 1982, n. 381;
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 2 del decreto-legge 9 aprile 1984, n. 62, convertito, con modificazioni, dalla legge 8 giugno 1984, n. 212;
+                                
+                            
+                            
+                                f)
+                                
+                                    gli articoli 2 e 3 del decreto-legge 9 dicembre 1986, n. 835, convertito, con modificazioni, dalla legge 6 febbraio 1987, n. 19;
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 6, comma 2, del decreto-legge 4 settembre 1987, n. 366, convertito, con modificazioni, dalla legge 3 novembre 1987, n. 452;
+                                
+                            
+                            
+                                h)
+                                
+                                    la legge 23 agosto 1988, n. 391;
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 19 del decreto-legge 31 dicembre 1996, n. 669, convertito, con modificazioni, dalla legge 28 febbraio 1997, n. 30.
 
 E abrogata ogni altra disposizione incompatibile con il presente decreto.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2026-01-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -30,13 +30,122 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro per la 
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per «Ministro» il Ministro della giustizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «Ministero» il Ministero della giustizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «decreto legislativo» il decreto legislativo 30 luglio 1999, n. 300; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per «amministrazione centrale» i dipartimenti, le direzioni generali e le altre articolazioni centrali previsti dal titolo II del presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per "uffici periferici dell'organizzazione giudiziaria" gli uffici periferici dell'organizzazione giudiziaria di cui all'articolo 6 del decreto legislativo 25 luglio 2006, n. 240;
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.P.C.M. 30 OTTOBRE 2020, N. 175)).
+
 ## Art. 2. — Dipartimenti del Ministero
+
+1.
+                        
+                            
+                                Per l'espletamento delle proprie funzioni il Ministero si articola nei seguenti uffici centrali di gestione amministrativa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Dipartimento per gli affari di giustizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Dipartimento dell'organizzazione giudiziaria, del personale e dei servizi; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    Dipartimento per l'innovazione tecnologica della giustizia;
+                                
+                            
+                            
+                                c)
+                                
+                                    Dipartimento dell'amministrazione penitenziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Dipartimento per la giustizia minorile e di comunita'.
 
 ## - Titolo II AMMINISTRAZIONE CENTRALE
 
 ## Art. 3. — Capo del dipartimento
 
 Ad ogni dipartimento e' preposto un Capo del dipartimento.
+
+2.
+                        
+                            
+                                Al Capo del dipartimento spettano i compiti e le funzioni specificamente previsti dall'articolo 5 del decreto legislativo e dal presente regolamento, nonche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le funzioni di proposta e parere al Ministro nelle materie di competenza del dipartimento; in materia di atti normativi, anche internazionali, tali funzioni sono esercitate in coordinamento con l'attivita' dell'Ufficio legislativo del Ministero e con ((l'Ufficio di Gabinetto)) e a supporto dei medesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le funzioni di determinazione dei programmi attuativi degli indirizzi del Ministro; indirizzo, coordinamento e controllo degli uffici di livello dirigenziale generale del dipartimento; adozione di circolari nelle materie di competenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la contrattazione collettiva.
 
 Per l'espletamento dei compiti e delle funzioni di cui al comma 2, il Capo del dipartimento si avvale dell'Ufficio del Capo del dipartimento, nell'ambito del quale vengono altresi' svolte, in raccordo con l'Ufficio di Gabinetto e con il Responsabile della prevenzione della corruzione e della trasparenza, la progettazione e il controllo di gestione di cui all'articolo 4 del decreto legislativo 30 luglio 1999, n. 286 e all'articolo 6 del decreto legislativo 27 ottobre 2009, n. 150 nonche' le attivita' generali necessarie per l'attuazione del Piano triennale di Prevenzione della Corruzione di cui all'articolo 1, comma 5, della legge 6 novembre 2012, n. 190 e per gli adempimenti connessi alla trasparenza della pubblica amministrazione di cui al decreto legislativo 14 marzo 2013, n. 33. L'Ufficio del Capo del dipartimento svolge, altresi', attivita' di studio e ricerca con particolare riferimento ai profili della organizzazione e della innovazione nelle materie di competenza, fornisce consulenza agli uffici del dipartimento e a quelli periferici e, in coerenza con gli indirizzi dell'Ufficio per il coordinamento degli affari internazionali, assicura il coordinamento dell'attivita' internazionale svolta dal dipartimento e dalle singole direzioni generali. ((2))
 
@@ -66,19 +175,205 @@ Per l'espletamento delle funzioni del Dipartimento per gli affari di giustizia s
  b) Direzione generale degli affari internazionali e della cooperazione giudiziaria: relazioni internazionali in materia civile e in particolare studio preparatorio ed elaborazione di convenzioni, trattati, accordi e altri strumenti internazionali, con il coordinamento del Capo del Dipartimento e in collaborazione con l'Ufficio di Gabinetto e l'Ufficio legislativo e a supporto dei medesimi; adempimenti relativi alla esecuzione delle convenzioni di collaborazione giudiziaria internazionale; rete giudiziaria europea in materia civile e commerciale; notificazioni e rogatorie civili da e per l'estero; riconoscimento ed esecuzione di sentenze straniere e altri atti formati all'estero in materia civile; attivita' di cooperazione internazionale attiva e passiva in materia penale; relazioni internazionali in materia penale e in particolare studio preparatorio, negoziazione ed elaborazione di convenzioni, trattati, accordi e altri strumenti internazionali e conseguente monitoraggio della legislazione penale nazionale con il coordinamento del Capo del Dipartimento e in collaborazione con l'Ufficio di Gabinetto e l'Ufficio legislativo e a supporto dei medesimi; rapporti con l'Unione europea, con l'Organizzazione delle nazioni unite e le altre istituzioni internazionali per la prevenzione e il controllo dei reati;)) 
  c) Direzione generale degli affari giuridici e legali: contenzioso nel quale e' interessato il Ministero, in raccordo con le direzioni generali, anche degli altri dipartimenti, competenti per le materie interessate; contenzioso relativo ai diritti umani e ricorsi individuali proposti contro lo Stato avanti la Corte europea dei diritti dell'uomo; esecuzione delle sentenze nelle materie di competenza del dipartimento. Restano ferme, in materia di contenzioso, le competenze di cui agli articoli 5, comma 2, lettera d), e 6, comma 3, nonche' quelle previste dall'articolo 5, comma 3, lettera a-bis), della legge 23 agosto 1988, n. 400.
 
+3.
+                        
+                            
+                                Il Capo del dipartimento svolge altresi' le seguenti funzioni inerenti a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    direzione della Biblioteca centrale giuridica e della Biblioteca del Ministero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pubblicazione delle leggi e degli altri provvedimenti normativi e non normativi nella Gazzetta Ufficiale della Repubblica italiana e inserzione nella Raccolta ufficiale degli atti normativi della Repubblica; pubblicazione degli atti nel Bollettino ufficiale del Ministero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigilanza sull'amministrazione degli archivi notarili di cui alla legge 17 maggio 1952, n. 629; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adempimenti di competenza governativa conseguenti alle pronunce della Corte europea dei diritti dell'uomo emanate nei confronti dello Stato italiano; adeguamento del diritto interno alle previsioni degli strumenti internazionali in materia di diritti umani; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    traduzione di leggi e atti stranieri.
+
 Nell'ambito del dipartimento opera, sotto la vigilanza e il controllo del Capo del dipartimento, l'Ufficio centrale degli archivi notarili per lo svolgimento delle funzioni e compiti previsti dalla legge 17 maggio 1952, n. 629. L'Ufficio centrale e' altresi' competente per i provvedimenti disciplinari piu' gravi della sospensione dal servizio con privazione della retribuzione per piu' di dieci giorni.
 
 ## Art. 5. — Dipartimento dell'organizzazione giudiziaria, del personale e dei servizi
 
 Il Dipartimento dell'organizzazione giudiziaria, del personale e dei servizi esercita le funzioni e i compiti inerenti le aree funzionali individuate dall'articolo 16, comma 3, lettera b), del decreto legislativo.
 
+2.
+                        
+                            
+                                Per l'espletamento delle funzioni del Dipartimento dell'organizzazione giudiziaria, del personale e dei servizi sono istituiti i seguenti uffici dirigenziali generali, con le competenze per ciascuno di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione generale del personale e della formazione: ruolo e matricola del personale dirigenziale e non dirigenziale; reclutamento, nomina e prima assegnazione del personale dirigenziale e non dirigenziale dell'amministrazione centrale e degli uffici giudiziari nazionali; reclutamento, nomina e prima assegnazione del personale dirigenziale e non dirigenziale dell'amministrazione periferica e degli uffici giudiziari diversi da quelli nazionali nei casi previsti dall'articolo 35, comma 5, secondo periodo, del decreto legislativo 30 marzo 2001, n. 165; reclutamento per mobilita'; piano delle assunzioni obbligatorie ai sensi della legge 12 marzo 1999, n. 68; gestione del personale dell'amministrazione centrale e degli uffici giudiziari nazionali; trasferimento del personale amministrativo da e per altre amministrazioni; comandi verso altre amministrazioni e collocamenti fuori ruolo; provvedimenti disciplinari piu' gravi della sospensione dal servizio con privazione della retribuzione per piu' di dieci giorni; formazione professionale dei dirigenti; formazione e riqualificazione professionale del personale dell'amministrazione centrale e degli uffici giudiziari nazionali; relazioni sindacali; provvedimenti in materia pensionistica, ferme le competenze della Direzione generale dei magistrati; Cassa di previdenza degli ufficiali giudiziari. Restano ferme le competenze del Dipartimento dell'amministrazione penitenziaria e quelle del Dipartimento per la giustizia minorile e di comunita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione generale delle risorse materiali e delle tecnologie: determinazione del fabbisogno di beni e servizi dell'amministrazione centrale e degli uffici giudiziari nazionali; attivita' connesse all'onere delle spese per la gestione degli uffici giudiziari a norma dell'articolo 1, secondo comma, della legge 24 aprile 1941, n. 352; stipula degli accordi e delle convenzioni quadro di cui all'articolo 5, comma 2, del decreto del Presidente della Repubblica 18 agosto 2015, n. 133; elaborazione degli indirizzi e delle linee di pianificazione strategica e adozione delle misure organizzative di cui all'articolo 6 del predetto decreto del Presidente della Repubblica n. 133 del 2015; elaborazione dei programmi, degli indirizzi e delle direttive da impartire agli uffici periferici dell'organizzazione giudiziaria in materia di organizzazione e funzionamento dei servizi relativi alla giustizia di cui alla presente lettera; acquisti, per importi pari o superiori alle soglie di cui all'articolo 35 del decreto legislativo 18 aprile 2016, n. 50, di beni e servizi omogenei ovvero comuni a piu' distretti di corte di appello; acquisizione di veicoli; acquisizione, progettazione e gestione dei beni mobili, immobili e dei servizi dell'amministrazione centrale e degli uffici giudiziari nazionali; emissione del parere previsto dall'articolo 19 della legge 30 marzo 1981, n. 119; predisposizione degli elementi necessari alla determinazione delle priorita' di intervento ai sensi dell'articolo 50 della legge 23 dicembre 1998, n. 448; espletamento dei compiti e delle funzioni di cui al decreto del Presidente della Repubblica 4 settembre 2002, n. 254; servizio di documentazione degli atti processuali a norma dell'articolo 51 del decreto legislativo 28 luglio 1989, n. 271; predisposizione e attuazione dei programmi per l'acquisto, la costruzione, la permuta, la vendita, la ristrutturazione di beni immobili; competenze residue del Ministero in materia di predisposizione e attuazione degli atti in materia di procedimenti relativi alla concessione ai comuni di contributi per le spese di gestione degli uffici giudiziari. La Direzione generale ((, salvo quanto previsto dall'articolo 6, comma 2, lettera a-bis),)) esercita altresi' una competenza generale in materia di procedure contrattuali del Ministero e a tal fine si avvale dell'attivita' istruttoria svolta dalle direzioni generali interessate all'esecuzione dei contratti; sono comprese le procedure di formazione dei contratti riguardanti l'acquisizione di beni e servizi di telecomunicazione e fonia in coerenza con le misure di coordinamento strategico e di indirizzo dello sviluppo dei sistemi di telecomunicazione e fonia adottate a norma dell'articolo 17 del decreto legislativo 7 marzo 2005, n. 82. I raccordi con le competenze in materia di risorse e tecnologie degli altri dipartimenti sono definiti con i decreti di cui all'articolo 16, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Direzione generale del bilancio e della contabilita': adempimenti connessi alla formazione del bilancio di previsione, al disegno di legge di assestamento del bilancio dello Stato e al conto consuntivo; predisposizione del budget economico per centri di costo e rilevazione dei costi; variazioni di bilancio; predisposizione del conto annuale; erogazione del trattamento economico fondamentale e accessorio al personale dell'amministrazione centrale; erogazione del trattamento economico fondamentale al personale degli Uffici giudiziari centrali; gestione dei fondi relativi al trattamento economico accessorio; rimborso degli oneri relativi al trattamento economico fondamentale del personale comandato da altre amministrazioni ed enti; servizio dei buoni pasto spettanti ai dipendenti dell'amministrazione giudiziaria; liquidazione di interessi e rivalutazione sulle somme spettanti al personale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Direzione generale dei magistrati: attivita' preparatorie e preliminari relative all'esercizio dell'azione disciplinare e altre attivita' di supporto nelle materie di competenza del Ministro in ordine ai magistrati professionali e onorari, salve le competenze dell'Ispettorato generale del Ministero, e conseguenti rapporti con il Consiglio superiore della magistratura; gestione del personale di magistratura ordinaria e onoraria; tabelle di composizione degli uffici giudiziari; gestione dei concorsi per l'ammissione in magistratura; provvedimenti in materia pensionistica relativi al personale di magistratura; contenzioso relativo al personale di magistratura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.C.M. 22 APRILE 2022, N. 54)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.C.M. 22 APRILE 2022, N. 54)).
+
+3.
+                        
+                            
+                                Il Capo del dipartimento svolge altresi' le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilevazione dei fabbisogni e programmazione degli interventi su circoscrizioni giudiziarie, dotazioni, piante organiche di personale da destinare alle varie strutture e articolazioni dell'amministrazione giudiziaria, nel quadro delle dotazioni organiche esistenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione dell'Ufficio relazioni con il pubblico, ai sensi degli articoli 1, comma 4, lettere b) e c), e 8, della legge 7 giugno 2000, n. 150.
+
 ## Art. 5-bis. — (Dipartimento per l'innovazione tecnologica della giustizia)
 
 Il Dipartimento per l'innovazione tecnologica della giustizia esercita le funzioni e i compiti inerenti alle aree funzionali individuate dall'articolo 16, comma 3, lettera d-bis), del decreto legislativo. Il Dipartimento garantisce l'attuazione delle linee strategiche per la riorganizzazione e la digitalizzazione della giustizia. Il capo del Dipartimento assume le funzioni di responsabile della transizione digitale ai sensi dell'articolo 17 del decreto legislativo 7 marzo 2005, n. 82. Le suddette funzioni possono essere delegate a un direttore generale dotato di adeguate competenze tecnologiche, di informatica giuridica e manageriali.
 
+2.
+                        
+                            
+                                Per l'espletamento delle funzioni del Dipartimento per l'innovazione tecnologica della giustizia sono istituiti i seguenti uffici dirigenziali generali, con le competenze per ciascuno di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione generale per i servizi applicativi: attuazione degli obiettivi strategici definiti dal Dipartimento attinenti alla digitalizzazione dei sistemi e dei procedimenti, amministrativi e giudiziari, dell'amministrazione della giustizia; determinazione del fabbisogno di servizi applicativi per tutte le articolazioni del Ministero; programmazione, progettazione, sviluppo, gestione, accesso e disponibilita' degli applicativi di tutte le articolazioni del Ministero; acquisizione di beni e servizi informatici riguardanti le componenti applicative per la digitalizzazione dei sistemi e dei procedimenti dell'amministrazione della giustizia; pareri di congruita' tecnico-economica sugli acquisti in materia di sistemi e servizi applicativi per i quali non e' richiesto il parere obbligatorio dell'Agenzia per l'Italia digitale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione generale per le infrastrutture digitali e l'assistenza all'utenza: attuazione degli obiettivi strategici definiti dal Dipartimento attinenti all'evoluzione tecnologica delle infrastrutture digitali; progettazione, sviluppo, gestione e monitoraggio dei sistemi informatici, telematici, di telecomunicazione e fonia di tutte le articolazioni del Ministero; interconnessione con i sistemi informatici, telematici, di telecomunicazione e fonia delle altre amministrazioni; definizione di servizi innovativi e attuazione di un efficace piano di sicurezza informatica dell'amministrazione della giustizia; individuazione delle esigenze informatiche degli uffici dell'amministrazione centrale e degli uffici giudiziari nazionali; gestione del servizio di assistenza sistemistica e dei servizi rivolti all'utenza; acquisizione dei beni strumentali informatici degli uffici dell'amministrazione centrale e degli uffici giudiziari e dei connessi lavori di impiantistica riguardanti l'infrastruttura relativa alle tecnologie dell'informazione e della comunicazione della giustizia; pareri di congruita' tecnico-economica sugli acquisti in materia di sistemi infrastrutturali per i quali non e' richiesto il parere obbligatorio dell'Agenzia per l'Italia digitale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((Direzione generale di statistica e analisi organizzativa)): compiti previsti dal decreto legislativo 6 settembre 1989, n. 322, quale ufficio del Sistema statistico nazionale, assicurando a livello centrale, per i rapporti con l'ISTAT, il coordinamento con le strutture del Ministero; produzione e diffusione della statistica ufficiale in tutte le materie connesse alle funzioni di tutte le articolazioni del Ministero e degli uffici giudiziari, operando come punto di raccolta e gestore unico del dato; valutazione delle esigenze e dei metodi statistici; rapporti con organismi nazionali ed internazionali con riguardo alle tematiche di settore; responsabile dei processi di produzione statistica dell'amministrazione della giustizia, ivi compresa la definizione, progettazione, realizzazione e gestione dei sistemi e delle procedure di raccolta dei dati finalizzati alla alimentazione delle banche dati ufficiali ministeriali; progettazione, realizzazione e gestione dei sistemi di supporto statistico a tutte le articolazioni del Ministero e agli uffici giudiziari; elaborazione statistica dei dati, attivita' di studio e analisi per il necessario supporto ai processi decisionali in ambito normativo e organizzativo e per le esigenze del PNRR; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Direzione generale per il coordinamento delle politiche di coesione: funzioni di coordinamento delle attivita' della politica regionale e nazionale finanziata o cofinanziata dall'Unione europea inerenti al perseguimento degli obiettivi e dei compiti istituzionali del Ministero della giustizia, a supporto delle articolazioni ministeriali interessate; coordinamento, gestione, monitoraggio, rendicontazione, nell'ambito di tali funzioni, dei programmi e degli interventi; coordinamento e gestione delle attivita' inerenti alla materia degli aiuti di Stato.
+
 ## Art. 6. — Dipartimento dell'amministrazione penitenziaria
 
 Il Dipartimento dell'amministrazione penitenziaria esercita le funzioni e i compiti inerenti le aree funzionali individuate dall'articolo 16, comma 3, lettera c), del decreto legislativo.
+
+2.
+                        
+                            
+                                Per l'espletamento delle funzioni del Dipartimento dell'amministrazione penitenziaria, oltre ai provveditorati regionali dell'Amministrazione penitenziaria di cui alla legge 15 dicembre 1990, n. 395, sono istituiti i seguenti uffici dirigenziali di livello generale, con le competenze per ciascuno di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione generale del personale: attuazione delle politiche delle risorse umane; assunzione e gestione del personale della carriera dirigenziale penitenziaria e del personale del comparto funzioni centrali, anche di qualifica dirigenziale; assunzione e gestione del personale dirigenziale e non dirigenziale del Corpo di polizia penitenziaria; trattamento giuridico, economico, previdenziale e di quiescenza; relazioni sindacali; procedimenti disciplinari ((...)); 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    Direzione generale per la gestione dei beni, dei servizi e degli interventi in materia di edilizia penitenziaria: gestione dei beni demaniali e patrimoniali, dei beni immobili e dei relativi beni mobili e strumentali; rilevazione ed analisi dei fabbisogni di beni e servizi e degli interventi in materia di edilizia penitenziaria e residenziale di servizio; predisposizione dei relativi atti di programmazione e di indirizzo; progettazione in materia di edilizia penitenziaria e residenziale di servizio; progettazione tecnica per l'acquisizione di beni e servizi la cui gestione sia ad essa attribuita; attivita' di analisi, studio e ricerca per l'innovazione nelle materie di competenza; procedure per l'affidamento di lavori e l'acquisizione di beni e servizi per le esigenze del Dipartimento dell'amministrazione penitenziaria; espletamento dei compiti e delle funzioni di cui al decreto del Presidente della Repubblica 4 settembre 2002, n. 254; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione generale dei detenuti e del trattamento: assegnazione e trasferimento dei detenuti e degli internati all'esterno dei provveditorati regionali; gestione dei detenuti sottoposti ai regimi speciali; servizio sanitario; ((attivita' trattamentali e rieducative dei detenuti e degli internati; promozione e coordinamento sul territorio nazionale del lavoro penitenziario; analisi strategica dei dati relativi alla popolazione detenuta)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Direzione generale della formazione: formazione, aggiornamento e specializzazione del personale appartenente ai quadri direttivi dell'amministrazione penitenziaria secondo le attribuzioni previste dal decreto legislativo 30 ottobre 1992, n. 446 per l'Istituto superiore di studi penitenziari; formazione e aggiornamento professionale del personale amministrativo, di polizia penitenziaria e dei servizi sociali; organizzazione delle strutture della Direzione generale, al fine di svolgere, per aree di competenza omogenee, funzioni di raccordo tra il Dipartimento dell'amministrazione penitenziaria e il Dipartimento per la giustizia minorile e di comunita'; attivita' di studio, raccolta, analisi, elaborazione anche statistica dei dati inerenti materie connesse alle funzioni dell'attivita' penitenziaria e della giustizia di comunita', in raccordo con il Dipartimento per la giustizia minorile e di comunita', per il necessario supporto delle scelte gestionali; relazioni internazionali concernenti la materia penitenziaria e la giustizia di comunita', in raccordo con l'Ufficio legislativo e con l'Ufficio per il coordinamento dell'attivita' internazionale; comunicazioni istituzionali e attivita' informativa, anche telematica, nelle materie di competenza in raccordo con l'ufficio stampa; (2) ((9))
+                                    
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((Direzione generale delle specialita' del Corpo di polizia penitenziaria: attivita' di indirizzo, coordinamento e pianificazione strategica dei servizi di specialita' e di specializzazione della Polizia penitenziaria; attivita' di analisi, studio e progettazione nelle materie di competenza; coordinamento delle attivita' del Gruppo operativo mobile, dell'Ufficio per la sicurezza personale e la vigilanza, del Nucleo investigativo centrale, del Gruppo d'intervento operativo, del Laboratorio centrale banca dati nazionale del DNA e degli altri reparti speciali del Corpo; coordinamento del servizio delle traduzioni e dei piantonamenti sul territorio nazionale, della Centrale operativa nazionale, del servizio navale e del servizio di polizia stradale;))
+                                    
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    
+                                        ((Direzione generale dei servizi logistici e tecnici del Corpo di polizia penitenziaria: gestione dei servizi logistici e dei beni mobili e strumentali serventi l'esercizio dei compiti istituzionali del Corpo, in raccordo con il Capo del Dipartimento e con le altre direzioni generali per le materie di rispettiva competenza; gestione delle relative risorse finanziarie; monitoraggio e analisi dei beni strumentali e delle nuove tecnologie esistenti sul mercato; atti di programmazione e di indirizzo nelle materie di competenza; approvvigionamento di mezzi, beni, materiali, attrezzature, infrastrutture, servizi e attivita' di supporto al Corpo; attivita' di studio, ricerca, analisi, progettazione tecnica e sperimentazione nelle materie di competenza.))
 
 Il Capo del dipartimento svolge altresi' le seguenti funzioni: compiti inerenti l'attivita' ispettiva nelle materie di competenza; contenzioso relativo alle materia di competenza delle direzioni generali di cui al comma 2 ((...))
                                 ((; relazioni internazionali concernenti la materia penitenziaria, in raccordo con l'Ufficio legislativo e con l'Ufficio di Gabinetto; comunicazioni istituzionali e attivita' informativa, anche telematica, nelle materie di competenza in raccordo con l'Ufficio comunicazione e stampa; informatica penitenziaria in raccordo con le competenti direzioni generali del Dipartimento per l'innovazione tecnologica della giustizia)).
@@ -97,6 +392,31 @@ Il Capo del dipartimento svolge altresi' le seguenti funzioni: compiti inerenti 
 ((
 
 Il Dipartimento per la giustizia minorile e di comunita' esercita le funzioni e i compiti inerenti alle aree funzionali di cui all'articolo 16, comma 3, lettera d), del decreto legislativo.
+
+2.
+                        
+                            
+                                Per l'espletamento delle funzioni di cui al comma 1 sono istituiti i seguenti uffici dirigenziali generali con le competenze di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione generale del personale e delle risorse: assunzione e gestione del personale dirigenziale e non dirigenziale; relazioni sindacali; procedimenti disciplinari; rilevazione ed analisi dei fabbisogni di beni e servizi e degli interventi in materia di edilizia, predisposizione dei relativi atti di programmazione e progettazione; affidamento di lavori e acquisizione di beni e servizi e gestione dei relativi contratti; gestione dei beni demaniali e patrimoniali, dei beni immobili e dei relativi beni mobili e strumentali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione generale per la giustizia minorile e riparativa: esecuzione dei provvedimenti penali dell'autorita' giudiziaria minorile; emanazione delle direttive tecniche per l'intervento dei servizi minorili; verifica e valutazione della loro attuazione; relazioni con la magistratura minorile, con gli enti locali e gli altri enti pubblici, con gli enti privati, le organizzazioni del volontariato, del lavoro e delle imprese, finalizzati all'attivita' socio-educativa; attivita' di prevenzione della devianza; segretariato della Conferenza nazionale e delle Conferenze locali per la giustizia riparativa, nonche' istruttoria per la nomina degli esperti di cui all'articolo 61, commi 2 e 5, del decreto legislativo 10 ottobre 2022, n. 150; istruttoria per la definizione dei livelli essenziali delle prestazioni; coordinamento e monitoraggio dei servizi per la giustizia riparativa e relativi rapporti con l'autorita' giudiziaria; vigilanza di cui all'articolo 66 del decreto legislativo n. 150 del 2022; tenuta dell'elenco di cui all'articolo 60, programmazione delle risorse e trasferimenti finanziari agli enti locali di cui all'articolo 67, comma 1, del medesimo decreto legislativo; attivita' di studio e ricerca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Direzione generale per la giustizia di comunita': analisi, elaborazione ed emanazione delle direttive tecniche per l'intervento degli uffici di esecuzione penale esterna ai sensi dell'articolo 72 della legge 25 luglio 1975, n. 354; ricognizione e valutazione della loro attuazione; relazioni con la magistratura di cognizione e di sorveglianza; attivita' di studio e ricerca; elaborazione e stipula di accordi e convenzioni con enti pubblici e privati per l'esecuzione delle pene sostitutive e della messa alla prova.
 
 3. Il Capo del Dipartimento esercita l'attivita' ispettiva e tiene i rapporti con le autorita' giudiziarie italiane ed estere.))
 
@@ -120,6 +440,52 @@ Costituiscono organi periferici di livello dirigenziale non generale del Ministe
 ## Art. 9. — (( (Funzioni degli uffici periferici dell'organizzazione giudiziaria). ))
 
 ((
+
+1.
+                        
+                            
+                                Sulla base di programmi, indirizzi e direttive impartite dalla direzione generale delle risorse materiali e delle tecnologie, ferma la facolta' di delega di cui all'articolo 6, comma 3, del decreto del Presidente della Repubblica 18 agosto 2015, n. 133, gli uffici periferici dell'organizzazione giudiziaria esercitano le seguenti attribuzioni nell'ambito territoriale di competenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi comparativa dei costi relativi alle diverse tipologie di beni e servizi per il fabbisogno degli uffici giudiziari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquisti di beni e servizi per il fabbisogno degli uffici giudiziari e gestione delle risorse materiali, dei beni e servizi dei medesimi uffici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' connesse all'onere delle spese per la gestione degli uffici giudiziari a norma dell'articolo 1, secondo comma, della legge 24 aprile 1941, n. 392; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    supporto e ausilio all'attivita' delle conferenze permanenti di cui all'articolo 3 del decreto del Presidente della Repubblica 18 agosto 2015, n. 133, nella determinazione del fabbisogno di beni e servizi degli uffici giudiziari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    predisposizione e attuazione dei programmi per l'acquisto, la costruzione, la permuta, la vendita, la ristrutturazione di beni immobili adibiti ad uffici giudiziari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' di raccordo con il Ministero delle infrastrutture e dei trasporti e con l'Agenzia del demanio per la realizzazione di interventi in materia di edilizia giudiziaria.
 
 ))
 

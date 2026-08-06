@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2008-02-25;74
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -54,6 +54,27 @@ In presenza di lavoratori utilizzati nell'esecuzione di piu' appalti, l'impresa 
 
 ## Art. 4. — Documentazione attestante l'avvenuto versamento
  dei contributi previdenziali ed assicurativi
+
+1.
+                    
+                        
+                            L'impresa subappaltatrice attesta l'avvenuto versamento dei contributi previdenziali e assicurativi in relazione ai soggetti impiegati nell'esecuzione dell'opera o nella prestazione della fornitura o del servizio, mediante il rilascio all'impresa appaltatrice della seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                prospetto analitico redatto in forma libera contenente:
+ 1) nominativo dei lavoratori impegnati nel subappalto;
+ 2) ammontare delle retribuzioni corrisposte a ciascun lavoratore;
+ 3) indicazione dell'aliquota contributiva applicata e relativi importi contributivi versati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Documento Unico di Regolarita' Contributiva (DURC) rilasciato dagli Istituti previdenziali successivamente alla data di ultimazione dei lavori o della fase dei lavori cui si riferisce il pagamento unitamente ad una dichiarazione secondo cui i versamenti attestati dal DURC sono riferiti anche ai soggetti impiegati nell'esecuzione dell'opera o nella prestazione della fornitura o del servizio affidati rientranti nella comunicazione di cui all'articolo 1.
 
 L'attestazione dell'avvenuto versamento di cui al comma 1 da parte dell'impresa subappaltatrice, puo' essere rilasciata mediante una asseverazione dei soggetti di cui all'articolo 35, comma 1, del decreto legislativo 9 luglio 1997, n. 241, ovvero del professionista responsabile dei centri di assistenza fiscale di cui all'articolo 3, comma 3, lettera a) del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sulla base del modello di cui all'allegato 3 al presente decreto. L'asseverazione rilasciata ai sensi del presente comma e' alternativa al rilascio della documentazione di cui al comma 1.
 

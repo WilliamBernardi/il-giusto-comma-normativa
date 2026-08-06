@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-04-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -49,6 +49,91 @@ Ai giudici delle sezioni specializzate puo' essere assegnata, rispettivamente da
  Il D.L. 24 gennaio 2012, n. 1, convertito con modificazioni dalla L. 24 marzo 2012, n. 27, ha disposto (con l'art. 2, comma 6) che "Le disposizioni di cui al presente articolo si applicano ai giudizi instaurati dopo il centottantesimo giorno dalla data di entrata in vigore della legge di conversione del presente decreto".
 
 ## Art. 3. — (Competenza per materia delle sezioni specializzate).
+
+1.
+                    
+                        
+                            Le sezioni specializzate sono competenti in materia di: 
+ 
+                        
+                        
+                            a)
+                            
+                                controversie di cui all'articolo 134 del decreto legislativo 10 febbraio 2005, n. 30, e successive modificazioni , ad esclusione delle azioni di merito e cautelari per le quali l'Accordo su un tribunale unificato dei brevetti, fatto a Bruxelles il 19 febbraio 2013, pubblicato nella Gazzetta Ufficiale dell'Unione europea C 175 del 20 giugno 2013, prevede la competenza esclusiva del tribunale unificato dei brevetti, fatto salvo il regime transitorio di cui all'articolo 83 del medesimo Accordo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                controversie in materia di diritto d'autore e di diritti connessi al diritto d'autore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                controversie di cui all'articolo 33, comma 2, della legge 10 ottobre 1990, n. 287; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                controversie relative alla violazione della normativa antitrust dell'Unione europea. 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                controversie di cui al titolo VIII-bis del libro quarto del codice di procedura civile; (6) (7)(10) (9)
+
+2.
+                    
+                        
+                            Le sezioni specializzate sono altresi' competenti, relativamente alle societa' di cui al libro V, titolo V, capi V, VI e VII, e titolo VI, del codice civile, alle societa' di cui al regolamento (CE) n. 2157/2001 del Consiglio, dell'8 ottobre 2001, e di cui al regolamento (CE) n. 1435/2003 del Consiglio, del 22 luglio 2003, nonche' alle stabili organizzazioni nel territorio dello Stato delle societa' costituite all'estero, ovvero alle societa' che rispetto alle stesse esercitano o sono sottoposte a direzione e coordinamento, per le cause e i procedimenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                relativi a rapporti societari ivi compresi quelli concernenti l'accertamento, la costituzione, la modificazione o l'estinzione di un rapporto societario, le azioni di responsabilita' da chiunque promosse contro i componenti degli organi amministrativi o di controllo, il liquidatore, il direttore generale ovvero il dirigente preposto alla redazione dei documenti contabili societari, nonche' contro il soggetto incaricato della revisione contabile per i danni derivanti da propri inadempimenti o da fatti illeciti commessi nei confronti della societa' che ha conferito l'incarico e nei confronti dei terzi danneggiati, le opposizioni di cui agli articoli 2445, terzo comma, 2482, secondo comma, 2447-quater, secondo comma, 2487-ter, secondo comma, 2503, secondo comma, 2503-bis, primo comma, e 2506-ter del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                relativi al trasferimento delle partecipazioni sociali o ad ogni altro negozio avente ad oggetto le partecipazioni sociali o i diritti inerenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in materia di patti parasociali, anche diversi da quelli regolati dall'articolo 2341-bis del codice civile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                aventi ad oggetto azioni di responsabilita' promosse dai creditori delle societa' controllate contro le societa' che le controllano; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                relativi a rapporti di cui all'articolo 2359, primo comma, numero 3), all'articolo 2497-septies e all'articolo 2545-septies del codice civile; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                relativi a contratti pubblici di appalto di lavori, servizi o forniture di rilevanza comunitaria dei quali sia parte una delle societa' di cui al presente comma, ovvero quando una delle stesse partecipa al consorzio o al raggruppamento temporaneo cui i contratti siano stati affidati, ove comunque sussista la giurisdizione del giudice ordinario.
 
 Le sezioni specializzate sono altresi' competenti per le cause e i procedimenti che presentano ragioni di connessione con quelli di cui ai commi 1 e 2. (1)
 

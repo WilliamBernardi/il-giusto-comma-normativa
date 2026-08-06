@@ -8,8 +8,8 @@ codice_redazionale: 099G0420
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -124,6 +124,39 @@ L'Ente nazionale delle sementi elette confronta i risultati ottenuti dai campion
 L'Ente nazionale delle sementi elette destina alle prove comparative comunitarie campioni di sementi, controllati in conformita' all'esperimento di cui all'articolo 1, secondo una percentuale stabilita dai competenti organi comunitari nei relativi protocolli tecnici.
 
 ## Art. 4. — Revoca autorizzazione dei laboratori
+
+1.
+                    
+                        
+                            Il Ministero per le politiche agricole, sulla base di una specifica relazione redatta dall'Ente nazionale delle sementi elette sui risultati dei controlli di verifica effettuati, puo' revocare ai laboratori l'autorizzazione di cui all'articolo 3, comma 1, se si verifica una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                analisi effettuate da parte di analisti non in possesso dei requisiti previsti dall'articolo 3, comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                divergenze statisticamente significative, rilevate attraverso idonee metodologie stabilite dall'Ente nazionale delle sementi elette, nei risultati di analisi relativi a tutta la campagna di riferimento rispetto a quelli ufficiali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                negligenza nella tenuta dei locali adibiti a laboratorio o negligenza nella taratura delle apparecchiature a disposizione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                utilizzo di metodologie non conformi a quelle previste dall'articolo 18, comma 10, del decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065.
+ L'avvio del procedimento di revoca e' comunicato alla struttura interessata ai sensi dell'articolo 7 della legge 7 agosto 1990, n. 241, e secondo le modalita' previste dall'articolo 8 della medesima legge.
 
 ## Art. 5. — Tariffe di certificazione
 

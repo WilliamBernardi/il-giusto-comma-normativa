@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2014-08-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,31 @@ Sulla proposta del Ministro per gli affari europei e del Ministro della giustizi
 Il presente decreto reca la disciplina sanzionatoria per la violazione delle disposizioni di cui al regolamento (CE) n. 1005/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, sulle sostanze che riducono lo strato di ozono, e successive modificazioni, di seguito denominato 'regolamento'.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le definizioni di cui all'articolo 3 del regolamento. Si applicano inoltre le seguenti ulteriori definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                'impresa che gestisce apparecchiature di refrigerazione e condizionamento d'aria o pompe di calore, ovvero sistemi di protezione antincendio che contengono sostanze controllate': persona fisica o giuridica proprietaria dell'apparecchiatura o dell'impianto ovvero delegata dal proprietario ad assumere la responsabilita' dell'esercizio e della manutenzione dell'apparecchiatura o dell'impianto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                'contenitore': contenitore utilizzato per il trasporto o lo stoccaggio delle sostanze controllate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                'contenitori non riutilizzabili': rientrano in tale categoria i contenitori progettati per non essere riutilizzati o ricaricati.
 
 ## Art. 3. — Violazione degli obblighi derivanti dagli articoli 4, 5, 15 e 17 del regolamento in materia di produzione, immissione sul mercato, uso, importazione ed esportazione di sostanze controllate
 

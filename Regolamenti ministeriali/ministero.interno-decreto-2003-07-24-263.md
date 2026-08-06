@@ -8,8 +8,8 @@ codice_redazionale: 003G0287
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,59 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Data comunicazione al Presidente del Consiglio dei Ministri ai sensi del citato articolo 17 della legge 23 agosto 1988, n. 400, con nota n. 1001/M/20 del 7 maggio 2003;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai sensi del presente regolamento, si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per «legge n. 575 del 1965», la legge 31 maggio 1965, n. 575 e successive modificazioni e integrazioni, recante disposizioni contro la mafia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «decreto-legge n. 8 del 1991», il decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82 e successive modificazioni, nel testo integrato e modificato dalla legge 13 febbraio 2001, n. 45, recante modifica della disciplina della protezione e del trattamento sanzionatorio di coloro che collaborano con la giustizia nonche' disposizioni a favore delle persone che prestano testimonianza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «decreto-legge n. 350 del 2001», il decreto-legge 25 settembre 2001, n. 350, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 409 recante disposizioni urgenti in vista dell'introduzione dell'Euro in materia di tassazione dei redditi di natura finanziaria, di emersione di attivita' detenute all'estero, di cartolarizzazione e di altre operazioni finanziarie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per «decreto del Presidente della Repubblica n. 309 del 1990», il decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, con il quale e' stato approvato il testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per «decreto-legge n. 306 del 1992», il decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356 e successive modificazioni e integrazioni, recante modifiche urgenti al nuovo codice di procedura penale e provvedimenti di contrasto alla criminalita' mafiosa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per «legge 302 del 1990», la legge 20 ottobre 1990, n. 302, e successive modificazioni e integrazioni, recante norme a favore delle vittime del terrorismo e della criminalita' organizzata;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per «interessato», la persona cui si riferisce la condotta collaborativa oggetto dell'impegno previsto dall'articolo 12, comma 2, lettera e) del decreto-legge n. 8 del 1991.
 
 ## Art. 2. — Ambito applicativo; rinvio alla legge n. 575 del 1965
 

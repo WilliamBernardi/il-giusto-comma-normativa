@@ -8,8 +8,8 @@ codice_redazionale: 005G0204
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,24 @@ b) dell'invito ad inserire nell'articolo 7 la stessa disposizione contenuta nell
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                trasmissione «per via elettronica», la trasmissione effettuata mediante attrezzature elettroniche di trattamento (inclusa la compressione digitale) di dati e utilizzando fili, radio, mezzi ottici o altri mezzi elettromagnetici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                rete «CCN/CSI», la piattaforma comune basata sulla Rete comune di comunicazione (CCN) e sull'Interfaccia comune di sistema (CSI) sviluppate dalla Comunita' per assicurare le trasmissioni per via elettronica tra le autorita' competenti nel settore delle dogane e dell'imposizione.
+
 ## Art. 2. — Assistenza amministrativa con gli altri Stati membri
 
 Ai fini dell'attuazione dell'assistenza amministrativa disciplinata dal presente regolamento il Ministero dell'economia e delle finanze, Dipartimento per le politiche fiscali, si avvale dell'Agenzia delle dogane e dell'Agenzia delle entrate.
@@ -43,6 +61,24 @@ Qualora dette istanze pervengano al Ministero dell'economia e delle finanze, Dip
 
 Il Dipartimento per le politiche fiscali, Ufficio relazioni internazionali, del Ministero dell'economia e delle finanze cura i rapporti con la Commissione europea e provvede a comunicare annualmente il numero delle domande di informazioni, di notifica e di recupero inviate e ricevute nel corso dell'anno, l'importo dei crediti e l'ammontare di quelli recuperati. Il Dipartimento per le politiche fiscali favorisce, altresi', il reciproco coordinamento tra le strutture incaricate dello scambio diretto delle richieste di assistenza.
 
+7.
+                    
+                        
+                            A tal fine e' istituito presso il Dipartimento per le politiche fiscali, Ufficio relazioni internazionali, un Comitato di coordinamento, cui e' demandato il compito di assicurare:
+ 
+                        
+                        
+                            a)
+                            
+                                la diffusione e lo scambio delle informazioni nella specifica materia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esame delle questioni di carattere generale relative alla mutua assistenza disciplinate dal presente regolamento, ivi comprese le eventuali criticita' che dovessero emergere nella trasmissione delle comunicazioni per via elettronica, e l'individuazione delle possibili soluzioni.
+
 Il suddetto Comitato, presieduto da un dirigente dell'Ufficio Relazioni Internazionali, e' composto da rappresentanti designati, rispettivamente, dall'Agenzia delle dogane e dall'Agenzia delle entrate. Tranne in casi di particolare urgenza o necessita' ritenuti tali dal Presidente o segnalati dalle Agenzie fiscali, il Comitato si riunisce, di norma, una volta ogni due mesi. Il Presidente e' assistito da personale dell'Ufficio Relazioni Internazionali per le funzioni di segreteria.
 
 Con decreto del Capo del Dipartimento per le politiche fiscali del Ministero dell'economia e delle finanze sono stabiliti gli ulteriori criteri di composizione del Comitato, l'organizzazione interna ed il funzionamento del Comitato medesimo.
@@ -52,6 +88,31 @@ Con decreto del Capo del Dipartimento per le politiche fiscali del Ministero del
 La richiesta di informazioni di cui all'articolo 3 del decreto legislativo 9 aprile 2003, n. 69, e' presentata per iscritto secondo il modello contenuto nell'allegato I del presente decreto. Se non e' inviata per via elettronica, la domanda reca il timbro ufficiale dell'Autorita' richiedente ed e' firmata da un funzionario debitamente autorizzato a presentare tali richieste.
 
 Nella richiesta d'informazioni e' indicata ogni altra autorita' cui e' stata eventualmente inoltrata un'analoga richiesta.
+
+3.
+                    
+                        
+                            La richiesta di informazioni riguarda:
+ 
+                        
+                        
+                            a)
+                            
+                                il debitore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un'altra persona tenuta al pagamento del credito, secondo le norme vigenti nello Stato membro in cui ha sede l'Autorita' richiedente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un terzo che detenga beni appartenenti a una delle persone di cui alle lettere a) o b).
 
 ## Art. 4. — Assistenza per le richieste di informazioni di altri Stati membri
 
@@ -170,6 +231,24 @@ Una domanda di assistenza puo' essere presentata solo se l'importo complessivo d
 Quando le citate Agenzie decidano, conformemente a quanto previsto dall'articolo 8, comma 1, del decreto legislativo n. 69 del 2003, di respingere una richiesta di assistenza, esse comunicano per iscritto all'Autorita' richiedente le ragioni del rifiuto. Tale comunicazione deve essere fatta dalle Agenzie medesime entro tre mesi dalla data in cui e' stata accusata ricezione della domanda.
 
 ## Art. 13. — Trasmissione delle comunicazioni
+
+1.
+                    
+                        
+                            Tutte le informazioni comunicate per iscritto conformemente al presente decreto sono trasmesse, nei limiti del possibile, esclusivamente per via elettronica, fatta eccezione per:
+ 
+                        
+                        
+                            a)
+                            
+                                la domanda di notifica di cui all'articolo 4 del decreto legislativo 9 aprile 2003, n. 69, nonche' l'atto o la decisione di cui e' richiesta la notifica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le domande di recupero o di adozione di provvedimenti cautelari previste rispettivamente agli articoli 5 e 7 del decreto legislativo 9 aprile 2003, n. 69, nonche' il relativo titolo esecutivo.
 
 L'Agenzia delle dogane e l'Agenzia delle entrate che inseriscono le informazioni in banche dati elettroniche e comunicano per via elettronica, adottano tutte le misure necessarie affinche' tutte le informazioni comunicate in qualsiasi forma in applicazione del presente decreto siano trattate quali riservate. Dette informazioni sono coperte dal segreto professionale e godono della protezione accordata alle informazioni di analoga natura dal codice in materia di protezione dei dati personali di cui al decreto legislativo 30 giugno 2003, n. 196.
 

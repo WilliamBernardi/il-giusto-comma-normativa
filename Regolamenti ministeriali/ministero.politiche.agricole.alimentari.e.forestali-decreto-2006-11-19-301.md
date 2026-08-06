@@ -8,8 +8,8 @@ codice_redazionale: 006G0317
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -131,6 +131,80 @@ Al termine del tirocinio i funzionari coordinatori delle strutture presso le qua
 
 Il giudizio d'idoneita' per l'ammissione al secondo ciclo ed il giudizio di idoneita' al servizio nel Corpo forestale dello Stato sono espressi, sentito il comitato direttivo del corso di cui al successivo articolo 12, anche in relazione alle risultanze degli atti d'ufficio, da un dirigente del Corpo forestale dello Stato di qualifica non inferiore a dirigente superiore, nominato con decreto del Capo del Corpo medesimo.
 
+2.
+                    
+                        
+                            I giudizi di idoneita' devono essere motivati e sono espressi sulla base dei seguenti parametri ed in relazione agli esiti del tirocinio operativo e dei periodi di applicazione risultanti dalle note valutative ed informative di cui al precedente articolo 10:
+ 
+                        
+                        
+                            a)
+                            
+                                qualita' morali e di carattere: viene valutata la condivisione di principi e valori fondamentali quali la rettitudine, la lealta' e la correttezza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                doti di equilibrio: viene valutata la capacita' di controllare le reazioni emotive;
+
+                            
+                        
+                        
+                            c)
+                            
+                                senso del dovere: viene valutata l'applicazione nelle attivita' formative e l'attaccamento alle istituzioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                senso della disciplina: viene valutata l'osservanza delle norme regolamentari e delle direttive impartite dai superiori;
+
+                            
+                        
+                        
+                            e)
+                            
+                                senso di responsabilita': viene valutata l'attitudine ad assumere le responsabilita' inerenti al proprio ruolo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                spirito di iniziativa e capacita' organizzativa e di risoluzione: vengono valutate le capacita' di promuovere attivita' rispondenti alle esigenze, nonche' la capacita' di impiegare le risorse disponibili, analizzare i problemi e scegliere idonee soluzioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                adattabilita' al lavoro di gruppo: viene valutata la capacita' di rapportarsi positivamente con gli altri nell'espletamento delle attivita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                condotta: vengono valutati i comportamenti tenuti durante il corso, l'interesse dimostrato, nonche' la capacita' di instaurare un corretto e costruttivo rapporto con superiori e colleghi;
+
+                            
+                        
+                        
+                            i)
+                            
+                                rendimento negli studi: viene valutato il livello dei risultati conseguiti durante il corso; la valutazione tiene, altresi', conto dell'impegno e rendimento negli studi, dell'esito di esercitazioni, interrogazioni, questionari, tesine, lavori individuali e di gruppo e di ogni altra attivita' attinente al percorso formativo seguito dal frequentatore;
+
+                            
+                        
+                        
+                            j)
+                            
+                                qualita' fisiche: viene valutato il grado di efficienza fisica dimostrato durante il corso.
+
 I giudizi sono sintetizzati in una nota valutativa, con l'attribuzione di un punteggio da 0 a 3 per ogni singolo parametro.
 
 L'idoneita' e' conseguita con l'attribuzione di un punteggio complessivo non inferiore a 18/30; non e' conseguita se, anche in un solo parametro, viene riportato il punteggio di 0.
@@ -191,7 +265,64 @@ I frequentatori giudicati temporaneamente non idonei ai compiti d'istituto per m
 
 La graduatoria finale e' formata sulla base del punteggio complessivo attribuito a ciascun frequentatore, aumentato come previsto dal successivo comma 4.
 
+2.
+                    
+                        
+                            Il punteggio complessivo e' formato calcolando la media, in trentesimi:
+ 
+                        
+                        
+                            a)
+                            
+                                del voto riportato nel concorso per l'accesso al ruolo direttivo dei funzionari del Corpo forestale dello Stato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della media dei voti riportati negli esami e nelle altre prove stabiliti dal piano di studio sostenuti durante il primo ciclo del corso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                della media dei voti riportati negli esami e nelle altre prove stabiliti dal piano di studio sostenuti durante il secondo ciclo del corso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                del voto riportato nell'esame finale.
+
 Ai fini del calcolo di cui al comma 2 agli esami superati in sessione suppletiva cui il frequentatore sia stato ammesso per insufficiente profitto si intende attribuito il voto di 18/30.
+
+4.
+                    
+                        
+                            Il punteggio di cui al comma 2 e' aumentato, secondo la valutazione ottenuta nel giudizio di idoneita' al servizio nel Corpo forestale dello Stato conseguito alla fine del secondo ciclo, di:
+ 
+                        
+                        
+                            a)
+                            
+                                0,25 punti per la valutazione da 22 a 25/30;
+
+                            
+                        
+                        
+                            b)
+                            
+                                0,50 punti per la valutazione da 26 a 29/30;
+
+                            
+                        
+                        
+                            c)
+                            
+                                0,75 punti per la valutazione di 30/30.
 
 ## Art. 19. — Rapporti tra le Amministrazioni
 

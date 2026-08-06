@@ -8,8 +8,8 @@ codice_redazionale: 099G0489
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -37,6 +37,31 @@ Ai sensi dell'articolo 8, comma 5, lettera a), del decreto del Presidente della 
 
 ## Art. 3. — Categorie di documenti inaccessibili per motivi
  di riservatezza di terzi, persone e gruppi di imprese
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 24 della legge 7 agosto 1990, n. 241, nonche' dell'articolo 8, comma 5, lettera d), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare la riservatezza di terzi, persone, gruppi di imprese, garantendo, peraltro, ai medesimi la visione dei documenti relativi ai procedimenti amministrativi, la cui conoscenza sia necessaria per curare o difendere i loro interessi, sono sottratti all'accesso:
+ 
+                        
+                        
+                            a)
+                            
+                                gli studi, le ricerche e le consulenze conservate negli archivi dell'Amministrazione e svolte per conto di terzi, siano essi soggetti pubblici o privati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati di proprieta' di terzi forniti all'Amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i documenti relativi a gare per l'aggiudicazione di lavori e forniture di beni e servizi che possano pregiudicare la sfera di riservatezza dell'impresa in ordine ai propri interessi professionali, finanziari, industriali e commerciali. Per una adeguata tutela degli interessi richiamati, l'accesso e' consentito mediante estratto dei verbali di gara esclusivamente per le notizie riguardanti la stessa impresa richiedente. Per quanto attiene ai documenti concernenti l'elenco delle ditte invitate, le relative offerte economiche, l'indicazione della ditta aggiudicataria delle operazioni di gara, l'accesso ai documenti e' differito al momento della comunicazione dell'aggiudicazione, salvi i casi di pubblicita' per legge degli atti infraprocedimentali.
 
 Non e' ammesso l'accesso agli atti preparatori nel corso di formazione dei provvedimenti di cui all'articolo 13 della legge 7 agosto 1990, n. 241.
 

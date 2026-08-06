@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2015-09-25;176
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,52 @@ Il presente regolamento, in attuazione del decreto legislativo 30 giugno 2003, n
 
 ## Art. 2. — Aggiornamento dei tipi dei dati e 
  delle operazioni eseguibili
+
+1.
+                    
+                        
+                            Al decreto del Ministro dell'interno 21 giugno 2006, n. 244, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, il comma 1 e' sostituito dal seguente: "Le schede, di cui agli allegati contraddistinti dai numeri da 1 a 30, sono parte integrante del presente regolamento, ed identificano i tipi di dati sensibili e giudiziari per cui e' consentito il relativo trattamento, nonche' le operazioni eseguibili in riferimento alle specifiche finalita' di rilevante interesse pubblico perseguite nei singoli casi ed individuate nel decreto legislativo 30 giugno 2003, n. 196."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la scheda n. 1 allegata al decreto del Ministro dell'interno 21 giugno 2006, n. 244, e' sostituita dall'allegato A accluso al presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la scheda n. 9 allegata al decreto del Ministro dell'interno 21 giugno 2006, n. 244, e' sostituita dall'allegato B accluso al presente regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la scheda n. 11 allegata al decreto del Ministro dell'interno 21 giugno 2006, n. 244, e' sostituita dall'allegato C accluso al presente regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la scheda n. 12 allegata al decreto del Ministro dell'interno 21 giugno 2006, n. 244, e' sostituita dall'allegato D accluso al presente regolamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo l'allegato 28 sono inseriti gli allegati E ed F acclusi al presente regolamento, numerati da 29 a 30.
 
 ## Art. 3. — Clausola di invarianza finanziaria
 

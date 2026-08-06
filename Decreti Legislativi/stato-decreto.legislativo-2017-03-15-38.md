@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-03-15;38
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,6 +36,31 @@ Il presente decreto attua nell'ordinamento interno le disposizioni della decisio
 La rubrica del titolo XI, del libro V, del codice civile, e' sostituita dalla seguente: «Disposizioni penali in materia di societa', di consorzi e di altri enti privati».
 
 ## Art. 3. — Modifiche all'articolo 2635 del codice civile
+
+1.
+                        
+                            
+                                All'articolo 2635 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente: «Salvo che il fatto costituisca piu' grave reato, gli amministratori, i direttori generali, i dirigenti preposti alla redazione dei documenti contabili societari, i sindaci e i liquidatori, di societa' o enti privati che, anche per interposta persona, sollecitano o ricevono, per se' o per altri, denaro o altra utilita' non dovuti, o ne accettano la promessa, per compiere o per omettere un atto in violazione degli obblighi inerenti al loro ufficio o degli obblighi di fedelta', sono puniti con la reclusione da uno a tre anni. Si applica la stessa pena se il fatto e' commesso da chi nell'ambito organizzativo della societa' o dell'ente privato esercita funzioni direttive diverse da quelle proprie dei soggetti di cui al precedente periodo.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il terzo comma e' sostituito dal seguente: «Chi, anche per interposta persona, offre, promette o da' denaro o altra utilita' non dovuti alle persone indicate nel primo e nel secondo comma, e' punito con le pene ivi previste.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al sesto comma le parole: «utilita' date o promesse» sono sostituite dalle seguenti: «utilita' date, promesse o offerte».
 
 ## Art. 4. — Articolo 2635-bis del codice civile
 

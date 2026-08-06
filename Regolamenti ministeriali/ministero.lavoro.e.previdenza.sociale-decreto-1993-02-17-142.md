@@ -8,8 +8,8 @@ codice_redazionale: 093G0201
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,24 @@ Ai fini della corresponsione anticipata dell'indennita' di cui all'art. 7, comma
 L'istanza di cui al comma 1 dovra' essere corredata dalla documentazione comprovante ogni elemento che attesti l'assunzione di iniziative finalizzate allo svolgimento dell'attivita' di lavoro autonomo o associato in cooperativa. Nei casi in cui per l'esercizio di tale attivita' sia richiesta specifica autorizzazione ovvero iscrizione in albi professionali o di categoria, l'istanza per la corresponsione anticipata dell'indennita' di mobilita' dovra' essere corredata da documentazione idonea ad attestare il rilascio dell'autorizzazione ovvero l'iscrizione negli albi stessi. Per quanto concerne l'attivita' di lavoro associato in cooperativa, dovra' essere documentata l'avvenuta iscrizione nel registro delle societa' presso il tribunale, compentente per territorio, nonche' nel registro prefettizio.
 
 ## Art. 2. — Adempimenti procedurali
+
+1.
+                    
+                        
+                            La sezione circoscrizionale per l'impiego, competente per territorio, provvede a svolgere gli adempimenti necessari ad accertare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'iscrizione del richiedente nelle liste di mobilita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'idoneita' della documentazione presentata dall'interessato, attestante la sussistenza delle condizioni di cui all'art. 1, comma 2, del presente decreto.
 
 Le domande sono trasmesse, con cadenza mensile, alla sede INPS competente per territorio, corredate da un parere in ordine alla regolarita' della documentazione presentata.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL decaduti
 vigenza_date: 2013-08-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:49Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE

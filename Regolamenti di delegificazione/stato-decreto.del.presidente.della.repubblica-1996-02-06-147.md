@@ -8,8 +8,8 @@ codice_redazionale: 096G0161
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -154,7 +154,43 @@ Le disposizioni contenute negli articoli precedenti si applicano anche ai casi i
 ## Art. 5. — Modalita' di erogazione per il 1995 del compenso previsto dall'art.
  61, comma 3, lettera d), del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43.
 
+1.
+                    
+                        
+                            Nell'anno 1995 il compenso di cui all'art. 61, comma 3, lettera d), del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43, viene erogato, alle scadenze previste dal comma 5 del citato art. 61, al concessionario del servizio di riscossione in carica al 1 febbraio 1995 secondo i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                entro il giorno 27 febbraio 1995 l'ammontare risultante dalla somma di un importo pari ad un dodicesimo del compenso spettante allo stesso titolo nell'anno 1994 in favore dei concessionari in carica nella stessa provincia fino al 31 gennaio 1995 e dell'ulteriore importo pari ad un quarto degli undici dodicesimi del compenso spettante, sempre allo stesso titolo, per l'anno 1995;
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro il giorno 27 dei mesi di giugno, settembre e novembre 1995, un importo pari, per ciascuna di dette date, ad un quarto degli undici dodicesimi del compenso spettante allo stesso.
+
 Gli importi pari ad un dodicesimo del compenso spettante per l'anno 1994 in favore dei cessati concessionari vengono a questi ultimi riversati dal concessionario in carica entro i cinque giorni successivi alla loro erogazione, qualora non fosse possibile per gli uffici finanziari provvedervi con i normali fondi di bilancio.
+
+3.
+                    
+                        
+                            Nei confronti dei titolari degli ambiti territoriali siti nelle province di cui all'art. 9 del decreto-legge 31 gennaio 1995, n. 26, convertito, con modificazioni, dalla legge 29 marzo 1995, n. 95, il compenso di cui al comma 2 del presente articolo viene erogato secondo le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                entro il giorno 27 febbraio 1995, in favore dei titolari degli ambiti subprovinciali in misura pari ai due dodicesimi del compenso spettante allo stesso titolo nell'anno 1994;
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro il giorno 27 dei mesi di giugno, settembre e novembre 1995, in favore dei titolari degli ambiti provinciali in misura pari, per ciascuna di dette date, ad un terzo dei dieci dodicesimi del compenso spettante allo stesso titolo per l'anno 1995.
 
 ## Art. 6. — Rimborso delle spese per procedure esecutive infruttuose
 

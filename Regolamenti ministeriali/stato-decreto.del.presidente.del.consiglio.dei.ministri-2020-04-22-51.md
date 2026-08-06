@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-11-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -45,6 +45,108 @@ Il presente decreto disciplina, ai sensi dell'articolo 23, comma 7, del decreto-
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini delle disposizioni contenute nel presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                decreto-legge: decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2019, n. 26; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                TFS/TFR: l'indennita' di fine servizio, il trattamento di fine rapporto di cui al decreto del Presidente del Consiglio dei Ministri 20 dicembre 1999, l'indennita' di premio di servizio, l'indennita' di buonuscita, l'indennita' di anzianita' e le altre indennita' di fine servizio o indennita' equipollente corrisposta una-tantum comunque denominata spettante a seguito di cessazione a vario titolo dall'impiego; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Accordo quadro: l'Accordo quadro per l'anticipo TFS/TFR di cui all'articolo 23, comma 2, del decreto-legge; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                banca: banche o intermediari finanziari che aderiscono all'Accordo quadro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                anticipo TFS/TFR: l'anticipo della liquidazione del TFS/TFR di cui all'articolo 23 del decreto-legge, mediante apposito finanziamento da parte della Banca; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ente erogatore: l'INPS o altro ente pubblico responsabile per l'erogazione del TFS/TFR; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Fondo di garanzia: il fondo per l'accesso ai finanziamenti istituito ai sensi dell'articolo 23, comma 3, del decreto-legge; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                gestore: INPS, quando opera quale gestore del Fondo di garanzia, ai sensi dell'articolo 23, comma 8 del decreto-legge; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                richiedente: il soggetto, cessato dal servizio alle dipendenze delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nonche' il personale degli enti pubblici di ricerca, cui e' liquidata la pensione in quota 100 o ai sensi dell'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, che presenta richiesta di certificazione del diritto all'anticipo TFS/TFR e richiesta di finanziamento per l'anticipo TFS/TFR ove accettata la prima; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                soggetto finanziato: il soggetto percettore dell'importo erogato; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                importo dell'anticipo TFS/TFR: l'importo che l'ente erogatore detrae dal TFS/TFR, spettante al richiedente a seguito della cessazione dal servizio, ai fini del rimborso alla Banca, costituito dalla somma dell'importo erogato e dei relativi interessi; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                importo erogato: l'importo corrisposto dalla banca al soggetto finanziato, pari o inferiore alla misura massima stabilita dall'articolo 23, comma 5 del decreto-legge, al netto degli interessi; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                proposta di contratto di anticipo TFS/TFR: la proposta di contratto di finanziamento per anticipo TFS/TFR che deve essere sottoscritta dal richiedente e consegnata alla banca; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                TUB: decreto legislativo 1° settembre 1993, n. 385.
+
 ## Art. 3. — Ambito soggettivo
 
 Possono chiedere, secondo le disposizioni di cui al presente decreto, l'anticipo TFS/TFR, non ancora liquidato dall'ente erogatore, i dipendenti delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165 nonche' il personale degli enti pubblici di ricerca, cui e' liquidata la pensione in quota 100, ai sensi dell'articolo 14 del decreto-legge 28 gennaio 2019 n. 4, convertito con modificazioni dalla legge 28 marzo 2019, n. 26; i soggetti che accedono, o che hanno avuto accesso, prima della data di entrata in vigore del decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2019, n. 26, al trattamento di pensione, ai sensi dell'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214.  ((1))
@@ -74,6 +176,31 @@ In caso di ritardo nel rimborso dell'anticipo TFS/TFR oltre il termine previsto 
 
 La domanda di certificazione del diritto all'anticipo TFS/TFR e' presentata dal richiedente all'ente erogatore. Per gli iscritti alle casse previdenziali gestite dall'INPS la domanda e' presentata secondo le modalita' indicate nell'apposita sezione del sito INPS. La domanda on line puo' essere presentata direttamente dall'utente munito di PIN dispositivo rilasciato dall'Istituto oppure di altre credenziali o dispositivi di autenticazione previsti dall'articolo 64 del decreto legislativo 7 marzo 2005, n. 82, ovvero attraverso enti di patronato o intermediari dell'Istituto stesso. Gli enti di patronato e gli altri intermediari dell'INPS saranno espressamente delegati dal richiedente alla presentazione della domanda di certificazione. L'INPS e' tenuto a verificare la validita' della predetta delega, in conformita' alle disposizioni vigenti. Le amministrazioni che erogano direttamente il TFS/TFR comunicheranno ai propri dipendenti, anche con modalita' telematiche, la procedura di presentazione della domanda di certificazione del diritto all'anticipo TFS/TFR.
 
+2.
+                    
+                        
+                            L'ente erogatore, a seguito della registrazione al portale lavoropubblico.gov e della compilazione dell'apposita rilevazione, entro novanta giorni dalla ricezione della domanda di certificazione del diritto all'anticipo TFS/TFR comunica al richiedente, anche con modalita' telematiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                la certificazione del diritto al TFS/TFR e del relativo ammontare complessivo, con indicazione: (i) delle date di riconoscimento dei singoli importi annuali di prestazione o dell'importo in unica soluzione e del relativo ammontare; (ii) delle eventuali precedenti operazioni di cessione relative alla stessa indennita', con specifica delle cessioni effettuate ai sensi dell'articolo 23 del decreto-legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rigetto della domanda di certificazione, qualora non sia accertato il possesso dei requisiti di accesso all'anticipo TFS/TFR ai sensi del decreto-legge e del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione dell'indirizzo PEC dell'ente erogatore al quale indirizzare le comunicazioni di cui ai successivi articoli. In aggiunta alla PEC, gli enti erogatori potranno condividere con la banca un sistema di comunicazione alternativo, fermo restando che questo deve comunque garantire la tracciabilita' delle comunicazioni.
+
 Il richiedente che accede alla pensione con il requisito «quota 100» acquisisce dall'INPS, ovvero dalla propria amministrazione in qualita' di ente erogatore, la certificazione della data di riconoscimento del TFS/TFR tenuto conto del momento in cui tale diritto maturerebbe a seguito del raggiungimento dei requisiti di accesso al sistema pensionistico, ai sensi dell'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214.
 
 ## Art. 6. — Procedure per la domanda 
@@ -81,7 +208,50 @@ Il richiedente che accede alla pensione con il requisito «quota 100» acquisisc
 
 Il richiedente in possesso della certificazione di cui all'articolo 5 presenta la domanda di anticipo TFS/TFR alla banca con le modalita' definite nell'Accordo quadro.
 
+2.
+                    
+                        
+                            La domanda e' corredata dai seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                certificazione di cui all'articolo 5, comma 2, lettera a) e Certificazione di cui al medesimo articolo 5, comma 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la proposta di contratto di anticipo TFS/TFR di cui al successivo articolo 7 debitamente sottoscritta dallo stesso richiedente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione sullo stato di famiglia e, in caso di separazione o divorzio, l'indicazione dell'eventuale importo dell'assegno previsto per l'ex coniuge.
+
 Nella domanda, il richiedente indica il conto corrente a lui intestato o cointestato sul quale accreditare l'importo finanziato.
+
+4.
+                    
+                        
+                            La banca, acquisita la documentazione anzidetta e verificata l'insussistenza dei casi di cui al successivo articolo 8, comunica, all'ente erogatore e al richiedente: 
+ 
+                        
+                        
+                            a)
+                            
+                                la presentazione della domanda di anticipo TFS/TFR da parte del richiedente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'accettazione della proposta di contratto di anticipo TFS/TFR condizionata alla comunicazione dell'ente erogatore di cui al successivo comma 5;
 
 L'ente erogatore entro il termine perentorio di trenta giorni, effettuate le necessarie verifiche e acquisita la garanzia del Fondo, comunica alla banca la presa d'atto dell'avvenuta conclusione del contratto di anticipo TFS/TFR e rende indisponibile l'importo dell'anticipo del TFS/TFR, come definito nell'articolo 1, per successive operazioni sullo stesso TFS/TFR. Qualora, in esito alle proprie verifiche, l'ente erogatore comunichi alla banca un diverso importo cedibile o l'impossibilita' di perfezionare l'operazione di anticipo TFS/TFR, la proposta di contratto di anticipo TFS/TFR decade e il richiedente potra' eventualmente presentare una successiva proposta di contratto di anticipo TFS/TFR a fronte di una nuova certificazione da parte dell'ente erogatore.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2019-05-15;62
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,87 @@ Oggetto e finalita'
 Il presente regolamento stabilisce i criteri specifici nel rispetto dei quali le plastiche eterogenee a base di poliolefine, il SAP e la cellulosa derivanti dal recupero di rifiuti di prodotti assorbenti per la persona (PAP), cessano di essere qualificati come rifiuto ai sensi e per gli effetti dell'articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si applicano le definizioni di cui all'articolo 183 del decreto legislativo 3 aprile 2006, n. 152, nonche' le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «PAP»: prodotti assorbenti per la persona; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Plastiche eterogenee a base di poliolefine»: miscela composta per almeno l'80% da poliolefine (polietilene e polipropilene), proveniente da trattamento di PAP qualificati come rifiuti, che ha cessato di essere rifiuto ai sensi del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «SAP (Super Absorbent Polymer)»: poliacrilato di sodio, proveniente da trattamento di PAP qualificati come rifiuti, che ha cessato di essere rifiuto ai sensi del presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Cellulosa ad alto contenuto di SAP»: materiale prevalentemente cellulosico ad alto contenuto di SAP, proveniente da trattamento di PAP qualificati come rifiuti, che ha cessato di essere rifiuto ai sensi del presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Cellulosa a basso contenuto di SAP»: materiale prevalentemente cellulosico a basso contenuto di SAP, proveniente da trattamento di PAP qualificati come rifiuti, che ha cessato di essere rifiuto ai sensi del presente decreto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Lotto di plastiche eterogenee a base di poliolefine»: quantitativo di plastiche eterogenee a base di poliolefine prodotto trimestralmente e comunque derivante da un quantitativo non superiore a 3.000 tonnellate di PAP; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Lotto di SAP»: quantitativo di polimero SAP prodotto trimestralmente e comunque derivante da un quantitativo non superiore a 3.000 tonnellate di PAP; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Lotto di cellulosa»: quantitativo di materiale cellulosico prodotto trimestralmente e comunque derivante da un quantitativo non superiore a 3.000 tonnellate di PAP; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «Produttore»: il gestore di un impianto autorizzato al recupero di materiali da PAP qualificati come rifiuti (di seguito: impianto di recupero); 
+
+                            
+                        
+                        
+                            j)
+                            
+                                «Dichiarazione di conformita'»: dichiarazione sostitutiva dell'atto di notorieta' rilasciata dal produttore, attestante le caratteristiche delle plastiche eterogenee a base di poliolefine, del SAP o della cellulosa ad alto o a basso contenuto di SAP, di cui all'articolo 5; 
+
+                            
+                        
+                        
+                            k)
+                            
+                                «Autorita' competente»: l'autorita' che rilascia l'autorizzazione ai sensi del Titolo III-bis della Parte II o del Titolo I, Capo IV, della Parte IV del decreto legislativo 3 aprile 2006, n. 152 ovvero l'autorita' destinataria della comunicazione di cui all'articolo 216 del medesimo decreto.
 
 ## Art. 3. — Criteri ai fini della cessazione della qualifica di rifiuto
 
@@ -56,6 +137,31 @@ Ai fini della verifica di sussistenza dei requisiti di cui all'articolo 3, il pr
 ## Art. 6. — Sistema di gestione ambientale
 
 Le disposizioni di cui all'articolo 5, comma 3, non si applicano alle imprese registrate ai sensi del regolamento CE n. 761/2001 del Parlamento europeo e del Consiglio, del 19 marzo 2001 (EMAS) e alle imprese in possesso della certificazione ambientale UNI EN ISO 14001 rilasciata da organismo accreditato ai sensi della normativa vigente.
+
+2.
+                    
+                        
+                            Ai fini dell'esenzione di cui al comma 1, deve essere predisposta apposita documentazione relativa a ciascuno dei seguenti aspetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il rispetto dei criteri di cui all'articolo 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rispetto della normativa in materia ambientale e delle eventuali prescrizioni riportate nell'autorizzazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la revisione e il miglioramento del sistema di gestione ambientale.
 
 ## Art. 7. — Norme transitorie e finali
 

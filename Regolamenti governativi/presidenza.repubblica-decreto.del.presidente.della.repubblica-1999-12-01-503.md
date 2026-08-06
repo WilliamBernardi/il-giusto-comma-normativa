@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2004-05-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -47,11 +47,194 @@ Nell'anagrafe sono registrate tutte le partite IVA, anche cessate, associate a c
 
 ## Art. 3. — Contenuti informativi dell'anagrafe
 
+1.
+                    
+                        
+                            L'anagrafe rende disponibili, secondo i livelli di accesso abilitati ai sensi dell'articolo 6, le informazioni, anche esistenti da sistemi informativi esterni, riguardanti ciascuna azienda, quali:
+ 
+                        
+                        
+                            a)
+                            
+                                dati anagrafici, se persona fisica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ubicazione dell'azienda e delle unita' tramite il codice ISTAT di cui all'articolo 1, comma 3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                legale rappresentante e sede legale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dati di produzione, trasformazione e commercializzazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                consistenza zootecnica complessiva dell'azienda e delle singole unita';
+
+                            
+                        
+                        
+                            f)
+                            
+                                consistenza territoriale, titolo di conduzione e individuazione catastale, ove esistente, degli immobili, comprensiva dei dati aerofotogrammetrici, cartografici e del telerilevamento in possesso dell'amministrazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                domande di ammissione a programmi di intervento concernenti l'applicazione di regolamenti comunitari e nazionali in materia di aiuti e sovvenzioni e stato dei singoli procedimenti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                quantitativi di riferimento individuali assegnati per ciascun settore di intervento sulla base di normative comunitarie e nazionali nonche' eventuali atti di cessione o acquisizione di quote;
+
+                            
+                        
+                        
+                            i)
+                            
+                                risultanze dei controlli amministrativi, ivi compresi i controlli preventivi integrati basati sull'impiego del telerilevamento (da aereo e satellite) ed i sopralluoghi presso le aziende, previsti dalla normativa comunitaria e nazionale, eseguiti dall'amministrazione;
+
+                            
+                        
+                        
+                            j)
+                            
+                                erogazioni eseguite dall'amministrazione e stato dei relativi procedimenti di incasso;
+
+                            
+                        
+                        
+                            k)
+                            
+                                eventuale ente associativo delegato dall'azienda;
+
+                            
+                        
+                        
+                            l)
+                            
+                                dati relativi a fatti e atti giuridici intervenuti relativi all'azienda, quali contratti e successioni, risultanti all'amministrazione;
+
+                            
+                        
+                        
+                            m)
+                            
+                                dati relativi all'iscrizione al registro del naviglio-peschereccio;
+
+                            
+                        
+                        
+                            n)
+                            
+                                impianti acquicoli per la produzione ittica;
+
+                            
+                        
+                        
+                            o)
+                            
+                                dati relativi all'accesso a fondi strutturali;
+
+                            
+                        
+                        
+                            p)
+                            
+                                ogni altra informazione risultante alla pubblica amministrazione, centrale o locale, nonche' agli altri utenti a qualsiasi titolo abilitati all'accesso all'anagrafe, attinente all'esercizio dell'attivita' economica svolta.
+
 Le informazioni di cui al comma 1, lettera h), sono registrate in una apposita sezione dell'anagrafe denominata "registro delle quote", accessibile attraverso i servizi del SIAN.
 
 Qualsiasi fatto o atto giuridico avente effetto ai fini della titolarita', del trasferimento definitivo o temporaneo e della quantificazione dei quantitativi di riferimento di cui al comma 1, lettera h), deve esesre comunicato, a cura degli interessati, entro i termini previsti per ciascun specifico fatto o atto, dalla normativa comunitaria o nazionale, anche ai fini della verifica della loro legittimita' ai sensi della normativa suddetta.
 
 ## Art. 4. — Servizi dell'anagrafe
+
+1.
+                    
+                        
+                            Attraverso l'anagrafe sono resi disponibili, ai soggetti autorizzati ai sensi dell'articolo 6, i seguenti servizi:
+ 
+                        
+                        
+                            a)
+                            
+                                servizi finalizzati alla consultazione di informazioni costantemente aggiornate riferite all'azienda ed integrate su base nazionale anche mediante l'accesso e la cooperazione con i sistemi informativi degli utenti esterni interconnessi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizi finalizzati alla predisposizione di documenti informatici, ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 10 novembre 1997, n. 513, nel rispetto delle disposizioni di cui al medesimo decreto e del relativo regolamento di attuazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                servizi di identificazione anagrafica dei dati aziendali anche mediante l'utilizzo delle informazioni contenute nel registro delle imprese attraverso l'interconnessione con il sistema informativo delle Camere di commercio, industria, artigianato e agricoltura, di cui all'articolo 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                servizi di verifica catastale dei dati aziendali anche attraverso il loro controllo con il sistema informativo del Ministero delle finanze;
+
+                            
+                        
+                        
+                            e)
+                            
+                                servizi di supporto alle decisioni di livello nazionale e locale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                servizi di supporto alla cooperazione applicativa centro-periferia e di documentazione, controllo e certificazione delle operazioni effettuate per via telematica;
+
+                            
+                        
+                        
+                            g)
+                            
+                                servizi di consultazione del vocabolario dati delle informazioni dell'anagrafe;
+
+                            
+                        
+                        
+                            h)
+                            
+                                servizi di accredito o di addebito e di documentazione, controllo e certificazione nei confronti di parti terze;
+
+                            
+                        
+                        
+                            i)
+                            
+                                servizi comunque connessi alla gestione di qualsiasi altra informazione, inerente i contenuti di cui all'articolo 3, risultante alla pubblica amministrazione centrale o locale.
 
 ## Art. 5. — Interconnessione con il sistema delle camere di commercio
 
@@ -60,6 +243,24 @@ Il SIAN, ai sensi dell'articolo 9, comma 3, del decreto del Presidente della Rep
 L'iscrizione di una impresa, esercente le attivita' di cui all'articolo 1, comma 1, nel registro delle imprese, di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, viene comunicata al SIAN dal sistema informativo delle camere di commercio, industria, artigianato e agricoltura, secondo le modalita' di cui al comma 1, ai fini dell'iscrizione nell'anagrafe e del rilascio della Carta di cui all'articolo 7.
 
 ## Art. 6. — Accesso all'anagrafe
+
+1.
+                    
+                        
+                            Sono autorizzati ad accedere alle informazioni ed ai servizi dell'anagrafe, nel rispetto di quanto previsto dalle norme per la tutela dei dati personali, di cui alla legge 31 dicembre 1996, n. 675, e successive modificazioni, e in particolare nel rispetto di quanto previsto dagli articoli 12 e 20 della legge predetta in materia di segreto aziendale e industriale, e dall'articolo 22, in materia di dati sensibili:
+ 
+                        
+                        
+                            a)
+                            
+                                tutti i soggetti e le pubbliche amministrazioni individuati dall'articolo 15, comma 1, del decreto legislativo 30 aprile 1998, n. 173;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le aziende di cui all'articolo 1, comma 1, ed i soggetti dalle stesse delegati.
 
 Le modalita' ed i limiti di autorizzazione all'accesso per l'accesso alle informazioni ed ai servizi dell'anagrafe sono stabiliti, previo protocollo di intesa con le amministrazioni titolari dei dati, con apposito provvedimento adottato dal Ministro delle politiche agricole e forestali, sentito il Garante per la protezione dei dati personali, ai sensi dell'articolo 31, comma 2, della legge n. 675 del 1996, nel rispetto delle disposizioni di cui alla suddetta legge n. 675, con particolare riferimento alla tutela dei diritti dell'interessato ed al trattamento dei dati sensibili di cui agli articoli 13 e 22 della predetta legge e nel rispetto dei criteri per l'esercizo del diritto d'accesso di cui all'articolo 25 della legge n. 241 del 1990 e del decreto del Presidente della Repubblica 27 giugno 1992, n. 352.
 

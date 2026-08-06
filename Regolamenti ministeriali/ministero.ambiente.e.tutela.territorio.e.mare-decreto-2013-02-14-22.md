@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2013-02-14;22
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,31 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 In applicazione dell'articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152, il presente regolamento stabilisce i criteri specifici da rispettare affinche' determinate tipologie di combustibile solido secondario (CSS), come definito all'articolo 183, comma 1, lettera cc), del decreto legislativo medesimo, cessano di essere qualificate come rifiuto.
 
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, il presente regolamento stabilisce, nel rispetto delle condizioni di cui al comma 1 dell'articolo 184-ter del decreto legislativo 3 aprile 2006, n.152, le procedure e le modalita' affinche' le fasi di produzione e utilizzo del CSS-Combustibile, ivi comprese le fasi propedeutiche alle stesse, avvengano senza pericolo per la salute dell'uomo e senza pregiudizio per l'ambiente, e in particolare senza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    creare rischi per l'acqua, l'aria, il suolo e per la fauna e la flora; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    causare inconvenienti da rumori e odori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    danneggiare il paesaggio e i siti di particolare interesse, tutelati in base alla normativa vigente.
+
 Gli allegati al presente regolamento sono parte integrante del medesimo.
 
 ## Art. 2. — Ambito di applicazione
@@ -35,6 +60,73 @@ Il presente regolamento si applica alla produzione del CSS-Combustibile come def
 I rinvii a disposizioni del diritto dell'Unione europea, alle leggi o ai regolamenti statali, ovvero a norme o regolamentazioni tecniche, si intendono effettuati anche alle relative modifiche e integrazioni.
 
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si applicano, per quanto non diversamente disposto e in quanto applicabili, le definizioni di cui al decreto legislativo 3 aprile 2006, n. 152, e al decreto legislativo 11 maggio 2005, n. 133, nonche' le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «autorita' competente»: l'autorita' competente al rilascio dell'autorizzazione integrata ambientale ai sensi del Titolo III bis del decreto legislativo 3 aprile 2006, n. 152, oppure dell'autorizzazione ai sensi del Titolo IV Capo IV del citato decreto legislativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «cementificio»: un impianto di produzione di cemento avente capacita' di produzione superiore a 500 ton/g di clinker e soggetto al regime di cui al Titolo III-bis della Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, in possesso di autorizzazione integrata ambientale purche' dotato di certificazione di qualita' ambientale secondo la norma UNI EN ISO 14001 oppure, in alternativa, di registrazione ai sensi della vigente disciplina comunitaria sull'adesione volontaria delle organizzazioni a un sistema comunitario di ecogestione e audit (EMAS); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «centrale termoelettrica»: impianto di combustione con potenza termica di combustione di oltre 50 MW di cui al punto 2, 1.1, dell'Allegato VIII alla Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, in possesso di autorizzazione integrata ambientale e dotato di certificazione di qualita' ambientale secondo la norma UNI EN ISO 14001 oppure, in alternativa, di registrazione ai sensi della vigente disciplina comunitaria sull'adesione volontaria delle organizzazioni a un sistema comunitario di ecogestione e audit (EMAS); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «combustibile solido secondario (CSS)»: il combustibile solido secondario, come definito all'articolo 183, comma 1, lettera cc), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «CSS-Combustibile»: il sottolotto di combustibile solido secondario (CSS) per il quale risulta emessa una dichiarazione di conformita' nel rispetto di quanto disposto all'articolo 8, comma 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «lotto»: un campione rappresentativo, classificato e caratterizzato conformemente alla norma UNI EN 15359 di un quantitativo complessivo di sottolotti comunque non superiore a 1.500 tonnellate, per i quali sono state emesse dichiarazioni di conformita' nel rispetto di quanto disposto all'articolo 8, comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «produttore»: il gestore dell'impianto di produzione del CSS-Combustibile; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «sottolotto»: la quantita' di combustibile solido secondario (CSS) prodotta, su base giornaliera, in conformita' alle norme di cui al Titolo II del presente regolamento; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «utilizzatore»: il gestore dell'impianto di cui alle lettere b) o c) che utilizza il CSS-Combustibile come combustibile in parziale sostituzione di combustibili fossili tradizionali.
 
 ## Art. 4. — Cessazione della qualifica di rifiuto
 
@@ -72,6 +164,38 @@ Con riferimento a ciascun sottolotto, il produttore determina, con modalita' con
 
 Dichiarazione di conformita'
 
+1.
+                        
+                            
+                                Per ciascun sottolotto di combustibile solido secondario (CSS) il produttore verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rispetto delle prescrizioni contenute agli articoli 5, 6, 7 e 9; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fatto salvo quanto previsto al comma 5, la rispondenza alle caratteristiche di classificazione sulla base dei parametri e delle classi 1, 2, 3 e relative combinazioni, elencate nella Tabella 1 dell'Allegato 1 del presente regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati identificativi dell'utilizzatore del CSS-Combustibile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rispetto delle disposizioni nazionali e comunitarie relative all'immissione sul mercato e alla commercializzazione dei prodotti.
+
 All'esito positivo della verifica di cui al comma 1, il produttore emette per il relativo sottolotto di combustibile solido secondario (CSS) una dichiarazione di conformita' in base al modello di cui all'Allegato 4. Il produttore conserva presso l'impianto di produzione una copia della dichiarazione di conformita' per un anno dalla data dell'emissione della stessa, mettendola a disposizione delle autorita' di controllo che la richiedono. La dichiarazione di conformita' puo', in alternativa, anche essere conservata su supporto elettronico.
 
 Per ciascun sottolotto di CSS-Combustibile, in relazione al quale e' stata emessa una dichiarazione di conformita', il produttore conserva per un mese dalla data di emissione del certificato di conformita' un campione rappresentativo classificato e caratterizzato conformemente alla norma UNI EN 15359.
@@ -91,12 +215,76 @@ Sistema di gestione per la qualita'
 
 Il produttore adotta un sistema di gestione per la qualita' del processo di produzione del CSS-Combustibile finalizzato al monitoraggio e controllo, tramite procedimenti documentati, attraverso il rispetto delle norme UNI EN 15358 ovvero, in alternativa, di registrazione ai sensi della vigente disciplina comunitaria sull'adesione volontaria delle organizzazioni a un sistema comunitario di ecogestione e audit (EMAS).
 
+2.
+                        
+                            
+                                Il sistema di gestione per la qualita' riguarda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rispetto degli articoli 5, 6, 7, 8, 10 e 11 del presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le destinazioni del CSS-Combustibile nonche' le osservazioni pervenute al produttore da parte degli utilizzatori del CSS-Combustibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rispetto della normativa in materia ambientale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la revisione e il miglioramento del sistema di gestione della qualita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la formazione del personale del produttore.
+
 Il sistema di gestione per la qualita' e' certificato da un organismo terzo accreditato. L'accertamento della conformita' del sistema di gestione per la qualita' alle norme UNI EN ISO 9001 e UNI EN ISO 14001 e' effettuato con verifiche periodiche annuali di mantenimento e triennali di rinnovo della certificazione.
 
 ## - Titolo III Deposito, movimentazione e trasporto del CSS-Combustibile
 
 ## Art. 10. — Deposito e movimentazione del CSS-Combustibile 
  presso il produttore
+
+1.
+                        
+                            
+                                In attesa del trasporto all'impianto di utilizzo, il CSS-Combustibile e' depositato e movimentato esclusivamente nell'impianto in cui e' stato prodotto e nelle aree pertinenziali dello stesso. Il deposito e la movimentazione presso il produttore avvengono in modo tale da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    evitare spandimenti accidentali e contaminazione di aria, acqua, suolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    evitare fenomeni di autocombustione o di formazione di miscele esplosive; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevenire e minimizzare la formazione di emissioni diffuse e la diffusione di odori.
 
 Il deposito di cui al comma 1 non puo' avere durata superiore a sei mesi dalla data di emissione della dichiarazione di conformita'.
 Trascorso tale periodo, il CSS-Combustibile depositato nelle aree pertinenziali dell'impianto di produzione e' gestito come un rifiuto ai sensi e per gli effetti della Parte Quarta del decreto legislativo 3 aprile 2006, n. 152.
@@ -114,6 +302,31 @@ Durante le fasi di trasporto del CSS-Combustibile all'impianto di cui all'artico
 ## Art. 12. — Deposito e movimentazione del CSS-Combustibile 
  presso l'utilizzatore
 
+1.
+                        
+                            
+                                Il deposito e la movimentazione del CSS-Combustibile nel compendio dell'impianto di cui all'articolo 3, comma 1, lettere b) o c), avviene in modo tale da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    evitare spandimenti accidentali e contaminazione di aria, acqua, suolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    evitare fenomeni di autocombustione o di formazione di miscele esplosive; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevenire e minimizzare la formazione di emissioni diffuse e la diffusione di odori.
+
 Sono fatte salve tutte le disposizioni vigenti in materia di sicurezza e prevenzione.
 
 ## - Titolo IV Utilizzo del CSS-Combustibile
@@ -128,9 +341,165 @@ Fatte salve le diverse prescrizioni piu' restrittive contenute nella rispettiva 
 
 ## Art. 14. — Comunicazione annuale
 
+1.
+                        
+                            
+                                Entro il 30 aprile di ogni anno ogni produttore trasmette, con le modalita' previste dall'articolo 29-undecies del decreto legislativo 3 aprile 2006, n. 152, anche attraverso strumenti di controllo e dichiarazioni previste dalla normativa di settore, le seguenti informazioni relative all'anno solare precedente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tipologia e le quantita' di rifiuti in ingresso all'impianto di produzione del CSS-Combustibile, suddivisi per codice CER; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le quantita' di CSS-Combustibile prodotte, classificate e caratterizzate, in conformita' al presente regolamento, ai sensi dell'Allegato 1 conformemente alla norma tecnica UNI EN 15359; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la tipologia e le quantita' di residui derivanti dal processo di produzione del CSS-Combustibile, suddivisi per destini finali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i risultati delle analisi dei sottolotti e dei lotti di CSS-Combustibile effettuate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la quota biodegradabile contenuta nei lotti di CSS combustibile con facolta' di indicarla anche solamente tramite attribuzione, in modo forfettario, in base alla normativa applicabile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i dati identificativi degli utilizzatori del CSS-Combustibile.
+
+2.
+                        
+                            
+                                Entro il 30 aprile di ogni anno ciascun utilizzatore del CSS-Combustibile trasmette con le modalita' previste dall'articolo 29-undecies del decreto legislativo 3 aprile 2006, n. 152, le seguenti informazioni relative all'anno solare precedente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il quantitativo di CSS-Combustibile utilizzato, espresso in unita' di peso e suddiviso secondo le caratteristiche di classificazione UNI EN 15359 con indicazione delle specifiche di cui all'Allegato 1, Tabella 2, del presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati identificativi dei produttori del CSS-Combustibile utilizzato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i risultati delle caratteristiche di classificazioni riferite ai sottolotti e delle eventuali ulteriori analisi dei lotti effettuati dall'utilizzatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la percentuale di sostituzione di combustibili fossili con descrizione e quantificazione della riduzione delle emissioni di gas ad effetto serra, conseguente all'utilizzo del CSS-Combustibile.
+
 Le comunicazioni di cui ai commi 1 e 2 sono rese in copia cartacea o mediante supporto informatico riproducibile, secondo le modalita' prescritte dall'autorita' competente, e sono corredate da una sintesi non tecnica destinata al pubblico per i fini di cui all'articolo 15, comma 2, lettera d).
 
 ## Art. 15. — Comitato di vigilanza e controllo
+
+1.
+                        
+                            
+                                E' istituito presso il Ministero dell'ambiente e della tutela del territorio e del mare, senza oneri a carico della finanza pubblica ne' compensi o indennita' per i componenti, un Comitato di vigilanza e controllo, composto da nove membri esperti nella materia, nominati con decreto del Ministro dell'ambiente e della tutela del territorio e del mare e designati rispettivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    due dal Ministro dell'ambiente e della tutela del territorio e del mare, tra cui il Presidente del predetto Comitato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno dal Ministro dello sviluppo economico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quattro dalle associazioni imprenditoriali maggiormente rappresentative dei gestori degli impianti di produzione ed utilizzatori del CSS-Combustibile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    uno dalle associazioni ambientaliste maggiormente rappresentative a livello nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    uno dal Comitato Termotecnico Italiano (CTI).
+
+2.
+                        
+                            
+                                Il Comitato di vigilanza e controllo ha il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire il monitoraggio della produzione e dell'utilizzo del CSS-Combustibile ai fini di una maggiore tutela ambientale nonche' la verifica dell'applicazione di criteri di efficienza, efficacia ed economicita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere la cooperazione ed il coordinamento tra tutti i soggetti interessati alla produzione e all'utilizzo del CSS-Combustibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esaminare il livello qualitativo e quantitativo della produzione e dell'utilizzo del CSS-Combustibile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    intraprendere le iniziative idonee a portare a conoscenza del pubblico informazioni utili o opportune in relazione alla produzione e all'utilizzo del CSS-Combustibile, anche sulla base dei dati trasmessi dai produttori e dagli utilizzatori di cui all'articolo 14; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicurare il monitoraggio sull'attuazione della presente disciplina, garantire l'esame e la valutazione delle problematiche collegate, favorire l'adozione di iniziative finalizzate a garantire applicazione uniforme e coordinata del presente regolamento e sottoporre eventuali proposte integrative o correttive della normativa.
 
 L'attivita' e il funzionamento del Comitato di vigilanza e controllo sono disciplinati da un regolamento interno adottato dal Comitato stesso. Per l'esame di problemi specifici possono essere invitati a partecipare alle sedute del Comitato di vigilanza e controllo esperti particolarmente qualificati nelle materie da trattare, senza oneri a carico della finanza pubblica. Il Comitato di vigilanza e controllo relaziona annualmente al Ministero dell'ambiente e della tutela del territorio e del mare.
 

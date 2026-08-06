@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-05-11;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -47,6 +47,63 @@ Sulla proposta del Ministro per gli affari regionali e le autonomie, sentiti i M
 Il presente regolamento, in attuazione dell'articolo 2, comma 1, della legge 12 settembre 2025, n. 131, definisce i criteri per la classificazione dei comuni montani e contestualmente elenca i comuni che soddisfano tali criteri.
 
 ## Art. 2. — Criteri per la classificazione dei comuni montani
+
+1.
+                    
+                        
+                            Sono montani i comuni che soddisfano i criteri previsti da almeno una delle seguenti lettere: 
+ 
+                        
+                        
+                            a)
+                            
+                                almeno il 20% della superficie del territorio comunale al di sopra di 600 metri di altitudine sul livello del mare, al netto delle superfici di laghi, lagune, valli da pesca, stagni, saline, e almeno il 25% della superficie del territorio comunale con pendenza superiore al 20%, al netto delle superfici di laghi, lagune, valli da pesca, stagni, saline; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                altitudine media della superficie del territorio comunale pari o superiore a 350 metri sul livello del mare, al netto delle superfici di laghi, lagune, valli da pesca, stagni, saline, e almeno il 5% della superficie del territorio comunale con pendenza superiore al 20%, al netto delle superfici di laghi, lagune, valli da pesca, stagni, saline; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                altitudine media della superficie del territorio comunale pari o superiore a 400 metri sul livello del mare, al netto delle superfici di laghi, lagune, valli da pesca, stagni, saline; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                altitudine massima pari o superiore a 1.200 metri sul livello del mare; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i comuni con altitudine media della superficie del territorio comunale pari o superiore a 300 metri sul livello del mare, al netto delle superfici di laghi, lagune, valli da pesca, stagni, saline, appartenenti a Province con territorio interamente montano e confinanti con Stati esteri, riconosciute ai sensi dell'articolo 1, comma 3, della legge 7 aprile 2014, n. 56, o della normativa regionale vigente alla data di entrata in vigore della legge 12 settembre 2025, n. 131.
+
+2.
+                    
+                        
+                            Sono altresi' classificati come montani: 
+ 
+                        
+                        
+                            a)
+                            
+                                i comuni che confinano esclusivamente con uno o piu' comuni che soddisfano almeno uno dei criteri di cui comma 1, oppure con i suddetti comuni e uno Stato estero oppure con uno Stato estero, purche' l'altitudine media della superficie del territorio comunale sia pari o superiore a 200 metri sul livello del mare, al netto delle superfici di laghi, lagune, valli da pesca, stagni, saline; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i comuni appartenenti a un gruppo di comuni tra di loro confinanti, fino a un numero massimo di cinque, ciascuno con altitudine media pari o superiore a 200 metri sul livello del mare, al netto delle superfici di laghi, lagune, valli da pesca, stagni, saline, a condizione che il gruppo di comuni sia completamente circondato da comuni che soddisfano almeno uno dei criteri di cui al comma 1, oppure da tali comuni e uno Stato estero, oppure da uno Stato estero.
 
 ## Art. 3. — Elenco dei comuni montani
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2012-12-21;260
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,6 +43,67 @@ Requisiti e modalita' per l'iscrizione
 
 Le associazioni che intendono iscriversi nell'elenco presentano domanda, sottoscritta dal legale rappresentante, contenente l'indicazione della denominazione dell'associazione e della sede legale e redatta nelle forme e nei modi previsti dall'articolo 38 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modifiche ed integrazioni, secondo la modulistica a tal fine pubblicata sul sito internet istituzionale del Ministero, attestando il possesso dei requisiti indicati dall'articolo 137 del codice del consumo.
 
+2.
+                    
+                        
+                            La domanda e' corredata dai seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                copia autentica dell'atto costitutivo dell'associazione comprovante che la costituzione dell'associazione, quale associazione nazionale di consumatori ed utenti, sia avvenuta almeno tre anni prima della data di presentazione della domanda; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica dello statuto vigente alla data di presentazione della domanda di iscrizione e delle eventuali modifiche statutarie intervenute nell'ultimo triennio comprovanti per l'intero triennio un ordinamento a base democratica e, come scopo esclusivo, la tutela dei diritti dei consumatori e degli utenti, senza fini di lucro, nonche', con riferimento al medesimo periodo, dei verbali delle assemblee degli iscritti, dei regolamenti che disciplinano le elezioni e degli atti relativi alle elezioni dei rappresentanti e degli organi direttivi dell'associazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiarazione sostitutiva dell'atto di notorieta' resa dal legale rappresentante dell'associazione in conformita' al modulo a tal fine pubblicato sul sito internet istituzionale del Ministero e concernente la tenuta, presso la propria sede legale o altra sede espressamente indicata in tale dichiarazione, di un unico elenco nazionale degli iscritti, aggiornato annualmente, con l'indicazione delle quote versate dagli associati, la regolare tenuta dei libri contabili nonche' il numero totale degli iscritti alla data di presentazione della domanda e, in ogni caso, alla data del 31 dicembre anteriore a quella di presentazione della domanda e la loro ripartizione per regioni e province autonome anche ai fini della verifica del requisito relativo alla presenza sul territorio di cui alla lettera c) del comma 2 o al comma 5 dell'articolo 137 del codice del consumo; resta ferma la necessita' di indicare nell'elenco anche la ripartizione degli iscritti per circoscrizione di Camera di commercio, ai soli fini degli eventuali controlli connessi all'applicazione dell'articolo 3, comma 5, del decreto del Ministro dello sviluppo economico 4 agosto 2011, n. 156; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per ciascuno dei tre anni anteriori a quello di iscrizione, copia autentica del bilancio annuale delle entrate e delle uscite contenente l'indicazione delle quote versate dagli associati o, in relazione alle norme che regolano il tipo di associazione, del rendiconto economico contenente anch'esso l'indicazione delle quote versate dagli associati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                relazione sull'attivita' svolta dall'associazione nel triennio precedente, sottoscritta dal legale rappresentante, ed ogni altra documentazione atta a comprovare la continuita' e rilevanza dell'attivita' ed a fornire notizie sull'articolazione territoriale e sulle sedi operative, con l'indicazione dei responsabili delle principali sedi locali dell'associazione stessa e, fatto salvo il pluralismo delle scelte organizzative con conseguenti eventuali indicazioni negative, di dati e documenti relativamente ai seguenti indicatori: 
+ 1) disponibilita' di un sito internet aggiornato e con adeguati contenuti informativi sia relativamente all'organizzazione ed al funzionamento dell'associazione, sia relativamente alle tematiche di interesse dei consumatori; 
+ 2) tipologia e numero delle attivita' di comunicazione, quali pubblicazioni sia in formato cartaceo che in formato digitale; 
+ 3) numero e articolazione territoriale degli sportelli di assistenza e consulenza ovvero tipologia, modalita' e numero di contatti relativamente alle forme di consulenza ed assistenza a distanza; 
+ 4) numero dei pareri e delle consulenze comunque fornite ai consumatori; 
+ 5) numero dei reclami presentati per conto di consumatori o per la cui presentazione e' stata fornita assistenza; 
+ 6) tipologia, numero e esiti delle attivita' di assistenza connesse alla tutela giurisdizionale e extragiurisdizionale dei diritti dei consumatori; 
+ 7) tipologia e numero delle iniziative pubbliche di interesse dei consumatori, quali convegni, seminari, manifestazioni, organizzati dall'associazione o cui l'associazione ha partecipato con relazioni o interventi; 
+ 8) tipologia e numero degli accordi, dei protocolli di intesa e di altre forme di partecipazione, nell'interesse dei consumatori, ad attivita' ovvero organi consultivi di pubbliche amministrazioni o gestori di pubblici servizi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dichiarazione sostitutiva di certificazione resa dai legali rappresentanti dell'associazione attestante che gli stessi rivestono tale carica, non hanno subito alcuna condanna, passata in giudicato, in relazione all'attivita' dell'associazione medesima e che altresi' non rivestono la qualifica di imprenditori o di amministratori di imprese di produzione e servizi in qualsiasi forma costituite, per gli stessi settori in cui opera l'associazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dichiarazione sostitutiva dell'atto di notorieta' resa dal legale rappresentante attestante che l'associazione non svolge attivita' di promozione o pubblicita' commerciale avente per oggetto beni o servizi prodotti da terzi e non ha connessione di interessi con imprese di produzione o di distribuzione e si impegna a mantenere tali preclusioni; se l'associazione ha ricevuto nell'ultimo triennio eventuali contributi da imprese o associazioni di imprese o ha stipulato accordi o convenzioni con le stesse, nella dichiarazione tali contributi, accordi e convenzioni devono essere espressamente e dettagliatamente indicati, evidenziando per i contributi anche le relative informazioni contenute nei bilanci e rendiconti e fornendo, ai fini delle valutazioni dell'amministrazione, ogni elemento utile a dimostrare che tali contributi, accordi e convenzioni non determinano connessioni di interessi incompatibili e sono finalizzati esclusivamente a esigenze di tutela dei consumatori e a favore degli iscritti, ivi compresi gli elementi circa la trasparenza e completezza dell'informazione in merito fornita agli associati ed alla generalita' dei consumatori.
+
 Le associazioni hanno l'obbligo di conservare per un periodo di cinque anni tutta la documentazione connessa al possesso dei requisiti per l'iscrizione nell'elenco e di presentarla alla Direzione generale, per gli eventuali controlli o in caso di contenzioso.
 
 Per iscritti all'associazione si intendono coloro che hanno espressamente manifestato la volonta' di aderirvi. Ai soli fini del raggiungimento e del mantenimento dei requisiti per l'iscrizione nell'elenco di cui al presente regolamento sono computate esclusivamente le iscrizioni comprovate dal pagamento di una quota associativa di importo non meramente simbolico effettivamente corrisposto in forma tracciabile almeno una volta nel biennio anteriore alla relativa dichiarazione ovvero, nel caso tale pagamento sia effettuato in contanti, confermato dalla corrispondenza con gli importi iscritti in bilancio e dalla sottoscrizione, almeno una volta nel corso del medesimo biennio, di un modulo di adesione o di conferma espressa dell'adesione.
@@ -71,6 +132,31 @@ Il provvedimento con esito favorevole all'istanza dell'associazione e' pubblicat
 Entro il 31 ottobre di ogni anno, con decreto del Direttore generale competente, pubblicato sul sito internet istituzionale, il Ministero provvede all'aggiornamento dell'elenco previa verifica del mantenimento dei requisiti ai sensi dell'articolo 6.
 
 ## Art. 6. — Mantenimento dei requisiti
+
+1.
+                    
+                        
+                            Ai fini dell'aggiornamento di cui all'articolo 5, entro il 30 giugno di ogni anno, le associazioni iscritte nell'elenco fanno pervenire alla Direzione i seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarazioni sostitutive dell'atto di notorieta' e sostitutive di certificazione rese dal legale rappresentante dell'associazione secondo la modulistica pubblicata sul sito istituzionale del Ministero, concernenti l'aggiornamento di tutte le dichiarazioni e dei documenti presentati nell'anno precedente in fase di iscrizione o in fase di aggiornamento annuale dell'elenco, con evidenziazione del numero degli iscritti alla data del 31 dicembre dell'anno precedente, nonche' di tutte le variazioni intervenute, e corredate di nuova copia autentica dello statuto e della relativa documentazione nel caso in cui siano intervenute modifiche anche in tali atti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica del bilancio annuale delle entrate e delle uscite dell'esercizio precedente contenente l'indicazione delle quote versate dagli associati o, in relazione alle norme che regolano il tipo di associazione, del rendiconto economico contenente anch'esso l'indicazione delle quote versate dagli associati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                relazione sull'attivita' svolta dall'associazione nell'anno precedente, sottoscritta dal legale rappresentante ed ogni altra documentazione atta a comprovare la continuita' dell'attivita'.
 
 Per i controlli delle dichiarazioni sostitutive di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, prodotte in sede di iscrizione o di aggiornamento annuale dell'elenco, ivi compresi gli eventuali controlli connessi all'applicazione dell'articolo 3, comma 5, del decreto del Ministro dello sviluppo economico 4 agosto 2011, n. 156, fatte salve comunque le eventuali verifiche richieste o disposte dall'autorita' giudiziaria, la Direzione puo' effettuare accertamenti presso le sedi dell'associazione o richiedere la trasmissione di documentazione, ivi compreso l'elenco degli iscritti da cui estrarre un campione per il quale richiedere copia delle contabili dei versamenti delle quote associative o delle conferme di adesione.
 

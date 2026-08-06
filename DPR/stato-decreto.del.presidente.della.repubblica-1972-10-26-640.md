@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2024-06-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -51,6 +51,56 @@ E' soggetto d'imposta chiunque organizza gli intrattenimenti e le altre attivita
 ((
 
 La base imponibile e' costituita dall'importo dei singoli titoli di accesso di cui agli articoli 6 e 6-bis, venduti al pubblico per l'ingresso o l'occupazione del posto o dal prezzo comunque corrisposto per assistere o partecipare agli intrattenimenti ed alle altre attivita' elencati nella tariffa, al netto dell'imposta sul valore aggiunto in quanto dovuta.
+
+2.
+                        
+                            
+                                Costituiscono altresi' base imponibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli aumenti apportati ai prezzi delle consumazioni o servizi offerti al pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i corrispettivi delle cessioni e delle prestazioni di servizi accessori, obbligatoriamente imposte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ammontare degli abbonamenti, dei proventi derivanti da sponsorizzazione e cessione dei diritti radiotelevisivi, dei contributi da chiunque erogati, nonche' il controvalore delle dotazioni da chiunque fornite e ogni altro provento comunque connesso all'utilizzazione ed alla organizzazione degli intrattenimenti e delle altre attivita'.
+
+3.
+                        
+                            
+                                Qualora gli intrattenimenti e le altre attivita' di cui al comma 1 siano organizzati da enti, societa' o associazioni per i propri soci, l'imposta si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sull'intero ammontare delle quote o contributi associativi corrisposti, se l'ente abbia come unico scopo quello di organizzare tali intrattenimenti ed attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulla parte dell'ammontare delle quote o contributi anzidetti, riferibile all'attivita' soggetta all'imposta, qualora l'ente svolga anche altre attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sul prezzo dei titoli di accesso e dei posti riservati e sulle somme o valori corrisposti per le voci di cui alle lettere a), b) e c) del comma 2.
 
 Per le case da gioco la base imponibile e' costituita giornalmente dalla differenza attivita' fra le somme introitate per i giochi e quelle pagate ai giocatori per le vincite e da qualsiasi altro introito connesso all'esercizio del gioco.
 
@@ -152,6 +202,24 @@ Sono ammessi abbonamenti anche per attivita' organizzate da piu' soggetti in div
 
 ((
 
+1.
+                        
+                            
+                                L'imposta si applica su imponibili determinati a norma del comma 2:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le esecuzioni musicali non dal vivo e senza altre prestazioni sostitutive ed accessorie obbligatoriamente imposte ai partecipanti, effettuate in pubblici esercizi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le attivita' di minima importanza e per quelle soggette ad imposta svolte congiuntamente ad altre che non vi sono soggette.
+
 Per i soggetti che esercitano le attivita' di cui alla lettera a) del comma 1, la base imponibile e' determinata nella misura del 50 per cento dei proventi conseguiti. Per quelli che esercitano le attivita' di cui alla lettera b) del comma 1, la base imponibile e' costituita dal 50 per cento dei proventi conseguiti, sempreche' i ricavi dell'anno solare precedente siano ammontati ad un importo non superiore a cinquanta milioni di lire.
 
 3. E' data facolta' di optare per la determinazione dell'imponibile in via ordinaria.))
@@ -166,7 +234,57 @@ Per gli apparecchi e congegni per il gioco lecito di cui all'articolo 110 del te
 
 Fino alla attivazione della rete per la gestione telematica di cui al comma 4, per gli apparecchi e congegni per il gioco lecito di cui all'articolo 110, comma 6, del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, e successive modificazioni, e' stabilito, ai fini dell'imposta sugli intrattenimenti, un imponibile medio forfetario annuo di 10.000 euro per l'anno 2003((...)).
 
+3.
+                        
+                            
+                                Per gli apparecchi e congegni di cui all'articolo 110, comma 7, del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, e successive modificazioni, ai fini dell'imposta sugli intrattenimenti la misura dell'imponibile medio forfetario annuo, per essi previsto alla data del 1 gennaio 2001, e' per l'anno 2001 e per ciascuno di quelli successivi ((fino all'anno 2003)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    di 1.500 euro, per gli apparecchi di cui alla lettera a) del predetto comma 7 dell'articolo 110; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di 4.100 euro, per gli apparecchi di cui alla lettera b) del predetto comma 7 dell'articolo 110; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di 800 euro, per gli apparecchi di cui alla lettera c) del predetto comma 7 dell'articolo 110.
+
 ((
+
+3-bis.
+                        
+                            
+                                Per gli apparecchi e congegni di cui all'articolo 110, comma 7, del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, e successive modificazioni e integrazioni, ai fini dell'imposta sugli intrattenimenti la misura dell'imponibile medio forfetario annuo e', per l'anno 2004 e per ciascuno di quelli successivi, prevista in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    1.800 euro, per gli apparecchi di cui alla lettera a) del predetto comma 7 dell'articolo 110; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    2.500 euro, per gli apparecchi di cui alla lettera b) del predetto comma 7 dell'articolo 110; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    1.800 euro, per gli apparecchi di cui alla lettera c) del predetto comma 7 dell'articolo 110.
 
 Entro il 30 giugno 2004 sono individuati, con procedure ad evidenza pubblica nel rispetto della normativa nazionale e comunitaria, uno o piu' concessionari della rete o delle reti dell'Amministrazione autonoma dei monopoli di Stato per la gestione telematica degli apparecchi di cui all'articolo 110, comma 6, del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, e successive modificazioni e integrazioni. Tale rete o reti consentono la gestione telematica, anche mediante apparecchi videoterminali, del gioco lecito previsto per gli apparecchi di cui al richiamato comma 6. Con uno o piu' decreti del Ministro dell'economia e delle finanze, adottati ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, e successive modificazioni ed integrazioni, sono dettate disposizioni per la attuazione del presente comma.
 
@@ -356,6 +474,65 @@ Per il mancato rilascio dei titoli di accesso o dei documenti di cercificazione 
  Il D.Lgs. 14 giugno 2024, n. 87, ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ## Art. 33. — (Altre violazioni)
+
+1.
+                        
+                            
+                                Si applica la sanzione da euro 250 a euro 1.000 per: (21) (22)  
+                            
+                            
+                                a)
+                                
+                                    l'irregolare certificazione dei corrispettivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la mancata o irregolare tenuta o conservazione dei registri e dei documenti obbligatori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'omessa comunicazione degli intermediari incaricati della vendita dei titoli di accesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la mancata emissione del documento riepilogativo degli incassi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'omessa o infedele dichiarazione di effettuazione di attivita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la mancata o irregolare compilazione delle distinte di contabilizzazione dei proventi delle case da gioco; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'omessa o infedele fornitura dei dati di cui all'articolo 74-quater, comma 6, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'omessa o infedele comunicazione del numero e degli importi degli abbonamenti al concessionario di cui all'articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, o all'ufficio delle entrate competente.
 
 Per l'omessa installazione degli apparecchi misuratori fiscali o delle biglietterie automatizzate si applica la sanzione da ((euro 2000 a euro 4000)).((23))
 

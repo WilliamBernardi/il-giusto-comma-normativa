@@ -8,8 +8,8 @@ codice_redazionale: 006G0288
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,38 @@ Ai fini della verifica delle percentuali di partecipazioni agli utili, per le pe
 ## Art. 2. — Determinazione dei redditi
 
 Il reddito dei soggetti non residenti, da imputare in misura percentuale ai soggetti partecipanti residenti, e' costituito dall'utile risultante dal bilancio redatto dal soggetto non residente anche in assenza di un obbligo di legge, al lordo delle imposte sul reddito, ovvero, se maggiore, dal reddito risultante dalla somma dei componenti positivi presuntivamente ritraibili dagli elementi dell'attivo patrimoniale del soggetto non residente.
+
+2.
+                    
+                        
+                            La determinazione in via presuntiva dei componenti positivi si ottiene applicando al valore degli elementi dell'attivo di seguito indicati, anche se detenuti in locazione finanziaria, i corrispondenti coefficienti di redditivita':
+ 
+                        
+                        
+                            a)
+                            
+                                beni di cui all'articolo 85, comma 1, lettera c), d) ed e) del citato testo unico, anche se classificati nelle immobilizzazioni finanziarie: 1 per cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                crediti: 1 per cento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                immobilizzazioni costituite da beni immobili e beni di cui articolo 8-bis, comma 1, lettera a) del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni: 4 per cento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                altre immobilizzazioni: 15 per cento.
 
 Ai fini dell'applicazione dei commi 1 e 2, l'utile lordo di bilancio e la congruita' dei valori degli elementi dell'attivo, devono essere attestati da uno o piu' soggetti iscritti nel registro dei revisori contabili istituito ai sensi del decreto legislativo 27 gennaio 1992, n. 88.
 

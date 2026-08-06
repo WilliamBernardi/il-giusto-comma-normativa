@@ -8,8 +8,8 @@ codice_redazionale: 012G0064
 vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE
@@ -44,9 +44,123 @@ All'articolo 97 della Costituzione, al primo comma e' premesso il seguente:
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            All'articolo 117 della Costituzione sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al secondo comma, lettera e), dopo le parole: «sistema tributario e contabile dello Stato;» sono inserite le seguenti: «armonizzazione dei bilanci pubblici;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al terzo comma, primo periodo, le parole: «armonizzazione dei bilanci pubblici e» sono soppresse.
+
 ## Art. 4.
 
+1.
+                    
+                        
+                            All'articolo 119 della Costituzione sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma sono aggiunte, in fine, le seguenti parole: «, nel rispetto dell'equilibrio dei relativi bilanci, e concorrono ad assicurare l'osservanza dei vincoli economici e finanziari derivanti dall'ordinamento dell'Unione europea»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al sesto comma, secondo periodo, sono aggiunte, in fine, le seguenti parole: «, con la contestuale definizione di piani di ammortamento e a condizione che per il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di bilancio».
+
 ## Art. 5.
+
+1.
+                    
+                        
+                            La legge di cui all'articolo 81, sesto comma, della Costituzione, come sostituito dall'articolo 1 della presente legge costituzionale, disciplina, per il complesso delle pubbliche amministrazioni, in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                le verifiche, preventive e consuntive, sugli andamenti di finanza pubblica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'accertamento delle cause degli scostamenti rispetto alle previsioni, distinguendo tra quelli dovuti all'andamento del ciclo economico, all'inefficacia degli interventi e agli eventi eccezionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il limite massimo degli scostamenti negativi cumulati di cui alla lettera b) del presente comma corretti per il ciclo economico rispetto al prodotto interno lordo, al superamento del quale occorre intervenire con misure di correzione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la definizione delle gravi recessioni economiche, delle crisi finanziarie e delle gravi calamita' naturali quali eventi eccezionali, ai sensi dell'articolo 81, secondo comma, della Costituzione, come sostituito dall'articolo 1 della presente legge costituzionale, al verificarsi dei quali sono consentiti il ricorso all'indebitamento non limitato a tenere conto degli effetti del ciclo economico e il superamento del limite massimo di cui alla lettera c) del presente comma sulla base di un piano di rientro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'introduzione di regole sulla spesa che consentano di salvaguardare gli equilibri di bilancio e la riduzione del rapporto tra debito pubblico e prodotto interno lordo nel lungo periodo, in coerenza con gli obiettivi di finanza pubblica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'istituzione presso le Camere, nel rispetto della relativa autonomia costituzionale, di un organismo indipendente al quale attribuire compiti di analisi e verifica degli andamenti di finanza pubblica e di valutazione dell'osservanza delle regole di bilancio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le modalita' attraverso le quali lo Stato, nelle fasi avverse del ciclo economico o al verificarsi degli eventi eccezionali di cui alla lettera d) del presente comma, anche in deroga all'articolo 119 della Costituzione, concorre ad assicurare il finanziamento, da parte degli altri livelli di governo, dei livelli essenziali delle prestazioni e delle funzioni fondamentali inerenti ai diritti civili e sociali.
+
+2.
+                    
+                        
+                            La legge di cui al comma 1 disciplina altresi': 
+ 
+                        
+                        
+                            a)
+                            
+                                il contenuto della legge di bilancio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la facolta' dei Comuni, delle Province, delle Citta' metropolitane, delle Regioni e delle Province autonome di Trento e di Bolzano di ricorrere all'indebitamento, ai sensi dell'articolo 119, sesto comma, secondo periodo, della Costituzione, come modificato dall'articolo 4 della presente legge costituzionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' attraverso le quali i Comuni, le Province, le Citta' metropolitane, le Regioni e le Province autonome di Trento e di Bolzano concorrono alla sostenibilita' del debito del complesso delle pubbliche amministrazioni.
 
 La legge di cui ai commi 1 e 2 e' approvata entro il 28 febbraio 2013.
 

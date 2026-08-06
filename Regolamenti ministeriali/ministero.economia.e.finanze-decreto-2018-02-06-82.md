@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2018-02-06;82
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,38 @@ Con provvedimenti del Direttore dell'Agenzia delle dogane e dei monopoli sono de
 Al gioco del bingo a distanza si applica l'imposta unica di cui al decreto legislativo 23 dicembre 1998, n. 504 e il compenso per il controllore centralizzato del gioco, nella misura dell'1 per cento del prezzo di vendita delle cartelle, ai sensi dell'articolo 10, comma 9-septies, del decreto-legge 2 marzo 2012, n. 16, convertito, con modificazioni, dalla legge 26 aprile 2012, n. 44.
 
 L'imposta unica e' stabilita, ai sensi del comma 945 dell'articolo 1 della legge 28 dicembre 2015, n. 208, nella misura del 20 per cento delle somme che, in base al regolamento di gioco, non risultano restituite al giocatore.
+
+3.
+                    
+                        
+                            Con provvedimenti dell'Agenzia delle dogane e dei monopoli sono definiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di versamento dell'imposta unica, sentito il Dipartimento della Ragioneria generale dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'importo minimo da destinare al montepremi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'importo da destinare al jackpot; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la misura del compenso del concessionario.
 
 ## Art. 4. — Disposizioni transitorie e finali
 

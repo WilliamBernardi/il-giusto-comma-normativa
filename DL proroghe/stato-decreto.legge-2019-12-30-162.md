@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2025-10-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -36,7 +36,43 @@ All'articolo 22, comma 15, del decreto legislativo 25 maggio 2017, n. 75, al pri
 
 All'articolo 1, comma 497, della legge 27 dicembre 2019, n. 160, le parole: "31 marzo 2020" sono sostituite dalle seguenti: "30 giugno 2020" e le parole: "31 gennaio 2020" sono sostituite dalle seguenti: "30 aprile 2020".
 
+2.
+                        
+                            
+                                All'articolo 1 del decreto-legge 29 dicembre 2011, n. 216, convertito, con modificazioni, dalla legge 24 febbraio 2012, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, le parole «31 dicembre 2019», ovunque ricorrano, sono sostituite dalle seguenti: «31 dicembre 2020»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 6-quater, le parole «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2023».
+
 All'articolo 1, comma 5, del decreto-legge 30 dicembre 2013, n. 150, convertito, con modificazioni, dalla legge 27 febbraio 2014, n. 15, le parole «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2020».
+
+4.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 1, comma 227, della legge 28 dicembre 2015, n. 208, all'articolo 1 del decreto-legge 31 dicembre 2014, n. 192, convertito, con modificazioni, dalla legge 27 febbraio 2015, n. 11, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, le parole «negli anni 2013, 2014, 2015, 2016 e 2017» sono sostituite dalle seguenti: «negli anni 2013, 2014, 2015, 2016, 2017 e 2018» e le parole «31 dicembre 2019», ovunque ricorrano, sono sostituite dalle seguenti: «31 dicembre 2020»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4, le parole «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2020».
 
 All'articolo 1, comma 1148, lettera e), della legge 27 dicembre 2017, n. 205, le parole «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2020».
 
@@ -47,6 +83,31 @@ Il Ministero della salute e' autorizzato, in aggiunta alle facolta' assunzionali
 Al fine di semplificare e accelerare il riordino dell'organizzazione degli uffici del Ministero della giustizia, del Ministero della salute e del Ministero del lavoro e delle politiche sociali, compresi quelli di diretta collaborazione, e' autorizzata per i medesimi, fino al 31 ottobre 2020, l'utilizzazione delle procedure di cui all'articolo 4-bis del decreto-legge 12 luglio 2018, n. 86, convertito, con modificazioni, dalla legge 9 agosto 2018, n. 97. Dall'attuazione del presente comma non devono derivare nuovi o maggiori oneri per la finanza pubblica. (5)
 
 All'articolo 2, comma 15, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, le parole «31 dicembre 2018» sono sostituite dalle seguenti: «31 dicembre 2020». La percentuale di cui al comma 6 dell'articolo 19 del decreto legislativo 30 marzo 2001, n. 165, puo' essere elevata dall'8 per cento al 10 per cento, a valere sulle facolta' assunzionali di ciascuna amministrazione. La percentuale del 30 per cento di cui al comma 6-quater del citato articolo 19 del decreto legislativo n. 165 del 2001 puo' essere elevata al ((45 per cento)), a valere sulle facolta' assunzionali di ciascuno degli enti di ricerca indicati nel predetto comma 6-quater e ferma restando la disciplina ivi prevista.
+
+7.
+                        
+                            
+                                Fino alla data di entrata in vigore del regolamento di cui al terzo periodo, nelle more dell'adozione dei provvedimenti di adeguamento alla sentenza della Corte costituzionale 23 gennaio 2019, n. 20, ai soggetti di cui all'articolo 14, comma 1-bis, del decreto legislativo 14 marzo 2013, n. 33, ad esclusione dei titolari degli incarichi dirigenziali previsti dall'articolo 19, commi 3 e 4, del decreto legislativo 30 marzo 2001, n. 165, non si applicano le misure di cui agli articoli 46 e 47 del medesimo decreto legislativo n. 33 del 2013. Fermo restando quanto previsto alla lettera c) del presente comma, per i titolari degli incarichi dirigenziali previsti dal citato articolo 19, commi 3 e 4, del decreto legislativo n. 165 del 2001, continua a trovare piena applicazione la disciplina di cui all'articolo 14 del citato decreto legislativo n. 33 del 2013. Con regolamento da adottarsi entro il 30 aprile 2021, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del Ministro per la pubblica amministrazione, di concerto con il Ministro della giustizia, il Ministro dell'interno, il Ministro dell'economia e delle finanze, il Ministro degli affari esteri e della cooperazione internazionale e il Ministro della difesa, sentito il Garante per la protezione dei dati personali, sono individuati i dati di cui al comma 1 dell'articolo 14 del decreto legislativo 14 marzo 2013, n. 33, che le pubbliche amministrazioni e i soggetti di cui all'articolo 2-bis, comma 2, del medesimo decreto legislativo devono pubblicare con riferimento ai titolari amministrativi di vertice e di incarichi dirigenziali, comunque denominati, nonche' ai dirigenti sanitari di cui all'articolo 41, comma 2, dello stesso decreto legislativo, ivi comprese le posizioni organizzative ad essi equiparate, nel rispetto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    graduazione degli obblighi di pubblicazione dei dati di cui al comma 1, lettere b) ed e), dell'articolo 14, comma 1, del decreto legislativo 14 marzo 2013, n. 33, in relazione al rilievo esterno dell'incarico svolto, al livello di potere gestionale e decisionale esercitato correlato all'esercizio della funzione dirigenziale, tenuto anche conto della complessita' della struttura cui e' preposto il titolare dell'incarico, fermo restando per tutti i titolari di incarichi dirigenziali l'obbligo di comunicazione dei dati patrimoniali e reddituali di cui all'articolo 13, comma 3, del regolamento di cui al decreto del Presidente della Repubblica 16 aprile 2013, n. 62; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    previsione che i dati di cui all'articolo 14, comma 1, lettera f), del decreto legislativo 14 marzo 2013, n. 33, possano essere oggetto anche di sola comunicazione all'amministrazione di appartenenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuazione, anche in deroga all'obbligo di pubblicazione per i titolari di incarichi dirigenziali di cui all'articolo 19, commi 3 e 4, del decreto legislativo 30 marzo 2001, n. 165, dei dirigenti dell'amministrazione dell'interno, degli affari esteri e della cooperazione internazionale, delle forze di polizia, delle forze armate e dell'amministrazione penitenziaria nonche' dei titolari di incarichi di vertice e di funzione dirigenziale dell'Agenzia per la cybersicurezza nazionale, per i quali non sono pubblicati i dati di cui all'articolo 14 del decreto legislativo 14 marzo 2013, n. 33, in ragione del pregiudizio alla sicurezza nazionale interna ed esterna e all'ordine e sicurezza pubblica, nonche' in rapporto ai compiti svolti per la tutela delle istituzioni democratiche e di difesa dell'ordine e della sicurezza interna ed esterna.
 
 Al fine di garantire l'immediata ed effettiva applicazione della misura di tutela di cui alla lettera c) del comma 7 del presente articolo, le amministrazioni ivi indicate possono individuare, con decreto dell'Autorita' politica competente, da emanare entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, i dirigenti per i quali non sono pubblicati i dati di cui all'articolo 14 del decreto legislativo 14 marzo 2013, n. 33, in ragione dei motivi indicati alla citata lettera c) del comma 7.
 
@@ -60,9 +121,49 @@ Agli oneri derivanti dalla disposizione di cui al comma 7-quinquies, pari a 259.
 
 All'articolo 65, comma 2, del decreto legislativo 13 dicembre 2017, n. 217, le parole «31 dicembre 2019.» sono sostituite dalle seguenti: «30 giugno 2020. Anche al fine di consentire i pagamenti digitali da parte dei cittadini, i soggetti di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, sono tenuti, entro il 30 giugno 2020, a integrare i loro sistemi di incasso con la piattaforma di cui all'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82, ovvero ad avvalersi, a tal fine, di servizi forniti da altri soggetti di cui allo stesso articolo 2, comma 2, o da fornitori di servizi di incasso gia' abilitati ad operare sulla piattaforma. Il mancato adempimento dell'obbligo di cui al precedente periodo rileva ai fini della misurazione e della valutazione della performance individuale dei dirigenti responsabili e comporta responsabilita' dirigenziale e disciplinare ai sensi degli articoli 21 e 55 del decreto legislativo 30 marzo 2001, n. 165.».
 
+8-bis.
+                        
+                            
+                                All'articolo 7 della legge 23 luglio 2009, n. 99, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2-bis, le parole: "sulla base del contratto annotato nell'archivio nazionale dei veicoli ai sensi dell'articolo 94, comma 4-bis, del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285" sono sostituite dalle seguenti: "sulla base dei dati acquisiti al sistema informativo di cui all'articolo 51, comma 2-bis, del decreto-legge 26 ottobre 2019, n. 124, convertito, con modificazioni, dalla legge 19 dicembre 2019, n. 157, secondo le modalita' di cui ai commi 3-ter e 3-quater del presente articolo" e le parole: "del contratto di locazione finanziaria" sono sostituite dalle seguenti: "del contratto"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3 sono aggiunti i seguenti: 
+ "3-bis. Con riferimento ai periodi tributari in scadenza nel primo semestre dell'anno 2020, per i veicoli concessi in locazione a lungo termine senza conducente le somme dovute a titolo di tassa automobilistica sono versate entro il 31 luglio 2020 senza l'applicazione di sanzioni e interessi. 
+ 3-ter. Per le fattispecie di cui al comma 3-bis, i dati necessari all'individuazione dei soggetti tenuti al pagamento della tassa automobilistica sono acquisiti a titolo non oneroso, secondo le modalita' di cui al comma 3-quater del presente articolo, al sistema informativo di cui all'articolo 51, comma 2-bis, del decreto-legge 26 ottobre 2019, n. 124, convertito, con modificazioni, dalla legge 19 dicembre 2019, n. 157, e confluiscono negli archivi dell'Agenzia delle entrate, delle regioni e delle Province autonome di Trento e di Bolzano al fine di consentire il corretto svolgimento dell'attivita' di gestione della tassa automobilistica ai sensi dell'articolo 17 della legge 27 dicembre 1997, n. 449. 
+ 3-quater. Con decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero delle infrastrutture e dei trasporti, da adottare entro il 30 aprile 2020, sentiti il gestore del sistema informativo di cui all'articolo 51, comma 2-bis, del decreto-legge 26 ottobre 2019, n. 124, convertito, con modificazioni, dalla legge 19 dicembre 2019, n. 157, e l'Agenzia delle entrate, previo parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, sono definite le modalita' operative per l'acquisizione dei dati di cui al comma 3-ter del presente articolo, anche attraverso il coinvolgimento e la collaborazione delle associazioni rappresentative delle societa' di locazione a lungo termine. 
+ 3-quinquies. Dall'attuazione del comma 3-quater non devono derivare nuovi o maggiori oneri per la finanza pubblica".
+
 Il termine di cui all'articolo 30, comma 5, del decreto-legge 30 aprile 2019, n. 34, convertito, con modificazioni, dalla legge 28 giugno 2019, n. 58, e' differito al 31 ottobre 2020, per i comuni che non hanno potuto provvedere alla consegna dei lavori entro il termine del 31 ottobre 2019.
 
 All'articolo 2, comma 5, del decreto-legge 30 dicembre 2016, n. 244, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 19, le parole «per un periodo di tre anni e» sono sostituite dalle seguenti: «per una durata pari a quella dell'affidamento del servizio postale universale». L'applicazione della presente norma e' subordinata all'autorizzazione della Commissione europea ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea.
+
+9-bis.
+                        
+                            
+                                All'articolo 177, comma 2, del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: "il 31 dicembre 2020" sono sostituite dalle seguenti: "il 31 dicembre 2021"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' aggiunto, in fine, il seguente periodo: "Le concessioni di cui al comma 1, terzo periodo, gia' in essere si adeguano alle predette disposizioni entro il 31 dicembre 2020".
 
 Per continuare ad assicurare il supporto tecnico necessario allo svolgimento dei compiti istituzionali dell'Osservatorio nazionale sulla condizione delle persone con disabilita', di cui all'articolo 3 della legge 3 marzo 2009, n. 18, e' prorogata fino al 31 dicembre 2020 la segreteria tecnica gia' costituita presso la soppressa Struttura di missione per le politiche in favore delle persone con disabilita' di cui al decreto del Presidente del Consiglio dei ministri 25 ottobre 2018. Agli oneri per i compensi degli esperti della segreteria tecnica, per un importo complessivo non superiore a 316.800 euro, si provvede a valere sulle risorse disponibili del bilancio autonomo della Presidenza del Consiglio dei ministri.
 
@@ -73,6 +174,24 @@ Le proposte di cui al comma 10-bis, corredate della relativa documentazione, son
 Il riconoscimento delle qualifiche dei partigiani, di cui agli articoli da 7 a 10 del decreto legislativo luogotenenziale 21 agosto 1945, n. 518, ha effetti solo ai fini delle ricompense al valore, senza nuovi o maggiori oneri per la finanza pubblica.
 
 All'attuazione dei commi 10-bis e 10-ter la Presidenza del Consiglio dei ministri e il Ministero della difesa provvedono nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
+
+10-sexies.
+                        
+                            
+                                Al comma 9 dell'articolo 30-ter del decreto-legge 30 aprile 2019, n. 34, convertito, con modificazioni, dalla legge 28 giugno 2019, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il primo periodo e' inserito il seguente: "Per l'anno 2020 la richiesta di cui al primo periodo puo' essere presentata fino al 30 settembre"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo periodo, le parole: "periodo precedente" sono sostituite dalle seguenti: "primo periodo".
 
 Per l'anno 2020, il termine di cui all'articolo 1, comma 52, della legge 27 dicembre 2019, n. 160, e' differito dal 15 gennaio al 15 maggio e il termine di cui all'articolo 1, comma 53, della citata legge n. 160 del 2019 e' differito dal 28 febbraio al 30 giugno. Sono fatte salve le richieste di contributo comunicate dagli enti locali dopo il 15 gennaio 2020 e fino alla data di entrata in vigore della legge di conversione del presente decreto.
 
@@ -117,6 +236,31 @@ All'articolo 1, comma 1, del decreto-legge 7 agosto 2019, n. 75, convertito, con
 
 All'articolo 17, comma 4-quater, del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35, le parole «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2020».
 
+2.
+                        
+                            
+                                All'articolo 1, comma 594, della legge 30 dicembre 2018, n. 145 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo la parola «penale» sono aggiunte le seguenti: «e di deformazione dell'aspetto della persona mediante lesioni permanenti al viso ai sensi dell'articolo 583-quinquies del codice penale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole «fino al 30 settembre 2019» sono sostituite dalle seguenti: «fino al 31 dicembre 2020»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le parole «1° agosto 2019» sono sostituite dalle seguenti «31 ottobre 2020».
+
 All'articolo 4, comma 2-bis, del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, le parole «Fino al 31 gennaio 2020» sono sostituite dalle seguenti: «Fino al 31 gennaio 2021».
 
 All'articolo 5, comma 5, secondo periodo, del decreto-legge 12 luglio 2011, n. 107, convertito, con modificazioni, dalla legge 2 agosto 2011, n. 130, le parole «31 dicembre 2019» sono sostituite dalle seguenti: «30 giugno 2020».
@@ -127,9 +271,44 @@ Limitatamente ai rifugi alpini, il termine di cui all'articolo 38, comma 2, del 
 
 ## Art. 4. — Proroga di termini in materia economica e finanziaria
 
+1.
+                        
+                            
+                                All'articolo 6-bis del decreto-legge 28 settembre 2018 n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «nel corso dell'anno 2019» sono sostituite dalle seguenti «nel corso dell'anno 2020»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, la parola «2018» e' sostituita dalla seguente:
+«2019».
+
 All'articolo 3, comma 1, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, le parole «2018 e 2019» sono sostituite dalle seguenti: «2018, 2019 e 2020».
 
 All'articolo 2, comma 2, del decreto legislativo 16 marzo 2018, n. 29, le parole «30 giugno 2019» sono sostituite dalle seguenti: «31 dicembre 2019» e le parole «31 dicembre 2019» sono sostituite dalle seguenti: «30 giugno 2020».
+
+3-bis.
+                        
+                            
+                                Il termine per l'adozione delle misure di cui all'articolo 13, comma 5-bis, del decreto-legge 30 dicembre 2016, n. 244, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 19, e' prorogato al 31 marzo 2023. Ai fini dell'adozione delle misure di cui al primo, terzo e quarto periodo del presente comma, possono essere utilizzate anche le risorse disponibili, dalla data di entrata in vigore della legge di conversione del presente decreto, nel Fondo istituito ai sensi dell'articolo 32-ter.1 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, ferme restando le prioritarie finalita' ivi previste. In relazione a quanto previsto al secondo periodo del presente comma, la CONSOB puo' esercitare gli ulteriori poteri previsti dall'articolo 36, comma 2-terdecies, del decreto-legge 30 aprile 2019, n. 34, convertito, con modificazioni, dalla legge 28 giugno 2019, n. 58, per la rimozione delle iniziative di chiunque nel territorio della Repubblica, attraverso le reti telematiche o di telecomunicazione: 
+                            
+                            
+                                a)
+                                
+                                    offra al pubblico prodotti finanziari in difetto del prescritto prospetto;
+                                
+                            
+                            
+                                b)
+                                
+                                    diffonda annunci pubblicitari relativi ad offerte al pubblico di prodotti finanziari diversi dagli strumenti finanziari comunitari prima della pubblicazione del prescritto prospetto. Tra le misure che la CONSOB puo' adottare ai sensi dell'articolo 7-quater del citato testo unico di cui al decreto legislativo n. 58 del 1998 devono intendersi comprese anche quelle applicabili esercitando i poteri previsti dal menzionato articolo 36, comma 2-terdecies, del decreto-legge n. 34 del 2019, convertito, con modificazioni, dalla legge n. 58 del 2019. (28) ((37))
 
 Il termine di cui all'articolo 1, comma 181, terzo periodo, della legge 27 dicembre 2013, n. 147, e' prorogato di ulteriori ventiquattro mesi.
 
@@ -167,6 +346,24 @@ All'articolo 1, comma 1089, della legge 30 dicembre 2018, n. 145, le parole: "no
 Alle operazioni di cartolarizzazione dei crediti realizzate mediante concessione di finanziamenti si applica, in quanto compatibile, anche l'articolo 4 della legge 30 aprile 1999, n. 130.
 Nelle operazioni di cui all'articolo 7, comma 1, lettera a), della citata legge n. 130 del 1999, il soggetto finanziato, ai fini della costituzione del patrimonio destinato, adotta un'apposita deliberazione contenente l'indicazione dei diritti e dei beni destinati, anche individuabili in blocco, dei soggetti a cui vantaggio la destinazione e' effettuata, dei diritti a essi attribuiti e delle modalita' con le quali e' possibile disporre, integrare e sostituire elementi del patrimonio destinato, nonche' i limiti e le circostanze in cui il soggetto finanziato puo' utilizzare le somme derivanti dal patrimonio destinato. La deliberazione deve essere depositata e iscritta ai sensi dell'articolo 2436 del codice civile. Dalla data di iscrizione della deliberazione, tali crediti, beni, diritti e rapporti giuridici sono destinati esclusivamente al soddisfacimento dei diritti dei soggetti a cui vantaggio la destinazione e' effettuata e costituiscono patrimonio separato a tutti gli effetti da quello del soggetto finanziato e dagli altri patrimoni destinati. Fino al completo soddisfacimento dei diritti dei soggetti a cui vantaggio la destinazione e' effettuata, sul patrimonio oggetto di destinazione, come identificato nella deliberazione, sono ammesse azioni soltanto a tutela dei diritti dei predetti soggetti. Delle obbligazioni nei confronti dei soggetti a cui vantaggio la destinazione e' effettuata il soggetto finanziato risponde esclusivamente nei limiti del patrimonio ad essi destinato e dei crediti, beni e diritti ad essi attribuiti, salvo che la deliberazione non disponga diversamente. Nel caso di sottoposizione del soggetto finanziato a una procedura concorsuale o di gestione delle crisi, i contratti relativi a ciascun patrimonio destinato e quelli ivi inclusi continuano ad avere esecuzione e continuano ad applicarsi le disposizioni dell'articolo 7, comma 2-octies, della citata legge n. 130 del 1999. Gli organi della procedura possono trasferire i diritti e i beni compresi in ciascun patrimonio destinato e le relative passivita' alla societa' di cartolarizzazione o a un altro soggetto identificato dalla societa' di cartolarizzazione stessa.
 
+3.
+                        
+                            
+                                All'articolo 1, comma 1-ter, alinea, della legge 30 aprile 1999, n. 130, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo le parole: "1 e 1-bis del presente articolo" sono inserite le seguenti: "ovvero all'articolo 7, comma 1, lettera a)"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo le parole: "inferiore a 2 milioni di euro," sono inserite le seguenti: "direttamente ovvero per il tramite di una banca o di un intermediario finanziario iscritto nell'albo di cui all'articolo 106 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, che agisce in nome proprio,".
+
 Dopo il comma 1-ter dell'articolo 1 della legge 30 aprile 1999, n. 130, e' inserito il seguente: 
  "1-quater. Nel caso in cui il finanziamento di cui al comma 1-ter abbia luogo per il tramite di una banca o di un intermediario finanziario iscritto nell'albo di cui all'articolo 106 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, ai crediti nascenti dallo stesso, ai relativi incassi e ai proventi derivanti dall'escussione o dal realizzo dei beni e dei diritti che in qualunque modo costituiscano la garanzia del rimborso di tali crediti si applica altresi' l'articolo 7, comma 2-octies, della presente legge".
 
@@ -201,7 +398,25 @@ All'articolo 38, comma 1-novies, secondo periodo, del decreto-legge 30 aprile 20
 
 ## Art. 5-bis. — (Disposizioni in materia di medici specializzandi e dirigenti medici del Servizio sanitario nazionale)
 
+1.
+                        
+                            
+                                All'articolo 1 della legge 30 dicembre 2018, n. 145, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 547, le parole: "I medici e i medici veterinari iscritti all'ultimo anno del corso di formazione specialistica nonche', qualora questo abbia durata quinquennale, al penultimo anno del relativo corso" sono sostituite dalle seguenti: "A partire dal terzo anno del corso di formazione specialistica, i medici e i medici veterinari regolarmente iscritti"; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 548-bis, al primo periodo, le parole: "fino al 31 dicembre 2021" sono sostituite dalle seguenti: "fino al 31 dicembre 2022" e, al settimo periodo, dopo le parole: "sono definite" sono inserite le seguenti: ", sulla base dell'accordo quadro adottato con decreto del Ministro dell'universita' e della ricerca, di concerto con il Ministro della salute, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano,".
+
+((2. Al fine di assicurare un efficace assolvimento dei compiti primari di tutela della salute affidati al Ministero della salute, di garantire l'erogazione dei livelli essenziali di assistenza e di fronteggiare la carenza di medici specialisti e di specialisti biologi, chimici, farmacisti, fisici, odontoiatri e psicologi, fino al 31 dicembre 2022, in deroga al comma 1 dell'articolo 15-nonies del decreto legislativo 30 dicembre 1992, n. 502, i dirigenti medici e sanitari del Servizio sanitario nazionale nonche' i dirigenti di cui all'articolo 17, comma 1, della legge 11 gennaio 2018, n. 3, possono presentare domanda di autorizzazione per il trattenimento in servizio anche oltre il limite del quarantesimo anno di servizio effettivo, comunque non oltre il settantesimo anno di eta'))
 
 ## Art. 6.
 
@@ -225,6 +440,44 @@ All'articolo 21, comma 2, del decreto legislativo 13 aprile 2017, n. 62, il seco
 
 Per l'anno scolastico 2019/2020, le istituzioni scolastiche applicano l'articolo 21, comma 2, del decreto legislativo 13 aprile 2017, n. 62, come modificato dal comma 5-quater del presente articolo, su base sperimentale e facoltativa.
 
+5-sexies.
+                        
+                            
+                                L'applicazione delle misure di sostegno per l'accesso dei giovani alla ricerca e per la competitivita' del sistema universitario italiano a livello internazionale, previste dall'articolo 1, comma 401, della legge 30 dicembre 2018, n. 145, e' prorogata per l'anno 2021. Sono pertanto autorizzate, in deroga alle vigenti facolta' assunzionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'anno 2020, l'assunzione di ricercatori di cui all'articolo 24, comma 3, lettera b), della legge 30 dicembre 2010, n. 240, nel limite di spesa di 96,5 milioni di euro annui a decorrere dall'anno 2021. Con decreto del Ministro dell'universita' e della ricerca, da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, le risorse sono ripartite tra le universita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'anno 2022, la progressione di carriera dei ricercatori universitari a tempo indeterminato in possesso di abilitazione scientifica nazionale, nel limite di spesa di ((30 milioni di euro)) annui a decorrere dall'anno 2022. Con decreto del Ministro dell'universita' e della ricerca, da adottare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, le risorse sono ripartite tra le universita'. Con riferimento alle risorse di cui alla presente lettera le universita' statali sono autorizzate a bandire procedure per la chiamata di professori universitari di seconda fascia riservate ai ricercatori universitari a tempo indeterminato in possesso di abilitazione scientifica nazionale secondo quanto di seguito indicato: 
+ 1) ((fino al)) 50 per cento dei posti, ai sensi dell'articolo 18 della legge 30 dicembre 2010, n. 240; 
+ 2) ((per almeno il)) 50 per cento dei posti, entro il 31 dicembre 2022, ai sensi dell'articolo 24, comma 6, della legge 30 dicembre 2010, n. 240.
+
+5-septies.
+                        
+                            
+                                Per le finalita' di cui al comma 5-sexies, il Fondo per il finanziamento ordinario delle universita', di cui all'articolo 5, comma 1, lettera a), della legge 24 dicembre 1993, n. 537, e' incrementato di 96,5 milioni di euro per l'anno 2021 e di 111,5 milioni di euro annui a decorrere dall'anno 2022. Agli oneri derivanti dal presente comma si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 96,5 milioni di euro annui a decorrere dall'anno 2021, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 240, della legge 27 dicembre 2019, n. 160; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 15 milioni di euro annui a decorrere dall'anno 2022, mediante corrispondente riduzione del Fondo per far fronte ad esigenze indifferibili, di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190.
+
 All'articolo 1, comma 244, della legge 30 dicembre 2018, n. 145, sono aggiunti, in fine, i seguenti periodi: "Per le medesime finalita' di cui al primo periodo e' autorizzata la spesa di 600.000 euro per l'anno 2020 e di 300.000 euro per l'anno 2021. Agli oneri derivanti dal secondo periodo si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190".
 
 All'articolo 20-bis, comma 4, del decreto-legge 9 febbraio 2017, n. 8, convertito, con modificazioni, dalla legge 7 aprile 2017, n. 45, le parole: "Entro il 31 dicembre 2018" sono sostituite dalle seguenti: "Entro il 31 dicembre 2021".
@@ -244,16 +497,113 @@ All'articolo 11, comma 14, del decreto-legge 8 agosto 2013, n. 91, convertito, c
 
 ((1-bis. All'articolo 24, comma 3-bis, lettera b), del decreto-legge 24 giugno 2016, n. 113, convertito, con modificazioni, dalla legge 7 agosto 2016, n. 160, le parole: "31 dicembre 2019" sono sostituite dalle seguenti: "31 dicembre 2020"))
 
+2.
+                        
+                            
+                                All'articolo 1, comma 346, della legge 28 dicembre 2015, n. 208, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, dopo le parole «di beni e di servizi nonche'» sono aggiunte le seguenti: «, fino al 31 dicembre 2020,»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo periodo, le parole «Fino al 31 dicembre 2019» sono sostituite dalle seguenti: «Fino al 31 dicembre 2020»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il quinto periodo, e' inserito il seguente: «Per l'anno 2020 il comune di Matera puo' provvedere, nel limite massimo di spesa ((di 1.200.000 euro)), a valere sulle proprie risorse finanziarie disponibili a legislazione vigente».
+
+3.
+                        
+                            
+                                All'articolo 1, comma 347, della legge 28 dicembre 2015, n. 208, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al secondo periodo, le parole «fino al 31 dicembre 2019» sono sostituite dalle seguenti: «fino al 31 dicembre 2020»;
+
 ((3-bis. All'articolo 1, comma 355, della legge 28 dicembre 2015, n. 208, le parole: "entro l'esercizio finanziario 2019" sono sostituite dalle seguenti: "entro l'esercizio finanziario 2020"))
+
+4.
+                        
+                            
+                                All'articolo 2, comma 5-ter, del decreto-legge 31 maggio 2014, n. 83, convertito, con modificazioni, dalla legge 29 luglio 2014, n. 106, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2022» e le parole: «per ciascuno degli anni 2017, 2018 e 2019» sono sostituite dalle seguenti: «per ciascuno degli anni dal 2017 al 2022»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo periodo e' soppresso.
 
 ((4-bis. All'articolo 2 del decreto-legge 31 maggio 2014, n. 83, convertito, con modificazioni, dalla legge 29 luglio 2014, n. 106, dopo il comma 5-ter e' inserito il seguente: 
  "5-quater. Il contingente di cinque esperti della struttura di supporto al Direttore generale di progetto, di cui all'articolo 1, comma 2, del decreto-legge 8 agosto 2013, n. 91, convertito, con modificazioni, dalla legge 7 ottobre 2013, n. 112, e' integrato da un esperto in mobilita' e trasporti e da un esperto in tecnologie digitali incaricati ai sensi dell'articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165. Agli oneri derivanti dal presente comma, nel limite complessivo di 150.000 euro per ciascuno degli anni 2020, 2021 e 2022, si provvede a valere sulle risorse disponibili nel bilancio del Parco archeologico di Pompei"))
 
 All'articolo 11-bis, comma 2, primo periodo, del decreto legislativo 12 maggio 2016, n. 90, le parole «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2020».
 
+6.
+                        
+                            
+                                All'articolo l, comma 343, della legge 30 dicembre 2018, n. 145, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2020»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole «per l'anno 2019» sono sostituite dalle seguenti: «per ciascuno degli anni 2019 e 2020»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo le parole «29 luglio 2014, n. 106» sono inserite le seguenti: «, fermo restando il limite della durata massima complessiva di trentasei mesi, anche non consecutivi, dei medesimi contratti».
+
 Agli oneri derivanti dal comma 6, pari a un milione di euro per l'anno 2020, si provvede mediante ((corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2020-2022, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero per i beni e le attivita' culturali e per il turismo)).
 
 .
+
+9.
+                        
+                            
+                                All'articolo 1, comma 627, della legge 11 dicembre 2016, n. 232, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, dopo le parole «per ciascuno degli anni 2017, 2018 e 2019» sono inserite le seguenti: ((e di 2 milioni di euro annui a decorrere dall'anno 2020)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo periodo e' soppresso.
 
 Le modalita' di accesso e i criteri di riparto del fondo di cui all'articolo 1, comma 627, della legge 11 dicembre 2016, n. 232, sono determinati con decreto del Ministro per i beni e le attivita' culturali e per il turismo da adottare, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto.((Agli oneri derivanti dal comma 9, pari a 2 milioni di euro annui a decorrere dall'anno 2020, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2020-2022, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero per i beni e le attivita' culturali e per il turismo. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio)).
 
@@ -271,6 +621,69 @@ A decorrere dall'anno scolastico 2020/2021, e' autorizzata la trasformazione da 
 
 Alle assunzioni di cui al comma 10-sexies si provvede nei limiti di spesa di 3 milioni di euro per l'anno 2020 e di 9 milioni di euro annui a decorrere dall'anno 2021. Al relativo onere si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190.
 
+10-octies.
+                        
+                            
+                                Al fine di migliorare la qualificazione dei servizi scolastici, di ridurre il sovraffollamento nelle classi e di favorire l'inclusione degli alunni e delle alunne con disabilita' grave, l'organico del personale docente di cui all'articolo 1, comma 64, della legge 13 luglio 2015, n. 107, e' incrementato, con riferimento alla scuola secondaria di secondo grado, in misura corrispondente a una maggiore spesa di personale pari a 6,387 milioni di euro per l'anno 2020, a 25,499 milioni di euro per l'anno 2021 e a 23,915 milioni di euro annui a decorrere dall'anno 2022. Con il decreto di cui al predetto articolo 1, comma 64, della legge n. 107 del 2015 i nuovi posti sono ripartiti tra le regioni, sulla base dei seguenti parametri e principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ripartizione delle risorse tra le regioni tenuto conto del numero di classi con un numero di iscritti superiore a 22 unita', ridotte a 20 unita' in presenza di un alunno o studente con disabilita' grave certificata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    monitoraggio comparativo dei risultati conseguiti, con riguardo agli apprendimenti, all'inclusione e alla permanenza scolastica.
+
+10-novies.
+                        
+                            
+                                Agli oneri derivanti dal comma 10-octies, pari a 6,387 milioni di euro per l'anno 2020, a 25,499 milioni di euro per l'anno 2021 e a 23,915 milioni di euro annui a decorrere dall'anno 2022, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 6,387 milioni di euro per l'anno 2020, a 20,015 milioni di euro per l'anno 2021, a 12,169 milioni di euro per l'anno 2022 e a 23,915 milioni di euro annui a decorrere dall'anno 2023, mediante corrispondente riduzione del fondo di cui all'articolo 1, comma 202, della legge 13 luglio 2015, n. 107; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 5,484 milioni di euro per l'anno 2021 e a 11,746 milioni di euro per l'anno 2022, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 634, della legge 27 dicembre 2006, n. 296.
+
+10-decies.
+                        
+                            
+                                Alla legge 29 dicembre 2017, n. 226, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 2, comma 1, alinea, le parole: "2018 e 2019" sono sostituite dalle seguenti: "2018, 2019 e 2020"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 3: 
+ 1) al comma 3, le parole: "31 dicembre 2019" sono sostituite dalle seguenti: "31 dicembre 2020"; 
+ 2) al comma 5, le parole: "31 dicembre 2019" sono sostituite dalle seguenti: "31 dicembre 2020"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 4, comma 1, le parole: "per ciascuno degli anni 2017 e 2018" sono sostituite dalle seguenti: "per ciascuno degli anni 2017, 2018 e 2020".
+
 Agli oneri derivanti dal comma 10-decies, pari ad euro 350.000 per l'anno 2020, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190.
 
 Il contributo di cui all'articolo 1, comma 385, lettera h), della legge 28 dicembre 2015, n. 208, in favore della Fondazione "I Lincei per la scuola" presso l'Accademia nazionale dei Lincei e' prorogato per l'anno 2020.
@@ -284,6 +697,24 @@ All'articolo 1, comma 1, del decreto-legge 29 ottobre 2019, n. 126, convertito, 
 ## Art. 8. — Proroga di termini in materia di giustizia
 
 All'articolo 3, comma 1-bis, del decreto-legge 23 dicembre 2013, n. 146, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 10, le parole «fino al 31 dicembre 2019» sono sostituite dalle seguenti: «fino al 31 dicembre 2020».
+
+2.
+                        
+                            
+                                All'articolo 21-quinquies del decreto-legge 27 giugno 2015, n. 83, convertito, con modificazioni, dalla legge 6 agosto 2015, n. 132, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2020»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, le parole «per ciascuno degli anni 2018 e 2019» sono sostituite dalle seguenti: «per ciascuno degli anni 2018, 2019 e 2020».
 
 All'articolo 4, comma 2, del decreto-legge 31 agosto 2016, n. 168, convertito, con modificazioni, dalla legge 25 ottobre 2016, n. 197, le parole «fino al 31 dicembre 2019» sono sostituite dalle seguenti: «fino al 31 dicembre 2020, salvo nulla osta della stessa amministrazione della giustizia».
 
@@ -305,6 +736,31 @@ All'articolo 49, comma 1, della legge 31 dicembre 2012, n. 247, la parola: "sett
 "nove".
 
 All'articolo 379, comma 3, primo periodo, del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14, le parole: "entro nove mesi dalla predetta data" sono sostituite dalle seguenti: "entro la data di approvazione dei bilanci relativi all'esercizio 2019, stabilita ai sensi dell'articolo 2364, secondo comma, del codice civile".
+
+6-septies.
+                        
+                            
+                                All'articolo 10 del decreto legislativo 19 febbraio 2014, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: "31 dicembre 2021" sono sostituite dalle seguenti: "31 dicembre 2022"; conseguentemente, il termine di cui al comma 13 del medesimo articolo 10 del decreto legislativo n. 14 del 2014, limitatamente alla sezione distaccata di Ischia, e' prorogato al 1° gennaio 2023; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole: "31 dicembre 2021" sono sostituite dalle seguenti: "31 dicembre 2022"; conseguentemente, il termine di cui al comma 13 del medesimo articolo 10 del decreto legislativo n. 14 del 2014, limitatamente alla sezione distaccata di Lipari, e' prorogato al 1° gennaio 2023; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, le parole: "31 dicembre 2021" sono sostituite dalle seguenti: "31 dicembre 2022"; conseguentemente, il termine di cui al comma 13 del medesimo articolo 10 del decreto legislativo n. 14 del 2014, limitatamente alla sezione distaccata di Portoferraio, e' prorogato al 1° gennaio 2023.
 
 Agli oneri derivanti dalle disposizioni di cui al comma 6-septies, pari a euro 160.000 per l'anno 2022, si provvede mediante corrispondente riduzione della proiezione, per il medesimo anno, dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2020-2022, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della giustizia.
 
@@ -361,6 +817,24 @@ All'Agenzia nazionale per le politiche attive del lavoro e' assegnata la somma d
 
 Fermo restando quanto disposto dal comma 1 del presente articolo e dall'articolo 4, comma 2-ter, del decreto-legge 3 settembre 2019, n. 101, convertito, con modificazioni, dalla legge 2 novembre 2019, n. 128, considerato il ruolo attribuito alla societa' ANPAL Servizi Spa dall'articolo 12, comma 3, del decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2019, n. 26, al fine di procedere ad assunzioni di personale con rapporto di lavoro subordinato a tempo indeterminato e di realizzare quanto disposto dall'articolo 4, comma 2-bis, del citato decreto-legge n. 101 del 2019, convertito, con modificazioni, dalla legge n. 128 del 2019, sono destinate alla societa' ANPAL Servizi Spa ulteriori risorse pari a 1 milione di euro per l'anno 2020 e a 2 milioni di euro annui a decorrere dall'anno 2021, destinate alle spese per il personale. Ai relativi oneri si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190.
 
+2.
+                        
+                            
+                                All'articolo 16-quinquies, comma 2, del decreto-legge 30 aprile 2019, n. 34, convertito, con modificazioni, dalla legge 28 giugno 2019, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il secondo periodo e' sostituito dal seguente: «Entro il termine perentorio del 30 giugno 2020, l'INPGI trasmette ai Ministeri vigilanti un bilancio tecnico attuariale, redatto in conformita' a quanto previsto dal comma 2 dell'articolo 2 del citato decreto legislativo n. 509 del 1994, che tenga conto degli effetti derivanti dall'attuazione delle disposizioni del primo periodo del presente comma, e sino alla medesima data e' sospesa, con riferimento alla sola gestione sostitutiva dell'INPGI, l'efficacia delle disposizioni di cui al comma 4 dell'articolo 2 del citato decreto legislativo n. 509 del 1994.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ultimo periodo e' soppresso.
+
 Per i giornalisti delle agenzie di stampa a diffusione nazionale di cui all'articolo 27, secondo comma, della legge 5 agosto 1981, n. 416, gia' destinatari, alla data del 31 dicembre 2019, di trattamenti straordinari di cassa integrazione salariale ai sensi dell'articolo 25-bis, comma 3, lettere a) e b), del decreto legislativo 14 settembre 2015, n. 148, la durata massima dei trattamenti medesimi puo' essere prorogata di dodici mesi e comunque non oltre il 31 dicembre 2020 nel limite di 2 milioni di euro per l'anno 2020. L'Istituto nazionale di previdenza dei giornalisti italiani presenta mensilmente al Ministero del lavoro e delle politiche sociali la documentazione necessaria al fine di ottenere il rimborso degli oneri fiscalizzati. Agli oneri di cui ai periodi precedenti, pari a 2 milioni di euro per l'anno 2020, si provvede a valere sul Fondo sociale per occupazione e formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2.
 
 Nelle more della revisione organica della normativa a tutela del pluralismo dell'informazione, la Presidenza del Consiglio dei ministri e' autorizzata, nei limiti delle disponibilita' di bilancio, a prorogare fino al ((31 dicembre 2023)) la durata dei contratti per l'acquisto di servizi giornalistici e informativi stipulati con le agenzie di stampa, ai sensi della legge 15 maggio 1954, n. 237, e dell'articolo 55, comma 24, della legge 27 dicembre 1997, n. 449, in essere alla data di entrata in vigore della legge di conversione del presente decreto.
@@ -372,9 +846,52 @@ Agli oneri derivanti dal comma 3 si provvede, quanto a 4,3 milioni di euro per l
 
 All'articolo 3 della legge 8 agosto 1995, n. 335, il comma 10-bis e' sostituito dal seguente: «10-bis. Per le gestioni previdenziali esclusive e per i fondi per i trattamenti di previdenza, i trattamenti di fine rapporto e i trattamenti di fine servizio amministrati dall'INPS cui sono iscritti i lavoratori dipendenti delle amministrazioni pubbliche di cui al decreto legislativo 30 marzo 2001, n. 165, i termini di prescrizione di cui ai commi 9 e 10, riferiti agli obblighi relativi alle contribuzioni di previdenza e di assistenza sociale obbligatoria afferenti ai periodi di competenza fino al 31 dicembre 2015, non si applicano fino al 31 dicembre 2022, fatti salvi gli effetti di provvedimenti giurisdizionali passati in giudicato nonche' il diritto all'integrale trattamento pensionistico del lavoratore.».
 
+5-bis.
+                        
+                            
+                                Fermo restando che, ai sensi e per gli effetti dell'articolo 53, comma 8, secondo periodo, della legge 27 dicembre 1997, n. 449, le disposizioni relative agli assegni per il nucleo familiare di cui al decreto del Presidente della Repubblica 30 maggio 1955, n. 797, non si applicano al personale della societa' Poste italiane Spa al quale e', comunque, assicurato per contratto collettivo un trattamento per carichi di famiglia pari a quello previsto dalla legge, a decorrere dal 1° gennaio 2020, per il personale iscritto al fondo di quiescenza del soppresso Istituto postelegrafonici (IPOST), la misura del contributo di finanziamento degli assegni per il nucleo familiare, di cui al citato decreto del Presidente della Repubblica n. 797 del 1955, e' pari a quella in vigore tempo per tempo per gli assicurati al Fondo pensioni lavoratori dipendenti. Alle minori entrate contributive derivanti dal primo periodo del presente comma, valutate in 2,7 milioni di euro per ciascuno degli anni 2020 e 2021, in 2,8 milioni di euro per ciascuno degli anni 2022 e 2023, in 2,9 milioni di euro per ciascuno degli anni 2024 e 2025, in 3 milioni di euro per ciascuno degli anni 2026 e 2027 e in 3,1 milioni di euro annui a decorrere dall'anno 2028, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 2,7 milioni di euro per l'anno 2020, mediante corrispondente utilizzo dello stanziamento del Fondo per il riaccertamento dei residui passivi di parte corrente, di cui all'articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196, iscritto nello stato di previsione del Ministero dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 1,5 milioni di euro per l'anno 2021, a 0,8 milioni di euro per ciascuno degli anni dal 2022 al 2028 e a 0,9 milioni di euro annui a decorrere dall'anno 2029, mediante utilizzo delle maggiori entrate derivanti dal primo periodo del presente comma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a 1,2 milioni di euro per l'anno 2021, a 2 milioni di euro per ciascuno degli anni 2022 e 2023, a 2,1 milioni di euro per ciascuno degli anni 2024 e 2025, a 2,2 milioni di euro per ciascuno degli anni 2026 e 2027, a 2,3 milioni di euro per l'anno 2028 e a 2,2 milioni di euro annui a decorrere dall'anno 2029, mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
+
 ## Art. 11-bis. — (( (Modifiche all'articolo 4 del decreto-legge 29 dicembre 2016, n. 243, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 18, concernenti l'Agenzia per la somministrazione del lavoro in porto e per la riqualificazione professionale). ))
 
 ((
+
+1.
+                        
+                            
+                                All'articolo 4 del decreto-legge 29 dicembre 2016, n. 243, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 18, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: "trentasei mesi" sono sostituite dalle seguenti: "quarantotto mesi"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 7, le parole: "e 8.064.000 euro per l'anno 2019" sono sostituite dalle seguenti: ", 8.064.000 euro per l'anno 2019 e 11.200.000 euro per l'anno 2020".
 
 2. Agli oneri derivanti dal comma 1, pari a 11,2 milioni di euro per l'anno 2020, si provvede a valere sul Fondo sociale per occupazione e formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2))
 
@@ -426,6 +943,85 @@ All'articolo 1, comma 1031, della legge 30 dicembre 2018, n. 145, alle lettere a
 
 ((
 
+2-bis.
+                        
+                            
+                                All'articolo 1, comma 1031, della legge 30 dicembre 2018, n. 145, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tabella di cui alla lettera a) e' sostituita dalla seguente:  
+ "
+                                    
+                                        
+                                            
+                                                CO2 g/km 
+                                            
+                                            
+                                                Contributo (euro) 
+                                            
+                                        
+                                        
+                                            
+                                                0-20 
+                                            
+                                            
+                                                6.000 
+                                            
+                                        
+                                        
+                                            
+                                                21-60 
+                                            
+                                            
+                                                2.500 
+                                            
+                                        
+                                    
+                                    
+    
+";
+ 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tabella di cui alla lettera b) e' sostituita dalla seguente:  
+ "
+                                    
+                                        
+                                            
+                                                CO2 g/km 
+                                            
+                                            
+                                                Contributo (euro) 
+                                            
+                                        
+                                        
+                                            
+                                                0-20 
+                                            
+                                            
+                                                4.000 
+                                            
+                                        
+                                        
+                                            
+                                                21-60 
+                                            
+                                            
+                                                1.500 
+                                            
+                                        
+                                    
+                                    
+       
+".
+
 2-ter. Nelle more del recepimento della direttiva (UE) 2018/1972 del Parlamento europeo e del Consiglio, dell'11 dicembre 2018, gli obblighi di cui al primo e al secondo periodo dell'articolo 1, comma 1044, della legge 27 dicembre 2017, n. 205, per quanto attiene agli apparati di telefonia mobile, decorrono dal 21 dicembre 2020))
 
 ((3. All'articolo 1 della legge 4 agosto 2017, n. 124, sono apportate le seguenti modificazioni:
@@ -447,6 +1043,26 @@ Le disposizioni di cui all'articolo 55-bis del decreto-legge 26 ottobre 2019, n.
 
 ((
 
+4-bis.
+                        
+                            
+                                All'articolo 11-ter del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: "Entro diciotto" sono sostituite dalle seguenti: "Entro e non oltre ventiquattro"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 8: 
+ 1) il secondo periodo e' sostituito dai seguenti: "Nelle aree non compatibili con le previsioni del Piano, entro sessanta giorni dall'adozione del medesimo Piano, il Ministero dello sviluppo economico avvia i procedimenti per il rigetto delle istanze relative ai procedimenti sospesi ai sensi del comma 4 e avvia i procedimenti di revoca, anche limitatamente ad aree parziali, dei permessi di prospezione e di ricerca in essere. Nelle aree non compatibili e' comunque ammessa l'installazione di impianti di produzione di energia da fonti rinnovabili"; 
+ 2) al quinto periodo, le parole: "entro ventiquattro mesi" sono sostituite dalle seguenti: "entro e non oltre trenta mesi".
+
 Dopo il comma 4-ter.1 dell'articolo 134 del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, e' inserito il seguente: 
  "4-ter.2. Al verificarsi di un sinistro di cui si sia reso responsabile in via esclusiva o principale un conducente collocato nella classe di merito piu' favorevole per il veicolo di diversa tipologia ai sensi delle disposizioni del comma 4-bis e che abbia comportato il pagamento di un indennizzo complessivamente superiore a euro 5.000, le imprese di assicurazione, alla prima scadenza successiva del contratto, possono assegnare, per il solo veicolo di diversa tipologia coinvolto nel sinistro, una classe di merito superiore fino a cinque unita' rispetto ai criteri indicati dall'IVASS ai sensi del presente articolo. Le disposizioni del presente comma si applicano unicamente ai soggetti beneficiari dell'assegnazione della classe di merito piu' favorevole per il solo veicolo di diversa tipologia ai sensi delle disposizioni del comma 4-bis nel testo in vigore successivamente alle modifiche introdotte dall'articolo 55-bis, comma 1, lettera a), del decreto-legge 26 ottobre 2019, n. 124, convertito, con modificazioni, dalla legge 19 dicembre 2019, n. 157".
 
@@ -462,6 +1078,39 @@ Entro il 30 marzo 2024 le societa' concessionarie per le quali e' intervenuta la
 Gli adeguamenti, in eccesso o in difetto, rispetto ai predetti incrementi tariffari sono definiti in sede di aggiornamento dei piani economico-finanziari. ((49))
 
 Entro il 31 luglio 2024 le societa' concessionarie per le quali interviene la scadenza del periodo regolatorio quinquennale nell'anno 2024 presentano le proposte di aggiornamento dei piani economico-finanziari predisposti in conformita' alle delibere adottate ai sensi dell'articolo 16, comma 1, del decreto-legge 28 settembre 2018, n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130, dall'Autorita' di regolazione dei trasporti di cui all'articolo 37 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, nonche' alle disposizioni emanate dal concedente. L'aggiornamento dei piani economico-finanziari, presentati entro il termine del 31 luglio 2024 conformemente alle modalita' stabilite, e' perfezionato entro il 31 dicembre 2024.
+
+4.
+                        
+                            
+                                All'articolo 49 del decreto-legge 24 aprile 2017, n. 50 convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 7, le parole: «per gli anni 2017, 2018 e 2019» sono sostituite dalle seguenti: «per gli anni dal 2017 al 2022»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 7-bis, primo periodo, le parole: «al comma 7», sono sostituite dalle seguenti: «ai commi 7 e 7-ter»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 7-bis e' inserito il seguente: 
+ «7-ter. ANAS S.p.a. e' autorizzata nei limiti previsti ai commi 7 e 8 a definire mediante transazioni giudiziali e stragiudiziali le controversie con i contraenti generali derivanti da richieste di risarcimento laddove sussistano i presupposti e le condizioni di cui all'articolo 208 del decreto legislativo 18 aprile 2016, n. 50, previa valutazione della convenienza economica di ciascuna operazione da parte della societa' stessa.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 8, primo periodo, le parole: «alle finalita' di cui al comma 7» sono sostituite dalle seguenti: «alle finalita' di cui ai commi 7 e 7-ter».
 
 COMMA ABROGATO DAL D.L. 10 SETTEMBRE 2021, N. 121, CONVERTITO, CON MODIFICAZIONI, DALLA L. 9 NOVEMBRE 2021, N. 156.
 
@@ -512,6 +1161,38 @@ In deroga al limite di cui all'articolo 24, comma 3, del decreto legislativo 2 g
 
 La disposizione di cui al comma 1 si applica anche allo stato di emergenza conseguente agli eventi sismici che hanno colpito i comuni della Provincia di Campobasso, a far data dal 16 agosto 2018, di cui all'allegato 1 del decreto-legge 18 aprile 2019, n. 32, convertito con modificazioni, dalla legge 14 giugno 2019, n. 55.
 
+3.
+                        
+                            
+                                All'articolo 2 del decreto-legge 28 settembre 2018, n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole «per gli anni 2018 e 2019» sono sostituite dalle seguenti: «per gli anni 2018, 2019 e 2020»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole «e di euro 10.000.000 per l'anno 2019» sono sostituite dalle seguenti: «e di euro 10.000.000 per ciascuno degli anni 2019 e 2020»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3-bis, primo periodo, le parole «per gli anni 2018 e 2019» sono sostituite dalle seguenti: «per gli anni 2018, 2019 e 2020» e al secondo periodo le parole «e di euro 500.000 per l'anno 2019», sono sostituite dalle seguenti: «, di euro 500.000 per l'anno 2019 e di euro 500.000 per l'anno 2020»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 4, le parole «e 11 milioni di euro per l'anno 2019» sono sostituite dalle seguenti: «, 11 milioni di euro per l'anno 2019 e 10 milioni di euro per l'anno 2020».
+
 All'articolo 4-ter, comma 1, del decreto-legge 28 settembre 2018, n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130, la parola «dodici» e' sostituita dalla seguente:
 «diciannove».
 
@@ -559,6 +1240,38 @@ Fermo restando quanto previsto dal comma 3, all'esito del completamento degli in
 ## - Capo II Disposizioni urgenti in materia finanziaria, di organizzazione di pubbliche amministrazioni e magistrature
 
 ## Art. 16. — ((Misure urgenti per la rete viaria provinciale della Regione siciliana e della rete viaria della regione Sardegna))
+
+1.
+                        
+                            
+                                All'articolo 4, comma 6, del decreto-legge 18 aprile 2019, n. 32, convertito, con modificazioni, dalla legge 14 giugno 2019, n. 55, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole: «con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti sentito il Ministro dell'economia e delle finanze, d'intesa con il Presidente della Giunta regionale Siciliana, da adottarsi entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, e' nominato apposito Commissario straordinario incaricato di sovraintendere alla programmazione, progettazione, affidamento ed esecuzione degli interventi sulla rete viaria della Regione Siciliana» sono sostituite dalle seguenti: «con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti sentito il Ministro dell'economia e delle finanze, d'intesa con il Presidente della Giunta regionale Siciliana, da adottarsi entro il 28 febbraio 2020, e' nominato apposito Commissario straordinario, il quale, con i medesimi poteri ((di cui ai commi 2 e 3)), e' incaricato di realizzare la progettazione, l'affidamento e l'esecuzione di interventi sulla rete viaria provinciale della Regione Siciliana, anche mediante apposite convenzioni da stipulare con le amministrazioni competenti»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo periodo le parole: «Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti di concerto con il Ministro dell'economia e delle finanze sono stabiliti i termini, le modalita', le tempistiche, l'eventuale supporto tecnico, le attivita' connesse alla realizzazione dell'opera, il compenso del Commissario» sono sostituite dalle seguenti: «Con il medesimo decreto di cui al primo periodo, sono stabiliti i termini, le modalita', le tempistiche, il supporto tecnico, le attivita' connesse alla realizzazione dell'opera, il compenso del Commissario»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il secondo periodo sono inseriti i seguenti: «Il Commissario straordinario per la realizzazione degli interventi puo' avvalersi, sulla base di apposite convenzioni, di ANAS S.p.a., delle amministrazioni centrali e periferiche dello Stato e degli enti pubblici dotati di specifica competenza tecnica nell'ambito delle aree di intervento, senza nuovi o maggiori oneri a carico della finanza pubblica. Gli oneri di cui alle predette convenzioni sono posti a carico dei quadri economici degli interventi da realizzare.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo le parole: «rete viaria», ovunque ricorrano, e' inserita la seguente: «provinciale».
 
 ((
 
@@ -645,6 +1358,39 @@ All'articolo 3, della legge 19 giugno 2019, n. 56, dopo il comma 5, e' inserito 
 
 All'articolo 2, comma 5, della legge 19 giugno 2019, n. 56, dopo le parole: "commi 1 e 4" sono inserite le seguenti: "nonche' al fine di realizzare strutture tecnologicamente avanzate per lo svolgimento dei concorsi pubblici".
 
+1-ter.
+                        
+                            
+                                All'articolo 3 della legge 19 giugno 2019, n. 56, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 5-bis e' inserito il seguente: 
+ "5-ter. Il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri assicura l'esercizio delle funzioni, delle azioni e delle attivita' del Nucleo della Concretezza, di cui all'articolo 60-bis del decreto legislativo 30 marzo 2001, n. 165, anche in deroga alle procedure previste nel medesimo articolo. Alla Presidenza del Consiglio dei ministri sono assegnate, per il predetto Dipartimento, le risorse finanziarie, strumentali e di personale di cui all'articolo 60-quater del citato decreto legislativo n. 165 del 2001. Il Presidente del Consiglio dei ministri, nell'ambito dell'autonomia organizzativa della Presidenza del Consiglio dei ministri, adotta i conseguenti provvedimenti di riorganizzazione e di adeguamento delle dotazioni organiche senza nuovi o maggiori oneri a carico della finanza pubblica"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 12 e' abrogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 13 e' aggiunto, in fine, il seguente periodo: "Tali incarichi si considerano attivita' di servizio a tutti gli effetti di legge, qualunque sia l'amministrazione che li ha conferiti"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 14, dopo le parole: "pubblico impiego" sono inserite le seguenti: "e della Commissione per l'attuazione del progetto di riqualificazione delle pubbliche amministrazioni (RIPAM)".
+
 Al comma 5 dell'articolo 35 del decreto legislativo 30 marzo 2001, n. 165, le parole: ", di cui al decreto interministeriale 25 luglio 1994, fatte comunque salve le competenze delle Commissioni esaminatrici" sono sostituite dalle seguenti: ". Tale Commissione e' nominata con decreto del Ministro per la pubblica amministrazione ed e' composta dal Capo del Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, che la presiede, dall'Ispettore generale capo dell'Ispettorato generale per gli ordinamenti del personale e l'analisi dei costi del lavoro pubblico del Dipartimento della Ragioneria generale dello Stato del Ministero dell'economia e delle finanze e dal Capo del Dipartimento per le politiche del personale dell'amministrazione civile e per le risorse strumentali e finanziarie del Ministero dell'interno, o loro delegati. La Commissione: a) approva i bandi di concorso per il reclutamento di personale a tempo indeterminato; b) indice i bandi di concorso e nomina le commissioni esaminatrici; c) valida le graduatorie finali di merito delle procedure concorsuali trasmesse dalle commissioni esaminatrici; d) assegna i vincitori e gli idonei delle procedure concorsuali alle amministrazioni pubbliche interessate; e) adotta ogni ulteriore eventuale atto connesso alle procedure concorsuali, fatte salve le competenze proprie delle commissioni esaminatrici".
 
 Sono fatti salvi gli atti della Commissione per l'attuazione del progetto di riqualificazione delle pubbliche amministrazioni (RIPAM) compiuti prima della data di entrata in vigore della legge di conversione del presente decreto e fino alla nomina della nuova commissione secondo le modalita' di cui al comma 5 dell'articolo 35 del decreto legislativo 30 marzo 2001, n. 165, come modificato dal comma 1-quater del presente articolo.
@@ -678,11 +1424,86 @@ In deroga a quanto previsto dal comma 4 dell'articolo 4 del decreto-legge 14 dic
 
 ## Art. 19. — Assunzioni straordinarie nelle Forze di polizia
 
+1.
+                        
+                            
+                                Al fine di incrementare i servizi di prevenzione e di controllo del territorio, di tutela dell'ordine e della sicurezza pubblica ed economico-finanziaria, connessi, in particolare, alle esigenze di contrasto del terrorismo internazionale, nonche' l'efficienza degli istituti penitenziari e delle attivita' di controllo dell'esecuzione penale esterna, fermo restando quanto previsto dagli articoli 703 e 2199 del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, e' autorizzata, con apposito decreto del Presidente del Consiglio dei ministri o con le modalita' di cui all'articolo 66, comma 9-bis, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, l'assunzione straordinaria di un contingente massimo di 2.319 unita' delle Forze di polizia, nel limite della dotazione organica, in aggiunta alle facolta' assunzionali previste a legislazione vigente, nei rispettivi ruoli iniziali, non prima del 1° ottobre di ciascun anno, entro il limite di spesa di cui al comma 2 e per un numero massimo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    settantotto unita' per l'anno 2021, di cui venti nella Polizia di Stato, venti nell'Arma dei carabinieri, venti nel Corpo della guardia di finanza e diciotto nel Corpo della polizia penitenziaria; ((41))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    settantotto unita' per l'anno 2022, di cui venti nella Polizia di Stato, venti nell'Arma dei carabinieri, venti nel Corpo della guardia di finanza e diciotto nel Corpo di polizia penitenziaria; ((41))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    seicentosettanta unita' per l'anno 2023, di cui duecentosessanta nella Polizia di Stato, centocinquanta nell'Arma dei carabinieri, duecento nel Corpo della guardia di finanza e sessanta nel Corpo di polizia penitenziaria; ((41))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    ottocentoventidue unita' per l'anno 2024, di cui duecentottanta nella Polizia di Stato, trecentoventidue nell'Arma dei carabinieri, centoventi nel Corpo della guardia di finanza e cento nel Corpo di polizia penitenziaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    seicentosettantuno unita' per l'anno 2025, di cui centosettantacinque nella Polizia di Stato, trecentodieci nell'Arma dei carabinieri, ottantotto nel Corpo della guardia di finanza e novantotto nel Corpo di polizia penitenziaria.
+
 Per l'attuazione del comma 1 e' autorizzata la spesa di euro 357.038 per l'anno 2021, euro 3.320.237 per l'anno 2022, euro 9.353.493 per l'anno 2023, euro 35.385.727 per l'anno 2024, euro 69.031.488 per l'anno 2025, euro 95.263.596 per l'anno 2026, euro 98.731.350 per l'anno 2027, di euro 99.204.140 per l'anno 2028, euro 100.684.910 per l'anno 2029, di euro 102.291.617 per l'anno 2030 ed euro 103.287.460 annui a decorrere dall'anno 2031.
 
 Per far fronte al potenziamento del Comando carabinieri per la tutela ambientale, l'Arma dei carabinieri e' altresi' autorizzata, in aggiunta alle facolta' assunzionali previste a legislazione vigente, ad assumere, a decorrere dal 1° ottobre 2020, venticinque unita' nel ruolo iniziale, nonche' ulteriori venticinque unita' nel ruolo iniziale destinate all'incremento del contingente di cui all'articolo 828 del decreto legislativo 15 marzo 2010, n. 66. A tal fine, e' autorizzata la spesa di euro 263.080 per l'anno 2020, euro 1.831.221 per l'anno 2021, euro 2.090.855 per l'anno 2022, euro 2.090.855 per l'anno 2023, euro 2.090.855 per l'anno 2024, euro 2.108.880 per l'anno 2025 ed euro 2.162.955 annui a decorrere dall'anno 2026. (2)
 
+4.
+                        
+                            
+                                Conseguentemente a quanto previsto al comma 3, all'articolo 828, comma 1, del decreto legislativo 15 marzo 2010, n. 66, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'alinea, le parole «per un totale di duecentoquarantanove unita'» sono sostituite dalle seguenti: «per un totale duecentosettantaquattro unita'»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera i) e' sostituita dalla seguente: «i) appuntati e carabinieri: sessantaquattro».
+
 Per le spese di funzionamento connesse alle assunzioni straordinarie, ivi comprese le spese per mense e buoni pasto, e' autorizzata la spesa di euro 100.000 per l'anno 2020, euro 1.100.000 per l'anno 2021, euro 3.100.000 a decorrere dall'anno 2022, di cui 1 milione di euro per l'anno 2021 e 3 milioni di euro annui a decorrere dall'anno 2022 per l'attuazione del comma 1 e 100.000 euro annui a decorrere dall'anno 2020 per l'attuazione del comma 3.
+
+6.
+                        
+                            
+                                Agli oneri derivanti dall'attuazione del presente articolo pari a 363.080 euro per l'anno 2020, 3.288.259 euro per l'anno 2021, 8.511.092 euro per l'anno 2022, 14.544.348 euro per l'anno 2023, 40.576.582 euro per l'anno 2024, 74.240.368 euro per l'anno 2025, 100.526.551 euro per l'anno 2026, 103.994.305 euro per l'anno 2027, 104.467.095 euro per l'anno 2028, 105.947.865 euro per l'anno 2029, 107.554.572 euro per l'anno 2030, 108.550.415 euro annui a decorrere dall'anno 2031, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 1.025.304 euro per l'anno 2021, 6.248.137 euro per l'anno 2022, 12.281.393 euro per l'anno 2023, 38.313.627 euro per l'anno 2024, 71.977.413 euro per l'anno 2025, 98.263.596 euro per l'anno 2026, 101.731.350 euro per l'anno 2027, 102.204.140 euro per l'anno 2028, 103.684.910 euro per l'anno 2029, 105.291.617 euro per l'anno 2030 e 106.287.460 euro annui a decorrere dall'anno 2031, mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 363.080 euro per l'anno 2020 e 2.262.955 euro annui a decorrere dall'anno 2021, mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019 - 2021, nell'ambito del programma «fondi di riserva e speciali» della missione «fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente e della tutela del territorio e del mare.
 
 ---------------
                             AGGIORNAMENTO (2)
@@ -712,6 +1533,24 @@ Al fine di perseguire gli obiettivi nazionali ed europei in materia di tutela am
 ## Art. 20. — Disposizioni in materia di trattamenti accessori e istituti normativi per i dirigenti delle Forze di polizia e delle Forze armate
 
 In deroga al limite di cui all'articolo 23, comma 2, del decreto legislativo 25 maggio 2017, n. 75, e' autorizzata la spesa di 3 milioni di euro per l'anno 2020, 5 milioni di euro per l'anno 2021 e 8 milioni di euro annui a decorrere dal 2022, per l'incremento delle risorse previste dall'articolo 3 del decreto del Presidente del Consiglio dei ministri 21 marzo 2018, pubblicato nella Gazzetta Ufficiale n. 107 del 10 maggio 2018, adottato ai sensi dell'articolo 1, comma 680, della legge 27 dicembre 2017, n. 205, da destinare all'attuazione di quanto previsto dall'articolo 46, commi 3 e 6, del decreto legislativo 29 maggio 2017, n. 95. Le predette risorse aggiuntive incrementano quelle di ciascuna Forza di polizia e delle Forze armate in misura proporzionale alla ripartizione operata per l'anno 2020 dall'articolo 3 del citato decreto del Presidente del Consiglio dei ministri 21 marzo 2018.
+
+2.
+                        
+                            
+                                Agli oneri derivanti dall'attuazione del comma 1, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 1 milione di euro per l'anno 2020, mediante corrispondente utilizzo del fondo di parte corrente iscritto nello stato di previsione del Ministero dell'economia e delle finanze, ai sensi dell'articolo 34-ter, comma 5, della legge 31 dicembre 2009, n. 196; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 2 milioni di euro per l'anno 2020, 5 milioni di euro per l'anno 2021 e 8 milioni di euro annui a decorrere dal 2022, mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
 
 ## Art. 21. — Risorse aggiuntive per il personale della carriera prefettizia
 
@@ -821,6 +1660,38 @@ Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propr
 ## Art. 24. — Disposizioni in materia di competenza del Ministero dell'ambiente e della tutela del territorio e del mare
 
 Il termine per l'assunzione di cinquanta unita' appartenenti all'area II previste all'articolo 1, comma 317, della legge 30 dicembre 2018, n. 145, relativo al triennio 2019-2021, e' differito al triennio 2020-2022.
+
+2.
+                        
+                            
+                                All'articolo 1, comma 317, della legge 30 dicembre 2018, n. 145, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole «Area II, posizione economica F1» sono sostituite dalle seguenti: «Area II, posizione economica F2»; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    al quarto periodo, le parole: "nella misura fino al 10 per cento nell'anno 2020, fino al 20 per cento nell'anno 2021, fino al 50 per cento nell'anno 2022, fino al 70 per cento nell'anno 2023 e del 100 per cento nell'anno 2024" sono sostituite dalle seguenti: "nella misura fino al 10 per cento nell'anno 2021, fino al 20 per cento nell'anno 2022, fino al 50 per cento nell'anno 2023, fino al 70 per cento nell'anno 2024 e del 100 per cento nell'anno 2025"; 
+
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    al quinto periodo, la parola: "2024" e' sostituita dalla seguente: "2025"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'ottavo periodo, le parole «ad euro 14.914.650 per l'anno 2020 e ad euro 19.138.450 annui a decorrere dall'anno 2021» sono sostituite dalle seguenti: «ad euro 14.956.400 per l'anno 2020 e ad euro 19.221.950 annui a decorrere dall'anno 2021».
 
 Agli oneri derivanti dall'attuazione del comma 2, quantificati in euro 41.750 per l'anno 2020 ((e in euro 83.500 annui)) a decorrere dall'anno 2021, si provvede mediante corrispondente riduzione delle proiezioni dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma «fondi di riserva e speciali» della missione «fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'ambiente e della tutela del territorio e del mare.
 
@@ -932,6 +1803,25 @@ Con decreto del Ministro della salute, di concerto con il Ministro dell'economia
 
 ## Art. 26. — Modifiche all'articolo 8 del decreto legislativo n. 65 del 2018
 
+1.
+                        
+                            
+                                Dal 1° gennaio 2020, all'articolo 8 del decreto legislativo 18 maggio 2018, n. 65, sono apportate le seguenti modificazioni: 
+ ((0a) al comma 1, dopo le parole: "presso la Presidenza del Consiglio dei ministri" sono inserite le seguenti: "- Dipartimento delle informazioni per la sicurezza")); 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, il secondo e il terzo periodo sono soppressi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 10 e' sostituito dal seguente: «10. Per le spese relative al funzionamento del CSIRT italiano ((...)) e' autorizzata la spesa di 2.000.000 di euro annui a decorrere dall'anno 2020. A tali oneri si provvede ai sensi dell'articolo 22.».
+
 Le risorse di cui all'articolo 8, commi 2 e 10, del decreto legislativo 18 maggio 2018, n. 65, relative agli anni 2018 e 2019, per complessivi 6 milioni di euro, gia' trasferite al bilancio autonomo della Presidenza del Consiglio dei ministri, sono trasferite nell'anno 2020 al Dipartimento delle informazioni per la sicurezza.
 
 ## Art. 26-bis. — (( (Modifica all'articolo 2 del decreto legislativo 31 marzo 1998, n. 143). ))
@@ -940,9 +1830,133 @@ Le risorse di cui all'articolo 8, commi 2 e 10, del decreto legislativo 18 maggi
 
 ## Art. 27. — Sicurezza nazionale cibernetica
 
+1.
+                        
+                            
+                                Al decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, comma 2, lettera a), le parole: «sono individuati le amministrazioni pubbliche, gli enti e gli operatori pubblici e privati» sono sostituite dalle seguenti: «sono definiti modalita' e criteri procedurali di individuazione di amministrazioni pubbliche, enti e operatori pubblici e privati» e le parole: «alla predetta» sono sostituite dalle seguenti: «ai fini dell'»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 1, comma 2, lettera b), le parole: «i soggetti di cui alla precedente lettera a)» sono sostituite dalle seguenti: «i soggetti di cui al comma 2-bis»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 1, comma 2, lettera b), le parole: «dalla data di entrata in vigore del decreto del Presidente del Consiglio dei ministri di cui al presente comma» sono sostituite dalle seguenti: «dalla data della comunicazione, prevista dal comma 2-bis, a ciascuno dei soggetti iscritti nell'elenco di cui al medesimo comma,»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 1, comma 2, lettera b), le parole: «individuati ai sensi della lettera a)» sono sostituite dalle seguenti: «di cui al comma 2-bis»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 1, dopo il comma 2, e' inserito il seguente:
+«2-bis. L'elencazione dei soggetti individuati ai sensi del comma 2, lettera a), e' contenuta in un atto amministrativo, adottato dal Presidente del Consiglio dei ministri, su proposta del CISR, entro trenta giorni dalla data di entrata in vigore del decreto del Presidente del Consiglio dei ministri di cui al comma 2. Il predetto atto amministrativo, per il quale e' escluso il diritto di accesso, non e' soggetto a pubblicazione, fermo restando che a ciascun soggetto e' data, separatamente, comunicazione senza ritardo dell'avvenuta iscrizione nell'elenco. L'aggiornamento del predetto atto amministrativo e' effettuato con le medesime modalita' di cui al presente comma.»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 1, comma 3, lettera a), le parole: «i soggetti individuati ai sensi del comma 2, lettera a),» sono sostituite dalle seguenti: «i soggetti di cui al comma 2-bis»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 1, comma 6, lettera a), al primo e al secondo periodo, le parole: «soggetti di cui al comma 2, lettera a)» sono sostituite dalle seguenti: «soggetti di cui al comma 2-bis»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 1, comma 8, lettera a), le parole: «individuati ai sensi del comma 2, lettera a), del presente articolo» sono sostituite dalle seguenti: «di cui al comma 2-bis» e le parole: «di cui alla medesima lettera» sono sostituite dalle seguenti: «di cui al medesimo comma»; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 1, comma 12, le parole: «individuati ai sensi del comma 2, lettera a), del presente articolo» sono sostituite dalle seguenti: «di cui al comma 2-bis» e le parole: «di cui alla medesima lettera» sono sostituite dalle seguenti: «di cui al medesimo comma»; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'articolo 1, comma 14, le parole: «soggetti pubblici individuati ai sensi del comma 2, lettera a)» sono sostituite dalle seguenti: «soggetti pubblici di cui al comma 2-bis»; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    all'articolo 1, comma 18, le parole: «di cui al comma 2, lettera a)» sono sostituite dalle seguenti: «di cui al comma 2-bis»; 
+                                
+                            
+                            
+                                o)
+                                
+                                    all'articolo 3, comma 1, le parole: «ai soggetti di cui all'articolo 1, comma 2, lettera a)» sono sostituite dalle seguenti: «ai soggetti di cui all'articolo 1, comma 2-bis».
+
 ## Art. 27-bis. — (( (Disposizioni in materia di organizzazione dell'Agenzia italiana per la cooperazione allo sviluppo). ))
 
 ((
+
+1.
+                        
+                            
+                                Alla legge 11 agosto 2014, n. 125, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 19: 
+ 1) dopo il comma 5 e' inserito il seguente: 
+ "5-bis. Nelle sedi dell'Agenzia all'estero possono essere inviati, secondo criteri determinati dal Comitato di cui all'articolo 21, fino a sessanta dipendenti di cui al comma 2 del presente articolo e all'articolo 32, comma 4, primo periodo. Tale contingente puo' essere aumentato fino a novanta unita', nel limite delle risorse finanziarie effettivamente disponibili nell'ambito delle risorse assegnate"; 
+ 2) al comma 6, la parola: "cento" e' sostituita dalla seguente: "centocinquanta"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 20, dopo il comma 2 e' aggiunto il seguente: 
+ "2-bis. Presso la Direzione generale per la cooperazione allo sviluppo possono essere collocati fuori ruolo, nell'ambito del contingente numerico, nonche' secondo le modalita' e i limiti previsti dagli ordinamenti di appartenenza, magistrati ordinari o amministrativi o avvocati dello Stato, nel limite massimo complessivo di tre unita'"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 24, comma 2, e' aggiunto, in fine, il seguente periodo: "Nelle convenzioni di cui al presente comma puo' essere disposta la corresponsione di anticipazioni"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 25, comma 1, e' aggiunto, in fine, il seguente periodo: "I contributi di cui al presente comma possono essere erogati in forma anticipata".
 
 All'articolo 23, comma 3, del decreto legislativo 15 giugno 2015, n. 81, dopo la parola: "stipulati" sono inserite le seguenti: "per la realizzazione e il monitoraggio di iniziative di cooperazione allo sviluppo di cui alla legge 11 agosto 2014, n. 125, ovvero" e le parole: "possono avere durata pari a quella del progetto di ricerca" sono sostituite dalle seguenti: "o di cooperazione allo sviluppo di cui alla legge 11 agosto 2014, n. 125, possono avere durata pari a quella del progetto".
 
@@ -957,6 +1971,31 @@ Le somme da assegnare all'Agenzia italiana per la cooperazione allo sviluppo per
 ## Art. 28. — Misure urgenti per l'adempimento di obblighi internazionali
 
 
+
+2.
+                        
+                            
+                                All'articolo 1, comma 587, della legge 30 dicembre 2018, n. 145, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole «7,5 milioni» sono sostituite dalle seguenti: «11 milioni»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo periodo, le parole «dieci unita'» sono sostituite dalle seguenti: «diciassette unita'»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' aggiunto, in fine, il seguente periodo: «Ai componenti del Commissariato dipendenti di amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, per i periodi di servizio prestati negli Emirati Arabi Uniti di durata pari o superiore a sessanta giorni consecutivi e' corrisposto a carico del Commissariato il trattamento economico stabilito dall'articolo 170, comma quinto, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, per un posto funzione negli Emirati Arabi Uniti di livello corrispondente al grado o qualifica rivestiti.».
 
 Lo stanziamento per il Piano per la promozione straordinaria del Made in Italy e l'attrazione degli investimenti in Italia, di cui all'articolo 30, comma 1, del decreto-legge 12 settembre 2014, n.133, convertito, con modificazioni, dalla legge 11 novembre 2014, n. 164, e' incrementato di 6,5 milioni di euro per l'anno 2020.
 
@@ -995,6 +2034,152 @@ Nell'anno 2019 il Ministero dell'economia e delle finanze puo' disporre il ricor
 
 Al comma 1 dell'articolo 38-quater del decreto-legge 30 aprile 2019, n. 34, convertito, con modificazioni, dalla legge 28 giugno 2019, n. 58, le parole: "nell'anno 2019" sono sostituite dalle seguenti: "negli anni 2019 e 2020".
 
+2.
+                        
+                            
+                                Al comma 875 dell'articolo 1 della legge 27 dicembre 2019, n. 160, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il secondo periodo e' sostituito dal seguente: "Il contributo spettante a ciascun ente e' determinato secondo la tabella di seguito riportata"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' aggiunta, in fine, la seguente tabella: 
+ 
+
+"
+                                    
+                                        
+                                            
+                                                Ente 
+                                            
+                                            
+                                                Importo 
+                                            
+                                        
+                                        
+                                            
+                                                Citta' metropolitana di Catania 
+                                            
+                                            
+                                                16.261.402 
+                                            
+                                        
+                                        
+                                            
+                                                Citta' metropolitana di Messina 
+                                            
+                                            
+                                                10.406.809 
+                                            
+                                        
+                                        
+                                            
+                                                Citta' metropolitana di Palermo 
+                                            
+                                            
+                                                17.718.885 
+                                            
+                                        
+                                        
+                                            
+                                                subtotale citta' metropolitane 
+                                            
+                                            
+                                                44.387.096 
+                                            
+                                        
+                                        
+                                            
+                                                % di copertura per citta' metropolitane 
+                                            
+                                            
+                                                40,51% 
+                                            
+                                        
+                                        
+                                            
+                                                LCC di Agrigento 
+                                            
+                                            
+                                                7.146.531 
+                                            
+                                        
+                                        
+                                            
+                                                LCC di Caltanissetta 
+                                            
+                                            
+                                                4.943.572 
+                                            
+                                        
+                                        
+                                            
+                                                LCC di Enna 
+                                            
+                                            
+                                                4.053.997 
+                                            
+                                        
+                                        
+                                            
+                                                LCC di Ragusa 
+                                            
+                                            
+                                                5.559.427 
+                                            
+                                        
+                                        
+                                            
+                                                LCC di Siracusa 
+                                            
+                                            
+                                                7.157.158 
+                                            
+                                        
+                                        
+                                            
+                                                LCC di Trapani 
+                                            
+                                            
+                                                6.752.219 
+                                            
+                                        
+                                        
+                                            
+                                                subtotale LCC 
+                                            
+                                            
+                                                35.612.904 
+                                            
+                                        
+                                        
+                                            
+                                                % copertura per LCC 
+                                            
+                                            
+                                                40,51% 
+                                            
+                                        
+                                        
+                                            
+                                                Totale ... 
+                                            
+                                            
+                                                80.000.000 
+                                            
+                                        
+                                    
+                                    
+
+".
+
 Per ciascuno degli anni dal 2020 al 2024 e' assegnato un contributo di 20 milioni di euro annui a favore della citta' metropolitana di Roma e di 10 milioni di euro annui a favore della citta' metropolitana di Milano, da destinare al finanziamento di piani di sicurezza a valenza pluriennale per la manutenzione di strade e di scuole.
 
 Agli oneri di cui al comma 3, pari a 30 milioni di euro per ciascuno degli anni dal 2020 al 2024, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2020-2022, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando, quanto a 25 milioni di euro annui dal 2020 al 2024, l'accantonamento relativo al Ministero dell'economia e delle finanze e, quanto a 5 milioni di euro annui dal 2020 al 2024, l'accantonamento relativo al Ministero dell'interno.
@@ -1025,6 +2210,27 @@ Finanziamento a favore della Scuola sperimentale di dottorato internazionale Gra
 ## Art. 33.
 
 Modifiche al decreto-legge n. 109 del 2018 concernente disposizioni urgenti per la citta' di Genova e altre disposizioni in materia portuale
+
+1.
+                        
+                            
+                                Al fine di consentire il completamento degli interventi in favore della citta' di Genova, al decreto-legge 28 settembre 2018, n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 5, comma 2, le parole: «nella misura di euro 20.000.000 per l'anno 2019» sono sostituite dalle seguenti: «nella misura di euro 20.000.000 per ciascuno degli anni 2019 e 2020»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 9-ter: 
+ 1) al comma 1, le parole: «presso il porto di Genova» sono sostituite dalle seguenti: «presso gli scali del Sistema portuale del Mar Ligure occidentale» e le parole: «l'autorizzazione attualmente in corso ((, rilasciata)) ai sensi dell'articolo 17 della legge 28 gennaio 1994, n. 84, ((e' prorogata per)) cinque anni» sono sostituite dalle seguenti: «le autorizzazioni attualmente in corso, rilasciate ai sensi dell'articolo 17 della legge 28 gennaio 1994, n. 84, sono prorogate per sei anni»; 
+ 2) il comma 2 e' sostituito dal seguente: «2. Per gli anni 2018, 2019 e 2020, l'Autorita' di sistema portuale del Mar Ligure occidentale e' autorizzata a corrispondere, nell'ambito delle risorse disponibili a legislazione vigente, al soggetto fornitore di lavoro un contributo, nel limite massimo di 2 milioni di euro per ciascuno degli anni 2018 e 2019 e di 3 milioni di euro per l'anno 2020, per eventuali minori giornate di lavoro rispetto all'anno 2017 riconducibili alle mutate condizioni economiche degli scali del sistema portuale del Mar Ligure occidentale conseguenti all'evento.
+Tale contributo e' erogato dalla stessa autorita' di sistema portuale a fronte di avviamenti integrativi e straordinari da attivare in sostituzione di mancati avviamenti nei terminal, da valorizzare secondo il criterio della tariffa media per avviamento applicata dai soggetti autorizzati ai sensi dell'articolo 17 della legge 28 gennaio 1994, n. 84, nel primo semestre dell'anno 2018.».
 
 Al fine di favorire flessibilita' dei Piani Regolatori alle esigenze di sviluppo portuale all'articolo 22, comma 6, ((alinea,)) del decreto legislativo 4 agosto 2016, n. 169, le parole: «31 dicembre 2019» sono sostituite dalle seguenti: «31 dicembre 2022».
 
@@ -1113,7 +2319,60 @@ L'anticipazione di cui al presente articolo e' restituita in quote annuali di pa
 
 ((
 
+1.
+                        
+                            
+                                All'articolo 1, comma 473-bis, della legge 11 dicembre 2016, n. 232, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: "entro il termine perentorio di cui al comma 470" sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole: "31 gennaio 2020" sono sostituite dalle seguenti: "30 giugno 2020".
+
 Agli oneri derivanti dal comma 1, nel limite massimo di 758.000 euro per l'anno 2020, si provvede a valere sulle risorse non utilizzate di cui alla lettera b) del comma 479 dell'articolo 1 della legge 11 dicembre 2016, n. 232.
+
+3.
+                        
+                            
+                                All'articolo 1 della legge 27 dicembre 2019, n. 160, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 43: 
+ 1) al primo periodo, le parole: "e con il Ministro dell'interno" sono sostituite dalle seguenti: ", con il Ministro dell'interno e con il Ministro delle infrastrutture e dei trasporti", le parole: "31 gennaio 2020" sono sostituite dalle seguenti: "31 marzo 2020", le parole: "le modalita' di riparto" sono sostituite dalle seguenti: "le modalita' di ammissibilita' delle istanze e di assegnazione dei contributi" e le parole: "le modalita' di recupero" sono sostituite dalle seguenti: "le modalita' di revoca, di recupero"; 
+ 2) il secondo periodo e' sostituito dal seguente: "Le istanze per la concessione dei contributi sono presentate entro il 30 giugno dell'anno precedente il triennio di riferimento, secondo modalita' di trasmissione individuate con decreto del Ministero dell'interno, e i contributi sono concessi con decreto del Ministero dell'interno, di concerto con il Ministero dell'economia e delle finanze e con il Ministero delle infrastrutture e dei trasporti, entro il successivo 30 settembre"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 63 e' sostituito dal seguente: 
+ "63. Per il finanziamento degli interventi di manutenzione straordinaria e incremento dell'efficienza energetica delle scuole di province e citta' metropolitane e' autorizzata, nello stato di previsione del Ministero dell'istruzione, la spesa di 90 milioni di euro per ciascuno degli anni 2020 e 2021 e di 225 milioni di euro per ciascuno degli anni dal 2022 al 2034"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 64, le parole: "con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze e con i Ministri delle infrastrutture e dei trasporti, dell'interno e dell'istruzione, dell'universita' e della ricerca" sono sostituite dalle seguenti: "con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze e con il Ministro dell'istruzione", le parole: "31 gennaio 2020, sono individuati le risorse per ciascun settore di intervento," sono sostituite dalle seguenti: "31 marzo 2020, sono individuati" e le parole: "Con decreto dei Ministeri competenti, di concerto con il Ministero dell'economia e delle finanze, entro trenta" sono sostituite dalle seguenti: "Con decreto del Ministero dell'istruzione, di concerto con il Ministero dell'economia e delle finanze, entro novanta"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 548 e' abrogato.
 
 Al comma 1076 dell'articolo 1 della legge 27 dicembre 2017, n. 205, le parole: "di 350 milioni di euro per l'anno 2020, di 400 milioni di euro per l'anno 2021, di 550 milioni di euro per ciascuno degli anni 2022 e 2023 e di 250 milioni di euro per ciascuno degli anni dal 2024 al 2034" sono sostituite dalle seguenti: "di 360 milioni di euro per l'anno 2020, di 410 milioni di euro per l'anno 2021, di 575 milioni di euro per ciascuno degli anni 2022 e 2023 e di 275 milioni di euro per ciascuno degli anni dal 2024 al 2034".
 
@@ -1155,6 +2414,24 @@ Al comma 11 dell'articolo 45 del decreto-legge 24 aprile 2014, n. 66, convertito
 
 ((COMMA ABROGATO DAL D.L. 2 MARZO 2024, N. 19)).
 
+14-bis.
+                        
+                            
+                                All'articolo 44, comma 4, del decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole: "2017-2021" sono sostituite dalle seguenti: "2017-2022"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo periodo e' sostituito dai seguenti: "La somma delle quote capitale annuali sospese e' rimborsata linearmente, in quote annuali costanti, negli anni restanti di ogni piano di ammortamento originario, a decorrere dal 2023. Nel 2022 gli enti interessati dalla sospensione possono utilizzare l'avanzo di amministrazione esclusivamente per la riduzione del debito e possono accertare entrate per accensione di prestiti per un importo non superiore a quello degli impegni per il rimborso di prestiti, al netto di quelli finanziati dal risultato di amministrazione, incrementato dell'ammontare del disavanzo ripianato nell'esercizio. Entro sessanta giorni dalla data di entrata in vigore della presente disposizione, gli enti possono comunicare al Ministero dell'economia e delle finanze di non essere interessati alla sospensione per l'esercizio 2022".
+
 Agli oneri derivanti dal comma 14-bis, pari a 5,8 milioni di euro per l'anno 2022, si provvede mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
 
 Al fine di incentivare gli investimenti delle regioni nei rispettivi territori, al comma 321 dell'articolo 1 della legge 27 dicembre 2006, n. 296, e' aggiunto, in fine, il seguente periodo: "La riduzione dei trasferimenti erariali di cui al periodo precedente non si applica per gli anni dal 2023 al 2033". (13)
@@ -1172,6 +2449,24 @@ All'onere derivante dalle disposizioni di cui ai commi da 14-quater a 14-septies
 
 La tabella 1 allegata alla legge 30 dicembre 2018, n. 145, e' sostituita dalla tabella 1 di cui all'allegato 1 annesso al presente decreto.
 
+14-decies.
+                        
+                            
+                                Al testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 243-bis, comma 9-bis, sono aggiunte, in fine, le seguenti parole: ", nonche' alla copertura, anche a titolo di anticipazione, di spese di investimento strettamente funzionali all'ordinato svolgimento di progetti e interventi finanziati in prevalenza con risorse provenienti dall'Unione europea o da amministrazioni ed enti nazionali, pubblici o privati"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 249, comma 1, sono aggiunte, in fine, le seguenti parole: ", nonche' dei mutui per la copertura, anche a titolo di anticipazione, di spese di investimento strettamente funzionali all'ordinato svolgimento di progetti e interventi finanziati in prevalenza con risorse provenienti dall'Unione europea o da amministrazioni ed enti nazionali, pubblici o privati".
+
 --------------
                             AGGIORNAMENTO (13)
                             
@@ -1186,6 +2481,24 @@ La tabella 1 allegata alla legge 30 dicembre 2018, n. 145, e' sostituita dalla t
 Al fine di dare attuazione alla sentenza della Corte costituzionale n. 4 del 28 gennaio 2020, in sede di approvazione del rendiconto 2019 gli enti locali accantonano il fondo anticipazione di liquidita' nel risultato di amministrazione al 31 dicembre 2019, per un importo pari all'ammontare complessivo delle anticipazioni di cui al decreto-legge 8 aprile 2013, n. 35, convertito, con modificazioni, dalla legge 6 giugno 2013, n. 64, e successivi rifinanziamenti, incassate negli esercizi precedenti e non ancora rimborsate alla data del 31 dicembre 2019.
 
 L'eventuale peggioramento del disavanzo di amministrazione al 31 dicembre 2019 rispetto all'esercizio precedente, per un importo non superiore all'incremento dell'accantonamento al fondo anticipazione di liquidita' effettuato in sede di rendiconto 2019, e' ripianato annualmente, a decorrere dall'anno 2020, per un importo pari all'ammontare dell'anticipazione rimborsata nel corso dell'esercizio.((12))
+
+3.
+                        
+                            
+                                Il fondo anticipazione di liquidita' costituito ai sensi del comma 1 e' annualmente utilizzato secondo le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel bilancio di previsione 2020-2022, nell'entrata dell'esercizio 2020 e' iscritto, come utilizzo del risultato di amministrazione, un importo pari al fondo anticipazione di liquidita' accantonato nel risultato di amministrazione 2019 e il medesimo importo e' iscritto come fondo anticipazione di liquidita' nel titolo 4 della missione 20 - programma 03 della spesa dell'esercizio 2020, riguardante il rimborso dei prestiti, al netto del rimborso dell'anticipazione effettuato nell'esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'esercizio 2021, fino al completo utilizzo del fondo anticipazione di liquidita', nell'entrata di ciascun esercizio del bilancio di previsione e' applicato il fondo stanziato nella spesa dell'esercizio precedente e nella spesa e' stanziato il medesimo fondo al netto del rimborso dell'anticipazione effettuato nell'esercizio. ((12))
 
 La quota del risultato di amministrazione accantonata nel fondo anticipazione di liquidita' e' applicata al bilancio di previsione anche da parte degli enti in disavanzo di amministrazione.
 
@@ -1241,6 +2554,32 @@ b) il comma 3 e' sostituito dal seguente:
 Per lo svolgimento delle funzioni nella materia dell'innovazione tecnologica, anche al fine di favorire la diffusione di processi di innovazione tecnologica delle imprese e start-up, nonche' nelle materie dell'attuazione dell'agenda digitale e della trasformazione digitale del Paese con particolare riferimento alle infrastrutture digitali materiali e immateriali, alle tecnologie e servizi di rete, allo sviluppo ed alla diffusione dell'uso delle tecnologie tra cittadini, imprese e pubbliche amministrazioni, alla diffusione dell'educazione e della cultura digitale anche attraverso il necessario raccordo e coordinamento con le organizzazioni internazionali ed europee operanti nel settore, la Presidenza del Consiglio dei ministri puo' avvalersi, ai sensi dell'articolo 9, comma 2, del decreto legislativo 30 luglio 1999, n. 303, e dell'articolo 17, comma 14, della legge 15 maggio 1997, n. 127, in aggiunta al contingente di personale di cui alla tabella B allegata al decreto del Presidente del Consiglio dei ministri 17 febbraio 2010, di un contingente di personale in posizione di fuori ruolo, comando o altra analoga posizione, prevista dagli ordinamenti di provenienza, composto da sette unita' con qualifica non dirigenziale, proveniente dai ministeri, ad esclusione dei Ministeri dell'interno, della difesa, della giustizia, dell'economia e delle finanze e dell'istruzione, dell'universita' e della ricerca, del personale docente educativo, amministrativo, tecnico ed ausiliario delle istituzioni scolastiche, ovvero da altre pubbliche amministrazioni.
 All'atto del collocamento fuori ruolo, laddove disposto, e' reso indisponibile un numero di posti equivalente dal punto di vista finanziario nelle amministrazioni di provenienza. Il trattamento economico e' corrisposto secondo le modalita' previste dall'articolo 9, comma 5-ter, del decreto legislativo 30 luglio 1999, n. 303. Alla copertura dei relativi oneri si provvede attingendo agli stanziamenti ordinari di bilancio della Presidenza del Consiglio dei ministri. I posti del personale in comando non si considerano disponibili ai fini di nuove assunzioni presso la Presidenza del Consiglio dei ministri. ((10))
 
+2.
+                        
+                            
+                                All'articolo 8 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n.12, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1-quater e' sostituito dal seguente: 
+ «1-quater. A supporto delle strutture della Presidenza del Consiglio dei ministri di cui al comma 1-ter, opera un contingente di personale formato da esperti in possesso di specifica ed elevata competenza nello sviluppo e gestione di processi complessi di trasformazione tecnologica e delle correlate iniziative di comunicazione e disseminazione, nonche' di significativa esperienza in progetti di trasformazione digitale, ivi compreso lo sviluppo di programmi e piattaforme digitali con diffusione su larga scala. Il contingente opera alle dirette dipendenze delle strutture di cui al comma 1-ter ed e' composto da personale in posizione di fuori ruolo, comando o altra analoga posizione, prevista dagli ordinamenti di appartenenza, proveniente da ministeri, ad esclusione dei ministeri dell'interno, della difesa, della giustizia, dell'economia e delle finanze e dell'istruzione, dell'universita' e della ricerca e del personale docente, educativo, amministrativo, tecnico ed ausiliario delle istituzioni scolastiche, ovvero da altre pubbliche amministrazioni, ai sensi dell'articolo 9, comma 2, del decreto legislativo 30 luglio 1999, n. 303, e dell'articolo 17, comma 14, della legge 15 maggio 1997, n. 127. All'atto del collocamento fuori ruolo, laddove disposto, e' reso indisponibile un numero di posti equivalente dal punto di vista finanziario nelle amministrazioni di provenienza. Il trattamento economico e' corrisposto secondo le modalita' previste dall'articolo 9, comma 5-ter, del decreto legislativo 30 luglio 1999, n. 303. Il contingente di esperti e' altresi' composto da personale di societa' pubbliche partecipate dal Ministero dell'economia e delle finanze, in base a rapporto regolato su base convenzionale, su parere favorevole del Ministero dell'economia e delle finanze, ovvero da personale non appartenente alla pubblica amministrazione. Con decreto del Presidente del Consiglio dei ministri e nei limiti complessivi dello stanziamento di cui al comma 1-quinquies, sono definiti la consistenza numerica e le modalita' di formazione del contingente, la tipologia del rapporto di lavoro e le modalita' di chiamata, la durata e il regime giuridico del rapporto intercorrente con i componenti del contingente, le specifiche professionalita' richieste e il compenso spettante per ciascuna professionalita'.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1-quinquies, le parole: «da 1-bis a» sono sostituite dalle seguenti: «1-ter e» e dopo le parole «1-quater,» sono inserite le seguenti; «anche per spese di missione e per l'acquisto di servizi immediatamente correlate ai progetti di cui al comma 1-ter,»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, primo periodo, le parole «anche utilizzando le competenze e le strutture» sono sostituite dalle seguenti: «che le esercita avvalendosi» e le parole «, nonche' lo sviluppo e l'implementazione del punto di accesso telematico di cui all'articolo 64-bis del decreto legislativo n. 82 del 2005 e della piattaforma di cui all'articolo 50-ter del medesimo decreto legislativo n. 82 del 2005» sono sostituite dalle seguenti: «. Per la progettazione, lo sviluppo, la gestione e l'implementazione del punto di accesso telematico di cui all'articolo 64-bis del decreto legislativo n. 82 del 2005 e della piattaforma di cui all'articolo 50-ter del medesimo decreto legislativo n. 82 del 2005, la Presidenza del Consiglio dei ministri si avvale della societa' di cui al comma 2».
+
 All'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82, le parole «l'AgID» sono sostituite dalle seguenti: «la Presidenza del Consiglio dei ministri.».
 
 ------------------
@@ -1256,9 +2595,176 @@ Nelle more del completo recepimento della direttiva (UE) 2018/2001 del Parlament
 
 Per le finalita' di cui al comma 1, i consumatori di energia elettrica possono associarsi per divenire autoconsumatori di energia rinnovabile che agiscono collettivamente ai sensi dell'articolo 21, paragrafo 4, della direttiva (UE) 2018/2001, ovvero possono realizzare comunita' energetiche rinnovabili ai sensi dell'articolo 22 della medesima direttiva, alle condizioni di cui ai commi 3 e 4 e nei limiti temporali di cui al comma 4, lettera a), del presente articolo.
 
+3.
+                        
+                            
+                                I clienti finali si associano ai sensi del comma 2 nel rispetto delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di autoconsumatori di energia rinnovabile che agiscono collettivamente, i soggetti diversi dai nuclei familiari sono associati nel solo caso in cui le attivita' di cui alle lettere a) e
+                                
+                            
+                            
+                                b)
+                                
+                                    del comma 4 non costituiscono l'attivita' commerciale o professionale principale; 
+ b) nel caso di comunita' energetiche, gli azionisti o membri sono persone fisiche, piccole e medie imprese, enti territoriali o autorita' locali, comprese le amministrazioni comunali, e la partecipazione alla comunita' di energia rinnovabile non puo' costituire l'attivita' commerciale e industriale principale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'obiettivo principale dell'associazione e' fornire benefici ambientali, economici o sociali a livello di comunita' ai suoi azionisti o membri o alle aree locali in cui opera la comunita', piuttosto che profitti finanziari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la partecipazione alle comunita' energetiche rinnovabili e' aperta a tutti i consumatori ubicati nel perimetro di cui al comma 4, lettera d), compresi quelli appartenenti a famiglie a basso reddito o vulnerabili.
+
+4.
+                        
+                            
+                                Le entita' giuridiche costituite per la realizzazione di comunita' energetiche ed eventualmente di autoconsumatori che agiscono collettivamente operano nel rispetto delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti partecipanti producono energia destinata al proprio consumo con impianti alimentati da fonti rinnovabili di potenza complessiva non superiore a 200 kW, entrati in esercizio dopo la data di entrata in vigore della legge di conversione del presente decreto ed entro i sessanta giorni successivi alla data di entrata in vigore del provvedimento di recepimento della direttiva (UE) 2018/2001; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti partecipanti condividono l'energia prodotta utilizzando la rete di distribuzione esistente. L'energia condivisa e' pari al minimo, in ciascun periodo orario, tra l'energia elettrica prodotta e immessa in rete dagli impianti a fonti rinnovabili e l'energia elettrica prelevata dall'insieme dei clienti finali associati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'energia e' condivisa per l'autoconsumo istantaneo, che puo' avvenire anche attraverso sistemi di accumulo realizzati nel perimetro di cui alla lettera d) o presso gli edifici o condomini di cui alla lettera e); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di comunita' energetiche rinnovabili, i punti di prelievo dei consumatori e i punti di immissione degli impianti di cui alla lettera a) sono ubicati su reti elettriche di bassa tensione sottese, alla data di creazione dell'associazione, alla medesima cabina di trasformazione media tensione/bassa tensione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di autoconsumatori di energia rinnovabile che agiscono collettivamente, gli stessi si trovano nello stesso edificio o condominio.
+
+5.
+                        
+                            
+                                I clienti finali associati in una delle configurazioni di cui al comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantengono i loro diritti di cliente finale, compreso quello di scegliere il proprio venditore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possono recedere in ogni momento dalla configurazione di autoconsumo, fermi restando eventuali corrispettivi concordati in caso di recesso anticipato per la compartecipazione agli investimenti sostenuti, che devono comunque risultare equi e proporzionati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    regolano i rapporti tramite un contratto di diritto privato che tiene conto di quanto disposto alle lettere a) e b) e che individua univocamente un soggetto delegato, responsabile del riparto dell'energia condivisa. I clienti finali partecipanti possono, inoltre, demandare a tale soggetto la gestione delle partite di pagamento e di incasso verso i venditori e il Gestore dei servizi energetici (GSE) Spa.
+
 Sull'energia prelevata dalla rete pubblica dai clienti finali, compresa quella condivisa di cui al comma 4, lettera b), del presente articolo, si applicano gli oneri generali di sistema ai sensi dell'articolo 6, comma 9, secondo periodo, del decreto-legge 30 dicembre 2016, n. 244, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 19.
 
 Ai fini dell'incentivazione delle configurazioni di autoconsumo di cui al comma 2, gli impianti a fonti rinnovabili inseriti in tali configurazioni accedono al meccanismo tariffario di incentivazione di cui al comma 9. Non e' consentito l'accesso agli incentivi di cui al decreto del Ministro dello sviluppo economico 4 luglio 2019, pubblicato nella Gazzetta Ufficiale n. 186 del 9 agosto 2019, ne' al meccanismo dello scambio sul posto. Resta ferma la fruizione delle detrazioni fiscali previste dall'articolo 16-bis, comma 1, lettera h), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
+
+8.
+                        
+                            
+                                Entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, l'Autorita' di regolazione per energia, reti e ambiente (ARERA) adotta i provvedimenti necessari a garantire l'immediata attuazione delle disposizioni del presente articolo. La medesima Autorita', inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adotta i provvedimenti necessari affinche' il gestore del sistema di distribuzione e la societa' Terna Spa cooperino per consentire, con modalita' quanto piu' possibile semplificate, l'attuazione delle disposizioni del presente articolo, con particolare riguardo alle modalita' con le quali sono rese disponibili le misure dell'energia condivisa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fermo restando quanto previsto dal comma 6, individua, anche in via forfetaria, il valore delle componenti tariffarie disciplinate in via regolata, nonche' di quelle connesse al costo della materia prima energia, che non risultano tecnicamente applicabili all'energia condivisa, in quanto energia istantaneamente autoconsumata sulla stessa porzione di rete di bassa tensione e, per tale ragione, equiparabile all'autoconsumo fisico in situ; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede affinche', in conformita' a quanto disposto dalla lettera b) del comma 9, sia istituito un sistema di monitoraggio continuo delle configurazioni realizzate in attuazione del presente articolo; in tale ambito, prevede l'evoluzione dell'energia soggetta al pagamento di tali oneri e delle diverse componenti tariffarie tenendo conto delle possibili traiettorie di crescita delle configurazioni di autoconsumo, rilevabili dall'attivita' di monitoraggio, e dell'evoluzione del fabbisogno complessivo delle diverse componenti. Per tali finalita' l'ARERA puo' avvalersi delle societa' del gruppo GSE Spa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individua modalita' per favorire la partecipazione diretta dei comuni e delle pubbliche amministrazioni alle comunita' energetiche rinnovabili.
+
+9.
+                        
+                            
+                                Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Ministro dello sviluppo economico e' individuata una tariffa incentivante per la remunerazione degli impianti a fonti rinnovabili inseriti nelle configurazioni sperimentali di cui al comma 2, sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tariffa incentivante e' erogata dal GSE Spa ed e' volta a premiare l'autoconsumo istantaneo e l'utilizzo di sistemi di accumulo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il meccanismo e' realizzato tenendo conto dei principi di semplificazione e di facilita' di accesso e prevede un sistema di reportistica e di monitoraggio dei flussi economici ed energetici a cura del GSE Spa, allo scopo di acquisire elementi utili per la riforma generale del meccanismo dello scambio sul posto, da operare nell'ambito del recepimento della direttiva (UE) 2018/2001; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la tariffa incentivante e' erogata per un periodo massimo di fruizione ed e' modulata fra le diverse configurazioni incentivabili per garantire la redditivita' degli investimenti, tenuto conto di quanto disposto dal comma 6; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il meccanismo e' realizzato tenendo conto dell'equilibrio complessivo degli oneri in bolletta e della necessita' di non incrementare i costi tendenziali rispetto a quelli dei meccanismi vigenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' previsto un unico conguaglio, composto dalla restituzione delle componenti di cui al comma 8, lettera b), compresa la quota di energia condivisa, e dalla tariffa incentivante di cui al presente comma.
 
 10. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica))
 

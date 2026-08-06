@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2013-02-08;34
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,24 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento, si intende per 
+ 
+                            
+                            
+                                a)
+                                
+                                    «societa' tra professionisti» o «societa' professionale»: la societa', costituita secondo i modelli societari regolati dai titoli V e VI del libro V del codice civile e alle condizioni previste dall'articolo 10, commi da 3 a 11, della legge 12 novembre 2011, n. 183, avente ad oggetto l'esercizio di una o piu' attivita' professionali per le quali sia prevista l'iscrizione in appositi albi o elenchi regolamentati nel sistema ordinistico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «societa' multidisciplinare»: la societa' tra professionisti costituita per l'esercizio di piu' attivita' professionali ai sensi dell'articolo 10, comma 8, della legge 12 novembre 2011, n. 183.
+
 ## Art. 2. — Ambito di applicazione
 
 Le disposizioni del presente regolamento si applicano alle societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico, la cui costituzione e' consentita ai sensi dell'articolo 10, commi da 3 a 11, della legge 12 novembre 2011, n. 183.
@@ -43,6 +61,31 @@ Conferimento dell'incarico
 Al fine di garantire che tutte le prestazioni siano eseguite da soci in possesso dei requisiti richiesti per l'esercizio della professione svolta in forma societaria, sono imposti alla societa' obblighi di informazione del cliente secondo quanto previsto dal presente capo.
 
 ## Art. 4. — Obblighi di informazione
+
+1.
+                        
+                            
+                                La societa' professionale, al momento del primo contatto con il cliente, gli deve fornire, anche tramite il socio professionista, le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sul diritto del cliente di chiedere che l'esecuzione dell'incarico conferito alla societa' sia affidata ad uno o piu' professionisti da lui scelti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulla possibilita' che l'incarico professionale conferito alla societa' sia eseguito da ciascun socio in possesso dei requisiti per l'esercizio dell'attivita' professionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sulla esistenza di situazioni di conflitto d'interesse tra cliente e societa', che siano anche determinate dalla presenza di soci con finalita' d'investimento.
 
 Al fine di consentire la scelta prevista al comma 1, lettera a), la societa' professionale deve consegnare al cliente l'elenco scritto dei singoli soci professionisti, con l'indicazione dei titoli o delle qualifiche professionali di ciascuno di essi, nonche' l'elenco dei soci con finalita' d'investimento.
 
@@ -63,6 +106,31 @@ Incompatibilita'
 L'incompatibilita' di cui all'articolo 10, comma 6, della legge 12 novembre 2011, n. 183, sulla partecipazione del socio a piu' societa' professionali si determina anche nel caso della societa' multidisciplinare e si applica per tutta la durata della iscrizione della societa' all'ordine di appartenenza.
 
 L'incompatibilita' di cui al comma 1 viene meno alla data in cui il recesso del socio, l'esclusione dello stesso, ovvero il trasferimento dell'intera partecipazione alla societa' tra professionisti producono i loro effetti per quanto riguarda il rapporto sociale.
+
+3.
+                        
+                            
+                                Il socio per finalita' d'investimento puo' far parte di una societa' professionale solo quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia in possesso dei requisiti di onorabilita' previsti per l'iscrizione all'albo professionale cui la societa' e' iscritta ai sensi dell'articolo 8 del presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbia riportato condanne definitive per una pena pari o superiore a due anni di reclusione per la commissione di un reato non colposo e salvo che non sia intervenuta riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non sia stato cancellato da un albo professionale per motivi disciplinari.
 
 Costituisce requisito di onorabilita' ai sensi del comma 3 la mancata applicazione, anche in primo grado, di misure di prevenzione personali o reali.
 
@@ -87,6 +155,31 @@ La societa' tra professionisti e' iscritta in una sezione speciale degli albi o 
 La societa' multidisciplinare e' iscritta presso l'albo o il registro dell'ordine o collegio professionale relativo all'attivita' individuata come prevalente nello statuto o nell'atto costitutivo.
 
 ## Art. 9. — Procedimento
+
+1.
+                        
+                            
+                                La domanda di iscrizione di cui all'articolo 8 e' rivolta al consiglio dell'ordine o del collegio professionale nella cui circoscrizione e' posta la sede legale della societa' tra professionisti ed e' corredata della seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    atto costitutivo e statuto della societa' in copia autentica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato di iscrizione nel registro delle imprese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    certificato di iscrizione all'albo, elenco o registro dei soci professionisti che non siano iscritti presso l'ordine o il collegio cui e' rivolta la domanda.
 
 La societa' tra professionisti costituita nella forma della societa' semplice puo' allegare alla domanda di iscrizione, in luogo del documento indicato al comma 1, lettera a), una dichiarazione autenticata del socio professionista cui spetti l'amministrazione della societa'.
 

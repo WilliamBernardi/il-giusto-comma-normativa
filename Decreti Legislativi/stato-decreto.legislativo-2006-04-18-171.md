@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-12-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -58,6 +58,40 @@ La localizzazione regionale dell'operativita' e' determinata dalla Banca d'Itali
 Le regioni esercitano la potesta' legislativa concorrente in materia di banche a carattere regionale nel rispetto della Costituzione, dei vincoli derivanti dall'ordinamento comunitario, nonche' dalle norme e dagli obblighi internazionali e nei limiti dei principi fondamentali individuati dal presente decreto.
 
 Costituiscono principi fondamentali le disposizioni contenute nell'articolo 159 del testo unico delle disposizioni in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385.
+
+3.
+                        
+                            
+                                In applicazione di quanto previsto al comma 2, la legge regionale puo', in particolare, disciplinare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituzione di un albo delle banche a carattere regionale; 
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione, previo parere vincolante della Banca d'Italia a fini di vigilanza, dei provvedimenti relativi alle modifiche statutarie, ivi comprese quelle dipendenti da trasformazioni, fusioni e scissioni;
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di verifica dei requisiti di esperienza e onorabilita' degli esponenti aziendali. 
+ Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 18 aprile 2006 
+ CIAMPI 
+ Berlusconi, Presidente del Consiglio 
+ dei Ministri 
+ La Loggia, Ministro per gli affari 
+ regionali 
+ Castelli, Ministro della giustizia 
+ Tremonti, Ministro dell'economia e 
+ delle finanze 
+Visto, il Guardasigilli: Castelli
 
 ## Art. 3-bis. — (( (Meccanismo di vigilanza unico).))
 

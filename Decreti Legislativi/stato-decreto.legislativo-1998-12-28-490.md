@@ -8,8 +8,8 @@ codice_redazionale: 099G0031
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -98,6 +98,45 @@ Nel decreto legislativo 9 luglio 1997, n. 241, dopo l'articolo 7, e' inserito il
 Nel comma 5 dell'articolo 29 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, come sostituito dall'articolo 7, comma 1, del decreto legislativo 2 settembre 1997, n. 314, le parole: "25-bis e" sono sostituite dalle seguenti: "25-bis, 26 e".
 
 ## Art. 4. — Disposizioni finali e norma di copertura
+
+1.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                i commi da 1 a 7 e da 10 a 24 dell'articolo 78 della legge 30 dicembre 1991, n. 413;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 8-bis e 9 dell'articolo 4 del decretolegge 23 gennaio 1993, n. 16, convertito, con modificazioni, dalla legge 24 marzo 1993, n. 75;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 dell'articolo 62 del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 dell'articolo 5 del decreto-legge 31 maggio 1994, n. 330, convertito, con modificazioni, dalla legge 27 luglio 1994, n. 473;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 1 dell'articolo 9 del decreto legislativo 9 luglio 1997, n. 241.
 
 Nella legge 11 gennaio 1979, n. 12, all'articolo 1, quarto comma, dopo le parole: "di cui al primo comma a servizi" sono inserite le seguenti: "o a centri di assistenza fiscale".
 

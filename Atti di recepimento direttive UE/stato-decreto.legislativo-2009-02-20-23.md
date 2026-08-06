@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,75 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dello svilup
 ## Art. 1. — Modifiche al decreto legislativo 17 marzo 1995, n. 230
 
 Il titolo del decreto legislativo 17 marzo 1995, n. 230, e' sostituito dal seguente: «Attuazione delle direttive 89/618/Euratom, 90/641/Euratom, 96/29/Euratom e 2006/117/Euratom in materia di radiazioni ionizzanti.».
+
+2.
+                    
+                        
+                            All'articolo 32 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nella rubrica, dopo la parola: «radioattivi» sono aggiunte le seguenti: «e di combustibile nucleare esaurito»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo la parola: «radioattivi» sono inserite le seguenti: «e di combustibile nucleare esaurito»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, dopo le parole: «esportazioni dei rifiuti» sono inserite le seguenti: «e di combustibile nucleare esaurito»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera a) del comma 2 e' sostituita dalla seguente:
+ «a) l'autorita' preposta al rilascio del nulla osta di cui all'articolo 29 o dell'autorizzazione di cui all'articolo 30, sentiti i competenti organismi tecnici e le regioni o le province autonome territorialmente competenti, ove queste ultime non siano autorita' competenti al rilascio dell'autorizzazione stessa, nei casi di spedizioni, di importazioni o di esportazioni da effettuare nell'ambito delle attivita' soggette ai provvedimenti autorizzativi di cui agli stessi articoli 29 o 30 o nell'ambito di attivita' esenti da detti provvedimenti. Le regioni e le province autonome formulano eventuali osservazioni entro il termine di dieci giorni, trascorso il quale l'autorita' procede; »;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera b) del comma 2 e' sostituita dalla seguente:
+ «b) Il Ministero dello sviluppo economico, sentito l'ISPRA, il Ministero del lavoro, della salute e delle politiche sociali e la regione o le province autonome di destinazione o provenienza, nei casi di spedizioni, di importazioni o di esportazioni da effettuare nell'ambito degli altri provvedimenti autorizzativi di cui al presente decreto, nonche' nel caso di transito nel territorio italiano. Le regioni e le province autonome formulano eventuali osservazioni entro il termine di dieci giorni, trascorso il quale l'autorita' procede.»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 3, secondo periodo, le parole: «o non abbia comunicato alla Commissione europea la propria mancata accettazione di tale procedura di approvazione automatica, ai sensi dell'articolo 17 della direttiva 92/3/Euratom» sono soppresse;
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 4, secondo periodo, dopo le parole: «di rifiuti» sono inserite le seguenti: «e di combustibile nucleare esaurito»;
+
+                            
+                        
+                        
+                            h)
+                            
+                                dopo il comma 4, sono aggiunti i seguenti:
+ «4-bis. Con apposite prescrizioni da inserire nell'autorizzazione di cui al comma 1, viene fatto obbligo agli operatori della restituzione al Paese di origine, dei rifiuti radioattivi derivanti da:
+ a) operazioni di trattamento su rifiuti radioattivi introdotti nel territorio italiano destinati a tali operazioni o su altri materiali ai fini del recupero di rifiuti radioattivi;
+ b) operazioni di ritrattamento sul combustibile nucleare esaurito introdotto nel territorio italiano destinato a tali operazioni.
+ 4-ter. Le autorizzazioni di cui al comma 1 non possono essere rifiutate:
+ a) per il ritorno al Paese di origine di rifiuti radioattivi equivalenti a quelli che siano stati in precedenza spediti od esportati ai fini del loro trattamento, nel rispetto della normativa applicabile;
+ b) per il ritorno al Paese di origine dei rifiuti radioattivi e degli altri materiali prodotti dal ritrattamento di combustibile esaurito che sia stato effettuato in un Paese diverso, nel rispetto della normativa applicabile;
+ c) per il ritorno dei rifiuti radioattivi e del combustibile esaurito al detentore che ha effettuato la spedizione, nel caso in cui questa non possa essere ultimata nei casi descritti nel decreto di cui al comma 4, se la rispedizione e' effettuata nelle stesse condizioni e specifiche e nel rispetto della normativa applicabile.».
 
 Dopo il comma 4 dell'articolo 137 del decreto legislativo 17 marzo 1995, n. 230, sono inseriti i seguenti:
  «4-bis. Chi non ottempera agli obblighi di cui al comma 4-bis dell'articolo 32 e' punito con l'arresto da due a sei mesi o con l'ammenda da dieci a quarantamila euro.
@@ -64,6 +133,31 @@ Sorveglianza radiometrica su materiali o prodotti semilavorati metallici
 di cui all'articolo 32 del decreto legislativo 17 marzo 1995, n. 230
 
 Le disposizioni del presente decreto non si applicano alle spedizioni oggetto della medesima domanda di autorizzazione di cui al comma 1 dell'articolo 32 del decreto legislativo 17 marzo 1995, n. 230, debitamente approvata dall'Autorita' competente del Paese di origine od alla stessa trasmessa, prima della data di entrata in vigore del presente decreto.
+
+2.
+                    
+                        
+                            In sede di accettazione delle domande di autorizzazione di cui al comma 1 dell'articolo 32 del decreto legislativo n. 230 del 1995, presentate prima della data di entrata in vigore del presente decreto, riguardanti piu' spedizioni verso un Paese terzo di destinazione, l'Autorita' competente italiana deve tenere conto di tutte le circostanze del caso, e in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                del calendario previsto per l'effettuazione di tutte le spedizioni oggetto della medesima domanda debitamente compilata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della giustificazione fornita a proposito dell'inclusione di tutte le spedizioni in un'unica domanda debitamente compilata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dell'opportunita' di autorizzare per un numero di spedizioni inferiore a quello cui si riferisce la domanda debitamente compilata.
 
 ## Art. 3. — Regime transitorio per le disposizioni di cui all'articolo 157
  del decreto legislativo 17 marzo 1995, n. 230

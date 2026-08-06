@@ -8,8 +8,8 @@ codice_redazionale: 096G0347
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -75,9 +75,52 @@ Le prove devono essere effettuate nelle condizioni normali di prova e, ove espli
 
 ## Art. 11. — Condizioni normali ed estreme di prova
 
+1.
+                    
+                        
+                            Si intendono per condizioni normali di temperatura e di umidita' quelle corrispondenti a qualunque combinazione dei valori compresi nei limiti seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                temperatura da + 15(gradi) a + 35(gradi);
+
+                            
+                        
+                        
+                            b)
+                            
+                                umidita' relativa dal 20% al 75%.
+
 In condizioni normali di prova l'alimentazione deve essere quella nominale del ricevitore.
 
 Le prove in condizioni estreme di temperatura devono essere effettuate in corrispondenza ai limiti di temperatura di - 10(gradi) e + 55(gradi), con le modalita' descritte nel successivo art. 12.
+
+4.
+                    
+                        
+                            I valori di tensione inferiori per ricevitori che usano batterie non ricaricabili sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                tipo Leclanche' 0,85 volte la tensione nominale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tipo al mercurio 0,9 volte la tensione nominale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono consentiti anche altri valori che devono pero' essere espressamente dichiarati dal costruttore.
 
 ## Art. 12. — Esecuzione delle prove in condizioni estreme
 
@@ -119,6 +162,31 @@ Un piccolo foro puo' essere praticato al centro del piano di terra per consentir
 
 Il posto di misura deve essere situato su di una superficie o un terreno sufficientemente piano, in cui si disponga di una zona piatta di almeno 5 metri di diametro. L'apparecchio da sottoporre a misure deve essere collocato al centro di tale zona su un supporto non conduttore, in grado di ruotare di 360 (gradi) nel piano orizzontale, ad un metro e mezzo di altezza dal suolo. L'area impegnata per le misure deve essere abbastanza estesa, in modo tale da consentire l'erezione di una antenna di prova ad una distanza dall'apparato almeno uguale a 3 metri. Devono inoltre essere prese opportune precauzioni onde evitare che le riflessioni da oggetti vicini all'area di misura e sul suolo possano perturbare i risultati delle misure. Una guida all'impiego di un posto di misura per le misure con campi irradiati e' riportata nell'art. 24.
 
+2.
+                    
+                        
+                            Nel caso in cui si intenda effettuare la misura simulando l'effetto del corpo umano e' necessario utilizzare un simulatore costituito da un contenitore di forma cilindrica delle seguenti dimensioni:
+ 
+                        
+                        
+                            a)
+                            
+                                altezza: 1700 + 100 mm;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diametro interno: 300 + 5 mm;
+
+                            
+                        
+                        
+                            c)
+                            
+                                spessore della parete: 5 + 0,5 mm.
+
 Il suddetto contenitore deve essere riempito con una soluzione salina (NaCl) di concentrazione pari a 1,49 grammi per litro di acqua distillata.
 
 L'antenna di prova e' utilizzata come antenna emittente per la verifica delle caratteristiche del ricevitore oppure come antenna ricevente nella misura delle irradiazioni parassite. Questa antenna deve essere montata su un supporto che le consenta di essere utilizzata sia in polarizzazione orizzontale che in polarizzazione verticale, rendendo altresi' possibile la regolazione dell'altezza dal suo centro fra 1 m e 4 m dal suolo. E' preferibile utilizzare una antenna di prova dotata di forte direttivita'. La lunghezza dell'antenna di prova nella direzione in cui viene effettuata la misura non deve superare il 20% della distanza fra l'antenna stessa e l'apparecchio. L'antenna di prova e' normalmente collegata ad un generatore di segnali. Per le misure di irradiazione il generatore di segnali e' sostituito da un ricevitore di misura in grado di essere sintonizzato su una qualunque delle frequenze sotto esame ed adatto a misurare con precisione il livello relativo dei segnali applicati al suo ingresso. L'antenna di sostituzione deve essere un dipolo a mezza onda, accordato sulla frequenza di misura, oppure un'antenna piu' corta, tarata rispetto al dipolo a mezza onda. Il centro di questa antenna deve coincidere con il punto di riferimento dell'apparecchio in prova che essa sostituisce. Questo punto di riferimento deve coincidere con il centro del volume occupato dall'apparecchio in prova quando la sua antenna e' montata internamente o con il punto nel quale un'antenna esterna e' connessa all'apparecchio. La distanza fra l'estremita' piu' bassa del dipolo ed il suolo deve essere almeno di 30 centimetri. L'area destinata alle operazioni di misura deve essere costituita da una sala di laboratorio avente approssimativamente dimensioni di 6 x 7 metri ed una altezza di almeno 2,7 metri. La sala non deve contenere, per quanto possibile, oggetti riflettenti al di fuori delle pareti, del pavimento e del soffitto, eccezion fatta, ovviamente, per le attrezzature destinate all'esecuzione delle misure e per l'operatore. La dislocazione delle apparecchiature nell'area di misura e' indicata, in linea di massima, nella fig. 1. Le riflessioni prodotte sulla parete che si trova dietro l'apparecchio in prova devono essere attenuate da materiale assorbente posto davanti alla parete stessa. L'antenna di prova deve essere dotata di un diedro riflettente per ridurre gli effetti delle riflessioni sulla parete opposta, come pure sul soffitto e sul pavimento nel caso di misura con polarizzazione orizzontale. Inoltre tale diedro riduce gli effetti delle riflessioni sulle pareti laterali nel caso di polarizzazione verticale. Per motivi di ordine pratico e' opportuno ricorrere ad una antenna di lunghezza costante al posto dell'antenna a gamma/2 indicata nella fig. 1, da utilizzare a frequenze corrispondenti a lunghezza d'onda compresa tra gamma/4 e gamma/2, purche' la sensibilita' del ricevitore di misura sia sufficiente. Anche la distanza dell'antenna suddetta dal vertice del diedro puo' essere variata. Per evitare errori dovuti all'approssimarsi di situazioni che producono l'annullamento del segnale a causa di combinazioni tra segnale diretto e riflesso, l'antenna di sostituzione puo' essere spostata di (Piu' o Meno) 10 centimetri lungo la direzione dell'antenna di misura e nelle altre due direzioni perpendicolari. Qualora tali spostamenti producano una variazione del segnale superiore a (Piu' o Meno) 2 dB, l'apparecchio in prova deve essere opportunamente spostato onde far rientrare tale variazione entro il limite di (Piu' o Meno) 2 dB.
@@ -152,6 +220,24 @@ A8 = 20 log   1 + 1 ............. + 1
 corrisponde al segnale in ingresso all'antenna di prova che genera un valore di campo elettromagnetico pari alla sensibilita' del ricevitore. La misura del campo e' effettuata sostituendo il ricevitore in prova con l'antenna di sostituzione connessa ad un ricevitore calibrato di misura.
 
 La sensibilita' e' espressa in dB riferiti ad 1 (Micron)V/m.
+
+5.
+                    
+                        
+                            La sensibilita' del ricevitore, espressa come valore di campo elettromagnetico, non deve essere superiore ai seguenti limiti:
+ 
+                        
+                        
+                            a)
+                            
+                                per misure in campo libero 29 dB (Micron)V/m;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per misure con il simulatore del corpo umano 26 dB (Micron)V/m.
 
 La prova deve essere fatta sia in condizioni normali sia in condizioni estreme.
 
@@ -229,6 +315,39 @@ La seguente tabella indica i valori di tolleranza ammessi per ciascuna rispettiv
 
 ## Art. 24. — Guida all'uso di un posto di misura dei campi irradiati
 
+1.
+                    
+                        
+                            Per l'esecuzione di misure con campi irradiati si utilizza il posto di misura descritto nell'art. 16, tenendo presente le precauzioni seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                la distanza alla quale e' eseguita la misura non e' critica e non condiziona i risultati purche' non sia inferiore ad un valore pari a gamma/2. Valori di distanza di 3 metri, 5 metri, 10 metri, e 30 metri sono normalmente impiegati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                come antenna di prova si possono utilizzare antenne di vario tipo, perche' con il metodo di sostituzione gli errori di calibrazione dell'antenna di prova non influenzano i risultati.
+L'altezza dell'antenna di prova deve poter essere variata da 1 metro a 4 metri per ottenere il massimo valore di irradiazione. Tale regolazione non e' necessaria per misura e frequenza inferiore a 100 MHz;
+
+                            
+                        
+                        
+                            c)
+                            
+                                a frequenze inferiori a 80 MHz si possono osservare variazioni da una misura all'altra in funzione del tipo di antenna di sostituzione utilizzata. Se si utilizza un dipolo corto, le caratteristiche di questa antenna devono essere indicate insieme ai risultati delle misure;
+
+                            
+                        
+                        
+                            d)
+                            
+                                variazioni dei risultati delle misure possono essere causate dai cavi ausiliari. Per assicurare la ripetibilita' delle misure, tali cavi devono essere montati verticalmente verso il basso attraverso un foro praticato nel supporto isolante e devono essere equipaggiati, nella parte superiore, di un filtro di blocco a radiofrequenza.
+
 ## Art. 25. — Descrizione del codice POCSAG
 
 I messaggi in codice POCSAG consistono di un preambolo seguito da blocchi di parole in codice; ciascun blocco inizia con una parola codice di sincronismo (SC). Il formato della segnalazione e' illustrato in figura
@@ -243,6 +362,45 @@ Una parola in codice POCSAG e' composta da 32 bit (viene trasmesso per primo il 
 Il codice di sincronismo e'
  
  01111100110100100001010111011000
+
+6.
+                    
+                        
+                            La struttura di una parola codice di indirizzo e' illustrata in figura 3. Il bit 1 e' sempre zero per distinguere i codici di indirizzo dai codici di messaggio. I bit 2-19 sono i bit di indirizzo corrispondenti ai 18 bit piu' significativi dei 21 bit che identificano il ricevitore. Gli altri tre bit non sono trasmessi ma determinano in quale delle otto trame deve essere trasmesso l'indirizzo. I bit 20 e 21 sono due bit di funzione usati per selezionare un indirizzo tra i quattro assegnati al ricevitore secondo le seguenti regole:
+ 
+ bit di funzione
+ 00 Numerico 1
+ 01 Solo tono 2
+ 10 Solo tono 3
+ 11 Alfanumerico 4
+ Gli altri bit sono bit di controllo. Le temporizzazioni dei toni relativi ai diversi indirizzi devono essere preferibilmente le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                indirizzo 1 7/8 ON, 1/8 OFF, ripetizione ogni secondo
+
+                            
+                        
+                        
+                            b)
+                            
+                                indirizzo 2 1/8 ON, 1/8 OFF, 5/8 ON, 1/8 OFF, ripetizione ogni secondo
+
+                            
+                        
+                        
+                            c)
+                            
+                                indirizzo 3 1/8 ON, 1/8 OFF, 1/8 ON, 1/8 OFF, 1/8 ON, 3/8 OFF, ripetizione ogni secondo
+
+                            
+                        
+                        
+                            d)
+                            
+                                indirizzo 4 1/8 ON, 1/8 OFF, ripetizione quattro volte in un secondo, 1 secondo di silenzio, ripetizione.
 
 La struttura di un codice di messaggio e' mostrata in figura 3.
 Un codice di messaggio inizia sempre con un bit 1. L'intero messaggio segue l'indirizzo cui si riferisce. La regola della trama non si applica alle parole relative ai messaggi che proseguono in sequenza fino al termine del messaggio stesso. Un messaggio puo' anche proseguire nel blocco successivo. Una parola di messaggio contiene 20 bit significativi, seguiti da bit di controllo.

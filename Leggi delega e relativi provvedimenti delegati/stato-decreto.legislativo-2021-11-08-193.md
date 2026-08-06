@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-11-08;193
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -618,15 +618,375 @@ I soggetti tenuti al versamento dei contributi previsti dal Titolo V, Capo 2, de
 
 ## Art. 2. — Modifiche al decreto legislativo 1° settembre 1993, n. 385
 
+1.
+                    
+                        
+                            Al decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 1: 
+ 1) alla lettera a-bis), dopo le parole «la Banca d'Italia», sono inserite le seguenti: «o il Comitato di Risoluzione Unico stabilito dal regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio, nell'ambito del riparto di competenze definite dal medesimo regolamento,»; 
+ 2) dopo la lettera b) e' inserita la seguente: «b-bis) «BCE» indica la Banca centrale europea;»; 
+ 3) dopo la lettera e-quater) e' inserita la seguente:
+«e-quinquies) «MRU»: indica il Meccanismo di risoluzione unico, ossia il sistema di risoluzione istituito ai sensi del regolamento (UE) n. 806/2014, del Parlamento europeo e del Consiglio, composto dal Comitato di Risoluzione Unico e dalle autorita' nazionali di risoluzione degli Stati membri che vi partecipano;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 6: 
+ 1) la rubrica e' sostituita dalla seguente: «Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF, nel MVU e nel MRU»; 
+ 2) al comma 2, dopo le parole «il SEVIF» sono inserite le seguenti: «e il MRU»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 7, comma 6, le parole «e il MVU» sono sostituite dalle seguenti: «, il MVU e il MRU»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 12-bis, comma 1: 
+ 1) le parole «o da una societa' del gruppo bancario» sono sostituite dalle seguenti: «o da uno degli altri soggetti di cui all'articolo 2 del decreto legislativo 16 novembre 2015, n. 180»; 
+ 2) alla lettera b), le parole «comma 3» sono sostituite dalle seguenti: «comma 2-ter»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al Titolo II, capo I, dopo l'articolo 12-bis, e' inserito il seguente: 
+ «Art. 12-ter (Valore nominale unitario minimo delle obbligazioni e degli altri strumenti di debito).- 1. Il valore nominale unitario delle obbligazioni subordinate e degli altri titoli di debito subordinato emessi da una banca e' pari ad almeno euro 200.000. 
+ 2. Il valore nominale unitario degli strumenti di debito chirografario di secondo livello di cui all'articolo 12-bis emessi da una banca e' pari ad almeno euro 150.000. 
+ 3. I commi 1 e 2 si applicano altresi' alle obbligazioni subordinate, agli altri titoli di debito subordinati, nonche' agli strumenti di debito chirografario di secondo livello di cui all'articolo 12-bis emessi da un soggetto di cui all'articolo 2 del decreto legislativo 16 novembre 2015, n. 180, diverso da una banca.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 69-bis, comma 1: 
+ 1) alla lettera f), numero 2), le parole «[di recepimento della direttiva 2014/59/UE];» sono sostituite dalle seguenti: «16 novembre 2015, n. 180»; 
+ 2) alla lettera g), le parole «[di recepimento della direttiva 2014/59/UE];» sono sostituite dalle seguenti: «16 novembre 2015, n. 180, o all'articolo 18 del regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio»; 
+ 3) alla lettera i), le parole «[di recepimento della direttiva 2014/59/UE];» sono sostituite dalle seguenti: «16 novembre 2015, n. 180 o all'articolo 1, paragrafo 1, punto (29), del regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 69-quinquies: 
+ 1) al comma 6, le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «16 novembre 2015, n. 180»; 
+ 2) dopo il comma 7-bis, e' aggiunto il seguente: «7-ter. Il presente articolo si applica anche ai gruppi bancari cooperativi.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 69-sexiesdecies, comma 3, le parole «[decreto di recepimento della direttiva 2014/59/UE].» sono sostituite dalle seguenti: «decreto legislativo 16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                all'articolo 69-octiesdecies: 
+ 1) al comma 1, lettera b), la parola «medesima» e' soppressa; 
+ 2) dopo il comma 1 e' aggiunto il seguente: «1-bis. Le misure adottate ai sensi della presente Sezione sono comunicate al Comitato di Risoluzione Unico, quando riguardano i soggetti indicati all'articolo 7, paragrafi 2, 4, lettera b) e 5, del regolamento (UE) n. 806/2014.»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'articolo 69-vicies, comma 1, le parole «[decreto di recepimento della direttiva 2014/59/UE].» sono sostituite dalle seguenti: «decreto legislativo 16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                all'articolo 71, comma 6, primo periodo, le parole «applicano i requisiti di onorabilita' stabiliti ai sensi dell'articolo 26» sono sostituite dalle seguenti: «applica l'articolo 26, comma 3, lettere a) e d)»; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                all'articolo 80, il comma 1 e' sostituito dal seguente: 
+ «1. Il Ministro dell'economia e delle finanze, su proposta della Banca d'Italia, puo' disporre con decreto la liquidazione coatta amministrativa delle banche, anche quando ne sia in corso l'amministrazione straordinaria ovvero la liquidazione secondo le norme ordinarie, se ricorrono i presupposti indicati nell'articolo 17 del decreto legislativo 16 novembre 2015, n. 180, ma non quelli di cui all'articolo 20, comma 2, del medesimo decreto per disporre la risoluzione, ovvero quelli indicati nell'articolo 18, paragrafo 1, lettere a) e b), ma non quelli di cui alla lettera c), del regolamento (UE) n. 806/2014.»; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                all'articolo 81, dopo il comma 1-bis e' inserito il seguente: 
+ «1-ter. I commissari e i componenti del comitato di sorveglianza sono individuati in base ai criteri stabiliti dalla Banca d'Italia che, a tal fine, tiene conto dei requisiti e dei criteri stabiliti ai sensi dell'articolo 26, comma 3, lettere a) e d).»; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                all'articolo 83, comma 3-bis, le parole «[di recepimento della direttiva 2014/59]» sono sostituite dalle seguenti: «16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                all'articolo 84, comma 4, dopo il primo periodo e' aggiunto, in fine, il seguente: «I commissari pubblicano altresi' una informativa periodica ai creditori, ai titolari dei diritti indicati nell'articolo 86, comma 2, e ai soci sull'andamento della liquidazione, secondo le direttive delle Banca d'Italia.»; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                all'articolo 86: 
+ 1) al comma 1, secondo periodo, le parole «o telefax» sono soppresse e, al terzo periodo dopo le parole «la comunicazione puo' essere effettuata» sono inserite le seguenti: «con le stesse modalita'»; 
+ 2) al comma 4, dopo le parole «posta elettronica» e' inserita la seguente: «certificata»; 
+ 3) dopo il comma 9 sono aggiunti i seguenti: 
+ «9-bis. I commissari, previa autorizzazione della Banca d'Italia e con il parere favorevole del comitato di sorveglianza, possono non procedere all'accertamento del passivo relativamente ai crediti di cui al comma 1 se risulta che non puo' essere acquisito attivo da distribuire ad alcuno dei titolari di tali crediti, salva la soddisfazione dei crediti prededucibili e delle spese di procedura. 
+ 9-ter. Le disposizioni di cui al comma 9-bis si applicano, in quanto compatibili, anche quando la condizione di insufficiente realizzo emerge successivamente alla presentazione alla Banca d'Italia degli elenchi di cui al comma 6.»; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                all'articolo 91: 
+ 1) al comma 1-bis, dopo la lettera c-bis) e' inserita la seguente: 
+ «c-ter) quando non sono computabili nei fondi propri come definiti dall'articolo 4, paragrafo 1, punto 118), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, i crediti subordinati alla soddisfazione dei diritti di tutti i creditori non subordinati della societa' sono soddisfatti, per il rimborso del capitale, il pagamento degli interessi e eventuali altri importi dovuti, dopo i crediti indicati alla lettera c-bis) e con preferenza rispetto ai crediti derivanti da elementi di fondi propri, anche per la parte non computata nei fondi propri. Lo stesso trattamento si applica anche ai crediti subordinati, quando questi hanno cessato di essere computabili nei fondi propri.»; 
+ 2) al comma 11, dopo le parole «amministrati in un'ottica» sono inserite le seguenti: «conservativa con l'obiettivo»; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                all'articolo 92, comma 8, dopo le parole «84, commi 1, 3» sono inserite le seguenti: «, 5»; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                all'articolo 95-bis, comma 2-bis, le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                all'articolo 95-ter, comma 2: 
+ 1) alla lettera a), le parole «[di recepimento della direttiva 2014/59/UE];» sono sostituite dalle seguenti: «16 novembre 2015, n. 180»; 
+ 2) alla lettera b), le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                all'articolo 95-quater: 
+ 1) al comma 1, le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «16 novembre 2015, n. 180»; 
+ 2) al comma 2-bis, le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                all'articolo 96-bis: 
+ 1) al comma 1-bis, lettera d), dopo le parole: «banche extracomunitarie per» sono inserite le seguenti: «prevenire o»; 
+ 2) al comma 1-quater, lettera b), le parole «la banca beneficiaria dell'intervento e'» sono sostituite dalle seguenti: «le banche aderenti al sistema di garanzia cui aderisce la banca beneficiaria dell'intervento sono»; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                all'articolo 96-bis.3, dopo il comma 3 e' aggiunto il seguente: 
+ «3-bis. Con riguardo agli atti compiuti per effettuare gli interventi di cui all'articolo 96-bis, la responsabilita' dei sistemi di garanzia dei depositanti, dei soggetti che vi svolgono funzioni di amministrazione, direzione e controllo e dei loro dipendenti e' limitata ai soli casi di dolo o colpa grave.»; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                all'articolo 96-ter, comma 1, lettera d), prima delle parole «le procedure di coordinamento» e' inserita la seguente: «definisce»; 
+
+                            
+                        
+                        
+                            dd)
+                            
+                                all'articolo 102, comma 1, primo periodo, dopo le parole «norme di legge a esse applicabili» sono inserite, in fine, le seguenti: «, fermo restando l'articolo 102-bis»; 
+
+                            
+                        
+                        
+                            ee)
+                            
+                                all'articolo 113-ter, comma 3, al secondo periodo, le parole «alla Banca d'Italia il programma di liquidazione della societa'» sono sostituite dalle seguenti: «il programma di liquidazione della societa' alla Banca d'Italia che accerta la sussistenza dei presupposti per un regolare svolgimento della procedura di liquidazione ai sensi dell'articolo 96-quinquies»; 
+
+                            
+                        
+                        
+                            ff)
+                            
+                                all'articolo 144, comma 1, lettera a), dopo le parole «69-quinquies,» sono inserite le seguenti: «69-sexies,».
+
 ## Art. 3. — Modifiche al decreto legislativo 24 febbraio 1998, n. 58
 
+1.
+                    
+                        
+                            Al decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al Titolo II, Capo II, dopo l'articolo 25-ter, e' inserito il seguente: 
+ «Art. 25-quater (Obbligazioni bancarie e altri strumenti di debito). - 1. Sono nulli i contratti sottoscritti dai clienti al dettaglio relativi alla prestazione dei servizi di investimento che hanno per oggetto strumenti di cui all'articolo 12-ter del Testo Unico bancario emessi dai soggetti indicati all'articolo 2 del decreto legislativo 16 novembre 2015, n. 180, dalle Sim indicate all'articolo 55-bis, comma 1, o da banche o imprese di investimento dell'Unione Europea o da societa' del gruppo di cui queste fanno parte, quando gli strumenti hanno un valore nominale unitario inferiore a quello stabilito dal medesimo articolo 12-ter del Testo Unico bancario e sono stati emessi dopo la data di entrata in vigore di quest'ultimo. 
+ 2. La previsione del comma 1 si applica anche con riguardo ai contratti sottoscritti dai clienti al dettaglio relativi alla prestazione dei servizi di investimento che hanno per oggetto strumenti di cui all'articolo 12-ter del Testo Unico bancario emessi da soggetti aventi sede legale in un Paese terzo che, se avessero sede legale in Italia, sarebbero qualificabili come soggetti indicati all'articolo 2 del decreto legislativo 16 novembre 2015, n. 180, ovvero come Sim indicate all'articolo 55-bis, comma 1. 
+ 3. La nullita' prevista dal presente articolo puo' essere fatta valere solo dal cliente e puo' essere rilevata d'ufficio dal giudice.
+Si applica il comma 6 dell'articolo 23.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 55-bis, comma 1, la lettera b) e' sostituita dalla seguente: 
+ «b) assunzione a fermo di strumenti finanziari e, in aggiunta o in alternativa, collocamento di strumenti finanziari sulla base di un impegno irrevocabile nei confronti dell'emittente;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 57: 
+ 1) al comma 3-bis dopo le parole «gli articoli 83,» sono inserite le seguenti: «84, comma 3,»; 
+ 2) il comma 6-bis e' sostituito dal seguente: 
+ «6-bis. Qualora le attivita' del fondo o del comparto non consentano di soddisfare le obbligazioni dello stesso e non sussistano ragionevoli prospettive che tale situazione possa essere superata, uno o piu' creditori o la SGR possono chiedere la liquidazione del fondo al tribunale del luogo in cui la SGR ha la sede legale. Il tribunale, sentiti la Banca d'Italia e i rappresentanti legali della SGR, quando ritenga fondato il pericolo di pregiudizio, dispone la liquidazione del fondo con sentenza deliberata in camera di consiglio. In tale ipotesi, la Banca d'Italia nomina uno o piu' liquidatori, che provvedono secondo quanto disposto dal comma 3-bis, nonche' un comitato di sorveglianza composto da tre membri, che nomina a maggioranza di voti il proprio presidente; possono essere nominati liquidatori anche SGR o enti. Il provvedimento della Banca d'Italia e' pubblicato per estratto nella Gazzetta Ufficiale della Repubblica italiana. Si applica agli organi liquidatori, in quanto compatibile, l'articolo 84, ad eccezione del comma 5, del Testo Unico bancario. Se la SGR che gestisce il fondo e' successivamente sottoposta a liquidazione coatta amministrativa, i commissari liquidatori della SGR assumono l'amministrazione del fondo sulla base di una situazione dei conti predisposta dai liquidatori del fondo stesso. Le indennita' spettanti ai liquidatori e ai componenti il comitato di sorveglianza sono determinate dalla Banca d'Italia in base ai criteri dalla stessa stabiliti e sono a carico della liquidazione.»; 
+ 3) dopo il comma 6-bis e' inserito il seguente: 
+ «6-bis.1. Qualora il fondo o il comparto sottoposto a liquidazione ai sensi del comma 6-bis sia privo di risorse liquide o queste siano stimate dai liquidatori insufficienti a soddisfare i crediti in prededuzione fino alla chiusura della liquidazione, i liquidatori pagano, con priorita' rispetto a tutti gli altri crediti prededucibili, le spese necessarie per il funzionamento della liquidazione, le indennita' e le spese per lo svolgimento dell'incarico degli organi liquidatori, le spese per l'accertamento del passivo, per la conservazione e il realizzo dell'attivo, per l'esecuzione di riparti e restituzioni e per la chiusura della liquidazione stessa, utilizzando dapprima le risorse liquide eventualmente disponibili della liquidazione, e poi le somme messe a disposizione dalla societa' di gestione del risparmio che gestisce il fondo o il comparto. Le somme anticipate dalla SGR sono recuperate sulle risorse liquide della procedura che si rendano successivamente disponibili, dopo il pagamento degli altri crediti prededucibili. Se la SGR e' sottoposta a liquidazione coatta amministrativa ed e' priva di risorse liquide o queste sono stimate dai commissari insufficienti a soddisfare le spese e le indennita' di cui al primo periodo del presente comma, al fondo o al comparto si applica, in quanto compatibile, l'articolo 92-bis del Testo Unico bancario.»; 
+ 4) il comma 6-ter e' sostituito dal seguente: 
+ «6-ter. La procedura disciplinata dal presente articolo trova applicazione anche nei confronti della societa' posta al vertice del gruppo di Sim ai sensi dell'articolo 11 e delle altre componenti del gruppo. La liquidazione coatta amministrativa della capogruppo e' disposta qualora le irregolarita' nell'amministrazione ovvero le violazioni delle disposizioni legislative, amministrative o statutarie o le perdite previste dall'articolo 56 siano di eccezionale gravita' nonche' quando le inadempienze nell'esercizio dell'attivita' prevista dall'articolo 61, comma 4, del Testo Unico bancario siano di eccezionale gravita'. In caso di gruppo in cui sia inclusa una Sim indicata all'articolo 55-bis, comma 1, la liquidazione coatta amministrativa della capogruppo e' disposta se ricorrono i presupposti di cui all'articolo 99, comma 2, del Testo Unico bancario e alle altre componenti del gruppo si applica altresi' l'articolo 102-bis del Testo Unico bancario. Si applicano, in ogni caso, gli articoli 99, commi 3, 4, e 5, 101, 102, 103, 104, e 105 del Testo Unico bancario, intendendosi le suddette disposizioni riferite alle Sim in luogo delle banche, nonche' alla societa' posta al vertice del gruppo ai sensi dell'articolo 11 in luogo della capogruppo. Il riferimento all'articolo 64 del Testo Unico bancario, contenuto nell'articolo 105 del Testo Unico bancario, si intende effettuato all'articolo 11 del presente decreto.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 60-bis.2: 
+ 1) al comma 1: 
+ 1.1) alla lettera a), le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «legislativo 16 novembre 2015, n. 180»; 
+ 1.2) alla lettera b), le parole «[di recepimento della direttiva 2014/59/UE]», sono sostituite dalle seguenti: «legislativo 16 novembre 2015, n. 180»; 
+ 2) al comma 3, le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «legislativo 16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 60-bis.3: 
+ 1) al comma 1, le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «legislativo 16 novembre 2015, n. 180»; 
+ 2) al comma 2, le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «legislativo 16 novembre 2015, n. 180»; 
+ 3) al comma 3, le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «legislativo 16 novembre 2015, n. 180»; 
+ 4) dopo il comma 3 e' aggiunto, in fine, il seguente: 
+ «3.bis. Alle Sim si applica la disciplina del requisito minimo di passivita' soggette a bail-in prevista dal Capo II bis del Titolo II del decreto legislativo 16 novembre 2015, n. 180.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 60-bis.4: 
+ 1) il comma 1 e' sostituito dal seguente: 
+ «1. Alle Sim si applicano i Titoli IV e VI, nonche' gli articoli 99, 102, 103, 104 e 105 del decreto legislativo 16 novembre 2015, n. 180. I provvedimenti, indicati all'articolo 20 del medesimo decreto legislativo, con cui e' disposta la riduzione o la conversione di azioni, di altre partecipazioni e di strumenti di capitale, o l'avvio della risoluzione sono adottati sentita la Consob per i profili di competenza.»; 
+ 2) dopo il comma 1 e' inserito il seguente: 
+ «1-bis. In deroga a quanto previsto dagli articoli 19, comma 2, e 20, comma 2, del decreto legislativo 16 novembre 2015, n. 180, la sussistenza dei presupposti previsti dall'articolo 17, comma 1, lettere a) e b), nonche' dell'interesse pubblico di cui all'articolo 20, comma 2, del medesimo decreto e' accertata dalla Banca d'Italia.»; 
+ 3) al comma 2, le parole «[di recepimento della direttiva 2014/59/UE]» sono sostituite dalle seguenti: «legislativo 16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 60-bis.4-bis: 
+ 1) la rubrica e' sostituita dalla seguente: «Strumenti di debito chirografario di secondo livello e valore nominale unitario minimo»; 
+ 2) dopo il comma 1 e' aggiunto il seguente: 
+ «1-bis. Alle Sim indicate all'articolo 55-bis, comma 1, e alle societa' del gruppo individuato ai sensi dell'articolo 11 si applica l'articolo 12-ter del Testo Unico bancario.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 190, dopo il comma 2-quater e' inserito il seguente: 
+ «2-quinquies. La Consob applica nei confronti dei soggetti abilitati la sanzione prevista dal comma 1 per l'inosservanza dell'articolo 25-quater.»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                all'articolo 195-quater, comma 1, dopo le parole «60, comma 1, lettere a) ed h),» sono inserite le seguenti: «68-bis,».
+
 ## Art. 4. — Modifiche al decreto legislativo 12 aprile 2001, n. 210
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 12 aprile 2001, n. 210 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera g) e' sostituita dalla seguente: 
+ «g) «controparte centrale»: il soggetto di cui all'articolo 2, punto 1, del regolamento (UE) n. 648/2012;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera n) e' sostituita dalla seguente: 
+ «n) «partecipante»: un ente, una controparte centrale, un agente di regolamento, una stanza di compensazione, un operatore del sistema o un partecipante diretto di una controparte centrale autorizzata ai sensi dell'articolo 17 del regolamento (UE) n. 648/2012;».
 
 ## Art. 5. — Modifiche alla legge 27 dicembre 2017, n. 205
 
 L'articolo 1, comma 1105, della legge 27 dicembre 2017, n. 205, e' abrogato.
 
 ## Art. 6. — Modifiche al decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                    
+                        
+                            Al decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 369, comma 1, lettera e): 
+ 1) al numero 1), la parola «296» e' sostituita dalla seguente: «297»; 
+ 2) al numero 2), la parola «297» e' sostituita dalla seguente: «298»; 
+ 3) al numero 3), la parola «298» e' sostituita dalla seguente:
+«299».
 
 ## Art. 7.
 

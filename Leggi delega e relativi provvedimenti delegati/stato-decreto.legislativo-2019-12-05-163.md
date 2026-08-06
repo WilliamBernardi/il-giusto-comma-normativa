@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2019-12-05;163
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,7 +46,27 @@ L'operatore che non ottempera agli obblighi di controllo delle perdite secondo l
 
 ## Art. 5. — Violazione degli obblighi stabiliti dall'articolo 5 del regolamento (UE) n. 517/2014 in materia di sistemi di rilevamento delle perdite
 
+1.
+                    
+                        
+                            L'operatore delle apparecchiature elencate all'articolo 4, paragrafo 2, lettere da 
+                        
+                        
+                            a)
+                            
+                                a d) del regolamento (UE) n. 517/2014 e contenenti gas fluorurati a effetto serra in quantita' pari o superiori a 500 tonnellate di CO2 equivalente che non doti dette apparecchiature di un sistema di rilevamento delle perdite in grado di segnalare allo stesso operatore o ad un'impresa di manutenzione eventuali perdite, e' punito con la sanzione amministrativa pecuniaria da 10.000,00 euro a 100.000,00 euro.
+
 L'operatore delle apparecchiature elencate all'articolo 4, paragrafo 2, lettere f) e g) del regolamento (UE) n. 517/2014 e contenenti gas fluorurati a effetto serra in quantita' pari o superiori a 500 tonnellate di CO2 equivalente, installate a decorrere dal 1° gennaio 2017, che non doti dette apparecchiature di un sistema di rilevamento delle perdite in grado di segnalare allo stesso operatore o ad un'impresa di manutenzione eventuali perdite, e' punito con la sanzione amministrativa pecuniaria da 10.000,00 euro a 100.000,00 euro.
+
+3.
+                    
+                        
+                            L'operatore delle apparecchiature elencate all'articolo 4, paragrafo 2, lettere da 
+                        
+                        
+                            a)
+                            
+                                a d) del regolamento (UE) n. 517/2014 e lettera g) e contenenti gas fluorurati a effetto serra in quantita' pari o superiori a 500 tonnellate di CO2 equivalente dotate di un sistema di rilevamento delle perdite in grado di segnalare allo stesso operatore o ad un'impresa di manutenzione eventuali perdite, che non effettua il controllo di detti sistemi almeno una volta ogni dodici mesi, e' punito con la sanzione amministrativa pecuniaria da 10.000,00 euro a 100.000,00 euro.
 
 L'operatore delle apparecchiature elencate all'articolo 4, paragrafo 2, lettera f) del regolamento (UE) n. 517/2014 e contenenti gas fluorurati a effetto serra in quantita' pari o superiori a 500 tonnellate di CO2 equivalente, installate a decorrere dal 1° gennaio 2017, dotate di un sistema di rilevamento delle perdite in grado di segnalare allo stesso operatore o ad un'impresa di manutenzione eventuali perdite, che non effettua il controllo di detti sistemi almeno una volta ogni sei anni, e' punito con la sanzione amministrativa pecuniaria da 10.000,00 euro a 100.000,00 euro.
 
@@ -126,6 +146,26 @@ Violazione degli obblighi stabiliti dall'articolo 15, 16 e 18 del regolamento (U
  4. Le sanzioni di cui ai commi 1 e 3 non si applicano ai produttori e agli importatori, ovvero al rappresentante esclusivo che ha ricevuto il mandato da un produttore o un importatore, nelle ipotesi di cui all'articolo 15, paragrafo 2, del regolamento (UE) n. 517/2014.
 
 ## Art. 14. — Violazione degli obblighi stabiliti dall'articolo 17 del regolamento (UE) n. 517/2014 in materia di iscrizione al registro elettronico delle quote per l'immissione in commercio di idrofluorocarburi
+
+1.
+                    
+                        
+                            I produttori e gli importatori, ovvero il rappresentante esclusivo che ha ricevuto il mandato da un produttore o un importatore, che forniscono idrofluorocarburi per le finalita' di cui all'articolo 15, paragrafo 2, secondo sottoparagrafo, lettere da 
+                        
+                        
+                            a)
+                            
+                                a f) del regolamento (UE) n. 517/2014 senza effettuare la registrazione ai sensi dell'articolo 17 del regolamento (UE) n. 517/2014, sono puniti con la sanzione amministrativa pecuniaria da 5.000,00 euro a 50.000,00 euro.
+
+2.
+                    
+                        
+                            La medesima sanzione si applica alle imprese che ricevono idrofluorocarburi per le finalita' di cui all'articolo 15, paragrafo 2, secondo sottoparagrafo, lettere da 
+                        
+                        
+                            a)
+                            
+                                a f) del regolamento (UE) n. 517/2014 senza effettuare la registrazione ai sensi dell'articolo 17 del regolamento (UE) n. 517/2014.
 
 Gli importatori di apparecchiature che immettono in commercio apparecchiature precaricate che contengono idroclorofluorocarburi non immessi in commercio prima di caricare tali apparecchiature senza effettuare la registrazione ai sensi dell'articolo 17 del regolamento (UE) n. 517/2014, sono puniti con la sanzione amministrativa pecuniaria da 5.000,00 euro a 50.000,00 euro.
 

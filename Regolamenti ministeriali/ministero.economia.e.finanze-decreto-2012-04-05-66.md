@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-08-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,60 @@ Sentite la Banca d'Italia e la Consob;
 Udito il parere del Consiglio di Stato espresso nell'adunanza della Sezione consultiva per gli atti normativi in data 6 dicembre 2011;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Nel presente regolamento si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "albo": la sezione dell'albo istituito ai sensi dell'articolo 18-bis, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, dedicata alle societa' di consulenza finanziaria di cui all'articolo 18-ter; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "societa' di consulenza finanziaria": le societa' costituite in forma di societa' per azioni o societa' a responsabilita' limitata che prestano la consulenza in materia di investimenti, senza detenere somme di denaro o strumenti finanziari di pertinenza dei clienti, di cui all'articolo 18-ter, del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "consulenza in materia di investimenti": il servizio di investimento di cui all'articolo 1, comma 5-septies, del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "emittenti e intermediari": gli emittenti prodotti finanziari, i soggetti abilitati di cui all'articolo 1, comma 1, lettera r), del decreto legislativo 24 febbraio 1998, n. 58, le imprese di assicurazione, gli agenti di cambio, le societa' di cui all'articolo 60, comma 4, del decreto legislativo 23 luglio 1996, n. 415, la societa' Poste Italiane autorizzata alla prestazione di servizi di investimento ai sensi degli articoli 2 e 12, del decreto del Presidente della Repubblica 14 marzo 2001, n. 144, e ogni altro soggetto che intermedia risorse finanziarie attraverso prodotti finanziari, qualunque sia il Paese in cui tali soggetti hanno la propria sede; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "organismo": l'organismo di cui all'articolo 18-bis, comma 2, del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "Testo Unico": il decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "d.m. 24 dicembre 2008, n. 206": il Regolamento di disciplina dei requisiti di professionalita', onorabilita', indipendenza e patrimoniali per l'iscrizione all'albo delle persone fisiche consulenti finanziari, adottato dal Ministero dell'economia e delle finanze con decreto del 24 dicembre 2008, n. 206. 
+ ((1))
 
 --------------
                         AGGIORNAMENTO (1)

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-06-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,9 +28,81 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende: 
+
+                            
+                            
+                                a)
+                                
+                                    per "societa' richiedenti", le societa' di capitali costituite dai soggetti abilitati alla costituzione del Centro di assistenza fiscale di cui all'articolo 32, comma 1, del decreto legislativo 9 luglio 1997, n. 241, come modificato dall'articolo 1 del decreto legislativo 28 dicembre 1998, n. 490, che hanno presentato domanda di autorizzazione allo svolgimento dell'attivita' di assistenza fiscale; 
+                                
+                            
+                            
+                                b)
+                                
+                                    per "CAF", Centri di assistenza fiscale disciplinati dal capo V 
+dello stesso decreto n. 241 del 1997, per i quali e' intervenuto il provvedimento di autorizzazione allo svolgimento delle attivita' di assistenza fiscale ai sensi dell'articolo 7; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per "CAF-imprese", i Centri di cui alla lettera b), costituiti dai soggetti di cui all'articolo 32, comma 1, lettere a) , b) e c), del predetto decreto n. 241 del 1997; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per "CAF-dipendenti", i Centri di cui alla lettera b), costituiti dai soggetti di cui all'articolo 32, comma 1, lettere d) ,
+                                
+                            
+                            
+                                e)
+                                
+                                    ed f), del medesimo decreto n. 241 del 1997; 
+ e) per "professionisti", i soggetti di cui all'articolo 3, comma 3, lettere a) e b), del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, abilitati alla trasmissione telematica delle dichiarazioni ai sensi del comma 4 dello stesso articolo 3; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per "certificatori", i soggetti di cui all'articolo 36, comma 1, del citato decreto n. 241 del 1997.
+
 ## Art. 2. — Visto di conformita'
 
 Il rilascio del visto di conformita' di cui all'articolo 35, comma 2, lettera a), del decreto legislativo 9 luglio 1997, n. 241, implica il riscontro della corrispondenza dei dati esposti nella dichiarazione alle risultanze della relativa documentazione e alle disposizioni che disciplinano gli oneri deducibili e detraibili, le detrazioni e i crediti d'imposta, lo scomputo delle ritenute d'acconto.
+
+2.
+                        
+                            
+                                Il rilascio del visto di conformita' di cui all'articolo 35, comma 1, lettera a), del decreto legislativo 9 luglio 1997, n. 241, implica, inoltre:
+ 
+                            
+                            
+                                a)
+                                
+                                    la verifica della regolare tenuta e conservazione delle scritture contabili obbligatorie ai fini delle imposte sui redditi e delle imposte sul valore aggiunto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la verifica della corrispondenza dei dati esposti nella dichiarazione alle risultanze delle scritture contabili e di queste ultime alla relativa documentazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D. 18 GENNAIO 2001, N. 14)).
 
 ## Art. 3. — Asseverazione
 
@@ -69,6 +141,80 @@ Le imprese di assicurazione danno immediata comunicazione al Dipartimento delle 
 
 ## Art. 7. — Procedimento per l'autorizzazione allo svolgimento dell'attivita' di assistenza fiscale e requisiti delle societa' richiedenti e dei Centri autorizzati
 
+1.
+                        
+                            
+                                Lo svolgimento dell'attivita' di assistenza fiscale e' subordinato al rilascio di autorizzazione da parte del Dipartimento delle entrate. Per il rilascio della autorizzazione, e' presentata al Dipartimento delle entrate apposita domanda nella quale sono indicati: (2) 
+ 
+                            
+                            
+                                a)
+                                
+                                    il codice fiscale e la partita IVA della societa' richiedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati anagrafici dei componenti del consiglio di 
+ amministrazione della societa' richiedente, nonche' dei 
+ componenti del collegio sindacale, ove lo stesso sia previsto 
+ dalle norme del codice civile in relazione al tipo di societa' richiedente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati anagrafici ed i requisiti professionali dei responsabili dell'assistenza fiscale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le sedi e gli uffici periferici presso le quali e' svolta l'attivita' di assistenza fiscale, compresi quelli di cui all'articolo 11 che, per i centri costituiti ai sensi dell'articolo 32, comma 1, lettere d),
+                                
+                            
+                            
+                                e)
+                                
+                                    ed f), del decreto legislativo 9 luglio 1997, n. 241, devono essere presenti in almeno un terzo delle province. Per i centri di assistenza fiscale riconducibili alla medesima associazione od organizzazione o a strutture da esse delegate ai sensi dell'articolo 32 del decreto legislativo 9 luglio 1997, n. 241, il requisito indicato nella presente lettera e' considerato complessivamente; 
+ e) la denominazione o la ragione sociale e i dati anagrafici dei componenti del consiglio di amministrazione e, ove previsto, del collegio sindacale delle societa' di servizi delle quali la societa' richiedente intende avvalersi per lo svolgimento dell'attivita' di assistenza fiscale, nonche' l'indicazione delle specifiche attivita' da affidare alle stesse.
+
+2.
+                        
+                            
+                                Alla richiesta di cui al comma 1, sono allegati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    copia dell'atto costitutivo e dello statuto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copia della polizza assicurativa di cui all'articolo 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione relativa all'insussistenza di provvedimenti di sospensione dell'ordine di appartenenza a carico dei responsabili dell'assistenza fiscale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    relazione tecnica dalla quale emerga il rispetto dei requisiti sulle garanzie di idoneita' tecnico-organizzativa del centro anche in relazione a quanto previsto dal comma 1, lettera d), la formula organizzativa assunta anche in ordine ai rapporti di lavoro dipendente utilizzati nel rispetto del decreto legislativo 6 settembre 2001, n. 368, e successive modificazioni, i sistemi di controllo interno volti a garantire la correttezza dell'attivita', anche in ordine all'affidamento a terzi dell'attivita' di assistenza fiscale e a garantire adeguati livelli di servizio nonche' il piano di formazione del personale differenziato in base alle funzioni svolte dalle diverse figure professionali che operano nei centri. Con decreto del Ministro dell'economia e delle finanze sono stabilite le modalita' dell'attivita' formativa tenendo conto delle diverse figure professionali, l'unita' di misura per la valutazione della formazione e le modalita' di attestazione e di verifica dello svolgimento della formazione;
+
 I centri costituiti ai sensi dell'articolo 32, comma 1, lettere d), e) ed f), del citato decreto legislativo n. 241 del 1997, dopo il primo anno di attivita', presentano entro il 31 gennaio, con riferimento all'anno precedente, una relazione sulla capacita' operativa e sulle risorse umane utilizzate anche in ordine alla tipologia di rapporti di lavoro instaurati e alla formazione svolta, sull'affidamento a terzi dell'attivita' di assistenza fiscale e sui controlli effettuati volti a garantire la qualita' del prodotto, la qualita' e l'adeguatezza dei livelli di servizio, sul numero di dichiarazioni validamente trasmesse all'Agenzia delle entrate. 
  2-ter.((COMMA ABROGATO DAL D.L. 28 GENNAIO 2019, N. 4, CONVERTITO CON MODIFICAZIONI DALLA L. 28 MARZO 2019, n. 26)).
 
@@ -84,8 +230,65 @@ AGGIORNAMENTO (2)
 
 ## Art. 8. — Requisiti soggettivi
 
+1.
+                        
+                            
+                                I componenti del consiglio di amministrazione, e, ove previsto, del collegio dei sindaci della societa' richiedente, nonche' della societa' di servizi di cui intende avvalersi la medesima societa' richiedente, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non aver riportato condanne, anche non definitive, o sentenze emesse ai sensi dell'articolo 444 del codice di procedura penale per reati finanziari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non aver procedimenti penali pendenti nella fase del giudizio per reati finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non aver commesso violazioni gravi e ripetute, per loro natura ed entita', ((alle disposizioni in materia contributiva e tributaria)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non trovarsi in una delle condizioni previste dall'articolo 15, comma 1, della legge 19 marzo 1990, n. 55, come sostituito dall'articolo 1 della legge 18 gennaio 1992, n. 16. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    non aver fatto parte di societa' per le quali e' stato emesso un provvedimento di revoca ai sensi dell'articolo 39, comma 4, del decreto legislativo 9 luglio 1997, n. 241, nei cinque anni precedenti.
+
 ## Art. 9. — Albi dei Centri autorizzati all'esercizio
  dell'attivita' di assistenza fiscale
+
+1.
+                        
+                            
+                                Le societa' richiedenti per le quali sia intervenuto il provvedimento di autorizzazione all'esercizio dell'attivita' di assistenza fiscale di cui all'articolo 7, sono iscritte:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'"Albo dei Centri di assistenza fiscale per le imprese" se costituiti dai soggetti di cui all'articolo 32, comma 1, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e c), del decreto legislativo 9 luglio 1997, n. 241, come modificato dal decreto legislativo 28 dicembre 1998, n. 490;
+ b) nell'"Albo dei Centri di assistenza fiscale per i lavoratori dipendenti" se costituiti dai soggetti di cui all'articolo 32, comma 1, lettere d) , e) ed f), del predetto decreto n. 241 del 1997.
 
 Gli Albi di cui al comma 1, sono tenuti presso il Dipartimento delle entrate. Il Dipartimento delle entrate comunica alle societa' richiedenti l'avvenuta iscrizione delle stesse negli Albi di cui al comma 1. Ai fini della tenuta degli Albi di cui al comma 1, i CAF comunicano al Dipartimento delle entrate, entro trenta giorni dalla data in cui si verificano, eventuali variazioni o integrazioni dei dati, degli elementi, degli atti e della documentazione di cui ai commi 1 e 2 dell'articolo 7, nonche' il trasferimento di quote o azioni. ((2))
 
@@ -138,6 +341,24 @@ Il responsabile dell'assistenza fiscale di un CAF non puo' rilasciare la certifi
 
 ## Art. 13. — Modalita' e termini di presentazione della dichiarazione dei redditi
 
+1.
+                        
+                            
+                                I possessori dei redditi indicati all'articolo 34, comma 4, del decreto legislativo 9 luglio 1997, n. 241, possono adempiere all'obbligo di dichiarazione dei redditi presentando l'apposita dichiarazione e la scheda ai fini della destinazione del due, del cinque e dell'otto per mille dell'imposta sul reddito delle persone fisiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro il 30 settembre dell'anno successivo a quello cui si riferisce la dichiarazione, al proprio sostituto d'imposta, che intende prestare l'assistenza fiscale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro il 30 settembre dell'anno successivo a quello cui si riferisce la dichiarazione, ad un CAF-dipendenti, unitamente alla documentazione necessaria all'effettuazione delle operazioni di controllo. (15) ((18))
+
 I contribuenti con contratto di lavoro a tempo determinato, nell'anno di presentazione della dichiarazione, possono adempiere agli obblighi di dichiarazione dei redditi, se il contratto dura almeno dal mese di presentazione della dichiarazione al terzo mese successivo, rivolgendosi al sostituto d'imposta o a un CAF-dipendenti purche' siano conosciuti i dati del sostituto d'imposta che dovra' effettuare il conguaglio. Il personale della scuola con contratto di lavoro a tempo determinato puo' adempiere agli obblighi di dichiarazione dei redditi rivolgendosi al sostituto d'imposta ovvero ad un CAF-dipendenti se il predetto contratto dura almeno dal mese di settembre dell'anno cui si riferisce la dichiarazione al mese di giugno dell'anno successivo. (15) ((18))
 
 COMMA ABROGATO DAL D.L. 26 OTTOBRE 2019, N. 124, CONVERTITO CON MODIFICAZIONI DALLA L. 19 DICEMBRE 2019, n. 157.
@@ -145,6 +366,24 @@ COMMA ABROGATO DAL D.L. 26 OTTOBRE 2019, N. 124, CONVERTITO CON MODIFICAZIONI DA
 I coniugi non legalmente ed effettivamente separati, non in possesso di redditi di lavoro autonomo o d'impresa di cui agli articoli 49, comma 1, e 51 del citato testo unico delle imposte sui redditi, possono adempiere agli obblighi di dichiarazione dei redditi con le modalita' di cui ai commi da 1 a 3, anche presentando dichiarazione in forma congiunta, purche' uno dei coniugi sia in possesso di redditi indicati nei commi 1 e 3.
 
 Qualora dalla liquidazione della dichiarazione emerga un credito d'imposta, il contribuente puo' indicare di voler utilizzare in tutto o in parte l'ammontare del credito per il pagamento di somme per le quali e' previsto il versamento con le modalita' di cui all'articolo 17 del decreto legislativo 9 luglio 1997, n. 241.
+
+5.
+                        
+                            
+                                Non possono adempiere agli obblighi di dichiarazione dei redditi ai sensi del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti obbligati a presentare la dichiarazione dell'imposta regionale sulle attivita' produttive, la dichiarazione annuale ai fini dell'imposta sul valore aggiunto e la dichiarazione di sostituto d'imposta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i titolari di particolari tipologie di redditi annualmente individuati con il decreto direttoriale di approvazione del modello di dichiarazione dei redditi.
 
 Le dichiarazioni dei redditi ed i relativi prospetti di liquidazione devono essere redatti su stampati conformi a quelli approvati con decreto del Dipartimento delle entrate. (2)
 
@@ -175,11 +414,114 @@ Il sostituto e il CAF-dipendenti rilasciano al contribuente ricevuta per le dich
 
 ## Art. 16. — Assistenza fiscale prestata dai CAF-dipendenti
 
+1.
+                        
+                            
+                                I CAF-dipendenti, nell'ambito delle attivita' di assistenza fiscale di cui all'articolo 34, comma 4, del decreto legislativo 9 luglio 1997, n. 241, e successive modificazioni, provvedono a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunicare all'Agenzia delle entrate, in via telematica, il risultato finale delle dichiarazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consegnare al contribuente, prima della trasmissione della dichiarazione, copia della dichiarazione dei redditi elaborata e il relativo prospetto di liquidazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmettere in via telematica all'Agenzia delle entrate le dichiarazioni predisposte; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    conservare le schede relative alle scelte per la destinazione del due, del cinque e dell'otto per mille dell'imposta sul reddito delle persone fisiche fino al 31 dicembre del secondo anno successivo a quello di presentazione; (15) (18) 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    conservare copia delle dichiarazioni e dei relativi prospetti di liquidazione nonche' della documentazione a base del visto di conformita' fino al 31 dicembre del quarto anno successivo a quello di presentazione.
+
+1-bis.
+                        
+                            
+                                I CAF-dipendenti e i professionisti abilitati, fermo restando il termine del 10 novembre per la trasmissione delle dichiarazioni integrative di cui all'articolo 14, concludono le attivita' di cui al comma 1, lettere a), b) e c), del presente articolo entro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il 15 giugno di ciascun anno, per le dichiarazioni presentate dal contribuente entro il 31 maggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il 29 giugno di ciascun anno, per le dichiarazioni presentate dal contribuente dal 1° al 20 giugno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il 23 luglio di ciascun anno, per le dichiarazioni presentate dal contribuente dal 21 giugno al 15 luglio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il 15 settembre di ciascun anno, per le dichiarazioni presentate dal contribuente dal 16 luglio al 31 agosto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il 30 settembre di ciascun anno, per le dichiarazioni presentate dal contribuente dal 1° al 30 settembre. (15) (18)
+
 Per le dichiarazioni integrative di cui all'articolo 14, le comunicazioni, le consegne e le trasmissioni di cui alle lettere a), b) e c) del comma 1, sono effettuate entro il 10 novembre di ciascun anno.
 
 Nel prospetto di liquidazione, sottoscritto dal responsabile dell'assistenza fiscale, oltre agli elementi di calcolo ed al risultato del conguaglio fiscale, sono evidenziate le eventuali variazioni intervenute rispetto ai dati indicati nella dichiarazione presentata dal contribuente a seguito dei controlli effettuati, tenuto conto delle risultanze della documentazione esibita e delle disposizioni che disciplinano gli oneri deducibili e detraibili, le detrazioni d'imposta e lo scomputo delle ritenute d'acconto.
 
 Le operazioni di raccolta delle dichiarazioni e della relativa documentazione e di consegna ai contribuenti delle dichiarazioni elaborate e dei prospetti di liquidazione possono essere effettuate dai CAF-dipendenti tramite i propri soci od associati.
+
+4-bis.
+                        
+                            
+                                Sulla base delle comunicazioni di cui al comma 1, lettera a), l'Agenzia delle entrate provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire ai CAF, entro cinque giorni, l'attestazione di ricezione delle comunicazioni. L'attestazione riporta le motivazioni di eventuali scarti dovuti all'impossibilita' da parte dell'Agenzia delle entrate di rendere disponibili le comunicazioni al sostituto d'imposta; in tali casi i CAF provvedono autonomamente e con i mezzi piu' idonei all'invio delle comunicazioni ai sostituti d'imposta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rendere disponibili ai sostituti d'imposta, in via telematica, entro dieci giorni dalla ricezione, le comunicazioni. Per i sostituti d'imposta che non abbiano richiesto l'abilitazione alla trasmissione in via telematica delle dichiarazioni, le comunicazioni sono rese disponibili per il tramite di un soggetto incaricato della trasmissione delle dichiarazioni in via telematica, di cui al comma 3, dell'articolo 3, del decreto del Presidente della Repubblica del 22 luglio 1998, n. 322, e successive modificazioni, preventivamente indicato dal sostituto d'imposta all'Agenzia delle entrate. Tale facolta' e' riconosciuta anche ai sostituti d'imposta abilitati alla trasmissione telematica. La scelta da parte del sostituto del soggetto per il tramite del quale sono rese disponibili le comunicazioni del risultato finale delle dichiarazioni deve essere trasmessa in via telematica, entro il 16 marzo dell'anno di invio delle comunicazioni da parte dei CAF unitamente alle certificazioni di cui all'articolo 4, comma 6-ter, del decreto del Presidente della Repubblica del 22 luglio 1998, n. 322. Con provvedimento del Direttore dell'Agenzia delle entrate sono individuati i termini e le modalita' per la variazione delle scelte da parte dei sostituti d'imposta; (15) (18) ((20))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire ai CAF, entro quindici giorni dalla ricezione delle comunicazioni, l'attestazione di disponibilita' dei dati ai sostituti d'imposta.
 
 ---------------
                             AGGIORNAMENTO (5)
@@ -199,6 +541,50 @@ Le operazioni di raccolta delle dichiarazioni e della relativa documentazione e 
  Il D.L. 22 marzo 2021, n. 41 ha disposto (con l'art. 5, comma 19) che "Per l'anno 2021, il termine del 16 marzo di cui all'articolo 16, comma 4-bis, lettera b), quarto periodo, del decreto del Ministro delle finanze 31 maggio 1999, n. 164, e' prorogato al 31 marzo".
 
 ## Art. 17. — Assistenza fiscale prestata dal sostituto d'imposta
+
+1.
+                        
+                            
+                                I sostituti d'imposta che comunicano ai propri sostituiti, entro il 15 gennaio di ogni anno, di voler prestare assistenza fiscale provvedono a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controllare, sulla base dei dati ed elementi direttamente desumibili dalla dichiarazione presentata dal sostituito, la regolarita' formale della stessa anche in relazione alle disposizioni che stabiliscono limiti alla deducibilita' degli oneri, alle detrazioni ed ai crediti di imposta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consegnare al sostituito, prima della trasmissione della dichiarazione, copia della dichiarazione elaborata ed il relativo prospetto di liquidazione; (15) (18) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmettere in via telematica all'Agenzia delle entrate le dichiarazioni elaborate e i relativi prospetti di liquidazione, nonche' consegnare, secondo le modalita' stabilite con provvedimento del direttore dell'Agenzia delle entrate, le buste contenenti le schede relative alle scelte per la destinazione del due, del cinque e dell'otto per mille dell'imposta sul reddito delle persone fisiche, entro: 
+ 1) il 15 giugno di ciascun anno, per le dichiarazioni presentate dal contribuente entro il 31 maggio; 
+ 2) il 29 giugno di ciascun anno, per le dichiarazioni presentate dal contribuente dal 1° al 20 giugno; 
+ 3) il 23 luglio di ciascun anno, per le dichiarazioni presentate dal contribuente dal 21 giugno al 15 luglio; 
+ 4) il 15 settembre di ciascun anno, per le dichiarazioni presentate dal contribuente dal 16 luglio al 31 agosto; 
+ 5) il 30 settembre di ciascun anno, per le dichiarazioni presentate dal contribuente dal 1° al 30 settembre. (15) (18) 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    comunicare all'Agenzia delle entrate in via telematica, entro i termini previsti alla lettera c), il risultato finale delle dichiarazioni. Si applicano, ove compatibili, le disposizioni di cui all'articolo 16, comma 4-bis; (15) (18) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    conservare copia delle dichiarazioni e dei relativi prospetti di liquidazione fino al 31 dicembre del secondo anno successivo a quello di presentazione.((21))
 
 Il sostituto d'imposta socio di un CAF-dipendenti puo' prestare assistenza fiscale ai propri sostituiti tramite il CAF stesso, che opera con le modalita' stabilite all'articolo 16.
 
@@ -257,6 +643,56 @@ Nei confronti dei contribuenti deceduti prima dell'effettuazione delle operazion
 ## - Capo IV Professionisti e certificatori
 
 ## Art. 21. — Adempimenti e requisiti
+
+1.
+                        
+                            
+                                Per l'esercizio della facolta' di rilasciare il visto di conformita' o l'asseverazione, i professionisti comunicano preventivamente al Dipartimento delle entrate: ((2))
+                                
+                            
+                            
+                                a)
+                                
+                                    i dati anagrafici, i requisiti professionali, il numero di codice fiscale e la partita IVA;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il domicilio e gli altri luoghi ove esercitano la propria attivita' professionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la denominazione o la ragione sociale e i dati anagrafici dei soci e dei componenti del consiglio di amministrazione e, ove previsto, del collegio sindacale, delle societa' di servizi delle quali il professionista intende avvalersi per lo svolgimento dell'attivita' di assistenza fiscale, con l'indicazione delle specifiche attivita' da affidare alle stesse.
+
+2.
+                        
+                            
+                                Alla richiesta di cui al comma 1, sono allegati:
+ 
+                            
+                            
+                                a)
+                                
+                                    copia della polizza assicurativa di cui all'articolo 22;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione relativa all'insussistenza di provvedimenti di sospensione dell'ordine di appartenenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione relativa alla sussistenza dei requisiti di cui all'articolo 8, comma 1.
 
 Eventuali variazioni dei dati, degli elementi e degli atti di cui ai commi 1 e 2, sono comunicati al Dipartimento delle entrate entro trenta giorni dalla data in cui si verificano. ((2))
 

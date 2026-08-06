@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,164 @@ Sentito il Ministro della salute in ordine alla promozione degli accordi territo
 ## - Capo I DEFINIZIONI
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai soli fini del presente decreto legislativo si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «poverta'»: la condizione del nucleo familiare la cui situazione economica non permette di disporre dell'insieme di beni e servizi necessari a condurre un livello di vita dignitoso, come definita, ai soli fini dell'accesso al reddito di inclusione, all'articolo 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «cittadino dell'Unione o suo familiare»: i soggetti di cui all'articolo 2 del decreto legislativo 6 febbraio 2007, n. 30; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «ambiti territoriali»: gli ambiti territoriali, di cui all'articolo 8, comma 3, lettera a), della legge 8 novembre 2000, n. 328; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «INPS»: l'Istituto nazionale della previdenza sociale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «ISEE»: l'indicatore della situazione economica equivalente di cui al decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159. Nel caso di nuclei familiari con minorenni, l'ISEE e' calcolato ai sensi dell'articolo 7 del decreto del Presidente del Consiglio dei ministri n. 159 del 2013; in tutti gli altri casi, l'ISEE e' calcolato in via ordinaria ai sensi dell'articolo 2, commi 2 e 3, del decreto del Presidente del Consiglio dei ministri n. 159 del 2013; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «ISR»: l'indicatore della situazione reddituale, di cui all'articolo 4 del decreto del Presidente del Consiglio dei ministri n. 159 del 2013; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «scala di equivalenza»: la scala di equivalenza, di cui all'allegato 1 del decreto del Presidente del Consiglio dei ministri n. 159 del 2013; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «ISRE»: l'ISR diviso per il parametro della scala di equivalenza corrispondente alla specifica composizione del nucleo familiare; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «DSU»: la dichiarazione sostitutiva unica a fini ISEE, di cui all'articolo 10 del decreto del Presidente del Consiglio dei ministri n. 159 del 2013, utilizzata per l'accesso al Reddito di inclusione - ReI; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «casa di abitazione»: la casa indicata come residenza familiare nella DSU; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «patrimonio immobiliare»: il valore del patrimonio immobiliare determinato ai sensi dell'articolo 5, commi 2 e 3, del decreto del Presidente del Consiglio dei ministri n. 159 del 2013; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «patrimonio mobiliare»: il valore del patrimonio mobiliare determinato ai sensi dell'articolo 5, commi 4 e 5, del decreto del Presidente del Consiglio dei ministri n. 159 del 2013; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «persona con disabilita'»: persona per la quale sia stata accertata una condizione di disabilita' media, grave o di non autosufficienza, come definita ai fini ISEE dall'allegato 3 del decreto del Presidente del Consiglio dei ministri n. 159 del 2013; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «trattamenti»: il valore delle prestazioni sociali di natura monetaria percepite dai componenti il nucleo familiare; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «presa in carico»: funzione esercitata dal servizio sociale professionale in favore di una persona o di un nucleo familiare in risposta a bisogni complessi che richiedono interventi personalizzati di valutazione, consulenza, orientamento, attivazione di prestazioni sociali, nonche' attivazione di interventi in rete con altre risorse e servizi pubblici e privati del territorio, al fine di identificare percorsi di accompagnamento verso l'autonomia; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «Fondo Poverta'»: il Fondo per la lotta alla poverta' e all'esclusione sociale, di cui all'articolo 1, comma 386, della legge 28 dicembre 2015, n. 208; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «Fondo carta acquisti»: il Fondo di cui all'articolo 81, comma 29, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «carta acquisti»: la carta acquisti di cui all'articolo 81, comma 32, del decreto-legge n. 112 del 2008, convertito, con modificazioni, dalla legge n. 133 del 2008, con le caratteristiche di cui al decreto del Ministero dell'economia e delle finanze e del Ministero del lavoro, della salute e delle politiche sociali 16 settembre 2008, pubblicato nella Gazzetta Ufficiale 1° dicembre 2008, n. 281, e successive modificazioni; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «stato di disoccupazione»: lo stato di disoccupazione definito ai sensi dell'articolo 19 del decreto legislativo 14 settembre 2015, n. 150, come integrato dalla previsione di cui all'articolo 3, comma 3; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «SIA»: la misura di contrasto alla poverta' da avviare su tutto il territorio nazionale ai sensi dell'articolo 1, comma 387, lettera a), della legge n. 208 del 2015, intesa come estensione, rafforzamento e consolidamento della sperimentazione di cui all'articolo 60 del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35, gia' denominata sostegno per l'inclusione attiva (SIA) dall'articolo 1, comma 216, della legge 27 dicembre 2013, n. 147; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «ASDI»: l'assegno di disoccupazione di cui all'articolo 16 del decreto legislativo 4 marzo 2015, n. 22; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «NASpI»: la Nuova prestazione di assicurazione sociale per l'impiego di cui all'articolo 1 del decreto legislativo n. 22 del 2015.
 
 ## - Capo II MISURA NAZIONALE UNICA DI CONTRASTO ALLA POVERTÀ
 
@@ -64,6 +222,53 @@ Sentito il Ministro della salute in ordine alla promozione degli accordi territo
 
 
 
+2.
+                        
+                            
+                                
+                                    (( Agli interventi di cui al Patto per l'inclusione sociale per i beneficiari del Reddito di cittadinanza (Rdc) )), i nuclei familiari accedono previa valutazione multidimensionale finalizzata ad identificare i bisogni del nucleo familiare e dei suoi componenti, tenuto conto delle risorse e dei fattori di vulnerabilita' del nucleo, nonche' dei fattori ambientali e di sostegno presenti. In particolare, sono oggetto di analisi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    condizioni e funzionamenti personali e sociali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    situazione economica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    situazione lavorativa e profilo di occupabilita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    educazione, istruzione e formazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    condizione abitativa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    reti familiari, di prossimita' e sociali.
+
 La valutazione multidimensionale e' organizzata in un'analisi preliminare ((...)) e in un quadro di analisi approfondito, laddove necessario in base alla condizione del nucleo.
 
 ((L'analisi preliminare e' finalizzata ad)) orientare, mediante colloquio con il nucleo familiare, le successive scelte relative alla definizione del progetto personalizzato. L'analisi preliminare e' effettuata da operatori sociali opportunamente identificati dai servizi competenti, senza nuovi o maggiori oneri per la finanza pubblica.
@@ -84,7 +289,89 @@ I servizi per ((...)) la valutazione multidimensionale costituiscono livelli ess
 
 In esito alla valutazione multidimensionale, e' definito un progetto personalizzato, sottoscritto dai componenti il nucleo familiare entro venti giorni lavorativi dalla data in cui e' stata effettuata l'analisi preliminare. ((PERIODO SOPPRESSO DAL D.L. 28 GENNAIO 2019, N. 4, CONVERTITO CON MODIFICAZIONI DALLA L. 28 MARZO 2019, N. 26)). ((PERIODO SOPPRESSO DAL D.L. 28 GENNAIO 2019, N. 4, CONVERTITO CON MODIFICAZIONI DALLA L. 28 MARZO 2019, N. 26)).
 
+2.
+                        
+                            
+                                Il progetto individua, sulla base dei fabbisogni del nucleo familiare come emersi nell'ambito della valutazione multidimensionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obiettivi generali e i risultati specifici che si intendono raggiungere in un percorso volto al superamento della condizione di poverta', all'inserimento o reinserimento lavorativo e all'inclusione sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i sostegni, in termini di specifici interventi e servizi, di cui il nucleo necessita, oltre al beneficio economico ((...)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli impegni a svolgere specifiche attivita', a cui il beneficio economico e' condizionato, da parte dei componenti il nucleo familiare.
+
+3.
+                        
+                            
+                                Gli obiettivi e i risultati di cui al comma 2, lettera a), sono definiti nel progetto personalizzato e devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esprimere in maniera specifica e concreta i cambiamenti che si intendono perseguire come effetto dei sostegni attivati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    costituire l'esito di un processo di negoziazione con i beneficiari, di cui si favorisce la piena condivisione evitando espressioni tecniche, generiche e astratte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere individuati coerentemente con quanto emerso in sede di valutazione, con l'indicazione dei tempi attesi di realizzazione.
+
 I sostegni di cui al comma 2, lettera b), includono gli interventi e i servizi sociali per il contrasto alla poverta' di cui all'articolo 7, nonche' gli interventi afferenti alle politiche del lavoro, della formazione, sanitarie e socio-sanitarie, educative, abitative, e delle altre aree di intervento eventualmente coinvolte nella valutazione e progettazione, a cui i beneficiari possono accedere ai sensi della legislazione vigente. ((I beneficiari del Rdc)) accedono, nei limiti delle risorse disponibili a legislazione vigente, all'assegno di ricollocazione, di cui all'articolo 23 del decreto legislativo n. 150 del 2015. I sostegni sono richiamati nel progetto personalizzato in maniera non generica con riferimento agli specifici interventi, azioni e dispositivi adottati.
+
+5.
+                        
+                            
+                                Gli impegni a svolgere specifiche attivita', di cui al comma 2, lettera c), sono dettagliati nel progetto personalizzato con riferimento almeno alle seguenti aree: 
+ 
+                            
+                            
+                                a)
+                                
+                                    frequenza di contatti con i competenti servizi responsabili del progetto; di norma la frequenza e' mensile, se non diversamente specificato nel progetto personalizzato in ragione delle caratteristiche del nucleo beneficiario o delle modalita' organizzative dell'ufficio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    atti di ricerca attiva di lavoro e disponibilita' alle attivita' di cui all'articolo 20, comma 3, del decreto legislativo n. 150 del 2015. A tal fine il progetto personalizzato rimanda al patto di servizio stipulato ai sensi dell'articolo 20 del decreto legislativo n. 150 del 2015 ovvero al programma di ricerca intensiva di occupazione, di cui all'articolo 23 del medesimo decreto legislativo e, in caso si rendano opportune integrazioni, e' redatto in accordo con i competenti centri per l'impiego; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    frequenza e impegno scolastico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comportamenti di prevenzione e cura volti alla tutela della salute, individuati da professionisti sanitari.
 
 I servizi territoriali operano in stretto raccordo con gli enti del Terzo settore, di cui alla legge 6 giugno 2016, n. 106, attivi nel contrasto alla poverta'. L'attivita' di tali enti e' riconosciuta, agevolata e valorizzata da parte dei competenti servizi. Sulla base di specifici accordi di reciproco riconoscimento a livello di ambito territoriale o comunale, le equipe multidisciplinari includono nella progettazione personalizzata, ove opportuno, attivita' svolte dagli enti del Terzo settore o presso i medesimi. Sono in particolare promosse specifiche forme di collaborazione con gli enti attivi nella distribuzione alimentare a valere sulle risorse del Programma operativo del Fondo di aiuti europei agli indigenti (FEAD), anche al fine di ((facilitare l'accesso al Rdc)) dei beneficiari della distribuzione medesima, ove ricorrano le condizioni. ((Al fine di un utilizzo sinergico delle risorse per la distribuzione alimentare agli indigenti, le eventuali disponibilita' del Fondo di cui all'articolo 58 del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, possono essere utilizzate per il finanziamento di interventi complementari rispetto al Programma operativo del FEAD e, a tal fine, le corrispondenti risorse possono essere versate al Fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183)).
 
@@ -105,6 +392,66 @@ Il progetto personalizzato e i sostegni in esso previsti costituiscono livelli e
 ## Art. 7.
 
 Interventi e servizi sociali per il contrasto alla poverta'
+
+1.
+                        
+                            
+                                I servizi per l'accesso e la valutazione e i sostegni da individuare nel progetto personalizzato afferenti al sistema integrato di interventi e servizi sociali, di cui alla legge n. 328 del 2000, includono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    segretariato sociale ((...)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizio sociale professionale per la presa in carico, inclusa la componente sociale della valutazione multidimensionale di cui all'articolo 5, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tirocini finalizzati all'inclusione sociale, all'autonomia delle persone e alla riabilitazione, di cui alle regolamentazioni regionali in attuazione dell'accordo del 22 gennaio 2015 in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sostegno socio-educativo domiciliare o territoriale, incluso il supporto nella gestione delle spese e del bilancio familiare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assistenza domiciliare socio-assistenziale e servizi di prossimita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sostegno alla genitorialita' e servizio di mediazione familiare; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    servizio di mediazione culturale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    servizio di pronto intervento sociale.
 
 Al fine di garantire l'attuazione dei livelli essenziali di cui agli articoli 5 e 6, ((le risorse del Fondo Poverta' sono attribuite)) agli ambiti territoriali delle regioni per il finanziamento degli interventi di cui al comma 1, fermi restando gli interventi afferenti alle politiche del lavoro, della formazione, sanitarie e socio-sanitarie, educative, abitative, nonche' delle altre aree eventualmente coinvolte nella valutazione e progettazione previsti a legislazione vigente.
 
@@ -265,11 +612,54 @@ Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con i
 
 Al fine di favorire una maggiore omogeneita' territoriale nell'erogazione delle prestazioni e di definire linee guida per gli interventi, e' istituita, presso il Ministero del lavoro e delle politiche sociali, la Rete della protezione e dell'inclusione sociale, di seguito denominata «Rete», quale organismo di coordinamento del sistema degli interventi e dei servizi sociali di cui alla legge n. 328 del 2000.
 
+2.
+                        
+                            
+                                La Rete e' presieduta dal Ministro del lavoro e delle politiche sociali e ne fanno parte, oltre a due rappresentanti della Presidenza del Consiglio dei ministri, di cui uno del Dipartimento per le politiche della famiglia, e ad un rappresentante del Ministero dell'economia e delle finanze, del Ministero dell'istruzione, dell'universita' e della ricerca, del Ministero della salute, del Ministero delle infrastrutture e dei trasporti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un componente per ciascuna delle giunte regionali e delle province autonome, designato dal Presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    venti componenti designati dall'Associazione nazionale dei comuni d'Italia - ANCI, in rappresentanza dei comuni e degli ambiti territoriali. Fra i venti componenti, cinque sono individuati in rappresentanza dei comuni capoluogo delle citta' metropolitane di cui all'articolo 1, comma 5, della legge 7 aprile 2014, n. 56, e cinque in rappresentanza di comuni il cui territorio sia coincidente con quello del relativo ambito territoriale.
+
 Alle riunioni della Rete partecipa, in qualita' di invitato permanente, il Ministro delegato per la famiglia e le disabilita', ove nominato, nonche' un rappresentante dell'INPS e possono essere invitati altri membri del Governo, nonche' rappresentanti di amministrazioni statali, locali o di enti pubblici.
 
 La Rete consulta le parti sociali e gli organismi rappresentativi del Terzo settore periodicamente e, comunque, almeno una volta l'anno nonche' in occasione dell'adozione dei Piani di cui al comma 6 e delle linee di indirizzo di cui al comma 8. Al fine di formulare analisi e proposte per la definizione dei medesimi Piani e delle linee di indirizzo, la Rete puo' costituire gruppi di lavoro con la partecipazione dei soggetti di cui al presente comma.
 
 Nel rispetto delle modalita' organizzative regionali e di confronto con le autonomie locali, la Rete si articola in tavoli regionali e a livello di ambito territoriale. Ciascuna regione e provincia autonoma definisce le modalita' di costituzione e funzionamento dei tavoli, nonche' la partecipazione e consultazione dei soggetti di cui al comma 4, avendo cura di evitare conflitti di interesse e ispirandosi a principi di partecipazione e condivisione delle scelte programmatiche e di indirizzo, nonche' del monitoraggio e della valutazione territoriale in materia di politiche sociali. Gli atti che disciplinano la costituzione e il funzionamento della Rete a livello territoriale sono comunicati al Ministero del lavoro e delle politiche sociali.
+
+6.
+                        
+                            
+                                La Rete e' responsabile dell'elaborazione dei seguenti Piani: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un Piano sociale nazionale, quale strumento programmatico per l'utilizzo delle risorse del Fondo nazionale per le politiche sociali, di cui all'articolo 20 della legge n. 328 del 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un Piano per gli interventi e i servizi sociali di contrasto alla poverta', quale strumento programmatico per l'utilizzo delle risorse della quota del Fondo Poverta' di cui all'articolo 7, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un Piano per la non autosufficienza, quale strumento programmatico per l'utilizzo delle risorse del Fondo per le non autosufficienze, di cui all'articolo 1, comma 1264, della legge 27 dicembre 2006, n. 296.
 
 I Piani di cui al comma 6, di natura triennale con eventuali aggiornamenti annuali, individuano lo sviluppo degli interventi a valere sulle risorse dei fondi cui si riferiscono nell'ottica di una progressione graduale, nei limiti delle risorse disponibili, nel raggiungimento di livelli essenziali delle prestazioni assistenziali da garantire su tutto il territorio nazionale. A tal fine, i Piani individuano le priorita' di finanziamento, l'articolazione delle risorse dei fondi tra le diverse linee di intervento, nonche' i flussi informativi e gli indicatori finalizzati a specificare le politiche finanziate e a determinare eventuali target quantitativi di riferimento. Su proposta della Rete, i Piani sono adottati nelle medesime modalita' con le quali i fondi cui si riferiscono sono ripartiti alle regioni.
 
@@ -320,7 +710,71 @@ Nel rispetto delle modalita' organizzative regionali e di confronto con le auton
 
 ## Art. 24. — Sistema informativo unitario dei servizi sociali
 
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto e' istituito, presso il Ministero del lavoro e delle politiche sociali, il Sistema informativo unitario dei servizi sociali, di seguito denominato «SIUSS», per le seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurare una compiuta conoscenza dei bisogni sociali e delle prestazioni erogate dal sistema integrato degli interventi e dei servizi sociali e di tutte le informazioni necessarie alla programmazione, alla gestione, al monitoraggio e alla valutazione delle politiche sociali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    monitorare il rispetto dei livelli essenziali delle prestazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rafforzare i controlli sulle prestazioni indebitamente percepite; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disporre di una base unitaria di dati funzionale alla programmazione e alla progettazione integrata degli interventi mediante l'integrazione con i sistemi informativi sanitari, del lavoro e delle altre aree di intervento rilevanti per le politiche sociali, nonche' con i sistemi informativi di gestione delle prestazioni gia' nella disponibilita' dei comuni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    elaborare dati a fini statistici, di ricerca e di studio.
+
 Il SIUSS integra e sostituisce, senza nuovi o maggiori oneri per la finanza pubblica, il sistema informativo dei servizi sociali, di cui all'articolo 21 della legge n. 328 del 2000, e il casellario dell'assistenza, di cui all'articolo 13 del decreto-legge n. 78 del 2010, convertito, con modificazioni, dalla legge n. 122 del 2010, che sono conseguentemente soppressi.
+
+3.
+                        
+                            
+                                Il SIUSS si articola nelle seguenti componenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Sistema informativo delle prestazioni e dei bisogni sociali, a sua volta articolato in: 
+ 1) Banca dati delle prestazioni sociali; 
+ 2) Banca dati delle valutazioni e progettazioni personalizzate; 
+ 2-bis. Piattaforma digitale del Reddito di cittadinanza per il Patto di inclusione sociale; 
+ ((2-ter) Piattaforma di gestione dei patti di inclusione dei beneficiari dell'Assegno di inclusione)); 
+ 3) Sistema informativo dell'ISEE, di cui all'articolo 11 del decreto del Presidente del Consiglio dei ministri n. 159 del 2013; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Sistema informativo dell'offerta dei servizi sociali, a sua volta articolato in: 
+ 1) Banca dati dei servizi attivati; 
+ 2) Banca dati delle professioni e degli operatori sociali.
 
 Il sistema informativo di cui al comma 3, lettera a), e' organizzato su base individuale. Ad eccezione della piattaforma di cui al comma 3, lettera a), numero 2-bis), i dati e le informazioni sono raccolti, conservati e gestiti dall'INPS e resi disponibili al Ministero del lavoro e delle politiche sociali, anche attraverso servizi di cooperazione applicativa, in forma individuale ma privi di ogni riferimento che ne permetta il collegamento con gli interessati e comunque secondo modalita' che, pur consentendo il collegamento nel tempo delle informazioni riferite ai medesimi individui, rendono questi ultimi non identificabili. L'INPS fornisce altresi' all'Autorita' politica delegata in materia di disabilita' e al Dipartimento per le politiche in favore delle persone con disabilita' della Presidenza del Consiglio dei ministri, secondo le indicazioni della medesima Autorita' o del medesimo Dipartimento, rappresentazioni in forma aggregata dei dati e delle informazioni presenti nel sistema informativo di cui al comma 3, lettera a), al fine di agevolare il monitoraggio e la programmazione degli interventi e delle politiche in materia di disabilita', di supportare l'attuazione delle riforme e degli investimenti in materia di disabilita' previsti nell'ambito del Piano nazionale di ripresa e resilienza, nonche' per elaborazioni a fini statistici, di ricerca e di studio.
 
@@ -365,6 +819,46 @@ Ai fini dell'attuazione del presente decreto, il Ministro dell'economia e delle 
 Sono in ogni caso fatte salve le potesta' attribuite alle regioni a statuto speciale e alle Province autonome di Trento e Bolzano dai rispettivi statuti speciali e dalle relative norme di attuazione.
 
 ## Art. 26. — Abrogazioni
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articoli 21 e 23 della legge 8 novembre 2000, n. 328; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articolo 16, commi da 1 a 4, del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35.
+
+2.
+                        
+                            
+                                A far data dal 1° gennaio 2018, fatto salvo quanto disposto all'articolo 18, sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articolo 16 del decreto legislativo 4 marzo 2015, n. 22; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articolo 21, commi 3 e 8, del decreto legislativo 14 settembre 2015, n. 150.
 
 ## Art. 27. — Entrata in vigore
 

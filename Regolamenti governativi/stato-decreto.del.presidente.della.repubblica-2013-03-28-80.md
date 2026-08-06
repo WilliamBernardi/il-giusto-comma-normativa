@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2024-07-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,74 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca;
 
 ## Art. 1. — Definizioni e soggetti
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                S.N.V.: Sistema nazionale di valutazione del sistema educativo di istruzione e formazione, di cui all'articolo 2, comma 4-undevicies, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ministero: Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ministro: Ministro dell'istruzione, dell'universita' e della ricerca.
+
+2.
+                    
+                        
+                            L'S.N.V. e' costituito dai seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                Invalsi: Istituto nazionale per la valutazione del sistema di istruzione e formazione, di cui al decreto legislativo 19 novembre 2004, n. 286; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Indire: Istituto nazionale di documentazione, innovazione e ricerca educativa, di cui all'articolo 19, comma 1, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                contingente ispettivo: contingente di dirigenti di seconda fascia con funzione tecnico-ispettiva, appartenenti alla dotazione organica dirigenziale del Ministero, che svolgono l'attivita' di valutazione nei nuclei di cui all'articolo 6 del presente decreto.
+
+3.
+                    
+                        
+                            Concorrono, altresi', all'attivita' di valutazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                la conferenza: conferenza per il coordinamento funzionale dell'S.N.V., di cui all'articolo 2, comma 5, del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i nuclei di valutazione esterna: nuclei costituiti, ai sensi dell'articolo 6, comma 2, da un dirigente tecnico del contingente ispettivo e da due esperti scelti dall'elenco di cui all'articolo 3, comma 1, lettera f).
+
 ## Art. 2. — Obiettivi e organizzazione dell'S.N.V.
 
 Ai fini del miglioramento della qualita' dell'offerta formativa e degli apprendimenti, l'S.N.V. valuta l'efficienza e l'efficacia del sistema educativo di istruzione e formazione in coerenza con quanto previsto dall'articolo 1 del decreto legislativo 19 novembre 2004, n. 286. Esso si compone dell'Invalsi, che ne assume il coordinamento funzionale, dell'Indire e del contingente ispettivo.
@@ -43,6 +111,66 @@ E' istituita presso l'Invalsi, senza oneri aggiuntivi a carico della finanza pub
 
 ## Art. 3. — Invalsi
 
+1.
+                    
+                        
+                            Ferme restando le attribuzioni previste dall'articolo 17 del decreto legislativo 31 dicembre 2009, n. 213, dal decreto legislativo 19 novembre 2004, n. 286, dalla legge 27 dicembre 2006, n. 296, e dal decreto-legge 7 settembre 2007, n. 147, convertito, con modificazioni, dalla legge 25 ottobre 2007, n. 176, nonche' le competenze gia' previste da altre disposizioni vigenti alla data di entrata in vigore del presente regolamento, l'Invalsi, nell'ambito dell'S.N.V., in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                assicura il coordinamento funzionale dell'S.N.V.; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                propone i protocolli di valutazione e il programma delle visite alle istituzioni scolastiche da parte dei nuclei di valutazione esterna, di cui all'articolo 6; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce gli indicatori di efficienza e di efficacia in base ai quali l'S.N.V. individua le istituzioni scolastiche che necessitano di supporto e da sottoporre prioritariamente a valutazione esterna; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                mette a disposizione delle singole istituzioni scolastiche strumenti relativi al procedimento di valutazione di cui all'articolo 6 per la realizzazione delle azioni di cui all'articolo 6, comma 1; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                definisce gli indicatori per la valutazione dei dirigenti scolastici, in coerenza con le disposizioni contenute nel decreto legislativo 27 ottobre 2009, n. 150; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                cura la selezione, la formazione e l'inserimento in un apposito elenco degli esperti dei nuclei per la valutazione esterna di cui all'articolo 6, comma 2, nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente. A tale fine, sulla base dei criteri generali definiti con direttiva del Ministro, l'Invalsi con propria deliberazione stabilisce, entro sessanta giorni dall'emanazione della direttiva stessa, le modalita' di costituzione e gestione di detto elenco; esso cura, altresi', la formazione degli ispettori che partecipano ai citati nuclei; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                redige le relazioni al Ministro e i rapporti sul sistema scolastico e formativo, di cui all'articolo 3 del decreto legislativo 19 novembre 2004, n. 286, in modo tale da consentire anche una comparazione su base internazionale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                partecipa alle indagini internazionali e alle altre iniziative in materia di valutazione, in rappresentanza dell'Italia.
+
 ## Art. 4. — (ARTICOLO ABROGATO DAL D.L. 31 MAGGIO 2024, N. 71, CONVERTITO, CON MODIFICAZIONI, DALLA L. 29 LUGLIO 2024, N. 106)
 
 
@@ -56,6 +184,45 @@ I direttori generali di cui al comma 1 rendono conoscibili, anche mediante pubbl
 Il dirigente che partecipa alla conferenza di cui all'articolo 2, comma 5, in rappresentanza del contingente ispettivo e' designato dal direttore generale per gli ordinamenti scolastici e l'autonomia scolastica del Ministero. Il relativo incarico e' rinnovabile una sola volta.
 
 ## Art. 6. — Procedimento di valutazione
+
+1.
+                    
+                        
+                            Ai fini dell'articolo 2 il procedimento di valutazione delle istituzioni scolastiche si sviluppa, in modo da valorizzare il ruolo delle scuole nel processo di autovalutazione, sulla base dei protocolli di valutazione e delle scadenze temporali stabilite dalla conferenza di cui all'articolo 2, comma 5, nelle seguenti fasi, ed e' assicurato nell'ambito delle risorse umane, finanziarie e strumentali disponibili in base al piano di riparto del Fondo di cui all'articolo 7 del decreto legislativo 5 giugno 1998, n. 204, a decorrere dall'anno 2013: 
+ 
+                        
+                        
+                            a)
+                            
+                                autovalutazione delle istituzioni scolastiche: 
+ 1) analisi e verifica del proprio servizio sulla base dei dati resi disponibili dal sistema informativo del Ministero, delle rilevazioni sugli apprendimenti e delle elaborazioni sul valore aggiunto restituite dall'Invalsi, oltre a ulteriori elementi significativi integrati dalla stessa scuola; 
+ 2) elaborazione di un rapporto di autovalutazione in formato elettronico, secondo un quadro di riferimento predisposto dall'Invalsi, e formulazione di un piano di miglioramento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                valutazione esterna: 
+ 1) individuazione da parte dell'Invalsi delle situazioni da sottoporre a verifica, sulla base di indicatori di efficienza ed efficacia previamente definiti dall'Invalsi medesimo; 
+ 2) visite dei nuclei di cui al comma 2, secondo il programma e i protocolli di valutazione adottati dalla conferenza ai sensi dell'articolo 2, comma 5; 
+ 3) ridefinizione da parte delle istituzioni scolastiche dei piani di miglioramento in base agli esiti dell'analisi effettuata dai nuclei; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                azioni di miglioramento: 
+ 1) definizione e attuazione da parte delle istituzioni scolastiche degli interventi migliorativi anche con il supporto dell'Indire o attraverso la collaborazione con universita', enti di ricerca, associazioni professionali e culturali. Tale collaborazione avviene nei limiti delle risorse umane e finanziarie disponibili e senza determinare nuovi o maggiori oneri per la finanza pubblica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rendicontazione sociale delle istituzioni scolastiche: 
+ 1) pubblicazione, diffusione dei risultati raggiunti, attraverso indicatori e dati comparabili, sia in una dimensione di trasparenza sia in una dimensione di condivisione e promozione al miglioramento del servizio con la comunita' di appartenenza.
 
 I nuclei di valutazione esterna sono costituiti da un dirigente tecnico del contingente ispettivo e da due esperti scelti dall'elenco di cui all'articolo 3, comma 1, lettera f). Al dirigente tecnico non spettano compensi, gettoni o indennita' comunque denominate per lo svolgimento delle attivita' di valutazione. L'Invalsi definisce annualmente i compensi per gli esperti impiegati nelle medesime attivita', a decorrere dall'anno 2013, entro il limite delle risorse annualmente assegnate in sede di riparto del Fondo di cui all'articolo 7 del decreto legislativo 5 giugno 1998, n. 204.
 
@@ -78,6 +245,24 @@ La Regione autonoma Valle d'Aosta e le province autonome di Trento e di Bolzano 
 Le periodiche rilevazioni nazionali sugli apprendimenti e competenze degli studenti si svolgono sulla base di protocolli con l'Invalsi.
 
 ## Art. 8. — Norme finali e transitorie
+
+1.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 2, commi 2, 3, 4, 5, e 3 del decreto legislativo 20 luglio 1999, n. 258; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Presidente della Repubblica 21 novembre 2000, n. 415, relativo all'organizzazione dell'Indire, e il decreto del Presidente della Repubblica 6 marzo 2001, n. 190, relativo all'organizzazione degli Istituti regionali di ricerca educativa (Irre).
 
 Il contingente ispettivo e' determinato nel regolamento di organizzazione del Ministero adottato ai sensi dell'articolo 2 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135.
 

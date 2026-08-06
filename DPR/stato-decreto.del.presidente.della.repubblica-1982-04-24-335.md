@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-02-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,31 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 ## - TITOLO I ISTITUZIONE DEI RUOLI DEL PERSONALE DELLA POLIZIA DI STATO CHE ESPLETA FUNZIONI DI POLIZIA.  Capo I
 
 ## Art. 1. — Istituzione dei ruoli
+
+1.
+                        
+                            
+                                Nell'ambito dell'Amministrazione della pubblica sicurezza sono istituiti i seguenti ruoli ((e la seguente carriera)) del personale della Polizia di Stato che espleta funzioni di polizia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo degli agenti e assistenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei sovrintendenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo degli ispettori;
 
 Salvo quanto specificato nei successivi articoli, il personale appartenente ai predetti ruoli ((e alla predetta carriera)), nello svolgimento dei compiti istituzionali sanciti dalla legge 1o aprile 1981, n. 121, svolge anche le attivita' accessorie necessarie al pieno assolvimento dei compiti di istituto. (15)
 
@@ -73,7 +98,64 @@ Al personale delle qualifiche di assistente e assistente capo possono essere alt
 In relazione al qualificato profilo professionale raggiunto, agli assistenti capo, che maturano ((cinque)) anni di effettivo servizio nella qualifica, possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita', tra le mansioni di cui ai commi 2 e 3 ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica, anche nei casi di pari qualifica con diversa anzianita'.
 I soggetti di cui al primo periodo svolgono altresi' mansioni di coordinamento del personale del medesimo ruolo, anche in servizi non operativi, al fine di assicurare la funzionalita' degli uffici e lo svolgimento delle attivita' istituzionali.
 
+3-ter.
+                        
+                            
+                                E' escluso dall'attribuzione della denominazione di cui al comma 3-bis, il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che nel triennio precedente abbia riportato un giudizio inferiore a «distinto» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 ## Art. 6. — (Nomina ad agente)
+
+1.
+                        
+                            
+                                L'assunzione degli agenti di polizia avviene mediante pubblico concorso per titoli ed esame, al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' non superiore a ventisei anni stabilita dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127, fatte salve le deroghe di cui al predetto regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    efficienza e idoneita' fisica, psichica e attitudinale al servizio di polizia, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria di secondo grado che consente l'iscrizione ai corsi per il conseguimento del diploma universitario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' di condotta previste dalle disposizioni di cui all'articolo 26 della legge 1 febbraio 1989, n. 53.
 
 In deroga a quanto previsto dal comma 1, lettera d), per l'accesso ai gruppi sportivi «Polizia di Stato-Fiamme Oro» e' sufficiente il possesso del diploma di istruzione secondaria di primo grado.
 
@@ -123,6 +205,44 @@ AGGIORNAMENTO (31)
  La L. 4 aprile 2025, n. 42, ha disposto (con l'art. 1, comma 3) che "Le disposizioni di cui ai commi 1 e 2, lettera a), si applicano in relazione ai concorsi banditi successivamente alla data di entrata in vigore della presente legge".
 
 ## Art. 6-ter. — (Dimissioni dai corsi)
+
+1.
+                        
+                            
+                                Sono dimessi dal corso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli allievi e gli agenti in prova che non superino le prove d'esame di cui all'articolo 6-bis, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli allievi e gli agenti in prova che non siano riconosciuti idonei al servizio di polizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli allievi e gli agenti in prova che dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli allievi e gli agenti in prova che siano stati per qualsiasi motivo assenti dal corso per piu' di sessanta giorni, anche non consecutivi, ovvero novanta giorni se l'assenza e' stata determinata da infermita' contratta durante il corso, in quest'ultimo caso gli allievi e gli agenti in prova, dopo la riacquistata idoneita' fisico-psichica, sono ammessi, rispettivamente, a partecipare al primo corso successivo e a ripetere, per una sola volta, il periodo di applicazione pratica. Nel caso in cui l'assenza e' dovuta a gravi infermita', anche non dipendenti da causa di servizio, che richiedono terapie salvavita ed impediscono lo svolgimento delle attivita' giornaliere, o ad altre ad esse assimilabili secondo le indicazioni dell'Ufficio medico legale dell'Azienda sanitaria competente per territorio, il personale, a domanda, e' ammesso a partecipare al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure per l'accesso alla qualifica. Gli agenti in prova e gli allievi di sesso femminile, la cui assenza oltre trenta giorni sia stata determinata da maternita', sono ammessi a ripetere il periodo di applicazione pratica e a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri;
+                                
+                            
+                            
+                                e)
+                                
+                                    gli agenti in prova che non superano il periodo di applicazione pratica di cui all'articolo 6-bis, comma 6.
 
 Gli allievi e gli agenti in prova inquadrati nei gruppi sportivi della "Polizia di Stato-Fiamme Oro" e riconosciuti atleti di interesse nazionale od olimpico dalle rispettive federazioni o dal CONI potranno eventualmente essere autorizzati ad assentarsi, in deroga ai termini di cui al comma 1, lettera d), su specifica e motivata richiesta da parte dei succitati organi sportivi.
 
@@ -239,9 +359,63 @@ Il personale del ruolo dei sovrintendenti svolge mansioni esecutive ((, anche qu
 
 Al personale della qualifica di sovrintendente capo, oltre a quanto gia' specificato, possono essere attribuiti incarichi specialistici, richiedenti particolari conoscenze ed attitudini, e puo' essere, altresi', affidato il comando di posti di polizia o di unita' equivalenti.In relazione al qualificato profilo professionale raggiunto, ai sovrintendenti capo, che maturano ((sei)) anni di effettivo servizio nella qualifica, possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita', tra le mansioni di cui al comma 2, ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica, anche nei casi di pari qualifica con diversa anzianita'. I soggetti di cui al secondo periodo svolgono altresi' mansioni di coordinamento del personale dipendente, anche in servizi non operativi, al fine di assicurare la funzionalita' degli uffici e lo svolgimento delle attivita' istituzionali.
 
+3-bis.
+                        
+                            
+                                E' escluso dall'attribuzione della denominazione di cui al comma 3, secondo periodo, il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che nel triennio precedente abbia riportato un giudizio inferiore a «distinto» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 Il personale del ruolo dei sovrintendenti svolge, in relazione alla professionalita' posseduta, anche compiti di addestramento del personale della Polizia di Stato.
 
 ## Art. 24-quater. — (Immissione nel ruolo dei sovrintendenti)
+
+1.
+                        
+                            
+                                L'accesso alla qualifica iniziale del ruolo dei sovrintendenti della Polizia di Stato avviene, a domanda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del settanta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante selezione effettuata con scrutinio per merito comparativo e superamento di un successivo corso di formazione professionale, della durata non superiore a tre mesi, espletato anche con modalita' telematiche, riservato agli assistenti capo, individuati, in ordine di ruolo, nell'ambito delle domande presentate in un numero non superiore al doppio dei posti disponibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del restante trenta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante concorso, espletato anche con modalita' telematiche, per titoli ed esame, consistente in risposte ad un questionario tendente ad accertare prevalentemente il grado di preparazione professionale, soprattutto a livello pratico ed operativo, e successivo corso di formazione professionale, della durata non superiore a tre mesi, espletato anche con modalita' telematiche, riservato al personale del ruolo degli agenti e assistenti che abbia compiuto almeno quattro anni di effettivo servizio.
+
+2.
+                        
+                            
+                                Alle procedure di cui al comma 1 e' ammesso il personale, in possesso dei requisiti ivi previsti, che alla data di scadenza dei termini per la presentazione delle domande: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia riportato, nell'ultimo biennio, un giudizio complessivo non inferiore a buono; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbia riportato, nell'ultimo biennio, sanzioni disciplinari piu' gravi della deplorazione.
 
 ((
 
@@ -276,6 +450,31 @@ La facolta' di rinunciare all'accesso alla qualifica iniziale del ruolo dei sovr
  a) in deroga a quanto previsto dall'articolo 24-quater del decreto del Presidente delle Repubblica 24 aprile 1982, n. 335, alla copertura dei posti per l'accesso alla qualifica di vice sovrintendente del ruolo dei sovrintendenti, disponibili al 31 dicembre di ciascun anno, dal 2017 al 2022, si provvede mediante concorsi per titoli, da bandire entro il 30 settembre di ciascun anno, con modalita', procedure e criteri di assegnazione di cui al decreto del Ministro dell'interno 3 dicembre 2013, n. 144, previsti in attuazione dell'articolo 2, comma 5, lettera b), del decreto-legge 28 dicembre 2012, n. 227, convertito, con modificazioni, dalla legge 1° febbraio 2013, n. 12, ferme restando le aliquote delle riserve dei posti previste dal predetto articolo 24-quater, comma 1, lettere a) e b)".
 
 ## Art. 24-quinquies. — (Dimissioni dal corso)
+
+1.
+                        
+                            
+                                E' dimesso dai corsi di cui all'articolo 24-quater, il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera gli esami di fine corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso per un periodo superiore ad un quarto delle giornate di studio. Nell'ipotesi di assenza dovuta ad infermita' contratta durante il corso ovvero ad infermita' dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure di cui all'articolo 24-quater. ((Nel caso in cui l'assenza e' dovuta a gravi infermita', anche non dipendenti da causa di servizio, che richiedono terapie salvavita ed impediscono lo svolgimento delle attivita' giornaliere, o ad altre ad esse assimilabili secondo le indicazioni dell'Ufficio medico legale dell'Azienda sanitaria competente per territorio, il personale, a domanda, e' ammesso a partecipare al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure di cui all'articolo 24-quater.))
 
 Il personale di sesso femminile, la cui assenza oltre i limiti di cui al comma 1 e' stata determinata da maternita', e' ammesso a partecipare al corrispondente primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
@@ -342,11 +541,47 @@ Gli ispettori superiori e i sostituti commissari, oltre quanto gia' specificato,
 
 In relazione al qualificato profilo professionale raggiunto, ai sostituti commissari, che maturano quattro anni di effettivo servizio nella qualifica, possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita', tra le funzioni di cui ai commi 3 e 5, nonche' quello di vice dirigente di ufficio o unita' organiche in cui, oltre al dirigente, non e' previsto altro appartenente alla carriera dei funzionari della Polizia di Stato, secondo la graduazione e i criteri fissati con provvedimento del capo della polizia-direttore generale della pubblica sicurezza, ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica, anche nei casi di pari qualifica con diversa anzianita'.
 
+5-ter.
+                        
+                            
+                                E' escluso dall'attribuzione della denominazione di cui al comma 5-bis, il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che nel triennio precedente abbia riportato un giudizio inferiore a «ottimo» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 ))
 
 ## Art. 27. — (Nomina a vice ispettore)
 
+1.
+                        
+                            
+                                La nomina alla qualifica di vice ispettore si consegue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in misura non superiore al sessanta per cento e non inferiore al cinquanta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante pubblico concorso, per titoli ed esami, consistenti in una prova scritta ed un colloquio secondo le modalita' stabilite dagli articoli 27-bis e 27-ter, e con l'osservanza delle disposizioni di cui all'articolo 26 della legge 1 febbraio 1989, n. 53 e dell'articolo 5 del decreto-legge 4 ottobre 1990, n. 276, convertito con modificazioni dalla legge 30 novembre 1990, n. 359. Un sesto dei posti e' riservato agli appartenenti al ruolo dei sovrintendenti in possesso del prescritto titolo di studio; (27) 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    in misura non superiore al cinquanta per cento e non inferiore al quaranta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante concorso interno per titoli ed esami, consistente in una prova scritta e in un colloquio, riservato al personale della Polizia di Stato che espleta funzioni di polizia in possesso, oltre che, alla data del bando che indice il concorso, di un'anzianita' di servizio non inferiore a cinque anni, del titolo di studio di cui all'articolo 27-bis, comma 1, lettera d) e che, nell'ultimo biennio non abbia riportato la deplorazione o sanzione disciplinare piu' grave ed abbia riportato un giudizio complessivo non inferiore a "buono". PERIODO SOPPRESSO DAL D.LGS. 29 MAGGIO 2017, N. 95.
+
+((COMMA ABROGATO DAL D.L. 24 FEBBRAIO 2026, N. 23)).
 
 Al fine di garantire l'organico sviluppo della progressione del personale del ruolo degli ispettori, il numero dei posti annualmente messi a concorso ai sensi delle lettere a) e b) del comma 1 e' determinato considerando la complessiva carenza nella dotazione organica del medesimo ruolo. ((PERIODO SBROGATO DAL D.L. 24 FEBBRAIO 2026,N. 23)).
 
@@ -383,6 +618,45 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 ## Art. 27-bis. — ((Concorso pubblico per la nomina a vice ispettore))
 
 
+
+1.
+                        
+                            
+                                L'assunzione dei vice ispettori ((...)) di cui all'articolo 27, comma 1, lettera a), avviene mediante pubblico concorso al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti ((civili e)) politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' non superiore a ventotto anni stabilita dal regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127, fatte salve le deroghe di cui al predetto regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    efficienza e idoneita' fisica, psichica e attitudinale al servizio di polizia, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da emanare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' ((...)) di condotta previste dalle disposizioni di cui all'articolo 26 della legge 1 febbraio 1989, n. 53.
 
 Al concorso sono altresi' ammessi a partecipare, con riserva di un sesto dei posti disponibili, gli appartenenti ai ruoli della Polizia di Stato con almeno tre anni di anzianita' di effettivo servizio alla data del bando che indice il concorso, in possesso dei prescrivi requisiti ad eccezione del limite di eta'. Se i posti riservati non vengono coperti la differenza va ad aumentare i posti spettanti all'altra categoria.
 
@@ -421,6 +695,31 @@ COMMA ABROGATO DAL D.LGS. 29 MAGGIO 2017, N. 95.
 ## Art. 27-quater. — Dimissioni dal corso per la nomina a vice ispettore
 
 
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di cui all'articolo 27, comma 1, lettera a), gli allievi vice ispettori che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superano gli esami ((di fine corso)) o non sono dichiarati idonei al servizio di polizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarano di rinunciare al corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati per qualsiasi motivo assenti dal corso per piu' di novanta giorni anche non consecutivi ovvero di centoventi giorni se l'assenza e' stata determinata da infermita' contratta durante il corso o da infermita' dipendente da causa di servizio qualora si tratti di personale proveniente da altri ruoli della Polizia di Stato, nel qual caso l'allievo e' ammesso a partecipare al primo corso successivo al riconoscimento ((della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure per l'accesso alla qualifica. Nel caso in cui l'assenza e' dovuta a gravi infermita', anche non dipendenti da causa di servizio, che richiedono terapie salvavita ed impediscono lo svolgimento delle attivita' giornaliere, o ad altre ad esse assimilabili secondo le indicazioni dell'Ufficio medico legale dell'Azienda sanitaria competente per territorio, il personale, a domanda, e' ammesso a partecipare al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure per l'accesso alla qualifica.))
 
 Gli allievi vice ispettori di sesso femminile, la cui assenza oltre novanta giorni e' stata determinata da maternita', sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 

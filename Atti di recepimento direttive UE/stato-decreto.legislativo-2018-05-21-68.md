@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2021-02-09
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -626,17 +626,186 @@ Se non ritiene provata la violazione, il Collegio di garanzia puo' proporre l'ar
 
 ## Art. 2. — ((Modifiche al decreto legislativo 24 febbraio 1998, n. 58, al decreto legislativo 4 marzo 2010, n. 28 e al decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162))
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera w-bis) e' sostituita dalla seguente: «w-bis) soggetti abilitati alla distribuzione assicurativa: gli intermediari assicurativi iscritti nella sezione d) del registro unico degli intermediari assicurativi di cui all'articolo 109 del decreto legislativo n. 209 del 2005, i soggetti dell'Unione europea iscritti nell'elenco annesso di cui all'articolo 116-quinquies, comma 5, del decreto legislativo n. 209 del 2005, quali le banche, le societa' di intermediazione mobiliare e le imprese di investimento, anche quando operano con i collaboratori di cui alla sezione E del registro unico degli intermediari assicurativi di cui all'articolo 109 del decreto legislativo n. 209 del 2005;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera w-bis.3), le parole: «regolamento (UE) n. 1286/2014;» sono sostituite dalle seguenti: «regolamento (UE) n. 1286/2014. Tale definizione non include: 1) i prodotti assicurativi non vita elencati all'allegato I della direttiva 2009/138/CE; 2) i contratti assicurativi vita, qualora le prestazioni previste dal contratto siano dovute soltanto in caso di decesso o per incapacita' dovuta a lesione, malattia o disabilita'; 3) i prodotti pensionistici che, ai sensi del diritto nazionale, sono riconosciuti come aventi lo scopo precipuo di offrire all'investitore un reddito durante la pensione e che consentono all'investitore di godere di determinati vantaggi; 4) i regimi pensionistici aziendali o professionali ufficialmente riconosciuti che rientrano nell'ambito di applicazione della direttiva 2003/41/CE o della direttiva 2009/138/CE; 5) i singoli prodotti pensionistici per i quali il diritto nazionale richiede un contributo finanziario del datore di lavoro e nei quali il lavoratore o il datore di lavoro non puo' scegliere il fornitore o il prodotto pensionistico;».
+
+2.
+                    
+                        
+                            All'articolo 4-sexies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera b), le parole: «gli intermediari assicurativi», sono sostituite dalle seguenti: «i soggetti»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, lettera b), le parole: «per quanto riguarda la tutela degli investitori o l'integrita' e l'ordinato funzionamento dei mercati» sono soppresse e, dopo le parole: «nel caso di prodotti distribuiti», sono aggiunte le seguenti: «dalle imprese di assicurazione e»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, lettera c), le parole: «, nonche' per quanto riguarda i rischi inerenti alla stabilita' delle imprese di assicurazione nei confronti delle imprese di assicurazione medesime» sono soppresse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, dopo le parole «dei poteri loro attribuiti ai sensi del presente articolo», sono aggiunte le seguenti: «e dell'articolo 4-septies»;
+
+3.
+                    
+                        
+                            All'articolo 4-septies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «, dall'articolo 10,», sono sostituite dalle seguenti: «e dall'articolo 10,»; le parole «dall'articolo 13, paragrafi 1, 3 e 4, e dagli articoli 14 e 19» sono soppresse, e le parole «o l'IVASS, secondo le rispettive competenze definite ai sensi dell'articolo 4-sexies, possono,», sono sostituite dalle seguenti: «puo',»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' aggiunto il seguente: «1-bis. Fermo restando quanto previsto dal comma 1, in caso di violazione degli articoli 13, paragrafi 1, 3 e 4, 14 e 19 del regolamento (UE) n. 1286/2014, la Consob o l'IVASS, secondo le rispettive competenze definite ai sensi dell'articolo 4-sexies, possono, tenuto conto, in quanto compatibili, dei criteri stabiliti dall'articolo 194-bis, esercitare i poteri di cui al comma 1.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' abrogato.
+
+4.
+                    
+                        
+                            All'articolo 4-undecies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «e le imprese di assicurazione» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 le parole «Le imprese di assicurazione osservano le disposizioni attuative adottate dall'IVASS, sentita Consob.» sono soppresse.
+
 All'articolo 4-terdecies, comma 1, lettera a), del decreto legislativo 24 febbraio 1998, n. 58, le parole: «, ad eccezione dell'articolo 25-ter» sono soppresse.
+
+6.
+                    
+                        
+                            All'articolo 25-ter del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Prodotti di investimento assicurativo»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. La distribuzione dei prodotti d'investimento assicurativi e' disciplinata dalle disposizioni di cui al Titolo IX del decreto legislativo 7 settembre 2005, n. 209, e dalla normativa europea direttamente applicabile.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. In relazione ai prodotti di cui al comma 1 e nel perseguimento delle finalita' di cui all'articolo 5, comma 3, la CONSOB esercita sui soggetti abilitati alla distribuzione assicurativa di cui all'articolo 1, comma 1, lettera w-bis), i poteri di cui all'articolo 6, comma 2, sentito l'IVASS, nonche' i poteri di cui all'articolo 6-bis, commi 4, 5, 6, 7, 8, 9 e 10, all'articolo 6-ter, commi 1, 2, 3 e 4, all'articolo 7, commi 1, 1-bis, 1-ter e 3-bis.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2 sono inseriti i seguenti: «2-bis. Con riferimento ai prodotti di investimento assicurativo, il potere di cui all'articolo 6, comma 2, e' esercitato dalla CONSOB, sentita l'IVASS, in modo da garantire uniformita' alla disciplina applicabile alla vendita dei prodotti d'investimento assicurativo a prescindere dal canale distributivo e la coerenza e l'efficacia complessiva del sistema di vigilanza sui prodotti di investimento assicurativi, nonche' il rispetto della normativa europea direttamente applicabile.
+2-ter. La Consob e l'IVASS si accordano sulle modalita' di esercizio dei poteri di vigilanza, secondo le rispettive competenze, in modo da ridurre gli oneri a carico dei soggetti vigilati.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i commi 3, 4, 5 e 6, sono abrogati.
 
 All'articolo 30, comma 9, del decreto legislativo 24 febbraio 1998, n. 58, le parole «e, limitatamente ai soggetti abilitati, ai prodotti finanziari emessi da imprese di assicurazione», sono soppresse.
 
 All'articolo 117-ter, comma 1, del decreto legislativo 24 febbraio 1998, 58, le parole «e le imprese di assicurazione» sono soppresse.
+
+9.
+                    
+                        
+                            All'articolo 190 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «25-ter, commi 1 e 2;» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera b), le parole: «alle imprese di assicurazione» sono sostituite dalle seguenti: «ai soggetti abilitati alla distribuzione assicurativa» e le parole «commi 1 e 2» sono sostituite dalle seguenti: «comma 2».
 
 Al decreto legislativo 4 marzo 2010, n. 28, all'articolo 5, comma 1-bis, primo periodo, dopo le parole «di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni,» sono aggiunte le seguenti: «ovvero il procedimento istituito in attuazione dell'articolo 187-ter del Codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209,».
 
 ## Art. 3. — Disposizioni transitorie riguardanti gli adempimenti connessi al Registro di cui all'art. 109 del decreto legislativo 7 settembre 2005, n. 209
 
 Gli intermediari che, alla data di entrata in vigore del presente decreto legislativo, sono iscritti nel registro di cui all'art. 109 del decreto legislativo 7 settembre 2005, n. 209, assicurano entro il 23 febbraio 2019 l'adeguamento dei requisiti professionali di cui agli articoli 109, 109-bis, 110, 111, 112 del medesimo decreto legislativo, n. 209 del 2005, conformemente a quanto previsto dal presente decreto legislativo.
+
+2.
+                    
+                        
+                            I soggetti che, alla data di entrata in vigore del presente decreto legislativo, esercitano l'attivita' di intermediario assicurativo a titolo accessorio, secondo quanto previsto dall'art. 1, comma 1, lettera cc-septies), del decreto legislativo 7 settembre 2005, n. 209, sono iscritti, previo accertamento dei requisiti necessari: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella sezione del registro di cui all'art. 109, comma 2, lettera e), del decreto legislativo 7 settembre 2005, n. 209, se agiscono su incarico di altro intermediario iscritto alle sezioni del registro del medesimo art. 109, comma 2, lettere a),
+                            
+                        
+                        
+                            b)
+                            
+                                o d), del medesimo decreto legislativo n. 209 del 2005; 
+ b) nella sezione del registro di cui all'art. 109, comma 2, lettera a), del decreto legislativo 7 settembre 2005, n. 209, se operano su incarico di una o piu' imprese di assicurazione.
 
 Nei casi di cui al comma 2, nell'indicazione dei dati identificativi della persona fisica o giuridica che esercita tale attivita', riportati nel registro, e' data evidenza della qualifica di intermediario assicurativo a titolo accessorio. A tal fine i soggetti di cui, al comma 2, lettera a), del presente articolo, gia' iscritti nella sezione del registro di cui al medesimo art. 109, comma 2, lettera e), del decreto legislativo 7 settembre 2005, n. 209 alla data di entrata in vigore del presente decreto legislativo, comunicano all'IVASS che operano come intermediari a titolo accessorio entro il termine di sei mesi da tale data.
 
@@ -655,6 +824,24 @@ Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005,
 Con decreto del Ministro dello sviluppo economico, su proposta dell'IVASS, sono determinate, in modo da gravare il minimo possibile sugli utenti, le modalita' di contribuzione da parte degli stessi, al costo dei sistemi di risoluzione stragiudiziale delle controversie di cui all'art. 187-ter del decreto legislativo 7 settembre 2005, n. 209, introdotto dall'art. 1, comma 34 del presente decreto legislativo.
 
 In ragione delle nuove competenze attribuite all'IVASS ai sensi dell'art. 1 comma 34, del presente decreto, la pianta organica dell'IVASS e' incrementata in misura di 45 unita' di ruolo, in deroga all'art. 13, comma 32, ultimo periodo, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. Ai relativi oneri si provvede mediante le risorse come individuate ai sensi del medesimo art. 1, comma 34, del presente decreto.
+
+6.
+                    
+                        
+                            Al decreto legislativo 6 settembre 2005, n. 206, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'art. 141, comma 7, dopo le parole «Banca d'Italia,» sono aggiunte le seguenti: «dell'Istituto per la vigilanza sulle assicurazioni,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'art. 141-octies, comma 1, dopo la lettera b) e' aggiunta la seguente: «b-bis) l'Istituto per la vigilanza sulle assicurazioni (IVASS) di cui all'art. 13 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, con riferimento ai sistemi di risoluzione stragiudiziale delle controversie disciplinati ai sensi dell'art. 187-ter del decreto legislativo 7 settembre 2005, n. 209, e dei regolamenti attuativi, e con oneri a carico delle risorse di cui agli articoli 335 e 336 dello stesso decreto legislativo 7 settembre 2005 n. 209.
 
 Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri.
 

@@ -8,8 +8,8 @@ codice_redazionale: 099G0055
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -87,4 +87,40 @@ Il rispetto dei termini previsti nel presente decreto per l'assolvimento degli a
 Ai fini del presente decreto, sono considerati autoscafi le unita' da diporto e le unita' adibite ad uso privato iscritte in pubblici registri.
 
 ## Art. 8.
+
+1.
+                        
+                            
+                                Qualora il visto, emesso ai sensi dell'articolo 79 del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43, evidenzi l'esistenza di autoscafi di proprieta' del contribuente iscritto a ruolo, si procede al fermo e al pignoramento del mezzo secondo le modalita' indicate nel titolo I del presente regolamento con le seguenti variazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il concessionario, entro venti giorni dalla consegna del provvedimento di fermo da parte della competente direzione regionale delle entrate, richiede l'iscrizione del fermo all'ufficio presso il quale e' registrato l'autoscafo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di cui all'articolo 5, comma 1, l'ufficio di iscrizione dell'unita' sottoposta a fermo trasmette tempestiva comunicazione alla direzione regionale delle entrate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di contravvenzione al divieto di cui all'articolo 5, comma 2, l'organo di polizia o di vigilanza, previo ritiro della licenza di navigazione, invita il conducente dell'unita' sottoposta a fermo a far rientrare l'imbarcazione nel porto piu' vicino dandone comunicazione al concessionario, che nei successivi sessanta giorni esegue il pignoramento.
+ Il presento decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+ Roma, 7 settembre 1998
+ Il Ministro delle finanze
+Visco
+ Il Ministro dell'interno
+Napolitano
+ Il Ministro dei lavori pubblici
+Costa
+ Visto, il Guardasigilli: Flick
+ Registrato alla Corte dei conti il 29 ottobre 1998
+ Registro n. 2 Finanze, foglio n. 317
 

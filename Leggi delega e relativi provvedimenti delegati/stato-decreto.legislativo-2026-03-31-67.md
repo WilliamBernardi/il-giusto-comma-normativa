@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2026-03-31;67
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -67,11 +67,49 @@ All'articolo 6 del decreto legislativo 23 dicembre 2022, n. 200, il comma 1 e' s
 
 ## Art. 6. — Modifiche all'articolo 7 del decreto legislativo 23 dicembre 2022, n. 200
 
+1.
+                    
+                        
+                            All'articolo 7, comma 1, lettera b), del decreto legislativo 23 dicembre 2022, n. 200, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al numero 1), le parole: «nonche' il personale distaccato in via esclusiva in base alle convenzioni con le Universita'» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al numero 2), le parole: «nonche' della qualifica di centro di riferimento clinico-assistenziale a livello regionale o sovra regionale per l'area tematica di appartenenza» sono sostituite dalle seguenti: «nonche' della qualifica di centro di riferimento clinico-assistenziale di eccellenza a livello regionale e sovra regionale come bacino di utenza per l'area tematica di appartenenza».
+
 ## Art. 7. — Modifiche all'articolo 9 del decreto legislativo 23 dicembre 2022, n. 200
 
 All'articolo 9, comma 1, del decreto legislativo 23 dicembre 2022, n. 200, dopo le parole: «i rendiconti finanziari dell'attivita' non economica ed economica» sono inserite le seguenti: «con riferimento all'attivita' di ricerca e ai relativi finanziamenti pubblici ottenuti».
 
 ## Art. 8. — Modifiche all'articolo 12 del decreto legislativo 23 dicembre 2022, n. 200
+
+1.
+                    
+                        
+                            All'articolo 12 del decreto legislativo 23 dicembre 2022, n. 200, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Con decreto del Ministro della salute, acquisito il parere del Comitato tecnico sanitario - Sezione per la ricerca sanitaria e della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono aggiornati periodicamente, nel rispetto delle evoluzioni scientifiche, gli allegati 1, 2 e 3 al presente decreto, nonche' e' determinato il numero di aree tematiche di afferenza per gli IRCCS politematici nell'ambito di aree tematiche riconosciute a livello internazionale, le modalita' con le quali gli IRCCS comunicano l'afferenza a una o piu' aree tematiche e il procedimento di individuazione dell'area o delle aree tematiche di afferenza valide sino alla successiva conferma del carattere scientifico.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4 e' aggiunto il seguente: 
+ «4-bis. Le disposizioni di cui all'articolo 11, comma 3, del decreto legislativo 16 ottobre 2003, n. 288, si applicano, a domanda degli interessati, anche ai direttori scientifici in carica alla data di entrata in vigore della presente disposizione.».
 
 ## Art. 9. — Disposizioni finanziarie
 

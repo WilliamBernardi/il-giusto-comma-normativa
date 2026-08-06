@@ -8,8 +8,8 @@ codice_redazionale: 099G0402
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,24 @@ Il limite massimo del tasso effettivamente praticato al momento dell'emissione d
 Sono abilitati all'emissione dei titoli di solidarieta':
  le banche come definite dal decreto legislativo 1 settembre 1993, n. 385;
  gli intermediari finanziari di cui all'articolo 107, del medesimo decreto legislativo.
+
+2.
+                    
+                        
+                            I soggetti di cui al precedente comma hanno l'obbligo di:
+ 
+                        
+                        
+                            a)
+                            
+                                destinare i fondi raccolti con le emissioni dei titoli di solidarieta' esclusivamente al finanziamento delle organizzazioni non lucrative di utilita' sociale (ONLUS) o di intermediari bancari e finanziari, nella misura in cui tali fondi sono destinati, da parte di questi ultimi, al finanziamento delle ONLUS medesime;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tenere per i fondi raccolti gestione separata, dalla quale devono risultare in modo chiaro e trasparente tutte le entrate e le spese connesse ai fondi medesimi. Per la conservazione delle scritture contabili e della relativa documentazione si osservano le disposizioni contenute nell'articolo 22 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni.
 
 Le disposizioni di cui alla lettera b) del comma 2 valgono anche per gli intermediari bancari e finanziari di cui alla lettera a) del medesimo comma.
 

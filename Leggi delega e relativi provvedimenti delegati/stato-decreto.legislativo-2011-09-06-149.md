@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,6 +37,59 @@ Il rapporto e la relazione di fine legislatura sono infine pubblicati sul sito i
 
 La relazione di cui ai commi 2 e 3 e' trasmessa, entro dieci giorni dalla sottoscrizione del Presidente della Giunta regionale, alla sezione regionale di controllo della Corte dei conti, che, entro trenta giorni dal ricevimento, esprime le proprie valutazioni al Presidente della Giunta regionale. Le valutazioni espresse dalla sezione regionale di controllo della Corte dei conti sono pubblicate nel sito istituzionale della regione entro il giorno successivo al ricevimento da parte del Presidente della Giunta regionale. ((6))
 
+4.
+                        
+                            
+                                La relazione di fine legislatura contiene la descrizione dettagliata delle principali attivita' normative e amministrative svolte durante la legislatura, con specifico riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sistema ed esiti dei controlli interni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali rilievi della Corte dei conti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali carenze riscontrate nella gestione degli enti comunque sottoposti al controllo della regione, nonche' degli enti del servizio sanitario regionale, con indicazione delle azioni intraprese per porvi rimedio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuali azioni intraprese per contenere la spesa, con particolare riguardo a quella sanitaria, e stato del percorso di convergenza ai costi standard, affiancato da indicatori quantitativi e qualitativi relativi agli output dei servizi resi, anche utilizzando come parametro di riferimento realta' rappresentative dell'offerta di prestazioni con il miglior rapporto qualita-costi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    situazione economica e finanziaria, in particolare del settore sanitario, quantificazione certificata della misura del relativo indebitamento regionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la individuazione di eventuali specifici atti legislativi, regolamentari o amministrativi cui sono riconducibili effetti di spesa incompatibili con gli obiettivi e i vincoli di bilancio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    stato certificato del bilancio regionale. ((6))
+
 Con atto di natura non regolamentare, adottato d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ai sensi dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, il Ministro per i rapporti con le regioni e per la coesione territoriale, di concerto con il Ministro dell'economia e delle finanze, con il Ministro per le riforme per il federalismo e con il Ministro della salute, entro sessanta giorni dalla data di entrata in vigore del presente decreto, adotta uno schema tipo per la redazione della relazione di fine legislatura, differenziandolo eventualmente per le Regioni non assoggettate a un piano di rientro della spesa sanitaria. In caso di mancata adozione dell'atto di cui al primo periodo, il Presidente della Giunta regionale e' comunque tenuto a predisporre la relazione di fine legislatura secondo i criteri di cui al comma 4. ((6))
 
 In caso di mancato adempimento dell'obbligo di redazione e di pubblicazione, nel sito istituzionale dell'ente, della relazione di fine legislatura, al Presidente della Giunta regionale e, qualora non abbiano predisposto la relazione, al responsabile del servizio bilancio e finanze della regione e all'organo di vertice dell'amministrazione regionale e' ridotto della meta', con riferimento alle successive tre mensilita', rispettivamente, l'importo dell'indennita' di mandato e degli emolumenti. Il Presidente della regione e', inoltre, tenuto a dare notizia della mancata pubblicazione della relazione, motivandone le ragioni, nella pagina principale del sito istituzionale dell'ente. ((6))
@@ -48,6 +101,28 @@ In caso di mancato adempimento dell'obbligo di redazione e di pubblicazione, nel
  Ha inoltre dichiarato "l'illegittimita' costituzionale in via consequenziale dell'art. 1, commi 3-bis e 6, del d.lgs. n. 149 del 2011, nel testo introdotto dall'art. 1-bis, comma 1, del d.l. n. 174 del 2012, come modificato dalla legge di conversione n. 213 del 2012".
 
 ## Art. 2. — Responsabilita' politica del presidente della giunta regionale
+
+1.
+                        
+                            
+                                La fattispecie di grave dissesto finanziario, con riferimento al disavanzo sanitario, si verifica in una regione assoggettata a piano di rientro ai sensi dell'articolo 2, comma 77, della legge 23 dicembre 2009, n. 191, al verificarsi congiuntamente delle seguenti condizioni: 
+                            
+                            
+                                a)
+                                
+                                    il presidente della giunta regionale, nominato Commissarioad acta ai sensi dell'articolo 2, rispettivamente commi 79 e 83, della citata legge n. 191 del 2009, non abbia adempiuto, in tutto o in parte, all'obbligo di redazione del piano di rientro o agli obblighi operativi, anche temporali, derivanti dal piano stesso;
+                                
+                            
+                            
+                                b)
+                                
+                                    si riscontri, in sede di verifica annuale, ai sensi dell'articolo 2, comma 81, della citata legge n. 191 del 2009, il mancato raggiungimento degli obiettivi del piano di rientro, con conseguente perdurare del disavanzo sanitario oltre la misura consentita dal piano medesimo o suo aggravamento;
+                                
+                            
+                            
+                                c)
+                                
+                                    sia stato adottato per due esercizi consecutivi, in presenza del mancato raggiungimento degli obiettivi del piano di rientro e del conseguente incremento delle aliquote fiscali di cui all'articolo 2, comma 86, della citata legge n. 191 del 2009, un ulteriore incremento dell'aliquota dell'addizionale regionale all'Irpef al livello massimo previsto dall'articolo 6 del decreto legislativo 6 maggio 2011, n. 68.
 
 Il grave dissesto finanziario di cui al comma 1 costituisce grave violazione di legge e in tal caso con decreto del Presidente della Repubblica, ai sensi dell'articolo 126, comma primo, della Costituzione, sono disposti lo scioglimento del Consiglio regionale nonche' la rimozione del Presidente della Giunta regionale per responsabilita' politica nel proprio mandato di amministrazione della regione, ove sia accertata dalla Corte dei conti la sussistenza delle condizioni di cui al comma 1 e la loro riconduzione alla diretta responsabilita', con dolo o colpa grave del Presidente della Giunta regionale. Il decreto del Presidente della Repubblica e' adottato previa deliberazione del Consiglio dei Ministri, su proposta del Presidente del Consiglio dei Ministri, previo parere conforme della Commissione parlamentare per le questioni regionali espresso a maggioranza di due terzi dei componenti. Alla riunione del Consiglio dei Ministri partecipa il Presidente della Giunta regionale interessato. ((6))
 
@@ -93,6 +168,52 @@ In caso di scioglimento anticipato del Consiglio comunale o provinciale, la sott
 
 ((COMMA NON PIU' PREVISTO DAL D.L. 6 MARZO 2014, N. 16, CONVERTITO CON MODIFICAZIONI DALLA L. 2 MAGGIO 2014, N. 68)).
 
+4.
+                        
+                            
+                                La relazione di fine mandato contiene la descrizione dettagliata delle principali attivita' normative e amministrative svolte durante il mandato, con specifico riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sistema ed esiti dei controlli interni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali rilievi della Corte dei conti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    azioni intraprese per il rispetto dei saldi di finanza pubblica programmati e stato del percorso di convergenza verso i fabbisogni standard; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    situazione finanziaria e patrimoniale, anche evidenziando le carenze riscontrate nella gestione degli enti controllati dal comune o dalla provincia ai sensi dei numeri 1 e 2 del comma primo dell'articolo 2359 del codice civile, ed indicando azioni intraprese per porvi rimedio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    azioni intraprese per contenere la spesa e stato del percorso di convergenza ai fabbisogni standard, affiancato da indicatori quantitativi e qualitativi relativi agli output dei servizi resi, anche utilizzando come parametro di riferimento realta' rappresentative dell'offerta di prestazioni con il miglior rapporto qualita-costi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quantificazione della misura dell'indebitamento provinciale o comunale.
+
 Con atto di natura non regolamentare, adottato d'intesa con la Conferenza Stato - citta' ed autonomie locali ai sensi dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, il Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, entro novanta giorni dalla data di entrata in vigore del presente decreto, adotta uno schema tipo per la redazione della relazione di fine mandato, nonche' una forma semplificata del medesimo schema per i comuni con popolazione inferiore a 5.000 abitanti. In caso di mancata adozione dell'atto di cui al primo periodo, il presidente della provincia o il sindaco sono comunque tenuti a predisporre la relazione di fine mandato secondo i criteri di cui al comma 4.
 
 In caso di mancato adempimento dell'obbligo di redazione e di pubblicazione, nel sito istituzionale dell'ente, della relazione di fine mandato, al sindaco e, qualora non abbia predisposto la relazione, al responsabile del servizio finanziario del comune o al segretario generale e' ridotto della meta', con riferimento alle tre successive mensilita', rispettivamente, l'importo dell'indennita' di mandato e degli emolumenti. Il sindaco e', inoltre, tenuto a dare notizia della mancata pubblicazione della relazione, motivandone le ragioni, nella pagina principale del sito istituzionale dell'ente.
@@ -110,6 +231,39 @@ La relazione di inizio mandato, predisposta dal responsabile del servizio finanz
  Il D.L. 31 agosto 2013, n. 102, convertito con modificazioni dalla L. 28 ottobre 2013, n. 124, ha disposto (con l'art. 8, comma 3) che "Il termine per la redazione e la sottoscrizione della relazione di inizio mandato degli enti locali, il cui mandato consiliare ha avuto inizio in data successiva al 31 maggio 2013, e' differito al 30 novembre 2013, in deroga al termine di cui all'articolo 4-bis del decreto legislativo 6 settembre 2011, n. 149".
 
 ## Art. 5. — Regolarita' della gestione amministrativo-contabile
+
+1.
+                        
+                            
+                                Il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato puo' attivare verifiche sulla regolarita' della gestione amministrativo-contabile, ai sensi dell'articolo 14, comma 1, lettera d), della legge 31 dicembre 2009, n. 196, anche nei confronti delle regioni e delle province autonome di Trento e di Bolzano, oltre che negli altri casi previsti dalla legge, qualora un ente evidenzi situazioni di squilibrio finanziario riferibili ai seguenti indicatori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ripetuto utilizzo dell'anticipazione di tesoreria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disequilibrio consolidato della parte corrente del bilancio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    anomale modalita' di gestione dei servizi per conto di terzi. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    aumento non giustificato delle spese in favore dei gruppi consiliari e degli organi istituzionali. 
+ Le verifiche di cui all'alinea sono attivate anche attraverso le rilevazioni SIOPE, rispetto agli indicatori di cui alle lettere a), b) e c), e le rilevazioni del Ministero dell'interno, per gli enti locali, e del Dipartimento per gli affari regionali, il turismo e lo sport della Presidenza del Consiglio dei ministri, per le regioni e le province autonome di Trento e di Bolzano, rispetto all'indicatore di cui alla lettera c-bis).
 
 Qualora siano evidenziati squilibri finanziari, anche attraverso le rilevazioni SIOPE, rispetto agli indicatori di cui al comma 1, lettere a), b) e c), e le rilevazioni del Ministero dell'interno, per gli enti locali, e del Dipartimento per gli affari regionali, il turismo e lo sport, per le regioni e le province autonome di Trento e di Bolzano, rispetto all'indicatore di cui al comma 1, lettera c-bis), il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato ne da' immediata comunicazione alla sezione regionale di controllo della Corte dei conti competente per territorio.
 
@@ -188,6 +342,31 @@ Nel rispetto della propria autonomia organizzativa le province possono definire 
 
 Con accordo fra Governo, Regioni, province e comuni, conseguito in sede di Conferenza unificata, sentita la Conferenza permanente per il coordinamento della finanza pubblica, sono stabilite annualmente le modalita' per la ricognizione delle capacita' fiscali effettive e potenziali dei singoli territori, tenendo conto del rapporto tra i dati fiscali dichiarati e i dati elaborati dall'Istituto Nazionale di Statistica.
 
+2.
+                        
+                            
+                                Con il medesimo accordo di cui al comma 1 sono altresi' definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un programma pluriennale di attivita' di contrasto dell'evasione fiscale finalizzato alla convergenza della capacita' fiscale effettiva alla capacita' fiscale potenziale mediante la definizione delle modalita' di concorso dei singoli enti dei vari livelli di governo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli obiettivi intermedi che debbono essere raggiunti da ciascun ente nell'ambito delle attivita' previste dal programma di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le misure premiali o sanzionatorie in relazione al raggiungimento degli obiettivi di cui alla lettera b).
+
 Ove l'accordo di cui al comma 1 non sia raggiunto entro il termine di un anno dalla data di entrata in vigore del presente decreto legislativo, le misure di cui ai commi 1 e 2 sono fissate con decreto del Presidente del Consiglio dei ministri, previa valutazione congiunta in sede di Conferenza unificata.
 
 ## - Capo III DISPOSIZIONI FINALI
@@ -214,4 +393,43 @@ Ai fini di garantire il coordinamento informativo, statistico e informatico dei 
 
 ## Art. 16. — Interventi del settore creditizio a favore del pagamento 
  delle imprese creditrici degli enti territoriali
+
+1.
+                        
+                            
+                                Il Ministero dell'economia e delle finanze, un rappresentante delle regioni e un rappresentante delle autonomie locali designati, rispettivamente, dalla Conferenza dei presidenti delle regioni, dall'ANCI e dall'UPI, e l'Associazione bancaria italiana, entro sessanta giorni dalla data di entrata in vigore del presente decreto legislativo, istituiscono un tavolo tecnico per il perseguimento dei seguenti obiettivi, da realizzare anche attraverso apposita convenzione, aperta all'adesione delle banche e degli intermediari finanziari ai sensi dell'articolo 106 del testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1° settembre 1993, n. 385: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formulare soluzioni finalizzate a sopperire alla mancanza di liquidita' delle imprese determinata dai ritardi dei pagamenti degli enti territoriali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valutare forme di compensazione all'interno del patto di stabilita' a livello regionale previsto dalla normativa vigente, anche in considerazione delle diverse fasce dimensionali degli enti territoriali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutare la definizione di nuove modalita' ed agevolazioni per la cessione pro soluto dei crediti certi, liquidi ed esigibili maturati dalle imprese nei confronti delle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    stabilire criteri per la certificazione dei crediti delle pubbliche amministrazioni, secondo le modalita' definite dall'articolo 9, comma 3-bis, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e dal decreto del Ministro dell'economia e delle finanze 19 maggio 2009, pubblicato nella Gazzetta ufficiale n. 157 del 9 luglio 2009; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    definire i casi in cui la stipulazione, da parte degli enti locali, di un contratto di locazione finanziaria avente ad oggetto la realizzazione e la successiva concessione in locazione finanziaria di un bene immobile non costituisce forma elusiva delle regole del patto di stabilita' interno, in considerazione della convenienza economica per l'amministrazione contraente.
 

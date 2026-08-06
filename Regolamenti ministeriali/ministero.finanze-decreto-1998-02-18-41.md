@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2011-07-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -57,4 +57,36 @@ Ai fini dei controlli concernenti la detrazione, le banche presso le quali sono 
 ))
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            La detrazione non e' riconosciuta in caso di:
+ 
+                        
+                        
+                            a)
+                            
+                                violazione di quanto previsto all'articolo 1, commi 1 e 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettuazione di pagamenti secondo modalita' diverse da quelle previste dall'articolo 1, comma 3, limitatamente a questi ultimi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esecuzione di opere edilizie difformi da quelle comunicate ai sensi dell'articolo 1;
+
+                            
+                        
+                        
+                            d)
+                            
+                                violazione delle norme in materia di tutela della salute e della sicurezza sul luogo di lavoro e nei cantieri, nonche' di obbligazioni contributive accertate dagli organi competenti e comunicate alla direzione regionale delle entrate territorialmente competente.
 

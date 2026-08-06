@@ -2,121 +2,199 @@
   "zip_date": "2026-07-24",
   "entries": {
     "DECRETO DEL PRESIDENTE DELLA REPUBBLICA_19960722_447/1996-08-30_096G0470_ORIGINALE_V0.xml": {
-      "sha256": "bab119d2fa71595ee95eb4772bdf8329f3f84dbf597ee1fcb1c05e98fa87977c"
+      "sha256": "bab119d2fa71595ee95eb4772bdf8329f3f84dbf597ee1fcb1c05e98fa87977c",
+      "out": "Atti di attuazione Regolamenti UE/stato-decreto.del.presidente.della.repubblica-1996-07-22-447.md",
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1996-07-22;447"
     },
     "DECRETO LEGISLATIVO_19950317_220/1995-06-05_095G0246_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "207d0bca5f66cea213cb92f572f5a03f139adcfc45cf1a71aa6c9ced2ed80dfb"
+      "sha256": "207d0bca5f66cea213cb92f572f5a03f139adcfc45cf1a71aa6c9ced2ed80dfb",
+      "out": "Atti di attuazione Regolamenti UE/stato-decreto.legislativo-1995-03-17-220.md",
+      "urn": "urn:nir:stato:decreto.legislativo:1995-03-17;220"
     },
     "DECRETO LEGISLATIVO_19970224_89/1997-04-03_097G0115_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "91c44effee116ae501310fd8c30fa3a32c3b9cc858f05a6641c9e01f7e7c3bd1"
+      "sha256": "91c44effee116ae501310fd8c30fa3a32c3b9cc858f05a6641c9e01f7e7c3bd1",
+      "out": "Atti di attuazione Regolamenti UE/stato-decreto.legislativo-1997-02-24-89.md",
+      "urn": "urn:nir:stato:decreto.legislativo:1997-02-24;89"
     },
     "DECRETO LEGISLATIVO_19980826_346/1998-10-09_098G0396_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "ee1047b9fe56f90b7c38a81b5815670194bccb8eb05d0abc78f01d5651a375f4"
+      "sha256": "ee1047b9fe56f90b7c38a81b5815670194bccb8eb05d0abc78f01d5651a375f4",
+      "out": "Atti di attuazione Regolamenti UE/stato-decreto.legislativo-1998-08-26-346.md",
+      "urn": "urn:nir:stato:decreto.legislativo:1998-08-26;346"
     },
     "DECRETO LEGISLATIVO_20191125_165/2020-01-09_20G00003_ORIGINALE_V0.xml": {
-      "sha256": "7a0d882429343c9c17a7bb0547511b1ceed5764d9897d7f2c58dd53ee384734a"
+      "sha256": "7a0d882429343c9c17a7bb0547511b1ceed5764d9897d7f2c58dd53ee384734a",
+      "out": "Atti di attuazione Regolamenti UE/stato-decreto.legislativo-2019-11-25-165.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2019-11-25;165"
     },
     "DECRETO LEGISLATIVO_20211108_210/2021-12-11_21G00233_VIGENZA_2026-07-07_V0.xml": {
-      "sha256": "eda2ec009fc250e0280374e317914e6361d592d096e741b72ab3aa47bad585e1"
+      "sha256": "eda2ec009fc250e0280374e317914e6361d592d096e741b72ab3aa47bad585e1",
+      "out": "Atti di attuazione Regolamenti UE/stato-decreto.legislativo-2021-11-08-210.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2021-11-08;210"
     },
     "DECRETO MINISTERIALE_19900208_34/1990-02-27_090G0069_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "313fcd6c7ac78526757b5acfa5062912ed5b953c4b8e0a885b16a18c07db09e9"
+      "sha256": "313fcd6c7ac78526757b5acfa5062912ed5b953c4b8e0a885b16a18c07db09e9",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto.ministeriale-1990-02-08-34.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto.ministeriale:1990-02-08;34"
     },
     "DECRETO MINISTERIALE_19900208_35/1990-02-27_090G0070_ORIGINALE_V0.xml": {
-      "sha256": "720cf68669fe4ad94804d1dea970f0c364feddb4db0979eb76f13d7340accdfa"
+      "sha256": "720cf68669fe4ad94804d1dea970f0c364feddb4db0979eb76f13d7340accdfa",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto.ministeriale-1990-02-08-35.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto.ministeriale:1990-02-08;35"
     },
     "DECRETO-LEGGE_19930706_216/1993-07-07_093G0287_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "70c343452e6615f3590ddc2a997d1fc55cee9cf4569d5a123a8951ea9b0b964b"
+      "sha256": "70c343452e6615f3590ddc2a997d1fc55cee9cf4569d5a123a8951ea9b0b964b",
+      "out": "Atti di attuazione Regolamenti UE/stato-decreto.legge-1993-07-06-216.md",
+      "urn": "urn:nir:stato:decreto.legge:1993-07-06;216"
     },
     "DECRETO_19870316_104/1987-03-24_087U0104_ORIGINALE_V0.xml": {
-      "sha256": "5687a7542c92cc9b245d30c044582d990dc3c4856141e55c7fb40ab180eb1dab"
+      "sha256": "5687a7542c92cc9b245d30c044582d990dc3c4856141e55c7fb40ab180eb1dab",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1987-03-16-104.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1987-03-16;104"
     },
     "DECRETO_19870317_229/1987-06-12_087U0229_ORIGINALE_V0.xml": {
-      "sha256": "d7abd898475558e4c2ce090cbd76dc16857efcf85ee0e70d1bd58115e54caaa2"
+      "sha256": "d7abd898475558e4c2ce090cbd76dc16857efcf85ee0e70d1bd58115e54caaa2",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1987-03-17-229.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1987-03-17;229"
     },
     "DECRETO_19870807_342/1987-08-20_087U0342_ORIGINALE_V0.xml": {
-      "sha256": "a96c6a59e3d9ebb1a19072aef959d6bda7465ec3ad4c04bbfa9440c580afa6dc"
+      "sha256": "a96c6a59e3d9ebb1a19072aef959d6bda7465ec3ad4c04bbfa9440c580afa6dc",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1987-08-07-342.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1987-08-07;342"
     },
     "DECRETO_19871031_509/1987-12-15_087U0509_ORIGINALE_V0.xml": {
-      "sha256": "42c067430cbf38a0dc51fc7c9b3bb710a21e8353227dee4038e87e19431f1095"
+      "sha256": "42c067430cbf38a0dc51fc7c9b3bb710a21e8353227dee4038e87e19431f1095",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1987-10-31-509.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1987-10-31;509"
     },
     "DECRETO_19880120_51/1988-03-02_088G0094_ORIGINALE_V0.xml": {
-      "sha256": "07d977e95a9c0487a52d7be93b2987976b80e73fa38cbd4e62240c2099e174dd"
+      "sha256": "07d977e95a9c0487a52d7be93b2987976b80e73fa38cbd4e62240c2099e174dd",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1988-01-20-51.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1988-01-20;51"
     },
     "DECRETO_19880128_58/1988-03-05_088G0100_ORIGINALE_V0.xml": {
-      "sha256": "6c5e065d8520f1d1462a8b2605a764ad966b3523e8bbf616814bb64f1adcc4ac"
+      "sha256": "6c5e065d8520f1d1462a8b2605a764ad966b3523e8bbf616814bb64f1adcc4ac",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1988-01-28-58.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1988-01-28;58"
     },
     "DECRETO_19880412_164/1988-05-23_088G0223_ORIGINALE_V0.xml": {
-      "sha256": "ffb2a48b1b93414bc4ce8fa6d2a321e06243568b2c44965034843c632ab5ec6a"
+      "sha256": "ffb2a48b1b93414bc4ce8fa6d2a321e06243568b2c44965034843c632ab5ec6a",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1988-04-12-164.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1988-04-12;164"
     },
     "DECRETO_19880520_179/1988-06-03_088G0235_ORIGINALE_V0.xml": {
-      "sha256": "e495888f136b4bb5a90f440693904b50d6866634f4e34b8d894f0e6b97f0b8ca"
+      "sha256": "e495888f136b4bb5a90f440693904b50d6866634f4e34b8d894f0e6b97f0b8ca",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1988-05-20-179.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1988-05-20;179"
     },
     "DECRETO_19880603_219/1988-06-22_088G0286_ORIGINALE_V0.xml": {
-      "sha256": "3752ea7a965534e3565a14ae81900d0d08450c82264c943566d6ef6cac42252c"
+      "sha256": "3752ea7a965534e3565a14ae81900d0d08450c82264c943566d6ef6cac42252c",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1988-06-03-219.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1988-06-03;219"
     },
     "DECRETO_19880804_364/1988-08-26_088G0428_ORIGINALE_V0.xml": {
-      "sha256": "82a4ce76693083864d5bd8fe2e0fe9751c6c0d279013a5df9cb3d207a3d836cb"
+      "sha256": "82a4ce76693083864d5bd8fe2e0fe9751c6c0d279013a5df9cb3d207a3d836cb",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1988-08-04-364.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1988-08-04;364"
     },
     "DECRETO_19880804_365/1988-08-26_088G0429_ORIGINALE_V0.xml": {
-      "sha256": "d8e5ad5335da016b8e5b6522329512bb10d9b8a7b838d3f5176567055fe37253"
+      "sha256": "d8e5ad5335da016b8e5b6522329512bb10d9b8a7b838d3f5176567055fe37253",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1988-08-04-365.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1988-08-04;365"
     },
     "DECRETO_19890116_34/1989-02-06_089G0054_ORIGINALE_V0.xml": {
-      "sha256": "efb592a23e8689a8f9fff55151d27938ce0825e6f6c711cb695c82efcfe03243"
+      "sha256": "efb592a23e8689a8f9fff55151d27938ce0825e6f6c711cb695c82efcfe03243",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1989-01-16-34.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1989-01-16;34"
     },
     "DECRETO_19890607_258/1989-07-20_089G0324_ORIGINALE_V0.xml": {
-      "sha256": "5425211a629632f3232635f457131b6fe6e33ac09d2f07224c5c3338b5475f40"
+      "sha256": "5425211a629632f3232635f457131b6fe6e33ac09d2f07224c5c3338b5475f40",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1989-06-07-258.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1989-06-07;258"
     },
     "DECRETO_19890719_340/1989-10-14_089G0407_ORIGINALE_V0.xml": {
-      "sha256": "d829d2b63536fcb95372a827a5df4c674950edd022d93fe3473143c4675431d2"
+      "sha256": "d829d2b63536fcb95372a827a5df4c674950edd022d93fe3473143c4675431d2",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1989-07-19-340.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1989-07-19;340"
     },
     "DECRETO_19900420_184/1990-07-13_090G0226_ORIGINALE_V0.xml": {
-      "sha256": "4fcb30736e86a198566ad27aff482ba8ef2b17445be0a46003ad1464972e0103"
+      "sha256": "4fcb30736e86a198566ad27aff482ba8ef2b17445be0a46003ad1464972e0103",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1990-04-20-184.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1990-04-20;184"
     },
     "DECRETO_19910219_63/1991-03-02_091G0088_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "8d2e150cd714f4a5eeb02fe3454b821417c22c4181eadba42b51070c6928f9e5"
+      "sha256": "8d2e150cd714f4a5eeb02fe3454b821417c22c4181eadba42b51070c6928f9e5",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1991-02-19-63.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1991-02-19;63"
     },
     "DECRETO_19910219_64/1991-03-02_091G0087_ORIGINALE_V0.xml": {
-      "sha256": "0f2aafd2d1b3070e7afdaca03d91db172c170fb2f09347fdfd3e5942affb5711"
+      "sha256": "0f2aafd2d1b3070e7afdaca03d91db172c170fb2f09347fdfd3e5942affb5711",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1991-02-19-64.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1991-02-19;64"
     },
     "DECRETO_19911213_455/1992-03-13_092G0250_ORIGINALE_V0.xml": {
-      "sha256": "7d9dc4f774ceb391509df7bb1256ca9822aff896d3e6eba167a05fe77c497926"
+      "sha256": "7d9dc4f774ceb391509df7bb1256ca9822aff896d3e6eba167a05fe77c497926",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1991-12-13-455.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1991-12-13;455"
     },
     "DECRETO_19920428_379/1992-09-18_092G0421_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "1c6a9fa439123978cca6031ab92aea299ccf8e160c8ec507bccfe1dd90b5804f"
+      "sha256": "1c6a9fa439123978cca6031ab92aea299ccf8e160c8ec507bccfe1dd90b5804f",
+      "out": "Atti di attuazione Regolamenti UE/ministero.finanze-decreto-1992-04-28-379.md",
+      "urn": "urn:nir:ministero.finanze:decreto:1992-04-28;379"
     },
     "DECRETO_19920525_302/1992-05-30_092G0342_ORIGINALE_V0.xml": {
-      "sha256": "1da6584186ea1d844aad419e402d1e89a9ee7b353e388ec85b7122718ce3b2e3"
+      "sha256": "1da6584186ea1d844aad419e402d1e89a9ee7b353e388ec85b7122718ce3b2e3",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1992-05-25-302.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1992-05-25;302"
     },
     "DECRETO_19920525_338/1992-07-17_092G0357_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "7326e243511b7c1cbe505b95cf95059648c6243b45b35ab45974e0697e7aafba"
+      "sha256": "7326e243511b7c1cbe505b95cf95059648c6243b45b35ab45974e0697e7aafba",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1992-05-25-338.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1992-05-25;338"
     },
     "DECRETO_19920602_367/1992-08-25_092G0407_ORIGINALE_V0.xml": {
-      "sha256": "3fa0aeaeea0298be48c8236d992385a20ff46f1e340fb64f44c6c63a1487b4be"
+      "sha256": "3fa0aeaeea0298be48c8236d992385a20ff46f1e340fb64f44c6c63a1487b4be",
+      "out": "Atti di attuazione Regolamenti UE/ministero.agricoltura.e.foreste-decreto-1992-06-02-367.md",
+      "urn": "urn:nir:ministero.agricoltura.e.foreste:decreto:1992-06-02;367"
     },
     "DECRETO_19940428_525/1994-08-31_094G0553_ORIGINALE_V0.xml": {
-      "sha256": "d6ee28d3a8a099199819476e88550a95565b87e0dd0b9b7a8eb7c651ca6c67ab"
+      "sha256": "d6ee28d3a8a099199819476e88550a95565b87e0dd0b9b7a8eb7c651ca6c67ab",
+      "out": "Atti di attuazione Regolamenti UE/ministero.risorse.agricole.alimentari.e.forestali-decreto-1994-04-28-525.md",
+      "urn": "urn:nir:ministero.risorse.agricole.alimentari.e.forestali:decreto:1994-04-28;525"
     },
     "DECRETO_19941219_768/1995-03-23_095G0113_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "615c566bf03cbbfdb2534293f9279b834bdc71d5e8744776e234f7e9b6b7ee82"
+      "sha256": "615c566bf03cbbfdb2534293f9279b834bdc71d5e8744776e234f7e9b6b7ee82",
+      "out": "Atti di attuazione Regolamenti UE/ministero.risorse.agricole.alimentari.e.forestali-decreto-1994-12-19-768.md",
+      "urn": "urn:nir:ministero.risorse.agricole.alimentari.e.forestali:decreto:1994-12-19;768"
     },
     "DECRETO_19960506_482/1996-09-17_096G0500_ORIGINALE_V0.xml": {
-      "sha256": "53a6e228c1419f356b75b285a084a195e524158ef95bc15df5e8c7d8ef31a7a8"
+      "sha256": "53a6e228c1419f356b75b285a084a195e524158ef95bc15df5e8c7d8ef31a7a8",
+      "out": "Atti di attuazione Regolamenti UE/ministero.risorse.agricole.alimentari.e.forestali-decreto-1996-05-06-482.md",
+      "urn": "urn:nir:ministero.risorse.agricole.alimentari.e.forestali:decreto:1996-05-06;482"
     },
     "DECRETO_20000725_280/2000-10-12_000G0317_VIGENZA_2025-06-11_V0.xml": {
-      "sha256": "78b80d7e4c1f80a145e786f6f636e05969d61537e0badd2facd1e39603adbae9"
+      "sha256": "78b80d7e4c1f80a145e786f6f636e05969d61537e0badd2facd1e39603adbae9",
+      "out": "Atti di attuazione Regolamenti UE/ministero.commercio.estero-decreto-2000-07-25-280.md",
+      "urn": "urn:nir:ministero.commercio.estero:decreto:2000-07-25;280"
     },
     "LEGGE_19710127_3/1971-01-29_071U0003_ORIGINALE_V0.xml": {
-      "sha256": "b415ce0a2543d0c1bf731e1d14ff75f01dd4b739664f750133e2f4cd484f4380"
+      "sha256": "b415ce0a2543d0c1bf731e1d14ff75f01dd4b739664f750133e2f4cd484f4380",
+      "out": "Atti di attuazione Regolamenti UE/stato-legge-1971-01-27-3.md",
+      "urn": "urn:nir:stato:legge:1971-01-27;3"
     },
     "LEGGE_19850307_77/1985-03-18_085U0077_ORIGINALE_V0.xml": {
-      "sha256": "b19309000a4baef2991cfa7441c5859c6130fd3b38fdc0e4e8cbb7e2dd5717fb"
+      "sha256": "b19309000a4baef2991cfa7441c5859c6130fd3b38fdc0e4e8cbb7e2dd5717fb",
+      "out": "Atti di attuazione Regolamenti UE/stato-legge-1985-03-07-77.md",
+      "urn": "urn:nir:stato:legge:1985-03-07;77"
     },
     "LEGGE_19851016_554/1985-10-23_085U0554_ORIGINALE_V0.xml": {
-      "sha256": "dd9d31f1fcb5357c249c3e1f72cfde546cefb5e8790a6b41eec62ed43b7e14e7"
+      "sha256": "dd9d31f1fcb5357c249c3e1f72cfde546cefb5e8790a6b41eec62ed43b7e14e7",
+      "out": "Atti di attuazione Regolamenti UE/stato-legge-1985-10-16-554.md",
+      "urn": "urn:nir:stato:legge:1985-10-16;554"
     },
     "LEGGE_19930809_294/1993-08-12_093G0376_ORIGINALE_V0.xml": {
-      "sha256": "e54cadd5fafcdcc662cf7988a81bef21948afc22b81f9bdff9dc37d04fc4a076"
+      "sha256": "e54cadd5fafcdcc662cf7988a81bef21948afc22b81f9bdff9dc37d04fc4a076",
+      "out": "Atti di attuazione Regolamenti UE/stato-legge-1993-08-09-294.md",
+      "urn": "urn:nir:stato:legge:1993-08-09;294"
     }
   }
 }

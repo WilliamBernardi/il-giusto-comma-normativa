@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-03-10;23
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,73 @@ Sulla proposta del Ministro per gli affari europei, il PNRR e le politiche di co
 ## Art. 1. — Definizioni
 
 Ai fini del presente decreto, si applicano le definizioni contenute negli articoli 2, paragrafo 2, e 3 del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022.
+
+2.
+                        
+                            
+                                Nel presente decreto si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Autorita' competenti DORA»: le Autorita' competenti di cui all'articolo 3, commi 1, 2 e 3, del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Autorita' nazionale competente NIS»: l'Agenzia per la cybersicurezza nazionale, quale autorita' nazionale unica competente in materia di sicurezza delle reti e dei sistemi informativi, di cui all'articolo 10, comma 1, del decreto legislativo 4 settembre 2024, n. 138; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «CSIRT Italia»: il Gruppo nazionale di risposta agli incidenti di sicurezza informatica operante presso l'Agenzia di cybersicurezza nazionale di cui all'articolo 15 del decreto legislativo 4 settembre 2024, n. 138; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «regolamento DORA»: il regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio del 14 dicembre 2022; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «direttiva DORA»: la direttiva (UE) 2022/2556 del Parlamento europeo e del Consiglio del 14 dicembre 2022; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «TUB»: il testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «TUF»: il testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «CAP»: il codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «Bancoposta»: Poste Italiane S.p.A., per le attivita' di bancoposta di cui al decreto del Presidente della Repubblica 14 marzo 2001, n. 144.
 
 Per quanto non diversamente previsto dal presente articolo si applicano le definizioni previste dalle disposizioni del TUB, del TUF, del CAP e del decreto legislativo 5 dicembre 2005, n. 252.
 
@@ -52,9 +119,66 @@ La Banca d'Italia e' l'autorita' competente per il rispetto degli obblighi posti
 
 La Banca d'Italia e' l'autorita' competente per il rispetto degli obblighi posti dal presente decreto legislativo a carico degli intermediari finanziari e di Bancoposta.
 
+4.
+                        
+                            
+                                Ai fini della partecipazione al forum di sorveglianza di cui all'articolo 32 del regolamento DORA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Banca d'Italia e' l'autorita' competente interessata di cui al paragrafo 4, lettera b), del citato articolo 32; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Consob partecipa in qualita' di osservatore con un proprio rappresentante ai sensi del paragrafo 4, lettera d), del medesimo articolo 32; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a seconda della tematica trattata, possono partecipare in qualita' di osservatori con un proprio rappresentante ai sensi del paragrafo 4, lettera d), del medesimo articolo 32 anche l'IVASS e la COVIP.
+
 I protocolli di cui all'articolo 5, comma 1, del presente decreto possono disciplinare le modalita' di partecipazione e lo scambio di informazioni relative al forum di sorveglianza.
 
 ## Art. 4. — Segnalazione dei gravi incidenti nelle tecnologie dell'informazione e della comunicazione (TIC) e notifica volontaria delle minacce informatiche significative
+
+1.
+                        
+                            
+                                Sono competenti a ricevere le segnalazioni dei gravi incidenti nelle tecnologie dell'informazione e della comunicazione (TIC) e le notifiche volontarie relative alle minacce informatiche significative, di cui all'articolo 19 del regolamento DORA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Banca d'Italia, dalle entita' finanziarie di cui all'articolo 2, paragrafo 1, lettere a), b), c), d), e), f), h), k), l) e s), del regolamento DORA, dalle sedi di negoziazione all'ingrosso di titoli di Stato, nonche' da Cassa depositi e prestiti S.p.A., da intermediari finanziari e da Bancoposta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Consob, dalle entita' finanziarie di cui all'articolo 2, paragrafo 1, lettere g) e i), del regolamento DORA, a esclusione delle sedi di negoziazione all'ingrosso di titoli di Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'IVASS, dalle entita' finanziarie di cui all'articolo 2, paragrafo 1, lettere n) e o), del regolamento DORA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la COVIP, dalle entita' finanziarie di cui all'articolo 2, paragrafo 1, lettera p), del regolamento DORA.
 
 Nel caso di entita' finanziarie vigilate da piu' Autorita' competenti DORA, l'Autorita' ricevente, come individuata al comma 1, trasmette tempestivamente alle altre Autorita' competenti la notifica iniziale e ciascuna relazione di cui all'articolo 19, paragrafo 4, del regolamento DORA, relative ai gravi incidenti TIC, nonche' le notifiche volontarie relative alle minacce informatiche significative, con le modalita' definite nei protocolli di intesa di cui all'articolo 5, comma 1, del presente decreto.
 
@@ -103,6 +227,40 @@ Le Autorita' competenti DORA possono, nell'ambito delle rispettive competenze, e
 
 ## Art. 10. — Sanzioni amministrative e altre misure
 
+1.
+                        
+                            
+                                Al testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        all'articolo 144, dopo il comma 8, sono inseriti i seguenti: 
+ «8-bis. In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, si applica: 
+ a) nei confronti delle banche, degli intermediari finanziari e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino al 10 per cento del fatturato; 
+ b) nei confronti degli istituti di pagamento, degli istituti di moneta elettronica e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' disponibile e determinabile. 
+ 8-ter. In caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, si applica: 
+ a) nei confronti delle banche, degli intermediari finanziari e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino al 7 per cento del fatturato; 
+ b) nei confronti degli istituti di pagamento, degli istituti di moneta elettronica e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 3,5 milioni ovvero fino al 7 per cento del fatturato, quando tale importo e' superiore a euro 3,5 milioni e il fatturato e' disponibile e determinabile.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 144-ter: 
+ 1) dopo il comma 2, sono inseriti i seguenti: 
+ «2-bis. Salvo che il fatto costituisca reato, se le violazioni indicate dall'articolo 144, commi 8-bis e 8-ter, sono commesse da una persona fisica di cui al comma 2-ter, si applica nei confronti di quest'ultima una sanzione amministrativa pecuniaria: 
+ a) da euro 5.000 fino a euro 5 milioni, nei casi di cui alle lettere a) e b) del comma 8-bis dell'articolo 144; 
+ b) da euro 5.000 fino a euro 3,5 milioni, nei casi di cui alle lettere a) e b) del comma 8-ter dell'articolo 144. 
+ 2-ter. Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui al comma 2-bis si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali o ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati dalla Banca d'Italia ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, ovvero quando la condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'articolo 50, paragrafo 4, lettera a), del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, da parte della societa' o dell'ente. 
+ 2-quater. Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel comma 2-bis, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.»; 
+ 2) al comma 3 dopo le parole: «di applicazione della sanzione» sono inserite le seguenti: «di cui ai commi 1 e 2»; 
+ 3) dopo il comma 3, e' inserito il seguente: 
+ «3-bis. Con il provvedimento di applicazione della sanzione amministrativa pecuniaria di cui al comma 2-bis del presente articolo in ragione della gravita' della violazione accertata, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso intermediari e imprese autorizzati ai sensi del presente decreto legislativo, del decreto legislativo 24 febbraio 1998, n. 58, del decreto legislativo 7 settembre 2005, n. 209, del decreto legislativo 5 settembre 2024, n. 129 o presso fondi pensione.».
+
 Al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, dopo l'articolo 190-bis.2 e' inserito il seguente: 
  «Art. 190-bis.3 (Sanzioni amministrative relative alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e dalle relative norme tecniche di regolamentazione e attuazione). - 1. In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, si applica: 
  a) nei confronti delle societa' di intermediazione mobiliare (SIM), delle societa' di gestione del risparmio (SGR), delle societa' di investimento a capitale variabile (SICAV), delle societa' di investimento a capitale fisso (SICAF), delle controparti centrali, dei gestori di mercati regolamentati e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni, ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' determinabile; 
@@ -126,6 +284,53 @@ Al testo unico delle disposizioni in materia di intermediazione finanziaria, di 
  6. Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nei commi 1, 2, 3 e 4, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile. 
  7. Con il provvedimento di applicazione della sanzione amministrativa pecuniaria di cui ai commi 2 e 4 in ragione della gravita' della violazione accertata, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso intermediari e imprese autorizzati ai sensi del presente decreto, del decreto legislativo 1° settembre 1993, n. 385, del decreto legislativo 7 settembre 2005, n. 209, del decreto legislativo 5 settembre 2024, n. 129, o presso fondi pensione. 
  8. Le sanzioni amministrative previste dal presente articolo sono applicate dalla Banca d'Italia e dalla Consob, secondo le rispettive competenze e secondo la procedura sanzionatoria di cui all'articolo 195, nei casi di cui al comma 1, lettere a), b), c) e d), e al comma 2, lettere a), b), c), e nei casi di cui al comma 3, lettere a), b), c), e d), e al comma 4 lettere a), b) e c). Alle violazioni di competenza della Consob si applica l'articolo 196-ter.».
+
+3.
+                        
+                            
+                                Al codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 310: 
+ 1) al comma 1, dopo la lettera c), e' aggiunta la seguente: 
+ «c-bis) inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte delle imprese di assicurazione, delle imprese di riassicurazione e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554.»; 
+ 2) dopo il comma 1, e' inserito il seguente: 
+ «1-bis. Si applica la sanzione amministrativa pecuniaria da euro 30.000 al 7 per cento del fatturato in caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte delle imprese di assicurazione, delle imprese di riassicurazione e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554.»; 
+ 3) al comma 2, le parole: «comma 1, lettere a) e b)» sono sostituite dalle seguenti: «comma 1, lettere a), b) e c-bis)»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 311-sexies: 
+ 1) dopo il comma 2 sono inseriti i seguenti: 
+ «2-bis. Salvo che il fatto costituisca reato, se le violazioni indicate dall'articolo 310, commi 1, lettera c-bis), e 1-bis, sono commesse da una persona fisica di cui al comma 2-ter, si applica nei confronti di quest'ultima una sanzione amministrativa pecuniaria: 
+ a) da euro 5.000 fino a euro 5 milioni, nei casi di cui alla lettera c-bis) del comma 1 dell'articolo 310; 
+ b) da euro 5.000 fino a euro 3,5 milioni, nei casi di cui al comma 1-bis dell'articolo 310. 
+ 2-ter. Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui al comma 2-bis si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali o ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati dall'IVASS, ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, ovvero quando la condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'articolo 50, paragrafo 4, lettera a), del regolamento (UE) 2022/2554 da parte della societa' o dell'ente.»; 
+ 2) dopo il comma 3 e' inserito il seguente: 
+ «3-bis. Con il provvedimento di applicazione della sanzione amministrativa pecuniaria di cui al comma 2-bis in ragione della gravita' della violazione accertata, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso intermediari e imprese autorizzati ai sensi del presente decreto legislativo, del decreto legislativo 24 febbraio 1998, n. 58, del decreto legislativo 7 settembre 2005, n. 209, del decreto legislativo 5 settembre 2024, n. 129 o presso fondi pensione.»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 324: 
+ 1) dopo il comma 7-bis, sono aggiunti i seguenti: 
+ «7-ter. In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, si applica, per le societa', la sanzione amministrativa pecuniaria di cui al comma 1, lettera c), numero 1). 
+ 7-quater. In caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, si applica, per le societa', la sanzione amministrativa pecuniaria da 5.000 euro a 3,5 milioni di euro oppure, se superiore, pari al 3,50 per cento del fatturato complessivo annuo risultante dall'ultimo bilancio disponibile approvato dall'organo di amministrazione. 
+ 7-quinquies. Salvo che il fatto costituisca reato, se le violazioni indicate dai commi 7-ter e 7-quater sono commesse da una persona fisica di cui al comma 7-sexies, si applica nei confronti di quest'ultima la sanzione amministrativa pecuniaria: 
+ a) di cui al comma 1, lettera c), numero 2), nei casi di cui al comma 7-ter; 
+ b) da euro 1.000 fino a euro 500.000, nei casi di cui al comma 7-quater. 
+ 7-sexies. Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui al comma 7-quinquies si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali o ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati dall'IVASS, ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, ovvero quando la condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'articolo 50, paragrafo 4, lettera a), del regolamento (UE) 2022/2554 da parte della societa' o dell'ente. 
+ 7-septies. Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nei commi 7-ter, 7-quater e 7-quinquies, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile. 
+ 7-octies. Con il provvedimento di applicazione della sanzione amministrativa pecuniaria di cui al comma 7-quinquies, in ragione della gravita' della violazione accertata, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso intermediari e imprese autorizzati ai sensi del presente decreto, del decreto legislativo 1° settembre 1993, n. 385, del decreto legislativo 7 settembre 2005, n. 209, del decreto legislativo 5 settembre 2024, n. 129, o presso fondi pensione.»; 
+ 2) alla rubrica, dopo le parole: «inclusi i prodotti di investimento assicurativo,» sono inserite le seguenti: «nonche' alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 e dalle relative norme tecniche di regolamentazione e attuazione,».
 
 All'articolo 19-quater del decreto legislativo 5 dicembre 2005, n. 252, dopo il comma 2, sono inseriti i seguenti: 
  «2-bis. I soggetti di cui al comma 2 che, in relazione alle rispettive competenze: 
@@ -152,11 +357,91 @@ Quando le violazioni di cui al presente articolo sono connotate da scarsa offens
 
 Le Autorita' competenti DORA, ai sensi dell'articolo 50, paragrafo 4, lettera b), del regolamento DORA, possono richiedere la cessazione temporanea o permanente di qualsiasi pratica o comportamento che considerino contrari alle disposizioni del regolamento stesso e prevenirne la reiterazione.
 
+8.
+                        
+                            
+                                Per stabilire l'importo e la tipologia delle sanzioni amministrative o delle misure di riparazione applicate, ai sensi del presente articolo, le Autorita' competenti DORA tengono conto, nel rispetto dell'articolo 51, paragrafo 2, del regolamento DORA, della condotta intenzionale o negligente e di tutte le altre circostanze pertinenti, avuto riguardo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla rilevanza, alla gravita' e alla durata della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al grado di responsabilita' della persona fisica o giuridica responsabile della violazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla solidita' finanziaria della persona fisica o giuridica responsabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'importanza degli utili realizzati o delle perdite evitate da parte della persona fisica o giuridica responsabile, nella misura in cui possano essere determinati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle perdite subite da terzi a causa della violazione, nella misura in cui possano essere determinate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al livello di cooperazione che la persona fisica o giuridica responsabile ha dimostrato nei confronti dell'autorita' competente, ferma restando la necessita' di garantire la restituzione degli utili realizzati o delle perdite evitate da tale persona fisica o giuridica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alle precedenti violazioni commesse dalla persona fisica o giuridica responsabile.
+
 Il provvedimento di applicazione delle sanzioni previste dal presente articolo, dopo la comunicazione al destinatario, e' pubblicato senza ritardo e per estratto nel sito internet dell'Autorita' competente DORA che lo ha adottato, in conformita' all'articolo 54 del regolamento DORA, salvo quanto previsto nel paragrafo 3 del medesimo articolo.
 
 ## - Capo V Ulteriori modificazioni e integrazioni della normativa di settore e  disposizioni di coordinamento
 
 ## Art. 11. — Modifiche al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58
+
+1.
+                        
+                            
+                                Al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 65, comma 1, 
+ 1) la lettera b) e' sostituita dalla seguente: 
+ «b) procedure per gestire i rischi ai quali sono esposti, compresi i rischi informatici ai sensi del capo II del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, dispositivi e sistemi adeguati a identificare i rischi che possono comprometterne il funzionamento e misure efficaci per attenuare tali rischi;»; 
+ 2) la lettera c) e' abrogata;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        all'articolo 65-sexies il comma 1 e' sostituito dal seguente: 
+ «1. I mercati regolamentati e i gestori di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione istituiscono e mantengono la loro resilienza operativa, conformemente agli obblighi stabiliti al capo II del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, per assicurare che i loro sistemi di negoziazione: 
+ a) siano resilienti e abbiano capacita' sufficiente per gestire i picchi di volume di ordini e messaggi; 
+ b) siano in grado di garantire negoziazioni ordinate in condizioni di mercato critiche; 
+ c) siano pienamente testati per garantire il rispetto delle condizioni di cui alle lettere a) e b); 
+ d) siano soggetti a efficaci disposizioni in materia di continuita' operativa, compresi politica e piani di continuita' operativa delle tecnologie dell'informazione e della comunicazione e piani di risposta e di ripristino relativi alle tecnologie dell'informazione e della comunicazione istituiti ai sensi dell'articolo 11 del regolamento (UE) 2022/2554, per assicurare la continuita' dei servizi in caso di malfunzionamento dei loro sistemi di negoziazione.».
 
 ## Art. 12. — Modifica al codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209
 
@@ -169,6 +454,27 @@ All'articolo 4-bis del decreto legislativo 5 dicembre 2005, n. 252, il comma 6 e
  «6. I fondi pensione di cui al comma 1 adottano misure ragionevoli atte a garantire la continuita' e la regolarita' dello svolgimento delle loro attivita', tra cui l'elaborazione di piani di emergenza. A tal fine i fondi pensione utilizzano sistemi, risorse e procedure adeguati e proporzionati e in particolare, istituiscono e gestiscono sistemi informatici e di rete conformemente al regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, ove applicabile.».
 
 ## Art. 14. — Modifiche al decreto legislativo 16 novembre 2015, n. 180
+
+1.
+                        
+                            
+                                Al decreto legislativo 16 novembre 2015, n. 180, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 102, comma 3: 
+ 1) alla lettera c), dopo le parole: «garantire la continuita'» sono inserite le seguenti: «e la resilienza operativa digitale»; 
+ 2) alla lettera r), sono aggiunte, in fine, le seguenti parole: «, compresi i sistemi informatici e di rete di cui al regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        all'articolo 104, comma 1, alla lettera c), dopo le parole: «dei contratti di servizio,» sono inserite le seguenti: «compresi gli accordi contrattuali per l'utilizzo di servizi TIC, come definiti all'articolo 3, punto 21), del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022,».
 
 ## Art. 15. — Disposizioni di coordinamento con il decreto legislativo 4 settembre 2024, n. 138
 

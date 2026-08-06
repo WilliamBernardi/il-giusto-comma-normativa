@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-02-15;27
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,90 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'amb
 
 ## Art. 1. — Modifiche al decreto legislativo 
  20 novembre 2008, n. 188
+
+1.
+                    
+                        
+                            Al decreto legislativo 20 novembre 2008, n. 188, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 3, le parole: «e di cui al decreto legislativo 25 luglio 2005, n. 151.» sono sostituite dalle seguenti: «e di cui al decreto legislativo 14 marzo 2014, n. 49.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 1, lettera m), le parole: «di cui al decreto legislativo 25 luglio 2005, n. 151,» sono sostituite dalle seguenti: «di cui al decreto legislativo 14 marzo 2014, n. 49,»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 3: 
+ 1) il comma 2 e' soppresso; 
+ 2) al comma 3 la lettera c) e' soppressa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 5 dopo il comma 2 e' inserito il seguente: «2-bis.
+Fatto salvo il divieto di cui al comma 2, le pile e gli accumulatori che non soddisfano i requisiti del presente decreto, ma che sono stati legalmente immessi sul mercato prima della data di applicazione dei rispettivi divieti di cui all'articolo 3, possono continuare a essere commercializzati fino a esaurimento delle scorte.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 8, comma 1, secondo periodo, le parole: «del decreto legislativo 25 luglio 2005, n. 151» sono sostituite dalle seguenti: «del decreto legislativo 14 marzo 2014, n. 49.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 9, comma 1, il secondo periodo e' sostituito dal seguente: «Qualora tali rifiuti non possano essere prontamente rimossi dall'utilizzatore finale, i suddetti apparecchi sono progettati in modo tale che i rifiuti di pile e accumulatori siano prontamente rimovibili da professionisti qualificati indipendenti dai produttori. Gli apparecchi in cui sono incorporati pile o accumulatori sono altresi' corredati di istruzioni che indicano come l'utilizzatore finale o i professionisti qualificati indipendenti possano rimuoverli senza pericolo. Se del caso, le istruzioni informano altresi' l'utilizzatore finale sui tipi di pila o di accumulatore incorporato nell'apparecchio.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 10, comma 1, lettera b), le parole: «o del decreto 25 luglio 2005, n. 151,» sono sostituite dalle seguenti: «o del decreto 14 marzo 2014, n. 49,»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 13, comma 8, le parole: «e n. 151 del 2005.» sono sostituite dalle seguenti: «e n. 49 del 2014.»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                all'articolo 14, comma 2, il primo periodo e' sostituito dal seguente: «I produttori che per la prima volta immettono sul mercato pile e accumulatori nel territorio italiano sono obbligati ad iscriversi in via telematica soltanto una volta al Registro nazionale presso la Camera di commercio di competenza.»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'articolo 25, comma 4, le parole: «fatte salve le eccezioni di cui all'articolo 3, commi 2 e 3,» sono sostituite dalle seguenti: «fatte salve le eccezioni di cui all'articolo 3, comma 3,»; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                all'articolo 27 il comma 5 e' sostituito dal seguente: «5. Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze sono stabilite le tariffe per la copertura degli oneri di cui al comma 4, nonche' le relative modalita' di versamento.».
 
 ## Art. 2. — Disposizioni transitorie e finali
 

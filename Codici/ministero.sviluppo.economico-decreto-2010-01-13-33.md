@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2022-12-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:38:33Z
+zip_date: 2026-08-04
+fetched_at: 2026-08-04
 ---
 
 DECRETO
@@ -44,6 +44,29 @@ La redazione dei moduli di cui al comma 2 contiene l'indicazione del codice fisc
 
 L'addetto alla ricezione, nella parte del modulo riservata all'ufficio ricevente, appone la data, il numero progressivo di deposito, la propria firma e il timbro dell'ufficio.
 
+4.
+                    
+                        
+                            Le istanze connesse alle domande gia' depositate o i ricorsi notificati devono essere accompagnati dal verbale di deposito, che deve essere redatto in due originali ((...)) e deve essere firmato dal depositante e sottoscritto dal funzionario ricevente. Detto verbale, cui vengono attribuiti una data e un numero di deposito, deve indicare: 
+
+                        
+                        
+                            a)
+                            
+                                data e numero della domanda o del titolo concesso; 
+                            
+                        
+                        
+                            b)
+                            
+                                nome e domicilio eletto ((ai sensi dell'articolo 147, comma 3-bis, del Codice)) del richiedente e, se vi sia, del suo mandatario; 
+                            
+                        
+                        
+                            c)
+                            
+                                elenco dei documenti allegati.
+
 Un originale ((...)) del verbale di deposito, di cui al comma 4, ((e' inviato)), insieme agli atti depositati, all'Ufficio italiano brevetti e marchi entro il termine e con le modalita' di cui al comma 1.
 
 L'Ufficio ricevente rilascia attestazione dell'avvenuto deposito.
@@ -65,6 +88,24 @@ Al deposito telematico si applica la disposizione di cui all'articolo 1, comma 2
 ))
 
 ## Art. 3. — (Termini per il deposito)
+
+1.
+                    
+                        
+                            Se i termini prescritti per il deposito di domande, atti, documenti, ricorsi notificati di cui all'articolo 147, comma 1 del Codice e delle traduzioni in lingua italiana delle rivendicazioni delle domande di brevetto europeo e dei testi pubblicati dei brevetti europei concessi o mantenuti in forma modificata ((o limitati)), di cui agli articoli 54 e 56 del Codice, e per il versamento di tasse scadono di sabato, di domenica o in un giorno festivo nazionale, ovvero in un giorno nel quale gli uffici competenti a ricevere il deposito ((o il pagamento delle tasse)) sono, per qualsiasi causa, chiusi, la scadenza e' prorogata al primo giorno successivo nel quale gli uffici stessi sono aperti. Uguale proroga e' concessa quando si tratti di chiusura determinata da festivita' locali o di eventi interruttivi del servizio, incluso quello telematico, che riguardino singoli uffici, a condizione che l'ufficio ricevente sia: 
+
+                        
+                        
+                            a)
+                            
+                                per il deposito di domanda con rivendicazione di priorita', quello della residenza o della sede del richiedente o del suo mandatario; 
+                            
+                        
+                        
+                            b)
+                            
+                                per gli adempimenti successivi al deposito di una domanda, per gli atti o per i ricorsi, quello in cui era stata depositata la domanda.
+Nel caso in cui, precedentemente all'adempimento successivo, la domanda sia stata trasferita ad altro richiedente o sia stato modificato il mandatario, si applica la disposizione di cui alla precedente lettera a).
 
 I termini richiamati al comma 1 si considerano inoltre rispettati quando la loro mancata osservanza sia stata determinata da interruzione, anche all'estero, del servizio postale utilizzato, salvo che norme speciali contenute in convenzioni internazionali, cui la Repubblica Italiana abbia aderito, prevedano una disciplina diversa, a condizione che il plico sia stato spedito, con un servizio di posta che attesti la ricezione della documentazione, almeno cinque giorni prima della scadenza del termine, sempre che non fosse gia' in atto l'interruzione.
 
@@ -150,6 +191,66 @@ Nel registro si devono riportare la data e il numero di deposito delle traduzion
 
 ((
 
+1.
+                    
+                        
+                            Salvo quanto stabilito dall'articolo 148, comma 1, del Codice in tema di ricevibilita', la domanda di registrazione di marchio contiene, oltre a quanto indicato all'articolo 156 del Codice: 
+ 
+                        
+                        
+                            a)
+                            
+                                il cognome, il nome, la nazionalita' e il domicilio della persona fisica o la denominazione, la sede e la nazionalita' della persona giuridica o dell'ente richiedente. L'Ufficio puo' chiedere che il richiedente fornisca i numeri di telefono o altre coordinate per la comunicazione con strumenti elettronici secondo quanto stabilito con decreto del direttore dell'Ufficio italiano brevetti e marchi. Il richiedente indica o elegge il suo domicilio ai sensi dell'articolo 147, comma 3-bis, del Codice. Per ciascun richiedente si indica un solo indirizzo; qualora ne vengano forniti piu' di uno, viene preso in considerazione soltanto il primo indirizzo indicato, salvo che il richiedente ne indichi uno come domicilio eletto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione della tipologia di marchio e la rappresentazione dello stesso conformemente all'articolo 11-bis del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la domanda di registrazione che ha ad oggetto un marchio collettivo ai sensi dell'articolo 11 del Codice, o un marchio di certificazione ai sensi dell'articolo 11-bis del Codice, deve essere corredata di una copia, sottoscritta dal richiedente, del regolamento concernente l'uso, i controlli e le sanzioni relativi ai marchi in questione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'elenco analitico dei prodotti o dei servizi per i quali e' richiesta la registrazione del marchio, unitamente all'indicazione del numero della classe cosi' come indicato nella classificazione internazionale dei prodotti e dei servizi risultante dalla versione dell'Accordo di Nizza vigente al momento del deposito della domanda, ovvero il titolo della classe con il numero della stessa accompagnati dalla dichiarazione espressa di designare tutti i prodotti e servizi appartenenti alla classe prescelta cosi' come risultante dalla versione dell'Accordo di Nizza vigente al momento del deposito della domanda; in assenza di tale dichiarazione espressa, l'indicazione del titolo della classe viene interpretata come richiesta di protezione dei soli prodotti o servizi enumerati nel titolo stesso. I prodotti e i servizi richiesti possono essere selezionati integralmente o parzialmente, con le modalita' tecniche indicate dall'Ufficio, da un elenco di termini accettati dall'Ufficio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                qualora venga rivendicata, a norma dell'articolo 4 del Codice, la priorita' di una domanda anteriore, e' indicata la data del deposito, il numero di domanda o registrazione, il tipo di priorita' e il Paese nel quale essa e' stata presentata. Il documento attestante la priorita', qualora non allegato alla domanda, e' integrato ai sensi dell'articolo 4 del presente regolamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                qualora venga rivendicata, a norma dell'articolo 18 del Codice, la protezione temporanea, una dichiarazione in tal senso che riporti la denominazione dell'esposizione e la data della prima presentazione dei prodotti o dei servizi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la traduzione in lingua italiana del marchio se esso comprende parole di senso compiuto espresse in altra lingua e la traslitterazione se esso comprende caratteri diversi da quelli latini o numeri diversi da quelli arabi o romani; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la firma del richiedente o del suo rappresentante.
+
 ))
 
 ## Art. 11-bis. — (( (Rappresentazione del marchio).))
@@ -159,6 +260,84 @@ Nel registro si devono riportare la data e il numero di deposito delle traduzion
 Il marchio e' rappresentato in qualsiasi forma idonea, purche' possa essere riprodotto nel registro in modo chiaro e preciso, onde consentire alle autorita' competenti e al pubblico di determinare con chiarezza e precisione l'oggetto della protezione conferita al titolare.
 
 La rappresentazione del marchio definisce l'oggetto della registrazione e puo' essere accompagnata da una descrizione.
+
+3.
+                    
+                        
+                            Le diverse tipologie di marchio sono cosi' rappresentate: 
+ 
+                        
+                        
+                            a)
+                            
+                                marchio denominativo: il marchio costituito esclusivamente da parole o da lettere, cifre, altri caratteri tipografici standard o da una loro combinazione e' rappresentato attraverso una riproduzione del segno secondo modalita' standard di scrittura e di disposizione, senza riproduzione grafica o colori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                marchio figurativo: il marchio in cui vengono utilizzati caratteri, una stilizzazione o una struttura non standard oppure una riproduzione grafica o un colore, compresi i marchi costituiti esclusivamente da elementi figurativi o da una combinazione di elementi denominativi e figurativi, e' rappresentato attraverso una riproduzione del segno in cui figurino tutti i suoi elementi e, se del caso, i colori; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                marchio di forma tridimensionale: il marchio costituito da una forma tridimensionale o comprendente una tale forma, compresi i contenitori, gli imballaggi, il prodotto stesso o il loro aspetto, e' rappresentato attraverso una riproduzione grafica della forma, comprese immagini elaborate al computer, o una riproduzione fotografica. La riproduzione grafica o fotografica puo' comprendere diverse vedute. Qualora sia fornita in un formato diverso da quello elettronico, la rappresentazione e' costituita da un numero di vedute del marchio non superiori a cinque; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                marchio di posizionamento: il marchio costituito dalla modalita' specifica di posizionamento o apposizione dello stesso sul prodotto, e' rappresentato attraverso una riproduzione che ne individua adeguatamente la posizione nonche' la dimensione o la proporzione in relazione ai prodotti pertinenti. Gli elementi che non fanno parte dell'oggetto della registrazione sono esclusi visivamente, di preferenza mediante linee tratteggiate o punteggiate.
+La rappresentazione e' accompagnata da una descrizione che specifichi la modalita' di apposizione del segno sui prodotti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                marchio a motivi ripetuti: il marchio costituito esclusivamente da un insieme di elementi che si ripetono regolarmente, e' rappresentato attraverso una riproduzione che ne mostra lo schema di ripetizione. La rappresentazione e' accompagnata da una descrizione che specifichi la regolarita' della ripetizione degli elementi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il marchio di colore: 
+ 1) marchio di colore unico: qualora sia costituito esclusivamente da un unico colore, senza contorni, e' rappresentato attraverso una riproduzione del colore, accompagnata dall'indicazione di tale colore mediante un riferimento a un codice cromatico generalmente riconosciuto; 
+ 2) marchio costituito da una combinazione di colori: qualora sia costituito esclusivamente da una combinazione di colori senza contorni, e' rappresentato attraverso una riproduzione che mostra la disposizione sistematica della combinazione di colori in modo costante e predeterminato, accompagnata dall'indicazione di tali colori mediante un riferimento a un codice cromatico generalmente riconosciuto. Puo' essere altresi' aggiunta una descrizione che precisi la disposizione sistematica dei colori; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                marchio sonoro: il marchio costituito esclusivamente da un suono o da una combinazione di suoni, rappresentato attraverso un file audio che riproduce il suono oppure attraverso una presentazione accurata del suono in notazione musicale. Tale rappresentazione puo' essere accompagnata da una descrizione che specifichi la tipologia di suono; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                marchio di movimento: il marchio costituito da un movimento o da un cambiamento di posizione degli elementi del marchio o comprendente tale movimento o cambiamento, e' rappresentato attraverso un file video oppure da una serie di immagini statiche in sequenza che illustrano il movimento o il cambiamento di posizione.
+Qualora siano utilizzate immagini statiche, esse sono numerate e accompagnate da una descrizione esplicativa della sequenza. Il numero delle immagini statiche e i limiti di dimensione massima dei file video sono stabiliti dal decreto indicato dal comma 5; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                marchio multimediale: il marchio costituito dalla combinazione di immagine e di suono o comprendente tale combinazione, e' rappresentato attraverso un file audiovisivo contenente la combinazione di immagine e di suono, entro i limiti di dimensione massima stabiliti con il decreto indicato dal comma 5, e accompagnato da descrizione esplicativa; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                marchio olografico: il marchio costituito da elementi con caratteristiche olografiche, e' rappresentato attraverso un file video o una riproduzione grafica o fotografica contenente le vedute necessarie per individuare adeguatamente l'effetto olografico nella sua interezza, entro i limiti di dimensione stabiliti con decreto indicato dal comma 5.
 
 Qualora il marchio non rientri in nessuna delle tipologie di cui al comma 3, ovvero nel caso in cui ricada in piu' di una di tali tipologie, la sua rappresentazione e' conforme agli standard di cui al comma 1 e puo' essere accompagnato da una descrizione.
 
@@ -200,6 +379,23 @@ Qualora, a seguito dell'esame effettuato ai sensi dell'articolo 171 del Codice, 
 
 Se il titolare della registrazione internazionale, previa indicazione o elezione di domicilio ai sensi dell'articolo 197, comma 1 del Codice, non presenta le proprie deduzioni nel termine di cui al comma 1, ovvero se l'Ufficio ritiene di non dover accogliere le deduzioni formulate, l'Ufficio Italiano Brevetti e Marchi emette un provvedimento di conferma del rifiuto, che e' comunicato al titolare della registrazione internazionale o al suo mandatario nominato ai sensi dell'articolo 201 del Codice. Contro tale provvedimento e' ammesso ricorso alla Commissione dei ricorsi, ai sensi degli articoli 135 e seguenti del Codice, entro il termine perentorio di sessanta giorni dalla data di ricevimento della comunicazione del provvedimento. Se il rifiuto riguarda soltanto una parte dei prodotti e servizi, il provvedimento di rifiuto indica i prodotti e i servizi per i quali il marchio non e' registrabile.
 
+3.
+                    
+                        
+                            Al termine del procedimento avviato con l'emissione ex officio di un rifiuto provvisorio alla registrazione l'Ufficio Italiano Brevetti e Marchi invia all'Organizzazione Mondiale della Proprieta' Intellettuale: 
+
+                        
+                        
+                            a)
+                            
+                                una notifica di ritiro del rifiuto provvisorio, se ritiene che sussistano le condizioni per assicurare la protezione del marchio in Italia; 
+                            
+                        
+                        
+                            b)
+                            
+                                una notifica di rifiuto definitivo, se ritiene che il marchio non sia registrabile in Italia e il provvedimento di conferma del rifiuto di cui al comma 2, comunicato al titolare della registrazione internazionale o al mandatario, sia divenuto inoppugnabile per decorso dei termini di impugnazione o si siano conclusi gli eventuali ricorsi proposti avverso tale provvedimento. Se il rifiuto riguarda soltanto una parte dei prodotti e servizi, il provvedimento di rifiuto indica i prodotti e i servizi per i quali il marchio non e' registrabile.
+
 ## Art. 17. — (Marchi collettivi internazionali)
 
 Per i marchi collettivi internazionali, registrati presso l'Organizzazione Mondiale della Proprieta' Intellettuale ai sensi dell'Accordo di Madrid sulla registrazione internazionale dei marchi o del Protocollo relativo a tale Accordo, copia ((...)) sottoscritta dal richiedente, del regolamento che disciplina l'uso del marchio, previsto dall'articolo 11 del Codice, deve essere presentata, previa elezione di domicilio ((...)) ai sensi dell'((articolo 147, comma 3-bis,)) del Codice o tramite mandatario, nominato ai sensi dell'articolo 201 del Codice, direttamente all'Ufficio italiano brevetti e marchi entro tre mesi dalla data in cui l'Organizzazione Mondiale della Proprieta' Intellettuale notifica la registrazione internazionale o la sua estensione successiva all'Ufficio.
@@ -229,6 +425,70 @@ Le osservazioni, di cui agli articoli 174 e 175 del Codice, redatte in lingua it
 Salvo quanto stabilito dall'articolo 148, comma 1 del Codice in tema di ricevibilita', la domanda di concessione di brevetto per invenzione industriale o per modello di utilita' deve contenere oltre a quanto indicato all'articolo 160, comma 1 del Codice, il cognome, il nome, la nazionalita' e il domicilio della persona fisica o la denominazione, la sede e la nazionalita' della persona giuridica o dell'ente richiedente. Il richiedente, se risiede all'estero, deve eleggere il suo domicilio ((...)) ai sensi dell'((articolo 147, comma 3-bis,)) del Codice.
 
 ((La domanda di brevetto per invenzione che ha alla base materiale biologico di origine animale o vegetale contiene la dichiarazione di provenienza del materiale biologico utilizzato di cui all'articolo 170-bis, comma 2, del Codice.)) La mancanza della dichiarazione e' annotata sul registro dei titoli di proprieta' industriale.
+
+3.
+                    
+                        
+                            La descrizione di cui all'articolo 160, comma 3, lettera a) e comma 4, del Codice deve: 
+
+                        
+                        
+                            a)
+                            
+                                specificare il campo della tecnica a cui l'invenzione fa riferimento; 
+                            
+                        
+                        
+                            b)
+                            
+                                indicare lo stato della tecnica preesistente, per quanto a conoscenza dell'inventore, che sia utile alla comprensione dell'invenzione ed all'effettuazione della ricerca, fornendo eventualmente i riferimenti a documenti specifici; 
+                            
+                        
+                        
+                            c)
+                            
+                                esporre l'invenzione in modo tale che il problema tecnico e la soluzione proposta possano essere compresi; 
+                            
+                        
+                        
+                            d)
+                            
+                                descrivere brevemente gli eventuali disegni; 
+                            
+                        
+                        
+                            e)
+                            
+                                descrivere in dettaglio almeno un modo di attuazione dell'invenzione, fornendo esempi appropriati e facendo riferimento ai disegni, laddove questi siano presenti; 
+                            
+                        
+                        
+                            f)
+                            
+                                indicare esplicitamente, se cio' non risulti gia' ovvio dalla descrizione o dalla natura dell'invenzione, il modo in cui l'invenzione puo' essere utilizzata in ambito industriale.
+
+4.
+                    
+                        
+                            Le rivendicazioni di cui ((agli articoli 52, comma 1, e 160, comma 4,)) del Codice definiscono le caratteristiche specifiche dell'invenzione per le quali si chiede protezione. Devono essere chiare, concise, trovare completo supporto nella descrizione ed essere redatte in un documento separato secondo le seguenti formalita': 
+
+                        
+                        
+                            a)
+                            
+                                devono essere indicate con numeri arabi consecutivi; 
+                            
+                        
+                        
+                            b)
+                            
+                                la caratteristica tecnica rivendicata deve essere esplicitamente descritta: il richiamo alle figure e' consentito solo a scopo di maggior chiarezza; 
+                            
+                        
+                        
+                            c)
+                            
+                                le caratteristiche tecniche menzionate nelle rivendicazioni, qualora facciano riferimento ai disegni, possono essere seguite dal numero corrispondente alle parti illustrate dagli stessi fermo restando che tale riferimento non costituisce una limitazione della rivendicazione.
 
 ## Art. 22. — (Domanda di brevetto)
 
@@ -289,6 +549,29 @@ La protezione di speciali denominazioni ((, scritte o segni, se destinati a cont
 
 ## Art. 27. — (Identificazione della topografia)
 
+1.
+                    
+                        
+                            Ai fini dell'identificazione della topografia, in conformita' all'((articolo)) 168 comma 2 lett. 
+                        
+                        
+                            a)
+                            
+                                del Codice, deve essere allegato in formato A4 (210 x 297), oppure in formato diverso purche' ripiegato in formato A4, almeno uno dei seguenti elementi: 
+a) un disegno o una fotografia rappresentante una configurazione degli strati del prodotto a semiconduttori; 
+                            
+                        
+                        
+                            b)
+                            
+                                i disegni e le fotografie delle maschere o parti di maschere per la fabbricazione dei prodotti a semiconduttori; 
+                            
+                        
+                        
+                            c)
+                            
+                                i disegni o le fotografie dei disegni dei singoli strati dei prodotti a semiconduttori.
+
 I disegni o le fotografie devono essere sufficientemente chiari affmche' la topografia risulti identificabile all'esame.
 
 Oltre ai suddetti disegni e/o fotografie puo' essere depositata una descrizione che consenta una migliore identificazione della topografia o delle parti piu' caratteristiche di essa.
@@ -300,6 +583,29 @@ Ove una topografia non rappresenti l'intera superficie del prodotto, occorre evi
 I disegni o fotografie, la relativa descrizione nonche' l'eventuale documentazione aggiuntiva, sono firmati dal richiedente o dal suo mandatario.
 
 ## Art. 28. — (Protezione temporanea)
+
+1.
+                    
+                        
+                            Il certificato di cui all'articolo 169, comma 5 del Codice deve contenere:
+
+                        
+                        
+                            a)
+                            
+                                il cognome il nome e il domicilio dell'espositore;
+                            
+                        
+                        
+                            b)
+                            
+                                la data in cui il prodotto o il materiale che incorpora il diritto di marchio e' stato consegnato per l'esposizione nonche' il tipo di prodotto o di materiale incorporante il marchio;
+                            
+                        
+                        
+                            c)
+                            
+                                una rappresentazione del marchio come esposto.
 
 ## Art. 29. — (Ritiro, rettifiche, integrazioni della domanda)
 
@@ -331,6 +637,53 @@ All'istanza di continuazione di cui al comma 1 devono essere unite l'attestazion
 Alle istanze di reintegrazione si applicano le disposizioni dell'articolo 173 del Codice in quanto compatibili.
 
 ## Art. 32. — ((Registro delle domande, dei titoli di proprieta' industriale e delle trascrizioni))
+
+1.
+                    
+                        
+                            I titoli di proprieta' industriale, oltre alle indicazioni di cui agli articoli 185 e 197, commi 2 e 6 del Codice, devono contenere: 
+
+                        
+                        
+                            a)
+                            
+                                l'Ufficio ricevente in cui e' stata depositata la domanda; 
+                            
+                        
+                        
+                            b)
+                            
+                                la data e il numero di concessione; 
+                            
+                        
+                        
+                            c)
+                            
+                                per le invenzioni, i modelli di utilita', i disegni e modelli, il relativo titolo; 
+                            
+                        
+                        
+                            d)
+                            
+                                il nome dell'inventore; 
+                            
+                        
+                        
+                            e)
+                            
+                                per le topografie dei prodotti a semiconduttori il titolo e la decorrenza della protezione; 
+                            
+                        
+                        
+                            f)
+                            
+                                per i marchi d'impresa l'indicazione dei prodotti o servizi che il marchio e' destinato a contraddistinguere con annesso un esemplare della riproduzione del marchio; se si tratti di marchio collettivo ((o di certificazione)); l'indicazione dei colori se rivendicati; della data da cui decorrono gli effetti della domanda in seguito ad accoglimento di conversione di precedente domanda comunitaria, tenuto conto anche dell'eventuale rivendicazione della ((priorita')), o di registrazione internazionale ai sensi del protocollo di Madrid; 
+                            
+                        
+                        
+                            g)
+                            
+                                per le rinnovazioni dei marchi d'impresa il numero e la data di deposito della prima domanda di registrazione e il numero e la data dell'ultima registrazione da rinnovare.
 
 Il titolo di proprieta' industriale deve riportare l'indicazione delle sentenze pervenute che pronunciano la nullita' o la decadenza del titolo stesso, stabiliscono il diritto di essere riconosciuto inventore o autore o titolare dei diritto di proprieta' industriale.
 
@@ -423,6 +776,47 @@ Il ritardo del pagamento ((oltre il termine di cui all'articolo 227, comma 4, de
 
 ## Art. 40. — (Trascrizione)
 
+1.
+                    
+                        
+                            Devono essere redatte in duplice esemplare, di cui uno viene restituito al richiedente con la dichiarazione dell'avvenuta trascrizione: 
+
+                        
+                        
+                            a)
+                            
+                                la domanda di trascrizione di cambiamento di titolarita', conseguente ad atti di cessione o ad atti societari di fusione, scissione, divisione o successione o a sentenze che dichiarano l'esistenza degli atti di cui alle lettere a),
+                            
+                        
+                        
+                            b)
+                            
+                                e
+                            
+                        
+                        
+                            c)
+                            
+                                dell'articolo 138 del Codice ovvero la domanda di trascrizione di atti che costituiscono, modificano o estinguono diritti personali o reali di godimento o diritti di garanzia; 
+b) la domanda di trascrizione degli atti di pignoramento, aggiudicazione in seguito a vendita forzata, sospensione della vendita di parte dei diritti di proprieta' industriale pignorati per essere restituiti al debitore, espropriazione per causa di pubblica utilita', nonche' delle sentenze di rivendicazione di diritti di proprieta' industriale e relative domande giudiziali, e delle sentenze che dispongono la conversione di titoli di proprieta' industriale nulli e relative domande giudiziali.
+
+2.
+                    
+                        
+                            Alla domanda di trascrizione debbono essere uniti: 
+
+                        
+                        
+                            a)
+                            
+                                copia dell'atto da cui risulta il cambiamento di titolarita' o dell'atto che costituisce o modifica o estingue i diritti personali o reali di godimento o di garanzia di cui al comma 1, lettera a), ovvero copia dei verbali e sentenze di cui al comma 1, lettera b), osservate le norme della legge sul registro ove occorra, oppure un estratto dell'atto stesso oppure nel caso di fusione una certificazione rilasciata dal Registro delle imprese o da altra autorita' competente, oppure, nel caso di cessione, una dichiarazione di avvenuta cessione firmata dal cedente e dal cessionario con l'elencazione dei diritti oggetto della cessione. L'Ufficio italiano brevetti e marchi puo' richiedere che la copia dell'atto o dell'estratto sia certificata conforme all'originale da un pubblico ufficiale o da ogni altra autorita' pubblica competente; 
+                            
+                        
+                        
+                            b)
+                            
+                                il documento comprovante il pagamento dei diritti prescritti.
+
 Nel caso in cui la domanda di trascrizione sia accompagnata da copia autentica dell'atto pubblico estero o dall'originale o copia autentica della scrittura privata autenticata all'estero, vanno anche osservate le norme della legge notarile sul deposito presso un notaio o un archivio notarile italiano.
 
 Ove la domanda di trascrizione sia accompagnata da un estratto dell'atto di cui al comma 2, lettera a) o da una certificazione del Registro delle Imprese o di altra autorita' competente, questi atti non soggiacciono all'obbligo fiscale della registrazione.
@@ -440,6 +834,35 @@ La dichiarazione di avvenuta concessione di licenza indica se si tratta di licen
 ))
 
 ## Art. 41. — (Annotazione)
+
+1.
+                    
+                        
+                            La domanda di annotazione, di cui all'articolo 197, comma 3 del Codice, deve essere redatta in un unico esemplare e deve contenere: 
+
+                        
+                        
+                            a)
+                            
+                                le indicazioni per individuare il titolare del brevetto o del marchio; 
+                            
+                        
+                        
+                            b)
+                            
+                                l'elezione del domicilio ((ai sensi dell'articolo 147, comma 3-bis, del Codice,)) da parte del richiedente o del suo mandatario per tutte le comunicazioni e notificazioni da farsi a norma del codice della proprieta' industriale; 
+                            
+                        
+                        
+                            c)
+                            
+                                gli estremi di brevettazione o di registrazione dei titoli di proprieta' industriale oggetto della domanda; 
+                            
+                        
+                        
+                            d)
+                            
+                                le variazioni, tassativamente previste dal codice della proprieta' industriale, suscettibili di essere annotate.
 
 La domanda di annotazione di rinuncia totale o parziale ad un diritto di proprieta' industriale deve essere accompagnata da una dichiarazione in bollo del titolare dello stesso avente natura di scrittura privata non autenticata soggetta alle norme della legge sul Registro ove occorra.
 
@@ -459,9 +882,86 @@ Se entro il termine di cui al comma 1 i documenti di cui e' stata fatta riserva 
 
 I Bollettini ufficiali - di seguito denominati "Bollettini" - dei titoli di proprieta' industriale e delle relative domande, comprese quelle di trascrizione, sono redatti ai sensi degli articoli 186, comma 8, 187, 188, 189 e 190 del Codice.
 
+2.
+                    
+                        
+                            Sui Bollettini sono pubblicate anche le notizie concernenti:
+
+                        
+                        
+                            a)
+                            
+                                il ritiro di domande, gia' pubblicate, depositate ai sensi degli articoli 172, comma 1, del Codice e 29, comma 1 del presente regolamento;
+                            
+                        
+                        
+                            b)
+                            
+                                le correzioni di errori imputabili al richiedente, di integrazione,
+limitazione o precisazione di domande gia' pubblicate, depositate ai sensi degli articoli 172, comma 2, del Codice e 29, comma 2 del
+presente regolamento;
+                            
+                        
+                        
+                            c)
+                            
+                                le rettifiche di errori, imputabili all'Ufficio, relativi a domande o registrazioni gia' pubblicate, depositate ai sensi dell'articolo 29, comma 3 del presente regolamento;
+                            
+                        
+                        
+                            d)
+                            
+                                i rifiuti definitivi.
+
 La pubblicazione del Bollettino puo' essere fatta su supporto cartaceo o informatico. Il Bollettino puo' essere reso disponibile e distribuito in rete telematica.
 
 ## Art. 44. — (Pubblicazioni relative a domande e registrazioni di marchio nazionale)
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 187, comma 1, lettere a), b), d), del Codice, sono pubblicate sul Bollettino dei marchi d'impresa anche le seguenti notizie relative a: 
+
+                        
+                        
+                            a)
+                            
+                                domande di marchio gia' pubblicate, se considerate come modificate in seguito a rettifiche dovute ad errori dell'Ufficio relativi alla riproduzione del marchio o all'elenco di prodotti e servizi; 
+                            
+                        
+                        
+                            b)
+                            
+                                domande di marchi, ritenuti registrabili, oggetto dell'esame anticipato di cui all'articolo 120, comma 1, del Codice; 
+                            
+                        
+                        
+                            c)
+                            
+                                domande di marchi ritenuti registrabili dopo il passaggio in giudicato della sentenza di accoglimento del ricorso avverso il rifiuto dell'Ufficio; 
+                            
+                        
+                        
+                            c-bis)
+                            
+                                i provvedimenti di decadenza e nullita' di un marchio registrato divenuti inoppugnabili.
+
+2.
+                    
+                        
+                            La pubblicazione della domanda di marchio, o della relativa registrazione se la domanda non e' stata ancora pubblicata, oltre quanto previsto dagli articoli 156, 157, 158 e 159 del Codice, indica: 
+
+                        
+                        
+                            a)
+                            
+                                le notizie di cui all'articolo 11; 
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione della richiesta di estensione all'estero della protezione del marchio, ai sensi dell'accordo di Madrid, con l'eventuale avviso di cui all'articolo 179, comma 2, del Codice.
 
 ## Art. 45. — (Procedure di segretazione militare)
 
@@ -531,6 +1031,49 @@ Ogni documentazione o comunicazione successiva alla presentazione dell'atto di o
 
 L'atto e' irricevibile, ai sensi dell'articolo 148, comma 1 del Codice, se l'opponente risulta non identificabile o non raggiungibile.
 
+3.
+                    
+                        
+                            L'atto e' inammissibile se: 
+
+                        
+                        
+                            a)
+                            
+                                e' stato depositato prima della pubblicazione del marchio contro il quale e' diretto ovvero dopo il decorso del termine di tre mesi dalle date di pubblicazione di cui agli ((articoli 176)), comma 1, del Codice, e 44, comma 1, lettere a),
+                            
+                        
+                        
+                            b)
+                            
+                                e
+                            
+                        
+                        
+                            c)
+                            
+                                del presente regolamento; 
+b) non contiene le indicazioni di cui all'articolo 176, comma 2, del Codice; 
+c) fa valere impedimenti diversi da quelli previsti dall'articolo 12, comma 1, lettere ((c), d), e) ed f) e dall'articolo 14, comma 1, lettera c-bis, del Codice)) o relativi alla mancanza di consenso di cui all'articolo 8 del Codice; 
+                            
+                        
+                        
+                            d)
+                            
+                                l'opponente non e' legittimato a presentare l'opposizione; 
+                            
+                        
+                        
+                            e)
+                            
+                                manca la sottoscrizione dell'opponente o del suo mandatario; 
+                            
+                        
+                        
+                            f)
+                            
+                                e' diretto contro due o piu' domande e, a seguito della richiesta dell'Ufficio di limitare l'oggetto dell'opposizione ad una sola domanda entro il termine perentorio di trenta giorni dalla data di ricevimento della comunicazione, l'opponente non accoglie l'invito o non replica alla richiesta.
+
 Se all'atto di opposizione non e' allegata l'attestazione dell'avvenuto pagamento dei diritti, l'opposizione si considera ritirata ai sensi dell'articolo 176, comma 3, del Codice.
 
 ((
@@ -540,6 +1083,49 @@ Se l'opposizione non puo' proseguire per una delle cause indicate ai commi 3 e 4
 ))
 
 ## Art. 49. — (Prima comunicazione alle parti)
+
+1.
+                    
+                        
+                            Entro il termine di cui all'articolo 178, comma 1, del Codice, l'Ufficio, dopo aver effettuato le verifiche di cui all'articolo 48, commi 1 e 2, invia l'atto di opposizione al richiedente, ed informa le parti circa: 
+
+                        
+                        
+                            a)
+                            
+                                le notizie di cui all'articolo 8, comma 1, legge n. 241 del 7 agosto 1990; 
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL DECRETO 1 GIUGNO 2021, N. 119)); 
+                            
+                        
+                        
+                            c)
+                            
+                                i provvedimenti di ((...)) sospensione ed estinzione della procedura di cui agli articoli 48, comma 5, 54 e 57; 
+                            
+                        
+                        
+                            d)
+                            
+                                la facolta' di procedere ad un accordo di conciliazione, ai sensi dell'articolo 178, comma 1, del Codice, entro due mesi dalla data ((di ricezione)) della comunicazione e la possibilita' di estendere tale termine con comune istanza di proroga, presentata prima della scadenza, ai sensi dell'articolo 60, comma 2; 
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((gli adempimenti)) per l'opponente, di cui all'articolo 176, comma 4, del Codice; 
+                            
+                        
+                        
+                            f)
+                            
+                                le facolta', per il richiedente, di ritirare, dividere la domanda, limitare o precisare i prodotti e servizi rivendicati nella domanda e oggetto dell'atto oppositivo, e, per l'opponente, di ritirare in tutto o in parte l'opposizione, fmche' l'Ufficio non ha deciso, rispettivamente, in merito alla domanda o all'opposizione ai sensi degli articoli 172, commi 1 e 2, e 181, comma 1, lettera c), del Codice.
 
 ((
 
@@ -565,9 +1151,55 @@ Se e' presentata opposizione ad una registrazione internazionale, che designa l'
 
 ((
 
+2.
+                    
+                        
+                            Se dall'esame effettuato ai sensi dell'articolo 171 del Codice, emergono anche i motivi per un rifiuto ex officio, l'Ufficio italiano brevetti e marchi, scaduti i termini per depositare l'atto di opposizione, comunica all'Organizzazione Mondiale della Proprieta' Intellettuale, ai sensi dell'articolo 16, il rifiuto provvisorio basato sia su motivi di impedimento assoluto sia sull'opposizione. La comunicazione, oltre alle notizie di cui al comma 3, contiene il termine entro il quale il titolare della registrazione internazionale, tramite un mandatario nominato ai sensi dell'articolo 201 del Codice, puo' presentare le proprie deduzioni ovvero richiedere copia dell'atto di opposizione. Se la registrazione e' provvisoriamente rifiutata per motivi di impedimento assoluto, la procedura di opposizione alla registrazione e' sospesa e si applicano le disposizioni di cui all'articolo 16, commi 2 e 3. La procedura di opposizione, sospesa ai sensi del periodo che precede, prosegue nei seguenti casi: 
+
+                        
+                        
+                            a)
+                            
+                                quando il rifiuto provvisorio e' ritirato dall'Ufficio italiano brevetti e marchi e qualora lo stesso Ufficio ritenga sussistere le condizioni per la protezione del marchio in Italia; 
+                            
+                        
+                        
+                            b)
+                            
+                                quando il titolare della registrazione internazionale, tramite mandatario, richiede copia dell'atto di opposizione nel termine assegnato dall'Ufficio.
+
 ))
 
 ((
+
+3.
+                    
+                        
+                            Il rifiuto provvisorio basato su un'opposizione contiene: 
+
+                        
+                        
+                            a)
+                            
+                                il numero della registrazione internazionale, il nome del titolare ed il suo indirizzo; 
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione che il rifiuto e' basato su un'opposizione ed i riferimenti alle relative disposizioni di legge; 
+                            
+                        
+                        
+                            c)
+                            
+                                il numero, la data di deposito e l'eventuale data di priorita' della domanda anteriore su cui si fonda l'opposizione, il suo numero e data di registrazione se disponibili, il nome e l'indirizzo del suo titolare, la riproduzione del marchio anteriore, la lista completa dei prodotti e dei servizi protetti o di quelli ritenuti in conflitto contenuti nella domanda o registrazione anteriore; 
+                            
+                        
+                        
+                            d)
+                            
+                                il termine entro il quale il titolare della registrazione internazionale puo' richiedere, tramite un mandatario nominato ai sensi dell'articolo 201 del Codice, copia dell'atto di opposizione sul quale e' stato basato il rifiuto.
 
 ))
 
@@ -576,6 +1208,26 @@ Se e' presentata opposizione ad una registrazione internazionale, che designa l'
 ((COMMA ABROGATO DAL DECRETO 1 GIUGNO 2021, N. 119)).
 
 Se, a conclusione del procedimento avviato con l'emissione ex officio di un rifiuto provvisorio alla registrazione, e' stato ((comunicato)) un rifiuto definitivo parziale, l'Ufficio invita l'opponente a comunicare, entro un termine fissato dall'Ufficio, se intende ritirare l'opposizione. In caso di conferma da parte dell'opponente di voler procedere con l'opposizione o di mancata risposta nel termine fissato, l'Ufficio comunica alle parti la facolta' di raggiungere un accordo di conciliazione, ai sensi dell'articolo 171, comma 5 del Codice, e prosegue con la procedura di opposizione.
+
+7.
+                    
+                        
+                            Al temine del procedimento di opposizione l'Ufficio italiano brevetti e marchi invia all'Organizzazione Mondiale della Proprieta' Intellettuale ((una comunicazione)): 
+
+                        
+                        
+                            a)
+                            
+                                
+                                    ((...)) di ritiro del rifiuto provvisorio, se ricorrono le cause di estinzione della procedura di opposizione ai sensi dell'articolo 181, comma 1, lettere a), b), c) ed e) del Codice o se l'opposizione e' respinta e il relativo provvedimento e' divenuto inoppugnabile; 
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((di rifiuto definitivo se il titolare della registrazione internazionale non ha chiesto l'atto di opposizione ai sensi dell'articolo 171, comma 5, del Codice,)) ovvero se l'opposizione e' accolta per la totalita' o una parte dei prodotti e servizi indicati nella registrazione e il provvedimento dell'Ufficio, comunicato al titolare della registrazione internazionale o al mandatario nominato ai sensi dell'articolo 201 del Codice, e' divenuto inoppugnabile per decorso dei termini di impugnazione o per l'avvenuta definizione degli eventuali ricorsi proposti avverso tale provvedimento; 
+((b-bis). di accoglimento parziale, se l'opposizione e' accolta per una parte dei prodotti e servizi indicati nella registrazione internazionale.))
 
 ## Art. 51. — (Assegnazione delle opposizioni)
 
@@ -607,6 +1259,35 @@ Le informazioni, le prove e i documenti necessari per dimostrare l'uso del march
 
 ## Art. 54. — (Sospensione)
 
+1.
+                    
+                        
+                            Il procedimento di opposizione e' sospeso: 
+
+                        
+                        
+                            a)
+                            
+                                nei casi di cui all'articolo 180, comma 1, del Codice; 
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di rifiuto del marchio internazionale, oggetto di opposizione, fino all'adozione del provvedimento definitivo; il procedimento di opposizione e' sospeso fino a quando non sono scaduti i termini per il rifiuto ai sensi dell'articolo 5 dell'Accordo di Madrid per la registrazione internazionale dei marchi o dell'articolo 5 del relativo Protocollo, o si e' concluso il relativo procedimento di esame, di cui all'articolo 50, comma 1. In tale caso, il procedimento di opposizione rimane sospeso fino alla data di invio all'Organizzazione Mondiale della Proprieta' Intellettuale della notifica di ritiro del rifiuto provvisorio o di notifica di un rifiuto definitivo, divenuto inoppugnabile per decorso dei termini di impugnazione o per l'avvenuta definizione degli eventuali ricorsi proposti avverso tale provvedimento; 
+                            
+                        
+                        
+                            c)
+                            
+                                su istanza del richiedente, se la registrazione del marchio dell'Unione europea dell'opponente e' soggetta ad un procedimento di annullamento o decadenza presso l'Ufficio dell'Unione europea per la proprieta' intellettuale (E.U.I.P.O.), fino alla decisione di quest'ultimo;
+                            
+                        
+                        
+                            d)
+                            
+                                se l'opposizione e' basata su un marchio internazionale designante l'Italia, fino a quando, in relazione a tale marchio internazionale, non siano scaduti i termini per il rifiuto indicati dall'articolo 171, comma 3, del Codice, il termine per la presentazione di un'opposizione avverso la registrazione di tale marchio internazionale o si siano conclusi i relativi procedimenti di esame o di opposizione.
+
 La revoca della sospensione, prevista all'articolo 180, comma 2, del Codice, ((si applica anche alla lettera c) del comma 1)).
 
 ## Art. 55. — (Documentazione)
@@ -628,6 +1309,29 @@ Ogni decisione sull'esito della procedura, ai sensi degli articoli 178, 180, 181
 Le decisioni sull'opposizione sono pubbliche e di esse si puo' estrarre copia ai sensi dell'articolo 33.
 
 ## Art. 57. — (Estinzione)
+
+1.
+                    
+                        
+                            L'opposizione si estingue:
+
+                        
+                        
+                            a)
+                            
+                                nei casi di cui all' articolo 181 del Codice;
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di mancato pagamento dei diritti di cui all'articolo 48, comma 4;
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di radiazione totale del marchio, designante l'Italia, su richiesta dell'Ufficio di proprieta' industriale d'origine, ai sensi all'articolo 171, comma 8, del Codice.
 
 Nel caso di radiazione parziale del marchio internazionale, il procedimento si estingue limitatamente alla parte del marchio radiata.
 
@@ -687,6 +1391,79 @@ Gli esaminatori, se le decisioni delle opposizioni loro assegnate sono state imp
 
 I soggetti legittimati ai sensi dell'articolo 184-ter del Codice possono presentare istanza all'Ufficio italiano brevetti e marchi per l'accertamento della nullita', della decadenza, ovvero di entrambe, di un marchio d'impresa registrato in corso di validita'.
 
+2.
+                    
+                        
+                            L'istanza, recante i dati di cui all'articolo 184-bis, comma 4, del Codice, contiene: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'identificazione dell'istante e del suo eventuale rappresentante ai sensi dell'articolo 201 del Codice mediante l'indicazione del cognome, nome, codice fiscale o partita iva, nazionalita' e residenza della persona fisica o denominazione, sede e nazionalita' della persona giuridica o dell'ente istante, di uno o piu' recapiti telefonici, di un indirizzo di posta elettronica ordinaria e un indirizzo di posta elettronica certificata e l'elezione di domicilio ai sensi dell'articolo 147, comma 3-bis, del Codice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'identificazione della registrazione nazionale o internazionale estesa all'Italia contro cui viene proposta l'istanza, mediante l'indicazione: 
+ 1) del titolare, della rappresentazione del marchio, del numero, data di deposito e di eventuale priorita' e data di registrazione; 
+ 2) dei prodotti e servizi, raggruppati per le relative le classi, nei confronti dei quali e' proposta l'istanza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i motivi su cui si basa l'istanza di decadenza o di nullita', ai sensi dei commi 2 e 3 all'articolo 184-bis del Codice; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la firma dell'istante o del suo rappresentante.
+
+3.
+                    
+                        
+                            L'istanza contiene inoltre, ove si fondi su un marchio o diritto anteriore: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di marchi anteriori registrati: 
+ 1) l'indicazione che si tratta di un marchio nazionale, dell'Unione europea o internazionale che designa l'Italia, la rappresentazione del marchio, il titolare, il numero e la data di deposito della domanda e di eventuale priorita' o preesistenza e di registrazione; 
+ 2) se il marchio e' stato oggetto di cessione parziale, limitazione, divisione, rinnovazione o rinuncia, la relativa specificazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di marchi notoriamente conosciuti ai sensi dell'articolo 12, comma 1, lettera f) del Codice, la rappresentazione del marchio e l'indicazione dell'estensione geografica di tale notorieta'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di marchi depositati da un agente senza il consenso, in relazione al diritto anteriore del titolare: 
+ 1) per i marchi registrati, le indicazioni previste alla lettera a); 
+ 2) per i marchi non registrati, la rappresentazione e l'indicazione del territorio in cui e' rivendicata la protezione del diritto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nel caso dei diritti di cui all'articolo 14, comma 1, lettere c-bis), c-ter), c-quater e c-quinquies), del Codice: 
+ 1) l'indicazione della natura del diritto protetto, precisando se si tratti di denominazione d'origine, indicazione geografica, menzione tradizionale per i vini, specialita' tradizionale garantita, denominazione di varieta' vegetale registrata; 
+ 2) la rappresentazione del segno, il numero e la data di presentazione della domanda o registrazione o, in mancanza, la data di decorrenza della protezione; 
+ 3) l'indicazione del territorio in cui e' rivendicata la protezione del diritto (Italia o Unione europea) ed i riferimenti normativi o convenzionali su cui si basa il diritto alla protezione.
+
 Nel caso di decadenza, oltre alle condizioni di cui al comma 2, l'istanza contiene l'eventuale data, anteriore al deposito, alla quale e' maturata la decadenza, ai sensi dell'articolo 184-sexies, comma 2, del Codice.
 
 All'istanza e' allegata l'attestazione dell'avvenuto pagamento dei diritti di deposito.
@@ -709,6 +1486,84 @@ All'istanza di decadenza, nullita' o trasferimento si applicano le disposizioni 
 
 Verificato l'avvenuto pagamento del diritto di deposito dell'istanza, l'Ufficio procede all'esame della ricevibilita' ed ammissibilita' dell'istanza ai sensi degli articoli 148, comma 1, e 184-bis del Codice. Se il pagamento del diritto di deposito risulta omesso o irregolare, l'Ufficio invita il richiedente a provvedere alla regolarizzazione, soggetta a diritto di mora in caso di pagamento tardivo, entro il termine di due mesi. Se il richiedente effettua o regolarizza il pagamento, l'Ufficio riconosce, quale data di deposito dell'istanza di decadenza o nullita', la data in cui e' stata effettuata la regolarizzazione. Se il richiedente non ottempera entro il termine assegnato l'istanza si considera ritirata.
 
+2.
+                    
+                        
+                            L'istanza e' irricevibile se: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'istante o il suo rappresentante risultano non identificabili o non raggiungibili ai sensi dell'articolo 148, comma 1, del Codice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non e' redatta compilando il modulo predisposto dall'Ufficio in lingua italiana e in tal caso non e' depositata contestuale traduzione ai sensi dell'articolo 6.
+
+3.
+                    
+                        
+                            L'istanza e' inammissibile se: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' diretta contro una registrazione inesistente o non piu' in corso di validita' alla data di presentazione dell'istanza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non contiene l'identificazione del marchio contestato e del suo titolare ai sensi dell'articolo 63-bis, comma 2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non contiene o fa valere motivi di decadenza o nullita' diversi da quelli previsti dall'articolo 184-bis, commi 2 e 3, del Codice; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                e' fondata su un diritto anteriore e non contiene l'identificazione del diritto, ai sensi dell'articolo 63-bis, comma 3, o tale diritto non e' anteriore; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'istante non e' legittimato ai sensi dell'articolo 184-ter, comma 1, lettere b) e c), del Codice; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                e' fondata sul mancato uso, ai sensi dell'articolo 24 del Codice, di un marchio che, alla data dell'istanza, e' registrato da meno di cinque anni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                e' stata depositata da un mandatario e non e' stato contestualmente depositato l'atto di nomina, ai sensi dell'articolo 201 del Codice; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                e' omessa la firma dell'istante o del suo mandatario.
+
 L'istanza e' altresi' inammissibile se e' rivolta contro una pluralita' di registrazioni o se fa valere contestualmente motivi di decadenza e nullita' e, a seguito della richiesta dell'Ufficio di limitare l'oggetto dell'istanza entro il termine perentorio di trenta giorni dalla data di ricevimento della comunicazione, l'istante non accoglie l'invito.
 
 ))
@@ -720,6 +1575,25 @@ L'istanza e' altresi' inammissibile se e' rivolta contro una pluralita' di regis
 L'Ufficio, dopo le verifiche di cui all'articolo 63-quater, comunica alle parti l'avvio del procedimento, trasmettendo loro l'istanza di decadenza o nullita' e avvisandole della facolta' di raggiungere un accordo di conciliazione entro il termine di due mesi, decorrente dalla data di comunicazione di avvio del procedimento, prorogabile piu' volte fino a un anno, su istanza congiunta delle parti.
 
 In assenza di accordo entro il termine previsto dal comma 1, l'Ufficio assegna al titolare del marchio contestato un termine di sessanta giorni per il deposito delle proprie deduzioni e dell'eventuale istanza prevista dall'articolo 184-quinquies del Codice.
+
+3.
+                    
+                        
+                            Decorso il termine assegnato ai sensi del comma 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                se il titolare del marchio contestato presenta le deduzioni e l'eventuale richiesta di prova d'uso, l'Ufficio le trasmette all'istante, assegnando un termine di sessanta giorni per replicare.
+Alla scadenza del termine concesso, l'Ufficio assegna al titolare del marchio ulteriore termine di sessanta giorni per controdeduzioni. La richiesta di prova dell'uso del marchio anteriore e' sempre soggetta alla verifica di ammissibilita' ai sensi dell'articolo 184-quinquies del Codice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se il titolare del marchio non presenta deduzioni, l'Ufficio procede alla decisione.
 
 ))
 
@@ -750,6 +1624,52 @@ Ai fini della prova dell'uso si applicano le disposizioni di cui all'articolo 53
 ## Art. 63-octies. — (( (Sospensione). ))
 
 ((
+
+1.
+                    
+                        
+                            Oltre ai casi previsti all'articolo 184-septies del Codice, il procedimento di decadenza o nullita' e' sospeso nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                durante il termine concesso alle parti per pervenire ad un accordo di conciliazione, ai sensi dell'articolo 63-quinquies, comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando le parti ne fanno richiesta congiunta, in ogni fase del procedimento, fino ad un massimo di ventiquattro mesi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                su domanda del titolare del marchio contestato, quando e' pendente, dinanzi all'Ufficio europeo per la proprieta' intellettuale, un procedimento di decadenza o di nullita' del marchio dell'Unione europea sul quale si fonda l'istanza, fino a che il relativo provvedimento diviene inoppugnabile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nel caso di trasferimento del marchio anteriore su cui si fonda l'istanza di nullita', fino alla scadenza del termine di sessanta giorni assegnato dall'Ufficio al successore nel diritto per fornire la prova del trasferimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                in caso di morte o di perdita della capacita' di agire del titolare del marchio contestato o quando detto titolare e' sottoposto a procedura di liquidazione giudiziale o quando e' emessa nei suoi confronti una sentenza dichiarativa dello stato di insolvenza; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                in caso di morte del rappresentante del titolare del marchio contestato o in caso di sopravvenuta impossibilita' di rappresentarlo.
 
 Nel caso di cui al comma 1, lettera d), se il titolare non produce la prova del trasferimento, il procedimento prosegue tra le parti originarie. Se l'istante dichiara la sopravvenuta carenza di legittimazione ad agire, l'Ufficio lo avvisa che, se l'istanza non e' ritirata entro trenta giorni, essa e' respinta ai sensi dell'articolo 173, comma 7, del Codice.
 
@@ -810,6 +1730,50 @@ Fatto salvo il caso di errori materiali o evidenti, non sono ammesse correzioni 
 ))
 
 ## Art. 64. — (Esame di abilitazione per l'iscrizione alla Sezione Brevetti ovvero Marchi dell'Albo)
+
+1.
+                    
+                        
+                            L'Esame di abilitazione ((di cui all'articolo 207 del Codice)) per l'iscrizione nella Sezione Brevetti consiste in: 
+
+                        
+                        
+                            a)
+                            
+                                una prova pratica scritta di redazione di un brevetto per invenzione o modello di utilita' e breve risposta scritta ad alcuni quesiti di legislazione brevettuale; 
+                            
+                        
+                        
+                            b)
+                            
+                                una prova orale di teoria, relativa alle normative in materia di brevetti per invenzioni e per modelli di utilita', comprendente: 
+1) nozioni di diritto pubblico e privato e della concorrenza, di procedura civile, di chimica, o meccanica o elettricita'; 
+2) diritto dei brevetti per invenzione e per modello di utilita' e delle relative procedure di deposito, concessione, ricorso ((e trasferimento)); 
+3) diritto ((dell'Unione Europea)) ed internazionale in materia di proprieta' industriale; 
+4) elementi di diritto comparato in materia di proprieta' industriale; 
+5) conoscenza a livello professionale di almeno una lingua scelta fra l'inglese, il tedesco o il francese.
+
+2.
+                    
+                        
+                            L'Esame di abilitazione ((di cui all'articolo 207 del Codice)) per l'iscrizione nella Sezione Marchi consiste in: 
+
+                        
+                        
+                            a)
+                            
+                                una prova scritta di teoria e pratica relativa ai requisiti e criteri di registrabilita' dei marchi, alla classificazione dei prodotti e servizi, al deposito e prosecuzione delle domande, ((alle norme sul trasferimento,)) all'interpretazione delle norme di legge in materia di marchi; 
+                            
+                        
+                        
+                            b)
+                            
+                                una prova orale sulle seguenti materie: 
+1) nozioni di diritto pubblico e privato e di procedura civile e della concorrenza; 
+2) diritto dei marchi, degli altri segni distintivi e delle denominazioni d'origine o indicazioni di provenienza ((, dei disegni e modelli)) e delle relative procedure di deposito, concessione, ricorso; 
+3) diritto ((dell'Unione Europea)) ed internazionale in materia di proprieta' industriale; 
+4) elementi di diritto comparato in materia di proprieta' industriale; 
+5) conoscenza a livello professionale di almeno una lingua scelta fra l'inglese e il francese.
 
 ## Art. 65. — (Convocazione e svolgimento dell'assemblea degli iscritti all'Albo)
 

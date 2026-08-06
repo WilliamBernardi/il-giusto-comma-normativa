@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 1995-03-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,45 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 17 n
 Sulla proposta del Ministro per i beni culturali e ambientali, di concerto con i Ministri per la funzione pubblica, del tesoro e del bilancio e della programmazione economica;
 
 ## Art. 1. — Ambito della disciplina
+
+1.
+                    
+                        
+                            Il Ministero per i beni culturali e ambientali, per l'esercizio delle competenze attribuite dalle vigenti norme e' articolato nei
+ seguenti uffici di livello dirigenziale generale con funzioni finali: 
+                        
+                        
+                            a)
+                            
+                                Ufficio centrale per i beni ambientali e paesaggistici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ufficio centrale per i beni archeologici, architettonici, artistici e storici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ufficio centrale per i beni archivistici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Ufficio centrale per i beni librari, le istituzioni culturali e l'editoria;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Direzione generale per gli affari generali amministrativi e del personale.
 
 A ciascuno dei predetti uffici e' preposto un dirigente generale con funzioni di direttore generale.
 

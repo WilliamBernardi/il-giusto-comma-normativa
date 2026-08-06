@@ -7,8 +7,8 @@ urn: urn:nir:istruzione.merito.ministero:decreto:2023-12-07;234
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -59,6 +59,59 @@ Ai fini e agli effetti delle disposizioni di cui al presente regolamento, si int
 
 ## Art. 2. — Oggetto
 
+1.
+                    
+                        
+                            In prima applicazione dell'articolo 62-quater, comma 6, del CAD, il presente decreto, anche mediante gli Allegati che ne costituiscono parte integrante, detta disposizioni concernenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                le funzioni dell'ANIST; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati resi disponibili da ANIST; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i servizi per i cittadini; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i servizi per le pubbliche amministrazioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di consultazione e di allineamento con le banche dati di interesse nazionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la titolarita' del trattamento dei dati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le garanzie e misure di sicurezza.
+
 ## Art. 3. — Funzioni dell'Anagrafe nazionale dell'istruzione
 
 In fase di prima applicazione, le funzioni dell'ANIST sono limitate al trattamento dei dati relativi ai percorsi scolastici degli studenti e ai loro esiti, nonche' ai relativi servizi previsti dagli articoli 6 e 7.
@@ -68,6 +121,38 @@ Le funzioni di cui al comma 1 sono alimentate dall'ANS e dalle anagrafi e banche
 L'ANIST e' organizzata secondo modalita' funzionali e operative che garantiscono l'univocita' dei dati stessi nell'ambito delle anagrafi e banche dati del Ministero.
 
 ## Art. 4. — Dati di cui dispone l'ANIST
+
+1.
+                    
+                        
+                            L'ANIST ha a disposizione: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati relativi ai percorsi di studi degli studenti e agli esiti annuali dei medesimi percorsi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati relativi all'istituzione scolastica di appartenenza degli studenti, inclusi i dati degli edifici scolastici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i dati relativi ai titoli conseguiti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i dati anagrafici relativi al nome, al cognome, al codice fiscale dello studente e, ove attribuito ai sensi di legge, all'ID ANPR.
 
 I dati di cui al comma 1 sono individuati nell'Allegato 1, recante «Descrizione dei dati resi disponibili da ANIST» e nell'Allegato 3, recante «Consultazione ANIST-ANPR».
 
@@ -91,6 +176,31 @@ L'ANIST, attraverso il proprio Portale e previa autenticazione con le modalita' 
 Ferme restando le competenze delle istituzioni scolastiche ai sensi della normativa vigente, il Ministero, su richiesta dei cittadini, rilascia certificazioni relative a dati ed informazioni ad essi riferiti, contenuti nell'ANIST mediante l'emissione, tramite collegamento telematico, di documenti digitali muniti di sigillo elettronico qualificato, ai sensi del regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE.
 
 ## Art. 7. — Servizi per le pubbliche amministrazioni
+
+1.
+                    
+                        
+                            Mediante appositi servizi resi fruibili per il tramite della Piattaforma digitale nazionale, l'ANIST assicura la disponibilita' dei dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai comuni, alle province, alle citta' metropolitane e alle istituzioni scolastiche, per lo svolgimento delle funzioni istituzionali di competenza, anche al fine di semplificare e automatizzare le procedure di iscrizione alle istituzioni scolastiche e ai relativi servizi complementari ai sensi dell'articolo 62-quater, comma 5, del CAD, nonche' per consentire controlli puntuali circa la veridicita' del contenuto delle dichiarazioni presentate dai cittadini; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle pubbliche amministrazioni per le relative finalita' istituzionali, nonche' al fine di consentire controlli puntuali circa la veridicita' del contenuto delle dichiarazioni presentate dai cittadini; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle regioni, per lo svolgimento delle relative finalita' istituzionali.
 
 I servizi individuati in fase di prima applicazione nell'Allegato 2 «Servizi resi disponibili da ANIST», nonche' quelli ulteriori che potranno essere resi disponibili, consentono l'utilizzazione dell'ANIST tramite l'interoperabilita' con le Anagrafi regionali degli studenti, nonche' con le altre banche dati istituite a livello regionale, provinciale e locale, di cui all'articolo 62-quater, comma 6, lettera b), del CAD.
 
@@ -116,6 +226,31 @@ Le regioni, i comuni, le citta' metropolitane, le province, le istituzioni scola
 La societa' di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e' designata responsabile del trattamento dei dati dal Ministero, ai sensi dell'articolo 28 del regolamento (UE) 2016/679, del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
 
 ## Art. 10. — Garanzie e misure di sicurezza
+
+1.
+                    
+                        
+                            Il Ministero individua garanzie e misure di sicurezza, appropriate e specifiche, finalizzate a tutelare i diritti fondamentali e gli interessi delle persone fisiche i cui dati sono coinvolti nelle attivita' di trattamento previste nel presente decreto. Le misure di sicurezza di cui Allegato 5 «Garanzie e misure di sicurezza» garantiscono, in ogni caso: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'integrita' e la riservatezza dei dati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sicurezza del sistema e dell'accesso a esso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il tracciamento delle operazioni effettuate.
 
 ## Art. 11. — Disposizioni finali e finanziarie
 

@@ -7,8 +7,8 @@ urn: urn:nir:imprese.italy.made.ministero:decreto:2024-09-17;159
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,192 @@ Acquisito il parere della Conferenza unificata di cui all'articolo 8 del decreto
 Acquisito il parere del Consiglio di Stato n. 852/2024, rilasciato dalla Sezione consultiva per gli atti normativi nell'adunanza del 25 giugno 2024;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto sono adottate le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                «fascicolo»: il fascicolo informatico d'impresa di cui all'articolo 2, comma 2, lettera b), della legge 29 dicembre 1993, n. 580; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «SUAP»: lo sportello unico per le attivita' produttive, unico punto di accesso per il richiedente in relazione a tutte le vicende amministrative riguardanti la sua attivita' produttiva, che fornisce una risposta unica e tempestiva in luogo di tutte le pubbliche amministrazioni, comunque coinvolte nel procedimento, di cui all'articolo 38, comma 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e all'articolo 2 del decreto del Presidente della Repubblica 7 settembre 2010, n. 160; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «camera di commercio territorialmente competente»: la Camera di commercio presso cui e' iscritta o annotata la sede principale dell'impresa o del soggetto economico; nel caso di societa' o soggetto straniero quella presso cui e' iscritta la sede secondaria o l'unita' locale; nel caso abbia piu' sedi secondarie o piu' unita' locali, e' quella presso cui e' iscritta la sede secondaria o l'unita' locale designata come principale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «CAD»: il Codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «d.P.R. 160/2010»: il decreto del Presidente della Repubblica 7 settembre 2010, n. 160, in attuazione dell'articolo 38, comma 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «amministrazioni»: le amministrazioni dello Stato, gli enti pubblici territoriali, gli altri enti pubblici non economici, gli organismi di diritto pubblico; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «portale»: il sito web www.impresainungiorno.gov.it di riferimento per imprese e soggetti da esse delegati, che consente di ottenere informazioni e interoperare telematicamente con gli enti coinvolti nelle diverse fasi delle attivita' produttive e della prestazione di servizi, anche attraverso la Piattaforma Digitale Nazionale Dati di cui all'articolo 50-ter del CAD e le regole tecniche del Sistema pubblico di connettivita'; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «SCIA»: la segnalazione certificata di inizio attivita' di cui agli articoli 19 e 19-bis, commi 2 e 3, della legge 7 agosto 1990, n. 241; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «comunicazione unica»: l'istituto di cui all'articolo 9 del decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40, richiamato dall'articolo 5, comma 2, del d.P.R. 160/2010, e di cui all' articolo 25, comma 3, del decreto legislativo 26 marzo 2010, n. 59; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «attivita'»: attivita' economica o professionale, anche agricola, esercitata da un soggetto iscritto nel registro delle imprese oppure nel repertorio economico amministrativo (REA); 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «REA»: il repertorio delle notizie economiche e amministrative di cui all'articolo 9 del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «registro delle imprese»: il registro delle imprese di cui all'articolo 2188 del codice civile e di cui all'articolo 8 della legge 29 dicembre 1993, n. 580; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «documenti»: i provvedimenti conclusivi di procedimenti amministrativi concernenti attivita' d'impresa adottati successivamente alla data di entrata in vigore del decreto legislativo 25 novembre 2016, n. 219; i provvedimenti, gli atti e i documenti di cui all'articolo 43-bis del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445: quelli di cui all'articolo 2, comma 2 del d.P.R. 160/2010, quelli relativi alle verifiche e ai verbali concernenti i controlli effettuati ai sensi dei decreti legislativi di cui all'articolo 27 della legge 5 agosto 2022, n. 118, nonche', ai sensi della legislazione vigente, in relazione alla competenza delle singole Amministrazioni interessate, le domande, le dichiarazioni, le segnalazioni e le comunicazioni concernenti le attivita' di impresa e, ove previsto, i relativi elaborati tecnici e allegati e i documenti attestanti atti, fatti, qualita', stati soggettivi, nonche' gli atti di autorizzazione, licenza, concessione, permesso o nulla osta comunque denominati rilasciati dallo sportello unico o acquisiti da altre amministrazioni ovvero comunicati dall'impresa o dalle agenzie per le imprese, ivi comprese le certificazioni di qualita' o ambientali e le verifiche eventualmente effettuate sull'attivita' e sui locali ad essa adibiti; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «metadati»: i dati associati a un documento informatico, a un fascicolo informatico o a un'aggregazione documentale, di cui alle linee guida sulla formazione, gestione e conservazione dei documenti informatici, Glossario Allegato 1, adottate dall'Agenzia per l'Italia digitale (d'ora in poi AgId); 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «documento informatico»: il documento elettronico che contiene la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti, di cui all'articolo 1, comma 1, lettera p), del CAD, formato secondo le modalita' previste dalle linee guida sulla formazione, gestione e conservazione dei documenti informatici, adottate dall'Agenzia per l'Italia digitale ivi inclusa la modalita' di formazione tramite «generazione o raggruppamento anche in via automatica di un insieme di dati» e compresi i metadati; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «duplicato informatico»: il documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario, di cui all'articolo 1, comma 1, lettera i-quinquies, del CAD; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «soggetti pubblici»: le amministrazioni di cui alla lettera f), l'Autorita' giudiziaria e tributaria, i gestori e concessionari di pubblici servizi; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «impresa»: i soggetti che esercitano attivita' economicamente rilevanti, iscritti al REA, diversi dal soggetto economico di cui alla lettera z); 
+
+                            
+                        
+                        
+                            u)
+                            
+                                «soggetti privati»: tutti i soggetti diversi dall'impresa di cui alla lettera t), dal soggetto economico di cui alla lettera z) e dai soggetti pubblici di cui alla lettera s); 
+
+                            
+                        
+                        
+                            v)
+                            
+                                «piattaforme o portali interoperabili»: tutti i portali e le piattaforme informatiche diversi da quello di cui alla lettera g), che danno seguito all'interscambio e all'interazione con il fascicolo, nel rispetto delle disposizioni del CAD e delle specifiche tecniche per l'interoperabilita' definite dall'Agenzia per l'Italia digitale; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                «soggetto economico»: i soggetti esercitanti attivita' economicamente rilevanti, non costituiti in forma di impresa, iscritti al REA; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                «decreto interministeriale 12 novembre 2021»: il decreto interministeriale di cui in preambolo; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                «regolamento GDPR»: il regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, di cui al preambolo; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                «codice in materia di protezione dei dati personali»: decreto legislativo 30 giugno 2003, n. 196, di cui al preambolo; 
+
+                            
+                        
+                        
+                            dd)
+                            
+                                «Ministero»: Ministero delle imprese e del Made in Italy, come definito dal decreto legislativo 30 luglio 1999, n. 300 e dal decreto-legge 11 novembre 2022, n. 173, convertito, con modificazioni, dalla L. 16 dicembre 2022, n. 204; 
+
+                            
+                        
+                        
+                            ee)
+                            
+                                «Ministro»: Ministro delle imprese e del Made in Italy, come definito dal decreto legislativo 30 luglio 1999, n. 300 e dal decreto-legge 11 novembre 2022, n. 173, convertito, con modificazioni, dalla L. 16 dicembre 2022, n. 204.
 
 ## Art. 2.
 
@@ -64,6 +250,38 @@ I documenti di cui al comma 2 sono acquisiti nel fascicolo in ordine cronologico
 ## Art. 4.
 
 Tempi e modalita' di trasmissione
+
+1.
+                    
+                        
+                            Salvo quanto previsto ai commi 2 e 3, la trasmissione con modalita' informatiche di cui all'articolo 3, comma 2, avviene entro cinque giorni decorrenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalla data in cui il provvedimento e' stato comunicato al soggetto interessato, ovvero ha acquisito efficacia secondo la normativa ad esso applicabile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei casi di SCIA, dalla scadenza del termine previsto dall'articolo 19, commi 3 e 6-bis, della legge 7 agosto 1990, n. 241; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i procedimenti per i quali e' previsto un silenzio significativo, dalla scadenza del termine previsto all'articolo 20, comma 1, della legge 7 agosto 1990, n. 241, oppure di quello stabilito dalla normativa ad esso applicabile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per i rimanenti documenti di cui all'articolo 1, comma 1, lettera o), dalla data di ricezione di ciascuno degli stessi da parte del SUAP.
 
 I provvedimenti finali di cui all'articolo 4, comma 6, del decreto legislativo 25 novembre 2016, n. 219, adottati dalla data di entrata in vigore del decreto legislativo fino alla data di entrata in vigore del presente regolamento, sono trasmessi con modalita' informatica, alla camera di commercio territorialmente competente per il loro inserimento nel fascicolo, entro trenta giorni dalla pubblicazione del decreto di cui all'articolo 9, comma 3.
 

@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2012-08-18
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -28,9 +28,277 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dello svilup
 
 ## Art. 1. — (Campo d'applicazione)
 
+1.
+                    
+                        
+                            Le norme del presente decreto legislativo si applicano ai seguenti prodotti, cosi' come definiti all'articolo 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                macchine; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attrezzature intercambiabili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                componenti di sicurezza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                accessori di sollevamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                catene, funi e cinghie; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dispositivi amovibili di trasmissione meccanica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                quasi-macchine.
+
+2.
+                    
+                        
+                            Sono esclusi dal campo di applicazione del presente decreto legislativo: 
+ 
+                        
+                        
+                            a)
+                            
+                                i componenti di sicurezza, destinati ad essere utilizzati come pezzi di ricambio in sostituzione di componenti identici e forniti dal fabbricante della macchina originaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le attrezzature specifiche per parchi giochi e/o di divertimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le macchine specificamente progettate o utilizzate per uso nucleare che, in caso di guasto, possono provocare una emissione di radioattivita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le armi, incluse le armi da fuoco; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i seguenti mezzi di trasporto: 
+ 1) trattori agricoli e forestali per i rischi oggetto del decreto del Ministro delle infrastrutture e dei trasporti in data 19 novembre 2004, pubblicato nel S.O. alla Gazzetta Ufficiale n. 88 del 16 aprile 2005, di recepimento della direttiva n. 2003/37/CE, ad esclusione delle macchine installate su tali veicoli; 
+ 2) veicoli a motore e loro rimorchi oggetto della legge 27 dicembre 1973, n. 942, e successive modificazioni, di recepimento della direttiva 70/156/CEE, ad esclusione delle macchine installate su tali veicoli; 
+ 3) veicoli oggetto del decreto del Ministro delle infrastrutture e dei trasporti in data 31 gennaio 2003, pubblicato nel S.O. alla Gazzetta Ufficiale n. 123 del 29 maggio 2003, di recepimento della direttiva 2002/24/CE, ad esclusione delle macchine installate su tali veicoli; 
+ 4) veicoli a motore esclusivamente da competizione; 
+ 5) mezzi di trasporto per via aerea, per via navigabile o su rete ferroviaria, escluse le macchine installate su tali veicoli. 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le navi marittime e le unita' mobili off-shore, nonche' le macchine installate a bordo di tali navi e/o unita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le macchine appositamente progettate e costruite a fini militari o di mantenimento dell'ordine; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le macchine appositamente progettate e costruite a fini di ricerca per essere temporaneamente utilizzate nei laboratori; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                gli ascensori utilizzati nei pozzi delle miniere; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                le macchine adibite allo spostamento di artisti durante le rappresentazioni; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                i prodotti elettrici ed elettronici che rientrano nelle categorie seguenti, oggetto della direttiva 2006/95/CE in materia di bassa tensione: 
+ 1) elettrodomestici destinati a uso domestico; 
+ 2) apparecchiature audio e video; 
+ 3) apparecchiature nel settore delle tecnologie dell'informazione; 
+ 4) macchine ordinarie da ufficio; 
+ 5) apparecchiature di collegamento e di controllo a bassa tensione; 
+ 6) motori elettrici; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                le seguenti apparecchiature elettriche ad alta tensione: 
+ 1) apparecchiature di collegamento e di comando; 
+ 2) trasformatori.
+
 Quando per una macchina i pericoli di cui all'allegato 1 sono interamente o parzialmente disciplinati in modo piu' specifico da altri provvedimenti di recepimento di direttive comunitarie, il presente decreto non si applica a tale macchina e per tali pericoli.
 
 ## Art. 2. — (Definizioni)
+
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo si intende per: "macchina" uno dei prodotti elencati all'articolo 1, comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                ad f).
+
+2.
+                    
+                        
+                            Si applicano le definizioni seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «macchina » propriamente detta: 
+ 1) insieme equipaggiato o destinato ad essere equipaggiato di un sistema di azionamento diverso dalla forza umana o animale diretta, composto di parti o di componenti, di cui almeno uno mobile, collegati tra loro solidamente per un'applicazione ben determinata; 
+ 2) insieme di cui al numero 1), al quale mancano solamente elementi di collegamento al sito di impiego o di allacciamento alle fonti di energia e di movimento; 
+ 3) insieme di cui ai numeri 1) e 2), pronto per essere installato e che puo' funzionare solo dopo essere stato montato su un mezzo di trasporto o installato in un edificio o in una costruzione; 
+ 4) insiemi di macchine, di cui ai numeri 1), 2) e 3), o di quasi-macchine, di cui alla lettera g), che per raggiungere uno stesso risultato sono disposti e comandati in modo da avere un funzionamento solidale; 
+ 5) insieme di parti o di componenti, di cui almeno uno mobile, collegati tra loro solidalmente e destinati al sollevamento di pesi e la cui unica fonte di energia e' la forza umana diretta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «attrezzatura intercambiabile»: dispositivo che, dopo la messa in servizio di una macchina o di un trattore, e' assemblato alla macchina o al trattore dall'operatore stesso al fine di modificarne la funzione o apportare una nuova funzione, nella misura in cui tale attrezzatura non e' un utensile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «componente di sicurezza»: componente: 
+ 1) destinato ad espletare una funzione di sicurezza; 
+ 2) immesso sul mercato separatamente; 
+ 3) il cui guasto ovvero malfunzionamento, mette a repentaglio la sicurezza delle persone; 
+ 4) che non e' indispensabile per lo scopo per cui e' stata progettata la macchina o che per tale funzione puo' essere sostituito con altri componenti. 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «accessori di sollevamento»: componenti o attrezzature non collegate alle macchine per il sollevamento, che consentono la presa del carico, disposti tra la macchina e il carico oppure sul carico stesso, oppure destinati a divenire parte integrante del carico e ad essere immessi sul mercato separatamente; anche le imbracature e le loro componenti sono considerate accessori di sollevamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «catene, funi e cinghie»: catene, funi e cinghie progettate e costruite a fini di sollevamento come parte integrante di macchine per il sollevamento o di accessori di sollevamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «dispositivi amovibili di trasmissione meccanica»: componenti amovibili destinati alla trasmissione di potenza tra una macchina semovente o un trattore e una macchina azionata, mediante collegamento al primo supporto fisso di quest'ultima; tali dispositivi, ove immessi sul mercato muniti di ripari, sono considerati come un singolo prodotto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «quasi-macchine»: insiemi che costituiscono quasi una macchina, ma che, da soli, non sono in grado di garantire un'applicazione ben determinata; un sistema di azionamento e' una quasi-macchina; le quasi-macchine sono unicamente destinate ad essere incorporate o assemblate ad altre macchine o ad altre quasi-macchine o apparecchi per costituire una macchina disciplinata dal presente decreto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «immissione sul mercato»: prima messa a disposizione, all'interno della Comunita', a titolo oneroso o gratuito, di una macchina o di una quasi-macchina a fini di distribuzione o di utilizzazione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «fabbricante»: persona fisica o giuridica che progetta e/o realizza una macchina o una quasi-macchina oggetto del presente decreto, ed e' responsabile della conformita' della macchina o della quasi-macchina con il presente decreto ai fini dell'immissione sul mercato con il proprio nome o con il proprio marchio ovvero per uso personale; in mancanza di un fabbricante quale definito sopra, e' considerato fabbricante la persona fisica o giuridica che immette sul mercato o mette in servizio una macchina o una quasi-macchina oggetto del presente decreto legislativo; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «mandatario»: qualsiasi persona fisica o giuridica stabilita all'interno della Comunita' che abbia ricevuto mandato scritto dal fabbricante per eseguire a suo nome, in tutto o in parte, gli obblighi e le formalita' connesse con il presente decreto legislativo; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «messa in servizio»: primo utilizzo, conforme alla sua destinazione, all'interno della Comunita', di una macchina oggetto del presente decreto legislativo; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «norma armonizzata»: specifica tecnica adottata da un organismo di normalizzazione, ovvero il Comitato europeo di normalizzazione (CEN), il Comitato europeo di normalizzazione elettrotecnica (CENELEC) o l'Istituto europeo per le norme di telecomunicazione (ETSI), nel quadro di un mandato rilasciato dalla Commissione europea conformemente alle procedure istituite dalla direttiva 98/34/CE del Parlamento europeo e del Consiglio, del 22 giugno 1998, che prevede un procedura d'informazione nel settore delle norme e delle regolamentazioni tecniche e delle regole relative ai servizi della societa' dell'informazione, e non avente carattere vincolante. 
+
+                            
+                        
+                        
+                            n-bis)
+                            
+                                "requisiti essenziali di sicurezza e di tutela della salute": disposizioni obbligatorie relative alla progettazione e alla fabbricazione dei prodotti soggetti al presente decreto legislativo intese ad assicurare un elevato livello di protezione della salute e della sicurezza delle persone e, se del caso, degli animali domestici e dei beni nonche', qualora applicabile, dell'ambiente; i requisiti essenziali di sicurezza e di tutela della salute sono stabiliti nell'allegato I; i requisiti essenziali di sicurezza e di tutela della salute per la protezione dell'ambiente si applicano unicamente alle macchine di cui al punto 2.3 di detto allegato.
 
 ## Art. 3. — (Immissione sul mercato e messa in servizio)
 
@@ -41,6 +309,52 @@ Possono essere immesse sul mercato ovvero messe in servizio unicamente le macchi
 ))
 
 Possono essere immesse sul mercato unicamente le quasi-macchine che rispettano le pertinenti disposizioni del presente decreto legislativo.
+
+3.
+                    
+                        
+                            Il fabbricante o il suo mandatario, prima di immettere sul mercato ovvero mettere in servizio una macchina: 
+ 
+                        
+                        
+                            a)
+                            
+                                si accerta che soddisfi i pertinenti requisiti essenziali di sicurezza e di tutela della salute indicati nell'allegato I; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                si accerta che il fascicolo tecnico di cui all'allegato VII, parte A, sia disponibile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fornisce in particolare le informazioni necessarie, quali ad esempio le istruzioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                espleta le appropriate procedure di valutazione della conformita' ai sensi dell'articolo 9; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                redige la dichiarazione CE di conformita' ai sensi dell'allegato II, parte 1, sezione A, e si accerta che la stessa accompagni la macchina; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                appone la marcatura 'CE' ai sensi dell'articolo 12.
 
 Il fabbricante o il suo mandatario, prima di immettere sul mercato una quasi-macchina, si accerta che sia stata espletata la procedura di cui all'articolo 10.
 
@@ -88,6 +402,31 @@ Il Ministero dello sviluppo economico coopera, secondo gli indirizzi dati dalla 
 
 ## Art. 7. — (Clausola di salvaguardia)
 
+1.
+                    
+                        
+                            Il Ministero dello sviluppo economico informa immediatamente la Commissione europea e gli altri Stati membri delle misure restrittive adottate ai sensi dell'articolo 6, comma 4, con le relative motivazioni e precisando in particolare se la mancata conformita' e' dovuta: 
+ 
+                        
+                        
+                            a)
+                            
+                                al mancato rispetto dei requisiti essenziali di cui all'articolo 3, comma 3, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ad un'errata applicazione delle norme armonizzate di cui all'articolo 4, comma 2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ad una lacuna delle medesime norme armonizzate di cui all'articolo 4, comma 2.
+
 A seguito delle conclusioni delle consultazioni avviate dalla Commissione europea, i provvedimenti di cui all'articolo 6, comma 4, possono essere definitivamente confermati, modificati o revocati.
 
 Quando la Commissione europea comunica che una macchina non conforme e' stata immessa sul mercato provvista della marcatura CE, il Ministero dello sviluppo economico ordina immediatamente il ritiro dal mercato o il divieto di immissione sul mercato della macchina non conforme, con provvedimento pubblicato nella Gazzetta Ufficiale della Repubblica italiana. Per quanto attiene agli oneri relativi al ritiro dal mercato resta fermo quanto previsto dall'articolo 6, comma 4.
@@ -110,7 +449,75 @@ Ai fini dell'attestazione di conformita' della macchina alle disposizioni del pr
 
 Se la macchina non e' contemplata dall'allegato IV, il fabbricante o il suo mandatario applica la procedura di valutazione della conformita' con controllo interno sulla fabbricazione della macchina di cui all'allegato VIII.
 
+3.
+                    
+                        
+                            Se la macchina e' contemplata dall'allegato IV ed e' fabbricata conformemente alle norme armonizzate di cui all'articolo 4, comma 2, e nella misura in cui tali norme coprono tutti i pertinenti requisiti di sicurezza e di tutela della salute, il fabbricante o il suo mandatario applica una delle procedure seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la procedura di valutazione della conformita' con controllo interno sulla fabbricazione della macchina di cui all'allegato VIII; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la procedura di esame per la certificazione CE del tipo di cui all'allegato IX, piu' controllo interno sulla fabbricazione della macchina di cui all'allegato VIII, punto 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la procedura di garanzia qualita' totale di cui all'allegato X.
+
+4.
+                    
+                        
+                            Se la macchina e' contemplata dall'allegato IV, ma e' stata fabbricata non rispettando o rispettando solo parzialmente le norme armonizzate di cui all'articolo 4, comma 2, ovvero se le norme armonizzate non coprono tutti i pertinenti requisiti di sicurezza e di tutela della salute o non esistono norme armonizzate per la macchina in questione, il fabbricante o il suo mandatario applica una delle procedure seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                la procedura di esame per la certificazione CE del tipo di cui all'allegato IX, nonche' controllo interno sulla fabbricazione della macchina di cui all'allegato VIII, punto 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la procedura di garanzia qualita' totale di cui all'allegato X.
+
 ## Art. 10. — (Procedure di valutazione della conformita' delle quasi macchine)
+
+1.
+                    
+                        
+                            Il fabbricante di una quasi-macchina, o il suo mandatario, prima dell'immissione sul mercato, si accertano che: 
+ 
+                        
+                        
+                            a)
+                            
+                                sia preparata la documentazione tecnica pertinente di cui all'allegato VII, parte B; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano preparate le istruzioni per l'assemblaggio di cui all'allegato VI; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sia stata redatta la dichiarazione di incorporazione di cui all'allegato II, parte 1, sezione B.
 
 Le istruzioni per l'assemblaggio e la dichiarazione di incorporazione accompagnano la quasi-macchina fino all'incorporazione e fanno parte del fascicolo tecnico della macchina finale.
 
@@ -133,6 +540,24 @@ Il Ministero dello sviluppo economico e il Ministero del lavoro e delle politich
 Il Ministero dello sviluppo economico notifica tempestivamente alla Commissione europea e agli Stati membri gli organismi autorizzati, nonche' le procedure specifiche per la valutazione delle conformita' e le categorie di macchine per le quali tali organismi sono stati designati e, se del caso, i numeri di identificazione che sono stati loro attribuiti in precedenza dalla Commissione europea.
 Il Ministero dello sviluppo economico notifica alla Commissione europea e agli altri Stati membri qualsiasi modifica successiva.
 
+9.
+                    
+                        
+                            Il Ministero dello sviluppo economico revoca immediatamente l'autorizzazione rilasciata all'organismo qualora constati che: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'organismo non soddisfa piu' i criteri di cui all'allegato XI; oppure 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'organismo e' responsabile della violazione grave di disposizioni che ne disciplinano l'attivita'.
+
 Il Ministero dello sviluppo economico sospende l'autorizzazione all'organismo, per un periodo di durata non superiore a sei mesi, in tutti i casi in cui le non conformita' nelle quali e' in corso l'organismo sono eliminabili in tempi brevi ovvero non sono gravi e necessitino di una verifica per garantire che l'organismo sia in possesso dei requisiti tecnici ed amministrativi funzionali ai compiti ad esso assegnati.
 
 I provvedimenti restrittivi di cui ai commi 9 e 10, motivati e recanti mezzi e termini di ricorso, sono immediatamente comunicati dal Ministero dello sviluppo economico alla Commissione europea, agli altri Stati membri e al Ministero del lavoro e delle politiche sociali.
@@ -154,6 +579,31 @@ E' vietato apporre sulle macchine marcature, segni e iscrizioni che possano indu
 Sulle macchine puo' essere apposta ogni altra marcatura, purche' questa non comprometta la visibilita', la leggibilita' ed il significato della marcatura CE'.
 
 ## Art. 13. — (Non conformita' della marcatura)
+
+1.
+                    
+                        
+                            Costituisce marcatura non conforme: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'apposizione della marcatura CE' ai sensi del presente decreto su prodotti non rientranti nel campo di applicazione di cui all'articolo 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'assenza della marcatura CE', conforme all'articolo 12, commi 1 e 2, ovvero l'assenza della dichiarazione CE di conformita' per una macchina; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'apposizione, su una macchina, di una marcatura diversa dalla marcatura CE' vietata ai sensi dell'articolo 12, commi 3 e 4.
 
 Qualora sia constatata la non conformita' della marcatura alle disposizioni del presente decreto, il Ministero dello sviluppo economico ordina al fabbricante, o al suo mandatario di adottare, entro un termine, le misure idonee a rendere il prodotto conforme.
 

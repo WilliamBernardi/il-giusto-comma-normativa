@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2025-12-03;214
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,164 @@ Il presente regolamento individua la disciplina generale dei giochi numerici, af
 I giochi numerici di cui al presente regolamento sono distinti, in virtu' delle concessioni di riferimento, in giochi numerici a quota fissa e giochi numerici a totalizzatore nazionale.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Agenzia delle dogane e dei monopoli: l'ente regolatore del gioco pubblico in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessionario: la persona giuridica di diritto privato che esercita attivita' di gestione, esercizio e raccolta di gioco pubblico, attraverso un titolo concessorio acquisito a seguito di gara pubblica per il segmento dei giochi numerici a quota fissa o per quello dei giochi numerici a totalizzatore nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concorso: insieme delle attivita' necessarie allo svolgimento del gioco e alla definizione delle combinazioni vincenti, in relazione alle giocate che concorrono a una specifica estrazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    combinazione: l'insieme dei numeri pronosticati dal giocatore con riferimento alla formula di gioco prescelta e alle regole che la governano; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    combinazione vincente: i numeri interi estratti casualmente in occasione di uno specifico concorso attraverso il sistema estrazionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    formula di gioco: le specifiche modalita' attraverso le quali si realizzano i giochi numerici a quota fissa o i giochi numerici a totalizzatore nazionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    giocata: la registrazione sul sistema del concessionario della combinazione ovvero delle combinazioni di gioco pronosticate e riportate nella ricevuta di gioco; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    jackpot: la somma, da destinare a uno specifico premio, secondo le regole previste per un determinato gioco, derivante da una quota di montepremi, dall'accumulo di importi, anche parziali, di analoghi premi non vinti a partire dall'ultimo jackpot erogato e dall'assegnazione di fondi per consentire l'ammontare per la ripartenza; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    payout: la percentuale di restituzione della raccolta in vincite per ogni formula di gioco; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    posizione: il posizionamento di uno dei numeri pronosticati all'interno della combinazione e dei numeri estratti all'interno della combinazione vincente; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    posta di gioco: l'importo in denaro che il giocatore impiega come corrispettivo per ogni combinazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    posta di gioco complessiva: l'importo in denaro dell'insieme delle combinazioni del pronostico per ogni singola giocata; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    pronostico: la puntata, effettuata dal giocatore, su una ovvero piu' combinazioni di gioco con riferimento alla formula di gioco prescelta e alle regole che la governano e riferito a un'unica giocata; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    punti di raccolta: l'insieme dei punti di raccolta fisici e dei punti di raccolta a distanza; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    punto di raccolta a distanza: il soggetto titolare di concessione per l'esercizio della raccolta del gioco a distanza di uno o piu' giochi pubblici, autorizzato dall'Agenzia delle dogane e dei monopoli alla commercializzazione dei giochi numerici a quota fissa o dei giochi numerici a totalizzatore nazionale ovvero entrambi; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    punto di raccolta fisico: le ricevitorie del Lotto affidate in concessione ai sensi dell'articolo 12 della legge 2 agosto 1982, n. 528 per la raccolta del gioco del Lotto e degli altri giochi numerici a quota fissa, nonche' i punti di vendita dei giochi numerici a totalizzatore nazionale; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    raccolta: l'ammontare complessivo degli importi delle giocate in un determinato concorso; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    raccolta a distanza: la modalita' di raccolta di gioco con partecipazione a distanza effettuata attraverso gli strumenti messi a disposizione da un concessionario del gioco a distanza; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    raccolta fisica: la modalita' di raccolta di gioco effettuata attraverso i punti di raccolta fisici; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    sistema del concessionario: il sistema informatico del concessionario, composto da hardware e software, che gestisce e garantisce il funzionamento del gioco, ivi compresa la casualita' delle estrazioni; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    terminale: l'apparecchiatura elettronica che consente l'accettazione del gioco presso il punto di raccolta fisico, la stampa delle ricevute di gioco nonche' la convalida e il pagamento delle vincite per gli importi pagabili presso i punti di raccolta fisici; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    vincita: l'importo totale cui il giocatore ha diritto a seguito della verifica della corrispondenza totale o parziale, con una stessa giocata, o della non corrispondenza, anche dal punto di vista della posizione dei numeri, tra la combinazione e la combinazione vincente.
 
 ## Art. 3. — Basi numeriche
 
@@ -74,6 +232,52 @@ La raccolta a distanza avviene attraverso l'accesso del giocatore sul sito ovver
 
 ## Art. 7. — Tipologia di giocate
 
+1.
+                        
+                            
+                                Le giocate possono essere delle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    giocata singola: la giocata che riporta le combinazioni scelte dal giocatore senza alcuna elaborazione matematica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    giocata sistemistica: la giocata generata dallo sviluppo matematico del pronostico, dal quale deriva la pluralita' delle combinazioni pronosticate, nei limiti previsti dalla disciplina specifica della singola formula di gioco; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    giocata a caratura: la giocata organizzata ed effettuata, sotto la propria responsabilita', dal concessionario o dal titolare del punto di raccolta fisico o a distanza, derivante dalla suddivisione di una giocata sistemistica in quote di uguale valore, denominate cedole di caratura, acquistabili separatamente, anche attraverso il coinvolgimento del giocatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    giocata in abbonamento: la giocata che riporta un pronostico valevole per un numero predeterminato di concorsi futuri e immediatamente consecutivi fra loro, con addebito immediato della posta di gioco complessiva per tutti i concorsi di riferimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    giocata su prenotazione: la giocata che riporta un pronostico valevole per un numero predeterminato di concorsi futuri, non consecutivi, con addebito immediato della posta di gioco complessiva per tutti i concorsi di riferimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    giocata in sottoscrizione: la giocata, effettuata esclusivamente attraverso la raccolta a distanza, che riporta un pronostico, valevole per un numero predeterminato di concorsi futuri e immediatamente consecutivi fra loro, con addebito della posta di gioco sul conto di gioco per ogni singolo concorso.
+
 La giocata, in aggiunta ai numeri pronosticati, puo' riportare altri numeri, caratteri alfabetici o simboli, anche celati attraverso un codice bidimensionale o altro idoneo meccanismo, generati casualmente dal sistema senza pagamento di ulteriore posta di gioco, che consentono eventuali vincite sulla base di ulteriori estrazioni.
 
 La giocata puo' riportare, altresi', caratteri alfabetici o simboli, anche celati attraverso un codice bidimensionale o altro idoneo meccanismo, in ogni caso abbinati a numeri, anche attraverso un meccanismo di generazione casuale, con pagamento di ulteriore posta di gioco, che consentono eventuali vincite sulla base di ulteriori estrazioni.
@@ -82,6 +286,123 @@ La giocata puo' riportare, altresi', caratteri alfabetici o simboli, anche celat
 
 Nel caso di raccolta fisica, il titolo comprovante l'avvenuta giocata e legittimante il reclamo dell'eventuale vincita e' la ricevuta di gioco, in originale, rilasciata dal terminale, secondo la disciplina di riferimento di ogni singolo gioco.
 
+2.
+                        
+                            
+                                La ricevuta di gioco mediante raccolta fisica deve contenere necessariamente i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero del concorso e/o la data di estrazione del concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il codice identificativo del punto di raccolta fisico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il codice identificativo del terminale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il codice univoco o il numero progressivo attribuito alla giocata direttamente dal sistema del concessionario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data e l'ora di accettazione della giocata; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il pronostico effettuato e la posta di gioco complessiva; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le combinazioni e, ove possibile nel caso di giocata sistemistica, lo sviluppo di tutte le combinazioni con indicazione del relativo importo della posta di gioco; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i codici di controllo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il logo dell'Agenzia delle dogane e dei monopoli, relativo al gioco legale e responsabile; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    la denominazione e/o il logo del gioco; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    in caso di giocata a caratura, oltre ai dati di cui alle lettere da a) a j), anche il numero totale delle cedole di caratura di cui si compone la giocata, l'importo complessivo della giocata, nonche', per le singole cedole, il numero identificativo e l'importo della singola cedola a caratura.
+
+3.
+                        
+                            
+                                Qualora la ricevuta di gioco sia rilasciata a seguito di giocata in abbonamento e il sistema non consenta il rilascio di singole ricevute di gioco, la medesima deve contenere, oltre ai dati di cui al comma 2, anche i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'importo complessivo della giocata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il riferimento al primo e all'ultimo numero dei concorsi in abbonamento.
+
+4.
+                        
+                            
+                                Qualora la ricevuta di gioco sia rilasciata a seguito di giocata su prenotazione e il sistema non consenta il rilascio di singole ricevute di gioco, la medesima deve contenere, oltre ai dati di cui al comma 2, anche i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'importo complessivo della giocata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il riferimento al numero di tutti i concorsi in prenotazione.
+
 Nel caso di raccolta a distanza, la giocata si considera avvenuta al momento della registrazione della medesima sul sistema del concessionario, il quale provvede a inviare, in via telematica attraverso il punto di raccolta a distanza, la conferma della giocata e gli elementi di cui al comma 2, lettere a), d), e), f), g), i), j) e k).
 
 ## Art. 9. — Orari di raccolta delle giocate
@@ -89,6 +410,24 @@ Nel caso di raccolta a distanza, la giocata si considera avvenuta al momento del
 La raccolta delle giocate e' consentita nell'arco temporale di riferimento del concorso, variabile per ogni singola formula di gioco.
 
 L'apertura di un concorso per ogni singola formula di gioco avviene nel periodo utile per consentire le varie tipologie di giocate di cui all'articolo 7.
+
+3.
+                        
+                            
+                                La chiusura del concorso deve avvenire prima dell'inizio del periodo necessario a consentire le operazioni preordinate alle estrazioni che non puo' essere inferiore a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    30 minuti prima dell'orario fissato per le estrazioni effettuate tramite urne elettroniche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    15 secondi prima dell'orario fissato per le estrazioni effettuate tramite generatori di numeri casuali.
 
 Le giocate di cui all'articolo 7, comma 1, lettere a), b) e c), possono essere raccolte attraverso i terminali dei punti di raccolta fisici o attraverso i siti dei rivenditori a distanza a partire dall'apertura del concorso di riferimento e fino all'orario di chiusura del medesimo.
 
@@ -178,7 +517,57 @@ Le vincite non riscosse nei termini di cui ai precedenti commi sono versate all'
 
 Modalita' di riscossione
 
+1.
+                        
+                            
+                                La riscossione delle vincite derivate da giocate mediante raccolta fisica avviene, a seconda dell'importo corrispondente, al netto della ritenuta di cui all'articolo 1, comma 734, della legge 27 dicembre 2019, n. 160, secondo una delle seguenti modalita' di richiesta, allegando la ricevuta di gioco integra e in originale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presso un qualunque punto di raccolta fisico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso specifici punti di raccolta fisici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presso un punto di raccolta fisico mediante prenotazione e previa identificazione del vincitore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    presso l'Ufficio premi del concessionario o presso un soggetto dal medesimo designato.
+
 I limiti degli importi per i quali si applicano le modalita' di cui al comma 1 sono definiti dalle determinazioni di indizione delle singole formule di gioco, fermo restando il limite, previsto dalla normativa vigente al momento della richiesta, per il pagamento in contanti.
+
+3.
+                        
+                            
+                                La riscossione delle vincite derivate da giocate mediante raccolta a distanza avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora di importo non superiore a euro 50.000,00, con accredito diretto sul conto di gioco dal quale e' stata emessa la giocata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora di importo superiore a euro 50.000,00, con richiesta da far pervenire al concessionario, allegando il promemoria della giocata e un documento di identificazione.
 
 ## Art. 19. — Custodia delle ricevute di gioco
 
@@ -236,6 +625,31 @@ Il gioco del Lotto e' disciplinato dalla legge 2 agosto 1982, n. 528, dal presen
 
 Gli altri giochi numerici a quota fissa sono i giochi, autonomi rispetto al gioco del Lotto, definiti attraverso determinazioni direttoriali dell'allora Amministrazione autonoma dei monopoli di Stato o dell'Agenzia delle dogane e dei monopoli per i quali l'importo della vincita, conseguita sulla base della disciplina prevista per la singola formula di gioco, sia predeterminato in base ad un moltiplicatore prefissato.
 
+2.
+                        
+                            
+                                Tra i giochi di cui al comma 1 sono annoverati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il «10eLotto», introdotto con determinazione direttoriale 13 luglio 2009; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il «MillionDay», introdotto con determinazione direttoriale del 26 gennaio 2018; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ulteriori formule di gioco le cui caratteristiche sono determinate ai sensi dell'articolo 23.
+
 ## Art. 27. — Giochi opzionali e complementari
 
 Le formule di gioco opzionali e complementari al gioco del Lotto e agli altri giochi numerici a quota fissa sono definite attraverso determinazioni direttoriali dell'allora Amministrazione autonoma dei monopoli di Stato o dell'Agenzia delle dogane e di monopoli, secondo le quali la giocata, comunque facoltativa, non puo' essere effettuata autonomamente ma solo in collegamento ad una giocata al gioco del Lotto o agli altri giochi numerici a quota fissa.
@@ -243,6 +657,46 @@ Le formule di gioco opzionali e complementari al gioco del Lotto e agli altri gi
 Le formule di gioco opzionali e complementari possono essere gratuite o con pagamento di una posta aggiuntiva rispetto a quella fissata per il gioco del Lotto o per gli altri giochi numerici a quota fissa, prevedendo comunque l'attribuzione di vincite.
 
 Ai fini della indizione di quanto previsto al comma 2, l'Agenzia delle dogane e dei monopoli tiene conto dell'impatto stimato della raccolta successiva, calcolato su base quantomeno biennale, e del potenziale effetto positivo sugli utili erariali che l'introduzione di tale formula si presume abbia rispetto alle vincite da attribuire con la medesima.
+
+4.
+                        
+                            
+                                Tra le formule di gioco di cui al comma 1 sono annoverati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il gioco del Lotto: 
+ 1. «Simbolotto», disciplinato con determinazione direttoriale del 9 luglio 2019; 
+ 2. «Numero Oro», gioco del Lotto disciplinato con determinazione direttoriale del 29 maggio 2024; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il «10eLotto»: 
+ 1. «Numero Oro», disciplinato con determinazione direttoriale del 19 giugno 2014; 
+ 2. «Doppio Oro», disciplinato con determinazione direttoriale del 19 settembre 2021; 
+ 3. «Extra», disciplinato: 
+ 3.1 per la modalita' con estrazione a intervallo di tempo, con determinazione direttoriale del 28 luglio 2020; 
+ 3.2 per la modalita' con estrazione immediata e legata alle estrazioni del gioco del Lotto, con determinazione direttoriale dell'8 ottobre 2021; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il «MillionDay»: 
+ 1. «Extra», disciplinato con determinazione direttoriale del 4 marzo 2022; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ulteriori formule di gioco le cui caratteristiche sono determinate ai sensi dell'articolo 23.
 
 ## Art. 28. — Commissioni di vigilanza e di controllo
 
@@ -272,6 +726,45 @@ Il gioco del SuperEnalotto, introdotto dal decreto direttoriale dell'allora Ammi
 
 Gli altri giochi numerici a totalizzatore nazionale sono i giochi, autonomi rispetto al gioco del SuperEnalotto, definiti attraverso determinazioni direttoriali dell'allora Amministrazione autonoma dei monopoli di Stato o dell'Agenzia delle dogane e dei monopoli, per i quali l'importo delle singole vincite, conseguite sulla base della disciplina prevista per la singola formula di gioco, e' ordinariamente determinato in base alla ripartizione in parti uguali del montepremi di categoria di vincita.
 
+2.
+                        
+                            
+                                Tra i giochi di cui al comma 1 sono annoverati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il «SiVinceTutto SuperEnalotto», introdotto con decreto direttoriale del 20 ottobre 2011 e regolamentato con decreto direttoriale del 17 novembre 2015; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il «Vinci per la Vita - Win for Life», introdotto con decreto direttoriale del 16 settembre 2009 e disciplinato con decreto direttoriale del 9 maggio 2014; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'«Eurojackpot», introdotto con decreto direttoriale del 16 marzo 2012 e disciplinato con determinazione direttoriale dell'11 febbraio 2022; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il «Play Your Date», introdotto e disciplinato con determinazione direttoriale del 3 aprile 2023; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ulteriori formule di gioco le cui caratteristiche sono determinate ai sensi dell'articolo 23.
+
 ## Art. 32. — Giochi opzionali e complementari
 
 Le formule di gioco opzionali e complementari ai giochi numerici a totalizzatore nazionale sono definite attraverso determinazioni direttoriali dell'allora Amministrazione autonoma dei monopoli di Stato o dell'Agenzia delle dogane e di monopoli, secondo le quali la giocata, comunque facoltativa, non puo' essere effettuata autonomamente, ma solo in collegamento ad una giocata al gioco del SuperEnalotto o agli altri giochi numerici a totalizzatore nazionale.
@@ -279,6 +772,24 @@ Le formule di gioco opzionali e complementari ai giochi numerici a totalizzatore
 Le formule di gioco opzionali e complementari possono essere gratuite o con pagamento di una posta aggiuntiva rispetto a quella fissata per il gioco del SuperEnalotto o per gli altri giochi numerici a totalizzatore nazionale, prevedendo comunque l'attribuzione di vincite.
 
 Ai fini della indizione delle formule di gioco di cui al comma 2, l'Agenzia delle dogane e dei monopoli tiene conto dell'impatto stimato della raccolta successiva, calcolato su base quantomeno biennale, e del potenziale effetto positivo sugli utili erariali che l'introduzione di tale formula si presume abbia rispetto alle vincite da attribuire con la medesima.
+
+4.
+                        
+                            
+                                Tra le formule di gioco di cui al comma 1 sono annoverati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il «SuperStar», introdotto con decreto direttoriale dell'11 giugno 2009 e disciplinato con decreto direttoriale del 16 novembre 2015; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ulteriori formule di gioco le cui caratteristiche sono determinate ai sensi dell'articolo 23.
 
 ## Art. 33. — Commissioni di vigilanza e di controllo
 
@@ -309,6 +820,24 @@ In tutti i casi di utilizzo di fondi o di anticipi ai sensi del comma 5, il conc
 ## Art. 35. — Vincite straordinarie
 
 Ai fini della redistribuzione ai giocatori di una quota percentuale del montepremi confluito nei fondi di ciascuna formula di gioco, possono essere previste vincite straordinarie con provvedimento direttoriale dell'Agenzia delle dogane e dei monopoli.
+
+2.
+                        
+                            
+                                La redistribuzione di cui al comma 1 puo' essere prevista purche' siano verificati i seguenti presupposti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia garantita una giacenza minima dei fondi dai quali prelevare la quota necessaria, secondo i criteri stabiliti, per ciascuna formula di gioco, con provvedimenti direttoriali dell'Agenzia delle dogane e dei monopoli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare dei fondi dai quali prelevare la quota necessaria raggiunga un livello per il quale si reputi opportuna la redistribuzione.
 
 Le vincite straordinarie possono essere previste, con ogni singolo provvedimento, per un numero massimo di 20 concorsi e devono, per le modalita' di riassegnazione, garantire la finalita' perseguita attraverso la previsione di un numero limitato di vincite di importo elevato, pari al massimo a euro 1.000.000,00, rispetto al numero di vincite di basso importo, non inferiore, in ogni caso, a euro 1.000,00.
 

@@ -8,8 +8,8 @@ codice_redazionale: 098G0059
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,6 +46,31 @@ Ai candidati e' data facolta' di sostenere la prova prevista per la sessione spe
 Le commissioni giudicatrici della sessione speciale degli esami di abilitazione all'esercizio della professione di tecnologo alimentare sono nominate con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica e sono composte dal presidente e da quattro membri.
 
 Il presidente viene nominato tra i professori universitari ordinari, straordinari, associati, anche fuori ruolo o a riposo di discipline afferenti alla scienza e alla tecnologia alimentare.
+
+3.
+                    
+                        
+                            I membri vengono prescelti da quattro terne designate dal Consiglio universitario nazionale e composte da persone appartenenti alle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                professori universitari ordinari, straordinari, associati, anche fuori ruolo e a riposo di discipline afferenti alla scienza e alla tecnologia alimentare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                funzionari, che abbiano svolto per almeno dieci anni mansioni direttive in enti ed amministrazioni pubbliche con competenza nei settori di controllo e ispezione, ricerca, assistenza e formazione in campo alimentare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dirigenti di industrie alimentari, industrie produttrici di macchine o prodotti per le industrie alimentari, servizi di ristorazione collettiva, organizzazioni commerciali per la distribuzione e la vendita di prodotti alimentari.
 
 Non potendosi prevedere una terna di liberi professionisti iscritti all'albo, la quarta terna dovra' contenere nominativi di professori universitari.
 

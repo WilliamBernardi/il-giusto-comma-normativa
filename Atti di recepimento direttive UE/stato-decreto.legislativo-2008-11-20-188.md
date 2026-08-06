@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-03-07
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -299,4 +299,64 @@ Acquisito il parere delle competenti Commissioni della Camera dei deputati e del
  Il D.L. 10 febbraio 2026, n. 29, ha disposto (con l'art. 37, comma 1) che "A decorrere dalla data di entrata in vigore del presente decreto, il decreto legislativo 20 novembre 2008, n. 188, a eccezione dell'articolo 29, e' abrogato, salvo quanto stabilito all'articolo 35, commi 1, 2 e 3 e alle lettere seguenti [...]".
 
 ## Art. 29. — Abrogazioni
+
+1.
+                    
+                        
+                            A decorrere dalla data di entrata in vigore del presente decreto, sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto del Ministro della sanita' in data 20 marzo 1997, recante «Recepimento della direttiva del Consiglio del 18 marzo 1991, n. 91/157/CEE, relativa a pile e accumulatori contenenti sostanze pericolose», pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 170 del 23 luglio 1997; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Ministro delle attivita' produttive 3 luglio 2003, n. 194, recante «Regolamento concernente l'attuazione della direttiva 98/101/CE del 22 dicembre 1998 della Commissione, che adegua al progresso tecnico la direttiva 91/157/CEE del Consiglio relative alle pile ed agli accumulatori contenenti sostanze pericolose»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 15, comma 3, del decreto legislativo 25 luglio 2005, n. 151; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 9-quinquies del decreto-legge 9 settembre 1988, n. 397, convertito, con modificazioni, dalla legge 9 novembre 1988, n. 475, relativo alla raccolta e al riciclaggio delle batterie esauste; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il decreto del Ministro dell'ambiente e della tutela del territorio in data 18 ottobre 2005, pubblicato nella Gazzetta Ufficiale n. 255 del 2 novembre 2005, relativo alla determinazione del sovrapprezzo unitario delle batterie al piombo, previsto dall'articolo 9-quinquies, comma 8, della legge 9 novembre 1988, n. 475; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'articolo 235 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il decreto del Ministro dell'ambiente e della tutela del territorio in data 2 febbraio 2004, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 35 del 12 febbraio 2004, recante approvazione dello statuto Consorzio obbligatorio delle batterie al piombo esauste e dei rifiuti piombosi (COBAT); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il decreto del Ministro dell'ambiente e della tutela del territorio e del mare in data 23 novembre 2007, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 295 del 20 dicembre 2007, recante approvazione dello statuto Consorzio obbligatorio delle batterie al piombo esauste e dei rifiuti piombosi (COBAT).
 

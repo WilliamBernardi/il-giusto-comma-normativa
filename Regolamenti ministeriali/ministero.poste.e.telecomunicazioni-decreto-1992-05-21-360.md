@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1992-10-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,45 @@ Le presenti regole tecniche si riferiscono ad apparecchiature di linea per trasm
 
 Le apparecchiature devono essere progettate per poter trasmettere e ricevere un segnale numerico a velocita' di cifra di 704 kbit/s, oppure un segnale a velocita' di cifra di 2048 kbit/s, o infine un segnale a velocita' di cifra di 2 x 2048 kbit/s.
 
+2.
+                    
+                        
+                            Le apparecchiature devono essere corredate dalla seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                manuale d'istruzione con eventuali prescrizioni di sicurezza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                schemi circuitali ed a blocchi con relative indicazioni dei valori delle grandezze elettriche e dei livelli del segnale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                valori e caratteristiche dei componenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                descrizione dettagliata di funzionamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                caratteristiche di alimentazione.
+
 ## Art. 3. — Banda di radiofrequenza
 
 La banda di radiofrequenza utilizzata e' quella relativa ad un senso di trasmissione.
@@ -54,6 +93,41 @@ Il distanziamento di frequenza tra portanti in trasmissione e ricezione dello st
 La canalizzazione a radiofrequenza e' riportata nella allegata fig. 1.
 
 ## Art. 6. — Banda base
+
+1.
+                    
+                        
+                            Le caratteristiche della banda base sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                velocita' di trasmissione:
+ 704 kbit/s (Piu' o Meno) 50 ppm (parte per milione);
+ 2048 kbit/s (Piu' o Meno) 50 ppm;
+ 2 x 2048 kbit/s (Piu' o Meno) 50 ppm;
+
+                            
+                        
+                        
+                            b)
+                            
+                                codice HDB3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                impedenza 120 ohm bilanciati o 75 ohm sbilanciati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                livelli: deve essere accettato un segnale numerico avente livello nominale di picco 3 V su 120 ohm o 2,37 V su 75 ohm ed anche se attenuato fino a 6 dB alle frequenze di 352 kHz (per il 704 kbit/s), 1024 kHz (per il 2048 kbit/s e per il 2 x 2048 kbit/s) per la presenza dei cavi di interconnessione, per i quali si assume una caratteristica attenuazione/frequenza secondo la legge V f.
 
 L'apparato deve essere dotato di un dispositivo che rende casuale la sequenza dei bit e che ripristina la sequenza primitiva dei bit (scrambler/descrambler) operante sul segnale di banda base atto ad eliminare eventuali sequenze periodiche presenti sul segnale stesso.
 
@@ -113,4 +187,14 @@ Il guadagno riferito al radiatore isotropo per qualsiasi frequenza della gamma 2
 Il valore di attenuazione del segnale a polarizzazione incrociata (XPD) nella direzione assiale dell'antenna deve essere superiore a 25 dB.
 
 ## Art. 12. — Circolazione delle apparecchiature
+
+1.
+                    
+                        
+                            Ai fini della libera circolazione delle apparecchiature, oggetto delle presenti regole tecniche, nell'ambito dei Paesi della Comunita' europea, vengono accettati i certificati di conformita' basati su specifiche nazionali di un altro Stato membro, o su parti di tali specifiche, per la parte compatibile con le presenti regole. Le prove di conformita' alle regole vengono riconosciute se effettuate in uno qualsiasi degli Stati membri della Comunita'. Le apparecchiature fabbricate o commercializzate legalmente negli altri Stati della CEE vanno considerate equivalenti a quelle nazionali se rispettano le presenti regole. Per le apparecchiature corredate da certificati di conformita' o di omologazioni per prescrizioni difformi da quelle riportate nelle presenti regole, verranno effettuate in Italia le sole prove non coperte da detti certificati. La documentazione a corredo delle apparecchiature potra' essere redatta in lingua italiana o in lingua francese, inglese, spagnolo, eccetto che per il manuale di cui al punto 
+                        
+                        
+                            a)
+                            
+                                dell'art. 2, comma 2 per il quale si richiede la lingua italiana.
 

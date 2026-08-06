@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2001-08-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -263,6 +263,29 @@ La tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982,
 ## Art. 5.
 
 Le disposizioni del Titolo I - Capi I, II e III del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, concernente l'ordinamento del personale della Polizia di Stato che espleta attivita' tecnico-scientifica o tecnica, sono modificate a norma dei seguenti commi.
+
+2.
+                        
+                            
+                                Il primo comma dell'art. 1, e' cosi' modificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole "di equipaggiamento ed accasermamento," sono sostituite dalle seguenti: "di equipaggiamento, di accasermamento,";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i numeri 1), 2), 3), 4), 5) e 6) sono sostituiti dai seguenti:
+ "1) ruolo degli operatori e collaboratori tecnici;
+ 2) ruolo dei revisori tecnici;
+ 3) ruolo dei periti tecnici;
+ 4) ruolo dei direttori tecnici;
+ 5) ruolo dei dirigenti tecnici.".
 
 All'art. 1, terzo comma, le parole "i profili professionali degli appartenenti ai ruoli degli operatori, collaboratori, dei revisori, dei periti" sono sostituite dalle seguenti: "i profili professionali degli appartenenti ai ruoli degli operatori e collaboratori, dei revisori, dei periti".
 
@@ -559,6 +582,38 @@ Il personale inquadrato ai sensi del presente articolo conserva, anche ai fini d
 
 ## Art. 13.
 
+1.
+                        
+                            
+                                Il personale del ruolo degli ispettori e dei sovrintendenti di cui al decreto del Presidente della Repubblica 24 aprile 1982, n. 335, in servizio alla data di entrata in vigore del presente decreto e' inquadrato in ordine di qualifica e di ruolo, anche in sovrannumero riassorbibile con le normali vacanze, nelle sottoelencate qualifiche del ruolo degli ispettori, istituito con il presente decreto, conservando, se piu' favorevole, il trattamento economico in godimento:
+ 
+                            
+                            
+                                a)
+                                
+                                    nella qualifica di ispettore superiore-sostituto ufficiale di pubblica sicurezza, gli ispettori capo e gli appartenenti al ruolo degli ispettori provenienti dai sottufficiali del disciolto Corpo delle guardie di pubblica sicurezza, in possesso di un'anzianita' di servizio nel predetto ruolo dei sottufficiali non inferiore a cinque anni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella qualifica di ispettore capo il personale che riveste la qualifica di ispettore principale e di ispettore, nonche' il personale appartenente al ruolo degli ispettori proveniente dai sottufficiali del disciolto Corpo delle guardie di pubblica sicurezza, non compreso nella lettera a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella qualifica di ispettore, il personale che riveste la qualifica di vice ispettore non compreso nelle lettere precedenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nella qualifica di vice ispettore, il personale che riveste la qualifica di sovrintendente e vice sovrintendente.
+
 Il personale di cui alla lettera b) che riveste la qualifica di ispettore principale conserva, ai fini della progressione nella qualifica di ispettore superiore, quattro anni della anzianita' complessiva maturata nella qualifica di ispettore, nonche' quattro quinti di quella maturata nella qualifica di ispettore principale; quello che riveste la qualifica di ispettore mantiene quattro quinti dell'anzianita' maturata nella qualifica. Il personale che riveste la qualifica di vice ispettore, inquadrato ai sensi della lettera c) del comma 1, matura l'anzianita' per la promozione alla qualifica di ispettore capo, al compimento del quinto anno di effettivo servizio nella qualifica di inquadramento, conservando l'anzianita' maturata nel ruolo degli ispettori prima dell'entrata in vigore del presente decreto.
 
 Fermo restando quanto previsto dal comma 2, per il personale di cui alla lettera b) e c) del comma 1, il periodo di anzianita' residuo per l'ammissione agli scrutini di promozione, rispettivamente, ad ispettore superiore ad ispettore capo, e' ridotto di un quinto.
@@ -566,6 +621,24 @@ Fermo restando quanto previsto dal comma 2, per il personale di cui alla lettera
 Il personale di cui alla lettera d) del comma 1, ai fini dell'ammissione allo scrutinio di promozione alla qualifica di ispettore conserva l'anzianita' posseduta nel ruolo dei sovrintendenti per un massimo di due anni; ai fini dell'ammissione allo scrutinio di promozione alla qualifica di ispettore capo, la permanenza minima nella qualifica di ispettore e' ridotta di due anni.
 
 ## Art. 14.
+
+1.
+                        
+                            
+                                Per un periodo di quattro anni dalla data di entrata in vigore del presente decreto la promozione alla qualifica di ispettore superiore-sostituto ufficiale di pubblica sicurezza si consegue, anche in soprannumero:
+ 
+                            
+                            
+                                a)
+                                
+                                    secondo le modalita' previste dall'art. 31-bis, lettera a);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per contingenti di 1000 posti l'anno, previa selezione alla quale e' ammesso il personale che riveste la qualifica di ispettore capo che ne faccia domanda. Con decreto del Ministro dell'interno sono fissati i criteri di selezione, tenuto conto dei precedenti di servizio e dei titoli eventualmente conseguiti, nonche' la composizione della commissione che procedera' alla selezione.
 
 Alla selezione di cui al comma 1 puo' partecipare il personale ivi indicato che, nei tre anni precedenti, non abbia riportato sanzioni disciplinari pari o piu' gravi della deplorazione ed abbia riportato un giudizio non inferiore a "buono".
 
@@ -654,6 +727,24 @@ Si applicano, in quanto compatibili, le disposizioni dell'art.
                              Il D.Lgs. 28 febbraio 2001, n. 53 ha disposto (con l'art. 14, comma 1) che "I ruoli ad esaurimento degli ispettori e dei periti tecnici di cui agli articoli 15 e 19 del decreto legislativo 12 maggio 1995, n. 197 sono soppressi".
 
 ## Art. 20.
+
+1.
+                        
+                            
+                                Il personale del ruolo degli esecutori della banda musicale della Polizia di Stato, in servizio alla data di entrata in vigore del presente decreto e' inquadrato secondo l'ordine di ruolo e di qualifica, anche in soprannumero riassorbibile con le vacanze ordinarie, nelle sottoelencate qualifiche del ruolo degli orchestrali, istituito con il presente decreto conservando, se piu' favorevole, il trattamento economico in godimento:
+ 
+                            
+                            
+                                a)
+                                
+                                    nella qualifica di orchestrale perito tecnico superiore, gli esecutori della prima parte A e B, nonche' gli esecutori della seconda parte A e B con una anzianita' nella parte non inferiore a otto anni e gli esecutori della terza parte A e B con una anzianita' nella parte non inferiore a quindici anni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella qualifica di orchestrale perito tecnico capo, gli esecutori della seconda parte A e B e gli esecutori della terza parte A e B non compresi nella lettera a).
 
 Ai fini della progressione in carriera, le anzianita' di servizio nelle qualifiche di ruolo degli esecutori sono valutate secondo le disposizioni previste dall'art. 14 del presente decreto, in quanto compatibili.
 

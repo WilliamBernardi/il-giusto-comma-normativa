@@ -8,8 +8,8 @@ codice_redazionale: 008G0051
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,45 @@ e la specializzazione dei dirigenti della pubblica amministrazione locale
 
 La Scuola superiore per la formazione e la specializzazione dei dirigenti della pubblica amministrazione locale, di seguito denominata: «Scuola», prevista dall'articolo 104 del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, di seguito denominata: «legge», e' disciplinata dalle disposizioni del presente regolamento.
 
+2.
+                    
+                        
+                            La Scuola, in attuazione degli obiettivi strategici indicati dal Consiglio nazionale di amministrazione dell'Agenzia autonoma per la gestione dell'albo dei segretari comunali e provinciali, di seguito denominato «Consiglio», e nel rispetto degli indirizzi annuali e triennali per l'attivita' amministrativa e la gestione dallo stesso consiglio fissati in relazione al prevedibile andamento delle risorse finanziarie, cura:
+ 
+                        
+                        
+                            a)
+                            
+                                la formazione professionale dei segretari comunali e provinciali ai fini del rilascio dell'abilitazione all'iscrizione al relativo albo, nonche' lo svolgimento dei corsi di specializzazione e delle relative prove selettive per il conseguimento della idoneita' a segretario generale previsti dall'articolo 14 del decreto del Presidente della Repubblica 4 dicembre 1997, n. 465;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il perfezionamento e l'aggiornamento professionale dei segretari comunali e provinciali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la formazione d'accesso alla qualifica dirigenziale, l'aggiornamento professionale ed il perfezionamento del personale della pubblica amministrazione locale che svolge funzioni dirigenziali e direttive, nonche' lo svolgimento di corsi e seminari di aggiornamento e riqualificazione destinati ai dirigenti e al personale in servizio presso gli enti locali il cui Consiglio sia stato sciolto ai sensi dell'articolo 143 del decreto legislativo 18 agosto 2000, n. 267 o per i quali sia intervenuta dichiarazione di dissesto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                lo svolgimento di percorsi formativi per gli amministratori locali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'assistenza tecnica in materia di formazione al sistema delle autonomie locali, nonche' l'elaborazione, anche su incarico del Ministro per gli affari regionali e le autonomie locali, di studi e ricerche a sostegno della funzione di governo delle comunita' rappresentate per la piena valorizzazione del principio di pari ordinazione e di sussidiarieta'.
+
 La Scuola puo' stipulare convenzioni con Paesi appartenenti all'Unione europea ai fini della formazione dei dirigenti nel campo della cooperazione europea e della gestione dei fondi strutturali.
 
 Le attivita' formative di cui al comma 2, lettere c) e d), sono svolte d'intesa con il Ministero dell'interno.
@@ -50,7 +89,92 @@ I membri del comitato sono nominati dal presidente dell'Agenzia autonoma per la 
 
 Ai cinque componenti del comitato e' attribuito, per ogni seduta alla quale partecipano, un gettone di presenza stabilito dal Consiglio. La misura di tale gettone di presenza non puo' comunque superare l'ottanta per cento di quello spettante ai componenti del Consiglio.
 
+4.
+                    
+                        
+                            Sono demandati al comitato, nei limiti delle risorse finanziarie assegnate dal Consiglio:
+ 
+                        
+                        
+                            a)
+                            
+                                la programmazione della attivita' didattica della Scuola attraverso la deliberazione, su proposta del direttore, del piano generale della formazione, con il connesso piano finanziario, recante la attuazione degli indirizzi annuali e triennali e degli obiettivi strategici e gestionali definiti dal Consiglio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la definizione dei piani di studio per i corsi di abilitazione e di formazione, nonche' la definizione dei criteri e delle modalita' di svolgimento delle prove di esame;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la formulazione del parere sulle convenzioni di cui all'articolo 7, commi 3 e 4;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la verifica della conformita' ai programmi di cui alla lettera a) delle attivita' didattiche espletate;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la valutazione della qualita' e dei risultati dell'attivita' formativa anche mediante gli organismi di cui all'articolo 2, comma 138, e seguenti, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286.
+
 ## Art. 4. — Direttore e vicedirettori
+
+1.
+                    
+                        
+                            Il direttore della Scuola:
+ 
+                        
+                        
+                            a)
+                            
+                                propone al comitato lo schema del piano generale della formazione, con il connesso piano finanziario, da svolgere, direttamente o a mezzo di convenzioni, nel corso dell'anno successivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicura, in conformita' agli obiettivi indicati dal Consiglio, l'organizzazione ed il funzionamento della Scuola ed, in particolare, lo svolgimento dell'attivita' didattica secondo gli atti di programmazione del comitato, adottando i provvedimenti necessari alla loro attuazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cura i rapporti della Scuola con gli organi dell'Agenzia e le relazioni esterne di rilievo istituzionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                coordina le strutture territoriali della Scuola e verifica il rispetto, da parte delle stesse, delle disposizioni relative allo svolgimento delle attivita' formative;
+
+                            
+                        
+                        
+                            e)
+                            
+                                stipula, sentito il comitato, le convenzioni di cui all'articolo 7, commi 3 e 4, e adotta i provvedimenti necessari alla loro attuazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolge tutte le attivita' non espressamente attribuite alla competenza di altri soggetti.
 
 Nello svolgimento delle attivita' di cui al comma 1 il direttore e' coadiuvato, qualora nominati, da non piu' di due vice direttori che operano secondo le direttive dallo stesso impartite e adottano gli atti ad essi delegati.
 

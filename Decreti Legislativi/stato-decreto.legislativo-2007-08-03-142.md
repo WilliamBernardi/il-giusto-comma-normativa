@@ -8,8 +8,8 @@ codice_redazionale: 007G0156
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,38 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli 
 Le funzioni amministrative in materia di catasto terreni e di catasto edilizio urbano sono esercitate dalla Regione e dagli enti locali della Valle d'Aosta. La legge regionale provvede all'allocazione delle funzioni tra gli enti locali, salve quelle da esercitarsi direttamente dalla Regione sulla base delle esigenze di adeguatezza e unitarieta'.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Le funzioni amministrative di cui all'articolo 1, comma 1, concernono:
+ 
+                        
+                        
+                            a)
+                            
+                                la conservazione, l'utilizzazione e l'aggiornamento degli atti del catasto terreni e del catasto edilizio urbano, nonche', anche su iniziativa dell'Amministrazione finanziaria statale e comunque d'intesa con quest'ultima, la revisione degli estimi e del classamento, ferma l'applicazione della disciplina generale sulla materia nel caso di mancato raggiungimento dell'intesa nel termine di sessanta giorni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la rilevazione dei consorzi di bonifica e degli oneri consortili gravanti sugli immobili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il rilevamento e l'aggiornamento topografico e la formazione di mappe e di cartografia catastali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'elaborazione di osservazioni geodetiche e l'esecuzione delle compensazioni di reti trigonometriche e di livellazione.
 
 Alle riunioni del comitato direttivo, comunque denominato, dell'Agenzia del territorio o di altro organismo che venisse istituito ai sensi dell'articolo 67 del decreto legislativo 31 marzo 1998, n. 112, partecipano, quando vengono trattate questioni di diretto interesse della Valle d'Aosta, anche rappresentanti della Regione o degli enti locali direttamente interessati.
 

@@ -8,8 +8,8 @@ codice_redazionale: 097G0187
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,24 @@ Acquisiti i pareri delle competenti commissioni permanenti della Camera dei depu
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavoro e della previdenza sociale, di concerto con i Ministri degli affari esteri, di grazia e giustizia, del tesoro e dell'industria, del commercio e dell'artigianato;
 
 ## Art. 1. — Modifiche alla legge 23 luglio 1991, n. 223
+
+1.
+                    
+                        
+                            All'articolo 4, comma 3, della legge 23 luglio 1991, n. 223, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole: "del personale eccedente" sono inserite le seguenti: "nonche' del personale abitualmente impiegato";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo le parole: "del programma medesimo" sono inserite le seguenti: "del metodo di calcolo di tutte le attribuzioni patrimoniali diverse da quelle gia' previste dalla legislazione vigente e dalla contrattazione collettiva".
 
 All'articolo 4, comma 5, della legge 23 luglio 1991, n. 223, e successive modificazioni, sono aggiunti, in fine, i seguenti periodi: "Qualora non sia possibile evitare la riduzione di personale, e' esaminata la possibilita' di ricorrere a misure sociali di accompagnamento intese, in particolare, a facilitare la riqualificazione e la riconversione dei lavoratori licenziati. I rappresentanti sindacali dei lavoratori possono farsi assistere, ove lo ritengano opportuno, da esperti.".
 

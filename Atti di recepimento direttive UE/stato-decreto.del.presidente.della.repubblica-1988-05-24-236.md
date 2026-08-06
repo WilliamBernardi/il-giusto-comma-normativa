@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2006-04-29
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,24 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di
 Il presente decreto stabilisce i requisiti di qualita' delle acque destinate al consumo umano, per la tutela della salute pubblica e per il miglioramento delle condizioni di vita ed introduce misure finalizzate a garantire la difesa delle risorse idriche.
 
 ## Art. 2. — Campo di applicazione
+
+1.
+                    
+                        
+                            Per acque destinate al consumo umano si intendono tutte le acque, qualunque ne sia l'origine, allo stato in cui si trovano o dopo trattamento, che siano: 
+ 
+                        
+                        
+                            a)
+                            
+                                fornite al consumo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ovvero utilizzate da imprese alimentari mediante incorporazione o contatto per la fabbricazione, il trattamento, la conservazione, l'imissione sul mercato di prodotti e sostanze destinate al consumo umano e che possano avere conseguenze per la salubrita' del prodotto alimentare finale.
 
 Restano escluse dal campo di applicazione del presente decreto le acque minerali e termali.
 
@@ -62,9 +80,116 @@ I valori che sono indicati nell'allegato I devono essere interpretati per ciascu
 
 ## Art. 8. — Competenze statali
 
+1.
+                    
+                        
+                            Sono di competenza statale le funzioni concernenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                promozione, consulenza, indirizzo e coordinamento delle attivita' connesse con l'applicazione del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modifiche, le variazioni e le integrazioni degli allegati I, II e III; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la predisposizione e l'aggiornamento dei criteri generali e delle metodologie per il rilevamento delle caratteristiche delle acque dolci sotterranee, salmastre e marine da destinare al consumo umano, nonche' dei criteri per la formazione e l'aggiornamento dei relativi catasti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le norme tecniche per la tutela preventiva e per il risanamento della qualita' delle acque destinate al consumo umano, nonche' i criteri generali per la individuazione delle aree di salvaguardia delle risorse idriche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le norme tecniche per l'installazione degli impianti di acquedotto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le norme tecniche per la potabilizzazione delle acque; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le norme tecniche per lo scavo, perforazione, trivellazione, manutenzione, chiusura e riapertura di pozzi d'acqua; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                acquisizione ed elaborazione di informazioni sulla qualita' delle acque destinate al consumo umano.
+
 Le competenze statali di cui alle lettere a), b), c) e d), sono esercitate dal Ministro della sanita', di concerto con il Ministro dell'ambiente; la competenza di cui alla lettera f) e' esercitata dal Ministro della sanita'; le competenze di cui alle lettere e) e g), sono esercitate dal Ministro dei lavori pubblici, di concerto con i Ministri della sanita' e dell'ambiente.
 
 ## Art. 9. — Competenze regionali
+
+1.
+                    
+                        
+                            Alle regioni competono le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                previsione di misure atte a rendere possibile un approvvigionamento idrico di emergenza per fornire acqua potabile rispondente ai requisiti previsti dall'allegato I, per la quantita' ed il periodo minimi necessari a far fronte a contingenti esigenze locali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esercizio dei poteri sostitutivi, in caso di inerzia degli enti locali, per la salvaguardia delle risorse idriche da destinare al consumo umano; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esercizio del potere di deroga; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                adozione dei piani di intervento per il risanamento ed il miglioramento della qualita' delle acque; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                coordinamento del flusso informativo sulle caratteristiche delle acque destinate al consumo umano, anche ai fini di cui all'art. 
+8, comma 1, lettera h); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                individuazione delle aree di salvaguardia e disciplina delle attivita' e destinazioni ammissibili, salvo il disposto degli articoli 4, 5, 6 e 7.
 
 ## Art. 10. — Frequenze di campionamento e metodi di analisi
 
@@ -72,6 +197,31 @@ Negli allegati II e III sono indicati, rispettivamente, i modeli e le frequenze 
 destinate al consumo umano, nei punti significativi della rete
 
 ## Art. 11. — Controlli
+
+1.
+                    
+                        
+                            Per verificare la buona qualita' delle acque destinate al consumo umano, sono esercitati inoltre controlli periodici: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla sorgente, ai pozzi ed al punto di presa delle acque; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli impianti di adduzione, di accumulo e di potabilizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla rete di distribuzione.
 
 I controlli sono interni al servizio acquedottistico o esterni se effettuati da uffici del Servizio sanitario nazionale.
 
@@ -121,6 +271,24 @@ Per le acque di cui alla lettera b), comma 1, dell'art. 2, si applicano esclusiv
 
 ## Art. 17. — Deroghe
 
+1.
+                    
+                        
+                            Deroghe al presente decreto possono essere disposte dalla regione competente nelle seguenti circostanze: 
+ 
+                        
+                        
+                            a)
+                            
+                                situazioni relative alla natura ed alla struttura dei terreni dell'area della quale e' tributaria la risorsa idrica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                situazioni relative a circostanze meteorologiche eccezionali.
+
 In nessun caso le deroghe di cui al comma 1 possono riguardare i fattori tossici e microbiologici, ne' comportare un rischio per la salute pubblica.
 
 In caso di grave emergenza idrica, ove l'approvvigionamento di acqua non possa essere assicurato in nessun altro modo, puo' essere disposta la deroga alle concentrazioni massime stabilite dal presente decreto nell'allegato I, fino al raggiungimento del valore massimo ammissibile, che e' determinato dall'autorita' sanitaria ai sensi dell'art 16, in modo che tale superamento non presenti assolutamente un rischio inaccettabile per la salute pubblica.
@@ -133,6 +301,52 @@ Le deroghe sono disposte dall'autorita' regionale per un limitato periodo di tem
 
 L'esercizio dei poteri di deroga comporta che, contestualmente alle misure indicate dall'amministrazione statale, la regione adotti il piano di intervento di cui al comma 3.
 
+3.
+                    
+                        
+                            Il piano di intervento deve almeno contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'individuazione della causa del fenomeno di degrado delle risorse idriche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la delimitazione geografica dell'area interessata dal fenomeno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione della popolazione ricadente in tale area; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la fissazione di controlli e divieti per l'uso delle sostanze chimiche o di altra natura che hanno eterminato o accresciuto l'inquinamento delle acque nell'area di cui al punto b); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la definizione degli interventi e delle opere necessarie per garantire l'approvvigionamento, nonche' i tempi di realizzazione del piano e le risorse finanziarie impiegate; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le sanzioni amministrative a carico dei trasgressori.
+
 Nel caso in cui l'inquinamento interessi un bacino interregionale, il piano di risanamento e' adottato di intesa tra le regioni interessate; in mancanza dell'intesa ogni regione provvede per il territorio di propria competenza.
 
 I provvedimenti di deroga devono essere comunicati immediatamente ai Ministeri della sanita' e dell'ambiente.
@@ -142,6 +356,24 @@ I provvedimenti di deroga devono essere comunicati immediatamente ai Ministeri d
 Il termine stabilito per l'osservanza dell'allegato I puo' essere prorogato in presenza di situazioni eccezionali relative a gruppi di abitati geograficamente delimitati.
 
 La proroga e' disposta con decreto del Ministro della sanita', di concerto con il Ministro dell'ambiente, su richiesta dalla regione interessata.
+
+3.
+                    
+                        
+                            La regione richiede la proroga indicandone l'oggetto, le modalita' ed i tempi e presentando: 
+ 
+                        
+                        
+                            a)
+                            
+                                una relazione sulle difficolta' incontrate che identifica in particolare le cause che impediscono l'osservanza dei requisiti di qualita' per le acque necessarie a soddisfare i bisogni di consumo umano degli abitati interessati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il piano per il miglioramento delle acque finalizzato a garantire l'osservanza, alla scadenza della proroga, dell'allegato I.
 
 Il decreto di cui al comma 2 e' adottato, previo espletamento della procedura comunitaria prevista dall'art. 20 della direttiva.
 

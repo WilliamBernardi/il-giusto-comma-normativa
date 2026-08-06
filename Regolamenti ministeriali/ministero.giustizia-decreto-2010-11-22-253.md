@@ -8,8 +8,8 @@ codice_redazionale: 011G0022
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,9 +41,105 @@ L'Autorita' competente per l'attuazione dell'articolo 8 - paragrafi 3 e 5 - rela
 
 ## Art. 3. — Procedure per l'attuazione
 
+1.
+                    
+                        
+                            Per l'attuazione dell'articolo 8, parr. 3 e 5 dell'Accordo SOFA - UE, l'Autorita' nazionale competente ai sensi dell'articolo 2, su richiesta di un'autorita' competente o un organo giudiziario di un Paese membro, che ritengano che si sia verificato un abuso dell'immunita' concessa a norma dell'articolo 8, paragrafo 3, provvede a: 
+ 
+                        
+                        
+                            a)
+                            
+                                accertare la sussistenza di tale abuso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare che l'eventuale sospensione non pregiudichi gli interessi dell'Unione Europea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivare, anche avvalendosi del Ministero degli affari esteri, le procedure di consultazione di cui all'articolo 8, par. 5, dell'Accordo SOFA - UE.
+
 Le attivita' di cui al comma 1 implicano una valutazione della condotta del soggetto alla luce delle specifiche mansioni attinenti all'incarico ricoperto, in coordinamento con l'istituzione di impiego dell'Unione europea.
 
 ## Art. 4. — Modalita' di attuazione
+
+1.
+                    
+                        
+                            Al ricevimento, da parte di un'autorita' competente o di un organo giudiziario di un Paese membro, della segnalazione di un abuso da parte del militare o del personale civile dell'immunita' di giurisdizione concessa a norma dell'articolo 8, par. 3 dell'Accordo SOFA - UE, l'autorita' che ha disposto l'impiego del dipendente e la pertinente istituzione dell'UE: 
+ 
+                        
+                        
+                            a)
+                            
+                                acquisiscono tutte le informazioni necessarie in possesso del segnalante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                effettuano una prima verifica, anche documentale, dell'eventuale superamento dei limiti di copertura della su citata immunita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                accertano se il mantenimento dell'immunita' costituisca effettivo impedimento agli ulteriori adempimenti di giustizia; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                verificano che l'eventuale sospensione dell'immunita' non arrechi pregiudizio agli interessi dell'Unione europea.
+
+2.
+                    
+                        
+                            Esperiti gli adempimenti di cui al comma 1 ed esaurite le procedure di consultazione di cui all'articolo 3, comma 1, che costituiscono la fase istruttoria della procedura di sospensione dell'immunita', il Ministro adotta la propria decisione dandone contestuale comunicazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                al diretto interessato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al responsabile dell'ente da cui direttamente dipende; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla pertinente organizzazione dell'Unione Europea; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla autorita' giudiziaria procedente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al Ministro della giustizia.
 
 Nel caso previsto dall'articolo 8, par. 6, dell'Accordo SOFA - UE, il Ministro competente trasmette tutta la documentazione raccolta e i provvedimenti adottati alla istituzione dell'UE competente per la composizione della controversia.
 

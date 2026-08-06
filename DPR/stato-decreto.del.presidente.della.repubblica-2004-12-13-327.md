@@ -8,8 +8,8 @@ codice_redazionale: 005G0016
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:03Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,31 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 Sulla proposta del Ministro delle infrastrutture e dei trasporti;
 
 ## Art. 1. — Modifiche al comma 1 dell'Appendice I - Articolo 9 al Titolo I del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e successive modificazioni
+
+1.
+                    
+                        
+                            Al comma 1 dell'Appendice I - articolo 9 al Titolo I del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b.3), le parole: "40 km/h", sono sostituite dalle seguenti: "62,5 km/h";
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera c.2.2), le parole: "40 km/h", sono sostituite dalle seguenti: "62,5 km/h";
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera c.2.3), le parole: "25 km/h", sono sostituite dalle seguenti: "40 km/h".
 
 ## Art. 2. — Adeguamento del parco di veicoli circolanti
  ai nuovi regimi di velocita'

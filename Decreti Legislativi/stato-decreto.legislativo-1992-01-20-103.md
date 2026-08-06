@@ -8,8 +8,8 @@ codice_redazionale: 092G0132
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -59,7 +59,73 @@ I certificati attestanti la natura e la durata delle attivita' previste dalle ta
 
 La prova del possesso di conoscenze ed attitudini generali, commerciali o professionali, richieste per l'accesso ad una delle attivita' di cui alla tabella A, lettere a), b) o d), allegata al presente decreto, o per l'esercizio della stessa, e' fornita dalla certificazione dell'effettivo esercizio dell'attivita' stessa in altro Stato membro della Comunita' economica europea, rilasciata dalle competenti autorita' di tale Stato.
 
+2.
+                    
+                        
+                            La certificazione deve comunque comprovare che l'attivita' e' stata esercitata:
+ 
+                        
+                        
+                            a)
+                            
+                                per cinque anni consecutivi, a titolo di indipendente o di dirigente di impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ovvero:
+ per due anni consecutivi, a titolo di indipendente o di dirigente di impresa, qualora il beneficiario dimostri di aver ricevuto, per l'attivita' in oggetto, una precedente formazione professionale di almeno tre anni, comprovata da un certificato riconosciuto dallo Stato o giudicata pienamente valida da un organismo professionale competente;
+ per tre anni consecutivi a titolo di indipendente o di dirigente di impresa, qualora il beneficiario dimostri di aver ricevuto, per l'attivita' in oggetto, una precedente formazione professionale di almeno due anni, comprovata da un certificato riconosciuto dallo Stato o giudicata pienamente valida da un organismo professionale competente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ovvero per due anni consecutivi a titolo di indipendente o di dirigente di impresa qualora il beneficiario possa provare di aver esercitato la professione in oggetto a titolo dipendente per almeno tre anni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ovvero per tre anni consecutivi a titolo dipendente, qualora il beneficiario dimostri di aver ricevuto, per l'attivita' in oggetto, una precedente formazione professionale di almeno due anni comprovata da un certificato riconosciuto dallo Stato o giudicata pienamente valida da un organismo professionale competente.
+
 La prova del possesso di conoscenze ed attitudini generali, commerciali o professionali, eventualmente richieste per l'accesso ad una delle attivita' di cui alla tabella A, lettere c) ed e), ed alle tabelle B, C e D, o per l'esercizio della stessa, e' fornita dalla certificazione dell'effettivo esercizio dell'attivita' stessa in altro Stato membro, rilasciata dalle competenti autorita' di tale Stato.
+
+4.
+                    
+                        
+                            Tale certificazione deve comunque comprovare che l'attivita' e' stata esercitata:
+ 
+                        
+                        
+                            a)
+                            
+                                per tre anni consecutivi a titolo di indipendente o di dirigente di impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ovvero per due anni consecutivi a titolo di indipendente o di dirigente di impresa, qualora il beneficiario dimostri di aver ricevuto, per l'attivita' in oggetto, una precedente formazione professionale, comprovata da un certificato riconosciuto dallo Stato o giudicata pienamente valida da un organismo professionale competente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ovvero per due anni consecutivi a titolo di indipendente o di dirigente di impresa qualora il beneficiario dimostri di aver esercitato la professione in oggetto a titolo dipendente per almeno tre anni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ovvero per tre anni consecutivi a titolo dipendente, qualora il beneficiario dimostri di aver ricevuto, per l'attivita' in oggetto, una precedente formazione professionale comprovata da un certificato riconosciuto dallo Stato o giudicata pienamente valida da un organismo professionale competente.
 
 Nei casi previsti dalle lettere a) e b) del comma 2 e dalle lettere a) e c) del comma 4, l'attivita' non deve essere cessata da oltre dieci anni alla data della presentazione della domanda con cui il cittadino di un altro Stato membro della Comunita' economica europea chiede di esercitare le attivita' di cui trattasi.
 
@@ -68,6 +134,31 @@ Le disposizioni che stabiliscono per taluna attivita' un termine piu' breve si a
 Sono fatte salve le disposizioni che subordinano l'accesso a taluna delle attivita' di cui al presente decreto al suo previo esercizio nello stesso ramo di attivita' che l'interessato intende esercitare, o in un ramo connesso, ovvero al possesso della relativa specifica formazione professionale.
 
 ## Art. 6. — Attivita' del dirigente d'azienda
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione del presente decreto e' considerato come esercizio dell'attivita' di dirigente di azienda l'esercizio di un'impresa del settore professionale corrispondente con le mansioni di:
+ 
+                        
+                        
+                            a)
+                            
+                                capo dell'azienda o di direttore di succursale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sostituto dell'imprenditore o del capo dell'azienda, se tali mansioni implicano una responsabilita' analoga a quella dell'imprenditore o del capo dell'azienda rappresentati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dirigente con incarichi commerciali e responsabile di almeno un reparto dell'azienda.
 
 ## Art. 7. — Entrata in vigore
 

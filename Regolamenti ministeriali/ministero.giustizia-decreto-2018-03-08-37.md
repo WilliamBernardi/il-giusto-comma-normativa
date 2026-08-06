@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2018-03-08;37
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,47 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Modifiche alla disciplina dei parametri generali per la determinazione dei compensi in sede giudiziale
 
+1.
+                    
+                        
+                            All'articolo 4 del decreto del Ministro della giustizia 10 marzo 2014, n. 55 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 sono apportate le seguenti modificazioni: 
+ 1) al terzo periodo le parole «possono essere aumentati, di regola, sino all'80 per cento, o diminuiti fino al 50 per cento» sono sostituite dalle seguenti: «possono essere aumentati di regola sino all'80 per cento, ovvero possono essere diminuiti in ogni caso non oltre il 50 per cento»; 
+ 2) al quarto periodo le parole «diminuzione di regola fino al 70 per cento» sono sostituite dalle seguenti: «diminuzione in ogni caso non oltre il 70 per cento»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: «1-bis. Il compenso determinato tenuto conto dei parametri generali di cui al comma 1 e' di regola ulteriormente aumentato del 30 per cento quando gli atti depositati con modalita' telematiche sono redatti con tecniche informatiche idonee ad agevolarne la consultazione o la fruizione e, in particolare, quando esse consentono la ricerca testuale all'interno dell'atto e dei documenti allegati, nonche' la navigazione all'interno dell'atto»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, primo periodo le parole «20 per cento» e «5 per cento» sono sostituite rispettivamente da «30 per cento» e «10 per cento» e le parole «fino a un massimo di venti» sono sostituite dalle seguenti: «fino a un massimo di trenta»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4 le parole «e' di regola ridotto del 30 per cento» sono sostituite dalle seguenti: «e' ridotto in misura non superiore al 30 per cento»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 10 e' aggiunto il seguente: «10-bis. Nel caso di giudizi innanzi al Tribunale amministrativo regionale e al Consiglio di Stato il compenso relativo alla fase introduttiva del giudizio e' di regola aumentato sino al 50 per cento quando sono proposti motivi aggiunti.».
+
 ## Art. 2. — Modifiche alla disciplina dei parametri concernente i procedimenti arbitrali rituali e irrituali
 
 All'articolo 10, comma 1, del decreto del Ministro della giustizia 10 marzo 2014, n. 55 le parole «agli arbitri sono» sono sostituite dalle parole «a ciascun arbitro e'» e le parole «dovuti i compensi previsti» sono sostituite con le parole «dovuto il compenso previsto».
@@ -31,6 +72,29 @@ All'articolo 10, comma 1, del decreto del Ministro della giustizia 10 marzo 2014
 ## Art. 3.
 
 Modifiche alla disciplina dei parametri generali per la determinazione dei compensi relativi all'attivita' penale
+
+1.
+                    
+                        
+                            All'articolo 12 del decreto del Ministro della giustizia 10 marzo 2014, n. 55 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 sono apportate le seguenti modificazioni: 
+ 1) al primo periodo dopo le parole «numero dei documenti» sono inserite le seguenti «e degli atti»; 
+ 2) al terzo periodo le parole «possono, di regola, essere aumentati fino all'80 per cento, o diminuiti fino al 50 per cento» sono sostituite dalle seguenti: «possono essere aumentati di regola fino all'80 per cento, ovvero possono essere diminuiti in ogni caso non oltre il 50 per cento»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 sono apportate le seguenti modificazioni: 
+ 1) al primo periodo: dopo le parole «la stessa posizione» sono aggiunte le parole «procedimentale o»; le parole «20 per cento» e «5 per cento» sono sostituite rispettivamente da: «30 per cento» e «10 per cento»; le parole «fino a un massimo di venti» sono sostituite dalle seguenti «fino a un massimo di trenta»; 
+ 2) al secondo periodo le parole «il numero delle parti» e' sostituito dalle seguenti «il numero dei soggetti» e le parole «una parte contro piu' parti» sono sostituite con le seguenti: «un singolo soggetto contro piu' soggetti»; 
+ 3) al terzo periodo: dopo le parole «l'identita' di posizione» sono inserite le parole «procedimentale o»; la parola «imputati» e' sostituita dalla parola «soggetti»; le parole «e' di regola ridotto del 30 per cento» sono sostituite dalle seguenti: «e' ridotto in misura non superiore al 30 per cento».
 
 ## Art. 4.
 

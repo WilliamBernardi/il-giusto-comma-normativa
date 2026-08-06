@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-02-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,17 +32,324 @@ Scopo del presente decreto e' di istituire un sistema di monitoraggio del traffi
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "strumenti internazionali pertinenti" nella loro versione aggiornata: 
+ 1) "MARPOL": la convenzione internazionale di Londra del 12 novembre 1973 per la prevenzione dell'inquinamento causato da navi e il relativo protocollo del 1978; 
+ 2) "SOLAS": la convenzione internazionale di Londra del 1° novembre 1974 per la salvaguardia della vita umana in mare e i relativi protocolli e modifiche; 
+ 3) la convenzione internazionale di Londra del 23 giugno 1969 sulla stazzatura delle navi; 
+ 4) la convenzione internazionale di Bruxelles del 29 novembre 1969 sull'intervento in alto mare in caso di sinistri che causino o possano causare l'inquinamento da idrocarburi, e il relativo protocollo del 1973 sull'intervento in alto mare in caso di inquinamento causato da sostanze diverse dagli idrocarburi; 
+ 5) "SAR": la convenzione internazionale di Amburgo del 27 aprile 1979 sulla ricerca e il salvataggio marittimo; 
+ 6) "Codice ISM": il codice internazionale per la gestione della sicurezza; 
+ 7) "Codice IMDG": il codice marittimo internazionale per il trasporto di merci pericolose; 
+ 8) "Codice IBC": il codice internazionale dell'IMO per la costruzione e le dotazioni delle navi adibite al trasporto alla rinfusa di prodotti chimici pericolosi; 
+ 9) "Codice IGC": il codice internazionale dell'IMO per la costruzione e le dotazioni delle navi adibite al trasporto alla rinfusa di gas liquefatti; 
+ 10) "Codice BC": il Codice dell'IMO delle norme pratiche per il trasporto alla rinfusa di carichi solidi; 
+ 11) "Codice INF": il Codice dell'IMO relativo alle norme di sicurezza per il trasporto di combustibile nucleare irradiato, di plutonio e di scorie altamente radioattive in fusti a bordo di navi; 
+ 12) "Risoluzione IMO A851 (20)": la risoluzione 851 (20) dell'Organizzazione Marittima Internazionale, avente per titolo "Principi generali dei sistemi di rapportazione navale e prescrizioni per la rapportazione navale, comprese le linee guida per la rapportazione dei sinistri in cui sono coinvolte merci pericolose e sostanze nocive e/o sostanze inquinanti per l'ambiente marino"; 
+ 13) "Risoluzione IMO A.861 (20) dell'Organizzazione Marittima Internazionale avente per titolo "VDR"; 
+ ((13.bis Risoluzione A.1106(29) dell'IMO: la Risoluzione A.1106(29) del 2 dicembre 2015 dell'Organizzazione marittima internazionale recante: «Linee guida aggiornate per l'utilizzo a bordo del sistema AIS»;)) 
+ 13-ter) risoluzione A. 949(23) dell'IMO: la risoluzione 949(23) dell'Organizzazione marittima internazionale recante «Linee guida sui luoghi di rifugio per le navi che necessitano di assistenza»; 
+ 13-quater) risoluzione A. 950(23) dell'IMO: la risoluzione 950(23) dell'Organizzazione marittima internazionale intitolata «Servizi di assistenza marittima (MAS)»; 
+ 13-quinquies) Linee guida dell'IMO sul giusto trattamento dei marittimi in caso di incidente marittimo": le linee guida allegate alla risoluzione LEG. 3(91) del comitato giuridico dell'IMO del 27 aprile 2006 come approvate dal Consiglio di amministrazione dell'OIL nella sua 296ª sessione del 12-16 giugno 2006; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "armatore": la persona fisica o giuridica che esercita l'attivita' di gestione della nave; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "agente": la persona incaricata o autorizzata a rilasciare informazioni in nome dell'armatore della nave; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "spedizioniere ovvero caricatore": la persona che ha stipulato con un vettore un contratto per il trasporto di merci via mare o la persona nel cui nome o per conto della quale e' stipulato il contratto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "compagnia": la compagnia ai sensi della regola 1, paragrafo 2 del Capitolo IX della SOLAS; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "nave": qualsiasi costruzione destinata al trasporto marittimo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "merci pericolose": 
+ 1) le merci classificate nel Codice IMDG; 
+ 2) le sostanze liquide pericolose di cui al Capitolo 17 del Codice IBC; 
+ 3) i gas liquefatti di cui al capitolo 19 del codice IGC; 
+ 4) le sostanze solide di cui all'appendice B del codice BC; 
+ 5) le merci per il cui trasporto sono state prescritte condizioni preliminari conformemente al paragrafo 1.1.3 del codice IBC o al paragrafo 1.1.6 del codice IGC; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "merci inquinanti": 
+ 1) gli idrocarburi secondo la definizione della MARPOL, allegato I; 
+ 2) le sostanze liquide nocive, secondo la definizione della MARPOL, allegato II; 
+ 3) le sostanze dannose, secondo la definizione della MARPOL, allegato III; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "unita' di carico": un veicolo stradale adibito al trasporto di merci, un veicolo ferroviario adibito al trasporto di merci, un contenitore, un veicolo cisterna stradale, un veicolo cisterna ferroviario o una cisterna mobile; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "indirizzo": il nome e i canali di comunicazione che consentono di stabilire, in caso di necessita', un contatto con l'armatore, l'agente, l'amministrazione, l'autorita' marittima, qualsiasi altra persona o organismo abilitato in possesso di informazioni dettagliate riguardanti il carico della nave; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    amministrazione: il Ministero delle infrastrutture e dei trasporti - Comando generale del Corpo delle capitanerie di porto - Guardia costiera; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    autorita' competenti: le autorita' incaricate delle funzioni contemplate dal presente decreto ovvero, l'amministrazione di cui alla precedente lettera m) quale autorita' nazionale competente, National Competent Authority NCA, ed inoltre, a livello locale, Local Competent Authority LCA: 
+ 1) le autorita' marittime ovvero gli uffici marittimi di cui all'articolo 16 del codice della navigazione; 
+ 2) i Centri secondari di soccorso marittimo, MRSC, individuati nel decreto del Presidente della Repubblica 28 settembre 1994, n. 662, quali autorita' preposte al coordinamento delle operazioni di ricerca e di salvataggio; 
+ 3) le Autorita' VTS, come definite con decreto del Ministro delle infrastrutture e dei trasporti in data 28 gennaio 2004, pubblicato nella Gazzetta Ufficiale n. 30 del 6 febbraio 2004, di cui all'allegato 5 aggiornato con decreto dirigenziale del Comandante generale del Corpo delle capitanerie di porto - Guardia costiera; 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    "stazione costiera": il servizio di assistenza al traffico marittimo (VTS), l'impianto a terra incaricato di gestire un sistema di rapportazione obbligatorio approvato dall'IMO o l'organismo incaricato di coordinare le operazioni di ricerca e di salvataggio o di lotta contro l'inquinamento dell'ambiente marino, designati dagli Stati membri in applicazione della direttiva 2002/59/CE del Parlamento europeo e del Consiglio, del 27 giugno 2002;
+                                
+                            
+                            
+                                o)
+                                
+                                    luogo di rifugio: il porto o parte di esso o altro luogo di ancoraggio o ormeggio protetto o altra area riparata individuata per accogliere una nave che necessita di assistenza; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    "servizio di assistenza al traffico marittimo (VTS)": il servizio finalizzato a migliorare la sicurezza della navigazione e l'efficienza del traffico marittimo e a tutelare l'ambiente, in grado di interagire con le navi che transitano nell'area coperta dal VTS; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    "sistema di identificazione automatica (AIS)": il sistema di identificazione delle navi rispondente alle norme di funzionamento definite dall'IMO; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    "sistema di rotte navali": qualsiasi sistema che organizza uno o piu' corsie di traffico o prevede misure di organizzazione del traffico al fine di ridurre il rischio di sinistri; esso comprende schemi di separazione del traffico, corsie di traffico a doppio senso, rotte raccomandate, zone da evitare, zone di traffico costiero, rotatorie, zone di prudenza e corsie di traffico in acque profonde; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    "nave tradizionale": qualsiasi tipo di nave storica e relative ricostruzioni, comprese quelle finalizzate a incoraggiare e promuovere le tecniche e l'arte marinaresca tradizionali e nel contempo identificabili come monumenti viventi di cultura, il cui esercizio rispetta i principi tradizionali dell'arte e della tecnica marinaresche; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    "sinistro": il sinistro quale definito dal Codice dell'IMO in materia di inchieste sui sinistri e sugli incidenti marittimi. 
+
+                                
+                            
+                            
+                                t-bis)
+                                
+                                    SafeSeaNet: il sistema comunitario per lo scambio di dati marittimi sviluppato dalla Commissione in cooperazione con gli Stati membri per garantire l'attuazione della normativa comunitaria; 
+
+                                
+                            
+                            
+                                t-ter)
+                                
+                                    servizio di linea: serie di collegamenti effettuati in modo da assicurare il traffico fra gli stessi due o piu' porti, oppure una serie di viaggi da e verso lo stesso porto senza scali intermedi, che abbiano le seguenti caratteristiche: 
+ 1) collegamenti con orario pubblicato oppure tanto regolari o frequenti da costituire una serie sistematica evidente; 
+ 2) collegamenti effettuati per un minimo di un mese continuativamente; 
+
+                                
+                            
+                            
+                                t-quater)
+                                
+                                    unita' da pesca: qualsiasi nave attrezzata per lo sfruttamento commerciale delle risorse acquatiche vive; 
+
+                                
+                            
+                            
+                                t-quinquies)
+                                
+                                    nave che necessita di assistenza: fatte salve le disposizioni della Convenzione internazionale sulla ricerca ed il salvataggio marittimo, una nave che si trova in una situazione che potrebbe comportarne il naufragio o un pericolo per l'ambiente o la navigazione; 
+
+                                
+                            
+                            
+                                t-sexies)
+                                
+                                    LRIT: sistema di identificazione e tracciamento a grande distanza delle navi di cui alla regola V/19-1 della Convenzione SOLAS; 
+
+                                
+                            
+                            
+                                t-septies)
+                                
+                                    direttiva: e' la direttiva 2002/59/CE del Parlamento europeo e del Consiglio, del 27 giugno 2002; 
+
+                                
+                            
+                            
+                                t-octies)
+                                
+                                    Bonifacio traffic: sistema di rapportazione navale obbligatorio di cui alla risoluzione MSC.73 (69) adottata dal Maritime Safety Committe dell'IMO in data 19 maggio 1998, come recepito anche dal decreto del Ministro delle infrastrutture e dei trasporti in data 2 ottobre 2008, pubblicato nella Gazzetta Ufficiale n. 246 del 20 ottobre 2008; 
+
+                                
+                            
+                            
+                                t-nonies)
+                                
+                                    Adriatic Traffic: sistema di rapportazione navale obbligatorio di cui alla risoluzione MSC.139 (76) adottata dal Maritime Safety Committe dell'IMO in data 5 dicembre 2002; 
+
+                                
+                            
+                            
+                                t-decies)
+                                
+                                    MARES, Mediterranean AIS Regional Exchange System: sistema internazionale di scambio di dati sul traffico marittimo realizzato e gestito dal Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera per ottemperare alle disposizioni di cui all'articolo 9, comma 1, e che contempla l'invio di informazioni al sistema SafeSeaNet; 
+
+                                
+                            
+                            
+                                t-undecies)
+                                
+                                    PMIS, Port Management Information System: Sistema informativo per la gestione portuale realizzato e gestito dalle autorita' competenti di cui alla lettera n); 
+
+                                
+                            
+                            
+                                t-duodecies)
+                                
+                                    
+                                        ((monitoraggio e informazione del traffico marittimo)): funzione di raccolta e di scambio di informazioni sul traffico marittimo, svolta in via esclusiva dalle autorita' competenti, come regolamentata dal presente decreto e finalizzata ad incrementare la sicurezza e l'efficienza del traffico, migliorare la capacita' di risposta nelle attivita' di ricerca e soccorso alla vita umana in mare, in caso di eventi, incidenti o situazioni potenzialmente pericolose, ed a contribuire ad una piu' efficace prevenzione e localizzazione degli inquinamenti causati dalle navi, nonche' al monitoraggio e controllo delle attivita' legate allo sfruttamento delle risorse ittiche; 
+
+                                
+                            
+                            
+                                t-terdecies)
+                                
+                                    "VTMIS nazionale": sistema in dotazione alle autorita' competenti di cui alla lettera n) attraverso il quale vengono espletate le attivita' di cui alla lettera t-duodecies;
+                                
+                            
+                            
+                                t-quaterdecies)
+                                
+                                    regolamento VTS: il regolamento, approvato dall'amministrazione che reca le procedure operative adottate da ogni Autorita' VTS.
+
 ## Art. 3. — (((Ambito di applicazione). ))
 
 ((
 
 Il presente decreto si applica alle navi di stazza pari o superiore a 300 GT, salvo diversamente specificato.
 
+2.
+                        
+                            
+                                Il presente decreto non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle navi da guerra, alle navi da guerra ausiliarie ed alle altre navi appartenenti ad uno Stato membro o da questo esercitate ed utilizzate per un servizio pubblico non commerciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle navi tradizionali e alle imbarcazioni da diporto di lunghezza inferiore a 45 metri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai carburanti delle navi inferiori a 1000 GT ed alle scorte ed attrezzature da utilizzarsi a bordo di tutte le navi.
+
 ))
 
 ## - Titolo II RAPPORTAZIONE E MONITORAGGIO NAVALE
 
 ## Art. 4. — Comunicazione preventiva dell'ingresso nei porti italiani
+
+1.
+                        
+                            
+                                L'armatore, il proprietario ((, la compagnia,)) , l'agente o il comandante della nave diretta verso un porto nazionale comunica alla competente autorita' marittima le informazioni di cui all'allegato I, punto 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con almeno 24 ore d'anticipo rispetto al previsto arrivo, se la durata del viaggio e' pari o superiore a 24 ore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non oltre il momento in cui la nave esce dal porto di provenienza, se la durata del viaggio e' inferiore a 24 ore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se lo scalo di destinazione non e' noto o se lo stesso e' aggiornato nel corso del viaggio, nel momento in cui e' acquisita 1'informazione di cambio della destinazione.
 
 Le navi dirette a un porto nazionale, provenienti da un porto extracomunitario che trasportano merci pericolose o inquinanti, sono soggette all'obbligo di comunicazione di cui all'articolo 13.
 
@@ -97,6 +404,31 @@ Le autorita' competenti, nel caso in cui e' operante un sistema di rotte navali 
 ## Art. 8. — (( (Monitoraggio dell'adesione ai servizi di assistenza al traffico marittimo da parte delle navi). ))
 
 ((
+
+1.
+                        
+                            
+                                L'autorita' VTS vigila sull'adesione ai servizi di assistenza al traffico marittimo da parte delle navi e adotta, secondo le procedure operative previste nel locale regolamento VTS, le misure necessarie e appropriate per assicurare che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le navi soggette al VTS nell'ambito del mare territoriale ne rispettino i relativi obblighi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le navi soggette al VTS battenti bandiera di uno Stato membro al di fuori del mare territoriale ne rispettino i relativi obblighi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le navi soggette al VTS battenti bandiera di un Paese terzo al di fuori del mare territoriale si attengano ai relativi obblighi, per quanto ragionevole e prudente, comunicando allo Stato di bandiera ogni eventuale violazione.
 
 L'Amministrazione adotta le misure necessarie e appropriate per assicurare che le navi di bandiera Italiana partecipino e rispettino le regole esistenti nelle aree VTS di un altro Stato membro.
 
@@ -174,6 +506,31 @@ L'armatore, il proprietario ((, la compagnia,)), l'agente o il comandante della 
 
 L'amministrazione coopera con le autorita' degli altri Stati membri per garantire l'interconnessione e l'interoperabilita' dei sistemi nazionali utilizzati per la gestione delle informazioni di cui all'allegato I.
 
+2.
+                        
+                            
+                                I sistemi di cui al comma 1 consentono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo scambio dei dati per via elettronica e la ricezione e il trattamento dei messaggi comunicati ai sensi dell'articolo 13; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la trasmissione delle informazioni 24 ore su 24; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la trasmissione ((. . .)) all'autorita' competente di un altro Stato membro, che fa richiesta, delle informazioni che riguardano la nave e le merci pericolose o inquinanti che si trovano a bordo.
+
 ((
 
 La NCA, su richiesta della NCA di altro Stato membro, trasmette, senza ritardo, mediante SafeSeaNet, informazioni sulla nave o sulle merci pericolose o inquinanti trasportate a bordo, necessarie ai fini della sicurezza della navigazione, del trasporto marittimo, dei lavoratori marittimi, delle navi e degli impianti portuali, dell'ambiente marino e costiero e delle risorse biologiche marine.
@@ -190,6 +547,45 @@ L'Amministrazione assicura l'integrazione del PMIS con il SafeSeaNet.
 
 ((
 
+1.
+                        
+                            
+                                L'amministrazione puo' esonerare dall'osservanza degli obblighi di cui agli articoli 4 e 13 i servizi di linea, qualora risultino soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la compagnia rediga ed aggiorni la lista delle navi impiegate per il servizio di linea e la trasmette alla LCA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per ogni viaggio effettuato, le informazioni previste all'allegato I - a seconda dei casi punto 1 o 3 - siano poste a disposizione dell'autorita' competente che ne faccia richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la compagnia istituisca all'interno del proprio sistema di gestione ISM procedure idonee a garantire nell'arco delle 24 ore, la tempestiva trasmissione delle informazioni in formato elettronico, a richiesta dell'Autorita' marittima che ne abbia interesse, in conformita' all'articolo 4, comma 1, o, se del caso, all'articolo 13, comma 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ogni variazione dell'orario previsto di arrivo al porto di destinazione o alla stazione di pilotaggio, pari o superiore a tre ore, sia notificato all'autorita' del porto di arrivo o alla LCA in conformita' all'articolo 4 o, se del caso, all'articolo 13; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le navi impiegate, se adibite al trasporto di passeggeri, siano dotate, a prescindere dalla stazza, di AIS di tipo MED.
+
 Le esenzioni sono concesse, di volta in volta, per ogni singola nave e per ogni singolo servizio di linea limitatamente ai viaggi di durata prevista fino a dodici ore.
 
 L'amministrazione quando il servizio di linea ha carattere internazionale e si svolge verso porti di altro Stato membro puo' chiedere allo Stato del porto di destinazione di concedere un'esenzione a tale servizio disciplinata secondo i criteri di cui ai commi 1 e 2.
@@ -204,16 +600,115 @@ L'amministrazione comunica alla Commissione l'elenco delle compagnie e delle nav
 
 ## Art. 16. — Trasmissione delle informazioni relative a determinate navi
 
+1.
+                        
+                            
+                                Sono considerate a rischio potenziale per la navigazione ovvero una minaccia per la sicurezza della navigazione, delle persone e dell'ambiente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le navi che, nel corso del viaggio, si trovino in una delle seguenti condizioni: 
+ 1) sono rimaste coinvolte in incidenti in mare ai sensi dell'articolo 17; 
+ 2) hanno violato gli obblighi di comunicazione e di rapportazione previsti dal presente decreto o da altre disposizioni di legge; 
+ 3) hanno violato le norme applicabili nell'ambito dei sistemi di rotte navali e dei VTS posti sotto la responsabilita' dell'amministrazione di uno Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le navi nei cui confronti esistono prove o presunzioni di scarichi volontari di idrocarburi o altre violazioni della MARPOL nelle acque di giurisdizione di uno Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le navi alle quali e' stato rifiutato l'accesso ai porti dell'Unione europea o che sono state oggetto di un rapporto o di una comunicazione dell'autorita' competente di uno Stato membro. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    le navi sprovviste di certificati assicurativi o di equivalente garanzia finanziaria ai sensi della normativa comunitaria e delle norme internazionali; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    le navi che presentano anomalie potenzialmente in grado di compromettere la sicurezza della navigazione o creare un rischio per l'ambiente anche sulla base delle segnalazioni del personale ispettivo PSC, dei piloti o del personale addetto ai servizi tecnico-nautici.
+
 L'autorita' marittima comunica le informazioni di cui al comma 1 alle competenti autorita' degli Stati membri interessati dalla rotta seguita dalla nave.
 
 L'amministrazione che riceve dette informazioni le trasmette all'autorita' marittima competente, la quale, di iniziativa o su richiesta, puo' effettuare ispezioni o verifiche, le cui risultanze sono messe a disposizione di tutti gli Stati membri dell'Unione europea.
 
 ## Art. 17. — Rapportazione di incidenti in mare
 
+1.
+                        
+                            
+                                Il comandante di una nave che naviga all'interno della regione di interesse nazionale per la ricerca e il salvataggio in mare, come individuata con decreto del Presidente della Repubblica 28 settembre 1994, n. 662, rapporta immediatamente all'autorita' marittima competente:
+ 
+                            
+                            
+                                a)
+                                
+                                    qualsiasi incidente che pregiudica la sicurezza della nave, come collisioni, incagli, avarie, disfunzioni o guasti, allagamento o spostamento del carico, eventuali difetti riscontrati nello scafo o cedimenti della struttura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi incidente che compromette la sicurezza della navigazione, come guasti o difetti idonei ad alterare le capacita' di manovra o la navigabilita' della nave, qualsiasi guasto o disfunzione che alteri i sistemi di propulsione o la macchina di governo, le installazioni per la produzione di elettricita', le apparecchiature di navigazione o di comunicazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualsiasi situazione potenzialmente idonea a provocare un inquinamento delle acque o del litorale, quale lo scarico o il rischio di scarico di sostanze inquinanti in mare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualsiasi perdita di prodotti inquinanti, contenitori o colli alla deriva.
+
 Il messaggio di rapportazione trasmesso ai sensi del comma 1 indica il nome della nave, la sua posizione, il porto di partenza, il porto di destinazione, tutte le indicazioni che consentano di ottenere informazioni sulle merci pericolose e inquinanti trasportate a bordo, il numero delle persone a bordo, i particolari dell'incidente e qualsiasi informazione pertinente prevista dalla risoluzione 851(20) dell'IMO.
 
 ## Art. 18. — Misure da adottare in presenza di condizioni meteorologiche
  eccezionalmente avverse
+
+1.
+                        
+                            
+                                Se l'autorita' marittima ritiene che, a causa di condizioni meteorologiche o marine eccezionalmente avverse, sussiste un grave rischio di inquinamento della zona marittima o costiera, o delle zone marittime o costiere di altri Stati o sia in pericolo la vita umana in mare:
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce al comandante della nave che si trova nella zona interessata o intende entrare o uscire dal porto tutte le informazioni sulle condizioni meteomarine e, ove opportuno e possibile, sui pericoli che le stesse possono comportare per la nave, il carico, l'equipaggio e i passeggeri;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta tutte le misure idonee per agevolare il comando di bordo ad acquisire un quadro di situazione quanto piu' completo e raccomanda ad una nave particolare o a navi in generale, secondo i casi, di entrare ovvero di non entrare in porto ovvero di non intraprendere la navigazione fino a quando non si ristabiliscono le condizioni meteomarine e cessa il pericolo per le persone e l'ambiente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    limita o vieta il rifornimento di combustibile in mare nelle acque territoriali.
 
 Il comandante informa la compagnia delle misure o raccomandazioni di cui al comma 1 fermo restando la decisione che lo stesso comandante assume in base al suo giudizio professionale in conformita' alla convenzione SOLAS. Il comandante comunica alle autorita' marittime competenti i motivi della sua decisione, qualora essa non e' conforme alle misure di cui al comma 1, lettera b).
 
@@ -255,7 +750,71 @@ Il Direttore marittimo convoca i Capi dei Compartimenti ricadenti nell'ambito di
 
 Il Capo del Compartimento marittimo, nell'ambito della pianificazione operativa di pronto intervento locale antinquinamento, individua le procedure per fare fronte ai rischi, ivi compresi quelli alla vita umana ed all'ambiente, causati dalla presenza di navi che necessitano di assistenza nelle acque di propria giurisdizione, in aderenza alle linee guida dell'IMO definite con le risoluzioni A.949(23) ed e A.950(23).
 
+2.
+                        
+                            
+                                In linea con gli indirizzi della Direzione generale per la protezione della natura del Ministero dell'ambiente e della tutela del territorio e del mare, il piano per l'accoglienza delle navi che necessitano di assistenza contempla i sottonotati aspetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indicazione, recapiti e canali di comunicazione dell'Autorita' marittima incaricata di ricevere e gestire gli allarmi provenienti dalle navi che necessitano di assistenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soggetti ed enti di cui il Capo di Compartimento puo' avvalersi per una valutazione tecnica ed operativa della situazione contingente da cui sorge la richiesta di accoglienza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    informazioni sul litorale di propria giurisdizione e su ogni utile elemento che possa facilitare una pronta valutazione ed una rapida decisione in merito al possibile luogo di rifugio della nave che richiede assistenza, inclusa una descrizione dei fattori ambientali, economici e sociali e delle condizioni naturali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    criteri e procedure per adottare le misure correlate all'accoglienza di una nave che necessita assistenza in un luogo di rifugio o per rifiutarne l'accesso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mezzi, materiali ed impianti disponibili per l'assistenza, il salvataggio e la lotta all'inquinamento, indicandone tempi modalita' di impiego; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    procedure relative alle garanzie finanziarie ed assicurative applicabili alle navi che vengono accolte in un luogo di rifugio.
+
 I piani per l'accoglienza, in linea con gli indirizzi della Direzione generale per la protezione della natura del Ministero dell'ambiente e della tutela del territorio e del mare, si uniformano al piano di pronto intervento nazionale per la difesa da inquinamenti da idrocarburi o da altre sostanze nocive causati da "incidenti marini" della Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile.
+
+4.
+                        
+                            
+                                L'amministrazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pubblica sul proprio sito internet istituzionale i punti di contatto ed i riferimenti utili dei piani per l'accoglienza delle navi adottati dai Compartimenti marittimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunica, su richiesta, agli Stati membri interessati, informazioni pertinenti relative ai citati piani.
 
 Il Capo del compartimento assicura che informazioni utili all'applicazione delle procedure previste per l'accoglienza delle navi che necessitano assistenza siano poste a disposizione dei soggetti e degli enti coinvolti nelle operazioni, che sono vincolati dall'obbligo della riservatezza posto dall'articolo 24.
 
@@ -304,6 +863,44 @@ Fatto salvo il contenuto del comma 2, l'amministrazione provvede affinche' i sis
 ))
 
 ## Art. 23. — Cooperazione tra gli Stati membri
+
+1.
+                        
+                            
+                                L'amministrazione ottimizza l'uso delle informazioni comunicate ai sensi del presente decreto cooperando, anche attraverso l'utilizzo di sistemi telematici, con le corrispondenti autorita' di altri Stati membri per il conseguimento dei seguenti obiettivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere ogni forma di collaborazione per lo scambio di dati che riguardano i movimenti, le previsioni d'arrivo delle navi nei porti e le notizie relative al carico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sviluppare e rafforzare l'efficacia dei collegamenti telematici tra le stazioni costiere degli Stati membri ai fini di una migliore conoscenza del traffico marittimo, di un migliore monitoraggio delle navi in transito e di un'armonizzazione e semplificazione dei rapporti prescritti alle navi durante il viaggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    estendere la copertura del sistema comunitario di monitoraggio del traffico navale e d'informazione ovvero aggiornarlo allo scopo di migliorare l'identificazione e il monitoraggio delle navi, tenendo conto degli sviluppi nel settore delle tecnologie dell'informazione e delle comunicazioni. A tale fine, l'amministrazione coopera con la Commissione e con le autorita' degli Stati membri per istituire, all'occorrenza, sistemi obbligatori di notifica, servizi obbligatori di assistenza al traffico marittimo e adeguati sistemi di navigazione, allo scopo di presentarli all'IMO per approvazione. L'amministrazione coopera unitamente agli altri Stati membri ed alla Commissione anche, in seno agli organismi internazionali a carattere regionale interessati, all'elaborazione di sistemi di identificazione e di controllo a lungo raggio;
+                                
+                            
+                            
+                                d)
+                                
+                                    stabilire piani concertati per l'accoglienza delle navi in pericolo ai sensi dell'articolo 20. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    assicurare l'interconnessione e l'interoperabilita' dei sistemi nazionali utilizzati per gestire le informazioni di cui all'allegato I, sviluppare e aggiornare SafeSeaNet.
 
 ((
 

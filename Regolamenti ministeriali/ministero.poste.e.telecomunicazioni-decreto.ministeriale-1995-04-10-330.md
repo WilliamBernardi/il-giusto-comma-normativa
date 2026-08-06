@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1996-04-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -30,6 +30,174 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 16 ma
 
 Il richiedente l'omologazione per gli apparati radioelettrici a tecnica multiaccesso deve presentare domanda in duplice copia, di cui una in bollo con firma autenticata, indirizzata al Ministero delle poste e delle telecomunicazioni, viale America, 201, 00144 Roma.
 
+2.
+                    
+                        
+                            Nella suddetta domanda devono essere indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                generalita' complete del richiedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ditta costruttrice, tipo, marca, modello dell'apparato da omologare.
+
+3.
+                    
+                        
+                            A ciascuna copia della domanda deve essere allegata la seguente documentazione tecnica, timbrata e firmata dal richiedente:
+ 
+                        
+                        
+                            a)
+                            
+                                descrizione delle applicazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elenco delle prestazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                descrizione del funzionamento dell'apparecchiatura;
+
+                            
+                        
+                        
+                            d)
+                            
+                                schema a blocchi indicante gli eventuali equipaggiamenti addizionali che possono essere utilizzati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                caratteristiche d'interfaccia;
+
+                            
+                        
+                        
+                            f)
+                            
+                                schemi circuitali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                lista dei componenti;
+                            
+                        
+                        
+                            h)
+                            
+                                condizioni per le esigenze di sicurezza dell'operatore e tecniche costruttive utilizzate;
+
+                            
+                        
+                        
+                            i)
+                            
+                                descrizione generale dell'eventuale software, con particolare riferimento al software di gestione;
+
+                            
+                        
+                        
+                            l)
+                            
+                                modalita' d'introduzione dei programmi nell'apparecchiatura e loro protezione da intrusioni;
+
+                            
+                        
+                        
+                            m)
+                            
+                                disegni quotati della meccanica ed eventuali fotografie;
+
+                            
+                        
+                        
+                            n)
+                            
+                                modalita' d'installazione in relazione agli ambienti;
+
+                            
+                        
+                        
+                            o)
+                            
+                                condizioni ambientali d'uso;
+
+                            
+                        
+                        
+                            p)
+                            
+                                modalita' di gestione dell'apparecchiatura;
+
+                            
+                        
+                        
+                            q)
+                            
+                                modalita' di manutenzione dell'eventuale software;
+
+                            
+                        
+                        
+                            r)
+                            
+                                certificazioni sul rispetto delle condizioni di sicurezza dell'operatore, come previsto dalla normativa vigente;
+
+                            
+                        
+                        
+                            s)
+                            
+                                caratteristiche di compatibilita' elettromagnetica secondo la normativa vigente ed eventuali certificazioni;
+
+                            
+                        
+                        
+                            t)
+                            
+                                rapporto indicante i risultati delle misure effettuate ed i metodi di misura utilizzati;
+
+                            
+                        
+                        
+                            u)
+                            
+                                certificazioni di conformita' e rapporti di prova rilasciati da laboratori accreditati;
+
+                            
+                        
+                        
+                            v)
+                            
+                                affidabilita' dell'apparecchiatura;
+
+                            
+                        
+                        
+                            z)
+                            
+                                elenco delle parti componenti il sistema.
+
 La documentazione, di cui al comma 3 punto c), deve essere redatta in lingua italiana, quella relativa agli altri punti dello stesso comma deve essere redatta in lingua italiana o, eventualmente, in lingua inglese.
 
 Il Ministero delle poste e delle telecomunicazioni accertata la regolarita' della documentazione, provvede ad inviare all'Istituto superiore delle poste e delle telecomunicazioni, in seguito denominato ISPT, incaricato di effettuare le verifiche tecniche di laboratorio, copia della domanda corredata dalla documentazione tecnica.
@@ -39,6 +207,24 @@ Le verifiche tecniche sono eseguite su un esemplare del modello di apparato pres
 Effettuate le verifiche tecniche ed accertato l'avvenuto saldo delle relative spese, l'ISPT comunica l'esito delle verifiche stesse al competente organo del Ministero.
 
 Il predetto organo provvede a comunicare, entro centottanta giorni dalla data di ricezione della domanda di omologazione, l'esito al richiedente e, nel caso di esito positivo, invia il certificato di omologazione.
+
+9.
+                    
+                        
+                            Il richiedente, nel presentare la domanda di cui al comma 1, puo' chiedere l'esonero dalla presentazione dell'esemplare per l'esame di laboratorio nei casi in cui:
+ 
+                        
+                        
+                            a)
+                            
+                                sono apportate lievi modifiche costruttive ad un apparato che abbia gia' ottenuto l'omologazione, tali da non alterare, a parere del costruttore, le specifiche tecniche gia' verificate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' cambiata la designazione del modello di un apparato che abbia gia' ottenuto l'omologazione.
 
 Il competente organo del Ministero, valutata e verificata la richiesta di esonero, ((invia il nuovo certificato di omologazione al richiedente.))
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2007-05-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,7 +32,117 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Nel presente regolamento si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "direttiva": la direttiva del Consiglio delle comunita' europee n. 91/308/CEE del 10 giugno 1991, modificata dalla direttiva del Parlamento europeo e del Consiglio dell'Unione europea n. 2001/97/CE del 4 dicembre 2001;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "legge antiriciclaggio": il decreto-legge 3 maggio 1991, n. 143, convertito, con modificazioni, in legge 5 luglio 1991, n. 197, e successive modificazioni e integrazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "decreto": il decreto legislativo 20 febbraio 2004, n. 56;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "codice in materia di protezione dei dati personali": il decreto legislativo 30 giugno 2003, n. 196;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "UIC": l'Ufficio italiano dei cambi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "libero professionista": uno dei soggetti indicati nell'articolo 2, comma 1, lettere s), s)bis e t) del decreto legislativo 20 febbraio 2004, n. 56, anche quando svolge l'attivita' professionale in forma societaria o associativa; 
+                                
+                            
+                            
+                                g)
+                                
+                                    "prestazione professionale": la prestazione fornita dal libero professionista che si sostanzia nella diretta trasmissione, movimentazione o gestione di mezzi di pagamento, beni o utilita' in nome o per conto del cliente ovvero nell'assistenza al cliente per la progettazione o realizzazione della trasmissione, movimentazione, verifica o gestione di mezzi di pagamento, beni o utilita' e della costituzione, gestione o amministrazione di societa', enti, trust o strutture analoghe;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "cliente": il soggetto al quale il libero professionista presta assistenza professionale, in seguito al conferimento di un incarico;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "operazione frazionata": un'operazione unitaria sotto il profilo economico di valore superiore a 12.500 euro posta in essere attraverso piu' operazioni, effettuate in momenti diversi e in un circoscritto periodo di tempo, singolarmente di valore non superiore a 12.500 euro;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "dati identificativi": il nome e il cognome, il luogo e la data di nascita, l'indirizzo, il codice fiscale e gli estremi del documento di identificazione o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale ed il codice fiscale;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "mezzi di pagamento": il denaro contante, gli assegni bancari e postali, gli assegni circolari e gli altri assegni a essi assimilabili o equiparabili, i vaglia postali, gli ordini di accreditamento o di pagamento, le carte di credito e le altre carte di pagamento, ogni altro strumento o disposizione che permetta di trasferire o movimentare o acquisire, anche per via telematica, fondi, valori o disponibilita' finanziarie.
+
 ## Art. 2. — Destinatari
+
+1.
+                        
+                            
+                                Il presente regolamento si applica ai seguenti soggetti nello svolgimento della propria attivita' professionale in forma individuale, associata o societaria:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai soggetti iscritti nell'albo dei dottori commercialisti, nel registro dei revisori contabili, nell'albo dei ragionieri e dei periti commerciali e nell'albo dei consulenti del lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai notai e agli avvocati quando, in nome o per conto di propri clienti, compiono qualsiasi operazione di natura finanziaria o immobiliare e quando assistono i propri clienti nella progettazione o nella realizzazione di operazioni riguardanti:
+ 1) il trasferimento a qualsiasi titolo di beni immobili o attivita' economiche;
+ 2) la gestione di denaro, strumenti finanziari o altri beni;
+ 3) l'apertura o la gestione di conti bancari, libretti di deposito e conti di titoli;
+ 4) l'organizzazione degli apporti necessari alla costituzione, alla gestione o all'amministrazione di societa';
+ 5) la costituzione, la gestione o l'amministrazione di societa', enti, trust o strutture analoghe;
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    a ogni altro soggetto che rende i servizi forniti da revisori contabili, periti, consulenti ed altri soggetti che svolgono in maniera professionale attivita' in materia di contabilita' e tributi.
 
 Il presente regolamento si applica altresi' alle societa' di revisione iscritte nell'albo speciale previsto dall'articolo 161 del decreto legislativo 24 febbraio 1998, n. 58, alle quali si estendono tutte le disposizioni previste di seguito per i liberi professionisti.
 
@@ -57,6 +167,63 @@ Il cliente che si avvale della prestazione professionale del libero professionis
 
 L'identificazione viene effettuata dal libero professionista in presenza del cliente al momento in cui inizia la prestazione professionale a favore del cliente, anche attraverso propri collaboratori, mediante un documento valido per l'identificazione non scaduto. Sono considerati validi per l'identificazione i documenti d'identita' e di riconoscimento di cui agli articoli 1 e 35 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
+2.
+                        
+                            
+                                La presenza fisica non e' necessaria per i clienti i cui dati identificativi e le altre informazioni da acquisire risultino da:
+ 
+                            
+                            
+                                a)
+                                
+                                    precedente identificazione effettuata dal libero professionista in relazione ad altra attivita' professionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    atti pubblici, scritture private autenticate o documenti recanti la firma digitale ai sensi dell'articolo 23 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modificazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione dell'autorita' consolare italiana, cosi' come indicata nell'articolo 6 del decreto legislativo 26 maggio 1997, n. 153;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attestazione di un altro professionista residente in uno dei Paesi membri dell'Unione Europea, che, in applicazione della normativa di recepimento della Direttiva 2001/97/CE, ha identificato di persona e registrato i dati del cliente e dei soggetti terzi per conto dei quali opera.
+
+3.
+                        
+                            
+                                La presenza del cliente non e' altresi' necessaria per l'identificazione quando viene fornita idonea attestazione da parte di uno dei soggetti seguenti, presso il quale il cliente sia stato identificato di persona:
+ 
+                            
+                            
+                                a)
+                                
+                                    intermediari abilitati ai sensi dell'articolo 4 del decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    enti creditizi o enti finanziari di Stati membri dell'Unione europea, cosi' come definiti nell'articolo 1, lettera A) e lettera B), n. 2), 3) e 4) della direttiva;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    banche aventi sede legale e amministrativa in paesi non appartenenti all'Unione europea purche' aderenti al Gruppo di azione finanziaria internazionale (GAFI) e succursali in tali paesi di banche italiane e di altri Stati aderenti al GAFI.
+
 In nessun caso l'attestazione puo' essere rilasciata da soggetti che non hanno insediamenti fisici in alcun paese. Per «insediamento fisico» s'intende un luogo destinato allo svolgimento dell'attivita' istituzionale, con stabile indirizzo, diverso da un semplice indirizzo elettronico, in un paese nel quale il soggetto e' autorizzato a svolgere la propria attivita'. In tale luogo il soggetto deve impiegare una o piu' persone a tempo pieno, deve mantenere evidenze relative all'attivita' svolta, deve essere soggetto ai controlli effettuati dall'autorita' che ha rilasciato l'autorizzazione a operare.
 
 L'UIC puo' indicare ulteriori forme e modalita' particolari dell'attestazione, anche tenendo conto dell'evoluzione delle tecniche di comunicazione a distanza, in applicazione di quanto disposto dall'articolo 8, comma 6, del decreto.
@@ -64,6 +231,52 @@ L'UIC puo' indicare ulteriori forme e modalita' particolari dell'attestazione, a
 Nel caso in cui il libero professionista acquisisca in qualunque momento elementi di incertezza sull'identita' del cliente compie una nuova identificazione che dia certezza sull'identita' del medesimo.
 
 ## Art. 5. — Obblighi di conservazione
+
+1.
+                        
+                            
+                                Il libero professionista, negli stessi casi in cui e' tenuto ad assolvere all'obbligo di identificazione dei clienti, riporta a propria cura nell'archivio dedicato alla raccolta e conservazione di informazioni a fini antiriciclaggio i seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    le complete generalita' (nome, cognome, luogo, data di nascita e indirizzo di residenza o domicilio per le persone fisiche; la denominazione e la sede legale in caso di altri soggetti), il codice fiscale ove disponibile e gli estremi del documento di identificazione per le persone fisiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati identificativi della persona per conto della quale il cliente opera;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivita' lavorativa svolta dal cliente e dalla persona per conto della quale agisce;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data dell'avvenuta identificazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la descrizione sintetica della tipologia di prestazione professionale fornita;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il valore dell'oggetto della prestazione professionale di cui all'articolo 1 del presente regolamento, se conosciuto.
 
 Quando il conferimento dell'incarico e' compiuto congiuntamente da piu' clienti, gli obblighi di identificazione, registrazione e conservazione dei dati devono essere assolti nei confronti di ciascuno di essi.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2021-02-05;54
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,7 +26,193 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    decreto-legge: il decreto-legge 21 settembre 2019, n. 105, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 133; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    perimetro: il perimetro di sicurezza nazionale cibernetica istituito ai sensi dell'articolo 1, comma 1, del decreto-legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    DPCM: il decreto del Presidente del Consiglio dei ministri 30 luglio 2020, n. 131, recante il regolamento in materia di perimetro di sicurezza nazionale cibernetica, ai sensi dell'articolo 1, comma 2, del decreto-legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    soggetti inclusi nel perimetro: i soggetti di cui all'articolo 1, comma 2, lettera a), del decreto-legge individuati sulla base dei criteri di cui all'articolo 4 del DPCM; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    compromissione: la perdita di sicurezza o di efficacia dello svolgimento di una funzione essenziale dello Stato o di un servizio essenziale, connessa al malfunzionamento, all'interruzione, anche parziali, ovvero all'utilizzo improprio di reti, sistemi informativi e servizi informatici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    incidente: ogni evento di natura accidentale o intenzionale che determina il malfunzionamento, l'interruzione, anche parziali, ovvero l'utilizzo improprio delle reti, dei sistemi informativi o dei servizi informatici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    analisi del rischio: un processo che consente di identificare i fattori di rischio di un incidente, valutandone la probabilita' e l'impatto potenziale sulla continuita', sulla sicurezza o sulla efficacia della funzione essenziale o del servizio essenziale, e conseguentemente di trattare tale rischio individuando ed implementando idonee misure di sicurezza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    rete, sistema informativo: 
+ 1) una rete di comunicazione elettronica ai sensi dell'articolo 1, comma 1, lettera dd), del decreto legislativo 1° agosto 2003, n. 259; 
+ 2) qualsiasi dispositivo o gruppo di dispositivi interconnessi o collegati, uno o piu' dei quali eseguono, in base ad un programma, un trattamento automatico di dati digitali, ivi inclusi i sistemi di controllo industriale; 
+ 3) i dati digitali conservati, trattati, estratti o trasmessi per mezzo di reti o dispositivi di cui ai numeri 1) e 2), per il loro funzionamento, uso, protezione e manutenzione, compresi i programmi di cui al numero 2); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    servizio informatico: un servizio consistente interamente o prevalentemente nel trattamento di informazioni, per mezzo della rete e dei sistemi informativi, ivi incluso quello di cloud computing di cui all'articolo 3, comma 1, lettera aa), del decreto legislativo 18 maggio 2018, n. 65; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    categorie: tipologie di beni, sistemi o servizi ICT destinati ad essere impiegati sui beni ICT di cui all'elenco dell'articolo 7 del DPCM, individuate sulla base di criteri tecnici, la cui acquisizione e' subordinata alla valutazione del CVCN; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    oggetto della fornitura: bene, sistema o servizio ICT, appartenente alle categorie, che il soggetto incluso nel perimetro intende acquisire; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    CVCN: il Centro di Valutazione e Certificazione nazionale, istituito presso il Ministero dello sviluppo economico, di cui all'articolo 1, comma 6, lettera a), del decreto-legge; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    CV: i centri di valutazione del Ministero dell'interno e del Ministero della difesa di cui all'articolo 1, comma 6, lettera a), del decreto-legge; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    LAP: laboratorio accreditato di prova, indipendente dai soggetti inclusi nel perimetro e dai fornitori, che ha ottenuto l'accreditamento dal CVCN ai sensi dell'articolo 1, comma 7 del decreto-legge; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    oggetto della valutazione: l'oggetto della fornitura di beni, sistemi o servizi ICT, sottoposto al procedimento di valutazione da parte del CVCN o dei CV; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    centrali di committenza: Consip S.p.A. e i soggetti aggregatori ai fini della realizzazione degli strumenti di cui all'articolo 1, comma 512, della legge 28 dicembre 2015, n. 208, nonche' la societa' di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nell'ambito individuato dall'articolo 31, comma 5, del decreto-legge 16 luglio 2020, n. 76, convertito, con modificazioni, dalla legge 11 settembre 2020, n. 120; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    fornitore: persona fisica o giuridica che fornisce l'oggetto della fornitura di beni, sistemi o servizi ICT, destinato alle reti, ai sistemi informativi e ai servizi informatici di cui all'articolo 1, comma 2, lettera b), del decreto-legge; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    evidenze: documenti, registrazioni, dati, constatazioni, dichiarazioni di fatti, reportistica, attivita', procedure, o altre informazioni utili ad attestare l'adempimento degli obblighi previsti dal decreto-legge; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    verifica: attivita' di analisi e controllo documentale delle evidenze al fine di accertare l'adempimento degli obblighi previsti dal decreto-legge; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    ispezione: attivita' di tipo ricognitivo e valutativo che si articola nell'analisi, rilevazione, acquisizione e verifica di conformita' di elementi di fatto e di diritto utili ad accertare l'adempimento degli obblighi previsti dal decreto-legge; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    autorita' competenti: le autorita' che, ai sensi dell'articolo 1, comma 6, lettera c), del decreto-legge, dispongono ed effettuano verifiche e ispezioni; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    personale incaricato: il personale incaricato dalle Autorita' competenti dello svolgimento delle verifiche e delle ispezioni.
+
 ## Art. 2. — Oggetto
+
+1.
+                        
+                            
+                                Il presente decreto, in attuazione dell'articolo 1, comma 6, lettere a), b) e c), del decreto-legge, definisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le procedure, le modalita' ed i termini da seguire ai fini delle valutazioni da parte del CVCN e dei CV, ciascuno nell'ambito delle rispettive competenze, in ordine all'acquisizione, da parte dei soggetti inclusi nel perimetro, di oggetti di fornitura rientranti nelle categorie individuate sulla base dei criteri di cui alla lettera b) del presente comma, fatti salvi i casi di deroga di cui all'articolo 1, comma 6, lettera a), del decreto-legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di natura tecnica per l'individuazione delle categorie a cui si applica la procedura di valutazione di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure, le modalita' ed i termini con cui le Autorita' competenti effettuano le attivita' di verifica e ispezione ai fini dell'accertamento del rispetto degli obblighi stabiliti nel decreto-legge e nei decreti attuativi.
 
 ## - Capo II Procedura di valutazione del CVCN e dei CV
 
@@ -35,6 +221,65 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
 I soggetti inclusi nel perimetro, prima dell'avvio delle procedure di affidamento ovvero, ove non siano previste, prima della conclusione dei contratti relativi alla fornitura di beni, sistemi e di servizi ICT di cui all'articolo 1, comma 6, lettera a), del decreto-legge, anche nel caso in cui tali procedure siano espletate attraverso le centrali di committenza, ne danno comunicazione al CVCN o ai CV.
 
 La comunicazione e' trasmessa in via telematica al CVCN o ai CV per le valutazioni di rispettiva competenza del CVCN o dei CV. I dati contenuti nelle comunicazioni sono raccolti in archivi informatici istituiti presso le Amministrazioni nelle quali operano il CVCN e i CV, con risorse disponibili a legislazione vigente.
+
+3.
+                        
+                            
+                                La comunicazione di cui al comma 1, oltre ai dati identificativi del soggetto incluso nel perimetro, contiene i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la descrizione generale dell'oggetto della fornitura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impiego, ovvero la destinazione d'uso dell'oggetto della fornitura nell'ambito dei beni ICT di cui all'articolo 7 del DPCM; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la categoria di appartenenza dell'oggetto della fornitura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le informazioni e i servizi che l'oggetto della fornitura deve trattare e le relative modalita' di gestione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le informazioni relative all'eventuale acquisizione mediante gli strumenti di cui all'articolo 1, comma 512, della legge 28 dicembre 2015, n. 208.
+
+4.
+                        
+                            
+                                In aggiunta agli elementi di cui al comma 3, la comunicazione include il documento di analisi del rischio associato all'oggetto della fornitura, anche in relazione all'ambito di impiego. Il documento contiene la descrizione dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ambiente operativo dell'ambito di impiego specificando: 
+ 1. i componenti con i quali l'oggetto della fornitura interagisce e le configurazioni di tali componenti; 
+ 2. le eventuali misure di sicurezza esistenti di tipo fisico, tecnico, procedurale, relative al personale con indicazione delle eventuali certificazioni o verifiche eseguite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti di sicurezza che caratterizzano l'impiego dell'oggetto della fornitura, espressi in termini di capacita' di proteggere la disponibilita', l'integrita' e la riservatezza delle informazioni e i servizi di cui al comma 3, lettera d).
 
 Con successivo atto del CVCN, da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono definite le metodologie per la predisposizione del documento di analisi del rischio e per l'individuazione dei livelli di severita' dei test di cui all'articolo 5, comma 2.
 
@@ -45,7 +290,57 @@ Ai fini del comma 5, il CVCN, sulla base di standard tecnici di riferimento, tie
 
 Il CVCN o i CV, secondo le rispettive competenze stabilite nell'articolo 1, comma 6, del decreto-legge, svolgono il procedimento di verifica e valutazione dell'analisi documentale contenuta nella comunicazione di cui all'articolo 3.
 
+2.
+                        
+                            
+                                Il procedimento si articola in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifiche preliminari di cui all'articolo 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fase di preparazione all'esecuzione dei test, di cui all'articolo 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esecuzione dei test di hardware e di software di cui all'articolo 7.
+
 All'esito delle verifiche e dei test di cui al comma 2, il CVCN o i CV, con apposito provvedimento, definiscono eventuali condizioni e test di hardware e di software da inserire nelle clausole del bando di gara o del contratto, di cui all'articolo 5, nonche' eventuali prescrizioni di utilizzo al soggetto incluso nel perimetro, di cui all'articolo 8.
+
+4.
+                        
+                            
+                                Le attivita' di cui alla lettera a) del comma 2 sono svolte entro il termine di quarantacinque giorni dalla comunicazione di cui all'articolo 3, prorogabile una sola volta di quindici giorni nei casi di particolare complessita', nell'ipotesi in cui l'oggetto di valutazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia costituito da beni, sistemi e servizi ICT integrati tra di loro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia basato su tecnologie di recente sviluppo per le quali non si dispone di metodologie di test consolidate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    interagisce con componenti che erogano altre funzioni essenziali o servizi essenziali.
 
 Le attivita' di cui alla lettera c) del comma 2 si concludono entro sessanta giorni a partire dalla data in cui il soggetto incluso nel perimetro comunica che l'oggetto della valutazione e' reso fisicamente disponibile per i test al CVCN o ai CV secondo le condizioni individuate ai sensi dell'articolo 5, commi 5 e 6.
 
@@ -64,7 +359,64 @@ A seguito della comunicazione di cui all'articolo 3, il CVCN o i CV effettuano v
 
 Nell'individuazione dei test da eseguire, il CVCN e i CV tengono conto dell'analisi del rischio di cui all'articolo 3 e dei livelli di severita' determinati sulla base della metodologia di cui al comma 5 del medesimo articolo 3.
 
+3.
+                        
+                            
+                                Il CVCN e i CV possono richiedere l'esecuzione delle seguenti tipologie di test: 
+ 
+                            
+                            
+                                a)
+                                
+                                    test di corretta implementazione delle funzionalita' di sicurezza allo scopo di verificare che queste ultime si comportino secondo le relative specifiche di progetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    test di intrusione a supporto dell'analisi di vulnerabilita'.
+
 Con atto del CVCN, da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto e da aggiornarsi periodicamente, sono definiti i test corrispondenti ai livelli di severita' derivanti dall'analisi del rischio di cui all'articolo 3.
+
+5.
+                        
+                            
+                                Nel caso di imposizione di test, il fornitore e' tenuto ad effettuare almeno le seguenti attivita' propedeutiche e indispensabili alla loro esecuzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire evidenza dell'idoneita' delle funzioni di sicurezza e delle loro configurazioni a soddisfare i requisiti di sicurezza di cui all'articolo 3, comma 4, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvedere all'allestimento di un ambiente di test adeguatamente rappresentativo della realta' di esercizio presso il laboratorio o, se necessario, presso il fornitore o presso il soggetto del perimetro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire una descrizione generale dell'architettura dell'oggetto di valutazione e delle sue funzioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornire una descrizione delle funzionalita' di sicurezza implementate nell'oggetto di valutazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fornire una descrizione dei test funzionali e di sicurezza gia' eseguiti dal fornitore o dal produttore o da una parte terza, comprensivi dei relativi risultati.
 
 Ai sensi dell'articolo 4, comma 3, il CVCN e i CV definiscono, con apposito provvedimento, da comunicarsi al soggetto incluso nel perimetro le eventuali ulteriori condizioni, i test da eseguire ed eventuali indicazioni per il supporto da parte del fornitore ai fini dell'integrazione nei bandi di gara o nei contratti con clausole che condizionano, sospensivamente ovvero risolutivamente, il contratto al rispetto delle condizioni e all'esito favorevole dei test.
 
@@ -76,7 +428,61 @@ Il soggetto incluso nel perimetro, successivamente all'aggiudicazione della gara
 
 ## Art. 6. — Preparazione all'esecuzione dei test
 
+1.
+                        
+                            
+                                A seguito della comunicazione di cui al comma 9 dell'articolo 5, il CVCN e i CV verificano, attraverso una piattaforma informatica operante presso il Ministero dello sviluppo economico, se l'oggetto di fornitura e' stato gia' sottoposto a precedenti valutazioni o se sono in corso valutazioni, secondo le modalita' dell'articolo 7. Nel caso in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'oggetto sia stato sottoposto a precedenti valutazioni o sia in corso di valutazione, sono effettuate le verifiche di cui al comma 2, finalizzate a evitare la duplicazione di test eventualmente gia' eseguiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'oggetto non sia stato sottoposto a precedenti valutazioni e non sia in corso di valutazione, si procede come descritto al comma 3.
+
+2.
+                        
+                            
+                                Nei casi di cui al comma 1, lettera a), ferme restando le condizioni di cui all'articolo 5, sull'oggetto di valutazione non sono effettuati test nei casi in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su tutte le funzioni di sicurezza necessarie per soddisfare i requisiti di sicurezza di interesse nella nuova valutazione siano stati eseguiti o siano in corso di esecuzione sia i test di corretta implementazione di cui all'articolo 5, comma 3, lettera a), sia i test di intrusione di cui all'articolo 5, comma 3, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i test di intrusione siano stati eseguiti o siano in corso di esecuzione con riferimento a livelli di severita' non inferiori a quelli selezionati per la valutazione in corso.
+
 Nei casi di cui al comma 1, lettera a), diversi dal comma 2, ferme restando le condizioni di cui all'articolo 5, il CVCN o i CV, se necessario in collaborazione con il soggetto incluso nel perimetro, identificano i test da eseguire escludendo quelli precedentemente eseguiti o in corso di esecuzione.
+
+4.
+                        
+                            
+                                Nei casi di cui al comma 1, lettera b), e di cui al comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il CVCN puo' affidare l'esecuzione dei test ad un laboratorio accreditato, informandone il soggetto incluso nel perimetro e il fornitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il CVCN e i CV invitano il fornitore a predisporre le attivita' preliminari all'esecuzione dei test di cui all'articolo 5 e definiscono la sede in cui svolgere tali attivita'.
 
 Nei casi di cui al comma 2, il CVCN o i CV, ferma restando la possibilita' di prevedere le prescrizioni di utilizzo di cui all'articolo 8, comunicano al soggetto incluso nel perimetro, e per conoscenza al fornitore, la conclusione del procedimento.
 
@@ -121,6 +527,31 @@ Le spese a carico del fornitore per le attivita' di valutazione svolte dal CVCN 
 
 Nel rispetto dell'articolo 1, comma 6, lettera a), ultimo periodo, del decreto-legge, non sono tenute agli obblighi di comunicazione previsti dal presente decreto le Autorita' di pubblica sicurezza e le forze di polizia di cui agli articoli 1, 13, 14, 15 e 16, della legge 1° aprile 1981, n. 121.
 
+2.
+                        
+                            
+                                Ai sensi dell'articolo 1, comma 6, lettera a), del decreto-legge, ai fini della deroga alla comunicazione di cui all'articolo 3, e' considerato indispensabile procedere in sede estera, salvo motivate esigenze connesse a specifici impieghi, per le forniture dei seguenti beni, sistemi e servizi ICT, se acquisite e utilizzate nel Paese in cui i soggetti del perimetro operano, tramite uffici, sedi o filiali all'estero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    realizzazione e aggiornamento di reti informatiche e di telecomunicazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi di connettivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi di gestione, assistenza e manutenzione di apparati e sistemi informatici, di rete e di telecomunicazione, erogati in presenza presso la sede estera.
+
 L'elenco e la documentazione relativa agli affidamenti effettuati ai sensi del comma 2 sono resi disponibili per le verifiche e le ispezioni di cui al capo IV del presente decreto.
 
 Nei casi di cui al presente articolo e' comunque garantito l'utilizzo di beni, sistemi e servizi ICT conformi alle misure di sicurezza di cui all'articolo 1, comma 3, lettera b), del decreto-legge.
@@ -138,6 +569,52 @@ Ai sensi dell'articolo 3, comma 2, del decreto-legge, la valutazione degli eleme
 ## Art. 13. — Criteri tecnici per 
  l'individuazione delle categorie
 
+1.
+                        
+                            
+                                Le categorie di beni, sistemi e servizi ICT oggetto della valutazione da parte del CVCN o dai CV sono individuate sulla base dell'esecuzione o svolgimento delle seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    commutazione oppure protezione da intrusioni e rilevazione di minacce informatiche in una rete, ivi inclusa l'applicazione di politiche di sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comando, controllo e attuazione in una rete di controllo industriale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    monitoraggio e controllo di configurazione di una rete di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sicurezza della rete riguardo alla disponibilita', autenticita', integrita' o riservatezza dei servizi offerti o dei dati conservati, trasmessi o trattati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    autenticazione e allocazione delle risorse di una rete di comunicazione elettronica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    implementazione di un servizio informatico per mezzo della configurazione di un programma software esistente oppure dello sviluppo, parziale o totale, di un nuovo programma software, costituente la parte applicativa rilevante ai fini dell'erogazione del servizio informatico stesso.
+
 Le categorie, sulla base dei criteri di cui al comma 1, sono individuate con decreto del Presidente del Consiglio dei ministri, ai sensi dell'articolo 1, comma 6, lettera a), del decreto-legge.
 
 ## - Capo IV Ispezioni e verifiche
@@ -145,9 +622,94 @@ Le categorie, sulla base dei criteri di cui al comma 1, sono individuate con dec
 ## Art. 14. — Oggetto delle verifiche 
  e delle ispezioni
 
+1.
+                        
+                            
+                                Le verifiche e le ispezioni hanno lo scopo di accertare, nell'ambito di quanto previsto dal presente decreto, l'adempimento da parte dei soggetti inclusi nel perimetro dei seguenti obblighi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predisposizione, aggiornamento e trasmissione dell'elenco delle reti, dei sistemi informativi e dei servizi informatici ai sensi dell'articolo 1, comma 2, lettera b), del decreto-legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    notifica al CSIRT italiano (Computer Security Incident Response Team) degli incidenti aventi impatto su reti, sistemi informativi e servizi informatici nei termini e con le modalita' previste dal decreto del Presidente del Consiglio dei ministri di cui all'articolo 1, comma 3, lettera a), del decreto-legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adozione delle misure di sicurezza di cui all'articolo 1, comma 3, lettera b), del decreto-legge, nei termini e con le modalita' previste dal relativo decreto attuativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunicazione al CVCN di cui all'articolo 1, comma 6, lettera a), del decreto-legge, nei termini e con le modalita' previste dal presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    impiego di prodotti e servizi sulle reti, sui sistemi informativi e per l'espletamento dei servizi informatici in conformita' alle condizioni e con superamento dei test imposti dal CVCN ai sensi dell'articolo 1, comma 6, lettera a), del decreto-legge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    collaborazione per l'effettuazione delle attivita' di test da parte dei soggetti ai sensi dell'articolo 1, comma 6, lettera b), del decreto-legge; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    osservanza delle prescrizioni formulate dalle autorita' competenti ai sensi dell'articolo 1, comma 6, lettera c), del decreto-legge, all'esito delle attivita' di ispezione e verifica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    osservanza delle prescrizioni di utilizzo fornite dal CVCN al soggetto ai sensi dell'articolo 1, comma 7, lettera b), del decreto-legge.
+
 ## Art. 15.
 
 Autorita' competenti
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 1, comma 6, lettera c), del decreto-legge, le verifiche e le ispezioni sono svolte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalla Presidenza del Consiglio dei Ministri, per i profili di pertinenza dei soggetti pubblici inclusi nel perimetro e di quelli di cui all'articolo 29 del decreto legislativo 7 marzo 2005, n. 82, rientranti tra i soggetti di cui all'articolo 1, comma 2-bis, del decreto-legge, ed in particolare dalla struttura della Presidenza del Consiglio dei Ministri competente per l'innovazione tecnologica e la digitalizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal Ministero dello sviluppo economico per i soggetti privati inclusi nel perimetro e di cui al medesimo articolo 1, comma 2-bis, del decreto-legge, ed in particolare dalla struttura competente in materia di tecnologie delle comunicazioni e di sicurezza informatica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalle strutture specializzate di cui all'articolo 1, comma 6, lettera c), del decreto-legge, secondo le rispettive competenze, limitatamente alle reti, ai sistemi informativi, ai servizi informatici, di cui all'articolo 1, comma 2, lettera b), dello stesso decreto-legge, connessi alla funzione di prevenzione e repressione dei reati, alla tutela dell'ordine e della sicurezza pubblica, alla difesa civile e alla difesa e sicurezza militare dello Stato, che comunicano gli esiti alla Presidenza del Consiglio dei Ministri per i profili di competenza.
 
 Le autorita' competenti istituiscono e aggiornano un elenco del personale da incaricare per lo svolgimento delle attivita' di ispezione e verifica. L'eventuale accesso ad informazioni classificate di cui all'articolo 42 della legge 3 agosto 2007, n. 124, derivante dallo svolgimento delle predette attivita', e' effettuato, nel rispetto del principio di cui al comma 1 del medesimo articolo e, nel caso di informazioni con classifica superiore a «riservato», esclusivamente da personale in possesso del requisito di cui al comma 1-bis del predetto articolo 42.
 
@@ -162,6 +724,31 @@ Ai sensi dell'articolo 1, comma 8, lettera a), del decreto-legge, le autorita' c
 ## Art. 16.
 
 Attivita' di verifica e ispezione
+
+1.
+                        
+                            
+                                Le autorita' competenti dispongono verifiche e ispezioni sulla base degli atti di programmazione dalle medesime adottati, nonche' in caso di esigenze derivanti da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    notifiche di incidenti ai sensi dell'articolo 1, comma 3, lettera a), del decreto-legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rilevati inadempimenti rispetto agli obblighi imposti dal decreto-legge e dai relativi decreti attuativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segnalazioni provenienti da altre Autorita' Pubbliche.
 
 Le ispezioni sono svolte anche successivamente alle verifiche qualora si ritenga necessario riscontrare le evidenze acquisite, oppure qualora le predette verifiche presentino elementi tali da richiedere un approfondimento.
 
@@ -193,7 +780,82 @@ Qualora nel corso della verifica vengano in rilievo evidenze di fatti che posson
 
 Attivita' di ispezione
 
+1.
+                        
+                            
+                                Le ispezioni possono essere svolte mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riscontro delle evidenze eventualmente acquisite in sede di verifica, qualora le stesse presentino elementi meritevoli di approfondimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analisi, rilevazione, acquisizione e verifica di conformita' di elementi di fatto e di diritto ritenuti necessari.
+
 Per lo svolgimento delle attivita' di cui al comma 1, il personale incaricato puo' richiedere o eventualmente acquisire direttamente tutte le evidenze ritenute utili ai fini dell'accertamento.
+
+3.
+                        
+                            
+                                Le ispezioni possono essere effettuate presso le sedi utilizzate dai soggetti inclusi nel perimetro nei casi di cui all'articolo 16, comma 1. Il procedimento di cui al comma 1 e' avviato secondo le modalita' di cui all'articolo 16, comma 3, con un preavviso non inferiore a quindici giorni. L'informativa riporta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le date e i siti in cui sara' effettuata l'ispezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le persone da intervistare o i loro ruoli e responsabilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le reti, i sistemi informativi e i servizi informatici da sottoporre a ispezione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i nominativi del personale incaricato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eventuali altre informazioni utili ai fini dell'ispezione.
+
+4.
+                        
+                            
+                                Entro cinque giorni dalla ricezione della comunicazione di cui al comma 3, il soggetto ricevente puo' proporre date alternative a quelle previste per l'ispezione, individuando un termine non superiore a dieci giorni per il differimento dell'ispezione. Qualora il soggetto proponga date alternative, l'autorita' competente puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    accettare la proposta di modifica delle date, inviando una comunicazione almeno sette giorni prima della prima data prevista per l'ispezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    proporre ulteriori date e comunicarle al soggetto con le modalita' di cui alla precedente lettera a); tali nuove date non possono essere soggette a richieste di modifica da parte del soggetto e si intendono confermate.
 
 In mancanza della proposta di cui alla lettera a) del comma 4, le date delle ispezioni si intendono confermate.
 

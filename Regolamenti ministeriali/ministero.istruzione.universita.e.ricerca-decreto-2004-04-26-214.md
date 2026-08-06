@@ -8,8 +8,8 @@ codice_redazionale: 004G0250
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,9 +25,129 @@ Considerata la necessita' di procedere alla emanazione del regolamento ministeri
 
 Il regolamento definisce i criteri e le procedure per gli istituti stranieri di istruzione superiore che operano in Italia ai fini del riconoscimento dei titoli di studio da essi rilasciati ai sensi dell'articolo VI.5 della Convenzione.
 
+2.
+                    
+                        
+                            Ai sensi del regolamento si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per Ministro, il Ministro dell'istruzione, universita' e ricerca;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Ministero, il Ministero dell'istruzione, universita' e ricerca;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per Dipartimento, il Dipartimento per l'universita', l'alta formazione artistica, musicale e coreutica e per la ricerca scientifica e tecnologica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per Convenzione, la Convenzione sul riconoscimento dei titoli di studio relativi all'insegnamento superiore nella Regione europea, fatta a Lisbona l'11 aprile 1997;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per legge, la legge 11 luglio 2002, n. 148;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per istituti stranieri di istruzione superiore, gli istituti stranieri di istruzione superiore statali o riconosciuti dallo Stato o accreditati nello Stato di origine abilitati al rilascio di titoli di studio, di documentata rilevanza scientifica sul piano internazionale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per Comitato, il Comitato Nazionale di Valutazione del sistema universitario di cui all'articolo 2 della legge 19 ottobre 1999, n. 370;
+
+                            
+                        
+                        
+                            h)
+                            
+                                per CNAM, il Consiglio Nazionale per l'Alta Formazione Artistica e Musicale;
+
+                            
+                        
+                        
+                            i)
+                            
+                                per Comitato Regionale di Coordinamento, il Comitato di cui all'articolo 3 del decreto del Presidente della Repubblica 27 gennaio 1998, n. 25.
+
 ## Art. 2. — Requisiti
 
 Gli istituti stranieri di istruzione superiore, ai fini del riconoscimento ai sensi dell'articolo VI.5 della Convenzione dei titoli di studio da essi rilasciati, rivolgono istanza al Ministero, secondo modalita' stabilite con decreto del Ministero stesso. Sono consentite integrazioni dell'istanza ove il procedimento di riconoscimento non sia stato nel frattempo concluso.
+
+2.
+                    
+                        
+                            I suddetti istituti devono possedere i seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                essere istituti riconosciuti facenti parte del sistema di istruzione superiore del proprio Paese, ai sensi dell'articolo VIII.2, lettera b), della Convenzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere istituti di istruzione superiore di particolare rilevanza scientifica sul piano internazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sede o le sedi ove si svolgono in Italia le attivita' didattiche devono disporre di adeguate strutture edilizie, strumentali, didattico-scientifiche e adeguati servizi per gli studenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le attivita' didattiche svolte devono essere incluse nei programmi di studio degli istituti stranieri di istruzione superiore di cui al punto a);
+
+                            
+                        
+                        
+                            e)
+                            
+                                i criteri di accesso ai corsi di studio e di verifica della preparazione degli studenti debbono essere omologhi a quelli adottati dagli istituti di cui al medesimo punto a);
+
+                            
+                        
+                        
+                            f)
+                            
+                                le attivita' d'insegnamento devono essere impartite da personale docente in possesso di requisiti professionali analoghi a quelli del personale docente degli istituti di cui al medesimo punto a);
+
+                            
+                        
+                        
+                            g)
+                            
+                                i titoli rilasciati in Italia devono avere nel Paese di origine lo stesso valore dei titoli rilasciati dagli istituti stranieri di istruzione superiore di cui al medesimo punto a).
 
 ## Art. 3. — Procedura
 

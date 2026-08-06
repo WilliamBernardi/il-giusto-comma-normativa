@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2007-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,31 @@ Non prima di dodici e non oltre ventiquattro mesi dalla data di insediamento del
 L'Amministrazione autonoma dei monopoli di Stato e' autorizzata a dare in concessione, nel rispetto della normativa comunitaria e nazionale, attivita' e servizi di natura industriale e commerciale strumentali rispetto alle attivita' esercitate, anche in deroga alle disposizioni dell'articolo 19 della legge 29 gennaio 1986, n. 25.
 
 ## Art. 2. — Organi, statuto, regolamenti e controllo dell'Ente
+
+1.
+                    
+                        
+                            Sono organi dell'Ente:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori dei conti.
 
 Il presidente ha la rappresentanza legale dell'Ente, sovrintende al suo funzionamento e vigila sulla esecuzione delle deliberazioni del consiglio di amministrazione. Trasmette al Ministro delle finanze tutte le deliberazioni adottate dal consiglio di amministrazione e presta la collaborazione necessaria all'esercizio del potere di vigilanza del Ministro delle finanze. Le determinazioni riguardanti programmi generali, produttivi e commerciali e processi di ristrutturazione, risanamento e incremento delle produzioni sono adottate entro un anno dalla data di insediamento del consiglio di amministrazione, sentito apposito comitato consultivo paritetico cui partecipano, nella medesima proporzione, rappresentanti dell'amministrazione dell'Ente e rappresentanti dei lavoratori dipendenti dell'Ente, in numero non inferiore a sei, designati dalle organizzazioni maggiormente rappresentative delle rispettive categorie; partecipano altresi', limitatamente alle questioni attinenti allo specifico settore di competenza, rappresentanti dei gestori di magazzino, dei tabaccai e dei produttori e trasformatori di tabacchi greggi, parimenti designati dalle organizzazioni di categoria maggiormente rappresentative.
 

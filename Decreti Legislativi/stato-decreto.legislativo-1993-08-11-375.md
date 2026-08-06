@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1996-12-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,39 @@ Acquisito il parere della Commissione permanente del Senato della Repubblica;
 
 
 I dati del modello sono acquisiti all'anagrafe dei lavoratori agricoli, istituita presso il Ministero del lavoro e della previdenza sociale, che rende disponibili i dati stessi, ed ogni altra informazione da essa acquisita, alle amministrazioni pubbliche centrali e territoriali mediante collegamento telematico o, in mancanza, tramite idoneo supporto informatico.
+
+3.
+                    
+                        
+                            Con uno o piu' decreti del Ministro del lavoro e della previdenza sociale sono fissate: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    (( LETTERA ABROGATA DAL D.L. 1 OTTOBRE 1996, N. 510, CONVERTITO CON MODIFICAZIONI DALLA L. 28 NOVEMBRE 1996, N. 608 )); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di graduale realizzazione, nel sistema informativo del lavoro, dell'anagrafe dei lavoratori agricoli ove far confluire, per i predetti lavoratori, i dati acquisiti ai sensi del presente decreto o di altre disposizioni di legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di accesso all'anagrafe da parte di associazioni sindacali e di categoria nazionali e territoriali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di collegamento ed integrazione con l'anagrafe delle aziende agricole di cui all'art. 3.
 
 E' fatto obbligo alle amministrazioni comunali, alle camere di commercio, all'Ente nazionale di previdenza ed assistenza per gli impiegati dell'agricoltura (ENPAIA) e ad ogni altra amministrazione pubblica di consentire l'acquisizione, a titolo gratuito, di dati riguardanti i lavoratori agricoli mediante collegamento telematico, ovvero tramite idoneo supporto informativo.
 
@@ -56,6 +89,24 @@ Per il primo impianto nell'anagrafe confluiscono i dati sulle posizioni aziendal
 
 L'anagrafe contiene gli elementi relativi alle posizioni aziendali di ciascuna impresa o datore di lavoro, acquisiti fra l'altro ai sensi dell'art. 5, ed e' aggiornata in relazione alle variazioni intervenute nei predetti dati.
 
+4.
+                    
+                        
+                            L'anagrafe e' realizzata e gestita in modo da garantire: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'accesso degli enti previdenziali, delle strutture centrali e territoriali del Ministero del lavoro e della previdenza sociale, ivi comprese le commissioni provinciali per la manodopera agricola e le commissioni circoscrizionali per il collocamento in agricoltura; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la piena connettivita' con l'anagrafe dei lavoratori agricoli per una utilizzazione integrata delle informazioni da parte di tutte le strutture pubbliche interessate.
+
 Con decreto del Ministro del lavoro e della previdenza sociale, in conformita' con i principi di trasparenza della legge 7 agosto 1990, n. 241, sono definiti i limiti e le modalita' di accesso all'anagrafe di associazioni di categoria, organizzazioni sindacali, enti pubblici, privati.
 
 Ai fini della immediata attivazione dell'anagrafe delle aziende lo SCAU puo' utilizzare i servizi informatici messi a disposizione, in base ad apposita convenzione ed a titolo gratuito, dall'INPS e dall'INAIL.
@@ -72,6 +123,52 @@ AGGIORNAMENTO (3)
  Il D.L. 23 ottobre 1996, n. 542, convertito con modificazioni dalla L. 23 dicembre 1996, n. 649, ha disposto (con l'art. 2, comma 3) che "L'articolo 4 del decreto legislativo 11 agosto 1993, n. 375, trova applicazione a decorrere dal 1 giugno 1996".
 
 ## Art. 5. — Denuncia aziendale
+
+1.
+                    
+                        
+                            I datori di lavoro agricolo sono tenuti a presentare agli uffici provinciali dello SCAU, ai fini dell'accertamento dei contributi previdenziali dovuti per gli operai agricoli occupati e della gestione dell'anagrafe delle aziende agricole, la denuncia aziendale contenente i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                ubicazione, denominazione ed estensione dei terreni distintamente per titolo del possesso e per singole colture praticate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                generalita', codice fiscale, residenza e domicilio fiscale del datore di lavoro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                indicazione della ditta intestata in catasto e delle partite, fogli e particelle catastali dei terreni condotti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                numero dei capi di bestiame allevati, distintamente per spe- cie, e modalita' di allevamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' complementari ed accessorie connesse con l'attivita' agricola; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                parco macchine ed ogni altra notizia utile sulle caratteristiche dell'azienda.
 
 La denuncia aziendale e' compilata su modello predisposto dallo SCAU ed e' presentata entro trenta giorni dalla data di inizio dell'attivita' al predetto ente.
 
@@ -101,6 +198,61 @@ Le dichiarazioni di cui al presente articolo fanno fede a tutti gli effetti, fer
  CONVERTITO CON MODIFICAZIONI DALLA L. 28 NOVEMBRE 1996, N. 608))
 
 ## Art. 8. — C o n t r o l l i
+
+1.
+                    
+                        
+                            Nei casi di omissione e per il controllo dei dati dichiarati, gli uffici provinciali dello SCAU, nell'esercizio degli accertamenti di ufficio, possono tra l'altro: 
+ 
+                        
+                        
+                            a)
+                            
+                                relativamente alle denunce di cui all'art. 5: 
+ 1) invitare i datori di lavoro agricolo, indicandone il motivo, a esibire o trasmettere atti e documenti; 
+ 2) inviare loro questionari relativi a dati e notizie di carattere specifico con invito a restituirli compilati e firmati; 
+ 3) richiedere agli uffici pubblici, che hanno l'obbligo di fornirli anche su supporti informatici o in rete telematica qualora dispongano di idonea strumentazione, dati, notizie ed elementi rilevanti nei confronti delle aziende e di singoli lavoratori, con esenzione di spese e diritti. Dei risultati degli accertamenti e' data comunicazione agli interessati. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per quanto riguarda le dichiarazioni di cui all'art. 6, avvalersi degli atti del collocamento e di elementi attinenti a posizioni individuali riferibili ad effettive prestazioni di lavoro sulla scorta di ogni altro elemento di riscontro. Gli effetti di carattere contributivo derivanti dall'accertamento sono notificati ai datori di lavoro.
+
+2.
+                    
+                        
+                            Ai fini del raffronto tra i dati aziendali accertati e gli elementi relativi alla manodopera occupata acquisiti sulla base delle risultanze del collocamento, gli uffici dello SCAU provvedono ad una stima tecnica a mezzo visita ispettiva e determinano il numero delle giornate di lavoro occorrenti in relazione all'ordinamento colturale dei terreni, al bestiame allevato, ai sistemi di lavorazione 
+praticati da ciascuna azienda, ai periodi di esecuzione 
+dei lavori, nonche' alle consuetudini locali, previa decurtazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                delle prestazioni di lavoro componenti il nucleo familiare nei casi di aziende diretto-coltivatrici, mezzadrili e coloniche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle effettive, documentate prestazioni di lavoro svolte dai contoterzisti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle prestazioni di lavoro svolte, nello stesso periodo e per le stesse lavorazioni, dagli operai agricoli; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                delle prestazioni di lavoro riguardanti fasi non eseguite del ciclo produttivo agrario.
 
 ((
 
@@ -164,7 +316,71 @@ I ricorsi previsti dal comma 1 che siano stati prodotti, in base alla normativa 
 
 ## Art. 16. — Organi di amministrazione e controllo dello SCAU
 
+1.
+                    
+                        
+                            La commissione centrale dello SCAU di cui all'art. 1 del decreto legislativo luogotenenziale 8 febbraio 1945, n. 75, e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente, scelto dal Ministro del lavoro e della previdenza sociale tra persone esperte in economia sociale agraria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore generale della previdenza ed assistenza sociale o un suo delegato, il direttore generale per l'impiego o un suo delegato, in rappresentanza del Ministero del lavoro e della previdenza sociale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                due funzionari di qualifica non inferiore a primo dirigente, in rappresentanza rispettivamente del Ministero del tesoro e del Ministero delle finanze; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tre rappresentanti dei datori di lavoro e tre rappresentanti dei lavoratori dell'agricoltura, scelti dal Ministro del lavoro e della previdenza sociale su designazione delle organizzazioni sindacali a carattere nazionale maggiormente rappresentative; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante dell'INPS; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante dell'INAIL.
+
 La commissione e' costituita con decreto del Ministro del lavoro e della previdenza sociale ed e' assistita da un funzionario del Servizio, in qualita' di segretario, con qualifica funzionale non inferiore alla ottava.
+
+3.
+                    
+                        
+                            Il collegio dei revisori dello SCAU di cui all'art. 5 del decreto legislativo luogotenenziale 8 febbraio 1945, n. 75, e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                due funzionari con qualifica di dirigente generale, di cui uno in rappresentanza del Ministero del lavoro e della previdenza sociale, con funzioni di presidente, e l'altro in rappresentanza del Ministero del tesoro, entrambi collocati fuori ruolo secondo le disposizioni dei vigenti ordinamenti di appartenenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un esperto in materia di bilancio e revisione, designato dalle organizzazioni sindacali dei lavoratori e dei datori di lavoro presenti nella commissione di cui al comma 1.
 
 Il collegio dei revisori e' costituito con decreto del Ministro del lavoro e della previdenza sociale.
 

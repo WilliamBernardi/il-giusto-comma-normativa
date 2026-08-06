@@ -8,8 +8,8 @@ codice_redazionale: 000G0001
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,31 @@ Il presente regolamento riunisce e coordina le disposizioni riguardanti le modal
 
 ## Art. 2. — Amministrazioni competenti
 
+1.
+                    
+                        
+                            All'attribuzione delle speciali elargizioni e dell'assegno vitalizio previsti dalle leggi 13 agosto 1980, n. 466, 20 ottobre 1990, n. 302, e 23 novembre 1998, n. 407, in favore dei superstiti di dipendenti pubblici vittime del dovere o in favore degli stessi dipendenti pubblici che abbiano riportato le invalidita' indicate dalle citate leggi nell'adempimento del dovere, provvedono le seguenti amministrazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il Ministero dell'interno - Dipartimento della pubblica sicurezza - per gli appartenenti alla Polizia di Stato, all'Arma dei carabinieri, al Corpo della guardia di finanza, al Corpo forestale dello Stato, al Corpo di polizia penitenziaria, alle polizie municipali; il Ministero dell'interno - Direzione generale della protezione civile e dei servizi antincendi - per gli appartenenti al Corpo nazionale dei vigili del fuoco;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Ministero di grazia e giustizia per i magistrati ordinari, i giudici di pace, i giudici onorari di tribunale, i giudici popolari ed il personale civile dell'amministrazione penitenziaria non appartenente al Corpo di polizia penitenziaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il Ministero della difesa per gli appartenenti alle Forze armate dello Stato.
+
 Il Ministero dell'interno - Dipartimento della pubblica sicurezza e', altresi', competente in ordine all'attribuzione dei benefici previsti dalle predette leggi in favore delle persone che, legalmente richieste, abbiano prestato assistenza ad ufficiali e agenti di polizia giudiziaria o ad autorita', ufficiali e agenti di pubblica sicurezza.
 
 All'attribuzione dei benefici previsti in favore dei cittadini italiani che non rientrano in alcuna delle categorie per le quali e' determinata l'amministrazione competente, nonche' degli stranieri e degli apolidi, ovvero dei loro superstiti, provvede il Ministero dell'interno - Direzione generale dei servizi civili.
@@ -42,9 +67,61 @@ Per il conferimento dei benefici gli interessati debbono presentare apposita dom
 
 Si puo' prescindere dalla medesima e procedere d'ufficio per i dipendenti pubblici vittime del dovere.
 
+3.
+                    
+                        
+                            La domanda deve essere presentata:
+ 
+                        
+                        
+                            a)
+                            
+                                per quanto di competenza del Ministero dell'interno, al prefetto del luogo in cui si e' verificato l'evento o della provincia di residenza dei beneficiari, per il successivo esame;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per quanto di competenza:
+ 1) del Ministero della difesa, al comando militare di appartenenza;
+ 2) del Ministero di grazia e giustizia, alla Direzione generale dell'organizzazione giudiziaria e al Dipartimento dell'amministrazione penitenziaria, per il personale rispettivamente amministrato.
+
 Nel caso di residenti all'estero, la domanda e' inoltrata per il tramite dell'ufficio consolare del luogo di residenza dell'interessato, che provvede a trasmettere la domanda e la documentazione occorrente alla prefettura della provincia dove si e' verificato l'evento, per gli ulteriori adempimenti.
 
 ## Art. 4. — Documenti ed atti richiesti
+
+1.
+                    
+                        
+                            Con la domanda o quando l'amministrazione competente o il prefetto ne fa espressa richiesta, prima della corresponsione delle elargizioni previste dalla normativa vigente, gli interessati devono espressamente dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                le provvidenze pubbliche eventualmente gia' percepite, anche in parte, attribuite in ragione delle medesime circostanze, indicando se le stesse abbiano carattere continuativo ovvero siano state corrisposte in un'unica soluzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                se intendano optare, quando si tratti di provvidenze non ancora percepite e non cumulabili, per la corresponsione di tali provvidenze ovvero dei benefici previsti dalle leggi 13 agosto 1980, n. 466 e 20 ottobre 1990, n. 302;
+
+                            
+                        
+                        
+                            c)
+                            
+                                se, fatto salvo il caso di non cumulabilita' dei benefici, intendano optare per la elargizione in unica soluzione o per l'assegno vitalizio previsto dall'articolo 3 della legge 20 ottobre 1990, n. 302;
+
+                            
+                        
+                        
+                            d)
+                            
+                                se abbiano richiesto o abbiano gia' ottenuto, anche in parte, il risarcimento del danno, esibendo la relativa documentazione.
 
 La scelta di uno dei predetti benefici deve essere corredata da espressa rinuncia degli interessati ad altre provvidenze non cumulabili.
 
@@ -185,6 +262,24 @@ L'esenzione dall'IRPEF del trattamento privilegiato di prima categoria, con asse
 Per gli eventi verificatisi prima dell'11 dicembre 1998, si procede a domanda degli interessati.
 
 ## Art. 17. — Rivalutazione degli assegni vitalizi
+
+1.
+                    
+                        
+                            L'importo degli assegni vitalizi e' rivalutato annualmente dai dipartimenti provinciali del tesoro competente all'erogazione:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'assegno vitalizio, ai sensi degli articoli 3 e 5 della legge 20 ottobre 1990, n. 302, in misura pari al tasso dell'inflazione calcolato sulla base dei dati ufficiali dell'Istituto centrale di statistica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'assegno vitalizio, ai sensi dell'articolo 2, comma 1, della legge 23 novembre 1998, n. 407, secondo la perequazione automatica prevista dall'articolo 11 del decreto legislativo 30 dicembre 1992, n. 503.
 
 ## Art. 18. — Applicazione dei benefici di guerra
 

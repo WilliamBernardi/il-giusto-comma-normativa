@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2016-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,60 @@ Su proposta del Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Sospensione legale della riscossione
 
+1.
+                    
+                        
+                            All'articolo 1 della legge 24 dicembre 2012, n. 228, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 538: 
+ 1) nel primo periodo, le parole: "entro novanta" sono sostituite dalle seguenti: "a pena di decadenza entro sessanta"; 
+ 2) la lettera f) e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 539: 
+ 1) il secondo periodo e' sostituito dal seguente: "L'ente creditore, tramite apposito canale telematico, a mezzo posta elettronica certificata oppure a mezzo raccomandata con ricevuta di ritorno, comunica al debitore l'esito dell'esame della dichiarazione, dando altresi' comunicazione al concessionario del provvedimento di sospensione o sgravio ovvero conferma della legittimita' del debito iscritto a ruolo."; 
+ 2) dopo il secondo periodo e' aggiunto il seguente: "Fino a tale momento resta sospeso il termine di cui all'articolo 53, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 539 e' inserito il seguente: "539-bis. La reiterazione della dichiarazione di cui al comma 538 non e' ammessa e, in ogni caso, non comporta la sospensione delle iniziative finalizzate alla riscossione."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 540, dopo l'ultimo periodo e' inserito il seguente: "L'annullamento non opera in presenza di motivi diversi da quelli elencati al comma 538 ovvero nei casi di sospensione giudiziale o amministrativa o di sentenza non definitiva di annullamento del credito,".
+
+2.
+                    
+                        
+                            All'articolo 49 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: ", fatto salvo il diritto del debitore di dimostrare, con apposita documentazione rilasciata ai sensi del comma 1-bis, l'avvenuto pagamento delle somme dovute ovvero lo sgravio totale riconosciuto dall'ente creditore" sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 1-bis, secondo periodo, 1-ter e 1-quater sono abrogati.
+
 ## Art. 2.
 
 Rateazione delle somme dovute a seguito dell'attivita' di controllo e accertamento dell'Agenzia delle entrate
@@ -58,6 +112,33 @@ L'articolo 8 del decreto legislativo 19 giugno 1997, n. 218, e' sostituito dal s
  2. Le somme dovute possono essere versate anche ratealmente in un massimo di otto rate trimestrali di pari importo o in un massimo di sedici rate trimestrali se le somme dovute superano i cinquantamila euro. L'importo della prima rata e' versato entro il termine indicato nel comma 1. Le rate successive alla prima devono essere versate entro l'ultimo giorno di ciascun trimestre. Sull'importo delle rate successive alla prima sono dovuti gli interessi calcolati dal giorno successivo al termine di versamento della prima rata. 
  3. Entro dieci giorni dal versamento dell'intero importo o di quello della prima rata il contribuente fa pervenire all'ufficio la quietanza dell'avvenuto pagamento. L'ufficio rilascia al contribuente copia dell'atto di accertamento con adesione. 
  4. Per le modalita' di versamento delle somme dovute si applicano le disposizioni di cui all'articolo 15-bis. In caso di inadempimento nei pagamenti rateali si applicano le disposizioni di cui all'articolo 15-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 602.".
+
+3.
+                    
+                        
+                            All'articolo 15 del decreto legislativo 19 giugno 1997, n. 218, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) le parole: "nell'articolo 71" sono sostituite dalle seguenti: "negli articoli 71 e 72"; 
+ 2) le parole: "nell'articolo 50" sono sostituite dalle seguenti: "negli articoli 50 e 51"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: "2. Si applicano le disposizioni degli articoli 2, commi 3, 4 e 5, ultimo periodo, e 8, commi 2, 3 e 4."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: "2-bis.1 Le disposizioni di cui ai commi 1 e 2 si applicano anche nei casi in cui il contribuente rinunci a impugnare l'avviso di liquidazione emesso a seguito della decadenza dalle agevolazioni indicate nella Nota II bis) dell'articolo 1, della Parte I, della Tariffa I allegata al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, e nell'articolo 2, comma 4-bis, del decreto-legge 30 dicembre 2009, n. 194, convertito, con modificazioni, dalla legge 26 febbraio 2010, n. 25.".
 
 Dopo l'articolo 15 del decreto legislativo 19 giugno 1997, n. 218, e' inserito il seguente: 
  "Art. 15-bis (Modalita' di pagamento). - 1. Il pagamento delle somme dovute ai sensi degli articoli 8 e 15 si esegue mediante versamento unitario di cui all'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, secondo le modalita' stabilite dall'articolo 19 del medesimo decreto, fatte salve le ipotesi in cui siano previste altre modalita' di pagamento in ragione della tipologia di tributo. 
@@ -83,7 +164,67 @@ In caso di rateazione ai sensi dell'articolo 3-bis del decreto legislativo 18 di
 ## Art. 4. — Termini per la notifica della cartella 
  di pagamento. Casi particolari
 
+1.
+                    
+                        
+                            All'articolo 25 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera c) e' aggiunta la seguente:
+"c-bis) del terzo anno successivo a quello di scadenza dell'ultima rata del piano di rateazione per le somme dovute a seguito degli inadempimenti di cui all'articolo 15-ter."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 sono inseriti i seguenti: 
+ "1-bis. In deroga alle disposizioni del comma 1, il concessionario notifica la cartella di pagamento, a pena di decadenza: 
+ a) per i crediti anteriori alla data di pubblicazione del ricorso per l'ammissione al concordato preventivo nel registro delle imprese, non ancora iscritti a ruolo, entro il 31 dicembre del terzo anno successivo: 
+ 1) alla pubblicazione del decreto che revoca l'ammissione al concordato preventivo ovvero ne dichiara la mancata approvazione ai sensi degli articoli 173 e 179 del regio decreto 16 marzo 1942, n. 267; 
+ 2) alla pubblicazione della sentenza che dichiara la risoluzione o l'annullamento del concordato preventivo ai sensi del combinato disposto degli articoli 186, 137 e 138 del regio decreto 16 marzo 1942, n. 267; 
+ b) per i crediti rientranti nell'accordo di ristrutturazione dei debiti di cui all'articolo 182-bis del regio decreto 16 marzo 1942, n. 267, non ancora iscritti a ruolo alla data di presentazione della proposta di transazione fiscale di cui all'articolo 182-ter, sesto comma, del regio decreto 16 marzo 1942, n. 267, entro il 31 dicembre del terzo anno successivo alla scadenza del termine di cui al settimo comma dell'articolo 182-ter del regio decreto 16 marzo 1942, n. 267, ovvero alla pubblicazione della sentenza che dichiara l'annullamento dell'accordo; 
+ c) per i crediti non ancora iscritti a ruolo, anteriori alla data di pubblicazione della proposta di accordo di composizione della crisi da sovraindebitamento o della proposta di piano del consumatore, entro il 31 dicembre del terzo anno successivo: 
+ 1) alla pubblicazione del decreto che dichiara la risoluzione o l'annullamento dell'accordo di composizione della crisi da sovraindebitamento, ai sensi dell'articolo 14 della legge 27 gennaio 2012, n. 3, ovvero la cessazione degli effetti dell'accordo, ai sensi dell'articolo 11, comma 5, o dell'articolo 12, comma 4, della medesima legge n. 3 del 2012; 
+ 2) alla pubblicazione del decreto che revoca o dichiara la cessazione degli effetti del piano del consumatore, ai sensi dell'articolo 11, comma 5, e dell'articolo 12-ter, comma 4, della legge n. 3 del 2012. 
+ 1-ter. Se successivamente alla chiusura delle procedure di cui alle lettere a) e b) del comma 1-bis viene dichiarato il fallimento del debitore, il concessionario procede all'insinuazione al passivo ai sensi dell'articolo 87, comma 2, senza necessita' di notificare la cartella di pagamento.".
+
 ## Art. 5. — Concentrazione della riscossione nell'accertamento
+
+1.
+                    
+                        
+                            All'articolo 29 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera b), primo periodo, le parole: "decorsi sessanta giorni dalla notifica" sono sostituite dalle seguenti: "decorso il termine utile per la proposizione del ricorso"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera b), secondo periodo, dopo le parole: "ogni altra azione prevista dalle norme ordinarie a tutela del creditore.", e' inserito il seguente periodo: "La predetta sospensione non opera in caso di accertamenti definitivi, anche in seguito a giudicato, nonche' in caso di recupero di somme derivanti da decadenza dalla rateazione."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera b), ultimo periodo, le parole: "con raccomandata semplice spedita all'indirizzo presso il quale e' stato notificato l'atto di cui alla lettera a)" sono sostituite dalle seguenti: "con raccomandata semplice o posta elettronica"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, lettera e), l'ultimo periodo: "L'espropriazione forzata, in ogni caso, e' avviata, a pena di decadenza, entro il 31 dicembre del terzo anno successivo a quello in cui l'accertamento e' divenuto definitivo;" e' soppresso.
 
 ## Art. 6. — Sospensione della riscossione - Sgravio - 
  Commutazione dell'atto di irrogazione
@@ -147,7 +288,45 @@ Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri
 
 ## Art. 10. — Dilazione di pagamento
 
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 19: 
+ 1) il comma 1 e' sostituito dal seguente: "1. L'agente della riscossione, su richiesta del contribuente che dichiara di versare in temporanea situazione di obiettiva difficolta', concede la ripartizione del pagamento delle somme iscritte a ruolo, con esclusione dei diritti di notifica, fino ad un massimo di settantadue rate mensili. Nel caso in cui le somme iscritte a ruolo sono di importo superiore a cinquantamila euro, la dilazione puo' essere concessa se il contribuente documenta la temporanea situazione di obiettiva difficolta'."; 
+ 2) il comma 1-quater e' sostituito dal seguente: "l-quater.
+Ricevuta la richiesta di rateazione, l'agente della riscossione puo' iscrivere l'ipoteca di cui all'articolo 77 o il fermo di cui all'articolo 86, solo nel caso di mancato accoglimento della richiesta, ovvero di decadenza ai sensi del comma 3. Sono fatti comunque salvi i fermi e le ipoteche gia' iscritti alla data di concessione della rateazione. A seguito della presentazione di tale richiesta, fatta eccezione per le somme oggetto di verifica ai sensi dell'articolo 48-bis, per le quali non puo' essere concessa la dilazione, non possono essere avviate nuove azioni esecutive sino all'eventuale rigetto della stessa e, in caso di relativo accoglimento, il pagamento della prima rata determina l'impossibilita' di proseguire le procedure di recupero coattivo precedentemente avviate, a condizione che non si sia ancora tenuto l'incanto con esito positivo o non sia stata presentata istanza di assegnazione, ovvero il terzo non abbia reso dichiarazione positiva o non sia stato gia' emesso provvedimento di assegnazione dei crediti pignorati."; 
+ 3) al comma 3, la parola: "otto" e' sostituita dalla seguente: "cinque" e la lettera c) e' sostituita dalla seguente: "c) il carico puo' essere nuovamente rateizzato se, all'atto della presentazione della richiesta, le rate scadute alla stessa data sono integralmente saldate. In tal caso, il nuovo piano di dilazione puo' essere ripartito nel numero massimo di rate non ancora scadute alla medesima data. Resta comunque fermo quanto disposto dal comma 1-quater."; 
+ 4) dopo il comma 3, e' inserito il seguente: "3-bis. In caso di provvedimento amministrativo o giudiziale di sospensione totale o parziale della riscossione, emesso in relazione alle somme che costituiscono oggetto della dilazione, il debitore e' autorizzato a non versare, limitatamente alle stesse, le successive rate del piano concesso. Allo scadere della sospensione, il debitore puo' richiedere il pagamento dilazionato del debito residuo, comprensivo degli interessi fissati dalla legge per il periodo di sospensione, nello stesso numero di rate non versate del piano originario, ovvero in altro numero, fino a un massimo di settantadue."; 
+ 5) al comma 4, dopo la parola: "dilazione" sono aggiunte le seguenti: "ed il relativo pagamento puo' essere effettuato anche mediante domiciliazione sul conto corrente indicato dal debitore"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 39, comma 2, le parole: "; tali interessi sono riscossi mediante ruolo formato dall'ufficio che ha emesso il provvedimento di sospensione" sono soppresse.
+
 ## Art. 11. — Autotutela
+
+1.
+                    
+                        
+                            All'articolo 2-quater del decreto-legge 30 settembre 1994, n. 564, convertito, con modificazioni, dalla legge 30 novembre 1994, n. 656, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1-quinquies sono aggiunti i seguenti: 
+ "1-sexies. Nei casi di annullamento o revoca parziali dell'atto il contribuente puo' avvalersi degli istituti di definizione agevolata delle sanzioni previsti per l'atto oggetto di annullamento o revoca alle medesime condizioni esistenti alla data di notifica dell'atto purche' rinunci al ricorso. In tale ultimo caso le spese del giudizio restano a carico delle parti che le hanno sostenute. 
+ 1-septies. Le disposizioni del comma 1-sexies non si applicano alla definizione agevolata prevista dall'articolo 17, comma 2, del decreto legislativo 18 dicembre 1997, n. 472. 
+ 1-octies. L'annullamento o la revoca parziali non sono impugnabili autonomamente.".
 
 ## Art. 12. — Sospensione dei termini per eventi eccezionali
 
@@ -181,7 +360,53 @@ Per assicurare alle Camere di Commercio i tempi tecnici necessari per l'adeguame
 
 Le disposizioni dell'articolo 1, commi da 538 a 540, della legge 24 dicembre 2012, n. 228, nel testo modificato dall'articolo 1 del presente decreto, si applicano alle dichiarazioni presentate successivamente alla data di relativa entrata in vigore del presente decreto. Con provvedimento del Direttore dell'Agenzia delle entrate sono disciplinate le modalita' telematiche di presentazione della dichiarazione e di invio della risposta al debitore. Fino alla data fissata da tale provvedimento resta fermo quanto disposto dalle stesse disposizioni nella versione in vigore antecedente alle suddette modifiche.
 
+2.
+                    
+                        
+                            Le disposizioni di cui all'articolo 2, comma 1, si applicano a decorrere dalle dichiarazioni relative al periodo d'imposta in corso: 
+ 
+                        
+                        
+                            a)
+                            
+                                al 31 dicembre 2014, per le somme dovute ai sensi dell'articolo 2, comma 2, del decreto legislativo 18 dicembre 1997, n. 462; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al 31 dicembre 2013, per le somme dovute ai sensi dell'articolo 3, comma 1, del decreto legislativo 18 dicembre 1997, n. 462; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al 31 dicembre 2012, per le somme dovute ai sensi dell'articolo 1, comma 412, della legge 30 dicembre 2004, n. 311, a seguito della liquidazione dell'imposta dovuta sui redditi di cui all'articolo 17 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, salvo che per le somme dovute relativamente ai redditi di cui all'articolo 21 del medesimo testo unico, per le quali le disposizioni si applicano a decorrere dalle dichiarazioni relative al periodo d'imposta in corso al 31 dicembre 2013.
+
 Le disposizioni di cui all'articolo 2, commi da 2 a 4, non si applicano agli atti di adesione, agli atti definiti ai sensi dell'articolo 15 del decreto legislativo 19 giugno 1997, n. 218, alle conciliazioni giudiziali e alle mediazioni tributarie gia' perfezionati alla data di entrata in vigore del presente decreto.
+
+4.
+                    
+                        
+                            Le disposizioni di cui all'articolo 3 comma 1, si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le rateazioni di cui all'articolo 3-bis del decreto legislativo 18 dicembre 1997, n. 462, a decorrere dalle dichiarazioni relative al periodo d'imposta in corso: 
+ 1) al 31 dicembre 2014; per le somme dovute ai sensi dell'articolo 2, comma 2, del decreto legislativo 18 dicembre 1997, n. 462; 
+ 2) al 31 dicembre 2013, per le somme dovute ai sensi dell'articolo 3, comma 1; del decreto legislativo 18 dicembre 1997, n. 462; 
+ 3) al 31 dicembre 2012, per le somme dovute ai sensi dell'articolo 1, comma 412, della legge 30 dicembre 2004, n. 311, a seguito della liquidazione dell'imposta dovuta sui redditi di cui all'articolo 17 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, salvo che per le somme dovute relativamente ai redditi di cui all'articolo 21 del medesimo testo unico, per le quali le disposizioni si applicano a decorrere dalle dichiarazioni relative al periodo d'imposta in corso al 31 dicembre 2013; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le rateazioni disciplinate ai sensi dell'articolo 8 del decreto legislativo 19 giugno 1997, n. 218, agli atti di adesione, agli atti definiti ai sensi dell'articolo 15 del decreto legislativo 19 giugno 1997, n. 218, alle conciliazioni giudiziali e alle mediazioni tributarie perfezionati a decorrere dalla data di entrata in vigore del presente decreto legislativo.
 
 Le disposizioni di cui all'articolo 19, commi 1, 1-quater e 3, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, come modificate dallo stesso articolo 10, comma 1, lettera a), si applicano alle dilazioni concesse a decorrere dalla data di entrata in vigore del presente decreto.
 

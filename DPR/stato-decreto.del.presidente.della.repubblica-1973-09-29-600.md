@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-05-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -214,6 +214,28 @@ Le societa', gli enti e gli imprenditori commerciali, di cui al primo Comma dell
 
 Le disposizioni dei precedenti articoli si applicano anche ai soggetti che, a norma del codice civile, non sono obbligati alla tenuta delle scritture contabili di cui allo stesso codice. Tuttavia, i soggetti indicati alle lettere c) e d) del primo comma dell'articolo 13, qualora i ricavi indicati agli articoli 57 e 85 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, percepiti in un anno intero, ovvero conseguiti nell'ultimo anno di applicazione dei criteri previsti dall'articolo 109, comma 2, del medesimo testo unico, ((non abbiano superato l'ammontare di 500.000 euro per le imprese aventi per oggetto prestazioni di servizi, ovvero di 800.000 euro per le imprese aventi per oggetto altre attivita')), sono esonerati per l'anno successivo dalla tenuta delle scritture contabili prescritte dai precedenti articoli, salvi gli obblighi di tenuta delle scritture previste da disposizioni diverse dal presente decreto. Per i contribuenti che esercitano contemporaneamente prestazioni di servizi e altre attivita' si fa riferimento all'ammontare dei ricavi relativi all'attivita' prevalente. In mancanza della distinta annotazione dei ricavi, si considerano prevalenti le attivita' diverse dalle prestazioni di servizi. Con decreto del Ministro dell'economia e delle finanze sono stabiliti i criteri per l'individuazione delle attivita' consistenti nella prestazione di servizi.
 
+2.
+                        
+                            
+                                I soggetti che fruiscono dell'esonero di cui al comma 1 devono annotare cronologicamente in un apposito registro i ricavi percepiti indicando per ciascun incasso: 
+                            
+                            
+                                a)
+                                
+                                    il relativo importo;
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita', l'indirizzo e il comune di residenza anagrafica del soggetto che effettua il pagamento;
+                                
+                            
+                            
+                                c)
+                                
+                                    gli estremi della fattura o altro documento emesso. Devono essere altresi' annotate cronologicamente, in diverso registro e con riferimento alla data di pagamento, le spese sostenute nell'esercizio. Per ciascuna spesa devono essere fornite le indicazioni di cui alle lettere b) e c) del primo periodo.
+
 I componenti positivi e negativi di reddito, diversi da quelli indicati al comma 2, sono annotati nei registri obbligatori di cui al medesimo comma 2 entro il termine di presentazione della dichiarazione dei redditi.
 
 I registri tenuti ai fini dell'imposta sul valore aggiunto sostituiscono i registri indicati al comma 2, qualora vi siano iscritte separate annotazioni delle operazioni non soggette a registrazione ai fini della suddetta imposta. In luogo delle singole annotazioni relative a incassi e pagamenti, nell'ipotesi in cui l'incasso o il pagamento non sia avvenuto nell'anno di registrazione, nei registri deve essere riportato l'importo complessivo dei mancati incassi o pagamenti con indicazione delle fatture cui le operazioni si riferiscono. In tal caso, i ricavi percepiti e i costi sostenuti devono essere annotati separatamente nei registri stessi nel periodo d'imposta in cui vengono incassati o pagati, indicando ai sensi del comma 2, lettera c), il documento contabile gia' registrato ai fini dell'imposta sul valore aggiunto.
@@ -288,6 +310,24 @@ Le disposizioni degli articoli 14, 15, 16, 17 e 18 si applicano, relativamente a
 
 ## Art. 20-bis. — (Scritture contabili delle organizzazioni non lucrative di utilita' sociale)
 
+1.
+                        
+                            
+                                Le organizzazioni non lucrative di utilita' sociale (ONLUS) diverse dalle societa' cooperative, a pena di decadenza di benefici fiscali per esse previsti, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in relazione all'attivita' complessivamente svolta, redigere scritture contabili cronologiche e sistematiche atte ad esprimere con compiutezza ed analiticita' le operazioni poste in essere in ogni periodo di gestione, e rappresentare adeguatamente in apposito documento, da redigere entro quattro mesi dalla chiusura dell'esercizio annuale, la situazione patrimoniale, economica e finanziaria della organizzazione, distinguendo le attivita' direttamente connesse da quelle istituzionali, con obbligo di conservare le stesse scritture e la relativa documentazione per un periodo non inferiore a quello indicato dall'articolo 22; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione alle attivita' direttamente connesse tenere le scritture contabili previste dalle disposizioni di cui agli articoli 14, 15, 16 e 18; nell'ipotesi in cui l'ammontare annuale dei ricavi non sia superiore a lire 30 milioni, relativamente alle attivita' di prestazione di servizi, ovvero a lire 50 milioni negli altri casi, gli adempimenti contabili possono essere assolti secondo le disposizioni di cui al comma 166 dell'articolo 3 della legge 23 dicembre 1996, n. 662.
+
 Gli obblighi di cui al comma 1, lettera a), si considerano assolti qualora la contabilita' consti del libro giornale e del libro degli inventari, tenuti in conformita' alle disposizioni di cui agli articoli 2216 e 2217 del codice civile.
 
 I soggetti richiamati al comma 1 che nell'esercizio delle attivita' istituzionali e connesse non abbiano conseguito in un anno proventi di ammontare superiore a lire 100 milioni, modificato annualmente secondo le modalita' previste dall'articolo 1, comma 3, della legge 16 dicembre 1991, n. 398, possono tenere per l'anno successivo, in luogo delle scritture contabili previste al primo comma, lettera a), il rendiconto delle entrate e delle spese complessive, nei termini e nei modi di cui all'articolo 20.
@@ -324,6 +364,52 @@ Le scritture contabili obbligatorie ai sensi del presente decreto, di altre legg
 Gli enti e le societa' indicati nell'articolo 87, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, le societa' e associazioni indicate nell'articolo 5 del predetto testo unico e le persone fisiche che esercitano imprese commerciali, ai sensi dell'articolo 51 del citato testo unico, o imprese agricole, le persone fisiche che esercitano arti e professioni nonche' il condominio quale sostituto d'imposta, i quali corrispondono somme e valori di cui all'articolo 48 dello stesso testo unico, devono operare all'atto del pagamento una ritenuta a titolo di acconto dell'imposta sul reddito delle persone fisiche dovuta dai percipienti, con obbligo di rivalsa. Nel caso in cui la ritenuta da operare sui predetti valori non trovi capienza, in tutto o in parte, sui contestuali pagamenti in denaro, il sostituito e' tenuto a versare al sostituto l'importo corrispondente all'ammontare della ritenuta. (95)
 
 I soggetti che adempiono agli obblighi contributivi sui redditi di lavoro dipendente prestato all'estero di cui all'articolo 48, concernente determinazione del reddito di lavoro dipendente, comma 8-bis, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, devono in ogni caso operare le relative ritenute.
+
+2.
+                        
+                            
+                                La ritenuta da operare e' determinata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sulla parte imponibile delle somme e dei valori, di cui all'articolo 48 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, esclusi quelli indicati alle successive lettere b) e c), corrisposti in ciascun periodo di paga, con le aliquote dell'imposta sul reddito delle persone fisiche, ragguagliando al periodo di paga i corrispondenti scaglioni annui di reddito, ed effettuando le detrazioni previste negli articoli 12 e 13 del citato testo unico, rapportate al periodo stesso. Le detrazioni di cui all'articolo 12 del citato testo unico sono riconosciute se il percipiente dichiara di avervi diritto, indica le condizioni di spettanza, il codice fiscale dei soggetti per i quali si usufruisce delle detrazioni e si impegna a comunicare tempestivamente le eventuali variazioni. PERIODO SOPPRESSO DALLA L. 24 DICEMBRE 2007, N.244; La dichiarazione ha effetto anche per i periodi di imposta successivi. L'omissione della comunicazione relativa alle variazioni comporta l'applicazione delle sanzioni previste dall'articolo 11 del decreto legislativo 18 dicembre 1997, n. 471, e successive modificazioni. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulle mensilita' aggiuntive e sui compensi della stessa natura, con le aliquote dell'imposta sul reddito delle persone fisiche, ragguagliando a mese i corrispondenti scaglioni annui di reddito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sugli emolumenti arretrati relativi ad anni precedenti di cui all'articolo 16, comma 1, lettera b), del citato testo unico, con i criteri di cui all'articolo 18, dello stesso testo unico, intendendo per reddito complessivo netto l'ammontare globale dei redditi di lavoro dipendente corrisposti dal sostituto al sostituito nel biennio precedente, effettuando le detrazioni previste negli articoli 12 e 13 del medesimo testo unico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sulla parte imponibile del trattamento di fine rapporto e delle indennita' equipollenti e delle altre indennita' e somme di cui all'articolo 16, comma 1, lettera a), del citato testo unico con i criteri di cui all'articolo 17, comma 1, secondo periodo, e comma 2-bis, terzo periodo, dello stesso testo unico; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 5 DICEMBRE 2005, N. 252; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sulla parte imponibile delle somme e dei valori di cui all'articolo 48, del citato testo unico, non compresi nell'articolo 16, comma 1, lettera a), dello stesso testo unico, corrisposti agli eredi del lavoratore dipendente, con l'aliquota stabilita per il primo scaglione di reddito.
 
 I soggetti indicati nel comma 1 devono effettuare, entro il 28 febbraio dell'anno successivo e, in caso di cessazione del rapporto di lavoro, alla data di cessazione, il conguaglio tra le ritenute operate sulle somme e i valori di cui alle lettere a) e b) del comma 2, e l'imposta dovuta sull'ammontare complessivo degli emolumenti stessi, tenendo conto delle detrazioni eventualmente spettanti a norma degli articoli 12 e 13 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, e delle detrazioni eventualmente spettanti a norma dell'articolo 15 dello stesso testo unico, e successive modificazioni, per oneri a fronte dei quali il datore di lavoro ha effettuato trattenute, nonche', limitatamente agli oneri di cui al comma 1, lettere c) e f), dello stesso articolo, per erogazioni in conformita' a contratti collettivi o ad accordi e regolamenti aziendali. In caso di incapienza delle retribuzioni a subire il prelievo delle imposte dovute in sede di conguaglio di fine anno entro il 28 febbraio dell'anno successivo, il sostituito puo' dichiarare per iscritto al sostituto di volergli versare l'importo corrispondente alle ritenute ancora dovute, ovvero, di autorizzarlo a effettuare il prelievo sulle retribuzioni dei periodi di paga successivi al secondo dello stesso periodo di imposta. Sugli importi di cui e' differito il pagamento si applica l'interesse in ragione dello 0,50 per cento mensile, che e' trattenuto e versato nei termini e con le modalita' previste per le somme cui si riferisce. L'importo che al termine del periodo d'imposta non e' stato trattenuto per cessazione del rapporto di lavoro o per incapienza delle retribuzioni deve essere comunicato all'interessato che deve provvedere al versamento entro il 15 gennaio dell'anno successivo. PERIODO SOPPRESSO DAL D.LGS. 23 DICEMBRE 1999, N. 505. Se alla formazione del reddito di lavoro dipendente concorrono somme o valori prodotti all'estero le imposte ivi pagate a titolo definitivo sono ammesse in detrazione fino a concorrenza dell'imposta relativa ai predetti redditi prodotti all'estero. La disposizione del periodo precedente si applica anche nell'ipotesi in cui le somme o i valori prodotti all'estero abbiano concorso a formare il reddito di lavoro dipendente in periodi d'imposta precedenti. Se concorrono redditi prodotti in piu' Stati esteri la detrazione si applica separatamente per ciascuno Stato. (66)
 
@@ -484,10 +570,57 @@ Il pagamento dei corrispettivi di cui al comma 1 deve essere eseguito dai condom
 
 I soggetti indicati nel comma 1 dell'articolo 23, che hanno emesso obbligazioni, titoli similari e cambiali finanziarie, operano una ritenuta del 20 per cento, con obbligo di rivalsa, sugli interessi ed altri proventi corrisposti ai possessori. (113) (115) (121)
 
+2.
+                        
+                            
+                                L'Ente poste italiane e le banche operano una ritenuta del 27 per cento, con obbligo di rivalsa, sugli interessi ed altri proventi corrisposti ai titolari di conti correnti e di depositi, anche se rappresentati da certificati. La predetta ritenuta e' operata dalle banche anche sui buoni fruttiferi da esse emessi. Non sono soggetti alla ritenuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli interessi e gli altri proventi corrisposti da banche italiane o da filiali italiane di banche estere a banche con sede all'estero o a filiali estere di banche italiane; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interessi derivanti da depositi e conti correnti intrattenuti tra le banche ovvero tra le banche e l'Ente poste italiane; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli interessi a favore del Tesoro sui depositi e conti correnti intestati al Ministero del tesoro, del bilancio e della programmazione economica, nonche' gli interessi sul "Fondo di ammortamento dei titoli di Stato" di cui al comma 1 dell'articolo 2 della legge 27 ottobre 1993, n. 43, e sugli altri fondi finalizzati alla gestione del debito pubblico.
+
 Quando gli interessi ed altri proventi di cui al comma 2 sono dovuti da soggetti non residenti, la ritenuta ivi prevista e' operata dai soggetti di cui all'articolo 23 che intervengono nella loro riscossione. PERIODO SOPPRESSO DAL D.L. 13 AGOSTO 2011, N. 138.
 PERIODO SOPPRESSO DAL D.L. 13 AGOSTO 2011, N. 138. (66) (115)
 
 I soggetti indicati nel comma 1 dell'articolo 23, che corrispondono i proventi di cui alle lettere g-bis) e g-ter) del comma 1, dell'articolo 44 del testo unico delle imposte sui redditi approvato con il decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ovvero intervengono nella loro riscossione operano sui predetti proventi una ritenuta con aliquota del 20 per cento ovvero con la minore aliquota prevista per le obbligazioni e gli altri titoli di cui all'articolo 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601 ed equiparati e dalle obbligazioni emesse dagli Stati inclusi nella lista di cui al decreto emanato ai sensi dell'articolo 168-bis, comma 1, del medesimo testo unico n. 917 del 1986 e obbligazioni emesse da enti territoriali dei suddetti Stati. Nel caso dei rapporti indicati nella lettera g-bis), la predetta ritenuta e' operata, in luogo della ritenuta di cui al comma 3, anche sugli interessi e gli altri proventi maturati nel periodo di durata dei predetti rapporti. (113)
+
+4.
+                        
+                            
+                                Le ritenute previste nei commi da 1 a 3-bis sono applicate a titolo di acconto nei confronti di: 
+                            
+                            
+                                a)
+                                
+                                    imprenditori individuali, se i titoli, i depositi e conti correnti, nonche' i rapporti da cui gli interessi ed altri proventi derivano sono relativi all'impresa ai sensi dell'articolo 77 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917;
+                                
+                            
+                            
+                                b)
+                                
+                                    societa' in nome collettivo, in accomandita semplice ed equiparate di cui all'articolo 5 del testo unico delle imposte sui redditi;
+                                
+                            
+                            
+                                c)
+                                
+                                    societa' ed enti di cui alle lettere a) e b) dell'articolo 87 del medesimo testo unico e stabili organizzazioni nel territorio dello Stato delle societa' e degli enti di cui alla lettera d) del predetto articolo. La ritenuta di cui al comma 3-bis e' applicata a titolo di acconto, qualora i proventi derivanti dai titoli sottostanti non sarebbero assoggettabili a ritenuta a titolo di imposta nei confronti dei soggetti a cui siano imputabili i proventi derivanti dai rapporti ivi indicati. Le predette ritenute sono applicate a titolo d'imposta nei confronti dei soggetti esenti dall'imposta sul reddito delle persone giuridiche ed in ogni altro caso. Non sono soggetti tuttavia a ritenuta i proventi indicati nei commi 3 e 3-bis corrisposti a societa' in nome collettivo, in accomandita semplice ed equiparate di cui all'articolo 5 del testo unico, alle societa' ed enti di cui alle lettere a) e b) dell'articolo 87 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e alle stabili organizzazioni delle societa' ed enti di cui alla lettera d) dello stesso articolo 87. (63)
 
 I soggetti indicati nel primo comma dell'articolo 23 operano una ritenuta del 12,50 per cento a titolo d'acconto, con obbligo di rivalsa, sui redditi di capitale da essi corrisposti, diversi da quelli indicati nei commi precedenti e da quelli per i quali sia prevista l'applicazione di altra ritenuta alla fonte o di imposte sostitutive delle imposte sui redditi. Se i percipienti non sono residenti nel territorio dello Stato o stabili organizzazioni di soggetti non residenti la predetta ritenuta e' applicata a titolo d'imposta ed e' operata anche sui proventi conseguiti nell'esercizio d'impresa commerciale. PERIODO SOPPRESSO DAL D.L. 13 AGOSTO 2011, N.
 138. La predetta ritenuta e' operata anche sugli interessi ed altri proventi dei prestiti di denaro corrisposti a stabili organizzazioni estere di imprese residenti, non appartenenti all'impresa erogante, e si applica a titolo d'imposta sui proventi che concorrono a formare il reddito di soggetti non residenti ed a titolo d'acconto, in ogni altro caso.
@@ -547,6 +680,17 @@ I soggetti indicati nel primo comma dell'articolo 23 operano una ritenuta del 12
 
 ## Art. 26-bis. — (Esenzione dalle imposte sui redditi per i non residenti)
 
+1.
+                        
+                            
+                                Non sono soggetti ad imposizione i redditi di capitale derivanti dai rapporti indicati nelle lettere a), diversi dai depositi e conti correnti bancari e postali, con esclusione degli interessi ed altri proventi derivanti da prestiti di denaro, c), d), g-bis) e g-ter), dell'articolo 41, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, qualora siano percepiti da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    soggetti residenti all'estero, di cui all'articolo 6, comma 1, del decreto legislativo 1 aprile 1996, n. 239, e successive modificazioni. (65)
+
 I requisiti di cui al comma 1 sono attestati mediante la documentazione di cui all'articolo 7, comma 2, del decreto legislativo 10 aprile 1996, n. 239.
 
 ((2. Qualora i rapporti di cui all'articolo 44, comma 1, lettere g-bis) e g-ter), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, abbiano ad oggetto azioni o strumenti finanziari similari alle azioni di cui allo stesso articolo 44, l'esenzione di cui al comma 1 non si applica sulla quota del provento corrispondente all'ammontare degli utili messi in pagamento nel periodo di durata del contratto.))
@@ -570,6 +714,123 @@ Sui redditi di capitale indicati nei commi 1 e 2, dovuti da soggetti non residen
  Il D.L. 30 settembre 2003, n.269 convertito con modificazioni dalla L. 24 novembre 2003, n. 326 ha disposto (con l'art. 41-bis comma 2) che "Le disposizioni di cui al comma 1 si applicano per i redditi percepiti dal 1° gennaio 2004."
 
 ## Art. 26-quater. — Esenzione dalle imposte sugli interessi e sui canoni corrisposti a soggetti residenti in Stati membri dell'Unione europea.
+
+1.
+                        
+                            
+                                Gli interessi e i canoni pagati a societa' non residenti aventi i requisiti di cui al comma 4, lettera a), o a una stabile organizzazione, situata in un altro Stato membro, di societa' che hanno i suddetti requisiti sono esentati da ogni imposta quando tali pagamenti sono effettuati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da societa' ed enti che rivestono una delle forme previste dall'allegato A, che risiedono, ai fini fiscali, nel territorio dello Stato e sono assoggettate, senza fruire di regimi di esonero, all'imposta sul reddito delle societa'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da una stabile organizzazione, situata nel territorio dello Stato e assoggettata, senza fruire di regimi di esonero, all'imposta sul reddito delle societa', di societa' non residenti aventi i requisiti di cui al comma 4, lettera a), qualora gli interessi o i canoni siano inerenti all'attivita' della stabile organizzazione stessa.
+
+2.
+                        
+                            
+                                I soggetti beneficiari degli interessi e dei canoni hanno diritto all'esenzione se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la societa' che effettua il pagamento o la societa' la cui stabile organizzazione effettua il pagamento, detiene direttamente una percentuale non inferiore al 25 per cento dei diritti di voto nella societa' che riceve il pagamento o nella societa' la cui stabile organizzazione riceve il medesimo pagamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la societa' che riceve il pagamento o la societa' la cui stabile organizzazione riceve il pagamento detiene direttamente una percentuale non inferiore al 25 per cento dei diritti di voto nella societa' che effettua il pagamento o nella societa' la cui stabile organizzazione effettua il medesimo pagamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una terza societa' avente i requisiti di cui alla lettera a) del comma 4 detiene direttamente una percentuale non inferiore al 25 per cento dei diritti di voto sia nella societa' che effettua il pagamento o nella societa' la cui stabile organizzazione effettua il pagamento sia nella societa' che riceve il pagamento o nella societa' la cui stabile organizzazione riceve il medesimo pagamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i diritti di voto di cui alle lettere a), b) e c), detenuti nelle societa' ed enti residenti nel territorio dello Stato, sono quelli esercitabili nell'assemblea ordinaria prevista dagli articoli 2364, 2364-bis e 2479-bis del codice civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le partecipazioni che attribuiscono i diritti di voto di cui alle lettere a), b) e c) sono detenute ininterrottamente per almeno un anno.
+
+3.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si considerano canoni, i compensi di qualsiasi natura percepiti per l'uso o la concessione in uso: 
+ 1) del diritto di autore su opere letterarie, artistiche o scientifiche, comprese le pellicole cinematografiche e il software; 
+ 2) di brevetti, marchi di fabbrica o di commercio, disegni o modelli, progetti, formule o processi segreti o per informazioni concernenti esperienze di carattere industriale, commerciale o scientifico; 
+ 3) di attrezzature industriali, commerciali o scientifiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si considerano interessi, i redditi da crediti di qualsiasi natura, garantiti o non da ipoteca e, in particolare, i redditi derivanti da titoli, da obbligazioni e da prestiti, compresi gli altri proventi derivanti dai suddetti titoli e prestiti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non si considerano interessi: 
+ 1) le remunerazioni dei finanziamenti eccedenti di cui all'articolo 98 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, direttamente erogati dal socio o dalle sue parti correlate; 
+ 2) gli utili di cui all'articolo 44, comma 1, lettera f), del predetto testo unico; 
+ 3) le remunerazioni dei titoli e degli strumenti finanziari di cui agli articoli 44, comma 2, lettera a), e 109, comma 9, lettera a), del medesimo testo unico, anche per la quota che non comporta la partecipazione ai risultati economici della societa' emittente o di altre societa' appartenenti allo stesso gruppo o dell'affare in relazione al quale gli strumenti finanziari sono stati emessi; 
+ 4) i pagamenti relativi a crediti che autorizzano il creditore a rinunciare al suo diritto agli interessi in cambio del diritto a partecipare agli utili del debitore; 
+ 5) i pagamenti relativi a crediti che non contengono disposizioni per la restituzione del capitale o per i quali il rimborso debba essere effettuato trascorsi piu' di cinquanta anni dalla data di emissione.
+
+4.
+                        
+                            
+                                La disposizione di cui al comma 1 si applica se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' beneficiarie dei redditi di cui al comma 3 e le societa' le cui stabili organizzazioni sono beneficiarie dei medesimi redditi, rivestono una delle forme previste dall'allegato A, risiedono ai fini fiscali in uno Stato membro, senza essere considerate, ai sensi di una Convenzione in materia di doppia imposizione sui redditi con uno Stato terzo, residenti al di fuori dell'Unione europea e sono assoggettate, senza fruire di regimi di esonero, ad una delle imposte indicate nell'allegato B ovvero a un'imposta identica o sostanzialmente simile applicata in aggiunta o in sostituzione di dette imposte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interessi e i canoni pagati alle societa' non residenti di cui alla lettera a) sono assoggettati ad una delle imposte elencate nell'allegato B; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le societa' non residenti di cui alla lettera a) e le stabili organizzazioni situate in un altro Stato membro di societa' aventi i requisiti di cui alla lettera a) sono beneficiarie effettive dei redditi indicati nel comma 3; a tal fine, sono considerate beneficiarie effettive di interessi o di canoni: 
+ 1) le predette societa', se ricevono i pagamenti in qualita' di beneficiario finale e non di intermediario, quale agente, delegato o fiduciario di un'altra persona; 
+ 2) le predette stabili organizzazioni, se il credito, il diritto, l'utilizzo o l'informazione che generano i pagamenti degli interessi o dei canoni si ricollegano effettivamente a tali stabili organizzazioni e i suddetti interessi o canoni rappresentano redditi per i quali esse sono assoggettate nello Stato membro in cui sono situate ad una delle imposte elencate nell'allegato B o, in Belgio, all'"impôt des non-residents/belasting der niet-verblijfhouders", in Spagna all'"impuesto sobre la Renta de no Residentes" ovvero a un'imposta identica o sostanzialmente simile applicata in aggiunta o in sostituzione di dette imposte.
 
 Se il soggetto che effettua il pagamento dei canoni e degli interessi di cui al comma 3 controlla o e' controllato, direttamente o indirettamente, dal soggetto che e' considerato beneficiario effettivo, ovvero entrambi i soggetti sono controllati, direttamente o indirettamente, da un terzo, e l'importo degli interessi o dei canoni e' superiore al valore normale determinato ai sensi dell'articolo 110, comma 2, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, l'esenzione di cui al comma 1 si applica limitatamente al medesimo valore normale.
 
@@ -599,8 +860,48 @@ b) garantiti dai soggetti di cui all'articolo 23 che corrispondono gli interessi
 
 Sui proventi di cui alla lettera g) dell'articolo 44, comma 1, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, derivanti dalla partecipazione a organismi di investimento collettivo del risparmio (OICR) istituiti in Italia, diversi dagli OICR immobiliari, e a quelli istituiti in Lussemburgo, gia' autorizzati al collocamento nel territorio dello Stato, di cui all'articolo 11-bis del decreto-legge 30 settembre 1983, n. 512, convertito, con modificazioni, dalla legge 25 novembre 1983, n. 649, e successive modificazioni, limitatamente alle quote o azioni collocate nel territorio dello Stato, le societa' di gestione del risparmio, le SICAV, le SICAF, i soggetti incaricati del collocamento delle quote o azioni di cui al citato articolo 11-bis del decreto-legge 30 settembre 1983, n. 512, e quelli di cui all'articolo 23 del presente decreto incaricati della loro negoziazione, operano una ritenuta del 20 per cento. Qualora le quote o azioni dei predetti organismi siano immesse in un sistema di deposito accentrato gestito da una societa' autorizzata ai sensi dell'articolo 80 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, la ritenuta e' applicata dai soggetti di cui all'articolo 23 del presente decreto presso i quali le quote o azioni sono state depositate, direttamente o indirettamente aderenti al suddetto sistema di deposito accentrato, nonche' dai soggetti non residenti aderenti a detto sistema di deposito accentrato ovvero a sistemi esteri di deposito accentrato aderenti al medesimo sistema.
 
+2.
+                        
+                            
+                                I soggetti non residenti di cui al comma 1, ultimo periodo, nominano quale loro rappresentante fiscale in Italia una banca o una societa' di intermediazione mobiliare, residente nel territorio dello Stato, una stabile organizzazione in Italia di banche o di imprese di investimento non residenti, ovvero una societa' di gestione accentrata di strumenti finanziari autorizzata ai sensi dell'articolo 80 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58. Il rappresentante fiscale risponde dell'adempimento dei propri compiti negli stessi termini e con le stesse responsabilita' previste per i soggetti di cui al comma 1 residenti in Italia e provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    versare la ritenuta di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornire, entro quindici giorni dalla richiesta dell'Amministrazione finanziaria, ogni notizia o documento utile per comprovare il corretto assolvimento degli obblighi riguardanti la suddetta ritenuta.
+
 La ritenuta di cui al comma 1 si applica sui proventi distribuiti in costanza di partecipazione all'organismo di investimento e su quelli compresi nella differenza tra il valore di riscatto, di liquidazione o di cessione delle quote o azioni e il costo medio ponderato di sottoscrizione o acquisto delle quote o azioni medesime, al netto di una quota dei proventi riferibili alle obbligazioni e altri titoli di cui all'articolo 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, ed equiparati e alle obbligazioni emesse dagli Stati inclusi nella lista di cui al decreto emanato ai sensi dell'articolo 168-bis del testo unico delle imposte sui redditi approvato con il decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 ((e alle obbligazioni emesse da enti territoriali dei suddetti Stati)). Con decreto del Ministro dell'economia e delle finanze sono stabilite le modalita' di individuazione della quota dei proventi di cui al periodo precedente.
 Il costo di acquisto deve essere documentato dal partecipante e, in mancanza della documentazione, il costo e' documentato con una dichiarazione sostitutiva.
+
+4.
+                        
+                            
+                                La ritenuta di cui al comma 1 e' applicata a titolo di acconto nei confronti di: 
+                            
+                            
+                                a)
+                                
+                                    imprenditori individuali, se le partecipazioni sono relative all'impresa ai sensi dell'articolo 65 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917;
+                                
+                            
+                            
+                                b)
+                                
+                                    societa' in nome collettivo, in accomandita semplice ed equiparate di cui all'articolo 5 del predetto testo unico;
+                                
+                            
+                            
+                                c)
+                                
+                                    societa' ed enti di cui alle lettere a) e b) dell'articolo 73, comma 1, del medesimo testo unico e stabili organizzazioni nel territorio dello Stato delle societa' e degli enti di cui al comma 1, lettera d), del medesimo articolo. Nei confronti di tutti gli altri soggetti, compresi quelli esenti o esclusi dall'imposta sul reddito delle societa', la ritenuta e' applicata a titolo d'imposta.
 
 Non sono soggetti ad imposizione i proventi di cui al comma 1 percepiti da soggetti non residenti come indicati nell'articolo 6 del decreto legislativo 1° aprile 1996, n. 239 e maturati nel periodo di possesso delle quote o azioni. Il predetto possesso e' attestato dal deposito dei titoli presso un intermediario residente in Italia.
 
@@ -634,6 +935,24 @@ La ritenuta e` operata a titolo d'imposta e con l'aliquota del 27 per cento sugl
 I soggetti cui si applica l'articolo 98 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono tenuti ad operare, con obbligo di rivalsa, la ritenuta di cui ai commi 3 e 3-ter sulla remunerazione di finanziamenti eccedenti prevista dal citato articolo 98 direttamente erogati dal socio o da una sua parte correlata, non residenti nel territorio dello Stato. A fini della determinazione della ritenuta di cui sopra, si computa in diminuzione la eventuale ritenuta operata ai sensi dell'articolo 26 riferibile alla medesima remunerazione. La presente disposizione non si applica alla remunerazione di finanziamenti eccedenti direttamente erogati dalle stabili organizzazioni nel territorio dello Stato di soggetti non residenti.
 
 La ritenuta e' operata a titolo di imposta e con l'aliquota dell'1,20 per cento sugli utili corrisposti alle societa' e agli enti soggetti ad un'imposta sul reddito delle societa' negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui ai decreti emanati in attuazione dell'articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239, ed ivi residenti, in relazione alle partecipazioni, agli strumenti finanziari di cui all'articolo 44, comma 2, lettera a), del predetto testo unico ((di cui al decreto del Presidente della Repubblica n. 917 del 1986)) e ai contratti di associazione in partecipazione di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico, non relativi a stabili organizzazioni nel territorio dello Stato. (191)
+
+4.
+                        
+                            
+                                Sulle remunerazioni corrisposte a persone fisiche residenti relative a partecipazioni al capitale o al patrimonio, titoli e strumenti finanziari di cui all'articolo 44, comma 2, lettera a), ultimo periodo, del testo unico delle imposte sui redditi e a contratti di cui all'articolo 109, comma 9, lettera b), del medesimo testo unico, in cui l'associante e' soggetto non residente, qualificati e non qualificati ai sensi delle lettere c) e c-bis) del comma 1 dell'articolo 67 del testo unico e non relativi all'impresa ai sensi dell'articolo 65 dello stesso testo unico, e' operata una ritenuta del 12,50 per cento a titolo d'imposta dai soggetti di cui al primo comma dell'articolo 23 che intervengono nella loro riscossione. La ritenuta e' operata a titolo d'acconto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DALLA L. 27 DICEMBRE 2017, N. 205; (151) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sull'intero importo delle remunerazioni corrisposte, in relazione a partecipazioni, titoli, strumenti finanziari e contratti non relativi all'impresa ai sensi dell'articolo 65, da imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1 del citato testo unico, salvo che sia avvenuta la dimostrazione, anche a seguito dell'esercizio dell'interpello di cui al comma 3 dell'articolo 47-bis dello stesso testo unico, che e' rispettata, sin dal primo periodo di possesso della partecipazione, la condizione di cui alla lettera b) del comma 2 del medesimo articolo 47-bis. La disposizione del periodo precedente non si applica alle partecipazioni, ai titoli e agli strumenti finanziari di cui all'articolo 44, comma 2, lettera a), ultimo periodo, emessi da societa' i cui titoli sono negoziati nei mercati regolamentati. La ritenuta e', altresi', operata sull'intero importo delle remunerazioni relative a contratti stipulati con associanti non residenti che non soddisfano le condizioni di cui all'articolo 44, comma 2, lettera a), ultimo periodo. (136) (151) (154)
 
 Le ritenute del comma 4 sono operate al netto delle ritenute applicate dallo Stato estero. In caso di distribuzione di utili in natura si applicano le disposizioni di cui al comma 2. (91)
 
@@ -686,7 +1005,39 @@ Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo
 
 ## Art. 27-bis. — Rimborso della ritenuta sui dividendi distribuiti a soggetti non residenti).
 
+1.
+                        
+                            
+                                Le societa' che detengono una partecipazione diretta non inferiore al 20 per cento del capitale della societa' che distribuisce gli utili, hanno diritto, a richiesta, al rimborso della ritenuta di cui ai commi 3, 3-bis e 3-ter dell'articolo 27, se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rivestono una delle forme previste nell'allegato della direttiva n. 435/90/CEE del Consiglio del 23 luglio 1990; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    risiedono, ai fini fiscali, in uno Stato membro dell'Unione europea, senza essere considerate, ai sensi di una Convenzione in materia di doppia imposizione sui redditi con uno Stato terzo, residenti al di fuori dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono soggette, nello Stato di residenza, senza fruire di regimi di opzione o di esonero che non siano territorialmente o temporalmente limitati, ad una delle imposte indicate nella predetta direttiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la partecipazione sia detenuta ininterrottamente per almeno un anno. (97)
+
+((1-bis. La disposizione del comma l si applica altresi' alle remunerazioni di cui all'articolo 89, comma 3-bis, del testo unico di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in misura corrispondente alla quota non deducibile nella determinazione del reddito della societa' erogante, sempreche' la remunerazione sia erogata a societa' con i requisiti indicati nel comma 1))
 
 ((144))
 
@@ -718,9 +1069,78 @@ L'imposta sostitutiva di cui al comma 1 e' applicata dai soggetti presso i quali
 
 I soggetti di cui al comma 2 accreditano, con separata evidenza, l'ammontare dell'imposta sostitutiva applicata sugli utili di cui al comma 1 al conto unico istituito ai sensi del comma 1 dell'articolo 3 del decreto legislativo 1 aprile 1996, n. 239, con valuta pari alla data dell'effettivo pagamento degli utili. I medesimi soggetti addebitano l'imposta sostitutiva ai percipienti, all'atto del pagamento, con valuta pari a quella con la quale sono riconosciuti gli utili stessi. Si applicano le disposizioni dell'articolo 4 del decreto legislativo 1 aprile 1996, n. 239.
 
+4.
+                        
+                            
+                                Per gli utili di cui al comma 1 spettanti a soggetti residenti in Stati con i quali siano in vigore convenzioni per evitare la doppia imposizione sul reddito, ai fini dell'applicazione dell'imposta sostitutiva nella misura prevista dalla convenzione i soggetti di cui al comma 2 acquisiscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una dichiarazione del soggetto non residente effettivo beneficiario degli utili, dalla quale risultino i dati identificativi del soggetto medesimo, la sussistenza di tutte le condizioni alle quali e' subordinata l'applicazione del regime convenzionale e gli eventuali elementi necessari a determinare la misura dell'aliquota applicabile ai sensi della convenzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un'attestazione dell'autorita' fiscale competente dello Stato ove l'effettivo beneficiario degli utili ha la residenza, dalla quale risulti la residenza nello Stato medesimo ai sensi della convenzione. 
+L'attestazione produce effetti fino al 31 marzo dell'anno successivo a quello di presentazione.
+
 Nell'ipotesi di applicazione del comma 4 non spetta il rimborso di cui al comma 3, ultimo periodo, dell'articolo 27. Sugli utili di pertinenza di enti od organismi internazionali che godono dell'esenzione dalle imposte in Italia per effetto di leggi o di accordi internazionali resi esecutivi in Italia, i soggetti di cui al comma 2, non applicano l'imposta sostitutiva.
 
+6.
+                        
+                            
+                                Ove ricorrano le condizioni previste dal comma 1, dell'articolo 27-bis, l'imposta sostitutiva di cui al comma 1, del presente articolo non e' applicata, a condizione che i soggetti di cui al comma 2 acquisiscano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la documentazione attestante la sussistenza delle condizioni di cui al comma 1 dell'articolo 27-bis; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una certificazione delle competenti autorita' fiscali dello Stato estero, che attesti la ricorrenza dei requisiti di cui al comma 2 dell'articolo 96-bis del testo unico delle imposte sui redditi.
+
 I soggetti di cui al comma 2 conservano la documentazione di cui ai precedenti commi 4 e 6 fino a quando non siano decorsi i termini per gli accertamenti relativi al periodo d'imposta in corso alla data di pagamento degli utili, e comunque fino a quando non siano stati definiti gli accertamenti stessi.
+
+8.
+                        
+                            
+                                Gli intermediari non residenti aderenti al sistema Monte Titoli e gli intermediari non residenti che aderiscono a sistemi esteri di deposito accentrato aderenti al sistema Monte Titoli nominano quale loro rappresentante fiscale in Italia una banca o una societa' di intermediazione mobiliare, residente nel territorio dello Stato, una stabile organizzazione in Italia di banche o di imprese di investimento non residenti, ovvero una societa' di gestione accentrata di strumenti finanziari autorizzata ai sensi dell' articolo 80 del decreto legislativo 24 febbraio 1998, n. 58. Il rappresentante fiscale risponde dell'adempimento dei propri compiti negli stessi termini e con le stesse responsabilita' previste per i soggetti di cui al comma 2, residenti in Italia e provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    versare l'imposta sostitutiva di cui al presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuare le comunicazioni di cui all'articolo 7 della legge 29 dicembre 1962, n. 1745; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conservare la documentazione prevista nei commi 4 e 6; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornire, entro 15 giorni dalla richiesta dell'amministrazione finanziaria, ogni notizia o documento utile per comprovare il corretto assolvimento degli obblighi riguardanti l'imposta sostitutiva di cui al comma 1.
 
 Con uno o piu' decreti del Ministro delle finanze, da pubblicare nella Gazzetta Ufficiale, possono essere previste modalita' semplificate per l'attribuzione ai soggetti non residenti del credito d'imposta sui dividendi, nei casi in cui detta attribuzione sia prevista dalla convenzione contro le doppie imposizioni stipulata fra l'Italia e il Paese di residenza del beneficiario e per l'acquisizione della documentazione di cui ai commi 4 e 6 nei casi in cui le azioni siano depositate presso organismi esteri di investimento collettivo aderenti al sistema Monte Titoli. Con gli stessi decreti possono essere approvati modelli uniformi per l'acquisizione dell'attestazione di cui al comma 4, lettera b, e puo' essere previsto che la medesima attestazione produca effetti anche ai fini dell'applicazione delle disposizioni contenute negli articoli 6 e 7 del decreto legislativo 1 aprile 1996, n. 239, purche' da essa risulti la sussistenza delle condizioni di cui all'articolo 6 dello stesso decreto. (56)
 
@@ -745,6 +1165,45 @@ I soggetti indicati nel primo comma dell'art. 23, quando corrispondono compensi 
 provvisorio dello Stato 15 settembre 1947, n. 896."
 
 ## Art. 29. — (Ritenuta sui compensi e altri redditi corrisposti dallo Stato)
+
+1.
+                        
+                            
+                                Le amministrazioni dello Stato, comprese quelle con ordinamento autonomo, che corrispondono le somme e i valori di cui all'articolo 23, devono effettuare all'atto del pagamento una ritenuta diretta in acconto dell'imposta sul reddito delle persone fisiche dovuta dai percipienti. La ritenuta e' operata con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    sulla parte imponibile delle somme e dei valori, di cui all'articolo 48, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, esclusi quelli indicati alle successive lettere b) e c), aventi carattere fisso e continuativo, con i criteri e le modalita' di cui al comma 2 dell'articolo 23; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulle mensilita' aggiuntive e sui compensi della stessa natura, nonche' su ogni altra somma o valore diversi da quelli di cui alla lettera a) e sulla parte imponibile delle indennita' di cui all'articolo 48, commi 5, 6, 7 e 8, del citato testo unico, con la aliquota applicabile allo scaglione di reddito piu' elevato della categoria o classe di stipendio del percipiente all'atto del pagamento o, in mancanza, con l'aliquota del primo scaglione di reddito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sugli emolumenti arretrati relativi ad anni precedenti di cui all'articolo 16, comma 1, lettera b), del citato testo unico, con i criteri di cui all'articolo 18, dello stesso testo unico, intendendo per reddito complessivo netto l'ammontare globale dei redditi di lavoro dipendente corrisposti dal sostituto al sostituito nel biennio precedente, al netto delle deduzioni di cui agli articoli 11 e 12, commi 1 e 2, del medesimo testo unico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sulla parte imponibile del trattamento di fine rapporto e delle indennita' equipollenti e delle altre indennita' e somme di cui all'articolo 16, comma 1, lettera a), del citato testo unico con i criteri di cui all'articolo 17, dello stesso testo unico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sulla parte imponibile delle somme e valori di cui all'articolo 48, del citato testo unico, non compresi nell'articolo 16, comma 1, lettera a), dello stesso testo unico, corrisposti agli eredi, con l'aliquota stabilita per il primo scaglione di reddito.
 
 Gli uffici che dispongono il pagamento di emolumenti aventi carattere fisso e continuativo devono effettuare entro il 28 febbraio o entro due mesi dalla data di cessazione del rapporto, se questa e' anteriore all'anno, il conguaglio di cui al comma 3 dell'articolo 23, con le modalita' in esso stabilite. A tal fine, all'inizio del rapporto, il sostituito deve specificare quale delle opzioni previste al comma 3 dell'articolo 23 intende adottare. Ai fini delle operazioni di conguaglio i soggetti e gli altri organi che corrispondono compensi e retribuzioni non aventi carattere fisso e continuativo devono comunicare ai predetti uffici, entro la fine dell'anno e, comunque, non oltre il 12 gennaio dell'anno successivo, l'ammontare delle somme corrisposte, l'importo degli eventuali contributi previdenziali e assistenziali, compresi quelli a carico del datore di lavoro e le ritenute effettuate. Per le somme e i valori a carattere ricorrente la comunicazione deve essere effettuata su supporto magnetico secondo specifiche tecniche approvate con apposito decreto del Ministro del tesoro, di concerto con il Ministro delle finanze. Qualora, alla data di cessazione del rapporto di lavoro, l'ammontare degli emolumenti dovuti non consenta la integrale applicazione della ritenuta di conguaglio, la differenza e' recuperata mediante ritenuta sulle competenze di altra natura che siano liquidate anche da altro soggetto in dipendenza del cessato rapporto di lavoro. Si applicano anche le disposizioni dell'articolo 23, comma 4.
 
@@ -877,6 +1336,31 @@ Quando l'autorita' competente di un altro Stato membro o le autorita' competenti
 
 L'Amministrazione finanziaria svolge le verifiche congiunte in modo concordato e coordinato con le autorita' competenti degli altri Stati membri richiedenti o interpellati, anche per quanto riguarda il regime linguistico, sulla base della legislazione e delle norme procedurali vigenti nello Stato membro nel quale si svolgono le attivita' di verifica congiunta. I funzionari degli Stati membri che partecipano alla verifica congiunta non possono esercitare poteri di controllo piu' ampi rispetto a quelli loro conferiti dalla legislazione dello Stato membro di appartenenza.
 
+4.
+                        
+                            
+                                Quando la verifica congiunta si svolge nel territorio dello Stato, l'Amministrazione finanziaria nomina un rappresentante incaricato di dirigere e coordinare le attivita' di verifica congiunta e adotta le misure necessarie per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    consentire ai funzionari degli altri Stati membri che partecipano alle attivita' di verifica congiunta di chiedere dati e informazioni ai soggetti interessati ed esaminare i documenti insieme ai funzionari nazionali, secondo le modalita' procedurali stabilite dalla normativa vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire che gli elementi di prova raccolti durante le attivita' di verifica congiunta possano essere valutati, anche in ordine alla loro ammissibilita', alle stesse condizioni giuridiche ordinariamente applicabili agli elementi di prova raccolti durante le ordinarie attivita' di verifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantire che al soggetto o ai soggetti sottoposti alla verifica congiunta, o da essa interessati, siano riconosciuti diritti e obblighi analoghi a quelli riconosciuti ai soggetti destinatari delle ordinarie attivita' di verifica.
+
 L'Amministrazione finanziaria nel corso della verifica congiunta individua i fatti e le circostanze pertinenti alla verifica di comune accordo con le autorita' competenti degli altri Stati membri partecipanti, con le quali si adopera al fine di raggiungere un accordo sulla posizione fiscale del soggetto o dei soggetti sottoposti a verifica. Al termine delle operazioni e' redatta una relazione finale nella quale confluiscono i risultati della verifica congiunta e le questioni sulle quali le autorita' competenti concordano. L'esito della verifica e' notificato mediante processo verbale ai soggetti interessati entro sessanta giorni dall'emissione della relazione congiuntamente a una copia della relazione medesima.
 
 Ferme restando le competenze del Ministero degli affari esteri e della cooperazione internazionale, l'Amministrazione finanziaria puo' concludere specifiche intese con le amministrazioni finanziarie delle giurisdizioni terze con le quali sia in vigore un trattato bilaterale o multilaterale che lo consenta, volti a disciplinare l'attivazione di verifiche congiunte quando la situazione di uno o piu' soggetti d'imposta presenta un interesse comune o complementare. Si applicano, in quanto compatibili, i commi 3, 4 e 5.
@@ -885,7 +1369,92 @@ Ferme restando le competenze del Ministero degli affari esteri e della cooperazi
 
 ## Art. 31-ter. — (Accordi preventivi per le imprese con attivita' internazionale)
 
+1.
+                        
+                            
+                                Le imprese con attivita' internazionale hanno accesso ad una procedura finalizzata alla stipula di accordi preventivi, con principale riferimento ai seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    preventiva definizione in contraddittorio dei metodi di calcolo del valore normale delle operazioni di cui al comma 7, dell'articolo 110 del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e dei valori di uscita o di ingresso in caso di trasferimento della residenza, rispettivamente, ai sensi degli articoli 166 e 166-bis del medesimo testo unico. Le imprese che aderiscono al regime dell'adempimento collaborativo hanno accesso alla procedura di cui al periodo precedente anche al fine della preventiva definizione in contraddittorio dei metodi di calcolo del valore normale delle operazioni di cui al ((comma 9-bis)) dell'articolo 110 del citato decreto del Presidente della Repubblica n. 917 del 1986; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    applicazione ad un caso concreto di norme, anche di origine convenzionale, concernenti l'attribuzione di utili e perdite alla stabile organizzazione in un altro Stato di un'impresa o un ente residente ovvero alla stabile organizzazione in Italia di un soggetto non residente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazione preventiva della sussistenza o meno dei requisiti che configurano una stabile organizzazione situata nel territorio dello Stato, tenuti presenti i criteri previsti dall'articolo 162 del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, nonche' dalle vigenti Convenzioni contro le doppie imposizioni stipulate all'Italia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    applicazione ad un caso concreto di norme, anche di origine convenzionale, concernenti l'erogazione o la percezione di dividendi, interessi e royalties e altri componenti reddituali a o da soggetti non residenti.
+
 Gli accordi di cui al comma 1, qualora non conseguano ad altri accordi conclusi con le autorita' competenti di Stati esteri a seguito delle procedure amichevoli previste dagli accordi o dalle convenzioni internazionali contro le doppie imposizioni, vincolano le parti per il periodo d'imposta nel corso del quale sono stipulati e per i quattro periodi d'imposta successivi, salvi mutamenti delle circostanze di fatto o di diritto rilevanti ai fini degli accordi sottoscritti e risultanti dagli stessi. Qualora le circostanze di fatto e di diritto alla base dell'accordo ricorrano per uno o piu' dei periodi di imposta precedenti alla stipulazione e per i quali i termini previsti dall'articolo 43 del presente decreto non sono ancora scaduti e a condizione che non siano iniziati accessi, ispezioni, verifiche o altre attivita' amministrative di accertamento delle quali il contribuente abbia avuto formale conoscenza, e' concessa al contribuente la facolta' di far valere retroattivamente l'accordo stesso, provvedendo, ove si renda a tal fine necessario rettificare il comportamento adottato, all'effettuazione del ravvedimento operoso ovvero alla presentazione della dichiarazione integrativa ai sensi dell'articolo 2, comma 8, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, senza l'applicazione, in entrambi i casi, delle relative sanzioni.
+
+3.
+                        
+                            
+                                Gli accordi di cui al comma 1, qualora conseguano ad altri accordi conclusi con le autorita' competenti di Stati esteri a seguito delle procedure amichevoli previste dagli accordi o convenzioni internazionali contro le doppie imposizioni, vincolano le parti, secondo quanto convenuto con dette autorita', a decorrere da periodi di imposta precedenti alla data di sottoscrizione dell'accordo purche' non anteriori al periodo d'imposta in corso alla data di presentazione della relativa istanza da parte del contribuente. E' concessa al contribuente la facolta' di far retroagire gli effetti di tali accordi anche a periodi di imposta precedenti a quello in corso alla data di presentazione della relativa istanza e per i quali i termini previsti dall'articolo 43 non sono ancora scaduti, a condizione che: 
+                            
+                            
+                                a)
+                                
+                                    per tali periodi ricorrano le stesse circostanze di fatto e di diritto a base dell'accordo stipulato con le autorita' competenti di Stati esteri;
+                                
+                            
+                            
+                                b)
+                                
+                                    il contribuente ne abbia fatto richiesta nell'istanza di accordo preventivo;
+                                
+                            
+                            
+                                c)
+                                
+                                    le autorita' competenti di Stati esteri acconsentano a estendere l'accordo ad annualita' precedenti;
+                                
+                            
+                            
+                                d)
+                                
+                                    per tali periodi di imposta non siano iniziati accessi, ispezioni, verifiche o altre attivita' amministrative di accertamento delle quali il contribuente abbia avuto formale conoscenza. Qualora in applicazione del presente comma sia necessario rettificare il comportamento adottato, il contribuente provvede all'effettuazione del ravvedimento operoso ovvero alla presentazione della dichiarazione integrativa ai sensi dell'articolo 2, comma 8, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, senza l'applicazione delle eventuali sanzioni.
+
+3-bis.
+                        
+                            
+                                L'ammissibilita' della richiesta di accordo preventivo di cui al comma 3 e' subordinata al versamento di una commissione pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    10.000 euro nel caso in cui il fatturato complessivo del gruppo cui appartiene il contribuente istante sia inferiore a 100 milioni di euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    30.000 euro nel caso in cui il fatturato complessivo del gruppo cui appartiene il contribuente istante sia compreso tra 100 milioni e 750 milioni di euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    50.000 euro nel caso in cui il fatturato complessivo del gruppo cui appartiene il contribuente istante sia superiore a 750 milioni di euro.
 
 In caso di richiesta di rinnovo dell'accordo di cui al comma 3, le commissioni sono ridotte alla meta'. Con provvedimento del Direttore dell'Agenzia delle entrate sono adottate le disposizioni di attuazione della disciplina contenuta nel presente comma.
 
@@ -908,6 +1477,32 @@ Qualunque riferimento all'articolo 8 del decreto-legge 30 settembre 2003, n. 269
  Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, ha disposto (con l'art. 67, comma 1) che "Sono inoltre sospesi i termini di cui all'articolo 7, comma 2, del decreto legislativo 5 agosto 2015, n. 128, i termini di cui all'articolo 1-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, e di cui agli articoli 31-ter e 31-quater del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, nonche' i termini relativi alle procedure di cui all'articolo 1, commi da 37 a 43, della legge 23 dicembre 2014, n. 190".
 
 ## Art. 31-quater. — (Rettifica in diminuzione del reddito per operazioni tra imprese associate con attivita' internazionale)
+
+1.
+                        
+                            
+                                La rettifica in diminuzione del reddito di cui all'articolo 110, comma 7, secondo periodo, del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, puo' essere riconosciuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in esecuzione degli accordi conclusi con le autorita' competenti degli Stati esteri a seguito delle procedure amichevoli previste dalle convenzioni internazionali contro le doppie imposizioni sui redditi o dalla Convenzione relativa all'eliminazione delle doppie imposizioni in caso di rettifica degli utili di imprese associate, con atto finale e dichiarazioni, fatta a Bruxelles il 23 luglio 1990, resa esecutiva con legge 22 marzo 1993, n. 99 ((, nonche' delle procedure di risoluzione delle controversie in materia fiscale disciplinate dalla direttiva (UE) 2017/1852, del Consiglio, del 10 ottobre 2017)); ((160))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    a conclusione dei controlli effettuati nell'ambito di attivita' di cooperazione internazionale i cui esiti siano condivisi dagli Stati partecipanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a seguito di istanza da parte del contribuente da presentarsi secondo le modalita' e i termini previsti con provvedimento del Direttore dell'Agenzia delle entrate, a fronte di una rettifica in aumento definitiva e conforme al principio di libera concorrenza effettuata da uno Stato con il quale e' in vigore una convenzione per evitare le doppie imposizioni sui redditi che consenta un adeguato scambio di informazioni. Resta ferma, in ogni caso, la facolta' per il contribuente di richiedere l'attivazione delle procedure amichevoli di cui alla lettera a), ove ne ricorrano i presupposti. 
+ (158)
 
 ---------------
                             AGGIORNAMENTO (158)
@@ -981,6 +1576,52 @@ COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N.340.
 
 Avvalendosi di procedure automatizzate, l'amministrazione finanziaria procede, entro l'inizio del periodo di presentazione delle dichiarazioni relative all'anno successivo, alla liquidazione delle imposte, dei contributi e dei premi dovuti, nonche' dei rimborsi spettanti in base alle dichiarazioni presentate dai contribuenti e dai sostituti d'imposta. (54)
 
+2.
+                        
+                            
+                                Sulla base dei dati e degli elementi direttamente desumibili dalle dichiarazioni presentate e di quelli in possesso dell'anagrafe tributaria, l'Amministrazione finanziaria provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    correggere gli errori materiali e di calcolo commessi dai contribuenti nella determinazione degli imponibili, delle imposte, dei contributi e dei premi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    correggere gli errori materiali commessi dai contribuenti nel riporto delle eccedenze delle imposte, dei contributi e dei premi risultanti dalle precedenti dichiarazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ridurre le detrazioni d'imposta indicate in misura superiore a quella prevista dalla legge ovvero non spettanti sulla base dei dati risultanti dalle dichiarazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ridurre le deduzioni dal reddito esposte in misura superiore a quella prevista dalla legge; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ridurre i crediti d'imposta esposti in misura superiore a quella prevista dalla legge ovvero non spettanti sulla base dei dati risultanti dalle dichiarazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    controllare la rispondenza con la dichiarazione e la tempestivita' dei versamenti delle imposte, dei contributi e dei premi dovuti a titolo di acconto e di saldo e delle ritenute alla fonte operate in qualita' di sostituto d'imposta.
+
 Se vi e' pericolo per la riscossione, l'ufficio puo' provvedere, anche prima della presentazione della dichiarazione annuale, a controllare la tempestiva effettuazione dei versamenti delle imposte, dei contributi e dei premi dovuti a titolo di acconto e di saldo e delle ritenute alla fonte operate in qualita' di sostituto d'imposta.
 
 Quando dai controlli automatici eseguiti emerge un risultato diverso rispetto a quello indicato nella dichiarazione, ovvero dai controlli eseguiti dall'ufficio, ai sensi del comma 2-bis, emerge un'imposta o una maggiore imposta, l'esito della liquidazione e' comunicato al contribuente o al sostituto d'imposta per evitare la reiterazione di errori e per consentire la regolarizzazione degli aspetti formali. Qualora a seguito della comunicazione il contribuente o il sostituto di imposta rilevi eventuali dati o elementi non considerati o valutati erroneamente nella liquidazione dei tributi, lo stesso puo' fornire i chiarimenti necessari all'amministrazione finanziaria entro i ((sessanta giorni)) successivi al ricevimento della comunicazione. ((182))
@@ -1010,6 +1651,52 @@ I dati contabili risultanti dalla liquidazione prevista nel presente articolo si
 ## Art. 36-ter. — (Controllo formale delle dichiarazioni)
 
 Gli uffici periferici dell'amministrazione finanziaria, procedono, entro il 31 dicembre del secondo anno successivo a quello di presentazione, al controllo formale delle dichiarazioni presentate dai contribuenti e dai sostituti d'imposta' sulla base dei criteri selettivi fissati dal Ministro delle finanze, tenendo anche conto di specifiche analisi del rischio di evasione e delle capacita' operative dei medesimi uffici.
+
+2.
+                        
+                            
+                                Senza pregiudizio dell'azione accertatrice a norma degli articoli 37 e seguenti, gli uffici possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    escludere in tutto o in parte lo scomputo delle ritenute d'acconto non risultanti dalle dichiarazioni dei sostituti d'imposta, dalle comunicazioni di cui all'articolo. 20, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605, o dalle certificazioni richieste ai contribuenti ovvero delle ritenute risultanti in misura inferiore a quella indicata nelle dichiarazioni dei contribuenti stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    escludere in tutto o in parte le detrazioni d'imposta non spettanti in base ai documenti richiesti ai contribuenti o agli elenchi di cui all'articolo 78, comma 25, della legge 30 dicembre 1991, n. 413; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    escludere in tutto o in parte le deduzioni dal reddito non spettanti in base ai documenti richiesti ai contribuenti o agli elenchi menzionati nella lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    determinare i crediti d'imposta spettanti in base ai dati risultanti dalle dichiarazioni e ai documenti richiesti ai contribuenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    liquidare la maggiore imposta sul reddito delle persone fisiche e i maggiori contributi dovuti sull'ammontare complessivo dei redditi risultanti da piu' dichiarazioni o certificati di cui all'articolo 1, comma 4, lettera d), presentati per lo stesso anno dal medesimo contribuente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    correggere gli errori materiali e di calcolo commessi nelle dichiarazioni dei sostituti d'imposta.
 
 Ai fini dei commi 1 e 2, il contribuente o il sostituto d'imposta e' invitato, anche telefonicamente o in forma scritta o telematica, a fornire chiarimenti in ordine ai dati contenuti nella dichiarazione e ad eseguire o trasmettere ricevute di versamento e altri documenti non allegati alla dichiarazione o difformi dai dati forniti da terzi.
 
@@ -1066,7 +1753,60 @@ L'ufficio delle imposte procede alla rettifica delle dichiarazioni presentate da
 
 ## Art. 38-bis. — (Atti di recupero)
 
+1.
+                        
+                            
+                                Per il recupero dei crediti non spettanti o inesistenti, l'Agenzia delle entrate applica, in deroga alle disposizioni vigenti, le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fermi restando le attribuzioni e i poteri previsti dagli articoli 31 e seguenti, nonche' quelli previsti dagli articoli 51 e seguenti del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e senza pregiudizio dell'ulteriore azione accertatrice nei termini stabiliti per i singoli tributi, per la riscossione dei crediti non spettanti o inesistenti utilizzati, in tutto o in parte, in compensazione ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, l'ufficio puo' emanare apposito atto di recupero motivato da notificare al contribuente con le modalita' previste dagli articoli 60 e 60-ter. La disposizione del primo periodo non si applica alle attivita' di recupero delle somme di cui all'articolo 1, comma 3, del decreto-legge 20 marzo 2002, n. 36, convertito, con modificazioni, dalla legge 17 maggio 2002, n. 96, e all'articolo 1, comma 2, del decreto-legge 24 dicembre 2002, n. 282, convertito, con modificazioni, dalla legge 21 febbraio 2003, n. 27; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    si applicano le disposizioni di cui agli articoli 16, comma 3, e 17, comma 2, del decreto legislativo 18 dicembre 1997, n. 472; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'atto di cui alla lettera a), emesso a seguito del controllo degli importi a credito indicati nei modelli di pagamento unificato per la riscossione di crediti non spettanti e inesistenti, di cui all'articolo 13, commi 4 e 5, del decreto legislativo 18 dicembre 1997, n. 471, utilizzati, in tutto o in parte, in compensazione ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, deve essere notificato, a pena di decadenza, rispettivamente, entro il 31 dicembre del quinto anno e dell'ottavo anno successivo a quello del relativo utilizzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il pagamento delle somme dovute deve essere effettuato per intero entro il termine per presentare ricorso senza possibilita' di avvalersi della compensazione prevista dall'articolo 17 del decreto legislativo 9 luglio 1997, n 241. In caso di mancato pagamento entro il suddetto termine, le somme dovute in base all'atto di recupero, anche se non definitivo, sono iscritte a ruolo ai sensi dell'articolo 15-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la competenza all'emanazione degli atti di cui alla lettera a), emessi prima del termine per la presentazione della dichiarazione, spetta all'ufficio nella cui circoscrizione e' il domicilio fiscale del soggetto per il precedente periodo di imposta; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per le controversie relative all'atto di recupero di cui alla lettera a) si applicano le disposizioni previste dal decreto legislativo 31 dicembre 1992, n. 546; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    in assenza di specifiche disposizioni, le lettere a), b), d), e f) si applicano anche per il recupero di tasse, imposte e importi non versati, compresi quelli relativi a contributi e agevolazioni fiscali indebitamente percepiti o fruiti ovvero a cessioni di crediti di imposta in mancanza dei requisiti. Fatti salvi i piu' ampi termini previsti dalla normativa vigente, l'atto di recupero deve essere notificato, a pena di decadenza, entro il 31 dicembre del quinto anno successivo a quello in cui e' avvenuta la violazione. La competenza all'emanazione dell'atto di recupero spetta all'ufficio nella cui circoscrizione e' il domicilio fiscale del soggetto al momento della commissione della violazione. In mancanza del domicilio fiscale la competenza e' attribuita a un'articolazione dell'Agenzia delle entrate individuata con provvedimento del direttore.
+
+((Gli atti di recupero aventi ad oggetto le somme relative a misure di natura fiscale che costituiscono aiuti di Stato e aiuti de minimis non subordinati all'emanazione di provvedimenti di concessione ovvero subordinati all'emanazione di provvedimenti di concessione o di autorizzazione alla fruizione comunque denominati, il cui importo non e' determinabile nei predetti provvedimenti, ma solo a seguito della presentazione della dichiarazione resa a fini fiscali nella quale sono dichiarati, di cui all'articolo 10 del decreto del Ministro dello sviluppo economico 31 maggio 2017, n. 115, in deroga a quanto previsto al comma 1, devono essere notificati a pena di decadenza entro il 31 dicembre dell'ottavo anno successivo a quello di percezione, fruizione o avvenuta violazione.))
 
 Con provvedimenti del direttore dell'Agenzia delle entrate, d'intesa con il Comandante generale della Guardia di finanza, e' disciplinata la procedura di sottoscrizione dei processi verbali redatti nel corso e al termine delle attivita' amministrative di controllo fiscale in materia di imposte dirette e indirette, anche disponendo la possibilita' che i verbalizzanti possano firmare digitalmente la copia informatica del documento preventivamente sottoscritto, anche in via analogica, dal contribuente. In caso di firma analogica del documento da parte del contribuente, i verbalizzanti attestano la conformita' della copia informatica al documento analogico ai sensi dell'articolo 22 del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82. 
  (178) (179)
@@ -1437,7 +2177,57 @@ L'Amministrazione finanziaria informa immediatamente l'autorita' richiedente cir
 
 ((
 
+1.
+                        
+                            
+                                Tutti gli atti, i provvedimenti, gli avvisi e le comunicazioni, compresi quelli che per legge devono essere notificati, possono essere inviati direttamente dal competente ufficio, con le modalita' previste dal regolamento di cui al decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, anche in deroga all'articolo 149-bis del codice di procedura civile e alle modalita' di notificazione previste dalle norme relative alle singole leggi d'imposta non compatibili con quelle di cui al presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se destinati a pubbliche amministrazioni e a gestori di pubblici servizi, al domicilio digitale risultante dall'Indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi (IPA), di cui all'articolo 6-ter del codice di cui al decreto legislativo 7 marzo 2005 n. 82; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se destinati alle imprese individuali o costituite in forma societaria e a tutti i professionisti i cui indirizzi digitali sono inseriti nell'Indice nazionale dei domicili digitali delle imprese e dei professionisti (INI-PEC), di cui all'articolo 6-bis del codice di cui al decreto legislativo n. 82 del 2005, al domicilio digitale risultante da tale Indice, anche nel caso in cui per lo stesso soggetto e' presente un diverso indirizzo nell'Indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese (INAD), di cui all'articolo 6-quater del codice di cui al decreto legislativo n. 82 del 2005, ovvero nell'Indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi (IPA); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se destinati alle persone fisiche, ai professionisti e agli altri enti di diritto privato di cui all'articolo 6-quater del codice di cui al decreto legislativo n. 82 del 2005 al domicilio digitale professionale risultante dall'Indice di cui all'articolo 6-quater di cui al medesimo codice o, in mancanza, all'unico domicilio digitale ivi presente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se destinati ai soggetti che hanno eletto il domicilio digitale speciale di cui al comma 5 del presente articolo, a tale domicilio speciale.
+
 All'ufficio sono consentite la consultazione telematica e l'estrazione degli indirizzi di cui al comma 1.
+
+3.
+                        
+                            
+                                Relativamente agli atti, agli avvisi e ai provvedimenti che per legge devono essere notificati, se il domicilio digitale al quale e' stato effettuato l'invio risulta saturo, l'ufficio effettua un secondo tentativo di consegna decorsi almeno sette giorni dal primo invio. Se anche a seguito del secondo tentativo, la casella di posta elettronica o il servizio di recapito certificato qualificato risultano saturi, oppure se il domicilio digitale al quale e' stato effettuato l'invio non risulta valido o attivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi previsti dal comma 1, lettere a), c) e d), si applicano le disposizioni in materia di notificazione degli avvisi e degli altri atti che per legge devono essere notificati al contribuente, comprese le disposizioni dell'articolo 60 del presente decreto e quelle del codice di procedura civile dalle stesse non modificate, con esclusione dell'articolo 149-bis del codice di procedura civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso previsto dal comma 1, lettera b), la notificazione deve essere eseguita mediante deposito telematico dell'atto nell'area riservata del sito internet della societa' Info Camere Scpa e pubblicazione, entro il secondo giorno successivo a quello di deposito, del relativo avviso nello stesso sito, per la durata di quindici giorni; l'ufficio inoltre da' notizia al destinatario dell'avvenuta notificazione a mezzo di lettera raccomandata, senza ulteriori adempimenti a proprio carico.
 
 Ai fini del rispetto dei termini di prescrizione e decadenza, la notificazione si intende comunque perfezionata per il notificante nel momento in cui il suo gestore della casella di posta elettronica certificata o del servizio di recapito certificato qualificato gli trasmette la ricevuta di accettazione con la relativa attestazione temporale che certifica l'avvenuta spedizione del messaggio, mentre per il destinatario si intende perfezionata alla data di avvenuta consegna contenuta nella ricevuta che il gestore della casella di posta elettronica certificata o del servizio di recapito elettronico certificato qualificato del destinatario trasmette all'ufficio o, nel caso di cui al comma 3, lettera b), nel quindicesimo giorno successivo a quello della pubblicazione dell'avviso nel sito internet della societa' InfoCamere Scpa.
 
@@ -1513,6 +2303,24 @@ Il Ministro delle finanze dispone annualmente la pubblicazione degli elenchi dei
 Negli elenchi deve essere specificato se gli accertamenti sono definitivi o in contestazione e devono essere indicati, in caso di rettifica, anche gli imponibili dichiarati dai contribuenti.
 
 Negli elenchi sono compresi tutti i contribuenti che non hanno presentato la dichiarazione dei redditi, nonche' i contribuenti nei cui confronti sia stato accertato un maggior reddito imponibile superiore a 10 milioni di lire e al 20 per cento del reddito dichiarato, o in ogni caso un maggior reddito imponibile superiore a 50 milioni di lire.
+
+4.
+                        
+                            
+                                Il centro informativo delle imposte dirette, entro il 31 dicembre dell'anno successivo a quello di presentazione delle dichiarazioni dei redditi, forma per ciscun comune, i seguenti elenchi nominativi da distribuire agli uffici delle imposte territorialmente competenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    elenco nominativo dei contribuenti che hanno presentato la dichiarazione dei redditi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elenco nominativo dei soggetti che esercitano imprese commerciali, arti e professioni.
 
 Con apposito decreto del Ministro delle finanze sono annualmente stabiliti i termini e le modalita' per la formazione degli elenchi di cui al comma 4.
 

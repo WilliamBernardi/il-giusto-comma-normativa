@@ -8,8 +8,8 @@ codice_redazionale: 009G0086
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,101 @@ Per le attivita' di cui al comma 2 del presente articolo, spetta al custode, se 
 
  E' comunque dovuto un compenso non inferiore ad euro 250,00.
 
+2.
+                    
+                        
+                            Il compenso di cui al comma 1 e' dovuto unitariamente per lo svolgimento delle seguenti attivita':
+ 
+                        
+                        
+                            a)
+                            
+                                accessi presso l'ufficio giudiziario per il conferimento dell'incarico e la consultazione del fascicolo, nonche' presso altri pubblici uffici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accessi all'immobile pignorato, anche in caso di apertura forzata delle porte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                verifica dello stato di conservazione del bene e dell'esistenza di eventuali mutamenti rispetto a quanto risultante dalla relazione dell'esperto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                verifica dello stato di occupazione del bene e dell'eventuale sussistenza di titoli opponibili da parte di terzi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                quantificazione delle spese condominiali relative all'ultimo biennio, nonche' di quelle future gia' deliberate;
+
+                            
+                        
+                        
+                            f)
+                            
+                                sostituzione di serrature, installazione o sostituzione di dispositivi di sicurezza;
+
+                            
+                        
+                        
+                            g)
+                            
+                                informazioni relative all'immobile pignorato e alla procedura di vendita, rese agli interessati mediante l'utenza telefonica indicata nell'avviso di vendita di cui all'articolo 570 del codice di' procedura civile;
+
+                            
+                        
+                        
+                            h)
+                            
+                                invio agli interessati, anche tramite posta elettronica o fax, di copie o estratti della perizia di stima;
+
+                            
+                        
+                        
+                            i)
+                            
+                                accompagnamento degli interessati presso l'immobile posto in vendita;
+
+                            
+                        
+                        
+                            l)
+                            
+                                cura degli adempimenti pubblicitari previsti nell'ordinanza di vendita;
+
+                            
+                        
+                        
+                            m)
+                            
+                                chiarimenti resi al giudice o suo delegato, alle parti ed agli offerenti nel corso delle operazioni di vendita;
+
+                            
+                        
+                        
+                            n)
+                            
+                                attivita' di liberazione dell'immobile ai sensi dell'articolo 560, terzo comma, del codice di procedura civile;
+
+                            
+                        
+                        
+                            o)
+                            
+                                redazione e deposito del rendiconto di cui all'articolo 560, primo comma, del codice di procedura civile.
+
 In caso di cessazione dell'incarico, di inefficacia del pignoramento, sospensione o estinzione del processo prima della vendita, il compenso del custode, calcolato, con le percentuali di cui al comma 1, sul valore indicato nell'ultima ordinanza di vendita o, se non ancora pronunciata, su quello stimato, e' ridotto in proporzione all'attivita' effettivamente svolta.
 
 Il compenso liquidato ai sensi dei commi 1 e 3, e' diminuito fino alla meta' quando l'immobile e' libero o in altri casi di ridotta complessita' dell'incarico.
@@ -55,7 +150,119 @@ Per le attivita' di riscossione dei canoni di locazione ovvero di altre somme do
  fino a euro 5.000,00: 4%;
  oltre euro 5.000,00: 3%.
 
+2.
+                    
+                        
+                            Per le attivita' di seguito indicate, spetta al custode una maggiorazione complessiva del compenso calcolato ai sensi dell'articolo 2, comma 1, variabile tra il 5% e il 20%:
+
+ 
+                        
+                        
+                            a)
+                            
+                                azione per la convalida della licenza o dello sfratto per finita locazione o per morosita' e promozione di ogni altra azione, anche esecutiva, occorrente per conseguire la disponibilita' del bene;
+
+                            
+                        
+                        
+                            b)
+                            
+                                partecipazione alle assemblee condominiali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                interventi di manutenzione ordinaria o straordinaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                regolarizzazione catastale, urbanistica ed edilizia degli immobili;
+
+                            
+                        
+                        
+                            e)
+                            
+                                direzione e controllo delle attivita' di asporto e trasferimento presso un depositario delle cose mobili appartenenti al debitore o a terzi rinvenute nell'immobile pignorato.
+
 ## Art. 4. — Compensi per l'attivita' di custodia dei beni mobili
+
+1.
+                    
+                        
+                            Per la custodia dei beni mobili pignorati spetta al custode, se diverso dal debitore, un compenso liquidato in base ai seguenti criteri:
+
+ 
+                        
+                        
+                            a)
+                            
+                                per autocarri, autotreni, autoarticolati e motrici:
+ 1) con portata fino a 35 quintali, euro 6,20 al giorno;
+ 2) con portata superiore ai 35 quintali, euro 9,80 al giorno;
+
+
+                            
+                        
+                        
+                            b)
+                            
+                                per trattori stradali, rimorchi e semirimorchi, euro 9,80 al giorno;
+
+
+                            
+                        
+                        
+                            c)
+                            
+                                per trattori agricoli, macchine movimento terra e affini,euro 9,80 al giorno;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per autoveicoli:
+ 1) di cilindrata fino a 1.500 centimetri cubi, euro 2,20 al giorno;
+ 2) di cilindrata da 1.501 a 2.500 centimetri cubi, euro 2,70 al giorno;
+ 3) di cilindrata superiore a 2.500 centimetri cubi, euro 3,20 al giorno;
+
+
+                            
+                        
+                        
+                            e)
+                            
+                                per i motocicli e ciclomotori, euro 1,00 al giorno;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per gli oggetti preziosi e le opere d'arte:
+
+ 1) se la somma ricavata della vendita della totalita' dei beni non supera euro 1.000,00, euro 2,00 al giorno;
+ 2) se la somma ricavata della vendita della totalita' dei beni e' compreso tra euro 1.000,01 ed euro 5.000,00, euro 5,00 al giorno;
+ 3) se la somma ricavata della vendita della totalita' dei beni e' compreso tra euro 5.000,01 ed euro 10.000,00, euro 10,00 al giorno;
+ 4) se la somma ricavata della vendita della totalita' dei beni e' compreso tra euro 10.000,01 ed euro 20.000,00, euro 20,00 al giorno;
+ 5) se la somma ricavata della vendita della totalita' dei beni e' compreso tra euro 20.000,01 ed euro 50.000,00, euro 30,00 al giorno;
+ 6) se la somma ricavata della vendita della totalita' dei beni e' superiore ad euro 50.000,00 euro 50,00 al giorno;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per altri beni:
+ 1) se la somma ricavata della vendita della totalita' dei beni non supera euro 1.000,00, euro 0,15 per 0,25 metro cubo al giorno;
+ 2) se la somma ricavata della vendita della totalita' dei beni e' compreso tra euro 1.001,00 ed euro 2.500,00, euro 0,30 per 0,25 metro cubo al giorno;
+ 3) se la somma ricavata della vendita della totalita' dei beni supera euro 2.500, euro 0,40 per 0,25 metro cubo al giorno.
 
 Se la procedura e' sospesa o dichiarata estinta o improcedibile, il compenso, nei casi di cui al comma 1, lettere f) e g), e' determinato in relazione al valore di stima.
 

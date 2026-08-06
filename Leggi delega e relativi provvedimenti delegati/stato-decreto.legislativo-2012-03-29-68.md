@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2023-11-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,45 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai sensi del presente decreto si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per Ministro o Ministero, il Ministro o il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per universita', le universita' e gli istituti universitari statali e le universita' non statali legalmente riconosciute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per istituzioni di alta formazione artistica, musicale e coreutica, le istituzioni di cui alla legge 21 dicembre 1999, n. 508; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per corsi, i corsi di istruzione superiore e di alta formazione artistica, musicale e coreutica previsti, rispettivamente, dall'articolo 3 del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270, e dall'articolo 3 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, attivati dalle universita' e dalle istituzioni di alta formazione artistica, musicale e coreutica, nonche' i corsi attivati dalle Scuole superiori per mediatori linguistici abilitate, ai sensi dell'articolo 9, comma 2, del regolamento adottato con decreto del Ministro dell'istruzione, dell'universita' e della ricerca 10 gennaio 2002, n. 38, a rilasciare titoli equipollenti a tutti gli effetti ai diplomi di laurea conseguiti presso le universita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per LEP, i livelli essenziali delle prestazioni.
+
 ## Art. 2. — Finalita' e principi
 
 Il presente decreto, in attuazione degli articoli 3 e 34 della Costituzione, detta norme finalizzate a rimuovere gli ostacoli di ordine economico e sociale che limitano l'uguaglianza dei cittadini nell'accesso all'istruzione superiore e, in particolare, a consentire ai capaci e meritevoli, anche se privi di mezzi, di raggiungere i gradi piu' alti degli studi. A tale fine, la Repubblica promuove un sistema integrato di strumenti e servizi per favorire la piu' ampia partecipazione agli studi universitari sul territorio nazionale.
@@ -38,6 +77,45 @@ Il presente decreto definisce inoltre le tipologie di strutture residenziali des
 
 Lo Stato, le regioni, le province autonome di Trento e di Bolzano, le universita' e le istituzioni di alta formazione artistica, musicale e coreutica perseguono lo sviluppo, la diversificazione, l'efficienza, l'efficacia e la coerenza dei propri strumenti ed istituti, in armonia con le strategie dell'Unione europea ed avvalendosi della collaborazione tra i soggetti competenti in materia di diritto allo studio.
 
+5.
+                        
+                            
+                                Le finalita' di cui al comma 1 si perseguono attraverso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la promozione e la valorizzazione del merito degli studenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il potenziamento dei servizi volti a facilitare l'accesso e la frequenza del sistema universitario anche da parte di studenti con disabilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'individuazione degli strumenti e dei servizi volti a facilitare la condizione di studente non impegnato a tempo pieno negli studi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la realizzazione di interventi per la mobilita' territoriale degli studenti verso le sedi universitarie piu' idonee a soddisfarne aspirazioni e vocazioni, sul piano scientifico e culturale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la promozione e la creazione di interventi e strumenti di valorizzazione e informazione delle opportunita' offerte, in particolare dall'Unione europea, per favorire l'internazionalizzazione delle esperienze di studio e di ricerca e ogni altra forma di scambio culturale e scientifico da e verso le istituzioni universitarie europee e di altri Paesi.
+
 ## - Capo II ATTUAZIONE E DESTINATARI DEL DIRITTO ALLO STUDIO STRUMENTI E SERVIZI  PER IL SUCCESSO FORMATIVO RACCORDO E ACCORDI TRA LE ISTITUZIONI
 
 ## Art. 3. — Attribuzioni e compiti dello Stato, delle regioni e delle province autonome di Trento e di Bolzano, delle universita' e delle istituzioni di alta formazione artistica, musicale e coreutica
@@ -47,6 +125,59 @@ All'attuazione delle disposizioni previste dal presente decreto si provvede attr
 Ferma restando la competenza esclusiva dello Stato in materia di determinazione dei LEP, al fine di garantirne l'uniformita' e l'esigibilita' su tutto il territorio nazionale, le regioni esercitano la competenza esclusiva in materia di diritto allo studio, disciplinando e attivando gli interventi volti a rimuovere gli ostacoli di ordine economico e sociale per il concreto esercizio di tale diritto. Le regioni, nei limiti delle proprie disponibilita' di bilancio, possono integrare la gamma degli strumenti e dei servizi di cui all'articolo 6.
 
 Le regioni a statuto speciale e le province autonome di Trento e di Bolzano esercitano, nelle materie di cui al presente decreto, le competenze ad esse spettanti ai sensi dei rispettivi statuti e delle norme di attuazione, tenendo conto dei LEP.
+
+4.
+                        
+                            
+                                Le universita' e le istituzioni di alta formazione artistica, musicale e coreutica, nei limiti delle risorse disponibili nei propri bilanci: 
+ 
+                            
+                            
+                                a)
+                                
+                                    organizzano i propri servizi, compresi quelli di orientamento e di tutorato, al fine di realizzare il successo formativo degli studi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovono le attivita' di servizio di orientamento e tutorato delle associazioni e cooperative studentesche e dei collegi universitari legalmente riconosciuti, ai sensi dell'articolo 7, comma 1, del decreto-legge 25 settembre 2002, n. 212, convertito, con modificazioni, dalla legge 22 novembre 2002, n. 268; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agevolano la frequenza ai corsi, nonche' lo studio individuale, anche mediante l'apertura in ore serali e nei giorni festivi di biblioteche, laboratori e sale studio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuovono, sostengono e pubblicizzano attivita' culturali, sportive e ricreative, mediante l'istituzione di servizi e strutture collettive, anche in collaborazione con le regioni, le province autonome di Trento e di Bolzano, avvalendosi delle associazioni e cooperative studentesche e promuovendo, eventualmente, le attivita' di servizio svolte da quest'ultime; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    curano l'informazione circa le possibilita' offerte per lo studio e la formazione, con particolare attenzione ai programmi dell'Unione europea e internazionali al fine di favorire la mobilita' degli studenti, e pubblicizzano gli interventi in materia di diritto allo studio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promuovono interscambi di studenti con universita' italiane e straniere, anche nell'ambito di programmi europei e internazionali, in conformita' alle vigenti disposizioni in materia di riconoscimento di corsi e titoli; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sostengono le attivita' formative autogestite dagli studenti nei settori della cultura e degli scambi culturali, dello sport, del tempo libero, fatte salve quelle disciplinate da apposite disposizioni legislative.
 
 Le regioni, le province autonome di Trento e di Bolzano, le universita' e gli istituti di alta formazione artistica, musicale e coreutica, nei limiti delle proprie disponibilita' di bilancio, disciplinano le modalita' per la concessione di prestiti d'onore agli studenti in possesso dei requisiti di merito e provvedono alla concessione di garanzie sussidiarie sugli stessi e alla corresponsione delle quote degli interessi, sulla base di criteri definiti con decreto del Ministro, di concerto con il Ministro dell'economia e delle finanze, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
@@ -73,11 +204,124 @@ Per il raggiungimento dell'obiettivo di cui al comma 1 gli strumenti e i servizi
 ## Art. 6. — Strumenti e servizi per il conseguimento 
  del successo formativo
 
+1.
+                        
+                            
+                                Gli strumenti e i servizi per il conseguimento del pieno successo formativo degli studenti nei corsi di istruzione superiore sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi abitativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    servizi di ristorazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    servizi di orientamento e tutorato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' a tempo parziale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    trasporti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assistenza sanitaria; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    accesso alla cultura; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    servizi per la mobilita' internazionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    materiale didattico; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    altri servizi, definiti dalle regioni, dalle province autonome di Trento e di Bolzano, dalle universita', dalle istituzioni di alta formazione artistica, musicale e coreutica.
+
 Per gli studenti capaci e meritevoli, anche se privi di mezzi, in possesso dei requisiti di eleggibilita' di cui all'articolo 8, il conseguimento del pieno successo formativo di cui al comma 1 e' garantito attraverso l'erogazione della borsa di studio, ai sensi dell'articolo 7, comma 2.
 
 ## Art. 7. — Definizione dei livelli essenziali delle prestazioni (LEP)
 
 Al fine di garantire l'erogazione dei LEP in modo uniforme su tutto il territorio nazionale, la determinazione dell'importo standard della borsa di studio tiene in considerazione le differenziazioni territoriali correlate ai costi di mantenimento agli studi universitari. La concessione delle borse di studio e' assicurata a tutti gli studenti aventi i requisiti di eleggibilita' di cui all'articolo 8, nei limiti delle risorse disponibili nello stato di previsione del Ministero a legislazione vigente.
+
+2.
+                        
+                            
+                                L'importo standard della borsa di studio e' determinato, in modo distinto per condizione abitativa dello studente, in base alla rilevazione dei costi di mantenimento agli studi, in termini di costi delle prestazioni essenziali relative alle seguenti definizioni delle voci di costo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la voce materiale didattico comprende la spesa per libri di testo e strumenti didattici indispensabili per lo studio. ((...)) e' compresa la spesa per l'acquisto di personal computer ed altri strumenti od attrezzature tecniche o informatiche ((. E' altresi' ricompresa la spesa per l'adeguamento o l'acquisto di provider o dispositivi di miglioramento del servizio di connessione dati di rete personale o domestica tale da consentire la navigazione mediante la piu' recente tecnologia di rete locale senza fili ovvero, laddove non possibile, mediante tecnologia di telefonia mobile e cellulare)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la voce trasporto comprende la spesa effettuata per spostamenti in area urbana ed extra-urbana, dalla sede abitativa alla sede di studio, con riferimento alle tariffe piu' economiche degli abbonamenti del trasporto pubblico. Per gli studenti fuori sede e' computato anche il costo per il raggiungimento della sede di origine due volte l'anno con riferimento alle tariffe piu' economiche del trasporto pubblico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la voce ristorazione comprende, per gli studenti fuori sede, la spesa relativa al servizio offerto per due pasti giornalieri, dalle mense universitarie o da strutture convenzionate, ovvero la spesa per mangiare in casa; per gli studenti in sede e pendolari, la spesa per un pasto giornaliero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la voce alloggio e' riferita allo studente fuori sede e comprende la spesa per l'affitto in stanza doppia o residenza universitaria e per le relative spese accessorie (condominio, riscaldamento, luce, acqua, gas, tassa sui rifiuti), tenuto conto dei canoni di locazione mediamente praticati sul mercato nei diversi comuni sede dei corsi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la voce accesso alla cultura include la spesa essenziale effettuata dagli studenti per frequentare eventi culturali presso la citta' sede dell'ateneo per il completamento del percorso formativo.
 
 La spesa verra' stimata in valore standard, con riferimento a studenti il cui nucleo familiare abbia un valore dell'Indicatore della situazione economica equivalente (ISEEU) fino al 20 per cento superiore al limite massimo previsto dai requisiti di eleggibilita' di cui all'articolo 8, computata su undici mesi.
 
@@ -121,6 +365,31 @@ Le universita' esonerano totalmente dalla tassa di iscrizione e dai contributi g
 
 Gli studenti che beneficiano delle disposizioni di cui ai commi 4 e 5 non possono effettuare negli anni accademici di interruzione degli studi alcun atto di carriera. La richiesta di tale beneficio non e' revocabile nel corso dell'anno accademico e il periodo di interruzione non e' preso in considerazione ai fini della valutazione del merito di cui al presente decreto.
 
+7.
+                        
+                            
+                                Le Istituzioni e le universita' statali possono prevedere autonomamente, nei limiti delle proprie disponibilita' di bilancio e tenuto conto della condizione economica dello studente, la concessione di esoneri totali o parziali dalla tassa di iscrizione e dai contributi universitari, con riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    studenti con disabilita' con invalidita' inferiore al sessantasei per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    studenti che concludano gli studi entro i termini previsti dai rispettivi ordinamenti con regolarita' nella acquisizione dei crediti previsti nel piano di studi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    studenti che svolgano una documentata attivita' lavorativa.
+
 Per gli studenti iscritti ai corsi di laurea, di laurea magistrale a ciclo unico, di laurea magistrale, di dottorato di ricerca, nonche' ai corsi accademici di primo e di secondo livello le universita' e le istituzioni rimborsano agli studenti esonerati, ai sensi del comma 2, la prima rata della tassa di iscrizione e dei contributi versata; nel caso in cui le graduatorie per il conseguimento della borsa di studio non siano state pubblicate al momento della scadenza delle iscrizioni ai corsi, il rimborso e' effettuato entro un mese dalla data di pubblicazione di tali graduatorie.
 
 Gli studenti che presentino i requisiti di eleggibilita' per il conseguimento della borsa di studio che si iscrivono a un anno successivo di corso, non sono tenuti al pagamento della tassa di iscrizione e dei contributi, sino alla pubblicazione delle graduatorie per il conseguimento della borsa di studio.
@@ -147,6 +416,31 @@ L'assegnazione delle collaborazioni di cui al comma 1 avviene nei limiti delle r
 
 La prestazione richiesta allo studente per le collaborazioni di cui al comma 1 comporta un corrispettivo, esente da imposte, entro il limite di 3.500 euro annui. La collaborazione non configura in alcun modo un rapporto di lavoro subordinato e non da' luogo ad alcuna valutazione ai fini dei pubblici concorsi. Il corrispettivo orario, che puo' variare in relazione al tipo di attivita' svolta, e' determinato dalle universita' e dalle istituzioni per l'alta formazione artistica, musicale e coreutica, che provvedono alla copertura assicurativa contro gli infortuni.
 
+4.
+                        
+                            
+                                I regolamenti di cui al comma 1 sono emanati nel rispetto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    selezione degli studenti valorizzando il merito negli studi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestazioni lavorative dello studente in numero massimo di 200 ore per ciascun anno accademico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    precedenza, a parita' di curriculum formativo, accordata agli studenti in condizioni economiche maggiormente disagiate.
+
 ## Art. 12. — Raccordo tra le istituzioni e accordi per la sperimentazione di modelli innovativi
 
 Il Ministero, sentito il Ministero dell'economia e delle finanze, promuove accordi di programma e protocolli di intesa, anche con l'attribuzione di specifiche risorse nei limiti delle proprie disponibilita' di bilancio, al fine di favorire il raccordo tra le regioni e le Province autonome di Trento e di Bolzano, le universita', le istituzioni per l'alta formazione artistica, musicale e coreutica e le diverse istituzioni che concorrono al successo formativo degli studenti e di potenziare la gamma di servizi e interventi posti in essere dalle predette istituzioni nell'ambito della propria autonomia statutaria.
@@ -168,6 +462,24 @@ Una struttura ricettiva e' qualificata come "struttura residenziale universitari
 
 Le strutture di cui al comma 2 si differenziano tra loro in base alle funzioni ospitate, ai servizi erogati ed alle modalita' organizzative e gestionali adottate. Rientrano in tale tipologia le strutture ricettive che prevedono la presenza di spazi per lo svolgimento di funzioni residenziali, culturali e di socializzazione, stabiliti con il decreto di cui al comma 7.
 
+4.
+                        
+                            
+                                Le strutture residenziali universitarie, le cui caratteristiche tecniche peculiari sono stabilite con il decreto di cui al comma 7, si differenziano in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collegi universitari: strutture ricettive, dotate di spazi polifunzionali, idonee allo svolgimento di funzioni residenziali, con servizi alberghieri connessi, funzioni formative, culturali e ricreative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    residenze universitarie: strutture ricettive, dotate di spazi polifunzionali, idonee allo svolgimento di funzioni residenziali, anche con servizi alberghieri, strutturate in maniera tale che siano ottemperate entrambe le esigenze di individualita' e di socialita'. A tali funzioni possono essere aggiunte funzioni di carattere formativo e ricreativo, ritenute piu' idonee per la specificita' di ciascuna struttura.
+
 Nel caso di strutture residenziali universitarie private, il rapporto che intercorre tra il gestore e l'utilizzatore e' disciplinato da un contratto di ospitalita' di carattere alberghiero redatto in forma scritta e secondo le modalita' definite dal decreto di cui al comma 7. La disposizione non si applica alle strutture afferenti a universita' non statali legalmente riconosciute.
 
 Le strutture residenziali universitarie realizzate con i contributi di cui alla legge 14 novembre 2000, n. 338, possono essere trasferite ai fondi immobiliari istituiti anche con il piano nazionale di edilizia abitativa di cui al decreto del Presidente del Consiglio dei Ministri in data 16 luglio 2009, fermo restando il finanziamento ministeriale e gli obblighi ad esso connessi.
@@ -188,9 +500,73 @@ I collegi universitari legalmente riconosciuti sono strutture a carattere reside
 
 I collegi universitari legalmente riconosciuti, nell'ambito delle proprie finalita' istituzionali, sostengono gli studenti meritevoli, anche se privi di mezzi, e, ai sensi del comma 4 dell'articolo 4 della legge 30 dicembre 2010, n. 240, l'ammissione presso gli stessi, a seguito del relativo bando di concorso, costituisce titolo valutabile per i candidati, ai fini della predisposizione delle graduatorie, per la concessione dei contributi a carico del Fondo per il merito.
 
+3.
+                        
+                            
+                                Gli ospiti dei collegi universitari legalmente riconosciuti sono di norma studenti universitari, dotati di comprovate capacita' e meriti curriculari, che si trovano in una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iscritti a corsi di laurea di primo e di secondo livello; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    iscritti a corsi promossi dalle istituzioni di alta formazione artistica, musicale e coreutica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iscritti a corsi di specializzazione di livello universitario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    iscritti a corsi di dottorato e master universitari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    partecipanti a programmi di mobilita' e scambio di studenti universitari, in ambito nazionale e internazionale.
+
 ## Art. 16. — Disciplina del riconoscimento dei collegi universitari
 
 Con proprio decreto, il Ministero concede il riconoscimento ai collegi universitari che ne avanzano richiesta nel termine di centoventi giorni dal ricevimento della domanda.
+
+2.
+                        
+                            
+                                Ai fini del riconoscimento, il collegio universitario deve dimostrare di possedere requisiti e standard minimi a carattere istituzionale, logistico e funzionale, non inferiori a quelli previsti per l'accesso ai finanziamenti di cui alla legge del 14 novembre 2000, n. 338, ed in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevedere nel proprio statuto uno scopo formativo, svolto in maniera sistematica e continuativa, ed adeguata dimostrazione del possesso delle conseguenti qualificazioni e strutture organizzative necessarie per la sua realizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre di strutture ricettive dotate di spazi polifunzionali ed infrastrutture idonee allo svolgimento di funzioni residenziali, con connessi servizi alberghieri, di attivita' formative, culturali e ricreative, concepite con alti standard qualitativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre di strutture ricettive in grado di ospitare utenti italiani, provenienti da piu' regioni sul territorio nazionale, e stranieri, con particolare riguardo a quelli provenienti da paesi dell'Unione europea, anche in una prospettiva di sviluppo interculturale.
 
 Con decreto del Ministro, da adottare entro centoventi giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, sono indicate le modalita' di dimostrazione dei requisiti di cui al comma 2, lettere a), b), c), e le modalita' di verifica della permanenza dei requisiti medesimi nonche' di revoca del riconoscimento all'esito negativo della predetta verifica.
 
@@ -205,6 +581,38 @@ Con decreto del Ministro sono individuati i parametri per la dimostrazione dei r
 
 L'accreditamento e' concesso con decreto del Ministro, su domanda avanzata dagli interessati. La presentazione della domanda e' consentita ai collegi universitari di merito che abbiano ottenuto il riconoscimento da almeno cinque anni.
 
+3.
+                        
+                            
+                                Per la concessione dell'accreditamento di cui al comma 2, il collegio universitario di merito deve dimostrare di possedere requisiti e standard minimi a carattere istituzionale, logistico e funzionale. A tale fine, la domanda di cui al comma 1 deve essere corredata della documentazione che attesti e dimostri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esclusiva finalita' di gestione di collegi universitari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il prestigio acquisito dal collegio in ambito culturale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la qualificazione posseduta dal collegio in ambito formativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la rilevanza internazionale dell'istituzione, non solo in termini di ospitalita' ma anche nelle attivita' che favoriscono la mobilita' internazionale degli studenti iscritti.
+
 Il Ministero entro novanta giorni dal ricevimento della domanda di cui al comma 2, esaminata la documentazione di cui al comma 3 e in presenza dei requisiti richiesti, emana il decreto di concessione dell'accreditamento.
 
 L'accreditamento del collegio universitario di merito e' condizione necessaria per la concessione del finanziamento statale.
@@ -216,6 +624,31 @@ Le scuole universitarie di alta formazione a carattere residenziale, attivate pr
 ## - Capo IV SISTEMA DI FINANZIAMENTO E COPERTURA FINANZIARIA
 
 ## Art. 18. — Sistema di finanziamento
+
+1.
+                        
+                            
+                                Nelle more della completa definizione dei LEP e di quanto previsto dal decreto legislativo 6 maggio 2011, n. 68, il fabbisogno finanziario necessario per garantire gli strumenti ed i servizi per il pieno successo formativo di cui all'articolo 7, comma 2, a tutti gli studenti capaci e meritevoli, anche se privi di mezzi, che presentino i requisiti di eleggibilita' di cui all'articolo 8 e' coperto con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal fondo integrativo statale per la concessione di borse di studio, appositamente istituito a decorrere dall'anno finanziario 2012 nello stato di previsione del Ministero, sul quale confluiscono le risorse previste a legislazione vigente dall'autorizzazione di spesa di cui all'articolo 1 della legge 11 febbraio 1992, n. 147, e di cui all'articolo 33, comma 27, della legge 12 novembre 2011, n. 183, e da assegnare in misura proporzionale al fabbisogno finanziario delle regioni; (1) (2) (3) (4) (5) (6)(7)((9))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    dal gettito derivante dall'importo della tassa regionale per il diritto allo studio istituita, ai sensi dell'articolo 3, commi 20, 21, 22 e 23, della legge 28 dicembre 1995, n. 549, come modificato dal comma 8; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalle risorse proprie delle regioni, oltre al gettito di cui alla lettera b), in misura pari ad almeno il 40 per cento dell'assegnazione relativa al fondo integrativo statale.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti le occorrenti variazioni di bilancio.
 
@@ -277,6 +710,31 @@ All'attuazione delle disposizioni di cui al presente decreto si provvede nei lim
 
 ## Art. 20. — Osservatorio nazionale per il diritto allo studio universitario
 
+1.
+                        
+                            
+                                Con decreto del Ministro e' istituito presso la Direzione generale per l'universita', lo studente e il diritto allo studio universitario, l'Osservatorio nazionale per il diritto allo studio universitario con il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    creare un sistema informativo, correlato a quelli delle regioni e delle province autonome di Trento e di Bolzano, per l'attuazione del diritto allo studio, nonche' per il monitoraggio dell'attuazione del presente decreto, anche attraverso una banca dati dei beneficiari delle borse di studio, aggiornata periodicamente a cura dei soggetti erogatori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedere ad analisi, confronti e ricerche, anche attraverso incontri con gli enti delle regioni e delle province autonome di Trento e di Bolzano erogatori dei servizi, le universita' e le istituzioni di alta formazione artistica, musicale e coreutica, sui criteri e le metodologie adottate, con particolare riferimento alla valutazione dei costi di mantenimento agli studi, nonche' sui risultati ottenuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presentare al Ministro proposte per migliorare l'attuazione del principio di garanzia su tutto il territorio nazionale dei livelli essenziali delle prestazioni.
+
 L'Osservatorio e' un organismo coordinato, nelle sue attivita', dalla direzione generale per l'universita', lo studente e il diritto allo studio universitario e composto da rappresentanti del Ministero, del Ministero dell'economia e delle finanze, del Ministro per la cooperazione internazionale e l'integrazione, delle regioni e delle province autonome di Trento e di Bolzano, del Consiglio nazionale degli studenti universitari, della Conferenza dei rettori delle universita' italiane, del Convegno permanente dei direttori e dei dirigenti dell'universita', dei collegi di cui all'articolo 4, comma 4, della legge 30 dicembre 2010, n. 240, e da esperti del settore.
 
 I membri dell'Osservatorio sono nominati con decreto del Ministro e restano in carica tre anni.
@@ -308,4 +766,22 @@ Le disposizioni di cui al presente decreto hanno effetto a decorrere dall'anno a
 Per le province autonome di Trento e di Bolzano rimane fermo quanto disposto dall'articolo 2, comma 109, della legge 23 dicembre 2009, n. 191, che, nell'abrogare l'articolo 5 della legge 30 novembre 1989, n. 386, ha sancito il venir meno di ogni erogazione a carico del bilancio dello Stato in favore delle province autonome medesime prevista da leggi di settore. Sono fatte salve le specifiche disposizioni in materia di diritto allo studio contenute nel decreto legislativo 18 luglio 2011, n. 142, e nella legge 14 agosto 1982, n. 590, nonche' nelle leggi provinciali delle province autonome di Trento e di Bolzano.
 
 ## Art. 24. — Abrogazioni
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto sono abrogati, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 2 dicembre 1991, n. 390, ad eccezione dell'articolo 21; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 4, commi 99 e 100, della legge 24 dicembre 2003, n. 350.
 

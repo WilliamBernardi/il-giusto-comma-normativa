@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2025-10-17;188
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,15 +34,265 @@ Il presente regolamento disciplina le procedure da adottare per garantire la cor
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «codice dei contratti pubblici»: il decreto legislativo 31 marzo 2023, n. 36; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «ordine di accreditamento»: l'atto esecutivo mediante il quale, presso le tesorerie provinciali dello Stato, vengono messe a disposizione di un funzionario delegato aperture di credito affinche' lo stesso provveda alle pertinenti spese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «dirigente»: il titolare del centro di responsabilita' amministrativa o l'autorita' da questi delegata per l'esercizio delle funzioni di cui all'articolo 4, comma 2, del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «funzionario delegato»: l'ordinatore secondario di spesa che opera nei limiti delle aperture di credito in contabilita' ordinaria effettuate a proprio favore dal Comando generale della Guardia di finanza, dai reparti amministrativi del Corpo o da altra amministrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «funzionario delegato di contabilita' speciale»: il titolare della contabilita' incaricato di eseguire i pagamenti in favore degli aventi diritto, nei limiti delle risorse a disposizione provenienti dall'Unione europea, attraverso l'emissione di ordinativi di contabilita' speciale utilizzando le apposite funzionalita' del sistema informativo del dipartimento della Ragioneria generale dello Stato - Ispettorato generale per i rapporti finanziari con l'Unione europea; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «reparto amministrativo»: il reparto del Corpo che ha la gestione dei fondi iscritti in bilancio e dei materiali con resa del conto all'organo al quale e' devoluto il controllo amministrativo e contabile; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «buono prelevamento in contanti»: il titolo emesso dal funzionario delegato per l'accreditamento di somme, da parte della tesoreria, sul conto corrente del reparto amministrativo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «rete dei funzionari delegati»: l'insieme dei funzionari delegati abilitati dal Comando generale della Guardia di finanza a ricevere aperture di credito, individuati e nominati sulla base delle esigenze di carattere logistico, amministrativo e operativo del Corpo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «sistema informativo per la gestione della contabilita' finanziaria, economico-patrimoniale e analitica per centri di costo»: il sistema della Ragioneria generale dello Stato che integra la contabilita' finanziaria, economico-patrimoniale e analitica per centri di costo; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «centro di costo»: unita' organizzativa deputata alla rilevazione dei risultati economici; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «ordinativo secondario di spesa»: il titolo emesso dal funzionario delegato per effettuare pagamenti ai propri creditori; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «legge»: il regio decreto 18 novembre 1923, n. 2440, recante «Nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato»; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato»: il regio decreto 23 maggio 1924, n. 827, recante «Regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato»; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «sistema informativo delle retribuzioni»: il sistema informativo di erogazione unificata delle retribuzioni dei dipendenti della Pubblica amministrazione, ai sensi dell'articolo 1, comma 402, della legge 27 dicembre 2013, n. 147; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «punto ordinante di spesa»: il reparto amministrativo destinatario delle risorse finanziarie individuate dall'amministrazione con il decreto di riparto e assegnate mediante apposite funzionalita' dei sistemi informativi per la gestione della contabilita' finanziaria, economico-patrimoniale e analitica per centri di costo e delle retribuzioni; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «responsabile del procedimento dell'invio dei conti giudiziali alla Corte dei conti»: il dirigente delegato del Comando generale, capo dell'articolazione competente ratione materiae, il quale dispone l'invio dei conti giudiziali alla Corte dei conti; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «responsabile per l'aggiornamento dell'anagrafe degli agenti contabili»: il dirigente delegato del Comando generale, capo dell'articolazione competente ratione materiae, il quale effettua le comunicazioni di variazione dei dati identificativi relativi ai soggetti nominati agenti contabili e tenuti alla resa del conto giudiziale; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «SEC»: sistema europeo dei conti nazionali e regionali nell'Unione europea; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «controllo interno amministrativo-contabile»: l'attivita' volta a garantire la legittimita' contabile e amministrativa, al fine di assicurare la trasparenza, la regolarita' e la correttezza dell'azione amministrativa; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «Corpo»: il Corpo della Guardia di finanza; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «Comando generale»: il Comando generale del Corpo della Guardia di finanza; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «Comandante generale»: il Comandante generale del Corpo della Guardia di finanza; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «comandi responsabili della politica d'impiego delle risorse»: reparti del Corpo con competenza previsionale, programmatoria e di controllo sulla spesa periferica; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «Documento di programmazione finanziaria (D.P.F.)»: documento programmatorio e autorizzatorio, redatto all'inizio dell'esercizio finanziario e aggiornato in corso d'anno, per il soddisfacimento delle esigenze di spesa centralizzate e periferiche del Corpo secondo criteri di funzionalita', razionalizzazione e ottimizzazione delle risorse finaziarie a disposizione, assegnate con legge di bilancio o per effetto di ulteriori manovre finanziarie che modificano gli stanziamenti di bilancio.
+
 ## - Capo II Organizzazione amministrativa
 
 ## Art. 3. — Comandante generale
+
+1.
+                        
+                            
+                                Il Comandante generale esercita le funzioni di cui all'articolo 16 del decreto legislativo 30 marzo 2001, n. 165, e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    avvalendosi del Comandante in seconda, del Capo di stato maggiore e del Sottocapo di stato maggiore, coordina la pianificazione e la programmazione finanziaria del Corpo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercita i poteri di spesa e di acquisizione delle entrate, anche di natura patrimoniale, attribuendo ai dirigenti autonomia di spesa, entro il limite delle risorse assegnate e degli impegni assunti, nonche' i limiti di valore e per l'acquisizione delle entrate. I citati limiti sono individuati tenendo conto delle esigenze di carattere logistico, amministrativo e operativo del Corpo rapportate allo specifico contesto, centrale o periferico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuove e resiste alle liti e ha il potere di conciliare e transigere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definisce, con le determinazioni di cui all'articolo 2, comma 4, del decreto del Presidente della Repubblica 29 gennaio 1999, n. 34, l'organizzazione amministrativa centrale e periferica del Corpo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    individua, con proprie determinazioni, da emanarsi entro 90 giorni dalla data di entrata in vigore del presente provvedimento, i principi generali e i criteri cui devono conformarsi le relative gestioni dei fondi e dei valori in relazione alle esigenze di carattere logistico, amministrativo e operativo del Corpo rapportate allo specifico contesto, centrale o periferico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esercita il controllo interno amministrativo-contabile avvalendosi delle competenti articolazioni del Comando generale.
 
 Il Comandante generale fornisce il proprio contributo al processo di programmazione e controllo posto in essere dal Ministro dell'economia e delle finanze.
 
 Il Comandante generale esercita le funzioni di cui al presente regolamento nel quadro delle attribuzioni di cui all'articolo 3, comma 1, lettera a), del decreto del Presidente della Repubblica 29 gennaio 1999, n. 34.
 
 ## Art. 4. — Comando generale
+
+1.
+                        
+                            
+                                Il Comando generale, sulla base delle determinazioni di cui all'articolo 3, comma 1, lettera d) ed e), sovrintende al funzionamento dei reparti amministrativi di cui all'articolo 5 e provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ripartire, in tutto o in parte, tra i reparti amministrativi, ai sensi dell'articolo 34-quater della legge 31 dicembre 2009, n. 196, gli stanziamenti di bilancio per l'esercizio delle funzioni a essi demandate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre, sulla base degli stanziamenti di bilancio, le aperture di credito da destinare ai funzionari delegati, nei limiti degli impegni di spesa delegata assunti a favore della rete dei funzionari delegati. I citati limiti sono individuati tenendo conto delle esigenze di carattere logistico, amministrativo e operativo del Corpo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigilare sul tempestivo invio telematico dei rendiconti amministrativi di contabilita' ordinaria ai competenti uffici di controllo del dipartimento della Ragioneria generale dello Stato da parte dei funzionari delegati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eseguire, per conto dell'ufficio centrale di bilancio del Ministero dell'economia e delle finanze, la revisione della contabilita' dei materiali in distribuzione ai reparti del Corpo, e trasmettere al medesimo ufficio centrale di bilancio i relativi dati.
 
 Le funzioni di cui al comma 1 sono demandate alle articolazioni tecniche del Comando generale, il cui ordinamento interno, ai sensi dell'articolo 5, quarto comma, della legge 23 aprile 1959, n. 189, e' stabilito dal Comandante generale.
 
@@ -53,6 +303,66 @@ La firma e la conseguente responsabilita' degli atti relativi alle attribuzioni 
 Il Comandante generale individua con propria determinazione, ai sensi dell'articolo 2, comma 4, del decreto del Presidente della Repubblica n. 34 del 1999, i reparti amministrativi ai quali sono conferiti compiti di natura amministrativo-contabile e di gestione delle somme stanziate sulle singole unita' elementari di bilancio, per l'espletamento delle attivita' a essi demandate, con resa del conto ai competenti uffici di ragioneria.
 
 ## Art. 6. — Competenze dei soggetti e delle strutture preposti ai provvedimenti di gestione
+
+1.
+                        
+                            
+                                I soggetti e le strutture preposti alla programmazione finanziaria, all'adozione e all'attuazione dei provvedimenti afferenti alla gestione logistico-amministrativa del Corpo sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il dirigente delegato, con determinazione del Comandante generale, alla programmazione finanziaria, alla gestione delle risorse e all'assegnazione di fondi, mediante ordini di accreditamento, ai funzionari delegati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comandante del reparto amministrativo, per la gestione logistico-amministrativa connessa al funzionamento delle strutture del Corpo della Guardia di finanza di sua competenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il punto ordinante di spesa, per la determinazione delle competenze spettanti al personale del Corpo, da corrispondere mediante il sistema di erogazione unificata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ordinatore primario di spesa, autorizzato all'assunzione di impegni di spesa a valere sugli stanziamenti di bilancio, nei limiti della quota allo stesso assegnata, nonche' all'emissione di ordini di pagare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il funzionario delegato, per la programmazione delle spese, l'emissione degli ordinativi secondari di spesa, a valere sugli ordini di accreditamento, ricevuti e la presentazione del rendiconto telematico alle competenti ragionerie territoriali dello Stato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il militare addetto al riscontro contabile, per la verifica sul sistema informativo per la gestione della contabilita' finanziaria, economico-patrimoniale e analitica per centri di costo della corretta imputazione contabile dei titoli di spesa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il militare quietanzante, per la riscossione dei buoni prelevamento in contanti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il funzionario delegato di contabilita' speciale, per la gestione delle somme provenienti dall'Unione europea.
 
 ## - Capo III Programmazione finanziaria e controllo interno  amministrativo-contabile
 
@@ -168,6 +478,52 @@ I beni mobili dello Stato impiegati nell'espletamento delle attivita' istituzion
 
 I beni mobili dello Stato sono presi in carico dai consegnatari per debito di custodia e dai consegnatari per debito di vigilanza, che provvedono, secondo la rispettiva competenza, alla immediata iscrizione nell'inventario.
 
+2.
+                        
+                            
+                                L'inventario, la cui situazione e' costantemente aggiornata allo stato esistente, contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione e la descrizione degli stessi, secondo la diversa natura e specie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la classificazione, anche mediante il codice previsto dal SEC e l'anno di acquisizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il luogo in cui sono custoditi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la qualita' o numero degli oggetti secondo le varie specie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il valore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il codice identificativo del bene.
+
 Il valore iniziale dei beni mobili e' determinato in base ai costi di acquisizione o ai prezzi correnti di mercato.
 
 La ricognizione dei beni mobili e l'attualizzazione del loro valore sono effettuati almeno ogni cinque anni.
@@ -216,9 +572,59 @@ Il dirigente vigila sull'aggiornamento delle scritture patrimoniali tenute e ali
 
 ## Art. 24. — Materiali fuori uso per cause tecniche
 
+1.
+                        
+                            
+                                I reparti amministrativi formulano proposta di dismissione per i complessi, le parti o singoli oggetti che, pur essendo efficienti, rispettivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non hanno trovato o non possono trovare utile impiego in relazione alla loro primitiva destinazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono ritenuti superati per motivi di natura tecnica.
+
 La proposta e' inoltrata al Comando generale, con il parere motivato dell'organo tecnico, nominato dal comandante del reparto amministrativo.
 
 La dismissione dei materiali puo' essere disposta anche direttamente dal Comando generale.
+
+4.
+                        
+                            
+                                Il Comando generale stabilisce se i materiali dismessi devono essere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    impiegati per finalita' diverse da quelle originarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasformati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    venduti, previa dichiarazione di fuori uso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    smaltiti come rifiuti secondo le norme vigenti in materia di tutela ambientale.
 
 ## Art. 25. — Vendita di materiali fuori uso
 
@@ -232,6 +638,24 @@ A seguito della comunicazione del visto e della registrazione del decreto di app
 
 ## Art. 26. — Cessione e prestito di materiali
 
+1.
+                        
+                            
+                                Il dirigente dispone, con provvedimento motivato e, se necessario, previa autorizzazione del Comando generale, l'alienazione a titolo oneroso dei beni del Corpo, non preventivamente dichiarati fuori uso, in favore di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale della Guardia di finanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altre pubbliche amministrazioni, autorita' estere o privati, per ragioni urgenti di interesse pubblico o di natura militare, per operazioni di soccorso in caso di pubbliche calamita', per ragioni di politica internazionale ovvero per altre motivate esigenze. Lo scarico contabile dei materiali avviene immediatamente, indipendentemente dal pagamento.
+
 Nei casi di cui al comma 1, lettera b), fatta eccezione per le cessioni effettuate ai sensi dell'articolo 2132 del decreto legislativo 15 marzo 2010, n. 66, puo' essere autorizzata la cessione gratuita dei beni del Corpo, con decreto del Ministro dell'economia e delle finanze.
 
 Il prestito di materiali ad altre amministrazioni dello Stato, autorita' estere o privati e' stabilito con determinazione del Comandante generale che fissa le modalita', la durata e l'importo.
@@ -239,6 +663,31 @@ Il prestito di materiali ad altre amministrazioni dello Stato, autorita' estere 
 Gli importi riscossi in corrispondenza delle cessioni e del prestito costituiscono proventi riassegnabili.
 
 ## Art. 27. — Amministrazione dei cani
+
+1.
+                        
+                            
+                                I reparti amministrativi gestiscono i cani assunti in carico per le procedure relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'amministrazione, concernenti la presa in carico, il passaggio di carico e di scarico amministrativo dei cani e la gestione delle risorse finanziarie assegnate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al mantenimento, con riferimento alle convenzioni per l'assistenza medico veterinaria ordinaria, alle spese per l'assistenza medico veterinaria straordinaria, all'alimentazione speciale diversa da quella di mantenimento, all'equipaggiamento, al materiale addestrativo, al materiale sanitario e ai farmaci, alla manutenzione e alla gestione dei ricoveri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla custodia e all'aggiornamento dei fogli matricolari relativamente alle vicende sanitarie, all'impiego e alle variazioni matricolari, alle variazioni di reparto, al cambio di conduttore e ai risultati di servizio.
 
 In apposito ruolo sono tenute in evidenza la dotazione organica dei cani amministrati e le relative variazioni.
 
@@ -280,6 +729,27 @@ Alle procedure di scelta del contraente e di esecuzione dei contratti provvedono
 
 Nel caso di permuta, ai sensi dell'articolo 2133 del decreto legislativo n. 66 del 2010, il valore dei materiali e' portato a scomputo del prezzo del bene o del servizio da acquisire.
 
+4.
+                        
+                            
+                                Il Comandante generale, sulla base dei poteri di impegno dei fondi per la realizzazione dei programmi di spesa, inerenti alle risorse finanziarie assegnate al Corpo e all'acquisizione delle entrate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attribuisce, tenendo conto dei profili tecnici e professionali rapportati al settore, alla natura e all'oggetto delle attivita', specifiche competenze e correlate responsabilita' alle articolazioni del Comando generale e all'organizzazione periferica in materia di pianificazione e programmazione finanziaria, progettazione, affidamento ed esecuzione dei contratti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disciplina l'espletamento dell'attivita' negoziale, in ragione dei seguenti criteri: 
+ 1) distinzione tra funzioni decisionali di indirizzo e controllo e amministrative di attuazione delle decisioni assunte e di gestione delle relative risorse; 
+ 2) semplificazione e standardizzazione delle procedure negoziali; 
+ 3) natura e importo dell'atto negoziale.
+
 ## Art. 32. — Capitolati d'oneri
 
 Il Corpo predispone propri capitolati d'oneri, generali o speciali, approvati con decreto del Ministro dell'economia e delle finanze, sentito il Consiglio di Stato, ovvero puo' avvalersi dei capitolati d'oneri, generali o speciali, in vigore presso altre Forze armate.
@@ -300,6 +770,24 @@ La programmazione pluriennale dei lavori e degli acquisti di beni e servizi del 
 
 ## Art. 34. — Approvazione
 
+1.
+                        
+                            
+                                I contratti attivi e passivi stipulati dal Corpo sono approvati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal Comandante generale o da ufficiali generali o superiori dallo stesso delegati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal comandante del reparto amministrativo per i contratti stipulati nell'interesse del reparto amministrativo, entro i limiti di valore per gli impegni delle spese e di acquisizione delle entrate ai sensi dell'articolo 3, comma 1, lettera b).
+
 Il Comandante generale, al fine di assicurare la continuita' dei servizi logistici connessi alle attivita' operative e addestrative, puo' delegare al comandante del reparto amministrativo, incaricato dell'acquisizione, l'approvazione dei contratti stipulati nell'interesse proprio e di altri reparti amministrati.
 
 I contratti di cui al comma 1, lettera a), sono eseguibili dopo la registrazione del decreto di approvazione e di impegno di spesa da parte dell'ufficio centrale di bilancio presso il Ministero dell'economia e delle finanze e, nei casi previsti, il controllo preventivo di legittimita' della Corte dei conti.
@@ -312,7 +800,78 @@ Il contratto attivo e' eseguibile ove previsto dopo l'avvenuta registrazione da 
 
 ## Art. 35. — Competenze delle stazioni appaltanti
 
+1.
+                        
+                            
+                                Ai dirigenti individuati con determinazione del Comandante generale, sono attribuite le seguenti competenze, oltre a quella stabilita dall'articolo 34: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adozione della decisione di contrarre con individuazione della procedura di affidamento e dei criteri di selezione degli operatori economici e delle offerte e nomina del responsabile unico del progetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione del bando di gara, ove previsto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la nomina delle commissioni giudicatrici e delle commissioni di collaudo o di verifica di conformita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'approvazione della proposta di aggiudicazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la nomina del direttore dell'esecuzione contrattuale e degli eventuali assistenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'adozione del decreto di applicazione delle eventuali penali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'adozione del decreto di recesso o di risoluzione del contratto e l'approvazione delle modifiche contrattuali e l'autorizzazione alla proroga o alla sospensione dei termini contrattuali.
+
 ## Art. 36. — Responsabile unico del progetto
+
+1.
+                        
+                            
+                                Il responsabile unico del progetto di cui al codice dei contratti pubblici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' nominato, con atto formale del dirigente, tra i militari in possesso di adeguata competenza e professionalita' in relazione ai compiti per cui e' nominato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sovrintende, avvalendosi dell'eventuale struttura di supporto e di uno o piu' responsabili di procedimento, ove nominati, per la fase di programmazione, progettazione ed esecuzione e per quella di affidamento, al corretto svolgimento delle varie fasi del procedimento previste dal codice dei contratti pubblici.
 
 In caso di mancata nomina, il responsabile unico del progetto si identifica con il dirigente dell'unita' organizzativa, competente per l'intervento.
 
@@ -344,6 +903,24 @@ Al fine di assicurare la continuita' nella gestione amministrativa e contabile, 
 
 Fermo restando quanto previsto dal comma 7, la dotazione del fondo scorta e' ripartita tra i reparti amministrativi con determinazione del Comandante generale e accreditata, mediante ordinativi primari di spesa emessi dal dirigente competente, direttamente sul conto corrente di ciascun reparto amministrativo.
 
+3.
+                        
+                            
+                                Per speciali esigenze si intendono le situazioni in cui il Corpo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostiene spese per lo svolgimento di attivita' in favore di altre amministrazioni o effettua pagamenti per conto di altri soggetti, che verranno successivamente rimborsati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concede anticipi al personale, nei casi previsti dalle disposizioni legislative o regolamentari vigenti in materia, o i fondi permanenti di cui all'articolo 41 del presente decreto.
+
 L'anticipazione di risorse finanziarie a carico del fondo scorta, autorizzata dal comandante del reparto amministrativo, puo' avvenire solo previo accertamento della relativa legittimazione e delle modalita' di copertura finanziaria per la successiva imputazione a bilancio e, comunque, per il pareggio della partita che sara' effettuato, esclusivamente, con le disponibilita' di bilancio dello stesso esercizio di pagamento.
 
 Non possono essere oggetto di anticipazione a valere sul fondo scorta, le spese, di natura ricorrente e continuativa, relative alle retribuzioni al personale in servizio, ai trattamenti pensionistici o di ausiliaria, all'acquisizione di beni immobili e al pagamento di rate di mutuo o di fitti passivi.
@@ -366,7 +943,57 @@ Il titolare del fondo permanente e' personalmente responsabile della regolarita'
 
 ## Art. 42. — Utilizzo dei conti particolari
 
+1.
+                        
+                            
+                                I conti particolari sono utilizzati per l'imputazione temporanea delle seguenti operazioni di entrata e di uscita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    somme versate al Corpo da altre pubbliche amministrazioni, anche estere, da personale del Corpo o da privati, successivamente inviate ad altri organismi o a terzi creditori, preventivamente individuati, salvo che costituiscano proventi ai sensi dell'articolo 43; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    somme ricevute in prestito, ai sensi dell'articolo 40, comma 6, e pagamenti con le stesse effettuati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    somme riscosse mediante il buono di prelevamento in contanti di cui all'articolo 14, comma 2, successivamente utilizzate per il pagamento del creditore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altri eventuali pagamenti e introiti consentiti dalle vigenti disposizioni legislative e regolamentari.
+
 I reparti amministrativi, procedono entro 30 giorni alla chiusura a pareggio delle partite iscritte nei conti particolari.
+
+3.
+                        
+                            
+                                I reparti amministrativi inviano al Comando generale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la situazione di tutti i conti, comprensiva delle partite ancora accese alla fine del trimestre, a fondo scorta e ai conti particolari, con l'indicazione dell'ammontare complessivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un prospetto riassuntivo dei proventi riscossi e versati in tesoreria durante il trimestre, raggruppati secondo la loro specie e oggetto.
 
 I documenti di cui al comma 3 sono inviati, a cura del comando Generale, all'ufficio centrale di bilancio del Ministero dell'economia e delle finanze.
 
@@ -375,6 +1002,24 @@ I documenti di cui al comma 3 sono inviati, a cura del comando Generale, all'uff
 I reparti amministrativi non possono avvalersi di entrate di qualsiasi genere e provenienza per accrescere le proprie dotazioni di bilancio.
 
 Le somme riscosse e quelle ritenute sui pagamenti sono versate presso la tesoreria dello Stato, con imputazione ad apposita unita' elementare di entrata del bilancio dello Stato, se non sono dovute a terzi e non costituiscono reintegrazione totale o parziale di spese anticipate dal Corpo.
+
+3.
+                        
+                            
+                                I reparti amministrativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    versano i proventi in tesoreria non oltre il decimo giorno del mese successivo alla riscossione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    registrano le somme riscosse, distinte per tipologia, e quelle successivamente versate in tesoreria.
 
 Le quietanze che attestano il versamento dei proventi in tesoreria sono allegate all'ordine di pagamento.
 
@@ -386,6 +1031,24 @@ La rendicontazione dei proventi avviene secondo le indicazioni di cui all'artico
 
 ## Art. 44. — Servizio di vettovagliamento
 
+1.
+                        
+                            
+                                Il servizio vettovagliamento del Corpo, concernente il confezionamento e la distribuzione dei pasti, e' classificato in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mense obbligatorie di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mense non obbligatorie di servizio.
+
 Il valore economico del pasto, erogato dalle mense obbligatorie di servizio ovvero con operatore convenzionato, non puo' essere corrisposto, in tutto o in parte, ai militari aventi diritto.
 
 Il servizio di vettovagliamento di cui al comma 1, lettera b), ha la finalita' di consentire al personale del Corpo, anche al di fuori dell'attivita' lavorativa, di fruire del servizio di ristorazione, previo pagamento di un corrispettivo.
@@ -395,6 +1058,38 @@ Le modalita' di fornitura del servizio di vettovagliamento a favore del personal
 Al servizio di mensa del Corpo della Guardia di finanza si applicano, in quanto compatibili, le disposizioni, anche in tema di rendicontazione, contenute nella sezione II del capo V del titolo I del libro terzo del decreto del Presidente della Repubblica 15 marzo 2010, n. 90.
 
 ## Art. 45. — Apporti dell'amministrazione
+
+1.
+                        
+                            
+                                Il Corpo provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle spese per l'impianto delle mense e relative cucine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla dotazione del materiale necessario per il loro funzionamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle spese di carattere generale quali acqua, combustibile, energia elettrica, pulizia e altri oneri accessori per la preparazione e la distribuzione dei pasti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'assegnazione del personale di servizio per le mense gestite direttamente dai reparti del Corpo.
 
 Nelle mense affidate a privati, nella forma del catering completo, i locali, le attrezzature e i materiali in dotazione alla mensa sono temporaneamente affidati in gestione alla impresa appaltatrice a mezzo di apposito verbale.
 
@@ -426,6 +1121,56 @@ Ove la presunta entita' del danno superi l'importo di euro 50.000, il comandante
 
 Per danni il cui importo si presume non superiore al limite di cui al comma 2, le circostanze connesse alle cause dell'evento e l'entita' del danno sono accertate dal comandante stesso o da un ufficiale inquirente da questi designato.
 
+4.
+                        
+                            
+                                L'ufficiale inquirente o la commissione d'inchiesta, acquisito, ove necessario, il parere degli organi tecnici competenti, provvedono, entro 30 giorni, prorogabili, una sola volta, fino a 60, decorrenti dalla data della nomina o della designazione di cui ai commi 2 e 3, a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricercare tutti i dettagli relativi alla vicenda rappresentata, in modo da addivenire a una valutazione obiettiva e reale circa la dinamica dei fatti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determinare l'entita' dei danni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contestare ai presunti autori le loro responsabilita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    acquisire agli atti le controdeduzioni dai medesimi eventualmente rese.
+
+5.
+                        
+                            
+                                Il comandante del reparto amministrativo, quando, sulla base degli elementi di fatto ovvero a conclusione dell'inchiesta di cui ai commi 2, 3 e 4, emerga un danno patrimoniale, inoltra al competente procuratore regionale della Corte dei conti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una denuncia, costituendo in mora i presunti responsabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una comunicazione, nei soli casi in cui il danno sia gia' stato integralmente risarcito dal materiale autore della condotta o siano emersi profili di responsabilita' per i quali l'autorita' giudiziaria penale abbia gia' esercitato l'azione penale e partecipato alla magistratura contabile l'esistenza di un danno.
+
 Nel caso di perdite o avarie di materiali derivanti da incidenti di navigazione marittima o aerea o di trasporto terrestre, si osservano anche le disposizioni relative ai singoli servizi per l'individuazione e la valutazione delle cause e delle eventuali responsabilita'.
 
 ## Art. 50.
@@ -455,6 +1200,24 @@ Tale procedimento non sospende, tuttavia, lo svolgimento degli atti intesi ad ac
 Ove il recupero di cui al comma 1 non puo' comunque essere effettuato, i responsabili di pagamenti indebitamente eseguiti risarciscono il danno.
 
 ## Art. 53. — Quantificazione dell'addebito
+
+1.
+                        
+                            
+                                L'addebito per perdita di materiali e' commisurato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i materiali assunti in carico, al prezzo risultante dalle scritture contabili o dall'inventario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i materiali non assunti in carico, al prezzo di acquisto.
 
 L'addebito puo' essere ridotto o aumentato, quando risulti che il materiale aveva un valore effettivo inferiore o superiore a quello in carico.
 

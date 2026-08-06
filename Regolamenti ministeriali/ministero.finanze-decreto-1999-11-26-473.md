@@ -8,8 +8,8 @@ codice_redazionale: 099G0550
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,24 @@ I compensi comunque denominati, comprese le indennita' di trasferta e i rimborsi
 La parte dei compensi che eccede i predetti limiti costituisce interamente reddito per il percipiente persona fisica, senza le esclusioni, riduzioni o deduzioni previste per le singole categorie reddituali; le societa' o associazioni sportive dilettantistiche eroganti operano, con obbligo di rivalsa, una ritenuta a titolo d'imposta nella misura fissata, per il primo scaglione di reddito, dall'articolo 11 del testo unico delle imposte sui redditi e maggiorata delle aliquote di compartecipazione delle addizionali all'imposta sul reddito delle persone fisiche. All'atto del pagamento i percipienti autocertificano alle societa' o associazioni sportive dilettantistiche eventuali compensi della stessa natura loro erogati da altri soggetti.
 
 I soggetti che erogano i compensi di cui al presente articolo certificano comunque ai percipienti i compensi corrisposti, anche se non assoggettati a ritenuta, e presentano, con le ordinarie modalita', la dichiarazione dei sostituti d'imposta.
+
+4.
+                    
+                        
+                            Ai fini dell'applicazione del presente articolo, si considerano:
+ 
+                        
+                        
+                            a)
+                            
+                                societa' sportive dilettantistiche, il Coni, le Federazioni sportive nazionali, gli enti di promozione sportiva e qualunque altro organismo, comunque denominato, che persegua finalita' sportive dilettantistiche e che sia da essi riconosciuto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                compensi per le prestazioni inerenti la propria attivita', quelli corrisposti per promuovere l'attivita' sportiva dilettantistica. Sono esclusi, invece, quelli erogati dall'organismo ai propri lavoratori dipendenti assunti per lo svolgimento delle attivita' amministrative o, in generale, di gestione dell'organismo stesso, nonche' quelli corrisposti ad artisti o professionisti di cui all'articolo 49, comma 1, del testo unico delle imposte sui redditi, o ad esercenti attivita' d'impresa di cui all'articolo 51, comma 1, dello stesso testo unico.
 
 La disciplina fiscale dell'attivita' sportiva dilettantistica di cui al presente articolo sostituisce quella contenuta nella legge 25 marzo 1986, n. 80. I riferimenti alla predetta legge n. 80 del 1986 contenuti nell'articolo 81, comma 1, lettera m), del testo unico delle imposte sui redditi e nelle altre disposizioni di carattere fiscale, devono intendersi operati all'articolo 25, comma 4, della legge 13 maggio 1999, n. 133, e alle norme di attuazione recate dal presente decreto.
 

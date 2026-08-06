@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1995-01-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,6 +27,38 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 lug
 E' individuata la figura del tecnico sanitario di radiologia medica con il seguente profilo: il tecnico sanitario di radiologia e' l'operatore sanitario che in possesso del diploma universitario abilitante e dell'iscrizione all'albo professionale, e' responsabile degli atti di sua competenza ed e' autorizzato ad espletare indagini e prestazioni radiologiche.
 
 Il tecnico sanitario di radiologia medica e' l'operatore sanitario abilitato a svolgere, in conformita' a quanto disposto dalla legge 31 gennaio 1983, n. 25, in via autonoma, o in collaborazione con altre figure sanitarie, su prescrizione medica tutti gli interventi che richiedono l'uso di sorgenti di radiazioni ionizzanti, sia artificiali che naturali, di energie termiche, ultrasoniche, di risonanza magnetica nucleare nonche' gli interventi per la protezionistica fisica o dosimetrica.
+
+3.
+                    
+                        
+                            Il tecnico sanitario di radiologia medica: 
+ 
+                        
+                        
+                            a)
+                            
+                                partecipa alla programmazione e organizzazione del lavoro nell'ambito della struttura in cui opera nel rispetto delle proprie competenze; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                programma e gestisce l'erogazione di prestazioni polivalenti di sua competenza in collaborazione diretta con il medico radiodiagnosta, con il medico nucleare, con ((il medico radioterapista)) e con il fisico sanitario, secondo protocolli diagnostici e terapeutici preventivamente definiti dal responsabile della struttura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' responsabile degli atti di sua competenza, in particolare controllando il corretto funzionamento delle apparecchiature a lui affidate, provvedendo alla eliminazione di inconvenienti di modesta entita' e attuando programmi di verifica e controllo a garanzia della qualita' secondo indicatori e standard predefiniti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolge la sua attivita' nelle strutture sanitarie pubbliche o private, in rapporto di dipendenza o libero professionale.
 
 Il tecnico sanitario di radiologia medica contribuisce alla formazione del personale di supporto e concorre direttamente all'aggiornamento relativo al proprio profilo professionale e alla ricerca.
 

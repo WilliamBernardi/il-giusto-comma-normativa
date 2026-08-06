@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2024-11-13;217
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,52 @@ Il presente decreto disciplina le modalita' di accesso alla qualifica iniziale, 
 
 ## Art. 2. — Accesso alla carriera dei medici
 
+1.
+                    
+                        
+                            L'accesso alla qualifica iniziale della carriera dei medici avviene mediante concorso pubblico per titoli ed esami, indetto con decreto del direttore generale del personale del Dipartimento dell'amministrazione penitenziaria del Ministero della giustizia, consistente in due prove scritte e una prova orale, al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                godimento dei diritti civili e politici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non aver compiuto il trentacinquesimo anno di eta'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                idoneita' fisica, psichica e attitudinale al servizio di polizia penitenziaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                laurea in medicina e chirurgia conseguita presso una universita' della Repubblica italiana o un istituto di istruzione universitario equiparato e diploma di specializzazione rilasciato dalle Scuole di specializzazione di area sanitaria di cui al decreto del Ministro dell'istruzione, dell'universita' e della ricerca 4 febbraio 2015, pubblicato nella Gazzetta Ufficiale n. 126 del 3 giugno 2015; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                abilitazione all'esercizio della professione medica e iscrizione al relativo albo.
+
 Il 20 per cento dei posti e' riservato al personale appartenente al Corpo di polizia penitenziaria con una anzianita' di servizio di almeno cinque anni, in possesso dei requisiti di cui al comma 1, salvo il limite di eta', che non abbia riportato, nei tre anni precedenti, un giudizio complessivo inferiore a «ottimo» ne' sanzioni disciplinari pari o piu' gravi della pena pecuniaria. Si applicano le disposizioni di cui agli articoli 93 e 94 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
 Si applicano le riserve dei posti a favore di coloro che sono in possesso dell'attestato di cui all'articolo 4 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752. Si applicano, altresi', le disposizioni previste dalle leggi speciali sulle riserve di posti a favore di alcune categorie di cittadini. Le riserve non possono superare complessivamente la meta' dei posti messi a concorso. Se, in relazione a tale limite, e' necessaria una riduzione dei posti da riservare secondo legge, essa si attua in misura proporzionale per ciascuna categoria di aventi diritto alla riserva.
@@ -44,9 +90,178 @@ Al concorso non sono ammessi coloro che sono stati, per motivi diversi dall'inid
 
 ## Art. 3. — Bando di concorso
 
+1.
+                    
+                        
+                            I concorsi sono indetti con decreto del direttore generale del personale del Dipartimento dell'amministrazione penitenziaria, pubblicato ai sensi dell'articolo 35-ter, comma 2-bis, del decreto legislativo 30 marzo 2001, n. 165, nel quale sono indicati, oltre ai requisiti di cui all'articolo 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso con l'indicazione della ripartizione tra le eventuali specializzazioni previste; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i termini e le modalita' di presentazione, per via telematica, delle domande di partecipazione al concorso e dei documenti di cui alle lettere d) e i); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero dei posti riservati dalla legge a favore di determinate categorie; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i documenti prescritti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il giorno, l'ora e il luogo di svolgimento delle prove scritte o dell'eventuale prova preselettiva, ovvero la data di pubblicazione del diario delle prove sul sito istituzionale del Ministero della giustizia che ha valore di notifica a tutti gli effetti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il numero dei candidati da convocare, ai sensi dell'articolo 7, per sostenere le ulteriori fasi concorsuali, seguendo l'ordine della graduatoria dell'eventuale prova preselettiva o della prova scritta; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le materie oggetto delle prove di cui all'articolo 7, comma 1, e la votazione minima da conseguire; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le categorie di titoli ammessi a valutazione, il punteggio massimo attribuibile a ciascuna di esse e le modalita' e i termini di presentazione della relativa documentazione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                i titoli che danno diritto a partecipare alle riserve di posti di cui all'articolo 2, commi 2 e 3, del presente decreto e quelli di preferenza nella nomina di cui all'articolo 5 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                ogni altra prescrizione o notizia ritenuta utile.
+
 ## Art. 4. — Domanda di partecipazione al concorso
 
 La domanda di partecipazione al concorso deve essere redatta e inviata, esclusivamente con modalita' telematiche compilando l'apposito modulo (FORM), entro il termine perentorio di trenta giorni decorrenti dal giorno successivo alla data di pubblicazione del bando. Il modulo della domanda (FORM) e le modalita' operative di compilazione e invio telematico sono disponibili dal giorno della suddetta pubblicazione sul sito istituzionale del Ministero della giustizia, secondo le modalita' stabilite nel bando di concorso.
+
+2.
+                    
+                        
+                            Nella domanda di partecipazione al concorso, il candidato deve dichiarare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il cognome e il nome; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il luogo e la data di nascita; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il possesso della cittadinanza italiana; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comune ove e' iscritto nelle liste elettorali, ovvero il motivo della non iscrizione o cancellazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'assenza dei motivi di esclusione dall'ammissione al concorso di cui all'articolo 2, comma 5; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il titolo di studio richiesto, con l'indicazione dell'universita' che lo ha rilasciato e della data in cui e' stato conseguito e, per coloro che ne sono gia' in possesso, le abilitazioni e specializzazioni richieste; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i servizi eventualmente prestati come dipendente presso le pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la conoscenza della lingua inglese di livello almeno pari a B1 del quadro comune europeo di riferimento per le lingue straniere; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                i titoli che intende sottoporre alla valutazione della commissione esaminatrice, tra quelli previsti al successivo articolo 9; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'eventuale possesso di titoli di preferenza di cui all'articolo 5 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                per i partecipanti alla riserva prevista dall'articolo 2, comma 2, il punteggio conseguito nei rapporti informativi nel periodo indicato dal bando di concorso e di non aver riportato le sanzioni disciplinari previste come causa di esclusione dal bando medesimo; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                l'indirizzo di posta elettronica certificata (PEC) personale per l'invio e la ricezione delle comunicazioni e delle notifiche attinenti al concorso; ai medesimi fini, i candidati gia' appartenenti al Corpo di polizia penitenziaria possono utilizzare, ove ne dispongano, l'indirizzo di posta elettronica istituzionale; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                ogni altra indicazione richiesta dal bando di concorso.
 
 I candidati che intendono concorrere per i posti riservati previsti dal bando devono farne espressa richiesta nella domanda di partecipazione al concorso, precisando la riserva per la quale concorrono e indicando, nell'ipotesi di candidati in possesso dell'attestato di cui all'articolo 4 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, la lingua, italiana o tedesca, nella quale intendono sostenere le prove d'esame.
 
@@ -121,6 +336,40 @@ Ai fini dell'accertamento del possesso dei requisiti attitudinali, al candidato 
 Sono valutati i titoli posseduti alla data di scadenza del termine utile per la presentazione delle domande di ammissione ai concorsi.
 
 La valutazione dei titoli viene effettuata nei confronti dei candidati che hanno superato le prove d'esame. Il candidato deve inviare i documenti comprovanti il possesso dei titoli valutabili secondo le modalita' stabilite nel bando di concorso.
+
+3.
+                    
+                        
+                            Le categorie di titoli da ammettere a valutazione e il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                titoli di studio, fino a punti 8, suddivisi nelle seguenti sottocategorie: 
+ 1) laurea in medicina e chirurgia, valutata in relazione al punteggio conseguito: 
+ 1.1) da 91/110 a 110/110, fino a punti 2: 
+ 1.2) 110 con lode, punti 2,5; 
+ 2) diploma di specializzazione universitaria richiesto quale requisito per l'accesso alla carriera dei medici, valutato in relazione al punteggio conseguito: 
+ 2.1) da 61/70 a 70/70, fino a punti 1; 
+ 2.2) 70/70 con lode, punti 2; 
+ 3) dottorato di ricerca conseguito presso un'istituzione universitaria statale o riconosciuto in conformita' alla normativa vigente, fino a punti 1,5; 
+ 4) diplomi di specializzazione diversi da quello richiesto quale requisito per la partecipazione al concorso, fino a punti 1; 
+ 5) master universitario, fino a punti 0,5; 
+ 6) conoscenza di una o piu' lingue straniere, diversa dall'inglese, certificata da parte di enti certificatori delle competenze in lingua straniera riconosciuti dal Ministero dell'universita' e della ricerca, fino a punti 0,5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                titoli professionali, fino a punti 16, suddivisi nelle seguenti sottocategorie: 
+ 1) incarichi e servizi prestati presso l'Amministrazione penitenziaria rientranti tra quelli previsti dall'articolo 19-ter, comma 1, del decreto legislativo 21 maggio 2000, n. 146, fino a punti 4; 
+ 2) incarichi e servizi prestati presso amministrazioni pubbliche, fino a punti 1,5; 
+ 3) incarichi di docenza di livello universitario ai sensi dell'articolo 23 della legge 30 dicembre 2010, n. 240, fino a punti 4; 
+ 4) superamento di concorsi sanitari presso enti pubblici, fino a punti 1,50; 
+ 5) corsi di aggiornamento e di qualificazione, fino a punti 2; 
+ 6) pubblicazioni scientifiche nelle materie oggetto delle prove concorsuali, che siano conformi alle disposizioni vigenti e che rechino un contributo apprezzabile alla dottrina o alla pratica professionale ai sensi dell'articolo 67 del decreto del Presidente della Repubblica 3 maggio 1957, n. 686, fino a punti 3.
 
 Nell'ambito delle categorie di titoli indicati al comma 3, la commissione esaminatrice, nella prima riunione, determina i titoli valutabili e i criteri di valutazione degli stessi e di attribuzione dei relativi punteggi. La commissione annota i titoli valutabili attribuendo i relativi punteggi, anche con l'ausilio di sistemi informatici, sulle schede individuali sottoscritte dal presidente e dal segretario, che vengono allegate ai verbali del concorso di cui costituiscono parte integrante.
 

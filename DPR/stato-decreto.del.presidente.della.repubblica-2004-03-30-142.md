@@ -8,8 +8,8 @@ codice_redazionale: 004G0173
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,94 @@ Sulla proposta del Ministro dell'ambiente e della tutela del territorio, di conc
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini dell'applicazione del presente decreto, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                infrastruttura stradale: l'insieme della superficie stradale, delle strutture e degli impianti di competenza dell'ente proprietario, concessionario o gestore necessari per garantire la funzionalita' e la sicurezza della strada stessa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                infrastruttura stradale esistente: quella effettivamente in esercizio o in corso di realizzazione o per la quale e' stato approvato il progetto definitivo alla data di entrata in vigore del presente decreto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                infrastruttura stradale di nuova realizzazione: quella in fase di progettazione alla data di entrata in vigore del presente decreto e comunque non ricadente nella lettera b);
+
+                            
+                        
+                        
+                            d)
+                            
+                                ampliamento in sede di infrastruttura stradale in esercizio: la costruzione di una o piu' corsie in affiancamento a quelle esistenti, ove destinate al traffico veicolare;
+
+                            
+                        
+                        
+                            e)
+                            
+                                affiancamento di infrastrutture stradali di nuova realizzazione a infrastrutture stradali esistenti: realizzazione di infrastrutture parallele a infrastrutture esistenti o confluenti, tra le quali non esistono aree intercluse non di pertinenza delle infrastrutture stradali stesse;
+
+                            
+                        
+                        
+                            f)
+                            
+                                confine stradale: limite della proprieta' stradale quale risulta dagli atti di acquisizione o dalle fasce di esproprio del progetto approvato; in mancanza, il confine e' costituito dal ciglio esterno del fosso di guardia o della cunetta, ove esistenti, o dal piede della scarpata se la strada e' in rilevato o dal ciglio superiore della scarpata se la strada e' in trincea, secondo quanto disposto dall'articolo 3 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, di seguito denominato: decreto legislativo n. 285 del 1992;
+
+                            
+                        
+                        
+                            g)
+                            
+                                sede stradale: superficie compresa entro i confini stradali, secondo quanto disposto dall'articolo 3 del decreto legislativo n. 285 del 1992 e successive modificazioni;
+
+                            
+                        
+                        
+                            h)
+                            
+                                variante: costruzione di un nuovo tratto stradale in sostituzione di uno esistente, fuori sede, con uno sviluppo complessivo inferiore a 5 km per autostrade e strade extraurbane principali, 2 km per strade extraurbane secondarie ed 1 km per le tratte autostradali di attraversamento urbano, le tangenziali e le strade urbane di scorrimento;
+
+                            
+                        
+                        
+                            i)
+                            
+                                ambiente abitativo: ogni ambiente interno, ad un edificio, destinato alla permanenza di persone o comunita' ed utilizzato per le diverse attivita' umane, fatta eccezione per gli ambienti destinati ad attivita' produttive per i quali resta ferma la disciplina di cui al decreto legislativo 15 agosto 1991, n. 277, salvo per quanto concerne l'immissione di rumore da sorgenti sonore esterne a locali in cui si svolgano le attivita' produttive;
+
+                            
+                        
+                        
+                            l)
+                            
+                                ricettore: qualsiasi edificio adibito ad ambiente abitativo comprese le relative aree esterne di pertinenza, o ad attivita' lavorativa o ricreativa; aree naturalistiche vincolate, parchi pubblici ed aree esterne destinate ad attivita' ricreative ed allo svolgimento della vita sociale della collettivita'; aree territoriali edificabili gia' individuate dai piani regolatori generali e loro varianti generali, vigenti al momento della presentazione dei progetti di massima relativi alla costruzione delle infrastrutture di cui all'articolo 2, comma 2, lettera B, ovvero vigenti alla data di entrata in vigore del presente decreto per le infrastrutture di cui all'articolo 2, comma 2, lettera A;
+
+                            
+                        
+                        
+                            m)
+                            
+                                centro abitato: insieme di edifici, delimitato lungo le vie d'accesso dagli appositi segnali di inizio e fine. Per insieme di edifici si intende un raggruppamento continuo, ancorche' intervallato da strade, piazze, giardini o simili, costituito da non meno di venticinque fabbricati e da aree di uso pubblico con accessi veicolari o pedonali sulla strada, secondo quanto disposto dall'articolo 3 del decreto legislativo n. 285 del 1992 e successive modificazioni;
+
+                            
+                        
+                        
+                            n)
+                            
+                                ascia di pertinenza acustica: striscia di terreno misurata in proiezione orizzontale, per ciascun lato dell'infrastruttura, a partire dal confine stradale, per la quale il presente decreto stabilisce i limiti di immissione del rumore.
+
 ## Art. 2. — Campo di applicazione
 
 Il presente decreto stabilisce le norme per la prevenzione ed il contenimento dell'inquinamento da rumore avente origine dall'esercizio delle infrastrutture stradali di cui al comma 2.
@@ -40,6 +128,24 @@ Le infrastrutture stradali sono definite dall'articolo 2 del decreto legislativo
  D. strade urbane di scorrimento;
  E. strade urbane di quartiere;
  F. strade locali.
+
+3.
+                    
+                        
+                            Le disposizioni di cui al presente decreto si applicano:
+ 
+                        
+                        
+                            a)
+                            
+                                alle infrastrutture esistenti, al loro ampliamento in sede e alle nuove infrastrutture in affiancamento a quelle esistenti, alle loro varianti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle infrastrutture di nuova realizzazione.
 
 Alle infrastrutture di cui al comma 2 non si applica il disposto degli articoli 2, 6 e 7 del decreto del Presidente del Consiglio dei Ministri in data 14 novembre 1997, pubblicato nella Gazzetta Ufficiale n. 280 del 1° dicembre 1997.
 
@@ -72,6 +178,31 @@ In via prioritaria l'attivita' pluriennale di risanamento dovra' essere attuata 
 ## Art. 6. — lnterventi per il rispetto dei limiti
 
 Per le infrastrutture di cui all'articolo 2, comma 3, il rispetto dei valori riportati dall'allegato 1 e, al di fuori della fascia di pertinenza acustica, il rispetto dei valori stabiliti nella tabella C del decreto del Presidente del Consiglio dei Ministri in data 14 novembre 1997, pubblicato nella Gazzetta Ufficiale n. 280 del 1° dicembre 1997, e' verificato in facciata degli edifici ad 1 metro dalla stessa ed in corrispondenza dei punti di maggiore esposizione nonche' dei ricettori.
+
+2.
+                    
+                        
+                            Qualora i valori limite per le infrastrutture di cui al comma 1, ed i valori limite al di fuori della fascia di pertinenza, stabiliti nella tabella C del citato decreto del Presidente del Consiglio dei Ministri in data 14 novembre 1997, non siano tecnicamente conseguibili, ovvero qualora in base a valutazioni tecniche, economiche o di carattere ambientale si evidenzi l'opportunita' di procedere ad interventi diretti sui recettori, deve essere assicurato il rispetto dei seguenti limiti:
+ 
+                        
+                        
+                            a)
+                            
+                                35 dB(A) Leq notturno per ospedali, case di cura e case di riposo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                40 dB(A) Leq notturno per tutti gli altri ricettori di carattere abitativo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                45 dB(A) Leq diurno per le scuole.
 
 I valori di cui al comma 2 sono valutati al centro della stanza, a finestre chiuse, all'altezza di 1,5 metri dal pavimento.
 

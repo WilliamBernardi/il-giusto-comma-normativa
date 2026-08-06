@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 1995-11-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,17 +40,439 @@ Con effetto dalla data di entrata in vigore del presente regolamento, sono abrog
 
 ## Art. 2. — Devoluzione delle funzioni del soppresso CIPI
 
+1.
+                        
+                            
+                                Sono attribuite al Comitato interministeriale per la programmazione economica (CIPE) le funzioni del soppresso Comitato dei Ministri per il coordinamento della politica industriale (CIPI) di seguito indicate:
+ 
+                            
+                            
+                                a)
+                                
+                                    emanazione delle direttive di cui all'art. 2 della legge 12 agosto 1977, n. 675, salvo quanto disposto dal comma 4, lettera a), del presente articolo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emanazione delle direttive per la gestione del Fondo speciale rotativo per l'innovazione tecnologica di cui all'art. 14 della legge 17 febbraio 1982, n. 46;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    formulazione degli indirizzi ed obiettivi generali per lo sviluppo dell'industria aeronautica di cui all'art. 4 della legge 24 dicembre 1985, n. 808;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    approvazione dei programmi di ricerca di cui all'art. 17 della legge 14 giugno 1989, n. 234;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    determinazione degli indirizzi per il coordinamento delle iniziative pubbliche nel settore minerario di cui all'art. 2 della legge 30 luglio 1990, n. 221;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    emanazione delle disposizioni per la concessione di agevolazioni di cui all'art. 1, comma 2, del decreto-legge 22 ottobre 1992, n. 415, convertito, con modificazioni, con la legge 19 dicembre 1992, n. 488;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    approvazione dei contratti di programma e di impresa e delle intese di programma di cui all'art. 3, comma 4, e all'art. 6, comma 1, lettera a), del decreto legislativo 3 aprile 1993, n. 96;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    emanazione delle direttive di cui all'art. 14, comma 4, della legge 27 febbraio 1992, n. 257;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    emanazione delle direttive di cui all'art. 19, comma 1, della legge 27 febbraio 1985, n. 49.
+
+2.
+                        
+                            
+                                Sono attribuite al Ministro dell'industria, del commercio e dell'artigianato le seguenti funzioni del soppresso CIPI:
+ 
+                            
+                            
+                                a)
+                                
+                                    autorizzazione all'effettuazione di investimenti industriali di cui all'art. 3 del decreto-legge 30 aprile 1976, n. 156, convertito con legge 24 maggio 1976, n. 350, e all'art. 4 del decreto del Presidente della Repubblica 9 novembre 1976, n. 902;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    approvazione delle modifiche a progetti di investimento di cui all'art. 4 della legge 12 agosto 1977, n. 675;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autorizzazioni all'adozione di atti eccedenti l'ordinaria amministrazione di imprese in amministrazione straordinaria di cui all'art. 2 della legge 3 aprile 1979, n. 95;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ammissione di progetti alle agevolazioni del Fondo speciale rotativo per l'innovazione tecnologica di cui all'art.16 della legge 17 febbraio 1982, n. 46;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    approvazione di iniziative imprenditoriali di reindustrializzazione delle aree di crisi siderurgica di cui all'art. 6 del decreto-legge 1 aprile 1989, n. 120, convertito con legge 15 maggio 1989, n. 181;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    determinazione dei criteri e delle modalita' di utilizzo del Fondo speciale per la reindustrializzazione di cui all'art. 8 del decreto-legge 1 aprile 1989, n. 120, convertito con legge 15 maggio 1989, n. 181;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    integrazione ed aggiornamento del programma speciale di reindustrializzazione delle aree di crisi siderurgica e del programma di promozione industriale di cui all'art. 5, commi 1 e 2, del decreto-legge 1 aprile 1989, n. 120, convertito con legge 15 maggio 1989, n. 181;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    presentazione alle competenti commissioni parlamentari della relazione semestrale sullo stato di attuazione degli interventi di reindustrializzazione di cui all'art. 8, comma 11, del decreto-legge 1 aprile 1989, n. 120, convertito con legge 15 maggio 1989, n. 181;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    formulazione del programma speciale di promozione di nuove attivita' produttive a seguito di interventi di ristrutturazione sul comparto minerario, concessione di contributi e formulazione del programma di ristrutturazione di unita' minerarie di cui, rispettivamente, agli articoli 2, 3, comma 7, e 7, della legge 30 luglio 1990, n. 221;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    esame del programma triennale dell'ENEA di cui all'art. 5, comma 2, della legge 25 agosto 1991, n. 282;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    approvazione del piano annuale dell'ENEA di cui all'art. 5, comma 3, della legge 25 agosto 1991, n. 282;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    individuazione, di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, dei settori produttivi di cui all'art. 8, comma 2, della legge 5 ottobre 1991, n. 317;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    individuazione, di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, delle tipologie delle spese ammissibili di cui all'art. 5 della legge 5 ottobre 1991, n. 317;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    ammissione di progetti alle agevolazioni di cui all'art. 3 della legge 24 dicembre 1985, n. 808;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    approvazione delle modifiche a progetti di investimento di cui alla legge 21 giugno 1986, n. 370.
+
 Il Ministro dell'industria, del commercio e dell'artigianato trasmette al CIPE la relazione di cui all'art. 2 della legge 24 dicembre 1985, n. 808, e presenta al medesimo Comitato la relazione di cui all'art. 38 della legge 5 ottobre 1991, n. 317.
+
+4.
+                        
+                            
+                                Sono attribuite al Ministro del lavoro e della previdenza sociale le seguenti funzioni del soppresso CIPI:
+ 
+                            
+                            
+                                a)
+                                
+                                    esame di situazioni aziendali, settoriali ed occupazionali al fine dell'adozione di provvedimenti per l'integrazione salariale di cui all'art. 2, comma 5, lettere c) e d), n. 2, della legge 12 agosto 1977, n. 675;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riduzione del tasso di interesse di differimento e dilazione per omissioni contributive verso enti previdenziali di cui all'art. 13 del decreto-legge 29 luglio 1981, n. 402, convertito con la legge 26 settembre 1981, n. 537;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esame dei programmi presentati al sensi dell'art. 1 della legge 23 luglio 1991, n. 223.
+
+5.
+                        
+                            
+                                Sono attribuite al Ministro dell'universita' e della ricerca scientifica e tecnologica le seguenti funzioni del soppresso CIPI:
+ 
+                            
+                            
+                                a)
+                                
+                                    emanazione delle direttive per la gestione del Fondo speciale ricerca applicata di cui all'art. 2, comma 2, lettera e), della legge 12 agosto 1977, n. 675;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    approvazione dei programmi nazionali di ricerca di cui all'art. 8 della legge 17 febbraio 1982, n. 46;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    emanazione delle direttive di attuazione per le attivita' di alta formazione dei ricercatori e tecnici di ricerca, previste dall'art. 15 della legge 11 marzo 1988, n. 67;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definizione delle linee programmatiche per la formazione professionale di ricercatori e tecnici ai sensi dell'art. 3, comma 16, del decreto-legge 30 ottobre 1984, n. 726, convertito con legge 19 dicembre 1984, n. 863;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    funzioni relative agli interventi in favore dei centri di ricerca e dei consorzi e societa' consortili di ricerca nelle aree depresse, di cui all'art. 6 del decreto legislativo 3 aprile 1993, n. 96, concernenti:
+ 1) predisposizione e stipulazione dei contratti di programma, da approvarsi dal CIPE, relativi ai centri di ricerca e ai progetti di ricerca;
+ 2) programmi e progetti di ricerca previsti dalle intese di programma con l'Ente per le nuove tecnologie, l'energia e l'ambiente (ENEA) e con il Consiglio nazionale delle ricerche (CNR);
+ 3) potenziamento della rete consortile di ricerca (in base al progetto speciale 35), e delle strutture edilizie universitarie meridionali;
+ 4) attuazione dell'intesa sui parchi scientifici e tecnologici;
+ 5) altri progetti compresi nell'azione organica n. 2, riguardanti la ricerca, i progetti pilota e la formazione.
 
 Il Ministro riferisce annualmente al CIPE in merito al complessivo andamento della gestione del Fondo speciale ricerca applicata.
 
 ## Art. 3. — Devoluzione delle funzioni del soppresso CIPET
 
+1.
+                        
+                            
+                                Sono attribuite al CIPE le funzioni del soppresso Comitato interministeriale per la programmazione economica nel trasporto (CIPET) di seguito indicate:
+ 
+                            
+                            
+                                a)
+                                
+                                    emanazione delle direttive di cui all'art. 2, comma 1, lettere a), b), e), f) e h), della legge 4 giugno 1991, n. 186;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aggiornamento, con periodicita' triennale, del piano generale dei trasporti di cui all'art. 2, comma 1, lettera i), della legge 4 giugno 1991, n. 186;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazione di conformita' dei piani e programmi che prevedano interventi comunque incidenti sul settore dei trasporti agli obiettivi del piano generale dei trasporti e alle proprie direttive di cui all'art. 2, comma 1, lettera m), della legge 4 giugno 1991, n. 186;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    approvazione del documento concernente lo schema di utilizzo dei finanziamenti nel settore dei trasporti di cui all'art. 2, comma 3, della legge 4 giugno 1991, n. 186.
+
 Per lo svolgimento delle funzioni trasferite, il CIPE si avvale degli uffici, del personale e dei mezzi della segreteria del soppresso CIPET.
+
+3.
+                        
+                            
+                                Sono attribuite al Ministro dei trasporti e della navigazione le seguenti funzioni del soppresso CIPET:
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione degli ambiti circoscrizionali dei sistemi portuali di cui all'art. 1 della legge 13 febbraio 1987, n. 26;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adempimenti in materia di trasporti di cui alla legge 4 giugno 1991, n. 186;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indirizzi sull'attivita' di ricerche e studi degli istituti con specializzazione nel settore dei trasporti di cui all'art. 2, comma 1, lettera n), della legge 4 giugno 1991, n. 186;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    determinazioni concernenti il piano quinquennale per gli interporti di cui all'art. 2 della legge 4 agosto 1990, n. 240.
 
 ## Art. 4. — Devoluzione delle funzioni del soppresso CIPES
 
+1.
+                        
+                            
+                                Sono attribuite al CIPE le funzioni del soppresso Comitato interministeriale per la politica economica estera (CIPES) di seguito indicate:
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione e coordinamento delle linee generali di cooperazione economica internazionale e di politica del commercio con l'estero, ivi compresa quella relativa all'assicurazione e al finanziamento dei crediti all'esportazione, di cui all'art. 1 della legge 24 maggio 1977, n. 227, su proposta, rispettivamente, del Ministro degli affari esteri e del Ministro del commercio con l'estero, d'intesa con il Ministero del tesoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su proposta del Ministro degli affari esteri, nonche' per quanto di competenza del Ministero del commercio con l'estero, d'intesa con il Ministero del tesoro, formulazione degli indirizzi generali della collaborazione con i Paesi dell'Europa centrale e orientale, di cui all'art. 1 della legge 26 febbraio 1992, n. 212.
+
+2.
+                        
+                            
+                                Sono attribuite al Ministro degli affari esteri, d'intesa con il Ministero del tesoro e, per quanto di competenza, con il Ministero del commercio con l'estero, le seguenti funzioni del soppresso CIPES:
+ 
+                            
+                            
+                                a)
+                                
+                                    approvazione di un programma organico per ciascun Paese di cui all'art. 1, comma 3, della legge 26 febbraio 1992, n. 212;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ripartizione ai sensi dell'art. 1, comma 4, lettera A, della legge 26 febbraio 1992, n. 212, della disponibilita' finanziaria anche in relazione a quanto disposto al riguardo dai successivi articoli 2 e 3 della stessa legge.
+
+3.
+                        
+                            
+                                Le seguenti funzioni del soppresso CIPES sono attribuite al Ministro del commercio con l'estero:
+ 
+                            
+                            
+                                a)
+                                
+                                    emanazione delle direttive alla SACE, di concerto con i Ministeri degli esteri e del tesoro, sulla base degli indirizzi formulati dal CIPE e dei programmi-Paese approvati dal Ministro degli affari esteri, in ordine al carattere prioritario degli interventi di cui all'art. 1, comma 6, della legge 26 febbraio 1992, n. 212;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emanazione delle direttive alla SIMEST S.p.a., ai sensi della legge 24 aprile 1990, n. 100.
+
+4.
+                        
+                            
+                                E' attribuita al Ministro dell'industria, del commercio e dell'artigianato la seguente funzione del soppresso CIPES:
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione di contributi per la ricerca mineraria all'estero di cui all'art. 17 della legge 6 ottobre 1982, n. 752.
+
 ## Art. 5. — Devoluzione delle funzioni del soppresso CIP
+
+1.
+                        
+                            
+                                Sono devolute al CIPE le funzioni del soppresso Comitato interministeriale dei prezzi (CIP) di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    poteri di indirizzo e di direttiva ai fini della determinazione dei prezzi e delle tariffe di cui all'art. 4 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 347 e al decreto legislativo del Capo provvisorio dello Stato 15 settembre 1947, n. 896; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direttive e pareri di cui all'art. 17, comma 1, della legge 28 febbraio 1986, n. 41; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    competenze in materia di tariffe di servizi locali di cui all'art. 12 della legge 23 dicembre 1992, n. 498, ad esclusione di quelle espressamente attribuite al Ministro dell'industria, del commercio e dell'artigianato, ai sensi del comma 2 del presente articolo.
+
+2.
+                        
+                            
+                                Sono attribuite al Ministro dell'industria, del commercio e dell'artigianato le seguenti funzioni del soppresso CIP: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determinazione delle tariffe e delle condizioni generali di polizza di cui all'art. 11 della legge 26 dicembre 1969, n. 990; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino all'assetto definitivo derivante dall'istituzione degli organismi indipendenti di cui all'art. 1, lettera b), della legge 24 dicembre 1993, n. 537, le competenze in materia di energia elettrica e di gas, e in particolare: 
+ 1) determinazione del prezzo base del metano per forniture a produzioni industriali site nell'isola di Murano di cui all'art. 19 della legge 29 novembre 1984, n. 798; 
+ 2) determinazione dell'ammontare del rimborso dovuto all'ENEL in base al disposto di cui all'art. 19 della legge 9 dicembre 1986, n. 896; 
+ 3) determinazione delle condizioni e dell'ammontare del corrispettivo per servizio di vettoriamento del gas naturale di cui all'art. 12, comma 3, della legge 9 gennaio 1991, n. 9; 
+ 4) determinazione dell'ammontare degli acconti e dei conguagli per l'integrazione tariffaria di cui all'art. 7, commi 3 e 4, della legge 9 gennaio 1991, n. 9; 
+ 5) determinazione dei prezzi relativi alla cessione, alla produzione per conto dell'ENEL e al vettoriamento, nonche' dei parametri relativi allo scambio di energia elettrica prodotta da imprese per uso proprio di cui all'art. 4 della legge 6 dicembre 1962, n. 1643, come sostituito dall'art. 20 della legge 9 gennaio 1991, n. 9. ((1))
 
 Il Ministro dell'industria, del commercio e dell'artigianato esercita le competenze di cui al comma precedente avvalendosi, in via transitoria, degli uffici di segreteria e di supporto gia' del CIP.
 

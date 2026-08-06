@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2013-12-23;163
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,129 @@ Data comunicazione al Presidente del Consiglio dei Ministri effettuata con nota 
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Agli effetti del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Commissioni tributarie»: le Commissioni tributarie provinciali e regionali e le Commissioni tributarie di I e II grado di Trento e Bolzano di cui all'articolo 1 del decreto legislativo 31 dicembre 1992, n. 545; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «documento informatico»: la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti, di cui all'articolo 1, comma 1, lett. p), del decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «copia per immagine su supporto informatico» del documento analogico: documento informatico avente contenuto e forma identici a quelli del documento analogico da cui e' tratto, di cui all'articolo 1, comma 1, lett. i-ter), del decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «fascicolo informatico»: versione informatica, ai sensi dell'articolo 41 del decreto legislativo 7 marzo 2005, n. 82, del fascicolo d'ufficio di cui all'articolo 25 del decreto legislativo 31 dicembre 1992, n. 546, contenente gli atti, i dati e i documenti, relativi al processo, prodotti come documenti informatici, oppure le copie per immagine su supporto informatico dei medesimi atti qualora siano stati depositati su supporto cartaceo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «firma elettronica qualificata»: un particolare tipo di firma elettronica avanzata che sia basata su un certificato qualificato e realizzata mediante un dispositivo sicuro per la creazione della firma, di cui all'articolo 1, comma 1, lett. r), del decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «firma digitale»: un particolare tipo di firma elettronica avanzata, basata su un certificato qualificato e su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare tramite la chiave privata e al destinatario tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrita' di un documento informatico o di un insieme di documenti informatici, di cui all'articolo 1, comma 1, lett. s), del decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «S.I.Gi.T.» - Sistema Informativo della Giustizia tributaria: l'insieme delle risorse hardware e software mediante il quale viene trattato in via informatica e telematica qualsiasi tipo di attivita', di dato, di servizio, di comunicazione e di procedura, relativo all'amministrazione della giustizia tributaria; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «soggetto abilitato»: tutti i soggetti abilitati dal S.I.Gi.T. ad usufruire dei servizi da questo forniti, limitatamente ai rispettivi profili di abilitazione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «PEC» - posta elettronica certificata: ogni sistema di posta elettronica nel quale e' fornita al mittente documentazione elettronica attestante l'invio e la consegna di documenti informatici, di cui all'articolo 1, comma 1, lett. g), del decreto del Presidente della Repubblica 11 febbraio 2005, n. 68; 
+
+                            
+                        
+                        
+                            j)
+                            
+                                «ricevuta di accettazione»: la ricevuta rilasciata dal S.I.Gi.T. al mittente a fronte dell'invio di un messaggio con sistemi telematici; 
+
+                            
+                        
+                        
+                            k)
+                            
+                                «ricorso»: il ricorso alla Commissione tributaria provinciale o di primo grado di Trento e di Bolzano, il ricorso in appello alla Commissione tributaria regionale o di secondo grado di Trento e di Bolzano, il reclamo, il ricorso per revocazione e il ricorso in ottemperanza, presentati nelle forme e con i contenuti previsti dal decreto legislativo 31 dicembre 1992, n. 546; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «istanza di reclamo e mediazione»: il reclamo presentato alla Direzione provinciale o alla Direzione regionale dell'Agenzia delle Entrate ai sensi dell'articolo 17-bis del decreto legislativo 31 dicembre 1992, n. 546; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «nota di iscrizione a ruolo»: modulo elettronico contenente le indicazioni previste dall'articolo 22, comma 1, ultimo periodo, del decreto legislativo 31 dicembre 1992, n. 546. 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «INI-PEC»: Indice nazionale degli indirizzi di posta elettronica certificata, istituito dall'articolo 6-bis, comma 1, del decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «segretario di sezione»: addetto all'ufficio di segreteria della commissione tributaria che svolge le funzioni di cui al comma 2 dell'articolo 35 del decreto legislativo 31 dicembre 1992, n. 545 e quelle individuate nel decreto legislativo 31 dicembre 1992, n. 546. 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «processo verbale dell'udienza»: documento attestante le attivita' svolte in udienza redatto e sottoscritto dal segretario di sezione e da chi presiede l'udienza; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «processo tributario telematico»: automazione dei flussi informativi e documentali nell'ambito del processo tributario mediante l'utilizzo dell'informatica e della telematica.
+
 ## Art. 2. — Ambito di applicazione
 
 Gli atti e i provvedimenti del processo tributario, nonche' quelli relativi al procedimento attivato con l'istanza di reclamo e mediazione possono essere formati come documenti informatici sottoscritti con firma elettronica qualificata o firma digitale secondo le modalita' disciplinate nel presente regolamento.
@@ -45,6 +168,59 @@ La parte che abbia utilizzato in primo grado le modalita' telematiche di cui al 
 Si applicano le disposizioni del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni e integrazioni, ove non diversamente stabilito dal presente regolamento.
 
 ## Art. 3. — Sistema Informativo della Giustizia Tributaria (S.I.Gi.T.)
+
+1.
+                    
+                        
+                            Il Sistema Informativo della Giustizia Tributaria assicura: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'individuazione della Commissione tributaria adita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'individuazione del procedimento giurisdizionale tributario attivato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'individuazione del soggetto abilitato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la trasmissione degli atti e documenti alla Commissione tributaria competente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la ricezione degli atti e documenti da parte della Commissione tributaria competente; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il rilascio delle attestazioni concernenti le attivita' di cui alle precedenti lettere d) ed e); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la formazione del fascicolo informatico.
 
 Possono accedere al S.I.Gi.T. soltanto i giudici tributari, le parti, i procuratori e i difensori di cui agli articoli 11 e 12 del decreto legislativo 31 dicembre 1992, n. 546, il personale abilitato delle segreterie delle Commissioni tributarie, i consulenti tecnici e gli altri soggetti di cui all'articolo 7 del decreto legislativo 31 dicembre 1992, n. 546. Le parti, i loro procuratori e difensori, nonche' i consulenti e gli organi tecnici possono accedere alle sole informazioni contenute nei fascicoli dei procedimenti in cui sono costituiti o svolgono attivita' di consulenza.
 

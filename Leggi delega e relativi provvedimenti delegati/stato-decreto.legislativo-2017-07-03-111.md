@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2024-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,11 +25,82 @@ Sulla proposta del Ministro del lavoro e delle politiche sociali, di concerto co
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                legge: la legge 6 giugno 2016, n. 106, recante delega al Governo per la riforma del Terzo settore, dell'impresa sociale e per la disciplina del servizio civile universale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                beneficiario: l'ente destinatario del contributo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                amministrazione erogatrice: l'amministrazione competente al pagamento del contributo a favore del beneficiario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Registro: il Registro unico nazionale degli enti del terzo settore, di cui all'articolo 4, comma 1, lettera m), della legge delega.
+
 ## Art. 2. — Oggetto
 
 Il presente decreto, in attuazione della delega di cui all'articolo 9, comma 1, lettere c) e d), della legge, detta norme per il completamento della riforma strutturale dell'istituto del cinque per mille dell'imposta sul reddito delle persone fisiche, nel rispetto delle esigenze di razionalizzazione e revisione organica del contributo, e ne disciplina la destinazione in base alle scelte espresse dai contribuenti.
 
 ## Art. 3. — Destinazione del cinque per mille
+
+1.
+                    
+                        
+                            Per ciascun esercizio finanziario, con riferimento alle dichiarazioni dei redditi relative al periodo d'imposta precedente, una quota pari al cinque per mille dell'imposta sul reddito delle persone fisiche e' destinata, in base alla scelta del contribuente, alle seguenti finalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                sostegno degli enti di cui all'articolo 1 della legge, iscritti nel Registro previsto dall'articolo 4, comma 1, lettera m), della medesima legge; (3) (5) ((7))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                finanziamento della ricerca scientifica e dell'universita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                finanziamento della ricerca sanitaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sostegno delle attivita' sociali svolte dal comune di residenza del contribuente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sostegno delle associazioni sportive dilettantistiche, iscritte nel Registro nazionale delle attivita' sportive dilettantistiche a norma di legge, che svolgono una rilevante attivita' di interesse sociale. (5)
 
 Le disposizioni di cui al comma 1, lettera a), hanno effetto a decorrere dall'anno successivo a quello di operativita' del Registro; fino a tale anno la quota del cinque per mille dell'imposta sul reddito delle persone fisiche continua ad essere destinata al sostegno degli enti di cui all'articolo 2, comma 4-novies, lettera a), del decreto-legge 25 marzo 2010, n. 40, convertito, con modificazioni, dalla legge 22 maggio 2010, n. 73.
 

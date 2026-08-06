@@ -8,8 +8,8 @@ codice_redazionale: 000G0189
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,4 +22,27 @@ Sentita la Consob;
 Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione consultiva per gli atti normativi in data 6 marzo 2000;
 
 ## Art. 1. — Integrazioni e modifiche regolamentari
+
+1.
+                    
+                        
+                            Il regolamento adottato con decreto del Ministro del tesoro, del bilancio e della programmazione economica 11 novembre 1998, n. 472, e' cosi' integrato e modificato:
+
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 1, lettera c), n. 3, dopo la frase "alla reclusione per un tempo non inferiore a un anno per un delitto" sono inserite le parole "contro la pubblica amministrazione";
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 3, comma 1, dopo la parola "quinquennale" e' inserita la frase "ovvero quadriennale, integrato dal corso annuale previsto per legge"; dopo la parola "equipollente" e' inserita la frase "sulla base di una valutazione di equivalenza sostanziale a cura della Consob";
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 3, comma 3, le parole "dall'articolo 3" sono sostituite con le parole "dall'articolo 4".
 

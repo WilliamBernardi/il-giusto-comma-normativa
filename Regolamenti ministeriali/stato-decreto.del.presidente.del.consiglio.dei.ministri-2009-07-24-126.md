@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2016-05-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -31,6 +31,31 @@ Il presente decreto disciplina le modalita' e i criteri per l'assegnazione del P
 ## Art. 2. — Destinatari
 
 Il Premio di cui all'articolo 1 e' assegnato annualmente ad opere che illustrano gli ideali di fratellanza tra i popoli, di liberta' e giustizia sociale che hanno ispirato la vita di Giacomo Matteotti.
+
+2.
+                    
+                        
+                            Il Premio e' suddiviso nelle seguenti sezioni:
+ 
+                        
+                        
+                            a)
+                            
+                                saggistica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                opere letterarie e teatrali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tesi di laurea.
 
 ## Art. 3.
 

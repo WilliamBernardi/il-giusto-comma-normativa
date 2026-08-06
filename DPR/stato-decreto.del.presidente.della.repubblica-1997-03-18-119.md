@@ -8,8 +8,8 @@ codice_redazionale: 097G0151
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,77 @@ I soggetti di cui al comma 1 che si siano ristabiliti nel Paese di provenienza a
 ## Art. 2.
 
 La domanda, in carta semplice, e' presentata nell'ipotesi di cui all'articolo 1, comma 1, al Ministero degli affari esteri - Direzione generale emigrazione e affari sociali - Ufficio II - Reparto profughi, e nell'ipotesi di cui all'articolo 1, comma 2, alla rappresentanza consolare competente personalmente o a mezzo lettera raccomandata. Ai fini del termine fa fede la data di presentazione agli uffici competenti o la data di spedizione della raccomandata.
+
+2.
+                    
+                        
+                            La domanda deve contenere le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                generalita' del richiedente e dei familiari a carico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Paese e luogo di provenienza, nonche' comune di residenza in Italia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                indicazione del decreto di riconoscimento della qualifica di profugo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                localita' in cui il richiedente intende ristabilirsi e, ove questa sia diversa dalla localita' in cui l'interessato aveva avuto residenza, le ragioni del cambiamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'attivita' lavorativa alla quale il richiedente intende dedicarsi o i mezzi necessari al sostentamento suo e della sua famiglia;
+
+                            
+                        
+                        
+                            f)
+                            
+                                lo stato di bisogno.
+
+3.
+                    
+                        
+                            La domanda deve essere corredata dalla seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarazione sostitutiva ai sensi della legge 4 gennaio 1968, n. 15, relativamente alle qualita', fatti e stati di cui alle lettere a) e
+                            
+                        
+                        
+                            b)
+                            
+                                del comma 2;
+ b) copia del provvedimento di riconoscimento della qualita' di profugo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificato di residenza all'AIRE (anagrafe degli italiani residenti all'estero).
 
 ## Art. 3.
 

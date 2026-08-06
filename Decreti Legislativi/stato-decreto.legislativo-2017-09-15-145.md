@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-09-15;145
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,6 +46,31 @@ La sede dello stabilimento di produzione o, se diverso, di confezionamento, di c
 
 L'indirizzo della sede dello stabilimento puo' essere omesso qualora l'indicazione della localita' consenta l'agevole e immediata identificazione dello stabilimento.
 
+3.
+                    
+                        
+                            L'indicazione di cui al comma 1 puo' essere omessa nel caso in cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                la sede dello stabilimento di produzione, o se diverso, di confezionamento coincida con la sede gia' indicata in etichetta ai sensi dell'articolo 9, paragrafo l, lettera h), del regolamento (UE) n. 1169/2011; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i prodotti alimentari preimballati riportino il marchio di identificazione di cui al regolamento n. (CE) 853/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 o la bollatura sanitaria ai sensi del regolamento (CE) n. 854/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il marchio contenga l'indicazione della sede dello stabilimento.
+
 Nel caso in cui l'operatore del settore alimentare responsabile dell'informazione sugli alimenti dispone di piu' stabilimenti, e' consentito indicare tutti gli stabilimenti purche' quello effettivo sia evidenziato mediante punzonatura o altro segno.
 
 L'indicazione della sede dello stabilimento di produzione o, se diverso, di confezionamento e' riportata in etichetta secondo le modalita' di presentazione delle indicazioni obbligatorie stabilite dall'articolo 13 del regolamento (UE) n. 1169/2011.
@@ -82,6 +107,31 @@ Le disposizioni di cui al presente decreto non si applicano ai prodotti alimenta
 Le disposizioni del presente decreto si applicano a decorrere dal centottantesimo giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 Gli alimenti immessi sul mercato o etichettati in difformita' dal presente decreto entro il termine di cui al comma 1 possono essere commercializzati fino all'esaurimento delle scorte dei predetti alimenti.
+
+3.
+                    
+                        
+                            Al decreto legislativo 27 gennaio 1992, n. 109, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 3, comma 1, la lettera f) e' abrogata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 11 e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 18, comma 3, la parola: «11» e' soppressa.
 
 ## Art. 9. — Clausola di invarianza finanziaria
 

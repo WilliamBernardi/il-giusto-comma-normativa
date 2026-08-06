@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2007-12-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,31 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri degli affari esteri e delle finanze;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Nel presente decreto legislativo si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                "Ufficio": l'Ufficio italiano dei cambi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "Banca": la Banca d'Italia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "Statuto": lo statuto dell'Ufficio italiano dei cambi.
 
 ## Art. 2. — Funzioni dell'Ufficio
 

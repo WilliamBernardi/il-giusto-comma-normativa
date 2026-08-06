@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 DECRETO
@@ -38,6 +38,24 @@ Nel sottoscrivere la domanda, il richiedente si impegna a mantenere a riposo la 
 Possono conseguire l'aiuto suddetto tutti i produttori agricoli singoli od associati, anche se persone giuridiche di diritto pubblico o privato, che abbiano inoltrato agli uffici competenti, entro il 31 luglio 1991, il piano di utilizzazione delle superfici aziendali, cosi' come previsto dalle circolari M.A.F. n. 255 e 261 del 1991.
 
 Per la concessione dell'aiuto e' preso in considerazione un solo produttore agricolo per la singola superficie agricola considerata.
+
+5.
+                    
+                        
+                            Il richiedente e' escluso dal beneficio medesimo se, nel corso del controllo dei piani di utilizzazione da parte del Corpo forestale dello Stato, ed in relazione alle sole superfici di cui al comma 1 dell'art. 3 del presente regolamento, risulta che:
+ 
+                        
+                        
+                            a)
+                            
+                                la superficie dichiarata in domanda e' piu' ampia, rispetto a quella effettivamente accertata, per una percentuale superiore al 10% della prima;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una particella dichiarata coltivata e' in realta' a riposo.
 
 ## Art. 3. — Seminativi oggetto di ritiro
 

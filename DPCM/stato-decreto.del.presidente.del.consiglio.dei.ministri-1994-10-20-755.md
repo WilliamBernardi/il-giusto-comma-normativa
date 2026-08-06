@@ -8,8 +8,8 @@ codice_redazionale: 095G0034
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -68,9 +68,73 @@ Sono consentiti investimenti fruttiferi delle disponibilita' della Riserva al so
 
 ## Art. 2. — Modalita' per il perseguimento dei fini della Riserva
 
+1.
+                    
+                        
+                            I proventi derivanti dalla gestione del patrimonio della Riserva ed ogni altra somma destinata alla Riserva stessa sono utilizzati per:
+ 
+                        
+                        
+                            a)
+                            
+                                programmi socio-assistenziali e di riabilitazione in grado di tener conto dei mutamenti intervenuti in tali forme di sostegno, delle nuove aree di bisogno evidenziatesi di recente, nonche' dei servizi sociali richiesti dalla popolazione in genere e da talune specifiche categorie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sperimentazioni di attivita' a carattere innovativo nel campo socio-assistenziale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' di studio, di ricerca e di formazione su tematiche e problematiche attinenti ai servizi socio-assistenziali, nella salvaguardia del principio di continuita', ove ritenuto opportuno, con programmi in precedenza realizzati ed evitando la duplicazione di iniziative a carico del bilancio dello Stato e di enti pubblici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' di collaborazione con organismi assistenziali stranieri ed internazionali.
+
 ## Art. 3. — Aree di intervento
 
 I programmi e le attivita' di cui all'art. 2, comma 1, lettere a) e b), riguardano persone in stato di bisogno e fasce sociali deboli, quali, in particolare, minori, giovani, anziani, persone con handicap, emarginati, famiglie-problema, tossicodipendenti, stranieri, nomadi.
+
+2.
+                    
+                        
+                            I programmi di cui all'art. 2, lettera a), esclusi quelli gia' coperti da finanziamenti pubblici, possono riguardare tra l'altro:
+ 
+                        
+                        
+                            a)
+                            
+                                la problematica dell'alloggio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' di sostegno, di riabilitazione e di recupero psicosociale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' di integrazione specificamente finalizzata alla prevenzione di situazioni e comportamenti a rischio di devianza, abbandono o degrado sociale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                interventi assistenziali straordinari di carattere collettivo rispondenti ad esigenze solidaristiche sul piano nazionale.
 
 Le attivita' di cui all'art. 2, lettere b) e c), possono riguardare, tra l'altro, l'acquisizione di elementi conoscitivi utili per la definizione, da parte del Governo, delle politiche di settore, nonche' per l'esercizio della funzione di indirizzo e coordinamento nella materia socio-assistenziale.
 
@@ -86,6 +150,38 @@ Questi ultimi debbono avere personalita' giuridica, ovvero essere regolarmente c
 L'istanza con la quale si richiede il contributo di cui al comma 1 deve indicare analiticamente il programma da svolgere e le spese che lo stesso comporta; essa e' sottoposta ad attivita' istruttoria da parte dell'Amministrazione.
 
 ## Art. 6. — Spese ammesse al finanziamento
+
+1.
+                    
+                        
+                            Sono ammesse al finanziamento le seguenti spese:
+ 
+                        
+                        
+                            a)
+                            
+                                spese per la realizzazione di centri socio-assistenziali e riabilitativi, comprese quelle di costruzione, di ampliamento e di ristrutturazione, nonche' spese per attrezzature e arredamenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                spese di funzionamento di centri e di servizi socio-assistenziali e riabilitativi, comprese quelle per apparecchiature, strumentazioni, mezzi materiali e per l'acquisto di mezzi di trasporto o automezzi destinati ai servizi, nonche' per il rimborso ad operatori e volontari e per spese di informatizzazione dei servizi, con esclusione di veri e propri oneri di ordinaria gestione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                spese connesse all'attivita' complessiva dell'ente richiedente il contributo, come quelle per l'erogazione dell'assistenza, per la fornitura di servizi, nonche' per l'acquisto di sussidi e mezzi necessari per lo svolgimento dell'attivita' sociale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                spese per l'attuazione di iniziative promozionali e di studio, comprese quelle organizzative, relative ad elaborazioni di materiale informativo di vario tipo connesse all'attuazione di convegni.
 
 ## Art. 7. — Controlli e sanzioni
 

@@ -8,8 +8,8 @@ codice_redazionale: 094G0609
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,47 @@ Entrata in vigore del decreto: 23-10-1994
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 4 luglio 1994;
 
 ## Art. 1. — Attivita' non retribuita a favore della collettivita'
+
+1.
+                    
+                        
+                            L'attivita' non retribuita a favore della collettivita' di cui all'art. 1 del decreto-legge 26 aprile 1993, n. 122, convertito, con modificazioni, dalla legge 25 giugno 1993, n. 205, puo' avere per oggetto:
+ 
+                        
+                        
+                            a)
+                            
+                                opere di restauro e manutenzione di beni immobili, anche se appartenenti a privati, danneggiati con scritte, emblemi o simboli propri o usuali delle organizzazioni, associazioni, movimenti o gruppi di cui al comma 3 dell'art. 3 della legge 13 ottobre 1975, n. 654;
+
+                            
+                        
+                        
+                            b)
+                            
+                                prestazioni di lavoro a favore di organizzazioni di assistenza sociale o volontariato operanti, in particolare, nei confronti di tossicodipendenti, persone affette da infezione da HIV, portatori di handicaps, malati, anziani, minori, ex-detenuti o extracomunitari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                prestazioni di lavoro per finalita' di protezione civile, anche mediante soccorso alla popolazione in caso di calamita' naturali, di tutela del patrimonio ambientale e culturale, ivi compresa la collaborazione ad opere di prevenzione incendi, di salvaguardia del patrimonio boschivo e forestale o di particolari produzioni agricole, di recupero del demanio marittimo e di custodia di musei, gallerie o pinacoteche;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'impiego in opere di tutela della flora e della fauna e di prevenzione del randagismo degli animali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la manutenzione e il decoro di ospedali e case di cura o di beni del demanio e del patrimonio pubblico ivi compresi giardini, ville e parchi, con esclusione di immobili utilizzati dalle Forze armate o dalle Forze di polizia.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Modalita' di svolgimento
 

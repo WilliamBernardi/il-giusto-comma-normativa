@@ -8,8 +8,8 @@ codice_redazionale: 005G0290
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,31 @@ Entrata in vigore del provvedimento: 12/1/2006
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 10 ottobre 2005; ritenuto di non accogliere l'osservazione in merito all'opportunita' di prevedere parametri e criteri per l'esercizio della discrezionalita' amministrativa nell'emanazione del decreto dirigenziale di riconoscimento, gia' compiutamente regolamentato dal decreto legislativo 27 gennaio 1992, n. 115;
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «decreto legislativo», il decreto legislativo 27 gennaio 1992, n. 115, cosi' come modificato dal decreto legislativo 8 luglio 2003, n. 277, attuativo della direttiva 2001/19/CE;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «decreto dirigenziale di riconoscimento», il decreto del Direttore Generale della Giustizia Civile presso il Ministero della giustizia adottato ai sensi dell'articolo 12, comma 5, del decreto legislativo 27 gennaio 1992, n. 115;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «richiedente», il cittadino comunitario che domanda, ai fini dell'esercizio della professione di chimico in Italia, il riconoscimento del titolo rilasciato dal Paese di appartenenza attestante una formazione professionale al cui possesso la legislazione del medesimo Stato subordina l'accesso o l'esercizio della professione.
 
 ## - Capo II Prova attitudinale
 
@@ -99,11 +124,110 @@ Il tirocinante esegue diligentemente le disposizioni del professionista, garante
 
 Coloro che, muniti di decreto dirigenziale di riconoscimento, intendono svolgere, come misura compensativa, il tirocinio di adattamento sono iscritti nel registro dei tirocinanti istituito e tenuto dal Consiglio nazionale dei chimici.
 
+2.
+                        
+                            
+                                Nel registro dei tirocinanti sono riportati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero d'ordine attribuito al tirocinante, il suo cognome e nome, luogo e data di nascita, residenza, titolo di studio e numero di codice fiscale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi del decreto dirigenziale di riconoscimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sezione dell'Albo per la quale il tirocinante ha presentato istanza di iscrizione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data di decorrenza dell'iscrizione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il cognome e nome del professionita presso il quale si svolge il tirocinio, la sezione dell'Albo di appartenenza, il numero di iscrizione, il numero di codice fiscale, l'indirizzo del luogo di lavoro e il numero di iscrizione nell'elenco di cui all'articolo 8;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    eventuali provvedimenti di sospensione del tirocinio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la data di compimento del periodo di effettivo tirocinio;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la data del rilascio del certificato di compiuto tirocinio;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la data della cancellazione con relativa motivazione.
+
 ## Art. 11. — Iscrizione
 
 L'iscrizione al registro dei tirocinanti si ottiene a seguito di istanza al Consiglio nazionale dei chimici, redatta secondo lo schema allegato C) al presente regolamento.
 
 Nella domanda il richiedente dichiara il proprio impegno ad effettuare il tirocinio di adattamento e la non sussistenza della incompatibilita' prevista dall'articolo 7, comma 3 del presente regolamento.
+
+3.
+                        
+                            
+                                La domanda e' corredata dai seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    copia di un documento di identita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copia del decreto dirigenziale di riconoscimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attestazione di disponibilita' del professionista ad ammettere il richiedente a svolgere il tirocinio presso il proprio luogo di svolgimento dell'attivita' professionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    n. due fotografie autenticate formato tessera; in alternativa, a richiesta dell'interessato, le fotografie possono essere autenticate dall'ufficio ricevente.
 
 Nella domanda, sottoscritta dal richiedente, sono essere elencati i documenti allegati; va altresi' espresso l'impegno a dare comunicazione delle eventuali sopravvenute variazioni entro trenta giorni dal verificarsi delle stesse.
 
@@ -144,6 +268,38 @@ Il Consiglio nazionale dei chimici delibera la sospensione per un periodo comunq
 La sospensione e l'interruzione del tirocinio sono dichiarate dal Consiglio nazionale dei chimici con provvedimento comunicato all'interessato e al professionista presso cui si svolge il tirocinio entro quindici giorni con lettera raccomandata con avviso di ricevimento.
 
 ## Art. 15. — Cancellazione dal registro dei tirocinanti
+
+1.
+                        
+                            
+                                Il Consiglio nazionale dei chimici, previa comunicazione all'interessato ed assegnazione allo stesso di un termine per la presentazione di eventuali osservazioni o giustificazioni, delibera la cancellazione dal registro dei tirocinanti nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    rinuncia all'iscrizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sopravvenuta incompatibilita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la condanna non definitiva per delitto contro la Pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro l'economia pubblica, oppure per ogni altro delitto non colposo, per i1 quale la legge commini la pena della reclusione non inferiore nel minimo di due anni o nel massimo a cinque anni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rilascio del certificato di iscrizione all'albo dei chimici.
 
 La delibera di cancellazione dal registro dei tirocinanti va comunicata dal Consiglio nazionale dei chimici, all'interessato e al professionista presso cui e' stato svolto il tirocinio entro quindici giorni con lettera raccomandata con avviso di ricevimento, salvo che la delibera di cancellazione sia stata comunicata contestualmente a quella di interruzione del tirocinio.
 

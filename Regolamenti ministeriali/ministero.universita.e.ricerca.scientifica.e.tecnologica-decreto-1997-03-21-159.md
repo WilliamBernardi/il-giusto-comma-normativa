@@ -8,8 +8,8 @@ codice_redazionale: 097G0200
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,47 @@ L'unica prova della sessione speciale e' differenziata a seconda della sezione r
 ## Art. 2.
 
 La sessione speciale dell'esame di Stato per l'abilitazione all'esercizio della professione di dottore agronomo e dottore forestale ha luogo una sola volta, all'atto della prima attuazione della legge 10 febbraio 1992, n. 152. Essa e' indetta con ordinanza del Ministro dell'universita' e della ricerca scientifica e tecnologica che precisa le sedi e la data d'inizio delle prove.
+
+2.
+                    
+                        
+                            Le sedi sono:
+ 
+                        
+                        
+                            a)
+                            
+                                sezione dottori in scienze agrarie: Bari, Bologna, Milano, Napoli, (Portici), Padova, Palermo, Pisa e Sassari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sezione dottori in scienze della produzione animale: Bologna;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sezione dottori in agricoltura tropicale e subtropicale:
+Firenze;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sezione dottori in scienze delle preparazioni alimentari:
+Bologna, Catania, Milano, Napoli (Federico II), Potenza (Universita' della Basilicata);
+
+                            
+                        
+                        
+                            e)
+                            
+                                sezione dottori in scienze forestali: Bari, Padova, Torino e Viterbo.
 
 Ai candidati e' data facolta' di sostenere la sessione speciale dell'esame di Stato per l'esercizio della professione di dottore agronomo e dottore forestale in qualsiasi sede in cui si svolgono le prove corrispondenti alla sezione prescelta.
 

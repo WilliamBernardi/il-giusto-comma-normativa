@@ -8,8 +8,8 @@ codice_redazionale: 098G0514
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,52 @@ il seguente regolamento:
 ## Art. 1. — Istituzione della gestione unitaria autonoma
  delle prestazioni creditizie e sociali. Finalita'
 
+1.
+                        
+                            
+                                Presso l'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica - INPDAP - e' istituita, ai sensi dell'articolo 1, comma 245, della legge 23 dicembre 1996, n. 662, la gestione unitaria autonoma delle prestazioni creditizie e sociali, la quale assicura la continuita' delle prestazioni in corso e provvede, armonizzando la preesistente normativa ed unificando gli interventi in favore degli iscritti:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'erogazione di prestiti annuali e biennali fino al doppio della retribuzione contributiva mensile, di prestiti quinquennali e decennali verso cessione del quinto della retribuzione nonche' di mutui ipotecari a tassi agevolati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla costituzione di garanzia a favore degli istituti autorizzati ad erogare prestiti agli iscritti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'ammissione in convitto, nei centri vacanza estivi in Italia e alle vacanze studio all'estero dei figli e degli orfani degli iscritti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al conferimento di borse di studio in favore dei figli e degli orfani degli iscritti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'ammissione in case di soggiorno degli iscritti cessati dal servizio e dei loro coniugi nonche' al ricovero presso idonee strutture esterne di ospiti divenuti non autosufficienti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ad altre prestazioni a carattere creditizio e sociale a favore degli iscritti e dei loro familiari, istituite con delibera del consiglio di amministrazione dell'INPDAP, adottate sulla base delle linee strategiche definite dal consiglio di indirizzo e vigilanza, nel rispetto dell'equilibrio finanziario della gestione.
+
 Al fine di assicurare l'espletamento delle attivita' sociali, sulla base delle linee strategiche definite dal consiglio di indirizzo e vigilanza, puo' essere disposta, con delibera del consiglio di amministrazione, che ne disciplina anche gli aspetti economici, l'utilizzazione a titolo oneroso di immobili dell'INPDAP facenti capo ad altre gestioni.
 
 ## Art. 2. — Finanziamento e modalita' di versamento
@@ -52,6 +98,64 @@ La gestione unitaria delle prestazioni creditizie e sociali puo' ottenere, per l
 Con le stesse modalita' e tassi di interesse, la gestione unitaria puo' a sua volta effettuare anticipazioni in favore di altre gestioni autonome.
 
 ## Art. 4. — Patrimonio ed entrate
+
+1.
+                        
+                            
+                                Il patrimonio della gestione unitaria delle prestazioni creditizie e sociali e' costituito da:
+ 
+                            
+                            
+                                a)
+                                
+                                    beni immobili strumentali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipazioni a fondi immobiliari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    titoli di stato o garantiti dallo Stato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disponibilita' liquide;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    anticipazioni, mutui attivi e passivi e altri crediti e debiti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fondi di ammortamento, di rinnovamento e di copertura contro il rischio di svalutazione dei beni;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fondi di riserva.
+ Le entrate della gestione sono costituite:
+ a) dal contributo obbligatorio previsto dall'articolo 1, comma 242, della legge 23 dicembre 1996, n. 662;
+ b) dalle rendite e dagli interessi dei beni del patrimonio e, in particolare, degli interessi dei prestiti e mutui ipotecari concessi;
+ c) dal contributo per spese di amministrazione e dal premio compensativo dei rischi delle operazioni di credito;
+ d) dalle quote di partecipazione al costo delle prestazioni sociali poste a carico del beneficiario.
 
 ## Art. 5. — Contabilita' e amministrazione
 
@@ -105,6 +209,24 @@ E' regolarmente costituito con la maggioranza dei componenti e le relative delib
 
 ## Art. 11. — Beneficiari
 
+1.
+                        
+                            
+                                Hanno diritto alle prestazioni sociali tutti gli iscritti di cui all'articolo 6 del presente regolamento. In particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    i figli e gli orfani degli iscritti in servizio o in quiescenza potranno usufruire dell'ammissione ai convitti e ai centri vacanze estivi in Italia e alle vacanze studio all'estero, nonche' del beneficio delle borse di studio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli iscritti cessati dal servizio e i loro coniugi potranno usufruire dell'ammissione nelle case di soggiorno.
+
 I soggetti di cui al comma precedente hanno altresi' diritto ad ogni altra forma di prestazione sociale istituita ai sensi dell'art. 1, lettera f), del presente regolamento secondo le indicazioni contenute nei rispettivi atti deliberativi.
 
 ## Art. 12. — Quota di partecipazione alle spese generali
@@ -123,6 +245,31 @@ Con lo stesso procedimento indicato nell'articolo 13, possono essere stipulate c
 ## - Capo IV Disposizioni transitorie
 
 ## Art. 15. — Prestiti e sovvenzioni in corso di ammortamento
+
+1.
+                        
+                            
+                                Sono trasferiti alla gestione unitaria delle prestazioni creditizie e sociali:
+ 
+                            
+                            
+                                a)
+                                
+                                    il contributo dello 0,35% versato con decorrenza 1 dicembre 1996;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rapporti giuridici ed economici in atto alla data di entrata in vigore del presente regolamento concernenti le prestazioni creditizie e sociali erogate dal Fondo di previdenza e credito dipendenti dello Stato e dal Fondo di previdenza dei dipendenti degli enti locali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i beni immobili pervenuti ai predetti Fondi a titolo gratuito e con specifica destinazione d'uso per finalita' sociali in conseguenza di donazione o di provvedimenti normativi (convitto di Spoleto, convitto di Arezzo, istituto magistrale di San Sepolcro).
 
 Restano di proprieta' dei fondi indicati nel comma precedente i beni immobili acquistati a titolo oneroso dai fondi medesimi per essere destinati allo svolgimento delle attivita' sociali. Essi peraltro continuano ad essere utilizzati a titolo gratuito per le medesinie finalita' dalla gestione autonoma unitaria del credito e delle attivita' sociali, sulla quale gravano le relative spese di manutenzione.
 

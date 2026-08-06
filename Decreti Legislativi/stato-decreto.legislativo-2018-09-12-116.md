@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-09-12;116
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,12 +35,112 @@ All'articolo 21, comma 17, della legge 31 dicembre 2009, n. 196, sono aggiunte, 
 ## Art. 2. — Introduzione delle azioni e aggiornamento 
  note integrative
 
+1.
+                    
+                        
+                            Alla legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 25-bis: 
+ 1) al comma 8, le parole da: «ed e' conseguentemente aggiornata» fino alla fine del comma medesimo sono sostituite dalle seguenti: «. Con decreto del Ministro dell'economia e delle finanze, sulla base della relazione di cui al primo periodo, possono essere modificate le azioni individuate ai sensi del comma 6»; 
+ 2) dopo il comma 8 e' aggiunto il seguente: «8-bis. Conclusa la sperimentazione di cui al comma 7, l'elenco delle azioni puo' essere aggiornato con decreto del Ministro dell'economia e delle finanze. In ogni caso, i decreti di variazioni di bilancio conseguenti all'approvazione di nuovi leggi, ricorrendone i presupposti, possono istituire nuove azioni e modificare quelle esistenti, anche nelle more della sperimentazione di cui al comma 7.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 21, comma 11, lettera a), sono apportate le seguenti modificazioni: 
+ 1) al quarto periodo le parole «unita' elementari di bilancio» sono sostituite dalla seguente: «azioni»; 
+ 2) al quinto periodo le parole «unita' elementare di bilancio» sono sostituite dalla seguente: «azione»; 
+ 3) all'ultimo periodo le parole «unita' elementare di bilancio» sono sostituite dalla seguente: «azione».
+
 ## Art. 3. — Revisione dell'allegato alla Nota di aggiornamento 
  al Documento di economia e finanza
+
+1.
+                    
+                        
+                            All'articolo 10-bis della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. La Nota di aggiornamento di cui al comma 1 e' corredata dalla nota illustrativa sulle leggi pluriennali di spesa di carattere non permanente, con indicazione, in apposita sezione, di quelle che rivestono carattere di contributi pluriennali, per i quali, a seguito della completa attivazione delle procedure di monitoraggio di cui al decreto legislativo 29 dicembre 2011, n. 229, la suddetta sezione da' conto della valutazione degli effetti sui saldi di finanza pubblica. La nota riporta i quadri contabili di ciascuna legge, distintamente per missione e programma, con indicazione della relativa scadenza, dell'onere complessivo, degli eventuali rifinanziamenti o definanziamenti, le somme complessivamente stanziate, quelle effettivamente impegnate ed erogate ed i relativi residui. In apposita sezione del quadro contabile e' esposta la programmazione finanziaria di ciascuna legge, tenendo conto degli impegni pluriennali ad esigibilita' assunti ai sensi dell'articolo 34, comma 2, nonche' del piano finanziario pluriennale dei pagamenti ai sensi dell'articolo 34, comma 7. Entro il 31 luglio i Ministeri competenti comunicano al Ministero dell'economia e delle finanze tutti i dati necessari alla predisposizione della nota illustrativa.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dal seguente: «5. La rilevazione compiuta ai sensi del comma 3 costituisce la base informativa per le procedure di monitoraggio di cui al decreto legislativo 29 dicembre 2011, n. 229.».
 
 ## Art. 4.
 
 Disposizioni in materia di relazioni tecniche di provvedimenti normativi e di variazioni e flessibilita' di bilancio.
+
+1.
+                    
+                        
+                            Alla legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 17, dopo il comma 8, e' inserito il seguente:
+«8-bis. Le relazioni tecniche di cui al presente articolo sono trasmesse al Parlamento in formato elettronico elaborabile.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 23, comma 3, dopo le parole: «saldi di finanza pubblica» e' inserita la seguente: «programmati» e, alla lettera a), le parole da «relative ai fattori legislativi» fino a «del presente articolo,» sono sostituite dalle seguenti: «di spesa di parte corrente e in conto capitale previste a legislazione vigente, relative ai fattori legislativi, di cui all'articolo 21, comma 5, lettera b), ivi incluse le dotazioni finanziarie relative alle autorizzazioni di spesa in conto capitale rimodulate ai sensi dell'articolo 30, comma 2, nonche' alle altre autorizzazioni di spesa rimodulate, per l'adeguamento delle medesime dotazioni di competenza e di cassa a quanto previsto nel piano finanziario dei pagamenti di cui al comma 1-ter del presente articolo»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 30, i commi 1 e 2 sono sostituiti dai seguenti: 
+ «1. Le leggi pluriennali di spesa in conto capitale quantificano la spesa complessiva e le quote di competenza attribuite a ciascun anno interessato. Le amministrazioni centrali dello Stato possono assumere impegni nei limiti dell'intera somma indicata dalle predette leggi mentre i relativi pagamenti devono essere contenuti nei limiti delle autorizzazioni annuali di bilancio. 
+ 2. Con la seconda sezione del disegno di legge di bilancio, in relazione a quanto previsto nel piano finanziario dei pagamenti possono essere disposte, nel rispetto dei saldi programmati di finanza pubblica, le seguenti rimodulazioni: 
+ a) la rimodulazione, ai sensi dell'articolo 23, comma 1-ter, delle quote annuali delle autorizzazioni pluriennali di spesa, fermo restando l'ammontare complessivo degli stanziamenti autorizzati dalla legge o, nel caso di spese a carattere permanente, di quelli autorizzati dalla legge nel triennio di riferimento del bilancio di previsione; 
+ b) la reiscrizione nella competenza degli esercizi successivi delle somme non impegnate alla chiusura dell'esercizio relative ad autorizzazioni di spesa in conto capitale a carattere non permanente. 
+ 2-bis. In apposito allegato al disegno di legge di bilancio sono evidenziate le rimodulazioni disposte ai sensi del comma 2.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 33, il comma 2 e' sostituito dai seguenti: «2. Il Ministro dell'economia e delle finanze e' autorizzato a provvedere, con propri decreti, alle variazioni di bilancio occorrenti per l'applicazione dei provvedimenti legislativi pubblicati successivamente alla presentazione del disegno di legge di bilancio indicando, per ciascuna unita' elementare di bilancio, ai fini della gestione e della rendicontazione, le dotazioni di competenza, di cassa e in conto residui. 
+ 2-bis. Il Ministro dell'economia e delle finanze e' altresi' autorizzato a provvedere alle variazioni di cui al comma 2 anche in relazione ai provvedimenti legislativi pubblicati nei sessanta giorni precedenti alla presentazione del disegno di legge di bilancio i cui effetti non risultino recepiti nel medesimo disegno di legge.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 34, il comma 6 e' sostituito dai seguenti: 
+ «6. Alla chiusura dell'esercizio finanziario al 31 dicembre, nessun impegno puo' essere assunto a carico dell'esercizio scaduto. Gli uffici centrali del bilancio e le ragionerie territoriali dello Stato per le spese decentrate non possono dare corso agli atti di impegno che dovessero pervenire dopo tale data. 
+ 6-bis. In deroga a quanto previsto dal comma 6, le risorse assegnate con variazioni di bilancio adottate con decreti del Ministro dell'economia e delle finanze, trasmessi alla Corte dei conti entro il 28 febbraio, sono conservate tra i residui passivi dell'anno successivo a quello di iscrizione in bilancio, quando siano conseguenti: 
+ a) all'applicazione di provvedimenti legislativi pubblicati nell'ultimo quadrimestre dell'anno; 
+ b) alla riassegnazione di entrate di scopo, adottate nell'ultimo mese dell'anno; 
+ c) alla attribuzione delle risorse di fondi la cui ripartizione, tra le unita' elementari di bilancio interessate, e' disposta con il predetto decreto di variazione del Ministro dell'economia e delle finanze, a seguito dell'adozione di un provvedimento amministrativo che ne stabilisce la destinazione. 
+ 6-ter. Le risorse di parte corrente assegnate con variazioni di bilancio e non impegnate entro la chiusura dell'esercizio, ove non ricorrano i presupposti di cui al comma 6-bis, costituiscono economie di bilancio, fatta eccezione per quelle assegnate per effetto di variazioni compensative apportate tra le unita' elementari di bilancio relative alle competenze fisse e continuative del personale finalizzate a sanare eventuali eccedenze di spesa, purche' i relativi decreti di variazione siano trasmessi alla Corte dei conti entro il 15 marzo.».
 
 ## Art. 5. — Entrate finalizzate per legge
 
@@ -49,6 +149,28 @@ All'articolo 36 della legge 31 dicembre 2009, n. 196, dopo il comma 6 e' inserit
 ## Art. 6.
 
 Revisione del Conto riassuntivo del tesoro e progressiva eliminazione delle gestioni contabili operanti a valere su contabilita' speciali o conti correnti di tesoreria.
+
+1.
+                    
+                        
+                            All'articolo 44-ter della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) dopo il secondo periodo e' inserito il seguente: «In alternativa alla gestione tramite funzionari delegati, le amministrazioni centrali possono stabilire che la gestione prosegua in forma diretta a valere su apposita imputazione del bilancio dello Stato.»; 
+ 2) il quarto periodo e' sostituito dal seguente: «A decorrere dalla data di chiusura dei conti di tesoreria, al fine di mantenere l'operativita' delle gestioni contabili interessate, gli introiti derivanti da erogazioni effettuate da amministrazioni pubbliche, enti, organismi pubblici e privati nonche', limitatamente ai rimborsi di missione ed agli emolumenti in favore del personale riconosciuti alle strutture dei Ministeri titolari delle relative gestioni, dall'Unione europea, sono versati all'entrata del bilancio dello Stato per essere riassegnati negli stati di previsione dei Ministeri interessati.»; 
+ 3) sono aggiunti in fine, i seguenti periodi: «Le restanti somme riguardanti versamenti effettuati dall'Unione europea affluiscono sull'apposito conto corrente di tesoreria intestato al Fondo di rotazione per l'attuazione delle politiche comunitarie di cui all'articolo 5 della legge 16 aprile 1987, n. 183, e sono gestite secondo le disposizioni riguardanti il medesimo Fondo di rotazione.
+Al fine di garantire la continuita' operativa delle gestioni contabili nella fase di riconduzione al regime di contabilita' ordinaria, nel primo esercizio successivo alla chiusura operata ai sensi del presente comma, ove necessario, previa richiesta dell'amministrazione competente, il Ministero dell'economia e delle finanze puo' disporre il ricorso ad anticipazioni di tesoreria, la cui regolarizzazione avviene tempestivamente, nel medesimo anno, con l'emissione di ordini di pagamento sulle pertinenti unita' elementari di bilancio.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 8 dopo le parole «Non e' consentita l'apertura di nuove contabilita' speciali» sono inserite le seguenti: «o conti correnti di tesoreria» ed e' aggiunto, in fine, il seguente periodo: «Nel caso di affidamento della gestione di specifici interventi a proprie societa' in house o a societa' a controllo statale come definite dall'articolo 2, comma 1, del decreto legislativo 19 agosto 2016, n. 175, le amministrazioni dello Stato, per l'effettuazione dei pagamenti, possono nominare funzionari delegati di contabilita' ordinaria i dipendenti dei soggetti gestori, i quali sono assoggettati alla vigilanza dell'amministrazione delegante e al controllo di regolarita' amministrativa e contabile da parte dei competenti organi di controllo.».
 
 Alla legge 31 dicembre 2009, n. 196, l'articolo 44-quater e' sostituito dal seguente: 
  «Art. 44-quater (Gestioni delle amministrazioni statali presso il sistema bancario e postale). - 1. Le amministrazioni dello Stato possono gestire risorse presso il sistema bancario e postale solo nel caso in cui cio' sia previsto da norma di legge o da disposizione regolamentare. In assenza di apposita previsione normativa, l'apertura di un conto bancario o postale e' autorizzata dal Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato su richiesta dell'amministrazione competente, debitamente motivata e documentata. L'autorizzazione e' concessa entro sessanta giorni dalla ricezione della richiesta. 
@@ -73,13 +195,96 @@ Al decreto legislativo 12 maggio 2016, n. 90, dopo l'articolo 7, sono inseriti i
  6. Per la gestione delle attivita' istituzionali delle strutture dei Ministeri di cui al comma 1, relative alle funzioni e alle esigenze ivi indicate, e' autorizzata l'apertura di conti correnti postali o bancari intestati alle predette strutture in base ai propri regolamenti di organizzazione e contabilita'. Le stesse effettuano le spese utilizzando la dotazione finanziaria affluita, anche in anticipazione dalle unita' elementari di bilancio relative al fondo scorta, sui predetti conti bancari o postali. La dotazione finanziaria e' periodicamente reintegrata a valere sulle pertinenti unita' elementari del bilancio, con le ordinarie procedure di spesa. 
  7. Per le esigenze di cassa urgenti ed indilazionabili di talune strutture, l'amministrazione, tramite i propri centri di responsabilita' amministrativa, puo' autorizzare trasferimenti temporanei di risorse in favore delle stesse a valere sulle disponibilita' dei conti correnti intestati ad altre strutture. Detti trasferimenti sono regolati in occasione della prima utile somministrazione di fondi, con le modalita' previste dai propri regolamenti di organizzazione e contabilita'.».
 
+4.
+                    
+                        
+                            Al decreto legislativo 30 giugno 2011, n. 123, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 5, dopo il comma 3-bis, e' inserito il seguente: 
+ «3-ter. Gli ordinativi di spesa emessi a valere sui fondi scorta di cui all'articolo 7-ter del decreto legislativo 12 maggio 2016, n. 90, sono assoggettati al solo controllo contabile, da espletarsi entro dieci giorni dal ricevimento degli stessi.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 13-bis e' inserito il seguente: 
+ «Art. 13-ter (Rendicontazione delle spese per il reintegro delle disponibilita' delle strutture centrali e periferiche delle amministrazioni titolari di fondi scorta). - 1. Nei rendiconti delle spese effettuate dai funzionari delegati ai quali sono accreditate le risorse dalle pertinenti unita' elementari del bilancio per il reintegro delle disponibilita' delle strutture centrali e periferiche facenti capo ai medesimi funzionari delegati, originariamente provenienti dalle anticipazioni dei fondi scorta di cui all'articolo 7-ter del decreto legislativo 12 maggio 2016, n. 90, sono consolidati anche i dati relativi alle spese realizzate dalle predette strutture.
+A questi fini la documentazione giustificativa della spesa effettuata dalle strutture confluisce nella rendicontazione del funzionario delegato.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 14, dopo il comma 5 e' inserito il seguente: 
+ «5-bis. Nel caso in cui siano riscontrate irregolarita' riguardo ai rendiconti amministrativi di cui all'articolo 13-ter, gli uffici di controllo non discaricano i rendiconti e inviano al funzionario delegato una nota di osservazione. Il funzionario delegato, o il responsabile della struttura interessata per il tramite di quest'ultimo, rispondono ai rilievi entro trenta giorni dal ricevimento della predetta nota di osservazione. Restano ferme le responsabilita' di ciascuna struttura in relazione alle competenze e alle gestioni concretamente svolte, secondo i rispettivi ordinamenti.».
+
 ## Art. 7.
 
 Sistema di contabilita' finanziaria economico-patrimoniale e piano dei conti integrato
 
+1.
+                    
+                        
+                            Alla legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'allegato 1 alla legge 31 dicembre 2009, n. 196, come inserito dall'articolo 8 del decreto legislativo 12 maggio 2016, n. 90, e' sostituito dall'allegato 1 al presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 38-sexies, comma 1, primo periodo, le parole «della durata di due» sono sostituite dalle seguenti: «di durata non superiore a tre anni».
+
 ## Art. 8. — Bilancio di genere
 
+1.
+                    
+                        
+                            All'articolo 38-septies, comma 1, della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «per determinare una valutazione del diverso impatto delle politiche di bilancio sul genere» sono sostituite dalle seguenti: «anche al fine di perseguire la parita' di genere tramite le politiche pubbliche, ridefinendo e ricollocando conseguentemente le risorse, tenendo conto anche dell'andamento degli indicatori di benessere equo e sostenibile di cui all'articolo 10, comma 10-bis»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: «1-bis. Ai fini della definizione degli indirizzi metodologici volti all'attuazione del comma 1, presso il Ministero dell'economia e delle finanze e' istituito un Comitato composto da un rappresentante del medesimo Ministero, da un rappresentante della Presidenza del Consiglio dei ministri, da un rappresentante dell'ISTAT, da un rappresentante dell'Istituto nazionale della previdenza sociale (INPS), nonche' da due esperti della materia di comprovata esperienza scientifica provenienti da universita' ed enti di ricerca. Dall'istituzione e dal funzionamento del Comitato non devono derivare nuovi o maggiori oneri per la finanza pubblica. Ai componenti del Comitato non spetta alcun compenso, indennita', gettone di presenza, rimborso spese o altro emolumento comunque denominato.».
+
 ## Art. 9. — Abrogazione e modificazione di norme
+
+1.
+                    
+                        
+                            Alla legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 18, comma 3, secondo periodo, le parole «l'anno successivo nonche' per le leggi approvate entro l'anno e pubblicate nella Gazzetta Ufficiale entro l'anno successivo.» sono sostituite dalle seguenti: «l'anno successivo. Per le leggi approvate entro l'anno e pubblicate nella Gazzetta Ufficiale dell'anno successivo la copertura finanziaria prevista per il primo anno resta valida anche dopo la conclusione dell'esercizio.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 39, comma 4, primo periodo, le parole «nonche' per la realizzazione del Rapporto di cui all'articolo 41,» e le parole: «, nonche' delle analisi di efficienza contenute nel Rapporto di cui all'articolo 41», sono soppresse.
 
 All'articolo 4, comma 2, del decreto legislativo 7 agosto 1997, n. 279, le parole «di concerto con il Ministro del tesoro, del bilancio e della programmazione economica» sono sostituite dalle seguenti: «previo assenso del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato».
 

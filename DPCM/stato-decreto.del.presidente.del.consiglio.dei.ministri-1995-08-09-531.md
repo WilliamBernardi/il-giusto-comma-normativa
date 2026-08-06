@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 1996-01-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -111,6 +111,31 @@ Quando, fuori dei casi di parere obbligatorio, si ritenga di dover promuovere la
 L'acquisizione in via facoltativa di pareri di valutazioni tecniche di organi, amministrazioni o enti, fuori del caso di cui al precedente comma, ha luogo con l'osservanza del termine finale del procedimento.
 
 ## Art. 9. — Unita' organizzativa responsabile del procedimento
+
+1.
+                    
+                        
+                            Ai fini dell'individuazione del responsabile del procedimento e di ogni altro adempimento procedimentale, le unita' organizzative del Dipartimento della protezione civile, in base al decreto del Presidente del Consiglio dei Ministri 13 febbraio 1990, n. 112, sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                uffici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                centri.
 
 I termini e i responsabili dei procedimenti amministrativi delle predette unita' organizzative sono indicati nelle tabelle allegate al presente regolamento.
 

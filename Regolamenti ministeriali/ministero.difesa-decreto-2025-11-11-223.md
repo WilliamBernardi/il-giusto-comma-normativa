@@ -7,8 +7,8 @@ urn: urn:nir:ministero.difesa:decreto:2025-11-11;223
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,7 +38,64 @@ Udito il parere n. 542/2025 del Consiglio di Stato, espresso dalla Sezione consu
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Forze armate», l'Esercito italiano, la Marina militare, l'Aeronautica militare e l'Arma dei carabinieri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «denominazioni», i nomi, anche sotto forma di logo, che identificano le singole Forze armate, ovvero quei reparti, gruppi, strutture ed enti, anche interforze, che costituiscono il patrimonio storico e culturale dell'istituzione militare e concorrono a esprimerne il prestigio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «stemma», il complesso di figure o di figure e parole, di qualsiasi formato, disegnato su scudo araldico, che costituisce il contrassegno delle singole Forze armate e dei singoli reparti, enti, gruppi e strutture, anche interforze, in cui esse sono organizzate ivi inclusi i contrassegni storici e tradizionali e quelli riferiti a enti, reparti e strutture soppressi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «emblema», il complesso di figure o di figure e parole, di qualsiasi formato, disegnato su fondo diverso dallo scudo araldico, che costituisce il contrassegno di distinzione delle singole Forze armate e dei singoli reparti, enti, gruppi e strutture, anche interforze, in cui esse sono organizzate, ivi inclusi i contrassegni storici e tradizionali e quelli riferiti a enti, reparti e strutture soppressi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «segno distintivo», fregio o altro distintivo, recante figure o figure e parole, che identifica l'appartenenza del militare a un ente, reparto, gruppo o struttura delle Forze armate, anche storico, ovvero la sua specifica professionalita' militare, quali, a titolo esemplificativo, gli scudetti, le mostreggiature, i distintivi, i copricapo e gli omerali.
+
 ## Art. 2. — Individuazione delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi delle Forze armate
+
+1.
+                    
+                        
+                            Le Forze armate esercitano, ai sensi dell'articolo 300, comma 1, del Codice, il diritto all'uso esclusivo: 
+ 
+                        
+                        
+                            a)
+                            
+                                delle denominazioni riportate nell'allegato 1 al presente regolamento, nonche' di quelle altre denominazioni che identificano le Forze armate, ovvero i reparti, gli enti, i gruppi e le strutture, anche interforze, esistenti o soppressi, in cui esse si articolano; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                degli stemmi, degli emblemi e degli altri segni distintivi che identificano le Forze armate, ovvero i reparti, gli enti, i gruppi e le strutture, anche interforze, esistenti o soppressi, riportati negli allegati da 2 a 6 al presente regolamento, nonche' di quelle singole parti di essi che di per se' sono idonee a svolgere la funzione identificativa.
 
 Gli allegati di cui al comma 1 formano parte integrante del presente regolamento e sono pubblicati sul sito web istituzionale del Ministero della difesa, dello Stato maggiore della difesa e di ciascuna Forza armata, per la parte di interesse.
 
@@ -47,6 +104,69 @@ Gli allegati di cui al comma 1 formano parte integrante del presente regolamento
 Il Ministero della difesa puo' consentire a soggetti terzi, pubblici o privati, l'uso temporaneo delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi delle Forze armate, a titolo oneroso, in via convenzionale, attraverso la stipula di contratti di sponsorizzazione e di contratti ad essi assimilabili, ai sensi dell'articolo 134 del decreto legislativo 31 marzo 2023, n. 36.
 
 Il Ministero della difesa, prima di consentire a terzi l'uso delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi delle Forze armate, verifica che il loro previsto utilizzo sia compatibile con il prestigio del patrimonio storico e culturale dell'istituzione militare che essi rappresentano, sia idoneo ad accrescerne la diffusione e non risulti in contrasto con le finalita' istituzionali proprie e delle Forze armate, nonche' con l'immagine delle Forze armate.
+
+3.
+                    
+                        
+                            I contratti di cui al comma 1 disciplinano tra l'altro: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'oggetto della prestazione, costituito dall'uso delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi delle Forze armate specificatamente indicati, a fronte del quale il terzo rende un corrispettivo in denaro, ovvero fornisce beni o servizi, ai sensi dell'articolo 545 del Codice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' e i limiti di uso delle denominazioni, degli stemmi, degli emblemi e dei segni distintivi delle Forze armate da parte del terzo, che comunque non potranno essere concessi in uso per finalita' di natura politica e sindacale, ovvero ai fini della commercializzazione di beni o servizi vietati dalle norme vigenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il divieto di cedere a terzi, a qualsiasi titolo, il diritto di uso delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi delle Forze armate, pena la risoluzione di diritto del contratto, salva l'ipotesi in cui tale possibilita' di cessione sia espressamente consentita, di volta in volta, da una preventiva autorizzazione del Ministero della difesa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il compenso, che puo' consistere in un importo fisso corrisposto in un'unica soluzione, ovvero nella fornitura di beni e servizi di equivalente valore, o in un importo iniziale cui vanno ad aggiungersi importi rateizzati ragguagliati a una percentuale, anche variabile nel tempo, del fatturato relativo al bene commercializzato (royalty) avvalendosi delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi delle Forze armate concessi in uso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' operative per la verifica da parte del Ministero della difesa della corretta corresponsione delle royalty eventualmente stabilite in sede contrattuale, prevedendo obblighi di rendicontazione scritta del licenziatario, consistenti in rapporti periodici sull'ammontare complessivo del fatturato relativo al bene o servizio commercializzato, corredati della relativa documentazione contabile; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la durata del contratto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le modalita' attraverso le quali il Ministero della difesa verifica il rispetto da parte del terzo delle condizioni e dei limiti di uso dei segni distintivi dei quali sia stato consentito l'uso, che comunque dovranno prevedere: 
+ 1) l'obbligo del licenziatario di produrre all'Amministrazione, prima della commercializzazione del bene, ovvero dell'avvio dell'attivita' che comporta l'uso delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi delle Forze armate, un esemplare del bene o la documentazione recante l'illustrazione dettagliata dell'attivita' da svolgere; 
+ 2) la facolta' dell'Amministrazione di procedere, previa intesa con il licenziatario, a verifiche dirette nei luoghi di produzione o di commercializzazione dei beni, ovvero di svolgimento dell'attivita' che comporta l'uso dei segni distintivi delle Forze armate; 
+ 3) l'applicazione di penalita' per l'inadempimento degli obblighi di cui al numero 1) ovvero dell'intesa di cui al numero 2); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le condizioni, ivi inclusi gli eventi sopravvenuti al perfezionamento dell'atto negoziale, che possono essere di nocumento all'immagine, al prestigio o alle finalita' istituzionali delle Forze armate, la cui violazione determina la risoluzione di diritto del contratto.
 
 Le attivita' di gestione economica delle denominazioni, degli stemmi, degli emblemi e degli altri segni distintivi di cui al comma 1, ivi inclusa l'individuazione del terzo licenziatario, salvo che esse siano state affidate dal Ministero della difesa alla societa' Difesa Servizi S.p.a., sono svolte dalle strutture individuate dal Capo di stato maggiore della difesa, dai Capi di stato maggiore delle Forze armate e dal Comandante generale dell'Arma dei carabinieri, cui le denominazioni, gli stemmi, gli emblemi e gli altri segni distintivi sono riconducibili.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2013-08-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -63,6 +63,28 @@ Ottenuta la nomina, gli allievi viceispettori frequentano un corso preordinato a
 
 I moduli didattici di contenuto teorico e di tecnica operativa del suddetto corso hanno cadenza bimestrale. Le materie di insegnamento vengono individuate nelle aree tematiche relative al sistema penale, al sistema penitenziario, al sistema organizzativo centrale e periferico, alle cognizioni tecniche che connotano la professionalita' e il ruolo dell'ispettore con particolare riguardo ai metodi e alla organizzazione dei servizi della sicurezza, del trattamento penitenziario ed alla gestione delle risorse umane.
 
+3.
+                        
+                            
+                                Le aree tematiche di cui al precedente comma saranno articolate secondo i programmi di cui all'allegato 
+                            
+                            
+                                a)
+                                
+                                    per il sistema penale, all'allegato
+                                
+                            
+                            
+                                b)
+                                
+                                    per il sistema penitenziario, all'allegato
+                                
+                            
+                            
+                                c)
+                                
+                                    per il sistema organizzativo centrale e periferico, agli allegati d), e), f) per quanto attiene alle cognizioni tecniche che connotano la professionalita' e il ruolo dell'ispettore con particolare riguardo ai metodi e alla organizzazione dei servizi della sicurezza, del trattamento penitenziario ed alla gestione delle risorse umane.
+
 ## - Capo II Concorso interno
 
 ## Art. 5. — Prove di esame
@@ -77,6 +99,45 @@ Il colloquio verte, oltre che sugli elementi di diritto penale e di diritto peni
  (( 6-bis. Qualora il numero dei candidati superi le 1.500 unita', le prove d'esame di cui i precedenti commi 1 e 2 possono essere precedute da una prova preliminare consistente in una serie di domande a risposta a scelta multipla, vertenti sulle materie oggetto delle citate prove d'esame. Le modalita' di espletamento della prova preliminare sono disciplinate conformemente alle previsioni contenute nel precedente articolo 1, commi 2, 3, 4, 5, 6 e 7)).
 
 ## Art. 6. — Titoli di servizio
+
+1.
+                        
+                            
+                                Le categorie dei titoli da ammettere a valutazione ed il punteggio massimo da attribuire a ciascuna categoria di titoli, sono stabiliti come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    giudizi complessivi del quinquennio anteriore: fino a punti 26;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' delle funzioni svolte, come dedotte dai rapporti informativi, con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta anche in relazione alla sede di servizio: fino a punti 11;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi speciali conferiti con specifico provvedimento dell'Amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale: fino a punti 6;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli attinenti alla formazione ed al perfezionamento professionale del candidato, con particolare riguardo al profitto tratto dai corsi professionali: fino a punti 5;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    speciali riconoscimenti: fino a puni 2.
 
 Nell'ambito delle suddette categorie la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi.
 
@@ -97,6 +158,16 @@ Per supplire ad eventuali temporanee assenze e impedimenti di uno dei componenti
 ## Art. 8. — Corso di formazione
 
 I vincitori del concorso devono frequentare il corso di formazione previsto dall'art. 28, comma 2, del decreto legislativo 30 ottobre 1992, n. 443, articolato in moduli didattici, con cadenza bimestrale, di contenuto teorico e di tecnica operativa. Le materie di insegnamento vengono individuate nelle aree tematiche relative al sistema penale, al sistema penitenziario, al sistema organizzativo centrale e periferico, alle cognizioni tecniche che connotano la professionalita' e il ruolo dell'ispettore con particolare riguardo ai metodi e alla organizzazione dei servizi della sicurezza, del trattamento penitenziario ed alla gestione delle risorse umane.
+
+2.
+                        
+                            
+                                Le aree tematiche di cui al precedente comma saranno articolate secondo i programmi di cui all'allegato 
+                            
+                            
+                                a)
+                                
+                                    per il sistema penale, all'allegato b), per il sistema penitenziario, all'allegato c) per il sistema organizzativo centrale e periferico, agli allegati d), e), f) per quanto attiene alle cognizioni tecniche che connotano la professionalita' e il ruolo dell'ispettore con particolare riguardo ai metodi e alla organizzazione dei servizi della sicurezza, del trattamento penitenziario ed alla gestione delle risorse umane.
 
 ## Art. 9. — Rinvio
 

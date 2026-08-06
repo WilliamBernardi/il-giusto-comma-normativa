@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2020-04-30;56
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -56,7 +56,61 @@ Il punteggio della prova preselettiva non concorre alla formazione del voto fina
 
 Le prove di esame sono costituite da due prove scritte e da una prova orale. Le due prove scritte consistono nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, nelle materie rispettivamente indicate ai commi 2 e 3.
 
+2.
+                        
+                            
+                                La prima prova scritta verte, congiuntamente o disgiuntamente, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di diritto amministrativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi di diritto costituzionale.
+
+3.
+                        
+                            
+                                La seconda prova scritta verte sulla seguente materia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di contabilita' di stato.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato in ciascuna prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+5.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie oggetto delle prove scritte di cui ai commi 2 e 3, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di scienza delle finanze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi di diritto privato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, e ordinamento del personale del Corpo nazionale.
 
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso, e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 
@@ -87,7 +141,57 @@ L'identificazione informatica dei candidati che partecipano alla procedura conco
 
 Le prove di esame costituite da una prova scritta e da una prova orale. La prova scritta consiste nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, nelle materie indicate al comma 2.
 
+2.
+                        
+                            
+                                La prova scritta verte, congiuntamente o disgiuntamente, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di diritto amministrativo, con particolare riferimento al procedimento amministrativo e ai contratti pubblici relativi a lavori, servizi e forniture; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi di contabilita' di Stato.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie di cui al comma 2, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di diritto costituzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi di scienza delle finanze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ordinamento del personale del Corpo nazionale, con particolare riferimento ai principali istituti disciplinati negli accordi sindacali e nei contratti collettivi nazionali di lavoro.
 
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso, e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 
@@ -98,6 +202,76 @@ La prova orale si intende superata se il candidato ottiene una votazione non inf
 Titoli e anzianita' di servizio
 
 La commissione esaminatrice valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i seguenti titoli: titoli di studio e abilitazioni professionali, corsi di formazione e aggiornamento professionale; valuta, altresi', secondo i punteggi di cui al comma 5, l'anzianita' di effettivo servizio.
+
+2.
+                        
+                            
+                                I titoli di studio ammessi a valutazione, con i relativi punteggi, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree universitarie ad indirizzo giuridico-economico di seguito indicate o equiparate: punti 2,50 
+ 1. scienze dei servizi giuridici (L-14); 
+ 2. scienze dell'amministrazione e dell'organizzazione (L-16); 
+ 3. scienze politiche e delle relazioni internazionali (L-36); 
+ 4. scienze dell'economia e della gestione aziendale (L-18); 
+ 5. scienze economiche (L-33); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lauree universitarie diverse da quelle indicate alla lettera a): punti 1,25; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lauree magistrali ad indirizzo giuridico-economico di seguito indicate o equiparate: punti 3,50 
+ 1. giurisprudenza (LMG/01); 
+ 2. scienze dell'economia (LM-56); 
+ 3. scienze della politica (LM-62); 
+ 4. scienze delle pubbliche amministrazioni (LM-63); 
+ 5. scienze economico-aziendali (LM-77). 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lauree magistrali diverse da quelle indicate alla lettera c): punti 1,75; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    master universitario di I livello: punti 0,20; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    master universitario di II livello: punti 0,30; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    diploma di specializzazione, conseguito al termine di un corso di specializzazione istituito dalle Universita': punti 0,50; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    abilitazione professionale correlata alle lauree di cui alle lettere a) e c): punti 0,50. Tale punteggio non e' cumulabile qualora il candidato sia in possesso di piu' abilitazioni.
 
 I punteggi dei titoli di studio di cui al comma 2, sono fra loro cumulabili, fino al raggiungimento del punteggio massimo complessivo pari a punti 4,00, ad eccezione di quelli relativi a lauree universitarie e lauree magistrali afferenti al medesimo corso di laurea.
 

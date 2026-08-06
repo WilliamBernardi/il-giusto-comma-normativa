@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-05-11;63
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -42,6 +42,28 @@ All'articolo 98 del codice della proprieta' industriale, il comma 1 e' sostituit
 
 ## Art. 4. — Modifiche all'articolo 99 del decreto legislativo 
  10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 99 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Ferma la disciplina della concorrenza sleale, il legittimo detentore dei segreti commerciali di cui all'articolo 98, ha il diritto di vietare ai terzi, salvo proprio consenso, di acquisire, rivelare a terzi od utilizzare, in modo abusivo, tali segreti, salvo il caso in cui essi siano stati conseguiti in modo indipendente dal terzo.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 sono aggiunti i seguenti: 
+ «1-bis. L'acquisizione, l'utilizzazione o la rivelazione dei segreti commerciali di cui all'articolo 98 si considerano illecite anche quando il soggetto, al momento dell'acquisizione, dell'utilizzazione o della rivelazione, era a conoscenza o, secondo le circostanze, avrebbe dovuto essere a conoscenza del fatto che i segreti commerciali erano stati ottenuti direttamente o indirettamente da un terzo che li utilizzava o rivelava illecitamente ai sensi del comma 1. 
+ 1-ter. La produzione, l'offerta, la commercializzazione di merci costituenti violazione, oppure l'importazione, l'esportazione o lo stoccaggio delle medesime merci costituiscono un utilizzo illecito dei segreti commerciali di cui all'articolo 98, quando il soggetto che svolgeva tali condotte era a conoscenza o, secondo le circostanze, avrebbe dovuto essere a conoscenza del fatto che i segreti commerciali erano stati utilizzati illecitamente ai sensi del comma 1. Per merci costituenti violazione si intendono le merci delle quali la progettazione, le caratteristiche, la funzione, la produzione o la commercializzazione beneficiano in maniera significativa dei suddetti segreti commerciali acquisiti, utilizzati o rivelati illecitamente. 
+ 1-quater. I diritti e le azioni derivanti dalle condotte illecite di cui ai commi 1, 1-bis e 1-ter si prescrivono in cinque anni.».
 
 ## Art. 5. — Disposizioni per la tutela della riservatezza 
  dei segreti commerciali nel corso dei procedimenti giudiziari
@@ -78,6 +100,30 @@ All'articolo 124 del codice della proprieta' industriale, dopo il comma 6, sono 
 ## Art. 7. — Modifiche all'articolo 126 del decreto legislativo 
  10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 126 del codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto, in fine, il seguente periodo: «In ogni caso, sono adottate le misure idonee a garantire la tutela della riservatezza dei segreti commerciali di cui all'articolo 98.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 sono aggiunti i seguenti: 
+ «1-bis. Nei procedimenti relativi all'acquisizione, all'utilizzazione o alla rivelazione illecite dei segreti commerciali di cui all'articolo 98, il giudice, nel decidere se adottare una delle misure di cui al comma 1 e nel valutarne la proporzionalita', considera le circostanze del caso concreto e, in particolare: 
+ a) il valore dei segreti commerciali; 
+ b) la condotta dell'autore della violazione nell'acquisire, utilizzare o rivelare i segreti commerciali; 
+ c) l'impatto dell'utilizzazione o della rivelazione illecite dei segreti commerciali; 
+ d) il pericolo di ulteriore utilizzazione o rivelazione illecite dei segreti commerciali da parte dell'autore della violazione. 
+ 1-ter. Ai fini di cui al comma 1-bis, il giudice considera altresi' se le informazioni sull'autore della violazione siano tali da consentire l'identificazione di una persona fisica e, in tal caso, se la pubblicazione di tali informazioni sia giustificata anche in considerazione degli eventuali danni che la misura puo' provocare alla vita privata e alla reputazione del medesimo autore.».
+
 ## Art. 8. — Modifiche all'articolo 132 del decreto legislativo 
  10 febbraio 2005, n. 30
 
@@ -87,6 +133,26 @@ All'articolo 132 del codice della proprieta' industriale, dopo il comma 5, sono 
  5-quater. Fermo quanto previsto dal comma 4, se le misure cautelari adottate a tutela dei segreti commerciali di cui all'articolo 98 divengono inefficaci, ai sensi del comma 3, per mancato inizio del giudizio di merito nel termine perentorio di cui al comma 2 ovvero perdono efficacia a causa di un'azione o di un'omissione del ricorrente, ovvero se viene successivamente accertato che l'acquisizione, l'utilizzo o la rivelazione illeciti dei predetti segreti commerciali non sussisteva, il ricorrente e' tenuto a risarcire il danno cagionato dalle misure adottate.».
 
 ## Art. 9. — Modifiche al codice penale in materia di mancata esecuzione dolosa di un provvedimento del giudice e in materia di rivelazione di segreti scientifici o industriali
+
+1.
+                    
+                        
+                            All'articolo 388 del codice penale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il secondo comma sono inseriti i seguenti: 
+ «La stessa pena si applica a chi elude l'esecuzione di un provvedimento del giudice che prescriva misure inibitorie o correttive a tutela dei diritti di proprieta' industriale. 
+ E' altresi' punito con la pena prevista al primo comma chiunque, essendo obbligato alla riservatezza per espresso provvedimento adottato dal giudice nei procedimenti che riguardino diritti di proprieta' industriale, viola il relativo ordine.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'ottavo comma le parole: «quinto comma» sono sostituite dalle seguenti: «settimo comma».
 
 L'articolo 623 del codice penale e' sostituito dal seguente: 
  «Art. 623 (Rivelazione di segreti scientifici o commerciali). - Chiunque, venuto a cognizione per ragioni del suo stato o ufficio, o della sua professione o arte, di segreti commerciali o di notizie destinate a rimanere segrete, sopra scoperte o invenzioni scientifiche, li rivela o li impiega a proprio o altrui profitto, e' punito con la reclusione fino a due anni. 

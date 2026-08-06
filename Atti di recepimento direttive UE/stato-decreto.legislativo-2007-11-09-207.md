@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,52 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per le politiche europee e del Ministro della salute, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, della difesa e per gli affari regionali e le autonomie locali;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini della presente direttiva si applicano le seguenti definizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                «rintracciabilita»: la possibilita' di ricostruire il percorso di ciascuna unita' di sangue o di emocomponente da esso derivato dal donatore alla sua destinazione finale, che si tratti di un ricevente, di un produttore di medicinali o della sua eliminazione, e viceversa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «centro notificante»: i servizi trasfusionali che notificano effetti indesiderati gravi e/o incidenti gravi all'autorita' regionale competente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «ricevente»: la persona che ha ricevuto una trasfusione di sangue o di emocomponenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «consegna»: la fornitura di sangue o di emocomponenti da parte di un servizio trasfusionale per la sua trasfusione ad un ricevente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «imputabilita»: la probabilita' che un grave effetto indesiderato in un ricevente possa essere attribuito al sangue o all'emocomponente trasfuso o che un grave effetto indesiderato in un donatore possa essere attribuito al processo di donazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «strutture»: ospedali, cliniche, produttori e istituti di ricerca biomedica cui possono essere consegnati sangue o emocomponenti.
 
 ## Art. 2. — Rintracciabilita'
 
@@ -53,6 +99,52 @@ Le strutture in cui si effettuano trasfusioni di sangue o di emocomponenti devon
 
 I centri notificanti devono predisporre procedure per comunicare all'autorita' regionale competente, non appena ne siano venuti a conoscenza, tutte le informazioni pertinenti relative a presunti effetti indesiderati gravi. A tale fine, e' obbligatorio servirsi dei modelli di notifica che figurano nella parte A dell'allegato II.
 
+3.
+                    
+                        
+                            I centri notificanti sono tenuti a:
+ 
+                        
+                        
+                            a)
+                            
+                                comunicare all'autorita' regionale competente tutte le informazioni pertinenti relative a effetti indesiderati gravi con un livello di imputabilita' 2 o 3, secondo quanto previsto nell'allegato II, attribuibili alla qualita' o alla sicurezza del sangue o dei suoi componenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                informare l'autorita' regionale competente di qualsiasi caso di trasmissione di agenti infettivi attraverso il sangue e gli emocomponenti, non appena ne siano venuti a conoscenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                descrivere i provvedimenti adottati per quanto riguarda gli altri emocomponenti interessati, distribuiti a fini di trasfusione o di impiego come plasma destinato al frazionamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                valutare i presunti effetti indesiderati gravi conformemente ai livelli di imputabilita' che figurano nella parte A dell'allegato II;
+
+                            
+                        
+                        
+                            e)
+                            
+                                non appena conclusa l'indagine, completare la notifica dei gravi effetti indesiderati, servendosi del modello di cui alla parte A dell'allegato II;
+
+                            
+                        
+                        
+                            f)
+                            
+                                presentare annualmente all'autorita' regionale competente, entro il 28 febbraio dell'anno successivo, un rapporto completo sui gravi effetti indesiderati servendosi del modello di cui alla parte B dell'allegato II.
+
 La notifica viene effettuata secondo i flussi informativi previsti dalla normativa vigente.
 
 ## Art. 6. — Notifica degli incidenti gravi
@@ -60,6 +152,31 @@ La notifica viene effettuata secondo i flussi informativi previsti dalla normati
 I servizi trasfusionali predispongono procedure atte a conservare il registro di qualsiasi incidente grave che sia tale da potersi ripercuotere sulla qualita' o la sicurezza del sangue e degli emocomponenti.
 
 I centri notificanti predispongono procedure atte a comunicare all'autorita' regionale competente, servendosi del modello di notifica di cui alla parte A dell'allegato III, non appena ne siano venuti a conoscenza, tutte le informazioni pertinenti relative ad incidenti gravi che potrebbero mettere in pericolo donatori o riceventi diversi da quelli direttamente coinvolti nell'incidente di cui trattasi.
+
+3.
+                    
+                        
+                            I centri notificanti sono tenuti a:
+ 
+                        
+                        
+                            a)
+                            
+                                valutare gli incidenti gravi per individuare le cause evitabili nel corso del processo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                completare la notifica degli incidenti gravi, non appena l'indagine sia stata conclusa, servendosi del modello di cui alla parte B dell'allegato III;
+
+                            
+                        
+                        
+                            c)
+                            
+                                presentare annualmente all'autorita' regionale competente, entro il 28 febbraio dell'anno successivo, un rapporto completo sugli incidenti gravi servendosi del modello di cui alla parte C dell'allegato III.
 
 La notifica viene effettuata secondo i flussi informativi previsti dalla normativa vigente.
 

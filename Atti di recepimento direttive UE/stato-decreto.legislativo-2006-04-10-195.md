@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -138,6 +138,24 @@ Obblighi del datore di lavoro
  1. La Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le parti sociali, entro due anni dalla data di entrata in vigore del presente titolo, elaborano le linee guida per l'applicazione del presente capo nei settori della musica e delle attivita' ricreative.».
 
 ## Art. 3. — Sanzioni
+
+1.
+                    
+                        
+                            All'articolo 89 del decreto legislativo 19 settembre 1994, n. 626, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «11, primo periodo;» sono inserite le seguenti: «49-quinquies, commi 1 e 6;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera a), dopo le parole: «49, comma 2;» sono inserite le seguenti: «49-quinquies, commi 2, 3 e 7; 49-sexies, comma 2; 49-septies, comma 1; 49-octies; 49-nonies; 49-decies, commi 1, 2 e 4; 49-undecies, comma 3, secondo periodo;».
 
 ## Art. 4. — Clausola di cedevolezza
 

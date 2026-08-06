@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,31 @@ e dei capi reparto, degli ispettori antincendi). ))
 ## Art. 1. — (( (Istituzione dei ruoli).))
 
 ((
+
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli del personale del Corpo nazionale dei vigili del fuoco, di seguito denominato: "Corpo nazionale", che espleta funzioni operative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo dei vigili del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei capi squadra e dei capi reparto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo degli ispettori antincendi.
 
 Fatto salvo quanto specificato nel presente capo, il personale appartenente ai ruoli di cui al comma 1, nell'espletamento dei compiti istituzionali, svolge anche le attivita' accessorie necessarie al pieno assolvimento dei compiti di istituto.
 
@@ -97,6 +122,52 @@ Ferme restando l'unitarieta' delle funzioni e la piena fungibilita' operativa, i
 
 ## Art. 5. — (Accesso al ruolo dei vigili del fuoco)
 
+1.
+                        
+                            
+                                L'accesso alla qualifica di vigile del fuoco avviene mediante concorso pubblico, per titoli ed esami, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica al servizio operativo, nel rispetto dei parametri fisici stabiliti dalla normativa vigente per il reclutamento nelle forze armate, nelle forze di polizia a ordinamento militare e civile e nel Corpo nazionale, nonche' idoneita' psichica e attitudinale al servizio operativo, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria di secondo grado ((conseguito entro la data di svolgimento della prima prova, anche preselettiva, della procedura concorsuale)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
+
 Al concorso non sono ammessi coloro che siano stati destituiti dai pubblici uffici o espulsi dalle Forze armate e dai corpi militarmente organizzati o che abbiano riportato sentenza irrevocabile di condanna per delitto non colposo o che siano stati sottoposti a misura di prevenzione.
 
 La riserva di cui all'articolo 1, comma 3, del decreto legge 1° ottobre 1996, n. 512, convertito con modificazioni dalla legge 28 novembre 1996, n. 609, e' elevata al 35 per cento e opera in favore del personale volontario del Corpo nazionale che, alla data di scadenza del bando di concorso, sia iscritto negli appositi elenchi da almeno tre anni e abbia effettuato non meno di centoventi giorni di servizio. Restano ferme le riserve di posti di cui all'articolo 703 del decreto legislativo 15 marzo 2010, n. 66. I posti riservati ai sensi del presente comma e non coperti sono attribuiti agli altri aspiranti al reclutamento di cui al comma 1.
@@ -156,6 +227,59 @@ Con decreto del capo del Dipartimento sono stabiliti le modalita' di svolgimento
 ## Art. 7. — (( (Dimissioni ed espulsione dal corso di formazione).))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione di cui all'articolo 6: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli allievi che non superino l'esame teorico-pratico al termine del periodo di formazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli allievi che non siano riconosciuti idonei al servizio operativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli allievi che dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli allievi che non superino il periodo di applicazione pratica, salvo quanto previsto dall'articolo 6, comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli allievi che siano per qualsiasi motivo assenti dal corso per piu' di quarantacinque giorni, anche non consecutivi, salvi i casi di cui alle lettere f) e g); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli allievi che siano stati assenti dal corso per piu' di settantacinque giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta a causa delle esercitazioni pratiche o da malattia contratta per motivi di servizio, accertate dalla competente commissione medica ospedaliera. In tal caso gli allievi, previa verifica dell'idoneita' psico-fisica, sono ammessi a partecipare al primo corso utile indicato dall'amministrazione e a ripetere, per una sola volta, il periodo di applicazione pratica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli allievi che siano stati assenti dal corso per piu' di settantacinque giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli allievi sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il periodo di applicazione pratica.
 
 Sono espulsi dal corso di formazione gli allievi responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -280,6 +404,31 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 
 ((
 
+1.
+                        
+                            
+                                E' dimesso dal corso di formazione professionale di cui all'articolo 12, il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera gli esami di fine corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso per piu' di quindici giorni, anche non consecutivi. Nell'ipotesi di assenza dovuta a infermita' contratta durante il corso ovvero ad infermita' dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso.
+
 Il personale che sia stato assente dal corso per piu' di quindici giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita' e' ammesso a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 E' espulso dal corso il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
@@ -365,6 +514,24 @@ Nell'espletamento dei compiti di istituto, il personale del ruolo degli ispettor
 
 ((
 
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore antincendi avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso pubblico per esami, consistenti in due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso interno per titoli ed esami, consistenti in una prova scritta e una prova orale, al quale puo' partecipare il personale appartenente al ruolo dei vigili del fuoco che abbia maturato almeno quindici anni di effettivo servizio e al ruolo dei capi squadra e dei capi reparto.
+
 Nella procedura di cui al comma 1, lettera a), e' prevista una riserva, pari a un sesto dei posti messi a concorso, per tutto il personale che espleta funzioni operative in possesso dei requisiti di cui all'articolo 20, ad esclusione dei limiti di eta'. Nella medesima procedura e', altresi', prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di partecipazione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti dall'articolo 20. I posti riservati non coperti sono conferiti agli altri concorrenti, seguendo l'ordine della graduatoria di merito.
 
 Non e' ammesso al concorso interno di cui al comma 1, lettera b), e a fruire della riserva nel concorso pubblico di cui al comma 1, lettera a), il personale che abbia riportato, nel triennio precedente la data di scadenza del termine per la presentazione della domanda di partecipazione al concorso, una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Non e', altresi', ammesso ai concorsi il personale che abbia riportato sentenza irrevocabile di condanna per delitto non colposo ovvero che sia stato sottoposto a misura di prevenzione.
@@ -391,6 +558,60 @@ Il personale gia' appartenente ai ruoli del Corpo nazionale, ammesso ai corsi di
 ## Art. 20. — (( (Concorso pubblico per l'accesso alla qualifica di ispettore antincendi). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore antincendi, ai sensi dell'articolo 19, comma 1, lettera a), avviene mediante concorso pubblico al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica al servizio operativo, nel rispetto dei parametri fisici stabiliti dalla normativa vigente per il reclutamento nelle forze armate, nelle forze di polizia a ordinamento militare e civile e nel Corpo nazionale, nonche' idoneita' psichica e attitudinale al servizio operativo, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    laurea conseguita al termine di un corso di laurea nell'ambito delle facolta' di ingegneria o architettura, ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e del decreto del Ministro dell'universita' e della ricerca del 16 marzo 2007, pubblicato nella Gazzetta Ufficiale del 6 luglio 2007, n. 155, di determinazione delle classi di laurea.
+Sono fatte salve, ai fini dell'ammissione al concorso, le lauree universitarie in ingegneria e architettura conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca di concerto con il Ministro per la pubblica amministrazione e l'innovazione del 9 luglio 2009 di equiparazione tra classi delle lauree di cui all'ex decreto n. 509/1999 e classi delle lauree di cui all'ex decreto n. 270/2004, ai fini della partecipazione ai pubblici concorsi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    abilitazione professionale attinente ai titoli di studio di cui alla lettera d); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Al concorso non sono ammessi coloro che siano stati destituiti dai pubblici uffici o espulsi dalle Forze armate e dai corpi militarmente organizzati o che abbiano riportato sentenza irrevocabile di condanna per delitto non colposo o che siano stati sottoposti a misura di prevenzione.
 
@@ -435,6 +656,59 @@ Il personale gia' appartenente ai ruoli del Corpo nazionale, che non supera il p
 
 ((
 
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 21 gli ispettori antincendi in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al termine del corso di formazione e del tirocinio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 21, comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di quarantacinque giorni, anche non consecutivi, salvi i casi di cui alle lettere f) e g); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di settantacinque giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso gli ispettori antincendi in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di settantacinque giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori antincendi in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
+
 Sono espulsi dal corso di formazione e dal tirocinio gli ispettori antincendi in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
 I provvedimenti di dimissione e di espulsione sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -476,6 +750,52 @@ Con decreto del capo del Dipartimento sono stabiliti le modalita' di svolgimento
 ## Art. 24. — (( (Dimissioni ed espulsione dal corso di formazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione di cui all'articolo 23 gli ispettori antincendi in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano il giudizio di idoneita' al termine del corso di formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere e) ed f); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati assenti dal corso per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso ovvero sia stata riconosciuta dipendente da causa di servizio. In tale caso gli ispettori antincendi in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che siano stati assenti dal corso per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori antincendi in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 Sono espulsi dal corso di formazione gli ispettori antincendi in prova responsabili di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -535,7 +855,25 @@ del personale specialista). ))
 
 ## Art. 29. — (Ruoli del personale specialista)
 
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli del personale del Corpo nazionale che espleta funzioni specialistiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruoli delle specialita' aeronaviganti; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    ruoli delle specialita' nautiche e dei sommozzatori.
+
+((Per l'accesso ai ruoli, il diploma di istruzione secondaria di secondo grado deve essere conseguito entro la data di svolgimento della prima prova, anche preselettiva, della procedura concorsuale o della selezione interna)).
 
 Fermi restando i livelli di coordinamento e di sovraordinazione funzionale previsti dal presente decreto, il personale specialista, quando interviene congiuntamente al personale degli altri ruoli che espleta funzioni operative, effettua le valutazioni di competenza in relazione alle operazioni e alle manovre da eseguire di cui e' direttamente responsabile.
 
@@ -552,6 +890,232 @@ La dotazione organica dei ruoli di cui al comma 1 e' fissata nella tabella A all
 ## Art. 30. — (( (Articolazione dei ruoli delle specialita' aeronaviganti). ))
 
 ((
+
+1.
+                        
+                            
+                                Le specialita' aeronaviganti sono articolate nei seguenti ruoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo dei piloti di aeromobile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo degli specialisti di aeromobile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo degli elisoccorritori.
+
+2.
+                        
+                            
+                                Il ruolo dei piloti di aeromobile e' articolato in nove qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pilota di aeromobile vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pilota di aeromobile vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pilota di aeromobile vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pilota di aeromobile capo squadra; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    pilota di aeromobile capo squadra esperto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    pilota di aeromobile capo reparto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    pilota di aeromobile ispettore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    pilota di aeromobile ispettore esperto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    pilota di aeromobile ispettore coordinatore.
+
+3.
+                        
+                            
+                                Il ruolo degli specialisti di aeromobile e' articolato in nove qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    specialista di aeromobile vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specialista di aeromobile vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specialista di aeromobile vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    specialista di aeromobile capo squadra; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    specialista di aeromobile capo squadra esperto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    specialista di aeromobile capo reparto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    specialista di aeromobile ispettore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    specialista di aeromobile ispettore esperto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    specialista di aeromobile ispettore coordinatore.
+
+4.
+                        
+                            
+                                Il ruolo degli elisoccorritori e' articolato in nove qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elisoccorritore vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elisoccorritore vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elisoccorritore vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elisoccorritore capo squadra; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    elisoccorritore capo squadra esperto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    elisoccorritore capo reparto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    elisoccorritore ispettore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    elisoccorritore ispettore esperto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    elisoccorritore ispettore coordinatore.
 
 Il personale dei ruoli delle specialita' aeronaviganti presta servizio presso i reparti volo e puo' essere impiegato presso gli uffici del servizio aereo della direzione centrale per l'emergenza, il soccorso tecnico e l'antincendio boschivo del Dipartimento.
 
@@ -626,6 +1190,59 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 
 ((
 
+1.
+                        
+                            
+                                Qualora ad esito delle procedure selettive interne di cui all'articolo 32, commi 1 e 2, risultino posti vacanti, l'accesso alla qualifica iniziale del ruolo dei piloti di aeromobile puo' avvenire mediante concorso pubblico per titoli ed esami. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica al servizio operativo, nel rispetto dei parametri fisici stabiliti dalla normativa vigente per il reclutamento nelle forze armate, nelle forze di polizia a ordinamento militare e civile e nel Corpo nazionale, nonche' idoneita' psichica e attitudinale al servizio operativo, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria di secondo grado; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    licenza rilasciata ai sensi della normativa emanata dall'European Aviaton Safety Agency (EASA) di pilota commerciale o di linea, in corso di validita' per le specifiche categorie di aeromobile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
+
 Al concorso non sono ammessi coloro che siano stati destituiti dai pubblici uffici o espulsi dalle Forze armate e dai corpi militarmente organizzati o che abbiano riportato sentenza irrevocabile di condanna per delitto non colposo o che siano stati sottoposti a misura di prevenzione.
 
 I vincitori del concorso sono nominati piloti di aeromobile allievi vigili del fuoco. Ai medesimi si applicano, in quanto compatibili, gli istituti giuridici ed economici previsti per il personale in prova.
@@ -646,6 +1263,59 @@ I piloti di aeromobile allievi vigili del fuoco in prova sono ammessi a ripetere
 ## Art. 34. — (( (Concorso pubblico per l'accesso alla qualifica di specialista di aeromobile vigile del fuoco). ))
 
 ((
+
+1.
+                        
+                            
+                                Qualora ad esito delle procedure selettive interne di cui all'articolo 32, commi 5 e 6, risultino posti vacanti, l'accesso alla qualifica iniziale del ruolo degli specialisti di aeromobile puo' avvenire mediante concorso pubblico per titoli ed esami. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica al servizio operativo, nel rispetto dei parametri fisici stabiliti dalla normativa vigente per il reclutamento nelle forze armate, nelle forze di polizia a ordinamento militare e civile e nel Corpo nazionale, nonche' idoneita' psichica e attitudinale al servizio operativo, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria di secondo grado; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    licenza di manutenzione aeronautica (LMA) rilasciata ai sensi della normativa emanata dall'European Aviaton Safety Agency (EASA), in corso di validita' per le specifiche categorie di aeromobile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Al concorso non sono ammessi coloro che siano stati destituiti dai pubblici uffici o espulsi dalle Forze armate e dai corpi militarmente organizzati o che abbiano riportato sentenza irrevocabile di condanna per delitto non colposo o che siano stati sottoposti a misura di prevenzione.
 
@@ -844,6 +1514,232 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 
 ((
 
+1.
+                        
+                            
+                                Le specialita' nautiche e dei sommozzatori sono articolate nei seguenti ruoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo dei nautici di coperta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei nautici di macchina; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo dei sommozzatori.
+
+2.
+                        
+                            
+                                Il ruolo dei nautici di coperta e' articolato in nove qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nautico di coperta vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nautico di coperta vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nautico di coperta vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nautico di coperta capo squadra; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nautico di coperta capo squadra esperto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nautico di coperta capo reparto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nautico di coperta ispettore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nautico di coperta ispettore esperto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    nautico di coperta ispettore coordinatore.
+
+3.
+                        
+                            
+                                Il ruolo degli nautici di macchina e' articolato in nove qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nautico di macchina vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nautico di macchina vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nautico di macchina vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nautico di macchina capo squadra; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nautico di macchina capo squadra esperto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nautico di macchina capo reparto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nautico di macchina ispettore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nautico di macchina ispettore esperto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    nautico di macchina ispettore coordinatore.
+
+4.
+                        
+                            
+                                Il ruolo dei sommozzatori e' articolato in nove qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sommozzatore vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sommozzatore vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sommozzatore vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sommozzatore capo squadra; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sommozzatore capo squadra esperto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sommozzatore capo reparto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sommozzatore ispettore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sommozzatore ispettore esperto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    sommozzatore ispettore coordinatore.
+
 Il personale dei ruoli dei nautici di coperta e dei nautici di macchina presta servizio nei nuclei nautici presso i distaccamenti portuali; il personale del ruolo dei sommozzatori presta servizio presso i nuclei sommozzatori. Il personale dei ruoli delle specialita' nautiche e dei sommozzatori puo' essere impiegato presso gli uffici del servizio nautico e del servizio sommozzatori della direzione centrale per l'emergenza, il soccorso tecnico e l'antincendio boschivo del Dipartimento.
 
 Al fine di assicurare la piena operativita' dei nuclei nautici e dei nuclei sommozzatori, la ripartizione territoriale delle dotazioni organiche del personale appartenente ai ruoli di cui al presente articolo, disposta ai sensi dell'articolo 241, comma 1, tiene conto delle diverse tipologie di brevetti e abilitazioni possedute dal medesimo personale, individuate con decreto del capo del Dipartimento.
@@ -908,6 +1804,59 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 
 ((
 
+1.
+                        
+                            
+                                Qualora ad esito delle procedure selettive interne di cui all'articolo 49, commi 1 e 2, risultino posti vacanti, l'accesso alle qualifiche iniziali dei ruoli dei nautici di coperta e dei nautici di macchina, puo' avvenire mediante concorso pubblico per titoli ed esami. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica al servizio operativo, nel rispetto dei parametri fisici stabiliti dalla normativa vigente per il reclutamento nelle forze armate, nelle forze di polizia a ordinamento militare e civile e nel Corpo nazionale, nonche' idoneita' psichica e attitudinale al servizio operativo, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria di secondo grado; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    titoli professionali marittimi individuati con decreto del capo del Dipartimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
+
 Ai concorsi non sono ammessi coloro che siano stati destituiti dai pubblici uffici o espulsi dalle Forze armate e dai corpi militarmente organizzati o che abbiano riportato sentenza irrevocabile di condanna per delitto non colposo o che siano stati sottoposti a misura di prevenzione.
 
 I vincitori dei concorsi sono nominati nautici di coperta allievi vigili del fuoco e nautici di macchina allievi vigili del fuoco. Ai medesimi si applicano, in quanto compatibili, gli istituti giuridici ed economici previsti per il personale in prova.
@@ -950,6 +1899,59 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 ## Art. 52. — (( (Concorso pubblico per l'accesso alla qualifica di sommozzatore vigile del fuoco). ))
 
 ((
+
+1.
+                        
+                            
+                                Qualora ad esito della procedura selettiva interna di cui all'articolo 51, risultino posti vacanti, l'accesso qualifica iniziale del ruolo dei sommozzatori puo' avvenire mediante concorso pubblico per titoli ed esami. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica al servizio operativo, nel rispetto dei parametri fisici stabiliti dalla normativa vigente per il reclutamento nelle forze armate, nelle forze di polizia a ordinamento militare e civile e nel Corpo nazionale, nonche' idoneita' psichica e attitudinale al servizio operativo, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria di secondo grado; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    titoli professionali di sommozzatore professionista o perito tecnico addetto ai lavori subacquei individuati con decreto del capo del Dipartimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Al concorso non sono ammessi coloro che siano stati destituiti dai pubblici uffici o espulsi dalle Forze armate e dai corpi militarmente organizzati o che abbiano riportato sentenza irrevocabile di condanna per delitto non colposo o che siano stati sottoposti a misura di prevenzione.
 
@@ -1213,7 +2215,46 @@ non dirigente). ))  ((Sezione I)) (( (Istituzione dei ruoli tecnico-professional
 
 ## Art. 68. — (Istituzione dei ruoli)
 
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli tecnico-professionali del personale del Corpo nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo degli operatori e degli assistenti; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo degli ispettori logistico-gestionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo degli ispettori informatici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ruolo degli ispettori tecnico-scientifici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ruolo degli ispettori sanitari.
+
+((Per l'accesso ai ruoli di cui alle lettere b), c) e d) del comma 1, il diploma di istruzione secondaria di secondo grado deve essere conseguito entro la data di svolgimento della prima prova, anche preselettiva, della procedura concorsuale)).
 
 Il personale appartenente ai ruoli di cui al comma 1 svolge le funzioni proprie della qualifica di appartenenza anche a integrazione delle attivita' svolte dalle strutture operative sia ordinariamente sia nei casi di calamita' pubbliche o in altre situazioni di emergenza.
 
@@ -1265,6 +2306,52 @@ Il personale con la qualifica di assistente partecipa e sovrintende alle attivit
 ## Art. 71. — (( (Accesso al ruolo degli operatori e degli assistenti). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di operatore avviene mediante selezione tra i cittadini italiani inseriti nell'elenco anagrafico presso il centro per l'impiego che siano in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titolo di studio della scuola dell'obbligo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per l'accesso all'impiego nella pubblica amministrazione.
 
 Alla selezione non sono ammessi coloro che siano stati destituiti dai pubblici uffici o espulsi dalle Forze armate e dai corpi militarmente organizzati o che abbiano riportato sentenza irrevocabile di condanna per delitto non colposo ovvero che siano stati sottoposti a misura di prevenzione.
 
@@ -1367,6 +2454,24 @@ Il personale appartenente al ruolo degli ispettori logistico-gestionali svolge, 
 
 ((
 
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore logistico-gestionale avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso pubblico per esami, consistenti in due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso interno per titoli ed esami, consistenti in una prova scritta e una prova orale, riservato al personale appartenente al ruolo degli operatori e degli assistenti che abbia maturato almeno sette anni di effettivo servizio.
+
 Nella procedura di cui al comma 1, lettera a), e' prevista una riserva, pari a un sesto dei posti messi a concorso, per il personale appartenente al ruolo degli operatori e degli assistenti in possesso dei requisiti di cui all'articolo 79, ad esclusione dei limiti di eta'. Nella medesima procedura e', altresi', prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti dall'articolo 79. I posti riservati non coperti sono conferiti agli altri concorrenti, seguendo l'ordine della graduatoria di merito.
 
 Non e' ammesso al concorso interno di cui al comma 1, lettera b), e a fruire della riserva nel concorso pubblico di cui al comma 1, lettera a), il personale che abbia riportato, nel triennio precedente la data di scadenza del termine per la presentazione della domanda di partecipazione al concorso, una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Non e', altresi', ammesso ai concorsi il personale che abbia riportato sentenza irrevocabile di condanna per delitto non colposo ovvero che sia stato sottoposto a misura di prevenzione.
@@ -1391,6 +2496,52 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 ## Art. 79. — (( (Concorso pubblico per l'accesso alla qualifica di ispettore logistico-gestionale). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore logistico-gestionale, ai sensi dell'articolo 78, comma 1, lettera a), avviene mediante concorso pubblico al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria di secondo grado; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Con decreto del Ministro dell'interno sono individuate le tipologie del titolo di studio di cui al comma 1, lettera d), richieste per la partecipazione al concorso.
 
@@ -1434,6 +2585,59 @@ Il personale gia' appartenente ai ruoli del Corpo nazionale, che non supera il p
 
 ((
 
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 80 gli ispettori logistico-gestionali in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al termine del corso di formazione e del tirocinio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 80, comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere f) e g); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso gli ispettori logistico-gestionali in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori logistico-gestionali in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
+
 Sono espulsi dal corso di formazione e dal tirocinio gli ispettori logistico-gestionali in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
 I provvedimenti di dimissione e di espulsione sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -1471,6 +2675,52 @@ Con decreto del capo del Dipartimento sono stabiliti le modalita' di svolgimento
 ## Art. 83. — (( (Dimissioni ed espulsione dal corso di formazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione di cui all'articolo 82 gli ispettori logistico-gestionali in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano il giudizio di idoneita' al termine del corso di formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso per piu' di quindici giorni, anche non consecutivi, salvi i casi di cui alle lettere e) ed f); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso ovvero sia stata riconosciuta dipendente da causa di servizio. In tale caso gli ispettori logistico-gestionali in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori logistico-gestionali in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 Sono espulsi dal corso di formazione gli ispettori logistico-gestionali in prova responsabili di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -1557,6 +2807,24 @@ Il personale appartenente al ruolo degli ispettori informatici svolge, nell'ambi
 
 ((
 
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore informatico avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso pubblico per esami, consistenti in due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso interno per titoli ed esami, consistenti in una prova scritta e una prova orale, riservato al personale appartenente al ruolo degli operatori e degli assistenti che abbia maturato sette anni di effettivo servizio.
+
 Nella procedura di cui al comma 1, lettera a), e' prevista una riserva, pari a un sesto dei posti messi a concorso, per il personale appartenente al ruolo degli operatori e degli assistenti in possesso dei requisiti di cui all'articolo 91, ad esclusione dei limiti di eta'. Nella medesima procedura e', altresi', prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti dall'articolo 91. I posti riservati non coperti sono conferiti agli altri concorrenti, seguendo l'ordine della graduatoria di merito.
 
 Non e' ammesso al concorso interno di cui al comma 1, lettera b), e a fruire della riserva nel concorso pubblico di cui al comma 1, lettera a), il personale che abbia riportato, nel triennio precedente la data di scadenza del termine per la presentazione della domanda di partecipazione al concorso, una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Non e', altresi', ammesso ai concorsi il personale che abbia riportato sentenza irrevocabile di condanna per delitto non colposo ovvero che sia stato sottoposto a misura di prevenzione.
@@ -1581,6 +2849,52 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 ## Art. 91. — (( (Concorso pubblico per l'accesso alla qualifica di ispettore informatico). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore informatico, ai sensi dell'articolo 90, comma 1, lettera a), avviene mediante concorso pubblico al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria di secondo grado ad indirizzo informatico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Con decreto del Ministro dell'interno sono individuate le tipologie del titolo di studio di cui al comma 1, lettera d), richieste per la partecipazione al concorso.
 
@@ -1625,6 +2939,59 @@ Il personale gia' appartenente ai ruoli del Corpo nazionale, che non supera il p
 
 ((
 
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 92 gli ispettori informatici in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al termine del corso di formazione e del tirocinio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 92, comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere f) e g); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso gli ispettori informatici in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori informatici in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
+
 Sono espulsi dal corso di formazione e dal tirocinio gli ispettori informatici in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
 I provvedimenti di dimissione e di espulsione sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -1662,6 +3029,52 @@ Con decreto del capo del dipartimento sono stabiliti le modalita' di svolgimento
 ## Art. 95. — (( (Dimissioni ed espulsione dal corso di formazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione di cui all'articolo 94 gli ispettori informatici in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al termine del corso di formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso per piu' di quindici giorni, anche non consecutivi, salvi i casi di cui alle lettere e) ed f); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso ovvero sia stata riconosciuta dipendente da causa di servizio. In tale caso gli ispettori informatici in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori informatici in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 Sono espulsi dal corso di formazione gli ispettori informatici in prova responsabili di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -1749,6 +3162,24 @@ Il personale appartenente al ruolo degli ispettori tecnico-scientifici svolge, i
 
 ((
 
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore tecnico-scientifico avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso pubblico per esami, consistenti in due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso interno per titoli ed esami, consistenti in una prova scritta e una prova orale, riservato al personale appartenente al ruolo degli operatori e degli assistenti che abbia maturato almeno sette anni di effettivo servizio.
+
 Nella procedura di cui al comma 1, lettera a), e' prevista una riserva, pari a un sesto dei posti messi a concorso, per gli appartenenti al ruolo degli operatori e degli assistenti in possesso dei requisiti di cui all'articolo 103, ad esclusione dei limiti di eta'. Nella medesima procedura e', altresi', prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti dall'articolo 103. I posti riservati non coperti sono conferiti agli altri concorrenti, seguendo l'ordine della graduatoria di merito.
 
 Non e' ammesso al concorso interno di cui al comma 1, lettera b), e a fruire della riserva nel concorso pubblico di cui al comma 1, lettera a), il personale che abbia riportato, nel triennio precedente la data di scadenza del termine per la presentazione della domanda di partecipazione al concorso, una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Non e', altresi', ammesso ai concorsi il personale che abbia riportato sentenza irrevocabile di condanna per delitto non colposo ovvero che sia stato sottoposto a misura di prevenzione.
@@ -1773,6 +3204,52 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 ## Art. 103. — (( (Concorso pubblico per l'accesso alla qualifica di ispettore tecnico-scientifico). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore tecnico-scientifico, ai sensi dell'articolo 102, comma 1, lettera a), avviene mediante concorso pubblico al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di istruzione secondaria di secondo grado ad indirizzo tecnico-scientifico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Con decreto del Ministro dell'interno sono individuate le tipologie del titolo di studio di cui al comma 1, lettera d), richieste per la partecipazione al concorso.
 
@@ -1799,6 +3276,59 @@ Al concorso non sono ammessi coloro che siano stati destituiti dai pubblici uffi
 ## Art. 105. — (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 104 gli ispettori tecnico-scientifici in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al termine del corso di formazione e del tirocinio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 104, comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere f) e g); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso gli ispettori tecnico-scientifici in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori tecnico-scientifici in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
 
 Sono espulsi dal corso di formazione e dal tirocinio gli ispettori tecnico-scientifici in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -1837,6 +3367,52 @@ Con decreto del capo del Dipartimento sono stabiliti le modalita' di svolgimento
 ## Art. 107. — (( (Dimissioni ed espulsione dal corso di formazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione di cui all'articolo 106 gli ispettori tecnico-scientifici in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano il giudizio di idoneita' al termine del corso di formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso per piu' di quindici giorni, anche non consecutivi, salvi i casi di cui alle lettere e) ed f); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso ovvero sia stata riconosciuta dipendente da causa di servizio. In tale caso gli ispettori tecnico-scientifici in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori tecnico-scientifici in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 Sono espulsi dal corso di formazione gli ispettori tecnico-scientifici in prova responsabili di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -1924,6 +3500,24 @@ Il personale appartenente al ruolo degli ispettori sanitari svolge, nell'ambito 
 
 ((
 
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore sanitario avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso pubblico per esami, consistenti in due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del 50 per cento dei posti disponibili, mediante concorso interno per titoli ed esami, consistenti in una prova scritta e una prova orale, riservato al personale appartenente al ruolo degli operatori e degli assistenti che abbia maturato almeno sette anni di effettivo servizio.
+
 Nella procedura di cui al comma 1, lettera a), e' prevista una riserva, pari a un sesto dei posti messi a concorso, per gli appartenenti al ruolo degli operatori e degli assistenti in possesso dei requisiti di cui all'articolo 115, ad eccezione dei limiti di eta'. Nella medesima procedura e', altresi', prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti dall'articolo 115. I posti riservati non coperti sono conferiti agli altri concorrenti, seguendo l'ordine della graduatoria di merito.
 
 Non e' ammesso al concorso interno di cui al comma 1, lettera b), e a fruire della riserva nel concorso pubblico di cui al comma 1, lettera a), il personale che abbia riportato, nel triennio precedente la data di scadenza del termine per la presentazione della domanda di partecipazione al concorso, una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Non e', altresi', ammesso ai concorsi il personale che abbia riportato sentenza irrevocabile di condanna per delitto non colposo ovvero che sia stato sottoposto a misura di prevenzione.
@@ -1948,6 +3542,60 @@ Con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17
 ## Art. 115. — (( Concorso pubblico per l'accesso alla qualifica di ispettore sanitario). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di ispettore sanitario, ai sensi dell'articolo 114, comma 1, lettera a), avviene mediante concorso pubblico al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    laurea ad indirizzo sanitario, ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e del decreto del Ministro dell'universita' e della ricerca del 16 marzo 2007, pubblicato nella Gazzetta Ufficiale del 6 luglio 2007, n. 155, di determinazione delle classi di laurea.
+Sono fatte salve, ai fini dell'ammissione al concorso, le lauree universitarie ad indirizzo sanitario conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca di concerto con il Ministro per la pubblica amministrazione e l'innovazione del 9 luglio 2009 di equiparazione tra classi delle lauree di cui all'ex decreto n. 509/1999 e classi delle lauree di cui all'ex decreto n. 270/2004, ai fini della partecipazione ai pubblici concorsi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    abilitazione all'esercizio professionale e iscrizione al relativo albo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Con decreto del Ministro dell'interno sono individuate le classi di laurea ad indirizzo sanitario di cui al comma 1, lettera d), richieste per la partecipazione al concorso.
 
@@ -1991,6 +3639,59 @@ Il personale gia' appartenente ai ruoli del Corpo nazionale, che non supera il p
 
 ((
 
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 116, gli ispettori sanitari in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano il giudizio di idoneita' al termine del corso di formazione e del tirocinio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 116, comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere f) e g); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso gli ispettori sanitari in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori sanitari in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
+
 Sono espulsi dal corso di formazione e dal tirocinio gli ispettori sanitari in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
 I provvedimenti di dimissione e di espulsione sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -2028,6 +3729,52 @@ Con decreto del capo del Dipartimento sono stabiliti le modalita' di svolgimento
 ## Art. 119. — (( (Dimissioni ed espulsione dal corso di formazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione di cui all'articolo 118 gli ispettori sanitari in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano il giudizio di idoneita' al termine del corso di formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso per piu' di quindici giorni, anche non consecutivi, salvi i casi di cui alle lettere e) ed f); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso ovvero sia stata riconosciuta dipendente da causa di servizio. In tale caso gli ispettori sanitari in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso gli ispettori sanitari in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 Sono espulsi dal corso di formazione gli ispettori sanitari in prova responsabili di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -2089,6 +3836,24 @@ dirigente). ))  ((Sezione I)) (( (Ruoli della banda musicale). ))
 
 La banda musicale e' un complesso organico che rappresenta il Corpo nazionale ed e' composta da orchestrali e da un maestro direttore, secondo la composizione indicata nel decreto del capo del Dipartimento di cui all'articolo 125, comma 5.
 
+2.
+                        
+                            
+                                Sono istituiti i seguenti ruoli della banda musicale del Corpo nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo degli orchestrali, articolato nelle qualifiche di orchestrale, orchestrale esperto e orchestrale superiore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo del maestro direttore, articolato nell'unica qualifica di maestro direttore.
+
 3. La dotazione organica dei ruoli di cui al comma 1 e' fissata nella tabella A allegata al presente decreto.))
 
 ((12))
@@ -2122,6 +3887,52 @@ Il maestro direttore coordina le attivita' della banda musicale ed esercita le f
 ## Art. 126. — (( (Accesso ai ruoli della banda musicale). ))
 
 ((
+
+1.
+                        
+                            
+                                L'assunzione del personale da destinare al ruolo degli orchestrali e al ruolo del maestro direttore della banda musicale del Corpo nazionale avviene, nei limiti delle carenze organiche dei rispettivi ruoli, mediante concorso pubblico per titoli musicali, culturali ed esami, riservato ai cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma accademico di primo livello nello specifico strumento, da individuarsi con decreto del Ministro dell'interno, conseguito al termine del percorso formativo presso gli Istituti superiori di studi musicali e coreutici di cui alla legge 24 dicembre 1999, n. 508. Ai fini dell'ammissione al concorso si applica il sistema di equipollenze, tra titoli di studio rilasciati ai sensi della predetta legge e i titoli di studio universitari, delineato con la legge 24 dicembre 2012, n. 228. Sono, altresi', fatti salvi, ai fini dell'ammissione al concorso, i diplomi finali rilasciati dagli Istituti superiori di studi musicali e coreutici al termine dei percorsi formativi del previgente ordinamento, conseguiti anteriormente all'entrata in vigore della legge 24 dicembre 1999, n. 508, e congiuntamente al possesso di un diploma di istruzione secondaria di secondo grado; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Nelle procedure concorsuali di cui al comma 1 e' prevista una riserva, pari al 30 per cento dei posti messi a concorso, per il personale di ruolo del Corpo nazionale, che sia in possesso dei requisiti previsti per l'accesso ai ruoli degli orchestrali e del maestro direttore. E', altresi', prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti per l'accesso ai ruoli degli orchestrali e del maestro direttore. I posti riservati non coperti sono conferiti agli altri concorrenti seguendo l'ordine della graduatoria di merito.
 
@@ -2216,6 +4027,52 @@ Il gruppo sportivo vigili del fuoco Fiamme Rosse ha sede centrale a Roma e si ar
 ## Art. 131. — (( (Accesso al ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse). ))
 
 ((
+
+1.
+                        
+                            
+                                L'assunzione del personale da destinare al ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse avviene, nei limiti delle carenze organiche, mediante concorso pubblico per titoli sportivi e culturali, riservato ai cittadini italiani che siano riconosciuti atleti di interesse nazionale dal Comitato olimpico nazionale italiano (CONI) o dalle federazioni sportive nazionali, che detengano almeno uno dei titoli sportivi ammessi a valutazione e che siano in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titolo di studio della scuola dell'obbligo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Nella procedura concorsuale di cui al comma 1 e' prevista una riserva, pari al 30 per cento dei posti messi a concorso, per il personale di ruolo del Corpo nazionale, che sia in possesso dei requisiti previsti per l'accesso alla qualifica di atleta. E', altresi', prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale, che alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti per l'accesso alla qualifica di atleta. I posti riservati non coperti sono conferiti agli altri concorrenti seguendo l'ordine della graduatoria di merito.
 
@@ -2342,6 +4199,122 @@ La disciplina derivante dal procedimento negoziale di cui al comma 1 ha durata t
 
 ((
 
+1.
+                        
+                            
+                                Formano oggetto del procedimento negoziale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il trattamento economico fondamentale e accessorio, ivi compreso quello di lavoro straordinario, secondo parametri appositamente definiti in tale sede che ne assicurino, nell'ambito delle risorse stanziate dalle leggi finanziarie per corrispondere i miglioramenti retributivi al personale statale di diritto pubblico, sviluppi omogenei e proporzionati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il trattamento economico di missione e di trasferimento e i buoni pasto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il trattamento di fine rapporto e le forme pensionistiche complementari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la durata massima dell'orario di lavoro settimanale, i criteri di articolazione dell'orario di lavoro giornaliero e settimanale, dei turni diurni e notturni e delle turnazioni particolari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i criteri per la mobilita' a domanda; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le linee di indirizzo di impiego del personale in attivita' atipiche; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la reperibilita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il congedo ordinario e straordinario; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'aspettativa per motivi di salute e di famiglia; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i permessi brevi per esigenze personali; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il patrocinio legale e la tutela assicurativa; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le linee di indirizzo per la formazione e l'aggiornamento professionale, per la garanzia e il miglioramento della sicurezza sul lavoro e per la gestione delle attivita' socio-assistenziali del personale; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    gli istituti e le materie di partecipazione sindacale; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    le procedure di raffreddamento dei conflitti; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    le aspettative, i distacchi e i permessi sindacali; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    la struttura degli accordi negoziali e i rapporti tra i diversi livelli.
+
 2. I distacchi e i permessi sindacali spettanti alle organizzazioni sindacali rappresentative del comparto di cui all'articolo 136 possono essere utilizzati, ad eccezione dei dirigenti, dalle medesime organizzazioni sindacali rappresentative del comparto di cui all'articolo 226, nei limiti spettanti ad invarianza di costi per l'amministrazione.))
 
 ((12))
@@ -2401,6 +4374,74 @@ e dei dirigenti che espletano funzioni operative).))
 
 ((
 
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli dei direttivi e dei dirigenti che espletano funzioni operative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo dei direttivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei dirigenti.
+
+2.
+                        
+                            
+                                Il ruolo dei direttivi e' articolato in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice direttore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direttore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direttore vicedirigente.
+
+3.
+                        
+                            
+                                Il ruolo dei dirigenti e' articolato in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    primo dirigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dirigente superiore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dirigente generale.
+
 La sovraordinazione funzionale fra gli appartenenti ai ruoli di cui al presente articolo e' determinata come segue: dirigenti generali, dirigenti superiori, primi dirigenti e direttivi. Al capo del Corpo nazionale e' riconosciuta, altresi', una posizione di sovraordinazione funzionale nei confronti dei dirigenti generali del Corpo.
 
 5. La dotazione organica dei ruoli dei direttivi e dei dirigenti e' fissata nella tabella A allegata al presente decreto.))
@@ -2434,6 +4475,66 @@ I primi dirigenti e i dirigenti superiori, nell'espletamento degli incarichi ris
 ## Art. 143. — (( (Accesso al ruolo dei direttivi che espletano funzioni operative). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di vice direttore avviene mediante concorso pubblico, per esami, consistenti in almeno due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica al servizio operativo, nel rispetto dei parametri fisici stabiliti dalla normativa vigente per il reclutamento nelle forze armate, nelle forze di polizia a ordinamento militare e civile e nel Corpo nazionale, nonche' idoneita' psichica e attitudinale al servizio operativo, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    laurea magistrale in ingegneria o architettura, conseguita al termine di un corso di laurea magistrale ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e del decreto del Ministro dell'universita' e della ricerca del 16 marzo 2007, pubblicato nella Gazzetta Ufficiale del 9 luglio 2007, n. 157, di determinazione delle classi di laurea magistrale. Sono fatte salve, ai fini dell'ammissione al concorso, le lauree universitarie in ingegneria e architettura conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca di concerto con il Ministro per la pubblica amministrazione e l'innovazione del 9 luglio 2009 di equiparazione tra diplomi di lauree di vecchio ordinamento, lauree specialistiche (LS) ex decreto n. 509/1999 e lauree magistrali (LM) ex decreto n. 270/2004, ai fini della partecipazione ai pubblici concorsi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    abilitazione professionale attinente ai titoli di studio di cui alla lettera d); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    diplomi di specializzazione, qualora, in relazione a particolari esigenze dell'amministrazione, sia richiesto nel bando di concorso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Il 25 per cento dei posti messi a concorso e' riservato al personale del Corpo nazionale in possesso, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, della laurea magistrale, dei titoli abilitativi e degli altri requisiti di cui al comma 1, ad esclusione dei limiti di eta'. E' ammesso a fruire della riserva il personale che, nell'ultimo triennio, non abbia riportato una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Nella procedura e' altresi' prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti per l'accesso alla qualifica di vice direttore. I posti riservati, non coperti per mancanza di vincitori, sono conferiti, secondo l'ordine della graduatoria, ai partecipanti al concorso risultati idonei.
 
@@ -2491,6 +4592,66 @@ Ai partecipanti al corso di formazione provenienti dagli altri ruoli del Corpo n
 ## Art. 145. — (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 144 i vice direttori in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al tirocinio e ai servizi di istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 144, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non conseguano nei tempi stabiliti tutti gli obiettivi formativi previsti dal programma del corso di formazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di sessanta giorni, anche non consecutivi, salvi i casi di cui alle lettere g) e h); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cento giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso i vice direttori in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cento giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso i vice direttori in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
 
 Sono espulsi dal corso di formazione e dal tirocinio i vice direttori in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -2618,6 +4779,49 @@ logistico-gestionali). ))
 
 ((
 
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli dei direttivi e dei dirigenti logistico-gestionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo dei direttivi logistico-gestionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei dirigenti logistico-gestionali.
+
+2.
+                        
+                            
+                                Il ruolo dei direttivi logistico-gestionali e' articolato in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice direttore logistico-gestionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direttore logistico-gestionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direttore vicedirigente logistico-gestionale.
+
 Il ruolo dei dirigenti logistico-gestionali e' costituito dalla qualifica di primo dirigente logistico-gestionale.
 
 La sovraordinazione funzionale fra gli appartenenti ai ruoli di cui al presente articolo e' determinata come segue: primo dirigente logistico-gestionale, direttivi logistico-gestionali.
@@ -2653,6 +4857,52 @@ Il personale del ruolo dei direttivi logistico-gestionali esercita le funzioni d
 ## Art. 155. — (( (Accesso al ruolo dei direttivi logistico-gestionali). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di vice direttore logistico-gestionale avviene mediante concorso pubblico per esami, consistenti in almeno due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    laurea magistrale a indirizzo giuridico ed economico, tra quelle indicate nel decreto del Ministro dell'interno di cui al comma 2, conseguita al termine di un corso di laurea magistrale ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e del decreto del Ministro dell'universita' e della ricerca del 16 marzo 2007, pubblicato nella Gazzetta Ufficiale del 9 luglio 2007, n. 157, di determinazione delle classi di laurea magistrale. Sono fatte salve, ai fini dell'ammissione al concorso, le lauree universitarie a indirizzo giuridico ed economico conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca di concerto con il Ministro per la pubblica amministrazione e l'innovazione del 9 luglio 2009 di equiparazione tra diplomi di lauree di vecchio ordinamento, lauree specialistiche (LS) ex decreto n. 509/1999 e lauree magistrali (LM) ex decreto n. 270/2004, ai fini della partecipazione ai pubblici concorsi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Con decreto del Ministro dell'interno sono individuate le classi di laurea magistrale ad indirizzo giuridico ed economico prescritte per l'ammissione al concorso di cui al comma 1.
 
@@ -2701,6 +4951,66 @@ L'assegnazione di cui al comma 6 e' effettuata in relazione alla scelta manifest
 ## Art. 157. — (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 156 i vice direttori logistico-gestionali in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al tirocinio e ai servizi di istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 156, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non conseguano nei tempi stabiliti tutti gli obiettivi formativi previsti dal programma del corso di formazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere g) e h); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso i vice direttori logistico-gestionali in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso i vice direttori logistico-gestionali in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
 
 Sono espulsi dal corso di formazione e dal tirocinio i vice direttori logistico-gestionali in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -2773,6 +5083,49 @@ Il corso di formazione dirigenziale si svolge presso l'Istituto superiore antinc
 
 ((
 
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli dei direttivi e dei dirigenti informatici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo dei direttivi informatici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei dirigenti informatici.
+
+2.
+                        
+                            
+                                Il ruolo dei direttivi informatici e' articolato in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice direttore informatico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direttore informatico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direttore vicedirigente informatico.
+
 Il ruolo dei dirigenti informatici e' costituito dalla qualifica di primo dirigente informatico.
 
 La sovraordinazione funzionale fra gli appartenenti ai ruoli di cui al presente articolo e' determinata come segue: primo dirigente informatico, direttivi informatici.
@@ -2808,6 +5161,52 @@ Il personale del ruolo dei direttivi informatici esercita le funzioni di cui al 
 ## Art. 164. — (( (Accesso al ruolo dei direttivi informatici).))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di vice direttore informatico avviene mediante concorso pubblico per esami, consistenti in almeno due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    laurea magistrale ad indirizzo informatico, tra quelle indicate nel decreto del Ministro dell'interno di cui al comma 2, conseguita al termine di un corso di laurea magistrale ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e del decreto del Ministro dell'universita' e della ricerca del 16 marzo 2007, pubblicato nella Gazzetta Ufficiale del 9 luglio 2007, n. 157, di determinazione delle classi di laurea magistrale. Sono fatte salve, ai fini dell'ammissione al concorso, le lauree universitarie ad indirizzo informatico conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca di concerto con il Ministro per la pubblica amministrazione e l'innovazione del 9 luglio 2009 di equiparazione tra diplomi di lauree di vecchio ordinamento, lauree specialistiche (LS) ex decreto n. 509/1999 e lauree magistrali (LM) ex decreto n. 270/2004, ai fini della partecipazione ai pubblici concorsi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Con decreto del Ministro dell'interno sono individuate le classi di laurea magistrale ad indirizzo informatico prescritte per l'ammissione al concorso di cui al comma 1.
 
@@ -2856,6 +5255,66 @@ L'assegnazione di cui al comma 6 e' effettuata in relazione alla scelta manifest
 ## Art. 166. — (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 165 i vice direttori informatici in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al tirocinio e ai servizi di istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 165, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non conseguano nei tempi stabiliti tutti gli obiettivi formativi previsti dal programma del corso di formazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere g) e h); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso i vice direttori informatici in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso i vice direttori informatici in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
 
 Sono espulsi dal corso di formazione e dal tirocinio i vice direttori informatici in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -2936,6 +5395,31 @@ Il corso di formazione dirigenziale si svolge presso l'Istituto superiore antinc
 
 ((
 
+1.
+                        
+                            
+                                E' istituito il ruolo dei direttivi tecnico-scientifici, articolato in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice direttore tecnico-scientifico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direttore tecnico-scientifico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direttore vicedirigente tecnico-scientifico.
+
 La sovraordinazione funzionale fra gli appartenenti al ruolo di cui al presente articolo e' determinata come segue: direttore vicedirigente tecnico-scientifico, direttore tecnico-scientifico e vice direttore tecnico-scientifico.
 
 3. La dotazione organica del ruolo dei direttivi tecnico-scientifici e' fissata nella tabella A allegata al presente decreto.))
@@ -2967,6 +5451,52 @@ Il personale di cui al comma 1 svolge, anche in relazione alla qualificazione pr
 ## Art. 173. — (( (Accesso al ruolo dei direttivi tecnico-scientifici). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di vice direttore tecnico-scientifico avviene mediante concorso pubblico per esami, consistenti in almeno due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    laurea magistrale ad indirizzo tecnico e scientifico, tra quelle indicate nel decreto del Ministro dell'interno di cui al comma 2, conseguita al termine di un corso di laurea magistrale ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e del decreto del Ministro dell'universita' e della ricerca del 16 marzo 2007, pubblicato nella Gazzetta Ufficiale del 9 luglio 2007, n. 157, di determinazione delle classi di laurea magistrale. Sono fatte salve, ai fini dell'ammissione al concorso, le lauree universitarie ad indirizzo tecnico e scientifico conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca di concerto con il Ministro per la pubblica amministrazione e l'innovazione del 9 luglio 2009 di equiparazione tra diplomi di lauree di vecchio ordinamento, lauree specialistiche (LS) ex decreto n. 509/1999 e lauree magistrali (LM) ex decreto n. 270/2004, ai fini della partecipazione ai pubblici concorsi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Con decreto del Ministro dell'interno sono individuate le classi di laurea magistrale ad indirizzo tecnico e scientifico prescritte per l'ammissione al concorso di cui al comma 1.
 
@@ -3016,6 +5546,66 @@ L'assegnazione di cui al comma 6 e' effettuata in relazione alla scelta manifest
 
 ((
 
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 174 i vice direttori tecnico-scientifici in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al tirocinio e ai servizi di istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 174, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non conseguano nei tempi stabiliti tutti gli obiettivi formativi previsti dal programma del corso di formazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere g) e h); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso i vice direttori tecnico-scientifici in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso i vice direttori tecnico-scientifici in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
+
 Sono espulsi dal corso di formazione e dal tirocinio i vice direttori tecnico-scientifici in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
 I provvedimenti di dimissione e di espulsione sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -3059,6 +5649,67 @@ La promozione alla qualifica di direttore tecnico-scientifico e' conferita a ruo
 
 ((
 
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli dei direttivi e dei dirigenti sanitari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo dei direttivi sanitari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei dirigenti sanitari.
+
+2.
+                        
+                            
+                                Il ruolo dei direttivi sanitari e' articolato in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice direttore sanitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direttore sanitario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direttore vicedirigente sanitario.
+
+3.
+                        
+                            
+                                Il ruolo dei dirigenti sanitari e' articolato in due qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    primo dirigente sanitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dirigente superiore sanitario.
+
 La sovraordinazione funzionale fra gli appartenenti ai ruoli di cui al presente articolo e' determinata come segue: dirigente superiore sanitario, primi dirigenti sanitari e direttivi sanitari.
 
 5. La dotazione organica dei ruoli dei direttivi e dei dirigenti sanitari e' fissata nella tabella A allegata al presente decreto.))
@@ -3075,6 +5726,108 @@ La sovraordinazione funzionale fra gli appartenenti ai ruoli di cui al presente 
 ((
 
 Il personale appartenente ai ruoli dei direttivi e dei dirigenti sanitari di cui all'articolo 178, fermo restando quanto disposto dall'articolo 6, lettera z), della legge 23 dicembre 1978, n. 833, espleta le funzioni proprie della qualifica di appartenenza anche a integrazione delle attivita' svolte dalle strutture operative, sia ordinariamente sia nei casi di calamita' pubbliche o in altre situazioni di emergenza.
+
+2.
+                        
+                            
+                                Il personale di cui al comma 1 svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede all'accertamento dell'idoneita' psico-fisica dei candidati ai concorsi per l'accesso ai ruoli del personale del Corpo nazionale e alla verifica, anche collegiale, della persistenza dei requisiti psico-fisici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede all'assistenza sanitaria e di medicina preventiva del personale, inclusa la gestione del libretto individuale sanitario e di rischio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'ambito delle strutture dipendenti dal Ministero dell'interno, svolge attivita' di medico nel settore della medicina del lavoro e, dopo aver esercitato per almeno quattro anni tali attribuzioni, espleta, altresi', le attivita' di sorveglianza e vigilanza ai sensi dell'articolo 13, commi 1-bis e 3, del decreto legislativo 9 aprile 2008, n. 81, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'ambito delle strutture dipendenti dal Ministero dell'interno, svolge le funzioni di medico competente, dopo aver esercitato per almeno quattro anni le attivita' di medico nel settore della medicina del lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    provvede all'accertamento dell'idoneita' psico-fisica degli aspiranti all'abilitazione all'espletamento del servizio antincendi negli aeroporti non compresi nella tabella A allegata al decreto legislativo 8 marzo 2006, n. 139, e successive modificazioni, negli eliporti e nelle elisuperfici, nonche' alla verifica della persistenza dei requisiti psico-fisici per il personale che e' gia' in possesso dell'abilitazione stessa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rilascia certificazioni di idoneita' psico-fisica con le stesse attribuzioni degli ufficiali medici delle Forze armate; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    provvede all'istruttoria delle pratiche medico-legali del personale del Corpo nazionale e partecipa, con voto deliberativo, alle commissioni di cui all'articolo 6 del decreto del Presidente della Repubblica 29 ottobre 2001, n. 461, e di cui agli articoli 193, 194 e 198 del decreto legislativo 15 marzo 2010, n. 66, e successive modificazioni, allorche' vengono prese in esame pratiche relative al personale appartenente ai ruoli del Corpo nazionale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    fa parte delle commissioni mediche sanitarie di cui all'articolo 1-ter del decreto-legge 31 marzo 2005, n. 45, convertito, con modificazioni, dalla legge 31 maggio 2005, n. 89; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    svolge, in relazione alla professionalita' posseduta, compiti di gestione ed attuazione dell'attivita' di formazione del personale del Corpo nazionale e partecipa in qualita' di componente alle commissioni d'esame; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sovrintende all'attivita', svolta in sede locale, finalizzata alla preparazione del personale in materia di primo soccorso sanitario; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    fa parte delle commissioni mediche ospedaliere di cui al decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    svolge funzioni e compiti amministrativi connessi ai controlli sanitari dei dipendenti addetti e dei locali adibiti alla manipolazione e somministrazione di alimenti e bevande al personale del Corpo nazionale, da effettuare in collaborazione con le strutture sanitarie pubbliche territorialmente competenti; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    partecipa allo sviluppo e all'aggiornamento del settore sanitario del Corpo nazionale, anche attraverso forme di collaborazione con le strutture sanitarie della Polizia di Stato, delle Forze armate e con le altre amministrazioni o enti competenti; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    fa parte delle commissioni mediche locali di cui all'articolo 119, comma 4, del decreto legislativo 30 aprile 1992, n. 285, e di cui all'articolo 319 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495.
 
 Il personale appartenente al ruolo dei direttivi sanitari esercita le funzioni di cui al comma 2, partecipando all'attivita' del dirigente responsabile dell'ufficio cui e' assegnato e lo coadiuva per gli aspetti organizzativi, procedurali e di gestione generale; svolge funzioni di direzione di unita' organizzative nell'ambito dell'ufficio cui e' assegnato ed esercita, nel quadro degli indirizzi ricevuti e nell'ambito della specifica professionalita' posseduta, compiti di pianificazione, coordinamento e controllo delle attivita' del settore sanitario, con autonomia organizzativa e responsabilita' dei risultati conseguiti; svolge gli incarichi per i quali e' richiesta una specifica competenza professionale direttamente attinente al titolo di studio posseduto; nell'ambito dei settori di competenza, svolge attivita' di studio e di ricerca, elabora proposte e progetti particolareggiati e ne segue le fasi di sperimentazione, implementazione, verifica e controllo; partecipa alle procedure contrattuali per l'affidamento di lavori, servizi e forniture e alle procedure di acquisto, cooperando anche alle fasi di indagine di mercato e a quelle di collaudo; negli uffici cui e' preposto personale appartenente al ruolo dei dirigenti sanitari, il vice direttore sanitario, il direttore sanitario e il direttore vicedirigente sanitario partecipano all'attivita' del dirigente sanitario e lo sostituiscono in caso di assenza o impedimento.
 
@@ -3094,6 +5847,66 @@ Al personale appartenente ai ruoli dei direttivi e dei dirigenti sanitari non so
 ## Art. 180. — (( (Accesso al ruolo dei direttivi sanitari). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di vice direttore sanitario avviene mediante concorso pubblico per titoli ed esami, consistenti in almeno due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    laurea magistrale in medicina e chirurgia, conseguita al termine di un corso di laurea magistrale ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e del decreto del Ministro dell'universita' e della ricerca del 16 marzo 2007, pubblicato nella Gazzetta Ufficiale del 9 luglio 2007, n. 157, di determinazione delle classi di laurea magistrale. Sono fatte salve, ai fini dell'ammissione al concorso, le lauree universitarie in medicina e chirurgia conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca di concerto con il Ministro per la pubblica amministrazione e l'innovazione del 9 luglio 2009 di equiparazione tra diplomi di lauree di vecchio ordinamento, lauree specialistiche (LS) ex decreto n. 509/1999 e lauree magistrali (LM) ex decreto n. 270/2004, ai fini della partecipazione ai pubblici concorsi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    abilitazione all'esercizio professionale e iscrizione al relativo albo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    diplomi di specializzazione, qualora, in relazione a particolari esigenze dell'amministrazione, sia richiesto nel bando di concorso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Il 25 per cento dei posti messi a concorso e' riservato al personale del Corpo nazionale in possesso, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, della laurea magistrale, dei titoli abilitativi e degli altri requisiti di cui al comma 1, ad esclusione dei limiti di eta'. E' ammesso a fruire della riserva il personale che, nel triennio precedente, non abbia riportato una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Nella procedura e' altresi' prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti per l'accesso alla qualifica di vice direttore sanitario. I posti riservati, non coperti per mancanza di vincitori, sono conferiti, secondo l'ordine della graduatoria, ai partecipanti al concorso risultati idonei.
 
@@ -3141,6 +5954,66 @@ L'assegnazione di cui al comma 6 e' effettuata in relazione alla scelta manifest
 ## Art. 182. — (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 181 i vice direttori sanitari in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al tirocinio e ai servizi di istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 181, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non conseguano nei tempi stabiliti tutti gli obiettivi formativi previsti dal programma del corso di formazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere g) e h); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso i vice direttori sanitari in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso i vice direttori sanitari in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
 
 Sono espulsi dal corso di formazione e dal tirocinio i vice direttori sanitari in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -3228,6 +6101,67 @@ La promozione alla qualifica di dirigente superiore sanitario si consegue, nel l
 
 ((
 
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli dei direttivi e dei dirigenti ginnico-sportivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo dei direttivi ginnico-sportivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei dirigenti ginnico-sportivi.
+
+2.
+                        
+                            
+                                Il ruolo dei direttivi ginnico-sportivi e' articolato in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice direttore ginnico-sportivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direttore ginnico-sportivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direttore vicedirigente ginnico-sportivo.
+
+3.
+                        
+                            
+                                Il ruolo dei dirigenti ginnico-sportivi e' articolato in due qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    primo dirigente ginnico-sportivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dirigente superiore ginnico-sportivo.
+
 La sovraordinazione funzionale fra gli appartenenti ai ruoli di cui al presente articolo e' determinata come segue: dirigente superiore ginnico-sportivo, primo dirigente ginnico-sportivo e direttivi ginnico-sportivi.
 
 5. La dotazione organica dei ruoli dei direttivi e dei dirigenti ginnico-sportivi e' fissata nella tabella A allegata al presente decreto.))
@@ -3245,6 +6179,66 @@ La sovraordinazione funzionale fra gli appartenenti ai ruoli di cui al presente 
 
 Il personale appartenente ai ruoli dei direttivi e dei dirigenti ginnico-sportivi di cui all'articolo 188 espleta le funzioni proprie della qualifica di appartenenza anche a integrazione delle attivita' svolte dalle strutture operative, sia ordinariamente sia nei casi di calamita' pubbliche o in altre situazioni di emergenza.
 
+2.
+                        
+                            
+                                Il personale di cui al comma 1 svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede, quale componente di commissioni, anche di concorso, o di collegi, istituzionalmente od occasionalmente istituiti, all'accertamento dell'idoneita' al servizio dei candidati ai concorsi pubblici o interni per l'accesso ai ruoli del personale del Corpo nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede alla preparazione motoria, all'organizzazione dell'addestramento ginnico-sportivo e al mantenimento dell'efficienza fisica del personale del Corpo nazionale, anche promuovendo la partecipazione del personale medesimo ad attivita' agonistiche interne ed esterne al Corpo nazionale nell'ambito dei gruppi sportivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sovrintende, coordina, controlla e promuove l'attivita' dei gruppi sportivi del Corpo nazionale e attua i programmi previsti dalle convenzioni stipulate con il Comitato olimpico nazionale italiano (CONI), concernenti le attivita' sportive praticate in campo nazionale e internazionale dal personale del Corpo nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    partecipa alla formulazione dei programmi di addestramento del personale del Corpo nazionale, organizza e svolge, presso le strutture e gli istituti di istruzione del Corpo stesso, attivita' didattica e addestrativa nel settore di competenza e partecipa, in qualita' di componente, alle commissioni d'esame; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mantiene i rapporti con il Comitato olimpico nazionale italiano (CONI), le federazioni sportive nazionali, gli uffici sportivi di altri corpi dello Stato, le altre organizzazioni sportive e professionali nazionali e internazionali e le istituzioni universitarie; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    effettua studi e ricerche nel settore motorio, anche ai fini della prevenzione degli infortuni in ambito professionale, formulando proposte e progetti particolareggiati e ne segue le fasi di sperimentazione, implementazione, verifica e controllo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    formula proposte in merito ai livelli prestazionali delle prove ginniche e motorie per i corsi e i concorsi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    espleta le funzioni di direzione gestionale e tecnica nell'ambito del ruolo degli atleti del gruppo sportivo vigili del fuoco Fiamme Rosse.
+
 Il personale appartenente al ruolo dei direttivi ginnico-sportivi svolge le funzioni di cui al comma 2, partecipando all'attivita' del dirigente responsabile dell'ufficio cui e' assegnato e lo coadiuva per gli aspetti organizzativi, procedurali e di gestione generale; svolge funzioni di direzione di unita' organizzative nell'ambito dell'ufficio cui e' assegnato ed esercita, nel quadro degli indirizzi ricevuti e nell'ambito della specifica professionalita' posseduta, compiti di pianificazione, coordinamento e controllo delle attivita' del settore ginnico-sportivo, con autonomia organizzativa e responsabilita' dei risultati conseguiti; svolge gli incarichi per i quali e' richiesta una specifica competenza professionale direttamente attinente al titolo di studio posseduto; partecipa alle procedure contrattuali per l'affidamento di lavori, servizi e forniture e alle procedure di acquisto, cooperando anche alle fasi di indagine di mercato e a quelle di collaudo; negli uffici cui e' preposto personale appartenente al ruolo dei dirigenti ginnico-sportivi, il vice direttore ginnico-sportivo, il direttore ginnico-sportivo e il direttore vicedirigente ginnico-sportivo partecipano all'attivita' del dirigente ginnico-sportivo e lo sostituiscono in caso di assenza o impedimento.
 
 4. I dirigenti ginnico-sportivi sono titolari degli incarichi di funzione indicati nella tabella B, allegata al presente decreto; nell'espletamento di tali incarichi di funzione dirigono, coordinano e controllano l'attivita' degli uffici cui sono preposti ed adottano i provvedimenti organizzativi necessari ad assicurare la funzionalita' e l'efficienza del settore di competenza; provvedono alla gestione delle risorse umane e strumentali assegnate agli uffici cui sono preposti e seguono la formazione del personale dipendente; curano l'attuazione dei progetti loro assegnati, adottando i provvedimenti relativi; possono esercitare i poteri di spesa nei limiti delle attribuzioni previste e dei fondi loro assegnati per la realizzazione di ciascun programma; formulano proposte ed esprimono pareri su questioni afferenti all'attivita' ginnico-sportiva.))
@@ -3259,6 +6253,52 @@ Il personale appartenente al ruolo dei direttivi ginnico-sportivi svolge le funz
 ## Art. 190. — (( (Accesso al ruolo dei direttivi ginnico-sportivi). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di vice direttore ginnico-sportivo avviene mediante concorso pubblico, per titoli ed esami, consistenti in almeno due prove scritte e una prova orale, con facolta' di far precedere le prove di esame da forme di preselezione, il cui superamento costituisce requisito essenziale per la successiva partecipazione al concorso medesimo. Al concorso possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' stabilita con regolamento adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio, secondo i requisiti stabiliti con regolamento del Ministro dell'interno, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    laurea magistrale in scienze motorie o sportive, conseguita al termine di un corso di laurea magistrale ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e del decreto del Ministro dell'universita' e della ricerca del 16 marzo 2007, pubblicato nella Gazzetta Ufficiale del 9 luglio 2007, n. 157, di determinazione delle classi di laurea magistrale. Sono fatte salve, ai fini dell'ammissione al concorso, le lauree universitarie in scienze motorie o sportive conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca di concerto con il Ministro per la pubblica amministrazione e l'innovazione del 9 luglio 2009 di equiparazione tra diplomi di lauree di vecchio ordinamento, lauree specialistiche (LS) ex decreto n. 509/1999 e lauree magistrali (LM) ex decreto n. 270/2004, ai fini della partecipazione ai pubblici concorsi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 26 della legge 1° febbraio 1989, n. 53; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso all'impiego nella pubblica amministrazione.
 
 Il 25 per cento dei posti messi a concorso e' riservato al personale del Corpo nazionale in possesso, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, della laurea magistrale e degli altri requisiti di cui al comma 1, ad esclusione dei limiti di eta'. E' ammesso a fruire della riserva il personale che, nel triennio precedente, non abbia riportato una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Nella procedura e' altresi' prevista una riserva, pari al 10 per cento dei posti messi a concorso, per il personale volontario del Corpo nazionale che, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, sia iscritto negli appositi elenchi da almeno sette anni e abbia effettuato non meno di duecento giorni di servizio, fermi restando gli altri requisiti previsti per l'accesso alla qualifica di vice direttore ginnico-sportivo. I posti riservati, non coperti per mancanza di vincitori, sono conferiti, secondo l'ordine della graduatoria, ai partecipanti al concorso risultati idonei.
 
@@ -3306,6 +6346,66 @@ L'assegnazione di cui al comma 6 e' effettuata in relazione alla scelta manifest
 ## Art. 192. — (( (Dimissioni ed espulsione dal corso di formazione e dal tirocinio). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione e dal tirocinio di cui all'articolo 191 i vice direttori ginnico-sportivi in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano i giudizi di idoneita' al tirocinio e ai servizi di istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso e al tirocinio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superino il periodo di tirocinio, salvo quanto previsto dall'articolo 191, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non conseguano nei tempi stabiliti tutti gli obiettivi formativi previsti dal programma del corso di formazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso e dal tirocinio per piu' di trenta giorni, anche non consecutivi, salvi i casi di cui alle lettere g) e h); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso o il tirocinio ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tale caso i vice direttori ginnico-sportivi in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica e a ripetere, per una sola volta, il tirocinio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    siano stati assenti dal corso e dal tirocinio per piu' di cinquanta giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso i vice direttori ginnico-sportivi in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri e a ripetere, per una sola volta, il tirocinio.
 
 Sono espulsi dal corso di formazione e dal tirocinio i vice direttori ginnico-sportivi in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -3466,6 +6566,24 @@ Ai fini della valutazione di cui al comma 1, il personale interessato presenta, 
 
 Entro il successivo 30 aprile, un apposito comitato, costituito con decreto del capo del Dipartimento e composto dal capo del Corpo nazionale, dal direttore centrale per le risorse umane del Dipartimento medesimo e da un dirigente generale del Corpo, scelto secondo il criterio della rotazione tra quelli in servizio presso gli uffici centrali e periferici, redige la scheda di valutazione di ciascun dirigente superiore e primo dirigente, previa acquisizione del giudizio valutativo del direttore regionale o interregionale ovvero del dirigente generale competente nell'ambito in cui l'interessato presta servizio.
 
+4.
+                        
+                            
+                                Entro la data di cui al comma 3, la scheda di valutazione di ciascun funzionario appartenente ai ruoli dei direttivi e' redatta, sulla base della relazione di cui al comma 2, dai seguenti organi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'ambito delle strutture centrali dell'amministrazione dell'interno, dal dirigente dell'area o ufficio ovvero dal capo dell'ufficio di staff, da cui il funzionario dipende direttamente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle direzioni regionali e interregionali dei vigili del fuoco, del soccorso pubblico e della difesa civile e nei comandi dei vigili del fuoco, dal primo dirigente dal quale il funzionario dipende direttamente. Nell'ipotesi in cui il funzionario non dipenda da un primo dirigente, la scheda di valutazione e' redatta rispettivamente dal direttore regionale o interregionale e dal comandante.
+
 La scheda di valutazione di ciascun funzionario appartenente ai ruoli dei direttivi e' trasmessa, corredata del proprio giudizio valutativo, dal direttore regionale o interregionale ovvero dal dirigente generale nel cui ambito l'interessato presta servizio, ai competenti uffici del Dipartimento.
 
 Qualora per uno o piu' anni non sia stata possibile la compilazione della scheda di valutazione ovvero la compilazione medesima riguardi personale comandato o fuori ruolo, si applicano le disposizioni dell'articolo 53 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3. I riferimenti al consiglio di amministrazione e al rapporto informativo, contenuti nel predetto articolo, si intendono effettuati, rispettivamente, al capo del Dipartimento e alla scheda di valutazione.
@@ -3492,6 +6610,31 @@ I contenuti della relazione di cui al comma 2 e della scheda di valutazione conn
 Il consiglio di amministrazione, su proposta del capo del Dipartimento, d'intesa con il capo del Corpo nazionale, determina con cadenza triennale: le categorie dei titoli di servizio ammessi a valutazione ai fini della progressione in carriera del personale appartenente ai ruoli dei direttivi e alle qualifiche di primo dirigente del Corpo nazionale; i criteri per l'attribuzione dei punteggi ai predetti titoli e alle schede di valutazione di cui all'articolo 202; il periodo temporale di riferimento per la valutabilita' dei titoli e delle schede e il coefficiente minimo di idoneita' alla promozione, che comunque non puo' essere fissato in misura inferiore alla meta' del punteggio complessivo massimo previsto.
 
 Il consiglio di amministrazione, sulla base della proposta di graduatoria di merito formulata dalla commissione per la progressione in carriera di cui all'articolo 204, conferisce le promozioni alle qualifiche di direttore vicedirigente e di dirigente superiore e approva la graduatoria per l'ammissione al corso di formazione per l'accesso alle qualifiche di primo dirigente, motivando le decisioni adottate in difformita' alla proposta formulata dalla commissione.
+
+3.
+                        
+                            
+                                Non e' ammesso a scrutinio il personale appartenente ai ruoli dei direttivi e alle qualifiche di primo dirigente che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei tre anni precedenti lo scrutinio abbia riportato nella valutazione annuale di cui all'articolo 202 un punteggio inferiore a ottanta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'anno precedente lo scrutinio abbia riportato la sanzione disciplinare della sanzione pecuniaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei tre anni precedenti lo scrutinio abbia riportato una sanzione disciplinare piu' grave della sanzione pecuniaria.
 
 4. E' sospeso dagli scrutini il personale di cui al comma 1 rinviato a giudizio o ammesso ai riti alternativi per reati non colposi. Nei confronti di tale personale si applicano le disposizioni contenute nell'articolo 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni.))
 
@@ -3652,6 +6795,31 @@ funzioni operative). ))
 
 ((
 
+1.
+                        
+                            
+                                E' istituito il ruolo dei direttivi aggiunti, articolato in tre qualifiche che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice direttore aggiunto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direttore aggiunto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direttore coordinatore.
+
 La sovraordinazione funzionale fra gli appartenenti al ruolo di cui al presente articolo e' determinata come segue: direttore coordinatore, direttore aggiunto e vice direttore aggiunto.
 
 3. La dotazione organica dei ruoli dei direttivi aggiunti e' fissata nella tabella A allegata al presente decreto.))
@@ -3681,6 +6849,32 @@ Il personale appartenente al ruolo dei direttivi aggiunti di cui all'articolo 21
 ## Art. 215. — (( (Concorso interno per l'accesso alla qualifica di vice direttore aggiunto). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di vice direttore aggiunto avviene, nel limite dei posti disponibili, mediante concorso interno, per titoli ed esami, consistenti in una prova scritta e una prova orale, al quale puo' partecipare il personale appartenente al ruolo degli ispettori antincendi, in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    anzianita' di effettivo servizio nel ruolo degli ispettori antincendi non inferiore ad otto anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    laurea conseguita al termine di un corso di laurea nell'ambito delle facolta' di ingegneria o architettura, ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e del decreto del Ministro dell'universita' e della ricerca del 16 marzo 2007, pubblicato nella Gazzetta Ufficiale del 6 luglio 2007, n. 155, di determinazione delle classi di laurea.
+Sono fatte salve, ai fini dell'ammissione al concorso, le lauree universitarie in ingegneria e architettura conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca di concerto con il Ministro per la pubblica amministrazione e l'innovazione del 9 luglio 2009 di equiparazione tra classi delle lauree di cui all'ex decreto n. 509/1999 e classi delle lauree di cui all'ex decreto n. 270/2004, ai fini della partecipazione ai pubblici concorsi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    abilitazione professionale attinente ai titoli di studio di cui alla lettera b).
 
 Non e' ammesso al concorso di cui al comma 1 il personale che abbia riportato, nel triennio precedente la data di scadenza del termine per la presentazione della domanda di partecipazione al concorso, una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Non e', altresi', ammesso al concorso il personale che abbia riportato sentenza irrevocabile di condanna per delitto non colposo ovvero che sia stato sottoposto a misura di prevenzione.
 
@@ -3717,6 +6911,52 @@ Con decreto del capo del Dipartimento sono stabiliti le modalita' di svolgimento
 ## Art. 217. — (( (Dimissioni ed espulsione dal corso di formazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di formazione di cui all'articolo 216 i vice direttori aggiunti in prova che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superino gli esami del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengano il giudizio di idoneita' al termine del corso di formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano stati per qualsiasi motivo assenti dal corso per piu' di quindici giorni, anche non consecutivi , salvi i casi di cui alle lettere e) ed f); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta durante il corso ovvero sia stata riconosciuta dipendente da causa di servizio. In tale caso i vice direttori aggiunti in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    siano stati assenti dal corso per piu' di venticinque giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso i vice direttori aggiunti in prova sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 Sono espulsi dal corso di formazione i vice direttori aggiunti in prova responsabili di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria.
 
@@ -3857,6 +7097,108 @@ La disciplina derivante dal procedimento negoziale di cui al comma 1 ha durata t
 
 ((
 
+1.
+                        
+                            
+                                Formano oggetto del procedimento negoziale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il trattamento economico fondamentale e accessorio, ivi compreso quello di lavoro straordinario e quello correlato all'attribuzione di posizioni organizzative del personale appartenente ai ruoli direttivi, secondo parametri appositamente definiti in tale sede che ne assicurino, nell'ambito delle risorse stanziate dalle leggi finanziarie per corrispondere i miglioramenti retributivi al personale statale di diritto pubblico, sviluppi omogenei e proporzionati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il trattamento economico di missione e di trasferimento e i buoni pasto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il trattamento di fine rapporto e le forme pensionistiche complementari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il tempo di lavoro e l'orario di lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il congedo ordinario e straordinario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la reperibilita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'aspettativa per motivi di salute e di famiglia; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i permessi brevi per esigenze personali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il patrocinio legale e la tutela assicurativa; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le linee di indirizzo per la formazione e l'aggiornamento professionale, per la garanzia e il miglioramento della sicurezza sul lavoro e per la gestione delle attivita' socio-assistenziali del personale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    gli istituti e le materie di partecipazione sindacale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le procedure di raffreddamento dei conflitti; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    le aspettative, i distacchi e i permessi sindacali; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    la struttura degli accordi negoziali e i rapporti tra i diversi livelli.
+
 2. I distacchi e i permessi sindacali spettanti alle organizzazioni sindacali rappresentative del comparto di cui all'articolo 226 possono essere utilizzati dalle medesime organizzazioni sindacali rappresentative del comparto di cui all'articolo 136, nei limiti spettanti ad invarianza di costi per l'amministrazione.))
 
 ((12))
@@ -3912,6 +7254,31 @@ Nei limiti, per le materie, per la durata e secondo le procedure negoziali fissa
 ## Art. 231. — (( (Accesso al Corpo nazionale). ))
 
 ((
+
+1.
+                        
+                            
+                                L'accesso al Corpo nazionale avviene con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    concorso pubblico ovvero, limitatamente all'accesso nel ruolo degli operatori e degli assistenti, mediante selezione tra i cittadini italiani inseriti nell'elenco anagrafico presso il centro per l'impiego, con precedenza in favore del personale volontario del Corpo nazionale di cui all'articolo 6 del decreto legislativo 8 marzo 2006, n. 139, che, alla data indicata nel bando di offerta, sia iscritto negli appositi elenchi da almeno tre anni e abbia effettuato non meno di centoventi giorni di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assunzione obbligatoria, per chiamata diretta nominativa, del coniuge, dei figli e dei fratelli degli appartenenti al Corpo nazionale deceduti o divenuti permanentemente inabili al servizio per causa di servizio per effetto di ferite o lesioni riportate nell'espletamento delle attivita' istituzionali ovvero delle missioni internazionali, nei limiti previsti dagli articoli 5, 19, 71, 78, 90, 102 e 114. Ferma restando la non applicazione dell'articolo 18 della legge 12 marzo 1999, n. 68, le assunzioni di cui alla presente lettera avvengono nel limite di due punti percentuali calcolati sull'organico effettivo del personale non dirigente che espleta funzioni operative, di cui un punto percentuale in deroga alle ordinarie facolta' assunzionali, e un ulteriore punto percentuale nell'ambito delle ordinarie facolta' assunzionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mobilita' dai Corpi permanenti dei vigili del fuoco delle province autonome di Trento e di Bolzano e della regione Valle d'Aosta, nei limiti stabiliti dall'articolo 232.
 
 E' escluso l'accesso al Corpo nazionale in casi e con modalita' diversi da quelli indicati nel comma 1. In particolare e' escluso l'accesso dall'esterno nei ruoli dei dirigenti. Dalla data di entrata in vigore del presente decreto non si applicano, ai fini del passaggio nei ruoli del personale del Corpo nazionale, l'articolo 3 della legge 12 marzo 1999, n. 68, l'articolo 75 del decreto legislativo 30 ottobre 1992, n. 443, gli articoli 1 e 2 del decreto del Presidente della Repubblica 24 luglio 1981, n. 551, e gli articoli 1, 2, 3 e 11 del decreto del Presidente della Repubblica 24 aprile 1982, n. 339, e ogni altra disposizione che prevede il passaggio tra amministrazioni di personale non idoneo, sotto il profilo psico-fisico, al servizio o all'impiego incondizionati.
 
@@ -4012,6 +7379,112 @@ Nei casi in cui non siano applicabili, ai sensi del comma 1, norme di legge o di
 ## Art. 239. — (( (Sanzioni disciplinari). ))
 
 ((
+
+1.
+                        
+                            
+                                Ferma restando la disciplina delle incompatibilita' dettata dall'articolo 53, comma 1, del decreto legislativo 30 marzo 2001, n. 165, il personale del Corpo nazionale che viola i doveri del servizio indicati da leggi, regolamenti o codici di comportamento ovvero conseguenti all'emanazione di una disposizione di servizio commette infrazione disciplinare ed e' soggetto alle seguenti sanzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rimprovero orale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimprovero scritto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sanzione pecuniaria fino ad un massimo di quattro ore di retribuzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sospensione dal servizio con privazione della retribuzione fino a dieci giorni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sospensione dal servizio con privazione della retribuzione da undici giorni fino a un massimo di sei mesi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    destituzione con preavviso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    destituzione senza preavviso.
+
+2.
+                        
+                            
+                                Con decreto del Presidente della Repubblica, da adottare ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, sono definiti, nel rispetto dei principi e criteri direttivi che si traggono dalle disposizioni dell'articolo 55 del decreto legislativo 30 marzo 2001, n. 165: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tipologia delle infrazioni per le quali ciascuna sanzione disciplinare e' inflitta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri da adottare da parte dell'organo sanzionatorio ai fini della gradualita' e proporzionalita' delle sanzioni, nonche' della maggiorazione delle sanzioni medesime nei casi di reiterazione di infrazioni della stessa natura e di concorso di piu' infrazioni compiute con un'unica azione od omissione o con piu' azioni od omissioni connesse tra loro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli organi, le fasi, le modalita' e i termini del procedimento disciplinare, assicurando l'adeguata salvaguardia dei diritti di difesa del personale, anche attraverso la previsione di garanzie progressivamente crescenti con la gravita' dell'infrazione contestata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le fasi, le modalita' e i termini del procedimento di impugnazione delle sanzioni davanti al collegio arbitrale di disciplina; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i casi, le modalita' e gli effetti della riapertura del procedimento disciplinare e della riabilitazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i casi e le modalita' della sospensione cautelare dal servizio e dalla retribuzione in pendenza del procedimento disciplinare; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le disposizioni transitorie in relazione anche ai procedimenti pendenti alla data di entrata in vigore del regolamento di cui al presente comma.
 
 Con il regolamento di cui al comma 2 sono altresi' disciplinati, nel rispetto delle disposizioni della legge 27 marzo 2001, n. 97, e per i profili da questa non diversamente regolati, il rapporto tra procedimento disciplinare e procedimento penale e la sospensione cautelare dal servizio e dalla retribuzione in caso di procedimento penale.
 
@@ -4174,6 +7647,172 @@ Gli inquadramenti sono effettuati secondo l'ordine del ruolo di provenienza.
 
 Il personale in possesso del brevetto di pilota di aeromobile o del brevetto di specialista di aeromobile, gia' in servizio presso i reparti volo e gli uffici del servizio aereo della direzione centrale per l'emergenza, il soccorso tecnico e l'antincendio boschivo e il soccorso tecnico del Dipartimento, e' inquadrato, ai sensi dei commi 2, 3 e 4, anche in sovrannumero, nelle qualifiche dei ruoli dei piloti di aeromobile e degli specialisti di aeromobile.
 
+2.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigile del fuoco, che abbia meno di quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile vigile del fuoco o di specialista di aeromobile vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigile del fuoco, che abbia maturato quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile vigile del fuoco esperto o di specialista di aeromobile vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigile del fuoco qualificato, che abbia meno di tre anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile vigile del fuoco esperto o di specialista di aeromobile vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigile del fuoco qualificato, che abbia maturato tre anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile vigile del fuoco esperto o di specialista di aeromobile vigile del fuoco esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigile del fuoco esperto, che abbia meno di due anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile vigile del fuoco esperto o di specialista di aeromobile vigile del fuoco esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigile del fuoco esperto, che abbia maturato due anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile vigile del fuoco coordinatore o di specialista di aeromobile vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    vigile del fuoco coordinatore, che abbia meno di cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile vigile del fuoco coordinatore o di specialista di aeromobile vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    vigile del fuoco coordinatore, che abbia cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile vigile del fuoco coordinatore o di specialista di aeromobile vigile del fuoco coordinatore con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    vigile del fuoco coordinatore, al quale e' stato attribuito lo scatto convenzionale di cui all'articolo 9, e' inquadrato nella istituita qualifica di pilota di aeromobile vigile del fuoco coordinatore o di specialista di aeromobile vigile del fuoco coordinatore con l'attribuzione di uno scatto convenzionale.
+
+3.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capo squadra e' inquadrato nella istituita qualifica di pilota di aeromobile capo squadra o di specialista di aeromobile capo squadra; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capo squadra esperto, che abbia meno di cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile capo squadra esperto o di specialista di aeromobile capo squadra esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capo squadra esperto, che abbia maturato cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile capo reparto o di specialista di aeromobile capo reparto, collocandosi nel ruolo dopo il personale di cui alla lettera d); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    capo reparto e' inquadrato nella istituita qualifica di pilota di aeromobile capo reparto o di specialista di aeromobile capo reparto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    capo reparto esperto e' inquadrato nella istituita qualifica di pilota di aeromobile capo reparto o di specialista di aeromobile capo reparto con l'attribuzione di uno scatto convenzionale, mantenendo la denominazione di "esperto"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    capo reparto esperto al quale e' stato attribuito uno scatto convenzionale e' inquadrato nella istituita qualifica di pilota di aeromobile capo reparto o di specialista di aeromobile capo reparto con l'attribuzione di uno scatto convenzionale, mantenendo la denominazione di "esperto".
+
+4.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice ispettore antincendi e' inquadrato nella istituita qualifica di pilota di aeromobile ispettore o di specialista di aeromobile ispettore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ispettore antincendi, che abbia meno di quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile ispettore o di specialista di aeromobile ispettore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ispettore antincendi, che abbia maturato quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile ispettore esperto o di specialista di aeromobile ispettore esperto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ispettore antincendi esperto, che abbia meno di cinque anni di servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile ispettore esperto o di specialista di aeromobile ispettore esperto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ispettore antincendi esperto, che abbia maturato cinque anni e meno di otto anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile ispettore esperto o di specialista di aeromobile ispettore esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ispettore antincendi esperto, che abbia maturato otto anni e meno di tredici anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile ispettore esperto o di specialista di aeromobile ispettore esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ispettore antincendi esperto, che abbia maturato tredici anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di pilota di aeromobile ispettore coordinatore o di specialista di aeromobile ispettore coordinatore.
+
 Gli inquadramenti sono effettuati secondo l'ordine del ruolo di provenienza.
 
 Il personale inquadrato ai sensi del comma 2, del comma 3, lettere a), b), d), del comma 4, lettere a), b), c), d), e), f), conserva, ai fini della progressione alla qualifica superiore e dell'attribuzione dello scatto convenzionale, l'anzianita' maturata nella qualifica di provenienza ovvero l'anzianita' eccedente quella minima richiesta per l'inquadramento.
@@ -4186,7 +7825,173 @@ Il personale inquadrato ai sensi del comma 2, del comma 3, lettere a), b), d), d
 
 Il personale appartenente al ruolo dei vigili del fuoco e al ruolo dei capi squadra e dei capi reparto, in possesso della specializzazione speleo alpino fluviale di livello 2B gia' impiegato nello specifico servizio operativo presso i reparti volo del Dipartimento, e' inquadrato, a domanda, ai sensi dei commi 2 e 3, nelle qualifiche del ruolo degli elisoccorritori, ((in fase di prima applicazione, anche in soprannumero riassorbibile con le vacanze ordinarie delle dotazioni organiche, ferma restando la consistenza complessiva del ruolo prevista nella tabella A allegata al presente decreto. Fino all'assorbimento del soprannumero e' reso indisponibile un numero finanziariamente equivalente di posti nei ruoli, rispettivamente, dei vigili del fuoco, dei capi squadra e dei capi reparto e degli ispettori antincendio, di cui all'articolo 1, comma 1, lettere a), b) e c) )). Ai fini del predetto inquadramento si applica il criterio della maggiore anzianita' nella medesima specializzazione.
 
+2.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigile del fuoco, che abbia meno di quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigile del fuoco, che abbia maturato quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigile del fuoco qualificato, che abbia meno di tre anni di effettivo servizio nella qualifica e' inquadrato nella istituita qualifica di elisoccorritore vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigile del fuoco qualificato, che abbia maturato tre anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore vigile del fuoco esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigile del fuoco esperto, che abbia meno di due anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore vigile del fuoco esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigile del fuoco esperto, che abbia maturato due anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    vigile del fuoco coordinatore, che abbia meno di cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    vigile del fuoco coordinatore, in servizio alla data di entrata in vigore del presente provvedimento, che abbia cinque anni di effettivo servizio nella qualifica e' inquadrato nella istituita qualifica di elisoccorritore vigile del fuoco coordinatore con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    vigile del fuoco coordinatore al quale e' stato attribuito lo scatto convenzionale di cui all'articolo 9, e' inquadrato nella istituita qualifica di elisoccorritore vigile del fuoco coordinatore con l'attribuzione di uno scatto convenzionale.
+
+3.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capo squadra e' inquadrato nella istituita qualifica di elisoccorritore capo squadra; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capo squadra esperto, che abbia meno di cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore capo squadra esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capo squadra esperto, che abbia maturato cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore capo reparto, collocandosi nel ruolo dopo il personale di cui al punto d); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    capo reparto e' inquadrato nella istituita qualifica di elisoccorritore capo reparto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    capo reparto esperto e' inquadrato nella istituita qualifica di elisoccorritore capo reparto con l'attribuzione di uno scatto convenzionale, mantenendo la denominazione di "esperto"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    capo reparto esperto al quale e' stato attribuito uno scatto convenzionale e' inquadrato nella istituita qualifica di elisoccorritore capo reparto con l'attribuzione di uno scatto convenzionale, mantenendo la denominazione di "esperto".
+
 Il personale appartenente al ruolo degli ispettori e dei sostituti direttori antincendi, in possesso della specializzazione speleo alpino fluviale di livello 2B, e' inquadrato, a domanda, ai sensi del comma 5, nelle qualifiche del ruolo degli elisoccorritori, fino alla concorrenza dei posti disponibili in organico. Tale personale presta servizio presso i reparti volo e puo' essere impiegato presso gli uffici del servizio aereo della direzione centrale per l'emergenza, il soccorso tecnico e l'antincendio boschivo del Dipartimento. Ai fini del predetto inquadramento si applica il criterio della maggiore anzianita' nella medesima specializzazione.
+
+5.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice ispettore antincendi e' inquadrato nella istituita qualifica di elisoccorritore ispettore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ispettore antincendi, che abbia meno di quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore ispettore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ispettore antincendi, che abbia maturato quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore ispettore esperto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ispettore antincendi esperto, che abbia meno di cinque anni di servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore ispettore esperto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ispettore antincendi esperto, che abbia maturato cinque anni e meno di otto anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore ispettore esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ispettore antincendi esperto, che abbia maturato otto anni e meno di tredici anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore ispettore esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ispettore antincendi esperto, che abbia maturato tredici anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di elisoccorritore ispettore coordinatore.
 
 Gli inquadramenti sono effettuati secondo l'ordine del ruolo di provenienza.
 
@@ -4204,7 +8009,173 @@ Il personale inquadrato ai sensi del comma 2, del comma 3, lettere a), b), d), d
 
 Il personale appartenente al ruolo dei vigili del fuoco e al ruolo dei capi squadra e dei capi reparto, in possesso del brevetto di specialista nautico di coperta o del brevetto di specialista nautico di macchina, gia' in servizio presso i distaccamenti portuali del Corpo nazionale, e' inquadrato, ai sensi dei commi 2 e 3, anche in sovrannumero, nelle qualifiche dei ruoli degli specialisti nautici di coperta e degli specialisti nautici di macchina.
 
+2.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigile del fuoco, che abbia meno di quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta vigile del fuoco o di specialista nautico di macchina vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigile del fuoco, che abbia maturato quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta vigile del fuoco esperto o di specialista nautico di macchina vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigile del fuoco qualificato, che abbia meno di tre anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta vigile del fuoco esperto o di specialista nautico di macchina vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigile del fuoco qualificato, che abbia maturato tre anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta vigile del fuoco esperto o di specialista nautico di macchina vigile del fuoco esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigile del fuoco esperto, che abbia meno di due anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta vigile del fuoco esperto o di specialista nautico di macchina vigile del fuoco esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigile del fuoco esperto, che abbia maturato due anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta vigile del fuoco coordinatore o di specialista nautico di macchina vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    vigile del fuoco coordinatore, che abbia meno di cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta vigile del fuoco coordinatore o di specialista nautico di macchina vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    vigile del fuoco coordinatore, che abbia cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta vigile del fuoco coordinatore o di specialista nautico di macchina vigile del fuoco coordinatore con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    vigile del fuoco coordinatore, al quale e' stato attribuito lo scatto convenzionale di cui all'articolo 9, e' inquadrato nella istituita qualifica di specialista nautico di coperta vigile del fuoco coordinatore o di specialista nautico di macchina vigile del fuoco coordinatore con l'attribuzione di uno scatto convenzionale.
+
+3.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capo squadra e' inquadrato nella istituita qualifica di specialista nautico di coperta capo squadra o di specialista nautico di macchina capo squadra; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capo squadra esperto, che abbia meno di cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta capo squadra esperto o di specialista nautico di macchina capo squadra esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capo squadra esperto, che abbia maturato cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta capo reparto o di specialista nautico di macchina capo reparto, collocandosi nel ruolo dopo il personale di cui al punto d); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    capo reparto e' inquadrato nella istituita qualifica di specialista nautico di coperta capo reparto o di specialista nautico di macchina capo reparto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    capo reparto esperto e' inquadrato nella istituita qualifica di specialista nautico di coperta capo reparto o di specialista nautico di macchina capo reparto con l'attribuzione di uno scatto convenzionale, mantenendo la denominazione di "esperto"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    capo reparto esperto al quale e' stato attribuito uno scatto convenzionale e' inquadrato nella istituita qualifica di specialista nautico di coperta capo reparto o di specialista nautico di macchina capo reparto con l'attribuzione di uno scatto convenzionale, mantenendo la denominazione di "esperto".
+
 Il personale appartenente al ruolo degli ispettori e dei sostituti direttori antincendi, in possesso del brevetto di specialista nautico di coperta o del brevetto di specialista nautico di macchina, e' inquadrato, a domanda, ai sensi del comma 5, nelle qualifiche dei ruoli degli specialisti nautici di coperta e degli specialisti nautici di macchina, fino alla concorrenza dei posti disponibili in organico. Tale personale presta servizio presso i distaccamenti portuali e puo' essere impiegato presso gli uffici del servizio nautico della direzione centrale per l'emergenza, il soccorso tecnico e l'antincendio boschivo del Dipartimento. Ai fini del predetto inquadramento si applica il criterio della maggiore anzianita' nella medesima specializzazione.
+
+5.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice ispettore antincendi e' inquadrato nella istituita qualifica di specialista nautico di coperta ispettore o di specialista nautico di macchina ispettore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ispettore antincendi, che abbia meno di quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta ispettore o di specialista nautico di macchina ispettore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ispettore antincendi, che abbia maturato quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta ispettore esperto o di specialista nautico di macchina ispettore esperto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ispettore antincendi esperto, che abbia meno di cinque anni di servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta ispettore esperto o di specialista nautico di macchina ispettore esperto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ispettore antincendi esperto, che abbia maturato cinque anni e meno di otto anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta ispettore esperto o di specialista nautico di macchina ispettore esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ispettore antincendi esperto, che abbia maturato otto anni e meno di tredici anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta ispettore esperto o di specialista nautico di macchina ispettore esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ispettore antincendi esperto, che abbia maturato tredici anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di specialista nautico di coperta ispettore coordinatore o di specialista nautico di macchina ispettore coordinatore.
 
 Gli inquadramenti sono effettuati secondo l'ordine del ruolo di provenienza.
 
@@ -4220,7 +8191,173 @@ Il personale inquadrato ai sensi del comma 2, del comma 3, lettere a), b), d), d
 
 Il personale appartenente al ruolo dei vigili del fuoco e al ruolo dei capi squadra e dei capi reparto, in possesso del brevetto di sommozzatore, gia' in servizio presso i nuclei sommozzatori del Corpo nazionale, e' inquadrato, ai sensi dei commi 2 e 3, anche in sovrannumero, nelle qualifiche del ruolo dei sommozzatori.
 
+2.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigile del fuoco, che abbia meno di quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore vigile del fuoco; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigile del fuoco, che abbia maturato quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigile del fuoco qualificato, che abbia meno di tre anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore vigile del fuoco esperto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigile del fuoco qualificato, che abbia maturato tre anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore vigile del fuoco esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigile del fuoco esperto, che abbia meno di due anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore vigile del fuoco esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigile del fuoco esperto, che abbia maturato due anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    vigile del fuoco coordinatore, che abbia meno di cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore vigile del fuoco coordinatore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    vigile del fuoco coordinatore, in servizio alla data di entrata in vigore del presente provvedimento, che abbia cinque anni di effettivo servizio nella qualifica e' inquadrato nella istituita qualifica di sommozzatore vigile del fuoco coordinatore con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    vigile del fuoco coordinatore al quale e' stato attribuito lo scatto convenzionale di cui all'articolo 9, e' inquadrato nella istituita qualifica di sommozzatore vigile del fuoco coordinatore con l'attribuzione di uno scatto convenzionale.
+
+3.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capo squadra e' inquadrato nella istituita qualifica di sommozzatore capo squadra; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capo squadra esperto, che abbia meno di cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore capo squadra esperto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capo squadra esperto, che abbia maturato cinque anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore capo reparto, collocandosi nel ruolo dopo il personale di cui al punto d); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    capo reparto e' inquadrato nella istituita qualifica di sommozzatore capo reparto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    capo reparto esperto e' inquadrato nella istituita qualifica di sommozzatore capo reparto con l'attribuzione di uno scatto convenzionale, mantenendo la denominazione di "esperto"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    capo reparto esperto al quale e' stato attribuito uno scatto convenzionale e' inquadrato nella istituita qualifica di sommozzatore capo reparto con l'attribuzione di uno scatto convenzionale, mantenendo la denominazione di "esperto".
+
 Il personale appartenente al ruolo degli ispettori e dei sostituti direttori antincendi, in possesso del brevetto di sommozzatore, e' inquadrato, a domanda, ai sensi del comma 5, nelle qualifiche del ruolo dei sommozzatori, fino alla concorrenza dei posti disponibili in organico. Tale personale presta servizio presso i nuclei sommozzatori e puo' essere impiegato presso gli uffici del servizio sommozzatori della direzione centrale per l'emergenza, il soccorso tecnico e l'antincendio boschivo del Dipartimento. Ai fini del predetto inquadramento si applica il criterio della maggiore anzianita' nella medesima specializzazione.
+
+5.
+                        
+                            
+                                Il personale che riveste la qualifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice ispettore antincendi e' inquadrato nella istituita qualifica di sommozzatore ispettore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ispettore antincendi, che abbia meno di quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore ispettore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ispettore antincendi, che abbia maturato quattro anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore ispettore esperto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ispettore antincendi esperto, che abbia meno di cinque anni di servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore ispettore esperto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ispettore antincendi esperto, che abbia maturato cinque anni e meno di otto anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore ispettore esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ispettore antincendi esperto, che abbia maturato otto anni e meno di tredici anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore ispettore esperto con l'attribuzione di uno scatto convenzionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ispettore antincendi esperto, che abbia maturato tredici anni di effettivo servizio nella qualifica, e' inquadrato nella istituita qualifica di sommozzatore ispettore coordinatore.
 
 Gli inquadramenti sono effettuati secondo l'ordine del ruolo di provenienza.
 
@@ -4384,6 +8521,31 @@ Il personale e' inquadrato secondo l'ordine del ruolo di provenienza.
 
 ((
 
+1.
+                        
+                            
+                                Entro tre anni dalla data di entrata in vigore del decreto legislativo di cui all'articolo 8, comma 6, della legge 7 agosto 2015, n. 124, sono banditi i seguenti concorsi straordinari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concorso per titoli ed esami, per la copertura di 25 posti, per l'accesso alla qualifica di direttore, riservato al personale inquadrato nel ruolo ad esaurimento dei direttivi speciali che espletano funzioni operative di cui all'articolo 13-ter del decreto legislativo 29 maggio 2017, n. 97, in possesso del titolo di studio e del titolo abilitativo di cui all'articolo 143; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concorso per titoli ed esami, per la copertura di 15 posti, per l'accesso alla qualifica di direttore logistico-gestionale, riservato al personale inquadrato nel ruolo ad esaurimento dei direttivi speciali che espletano funzioni logistico-gestionali di cui all'articolo 13-octies del decreto legislativo 29 maggio 2017, n. 97, in possesso di laurea magistrale ad indirizzo giuridico ed economico, da individuarsi con decreto di cui al comma 5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concorso per titoli ed esami, per la copertura di 3 posti, per l'accesso alla qualifica di direttore informatico, riservato al personale inquadrato nel ruolo ad esaurimento dei direttivi speciali che espletano funzioni informatiche di cui all'articolo 13-octies del decreto legislativo 29 maggio 2017, n. 97, in possesso di laurea magistrale ad indirizzo informatico, da individuarsi con decreto di cui al comma 5.
+
 Non e' ammesso ai concorsi di cui al comma 1 il personale che, nel triennio precedente la data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, abbia riportato una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Non e', altresi', ammesso ai concorsi il personale che abbia riportato sentenza irrevocabile di condanna per delitto non colposo ovvero che sia stato sottoposto a misura di prevenzione.
 
 Il personale vincitore dei concorsi di cui al comma 1 e' ammesso a frequentare corsi di formazione, della durata di tre mesi, presso l'Istituto superiore antincendi, che si concludono con un esame finale. Il personale che abbia superato l'esame finale e' immesso, rispettivamente, nelle qualifiche di direttore, direttore logistico-gestionale e direttore informatico, permanendo nella qualifica di nuovo inquadramento per un periodo di sette anni e sei mesi. Nel caso di mancato superamento dell'esame di fine corso, il personale permane nel ruolo e nella qualifica di provenienza.
@@ -4397,6 +8559,31 @@ L'assegnazione alle sedi di servizio e' effettuata in relazione alla scelta mani
 ## Art. 260. — (( (Concorsi straordinari per primo dirigente). ))
 
 ((
+
+1.
+                        
+                            
+                                Entro due anni dalla data di entrata in vigore del decreto legislativo di cui all'articolo 8, comma 6, della legge 7 agosto 2015, n. 124, sono banditi i seguenti concorsi straordinari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concorso, per titoli ed esami, a cinque posti per l'accesso alla qualifica di primo dirigente logistico-gestionale, riservato al personale inquadrato nell'istituita qualifica di direttore vicedirigente logistico-gestionale che abbia maturato complessivamente nove anni e sei mesi di effettivo servizio nel ruolo dei direttivi logistico-gestionali e nel ruolo dei funzionari amministrativo-contabili direttori del previgente ordinamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concorso, per titoli ed esami, a un posto per l'accesso alla qualifica di primo dirigente informatico, riservato al personale inquadrato nell'istituita qualifica di direttore vicedirigente informatico che abbia maturato complessivamente nove anni e sei mesi di effettivo servizio nel ruolo dei direttivi informatici e nel ruolo dei funzionari tecnico-informatici direttori del previgente ordinamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concorso, per titoli ed esami, a un posto per l'accesso alla qualifica di primo dirigente che espleta le funzioni di cui all'articolo 142, comma 4, riservato al personale con la qualifica di direttore vicedirigente di cui al titolo II, capo I, che abbia maturato nove anni e sei mesi di effettivo servizio nel ruolo dei direttivi, nonche' al personale inquadrato nell'istituita qualifica di direttore vicedirigente dei ruoli tecnico-professionali di cui al titolo II, capo II, che abbia maturato complessivamente nove anni e sei mesi di effettivo servizio nei ruoli dei direttivi tecnico-professionali e nei ruoli di provenienza del previgente ordinamento.
 
 Non e' ammesso ai concorsi di cui al comma 1 il personale che, nel triennio precedente la data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, abbia riportato una sanzione disciplinare pari o piu' grave della sanzione pecuniaria. Non e', altresi', ammesso ai concorsi il personale che abbia riportato sentenza irrevocabile di condanna per delitto non colposo ovvero che sia stato sottoposto a misura di prevenzione.
 

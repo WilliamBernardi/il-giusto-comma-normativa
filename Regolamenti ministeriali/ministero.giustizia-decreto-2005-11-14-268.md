@@ -8,8 +8,8 @@ codice_redazionale: 005G0291
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,38 @@ Entrata in vigore del provvedimento: 13/1/2006
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 26 settembre 2005; ritenuto di non accogliere l'osservazione in merito all'opportunita' di prevedere parametri e criteri per l'esercizio della discrezionalita' amministrativa nell'emanazione del decreto dirigenziale di riconoscimento, gia' compiutamente regolamentato dal decreto legislativo 27 gennaio 1992, n. 115;
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «decreto legislativo», il decreto legislativo 27 gennaio 1992, n. 115, cosi' come modificato dal decreto legislativo 8 luglio 2003, n. 277, attuativo della direttiva 2001/19/CE;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «decreto dirigenziale di riconoscimento», il decreto del Direttore Generale della Giustizia Civile presso il Ministro della giustizia adottato ai sensi dell'articolo 12, comma 5, del decreto legislativo 27 gennaio 1992, n. 115;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «richiedente», il cittadino comunitario che domanda, ai fini dell'esercizio della professione di geologo in Italia, il riconoscimento del titolo rilasciato dal Paese di appartenenza attestante una formazione professionale al cui possesso la legislazione del medesimo Stato subordina l'esercizio o l'accesso alla professione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Consiglio nazionale», il Consiglio nazionale dei geologi.
 
 ## - Capo II PROVA ATTITUDINALE
 
@@ -98,9 +130,112 @@ Il tirocinante esegue diligentemente le disposizioni del professionista, garante
 
 Coloro che, muniti di decreto dirigenziale di riconoscimento, intendono svolgere come misura compensativa tirocinio di adattamento sono iscritti nel registro dei tirocinanti istituito e tenuto dal Consiglio nazionale.
 
+2.
+                        
+                            
+                                Nel registro dei tirocinanti sono riportati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero d'ordine attribuito al tirocinante, il suo cognome e nome, luogo e data di nascita, residenza, titolo di studio e numero di codice fiscale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi del decreto dirigenziale di riconoscimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sezione dell'Albo nella quale il tirocinante ha presentato istanza di iscrizione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data di decorrenza dell'iscrizione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il cognome e nome del professionista presso il quale si svolge il tirocinio, la sezione dell'Albo di appartenenza, il numero di iscrizione, il numero di codice fiscale, l'indirizzo del luogo di lavoro e il numero di iscrizione nell'elenco di cui all'articolo 8;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli eventuali provvedimenti di sospensione del tirocinio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la data di compimento del periodo di effettivo tirocinio;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la data del rilascio del certificato di compiuto tirocinio;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la data della cancellazione con relativa motivazione.
+
 ## Art. 11. — Iscrizione
 
 L'iscrizione nel registro dei tirocinanti si ottiene a seguito di istanza al Consiglio nazionale, redatta secondo lo schema allegato C al presente regolamento.
+
+2.
+                        
+                            
+                                Nella domanda il richiedente dichiara il proprio impegno ad effettuare il tirocinio di adattamento e la non sussistenza della incompatibilita' prevista dall'articolo 7 comma 3 del presente regolamento.
+ La domanda e' corredata dai seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    copia di un documento di identita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copia del decreto dirigenziale di riconoscimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attestazione di disponibilita' del professionista ad ammettere il richiedente a svolgere il tirocinio presso di se';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    n. 2 fotografie autenticate formato tessera; in alternativa, a richiesta dell'interessato, le fotografie possono essere autenticate dall'ufficio ricevente.
+ 4. Nella domanda, sottoscritta dal richiedente, sono elencati i documenti allegati; va altresi' essere espresso l'impegno a dare comunicazione delle eventuali sopravvenute variazioni entro trenta giorni dal verificarsi delle stesse.
+ 5. La domanda di iscrizione puo' essere inviata al Consiglio nazionale a mezzo lettera raccomandata con avviso di ricevimento, ovvero essere presentata direttamente presso gli uffici dello stesso Consiglio nazionale. Nel caso di consegna diretta presso gli uffici viene apposta sulla domanda il timbro del Consiglio nazionale, la data di ricevimento e viene rilasciata apposita ricevuta al tirocinante o a persona da lui delegata.
+ 6. Non e' accolta la domanda incompleta o difforme dalle previsioni del presente articolo, quando non ne sia possibile la regolarizzazione.
 
 ## Art. 12. — Delibera di iscrizione
 
@@ -135,6 +270,38 @@ Il Consiglio nazionale delibera la sospensione per un periodo comunque non super
 La sospensione e l'interruzione del tirocinio sono dichiarate dal Consiglio nazionale con provvedimento comunicato all'interessato e al professionista presso cui si svolge il tirocinio entro quindici giorni con lettera raccomandata con avviso di ricevimento.
 
 ## Art. 15. — Cancellazione dal registro dei tirocinanti
+
+1.
+                        
+                            
+                                Il Consiglio nazionale, previa comunicazione all'interessato e assegnazione allo stesso di un termine per la presentazione di eventuali osservazioni o giustificazioni delibera la cancellazione dal registro dei tirocinanti nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    rinuncia all'iscrizione:
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione di interruzione del tirocinio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    condanna definitiva per delitto contro la pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro l'economia pubblica, oppure per ogni altro delitto non colposo, per il quale la legge commini la pena della reclusione non inferiore nel minimo di due anni o nel massimo a cinque anni.
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rilascio del certificato di iscrizione all'albo dei geologi.
 
 La delibera del Consiglio nazionale di cancellazione dell'iscrizione nel registro dei tirocinanti deve essere comunicata all'interessato e al professionista presso cui e' stato svolto il tirocinio entro quindici giorni con lettera raccomandata con avviso di ricevimento, salvo che la delibera di cancellazione sia stata comunicata contestualmente a quella di interruzione del tirocinio.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2001-05-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,98 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 ## Art. 1. — O g g e t t o
 
+1.
+                    
+                        
+                            Il presente regolamento ha per oggetto:
+ 
+                        
+                        
+                            a)
+                            
+                                la promozione dell'internazionalizzazione e lo sviluppo degli scambi commerciali con l'estero favorendo l'utilizzo e l'integrazione degli strumenti internazionali, comunitari, nazionali e regionali in materia, con particolare riferimento al sostegno dei sistemi produttivi regionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il perseguimento del raccordo tra gli indirizzi e la programmazione nazionale e regionale in materia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la disciplina dei procedimenti concernenti la concessione di agevolazioni, contributi, sovvenzioni, incentivi e benefici, anche internazionali e comunitari, per il sostegno allo sviluppo delle esportazioni e dell'internazionalizzazione delle imprese, tenuto conto delle competenze statali e regionali come disciplinate dal decreto legislativo 31 marzo 1998, n. 112, e successive modifiche, e dal decreto del Presidente del Consiglio dei Ministri in data 26 maggio 2000, emanato ai sensi dell'articolo 7, comma 1, della legge 15 marzo 1997, n. 59, pubblicato nella Gazzetta Ufficiale n. 149 del 28 giugno 2000.
+
+2.
+                    
+                        
+                            In particolare, il presente regolamento si applica alla concessione di:
+ 
+                        
+                        
+                            a)
+                            
+                                assicurazione e finanziamento del credito all'esportazione, nonche' alla cooperazione economica e finanziaria in campo internazionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contributi agli interessi sui finanziamenti relativi alle quote di partecipazione a societa' ed imprese all'estero:
+
+                            
+                        
+                        
+                            c)
+                            
+                                finanziamenti a tasso agevolato per la partecipazione a gare internazionali in Paesi non appartenenti all'Unione europea;
+
+                            
+                        
+                        
+                            d)
+                            
+                                finanziamenti a tasso agevolato alle imprese italiane esportatrici per incentivare la costituzione all'estero di insediamenti stabili;
+
+                            
+                        
+                        
+                            e)
+                            
+                                finanziamenti a tasso agevolato di studi di prefattibilita', di fattibilita' e di programmi di assistenza tecnica;
+
+                            
+                        
+                        
+                            f)
+                            
+                                contributi per l'incremento della collaborazione con i Paesi individuati annualmente ai sensi dell'articolo 1, comma 1, della legge 26 febbraio 1992, n. 212;
+
+                            
+                        
+                        
+                            g)
+                            
+                                contributi ad istituti, enti ed associazione per iniziative volte a promuovere le esportazioni;
+
+                            
+                        
+                        
+                            h)
+                            
+                                contributi a consorzi per il commercio estero;
+
+                            
+                        
+                        
+                            i)
+                            
+                                contributi a consorzi agroalimentari e turistico alberghieri.
+
 ## Art. 2. — Sportello unico regionale per l'internazionalizzazione delle attivita' produttive
 
 Allo scopo di agevolare l'accesso degli operatori economici ai servizi derivanti dall'attuazione delle finalita' di cui all'articolo 1, anche nell'ambito dei vigenti accordi di programma stipulati tra il Ministero del commercio con l'estero e ciascuna regione e provincia autonoma, ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241, e' costituito lo sportello unico regionale per l'internazionalizzazione delle attivita' produttive, di seguito denominato: "sportello", di cui all'articolo 24, comma 3, del decreto legislativo 31 marzo 1998, n. 143, che puo' articolarsi su base territoriale secondo le esigenze di ciascun territorio regionale.
@@ -49,6 +141,52 @@ All'attivita' dello sportello possono essere associati il sistema delle camere d
 Gli accordi di cui al comma 2 indicano i criteri e le modalita' per la gestione operativa dello sportello, nonche' per la nomina del responsabile dello sportello.
 
 ## Art. 3. — Compiti dello sportello
+
+1.
+                    
+                        
+                            Lo sportello di cui all'articolo 2 e' volto ad assicurare:
+ 
+                        
+                        
+                            a)
+                            
+                                la diffusione e l'accesso a livello territoriale ai servizi di carattere finanziario, assicurativo, informativo e promozionale inerenti alle opportunita' ed agli strumenti internazionali, comunitari, nazionali e regionali in materia di internazionalizzazione delle imprese, ivi comprese le informazioni preliminari concernenti l'indizione e lo svolgimento di gare internazionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'assistenza e l'orientamento ai mercati internazionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'informazione sugli adempimenti necessari per le procedure previste dal presente regolamento ed il supporto ai fini istruttori;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la presentazione al soggetto competente delle domande necessarie per ottenere le misure di sostegno allo sviluppo delle esportazioni ed all'internazionalizzazione delle imprese;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'informazione in merito ai procedimenti di rilascio di autorizzazioni all'esportazione ed all'importazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                eventualmente, l'informazione in relazione ad altri strumenti di sostegno alle imprese.
 
 Lo sportello assicura altresi' l'accesso ai servizi ed alle informazioni di cui al comma 1, anche per il tramite del Sistema informativo nazionale del commercio con l'estero (SINCE), nonche' a tutte le ulteriori informazioni in materia disponibili a livello regionale comprese quelle concernenti le attivita' promozionali.
 

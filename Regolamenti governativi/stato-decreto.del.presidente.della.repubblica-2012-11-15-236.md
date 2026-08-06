@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2012-11-15;236
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,129 @@ Il presente regolamento detta la disciplina esecutiva ed attuativa relativa alla
 Per quanto non espressamente previsto dal presente regolamento, si applicano le disposizioni del citato codice dei contratti pubblici e del relativo regolamento di esecuzione e attuazione, di cui al decreto del Presidente della Repubblica 5 ottobre 2010, n. 207, nonche' quelle in materia negoziale previste dal codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, e dal relativo testo unico regolamentare, di cui al decreto del Presidente della Repubblica 15 marzo 2010, n. 90.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Genio militare», in seguito denominato «Genio»: l'articolazione dell'Amministrazione della difesa che assicura: 
+ 1) la progettazione e la realizzazione delle infrastrutture di sostegno all'attivita' istituzionale delle Forze armate; 
+ 2) l'amministrazione, la gestione e il mantenimento dei beni immobili, comunque in uso alle Forze armate per scopi istituzionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «codice»: il decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, recante il «Codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «regolamento generale»: il regolamento di cui all'art. 5 del decreto legislativo n. 163 del 2006, adottato con decreto del Presidente della Repubblica 5 ottobre 2010, n. 207; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «codice dell'ordinamento militare»: il decreto legislativo 15 marzo 2010, n. 66, recante il «Codice dell'ordinamento militare»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «testo unico dell'ordinamento militare»: il decreto del Presidente della Repubblica 15 marzo 2010, n. 90, recante il «Testo unico delle disposizioni regolamentari in materia di ordinamento militare»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «organo tecnico di Forza armata»: l'alto comando o l'ispettorato, dotato di struttura tecnica, competente in materia di infrastrutture, salvo che le funzioni siano demandate a comandi intermedi se previsti nella struttura organica degli ordinamenti di Forza armata. Per l'Arma dei carabinieri le funzioni di organo tecnico vengono assolte dalla struttura centrale del Genio appositamente istituita presso il Comando generale dell'Arma dei carabinieri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «organi esecutivi del Genio»: gli organismi periferici, territorialmente competenti in relazione agli ordinamenti di Forza armata, diretti da un ufficiale con grado dirigenziale del Genio, che sono provvisti di autonomia amministrativa o al cui servizio amministrativo provvede altro ente o distaccamento della Forza armata; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «Geniodife»: la Direzione generale dei lavori e del demanio del Ministero della difesa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «Teledife»: la Direzione informatica, telematica e tecnologie avanzate del Segretariato generale della difesa/DNA; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «ente deputato all'approvazione del contratto di lavori pubblici»: 
+ 1) Geniodife per le opere di cui agli articoli 5, 6, 7, laddove previsto dagli appositi accordi, ovvero l'organo tecnico di Forza armata, qualora incaricato della realizzazione dell'intervento; 
+ 2) gli organismi di Forza armata e interforze, secondo i rispettivi ordinamenti, per le opere di cui all'art. 8; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «manutenzione»: la combinazione di tutte le attivita' tecniche, specialistiche e amministrative, volte a realizzare, alternativamente, interventi di: 
+ 1) minuto mantenimento: gli interventi minimali necessari a conservare in efficienza gli immobili per l'uso al quale sono destinati, che non richiedono particolari competenze specialistiche del personale operatore e che sono eseguiti esclusivamente per evitare i deterioramenti prodotti dall'uso; 
+ 2) manutenzione ordinaria: gli interventi edilizi che riguardano le opere di riparazione, rinnovamento e sostituzione delle finiture degli edifici e quelle necessarie a integrare o mantenere in efficienza gli impianti tecnologici esistenti; 
+ 3) manutenzione straordinaria: le opere e le modifiche necessarie per rinnovare e sostituire parti anche strutturali degli edifici, nonche' per realizzare e integrare i servizi igienico-sanitari, sempre che non alterino i volumi e le superfici delle singole unita' immobiliari e non comportino modifiche delle singole destinazioni d'uso; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «responsabile del procedimento»: il responsabile o i responsabili del procedimento previsti dagli articoli 10 e 196, comma 4, del codice; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «Osservatorio»: l'Osservatorio dei contratti pubblici relativi a lavori, servizi e forniture, di cui all'art. 7 del codice; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «Autorita'»: l'Autorita' per la vigilanza sui contratti pubblici di lavori, servizi e forniture, di cui all'art. 6 del codice; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «requisito minimo essenziale»: l'insieme delle caratteristiche che garantiscono la realizzazione della struttura necessaria e sufficiente per soddisfare l'esigenza operativa della NATO e la cui presenza costituisce condizione per il finanziamento da parte della NATO; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «organo di verifica»: il soggetto o la commissione cui la stazione appaltante attribuisce l'incarico di effettuare una verifica di conformita'.
 
 ## - Titolo II CONTRATTI DI LAVORI PUBBLICI     Capo I     AMBITO DI APPLICAZIONE
 
@@ -115,6 +238,31 @@ Attivita' di controllo sulla gestione delle infrastrutture
 
 La funzione ispettiva e di controllo sul rispetto delle procedure per la realizzazione delle infrastrutture e' esercitata dal Segretariato generale della difesa/DNA per il tramite di Geniodife, quale titolare dell'amministrazione dei beni immobili in uso al Ministero della difesa.
 
+2.
+                        
+                            
+                                Geniodife informa lo Stato maggiore di Forza armata al quale l'ente utilizzatore appartiene nei casi di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    negligente azione di mantenimento delle infrastrutture e utilizzo non conforme alla destinazione d'uso delle stesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancata tenuta e aggiornamento del fascicolo inventariale e mancato aggiornamento dell'inventario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uso di impianti speciali in difformita' dalle disposizioni in materia di prevenzione degli infortuni e igiene del lavoro, ferme restando le competenze degli organismi specificatamente costituiti dall'Amministrazione della difesa ai sensi dell'art. 3, comma 2, e dell'art. 13, comma 1-bis, del decreto legislativo 9 aprile 2008, n. 81, e dell'art. 252 del testo unico dell'ordinamento militare.
+
 ## Art. 12. — Vigilanza sul mantenimento, l'amministrazione 
  e la gestione delle infrastrutture 
  (art. 13, d.P.R. n. 170 del 2005)
@@ -132,6 +280,38 @@ La mancata osservanza delle norme comporta la sospensione dell'esercizio dell'im
  (articoli 16, comma 2, e 17, comma 3, 
  d.P.R. n. 170 del 2005)
 
+1.
+                        
+                            
+                                L'incarico di responsabile unico o di responsabile della singola fase del procedimento e' assegnato, nell'atto di avvio del singolo procedimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da Geniodife, per le opere di cui agli articoli 5, 6 e 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla Forza armata, per i lavori di cui all'art. 8; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'organo tecnico di Forza armata, nei casi in cui tale organo sia incaricato della realizzazione degli interventi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da Teledife, per quanto attiene alle opere speciali, OS 17 e OS 19, di cui all'allegato «A» del regolamento generale.
+
 Il responsabile unico del procedimento, il responsabile per la fase di progettazione e il responsabile per la fase di esecuzione devono essere tecnici in possesso di titolo di studio e competenza adeguati all'intervento da realizzare. A tale scopo sono nominati ufficiali del Genio, ovvero dirigenti o funzionari civili dei ruoli tecnici con anzianita' di servizio non inferiore a cinque anni.
 
 Per particolari esigenze organizzative, il responsabile del procedimento puo' svolgere, nei limiti delle proprie competenze professionali, anche incarichi di progettazione e di direzione dei lavori, limitatamente agli interventi di manutenzione ordinaria di importo non superiore a 200.000 euro.
@@ -146,11 +326,279 @@ Il responsabile del procedimento che violi gli obblighi posti a suo carico o che
  del procedimento per la fase di progettazione 
  (art. 18 d.P.R. n. 170 del 2005)
 
+1.
+                        
+                            
+                                Il responsabile per la fase di progettazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove gli accertamenti preliminari idonei a consentire la verifica della fattibilita' tecnica, economica e amministrativa degli interventi in relazione agli aspetti operativi da cui deriva l'esigenza; verifica in via generale la conformita' ambientale, paesistica, territoriale e urbanistica dell'intervento e promuove, ove necessario, l'avvio delle procedure per l'acquisizione dei pareri dei competenti organi di tutela ambientale e paesaggistico - territoriale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    redige, secondo quanto previsto dall'art. 93, commi 1 e 2, del codice, il documento preliminare alla progettazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordina le attivita' necessarie al fine della redazione del progetto preliminare, verificando che, nel rispetto del contenuto del documento preliminare alla progettazione, siano indicati gli indirizzi che devono essere seguiti nei successivi livelli di progettazione e i diversi gradi di approfondimento delle verifiche, delle rilevazioni e degli elaborati richiesti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cura la richiesta del codice unico di progetto (CUP) di cui all'art. 11 della legge 16 gennaio 2003, n. 3, nonche' del codice identificativo di gara (CIG), verificando che tali codici siano riportati su tutti i documenti amministrativi e contabili concernenti il progetto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accerta e certifica la sussistenza delle condizioni di cui all'art. 90, comma 6, del codice; motiva la scelta del metodo di affidamento degli incarichi di natura tecnica, compresa la valutazione di cui all'art. 91, comma 5, del codice; coordina e verifica la predisposizione dei relativi bandi di gara, nonche' il successivo svolgimento delle relative procedure; verifica l'effettiva possibilita' di svolgere all'interno dell'Amministrazione le diverse fasi della progettazione senza l'ausilio di consulenze esterne; in relazione alle caratteristiche e alla dimensione dell'intervento, promuove e definisce le modalita' di verifica dei vari livelli progettuali, le procedure di eventuale affidamento a soggetti esterni e la stima dei corrispettivi da inserire nel quadro economico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    coordina le attivita' necessarie alla redazione del progetto definitivo ed esecutivo, verificando che siano rispettate le indicazioni del documento preliminare alla progettazione e del progetto preliminare, nonche' le attivita' necessarie alla redazione del piano di sicurezza e di coordinamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    propone all'amministrazione aggiudicatrice, nelle procedure ristrette e nelle procedure di appalto di progettazione e esecuzione, ove ne ravvisi la necessita', un incontro preliminare con le ditte per l'illustrazione del progetto e per consentire osservazioni sullo stesso; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    convoca e presiede, nelle procedure ristrette di appalto, di progettazione ed esecuzione, sulla base del progetto preliminare, ove ne ravvisi la necessita', un incontro preliminare per l'illustrazione del progetto e per consentire osservazioni allo stesso; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    propone i sistemi di affidamento dei lavori; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    effettua, prima dell'approvazione del progetto in ciascuno dei suoi livelli, le necessarie verifiche circa la rispondenza dei contenuti del documento alla normativa vigente, alle indicazioni del documento preliminare e del progetto preliminare e alle disponibilita' finanziarie, nonche' alla sussistenza dei presupposti di ordine tecnico e amministrativo necessari per conseguire la piena disponibilita' degli immobili; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    nomina i progettisti e il coordinatore per la progettazione, per l'adempimento degli obblighi di cui all'art. 91 del decreto legislativo n. 81 del 2008, e vigila sulla loro attivita'; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    raccoglie, verifica e trasmette all'Osservatorio gli elementi di informazione connessi ai lavori e relativi alle attivita' di propria competenza, in ottemperanza a quanto previsto dall'art. 7, comma 8, del codice; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    svolge, ai sensi dell'art. 16 del decreto legislativo n. 81 del 2008, su delega del soggetto di cui all'art. 26, comma 3, del medesimo decreto legislativo, i compiti previsti nello stesso art. 26, comma 3, qualora non sia prevista la predisposizione del piano di sicurezza e di coordinamento, ai sensi del richiamato decreto legislativo; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    assume, nella fase di progettazione, gli obblighi del responsabile dei lavori, ai sensi dell'art. 90 del decreto legislativo n. 81 del 2008, salvo che il soggetto deputato a rappresentare il committente intenda adempiere direttamente agli stessi obblighi.
+
+2.
+                        
+                            
+                                Il responsabile per la fase di progettazione, nel caso di lavori eseguibili per lotti, accerta e attesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'avvenuta redazione, ai fini dell'inserimento nell'elenco annuale, della progettazione preliminare dell'intero lavoro e la sua articolazione per lotti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quantificazione, nell'ambito del programma e dei relativi aggiornamenti, dei mezzi finanziari necessari per appaltare l'intero lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'idoneita' dei singoli lotti a costituire parte funzionale, fattibile e fruibile dell'intero intervento.
+
 ## Art. 15. — Funzioni e compiti del responsabile del procedimento per la fase di affidamento 
  (art. 19, d.P.R. n. 170 del 2005)
 
+1.
+                        
+                            
+                                Il responsabile del procedimento per la fase di affidamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica la legittimita' dei sistemi di affidamento proposti dal responsabile per la fase di progettazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica la conformita' alle norme di legge delle disposizioni contenute nei bandi di gara e negli atti di invito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accerta, prima della pubblicazione del bando di gara, tramite il responsabile del procedimento per la fase di progettazione, che non siano sopravvenute disposizioni legislative o regolamentari difformi da quelle vigenti alla data di approvazione del progetto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicura che sia messa a disposizione delle ditte concorrenti tutta la documentazione prevista a base di gara, compresi i piani di sicurezza di cui al decreto legislativo n. 81 del 2008; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di procedura negoziata senza pubblicazione di bando, promuove la gara informale e garantisce la pubblicita' dei relativi atti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    richiede all'Amministrazione aggiudicatrice la nomina della commissione giudicatrice nel caso di affidamento con il criterio dell'offerta economicamente piu' vantaggiosa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    raccoglie, verifica e trasmette all'Osservatorio gli elementi di informazione connessi all'affidamento dei lavori, per le attivita' di propria competenza, in ottemperanza a quanto previsto dall'art. 7, comma 8, del codice.
+
 ## Art. 16. — Funzioni e compiti del responsabile del procedimento per la fase di esecuzione 
  (art. 20, d.P.R. n. 170 del 2005)
+
+1.
+                        
+                            
+                                Il responsabile del procedimento per la fase di esecuzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove l'istituzione dell'ufficio di direzione dei lavori e accerta la sussistenza delle condizioni che, ai sensi dell'art. 90, comma 6, del codice, giustificano l'affidamento dell'incarico a soggetti esterni alla Amministrazione aggiudicatrice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accerta la data di effettivo inizio dei lavori e ogni altro termine di svolgimento degli stessi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nomina il coordinatore per l'esecuzione dei lavori, per l'adempimento degli obblighi di cui all'art. 92 del decreto legislativo n. 81 del 2008, e vigila sulla sua attivita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accerta che ricorrano le condizioni previste dalla legge per le varianti in corso d'opera; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    irroga le penali per il ritardato adempimento degli obblighi contrattuali, anche sulla base delle indicazioni fornite dal direttore dei lavori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    propone la risoluzione del contratto ogni qualvolta ne ricorrano i presupposti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    propone la transazione e la definizione bonaria delle controversie che insorgono in ogni fase di realizzazione dei lavori e promuove la costituzione della commissione per la proposta di accordo bonario ai sensi dell'art. 240, comma 5, del codice, in tale ambito richiedendo all'ente deputato all'approvazione del contratto la nomina del componente dell'Amministrazione in seno alla commissione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nell'ambito delle comunicazioni all'Autorita' e' responsabile della correttezza degli elementi di informazione relativi all'esecuzione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    trasmette agli organi competenti dell'Amministrazione aggiudicatrice, sentito il direttore dei lavori, la proposta del coordinatore per l'esecuzione dei lavori di sospensione, allontanamento delle imprese e dei lavoratori autonomi dal cantiere o di risoluzione del contratto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    raccoglie, verifica e trasmette all'Osservatorio gli elementi di informazione connessi all'esecuzione dei lavori, per le attivita' di propria competenza, in ottemperanza a quanto previsto dall'art. 7, comma 8, del codice; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    assume, nell'ambito della fase di esecuzione, gli obblighi del responsabile dei lavori, ai sensi dell'art. 90 del decreto legislativo n. 81 del 2008; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    svolge funzione di vigilanza sulla realizzazione dei lavori nella concessione dei lavori pubblici, verificando il rispetto delle prescrizioni contrattuali.
 
 ## - Sezione II Programmazione dei lavori a finanziamento nazionale
 
@@ -278,6 +726,24 @@ I nominativi delle ditte dei Paesi alleati interessate alla gara di appalto sono
 
 I nominativi di cui al comma 4 devono pervenire a Geniodife o alla delegazione italiana presso il Quartier generale della NATO nei termini indicati dall'informativa di cui al comma 2.
 
+6.
+                        
+                            
+                                Alla gara di appalto sono invitate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le ditte italiane ritenute idonee a seguito di verifica delle caratteristiche richieste dal bando di gara, effettuata da Geniodife; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le ditte non italiane le cui richieste siano pervenute nei termini di cui al comma 5, ritenute idonee ai sensi del documento di cui al comma 1.
+
 Per i lavori per i quali gli organismi della NATO autorizzano l'affidamento con procedure ordinarie, si procede con le disposizioni previste dal codice, con esclusione degli adempimenti in materia di pubblicita' e partecipazione a livello comunitario.
 
 Le procedure di cui ai commi 1, 2, 3, 4, 5 e 6 sono automaticamente adeguate alle modifiche procedurali adottate dagli organismi della NATO.
@@ -367,7 +833,99 @@ In deroga all'art. 159, comma 10, del regolamento generale, la risposta in merit
 ## Art. 42. — Fondi a disposizione delle stazioni appaltanti 
  (articoli 192 e 193, d.P.R. n. 170 del 2005)
 
+1.
+                        
+                            
+                                Il fondo da porre a disposizione dell'Amministrazione risultante dal quadro economico allegato al progetto approvato ha le seguenti destinazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilievi, accertamenti e indagini preliminari, nonche' eventuali prove di laboratorio e verifiche tecniche previste dal capitolato speciale di appalto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    somme a disposizione per l'esecuzione di lavori in economia esclusi dall'appalto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    spese tecniche di progettazione, direzione lavori, assistenza giornaliera, contabilita', liquidazione e assistenza ai collaudi, nonche' per il coordinamento della sicurezza in fase di progettazione e di esecuzione, e spese per l'assicurazione dei dipendenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    spese per attivita' di consulenza o di supporto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    spese per commissioni giudicatrici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    spese per collaudi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    imposta sul valore aggiunto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    spese per pubblicita' e, ove previsto, per opere d'arte; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    incremento del prezzo chiuso ai sensi dell'art. 133, comma 3, del codice.
+
 Per gli espropri si provvede con fondi resi disponibili sull'apposito capitolo di spesa.
+
+3.
+                        
+                            
+                                I fondi messi a disposizione dalla NATO per la realizzazione dei progetti da essa finanziati hanno le seguenti destinazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    spese per la progettazione, spese per ausili professionali per la direzione e l'assistenza dei lavori e oneri per i coordinatori per la sicurezza in fase di progettazione e di esecuzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spese per i lavori e per gli imprevisti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    spese per i collaudi.
 
 ## Art. 43. — Certificato di ultimazione dei lavori 
  (art. 209, d.P.R. n. 170 del 2005)
@@ -496,6 +1054,38 @@ Limitatamente agli aspetti tecnici, per verificare che siano rispettate tutte le
 ## Art. 62. — Tipologia dei lavori eseguibili in economia 
  (art. 123, comma 1, d.P.R. n. 170 del 2005)
 
+1.
+                        
+                            
+                                I lavori eseguibili in economia sono individuati nell'ambito delle categorie generali di cui all'art. 125 del codice e delle seguenti ulteriori categorie generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lavori di completamento o di riparazione in dipendenza di deficienze o di danni constatati in sede di collaudo nei limiti delle corrispondenti detrazioni effettuate a carico degli appaltatori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavori di cui all'art. 63 quando ragioni di urgenza non consentano il ricorso alle normali procedure di appalto. L'urgenza deve essere dichiarata dai competenti organi di Forza armata con decreto motivato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lavori realizzati fuori dal territorio nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lavori interferenti con l'attivita' operativa di enti e reparti quando questa non possa essere interrotta o differita.
+
 ## Art. 63. — Lavori con finanziamento della NATO 
  eseguibili in economia 
  (art. 124, d.P.R. n. 170 del 2005)
@@ -504,6 +1094,31 @@ I lavori di cui all'art. 34, finanziati dalla NATO con la procedura «URGENT REQ
 
 ## Art. 64. — Sistemi di esecuzione dei lavori in economia 
  (art. 181, d.P.R. n. 170 del 2005)
+
+1.
+                        
+                            
+                                Ai sensi dell'art. 125, comma 1, e dell'art. 196, comma 7, del codice, i lavori in economia possono essere eseguiti con tre sistemi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in amministrazione diretta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a mezzo cottimi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a mezzo reparti del Genio, anche con l'ausilio di personale di truppa.
 
 ## Art. 65. — Lavori in amministrazione diretta 
  (art. 182, d.P.R. n. 170 del 2005)
@@ -540,6 +1155,38 @@ Nell'espletamento delle procedure di affidamento in economia necessarie per l'es
 
 ## Art. 68. — Autorizzazione all'esecuzione dei lavori in economia 
  (art. 185, d.P.R. n. 170 del 2005)
+
+1.
+                        
+                            
+                                L'esecuzione dei lavori in economia e' autorizzata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da Geniodife, per i lavori di cui all'art. 62 e 63; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dagli organi tecnici di Forza armata o dagli organi esecutivi del Genio per i lavori di cui all'art. 62, che comportino manutenzione ordinaria, di cui all'art. 8, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dagli organi esecutivi del Genio per i lavori necessari per la compilazione di progetti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dai comandanti degli enti per i lavori di minuto mantenimento, di cui all'art. 8, comma 2.
 
 I fondi per la realizzazione di lavori in economia, da eseguire a cura degli organi esecutivi del Genio e dei comandi degli enti, sono accreditati a favore dell'ente interessato dal centro di responsabilita' per i capitoli di spesa di competenza.
 
@@ -694,6 +1341,24 @@ Il responsabile del procedimento per la fase di progettazione definisce, secondo
  (art. 210, d.P.R. n. 554 del 1999 e art. 237, 
  d.P.R. n. 170 del 2005)
 
+1.
+                        
+                            
+                                Qualora l'ente utente abbia necessita' di occupare o utilizzare l'opera o il lavoro realizzato, ovvero parte dell'opera o del lavoro realizzato, prima del collaudo il responsabile del procedimento per la fase di esecuzione puo' autorizzare la presa in consegna anticipata a condizioni che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano state acquisite le certificazioni di cui all'art. 85, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia stato redatto apposito stato di consistenza dettagliato, da allegare al verbale di consegna del lavoro, nonche' la documentazione relativa all'aggiornamento dell'inventario del compendio immobiliare oggetto dei lavori.
+
 Ai fini della consegna anticipata l'organo di collaudo, qualora costituito, o un collaudatore tecnico nominato dal responsabile del procedimento per l'esecuzione, attesta l'esistenza delle condizioni di cui al comma 1 ed effettua le necessarie constatazioni per accertare che l'occupazione e l'uso dell'opera siano possibili senza inconvenienti per l'Amministrazione e senza violare i patti contrattuali. Il collaudatore tecnico redige un verbale, sottoscritto anche dal direttore dei lavori e dall'esecutore, vistato dal responsabile del procedimento per l'esecuzione, nel quale riferisce sulle constatazioni effettuate e sulle conclusioni.
 
 Le constatazioni finalizzate alla consegna anticipata possono essere effettuate dal direttore dei lavori per i lavori non eccedenti l'importo di un milione di euro.
@@ -793,6 +1458,24 @@ L'attestazione del versamento e' immediatamente prodotta all'ufficiale rogante d
  (art. 12, comma 4, decreto ministeriale n. 200 del 2000)
 
 Il subappalto e' consentito alle condizioni e nei limiti previsti dal codice e dal regolamento generale.
+
+2.
+                        
+                            
+                                Il subappalto e' altresi' consentito, sempre alle condizioni e nei limiti previsti dal codice e dal regolamento generale, quando l'esecutore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    affida ad altri la produzione di determinati componenti che, pur rientrando nella normale attivita' produttiva di questi ultimi e non richiedendo modifiche della loro organizzazione imprenditoriale, non configurano un prodotto strettamente di serie giacche' presentano caratteristiche estetiche, funzionali e di qualita' specificatamente ordinate dall'esecutore in funzione della realizzazione dell'attivita' commissionata con il contratto principale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non impiega manodopera propria nell'assemblaggio o nell'istallazione delle diverse parti del prodotto finale oggetto del subappalto, ma si avvale di manodopera fornita dagli stessi fornitori di quei componenti.
 
 Rimane in ogni caso invariata la responsabilita' dell'esecutore, il quale continua a rispondere direttamente degli obblighi contrattuali e di qualunque inadempienza, tanto per fatto proprio quanto per fatto del subappaltatore.
 
@@ -1037,6 +1720,31 @@ l. Qualora all'esecutore siano state contestate inadempienze contrattuali, l'Amm
 ## Art. 124. — Inadempienze 
  (articoli 33 e 38, decreto ministeriale n. 200 del 2000)
 
+1.
+                        
+                            
+                                In caso di inadempimento degli obblighi contrattuali, comprese le ipotesi di ritardato ritiro degli oggetti contrattuali rifiutati alle prove di verifica, il direttore dell'esecuzione assegna all'esecutore inadempiente un termine non inferiore a giorni venti per presentare le proprie giustificazioni. Decorso il termine, ovvero qualora le giustificazioni addotte non siano ritenute soddisfacenti, l'Amministrazione, valutata la gravita' dell'inadempimento, ha facolta' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarare risolto il contratto e incamerare la cauzione, in misura proporzionale alla parte del contratto non eseguita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvedere all'esecuzione in danno del contratto o della parte del contratto non eseguita, con le modalita' indicate al comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proseguire nell'esecuzione del contratto, applicando le penalita' previste dall'art. 125.
+
 Nei casi previsti dalle lettere a) e b), all'esecutore e' liquidata soltanto la parte di fornitura o delle prestazioni gia' regolarmente verificate, accettate e consegnate.
 
 Nell'ipotesi di cui al comma l, lettera b), l'Amministrazione puo' affidare a terzi, ai prezzi e alle condizioni di mercato, le forniture e le prestazioni non eseguite, eventualmente anche con le procedure in economia, nei limiti di importo previsti, ovvero rivolgersi fino al quinto classificato che abbia presentato offerta valida, provvedendo all'incameramento della cauzione in misura proporzionale alla parte non eseguita.
@@ -1088,8 +1796,233 @@ Ferma restando la sua responsabilita', l'esecutore e' obbligato a dare immediata
 ## Art. 129. — Casi di utilizzo delle procedure di acquisto in economia 
  (art. 2, decreto ministeriale 16 marzo 2006)
 
+1.
+                        
+                            
+                                Nel rispetto degli atti di programmazione previsti dalle amministrazioni aggiudicatrici, fatte salve le ipotesi di cui all'art. 125, comma 10, del codice, le tipologie di spese per le quali le stazioni appaltanti possono fare ricorso alle procedure di acquisto in economia, nei limiti di importo di cui all'art. 130, sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisizione di beni e servizi necessari a fronteggiare l'immediato pericolo o necessari per la difesa da ogni genere di calamita' ed evento naturale o azione prodotta dall'uomo, ovvero necessari per le riparazioni dei danni da questi causati o connessi a impellenti e imprevedibili esigenze di ordine pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvidenze urgenti per l'igiene e la sicurezza del personale nel corso dei lavori e dei primi soccorsi in caso di infortunio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisizione di beni e servizi per assicurare il funzionamento dei fari e dei segnalamenti marittimi, delle telecomunicazioni, di assistenza al volo e di difesa aerea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    acquisizione di beni e servizi da effettuare necessariamente con imprese straniere per i quali i fornitori non intendano impegnarsi con contratti, ovvero si ricorra ad agenzie od organismi internazionali appositamente costituiti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    acquisizione di beni e servizi per la rimozione di ostacoli di qualunque genere alla navigazione marittima e aerea, nonche' necessari per l'agibilita' dei campi di volo e degli specchi d'acqua destinati all'ammaraggio di velivoli; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    spese per il funzionamento delle sale mediche e delle strutture veterinarie, compreso l'acquisto dei medicinali, delle apparecchiature e dei materiali sanitari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    spese per il funzionamento del servizio sanitario e veterinario; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    spese per l'acquisto del vettovagliamento, del vestiario, dell'equipaggiamento, dei combustibili, dei carbolubrificanti e dell'ossigeno; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    spese per il funzionamento delle carceri militari; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    spese finalizzate a garantire il servizio dei trasporti di personale e materiali; spese relative alle attrezzature speciali; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    spese attinenti ai noli, all'imballaggio, allo sdoganamento, all'immagazzinamento, al facchinaggio, nonche' al carico e allo scarico dei materiali; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    spese per il funzionamento degli uffici militari all'estero; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    spese per polizze di assicurazione; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    spese per l'acquisto, il noleggio, la riparazione e la manutenzione di autoveicoli, comprese le parti di ricambio; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    spese per l'acquisto e la manutenzione di terminali, personal computer, stampanti e materiale informatico di vario genere e spese per i servizi informatici; acquisto, manutenzione e riparazione di mobili, arredi, climatizzatori e attrezzature; spese inerenti agli acquisti di materiale vario non di primo impianto; attrezzi e materiali ginnico-sportivi; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    spese per acquisto, noleggio, installazione, gestione e manutenzione degli impianti di riproduzione e degli impianti telefonici, telegrafici, radiotelefonici, elettronici, meccanografici, televisivi, di amplificazione e diffusione sonora; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    spese per la stampa o la litografia di pubblicazioni e bollettini; acquisto, noleggio e manutenzione di attrezzature e materiali per la tipografia, la litografia, la riproduzione grafica di documenti, disegni ed elaborati tecnici, la legatoria, la cinematografia e la fotografia; acquisto, noleggio e manutenzione delle macchine per scrivere e per calcolo, dei servizi di microfilmatura, nonche' acquisto e noleggio di attrezzature accessorie e di materiali speciali e di consumo e fornitura dei servizi per i centri elettronici, per i centri radiotelegrafonici, meccanografici e telematici; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    spese per la pulizia e l'igiene, la derattizzazione, il disinquinamento, la disinfestazione di aree e locali, la raccolta e il trasporto dei rifiuti, l'illuminazione di emergenza, la conservazione dei materiali, l'acquisto di imballaggi, il trasporto di materiali e quadrupedi, nonche' quelle per la manovalanza e per garantire la sicurezza, la guardiania, la sorveglianza e il controllo dei locali, delle caserme e delle installazioni militari; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    spese per l'illuminazione, le utenze telefoniche, il riscaldamento dei locali, la fornitura di acqua, di gas e di energia elettrica, anche mediante l'impiego di macchine e relative spese di allacciamento; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    spese per conferenze, mostre, cerimonie; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    spese per acquisto e rilegatura di libri, stampe, gazzette ufficiali e collezioni; acquisto di materiali di cancelleria, materiali per il disegno e valori bollati; acquisto ovvero abbonamento a riviste, giornali, pubblicazioni, agenzie di stampa e servizi stampa; divulgazione di bandi di concorso o avvisi a mezzo stampa o di altri mezzi di informazione; spese per la traduzione di documenti e elaborati tecnici; spese per la traduzione e l'elaborazione di pubblicazioni e riviste edite dall'Amministrazione, ivi compresa la corresponsione di compensi ai collaboratori per le prestazioni di lavoro autonomo dai medesimi rese; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    spese di rappresentanza, di informazione, di pubblicita' e propaganda attraverso agenzie di stampa, radio, televisione e cinematografia, per l'addobbo e l'arredamento dei locali adibiti ad attivita' culturali e ricreative; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    spese per le onoranze funebri, per i musei storici, per l'acquisto di medaglie, nastrini, distintivi, croci di anzianita', diplomi, fasce tricolori, bandiere e oggetti per premiazioni; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    spese relative a solennita' militari, a feste nazionali, manifestazioni e ricorrenze varie; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    spese per il benessere del personale; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    spese per l'addestramento, l'educazione fisica e l'attivita' sportiva, il mantenimento, il governo e la custodia di animali, per l'acquisto e la manutenzione di materiali di dotazione, delle bardature e delle ferrature; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    spese per acquisizione di brevetti, lavori e studi di carattere scientifico, tecnico ed economico di interesse delle Forze armate; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    spese per borse di studio e di perfezionamento; premi per invenzioni.
+
 ## Art. 130. — Limiti di spesa 
  (art. 3, decreto ministeriale 16 marzo 2006)
+
+1.
+                        
+                            
+                                Per le forniture di beni e servizi il ricorso alla procedura in economia e' ammesso per importi inferiori a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    130.000,00 euro per le acquisizioni di servizi, salvi quelli di cui all'art. 28, comma 1, lettera b.2) del codice per i quali l'importo e' di 200.000,00 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    130.000,00 euro per le acquisizioni dei prodotti menzionati nell'allegato V del codice; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    200.000,00 euro per l'acquisizione degli altri beni.
 
 Le soglie di cui al comma 1 sono adeguate in relazione alle modifiche delle soglie previste dagli articoli 28 e 196 del codice, con lo stesso meccanismo di adeguamento previsto dall'art. 248 del codice.
 
@@ -1098,6 +2031,63 @@ Le soglie di cui al comma 1 sono adeguate in relazione alle modifiche delle sogl
 
 Il ricorso alla procedura in economia, nell'ambito dei fondi assegnati per ciascun programma, nel rispetto delle norme contenute nel presente regolamento, e' autorizzato dal dirigente militare o civile titolare del potere di spesa; presso gli organismi periferici il titolare del potere di spesa e' il comandante dell'ente o distaccamento provvisto di autonomia amministrativa.
 
+2.
+                        
+                            
+                                Il comandante dell'organismo che non riveste grado dirigenziale puo' autorizzare le sottonotate spese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    spese afferenti alle utenze di acqua, luce, gas nonche' per quelle di cui all'art. 133, comma 1, lettera n), nell'ambito dei limiti di cui all'art. 130; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutte le altre spese nei limiti di 40.000 euro. Per importi superiori e' necessaria l'autorizzazione da parte del dirigente militare o civile sovraordinato individuato dagli ordinamenti di Forza armata, o dell'Arma dei carabinieri.
+
+3.
+                        
+                            
+                                L'atto che autorizza il ricorso alla procedura in economia da parte del titolare del potere di spesa deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esigenza da soddisfare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i motivi per i quali e' adottata la procedura in economia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in quale tipologia di spese, prevista nel presente provvedimento, rientri l'acquisizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'importo presunto della spesa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il capitolo di imputazione della spesa.
+
 Il procedimento di acquisizione e' posto in atto dal capo del servizio amministrativo o dal funzionario che esplica funzioni equipollenti che, essendo preposto alla gestione amministrativa dell'organismo, adotta, nell'ambito della propria competenza, gli atti di spesa e quelli preparatori, anche a rilevanza esterna, nel rispetto delle disposizioni del presente capo.
 
 ## Art. 132. — Svolgimento della procedura di cottimo fiduciario 
@@ -1105,10 +2095,211 @@ Il procedimento di acquisizione e' posto in atto dal capo del servizio amministr
 
 La scelta dell'impresa presso cui effettuare l'acquisizione deve avvenire previa richiesta di preventivi ad almeno cinque imprese e acquisizione di almeno tre preventivi. Le richieste di preventivi devono essere inviate alle imprese abilitate al mercato elettronico della pubblica amministrazione ovvero a quelle che, a seguito della pubblicita' di cui all'art. 136, abbiano fatto espressa richiesta di essere invitate. Qualora non siano state individuate almeno cinque imprese abilitate al mercato elettronico della pubblica amministrazione, ovvero non vi siano almeno cinque imprese che abbiano richiesto di essere invitate, l'Amministrazione puo' condurre l'indagine mediante richiesta di preventivi a imprese comunque individuate. Nel caso in cui l'indagine non porti all'acquisizione di un numero sufficiente di preventivi, la stessa e' ripetuta e l'acquisizione di beni e servizi puo' essere effettuata anche in presenza di un solo preventivo.
 
+2.
+                        
+                            
+                                La richiesta dei preventivi o di offerte, da inoltrare alle ditte mediante lettera o altro atto (telegramma, telefax, posta elettronica certificata) deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'oggetto della prestazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche tecniche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo massimo previsto, con esclusione dell'I.V.A.; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le qualita' e le modalita' di esecuzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le eventuali garanzie richieste al contraente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il termine di presentazione delle offerte; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il periodo in giorni di validita' delle offerte; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il termine per l'esecuzione della prestazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il criterio di aggiudicazione prescelto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    gli elementi di valutazione, nel caso si utilizzi il criterio dell'offerta economicamente piu' vantaggiosa; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'eventuale clausola che preveda di non procedere all'aggiudicazione nel caso di presentazione di un'unica offerta valida; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    la misura delle penali, determinata in conformita' alle disposizioni del codice e del presente regolamento; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'obbligo per l'offerente di dichiarare nell'offerta di assumere a proprio carico tutti gli oneri assicurativi e previdenziali, di osservare le norme vigenti in materia di sicurezza sul lavoro e di retribuzione dei lavoratori dipendenti, nonche' di accettare condizioni contrattuali e penalita'; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    le modalita' e i termini di pagamento; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    i requisiti soggettivi previsti e l'obbligo dell'appaltatore di rendere apposita dichiarazione in merito al possesso degli stessi; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    l'informazione circa l'obbligo di assoggettarsi alle condizioni e penalita' previste e di uniformarsi alle norme legislative e regolamentari applicabili alla fornitura o ai servizi da eseguire; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    la facolta' per l'Amministrazione di provvedere all'esecuzione dell'obbligazione a spese dell'impresa prescelta e di procedere alla risoluzione del rapporto negoziale, mediante semplice denuncia, nei casi in cui l'impresa stessa venga meno alle obbligazioni assunte; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    ogni altra prescrizione ritenuta necessaria ai fini dell'acquisizione.
+
 Tra i preventivi acquisiti, se la prestazione oggetto dell'acquisizione deve essere conforme a specifici disciplinari tecnici, oppure si riferisce a nota specialita', e' prescelto quello con il prezzo piu' basso; negli altri casi la scelta puo' anche essere effettuata, con adeguata motivazione, sulla base del criterio dell'offerta economicamente piu' vantaggiosa.
 
 I preventivi sono esaminati da una commissione nominata con apposito atto dagli organi responsabili di cui all'art. 131, comma 1.
 La commissione e' composta dal capo del servizio amministrativo o dal funzionario che esplica funzioni equipollenti e da altri due funzionari dei quali almeno uno tecnicamente competente in relazione alla natura dei beni e servizi da acquisire. La commissione redige e sottoscrive il verbale di ricognizione dei preventivi, individuando l'impresa presso la quale ha luogo l'acquisizione.
+
+5.
+                        
+                            
+                                Il capo del servizio amministrativo o il funzionario che esplica funzioni equipollenti, sulla base delle risultanze della ricognizione dei preventivi riportata nel verbale, emette apposito atto dispositivo per la susseguente acquisizione dei beni e dei servizi, che e' perfezionata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante lettera di ordinazione, quando l'importo della spesa non superi l'ammontare di 40.000 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante atto negoziale negli altri casi; al riguardo, il contratto affidato mediante cottimo fiduciario e' stipulato attraverso scrittura privata, che puo' anche consistere in apposito scambio di lettere con cui la stazione appaltante dispone l'ordinazione dei beni o dei servizi, che riporta i medesimi contenuti previsti dalla lettera di invito.
+
+6.
+                        
+                            
+                                Gli atti di cui al comma 5 devono riportare gli elementi essenziali previsti nella lettera d'invito e comprendere almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la descrizione dei beni o servizi oggetto dell'ordinazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quantita' e il prezzo degli stessi con l'indicazione dell'I.V.A.; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la qualita', le modalita' e i termini di esecuzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli estremi contabili (capitolo); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la forma di pagamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le penali per la ritardata o incompleta esecuzione, nonche' l'eventuale richiamo all'obbligo del contraente di uniformarsi alle vigenti norme di legge e regolamentari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'ufficio referente ed eventuali altre indicazioni utili al fornitore.
 
 Nel caso di lettera di ordinazione, l'impresa deve esprimere per iscritto all'Amministrazione la propria accettazione.
 
@@ -1137,6 +2328,38 @@ Gli avvisi specificano espressamente che, ove interessate, le imprese devono ino
 ## - Titolo V DISPOSIZIONI TRANSITORIE E FINALI
 
 ## Art. 136. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente regolamento, sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Ministro della difesa 14 aprile 2000, n. 200; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Presidente della Repubblica 19 aprile 2005, n. 170; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 14 e 15 del decreto del Presidente della Repubblica 21 febbraio 2006, n. 167; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Ministro della difesa 16 marzo 2006.
 
 ## Art. 137. — Disposizione transitoria di coordinamento 
  con la direttiva 2009/81/CE

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-04-10;36
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,24 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro della giustizia;
 
 ## Art. 1. — Minaccia
+
+1.
+                    
+                        
+                            All'articolo 612 del codice penale, approvato con regio decreto 19 ottobre 1930, n. 1398, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al secondo comma, le parole: «e si procede d'ufficio» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il secondo comma e' aggiunto il seguente: «Si procede d'ufficio se la minaccia e' fatta in uno dei modi indicati nell'articolo 339.».
 
 ## Art. 2. — Violazione di domicilio commessa 
  da un pubblico ufficiale

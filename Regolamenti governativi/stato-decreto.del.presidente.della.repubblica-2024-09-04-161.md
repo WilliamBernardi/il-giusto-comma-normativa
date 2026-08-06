@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2024-09-04;161
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,38 @@ Sulla proposta del Ministro dell'agricoltura, della sovranita' alimentare e dell
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                Ministro: il Ministro dell'agricoltura, della sovranita' alimentare e delle foreste; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ministero: il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Sottosegretari di Stato: i Sottosegretari di Stato presso il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Uffici di diretta collaborazione: gli Uffici di diretta collaborazione del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste, ai sensi dell'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e dell'articolo 7 del decreto legislativo 30 luglio 1999, n. 300.
+
 ## Art. 2. — Uffici di diretta collaborazione del Ministro
 
 Il Ministro e' l'organo di direzione politica del Ministero e si avvale, per l'esercizio delle funzioni ad esso attribuite, degli Uffici di diretta collaborazione.
@@ -34,6 +66,66 @@ I Sottosegretari di Stato coadiuvano il Ministro e svolgono le funzioni e i comp
 
 Gli Uffici di diretta collaborazione esercitano le competenze di supporto all'organo di direzione politica e di raccordo tra questo e l'amministrazione, collaborando alla definizione degli obiettivi e all'elaborazione delle politiche pubbliche, nonche' alla relativa valutazione e alle connesse attivita' di comunicazione, con particolare riguardo all'analisi dell'impatto normativo, all'analisi costi-benefici e alla congruenza tra obiettivi e risultati.
 
+4.
+                    
+                        
+                            Sono Uffici di diretta collaborazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'Ufficio di Gabinetto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la Segreteria del Ministro e il Segretario particolare; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'Ufficio legislativo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la Segreteria tecnica del Ministro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'Ufficio stampa; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'Ufficio del Consigliere diplomatico; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'Ufficio dei rapporti internazionali e del cerimoniale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le Segreterie dei Sottosegretari di Stato.
+
 I Capi degli Uffici di cui al comma 4, ivi compreso il Segretario particolare del Ministro, sono nominati dal Ministro con proprio decreto per la durata massima del relativo mandato governativo, ferma restando la possibilita' di revoca anticipata per cessazione del rapporto fiduciario.
 
 Per lo svolgimento degli incarichi istituzionali delegati dal Ministro, i Sottosegretari di Stato si avvalgono dell'Ufficio di Gabinetto, dell'Ufficio legislativo, dell'Ufficio del Consigliere diplomatico e dell'Ufficio dei rapporti internazionali e del cerimoniale.
@@ -41,6 +133,38 @@ Per lo svolgimento degli incarichi istituzionali delegati dal Ministro, i Sottos
 Gli Uffici di diretta collaborazione, ai fini di cui al decreto legislativo 7 agosto 1997, n. 279, costituiscono un unico centro di responsabilita' amministrativa.
 
 ## Art. 3. — Ufficio di Gabinetto
+
+1.
+                    
+                        
+                            L'Ufficio di Gabinetto supporta il Capo di Gabinetto per le competenze proprie e per quelle delegate dal Ministro. In particolare, l'Ufficio di Gabinetto: 
+ 
+                        
+                        
+                            a)
+                            
+                                coordina e cura i rapporti con gli altri organi costituzionali e comunitari, con le autorita' amministrative indipendenti e con il Consiglio di Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolge attivita' di supporto all'organo politico circa la destinazione delle risorse finanziarie di cui all'articolo 4, comma 1, lettera c), del decreto legislativo 30 marzo 2001, n. 165, in raccordo con i dipartimenti e gli uffici dirigenziali generali competenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sovrintende, altresi', alle funzioni di comunicazione istituzionale del Ministero, determinando gli indirizzi strategici e le priorita' operative dell'azione di comunicazione del Ministero, ferme restando le attribuzioni gestionali delle strutture amministrative del Ministero; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                cura i rapporti con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e la Conferenza unificata, di cui al decreto legislativo 28 agosto 1997, n. 281; cura, inoltre, l'adozione dei provvedimenti di concessione del patrocinio del Ministero.
 
 Tale Ufficio, con provvedimento del Capo di Gabinetto, puo' essere articolato in distinte aree organizzative di carattere non dirigenziale.
 
@@ -71,6 +195,59 @@ Il Capo della Segreteria e il Segretario particolare sono scelti fra persone, an
 ## Art. 5. — Ufficio legislativo
 
 L'Ufficio legislativo cura l'attivita' legislativa e regolamentare nelle materie di competenza del Ministero con la collaborazione degli uffici del Ministero attraverso lo studio, l'elaborazione normativa, la valutazione dei costi della regolazione, l'analisi dell'impatto e della fattibilita' della regolamentazione, garantendo la qualita' del linguaggio normativo, lo snellimento e la semplificazione normativa.
+
+2.
+                    
+                        
+                            Lo stesso Ufficio, inoltre: 
+ 
+                        
+                        
+                            a)
+                            
+                                esamina i provvedimenti da sottoporre al Consiglio dei ministri e quelli di iniziativa parlamentare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                garantisce il raccordo permanente con l'attivita' normativa del Parlamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                cura le risposte agli atti parlamentari di sindacato ispettivo riguardanti il Ministero e il seguito dato agli stessi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                cura i rapporti con la Presidenza del Consiglio dei ministri e le altre amministrazioni, anche per quanto riguarda la formazione e l'attuazione normativa di atti dell'Unione europea e della legislazione regionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                cura i rapporti di natura tecnico-giuridica con le autorita' amministrative indipendenti, con la Conferenza permanente per i rapporti tra lo Stato, le regioni, e le province autonome di Trento e di Bolzano, la Conferenza Stato-citta' ed autonomie locali e la Conferenza unificata, con l'Avvocatura dello Stato e con il Consiglio di Stato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                sovrintende al contenzioso internazionale, europeo e costituzionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                svolge attivita' di consulenza giuridica e legislativa per il Ministro e i Sottosegretari e, sulle questioni di particolare rilevanza, coadiuva gli Uffici di diretta collaborazione, le strutture dipartimentali e le direzioni generali.
 
 Il Capo dell'Ufficio legislativo e' scelto fra magistrati ordinari, amministrativi e contabili, avvocati dello Stato, consiglieri parlamentari, dirigenti di ruolo delle pubbliche amministrazioni dotati di elevata professionalita' ed esperienza, professori universitari di ruolo nell'area delle scienze giuridiche nonche' fra soggetti, anche estranei alla pubblica amministrazione, in possesso di elevata e comprovata capacita' ed esperienza nel campo della consulenza giuridica e legislativa e della progettazione e produzione normativa.
 
@@ -140,6 +317,31 @@ Alla struttura di cui al comma 5 e' assegnato un contingente di personale non su
 
 L'OIV costituisce centro di costo del centro di responsabilita' «Gabinetto e Uffici di diretta collaborazione all'opera del Ministro».
 
+9.
+                    
+                        
+                            Al titolare dell'Organismo indipendente di valutazione della performance monocratico, nonche' al personale della struttura di supporto di cui al comma 5, si applicano i trattamenti economici di seguito stabiliti e cosi' articolati: 
+ 
+                        
+                        
+                            a)
+                            
+                                per il titolare dell'organo monocratico, in una voce retributiva di importo non superiore a quello massimo del solo trattamento economico fondamentale dei dirigenti preposti ad ufficio dirigenziale generale incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il responsabile della struttura di supporto di cui al comma 5, in una voce retributiva onnicomprensiva di importo non superiore alla misura massima del trattamento economico fondamentale dei dirigenti preposti ad ufficio dirigenziale di livello non generale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al personale della struttura tecnica di supporto, di cui al comma 7, il trattamento economico accessorio previsto per il personale in servizio presso gli Uffici di diretta collaborazione del Ministro di cui all'art. 13, comma 5, del presente regolamento.
+
 ## Art. 12. — Personale degli uffici di diretta collaborazione
 
 Il contingente di personale degli Uffici di diretta collaborazione, ad eccezione di quello di cui all'articolo 10 e all'articolo 11, e' stabilito, nel rispetto degli stanziamenti a bilancio per gli organi di diretta collaborazione, in complessive 100 unita', comprensive delle unita' addette al funzionamento corrente degli Uffici medesimi. Entro tale contingente complessivo possono essere assegnati ai predetti Uffici dipendenti del Ministero ovvero altri dipendenti pubblici, anche in posizione di fuori ruolo, comando, aspettativa, o in altre analoghe posizioni previste dai rispettivi ordinamenti, nonche', per sopperire ad esigenze non fronteggiabili con il personale in servizio, nei limiti della capienza dei pertinenti capitoli di bilancio e, in tal senso, a complessiva invarianza di spesa, nel limite massimo di venti unita' del predetto contingente complessivo, personale estraneo alla pubblica amministrazione assunto con contratto a tempo determinato, e nel limite di ulteriori massime ventotto unita', esperti e consulenti di particolare professionalita' e specializzazione nelle materie di competenza del Ministero e in quelle giuridico-amministrative, con contratti di collaborazione, ai sensi dell'articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165, nel rispetto del criterio dell'invarianza della spesa di cui all'articolo 14, comma 2, del decreto legislativo n. 165 del 2001.
@@ -155,6 +357,45 @@ Le posizioni di Vice Capo di Gabinetto e Vice Capo dell'Ufficio legislativo si i
 Fatta salva la possibilita' di revoca anticipata da parte del Ministro qualora venga meno il rapporto fiduciario, tutte le assegnazioni di personale, gli incarichi di livello dirigenziale, le consulenze e i contratti a tempo determinato, di cui ai commi 1, 2, 3, 4 e 5 decadono automaticamente, ove non confermati, entro trenta giorni dal giuramento del nuovo Ministro.
 
 ## Art. 13. — Trattamento economico
+
+1.
+                    
+                        
+                            Ai responsabili degli uffici di diretta collaborazione, e agli altri componenti degli Uffici di diretta collaborazione, ferme restando le vigenti disposizioni in materia di contenimento dei trattamenti economici, spetta un trattamento economico onnicomprensivo determinato con le modalita' di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, come di seguito articolato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al Capo di Gabinetto: una voce retributiva non superiore alla misura massima del trattamento economico fondamentale spettante ai capi dipartimento del Ministero incaricati ai sensi dell'articolo 19, comma 3, del decreto legislativo n. 165 del 2001 e un emolumento accessorio di un importo non superiore alla misura massima del trattamento accessorio spettante ai medesimi capi dipartimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al Capo dell'Ufficio legislativo: una voce retributiva di importo non superiore alla misura massima del trattamento economico fondamentale spettante ai dirigenti preposti a un ufficio dirigenziale generale del Ministero incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo n. 165 del 2001 e un emolumento accessorio di un importo non superiore alla misura massima del trattamento accessorio spettante ai medesimi dirigenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al Capo della Segreteria del Ministro, al Capo della Segreteria tecnica del Ministro, al Segretario particolare del Ministro, al Capo Ufficio dei rapporti internazionali e del cerimoniale, ai Capi delle Segreterie dei Sottosegretari di Stato nonche' ai vice Capo Gabinetto e ai vice capo Ufficio legislativo: una voce retributiva di importo non superiore alla misura massima del trattamento economico fondamentale spettante ai dirigenti di livello non generale del Ministero e un emolumento accessorio di un importo non superiore alla misura massima del trattamento accessorio spettante ai medesimi dirigenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al Capo dell'Ufficio stampa: un trattamento conforme a quello previsto dal contratto collettivo nazionale per i giornalisti con la qualifica di redattore capo; il trattamento economico del Capo dell'Ufficio stampa e' da intendersi unico e omnicomprensivo nel caso dell'attribuzione anche delle funzioni di portavoce del Ministro ai sensi dell'articolo 7 del presente regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al Portavoce del Ministro, ove nominato: trattamento non superiore a quello previsto dal contratto collettivo nazionale per i giornalisti con la qualifica di redattore capo.
 
 I responsabili degli Uffici di cui al comma 1, ivi compresi i loro vice, gli altri componenti degli Uffici di diretta collaborazione, se dipendenti da pubbliche amministrazioni, e il Consigliere diplomatico mantengono il trattamento economico dell'Amministrazione di provenienza e agli stessi e' corrisposto un emolumento accessorio correlato ai compiti di diretta collaborazione nella misura determinata con decreto del Ministro, di concerto con il Ministro dell'economia e delle finanze, secondo quanto disposto dal decreto del Presidente del Consiglio dei ministri 23 marzo 2012, pubblicato nella Gazzetta Ufficiale n. 89 del 16 aprile 2012, in attuazione del vigente quadro normativo in materia di limiti retributivi e, in particolare, nel rispetto del limite di cui all'articolo 23-ter, comma 2, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214. Tale emolumento accessorio e' fissato in un importo non superiore alla misura massima del trattamento accessorio spettante:  ai capi dipartimento per il Capo di Gabinetto; 
  ai dirigenti di ruolo di livello generale per il Capo dell'Ufficio legislativo; 

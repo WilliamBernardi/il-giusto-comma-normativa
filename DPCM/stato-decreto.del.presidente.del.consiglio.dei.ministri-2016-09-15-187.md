@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2019-01-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -73,6 +73,63 @@ Agli oneri derivanti dall'attuazione del presente comma, i quali non possono ecc
 ## Art. 5. — Attivazione della Carta
 
 I soggetti beneficiari provvedono a registrarsi, usando le credenziali ai sensi dell'articolo 3, comma 2, sulla piattaforma informatica dedicata. La registrazione e' consentita fino al 30 giugno 2017 per i beneficiari che hanno compiuto diciotto anni di eta' nell'anno 2016 e fino al 30 giugno 2018 per i beneficiari che compiono diciotto anni di eta' nell'anno 2017 ((, nonche' fino al 30 giugno 2019 per i beneficiari che compiono diciotto anni nell'anno 2018)). (1)
+
+2.
+                        
+                            
+                                Fermo restando quanto stabilito dall'articolo 11, a ciascun soggetto beneficiario registrato e' attribuita una Carta, per un importo pari a 500 euro, per l'acquisto di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    biglietti per rappresentazioni teatrali e cinematografiche e spettacoli dal vivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    libri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    titoli di accesso a musei, mostre ed eventi culturali, monumenti, gallerie, aree archeologiche, parchi naturali.
+
+2-bis.
+                        
+                            
+                                I beneficiari che compiono diciotto anni di eta' ((negli anni 2017 e 2018)) possono utilizzare la Carta anche per l'acquisto di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    musica registrata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corsi di musica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    corsi di teatro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    corsi di lingua straniera.
 
 -------------
                             AGGIORNAMENTO (1)

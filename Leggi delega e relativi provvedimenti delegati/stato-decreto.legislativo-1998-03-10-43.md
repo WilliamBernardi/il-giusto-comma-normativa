@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2014-01-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,52 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri degli affari esteri e delle finanze;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Nel presente decreto legislativo si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "trattato": il trattato che istituisce la Comunita' europea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "SEBC": il Sistema europeo di banche centrali istituito a norma dell'articolo 4A del trattato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "BCE": la Banca centrale europea istituita a norma dell'articolo 4A del trattato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "statuto del SEBC": lo statuto del Sistema europeo di banche centrali e della Banca centrale europea, oggetto del protocollo n. 3 allegato al trattato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "statuto della Banca": lo statuto della Banca d'Italia approvato con regio decreto 11 giugno 1936, n. 1067, e successive modifiche e integrazioni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "testo unico": il testo unico delle leggi sugli istituti di emissione, approvato con regio decreto 28 aprile 1910, n. 204, e successive modifiche e integrazioni.
 
 ## Art. 2. — Partecipazione della Banca d'Italia al SEBC
 

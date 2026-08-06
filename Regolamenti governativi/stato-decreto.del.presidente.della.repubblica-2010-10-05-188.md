@@ -8,8 +8,8 @@ codice_redazionale: 010G0207
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,38 @@ Acquisito il parere della Commissione parlamentare di cui all'articolo 14, comma
 Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri per la pubblica amministrazione e l'innovazione, per la semplificazione normativa, per l'attuazione del programma di Governo, dell'economia e delle finanze, della difesa e dell'interno;
 
 ## Art. 1. — Aero club d'Italia
+
+1.
+                    
+                        
+                            Al fine di assicurare la realizzazione degli obiettivi di cui all'articolo 2, comma 634, lettera h), della legge 24 dicembre 2007, n. 244, entro novanta giorni dalla data di entrata in vigore del presente regolamento sono apportate modifiche allo statuto dell'Aero club d'Italia, approvato con decreto del Presidente del Consiglio dei Ministri in data 20 ottobre 2004, pubblicato nel Supplemento Ordinario alla Gazzetta Ufficiale n. 7 dell'11 febbraio 2005, tenendo conto dei seguenti criteri direttivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                riduzione dei membri componenti il Consiglio federale a cinque unita' in conformita' alla normativa vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                soppressione del membro supplente del collegio dei revisori dei conti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                previsione della possibilita' del rinnovo del mandato del Presidente dell'ente per due mandati consecutivi dopo il primo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasferimento dei compiti di vigilanza sull'ente dal Ministero per i beni e le attivita' culturali alla Presidenza del Consiglio dei Ministri, alla quale, in attuazione del decreto-legge 18 maggio 2006, n. 181, convertito, con modificazioni, dalla legge 17 luglio 2006, n. 233, sono state trasferite le competenze in materia di sport.
 
 ## Art. 2. — Ente nazionale per l'aviazione civile - ENAC
 

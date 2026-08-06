@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2021-12-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,126 @@ Acquisito il parere del Garante per la protezione dei dati personali;
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'economia e delle finanze, con il Ministro della giustizia, con il Ministro dei beni e delle attivita' culturali e del turismo e con il Ministro degli affari esteri e della cooperazione internazionale;
 
 ## Art. 1. — Modifiche al decreto legislativo 24 gennaio 2006, n. 36
+
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 24 gennaio 2006, n. 36, di seguito denominato: 'decreto legislativo n. 36 del 2006', sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. Le pubbliche amministrazioni e gli organismi di diritto pubblico provvedono affinche' i documenti cui si applica il presente decreto legislativo siano riutilizzabili a fini commerciali o non commerciali secondo le modalita' previste dal medesimo decreto, inclusi i documenti i cui diritti di proprieta' intellettuale sono detenuti da biblioteche, comprese le biblioteche universitarie, i musei e gli archivi, qualora il riutilizzo di questi ultimi documenti sia autorizzato in conformita' alle disposizioni di cui alla Parte II, Titolo II, Capo III, del decreto legislativo 22 gennaio 2004, n. 42, nonche' a quelle di cui alla Parte II, Titolo VII, Capo II, del decreto legislativo 30 giugno 2003 n. 196;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' abrogato.
+
+2.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto legislativo n. 36 del 2006 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo la lettera b) e' inserita la seguente: «b-bis) universita': qualsiasi organismo pubblico che fornisce istruzione post-secondaria superiore che conduce a titoli di studio accademici;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera c) sono inserite le seguenti: 
+ «c-bis) formato leggibile meccanicamente: un formato di file strutturato in modo tale da consentire alle applicazioni software di individuare, riconoscere ed estrarre facilmente dati specifici, comprese dichiarazioni individuali di fatto e la loro struttura interna; 
+ c-ter) formato aperto: il formato di cui all'articolo 68, comma 3, lettera a), del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni; 
+ c-quater) standard formale aperto: uno standard definito in forma scritta, precisando in dettaglio i requisiti per assicurare l'interoperabilita' del software;».
+
+3.
+                    
+                        
+                            All'articolo 3, comma 1, del decreto legislativo n. 36 del 2006 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), sono aggiunte, in fine, le seguenti parole: «, a condizione che la portata di detti compiti sia trasparente e soggetta a revisione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera c) e' sostituita dalla seguente: «c) quelli nella disponibilita' di istituti di istruzione e di ricerca, comprese le organizzazioni preposte al trasferimento dei risultati della ricerca, scuole e universita', escluse le biblioteche universitarie;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera d) e' sostituita dalla seguente: «d) quelli nella disponibilita' di enti culturali diversi dalle biblioteche, dai musei e dagli archivi;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo la lettera h) sono aggiunte le seguenti: 
+ «h-bis) quelli, non contenenti dati pubblici, il cui accesso e' disciplinato dal Capo V della legge 7 agosto 1990, n. 241; 
+ h-ter) parti di documenti contenenti solo logotipi, stemmi e distintivi; 
+ h-quater) documenti, o parti di documenti, che contengono dati personali che non sono conoscibili da chiunque o la cui conoscibilita' e' subordinata al rispetto di determinati limiti o modalita', in base alle leggi, ai regolamenti o alla normativa dell'Unione europea, nonche' quelli che contengono dati personali il cui riuso e' incompatibile con gli scopi originari del trattamento ai sensi dell'articolo 11, comma 1, lettera b), del decreto legislativo 30 giugno 2003, n. 196, e delle altre disposizioni rilevanti in materia.».
+
+4.
+                    
+                        
+                            All'articolo 5 del decreto legislativo n. 36 del 2006 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Il titolare del dato adotta prioritariamente licenze aperte standard ovvero predispone licenze personalizzate standard e le rende disponibili sul proprio sito istituzionale. Nei casi di riutilizzo di documenti contenenti dati personali il titolare del dato adotta licenze personalizzate anche standard.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: «I soggetti» sono sostituite dalle seguenti: «Con riferimento a dati pubblici non ancora resi disponibili, i soggetti» e dopo la parola: «provvedimento» sono aggiunte, in fine, le seguenti: «, fermo restando quanto previsto dall'articolo 52, comma 1, del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, sono apportate le seguenti modifiche: 
+ 1) le parole da: «i mezzi di ricorso» fino alla fine del periodo sono sostituite dalle seguenti: «i motivi del rifiuto sulla base delle disposizioni del presente decreto. Quando e' adottata una decisione negativa ai sensi dell'articolo 3, comma 1, lettera h), per la parte relativa ai diritti di proprieta' intellettuale, il titolare del dato indica, inoltre, la persona fisica o giuridica titolare del diritto, se e' nota, oppure il licenziante dal quale il titolare del dato stesso ha ottenuto il materiale. Le biblioteche, comprese le biblioteche universitarie, i musei e gli archivi non sono tenuti a includere tale indicazione. Il titolare del dato comunica, altresi', al richiedente i mezzi di ricorso a sua disposizione per impugnare la decisione ai sensi del decreto legislativo 2 luglio 2010, n. 104.»; 
+ 2) le parole: «di produrre o di continuare a produrre» sono sostituite dalle seguenti: «di continuare a produrre e di conservare»; 
+ 3) il comma 4 e' abrogato.
+
+5.
+                    
+                        
+                            All'articolo 6 del decreto legislativo n. 36 del 2006 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Il titolare del dato mette a disposizione i documenti, ove possibile e opportuno insieme ai rispettivi metadati e secondo le modalita' e i formati previsti dagli articoli 52 e 68 del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni, nel rispetto delle regole tecniche di cui all'articolo 12. Il titolare del dato non ha l'obbligo di adeguare i documenti o di crearne per soddisfare la richiesta, ne' l'obbligo di fornire estratti di documenti se cio' comporta difficolta' sproporzionate, che implicano attivita' eccedenti la semplice manipolazione.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato.
 
 L'articolo 7 del decreto legislativo n. 36 del 2006 e' sostituito dal seguente: 
  «Art. 7 (Tariffazione). - 1. I dati sono resi disponibili gratuitamente oppure, qualora per il riutilizzo di documenti sia richiesto un corrispettivo, quest'ultimo e' limitato ai costi effettivi sostenuti per la loro riproduzione, messa a disposizione e divulgazione. 
@@ -45,11 +165,61 @@ All'articolo 8, comma 1, del decreto legislativo n. 36 del 2006 le parole da: «
 L'articolo 9 del decreto legislativo n. 36 del 2006 e' sostituito dal seguente: 
  «Art. 9 (Strumenti di ricerca di documenti disponibili). - 1. Le pubbliche amministrazioni e gli organismi di diritto pubblico adottano modalita' pratiche per facilitare la ricerca, anche interlinguistica, dei documenti disponibili per il riutilizzo, insieme ai rispettivi metadati, ove possibile e opportuno accessibili on-line e in formati leggibili meccanicamente. A tal fine, e' utilizzato il portale gestito dall'Agenzia per l'Italia digitale per la ricerca dei dati in formato aperto rilasciati dalle pubbliche amministrazioni.».
 
+9.
+                    
+                        
+                            All'articolo 11 del decreto legislativo n. 36 del 2006 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente: «1-bis. Il diritto di esclusiva per la digitalizzazione di risorse culturali e' definito con decreto del Ministro dei beni e delle attivita' culturali e del turismo, sentita l'Agenzia per l'Italia digitale, e comunque ha durata non superiore a dieci anni, fatta salva la possibilita' di prevedere una durata maggiore soggetta a riesame nel corso dell'undicesimo anno e successivamente ogni sette anni. Tali accordi di esclusiva sono trasparenti e resi pubblici sul sito istituzionale del titolare del dato. Nei predetti accordi e' previsto che al titolare del dato deve essere fornita a titolo gratuito una copia delle risorse culturali digitalizzate. Tale copia e' resa disponibile per il riutilizzo al termine del periodo di esclusiva.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' inserito il seguente: «2-bis. Le disposizioni di cui al comma 2 non si applicano alla digitalizzazione di risorse culturali.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, dopo la parola: «esistenti» sono inserite le seguenti: «al 1° luglio 2005»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3 e' aggiunto il seguente: «3-bis. Fermo restando quanto previsto dal comma 3, gli accordi di esclusiva esistenti al 17 luglio 2013 che non rispondono alle condizioni previste per beneficiare delle deroghe di cui ai commi 1-bis e 2 terminano alla scadenza del contratto o comunque non oltre il 18 luglio 2043.».
+
 ## Art. 2. — Modifiche al decreto legislativo 7 marzo 2005, n. 82
 
 All'articolo 52, comma 2, del decreto legislativo 7 marzo 2005, n. 82, dopo le parole: «ai sensi dell'articolo 68, comma 3, del presente Codice» sono inserite le seguenti: «, ad eccezione dei casi in cui la pubblicazione riguardi dati personali».
 
 All'articolo 52, comma 6, del decreto legislativo 7 marzo 2005, n. 82, dopo le parole: «informativo pubblico» sono aggiunte le seguenti: ", nonche' azioni finalizzate al riutilizzo dei dati pubblici".
+
+3.
+                    
+                        
+                            All'articolo 68, comma 3, lettera b), del decreto legislativo n. 82 del 2005 sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al numero 3), dopo la parola: «divulgazione» sono inserite le seguenti: «, salvo i casi previsti dall'articolo 7 del decreto legislativo 24 gennaio 2006, n. 36, e secondo le tariffe determinate con le modalita' di cui al medesimo articolo»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole da: «L'Agenzia per l'Italia digitale» alla fine del numero sono soppresse.
 
 ## Art. 3. — ((ARTICOLO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 200))
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2020-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -47,6 +47,31 @@ Nei comuni singoli o associati ove e' stato attivato lo sportello unico per le a
 ## Art. 3. — Verifiche a campione
 
 L'ISPESL effettua a campione la prima verifica sulla conformita' alla normativa vigente degli impianti di protezione contro le scariche atmosferiche ed i dispositivi di messa a terra degli impianti elettrici e trasmette le relative risultanze all'ASL o ARPA.
+
+2.
+                        
+                            
+                                Le verifiche a campione sono stabilite annualmente dall'ISPESL, d'intesa con le singole regioni sulla base dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    localizzazione dell'impianto in relazione alle caratteristiche urbanistiche ed ambientali del luogo in cui e' situato l'impianto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipo di impianto soggetto a verifica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dimensione dell'impianto.
 
 Le verifiche sono onerose e le spese per la loro effettuazione sono a carico del datore di lavoro.
 
@@ -92,6 +117,31 @@ Le verifiche sono onerose e le spese per la loro effettuazione sono a carico del
 
 Le verifiche straordinarie sono effettuate dall'ASL o dall'ARPA o dagli organismi individuati dal Ministero delle attivita' produttive, sulla base di criteri stabiliti dalla normativa europea UNI CEI.
 
+2.
+                        
+                            
+                                Le verifiche straordinarie sono, comunque, effettuate nei casi di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esito negativo della verifica periodica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modifica sostanziale dell'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiesta del datore del lavoro.
+
 ## Art. 7-bis. — (Banca dati informatizzata, comunicazione all'INAIL e tariffe)
 
 Per digitalizzare la trasmissione dei dati delle verifiche, l'INAIL predispone la banca dati informatizzata delle verifiche ((in base alle indicazioni tecniche fornite, con decreto direttoriale, dagli uffici competenti del Ministero dello sviluppo economico e del Ministero del lavoro e delle politiche sociali, per i profili di rispettiva competenza)).
@@ -109,6 +159,24 @@ Il datore di lavoro comunica tempestivamente all'ufficio competente per territor
 ## - Capo V Disposizioni transitorie e finali
 
 ## Art. 9. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 40 e 328 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 2, 3 e 4 del decreto del Ministro per il lavoro e la previdenza sociale in data 12 settembre 1959, nonche' i modelli A, B e C allegati al medesimo decreto.
 
 I riferimenti alle disposizioni abrogate contenute in altri testi normativi si intendono riferiti alle disposizioni del presente regolamento.
 

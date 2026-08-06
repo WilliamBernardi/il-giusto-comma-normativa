@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2015-10-09;193
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,6 +46,38 @@ Ai fini della circolazione su strada, la navetta turistica e' assimilata ai veic
 
 Omologazione ed accertamento 
  dei requisiti di idoneita' alla circolazione
+
+1.
+                    
+                        
+                            Ad ogni veicolo costruito in serie definito «navetta turistica» si applica l'omologazione del tipo, prevista dall'articolo 2, comma 2, lettere a) e c), del decreto ministeriale del 2 maggio 2001, n. 277, in conformita' alle prescrizioni tecniche elencate: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'allegato A che costituisce parte integrante del presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nelle direttive comunitarie, di cui all'allegato B che costituisce parte integrante del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ovvero nei regolamenti UNECE (United Nations Economic Commission for Europe - Commissione economica per l'Europa delle Nazioni Unite) e regolamenti UE ad esse equivalenti, e nelle eventuali prescrizioni tecniche alternative; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 54, comma 1, del decreto legislativo 30 aprile 1992, n. 285.
 
 Le prescrizioni tecniche di cui al comma 1 si applicano anche in sede di accertamento dei requisiti di idoneita' alla circolazione.
 

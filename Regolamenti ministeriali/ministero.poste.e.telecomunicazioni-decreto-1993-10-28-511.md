@@ -8,8 +8,8 @@ codice_redazionale: 093G0591
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,24 @@ Il canone e le tariffe da corrispondere da parte dell'utente abbonato al servizi
 ## Art. 3.
 
 L'utente del servizio pubblico di posta elettronica, che intende avvalersi del servizio PT fax, e' tenuto all'osservanza, per quanto applicabili, delle norme e delle disposizioni regolamentari che disciplinano i servizi postali e di telecomunicazioni nonche' delle disposizioni e delle modalita' operative fissate dal regolamento del servizio pubblico di posta elettronica approvato con decreto ministeriale n. 260 del 7 agosto 1990 con le integrazioni di cui al comma 2.
+
+2.
+                    
+                        
+                            L'utente, che intende avvalersi del servizio PT fax, puo' accedere al servizio:
+ 
+                        
+                        
+                            a)
+                            
+                                direttamente dal suo terminale facsimile (apparecchiatura fac- simile o TC fax) tramite rete telefonica commutata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                mediante invio alla propria casella postale elettronica del documento da trasmettere.
 
 Gli utenti del servizio PT fax possono ottenere dall'amministrazione copia conforme dei documenti trasmessi.
 

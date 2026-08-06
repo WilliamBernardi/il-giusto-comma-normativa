@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2014-04-17;69
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -157,6 +157,41 @@ L'accertamento e l'irrogazione delle sanzioni per le violazioni di cui all'artic
 Restano salve le competenze attribuite dalla legislazione vigente all'Ispettorato centrale della tutela della qualita' e repressione frodi dei prodotti agroalimentari, del Ministero delle politiche agricole alimentari e forestali.
 
 ## Art. 15. — Modifiche al decreto legislativo 17 marzo 1995, n. 194
+
+1.
+                    
+                        
+                            Al decreto legislativo 17 marzo 1995, n. 194, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 23, e' sostituito dal seguente: 
+ «Art. 23 (Sanzioni amministrative commesse da chi utilizza prodotti fitosanitari). - 1. Gli utilizzatori che non rispettano l'obbligo, di cui all'articolo 3, comma 3, lettera c), di conservare correttamente i prodotti fitosanitari in conformita' a tutte le indicazioni e le prescrizioni riportate nell'etichetta, sono soggetti al pagamento della sanzione amministrativa da 1.000 euro a 6.500 euro.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 26, e' sostituito dal seguente: 
+ «Art. 26 (Sanzioni amministrative conseguenti alla violazione delle disposizioni in materia di etichettatura). - 1. I titolari delle autorizzazioni e dei permessi al commercio parallelo che non ottemperano all'obbligo di cui all'articolo 16, comma 1, lettera b), di indicare la data dell'autorizzazione e il responsabile della distribuzione del prodotto, ove non coincida con il titolare dell'autorizzazione o del permesso, sono soggetti al pagamento della sanzione amministrativa da 250 euro a 2.500 euro.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 27, e' sostituito dal seguente: 
+ «Art. 27 (Sanzioni amministrative conseguenti all'inosservanza degli obblighi di informazione). - 1. I contravventori alle disposizioni di cui all'articolo 22, comma 5, sono soggetti al pagamento della sanzione amministrativa da 500 euro a 3.000 euro.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli articoli 24, comma 1, 25, commi 1 e 2, e 28 sono abrogati.
 
 ## Art. 16. — Disposizioni di rinvio
 

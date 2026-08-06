@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-02-02;17
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,25 @@ Sulla proposta del Ministro per gli affari europei e del Ministro dell'economia 
 ## Art. 1. — Modifiche alla Parte I del decreto legislativo 
  24 febbraio 1998, n. 58
 
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo la lettera m-octies.1) e' inserita la seguente: 
+ «m-octies.2) "fondo comune monetario" (FCM): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) 2017/1131;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera q-bis), le parole «e il gestore di ELTIF» sono sostituite dalle seguenti: «, il gestore di ELTIF e il gestore di FCM».
+
 Dopo l'articolo 4-quinquies.1 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 4-quinquies.2 (Individuazione delle autorita' nazionali competenti ai sensi del regolamento (UE) 2017/1131 relativo ai fondi comuni monetari (FCM)). - 1. La Banca d'Italia e la Consob, secondo le rispettive attribuzioni e le finalita' indicate dall'articolo 5, sono le autorita' nazionali competenti ai sensi del regolamento (UE) 2017/1131. La Banca d'Italia e la Consob si trasmettono tempestivamente le informazioni che ciascuna di esse e' competente a ricevere ai sensi del presente articolo. 
  2. La Banca d'Italia e' l'autorita' competente ad autorizzare un FCM ai sensi dell'articolo 4, paragrafi 2 e 3, del regolamento (UE) 2017/1131. 
@@ -40,7 +59,63 @@ Dopo l'articolo 4-quinquies.1 del decreto legislativo 24 febbraio 1998, n. 58, e
  b) adottare le misure specifiche previste dal regolamento (UE) 2017/1131 nell'articolo 41, paragrafo 2, lettera a), nei casi previsti dall'articolo 41, paragrafo 1, lettera f), per la violazione dell'articolo 36 del medesimo regolamento. In presenza di tali violazioni, la Consob puo' altresi' proporre alla Banca d'Italia, ai sensi dell'articolo 41, paragrafo 2, lettera b), la revoca dell'autorizzazione rilasciata ai sensi del comma 2. 
  5. Per assicurare il rispetto del presente articolo nonche' del regolamento indicato dal comma 1, la Banca d'Italia e la Consob dispongono, secondo le rispettive attribuzioni e le finalita' dell'articolo 5, dei poteri loro attribuiti dal presente decreto nonche' dei poteri previsti dall'articolo 39 del citato regolamento (UE) 2017/1131.».
 
+3.
+                    
+                        
+                            All'articolo 4-undecies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole «nonche' del» sono inserite le seguenti: «regolamento prospetto come definito all'articolo 93-bis, comma 1, lettera a), e del»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, e' aggiunto, in fine, il seguente periodo: «Si applicano le disposizioni contenute nell'articolo 6, commi 2-ter e 2-quater, del decreto legislativo 8 giugno 2001, n. 231.».
+
+4.
+                    
+                        
+                            All'articolo 4-duodecies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni; 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1-bis, dopo le parole «da chiunque effettuate» sono inserite le seguenti: «di violazioni del regolamento prospetto come definito all'articolo 93-bis, comma 1, lettera a), o»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: 
+ «2-bis. Alle segnalazioni di violazioni effettuate con le procedure di cui al presente articolo si applica l'articolo 4-undecies, comma 3.».
+
 ## Art. 2. — Modifiche alla Parte II del decreto legislativo 24 febbraio 1998, n. 58
+
+1.
+                    
+                        
+                            All'articolo 9 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole «fondo comune», sono aggiunte le seguenti: «di diritto italiano»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: 
+ «2-bis. Per i fondi comuni di diritto italiano gestiti da societa' di gestione UE, GEFIA UE e non UE, il giudizio sul rendiconto del fondo, in conformita' ai principi di cui all'articolo 11 del decreto legislativo 27 gennaio 2010, n. 39, e' rilasciato da un revisore legale o da una societa' di revisione legale iscritti nel Registro di cui all'articolo 1, comma 1, lettera g), del medesimo decreto. Ferme restando le disposizioni concernenti le modalita' di conferimento, revoca e dimissioni dall'incarico vigenti negli ordinamenti nazionali in cui le societa' di gestione UE, GEFIA UE e non UE hanno sede legale, si applicano le disposizioni previste dal decreto legislativo 27 gennaio 2010, n. 39, con riferimento agli enti sottoposti a regime intermedio.».
 
 ## Art. 3. — Modifiche alla Parte IV del decreto legislativo 24 febbraio 1998, n. 58
 
@@ -162,6 +237,25 @@ All'articolo 154-ter, comma 6, lettera a), del decreto legislativo 24 febbraio 1
 
 All'articolo 188, comma 1, primo periodo, del decreto legislativo 24 febbraio 1998, n. 58, dopo le parole «"ELTIF" o "fondo di investimento europeo a lungo termine";» sono inserite le seguenti: «"FCM" o "fondo comune monetario";» e le parole «e n. 2015/760, relativo ai fondi di investimento europei a lungo termine,» sono sostituite dalle seguenti: «, n. 2015/760, relativo ai fondi di investimento europei a lungo termine, e n. 2017/1131, relativo ai fondi comuni monetari,».
 
+2.
+                    
+                        
+                            All'articolo 190 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2-bis, dopo la lettera b-quater), e' aggiunta la seguente: 
+ «b-quinquies) ai gestori di OICVM e di FIA, in caso di violazione delle disposizioni del regolamento (UE) 2017/1131 e delle relative disposizioni attuative.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-bis.1, le parole «b-bis) e b-ter)» sono sostituite dalle seguenti: «b-bis), b-ter) e b-quinquies)».
+
 L'articolo 191 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «Art. 191 (Offerta al pubblico di sottoscrizione e di vendita di prodotti finanziari e ammissione alla negoziazione di titoli). - 1.
 Nei confronti degli enti e delle societa' che commettono una violazione delle disposizioni richiamate dall'articolo 38, paragrafo 1, lettera a), del regolamento prospetto e delle relative disposizioni attuative, si applica la sanzione amministrativa pecuniaria da cinquemila euro fino a cinque milioni di euro, ovvero fino al tre per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. 
@@ -204,6 +298,25 @@ All'articolo 194-septies, comma 1, del decreto legislativo 24 febbraio 1998, n. 
 All'articolo 195-bis, comma 2, lettera a), del decreto legislativo 24 febbraio 1998, n. 58, le parole «decreto legislativo 30 giugno 2003, n. 196» sono sostituite dalle seguenti: «regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016».
 
 ## Art. 5. — Modifiche al decreto legislativo 27 gennaio 2010, n. 39
+
+1.
+                    
+                        
+                            All'articolo 19-bis, comma 1, del decreto legislativo 27 gennaio 2010, n. 39, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera f) le parole «fondi comuni gestiti» sono sostituite dalle seguenti: «fondi comuni di diritto italiano dalle medesime gestiti»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera f) e' inserita la seguente: 
+ «f-bis) i fondi comuni di investimento di diritto italiano gestiti da societa' di gestione UE, GEFIA UE e non UE;».
 
 ## Art. 6. — Disposizioni finali
 

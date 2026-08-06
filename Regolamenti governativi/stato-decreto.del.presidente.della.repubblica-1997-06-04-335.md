@@ -8,8 +8,8 @@ codice_redazionale: 097G0369
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,7 +31,79 @@ Sulla proposta del Ministro dell'ambiente e del Ministro per la funzione pubblic
 
 L'organizzazione dell'Agenzia nazionale per la protezione dell'ambiente (ANPA) si articola in aree dipartimentali e di servizi a carattere amministrativogestionale. I dipartimenti coordinano i settori e i laboratori a carattere tecnico - scientifico, i quali possono essere organizzati per competenza e per obiettivo. I servizi sono articolati in uffici funzionali. All'interno dei settori e dei laboratori, per particolari competenze o tipi di intervento, possono essere assegnati incarichi temporanei di coordinamento di attivita' e progetti.
 
+2.
+                    
+                        
+                            Sono istituiti i seguenti dipartimenti e servizi:
+ 
+                        
+                        
+                            a)
+                            
+                                dipartimento stato dell'ambiente, controlli e sistemi informativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dipartimento prevenzione e risanamento ambientali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dipartimento rischio tecnologico e naturale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dipartimento rischio nucleare e radiologico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                dipartimento strategie integrate, promozione, comunicazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                area dei servizi giuridici amministrativi e gestionali.
+ Resta ferma la possibilita' di collegamenti funzionali interdipartimentali, eventualmente gestiti da unita' all'uopo istituite, anche a carattere temporaneo.
+
 Fanno capo funzionalmente al presidente e al direttore, oltre alla segreteria, unita' di supporto per l'esercizio dei loro compiti.
+
+4.
+                    
+                        
+                            Tra le unita' e gli uffici sono comunque previsti:
+ 
+                        
+                        
+                            a)
+                            
+                                quelli addetti alle attivita' concernenti la normativa tecnica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quelli di supporto tecnico - scientifico al comitato per l'esercizio delle funzioni relative alla concessione del marchio dell'Unione europea di qualita' ecologica (Ecolabel) e all'attivita' di ecogestione ed audit in campo ambientale (Ecoaudit);
+
+                            
+                        
+                        
+                            c)
+                            
+                                quelli preposti al sistema qualita' dell'Agenzia e alle funzioni di protezione e prevenzione interne, che fanno direttamente capo alla direzione.
 
 Entro sessanta giorni dalla data di entrata in vigore del presente regolamento il consiglio di amministrazione, su proposta del direttore, tenuto conto dei compiti e delle funzioni all'ANPA normativamente attribuiti, delibera l'ulteriore articolazione strutturale dell'Agenzia in settori, laboratori e uffici. La deliberazione e' comunicata al Ministro dell'ambiente e sottoposta ad approvazione nei casi previsti dall'articolo 29 della legge 20 marzo 1975, n. 70.
 
@@ -87,6 +159,31 @@ I direttori di area sono responsabili nei confronti del direttore dei risultati 
 
 ## Art. 7. — Rapporti con le agenzie regionali e delle province autonome
 
+1.
+                    
+                        
+                            L'ANPA prevede nel programma triennale le attivita' dirette a coordinare, promuovere e rendere omogenee sul piano nazionale le metodologie tecnicooperative per l'esercizio delle attivita' proprie delle Agenzie regionali e delle province autonome di Trento e Bolzano. Le attivita' di indirizzo e coordinamento tecnico nei confronti delle agenzie regionali concernono:
+ 
+                        
+                        
+                            a)
+                            
+                                l'adozione di criteri di normalizzazione e di intercalibrazione delle misure in campo ambientale per la validazione dei dati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elaborazione di metodologie per le attivita' di raccolta e di validazione dei dati e per la realizzazione di reti di monitoraggio in applicazione della normativa vigente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'elaborazione e la diffusione di criteri, metodi e linee guida per le attivita' di controllo e protezione ambientale.
+
 Le attivita' di cui al comma 1 sono svolte d'intesa con le regioni e le province autonome per quanto riguarda le materie rientranti nella loro diretta competenza e possono essere svolte in collaborazione con le agenzie regionali e delle province autonome, anche attraverso gli strumenti previsti all'articolo 10, comma 4.
 
 Per il piu' efficace espletamento delle proprie funzioni sull'intero territorio nazionale, l'ANPA puo' stipulare, ai sensi dell'articolo 1, comma 3, e dell'articolo 03, comma 5, del decreto-legge 4 dicembre 1993, n. 496, convertito, con modificazioni, dalla legge 21 gennaio 1994, n. 61, con le regioni e le province autonome apposite convenzioni che prevedono la specializzazione di strutture tecniche delle agenzie regionali e delle province autonome, l'assistenza tecnica alle agenzie medesime, ovvero il supporto tecnico delle stesse agenzie all'ANPA.
@@ -94,6 +191,38 @@ Per il piu' efficace espletamento delle proprie funzioni sull'intero territorio 
 ## Art. 8. — Sistema informativo e di monitoraggio ambientale
 
 Le iniziative adottate in attuazione dell'articolo 18, comma 1, lettera e), della legge 11 marzo 1988, n. 67, relative al sistema informativo e di monitoraggio ambientale (SINA) e le relative dotazioni tecniche sono trasferite all'ANPA ai sensi dell'articolo 1 -bis, comma 4, del decreto - legge 4 dicembre 1993, n. 496, convertito, con modificazioni, dalla legge 21 gennaio 1994, n. 61.
+
+2.
+                    
+                        
+                            Per la ricognizione delle iniziative attuate, o in corso di attuazione, nell'ambito del sistema di cui al comma 1 e delle relative dotazioni tecniche da trasferire all'ANPA, il Ministro dell'ambiente entro sessanta giorni dalla data di entrata in vigore del presente regolamento adotta un decreto che individui:
+ 
+                        
+                        
+                            a)
+                            
+                                le iniziative gia' realizzate dal Ministero dell'ambiente, con le relative dotazioni tecniche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le iniziative, con le relative dotazioni tecniche, comunque finalizzate al completamento, potenziamento o implementazione del sistema informativo e di monitoraggio ambientale, ancora in corso di realizzazione o perfezionamento in forza di contratti, convenzioni, accordi e provvedimenti stipulati od adottati dal Ministero dell'ambiente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le risorse finanziarie, finalizzate alla realizzazione, potenziamento, implementazione o gestione del SINA da mettere a disposizione dell'ANPA;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le iniziative delle regioni e province autonome per il completamento e potenziamento del sistema informativo e di monitoraggio ambientale finanziate dal Ministero dell'ambiente, i cui fondi sono conservati sullo stato di previsione della spesa dello stesso Ministero in attesa del loro trasferimento ai soggetti titolari degli interventi ai sensi della delibera del Comitato interministeriale per la programmazione economica 21 dicembre 1993, e successive modificazioni ed integrazioni.
 
 Con il decreto di cui al comma 2 sono altresi' definite, previa verifica funzionale con l'ANPA, le modalita' tecnico - amministrative per il trasferimento e la ricollocazione logistica presso l'ANPA delle iniziative e delle dotazioni tecniche di cui al comma 2, lettere a) e b), e dei finanziamenti di cui alla lettera c), al fine di garantire una tempestiva ripresa della operativita' del sistema trasferito, che tenga conto della realta' informatica presente presso la stessa Agenzia e delle esigenze funzionali proprie del Ministero dell'ambiente, nonche' le modalita' di gestione per il periodo di transizione. Con lo stesso decreto sono definite, inoltre, le modalita' di coordinamento delle iniziative di cui al comma 2, lettera d), necessarie a garantire il collegamento funzionale con il SINA a livello nazionale, al fine di consentire il mantenimento coerente dei flussi informativi tra i soggetti titolari delle iniziative stesse e l'ANPA.
 

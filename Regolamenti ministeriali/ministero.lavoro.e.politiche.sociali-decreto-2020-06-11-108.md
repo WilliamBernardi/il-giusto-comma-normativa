@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2020-06-11;108
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,11 +26,165 @@ Udito il parere n. 1280/2019, reso dal Consiglio di Stato - sezione consultiva p
 
 ## Art. 1. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Le disposizioni del presente decreto si applicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                al rappresentante legale, ai componenti dell'organo di amministrazione e dell'organo di controllo, nonche' al direttore generale delle forme pensionistiche complementari di cui all'articolo 3, comma 1, lettere da a) a g), e comma 2, del decreto n. 252 del 2005 e dell'articolo 20 del medesimo decreto, dotate di soggettivita' giuridica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a coloro che svolgono le funzioni fondamentali di cui all'articolo 5-bis, comma 1, del decreto n. 252 del 2005 nelle forme pensionistiche complementari di cui all'articolo 4, comma 1, del decreto n. 252 del 2005 e nelle forme di cui all'articolo 20 del predetto decreto, dotate di soggettivita' giuridica, nonche' alle persone esterne o ai soggetti delle entita' esterne impiegati dalle medesime forme per svolgere le predette funzioni (di seguito anche «titolari delle funzioni fondamentali»); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai responsabili dei fondi pensione aperti di cui all'articolo 12 del decreto n. 252 del 2005 e delle forme pensionistiche individuali di cui all'articolo 13, comma 1, lettera b), del medesimo decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai componenti dell'organismo di rappresentanza di cui all'articolo 5, comma 5, del decreto n. 252 del 2005; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai membri degli organismi, comunque denominati, di rappresentanza degli iscritti nelle forme pensionistiche complementari di cui all'articolo 20 del decreto n. 252 del 2005, costituite nell'ambito del patrimonio di una singola societa' o ente (di seguito «fondi pensione interni»).
+
 ## Art. 2.
 
 Requisiti di professionalita' dei componenti dell'organo di amministrazione o di controllo, dei rappresentanti legali, dei direttori generali e dei responsabili
 
+1.
+                    
+                        
+                            I componenti dell'organo di amministrazione delle forme pensionistiche di cui all'articolo 1, comma 1, lettera a), sono nominati secondo criteri di professionalita' e competenza fra persone che abbiano maturato un'esperienza complessiva di almeno un triennio attraverso l'esercizio di: 
+ 
+                        
+                        
+                            a)
+                            
+                                attivita' di amministrazione, di controllo o di carattere direttivo presso forme pensionistiche complementari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' di amministrazione, di controllo o di carattere direttivo presso enti o imprese del settore creditizio, finanziario, mobiliare o assicurativo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' professionali in materie attinenti al settore previdenziale, creditizio, finanziario, mobiliare, assicurativo o comunque funzionali all'attivita' propria del fondo pensione; l'attivita' professionale deve connotarsi per adeguati livelli di complessita' e deve essere svolta in via continuativa e rilevante nei settori sopra richiamati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' d'insegnamento universitario, in qualita' di docente di prima o seconda fascia, in materie giuridiche o economiche o in altre materie comunque funzionali all'attivita' del settore previdenziale, creditizio, finanziario, mobiliare o assicurativo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                funzioni di vertice, dirigenziali o direttive, comunque denominate, presso enti pubblici o pubbliche amministrazioni aventi attinenza con il settore previdenziale, creditizio, finanziario, mobiliare o assicurativo, ovvero, con esclusivo riferimento alle forme pensionistiche complementari di cui all'articolo 3, comma 2, del decreto n. 252 del 2005, funzioni di vertice, dirigenziali o direttive, anche presso enti pubblici o pubbliche amministrazioni che non hanno attinenza con i predetti settori, purche' dette funzioni comportino la gestione o il controllo della gestione di risorse economico-finanziarie; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                funzioni di amministrazione, di indirizzo, di controllo o di carattere direttivo presso enti previdenziali o altri organismi con finalita' previdenziali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                attivita' di amministrazione, di controllo o di carattere direttivo presso imprese diverse da quelle indicate nella lettera b), ovvero funzioni di amministratore, di carattere direttivo o di partecipazione a organi collegiali presso enti ed organismi associativi, a carattere nazionale, di rappresentanza di categoria, comparto o area contrattuale, nonche' a organismi e comitati di settore che svolgono funzioni similari nell'ambito della pubblica amministrazione, purche' le persone in possesso delle predette esperienze professionali abbiano frequentato corsi di formazione di cui all'articolo 3 in un periodo non antecedente a tre anni dalla nomina e conseguito l'attestazione prevista dall'articolo 3, comma 1, lettera d).
+
+2.
+                    
+                        
+                            Almeno la meta' dei componenti l'organo di amministrazione, nonche' i componenti dell'organo di amministrazione ai quali siano conferite deleghe, devono possedere almeno uno dei requisiti di cui alle lettere da 
+                        
+                        
+                            a)
+                            
+                                a f) del comma 1. Nel caso in cui la composizione dell'organo di amministrazione debba rispettare il criterio della partecipazione paritetica di rappresentanti dei lavoratori e dei datori di lavoro, ai sensi dell'articolo 5, comma 1, del decreto n. 252 del 2005, almeno la meta' dei membri eletti o nominati in rappresentanza di ciascuna delle due componenti di cui sopra deve essere in possesso di almeno uno dei requisiti di cui alle lettere da a) a f).
+
+3.
+                    
+                        
+                            Il rappresentante legale e il direttore generale delle forme pensionistiche complementari di cui all'articolo 1, comma 1, lettera a) e il responsabile delle forme pensionistiche complementari di cui all'articolo 1, comma 1, lettera c) devono possedere almeno uno dei requisiti di cui alle lettere da 
+                        
+                        
+                            a)
+                            
+                                a f) del comma 1.
+
+4.
+                    
+                        
+                            Almeno un componente effettivo ed uno supplente dell'organo di controllo delle forme pensionistiche complementari, di cui all'articolo 1, comma 1, lettera a), sono scelti tra gli iscritti nel registro dei revisori legali istituito presso il Ministero dell'economia e delle finanze e devono aver esercitato l'attivita' di revisione legale dei conti per un periodo non inferiore a tre anni. I restanti componenti devono essere iscritti nel predetto registro ovvero essere in possesso di almeno uno dei requisiti di cui al comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                a f). Qualora la revisione legale dei conti sia esercitata dall'organo di controllo, esso deve essere integralmente composto da persone iscritte nel registro dei revisori legali istituito presso il Ministero dell'economia e delle finanze, fermo restando che almeno un componente effettivo ed uno supplente devono aver esercitato l'attivita' di revisione legale dei conti per un periodo non inferiore a tre anni.
+
 ## Art. 3. — Caratteristiche dei corsi professionalizzanti
+
+1.
+                    
+                        
+                            Ai fini di cui all'articolo 2, comma 1, lettera g), rileva la frequenza di corsi professionalizzanti promossi e organizzati da dipartimenti universitari, anche in collaborazione con enti e organizzazioni operanti nel settore della previdenza complementare, che presentino le seguenti caratteristiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                articolazione dei corsi su tutti i principali aspetti giuridici, economici, finanziari e organizzativi attinenti alla previdenza complementare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                durata almeno annuale e numero totale di ore di insegnamento non inferiore a 300; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                affidamento delle lezioni a docenti universitari in materie attinenti agli aspetti di cui alla lettera a) ed esperti del settore della previdenza complementare, al fine di fornire conoscenze sia teoriche che pratico-operative; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                previsione di una prova finale ad esito della quale viene rilasciata ai partecipanti un'attestazione in cui e' certificata la rispondenza dell'attivita' espletata alle caratteristiche indicate nelle lettere a), b) e c) e la proficuita' della partecipazione.
 
 ## Art. 4.
 
@@ -38,9 +192,80 @@ Requisiti di professionalita' di coloro che svolgono funzioni fondamentali
 
 I soggetti, anche esterni, che svolgono la funzione di gestione dei rischi e la funzione di revisione interna di cui, rispettivamente, all'articolo 5-ter e all'articolo 5-quater del decreto n. 252 del 2005, soddisfano criteri di professionalita' volti a comprovare la loro idoneita' ad assumere l'incarico. Sono prese in considerazione, a questi fini, la conoscenza - acquisita attraverso gli studi, la formazione - e l'esperienza conseguita nello svolgimento di attivita' lavorative precedenti o in corso e di durata complessiva di almeno un triennio.
 
+2.
+                    
+                        
+                            I criteri di professionalita' di cui al comma 1 sono verificati dall'organo di cui all'articolo 7, comma 1, il quale: 
+ 
+                        
+                        
+                            a)
+                            
+                                prende in considerazione la conoscenza e l'esperienza posseduta in piu' di uno dei seguenti ambiti: 
+ 1) regolamentazione del settore previdenziale, creditizio, finanziario, mobiliare o assicurativo; 
+ 2) assetti organizzativi e di governo dei fondi pensione o societari; 
+ 3) gestione dei rischi (individuazione, misurazione, monitoraggio, gestione e segnalazione periodica) nel settore previdenziale, creditizio, finanziario, mobiliare o assicurativo; 
+ 4) sistemi e attivita' di controllo interno; 
+ 5) attivita' e prodotti previdenziali, bancari, finanziari, mobiliari o assicurativi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                valuta se la conoscenza e l'esperienza di cui alla lettera a) sono idonee rispetto a: 
+ 1) i compiti inerenti al ruolo ricoperto dal soggetto interessato; 
+ 2) le caratteristiche del fondo pensione, in termini di organizzazione interna, nonche' di dimensione, natura, portata e complessita' delle sue attivita'.
+
 La funzione attuariale di cui all'articolo 5-quinquies del decreto n. 252 del 2005 e' esercitata da un attuario iscritto nell'albo professionale di cui alla legge 9 febbraio 1942, n. 194, oppure da un soggetto che ha esercitato la funzione attuariale per almeno un triennio in un'impresa di assicurazione o di riassicurazione nei rami vita.
 
 ## Art. 5. — Situazioni impeditive
+
+1.
+                    
+                        
+                            Le cariche di rappresentante legale, di componente dell'organo di amministrazione o di controllo, di direttore generale, di titolare di una funzione fondamentale, nonche' di responsabile delle forme pensionistiche complementari di cui agli articoli 12 e 13 del decreto n. 252 del 2005, non possono essere ricoperte da coloro che, per almeno i due esercizi precedenti l'adozione dei relativi provvedimenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                hanno svolto attivita' di amministrazione, direzione o controllo in forme pensionistiche complementari o imprese sottoposte a procedure di amministrazione straordinaria, di risoluzione, di liquidazione coatta amministrativa o a rimozione collettiva dei componenti degli organi di amministrazione e controllo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                hanno svolto attivita' di amministrazione, direzione o controllo in enti o imprese sottoposte a liquidazione giudiziale, a fallimento o a procedure equiparate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                hanno svolto funzioni presso imprese destinatarie, in relazione a reati da loro commessi, delle sanzioni interdittive di cui all'articolo 9, comma 2, lettere a) e b), del decreto legislativo 8 giugno 2001, n. 231; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono stati destinatari dei provvedimenti di cui all'articolo 19-quater, comma 3, del decreto n. 252 del 2005; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sono stati sospesi o radiati da albi o ruoli ovvero cancellati a seguito di provvedimento disciplinare da elenchi e ordini professionali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                sono stati revocati per giusta causa dagli incarichi assunti in organi di direzione, amministrazione e controllo di forme pensionistiche complementari, enti o imprese.
 
 Ai fini di cui al comma 1, le frazioni di un esercizio superiori a sei mesi equivalgono a un esercizio intero.
 
@@ -59,6 +284,53 @@ Requisiti di onorabilita', cause di ineleggibilita' e di incompatibilita'
 Le cariche di rappresentante legale, di componente dell'organo di amministrazione o di controllo, di direttore generale, di titolare di una funzione fondamentale, nonche' di responsabile delle forme pensionistiche complementari di cui agli articoli 12 e 13 del decreto n. 252 del 2005 non possono essere ricoperte da coloro che non posseggono, ai sensi del comma 3, i requisiti di onorabilita', o che si trovano in una delle cause di ineleggibilita' previste dal comma 4.
 
 Le cariche di componente dell'organismo di rappresentanza di cui all'articolo 5, comma 5, del decreto n. 252 del 2005 e di componente degli organismi, comunque denominati, di rappresentanza degli iscritti nei fondi pensione interni non possono essere ricoperte da coloro che non posseggono, ai sensi del comma 3, i requisiti di onorabilita'.
+
+3.
+                    
+                        
+                            Ai fini del presente decreto i requisiti di onorabilita' non ricorrono se i soggetti interessati si trovano in una delle seguenti situazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                assoggettamento a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi del decreto legislativo 6 settembre 2011, n. 159, e successive modificazioni ed integrazioni, salvi gli effetti della riabilitazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                condanna con sentenza anche non definitiva, salvi gli effetti della riabilitazione, a: 
+ 1) pena detentiva per uno dei reati previsti dalle disposizioni in materia di previdenza obbligatoria e complementare, creditizia, finanziaria, mobiliare e assicurativa, dalle norme in materia di mercati e valori mobiliari e di strumenti di pagamento, nonche' dal decreto legislativo 21 novembre 2007, n. 231, ovvero per i reati di riciclaggio, di usura e di truffa; 
+ 2) pena detentiva per uno dei reati previsti nel titolo XI del libro V del codice civile, nel regio decreto 16 marzo 1942, n. 267 e nel decreto legislativo 12 gennaio 2019, n. 14; 
+ 3) reclusione per un tempo non inferiore a un anno per un delitto contro la pubblica amministrazione, la fede pubblica, il patrimonio, l'ordine pubblico, l'economia pubblica ovvero per un delitto in materia tributaria; 
+ 4) reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo. 
+
+                            
+                        
+                        
+                            c)
+                            
+                                applicazione in via definitiva, su richiesta delle parti, di una delle pene previste dalla lettera b), salvo il caso dell'estinzione del reato.
+
+4.
+                    
+                        
+                            Ai fini del presente decreto sono cause di ineleggibilita': 
+ 
+                        
+                        
+                            a)
+                            
+                                le condizioni previste dall'articolo 2382 del codice civile e, per quanto concerne l'organo di controllo, le condizioni previste dall'articolo 2399 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                lo stato di interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese, ovvero l'interdizione temporanea o permanente dallo svolgimento di funzioni di amministrazione, direzione e controllo ai sensi dell'articolo 144-ter, comma 3, del decreto legislativo 1° settembre 1993, n. 385, e dell'articolo 190-bis, commi 3 e 3-bis, del decreto legislativo 24 febbraio 1998, n. 58, o una delle situazioni di cui all'articolo 187-quater del decreto legislativo n. 58 del 1998.
 
 E' fatto salvo quanto previsto in materia di cause di incompatibilita' dall'articolo 5, comma 2, del decreto n. 252 del 2005 e dall'articolo 9 del regolamento di cui al decreto del Ministro dell'economia e delle finanze 2 settembre 2014, n. 166.
 
@@ -84,6 +356,38 @@ I soggetti che, in qualsiasi momento, vengono a trovarsi in situazioni che compo
 A seguito della dichiarazione di decadenza sono avviate le iniziative per la sostituzione del soggetto decaduto.
 
 ## Art. 8. — Sospensione dalle cariche
+
+1.
+                    
+                        
+                            Ove sopravvengano nel corso dell'incarico, costituiscono cause di sospensione dalle funzioni di rappresentante legale, di componente dell'organo di amministrazione o di controllo, di direttore generale, di titolare di una funzione fondamentale, di responsabile delle forme pensionistiche complementari di cui agli articoli 12 e 13 del decreto n. 252 del 2005, di componente dell'organismo di rappresentanza di cui all'articolo 5, comma 5, del predetto decreto e di componente degli organismi, comunque denominati, di rappresentanza degli iscritti nei fondi pensione interni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la condanna con sentenza non definitiva per uno dei reati di cui all'articolo 6, comma 3, lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'applicazione, su richiesta delle parti, di una delle pene di cui all'articolo 6, comma 3, lettera c), con sentenza non definitiva; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'applicazione provvisoria di una misura di prevenzione prevista dal decreto legislativo 6 settembre 2011, n. 159, e successive modificazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'applicazione di una misura cautelare di tipo personale.
 
 I soggetti che, in qualsiasi momento, vengono a trovarsi in situazioni che comportano la sospensione della carica comunicano tempestivamente tali circostanze all'organo di cui all'articolo 7, comma 1.
 

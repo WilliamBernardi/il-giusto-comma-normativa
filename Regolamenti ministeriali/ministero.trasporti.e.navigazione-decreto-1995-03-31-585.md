@@ -8,8 +8,8 @@ codice_redazionale: 096G0081
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,7 +33,127 @@ Le operazioni portuali indicate nel comma 1, dell'art. 16 della legge 28 gennaio
 
 Le autorita' indicate nell'art. 1 sono tenute ad istituire, entro quindici giorni dall'emanazione del presente regolamento, un registro nel quale devono essere iscritte le imprese autorizzate all'esercizio delle attivita' portuali di cui al medesimo art. 1.
 
+2.
+                    
+                        
+                            Nel registro per ciascuna impresa devono essere indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il cognome, il nome, il luogo e la data di nascita, la cittadinanza, se imprese individuali; la denominazione sociale, se societa', nonche' il cognome ed il nome degli amministratori e dei soci che ricoprono cariche nella societa' stessa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione dell'attivita' da svolgere per cui viene rilasciata l'autorizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sede dell'impresa o della societa';
+
+                            
+                        
+                        
+                            d)
+                            
+                                il cognome e nome di eventuale procuratore;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'organico dei dipendenti e dei quadri dirigenziali con l'indicazione per ciascun nominativo della data di assunzione, del livello di appartenenza e delle mansioni cui e' adibito, ovvero del periodo lavorativo fissato in caso di distacco;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il numero ed il tipo dei mezzi meccanici di cui e' dotata ed a quale titolo, con l'individuazione del numero della polizza di assicurazione, nonche' degli elementi di contraddistinzione richiesti per la movimentazione in porto;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il canone annuo e la cauzione versata;
+
+                            
+                        
+                        
+                            h)
+                            
+                                le tariffe adottate per tipi merceologici o per singoli servizi, nonche' ogni successiva variazione.
+
 ## Art. 3.
+
+1.
+                    
+                        
+                            Per il rilascio delle autorizzazioni le istanze avanzate dalle imprese richiedenti devono essere valutate sulla base dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                idoneita' personale e professionale all'esercizio delle attivita' portuali consistente nell'aver assolto l'obbligo scolastico ed attestata da idonea documentazione in ordine all'attivita' svolta almeno negli ultimi tre anni, nonche' dal certificato dei carichi penali pendenti, dal certificato del casellario giudiziale e dal certificato antimafia per il titolare dell'impresa, per il procuratore e in caso di societa' per gli amministratori e per i membri del collegio sindacale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                iscrizione nel registro degli esercenti di commercio presso le camere di commercio ovvero nel registro delle societa' presso il tribunale civile, in caso di societa'. Le imprese appartenenti a Stati esteri possono presentare documentazione equivalente in base alla legislazione dello Stato di appartenenza, ovvero una dichiarazione giurata rilasciata dal legale rappresentante dell'impresa dinanzi all'autorita' giudiziaria o amministrativa, o ad un notaio o pubblico ufficiale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                capacita' tecnica, basata sulla sussistenza di un complesso di beni mobili ed immobili: macchinari o mezzi meccanici o navi o altri strumenti necessari allo svolgimento delle attivita' programmate, in proprieta', in leasing o in locazione per un periodo non inferiore ad un anno;
+
+                            
+                        
+                        
+                            d)
+                            
+                                capacita' organizzativa idonea ad acquisire innovazioni tecnologiche e metodologiche operative nuove per una migliore efficienza e qualita' dei servizi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                capacita' finanziaria attestata dalla presentazione dei bilanci relativi al biennio precedente ovvero per imprese e societa' costituite nel corso del biennio da apposita dichiarazione bancaria, nonche', in ogni caso, da certificazione del tribunale competente comprovante che l'istante non e' sottoposto ad alcun procedimento di carattere concorsuale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                presentazione di un programma operativo non inferiore ad un anno con un piano di investimenti, eventualmente suddiviso per settori, di costi presumibili e di prospettive di traffici;
+
+                            
+                        
+                        
+                            g)
+                            
+                                organigramma dei dipendenti, comprensivo dei quadri dirigenziali, necessario all'espletamento delle attivita' programmate, suddivisi per livelli e profili professionali, con l'indicazione dei dipendenti gia' in organico ed iscritti nel libro paga e l'eventuale ulteriore numero di unita' da inserire nella produzione attraverso l'istituto del distacco, nonche' attraverso la mobilita', ai sensi dell'art. 23 della legge n. 84 del 1994;
+
+                            
+                        
+                        
+                            h)
+                            
+                                presentazione di un contratto assicurativo che garantisca persone e cose da eventuali danni derivanti dall'espletamento delle operazioni di cui all'art. 1.
 
 ## Art. 4.
 
@@ -65,6 +185,52 @@ L'impresa o la societa' che ha ottenuto il rilascio dell'autorizzazione e' tenut
 
 ## Art. 7.
 
+1.
+                    
+                        
+                            L'autorizzazione puo' essere sospesa o revocata da parte delle autorita' di cui all'art. 4, comma 1, in ogni tempo senza diritto ad alcun indennizzo, con provvedimento motivato, sentita la commissione consultiva locale:
+ 
+                        
+                        
+                            a)
+                            
+                                qualora i soggetti indicati all'art. 3, lettera a), non risultino piu' in possesso dell'idoneita' personale e professionale all'esercizio delle attivita' portuali per essere incorsi in procedimenti penali e concorsuali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora la capacita' tecnica e finanziaria, accertata all'atto del rilascio dell'autorizzazione, risulti notevolmente ridotta e tale da pregiudicare le attivita' indicate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                qualora il programma operativo predisposto non possa essere piu' realizzato per carenze organizzative ed inefficienza dei servizi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                qualora non siano state rispettate le norme tributarie, quelle previste dalla normativa in materia previdenziale, nonche' le disposizioni del presente regolamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                qualora sia utilizzato personale non iscritto nei registri di cui all'art. 11;
+
+                            
+                        
+                        
+                            f)
+                            
+                                qualora vengano applicate tariffe superiori a quelle comunicate alle autorita' competenti.
+
 ## Art. 8.
 
 L'autorita' portuale e, dove non istituita, ovvero prima del suo insediamento l'organizzazione portuale e nei restanti porti il capo del circondario, puo' rilasciare al vettore marittimo o impresa di navigazione o al noleggiatore, o per essi ad un loro rappresentante che dovra' spenderne il nome, l'autorizzazione all'esercizio delle operazioni di cui all'art. 1, in occasione dell'arrivo o partenza di navi, dotate di mezzi meccanici e di personale alle dirette dipendenze di tali soggetti autorizzati, adeguato alle operazioni da svolgere ed inserito nella tabella di armamento ovvero nell'organico della loro struttura operativa in ambito portuale.
@@ -72,6 +238,31 @@ L'autorita' portuale e, dove non istituita, ovvero prima del suo insediamento l'
 I soggetti autorizzati potranno avvalersi, nell'esercizio delle operazioni di cui all'art. 1, anche della collaborazione dei propri ausiliari dotati di adeguata struttura operativa, purche' l'attivita' loro affidata consista solamente nel concorso all'organizzazione delle predette operazioni e non nell'autonomo esercizio delle stesse.
 
 Dette autorizzazioni sono rilasciate in occasione dell'arrivo o partenza della nave ed anche per piu' arrivi o partenze gia' programmate, non rientrando nel numero massimo di cui all'art. 5, comma 1.
+
+4.
+                    
+                        
+                            L'istante deve all'atto della richiesta di rilascio di autorizzazione dimostrare:
+ 
+                        
+                        
+                            a)
+                            
+                                la dotazione da parte della nave di mezzi meccanici idonei ed adeguati allo svolgimento delle operazioni da compiere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la presenza nella tabella di armamento ovvero nell'organico della sua struttura operativa in ambito portuale, ove costituita, di un numero di elementi sufficienti ed in grado di espletare le operazioni in massima sicurezza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sussistenza di un contratto assicurativo che garantisca persone e cose da eventuali danni derivanti dall'attivita' svolta in connessione del rilascio dell'atto autorizzatorio richiesto.
 
 L'autorizzazione e' rilasciata, previa verifica da parte dell'autorita' competente delle attestazioni fornite, nonche' previo versamento di una somma e di una cauzione, entrambe correlate alla tipologia delle merci da trattare ed all'eventuale utilizzo di infrastrutture portuali da parte dell'istante.
 

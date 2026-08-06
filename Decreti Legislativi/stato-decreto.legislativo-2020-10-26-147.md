@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-07-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,48 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze e del Ministro del lavoro e delle politiche sociali;
 
 ## Art. 1. — Modifiche alla Parte Prima, Titolo I, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto legislativo 12 gennaio 2019, n. 14 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 17 GIUGNO 2022, N. 83)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 17 GIUGNO 2022, N. 83)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera l), le parole: «per parti correlate ai fini del presente codice» sono soppresse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla lettera p), le parole: «disposte dal giudice competente» sono sostituite dalle seguenti: «richieste dal debitore»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 17 GIUGNO 2022, N. 83)).
 
 ## Art. 2. — ((ARTICOLO ABROGATO DAL D.LGS. 17 GIUGNO 2022, N. 83))
 
@@ -103,7 +145,58 @@ L'articolo 56 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal 
 
 ## Art. 9. — Modifiche alla Parte Prima, Titolo IV, Capo I, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                    
+                        
+                            All'articolo 57 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, sono aggiunte, infine, le seguenti parole: «, commi 1 e 3»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole: «e giuridica» sono soppresse.
+
 All'articolo 61, comma 2, lettera b), del decreto legislativo 12 gennaio 2019, n. 14, le parole: «, comma 2, e che i creditori vengano soddisfatti in misura significativa o prevalente dal ricavato della continuita' aziendale» sono soppresse.
+
+3.
+                    
+                        
+                            All'articolo 63 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 17 GIUGNO 2022, N. 83)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, le parole: «una transazione fiscale» sono sostituite dalle seguenti: «il pagamento, parziale o anche dilazionato, dei tributi e dei relativi accessori amministrati dalle agenzie fiscali, nonche' dei contributi amministrati dagli enti gestori di forme di previdenza, assistenza e assicurazione per l'invalidita', la vecchiaia e i superstiti obbligatorie e dei relativi accessori» e le parole: «in possesso dei requisiti di cui all'articolo 2, comma 1) lettera o)» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, la parola: «fiscale» e' soppressa e la parola: «sessanta» e' sostituita dalla seguente: «novanta»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, la parola: «fiscale» e' soppressa e le parole: «novanta giorni» sono sostituite dalle seguenti: «sessanta giorni».
 
 ## Art. 10. — Modifiche alla Parte Prima, Titolo IV, Capo II, Sezione I, 
  del decreto legislativo 12 gennaio 2019, n. 14
@@ -129,6 +222,29 @@ L'OCC vigila sull'esatto adempimento del piano, risolve le eventuali difficolta'
  5. Quando il piano non e' stato integralmente e correttamente eseguito, il giudice indica gli atti necessari per l'esecuzione del piano ed un termine per il loro compimento. Se le prescrizioni non sono adempiute nel termine, anche prorogato, il giudice revoca l'omologazione, osservate, in quanto compatibili, le disposizioni di cui all'articolo 72. 
  6. Nella liquidazione del compenso il giudice tiene conto della diligenza dell'OCC.».
 
+6.
+                    
+                        
+                            All'articolo 72 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4 le parole: «approvazione del rendiconto» sono sostituite dalle seguenti: «presentazione della relazione finale»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: «5. Sulla richiesta di revoca, il giudice sente le parti, anche mediante scambio di memorie scritte e provvede con sentenza reclamabile ai sensi dell'articolo 51.». 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 20/11/2020, n. 289 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 12. — Modifiche alla Parte Prima, Titolo IV, Capo II, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
 
 All'articolo 74, comma 3, del decreto legislativo 12 gennaio 2019, n. 14, e' aggiunto, infine, il seguente periodo: «La formazione delle classi e' obbligatoria per i creditori titolari di garanzie prestate da terzi.».
@@ -143,6 +259,49 @@ All'articolo 75 del decreto legislativo 12 gennaio 2019, n. 14, il comma 1 e' so
 All'articolo 76, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, e' aggiunto, infine, il seguente periodo: «Se nel circondario del tribunale competente non vi e' un OCC, i compiti e le funzioni allo stesso attribuiti sono svolti da un professionista o da una societa' tra professionisti in possesso dei requisiti di cui all'articolo 358, nominati dal presidente del tribunale competente o da un giudice da lui delegato, individuati, ove possibile, tra gli iscritti all'albo dei gestori della crisi di cui al decreto del Ministro della giustizia 24 settembre 2014, n. 202.».
 
 All'articolo 78, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, dopo le parole: «con decreto» sono inserite le seguenti: «non soggetto a reclamo».
+
+5.
+                    
+                        
+                            All'articolo 79 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo il primo periodo, sono inseriti i seguenti: «Quando un unico creditore e' titolare di crediti in misura superiore alla maggioranza dei crediti ammessi al voto, il concordato minore e' approvato se, oltre alla maggioranza di cui al periodo precedente, ha riportato la maggioranza per teste dei voti espressi dai creditori ammessi al voto. Quando sono previste diverse classi di creditori, il concordato minore e' approvato se la maggioranza dei crediti ammessi al voto e' raggiunta anche nel maggior numero di classi.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. Non sono ammessi al voto e non sono computati ai fini del raggiungimento delle maggioranze il coniuge, la parte dell'unione civile e il convivente di fatto del debitore di cui alla legge 20 maggio 2016, n. 76, i parenti e gli affini del debitore fino al quarto grado, la societa' che controlla la societa' debitrice, le societa' da questa controllate e quelle sottoposte a comune controllo, nonche' i cessionari o aggiudicatari dei loro crediti da meno di un anno prima della domanda. Sono inoltre esclusi dal voto e dal computo delle maggioranze i creditori in conflitto d'interessi.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. Salvo patto contrario, il concordato minore della societa' produce i suoi effetti anche per i soci illimitatamente responsabili.».
+
+6.
+                    
+                        
+                            All'articolo 80 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. Quando uno dei creditori o qualunque altro interessato contesta la convenienza della proposta, il giudice, sentiti il debitore e l'OCC, omologa il concordato minore se ritiene che il credito dell'opponente possa essere soddisfatto dall'esecuzione del piano in misura non inferiore all'alternativa liquidatoria. Il giudice omologa altresi' il concordato minore anche in mancanza di adesione da parte dell'amministrazione finanziariao degli enti gestori di forme di previdenza o assistenza obbligatorie quando l'adesione e' determinante ai fini del raggiungimento della percentuale di cui all'articolo 79, comma 1 e, anche sulla base delle risultanze, sul punto, della specifica relazione dell'OCC, la proposta di soddisfacimento dell'amministrazione o degli enti gestori di forme di previdenza o assistenza obbligatorie e' conveniente rispetto all'alternativa liquidatoria.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. Il creditore, anche dissenziente, che ha colpevolmente determinato la situazione di indebitamento o il suo aggravamento, non puo' presentare opposizione in sede di omologa per contestare la convenienza della proposta.».
 
 L'articolo 81 del decreto legislativo 12 gennaio 2019, n. 14 e' sostituito dal seguente: 
  «Art. 81. (Esecuzione del concordato minore). - 1. Il debitore e' tenuto a compiere ogni atto necessario a dare esecuzione al piano omologato. L'OCC vigila sull'esatto adempimento del concordato minore, risolve le eventuali difficolta' e, se necessario, le sottopone al giudice. Alle vendite e alle cessioni, se previste dal piano, provvede il debitore, tramite procedure competitive, anche avvalendosi di soggetti specializzati, sotto il controllo e con la collaborazione dell'OCC, sulla base di stime effettuate, salvo il caso di beni di modesto valore, da parte di operatori esperti, assicurando, con adeguate forme di pubblicita', la massima informazione e partecipazione degli interessati. Ogni sei mesi, l'OCC riferisce al giudice per iscritto sullo stato dell'esecuzione. 
@@ -160,6 +319,29 @@ L'articolo 82 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal 
  5. Sulla richiesta di revoca, il giudice sente le parti, anche mediante scambio di memorie scritte e provvede con sentenza reclamabile ai sensi dell'articolo 51. 
  6. La revoca dell'omologazione non pregiudica i diritti acquistati dai terzi in buona fede.».
 
+9.
+                    
+                        
+                            All'articolo 83 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «o risoluzione» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: «o la risoluzione» sono soppresse. 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 20/11/2020, n. 289 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 13. — Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
 
@@ -167,6 +349,31 @@ L'articolo 82 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal 
 ((COMMA ABROGATO DAL D.LGS. 17 GIUGNO 2022, N. 83)).
 
 ((COMMA ABROGATO DAL D.LGS. 17 GIUGNO 2022, N. 83)).
+
+4.
+                    
+                        
+                            All'articolo 88 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Con il piano di concordato il debitore, esclusivamente mediante proposta presentata ai sensi del presente articolo, puo' proporre il pagamento, parziale o anche dilazionato, dei tributi e dei relativi accessori amministrati dalle agenzie fiscali, nonche' dei contributi amministrati dagli enti gestori di forme di previdenza, assistenza e assicurazione per l'invalidita', la vecchiaia e i superstiti obbligatorie e dei relativi accessori, se il piano ne prevede la soddisfazione in misura non inferiore a quella realizzabile, in ragione della collocazione preferenziale, sul ricavato in caso di liquidazione, avuto riguardo al valore di mercato attribuibile ai beni o ai diritti sui quali sussiste la causa di prelazione, indicato nella relazione di un professionista indipendente. Se il credito tributario e contributivo e' assistito da privilegio, la percentuale, i tempi di pagamento e le eventuali garanzie non possono essere inferiori o meno vantaggiosi rispetto a quelli offerti ai creditori che hanno un grado di privilegio inferiore o a quelli che hanno una posizione giuridica e interessi economici omogenei a quelli delle agenzie e degli enti gestori di forme di previdenza e assistenza obbligatorie. Se il credito tributario o contributivo ha natura chirografaria, anche a seguito di degradazione per incapienza, il trattamento non puo' essere differenziato rispetto a quello degli altri crediti chirografari ovvero, nel caso di suddivisione in classi, dei crediti rispetto ai quali e' previsto un trattamento piu' favorevole.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «fiscali e previdenziali» sono sostituite dalle seguenti: «tributari e contributivi»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, primo periodo, le parole: «e all'ufficio competente» sono sostituite dalle seguenti: «e agli altri uffici competenti» e, al terzo periodo, le parole «L'ufficio, nello stesso termine, deve» sono sostituite dalle seguenti: «Gli uffici, nello stesso termine, devono».
 
 All'articolo 91 del decreto legislativo 12 gennaio 2019, n. 14, il comma 1 e' sostituito dal seguente: «1. Il tribunale o il giudice da esso delegato, esclusivamente quando il piano di concordato comprende un'offerta irrevocabile da parte di un soggetto gia' individuato e avente ad oggetto il trasferimento in suo favore, anche prima dell'omologazione, verso un corrispettivo in denaro o comunque a titolo oneroso, dell'azienda o di uno o piu' rami d'azienda o di specifici beni, dispone che dell'offerta stessa sia data idonea pubblicita' al fine di acquisire offerte concorrenti. La stessa disciplina si applica in caso di affitto d'azienda.».
 
@@ -176,6 +383,24 @@ All'articolo 91 del decreto legislativo 12 gennaio 2019, n. 14, il comma 1 e' so
 All'articolo 92, comma 2, del decreto legislativo 12 gennaio 2019, n. 14, dopo le parole «Si applicano al commissario giudiziale gli articoli» sono inseriti il numero e il segno di interpunzione seguenti: «125,».
 
 ## Art. 15. — Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione III, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                    
+                        
+                            All'articolo 94 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, dopo le parole: «prima dell'omologazione» sono inserite le seguenti: «, sentito il commissario giudiziale,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 6 e' sostituito dal seguente: «6. Il tribunale, in caso di urgenza, sentito il commissario giudiziale, puo' autorizzare gli atti previsti al comma 5 senza far luogo a pubblicita' e alle procedure competitive quando puo' essere compromesso irreparabilmente l'interesse dei creditori al miglior soddisfacimento. Del provvedimento e del compimento dell'atto deve comunque essere data adeguata pubblicita' e comunicazione ai creditori.».
 
 L'articolo 97 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal seguente: 
  «Art. 97. (Contratti pendenti). - 1. Salvo quanto previsto dall'articolo 91, comma 2, i contratti ancora ineseguiti o non compiutamente eseguiti nelle prestazioni principali da entrambe le parti alla data del deposito della domanda di accesso al concordato preventivo, proseguono anche durante il concordato. Sono inefficaci eventuali patti contrari. Il debitore puo' chiedere, con autonoma istanza, l'autorizzazione alla sospensione o allo scioglimento di uno o piu' contratti, se la prosecuzione non e' coerente con le previsioni del piano ne' funzionale alla sua esecuzione. Il debitore, unitamente all'istanza, deposita la prova della sua avvenuta notificazione alla controparte. 
@@ -211,7 +436,80 @@ Nota redazionale
 
 ## Art. 16. — Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione IV, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                    
+                        
+                            All'articolo 105 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto, infine, il seguente periodo: «Copia della relazione e' trasmessa al pubblico ministero.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 e' aggiunto, infine, il seguente periodo: «Copia della relazione integrativa e' trasmessa al pubblico ministero.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, dopo le parole: «prima della data iniziale stabilita per il voto» sono aggiunte le seguenti: «ed e' trasmessa al pubblico ministero».
+
+2.
+                    
+                        
+                            All'articolo 106 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, al primo periodo, le parole «provvede ai sensi dell'articolo 49, comma 2» sono sostituite dalle seguenti: «provvede ai sensi dell'articolo 44, comma 2»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 dopo le parole: «si applicano anche quando» sono inserite le seguenti: «il debitore non ha effettuato tempestivamente il deposito previsto dall'articolo 47, comma 1, lettera d), o»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, dopo le parole: «il tribunale» sono inserite le seguenti: «revocato il decreto di cui all'articolo 47,». 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 20/11/2020, n. 289 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 17. — Modifiche alla Parte Prima, Titolo IV, Capo III, Sezione V, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                    
+                        
+                            All'articolo 107 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 6, le parole: «entro cinque giorni prima» sono sostituite dalle seguenti: «almeno sette giorni prima»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 7, dopo le parole «a tutti gli interessati» sono aggiunte le seguenti: «almeno due giorni prima della data iniziale stabilita per il voto».
 
 All'articolo 108 del decreto legislativo 12 gennaio 2019, n. 14, il comma 1 e' sostituito dal seguente: «1. Il giudice delegato puo' ammettere provvisoriamente in tutto o in parte i crediti contestati ai soli fini del voto e del calcolo delle maggioranze, senza che cio' pregiudichi le pronunzie definitive sulla sussistenza e sulla collocazione dei crediti stessi. Provvede nello stesso modo in caso di rinuncia al privilegio. La decisione e' comunicata ai sensi dell'articolo 107, comma 7. In mancanza, i creditori sono ammessi al voto sulla base dell'elenco dei creditori di cui all'articolo 107, comma 3, fatto salvo il diritto di proporre opposizione all'omologazione.». 
  
@@ -238,9 +536,68 @@ L'articolo 119 del decreto legislativo 12 gennaio 2019, n. 14 e' sostituito dal 
 
 ## Art. 19. — Modifiche alla Parte Prima, Titolo V, Capo I, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                    
+                        
+                            All'articolo 125, comma 4, del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo periodo dopo le parole: «confluiscono nel registro nazionale» e' inserita la seguente: «gia'»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo periodo le parole: «del fallimento» sono sostituite dalle seguenti: «della liquidazione giudiziale» e, dopo le parole «delle procedure chiuse» sono inserite le seguenti: «e i provvedimenti di liquidazione degli acconti e del compenso finale in favore di ciascuno dei soggetti di cui al primo periodo».
+
 All'articolo 128, comma 3, del decreto legislativo 12 gennaio 2019, n. 14, e' anteposto il seguente periodo: «La nomina dei difensori spetta al curatore.».
 
+3.
+                    
+                        
+                            All'articolo 130 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole «comma 3, lettera c),» sono inserite le seguenti: «e se il debitore non ottempera agli obblighi di cui all'articolo 198, comma 2,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, e' aggiunto, infine, il seguente periodo: «Il curatore allega alla relazione il bilancio dell'ultimo esercizio formato ai sensi dell'articolo 198, comma 2, nonche' il rendiconto di gestione di cui all'articolo 2487-bis del codice civile, evidenziando le rettifiche apportate.». 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 20/11/2020, n. 289 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 20. — Modifiche alla Parte Prima, Titolo V, Capo I, Sezione IV, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                    
+                        
+                            All'articolo 166, comma 3, del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b), le parole: «consistente e» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera e), dopo le parole: «nonche' gli atti, i pagamenti e le garanzie legalmente posti in essere» la parola: «e» e' soppressa.
 
 L'articolo 170 del decreto legislativo 12 gennaio 2019, n. 14 e' sostituito dal seguente: 
  «Art. 170.(Limiti temporali delle azioni revocatorie e d'inefficacia). - 1. Le azioni revocatorie e di inefficacia disciplinate nella presente sezione non possono essere promosse dal curatore decorsi tre anni dall'apertura della liquidazione giudiziale e comunque si prescrivono decorsi cinque anni dal compimento dell'atto. 
@@ -252,6 +609,29 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 21. — Modifiche alla Parte Prima, Titolo V, Capo I, Sezione V, del decreto legislativo 12 gennaio 2019, n. 14
+
+1.
+                    
+                        
+                            All'articolo 189 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 5 e' sostituito dal seguente: «5. Salvi i casi di ammissione ai trattamenti di cui al titolo I del decreto legislativo 14 settembre 2015 n. 148, ovvero di accesso alle prestazioni di cui al titolo II del medesimo decreto legislativo o ad altre prestazioni di sostegno al reddito, le eventuali dimissioni del lavoratore nel periodo di sospensione tra la data della sentenza dichiarativa fino alla data della comunicazione di cui al comma 1, si intendono rassegnate per giusta causa ai sensi dell'articolo 2119 del codice civile con effetto dalla data di apertura della liquidazione giudiziale.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 9 e' sostituito dal seguente: «9. Durante l'esercizio dell'impresa del debitore in liquidazione giudiziale da parte del curatore i rapporti di lavoro subordinato in essere proseguono, salvo che il curatore non intenda sospenderli o procedere al licenziamento ai sensi della disciplina lavoristica vigente. In caso di sospensione si applicano i commi da 2 a 6 e 8 in quanto compatibili». 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 20/11/2020, n. 289 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 22. — Modifiche alla Parte Prima, Titolo V, Capo II, 
  del decreto legislativo 12 gennaio 2019, n. 14
@@ -287,6 +667,37 @@ All'articolo 211, comma 2, del decreto legislativo 12 gennaio 2019, n. 14, le pa
 
 ## Art. 25. — Modifiche alla Parte Prima, Titolo V, Capo IV, Sezione II, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                    
+                        
+                            All'articolo 216 del decreto legislativo 12 gennaio 2019, n. 14 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. Le vendite e gli altri atti di liquidazione posti in essere in esecuzione del programma di liquidazione sono effettuati dal curatore o dal delegato alle vendite tramite procedure competitive, anche avvalendosi di soggetti specializzati, con le modalita' stabilite con ordinanza dal giudice delegato. Per i beni immobili il curatore pone in essere almeno tre esperimenti di vendita all'anno. Dopo il terzo esperimento andato deserto il prezzo puo' essere ribassato fino al limite della meta' rispetto a quello dell'ultimo esperimento. Fatto salvo quanto previsto dall'articolo 147, comma 2, il giudice delegato ordina la liberazione dei beni immobili occupati dal debitore o da terzi in forza di titolo non opponibile al curatore. Il provvedimento e' attuato dal curatore secondo le disposizioni del giudice delegato, senza l'osservanza di formalita' diverse da quelle stabilite dal giudice, anche successivamente alla pronuncia del decreto di trasferimento nell'interesse dell'aggiudicatario se questi non lo esenta. Per l'attuazione dell'ordine di liberazione il giudice delegato puo' avvalersi della forza pubblica e nominare ausiliari ai sensi dell'articolo 68 del codice di procedura civile. Quando nell'immobile si trovano beni mobili che non devono essere consegnati ovvero documenti inerenti lo svolgimento di attivita' imprenditoriale o professionale, il curatore intima di asportarli alla parte tenuta al rilascio ovvero al soggetto al quale gli stessi risultano appartenere, assegnandogli il relativo termine, non inferiore a trenta giorni, salvi i casi di urgenza. Dell'intimazione si da' atto a verbale ovvero, se il soggetto intimato non e' presente, mediante atto notificato dal curatore. Se l'asporto non e' eseguito entro il termine assegnato, i beni o i documenti sono considerati abbandonati e il curatore, salvo diversa disposizione del giudice delegato, ne dispone lo smaltimento o la distruzione. Per i beni immobili e gli altri beni iscritti nei pubblici registri, prima del completamento delle operazioni di vendita, e' data notizia mediante notificazione da parte del curatore, a ciascuno dei creditori ipotecari o i cui crediti siano assistiti da privilegio sul bene.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 6, sono aggiunti, infine, i seguenti periodi: «Essi hanno diritto di esaminare i beni in vendita entro quindici giorni dalla richiesta o nel diverso termine stabilito dal giudice delegato.
+La richiesta non puo' essere resa nota a persona diversa dal curatore o dal delegato alla vendita. L'esame dei beni si svolge con modalita' idonee a garantire la riservatezza dell'identita' degli interessati e ad impedire che essi abbiano contatti tra loro.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 9, le parole: «Entro cinque giorni dal trasferimento di ciascun bene, il curatore ne da' notizia agli organi della procedura» sono sostituite dalle seguenti: «Il curatore informa il giudice delegato e il comitato dei creditori dell'esito della procedura di vendita o liquidazione di ciascun bene entro cinque giorni dalla sua conclusione». 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 20/11/2020, n. 289 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 26. — Modifiche alla Parte Prima, Titolo V, Capo VI, 
  del decreto legislativo 12 gennaio 2019, n. 14
 
@@ -321,6 +732,24 @@ L'articolo 268 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal
  d) le cose che non possono essere pignorate per disposizione di legge. 
  5. Il deposito della domanda sospende, ai soli effetti del concorso, il corso degli interessi convenzionali o legali fino alla chiusura della liquidazione, a meno che i crediti non siano garantiti da ipoteca, pegno o privilegio e salvo quanto previsto dagli articoli 2749, 2788 e 2855, secondo e terzo comma, del codice civile.».
 
+2.
+                    
+                        
+                            All'articolo 270 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, sono aggiunti, infine, i seguenti periodi: «La sentenza produce i suoi effetti anche nei confronti dei soci illimitatamente responsabili. Si applica, in quanto compatibile, l'articolo 256.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera b), dopo la parola: «confermando» sono inserite le seguenti: «, in caso di domanda presentata dal debitore,».
+
 L'articolo 273 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal seguente: 
  «Art. 273. (Formazione del passivo). - 1. Scaduti i termini per la proposizione delle domande di cui all'articolo 270, comma 2, lettera d), il liquidatore predispone un progetto di stato passivo, comprendente un elenco dei titolari di diritti sui beni mobili e immobili di proprieta' o in possesso del debitore, e lo comunica agli interessati all'indirizzo di posta elettronica certificato indicato nella domanda. In mancanza della predetta indicazione, il provvedimento si intende comunicato mediante deposito in cancelleria. 
  2. Entro quindici giorni possono essere proposte osservazioni, con le stesse modalita' della domanda di cui all'articolo 270, comma 2, lettera d). 
@@ -339,6 +768,24 @@ Nota redazionale
 
 ## Art. 30. — Modifiche alla Parte Prima, Titolo V, Capo X, Sezione I, del decreto legislativo 12 gennaio 2019, n. 14
 
+1.
+                    
+                        
+                            All'articolo 278 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «concorsuale che prevede la liquidazione dei beni» sono sostituite dalle seguenti: «di liquidazione giudiziale o di liquidazione controllata»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. Se il debitore e' una societa' o altro ente, le condizioni stabilite nell'articolo 280 devono sussistere nei confronti dei soci illimitatamente responsabili e dei legali rappresentanti.».
+
 All'articolo 281, comma 4, del decreto legislativo 12 gennaio 2019, n. 14, e' aggiunto, infine, il seguente periodo: «Il decreto e' iscritto nel registro delle imprese su richiesta del cancelliere.». 
  
 --------------- 
@@ -350,6 +797,54 @@ Nota redazionale
 
 Alla parte I, titolo V, capo X, del decreto legislativo 12 gennaio 2019, n. 14, la rubrica della sezione II e' sostituita dalla seguente: «Disposizioni in materia di esdebitazione del soggetto sovraindebitato».
 
+2.
+                    
+                        
+                            All'articolo 282 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, e' aggiunto, infine, il seguente periodo: «Il decreto che dichiara l'esdebitazione del consumatore o del professionista e' pubblicato in apposita area del sito web del tribunale o del Ministero della giustizia.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. L'esdebitazione non opera nelle ipotesi previste dall'articolo 280 nonche' nelle ipotesi in cui il debitore ha determinato la situazione di sovraindebitamento con colpa grave, malafede o frode.». 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. Il provvedimento di cui al comma 1 o il provvedimento con cui il tribunale dichiara la sussistenza delle preclusioni di cui al comma 2 e' comunicato al pubblico ministero, ai creditori e al debitore, i quali possono proporre reclamo ai sensi dell'articolo 124; il termine per proporre reclamo e' di trenta giorni.».
+
+3.
+                    
+                        
+                            All'articolo 283, del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Esdebitazione del sovraindebitato incapiente»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo le parole: «non inferiore» e' inserita la seguente: «complessivamente». 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 20/11/2020, n. 289 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 32. — Modifiche alla Parte Prima, Titolo VI, Capo I, del decreto legislativo 12 gennaio 2019, n. 14
 
 L'articolo 284 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal seguente: 
@@ -359,6 +854,38 @@ L'articolo 284 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal
  4. La domanda proposta ai sensi dei commi 1 e 2 deve contenere l'illustrazione delle ragioni di maggiore convenienza, in funzione del migliore soddisfacimento dei creditori delle singole imprese, della scelta di presentare un piano unitario ovvero piani reciprocamente collegati e interferenti invece di un piano autonomo per ciascuna impresa. Il piano o i piani di cui al comma 1 quantificano il beneficio stimato per i creditori di ciascuna impresa del gruppo, anche per effetto della sussistenza di vantaggi compensativi, conseguiti o fondatamente prevedibili, derivanti dal collegamento o dall'appartenenza al gruppo. La domanda deve inoltre fornire informazioni analitiche, complete e aggiornate sulla struttura del gruppo e sui vincoli partecipativi o contrattuali esistenti tra le imprese e indicare il registro delle imprese o i registri delle imprese in cui e' stata effettuata la pubblicita' ai sensi dell'articolo 2497-bis del codice civile. Il bilancio consolidato di gruppo, ove redatto, deve essere allegato al ricorso unitamente alla documentazione prevista, rispettivamente, per l'accesso al concordato preventivo o agli accordi di ristrutturazione. Si applica l'articolo 289. 
  5. Il piano unitario o i piani reciprocamente collegati e interferenti, rivolti ai rispettivi creditori, aventi il contenuto indicato nell'articolo 56, comma 2, devono essere idonei a consentire il risanamento dell'esposizione debitoria di ciascuna impresa e ad assicurare il riequilibrio complessivo della situazione finanziaria di ognuna. Un professionista indipendente attesta: a) la veridicita' dei dati aziendali; b) la fattibilita' del piano o dei piani; c) le ragioni di maggiore convenienza, in funzione del migliore soddisfacimento dei creditori delle singole imprese, della scelta di presentare un piano unitario ovvero piani reciprocamente collegati e interferenti invece di un piano autonomo per ciascuna impresa; d) la quantificazione del beneficio stimato per i creditori di ciascuna impresa del gruppo, operata ai sensi del comma 4. L'attestazione contiene anche informazioni analitiche, complete e aggiornate sulla struttura del gruppo e sui vincoli partecipativi o contrattuali esistenti tra le imprese. 
  6. Su richiesta delle imprese debitrici, il piano o i piani sono pubblicati nel registro delle imprese o nei registri delle imprese in cui e' stata effettuata la pubblicita' ai sensi dell'articolo 2497-bis del codice civile. Si applica l'articolo 289.».
+
+2.
+                    
+                        
+                            All'articolo 285 del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, primo periodo, la parola: «concordatario» e' soppressa e al secondo periodo dopo le parole: «diretta o indiretta», le parole: «, ivi compresa la cessione del magazzino», sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole: «di cui al comma 1» sono sostituite dalle seguenti: «di cui ai commi 1 e 2» e la parola: «societa'» e' sostituita dalla seguente: «impresa»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, la parola: «societa'» e' sostituita dalla seguente: «impresa»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 5 e' sostituito dal seguente: «5. I soci possono far valere il pregiudizio arrecato alla redditivita' e al valore della partecipazione sociale dalle operazioni di cui ai commi 1 e 2, esclusivamente attraverso l'opposizione all'omologazione del concordato di gruppo. Il tribunale omologa il concordato se esclude la sussistenza del predetto pregiudizio in considerazione dei vantaggi compensativi derivanti alle singole imprese dal piano di gruppo.».
 
 L'articolo 286 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal seguente: 
  «Art. 286.(Procedimento di concordato di gruppo). - 1. Se le diverse imprese del gruppo hanno il proprio centro degli interessi principali in circoscrizioni giudiziarie diverse, e' competente il tribunale individuato ai sensi dell'articolo 27 in relazione al centro degli interessi principali della societa' o ente o persona fisica che, in base alla pubblicita' prevista dall'articolo 2497-bis del codice civile, esercita l'attivita' di direzione e coordinamento oppure, in mancanza, dell'impresa che presenta la maggiore esposizione debitoria in base all'ultimo bilancio approvato. 
@@ -406,6 +933,29 @@ Costituisce condizione per il mantenimento dell'iscrizione l'acquisizione di uno
 
 All'articolo 357, comma 1, del decreto legislativo 12 gennaio 2019, n. 14, la lettera b) e' sostituita dalla seguente: «b) le modalita' di sospensione e cancellazione, volontaria o disposta dal Ministero della giustizia, dal medesimo albo anche a seguito del mancato versamento del contributo previsto dal comma 2;».
 
+3.
+                    
+                        
+                            All'articolo 358, comma 3, del decreto legislativo 12 gennaio 2019, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b), dopo la parola «personale», e' inserita la seguente: «, efficiente»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera c), le parole «e di turnazione» sono sostituite dalle seguenti: «e di rotazione» e, dopo le parole «nell'assegnazione degli incarichi,» sono inserite le seguenti: «anche tenuto conto del numero delle procedure aperte nell'anno precedente,». 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 20/11/2020, n. 289 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 38. — Modifiche alla Parte Prima, Titolo X, Capo V, del decreto legislativo 12 gennaio 2019, n. 14
 
 L'articolo 369 del decreto legislativo 12 gennaio 2019, n. 14, e' sostituito dal seguente: 
@@ -444,6 +994,33 @@ La disposizione di cui al comma 1, lettera a), si applica alle liquidazioni giud
 La disposizione di cui al comma 1, lettera b), si applica agli accordi previsti dal capo 02-I del Titolo IV del Testo unico bancario e alle prestazioni di sostegno finanziario in loro esecuzione, approvati successivamente alla data di entrata in vigore del presente decreto.
 
 Le disposizioni di cui al comma 1, lettere d), e), f), g), h), i), l), m), n), e o), si applicano alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente alla data di entrata in vigore del presente decreto.
+
+5.
+                    
+                        
+                            Al decreto legislativo 16 novembre 2015, n. 180, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 36: 
+ 1) al comma 2, le parole: «Le disposizioni del Titolo VI della legge fallimentare» sono sostituite dalle seguenti: «Le disposizioni del Titolo IX del codice della crisi d'impresa e dell'insolvenza»; 
+ 2) al comma 3, il secondo ed il terzo periodo sono sostituiti dai seguenti: «I termini di cui agli articoli 163, 164, comma 1, 166, comma 1, 169 e 170 del codice della crisi d'impresa e dell'insolvenza decorrono dalla data di avvio della risoluzione. Non sono esperibili le azioni previste dall'articolo 166, comma 2, del codice della crisi d'impresa e dell'insolvenza.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 8 dell'articolo 37, le parole: «prededucibili ai sensi dell'articolo 111 della legge fallimentare» sono sostituite dalle seguenti: «prededucibili ai sensi dell'articolo 6, comma 1, lettera d), del codice della crisi d'impresa e dell'insolvenza»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 dell'articolo 38, l'ultimo periodo e' sostituito dal seguente: «Se e' dichiarato lo stato di insolvenza, i termini di cui agli articoli 163, 164, 166, comma 1, e 169 del codice della crisi d'impresa e dell'insolvenza decorrono dalla data determinata dalla Banca d'Italia ai sensi dell'articolo 32, comma 2.».
 
 Le disposizioni di cui al comma 5 si applicano alle procedure di risoluzione avviate ai sensi dell'articolo 32 del decreto legislativo 16 novembre 2015, n. 180, successivamente alla data di entrata in vigore del presente decreto.». 
  2. All'articolo 372, comma 1, lettera c), del decreto legislativo 12 gennaio 2019, n. 14, capoverso articolo 110, comma 4, le parole: «si applica l'art. 95 del medesimo codice» sono sostituite dalle seguenti «si applica l'articolo 95 del medesimo codice». 

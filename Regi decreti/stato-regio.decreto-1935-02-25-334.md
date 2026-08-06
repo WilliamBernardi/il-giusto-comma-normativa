@@ -8,8 +8,8 @@ codice_redazionale: 035U0334
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:27:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO
@@ -201,6 +201,102 @@ Alle Cappelle del Sacramento, del Rosario
 e S. Antonio in Poggiumbricchio di Crognaleto
 (Teramo) amministrate dalla Congregazione di carita'
  di Crognaleto (Teramo) » 192,34
+
+23.
+                    
+                        
+                            Alla Cappella della Madonna della Neve in
+S. Maurizio Canavese (Torino) » 310,55
+
+
+ 
+ 
+ Ai sensi degli articoli 3 e 4 del R. decreto 1° maggio 1930, n. 695, agli Enti ecclesiastici sottoindicati sono assegnate le seguenti somme: 
+ 
+ 
+
+
+                        
+                        
+                            a)
+                            
+                                Alla Compagnia della carita' in Campli
+(Teramo) amministrata da quella Congregazione
+ di carita' L. 468,39
+
+                            
+                        
+                        
+                            b)
+                            
+                                Alla Cappella del Terzo Ordine in
+tossiccia (Teramo) amministrata da quella
+Congregazione di carita' » 708,19
+
+                            
+                        
+                        
+                            c)
+                            
+                                Alla Compagnia di S. Maria Maddalena
+in Campli (Teramo) amministrata da quella
+Congregazione di carita' » 608,23
+
+                            
+                        
+                        
+                            d)
+                            
+                                Alla Cappella del Rosario in Villa Nocella
+(Teramo) amministrata dalla Congregazione di
+carita' di Campli (Teramo) » 386,98
+
+                            
+                        
+                        
+                            e)
+                            
+                                Alla Mensa Vescovile di Lipari (Messina) » 3957,76
+
+                            
+                        
+                        
+                            f)
+                            
+                                Alla Cappella del Sacramento in Leognano
+(Teramo) amministrata dalla Congregazione di
+carita' di Montorio al Vomano (Teramo) » 198,36
+
+                            
+                        
+                        
+                            g)
+                            
+                                Alla Cappella di S. Giovenale di Villa
+Vollucci di Montorio al Vomano (Teramo)
+amministrata dalla Congregazione di carita' di
+Montorio al Vomano » 144,85
+
+                            
+                        
+                        
+                            h)
+                            
+                                Alla Cappella del SS. Sacramento e Rosario
+in Civitacastellana (Viterbo) » 4752,12
+
+                            
+                        
+                        
+                            i)
+                            
+                                Al Seminario Vescovile di Feltre per il
+Legato Villabruna » 30.356,28
+
+
+ 
+ 
+ Fino alla concorrenza di L. 25.100 il mandato di pagamento della predetta somma di L. 30.356,28 sara' commutato in quietanza di entrata (capitolo affitti) a scomputo del debito del Seminario verso il Demanio per canoni arretrati di affitto relativi ai beni retrocessi.
 
 ## Art. 4.
 

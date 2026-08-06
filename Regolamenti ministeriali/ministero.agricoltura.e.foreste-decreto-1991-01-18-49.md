@@ -8,8 +8,8 @@ codice_redazionale: 091G0080
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,7 +31,132 @@ Udito il parere dell'adunanza generale del Consiglio di Stato, espressosi in dat
 
 Ai sensi dell'art. 10- ter del regolamento del Consiglio CEE n. 2727/75, citato in premessa, l'aiuto sara' concesso ai produttori di grano saraceno, di scagliola e di miglio seminato nelle superfici facenti parte del territorio nazionale.
 
+2.
+                        
+                            
+                                L'aiuto, limitato a 10 ettari per azienda, e' concesso per le superfici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sulle quali e' stata effettuata la semina ed e' stato conseguito il raccolto. In conformita' delle disposizioni di cui all'art. 2, punto 2, primo trattino, del regolamento della commissione CEE n. 2689/90 del 19 settembre 1990, si considera che su una superficie coltivata a grano saraceno o scagliola o miglio sia stata effettuata la semina e sia stato conseguito il raccolto quando tale superficie e' stata ed e' oggetto di normali lavori di coltivazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le quali, in conformita' alle disposizioni di cui all'art.
+10- ter, punto 1, del regolamento CEE n. 2727/75 del Consiglio del 29 ottobre 1975, e' stato stipulato un contratto di coltivazione.
+
 ## Art. 2.
+
+1.
+                        
+                            
+                                Il rilascio del provvedimento di concessione dell'aiuto ha luogo in presenza, oltre che delle condizioni di cui al comma 2 del precedente art. 1, dei seguenti presupposti:
+ 
+                            
+                            
+                                a)
+                                
+                                    per ciascuno dei cereali indicati all'art. 1, comma 1, l'interessato deve presentare la relativa dichiarazione di coltivazione delle superfici seminate, che equivale, a tutti gli effetti, alla domanda di concessione dell'aiuto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    deve intervenire l'esito favorevole dei controlli previsti dalle disposizioni comunitarie.
+
+2.
+                        
+                            
+                                La dichiarazione di coltivazione deve essere presentata direttamente presso gli uffici competenti o spedita a mezzo raccomandata postale con avviso di ricevimento entro il 30 aprile di ogni anno come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le province delle regioni Liguria e Piemonte, ai rispettivi servizi regionali decentrati dell'agricoltura;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le province delle regioni Veneto, Friuli-Venezia Giulia e Trentino-Alto Adige, ai rispettivi ispettorati provinciali dell'agricoltura;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le province delle regioni Campania e Sicilia, ai rispettivi ispettorati provinciali dell'alimentazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le province della regione Marche, ai rispettivi servizi decentrati dell'agricoltura, delle foreste e dell'alimentazione, sezione alimentazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le province della regione Calabria, ai rispettivi ispettorati provinciali dell'alimentazione - servizi di coordinamento regionale interventi A.I.M.A.;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per le province delle regioni Puglia, Umbria, Molise e Basilicata, ai rispettivi enti di sviluppo agricolo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per le province della regione Toscana, ai rispettivi assessorati all'agricoltura delle amministrazioni provinciali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per le province della regione Lazio, ai rispettivi settori decentrati provinciali dell'agricoltura;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per le province della regione Abruzzo, alle rispettive unita' territoriali per l'agricoltura - U.T.A.;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per le province della regione Emilia-Romagna, ai rispettivi servizi provinciali agricoltura e alimentazione;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    per le province della regione Lombardia, ai rispettivi servizi provinciali agricoltura, foreste e alimentazione - S.P.A.F.A.;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    per le province delle altre regioni, ai rispettivi assessorati regionali all'agricoltura.
 
 L'ufficio competente provvede all'istruttoria, al controllo, all'acquisizione della documentazione ritenuta necessaria ivi compresa la certificazione antimafia prevista dalla legge 19 marzo 1990, n. 55, ed alla emanazione dei provvedimenti che hanno per oggetto le domande di concessione dell'aiuto.
 
@@ -47,11 +172,121 @@ Qualora non si sia in presenza di tutti i presupposti necessari per il rilascio 
 
 La dichiarazione di coltivazione deve essere firmata per esteso dal produttore. Costui, se analfabeta, dovra' apporre nella dichiarazione il segno di croce, convalidato dalla firma di due testimoni che devono indicare il proprio domicilio. In ambedue i casi, le sottoscrizioni devono essere autenticate secondo quanto previsto dalla legge 4 gennaio 1968, n. 15.
 
+2.
+                        
+                            
+                                Detta dichiarazione, redatta sulla base del modello allegato al presente regolamento e corredata dal certificato di famiglia, deve contenere, per la sua validita', i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome, nome, luogo e data di nascita, residenza del produttore e sua qualifica (proprietario, conduttore o diretto coltivatore, proprietario concedente a qualsiasi titolo, titolare di contratto agrario associativo, di affittanza, ecc.);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati di individuazione del fondo nel quale e' stata effettuata la semina di grano saraceno o scagliola o miglio (comune, localita' e denominazione del fondo stesso, con l'indicazione del suo proprietario);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specificazione della superficie aziendale nella quale la semina e' stata effettuata, riportando i dati catastali (foglio di mappa, superficie) dei singoli appezzamenti (particelle) che compongono detta superficie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nella misura del possibile le varieta' di seme utilizzato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    modi di conduzione dell'azienda ed indicazione degli eventuali compartecipanti alla coltivazione, specificandone le generalita', residenza e rapporto di compartecipazione, ed indicando, riferita alla superficie, la quota di spettanza degli stessi.
+
 Il contratto di coltivazione di cui all'art. 1, comma 2, lettera b), deve essere allegato alla dichiarazione di coltivazione pena l'invalidita' della stessa.
 
 ## Art. 4.
 
+1.
+                        
+                            
+                                Il contratto di coltivazione, di cui all'art. 1, comma 2, lettera b), debitamente firmato, deve contenere, per la sua validita', i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome, nome, luogo e data di nascita e residenza del produttore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cognome, nome, luogo e data di nascita e residenza dell'acquirente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati di individuazione del fondo nel quale e' stata effettuata la semina del grano saraceno, della scagliola o del miglio (comune, localita' e denominazione del fondo stesso, con l'indicazione del suo proprietario);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la specificazione della superficie aziendale nella quale la semina e' stata effettuata, riportando la superficie catastale delle singole particelle, nonche' le frazioni delle stesse, che compongono detta superficie;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nella misura del possibile le varieta' di seme utilizzato;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    impegno, da parte del produttore, di consegnare tutto il grano saraceno, la scagliola e il miglio proveniente dalla raccolta effettuata sulle superfici in causa, all'acquirente designato;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    impegno, da parte dell'acquirente, di acquistare la quantita' di prodotto oggetto del contratto di coltivazione.
+
 ## Art. 5.
+
+1.
+                        
+                            
+                                Ai fini della concessione dell'aiuto, il produttore di grano saraceno, di scagliola e di miglio, presenta all'organo di controllo competente per territorio, entro il 31 dicembre successivo alla campagna di commercializzazione in causa, la fattura di vendita del prodotto, nella quale devono essere contenute almeno le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    quantita' espressa in tonnellate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipo di cereale venduto.
 
 ## Art. 6.
 
@@ -71,6 +306,30 @@ In ogni caso in cui la stessa particella risulti inclusa in piu' dichiarazioni d
 
 Per l'attuazione del controllo di cui agli articoli 6 e 7 del regolamento CEE n. 2689/90, gli organi, di cui all'art. 2, debbono eseguire un controllo a campione delle superfici presentate.
 
+2.
+                        
+                            
+                                Il campione delle aziende da sottoporre a controllo deve essere rappresentativo dell'intera provincia e formato tenendo conto dei seguenti parametri:
+ 
+                            
+                            
+                                a)
+                                
+                                    fisici:
+ altimetria;
+ maglia poderale;
+ grado di accorpamento fondiario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    economici:
+ modo di conduzione;
+ indirizzo produttivo;
+ avvicendamento colturale.
+
 Criteri di sorteggio delle aziende: l'amministrazione deve elaborare trasparenti criteri di sorteggio delle aziende da sottoporre a controllo, disponendo la individuazione di esse in base alle successioni alfabetica o numerica ed effettuando l'estrazione di una lettera o del numero di protocollo della dichiarazione di coltivazione. L'amministrazione puo' seguire qualsiasi altro metodo, previamente determinato, che assicuri comunque la casualita' della scelta.
 
 Per la formazione del campione, che dovra' costituire oggetto di apposito verbale, si ritiene necessaria la presenza di un rappresentante dei produttori di grano saraceno, scagliola e miglio designato dalle organizzazioni professionali agricole.
@@ -78,6 +337,55 @@ Per la formazione del campione, che dovra' costituire oggetto di apposito verbal
 La percentuale globale delle aziende da assoggettare al controllo, in ciascuna unita' amministrativa, non puo' essere inferiore al 5% delle domande presentate.
 
 Il limite di cui al precedente paragrafo deve essere portato al 10%, qualora in una unita' amministrativa, viene accertata una superficie effettivamente coltivata inferiore al 96% della superficie dichiarata nelle domande controllate.
+
+7.
+                        
+                            
+                                Il controllo delle superfici oggetto del sopralluogo aziendale, da ultimare nel piu' breve tempo possibile e, comunque, non oltre il periodo abituale della raccolta, deve essere effettuato:
+ 
+                            
+                            
+                                a)
+                                
+                                    preliminarmente, mediante identificazione sulla base dell'estratto della mappa catastale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    successivamente, mediante metodo agrimensorio unitamente o disgiuntamente ad altri metodi che utilizzino le tecniche aereofotogrammetriche o di telerilevamento nonche' quelli che eventualmente, in relazione alla evoluzione tecnologica, saranno previsti dalla specifica regolamentazione comunitaria.
+
+8.
+                        
+                            
+                                La misurazione prevista nel precedente comma 7 deve essere eseguita secondo il metodo seguente:
+ superfici costituenti un solo appezzamento:
+ misurazione dello stesso;
+ superfici costituite da appezzamenti non accorpati:
+ 
+                            
+                            
+                                a)
+                                
+                                    da due a cinque appezzamenti non accorpati:
+ misurazione dell'appezzamento piu' esteso e di quello di estensione media;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da sei a dieci appezzamenti non accorpati:
+ misurazione dei due appezzamenti piu' estesi e di uno di media estensione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oltre dieci appezzamenti non accorpati:
+ misurazione delle due superfici piu' estese e di tre appezzamenti di estensione media.
 
 Lo scarto di superficie che risulti dalla misurazione, effettuata con i criteri di cui sopra, rispetto alla superficie dichiarata per gli stessi appezzamenti, viene estrapolato sull'intera superficie dichiarata.
  10) Nell'ipotesi prevista dal precedente comma 9, il produttore puo' richiedere all'organo di controllo l'immediata misurazione della superficie totale.

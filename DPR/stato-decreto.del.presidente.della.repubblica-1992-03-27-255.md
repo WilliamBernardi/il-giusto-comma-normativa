@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2010-03-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -66,6 +66,32 @@ Nel caso in cui il soggetto subentrante chieda la rimozione dell'impianto il pre
 
 ## Art. 4. — Pubblicita' dello Stato e degli enti pubblici
 
+1.
+                        
+                            
+                                Entro sessanta giorni dall'approvazione del bilancio le amministrazioni e gli enti che, ai sensi dell'articolo 9 della legge, sono tenuti a riservare alla pubblicita' su emittenti radiofoniche e televisive in ambito locale una percentuale delle somme stanziate in bilancio per spese pubblicitarie da effettuare sui mezzi di comunicazione di massa, determinano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la percentuale, non inferiore al 25 per cento, che intendono riservare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il tipo di emittenza che viene prescelto per la diffusione della pubblicita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i bacini di utenza nel cui ambito verra' diffusa la pubblicita'. 
+ Copia delle determinazioni deve essere inviata al Garante nei trenta giorni successivi all'adozione delle determinazioni stesse.
+
 La ripartizione delle somme di cui al comma 1 tra le singole emittenti deve avvenire senza discriminazioni, con l'osservanza delle disposizioni di cui dall'articolo 8 della legge e deve tener conto delle emittenti che raggiungono i soggetti specificatamente interessati al messaggio pubblicitario nonche' dei corrispettivi richiesti dalle emittenti interessate e degli indici di ascolto di ognuna; tale ripartizione e' effettuata con provvedimento motivato.
 
 Le amministrazioni e gli enti indicati al comma 1 sono tenuti a comunicare al Garante, entro il 31 marzo di ogni anno, le procedure seguite per l'affidamento della pubblicita', nonche' i dati relativi alla pubblicita' effettuata ai sensi del presente articolo con l'indicazione analitica delle emittenti alle quali e' stata commissionata la trasmissione di messaggi pubblicitari e della somma da ciascuno percepita; i dati comunicati sono riferiti all'anno precedente.
@@ -106,6 +132,24 @@ Presso il registro devono essere depositati tutti gli atti, le comunicazioni e i
 
 ## Art. 11. — Organizzazione del registro
 
+1.
+                        
+                            
+                                Il registro nazionale delle imprese radiotelevisive consta di:
+ 
+                            
+                            
+                                a)
+                                
+                                    un registro cronologico nel quale devono essere annotati progressivamente mittente, oggetto, data di spedizione di ciascun atto, comunicazione o documento pervenuto, nonche' i relativi provvedimenti adottati dall'ufficio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro repertorio nel quale: 1) sono iscritti i concessionari e gli altri soggetti di cui all'articolo 12 commi 2 e 5 della legge; 2) e' indicato l'assetto proprietario, costantemente aggiornato, di ogni singolo soggetto; 3) sono annotati gli estremi degli atti, delle comunicazioni e dei documenti relativi agli adempimenti di cui agli articoli 12, 13, 14, 15, comma 6, e 17, comma 5, della legge.
+
 Tutti gli atti, le comunicazioni e i documenti, di cui al comma 1, devono essere in regola con le disposizioni sul bollo e devono re- care la firma, debitamente autenticata, del legale rappresentante dell'impresa concessionaria o autorizzata. Essi sono conservati separatamente in fascicoli a numerazione progressiva, intestati ai concessionari e agli altri soggetti ivi indicati.
 
 Per la scrittura e la tenuta del registro l'ufficio del Garante puo' avvalersi di strumenti meccanici, informatici e telematici.
@@ -117,6 +161,48 @@ Il Ministero delle poste e delle telecomunicazioni trasmette all'ufficio del Gar
 Entro sessanta giorni dalla data di entrata in vigore del presente regolamento la concessionaria pubblica deve presentare al Garante domanda di iscrizione nel registro secondo le modalita' di cui ai commi successivi.
 
 Il titolare di concessione privata o di autorizzazione rilasciata ai sensi degli articoli 38 e 43 della legge 14 aprile 1975, n. 103, deve presentare al Garante, entro sessanta giorni dalla comunicazione del rilascio della concessione o della autorizzazione, domanda di iscrizione nel registro contenente le generalita' complete o la ragione sociale o la denominazione sociale, il domicilio della persona fisica o la sede della persona giuridica che ha la titolarita' della concessione o dell'autorizzazione nonche' il nome ed il domicilio del responsabile dei programmi. Il legale rappresentante delle societa' di cui all'articolo 12 della legge deve richiedere, altresi', l'iscrizione dei soci indicati al comma 5 del medesimo articolo 12.
+
+4.
+                        
+                            
+                                La domanda di iscrizione, redatta secondo l'apposito modello approvato dal Garante, deve essere in regola con le disposizioni sul bollo e recare in calce la firma del richiedente debitamente autenticata. Alla domanda devono essere allegati i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui il concessionario o il soggetto autorizzato sia persona giuridica, copia dell'atto costitutivo, dello statuto e della deliberazione concernente la nomina degli organi esecutivi e di controllo, con l'indicazione dei soggetti titolari del potere di rappresentanza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui l'impresa concessionaria o autorizzata sia costituita in forma societaria, oltre alla documentazione prevista alla precedente lettera a), l'elenco, redatto secondo il modello approvato dal Garante dei soci della societa' concessionaria o autorizzata, con l'indicazione del numero delle azioni o dell'entita' delle quote da essi possedute, nonche' degli altri eventuali aventi diritto di intervenire all'assemblea che approva il bilancio della societa' con la specificazione del titolo e delle ragioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso in cui la societa' concessionaria o autorizzata sia costituita in forma di societa' per azioni o in accomandita per azioni o a responsabilita' limitata, oltre all'elenco di cui alla precedente lettera b):
+ 1) l'elenco, redatto secondo il modello approvato dal Garante, dei soci delle societa' alle quali sono intestate azioni o quote della societa' concessionaria o autorizzata, con l'indicazione del numero delle azioni o dell'entita' delle quote da essi possedute, nonche' degli eventuali aventi diritto di intervenire all'assemblea che approva il bilancio della societa' con la specificazione del titolo e delle ragioni, nonche' copia dei documenti contenenti eventuali patti parasociali;
+ 2) l'elenco, redatto secondo il modello approvato dal Garante, dei soci delle societa' collegate o delle societa' che comunque controllano direttamente o indirettamente, ai sensi dell'articolo 37 della legge, la societa' concessionaria o autorizzata, con l'indicazione del numero delle azioni o dell'entita' delle quote da essi possedute, nonche' degli eventuali aventi diritto di intervenire all'assemblea che approva il bilancio della societa' con la specificazione del titolo e delle ragioni, nonche' copia dei documenti contenenti eventuali patti parasociali;
+ 3) l'elenco redatto secondo il modello approvato dal Garante, delle azioni o quote di societa' controllanti e delle azioni o quote proprie possedute, anche tramite societa' fiduciarie o interposte persone, dalla societa' concessionaria o autorizzata;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    copia delle intese e dei contratti di consorzio stipulati ai sensi dell'articolo 21 della legge, con emittenti operanti in altri ambiti locali per la trasmissione in contemporanea dei medesimi programmi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai fini degli adempimenti previsti dalla legge 31 maggio 1965, n. 575, e successive modificazioni, i certificati di residenza e di stato di famiglia di data non anteriore a tre mesi, del titolare, se trattasi di impresa individuale, dell'amministratore e del legale rappresentante se trattasi di societa' di capitali o di societa' co- operative, di tutti i soci se trattasi di societa' in nome collettivo, dei soci accomandatari se trattasi di societa' in accomandita semplice, di coloro che rappresentano stabilmente la societa' nel territorio dello Stato per le societa' di cui all'articolo 2506 del codice civile. Per tutte le societa' andra' altresi' prodotto il certificato di iscrizione alla camera di commercio.
 
 In alternativa alla documentazione di cui alla lettera e) del comma 4, puo' essere presentata la certificazione rilasciata dalla prefettura su richiesta dell'interessato ai sensi dell'articolo 10-sexies, comma 6, della legge 31 maggio 1965, n. 575, introdotto dall'articolo 7 della legge 19 marzo 1990, n. 55, e successive modificazioni.
 
@@ -159,6 +245,32 @@ Trascorsi trenta giorni dalla notificazione della diffida senza che i soggetti a
 
 ## Art. 17. — Variazioni degli atti e comunicazioni richiesti ai fini dell'iscrizione
 
+1.
+                        
+                            
+                                I soggetti iscritti nel registro nazionale delle imprese radiotelevisive devono comunicare al Garante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro trenta giorni dal loro verificarsi, le variazioni dell'atto costitutivo, dello statuto e della composizione degli organi sociali, nonche' qualsiasi variazione concernente le intese ed i consorzi di cui all'articolo 21 della legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 23 OTTOBRE 1996, N. 545, CONVERTITO CON MODIFICAZIONI DALLA L. 23 DICEMBRE 1996, N. 650)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli elenchi dei soci - previsti dall'articolo 12, comma 4, lettera c) e riferiti alla data dell'assemblea che approva il bilancio - delle societa' che comunque, direttamente o indirettamente, controllano la societa' iscritta. A tal fine il legale rappresentante della societa' iscritta nel registro delle imprese radiotelevisive, entro trenta giorni dalla data dell'assemblea che approva il bilancio della societa', deve richiedere l'elenco dei soci alle societa' intestatarie di azioni o quote della societa' o alle societa' che direttamente o indirettamente la controllano le quali devono provvedere entro trenta giorni dalla richiesta; detti elenchi devono essere comunicati al Garante nei successivi trenta giorni.
+
 In caso di inosservanza delle disposizioni di cui al comma 1 il Garante provvede ai sensi dell'articolo 16, commi 2 e 3.
 
 ## Art. 18. — Certificazioni
@@ -179,11 +291,127 @@ Il progetto puo' comprendere una o piu' stazioni di radiodiffusione. La costituz
 
 Per ciascuna stazione, i progetti radioelettrico e tecnologico dell'impianto o della rete debbono contenere i dati di cui ai seguenti commi.
 
+3.
+                        
+                            
+                                Il progetto radioelettrico deve contenere i seguenti dati:
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione dell'impianto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    caratteristiche della localita' di installazione:
+ - denominazione della localita';
+ - tipologia della ubicazione dell'impianto (localita' pianeggiante, centro urbano, localita' elevata rispetto alla zona circostante, fianco di una montagna);
+ - quota sul livello del mare (in metri);
+ - coordinate geografiche (latitudine e longitudine espresse in gradi, primi e secondi);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    caratteristiche strutturali dell'impianto:
+ - descrizione delle apparecchiature radioelettriche, con gli estremi di omologazione;
+ - descrizione dell'antenna trasmittente;
+ - descrizione della linea di trasmissione a R.F., collegante l'apparecchiatura radioelettrica all'antenna e di eventuali adattatori e multiplexer;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    caratteristiche di trasmissione della diffusione televisiva:
+ - canale e polarizzazione proposte per il segnale irradiato;
+ - altezza dell'antenna dal suolo;
+ - direzione di massima irradiazione (azimut);
+ - potenza nominale del trasmettitore (in kW);
+ - potenza equivalente irradiata (e.r.p.) nella direzione di massima irradiazione (in kW);
+ - e.r.p. nel piano orizzontale ogni 10 (in dBK);
+ - angolo di abbassamento del lobo principale o dei lobi principali del diagramma di irradiazione (in gradi);
+ - ampiezza a meta' potenza del lobo principale o dei lobi principali del diagramma di irradiazione nel piano verticale (in gradi);
+ - tipo di offset, se previsto (normale o di precisione);
+ - sistema di codificazione, se previsto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    caratteristiche di trasmissione della diffusione sonora in MF:
+ - sistema di diffusione monofonico o stereofonico, eventuali prestazioni ausiliarie intese a facilitare la fruizione dei programmi trasmessi;
+ - frequenza in MHz e polarizzazione proposte per il segnale irradiato;
+ - altezza dell'antenna dal suolo;
+ - direzione di massima irradiazione (azimut);
+ - potenza nominale del trasmettitore (in kW);
+ - potenza equivalente irradiata (e.r.p.) totale nella direzione di massima irradiazione (in dBW);
+ - e.r.p. nella direzione di massima irradiazione delle componenti a polarizzazione orizzontale e verticale (in dBW);
+ - e.r.p. delle componenti a polarizzazione orizzontale e verticale (in dBW) ogni 10 nel piano orizzontale;
+ - angolo di abbassamento del lobo principale o dei lobi principali del diagramma di irradiazione (in gradi);
+ - ampiezza a meta' potenza del lobo principale o dei lobi principali del diagramma di irradiazione nel piano verticale (in gradi);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    area di servizio con l'elenco delle localita' che si intendono servire (numero di abitanti e comune di appartenenza).
+
+4.
+                        
+                            
+                                Il progetto tecnologico deve contenere:
+ 
+                            
+                            
+                                a)
+                                
+                                    descrizione di massima del locale o contenitore ove saranno allocate le apparecchiature radioelettriche, dell'impianto elettrico di alimentazione e della struttura portante d'antenna;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione di rispondenza dell'impianto alle norme del Comitato elettrotecnico italiano e alle vigenti norme antinfortunistiche e di igiene del lavoro.
+
 I due progetti debbono essere corredati da disegni tecnici relativi allo schema strutturale dell'impianto nonche' dalla carta topografica con indicate le localita' di installazione e le localita' da servire (carte I.G.M. in scala 1/100.000).
 
 ## Art. 21. — Omologazione e collaudo degli impianti
 
 Gli impianti oggetto della concessione di cui al presente regolamento devono essere costituiti esclusivamente da apparecchiature di tipo omologato ai sensi dell'articolo 319 del testo unico approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156.
+
+2.
+                        
+                            
+                                Per gli impianti gia' in esercizio di cui all'articolo 32, comma 3, della legge, e' sufficiente una dichiarazione con firma autenticata dell'esercente dell'impianto da cui risulti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la rispondenza alle prescrizioni del Regolamento delle radiocomunicazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'idoneita' all'impiego;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'assenza di disturbi ai servizi di radiocomunicazioni.
 
 L'Amministrazione delle poste e delle telecomunicazioni puo' procedere, a spese del concessionario, al collaudo o alla verifica degli impianti.
 
@@ -197,6 +425,189 @@ Allo scopo di accertare l'osservanza degli obblighi del concessionario l'Amminis
 Entro il 31 dicembre di ogni anno il Ministro delle poste e delle telecomunicazioni emana il bando contenente l'indicazione del numero delle concessioni che possono essere rilasciate per ciascun bacino di utenza o per parti limitate di detto bacino alle emittenti a carattere commerciale.
 
 La domanda per ottenere la concessione per la radiodiffusione sonora o televisiva a carattere locale, in regola con le disposizioni sul bollo, deve essere presentata al Ministero delle poste e delle telecomunicazioni entro trenta giorni dalla pubblicazione del bando nella Gazzetta Ufficiale.
+
+3.
+                        
+                            
+                                La domanda deve specificare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il tipo di concessione, radiofonica o televisiva, che si intende ottenere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di concessione televisiva, l'eventuale uso di un sistema di codificazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il bacino d'utenza o la parte limitata di detto bacino che si intende servire;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le caratteristiche dell'impianto risultanti dal progetto radioelettrico e tecnologico da allegare alla domanda insieme alla dichiarazione di rispondenza dell'impianto alle norme del Comitato elettrotecnico italiano e alle vigenti norme antinfortunistiche;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i dati relativi al soggetto richiedente e al responsabile dei programmi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il piano di massima economico-finanziario adeguatamente documentato, esteso all'arco temporale di durata della concessione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la quota percentuale degli spettacoli e servizi informativi che l'emittente prevede di produrre in proprio;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    lo spazio che si intende destinare ai vari tipi di programmazione (informazione, sport, cultura, svago, ecc.);
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i bacini d'utenza per i quali sia stata eventualmente presentata altra richiesta di concessione, specificando l'ordine di preferenza;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    gli elementi atti a dimostrare il rispetto delle disposizioni di cui agli articoli 13, 15, 17, 19 e 37 della legge;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'impegno del richiedente a destinare almeno il 20 per cento della programmazione settimanale all'informazione locale ed a programmi comunque legati alle realta' locali, non di carattere commerciale;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'eventuale richiesta di collegamenti di telecomunicazione ai sensi dell'articolo 5 della legge;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'inesistenza di impedimenti previsti dalla legge al rilascio delle concessioni;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    le eventuali esperienze maturate, in precedenza, nel settore dell'editoria e dello spettacolo;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    le modalita' attraverso le quali si intende adempiere all'obbligo di cui all'articolo 11, comma 1, della legge.
+
+4.
+                        
+                            
+                                I richiedenti che abbiano gia' effettuato trasmissioni radiotelevisive devono altresi' specificare, con apposita documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli elementi dimostrativi della presenza sul mercato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero medio delle ore di trasmissione effettuate giornalmente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la tipologia dei programmi trasmessi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la quota percentuale di spettacoli e servizi informativi autoprodotti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il numero di lavoratori occupati suddivisi per mansioni e qualifiche;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli indici di ascolto rilevati;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli investimenti effettuati nel settore radiotelevisivo;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le azioni positive volte ad eliminare condizioni di disparita' fra i due sessi in sede di assunzioni, organizzazione e distribuzione del lavoro, assegnazione di posti, di responsabilita', eventualmente effettuate;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la dichiarazione di non essere incorsi nella sanzione della revoca della concessione;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'indicazione delle sanzioni amministrative eventualmente subite.
 
 Le domande devono essere corredate di tutta la documentazione riguardante i requisiti richiesti per il rilascio della concessione nonche' dell'ultimo bilancio presentato ai sensi dell'articolo 14 della legge. La firma in calce deve essere autenticata secondo le forme previste dalla legge 4 gennaio 1968, n. 15.
 
@@ -216,6 +627,38 @@ Nel caso in cui un soggetto sia stato utilmente collocato nella graduatoria in u
 ## Art. 25. — Concessione per la radiodiffusione commerciale
  in ambito nazionale
 
+1.
+                        
+                            
+                                La domanda per ottenere la concessione per la radiodiffusione sonora a carattere commerciale in ambito nazionale nonche' per la radiodiffusione televisiva in ambito nazionale, redatta secondo le forme e le modalita' prescritte dall'articolo 23, deve essere presentata al Ministero delle poste e delle telecomunicazioni e deve indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    i bacini di utenza che si intendono servire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impegno, per la radiodiffusione televisiva, a trasmettere film cinematografici nelle percentuali minime previste dall'articolo 26, commi 1 e 3, della legge;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impegno a trasmettere, quotidianamente, telegiornali o giornali radio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli elementi di cui all'articolo 23, comma 3, lettere a), d), e), f), g), h), l), n) ed o) e comma 4.
+
 Ai fini del rilascio della concessione si segue il procedimento previsto dagli articoli 23 e 24.
 
 ## Art. 26. — Concessione per la radiodiffusione sonora
@@ -234,6 +677,24 @@ Tutti i divieti e gli obblighi previsti dalla legge, ivi compresi quelli relativ
 
 ## Art. 28. — Cauzione
 
+1.
+                        
+                            
+                                Ai fini di cui all'articolo 16, comma 8, della legge il richiedente deve prestare reale e valida cauzione, ai sensi dell'articolo 54 del regolamento per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con regio decreto 23 maggio 1924, n. 827, e successive modificazioni. La predetta cauzione puo' altresi' essere costituita mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    fidejussione bancaria rilasciata da aziende di credito di cui all'articolo 5 del regio decreto-legge 12 marzo 1936, n. 375, e suc- cessive modifiche ed integrazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    polizza assicurativa rilasciata da impresa di assicurazioni debitamente autorizzata all'esercizio del ramo cauzioni, ai sensi del testo unico delle leggi sull'esercizio delle assicurazioni private approvato con decreto del Presidente della Repubblica 13 febbraio 1959, n. 449, e successive modificazioni.
+
 La domanda di concessione deve essere corredata dalla documentazione attestante l'avvenuta prestazione della cauzione. Ove il deposito sia stato costituito in danaro o titoli dello Stato o garantiti dallo Stato, deve essere effettuato presso la Tesoreria centrale o la Sezione di tesoreria provinciale indicata nel bando di concorso.
 
 Agli aspiranti non utilmente collocati nella graduatoria la cauzione deve essere restituita entro trenta giorni dall'approvazione della graduatoria stessa. Il deposito effettuato dal concorrente cui viene assentita la concessione deve intendersi convertito in cauzione definitiva.
@@ -242,6 +703,27 @@ Agli aspiranti non utilmente collocati nella graduatoria la cauzione deve essere
 
 ## Art. 29. — Deroghe all'obbligo della trasmissione
  del medesimo programma su tutto il territorio servito
+
+1.
+                        
+                            
+                                L'obbligo di trasmettere il medesimo programma su tutto il territorio per il quale e' rilasciata la concessione puo' essere derogato:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le emittenti locali:
+ 1) in relazione alla rilevanza locale del contenuto del programma;
+ 2) nel caso in cui i programmi siano diretti alle diverse comunita' linguistico-culturali presenti nel territorio servito;
+ 3) nel caso di eventi occasionali o eccezionali e non prevedibili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le emittenti nazionali esclusivamente per eventi occasionali o eccezionali e non prevedibili.
 
 Nei casi di cui al comma 1, lettera a), numeri 1 e 2, la deroga deve essere prevista da apposita autorizzazione rilasciata dal Ministero delle poste e delle telecomunicazioni caso per caso ovvero, se a carattere permanente, per non piu' di un quinto del tempo di trasmissione giornaliera.
 
@@ -277,6 +759,38 @@ La tassa di rilascio o di rinnovo della concessione e quella annuale di cui all'
 
 ## Art. 35. — Comitati regionali per i servizi radiotelevisivi
 
+1.
+                        
+                            
+                                Il Ministro delle poste e delle telecomunicazioni e il Garante possono avvalersi dei comitati regionali per i servizi radiotelevisivi e di quelli delle province autonome di Trento e Bolzano in relazione allo svolgimento delle proprie funzioni che involgono questioni connesse alle realta' culturali e informative delle singole regioni o province autonome. In particolare ai comitati regionali possono essere richieste:
+ 
+                            
+                            
+                                a)
+                                
+                                    verifiche sulla corretta applicazione della legge da parte delle emittenti locali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    proposte per una migliore valorizzazione dell'emittenza lo- cale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proposte per una piu' funzionale ripartizione del territorio regionale in bacini di utenza e sulle dimensioni delle imprese radiotelevisive;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    consulenze sulla programmazione delle singole emittenti ai fini della valorizzazione delle realta' culturali e informative locali.
+
 Il Garante puo' esercitare la facolta' di cui al comma precedente anche richiedendo pareri su questioni connesse alla tutela degli interessi collettivi degli utenti.
 
 Ove sia necessario effettuare un esame contestuale di interessi relativi a diverse regioni, puo' essere indetta una conferenza ai sensi dell'articolo 14 della legge 7 agosto 1990, n. 241.
@@ -295,10 +809,67 @@ L'autorizzazione costituisce titolo per utilizzare i collegamenti di telecomunic
 ## Art. 37. — Consorzi per la trasmissione di programmi
  in contemporanea
 
+1.
+                        
+                            
+                                I consorzi di cui all'articolo 35 sono costituiti ai sensi degli articoli 2602 e seguenti del codice civile e possono ottenere l'autorizzazione prevista dall'articolo 21 della legge a condizione che:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'oggetto del contratto sia esclusivamente riferito alla trasmissione di programmi in contemporanea in bacini di utenza diversi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la durata del consorzio, non inferiore a quella della richiesta autorizzazione, sia contenuta nei limiti della scadenza delle concessioni assentite ai singoli consorziati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i soggetti consorziati siano titolari di concessione rilasciata ai sensi dell'articolo 16 della legge ed operino in diversi bacini di utenza.
+
 I consorzi costituiti ai sensi del comma 1 devono richiedere l'iscrizione nel Registro Nazionale delle imprese radiotelevisive, di cui all'articolo 12 della legge e con le modalita' prescritte dagli articoli 10 e seguenti del presente regolamento.
 
 ## Art. 38. — Domanda di autorizzazione per la trasmissione
  di programmi in contemporanea
+
+1.
+                        
+                            
+                                La domanda intesa ad ottenere l'autorizzazione di cui all'articolo 36, in regola con le disposizioni sul bollo, deve essere presentata al Ministero delle poste e delle telecomunicazioni e deve indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati relativi ai soggetti richiedenti, ivi compresi quelli relativi all'atto di concessione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i bacini di utenza che verranno serviti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'orario in cui si intende trasmettere in contemporanea;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' tecniche previste per realizzare i collegamenti fra i diversi bacini di utenza.
 
 Alla domanda devono essere allegati il documento comprovante l'intesa raggiunta dai concessionari interessati o l'atto costitutivo del consorzio.
 
@@ -315,6 +886,77 @@ I concessionari che hanno ottenuto l'autorizzazione per la trasmissione di progr
 Per le trasmissioni informative per eventi eccezionali e non prevedibili, di cui all'articolo 21, comma 2, della legge, valgono le disposizioni dettate dall'articolo 29 comma 3.
 
 ## Art. 40. — Disposizioni transitorie
+
+1.
+                        
+                            
+                                In sede di prima applicazione della legge il Ministro delle poste e delle telecomunicazioni rilascia le concessioni sulla base del piano di assegnazione delle radiofrequenze redatto ai sensi dell'articolo 34 della legge ed in deroga alla procedura prevista dagli articoli 23 e 24, tenendo conto dei seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    potenzialita' economica del soggetto richiedente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' della programmazione prevista;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    progetti radioelettrici e tecnologici.
+
+2.
+                        
+                            
+                                Per i richiedenti che abbiano gia' effettuato trasmissioni radiotelevisive il Ministro tiene, altresi', conto dei seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    presenza sul mercato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ore di trasmissione effettuate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualita' dei programmi trasmessi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quote percentuali di spettacoli e servizi informativi autoprodotti, con particolare riguardo per i soggetti ammessi ai benefici di cui all'articolo 11 della legge 25 febbraio 1987, n. 67;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    personale dipendente, con particolare riguardo a quello con contratto giornalistico;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    indici di ascolto rilevati.
 
 A parita' di condizioni costituisce titolo preferenziale l'esercizio di impianti ai sensi dell'articolo 32 della legge.
 

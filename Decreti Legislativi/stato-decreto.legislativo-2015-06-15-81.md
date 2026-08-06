@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,52 @@ Il contratto di lavoro subordinato a tempo indeterminato costituisce la forma co
 ## Art. 2. — Collaborazioni organizzate dal committente
 
 A far data dal 1° gennaio 2016, si applica la disciplina del rapporto di lavoro subordinato anche ai rapporti di collaborazione che si concretano in prestazioni di lavoro prevalentemente personali, continuative e le cui modalita' di esecuzione sono organizzate dal committente. Le disposizioni di cui al presente comma si applicano anche qualora le modalita' di esecuzione della prestazione siano organizzate mediante piattaforme anche digitali.
+
+2.
+                        
+                            
+                                La disposizione di cui al comma 1 non trova applicazione con riferimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle collaborazioni per le quali gli accordi collettivi nazionali stipulati da associazioni sindacali comparativamente piu' rappresentative sul piano nazionale prevedono discipline specifiche riguardanti il trattamento economico e normativo, in ragione delle particolari esigenze produttive ed organizzative del relativo settore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle collaborazioni prestate nell'esercizio di professioni intellettuali per le quali e' necessaria l'iscrizione in appositi albi professionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle attivita' prestate nell'esercizio della loro funzione dai componenti degli organi di amministrazione e controllo delle societa' e dai partecipanti a collegi e commissioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle collaborazioni rese a fini istituzionali in favore delle associazioni e societa' sportive dilettantistiche affiliate alle federazioni sportive nazionali, alle discipline sportive associate e agli enti di promozione sportiva riconosciuti dal C.O.N.I., come individuati e disciplinati dall'articolo 90 della legge 27 dicembre 2002, n. 289; (27) (30) (42) ((43))
+                                    
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    alle collaborazioni prestate nell'ambito della produzione e della realizzazione di spettacoli da parte delle fondazioni di cui al decreto legislativo 29 giugno 1996, n. 367. 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    alle collaborazioni degli operatori che prestano le attivita' di cui alla legge 21 marzo 2001, n. 74. (10) (11)
 
 Le parti possono richiedere alle commissioni di cui all'articolo 76 del decreto legislativo 10 settembre 2003, n. 276, la certificazione dell'assenza dei requisiti di cui al comma 1. Il lavoratore puo' farsi assistere da un rappresentante dell'associazione sindacale cui aderisce o conferisce mandato o da un avvocato o da un consulente del lavoro.
 
@@ -200,6 +246,31 @@ Le disposizioni della presente sezione non trovano applicazione ai rapporti di l
 
 ## Art. 14. — Divieti
 
+1.
+                        
+                            
+                                E' vietato il ricorso al lavoro intermittente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la sostituzione di lavoratori che esercitano il diritto di sciopero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso unita' produttive nelle quali si e' proceduto, entro i sei mesi precedenti, a licenziamenti collettivi a norma degli articoli 4 e 24 della legge 23 luglio 1991, n. 223, che hanno riguardato lavoratori adibiti alle stesse mansioni cui si riferisce il contratto di lavoro intermittente, ovvero presso unita' produttive nelle quali sono operanti una sospensione del lavoro o una riduzione dell'orario in regime di cassa integrazione guadagni, che interessano lavoratori adibiti alle mansioni cui si riferisce il contratto di lavoro intermittente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai datori di lavoro che non hanno effettuato la valutazione dei rischi in applicazione della normativa di tutela della salute e della sicurezza dei lavoratori.
+
 ## Art. 15. — Forma e comunicazioni
 
 ((1. Il contratto di lavoro intermittente e' stipulato in forma scritta ai fini della prova e, oltre alle informazioni di cui all'articolo 1, comma 1, del decreto legislativo 26 maggio 1997, n. 152, deve contenere i seguenti elementi: 
@@ -251,6 +322,32 @@ Ai fini dell'applicazione di qualsiasi disciplina di fonte legale o contrattuale
 
 ## Art. 19. — Apposizione del termine e durata massima
 
+1.
+                        
+                            
+                                Al contratto di lavoro subordinato puo' essere apposto un termine di durata non superiore a dodici mesi. Il contratto puo' avere una durata superiore, ma comunque non eccedente i ventiquattro mesi, solo in presenza di almeno una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi previsti dai contratti collettivi di cui all'articolo 51; (45) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in assenza delle previsioni di cui alla lettera a), nei contratti collettivi applicati in azienda, e comunque entro il 31 dicembre 2026, per esigenze di natura tecnica, organizzativa o produttiva individuate dalle parti; (45) 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    in sostituzione di altri lavoratori. (45) 
+ 1.1. COMMA ABROGATO DAL D.L. 4 MAGGIO 2023, N. 48.
+
 In caso di stipulazione di un contratto di durata superiore a dodici mesi in assenza delle condizioni di cui al comma 1, il contratto si trasforma in contratto a tempo indeterminato dalla data di superamento del termine di dodici mesi. (10) (11)
 
 Fatte salve le diverse disposizioni dei contratti collettivi, e con l'eccezione delle attivita' stagionali di cui all'articolo 21, comma 2, la durata dei rapporti di lavoro a tempo determinato intercorsi tra lo stesso datore di lavoro e lo stesso lavoratore, per effetto di una successione di contratti, conclusi per lo svolgimento di mansioni di pari livello e categoria legale e indipendentemente dai periodi di interruzione tra un contratto e l'altro, non puo' superare i ventiquattro mesi. Ai fini del computo di tale periodo si tiene altresi' conto dei periodi di missione ((di lavoratori assunti dal somministratore con contratto di lavoro a tempo determinato,)) aventi ad oggetto mansioni di pari livello e categoria legale, svolti tra i medesimi soggetti, nell'ambito di somministrazioni di lavoro a tempo determinato. Qualora il limite dei ventiquattro mesi sia superato, per effetto di un unico contratto o di una successione di contratti, il contratto si trasforma in contratto a tempo indeterminato dalla data di tale superamento. (10) (11)
@@ -291,6 +388,38 @@ Le disposizioni di cui al comma 1 non si applicano ai contratti stipulati dalle 
  Il D.L. 30 aprile 2026, n. 62, convertito con modificazioni dalla L. 25 giugno 2026, n. 112 ha disposto (con l'art. 16-quinquies, comma 2) che "Il limite temporale di cui al comma 2-bis dell'articolo 19 del decreto legislativo 15 giugno 2015, n. 81, introdotto dal comma 1 del presente articolo, decorre dalla data di entrata in vigore della legge di conversione del presente decreto. Eventuali precedenti periodi di missione di lavoratori gia' assunti dal somministratore con contratto di lavoro a tempo indeterminato non rilevano ai fini del suddetto computo".
 
 ## Art. 20. — Divieti
+
+1.
+                        
+                            
+                                L'apposizione di un termine alla durata di un contratto di lavoro subordinato non e' ammessa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la sostituzione di lavoratori che esercitano il diritto di sciopero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso unita' produttive nelle quali si e' proceduto, entro i sei mesi precedenti, a licenziamenti collettivi a norma degli articoli 4 e 24 della legge n. 223 del 1991, che hanno riguardato lavoratori adibiti alle stesse mansioni cui si riferisce il contratto di lavoro a tempo determinato, salvo che il contratto sia concluso per provvedere alla sostituzione di lavoratori assenti, per assumere lavoratori iscritti nelle liste di mobilita', o abbia una durata iniziale non superiore a tre mesi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presso unita' produttive nelle quali sono operanti una sospensione del lavoro o una riduzione dell'orario in regime di cassa integrazione guadagni, che interessano lavoratori adibiti alle mansioni cui si riferisce il contratto a tempo determinato;(18)((24))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    da parte di datori di lavoro che non hanno effettuato la valutazione dei rischi in applicazione della normativa di tutela della salute e della sicurezza dei lavoratori.
 
 In caso di violazione dei divieti di cui al comma 1, il contratto si trasforma in contratto a tempo indeterminato. 
  (5)
@@ -381,7 +510,71 @@ Qualora il rapporto di lavoro continui oltre il trentesimo giorno in caso di con
 
 Salvo diversa disposizione dei contratti collettivi non possono essere assunti lavoratori a tempo determinato in misura superiore al 20 per cento del numero dei lavoratori a tempo indeterminato in forza al 1° gennaio dell'anno di assunzione, con un arrotondamento del decimale all'unita' superiore qualora esso sia eguale o superiore a 0,5. Nel caso di inizio dell'attivita' nel corso dell'anno, il limite percentuale si computa sul numero dei lavoratori a tempo indeterminato in forza al momento dell'assunzione. Per i datori di lavoro che occupano fino a cinque dipendenti e' sempre possibile stipulare un contratto di lavoro a tempo determinato.
 
+2.
+                        
+                            
+                                Sono esenti dal limite di cui al comma 1, nonche' da eventuali limitazioni quantitative previste da contratti collettivi, i contratti a tempo determinato conclusi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella fase di avvio di nuove attivita', per i periodi definiti dai contratti collettivi, anche in misura non uniforme con riferimento ad aree geografiche e comparti merceologici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da imprese start-up innovative di cui all'articolo 25, commi 2 e 3, del decreto-legge n. 179 del 2012, convertito, con modificazioni, dalla legge n. 221 del 2012, per il periodo di quattro anni dalla costituzione della societa' ovvero per il piu' limitato periodo previsto dal comma 3 del suddetto articolo 25 per le societa' gia' costituite; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per lo svolgimento delle attivita' stagionali di cui all'articolo 21, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per specifici spettacoli ovvero specifici programmi radiofonici o televisivi o per la produzione di specifiche opere audiovisive; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per sostituzione di lavoratori assenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    con lavoratori di eta' superiore a 50 anni.
+
 Il limite percentuale di cui al comma 1 non si applica, inoltre, ai contratti di lavoro a tempo determinato stipulati ((per la realizzazione e il monitoraggio di iniziative di cooperazione allo sviluppo di cui alla legge 11 agosto 2014, n. 125, ovvero)) tra universita' private, incluse le filiazioni di universita' straniere, istituti pubblici di ricerca ovvero enti privati di ricerca e lavoratori chiamati a svolgere attivita' di insegnamento, di ricerca scientifica o tecnologica, di assistenza tecnica alla stessa o di coordinamento e direzione della stessa, tra istituti della cultura di appartenenza statale ovvero enti, pubblici e privati derivanti da trasformazione di precedenti enti pubblici, vigilati dal Ministero dei beni e delle attivita' culturali e del turismo, ad esclusione delle fondazioni di produzione musicale di cui al decreto legislativo 29 giugno 1996, n. 367, e lavoratori impiegati per soddisfare esigenze temporanee legate alla realizzazione di mostre, eventi e manifestazioni di interesse culturale. I contratti di lavoro a tempo determinato che hanno ad oggetto in via esclusiva lo svolgimento di attivita' di ricerca scientifica ((o di cooperazione allo sviluppo di cui alla legge 11 agosto 2014, n. 125, possono avere durata pari a quella del progetto)) al quale si riferiscono.
+
+4.
+                        
+                            
+                                In caso di violazione del limite percentuale di cui al comma 1, restando esclusa la trasformazione dei contratti interessati in contratti a tempo indeterminato, per ciascun lavoratore si applica una sanzione amministrativa di importo pari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al 20 per cento della retribuzione, per ciascun mese o frazione di mese superiore a quindici giorni di durata del rapporto di lavoro, se il numero dei lavoratori assunti in violazione del limite percentuale non e' superiore a uno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al 50 per cento della retribuzione, per ciascun mese o frazione di mese superiore a quindici giorni di durata del rapporto di lavoro, se il numero dei lavoratori assunti in violazione del limite percentuale e' superiore a uno.
 
 I contratti collettivi definiscono modalita' e contenuti delle informazioni da rendere alle rappresentanze sindacali aziendali o alla rappresentanza sindacale unitaria dei lavoratori in merito all'utilizzo del lavoro a tempo determinato. 
  (5)
@@ -464,6 +657,63 @@ Nei casi di trasformazione del contratto a tempo determinato in contratto a temp
 
 ## Art. 29. — Esclusioni e discipline specifiche
 
+1.
+                        
+                            
+                                Sono esclusi dal campo di applicazione del presente capo, in quanto gia' disciplinati da specifiche normative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ferme restando le disposizioni di cui agli articoli 25 e 27, i rapporti instaurati ai sensi dell'articolo 8, comma 2, della legge n. 223 del 1991; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rapporti di lavoro tra i datori di lavoro dell'agricoltura e gli operai a tempo determinato, cosi' come definiti dall'articolo 12, comma 2, del decreto legislativo 11 agosto 1993, n. 375; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i richiami in servizio del personale volontario del Corpo nazionale dei vigili del fuoco iscritto nell'elenco per le necessita' dei distaccamenti volontari di cui all'articolo 6 del decreto legislativo 8 marzo 2006, n. 139. (46) ((51))
+
+2.
+                        
+                            
+                                Sono, altresi', esclusi dal campo di applicazione del presente capo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i contratti di lavoro a tempo determinato con i dirigenti, che non possono avere una durata superiore a cinque anni, salvo il diritto del dirigente di recedere a norma dell'articolo 2118 del codice civile una volta trascorso un triennio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rapporti per l'esecuzione di speciali servizi di durata non superiore a tre giorni, nel settore del turismo e dei pubblici esercizi, nei casi individuati dai contratti collettivi, nonche' quelli instaurati per la fornitura di lavoro portuale temporaneo di cui all'articolo 17 della legge 28 gennaio 1994, n. 84, fermo l'obbligo di comunicare l'instaurazione del rapporto di lavoro entro il giorno antecedente; (10) (11) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i contratti a tempo determinato stipulati con il personale docente ed ATA per il conferimento delle supplenze e con il personale sanitario, anche dirigente, del Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i contratti a tempo determinato stipulati ai sensi della legge 30 dicembre 2010, n. 240.
+
 Al personale artistico e tecnico delle fondazioni di produzione musicale di cui al decreto legislativo 29 giugno 1996, n. 367, non si applicano le disposizioni di cui all'articolo 19, commi da 1 a 3, e 21.
 
 Fermo restando quanto previsto dall'articolo 23, in presenza di esigenze contingenti o temporanee determinate dalla eterogeneita' delle produzioni artistiche che rendono necessario l'impiego anche di ulteriore personale artistico e tecnico ovvero, nel rispetto di quanto previsto nel contratto collettivo di categoria, dalla sostituzione di lavoratori temporaneamente assenti, le fondazioni lirico sinfoniche di cui all'articolo 1 del decreto legislativo 29 giugno 1996, n. 367 e di cui alla legge 11 novembre 2003, n. 310, i teatri di tradizione di cui all'articolo 28 della legge 14 agosto 1967, n. 800, e i soggetti finanziati dal Fondo unico per lo spettacolo che applicano il contratto collettivo nazionale di lavoro delle fondazioni lirico sinfoniche possono stipulare, con atto scritto a pena di nullita', uno o piu' contratti di lavoro a tempo determinato per lo svolgimento di mansioni di pari livello e categoria legale, per una durata che non puo' superare complessivamente, a decorrere dal 1° luglio 2019, fatte salve le diverse disposizioni dei contratti collettivi, i trentasei mesi, anche non continuativi, anche all'esito di successive proroghe o rinnovi. Al fine di salvaguardare i relativi cicli lavorativi e produttivi, nelle more dell'approvazione delle nuove dotazioni organiche e dell'espletamento delle procedure concorsuali, le fondazioni lirico-sinfoniche possono prorogare fino al 30 giugno 2023 i contratti di lavoro stipulati a tempo determinato nell'anno 2019 con personale artistico e tecnico in presenza di esigenze contingenti o temporanee. PERIODO SOPPRESSO DAL D.L. 28 GIUGNO 2019, N. 59, CONVERTITO CON MODIFICAZIONI DALLA L. 8 AGOSTO 2019, N. 81. A pena di nullita', il contratto reca l'indicazione espressa della condizione che, ai sensi del presente comma, consente l'assunzione a tempo determinato, la proroga o il rinnovo. Detto incombente e' assolto anche attraverso il puntuale riferimento alla realizzazione di uno o piu' spettacoli, di una o piu' produzioni artistiche cui sia destinato l'impiego del lavoratore assunto con contratto di lavoro a tempo determinato. Fatta salva l'obbligatorieta' della forma scritta a pena di nullita', il presente comma non trova applicazione nei confronti dei lavoratori impiegati nelle attivita' stagionali individuate ai sensi dell'articolo 21, comma 2.
@@ -522,6 +772,38 @@ Fermo quanto disposto dall'articolo 36 del decreto legislativo n. 165 del 2001, 
 
 ## Art. 32. — Divieti
 
+1.
+                        
+                            
+                                Il contratto di somministrazione di lavoro e' vietato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la sostituzione di lavoratori che esercitano il diritto di sciopero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso unita' produttive nelle quali si e' proceduto, entro i sei mesi precedenti, a licenziamenti collettivi ai sensi degli articoli 4 e 24 della legge n. 223 del 1991, che hanno riguardato lavoratori adibiti alle stesse mansioni cui si riferisce il contratto di somministrazione di lavoro, salvo che il contratto sia concluso per provvedere alla sostituzione di lavoratori assenti o abbia una durata iniziale non superiore a tre mesi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presso unita' produttive nelle quali sono operanti una sospensione del lavoro o una riduzione dell'orario in regime di cassa integrazione guadagni, che interessano lavoratori adibiti alle stesse mansioni cui si riferisce il contratto di somministrazione di lavoro;(18)((24))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    da parte di datori di lavoro che non abbiano effettuato la valutazione dei rischi in applicazione della normativa di tutela della salute e della sicurezza dei lavoratori.
+
 ---------------
                             AGGIORNAMENTO (18)
                             
@@ -532,6 +814,52 @@ Fermo quanto disposto dall'articolo 36 del decreto legislativo n. 165 del 2001, 
  Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, nel modificare l'art. 19-bis, comma 1, del D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, ha conseguentemente disposto (con l'art. 12-bis, comma 1) che "Sono prorogati al 15 novembre 2020 i termini decadenziali di invio delle domande di accesso ai trattamenti collegati all'emergenza da COVID-19 di cui agli articoli da 19 a 22-quinquies del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, e quelli di trasmissione dei dati necessari per il pagamento o per il saldo degli stessi che, in applicazione della disciplina ordinaria, si collocano tra il 1° e il 30 settembre 2020".
 
 ## Art. 33. — Forma del contratto di somministrazione
+
+1.
+                        
+                            
+                                Il contratto di somministrazione di lavoro e' stipulato in forma scritta e contiene i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi dell'autorizzazione rilasciata al somministratore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero dei lavoratori da somministrare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione di eventuali rischi per la salute e la sicurezza del lavoratore e le misure di prevenzione adottate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data di inizio e la durata prevista della somministrazione di lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le mansioni alle quali saranno adibiti i lavoratori e l'inquadramento dei medesimi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il luogo, l'orario di lavoro e il trattamento economico e normativo dei lavoratori.
 
 Con il contratto di somministrazione di lavoro l'utilizzatore assume l'obbligo di comunicare al somministratore il trattamento economico e normativo applicabile ai lavoratori suoi dipendenti che svolgono le medesime mansioni dei lavoratori da somministrare e a rimborsare al somministratore gli oneri retributivi e previdenziali da questo effettivamente sostenuti in favore dei lavoratori.
 
@@ -640,6 +968,31 @@ La violazione delle disposizioni di cui all'articolo 35, comma 1, e per il solo 
 
 L'apprendistato e' un contratto di lavoro a tempo indeterminato finalizzato alla formazione e alla occupazione dei giovani.
 
+2.
+                        
+                            
+                                Il contratto di apprendistato si articola nelle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    apprendistato per la qualifica e il diploma professionale, il diploma di istruzione secondaria superiore e il certificato di specializzazione tecnica superiore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    apprendistato professionalizzante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    apprendistato di alta formazione e ricerca.
+
 L'apprendistato per la qualifica e il diploma professionale, il diploma di istruzione secondaria superiore e il certificato di specializzazione tecnica superiore e quello di alta formazione e ricerca integrano organicamente, in un sistema duale, formazione e lavoro, con riferimento ai titoli di istruzione e formazione e alle qualificazioni professionali contenuti nel Repertorio nazionale di cui all'articolo 8 del decreto legislativo 16 gennaio 2013, n. 13, nell'ambito del Quadro europeo delle qualificazioni.
 
 ## Art. 42. — Disciplina generale
@@ -652,6 +1005,112 @@ Durante l'apprendistato trovano applicazione le sanzioni previste dalla normativ
 Nel contratto di apprendistato per la qualifica e il diploma professionale, il diploma di istruzione secondaria superiore e il certificato di specializzazione tecnica superiore, costituisce giustificato motivo di licenziamento il mancato raggiungimento degli obiettivi formativi come attestato dall'istituzione formativa.
 
 Al termine del periodo di apprendistato le parti possono recedere dal contratto, ai sensi dell'articolo 2118 del codice civile, con preavviso decorrente dal medesimo termine. Durante il periodo di preavviso continua a trovare applicazione la disciplina del contratto di apprendistato. Se nessuna delle parti recede il rapporto prosegue come ordinario rapporto di lavoro subordinato a tempo indeterminato.
+
+5.
+                        
+                            
+                                Salvo quanto disposto dai commi da 1 a 4, la disciplina del contratto di apprendistato e' rimessa ad accordi interconfederali ovvero ai contratti collettivi nazionali di lavoro stipulati dalle associazioni sindacali comparativamente piu' rappresentative sul piano nazionale, nel rispetto dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    divieto di retribuzione a cottimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possibilita' di inquadrare il lavoratore fino a due livelli inferiori rispetto a quello spettante in applicazione del contratto collettivo nazionale di lavoro ai lavoratori addetti a mansioni che richiedono qualificazioni corrispondenti a quelle al cui conseguimento e' finalizzato il contratto, o, in alternativa, di stabilire la retribuzione dell'apprendista in misura percentuale e proporzionata all'anzianita' di servizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presenza di un tutore o referente aziendale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    possibilita' di finanziare i percorsi formativi aziendali degli apprendisti per il tramite dei fondi paritetici interprofessionali di cui all'articolo 118 della legge 23 dicembre 2000, n. 388, e all'articolo 12 del decreto legislativo n. 276 del 2003, anche attraverso accordi con le regioni e le province autonome di Trento e Bolzano; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    possibilita' del riconoscimento, sulla base dei risultati conseguiti nel percorso di formazione, esterna e interna alla impresa, della qualificazione professionale ai fini contrattuali e delle competenze acquisite ai fini del proseguimento degli studi nonche' nei percorsi di istruzione degli adulti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    registrazione della formazione effettuata e della qualificazione professionale ai fini contrattuali eventualmente acquisita nel libretto formativo del cittadino di cui all'articolo 2, comma 1, lettera i), del decreto legislativo n. 276 del 2003; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    possibilita' di prolungare il periodo di apprendistato in caso di malattia, infortunio o altra causa di sospensione involontaria del lavoro, di durata superiore a trenta giorni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    possibilita' di definire forme e modalita' per la conferma in servizio, senza nuovi o maggiori oneri per la finanza pubblica, al termine del percorso formativo, al fine di ulteriori assunzioni in apprendistato.
+
+6.
+                        
+                            
+                                Per gli apprendisti l'applicazione delle norme sulla previdenza e assistenza sociale obbligatoria si estende alle seguenti forme: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurazione contro gli infortuni sul lavoro e le malattie professionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurazione contro le malattie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurazione contro l'invalidita' e vecchiaia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    maternita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assegno familiare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assicurazione sociale per l'impiego, in relazione alla quale, in aggiunta a quanto previsto in relazione al regime contributivo per le assicurazioni di cui alle precedenti lettere, ai sensi della disciplina di cui all'articolo 1, comma 773, della legge 27 dicembre 2006, n. 296, con effetto sui periodi contributivi maturati a decorrere dal 1º gennaio 2013 e' dovuta dai datori di lavoro per gli apprendisti artigiani e non artigiani una contribuzione pari all'1,31 per cento della retribuzione imponibile ai fini previdenziali, con riferimento alla quale non operano le disposizioni di cui all'articolo 22, comma 1, della legge 12 novembre 2011, n. 183. ((1))
 
 Il numero complessivo di apprendisti che un datore di lavoro puo' assumere, direttamente o indirettamente per il tramite delle agenzie di somministrazione autorizzate, non puo' superare il rapporto di 3 a 2 rispetto alle maestranze specializzate e qualificate in servizio presso il medesimo datore di lavoro. Tale rapporto non puo' superare il 100 per cento per i datori di lavoro che occupano un numero di lavoratori inferiore a dieci unita'. E' in ogni caso esclusa la possibilita' di utilizzare apprendisti con contratto di somministrazione a tempo determinato. Il datore di lavoro che non abbia alle proprie dipendenze lavoratori qualificati o specializzati, o che comunque ne abbia in numero inferiore a tre, puo' assumere apprendisti in numero non superiore a tre. Le disposizioni di cui al presente comma non si applicano alle imprese artigiane per le quali trovano applicazione le disposizioni di cui all'articolo 4 della legge 8 agosto 1985, n. 443.
 
@@ -684,6 +1143,27 @@ Nell'apprendistato che si svolge nell'ambito del sistema di istruzione e formazi
 Per le ore di formazione svolte nella istituzione formativa il datore di lavoro e' esonerato da ogni obbligo retributivo. Per le ore di formazione a carico del datore di lavoro e' riconosciuta al lavoratore una retribuzione pari al 10 per cento di quella che gli sarebbe dovuta. Sono fatte salve le diverse previsioni dei contratti collettivi.
 
 Per le regioni e le province autonome di Trento e Bolzano che abbiano definito un sistema di alternanza scuola-lavoro, i contratti collettivi stipulati dalle associazioni sindacali comparativamente piu' rappresentative sul piano nazionale possono prevedere specifiche modalita' di utilizzo del contratto di apprendistato, anche a tempo determinato, per lo svolgimento di attivita' stagionali.
+
+9.
+                        
+                            
+                                
+                                    ((Successivamente al conseguimento della qualifica o del diploma professionale ai sensi del decreto legislativo n. 226 del 2005 nonche' del diploma di istruzione secondaria superiore o del certificato di specializzazione tecnica superiore e' possibile la trasformazione del contratto, previo aggiornamento del piano formativo individuale, in:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((apprendistato professionalizzante, allo scopo di conseguire la qualificazione professionale ai fini contrattuali. In tale caso, la durata massima complessiva dei due periodi di apprendistato non puo' eccedere quella individuata dalla contrattazione collettiva di cui all'articolo 42, comma 5;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((apprendistato di alta formazione e di ricerca e per la formazione professionale regionale, secondo la durata e le finalita' definite ai sensi e per gli effetti dell'articolo 45, nel rispetto dei requisiti dei titoli di studio richiesti per l'accesso ai percorsi)).
 
 ## Art. 44. — Apprendistato professionalizzante
 
@@ -722,6 +1202,22 @@ In assenza delle regolamentazioni regionali di cui al comma 4, l'attivazione dei
  e certificazione delle competenze
 
 Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca e del Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, ai sensi dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, sono definiti gli standard formativi dell'apprendistato, che costituiscono livelli essenziali delle prestazioni ai sensi dell'articolo 16 del decreto legislativo n. 226 del 2005.
+
+2.
+                        
+                            
+                                La registrazione nel libretto formativo del cittadino, ai sensi del decreto legislativo n. 13 del 2013, e' di competenza: 
+                            
+                            
+                                a)
+                                
+                                    del datore di lavoro, nel contratto di apprendistato professionalizzante, per quanto riguarda la formazione effettuata per il conseguimento della qualificazione professionale ai fini contrattuali;
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'istituzione formativa o ente di ricerca di appartenenza dello studente, nel contratto di apprendistato per la qualifica e il diploma professionale, il diploma di istruzione secondaria superiore e il certificato di specializzazione tecnica superiore e nel contratto di apprendistato di alta formazione e ricerca.
 
 Allo scopo di armonizzare le diverse qualifiche e qualificazioni professionali acquisite in apprendistato e consentire una correlazione tra standard formativi e standard professionali e' istituito presso il Ministero del lavoro e delle politiche sociali, senza nuovi o maggiori oneri a carico della finanza pubblica, il repertorio delle professioni predisposto sulla base dei sistemi di classificazione del personale previsti nei contratti collettivi di lavoro e in coerenza con quanto previsto nelle premesse dalla intesa tra Governo, regioni, province autonome e parti sociali del 17 febbraio 2010, da un apposito organismo tecnico di cui fanno parte il Ministero dell'istruzione, della universita' e della ricerca, le associazioni dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative sul piano nazionale e i rappresentanti della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano.
 
@@ -867,13 +1363,130 @@ Resta salvo quanto disposto dall'articolo 409 del codice di procedura civile.
 ## Art. 53. — Superamento dell'associazione 
  in partecipazione con apporto di lavoro
 
+1.
+                        
+                            
+                                All'articolo 2549 del codice civile sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il secondo comma e' sostituito dal seguente: «Nel caso in cui l'associato sia una persona fisica l'apporto di cui al primo comma non puo' consistere, nemmeno in parte, in una prestazione di lavoro.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma terzo e' abrogato.
+
 I contratti di associazione in partecipazione in atto alla data di entrata in vigore del presente decreto, nei quali l'apporto dell'associato persona fisica consiste, in tutto o in parte, in una prestazione di lavoro, sono fatti salvi fino alla loro cessazione.
 
 ## Art. 54. — Stabilizzazione dei collaboratori coordinati e continuativi anche a progetto e di persone titolari di partita IVA
 
+1.
+                        
+                            
+                                Al fine di promuovere la stabilizzazione dell'occupazione mediante il ricorso a contratti di lavoro subordinato a tempo indeterminato nonche' di garantire il corretto utilizzo dei contratti di lavoro autonomo, a decorrere dal 1° gennaio 2016, i datori di lavoro privati che procedano alla assunzione con contratto di lavoro subordinato a tempo indeterminato di soggetti gia' parti di contratti di collaborazione coordinata e continuativa anche a progetto e di soggetti titolari di partita IVA con cui abbiano intrattenuto rapporti di lavoro autonomo, godono degli effetti di cui al comma 2 a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i lavoratori interessati alle assunzioni sottoscrivano, con riferimento a tutte le possibili pretese riguardanti la qualificazione del pregresso rapporto di lavoro, atti di conciliazione in una delle sedi di cui all'articolo 2113, quarto comma, del codice civile, o avanti alle commissioni di certificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei dodici mesi successivi alle assunzioni di cui al comma 2, i datori di lavoro non recedano dal rapporto di lavoro, salvo che per giusta causa ovvero per giustificato motivo soggettivo.
+
 L'assunzione a tempo indeterminato alle condizioni di cui al comma 1, lettere a) e b), comporta l'estinzione degli illeciti amministrativi, contributivi e fiscali connessi all'erronea qualificazione del rapporto di lavoro, fatti salvi gli illeciti accertati a seguito di accessi ispettivi effettuati in data antecedente alla assunzione.
 
 ## Art. 55. — Abrogazioni e norme transitorie
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti disposizioni di legge: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto legislativo 25 febbraio 2000, n. 61; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto legislativo 6 settembre 2001, n. 368, salvo quanto previsto al comma 2 e fermo restando quanto disposto dall'articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 3-bis, del decreto-legge 11 giugno 2002, n. 108, convertito, con modificazioni, dalla legge 31 luglio 2002, n. 172; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 18, commi 3 e 3-bis, da 20 a 28, da 33 a 45, nonche' da 70 a 73 del decreto legislativo n. 276 del 2003. 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 3, comma 5, del decreto legislativo 9 aprile 2008, n. 81; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 32, commi 3, lettera a), dalle parole «ovvero alla nullita' del termine apposto al contratto di lavoro» fino alle parole «e' fissato in 180 giorni», 5 e 6 della legge 4 novembre 2010, n. 183; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto legislativo 14 settembre 2011, n. 167, salvo quanto disposto dall'articolo 47, comma 5; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 1, commi 13 e 30, della legge 28 giugno 2012, n. 92; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 28, commi da 2 a 6, del decreto-legge n. 179 del 2012, convertito, con modificazioni, dalla legge n. 221 del 2012; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 8-bis, comma 2, del decreto-legge 12 settembre 2013, n. 104, convertito, con modificazioni, dalla legge 8 novembre 2013, n. 128, e successive modificazioni, fatti salvi, fino alla loro conclusione, i programmi sperimentali per lo svolgimento di periodi di formazione in azienda gia' attivati; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le disposizioni vigenti alla data di entrata in vigore del presente decreto, non espressamente richiamate, che siano incompatibili con la disciplina da esso introdotta.
 
 L'articolo 2 del decreto legislativo n. 368 del 2001 e' abrogato dal 1° gennaio 2017.
 
@@ -886,6 +1499,31 @@ I contratti di apprendistato per la qualifica e per il diploma professionale, st
 Sino all'emanazione dei decreti richiamati dalle disposizioni del presente decreto legislativo, trovano applicazione le regolamentazioni vigenti.
 
 ## Art. 56. — Copertura finanziaria e clausola di salvaguardia
+
+1.
+                        
+                            
+                                Alle minori entrate contributive derivanti dall'attuazione degli articoli 2 e da 52 a 54 del presente decreto, connesse ad un maggior accesso ai benefici contributivi di cui all'articolo 1, comma 118, della legge 23 dicembre 2014, n. 190, valutate in 16 milioni di euro per l'anno 2015, 58 milioni di euro per l'anno 2016, 67 milioni di euro per l'anno 2017, 53 milioni di euro per l'anno 2018 e in 8 milioni di euro per l'anno 2019 si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 16 milioni di euro per l'anno 2015, 52 milioni di euro per l'anno 2016, 40 milioni di euro per l'anno 2017, 28 milioni di euro per l'anno 2018 mediante corrispondente riduzione del fondo di cui all'articolo 1, comma 107, della legge 23 dicembre 2014, n. 190; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 6 milioni per l'anno 2016, 20 milioni per l'anno 2017, 16 milioni di euro per l'anno 2018 e a 8 milioni di euro per l'anno 2019 mediante le maggiori entrate derivanti dall'attuazione delle medesime disposizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a 7 milioni di euro per l'anno 2017 e a 9 milioni di euro per l'anno 2018, mediante utilizzo del Fondo sociale per l'occupazione e la formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, in misura pari a 12 milioni di euro per l'anno 2017 e a 15 milioni di euro per l'anno 2018 al fine di garantire la necessaria compensazione sui saldi di finanza pubblica.
 
 Ai sensi dell'articolo 17, comma 12, della legge 31 dicembre 2009, n. 196, il Ministero dell'economia e delle finanze e il Ministero del lavoro e delle politiche sociali, anche avvalendosi del sistema permanente di monitoraggio e valutazione istituito ai sensi dell'articolo 1, comma 2, della legge n. 92 del 2012, assicurano, con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri a carico della finanza pubblica, il monitoraggio degli effetti finanziari derivanti dalle disposizioni del presente decreto. Nel caso in cui si verifichino, o siano in procinto di verificarsi, effetti finanziari negativi e in particolare scostamenti rispetto alla valutazione delle minori entrate di cui al comma 1, agli eventuali maggiori oneri si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 107, della legge 23 dicembre 2014, n. 190. E' conseguentemente accantonato e reso indisponibile sul medesimo Fondo nonche', ai fini degli effetti in termini di fabbisogno e indebitamento netto, sul fondo di cui all' articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189, un importo complessivo pari al 50 per cento degli oneri indicati al comma 1, alinea, fino all'esito dei monitoraggi annuali previsti nel primo periodo del presente comma. Le somme accantonate e non utilizzate all'esito del monitoraggio sono conservate nel conto dei residui per essere destinate al Fondo sociale per l'occupazione e la formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. In tali casi, il Ministro dell'economia e delle finanze riferisce alle Camere con apposita relazione ai sensi dell'articolo 17, comma 12, della legge 31 dicembre 2009, n. 196.
 

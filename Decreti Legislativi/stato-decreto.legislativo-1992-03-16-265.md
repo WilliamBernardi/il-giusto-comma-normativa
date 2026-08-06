@@ -8,8 +8,8 @@ codice_redazionale: 092G0299
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -69,6 +69,38 @@ Per l'espletamento delle funzioni di direttore del conservatorio di Bolzano e' r
 L'accertamento di cui al comma 3 e' svolto prima dell'adozione del provvedimento di nomina, di trasferimento o di incarico secondo procedure da definire con apposita ordinanza.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Il consiglio di amministrazione del conservatorio e' composto dal presidente e da:
+ 
+                        
+                        
+                            a)
+                            
+                                il direttore dell'istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                due insegnanti dell'istituto, uno dei quali di madre lingua italiana e l'altro di madre lingua tedesca, designati dal collegio dei docenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante della provincia di Bolzano, designato dalla giunta provinciale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Ministero della pubblica istruzione.
 
 Un docente di ruolo di lingua ladina in servizio presso il conservatorio, designato dal collegio dei docenti, fa parte, con voto consultivo, del consiglio di amministrazione.
 

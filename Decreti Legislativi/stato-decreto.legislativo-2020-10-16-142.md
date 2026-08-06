@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-11-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,38 @@ Il presente decreto detta disposizioni per lo svolgimento della valutazione di p
 Le disposizioni del presente decreto non si applicano alle ipotesi in cui i requisiti specifici riguardanti la regolamentazione di una determinata professione siano stabiliti in uno o piu' atti normativi interni recanti attuazione di corrispondenti atti dell'Unione europea.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, oltre alle definizioni contenute nell'articolo 4 del decreto legislativo 9 novembre 2007, n. 206, si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                «titolo professionale protetto»: una forma di regolamentazione di una professione secondo cui l'uso del titolo in un'attivita' professionale o un gruppo di attivita' professionali e' subordinato, direttamente o indirettamente, in forza di disposizioni legislative, regolamentari o amministrative, al possesso di una specifica qualifica professionale, e secondo cui l'uso improprio di tale titolo e' soggetto a sanzioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «attivita' riservate»: una forma di regolamentazione di una professione secondo cui l'accesso a un'attivita' professionale o a un gruppo di attivita' professionali e' riservato, direttamente o indirettamente, in forza di disposizioni legislative, regolamentari o amministrative, a coloro che esercitano una professione regolamentata, in possesso di una specifica qualifica professionale, anche nel caso in cui l'attivita' sia condivisa con altre professioni regolamentate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «soggetti regolatori»: tutte le autorita' legittimate ad emanare disposizioni legislative o regolamentari o amministrative generali che disciplinano l'accesso a professioni regolamentate o il loro esercizio, incluse le autorita' competenti di cui all'articolo 4, comma 1, lettera d), del decreto legislativo 9 novembre 2007, n. 206; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «direttiva»: direttiva (UE) 2018/958 del Parlamento europeo e del Consiglio, del 28 giugno 2018.
 
 ## Art. 3. — Valutazione ex ante di nuovi provvedimenti e monitoraggio
 
@@ -58,6 +90,211 @@ Le disposizioni di cui al comma 1 devono essere giustificate da motivi di intere
 L'accesso alle professioni regolamentate o il loro esercizio non puo' essere limitato da motivi di natura esclusivamente economica o amministrativa.
 
 Le disposizioni di cui al comma 1 devono essere idonee a garantire il conseguimento dello scopo perseguito e non possono introdurre limitazioni ulteriori rispetto a quanto strettamente necessario per il raggiungimento di tale scopo.
+
+5.
+                    
+                        
+                            Ai fini di cui al comma 4, prima dell'adozione delle disposizioni di cui al comma 1, i soggetti regolatori valutano i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                la natura dei rischi connessi agli obiettivi di interesse pubblico perseguiti, in particolare i rischi per i destinatari di servizi, compresi i consumatori, i professionisti o terzi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se le vigenti norme di natura specifica o generale, quali quelle contenute nella normativa sulla sicurezza dei prodotti o nel diritto inteso alla protezione dei consumatori, siano insufficienti ai fini del conseguimento dello scopo perseguito; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'idoneita' della disposizione per quanto attiene alla sua adeguatezza a conseguire lo scopo perseguito e se essa rispecchia realmente tale scopo in modo coerente e sistematico e affronta pertanto i rischi individuati in modo analogo a quanto avviene per attivita' comparabili; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'impatto sulla libera circolazione delle persone e dei servizi all'interno dell'Unione europea, sulle opportunita' di scelta dei consumatori e sulla qualita' del servizio prestato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la possibilita' di ricorrere a mezzi meno restrittivi per conseguire l'obiettivo di interesse pubblico; ai fini della presente lettera, allorche' le disposizioni sono giustificate soltanto dalla tutela dei consumatori e i rischi individuati sono limitati alla relazione tra il professionista e il consumatore senza incidere pertanto negativamente su terzi, i soggetti regolatori valutano in particolare se l'obiettivo possa essere conseguito mediante mezzi meno restrittivi rispetto all'opzione di riserva delle attivita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'effetto di disposizioni nuove o modificate quando sono combinate con altre disposizioni che limitano l'accesso alla professione o il suo esercizio e, in particolare, il modo in cui le disposizioni nuove o modificate, combinate con altri requisiti, contribuiscono al conseguimento, e se siano necessarie al conseguimento, dello stesso obiettivo di interesse pubblico.
+
+6.
+                    
+                        
+                            I soggetti regolatori considerano inoltre, ove pertinenti alla natura e al contenuto della nuova disposizione o della disposizione oggetto di modifica, i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                il collegamento tra l'ambito delle attivita' esercitate nell'ambito di una professione o a essa riservate e la qualifica professionale richiesta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il collegamento tra la complessita' delle mansioni interessate e la necessita' per coloro che le esercitano di possedere determinate qualifiche professionali, in particolare per quanto riguarda il livello, la natura e la durata della formazione o dell'esperienza richieste; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la possibilita' di ottenere la qualifica professionale attraverso percorsi alternativi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                se le attivita' riservate a determinate professioni possono o meno essere condivise con altre professioni e le ragioni giustificative; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il grado di autonomia nell'esercizio di una professione regolamentata e l'incidenza di disposizioni organizzative e di supervisione sul conseguimento dello scopo perseguito, in particolare nel caso in cui le attivita' relative a una professione regolamentata siano esercitate sotto il controllo e la responsabilita' di un professionista debitamente qualificato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli sviluppi scientifici e tecnologici che possono ridurre o aumentare l'asimmetria informativa tra i professionisti e i consumatori;
+
+7.
+                    
+                        
+                            Ai fini di cui al comma 5, lettera f), i soggetti regolatori valutano gli effetti, sia positivi che negativi, della nuova disposizione o della disposizione oggetto di modifica in combinazione con uno o piu' requisiti e, in particolare, i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                attivita' riservate, titolo professionale protetto o qualsiasi altra forma di regolamentazione ai sensi dell'articolo 4, comma 1, lettera a), del decreto legislativo 9 novembre 2007, n. 206; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                obbligo di aggiornamento professionale continuo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                norme relative all'organizzazione della professione, alla deontologia e alla supervisione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                affiliazione obbligatoria a un'organizzazione o a un ordine professionale, regimi di registrazione o di autorizzazione, in particolare quando tali requisiti implicano il possesso di una qualifica professionale specifica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                restrizioni quantitative, segnatamente i requisiti che limitano il numero di autorizzazioni all'esercizio di una professione o fissano un numero minimo o massimo di dipendenti, amministratori o rappresentanti in possesso di qualifiche professionali specifiche; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                requisiti circa una forma giuridica specifica o in materia di assetto proprietario o di gestione di una societa', nella misura in cui tali requisiti sono direttamente connessi all'esercizio della professione regolamentata; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                restrizioni territoriali, anche quando la professione e' regolamentata nelle varie parti del territorio nazionale in modo diverso rispetto al modo in cui e' regolamentata in altre parti; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                requisiti che limitano l'esercizio di una professione regolamentata svolta congiuntamente o in associazione, nonche' norme di incompatibilita'; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                requisiti in materia di copertura assicurativa o altri mezzi di protezione personale o collettiva della responsabilita' professionale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                requisiti relativi alle conoscenze linguistiche, nella misura necessaria all'esercizio della professione; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                requisiti tariffari minimi o massimi prestabiliti; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                requisiti in materia di pubblicita'.
+
+8.
+                    
+                        
+                            I soggetti regolatori valutano altresi', ((nell'ambito dell'istruttoria di cui all'articolo 3, comma 3-bis, ovvero)) prima di introdurre nuove disposizioni o disposizioni che modificano quelle esistenti, il rispetto del principio di proporzionalita' dei requisiti specifici relativi alla prestazione temporanea od occasionale di servizi prestati a norma del titolo II del decreto legislativo 9 novembre 2007, n. 206, compresi: 
+ 
+                        
+                        
+                            a)
+                            
+                                la registrazione temporanea e automatica o un'affiliazione pro forma presso un'organizzazione o un ordine professionale di cui all'articolo 13, comma 1, del decreto legislativo 9 novembre 2007, n. 206; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una dichiarazione preventiva in conformita' dell'articolo 10, comma 1, del decreto legislativo 9 novembre 2007, n. 206, i documenti richiesti a norma del comma 2 del medesimo articolo o altro requisito equivalente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il pagamento di una tassa, o di altri costi necessari per le procedure amministrative concernenti l'accesso alle professioni regolamentate, o il loro esercizio, sostenuti dal prestatore del servizio.
 
 Il comma 8 non si applica alle misure intese a garantire il rispetto dei termini e delle condizioni di lavoro applicabili in conformita' del diritto dell'Unione europea.
 

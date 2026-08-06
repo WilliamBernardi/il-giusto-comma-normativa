@@ -7,8 +7,8 @@ urn: urn:nir:ecologica.ministero.transizione:decreto:2022-08-25;164
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -59,17 +59,134 @@ l. Ai fini del presente regolamento valgono le seguenti definizioni:
 
 E' istituito presso il Ministero della transizione ecologica l'Elenco dei soggetti abilitati alla vendita di energia elettrica ai clienti finali (di seguito «Elenco venditori»).
 
+2.
+                    
+                        
+                            Il presente regolamento, in attuazione dell'articolo 1, commi 80, 81, 81-bis e 82, della legge 4 agosto 2017, n. 124: 
+ 
+                        
+                        
+                            a)
+                            
+                                fissa le condizioni, i criteri, le modalita' e i requisiti tecnici, finanziari e di onorabilita' per l'iscrizione, la permanenza e l'esclusione dei soggetti iscritti nell'Elenco venditori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                disciplina il procedimento per l'esclusione degli iscritti dal medesimo Elenco venditori.
+
 L'iscrizione e la permanenza nell'Elenco venditori costituiscono titolo abilitativo per lo svolgimento delle attivita' di vendita nel mercato al dettaglio dell'energia elettrica per le imprese che siano dirette controparti commerciali dei clienti finali nell'ambito dei contratti di fornitura di energia elettrica.
 
 Sono escluse dall'applicazione delle disposizioni del presente regolamento le imprese che operano nel mercato della vendita al dettaglio di energia elettrica esclusivamente in qualita' di esercenti il servizio di maggior tutela ai sensi del decreto-legge 18 giugno 2007, n. 73, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 125, anche mediante apposita societa' di vendita ai sensi dell'articolo 1, comma 2, del medesimo decreto-legge.
 
 ## Art. 3. — Requisiti di natura tecnica
 
+1.
+                    
+                        
+                            Le imprese di vendita sono costituite in una delle seguenti forme: 
+ 
+                        
+                        
+                            a)
+                            
+                                societa' per azioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                societa' in accomandita per azioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                societa' a responsabilita' limitata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                societa' consortili costituite nelle forme di cui alle lettere a), b) e c); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                aziende speciali di cui all'articolo 114 del decreto legislativo 18 agosto 2000, n. 267; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                societa' cooperative; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                societa' costituite all'estero ai sensi degli articoli 2508 e 2509 del codice civile.
+
 Per le imprese di vendita, l'attivita' di vendita di energia elettrica deve risultare dall'oggetto sociale indicato nell'atto costitutivo o dall'oggetto indicato nello statuto depositato presso il registro delle imprese.
 
 ## Art. 4.
 
 Requisiti di onorabilita'
+
+1.
+                    
+                        
+                            Gli amministratori, i legali rappresentanti, i sindaci e i direttori generali delle imprese di vendita non devono: 
+ 
+                        
+                        
+                            a)
+                            
+                                trovarsi nelle condizioni di cui all'articolo 2382 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi del decreto legislativo 6 settembre 2011, n. 159, salvi gli effetti della riabilitazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione: 
+ 1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria e assicurativa e dalle norme in materia di mercati e strumenti finanziari, in materia tributaria e di strumenti di pagamento; 
+ 2) alla reclusione per uno dei delitti previsti dal titolo XI del libro V del codice civile, dal regio decreto 16 marzo 1942, n. 267 e dal Titolo IX del Codice della crisi d'impresa e dell'insolvenza di cui al decreto legislativo 12 gennaio 2019, n. 14; 
+ 3) alla reclusione per un tempo non inferiore a un anno per uno dei delitti previsti dai Titoli II, V, VII, VIII e XIII del Libro II del codice penale contro la pubblica amministrazione, l'ordine pubblico, la fede pubblica, l'economia pubblica, l'industria e il commercio e il patrimonio.
+
+2.
+                    
+                        
+                            Le imprese di vendita non devono essere: 
+ 
+                        
+                        
+                            a)
+                            
+                                in stato di fallimento o di liquidazione coatta, oppure essere sottoposte ad altra procedura con finalita' liquidatoria o a una procedura finalizzata alla dichiarazione di una di tali situazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nello stato di concordato preventivo, salvo se in condizioni di continuita' aziendale, oppure essere sottoposte a una procedura finalizzata alla dichiarazione dello stesso.
 
 I requisiti di cui ai commi 1 e 2 devono essere posseduti anche dalle imprese appartenenti al medesimo gruppo, ai sensi degli articoli da 2497 a 2497-septies del codice civile, delle imprese di vendita.
 
@@ -78,6 +195,24 @@ Il titolare del trattamento e' autorizzato a trattare i dati personali relativi 
 ## Art. 5. — Requisiti e indicatori di natura finanziaria
 
 L'impresa di vendita deve possedere un capitale sociale interamente versato non inferiore a centomila euro.
+
+2.
+                    
+                        
+                            L'impresa di vendita assicura la regolarita' dei pagamenti effettuati: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalla stessa impresa di vendita, quando sia utente del dispacciamento e del trasporto (di seguito «impresa di vendita utente»); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dagli eventuali soggetti terzi di cui l'impresa di vendita si serve per la conclusione dei contratti di dispacciamento e di trasporto di energia elettrica (di seguito «soggetti terzi»).
 
 I pagamenti dei soggetti terzi o dell'impresa di vendita utente alle imprese distributrici sono regolari quando, rispetto alle fatture di trasporto con scadenza del pagamento nel semestre di riferimento, non risultino due o piu' ritardi di pagamento, anche non consecutivi. Nel caso in cui alla rete dell'impresa distributrice risultino connessi meno di 100.000 punti di prelievo, la verifica e' effettuata al termine di ciascun anno in relazione alle fatture di trasporto con scadenza nell'anno di riferimento. L'impresa distributrice verifica la regolarita' dei pagamenti secondo le disposizioni previste dal codice di rete tipo trasporto di energia elettrica e comunica l'eventuale irregolarita' al Ministero, ai soggetti terzi e all'impresa di vendita.
 
@@ -108,6 +243,155 @@ Il Gestore del SII comunica annualmente al Ministero le imprese di vendita che n
  dall'Elenco venditori
 
 L'esclusione o la cancellazione dall'Elenco venditori e' disposta con provvedimento del Ministero ed e' comunicata all'impresa di vendita interessata. L'impresa di vendita puo' in ogni momento chiedere la cancellazione dall'Elenco venditori.
+
+2.
+                    
+                        
+                            Sono cause di esclusione dall'Elenco venditori: 
+ 
+                        
+                        
+                            a)
+                            
+                                la violazione delle disposizioni di cui all'articolo 7, commi 1 e 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'irregolarita' nei pagamenti da parte dell'impresa di vendita utente comunicata ai sensi dell'articolo 5, commi 3 e 4, per due periodi consecutivi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'irregolarita' nei pagamenti da parte dei soggetti terzi comunicata ai sensi dell'articolo 5, commi 3 e 4, per due periodi consecutivi, qualora nei sessanta giorni successivi alla seconda comunicazione l'impresa di vendita non sostituisca tali soggetti terzi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le dichiarazioni mendaci o la falsita' in atti presentati ai sensi del presente regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la sussistenza della condizione di cui all'articolo 7, comma 3; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                salvo quanto previsto dall'articolo 7, comma 1, la perdita di taluno dei requisiti di cui agli articoli 3, 4 e 5, comma 1; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'irrogazione, con provvedimento definitivo, di una delle sanzioni di cui al comma 3 segnalate al Ministero da parte dell'Autorita' di regolazione per energia reti e ambiente (di seguito «ARERA»), dell'Autorita' garante della concorrenza e del mercato (di seguito «AGCM»), del Garante per la protezione dei dati personali (di seguito «GPDP») e dell'Agenzia delle entrate per violazioni e condotte irregolari poste in essere nell'attivita' di vendita di energia elettrica successivamente alla data di entrata in vigore del presente regolamento.
+
+3.
+                    
+                        
+                            Le Autorita' di cui al comma 2, lettera g), segnalano le sanzioni per violazioni e condotte irregolari di cui al medesimo comma 2, lettera g), nei casi che seguono: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando l'ARERA irroga sanzioni amministrative pecuniarie non inferiori all'80 per cento del massimo applicabile al soggetto sottoposto a procedimento sanzionatorio conformemente al regolamento per la disciplina dei procedimenti sanzionatori, adottato ai sensi dell'articolo 2, comma 20, lettera c), della legge 14 novembre 1995, n. 481, e dell'articolo 45, comma 6, del decreto legislativo n. 93 del 2011, anche qualora tale soglia sia raggiunta sommando una pluralita' di violazioni compiute nell'arco di cinque anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando l'AGCM, a seguito di violazioni reiterate, irroga sanzioni amministrative pecuniarie in applicazione della legge 10 ottobre 1990, n. 287, degli articoli 101 e 102 del Trattato sul funzionamento dell'Unione europea e del decreto legislativo 6 settembre 2005, n. 206. La violazione si considera reiterata al ricorrere delle condizioni di cui all'articolo 8-bis della legge 24 novembre 1981, n. 689; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando il GPDP irroga una sanzione amministrativa pecuniaria ai sensi dell'articolo 83 del regolamento (UE) 2016/679 o dell'articolo 166, commi 1 e 2, del decreto legislativo 30 giugno 2003, n. 196; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quando l'Agenzia delle entrate irroga una sanzione per le violazioni di rilevanza penale previste dal decreto legislativo 10 marzo 2000, n. 74.
+
+4.
+                    
+                        
+                            Non sono oggetto della segnalazione di cui al comma 3 le violazioni e le condotte irregolari di cui al comma 2, lettera g), per le quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ARERA abbia approvato la proposta di impegni assunti dall'impresa di vendita in applicazione dell'articolo 45, comma 3, del decreto legislativo n. 93 del 2011; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'AGCM non abbia applicato o abbia ridotto la sanzione amministrativa in attuazione del programma di trattamento favorevole di cui all'articolo 15-bis, della legge 10 ottobre 1990, n. 287; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il GPDP abbia definito il procedimento ai sensi dell'articolo 166, comma 8, del decreto legislativo n. 196 del 2003, e la sanzione irrogata sia inferiore al 25 per cento del massimo edittale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'Agenzia delle entrate abbia riscontrato la definizione da parte dell'impresa di vendita dell'accertamento ai sensi dell'articolo 7 del decreto legislativo 19 giugno 1997, n. 218, della controversia ai sensi degli articoli 17-bis e 48 del decreto legislativo 31 dicembre 1992, n. 546, o mediante altri istituti deflattivi del contenzioso previsti dalla legge, nonche' la definizione della sanzione con gli istituti del ravvedimento di cui agli articoli 13 e 13-bis del decreto legislativo 18 dicembre 1997, n. 472, della rinuncia ad impugnare di cui all'articolo 15 del medesimo decreto legislativo n. 472 del 1997 ovvero della definizione agevolata di cui all'articolo 17 del predetto decreto legislativo n. 472 del 1997.
+
+5.
+                    
+                        
+                            Il Ministero, riscontrata la sussistenza di una delle cause di esclusione di cui al comma 2, trasmette ai sensi dell'articolo 7 della legge 7 agosto 1990, n. 241 all'impresa di vendita la comunicazione di avvio del procedimento di esclusione, dandone informazione all'ARERA e, nei casi di cui al comma 2, lettera g), anche alle altre Autorita' interessate, comunicando tempestivamente a tali Autorita' eventuali memorie e documenti presentati dall'impresa di vendita nel corso del procedimento. La comunicazione di avvio del procedimento di esclusione, oltre a quanto previsto dall'articolo 8 della legge n. 241 del 1990, deve indicare: 
+ 
+                        
+                        
+                            a)
+                            
+                                la causa di esclusione di cui al comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un termine non inferiore a dieci giorni e non superiore a novanta giorni per l'esercizio dei diritti di cui all'articolo 9 della legge n. 241 del 1990; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che, in caso di mancata presentazione di memorie e documenti nei termini assegnati, si procedera' all'esclusione dall'Elenco venditori; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il termine finale di adozione del provvedimento.
 
 Non si procede all'esclusione per le cause previste dal comma 2, lettere b) e c), se risulta che l'irregolarita' nei pagamenti non e' imputabile rispettivamente all'impresa di vendita utente oppure ai soggetti terzi, tenuto conto delle disposizioni di cui al codice di rete e al codice di rete tipo trasporto dell'energia elettrica.
 
@@ -144,6 +428,56 @@ La mancata presentazione della dichiarazione di cui al comma 2 entro il termine 
 Fermo restando quanto previsto dai commi 1, 2, 3 e 4, le imprese di cui al comma 1 che alla data di entrata in vigore del presente regolamento operano nella forma di societa' di persone o di consorzi diversi da quelli di cui all'articolo 3, comma 1, lettera d); ovvero hanno un capitale sociale inferiore a centomila euro, si adeguano alle disposizioni di cui all'articolo 3, comma 1, o all'articolo 5, comma 1, entro dodici mesi dall'entrata in vigore del presente regolamento. Il mancato adeguamento nel termine di cui al primo periodo e' causa di esclusione dall'Elenco venditori.
 
 ## Art. 11. — Disposizioni finali
+
+1.
+                    
+                        
+                            Entro quarantacinque giorni dalla data di entrata in vigore del presente regolamento, con decreto direttoriale del Ministero, previo parere del GPDP, sono stabiliti: 
+ 
+                        
+                        
+                            a)
+                            
+                                i modelli per la presentazione della domanda di iscrizione e dei documenti richiesti, nonche' le modalita' tecniche di gestione e pubblicazione dell'Elenco venditori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' delle segnalazioni previste dall'articolo 8, comma 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i criteri tecnici e le modalita' per lo svolgimento dei controlli previsti dall'articolo 9.
+
+2.
+                    
+                        
+                            Con il decreto di cui al comma 1, previo parere del GPDP, sono altresi' individuati le informazioni e i dati forniti dalle imprese di vendita che sono resi pubblici nell'Elenco venditori. E', inoltre, data pubblicita' nell'Elenco venditori: 
+ 
+                        
+                        
+                            a)
+                            
+                                della certificazione annuale del bilancio di esercizio presentata dall'impresa, sia che a tale certificazione sia obbligata dalla legge, sia che l'abbia predisposta volontariamente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei provvedimenti di esclusione di cui all'articolo 8; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                degli impegni assunti dalle imprese di vendita e approvati dall'ARERA ai sensi dell'articolo 45, comma 3, del decreto legislativo n. 93 del 2011.
 
 Con provvedimento dell'ARERA, da adottare entro sei mesi dalla data di entrata in vigore del presente regolamento, sono individuate le specifiche procedure finalizzate a garantire le comunicazioni di cui agli articoli 5, commi 3 e 4, e 7, comma 3.
 

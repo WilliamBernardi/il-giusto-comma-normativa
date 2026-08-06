@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-10-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -51,6 +51,60 @@ Nei casi in cui una decisione influisca in modo rilevante sull'organizzazione de
 Gli studenti hanno diritto alla liberta' di apprendimento ed esercitano autonomamente il diritto di scelta tra le attivita' curricolari integrative e tra le attivita' aggiuntive facoltative offerte dalla scuola. Le attivita' didattiche curricolari e le attivita' aggiuntive facoltative sono organizzate secondo tempi e modalita' che tengono conto dei ritmi di apprendimento e delle esigenze di vita degli studenti.
 
 Gli studenti stranieri hanno diritto al rispetto della vita culturale e religiosa della comunita' alla quale appartengono. La scuola promuove e favorisce iniziative volte alla accoglienza e alla tutela della loro lingua e cultura e alla realizzazione di attivita' interculturali.
+
+8.
+                    
+                        
+                            La scuola si impegna a porre progressivamente in essere le condizioni per assicurare: 
+ 
+                        
+                        
+                            a)
+                            
+                                un ambiente favorevole alla crescita integrale della persona e un servizio educativodidattico di qualita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                offerte formative aggiuntive e integrative, anche mediante il sostegno di iniziative liberamente assunte dagli studenti e dalle loro associazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                iniziative concrete per il recupero di situazioni di ritardo e di svantaggio, nonche' per la prevenzione e il recupero della dispersione scolastica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la salubrita' e la sicurezza degli ambienti, che debbono essere adeguati a tutti gli studenti anche con ((disabilita')); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la disponibilita' di un'adeguata strumentazione tecnologica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                servizi di sostegno e promozione della salute e di assistenza psicologica. ; 
+
+                            
+                        
+                        
+                            f-bis)
+                            
+                                
+                                    ((l'emersione di episodi riconducibili ai fenomeni del bullismo e del cyberbullismo, di situazioni di uso o abuso di alcool o di sostanze stupefacenti e di altre forme di dipendenza.))
 
 La scuola garantisce e disciplina nel proprio regolamento l'esercizio del diritto di riunione e di assemblea degli studenti, a livello di classe, di corso e di istituto.
 

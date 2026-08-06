@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-07-16
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -32,12 +32,134 @@ Il presente decreto stabilisce le procedure per l'esame delle domande di protezi
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto s'intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Convenzione di Ginevra»: la Convenzione relativa allo status dei rifugiati, firmata a Ginevra il 28 luglio 1951, ratificata con legge 24 luglio 1954, n. 722, e modificata dal protocollo di New York del 31 gennaio 1967, ratificato con legge 14 febbraio 1970, n. 95; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «domanda di protezione internazionale o domanda di asilo o domanda»: la domanda presentata secondo le procedure previste dal presente decreto, diretta ad ottenere lo status di rifugiato o lo status di protezione sussidiaria; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        (("domanda reiterata")): un'ulteriore domanda di protezione internazionale presentata dopo che e' stata adottata una decisione definitiva su una domanda precedente, anche nel caso in cui il richiedente abbia esplicitamente ritirato la domanda ai sensi dell'articolo 23 o dopo l'estinzione del procedimento ai sensi dell'articolo 23-bis, commi 2 e 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «richiedente»: il cittadino straniero che ha presentato la domanda di protezione internazionale sulla quale non e' stata ancora adottata una decisione definitiva; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «rifugiato»: cittadino di un Paese non appartenente all'Unione europea il quale, per il timore fondato di essere perseguitato per motivi di razza, religione, nazionalita', appartenenza ad un determinato gruppo sociale o opinione politica, si trova fuori dal territorio del Paese di cui ha la cittadinanza e non puo' o, a causa di tale timore, non vuole avvalersi della protezione di tale Paese, oppure se apolide si trova fuori dal territorio nel quale aveva precedentemente la dimora abituale e per lo stesso timore sopra indicato non puo' o, a causa di siffatto timore, non vuole farvi ritorno, ferme le cause di esclusione previste dall'articolo 10 del decreto legislativo 19 novembre 2007, n. 251; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «status di rifugiato»: il riconoscimento da parte dello Stato di un cittadino straniero quale rifugiato, a seguito dell'accoglimento della domanda di protezione internazionale, secondo le procedure definite dal presente decreto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «persona ammissibile alla protezione sussidiaria»: cittadino di un Paese non appartenente all'Unione europea o apolide che non possiede i requisiti per essere riconosciuto come rifugiato, ma nei cui confronti sussistono fondati motivi di ritenere che, se ritornasse nel Paese di origine, o, nel caso di un apolide, se ritornasse nel Paese nel quale aveva precedentemente la dimora abituale, correrebbe un rischio effettivo di subire un grave danno come definito dall'articolo 14 del decreto legislativo 19 novembre 2007, n. 251, e il quale non puo' o, a causa di tale rischio, non vuole avvalersi della protezione di detto Paese; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «status di protezione sussidiaria»: il riconoscimento da parte dello Stato di un cittadino straniero quale persona ammessa alla protezione sussidiaria, a seguito dell'accoglimento della domanda di protezione internazionale, secondo le procedure definite dal presente decreto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «minore non accompagnato»: il cittadino straniero di eta' inferiore agli anni diciotto che si trova, per qualsiasi causa, nel territorio nazionale, privo di assistenza e di rappresentanza legale; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    «persone vulnerabili»: minori; minori non accompagnati; disabili, anziani, donne, genitori singoli con figli minori, vittime della tratta di esseri umani, persone affette da gravi malattie o da disturbi mentali; persone per le quali e' accertato che hanno subito torture, stupri o altre forme gravi di violenza psicologica, fisica o sessuale, vittime di mutilazioni genitali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    UNHC: l'Alto Commissariato delle Nazioni Unite per i rifugiati; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    «EASO»: european asylum support office/ufficio europeo di sostegno per l'asilo, istituito dal regolamento (UE) n. 439/2010 del Parlamento europeo e del Consiglio, del 19 maggio 2010. 
+ m) LETTERA SOPPRESSA DAL D.LGS. 18 AGOSTO 2015, N. 142.
+
 ## Art. 2-bis. — (Paesi di origine sicuri)
 
 ((1. In applicazione dei criteri di qualificazione stabiliti dalla normativa dell'Unione europea e dei riscontri rinvenuti dalle fonti di informazione fornite dalle organizzazioni internazionali competenti, sono considerati Paesi di origine sicuri i seguenti:
 Albania, Algeria, Bangladesh, Bosnia-Erzegovina, Capo Verde, Costa d'Avorio, Egitto, Gambia, Georgia, Ghana, Kosovo, Macedonia del Nord, Marocco, Montenegro, Peru', Senegal, Serbia, Sri Lanka e Tunisia))
 
 Uno Stato non appartenente all'Unione europea puo' essere considerato Paese di origine sicuro se, sulla base del suo ordinamento giuridico, dell'applicazione della legge all'interno di un sistema democratico e della situazione politica generale, si puo' dimostrare che, in via generale e costante, non sussistono atti di persecuzione quali definiti dall'articolo 7 del decreto legislativo 19 novembre 2007, n. 251, ne' tortura o altre forme di pena o trattamento inumano o degradante, ne' pericolo a causa di violenza indiscriminata in situazioni di conflitto armato interno o internazionale. La designazione di un Paese di origine sicuro puo' essere fatta con l'eccezione ((...)) di categorie di persone.
+
+3.
+                        
+                            
+                                Ai fini della valutazione di cui al comma 2 si tiene conto, tra l'altro, della misura in cui e' offerta protezione contro le persecuzioni ed i maltrattamenti mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le pertinenti disposizioni legislative e regolamentari del Paese ed il modo in cui sono applicate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rispetto dei diritti e delle liberta' stabiliti nella Convenzione europea per la salvaguardia dei diritti dell'uomo e delle liberta' fondamentali del 4 novembre 1950, ratificata ai sensi della legge 4 agosto 1955, n. 848, nel Patto internazionale relativo ai diritti civili e politici, aperto alla firma il 19 dicembre 1966, ratificato ai sensi della legge 25 ottobre 1977, n. 881, e nella Convenzione delle Nazioni Unite contro la tortura del 10 dicembre 1984, in particolare dei diritti ai quali non si puo' derogare a norma dell'articolo 15, paragrafo 2, della predetta Convenzione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rispetto del principio di cui all'articolo 33 della Convenzione di Ginevra; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un sistema di ricorsi effettivi contro le violazioni di tali diritti e liberta'.
 
 La valutazione volta ad accertare che uno Stato non appartenente all'Unione europea e' un Paese di origine sicuro si basa sulle informazioni fornite dalla Commissione nazionale per il diritto di asilo, che si avvale anche delle notizie elaborate dal centro di documentazione di cui all'articolo 5, comma 1, nonche' su altre fonti di informazione, comprese in particolare quelle fornite da altri Stati membri dell'Unione europea, dall'((Agenzia dell'Unione europea per l'asilo)), dall'UNHCR, dal Consiglio d'Europa e da altre organizzazioni internazionali competenti.
 
@@ -178,6 +300,45 @@ La decisione con cui viene respinta una domanda e' corredata da motivazione di f
 L'ufficio di polizia informa il richiedente che, ove proveniente da un Paese designato di origine sicuro ai sensi dell'articolo 2-bis, la domanda puo' essere rigettata ai sensi dell'articolo 9, comma 2-bis.
 
 Il personale dell'ufficio di polizia di cui al comma 1 riceve una formazione adeguata ai propri compiti e responsabilita'.
+
+2.
+                        
+                            
+                                La Commissione nazionale redige, secondo le modalita' definite nel regolamento da adottare ai sensi dell'articolo 38 un opuscolo informativo che illustra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le fasi della procedura per il riconoscimento della protezione internazionale, comprese le conseguenze dell'allontanamento ingiustificato dai centri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i principali diritti e doveri del richiedente durante la procedura di esame della domanda di protezione internazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le prestazioni sanitarie e di accoglienza e le modalita' per riceverle; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indirizzo ed il recapito telefonico dell'UNHCR e delle principali organizzazioni di tutela dei richiedenti protezione internazionale, nonche' informazioni sul servizio di cui al comma 2-bis. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    l'elenco dei Paesi designati di origine sicuri ai sensi dell'articolo 2 -bis.
 
 Al fine di garantire al richiedente un servizio gratuito di informazione sulla procedura di esame della domanda da parte delle Commissioni territoriali, nonche' sulle procedure di revoca e sulle modalita' di impugnazione delle decisioni in sede giurisdizionale, il Ministero dell'interno stipula apposite convenzioni con l'UNHCR o con enti di tutela dei titolari di protezione internazionale con esperienza consolidata nel settore, anche ad integrazione dei servizi di informazione assicurati dal gestore nelle strutture di accoglienza previste dal presente decreto.
 
@@ -365,6 +526,35 @@ Le Commissioni territoriali e la Commissione nazionale in nessun caso forniscono
 
 
 
+2.
+                        
+                            
+                                
+                                    ((Le questure e gli uffici di polizia di frontiera ricevono le manifestazioni di volonta' di richiedere la protezione internazionale e le acquisiscono al sistema informativo dedicato del Dipartimento per le liberta' civili e l'immigrazione del Ministero dell'interno, se formulate:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((dagli stranieri sottoposti agli accertamenti di cui agli articoli 5 e 7 del regolamento (UE) 2024/1356 del Parlamento europeo e del Consiglio, del 14 maggio 2024, durante gli accertamenti stessi;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((dagli stranieri sottoposti alla misura del trattenimento;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((dagli stranieri detenuti.))
+
 ((Il cittadino di un paese terzo che non e' soggetto agli accertamenti di cui al regolamento (UE) 2024/1356, ai sensi degli articoli 5, paragrafo 3, e 7, paragrafi 1 e 2, del medesimo Regolamento, o che e' stato gia' sottoposto agli accertamenti di cui al regolamento (UE) 2024/1356 e intenda manifestare la volonta' di ricevere protezione internazionale dopo il completamento degli stessi, puo' manifestare la volonta' di richiedere protezione internazionale con le modalita' di cui al comma 1. Nel caso in cui il cittadino di un paese terzo manifesti la volonta' dopo il completamento degli accertamenti di cui al regolamento (UE) 2024/1356, le informazioni fornite in sede di manifestazione della volonta' confluiscono nel portale informativo del Dipartimento per le liberta' civili e l'immigrazione del ministero dell'interno di seguito alla registrazione della domanda di cui all'articolo 26-bis.))
 
 Salvo quanto previsto dall'articolo 28, comma 3, nei casi soggetti alla procedura ((di cui alla Parte III del regolamento (UE) 2024/1351 del Parlamento europeo e del Consiglio, del 14 maggio 2024)) la questura avvia le procedure per la determinazione dello Stato competente per l'esame della domanda, secondo quanto previsto dall'articolo 3, comma 3.
@@ -405,6 +595,31 @@ La Commissione territoriale, ovvero il giudice in caso di impugnazione, acquisis
 La Commissione territoriale provvede al colloquio con il richiedente entro trenta giorni dal ricevimento della domanda e decide entro i tre giorni feriali successivi.
 
 ((2-bis. La Commissione territoriale, nel caso in cui ritenga che non sussistano i presupposti per il riconoscimento della protezione internazionale e non ricorrano le condizioni per la trasmissione degli atti al questore ai fini del rilascio di un permesso di soggiorno per protezione speciale o per cure mediche, acquisisce dal questore elementi informativi circa la non sussistenza di una delle cause impeditive di cui all'articolo 19, commi 1-bis e 2, del decreto legislativo 25 luglio 1998, n. 286))
+
+3.
+                        
+                            
+                                Qualora la Commissione territoriale, per la sopravvenuta esigenza di acquisire nuovi elementi, non abbia potuto adottare la decisione entro i termini di cui al comma 2, informa del ritardo il richiedente e la questura competente. In tal caso, la procedura di esame della domanda e' conclusa entro sei mesi. Il termine e' prorogato di ulteriori nove mesi quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esame della domanda richiede la valutazione di questioni complesse in fatto o in diritto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in presenza di un numero elevato di domande presentate simultaneamente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il ritardo e' da attribuire all'inosservanza da parte del richiedente degli obblighi di cooperazione di cui all'articolo 11.
 
 In casi eccezionali, debitamente motivati, il termine di nove mesi di cui al comma 3 puo' essere ulteriormente prorogato di tre mesi ove necessario per assicurare un esame adeguato e completo della domanda.
 
@@ -454,6 +669,25 @@ Il presidente della Commissione territoriale, previo esame preliminare delle dom
 
 ## Art. 29. — Casi di inammissibilita' della domanda
 
+1.
+                        
+                            
+                                La Commissione territoriale dichiara inammissibile la domanda e non procede all'esame, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al richiedente e' stato riconosciuto lo status di rifugiato o lo status di protezione sussidiaria da uno Stato firmatario della Convenzione di Ginevra e lo stesso possa ancora avvalersi di tale protezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((si tratta di una domanda reiterata ai sensi dell'articolo 38, paragrafo 2, del regolamento (UE) 2024/1348;))
+
 Nei casi di cui al comma 1, la domanda e' sottoposta a esame preliminare da parte del presidente della Commissione territoriale, diretto ad accertare se emergono o sono stati addotti, da parte del richiedente, nuovi elementi o nuove prove rilevanti ai fini del riconoscimento della protezione internazionale e che il ritardo nella presentazione di tali nuovi elementi o prove non e' imputabile a colpa del ricorrente, su cui grava l'onere di allegazione specifica.
 Nell'ipotesi di cui al comma 1, lettera a), il presidente della Commissione procede anche all'audizione del richiedente sui motivi addotti a sostegno dell'ammissibilita' della domanda nel suo caso specifico.
 
@@ -488,6 +722,45 @@ Il richiedente puo' inviare alla Commissione territoriale memorie e documentazio
 
 ## Art. 32. — Decisione
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dagli articoli 23, 29 e 30 la Commissione territoriale adotta una delle seguenti decisioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riconosce lo status di rifugiato o la protezione sussidiaria, secondo quanto previsto dagli articoli 11 e 17 del decreto legislativo 19 novembre 2007, n. 251; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rigetta la domanda qualora non sussistano i presupposti per il riconoscimento della protezione internazionale fissati dal decreto legislativo 19 novembre 2007, n. 251, o ricorra una delle cause di cessazione o esclusione dalla protezione internazionale previste dal medesimo decreto legislativo; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    rigetta la domanda per manifesta infondatezza nei casi di cui all'articolo 28-ter; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    rigetta la domanda se, in una parte del territorio del Paese di origine, il richiedente non ha fondati motivi di temere di essere perseguitato o non corre rischi effettivi di subire danni gravi o ha accesso alla protezione contro persecuzioni o danni gravi, puo' legalmente e senza pericolo recarvisi ed esservi ammesso e si puo' ragionevolmente supporre che vi si ristabilisca; 
+
+                                
+                            
+                            
+                                b-quater)
+                                
+                                    dichiara inammissibile la domanda e non procede all'esame quando accerta la sussistenza di una delle condizioni previste dall'articolo 38, paragrafo 1, lettere a), b) c) d) ed e) del regolamento (UE) 2024/1348.
+
 COMMA ABROGATO DAL D.L. 21 OTTOBRE 2020, N. 130. (12)
 
 COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 142.
@@ -516,6 +789,24 @@ Con la decisione di cui al comma 4-bis, il richiedente, qualora in possesso di u
 ## - Capo IV Revoca, cessazione e rinuncia della protezione internazionale
 
 ## Art. 33. — Revoca e cessazione della protezione internazionale riconosciuta
+
+1.
+                        
+                            
+                                Nel procedimento di revoca o di cessazione dello status di protezione internazionale, l'interessato deve godere delle seguenti garanzie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere informato per iscritto che la Commissione nazionale procede al nuovo esame del suo diritto al riconoscimento della protezione internazionale e dei motivi dell'esame; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avere la possibilita' di esporre in un colloquio personale a norma degli articoli 10, 11 e 12 o in una dichiarazione scritta, i motivi per cui il suo status non dovrebbe essere revocato o cessato.
 
 La Commissione nazionale, nell'ambito di tale procedura, applica in quanto compatibili i principi fondamentali e le garanzie di cui al capo II.
 
@@ -604,6 +895,56 @@ Il Ministero dell'interno, limitatamente al giudizio di primo grado, puo' stare 
 La Commissione che ha adottato il provvedimento di diniego, successivamente alla sua notifica all'interessato, rende disponibile la videoregistrazione di cui all'articolo 14, comma 1, al suo difensore munito di procura dopo la verifica della procura effettuata a cura della cancelleria del giudice competente per l'impugnazione, con le modalita' previste dalle specifiche tecniche di cui al comma 16. Entro venti giorni dalla notificazione del ricorso, la Commissione mette a disposizione del giudice mediante gli strumenti del processo civile telematico il verbale di trascrizione della videoregistrazione redatto a norma del medesimo articolo 14, comma 1, copia della domanda di protezione internazionale e di tutta la documentazione acquisita nel corso della procedura di esame di cui al capo III, nonche' l'indicazione delle informazioni di cui all'articolo 8, comma 3, utilizzate ai fini della decisione. Entro il medesimo termine la Commissione mette a disposizione del giudice la videoregistrazione con le modalita' previste dalle specifiche tecniche di cui al comma 16.
 
 Il procedimento e' trattato in camera di consiglio. Per la decisione il giudice si avvale anche delle informazioni sulla situazione socio-politico-economica del Paese di provenienza previste dall'articolo 8, comma 3 che la Commissione nazionale aggiorna costantemente e rende disponibili all'autorita' giudiziaria con modalita' previste dalle specifiche tecniche di cui al comma 16.
+
+10.
+                        
+                            
+                                E' fissata udienza per la comparizione delle parti esclusivamente quando il giudice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    visionata la videoregistrazione di cui al comma 8, ritiene necessario disporre l'audizione dell'interessato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ritiene indispensabile richiedere chiarimenti alle parti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dispone consulenza tecnica ovvero, anche d'ufficio, l'assunzione di mezzi di prova.
+
+11.
+                        
+                            
+                                L'udienza e' altresi' disposta quando ricorra almeno una delle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la videoregistrazione non e' disponibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'interessato ne abbia fatto motivata richiesta nel ricorso introduttivo e il giudice, sulla base delle motivazioni esposte dal ricorrente, ritenga la trattazione del procedimento in udienza essenziale ai fini della decisione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impugnazione si fonda su elementi di fatto non dedotti nel corso della procedura amministrativa di primo grado.
 
 Il ricorrente puo' depositare una nota difensiva entro i venti giorni successivi alla scadenza del termine di cui al comma 7, terzo periodo.
 
@@ -703,4 +1044,22 @@ Il Ministero dell'economia e delle finanze provvede al monitoraggio degli oneri 
  Il D.Lgs. 18 agosto 2015, n. 142 ha disposto (con l'art. 28, comma 3) che "Il riferimento agli articoli 20, commi 2, 3 e 4, nonche' agli articoli 35 e 36, del decreto legislativo 28 gennaio 2008, n. 25, contenuto nell'articolo 39, comma 5, del medesimo decreto legislativo, deve intendersi sostituito dal riferimento, rispettivamente, agli articoli 9 e 14, comma 4, del presente decreto".
 
 ## Art. 40. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    articoli 1, commi 4, 5 e 6, 1-bis, 1-ter, 1-quater e 1-quinquies del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Presidente della Repubblica 16 settembre 2004, n. 303, a decorrere dalla data di entrata in vigore del regolamento di cui all'articolo 38.
 

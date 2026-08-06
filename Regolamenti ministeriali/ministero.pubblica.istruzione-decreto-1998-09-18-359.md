@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2000-01-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -74,6 +74,31 @@ Di norma, i commissari esterni ed interni sono nominati in numero complessivo no
 
 ## Art. 4. — Procedure generali di nomina
 
+1.
+                    
+                        
+                            I componenti le commissioni degli esami di Stato sono nominati:
+ 
+                        
+                        
+                            a)
+                            
+                                secondo le fasi territoriali di nomina di cui all'articolo 7;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'interno di ogni fase territoriale, in base ai criteri di cui agli articoli 5 e 6;
+
+                            
+                        
+                        
+                            c)
+                            
+                                in base alle preferenze di cui all'articolo 9.
+
 Per indirizzi particolari di studio si osservano le modalita' e i criteri di nomina indicati nell'articolo 8.
 
 Le nomine sono subordinate all'inesistenza delle preclusioni e dei divieti stabiliti agli articoli 12 e 14.
@@ -94,7 +119,64 @@ I presidenti delle commissioni sono nominati in base al seguente ordine di prece
  i) docenti con rapporto di lavoro a tempo indeterminato di istituti statali di istruzione secondaria superiore con almeno 10 anni di servizio di ruolo;
  l) docenti delle accademie di belle arti con almeno 10 anni di servizio di ruolo.
 
+2.
+                    
+                        
+                            Nel rispetto dei criteri di precedenza di cui al primo comma, le nomine vengono effettuate:
+ 
+                        
+                        
+                            a)
+                            
+                                per i capi d'istituto e i docenti, prioritariamente, su commissioni d'esame comprendenti indirizzi dell'ordine scolastico cui appartiene l'istituto sede di servizio dell'aspirante;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i professori e i ricercatori universitari, su commissioni d'esame comprendenti indirizzi dell'ordine o degli ordini scolastici coerenti con l'attivita' svolta.
+
 ## Art. 6. — Criteri di nomina dei membri esterni
+
+1.
+                    
+                        
+                            I membri esterni sono nominati, in base al seguente ordine di precedenza:
+ 
+                        
+                        
+                            a)
+                            
+                                tra i docenti con rapporto di lavoro a tempo indeterminato di istituti statali di istruzione secondaria superiore e delle accademie di belle arti, che insegnano, nell'ordine, nelle classi terminali e nelle classi non terminali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tra i docenti con rapporto di lavoro a tempo determinato fino al termine dell'anno scolastico di istituti statali d'istruzione secondaria superiore e delle accademie di belle arti che insegnano, nell'ordine, nelle classi terminali e nelle classi non terminali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tra i docenti con rapporto di lavoro a tempo determinato fino al termine dell'attivita' didattica di istituti statali d'istruzione secondaria superiore e delle accademie di belle arti che insegnano, nell'ordine, nelle classi terminali e nelle classi non terminali.
+
+                            
+                        
+                        
+                            d)
+                            
+                                tra i docenti di istituti statali di istruzione secondaria superiore collocati a riposo da meno di cinque anni scolastici;
+
+                            
+                        
+                        
+                            e)
+                            
+                                tra i docenti che, negli ultimi cinque anni, con rapporto di lavoro a tempo determinato sino al termine dell'anno scolastico o fino al termine delle attivita' didattiche, abbiano prestato effettivo servizio almeno per un anno, in istituti statali di istruzione secondaria superiore e siano in possesso di abilitazione all'insegnamento di materie comprese nelle classi di concorso afferenti ai programmi d'insegnamento dell'ultimo anno dei corsi della scuola secondaria superiore.
 
 I docenti con rapporto di lavoro a tempo determinato devono essere in possesso di abilitazione all'insegnamento delle discipline oggetto di esame.
 
@@ -102,11 +184,110 @@ In caso di necessita', si prescinde dal requisito dell'abilitazione, tenendo con
 
 In considerazione della specificita' dei relativi percorsi formativi, nelle commissioni d'esame presso gli istituti professionali, tecnici e artistici, uno o piu' membri esterni possono essere nominati tra esperti del corrispondente settore compresi in elenchi forniti dagli ordini professionali, dalle associazioni di categoria, da istituzioni pubbliche.
 
+5.
+                    
+                        
+                            Nel rispetto dei criteri di precedenza indicati al primo comma, le nomine sono effettuate secondo il seguente ordine:
+ 
+                        
+                        
+                            a)
+                            
+                                su commissioni comprendenti indirizzi dell'ordine scolastico cui appartiene l'istituto sede di servizio dell'aspirante:
+ 1) per la stessa materia d'insegnamento;
+ 2) per la classe di concorso in cui e' compresa la materia d'insegnamento;
+ 3) per l'area disciplinare in cui e' compresa la materia d'insegnamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                commissioni comprendenti indirizzi di altro ordine scolastico, prima per la classe di concorso e, poi, per l'area disciplinare in cui e' compresa la materia d'insegnamento.
+
 ## Art. 7. — Fasi territoriali di nomina
+
+1.
+                    
+                        
+                            Le nomine dei presidenti sono effettuate seguendo le sottoelencate fasi territoriali:
+ 
+                        
+                        
+                            a)
+                            
+                                nei comuni della regione di abituale dimora e di servizio, nell'ordine di preferenza espressa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                d'ufficio, nei comuni della regione di abituale dimora o di servizio, ove non sia stata possibile la nomina sulle preferenze;
+
+                            
+                        
+                        
+                            c)
+                            
+                                d'ufficio, nelle sedi residue a livello nazionale.
 
 Relativamente alla fase di cui al comma 1, lettera b), l'ordine di assegnazione e' quello di cui alla tabella di vicinanza, utilizzata per i trasferimenti del personale della scuola tra comuni della provincia, a partire dal comune indicato quale piu' gradito per l'assegnazione d'ufficio. Ove si renda necessario procedere alla nomina fuori dalla provincia, l'assegnazione alle sedi della regione viene disposta secondo l'ordine di vicinanza tra le province della regione, secondo le tabelle utilizzate per i trasferimenti del personale direttivo della scuola.
 
 Relativamente alla fase di cui al comma 1, lettera c), l'ordine di assegnazione e' quello di cui alla tabella di vicinanza tra province utilizzata per i trasferimenti del personale della scuola.
+
+4.
+                    
+                        
+                            Le nomine dei membri esterni sono effettuate secondo le sottoelencate fasi territoriali:
+ 
+                        
+                        
+                            a)
+                            
+                                nel comune di abituale dimora e di servizio, nell'ordine di preferenza espresso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                d'ufficio, nel comune di abituale dimora o di servizio, ove non sia stato possibile procedere alla nomina in base alle preferenze espresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei comuni della provincia di abituale dimora e di servizio, nell'ordine di preferenza espressa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                d'ufficio, nei comuni della provincia di abituale dimora o di servizio, ove non sia stato possibile procedere alla nomina in base alle preferenze espresse;
+
+                            
+                        
+                        
+                            e)
+                            
+                                nei comuni di altra provincia, compresa nella regione cui la provincia di abituale dimora e di servizio appartiene, nell'ordine di preferenza espresso;
+
+                            
+                        
+                        
+                            f)
+                            
+                                d'ufficio, nei comuni di altra provincia, compresa nella regione cui la provincia di abituale dimora o di servizio appartiene, ove non sia stato possibile procedere alla nomina in base alle preferenze espresse;
+
+                            
+                        
+                        
+                            g)
+                            
+                                d'ufficio, nelle sedi residue a livello nazionale.
 
 Relativamente alla fase di cui al comma 4, lettera d), l'ordine di assegnazione e' quello di cui alla tabella di vicinanza tra comuni della provincia, a partire dal comune indicato quale piu' gradito per l'assegnazione d'ufficio.
 
@@ -123,6 +304,84 @@ La nomina dei presidenti nelle commissioni di cui al comma 1 viene disposta segu
 Nelle commissioni, comprendenti classi con i corsi indicati al primo comma, nelle quali non sia stato possibile la nomina dei presidenti secondo i criteri stabiliti nel presente articolo, viene nominato personale con esperienza in corsi sperimentali e, successivamente, personale dei corsi ordinari, seguendo l'ordine di precedenza e le fasi territoriali indicate negli articoli 6 e 7.
 
 Le commissioni che comprendono classi di istituti statali ove e' in atto l'indirizzo di "Progetto di liceo classico europeo" sono costituite dal presidente e da almeno due membri esterni provenienti da istituzioni scolastiche nelle quali e' in atto la medesima sperimentazione.
+
+5.
+                    
+                        
+                            Le nomine dei presidenti, nelle commissioni comprendenti classi che seguono l'indirizzo di "Progetto di liceo classico europeo", sono effettuate seguendo le sottoelencate fasi territoriali:
+ 
+                        
+                        
+                            a)
+                            
+                                nei comuni della regione di abituale dimora e di servizio, secondo l'ordine di preferenza espresso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                d'ufficio, ove non sia stato possibile procedere alla nomina in base alle preferenze, nei comuni della regione di abituale dimora o servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al di fuori della regione di abituale dimora e servizio, secondo l'ordine di preferenza espresso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                d'ufficio, su tutte le altre sedi.
+
+6.
+                    
+                        
+                            Le nomine dei membri esterni, nelle commissioni di cui al comma 4, sono effettuate secondo le seguenti fasi territoriali:
+ 
+                        
+                        
+                            a)
+                            
+                                nei comuni di abituale dimora e di servizio, secondo l'ordine di preferenza espresso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                d'ufficio, nei comuni di abituale dimora o di servizio, ove non sia stato possibile procedere alla nomina in base alle preferenze;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei comuni delle province di abituale dimora e di servizio, secondo l'ordine di preferenza espresso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                d'ufficio, nella provincia di abituale dimora o di servizio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fuori della provincia di abituale dimora e di servizio, secondo l'ordine di preferenza espresso;
+
+                            
+                        
+                        
+                            f)
+                            
+                                d'ufficio, su tutte le altre sedi.
 
 L'assegnazione degli aspiranti, anziche' nelle commissioni di cui al comma 4, in commissioni di ordinamento o di altra sperimentazione avviene dopo l'effettuazione di tutte le fasi di nomina elencate nei commi 5 e 6.
 
@@ -151,6 +410,45 @@ I presidenti e i membri esterni non possono essere nominati nelle commissioni d'
 I docenti con rapporto di lavoro a tempo parziale sono tenuti a prestare servizio secondo l'orario previsto per il rapporto di lavoro a tempo pieno e agli stessi vengono corrisposti, per il periodo dell'effettiva partecipazione agli esami, la stessa retribuzione e lo stesso trattamento economico che percepirebbero senza la riduzione dell'attivita' lavorativa.
 
 ## Art. 14. — Divieti di nomina
+
+1.
+                    
+                        
+                            Non si da' luogo alla nomina del personale che si trovi in una delle seguenti posizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                qualsiasi tipo di assenza o di aspettativa, sempre che si preveda il rientro in servizio in epoca posteriore alla data di inizio degli esami;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collocamento fuori ruolo o utilizzazione in altri compiti, ai sensi dell'articolo 23 del contratto collettivo nazionale di lavoro del comparto del personale della scuola;
+
+                            
+                        
+                        
+                            c)
+                            
+                                astensione obbligatoria e facoltativa dal lavoro, ai sensi della legge 30 dicembre 1971, n. 1204, e successive modificazioni e integrazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                aspettativa o distacco sindacale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                impegno in altri esami coincidenti con gli esami di Stato di cui al presente decreto.
 
 Parimenti, non si da' luogo alla nomina del personale destinatario di sanzioni disciplinari superiori alla censura inflitte nell'anno scolastico in corso o in quello precedente ovvero che risulti indagato o imputato per reati particolarmente gravi comportanti incompatibilita' con la nomina stessa o che si sia reso autore di comportamenti scorretti nel corso di precedenti esami, previamente contestato in sede disciplinare.
 

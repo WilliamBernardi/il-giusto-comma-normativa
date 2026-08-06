@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -134,6 +134,31 @@ Il titolo del decreto legislativo 19 settembre 1994, n. 626, e successive modifi
  1. Il medico competente, per ciascuno dei lavoratori di cui all'articolo 49-noviesdecies, comma 1, provvede ad istituire e aggiornare una cartella sanitaria e di rischio, secondo quanto previsto dall'articolo 17, comma 1, lettera d). I singoli lavoratori hanno, su richiesta, accesso ai loro dati medici personali.».
 
 ## Art. 3. — Sanzioni
+
+1.
+                    
+                        
+                            All'articolo 89 del decreto legislativo 19 settembre 1994, n. 626, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole «49-quinquies, commi 1 e 6;» sono inserite le seguenti: «49-sexiesdecies, commi 1 e 6;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera a), dopo le parole: «49-undecies, comma 3, secondo periodo;» sono inserite le seguenti: «49-sexiesdecies, comma 2, 49-septiesdecies, comma 2;»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, lettera b), dopo le parole: «49, comma 1;» sono inserite le seguenti: «49-septiesdecies, commi 3 e 4;»;
 
 All'articolo 92, comma 1, lettera a), del decreto legislativo 19 settembre 1994, n. 626, dopo le parole: «17, comma 1, lettere b), d), h) e l);» sono inserite le seguenti: « 49-noviesdecies, comma 3, 49-vicies;».
 

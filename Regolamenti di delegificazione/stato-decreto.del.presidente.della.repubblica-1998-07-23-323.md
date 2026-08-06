@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2017-05-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,6 +44,38 @@ L'analisi e la verifica della preparazione di ciascun candidato tendono ad accer
 
 ## Art. 2. — Candidati interni
 
+1.
+                    
+                        
+                            All'esame di Stato sono ammessi: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli alunni delle scuole statali che abbiano frequentato l'ultimo anno di corso e siano stati valutati in sede di scrutinio finale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli alunni delle scuole statali che siano stati ammessi alle abbreviazioni di cui ai commi 2 e 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli alunni delle scuole pareggiate o legalmente riconosciute che abbiano frequentato l'ultima classe di un corso di studi nel quale siano funzionanti almeno tre classi del quinquennio o abbiano funzionato almeno tre classi del quinquennio progressivamente non riattivate, e siano stati valutati in sede di scrutinio finale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli alunni delle scuole pareggiate o legalmente riconosciute che, avendo frequentato la penultima classe di un corso di studi avente le caratteristiche di cui alla lettera c), siano stati ammessi alle abbreviazioni di cui ai commi 2 e 3.
+
 Possono sostenere, nella sessione dello stesso anno, il corrispondente esame di Stato gli alunni che, nello scrutinio finale per la promozione all'ultima classe, abbiano riportato non meno di otto decimi in ciascuna materia. Resta ferma la particolare disciplina dei motivati esoneri dall'esecuzione di tutte o parti delle esercitazioni pratiche dell'educazione fisica.
 
 Il beneficio di sostenere, con l'abbreviazione di un anno rispetto all'intervallo prescritto, l'esame di Stato, e' concesso anche ai giovani soggetti all'obbligo di leva nello stesso anno solare o nel seguente, purche', se alunni di istituto o scuola statale, pareggiata o legalmente riconosciuta, abbiano conseguito la promozione all'ultima classe nello scrutinio finale con esclusione di promozione conseguita secondo quanto previsto dall'articolo 11, comma 3, secondo periodo. 
@@ -55,6 +87,52 @@ Il beneficio di sostenere, con l'abbreviazione di un anno rispetto all'intervall
  Il D.Lgs. 13 aprile 2017, n. 62, ha disposto (con l'art. 26, comma 6, lettera a)) che "Con effetto a partire dal 1° settembre 2018 cessano di avere efficacia: [...] le disposizioni di cui al decreto del Presidente della Repubblica 23 luglio 1998, n. 323, fatto salvo l'articolo 9, comma 8".
 
 ## Art. 3. — Candidati esterni
+
+1.
+                    
+                        
+                            Oltre ai candidati di cui all'articolo 2 sono ammessi all'esame di Stato, alle condizioni previste dal presente articolo, coloro che: 
+ 
+                        
+                        
+                            a)
+                            
+                                compiano il diciannovesimo anno di eta' entro l'anno solare in corso e dimostrino di aver adempiuto all'obbligo scolastico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano in possesso del diploma di licenza di scuola media da almeno un numero di anni pari a quello della durata del corso prescelto, indipendentemente dall'eta'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                siano in possesso, nel caso di esami di Stato negli istituti professionali e negli istituti d'arte, del diploma, rispettivamente, di qualifica e di licenza corrispondente da almeno un numero di anni pari a quello della durata del corso integrativo prescelto, indipendentemente dall'eta'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                compiano il ventitreesimo anno di eta' entro l'anno solare in corso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                siano in possesso di altro titolo conseguito al termine di un corso di studio di istruzione secondaria superiore di durata almeno quadriennale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                abbiano cessato la frequenza dell'ultimo anno di corso prima del 15 marzo.
 
 I candidati agli esami negli istituti professionali devono documentare di avere esperienze di formazione professionale o lavorative coerenti, per durata e contenuti, con quelle previste dall'ordinamento del tipo di istituto presso il quale svolgono l'esame.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2010-04-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -46,7 +46,113 @@ Compito del CLL e' quello di attuare politiche di diffusione del libro e della l
 
 Nello svolgimento dei compiti il CLL collabora con le amministrazioni pubbliche, le istituzioni territoriali e con i soggetti privati che operano nella filiera del libro.
 
+3.
+                    
+                        
+                            Il CLL, in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                incentiva l'ideazione, la progettazione e la realizzazione di programmi editoriali tematici, volti in particolare a valorizzare le opere di saggistica, di narrativa e di poesia di autori contemporanei, italiani e stranieri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove, presso le scuole di ogni ordine e grado, la diffusione della letteratura e della saggistica attinenti alle materie insegnate, attraverso programmi concordati con il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                incentiva, anche attraverso iniziative promozionali, la diffusione del libro e la conoscenza delle biblioteche e dei relativi servizi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove e realizza, in collaborazione con la Presidenza del Consiglio dei Ministri, campagne informative attraverso la televisione, la radio, il cinema, la stampa quotidiana e periodica, internet, per sensibilizzare l'opinione pubblica nei confronti dei prodotti editoriali e della lettura; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                promuove e realizza, in collaborazione con il Ministero degli affari esteri per gli ambiti di relativa competenza, adeguate politiche di diffusione del libro, della cultura e degli autori italiani all'estero, attraverso una pianificazione pluriennale delle strategie di intervento in materia di partecipazione alle Fiere internazionali del libro e di sostegno alle traduzioni, anche in esecuzione di appositi accordi culturali, nonche' attraverso un piano annuale di intervento da predisporre entro il 30 aprile di ciascun anno; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove e organizza manifestazioni ed eventi, in Italia e all'estero, volti a diffondere la produzione editoriale italiana e la cultura della lettura in generale; in particolare, il CLL organizza ogni anno una campagna nazionale di promozione della lettura, sentita la Conferenza unificata ed in collaborazione con i soggetti legati alla filiera del libro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                sostiene, anche mediante l'intervento dell'osservatorio del libro e della lettura di cui all'articolo 7, le attivita' di diffusione del libro e della lettura, di coordinamento e di sostegno delle iniziative promosse dalle biblioteche, dalle scuole e dalle istituzioni pubbliche e private, con particolare riguardo a quelle rivolte ai giovani, in accordo con la Presidenza del Consiglio dei Ministri - Dipartimento della gioventu', con il Ministero dell'istruzione, dell'universita' e della ricerca e con il Ministero per la pubblica amministrazione e l'innovazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                supporta, anche mediante l'intervento dell'osservatorio del libro e della lettura di cui all'articolo 7, le iniziative necessarie a potenziare l'attivita' delle biblioteche scolastiche, favorendone, in accordo con la Presidenza del Consiglio dei Ministri - Dipartimento della gioventu', il raccordo sul territorio con le altre Istituzioni interessate alla promozione della lettura tra i piu' giovani, anche tramite l'utilizzazione di procedure tecnologiche informatiche e telematiche; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                implementa le politiche inerenti alla diffusione del libro e della lettura con particolare riferimento all'attivita' svolta dalle librerie e dalle biblioteche, anche attraverso il consolidamento di quelle gia' esistenti e l'incentivazione all'apertura di nuove librerie e biblioteche di pubblica lettura, con particolare attenzione alle zone che ne risultino sprovviste.
+
 ## Art. 3. — O r g a n i
+
+1.
+                    
+                        
+                            Sono organi del CLL: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio scientifico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'osservatorio del libro e della lettura; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il collegio dei revisori dei conti.
 
 ## Art. 4. — Presidente
 
@@ -57,6 +163,59 @@ Il presidente ha la rappresentanza del CLL nella cura dei rapporti nazionali ed 
 Il Presidente dura in carica tre anni e puo' essere confermato una sola volta.
 
 ## Art. 5. — Consiglio di amministrazione
+
+1.
+                    
+                        
+                            Il consiglio di amministrazione del CLL e' composto da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente del CLL che lo presiede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore del CLL; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il funzionario preposto al servizio amministrativo - addetto all'ufficio contabilita' e bilancio, con funzioni di segretario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un funzionario tecnico scientifico, scelto tra una terna di nominativi indicata dal direttore; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un dirigente od un funzionario del Ministero per i beni e le attivita' culturali designato dal direttore generale per le biblioteche, gli istituti culturali ed il diritto d'autore; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante designato dalla Presidenza del Consiglio dei Ministri - Dipartimento per l'informazione e l'editoria; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un componente designato dalla Conferenza Stato-regioni scelto tra professori universitari o altre categorie di esperti nelle materie di competenza del CLL.
 
 I componenti del consiglio di amministrazione sono nominati con decreto del Ministro per i beni e le attivita' culturali. La partecipazione al consiglio di amministrazione non da' titolo a compensi, gettoni di partecipazione, indennita' o rimborsi di alcun tipo, fatto salvo il rimborso delle spese di missione, ai sensi della normativa vigente.
 
@@ -76,6 +235,38 @@ Il consiglio scientifico svolge funzione consultiva e di indirizzo nelle materie
 
 Il consiglio scientifico propone al consiglio di amministrazione il programma annuale e pluriennale di attivita' del CLL, individuando le priorita' strategiche.
 
+3.
+                    
+                        
+                            Il Consiglio scientifico e' nominato con decreto del Ministro per i beni e le attivita' culturali ed e' composto da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente, scelto dal Ministro tra personalita' di chiara fama in possesso di comprovati requisiti ed esperienza in relazione ai compiti istituzionali del CLL; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                due componenti designati rispettivamente dalla Conferenza Stato-regioni e dalla Conferenza Stato-citta' ed autonomie locali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                due componenti designati dal Ministro, di cui uno designato di intesa con il Ministro dell'istruzione, dell'universita' e della ricerca, tra professori universitari o altre categorie di esperti nelle materie di competenza del CLL; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                due componenti designati dalle associazioni di categoria piu' rappresentative degli editori e dei librai tra esperti di alta qualificazione nel campo disciplinare e tematico di attivita' del CLL, operanti in istituzioni italiane e straniere.
+
 Alle riunioni del consiglio scientifico partecipa senza diritto di voto il direttore del CLL.
 
 Il consiglio scientifico e' convocato dal presidente.
@@ -85,6 +276,119 @@ Il consiglio scientifico elegge al suo interno un vice presidente.
 I componenti del consiglio scientifico durano in carica tre anni e possono essere confermati una sola volta. La partecipazione al consiglio scientifico non da' titolo a compensi, gettoni di partecipazione, indennita' o rimborsi di alcun tipo, fatto salvo il rimborso delle spese di missione, ai sensi della normativa vigente.
 
 ## Art. 7. — Osservatorio del libro e della lettura
+
+1.
+                    
+                        
+                            L'osservatorio del libro e della lettura, sulla base delle linee di attivita' e di intervento elaborate dal consiglio scientifico, svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                studio del livello e delle modalita' di diffusione della lettura in Italia e proposte di iniziative per l'educazione e la sensibilizzazione alla lettura; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                studio dell'andamento della produzione e delle vendite di prodotti editoriali e proposta di iniziative per la diffusione della produzione editoriale italiana, con particolare riferimento alla produzione contemporanea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                studio dell'evoluzione dell'offerta libraria in Italia, dei comportamenti di acquisto e del settore editoriale in genere; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                raccolta e diffusione delle informazioni sulle iniziative comunitarie, nazionali e regionali a favore del libro e dell'editoria o comunque utili per gli operatori editoriali e sulle iniziative di formazione professionale promosse in Italia e all'estero; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                approfondimento degli aspetti legati alla gestione dei diritti per la riproduzione delle opere conservate dai musei e dalle istituzioni culturali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                implementazione delle politiche inerenti alla diffusione del libro e della lettura con particolare riferimento all'attivita' svolta dalle librerie e dalle biblioteche, anche attraverso il consolidamento di quelle gia' esistenti e l'incentivazione all'apertura di nuove librerie e biblioteche di pubblica lettura, con particolare attenzione alle zone che ne risultino sprovviste.
+
+2.
+                    
+                        
+                            L'osservatorio del libro e della lettura e' nominato con decreto del Ministro per i beni e le attivita' culturali ed e' composto da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il direttore del CLL che lo presiede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore della Biblioteca nazionale centrale di Roma; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                cinque funzionari del Ministero per i beni e le attivita' culturali designati dal direttore generale per le biblioteche, gli istituti culturali ed il diritto d'autore; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante designato dalla Presidenza del Consiglio dei Ministri - Dipartimento per l'informazione e l'editoria; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante designato dal Ministro dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                due rappresentanti designati dall'Associazione italiana editori; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante designato dall'ISTAT; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                due rappresentanti designati dalla Conferenza Stato-regioni; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                due rappresentanti designati dalla Conferenza Stato-citta' ed autonomie locali.
 
 Alle riunioni dell'osservatorio del libro e della lettura partecipa senza diritto di voto il presidente del CLL.
 
@@ -107,6 +411,31 @@ L'esercizio finanziario inizia il 1° gennaio e termina il 31 dicembre dello ste
 Il bilancio di previsione e' composto dal preventivo finanziario decisionale, dal preventivo finanziario gestionale, dal quadro generale riassuntivo della gestione finanziaria e dal preventivo economico. Costituiscono allegati al bilancio di previsione annuale il bilancio pluriennale, la relazione programmatica, la tabella dimostrativa del presunto risultato di amministrazione e la relazione del collegio dei revisori dei conti.
 
 Le entrate e le spese sono iscritte in bilancio nel loro importo integrale.
+
+5.
+                    
+                        
+                            Per ciascun capitolo di entrata e di spesa il bilancio di previsione indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare presunto dei residui attivi e passivi alla chiusura dell'esercizio precedente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ammontare delle entrate che si prevede di accertare e delle spese che si prevede di impegnare nell'esercizio cui il bilancio si riferisce; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare delle entrate che si prevede di incassare e delle spese che si prevede di pagare nello stesso esercizio senza distinzione tra operazioni in conto competenza ed in conto residui.
 
 Nel bilancio di previsione e' iscritto come prima posta dell'entrata l'ammontare presunto dell'avanzo di amministrazione all'inizio dell'esercizio cui il bilancio si riferisce.
 
@@ -164,6 +493,45 @@ In ogni caso, le spese complessivamente impegnate non possono superare le entrat
 Le scritture finanziarie relative alla gestione del bilancio consentono di rilevare per ciascun capitolo, sia per la competenza che per i residui, la situazione degli accertamenti di entrata e degli impegni di spesa a fronte dei relativi stanziamenti, nonche' la situazione delle somme riscosse e pagate e di quelle rimaste da riscuotere e da pagare.
 
 Le scritture patrimoniali devono consentire la dimostrazione dello stato dei beni di cui all'articolo 18.
+
+3.
+                    
+                        
+                            Il sistema di scritture del CLL si compone dei seguenti registri: 
+ 
+                        
+                        
+                            a)
+                            
+                                un partitario delle entrate, contenente per ciascun capitolo lo stanziamento iniziale e le variazioni, le somme accertate, quelle riscosse e quelle rimaste da riscuotere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un partitario delle spese, contenente per ciascun capitolo lo stanziamento iniziale e le variazioni, le somme impegnate e quelle rimaste da pagare; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un partitario dei residui, contenente per ciascun capitolo e per esercizio di provenienza, la consistenza dei residui all'inizio dell'esercizio, le somme riscosse e pagate, le somme rimaste da riscuotere e da pagare; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un giornale cronologico sia per le reversali che per i mandati emessi, con indicazioni separate delle riscossioni e dei pagamenti in conto residui; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i registri degli inventari.
 
 Le scritture contabili di cui al comma 3, lettere d) ed e), sono effettuate su registri numerati e vidimati dal direttore. Anche nell'ipotesi di scritture tenute con l'utilizzazione di sistemi di elaborazione automatica dei dati e' comunque garantita l'inalterabilita' dei dati archiviati.
 

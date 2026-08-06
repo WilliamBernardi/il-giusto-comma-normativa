@@ -8,8 +8,8 @@ codice_redazionale: 094G0022
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,6 +39,87 @@ Le amministrazioni che intendono attribuire un incarico ad un avvocato o ad un p
 
 ## Art. 3. — Incarichi consentiti
 
+1.
+                    
+                        
+                            Sono consentiti agli avvocati e procuratori dello Stato:
+ 
+                        
+                        
+                            a)
+                            
+                                incarichi presso la Presidenza della Repubblica, il Parlamento, la Corte costituzionale, la Presidenza del Consiglio dei Ministri, i Ministeri, altri organi di rilevanza costituzionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                incarichi di consulenza e collaborazione con organi regionali e con enti che sono ammessi ad avvalersi del patrocinio dell'Avvocatura dello Stato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cariche e incarichi presso autorita' amministrative indipendenti, ovvero presso soggetti, enti e istituzioni che svolgono compiti di alta amministrazione e di garanzia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                incarichi presso enti e organismi internazionali o sovranazionali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                incarichi di insegnamento di livello universitario o post-universitario, ovvero incarichi di analoga rilevanza presso pubbliche amministrazioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                incarichi di studio, di ricerca, di collaborazione scientifica o culturale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                funzioni di giudice unico o di componente di collegi giudicanti, nonche' funzioni inquirenti o requirenti nell'ambito della giustizia sportiva;
+
+                            
+                        
+                        
+                            h)
+                            
+                                funzioni di presidente o di componente, designato dal soggetto pubblico, di collegi arbitrali in controversie in cui almeno una delle parti sia un soggetto pubblico;
+
+                            
+                        
+                        
+                            i)
+                            
+                                incarichi previsti da leggi con specifico riferimento agli avvocati e procuratori dello Stato in genere;
+
+                            
+                        
+                        
+                            l)
+                            
+                                altri incarichi previsti da leggi dello Stato il cui conferimento sia giustificato da particolari e motivate esigenze di garanzia;
+
+                            
+                        
+                        
+                            m)
+                            
+                                incarichi di temporanea o straordinaria sostituzione di organi elettivi degli enti locali e degli organi ordinari di amministrazione di enti pubblici, con funzione di garanzia.
+
 Gli incarichi di cui al comma 1 possono essere attribuiti anche su indicazione nominativa dell'amministrazione richiedente, in base a motivate ragioni, previo consenso dell'avvocato o procuratore dello Stato interessato. La chiamata nominativa e' comunque esclusa per gli incarichi di presidente e di componente di collegi arbitrali, salvo che la designazione provenga dal presidente del tribunale civile ovvero da concorde indicazione delle parti o degli altri arbitri, nonche' per gli incarichi in commissioni di concorso, commissioni di disciplina e similari.
 
 ## Art. 4. — Incarichi attribuiti in casi di urgenza
@@ -50,6 +131,52 @@ Nei casi di particolare e motivata urgenza che rendano indifferibile la designaz
 Gli avvocati e i procuratori dello Stato designati o autorizzati allo svolgimento degli incarichi previsti dal presente regolamento hanno il dovere di curare che ogni attivita' sia svolta in modo che non arrechi pregiudizio alla loro posizione, alle loro funzioni e al prestigio dell'Avvocatura dello Stato.
 
 In ogni caso sono vietati incarichi non confacenti al decoro e alla dignita' degli avvocati e procuratori dello Stato.
+
+3.
+                    
+                        
+                            Fatte salve le incompatibilita' espressamente sancite da norme di legge, sono vietati agli avvocati e procuratori dello Stato:
+ 
+                        
+                        
+                            a)
+                            
+                                incarichi di consulenza o collaborazione svolti in favore di soggetti privati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                partecipazione a commissioni di collaudo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                partecipazione a commissioni di gara, di aggiudicazione o comunque attinenti a procedure finalizzate alla scelta del contraente o del concessionario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipazione a commissioni o comitati di vigilanza sull'esecuzione di piani, programmi, interventi, finanziamenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                partecipazione a consigli di amministrazione o ad organi con poteri di gestione, esclusi i casi di cui all'art. 3, comma 1, lettera c), ed esclusa la partecipazione gratuita a organi di enti con finalita' culturali, scientifiche, sportive, di beneficenza, di volontariato o altri organismi con finalita' non di lucro;
+
+                            
+                        
+                        
+                            f)
+                            
+                                partecipazione a collegi sindacali o di revisori dei conti, salvi casi espressamente previsti da leggi dello Stato, quelli di cui all'art. 3, comma 1, lettera b), ed esclusa la partecipazione gratuita ad organi di enti con finalita' culturali, scientifiche, sportive, di beneficenza, di volontariato o altri organismi con finalita' non di lucro.
 
 ## Art. 6. — Conferimento e autorizzazione degli incarichi
 

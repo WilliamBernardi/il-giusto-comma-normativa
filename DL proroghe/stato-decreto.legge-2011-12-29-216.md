@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2023-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -92,6 +92,31 @@ All'articolo 7, comma 1, del decreto-legge 30 dicembre 2009, n. 195, convertito,
 
 ## Art. 6. — Proroga dei termini in materia di lavoro
 
+1.
+                    
+                        
+                            All'articolo 19 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera c), le parole: "per il triennio 2009-2011" sono sostituite dalle seguenti: "per gli anni 2009, 2010, 2011 e 2012 nel limite di spesa per il 2012 pari a euro 12 milioni"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1-ter, le parole "biennio 2009-2010" sono sostituite dalle seguenti: "quadriennio 2009-2012"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole: "per il biennio 2010-2011" sono sostituite dalle seguenti: "per gli anni 2009, 2010, 2011 e 2012 nel limite di spesa per il 2012 pari a euro 13 milioni".
+
 I termini di cui all'articolo 70, commi 1, secondo periodo, e 1-bis, del decreto legislativo 10 settembre 2003, n. 276, e successive modificazioni, come prorogati ai sensi dell'articolo 1, commi 1 e 2, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, e dal decreto del Presidente del Consiglio dei Ministri 25 marzo 2011, recante ulteriore proroga di termini relativa al Ministero del lavoro e delle politiche sociali, pubblicato nella Gazzetta Ufficiale n. 74 del 31 marzo 2011, sono prorogati fino al 31 dicembre 2012.
 
 La scadenza dell'articolo 1-bis, comma 1, del decreto-legge 1º luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, e dei decreti adottati ai sensi del medesimo articolo 1-bis e' fissata al 31 dicembre 2012. (5) (8) (13)
@@ -103,6 +128,25 @@ All'articolo 24, comma 14, lettera c), del decreto-legge 6 dicembre 2011, n. 201
 ((COMMA ABROGATO DAL D.LGS. 22 GENNAIO 2016, N. 10)).
 
 Fino al 31 maggio 2012, in parziale deroga all'articolo 29, comma 1, lettera c), del decreto legislativo 23 giugno 2011, n. 118, le regioni non assoggettate a piano di rientro possono procedere al ripiano del disavanzo sanitario maturato al 31 dicembre 2011 anche con la vendita di immobili.
+
+2-septies.
+                    
+                        
+                            All'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 14, dopo la lettera e) e' aggiunta la seguente: 
+ "e-bis) ai lavoratori che alla data del 31 ottobre 2011 risultano essere in congedo per assistere figli con disabilita' grave ai sensi dell'articolo 42, comma 5, del testo unico di cui al decreto legislativo 26 marzo 2001, n. 151, i quali maturino, entro ventiquattro mesi dalla data di inizio del predetto congedo, il requisito contributivo per l'accesso al pensionamento indipendentemente dall'eta' anagrafica di cui all'articolo 1, comma 6, lettera a), della legge 23 agosto 2004, n. 243, e successive modificazioni"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 15, primo periodo, le parole: "in 240 milioni di euro per l'anno 2013, 630 milioni di euro per l'anno 2014," sono sostituite dalle seguenti: "in 245 milioni di euro per l'anno 2013, 635 milioni di euro per l'anno 2014,".
 
 Agli oneri derivanti dal comma 2-septies, pari a 5 milioni di euro per ciascuno degli anni 2013 e 2014, si provvede mediante corrispondente riduzione delle proiezioni, per i medesimi anni, dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2012-2014, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2012, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero del lavoro e delle politiche sociali.
 
@@ -146,6 +190,41 @@ All'articolo 1, comma 1, del decreto-legge 28 aprile 2010, n. 63, convertito, co
 
 ## Art. 8. — Proroga di termini previsti da disposizioni legislative di interesse della Difesa
 
+1.
+                    
+                        
+                            
+                                ((Al codice dell'ordinamento militare, di cui al decreto)) legislativo 15 marzo 2010, n. 66, sono apportate le seguenti modificazioni: 
+ ((0a) all'articolo 1476, commi 2 e 3, le parole: "ufficiali, sottufficiali e volontari", ovunque ricorrono, sono sostituite dalle seguenti: "A) ufficiali, B) marescialli/ispettori, C) sergenti/sovrintendenti e D) graduati/militari di truppa, fermo restando il numero complessivo dei rappresentanti"; 
+ 01a) all'articolo 1477, comma 3, le parole: "immediatamente rieleggibili una sola volta" sono sostituite dalle seguenti: "rieleggibili due sole volte")); 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2214, comma 1, le parole: "per gli anni dal 2001 al 2011" sono sostituite dalle seguenti: "per gli anni dal 2001 al 2012"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2223, comma 1, le parole: "dal 2012" e "Fino al 2011" sono sostituite, rispettivamente, dalle seguenti:"dal 2013" e "Fino al 2012"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 2243, comma 1, le parole: "sino al 31 dicembre 2012" sono sostituite dalle seguenti: "sino al 31 ((dicembre 2015))". 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                all'articolo 2257, comma 1, le parole: "30 luglio 2011" sono sostituite dalle seguenti: "30 maggio 2012";
+
 All'articolo 4, comma 9, del decreto-legge 3 giugno 2008, n. 97, convertito, con modificazioni, dalla legge 2 agosto 2008, n. 129, le parole: "2011-2012" sono sostituite dalle seguenti: "2013-2014".
 
 Dall'attuazione delle disposizioni di cui ai commi 1 e 2 non devono derivare nuovi o maggiori oneri ((a carico della finanza pubblica)).
@@ -184,12 +263,48 @@ Al fine di completare il processo di riorganizzazione dell'Agenzia italiana del 
 
 Al fine di assicurare la prosecuzione delle attivita' di cura, formazione e ricerca sulle malattie ematiche svolte, sia a livello nazionale che internazionale, dalla Fondazione Istituto mediterraneo di ematologia (IME), di cui all'articolo 2, comma 2, del decreto-legge 23 aprile 2003, n. 89, convertito, con modificazioni, dalla legge 20 giugno 2003, n. 141, la spesa prevista per ciascuno degli anni 2010, 2011 e 2012, ai sensi della finalizzazione prevista nell'elenco n. 1 di cui all'articolo 2, comma 250, della legge 23 dicembre 2009, n. 191, e' autorizzata anche per gli anni 2013, 2014 e 2015, nel limite di 5 milioni di euro per ciascuno dei medesimi anni, al fine di dare continuita' ai progetti di ricerca e alle attivita' soprattutto nei confronti di organismi e enti internazionali. Resta fermo quanto previsto dal citato articolo 2, comma 250, per la destinazione delle risorse.
 
+5-quater.
+                    
+                        
+                            All'onere derivante dal comma 5-ter, pari a 5 milioni di euro per ciascuno degli anni 2013, 2014 e 2015, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a 3 milioni di euro, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, relativa al Fondo per interventi strutturali di politica economica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a 2 milioni di euro, mediante riduzione degli stanziamenti relativi alle spese rimodulabili di parte corrente di cui all'articolo 21, comma 5, lettera b), della legge 31 dicembre 2009, n. 196, dei programmi del Ministero della salute.
+
 ------------
                         AGGIORNAMENTO (2)
                         
  Il D.L. 28 giugno 2012, n. 89, convertito, con modificazioni, dalla L. 7 agosto 2012, n. 132, ha disposto (con l'art. 1, comma 1) che "Il termine del 30 giugno 2012 di cui all'articolo 10, commi 2 e 3, del decreto-legge 29 dicembre 2011, n. 216, convertito, con modificazioni, dalla legge 24 febbraio 2012, n. 14, e' ulteriormente prorogato al 31 dicembre 2012".
 
 ## Art. 11. — Proroga di termini in materia di infrastrutture e trasporti
+
+1.
+                    
+                        
+                            All'articolo 5, del decreto-legge 30 dicembre 2009, n. 194, convertito, con modificazioni, dalla legge 26 febbraio 2010, n. 25 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                LETTERA SOPPRESSA DALLA L. 24 FEBBRAIO 2012, N. 14; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 7-duodecies, le parole: "per gli anni 2010 e 2011" sono sostituite dalle seguenti: " per gli anni 2010, 2011 e 2012 ".
 
 All'articolo 3 comma 2, del decreto legislativo 9 maggio 2005, n. 96, e successive modificazioni, le parole: "31 dicembre 2010" sono sostituite dalle seguenti: "30 giugno 2012". Il termine del 30 giugno 2012, di cui all'articolo 3, comma 2, del decreto legislativo 9 maggio 2005, n. 96, come modificato dal presente comma, e' prorogato al 31 dicembre 2012 per gli aeroporti che, pur in presenza di perdite di esercizio pregresse, presentino un piano da cui risultino, nel rispetto delle disposizioni di cui all'articolo 6, comma 19, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, il riequilibrio economico-finanziario della gestione e il raggiungimento di adeguati indici di solvibilita' patrimoniale. Entro il predetto termine si provvede all'individuazione degli aeroporti e dei sistemi aeroportuali di interesse nazionale, di cui all'articolo 698 del codice della navigazione. All'articolo 3, comma 2, del decreto legislativo 9 maggio 2005, n. 96, al primo periodo, le parole: "da effettuare entro centoventi giorni dalla data di entrata in vigore del presente decreto legislativo," sono soppresse.
 
@@ -365,7 +480,81 @@ Al fine di continuare a garantire il controllo sulla ordinaria amministrazione e
 
 ## Art. 19. — Proroga dei termini per l'emanazione di provvedimenti in materia di adeguamento e armonizzazione dei sistemi contabili
 
+1.
+                    
+                        
+                            Al decreto legislativo 31 maggio 2011, n. 91, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 4, comma 3, le parole: "centottanta giorni dalla data di entrata in vigore del presente decreto" sono sostituite dalle seguenti: "il 31 dicembre 2012"; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 8, comma 7, le parole: "((centoventi giorni dalla data di entrata in vigore del presente decreto))" sono sostituite dalle seguenti: "il 31 dicembre 2012"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 11, comma 3, le parole: "((centoventi giorni dalla data di entrata in vigore del presente decreto))" sono sostituite dalle seguenti: "il 31 dicembre 2012"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 11, comma 4, le parole: "((centottanta giorni dalla data di entrata in vigore del presente decreto))" sono sostituite dalle seguenti: "il 31 dicembre 2012"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 12, ((comma 1,)) le parole: "((novanta giorni dall'entrata in vigore del presente decreto))" sono sostituite dalle seguenti: "il 31 dicembre 2012"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 14, comma 2, le parole: "entro novanta giorni ((dall'entrata in vigore)) del presente decreto" sono sostituite dalle seguenti: "entro il 31 dicembre 2012"; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 16, comma 2, le parole: "((novanta giorni dalla data di entrata in vigore del presente decreto))" sono sostituite dalle seguenti: "il 31 dicembre 2012"; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 18, comma 1, le parole: "((centottanta giorni dalla data di entrata in vigore del presente decreto))" sono sostituite dalle seguenti: "il 31 dicembre 2012"; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                all'articolo 23, comma 1, le parole: "31 dicembre 2011" sono sostituite dalle seguenti: "((31 dicembre 2012))"; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'articolo 25, comma 1, le parole: "((novanta giorni dalla data di entrata in vigore del presente decreto))" sono sostituite dalle seguenti: " il 31 dicembre 2012"e le parole: "a partire dal 2012" sono sostituite dalle seguenti: "a partire dal 2013".
+
+((1-bis. All'articolo 6, comma 2, primo periodo, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189, dopo le parole: "legge 27 dicembre 2006, n. 296" sono aggiunte le seguenti: ", e, fino al 31 dicembre 2012, per le finalita' previste dall'articolo 5-bis, comma 1, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, limitatamente alle risorse del Fondo per lo sviluppo e la coesione, di cui all'articolo 4 del decreto legislativo 31 maggio 2011, n. 88"))
 
 ## Art. 20. — ((Conservazione di somme iscritte nel conto della competenza e dei residui per l'anno 2011 sul Fondo per il 5 per mille del gettito dell'IRPEF, nonche' conservazione di somme iscritte nel conto della competenza per l'anno 2011 per canoni di locazione e per la revisione del trattamento economico dei ricercatori non confermati a tempo indeterminato nel primo anno di attivita'))
 
@@ -450,6 +639,26 @@ Al relativo onere si provvede mediante riduzione dell'autorizzazione di spesa pr
 
 ((
 
+1.
+                    
+                        
+                            L'impegno di spesa di cui all'articolo 4 della legge 6 febbraio 2009, n. 7, e' prorogato alle medesime condizioni per l'anno 2012. A tal fine, al comma 2, lettera b), dell'articolo 3 della legge 6 febbraio 2009, n. 7, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il numero 1) e' inserito il seguente: 
+ "1-bis) 7,5 per mille per l'esercizio che inizia successivamente al 31 dicembre 2011"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al numero 2), la parola: "2011" e' sostituita dalla seguente:
+"2012".
+
 Ai fini della determinazione della misura dell'acconto dell'addizionale all'imposta sul reddito delle societa' dovuto per l'anno 2012 si tiene conto della disposizione di cui all'articolo 3, comma 2, lettera b), numero 1-bis), della legge 6 febbraio 2009, n. 7, introdotta dal comma 1 del presente articolo.
 
 3. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio))
@@ -502,6 +711,24 @@ Per le finalita' di cui all'articolo 4, comma 1-quinquies, del decreto-legge 25 
 
 Alla lettera a) del comma 5 dell'articolo 2 del decreto legislativo 26 novembre 2010, n. 216, le parole: "nel 2011" sono sostituite dalle seguenti: "entro il 30 aprile 2012".
 
+2.
+                    
+                        
+                            L'applicazione delle disposizioni dell'articolo 2, comma 6, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, decorre: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal 1° gennaio 2012 con riferimento agli interessi e agli altri proventi derivanti da conti correnti e depositi bancari e postali, anche se rappresentati da certificati, maturati a partire dalla predetta data; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal giorno successivo alla data di scadenza del contratto di pronti contro termine stipulato anteriormente al 1° gennaio 2012 e avente durata non superiore a 12 mesi, relativamente ai redditi di cui all'articolo 44, comma 1, lettera g-bis), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, e agli interessi ed altri proventi delle obbligazioni e titoli similari di cui al decreto legislativo 1° aprile 1996, n. 239.
+
 L'applicazione delle disposizioni di cui al comma 13, lettera a), numeri 1) e 2) e al comma 25, lettera b), dell'articolo 2 del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, decorre dal 1° gennaio 2012 con riferimento agli interessi e proventi maturati a partire dalla predetta data.
 
 All'articolo 3, comma 12, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, le parole: «30 settembre 2009» sono sostituite dalle seguenti: «31 dicembre 2010» e le parole: «30 settembre 2012» sono sostituite dalle seguenti: «31 dicembre 2013».
@@ -511,6 +738,24 @@ All'articolo 36, commi 4-quinquies e 4-sexies, del decreto-legge 31 dicembre 200
 L'abrogazione delle disposizioni previste dall'articolo 7, comma 2, lettera gg-septies), numeri 1) e 3), del decreto-legge 13 maggio 2011, n. 70, convertito, con modificazioni, dalla legge 12 luglio 2011, n. 106, acquista efficacia a decorrere dalla data di applicazione delle disposizioni di cui alle lettere gg-ter) e gg-quater) del medesimo comma 2.
 
 All'articolo 23, comma 23, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, le parole: "novanta giorni dalla data di entrata in vigore del presente decreto" sono sostituite dalle seguenti: "il 31 marzo 2012".
+
+6-bis.
+                    
+                        
+                            All'articolo 1, comma 1324, della legge 27 dicembre 2006, n. 296, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "e 2011" sono sostituite dalle seguenti: ", 2011 e 2012"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' aggiunto, in fine, il seguente periodo: "La detrazione relativa all'anno 2012 non rileva ai fini della determinazione dell'acconto IRPEF per l'anno 2013".
 
 Alla copertura finanziaria degli oneri derivanti dalle disposizioni di cui al comma 6-bis, pari a 1,3 milioni di euro per l'anno 2012 e a 4,7 milioni di euro per l'anno 2013, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2012-2014, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2012, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero del lavoro e delle politiche sociali.
 
@@ -536,6 +781,24 @@ Il termine del 31 dicembre 2011, previsto dalla Tabella 1 allegata al decreto de
 
 A decorrere dal 1º marzo 2012, il termine di pagamento dell'imposta unica sulle scommesse ippiche e sulle scommesse su eventi diversi dalle corse dei cavalli e' stabilito al 20 dicembre dello stesso anno e al 31 gennaio dell'anno successivo, con riferimento all'imposta unica dovuta rispettivamente per il periodo da settembre a novembre e per il mese di dicembre, nonche' al 31 agosto e al 30 novembre con riferimento all'imposta unica dovuta rispettivamente per i periodi da gennaio ad aprile e da maggio ad agosto dello stesso anno. All'onere derivante dal presente comma, pari a 4 milioni di euro per l'anno 2012, si provvede mediante corrispondente riduzione della autorizzazione di spesa di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, relativa al Fondo per interventi strutturali di politica economica.
 
+13.
+                    
+                        
+                            All'articolo 24 del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 34, le parole: "entro il 30 novembre 2011" sono sostituite dalle seguenti: "entro il 30 giugno 2012"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 37, le parole: "entro il 30 ottobre 2011" sono sostituite dalle seguenti: "entro il 30 giugno 2012".
+
 In deroga a quanto stabilito dall'articolo 3, comma 1, della legge 27 luglio 2000, n. 212, per l'anno di imposta 2011 il termine per deliberare l'aumento o la diminuzione dell'aliquota dell'addizionale regionale all'IRPEF e' prorogato al 31 dicembre 2011; in ogni caso l'aumento o la diminuzione si applicano sull'aliquota di base dell'1,23 per cento e le maggiorazioni gia' vigenti alla data di entrata in vigore del presente decreto si intendono applicate sulla predetta aliquota di base dell'1,23 per cento.
 
 Nel limite massimo di spesa di 70 milioni di euro per l'anno 2011, e' disposta nei confronti dei soggetti interessati dalle eccezionali avversita' atmosferiche verificatesi nel mese di ottobre 2011 nel territorio delle province di La Spezia e Massa Carrara e nei giorni dal 4 all'8 novembre 2011 nel territorio della provincia di Genova e di quella di Livorno, nonche' nel territorio del comune di Ginosa e nel territorio della provincia di Matera, la proroga al 16 luglio 2012 dei termini degli adempimenti e versamenti tributari nonche' dei versamenti relativi ai contributi previdenziali ed assistenziali e dei premi per l'assicurazione obbligatoria contro gli infortuni e le malattie professionali che scadono rispettivamente nel periodo dal 1° ottobre 2011 al 30 giugno 2012 e dal 4 novembre 2011 al 30 giugno 2012. Non si fa luogo al rimborso di quanto gia' versato. Il versamento delle somme oggetto di proroga e' effettuato a decorrere dal 16 luglio 2012 in un numero massimo di sei rate mensili di pari importo. La sospensione si applica limitatamente agli adempimenti e ai versamenti tributari relativi alle attivita' svolte nelle predette aree. Con ordinanza del Presidente del Consiglio dei Ministri sono stabiliti i criteri per l'individuazione dei soggetti che usufruiscono dell'agevolazione anche ai fini del rispetto del predetto limite di spesa. A tal fine i Commissari delegati, avvalendosi dei comuni, predispongono l'elenco dei soggetti beneficiari dell'agevolazione. Agli oneri di cui al presente comma, si provvede per il 2011 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, relativo al Fondo per interventi strutturali di politica economica. Il predetto Fondo e' incrementato, per l'anno 2012, a valere sulle maggiori entrate derivanti dal presente comma, per il corrispondente importo di 70 milioni di euro.
@@ -543,6 +806,24 @@ Nel limite massimo di spesa di 70 milioni di euro per l'anno 2011, e' disposta n
 Nel rispetto del limite di spesa di cui al comma 15 e con i medesimi termini e modalita', e' altresi' disposta, nei confronti dei soggetti interessati dalle eccezionali avversita' atmosferiche verificatesi il giorno 22 novembre 2011 nel territorio della provincia di Messina, la sospensione fino al 16 luglio 2012 dei termini degli adempimenti e dei versamenti tributari, nonche' dei versamenti relativi ai contributi previdenziali e assistenziali e dei premi per l'assicurazione obbligatoria contro gli infortuni e le malattie professionali, che scadono nel periodo dal 22 novembre 2011 al 30 giugno 2012.
 
 All'articolo 1, comma 1, del decreto-legge 20 ottobre 2008, n. 158, convertito, con modificazioni, dalla legge 18 dicembre 2008, n. 199, come da ultimo modificato dall'articolo 2, comma 12-sexies, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, in materia di esecuzione dei provvedimenti di rilascio per finita locazione di immobili ad uso abitativo, le parole: «al 31 dicembre 2011» sono sostituite dalle seguenti: «al 31 dicembre 2012». Ai fini della determinazione della misura dell'acconto dell'imposta sul reddito delle persone fisiche dovuto per l'anno 2013 non si tiene conto dei benefici fiscali di cui all'articolo 2, comma 1, della legge 8 febbraio 2007, n. 9. Alle minori entrate derivanti dall'attuazione del presente comma, valutate in 3,38 milioni di euro per l'anno 2013, si provvede mediante parziale utilizzo della quota delle entrate previste, per il medesimo anno, dall'articolo 1, comma 238, secondo periodo, della legge 30 dicembre 2004, n. 311. A tal fine, dopo il secondo periodo dell'articolo 1, comma 238, della legge 30 dicembre 2004, n. 311, e' aggiunto il seguente: "La riassegnazione di cui al precedente periodo e' limitata, per l'anno 2013, all'importo di euro 8.620.000.".
+
+16-bis.
+                    
+                        
+                            Al comma 12 dell'articolo 39 del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea, le parole: "1º maggio 2011" sono sostituite dalle seguenti: "31 dicembre 2011"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera a), le parole: "30 novembre 2011" sono sostituite dalle seguenti: "31 marzo 2012".
 
 Limitatamente all'anno 2012, in deroga ai termini di cui all'articolo 24, comma 1, del decreto legislativo 30 dicembre 1992, n. 504, gli importi dei tributi regionali di cui all'articolo 23 del medesimo decreto legislativo n. 504 del 1992 sono determinati dalle regioni con propri provvedimenti approvati entro il 31 dicembre 2011.
 
@@ -555,6 +836,31 @@ Il comma 204 dell'articolo 1 della legge 24 dicembre 2007, n. 244, e' sostituito
  a) per gli anni 2008, 2009, 2010 e 2011, per l'importo eccedente 8.000 euro; 
  b) per l'anno 2012, per l'importo eccedente 6.700 euro. Ai fini della determinazione della misura dell'acconto dell'imposta sul reddito delle persone fisiche dovuto per l'anno 2013 non si tiene conto dei benefici fiscali di cui al presente comma".
 
+16-septies.
+                    
+                        
+                            Alla copertura degli oneri derivanti dalle disposizioni di cui al comma 16-sexies, pari a 24 milioni di euro per l'anno 2013, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a 14 milioni di euro, mediante utilizzo delle proiezioni, per il medesimo anno 2013, dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2012-2014, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2012, allo scopo parzialmente utilizzando, quanto a 10 milioni di euro, l'accantonamento relativo al Ministero del lavoro e delle politiche sociali e, quanto a 4 milioni di euro, l'accantonamento relativo al Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a 5 milioni di euro, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 8, comma 1, lettera b), della legge 25 marzo 1997, n. 68, come rideterminata dalla Tabella C allegata alla legge 12 novembre 2011, n. 183; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a 5 milioni di euro, mediante corrispondente riduzione delle autorizzazioni di spesa di cui alle leggi 18 dicembre 1997, n. 440, e 17 maggio 1999, n. 144, come rideterminate dalla Tabella C allegata alla legge 12 novembre 2011, n. 183.
+
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Al fine di consentire la predisposizione dei bilanci tecnici di cui all'articolo 2, comma 2, del decreto legislativo 30 giugno 1994, n. 509, alla luce di nuovi criteri da prevedere con il decreto di cui all'articolo 3, comma 12, della legge 8 agosto 1995, n. 335, e successive modificazioni, che tengano conto della nuova disciplina prevista all'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, come modificato dal presente decreto, all'alinea del comma 24 del medesimo articolo 24 del decreto-legge n. 201 del 2011, le parole: "30 giugno 2012", ovunque ricorrono, sono sostituite dalle seguenti: "30 settembre 2012".
@@ -562,6 +868,54 @@ Al fine di consentire la predisposizione dei bilanci tecnici di cui all'articolo
 Il termine del 31 dicembre 2012 previsto dall'articolo 3, comma 2-bis, lettera a), del decreto-legge 25 marzo 2010, n. 40, convertito, con modificazioni, dalla legge 22 maggio 2010, n. 73, per l'esaurimento dell'attivita' della Commissione tributaria centrale e' differito al 31 dicembre 2013; per i giudizi pendenti dinanzi alla predetta Commissione, la predetta disposizione si interpreta nel senso che, con riferimento alle sole controversie indicate nel predetto comma ed in presenza delle condizioni previste dalla predetta disposizione, nel caso di soccombenza, anche parziale, dell'amministrazione finanziaria nel primo grado di giudizio, la mancata riforma della decisione di primo grado nei successivi gradi di giudizio determina l'estinzione della controversia ed il conseguente passaggio in giudicato della predetta decisione.
 
 A decorrere dal 1º gennaio 2012, la percentuale di cui al comma 49-bis dell'articolo 31 della legge 23 dicembre 1998, n. 448, e' stabilita dai comuni.
+
+16-duodecies.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 26 novembre 2010, n. 216, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4, la parola: "2012" e' sostituita dalla seguente: "2013"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, e' abrogata la lettera a); nel medesimo comma, alla lettera b), le parole: "nel 2012" sono sostituite dalle seguenti: "entro il 31 marzo 2013".
+
+16-terdecies.
+                    
+                        
+                            La possibilita' per le imprese assicurative di valutare i titoli emessi da Stati dell'Unione europea al valore di iscrizione in bilancio, anche ai fini del calcolo della solvibilita', e' prorogata fino all'entrata in vigore delle disposizioni di attuazione della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009. A tal fine e conseguentemente, all'articolo 15 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 13, dopo le parole: "i soggetti che non adottano i principi contabili internazionali," sono inserite le seguenti: "diversi dalle imprese di cui all'articolo 91, comma 2, del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209,"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 14, 15, 15-bis e 15-ter sono abrogati a far data dall'esercizio 2012; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 15-ter, sono inseriti i seguenti: 
+ "15-quater. Considerata l'eccezionale e prolungata situazione di turbolenza nei mercati finanziari, le imprese di cui all'articolo 91, comma 2, del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, a partire dall'esercizio 2012 e fino all'entrata in vigore delle disposizioni di attuazione della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, in materia di accesso ed esercizio delle attivita' di assicurazione e riassicurazione, possono valutare i titoli di debito emessi o garantiti da Stati dell'Unione europea non destinati a permanere durevolmente nel proprio patrimonio in base al valore di iscrizione cosi' come risultante dall'ultimo bilancio o, ove disponibile, dall'ultima relazione semestrale regolarmente approvati anziche' al valore desumibile dall'andamento del mercato, fatta eccezione per le perdite di carattere durevole. Le imprese applicano le disposizioni di cui al presente comma previa verifica della coerenza con la struttura degli impegni finanziari connessi al proprio portafoglio assicurativo. 
+ 15-quinquies. Le imprese di cui all'articolo 91, comma 2, del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, che si avvalgono della facolta' di cui al comma 15-quater, destinano a una riserva indisponibile utili di ammontare corrispondente alla differenza tra i valori registrati in applicazione delle disposizioni di cui al comma 15-quater, e i valori di mercato alla data di chiusura dell'esercizio, al netto del relativo onere fiscale. In caso di utili di importo inferiore a quello della citata differenza, la riserva e' integrata utilizzando riserve di utili disponibili o, in mancanza, mediante utili di esercizi successivi. 
+ 15-sexies. Ferme restando le disposizioni di cui ai commi 15-quater e 15-quinquies, le imprese di cui all'articolo 210, commi 1 e 2, del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, ai fini della verifica della solvibilita' corretta di cui al capo IV del titolo XV del medesimo codice, a partire dall'esercizio 2012 e fino all'entrata in vigore delle disposizioni di attuazione della citata direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, possono tener conto del valore di iscrizione nel bilancio individuale delle imprese di assicurazione italiane dei titoli di debito emessi o garantiti da Stati dell'Unione europea destinati a permanere durevolmente nel proprio patrimonio. Gli effetti derivanti dall'applicazione del presente comma non sono duplicabili con altri benefici che direttamente o indirettamente incidono sul calcolo della solvibilita' corretta. 
+ 15-septies. Le imprese di cui all'articolo 210, commi 1 e 2, del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, assicurano la permanenza nel gruppo di risorse finanziarie corrispondenti alla differenza di valutazione conseguente all'applicazione del comma 15-sexies. 
+ 15-octies. L'ISVAP disciplina con regolamento modalita' e condizioni di attuazione delle disposizioni di cui ai commi 15-quater, 15-quinquies, 15-sexies e 15-septies. Fermi restando gli effetti conseguenti all'esercizio delle opzioni di cui ai commi 15-quater e 15-sexies, l'ISVAP, ove ravvisi un possibile pregiudizio per la solvibilita' dell'impresa che si avvale delle citate opzioni avuto riguardo alle caratteristiche specifiche degli impegni del portafoglio assicurativo dell'impresa stessa oppure alla struttura dei flussi di cassa attesi, puo' comunque attivare gli strumenti di vigilanza di cui ai titoli XIV, XV e XVI del citato codice di cui al decreto legislativo 7 settembre 2005, n. 209, nonche' emanare, a fini di stabilita', disposizioni di carattere particolare aventi ad oggetto il governo societario, i requisiti generali di organizzazione, i sistemi di remunerazione e, ove la situazione lo richieda, adottare provvedimenti restrittivi o limitativi concernenti la distribuzione degli utili o di altri elementi del patrimonio".
 
 ## Art. 29-bis. — (( (Liquidazione dell'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e in Lucania). 
  

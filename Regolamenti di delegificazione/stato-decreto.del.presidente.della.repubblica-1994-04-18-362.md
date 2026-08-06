@@ -8,8 +8,8 @@ codice_redazionale: 094G0368
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,59 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 L'istanza per l'acquisto o la concessione della cittadinanza italiana, di cui all'articolo 7 ed all'articolo 9 della legge 5 febbraio 1992, n. 91, si presenta al prefetto competente per territorio in relazione alla residenza dell'istante, ovvero, qualora ne ricorrano i presupposti, all'autorita' consolare.
 
 Nell'istanza devono essere indicati i presupposti in base ai quali l'interessato ritiene di aver titolo all'acquisto o alla concessione della cittadinanza.
+
+3.
+                    
+                        
+                            L'istanza dev'essere corredata della seguente documentazione, in forma autentica: 
+ 
+                        
+                        
+                            a)
+                            
+                                estratto dell'atto di nascita, o equivalente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stato di famiglia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione relativa alla cittadinanza dei genitori, limitatamente all'ipotesi in cui trattisi di elemento rilevante per l'acquisto della cittadinanza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificazioni dello Stato estero, o degli Stati esteri, di origine e di residenza, relative ai precedenti penali ed ai carichi penali pendenti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                certificato penale dell'autorita' giudiziaria italiana; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                certificato di residenza; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                copia dell'atto di matrimonio o estratto per riassunto del registro dei matrimoni, limitatamente all'ipotesi di acquisto della cittadinanza per matrimonio.
 
 Ai fini della concessione, di cui all'articolo 9 della legge 5 febbraio 1992, n. 91, il Ministro dell'interno e' autorizzato ad emanare, con proprio decreto, disposizioni concernenti l'allegazione di ulteriori documenti.
 

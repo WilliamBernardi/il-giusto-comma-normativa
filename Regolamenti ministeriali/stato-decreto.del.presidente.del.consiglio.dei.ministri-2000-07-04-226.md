@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -29,6 +29,49 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro della pubblica istruzione, di concerto con il Ministro dell'interno;
 
 ## Art. 1. — Conferma delle disposizioni relative alla fornitura gratuita o semigratuita di libri di testo
+
+1.
+                    
+                        
+                            Ai sensi degli articoli 53, comma 1 e 70, comma 3 della legge 23 dicembre 1999, n. 488, le disposizioni di cui al decreto del Presidente del Consiglio dei Ministri 5 agosto 1999, n. 320, citato in premessa, e le allegate tabelle sono confermate, con le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4 dell'articolo 1, dopo la parola "decreto." sono aggiunte le seguenti: 
+ "Ai fini dell'erogazione del beneficio il comune puo' avvalersi della collaborazione delle scuole"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 dell'articolo 2, alla lettera c), dopo la parola "familiare" sono inserite le seguenti: 
+ "esclusi il coniuge ed i figli,"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il primo comma dell'articolo 3 e' inserito il seguente: 
+ "1-bis. Ai fini della ripartizione di cui al comma 1, le somme indicate nelle predette tabelle si intendono modificate in relazione agli ultimi dati disponibili rilevati dall'ISTAT ed in proporzione alle disponibilita' annuali iscritte nello stato di previsione del Ministero dell'interno."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai commi 2 e 4 dell'articolo 3, le parole "30 settembre 1999" sono sostituite dalle seguenti: 
+ "15 luglio"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 3 dell'articolo 3, le parole "In considerazione dei tempi eccezionalmente ristretti a disposizione," sono soppresse.((1))
 
 Per l'anno 2000, sono confermati i piani di riparto di cui alle tabelle A (1) e A (2) allegate al citato decreto del Presidente del Consiglio dei Ministri 5 agosto 1999, n. 320, nonche', ove le regioni non provvedano all'adempimento di cui all'art. 3, comma 2, del medesimo decreto, il piano di riparto adottato per l'anno 1999 dal Ministero dell'interno in attuazione del comma 4 del predetto articolo 3. ((1))
 

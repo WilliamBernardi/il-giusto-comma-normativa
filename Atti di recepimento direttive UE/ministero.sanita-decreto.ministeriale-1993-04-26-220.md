@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2008-11-22
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO MINISTERIALE
@@ -91,6 +91,400 @@ L'art. 10 del decreto ministeriale 21 marzo 1973 e' sostituito dal seguente:
  "Art. 10.- 1. Le resine di cui all'allegato II, sezione 1 devono rispondere ai saggi indicati nell'allegato IV, sezione 2 e sezione 3, e comunque non devono cedere sostanze ritenute nocive alla salute, come taluni monomeri, composti a basso peso molecolare, intermedi, catalizzatori, solventi, agenti emulsionanti".
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Le dizioni di cui ai punti 
+                        
+                        
+                            a)
+                            
+                                e
+                            
+                        
+                        
+                            b)
+                            
+                                dell'art. 27, primo comma, del decreto ministeriale 21 marzo 1973 sono sostituite dalle seguenti: 
+ " a) nel caso di imballaggi per alimenti per i quali sono previste prove di migrazione; 
+ b) nel caso di imballaggi per alimenti per i quali non sono previste prove di migrazione. 
+ 2. Nell'allegato II del decreto ministeriale 21 marzo 1973 le condizioni, limitazioni e tolleranze d'impiego, per le sostanze di seguito elencate, sono sostituite dalle seguenti: 
+ "Sezione 1: MATERIE PLASTICHE 
+Parte A: Resine 
+ Condizioni, limitazioni e 
+ tolleranze d'impiego. 
+Alcool polivinilico 
+ Se presente negli oggetti 
+ finiti in quantita' superiore 
+ al 2% non puo' essere 
+ impiegato per alimenti per i 
+ quali e' previsto l'impiego 
+ dei simulanti A o B. 
+Copolimeri di cloruro di vinile con 
+acetato di vinile modificato con 
+anidride maleica e con alcool 
+polivinilico 
+ Se presente alcool 
+ polivinilico libero nella 
+ resina in quantita' superiore 
+ al 2%, questa non puo' essere 
+ impiegata per alimenti per i 
+ quali e' previsto l'impiego 
+ del simulante A o B. 
+Copolimeri di due o piu' dei 
+seguenti composti: alcooli allilico 
+e polivinilico 
+ Se presente alcool 
+ polivinilico libero nella 
+ resina, in quantita' 
+ superiore al 2%, questa non 
+ puo' essere impiegata per 
+ alimenti per i quali e' 
+ previsto l'impiego del 
+ simulante A o B. 
+Parte B: Additivi per materie 
+plastiche 
+ Condizioni, limitazioni e 
+ tolleranze d'impiego. 
+Dibutile ftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito non per alimenti per i 
+ quali e' previsto l'impiego 
+ del simulante D. 
+Dicicloesile ftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito non per alimenti per i 
+ quali e' previsto l'impiego 
+ del simulante D. 
+Dietile ftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito non per alimenti per i 
+ quali e' previsto l'impiego 
+ del simulante D. 
+Di-2-etilesile adipato 
+ Solamente per acqua, ghiaccio 
+ e ghiaccioli e per ortaggi e 
+ frutta freschi, secchi, 
+ congelati e surgelati, per 
+ funghi freschi e secchi e per 
+ tartufi; nel caso di capsule, 
+ guarnizioni e simili, 
+ limitatamente agli alimenti 
+ per i quali e' previsto 
+ l'impiego del simulante A e D 
+ (con esclusione di carne e 
+ derivati e latte e derivati) 
+ del simulante C e quelli per 
+ i quali non sono previste 
+ prove di migrazione. 
+Di 2 etilesil-ftalato 
+ Solamente per acqua, ghiaccio 
+ e ghiaccioli e per ortaggi e 
+ frutta freschi, secchi, 
+ congelati e surgelati, per 
+ funghi freschi e secchi e per 
+ tartufi; nel caso di capsule, 
+ guarnizioni e simili, 
+ limitatamente agli alimenti 
+ per i quali e' previsto 
+ l'impiego dei simulanti A e D 
+ (con esclusione di carne e 
+ derivati e latte e derivati) 
+ del simulante C e quelli per 
+ i quali non sono previste 
+ prove di migrazione. 
+Di-isononile-ftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito non per alimenti per i 
+ quali e' previsto l'impiego 
+ del simulante D. 
+Di n-esile azelato 
+ Non per alimenti per i quali 
+ e' previsto l'impiego del 
+ simulante D. 
+Di-isodecile-ftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito non per alimenti per i 
+ quali e' previsto l'impiego 
+ del simulante D. 
+Dimetilcicloesileftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito non per alimenti per i 
+ quali e' previsto l'impiego 
+ del simulante D. 
+Dimetossietileftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito non per alimenti per i 
+ quali e' previsto l'impiego 
+ del simulante D. 
+Estere di glicol dietilenico con 
+acido stearico 
+ Per alimenti per i quali non 
+ sono previste prove di 
+ migrazione. 
+Estere glicolico dell'acido 3,3-bis 
+(4 - idrossi-3'-terz.butilfenil) 
+butirrico 
+ Per polietilene: in quantita' 
+ non superiore allo 0,5% sulla 
+ materia plastica per alimenti 
+ per i quali e' previsto 
+ l'impiego dei simulanti A, B, 
+ C e per alimenti per i quali 
+ non sono previste prove di 
+ cessione; in quantita' non 
+ superiori allo 0,2% per 
+ alimenti per i quali e' 
+ previsto l'impiego di 
+ simulanti A, B, D non 
+ soggetti a sterilizzazione. 
+ Per polipropilene: in 
+ quantita' non superiore allo 
+ 0,5% sulla materia plastica 
+ per alimenti per i quali e' 
+ previsto l'impiego dei 
+ simulanti A, B, C e per 
+ alimenti per i quali non sono 
+ previste prove di cessione e 
+ per alimenti per i quali e' 
+ previsto l'impiego di 
+ simulanti A, B, D non 
+ soggetti a sterilizzazione. 
+ Per polipropilene: in 
+ quantita' non superiore allo 
+ 0,3% per alimenti per i quali 
+ e' previsto l'impiego dei 
+ simulanti A, B, D in 
+ qualsiasi condizione di 
+ temperatura. 
+Esteri di acidi grassi con 
+poliglicerolo 
+ Per films estensibili di PVC 
+ destinati al contatto con 
+ alimenti per i quali e' 
+ previsto l'impiego dei 
+ simulanti A o B. 
+Glicol dietilenico 
+ Per alimenti per i quali non 
+ sono previste prove di 
+ cessione. 
+2 idrossi-4-n-ortossibenzofenone 
+ Per polietilene e 
+ polipropilene, in quantita' 
+ non superiore a 0,5% sulla 
+ materia plastica e con 
+ esclusione dall'impiego per 
+ gli alimenti per i quali e' 
+ previsto l'impiego del 
+ simulante D o contenenti 
+ oltre il 20% di alcool 
+ etilico. 
+Sodio diottile solfosuccinato 
+ Per polietilene in quantita' 
+ non superiore all'1% ed 
+ esclusivamente in contatto 
+ con alimenti per i quali e' 
+ previsto l'impiego dei 
+ simulanti A, D e per alimenti 
+ per i quali non sono previste 
+ prove di cessione. 
+Tris (mono e/o dinonil) 
+fenilfosfito 
+ Copolimero butadiene-stirene 
+ alla dose massima di 1,5% 
+ sulla materia plastica e non 
+ per alimenti per i quali e' 
+ previsto l'impiego del 
+ simulante D. 
+1,4-diidro-2,6 - dimetil-3,5 - 
+dicarbo - dodecilossi - piridina 
+ Per polivinilcloruro e suoi 
+ copolimeri in quantita' non 
+ superiore allo 0,3% sulla 
+ materia plastica ed 
+ esclusivamente per alimenti 
+ per i quali e' previsto 
+ l'impiego del simulante A o 
+ B. 
+ Sezione 2: G O M M A 
+Parte B: Additivi per elastomeri 
+ Condizioni, limitazioni e 
+ tolleranze d'impiego. 
+Butilbenzilftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito, non per alimenti per 
+ i quali e' prevista la prova 
+ di migrazione con il 
+ simulante D. 
+Dibutilftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito, non per alimenti per 
+ i quali e' prevista la prova 
+ di migrazione con il 
+ simulante D. 
+Dietilftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito, non per alimenti per 
+ i quali e' prevista la prova 
+ di migrazione con il 
+ simulante D. 
+Di-2-etilesile adipato 
+ Solamente per acqua, 
+ ghiaccio, ghiaccioli e per 
+ ortaggi e frutta freschi, 
+ secchi e per tartufi; nel 
+ caso di capsule, guarnizioni 
+ e simili limitatamente agli 
+ alimenti per i quali e' 
+ previsto l'impiego dei 
+ simulanti A e B (con 
+ esclusione di carne e 
+ derivati, latte e derivati) 
+ del simulante C e quelli per 
+ i quali non sono previste 
+ prove di migrazione. 
+Di-2-etilesile ftalato 
+ Solamente per acqua, 
+ ghiaccio, ghiaccioli e per 
+ ortaggi e frutta freschi, 
+ secchi e per tartufi; nel 
+ caso di capsule, guarnizioni 
+ e simili limitatamente agli 
+ alimenti per i quali e' 
+ previsto l'impiego dei 
+ simulanti A e B (con 
+ esclusione di carne e 
+ derivati, latte e derivati) 
+ del simulante C e quelli per 
+ i quali non sono previste 
+ prove di migrazione. 
+Diisodecilftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito, non per alimenti per 
+ i quali e' prevista la prova 
+ di migrazione con il 
+ simulante D. 
+Diisoottilftalato 
+ Se presente in quantita' 
+ superiore al 5% sul prodotto 
+ finito, non per alimenti per 
+ i quali e' prevista la prova 
+ di migrazione con il 
+ simulante D. 
+Tris - (2,4-di-terz. butil-fenil) 
+difosfito 
+ Per gomma butadienica in 
+ quantita' non superiore allo 
+ 0,4% e non per alimenti per i 
+ quali e' previsto l'impiego 
+ dei simulanti A, B, D. 
+2,4 bis-(n-ottiltio - 6 - 
+(4'idrossi - 3', 5'-diterz. 
+butilanilino)-1,3.5-triazina 
+ Alla dose massima dello 0,5% 
+ e non per alimenti per i 
+ quali e' previsto l'impiego 
+ del simulante D. 
+ Sezione 4: CARTE E CARTONI 
+Parte A: Costituenti delle carte e 
+cartoni 
+ Condizioni, limitazioni e 
+ tolleranze d'impiego. 
+1) Materie fibrose: 
+Materie fibrose cellulosiche di 
+primo impiego, naturali 
+(meccaniche, chimiche, 
+semichimiche; gregge, bianchite, 
+semibianchite) o artificiali 
+ Per alimenti per i quali e' 
+ prevista la prova di 
+ migrazione: almeno il 75%; 
+ per alimenti per i quali non 
+ e' prevista la prova di 
+ migrazione: almeno il 60%. 
+Materie fibrose sintetiche di primo 
+impiego 
+ Non piu' del 20% sulle 
+ materie fibrose e comunque 
+ rispondenti alle norme del 
+ decreto ministeriale 21 marzo 
+ 1973 modificato per ultimo 
+ con il decreto ministeriale 
+ 30 ottobre 1991, n. 408. 
+Materie fibrose cellulosiche 
+provenienti da carte, cartoni e 
+altri manufatti cartari 
+ Soltanto per alimenti per i 
+ quali non e' prevista la 
+ prova di migrazione e a 
+ condizione che le carte e i 
+ cartoni con esse preparate 
+ corrispondano alle 
+ prescrizioni del presente 
+ decreto. 
+2) Sostanze di carica: 
+ Per alimenti per i quali e' 
+ prevista la prova di 
+ migrazione: al massimo 10%;  per alimenti per i quali non 
+ e' prevista la prova di 
+ migrazione in totale al 
+ massimo 25%. 
+3) Sostanze ausiliarie: 
+ a) solubili e/o parzialmente 
+solubili in acqua e solvente. 
+Alcool polivinilico 
+ Non per alimenti per i quali 
+ sia prevista una prova di 
+ migrazione con i simulanti A, 
+ B, C. 
+Resina poliamidica-epicloridrica 
+ottenuta da acido adipico, 
+dietilentriammina, biscloridrina e 
+dimetilammina 
+ Come agente di ritenzione e 
+ flocculante, in quantita' non 
+ superiore a 0,20% e comunque 
+ soltanto per carta e cartoni 
+ destinati al contatto con 
+ alimenti per i quali non e' 
+ prevista prova di migrazione. 
+ Deve rispondere al saggio di 
+ cui all'allegato IV, sezione 
+ 3, punto 2 del decreto 
+ ministeriale 21 marzo 1973. 
+ Ammonio-bis (N-etil-2 perfluoro 
+ottansulfonammido-etil) - fosfato, 
+contenente non piu' del 15% di 
+ammonio-mono-(N-etil-2-perfluo 
+roottansulfonammido - etil)fosfato 
+ Come agente repellente 
+ all'olio e all'acqua nel 
+ trattamento di carta e 
+ cartoni, in quantita' non 
+ superiore a 0,50% in peso 
+ riferito al prodotto finito o 
+ secco e non per alimenti per 
+ i quali e' prevista la prova 
+ con simulante C. 
+ Le carte e cartoni cosi' 
+ trattati devono rispondere 
+ alle norme previste nel 
+ titolo II capo I del decreto 
+ ministeriale 21 marzo 1973". 
+ 
+ 3. Gli allegati III e IV - Sezione 1, del decreto ministeriale 21 marzo 1973, modificato da ultimo con il decreto ministeriale 30 ottobre 1991, n. 408 sono sostituiti, rispettivamente, dagli allegati II e III del presente decreto.
 
 ## Art. 6.
 

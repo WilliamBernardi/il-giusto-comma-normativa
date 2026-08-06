@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2025-06-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -134,6 +134,45 @@ Le dichiarazioni previste dal presente decreto, compresa quella unificata, sono 
 Nell'ambito dei gruppi in cui almeno una societa' o ente rientra tra i soggetti di cui al comma precedente, la presentazione in via telematica delle dichiarazioni di soggetti appartenenti al gruppo puo' essere effettuata da uno o piu' soggetti dello stesso gruppo avvalendosi del servizio telematico Entratel. Si considerano appartenenti al gruppo l'ente o la societa' controllante e le societa' da questi controllate come definite dall'articolo 43-ter, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602. (8)
 
 I soggetti diversi da quelli indicati nei commi 2 e 2-bis, non obbligati alla presentazione delle dichiarazioni in via telematica, possono presentare le dichiarazioni in via telematica direttamente avvalendosi del servizio telematico Internet ovvero tramite un incaricato di cui al comma 3.
+
+3.
+                    
+                        
+                            Ai soli fini della presentazione delle dichiarazioni in via telematica mediante il servizio telematico Entratel si considerano soggetti incaricati della trasmissione delle stesse: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli iscritti negli albi dei dottori commercialisti, dei ragionieri e dei periti commerciali e dei consulenti del lavoro; ((43))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti iscritti alla data del 30 settembre 1993 nei ruoli di periti ed esperti tenuti dalle camere di commercio, industria, artigianato e agricoltura per la sub-categoria tributi, in possesso di diploma di laurea in giurisprudenza o in economia e commercio o equipollenti o diploma di ragioneria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le associazioni sindacali di categoria tra imprenditori indicate nell'articolo 32, comma 1, lettere a), b) e c), del decreto legislativo 9 luglio 1997, n. 241, nonche' quelle che associano soggetti appartenenti a minoranze etnico-linguistiche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i centri di assistenza fiscale per le imprese e per i lavoratori dipendenti e pensionati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli altri incaricati individuati con decreto del Ministro dell'economia e delle finanze.
 
 I soggetti di cui al comma 3, incaricati della predisposizione delle dichiarazioni previste dal presente decreto, sono obbligati alla trasmissione in via telematica delle stesse.
 
@@ -354,6 +393,49 @@ Le disposizioni del presente articolo, in quanto applicabili, valgono anche nei 
 ## Art. 5-ter. — (( (Adempimenti dei curatori e amministratori di eredita). ))
 
 ((
+
+1.
+                    
+                        
+                            I curatori di ereditagiacenti e gli amministratori di eredita' devolute sotto condizione sospensiva o in favore di nascituri non ancora concepiti, oltre alle dichiarazioni dei redditi di cui all'articolo 187 del testo unico delle imposte sui redditi, da presentare nei termini ordinari, relative al periodo d'imposta nel quale hanno assunto le rispettive funzioni ai periodi d'imposta successivi fino a quello anteriore al periodo d'imposta nel quale cessa la curatela o l'amministrazione, sono tenuti a presentare, entro 6 mesi dalla data di assunzione delle funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le dichiarazioni dei predetti redditi relative al periodo d'imposta nel quale si e' aperta la successione, se anteriore a quello nel quale hanno assunto le funzioni, e agli altri periodi d'imposta gia' decorsi anteriormente a quest'ultimo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la dichiarazione dei redditi posseduti nell'ultimo periodo d'imposta dal contribuente deceduto e, se il relativo termine non era scaduto alla data del decesso, quella dei redditi posseduti nel periodo d'imposta precedente.
+
+2.
+                    
+                        
+                            I curatori e gli amministratori devono inoltre:
+ 
+                        
+                        
+                            a)
+                            
+                                adempiere per i periodi d'imposta indicati nell'alinea del comma 1, se nell'asse ereditario sono comprese aziende commerciali o agricole, gli obblighi contabili e quelli a carico dei sostituti d'imposta stabiliti nel decreto del Presidente della Repubblica 29 settembre 1973, n. 600;
+
+                            
+                        
+                        
+                            b)
+                            
+                                presentare, entro 6 mesi dalla data di assunzione delle funzioni, le dichiarazioni di sostituto d'imposta relative ai pagamenti effettuati nei periodi d'imposta considerati nelle lettere a) e b) del comma 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                comunicare mediante raccomandata all'ufficio dell'Agenzia delle entrate, entro 60 giorni, l'assunzione e la cessazione delle funzioni; la comunicazione di cessazione deve contenere l'indicazione dei dati identificativi degli eredi e delle quote ereditarie di ciascuno di essi.
 
 L'erede, nella dichiarazione dei redditi relativa al periodo d'imposta nel quale e' cessata la curatela o l'amministrazione, deve darne comunicazione e indicare l'ufficio dell'Agenzia delle entrate del domicilio fiscale del contribuente deceduto, i dati identificativi del curatore o dell'amministratore e degli altri eredi e la propria quota di eredita'. Nella stessa dichiarazione puo' essere esercitata, per ciascuno degli anni per i quali i redditi di cui all'articolo 187 del testo unico delle imposte sui redditi sono stati determinati in via provvisoria, la facolta' prevista nell'articolo 17, comma 3, dello stesso testo unico.
 

@@ -8,8 +8,8 @@ codice_redazionale: 095G0472
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,31 @@ Valutata l'opportunita' di dare intanto tempestiva applicazione agli interventi 
 Uditi i pareri del Consiglio di Stato espressi nelle adunanze generali del 2 giugno 1994 e del 15 dicembre 1994;
 
 ## Art. 1. — Soggetti beneficiari
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 6, comma 7, del decreto-legge 20 maggio 1993, n. 149, convertito, con modificazioni, nella legge 19 luglio 1993, n. 237, sono considerate imprese operanti nel settore dei materiali di armamento le imprese che soddisfino alla data di entrata in vigore del presente regolamento contemporaneamente i seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                che svolgano attivita' di produzione e di manutenzione dei materiali elencati all'art. 2 della legge 9 luglio l990, n. 185;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che risultino iscritte al registro nazionale delle imprese istituito ai sensi dell'art. 3 della medesima legge n. 185/1990;
+
+                            
+                        
+                        
+                            c)
+                            
+                                che abbiano prodotto un fatturato medio, nei tre esercizi precedenti la domanda di ammissione ai benefici, composto per almeno il 20% da attivita' di cui al punto a).
 
 Per i rami di azienda derivanti da imprese gia' ammissibili ai benefici alla data di entrata in vigore del presente regolamento ed istituiti con apposita deliberazione valida che attribuisca agli stessi un'autonomia organizzativa ed economica con contabilita' sezionali, la predetta percentuale del 20% e' verificata nell'ambito delle suddette contabilita' sezionali, sulla base di una apposita dichiarazione rilasciata, su richiesta, dal certificatore aziendale.
 
@@ -54,6 +79,38 @@ Agli interventi previsti dal comma 7, art. 6, del decreto-legge n. 149/1993, con
 Relativamente agli interventi di cui all'art. 2, comma 1, ed in ottemperanza a quanto stabilito dal comma 8-bis dell'art. 6 del decreto-legge 20 maggio 1993, n. 149, convertito, con modificazioni, nella legge 19 luglio 1993, n. 237, ove compatibili, possono essere conclusi accordi di programma tra soggetti pubblici e privati.
 
 Per gli interventi previsti al comma 1 sono ammesse iniziative integrate e coordinate di amministrazioni statali anche ad ordinamento autonomo, regioni, enti locali, altri soggetti pubblici e soggetti privati.
+
+3.
+                    
+                        
+                            Il Ministro dell'industria, del commercio e dell'artigianato interviene per la realizzazione degli accordi di programma sulla base di un progetto di accordo che contenga, oltre gli elementi previsti dall'art 6, comma 8-bis, del decreto-legge n. 149 del 1993, i seguenti elementi caratterizzanti:
+ 
+                        
+                        
+                            a)
+                            
+                                l'impegno finanziario globale connesso alla realizzazione dell'accordo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il piano di attivita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                i tempi e le modalita' di realizzazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il destinatario della gestione che puo' essere affidata anche a consorzi o societa' consortili all'uopo costituite.
 
 I soggetti pubblici operanti nelle aree individuate ai sensi del decreto ministeriale del Ministro dell'industria, del commercio e dell'artigianato del 20 dicembre 1993 partecipano all'accordo di programma sulla base di proprie specifiche delibere che devono, tra l'altro, indicare l'ammontare del proprio impegno finanziario comunque non inferiore al 35% del valore complessivo dell'iniziativa.
 
@@ -91,6 +148,24 @@ Per quanto attiene agli interventi di cui al comma 1, dell'art. 2, sono consider
 In relazione a quanto dispone l'art. 1, comma 2, della legge 19 luglio 1993, n. 237, sono ammessi ai benefici anche gli interventi avviati antecedentemente alla data di entrata in vigore del decreto-legge 11 marzo 1993, n. 58. Cio' limitatamente alla quota di spesa ancora non sostenuta a tale data e purche' essa non sia inferiore al 50% del valore complessivo dell'intervento stesso.
 
 Il Comitato, di cui al precedente art. 4, sulla base dell'istruttoria predisposta dagli uffici della Direzione generale della produzione industriale del Ministero dell'industria, del commercio e dell'artigianato, delibera in merito al programma presentato.
+
+4.
+                    
+                        
+                            L'ammontare dell'intervento e' cosi' determinato:
+ 
+                        
+                        
+                            a)
+                            
+                                per gli interventi di cui al comma 1, dell'art. 2, autonomamente gestiti dalle imprese richiedenti, contributo in conto capitale pari al 70% dei costi ammessi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gli accordi di programma, di cui all'art. 3, contributo in conto capitale pari al 35% dei costi ammessi.
 
 ## Art. 6. — Presentazione delle domande di contributo
  e modalita' istruttorie

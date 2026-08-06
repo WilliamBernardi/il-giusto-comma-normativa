@@ -8,8 +8,8 @@ codice_redazionale: 005G0288
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,38 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 ## - Capo I Definizioni
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «decreto legislativo», il decreto legislativo 27 gennaio 1992, n. 115, cosi' come modificato dal decreto legislativo 8 luglio 2003, n. 277, attuativo della direttiva 2001/19/CE;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «decreto dirigenziale di riconoscimento», il decreto del Direttore generale della giustizia civile presso il Ministro della giustizia adottato ai sensi dell'articolo 12, comma 5, del decreto legislativo 27 gennaio 1992, n. 115;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «richiedente», il cittadino comunitario che domanda, ai fini dell'esercizio della professione di biologo in Italia, il riconoscimento del titolo rilasciato dal Paese di appartenenza attestante una formazione professionale al cui possesso la legislazione del medesimo Stato subordina l'accesso o l'esercizio della professione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Consiglio dell'ordine», il Consiglio dell'ordine nazionale dei biologi.
 
 ## - Capo II Prova attitudinale
 
@@ -99,11 +131,103 @@ Il tirocinante esegue diligentemente le disposizioni del professionista, garante
 
 Coloro che, muniti di decreto dirigenziale di riconoscimento, intendono svolgere come misura compensativa il tirocinio di adattamento sono iscritti nel registro dei tirocinanti istituito e tenuto dal Consiglio dell'ordine.
 
+2.
+                        
+                            
+                                Nel registro dei tirocinanti sono riportati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero d'ordine attribuito al tirocinante, il suo cognome e nome, luogo e data di nascita, residenza, titolo di studio e numero di codice fiscale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sezione dell'Albo nella quale il tirocinante ha presentato istanza di iscrizione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la data di decorrenza dell'iscrizione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il cognome e nome del professionista presso il quale si svolge il tirocinio, la sezione dell'Albo di appartenenza, il numero di iscrizione, il numero di codice fiscale, l'indirizzo del luogo di lavoro e il numero di iscrizione nell'elenco di cui all'articolo 8;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli eventuali provvedimenti di sospensione del tirocinio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la data di compimento del periodo di effettivo tirocinio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la data del rilascio del certificato di compiuto tirocinio;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la data della cancellazione con relativa motivazione.
+
 ## Art. 11. — Iscrizione
 
 L'iscrizione al registro dei tirocinanti si ottiene a seguito di istanza al Consiglio dell'ordine, redatta secondo lo schema allegato sub C) al presente regolamento.
 
 Nella domanda il richiedente dichiara il proprio impegno ad effettuare il tirocinio di adattamento e la non sussistenza della incompatibilita' prevista dall'articolo 7, comma 3 del presente regolamento.
+
+3.
+                        
+                            
+                                La domanda e' corredata dai seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    copia di un documento di identita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copia del decreto dirigenziale di riconoscimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attestazione di disponibilita' del professionista ad ammettere il richiedente a svolgere il tirocinio presso il proprio luogo di svolgimento dell'attivita' professionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    n. due fotografie autenticate formato tessera; in alternativa, a richiesta dell'interessato, le fotografie possono essere autenticate dall'ufficio ricevente.
 
 Nella domanda, sottoscritta dal richiedente, sono elencati i documenti allegati; va altresi' essere espresso l'impegno a dare comunicazione delle eventuali sopravvenute variazioni entro trenta giorni dal verificarsi delle stesse.
 
@@ -144,6 +268,38 @@ Il Consiglio dell'ordine delibera la sospensione per un periodo comunque non sup
 La sospensione e l'interruzione del tirocinio sono dichiarate dal Consiglio dell'ordine con provvedimento comunicato all'interessato e al professionista presso cui si svolge il tirocinio entro quindici giorni con lettera raccomandata con avviso di ricevimento.
 
 ## Art. 15. — Cancellazione dal registro dei tirocinanti
+
+1.
+                        
+                            
+                                Il Consiglio dell'ordine delibera la cancellazione dal registro dei tirocinanti nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    rinuncia all'iscrizione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione di interruzione del tirocinio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    condanna definitiva per delitto contro la pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro l'economia pubblica, oppure per ogni altro delitto non colposo, per il quale la legge commini la pena della reclusione non inferiore nel minimo di due anni o nel massimo a cinque anni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rilascio del certificato di iscrizione all'albo dei biologi.
 
 La delibera del Consiglio dell'ordine di cancellazione dell'iscrizione nel registro dei tirocinanti va comunicata all'interessato e al professionista presso cui e' stato svolto il tirocinio entro quindici giorni con lettera raccomandata con avviso di ricevimento, salvo che la delibera di cancellazione sia stata comunicata contestualmente a quella di interruzione del tirocinio.
 

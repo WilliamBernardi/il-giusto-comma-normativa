@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-05-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:01Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -142,6 +142,66 @@ Il Comitato formula proposte al Governo per l'esercizio della funzione di indiri
 
 Presso la Presidenza del Consiglio dei Ministri - ((Dipartimento delle politiche contro la droga e le altre dipendenze)) e' istituito un Osservatorio permanente che verifica l'andamento del fenomeno della tossicodipendenza, secondo le previsioni del comma 8 ((, e delle altre dipendenze patologiche)). Il Ministro per la solidarieta' sociale disciplina, con proprio decreto, l'organizzazione e il funzionamento dell'Osservatorio, in modo da assicurare lo svolgimento delle funzioni previste dall'articolo 127, comma 2. Il Comitato si avvale dell'Osservatorio permanente.
 
+8.
+                        
+                            
+                                L'Osservatorio, sulla base delle direttive e dei criteri diramati dal Comitato, acquisisce periodicamente e sistematicamente dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sulla entita' della popolazione tossicodipendente anche con riferimento alla tipologia delle sostanze assunte e sul rapporto tra le caratteristiche del mercato del lavoro e delle attivita' lavorative e l'assunzione di sostanze stupefacenti e psicotrope; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulla dislocazione e sul funzionamento dei servizi pubblici e privati operanti nel settore della prevenzione, cura e riabilitazione, nonche' sulle iniziative tendenti al recupero sociale ivi compresi i servizi attivati negli istituti di prevenzione e pena e nelle caserme; sul numero di soggetti riabilitati reinseriti in attivita' lavorative e sul tipo di attivita' lavorative eventualmente intraprese, distinguendo se presso strutture pubbliche o private; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sui tipi di trattamento praticati e sui risultati conseguiti, in particolare per quanto riguarda la somministrazione di metadone, nei servizi di cui alla lettera b), sulla epidemiologia delle patologie correlate, nonche' sulla produzione e sul consumo delle sostanze stupefacenti o psicotrope; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sulle iniziative promosse ai diversi livelli istituzionali in materia di informazione e prevenzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sulle fonti e sulle correnti del traffico illecito delle sostanze stupefacenti o psicotrope; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sull'attivita' svolta dalle forze di polizia nel settore della prevenzione e repressione del traffico illecito delle sostanze stupefacenti o psicotrope; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sul numero e sugli esiti dei processi penali per reati previsti dal presente testo unico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sui flussi di spesa per la lotta alle tossicodipendenze e sulla destinazione di tali flussi per funzioni e per territorio.
+
 I Ministeri degli affari esteri, di grazia e giustizia, delle finanze, della difesa, della sanita', della pubblica istruzione e del lavoro e della previdenza sociale, nell'ambito delle rispettive competenze, sono tenuti a trasmettere all'osservatorio i dati di cui al comma 8, relativi al primo e al secondo semestre di ogni anno, entro i mesi di giugno e dicembre.
 
 L'Osservatorio, avvalendosi anche delle prefetture e delle amministrazioni locali, puo' richiedere ulteriori dati a qualunque amministrazione statale e regionale, che e' tenuta a fornirli, con l'eccezione di quelli che possano violare il diritto all'anonimato.
@@ -165,6 +225,70 @@ A tal fine sono attivati anche gli strumenti previsti dalla legge 26 febbraio 19
 ## Art. 2. — (Legge 26 giugno 1990, n. 162, art. 3, commi 1 e 2) 
  Attribuzioni del Ministro della sanita'
 
+1.
+                        
+                            
+                                Il Ministro della sanita', nell'ambito delle proprie competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determina, sentito il Consiglio sanitario nazionale, gli indirizzi per le attivita' di prevenzione del consumo e delle dipendenze da sostanze stupefacenti o psicotrope e da alcool e per la cura e il reinserimento sociale dei soggetti dipendenti da sostanze stupefacenti o psicotrope e da alcool; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipa ai rapporti, sul piano internazionale, con la Commissione degli stupefacenti e con l'Organo di controllo sugli stupefacenti del Consiglio economico e sociale delle Nazioni Unite e con il Fondo delle Nazioni Unite per il controllo dell'abuso delle droghe (UNFDAC), con i competenti organismi della Comunita' economica europea e con ogni altra organizzazione internazionale avente competenza nella materia di cui al presente testo unico; a tal fine cura l'aggiornamento dei dati relativi alle quantita' di sostanze stupefacenti o psicotrope effettivamente importate, esportate, fabbricate, impiegate, nonche' alle quantita' disponibili presso gli enti o le imprese autorizzati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    determina, sentito il Consiglio sanitario nazionale, gli indirizzi per il rilevamento epidemiologico da parte delle regioni, delle province autonome di Trento e di Bolzano e delle unita' sanitarie locali, concernente le dipendenze da alcool e da sostanze stupefacenti o psicotrope; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    concede le autorizzazioni per la coltivazione, la produzione, la fabbricazione, l'impiego, il commercio, l'esportazione, l'importazione, il transito, l'acquisto, la vendita e la detenzione delle sostanze stupefacenti o psicotrope, nonche' quelle per la produzione, il commercio, l'esportazione, l'importazione e il transito delle sostanze suscettibili di impiego per la produzione di sostanze stupefacenti o psicotrope di cui al comma 1 dell'articolo 70; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    stabilisce con proprio decreto: 
+ 1) l'elenco annuale delle imprese autorizzate alla fabbricazione, all'impiego e al commercio all'ingrosso di sostanze stupefacenti o psicotrope, nonche' di quelle di cui al comma 1 dell'articolo 70; 
+ ((2) il completamento e l'aggiornamento delle tabelle di cui all'articolo 13, sentiti il Consiglio superiore di sanita' e l'Istituto superiore di sanita';)) 
+ 3) le indicazioni relative alla confezione dei farmaci contenenti sostanze stupefacenti o psicotrope; 
+ 4) PUNTO ABROGATO DAL D.P.R. 5 GIUGNO 1993, N. 171; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    verifica, ad un anno, a due anni, a tre anni e a cinque anni dall'entrata in commercio di nuovi farmaci, la loro capacita' di indurre dipendenza nei consumatori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    promuove, in collaborazione con i Ministri dell'universita' e della ricerca scientifica e tecnologica e di grazia e giustizia, studi e ricerche relativi agli aspetti farmacologici, tossicologici, medici, psicologici, riabilitativi, sociali, educativi, preventivi e giuridici in tema di droghe, alcool e tabacco; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    promuove, in collaborazione con le regioni, iniziative volte a eliminare il fenomeno dello scambio di siringhe tra tossicodipendenti, favorendo anche l'immissione nel mercato di siringhe monouso autobloccanti.
+
 -------------
                             AGGIORNAMENTO (34)
                             
@@ -176,6 +300,66 @@ Istituzione del Servizio centrale per le dipendenze
 
 E' istituito presso il Ministero della sanita' il Servizio centrale per le dipendenze da alcool e sostanze stupefacenti o psicotrope.
 
+2.
+                        
+                            
+                                Il Servizio centrale svolge compiti di indirizzo e coordinamento per le politiche e i programmi inerenti il trattamento delle dipendenze indicate nel comma 1 su tutto il territorio nazionale, con parere obbligatorio del Consiglio sanitario nazionale. Inoltre provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    raccogliere i dati epidemiologici e le statistiche circa l'andamento dei consumi, delle violazioni delle norme sulla circolazione stradale e degli infortuni in stato di intossicazione da alcool e sostanze stupefacenti o psicotrope; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    raccogliere ed elaborare i dati trasmessi dalle regioni relativi all'andamento delle dipendenze da sostanze stupefacenti o psicotrope e da alcool, nonche' agli interventi di prevenzione, di cura e di recupero sociale e presentare annualmente un rapporto sulla materia al Ministro della sanita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    raccogliere ed elaborare i dati relativi al numero dei servizi pubblici e privati attivi nel settore delle droghe e dell'alcool, ai contributi ad essi singolarmente erogati, nonche' al numero degli utenti assistiti ed ai risultati conseguiti nelle attivita' di recupero e prevenzione messe in atto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprimere il parere motivato sulle autorizzazioni in materia di sostanze stupefacenti o psicotrope per le quali e' competente il Ministro della sanita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esprimere, sentito l'Istituto superiore di sanita', il parere motivato in ordine alla concessione di licenza di importazione di materie prime per la produzione e l'impiego delle sostanze stupefacenti o psicotrope; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    procedere all'accertamento qualitativo e quantitativo delle sostanze stupefacenti o psicotrope messe a disposizione del Ministero della sanita' ai sensi dell'articolo 87; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    elencare gli additivi aversivi non tossici da immettere nelle confezioni commerciali di solventi inalabili. 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    individuare sostanze da taglio contenute nelle sostanze stupefacenti o psicotrope.
+
 Il Servizio centrale, per gli eventuali controlli analitici, si avvale dei laboratori dell'Istituto superiore di sanita' o di istituti universitari.
 
 ## Art. 4. — (Legge 26 giugno 1990, n. 162, art. 3, commi 1, 4 e 5) 
@@ -184,6 +368,31 @@ Composizione del Servizio centrale per le dipendenze da alcool e sostanze stupef
 Al Servizio centrale per le dipendenze da alcool e sostanze stupefacenti o psicotrope e' preposto un dirigente generale del Ministero della sanita'.
 
 Il Ministro provvede alla costituzione del Servizio centrale articolandolo in almeno quattro settori afferenti alla dipendenza da sostanze stupefacenti o psicotrope, alla prevenzione delle infezioni da HIV tra i tossicodipendenti e altre patologie correlate, all'alcoolismo e al tabagismo preponendovi i dirigenti di cui al comma 3.
+
+3.
+                        
+                            
+                                Nella tabella XIX, allegata al decreto del Presidente della Repubblica 30 giugno 1972, n. 748, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il quadro A, livello di funzione C, e' incrementato di una unita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il quadro C, livello di funzione D, e' incrementato di due unita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il quadro C, livello di funzione E, e' incrementato di quattro unita'.
 
 All'onere derivante dalla applicazione del presente articolo, valutato in lire 360 milioni per ciascuno degli esercizi 1990, 1991 e 1992, si provvede con la riduzione di pari importo dello stanziamento di cui all'articolo 39, comma 2, della legge 26 giugno 1990, n. 162.
 
@@ -217,8 +426,51 @@ Ai fini della vigilanza e dei controlli previsti dagli articoli 5 e 6 i titolari
 ## Art. 8. — (Legge 26 giugno 1990, n. 162, art. 4, comma 1) 
  Opposizione alle ispezioni. Sanzioni
 
+1.
+                        
+                            
+                                Salvo che il fatto costituisca piu' grave reato, e' punito con l'arresto fino ad un anno o con l'ammenda da lire un milione a lire dieci milioni chiunque: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indebitamente impedisce od ostacola lo svolgimento delle ispezioni previste dall'articolo 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rivela o preannuncia l'ispezione qualora questa debba essere improvvisa o comunque non preannunciata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indebitamente impedisce od ostacola i controlli, gli accessi o gli altri atti previsti dall'articolo 29, oppure si sottrae all'obbligo di esibire i documenti di cui all'articolo 7.
+
 ## Art. 9. — (Legge 26 giugno 1990, n. 162, art. 5, comma 1) 
  Attribuzioni del Ministro dell'interno
+
+1.
+                        
+                            
+                                Il Ministro dell'interno, nell'ambito delle proprie competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esplica le funzioni di alta direzione dei servizi di polizia per la prevenzione e la repressione del traffico illecito di sostanze stupefacenti o psicotrope e di coordinamento generale in materia dei compiti e delle attivita' delle forze di polizia; promuove altresi', d'intesa con il Ministro degli affari esteri e con il Ministro di grazia e giustizia, accordi internazionali di collaborazione con i competenti organismi esteri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipa, sul piano internazionale, salve le attribuzioni dei Ministri degli affari esteri e della sanita', ai rapporti con il Fondo delle Nazioni Unite per il controllo dell'abuso delle droghe (UNFDAC), con i competenti organismi della Comunita' economica europea e con qualsiasi altra organizzazione avente competenza nella materia di cui al presente testo unico.
 
 ## Art. 10. — Legge 26 giugno 1990, n. 162, artt. 5, comma 1, e 25, comma 2; d.l. 1 aprile 1988, n. 103, convertito, con modificazioni, dalla legge 1 giugno 1988, n. 176, art. 2- bis
 
@@ -274,6 +526,100 @@ Il decreto e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana e in
 ## Art. 14. — (( (Criteri per la formazione delle tabelle). ))
 
 ((
+
+1.
+                        
+                            
+                                La inclusione delle sostanze stupefacenti o psicotrope nelle tabelle di cui all'articolo 13 e' effettuata in base ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella tabella I devono essere indicati: 
+ 1) l'oppio e i materiali da cui possono essere ottenute le sostanze oppiacee naturali, estraibili dal papavero sonnifero; gli alcaloidi ad azione narcotico-analgesica da esso estraibili; le sostanze ottenute per trasformazione chimica di quelle prima indicate; le sostanze ottenibili per sintesi che siano riconducibili, per struttura chimica o per effetti, a quelle oppiacee precedentemente indicate; eventuali intermedi per la loro sintesi; 
+ 2) le foglie di coca e gli alcaloidi ad azione eccitante sul sistema nervoso centrale da queste estraibili; le sostanze ad azione analoga ottenute per trasformazione chimica degli alcaloidi sopra indicati oppure per sintesi; 
+ 3) le sostanze di tipo amfetaminico ad azione eccitante sul sistema nervoso centrale; 
+ 4) ogni altra sostanza che produca effetti sul sistema nervoso centrale ed abbia capacita' di determinare dipendenza fisica o psichica dello stesso ordine o di ordine superiore a quelle precedentemente indicate; 
+ 5) gli indolici, siano essi derivati triptaminici che lisergici, e i derivati feniletilamminici, che abbiano effetti allucinogeni o che possano provocare distorsioni sensoriali; 
+ 6) le sostanze ottenute per sintesi o semisintesi che siano riconducibili per struttura chimica o per effetto farmaco-tossicologico al tetraidrocannabinolo; 
+ 7) ogni altra pianta o sostanza naturale o sintetica che possa provocare allucinazioni o gravi distorsioni sensoriali e tutte le sostanze ottenute per estrazione o per sintesi chimica che provocano la stessa tipologia di effetti a carico del sistema nervoso centrale; 
+ 8) le preparazioni contenenti le sostanze di cui alla presente lettera, in conformita' alle modalita' indicate nella tabella dei medicinali di cui alla lettera e); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella tabella II devono essere indicati: 
+ 1) la cannabis e i prodotti da essa ottenuti; 
+ 2) le preparazioni contenenti le sostanze di cui alla presente lettera, in conformita' alle modalita' indicate nella tabella dei medicinali di cui alla lettera e); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella tabella III devono essere indicati: 
+ 1) i barbiturici che hanno notevole capacita' di indurre dipendenza fisica o psichica o entrambe, nonche' altre sostanze ad effetto ipnotico-sedativo ad essi assimilabili. Sono pertanto esclusi i barbiturici a lunga durata e di accertato effetto antiepilettico e i barbiturici a breve durata di impiego quali anestetici generali, sempre che tutte le dette sostanze non comportino i pericoli di dipendenza innanzi indicati; 
+ 2) le preparazioni contenenti le sostanze di cui alla presente lettera, in conformita' alle modalita' indicate nella tabella dei medicinali di cui alla lettera e); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nella tabella IV devono essere indicate: 
+ 1) le sostanze per le quali sono stati accertati concreti pericoli di induzione di dipendenza fisica o psichica di intensita' e gravita' minori di quelli prodotti dalle sostanze elencate nelle tabelle I e III; 
+ 2) le preparazioni contenenti le sostanze di cui alla presente lettera, in conformita' alle modalita' indicate nella tabella dei medicinali di cui alla lettera e); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nella tabella denominata "tabella dei medicinali" e suddivisa in cinque sezioni, sono indicati i medicinali a base di sostanze attive stupefacenti o psicotrope, ivi incluse le sostanze attive ad uso farmaceutico, di corrente impiego terapeutico ad uso umano o veterinario. Nella sezione A della tabella dei medicinali sono indicati: 
+ 1) i medicinali contenenti le sostanze analgesiche oppiacee naturali, di semisintesi e di sintesi; 
+ 2) i medicinali di cui all'allegato III -bis al presente testo unico; 
+ 3) i medicinali contenenti sostanze di corrente impiego terapeutico per le quali sono stati accertati concreti pericoli di induzione di grave dipendenza fisica o psichica; 
+ 4) i medicinali contenenti barbiturici che hanno notevole capacita' di indurre dipendenza fisica o psichica o entrambe, nonche' altre sostanze ad effetto ipnotico-sedativo ad essi assimilabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nella sezione B della tabella dei medicinali sono indicati: 
+ 1) i medicinali che contengono sostanze di corrente impiego terapeutico per le quali sono stati accertati concreti pericoli di induzione di dipendenza fisica o psichica di intensita' e gravita' minori di quelli prodotti dai medicinali elencati nella sezione A; 
+ 2) i medicinali contenenti barbiturici ad azione antiepilettica e quelli contenenti barbiturici con breve durata d'azione; 
+ 3) i medicinali contenenti le benzodiazepine, i derivati pirazolopirimidinici ed i loro analoghi ad azione ansiolitica o psicostimolante che possono dar luogo al pericolo di abuso e generare farmacodipendenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nella sezione C della tabella dei medicinali sono indicati: 
+ 1) i medicinali contenenti le sostanze elencate nella tabella dei medicinali, sezione B, da sole o in associazione con altre sostanze attive ad uso farmaceutico, per i quali sono stati accertati concreti pericoli di induzione di dipendenza fisica o psichica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nella sezione D della tabella dei medicinali sono indicati: 
+ 1) i medicinali contenenti le sostanze elencate nella tabella dei medicinali, sezioni A o B, da sole o in associazione con altre sostanze attive ad uso farmaceutico quando per la loro composizione qualitativa e quantitativa e per le modalita' del loro uso, presentano rischi di abuso o farmacodipendenza di grado inferiore a quello dei medicinali compresi nella tabella dei medicinali, sezioni A e C, e pertanto non sono assoggettate alla disciplina delle sostanze che entrano a far parte della loro composizione; 
+ 2) i medicinali ad uso parenterale a base di benzodiazepine; 
+ 3) i medicinali per uso diverso da quello iniettabile, i quali, in associazione con altre sostanze attive ad uso farmaceutico non stupefacenti contengono alcaloidi totali dell'oppio con equivalente ponderale in morfina non superiore allo 0,05 per cento in peso espresso come base anidra; i suddetti medicinali devono essere tali da impedire praticamente il recupero dello stupefacente con facili ed estemporanei procedimenti estrattivi; 
+ 3-bis) in considerazione delle prioritarie esigenze terapeutiche nei confronti del dolore severo, composti medicinali utilizzati in terapia del dolore elencati nell'allegato III-bis, limitatamente alle forme farmaceutiche diverse da quella parenterale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    nella sezione E della tabella dei medicinali sono indicati: 
+ 1) i medicinali contenenti le sostanze elencate nella tabella dei medicinali, sezioni A o B, da sole o in associazione con altre sostanze attive ad uso farmaceutico, quando per la loro composizione qualitativa e quantitativa o per le modalita' del loro uso, possono dar luogo a pericolo di abuso o generare farmacodipendenza di grado inferiore a quello dei medicinali elencati nella tabella dei medicinali, sezioni A, B, C o D.
 
 Nelle tabelle di cui al comma 1 sono compresi, ai fini della applicazione del presente testo unico, tutti gli isomeri, gli esteri, gli eteri, ed i sali anche relativi agli isomeri, esteri ed eteri, nonche' gli stereoisomeri nei casi in cui possono essere prodotti, relativi alle sostanze incluse nelle tabelle I, II, III e IV, e ai medicinali inclusi nella tabella dei medicinali, salvo sia fatta espressa eccezione.
 
@@ -520,6 +866,45 @@ Analoga domanda deve essere presentata, nel termine indicato nel comma 1, da chi
 
 La domanda deve essere corredata dal certificato di iscrizione all'albo professionale del direttore tecnico, che deve essere munito di laurea in chimica o in farmacia o in altra disciplina affine.
 
+4.
+                        
+                            
+                                La domanda, corredata del certificato di iscrizione alla camera di commercio, industria, artigianato e agricoltura deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' del richiedente: titolare dell'impresa o legale rappresentante dell'ente che avra' la responsabilita' per quanto riguarda l'osservanza delle norme di legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede, l'ubicazione e la descrizione dell'ente o dell'impresa di fabbricazione con descrizione grafica dei locali adibiti alla lavorazione e al deposito della merce lavorata o da porsi in lavorazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le generalita' del direttore tecnico che assume la responsabilita' con il titolare dell'impresa o il legale rappresentante dell'ente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la qualita' e i quantitativi delle materie prime richieste per la lavorazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le sostanze che si intende fabbricare, nonche' i procedimenti di estrazione che si intende applicare, con l'indicazione presumibile delle rese di lavorazione.
+
 L'autorizzazione e' valida, oltre che per la fabbricazione di sostanze stupefacenti e psicotrope, anche per l'acquisto delle relative materie prime, nonche' per la vendita dei prodotti ottenuti.
 
 ## Art. 33. — (Legge 22 dicembre 1975, n. 685, art. 33) 
@@ -607,6 +992,40 @@ Il Ministero della sanita' accerta l'idoneita' dei locali adibiti alla conservaz
 
 Le spese relative a tali accertamenti sono a carico del richiedente ed i relativi recuperi sono versati con imputazione ad apposito capitolo dello stato di previsione delle entrate statali.
 
+4.
+                        
+                            
+                                La domanda corredata da certificato di iscrizione alla camera di commercio, industria, artigianato ed agricoltura deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' del titolare o la denominazione dell'impresa commerciale con l'indicazione del legale rappresentante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' della persona responsabile del funzionamento dell'esercizio e l'indicazione dei requisiti previsti dall'articolo 188- bis del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ubicazione delle sedi, delle filiali, dei depositi o magazzini nei quali il commercio viene esercitato con l'indicazione dei locali riservati alla ricezione, alla detenzione e alla 
+spedizione o consegna dei prodotti di cui al comma 1, con la 
+ indicazione delle misure di sicurezza adottate per i predetti locali; 
+                                
+                            
+                            
+                                d)
+                                
+                                    le sostanze, i prodotti e le specialita' medicinali che si 
+intende commerciare.
+
 Il Ministro della sanita', previ gli opportuni accertamenti, rilascia l'autorizzazione al commercio determinando, ove necessario, le condizioni e le garanzie.
 
 ## - TITOLO IV RELATIVE ALLA DISTRIBUZIONE Capo I DELLA VENDITA, DELL'ACQUISTO E DELLA SOMMINISTRAZIONE
@@ -668,6 +1087,38 @@ Composizione, indicazioni terapeutiche, posologia ed eventuali controindicazioni
 ## Art. 41. — Legge 22 dicembre 1975, n. 685, art. 41-legge 26 giugno 1990 n. 162, art. 32, comma 1) 
  Modalita' di consegna
 
+1.
+                        
+                            
+                                La consegna di sostanze sottoposte a controllo, da parte degli enti o delle imprese autorizzati a commerciarle, deve essere fatta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personalmente all'intestatario dell'autorizzazione al commercio o al farmacista, previo accertamento della sua identita', qualora la consegna sia effettuata presso la sede dell'ente o dell'impresa, e annotando i dati del documento di riconoscimento in calce al buono acquisto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a mezzo di un qualunque dipendente dell'ente o dell'impresa, debitamente autorizzato, direttamente al domicilio dell'acquirente, previo accertamento della identita' di quest'ultimo e annotando i dati del documento di riconoscimento in calce al buono acquisto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a mezzo pacco postale assicurato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    mediante agenzia di trasporto o corriere privato. In questo caso, ove si tratti di sostanze stupefacenti o psicotrope indicate nelle tabelle I e II , sezione A, di cui all'articolo 14 e il cui quantitativo sia superiore ai cento grammi, il trasporto deve essere effettuato previa comunicazione, a cura del mittente, al piu' vicino ufficio di Polizia di Stato o comando dei carabinieri o della Guardia di finanza. (34) ((35))
+
 In deroga alle disposizioni di cui al comma 1, la consegna di sostanze sottoposte a controllo puo' essere fatta anche da parte di operatori sanitari, per quantita' terapeutiche di medicinali di cui all'allegato III-bis, accompagnate da Dichiarazione sottoscritta dal medico di medicina generale, di continuita' assistenziale o dal medico ospedaliero che ha in cura il paziente, che ne prescriva l'utilizzazione anche nell'assistenza domiciliare di malati che hanno accesso alle cure palliative e alla terapia del dolore secondo le vigenti disposizioni, ad esclusione del trattamento domiciliare degli stati di tossicodipendenza da oppiacei. (34) ((35))
 
 La comunicazione, di cui al comma 1, lettera d), compilata in triplice copia, deve indicare il mittente ed il destinatario, il giorno in cui si effettua il trasporto, la natura e la quantita' degli stupefacenti trasportati. Una delle copie e' trattenuta dall'ufficio o comando predetti; la seconda e' da questo inviata al corrispondente ufficio o comando della giurisdizione del destinatario, per la opportuna azione di vigilanza; la terza, timbrata e vistata dall'ufficio o comando di cui sopra, deve accompagnare la merce ed essere restituita dal destinatario al mittente.
@@ -711,6 +1162,45 @@ Chi vende o cede sostanze sottoposte a controllo, deve conservare la copia della
 I medici chirurghi e i medici veterinari prescrivono i medicinali compresi nella tabella dei medicinali, sezione A, di cui all'articolo 14, su apposito ricettario approvato con decreto del Ministero della salute.
 
 La prescrizione dei medicinali indicati nella tabella dei medicinali, sezione A, di cui all'articolo 14 puo' comprendere un solo medicinale per una cura di durata non superiore a trenta giorni, ad eccezione della prescrizione dei medicinali di cui all'allegato III-bis per i quali la ricetta puo' comprendere fino a due medicinali diversi tra loro o uno stesso medicinale con due dosaggi differenti per una cura di durata non superiore a trenta giorni.
+
+3.
+                        
+                            
+                                Nella ricetta devono essere indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome e nome dell'assistito ovvero del proprietario dell'animale ammalato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dose prescritta, la posologia ed il modo di somministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indirizzo e il numero telefonico professionali del medico chirurgo o del medico veterinario da cui la ricetta e' rilasciata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data e la firma del medico chirurgo o del medico veterinario da cui la ricetta e' rilasciata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il timbro personale del medico chirurgo o del medico veterinario da cui la ricetta e' rilasciata.
 
 Le ricette di cui al comma 1 sono compilate in duplice copia a ricalco per i medicinali non forniti dal Servizio sanitario nazionale, ed in triplice copia a ricalco per i medicinali forniti dal Servizio sanitario nazionale. Una copia della ricetta e' comunque conservata dall'assistito o dal proprietario dell'animale ammalato.
 Il Ministero della salute stabilisce con proprio decreto la forma ed il contenuto del ricettario di cui al comma 1.
@@ -868,6 +1358,31 @@ L'autorizzazione e' rilasciata da parte del Ministro della sanita', previa deter
 
 Il responsabile della detenzione e dell'uso scientifico assume in entrata la sostanza e si munisce, ai fini della registrazione di scarico, delle dichiarazioni rilasciate dai singoli ricercatori e sperimentatori o periti.
 
+4.
+                        
+                            
+                                Le persone autorizzate sono obbligate ad annotare in apposito registro vidimato dall'autorita' sanitaria locale le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi dell'atto di autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quantita' di sostanze stupefacenti o psicotrope in entrata e in giacenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione sommaria delle ricerche e delle sperimentazioni effettuate e l'indicazione dei prodotti ottenuti e delle quantita' residue.
+
 Salvo che il fatto costituisca reato, chiunque viola le disposizioni del comma 4 e' punito con la sanzione amministrativa del pagamento di una somma fino a lire un milione.
 
 ## - TITOLO V DELL'IMPORTAZIONE, DELL'ESPORTAZIONE E DEL TRANSITO
@@ -996,6 +1511,24 @@ La spedizione deve essere effettuata secondo le modalita' stabilite con decreto 
  Domanda per il permesso di transito
 
 Per ottenere il permesso di transito l'operatore e' tenuto a presentare domanda al Ministero della sanita' secondo le modalita' stabilite con decreto del Ministro.
+
+2.
+                        
+                            
+                                La domanda deve essere in ogni caso corredata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal permesso di importazione rilasciato dalle competenti autorita' del Paese di destinazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal permesso di esportazione rilasciato dalle competenti autorita' del Paese di provenienza.
 
 I documenti previsti alle lettere a) e b) del comma 2 possono essere esibiti in fotoriproduzione o in copia, purche' vidimati dalle competenti autorita' consolari italiane.
 
@@ -1157,6 +1690,31 @@ Salvo che il fatto costituisca piu' grave reato, chiunque non ottempera alle nor
 
 ## Art. 70. — (Precursori di droghe).
 
+1.
+                        
+                            
+                                Ai fini del presente articolo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostanze suscettibili di impiego per la produzione di sostanze stupefacenti o psicotrope, di seguito denominate "sostanze classificate o precursori di droghe": tutte le sostanze individuate e classificate nelle categorie 1, 2 e 3 dell'allegato I al regolamento (CE) n. 273/2004 e ((nelle categorie 1, 2, 3 e 4)) dell'allegato al regolamento (CE) n. 111/2005, compresi miscele e prodotti naturali contenenti tali sostanze. ((Sono esclusi le miscele e i prodotti naturali contenenti sostanze classificate, composti in modo che le sostanze stesse non possano essere facilmente utilizzate o estratte con mezzi di facile applicazione o economici, i medicinali quali definiti all'articolo 1, comma 1, lettera a), del decreto legislativo 24 aprile 2006, n. 219 e i medicinali veterinari quali definiti all'articolo 4, numero 1) del regolamento (UE) 2019/6, in conformita' al richiamo di cui all'articolo 2 del decreto legislativo 7 dicembre 2023, n. 218 ad eccezione dei medicinali e dei medicinali veterinari elencati nell'allegato al regolamento (CE) n. 111/2005.)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operatore: una persona fisica o giuridica che operi nell'attivita' di immissione sul mercato di sostanze classificate, nonche' una persona fisica o giuridica che operi, secondo quanto previsto ((dal regolamento (CE) n. 111/2005,)) nell'ambito dell'importazione o dell'esportazione di sostanze classificate nei confronti di paesi non comunitari o svolga attivita' di intermediazione ad esse relative, comprese le persone la cui attivita' autonoma consiste nel fare dichiarazioni in dogana per i clienti sia a titolo principale sia a titolo accessorio rispetto ad un'altra attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    immissione sul mercato: l'attivita' di fornire, a titolo oneroso o gratuito, sostanze classificate nella Comunita' ovvero di immagazzinare, di fabbricare, di produrre, di trasformare, di commerciare, di distribuire o di intermediare tali sostanze, ai fini di fornitura nella Comunita'.
+
 Gli operatori che intendono effettuare, in relazione a sostanze classificate nelle categorie 1 e 2 dell'allegato I al regolamento (CE) n. 273/2004 e dell'allegato al regolamento n. 111/2005, taluna delle attivita' di immissione sul mercato indicate nel comma 1, devono nominare un responsabile della commercializzazione, in conformita' e nei limiti di quanto disposto dal regolamento (CE) n. 273/2004, notificando al Ministero della salute le generalita' della persona nominata. L'operatore che viola tale obbligo e' punito con la sanzione amministrativa del pagamento di una somma da 600 euro a 6.000 euro. Puo' essere adottato il provvedimento di sospensione della licenza ad operare con sostanze classificate nella categoria 1 dell'allegato I al regolamento (CE) n. 273/2004 e dell'allegato al regolamento (CE) n. 111/2005, nonche' l'attivita' svolta dall'operatore con riferimento alle sostanze classificate nelle categorie 2 e 3 dei predetti allegati, per un periodo non inferiore a un mese e non superiore a un anno.
 
 Gli operatori che, in relazione a taluna delle sostanze classificate nella categoria 1 dell'allegato I al regolamento (CE) n. 273/2004 e dell'allegato al regolamento (CE) n. 111/2005, intendano compiere taluna delle attivita' indicate nel comma 1, o comunque intendano detenere tali sostanze, devono munirsi di licenza rilasciata dal Ministero della salute in conformita' e nei limiti di quanto disposto dai regolamenti (CE) n. 273/2004, n. 111/2005 e n. 1277/2005. Sono escluse dall'obbligo di licenza le farmacie, per quanto riguarda l'acquisto di sostanze classificate in categoria 1, e la vendita o la cessione di tali sostanze in dose e forma di medicamento. La licenza ha validita' triennale ed e' soggetta alla tassa di concessione governativa ed al pagamento della tariffa individuata secondo le modalita' di cui al comma 21. Le licenze sono comunicate al Dipartimento della Pubblica sicurezza - Direzione centrale per i servizi antidroga del Ministero dell'Interno, al Comando generale dell'Arma dei Carabinieri, al Comando generale della Guardia di finanza ed alla Agenzia delle Dogane che impartiscono ai dipendenti organi periferici le istruzioni necessarie per la vigilanza. Il Ministero della salute puo' rilasciare licenze speciali ai laboratori ufficiali delle autorita' competenti. ((118))
@@ -1232,6 +1790,24 @@ Produzione, traffico e detenzione illeciti di sostanze stupefacenti o psicotrope
 
 Chiunque, senza l'autorizzazione di cui all'articolo 17, coltiva, produce, fabbrica, estrae, raffina, vende, offre o mette in vendita, cede, distribuisce, commercia, trasporta, procura ad altri, invia, passa o spedisce in transito, consegna per qualunque scopo sostanze stupefacenti o psicotrope di cui alla tabella I prevista dall'articolo 14, e' punito con la reclusione da sei a venti anni e con la multa da euro 26.000 a euro 260.000. (34) (68)
 
+1-bis.
+                        
+                            
+                                Con le medesime pene di cui al comma 1 e' punito chiunque, senza l'autorizzazione di cui all'articolo 17, importa, esporta, acquista, riceve a qualsiasi titolo o comunque illecitamente detiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostanze stupefacenti o psicotrope che per quantita', in particolare se superiore ai limiti massimi indicati con decreto del Ministro della salute emanato di concerto con il Ministro della giustizia sentita la Presidenza del Consiglio dei Ministri - Dipartimento nazionale per le politiche antidroga, ovvero per modalita' di presentazione, avuto riguardo al peso lordo complessivo o al confezionamento frazionato, ovvero per altre circostanze dell'azione, appaiono destinate ad un uso non esclusivamente personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    medicinali contenenti sostanze stupefacenti o psicotrope elencate nella tabella II, sezione A, che eccedono il quantitativo prescritto. In questa ultima ipotesi, le pene suddette sono diminuite da un terzo alla meta'. (34) (19)
+
 Chiunque, essendo munito dell'autorizzazione di cui all'articolo 17, illecitamente cede, mette o procura che altri metta in commercio le sostanze o le preparazioni indicate nelle tabelle I e II di cui all'articolo 14 , e' punito con la reclusione da sei a ventidue anni e con la multa da euro 26.000 a euro 300.000. (34)
 
 COMMA ABROGATO DAL D.LGS. 24 MARZO 2011, N. 50.
@@ -1297,6 +1873,56 @@ Quando in leggi e decreti e' richiamato il reato previsto dall'articolo 75 della
 
 ## Art. 75. — Condotte integranti illeciti amministrativi
 
+1.
+                        
+                            
+                                Chiunque, per farne uso personale, illecitamente importa, esporta, acquista, riceve a qualsiasi titolo o comunque detiene sostanze stupefacenti o psicotrope e' sottoposto, per un periodo da due mesi a un anno, se si tratta di sostanze stupefacenti o psicotrope comprese nelle tabelle I e III previste dall'articolo 14, e per un periodo da uno a tre mesi, se si tratta di sostanze stupefacenti o psicotrope comprese nelle tabelle II e IV previste dallo stesso articolo, a una o piu' delle seguenti sanzioni amministrative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sospensione della patente di guida, del certificato di abilitazione professionale per la guida di motoveicoli e del certificato di idoneita' alla guida di ciclomotori o divieto di conseguirli per un periodo fino a tre anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospensione della licenza di porto d'armi o divieto di conseguirla; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sospensione del passaporto e di ogni altro documento equipollente o divieto di conseguirli; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sospensione del permesso di soggiorno per motivi di turismo o divieto di conseguirlo se cittadino extracomunitario.
+
+1-bis.
+                        
+                            
+                                Ai fini dell'accertamento della destinazione ad uso esclusivamente personale della sostanza stupefacente o psicotropa o del medicinale di cui al comma 1, si tiene conto delle seguenti circostanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la quantita' di sostanza stupefacente o psicotropa non sia superiore ai limiti massimi indicati con decreto del Ministro della salute, di concerto con il Ministro della giustizia, sentita la Presidenza del Consiglio dei ministri - Dipartimento per le politiche antidroga, nonche' della modalita' di presentazione delle sostanze stupefacenti o psicotrope, avuto riguardo al peso lordo complessivo o al confezionamento frazionato ovvero ad altre circostanze dell'azione, da cui risulti che le sostanze sono destinate ad un uso esclusivamente personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che i medicinali contenenti sostanze stupefacenti o psicotrope elencate nella tabella dei medicinali, sezioni A, B, C e D, non eccedano il quantitativo prescritto.
+
 L'interessato, inoltre, ricorrendone i presupposti, e' invitato a seguire il programma terapeutico e socio-riabilitativo di cui all'articolo 122 o altro programma educativo e informativo personalizzato in relazione alle proprie specifiche esigenze, predisposto dal servizio pubblico per le tossicodipendenze competente per territorio analogamente a quanto disposto al comma 13 o da una struttura privata autorizzata ai sensi dell'articolo 116.
 
 Accertati i fatti di cui al comma 1, gli organi di polizia procedono alla contestazione immediata, se possibile, e riferiscono senza ritardo e comunque entro dieci giorni, con gli esiti degli esami tossicologici sulle sostanze sequestrate effettuati presso le strutture pubbliche di cui al comma 10, al prefetto competente ai sensi del comma 13. Ove, al momento dell'accertamento, l'interessato abbia la diretta e immediata disponibilita' di veicoli a motore, gli organi di polizia procedono altresi' all'immediato ritiro della patente di guida. Qualora la disponibilita' sia riferita ad un ciclomotore, gli organi accertatori ritirano anche il certificato di idoneita' tecnica, sottoponendo il veicolo a fermo amministrativo. Il ritiro della patente di guida, nonche' del certificato di idoneita' tecnica e il fermo amministrativo del ciclomotore hanno durata di trenta giorni e ad essi si estendono gli effetti di quanto previsto al comma 4. Si applicano, in quanto compatibili, le disposizioni degli articoli 214 e 216 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni. La patente di guida e il certificato di idoneita' tecnica sono trasmessi al prefetto competente ai sensi del comma 13. In caso di guida di un veicolo durante il periodo in cui la patente sia stata ritirata ovvero di circolazione con il veicolo sottoposto a fermo amministrativo, si applicano rispettivamente le sanzioni previste dagli articoli 216 e 214 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni.
@@ -1336,6 +1962,53 @@ Se per i fatti previsti dal comma 1, nel caso di particolare tenuita' della viol
  2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
 ## Art. 75-bis. — Provvedimenti a tutela della sicurezza pubblica
+
+1.
+                        
+                            
+                                Qualora in relazione alle modalita' od alle circostanze dell'uso, dalla condotta di cui al comma 1 dell'articolo 75 possa derivare pericolo per la sicurezza pubblica, l'interessato che risulti gia' condannato, anche non definitivamente, per reati contro la persona, contro il patrimonio o per quelli previsti dalle disposizioni del presente testo unico o dalle norme sulla circolazione stradale, oppure sanzionato per violazione delle norme del presente testo unico o destinatario di misura di prevenzione o di sicurezza, puo' essere inoltre sottoposto ((...)) ad una o piu' delle seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    obbligo di presentarsi almeno due volte a settimana presso il locale ufficio della Polizia di Stato o presso il comando dell'Arma dei carabinieri territorialmente competente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    obbligo di rientrare nella propria abitazione, o in altro luogo di privata dimora, entro una determinata ora e di non uscirne prima di altra ora prefissata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    divieto di frequentare determinati locali pubblici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    divieto di allontanarsi dal comune di residenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    obbligo di comparire in un ufficio o comando di polizia specificamente indicato, negli orari di entrata ed uscita dagli istituti scolastici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    divieto di condurre qualsiasi veicolo a motore. 
+ (( l-bis. La durata massima delle misure di cui al comma 1 e' fissata in due anni per quelle indicate nelle lettere a), b), c), d) ed e) e in quattro anni per quella indicata nella lettera f) )).
 
 Il questore, ricevuta copia del decreto con il quale e' stata applicata una delle sanzioni di cui all'articolo 75, quando la persona si trova nelle condizioni di cui al comma 1, puo' disporre le misure di cui al medesimo comma, con provvedimento motivato, che ha effetto dalla notifica all'interessato, recante l'avviso che lo stesso ha facolta' di presentare, personalmente o a mezzo di difensore, memorie o deduzioni al giudice della convalida. Il provvedimento e' comunicato entro quarantotto ore dalla notifica al giudice di pace competente per territorio in relazione al luogo di residenza o, in mancanza, di domicilio dell'interessato. Il giudice, se ricorrono i presupposti di cui al comma 1, dispone con decreto la convalida nelle successive quarantotto ore.
 
@@ -1393,6 +2066,59 @@ La chiusura del pubblico esercizio puo' essere disposta con provvedimento cautel
 
 ## Art. 80. — (Legge 26 giugno 1990, n. 162, art. 18, comma 1) 
  Aggravanti specifiche
+
+1.
+                        
+                            
+                                Le pene previste per i delitti di cui all'articolo 73 sono aumentate da un terzo alla meta': 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi in cui le sostanze stupefacenti e psicotrope sono consegnate o comunque destinate a persona di eta' minore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi previsti dai numeri 2), 3) e 4) del primo comma dell'art. 112 del codice penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per chi ha indotto a commettere il reato, o a cooperare nella commissione del reato, persona dedita all'uso di sostanze stupefacenti o psicotrope; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se il fatto e' stato commesso da persona armata o travisata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se le sostanze stupefacenti o psicotrope sono adulterate o commiste ad altre in modo che ne risulti accentuata la potenzialita' lesiva; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se l'offerta o la cessione e' finalizzata ad ottenere prestazioni sessuali da parte di persona tossicodipendente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se l'offerta o la cessione e' effettuata all'interno o in prossimita' di scuole di ogni ordine o grado, comunita' giovanili, caserme, carceri, ospedali, strutture per la cura e la riabilitazione dei tossicodipendenti.
 
 Se il fatto riguarda quantita' ingenti di sostanze stupefacenti o psicotrope, le pene sono aumentate dalla meta' a due terzi; la pena e' di trenta anni di reclusione quando i fatti previsti dai commi 1, 2 e 3 dell'art. 73 riguardano quantita' ingenti di sostanze stupefacenti o psicotrope e ricorre l'aggravante di cui alla lettera e) del comma 1.
 
@@ -1682,6 +2408,38 @@ Le attivita' di cui al comma 1 si inquadrano nello svolgimento ordinario dell'at
 
 Il Ministro della pubblica istruzione approva programmi annuali differenziati per tipologie di iniziative e relative metodologie di applicazione, per la promozione di attivita' da realizzarsi nelle scuole, sulla base delle proposte formulate da un apposito comitato tecnico-scientifico da lui costituito con decreto, composto da venticinque membri, di cui diciotto esperti nel campo della prevenzione, compreso almeno un esperto di mezzi di comunicazione sociale, e rappresentanti delle amministrazioni statali che si occupano di prevenzione, repressione e recupero nelle materie di cui al comma 1 e sette esponenti di associazioni giovanili e dei genitori.
 
+4.
+                        
+                            
+                                Il comitato, che funziona sia unitariamente che attraverso gruppi di lavoro individuati nel decreto istitutivo, deve approfondire, nella formulazione dei programmi, le tematiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della pedagogia preventiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'impiego degli strumenti didattici, con particolare riferimento ai libri di testo, ai sussidi audiovisivi, ai mezzi di comunicazione di massa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'incentivazione di attivita' culturali, ricreative e sportive, da svolgersi eventualmente anche all'esterno della scuola; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del coordinamento con le iniziative promosse o attuate da altre amministrazioni pubbliche con particolare riguardo alla prevenzione primaria.
+
 Alle riunioni del comitato, quando vengono trattati argomenti di loro interesse, possono essere invitati rappresentanti delle regioni, delle province autonome e dei comuni.
 
 In sede di formazione di piani di aggiornamento e formazione del personale della scuola sara' data priorita' alle iniziative in materia di educazione alla salute e di prevenzione delle tossicodipendenze.
@@ -1765,7 +2523,32 @@ La partecipazione degli studenti alle iniziative, che si svolgono in orario aggi
 ## Art. 114. — (Legge 26 giugno 1990, n.162, art. 28, comma 1) 
  Compiti di assistenza degli enti locali
 
+1.
+                        
+                            
+                                Nell'ambito delle funzioni socio-assistenziali di propria competenza i comuni e le comunita' montane, avvalendosi ove possibile delle associazioni di cui all'art. 115, perseguono, anche mediante loro consorzi, ovvero mediante appositi centri gestiti in economia o a mezzo di loro associazioni, senza fini di lucro, riconosciute o riconoscibili, i seguenti obiettivi in tema di prevenzione e recupero dei tossicodipendenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevenzione della emarginazione e del disadattamento sociale mediante la progettazione e realizzazione, in forma diretta o indiretta, di interventi programmati: 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    rilevazione ed analisi, anche in collaborazione con le autorita' scolastiche, delle cause locali di disagio familiare e sociale che favoriscono il disadattamento dei giovani e la dispersione scolastica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    reinserimento scolastico, lavorativo e sociale del tossicodipendente.
+
+((2. Il perseguimento degli obiettivi previsti dal comma 1 puo' essere affidato dai comuni e dalle comunita' montane o dalle loro associazioni alle competenti aziende unita' sanitarie locali o alle strutture private autorizzate ai sensi dell'articolo 116.))
 
 -------------
                             AGGIORNAMENTO (34)
@@ -1794,11 +2577,75 @@ I responsabili dei servizi e dei centri di cui agli articoli 113 e 114 possono a
 
 Le regioni e le province autonome di Trento e di Bolzano assicurano, quale livello essenziale delle prestazioni ai sensi dell'articolo 117, secondo comma, lettera m), della Costituzione, la liberta' di scelta di ogni singolo utente relativamente alla prevenzione, cura e riabilitazione delle tossicodipendenze. La realizzazione di strutture e l'esercizio di attivita' sanitaria e socio-sanitaria a favore di soggetti tossicodipendenti o alcooldipendenti e' soggetta ad autorizzazione ai sensi dell'articolo 8-ter del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni. ((14))
 
+2.
+                        
+                            
+                                L'autorizzazione alla specifica attivita' prescelta e' rilasciata in presenza dei seguenti requisiti minimi, che rappresentano livelli essenziali ai sensi dell'articolo 117, secondo comma, lettera m), della Costituzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personalita' giuridica di diritto pubblico o privato o natura di associazione riconosciuta o riconoscibile ai sensi degli articoli 12 e seguenti del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disponibilita' di locali e attrezzature adeguate al tipo di attivita' prescelta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    personale dotato di comprovata esperienza nel settore di attivita' prescelto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    presenza di un'equipe multidisciplinare composta dalle figure professionali del medico con specializzazioni attinenti alle patologie correlate alla tossicodipendenza o del medico formato e perfezionato in materia di tossicodipendenza, dello psichiatra e/o dello psicologo abilitato all'esercizio della psicoterapia e dell'infermiere professionale, qualora l'attivita' prescelta sia quella di diagnosi della tossicodipendenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    presenza numericamente adeguata di educatori, professionali e di comunita', supportata dalle figure professionali del medico, dello psicologo e delle ulteriori figure richieste per la specifica attivita' prescelta di cura e riabilitazione dei tossicodipendenti. ((14))
+
 Il diniego di autorizzazione deve essere motivato con espresso riferimento alle normative vigenti o al possesso dei requisiti minimi di cui al comma 2.
 
 Le regioni e le province autonome stabiliscono le modalita' di accertamento e certificazione dei requisiti indicati dal comma 2 e le cause che danno luogo alla sospensione o alla revoca dell'autorizzazione.
 
 Il Governo attua le opportune iniziative in sede internazionale e nei rapporti bilaterali per stipulare accordi finalizzati a promuovere e supportare le attivita' e il funzionamento dei servizi istituiti da organizzazioni italiane in paesi esteri per il trattamento e la riabilitazione dei tossicodipendenti.
+
+6.
+                        
+                            
+                                L'autorizzazione con indicazione delle attivita' prescelte e' condizione necessaria oltre che per l'ammissione all'accreditamento istituzionale e agli accordi contrattuali di cui all'articolo 117, per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lo svolgimento dei compiti di cui all'articolo 114; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'accesso ai contributi di cui agli articoli 128 e 129; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la stipula con il Ministero della giustizia delle convenzioni di cui all'articolo 96 aventi ad oggetto l'esecuzione dell'attivita' per la quale e' stata rilasciata l'autorizzazione.
 
 Fino al rilascio delle autorizzazioni ai sensi del presente articolo sono autorizzati all'attivita' gli enti iscritti negli albi regionali e provinciali.
 
@@ -1826,8 +2673,44 @@ Organizzazione dei servizi per le tossicodipendenze presso le unita' sanitarie l
 
 In attesa di un riordino della normativa riguardante i servizi sociali, il Ministro della sanita', di concerto con il Ministro per gli affari sociali, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, determina con proprio decreto l'organico e le caratteristiche organizzative e funzionali dei servizi per le tossicodipendenze da istituire presso ogni unita' sanitaria locale.
 
+2.
+                        
+                            
+                                Il decreto dovra' uniformarsi ai seguenti criteri direttivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'organico dei servizi deve prevedere le figure professionali del medico, dello psicologo, dell'assistente sociale, dell'infermiere, dell'educatore professionale e di comunita' in numero necessario a svolgere attivita' di prevenzione, di cura e di riabilitazione, anche domiciliari e ambulatoriali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il servizio deve svolgere un'attivita' nell'arco completo delle ventiquattro ore e deve coordinare gli interventi relativi al trattamento della sieropositivita' nei tossicodipendenti, anche in relazione alle problematiche della sessualita', della procreazione e della gravidanza, operando anche in collegamento con i consultori familiari, con perticolare riguardo alla trasmissione madre-figlio della infezione da HIV.
+
 Entro sessanta giorni dall'emanazione del decreto di cui al comma 1, in ogni unita' sanitaria locale e' istituito almeno un servizio per le tossicodipendenze in conformita' alle disposizioni del citato decreto. Qualora le unita' sanitarie locali non provvedano entro il termine indicato, il presidente della giunta regionale nomina un commissario ad acta il quale istituisce il servizio reperendo il personale necessario anche in deroga alle normative vigenti sulle assunzioni, sui trasferimenti e sugli inquadramenti.
 Qualora entro i successivi trenta giorni dal termine di cui al primo periodo il presidente della giunta regionale non abbia ancora nominato il commissario ad acta, quest'ultimo e' nominato con decreto del Ministro della sanita'.
+
+4.
+                        
+                            
+                                Per il finanziamento del potenziamento dei servizi pubblici per le tossicodipendenze, valutato per la fase di avvio in lire 30 miliardi per l'anno 1990 e in lire 240 miliardi e 600 milioni per ciascuno degli anni 1991 e 1992, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 1990, mediante l'utilizzo del corrispondente importo a valere sul Fondo nazionale di intervento per la lotta alla droga di cui all'art. 127; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per ciascuno degli anni 1991 e 1992, mediante corrispondenti quote del Fondo sanitario nazionale vincolate allo scopo ai sensi dell'art. 17 della legge 22 dicembre 1984, n. 887.
 
 ## Art. 119. — (Legge 26 giugno 1990, n. 162, art. 29, comma 1) 
  Assistenza ai tossicodipendenti italiani all'estero
@@ -1969,7 +2852,121 @@ Le province, i comuni e i loro consorzi, le comunita' montane, le aziende unita'
 
 Le regioni, sentiti gli enti locali, ai sensi dell'articolo 3, comma 6, della legge 8 giugno 1990, n. 142, nonche' le organizzazioni rappresentative degli enti ausiliari, delle organizzazioni del volontariato e delle cooperative sociali che operano sul territorio, come previsto dall'atto di indirizzo e coordinamento di cui al comma 7 del presente articolo, stabiliscono le modalita', i criteri e i termini per la presentazione delle domande, nonche' la procedura per la erogazione dei finanziamenti, dispongono i controlli sulla destinazione dei finanziamenti assegnati e prevedono strumenti di verifica dell'efficacia degli interventi realizzati, con particolare riferimento ai progetti volti alla riduzione del danno nei quali siano utilizzati i farmaci sostitutivi. Le regioni provvedono altresi' ad inviare una relazione al Ministro per la solidarieta' sociale sugli interventi realizzati ai sensi del presente testo unico, anche ai fini previsti dall'articolo 131.
 
+5.
+                        
+                            
+                                Il 25 per cento delle disponibilita' del Fondo nazionale di cui al comma 1 e' destinato al finanziamento dei progetti finalizzati alla prevenzione e al recupero dalle tossicodipendenze e dall'alcoldipendenza correlata promossi e coordinati dalla Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali, d'intesa con i Ministeri dell'interno, di grazia e giustizia, della difesa, della pubblica istruzione, della sanita' e del lavoro e della previdenza sociale. I progetti presentati ai sensi del presente comma sono finalizzati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla promozione di programmi sperimentali di prevenzione sul territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla realizzazione di iniziative di razionalizzazione dei sistemi di rilevazione e di valutazione dei dati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla elaborazione di efficaci collegamenti con le iniziative assunte dall'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    allo sviluppo di iniziative di informazione e di sensibilizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla formazione del personale nei settori di specifica competenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla realizzazione di programmi di educazione alla salute; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al trasferimento dei dati tra amministrazioni centrali e locali.
+
 Per la valutazione e la verifica delle spese connesse ai progetti di cui al comma 5 possono essere disposte le visite ispettive previste dall'articolo 65, commi 5 e 6, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni.
+
+7.
+                        
+                            
+                                Con atto di indirizzo e coordinamento deliberato dal Consiglio dei Ministri, su proposta del Ministro per la solidarieta' sociale, previo parere delle commissioni parlamentari competenti, sentite la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e la Consulta degli esperti e degli operatori sociali di cui all'articolo 132, sono stabiliti i criteri generali per la valutazione e il finanziamento dei progetti di cui al comma 3.
+Tali criteri devono rispettare le seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    realizzazione di progetti integrati sul territorio di prevenzione primaria, secondaria e terziaria, compresi quelli volti alla riduzione del danno purche' finalizzati al recupero psicofisico della persona; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promozione di progetti personalizzati adeguati al reinserimento lavorativo dei tossicodipendenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diffusione sul territorio di servizi sociali e sanitari di primo intervento, come le unita' di strada, i servizi a bassa soglia ed i servizi di consulenza e di orientamento telefonico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individuazione di indicatori per la verifica della qualita' degli interventi e dei risultati relativi al recupero dei tossicodipendenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in particolare, trasferimento dei dati tra assessorati alle politiche sociali, responsabili dei centri di ascolto, responsabili degli istituti scolastici e amministrazioni centrali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    trasferimento e trasmissione dei dati tra i soggetti che operano nel settore della tossicodipendenza a livello regionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    realizzazione coordinata di programmi e di progetti sulle tossicodipendenze e sull'alcoldipendenza correlata, orientati alla strutturazione di sistemi territoriali di intervento a rete; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    educazione alla salute.
 
 ((
 

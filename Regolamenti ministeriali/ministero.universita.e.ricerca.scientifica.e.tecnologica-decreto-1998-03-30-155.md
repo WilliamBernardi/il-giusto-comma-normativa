@@ -8,8 +8,8 @@ codice_redazionale: 098G0204
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,38 @@ Il diploma universitario in servizio sociale e' titolo accademico valido per l'a
 Ciascuna commissione esaminatrice e' nominata con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica ed e' composta dal presidente e da quattro membri.
 
 Il presidente viene nominato fra i professori universitari ordinari, straordinari e associati, di ruolo, fuori ruolo o a riposo di discipline afferenti alle aree previste dall'ordinamento didattico del diploma universitario in servizio sociale.
+
+3.
+                    
+                        
+                            I membri vengono scelti da quattro terne, designate dal Consiglio dell'ordine professionale degli assistenti sociali competente per territorio, composte da persone appartenenti alle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                professori ordinari, straordinari e associati di ruolo, fuori ruolo od a riposo e ricercatori confermati afferenti ad aree scientificodisciplinari relative all'ordinamento didattico del diploma universitario in servizio sociale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                professori a contratto per materie professionali, inerenti le discipline dell'area di servizio sociale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                liberi professionisti iscritti all'albo degli assistenti sociali con non meno di cinque anni di esercizio professionale ai quali non siano state applicate sanzioni disciplinari;
+
+                            
+                        
+                        
+                            d)
+                            
+                                assistenti sociali dipendenti da pubbliche amministrazioni inquadrati da non meno di cinque anni in un profilo professionale che comprenda almeno una delle attivita' di cui all'art. 1 della legge 23 marzo 1993, n. 84, ai quali non siano state applicate sanzioni disciplinari da parte dell'amministrazione di appartenza, ne' da parte dell'ordine professionale cui siano eventualmente iscritti.
 
 Fino a quando non vi siano liberi professionisti che abbiano maturato almeno cinque anni di iscrizione all'albo, i competenti consigli possono designare, quali membri delle terne, assistenti sociali iscritti all'albo ai sensi dell'art. 2 della legge 23 marzo 1993, n. 84.
 

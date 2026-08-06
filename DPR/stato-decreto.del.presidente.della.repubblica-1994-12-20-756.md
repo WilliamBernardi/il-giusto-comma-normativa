@@ -8,8 +8,8 @@ codice_redazionale: 095G0038
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -78,4 +78,57 @@ Il segretario del CIIS redige il processo verbale di ciascuna seduta, ne cura la
 Il processo verbale della seduta e' approvato e sottoscritto dal Presidente del Consiglio dei Ministri.
 
 ## Art. 7. — F u n z i o n i
+
+1.
+                    
+                        
+                            Il CIIS:
+ 
+                        
+                        
+                            a)
+                            
+                                svolge funzioni di consulenza e proposta, per il Presidente del Consiglio dei Ministri, sugli indirizzi generali e sugli obiettivi fondamentali da perseguire nel quadro della politica informativa e di sicurezza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esprime parere vincolante sui provvedimenti da emanarsi ai sensi dell'art. 7, comma 2, della legge 24 ottobre 1977, n. 801, concernenti la consistenza dell'organico della Segreteria generale del CESIS e di ciascun Servizio, i casi e le modalita' relativi al rientro dei dipendenti pubblici nelle amministrazioni di originaria appartenenza, il trattamento giuridico-economico e i casi e le modalita' di trasferimento ad altra amministrazione dello Stato del personale assunto direttamente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                propone al Presidente del Consiglio dei Ministri il riparto delle somme da assegnare al CESIS, al SISMI ed al SISDE per spese di organizzazione e di funzionamento, nonche' per spese riservate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esprime parere sulla nomina e revoca del Segretario generale del CESIS e sulle nomine degli altri funzionari della Segreteria generale del CESIS, per i quali detto parere sia previsto dalle disposizioni sull'ordinamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                esprime parere vincolante sulle nomine dei direttori del SISMI e del SISDE e degli altri funzionari per i quali detto parere sia previsto dalle disposizioni sull'ordinamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                esprime parere per il mantenimento in servizio oltre il limite di eta' del Segretario generale e del vice segretario del CESIS, nonche' dei direttori e dei vice direttori del SISMI e del SISDE, ai sensi delle disposizioni dell'ordinamento;
+
+                            
+                        
+                        
+                            g)
+                            
+                                esprime parere su ogni altro argomento che il Presidente del Consiglio dei Ministri ritenga di sottoporre ad esso.
 

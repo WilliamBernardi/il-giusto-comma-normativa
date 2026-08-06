@@ -8,8 +8,8 @@ codice_redazionale: 090G0140
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,87 @@ D'intesa con il Ministro per il coordinamento della protezione civile;
 E' istituito il Dipartimento della protezione civile, di seguito indicato Dipartimento, alle dipendenze del Ministro per il coordinamento della protezione civile.
 
 ## Art. 2. — Competenze
+
+1.
+                    
+                        
+                            Il Dipartimento provvede agli adempimenti riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                la promozione ed il raccordo di iniziative e di strutture, anche di volontariato, a livello centrale, che concorrono all'attuazione del servizio nazionale della protezione civile; la predisposizione dei mezzi necessari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'acquisizione e la divulgazione di dati ed informazioni relativi alla previsione e prevenzione delle emergenze, anche attraverso studi e carte tematiche dei rischi; nonche' l'attivita' di comitati ed altri organi collegiali operanti in materia di grandi rischi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i rapporti con amministrazioni, enti ed organismi che svolgono, in Italia e all'estero, attivita' scientifica interessante la protezione civile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il coordinamento dei piani di protezione civile nazionali o relativi ad ambiti territoriali specifici;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il coordinamento della attuazione dei piani di emergenza e dell'utilizzazione di risorse, di mezzi, anche di volontariato, di soccorso e di protezione ai fini della difesa civile, ivi comprese le misure sanitarie, per emergenze sul territorio nazionale ed estero;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'informazione della popolazione e l'organizzazione e direzione di esercitazioni di protezione civile; il coordinamento dell'addestramento delle componenti interessate alla protezione civile;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il coordinamento di amministrazioni ed organismi interessati ai fini degli eventuali interventi di protezione civile nelle fasi successive all'emergenza, nei casi di calamita' di notevole estensione e gravita'; l'elaborazione di direttive e misure di natura tecnica ed amministrativa;
+
+                            
+                        
+                        
+                            h)
+                            
+                                attivita' connesse agli interventi di ripristino delle strutture danneggiate e alla realizzazione di opere pubbliche di emergenza finanziate con il fondo della protezione civile;
+
+                            
+                        
+                        
+                            i)
+                            
+                                gli affari generali e l'attivita' di documentazione;
+
+                            
+                        
+                        
+                            l)
+                            
+                                individuazione e formazione delle associazioni e dei gruppi di volontariato di protezione civile e programmazione nel settore;
+
+                            
+                        
+                        
+                            m)
+                            
+                                l'organizzazione e le attivita' strumentali al funzionamento del dipartimento, nonche' con il coordinamento dei competenti uffici e dipartimenti del Segretariato generale gli affari relativi a personale, beni e servizi, anche informatici, per il funzionamento del Dipartimento, gli adempimenti in materia contabile e finanziaria attibuiti al Ministro per il coordinamento della protezione civile; nonche' le attivita' contrattuali e gli acquisti riguardanti il fondo per la protezione civile.
 
 ## Art. 3. — Organizzazione
 

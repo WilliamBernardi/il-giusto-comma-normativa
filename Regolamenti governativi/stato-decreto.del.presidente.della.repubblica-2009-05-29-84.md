@@ -8,8 +8,8 @@ codice_redazionale: 009G0095
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,52 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti;
 ## Art. 1. — Ambito d'applicazione e definizioni
 
 Le disposizioni del presente regolamento definiscono le modalita' di ripartizione e di erogazione delle risorse, nel limite dell'importo di euro 9 milioni, finalizzate a favorire i processi di aggregazione fra le piccole e medie imprese di autotrasporto di merci per conto di terzi.
+
+2.
+                    
+                        
+                            Ai fini del presente regolamento, si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                autotrasporto di cose per conto di terzi: l'attivita' di cui all'articolo 40 della legge 6 giugno l974, n. 298;
+
+                            
+                        
+                        
+                            b)
+                            
+                                albo degli autotrasportatori: l'albo nazionale delle persone fisiche e giuridiche che esercitano l'autotrasporto di cose per conto di terzi, di cui alla legge 6 giugno 1974, n. 298;
+
+                            
+                        
+                        
+                            c)
+                            
+                                impresa di autotrasporto: la persona fisica o giuridica iscritta nel registro delle imprese o nell'albo delle imprese artigiane di cui alla legge 8 agosto 1985, n. 443, che esercita l'attivita' di autotrasporto di cose per conto di terzi e che e' iscritta all'albo degli autotrasportatori;
+
+                            
+                        
+                        
+                            d)
+                            
+                                raggruppamenti: le strutture societarie costituite a norma del libro V, titolo VI, capo I, o del libro V, titolo X, capo II, sezioni II e II-bis, del codice civile;
+
+                            
+                        
+                        
+                            e)
+                            
+                                piccole e medie imprese: rispettivamente le imprese che occupano meno di 50 persone e realizzano un fatturato annuo e un totale di bilancio annuo non superiore a 10 milioni di euro, e le imprese che occupano meno di 250 persone, il cui fatturato annuo non superi i 50 milioni di euro;
+
+                            
+                        
+                        
+                            f)
+                            
+                                microimpresa: un'impresa che occupa meno di dieci persone e realizza un fatturato annuo e un totale di bilancio annuo non superiore a 2 milioni di euro.
 
 ## Art. 2. — Soggetti beneficiari
 
@@ -44,6 +90,52 @@ Ai benefici si accede esclusivamente mediante richiesta da presentarsi, a pena d
 In conformita' a quanto disposto dall'articolo 1, paragrafo 6, del regolamento (CE) n. 800/2008, sono esclusi dal presente regime le imprese destinatarie di un obbligo di recupero pendente a seguito di una precedente decisione della Commissione europea che dichiara un aiuto illegale e incompatibile con il mercato comune.
 
 ## Art. 4. — Procedura di richiesta dei benefici Valutazione delle istanze
+
+1.
+                    
+                        
+                            Con decreto del Ministro delle infrastrutture e dei trasporti, da adottarsi entro trenta giorni dalla data di entrata in vigore del presente regolamento, sono stabiliti termini e modalita' per accedere ai benefici di cui al presente regolamento, nonche' i modelli delle istanze e le indicazioni che le stesse dovranno contenere, fra le quali dovranno obbligatoriamente figurare quelle relative a:
+ 
+                        
+                        
+                            a)
+                            
+                                ragione sociale delle singole imprese coinvolte nel processo di aggregazione, e della struttura societaria finale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sede del raggruppamento di imprese;
+
+                            
+                        
+                        
+                            c)
+                            
+                                legale rappresentante del raggruppamento di imprese;
+
+                            
+                        
+                        
+                            d)
+                            
+                                indirizzo del legale rappresentante dell'impresa;
+
+                            
+                        
+                        
+                            e)
+                            
+                                numero di iscrizione all'Albo nazionale degli Autotrasportatori;
+
+                            
+                        
+                        
+                            f)
+                            
+                                dichiarazione sostitutiva dell'atto di notorieta', resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, di non rientrare tra coloro che hanno ricevuto e, successivamente non rimborsato, ovvero depositato in un conto bloccato gli aiuti individuati quali illegali o incompatibili dalla Commissione europea, in conformita' a quanto disposto dall'articolo 3, comma 5, del presente regolamento.
 
 Con decreto dirigenziale del Ministero delle infrastrutture e dei trasporti - Dipartimento per i trasporti terrestri, la navigazione ed i sistemi informativi e statistici, e' istituita una Commissione, che provvede, con le risorse umane e strumentali gia' in dotazione allo stesso Ministero, a valutare le istanze presentate per accedere ai benefici di cui al presente regolamento. Con lo stesso decreto, sono individuati i criteri cui tale Commissione dovra' attenersi nella valutazione delle istanze; ai componenti della suddetta Commissione non e' corrisposto alcun emolumento, indennita' o rimborso spese.
 

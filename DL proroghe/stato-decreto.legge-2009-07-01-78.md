@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2023-06-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -126,7 +126,103 @@ Entro trenta giorni dalla data di entrata in vigore della legge di conversione d
 
 
 
+1.
+                        
+                            
+                                Le disposizioni del presente articolo si applicano ai datori di lavoro italiani o cittadini di uno Stato membro dell'Unione europea, ovvero ai datori di lavoro extracomunitari in possesso del titolo di soggiorno previsto dall'articolo 9 del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni, che alla data del 30 giugno 2009 occupavano irregolarmente alle proprie dipendenze, da almeno tre mesi, lavoratori italiani o cittadini di uno Stato membro dell'Unione europea, ovvero lavoratori extracomunitari, comunque presenti nel territorio nazionale, e continuano ad occuparli alla data di presentazione della dichiarazione di cui al comma 2, adibendoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ad attivita' di assistenza per se stesso o per componenti della propria famiglia, ancorche' non conviventi, affetti da patologie o handicap che ne limitino l'autosufficienza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ovvero al lavoro domestico di sostegno al bisogno familiare.
+
+2.
+                        
+                            
+                                I datori di lavoro di cui al comma 1 possono dichiarare, dal 1° al 30 settembre 2009, la sussistenza del rapporto di lavoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'Istituto nazionale della previdenza sociale (INPS) per il lavoratore italiano o per il cittadino di uno Stato membro dell'Unione europea, mediante apposito modulo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    allo sportello unico per l'immigrazione, di cui all'articolo 22 del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni, per il lavoratore extracomunitario, mediante l'apposita dichiarazione di cui al comma 4.
+
 La dichiarazione di emersione di cui al comma 2 e' presentata previo pagamento di un contributo forfetario di 500 euro per ciascun lavoratore. Il contributo non e' deducibile ai fini dell'imposta sul reddito.
+
+4.
+                        
+                            
+                                La dichiarazione di cui al comma 2, lettera b), e' presentata, con modalita' informatiche, nel termine di cui al medesimo comma e contiene, a pena di inammissibilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati identificativi del datore di lavoro, compresi i dati relativi al titolo di soggiorno nel caso di datore di lavoro extracomunitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione delle generalita' e della nazionalita' del lavoratore extracomunitario occupato al quale si riferisce la dichiarazione e l'indicazione degli estremi del passaporto o di un altro documento equipollente valido per l'ingresso nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione della tipologia e delle modalita' di impiego; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'attestazione, per la richiesta di assunzione di un lavoratore di cui alla lettera b) del comma 1, addetto al lavoro domestico di sostegno al bisogno familiare, del possesso di un reddito imponibile, risultante dalla dichiarazione dei redditi, non inferiore a 20.000 euro annui in caso di nucleo familiare composto da un solo soggetto percettore di reddito, ovvero di un reddito complessivo non inferiore a 25.000 euro annui in caso di nucleo familiare composto da piu' soggetti conviventi percettori di reddito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'attestazione dell'occupazione del lavoratore per il periodo previsto dal comma 1; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la dichiarazione che la retribuzione convenuta non e' inferiore a quella prevista dal vigente contratto collettivo nazionale di lavoro di riferimento e che, in caso di lavoro domestico di sostegno al bisogno familiare, l'orario lavorativo non e' inferiore a quello stabilito dall'articolo 30-bis, comma 3, lettera c), del regolamento di cui al decreto del Presidente della Repubblica 31 agosto 1999, n. 394; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la proposta di contratto di soggiorno previsto dall'articolo 5-bis del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli estremi della ricevuta di pagamento del contributo forfetario di cui al comma 3.
 
 La dichiarazione di emersione determina la rinuncia alla richiesta di nulla osta al lavoro subordinato per le attivita' di cui al comma 1, presentata ai sensi dei decreti del Presidente del Consiglio dei ministri 30 ottobre 2007 e 3 dicembre 2008, pubblicati, rispettivamente, nella Gazzetta Ufficiale n. 279 del 30 novembre 2007 e n. 288 del 10 dicembre 2008, concernenti la programmazione transitoria dei flussi di ingresso dei lavoratori extracomunitari non stagionali nel territorio dello Stato.
 
@@ -135,6 +231,24 @@ La dichiarazione di cui al comma 2, lettera b), e' limitata, per ciascun nucleo 
 Lo sportello unico per l'immigrazione, verificata l'ammissibilita' della dichiarazione e acquisito il parere della questura sull'insussistenza di motivi ostativi al rilascio del permesso di soggiorno, convoca le parti per la stipulazione del contratto di soggiorno e per la presentazione della richiesta del permesso di soggiorno per lavoro subordinato, previa esibizione dell'avvenuto pagamento del contributo di cui al comma 3. Il datore di lavoro che ha dichiarato una o due unita' per l'attivita' di assistenza ai sensi del comma 6 deve presentare allo sportello unico per l'immigrazione, a pena di inammissibilita' della dichiarazione di emersione, una certificazione, rilasciata da una struttura sanitaria pubblica o da un medico convenzionato con il Servizio sanitario nazionale, che attesti la limitazione dell'autosufficienza del soggetto per il quale viene richiesta l'assistenza al momento in cui e' sorto il rapporto di lavoro ai sensi del comma 1. Nel caso di dichiarazione di due unita' per l'attivita' di assistenza ai sensi del comma 6, la certificazione deve altresi' attestare la necessita' di avvalersi di due unita'. La sussistenza di meri errori materiali non costituisce di per se' causa di inammissibilita' della dichiarazione di cui al comma 2. La mancata presentazione delle parti senza giustificato motivo comporta l'archiviazione del procedimento.
 Entro ventiquattro ore dalla data della stipulazione del contratto di soggiorno, il datore di lavoro deve effettuare la comunicazione obbligatoria di assunzione all'INPS. Restano ferme le disposizioni relative agli oneri a carico del richiedente il permesso di soggiorno.
 
+8.
+                        
+                            
+                                Dalla data di entrata in vigore della legge di conversione del presente decreto e fino alla conclusione del procedimento di cui al presente articolo, sono sospesi i procedimenti penali e amministrativi nei confronti del datore di lavoro e del lavoratore che svolge le attivita' di cui al comma I per le violazioni delle norme: 
+ 
+                            
+                            
+                                a)
+                                
+                                    relative all'ingresso e al soggiorno nel territorio nazionale, con esclusione di quelle di cui all'articolo 12 del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relative all'impiego di lavoratori, anche se rivestano carattere finanziario, fiscale, previdenziale o assistenziale.
+
 Nei casi in cui non venga presentata la dichiarazione di cui al comma 2 ovvero si proceda all'archiviazione del procedimento o al rigetto della dichiarazione, la sospensione di cui al comma 8 cessa, rispettivamente, alla data di scadenza del termine per la presentazione ovvero alla data di archiviazione del procedimento o di rigetto della dichiarazione medesima.
 
 Nelle more della definizione del procedimento di cui al presente articolo, lo straniero non puo' essere espulso, tranne che nei casi previsti al comma 13.
@@ -142,6 +256,31 @@ Nelle more della definizione del procedimento di cui al presente articolo, lo st
 La sottoscrizione del contratto di soggiorno, congiuntamente alla comunicazione obbligatoria di assunzione all'INPS di cui al comma 7, e il rilascio del permesso di soggiorno comportano, rispettivamente, per il datore di lavoro e il lavoratore l'estinzione dei reati e degli illeciti amministrativi relativi alle violazioni di cui al comma 8.
 
 Il contratto di soggiorno stipulato sulla base di una dichiarazione di emersione contenente dati non rispondenti al vero e' nullo ai sensi dell'articolo 1344 del codice civile. In tal caso, il permesso di soggiorno eventualmente rilasciato e' revocato ai sensi dell'articolo 5, comma 5, del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni.
+
+13.
+                        
+                            
+                                Non possono essere ammessi alla procedura di emersione prevista dal presente articolo i lavoratori extracomunitari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti dei quali sia stato emesso un provvedimento di espulsione ai sensi dell'articolo 13, commi 1 e 2, lettera c), del testo unico di cui al decreto legislativo 25 luglio 1998, n.,286, e dell'articolo 3 del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che risultino segnalati, anche in base ad accordi o convenzioni internazionali in vigore per l'Italia, ai fini della non ammissione nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che risultino condannati, anche con sentenza non definitiva, compresa quella pronunciata anche a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per uno dei reati previsti dagli articoli 380 e 381 del medesimo codice. ((30))
 
 Con decreto del Ministro del lavoro, della salute e delle politiche sociali, di concerto con il Ministro dell'interno e con il Ministro dell'economia e delle finanze, sono determinate le modalita' di destinazione del contributo forfetario, di cui al comma 3, sia per far fronte all'organizzazione e allo svolgimento dei compiti di cui al presente articolo, sia in relazione alla posizione contributiva previdenziale e assistenziale del lavoratore interessato. Il Ministro del lavoro, della salute e delle politiche sociali, con proprio decreto, determina, altresi', le modalita' di corresponsione delle somme e degli interessi dovuti per i contributi previdenziali e assistenziali concernenti i periodi antecedenti ai tre mesi di cui al comma 1.
 
@@ -183,6 +322,31 @@ Al fine di promuovere l'efficienza e la concorrenza nei mercati dell'energia, ne
 
 Il prezzo da riconoscere a ciascun soggetto cedente il gas naturale nelle procedure di cui al comma 1 e' fissato, con proprio decreto, dal Ministro dello sviluppo economico su proposta dell'Autorita' per l'energia elettrica e il gas, formulata con riferimento ai prezzi medi dei mercati europei rilevanti e prevedendo anche un riscontro di congruenza tra il prezzo da riconoscere e la struttura dei costi di approvvigionamento sostenuti dal cedente, verificati dalla citata Autorita' sulla base degli elementi previsti nei contratti di approvvigionamento rilevanti ai fini della determinazione dei predetti costi per i corrispondenti periodi di competenza. L'eventuale differenza positiva tra il prezzo di vendita corrisposto dagli acquirenti e quello da riconoscere al soggetto cedente e' destinata a vantaggio dei clienti finali industriali che, sulla base del profilo medio di consumo degli ultimi 3 anni, evidenzino un elevato coefficiente di utilizzo dei prelievi del gas secondo criteri definiti dal Ministro dello sviluppo economico su proposta della medesima Autorita', tenendo conto dei mandati dei clienti.
 
+3.
+                        
+                            
+                                Al fine di consentire un'efficiente gestione dei volumi di gas ceduto attraverso le procedure concorrenziali di cui al comma 1, l'Autorita' per l'energia elettrica e il gas, entro novanta giorni dalla data di entrata in vigore del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    introduce nelle tariffe di trasporto del gas naturale misure di degressivita' che tengano conto della struttura costi del servizio in ragione del coefficiente di utilizzo a valere dall'inizio del primo periodo di regolazione tariffaria del trasporto del gas successivo alla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adegua la disciplina del bilanciamento del gas naturale, adottando gli opportuni meccanismi di flessibilita' a vantaggio dei clienti finali, anche industriali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuove, sentito il Ministero dello sviluppo economico, l'offerta dei servizi di punta per il sistema del gas naturale e la fruizione dei servizi di stoccaggio ai clienti finali industriali e termoelettrici, nel rispetto dei vigenti livelli di sicurezza degli approvvigionamenti e delle forniture.
+
 In caso di mancato rispetto dei termini per gli adempimenti di cui al presente articolo, i relativi provvedimenti sono adottati, in via transitoria e sino all'adozione dei medesimi provvedimenti da parte dei soggetti competenti ai sensi dei commi da 1 a 3, con decreto del Presidente del Consiglio dei Ministri.
 
 ((COMMA ABROGATO DAL D.LGS. 3 MARZO 2011, N. 28)).
@@ -203,6 +367,24 @@ Su proposta del Ministro dello sviluppo economico, di concerto con il Ministro d
 Gli interventi di cui al comma 1 sono realizzati in regime di cooperazione funzionale ed organizzativa tra commissari straordinari del Governo, nominati ai sensi del comma 3, e le regioni e province autonome interessate. Con le intese di cui al comma 1, sono definiti i criteri per l'esercizio della cooperazione funzionale ed organizzativa tra commissari straordinari, regioni e province autonome per l'esercizio dei compiti di cui al presente articolo; tali criteri possono contemplare anche il coinvolgimento di soggetti privati nell'attuazione degli interventi e nel relativo finanziamento, purche' ne siano assicurate l'effettivita' e l'entita'. Ciascun commissario, sentiti gli enti locali interessati, emana gli atti e i provvedimenti, nonche' cura tutte le attivita', di competenza delle amministrazioni pubbliche che non abbiano rispettato i termini previsti dalla legge o quelli piu' brevi, comunque non inferiori alla meta', eventualmente fissati in deroga dallo stesso commissario, occorrenti all'autorizzazione e all'effettiva realizzazione degli interventi, nel rispetto delle disposizioni comunitarie. (14) (24)
 
 Per la realizzazione degli interventi ai sensi del comma 2, con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, sono nominati uno o piu' commissari straordinari del Governo. Il medesimo decreto determina i compiti del commissario e i poteri di controllo e di vigilanza del Ministro per la semplificazione normativa e degli altri Ministri competenti. Lo stesso decreto, senza che cio' comporti nuovi o maggiori oneri a carico della finanza pubblica, individua altresi' le dotazioni di mezzi e di personale, nonche' le strutture anche di concessionari di cui puo' avvalersi il commissario, cui si applica l'articolo 2-quinquies del decreto-legge 25 gennaio 2010, n. 3, convertito, con modificazioni, dalla legge 22 marzo 2010, n. 41, anche ai fini dei relativi oneri. L'incarico e' conferito per il tempo indicato nel decreto di nomina, salvo proroga o revoca. Le nomine di cui al presente comma sono considerate a ogni effetto cariche presso istituzioni che svolgono compiti di alta amministrazione e del conferimento dell'incarico e' data notizia nella Gazzetta Ufficiale.
+
+4.
+                        
+                            
+                                In caso di mancato raggiungimento dell'intesa di cui al comma 1, decorsi trenta giorni dalla convocazione del primo incontro tra il Governo e la regione o la provincia autonoma interessata per il raggiungimento dell'intesa, il Governo puo' individuare gli interventi di cui al comma 1, dichiararne l'urgenza e l'indifferibilita' nonche' definire i criteri di cui al secondo periodo del comma 2, anche a prescindere dall'intesa, con deliberazione motivata del Consiglio dei Ministri cui sia stato invitato a partecipare il Presidente della regione o della provincia autonoma interessata. In tal caso il commissario del Governo, nominato con le procedure di cui al comma 3, da' impulso agli interventi, se indispensabile, avvalendosi, oltre che delle procedure di cui al terzo periodo del comma 2, di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    poteri straordinari di sostituzione e di deroga di cui all'articolo 20, comma 4, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mezzi e risorse finanziarie pubbliche gia' previste a legislazione vigente; in ogni caso l'apporto finanziario dei soggetti privati deve essere proporzionato alle risorse pubbliche utilizzate. (17) (24) (21)
 
 ((COMMA ABROGATO DAL D.LGS. 18 APRILE 2016, N. 50)).
 
@@ -315,6 +497,25 @@ Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con i
 
 ## Art. 7. — Ulteriore svalutazione fiscale di crediti in sofferenza
 
+1.
+                        
+                            
+                                All'articolo 106 del (( testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, di seguito denominato "TUIR", )) sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 3, e' inserito il seguente comma: 
+ "3-bis: Per i nuovi crediti di cui al comma 3 erogati a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2009, limitatamente all'ammontare che eccede la media dei crediti erogati nei due periodi d'imposta precedenti, diversi da quelli assistiti da garanzia o da misure agevolative in qualsiasi forma concesse dallo Stato, da enti pubblici e da altri enti controllati direttamente o indirettamente dallo Stato, le percentuali di cui allo stesso comma sono elevate allo 0,50 per cento. L'ammontare delle svalutazioni eccedenti il detto limite e' deducibile in quote costanti nei nove esercizi successivi."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 5 dopo le parole "di cui al comma 3" sono aggiunte le parole "e di cui al comma 3-bis".
+
 Per il periodo d'imposta in corso alla data di entrata in vigore del presente decreto, la disposizione di cui al comma 3-bis dell'articolo 106 del TUIR ((, introdotto dalla lettera a) del comma 1 del presente articolo, )) si applica ai crediti erogati a partire dalla data di entrata in vigore del decreto stesso e la media ivi prevista e' commisurata alla residua durata del suddetto periodo d'imposta.
 
 Per evitare indebiti effetti di sostituzione e novazione, l'Agenzia delle entrate dispone controlli mirati alla verifica della corretta applicazione delle disposizioni di cui al presente articolo. 
@@ -325,6 +526,28 @@ In caso di violazioni, le sanzioni di cui all'articolo 1 del decreto legislativo
 Il Ministro dell'economia e delle finanze con propri decreti autorizza e disciplina le attivita' di Cassa depositi e prestiti s.p.a. per dare vita, a condizioni di mercato, ad un sistema integrato di "export banca". A questo fine tra le operazioni di interesse pubblico che possono essere attivate dalla Cassa depositi e prestiti s.p.a. con l'utilizzo dei fondi di cui all'articolo 5, comma 7, lettera a), del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, e successive modificazioni, rientrano anche le operazioni per sostenere l'internazionalizzazione delle imprese ((...)). Con i medesimi decreti sono stabiliti modalita' e criteri al fine di consentire le operazioni di assicurazione del credito per le esportazioni da parte della SACE s.p.a. anche in favore delle piccole e medie imprese nazionali .
 
 ## Art. 9. — Tempestivita' dei pagamenti delle pubbliche amministrazioni
+
+1.
+                        
+                            
+                                Al fine di garantire la tempestivita' dei pagamenti delle pubbliche amministrazioni, in attuazione della direttiva 2000/35/CE del Parlamento europeo e del Consiglio, del 29 giugno 2000, relativa alla lotta contro i ritardi di pagamento nelle transazioni commerciali, recepita con il decreto legislativo 9 ottobre 2002, n. 231: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per prevenire la formazione di nuove situazioni debitorie: 
+ 1. le pubbliche amministrazioni incluse nell'elenco adottato dall'Istituto nazionale di statistica (ISTAT) ai sensi del comma 5 dell'articolo 1 della legge 30 dicembre 2004, n. 311, adottano entro il 31 dicembre 2009, senza nuovi o maggiori oneri per la finanza pubblica, le opportune misure organizzative per garantire il tempestivo pagamento delle somme dovute per somministrazioni, forniture ed appalti. Le misure adottate sono pubblicate sul sito internet dell'amministrazione; 
+ 2. nelle amministrazioni di cui al numero 1, al fine di evitare ritardi nei pagamenti e la formazione di debiti pregressi, il funzionario che adotta provvedimenti che comportano impegni di spesa ha l'obbligo di accertare preventivamente che il programma dei conseguenti pagamenti sia compatibile con i relativi stanziamenti di bilancio e con le regole di finanza pubblica; la violazione dell'obbligo di accertamento di cui al presente numero comporta responsabilita' disciplinare ed amministrativa. Qualora lo stanziamento di bilancio, per ragioni sopravvenute, non consenta di far fronte all'obbligo contrattuale, l'amministrazione adotta le opportune iniziative, anche di tipo contabile, amministrativo o contrattuale, per evitare la formazione di debiti pregressi. Le disposizioni del presente punto non si applicano alle aziende sanitarie locali, ospedaliere, ospedaliere universitarie, ivi compresi i policlinici universitari, e agli istituti di ricovero e cura a carattere scientifico pubblici, anche trasformati in fondazioni; 
+ 3. allo scopo di ottimizzare l'utilizzo delle risorse ed evitare la formazione di nuove situazioni debitorie, l'attivita' di analisi e revisione delle procedure di spesa e dell'allocazione delle relative risorse in bilancio prevista per i Ministeri dall'articolo 9, comma 1-ter, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e' effettuata anche dalle altre pubbliche amministrazioni incluse nell'elenco di cui al numero 1 della presente lettera, escluse le Regioni e le Province autonome per le quali la presente disposizione costituisce principio fondamentale di coordinamento della finanza pubblica. I risultati delle analisi sono illustrati in appositi rapporti redatti in conformita' con quanto stabilito ai sensi del comma 1-quater del citato articolo 9 del decreto-legge n. 185 del 2008; 
+ 4. per le amministrazioni dello Stato, il Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, anche attraverso gli uffici centrali del bilancio e le ragionerie territoriali dello Stato, vigila sulla corretta applicazione delle disposizioni di cui alla presente lettera, secondo procedure da definire con apposito decreto del Ministero dell'economia e delle finanze, da emanarsi entro trenta giorni dall'entrata in vigore del presente decreto. Per gli enti ed organismi pubblici non territoriali gli organi interni di revisione e di controllo provvedono agli analoghi adempimenti di vigilanza. I rapporti di cui al numero 3 sono inviati ai Ministeri vigilanti; per gli enti locali e gli enti del servizio sanitario nazionale i rapporti sono allegati alle relazioni rispettivamente previste nell'articolo 1, commi 166 e 170, della legge 23 dicembre 2005, n. 266; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione ai debiti gia' in essere alla data di entrata in vigore del presente decreto, l'ammontare dei crediti esigibili nei confronti dei Ministeri alla data del 31 dicembre 2008, iscritti nel conto dei residui passivi del bilancio dello Stato per l'anno 2009 ed in essere alla data di entrata in vigore del presente decreto, per somministrazioni, forniture ed appalti, e' accertato, all'esito di una rilevazione straordinaria, con decreto del Ministro dell'economia e delle finanze. I predetti crediti sono resi liquidabili nei limiti delle risorse rese disponibili dalla legge di assestamento di cui all'articolo 17, primo comma, della legge 5 agosto 1978, n. 468, relativa all'anno finanziario 2009.
 
 Le somme dovute da una regione commissariata ai sensi dell'articolo 1, comma 174, della legge 30 dicembre 2004, n. 311, e successive modificazioni, nei confronti di un'amministrazione pubblica di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, sono regolate mediante intervento del tesoriere con delegazione di pagamento ai sensi degli articoli 1268 e seguenti del codice civile, che si determina automaticamente al momento del riconoscimento del debito da parte dell'amministrazione debitrice, da effettuare entro trenta giorni dall'istanza dell'amministrazione creditrice. Decorso tale termine senza contestazioni puntuali da parte della pubblica amministrazione debitrice, il debito si intende comunque riconosciuto nei termini di cui all'istanza. ((10))
 
@@ -347,6 +570,31 @@ Sono esclusi dal patto di stabilita' interno delle regioni e delle province auto
 
 I mutui concessi dalla Cassa depositi e prestiti Spa, ivi inclusi quelli trasferiti al Ministero dell'economia e delle finanze ai sensi del decreto del Ministro dell'economia e delle finanze 5 dicembre 2003, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 288 del 12 dicembre 2003, in base a leggi speciali che prevedono l'ammortamento a carico dello Stato, interamente o parzialmente non erogati, possono essere oggetto di rinuncia, anche parziale, a seguito di deliberazione del soggetto beneficiario o dell'ente pubblico di riferimento.
 
+7.
+                        
+                            
+                                L'eventuale quota parte del finanziamento non rinunciata e non erogata puo' essere devoluta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in misura non superiore al 50 per cento dell'importo non erogato, con decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero competente, su richiesta dei medesimi beneficiari originari o dei loro enti pubblici di riferimento, ad altre opere pubbliche o a investimenti infrastrutturali di loro competenza. Resta ferma l'imputazione degli oneri di ammortamento dei mutui agli originari capitoli di spesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in misura non superiore al 25 per cento delle disponibilita' che residuano, al netto di quanto previsto ai sensi della lettera a), ad interventi infrastrutturali compresi nel programma di infrastrutture strategiche di cui all'articolo 1 della legge 21 dicembre 2001, n. 443, e successive modificazioni, suscettibili di produrre positive ricadute sullo sviluppo delle comunita' locali e del territorio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la parte ulteriormente residua, ad uno speciale fondo iscritto nello stato di previsione della spesa del Ministero dell'economia e delle finanze e destinato al sostegno di interventi infrastrutturali per lo sviluppo del territorio degli enti locali che hanno rispettato il patto di stabilita' interno nell'ultimo triennio.
+
 Con decreto del Ministero dell'economia e delle finanze, da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, d'intesa con la Conferenza Stato-citta' ed autonomie locali, previo parere delle Commissioni parlamentari competenti per i profili di carattere finanziario, sono definite le modalita' di attuazione del comma 7.
 
 Le risorse trasferite dallo Stato al comune di Viareggio al fine di finanziare le opere di ricostruzione connesse al disastro ferroviario del 29 giugno 2009 e le spese effettuate da parte del comune a valere sulle predette risorse sono escluse dal saldo rilevante ai fini del rispetto del patto di stabilita' per l'anno 2009.
@@ -358,6 +606,39 @@ Le risorse trasferite dallo Stato al comune di Viareggio al fine di finanziare l
 
 ## Art. 10. — Incremento delle compensazioni dei crediti fiscali
 
+1.
+                        
+                            
+                                Per contrastare gli abusi e corrispondentemente per incrementare la liquidita' delle imprese, tramite un riordino delle norme concernenti il sistema delle compensazioni fiscali volto a renderlo piu' rigoroso, sono introdotte le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al fine di contrastare gli abusi: 
+ 1. all'articolo 17, comma 1, del decreto legislativo 9 luglio 1997, n. 241, e' aggiunto il seguente periodo: "La compensazione del credito annuale o relativo a periodi inferiori all'anno dell'imposta sul valore aggiunto, per importi superiori a 10.000 euro annui, puo' essere effettuata a partire dal giorno sedici del mese successivo a quello di presentazione della dichiarazione o dell'istanza da cui il credito emerge."; 
+ 2. al regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono apportate le seguenti modificazioni: 
+ 2.1. all'articolo 3, comma 1, e' aggiunto il seguente periodo: "In deroga a quanto previsto dal secondo periodo i contribuenti che intendono utilizzare in compensazione ovvero chiedere a rimborso il credito risultante dalla dichiarazione annuale ai fini dell'imposta sul valore aggiunto possono non comprendere tale dichiarazione in quella unificata."; 
+ 2.2. all'articolo 8, comma 4, terzo periodo, dopo le parole; "e' anche presentata," sono aggiunte le seguenti: "in via telematica ed"; 
+ 2.3. all'articolo 8-bis, comma 2, primo periodo, le parole: "articolo 88" sono sostituite dalle seguenti: "articolo 74" e le parole: "a lire 50 milioni" sono sostituite dalle seguenti: "a euro 25.000"; 
+ 2.4. all'articolo 8-bis, comma 2, e' aggiunto il seguente periodo: "Sono inoltre esonerati i contribuenti che presentano la dichiarazione annuale entro il mese di febbraio."; 
+ 3. all'articolo 38-bis, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 3.1. al primo comma, l'ottavo e nono periodo sono sostituiti dal seguente: "Con provvedimento del Direttore dell'Agenzia delle entrate sono definite le ulteriori modalita' ed i termini per l'esecuzione dei rimborsi previsti dal presente articolo."; 
+ 3.2. al sesto comma, dopo le parole: "Se successivamente al rimborso" sono aggiunte le seguenti: "o alla compensazione", dopo le parole: "indebitamente rimborsate" sono aggiunte le seguenti: "o compensate" e dopo le parole "dalla data del rimborso" sono aggiunte le seguenti: "o della compensazione"; 
+ 4. fino all'emanazione del provvedimento di cui al numero 3.1, continuano ad applicarsi le disposizioni vigenti prima dell'entrata in vigore del presente decreto; 
+ 5. all'articolo 8, comma 3, del regolamento di cui al decreto del Presidente della Repubblica 14 ottobre 1999, n. 542, e' aggiunto, infine, il seguente periodo: "Tali compensazioni possono essere effettuate solo successivamente alla presentazione dell'istanza di cui al comma 2."; 
+ 6. all'articolo 37 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, dopo il comma 49 e' inserito il seguente: "49-bis. I soggetti di cui al comma 49, che intendono effettuare la compensazione prevista dall'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, del credito annuale o relativo a periodi inferiori all'anno dell'imposta sul valore aggiunto per importi superiori a 10.000 euro annui, sono tenuti ad utilizzare esclusivamente i servizi telematici messi a disposizione dall'Agenzia delle entrate secondo modalita' tecniche definite con provvedimento del direttore della medesima Agenzia delle entrate entro sessanta giorni dalla data di entrata in vigore del presente comma."; 
+ 7. ((i contribuenti che intendono utilizzare in compensazione il credito annuale o infrannuale dell'imposta sul valore aggiunto per importi superiori a 5.000 euro annui hanno l'obbligo di richiedere l'apposizione del visto di conformita' di cui all'articolo 35, comma 1, lettera a), del decreto legislativo 9 luglio 1997, n. 241, sulla dichiarazione o sull'istanza da cui emerge il credito)). In alternativa la dichiarazione ((o l'istanza)) e' sottoscritta, oltre che dai soggetti di cui all'articolo 1, comma 4, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, dai soggetti di cui all'articolo 1, comma 5, del medesimo regolamento, relativamente ai contribuenti per i quali e' esercitato il controllo contabile di cui all'articolo 2409-bis del codice civile, attestante l'esecuzione dei controlli di cui all'articolo 2, comma 2, del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164. L'infedele attestazione dell'esecuzione dei controlli di cui al precedente periodo comporta l'applicazione della sanzione di cui all'articolo 39, comma 1, lettera a) primo periodo del decreto legislativo 9 luglio 1997, n. 241. In caso di ripetute violazioni, ovvero di violazioni particolarmente gravi, e' effettuata apposita segnalazione agli organi competenti per l'adozione di ulteriori provvedimenti. ((Nei casi di utilizzo in compensazione, ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, dei crediti di cui al presente comma in violazione dell'obbligo di previa apposizione del visto di conformita' o della sottoscrizione di cui al primo periodo sulle dichiarazioni da cui emergono i crediti stessi, ovvero nei casi di utilizzo in compensazione ai sensi dello stesso articolo 17 dei crediti che emergono da dichiarazioni con visto di conformita' o sottoscrizione apposti da soggetti diversi da quelli abilitati, con l'atto di cui all'articolo 1, comma 421, della legge 30 dicembre 2004, n. 311 l'ufficio procede al recupero dell'ammontare dei crediti utilizzati in violazione delle modalita' di cui al primo periodo e dei relativi interessi, nonche' all'irrogazione delle sanzioni.)) In relazione alle disposizioni di cui alla presente lettera, le dotazioni finanziarie della missione di spesa "Politiche economico-finanziarie e di bilancio" sono ridotte di 200 milioni di euro per l'anno 2009 e di 1.000 milioni di euro a decorrere dall'anno 2010; 
+ 7-bis. per le start-up innovative, di cui all'articolo 25 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, e successive modificazioni, durante il periodo di iscrizione nella sezione speciale del registro delle imprese di cui al comma 8 del citato articolo 25, il limite di importo di cui al numero 7 della presente lettera e' aumentato da ((5.000 euro)) a 50.000 euro; 
+ 8. all'articolo 27, comma 18 del decreto-legge 29 novembre 2008, n. 185 convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, dopo il secondo periodo e' aggiunto il seguente: "Per le sanzioni previste nel presente comma, in nessun caso si applica la definizione agevolata prevista dagli articoli 16, comma 3, e 17, comma 2, del decreto legislativo 18 dicembre 1997, n. 472."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al fine di incrementare le compensazioni fiscali, all'articolo 34, comma 1, della legge 23 dicembre 2000, n. 388, e' aggiunto, in fine, il seguente periodo: "Tenendo conto delle esigenze di bilancio, con decreto del Ministro dell'economia e delle finanze, il limite di cui al periodo precedente puo' essere elevato, a decorrere dal 1° gennaio 2010, fino a 700.000 euro.".
+
 ## Art. 11. — Analisi e studi economico-sociali
 
 I sistemi informativi del Ministero dell'economia e delle finanze, del Ministero del lavoro, della salute e delle politiche sociali nonche' dei soggetti ad essi collegati o da essi vigilati o controllati, sono, (( senza nuovi o maggiori oneri per il bilancio dello Stato )), utilizzabili in modo coordinato ed integrato al fine di poter disporre di una base unitaria di dati funzionale ad analisi e studi mirati alla elaborazione delle politiche economiche e sociali. La formazione e l'utilizzo della base unitaria avviene nel rispetto dei principi vigenti in materia di trattamento dei dati nell'ambito del sistema statistico nazionale, e in particolare del regolamento n. 223/2009 del Parlamento europeo e del Consiglio dell'11 marzo 2009, e della normativa sulla protezione dei dati personali.
@@ -365,6 +646,26 @@ I sistemi informativi del Ministero dell'economia e delle finanze, del Ministero
 ## Art. 11-bis. — (( (Obbligo di presentazione del documento unico di regolarita' contributiva). ))
 
 ((
+
+1.
+                        
+                            
+                                Al decreto legislativo 31 marzo 1998, n. 114, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 28, dopo il comma 2 e' inserito il seguente: 
+ "2-bis. L'autorizzazione all'esercizio dell'attivita' di cui al comma 1 e', in ogni caso, soggetta alla presentazione da parte del richiedente del documento unico di regolarita' contributiva (DURC), di cui all'articolo 1, comma 1176, della legge 27 dicembre 2006, n. 296. Entro il 31 gennaio di ciascun anno successivo a quello del rilascio dell'autorizzazione, il comune, avvalendosi anche della collaborazione gratuita delle associazioni di categoria riconosciute dal Consiglio nazionale dell'economia e del lavoro, verifica la sussistenza del documento"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 29, comma 4, e' aggiunta, in fine, la seguente lettera: 
+ "c-bis) nel caso di mancata presentazione iniziale e annuale del DURC di cui al comma 2-bis dell'articolo 28".
 
 ))
 
@@ -408,7 +709,80 @@ In relazione alle concrete esigenze operative, la quota del contingente previsto
 
 ## Art. 13. — Contrasto agli arbitraggi fiscali internazionali
 
+1.
+                        
+                            
+                                Per analogia e armonizzazione con quanto gia' disposto in altri ordinamenti europei, allo scopo di evitare indebiti arbitraggi fiscali l'accesso a regimi che possono favorire disparita' di trattamento, con particolare riferimento ad operazioni infragruppo, e' sottoposto ad una verifica di effettivita' sostanziale. A tal fine nel (( TUIR )) sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 167, nel comma 5, la lettera a) e' sostituita dalla seguente "a) la societa' o altro ente non residente svolga un'effettiva attivita' industriale o commerciale, come sua principale attivita', nel mercato dello stato o territorio di insediamento; per le attivita' bancarie, finanziarie e assicurative quest'ultima condizione si ritiene soddisfatta quando la maggior parte delle fonti, degli impieghi o dei ricavi originano nello Stato o territorio di insediamento"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 167, dopo il comma 5, e' aggiunto il seguente:
+"5-bis. La previsione di cui alla lettera a) del ((comma 5 )) non si applica qualora i proventi della societa' o altro ente non residente provengono per piu' del 50% dalla gestione, dalla detenzione o dall'investimento in titoli, partecipazioni, crediti o altre attivita' finanziarie, dalla cessione o dalla concessione in uso di diritti immateriali relativi alla proprieta' industriale, letteraria o artistica, nonche' dalla prestazione di servizi nei confronti di soggetti che direttamente o indirettamente controllano la societa' o l'ente non residente, ne sono controllati o sono controllati dalla stessa societa' che controlla la societa' o l'ente non residente, ivi compresi i servizi finanziari."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 167, dopo l'ultimo comma, sono aggiunti i seguenti: 
+ "8-bis. La disciplina di cui al comma 1 trova applicazione anche nell'ipotesi in cui i soggetti controllati ai sensi dello stesso comma sono localizzati in stati o territori diversi da quelli ivi richiamati, qualora ricorrono congiuntamente le seguenti condizioni: 
+ a) sono assoggettati a tassazione effettiva inferiore a piu' della meta' di quella a cui sarebbero stati soggetti ove residenti in Italia; 
+ b) hanno conseguito proventi derivanti per piu' del 50% dalla gestione, dalla detenzione o dall'investimento in titoli, partecipazioni, crediti o altre attivita' finanziarie, dalla cessione o dalla concessione in uso di diritti immateriali relativi alla proprieta' industriale, letteraria o artistica nonche' dalla prestazione di servizi nei confronti di soggetti che direttamente o indirettamente controllano la societa' o l'ente non residente, ne sono controllati o sono controllati dalla stessa societa' che controlla la societa' o l'ente non residente, ivi compresi i servizi finanziari. 
+ 8-ter. Le disposizioni del comma 8-bis non si applicano se il soggetto residente dimostra che l'insediamento all'estero non rappresenta una costruzione artificiosa volta a conseguire un indebito vantaggio fiscale. Ai fini del presente comma il contribuente deve interpellare l'amministrazione finanziaria secondo le modalita' indicate nel precedente comma 5."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'articolo 168, comma 1, dopo le parole "di cui all'articolo 167" sono aggiunte le seguenti: ", con l'esclusione di quanto disposto al comma 8-bis".
+
 ## Art. 13-bis. — Disposizioni concernenti il rimpatrio di attivita' finanziarie e patrimoniali detenute fuori del territorio dello Stato).
+
+1.
+                        
+                            
+                                E' istituita un'imposta straordinaria sulle attivita' finanziarie e patrimoniali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    detenute fuori del territorio dello Stato senza l'osservanza delle disposizioni del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a condizione che le stesse siano rimpatriate in Italia da Stati non appartenenti all'Unione europea, ovvero regolarizzate o rimpatriate perche' detenute in Stati dell'Unione europea e in Stati aderenti allo Spazio economico europeo che garantiscono un effettivo scambio di informazioni fiscali in via amministrativa.
+
+2.
+                        
+                            
+                                L'imposta si applica come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su un rendimento lordo presunto in ragione del 2 per cento annuo per i cinque anni precedenti il rimpatrio o la regolarizzazione, senza possibilita' di scomputo di eventuali perdite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con un'aliquota sintetica del 50 per cento per anno, comprensiva di interessi e sanzioni, e senza diritto allo scomputo di eventuali ritenute o crediti.
 
 Il rimpatrio ovvero la regolarizzazione si perfezionano con il pagamento dell'imposta e non possono in ogni caso costituire elemento utilizzabile a sfavore del contribuente, in ogni sede amministrativa o giudiziaria civile, amministrativa ovvero tributaria, in via autonoma o addizionale, con esclusione dei procedimenti in corso alla data di entrata in vigore della legge di conversione del presente decreto, ne' comporta l'obbligo di segnalazione di cui all'articolo 41 del decreto legislativo 21 novembre 2007, n. 231, relativamente ai rimpatri ovvero alle regolarizzazioni per i quali si determinano gli effetti di cui al comma 4, secondo periodo.
 
@@ -417,6 +791,24 @@ L'effettivo pagamento dell'imposta produce gli effetti di cui agli articoli 14 e
 Il rimpatrio o la regolarizzazione operano con le stesse modalita', in quanto applicabili, previste dagli articoli 11, 13, 14, 15, 16, 19, commi 2 e 2-bis, e 20, comma 3, del decreto-legge 25 settembre 2001, n. 350, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 409, e successive modificazioni, nonche' dal decreto-legge 22 febbraio 2002, n. 12, convertito, con modificazioni, dalla legge 23 aprile 2002, n. 73. Il direttore dell'Agenzia delle entrate stabilisce con proprio provvedimento le disposizioni e gli adempimenti, anche dichiarativi, per l'attuazione del presente articolo.
 
 L'imposta di cui al comma 1 si applica sulle attivita' finanziarie e patrimoniali detenute a partire da una data non successiva al 31 dicembre 2008 e rimpatriate ovvero regolarizzate a partire dal 15 settembre 2009 e fino al 15 dicembre 2009.
+
+7.
+                        
+                            
+                                All'articolo 5 del decreto-legge 28 giugno 1990, n. 167, convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 4, le parole: "dal 5 al 25" sono sostituite dalle seguenti: "dal 10 al 50"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 5, le parole: "dal 5 al 25" sono sostituite dalle seguenti: "dal 10 al 50".
 
 Possono effettuare il rimpatrio ovvero la regolarizzazione altresi' le imprese estere controllate ovvero collegate di cui agli articoli 167 e 168 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni. In tal caso gli effetti del rimpatrio ovvero della regolarizzazione si producono in capo ai partecipanti nei limiti degli importi delle attivita' rimpatriate ovvero regolarizzate. Negli stessi limiti non trovano applicazione le disposizioni di cui agli articoli 167 e 168 del predetto testo unico con riferimento ai redditi conseguiti dal soggetto estero partecipato nei periodi di imposta chiusi alla data del 31 dicembre 2008.
 
@@ -497,6 +889,78 @@ Gli uffici dell'Amministrazione autonoma dei monopoli di Stato, nell'adempimento
 All'articolo 83 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, dopo il comma 2 e' inserito il seguente: 
  "2-bis. La convenzione di cui al comma 2 disciplina anche le modalita' di trasmissione, tra le due Amministrazioni, delle violazioni in materia contributiva, per le quali non si applicano le disposizioni di cui all'articolo 1 del decreto legislativo 18 dicembre 1997, n. 462, rilevate dall'Agenzia delle entrate a seguito dei controlli effettuati e delle violazioni tributarie, comprese quelle riscontrate in materia di ritenute, individuate dall'INPS a seguito delle attivita' ispettive".
 
+8-quaterdecies.
+                        
+                            
+                                All'articolo 39-quater del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, secondo periodo, dopo la parola: "installazione" sono aggiunte le seguenti: "o, nel caso in cui non sia possibile la sua identificazione, dal possessore o detentore a qualsiasi titolo dei medesimi apparecchi o congegni"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, terzo periodo, le parole: "il possessore dei" sono sostituite dalle seguenti: "l'esercente a qualsiasi titolo i"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2, quarto periodo, le parole da: "o, nel caso" fino a: "nulla osta" sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 2, quinto periodo, la parola: "Sono" e' sostituita dalle seguenti: "Nel caso in cui non sia possibile l'identificazione dei soggetti che hanno commesso l'illecito, sono"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 2, quinto periodo, le parole: "il possessore dei" sono sostituite dalle seguenti: "il possessore o detentore, a qualsiasi titolo, dei medesimi apparecchi e congegni, l'esercente a qualsiasi titolo i"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il comma 4 e' aggiunto il seguente: 
+ "4-bis. L'Amministrazione autonoma dei monopoli di Stato puo' affidare, per il tempo e alle condizioni di cui ad apposita convenzione da approvare con proprio decreto, l'accertamento e i controlli in materia di prelievo erariale unico alla Societa' italiana degli autori ed editori. Nello svolgimento delle attivita' di' accertamento e di controllo, affidate con la convenzione di cui al periodo precedente, la Societa' italiana degli autori ed editori si avvale delle attribuzioni e dei poteri di cui al comma 1".
+
+8-quinquiesdecies.
+                        
+                            
+                                Al fine di incrementare l'efficienza del sistema della riscossione dei comuni e di contenerne i costi complessivi, nonche' di favorire la riduzione del contenzioso pendente in materia, con riferimento agli importi iscritti a ruolo ovvero per i quali e' stata emessa l'ingiunzione di pagamento ai sensi del testo unico di cui al regio decreto 14 aprile 1910, n. 639, per sanzioni amministrative derivanti dalle violazioni al codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, i cui verbali sono stati elevati entro il 31 dicembre 2004, i comuni possono stabilire, con le forme previste dalla legislazione vigente per l'adozione dei propri atti, la possibilita', per i debitori, di estinguere il debito provvedendo al pagamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di una somma pari al minimo della sanzione pecuniaria amministrativa edittale prevista per ogni singola norma violata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle spese di procedimento e notifica del verbale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di un aggio per l'agente della riscossione pari al 4 per cento del riscosso e delle somme dovute allo stesso agente a titolo di rimborso per le spese sostenute per le procedure esecutive effettuate e per i diritti di notifica della cartella.
+
 Nei centoventi giorni successivi alla data di pubblicazione dell'atto di cui al comma 8-quinquiesdecies, gli agenti della riscossione, ovvero gli uffici comunali competenti nel caso di utilizzo della procedura di ingiunzione, informano i debitori che possono avvalersi della facolta' prevista dal comma 8-quinquiesdecies, mediante l'invio di apposita comunicazione.
 
 Con il provvedimento di cui al comma 8-quinquiesdecies e' approvato il modello della comunicazione di cui al comma 8-sexiesdecies e sono stabiliti le modalita' e i termini di pagamento delle somme dovute da parte dei debitori, di riversamento delle somme agli enti locali da parte degli agenti della riscossione, di rendicontazione delle somme riscosse, di invio dei relativi flussi informativi e di definizione dei rapporti amministrativi e contabili connessi all'operazione.
@@ -534,6 +998,31 @@ Ai fini di cui al comma 1 opera presso l'Amministrazione autonoma dei monopoli d
 
 ## Art. 16. — Flussi finanziari
 
+1.
+                        
+                            
+                                Alle minori entrate e alle maggiori spese derivanti dall'articolo 5, dall'articolo 7, dall'articolo 19, comma 4, dall'articolo 24, commi 74 e 76, e dall'articolo 25, commi 1, 2 e 3, pari complessivamente a 1.334,7 milioni di euro per l'anno 2009, a 2.141,5 milioni di euro per l'anno 2010, a 2.469 milioni di euro per l'anno 2011, a 336 milioni di euro per l'anno 2012, a 275 milioni di euro per l'anno 2013, a 315 milioni di euro per l'anno 2014, a 478 milioni di euro per l'anno 2015, a 652 milioni di euro per l'anno 2016 e a 360 milioni di euro annui a decorrere dall'anno 2017, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante utilizzo di quota parte delle maggiori entrate recate dall'articolo 5, dall'articolo 12, commi 1 e 2, dall'articolo 13, dall'articolo 14, dall'articolo 15, commi 2 e 7, dall'articolo 21 e dall'articolo 25, commi 2 e 3, pari a 1.184,4 milioni di euro per l'anno 2009, a 1.534,4 milioni di euro per l'anno 2010, a 1.371,9 milioni di euro per l'anno 2011, a 336 milioni di euro per l'anno 2012, a 275 milioni di euro per l'anno 2013, a 315 milioni di euro per l'anno 2014, a 478 milioni di euro per l'anno 2015, a 652 milioni di euro per l'anno 2016 e a 360 milioni di euro annui a decorrere dall'anno 2017; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante utilizzo di quota parte delle minori spese recate rispettivamente dall'articolo 10, dall'articolo 20 e dall'articolo 25, commi 2 e 3, pari a 140,3 milioni di euro per l'anno 2009, a 607,1 milioni di euro per l'anno 2010 e a 1.097,1 milioni di euro per l'anno 2011; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a 10 milioni di euro per l'anno 2009, mediante riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 1240, della legge 27 dicembre 2006, n. 296, per il finanziamento della partecipazione italiana alle missioni internazionali di pace.
+
 La dotazione del fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, e' incrementata di 2,4 milioni di euro per l'anno 2009, di 203,4 milioni di euro per l'anno 2010, di 3,9 milioni di euro per l'anno 2011, di 1.907,4 milioni di euro per l'anno 2012, di 1.868,4 milioni di euro per l'anno 2013, di 1.828,4 milioni di euro per l'anno 2014, di 1.665,4 milioni di euro per l'anno 2015, di 1.491,4 milioni di euro per l'anno 2016 e di 1.783,4 milioni di euro annui a decorrere dall'anno 2017, mediante l'utilizzazione di quota parte delle maggiori entrate e delle minori spese derivanti dal presente decreto e non utilizzate ai sensi del comma 1 del presente articolo.
 
 ((COMMA ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)).
@@ -551,6 +1040,24 @@ Il Ministro dell'economia e delle finanze e' autorizzato ad apportare con propri
  1. A valere sulle economie realizzate sui fondi assegnati fino alla data del 31 dicembre 2008 al commissario ad acta di cui all'articolo 19, comma 5, del decreto-legge 8 febbraio 1995, n. 32, convertito, con modificazioni, dalla legge 7 aprile 1995, n. 104, e successive modificazioni, gravano gli oneri accessori alla prosecuzione delle attivita' di competenza del suddetto commissario, in particolare per il completamento dei programmi infrastrutturali irrigui che devono essere approvati dal CIPE; la definizione amministrativa delle opere ultimate; gli interventi di forestazione nelle aree a rischio idrogeologico della Campania avviati ai sensi della delibera del CIPE n. 132 del 6 agosto 1999, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 255 del 29 ottobre 1999; le attivita' di cui all'articolo 1-ter, comma 2, lettera c), del decreto-legge 9 settembre 2005, n. 182, convertito, con modificazioni, dalla legge 11 novembre 2005, n. 231, nonche' gli oneri relativi ai provvedimenti di adeguamento operativo e funzionale della struttura commissariale nel limite del 3 per cento delle economie realizzate ))
 
 ## Art. 17. — Enti pubblici: economie, controlli, Corte dei conti
+
+1.
+                        
+                            
+                                All'articolo 26 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nel comma 1 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel secondo periodo le parole "31 marzo 2009" sono sostituite dalle seguenti: "31 ottobre 2009"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il secondo periodo e' aggiunto il seguente: " Il termine di cui al secondo periodo si intende comunque rispettato con l'approvazione preliminare del Consiglio dei Ministri degli schemi dei regolamenti di riordino.".
 
 All'articolo 2, comma 634, della legge 24 dicembre 2007, n. 244 le parole "30 giugno 2009" sono sostituite dalle seguenti: "31 ottobre 2009" e le parole da "su proposta del Ministro per la pubblica amministrazione e l'innovazione" fino a "Ministri interessati" sono sostituite dalle seguenti: "su proposta del Ministro o dei Ministri interessati, di concerto con il Ministro per la pubblica amministrazione e l'innovazione, il Ministro per la semplificazione normativa, il Ministro per l'attuazione del programma di Governo e il Ministro dell'economia e delle finanze".
 
@@ -603,9 +1110,83 @@ Ai fini della riduzione del costo di funzionamento degli organi sociali delle so
 
 La revoca disposta ai sensi del comma 22-bis integra gli estremi della giusta causa di cui all'articolo 2383, terzo comma, del codice civile e non comporta, pertanto, il diritto dei componenti revocati al risarcimento di cui alla medesima disposizione.
 
+23.
+                        
+                            
+                                All'articolo 71 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1-bis e' sostituito dal seguente: "1-bis. A decorrere dalla data di entrata in vigore del presente decreto, limitatamente alle assenze per malattia di cui al comma 1 del personale del comparto sicurezza e difesa nonche' del personale del Corpo nazionale dei vigili del fuoco, gli emolumenti di carattere continuativo correlati allo specifico status e alle peculiari condizioni di impiego di tale personale sono equiparati al trattamento economico fondamentale"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2 dopo le parole: "mediante presentazione di certificazione medica rilasciata da struttura sanitaria pubblica" sono aggiunte le seguenti: "o da un medico convenzionato con il Servizio sanitario nazionale"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3 e' soppresso il secondo periodo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 5 e' abrogato. Gli effetti di tale abrogazione concernono le assenze effettuate successivamente alla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 5, sono inseriti i seguenti: 
+ "5-bis. Gli accertamenti medico-legali sui dipendenti assenti dal servizio per malattia effettuati dalle aziende sanitarie locali su richiesta delle Amministrazioni pubbliche interessate rientrano nei compiti istituzionali del Servizio sanitario nazionale; conseguentemente i relativi oneri restano comunque a carico delle aziende sanitarie locali. 
+ 5-ter. A decorrere dall'anno 2010 in sede di riparto delle risorse per il finanziamento del Servizio sanitario nazionale e' individuata una quota di finanziamento destinata agli scopi di cui al comma 5-bis, ripartita fra le regioni tenendo conto del numero dei dipendenti pubblici presenti nei rispettivi territori ; gli accertamenti di cui al medesimo comma 5-bis sono effettuati nei limiti delle ordinarie risorse disponibili a tale scopo.". (12)
+
 Agli oneri derivanti dall'attuazione delle disposizioni introdotte dal comma 23, lettera a), pari a 14,1 milioni di euro per l'anno 2009 e a 9,1 milioni di euro annui a decorrere dall'anno 2010, si provvede, quanto a 5 milioni di euro per l'anno 2009, mediante l'utilizzo delle disponibilita' in conto residui iscritte nel capitolo 3027 dello stato di previsione del Ministero dell'economia e delle finanze a valere sull'autorizzazione di spesa di cui all'articolo 3, comma 133, della legge 24 dicembre 2007, n. 244, che a tal fine sono versate all'entrata del bilancio dello Stato per la successiva riassegnazione, quanto ai restanti 9,1 milioni di euro per l'anno 2009, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 7-quinquies, comma 1, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, e, quanto a 9,1 milioni di euro annui a decorrere dall'anno 2010, mediante corrispondente riduzione dell'autorizzazione di spesa relativa al Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
 
 L'articolo 64, comma 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, si interpreta nel senso che il piano programmatico si intende perfezionato con l'acquisizione dei pareri previsti dalla medesima disposizione e all'eventuale recepimento dei relativi contenuti si provvede con i regolamenti attuativi dello stesso. Il termine di cui all'articolo 64, comma 4, del medesimo decreto-legge n. 112 del 2008 si intende comunque rispettato con l'approvazione preliminare da parte del Consiglio dei ministri degli schemi dei regolamenti di cui al medesimo articolo.
+
+26.
+                        
+                            
+                                All'articolo 36 del decreto legislativo 30 marzo 2001, n. 165 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2, penultimo periodo, dopo le parole "somministrazione di lavoro" sono aggiunte le seguenti "ed il lavoro accessorio di cui alla lettera d), del comma 1, dell'articolo 70 del medesimo decreto legislativo n. 276 del 2003, e successive modificazioni ed integrazioni"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente : "3. Al fine di combattere gli abusi nell'utilizzo del lavoro flessibile, entro il 31 dicembre di ogni anno, sulla base di apposite istruzioni fornite con Direttiva del Ministro per la pubblica amministrazione e l'innovazione, le amministrazioni redigono, senza nuovi o maggiori oneri per la finanza pubblica, un analitico rapporto informativo sulle tipologie di lavoro flessibile utilizzate da trasmettere, entro il 31 gennaio di ciascun anno, ai nuclei di valutazione o ai servizi di controllo interno di cui al decreto legislativo 30 luglio 1999, n. 
+286, nonche' alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica che redige una relazione annuale al Parlamento. Al dirigente responsabile di irregolarita' nell'utilizzo del lavoro flessibile non puo' essere erogata la retribuzione di risultato."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4 e' sostituito dal seguente: "4. Le amministrazioni pubbliche comunicano, nell'ambito del rapporto di cui al precedente comma 3, anche le informazioni concernenti l'utilizzo dei lavoratori socialmente utili."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 5 e' aggiunto il seguente: "5-bis. Le disposizioni previste dall'articolo 5, commi 4-quater, 4-quinquies e 4-sexies del decreto legislativo 6 settembre 2001, n. 368 si applicano esclusivamente al personale reclutato secondo le procedure di cui all'articolo 35, comma 1, lettera b), del presente decreto".
 
 All'articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165, dopo l'ultimo periodo e' aggiunto il seguente: "Si applicano le disposizioni previste dall'articolo 36, comma 3, del presente decreto.".
 
@@ -625,6 +1206,25 @@ Dopo il comma 1 dell'articolo 3 della legge 14 gennaio 1994, n. 20, e successive
  "1-bis. Per i controlli previsti dalle lettere f-bis) e f-ter) del comma 1 e' competente in ogni caso la sezione centrale del controllo di legittimita'".
 
 PERIODO ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 174. Le procure della Corte dei conti esercitano l'azione per il risarcimento del danno all'immagine nei soli casi e nei modi previsti dall'articolo 7 della legge 27 marzo 2001, n. 97. A tale ultimo fine, il decorso del termine di prescrizione di cui al comma 2 dell'articolo 1 della legge 14 gennaio 1994, n. 20, e' sospeso fino alla conclusione del procedimento penale. Qualunque atto istruttorio o processuale posto in essere in violazione delle disposizioni di cui al presente comma, salvo che sia stata gia' pronunciata sentenza anche non definitiva alla data di entrata in vigore della legge di conversione del presente decreto, e' nullo e la relativa nullita' puo' essere fatta valere in ogni momento, da chiunque vi abbia interesse, innanzi alla competente sezione giurisdizionale della Corte dei conti, che decide nel termine perentorio di trenta giorni dal deposito della richiesta.
+
+30-quater.
+                        
+                            
+                                All'articolo 1 della legge 14 gennaio 1994, n. 20, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo il primo periodo e' inserito il seguente: "In ogni caso e' esclusa la gravita' della colpa quando il fatto dannoso tragga origine dall'emanazione di un atto vistato e registrato in sede di controllo preventivo di legittimita, limitatamente ai profili presi in considerazione nell'esercizio del controllo."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1-bis, dopo le parole: "dall'amministrazione" sono 
+ inserite le seguenti: "di appartenenza, o da altra amministrazione,".
 
 All'articolo 10-bis, comma 10, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, dopo le parole: "procedura civile," sono inserite le seguenti: "non puo' disporre la compensazione delle spese del giudizio e".
 
@@ -688,6 +1288,155 @@ Con separati decreti del Ministro dell'economia e delle finanze di natura non re
 All'articolo 18 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, dopo il comma 2, e' inserito il seguente: 
  "2-bis. Le disposizioni che stabiliscono, a carico delle amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, divieti o limitazioni alle assunzioni di personale si applicano, in relazione al regime previsto per l'amministrazione controllante, anche alle societa' a partecipazione pubblica locale totale o di controllo che siano titolari di affidamenti diretti di servizi pubblici locali senza gara, ovvero che svolgano funzioni volte a soddisfare esigenze di interesse generale aventi carattere non industriale ne' commerciale, ovvero che svolgano attivita' nei confronti della pubblica amministrazione a supporto di funzioni amministrative di natura pubblicistica inserite nel conto economico consolidato della pubblica amministrazione, come individuate dall'Istituto nazionale di statistica (ISTAT) ai sensi del comma 5 dell'articolo 1 della legge 30 dicembre 2004, n. 311. Le predette societa' adeguano inoltre le proprie politiche di personale alle disposizioni vigenti per le amministrazioni controllanti in materia di contenimento degli oneri contrattuali e delle altre voci di natura retributiva o indennitaria e per consulenze. Con decreto del Ministro dell'economia e delle finanze, di concerto con i Ministri dell'interno e per i rapporti con le regioni, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni, da emanare entro il 30 settembre 2009, sono definite le modalita' e la modulistica per l'assoggettamento al patto di stabilita' interno delle societa' a partecipazione pubblica locale totale o di controllo che siano titolari di affidamenti diretti di servizi pubblici locali senza gara, ovvero che svolgano funzioni volte a soddisfare esigenze di interesse generale aventi carattere non industriale ne' commerciale, ovvero che svolgano attivita' nei confronti della pubblica amministrazione a supporto di funzioni amministrative di natura pubblicistica.".
 
+2.
+                        
+                            
+                                All'articolo 3 della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 28, in fine, e' aggiunto il seguente periodo: "La delibera di cui al presente comma e' trasmessa alla sezione competente della Corte dei conti."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DALLA LEGGE 3 AGOSTO 2009, N. 102
+
+3.
+                        
+                            
+                                L'articolo 7-octies del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, in legge 9 aprile 2009, n. 33 e' modificato come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica dell'articolo e' sostituita dalla seguente "Misure a favore degli obbligazionisti e dei piccoli azionisti Alitalia - Linee aeree italiane S.p.A."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' abrogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, lettera a), le parole "ridotto del 50 per cento" sono sostituite dalle seguenti parole "pari ad euro 0,262589 per singola obbligazione, corrispondente al 70,97% del valore nominale"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 3, dopo la lettera a), e' introdotta la seguente lettera: "a-bis) ai titolari di azioni della societa' Alitalia - Linee aeree italiane Spa, ora in amministrazione straordinaria, viene attribuito il diritto di cedere al Ministero dell'economia e delle finanze i propri titoli per un controvalore determinato sulla base del prezzo medio di borsa delle azioni nell'ultimo mese di negoziazione ridotto del 50 per cento, pari a 0,2722 euro per singola azione, e comunque nei limiti di cui alla successiva lettera b), in cambio di titoli di Stato di nuova emissione, senza cedola, con scadenza 31 dicembre 2012 e con taglio minimo unitario di euro 1.000. 
+Il diritto e' condizionato all'osservanza delle condizioni e modalita' di seguito specificate; "; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 3, lettera b), le parole "di cui alla lettera a) non potranno risultare superiori a euro 100.000 per ciascun obbligazionista" sono sostituite dalle seguenti parole "di cui alle lettere a) e a-bis) non potranno risultare superiori rispettivamente a euro 100.000 per ciascun obbligazionista e a euro 50.000 per ciascun azionista"; dopo le parole "controvalore delle obbligazioni" sono aggiunte le seguenti parole: "e delle azioni"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 3, lettera b) e' aggiunto infine il seguente periodo: "le assegnazioni di titoli di Stato agli obbligazionisti non potranno superare per l'anno 2009 il limite complessivo di spesa di cui al comma 2, le restanti assegnazioni, ivi incluse quelle in favore degli azionisti di cui alla lettera a-bis), sono effettuate nell'anno 2010"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 4, primo periodo, le parole "I titolari di obbligazioni di cui al comma 3" sono sostituite dalle seguenti parole: "I titolari di obbligazioni o di azioni di cui al comma 3"; le parole "entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto" sono sostituite dalle seguenti parole "entro il 31 agosto 2009"; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    al comma 4, alla lettera a), dopo le parole "dei titoli obbligazionari" sono aggiunte le seguenti parole: "e azionari"; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    al comma 5, primo periodo, dopo le parole "gli intermediari finanziari, sotto la propria responsabilita', trasmettono" sono aggiunte le parole "in cartaceo e su supporto informatico"; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    al comma 5 lettera a), dopo le parole "titolari delle obbligazioni" sono aggiunte le seguenti parole "e delle azioni"; le parole "delle quantita' di detti titoli obbligazionari detenuta alla data di entrata in vigore della legge di conversione del presente decreto" sono sostituite dalle seguenti parole "delle quantita' di detti titoli obbligazionari e azionari detenute alla data di presentazione della dichiarazione di cui al comma 4"; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    al comma 5, lettera c), dopo le parole "quantita' di titoli obbligazionari" sono aggiunte le seguenti parole: "e azionari"; dopo le parole "soggetti titolari delle obbligazioni" sono aggiunte le seguenti parole "e delle azioni"; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    al comma 6, primo periodo, dopo le parole "titoli obbligazionari" sono aggiunte le seguenti parole "e azionari"; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    al comma 6, secondo periodo, dopo le parole "trasferimento delle obbligazioni" sono aggiunte le seguenti parole: "e delle azioni"; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    al comma 7 le parole "entro il 31 dicembre 2009" sono sostituite con le parole "entro il 31 dicembre 2010"; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    dopo il comma 7, e' introdotto il seguente comma: "7-bis. Alle operazioni previste dal presente articolo non si applicano le disposizioni di cui agli articoli 102 e seguenti e agli articoli 114 e seguenti del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58."; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    e' abrogato il comma 8; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    il comma 9 e' sostituito dal seguente comma: "9. E' abrogato il comma 2 dell'articolo 3 del decreto-legge 28 agosto 2008, n. 134, convertito, con modificazioni, in legge 27 ottobre 2008, n. 166."; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    e' abrogato il comma 10.
+
 Ai fini dell'ammissione ai benefici di cui all'articolo 7-octies, comma 3, lettera a), del decreto-legge 10 febbraio 2009, n. 
 5, convertito, con modificazioni, in legge 9 aprile 2009, n. 33, come modificato dal comma 3 del presente articolo, si considerano valide le richieste presentate dai titolari di obbligazioni del prestito obbligazionario "Alitalia 7,5 per cento 2002-2010 convertibile" emesso da Alitalia - Linee aeree italiane S.p.A., ora in amministrazione straordinaria, sulla base della normativa vigente alla data di entrata in vigore del presente decreto-legge. Al fine di provvedere alla copertura dei maggiori oneri derivanti dal comma 3 l'autorizzazione di spesa di cui all'articolo 7-octies, comma 2, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, con legge 9 aprile 2009, n. 33, e' incrementata di 230 milioni di euro per l'anno 2010.
 
@@ -737,6 +1486,31 @@ A decorrere dal 1° gennaio 2010 le domande volte ad ottenere i benefici in mate
 
 Con accordo quadro tra il Ministro del lavoro, della salute e delle politiche sociali e la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, da concludere entro e non oltre novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono disciplinate le modalita' attraverso le quali sono affidate all'INPS le attivita' relative all'esercizio delle funzioni concessorie nei procedimenti di invalidita' civile, cecita' civile, sordita' civile, handicap e disabilita'. Nei sessanta giorni successivi, le regioni stipulano con l'INPS apposita convenzione che regola gli aspetti tecnico-procedurali dei flussi informativi necessari per la gestione del procedimento per l'erogazione dei trattamenti connessi allo stato di invalidita' civile.
 
+5.
+                        
+                            
+                                All'articolo 10, comma 6, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo periodo e' soppressa la parola "anche"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo periodo sono soppresse le parole "sia presso gli uffici dell'Avvocatura dello Stato, ai sensi dell'articolo 11 del regio decreto 30 ottobre 1933, n. 1611, sia"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel terzo periodo sono soppresse le parole "e' litisconsorte necessario ai sensi dell'articolo 102 del codice di procedura civile e".
+
 Dopo il comma 6 dell'articolo 10 del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, come modificato dal comma 5 del presente articolo, e' inserito il seguente: "6-bis. Nei procedimenti giurisdizionali civili relativi a prestazioni sanitarie previdenziali ed assistenziali, nel caso in cui il giudice nomini un consulente tecnico d'ufficio, alle indagini assiste un medico legale dell'ente, su richiesta, formulata, a pena di nullita', del consulente nominato dal giudice, il quale provvede ad inviare apposita comunicazione al direttore della sede provinciale dell'INPS competente. Al predetto componente competono le facolta' indicate nel secondo comma dell'articolo 194 del codice di procedura civile. Nell'ipotesi di sentenze di condanna relative a ricorsi depositati a far data dal 1° aprile 2007 a carico del Ministero dell'Economia e delle Finanze o del medesimo in solido con l'INPS, all'onere delle spese legali, di consulenza tecnica o del beneficio assistenziale provvede comunque l'INPS.".
 
 Entro trenta giorni dall'entrata in vigore delle presenti disposizioni, e' nominata dal Ministro del lavoro, della salute e delle politiche sociali di concerto con il Ministro dell'economia e delle finanze una Commissione con il compito di aggiornare le tabelle indicative delle percentuali dell'invalidita' civile, gia' approvate con decreto del Ministro della sanita' 5 febbraio 1992, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 47 del 26 febbraio 1992, e successive modificazioni. Lo schema di decreto che apporta le eventuali modifiche alle tabelle in attuazione del presente comma e' trasmesso alle Camere per il parere delle Commissioni competenti per materia. Dalla attuazione del presente comma non devono derivare nuovi o maggiori oneri per la finanza pubblica.
@@ -747,11 +1521,61 @@ Per garantire la tutela di preminenti interessi pubblici nelle attivita' di racc
 
 La concessione di cui al comma 1 prevede un aggio, comprensivo del compenso dell'8 per cento dovuto ai punti vendita per le lotterie ad estrazione istantanea, pari all'11,90 per cento della raccolta e valori medi di restituzione della raccolta in vincite, per ciascun concessionario aggiudicatario, non superiori al 75 per cento.
 
+3.
+                        
+                            
+                                La selezione concorrenziale per l'aggiudicazione della concessione e' basata sul criterio dell'offerta economicamente piu' vantaggiosa, nell'ambito della quale valore prioritario e' attribuito ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rialzo delle offerte rispetto ad una base predefinita che assicuri, comunque, entrate complessivamente non inferiori a 500 milioni di euro nell'anno 2009 e a 300 milioni di euro nell'anno 2010, indipendentemente dal numero finale dei soggetti aggiudicatari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    offerta di standard qualitativi che garantiscano la piu' completa sicurezza dei consumatori in termini di non alterabilita' e non imitabilita' dei biglietti, nonche' di sicurezza del sistema di pagamento delle vincite; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capillarita' della distribuzione attraverso una rete su tutto il territorio nazionale, esclusiva per concessionario, costituita da un numero non inferiore a 10.000 punti vendita, da attivare entro il 31 dicembre 2010, fermo restando il divieto, a pena di nullita', di clausole contrattuali che determinino restrizioni alla liberta' contrattuale dei fornitori di beni o servizi.
+
 Le concessioni di cui al comma 1, eventualmente rinnovabili per non piu' di una volta, hanno la durata massima di nove anni, suddivisi in due periodi rispettivamente di cinque e quattro anni. La prosecuzione della concessione per il secondo periodo e' subordinata alla positiva valutazione dell'andamento della gestione da parte dell'Amministrazione concedente, da esprimere entro il primo semestre del quinto anno di concessione.
 
 Per garantire il mantenimento dell'utile erariale, le lotterie ad estrazione istantanea indette in costanza della vigente concessione continuano ad essere distribuite dalla rete esclusiva dell'attuale concessionario, che le gestisce, comunque non oltre il 31 gennaio 2012, secondo le regole vigenti, a condizione che quest'ultimo sia risultato aggiudicatario anche della nuova concessione.
 
 La gestione e l'esercizio delle lotterie nazionali ad estrazione differita restano in ogni caso riservati al Ministero dell'economia e delle finanze - Amministrazione autonoma dei monopoli di Stato, che vi provvede direttamente ovvero mediante una societa' a totale partecipazione pubblica.
+
+7.
+                        
+                            
+                                Per garantire l'esito positivo della concreta sperimentazione e dell'avvio a regime di sistemi di gioco costituiti dal controllo remoto del gioco attraverso videoterminali di cui all'articolo 12, comma 1, lettera l), del decreto-legge 28 aprile 2009, n. 39, convertito, con modificazioni, dalla legge 24 giugno 2009, n. 77, entro il 15 settembre 2009 il Ministero dell'economia e delle finanze - Amministrazione autonoma dei monopoli di Stato avvia le procedure occorrenti per un nuovo affidamento in concessione della rete per la gestione telematica del gioco lecito prevista dall'articolo 14-bis, comma 4, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, e successive modificazioni, prevedendo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'affidamento della concessione agli attuali concessionari che ne facciano richiesta entro il 20 novembre 2009 e che siano stati autorizzati all'installazione dei videoterminali, con conseguente prosecuzione della stessa senza alcuna soluzione di continuita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'affidamento della concessione ad ulteriori operatori di gioco, nazionali e comunitari, di dimostrata qualificazione morale, tecnica ed economica, mediante una selezione aperta basata sull'accertamento dei requisiti definiti dall'Amministrazione concedente in coerenza con quelli gia' richiesti e posseduti dagli attuali concessionari. Gli operatori di cui alla presente lettera, al pari dei concessionari di cui alla lettera a), sono autorizzati all'installazione dei videoterminali fino a un massimo del 14 per cento del numero di nulla osta gia' posseduti per apparecchi di cui all'articolo 110, comma 6, lettera a), del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, e successive modificazioni, e a fronte del versamento di euro 15.000 per ciascun terminale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la durata delle autorizzazioni all'installazione dei videoterminali, previste dall'articolo 12, comma 1, lettera l), numero 4), del decreto-legge 28 aprile 2009, n. 39, convertito, con modificazioni, dalla legge 24 giugno 2009, n. 77, fino al termine delle concessioni di cui alle lettere a) e b) del presente comma. La perdita di possesso dei nulla osta di apparecchi di cui all'articolo 110, comma 6, lettera a), del testo unico di cui al regio decreto 18 giugno 1931, n. 773, e successive modificazioni, non determina la decadenza dalle autorizzazioni acquisite.((7))
 
 All'articolo 12, comma 1, lettera l), del decreto-legge 28 aprile 2009, n. 39, convertito, con modificazioni, dalla legge 24 giugno 2009, n. 77, il numero 5) e' sostituito dal seguente: 
  "5) le modalita' con cui le autorizzazioni all'installazione dei videoterminali di cui al numero 4) possono essere cedute tra i soggetti affidataci della concessione e possono essere prestate in garanzia per operazioni connesse al finanziamento della loro acquisizione e delle successive attivita' di installazione".
@@ -776,6 +1600,27 @@ Il termine di pagamento dell'imposta unica sulle scommesse ippiche e sulle scomm
 
 ## Art. 22. — Settore sanitario
 
+1.
+                        
+                            
+                                All'articolo 79, del decreto-legge 25 giugno 2008, n. 112, 
+convertito dalla legge 6 agosto 2008, n. 133, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1-bis le parole: "entro il 31 ottobre 2008" sono 
+sostituite dalle seguenti: "entro il 15 ottobre 2009" ; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1-ter le parole "entro il 31 ottobre 2008" sono 
+sostituite dalle seguenti: entro il 15 ottobre 2009, si applicano comunque l'articolo 120 della Costituzione, nonche' le norme statali di attuazione e di applicazione dello stesso, e la legge 5 maggio 2009, n. 42, in materia di federalismo fiscale; inoltre .
+
 E' istituito un fondo con dotazione pari a 800 milioni di euro a 
 decorrere dall'anno 2010, destinato ad interventi relativi al settore sanitario, da definirsi con decreto del Ministro del lavoro, della salute e delle politiche sociali di concerto con il Ministro dell'economia e delle finanze, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano . Con intesa da stipulare, ai sensi dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, a valere sulle risorse del fondo di cui al presente comma, sono definiti gli importi, in misura non inferiore a 50 milioni di euro, da destinare a programmi dedicati alle cure palliative, ivi comprese quelle relative alle patologie degenerative neurologiche croniche invalidanti . A valere sul fondo di cui al presente comma un importo, in misura non inferiore a 2 milioni di euro annui, e' destinato al Centro nazionale trapianti, al fine dell'attuazione delle disposizioni in materia di cellule riproduttive, di cui al decreto legislativo 6 novembre 2007, n. 191, nonche' in materia di qualita' e di sicurezza per la donazione, l'approvvigionamento, il controllo, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule umani, di cui alle direttive 2006/17/CE della Commissione, dell'8 febbraio 2006, e 2006/86/CE della Commissione, del 24 ottobre 2006, in corso di recepimento.
 
@@ -784,6 +1629,42 @@ conseguenti alle disposizioni di cui all'articolo 13, comma 1, lettera b), del d
 
 All'articolo 5, comma 3, lettera a), primo periodo, del 
 decreto-legge 1° ottobre 2007, n. 159, convertito, con, modificazioni, dalla legge 29 novembre 2007, n. 222, le parole da: "tenendo conto" fino a: "spesa complessiva" sono sostituite dalle seguenti: "con l'eccezione della quota di sforamento imputabile alla spesa per farmaci acquistati presso aziende farmaceutiche dalle aziende sanitarie locali e da queste distribuiti direttamente ai cittadini, che e' posta a carico unicamente delle aziende farmaceutiche stesse in proporzione ai rispettivi fatturati per farmaci ceduti alle strutture pubbliche" .
+
+4.
+                        
+                            
+                                Attesa la straordinaria necessita' ed urgenza di tutelare, ai 
+sensi dell'articolo 120 della Costituzione, l'erogazione delle prestazioni sanitarie comprese nei Livelli Essenziali di Assistenza, di cui al decreto del Presidente del Consiglio dei Ministri 29 novembre 2001, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 33 dell'8 febbraio 2002,, e di assicurare il risanamento, il riequilibrio economico-finanziario e la riorganizzazione del sistema sanitario regionale della regione Calabria, anche sotto il profilo amministrativo e contabile, tenuto conto dei risultati delle verifiche del Comitato e del Tavolo, di cui agli articoli 9 e 12 dell'Intesa Stato-regioni del 23 marzo 2005 , pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 105 del 7 maggio 2005, relativamente agli anni 2007 e 2008, si applicano le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Presidente del Consiglio dei Ministri, con la procedura di cui all'articolo 8, comma 1, della legge 5 giugno 2003, n. 131, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro del lavoro, della salute e delle politiche sociali, sentito il Ministro per i rapporti con le regioni, diffida la regione a predisporre entro settanta giorni un Piano di rientro contenente misure di riorganizzazione e riqualificazione del Servizio sanitario regionale, da sottoscriversi con l'Accordo di cui all'articolo 1, comma 180, della legge 30 dicembre 2004, n. 311, e successive modificazioni, nonche' a provvedere a quanto previsto dall'articolo 1, comma 174 della medesima legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decorso inutilmente tale termine, ovvero ove il Piano 
+presentato sia valutato non congruo a seguito di istruttoria congiunta del Ministero dell'economia e delle finanze, del Ministero del lavoro, della salute e delle politiche sociali e del Dipartimento per gli affari regionali della Presidenza del Consiglio dei Ministri , sulle cui conclusioni e' sentita la regione in apposita riunione, il Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro del lavoro, della salute e delle politiche sociali, sentito il Ministro per i rapporti con le regioni, nomina un Commissario per la predisposizione di un Piano triennale di rientro dai disavanzi, recante indicazione dei necessari interventi di contenimento strutturale della spesa, da redigere all'esito del riaccertamento dei debiti pregressi nonche' dell'attivazione delle procedure amministrativo-contabili minime necessarie per valutare positivamente l'attendibilita' degli stessi conti. Alla riunione del Consiglio dei Ministri partecipa il Presidente della giunta regionale ai sensi dell'articolo 8, comma 1, della legge 5 giugno 2003, n. 131; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Piano triennale di rientro dai disavanzi di cui alla lettera 
+b) e' approvato dal Consiglio dei Ministri, che ne affida contestualmente l'attuazione al Commissario nominato ai sensi della medesima lettera b). Nello svolgimento dei compiti affidatigli e per tutto il periodo di vigenza del Piano di rientro, il Commissario sostituisce gli organi della regione nell'esercizio delle attribuzioni necessarie all'attuazione del Piano stesso; contestualmente a tale nomina, il Commissario delegato di cui all'ordinanza del Presidente del Consiglio dei Ministri 21 dicembre 2007, n. 3635, cessa dal suo incarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai crediti interessati dalle procedure di accertamento e 
+riconciliazione del debito pregresso al 31 dicembre 2008 si applicano le disposizioni di cui all'articolo 4, comma 2-bis del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222. Si applicano inoltre le disposizioni di cui all'articolo 4, comma 2, del citato decreto-legge n. 159 del 2007, che non siano in contrasto con le disposizioni del presente comma.
 
 In sede di verifica sull'attuazione dei Piani di rientro, al 
 fine di prevenire situazioni di conflitto di interesse e di assicurare piena indipendenza e imparzialita' di giudizio, i componenti designati dalla Conferenza delle regioni e delle province autonome, appartenenti alla regione assoggettata alla valutazione, non possono partecipare alle relative riunioni del Comitato e del Tavolo, di cui agli articoli 9 e 12 della citata Intesa Stato-regioni del 23 marzo 2005. In tali casi, la predetta Conferenza provvede alla tempestiva designazione di altrettanti componenti supplenti, fermo restando che nelle more di tale designazione, allo scopo di non ritardare le necessarie azioni di contrasto alle situazioni di criticita' in essere, Comitato e Tavolo possono proseguire e concludere i propri lavori. Restano salvi gli atti e le attivita' gia' espletati da Comitato e Tavolo anteriormente all'entrata in vigore della presente disposizione.
@@ -831,6 +1712,24 @@ A decorrere dal 1° gennaio 2015, i requisiti di eta' anagrafica per l'accesso a
 All'articolo 1, comma 1, del decreto-legge 20 ottobre 2008, n. 158, convertito, con modificazioni, dalla legge 18 dicembre 2008, n. 199, le parole "30 giugno 2009," sono sostituite dalle seguenti: "31 dicembre 2009,".
 
 All'articolo 7-bis, comma 1, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, le parole "fino al 30 giugno 2009." sono sostituite dalle seguenti: "fino al 31 dicembre 2009.".
+
+3.
+                        
+                            
+                                All'articolo 41 del decreto-legge 30 dicembre 2008, n. 207, convertito, con modificazioni, dalla legge 27 febbraio 2009, n. 14, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: "al 31 dicembre 2009" sono sostituite dalle seguenti: "al 31 dicembre 2010" e le parole: "entro il 30 giugno 2009" sono sostituite dalle seguenti: "entro il 31 dicembre 2009"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4, le parole: "al 30 giugno 2009" sono sostituite dalle seguenti: "al 30 settembre 2009".
 
 Al fine di assicurare l'assunzione nella qualifica di vigile del fuoco delle unita' autorizzate per l'anno 2009, tenuto conto della vigenza delle sole graduatorie dei concorsi per titoli ed esami riservati ai vigili volontari ausiliari collocati in congedo negli anni 2004 e 2005, dalle quali attingere in parti uguali, il termine di scadenza relativo alla graduatoria per il 2004, e' prorogato al 31 dicembre 2009. E' altresi' prorogata al 31 dicembre 2010 la graduatoria del concorso pubblico per esami a 28 posti di direttore antincendi della posizione C2.
 
@@ -1051,6 +1950,39 @@ COMMA SOPPRESSO DALLA L. 3 AGOSTO 2009, N. 102.
 COMMA SOPPRESSO DALLA L. 3 AGOSTO 2009, N. 102.
 
 COMMA SOPPRESSO DALLA L. 3 AGOSTO 2009, N. 102.
+
+73.
+                        
+                            
+                                Alla legge 3 agosto 2007, n. 124, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 4, comma 3, la lettera l) e' sostituita dalla seguente: 
+ "l) assicura l'attuazione delle disposizioni impartite dal Presidente del Consiglio dei Ministri con apposito regolamento adottato ai sensi dell'articolo 1, comma 2, ai fini della tutela amministrativa del segreto di Stato e delle classifiche di segretezza, vigilando altresi' sulla loro corretta applicazione; "; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 9: 
+ 1) al comma 2, lettera b), la parola "misure" e' sostituita dalle seguenti: "disposizioni esplicative"; 
+ 2) al comma 3: 
+ 2.1) al primo periodo, le parole "altre classifiche di segretezza" sono sostituite dalle seguenti: "classifiche segreto e riservatissimo"; 
+ 2.2) al secondo periodo, le parole "classifiche di segretezza" sono sostituite dalle seguenti: "tre classifiche di segretezza citate"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 42: 
+ 1) al comma 1, le parole "e siano a cio' abilitati" sono soppresse; 
+ 2) dopo il comma 1, e' inserito il seguente: 
+ "1-bis. Per la trattazione di informazioni classificate segretissimo, segreto e riservatissimo e' necessario altresi' il possesso del nulla osta di sicurezza (NOS).".
 
 Al fine di assicurare la prosecuzione del concorso delle Forze armate nel controllo del territorio, a decorrere dal 4 agosto 2009 il piano di impiego di cui all'articolo 7-bis, comma 1, ultimo periodo, del decreto-legge 23 maggio 2008, n. 92, convertito, con modificazioni, dalla legge 24 luglio 2008, n. 125, puo' essere prorogato per due ulteriori semestri per un contingente di militari incrementato con ulteriori 1.250 unita', destinate a servizi di perlustrazione e pattuglia nonche' di vigilanza di siti e obiettivi sensibili in concorso e congiuntamente alle Forze di polizia. Il personale e' posto a disposizione dei prefetti delle province per l'impiego nei comuni ove si rende maggiormente necessario. Ai fini dell'impiego del personale delle Forze armate nei servizi di cui al presente comma, si applicano le disposizioni di cui all'articolo 7-bis commi 1, 2 e 3 del decreto-legge n. 92 del 2008. A tal fine e' autorizzata la spesa di 27,7 milioni di euro per l'anno 2009 e di 39,5 milioni di euro per l'anno 2010. (39) (41) (42) (43) (46) (47) ((48))
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-12-11;251
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -49,6 +49,37 @@ IL PRESIDENTE DELLA REPUBBLICA
                 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per gli affari regionali e le autonomie di concerto con il Ministro dell'economia e delle finanze; Emana il seguente decreto legislativo:
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 26 luglio 1965, n. 1074, recante: «Norme di attuazione dello Statuto della Regione Siciliana in materia finanziaria» sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il primo comma dell'articolo 2 e' sostituito dal seguente: 
+ «Ai sensi del primo comma dell'articolo 36 dello Statuto della Regione Siciliana, spettano alla Regione, oltre alle entrate tributarie da essa direttamente deliberate: 
+ a) i 5,61 decimi per l'anno 2016, i 6,74 decimi per l'anno 2017 e, a decorrere dall'anno 2018, i 7,10 decimi dell'imposta sul reddito delle persone fisiche (IRPEF) afferente all'ambito regionale compresa quella affluita, in attuazione di disposizioni legislative o amministrative, ad uffici situati fuori del territorio della Regione; la quota relativa all'imposta sul reddito delle persone fisiche, spettante alla Regione e' convenzionalmente costituita: 
+ 1) dall'imposta netta risultante dalle dichiarazioni dei redditi e dei sostituti di imposta, nonche' dalle certificazioni sostitutive presentate dai contribuenti e per conto dei contribuenti aventi domicilio fiscale nel territorio regionale; 
+ 2) dall'imposta sui redditi a tassazione separata delle persone fisiche aventi domicilio fiscale nel territorio regionale; 
+ 3) dalle somme riscosse a seguito delle attivita' di accertamento e di controllo effettuate dalle amministrazioni finanziarie statali e regionali nei confronti dei contribuenti aventi domicilio fiscale nel territorio regionale; 
+ b) i dieci decimi di tutte le altre entrate tributarie erariali riscosse nell'ambito del suo territorio, dirette o indirette, comunque denominate, ad eccezione delle nuove entrate tributarie il cui gettito sia destinato con apposite leggi alla copertura di oneri diretti a soddisfare particolari finalita' contingenti o continuative dello Stato specificate nelle leggi medesime.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'ultimo comma dell'articolo 2 e' inserito il seguente:  «Con decreto del Ministro dell'economia e delle finanze, adottato previa intesa con la Regione, sono determinate le modalita' attuative del primo comma per quanto riguarda l'attribuzione a titolo di acconto e successivo conguaglio della compartecipazione all'imposta sul reddito delle persone fisiche.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il secondo comma dell'articolo 7 e' abrogato.
 
 ## Art. 2.
 

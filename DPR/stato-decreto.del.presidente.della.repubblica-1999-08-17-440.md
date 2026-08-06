@@ -8,8 +8,8 @@ codice_redazionale: 099G0514
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -149,6 +149,56 @@ Su richiesta del segretario generale il presidente del Consiglio nazionale dell'
 
 Gli impegni di spesa sono assunti con provvedimento del segretario generale, su proposta dei dirigenti e nei limiti di spesa assegnati. Gli impegni di spesa sono inoltrati all'ufficio competente per la registrazione.
 
+3.
+                        
+                            
+                                Le determinazioni e i provvedimenti devono contenere le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'oggetto della spesa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di esecuzione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo previsto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il capitolo e l'articolo di riferimento e, in caso di spese pluriennali, gli anni finanziari sui quali si prevede che la spesa incidera'.
+
+4.
+                        
+                            
+                                Con l'approvazione del bilancio e le successive variazioni, senza la necessita' di ulteriori atti, e' costituito impegno sui relativi stanziamenti per le spese dovute:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le indennita' spettanti al presidente, ai vice presidenti ed ai consiglieri, nonche' per il trattamento economico fondamentale ed accessorio del personale dipendente e per i relativi oneri riflessi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le spese dovute in base a contratti in essere o disposizioni di legge o regolamentari.
+
 Gli impegni non possono in nessun caso superare i limiti degli stanziamenti di bilancio iscritti ai capitoli ai quali si riferiscono, salvo il ricorso al fondo di riserva di cui all'articolo 21.
 
 ## Art. 31. — Liquidazione della spesa
@@ -201,6 +251,45 @@ I beni mobili necessari al funzionamento del Consiglio nazionale dell'economia e
 ## Art. 38. — Inventario dei beni
 
 I beni mobili sono presi in carico dall'economo. La consegna si effettua con l'iscrizione negli inventari.
+
+2.
+                        
+                            
+                                L'inventario dei beni mobili deve contenere le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione e la descrizione secondo la loro natura e specie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il titolo e l'anno di acquisizione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il luogo in cui si trovano;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la quantita' ed il numero;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il valore.
 
 Il valore iniziale dei beni mobili e' determinato dal prezzo d'acquisto, ovvero di stima o di mercato se trattasi di beni pervenuti per altra causa.
 
@@ -256,6 +345,52 @@ Il collaudo o l'accertamento della regolare esecuzione non puo' essere effettuat
  4. Le operazioni di riscossione e pagamento possono essere affidate mediante convenzione di tesoreria all'istituto di credito di cui all'articolo 25.
 
 ## Art. 45. — E c o n o m o
+
+1.
+                        
+                            
+                                L'economo, nominato dal segretario generale, cura:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli adempimenti connessi ai procedimenti riguardanti le gare, le licitazioni e le trattative private, ed i servizi in economia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli adempimenti riguardanti la stipulazione e l'esecuzione dei contratti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la custodia dei contratti e la tenuta del relativo registro, segnalando al dirigente competente, con congruo anticipo rispetto ai termini per la disdetta, i contratti in scadenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la gestione dei beni immobili e mobili, provvedendo anche alla manutenzione e alla conservazione degli stessi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'acquisto delle forniture, dei beni e dei servizi necessari al funzionamento degli uffici curando la tenuta del relativo registro di carico e scarico; il prelievo del materiale da parte dei singoli uffici avviene con richiesta scritta e firmata dal dirigente dell'ufficio richiedente;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la tenuta di un registro di inventario per i mobili e le attrezzature in dotazione al Consiglio.
 
 ## Art. 46. — Norma di salvaguardia
 

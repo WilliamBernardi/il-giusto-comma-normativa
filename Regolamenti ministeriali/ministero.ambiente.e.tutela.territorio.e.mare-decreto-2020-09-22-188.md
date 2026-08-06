@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2020-09-22;18
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,66 @@ Oggetto e finalita'
 Il presente regolamento stabilisce i criteri specifici nel rispetto dei quali i rifiuti di carta e cartone cessano di essere qualificati come tali ai sensi e per gli effetti dell'articolo 184-ter del decreto legislativo 3 aprile 2006, n. 152.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si applicano le definizioni di cui all'articolo 183 del decreto legislativo 3 aprile 2006, n. 152, nonche' le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «rifiuti di carta e cartone»: rifiuti di carta e cartone, inclusi poliaccoppiati, anche di imballaggi, provenienti da raccolta differenziata di rifiuti urbani e speciali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «carta e cartone recuperati»: rifiuti di carta e cartone che hanno cessato di essere tali ai sensi del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «lotto di carta e cartone recuperati»: un quantitativo di carta e cartone recuperati prodotti in un periodo di tempo definito, comunque non superiore a sei mesi, ed in condizioni operative uniformi. Il lotto di produzione non puo' essere in ogni caso superiore a 5.000 tonnellate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «produttore di carta e cartone recuperati»: il gestore di un impianto autorizzato al recupero di rifiuti di carta e cartone (di seguito: impianto di recupero); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «dichiarazione di conformita'»: dichiarazione sostitutiva dell'atto di notorieta' rilasciata dal produttore di carta e cartone recuperati attestante le caratteristiche di carta e cartone recuperati, di cui all'articolo 5; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «autorita' competente»: l'autorita' che rilascia l'autorizzazione ai sensi del titolo III-bis della parte II o del titolo I, capo IV, della parte IV del decreto legislativo 3 aprile 2006, n. 152, ovvero l'autorita' destinataria della comunicazione di cui all'articolo 216 del medesimo decreto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «componenti non cartacei»: i componenti cosi' definiti dalla norma UNI EN 643; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «materiali proibiti»: i materiali cosi' definiti dalla norma UNI EN 643, ad esclusione dei «rifiuti organici compresi alimenti».
 
 ## Art. 3. — Criteri ai fini della cessazione 
  della qualifica di rifiuto
@@ -56,7 +116,50 @@ Ai fini della verifica di sussistenza dei requisiti di cui all'articolo 3, il pr
 
 ## Art. 6. — Sistema di gestione
 
+1.
+                    
+                        
+                            Il produttore di carta e cartone recuperati applica un sistema di gestione della qualita' secondo la norma UNI EN ISO 9001 certificato da un organismo accreditato ai sensi della normativa vigente, atto a dimostrare il rispetto dei requisiti di cui al presente regolamento. Il manuale della qualita' deve essere comprensivo: 
+ 
+                        
+                        
+                            a)
+                            
+                                di procedure operative per il controllo delle caratteristiche di conformita' alla norma UNI EN 643; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                del piano di campionamento.
+
 Il periodo di conservazione del campione di cui all'articolo 5, comma 3, e' ridotto a 6 mesi per le imprese registrate ai sensi del regolamento (CE) n. 1221/2009 del Parlamento europeo e del Consiglio del 25 novembre 2009 (EMAS) e per le imprese in possesso della certificazione ambientale UNI EN ISO 14001 rilasciata da organismo accreditato ai sensi della normativa vigente.
+
+3.
+                    
+                        
+                            Ai fini della riduzione di cui al comma 2, deve essere predisposta dal produttore apposita documentazione relativa a ciascuno dei seguenti aspetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il rispetto delle norme di cui al presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rispetto della normativa in materia ambientale e delle eventuali prescrizioni riportate nell'autorizzazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la revisione e il miglioramento del sistema di gestione.
 
 ## Art. 7. — Norme transitorie e finali
 

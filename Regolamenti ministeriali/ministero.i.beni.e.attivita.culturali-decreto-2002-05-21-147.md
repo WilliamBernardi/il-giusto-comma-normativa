@@ -8,8 +8,8 @@ codice_redazionale: 002G0179
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,45 @@ Ciascuna emittente non puo' beneficiare di un contributo superiore al 5 per cent
 ## Art. 4. — Concessione ed erogazione del contributo
 
 La domanda di contributo deve pervenire, anche a mezzo raccomandata con avviso di ricevimento, entro trenta giorni dalla pubblicazione nella Gazzetta Ufficiale del presente regolamento, al Ministero per i beni e le attivita' culturali - Direzione generale per il cinema.
+
+2.
+                    
+                        
+                            La domanda, anche attraverso dichiarazioni ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione della ragione sociale dell'emittente, degli estremi del titolo concessorio o autorizzatorio in base al quale l'emittente esercita l'attivita' di radiodiffusione televisiva in ambito locale e del numero di codice fiscale e di partita Iva;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la dichiarazione che l'emittente ha assolto tutti gli obblighi di informazione contabile previsti dalla normativa vigente in materia di radiodiffusioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione che l'emittente e' in regola con il versamento dei contributi previdenziali e con il pagamento del canone di concessione e che non e' sottoposta a procedura concorsuale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'indicazione dei programmi per i quali viene chiesto il contributo, dei relativi costi analitici, dell'importo richiesto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                indicazione degli eventuali altri contributi pubblici concessi o richiesti per i programmi per i quali viene chiesto il contributo.
 
 La Direzione generale per il cinema accerta la sussistenza dei requisiti di ammissibilita' di cui agli articoli l e 2 ed al comma 2 del presente articolo, e sottopone le domande ammissibili all'esame di un'apposita Commissione, nominata con decreto del Ministro per i beni e le attivita' culturali e composta dal dirigente preposto alla Direzione generale per il cinema, che la presiede, e da quattro esperti, di cui due designati dal Ministro delle comunicazioni.
 

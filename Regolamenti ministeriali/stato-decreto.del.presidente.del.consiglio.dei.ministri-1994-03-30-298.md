@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2018-02-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -42,6 +42,31 @@ Il termine di presentazione delle domande di partecipazione al concorso scade il
 
 ## Art. 3. — Commissione esaminatrice
 
+1.
+                    
+                        
+                            La commissione esaminatrice, nominata dalla regione o dalla provincia autonoma, e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                un professore universitario ordinario o associato con un'anzianita' di insegnamento di almeno cinque anni in una delle materie oggetto di esame;
+
+                            
+                        
+                        
+                            b)
+                            
+                                due funzionari dirigenti o appartenenti alla carriera direttiva, dipendenti dalla regione o dalla provincia autonoma, dei quali almeno uno farmacista;
+
+                            
+                        
+                        
+                            c)
+                            
+                                due farmacisti, di cui uno titolare di farmacia e uno esercente in farmacia aperta al pubblico, designati dall'ordine provinciale dei farmacisti.
+
 Le funzioni di presidente sono esercitate dal professore universitario o da uno dei due funzionari regionali; quelle di segretario da un funzionario della carriera direttiva amministrativa della regione o della provincia autonoma.
 
 ## Art. 4. — Punteggi
@@ -56,9 +81,91 @@ La commissione esaminatrice, fermo restando l'obbligo di procedere alla determin
 
 ## Art. 5. — Valutazione dei titoli
 
+1.
+                    
+                        
+                            Per la valutazione dei titoli ogni commissario dispone: 
+ 
+                        
+                        
+                            a)
+                            
+                                fino a un massimo di 3 punti per titoli di studio e di carriera; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fino a un massimo di 7 punti per titoli relativi all'esercizio professionale.
+
 Non sono valutabili i periodi di esercizio professionale superiori ai venti anni ed inferiori ad un anno.
 
+3.
+                    
+                        
+                            Ai fini della valutazione dell'esercizio professionale, sono assegnati i seguenti punteggi: 
+ 
+                        
+                        
+                            a)
+                            
+                                per l'attivita' di titolare e direttore di farmacia aperta al pubblico: punti 0,5 per anno per i primi dieci anni; 0,2 per anno per i secondi dieci anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'attivita' di collaboratore di farmacia aperta al pubblico: punti 0,45 per anno per i primi dieci anni; 0,18 per anno per i secondi dieci anni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per l'attivita' di professore ordinario di ruolo della facolta' di farmacia, per l'attivita' di farmacista dirigente dei ruoli delle unita' sanitarie locali, per l'attivita' di direttore di farmacia ospedaliera o di farmacia militare, per l'attivita' di direttore tecnico di stabilimento farmaceutico: punti 0,40 per anno per i primi dieci anni; 0,15 per anno per i secondi dieci anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per l'attivita' di direttore di aziende farmaceutiche municipalizzate, di informatore scientifico o di collaboratore ad altro titolo di industria farmaceutica, di coadiutore o collaboratore dei ruoli delle unita' sanitarie locali, di farmacista militare, di direttore di deposito o magazzino all'ingrosso di medicinali, di direttore tecnico di officine di produzione di cosmetici, di professore universitario associato della facolta' di farmacia, di farmacista dipendente del Ministero della sanita' e dell'Istituto superiore di sanita', delle regioni e delle province autonome: punti 0,35 per anno per i primi dieci anni; 0,10 per i secondi dieci anni.
+
 La mancata iscrizione all'albo professionale non preclude la valutazione del titolo, quando l'iscrizione stessa non sia obbligatoria per l'esercizio dell'attivita' espletata.
+
+5.
+                    
+                        
+                            L'attivita' professionale dei candidati appartenenti alla Comunita' economica europea e' valutata come appresso: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'attivita' di titolare o di direttore di farmacia aperta al pubblico svolta in un Paese della Comunita' economica europea e' equiparata a quella del titolare o del direttore di farmacia italiana; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attivita' di ogni altro farmacista che lavori a tempo pieno in farmacia aperta al pubblico di Paese comunitario, e' equiparata all'attivita' di collaboratore di farmacia italiano;((4))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                l'attivita' di direttore di farmacia ospedaliera di un Paese comunitario e' equiparata all'attivita' di direttore di farmacia ospedaliera italiana; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'attivita' espletata in farmacia ospedaliera a diverso titolo di un Paese comunitario e' equiparata all'attivita' di farmacista coadiutore o collaboratore delle unita' sanitarie locali.
 
 --------------
                         AGGIORNAMENTO (4)
@@ -66,6 +173,66 @@ La mancata iscrizione all'albo professionale non preclude la valutazione del tit
  La L. 11 gennaio 2018, n. 3 ha disposto (con l'art. 16, comma 1) che "Il punteggio massimo di cui all'articolo 5, comma 1, lettera b), del regolamento di cui al decreto del Presidente del Consiglio dei ministri 30 marzo 1994, n. 298, e' da intendersi comprensivo dell'eventuale maggiorazione prevista dall'articolo 9 della legge 8 marzo 1968, n. 221".
 
 ## Art. 6. — Valutazione dei titoli di studio e di carriera
+
+1.
+                    
+                        
+                            Ai fini della valutazione dei titoli di studio e di carriera, sono assegnati i seguenti punteggi: 
+ 
+                        
+                        
+                            a)
+                            
+                                voto di laurea in farmacia o in chimica e tecnologia farmaceutica fino a un massimo di punti 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                possesso di seconda laurea in una delle seguenti discipline: medicina, scienze biologiche, veterinaria e chimica: punti 0,7; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                specializzazioni universitarie o conseguimento di borse di studio o di ricerca relative alla facolta' di farmacia o chimica e tecnologia farmaceutiche, erogate ai sensi o dell'art. 80 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, o dell'art. 8 della legge 30 novembre 1989, n. 398 ((fino ad un massimo di punti 0,4)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                possesso di seconda laurea in chimica e tecnologia farmaceutiche o in farmacia: punti 0,3; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                pubblicazioni scientifiche inerenti alle materie d'esame: fino a un massimo di punti 0,2; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                idoneita' in un precedente concorso, da valutarsi una sola volta: punti 0,2; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                idoneita' nazionale a farmacista dirigente: punti 0,2; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                voto con cui si e' conseguita l'abilitazione e altri titoli conseguenti in materia di aggiornamento professionale: fino a un massimo di punti 0,1.
 
 ## Art. 7. — Prova attitudinale
 

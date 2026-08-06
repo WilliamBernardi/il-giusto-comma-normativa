@@ -8,8 +8,8 @@ codice_redazionale: 093G0495
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -63,6 +63,38 @@ La bandiera del Corpo di polizia penitenziaria e' custodita nell'ufficio del dir
 
 ## Art. 4. — Spiegamento della bandiera
  del Corpo di polizia penitenziaria
+
+1.
+                        
+                            
+                                La bandiera del Corpo di polizia penitenziaria viene spiegata in occasione:
+ 
+                            
+                            
+                                a)
+                                
+                                    di cerimonie di consegna di bandiere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della festa nazionale del Corpo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di consegna di ricompense al valore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di altre circostanze previste da particolari disposizioni o stabilite dal Dipartimento dell'Amministrazione penitenziaria.
 
 Nelle giornate di lutto nazionale la Bandiera, se esposta, viene abbrunata con un velo nero di forma e di dimensioni uguali a quelle della fascia azzurra.
 

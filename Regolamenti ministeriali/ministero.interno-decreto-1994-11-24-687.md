@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1995-09-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,38 @@ Sentita la commissione centrale di cui all'art. 10 del decreto-legge 15 gennaio 
 Sentito il Comitato nazionale dell'ordine e della sicurezza pubblica, che sullo schema del presente provvedimento si e' espresso nella riunione del 24 novembre 1994;
 
 ## Art. 1. — Modalita' per la formulazione del programma
+
+1.
+                    
+                        
+                            La commissione centrale prevista dall'art. 10, comma 2, del decreto-legge 15 gennaio 1991, n. 8, convertito con modificazioni dalla legge 15 marzo 1991, n. 82, denominata legge negli articoli seguenti, formula lo speciale programma di protezione per i soggetti indicati nell'art. 9 della medesima legge dopo aver acquisito:
+ 
+                        
+                        
+                            a)
+                            
+                                la proposta motivata del procuratore della Repubblica ovvero, previo parere favorevole di questi, del capo della Polizia - direttore generale della pubblica sicurezza o del prefetto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il parere del procuratore nazionale antimafia, allorche' ricorrano le condizioni previste dall'art. 3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la completa e documentata attestazione delle situazioni soggettive indicate nell'art. 12 della legge;
+
+                            
+                        
+                        
+                            d)
+                            
+                                specifiche e dettagliate indicazioni sulle misure preventive e di protezione gia' adottate o adottabili dall'autorita' di pubblica sicurezza, dall'Amministrazione penitenziaria o da altri organi, nonche' ogni ulteriore elemento eventualmente occorrente per definire la gravita' e l'attualita' del pericolo in relazione alla collaborazione o alle dichiarazioni rese nel corso delle indagini preliminari o del giudizio relativamente a delitti compresi fra quelli previsti dall'art. 380 del codice di procedura penale.
 
 La commissione puo' altresi' acquisire, anche mediante e a seguito dell'audizione del procuratore nazionale antimafia, dell'autorita' che ha formulato la proposta o di altra autorita' che ad essa e' interessata, ogni ulteriore notizia utile ai fini della formulazione del programma di protezione, ivi compresi gli elementi concernenti l'importanza del contributo per lo sviluppo delle indagini o per il giudizio penale e quelli di interesse ai fini delle dichiarazioni impegnative da rendere a norma dell'art. 12 della legge.
 

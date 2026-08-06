@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -275,6 +275,34 @@ Per il personale che acquisisce la qualifica di ispettore superiore-sostituto uf
 
 Le disposizioni di cui ai commi 1, 2, 3, 4 e 5 si applicano anche al personale che riveste una qualifica corrispondente dei ruoli tecnici e dei ruoli del personale della banda musicale della Polizia di Stato, nei limiti dei rispettivi ordinamenti.
 
+7.
+                        
+                            
+                                A decorrere dal 1° gennaio 2005:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 dell'articolo 31-quater del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e successive modificazioni, e' sostituito dal seguente:
+ "1. Gli ispettori superiori-sostituti ufficiali di pubblica sicurezza che al 1° gennaio di ogni anno abbiano maturato quindici anni di effettivo servizio nella qualifica, possono partecipare ad una specifica selezione per titoli, a conclusione della quale, ferma restando la qualifica rivestita, assumono la denominazione di "sostituto commissario" con decorrenza dallo stesso 1° gennaio.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 dell'articolo 31-quinquies del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e' sostituito dal seguente:
+ "1. I periti tecnici superiori che al 1° gennaio di ogni anno abbiano maturato quindici anni di effettivo servizio nella qualifica, possono partecipare ad una specifica selezione per titoli, a conclusione della quale, ferma restando la qualifica rivestita, assumono la denominazione di "sostituto direttore tecnico" con decorrenza dallo stesso 1° gennaio.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 1 dell'articolo 15-quinquies del decreto del Presidente della Repubblica 30 aprile 1987, n. 240, e' sostituito dal seguente:
+ "1. Gli orchestrali periti tecnici superiori che al 1° gennaio di ogni anno abbiano maturato quindici anni di effettivo servizio nella qualifica, possono partecipare ad una specifica selezione per titoli a conclusione della quale, ferma restando la qualifica rivestita, assumono la denominazione di "primo livello" con decorrenza dallo stesso 1° gennaio.".
+
 ## Art. 9. — Disposizioni per il personale
  dell'Arma dei carabinieri
 
@@ -284,6 +312,49 @@ Il parametro previsto per gli appuntati scelti e i brigadieri capo con otto anni
 
 Per il personale che acquisisce il grado di maresciallo aiutante entro il 31 dicembre di ciascun anno, dal 2003 al 2008, il periodo di permanenza nel grado utile ai fini dell'attribuzione del parametro previsto per il medesimo grado con otto anni di anzianita' di grado e' fissato, per ciascun anno, rispettivamente, in 2, 3, 4, 5, 6, e 7 anni. Il predetto parametro e' attribuito con decorrenza 1° gennaio 2005 ai marescialli aiutanti che hanno acquisito il grado tra il 2 settembre e il 31 dicembre 2002, non destinatari del trattamento economico di cui all'articolo 38-ter del decreto legislativo 12 maggio 1995, n 198, e successive modificazioni.
 
+4.
+                        
+                            
+                                A decorrere dal 1° gennaio 2005:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 3 dell'articolo 38-ter del decreto legislativo 12 maggio 1995, n. 198, e successive modificazioni, e' sostituito dal seguente:
+ "3. I marescialli aiutanti che abbiano maturato ovvero maturino, nel corso dell'anno, quindici anni di anzianita' di grado e che nel triennio precedente abbiano ottenuto, in sede di valutazione caratteristica, la qualifica di "eccellente" o giudizio equivalente e nell'ultimo biennio non abbiano riportato alcuna sanzione disciplinare piu' grave del "rimprovero" e non si trovino nelle condizioni di cui al comma 2, sono ammessi alla procedura selettiva per titoli per il conferimento della qualifica di luogotenente.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 dell'articolo 30 del decreto legislativo 28 febbraio 2001, n. 83, e' sostituito dal seguente:
+ "3. I marescialli aiutanti, comunque in servizio al 1° gennaio 2005, che al 31 agosto 1995 rivestivano il grado di maresciallo maggiore, la qualifica di "carica speciale" o di "aiutante" del disciolto ruolo sottufficiali i quali alla medesima data del 1° gennaio 2005 non risultano in possesso dei requisiti di cui al comma 3 dell'articolo 38-ter del decreto legislativo 12 maggio 1995, n. 198, e successive modificazioni, conseguono la qualifica di "luogotenente", con decorrenza dal giorno successivo a quello di maturazione dei requisiti di cui allo stesso comma 3 dell'articolo 38-ter, del decreto legislativo 12 maggio 1995, n. 198, e successive modificazioni, ferme restando le condizioni di cui al comma 2 del medesimo articolo.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4 dell'art. 30 del decreto legislativo 28 febbraio 2001, n. 83, e' sostituito dal seguente:
+ "4. Per il conferimento della qualifica di luogotenente riferito agli anni 2005, 2006, 2007 e 2008, in deroga ai requisiti di anzianita' previsti dal comma 3 dell'articolo 38-ter, del decreto legislativo 12 maggio 1995, n. 198, e successive modificazioni, e fermi restando gli altri requisiti e le condizioni di cui al medesimo articolo, ai marescialli aiutanti e' richiesta una permanenza minima nel grado di sette anni per il personale con anzianita' di grado compresa tra il 1° settembre 1995 ed il 31 dicembre 1995 e di sette anni e sei mesi per il personale con anzianita' di grado compresa tra il 1° gennaio 1996 e la data di entrata in vigore del presente decreto.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 6 dell'articolo 30, del decreto legislativo 28 febbraio 2001, n. 83, e' sostituito dal seguente:
+ "6. Per i marescialli aiutanti con anzianita' di grado compresa tra il 15 aprile 2001 ed il 31 dicembre 2007, fermi restando gli altri requisiti e le condizioni previste dall'articolo 38-ter del decreto legislativo 12 maggio 1995, n. 198, e successive modificazioni, per l'ammissione alla procedura selettiva per il conseguimento della qualifica di Luogotenente e' richiesto il requisito di anzianita' nel grado di maresciallo aiutante di cui alla tabella C3, allegata al presente decreto.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al decreto legislativo 28 febbraio 2001, n. 83, e' aggiunta la tabella C allegata al presente decreto.
+
 ## Art. 10. — Disposizioni per il personale
  del Corpo della Guardia di finanza
 
@@ -292,6 +363,55 @@ Agli appuntati scelti e ai brigadieri capo destinatari della disciplina transito
 Il parametro previsto per gli appuntati scelti e i brigadieri capo con otto anni di anzianita' nel grado di cui alla tabella 1 allegata al presente decreto, e' attribuito con decorrenza 1° gennaio 2005 anche al personale con il medesimo grado destinatario della disciplina transitoria di cui all'articolo 11, del decreto legislativo 28 febbraio 2001, n. 67, che ha gia' maturato alla medesima data la prescritta anzianita' per l'attribuzione dello scatto aggiuntivo, indipendentemente dai requisiti soggettivi ivi previsti.
 
 Per il personale che acquisisce il grado di maresciallo aiutante entro il 31 dicembre di ciascun anno, dal 2003 al 2008, il periodo di permanenza nel grado utile ai fini dell'attribuzione del parametro previsto per il medesimo grado con otto anni di anzianita' di grado e' fissato, per ciascun anno, rispettivamente, in 2, 3, 4, 5, 6, e 7 anni. Il predetto parametro e' attribuito con decorrenza 1° gennaio 2005 ai marescialli aiutanti che hanno acquisito il grado tra il 2 settembre e il 31 dicembre 2002, non destinatari del trattamento economico di cui all'articolo 58-ter del decreto legislativo 12 maggio 1995, n. 199, e successive modificazioni.
+
+4.
+                        
+                            
+                                A decorrere dal 1° gennaio 2005:
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera a) del comma 1 dell'articolo 58-quater, del decreto legislativo 12 maggio 1995, n. 199, e successive modificazioni, e' sostituita dalla seguente: "a) nell'anno per il quale viene effettuata la selezione dei titoli per il conferimento della citata qualifica, abbiano maturato ovvero maturino quindici anni di anzianita' nel grado di maresciallo aiutante;";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 dell'articolo 12 del decreto legislativo 28 febbraio 2001, n. 67, e' sostituito dal seguente:
+ "2. Ai marescialli aiutanti, comunque in servizio al 1° gennaio 2005, che hanno conseguito il grado di maresciallo maggiore del preesistente ruolo sottufficiali, compresi coloro a cui e' stata attribuita la qualifica di "aiutante" e la nomina a "carica speciale", con decorrenza anteriore al 1° settembre 1995, i quali, alla medesima data del 1° gennaio 2005, non risultino in possesso dei requisiti di cui all'articolo 58-quater, comma 1, lettere b) e c), del decreto di inquadramento, la qualifica di luogotenente e' conferita con decorrenza dal giorno successivo a quello di maturazione dei requisiti di cui alle lettere b) e c) dell'articolo 58-quater del decreto di inquadramento, ferme restando le condizioni indicate alla lettera d) dello stesso articolo.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4 dell'articolo 12 del decreto legislativo 28 febbraio 2001, n. 67, e' sostituito dal seguente:
+ "4. Per le procedure di conferimento della qualifica di luogotenente riferite agli anni 2005, 2006, 2007 e 2008, in deroga ai requisiti di anzianita' previsti dal comma 1, lettera a), dell'articolo 58-quater del decreto di inquadramento e fermi restando gli altri requisiti e condizioni di cui al medesimo articolo, ai fini della partecipazione alla selezione per titoli per il conferimento della qualifica di luogotenente, ai marescialli aiutanti e' richiesta una permanenza minima nel grado di sette anni per il personale con anzianita' di grado compresa tra il 1° settembre 1995 ed il 31 dicembre 1995, e di sette anni e sei mesi per il personale con anzianita' di grado compresa tra il 1° gennaio 1996 ed il giorno precedente alla data di entrata in vigore del presente decreto.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 5 dell'articolo 12 del decreto legislativo 28 febbraio 2001, n. 67, e' sostituito dal seguente:
+ "5. Ai marescialli aiutanti con anzianita' di grado compresa tra il 10 aprile 2001 ed il 31 dicembre 2007, in deroga ai requisiti di anzianita' previsti dal comma 1, lettera a), dell'articolo 58-quater del decreto di inquadramento e fermi restando gli altri requisiti di cui al medesimo articolo, ai fini della partecipazione alla selezione per titoli per il conferimento della qualifica di luogotenente e' richiesta una permanenza minima nel grado come indicata nella tabella B allegata al presente decreto.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il periodo in calce alla tabella "F" allegata al decreto legislativo 27 febbraio 1991, n. 79, concernente il "Riordinamento della banda musicale della Guardia di finanza", e' sostituito dal seguente: "Il personale appartenente al Ruolo "Esecutori", fermo restando il possesso dei requisiti di cui all'articolo 58-quater, comma 1, del decreto legislativo 12 maggio 1995, n. 199, e successive modificazioni, consegue la qualifica di luogotenente, a ruolo aperto, previo giudizio di idoneita' espresso dalla competente commissione di avanzamento.";
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la tabella B allegata al decreto legislativo 28 febbraio 2001, n. 67, e' sostituita dalla tabella D allegata al presente decreto.
 
 ## Art. 11. — Disposizioni per il personale
  del Corpo di polizia penitenziaria
@@ -323,6 +443,26 @@ Agli ispettori superiori ed ai periti superiori destinatari della disciplina tra
 Per il personale che acquisisce la qualifica di ispettore superiore e perito superiore entro il 31 dicembre di ciascun anno, dal 2002 al 2007, il requisito di anzianita' nella qualifica ai fini dell'ammissione alla selezione per il conseguimento della denominazione di "scelto" di cui agli articoli 21-ter e 47-ter del decreto legislativo 12 maggio 1995, n. 201, e successive modificazioni, e', rispettivamente, di 9, 10, 11, 12, 13 e 14 anni.
 Il predetto requisito e' di 9 anni per il personale che acquisisce la qualifica di ispettore superiore e perito superiore nel 2001, successivamente alla data di entrata in vigore del decreto legislativo 28 febbraio 2001, n. 87.
 
+6.
+                        
+                            
+                                A decorrere dal 1° gennaio 2005:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 dell'articolo 21-ter del decreto legislativo 12 maggio 1995, n. 201, e successive modificazioni, e' sostituito dal seguente:
+ "1. Gli ispettori superiori che al 1° gennaio di ogni anno abbiano maturato quindici anni di effettivo servizio nella qualifica sono ammessi, a domanda, ad una selezione per titoli, a conclusione della quale, ferma restando la qualifica rivestita, assumono la denominazione di "scelto" con decorrenza dallo stesso 1° gennaio.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 dell'articolo 47-ter del decreto legislativo 12 maggio 1995, n. 201, e successive modificazioni, e' sostituito dal seguente:
+ "1. I periti superiori che al 1° gennaio di ogni anno abbiano maturato quindici anni di effettivo servizio nella qualifica sono ammessi, a domanda, ad una selezione per titoli, a conclusione della quale, ferma restando la qualifica rivestita, assumono la denominazione di "scelto" con decorrenza dallo stesso 1° gennaio.".
+
 Al comma 10 dell'articolo 30 del decreto legislativo 28 febbraio 2001, n. 87, le parole: "di cui agli articoli 21-bis, 21-ter, 21-quater, 47-bis, 47-ter" sono sostituite dalle seguenti: "relative alle condizioni soggettive di cui ai com-mi 2 e 3 degli articoli 21-ter e 47-ter e quelle di cui agli articoli 21-bis, 21-quater, 47-bis.".
 
 ## Art. 13. — Disposizioni per il personale
@@ -332,11 +472,169 @@ Per il personale che acquisisce il grado di primo maresciallo entro il 31 dicemb
 
 Il trattamento di cui all'articolo 34-bis, del decreto legislativo 12 maggio 1995, n. 196, e successive modificazioni, cosi' come integrato dal decreto legislativo 28 febbraio 2001, n. 82, utile ai fini di pensione e di buonuscita, viene mantenuto nella misura in godimento alla data del 31 dicembre 2004 e viene riassorbito all'atto del passaggio al parametro successivo.
 
+3.
+                        
+                            
+                                A decorrere dal 1° gennaio 2005:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 dell'articolo 6-bis, del decreto legislativo 12 maggio 1995, n. 196, e successive modificazioni, e' sostituito dal seguente:
+ "2. I primi marescialli, dopo che siano trascorsi quattordici anni di permanenza nel grado di primo maresciallo sono valutati secondo i criteri stabiliti dall'articolo 35 della legge 10 maggio 1983, n. 212. Agli stessi, se idonei, viene attribuita la qualifica di "luogotenente" secondo la graduatoria di merito a decorrere dal giorno successivo al compimento del quindicesimo anno di permanenza nel grado.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 dell'articolo 6-ter del decreto legislativo 12 maggio 1995, n. 196, e successive modificazioni, e' sostituito dal seguente:
+ "1. Per i primi marescialli con anzianita' di grado compresa tra il 15 aprile 2001 ed il 31 dicembre 2007, ai fini dell'inclusione nell'aliquota di valutazione di cui all'articolo 6-bis per il conferimento della qualifica di luogotenente e' richiesto il requisito di anzianita' nel grado di primo maresciallo di cui alla tabella B4, allegata al presente decreto.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al decreto legislativo 12 maggio 1995, n. 196, e successive
+ modificazioni, e' aggiunta la tabella E allegata al presente decreto;
+                                
+                            
+                            
+                                d)
+                                
+                                    le disposizioni di cui al presente decreto si applicano in
+quanto compatibili al personale del ruolo dei musicisti.
+
 ## Art. 14. — ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
 
 
 ## Art. 15. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dal 1° gennaio 2005 sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 138 e 140 della legge 11 luglio 1980, n. 312, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 12-bis, 24-quinquies.1, 24-octies, 27-quinquies, 28-bis, 31.1, 31-ter, 31- quater, comma 4, e 31-quinquies del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e successive modificazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 11-bis, 20-quinquies.1, 20-octies, 25-quinquies, 28-bis, 31.1, 31-quater e 31-quinquies, comma 4, del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, e successive modificazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 15-ter, 15-quater e 15-quinquies, comma 4, del decreto del Presidente della Repubblica 30 aprile 1987, n. 240, e successive modificazioni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli articoli 11-bis, 19-bis, 21-bis, 28-bis, 29-bis, 30.1, 30-ter, 30-quater, comma 4, e 30-quinquies del decreto legislativo 30 ottobre 1992, n. 443, e successive modificazioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli articoli 4-bis, 5-bis, 6-bis, commi 1 e 3, 31-bis, 31-ter, 31-quater, 31-quinquies e 39-bis del decreto legislativo 12 maggio 1995, n. 196, e successive modificazioni;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli articoli 37-bis, 37-ter, 38-ter, commi 1 e 7, 54-bis, 54-ter, 54-quater, 54-quinquies, 54-sexies e 54-septies del decreto legislativo 12 maggio 1995, n. 198, e successive modificazioni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli articoli 58-ter, 73-bis, 73-ter, 73-quater e 73-quinquies del decreto legislativo 12 maggio 1995, n. 199, e successive modificazioni;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli articoli 21-bis, 21-ter, comma 4, 21-quater, 47-bis, 47-ter, comma 4, 47-quater e 49, commi da 1-bis a 1-decies, del decreto legislativo 12 maggio 1995, n. 201, e successive modificazioni;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 3, commi 1 e 2, della legge 28 marzo 1997, n. 85, e successive modificazioni;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 32, comma 3-bis, del decreto legislativo 5 ottobre 2000, n. 298;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    gli articoli 1 e 2 della legge 30 novembre 2000, n. 356;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'articolo 19, comma 3, e l'articolo 21 del decreto legislativo 28 febbraio 2001, n. 53;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'articolo 12, comma 3, del decreto legislativo 28 febbraio 2001, n 67;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    l'articolo 21, comma 3, e l'articolo 23 del decreto legislativo 28 febbraio 2001, n. 76;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    l'articolo 30, commi 7, 8 e 9, del decreto legislativo 28 febbraio 2001, n. 83;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    l'articolo 30, comma 7, del decreto legislativo 28 febbraio 2001, n. 87.
 
 ## Art. 16. — Clausola finanziaria
 

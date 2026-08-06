@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-07-20;95
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -53,10 +53,111 @@ All'articolo 13 del decreto legislativo n. 112 del 2017, dopo il comma 2, e' agg
 Modifiche all'articolo 17 
  del decreto legislativo n. 112 del 2017
 
+1.
+                    
+                        
+                            All'articolo 17 del decreto legislativo n. 112 del 2017, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, primo periodo, la parola: «dodici» e' sostituita dalla seguente: «diciotto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, secondo periodo, sono aggiunte in fine le seguenti parole: «al fine di adeguarli alle nuove disposizioni inderogabili o di introdurre clausole che escludono l'applicazione di nuove disposizioni, derogabili mediante specifica clausola statutaria».
+
 ## Art. 7. — Modifiche all'articolo 18 
  del decreto legislativo n. 112 del 2017
 
+1.
+                    
+                        
+                            All'articolo 18 del decreto legislativo n. 112 del 2017, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 1 e 2 sono sostituiti dai seguenti: 
+ «1. Non concorrono alla formazione del reddito imponibile delle imprese sociali le somme destinate al versamento del contributo per l'attivita' ispettiva di cui all'articolo 15, nonche' le somme destinate ad apposite riserve ai sensi dell'articolo 3, commi 1 e 2.
+L'utilizzazione delle riserve a copertura di perdite e' consentita e non comporta la decadenza dal beneficio, sempre che non si dia luogo a distribuzione di utili fino a quando le riserve non siano state ricostituite. 
+ 2. Non concorrono altresi' a formare il reddito imponibile delle imprese sociali le imposte sui redditi riferibili alle variazioni effettuate ai sensi dell'articolo 83 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917. La disposizione di cui al periodo precedente e' applicabile solo se determina un utile o un maggior utile da destinare a incremento del patrimonio ai sensi dell'articolo 3, comma 1.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, il primo periodo e' sostituito dal seguente: «Dall'imposta lorda sul reddito delle persone fisiche si detrae un importo pari al trenta per cento della somma investita, successivamente alla data di entrata in vigore del presente decreto, dal contribuente nel capitale sociale di una o piu' societa', incluse societa' cooperative, che abbiano acquisito la qualifica di impresa sociale da non piu' di cinque anni.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, terzo periodo, le parole: «tre anni» sono sostituite dalle seguenti: «cinque anni»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, il primo periodo e' sostituito dal seguente: «Non concorre alla formazione del reddito dei soggetti passivi dell'imposta sul reddito delle societa', il trenta per cento della somma investita, successivamente alla data di entrata in vigore del presente decreto, nel capitale sociale di una o piu' societa', incluse societa' cooperative, che abbiano acquisito la qualifica di impresa sociale da non piu' di cinque anni.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 4, secondo periodo, le parole: «tre anni» sono sostituite dalle seguenti: «cinque anni»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 5, le parole: «che abbiano acquisito la qualifica di impresa sociale successivamente alla medesima data e siano costituite da non piu' di trentasei mesi dalla stessa.», sono sostituite dalle seguenti: «che abbiano acquisito la qualifica di impresa sociale da non piu' di cinque anni.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 7, le parole: «e all'articolo 7-bis del decreto-legge 22 ottobre 2016, n. 193, convertito, con modificazioni, dalla legge 1° dicembre 2016, n. 225.», sono sostituite dalle seguenti: «e all'articolo 9-bis del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                dopo il comma 8, sono inseriti i seguenti: 
+ «8-bis. Ai fini dell'applicazione delle disposizioni del presente articolo, le amministrazioni vigilanti trasmettono all'Amministrazione finanziaria gli esiti dei controlli di competenza, ai fini dell'eventuale assunzione dei conseguenti provvedimenti. A seguito della propria attivita' di controllo, l'Amministrazione finanziaria trasmette alle amministrazioni vigilanti ogni elemento utile ai fini della valutazione in merito all'eventuale perdita della qualifica di impresa sociale di cui all'articolo 15, comma 8. E' fatto comunque salvo il potere di autonomo controllo da parte dell'Amministrazione finanziaria. 
+ 8-ter. In caso di violazione delle disposizioni del presente articolo, oltre alla decadenza dalle agevolazioni, si applica l'articolo 2545-sexiesdecies del codice civile ai fini della gestione commissariale.».
+
 ## Art. 8. — Disposizioni di coordinamento
+
+1.
+                    
+                        
+                            Al decreto legislativo 3 luglio 2017, n. 112, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'epigrafe le parole: «a norma dell'articolo 2» sono sostituite dalle seguenti: «a norma dell'articolo 1»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli articoli 1, comma 5, e 2, comma 2, le parole: «di cui all'articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106» sono sostituite dalle seguenti: «di cui al decreto legislativo 3 luglio 2017, n. 117».
 
 All'art. 1, comma 1, lettera a), della legge 8 novembre 1991, n. 381, le parole: «del decreto legislativo recante revisione della disciplina in materia di impresa sociale, di cui all'articolo 1, comma 2, lettera c), della legge 6 giugno 2016, n. 106» sono sostituite dalle seguenti: «del decreto legislativo 3 luglio 2017, n. 112».
 

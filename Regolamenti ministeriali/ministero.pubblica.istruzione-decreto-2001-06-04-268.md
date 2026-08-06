@@ -8,8 +8,8 @@ codice_redazionale: 001G0327
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,31 @@ La valutazione della prova scritta e' effettuata con le modalita' di cui all'art
 
 Il colloquio, che si svolge nel giorno successivo a quello in cui il candidato ha sostenuto la prova scritta, ha inizio con la presentazione e la discussione di una relazione nella quale il candidato riesamina criticamente le attivita' di tirocinio e di laboratorio didattico svolte nel biennio di formazione.
 
+2.
+                    
+                        
+                            Il colloquio prosegue con la illustrazione, sviluppata anche attraverso la presentazione di ulteriori elementi, dello schema di progettazione realizzato dal candidato in sede di prova scritta. Nel corso della sua esposizione il candidato dovra' dimostrare, con riferimento alla progettazione proposta, di essere in grado di:
+ 
+                        
+                        
+                            a)
+                            
+                                padroneggiare la disciplina nei suoi continui mutamenti, con riferimento alla costruzione e allo sviluppo del curriculum;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuare, sotto gli aspetti strutturali e formativi, i rapporti tra la disciplina in questione e le discipline affini, in particolare quelle rientranti nella classe di concorso di riferimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                utilizzare proficuamente le competenze acquisite in riferimento alla relazione educativa.
+
 ## Art. 4. — Valutazione delle prove d'esame
 
 Alle prove d'esame sono attribuiti complessivamente 40 punti cosi' suddivisi:
@@ -72,6 +97,24 @@ Al candidato che non supera le prove d'esame e' consentita la partecipazione a s
 ## Art. 7. — Pluralita' di abilitazioni
 
 I soli allievi gia' iscritti alla scuola di specializzazione alla data di entrata in vigore del presente decreto e che abbiano frequentato una pluralita' di classi di abilitazione inserite, ai fini del concorso ordinario, in un medesimo ambito disciplinare possono chiedere di sostenere contestualmente l'esame per piu' di una classe.
+
+2.
+                    
+                        
+                            Nel caso di cui al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                la prova scritta e la corrispondente illustrazione e' unica; gli argomenti proposti dalla commissione sono predisposti in modo da coprire tutte le discipline previste nelle classi per le quali il candidato si presenta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ognuna delle classi, il candidato presenta e discute una separata relazione critica sulle attivita' di tirocinio e di laboratorio didattico.
 
 ## Art. 8. — Punteggio aggiuntivo
 

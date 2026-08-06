@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-11-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,6 +38,59 @@ L'E.N.A.C. e' trasformato in ente pubblico economico non oltre il 31 luglio 1999
 
 ## Art. 2. — F u n z i o n i
 
+1.
+                    
+                        
+                            L'Ente nazionale per l'aviazione civile (E.N.A.C.), salvo quanto previsto nel comma 2, esercita le funzioni amministrative e tecniche gia' attribuite alla Direzione generale dell'aviazione civile (D.G.A.C.), al Registro aeronautico italiano (R.A.I.) ed all'Ente nazionale della gente dell'aria (E.N.G.A.) ed in particolare provvede ai seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                regolamentazione tecnica ed attivita' ispettiva, sanzionatoria, di certificazione, di autorizzazione, di coordinamento e di controllo, nonche' tenuta dei registri e degli albi nelle materie di competenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                razionalizzazione e modifica delle procedure attinenti ai servizi aeroportuali, secondo la normativa vigente ed in relazione ai compiti di garanzia, di indirizzo e programmazione esercitati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' di coordinamento con l'Ente nazionale di assistenza al volo e con l'Aeronautica militare, nell'ambito delle rispettive competenze per le attivita' di assistenza al volo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                rapporti con enti, societa' ed organismi nazionali ed internazionali che operano nel settore dell'aviazione civile e rappresentanza presso gli organismi internazionali, anche su delega del Ministro dei trasporti e della navigazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                istruttoria degli atti concernenti tariffe, tasse e diritti aeroportuali per l'adozione dei conseguenti provvedimenti del Ministro dei trasporti e della navigazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                definizione e controllo dei parametri di qualita' dei servizi aeroportuali e di trasporto aereo nei limiti previsti dal regolamento di cui all'articolo 10, comma 13, della legge 24 dicembre 1993, n. 537;
+
+                            
+                        
+                        
+                            g)
+                            
+                                regolamentazione, esame e valutazione dei piani regolatori aeroportuali, dei programmi di intervento e dei piani di investimento aeroportuale, nonche' eventuale partecipazione all'attivita' di gestione degli aeroporti di preminente interesse turistico e sociale, ovvero strategicoeconomico.
+
 Alla Direzione generale dell'aviazione civile, che assume la denominazione di Dipartimento dell'aviazione civile, sono attribuite le funzioni inerenti all'analisi del mercato del trasporto aereo, ai rapporti con le sedi internazionali ed al collegamento con la politica comunitaria, alla valutazione dei piani di investimento nel settore aeroportuale in relazione al volume complessivo del traffico aereo, nonche' funzioni di supporto, nel settore dell'aviazione civile, all'attivita' di indirizzo, vigilanza e controllo del Ministro dei trasporti e della navigazione e di inchiesta sui sinistri aeronautici, nelle more dell'attuazione della direttiva comunitaria n. 94/56/CE.
 
 Con decreto del Presidente del Consiglio dei Ministri, da adottarsi su proposta del Ministro dei trasporti e della navigazione, di concerto con i Ministri del tesoro e per la funzione pubblica, entro tre mesi dalla data di entrata in vigore del presente decreto, sono individuati, in relazione alle funzioni attribuite, i beni e le risorse finanziarie, umane, strumentali ed organizzative che permangono in capo al Dipartimento dell'aviazione civile.
@@ -46,7 +99,92 @@ Con decreto del Presidente del Consiglio dei Ministri, da adottarsi su proposta 
 
 Entro sei mesi dalla data di insediamento degli organi di cui all'articolo 4, il Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro e, per quanto di competenza, con il Ministro della difesa, stipula con l'E.N.A.C. un contratto di programma, che e' rinnovato con cadenza triennale.
 
+2.
+                    
+                        
+                            Il contratto di programma, oltre a definire i limiti dell'esercizio delle funzioni in relazione alle attribuzioni esercitate dall'E.N.A.C. secondo le previsioni dell'articolo 2, in particolare, disciplina:
+ 
+                        
+                        
+                            a)
+                            
+                                i servizi che l'Ente svolge in proprio e quelli che possono essere concessi in appalto o in gestione a terzi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le prestazioni relative ai servizi istituzionali affidati all'Ente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli obiettivi e i parametri di qualita' dei servizi resi all'utenza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i rapporti con enti, societa' e organismi nazionali e internazionali che operano nel settore dell'aviazione civile;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'attivita' di coordinamento con l'Ente nazionale di assistenza al volo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la partecipazione dell'Ente all'attivita' di predisposizione normativa, anche per l'adeguamento della legislazione nazionale del settore ai parametri concordati in sede comunitaria e internazionale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'eventuale erogazione di contributi, per un periodo massimo di cinque anni a decorrere dalla data di entrata in vigore del regolamento di attuazione dell'articolo 10, comma 13, della legge 24 dicembre 1993, n. 537, diretti ad assicurare l'equilibrio economico della gestione di aeroporti con traffico annuo inferiore a 600.000 passeggeri, che rivestono rilevante interesse sociale o turistico ovvero strategicoeconomico.
+
 ## Art. 4. — Organi dell'Ente
+
+1.
+                    
+                        
+                            Sono organi dell'E.N.A.C.:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori dei conti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il direttore generale.
 
 ((
 
@@ -82,7 +220,106 @@ L'E.N.A.C. puo' avvalersi del patrocinio dell'Avvocatuta dello Stato, ai sensi d
 
 Lo statuto dell'E.N.A.C., deliberato dal consiglio di amministrazione, e' approvato con decreto del Ministro dei trasporti e della navigazione, di concerto con i Ministri del tesoro e per la funzione pubblica.
 
+2.
+                    
+                        
+                            Lo statuto, in particolare, stabilisce:
+ 
+                        
+                        
+                            a)
+                            
+                                le ulteriori cause di incompatibilita', di decadenza e revoca dei componenti degli organi dell'Ente, oltre a quanto previsto dall'articolo 4, comma 7;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolazione territoriale dell'Ente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le competenze degli organi in relazione alle esigenze di amministrazione dell'Ente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le competenze dei dirigenti e degli appartenenti al ruolo professionale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i principi di organizzazione ed i criteri di funzionamento in relazione all'esecuzione degli obblighi di servizio imposti all'Ente;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i criteri e le modalita' di reclutamento del personale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'istituzione di un Comitato consultivo tecnico economico e giuridico, presieduto dal direttore generale dell'Ente, o da un suo delegato, i cui componenti, se appartenenti ad amministrazioni pubbliche, devono rivestire la qualifica non inferiore a dirigente generale di livello C, con l'incompatibilita' ad espletare ulteriori e diverse funzioni nell'ambito dell'attivita' dell'Ente;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'istituzione di un Comitato consultivo degli operatori ed utenti del settore per la pianificazione e concertazione dello sviluppo del sistema aeroportuale e per la verifica della compatibilita' economica della misura dei canoni e dei diritti aeroportuali in relazione alla destinazione degli stessi, nonche' per la definizione dei livelli di qualita' dei servizi resi agli utenti;
+
+                            
+                        
+                        
+                            i)
+                            
+                                i criteri per l'elaborazione del regolamento del personale, anche dirigenziale, ed ogni altra disposizione necessaria a garantire un efficiente funzionamento dell'Ente ed il perseguimento dell'interesse pubblico.
+
 ## Art. 7. — Fonti di finanziamento
+
+1.
+                    
+                        
+                            Le entrate dell'E.N.A.C. sono costituite da:
+ 
+                        
+                        
+                            a)
+                            
+                                i trasferimenti da parte dello Stato connessi all'espletamento dei compiti previsti dal presente decreto ed all'attuazione del contratto di programma, nel limite delle somme iscritte nei capitoli dello stato di previsione del Ministero dei trasporti e della navigazione per il triennio 1997-1999, individuati con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro. A decorrere dall'anno 2000 si provvede mediante inserimento delle apposite voci nella tabella C della legge finanziaria annuale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le tariffe per le prestazioni di servizi stabilite con apposito regolamento, deliberato dal consiglio di amministrazione ed approvato con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i proventi previsti dall'articolo 7 della legge 22 agosto 1985, n. 449, come successivamente integrata e modificata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                proventi derivanti da entrate diverse.
 
 ## Art. 8. — P a t r im o n i o
 
@@ -111,6 +348,45 @@ L'E.N.A.C. e' inserito nella parte IV della tabella allegata alla legge 20 marzo
 ## Art. 11. — Vigilanza governativa
 
 Il Ministro dei trasporti e della navigazione esercita funzioni di vigilanza, indirizzo e controllo sull'attivita' dell'E.N.A.C.
+
+2.
+                    
+                        
+                            In particolare, compete al Ministro dei trasporti e della navigazione:
+ 
+                        
+                        
+                            a)
+                            
+                                emanare le direttive generali per la programmazione dell'attivita' dell'Ente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilire gli indirizzi generali in materia di politica tariffaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                approvare le proposte di pianificazione e di sviluppo del sistema aeroportuale nazionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                vigilare che l'attivita' dell'Ente corrisponda ai fini pubblico - istituzionali e si attui con criteri di efficacia, efficienza, economia e sicurezza, nel rispetto delle direttive generali impartite ed in conformita' agli impegni assunti con il contratto di programma;
+
+                            
+                        
+                        
+                            e)
+                            
+                                sciogliere gli organi di amministrazione e nominare un commissario straordinario per la gestione dell'Ente in caso di gravi e reiterate violazioni, accertate nell'espletamento dei compiti di vigilanza di cui alla lettera d).
 
 Le delibere del consiglio di amministrazione aventi un rilevante contenuto strategico o programmatico, i provvedimenti concernenti la definizione delle piante organiche ed il conferimento di incarichi di funzioni dirigenziali, i provvedimenti di disposizione del demanio e del patrimonio immobiliare divengono efficaci se il Ministro dei trasporti e della navigazione non ne chiede il riesame entro venti giorni dalla loro ricezione, ovvero, in tale ipotesi, qualora il consiglio di amministrazione confermi la deliberazione a maggioranza assoluta. In ogni caso, il Ministro dei trasporti e della navigazione annulla le delibere in contrasto con gli indirizzi di politica generale del Governo o con le disposizioni contenute nel contratto di programma.
 

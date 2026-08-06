@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-02-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,7 +26,281 @@ Sulla proposta del Ministro per le politiche europee e del Ministro delle politi
 
 ## Art. 1. — Campo di applicazione
 
+1.
+                    
+                        
+                            Il presente decreto si applica ai: 
+ 
+                        
+                        
+                            a)
+                            
+                                prodotti immessi sul mercato come concimi CE, definiti dal regolamento (CE) n. 2003/2003; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                concimi nazionali, ammendanti, correttivi e prodotti correlati immessi sul mercato di seguito definiti, descritti e classificati negli allegati 1, 2, 3, 4, 5, 6 e 13.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai sensi del presente decreto si intendono per «fertilizzanti» i prodotti e i materiali di seguito definiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «concimi»: prodotti la cui funzione principale e' fornire elementi nutritivi alle piante; i concimi si suddividono in «concimi CE» e «concimi nazionali» i cui tipi e caratteristiche sono riportati rispettivamente nel regolamento (CE) n. 2003/2003 e nell'allegato 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «elementi chimici della fertilita'», sono considerati: 
+ 1) «elementi nutritivi principali»: esclusivamente gli elementi azoto, fosforo e potassio; 
+ 2) «elementi nutritivi secondari»: gli elementi calcio, magnesio, sodio e zolfo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «microelementi»: gli elementi boro, cobalto, rame, ferro, manganese, molibdeno e zinco, essenziali alle piante in quantita' esigue in confronto a quelle degli elementi nutritivi principali e secondari; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «carbonio organico di origine biologica»: il carbonio organico costituente di prodotti di origine vegetale o animale o derivante direttamente da detti prodotti con esclusione di qualsiasi forma di carbonio organico di sintesi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «azoto organico»: l'azoto contenuto in composti chimici organici di origine vegetale oppure animale o derivante direttamente da detti prodotti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «concime minerale»: un concime nel quale gli elementi nutritivi dichiarati sono presenti sotto forma di composti minerali ottenuti mediante estrazione o processi fisici e chimici industriali, o processi fisici o chimici industriali; per convenzione possono essere classificati come concimi minerali la calciocianammide e l'urea e i suoi prodotti di condensazione e associazione, nonche' i concimi contenenti microelementi chelati o complessati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «microelemento chelato»: un microelemento legato ad una delle molecole organiche elencate nel regolamento (CE) n. 2003/2003 e nell'allegato 1; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «microelemento complessato»: un microelemento legato ad una delle molecole elencate nel regolamento (CE) n. 2003/2003 e nell'allegato 1; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «tipo di fertilizzante»: fertilizzanti che hanno la medesima denominazione tipologica, quale specificata nel regolamento (CE) n. 2003/2003 e negli allegati 1, 2, 3, 4, 5 e 6; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «concime semplice»: un concime azotato, fosfatico o potassico per il quale sia dichiarabile unicamente il titolo di uno degli elementi nutritivi principali; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «concime composto»: un concime per il quale sia dichiarabile il titolo di almeno due degli elementi nutritivi principali, ottenuto per via chimica o per miscelazione ovvero mediante una combinazione di questi due metodi; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «concime complesso»: un concime composto, ottenuto per reazione chimica, per soluzione od allo stato solido per granulazione, per il quale sia dichiarabile il titolo di almeno due degli elementi nutritivi principali; per i concimi di questo tipo allo stato solido ogni granello contiene tutti gli elementi nutritivi dichiarati; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «concime ottenuto da miscelazione»: un concime ottenuto miscelando a secco piu' concimi, senza che si producano reazioni chimiche; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «concime organico»: un concime derivato da materiali organici di origine animale o vegetale, costituito da composti organici ai quali gli elementi principali della fertilita' sono chimicamente legati in forma organica o comunque fanno parte integrante della matrice; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «concime organo-minerale»: un concime ottenuto per reazione o miscela di uno o piu' concimi organici o di una o piu' matrici organiche, all'uopo autorizzate nell'allegato 5, o di entrambi, con uno o piu' concimi minerali; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «matrice organica»: prodotto organico di origine naturale, merceologicamente identificabile con uno di quelli descritti fra i tipi dell'allegato 5 e destinato alla produzione di concimi organici ed organo-minerali; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «concime fogliare»: un concime adatto per l'applicazione e l'assunzione dell'elemento nutritivo all'apparato fogliare di una coltura; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «concime fluido»: un concime in sospensione o in soluzione; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                «concime in soluzione»: un concime fluido privo di particelle solide; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                «concime in sospensione»: un concime bifase nel quale le particelle solide sono mantenute in sospensione nella fase liquida; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                «ammendanti»: i materiali da aggiungere al suolo in situ, principalmente per conservarne o migliorarne le caratteristiche fisiche o chimiche o l'attivita' biologica, disgiuntamente o unitamente tra loro, i cui tipi e caratteristiche sono riportati nell'allegato 2; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                «correttivi»: i materiali da aggiungere al suolo in situ principalmente per modificare e migliorare proprieta' chimiche anomale del suolo dipendenti da reazione, salinita', tenore in sodio, i cui tipi e caratteristiche sono riportati nell'allegato 3; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                «substrati di coltivazione»: i materiali diversi dai suoli in situ, dove sono coltivati vegetali, i cui tipi e caratteristiche sono riportati nell'allegato 4; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                «prodotti ad azione specifica»: i prodotti che apportano ad un altro fertilizzante o al suolo o alla pianta, sostanze che favoriscono o regolano l'assorbimento degli elementi nutritivi o correggono determinate anomalie di tipo fisiologico, i cui tipi e caratteristiche sono riportati nell'allegato 6.
+
+2.
+                    
+                        
+                            Inoltre, ai sensi del presente decreto, si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «dichiarazione per i prodotti di cui all'articolo 1, comma 1, lettera a)»: precisazione della concentrazione di elementi nutritivi, incluse le forme e la solubilita', garantita entro tolleranze specificate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «dichiarazione per i prodotti di cui all'articolo 1, comma 1, lettera b)»: la precisazione della concentrazione dei parametri quantitativi garantita entro tolleranze specificate e dei parametri o caratteristiche qualitativi altrimenti garantiti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «fertilizzanti per l'agricoltura biologica»: i fertilizzanti per i quali e' consentito l'uso, secondo il metodo di produzione biologico di cui ai regolamenti (CE) n. 834/2007 e n. 889/2008, e successive modificazioni, individuati e definiti nell'allegato 13; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «titolo dichiarato per i prodotti di cui all'articolo 1, comma 1, lettera a)»: titolo di un elemento o di un suo ossido che a norma della legislazione comunitaria e' indicato su un'etichetta o su un documento di accompagnamento di un concime CE; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «titolo dichiarato per i prodotti di cui all'articolo 1, comma 1, lettera b)»: la percentuale di peso della caratteristica o delle caratteristiche del prodotto cosi' come viene commercializzato, salvo casi espressamente indicati negli allegati; per i prodotti fluidi e' ammessa in aggiunta alla dichiarazione del titolo in peso-peso, anche la dichiarazione del titolo in peso-volume a 20 °C; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «tolleranza»: la deviazione consentita del valore misurato del titolo dal suo valore dichiarato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «norme europee»: norme CEN (Comitato europeo di normalizzazione) ufficialmente riconosciute dalla Comunita', i cui numeri di riferimento sono pubblicati nella Gazzetta Ufficiale della Comunita' europea; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «imballaggio»: l'involucro chiudibile ermeticamente, utilizzato per contenere, proteggere, maneggiare e fornire fertilizzanti con una capacita' non superiore ai 1000 kg; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «sfuso»: un fertilizzante non imballato; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «immissione sul mercato»: la fornitura di fertilizzante a titolo oneroso o gratuita, o immagazzinamento finalizzato alla fornitura.
+L'importazione di un fertilizzante nel territorio doganale della Comunita' europea e' considerata immissione sul mercato; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «fabbricante»: la persona fisica o giuridica responsabile dell'immissione del fertilizzante sul mercato; in particolare, e' considerato fabbricante il produttore, l'importatore, il confezionatore che lavora per conto proprio, o ogni persona che modifichi le caratteristiche di un fertilizzante; tuttavia, non e' considerato fabbricante un distributore che non modifichi le caratteristiche del fertilizzante.
 
 ## Art. 3. — Limiti di tolleranza
 
@@ -90,6 +364,108 @@ L'istituzione, la gestione e la conservazione dei Registri di cui al comma 1, so
 
 ## Art. 9. — Commissione
 
+1.
+                    
+                        
+                            E' istituita una Commissione tecnico-consultiva presso il Ministero delle politiche agricole alimentari e forestali con il compito di esprimere il proprio parere su questioni di particolare rilevanza a livello comunitario e nazionale attinenti al settore dei fertilizzanti, nonche' sulle modifiche da apportare agli allegati al presente decreto composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                quattro rappresentanti del Ministero delle politiche agricole alimentari e forestali, di cui uno con funzioni di presidente e due appartenenti al Dipartimento dell'ispettorato centrale della tutela della qualita' e repressione frodi dei prodotti agro-alimentari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante della Presidenza del Consiglio dei Ministri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                due rappresentanti del Ministero dello sviluppo economico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Ministero della salute; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante del Ministero dell'economia e delle finanze (Agenzia delle dogane); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante del Ministero dell'ambiente e della tutela del territorio e del mare; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante dell'Istituto superiore di sanita'; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante dell'Istituto superiore per la protezione e la ricerca ambientale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                tre rappresentanti delle organizzazioni di produttori di fertilizzanti, designati dalle Associazioni nazionali di categoria piu' rappresentative; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                tre rappresentanti dei produttori agricoli, designati dalle Associazioni di categoria piu' rappresentative; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                un rappresentante dei commercianti, designato dall'Associazione nazionale di categoria piu' rappresentativa; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                un rappresentante degli importatori di fertilizzanti, designato dall'Associazione nazionale di categoria piu' rappresentativa; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                un rappresentante regionale designato dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                cinque esperti in materia di fertilizzanti, cosi' suddivisi: quattro docenti universitari ed uno in rappresentanza del Consiglio per la ricerca e la sperimentazione in agricoltura - Centro di ricerca per lo studio delle relazioni tra pianta e suolo, scelti dal Ministero delle politiche agricole alimentari e forestali.
+
 I componenti della Commissione, ad eccezione di quelli di cui al comma 1, lettera p), in caso di impedimento possono delegare formalmente loro sostituti, di volta in volta.
 
 La Commissione, nello svolgimento delle attivita' di competenza, puo' avvalersi dei dipartimenti universitari o degli istituti di ricerca dei membri esperti ed in caso di necessita' di strutture esterne.
@@ -114,6 +490,70 @@ All'accertamento delle violazioni si applicano le disposizioni di cui alla legge
 ## Art. 12. — Sanzioni
 
 Salvo che il fatto costituisca reato, chiunque produce o immette sul mercato fertilizzanti non compresi nel regolamento (CE) n. 2003/2003, nel presente decreto e nei suoi allegati e nella legislazione vigente nel Paese dell'Unione europea di produzione, e' punito con la sanzione amministrativa pecuniaria da seimila euro a trentamila euro.
+
+2.
+                    
+                        
+                            Salvo che il fatto costituisca reato, chiunque produce o immette sul mercato fertilizzanti non conformi al regolamento (CE) n. 2003/2003 ed al presente decreto ed ai suoi allegati e' punito con le sanzioni amministrative pecuniarie per ciascuna delle violazioni di seguito riportate: 
+ 
+                        
+                        
+                            a)
+                            
+                                da duemilacinquecento euro a seimila euro per i concimi CE, per i concimi minerali nazionali, per i concimi organo-minerali e per gli altri tipi di fertilizzanti nazionali, quando la composizione non corrisponde alle indicazioni obbligatorie ovvero facoltative previste dal presente decreto e dai suoi allegati ovvero alle altre indicazioni facoltative non previste; nel caso in cui venga calcolato il grado di irregolarita' espresso come \varepsilon secondo i criteri riportati nell'allegato 12, per i fertilizzanti per i quali questo e' applicabile, fermo restando che i criteri riportati nel citato allegato, al punto 4, lettera c), si applicano al singolo campione, la sanzione amministrativa pecuniaria viene irrogata secondo gli importi di seguito riportati: 
+ 1) valore di \varepsilon fino a - 4 (incluso): da duemilacinquecento euro a seimila euro; 
+ 2) valore di \varepsilon compreso tra - 4 e - 8 (incluso): da cinquemila euro a ventunomila euro; 
+ 3) valore di \varepsilon compreso tra - 8 e - 12 (incluso): da seimilacinquecento euro a trentamila euro; 
+ 4) valore di \varepsilon inferiore a - 12: da sedicimila euro a settantottomila euro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da duemilacinquecento euro a seimila euro, se le indicazioni obbligatorie da riportare in etichetta ovvero sui documenti previste dal presente decreto e dai suoi allegati, in tutto o in parte, mancano o non sono conformi a quanto prescritto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da ottomila euro a ventunomila euro, se risulta che le tolleranze di cui all'allegato 7 sono state sistematicamente messe a profitto; in particolare, per il controllo dello sfruttamento delle tolleranze da parte di un fabbricante per i concimi minerali semplici e composti, sia CE che nazionali e per i concimi organo-minerali, si applicano i criteri di calcolo previsti dal citato allegato 12; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                da cinquemila euro a dodicimila euro, ivi comprese le spese di messa in sicurezza della partita di fertilizzante da addebitare al fabbricante, se sono immessi sul mercato concimi CE e nazionali a base di nitrato di ammonio ad elevato titolo di azoto in violazione delle disposizioni di cui all'articolo 7 e all'allegato 9. Se si rinviene una partita di fertilizzante sprovvista del certificato relativo alla prova di detonabilita' il fabbricante e' perseguibile penalmente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                da cinquemila euro a diecimila euro, se non ha ottemperato all'obbligo di cui all'articolo 8, comma 1; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                da seimila euro a dodicimila euro, se non ha ottemperato all'obbligo di cui all'articolo 8, comma 2; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                da duemila euro a seimila euro nell'ipotesi di irregolarita' delle registrazioni di cui all'articolo 8, comma 2; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                da seimila euro a dodicimila euro se non esibisce la documentazione di cui all'articolo 8, comma 2, richiesta dell'organo di controllo o non la conserva per almeno due anni.
 
 Le sanzioni amministrative previste dal comma 2, non si applicano al commerciante che detiene, pone in vendita o comunque distribuisce per il consumo, fertilizzanti in confezioni originali, se la non osservanza delle norme del presente decreto e dei suoi allegati riguardi i requisiti intrinseci o la composizione dei prodotti, purche' la confezione originale non presenti alterazione ovvero il commerciante non sia a conoscenza dell'avvenuta alterazione o manomissione del fertilizzante.
 

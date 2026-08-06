@@ -8,8 +8,8 @@ codice_redazionale: 001G0235
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -108,6 +108,24 @@ Il maestro vice direttore svolge infine le altre funzioni indicate dall'articolo
 Gli orchestrali della banda musicale, in quanto congiuntamente partecipi, ognuno in relazione alla propria parte, del raggiungimento di un unitario risultato artistico, devono offrire al maestro direttore ed al maestro vice direttore la massima collaborazione per il miglior rendimento del complesso musicale.
 
 In particolare, gli orchestrali hanno l'obbligo di esercitarsi individualmente al fine di mantenere inalterate le proprie capacita' tecnico professionali in relazione allo strumento suonato.
+
+3.
+                        
+                            
+                                Quando sussistono situazioni di necessita', in relazione a quanto stabilito dall'articolo 36, comma primo, del decreto del Presidente della Repubblica 28 ottobre 1985, n. 782, gli orchestrali:
+ 
+                            
+                            
+                                a)
+                                
+                                    possono essere, per esigenze artistiche, incaricati dal maestro direttore di funzioni musicali proprie di altra parte o qualifica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possono essere impiegati in particolari cerimonie o servizi su designazione del maestro direttore, come trombettieri, mazzieri ed in formazione di drappello di tamburi.
 
 ## Art. 9. — Attivita' esterna
 

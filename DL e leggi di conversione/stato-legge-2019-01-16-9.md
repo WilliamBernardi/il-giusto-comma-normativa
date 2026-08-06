@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL e leggi di conversione
 vigenza_date: 2019-06-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:46:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE
@@ -29,6 +29,24 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
                 Promulga la seguente legge:
 
 ## Art. 1. — Autorizzazione alla ratifica
+
+1.
+                    
+                        
+                            Il Presidente della Repubblica e' autorizzato a ratificare i seguenti accordi: 
+ 
+                        
+                        
+                            a)
+                            
+                                Accordo bilaterale aggiuntivo tra la Repubblica italiana e la Repubblica di Macedonia alla Convenzione europea di estradizione del 13 dicembre 1957, inteso ad ampliarne e facilitarne l'applicazione, fatto a Skopje il 25 luglio 2016; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Accordo bilaterale aggiuntivo tra la Repubblica italiana e la Repubblica di Macedonia alla Convenzione europea di assistenza giudiziaria in materia penale del 20 aprile 1959 inteso a facilitarne l'applicazione, fatto a Skopje il 25 luglio 2016.
 
 ## Art. 2. — Ordine di esecuzione
 

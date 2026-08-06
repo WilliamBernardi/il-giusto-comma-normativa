@@ -8,8 +8,8 @@ codice_redazionale: 093G0099
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,6 +44,31 @@ Il presente regolamento ha decorrenza dal 1 gennaio 1991 e durata fino al 31 d
 Ferma restando l'autonomia delle parti l'Azienda e l'organizzazione sindacale firmataria dell'accordo recepito con il presente regolamento, consapevoli dell'importanza del ruolo delle relazioni per il consolidamento e lo sviluppo delle potenzialita' del settore, esprimono la comune volonta' di garantire l'efficienza e l'efficacia delle attivita' aziendali sotto l'aspetto economico- produttivo.
 A tal fine si dichiarano disponibili a perseguire anche le necessarie modifiche di ordine organizzativo capaci di garantire la migliore tutela dell'interesse pubblico attraverso l'offerta all'utenza di servizi quantitativamente e qualitativamente correlati alla domanda nel tempo e nello spazio in condizioni di economicita' e convengono di realizzare un sistema di relazioni e di informazioni coerente con tali esigenze.
 
+2.
+                    
+                        
+                            Di conseguenza, nel rispetto delle competenze proprie degli organi aziendali ed al fine di ricercare ogni possibile contributo per l'organizzazione e l'esercizio dei servizi istituzionali, strumentali e di supporto, l'Azienda assicura, una tempestiva ed aggiornata informazione all'organizzazione sindacale dei dirigenti in particolare sui provvedimenti che riguardano:
+ 
+                        
+                        
+                            a)
+                            
+                                la programmazione aziendale e i relativi piani di investimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'organizzazione della struttura aziendale e la sua articolazione sia centrale che periferica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le funzioni del personale dirigente in rapporto alle modificazioni strutturali e organizzative.
+
 A questo ultimo fine le parti convengono di dar luogo, con cadenza semestrale, ad appositi incontri per un'analisi della situazione.
 
 ## Art. 5. — Aggiornamento professionale
@@ -56,6 +81,24 @@ In questo contesto l'Azienda, attraverso la conferenza dei direttori, predisporr
 
 ## Art. 6. — Livelli dirigenziali
 
+1.
+                    
+                        
+                            In applicazione dell'art. 103 del regolamento del personale vengono definiti i seguenti livelli dirigenziali:
+ 
+                        
+                        
+                            a)
+                            
+                                direttore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dirigente.
+
 I direttori esercitano le funzioni di cui all'art. 105 del regolamento del personale e quella di vice direttore generale.
 
 I dirigenti esercitano le funzioni di cui all'art. 106 del regolamento del personale.
@@ -64,9 +107,61 @@ La proposta del direttore generale per il conferimento delle funzioni di cui ai 
 
 ## Art. 7. — Livelli retributivi
 
+1.
+                    
+                        
+                            I due livelli dirigenziali di cui al comma 1 dell'art. 6 sono articolati nei livelli retributivi di seguito indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                direttore - oltre i 5 anni di anzianita' nella qualifica di direttore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                direttore - prima nomina e fino a 5 anni di anzianita' nella qualifica di direttore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dirigente - oltre i 4 anni di anzianita' nella qualifica di dirigente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dirigente - prima nomina e fino a 4 anni di anzianita' nella qualifica di dirigente.
+
 ## Art. 8. — Inquadramento nei livelli retributivi
 
+1.
+                    
+                        
+                            La nomina a dirigente comporta l'attribuzione del livello retributivo di cui al punto 1. 
+                        
+                        
+                            a)
+                            
+                                dell'allegato A.
+
 L'attribuzione del livello retributivo di cui al punto 1. b) dell'allegato A avviene dopo quattro anni dalla nomina.
+
+3.
+                    
+                        
+                            La nomina a direttore avviene di norma a scelta tra i dirigenti in servizio e comporta l'attribuzione del livello retributivo di cui al punto 2. 
+                        
+                        
+                            a)
+                            
+                                dell'allegato A.
 
 L'attribuzione del livello retributivo di cui al punto 2. b) dell'allegato A avviene dopo cinque anni dalla nomina a direttore.
 
@@ -117,6 +212,52 @@ A compensazione ed in luogo delle festivita' civili e religiose soppresse dalla 
 Le assenze del personale dirigente chiamato a ricoprire cariche pubbliche elettive sono regolate in base alle leggi vigenti.
 
 ## Art. 15. — Elementi della retribuzione
+
+1.
+                    
+                        
+                            Gli elementi che concorrono a formare la normale retribuzione complessiva annua del personale dirigente sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                stipendio tabellare mensile, costituito dagli importi riferiti a ciascun livello dirigenziale ed a ciascun livello retributivo riportati nell'allegato A;
+
+                            
+                        
+                        
+                            b)
+                            
+                                indennita' di adeguamento della retribuzione al costo della vita di cui all'art. 17;
+
+                            
+                        
+                        
+                            c)
+                            
+                                scatti di anzianita' di cui all'art. 18;
+
+                            
+                        
+                        
+                            d)
+                            
+                                superminimo di cui all'art. 20;
+
+                            
+                        
+                        
+                            e)
+                            
+                                indennita' professionale di cui all'art. 21;
+
+                            
+                        
+                        
+                            f)
+                            
+                                premio di produzione e produttivita' di cui all'art. 22.
 
 La retribuzione mensile base e' costituita dalle voci a), b), c), d) ed e), di cui al comma 1.
 
@@ -180,6 +321,31 @@ In funzione dei previsti incrementi di traffico ed anche in luogo ed in sostituz
 La prima quota semestrale corrisposta entro il mese di febbraio di ciascun anno e' riferita ai risultati di produttivita' conseguiti nel II semestre dell'anno precedente, mentre la quota semestrale corrisposta entro il mese di agosto e' riferita ai risultati di produttivita' conseguiti nel primo semestre dello stesso anno.
 
 In via di prima applicazione per l'anno 1991 viene corrisposto, entro il febbraio 1992, a titolo di premio per i due semestri del 1991, un importo pari ad una mensilita' della retribuzione base individuale spettante al 31 gennaio 1992.
+
+4.
+                    
+                        
+                            Per gli anni successivi e per il periodo di applicazione del presente regolamento l'ammontare complessivo del premio di produzione sara' pari a quanto complessivamente corrisposto a tale titolo nell'anno precedente maggiorato del venti per cento; l'erogazione sara' disposta secondo la procedura ed i criteri seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                per una quota pari al trenta per cento dell'intera disponibilita' in parti uguali a tutto il personale dirigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per una quota pari al venti per cento dell'intera disponibilita' con provvedimento motivato del direttore generale, in relazione alla valutazione di rendimento di ciascuna unita' dirigenziale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per una quota pari al restante cinquanta per cento dell'intera disponibilita' con provvedimento del consiglio di amministrazione in funzione dei risultati e/o delle economie di gestione realizzate da ciascuna unita' dirigenziale, individuati attraverso appositi parametri che saranno fissati sentita l'organizzazione sindacale dei dirigenti.
 
 In caso di mancata fissazione dei parametri e di carenza delle valutazioni di cui al comma 4, lettere b) e c), alla scadenza di novembre sara' comunque corrisposta una somma pari al cinquanta per cento della retribuzione mensile base individuale in godimento alla data del 31 luglio dell'anno considerato.
 
@@ -246,9 +412,99 @@ Le variazioni di funzioni del personale dirigente che non comportino trasferimen
 
 Il personale dirigente puo' essere destinato ad altra sede e/o a funzioni diverse, comunque proprie della qualifica posseduta, che comportino trasferimento ad altra sede di lavoro, sull'intero territorio nazionale.
 
+2.
+                    
+                        
+                            Il trasferimento del personale dirigente puo' essere disposto dal consiglio di amministrazione, sentito il parere di una apposita commissione paritetica, nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                per comprovate esigenze di servizio e per ragioni tecniche, organizzative e produttive;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a domanda dell'interessato, valutate le esigenze di servizio ed ove non ostino ragioni tecniche, organizzattive e produttive.
+
+3.
+                    
+                        
+                            La commissione paritetica, di cui al comma 2, sara' cosi' composta:
+ 
+                        
+                        
+                            a)
+                            
+                                in rappresentanza dell'Azienda:
+ il presidente del consiglio di amministrazione che la presiede o suo delegato;
+ due consiglieri di amministrazione designati dal consiglio stesso;
+ il direttore generale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in rappresentanza del personale dirigente:
+ quattro membri designati dall'organizzazione sindacale del personale dirigente.
+
+4.
+                    
+                        
+                            La commissione dovra' esprimere il proprio motivato parere osservando i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                esame dei requisiti professionali posseduti e curriculum di servizio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                anzianita' di servizio nella qualifica ed anzianita' complessiva;
+
+                            
+                        
+                        
+                            c)
+                            
+                                eta' e condizioni familiari.
+
 La commissione decide a maggioranza dei presenti; in caso di parita' di voti prevale il voto del presidente.
 
 Il trasferimento dovra' essere comunicato per iscritto all'interessato con un preavviso non inferiore a trenta giorni di calendario.
+
+7.
+                    
+                        
+                            All'unita' dirigenziale trasferita, anche a seguito di variazioni di qualifica, da una ad un'altra sede di servizio e ove il trasferimento obblighi l'interessato ad un cambiamento di residenza, sara' corrisposto:
+ 
+                        
+                        
+                            a)
+                            
+                                il rimborso di tutte le spese di viaggio e trasporto masserizie sostenute e documentate in relazione al materiale spostamento suo e del nucleo familiare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'eventuale maggiore spesa effettivamente sostenuta per un alloggio dello stesso tipo di quello occupato nella sede di origine, per un periodo da stabilirsi direttamente tra le parti e comunque non inferiore a 6 mesi e non superiore ai 10 mesi; nel caso di alloggio di proprieta' nella sede di origine l'eventuale differenza dei valori va calcolata tra l'ammontare della spesa per l'alloggio nella sede di destinazione e quello per l'alloggio nella sede di provenienza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un'indennita' una tantum, pari a quattro mensilita' dello stipendio minimo tabellare, e dell'indennita' di adeguamento al costo della vita se il dirigente ha carichi di famiglia, e pari a due mensilita' dello stipendio tabellare e dell'indennita' di adeguamento al costo della vita se il dirigente non ha carichi di famiglia.
 
 ## Art. 31. — Conflitti e controversie
 

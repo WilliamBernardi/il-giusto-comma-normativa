@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2011-07-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -86,6 +86,31 @@ I periodi di assenza di cui al comma 1, limitatamente ai primi 18 mesi, non inte
 
 Sono fatte salve le vigenti norme di legge poste a tutela dei malati di TBC. In caso di donazione di organi, ivi compresa la donazione di midollo osseo, ovvero in caso di patologie gravi che richiedono terapie salvavita ed altre assimilabili, come ad esempio l'emodialisi, la chemioterapia, il trattamento per l'infezione da HIV-AIDS nella fase a basso indice di disabilita' specifica, ai fini del presente articolo, sono esclusi dal computo dei giorni di assenza per malattia i relativi giorni di ricovero ospedaliero o di day-hospital ed i giorni di assenza dovuti alle citate terapie, debitamente certificati dalla competente azienda sanitaria locale o struttura convenzionata. In tali giornate il funzionario della carriera prefettizia ha diritto, in ogni caso, alla retribuzione di cui al comma 6, lettera a).
 
+6.
+                    
+                        
+                            Il trattamento economico spettante al funzionario della carriera prefettizia nel periodo di conservazione del posto di cui al comma 1, e' il seguente:
+ 
+                        
+                        
+                            a)
+                            
+                                retribuzione costituita dalla componente stipendiale di base e da quella correlata alla posizione funzionale per i primi 9 mesi di assenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                90 per cento della retribuzione di cui alla lettera a) per i successivi 3 mesi di assenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                50 per cento della retribuzione di cui alla lettera a) per gli ulteriori 6 mesi di assenza.
+
 Nel caso in cui l'infermita' derivante da infortunio non dipendente da causa di servizio sia ascrivibile a responsabilita' di terzi, il funzionario della carriera prefettizia e' tenuto a dare comunicazione di tale circostanza all'Amministrazione, ai fini della rivalsa da parte di quest'ultima verso il terzo responsabile per la parte corrispondente alle retribuzioni erogate durante il periodo di assenza ai sensi del precedente comma 5 ed agli oneri riflessi relativi.
 
 In caso di assenza per invalidita' temporanea dovuta ad infortunio sul lavoro, il funzionario della carriera prefettizia ha diritto alla conservazione del posto fino alla completa guarigione clinica. Per l'intero periodo al funzionario della carriera prefettizia spetta la retribuzione costituita dalla componente stipendiale di base e da quella correlata alla posizione funzionale ricoperta.
@@ -135,6 +160,35 @@ Le eventuali festivita' cadenti nel periodo di assenza sono computate ai fini de
 Al funzionario della carriera prefettizia, dopo il rientro al lavoro a seguito della fruizione dei congedi parentali, si applica quanto previsto dall'articolo 17 della legge 8 marzo 2000, n. 53.
 
 ## Art. 8. — Permessi per esigenze personali
+
+1.
+                    
+                        
+                            Il funzionario della carriera prefettizia ha diritto di assentarsi nei seguenti casi:
+
+                        
+                        
+                            a)
+                            
+                                partecipazione a concorsi od esami, limitatamente ai giorni di svolgimento delle prove ed al tempo strettamente necessario per il raggiungimento delle relative sedi di svolgimento delle stesse ovvero, previa intesa con il responsabile della struttura di appartenenza, a congressi, convegni, seminari e corsi di aggiornamento professionale facoltativo entro il limite complessivo di giorni otto per ciascun anno;
+                            
+                        
+                        
+                            b)
+                            
+                                decesso o documentata grave infermita' del coniuge anche legalmente separato o del convivente stabile o di un parente entro il secondo grado, anche non convivente, o di un affine di primo grado o di un soggetto componente la famiglia anagrafica del funzionario, in ragione di tre giorni lavorativi all'anno, anche frazionati, per evento. Tali giorni devono essere utilizzati entro sette giorni dal decesso o dall'accertamento della insorgenza della grave infermita' o della necessita' di provvedere a conseguenti specifici interventi terapeutici. Nel caso di grave infermita' dei soggetti di cui alla lettera b) del presente articolo il funzionario della carriera prefettizia, entro sette giorni dall'evento predetto, puo' concordare con il responsabile della struttura, in alternativa ai giorni di permesso, diverse modalita' di espletamento della attivita' lavorativa, anche per periodi superiori a tre giorni;
+                            
+                        
+                        
+                            c)
+                            
+                                in occasione del matrimonio per quindici giorni consecutivi;
+                            
+                        
+                        
+                            d)
+                            
+                                documentati motivi personali entro il limite complessivo di tre giorni per ciascun anno.
 
 Le assenze sopraindicate possono cumularsi nell'anno solare, sono valutate agli effetti dell'anzianita' di servizio e non riducono il periodo di ferie disciplinato dall'articolo 4 del presente decreto.
 
@@ -250,11 +304,147 @@ I dirigenti sindacali, nell'esercizio delle loro funzioni, non sono soggetti ai 
 
 Gli accordi decentrati sono stipulati, ai sensi dell'articolo 29, comma 6, del decreto legislativo 19 maggio 2000, n. 139, a livello centrale e periferico.
 
+2.
+                    
+                        
+                            L'accordo decentrato, da stipularsi a livello centrale, senza comportare alcun onere aggiuntivo, riguarda:
+ 
+                        
+                        
+                            a)
+                            
+                                individuazione di misure idonee a favorire la mobilita' di sede aggiuntive rispetto a quelle previste per i funzionari non assegnatari di alloggi da parte dell'amministrazione dell'interno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuazione dei criteri applicativi della reperibilita' nel rispetto dei seguenti principi:
+ individuazione degli uffici nei quali deve essere assicurata la reperibilita';
+ salvo che nelle situazioni di emergenza, la reperibilita' dovra' essere assicurata in modo che in ogni sede di servizio sia presente un funzionario prefettizio nell'arco della stessa giornata; entro un anno dalla data di entrata in vigore del presente decreto, i responsabili delle strutture provvederanno, anche avvalendosi dei funzionari piu' esperti nella gestione delle emergenze, all'addestramento di tutto il personale della carriera prefettizia, in modo da assicurare che la reperibilita' venga espletata mediante la rotazione di tutti i funzionari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                criteri generali per la verifica della sussistenza delle risorse finanziarie da destinare all'ulteriore potenziamento del fondo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individuazione delle funzioni i cui titolari sono esonerati dallo sciopero, ai sensi della legge n. 146/1990 e successive modificazioni ed integrazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                applicazione delle previsioni di cui all'articolo 21, comma 5;
+                            
+                        
+                        
+                            f)
+                            
+                                applicazione delle previsioni di cui all'articolo 22, comma 3;
+                            
+                        
+                        
+                            g)
+                            
+                                fermo restando l'articolo 29, comma 6, del decreto legislativo
+19 maggio 2000, n. 139, l'eventuale individuazione dei criteri per la definizione delle modalita' di espressione del dato elettorale e delle relative forme di rappresentanza.
+
+3.
+                    
+                        
+                            Accordi decentrati, da stipularsi a livello di uffici centrali e periferici, senza comportare alcun onere aggiuntivo, riguardano:
+ 
+                        
+                        
+                            a)
+                            
+                                verifica dell'applicazione dei criteri di valutazione ai fini dell'attribuzione della retribuzione di risultato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuazione delle modalita' applicative della reperibilita' nel rispetto dei criteri definiti ai sensi del comma 2, lettera b).
+
 L'individuazione dei titolari degli uffici centrali e periferici componenti la delegazione di parte pubblica sara' effettuata dall'amministrazione dell'interno entro novanta giorni dall'entrata in vigore del presente decreto.
 
 ## Art. 15. — Copertura assicurativa
 
+1.
+                    
+                        
+                            Ai fini della copertura assicurativa, di cui all'articolo 22, comma 3, del decreto legislativo 19 maggio 2000, n. 139, sono individuati i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                totale copertura a garanzia della responsabilita' civile (Seguivano alcune parole non ammesse al "Visto" della Corte dei conti), inerenti le attivita' connesse a compiti istituzionali, derivante ai funzionari della carriera prefettizia per le perdite patrimoniali e/o danni involontariamente cagionati a terzi (Seguivano alcune parole non ammesse al "Visto" della Corte dei conti);
+
+                            
+                        
+                        
+                            b)
+                            
+                                estensione della copertura anche alle ulteriori attivita' che possono essere svolte dai predetti funzionari connesse ad incarichi direttamente o indirettamente riferibili a compiti e doveri d'ufficio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copertura degli oneri di patrocinio legale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                retroattivita' e ultrattivita' della copertura assicurativa;
+
+                            
+                        
+                        
+                            e)
+                            
+                                previsione della possibilita' per il dirigente di aumentare i massimali e "area dei rischi" coperta con il versamento di una quota individuale aggiuntiva.
+
 ## Art. 16. — Struttura del trattamento economico
+
+1.
+                    
+                        
+                            Il trattamento economico dei funzionari appartenenti alla carriera prefettizia e' onnicomprensivo ed e' articolato nelle seguenti componenti:
+ 
+                        
+                        
+                            a)
+                            
+                                componente stipendiale di base, che comprende lo stipendio tabellare, l'indennita' integrativa speciale e la retribuzione individuale di anzianita', ove acquisita e spettante;
+
+                            
+                        
+                        
+                            b)
+                            
+                                retribuzione di posizione, correlata alle posizioni funzionali ricoperte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                retribuzione di risultato, correlata ai risultati conseguiti rispetto agli obiettivi assegnati.
 
 ## Art. 17. — Stipendio tabellare
 
@@ -306,6 +496,65 @@ A decorrere dall'esercizio successivo alla cessazione del rapporto di lavoro res
 
 ## Art. 20. — Fondo per la retribuzione di posizione e la retribuzione di risultato
 
+1.
+                    
+                        
+                            A decorrere dall'anno 2001 e' istituito il fondo per la retribuzione di posizione e la retribuzione di risultato, al cui finanziamento si provvede mediante utilizzo delle seguenti risorse finanziarie: 
+
+                        
+                        
+                            a)
+                            
+                                risorse relative alla erogazione dei compensi per lavoro straordinario nell'ammontare utilizzato nell'anno 2000 ad esclusione di quelle derivanti dall'assegnazione per consultazioni elettorali, referendarie ed eventi calamitosi; 
+                            
+                        
+                        
+                            b)
+                            
+                                risparmi di gestione riferiti alla spesa del personale della carriera prefettizia, escluse le quote che disposizioni di legge riservano a risparmio del fabbisogno complessivo; 
+                            
+                        
+                        
+                            c)
+                            
+                                somme derivanti dall'attuazione dell'articolo 43 della legge 27 dicembre 1997, n. 449; 
+                            
+                        
+                        
+                            d)
+                            
+                                somme derivanti da disposizioni di leggi, regolamenti o atti amministrativi, che comportano incrementi retributivi per il personale della carriera prefettizia ad esclusione della speciale indennita' prevista dall'articolo 5, comma 3, della legge 1o aprile 1981, n. 121, e dell'indennita' di cui all'articolo 43, comma 20, della stessa legge; 
+                            
+                        
+                        
+                            e)
+                            
+                                a decorrere dal 1o luglio 2001 quota parte delle somme assegnate in occasione delle consultazioni elettorali per fronteggiare le maggiori attivita' rese dal personale della carriera prefettizia;  tale quota va determinata in occasione di ogni consultazione con decreto del Ministro del tesoro, del bilancio e della programmazione economica su proposta del Ministro dell'interno; 
+                            
+                        
+                        
+                            f)
+                            
+                                a decorrere dal 1o luglio 2001 quota parte delle somme assegnate a seguito di eventi calamitosi e situazioni di emergenza per fronteggiare le maggiori attivita' rese dal personale della carriera prefettizia; tale quota dovra' essere determinata in sede di ordinanza adottata dalla competente autorita'; 
+                            
+                        
+                        
+                            g)
+                            
+                                retribuzione individuale di anzianita' del personale della carriera prefettizia cessato dal servizio con le modalita' indicate nell'articolo 19; 
+                            
+                        
+                        
+                            h)
+                            
+                                i compensi derivanti dall'espletamento di tutte le funzioni riconducibili ai compiti e ai doveri d'ufficio, attribuite al personale della carriera prefettizia in relazione alla qualifica di appartenenza, a decorrere dalla data di entrata in vigore del presente decreto; 
+                            
+                        
+                        
+                            i)
+                            
+                                un importo pari a L. 761.000 lorde mensili pro-capite per tredici mensilita', alla cui copertura si provvede con l'utilizzo delle risorse previste per la categoria dall'articolo 50 della legge 23 dicembre 2000, n. 388.
+
 Le risorse di cui alla lettera i) del comma 1 sono determinate con riferimento al personale della carriera prefettizia in servizio alla data del 31 dicembre 1999.
 
 Dal 1° gennaio al 30 giugno 2001 sono confermati gli importi di retribuzione accessoria corrisposti anteriormente all'entrata in vigore del presente decreto. In tale periodo i compensi per lavoro straordinario di cui al comma 1, lettera a), possono essere corrisposti nel limite complessivo del 50 per cento della spesa agli stessi scopi destinata nell'anno 2000. Dal 1o luglio 2001 sono poste a carico del fondo le somme relative alla corresponsione delle pregresse componenti di salario accessorio spettanti durante il semestre precedente, inclusi anche i compensi per lavoro straordinario di cui al comma 1, lettera a).
@@ -343,6 +592,59 @@ Le risorse del fondo di cui al comma 1 eventualmente non utilizzate alla fine de
 
 ## Art. 21. — Retribuzione di posizione
 
+1.
+                    
+                        
+                            La retribuzione di posizione, correlata alle posizioni funzionali che sono state individuate nell'articolo 1 del decreto del Ministro dell'interno 17 marzo 2001, e' determinata nei seguenti valori annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera a): L. 50.616.000;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera b): L. 43.694.000;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera c): L. 35.754.000;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera d): L. 32.800.000;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera e): L. 26.000.000;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera f): L. 18.386.000;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera g): L. 15.508.000.
+
 Per il periodo 1o gennaio-30 giugno 2001 gli importi di cui al comma 1 sono comprensivi delle somme percepite a titolo di salario accessorio, inclusi anche i compensi per lavoro straordinario indicati all'articolo 20, comma 1, lettera a). Gli importi stabiliti dal comma 1 sono erogati a decorrere dal 1o luglio 2001.
 
 A decorrere dal 1o luglio 2001, l'indennita' di cui all'articolo 43, comma 20, della legge 1o aprile 1981, n. 121, continua ad essere corrisposta ai prefetti nelle misure vigenti alla data del 30 giugno 2001.
@@ -354,6 +656,62 @@ In caso di modifica del decreto del Ministro dell'interno di cui al comma 1, le 
 ## Art. 22. — Retribuzione di risultato
 
 ((
+
+1.
+                    
+                        
+                            Il Ministro dell'interno, con proprio decreto, all'inizio di ogni anno determina gli importi spettanti come retribuzione di risultato, da erogare mensilmente per tredici mensilita', tenendo conto delle risorse disponibili e degli obiettivi raggiunti nell'anno precedente, nel rispetto dei seguenti parametri in relazione alle diverse posizioni funzionali indicate, per l'anno 2002, nell'articolo 1 del decreto del Ministro dell'interno 17 marzo 2001 e, per l'anno 2003, nell'articolo 3 del decreto del Ministro dell'interno 14 maggio 2003:
+ anno 2002:
+
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera a): 100;
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera b): 86,11;
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera c): 69,85;
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera d): 69,04;
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera e): 59,76;
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera f): 41,11;
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera g): 30,65;
+ anno 2003:
+a) posizione funzionale di cui all'articolo 3, lettera A): 100;
+b) posizione funzionale di cui all'articolo 3, lettera B): 86,10;
+c) posizione funzionale di cui all'articolo 3, lettera C): 69,20;
+d) posizione funzionale di cui all'articolo 3, lettera D): 68,68;
+e) posizione funzionale di cui all'articolo 3, lettera E): 59,28;
+f) posizione funzionale di cui all'articolo 3, lettera F): 44,34;
+g) posizione funzionale di cui all'articolo 3, lettera G): 30,52.
 
 ))
 
@@ -393,9 +751,95 @@ Attestato di conoscenza della lingua
  attestato C .... L. 272.000
  attestato D .... L. 245.000
 
+2.
+                    
+                        
+                            A decorrere dal 1o gennaio 2001, l'indennita' speciale di seconda lingua, corrisposta al personale di cui all'articolo 1, in servizio presso uffici o enti ubicati nella regione autonoma a statuto speciale Valle d'Aosta, ai sensi dell'articolo 3 del decreto del Presidente del Consiglio dei Ministri 30 maggio 1988, n. 287, incrementata dall'articolo 1 del decreto del Ministro del tesoro 22 dicembre 1992, e' rideterminata nelle seguenti misure mensili lorde:
+
+ 
+                        
+                        
+                            a)
+                            
+                                prima fascia .... L. 408.000
+
+                            
+                        
+                        
+                            b)
+                            
+                                seconda fascia ....L. 340.000
+
+                            
+                        
+                        
+                            c)
+                            
+                                terza fascia .... L. 272.000
+
+                            
+                        
+                        
+                            d)
+                            
+                                quarta fascia .... L. 245.000
+
 L'onere derivante dall'applicazione dei commi 1 e 2 e' posto a carico del fondo di cui all'articolo 20, comma 4.
 
 ## Art. 26. — Disapplicazioni
+
+1.
+                    
+                        
+                            A decorrere dalla data di entrata in vigore del presente decreto, non si applicano nei confronti dei funzionari appartenenti alla carriera prefettizia le disposizionidi leggi e regolamenti che comunque siano in contrasto con quelle contenute nel decreto medesimo. In particolare, non si applicano le norme seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                con riferimento all'articolo 3 (Tempo di lavoro): articolo 14 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3, e articolo 30 della legge 29 marzo 1983, n. 93;
+
+                            
+                        
+                        
+                            b)
+                            
+                                con riferimento all'articolo 4 (Congedo ordinario): articoli 36, 39 e 40 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3; articolo 18 del decreto del Presidente della Repubblica del 3 maggio 1957, n. 686, e articolo 15 della legge 11 luglio 1980, n. 312;
+
+                            
+                        
+                        
+                            c)
+                            
+                                con riferimento all'articolo 5 (Assenze per malattia e motivi di salute): articoli 37, 40, 68, commi da 1 a 8, 70 e 71 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3; articoli 19, 30, 31, 32, 33, 34 e 47 del decreto del Presidente della Repubblica del 3 maggio 1957, n. 686;
+
+                            
+                        
+                        
+                            d)
+                            
+                                con riferimento all'articolo 6 (Aspettativa per motivi personali e di famiglia): articoli 69 e 70 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3;
+
+                            
+                        
+                        
+                            e)
+                            
+                                con riferimento all'articolo 7 (Congedi parentali): articolo 41 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3;
+
+                            
+                        
+                        
+                            f)
+                            
+                                con riferimento all'articolo 8 (Permessi per esigenze personali): articoli 37, 39 e 40 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3; articolo 3, commi da 37 a 41, della legge 24 dicembre 1993, n. 537; articolo 22, commi 22, 23, 24 e 26 della legge 23 dicembre 1994, n. 724;
+
+                            
+                        
+                        
+                            g)
+                            
+                                con riferimento al trattamento economico: legge 11 luglio 1980, n. 312; legge 17 aprile 1984, n. 79; legge 8 marzo 1985, n. 72; articolo 3 della legge 28 marzo 1997, n. 85; articolo 22 della legge 7 agosto 1990, n. 232; articolo 17 del decreto del Presidente della Repubblica 24 aprile 1982, n. 340; decreto del Presidente della Repubblica 16 marzo 1999, n. 254; legge 20 novembre 1982, n. 869; legge 10 ottobre 1986, n. 668; articolo 2, comma 14, della legge 20 marzo 1984, n. 34; legge 2 ottobre 1997, n. 334; articolo 24 della legge 23 dicembre 1998, n. 448.
 
 ## Art. 27. — Copertura finanziaria
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2005-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -536,6 +536,38 @@ Entrata in vigore del decreto legislativo: 17/05/1995
 
 Le disposizioni relative alla struttura del bilancio di previsione contenute nel capo secondo si applicano a partire dall'esercizio finanziario 1996.
 
+2.
+                        
+                            
+                                Le disposizioni di cui all'articolo 71 si applicano, fatta salva la facolta' di anticipazione, con la seguente gradualita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    anno 1996 per i comuni con popolazione da 100.000 abitanti in poi, con esclusione dei comuni capoluogo di provincia compresi nelle aree metropolitane previste dall'articolo 17 della legge 8 giugno 1990, n. 142; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anno 1997 comuni con popolazione da 40.000 a 99.999 abitanti e comuni capoluogo di provincia esclusi a norma della lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    anno 1998 comuni con popolazione da 5.000 a 39.999 abitanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    anno 1999 comuni con popolazione inferiore a 5.000 abitanti; (2)(18a)(19) ((20))
+
 Ai fini di cui al comma 2 per le citta' metropolitane vale l'anno fissato per i comuni di pari dimensione demografica. per le provincie vale l'anno fissato per il comune capoluogo, per le unioni di comuni vale l'anno fissato per il comune di maggiore dimensione partecipante all'unione e per le comunita' montane vale l'anno fissato per il comune totalmente montano di maggiore dimensione facente parte della comunita'.
 
 In deroga all'art. 31, per il primo anno di applicazione dei nuovi modelli e schemi di bilancio, di cui all'art. 114, l'avanzo di amministrazione deve essere prioritariamente utilizzato per la reiscrizione dei residui passivi perenti.
@@ -588,6 +620,36 @@ patrimoniali, e' prorogato al 31 maggio 1996."
 ## Art. 117. — (Gradualita' di ammortamento dei beni)
 
 ((
+
+1.
+                        
+                            
+                                L'applicazione delle prescrizioni di cui all'articolo 9 
+ decorre dall'anno 2000. A tal fine gli enti locali iscrivono nell'apposito intervento di ciascun servizio l'importo dell'ammortamento accantonato per i beni relativi con la seguente gradualita' del valore calcolato con i criteri di cui all'articolo 71: 
+                            
+                            
+                                a)
+                                
+                                    per il 2000 il 6 per cento del valore;
+                                
+                            
+                            
+                                b)
+                                
+                                    per il 2001 il 12 per cento del valore;
+                                
+                            
+                            
+                                c)
+                                
+                                    per il 2002 il 18 per cento del valore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per il 2003 il 24 per cento del valore.
 
 ))
 
@@ -655,6 +717,163 @@ Ove nel decreto del Presidente della Repubblica di cui al comma 1 si faccia rife
 
 ((
 
+3.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 24 agosto 1993, n. 378, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 dell'art. 2 e' abrogato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'art. 4 sono apportate le seguenti modifiche: 
+ 1) il comma 1 e' sostituito dal seguente: 
+ " 1. Valgono per i commissari straordinari liquidatori le disposizioni in materia di incompatibilita' stabilite dall'art. 102 del decreto legislativo 25 febbraio 1995, n. 77, per i revisori dei conti degli enti locali."; 
+ 2) il comma 2 e' sostituito dal seguente: 
+ " 2. Il commissario straordinario liquidatore, per i comuni fino a 5.000 abitanti, o i componenti della commissione straordinaria di liquidazione, per i comuni con popolazione superiore a 5.000 abitanti e per le province, sono nominati fra funzionari dotati di una idonea esperienza nel campo finanziario e contabile in servizio o in quiescenza degli uffici centrali e periferici del Ministero dell'interno, del Ministero del tesoro e del Ministero delle finanze, fra i segretari ed i ragionieri comunali e provinciali particolarmente esperti, anche in quiescenza, fra gli iscritti nel registro dei revisori contabili, gli iscritti nell'albo dei dottori commercialisti e gli iscritti nell'albo dei ragionieri."; 
+ 3) il primo periodo del comma 7 e' sostituito dai seguenti: 
+ "Il compenso spettante al commissario ed ai componenti della commissione, a carico della gestione della liquidazione con prelazione nei confronti degli altri crediti, e' determinato in via generale con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, il quale tiene conto della situazione demografica dell'ente, del numero dei creditori e del valore dei debiti liquidati, garantendo comunque un compenso minimo. Al commissario ed ai componenti della commissione spettano inoltre i rimborsi di spesa previsti secondo le disposizioni vigenti dei dirigenti dello Stato."; 
+ 4) il comma 8 e' sostituito dai seguenti: 
+ " 8. Gli amministratori, il segretario ed i dipendenti dell'ente locale dissestato sono tenuti a prestare all'organo straordinario di liquidazione ed ai suoi componenti la massima collaborazione, consentendo l'accesso agli atti dell'ente locale, consegnando atti o copie secondo le richieste ed effettuando tutte le operazioni previste per legge o richieste ai fini della liquidazione. Delle omissioni gli amministratori, il segretario ed i dipendenti dell'ente locale assumono responsabilita' personale. 
+ 8-bis. Gli amministratori ed il segretario dell'ente locale dissestato sono tenuti a fornire all'organo straordinario di liquidazione locali, attrezzature e personale congrui rispetto alla dimensione dell'ente ed all'ammontare della liquidazione, nelle quantita' richieste dall'organo straordinario stesso. Quest'ultimo puo' retribuire eventuali prestazioni straordinarie effettivamente rese dal personale dell'ente locale sino ad un massimo di trenta ore mensili, facendo gravare l'onere sulla liquidazione. 
+ 8-ter. Nel caso in cui l'assegnazione di personale sia documentalmente impossibile o il personale assegnato non idoneo ad insindacabile giudizio dell'organo straordinario di liquidazione, quest'ultimo puo', anche ai fini del comma 12 dell'art. 6, incaricare professionisti o funzionari pubblici, in servizio o in quiescenza, ovvero assumere personale in possesso dei requisiti corrispondenti alle mansioni da svolgere con contratto di lavoro a tempo determinato, con onere a carico della liquidazione. Per i trattamenti economici si applica il regime giuridico di prelazione previsto per i compensi spettanti all'organo straordinario di liquidazione. 
+ 8-quater. Ai componenti dell'organo straordinario di liquidazione e' consentito, per l'espletamento della propria funzione, l'uso del mezzo proprio, a condizione che essi provvedano a stipulare la polizza assicurativa prevista dall'art. 16 del decreto del Presidente della Repubblica 17 gennaio 1990, n. 44, con onere a carico della liquidazione."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 1 dell'art. 5 la lettera c) e' soppressa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 1 dell'art. 5 le lettere n) e p) sono sostituite dalle seguenti: 
+ " n) predisposizione del piano di rilevazione della massa passiva e di un successivo piano di estinzione, includendo anche le passivita' accertate successivamente al piano di rilevazione dei debiti; 
+ p) liquidazione e pagamento dei residui debiti, fino alla concorrenza della massa attiva realizzata;"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 1 dell'art. 5 e' aggiunto il seguente: 
+ "1-bis. Non compete all'organo straordinario di liquidazione l'amministrazione dei residui attivi e passivi relativi ai fondi a gestione vincolata ed ai mutui passivi gia' attivati per investimenti, ivi compreso il pagamento delle relative spese."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo l'art. 5 e' inserito il seguente: 
+ "Art. 5-bis (Piano di rilevazione della massa passiva). - 1. Il piano di rilevazione della massa passiva si compone di due parti: la massa passiva, ivi compresi gli oneri di liquidazione, e i debiti esclusi, allegati al piano stesso. Si conclude con la proposta di riparto. 
+ 2. Fanno parte della massa passiva: 
+ a) le somme di cui alla lettera a) del comma 3 dell'art. 6 del presente decreto; 
+ b) i crediti dell'ente di cui al comma 7, ultimo periodo, dell'art. 6 del presente decreto; 
+ c) i debiti di cui alle lettere b), c), d), e), f), g) e h) di cui all'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77. 
+ 3. Le schede di rilevazione delle singole partite debitorie devono contenere almeno: 
+ a) le generalita' identificative del creditore; 
+ b) l'importo del debito distinto per capitale ed accessori; 
+ c) l'oggetto dell'obbligazione e l'epoca in cui e' sorta la stessa; 
+ d) il tipo e gli estremi del documento che comprova il credito. 
+ Per le passivita' derivanti da forniture di beni e servizi, l'attestazione reca anche una valutazione sulla congruita' della prestazione resa, ove cio' sia possibile sulla base degli elementi disponibili. 
+ 4. I medesimi elementi di cui al comma 3 devono essere richiesti per la presentazione delle domande di inserimento nel piano di rilevazione di cui all'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77."; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'art. 6 sono apportate le seguenti modifiche: 
+ 1) la rubrica e' sostituita dalla seguente: "Piano di estinzione"; 
+ 2) il comma 1 e' sostituito dal seguente: 
+ "1. Il piano di estinzione si compone di tre parti: la massa attiva, la massa passiva, ivi compresi gli oneri di liquidazione, e i debiti esclusi, allegati al piano stesso. Si conclude con la proposta di riparto."; 
+ 3) al comma 2 la lettera f) e' sostituita dalla seguente: " f) il ricavato della vendita di beni immobili, se ed in quanto necessaria, tenuto conto degli introiti di cui alle lettere g) e h);"; 
+ 4) al comma 2 la lettera g) e' sostituita dalla seguente: " g) il ricavato del mutuo a carico dello Stato;"; 
+ 5) al comma 3 sono abrogate le lettere c), d) ed e), e la lettera b) e' sostituita dalla seguente: " b) i debiti di cui alle lettere b), c), d), e), f), g) e h) dell'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77."; 
+ 6) al comma 5 la lettera e) e' sostituita dalla seguente: " e) i debiti fuori bilancio maturati entro il 12 giugno 1990, non riconosciuti dal consiglio dell'ente entro il 15 luglio 1991 o dall'organo straordinario di liquidazione;" e la lettera g) e' abrogata; 
+ 7) il comma 6 e' abrogato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'art. 9 sono apportate le seguenti modifiche: 
+ 1) la rubrica e' sostituita dalla seguente: "Procedure della formazione del piano di rilevazione della massa passiva"; 
+ 2) il comma 5 e' abrogato; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dopo l'art. 9 e' inserito il seguente: 
+ "Art. 9-bis (Adempimenti dell'ente locale relativi alla massa passiva). - 1. L'ente locale e' tenuto agli adempimenti previsti dall'art. 87, comma 4, del decreto legislativo 25 febbraio 1995, n. 77. 
+ 2. L'ente e' tenuto ad effettuare accurata revisione di tutti i residui dell'esercizio precedente a quello relativo all'ipotesi di bilancio, compresi quelli a destinazione vincolata, risultanti dal conto consuntivo o dal verbale di chiusura, nel caso non sia scaduto il termine per la redazione del conto. 
+ 3. L'ente dissestato e' altresi' tenuto a trasmettere all'organo di liquidazione, entro il predetto termine di 30 giorni dall'insediamento, l'elenco dei beni patrimoniali disponibili, con l'indicazione delle eventuali cause di inalienabilita' specificamente riferite ai singoli beni, al fine dell'eventuale alienazione da parte dell'organo straordinario di liquidazione."; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'art. 10 e' sostituito dal seguente: 
+ "Art. 10 (Contenuto e forma del piano di estinzione). - 1. Il piano di estinzione e' costituito dalle passivita' e dalle attivita' inserite nel piano di rilevazione e da quelle accertate successivamente all'esecutivita' del predetto piano, ed e' redatto con i medesimi criteri utilizzati per quest'ultimo, sia ai fini dell'ammissibilita' dei debiti, sia al fine della formazione della massa attiva. 
+ 2. Il piano di estinzione si conclude con la proposta di riparto della massa attiva disponibile fra i creditori, detratti gli oneri di liquidazione ed i debiti finanziati con entrate vincolate a norma di legge. Per la quota che residua dalla liquidazione totale dei creditori degli enti e' prevista la restituzione all'ente stesso per la sola parte rinveniente da componenti della massa attiva originariamente di proprieta' dell'ente locale, fatta esclusione del mutuo concesso in funzione dello stato di dissesto e comunque riducendo prioritariamente il mutuo stesso di un importo pari alla quota residua. In caso di massa attiva insufficiente e' previsto il riparto proporzionale alla massa passiva. 
+ 3. Al piano di estinzione sono allegati i provvedimenti di diniego, e relativa documentazione, eventualmente adottati nei confronti di richieste pervenute successiva mente al piano di rilevazione, e ritenute non inseribili nella massa passiva, in quanto non rientranti nelle fattispecie di cui al comma 3 dell'art. 6 del presente decreto."; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'art. 11 sono apportate le seguenti modifiche: 
+ 1) la rubrica e' sostituita dalla seguente: "Gestione della liquidazione delle passivita' contenute nel piano di rilevazione e formazione del piano di estinzione"; 
+ 2) il comma 2 e' sostituito dal seguente: 
+ " 2. L'organo straordinario di liquidazione, in esecuzione del piano, attua con sollecitudine tutti i provvedimenti necessari all'acquisizione delle entrate e quelli per il pagamento della massa passiva ammessa alla liquidazione, ed in primo luogo assume il mutuo con la Cassa depositi e prestiti per l'importo indicato nel piano."; 
+ 3) Il comma 4 e' sostituito dal seguente: 
+ " 4. L'organo straordinario della liquidazione provvede al pagamento dei residui passivi non vincolati e dei debiti fuori bilancio. Per i debiti di cui alla lettera c) dell'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77, acquisisce preventivamente il provvedimento di estinzione della procedura esecutiva."; 
+ 4) dopo il comma 7 sono aggiunti i seguenti: 
+ "7-bis. L'organo straordinario di liquidazione provvede a pagare gli acconti per le passivita' inserite nel piano di rilevazione entro 30 giorni dall'erogazione del mutuo di cui al comma 2 del presente articolo, utilizzando altresi' le ulteriori attivita' acquisite, se necessarie per il completo soddisfo dei creditori. 
+ 7-ter. La determinazione degli acconti, fatte salve le cause di prelazione accertate, avviene accantonando le somme necessarie per garantire il pagamento, nella medesima percentuale dei debiti inseriti nel piano, dei debiti esclusi dal piano di rilevazione."; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    al comma 2 dell'art. 12, dopo le parole: "entro il termine del 15 luglio 1991" sono inserite le seguenti: "o dall'organo straordinario di liquidazione"; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    all'art. 14 sono apportate le seguenti modifiche: 
+ 1) al comma 4 la lettera c) e' sostituita dalla seguente: " c) sulla base delle norme di legge relative al personale dipendente in eccedenza;"; 
+ 2) alla lettera e) del comma 4 dopo le parole: "Cassa depositi e prestiti" sono inserite le seguenti: "e con altri soggetti esercenti attivita' creditizia"; 
+ 3) la lettera d) del comma 5 e' soppressa; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'art. 15 e' sostituito dal seguente: 
+ "Art. 15 (Rideterminazione della pianta organica e mobilita' del personale). - 1. L'ente locale provvede alla rideterminazione della pianta organica ed al collocamento in disponibilita' del personale eccedente in base alle disposizioni di legge vigenti in materia.
+L'ente locale e' tenuto al pagamento degli emolumenti spettanti ai dipendenti posti in disponibilita' dalla data della deliberazione e per tutta la durata della disponibilita', fermo restando il diritto al rimborso da parte dello Stato, su richiesta dell'ente da presentarsi entro 60 giorni dalla cessazione dello stato di disponibilita'.".
+
 ))
 
 ## Art. 121. — ( (Procedure di risanamento finanziario in corso
@@ -682,6 +901,129 @@ Sino alla emanazione del decreto del Ministro dell'interno di cui all'articolo 1
 ## - CAPO IX DISPOSIZIONI FINALI E TRANSITORIE SEZIONE VI NORME FINALI
 
 ## Art. 123. — (Abrogazione di norme)
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti norme: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli da 166 a 174 e gli articoli da 179 a 181 del 
+ Regolamento approvato con regio decreto 12 febbraio 1911, n. 297; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 96 e 147 del Testo Unico della legge comunale e 
+ provinciale approvato con regio decreto 3 marzo 1934, n. 383; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 1, comma 4, e l'articolo 12, comma 1, del decreto-  legge 29 dicembre 1977, n. 946, convertito, con modificazioni, dalla legge 27 febbraio 1978, n. 43; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 2 del decreto-legge 10 novembre 1978, n. 702, 
+ convertito, con modificazioni, dalla legge 8 gennaio 1979, n. 3; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        (( gli articoli 5 e 6 della legge 21 dicembre 1978, n. 843; ))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto del Presidente della Repubblica n. 421 del 19 giugno 
+ 1979; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 15 del decreto-legge 28 febbraio 1981, n. 38, e 
+ l'articolo 5, comma 1, della legge di conversione 23 aprile 1981, n. 153; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 1-quater, dal comma 3 al comma 11, l'articolo 3, 
+ comma 6, e l'articolo 3 bis del decreto-legge 28 febbraio 1983, 
+ n. 55, convertito, con modificazioni, dalla legge 26 aprile 1983, n. 131; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 1-bis del decreto-legge 1 luglio 1986, n. 318, 
+ convertito, con modificazioni dalla legge 9 agosto 1986, n. 488; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 1, comma 1, l'articolo 1-bis e l'articolo 9 del 
+ decreto-legge 31 agosto 1987, n. 359, convertito, con modificazioni, dalla legge 29 ottobre 1987, n. 440; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 4, commi 9 e 10, del decreto-legge 2 marzo 1989, n.  65, convertito, con modificazioni, dalla legge 26 aprile 1989, n. 155; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'articolo 22, comma 1, l'articolo 23, l'articolo 25 e 
+ l'articolo 27 del decreto-legge 2 marzo 1989, n. 66, 
+ convertito, con modificazioni, dalla legge 24 aprile 1989, n. 144; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'articolo 1, comma 2, e l'articolo 13, comma 1, 2 e 2-bis, del 
+ decreto-legge 28 dicembre 1989, n. 415, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 38; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'articolo 6-quinquies, commi 1, 2, 4, 5 e 6, l'articolo 8-bis, 
+ l'articolo 12-bis, commi 4, 5, 6 e 7, e l'articolo 13 del 
+ decreto-legge 12 gennaio 1991, n. 6, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 80; 
+                                
+                            
+                            
+                                q)
+                                
+                                    l'art. 11, commi 1 e 1-bis, limitatamente alle disposizioni concernenti comuni, province e comunita' montane, e l'art. 21 del decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68;
 
 Sono da intendersi abrogate tutte le disposizioni non compatibili con i principi e le norme contenute nel presente decreto legislativo.
 

@@ -8,8 +8,8 @@ codice_redazionale: 093G0626
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -38,6 +38,38 @@ I nomi geografici utilizzabili per designare le denominazioni di origine control
 
 Nell'ambito della zona di produzione possono essere individuate aree piu' ristrette, denominate sottozone, aventi specifiche caratteristiche ambientali tradizionalmente note e che possono essere localizzate con specifico nome geografico o storico geografico in aggiunta a quello riferito alla denominazione. L'uso del nome di una sottozona deve essere specificamente previsto nel disciplinare di produzione e deve essere indicato unitamente alla denominazione di origine. Il disciplinare di produzione puo' eventualmente prevedere l'uso, in abbinamento al nome geografico della denominazione, di una menzione geografica di uso tradizionale, purche' tale menzione sia tale da rafforzare l'identita' dell'olio e non indica il consumatore in errore circa l'origine o la qualita' dell'olio. I caratteri con cui vengono indicate le sottozone o le menzioni geografiche aggiuntive devono essere di dimensioni inferiori a quelli utilizzati per designare la denominazione di origine. I nomi delle sottozone e le menzioni aggiuntive non devono ripetere i nomi delle denominazioni di origine principali ne' creare confusione con esse o con altro nome geografico gia' attribuito ad altro olio a denominazione di origine controllata.
 
+3.
+                        
+                            
+                                Le menzioni geografiche aggiuntive possono essere utilizzate alle seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    che vengano indicate all'atto della denuncia degli oliveti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che siano oggetto di specifiche denunce annuali delle olive, le quali ultime devono essere prese in carico separatamente negli appositi registri di magazzino ai fini della oleificazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che l'olio cosi' designato sia interamente prodotto con le olive derivate dalla localita' geografica designata, senza possibilita' di assemblaggio con oli appartenenti alla medesima denominazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che rispondano alle altre condizioni stabilite dalla normativa nazionale e comunitaria in materia di presentazione e di designazione.
+
 Ove si verifichino casi di omonimia tra nomi geografici di due o piu' denominazioni, il Comitato nazionale di cui all'art. 14 della legge 5 febbraio 1992, n. 169, d'ora in avanti denominato "Comitato nazionale", propone al Ministro per il coordinamento delle politiche agricole, alimentari e forestali l'opzione per nomi geografici aventi rilevanza economica prevalente per tradizione oppure prevede altri nomi o menzioni aggiuntive atte ad una migliore definizione della localita'.
 
 Non e' consentito l'impiego del nome geografico utilizzato per designare l'origine di un olio quando tale nome non sia espressamente previsto nei disciplinari di produzione.
@@ -59,6 +91,112 @@ Avvenuta la pubblicazione nella Gazzetta Ufficiale del parere favorevole del Com
 Nell'eventualita' che il comitato promotore della denominazione di origine, di cui al comma 1, abbia gia' raccolto tali elementi in fase di istruttoria regionale li deve immediatamente convalidare ed inviare al Ministero per il coordinamento delle politiche agricole, alimentari e forestali per la valutazione di cui al comma precedente.
 
 ## Art. 3. — Caratteristiche dei disciplinari di produzione
+
+1.
+                        
+                            
+                                Al fine di assicurare uniformita' nella redazione dei disciplinari di produzione e del loro successivo aggiornamento, gli stessi contengono:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione della denominazione, riferita ad un nome geografico corrispondente alla zona di coltivazione dell'olio e delle eventuali sottozone geografiche, aventi caratteristiche aggiuntive alla denominazione di origine;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione della piattaforma varietale e differenziazioni di carattere varietale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la delimitazione della zona di produzione e delle eventuali sottozone;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione delle condizioni tecnico-agronomiche ed ambientali di coltivazione dell'olio atte a caratterizzare la produzione delle denominazioni in causa, con particolare riferimento: alle caratteristiche naturali dell'ambiente, alle pratiche di impianto e di coltivazione, al periodo e ai sistemi di raccolta, alle rese massime di olive, alle modalita' di oleificazione, alle metodologie da seguire per assicurare alla rispondenza delle denunce di produzione delle olive alla effettiva produzione realizzata, ai parametri tecnici delle olive prodotte, con riguardo anche alla acidita' massima espressa in acido oleico libero, alla percentuale di sostanze grasse in rapporto al grado di maturazione ed alla integrita' delle olive;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione delle prescrizioni relative alla oleificazione, ivi comprese eventuali tecnologie utilizzate per la produzione di oli di particolare pregio, con particolare riferimento: ai limiti territoriali in cui le operazioni di oleificazione devono essere effettuate, ai termini per l'immissione al consumo, alla resa di oleificazione (olive/olio) ed alle eventuali pratiche di oleificazione consentite o vietate;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'indicazione delle caratteristiche chimico-fisiche ed organolettiche che l'olio prodotto deve possedere all'atto dell'immissione al consumo in base alla normativa vigente;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'indicazione delle modalita' per l'effettuazione dell'esame chimico-fisico e della prova di degustazione nella fase precedente al confezionamento secondo la metodologia prevista nel presente decreto.
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le indicazioni relative alla designazione degli oli, con particolare riferimento: ai nomi geografici consentiti; alle veritiere menzioni di nomi aziendali, che comunque non devono ingenerare confusione con i nomi geografici riferiti all'olio; ai marchi, alle varieta' ed ai caratteri da utilizzare per le menzioni aggiuntive;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le modalita' di informazione in ordine alle operazioni di confezionamento all'origine ed all'attivita' dei soggetti che effettuano il confezionamento per conto proprio o per conto di terzi.
+
+2.
+                        
+                            
+                                Nei disciplinari di produzione possono altresi' essere inclusi anche i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'uso di specificazioni aggiuntive previste dalla normativa per gli oli D.O.C. e di eventuali specifiche menzioni storiche o tradizionali di uso collettivo riservato alla denominazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli eventuali obblighi, e limitazioni di utilizzo menzioni previste come facoltative dalla normativa comunitaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'individuazione dell'immagine artistica, eventualmente compresa la base colorimetrica, del logo figurativo o logotipo specifico ed univoco da utilizzare in abbinamento inscindibile con la denominazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' che i consorzi di cui all'art. 19 della legge 5 febbraio 1992, n. 169, devono osservare nel predisporre e conservare, in quantita' congrua, uno o piu' campioni standard tipici della produzione annuale della zona geografica di competenza, da utilizzare nelle prove di accertamento delle caratteristiche organolettiche.
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' atte ad assicurare gli adempimenti, di cui all'art. 5, comma 2, lettura a), della legge 5 febbraio 1992, n. 169, nell'eventualita' in cui le operazioni di oleificazione siano effettuate in impianti in cui si trasformano anche olive non aventi diritto alla D.O.C., con particolare riferimento alla verifica che presso gli stabilimenti siano attivate linee di oleificazione sepa- rate e che il prodotto sia avviato in contenitori separati e immediatamente identificabili.
 
 ## Art. 4. — Modifica dei disciplinari di produzione
 
@@ -107,6 +245,38 @@ La denuncia degli oliveti, corredata dalla dichiarazione di rispondenza ai requi
 
 ## Art. 8. — Dati ed elementi figuranti nell'albo
 
+1.
+                        
+                            
+                                La camera di commercio, industria, artigianato e agricoltura provvede ad iscrivere nell'albo, con il nome del conduttore denunciante, i terreni olivati destinati alla produzione dell'olio a denominazione di origine. Nell'albo, oltre al cognome, al nome, al codice fiscale e all'indirizzo del conduttore, devono essere riportate le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    data di iscrizione nell'albo e rispettivo numero di matricola;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    localita' (comune, frazione o contrada) nella quale ricadono i terreni olivati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    entita' della superficie dei terreni olivati corredata dai riferimenti catastali, distinta per tipo di coltura (promiscua o specializzata), presenza varietale con la specificazione della quantita' massima di olive e del corrispondente quantitativo di olio avente diritto alla ricevuta di cui al successivo art. 9, in base alle condizioni previste nel disciplinare di produzione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    estremi delle denunce di variazione di cui all'art. 6 del presente regolamento.
+
 La camera di commercio, dopo l'iscrizione nell'albo dei terreni olivati, restituisce al conduttore un esemplare della denuncia, annotandovi le indicazioni di cui alle lettere a) e c) del comma 1.
 
 ## - Capo III DENUNCIA DELLE OLIVE
@@ -128,6 +298,46 @@ Gli operatori che provvedono a molire le olive proprie o acquistate, o che acqui
 I rivenditori al minuto di olio a denominazione di origine controllata gia' confezionato non sono tenuti alla istituzione del registro di carico e scarico di cui al comma 1, ma devono conservare per tre anni le fatture di acquisto dell'olio.
 
 ## Art. 11. — Ricevuta della denuncia di produzione delle olive
+
+1.
+                        
+                            
+                                All'atto della presentazione della denuncia di produzione delle olive, la camera di commercio, industria, artigianato e agricoltura rilascia al conduttore ricevuta frazionabile, secondo il modello C allegato al presente regolamento, per il quantitativo denunciato.
+Nella ricevuta devono figurare le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    quantita' di olive e corrispondente denominazione di origine;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ubicazione dei terreni olivasti da cui provengono le olive ed eventuale luogo di destinazione delle stesse;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali sottodenominazioni geografiche consentite alle condizioni previste nel presente regolamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nominativo ed indirizzo del conduttore e, nel caso che il prodotto sia stato ceduto, nominativo ed indirizzo dell'acquirente o del destinatario;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    data di presentazione della denuncia.
 
 ## Art. 12. — Accertamenti sulla denuncia di produzione delle olive
 
@@ -233,11 +443,117 @@ Qualora il prelevatore, nell'espletamento dei propri compiti, rilevi una situazi
 
 Il prelevatore accerta il quantitativo dell'olio oggetto di campionamento e preleva il campione in sei esemplari assicurando la corrispondenza del campione alla massa del prodotto oggetto di esame.
 
+10.
+                        
+                            
+                                Gli esemplari del campione sono cosi' utilizzati:
+ 
+                            
+                            
+                                a)
+                                
+                                    uno e' affidato al detentore della partita;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno e' destinato alla commissione di degustazione per l'esame organolettico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno e' destinato alla commissione di degustazione e finalizzato all'esame chimico-fisico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    uno e' conservato dalla camera di commercio per l'eventuale esame da parte della commissione di appello;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    due sono tenuti di riserva presso la camera di commercio.
+
 I campioni presi in carico dalla camera di commercio devono essere conservati per la durata di un anno a partire dal rilascio della certificazione della D.O.C. o dal giudizio definitivo in caso di procedimento di appello.
 
 I recipienti per i singoli esemplari del campione devono avere la capacita' compresa fra 0,25 e 0,50 litri ed essere chiusi ermeticamente. Per i recipienti gia' confezionati, puo' procedersi al prelevamento delle confezioni esistenti.
 
 Sulla chiusura di ogni recipiente e' apposto un sigillo cartaceo recante la dizione "OLIO D.O.C. CAMPIONE DI CONTROLLO ESENTE DA BOLLETTA DI ACCOMPAGNAMENTO AI SENSI DELL'ART. 4, PRIMO COMMA, N. 8, DEL D.P.R. 6 OTTOBRE 1978 N. 627" completato da un'ala staccabile nella quale figurano le firme del prelevatore e del detentore della partita o di un suo fiduciario delegato che assiste al prelevamento.
+
+14.
+                        
+                            
+                                Al momento del prelevamento e' redatto, in triplice copia, un verbale secondo il modello di cui all'allegato 2 al presente regolamento, dal quale devono risultare i seguenti elementi:
+ 
+                            
+                            
+                                a)
+                                
+                                    numero del verbale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    data e ora del prelevamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nominativo del prelevatore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nominativo del detentore della partita e suo indirizzo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eventuale nominativo del fiduciario del detentore della partita, specificamente delegato a presenziare al prelevamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    modalita' di prelevamento, specificando eventuali coacervi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    descrizione delle partite di olio e dei recipienti;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    attestazione del prelevatore circa le modalita' attraverso le quali egli ha provveduto ad accertare i requisiti di tipologia e di quantita' della partita, nonche' di identificazione dei recipienti;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dichiarazione attestante che tutti i campioni asportati e quello lasciato in custodia sono stati sigillati con l'apposizione, sulle apposite ali staccabili, delle firme del prelevatore e del detentore o suo rappresentante.
 
 I verbali devono essere sottoscritti dal prelevatore e dal detentore o dal suo rappresentante.
 
@@ -320,6 +636,45 @@ L'esito negativo dell'esame organolettico comporta la dichiarazione di non idone
 
 Il disbrigo degli affari di natura tecnico-amministrativa inerenti al funzionamento delle commissioni di appello e' affidato all'ufficio di segreteria del Comitato nazionale per la tutela della denominazione di origine controllata degli oli.
 
+2.
+                        
+                            
+                                In particolare, l'ufficio di segreteria di cui al comma 1 provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    a prendere in carico, con trascrizione in apposito registro, separatamente per le commissioni di appello dell'Italia settentrionale, centrale e meridionale, i ricorsi e i relativi campioni, previo controllo della loro integrita', ed a curarne il buono stato di conservazione fino alla effettuazione degli esami organolettici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a comunicare ai presidenti ed ai segretari delle commissioni di appello interessate, entro cinque giorni dalla data di ricevimento dei ricorsi e dei campioni, l'avvenuta presa in carico degli stessi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad assicurare la disponibilita' e la funzionalita' della sala di degustazione e delle attrezzature occorrenti per la degustazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ad assicurare gli adempimenti tecnici necessari per la effettuazione degli esami organolettici, con particolare riguardo alla necessita' di rendere anonimi i campioni ed alla presentazione del prodotto nelle condizioni ottimali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a prendere in carico, con trascrizione in apposito registro, una copia dei verbali delle riunioni delle commissioni di appello redatti a cura dei segretari delle commissioni stesse e sottoscritti dagli stessi e dai rispettivi presidenti.
+
 Il Ministero per il coordinamento delle politiche agricole, alimentari e forestali, gestione produzione agricola, puo' incaricare le commissioni di appello di esaminare a sondaggio, oltre ai campioni giudicati "non idonei", i campioni giudicati "idonei" in primo grado relativi a partite di olio giacenti presso il detentore ovvero gia' immesse in commercio, allo scopo di uniformare i criteri di valutazione delle commissioni di primo grado sul territorio nazionale.
 
 Il Ministero per il corrdinamento delle politiche agricole, alimentari e forestali, gestione produzione agricola, qualora lo ritenga opportuno, puo' altresi' affidare alle commissioni di appello ogni altro incarico in materia di esame sensoriale.
@@ -337,4 +692,22 @@ Il risultato di tale abbinamento e' comunicato all'ufficio di segreteria del com
 
 ## Art. 34. — Misure atte ad assicurare la rispondenza
  fra la certificazione di idoneita' e le partite
+
+1.
+                        
+                            
+                                Al fine di assicurare la rispondenza fra i certificati di idoneita' alla D.O.C. e le relative partite di olio, nonche' l'espletamento dei controlli prescritti, i detentori delle medesime partite devono:
+ 
+                            
+                            
+                                a)
+                                
+                                    conservare agli atti documentali i certificati di idoneita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    annotare nei registri di carico e scarico e nei registri di confezionamento, il riferimento al certificato di idoneita' per ogni partita o frazione di essa oggetto di commercializzazione.
 

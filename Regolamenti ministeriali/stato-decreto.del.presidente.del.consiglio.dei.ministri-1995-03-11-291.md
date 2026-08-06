@@ -8,8 +8,8 @@ codice_redazionale: 095G0338
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -33,6 +33,24 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 19 g
 
 I soggetti di cui all'art. 1 della legge 20 gennaio 1994, n. 60, al fine di beneficiare delle agevolazioni indicate nello stesso articolo, dovranno produrre alla Presidenza del Consiglio dei Ministri - Dipartimento dello spettacolo, il piano di ammortamento del deficit perche', nei casi di interventi finanziari dello Stato a sostegno dell'attivita' annuale realizzata dagli stessi soggetti, si possa procedere alla approvazione del piano medesimo, sentita la Commissione centrale per la musica, di cui all'art. 3 della legge 14 agosto 1967, n. 800.
 
+2.
+                    
+                        
+                            Tali soggetti devono osservare le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere beneficiari di sovvenzioni pubbliche da almeno tre anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                formulare un piano di ammortamento del deficit determinatosi negli ultimi cinque anni precedenti la data di entrata in vigore della legge 20 gennaio 1994, n. 60. La rata annuale di tale piano non potra' eccedere il 20% delle spese risultanti dal bilancio approvato dell'ultimo esercizio finanziario. Il piano di ammortamento riguarda le singole differenze passive degli ultimi cinque anni determinatesi tra le entrate e le uscite relative alla gestione dell'attivita' annuale sovvenzionata. Il bilancio dell'ultimo esercizio finanziario, di cui alla legge, e' quello relativo alle attivita' sovvenzionate.
+
 L'approvazione del piano di ammortamento comporta l'ammissione della quota annuale di ripiano fra i costi considerati ai fini della concessione dei contributi pubblici.
 
 Il mancato ripiano del deficit entro il previsto periodo di ammortamento ovvero il mancato pagamento alle banche o alle societa' finanziarie legalmente costituite di piu' di due rate del mutuo, qualora ne venga stipulato uno a copertura del deficit stesso, comporta la decadenza dal beneficio di cui al comma precedente.
@@ -50,6 +68,38 @@ Qualora si intenda far diventare operante tale ultima garanzia, dovra' essere pr
 Le banche e le societa' finanziarie devono comunicare al Dipartimento dello spettacolo e, per i mutui assistiti da garanzia sul fondo di 1.000 milioni annui, alla Banca nazionale del lavoro - Sezione di credito cinematografico e teatrale S.p.a., entro il mese di gennaio di ciascun anno, se risultino pagate le rate scadute entro il 31 ottobre dell'anno precedente, riguardanti l'ammortamento del mutuo contratto per il ripiano del deficit. Qualora operi la garanzia costituita sul fondo destinato alla corresponsione dei contributi sugli interessi, interverra' la decadenza del diritto di accedere a contributi pubblici statali o regionali.
 
 La Banca nazionale del lavoro - Sezione per il credito cinematografico e teatrale S.p.a., dopo il 31 gennaio di ciascun anno, verifica se ed in qual misura sia necessario fare ricorso alla utilizzazione totale o parziale del fondo di 1.000 milioni annui, quota parte di quello di cui all'art. 13, secondo comma, lettera d), della legge 30 aprile 1985, n. 163. Nell'ipotesi di rate non pagate, la stessa sezione procedera' ai relativi conteggi, mentre per i pagamenti a carico del fondo di garanzia, limitatamente agli interventi risultanti dal piano di ammortamento e con esclusione degli interessi maturati successivamente, dovranno risultare gia' esperite da parte delle banche o delle societa' finanziarie, le procedure esecutive di cui alle medesime garanzie indicate in via primaria e secondaria.
+
+6.
+                    
+                        
+                            La Presidenza del Consiglio dei Ministri - Dipartimento dello spettacolo, procede a:
+ 
+                        
+                        
+                            a)
+                            
+                                ricevere ed istruire, ai fini della successiva approvazione, i piani di ammortamento formulati dai singoli soggetti delle iniziative musicali per verificare la presenza delle condizioni cui e' subordinato il beneficio riguardante l'inclusione fra i costi ammessi della quota annuale di ammortamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ricevere la dichiarazione di cui al comma 2 del presente articolo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ricevere le copie delle istanze di mutuo prodotte dagli interessati che intendano avvalersi della garanzia costituita dal fondo di 1.000 milioni annui;
+
+                            
+                        
+                        
+                            d)
+                            
+                                verificare, dall'esame dei bilanci e da ogni altra utile documentazione in sede di liquidazione delle sovvenzioni, se siano state soddisfatte le condizioni, il cui mancato rispetto comporti la decadenza dal beneficio sub a) e la decadenza dal diritto di accedere a contributi pubblici statali, regionali o locali. In questo ultimo caso dovra' essere data comunicazione della decadenza alle altre amministrazioni pubbliche interessate, alla regione e agli altri enti locali.
 
 Nel caso di utilizzazione parziale del fondo di garanzia, il residuo sara' utilizzato per le finalita' gia' individuate dalla legge 30 aprile 1985, n. 163. Nel caso in cui la disponibilita' del fondo risultasse insufficiente a coprire i crediti esposti dalle banche o dalle societa' finanziarie, le richieste eccedenti, individuate in base all'ordine cronologico di arrivo alla sezione, saranno soddisfatte con lo stanziamento dell'anno successivo, senza maggiorazione di interessi sulle somme dovute.
 

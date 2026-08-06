@@ -8,8 +8,8 @@ codice_redazionale: 003G0135
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -75,4 +75,49 @@ L'articolo 7 della legge 17 dicembre 1971, n. 1158, e' sostituito dal seguente:
  u) l'inserimento, negli atti contrattuali di affidamento dell'opera a terzi, della facolta' della societa' Stretto di Messina S.p.A. di recedere dal contratto ove il progetto redatto dall'affidatario dopo l'aggiudicazione comporti sostanziali modifiche alle opere ovvero aumenti di prezzo.».
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Alla legge 17 dicembre 1971, n. 1158, sono apportate le seguente modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, primo comma, la parola: «prevalente» e' sostituita dalla seguente: «preminente»; il quinto comma e' abrogato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2:
+ 1) al primo comma sono aggiunte, alla fine del secondo capoverso, le seguenti parole: «, nonche' lo svolgimento di ogni connessa attivita' anche attraverso societa' partecipate; a fronte di eventuali contributi per lo svolgimento di attivita' connesse si procedera' alla separazione dei relativi flussi contabili.»;
+ 2) al secondo comma sono aggiunte, in fine, le seguenti parole: «lo statuto deve altresi' prevedere la previa designazione del Ministero delle infrastrutture e dei trasporti per la nomina di tre degli altri amministratori»;
+ 3) il terzo comma e' abrogato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 3, il terzo comma e' abrogato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 6 e' abrogato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 9:
+ 1) il sesto comma e' abrogato;
+ 2) al settimo comma le parole: «la stessa» sono sostituite dalla seguente: «successiva»;
+ 3) l'ottavo comma e' abrogato.
 

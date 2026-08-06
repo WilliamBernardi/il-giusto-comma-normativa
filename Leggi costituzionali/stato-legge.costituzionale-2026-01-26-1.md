@@ -7,8 +7,8 @@ urn: urn:nir:stato:legge.costituzionale:2026-01-26;1
 vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE
@@ -51,6 +51,25 @@ Al comma 1 dell'articolo 11 della legge costituzionale 31 gennaio 1963, n. 1, e'
 ## Art. 5. — Modifiche all'articolo 12 
  della legge costituzionale n. 1 del 1963
 
+1.
+                    
+                        
+                            All'articolo 12 della legge costituzionale 31 gennaio 1963, n. 1, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il quarto comma e' sostituito dal seguente: 
+ «La legge regionale di cui al secondo comma puo' essere sottoposta a referendum regionale secondo la disciplina prevista da apposita legge regionale»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il quinto comma e' abrogato.
+
 ## Art. 6. — Modifica all'articolo 13 
  della legge costituzionale n. 1 del 1963
 
@@ -65,7 +84,44 @@ All'articolo 54 della legge costituzionale 31 gennaio 1963, n. 1, dopo le parole
 ## Art. 8. — Modifiche all'articolo 59 
  della legge costituzionale n. 1 del 1963
 
+1.
+                    
+                        
+                            All'articolo 59 della legge costituzionale 31 gennaio 1963, n. 1, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «anche nella forma di Citta' metropolitane,» sono inserite le seguenti: «e su enti di area vasta a elezione diretta,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' aggiunto il seguente: 
+ «1-bis. La legge regionale disciplina la prima istituzione, le circoscrizioni e, anche con modalita' differenziate, le funzioni, la forma di governo e le modalita' di elezione degli organi degli enti di area vasta».
+
 ## Art. 9. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogate le seguenti disposizioni della legge costituzionale 31 gennaio 1963, n. 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                il numero 4) dell'articolo 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli articoli 29, 30 e 60.
 
 ## Art. 10. — Disposizioni finali
 

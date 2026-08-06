@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-04-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -66,6 +66,31 @@ Le anagrafi regionali per l'obbligo formativo, gia' costituite ai sensi dell'art
 
 Le regioni e le province autonome di Trento e di Bolzano assicurano l'integrazione delle anagrafi regionali degli studenti con le anagrafi comunali della popolazione, anche in relazione a quanto previsto dagli articoli 4 e 5 del presente decreto, nonche' il coordinamento con le funzioni svolte dalle Province attraverso i servizi per l'impiego in materia di orientamento, informazione e tutorato.
 
+4.
+                    
+                        
+                            Con apposito accordo tra il Ministero dell'istruzione, dell'universita' e della ricerca, il Ministero del lavoro e delle politiche sociali, in sede di Conferenza unificata di cui al decreto legislativo 28 agosto 1997, n. 281, e' assicurata l'integrazione delle anagrafi di cui ai commi 1, 2 e 3 nel Sistema nazionale delle anagrafi degli studenti. Ai predetti fini si provvede a: 
+ 
+                        
+                        
+                            a)
+                            
+                                definire gli standard tecnici per lo scambio dei flussi informativi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicurare l'interoperabilita' delle anagrafi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definire l'insieme delle informazioni che permettano la tracciabilita' dei percorsi scolastici e formativi dei singoli studenti.
+
 Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica. ((2)) 
  
 ----------------
@@ -84,6 +109,38 @@ Nell'ambito della programmazione regionale e nel rispetto del quadro normativo d
 ## Art. 5. — Vigilanza sull'assolvimento del diritto-dovere e sanzioni
 
 Responsabili dell'adempimento del dovere di istruzione e formazione sono i genitori dei minori o coloro che a qualsiasi titolo ne facciano le veci, che sono tenuti ad iscriverli alle istituzioni scolastiche o formative.
+
+2.
+                    
+                        
+                            Alla vigilanza sull'adempimento del dovere di istruzione e formazione, anche sulla base dei dati forniti dalle anagrafi degli studenti di cui all'articolo 3, cosi' come previsto dal presente decreto, provvedono:
+ 
+                        
+                        
+                            a)
+                            
+                                il comune, ove hanno la residenza i giovani che sono soggetti al predetto dovere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il dirigente dell'istituzione scolastica o il responsabile dell'istituzione formativa presso la quale sono iscritti ovvero abbiano fatto richiesta di iscrizione gli studenti tenuti ad assolvere al predetto dovere;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la provincia, attraverso i servizi per l'impiego in relazione alle funzioni di loro competenza a livello territoriale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i soggetti che assumono, con il contratto di apprendistato di cui all'articolo 48 del decreto legislativo 10 settembre 2003, n. 276, i giovani tenuti all'assolvimento del diritto-dovere all'istruzione e alla formazione, nonche' il tutore aziendale di cui al comma 4, lettera f), del predetto articolo, e i soggetti competenti allo svolgimento delle funzioni ispettive in materia di previdenza sociale e di lavoro, di cui al decreto legislativo 23 aprile 2004, n. 124.
 
 In caso di mancato adempimento del dovere di istruzione e formazione si applicano a carico dei responsabili le sanzioni relative al mancato assolvimento dell'obbligo scolastico previsto dalle norme previgenti.
 

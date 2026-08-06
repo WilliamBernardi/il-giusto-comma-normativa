@@ -8,8 +8,8 @@ codice_redazionale: 006G0170
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,61 @@ L'articolo 249 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 
  2. Il titolare che non intenda riutilizzare la targa assegnatagli provvede alla sua distruzione e ne da' comunicazione ad un ufficio motorizzazione civile del Dipartimento per i trasporti terrestri, ovvero ad uno dei soggetti di cui all'articolo 251, con le modalita' stabilite dal Ministero delle infrastrutture e dei trasporti, ai fini dell'aggiornamento della sezione "ciclomotori" dell'Archivio nazionale dei veicoli.».
 
 ## Art. 3. — Modifiche all'articolo 250 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
+
+1.
+                    
+                        
+                            All'articolo 250 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Caratteristiche e modalita' di applicazione della targa per ciclomotori»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 1 e 2 sono sostituiti dai seguenti:
+ «1. La targa e' composta da sei caratteri alfanumerici, nonche' dal marchio ufficiale della Repubblica italiana. Il fondo della targa e' bianco. Il colore dei caratteri e del marchio ufficiale della Repubblica italiana e' nero. I caratteri alfanumerici sono realizzati mediante imbutitura, profonda 1,4 \pm 0,1 millimetri, su un supporto metallico piano in lamiera di alluminio dello spessore di 1,00 \pm 0,05 millimetri, ricoperto di pellicola retroriflettente autoadesiva.
+ 2. La forma e le dimensioni della targa e del marchio sono indicati nella figura III 3; il formato dei caratteri nella tabella III 2.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' soppresso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, le parole: «dalla Direzione generale della M.C.T.C.» sono sostituite dalle seguenti: «dal Dipartimento per i trasporti terrestri»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, nel primo periodo, le parole: «Il contrassegno non deve essere necessariamente illuminato» sono sostituite dalle seguenti: «La targa non deve essere necessariamente illuminata»; nel secondo periodo, la parola: «Esso» e' sostituita dalla seguente: «Essa»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 6 e' soppresso;
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 7 le parole: «nei commi 2 e 3» sono sostituite dalle seguenti: «nei commi 1 e 2».
 
 ## Art. 4. — Modifiche all'articolo 251 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,11 +36,89 @@ Le disposizioni di cui al presente articolo non si applicano alle scuole, enti e
 
 Finalita' dell `alternanza
 
+1.
+                    
+                        
+                            Nell'ambito del sistema dei licei e del sistema dell'istruzione e della formazione professionale, la modalita' di apprendimento in alternanza, quale opzione formativa rispondente ai bisogni individuali di istruzione e formazione dei giovani, persegue le seguenti finalita':
+ 
+                        
+                        
+                            a)
+                            
+                                attuare modalita' di apprendimento flessibili e equivalenti sotto il profilo culturale ed educativo, rispetto agli esiti dei percorsi del secondo ciclo, che colleghino sistematicamente la formazione in aula con l'esperienza pratica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                arricchire la formazione acquisita nei percorsi scolastici e formativi con l'acquisizione di competenze spendibili anche nel mercato del lavoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                favorire l'orientamento dei giovani per valorizzarne le vocazioni personali, gli interessi e gli stili di apprendimento individuali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                realizzare un organico collegamento delle istituzioni scolastiche e formative con il mondo del lavoro e la societa' civile, che consenta la partecipazione attiva dei soggetti di cui all'articolo 1, comma 2, nei processi formativi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                correlare l'offerta formativa allo sviluppo culturale, sociale ed economico del territorio.
+
 ## Art. 3. — Realizzazione dei percorsi in alternanza
 
 Ferme restando le competenze delle regioni e delle province autonome di Trento e di Bolzano in materia di programmazione territoriale dell'offerta formativa, le istituzioni scolastiche o formative, singolarmente o in rete, stipulano, nei limiti degli importi allo scopo annualmente assegnati nell'ambito delle risorse di cui all'articolo 9, comma 1, apposite convenzioni, a titolo gratuito, con i soggetti di cui all'articolo 1, comma 2, secondo quanto previsto ai commi 2 e 3 del presente articolo.
 
 Ai fini dello sviluppo, nelle diverse realta' territoriali, dei percorsi di cui all'articolo 1 che rispondano a criteri di qualita' sotto il profilo educativo ed ai fini del monitoraggio e della valutazione dell'alternanza scuola lavoro, nonche' ai fini di cui al comma 3, e' istituito, a livello nazionale, il Comitato per il monitoraggio e la valutazione dell'alternanza scuola-lavoro, con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro del lavoro e delle politiche sociali e con il Ministro delle attivita' produttive, previa intesa in sede di Conferenza unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 28l. Il Comitato e' istituito assicurando la rappresentanza dei soggetti istituzionali interessati, delle camere di commercio, industria, artigianato e agricoltura e delle rappresentanze dei lavoratori e dei datori di lavoro. Per la valutazione dei percorsi il Comitato si coordina con l'Istituto nazionale di valutazione del sistema dell'istruzione (INVALSI), di cui all'articolo 2 del decreto legislativo 19 novembre 2004, n. 286.
+
+3.
+                    
+                        
+                            Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sulla base delle indicazioni del comitato di cui al comma 2, sono definiti:
+ 
+                        
+                        
+                            a)
+                            
+                                i criteri generali cui le convenzioni devono fare riferimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le risorse finanziarie annualmente assegnate alla realizzazione dell'alternanza ed i criteri e le modalita' di ripartizione delle stesse, al fine di contenere la spesa entro i limiti delle risorse disponibili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i requisiti che i soggetti di cui all'articolo 1, comma 2, devono possedere per contribuire a realizzare i percorsi in alternanza, con particolare riferimento all'osservanza delle norme vigenti in materia di sicurezza nei luoghi di lavoro e di ambiente ed all'apporto formativo nei confronti degli studenti ed al livello di innovazione dei processi produttivi e dei prodotti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' per promuovere a livello nazionale il confronto fra le diverse esperienze territoriali e per assicurare il perseguimento delle finalita' di cui al comma 2;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il modello di certificazione per la spendibilita' a livello nazionale delle competenze e per il riconoscimento dei crediti di cui all'articolo 6.
 
 Le convenzioni di cui al comma 1, in relazione al progetto formativo, regolano i rapporti e le responsabilita' dei diversi soggetti coinvolti nei percorsi in alternanza, ivi compresi gli aspetti relativi alla tutela della salute e della sicurezza dei partecipanti.
 

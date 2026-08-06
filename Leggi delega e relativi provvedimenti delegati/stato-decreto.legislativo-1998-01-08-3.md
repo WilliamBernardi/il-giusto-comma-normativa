@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2001-03-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -88,6 +88,31 @@ L'autorizzazione di cui all'articolo 31 e' rilasciata sentito il parere di una c
 nominati su designazione delle organizzazioni nazionali di categorie maggiormente rappresentative.".
 
 L'accertamento dei requisiti tecnici, di idoneita', di sicurezza e di igiene per il rilascio da parte delle autorita' competenti delle autorizzazioni alla apertura dei locali da destinare a sale per pubblici spettacoli, anche cinematografici o teatrali, e' esclusivamente affidata alle commissioni provinciali di vigilanza, di cui all'articolo 141 del regolamento di esecuzione del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 6 maggio 1940, n. 635. Ai fini del rilascio dei provvedimenti autorizzatori comunque necessari all'apertura dei locali da destinare a spettacoli cinematografici o teatrali, il prefetto convoca una conferenza di servizi con gli enti e le amministrazioni interessati, ai sensi dell'articolo 14 della legge 7 agosto 1990, n. 241, come modificato dall'articolo 17 della legge 15 maggio 1997, n. 127. Le commissioni provinciali di vigilanza, anche avvalendosi dell'ausilio di personale tecnico di altre amministrazioni pubbliche, sono altresi' competenti all'accertamento degli aspetti tecnici di sicurezza e di igiene, al fine della iscrizione nell'elenco di cui all'articolo 4 della legge 18 marzo 1968, n. 337.
+
+3.
+                    
+                        
+                            All'articolo 31 della legge 4 novembre 1965, n. 1213, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: "Autorita' competente in materia di spettacolo" sono inserite le seguenti: ", nei soli casi in cui il numero complessivo dei posti sia o divenga superiore a milletrecento."; e sono aggiunte, in fine, le parole: ", qualora il numero dei posti sia superiore a milletrecento.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: " 2. Con regolamento adottato dall'Autorita' di Governo competente in materia di spettacolo, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono definiti i criteri per il rilascio delle autorizzazioni nei casi previsti dal comma 1.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, le parole: "L'autorizzazione per l'attivita'" sono sostituite dalle seguenti: "L'esercizio legittimo dell'attivita'".
 
 Il regio decreto-legge 10 settembre 1936, n. 1946, convertito dalla legge 18 gennaio 1937, n. 193, e' abrogato.
  (( 4 -bis. Per i procedimenti di autorizzazione, relativi a complessi cinematografici superiori a milletrecento posti, avviati in data anteriore a quella di entrata in vigore del presente decreto, e non ancora conclusi, si applicano le disposizioni vigenti al momento di avvio del procedimento )).

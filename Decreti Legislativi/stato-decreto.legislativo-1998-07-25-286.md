@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -119,10 +119,60 @@ Salvi i casi di esenzione, e' fatto obbligo ai cittadini di Paesi terzi nei cui 
 
 L'autorita' di frontiera assicura la registrazione, nel sistema di ingressi/uscite (entry-exit system-EES) di cui al regolamento (UE) 2017/2226, dei dati richiesti ai fini del controllo e provvede, in caso di ingresso sul territorio nazionale, ad informare il cittadino straniero della durata massima del soggiorno autorizzato. L'informazione di cui al primo periodo puo' essere resa anche attraverso attrezzature installate ai valichi di frontiera. Ai cittadini di Paesi terzi titolari di un permesso di soggiorno rilasciato dalle Autorita' italiane in corso di validita', il personale addetto ai controlli di frontiera provvede ad apporre sul passaporto un timbro recante l'indicazione della data di ingresso o di uscita.(91)
 
+1-quinquies.
+                        
+                            
+                                Per l'adempimento delle disposizioni di cui all'articolo 3, paragrafo 1, punti 3), 4), 22) e 26), del regolamento (UE) 2017/2226, con uno o piu' decreti adottati dal Ministro dell'interno, di concerto con i Ministri degli affari esteri e della cooperazione internazionale e della giustizia, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determinate le autorita' di frontiera, nonche' quelle competenti in materia di immigrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    designate le autorita' responsabili per finalita' di prevenzione, accertamento e indagine di reati di terrorismo o altri reati gravi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplinate le modalita' tecniche di accesso, consultazione, inserimento, modifica e cancellazione dei dati nel sistema EES a cura dei soggetti autorizzati, di eventuale conservazione negli archivi o sistemi nazionali, nonche' di comunicazione dei dati ai sensi dell'articolo 41 del regolamento (UE) 2017/2226. (91)
+
 Il visto di ingresso e' rilasciato dalle rappresentanze diplomatiche o consolari italiane nello Stato di origine o di stabile residenza dello straniero. Per soggiorni non superiori a tre mesi sono equiparati ai visti rilasciati dalle rappresentanze diplomatiche e consolari italiane quelli emessi, sulla base di specifici accordi, dalle autorita' diplomatiche o consolari di altri Stati.
 Contestualmente al rilascio del visto di ingresso l'autorita' diplomatica o consolare italiana consegna allo straniero una comunicazione scritta in lingua a lui comprensibile o, in mancanza, in inglese, francese, spagnolo o arabo, che illustri i diritti e i doveri dello straniero relativi all'ingresso ed al soggiorno in Italia. Qualora non sussistano i requisiti previsti dalla normativa in vigore per procedere al rilascio del visto, l'autorita' diplomatica o consolare comunica il diniego allo straniero in lingua a lui comprensibile, o, in mancanza, in inglese, francese, spagnolo o arabo. In deroga a quanto stabilito dalla legge 7 agosto 1990, n. 241, e successive modificazioni, per motivi di sicurezza o di ordine pubblico il diniego non deve essere motivato, salvo quando riguarda le domande di visto presentate ai sensi degli articoli 22, 24, 26, 27, 28, 29, 36 e 39. La presentazione di documentazione falsa o contraffatta o di false attestazioni a sostegno della domanda di visto comporta automaticamente, oltre alle relative responsabilita' penali, l'inammissibilita' della domanda. Per lo straniero in possesso di permesso di soggiorno e' sufficiente, ai fini del reingresso nel territorio dello Stato, una preventiva comunicazione all'autorita' di frontiera.
 
 L'autorizzazione ai viaggi di cui al comma 1 e' richiesta dai cittadini di Paesi terzi di cui all'articolo 1, paragrafo 1, del regolamento (UE) 2018/1240, secondo le modalita' previste dagli articoli 15, 17 e 18 del medesimo regolamento. L'autorizzazione e' rilasciata, rifiutata, annullata o revocata dall'Unita' nazionale ETIAS (European travel information ad authorisation system) in attuazione del Capo VI del medesimo regolamento (UE) 2018/1240. La comunicazione relativa al rilascio, al rifiuto, all'annullamento o alla revoca dell'autorizzazione e' effettuata, secondo le modalita' previste dagli articoli 38 e 42 del predetto regolamento (UE) 2018/1240, esclusivamente tramite il servizio di posta elettronica ed e' inviata all'indirizzo di posta elettronica di cui all'articolo 17, paragrafo 2, lettera g), del medesimo regolamento, fornito dal richiedente nel modulo di domanda. La notificazione si intende perfezionata nel momento dell'avvenuto invio del messaggio di posta elettronica. Avverso le decisioni adottate dall'Unita' nazionale ETIAS la tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal codice del processo amministrativo, di cui all'allegato 1 al decreto legislativo 2 luglio 2010, n. 104. (91)
+
+2-ter.
+                        
+                            
+                                Per l'adempimento alle disposizioni di cui all'articolo 3, paragrafo 1, punti 4), 21) e 22), del regolamento (UE) 2018/1240, con uno o piu' decreti adottati dal Ministro dell'interno, di concerto con i Ministri degli affari esteri e della cooperazione internazionale e della giustizia sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determinate le autorita' di frontiera, nonche' quelle competenti in materia di immigrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    designate le autorita' responsabili per finalita' di prevenzione, accertamento e indagine di reati di terrorismo o altri reati gravi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplinate le modalita' tecniche di accesso, consultazione, inserimento, modifica e cancellazione dei dati nel sistema europeo di informazione e autorizzazione di viaggi (European travel information ad authorisation system-ETIAS) a cura dei soggetti autorizzati, di eventuale conservazione negli archivi o sistemi nazionali, nonche' di comunicazione dei dati ai sensi dell'articolo 65 del regolamento (UE) 2018/1240. (91)
 
 Ferme restando le disposizioni di cui all'articolo 3, comma 4, l'Italia, in armonia con gli obblighi assunti con l'adesione a specifici accordi internazionali, consentira' l'ingresso nel proprio territorio allo straniero che dimostri di essere in possesso di idonea documentazione atta a confermare lo scopo e le condizioni del soggiorno, nonche' la disponibilita' di mezzi di sussistenza sufficienti per la durata del soggiorno e, fatta eccezione per i permessi di soggiorno per motivi di lavoro, anche per il ritorno nel Paese di provenienza. I mezzi di sussistenza sono definiti con apposita direttiva emanata dal Ministro dell'interno, sulla base dei criteri indicati nel documento di programmazione di cui all'articolo 3, comma 1. Non e' ammesso in Italia lo straniero che non soddisfi tali requisiti o che sia considerato una minaccia per l'ordine pubblico o la sicurezza dello Stato o di uno dei Paesi con i quali l'Italia abbia sottoscritto accordi per la soppressone dei controlli alle frontiere interne e la libera circolazione delle persone o che risulti condannato, anche con sentenza non definitiva, compresa quella adottata a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per reati previsti dall'articolo 380, commi 1 e 2 ((e dall'articolo 381, comma 2, lettere m) e m-sexies),)), del codice di procedura penale, per i reati di cui all'articolo 582, nel caso di cui al secondo comma, secondo periodo, e agli articoli 583-bis e 583-quinquies del codice penale, ovvero per reati inerenti gli stupefacenti, la liberta' sessuale, il favoreggiamento dell'immigrazione clandestina verso l'Italia e dell'emigrazione clandestina dall'Italia verso altri Stati o per reati diretti al reclutamento di persone da destinare alla prostituzione o allo sfruttamento della prostituzione o di minori da impiegare in attivita' illecite. Impedisce l'ingresso dello straniero in Italia anche la condanna, con sentenza irrevocabile, per uno dei reati previsti dalle disposizioni del titolo III, capo III, sezione II, della legge 22 aprile 1941, n. 633, relativi alla tutela del diritto di autore, e degli articoli 473 e 474 del codice penale, nonche' dall'articolo 1 del decreto legislativo 22 gennaio 1948, n. 66, e dall'articolo 24 del regio decreto 18 giugno 1931, n. 773. Lo straniero per il quale e' richiesto il ricongiungimento familiare, ai sensi dell'articolo 29, non e' ammesso in Italia quando rappresenti una minaccia concreta e attuale per l'ordine pubblico o la sicurezza dello Stato o di uno dei Paesi con i quali l'Italia abbia sottoscritto accordi per la soppressione dei controlli alle frontiere interne e la libera circolazione delle persone.(90)
 
@@ -198,6 +248,70 @@ Lo straniero che richiede il permesso di soggiorno e' sottoposto a rilievi fotod
 
 La richiesta di rilascio e di rinnovo del permesso di soggiorno e' sottoposta al versamento di un contributo, il cui importo e' fissato fra un minimo di 80 e un massimo di 200 euro con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dell'interno, che stabilisce altresi' le modalita' del versamento nonche' le modalita' di attuazione della disposizione di cui all'articolo 14-bis, comma 2. Non e' richiesto il versamento del contributo per il rilascio ed il rinnovo del permesso di soggiorno per asilo, per richiesta di asilo, per protezione sussidiaria, per cure mediche nonche' dei permessi di soggiorno di cui agli articoli 18, 18-bis, 20-bis, 22, comma 12-quater, e 42-bis, e del permesso di soggiorno rilasciato ai sensi dell'articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25.
 
+3.
+                        
+                            
+                                La durata del permesso di soggiorno non rilasciato per motivi di lavoro e' quella prevista dal visto d'ingresso, nei limiti stabiliti dal presente testo unico o in attuazione degli accordi e delle convenzioni internazionali in vigore. La durata non puo' comunque essere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    superiore a tre mesi, per visite, affari e turismo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 LUGLIO 2002, N. 189; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inferiore al periodo di frequenza, anche pluriennale, di un corso di studio di istituzioni scolastiche, istituti tecnici superiori, istituzioni universitarie e dell'alta formazione artistica, musicale e coreutica o per formazione debitamente certificata, fatta salva la verifica annuale di profitto; secondo le previsioni del regolamento di attuazione. Il permesso puo' essere prolungato per ulteriori dodici mesi oltre il termine del percorso formativo compiuto, secondo quanto disposto dall'articolo 39-bis. 1; (49) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 LUGLIO 2002, N. 189; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    superiore alle necessita' specificamente documentate, negli altri casi consentiti dal presente testo unico o dal regolamento di attuazione.
+
+3-bis.
+                        
+                            
+                                Il permesso di soggiorno per motivi di lavoro e' rilasciato a seguito della stipula del contratto di soggiorno per lavoro di cui all'articolo 5-bis. La durata del relativo permesso di soggiorno per lavoro e' quella prevista dal contratto di soggiorno e comunque non puo' superare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in relazione ad uno o piu' contratti di lavoro stagionale, la durata complessiva di nove mesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione ad un contratto di lavoro subordinato a tempo determinato, la durata di un anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in relazione ad un contratto di lavoro subordinato a tempo indeterminato, la durata di due anni. Ciascun rinnovo non puo' superare la durata di tre anni.
+
 Allo straniero che dimostri di essere venuto in Italia almeno una volta nei cinque anni precedenti per prestare lavoro stagionale e' rilasciato, qualora si tratti di impieghi ripetitivi, un permesso pluriennale, a tale titolo, fino a tre annualita', con indicazione del periodo di validita' per ciascun anno. Il predetto permesso di soggiorno e' revocato se lo straniero non si presenta all'ufficio di frontiera esterna al termine della validita' annuale e alla data prevista dal visto di ingresso per il rientro nel territorio nazionale. Il relativo visto di ingresso e' rilasciato sulla base del nulla osta rilasciato ai sensi dell'articolo 24, comma 11.
 
 Possono inoltre soggiornare nel territorio dello Stato gli stranieri muniti di permesso di soggiorno per lavoro autonomo rilasciato sulla base della certificazione della competente rappresentanza diplomatica o consolare italiana della sussistenza dei requisiti previsti dall'articolo 26 del presente testo unico. Il permesso di soggiorno non puo' avere validita' superiore ad un periodo di due anni. Ciascun rinnovo non puo' superare la durata di tre anni.
@@ -227,6 +341,93 @@ Allo straniero di cui al comma 7, che si e' trattenuto nel territorio nazionale 
 Nei confronti dello straniero che ha violato l'intimazione di cui al comma 7-bis e' adottato il provvedimento di espulsione ai sensi dell'articolo 13, comma 2. In presenza di accordi o intese bilaterali con altri Stati membri dell'Unione europea entrati in vigore in data anteriore al 13 gennaio 2009, l'allontanamento e' eseguito verso lo Stato membro che ha rilasciato il permesso di soggiorno o altra autorizzazione al soggiorno. Qualora sussistano i presupposti per l'adozione del provvedimento di espulsione ai sensi dell'articolo 13, comma 1, ovvero dell'articolo 3, comma 1, del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, il provvedimento di espulsione e' adottato sentito lo Stato membro che ha rilasciato il permesso di soggiorno o altra autorizzazione e l'allontanamento e' eseguito con destinazione fuori del territorio dell'Unione europea.
 
 E' autorizzata la riammissione nel territorio nazionale dello straniero espulso da altro Stato membro dell'Unione europea, in possesso di un permesso di soggiorno o di altra autorizzazione che conferisca il diritto di soggiornare rilasciati dall'Italia e in corso di validita', a condizione che non costituisca un pericolo per l'ordine pubblico o la sicurezza dello Stato.
+
+8.
+                        
+                            
+                                Il permesso di soggiorno e la carta di soggiorno di cui all'articolo 9 sono rilasciati mediante utilizzo di mezzi a tecnologia avanzata con caratteristiche anticontraffazione conformi ai modelli da approvare con decreto del Ministro dell'interno, di concerto con il Ministro per l'innovazione e le tecnologie, in attuazione del regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, riguardante l'adozione di un modello uniforme per i permessi di soggiorno rilasciati a cittadini di Paesi terzi. Il permesso di soggiorno e la carta di soggiorno rilasciati in conformita' ai predetti modelli recano inoltre i dati personali previsti, per la carta di identita' e gli altri documenti elettronici, dall'articolo 36 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. 
+ 8.1. Nel permesso di soggiorno che autorizza l'esercizio di attivita' lavorativa secondo le norme del presente testo unico e del regolamento di attuazione e' inserita la dicitura: "perm. unico lavoro" ((e sono indicate le informazioni conformemente alla lettera a), punti 12 e 16, dell'allegato di cui al regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002)). ((Si applicano comunque le disposizioni di cui ai commi 2-ter e 9-bis.))
+                                    ((122)) 
+ 8.1-bis. ((In deroga a quanto previsto dai commi 9 e 9-bis, il permesso unico e' rilasciato dal questore entro il termine di trenta giorni dal completamento della domanda.))
+                                    ((122)) 
+ 8.2. La disposizione di cui al comma 8.1 non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli stranieri di cui agli articoli 9 e 9-ter; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli stranieri di cui all'articolo 24; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli stranieri di cui ((agli articoli 26 e 26-bis)); ((122))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((agli stranieri di cui all'articolo 27, commi 1, lettere a), h), i), i-bis) e q-bis), r) limitatamente alle persone collocate "alla pari", 1-quinquies e 1-septies;))
+                                        ((122))
+                                    
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((agli stranieri di cui agli articoli 27-quinquies e 27-sexies;))
+                                        ((122))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((agli stranieri che soggiornano a titolo di protezione temporanea conformemente alla direttiva 2001/55/CE del Consiglio, del 20 luglio 2001, ovvero hanno chiesto l'autorizzazione al soggiorno a tale titolo e sono in attesa di una decisione sul loro stato;))
+                                        ((122))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    agli stranieri che soggiornano a titolo di protezione internazionale come definita dall'articolo 2, comma 1, lettera a), del decreto legislativo 19 novembre 2007, n. 251, ovvero hanno chiesto il riconoscimento della protezione e sono in attesa di una decisione su tale richiesta; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    agli stranieri che soggiornano per motivi di studio o formazione ((di cui agli articoli 39, 39-bis e 39-bis.1)). ((122))
+                                    
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    agli stranieri di cui all'articolo 42-bis. 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    
+                                        ((agli stranieri che soggiornano ai sensi degli articoli 18, 18-bis, 18-ter, o a titolo di protezione speciale o ai sensi degli articoli 19, comma 2, lettera d-bis), 20-bis, 31, comma 3, e 36, nonche' per motivi religiosi, per acquisto della cittadinanza o dello stato di apolide, di cui all'articolo 11, comma 1, lettera c), del decreto del Presidente della Repubblica 31 agosto 1999, n. 394, o per residenza elettiva, ovvero hanno richiesto il permesso di soggiorno per uno di tali titoli e sono in attesa di una decisione sulla richiesta.))
+                                        ((122))
 
 Chiunque contraffa' o altera un visto di ingresso o reingresso, la comunicazione del rilascio di un'autorizzazione ai viaggi, una proroga del visto, un permesso di soggiorno, un contratto di soggiorno o una carta di soggiorno, ovvero contraffa' o altera documenti al fine di determinare il rilascio di un visto di ingresso o di reingresso, di un'autorizzazione ai viaggi, della proroga del visto, di un permesso di soggiorno, di un contratto di soggiorno o di una carta di soggiorno oppure utilizza uno di tali documenti contraffatti o alterati, e' punito con la reclusione da uno a sei anni. Se la falsita' concerne un atto o parte di un atto che faccia fede fino a querela di falso la reclusione e' da tre a dieci anni. La pena e' aumentata se il fatto e' commesso da un pubblico ufficiale. (91)
 
@@ -273,6 +474,24 @@ In attesa del rilascio, del rinnovo o della conversione del permesso di soggiorn
 
 ## Art. 5-bis. — (Contratto di soggiorno per lavoro subordinato)
 
+1.
+                        
+                            
+                                Il contratto di soggiorno per lavoro subordinato stipulato fra un datore di lavoro italiano o straniero regolarmente soggiornante in Italia e un prestatore di lavoro, cittadino di uno Stato non appartenente all'Unione europea o apolide, contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la garanzia da parte del datore di lavoro della disponibilita' di un alloggio per il lavoratore che rientri nei parametri minimi previsti ((dal decreto del Ministro per la sanita' 5 luglio 1975, pubblicato nella Gazzetta Ufficiale n. 190 del 18 luglio 1975. Resta fermo quanto previsto dall'articolo 22, comma 2, lettera b), del presente testo unico per le ipotesi ivi richiamate)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impegno al pagamento da parte del datore di lavoro delle spese di viaggio per il rientro del lavoratore nel Paese di provenienza.
+
 Non costituisce titolo valido per il rilascio del permesso di soggiorno il contratto che non contenga le dichiarazioni di cui alle lettere a) e b) del comma 1.
 
 COMMA ABROGATO DAL D.L. 11 OTTOBRE 2024, N. 145. (104)
@@ -287,6 +506,73 @@ COMMA ABROGATO DAL D.L. 11 OTTOBRE 2024, N. 145. (104)
  r.d. 18 giugno 1931, n. 773, artt. 144, comma 2 e 148)
 
 Il permesso di soggiorno rilasciato per motivi di lavoro subordinato, lavoro autonomo e familiari puo' essere utilizzato anche per le altre attivita' consentite. Quello rilasciato per motivi di studio e formazione puo' essere convertito, al di fuori delle quote di cui all'articolo 3, comma 4, comunque prima della sua scadenza, e previa stipula del contratto di soggiorno per lavoro ovvero previo rilascio della certificazione attestante la sussistenza dei requisiti previsti dall'articolo 26, in permesso di soggiorno per motivi di lavoro ((...)).
+
+1-bis.
+                        
+                            
+                                Sono convertibili in permesso di soggiorno per motivi di lavoro, ove ne ricorrano i requisiti, i seguenti permessi di soggiorno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DAL D.L. 10 MARZO 2023, N. 20, CONVERTITO CON MODIFICAZIONI DALLA L. 5 MAGGIO 2023, N. 50; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.L. 10 MARZO 2023, N. 20, CONVERTITO CON MODIFICAZIONI DALLA L. 5 MAGGIO 2023, N. 50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    permesso di soggiorno per residenza elettiva, di cui all'articolo 11, comma 1, lettera c-quater), del decreto del Presidente della Repubblica 31 agosto 1999, n. 394; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    permesso di soggiorno per acquisto della cittadinanza o dello stato di apolide, di cui all'articolo 11, comma 1, lettera c), del decreto del Presidente della Repubblica 31 agosto 1999, n. 394, ad eccezione dei casi in cui lo straniero era precedentemente in possesso di un permesso per richiesta di asilo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    permesso di soggiorno per attivita' sportiva, di cui all'articolo 27, comma 1, lettera p); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    permesso di soggiorno per lavoro di tipo artistico, di cui all'articolo 27, comma 1, lettere m), n) ed o); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    permesso di soggiorno per motivi religiosi, di cui all'articolo 5, comma 2; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    permesso di soggiorno per assistenza di minori, di cui all'articolo 31, comma 3. 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    LETTERA ABROGATA DAL D.L. 10 MARZO 2023, N. 20, CONVERTITO CON MODIFICAZIONI DALLA L. 5 MAGGIO 2023, N. 50.
 
 Fatta eccezione per i provvedimenti riguardanti attivita' sportive e ricreative a carattere temporaneo , per quelli inerenti all'accesso alle prestazioni sanitarie di cui all'articolo 35 e per quelli attinenti alle prestazioni scolastiche obbligatorie, i documenti inerenti al soggiorno di cui all'articolo 5, comma 8, devono essere esibiti agli uffici della pubblica amministrazione ai fini del rilascio di licenze, autorizzazioni, iscrizioni ed altri provvedimenti di interesse dello straniero comunque denominati.
 
@@ -337,6 +623,39 @@ Il rilascio del permesso di soggiorno UE per soggiornanti di lungo periodo e' su
 
 La disposizione di cui al comma 2-bis non si applica allo straniero titolare di protezione internazionale.
 
+3.
+                        
+                            
+                                La disposizione di cui al comma 1 non si applica agli stranieri che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    soggiornano per motivi di studio o formazione professionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soggiornano a titolo di protezione temporanea, per cure mediche o sono titolari dei permessi di soggiorno di cui agli articoli 18, 18-bis, 20-bis, 22, comma 12-quater, e 42-bis nonche' del permesso di soggiorno rilasciato ai sensi dell'articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25. ovvero hanno chiesto il permesso di soggiorno a tale titolo e sono in attesa di una decisione su tale richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    hanno chiesto la protezione internazionale come definita dall'articolo 2, comma 1, lettera a), del decreto legislativo 19 novembre 2007, n. 251 e sono ancora in attesa di una decisione definitiva circa tale richiesta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono titolari di un permesso di soggiorno di breve durata previsto dal presente testo unico e dal regolamento di attuazione; 
+ e)godono di uno status giuridico previsto dalla convenzione di Vienna del 1961 sulle relazioni diplomatiche, dalla convenzione di Vienna del 1963 sulle relazioni consolari, dalla convenzione del 1969 sulle missioni speciali o dalla convenzione di Vienna del 1975 sulla rappresentanza degli Stati nelle loro relazioni con organizzazioni internazionali di carattere universale.
+
 Il permesso di soggiorno UE per soggiornanti di lungo periodo non puo' essere rilasciato agli stranieri pericolosi per l'ordine pubblico o la sicurezza dello Stato. Nel valutare la pericolosita' si tiene conto anche dell'appartenenza dello straniero ad una delle categorie indicate negli articoli 1, 4 ((e 16 del codice delle leggi antimafia e delle misure di prevenzione, di cui al)) decreto legislativo 6 settembre 2011, ((n. 159)), ovvero di eventuali condanne anche non definitive, per i reati previsti dall'articolo 380 del codice di procedura penale, nonche', limitatamente ai delitti non colposi, dall'articolo 381 del medesimo codice. Ai fini dell'adozione di un provvedimento di diniego di rilascio del permesso di soggiorno di cui al presente comma il questore tiene conto altresi' della durata del soggiorno nel territorio nazionale e dell'inserimento sociale, familiare e lavorativo dello straniero.
 
 Salvo i casi di cui ai commi 4 e 7, il permesso di soggiorno UE per soggiornanti di lungo periodo di cui al comma 1-bis e' rifiutato ovvero revocato nei casi di revoca o cessazione dello status di rifugiato o di protezione sussidiaria previsti dagli articoli 9, 13, 15 e 18 del decreto legislativo 19 novembre 2007, n. 251. Nei casi di cessazione di cui agli articoli 9 e 15 del medesimo decreto legislativo, allo straniero e' rilasciato un permesso di soggiorno UE per soggiornanti di lungo periodo, aggiornato con la cancellazione dell'annotazione di cui al comma 1-bis ovvero un permesso di soggiorno ad altro titolo in presenza dei requisiti previsti dal presente testo unico.
@@ -346,6 +665,45 @@ Ai fini del calcolo del periodo di cui al comma 1, non si computano i periodi di
 Il calcolo del periodo di soggiorno di cui al comma 1, per il rilascio del permesso di soggiorno UE per soggiornanti di lungo periodo di cui al comma 1-bis, e' effettuato a partire dalla data di presentazione della domanda di protezione internazionale in base alla quale la protezione internazionale e' stata riconosciuta.
 
 Le assenze dello straniero dal territorio nazionale non interrompono la durata del periodo di cui al comma 1 e sono incluse nel computo del medesimo periodo quando sono inferiori a sei mesi consecutivi e non superano complessivamente dieci mesi nel quinquennio, salvo che detta interruzione sia dipesa dalla necessita' di adempiere agli obblighi militari, da gravi e documentati motivi di salute ovvero da altri gravi e comprovati motivi.
+
+7.
+                        
+                            
+                                Il permesso di soggiorno di cui al comma 1 e' revocato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se e' stato acquisito fraudolentemente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di espulsione, di cui al comma 10; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando mancano o vengano a mancare le condizioni per il rilascio, di cui al comma 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di assenza dal territorio dell'Unione per un periodo di dodici mesi consecutivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in caso di conferimento di permesso di soggiorno di lungo periodo da parte di altro Stato membro dell'Unione europea, previa comunicazione da parte di quest'ultimo, e comunque in caso di assenza dal territorio dello Stato per un periodo superiore a sei anni.
 
 Lo straniero al quale e' stato revocato il permesso di soggiorno ai sensi delle lettere d) ed e) del comma 7, puo' riacquistarlo, con le stesse modalita' di cui al presente articolo. In tal caso, il periodo di cui al comma 1, e' ridotto a tre anni.
 
@@ -358,6 +716,38 @@ L'espulsione del rifugiato o dello straniero ammesso alla protezione sussidiaria
 Ai fini dell'adozione del provvedimento di espulsione di cui al comma 10, si tiene conto anche dell'eta' dell'interessato, della durata del soggiorno sul territorio nazionale, delle conseguenze dell'espulsione per l'interessato e i suoi familiari, dell'esistenza di legami familiari e sociali nel territorio nazionale e dell'assenza di tali vincoli con il Paese di origine.
 
 Nei confronti dello straniero, il cui permesso di soggiorno UE per soggiornanti di lungo periodo riporta l'annotazione relativa alla titolarita' di protezione internazionale, e dei suoi familiari, l'allontanamento e' effettuato verso lo Stato membro che ha riconosciuto la protezione internazionale, previa conferma da parte di tale Stato della attualita' della protezione. Nel caso ricorrano i presupposti di cui all'articolo 20 del decreto legislativo 19 novembre 2007, n. 251, l'allontanamento puo' essere effettuato fuori dal territorio dell'Unione europea, sentito lo Stato membro che ha riconosciuto la protezione internazionale, fermo restando il rispetto del principio di cui all'articolo 19, comma 1.
+
+12.
+                        
+                            
+                                Oltre a quanto previsto per lo straniero regolarmente soggiornante nel territorio dello Stato, il titolare del permesso di soggiorno UE per soggiornanti di lungo periodo puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    fare ingresso nel territorio nazionale in esenzione di visto e circolare liberamente sul territorio nazionale salvo quanto previsto dall'articolo 6, comma 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolgere nel territorio dello Stato ogni attivita' lavorativa subordinata o autonoma salvo quelle che la legge espressamente riserva al cittadino o vieta allo straniero. Per lo svolgimento di attivita' di lavoro subordinato non e' richiesta la stipula del contratto di soggiorno di cui all'articolo 5-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    usufruire delle prestazioni di assistenza sociale, di previdenza sociale, di quelle relative ad erogazioni in materia sanitaria, scolastica e sociale, di quelle relative all'accesso a beni e servizi a disposizione del pubblico, compreso l'accesso alla procedura per l'ottenimento di alloggi di edilizia residenziale pubblica, salvo che sia diversamente disposto e sempre che sia dimostrata l'effettiva residenza dello straniero sul territorio nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    partecipare alla vita pubblica locale, con le forme e nei limiti previsti dalla vigente normativa.
 
 E' autorizzata la riammissione sul territorio nazionale dello straniero espulso da altro Stato membro dell'Unione europea titolare del permesso di soggiorno UE per soggiornanti di lungo periodo di cui al comma 1 che non costituisce un pericolo per l'ordine pubblico e la sicurezza dello Stato.
 
@@ -375,6 +765,31 @@ E' autorizzata, altresi', la riammissione sul territorio nazionale dello stranie
 ## Art. 9-bis.
 
 Stranieri in possesso di un permesso di soggiorno UE per soggiornanti di lungo periodo rilasciato da altro Stato membro
+
+1.
+                        
+                            
+                                Lo straniero, titolare di un permesso di soggiorno UE per soggiornanti di lungo periodo rilasciato da altro Stato membro dell'Unione europea e in corso di validita', puo' chiedere di soggiornare sul territorio nazionale per un periodo superiore a tre mesi, al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercitare un'attivita' economica in qualita' di lavoratore subordinato o autonomo, ai sensi degli articoli 5, comma 3-bis, 22 e 26, al di fuori delle quote di cui all'articolo 3, comma 4. Le certificazioni di cui all'articolo 26 sono rilasciate dallo Sportello unico per l'immigrazione; ((104))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    frequentare corsi di studio o di formazione professionale, ai sensi della vigente normativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soggiornare per altro scopo lecito previa dimostrazione di essere in possesso di mezzi di sussistenza non occasionali, di importo superiore al doppio dell'importo minimo previsto dalla legge per l'esenzione dalla partecipazione alla spesa sanitaria e di una assicurazione sanitaria per il periodo del soggiorno.
 
 Allo straniero di cui al comma 1 e' rilasciato un permesso di soggiorno secondo le modalita' previste dal presente testo unico e dal regolamento di attuazione.
 
@@ -404,6 +819,24 @@ Entro trenta giorni dal riconoscimento della protezione internazionale ovvero da
 
 Lo straniero titolare di Carta blu UE rilasciata da un altro Stato membro ed autorizzato al soggiorno in Italia alle condizioni previste dall'articolo 27-quater, puo' chiedere al Questore il rilascio del ((permesso di soggiorno UE per soggiornanti di lungo periodo)), di cui all'articolo 9.
 
+2.
+                        
+                            
+                                La disposizione di cui al comma 1 si applica agli stranieri che dimostrino: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di aver soggiornato, legalmente ed ininterrottamente, per cinque anni nel territorio dell'Unione in quanto titolari di Carta blu UE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di essere in possesso, da almeno due anni, di un permesso Carta blu UE ai sensi dell'articolo 27-quater. Le assenze dello straniero dal territorio dell'Unione non interrompono la durata del periodo di cui al presente comma e sono incluse nel computo del medesimo periodo quando sono inferiori a dodici mesi consecutivi e non superano complessivamente i diciotto mesi nel periodo di cui alla lettera a).
+
 Ai titolari di Carta blu UE, in possesso dei requisiti previsti al comma 2, e' rilasciato dal questore un ((permesso di soggiorno UE per soggiornanti di lungo periodo)), recante la dicitura, nella rubrica 'annotazioni', 'Ex titolare di Carta blu UE'.
 
 Il permesso di soggiorno di cui al comma 1 e' revocato nelle ipotesi previste all'articolo 9, comma 7, lettere a), b), c) ed e), nonche' nel caso di assenza dal territorio dell'Unione per un periodo di ventiquattro mesi consecutivi.
@@ -422,6 +855,31 @@ La polizia di frontiera respinge gli stranieri che si presentano ai valichi di f
  1.2 ((Nei casi di cui al comma 1.1, ovvero in caso di trasferimento in altro Stato membro in virtu' di accordi o intese bilaterali o nell'ambito del quadro della cooperazione bilaterale qualora non e' convenuto il ricorso alla procedura di cui all'articolo 23-bis del regolamento (UE) 2016/399, gli accertamenti di cui all'articolo 8, paragrafo 5, del regolamento (UE) 2024/1356 non hanno luogo in attuazione dell'articolo 7, paragrafo 2, del medesimo regolamento. Si applicano comunque le disposizioni di cui all'articolo 10-ter.))
 
 Contro i provvedimenti di respingimento alla frontiera di applicazione immediata adottati ai sensi dei commi 1 e 1.1. e' ammesso ricorso al tribunale amministrativo regionale nella cui circoscrizione ha sede l'ufficio di polizia di frontiera che ha disposto il respingimento. La procura al difensore puo' essere rilasciata innanzi all'autorita' consolare italiana competente per territorio.
+
+2.
+                        
+                            
+                                Il respingimento con accompagnamento alla frontiera e' altresi' disposto dal questore nei confronti degli stranieri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che ((...)) sottraendosi ai controlli di frontiera, sono fermati all'ingresso o subito dopo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che, nelle circostanze di cui al comma 1, sono stati temporaneamente ammessi nel territorio per necessita' di pubblico soccorso; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    che, rintracciati, anche a seguito di operazioni di ricerca o soccorso in mare, nel corso delle attivita' di sorveglianza delle frontiere esterne dell'Unione europea, svolte ai sensi del regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, sono condotti nelle zone di cui ((all'articolo 54, paragrafo 3, del regolamento (UE) 2024/1348)).
 
 Al provvedimento di respingimento di cui al comma 2 si applicano le procedure di convalida e le disposizioni previste dall'articolo 13, commi 5-bis, 5-ter, 7 e 8.
 
@@ -552,7 +1010,64 @@ Se i fatti di cui al comma 1 sono commessi in violazione di un divieto, di un ob
 
 Fermo restando quanto previsto dall'articolo 54 del codice penale, non costituiscono reato le attivita' di soccorso e assistenza umanitaria prestate in Italia nei confronti degli stranieri in condizioni di bisogno comunque presenti nel territorio dello Stato.
 
+3.
+                        
+                            
+                                Salvo che il fatto costituisca piu' grave reato, chiunque, in violazione delle disposizioni del presente testo unico, promuove, dirige, organizza, finanzia o effettua il trasporto di stranieri nel territorio dello Stato ovvero compie altri atti diretti a procurarne illegalmente l'ingresso nel territorio dello Stato, ovvero di altro Stato del quale la persona non e' cittadina o non ha titolo di residenza permanente, e' punito con la reclusione da sei a sedici anni e con la multa di 15.000 euro per ogni persona nel caso in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fatto riguarda l'ingresso o la permanenza illegale nel territorio dello Stato di cinque o piu' persone; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la persona trasportata e' stata esposta a pericolo per la sua vita o per la sua incolumita' per procurarne l'ingresso o la permanenza illegale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la persona trasportata e' stata sottoposta a trattamento inumano o degradante per procurarne l'ingresso o la permanenza illegale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il fatto e' commesso da tre o piu' persone in concorso tra loro o utilizzando servizi internazionali di trasporto ovvero documenti contraffatti o alterati o comunque illegalmente ottenuti; (83) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli autori del fatto hanno la disponibilita' di armi o materie esplodenti.
+
 Se i fatti di cui al comma 3 sono commessi ricorrendo due o piu' delle ipotesi di cui alle lettere a), b), c), d) ed e) del medesimo comma, la pena ivi prevista e' aumentata.
+
+3-ter.
+                        
+                            
+                                La pena detentiva e' aumentata da un terzo alla meta' e si applica la multa di 25.000 euro per ogni persona se i fatti di cui ai commi 1 e 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono commessi al fine di reclutare persone da destinare alla prostituzione o comunque allo sfruttamento sessuale o lavorativo ovvero riguardano l'ingresso di minori da impiegare in attivita' illecite al fine di favorirne lo sfruttamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono commessi al fine di trame profitto, anche indiretto.
 
 Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114 del codice penale, concorrenti con le aggravanti di cui ai commi 3-bis e 3-ter, non possono essere ritenute equivalenti o prevalenti rispetto a queste e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti.
 
@@ -637,6 +1152,31 @@ Fermo quanto disposto dall'articolo 6 del codice penale, se la condotta e' diret
 
 Per motivi di ordine pubblico o di sicurezza dello Stato, il Ministro dell'interno puo' disporre l'espulsione dello straniero anche non residente nel territorio dello Stato, dandone preventiva notizia al Presidente del Consiglio dei ministri e al Ministro degli affari esteri.
 
+2.
+                        
+                            
+                                L'espulsione e' disposta dal prefetto, caso per caso, quando lo straniero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' entrato nel territorio dello Stato sottraendosi ai controlli di frontiera e non e' stato respinto ai sensi dell'articolo 10; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si e' trattenuto nel territorio dello Stato in assenza della comunicazione di cui all'articolo 27, comma 1-bis, o senza avere richiesto la proroga del visto o il permesso di soggiorno nel termine prescritto, salvo che il ritardo sia dipeso da forza maggiore, ovvero quando la proroga del visto o il permesso di soggiorno siano stati revocati o annullati o rifiutati ovvero quando il permesso di soggiorno sia scaduto da piu' di sessanta giorni e non ne e' stato chiesto il rinnovo ovvero se lo straniero si e' trattenuto sul territorio dello Stato in violazione dell'articolo 1, comma 3, della legge 28 maggio 2007, n. 68, ovvero quando l'autorizzazione ai viaggi e' stata annullata o revocata ovvero se lo straniero e' un soggiornante fuori termine ai sensi dell'articolo 3, paragrafo 1, punto 19), del regolamento (UE) 2017/2226, del Parlamento europeo e del Consiglio, del 30 novembre 2017, o nel caso in cui sia scaduta la validita' della proroga del visto; (76) (91) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    appartiene a taluna delle categorie indicate negli articoli 1, 4 e 16, del decreto legislativo 6 settembre 2011, n. 159.
+
 Nell'adottare il provvedimento di espulsione ai sensi del comma 2, lettere a) e b), nei confronti dello straniero che ha esercitato il diritto al ricongiungimento familiare ovvero del familiare ricongiunto, ai sensi dell'articolo 29, si tiene anche conto della natura e della effettivita' dei vincoli familiari dell'interessato, della durata del suo soggiorno nel territorio nazionale nonche' dell'esistenza di legami familiari, culturali o sociali con il suo Paese d'origine.
 
 L'espulsione non e' disposta, ne' eseguita coattivamente qualora il provvedimento sia stato gia' adottato, nei confronti dello straniero identificato in uscita dal territorio nazionale durante i controlli di polizia alle frontiere esterne. In tali casi, lo straniero puo' essere destinatario di un divieto di reingresso nel territorio dello Stato e si applicano le disposizioni di cui ai commi 13 e 14-bis. Il divieto di cui al presente comma decorre dalla data di uscita dal territorio nazionale e opera per un periodo non inferiore a un anno e non superiore a tre anni.
@@ -661,6 +1201,189 @@ Se lo straniero espulso rientra illegalmente nel territorio dello Stato prima de
 COMMA ABROGATO DAL D.L. 27 LUGLIO 2005, N. 144, CONVERTITO CON MODIFICAZIONI DALLA L. 31 LUGLIO 2005, N. 155.
 
 Nei confronti dello straniero sottoposto alle pene della permanenza domiciliare o del lavoro di pubblica utilita' per i reati di cui all'articolo 10-bis o all'articolo 14, commi 5-ter e 5-quater, l'espulsione prevista dal presente articolo e' eseguita in ogni caso e i giorni residui di permanenza domiciliare o di lavoro di pubblica utilita' non eseguiti si convertono nella corrispondente pena pecuniaria secondo i criteri di ragguaglio indicati nei commi 2 e 6 dell'articolo 55 del decreto legislativo 28 agosto 2000, n. 274.
+
+4.
+                        
+                            
+                                L'espulsione e' eseguita dal questore con accompagnamento alla frontiera a mezzo della forza pubblica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle ipotesi di cui ai commi 1 e 2, lettera c), del presente articolo ovvero all'articolo 3, comma 1, del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando sussiste il rischio di fuga, di cui al comma 4-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando la domanda di permesso di soggiorno e' stata respinta in quanto manifestamente infondata o fraudolenta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualora, senza un giustificato motivo, lo straniero non abbia osservato il termine concesso per la partenza volontaria, di cui al comma 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quando lo straniero abbia violato anche una delle misure di cui al comma 5.2 e di cui all'articolo 14, comma 1-bis; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nelle ipotesi di cui agli articoli 15 e 16 e nelle altre ipotesi in cui sia stata disposta l'espulsione dello straniero come sanzione penale o come conseguenza di una sanzione penale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nell'ipotesi di cui al comma 5.1.
+
+4-bis.
+                        
+                            
+                                Si configura il rischio di fuga di cui al comma 4, lettera b), qualora ricorra almeno una delle seguenti circostanze da cui ((...)), caso per caso, ((e' accertato)) il pericolo che lo straniero possa sottrarsi alla volontaria esecuzione del provvedimento di espulsione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancato possesso del passaporto o di altro documento equipollente, in corso di validita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancanza di idonea documentazione atta a dimostrare la disponibilita' di un alloggio ove possa essere agevolmente rintracciato ((ovvero di un indirizzo affidabile)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avere in precedenza dichiarato o attestato falsamente le proprie generalita' ((, anche al solo fine di evitare l'adozione o l'esecuzione di un provvedimento di espulsione o di respingimento)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((il non avere ottemperato ad uno dei provvedimenti emessi dalla competente autorita', in applicazione dei commi 2-ter, 5, 13 e 13-bis, nonche' degli articoli 10, 10-ter e 14 e di quelli previsti dall'articolo 32, commi 4 e 4-bis, del decreto legislativo 28 gennaio 2008, n. 25;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    avere violato anche una delle misure di cui al comma 5.2 ((...))
+                                        ((nonche' dell'articolo 14 e di quelle previste dall'articolo 6-quater del decreto legislativo 18 agosto 2015, n. 142;))
+                                    
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    
+                                        ((l'aver rifiutato di sottoporsi al rilevamento fotodattiloscopico e segnaletico di cui al comma 3 dell'articolo 10-ter;))
+                                    
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    
+                                        ((l'essere inottemperante all'obbligo di collaborazione ai fini dell'identificazione di cui ai commi 2-bis o 2-quater, dell'articolo 10-ter;))
+                                    
+                                
+                            
+                            
+                                e-quater)
+                                
+                                    
+                                        ((la mancanza di collaborazione nell'ottenimento di un documento di identita' o di viaggio;))
+                                    
+                                
+                            
+                            
+                                e-quinquies)
+                                
+                                    
+                                        ((l'avere in precedenza tentato di eludere i controlli di frontiera;))
+                                    
+                                
+                            
+                            
+                                e-sexies)
+                                
+                                    
+                                        ((l'aver violato un divieto di ingresso o di reingresso;))
+                                    
+                                
+                            
+                            
+                                e-septies)
+                                
+                                    
+                                        ((la volonta' di non restare a disposizione delle autorita' e di raggiungere i territori di altri Stati membri desumibile da comportamenti concretamente assunti;))
+                                    
+                                
+                            
+                            
+                                e-octies)
+                                
+                                    
+                                        ((l'aver fornito nel corso degli accertamenti o in occasione della richiesta di protezione internazionale informazioni manifestamente tali da rallentare i controlli delle autorita' competenti;))
+                                    
+                                
+                            
+                            
+                                e-novies)
+                                
+                                    
+                                        ((il rifiuto espresso di aderire a programmi di rimpatrio volontario assistito o di reintegrazione per i quali lo straniero ha ricevuto la pertinente informazione.))
+
+5.
+                        
+                            
+                                Lo straniero, destinatario di un provvedimento d'espulsione, qualora non ricorrano le condizioni per l'accompagnamento immediato alla frontiera di cui al comma 4, puo' chiedere al prefetto, ai fini dell'esecuzione dell'espulsione, la concessione di un periodo per la partenza volontaria, anche attraverso programmi di rimpatrio volontario ed assistito, di cui all'articolo 14-ter. Il prefetto, valutato il singolo caso, con lo stesso provvedimento di espulsione, intima lo straniero a lasciare volontariamente il territorio nazionale, entro un termine compreso tra 7 e 30 giorni. Tale termine puo' essere prorogato, ove necessario, per un periodo congruo, commisurato alle circostanze specifiche del caso individuale, quali la durata del soggiorno nel territorio nazionale, l'esistenza di minori che frequentano la scuola ovvero di altri legami familiari e sociali, nonche' l'ammissione a programmi di rimpatrio volontario ed assistito, di cui all'articolo 14-ter. La questura, acquisita la prova dell'avvenuto rimpatrio dello straniero,avvisa l'autorita' giudiziaria competente per l'accertamento del reato previsto dall'articolo 10-bis, ai fini di cui al comma 5 del medesimo articolo. Le disposizioni del presente comma non si applicano, comunque, allo straniero destinatario di un provvedimento di respingimento, di cui all'articolo 10. 
+ 5.1. Ai fini dell'applicazione del comma 5, la questura provvede a dare adeguata informazione allo straniero della facolta' di richiedere un termine per la partenza volontaria, mediante schede informative plurilingue. In caso di mancata richiesta del termine, l'espulsione e' eseguita ai sensi del comma 4. 
+ 5.2. Laddove sia concesso un termine per la partenza volontaria, il questore chiede allo straniero di dimostrare la disponibilita' di risorse economiche sufficienti derivanti da fonti lecite, per un importo proporzionato al termine concesso, compreso tra una e tre mensilita' dell'assegno sociale annuo. Il questore dispone, altresi', una o piu' delle seguenti misure: 
+                            
+                            
+                                a)
+                                
+                                    consegna del passaporto o altro documento equipollente in corso di validita', da restituire al momento della partenza;
+                                
+                            
+                            
+                                b)
+                                
+                                    obbligo di dimora in un luogo preventivamente individuato, dove possa essere agevolmente rintracciato;
+                                
+                            
+                            
+                                c)
+                                
+                                    obbligo di presentazione, in giorni ed orari stabiliti, presso un ufficio della forza pubblica territorialmente competente. Le misure di cui al secondo periodo sono adottate con provvedimento motivato, che ha effetto dalla notifica all'interessato, disposta ai sensi dell'articolo 3, commi 3 e 4 del regolamento, recante l'avviso che lo stesso ha facolta' di presentare personalmente o a mezzo di difensore memorie o deduzioni al giudice della convalida. Il provvedimento e' comunicato entro 48 ore dalla notifica al giudice di pace competente per territorio. Il giudice, se ne ricorrono i presupposti, dispone con decreto la convalida nelle successive 48 ore. Le misure, su istanza dell'interessato, sentito il questore, possono essere modificate o revocate dal giudice di pace.
+Il contravventore anche solo ad una delle predette misure e' punito con la multa da 3.000 a 18.000 euro. In tale ipotesi, ai fini dell'espulsione dello straniero, non e' richiesto il rilascio del nulla osta di cui al comma 3 da parte dell'autorita' giudiziaria competente all'accertamento del reato. Il questore esegue l'espulsione, disposta ai sensi del comma 4, anche mediante le modalita' previste all'articolo 14.
 
 Nei casi previsti al comma 4, ad eccezione della lettera f), il questore comunica immediatamente e, comunque, entro quarantotto ore dalla sua adozione, al giudice di pace territorialmente competente il provvedimento con il quale e' disposto l'accompagnamento alla frontiera. L'esecuzione del provvedimento del questore di allontanamento dal territorio nazionale e' sospesa fino alla decisione sulla convalida. L'udienza per la convalida si svolge in camera di consiglio con la partecipazione necessaria di un difensore tempestivamente avvertito. L'interessato e' anch'esso tempestivamente informato e condotto nel luogo in cui il giudice tiene l'udienza. Lo straniero e' ammesso all'assistenza legale da parte di un difensore di fiducia munito di procura speciale. Lo straniero e' altresi' ammesso al gratuito patrocinio a spese dello Stato, e, qualora sia sprovvisto di un difensore, e' assistito da un difensore designato dal giudice nell'ambito dei soggetti iscritti nella tabella di cui all'articolo 29 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271, nonche', ove necessario, da un interprete. L'autorita' che ha adottato il provvedimento puo' stare in giudizio personalmente anche avvalendosi di funzionari appositamente delegati. Il giudice provvede alla convalida, con decreto motivato, entro le quarantotto ore successive, verificata l'osservanza dei termini, la sussistenza dei requisiti previsti dal presente articolo e sentito l'interessato, se comparso. In attesa della definizione del procedimento di convalida, lo straniero espulso e' trattenuto in uno dei centri di identificazione ed espulsione, di cui all'articolo 14, salvo che il procedimento possa essere definito nel luogo in cui e' stato adottato il provvedimento di allontanamento anche prima del trasferimento in uno dei centri disponibili, ovvero salvo nel caso in cui non vi sia disponibilita' di posti nei Centri di cui all'articolo 14 ubicati nel circondario del Tribunale competente. In tale ultima ipotesi il giudice di pace, su richiesta del questore, con il decreto di fissazione dell'udienza di convalida, puo' autorizzare la temporanea permanenza dello straniero, sino alla definizione del procedimento di convalida in strutture diverse e idonee nella disponibilita' dell'Autorita' di pubblica sicurezza.
 Qualora le condizioni di cui al periodo precedente permangono anche dopo l'udienza di convalida, il giudice puo' autorizzare la permanenza, in locali idonei presso l'ufficio di frontiera interessato, sino all'esecuzione dell'effettivo allontanamento e comunque non oltre le quarantotto ore successive all'udienza di convalida. Le strutture ed i locali di cui ai periodi precedenti garantiscono condizioni di trattenimento che assicurino il rispetto della dignita' della persona. Si applicano le disposizioni di cui all'articolo 14, comma 2. Quando la convalida e' concessa, il provvedimento di accompagnamento alla frontiera diventa esecutivo. Se la convalida non e' concessa ovvero non e' osservato il termine per la decisione, il provvedimento del questore perde ogni effetto.
@@ -751,6 +1474,29 @@ L'onere derivante dal comma 10 del presente articolo e' valutato in lire 4 milia
 Quando non e' possibile eseguire con immediatezza l'espulsione mediante accompagnamento alla frontiera o il respingimento, a causa di situazioni transitorie che ostacolano la preparazione del rimpatrio o l'effettuazione dell'allontanamento, il questore dispone che lo straniero sia trattenuto per il tempo strettamente necessario presso il centro di permanenza per i rimpatri piu' vicino, tra quelli individuati o costituiti con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze. A tal fine effettua richiesta di assegnazione del posto alla Direzione centrale dell'immigrazione e della polizia delle frontiere del Dipartimento della pubblica sicurezza del Ministero dell'interno, di cui all'articolo 35 della legge 30 luglio 2002, n. 189, che puo' disporre anche il trasferimento dello straniero in altro centro. Tra le situazioni che legittimano il trattenimento rientrano, oltre a quelle indicate all'articolo 13, comma 4-bis, anche quelle riconducibili alla necessita' di prestare soccorso allo straniero o di effettuare accertamenti supplementari in ordine alla sua identita' o nazionalita' ovvero di acquisire i documenti per il viaggio o la disponibilita' di un mezzo di trasporto idoneo. 
  1.1. Il trattenimento dello straniero di cui non e' possibile eseguire con immediatezza l'espulsione o il respingimento alla frontiera e' disposto con priorita' per coloro che siano considerati una minaccia per l'ordine e la sicurezza pubblica o che siano stati condannati, anche con sentenza non definitiva, per i reati di cui all'articolo 4, comma 3, terzo periodo, e all'articolo 5, comma 5-bis, nonche' per coloro che siano cittadini di Paesi terzi con i quali sono vigenti accordi di cooperazione o altre intese in materia di rimpatrio, o che provengano da essi. 
  1.2. Lo straniero che e' trattenuto ha l'obbligo di cooperare ai fini dell'accertamento dell'identita' e di esibire o produrre gli elementi in suo possesso, relativi all'eta', all'identita' e alla cittadinanza, nonche' ai Paesi in cui ha soggiornato o e' transitato, consentendo, quando e' necessario per acquisire i predetti elementi, l'accesso ai dispositivi o supporti elettronici o digitali in suo possesso. Si applicano le disposizioni di cui all'articolo 10-ter, comma 2-ter.
+
+1-bis.
+                        
+                            
+                                Nei casi in cui lo straniero e' in possesso di passaporto o altro documento equipollente in corso di validita' e l'espulsione non e' stata disposta ai sensi dell'articolo 9, comma 10, e dell'articolo 13, commi 1 e 2, lettera c), del presente testo unico o ai sensi dell'articolo 3, comma 1, del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, il questore, in luogo del trattenimento di cui al comma 1, puo' disporre una o piu' delle seguenti misure: 
+                            
+                            
+                                a)
+                                
+                                    consegna del passaporto o altro documento equipollente in corso di validita', da restituire al momento della partenza;
+                                
+                            
+                            
+                                b)
+                                
+                                    obbligo di dimora in un luogo preventivamente individuato, dove possa essere agevolmente rintracciato;
+                                
+                            
+                            
+                                c)
+                                
+                                    obbligo di presentazione, in giorni ed orari stabiliti, presso un ufficio della forza pubblica territorialmente competente. Le misure di cui al primo periodo sono adottate con provvedimento motivato, che ha effetto dalla notifica all'interessato, disposta ai sensi dell'articolo 3, commi 3 e 4 del regolamento, recante l'avviso che lo stesso ha facolta' di presentare personalmente o a mezzo di difensore memorie o deduzioni al giudice della convalida. Il provvedimento e' comunicato entro 48 ore dalla notifica al giudice di pace competente per territorio. Il giudice, se ne ricorrono i presupposti, dispone con decreto la convalida nelle successive 48 ore. Le misure, su istanza dell'interessato, sentito il questore, possono essere modificate o revocate dal giudice di pace.
+Il contravventore anche solo ad una delle predette misure e' punito con la multa da 3.000 a 18.000 euro. In tale ipotesi, ai fini dell'espulsione dello straniero non e' richiesto il rilascio del nulla osta di cui all'articolo 13, comma 3, da parte dell'autorita' giudiziaria competente all'accertamento del reato. Qualora non sia possibile l'accompagnamento immediato alla frontiera, con le modalita' di cui all'articolo 13, comma 3, il questore provvede ai sensi dei commi 1 o 5-bis del presente articolo.
 
 Lo straniero e' trattenuto nel centro, presso cui sono assicurati adeguati standard igienico-sanitari e abitativi, con modalita' tali da assicurare la necessaria informazione relativa al suo status, l'assistenza e il pieno rispetto della sua dignita', secondo quanto disposto dall'articolo 21, comma 8, del decreto del Presidente della Repubblica 31 agosto 1999, n. 394. Oltre a quanto previsto dall'articolo 2, comma 6, e' assicurata in ogni caso la liberta' di corrispondenza anche telefonica con l'esterno.
 
@@ -850,7 +1596,51 @@ Nel caso in cui lo straniero irregolarmente presente nel territorio e' ammesso a
 
 Nei confronti dello straniero che si sottrae al programma di rimpatrio, i provvedimenti di cui al comma 3 sono eseguiti dal questore con l'accompagnamento immediato alla frontiera, ai sensi dell'articolo 13, comma 4, anche con le modalita' previste dall'articolo 14.
 
+5.
+                        
+                            
+                                Le disposizioni del presente articolo non si applicano agli stranieri che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno gia' beneficiato dei programmi di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si trovano nelle condizioni di cui all'articolo 13, comma 4, lettere a) e f), ovvero non hanno ottemperato a uno dei provvedimenti emessi dalla competente autorita' in applicazione del medesimo articolo 13, comma 13; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano destinatari di un provvedimento di espulsione come sanzione penale o come conseguenza di una sanzione penale ovvero di un provvedimento di estradizione o di un mandato di arresto europeo o di un mandato di arresto da parte della Corte penale intenazionale.
+
 Gli stranieri ammessi ai programmi di rimpatrio di cui al comma 1 trattenuti nei Centri di identificazione ed espulsione rimangono nel Centro fino alla partenza, nei limiti della durata massima prevista dall'articolo 14, comma 5.
+
+7.
+                        
+                            
+                                Al finanziamento dei programmi di rimpatrio volontario assistito di cui al comma 1 si provvede nei limiti : 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle risorse disponibili del Fondo rimpatri, di cui all'articolo 14-bis, individuate annualmente con decreto del Ministro dell'interno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle risorse disponibili dei fondi europei destinati a tale scopo, secondo le relative modalita' di gestione. 
+ (38)
 
 -------------
                             AGGIORNAMENTO (38)
@@ -971,6 +1761,45 @@ In nessun caso puo' disporsi l'espulsione o il respingimento verso uno Stato in 
 
 In nessun caso puo' disporsi il respingimento alla frontiera di minori stranieri non accompagnati.
 
+2.
+                        
+                            
+                                Non e' consentita l'espulsione, salvo che nei casi previsti dall'articolo 13, comma 1, nei confronti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    degli stranieri minori di anni diciotto, salvo il diritto a seguire il genitore o l'affidatario espulsi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli stranieri in possesso della carta di soggiorno, salvo il disposto dell'articolo 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    degli stranieri conviventi con parenti entro il secondo grado o con il coniuge, di nazionalita' italiana; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle donne in stato di gravidanza o nei sei mesi successivi alla nascita del figlio cui provvedono. (2A) 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    degli stranieri che versano in ((condizioni di salute derivanti da patologie di particolare gravita', non adeguatamente curabili nel Paese di origine)), accertate mediante idonea documentazione rilasciata da una struttura sanitaria pubblica o da un medico convenzionato con il Servizio sanitario nazionale, tali da determinare un rilevante pregiudizio alla salute degli stessi, in caso di rientro nel Paese di origine o di provenienza. In tali ipotesi, il questore rilascia un permesso di soggiorno per cure mediche, per il tempo attestato dalla certificazione sanitaria, comunque non superiore ad un anno, rinnovabile finche' persistono le condizioni di cui al periodo precedente debitamente certificate, valido solo nel territorio nazionale ((...)). (80)
+
 Il respingimento o l'esecuzione dell'espulsione di persone affette da disabilita', degli anziani, dei minori, dei componenti di famiglie monoparentali con figli minori nonche' dei minori, ovvero delle vittime di gravi violenze psicologiche, fisiche o sessuali sono effettuate con modalita' compatibili con le singole situazioni personali, debitamente accertate.
 
 -------------
@@ -1038,6 +1867,53 @@ L'onere derivante dal presente articolo e' valutato in lire 350 milioni annui a 
 
 In ogni provincia e' istituito presso la prefettura-ufficio territoriale del Governo uno sportello unico per l'immigrazione, responsabile dell'intero procedimento relativo all'assunzione di lavoratori subordinati stranieri a tempo determinato ed indeterminato.
 
+2.
+                        
+                            
+                                Il datore di lavoro italiano o straniero regolarmente soggiornante in Italia che intende instaurare in Italia un rapporto di lavoro subordinato a tempo determinato o indeterminato con uno straniero residente all'estero deve trasmettere in via telematica, previa verifica, presso il centro per l'impiego competente, della indisponibilita' di un lavoratore presente sul territorio nazionale, idoneamente documentata, allo sportello unico per l'immigrazione della provincia di residenza ovvero di quella in cui ha sede legale l'impresa, ovvero di quella ove avra' luogo la prestazione lavorativa: (104) 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiesta nominativa di nulla osta al lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idonea documentazione relativa alle modalita' di sistemazione alloggiativa per il lavoratore straniero, sottoscritta mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata .Nell'ipotesi in cui l'alloggio sia rappresentato dai dormitori stabili del cantiere e' ammessa la presentazione di un'autocertificazione del datore di lavoro che attesti i requisiti di cui all'allegato XIII del decreto legislativo 9 aprile 2008, n. 81.
+Nell'ipotesi in cui l'alloggio sia rappresentato da una struttura alberghiera o struttura ricettiva comunque denominata, ai fini dell'idoneita' dell'alloggio e' sufficiente l'indicazione della struttura ospitante, ferme restando le eventuali responsabilita' a carico della medesima struttura in caso di mancata osservanza della normativa di settore;(104) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la proposta di contratto di soggiorno con specificazione delle relative condizioni, comprensiva dell'impegno al pagamento da parte dello stesso datore di lavoro delle spese di ritorno dello straniero nel Paese di provenienza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione di impegno a comunicare ogni variazione concernente il rapporto di lavoro; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    asseverazione di cui all'articolo 24-bis, comma 2, sottoscritta mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata; (104) 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    indicazione del domicilio digitale inserito in uno degli indici nazionali istituiti dagli articoli 6-bis e 6-quater del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82. (104)
+
 La previa verifica di cui al comma 2 si intende esperita con esito negativo se il centro per l'impiego non comunica la disponibilita' di lavoratori presenti sul territorio nazionale entro otto giorni dalla richiesta del datore di lavoro interessato all'assunzione di lavoratori stranieri residenti all'estero. (104) 
  
  2-bis.1. I datori di lavoro ovvero le organizzazioni dei datori di lavoro di cui all'articolo 24-bis, comma 3, che intendono presentare, nei giorni indicati nei decreti del Presidente del Consiglio dei ministri di cui all'articolo 3, comma 4, richiesta di nulla osta per lavoro subordinato, anche a carattere stagionale, per gli ingressi previsti dai medesimi decreti, procedono alla precompilazione dei moduli di domanda, tramite il portale informatico messo a disposizione dal Ministero dell'interno. Le amministrazioni effettuano i controlli sulla veridicita' delle dichiarazioni fornite dagli utenti contestualmente all'accesso alla precompilazione, secondo le modalita' e con gli effetti di cui all'articolo 71 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. L'Ispettorato nazionale del lavoro puo' effettuare, anche in via anticipata, le verifiche ispettive di competenza sui moduli di domanda precompilati, resi disponibili dal Ministero dell'interno, ai fini dell'eventuale esclusione dei datori di lavoro o delle organizzazioni dei datori di lavoro di cui all'articolo 24-bis, comma 3, dalla procedura informatica di presentazione della domanda nei giorni indicati nei decreti del Presidente del Consiglio dei ministri di cui all'articolo 3, comma 4. 
@@ -1055,6 +1931,31 @@ Lo sportello unico per l'immigrazione, nel complessivo termine massimo di sessan
  5.01. Il nulla osta e' rilasciato in ogni caso qualora, nel termine indicato al comma 5, non sono state acquisite dalla questura le informazioni relative agli elementi ostativi di cui al presente articolo. 
  
  5.1. Le istanze di nulla osta sono esaminate nei limiti numerici stabiliti con il decreto di cui all'articolo 3, comma 4. Le istanze eccedenti tali limiti possono essere esaminate nell'ambito delle quote che si rendono successivamente disponibili tra quelle stabilite con il medesimo decreto.
+
+5-bis.
+                        
+                            
+                                Il nulla osta al lavoro e' rifiutato se il datore di lavoro risulti condannato negli ultimi cinque anni, anche con sentenza non definitiva, compresa quella adottata a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    favoreggiamento dell'immigrazione clandestina verso l'Italia e dell'emigrazione clandestina dall'Italia verso altri Stati o per reati diretti al reclutamento di persone da destinare alla prostituzione o allo sfruttamento della prostituzione o di minori da impiegare in attivita' illecite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    intermediazione illecita e sfruttamento del lavoro ai sensi dell'articolo 603-bis del codice penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    reato previsto dal comma 12.
 
 Il nulla osta al lavoro e', altresi', rifiutato ovvero, nel caso sia stato rilasciato, e' revocato se i documenti presentati sono stati ottenuti mediante frode o sono stati falsificati o contraffatti ovvero qualora il contratto di soggiorno di cui all'articolo 5-bis, sottoscritto con le modalita' di cui al comma 6, non sia trasmesso allo sportello unico per l'immigrazione nel termine di cui al medesimo comma, salvo che il ritardo sia dipeso da cause di forza maggiore o comunque non imputabili al lavoratore. La revoca del nulla osta e' comunicata al Ministero degli affari esteri tramite i collegamenti telematici. (104)
 
@@ -1082,6 +1983,31 @@ Decorso il termine di cui al secondo periodo, trovano applicazione i requisiti r
 COMMA ABROGATO DAL D.LGS. 11 MAGGIO 2018, N.71.
 
 Il datore di lavoro che occupa alle proprie dipendenze lavoratori stranieri privi del permesso di soggiorno previsto dal presente articolo, ovvero il cui permesso sia scaduto e del quale non sia stato chiesto, nei termini di legge, il rinnovo, revocato o annullato, e' punito con la reclusione da sei mesi a tre anni e con la multa di 5000 euro per ogni lavoratore impiegato.
+
+12-bis.
+                        
+                            
+                                Le pene per il fatto previsto dal comma 12 sono aumentate da un terzo alla meta': 
+ 
+                            
+                            
+                                a)
+                                
+                                    se i lavoratori occupati sono in numero superiore a tre; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se i lavoratori occupati sono minori in eta' non lavorativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se i lavoratori occupati sono sottoposti alle altre condizioni lavorative di cui al terzo comma dell'articolo 603-bis del codice penale.
 
 Con la sentenza di condanna il giudice applica la sanzione amministrativa accessoria del pagamento del costo medio di rimpatrio del lavoratore straniero assunto illegalmente.
 
@@ -1114,6 +2040,31 @@ Le disposizioni di cui al presente articolo si applicano alle regioni a statuto 
 
 Nell'ambito di programmi approvati, anche su proposta delle regioni e delle province autonome, dal Ministero del lavoro e delle politiche sociali, dal Ministero dell'istruzione e del merito o dal Ministero dell'universita' e della ricerca e realizzati anche in collaborazione con le regioni, le province autonome e altri enti locali, organizzazioni nazionali degli imprenditori e datori di lavoro e dei lavoratori, nonche' organismi internazionali finalizzati al trasferimento dei lavoratori stranieri in Italia ed al loro inserimento nei settori produttivi del Paese, enti ed associazioni operanti nel settore dell'immigrazione da almeno tre anni, possono essere previste attivita' di istruzione e di formazione professionale e civico-linguistica nei Paesi di origine.
 
+2.
+                        
+                            
+                                L'attivita' di cui al comma 1 e' finalizzata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'inserimento lavorativo mirato nei settori produttivi italiani che operano all'interno dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'inserimento lavorativo mirato nei settori produttivi italiani che operano all'interno dei Paesi di origine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    allo sviluppo delle attivita' produttive o imprenditoriali autonome nei Paesi di origine.
+
 E' consentito, al di fuori delle quote di cui all'articolo 3, comma 4, con le procedure di cui all'articolo 22, l'ingresso e il soggiorno per lavoro subordinato allo straniero residente all'estero, all'apolide e al rifugiato riconosciuto dall'Alto Commissariato delle Nazioni Unite per i rifugiati o dalle autorita' competenti nei Paesi di primo asilo o di transito che completa le attivita' di istruzione e formazione di cui al comma 1, organizzate sulla base dei fabbisogni manifestati al Ministero del lavoro e delle politiche sociali dalle associazioni di categoria del settore produttivo interessato. Il nulla osta e' rilasciato senza il rispetto dei limiti numerici, quantitativi e qualitativi previsti ai commi 5 e 5.1 dell'articolo 22. La domanda di visto di ingresso e' presentata, a pena di decadenza, entro sei mesi dalla conclusione del corso ((...)). Al sopravvenuto accertamento degli elementi ostativi di cui all'articolo 22, anche a seguito dei controlli effettuati ai sensi dell'articolo 24-bis, comma 4, conseguono la revoca del nulla osta e del visto, la risoluzione di diritto del contratto di soggiorno, nonche' la revoca del permesso di soggiorno. Il Ministero del lavoro e delle politiche sociali adotta linee guida con le quali sono fissate le modalita' di predisposizione dei programmi di formazione professionale e civico-linguistica e individuati i criteri per la loro valutazione.
 Il Ministero del lavoro e delle politiche sociali comunica, entro sette giorni dall'inizio dei corsi, al Ministero dell'interno e al Ministero degli affari esteri e della cooperazione internazionale le generalita' dei partecipanti ((e dei datori di lavoro, ove conosciute)), per consentire l'espletamento dei controlli, da effettuarsi nel termine indicato dall'articolo 22, comma 5, e per verificare l'assenza degli elementi ostativi di cui all'articolo 22. ((Per le medesime finalita' di cui al sesto periodo, il Ministero del lavoro e delle politiche sociali comunica, al termine dei corsi, al Ministero dell'interno e al Ministero degli affari esteri e della cooperazione internazionale le generalita' dei datori di lavoro interessati all'assunzione dei partecipanti ai corsi, ove conosciute)). ((115))
 
@@ -1142,6 +2093,24 @@ Il nulla osta al lavoro stagionale viene rilasciato secondo le modalita' previst
 
 Il nulla osta al lavoro stagionale a piu' datori di lavoro che impiegano lo stesso lavoratore straniero per periodi di lavoro complessivamente compresi nei limiti temporali di cui al comma 7, deve essere unico, su richiesta, anche cumulativa, dei datori di lavoro, presentata contestualmente, ed e' rilasciato a ciascuno di essi. Si applicano le disposizioni di cui al comma 8.
 
+6.
+                        
+                            
+                                Qualora lo sportello unico per l'immigrazione, decorsi i venti giorni di cui al comma 2, non comunichi al datore di lavoro il proprio diniego, la richiesta si intende accolta, nel caso in cui ricorrono congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la richiesta riguarda uno straniero gia' autorizzato almeno una volta nei cinque anni precedenti a prestare lavoro stagionale presso lo stesso datore di lavoro richiedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il lavoratore e' stato regolarmente assunto dal datore di lavoro e ha rispettato le condizioni indicate nel precedente permesso di soggiorno.
+
 Dell'avvenuta sottoscrizione del contratto di soggiorno, ai sensi dell'articolo 22, comma 6, e' data comunicazione all'INPS, che iscrive il lavoratore stagionale d'ufficio alla piattaforma del sistema informativo per l'inclusione sociale e lavorativa (SIISL) di cui all'articolo 5 del decreto-legge 4 maggio 2023, n. 48, convertito, con modificazioni, dalla legge 3 luglio 2023, n. 85. (104)
 
 Il nulla osta al lavoro stagionale autorizza lo svolgimento di attivita' lavorativa sul territorio nazionale fino ad un massimo di nove mesi in un periodo di dodici mesi.
@@ -1154,11 +2123,100 @@ Il lavoratore stagionale, che ha svolto regolare attivita' lavorativa sul territ
 
 Il datore di lavoro dello straniero che si trova nelle condizioni di cui all'articolo 5, comma 3-ter, puo' richiedere allo sportello unico per l'immigrazione il rilascio del nulla osta al lavoro pluriennale. Lo sportello unico, accertati i requisiti di cui all'articolo 5, comma 3-ter, rilascia il nulla osta secondo le modalita' di cui al presente articolo. Sulla base del nulla osta triennale al lavoro stagionale, i visti di ingresso per le annualita' successive alla prima sono concessi dall'autorita' consolare, previa esibizione della proposta di contratto di soggiorno per lavoro stagionale, trasmessa al lavoratore interessato dal datore di lavoro, che provvede a trasmetterne copia allo sportello unico immigrazione competente. Entro((quindici giorni)) dalla data di ingresso del lavoratore straniero nel territorio nazionale, il datore di lavoro e il lavoratore straniero sottoscrivono, mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata, il contratto di soggiorno di cui all'articolo 5-bis. Il lavoratore puo' altresi' firmare il contratto in forma autografa. L'apposizione della firma digitale o altro tipo di firma elettronica qualificata del datore di lavoro sulla copia informatica del contratto firmato in forma autografa dal lavoratore costituisce dichiarazione ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, in ordine alla sottoscrizione autografa del lavoratore. Tale documento , nel termine di cui al quarto periodo, e' trasmesso in via telematica a cura del datore di lavoro allo sportello unico per l'immigrazione per gli adempimenti concernenti la richiesta di rilascio del permesso di soggiorno. La richiesta di assunzione, per le annualita' successive alla prima, puo' essere effettuata da un datore di lavoro anche diverso da quello che ha ottenuto il nullaosta triennale al lavoro stagionale. Il rilascio dei nulla osta pluriennali avviene nei limiti delle quote di ingresso per lavoro stagionale. (104)
 
+12.
+                        
+                            
+                                Fuori dei casi di cui all'articolo 22, commi 5-bis e 5-ter, il nulla osta al lavoro stagionale puo' essere rifiutato ovvero, nel caso sia stato rilasciato, puo' essere revocato quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il datore di lavoro e' stato oggetto di sanzioni a causa di lavoro irregolare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa del datore di lavoro e' stata liquidata per insolvenza o non e' svolta alcuna attivita' economica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il datore di lavoro non ha rispettato i propri obblighi giuridici in materia di previdenza sociale, tassazione, diritti dei lavoratori, condizioni di lavoro o di impiego, previsti dalla normativa nazionale o dai contratti collettivi applicabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei dodici mesi immediatamente precedenti la data della richiesta di assunzione dello straniero, il datore di lavoro ha effettuato licenziamenti al fine di creare un posto vacante che lo stesso datore di lavoro cerca di coprire mediante la richiesta di assunzione.
+
+13.
+                        
+                            
+                                Fuori dei casi di cui all'articolo 5, comma 5, il permesso di soggiorno non e' rilasciato o il suo rinnovo e' rifiutato ovvero, nel caso sia stato rilasciato, e' revocato quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' stato ottenuto in maniera fraudolenta o e' stato falsificato o contraffatto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    risulta che lo straniero non soddisfaceva o non soddisfa piu' le condizioni di ingresso e di soggiorno previste dal presente testo unico o se soggiorna per fini diversi da quelli per cui ha ottenuto il nulla osta ai sensi del presente articolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di cui al comma 12.
+
 Nei casi di revoca del nulla osta al lavoro stagionale di cui al comma 12, e di revoca del permesso di soggiorno per lavoro stagionale di cui al comma 13, lettera c), il datore di lavoro e' tenuto a versare al lavoratore un'indennita' per la cui determinazione si tiene conto delle retribuzioni dovute ai sensi del contratto collettivo nazionale e non corrisposte.
 
 Il datore di lavoro che occupa alle sue dipendenze, per lavori di carattere stagionale, uno o piu' stranieri privi del permesso di soggiorno per lavoro stagionale, ovvero il cui permesso sia scaduto, revocato o annullato, e' punito ai sensi dell'articolo 22, commi 12, 12-bis e 12-ter, e si applicano le disposizioni di cui ai commi 12-quater e 12-quinquies dell'articolo 22.
 
 Il datore di lavoro che, in violazione del comma 3, mette a disposizione del lavoratore straniero un alloggio privo di idoneita' alloggiativa o a un canone eccessivo rispetto alla qualita' dell'alloggio e alla retribuzione, ovvero trattiene l'importo del canone direttamente dalla retribuzione del lavoratore, e' punito con la sanzione amministrativa pecuniaria da 350 a 5.500 euro per ciascun lavoratore straniero. Il canone e' sempre eccessivo quando e' superiore ad un terzo della retribuzione.
+
+16.
+                        
+                            
+                                Le disposizioni del presente articolo non si applicano agli stranieri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che al momento della domanda risiedono nel territorio di uno Stato membro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che svolgono attivita' per conto di imprese stabilite in un altro Stato membro nell'ambito della prestazione di servizi ai sensi dall'articolo 56 TFUE, ivi compresi i cittadini di Paesi terzi distaccati da un'impresa stabilita in uno Stato membro nell'ambito della prestazione di servizi ai sensi della direttiva 96/71/CE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che sono familiari di cittadini dell'Unione che hanno esercitato il loro diritto alla libera circolazione nell'Unione, conformemente alla direttiva 2004/38/CE del Parlamento europeo e del Consiglio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che godono, insieme ai loro familiari e a prescindere dalla cittadinanza, di diritti di libera circolazione equivalenti a quelli dei cittadini dell'Unione a norma di accordi tra l'Unione e gli Stati membri o tra l'Unione e Paesi terzi.
 
 Il permesso di soggiorno rilasciato ai sensi del presente articolo reca un riferimento che ne indica il rilascio per motivi di lavoro stagionale.
 
@@ -1186,6 +2244,38 @@ Resta ferma la possibilita', da parte dell'Ispettorato nazionale del lavoro, in 
 
 ## Art. 25. — Previdenza e assistenza per i lavoratori stagionali
  (Legge 6 marzo 1998, n. 40, art. 23)
+
+1.
+                        
+                            
+                                In considerazione della durata limitata dei contratti nonche' della loro specificita', agli stranieri titolari di permesso di soggiorno per lavoro stagionale si applicano le seguenti forme di previdenza e assistenza obbligatoria, secondo le norme vigenti nei settori di attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurazione per l'invalidita', la vecchiaia e i superstiti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurazione contro gli infortuni sul lavoro e le malattie professionali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurazione contro le malattie;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicurazione di maternita'.
 
 In sostituzione dei contributi per l'assegno per il nucleo familiare e per l'assicurazione contro la disoccupazione involontaria, il datore di lavoro e' tenuto a versare all'Istituto nazionale della previdenza sociale (INPS) un contributo in misura pari all'importo dei medesimi contributi ed in base alle condizioni e alle modalita' stabilite per questi ultimi. Tali contributi sono destinati ad interventi di carattere socio-assistenziale a favore dei lavoratori di cui all'articolo 45.
 
@@ -1216,6 +2306,59 @@ Il visto di ingresso per lavoro autonomo deve essere rilasciato o negato entro c
 
 ## Art. 26-bis. — (Ingresso e soggiorno per investitori)
 
+1.
+                        
+                            
+                                L'ingresso e il soggiorno per periodi superiori a tre mesi sono consentiti, al di fuori delle quote di cui all'articolo 3, comma 4, agli stranieri che intendono effettuare , in nome proprio o per conto della persona giuridica che legalmente rappresentano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un investimento di almeno euro 2.000.000 in titoli emessi dal Governo italiano e che vengano mantenuti per almeno due anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una donazione a carattere filantropico di almeno euro 1.000.000 a sostegno di un progetto di pubblico interesse, nei settori della cultura, istruzione, gestione dell'immigrazione, ricerca scientifica, recupero di beni culturali e paesaggistici e che: 
+ 1) dimostrano di essere titolari e beneficiari effettivi di un importo almeno pari a euro 2.000.000, nel caso di cui alla lettera a), o euro 1.000.000, nei casi di cui alla lettera b) e alla presente lettera, importo che deve essere in ciascun caso disponibile e trasferibile in Italia; 
+ 2) presentano una dichiarazione scritta in cui si impegnano a utilizzare i fondi di cui al numero 1) per effettuare un investimento o una donazione filantropica che rispettino i criteri di cui alle lettere a) e b) e alla presente lettera, entro tre mesi dalla data di ingresso in Italia; 
+ 3) dimostrano di avere risorse sufficienti, in aggiunta rispetto ai fondi di cui al numero 1) e in misura almeno superiore al livello minimo previsto dalla legge per l'esenzione dalla partecipazione alla spesa sanitaria, per il proprio mantenimento durante il soggiorno in Italia.
+
+2.
+                        
+                            
+                                Per l'accertamento dei requisiti previsti dal comma 1, lo straniero richiedente deve presentare mediante procedura da definire con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'interno e con il Ministro degli affari esteri e della cooperazione internazionale, da emanare entro novanta giorni dalla data di entrata in vigore della presente disposizione, i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    copia del documento di viaggio in corso di validita' con scadenza superiore di almeno tre mesi a quella del visto richiesto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    documentazione comprovante la disponibilita' della somma minima prevista al comma 1, lettera c), numero 1), e che tale somma puo' essere trasferita in Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    certificazione della provenienza lecita dei fondi di cui al comma 1, lettera c), numero 1); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione scritta di cui al comma 1, lettera c), numero 2), contenente una descrizione dettagliata delle caratteristiche e dei destinatari dell'investimento o della donazione.
+
 L'autorita' amministrativa individuata con il decreto di cui al comma 2, all'esito di una valutazione positiva della documentazione ricevuta, trasmette il nulla osta alla rappresentanza diplomatica o consolare competente per territorio che, compiuti gli accertamenti di rito, rilascia il visto di ingresso per investitori con l'espressa indicazione "visto investitori".
 
 Qualora la richiesta del nulla osta di cui al comma 3 sia presentata dal legale rappresentante della persona giuridica straniera, l'autorita' amministrativa, individuata con il decreto di cui al comma 2, richiede al Ministero degli affari esteri e della cooperazione internazionale la preliminare verifica sulla sussistenza della condizione di reciprocita' di cui all'articolo 16 delle disposizioni sulla legge in generale premesse al codice civile.
@@ -1244,6 +2387,144 @@ Chiunque, nell'ambito della procedura di cui al presente articolo, esibisce o tr
 ## Art. 27. — Ingresso per lavoro in casi particolari 
  (Legge 6 marzo 1998, n. 40, art. 25; 
  legge 30 dicembre 1986, n. 943, art. 14, commi 2 e 4)
+
+1.
+                        
+                            
+                                Al di fuori degli ingressi per lavoro di cui agli articoli precedenti, autorizzati nell'ambito delle quote di cui all'articolo 3, comma 4, il regolamento di attuazione disciplina particolari modalita' e termini per il rilascio delle autorizzazioni al lavoro, dei visti di ingresso e dei permessi di soggiorno per lavoro subordinato, per ognuna delle seguenti categorie di lavoratori stranieri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dirigenti o personale altamente specializzato di societa' aventi sede o filiali in Italia ovvero di uffici di rappresentanza di societa' estere che abbiano la sede principale di attivita' nel territorio di uno Stato membro dell'Organizzazione mondiale del commercio, ovvero dirigenti di sedi principali in Italia di societa' italiane o di societa' di altro Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lettori universitari di scambio o di madre lingua; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    I professori universitari destinati a svolgere in Italia un incarico accademico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    traduttori e interpreti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    collaboratori familiari aventi regolarmente in corso all'estero, da almeno un anno, rapporti di lavoro domestico a tempo pieno con cittadini italiani o di uno degli Stati membri dell'Unione europea residenti all'estero, che si trasferiscono in Italia, per la prosecuzione del rapporto di lavoro domestico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    persone che, autorizzate a soggiornare per motivi di formazione professionale, svolgano periodi temporanei di addestramento presso datori di lavoro italiani,; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 29 DICEMBRE 2016, N. 253; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    lavoratori marittimi occupati nella misura e con le modalita' stabilite nel regolamento di attuazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    lavoratori dipendenti regolarmente retribuiti da datori di lavoro, persone fisiche o giuridiche, residenti o aventi sede all'estero e da questi direttamente retribuiti, i quali siano temporaneamente trasferiti dall'estero presso persone fisiche o giuridiche, italiane o straniere, residenti in Italia, al fine di effettuare nel territorio italiano determinate prestazioni oggetto di contratto di appalto stipulato tra le predette persone fisiche o giuridiche residenti o aventi sede in Italia e quelle residenti o aventi sede all'estero, nel rispetto delle disposizioni dell'articolo 1655 del codice civile, della legge 23 ottobre 1960, n. 1369, e delle norme internazionali e comunitarie; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    i lavoratori che siano stati dipendenti, per almeno dodici mesi nell'arco dei quarantotto mesi antecedenti alla richiesta, di imprese aventi sede in Italia, ovvero di societa' da queste partecipate, secondo quanto risulta dall'ultimo bilancio consolidato redatto ai sensi degli articoli 25 e seguenti del decreto legislativo 9 aprile 1991, n. 127, operanti in Stati e territori non appartenenti all'Unione europea, ai fini del loro impiego nelle sedi delle suddette imprese o societa' presenti nel territorio italiano; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    lavoratori occupati presso circhi o spettacoli viaggianti all'estero; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    personale artistico e tecnico per spettacoli lirici, teatrali, concertistici o di balletto; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    ballerini, artisti e musicisti da impiegare presso locali di intrattenimento; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    artisti da impiegare da enti musicali teatrali o cinematografici o da imprese radiofoniche o televisive, pubbliche o private, o da enti pubblici, nell'ambito di manifestazioni culturali o folcloristiche; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    stranieri che siano destinati a svolgere qualsiasi tipo di attivita' sportiva professionistica presso societa' sportive italiane ai sensi della legge 23 marzo 1981, n. 91; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    giornalisti corrispondenti ufficialmente accreditati in Italia e dipendenti regolarmente retribuiti da organi di stampa quotidiani o periodici, ovvero da emittenti radiofoniche o televisive straniere; 
+
+                                
+                            
+                            
+                                q-bis)
+                                
+                                    nomadi digitali e lavoratori da remoto, non appartenenti all'Unione europea; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    persone che, secondo le norme di accordi internazionali in vigore per l'Italia, svolgono in Italia attivita' di ricerca o un lavoro occasionale nell'ambito di programmi di scambi di giovani o di mobilita' di giovani o sono persone collocate "alla pari"; 
+
+                                
+                            
+                            
+                                r-bis)
+                                
+                                    infermieri professionali assunti presso strutture sanitarie pubbliche e private. 
+ 1.1. Ai fini del rilascio dell'autorizzazione al lavoro di cui al comma 1, le amministrazioni effettuano i ((controlli sulla veridicita' delle dichiarazioni)) fornite dal datore di lavoro, secondo le modalita' e con gli effetti di cui all'articolo 71 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
 Nel caso in cui i lavoratori di cui alla lettera i) del comma 1 siano dipendenti regolarmente retribuiti dai datori di lavoro, persone fisiche o giuridiche, residenti o aventi sede in uno Stato membro dell'Unione europea, il nulla osta al lavoro e' sostituito da una comunicazione, da parte del committente, del contratto in base al quale la prestazione di servizi ha luogo, unitamente ad una dichiarazione del datore di lavoro contenente i nominativi dei lavoratori da distaccare e attestante la regolarita' della loro situazione con riferimento alle condizioni di residenza e di lavoro nello Stato membro dell'Unione europea in cui ha sede il datore di lavoro. La comunicazione e' presentata allo sportello unico della prefettura-ufficio territoriale del Governo, ai fini del rilascio del permesso di soggiorno.
 
@@ -1279,13 +2560,89 @@ Con decreto del Ministro per i beni e le attivita' culturali, su proposta del Co
 
 L'ingresso di stranieri ammessi a partecipare a programmi di attivita' di volontariato di interesse generale e di utilita' sociale, ai sensi del presente testo unico, avviene nell'ambito del contingente triennale stabilito con decreto del Ministro del lavoro e delle politiche sociali, di concerto con i Ministri dell'interno e degli affari esteri e della cooperazione internazionale, sentito il Consiglio nazionale del Terzo settore, di cui all'articolo 59 del codice del Terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117.
 
+2.
+                        
+                            
+                                Nell'ambito del contingente di cui al comma 1 e' consentito l'ingresso e il soggiorno di cittadini stranieri di eta' compresa tra i 25 e i 35 anni per la partecipazione ad un programma di attivita' di volontariato di interesse generale e di utilita' sociale, di cui all'articolo 5, comma 1 del decreto legislativo n. 117 del 2017, previo rilascio di apposito nulla osta, a seguito della verifica dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    appartenenza dell'organizzazione promotrice del programma di volontariato ad una delle seguenti categorie che svolgono attivita' senza scopo di lucro e di utilita' sociale: 1) enti del Terzo settore iscritti al Registro unico del Terzo settore (RUN), di cui all'articolo 45 del decreto legislativo n. 117 del 2017; 2) organizzazioni della societa' civile e altri soggetti iscritti nell'elenco di cui all'articolo 26, comma 3, della legge 11 agosto 2014, n. 125; 3) enti ecclesiastici civilmente riconosciuti, in base alla legge 20 maggio 1985, n. 222, nonche' enti civilmente riconosciuti in base alle leggi di approvazione di intese con le confessioni religiose ai sensi dell'articolo 8, terzo comma, della Costituzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stipula di apposita convenzione fra lo straniero e l'organizzazione promotrice e responsabile del programma delle attivita' di volontariato di interesse generale e di utilita' sociale, in cui siano specificate: 1) le attivita' assegnate al volontario; 2) le modalita' di svolgimento delle attivita' di volontariato, nonche' i giorni e le ore in cui sara' impegnato in dette attivita'; 3) le risorse stanziate per provvedere alle sue spese di viaggio, vitto, alloggio e denaro per piccole spese sostenute e documentate direttamente dal volontario per tutta la durata del soggiorno; 4) l'indicazione del percorso di formazione anche per quanto riguarda la conoscenza della lingua italiana; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sottoscrizione obbligatoria da parte dell'organizzazione promotrice e responsabile del programma di volontariato di una polizza assicurativa per le spese relative all'assistenza sanitaria, alla responsabilita' civile verso terzi e contro gli infortuni collegati all'attivita' di volontariato; 
+ d)assunzione della piena responsabilita' per la copertura delle spese relative al soggiorno del volontario, per l'intero periodo di durata del programma stesso di volontariato, nonche' per il viaggio di ingresso e ritorno. In conformita' a quanto disposto dall'articolo 17 del decreto legislativo n.117 del 2017, l'attivita' del volontario impegnato nelle attivita' del programma di volontariato non puo' essere retribuita dall'ente promotore e responsabile del programma medesimo. Al volontario possono essere rimborsate soltanto le spese effettivamente sostenute e documentate per l'attivita' prestata, entro limiti massimi e alle condizioni preventivamente stabilite dall'ente medesimo. Sono in ogni caso vietati rimborsi spese di tipo forfettario.
+
 La domanda di nulla osta e' presentata dalla organizzazione promotrice del programma di volontariato allo Sportello unico per l'immigrazione presso la Prefettura-Ufficio territoriale del Governo competente per il luogo ove si svolge il medesimo programma di volontariato. Le amministrazioni effettuano i ((controlli sulla veridicita' delle dichiarazioni)) fornite dall'organizzazione promotrice del programma di volontariato, secondo le modalita' e con gli effetti di cui all'articolo 71 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. Lo Sportello, acquisito dalla Questura il parere sulla insussistenza dei motivi ostativi all'ingresso dello straniero nel territorio nazionale e verificata l'esistenza dei requisiti di cui ai commi 1 e 2, rilascia entro quarantacinque giorni il nulla osta.
 
 Il nulla osta e' trasmesso, in via telematica, dallo sportello unico per l'immigrazione, alle rappresentanze consolari all'estero, alle quali e' richiesto il relativo visto di ingresso entro sei mesi dal rilascio del nulla osta.
 
+4-bis.
+                        
+                            
+                                Il nulla osta e' rifiutato e, se gia' rilasciato, e' revocato quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non sono rispettate le condizioni di cui ai commi 1, 2 e 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i documenti presentati sono stati ottenuti in maniera fraudolenta o contraffatti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'organizzazione o l'ente di cui al comma 2, lettera a), non ha rispettato i propri obblighi giuridici in materia di previdenza sociale, tassazione, diritti dei lavoratori, condizioni di lavoro o di impiego, previsti dalla normativa nazionale o dai contratti collettivi applicabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'organizzazione o l'ente di cui al comma 2, lettera a), e' stata oggetto di sanzioni a causa di lavoro irregolare.
+
 Nei casi di cui al comma 4-bis, lettere c) e d), la decisione di rifiuto o di revoca e' adottata nel rispetto del principio di proporzionalita' e tiene conto delle circostanze specifiche del caso. La revoca del nulla osta e' comunicata in via telematica agli uffici consolari all'estero.
 
 Entro otto giorni lavorativi dall'ingresso nel territorio nazionale, il volontario dichiara la propria presenza allo sportello unico per l'immigrazione che ha rilasciato il nulla osta, ai fini dell'espletamento delle formalita' occorrenti al rilascio del permesso di soggiorno ai sensi del presente testo unico. Il permesso di soggiorno, che reca la dicitura «volontario» e' rilasciato dal questore, con le modalita' di cui all'articolo 5, comma 8, entro quarantacinque giorni dall'espletamento delle formalita' di cui al primo periodo, per la durata del programma di volontariato e di norma per un periodo non superiore ad un anno. In casi eccezionali, specificamente individuati nei programmi di volontariato e valutati sulla base di apposite direttive che saranno emanate dalle Amministrazioni interessate, il permesso puo' avere una durata superiore e comunque pari a quella del programma. In nessun caso il permesso di soggiorno, che non e' rinnovabile ne' convertibile in altra tipologia di permesso di soggiorno, puo' avere durata superiore a diciotto mesi.
+
+5-bis.
+                        
+                            
+                                Il permesso di soggiorno non e' rilasciato o il suo rinnovo e' rifiutato, ovvero, se gia' rilasciato, e' revocato nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' stato ottenuto in maniera fraudolenta o e' stato falsificato o contraffatto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se risulta che il volontario non soddisfaceva o non soddisfa piu' le condizioni di ingresso e di soggiorno previste dal presente testo unico o se soggiorna per fini diversi da quelli per cui ha ottenuto il nulla osta ai sensi del presente articolo.
 
 Il periodo di durata del permesso di soggiorno rilasciato ai sensi della presente disposizione non e' computabile ai fini del rilascio del permesso di soggiorno UE per soggiornanti di lungo periodo di cui all'articolo 9-bis.
 
@@ -1294,6 +2651,91 @@ La documentazione e le informazioni relative alla sussistenza delle condizioni d
 ## Art. 27-ter. — (Ingresso e soggiorno per ricerca)
 
 L'ingresso ed il soggiorno per periodi superiori a tre mesi, al di fuori delle quote di cui all'articolo 3, comma 4, e' consentito a favore di stranieri in possesso di un titolo di dottorato o di un titolo di studio superiore, che nel Paese dove e' stato conseguito dia accesso a programmi di dottorato. Il cittadino straniero, denominato ricercatore ai soli fini dell'applicazione delle procedure previste nel presente articolo, e' selezionato da un istituto di ricerca iscritto nell'apposito elenco tenuto dal Ministero dell'universita' e della ricerca.
+
+1-bis.
+                        
+                            
+                                Le disposizioni di cui al comma 1 non si applicano agli stranieri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che soggiornano a titolo di protezione temporanea, per cure mediche ovvero sono titolari dei permessi di soggiorno di cui agli articoli 18, 18-bis, 20-bis, 22, comma 12-quater e 42-bis nonche' del permesso di soggiorno rilasciato ai sensi dell'articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che soggiornano in quanto beneficiari di protezione internazionale come definita dall'articolo 2, comma 1, lettera a), del decreto legislativo 19 novembre 2007, n. 251, e successive modificazioni, ovvero hanno richiesto il riconoscimento di tale protezione e sono in attesa di una decisione definitiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che sono familiari di cittadini dell'Unione europea che hanno esercitato o esercitano il diritto alla libera circolazione ai sensi del decreto legislativo 6 febbraio 2007, n. 30, e successive modificazioni, o che, insieme ai loro familiari e a prescindere dalla cittadinanza, godano di diritti di libera circolazione equivalenti a quelli dei cittadini dell'Unione, sulla base di accordi conclusi tra l'Unione e i suoi Stati membri e Paesi terzi o tra l'Unione e Paesi terzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che beneficiano dello status di soggiornante di lungo periodo e soggiornano ai sensi dell'articolo 9-bis per motivi di lavoro autonomo o subordinato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che soggiornano in qualita' di lavoratori altamente qualificati, ai sensi dell'articolo 27-quater; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che sono ammessi nel territorio dell'Unione europea in qualita' di dipendenti in tirocinio nell'ambito di un trasferimento intrasocietario come definito dall'articolo 27-quinquies, comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    che sono destinatari di un provvedimento di espulsione anche se sospeso.
+
+2.
+                        
+                            
+                                L'iscrizione nell'elenco di cui al comma 1, valida per cinque anni, e' disciplinata con decreto del Ministro dell'universita' e della ricerca e, fra l'altro, prevede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'iscrizione nell'elenco da parte di istituti, pubblici o privati, che svolgono attivita' di ricerca intesa come lavoro creativo svolto su base sistematica per aumentare il bagaglio delle conoscenze, compresa la conoscenza dell'uomo, della cultura e della societa', e l'utilizzazione di tale bagaglio di conoscenze per concepire nuove applicazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la determinazione delle risorse finanziarie minime a disposizione dell'istituto privato per chiedere l'ingresso di ricercatori e il numero consentito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'obbligo dell'istituto di farsi carico delle spese connesse all'eventuale condizione d'irregolarita' del ricercatore, compresi i costi relativi all'espulsione, per un periodo di tempo pari a sei mesi dalla cessazione della convenzione di accoglienza di cui al comma 3; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le condizioni per la revoca dell'iscrizione nel caso di inosservanza alle norme del presente articolo.
 
 L'obbligo di cui al comma 2, lettera c), cessa in caso di rilascio del permesso di soggiorno di cui al comma 9-bis.
 
@@ -1305,6 +2747,45 @@ La domanda di nulla osta per ricerca, corredata dell'attestato di iscrizione all
 
 In caso di irregolarita' sanabile o incompletezza della documentazione, l'istituto di ricerca e' invitato ad integrare la stessa e il termine di cui al comma 4 e' sospeso.
 
+4-ter.
+                        
+                            
+                                Il nulla osta e' rifiutato e, se gia' rilasciato, e' revocato quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non sono rispettate le condizioni di cui ai commi 1, 2, 3, 3-bis e 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i documenti presentati sono stati ottenuti in maniera fraudolenta o contraffatti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'istituto di ricerca non ha rispettato i propri obblighi giuridici in materia di previdenza sociale, tassazione, diritti dei lavoratori, condizioni di lavoro o di impiego, previsti dalla normativa nazionale o dai contratti collettivi applicabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'istituto di ricerca e' stato oggetto di sanzioni a causa di lavoro irregolare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'istituto di ricerca e' in corso di liquidazione o e' stato liquidato per insolvenza o non e' svolta alcuna attivita' economica.
+
 Nei casi di cui al comma 4-ter, lettere c) e d), la decisione di rifiuto o di revoca e' adottata nel rispetto del principio di proporzionalita' e tiene conto delle circostanze specifiche del caso. La revoca del nulla osta e' comunicata in via telematica agli uffici consolari all'estero.
 
 La convenzione di accoglienza decade automaticamente nel caso di diniego al rilascio del nulla osta. In presenza di cause che rendono impossibile l'esecuzione della convenzione, l'istituto di ricerca ne informa tempestivamente lo sportello unico per i conseguenti adempimenti.
@@ -1314,6 +2795,24 @@ Entro otto giorni lavorativi dall'ingresso nel territorio nazionale, il ricercat
 Il permesso di soggiorno per ricerca, che reca la dicitura "ricercatore", e' rilasciato dal questore, ai sensi del presente testo unico, entro trenta giorni dall'espletamento delle formalita' di cui al comma 6, per la durata del programma di ricerca e consente lo svolgimento dell'attivita' indicata nella convenzione di accoglienza nelle forme di lavoro subordinato, di lavoro autonomo o borsa di addestramento alla ricerca. In caso di proroga del programma di ricerca, il permesso di soggiorno e' rinnovato, per una durata pari alla proroga, previa presentazione del rinnovo della convenzione di accoglienza. Per il ricercatore che fa ingresso nel territorio nazionale sulla base di specifici programmi dell'Unione o multilaterali comprendenti misure sulla mobilita', il permesso di soggiorno fa riferimento a tali programmi. 
  Nell'attesa del rilascio del permesso di soggiorno e' comunque consentita l'attivita' di ricerca. Per le finalita' di cui all'articolo 9, ai titolari di permesso di soggiorno per ricerca rilasciato sulla base di una borsa di addestramento alla ricerca si applicano le disposizioni previste per i titolari di permesso per motivi di studio o formazione professionale.
 
+7-bis.
+                        
+                            
+                                Il permesso di soggiorno non e' rilasciato o il suo rinnovo e' rifiutato, ovvero, se gia' rilasciato, e' revocato nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' stato ottenuto in maniera fraudolenta o e' stato falsificato o contraffatto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se risulta che il ricercatore non soddisfaceva o non soddisfa piu' le condizioni di ingresso e di soggiorno previste dal presente testo unico o se soggiorna per fini diversi da quelli per cui ha ottenuto il nulla osta ai sensi del presente articolo.
+
 Il ricongiungimento dei familiari di cui all'articolo 29, comma 1, lettere a) e b) e' consentito al ricercatore di cui ai commi 1 e 11-quinquies, indipendentemente dalla durata del suo permesso di soggiorno, ai sensi e alle condizioni previste dal medesimo articolo 29, ad eccezione del requisito di cui al comma 3, lettera a). Alla richiesta di ingresso dei familiari al seguito presentata contestualmente alla richiesta di nulla osta all'ingresso del ricercatore si applica il termine di cui al comma 4. Per l'ingresso dei familiari al seguito del ricercatore di cui al comma 11-quinquies e' richiesta la dimostrazione di aver risieduto, in qualita' di familiari, nel primo Stato membro. Ai familiari e' rilasciato un permesso di soggiorno per motivi familiari ai sensi dell'articolo 30, commi 2, 3 e 6, di durata pari a quello del ricercatore.
 
 Salvo quanto previsto dal comma 1-bis, la procedura di cui al comma 4 si applica anche al ricercatore regolarmente soggiornante nel territorio nazionale ad altro titolo. In tale caso, al ricercatore e' rilasciato il permesso di soggiorno di cui al comma 7 in esenzione di visto e si prescinde dal requisito dell'effettiva residenza all'estero per la procedura di rilascio del nulla osta di cui al comma 4.
@@ -1321,6 +2820,24 @@ Salvo quanto previsto dal comma 1-bis, la procedura di cui al comma 4 si applica
 Lo straniero munito di passaporto valido o altro documento equipollente, che ha completato l'attivita' di ricerca, alla scadenza del permesso di cui al comma 7 puo' dichiarare la propria immediata disponibilita' allo svolgimento di attivita' lavorativa e alla partecipazione alle misure di politica attiva del lavoro presso i servizi per l'impiego, come previsto dall'articolo 19 del decreto legislativo 14 settembre 2015, n. 150, e richiedere un permesso di soggiorno di durata non inferiore a nove e non superiore a dodici mesi al fine di cercare un'occupazione o avviare un'impresa coerente con l'attivita' di ricerca completata. In tal caso il permesso di soggiorno dei familiari e' rinnovato per la stessa durata. In presenza dei requisiti previsti dal presente testo unico, puo' essere richiesta la conversione in permesso di soggiorno per lavoro.
 
 Ai fini del rilascio del permesso di soggiorno di cui al comma 9-bis, lo straniero allega idonea documentazione di conferma del completamento dell'attivita' di ricerca svolta, rilasciata dall'istituto di ricerca. Ove la documentazione di conferma del completamento dell'attivita' di ricerca svolta non sia gia' disponibile, puo' essere presentata entro sessanta giorni dalla richiesta del permesso di soggiorno di cui al comma 9-bis.
+
+9-quater.
+                        
+                            
+                                Il permesso di soggiorno di cui al comma 9-bis non e' rilasciato, o se gia' rilasciato, e' revocato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la documentazione di cui ai commi 9-bis e 9-ter e' stata ottenuta in maniera fraudolenta, falsificata o contraffatta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se risulta che lo straniero non soddisfaceva o non soddisfa piu' le condizioni previste dai commi 9-bis e 9-ter, nonche' le altre condizioni di ingresso e di soggiorno previste dal presente testo unico.
 
 I ricercatori di cui ai commi 1, 11 e 11-quinquies possono essere ammessi a parita' di condizioni con i cittadini italiani, a svolgere attivita' di insegnamento compatibile con le disposizioni statutarie e regolamentari dell'istituto di ricerca.
 
@@ -1330,9 +2847,66 @@ Lo straniero titolare di un permesso di soggiorno per ricerca in corso di validi
 
 Il ricercatore e' autorizzato a fare ingresso in Italia immediatamente dopo la comunicazione di cui al comma 11. I familiari del ricercatore di cui al comma 11 hanno il diritto di entrare e soggiornare nel territorio nazionale, al fine di accompagnare o raggiungere il ricercatore, purche' in possesso di un passaporto valido o documento equipollente e di un'autorizzazione in corso di validita', rilasciata dal primo Stato membro, previa dimostrazione di aver risieduto in qualita' di familiari nel primo Stato membro. Si applicano le disposizioni di cui all'articolo 5, comma 7.
 
+11-ter.
+                        
+                            
+                                Entro trenta giorni dalla comunicazione di cui al comma 11, lo sportello unico, acquisito il parere della questura sulla sussistenza di eventuali motivi ostativi all'ingresso nel territorio nazionale, comunica all'istituto di ricerca, e all'autorita' competente designata come punto di contatto dal primo Stato membro che sussistono motivi di opposizione alla mobilita' del ricercatore e dei suoi familiari, dandone informazione alla questura, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancanza delle condizioni di cui al comma 11; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i documenti sono stati ottenuti in maniera fraudolenta, ovvero sono stati contraffatti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ente di ricerca non risulta iscritto nell'elenco di cui al comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' stata raggiunta la durata massima del soggiorno di cui al comma 11; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non sono soddisfatte le condizioni di ingresso e soggiorno previste dal presente testo unico.
+
 In caso di opposizione alla mobilita' il ricercatore e se presenti i suoi familiari cessano immediatamente tutte le attivita' e lasciano il territorio nazionale.
 
 Per periodi superiori a centottanta giorni, lo straniero titolare di un permesso di soggiorno per ricerca rilasciato da un altro Stato membro dell'Unione europea e in corso di validita' e' autorizzato a fare ingresso senza necessita' di visto e a soggiornare nel territorio nazionale per svolgere l'attivita' di ricerca presso un istituto di ricerca iscritto nell'elenco di cui al comma 1 previo rilascio del nulla osta di cui al comma 4. Nel caso in cui lo straniero e' presente nel territorio nazionale ai sensi del comma 11, la richiesta di nulla osta e' presentata almeno trenta giorni prima della scadenza del periodo di soggiorno ivi previsto.
+
+11-sexies.
+                        
+                            
+                                Il nulla osta di cui al comma 11-quinquies e' rifiutato e se rilasciato e' revocato quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricorrono le condizioni di cui al comma 4-ter; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorizzazione del primo Stato membro scade durante la procedura di rilascio del nulla osta.
 
 Al ricercatore di cui al comma 11-quinquies e' rilasciato un permesso di soggiorno recante la dicitura «mobilità-ricercatore» e si applicano le disposizioni di cui ai commi 6, 7 e 7-bis. Del rilascio e dell'eventuale revoca del permesso di soggiorno di cui al presente comma sono informate le autorita' competenti del primo Stato membro.
 
@@ -1344,7 +2918,163 @@ La documentazione e le informazioni relative alla sussistenza delle condizioni d
 
 ## Art. 27-quater. — (Ingresso e soggiorno per lavoratori altamente qualificati. Rilascio della Carta blu UE)
 
+1.
+                        
+                            
+                                L'ingresso ed il soggiorno, per periodi superiori a tre mesi e' consentito, al di fuori delle quote di cui all'articolo 3, comma 4, agli stranieri, di seguito denominati lavoratori stranieri altamente qualificati, che intendono svolgere prestazioni lavorative retribuite per conto o sotto la direzione o il coordinamento di un'altra persona fisica o giuridica e che sono alternativamente in possesso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del titolo di istruzione superiore di livello terziario rilasciato dall'autorita' competente nel paese dove e' stato conseguito che attesti il completamento di un percorso di istruzione superiore di durata almeno triennale o di una qualificazione professionale di livello post secondario di durata almeno triennale o corrispondente almeno al livello 6 del Quadro nazionale delle qualificazioni di cui al decreto del Ministero del lavoro e delle politiche sociali dell'8 gennaio 2018, recante «Istituzione del Quadro nazionale delle qualificazioni rilasciate nell'ambito del Sistema nazionale di certificazione delle competenze di cui al decreto legislativo 16 gennaio 2013, n. 13», pubblicato nella Gazzetta ufficiale n. 20 del 25 gennaio 2018; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei requisiti previsti dal decreto legislativo 6 novembre 2007, n. 206, limitatamente all'esercizio di professioni regolamentate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di una qualifica professionale superiore attestata da almeno cinque anni di esperienza professionale di livello paragonabile ai titoli d'istruzione superiori di livello terziario, pertinenti alla professione o al settore specificato nel contratto di lavoro o all'offerta vincolante; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di una qualifica professionale superiore attestata da almeno tre anni di esperienza professionale pertinente acquisita nei sette anni precedenti la presentazione della domanda di Carta blu UE, per quanto riguarda dirigenti e specialisti nel settore delle tecnologie dell'informazione e della comunicazione di cui alla classificazione ISCO-08, n. 133 e n. 25.
+
+2.
+                        
+                            
+                                La disposizione di cui al comma 1 si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli stranieri in possesso dei requisiti di cui al comma 1, anche se soggiornanti in altro Stato membro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai lavoratori stranieri altamente qualificati, titolari della Carta blu rilasciata in un altro Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli stranieri in possesso dei requisiti di cui al comma 1, regolarmente soggiornanti sul territorio nazionale.
+
+3.
+                        
+                            
+                                Le disposizioni di cui al comma 1 non si applicano agli stranieri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che soggiornano a titolo di protezione temporanea, per cure mediche ovvero sono titolari dei permessi di soggiorno di cui agli articoli 18, 18-bis, 20-bis, 22, comma 12-quater, 42-bis nonche' del permesso di soggiorno rilasciato ai sensi dell'articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25, ovvero hanno richiesto il relativo permesso di soggiorno e sono in attesa di una decisione su tale richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che soggiornano in quanto richiedenti la protezione internazionale ai sensi della direttiva 2004/83/CE del Consiglio del 29 aprile 2004, cosi' come recepita dal decreto legislativo 19 novembre 2007, n. 251, e della direttiva 2005/85/CE del Consiglio del 1° dicembre 2005, cosi' come recepita dal decreto legislativo 28 gennaio 2008, n. 25, e successive modificazioni, e sono ancora in attesa di una decisione definitiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che chiedono di soggiornare in qualita' di ricercatori ai sensi dell'articolo 27-ter; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 18 OTTOBRE 2023, N. 152; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che beneficiano dello status di soggiornante di lungo periodo e soggiornano ai sensi dell'articolo 9-bis per motivi di lavoro autonomo o subordinato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che fanno ingresso in uno Stato membro in virtu' di impegni previsti da un accordo internazionale che agevola l'ingresso e il soggiorno temporaneo di determinate categorie di persone fisiche connesse al commercio e agli investimenti, salvo che abbiano fatto ingresso nel territorio nazionale per svolgere prestazioni di lavoro subordinato nell'ambito di trasferimenti intra-societari ai sensi dell'articolo 27-quinquies; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 18 OTTOBRE 2023, N. 152; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    che soggiornano in Italia, in qualita' di lavoratori distaccati, ai sensi dell'articolo 27, comma 1, lettere a), g), ed i), in conformita' alla direttiva 96/71/CE, del Parlamento europeo e del Consiglio del 16 dicembre 2006, cosi' come recepita dal decreto legislativo 25 febbraio 2000, n. 72, e successive modificazioni; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    che in virtu' di accordi conclusi tra il Paese terzo di appartenenza e l'Unione e i suoi Stati membri beneficiano dei diritti alla libera circolazione equivalente a quelli dei cittadini dell'Unione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    che sono destinatari di un provvedimento di espulsione anche se sospeso.
+
 La domanda di nulla osta al lavoro per i lavoratori stranieri altamente qualificati e' presentata dal datore di lavoro allo sportello unico per l'immigrazione presso la prefettura-ufficio territoriale del Governo. Le amministrazioni effettuano i controlli sulla veridicita' delle dichiarazioni fornite dal datore di lavoro, secondo le modalita' e con gli effetti di cui all'articolo 71 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. La presentazione della domanda ed il rilascio del nulla osta, dei visti di ingresso e dei permessi di soggiorno, sono regolati dalle disposizioni di cui all'articolo 22, fatte salve le specifiche prescrizioni previste dal presente articolo.
+
+5.
+                        
+                            
+                                Il datore di lavoro, in sede di presentazione della domanda di cui al comma 4, oltre quanto previsto dal comma 2 dell'articolo 22 deve indicare, a pena di rigetto della domanda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la proposta di contratto di lavoro o l'offerta di lavoro vincolante della durata di almeno sei mesi, per lo svolgimento di una attivita' lavorativa che richiede il possesso di uno dei requisiti di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il titolo di istruzione, la qualifica professionale superiore o i requisiti previsti dal decreto legislativo 6 novembre 2007, n. 206, come indicati al comma 1, posseduti dallo straniero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo della retribuzione annuale, come ricavato dal contratto di lavoro ovvero dall'offerta vincolante, che non deve essere inferiore alla retribuzione prevista nei contratti collettivi nazionali stipulati da associazioni sindacali comparativamente piu' rappresentative sul piano nazionale, e comunque non inferiore alla retribuzione media annuale lorda come rilevata dall'ISTAT.
 
 Qualora la domanda di Carta blu UE riguardi un cittadino di paese terzo titolare di altro titolo di soggiorno, rilasciato ai fini dello svolgimento di un lavoro altamente qualificato, non e' necessario presentare i documenti di cui al comma 1, lettere a), c) e d), in quanto gia' verificati in fase di primo rilascio del titolo stesso.
 
@@ -1358,11 +3088,75 @@ Il nulla osta al lavoro e' sostituito da una comunicazione del datore di lavoro 
 
 Il nulla osta al lavoro e' rifiutato ovvero, nel caso sia stato rilasciato, e' revocato se i documenti di cui al comma 5 sono stati ottenuti mediante frode o sono stati falsificati o contraffatti ovvero qualora il contratto di soggiorno di cui all'articolo 5-bis, sottoscritto con le modalita' di cui all'articolo 22, comma 6, non sia trasmesso allo sportello unico per l'immigrazione nel termine di cui al medesimo articolo 22, comma 6, salvo che il ritardo sia dipeso da cause di forza maggiore. Le revoche del nulla osta sono comunicate al Ministero degli affari esteri tramite i collegamenti telematici. (104)
 
+10.
+                        
+                            
+                                Il nulla osta al lavoro e' altresi' rifiutato se il datore di lavoro risulti condannato negli ultimi cinque anni, anche con sentenza non definitiva, compresa quella adottata a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale, per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    favoreggiamento dell'immigrazione clandestina verso l'Italia e dell'emigrazione clandestina dall'Italia verso altri Stati o per reati diretti al reclutamento di persone da destinare alla prostituzione o allo sfruttamento della prostituzione o di minori da impiegare in attivita' illecite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    intermediazione illecita e sfruttamento del lavoro ai sensi dell'articolo 603-bis codice penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    reati previsti dall'articolo 22, comma 12.
+
 Al lavoratore straniero altamente qualificato autorizzato allo svolgimento di attivita' lavorative e' rilasciato dal Questore un permesso di soggiorno ai sensi dell'articolo 5, comma 8, recante la dicitura 'Carta blu UE', nella rubrica 'tipo di permesso'. Il permesso di soggiorno e' rilasciato, a seguito della stipula del contratto di soggiorno per lavoro di cui all'articolo 5-bis e della comunicazione di instaurazione del rapporto di lavoro di cui all'articolo 9-bis, comma 2, del decreto-legge 1° ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608, con durata biennale, nel caso di contratto di lavoro a tempo indeterminato, ovvero con durata pari a quella del rapporto di lavoro piu' tre mesi, negli altri casi.
 
 La Carta blu UE rilasciata a un cittadino di paese terzo al quale e' stata riconosciuta la protezione internazionale, reca, nel campo "annotazioni", la dicitura "Protezione internazionale concessa da (nome dello Stato membro) in data (data)." Nei casi in cui la protezione internazionale e' revocata, alla scadenza della Carta blu UE ovvero a seguito della prima richiesta avanzata ai fini dell'aggiornamento delle informazioni trascritte ovvero della fotografia e' rilasciata, a richiesta, una Carta blu UE di cui al comma 11.
 
 La Carta blu UE rilasciata in base a competenze professionali non elencate nell'allegato I della direttiva (UE) 2021/1883, reca, nel campo "annotazioni", la dicitura "Professione non elencata nell'allegato I".
+
+12.
+                        
+                            
+                                Il permesso di soggiorno non e' rilasciato o il suo rinnovo e' rifiutato ovvero, nel caso sia stato concesso, e' revocato nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se e' stato ottenuto in maniera fraudolenta o e' stato falsificato o contraffatto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se risulta che lo straniero non soddisfaceva o non soddisfa piu' le condizioni d'ingresso e di soggiorno previste dal presente testo unico o se soggiorna per fini diversi da quelli per cui lo stesso ha ottenuto il nulla osta ai sensi del presente articolo; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    se risulta che lo straniero non e' piu' in possesso, alternativamente, delle condizioni di cui al comma 5, lettere b) e c), ovvero di un contratto di lavoro valido per un lavoro altamente qualificato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se lo straniero non ha rispettato le condizioni di cui al comma 13; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualora lo straniero non abbia risorse sufficienti per mantenere se stesso e, nel caso, i propri familiari, senza ricorrere al regime di assistenza sociale nazionale, ad eccezione del periodo di disoccupazione. In tal caso, qualsiasi decisione di revocare una Carta blu UE o di rifiutarne il rinnovo tiene conto delle specifiche circostanze del caso e rispetta il principio di proporzionalita'.
 
 Il titolare di Carta blu UE , fatto salvo quanto previsto dal comma 13-ter, limitatamente ai primi dodici mesi di occupazione legale sul territorio nazionale, esercita esclusivamente attivita' lavorative conformi alle condizioni di ammissione previste al comma 1 e limitatamente a quelle per le quali e' stata rilasciata la Carta blu UE. I cambiamenti di datore di lavoro nel corso dei primi dodici mesi sono soggetti all'autorizzazione preliminare da parte delle competenti Direzioni territoriali del lavoro. Decorsi 15 giorni dalla ricezione della documentazione relativa al nuovo contratto di lavoro o offerta vincolante, il parere della Direzione territoriale competente si intende acquisito.
 
@@ -1376,9 +3170,62 @@ I titolari di Carta blu UE beneficiano di un trattamento uguale a quello riserva
 
 Il ricongiungimento familiare e' consentito al titolare di Carta blu UE, indipendentemente dalla durata del suo permesso di soggiorno, ai sensi e alle condizioni previste dall'articolo 29. Ai familiari e' rilasciato un permesso di soggiorno per motivi di famiglia, ai sensi dell'articolo 30, commi 2, 3 e 6, di durata pari a quello del titolare di Carta blu UE. Il permesso di soggiorno di cui al presente comma puo' essere convertito in permesso di soggiorno per lavoro subordinato, per lavoro autonomo o per studio, sussistendone i requisiti. Se le condizioni per il ricongiungimento familiare sono soddisfatte e le domande complete sono presentate contemporaneamente, il permesso di soggiorno del familiare e' rilasciato contestualmente alla Carta blu UE.
 
+17.
+                        
+                            
+                                Lo straniero titolare di Carta blu UE rilasciata da altro Stato membro e in corso di validita' puo' fare ingresso e soggiornare in Italia per svolgere un'attivita' professionale per un periodo massimo di novanta giorni in un arco temporale di centottanta giorni. Si applicano le disposizioni di cui all'articolo 5, comma 7, ad eccezione del terzo periodo. Dopo dodici mesi di soggiorno legale in un altro Stato membro, lo straniero titolare di Carta blu UE, rilasciata da detto Stato, puo' fare ingresso in Italia senza necessita' del visto, al fine di esercitare l'attivita' lavorativa di cui al comma 1, per un periodo superiore a novanta giorni, previo rilascio del nulla osta ai sensi del presente comma. Nel caso in cui lo straniero fa ingresso nel territorio nazionale per le finalita' di cui al presente comma, spostandosi da un secondo Stato membro nel quale si era gia' trasferito per le medesime finalita', il termine minimo di soggiorno legale nel predetto Stato membro e' ridotto a sei mesi. Senza ritardo, e comunque entro un mese dall'ingresso dello straniero nel territorio nazionale, il datore di lavoro presenta la domanda di nulla osta al lavoro con la procedura prevista al comma 4 e alle condizioni del presente articolo. Il datore di lavoro indica, a pena di rigetto della domanda, oltre a quanto previsto dal comma 5: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi della Carta blu UE valida rilasciata dal primo Stato membro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi del documento di viaggio valido. 
+ Entro il termine di trenta giorni dalla data di presentazione della domanda completa, la decisione sulla richiesta di nulla osta e' comunicata al richiedente e allo Stato membro che ha rilasciato la Carta blu UE. In caso di circostanze eccezionali, debitamente giustificate e connesse alla complessita' della domanda, il termine di cui al precedente periodo puo' essere prorogato di trenta giorni, informandone il richiedente non oltre trenta giorni dalla data di presentazione della domanda completa. Si applicano l'articolo 5, comma 9-bis, e l'articolo 27-sexies, comma 5. La domanda di nulla osta al lavoro puo' essere presentata dal datore di lavoro anche se il titolare della Carta blu UE soggiorna ancora nel territorio del primo Stato membro. Entro otto giorni lavorativi dall'ingresso nel territorio nazionale ovvero dal rilascio del nulla osta ove gia' presente in territorio nazionale, lo straniero dichiara allo sportello unico per l'immigrazione che ha rilasciato il predetto nulla osta la propria presenza nel territorio nazionale ai fini del rilascio del permesso di soggiorno. Nel caso in cui il datore di lavoro abbia sottoscritto con il Ministero dell'interno, sentito il Ministero del lavoro e delle politiche sociali, un apposito protocollo d'intesa con cui il medesimo datore di lavoro garantisce la sussistenza delle condizioni previste dall'articolo 27, comma 1-quater, e dall'articolo 27-quater, comma 5, si applica il comma 8.
+Il nulla osta e' rifiutato o, se gia' rilasciato, e' revocato nei casi di cui ai commi 9 e 10. Al lavoratore straniero altamente qualificato di cui al presente comma e' rilasciato dal Questore il permesso di soggiorno di cui al comma 11. Dell'avvenuto rilascio e' informato lo Stato membro che ha rilasciato la precedente Carta blu UE. Nei confronti dello straniero, cui e' stato rifiutato o revocato il nulla osta al lavoro o il permesso ovvero questo ultimo non e' stato rinnovato, e' disposta l'espulsione ai sensi dell'articolo 13 e l'allontanamento e' effettuato verso lo Stato membro dell'Unione europea che aveva rilasciato la Carta blu UE, anche nel caso in cui la Carta blu UE rilasciata dall'altro Stato membro sia scaduta o sia stata revocata. Nei confronti del titolare di Carta blu UE riammesso in Italia ai sensi del presente comma si applicano le disposizioni previste dall'articolo 22, comma 11. Il permesso di soggiorno non e' rilasciato o il suo rinnovo e' rifiutato o, se gia' rilasciato, e' revocato, oltre che nei casi di cui ai commi 9 e 10, nei casi di cui al comma 12. Si applica, in ogni caso, l'articolo 22, commi 12, 12-bis, 12-ter, 12-quater e 12-quinquies. Ai familiari dello straniero titolare di Carta blu UE in possesso di un valido titolo di soggiorno rilasciato dallo Stato membro di provenienza e del documento di viaggio valido, e' rilasciato, entro trenta giorni dalla presentazione della domanda completa di rilascio, un permesso di soggiorno per motivi di famiglia, ai sensi dell'articolo 30, commi 2, 3 e 6, previa dimostrazione di aver risieduto in qualita' di familiare del titolare di Carta blu UE nel medesimo Stato membro di provenienza e di essere in possesso dei requisiti di cui all'articolo 29, comma 3.
+
 Per quanto non espressamente previsto dal presente articolo trovano applicazione le disposizioni di cui all'articolo 22, in quanto compatibili.
 
 Le informazioni relative ai requisiti e alle procedure necessarie per ottenere una Carta blu UE sono pubblicate sui rispettivi siti istituzionali del Ministero del lavoro e delle politiche sociali, del Ministero delle imprese e del made in Italy, del Ministero dell'interno e del Ministero degli affari esteri e della cooperazione internazionale. Al fine di garantire la piu' vasta divulgazione delle predette informazioni, le camere di commercio, industria, artigianato e agricoltura inseriscono nei propri siti internet istituzionali una sezione dedicata alle modalita' di rilascio della Carta blu UE. (104)
+
+18-ter.
+                        
+                            
+                                Il Ministero del lavoro e delle politiche sociali comunica con cadenza annuale alla Commissione europea e ogniqualvolta vi siano variazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fattore per determinare l'importo della soglia di retribuzione annuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco delle professioni alle quali si applica una soglia di retribuzione piu' bassa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un elenco delle attivita' professionali consentite; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informazioni relative alla verifica della situazione del mercato del lavoro. Il Ministero del lavoro e delle politiche sociali effettua, ogni due anni, una consultazione pubblica con le amministrazioni interessate e con le parti sociali, sulla valutazione dell'elenco delle professioni contenute nell'allegato I della direttiva (UE) 2021/1883 del Parlamento europeo e del Consiglio del 20 ottobre 2021, tenuto conto dell'evoluzione del mercato del lavoro.
+Il Ministero del lavoro e delle politiche sociali redige, con cadenza quadriennale, anche avvalendosi dei dati del Ministero dell'interno e del Ministero degli affari esteri e della cooperazione internazionale, una relazione avente ad oggetto l'applicazione della direttiva (UE) 2021/1883. Nella relazione vengono prioritariamente presi in esame gli aspetti relativi all'importo della soglia di retribuzione annuale, tenuto conto della situazione del mercato del lavoro.
 
 Il Ministero dell'interno - Dipartimento per le liberta' civili e l'immigrazione costituisce punto di contatto per lo scambio di informazioni e documentazione con gli Stati membri ai fini dell'applicazione del presente articolo. Gli uffici e le amministrazioni competenti forniscono tempestivamente e in via telematica al punto di contatto di cui al comma 1 le informazioni e la documentazione necessarie. Con decreto direttoriale del Ministero dell'interno, sentite le amministrazioni interessate, sono fissate le linee guida per lo svolgimento dell'attivita' del punto di contatto.
 
@@ -1389,9 +3236,144 @@ Il Ministero dell'interno - Dipartimento per le liberta' civili e l'immigrazione
 
 ## Art. 27-quinquies. — (Ingresso e soggiorno nell'ambito di trasferimenti intra-societari)
 
+1.
+                        
+                            
+                                L'ingresso e il soggiorno in Italia per svolgere prestazioni di lavoro subordinato nell'ambito di trasferimenti intra-societari per periodi superiori a tre mesi e' consentito, al di fuori delle quote di cui all'articolo 3, comma 4, agli stranieri che soggiornano fuori del territorio dell'Unione europea al momento della domanda di ingresso o che sono stati gia' ammessi nel territorio di un altro Stato membro e che chiedono di essere ammessi nel territorio nazionale in qualita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dirigenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavoratori specializzati, ossia i lavoratori in possesso di conoscenze specialistiche indispensabili per il settore di attivita', le tecniche o la gestione dell'entita' ospitante, valutate, oltre che rispetto alle conoscenze specifiche relative all'entita' ospitante, anche alla luce dell'eventuale possesso di una qualifica elevata, inclusa un'adeguata esperienza professionale, per un tipo di lavoro o di attivita' che richiede conoscenza tecniche specifiche, compresa l'eventuale appartenenza ad un albo professionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lavoratori in formazione, ossia i lavoratori titolari di un diploma universitario, trasferiti a un'entita' ospitante ai fini dello sviluppo della carriera o dell'acquisizione di tecniche o metodi d'impresa e retribuiti durante il trasferimento.
+
 Per trasferimento intra-societario ai sensi del comma 1 si intende il distacco temporaneo di uno straniero, che al momento della richiesta di nulla osta al lavoro si trova al di fuori del territorio dell'Unione europea, da un'impresa stabilita in un Paese terzo, a cui lo straniero e' legato da un rapporto di lavoro che dura da almeno tre mesi, a un'entita' ospitante stabilita in Italia, appartenente alla stessa impresa o a un'impresa appartenente allo stesso gruppo di imprese ai sensi dell'articolo 2359 del codice civile. Il trasferimento intra-societario comprende i casi di mobilita' dei lavoratori stranieri tra entita' ospitanti stabilite in diversi Stati membri.
 
 Per entita' ospitante si intende la sede, filiale o rappresentanza in Italia dell'impresa da cui dipende il lavoratore trasferito o un'impresa appartenente allo stesso gruppo, o una sua sede, filiale o rappresentanza in Italia.
+
+4.
+                        
+                            
+                                Il presente articolo non si applica agli stranieri che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    chiedono di soggiornare in qualita' di ricercatori ai sensi dell'articolo 27-ter; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in virtu' di accordi conclusi tra il Paese terzo di appartenenza e l'Unione europea e i suoi Stati membri, beneficiano dei diritti alla libera circolazione equivalenti a quelli dei cittadini dell'Unione o lavorano presso un'impresa stabilita in tali Paesi terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soggiornano in Italia, in qualita' di lavoratori distaccati, ai sensi della direttiva 96/71/CE, e della direttiva 2014/67/UE; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolgono attivita' di lavoro autonomo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgono lavoro somministrato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sono ammessi come studenti a tempo pieno o effettuano un tirocinio di breve durata e sotto supervisione nell'ambito del percorso di studi.
+
+5.
+                        
+                            
+                                L'entita' ospitante presenta la richiesta nominativa di nulla osta al trasferimento intra-societario allo sportello unico per l'immigrazione presso la prefettura-Ufficio territoriale del Governo della provincia in cui ha sede legale l'entita' ospitante. La richiesta, a pena di rigetto, indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che l'entita' ospitante e l'impresa stabilita nel paese terzo appartengono alla stessa impresa o allo stesso gruppo di imprese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che il lavoratore ha lavorato alle dipendenze della stessa impresa o di un'impresa appartenente allo stesso gruppo per un periodo minimo di tre mesi ininterrotti immediatamente precedenti la data del trasferimento intra-societario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che dal contratto di lavoro e, se necessaria, da una lettera di incarico risulta: 
+ 1) la durata del trasferimento e l'ubicazione dell'entita' ospitante o delle entita' ospitanti; 
+ 2) che il lavoratore ricoprira' un posto di dirigente, di lavoratore specializzato o di lavoratore in formazione nell'entita' ospitante; 
+ 3) la retribuzione, nonche' le altre condizioni di lavoro e di occupazione durante il trasferimento intra-societario; 
+ 4) che, al termine del trasferimento intra-societario, lo straniero fara' ritorno in un'entita' appartenente alla stessa impresa o a un'impresa dello stesso gruppo stabilite in un Paese terzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il possesso delle qualifiche, dell'esperienza professionale e del titolo di studio di cui al comma 1, lettere a), b) e c); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il possesso da parte dello straniero dei requisiti previsti dal decreto legislativo 9 novembre 2007, n. 206, nell'ipotesi di esercizio della professione regolamentata a cui si riferisce la richiesta; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli estremi di passaporto valido o documento equipollente dello straniero; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per i lavoratori in formazione, il piano formativo individuale contenente la durata, gli obiettivi formativi e le condizioni di svolgimento della formazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'impegno ad adempiere agli obblighi previdenziali e assistenziali previsti dalla normativa italiana, salvo che non vi siano accordi di sicurezza sociale con il Paese di appartenenza.
 
 La richiesta di nulla osta al trasferimento intra-societario contiene altresi' l'impegno dell'entita' ospitante a comunicare allo sportello unico per l'immigrazione ogni variazione del rapporto di lavoro che incide sulle condizioni di ammissione di cui al comma 5.
 
@@ -1413,9 +3395,87 @@ Nel caso in cui l'entita' ospitante abbia sottoscritto con il Ministero dell'int
 
 L'entita' ospitante che ha sottoscritto un protocollo di intesa ai sensi del comma 13 comunica tempestivamente e in ogni caso non oltre trenta giorni ogni modifica che incide sulle condizioni garantite dal predetto protocollo.
 
+15.
+                        
+                            
+                                Il nulla osta al trasferimento intra-societario e' rifiutato o, se gia' rilasciato, e' revocato quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non sono rispettate le condizioni previste dal comma 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non e' trascorso l'intervallo temporale di cui al comma 11; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i documenti presentati sono stati ottenuti in maniera fraudolenta o sono stati falsificati o contraffatti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'entita' ospitante e' stata istituita principalmente allo scopo di agevolare l'ingresso dei lavoratori soggetti a trasferimento intra-societario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'entita' ospitante non ha rispettato i propri obblighi in materia tributaria, di previdenza sociale, diritti dei lavoratori, condizioni di lavoro e di occupazione previsti dalla normativa nazionale o dai contratti collettivi applicabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'entita' ospitante e' stata oggetto di sanzioni per lavoro non dichiarato o occupazione illegale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'entita' ospitante e' in corso di liquidazione, e' stata liquidata o non svolge alcuna attivita' economica.
+
 Nei casi di cui al comma 15, lettere e), f) e g), la decisione di rifiuto o di revoca e' adottata nel rispetto del principio di proporzionalita' e tiene conto delle circostanze specifiche del caso.
 
 Al lavoratore autorizzato al trasferimento intra-societario e' rilasciato dal questore, entro quarantacinque giorni dalla dichiarazione di presenza di cui ai commi 10 e 13 un permesso di soggiorno per trasferimento intra-societario recante la dicitura «ICT» nella rubrica «tipo di permesso», con le modalita' di cui all'articolo 5. Lo straniero dichiara alla questura competente il proprio domicilio e si impegna a comunicarne ogni successiva variazione ai sensi dell'articolo 6, comma 8.
+
+18.
+                        
+                            
+                                Il permesso di soggiorno ICT non e' rilasciato o il suo rinnovo e' rifiutato o, se gia' rilasciato, e' revocato, oltre che nei casi di cui al comma 15, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' stato ottenuto in maniera fraudolenta o e' stato falsificato o contraffatto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    risulta che il lavoratore intra-societario non soddisfaceva o non soddisfa piu' le condizioni per l'ingresso e il soggiorno previste dal presente testo unico o se soggiorna per fini diversi da quelli per cui ha ottenuto il nulla osta ai sensi del presente articolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stata raggiunta la durata massima del trasferimento intra-societario di cui al comma 11.
 
 La revoca del permesso di soggiorno ICT e' comunicata per iscritto al lavoratore e all'entita' ospitante.
 
@@ -1485,11 +3545,68 @@ In tutti i procedimenti amministrativi e giurisdizionali finalizzati a dare attu
 
 ## Art. 29. — (Ricongiungimento familiare).
 
+1.
+                        
+                            
+                                Lo straniero puo' chiedere il ricongiungimento per i seguenti familiari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coniuge non legalmente separato e di eta' non inferiore ai diciotto anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    figli minori, anche del coniuge o nati fuori del matrimonio, non coniugati, a condizione che l'altro genitore, qualora esistente, abbia dato il suo consenso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    figli maggiorenni a carico, qualora per ragioni oggettive non possano provvedere alle proprie indispensabili esigenze di vita in ragione del loro stato di salute che comporti invalidita' totale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    genitori a carico, qualora non abbiano altri figli nel Paese di origine o di provenienza, ovvero genitori ultrasessantacinquenni, qualora gli altri figli siano impossibilitati al loro sostentamento per documentati, gravi motivi di salute.
+
 Ove gli stati di cui al comma 1, lettere b), c) e d), non possano essere documentati in modo certo mediante certificati o attestazioni rilasciati da competenti autorita' straniere, in ragione della mancanza di una autorita' riconosciuta o comunque quando sussistano fondati dubbi sulla autenticita' della predetta documentazione, le rappresentanze diplomatiche o consolari provvedono al rilascio di certificazioni, ai sensi dell'articolo 49 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 200, sulla base dell'esame del DNA (acido desossiribonucleico), effettuato a spese degli interessati.
 
 Non e' consentito il ricongiungimento dei familiari di cui alle lettere a) e d) del comma 1, quando il familiare di cui si chiede il ricongiungimento e' coniugato con un cittadino straniero regolarmente soggiornante con altro coniuge nel territorio nazionale.
 
 Ai fini del ricongiungimento si considerano minori i figli di eta' inferiore a diciotto anni al momento della presentazione dell'istanza di ricongiungimento. I minori adottati o affidati o sottoposti a tutela sono equiparati ai figli.
+
+3.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 29-bis, lo straniero che richiede il ricongiungimento deve dimostrare la disponibilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    di un alloggio conforme ai requisiti igienico-sanitari, nonche' di idoneita' abitativa, accertati dai competenti uffici comunali, previa verifica del numero degli occupanti dell'alloggio e degli altri requisiti previsti dal decreto del Ministro della sanita' 5 luglio 1975, pubblicato nella Gazzetta Ufficiale n. 190 del 18 luglio 1975. Nel caso di un figlio di eta' inferiore agli anni quattordici al seguito di uno dei genitori, e' sufficiente il consenso del titolare dell'alloggio nel quale il minore effettivamente dimorera'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di un reddito minimo annuo derivante da fonti lecite non inferiore all'importo annuo dell'assegno sociale aumentato della meta' dell'importo dell'assegno sociale per ogni familiare da ricongiungere. Per il ricongiungimento di due o piu' figli di eta' inferiore agli anni quattordici e' richiesto, in ogni caso, un reddito non inferiore al doppio dell'importo annuo dell'assegno sociale. Ai fini della determinazione del reddito si tiene conto anche del reddito annuo complessivo dei familiari conviventi con il richiedente; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    di una assicurazione sanitaria o di altro titolo idoneo, a garantire la copertura di tutti i rischi nel territorio nazionale a favore dell'ascendente ultrasessantacinquenne ovvero della sua iscrizione al Servizio sanitario nazionale, previo pagamento di un contributo il cui importo e' da determinarsi con decreto del Ministro del lavoro, della salute e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro il 30 ottobre 2008 e da aggiornarsi con cadenza biennale, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
 E' consentito l'ingresso, al seguito dello straniero titolare di carta di soggiorno o di un visto di ingresso per lavoro subordinato relativo a contratto di durata non inferiore a un anno, o per lavoro autonomo non occasionale, ovvero per studio o per motivi religiosi, dei familiari con i quali e' possibile attuare il ricongiungimento, a condizione che ricorrano i requisiti di disponibilita' di alloggio e di reddito di cui al comma 3.
 
@@ -1502,6 +3619,31 @@ La domanda di nulla osta al ricongiungimento familiare, corredata della document
 Il nulla osta al ricongiungimento familiare e' rilasciato entro ((centocinquanta giorni)) dalla richiesta. (63)
 
 La richiesta di ricongiungimento familiare e' respinta se e' accertato che il matrimonio o l'adozione hanno avuto luogo allo scopo esclusivo di consentire all'interessato di entrare o soggiornare nel territorio dello Stato.
+
+10.
+                        
+                            
+                                Le disposizioni di cui al presente articolo non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando il soggiornante chiede il riconoscimento dello status di rifugiato e la sua domanda non e' ancora stata oggetto di una decisione definitiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli stranieri destinatari delle misure di protezione temporanea, disposte ai sensi del decreto legislativo 7 aprile 2003, n. 85, ovvero delle misure di cui agli articoli 20 e 20-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.L. 4 OTTOBRE 2018, N. 113, CONVERTITO CON MODIFICAZIONI DALLA L. 1 DICEMBRE 2018, N. 132.
 
 ---------------
                             AGGIORNAMENTO (63)
@@ -1522,6 +3664,38 @@ Se il rifugiato e' un minore non accompagnato, e' consentito l'ingresso ed il so
 
 ## Art. 30. — Permesso di soggiorno per motivi familiari 
  (Legge 6 marzo 1998, n. 40, art. 28)
+
+1.
+                        
+                            
+                                Fatti salvi i casi di rilascio o di rinnovo della carta di soggiorno, il permesso di soggiorno per motivi familiari e' rilasciato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    allo straniero che ha fatto ingresso in Italia con visto di ingresso per ricongiungimento familiare, ovvero con visto di ingresso al seguito del proprio familiare nei casi previsti dall'articolo 29, ovvero con visto di ingresso per ricongiungimento al figlio minore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli stranieri regolarmente soggiornanti ad altro titolo da almeno un anno che abbiano contratto matrimonio nel territorio dello Stato con cittadini italiani o di uno Stato membro dell'Unione europea, ovvero con cittadini stranieri regolarmente soggiornanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al familiare straniero regolarmente soggiornante, in possesso dei requisiti per il ricongiungimento con il cittadino italiano o di uno Stato membro dell'Unione europea residenti in Italia, ovvero con straniero regolarmente soggiornante in Italia. In tal caso il permesso del familiare e' convertito in permesso di soggiorno per motivi familiari. La conversione puo' essere richiesta entro un anno dalla data di scadenza del titolo di soggiorno originariamente posseduto dal familiare. Qualora detto cittadino sia un rifugiato si prescinde dal possesso di un valido permesso di soggiorno da parte del familiare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al genitore straniero, anche naturale, di minore italiano residente in Italia. In tal caso il permesso di soggiorno per motivi familiari e' rilasciato anche a prescindere dal possesso di un valido titolo di soggiorno, a condizione che il genitore richiedente non sia stato privato della potesta' genitoriale secondo la legge italiana.
 
 Il permesso di soggiorno nei casi di cui al comma 1, lettera b), e' immediatamente revocato qualora sia accertato che al matrimonio non e' seguita l'effettiva convivenza salvo che dal matrimonio sia nata prole. La richiesta di rilascio o di rinnovo del permesso di soggiorno dello straniero di cui al comma 1, lettera a), e' rigettata e il permesso di soggiorno e' revocato se e' accertato che il matrimonio o l'adozione hanno avuto luogo allo scopo esclusivo di permettere all'interessato di soggiornare nel territorio dello Stato.
 
@@ -1567,6 +3741,24 @@ Il numero dei permessi di soggiorno rilasciati ai sensi del presente articolo e'
 
 Al fine di vigilare sulle modalita' di soggiorno dei minori stranieri temporaneamente ammessi sul territorio dello Stato e di coordinare le attivita' delle amministrazioni interessate e' istituito, senza ulteriori oneri a carico del bilancio dello Stato un Comitato presso la Presidenza del Consiglio dei ministri composto da rappresentanti dei ministeri degli Affari esteri, dell'interno e di grazia e giustizia, del Dipartimento per gli affari sociali della Presidenza del Consiglio dei ministri, nonche' da due rappresentanti dell'Associazione nazionale dei comuni italiani (ANCI), da un rappresentante dell'Unione province d'Italia (UPI) e da due rappresentanti di organizzazioni maggiormente rappresentative operanti nel settore dei problemi della famiglia.
 
+2.
+                        
+                            
+                                Con decreto del Presidente del Consiglio dei Ministri o del Ministro da lui delegato, sentiti i Ministri degli affari esteri, dell'interno e di grazia e giustizia, sono definiti i compiti del Comitato di cui al comma 1, concernenti la tutela dei diritti dei minori stranieri in conformita' alle previsioni della Convenzione sui diritti del fanciullo del 20 novembre 1989, ratificata e resa esecutiva ai sensi della legge 27 maggio 1991, n. 176. In particolare sono stabilite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le regole e le modalita' per l'ingresso ed il soggiorno nel territorio dello Stato dei minori stranieri in eta' superiore a sei anni, che entrano in Italia nell'ambito di programmi solidaristici di accoglienza temporanea promossi da enti, associazioni o famiglie italiane, nonche' per l'affidamento temporaneo e per il rimpatrio dei medesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di accoglienza dei minori stranieri non accompagnati presenti nel territorio dello Stato, nell'ambito delle attivita' dei servizi sociali degli enti locali e i compiti di impulso e di raccordo del Comitato di cui al comma 1 con le amministrazioni interessate ai fini dell'accoglienza, del rimpatrio assistito e del ricongiungimento del minore con la sua famiglia nel Paese d'origine o in un Paese terzo.
+
 Il provvedimento di rimpatrio del minore straniero non accompagnato per le finalita' di cui al comma 2, e' adottato ((dal tribunale per i minorenni competente)). ((PERIODO SOPPRESSO DALLA L. 7 APRILE 2017, N. 47)).
 
 ((3. All'attuazione delle disposizioni contenute nel presente articolo si provvede nei limiti delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri per la finanza pubblica))
@@ -1577,9 +3769,52 @@ Il provvedimento di rimpatrio del minore straniero non accompagnato per le final
 
 (Legge 6 marzo 1998, n. 40, art. 32)
 
+1.
+                        
+                            
+                                Hanno l'obbligo di iscrizione al Servizio sanitario nazionale e hanno parita' di trattamento e piena uguaglianza di diritti e doveri rispetto ai cittadini italiani per quanto attiene all'obbligo contributivo, all'assistenza erogata in Italia dal Servizio sanitario nazionale e alla sua validita' temporale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli stranieri regolarmente soggiornanti che abbiano in corso regolari attivita' di lavoro subordinato o di lavoro autonomo o siano iscritti nelle liste di collocamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli stranieri regolarmente soggiornanti o che abbiano chiesto il rinnovo del titolo di soggiorno, per lavoro subordinato, per lavoro autonomo, per motivi familiari, per asilo, per protezione sussidiaria, per casi speciali, per protezione speciale, per cure mediche ai sensi dell'articolo 19, comma 2, lettera d-bis), per richiesta di asilo, per attesa adozione, per affidamento, per acquisto della cittadinanza. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    i minori stranieri non accompagnati, anche nelle more del rilascio del permesso di soggiorno, a seguito delle segnalazioni di legge dopo il loro ritrovamento nel territorio nazionale.
+
 L'assistenza sanitaria spetta altresi' ai familiari a carico regolarmente soggiornanti. Nelle more dell'iscrizione al servizio sanitario nazionale ai minori figli di stranieri iscritti al servizio sanitario nazionale e' assicurato fin dalla nascita il medesimo trattamento dei minori iscritti.
 
 Lo straniero regolarmente soggiornante, non rientrante tra le categorie indicate nei commi 1 e 2 e' tenuto ad assicurarsi contro il rischio di malattie, infortunio e maternita' mediante stipula di apposita polizza assicurativa con un istituto assicurativo italiano o straniero, valida sul territorio nazionale, ovvero mediante iscrizione al servizio sanitario nazionale valida anche per i familiari a carico. Per l'iscrizione al servizio sanitario nazionale deve essere corrisposto a titolo di partecipazione alle spese un contributo annuale, di importo percentuale pari a quello previsto per i cittadini italiani, sul reddito complessivo conseguito nell'anno precedente in Italia e all'estero. L'ammontare del contributo e' determinato con decreto del Ministro della sanita', di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e non puo' essere inferiore ((a euro 2.000 annui)).
+
+4.
+                        
+                            
+                                L'iscrizione volontaria al servizio sanitario nazionale puo' essere altresi' richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dagli stranieri soggiornanti in Italia titolari di permesso di soggiorno per motivi di studio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dagli stranieri regolarmente soggiornanti collocati alla pari, ai sensi dell'accordo europeo sul collocamento alla pari, adottato a Strasburgo il 24 novembre 1969, ratificato e reso esecutivo ai sensi della legge 18 maggio 1973 n. 304.
 
 I soggetti di cui al comma 4 sono tenuti a corrispondere per l'iscrizione al servizio sanitario nazionale, a titolo di partecipazione alla spesa, un contributo annuale forfettario negli importi e secondo le modalita' previsti dal decreto di cui al comma 3. (( Il contributo non e' in ogni caso inferiore a euro 700 annui nei casi di cui al comma 4, lettera a), e a euro 1.200 nei casi di cui al comma 4, lettera b) )).
 
@@ -1596,6 +3831,45 @@ Lo straniero assicurato al servizio sanitario nazionale e' iscritto nella aziend
 Per le prestazioni sanitarie erogate ai cittadini stranieri non iscritti al Servizio sanitario nazionale devono essere corrisposte, dai soggetti tenuti al pagamento di tali prestazioni, le tariffe determinate dalle regioni e province autonome ai sensi dell'articolo 8, commi 5 e 7, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni.
 
 Restano salve le norme che disciplinano l'assistenza sanitaria ai cittadini stranieri in Italia in base a trattati e accordi internazionali bilaterali o multilaterali di reciprocita' sottoscritti dall'Italia.
+
+3.
+                        
+                            
+                                Ai cittadini stranieri presenti sul territorio nazionale, non in regola con le norme relative all'ingresso ed al soggiorno, sono assicurate, nei presidi pubblici ed accreditati, le cure ambulatoriali ed ospedaliere urgenti o comunque essenziali, ancorche' continuative, per malattia ed infortunio e sono estesi i programmi di medicina preventiva a salvaguardia della salute individuale e collettiva. Sono, in particolare, garantiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tutela sociale della gravidanza e della maternita', a parita' di trattamento con le cittadine italiane, ai sensi delle leggi 29 luglio 1975, n. 405, e 22 maggio 1978, n. 194, e del decreto del Ministro della sanita' 6 marzo 1995, pubblicato nella Gazzetta Ufficiale n. 87 del 13 aprile 1995, a parita' di trattamento con i cittadini italiani; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tutela della salute del minore in esecuzione della Convenzione sui diritti del fanciullo del 20 novembre 1989, ratificata e resa esecutiva ai sensi della legge 27 maggio 1991, n. 176; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le vaccinazioni secondo la normativa e nell'ambito di interventi di campagne di prevenzione collettiva autorizzati dalle regioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli interventi di profilassi internazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la profilassi, la diagnosi e la cura delle malattie infettive ed eventuale bonifica dei relativi focolai.
 
 Le prestazioni di cui al comma 3 sono erogate senza oneri a carico dei richiedenti qualora privi di risorse economiche sufficienti, fatte salve le quote di partecipazione alla spesa a parita' con i cittadini italiani.
 
@@ -1651,6 +3925,53 @@ L'effettivita' del diritto allo studio e' garantita dallo Stato, dalle Regioni e
 
 La comunita' scolastica accoglie le differenze linguistiche e culturali come valore da porre a fondamento del rispetto reciproco, dello scambio tra le culture e della tolleranza; a tale fine promuove e favorisce iniziative volte alla accoglienza, alla tutela della cultura e della lingua d'origine e alla realizzazione di attivita' interculturali comuni.
 
+4.
+                        
+                            
+                                Le iniziative e le attivita' di cui al comma 3 sono realizzate sulla base di una rilevazione dei bisogni locali e di una programmazione territoriale integrata, anche in convenzione con le associazioni degli stranieri, con le rappresentanze diplomatiche o consolari dei Paesi di appartenenza e con le organizzazioni di volontariato.
+ 5.Le istituzioni scolastiche, nel quadro di una programmazione territoriale degli interventi, anche sulla base di convenzioni con le Regioni e gli enti locali, promuovono:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accoglienza degli stranieri adulti regolarmente soggiornanti mediante l'attivazione di corsi di alfabetizzazione nelle scuole elementari e medie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la realizzazione di un'offerta culturale valida per gli stranieri adulti regolarmente soggiornanti che intendano conseguire il titolo di studio della scuola dell'obbligo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la predisposizione di percorsi integrativi degli studi sostenuti nel Paese di provenienza al fine del conseguimento del titolo dell'obbligo o del diploma di scuola secondaria superiore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la realizzazione ed attuazione di corsi di lingua italiana;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la realizzazione di corsi di formazione, anche nel quadro di accordi di collaborazione internazionale in vigore per l'Italia.
+ 6. Le regioni, anche attraverso altri enti locali, promuovono programmi culturali per i diversi gruppi nazionali, anche mediante corsi effettuati presso le scuole superiori o istituti universitari.
+Analogamente a quanto disposto per i figli dei lavoratori comunitari e per i figli degli emigrati italiani che tornano in Italia, sono attuati specifici insegnamenti integrativi, nella lingue e cultura di origine.
+ 7. Con regolamento adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, sono dettate le disposizioni di attuazione del presente capo, con specifica indicazione:
+ a) delle modalita' di realizzazione di specifici progetti nazionali e locali, con particolare riferimento all'attivazione di corsi intensivi di lingua italiana nonche' dei corsi di formazione ed aggiornamento del personale ispettivo, direttivo e docente delle scuole di ogni ordine e grado e dei criteri per l'adattamento dei programmi di insegnamento;
+ b) dei criteri per il riconoscimento dei titoli di studio e degli studi effettuati nei paesi di provenienza ai fini dell'inserimento scolastico, nonche' dei criteri e delle modalita' di comunicazione con le famiglie degli alunni stranieri, anche con l'ausilio di mediatori culturali qualificati;
+ c) dei criteri per l'iscrizione e l'inserimento nelle classi degli stranieri provenienti dall'estero, per la ripartizione degli alunni stranieri nelle classi e per l'attivazione di specifiche attivita' di sostegno linguistico;
+ d) dei criteri per la stipula delle convenzioni di cui ai commi 4 e 5.
+
 ## Art. 38-bis. — (( (Disposizioni in materia di soggiorni di breve durata per gli studenti delle filiazioni in Italia di universita' e istituti superiori di insegnamento a livello universitario stranieri). ))
 
 ((
@@ -1668,6 +3989,52 @@ In materia di accesso ai corsi di istruzione e formazione tecnico superiore, ai 
 
 Le istituzioni di formazione superiore, nella loro autonomia e nei limiti delle loro disponibilita' finanziarie, assumono iniziative volte al conseguimento degli obiettivi del documento programmatico di cui all'articolo 3, promuovendo l'accesso degli stranieri ai corsi universitari e di alta formazione artistica, musicale e coreutica, tenendo conto degli orientamenti comunitari in materia, in particolare riguardo all'inserimento di una quota di studenti universitari stranieri, stipulando apposite intese con istituzioni formative straniere per la mobilita' studentesca, nonche' organizzando attivita' di orientamento e di accoglienza.
 
+3.
+                        
+                            
+                                Con il regolamento di attuazione sono disciplinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli adempimenti richiesti agli stranieri per il conseguimento del visto di ingresso e del permesso di soggiorno per motivi di studio anche con riferimento alle modalita' di prestazione di garanzia di copertura economica da parte di enti o cittadini italiani o stranieri regolarmente soggiornanti nel territorio dello Stato in luogo della dimostrazione di disponibilita' di mezzi sufficienti di sostentamento da parte dello studente straniero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rinnovabilita' del permesso di soggiorno per motivi di studio, anche ai fini della prosecuzione del corso di studi con l'iscrizione ad un corso di istruzione tecnica superiore e di formazione superiore diverso da quello per il quale lo straniero ha fatto ingresso, previa autorizzazione dell'istituzione, e l'esercizio di attivita' di lavoro subordinato o autonomo da parte dello straniero titolare di tale permesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'erogazione di borse di studio, sussidi e premi agli studenti stranieri, anche a partire da anni di corso successivi al primo, in coordinamento con la concessione delle provvidenze previste dalla normativa vigente in materia di diritto allo studio universitario e senza obbligo di reciprocita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri per la valutazione della condizione economica dello straniero ai fini dell'uniformita' di trattamento in ordine alla concessione delle provvidenze di cui alla lettera c); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la realizzazione di corsi di lingua italiana per gli stranieri che intendono accedere all'istruzione tecnica e alla formazione superiore in Italia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il riconoscimento dei titoli di studio conseguiti all'estero.
+
 COMMA ABROGATO DAL D.L. 23 DICEMBRE 2013, N. 145, CONVERTITO CON MODIFICAZIONI DALLA L. 21 FEBBRAIO 2014, N. 9.
 
 Lo straniero titolare di un'autorizzazione in corso di validita', rilasciata da uno Stato membro dell'Unione europea in quanto iscritto ad un corso di istruzione tecnica superiore o di formazione superiore o ad un istituto di insegnamento superiore, che beneficia di un programma dell'Unione o multilaterale comprendente misure sulla mobilita' o di un accordo tra due o piu' istituti di istruzione superiore, puo' fare ingresso e soggiornare in Italia, per un periodo massimo di trecentosessanta giorni, senza necessita' di visto e di permesso di soggiorno per proseguire gli studi gia' iniziati nell'altro Stato membro o per integrarli con un programma di studi ad essi connesso. Si applicano le disposizioni di cui all'articolo 5, comma 7. Nel caso in cui l'autorizzazione in corso di validita' provenga da uno Stato membro che non applica integralmente l'acquis di Schengen, lo straniero al momento della dichiarazione di cui all'articolo 5, comma 7, esibisce copia dell'autorizzazione del primo Stato membro e della documentazione relativa al programma dell'Unione o multilaterale o all'accordo tra due o piu' istituti di istruzione.
@@ -1680,9 +4047,105 @@ Agli stranieri di cui ai commi 4-ter e 5 e' rilasciato dal questore un permesso 
 
 Quando il permesso di soggiorno di cui all'articolo 5, comma 3, lettera c) e' rilasciato allo studente che fa ingresso nel territorio nazionale sulla base di specifici programmi dell'Unione o multilaterali comprendenti misure sulla mobilita' o accordi tra due o piu' istituti di istruzione superiore, il permesso di soggiorno fa riferimento a tali programmi o accordi. Lo studente titolare del permesso di soggiorno di cui al presente comma e' riammesso senza formalita' nel territorio nazionale, su richiesta di altro Stato membro dell'Unione europea che si oppone alla mobilita' dello studente anche quando il permesso di soggiorno di cui al presente comma e' scaduto o revocato.
 
+5-quater.
+                        
+                            
+                                Il permesso di soggiorno di cui ai commi 5-bis e 5-ter non e' rilasciato o il suo rinnovo e' rifiutato ovvero, se gia' rilasciato, e' revocato nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se e' stato ottenuto in maniera fraudolenta o e' stato falsificato o contraffatto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se risulta che lo straniero non soddisfaceva o non soddisfa piu' le condizioni d'ingresso e di soggiorno previste dal presente testo unico o se soggiorna per fini diversi da quelli per i quali ha ottenuto il permesso di soggiorno ai sensi del presente articolo.
+
+5-quinquies.
+                        
+                            
+                                Le disposizioni di cui ai commi 4-bis, 4-ter e 5-ter non si applicano agli stranieri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che soggiornano a titolo di protezione temporanea ((, per cure mediche ovvero sono titolari dei permessi di soggiorno di cui agli articoli 18, 18-bis, 20-bis, 22, comma 12-quater, e 42-bis, nonche' del permesso di soggiorno rilasciato ai sensi dell'articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che soggiornano in quanto beneficiari di protezione internazionale come definita dall'articolo 2, comma 1, lettera a), del decreto legislativo 19 novembre 2007, n. 251, e successive modificazioni, ovvero hanno richiesto il riconoscimento di tale protezione e sono in attesa di una decisione definitiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che sono familiari di cittadini dell'Unione europea che hanno esercitato o esercitano il diritto alla libera circolazione ai sensi del decreto legislativo 6 febbraio 2007, n. 30, e successive modificazioni, o che, insieme ai loro familiari e a prescindere dalla cittadinanza, godano di diritti di libera circolazione equivalenti a quelli dei cittadini dell'Unione, sulla base di accordi conclusi tra l'Unione e i suoi Stati membri e Paesi terzi o tra l'Unione e Paesi terzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che beneficiano dello status di soggiornante di lungo periodo e soggiornano ai sensi dell'articolo 9-bis per motivi di lavoro autonomo o subordinato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che soggiornano in qualita' di lavoratori altamente qualificati, ai sensi dell'articolo 27-quater; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che sono ammessi nel territorio dell'Unione europea in qualita' di dipendenti in tirocinio nell'ambito di un trasferimento intrasocietario come definito dall'articolo 27-quinquies, comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    che sono destinatari di un provvedimento di espulsione anche se sospeso.
+
 ## Art. 39-bis. — Soggiorno di studenti, scambio di alunni, tirocinio ((...))
 
 
+
+1.
+                        
+                            
+                                E' consentito l'ingresso e il soggiorno per motivi di studio, secondo le modalita' stabilite nel regolamento di attuazione, dei cittadini stranieri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    maggiori di eta' ammessi a frequentare corsi di studio negli istituti di istruzione ((secondaria superiore,)) corsi di istruzione e formazione tecnica superiore ((, percorsi di istruzione tecnica superiore e corsi di formazione superiore)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    minori di eta' non inferiore a quindici anni in presenza di adeguate forme di tutela; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    minori di eta' non inferiore a quattordici anni che partecipano a programmi di scambio o di iniziative culturali approvati ((dal Ministero degli affari esteri e della cooperazione internazionale, dal Ministero dell'istruzione, dell'universita' e della ricerca)) o dal Ministero per i beni e le attivita' culturali per la frequenza di corsi di studio presso istituti e scuole secondarie nazionali statali o paritarie o presso istituzioni accademiche. ((I programmi di scambio definiscono le responsabilita' delle spese relative agli studi, in capo a terzi oltre all'alloggio dell'alunno.))
 
 ((
 
@@ -1704,6 +4167,24 @@ Si applicano le disposizioni di cui all'articolo 39, commi 5-ter e 5-quater.
 In presenza dei requisiti reddituali di cui all'articolo 29, comma 3, lettera b), e fermo restando il rispetto dell'obbligo di cui all'articolo 34, comma 3, lo straniero munito di passaporto valido o altro documento equipollente, che ha conseguito in Italia il dottorato o il master universitario ovvero la laurea triennale o la laurea specialistica, o il diploma accademico di primo livello o di secondo livello o il diploma di tecnico superiore, alla scadenza del permesso di soggiorno di cui agli articoli 39 e 39-bis, comma 1, lettera a), puo' dichiarare la propria immediata disponibilita' allo svolgimento di attivita' lavorativa e alla partecipazione alle misure di politica attiva del lavoro presso i servizi per l'impiego, come previsto dall'articolo 19 del decreto legislativo 14 settembre 2015, n. 150, e richiedere un permesso di soggiorno di durata non inferiore a nove e non superiore a dodici mesi al fine di cercare un'occupazione o avviare un'impresa coerente con il percorso formativo completato. In presenza dei requisiti previsti dal presente testo unico, puo' essere richiesta la conversione in permesso di soggiorno per lavoro.
 
 Ai fini del rilascio del permesso di soggiorno di cui al comma 1, lo straniero oltre alla documentazione relativa al possesso dei requisiti reddituali e al rispetto dell'obbligo di cui all'articolo 34, comma 3, allega la documentazione relativa al conseguimento di uno dei titoli di cui al comma 1. Ove la documentazione relativa al conseguimento di uno dei titoli di cui al comma 1, non sia gia' disponibile, puo' essere presentata entro sessanta giorni dalla richiesta del permesso di soggiorno di cui al comma 1.
+
+3.
+                        
+                            
+                                Il permesso di soggiorno di cui al comma 1 non e' rilasciato, o se gia' rilasciato, e' revocato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la documentazione di cui ai commi 1 e 2 e' stata ottenuta in maniera fraudolenta, falsificata o contraffatta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se risulta che lo straniero non soddisfaceva o non soddisfa piu' le condizioni previste dai commi 1 e 2 nonche' le altre condizioni di ingresso e di soggiorno previste dal presente testo unico.
 
 ))
 
@@ -1755,10 +4236,109 @@ Gli stranieri titolari di permesso unico di lavoro e i titolari di permesso di s
 (Legge 6 marzo 1998, n. 40, art. 40; 
  legge 30 dicembre 1986, n. 943, art. 2)
 
+1.
+                        
+                            
+                                Lo Stato, le regioni, le province e i comuni, nell'ambito delle proprie competenze, anche in collaborazione con le associazioni di stranieri e con le organizzazioni stabilmente operanti in loro favore, nonche' in collaborazione con le autorita' o con enti pubblici e privati dei Paesi di origine, favoriscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' intraprese in favore degli stranieri regolarmente soggiornanti in Italia, anche al fine di effettuare corsi della lingua e della cultura di origine, dalle scuole e dalle istituzioni culturali straniere legalmente funzionanti nella Repubblica ai sensi del decreto del Presidente della Repubblica 18 aprile 1994, n. 389, e successive modificazioni ed integrazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la diffusione di ogni informazione utile al positivo inserimento degli stranieri nella societa' italiana in particolare riguardante i loro diritti e i loro doveri, le diverse opportunita' di integrazione e crescita personale e comunitaria offerte dalle amministrazioni pubbliche e dall'associazionismo, nonche' alle possibilita' di un positivo reinserimento nel Paese di origine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la conoscenza e la valorizzazione delle espressioni culturali, ricreative, sociali, economiche e religiose degli stranieri regolarmente soggiornanti in Italia e ogni iniziativa di informazione sulle cause dell'immigrazione e di prevenzione delle discriminazioni razziali o della xenofobia, anche attraverso la raccolta presso le biblioteche scolastiche e universitarie, di libri, periodici e materiale audiovisivo prodotti nella lingua originale dei Paesi di origine degli stranieri residenti in Italia o provenienti da essi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la realizzazione di convenzioni con associazioni regolarmente iscritte nel registro di cui al comma 2 per l'impiego all'interno delle proprie strutture di stranieri, titolari di carta di soggiorno o di permesso di soggiorno di durata non inferiore a due anni, in qualita' di mediatori interculturali al fine di agevolare i rapporti tra le singole amministrazioni e gli stranieri appartenenti ai diversi gruppi etnici, nazionali, linguistici e religiosi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'organizzazione di corsi di formazione, ispirati a criteri di convivenza in una societa' multiculturale e di prevenzione di comportamenti discriminatori, xenofobi o razzisti, destinati agli operatori degli organi e uffici pubblici e degli enti privati che hanno rapporti abituali con stranieri o che esercitano competenze rilevanti in materia di immigrazione.
+
 Per i fini indicati nel comma 1 e' istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento per gli affari sociali un registro delle associazioni selezionate secondo criteri e requisiti previsti nel regolamento di attuazione.
 
 Ferme restando le iniziative promosse dalle regioni e dagli enti locali, allo scopo di individuare, con la partecipazione dei cittadini stranieri, le iniziative idonee alla rimozione degli ostacoli che impediscono l'effettivo esercizio dei diritti e dei doveri dello straniero, e' istituito presso il Consiglio nazionale dell'economia e del lavoro, un organismo nazionale di coordinamento.
 I1 Consiglio nazionale dell'economia e del lavoro, nell'ambito delle proprie attribuzioni, svolge compiti di studio e promozione di attivita' volte a favorire la partecipazione degli stranieri alla vita pubblica e la circolazione delle informazioni sull'applicazione del presente testo unico.
+
+4.
+                        
+                            
+                                Ai fini dell'acquisizione delle osservazioni degli enti e delle associazioni nazionali maggiormente attivi nell'assistenza e nell'integrazione degli immigrati di cui all'articolo 3, comma 1, e del collegamento con i Consigli territoriali di cui all'art. 3, comma 6, nonche' dell'esame delle problematiche relative alla condizione degli stranieri immigrati, e' istituita presso la Presidenza del Consiglio dei Ministri, la Consulta per i problemi degli stranieri immigrati e delle loro famiglie, presieduta dal Presidente del Consiglio dei Ministri o da un Ministro da lui delegato. Della Consulta sono chiamati a far parte, con decreto del Presidente del Consiglio dei Ministri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rappresentanti delle associazioni e degli enti presenti nell'organismo di cui al comma 3 e rappresentanti delle associazioni che svolgono attivita' particolarmente significative nel settore dell'immigrazione in numero non inferiore a dieci; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rappresentanti degli stranieri extracomunitari designati dalle associazioni piu' rappresentative operanti in Italia, in numero non inferiore a sei; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rappresentanti designati dalle confederazioni sindacali nazionali dei lavoratori, in numero non inferiore a quattro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rappresentanti designati dalle organizzazioni sindacali nazionali dei datori di lavoro dei diversi settori economici, in numero non inferiore a tre; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    otto esperti designati rispettivamente dai Ministeri del lavoro e della previdenza sociale, della pubblica istruzione, dell'interno, di grazia e giustizia, degli affari esteri, delle finanze e dai Dipartimenti della solidarieta' sociale e delle pari opportunita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    otto rappresentanti delle autonomie locali, di cui due designati dalle regioni, uno dall'Associazione nazionale dei comuni italiani (ANCI), uno dall'Unione delle province italiane (UPI) e quattro dalla Conferenza unificata di cui al decreto legislativo 28 agosto 1997, n. 281;. 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    due rappresentanti del Consiglio nazionale dell'economia e del lavoro (CNEL). 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    esperti dei problemi dell'immigrazione in numero non superiore a dieci.
 
 Per ogni membro effettivo della Consulta e' nominato un supplente.
 
@@ -1783,6 +4363,45 @@ La partecipazione alla Consulte di cui ai commi 4 e 6 dei membri di cui al prese
 
 
 Ai fini del presente capo, costituisce discriminazione ogni comportamento che, direttamente o indirettamente, comporti una distinzione, esclusione, restrizione o preferenza basata sulla razza, il colore, l'ascendenza o l'origine nazionale o etnica, le convinzioni e le pratiche religiose, e che abbia lo scopo o l'effetto di distruggere o di compromettere il riconoscimento, il godimento o l'esercizio, in condizioni di parita', dei diritti umani e delle liberta' fondamentali in campo politico economico, sociale e culturale e in ogni altro settore della vita pubblica.
+
+2.
+                        
+                            
+                                In ogni caso compie un atto di discriminazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    il pubblico ufficiale o la persona incaricata di pubblico servizio o la persona esercente un servizio di pubblica necessita' che nell'esercizio delle sue funzioni compia od ometta atti nei riguardi di un cittadino straniero che, soltanto a causa della sua condizione di straniero o di appartenente ad una determinata razza, religione, etnia o nazionalita', lo discriminino ingiustamente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chiunque imponga condizioni piu' svantaggiose o si rifiuti di fornire beni o servizi offerti al pubblico ad uno straniero soltanto a causa della sua condizione di straniero o di appartenente ad una determinata razza, religione, etnia o nazionalita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    chiunque illegittimamente imponga condizioni piu' svantaggiose o si rifiuti di fornire l'accesso all'occupazione, all'alloggio, all'istruzione, alla formazione e ai servizi sociali e socio- assistenziali allo straniero regolarmente soggiornante in Italia soltanto in ragione della sua condizione di straniero o di appartenente ad una determinata razza, religione, etnia o nazionalita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    chiunque impedisca, mediante azioni od omissioni, l'esercizio di un'attivita' economica legittimamente intrapresa da uno straniero regolarmente soggiornante in Italia, soltanto in ragione della sua condizione di straniero o di appartenente ad una determinata razza, confessione religiosa, etnia o nazionalita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il datore di lavoro o i suoi preposti i quali, ai sensi dell'articolo 15 della legge 20 maggio 1970, n. 300, come modificata e integrata dalla legge 9 dicembre l977, n. 903, e dalla legge 11 maggio 1990, n. 108, compiano qualsiasi atto o comportamento che produca un effetto pregiudizievole discriminando, anche indirettamente, i lavoratori in ragione della loro appartenenza ad una razza, ad un gruppo etnico o linguistico, ad una confessione religiosa, ad una cittadinanza. Costituisce discriminazione indiretta ogni trattamento pregiudizievole conseguente all'adozione di criteri che svantaggino in modo proporzionalmente maggiore i lavoratori appartenenti ad una determinata razza, ad un determinato gruppo etnico o linguistico, ad una determinata confessione religiosa o ad una cittadinanza e riguardino requisiti non essenziali allo svolgimento dell'attivita' lavorativa.
 
 Il presente articolo e l'articolo 44 si applicano anche agli atti xenofobi, razzisti o discriminatori compiuti nei confronti dei cittadini italiani, di apolidi e di cittadini di altri Stati membri dell'Unione europea presenti in Italia.
 
@@ -1855,9 +4474,108 @@ Per l'adempimento dei propri compiti la commissione puo' avvalersi della collabo
 
 (Legge 6 marzo 1998, n. 40, art. 46)
 
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente testo unico, sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 144, 147, 148 e 149 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le disposizioni della legge 30 dicembre 1986, n. 943, ad eccezione dell'art. 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 13 dell'articolo 3 della legge 8 agosto 1995, n. 335.
+
+2.
+                        
+                            
+                                Restano abrogate le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 151 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 25 della legge 22 maggio 1975, n. 152;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 12 della legge 30 dicembre 1986, n. 943;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 5, commi sesto, settimo e ottavo, del decreto legge 30 dicembre 1979, n. 663, convertito, con modificazioni, dalla legge 29 febbraio 1980, n 33;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli articoli 2 e seguenti del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 4 della legge 18 gennaio 1994, n 50;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 116 del testo unico approvato con decreto legislativo 16 aprile 1994, n. 297.
+ 3 All'art. 20, comma 2, della legge 2 dicembre 1991, n. 390, restano soppresse le parole:
+"sempre che esistano trattati o accordi internazionali bilaterali o multilaterali di reciprocita' tra la Repubblica italiana e gli Stati di origine degli studenti, fatte salve le diverse disposizioni previste nell'ambito dei programmi in favore dei Paesi in via di sviluppo".
+ 4. A decorrere dalla data di entrata in vigore del regolamento di attuazione del presente testo unico sono abrogate le disposizioni ancora in vigore del Titolo V del regolamento di esecuzione del Testo unico 18 giugno 1941, n. 773, delle leggi di pubblica sicurezza, approvato con regio decreto 6 maggio 1940, n. 635.
+
 ## Art. 48. — Copertura finanziaria
 
 (Legge 6 marzo 1998, n. 40, art. 48)
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione della legge 6 marzo 1998, n. 40 e del presente testo unico, valutato in lire 42.500 milioni per il 1997 e in lire 124.000 milioni per ciascuno degli anni 1998 e 1999, si provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a lire 22.500 milioni per l'anno 1997 e a lire 104.000 milioni per ciascuno degli anni 1998 e 1999, mediante riduzione dello stanziamento iscritto ai fini del bilancio triennale 1997-1999 al capitolo 6856 dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1997, allo scopo parzialmente utilizzando, quanto a lire 22.500 milioni per l'anno 1997 e a lire 29.000 milioni per ciascuno degli anni 1998 e 1999, l'accantonamento relativo al Ministero del tesoro; quanto a lire 50.000 milioni per ciascuno degli anni 1998 e 1999 l'accantonamento relativo alla Presidenza del Consiglio dei Ministri; quanto a lire 20.000 milioni per ciascuno degli anni 1998 e 1999, l'accantonamento relativo al Ministero della pubblica istruzione; quanto a lire 5.000 milioni per ciascuno degli anni 1998 e 1999, l'accantonamento relativo al Ministero degli affari esteri;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a lire 20.000 milioni per ciascuno degli anni 1997, 1998 e 1999, mediante riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1997-1999, al capitolo 9001 dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1997, allo scopo parzialmente utilizzando l'accantonamento relativo al ministero dell'interno.
 
 Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

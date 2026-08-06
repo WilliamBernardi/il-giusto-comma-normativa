@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2014-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -69,6 +69,24 @@ All'articolo 18, comma 3-ter, alinea, del decreto legislativo 19 novembre 1997, 
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 3 della legge 27 dicembre 2002, n. 289, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera b), sesto periodo, le parole: "30 settembre 2005" sono sostituite dalle seguenti: "30 settembre 2006";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera b), decimo periodo, le parole: "30 settembre 2005" sono sostituite dalle seguenti: "30 settembre 2006" e le parole: "31 ottobre 2005" sono sostituite dalle seguenti: "31 ottobre 2006".
+
 ))
 
 ## Art. 4-quater. — (Infrastrutture militari e assegnazione di fondi al Ministero della difesa)
@@ -102,6 +120,26 @@ L'istituto nazionale di documentazione per l'innovazione e la ricerca educativa 
 
 ## Art. 10. — Garanzie di sicurezza nel trattamento dei dati personali
 
+1.
+                    
+                        
+                            Al codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 180:
+ 1) al comma 1 le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "31 marzo 2006";
+ 2) al comma 3 le parole: "31 marzo 2006" sono sostituite dalle seguenti: "30 giugno 2006";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 181, comma 1, lettera a), le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "(( 15 maggio 2006 ))".
+
 ## Art. 11. — Procedure di integrazione della documentazione
  in materia edilizia
 
@@ -131,6 +169,24 @@ All'articolo 17, comma 10, del decreto legislativo 8 luglio 2003, n. 188, le par
 Il Consiglio nazionale degli studenti universitari (CNSU), rinnovato ai sensi dell'articolo 3-bis del decreto-legge 9 maggio 2003, n. 105, convertito, con modificazioni, dalla legge 11 luglio 2003, n. 170, resta in carica, nella sua attuale composizione, fino al 30 aprile 2007. (( Gli studenti eletti dal CNSU quali rappresentanti in seno al Consiglio universitario nazionale partecipano alle sedute dello stesso Consiglio con diritto di voto.))
 
 ## Art. 17. — Codice della strada
+
+1.
+                    
+                        
+                            All'articolo 72 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2-bis, ultimo periodo, le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "((31 dicembre 2006))";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-ter il primo periodo e' (( sostituito dai seguenti )): "Gli autoveicoli, i rimorchi ed i semirimorchi, abilitati al trasporto di cose, di massa complessiva a pieno carico superiore a 7,5 t, sono equipaggiati con dispositivi, di tipo omologato, atti a ridurre la nebulizzazione dell'acqua in caso di precipitazioni. La prescrizione si applica ai veicoli nuovi immatricolati in Italia a decorrere dal 1° gennaio 2007.".
 
 ## Art. 18. — Giurisdizioni
 
@@ -183,6 +239,39 @@ Le risorse finanziarie per l'anno 2005 previste dall'art. 13, comma 2, lettera a
 
 ((
 
+1.
+                    
+                        
+                            Alla legge 14 febbraio 1987, n. 40, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 1, le parole: "di cui all'articolo 18 della legge 21 dicembre 1978, n. 845" sono sostituite dalle seguenti: "come definite dall'articolo 117, secondo comma, lettera m), della Costituzione e dalle vigenti normative in materia";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 1, comma 2, le parole: "siano emanazione o delle organizzazioni democratiche e nazionali dei lavoratori dipendenti, dei lavoratori autonomi, degli imprenditori, o di associazioni con finalita' formative e sociali, o di imprese e loro consorzi, o del movimento cooperativo;" sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 2, comma 1, le parole: "31 marzo" sono sostituite dalle seguenti: "15 febbraio";
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 2, il comma 2 e' sostituito dal seguente:
+ "2. Con decreto del Ministro del lavoro e delle politiche sociali, da emanare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono stabiliti criteri e modalita' per la determinazione dell'entita' dei contributi".
+
 Per le finalita' di cui alla legge 14 febbraio 1987, n. 40, e' autorizzata per l'anno 2006 la spesa di 13 milioni di euro. Al relativo onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2006-2008, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2006, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero del lavoro e delle politiche sociali.
 
 ))
@@ -218,6 +307,24 @@ I termini di cui al comma 1 possono essere ulteriormente prorogati di un anno, c
 Sono fatte salve le disposizioni di cui al comma 9 dell'articolo 15 del decreto legislativo 23 maggio 2000, n. 164, nonche' la facolta' di riscatto anticipato durante il periodo transitorio, di cui al comma 1, se prevista nell'atto di affidamento o di concessione.
 
 I termini di durata delle concessioni e degli affidamenti per la realizzazione delle reti e la gestione della distribuzione di gas naturale ai sensi dell'articolo 11 della legge 28 novembre 1980, n. 784, e dell'articolo 9 della legge 7 agosto 1997, n. 266, sono prorogati fino al dodicesimo anno decorrente dalla data di entrata in vigore del decreto legislativo 23 maggio 2000, n. 164, oppure, se successiva, dalla data di entrata in vigore del decreto del Ministero dell'economia e delle finanze di approvazione delle risultanze finali dell'intervento. ((8))
+
+5.
+                    
+                        
+                            I termini, non ancora scaduti alla data di entrata in vigore del presente decreto, previsti per l'adeguamento alle prescrizioni contenute nei decreti autorizzativi di impianti che generano emissioni in atmosfera sono prorogati di sessanta giorni, decorrenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalla "messa in esercizio dell'impianto", intesa come data di avvio delle prime prove di funzionamento del medesimo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalla "entrata in esercizio dell'impianto", intesa come data successiva al completamento del collaudo, a partire dalla quale l'impianto, nel suo complesso, risulta in funzione nelle condizioni operative definitive, ossia quando, decorsi sei mesi dalla comunicazione di cui all'articolo 8, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 203, si prevede il passaggio del rilevamento delle emissioni da base giornaliera a base oraria.
 
 I termini scaduti nel 2005 per la presentazione delle domande di liquidazione degli interventi per le finalita' di cui all'articolo 103, comma 5, della legge 23 dicembre 2000, n. 388, sono prorogati fino al 31 marzo 2006. Le disponibilita' finanziarie per i medesimi interventi che a tale data dovessero risultare ancora non liquidate possono essere destinate alla prosecuzione delle incentivazioni al commercio elettronico con provvedimento del Ministero delle attivita' produttive da adottare entro il 30 giugno 2006.
 
@@ -287,6 +394,24 @@ All'articolo 1, comma 1, del ((decreto-legge 23 ottobre 1996, n. 552,)) converti
 ## Art. 27. — Disposizioni in materia di Consorzi agrari
 
 All'articolo 5, comma 4, della legge 28 ottobre 1999, n. 410, (( e successive modificazioni,)) e' aggiunto, in fine, il seguente periodo: "Decorso il predetto termine, entro trenta giorni il Ministro delle attivita' produttive, di concerto con il Ministro delle politiche agricole e forestali, provvede alla rideterminazione della composizione degli organi delle liquidazioni dei Consorzi agrari in liquidazione coatta amministrativa o in amministrazione straordinaria.".
+
+2.
+                    
+                        
+                            All'articolo 12, comma 1-bis, del decreto-legge 9 novembre 2004, n. 266, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 306, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "di cui al comma 1" sono sostituite dalle seguenti: "di cui all'articolo 5, comma 4, della legge 28 ottobre 1999, n. 410, ((e successive modificazioni,))";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo le parole: "di liquidazione, valuta", sono inserite le seguenti: ", di concerto con il Ministero delle politiche agricole e forestali e previo parere della commissione di cui al comma 1-ter,".
 
 All'articolo 12 del decreto-legge 9 novembre 2004, n. 266, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 306, dopo il comma 1-bis, e' aggiunto il seguente: "1-ter. Con decreto del Ministro delle attivita' produttive, di concerto con il Ministro delle politiche agricole e forestali, e' istituita una commissione di valutazione delle attivita' dei consorzi agrari. La commissione e' composta da cinque membri, appartenenti alla pubblica amministrazione, senza oneri a carico del bilancio dello Stato.".
 
@@ -488,6 +613,40 @@ Le somme iscritte nel fondo da ripartire ai sensi dell'articolo 47, comma 2, del
 
 All'articolo 4, terzo comma, della legge 18 novembre 1981, n. 659, e successive modificazioni, le parole: "i cinque milioni di lire, somma da intendersi rivalutata nel tempo secondo gli indici ISTAT dei prezzi all'ingrosso" sono sostituite dalle seguenti: "euro cinquantamila".
 
+2.
+                    
+                        
+                            Alla legge 3 giugno 1999, n. 157, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 6, terzo periodo, le parole: "e' interrotto" sono sostituite dalle seguenti: "e' comunque effettuato"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 1, comma 6, il quarto periodo e' soppresso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 1, comma 6, e' aggiunto, in fine, il seguente periodo: "Le somme erogate o da erogare ai sensi del presente articolo ed ogni altro credito, presente o futuro, vantato dai partiti o movimenti politici possono costituire oggetto di operazioni di cartolarizzazione e sono comunque cedibili a terzi"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo l'articolo 6, e' inserito il seguente: 
+ "Art. 6-bis. (Garanzia patrimoniale). - 1. Le risorse erogate ai partiti ai sensi della presente legge costituiscono, ai sensi dell'articolo 2740 del codice civile, garanzia ai fini dell'esatto adempimento delle obbligazioni assunte da parte dei partiti e movimenti politici beneficiari delle stesse. I creditori dei partiti e movimenti politici di cui alla presente legge non possono pretendere direttamente dagli amministratori dei medesimi l'adempimento delle obbligazioni del partito o movimento politico se non qualora questi ultimi abbiano agito con dolo o colpa grave. 
+ 2. Per il soddisfacimento dei debiti dei partiti e movimenti politici maturati in epoca antecedente all'entrata in vigore della presente legge e' istituito un fondo di garanzia alimentato dall'1 per cento delle risorse stanziate per i fondi indicati all'articolo 1. Le modalita' di gestione e funzionamento del fondo sono stabilite con decreto del Ministro dell'economia e delle finanze".
+
 La disposizione di cui al comma 2, lettera d), si applica anche per i giudizi e procedimenti in corso.
 
 All'articolo 6 della legge 2 maggio 1974, n. 195, il primo ed il secondo periodo sono soppressi.
@@ -528,7 +687,47 @@ Il termine di cui al decreto del Presidente del Consiglio dei ministri 13 maggio
 
 ((
 
+1.
+                    
+                        
+                            Al testo unico delle disposizioni sull'edilizia popolare ed economica, di cui al regio decreto 28 aprile 1938, n. 1165, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 97: 
+ 1) alla lettera b), le parole: ", gli ufficiali generali e i colonnelli comandanti di corpo o capi di servizio dell'Esercito, nonche' gli ufficiali di grado e carica corrispondenti delle altre Forze Armate dello Stato" sono soppresse; 
+ 2) la lettera c) e' sostituita dalla seguente: "c) per il personale appartenente alle Forze armate, al Corpo della guardia di finanza e alle Forze di polizia ad ordinamento civile"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli articoli 114, 115 e 117 sono abrogati.
+
 L'articolo 17 della legge 17 febbraio 1992, n. 179, e' abrogato.
+
+3.
+                    
+                        
+                            All'articolo 9 della legge 30 aprile 1999, n. 136, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole da: "del Ministero dei lavori pubblici" fino alla fine sono sostituite dalle seguenti: "dei Servizi integrati infrastrutture e trasporti, gia' provveditorati regionali alle opere pubbliche, e con delibera adottata dall'assemblea dei soci con le modalita' prescritte per le modifiche dell'atto costitutivo e dello statuto delle societa' per azioni. Qualora la cooperativa abbia realizzato piu` interventi edilizi in varie localita', l'autorizzazione deve essere concessa per singolo intervento edilizio a cura del Servizio integrato infrastrutture e trasporti competente per territorio"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2: 
+ 1) alla fine della lettera a), e' aggiunto il seguente periodo: "In caso di mancata consegna di tutti gli alloggi sociali di ciascun intervento edilizio, essi devono comunque essere tutti assegnati, eventualmente anche con riserva di consegna"; 
+ 2) dopo la lettera b), e' aggiunta la seguente: "b-bis) ad una richiesta di autorizzazione alla cessione in proprieta' individuale che riguardi almeno il 50 per cento degli alloggi effettivamente consegnati facenti parte dell'insediamento oggetto della richiesta di autorizzazione stessa, ovvero, nel caso in cui una cooperativa realizzi con un intervento edilizio piu` edifici separati ed i soci assegnatari degli alloggi compresi in un medesimo edificio non intendano avvalersi della facolta' prevista nel comma 3, ad una richiesta di autorizzazione alla cessione in proprieta' individuale che riguardi almeno il 50 per cento degli alloggi effettivamente consegnati facenti parte del medesimo intervento edilizio. In entrambi i casi, qualora la richiesta di autorizzazione non riguardi la totalita' degli alloggi, la cooperativa deve assumere contestualmente l'impegno a provvedere alla diretta gestione degli alloggi che non verranno ceduti in proprieta' individuale".
 
 ))
 

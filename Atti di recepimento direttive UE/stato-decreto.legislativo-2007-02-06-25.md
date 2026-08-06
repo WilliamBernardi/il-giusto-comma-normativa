@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2013-09-04
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,59 @@ Le modalita' di informazione e consultazione sono stabilite dal contratto collet
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «imprese»: le imprese pubbliche e private situate in Italia, che esercitino una attivita' economica, anche non a fine di lucro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «datore di lavoro»: la persona, fisica o giuridica, che esercita un'attivita' economica organizzata in forma di impresa, anche non a fine di lucro, conformemente alle leggi ed ai contratti collettivi di lavoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «lavoratore»: chiunque si obblighi mediante retribuzione a collaborare nell'impresa, prestando il proprio lavoro, intellettuale o manuale, alle dipendenze e sotto la direzione dell'imprenditore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «rappresentanti dei lavoratori»: i rappresentanti dei lavoratori ai sensi della normativa vigente, nonche' degli accordi interconfederali 20 dicembre 1993 e 27 luglio 1994, e successive modificazioni, o dei contratti collettivi nazionali applicati qualora i predetti accordi interconfederali non trovino applicazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «informazione»: ogni trasmissione di dati da parte del datore di lavoro ai rappresentanti dei lavoratori, finalizzata alla conoscenza ed all'esame di questioni attinenti alla attivita' di impresa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «consultazione»: ogni forma di confronto, scambio di opinioni e dialogo tra rappresentanti dei lavoratori e datore di lavoro su questioni attinenti alla attivita' di impresa;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «contratto collettivo»: il contratto collettivo di lavoro stipulato tra le organizzazioni datoriali e sindacali comparativamente piu' rappresentative sul piano nazionale.
+
 ## Art. 3. — Campo di applicazione
 
 Il presente decreto legislativo si applica a tutte le imprese che impiegano almeno 50 lavoratori.
@@ -55,7 +108,71 @@ Nel rispetto dei principi enunciati all'articolo 1, ferme restando le eventuali 
 
 Sono fatti salvi i contratti collettivi esistenti alla data di sottoscrizione del presente decreto legislativo.
 
+3.
+                    
+                        
+                            L'informazione e la consultazione riguardano:
+ 
+                        
+                        
+                            a)
+                            
+                                l'andamento recente e quello prevedibile dell'attivita' dell'impresa, nonche' la sua situazione economica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la situazione, la struttura e l'andamento prevedibile dell'occupazione nella impresa, nonche', in caso di rischio per i livelli occupazionali, le relative misure di contrasto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le decisioni dell'impresa che siano suscettibili di comportare rilevanti cambiamenti dell'organizzazione del lavoro, dei contratti di lavoro, anche nelle ipotesi di cui all'articolo 7, comma 1.
+
 L'informazione avviene secondo modalita' di tempo e contenuto appropriate allo scopo ed in modo da permettere ai rappresentanti dei lavoratori di procedere ad un esame adeguato delle informazioni fornite e preparare, se del caso, la consultazione.
+
+5.
+                    
+                        
+                            La consultazione avviene:
+ 
+                        
+                        
+                            a)
+                            
+                                secondo modalita' di tempo e contenuto appropriate allo scopo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tra livelli pertinenti di direzione e rappresentanza, in funzione dell'argomento trattato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sulla base delle informazioni, di cui all'articolo 2, comma 1, lettera e), fornite dal datore di lavoro e del parere che i rappresentanti dei lavoratori hanno diritto di formulare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                in modo tale da permettere ai rappresentanti dei lavoratori di incontrare il datore di lavoro e di ottenere una risposta motivata all'eventuale parere espresso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al fine di ricercare un accordo sulle decisioni del datore di lavoro, quale individuato dall'articolo 2, comma 1, lettera b).
 
 ## Art. 5. — Informazioni riservate
 
@@ -88,6 +205,24 @@ Restano ferme le previsioni di cui al decreto legislativo 2 aprile 2002, n. 74.
 Sono fatti salvi gli altri diritti riconosciuti dalla normativa vigente e dai contratti collettivi applicati in materia di informazione, consultazione e partecipazione.
 
 ## Art. 9. — Disposizioni transitorie
+
+1.
+                    
+                        
+                            Il presente decreto legislativo si applica, in deroga a quanto previsto dall'articolo 3, comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                fino al 23 marzo 2007, solo nei confronti delle imprese che impiegano almeno 150 lavoratori;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 24 marzo 2007 al 23 marzo 2008, solo nei confronti delle imprese che impiegano almeno 100 lavoratori.
 
 ## Art. 10. — Oneri finanziari
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1997-08-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,59 @@ All'Istituto si applicano le norme di cui all'art. 25 della legge 5 agosto 1978,
 
 L'INFM ha il compito di promuovere, programmare, coordinare ed effettuare ricerche sia di base che tecnologiche nel campo della fisica della materia e nei campi affini, con riferimento anche alla scienza e tecnologia dei materiali, alla tecnologia avanzata ed alla metrologia in genere.
 
+2.
+                    
+                        
+                            A tal fine l'INFM:
+ 
+                        
+                        
+                            a)
+                            
+                                collabora con le universita' e con gli istituti pubblici e privati per la formazione di ricercatori e di esperti nei settori di attivita' dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove e sviluppa studi, ricerche e attivita' applicative anche in collaborazione con enti nazionali, internazionali e stranieri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                avvia e coordina progetti nazionali ed internazionali anche finalizzati alla costruzione ed all'utilizzo di grandi apparecchiature;
+
+                            
+                        
+                        
+                            d)
+                            
+                                provvede, anche in collaborazione con altri enti pubblici e privati, al trasferimento a favore del settore industriale dei risultati delle ricerche e degli studi svolti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                cura, anche a supporto dell'industria nazionale ed europea, la realizzazione di prototipi di materiali e di strumentazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                fornisce pareri alle amministrazioni pubbliche;
+
+                            
+                        
+                        
+                            g)
+                            
+                                assegna borse di studio e premi.
+
 Il Ministro dell'universita' e della ricerca scientifica e tecnologica si avvale dell'INFM per sostenere la partecipazione e il coordinamento di progetti ed iniziative internazionali interessanti i settori di attivita' dell'Istituto, ed in particolare per le attivita' di ricerca gia' avviate presso il Laboratorio europeo di luce di sincrotrone di Grenoble (ESRF).
 
 L'INFM puo', per l'attuazione dei propri fini istituzionali, stipulare convenzioni o accordi con universita', con enti ed organizzazioni pubblici e privati nazionali, internazionali e stranieri e partecipare a consorzi e societa' in Italia e all'estero anche allo scopo di sfruttare a livello industriale propri brevetti, reinvestendo gli utili nella ricerca scientifica.
@@ -53,6 +106,45 @@ Per il perseguimento dei propri fini istituzionali l'INFM puo' istituire, determ
 
 ## Art. 4. — Organi dell'Istituto
 
+1.
+                    
+                        
+                            Sono organi dell'INFM:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio direttivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la giunta esecutiva;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il consiglio scientifico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il collegio dei revisori dei conti.
+
 I componenti degli organi di cui alle lettere a), b), c) e d) durano in carica tre anni e possono essere immediatamente confermati per una sola volta.
 
 I compiti e le modalita' di funzionamento degli organi sono definiti con regolamento ai sensi dell'art. 1, comma 2.
@@ -61,7 +153,71 @@ I compiti e le modalita' di funzionamento degli organi sono definiti con regolam
 
 Il presidente e' nominato dal Ministro dell'universita' e della ricerca scientifica e tecnologica su proposta del consiglio direttivo, sentito il Consiglio nazionale della scienza e della tecnologia, tra esperti di alta qualificazione scientifica nel settore di interesse dell'INFM.
 
+2.
+                    
+                        
+                            Il presidente:
+ 
+                        
+                        
+                            a)
+                            
+                                ha la rappresentanza legale dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                convoca e presiede il consiglio direttivo, la giunta esecutiva ed il consiglio scientifico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                assicura l'esecuzione delle delibere adottate dagli organi di cui all'art. 4, comma 1, lettere b), c) e d);
+
+                            
+                        
+                        
+                            d)
+                            
+                                presenta annualmente al Ministro dell'universita' e della ricerca scientifica e tecnologica una relazione sull'attivita' scientifica svolta nell'anno precedente.
+
 ## Art. 6. — Consiglio direttivo
+
+1.
+                    
+                        
+                            Il consiglio direttivo e' composto da:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente dell'INFM;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i direttori delle strutture scientifiche operative;
+
+                            
+                        
+                        
+                            c)
+                            
+                                due componenti designati dal Ministro dell'universita' e della ricerca scientifica e tecnologica, sentito il Consiglio nazionale della scienza e della tecnologia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                due rappresentanti eletti dal personale ricercatore e tecnico dipendente o afferente all'INFM.
 
 Il consiglio direttivo delibera sulle attivita' di ricerca, sul funzionamento dell'Istituto e sui regolamenti concernenti gli organi, il personale e la gestione amministrativa e contabile. Esso delibera altresi' sui bilanci, sui contratti e sulle convenzioni.
 
@@ -74,6 +230,31 @@ La giunta esecutiva e' composta dal presidente dell'INFM, da cinque membri elett
 La giunta esecutiva esercita i compiti previsti dai regolamenti e quelli ad essa delegati dal consiglio direttivo.
 
 ## Art. 8. — Consiglio scientifico
+
+1.
+                    
+                        
+                            Il consiglio scientifico e' composto da:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente dell'INFM che lo presiede;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i direttori delle strutture di coordinamento nazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esperti italiani e stranieri nominati dal consiglio direttivo in numero non superiore ai componenti di cui alla lettera b).
 
 Il consiglio scientifico e' l'organo di consulenza scientifica del consiglio direttivo, ed in particolare esprime pareri sulla programmazione e sullo sviluppo delle attivita' scientifiche e sulla destinazione delle risorse disponibili per le attivita' di ricerca dell'Istituto.
 

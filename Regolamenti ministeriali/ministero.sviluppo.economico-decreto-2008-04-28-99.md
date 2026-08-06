@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2015-06-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,12 +34,183 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Ambito di applicazione
 
+1.
+                        
+                            
+                                Il presente regolamento si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle imprese di assicurazione aventi sede legale in Italia autorizzate all'esercizio dell'assicurazione nei rami vita e nei rami responsabilita' civile veicoli a motore e natanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle imprese di assicurazione aventi sede legale in uno Stato terzo autorizzate all'esercizio dell'assicurazione nei rami vita e nei rami responsabilita' civile veicoli a motore e natanti che hanno sedi secondarie in Italia, limitatamente a tali sedi secondarie e per l'attivita' svolta nel territorio della Repubblica. 
+ ((1))
+
 -------------
                             AGGIORNAMENTO (1)
                             
  Il D.Lgs. 7 settembre 2005, n. 209, come modificato dal D.Lgs. 12 maggio 2015, n. 74, ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Codice»: il decreto legislativo 7 settembre 2005, n. 209, recante il Codice delle assicurazioni private e di qui in avanti cosi' indicato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «attuario incaricato»: l'attuario incaricato dall'impresa esercente i rami vita di cui all'articolo 31 del Codice, nonche' l'attuario incaricato dall'impresa che esercita i rami responsabilita' civile veicoli a motore e natanti di cui all'articolo 34 del Codice; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «attuario revisore»: l'attuario preposto allo svolgimento delle funzioni previste dagli articoli 102 e 103 del Codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «basi tecniche»: tutti i dati statistici, relativi ai rischi assicurati ed ai sinistri, presi a riferimento per la costruzione tariffaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «caricamento»: la quota delle spese di gestione (acquisizione, incasso e spese amministrative) ed ogni altro onere considerato dall'impresa di assicurazione nel processo di costruzione della tariffa nonche' il margine industriale compensativo dell'alea di impresa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «fabbisogno tariffario»: la stima del costo complessivo dei rischi che si ritiene di assumere nel periodo di validita' della tariffa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «familiare»: il coniuge non separato legalmente, il convivente, i figli, i genitori, i fratelli, le sorelle e le persone fiscalmente a carico; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «ISVAP» o «Autorita»: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «ipotesi tecniche»: tutti gli elementi presi in considerazione nella stima del costo futuro dei sinistri generati dai rischi che verranno assicurati nel periodo di validita' della tariffa ed i relativi valori attribuiti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «ipotesi finanziarie»: le previsioni di natura finanziaria utilizzate ai fini della costruzione della tariffa; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «organo amministrativo»: il consiglio di amministrazione, o, nelle imprese che abbiano adottato un sistema diverso da quello di cui all'articolo 2380, comma 1, del codice civile, il consiglio di gestione o il comitato per il controllo sulla gestione ovvero per le sedi secondarie, il rappresentante generale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «organo di controllo»: il collegio sindacale o, nelle imprese che non abbiano adottato il sistema di cui all'articolo 2380, comma 1 del codice civile, il consiglio di sorveglianza o il comitato per il controllo sulla gestione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «premio di tariffa»: il premio del singolo contratto determinato in funzione del fabbisogno tariffario, delle variabili di personalizzazione e dei criteri di mutualita' adottati dall'impresa di assicurazione; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «premio medio di tariffa»: il fabbisogno tariffario diviso il numero dei rischi che si ritiene di assumere nel periodo di validita' della tariffa; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «rami vita»: i rami di cui all'articolo 2, comma 1, del Codice; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «rami responsabilita' civile veicoli a motore e natanti»: i rami di cui all'articolo 2, comma 3, numero 10. Responsabilita' civile autoveicoli terrestri e 12. Responsabilita' civile veicoli marittimi, lacustri e fluviali, del Codice; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «relazioni d'affari»: relazioni che comportano un interesse comune di natura commerciale o finanziaria, ad eccezione di quelle regolate da condizioni di mercato normalmente praticate a terzi estranei e prive di una rilevanza economica tale da instaurare una dipendenza per una delle parti; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «sede secondaria o succursale»: una sede che costituisce parte, sprovvista di personalita' giuridica, di un'impresa di assicurazione o di riassicurazione e che effettua direttamente, in tutto o in parte, l'attivita' assicurativa o riassicurativa; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «Stato membro»: uno Stato membro dell'Unione europea o uno Stato aderente allo Spazio economico europeo, come tale equiparato allo Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «Stato terzo»: uno Stato che non e' membro dell'Unione europea o non e' aderente allo Spazio economico europeo; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «variabili di personalizzazione»: gli elementi presi in considerazione ai fini della caratterizzazione e tariffazione dei singoli rischi assicurati. 
+ ((1))
 
 -------------
                             AGGIORNAMENTO (1)
@@ -106,12 +277,93 @@ Qualora l'impresa di assicurazione non adempia agli obblighi di cui al comma 2, 
 
 ## Art. 7. — Requisiti di onorabilita'
 
+1.
+                        
+                            
+                                Non puo' essere nominato attuario incaricato colui che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia stato sottoposto a misure di prevenzione disposte dall'autorita' giudiziaria previste dalla legge 27 dicembre 1956, n. 1423, dalla legge 31 maggio 1965, n. 575 e successive modificazioni, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    versi in stato di interdizione legale o di interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese ovvero di interdizione dai pubblici uffici perpetua o di durata superiore a tre anni, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia stato condannato con sentenza irrevocabile, salvi gli effetti della riabilitazione, o con sentenza irrevocabile di applicazione della pena di cui all'articolo 444, comma 2, del codice di procedura penale, salvi gli effetti della riabilitazione: 
+ 1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' assicurativa, bancaria, finanziaria, nonche' dalle norme in materia di strumenti di pagamento; 
+ 2) alla reclusione per un tempo non inferiore a un anno per un delitto contro la pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica, l'industria e il commercio ovvero per un delitto in materia tributaria; 
+ 3) alla reclusione per uno dei delitti previsti nel titolo XI del libro V del codice civile e nel regio decreto 16 marzo 1942, n. 267; 
+ 4) alla reclusione per un tempo non inferiore a due anni per un qualunque altro delitto non colposo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sia stato dichiarato fallito, fatta salva la cessazione degli effetti del fallimento ai sensi del regio decreto 16 marzo 1942, n. 267, ovvero abbia ricoperto la carica di presidente, amministratore con delega di poteri, direttore generale, sindaco di societa' od enti che siano stati assoggettati a procedure di fallimento, concordato preventivo o liquidazione coatta amministrativa, almeno per i tre esercizi precedenti all'adozione dei relativi provvedimenti, fermo restando che l'impedimento ha durata fino ai cinque anni successivi all'adozione dei provvedimenti stessi. 
+ ((1))
+
 -------------
                             AGGIORNAMENTO (1)
                             
  Il D.Lgs. 7 settembre 2005, n. 209, come modificato dal D.Lgs. 12 maggio 2015, n. 74, ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ## Art. 8. — Requisiti di professionalita'
+
+1.
+                        
+                            
+                                L'attuario incaricato deve essere in possesso dei seguenti requisiti di professionalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere iscritto all'albo professionale di cui alla legge 9 febbraio 1942, n. 194; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non essere stato revocato per gravi inadempienze, negli ultimi cinque anni, dall'incarico di attuario incaricato ai sensi dell'articolo 31, comma 5, del Codice o dall'incarico di attuario revisore ai sensi dell'articolo 105 del Codice; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere dotato di comprovata esperienza attuariale nel settore cui l'incarico si riferisce ai sensi del comma 2.
+
+2.
+                        
+                            
+                                La comprovata esperienza di cui al comma 1, lettera c) sussiste qualora l'attuario incaricato dimostri la ricorrenza di almeno una delle seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    avere svolto, per almeno tre anni negli ultimi sette anni, attivita' professionale attuariale nel settore cui l'incarico si riferisce; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avere svolto, per almeno tre anni negli ultimi sette anni, attivita' di natura attuariale presso enti di diritto pubblico o societa' private. 
+ ((1))
 
 -------------
                             AGGIORNAMENTO (1)
@@ -120,7 +372,59 @@ Qualora l'impresa di assicurazione non adempia agli obblighi di cui al comma 2, 
 
 ## Art. 9. — Incompatibilita'
 
+1.
+                        
+                            
+                                L'attuario incaricato non deve trovarsi nei confronti dell'impresa di assicurazione che conferisce l'incarico in alcuna delle seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipazione, attuale ovvero riferita al triennio precedente, agli organi di amministrazione, di controllo e di direzione generale: 
+ 1) dell'impresa di assicurazione o della sua controllante; 
+ 2) delle societa' che detengono, direttamente o indirettamente, nell'impresa di assicurazione o nella sua controllante piu' del 20% dei diritti di voto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipazione, attuale ovvero riferita al triennio precedente, di suoi familiari agli organi di amministrazione, di controllo e di direzione generale dell'impresa di assicurazione o della sua controllante; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sussistenza, attuale ovvero riferita al triennio precedente, di altre relazioni d'affari, o di impegni ad instaurare tali relazioni, con l'impresa di assicurazione o con la sua societa' controllante, con esclusione del rapporto di lavoro dipendente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ricorrenza di ogni altra situazione, diversa da quelle rappresentate alle lettere a), b) e c), idonea a compromettere o comunque a condizionare l'indipendenza dell'attuario incaricato.
+
 L'attuario incaricato non puo' assumere contemporaneamente l'incarico di attuario revisore dell'impresa di assicurazione che conferisce l'incarico o di attuario revisore della sua controllante.
+
+3.
+                        
+                            
+                                L'attuario incaricato non deve trovarsi, nei confronti dell'attuario revisore dell'impresa di assicurazione o dell'attuario revisore della sua controllante, in alcuna delle seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere un familiare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avere relazioni d'affari derivanti dall'appartenenza alla medesima struttura professionale organizzata, comunque denominata, nel cui ambito l'attivita' attuariale sia svolta, a qualsiasi titolo, ivi compresa la collaborazione autonoma ed il lavoro dipendente, ovvero ad altra realta' avente natura economica idonea ad instaurare interessenza o comunque condivisione di interessi.
 
 Qualora le situazioni di cui al comma 1 ricorrano rispetto ad altro attuario ovvero ad altro professionista, diverso dall'attuario incaricato, che con quest'ultimo condivida l'appartenenza ad una struttura professionale organizzata, comunque denominata, nel cui ambito l'attivita' sia svolta a qualsiasi titolo, ivi compresa la collaborazione autonoma ed il lavoro dipendente, le imprese di assicurazione adottano adeguate procedure per la gestione dei conseguenti eventuali conflitti di interessi.
 
@@ -152,6 +456,31 @@ Il limite massimo degli incarichi assunti in qualita' di attuario incaricato e' 
 
 Qualora l'attuario incaricato assuma anche incarichi di attuario revisore, fermo restando il rispetto dei limiti di cui al comma 1, il limite massimo degli incarichi complessivi e' fissato in 8 unita'.
 
+3.
+                        
+                            
+                                Ai fini del calcolo del numero degli incarichi viene assegnato il punteggio di seguito indicato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un'unita' per ogni incarico di attuario incaricato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    0,5 unita' per gli incarichi in qualita' di attuario incaricato successivi al primo assunti nell'ambito del medesimo settore di attivita', presso imprese di assicurazione appartenenti allo stesso gruppo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un'unita' per ogni incarico di attuario revisore.
+
 L'attuario incaricato e' tenuto a rassegnare le dimissioni da uno o piu' degli incarichi ricoperti in violazione dei limiti previsti dai commi 1 e 2 entro dieci giorni dal superamento dei limiti stessi, dandone comunicazione all'ISVAP nei successivi cinque giorni. Se l'interessato non adempie, l'ISVAP dichiara la decadenza degli incarichi assunti in violazione dei limiti previsti ai commi 1 e 2 entro venti giorni dalla conoscenza del superamento dei limiti stessi. 
  ((1))
 
@@ -174,6 +503,38 @@ Le disposizioni di cui al presente titolo si applicano esclusivamente all'attuar
 
 ## Art. 13. — Funzioni in materia di tariffe
 
+1.
+                        
+                            
+                                Nell'ambito dei controlli sulle tariffe dell'assicurazione obbligatoria dei rami responsabilita' civile veicoli a motore e natanti l'attuario incaricato, per ogni tariffa o modifica tariffaria adottata dall'impresa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica preventivamente, ai sensi dell'articolo 34, comma 3, del Codice, le basi tecniche e procede, nel caso di utilizzo di basi tecniche aziendali, al controllo della corretta presa in carico, da parte dell'impresa di assicurazione, dei rischi assicurati e dei sinistri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica le metodologie statistiche, le ipotesi tecniche e finanziarie utilizzate ai fini della determinazione del fabbisogno tariffario e di ogni ulteriore elemento considerato nell'ambito della definizione della tariffa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valuta la coerenza dei premi di tariffa con le basi tecniche adottate dalle imprese di assicurazione, siano esse costituite da dati aziendali o da rilevazioni statistiche di mercato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verifica che le tariffe siano costruite per settori di tariffazione ovvero per classi o gruppi di rischi sufficientemente numerosi ed omogenei, tali da garantire la significativita' delle rilevazioni statistiche, con particolare riferimento alla frequenza e al costo medio dei sinistri. Il rispetto del principio di coerenza di cui alla lettera c) e' verificato con riferimento alle singole classi di tariffazione.
+
 Le verifiche svolte ai sensi del comma 1 sono riportate in una relazione tecnica sulla tariffa, redatta in conformita' alle disposizioni di cui all'articolo 14, nella quale l'attuario incaricato riporta anche il proprio giudizio sulla tariffa.
 
 L'attuario incaricato informa tempestivamente l'ISVAP di un eventuale giudizio negativo sulla tariffa nonche', ove ne sia venuto a conoscenza, dell'adozione da parte dell'impresa di assicurazione di una tariffa che non e' stata sottoposta alle verifiche di cui al presente articolo. 
@@ -185,6 +546,38 @@ L'attuario incaricato informa tempestivamente l'ISVAP di un eventuale giudizio n
  Il D.Lgs. 7 settembre 2005, n. 209, come modificato dal D.Lgs. 12 maggio 2015, n. 74, ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ## Art. 14. — Relazione tecnica sulla tariffa
+
+1.
+                        
+                            
+                                Nella relazione tecnica sulla tariffa l'attuario incaricato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    descrive, con riguardo ai singoli settori di tariffazione e ad ogni formula tariffaria adottata, la metodologia, i criteri e le ipotesi tecniche e finanziarie utilizzati dall'impresa di assicurazione per la determinazione del fabbisogno tariffario e del premio medio di tariffa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    illustra le basi tecniche utilizzate dall'impresa di assicurazione nonche' le metodologie applicate per la selezione e l'impiego delle variabili di personalizzazione ai fini della determinazione dei premi di tariffa e indica il periodo di validita' della tariffa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indica, in funzione del modello tariffario adottato, elementi quali la frequenza sinistri utilizzata, il costo medio dei sinistri, il costo complessivo dei sinistri presi in considerazione, l'eventuale rendimento finanziario degli investimenti, i caricamenti di tariffa con l'indicazione dei singoli elementi assunti, del loro ammontare, del peso percentuale di ciascuno e del modello adottato per la sua imputazione, il premio medio di tariffa e le singole variabili di personalizzazione utilizzate specificandone i criteri di valorizzazione nonche' le modalita' di calcolo dei premi di tariffa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riporta la valutazione sulla coerenza dei premi di tariffa alle basi tecniche, al fabbisogno tariffario e ad altri elementi di riferimento ed esprime un giudizio sulla tariffa.
 
 La relazione tecnica sulla tariffa e' redatta in conformita' alle disposizioni emanate dall'ISVAP in attuazione degli articoli 37, comma 1, e 190, commi 1 e 2, del Codice. 
  3 . La relazione tecnica sulla tariffa e' sottoscritta dall'attuario incaricato che la trasmette, almeno sessanta giorni prima dell'entrata in vigore della tariffa, all'organo amministrativo dell'impresa di assicurazione. 
@@ -211,6 +604,31 @@ Ai fini dell'accertamento del rispetto delle disposizioni normative italiane in 
 
 ## Art. 16. — Funzioni in materia di riserve tecniche
 
+1.
+                        
+                            
+                                Nell'ambito dei controlli sulla sufficienza delle riserve tecniche dei rami responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti che l'impresa di assicurazione intende iscrivere nel bilancio di esercizio, l'attuario incaricato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica la corretta presa in carico, da parte dell'impresa di assicurazione, del portafoglio polizze e sinistri ai fini della determinazione delle riserve tecniche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica la correttezza dei procedimenti e dei metodi seguiti dall'impresa di assicurazione per il calcolo delle riserve tecniche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifica la corretta determinazione delle relative stime in conformita' alle disposizioni emanate in materia.
+
 Le verifiche svolte ai sensi del comma 1 sono riportate in una relazione tecnica sulle riserve, redatta in conformita' alle prescrizioni dell'articolo 17, nella quale l'attuario incaricato riporta anche il proprio giudizio sulle riserve tecniche. 
  ((1))
 
@@ -220,6 +638,31 @@ Le verifiche svolte ai sensi del comma 1 sono riportate in una relazione tecnica
  Il D.Lgs. 7 settembre 2005, n. 209, come modificato dal D.Lgs. 12 maggio 2015, n. 74, ha disposto (con l'art. 354, comma 5-bis, lettera b)) che il presente provvedimento e' o resta abrogato a decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1.
 
 ## Art. 17. — Relazione tecnica sulle riserve
+
+1.
+                        
+                            
+                                Nella relazione tecnica sulle riserve l'attuario incaricato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    descrive le fasi del processo di formazione ed i metodi di calcolo adottati dalle imprese di assicurazione per la valutazione delle riserve tecniche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    illustra le procedure e le metodologie applicate nonche' le valutazioni effettuate per la verifica delle riserve tecniche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attesta la correttezza dei procedimenti e dei metodi seguiti dall'impresa per il calcolo delle riserve tecniche nonche' la corretta determinazione delle relative stime in conformita' alle norme di legge, di regolamento e di ogni altra disposizione ed esprime un giudizio sulla sufficienza delle riserve tecniche.
 
 La relazione tecnica sulle riserve e' redatta in conformita' alle disposizioni emanate dall'ISVAP in attuazione degli articoli 37, comma 1, e 190, commi 1 e 2, del Codice.
 

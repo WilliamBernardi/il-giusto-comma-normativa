@@ -8,8 +8,8 @@ codice_redazionale: 094G0698
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,24 @@ Udito il parere del Consiglio di Stato espresso nella adunanza generale del 4 lu
 E' individuata la figura professionale del tecnico audiometrista con il seguente profilo: il tecnico audiometrista e' l'operatore sanitario che, in possesso del diploma universitario abilitante, svolge la propria attivita' nella prevenzione, valutazione e riabilitazione delle patologie del sistema uditivo e vestibolare, nel rispetto delle attribuzioni e delle competenze diagnostico-terapeutiche del medico.
 
 L'attivita' dell'audiometrista e' volta all'esecuzione di tutte le prove non invasive, psico-acustiche ed elettrofisiologiche di valutazione e misura del sistema uditivo e vestibolare ed alla riabilitazione dell'handicap conseguente a patologia dell'apparato uditivo e vestibolare.
+
+3.
+                    
+                        
+                            Il tecnico audiometrista:
+ 
+                        
+                        
+                            a)
+                            
+                                opera, su prescrizione del medico, mediante atti professionali che implicano la piena responsabilita' e la conseguente autonomia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collabora con altre figure professionali ai programmi di prevenzione e di riabilitazione delle sordita' utilizzando tecniche e metodologie strumentali e protesiche.
 
 Il tecnico audiometrista svolge la sua attivita' professionale in strutture sanitarie, pubbliche o private, in regime di dipendenza o libero-professionale.
 

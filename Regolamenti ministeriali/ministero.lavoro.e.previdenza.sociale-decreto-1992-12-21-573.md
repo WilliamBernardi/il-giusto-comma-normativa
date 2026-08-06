@@ -8,8 +8,8 @@ codice_redazionale: 093G0157
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,66 @@ La facolta' di richiesta nominativa puo' essere esercitata, per ulteriori assunz
 Alle assunzioni a tempo determinato si applicano i criteri sopra indicati, intendendosi assolto l'onere quando la durata del rapporto di lavoro dei soggetti riservatari sia mediamente pari a quella degli altri lavoratori assunti a tempo determinato.
 
 ## Art. 3. — Richiesta di assunzione
+
+1.
+                    
+                        
+                            Allo scopo di assicurare l'assolvimento dell'onere posto dall'art. 25 della legge 23 luglio 1991, n. 223, il datore di lavoro in ogni richiesta di assunzione dovra' dichiarare, sotto la propria responsabilita', oltre ai dati identificativi propri e a quelli anagrafici del lavoratore da assumere:
+ 
+                        
+                        
+                            a)
+                            
+                                la qualifica professionale, le mansioni che il lavoratore dovra' svolgere e il livello di inquadramento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il luogo dell'attivita' lavorativa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il contratto collettivo di lavoro applicato, ovvero il trattamento economico e normativo offerto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                se nei dodici mesi precedenti vi sono stati o meno dipendenti della stessa qualifica licenziati per riduzioni di personale, indicandone, in caso affermativo, i nominativi e la qualifica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                se e' rispettato il diritto di precedenza di cui all'art. 5, comma 3- bis, della legge 19 dicembre 1984, n. 863;
+
+                            
+                        
+                        
+                            f)
+                            
+                                qualora occupi piu' di dieci dipedenti, il numero complessivo delle assunzioni effettuate con superamento del periodo di prova presso proprie sedi nell'ambito territoriale di competenza della sezione circoscrizionale dalla data di entrata in vigore della legge n. 223/1991, specificando quelle relative ai soggetti riservatari e distinguendo quelle a tempo indeterminato, quelle a tempo determinato e quelle a tempo parziale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                se l'assunzione per la quale e' richiesto l'avviamento non e' computabile, specificandone i motivi e, qualora essa si riferisca a qualifica appositamente individuata a tal fine dal contratto collettivo nazionale di categoria, gli estremi del relativo contratto;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'impiego secondo quanto stabilito dal disposto di cui al comma 4 dell'art. 25, a non adibire il lavoratore a mansioni non equivalenti a quelle indicate nella richiesta di avviamento.
 
 La sezione circoscrizionale competente rilascera' il nulla osta di avviamento con tempestivita' e comunque entro il termine di cui all'art. 15, comma 2, della legge 28 febbraio 1987, n. 56, a condizione che la richiesta contenga tutte le dichiarazioni di cui al comma precedente.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -99,6 +99,24 @@ L'attivita' di controllo, qualora svolta da personale non appartenente all'organ
 ((
 
 L'organo competente assicura l'esecuzione della valutazione della sicurezza stradale a livello di rete sull'intera rete stradale aperta al traffico oggetto del presente decreto.
+
+2.
+                    
+                        
+                            Le valutazioni della sicurezza stradale a livello di rete riguardano il rischio di incidente e di gravita' dell'impatto sulla base dei seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                un'indagine visiva, in loco o con mezzi elettronici, delle caratteristiche di progettazione della strada al fine di valutarne la sicurezza intrinseca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un'analisi dei tratti della rete stradale aperti al traffico da oltre tre anni e in cui e' stato registrato un numero considerevole di incidenti gravi in proporzione al flusso di traffico.
 
 L'organo competente esegue la prima valutazione della sicurezza stradale a livello di rete entro e non oltre il 2024. Le valutazioni successive della sicurezza stradale a livello di rete sono effettuate con una frequenza sufficiente a garantire livelli di sicurezza adeguati, comunque in ogni caso, almeno ogni cinque anni.
 
@@ -237,4 +255,23 @@ Fino dell'entrata in operativita' dell'elenco di cui all'articolo 4, comma 7, lo
 Fino all'adozione del decreto di cui all'articolo 8, comma 1, la circolare del Ministero dei lavori pubblici 8 giugno 2001, n. 3699, recante : «Linee guida per le analisi di sicurezza delle strade», costituisce norma di riferimento nei limiti di compatibilita' del presente decreto.
 
 Presso il Ministero delle infrastrutture e dei trasporti e' istituito, senza nuovi o maggiori oneri a carico della finanza pubblica, un tavolo permanente di confronto per favorire lo scambio con le regioni e gli enti locali di informazioni necessarie a conferire coesione e coordinamento al processo volto all'applicazione delle disposizioni del presente decreto alle infrastrutture stradali non comprese nella rete transeuropea.
+
+7.
+                    
+                        
+                            All'articolo 11 del decreto legislativo 5 ottobre 2006, n. 264, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, secondo periodo, dopo le parole: «La Commissione per tali attivita'», sono inserite le seguenti: «, fino all'entrata in operativita' dell'elenco di cui all'articolo 4, comma 7, del decreto legislativo di attuazione della direttiva 2008/96/CE,» e dopo le parole: «del medesimo Ministero», sono aggiunte le seguenti: «, nonche' dei soggetti di cui all'articolo 12, comma 4, del decreto legislativo di attuazione della direttiva 2008/96/CE. A decorrere dall'entrata in operativita' del predetto elenco la Commissione si avvale dei soggetti inseriti nell'elenco stesso»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ «2-bis. Relativamente alle gallerie ricadenti nella rete stradale non gestita direttamente da Anas S.p.a., la Commissione si avvale, oltre che della struttura di cui al comma 2, della struttura organizzativa di Anas S.p.a. che svolge le funzioni di controllo e di vigilanza sulle concessioni autostradali, mediante apposita convenzione, fermi restando i requisiti di cui al comma 1.».
 

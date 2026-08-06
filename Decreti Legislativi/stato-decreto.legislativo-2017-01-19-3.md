@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-04-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -53,6 +53,150 @@ Il risarcimento comprende il danno emergente, il lucro cessante e gli interessi 
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «autore della violazione»: l'impresa o l'associazione di imprese che ha commesso la violazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «diritto della concorrenza»: le disposizioni di cui agli articoli 101 o 102 del trattato sul funzionamento dell'Unione europea, le disposizioni di cui agli articoli 2, 3 e 4 della legge 10 ottobre 1990, n. 287, applicate autonomamente, nonche' le disposizioni di altro Stato membro che perseguono principalmente lo stesso obiettivo degli articoli 101 e 102 del Trattato sul funzionamento dell'Unione europea e le predette disposizioni di cui agli articoli 2, 3 e 4 della legge 10 ottobre 1990, n. 287, applicate nello stesso caso e parallelamente al diritto della concorrenza dell'Unione ai sensi dell'articolo 3, paragrafo 1, del regolamento (CE) n. 1/2003, escluse le disposizioni che impongono sanzioni penali a persone fisiche, salvo qualora tali sanzioni penali costituiscano gli strumenti tramite i quali sono attuate le regole di concorrenza applicabili alle imprese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «soggetto danneggiato»: una persona, fisica o giuridica, o un ente privo di personalita' giuridica, che ha subito un danno causato da una violazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «autorita' nazionale garante della concorrenza»: un'autorita' designata da altro Stato membro dell'Unione europea a norma dell'articolo 35 del regolamento (CE) n. 1/2003 come responsabile dell'applicazione degli articoli 101 e 102 del trattato sul funzionamento dell'Unione europea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «autorita' garante della concorrenza»: la Commissione o l'autorita' garante della concorrenza e del mercato di cui all'articolo 10 della legge 10 ottobre 1990, n. 287, o l'autorita' nazionale garante della concorrenza di cui alla lettera d), ovvero, a seconda del contesto, le predette autorita' garanti della concorrenza disgiuntamente o congiuntamente alla Commissione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «giudice del ricorso»: il giudice competente ai sensi dell'articolo 33, comma 1, della legge 10 ottobre 1990, n. 287, ovvero un giudice di altro Stato membro che ha il potere, in seguito alla proposizione di mezzi di impugnazione ordinari, di rivedere le decisioni emesse da un'autorita' nazionale garante della concorrenza o le pronunce giurisdizionali formulate su tali decisioni, indipendentemente dal fatto che tale giudice abbia il potere di constatare una violazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «decisione relativa a una violazione»: la decisione di un'autorita' garante della concorrenza ovvero di un giudice del ricorso che constata una violazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «decisione definitiva relativa a una violazione»: la decisione relativa a una violazione che non puo' o non puo' piu' essere impugnata con mezzi ordinari; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «prove»: tutti i mezzi di prova ammissibili dinanzi al giudice adito, in particolare documenti e tutti gli altri oggetti contenenti informazioni, indipendentemente dal supporto sul quale le informazioni sono registrate; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «cartello»: un accordo, una intesa ai sensi dell'articolo 2 della legge 10 ottobre 1990, n. 287, o una pratica concordata fra due o piu' concorrenti, volta a coordinare il loro comportamento concorrenziale sul mercato o a influire sui pertinenti parametri di concorrenza mediante pratiche consistenti, tra l'altro, nel fissare o coordinare i prezzi di acquisto o di vendita o altre condizioni di transazione, anche in relazione a diritti di proprieta' intellettuale, nell'allocare quote di produzione o di vendita, nel ripartire i mercati e i clienti, tra l'altro mediante manipolazione delle gare d'appalto, restrizioni delle importazioni o delle esportazioni o azioni anticoncorrenziali dirette contro altre imprese concorrenti; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «programma di clemenza»: il programma adottato dall'autorita' garante della concorrenza e del mercato ai sensi dell'articolo 15, comma 2-bis, della legge 10 ottobre 1990, n. 287, o altro programma della Commissione europea o di uno Stato membro relativo all'applicazione dell'articolo 101 del trattato sul funzionamento dell'Unione europea o di una disposizione corrispondente del diritto nazionale in base alla quale un partecipante a un cartello segreto, indipendentemente dalle altre imprese coinvolte nel cartello, collabora a un'indagine dell'autorita' garante della concorrenza fornendo volontariamente gli elementi di cui e' a conoscenza circa il cartello e il ruolo svolto al suo interno, ricevendo in cambio, per decisione o con la chiusura del procedimento, l'immunita' dalle ammende per il suo coinvolgimento nel cartello o una loro riduzione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «dichiarazione legata a un programma di clemenza»: una dichiarazione orale o scritta presentata volontariamente da parte o per conto di un'impresa o di una persona fisica a un'autorita' garante della concorrenza, ovvero una registrazione di una tale dichiarazione, che descrive la conoscenza dell'impresa o della persona fisica in merito a un cartello e descrive il ruolo da essa svolto al suo interno, predisposta specificamente per essere presentata alla medesima autorita' garante allo scopo di ottenere la non applicazione o una riduzione delle sanzioni ai sensi di un programma di clemenza e che non comprende le informazioni preesistenti; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «informazioni preesistenti»: le prove esistenti indipendentemente dal procedimento di un'autorita' garante della concorrenza a prescindere dalla presenza o meno delle suddette informazioni nel fascicolo della predetta autorita'; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «proposta di transazione»: la dichiarazione volontaria da parte o per conto di un'impresa a un'autorita' garante della concorrenza, in cui l'impresa riconosce o rinuncia a contestare la sua partecipazione a una violazione del diritto della concorrenza e la propria responsabilita' in detta violazione del diritto della concorrenza, predisposta specificamente per consentire all'autorita' garante della concorrenza di applicare una procedura semplificata o accelerata; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «beneficiario dell'immunita'»: un'impresa o una persona fisica che ha ottenuto l'immunita' dalle ammende da un'autorita' garante della concorrenza nell'ambito di un programma di clemenza; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «sovrapprezzo»: la differenza tra il prezzo effettivamente pagato e il prezzo che sarebbe altrimenti prevalso in assenza di una violazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «composizione consensuale delle controversie»: i procedimenti di risoluzione stragiudiziale di una controversia, riguardanti una richiesta di risarcimento del danno subito a causa di una violazione del diritto della concorrenza, di cui al decreto legislativo 4 marzo 2010, n. 28, al capo II del decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162, e al titolo II-bis della parte V del codice del consumo di cui al decreto legislativo 6 settembre 2005, n. 206, nonche' i procedimenti di arbitrato di cui al titolo VIII del libro IV del codice di procedura civile; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «accordo che compone la controversia»: l'accordo amichevole di definizione della controversia raggiunto mediante il procedimento di cui al decreto legislativo 4 marzo 2010, n. 28; l'accordo raggiunto a seguito di convenzione di negoziazione assistita di cui al capo II del decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162; l'accordo amichevole raggiunto mediante il procedimento di cui al titolo II-bis del codice del consumo di cui al decreto legislativo 6 settembre 2005, n. 206; la determinazione contrattuale con cui e' definita la controversia nell'arbitrato irrituale di cui all'articolo 808-ter del codice di procedura civile; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «acquirente diretto»: una persona fisica, una persona giuridica o un ente privo di personalita' giuridica che ha acquistato direttamente da un autore della violazione beni o servizi oggetto di una violazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «acquirente indiretto»: una persona fisica, una persona giuridica o un ente privo di personalita' giuridica che ha acquistato non direttamente da un autore della violazione, ma da un acquirente diretto o da un acquirente successivo beni o servizi oggetto di una violazione del diritto della concorrenza, oppure beni o servizi che li incorporano o che derivano dagli stessi.
+
 ## - Capo II Esibizione delle prove
 
 ## Art. 3. — Ordine di esibizione
@@ -60,6 +204,31 @@ Il risarcimento comprende il danno emergente, il lucro cessante e gli interessi 
 Nelle azioni per il risarcimento del danno a causa di una violazione del diritto della concorrenza, su istanza motivata della parte, contenente l'indicazione di fatti e prove ragionevolmente disponibili dalla controparte o dal terzo, sufficienti a sostenere la plausibilita' della domanda di risarcimento del danno o della difesa, il giudice puo' ordinare alle parti o al terzo l'esibizione delle prove rilevanti che rientrano nella loro disponibilita' a norma delle disposizioni del presente capo.
 
 Il giudice dispone a norma del comma 1 individuando specificatamente e in modo circoscritto gli elementi di prova o le rilevanti categorie di prove oggetto della richiesta o dell'ordine di esibizione. La categoria di prove e' individuata mediante il riferimento a caratteristiche comuni dei suoi elementi costitutivi come la natura, il periodo durante il quale sono stati formati, l'oggetto o il contenuto degli elementi di prova di cui e' richiesta l'esibizione e che rientrano nella stessa categoria.
+
+3.
+                        
+                            
+                                Il giudice ordina l'esibizione, nei limiti di quanto e' proporzionato alla decisione e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esamina in quale misura la domanda di risarcimento o la difesa sono sostenute da fatti e prove disponibili che giustificano l'ordine di esibizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esamina la portata e i costi dell'esibizione, in specie per i terzi interessati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valuta se le prove di cui e' richiesta l'esibizione contengono informazioni riservate, in specie se riguardanti terzi.
 
 Quando la richiesta o l'ordine di esibizione hanno per oggetto informazioni riservate, il giudice dispone specifiche misure di tutela tra le quali l'obbligo del segreto, la possibilita' di non rendere visibili le parti riservate di un documento, la conduzione di audizioni a porte chiuse, la limitazione del numero di persone autorizzate a prendere visione delle prove, il conferimento ad esperti dell'incarico di redigere sintesi delle informazioni in forma aggregata o in altra forma non riservata. Si considerano informazioni riservate i documenti che contengono informazioni riservate di carattere personale, commerciale, industriale e finanziario relative a persone ed imprese, nonche' i segreti commerciali.
 
@@ -74,6 +243,56 @@ Esibizione delle prove contenute nel fascicolo di un'autorita' garante della con
 Il giudice ordina l'esibizione di prove contenute nel fascicolo di un'autorita' garante della concorrenza quando ne' le parti ne' i terzi sono ragionevolmente in grado di fornire tale prova.
 
 Il giudice ordina l'esibizione di prove contenute nel fascicolo di un'autorita' garante della concorrenza a norma dell'articolo 3 e secondo quanto disposto dal presente articolo.
+
+3.
+                        
+                            
+                                Quando il giudice valuta la proporzionalita' dell'ordine di esibizione considera altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    se la richiesta e' stata formulata in modo specifico quanto alla natura, all'oggetto o al contenuto dei documenti presentati a un'autorita' garante della concorrenza o contenuti nel fascicolo di tale autorita' o con una domanda generica attinente a documenti presentati a un'autorita' garante della concorrenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la parte richiede l'esibizione in relazione all'azione per il risarcimento del danno a causa di una violazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se sia necessario salvaguardare l'efficacia dell'applicazione a livello pubblicistico del diritto della concorrenza in relazione a quanto previsto dalle disposizioni di cui ai commi 1 e 4, o nel caso di richiesta di un'autorita' garante della concorrenza ai sensi del comma 7.
+
+4.
+                        
+                            
+                                Il giudice, solo dopo la conclusione del procedimento da parte dell'autorita' garante della concorrenza, puo' ordinare l'esibizione delle seguenti categorie di prove: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informazioni rese nell'ambito di un procedimento di un'autorita' garante della concorrenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni che l'autorita' garante della concorrenza ha redatto e comunicato alle parti nel corso del suo procedimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proposte di transazione, ove specificamente disciplinate, che sono state revocate.
 
 Il giudice non puo' ordinare a una parte o a un terzo di esibire prove aventi ad oggetto dichiarazioni legate a un programma di clemenza o proposte di transazione, ove specificamente disciplinate.
 In ogni caso l'attore puo' proporre istanza motivata perche' il giudice, che puo' chiedere assistenza solo all'autorita' garante della concorrenza, acceda alle prove di cui al periodo precedente al solo scopo di garantire che il loro contenuto corrisponda alle definizioni di cui all'articolo 2, comma 1, lettere n) e p). Gli autori dei documenti interessati possono chiedere al giudice di essere sentiti. In nessun caso il giudice consente alle altre parti o a terzi l'accesso a tali prove. Quando il giudice accerta che il contenuto delle prove non corrisponde alle definizioni di cui all'articolo 2, comma 1, lettere n) e p), ne ordina l'esibizione secondo le disposizioni di cui ai commi 4 e 6.
@@ -125,6 +344,31 @@ Le disposizioni del presente articolo lasciano impregiudicati le facolta' e gli 
 
 ## Art. 8. — Termine di prescrizione
 
+1.
+                        
+                            
+                                Il diritto al risarcimento del danno derivante da una violazione del diritto della concorrenza si prescrive in cinque anni. Il termine di prescrizione non inizia a decorrere prima che la violazione del diritto della concorrenza sia cessata e prima che l'attore sia a conoscenza o si possa ragionevolmente presumere che sia a conoscenza di tutti i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della condotta e del fatto che tale condotta costituisce una violazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del fatto che la violazione del diritto della concorrenza gli ha cagionato un danno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'identita' dell'autore della violazione.
+
 La prescrizione rimane sospesa quando l'autorita' garante della concorrenza avvia un'indagine o un'istruttoria in relazione alla violazione del diritto della concorrenza cui si riferisce l'azione per il diritto al risarcimento del danno. La sospensione si protrae per un anno dal momento in cui la decisione relativa alla violazione del diritto della concorrenza e' divenuta definitiva o dopo che il procedimento si e' chiuso in altro modo.
 
 ## Art. 9.
@@ -134,6 +378,24 @@ Responsabilita' in solido
 In deroga a quanto previsto dall'articolo 2055, primo comma, del codice civile, fatto salvo il diritto al pieno risarcimento del danno di cui all'articolo 1, comma 2, la piccola o media impresa (PMI), come definita nella raccomandazione 2003/361/CE della Commissione, che viola il diritto della concorrenza e' responsabile in solido solo nei confronti dei propri acquirenti diretti ed indiretti quando la sua quota nel mercato rilevante e' rimasta inferiore al cinque per cento per il tempo in cui si e' protratta la violazione del diritto della concorrenza e quando l'applicazione delle ordinarie regole in materia di responsabilita' solidale determinerebbe un pregiudizio irreparabile per la sua solidita' economica e la totale perdita di valore delle sue attivita'. La PMI e' responsabile in solido anche nei confronti di soggetti danneggiati diversi da quelli di cui al periodo precedente solo quando questi non possono ottenere l'integrale risarcimento del danno dalle altre imprese coinvolte nella stessa violazione del diritto della concorrenza.
 
 La deroga di cui al comma 1, primo periodo, non si applica quando la PMI ha svolto un ruolo di guida nella violazione del diritto della concorrenza o costretto altre imprese a parteciparvi ovvero quando risulta accertato che la PMI ha commesso in precedenza una violazione del diritto della concorrenza.
+
+3.
+                        
+                            
+                                In deroga a quanto previsto dall'articolo 2055, primo comma, del codice civile il beneficiario dell'immunita' e' responsabile in solido: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti dei suoi acquirenti o fornitori diretti o indiretti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti di altri soggetti danneggiati, solo quando questi non possono ottenere l'integrale risarcimento del danno dalle altre imprese coinvolte nella stessa violazione del diritto della concorrenza.
 
 Il termine di prescrizione del diritto al risarcimento del danno dei soggetti danneggiati di cui ai commi 1, secondo periodo, e 3, lettera b), inizia a decorrere da quando risulta accertato che gli stessi non possono ottenere l'integrale risarcimento del danno dalle altre imprese coinvolte nella stessa violazione del diritto della concorrenza.
 
@@ -156,6 +418,31 @@ Nelle azioni per il risarcimento del danno, il convenuto che eccepisce il fatto 
 ## Art. 12. — Acquirenti indiretti
 
 Nelle azioni di risarcimento del danno per trasferimento in tutto o in parte del sovrapprezzo, l'attore deve dimostrare l'esistenza e la portata del trasferimento anche chiedendo l'esibizione di prove al convenuto o a terzi.
+
+2.
+                        
+                            
+                                Nel caso di cui al comma 1, il trasferimento del sovrapprezzo si presume quando l'acquirente indiretto dimostra che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il convenuto ha commesso una violazione del diritto della concorrenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la violazione del diritto della concorrenza ha determinato un sovrapprezzo per l'acquirente diretto del convenuto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'acquirente indiretto ha acquistato beni o servizi oggetto della violazione del diritto della concorrenza o ha acquistato beni o servizi che derivano dagli stessi o che li incorporano.
 
 Il convenuto puo' dimostrare che il sovrapprezzo di cui al comma 2 non e' stato trasferito interamente o in parte sull'acquirente indiretto.
 
@@ -204,7 +491,53 @@ Le disposizioni del presente articolo si applicano anche quando il procedimento 
 
 ## Art. 17. — Modificazioni alla legge 10 ottobre 1990, n. 287
 
+1.
+                        
+                            
+                                All'articolo 1 della legge legge 10 ottobre 1990, n. 287, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: «che non ricadono nell'ambito di applicazione degli articoli 65 e/o 66 del Trattato istitutivo della Comunita' europea del carbone e dell'acciaio, degli articoli 85 e/o 86 del Trattato istitutivo della Comunita' economica europea (CEE), dei regolamenti della CEE o di atti comunitari con efficacia normativa equiparata» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: «2. L'Autorita' garante della concorrenza e del mercato di cui all'articolo 10, di seguito denominata "Autorita'", applica anche parallelamente in relazione a uno stesso caso gli articoli 101 e 102 del Trattato sul funzionamento dell'Unione europea e gli articoli 2 e 3 della presente legge in materia di intese restrittive della liberta' di concorrenza e di abuso di posizione dominante.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' abrogato.
+
 ## Art. 18. — Competenza dei tribunali per le imprese
+
+1.
+                        
+                            
+                                All'articolo 4 del decreto legislativo 27 giugno 2003, n. 168, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, primo periodo, le parole: «dal comma 1-bis» sono sostituite dalle seguenti: «dai commi 1-bis e 1-ter»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1-bis e' aggiunto il seguente: «1-ter. Per le controversie di cui all'articolo 3, comma 1, lettere c) e d), anche quando ricorrono i presupposti del comma 1-bis, che, secondo gli ordinari criteri di competenza territoriale e nel rispetto delle disposizioni normative speciali che le disciplinano, dovrebbero essere trattate dagli uffici giudiziari di seguito elencati, sono inderogabilmente competenti: 
+ a) la sezione specializzata in materia di impresa di Milano per gli uffici giudiziari ricompresi nei distretti di Brescia, Milano, Bologna, Genova, Torino, Trieste, Venezia, Trento e Bolzano (sezione distaccata); 
+ b) la sezione specializzata in materia di impresa di Roma per gli uffici giudiziari ricompresi nei distretti di Ancona, Firenze, L'Aquila, Perugia, Roma, Cagliari e Sassari (sezione distaccata); 
+ c) la sezione specializzata in materia di impresa di Napoli per gli uffici giudiziari ricompresi nei distretti di corte d'appello di Campobasso, Napoli, Salerno, Bari, Lecce, Taranto (sezione distaccata), Potenza, Caltanissetta, Catania, Catanzaro, Messina, Palermo, Reggio Calabria.».
 
 ## Art. 19. — Disposizione transitoria
 

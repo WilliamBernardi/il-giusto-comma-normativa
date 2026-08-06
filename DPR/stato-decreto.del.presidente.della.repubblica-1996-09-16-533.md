@@ -8,8 +8,8 @@ codice_redazionale: 096G0554
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:56Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -60,6 +60,52 @@ Si applicano le norme del codice civile e delle leggi speciali vigenti in materi
 ## Art. 2. — Bando di selezione
 
 Il bando di selezione e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana - serie speciale - e nella Gazzetta Ufficiale delle Comunita' europee. In ogni caso, un estratto del bando e' pubblicato in almeno due quotidiani a larga diffusione nazionale e in due a diffusione locale.
+
+2.
+                    
+                        
+                            Il bando indica:
+ 
+                        
+                        
+                            a)
+                            
+                                i contenuti essenziali dello statuto della costituenda societa', con particolare riferimento alle clausole che attribuiscono speciali diritti e facolta' agli enti pubblici partecipanti, e del contratto di societa', precisandosi in ogni caso l'importo del capitale sociale e la quota di esso riservata agli enti pubblici, con l'indicazione dei beni eventualmente conferiti a questo titolo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i contenuti essenziali dell'eventuale disciplina integrativa concernente i rapporti tra l'ente promotore ed il socio privato di maggioranza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la natura del servizio o dei servizi pubblici e delle eventuali opere necessarie allo svolgimento del servizio oggetto della costituenda societa'; le modalita' di effettuazione degli stessi anche con riferimento agli ambiti territoriali interessati; la durata della societa', non inferiore a dieci anni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i modi e i termini per la presentazione delle richieste di invito, nonche' la documentazione e le informazioni da allegare ai fini della scelta dei concorrenti da invitare, con riferimento agli articoli da 12 a 17 del decreto legislativo 17 marzo 1995, n. 157;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i criteri che saranno seguiti in sede di valutazione e comparazione delle offerte;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ogni altro elemento di cui all'allegato 4, lettera C), al decreto legislativo 17 marzo 1995, n. 157, in quanto applicabile.
 
 ## Art. 3. — Inviti, presentazione delle offerte, valutazione
 

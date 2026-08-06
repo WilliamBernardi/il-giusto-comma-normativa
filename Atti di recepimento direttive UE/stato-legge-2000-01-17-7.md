@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2025-01-17
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 LEGGE
@@ -26,7 +26,33 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 ## Art. 1. — (Commercio dell'oro)
 
+1.
+                    
+                        
+                            Ai fini della presente legge con il termine "oro" si intende: 
 
+                        
+                        
+                            a)
+                            
+                                l'oro da investimento, ((anche destinato a successiva lavorazione,)) intendendo per tale l'oro in forma di lingotti o placchette di peso accettato dal mercato dell'oro, ma comunque superiore ad 1 grammo, di purezza pari o superiore a 995 millesimi, rappresentato o meno da titoli; le monete d'oro di purezza pari o superiore a 900 millesimi, coniate dopo il 1800, che hanno o hanno avuto corso legale nel Paese di origine, normalmente vendute a un prezzo che non supera dell'80 per cento il valore sul mercato libero dell'oro in esse contenuto, incluse nell'elenco predisposto dalla Commissione delle Comunita' europee ed annualmente pubblicato nella Gazzetta Ufficiale delle Comunita' europee, serie C, nonche' le monete aventi le medesime caratteristiche, anche se non ricomprese nel suddetto elenco; con decreto del Ministro del tesoro, del bilancio e della programmazione economica sono stabilite le modalita' di trasmissione alla Commissione delle Comunita' europee delle informazioni in merito alle monete negoziate nello Stato italiano che soddisfano i suddetti criteri; 
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((il materiale d'oro diverso da quello di cui alla lettera a), ad uso prevalentemente industriale, per tale dovendosi intendere la materia prima aurifera grezza destinata a fusione o successiva trasformazione, sia in forma di semilavorati, come definiti nell'articolo 1, comma 1, lettera c), numero 3, del decreto del Presidente della Repubblica 30 maggio 2002, n. 150, di purezza pari o superiore a 325 millesimi sia in qualunque altra forma e purezza;))
+                                
+                            
+                        
+                        
+                            b-bis)
+                            
+                                
+                                    ((il materiale d'oro da destinare a fusione per ricavarne oro di cui alle lettere a) e b).))
+
+((Il trasferimento di oro da o verso l'estero, ovvero il commercio di oro ovvero ogni altra operazione in oro anche a titolo gratuito, a prescindere dalla consegna materiale dell'oro, e' oggetto di dichiarazione all'Unita' di informazione finanziaria per l'Italia, qualora il valore dell'operazione risulti di importo pari o superiore a 10.000 euro.))
 
 ((La dichiarazione e' dovuta anche per le operazioni di cui al comma 2 dello stesso tipo eseguite nel corso del mese solare con la medesima controparte qualora singolarmente pari o superiori a 2.500 euro e complessivamente pari o superiori al valore economico di cui al comma 2.))
 
@@ -38,6 +64,29 @@ Nel caso di trasferimento di oro al seguito verso l'estero, la dichiarazione e' 
 ((La dichiarazione non e' dovuta quando, ricorrendone i presupposti, l'operazione e' soggetta agli obblighi di dichiarazione e di informativa di cui al regolamento (UE) 2018/1672 e al decreto legislativo 19 novembre 2008, n. 195. La dichiarazione non e' altresi' dovuta per le operazioni effettuate dalla Banca d'Italia.))
 
 ((Le autorita' competenti all'effettuazione dei controlli e alla verifica delle violazioni di cui alla presente legge nei confronti delle persone in entrata nel territorio nazionale o in uscita dallo stesso ovvero le persone che inviano o ricevono l'oro di cui al comma 1, lettere a), b) e b-bis) provvedono affinche' tali persone siano informate dei loro diritti e obblighi.))
+
+3.
+                    
+                        
+                            L'esercizio in via professionale del commercio di oro, per conto proprio o per conto di terzi, puo' essere svolto da banche e, previa comunicazione all'((Organismo degli agenti e mediatori (OAM) di cui all'articolo 128-undecies del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385)), da soggetti in possesso dei seguenti requisiti: 
+
+                        
+                        
+                            a)
+                            
+                                forma giuridica di societa' per azioni, o di societa' in accomandita per azioni, o di societa' a responsabilita' limitata, o di societa' cooperativa, aventi in ogni caso capitale sociale interamente versato non inferiore a quello minimo previsto per le societa' per azioni; 
+                            
+                        
+                        
+                            b)
+                            
+                                oggetto sociale che comporti il commercio di oro; 
+                            
+                        
+                        
+                            c)
+                            
+                                possesso, da parte dei partecipanti al capitale, degli amministratori e dei dipendenti investiti di funzioni di direzione tecnica e commerciale, dei requisiti di onorabilita' previsti dagli articoli 108, 109 e 161, comma 2, del testo unico delle leggi in materia bancaria e creditizia, emanato con decreto legislativo 1o settembre 1993, n. 385.
 
 ((L'Organismo degli agenti e mediatori (OAM) istituisce un registro in cui sono iscritti i soggetti che posseggono i requisiti di cui al comma 3 e svolge ogni attivita' necessaria per la gestione del registro.))
 
@@ -55,6 +104,30 @@ La verifica della sussistenza dei requisiti previsti dal comma 3 e' demandata, p
 
 ((La Banca d'Italia)) fissa, coerentemente con gli standard in uso nei principali mercati internazionali, gli standard cui deve rispondere l'oro grezzo per avvalersi della qualifica di "buona consegna" nel mercato nazionale.
 
+9.
+                    
+                        
+                            
+                                ((La Banca d'Italia)): 
+
+                        
+                        
+                            a)
+                            
+                                sulla base di tariffe e modalita' predefinite certifica con apposito provvedimento l'idoneita' alla "buona consegna" delle aziende che ne facciano richiesta e risultino in grado, anche sul piano della capacita' tecnica, dell'affidabilita' e dell'onorabilita', di rispettare gli standard di cui al comma 8; 
+                            
+                        
+                        
+                            b)
+                            
+                                vigila sulla permanenza dei presupposti della certificazione, in difetto dei quali provvede alla revoca del relativo provvedimento; 
+                            
+                        
+                        
+                            c)
+                            
+                                individua sulla base di criteri predefiniti i soggetti, pubblici o privati, dai quali potranno essere rilasciate alle aziende interessate le attestazioni tecniche e merceologiche necessarie alla certificazione.
+
 Restano ferme le vigenti disposizioni in materia di titoli e marchi dei metalli preziosi.
 
 Fatta eccezione per la Banca d'Italia ((...)) e per le banche, continuano ad applicarsi le vigenti disposizioni di legge di pubblica sicurezza in materia di commercio di oro.
@@ -71,11 +144,73 @@ All'articolo 4, quinto comma, secondo periodo, del decreto del Presidente della 
 
 Le operazioni esenti di cui all'articolo 10, numero 3), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, sono da considerare in ogni caso prestazioni di servizi. Resta fermo il trattamento fiscale gia' applicato e non si fa luogo al rimborso di imposte gia' pagate ne' e' consentita la variazione di cui all'articolo 26 del predetto decreto del Presidente della Repubblica n. 633 del 1972, e successive modificazioni.
 
+3.
+                    
+                        
+                            All'articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al numero 9), le parole: "effettuate in relazione a rapporti di cui siano parti la Banca d'Italia e l'Ufficio italiano cambi o le banche agenti ai sensi dell'articolo 4, ultimo comma, del presente decreto" sono sostituite dalle seguenti: "effettuate in relazione ad operazioni poste in essere dalla Banca d'Italia e dall'Ufficio italiano dei cambi, ai sensi dell'articolo 4, quinto comma, del presente decreto";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero 11) e' sostituito dal seguente:
+"11) le cessioni di oro da investimento, compreso quello rappresentato da certificati in oro, anche non allocato, oppure scambiato su conti metallo, ad esclusione di quelle poste in essere dai soggetti che producono oro da investimento o che trasformano oro in oro da investimento, i quali abbiano optato, con le modalita' ed i termini previsti dal decreto del Presidente della Repubblica 10 novembre 1997, n. 442, anche in relazione a ciascuna cessione, per l'applicazione dell'imposta; le operazioni previste dall'articolo 81, comma 1, lettere c-quater) e c-quinquies), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, riferite all'oro da investimento; le intermediazioni relative alle precedenti operazioni. Se il cedente ha optato per l'applicazione dell'imposta, analoga opzione puo' essere esercitata per le relative prestazioni di intermediazione. Per oro da investimento si intende:
+ a) l'oro in forma di lingotti o placchette di peso accettato dal mercato dell'oro, ma comunque superiore ad 1 grammo, di purezza pari o superiore a 995 millesimi, rappresentato o meno da titoli;
+ b) le monete d'oro di purezza pari o superiore a 900 millesimi, coniate dopo il 1800, che hanno o hanno avuto corso legale nel Paese di origine, normalmente vendute a un prezzo che non supera dell'80 per cento il valore sul mercato libero dell'oro in esse contenuto, incluse nell'elenco predisposto dalla Commissione delle Comunita' europee ed annualmente pubblicato nella Gazzetta Ufficiale delle Comunita' europee, serie C, sulla base delle comunicazioni rese dal Ministero del tesoro, del bilancio e della programmazione economica, nonche' le monete aventi le medesime caratteristiche, anche se non comprese nel suddetto elenco;".
+
 All'articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, e' aggiunto, in fine, il seguente comma: "In deroga al primo comma, per le cessioni imponibili di oro da investimento di cui all'articolo 10, numero 11), nonche' per le cessioni di materiale d'oro e per quelle di prodotti semilavorati di purezza pari o superiore a 325 millesimi, al pagamento dell'imposta e' tenuto il cessionario, se soggetto passivo d'imposta nel territorio dello Stato. La fattura, emessa dal cedente senza addebito d'imposta, con l'osservanza delle disposizioni di cui agli articoli 21 e seguenti e con l'indicazione della norma di cui al presente comma, deve essere integrata dal cessionario con l'indicazione dell'aliquota e della relativa imposta e deve essere annotata nel registro di cui agli articoli 23 o 24 entro il mese di ricevimento ovvero anche successivamente, ma comunque entro quindici giorni dal ricevimento e con riferimento al relativo mese; lo stesso documento, ai fini della detrazione, e' annotato anche nel registro di cui all'articolo 25".
+
+5.
+                    
+                        
+                            All'articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, la lettera d) e' sostituita dalla seguente:
+"d) cessioni di cui all'articolo 10, numero 11), effettuate da soggetti che producono oro da investimento o trasformano oro in oro da investimento;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 5 e' aggiunto il seguente:
+"5-bis. Per i soggetti diversi da quelli di cui alla lettera d) del comma 3 la limitazione della detrazione di cui ai precedenti commi non opera con riferimento all'imposta addebitata, dovuta o assolta per gli acquisti, anche intracomunitari, di oro da investimento, per gli acquisti, anche intracomunitari, e per le importazioni di oro diverso da quello da investimento destinato ad essere trasformato in oro da investimento a cura degli stessi soggetti o per loro conto, nonche' per i servizi consistenti in modifiche della forma, del peso o della purezza dell'oro, compreso l'oro da investimento".
 
 All'articolo 22, primo comma, numero 6), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, le parole: "rientranti nell'attivita' propria delle imprese che le effettuano" sono soppresse.
 
 All'articolo 30, terzo comma, lettera a), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, dopo le parole: "e alle importazioni" sono aggiunte le seguenti: ", computando a tal fine anche le operazioni effettuate a norma dell'articolo 17, quinto comma".
+
+8.
+                    
+                        
+                            All'articolo 68 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera b) e' sostituita dalla seguente:
+"b) le importazioni di campioni gratuiti di modico valore, appositamente contrassegnati;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera c) e' sostituita dalla seguente:
+"c) ogni altra importazione definitiva di beni la cui cessione e' esente dall'imposta o non vi e' soggetta a norma dell'articolo 72.
+Per le operazioni concernenti l'oro da investimento di cui all'articolo 10, numero 11), l'esenzione si applica allorche' i requisiti ivi indicati risultino da conforme attestazione resa, in sede di dichiarazione doganale, dal soggetto che effettua l'operazione;".
 
 All'articolo 70 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, e' aggiunto, in fine, il seguente comma:
 "Per l'importazione di materiale d'oro, nonche' dei prodotti semilavorati di purezza pari o superiore a 325 millesimi da parte di soggetti passivi nel territorio dello Stato l'imposta, accertata e liquidata nella dichiarazione doganale, in base ad attestazione resa in tale sede, e' assolta a norma delle disposizioni di cui al titolo II; a tal fine il documento doganale deve essere annotato, con riferimento al mese di rilascio del documento stesso, nei registri di cui agli articoli 23 o 24 nonche', agli effetti della detrazione, nel registro di cui all'articolo 25".

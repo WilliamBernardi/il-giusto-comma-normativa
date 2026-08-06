@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-06-03
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -37,7 +37,290 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro delle at
 
 Il presente decreto promuove il miglioramento della prestazione energetica degli edifici tenendo conto delle condizioni locali e climatiche esterne, nonche' delle prescrizioni relative al clima degli ambienti interni e all'efficacia sotto il profilo dei costi.
 
+2.
+                        
+                            
+                                Il presente decreto definisce e integra criteri, condizioni e modalita' per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    migliorare le prestazioni energetiche degli edifici ((anche tramite l'applicazione di requisiti minimi alla prestazione di edifici nuovi, nonche' edifici esistenti sottoposti a ristrutturazione ed elementi edilizi o sistemi tecnici per l'edilizia rinnovati o sostituiti)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    favorire lo sviluppo, la valorizzazione e l'integrazione delle fonti rinnovabili negli edifici; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    determinare i criteri generali ((per il calcolo della prestazione energetica,)) per la certificazione della prestazione energetica degli edifici e per il trasferimento delle relative informazioni in sede di compravendita e locazione; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    
+                                        ((definire le modalita' di esercizio, conduzione, controllo, ispezione e manutenzione degli impianti termici per la climatizzazione invernale ed estiva e per la preparazione dell'acqua calda sanitaria)) al fine di ridurre il consumo energetico e le emissioni di biossido di carbonio 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sostenere la diversificazione energetica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuovere la competitivita' dell'industria nazionale attraverso lo sviluppo tecnologico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coniugare le opportunita' offerte dagli obiettivi di efficienza energetica con lo sviluppo di materiali, di tecniche di costruzione, di apparecchiature e di tecnologie sostenibili nel settore delle costruzioni e con l' occupazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    conseguire gli obiettivi nazionali in materia energetica e ambientale ((nel settore degli edifici, definendo le strategie nazionali di lungo termine per la ristrutturazione del parco immobiliare nazionale)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    razionalizzare le procedure nazionali e territoriali per l'attuazione delle normative energetiche al fine di ridurre i costi complessivi, per la pubblica amministrazione e per i cittadini e per le imprese; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    applicare in modo omogeneo e integrato la normativa su tutto il territorio nazionale; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    assicurare l'attuazione e la vigilanza sulle norme in materia di prestazione energetica degli edifici, anche attraverso la raccolta e l'elaborazione di informazioni e dati; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    promuovere ((l'efficienza energetica e)) l'uso razionale dell'energia anche attraverso l'informazione e la sensibilizzazione degli utenti finali. 
+
+                                
+                            
+                            
+                                h-quater)
+                                
+                                    perseguire la conoscenza dettagliata del parco immobiliare nazionale, della sua prestazione energetica e dei suoi consumi, anche attraverso l'implementazione, la valorizzazione ed il collegamento tra le banche dati, mettendo tali informazioni a disposizione dei cittadini, delle imprese e della pubblica amministrazione anche al fine di sviluppare strumenti che incrementino il tasso di riqualificazione energetica degli edifici; 
+
+                                
+                            
+                            
+                                h-quinquies)
+                                
+                                    promuovere la diffusione delle infrastrutture di ricarica dei veicoli elettrici e definire gli obblighi di integrazione di tali sistemi negli edifici.
+
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si definisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "edificio" e' un sistema costituito dalle strutture edilizie esterne che delimitano uno spazio di volume definito, dalle strutture interne che ripartiscono detto volume e da tutti gli impianti e dispositivi tecnologici che si trovano stabilmente al suo interno; la superficie esterna che delimita un edificio puo' confinare con tutti o alcuni di questi elementi: l'ambiente esterno, il terreno, altri edifici; il termine puo' riferirsi a un intero edificio ovvero a parti di edificio progettate o ristrutturate per essere utilizzate come unita' immobiliari a se' stanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "edificio di nuova costruzione" e' un edificio per il quale la richiesta di permesso di costruire o denuncia di inizio attivita', comunque denominato, sia stata presentata successivamente alla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    'prestazione energetica di un edificio': quantita' annua di energia primaria effettivamente consumata o che si prevede possa essere necessaria per soddisfare, con un uso standard dell'immobile, i vari bisogni energetici dell'edificio, la climatizzazione invernale e estiva, la preparazione dell'acqua calda per usi igienici sanitari, la ventilazione e, per il settore terziario, l'illuminazione, gli impianti ascensori e scale mobili. Tale quantita' viene espressa da uno o piu' descrittori che tengono conto del livello di isolamento dell'edificio e delle caratteristiche tecniche e di installazione degli impianti tecnici. La prestazione energetica puo' essere espressa in energia primaria non rinnovabile, rinnovabile, o totale come somma delle precedenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DAL D.L. 4 GIUGNO 2013, N. 63, CONVERTITO CON MODIFICAZIONI DALLA L. 3 AGOSTO 2013, N. 90; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.L. 4 GIUGNO 2013, N. 63, CONVERTITO CON MODIFICAZIONI DALLA L. 3 AGOSTO 2013, N. 90; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA ABROGATA DAL D.L. 4 GIUGNO 2013, N. 63, CONVERTITO CON MODIFICAZIONI DALLA L. 3 AGOSTO 2013, N. 90; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "generatore di calore": la parte di un impianto termico che genera calore utile avvalendosi di uno o piu' dei seguenti processi: 
+ 1) la combustione di combustibili, ad esempio in una caldaia; 
+ 2) l'effetto Joule che avviene negli elementi riscaldanti di un impianto di riscaldamento a resistenza elettrica; 
+ 3) la cattura di calore dall'aria ambiente, dalla ventilazione dell'aria esausta, dall'acqua o da fonti di calore sotterranee attraverso una pompa di calore; 
+ 4) la trasformazione dell'irraggiamento solare in energia termica con impianti solari termici;
+                                
+                            
+                            
+                                h)
+                                
+                                    "potenza termica utile di un generatore di calore" e' la quantita' di calore trasferita nell'unita' di tempo al fluido termovettore; l'unita' di misura utilizzata e' il kW; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "pompa di calore" e' un dispositivo o un impianto che sottrae calore dall'ambiente esterno o da una sorgente di calore a bassa temperatura e lo trasferisce all'ambiente a temperatura controllata; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "valori nominali delle potenze e dei rendimenti" sono i valori di potenza massima e di rendimento di un apparecchio specificati e garantiti dal costruttore per il regime di funzionamento continuo. 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    "attestato di prestazione energetica dell'edificio": documento, redatto nel rispetto delle norme contenute nel presente decreto e rilasciato da esperti qualificati e indipendenti che attesta la prestazione energetica di un edificio attraverso l'utilizzo di specifici descrittori e fornisce raccomandazioni per il miglioramento dell'efficienza energetica; 
+
+                                
+                            
+                            
+                                l-ter)
+                                
+                                    "attestato di qualificazione energetica": il documento predisposto ed asseverato da un professionista abilitato, non necessariamente estraneo alla proprieta', alla progettazione o alla realizzazione dell'edificio, nel quale sono riportati i fabbisogni di energia primaria di calcolo, la classe di appartenenza dell'edificio, o dell'unita' immobiliare, in relazione al sistema di certificazione energetica in vigore, ed i corrispondenti valori massimi ammissibili fissati dalla normativa in vigore per il caso specifico o, ove non siano fissati tali limiti, per un identico edificio di nuova costruzione; 
+
+                                
+                            
+                            
+                                l-quater)
+                                
+                                    "cogenerazione": produzione simultanea, nell'ambito di un unico processo, di energia termica e di energia elettrica e/o meccanica rispondente ai requisiti di cui al decreto del Ministro dello sviluppo economico 4 agosto 2011, pubblicato nella Gazzetta Ufficiale n. 218 del 19 settembre 2011; 
+
+                                
+                            
+                            
+                                l-quinquies)
+                                
+                                    "confine del sistema" o "confine energetico dell'edificio": confine che include tutte le aree di pertinenza dell'edificio, sia all'interno che all'esterno dello stesso, dove l'energia e' consumata o prodotta; 
+
+                                
+                            
+                            
+                                l-sexies)
+                                
+                                    "edificio adibito ad uso pubblico": edificio nel quale si svolge, in tutto o in parte, l'attivita' istituzionale di enti pubblici; 
+
+                                
+                            
+                            
+                                l-septies)
+                                
+                                    "edificio di proprieta' pubblica": edificio di proprieta' dello Stato, delle regioni o degli enti locali, nonche' di altri enti pubblici, anche economici ed occupati dai predetti soggetti; 
+
+                                
+                            
+                            
+                                l-octies)
+                                
+                                    "edificio a energia quasi zero": edificio ad altissima prestazione energetica, calcolata conformemente alle disposizioni del presente decreto, che rispetta i requisiti definiti al decreto di cui all'articolo 4, comma 1. Il fabbisogno energetico molto basso o quasi nullo e' coperto in misura significativa da energia da fonti rinnovabili, prodotta in situ; 
+
+                                
+                            
+                            
+                                l-novies)
+                                
+                                    "edificio di riferimento" o "target per un edificio sottoposto a verifica progettuale, diagnosi, o altra valutazione energetica": edificio identico in termini di geometria (sagoma, volumi, superficie calpestabile, superfici degli elementi costruttivi e dei componenti), orientamento, ubicazione territoriale, destinazione d'uso e situazione al contorno, e avente caratteristiche termiche e parametri energetici predeterminati; 
+
+                                
+                            
+                            
+                                l-decies)
+                                
+                                    "elemento edilizio": sistema tecnico per l'edilizia o componente dell'involucro di un edificio; 
+
+                                
+                            
+                            
+                                l-undecies)
+                                
+                                    "energia consegnata o fornita": energia espressa per vettore energetico finale, fornita al confine dell'edificio agli impianti tecnici per produrre energia termica o elettrica per i servizi energetici dell'edificio; 
+
+                                
+                            
+                            
+                                l-duodecies)
+                                
+                                    "energia da fonti rinnovabili": energia proveniente da fonti rinnovabili non fossili, vale a dire energia eolica, solare, aerotermica, geotermica, idrotermica e oceanica, idraulica, biomassa, gas di discarica, gas residuati dai processi di depurazione e biogas; 
+ l-ter decies) "energia esportata": quantita' di energia, relativa a un dato vettore energetico, generata all'interno del confine del sistema e ceduta per l'utilizzo all'esterno dello stesso confine; 
+ l-quater decies) "energia primaria": energia, da fonti rinnovabili e non, che non ha subito alcun processo di conversione o trasformazione; 
+ l-quinquies decies) "energia prodotta in situ": energia prodotta o captata o prelevata all'interno del confine del sistema; 
+ l-sexies decies) "fabbisogno annuale globale di energia primaria": quantita' di energia primaria relativa a tutti i servizi considerati nella determinazione della prestazione energetica, erogata dai sistemi tecnici presenti all'interno del confine del sistema, calcolata su un intervallo temporale di un anno; 
+ l-septies decies) "fabbricato": sistema costituito dalle strutture edilizie esterne, costituenti l'involucro dell'edificio, che delimitano un volume definito e dalle strutture interne di ripartizione dello stesso volume. Sono esclusi gli impianti e i dispositivi tecnologici che si trovano al suo interno; 
+ l-octies decies) "fattore di conversione in energia primaria": rapporto adimensionale che indica la quantita' di energia primaria impiegata per produrre un'unita' di energia fornita, per un dato vettore energetico; tiene conto dell'energia necessaria per l'estrazione, il processamento, lo stoccaggio, il trasporto e, nel caso dell'energia elettrica, del rendimento medio del sistema di generazione e delle perdite medie di trasmissione del sistema elettrico nazionale e nel caso del teleriscaldamento, delle perdite medie di distribuzione della rete. Questo fattore puo' riferirsi all'energia primaria non rinnovabile, all'energia primaria rinnovabile o all'energia primaria totale come somma delle precedenti; 
+ l-novies decies) "involucro di un edificio": elementi e componenti integrati di un edificio che ne separano gli ambienti interni dall'ambiente esterno; 
+ l-vicies) "livello ottimale in funzione dei costi": livello di prestazione energetica che comporta il costo piu' basso durante il ciclo di vita economico stimato, dove: 
+ 1) il costo piu' basso e' determinato tenendo conto dei costi di investimento legati all'energia, dei costi di manutenzione e di funzionamento e, se del caso, degli eventuali costi di smaltimento; 
+ 2) il ciclo di vita economico stimato si riferisce al ciclo di vita economico stimato rimanente di un edificio nel caso in cui siano stabiliti requisiti di prestazione energetica per l'edificio nel suo complesso oppure al ciclo di vita economico stimato di un elemento edilizio nel caso in cui siano stabiliti requisiti di prestazione energetica per gli elementi edilizi; 
+ 3) il livello ottimale in funzione dei costi si situa all'interno della scala di livelli di prestazione in cui l'analisi costi-benefici calcolata sul ciclo di vita economico e' positiva; 
+ l-vicies semel) "norma tecnica europea": norma adottata dal Comitato europeo di normazione, dal Comitato europeo di normalizzazione elettrotecnica o dall'Istituto europeo per le norme di telecomunicazione e resa disponibile per uso pubblico; 
+ l-vicies bis) LETTERA SOPPRESSA DALLA L. 3 AGOSTO 2013, N. 90; 
+ l-vicies ter) "riqualificazione energetica di un edificio" un edificio esistente e' sottoposto a riqualificazione energetica quando i lavori in qualunque modo denominati, a titolo indicativo e non esaustivo: manutenzione ordinaria o straordinaria, ristrutturazione e risanamento conservativo, ricadono in tipologie diverse da quelle indicate alla lettera l-vicies quater); 
+ l-vicies quater) "ristrutturazione importante di un edificio": un edificio esistente e' sottoposto a ristrutturazione importante quando i lavori in qualunque modo denominati (a titolo indicativo e non esaustivo: manutenzione ordinaria o straordinaria, ristrutturazione e risanamento conservativo) insistono su oltre il 25 per cento della superficie dell'involucro dell'intero edificio, comprensivo di tutte le unita' immobiliari che lo costituiscono, e consistono, a titolo esemplificativo e non esaustivo, nel rifacimento di pareti esterne, di intonaci esterni, del tetto o dell'impermeabilizzazione delle coperture; 
+ l-vicies quinquies) "sistema di climatizzazione estiva" o "impianto di condizionamento d'aria": complesso di tutti i componenti necessari a un sistema di trattamento dell'aria, attraverso il quale la temperatura e' controllata o puo' essere abbassata; 
+ ((l-vicies sexies) "sistema tecnico per l'edilizia": apparecchiatura tecnica di un edificio o di un'unita' immobiliare per il riscaldamento o il raffrescamento di ambienti, la ventilazione, la produzione di acqua calda sanitaria, l'illuminazione integrata, l'automazione e il controllo, la produzione di energia in loco o una combinazione degli stessi, compresi i sistemi che sfruttano energie da fonti rinnovabili. Un sistema tecnico puo' essere suddiviso in piu' sottosistemi;)) 
+ l-vicies septies) "teleriscaldamento" o "teleraffrescamento": distribuzione di energia termica in forma di vapore, acqua calda o liquidi refrigerati da una o piu' fonti di produzione verso una pluralita' di edifici o siti tramite una rete, per il riscaldamento o il raffrescamento di spazi, per processi di lavorazione e per la fornitura di acqua calda sanitaria; 
+ l-duodetricies) "unita' immobiliare": parte, piano o appartamento di un edificio progettati o modificati per essere usati separatamente; 
+ l-undetricies) "vettore energetico": sostanza o energia fornite dall'esterno del confine del sistema per il soddisfacimento dei fabbisogni energetici dell'edificio; 
+ ((l-tricies) "impianto termico": impianto tecnologico fisso destinato ai servizi di climatizzazione invernale o estiva degli ambienti, con o senza produzione di acqua calda sanitaria, o destinato alla sola produzione di acqua calda sanitaria, indipendentemente dal vettore energetico utilizzato, comprendente eventuali sistemi di produzione, distribuzione, accumulo e utilizzazione del calore nonche' gli organi di regolazione e controllo, eventualmente combinato con impianti di ventilazione. Non sono considerati impianti termici i sistemi dedicati esclusivamente alla produzione di acqua calda sanitaria al servizio di singole unita' immobiliari ad uso residenziale ed assimilate;))
+                                        ((l-tricies semel) "contratto di rendimento energetico o di prestazione energetica (EPC)": contratto di cui all'articolo 2, comma 2, lettera n), del decreto legislativo 4 luglio 2014, n. 102, e successive modificazioni; 
+ l-tricies bis) "microsistema isolato": il microsistema isolato quale definito dall'articolo 2, punto 27, della direttiva 2009/72/CE del Parlamento europeo e del Consiglio; 
+ l-tricies ter) "sistema di automazione e controllo dell'edificio (BACS)": sistema comprendente tutti i prodotti, i software e i servizi tecnici che contribuiscono al funzionamento sicuro, economico ed efficiente sotto il profilo dell'energia dei sistemi tecnici per l'edilizia tramite controlli automatici e facilitando la gestione manuale di tali sistemi; 
+ l-tricies quater) "sistema o impianto di climatizzazione invernale" o "impianto di riscaldamento": complesso di tutti i componenti necessari a un sistema di trattamento dell'aria, attraverso il quale la temperatura e' controllata o puo' essere aumentata; 
+ l-tricies quinquies) "sistemi alternativi ad alta efficienza": sistemi tecnici per l'edilizia ad alta efficienza tra i quali, a titolo esemplificativo e non esaustivo, i sistemi di produzione di energia rinnovabile, la cogenerazione, il teleriscaldamento e il teleraffrescamento, le pompe di calore, i sistemi ibridi e i sistemi di monitoraggio e controllo attivo dei consumi, nonche' il free cooling aerotermico, geotermico o idrotermico.))
 
 Ai fini del presente decreto si applicano, inoltre, le definizioni dell'allegato A.
 
@@ -49,11 +332,230 @@ Ai fini del presente decreto si applicano, inoltre, le definizioni dell'allegato
 
 Il presente decreto si applica all'edilizia pubblica e privata.
 
+2-ter.
+                        
+                            
+                                Il presente decreto disciplina in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la metodologia per il calcolo delle prestazioni energetiche degli edifici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le prescrizioni e i requisiti minimi in materia di prestazioni energetiche degli edifici quando sono oggetto di: 
+ 1) nuova costruzione; 
+ 2) ristrutturazioni importanti; 
+ 3) riqualificazione energetica; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    l'integrazione negli edifici di impianti tecnici per l'edilizia e di infrastrutture per la ricarica dei veicoli elettrici;
+                                
+                            
+                            
+                                c)
+                                
+                                    la definizione ((di una strategia di lungo termine per la ristrutturazione del parco immobiliare nazionale e)) di un Piano di azione per la promozione degli edifici a "energia quasi zero"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'attestazione della prestazione energetica degli edifici e delle unita' immobiliari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lo sviluppo di strumenti finanziari e la rimozione di barriere di mercato per la promozione dell'efficienza energetica degli edifici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'utilizzo delle fonti energetiche rinnovabili negli edifici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la realizzazione di un sistema coordinato di ispezione periodica degli impianti termici negli edifici; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i requisiti professionali e di indipendenza degli esperti o degli organismi cui affidare l'attestazione della prestazione energetica degli edifici e l'ispezione degli impianti di climatizzazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la realizzazione e l'adozione di strumenti comuni allo Stato e alle regioni e province autonome per la gestione degli adempimenti a loro carico; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la promozione ((dell'efficienza energetica e)) dell'uso razionale dell'energia anche attraverso l'informazione e la sensibilizzazione degli utenti finali, la formazione e l'aggiornamento degli operatori del settore; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la raccolta delle informazioni e delle esperienze, delle elaborazioni e degli studi necessari all'orientamento della politica energetica del settore ((e all'incremento del tasso di riqualificazione energetica degli edifici tramite maggiori strumenti informativi dedicati ai cittadini, alle imprese e alla pubblica amministrazione)).
+
+3.
+                        
+                            
+                                Sono escluse dall'applicazione del presente decreto le seguenti categorie di edifici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli edifici ricadenti nell'ambito della disciplina della parte seconda e dell'articolo 136, comma 1, lettere b) e c), del decreto legislativo 22 gennaio 2004, n. 42, recante il codice dei beni culturali e del paesaggio, fatto salvo quanto disposto al comma 3-bis ((e al comma 3-bis.1)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli edifici industriali e artigianali quando gli ambienti sono riscaldati per esigenze del processo produttivo o utilizzando reflui energetici del processo produttivo non altrimenti utilizzabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    edifici rurali non residenziali sprovvisti di impianti di climatizzazione; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    gli edifici dichiarati inagibili o collabenti;
+                                
+                            
+                            
+                                d)
+                                
+                                    i fabbricati isolati con una superficie utile totale inferiore a 50 metri quadrati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli edifici che risultano non compresi nelle categorie di edifici classificati sulla base della destinazione d'uso di cui all'articolo 3 del decreto del Presidente della Repubblica 26 agosto 1993, n. 412, quali box, cantine, autorimesse, parcheggi multipiano, depositi, strutture stagionali a protezione degli impianti sportivi, il cui utilizzo standard non prevede l'installazione e l'impiego di sistemi tecnici di climatizzazione, resta fermo in ogni caso quanto previsto in materia di integrazione delle infrastrutture di ricarica dei veicoli elettrici negli edifici secondo quanto previsto al decreto di cui all'articolo 4, comma 1;
+                                
+                            
+                            
+                                f)
+                                
+                                    gli edifici adibiti a luoghi di culto e allo svolgimento di attivita' religiose.
+
+3-bis.
+                        
+                            
+                                Per gli edifici di cui al comma 3, lettera a), il presente decreto si applica limitatamente alle disposizioni concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attestazione della prestazione energetica degli edifici, di cui all'articolo 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l' esercizio, ((la conduzione, il controllo,)) la manutenzione e le ispezioni degli impianti tecnici, di cui ((all'articolo 4, comma 1-ter e)) all'articolo 7. 
+ 3-bis. 1. Gli edifici di cui al comma 3, lettera a), sono esclusi dall'applicazione del presente decreto ai sensi del comma 3-bis, solo nel caso in cui, previo giudizio dell'autorita' competente al rilascio dell'autorizzazione ai sensi del codice di cui al decreto legislativo 22 gennaio 2004, n. 42, il rispetto delle prescrizioni implichi un'alterazione sostanziale del loro carattere o aspetto, con particolare riferimento ai profili storici, artistici e paesaggistici.
+
 Per gli edifici di cui al comma 3, lettera d), il presente decreto si applica limitatamente alle porzioni eventualmente adibite ad uffici e assimilabili, purche' scorporabili ai fini della valutazione di efficienza energetica.
 
 ## Art. 3-bis. — (( (Strategia di ristrutturazione a lungo termine).))
 
 ((
+
+1.
+                        
+                            
+                                Su proposta del Ministro dello sviluppo economico, acquisito il parere della Conferenza unificata, e' adottata, entro trenta giorni dall'entrata in vigore della presente disposizione, la strategia di lungo termine per sostenere la ristrutturazione del parco nazionale di edifici residenziali e non residenziali, sia pubblici che privati, al fine di ottenere un parco immobiliare decarbonizzato e ad alta efficienza energetica entro il 2050, facilitando la trasformazione, efficace in termini di costi, degli edifici esistenti in edifici a energia quasi zero. La strategia di ristrutturazione a lungo termine e' recepita nel Piano nazionale integrato per l'energia e il clima e comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una ricognizione del parco immobiliare nazionale fondata, se del caso, su campionamenti statistici e sulla quota di edifici ristrutturati prevista nel 2020; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'individuazione di approcci alla ristrutturazione efficace in termini di costi in base al tipo di edificio e alla zona climatica, tenendo conto, ove possibile, dei momenti piu' opportuni, nel ciclo di vita degli edifici, per la realizzazione di interventi di riqualificazione energetica, anche valutando l'introduzione di obblighi di ristrutturazione, e promuovendo l'utilizzo di tecniche che implichino maggior uso di elementi prefabbricati e la riduzione del tempo dei lavori di cantiere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una rassegna delle politiche e delle azioni in vigore, nonche' delle modifiche rivolte a migliorarne l'efficacia, rivolte: 
+ 1) ai segmenti del parco immobiliare nazionale caratterizzati dalle prestazioni peggiori; 
+ 2) ad alleviare la poverta' energetica; 
+ 3) a rimuovere le barriere alla diffusione degli interventi di riqualificazione energetica, quali ad esempio le differenze tra i soggetti titolari di interessi contrapposti sul medesimo immobile; 
+ 4) a superare le inefficienze, quali ad esempio i casi in cui agli investimenti sostenuti per la riqualificazione energetica degli edifici non corrispondono adeguati benefici economici, energetici e ambientali; 
+ 5) a promuovere le tecnologie intelligenti, ivi comprese quelle che favoriscono l'interconnessione tra edifici; 
+ 6) a promuovere le competenze e la formazione nei settori edile e dell'efficienza energetica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la proposta di politiche e azioni, anche di lungo termine, volte a stimolare le ristrutturazioni importanti ed efficaci in termini di costi, valutando la promozione delle ristrutturazioni importanti ottenibili per fasi successive, ad esempio attraverso l'introduzione di un sistema facoltativo di «passaporto» di ristrutturazione degli edifici, tenendo conto delle risultanze dello studio della Commissione europea di cui all'articolo 19-bis della direttiva 2010/31/UE e individuando le modalita' per garantire risorse finanziarie adeguate anche attraverso meccanismi che consentano l'utilizzo di agevolazioni fiscali anche qualora gli interventi siano integralmente realizzati e finanziati da societa' di servizi energetici o altri soggetti finanziatori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la proposta di politiche e azioni, anche di lungo termine, rivolte ad accelerare la riqualificazione energetica di tutti gli edifici pubblici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'integrazione degli interventi di efficientamento energetico degli edifici con gli interventi per la riduzione del rischio sismico e di incendio, volta ad ottimizzare la sicurezza, i costi di investimento e la durata degli edifici, tramite la proposta di requisiti, anche aggiuntivi rispetto a quelli di cui all'articolo 4, comma 1, numero 3-quinquies), ai fini dell'accesso agli incentivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    una stima affidabile del risparmio energetico atteso, nonche' dei benefici in senso lato come, a titolo esemplificativo e non esaustivo, quelli connessi alla salute, alla sicurezza e alla qualita' dell'aria.
 
 La strategia di cui al comma 1 prevede la fissazione di obiettivi indicativi periodici per il 2030, il 2040 e il 2050, ivi incluso il raggiungimento di un tasso annuale di ristrutturazione degli edifici, al fine del miglioramento della prestazione energetica, pari almeno al 3%, la definizione di indicatori di progresso misurabili, e specifica il modo in cui il conseguimento di tali obiettivi contribuisce al conseguimento degli obiettivi di efficienza energetica stabiliti nel Piano integrato per l'energia e il clima.
 
@@ -129,6 +631,38 @@ A partire dal 31 dicembre 2018, gli edifici di nuova costruzione occupati da pub
 
 Entro il 30 giugno 2014, con decreto del Ministro dello sviluppo economico, di concerto con i Ministri per la pubblica amministrazione e la semplificazione, della coesione territoriale, dell'economia e delle finanze, delle infrastrutture e dei trasporti, dell'ambiente e della tutela del territorio e del mare e con il Ministro della salute e il Ministro dell'istruzione, dell'universita' e della ricerca, ognuno per i profili di competenza, sentita la Conferenza unificata e' definito il Piano d'azione destinato ad aumentare il numero di edifici a energia quasi zero. Tale Piano, che puo' includere obiettivi differenziati per tipologia edilizia, e' trasmesso alla Commissione europea.
 
+3.
+                        
+                            
+                                Il Piano d'azione di cui al comma 2 comprende, tra l'altro, i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'applicazione della definizione di edifici a energia quasi zero alle diverse tipologie di edifici e indicatori numerici del consumo di energia primaria, espresso in kWh/m2 anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le politiche e le misure finanziarie o di altro tipo previste per promuovere gli edifici a energia quasi zero, comprese le informazioni relative alle misure nazionali previste per l'integrazione delle fonti rinnovabili negli edifici, in attuazione della direttiva 2009/28/CE, tenendo conto dell'esigenza prioritaria di contenere il consumo del territorio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'individuazione, sulla base dell'analisi costi-benefici sul costo di vita economico, di casi specifici per i quali non si applica quanto disposto al comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli obiettivi intermedi di miglioramento della prestazione energetica degli edifici di nuova costruzione entro il 2015, in funzione dell'attuazione del comma 1.
+
 ))
 
 ## Art. 4-ter. — Strumenti finanziari e superamento delle barriere di mercato).
@@ -171,7 +705,64 @@ Al fine di sostenere la mobilitazione degli investimenti per la riqualificazione
 
 E' istituito, presso ENEA, il Portale Nazionale sulla prestazione energetica degli edifici, con lo scopo di fornire ai cittadini, alle imprese e alla pubblica amministrazione informazioni sulla prestazione energetica degli edifici, sulle migliori pratiche per le riqualificazioni energetiche efficaci in termini di costi, sugli strumenti di promozione esistenti per migliorare la prestazione energetica degli edifici, ivi compresa la sostituzione delle caldaie a combustibile fossile con alternative piu' sostenibili, e sugli attestati di prestazione energetica.
 
+2.
+                        
+                            
+                                Per lo svolgimento delle attivita' di cui al comma 1, secondo le modalita' previste dal decreto di cui al comma 4, ENEA istituisce uno sportello unico finalizzato a fornire assistenza ed ogni informazione utile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai cittadini e alle imprese relativamente: alla mappatura energetica degli edifici, alla conformita' alla normativa di settore, alla valutazione del potenziale di efficientamento e alla selezione delle priorita' di intervento, ivi compresi i piani di riqualificazione per fasi successive, alla selezione degli strumenti di promozione piu' adeguati allo scopo, alla formazione delle competenze professionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla pubblica amministrazione relativamente: alla mappatura energetica degli edifici, alla conformita' alla normativa di settore, alla valutazione del potenziale di efficientamento e alla selezione delle priorita' di intervento, ivi compresi i piani di riqualificazione per fasi successive, alla selezione degli strumenti di promozione piu' adeguati allo scopo, anche tramite l'utilizzo dei contratti EPC, alla formazione delle competenze tecniche.
+
 Le attivita' di cui al comma 1 sono fornite a seguito dell'acquisizione e dell'elaborazione, da parte del Portale, delle informazioni di cui al comma 4 relative alla consistenza del parco immobiliare nazionale, alla sua prestazione energetica e ai suoi consumi energetici, nonche' agli interventi gia' eseguiti di riqualificazione energetica degli edifici.
+
+4.
+                        
+                            
+                                Entro novanta giorni dalla data di entrata in vigore della presente disposizione, il Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, il Ministro dell'economia e delle finanze e il Ministro per l'innovazione tecnologica e la digitalizzazione, sentita la Conferenza Unificata, individua, con apposito decreto, le modalita' di funzionamento del portale di cui al comma 1, sia in termini di erogazione del servizio che di gestione dei flussi informativi, oltre alle opportune forme di collaborazione e raccordo tra le amministrazioni interessate, per le quali risulti prioritario il ricorso a dati organizzati dei catasti regionali, laddove esistenti, che alimentino il portale nazionale mediante meccanismi di interoperabilita' tra i sistemi, per assicurare un celere e compiuto afflusso per via telematica dei dati presenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel catasto degli attestati di prestazione energetica di cui all'articolo 6, comma 12, lettera d), ivi comprese le informazioni sugli impianti termici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella banca dati di cui al decreto del Ministro dello sviluppo economico 2 maggio 2018, pubblicato nella Gazzetta Ufficiale del 14 maggio 2018, n. 110, recante "Modalita' di gestione dei flussi informativi alla banca dati istituita presso il Gestore Servizi Energetici GSE S.p.a. relativa agli incentivi nei settori dell'efficienza energetica e della produzione di energia da fonti rinnovabili"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel database "Progetto Patrimonio della PA", ai sensi dell'articolo 2, comma 222, della legge 23 dicembre 2009, n. 191; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel Sistema informativo sulle operazioni degli enti pubblici (SIOPE), relativi alle sole informazioni di spesa per i consumi energetici, di cui all'articolo 28 della legge 27 dicembre 2002, n. 289, e all'articolo 14, commi da 6 a 11, della legge 31 dicembre 2009, n. 196; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel Sistema informatico integrato di cui al decreto-legge 8 luglio 2010, n. 105, convertito, con modificazioni, dalla legge 13 agosto 2010, n. 129, e relativi alle utenze intestate agli utenti privati e alle Pubbliche amministrazioni, previa stipula di un protocollo d'intesa tra l'ENEA e l'Acquirente Unico S.p.A., sentiti l'Autorita' di Regolazione per l'Energia Reti e Ambiente e il Garante per la protezione dei dati personali.
 
 Il portale di cui al comma 1 e' alimentato da ogni altra informazione relativa alla consistenza del parco immobiliare, ai consumi energetici e agli interventi di riqualificazione energetica degli edifici pubblici, gia' in possesso della pubblica amministrazione, nonche' dai dati relativi all'adozione di contratti EPC per gli edifici della pubblica amministrazione stessa, ove disponibili, dei quali tiene apposito registro.
 
@@ -262,13 +853,180 @@ Ai fini dell'esercizio, conduzione, controllo, manutenzione, accertamento e ispe
 
 Le regioni e le province autonome di Trento e di Bolzano provvedono all'attuazione del presente decreto.
 
+2.
+                        
+                            
+                                Le autorita' competenti realizzano, con cadenza periodica, privilegiando accordi tra gli enti locali o anche attraverso altri organismi pubblici o privati di cui sia garantita la qualificazione e l'indipendenza, gli accertamenti e le ispezioni necessarie all'osservanza delle norme relative al contenimento dei consumi di energia nell'esercizio e manutenzione degli impianti di climatizzazione e assicurano che la copertura dei costi avvenga con una equa ripartizione tra tutti gli utenti finali e l'integrazione di questa attivita' nel sistema delle ispezioni degli impianti all'interno degli edifici previsto all'articolo 1, comma 44, della legge 23 agosto 2004, n. 239, cosi' da garantire il minor onere e il minor impatto possibile a carico dei cittadini; tali attivita', le cui metodologie e requisiti degli operatori sono previsti ((dal presente decreto e dai relativi decreti attuativi)), sono svolte secondo principi di imparzialita', trasparenza, pubblicita', omogeneita' territoriale e sono finalizzate a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ridurre il consumo di energia e i livelli di emissioni inquinanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    correggere le situazioni non conformi alle prescrizioni del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rispettare quanto prescritto all'articolo 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    monitorare l'efficacia delle politiche pubbliche.
+
+3.
+                        
+                            
+                                Le regioni e le province autonome di Trento e di Bolzano, allo scopo di facilitare e omogeneizzare territorialmente l'impegno degli enti o organismi preposti agli accertamenti e alle ispezioni sugli edifici e sugli impianti, nonche' per adempiere in modo piu' efficace agli obblighi previsti al comma 2, possono promuovere la realizzazione di programmi informatici per la costituzione dei catasti degli impianti ((termici)) presso le autorita' competenti, senza nuovi o maggiori oneri per gli enti interessati. A tali fini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti di cui all'articolo 7, comma 1, comunicano entro centoventi giorni all'ente competente in materia di controlli sugli impianti termici l'ubicazione e le principali caratteristiche degli impianti di proprieta' o dai medesimi gestiti nonche' le eventuali successive modifiche significative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le societa' di distribuzione dei diversi tipi di combustibile, a uso degli impianti termici, comunicano all'ente competente in materia di controlli sugli impianti termici l'ubicazione e la titolarita' delle utenze da esse rifornite al 31 dicembre di ogni anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ente competente in materia di controlli sugli impianti termici trasmette annualmente alle regioni e alle province autonome i dati di cui alle lettere a) e b) per via informatica, avvalendosi del sistema informativo ((di cui all'articolo 6, comma 12, come modificato secondo le modalita' individuate ai sensi dell'articolo 4, comma 1-quinquies, n. 5)). 
+ 3-bis. le regioni e le province autonome di Trento e di Bolzano in accordo con gli enti locali, predispongono entro il 31 dicembre 2008 un programma di sensibilizzazione e riqualificazione energetica del parco immobiliare territoriale, sviluppando in particolare alcuni dei seguenti aspetti: 
+ a) la realizzazione di campagne di informazione e sensibilizzazione dei cittadini, anche in collaborazione con le imprese distributrici di energia elettrica e gas, in attuazione dei decreti del Ministro delle attivita' produttive 20 luglio 2004 concernenti l'efficienza energetica negli usi finali; 
+ b) l'attivazione di accordi con le parti sociali interessate alla materia; 
+ c) l'applicazione di un sistema di ((attestazione della prestazione energetica degli edifici)) coerente con i principi generali del presente decreto legislativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la realizzazione di diagnosi energetiche a partire dagli edifici presumibilmente a piu' bassa efficienza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la definizione di regole coerenti con i principi generali del presente decreto legislativo per eventuali sistemi di incentivazione locali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la facolta' di promuovere, con istituti di credito, di strumenti di finanziamento agevolato destinati alla realizzazione degli interventi di miglioramento individuati con le diagnosi energetiche nell' attestato di prestazione energetica ((...)). 
+ 3-ter. Ai fini della predisposizione del programma di cui al comma 3-bis, i comuni possono richiedere ai proprietari e agli amministratori degli immobili nel territorio di competenza di fornire gli elementi essenziali, complementari a quelli previsti per il catasto degli impianti di climatizzazione di cui al comma 3, per la costituzione di un sistema informativo relativo agli usi energetici degli edifici. A titolo esemplificativo, tra detti elementi, si segnalano: il volume lordo climatizzato, la superficie utile corrispondente e i relativi consumi di combustibile e di energia elettrica. 
+ 3-quater. Su richiesta delle regioni e dei comuni, le aziende di distribuzione dell'energia rendono disponibili i dati che le predette amministrazioni ritengono utili per i riscontri e le elaborazioni necessarie alla migliore costituzione del sistema informativo di cui al comma 3-ter. 
+ 3-quinquies. I dati di cui ai commi 3, 3-ter e 3-quater possono essere utilizzati dalla pubblica amministrazione esclusivamente ai fini dell'applicazione del presente decreto legislativo.
+
 Per gli impianti che sono dotati di generatori di calore di eta' superiore a quindici anni, le autorita' competenti effettuano, con le stesse modalita' previste al comma 2, ispezioni dell'impianto termico nel suo complesso comprendendo una valutazione del rendimento medio stagionale del generatore e una consulenza su interventi migliorativi che possono essere correlati.
 
 Le regioni e le province autonome di Trento e di Bolzano riferiscono periodicamente alla Conferenza unificata e ai Ministeri delle attivita' produttive, dell'ambiente e della tutela del territorio e delle infrastrutture e dei trasporti, sullo stato di attuazione del presente decreto.
 
 Le regioni, le province autonome di Trento e di Bolzano e gli enti locali considerano, nelle normative e negli strumenti di pianificazione ed urbanistici di competenza, le norme contenute nel presente decreto, ponendo particolare attenzione alle soluzioni tipologiche e tecnologiche volte all'uso razionale dell'energia e all'uso di fonti energetiche rinnovabili, con indicazioni anche in ordine all'orientamento e alla conformazione degli edifici da realizzare per massimizzare lo sfruttamento della radiazione solare e con particolare cura nel non penalizzare, in termini di volume edificabile, le scelte conseguenti.
 
+5-ter.
+                        
+                            
+                                In tale contesto, fermo restando il divieto di aggravamento degli oneri e degli adempimenti amministrativi previsti dal presente decreto in conformita' alla direttiva 2010/31/UE, le regioni e le province autonome possono adottare provvedimenti migliorativi di quelli disposti dal presente decreto, in termini di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    flessibilita' applicativa dei requisiti minimi, anche con l'utilizzo di soluzioni alternative, in relazione a specifiche situazioni di impossibilita' o di elevata onerosita', che comunque garantiscano un equivalente risultato sul bilancio energetico regionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    semplificazioni amministrative in materia di esercizio, manutenzione controllo e ispezione degli impianti termici, soprattutto in relazione all'integrazione dei controlli di efficienza energetica con quelli in tema di qualita' dell'aria.
+
 I provvedimenti di cui al comma 5-ter devono essere compatibili con il Trattato sul funzionamento dell'Unione europea, con la direttiva 2010/31/UE, con il presente decreto legislativo e devono essere notificati alla Commissione europea.
+
+5-quinquies.
+                        
+                            
+                                Le regioni e le province autonome, in conformita' a quanto previsto dai regolamenti di cui ai decreti del Presidente della Repubblica 16 aprile 2013, n. 74, e 16 aprile 2013, n. 75, ((e dai decreti di cui all'articolo 4,)) provvedono inoltre a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    istituire un sistema di riconoscimento degli organismi e dei soggetti cui affidare le attivita' di ispezione sugli impianti termici e di attestazione della prestazione energetica degli edifici, promuovendo programmi per la loro qualificazione, formazione e aggiornamento professionale, tenendo conto dei requisiti previsti dalle norme nazionali e nel rispetto delle norme comunitarie in materia di libera circolazione dei servizi. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avviare programmi di verifica annuale della conformita' dei rapporti di ispezione e degli attestati emessi ((mediante attivita' di accertamento documentale e ispezione in sito, tenendo conto dei criteri di cui all'allegato II della direttiva 2010/31/UE e successive modificazioni;)). 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    avviare programmi di verifica del rispetto dei requisiti definiti con i provvedimenti di cui all'articolo 4, comma 1, e del rispetto delle disposizioni di cui all'articolo 4, comma 1-bis, i cui risultati sono comunicati, a fini statistici, al Ministero dello sviluppo economico.
+
+5-sexies.
+                        
+                            
+                                Le regioni e le province autonome, anche attraverso propri enti o agenzie, collaborano con il Ministero dello sviluppo economico e, per la sola lettera c) anche con il Dipartimento della funzione pubblica della Presidenza del Consiglio dei Ministri, per la definizione congiunta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di metodologie di calcolo della prestazione energetica degli edifici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di metodologie per la determinazione dei requisiti minimi di edifici e impianti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di sistemi di classificazione energetica degli edifici, compresa la definizione del sistema informativo comune di cui all'articolo 6, comma 12, lettera d); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del Piano d'azione destinato ad aumentare il numero di edifici a energia quasi zero, di cui all'articolo 4-bis, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dell'azione di monitoraggio, analisi, valutazione e adeguamento della normativa energetica nazionale e regionale di cui agli articoli 10 e 13.))
 
 ## Art. 10. — Monitoraggio, analisi, valutazione e adeguamento della normativa energetica nazionale e regionale
 
@@ -277,6 +1035,66 @@ I provvedimenti di cui al comma 5-ter devono essere compatibili con il Trattato 
 Il Ministero dello sviluppo economico promuove forme di monitoraggio in collaborazione con le regioni e le province autonome di Trento e di Bolzano, per quanto di rispettiva competenza ed anche avvalendosi di accordi con enti tecnico-scientifici e agenzie, pubblici e privati, nonche' del portale di cui all'articolo 4-quater, al fine di rilevare il grado di attuazione del presente decreto, valutando i risultati conseguiti e proponendo eventuali interventi di adeguamento normativo.
 
 ))
+
+2.
+                        
+                            
+                                In particolare, le regioni e le province autonome di Trento e di Bolzano provvedono alle seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    raccolta e aggiornamento dei dati e delle informazioni relativi agli usi finali dell'energia in edilizia e la loro elaborazione su scala regionale per una conoscenza del patrimonio immobiliare esistente nei suoi livelli prestazionali di riferimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    monitoraggio dell'attuazione della legislazione regionale e nazionale vigente, del raggiungimento degli obiettivi e delle problematiche inerenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazione dell'impatto sugli utenti finali dell'attuazione della legislazione di settore in termini di adempimenti burocratici, oneri posti a loro carico e servizi resi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valutazione dell'impatto del presente decreto e della legislazione di settore sul mercato immobiliare regionale, sulle imprese di costruzione, di materiali e componenti per l'edilizia e su quelle di produzione e di installazione e manutenzione di impianti di climatizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    studio per lo sviluppo e l'evoluzione del quadro legislativo e regolamentare che superi gli ostacoli normativi e di altra natura che impediscono il conseguimento degli obiettivi del presente decreto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    studio di scenari evolutivi in relazione alla domanda e all'offerta di energia del settore civile; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    analisi e valutazione degli aspetti energetici e ambientali dell'intero processo edilizio, con particolare attenzione alle nuove tecnologie e ai processi di produzione, trasporto, smaltimento e demolizione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    proposta di provvedimenti e misure necessarie a uno sviluppo organico della normativa energetica nazionale per l'uso efficiente dell'energia nel settore civile.
 
 ((COMMA ABROGATO DAL D.LGS. 10 GIUGNO 2020, N. 48)).
 
@@ -296,6 +1114,38 @@ Il Ministero dello sviluppo economico promuove forme di monitoraggio in collabor
 ## Art. 13. — Misure di accompagnamento
 
 Il Ministero delle attivita' produttive, predispone programmi, progetti e strumenti di informazione, educazione e formazione al risparmio energetico.
+
+2.
+                        
+                            
+                                I programmi e i progetti di cui sopra privilegiano le sinergie di competenza e di risorse dei pertinenti settori delle amministrazioni regionali e possono essere realizzati anche avvalendosi di accordi con enti tecnico scientifici e agenzie, pubblici e privati. Gli stessi programmi e progetti hanno come obiettivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la piena attuazione del presente decreto attraverso nuove e incisive forme di comunicazione rivolte ai cittadini, e agli operatori del settore tecnico e del mercato immobiliare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sensibilizzazione degli utenti finali e della scuola con particolare attenzione alla presa di coscienza che porti a modifiche dei comportamenti dei cittadini anche attraverso la diffusione di indicatori che esprimono l'impatto energetico e ambientale a livello individuale e collettivo. Tra questi indicatori, per immediatezza ed elevato contenuto comunicativo, si segnala l'impronta ecologica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'aggiornamento del circuito professionale e la formazione di nuovi operatori per lo sviluppo e la qualificazione di servizi, anche innovativi, nelle diverse fasi del processo edilizio con particolare attenzione all'efficienza energetica e alla installazione e manutenzione degli impianti di climatizzazione e illuminazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la formazione di esperti qualificati e indipendenti a cui affidare il sistema degli accertamenti e delle ispezioni edili ed impiantistiche.
 
 ((COMMA ABROGATO DAL D.LGS. 10 GIUGNO 2020, N. 48)).
 
@@ -339,8 +1189,30 @@ In caso di violazione dell'obbligo di riportare i parametri energetici nell'annu
 
 ## Art. 16. — Abrogazioni e disposizioni finali
 
+1.
+                        
+                            
+                                Sono abrogate le seguenti norme della legge 9 gennaio 1991, n. 10: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 4, commi 1, 2 e 4; l'articolo 28, commi 3 e 4; l'articolo 29; l'articolo 30; l'articolo 31, comma 2, l'articolo 33, commi 1 e 2; l'articolo 34, comma 3.
+
 Il comma 2 dell'articolo 26 della legge 9 gennaio 1991, n. 10, e' sostituito dal seguente: 
  "2. Per gli interventi sugli edifici e sugli impianti volti al contenimento del consumo energetico ed all'utilizzazione delle fonti di energia di cui all'articolo 1, individuati attraverso un ((attestato di prestazione energetica)) o una diagnosi energetica realizzata da un tecnico abilitato, le pertinenti decisioni condominiali sono valide se adottate con la maggioranza semplice delle quote millesimali.".
+
+2.
+                        
+                            
+                                Il decreto del Presidente della Repubblica 26 agosto 1993, n. 412, si applica, in quanto compatibile con il presente decreto legislativo, e puo' essere modificato o abrogato con i decreti di cui all'articolo 4. Di tale decreto sono abrogate le seguenti norme: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 5, commi 1, 2, 3 e 4; l'articolo 7, comma 7; l'articolo 8; l'articolo 11, commi 4, 12, 14, 15, 16, 18, 19, 20.
 
 E' abrogato l'articolo 1 del decreto del Ministro dell'industria commercio e artigianato in data 6 agosto 1994, pubblicato nella Gazzetta Ufficiale n. 197 del 24 agosto 1994, recante recepimento delle norme UNI attuative del decreto del Presidente della Repubblica del 26 agosto 1993, n. 412, recante il regolamento per il contenimento dei consumi di energia degli impianti termici degli edifici, e rettifica del valore limite del fabbisogno energetico normalizzato.
 

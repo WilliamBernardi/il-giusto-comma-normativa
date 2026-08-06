@@ -8,8 +8,8 @@ codice_redazionale: 096G0358
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -105,7 +105,57 @@ Il bando di concorso deve contenere il termine e le modalita' di presentazione d
 
 ## Art. 2. — Requisiti per l'ammissione
 
+1.
+                    
+                        
+                            Sono ammessi a partecipare al concorso:
+ 
+                        
+                        
+                            a)
+                            
+                                i segretari comunali con almeno sei anni di servizio che abbiano riportato, nell'ultimo quinquennio, per tre anni il giudizio complessivo di ottimo e per gli altri due anni almeno quello di distinto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i vicesegretari comunali e provinciali con almeno sei anni di anzianita' nella qualifica dirigenziale, che nella pianta organica dell'ente locale occupino il corrispondente posto a seguito di apposito concorso e che non abbiano riportato nell'ultimo quinquennio valutazioni negative da parte dei competenti organi di valutazione.
+
 Il personale di cui al comma 1 del presente articolo deve essere in possesso di uno dei diplomi di laurea di cui all'art. 1 del decreto del Presidente della Repubblica 23 giugno 1972, n. 749, o diplomi equipollenti.
+
+3.
+                    
+                        
+                            I vice segretari sono tenuti a produrre:
+ 
+                        
+                        
+                            a)
+                            
+                                un attestato di servizio dell'amministrazione locale di appartenenza dal quale risulti l'attuale posizione di ruolo e la data di decorrenza dalla nomina al posto con la qualifica di vicesegretario nonche' eventuali interruzioni della carriera durante tale periodo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autenticata della delibera comunale di nomina al posto di vicesegretario a seguito di concorso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copia autenticata dello statuto e del regolamento organico dell'ente nella parte in cui prevedono la figura del vicesegretario e il relativo posto in organico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un attestato dell'amministrazione locale di appartenenza dal quale risulti che il servizio prestato negli ultimi cinque anni non ha dato luogo a valutazioni negative.
 
 ## Art. 3. — Presentazione delle domande di ammissione
 
@@ -118,6 +168,66 @@ Il bando di concorso determina le modalita' e i termini di presentazione o di sp
 Le domande di partecipazione devono essere corredate dalla quietanza originale attestante il versamento della tassa di concorso di L. 50.000 da effettuarsi a mezzo bollettino di c/c postale n. 10502011, cosi' intestato: "Tesoreria provinciale dello Stato di Viterbo, tassa di concorso segretari comunali", con espressa indicazione, quale causale del versamento, della seguente dicitura: "Tassa di ammissione al concorso per l'idoneita' a partecipare a concorsi per singole sedi di segreteria generale di seconda classe".
 
 ## Art. 4. — Prove scritte e orali
+
+1.
+                    
+                        
+                            Gli esami si articolano in due prove scritte e in una prova orale, sulle seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                diritto amministrativo, con particolare riferimento all'attivita' degli enti locali:
+ 1) organi comunali e provinciali (elezione, funzionamento e competenze);
+ 2) regime dei controlli sugli atti e sugli organi;
+ 3) servizi pubblici locali e aziende speciali e servizi di competenza statale;
+ 4) forme associative e di cooperazione fra enti locali;
+ 5) pianificazione urbanistica e gestione del territorio;
+ 6) disciplina dei lavori pubblici e delle procedure di gara e attivita' contrattuale;
+ 7) stato giuridico ed economico dei dirigenti e del restante personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diritto costituzionale, con particolare riferimento all'ordinamento regionale e degli enti locali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                diritto tributario, con particolare riferimento al sistema tributario degli enti locali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                elementi di diritto civile;
+
+                            
+                        
+                        
+                            e)
+                            
+                                elementi di diritto penale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ragioneria applicata agli enti locali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ordinamento finanziario e contabile degli enti locali.
 
 Le prove scritte consistono nella soluzione in tempo predeterminato di una serie di quesiti a risposte sintetiche e a contenuto teorico-pratico vertenti nelle materie indicate al comma 1.
 

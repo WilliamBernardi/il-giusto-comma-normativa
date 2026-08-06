@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-06-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -2793,6 +2793,30 @@ A decorrere dal 1° gennaio 2004, al personale che presta servizio in un giorno 
 
 ## Art. 7. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento civile il Fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, ed all'articolo 3 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, e' incrementato delle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2004:
+ 1) Polizia di Stato: euro 9.311.000,00;
+ 2) Corpo di polizia penitenziaria: euro 3.846.000,00;
+ 3) Corpo forestale dello Stato: euro 699.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2005:
+ 1) Polizia di Stato: euro 15.647.000,00;
+ 2) Corpo di polizia penitenziaria: euro 6.341.000,00;
+ 3) Corpo forestale dello Stato: euro 1.084.000,00.
+
 Gli importi di cui al comma 1 non comprendono l'IRAP e gli oneri contributivi a carico dello Stato. Quelli afferenti all'anno 2004 non hanno effetto di trascinamento nell'anno successivo.
 
 Le risorse assegnate e non utilizzate nell'esercizio di competenza sono riassegnate, per le medesime esigenze, nell'anno successivo.
@@ -5511,6 +5535,28 @@ A decorrere dal 1° gennaio 2004, al personale che presta servizio in un giorno 
  b) che presta servizio in un giorno festivo, l'indennita' di cui all'articolo 13 del decreto del Presidente della Repubblica 5 novembre 2004, n. 301, e' rideterminata nella misura giornaliera di euro 14,00".
 
 ## Art. 14. — Efficienza dei servizi istituzionali
+
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento militare il Fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 53 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, ed all'articolo 8 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, e' incrementato delle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2004:
+ 1) Arma dei carabinieri: euro 10.539.000,00;
+ 2) Corpo della Guardia di finanza: euro 5.906.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2005:
+ 1) Arma dei carabinieri: euro 17.832.000,00;
+ 2) Corpo della Guardia di finanza: euro 9.615.000,00.
 
 Gli importi di cui al comma 1 non comprendono l'IRAP e gli oneri contributivi a carico dello Stato. Quelli afferenti all'anno 2004 non hanno effetto di trascinamento nell'anno successivo.
 

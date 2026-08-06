@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2013-01-08;16
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,24 @@ Il presente regolamento disciplina l'istituzione e la gestione della Sezione del
 E' istituita, nel Registro dei revisori legali, ai sensi dell'articolo 8, comma 2 del decreto legislativo 27 gennaio 2010, n. 39, la sezione denominata «Sezione dei revisori inattivi», d'ora in poi denominata «Sezione inattivi».
 
 ## Art. 3. — Iscrizione nella Sezione inattivi
+
+1.
+                        
+                            
+                                Sono iscritti d'ufficio nella Sezione inattivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti iscritti nel registro dei revisori legali che non hanno assunto incarichi di revisione legale per tre anni consecutivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soggetti iscritti nel registro dei revisori legali che non hanno collaborato ad un'attivita' di revisione legale in una societa' di revisione legale di cui all'articolo 1 - comma 1, lettera q) del decreto legislativo 27 gennaio 2010, n. 39, per tre anni consecutivi.
 
 Sono altresi' iscritti nella Sezione inattivi i soggetti iscritti che ne fanno richiesta al Ministero dell'economia e delle finanze, anche prima del decorrere dei tre anni previsti dal comma 1 per l'iscrizione d'ufficio, sentito il parere della Commissione istituita ai sensi dell'articolo 42, comma 2, del decreto legislativo 27 gennaio 2010, n. 39, previa presentazione di una dichiarazione nella quale il revisore attesti di non avere in corso incarichi di revisione legale o attivita' di cui al precedente comma 1 lettera b).
 Il Ministero dell'economia e delle finanze, acquisito il parere della Commissione, dispone l'accoglimento o il rigetto dell'istanza, entro 90 giorni dal ricevimento della stessa.
@@ -80,6 +98,38 @@ Se il revisore non ha assunto un incarico di revisione legale entro due anni dal
 ## Art. 8. — Obblighi del revisore iscritto nella Sezione inattivi
 
 Il revisore iscritto nella Sezione inattivi e' tenuto al versamento del contributo annuale di cui all'articolo 21, comma 8, del decreto legislativo 27 gennaio 2010, n. 39.
+
+2.
+                        
+                            
+                                Gli iscritti nella Sezione inattivi del Registro dei revisori legali non sono assoggettati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli obblighi della formazione continua, di cui all'articolo 5 del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al controllo della qualita', di cui all'articolo 20 del decreto legislativo 27 gennaio 2010, n. 39; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al pagamento del contributo finalizzato alla copertura dei costi relativi alla formazione, salvo quanto previsto dall'articolo 6, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al pagamento del contributo finalizzato alla copertura dei costi relativi al controllo qualita'.
 
 ## - Capo III Disposizioni transitorie e finali
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2013-09-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,11 +30,128 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro della sa
 
 Il presente decreto stabilisce le norme minime da rispettare per assicurare la protezione delle galline ovaiole.
 
+2.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                proprietario o detentore: qualsiasi persona fisica o giuridica che, anche temporaneamente, e' responsabile o si occupa degli animali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                autorita' competente: il Ministero della salute e quali autorita' sanitarie territorialmente competenti: le regioni, le province autonome e le Aziende sanitarie locali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                galline ovaiole: le galline della specie Gallus gallus, mature per la deposizione di uova, allevate ai fini della produzione di uova non destinate alla cova;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nido: uno spazio separato, i cui componenti escludono per il pavimento qualsiasi utilizzo di rete metallica o plastificata che possa entrare in contatto con i volatili, previsto per la deposizione delle uova di una singola gallina o di un gruppo di galline, cosi' detto nido di gruppo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                lettiera: il materiale allo stato friabile che permette alle ovaiole di soddisfare le loro esigenze etologiche;
+
+                            
+                        
+                        
+                            f)
+                            
+                                gabbia: uno spazio chiuso destinato ad ospitare le galline ovaiole in un sistema a batteria;
+
+                            
+                        
+                        
+                            g)
+                            
+                                sistema a batteria: un insieme di gabbie disposte in fila su un unico piano o incastellate;
+
+                            
+                        
+                        
+                            h)
+                            
+                                zona utilizzabile: una zona avente una larghezza minima di 30 cm, una pendenza massima del 14 per cento sovrastata da uno spazio libero avente un'altezza minima di 45 cm. Gli spazi destinati a nido non fanno parte della zona utilizzabile;
+
+                            
+                        
+                        
+                            i)
+                            
+                                unita' produttiva: un capannone dove vengono allevate in tutto o in parte le galline ovaiole;
+
+                            
+                        
+                        
+                            l)
+                            
+                                allevamento: insieme di una o piu' unita' produttive situate nella stessa area.
+
 Il presente decreto non si applica agli stabilimenti con meno di 350 galline ovaiole e a quelli di allevamento di galline ovaiole riproduttrici, nei confronti dei quali trovano comunque applicazione le prescrizioni di cui al decreto legislativo 26 marzo 2001, n. 146.
 
 ## Art. 2. — Obblighi del proprietario o del detentore di galline ovaiole
 
+1.
+                    
+                        
+                            Ferme restando le disposizioni di cui al decreto legislativo 26 marzo 2001, n. 146, il proprietario o il detentore deve rispettare le disposizioni di cui all'allegato A al presente decreto, nonche', a decorrere dalle date in essi indicate, quelle di cui:
+ 
+                        
+                        
+                            a)
+                            
+                                all'allegato B, nel caso di utilizzo di sistemi alternativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'allegato C, nel caso di utilizzo di gabbie non modificate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'allegato D, nel caso di utilizzo di gabbie modificate.
+
 ## Art. 3. — D i v i e t i
+
+1.
+                    
+                        
+                            A decorrere:
+ 
+                        
+                        
+                            a)
+                            
+                                dalla data di entrata in vigore del presente decreto, e' vietato costruire o mettere in funzione per la prima volta le gabbie di cui al punto 1 dell'allegato C;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 1° gennaio 2012, e' vietato utilizzare nell'allevamento le gabbie di cui al numero 1 dell'allegato C.
 
 ## Art. 3-bis. — (( (Adeguamento degli impianti) ))
 
@@ -62,7 +179,50 @@ Le spese derivanti dalle procedure connesse alle attivita' di cui al presente ar
 
 ## Art. 5. — Attivita' ispettiva
 
+1.
+                    
+                        
+                            Le autorita' sanitarie territorialmente competenti:
+ 
+                        
+                        
+                            a)
+                            
+                                procedono ad ispezioni per la verifica del rispetto delle disposizioni del presente decreto, da effettuare anche in occasione di altri controlli e mantengono la documentazione dei risultati delle singole ispezioni effettuate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'atto del controllo indicano, nel verbale di accertamento, le carenze riscontrate e le conseguenti prescrizioni con i relativi tempi di adeguamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                trasmettono al Ministero della salute, per il tramite degli assessorati regionali competenti, una relazione sulle ispezioni di cui alla lettera a), al fine della predisposizione e presentazione alla Commissione europea di una relazione complessiva sulle ispezioni effettuate sul territorio nazionale.
+
 ## Art. 6. — Controlli comunitari
+
+1.
+                    
+                        
+                            Gli esperti veterinari della Commissione europea e del Ministero della salute, anche al fine di garantire l'applicazione uniforme sul territorio nazionale, possono procedere a controlli per:
+ 
+                        
+                        
+                            a)
+                            
+                                verificare che siano rispettati i requisiti stabiliti dal presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accertare che le ispezioni di cui all'articolo 5 siano effettuate secondo le modalita' stabilite in sede nazionale e comunitaria.
 
 Le autorita' sanitarie territorialmente competenti forniscono l'assistenza necessaria agli esperti veterinari della Commissione europea nell'espletamento dell'incarico di cui al comma 1 e vigilano sull'applicazione delle misure conseguenti agli esiti dei controlli effettuati ai sensi del presente articolo.
 

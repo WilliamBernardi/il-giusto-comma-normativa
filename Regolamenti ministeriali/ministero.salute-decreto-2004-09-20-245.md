@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-01-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,70 @@ L'Agenzia, nell'attuare i compiti e le funzioni previsti dall'articolo 48, commi
 
 L'Agenzia e' sottoposta alle attivita' di indirizzo del Ministro della salute.
 
+2.
+                        
+                            
+                                Il Ministro della salute, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nomina ((, con proprio decreto,)) gli organi dell'Agenzia secondo quanto previsto dal comma 4, lettere ((...)), b), c) dell'articolo 48 della legge di riferimento ((nonche' del decreto-legge n. 169 del 2022)) e ne stabilisce, di concerto con il Ministro dell'economia e delle finanze, i relativi compensi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definisce gli indirizzi e le priorita' dell'Agenzia, mediante apposite direttive generali contenenti l'indicazione degli obiettivi da raggiungere e le eventuali attivita' specifiche da intraprendere, trasmettendoli alla ((Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisisce il programma annuale di attivita' e di interventi dell'Agenzia e lo trasmette con le proprie considerazioni alla ((Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano,)) ai sensi dell'articolo 48, comma 5, lettera h) della legge di riferimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    acquisisce ((dal Presidente)), dopo l'approvazione del Consiglio di amministrazione, i periodici rapporti informativi predisposti ((dal Direttore amministrativo, in raccordo con il Direttore tecnico-scientifico,)) ai sensi del comma 5, lettera i) dell'articolo 48 della legge di riferimento e li trasmette alle competenti Commissioni parlamentari.
+
+3.
+                        
+                            
+                                Ai sensi dell'articolo 8, comma 4, lettera e) del decreto legislativo 30 luglio 1999, n. 300 e dell'articolo 48 della legge di riferimento, il Ministro della salute stipula con l'Agenzia la convenzione di durata triennale, che puo' essere aggiornata annualmente, ove, in particolare, sono definiti gli obiettivi ((...)) per le tematiche di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garanzie del mantenimento dell'unitarieta' del sistema farmaceutico per assicurare l'accesso ai farmaci innovativi, ai farmaci per le malattie rare e ((favorire)) la ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interventi per assicurare l'impiego sicuro ed appropriato dei farmaci; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rafforzamento dei rapporti con le Agenzie degli altri Paesi e con l'EMEA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    realizzazione di programmi di farmacovigilanza attiva, di attivita' di informazione indipendente e di ricerche comparative sui farmaci atti a dimostrare il valore terapeutico aggiuntivo.
+
 ## - Titolo II COSTITUZIONE E FUNZIONAMENTO DEGLI ORGANI
 
 ## Art. 5. — Organi
@@ -68,11 +132,174 @@ Il Consiglio di amministrazione adotta, ((su proposta del Direttore tecnico-scie
 
 Al fine di garantire la massima funzionalita' dell'Agenzia in relazione alla rilevanza e complessita' delle competenze alla medesima ((attribuite)), il Consiglio di amministrazione, ((su proposta del Direttore amministrativo, sentito il Direttore tecnico-scientifico)), puo' modificare l'assetto organizzativo dell'((Agenzia,)) nel rispetto delle modalita' procedimentali richiamate dal successivo articolo 22, comma 3.
 
+3.
+                        
+                            
+                                Il Consiglio di amministrazione, inoltre, ((su proposta del Direttore competente ai sensi degli articoli 10 e 10-bis)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((approva)) il bilancio preventivo e consuntivo e il programma triennale ed annuale di attivita' dell'Agenzia e li trasmette al Ministro della salute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((adotta)) i regolamenti interni dell'Agenzia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delibera la dotazione organica complessiva e il numero degli uffici dirigenziali di livello non generale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    approva i periodici rapporti informativi ((...)) ai sensi dell'articolo 48, comma 5 ((lettera i),)), della legge di riferimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verifica che i contratti e le convenzioni siano stipulati secondo gli indirizzi strategici impartiti dal Consiglio medesimo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    provvede alla ripartizione del Fondo di cui all'articolo 48, comma 19, della legge di riferimento, adottando le opportune direttive per il suo utilizzo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    istituisce il Centro di informazione indipendente sul farmaco di cui al citato articolo 48, comma 19, della legge di riferimento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL DECRETO 8 GENNAIO 2024, N. 3)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    approva ((l'elenco)) degli esperti dell'Agenzia con comprovata competenza tecnico-scientifica e sanitaria con i relativi compensi, nel limite massimo di venti unita' ((, da aggiornare periodicamente e comunque ogni due anni)). Per assicurare le attivita' di consulenza per l'Agenzia, per le funzioni istruttorie nell'ambito delle sottocommissioni, dei gruppi di lavoro e degli altri organismi, anche a livello europeo, puo' avvalersi, nei limiti delle risorse disponibili, di consulenti, ai quali e' corrisposta una indennita' di presenza; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    propone al Ministro della salute la variazione delle tariffe per l'autorizzazione all'immissione in commercio dei medicinali.
+
+4.
+                        
+                            
+                                Il Consiglio di amministrazione delibera inoltre su: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la verifica della corrispondenza delle attivita' dell'Agenzia rispetto agli indirizzi, agli obiettivi, alle priorita' ed alle direttive del Ministro della salute e rispetto agli obblighi assunti con la convenzione di cui all'articolo 4, comma 3, del presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la nomina dei componenti dell'Osservatorio per il monitoraggio delle politiche regionali e per il supporto alle singole regioni di cui all'articolo 18 del presente regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((il compenso dei membri della Commissione di cui all'articolo 19 del presente regolamento, nel rispetto delle disposizioni di cui al decreto del Presidente del Consiglio dei Ministri 23 agosto 2022, n. 143.))
+
 Con provvedimento del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, ((e')) stabilito il compenso da corrispondere al presidente e ai componenti del Consiglio di amministrazione ((, tenuto conto di quanto stabilito dalle disposizioni di cui al decreto del Presidente del Consiglio dei Ministri 23 agosto 2022, n. 143.)).
 
 ## Art. 7. — (( (Presidente del Consiglio di amministrazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Il Presidente ha la rappresentanza legale dell'Agenzia, ai sensi dell'articolo 3, comma 1-bis del decreto-legge n. 169 del 2022, e cura l'espletamento dei compiti e l'esercizio delle funzioni di cui all'articolo 48, comma 3, della legge di riferimento. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    convoca e presiede il Consiglio di amministrazione, stabilendone l'ordine del giorno a seguito delle proposte dei Direttori di cui agli articoli 10 e 10-bis; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sovrintende, anche tenuto conto degli indirizzi del Ministro della salute di cui all'articolo 4, comma 2, lettera b), al complesso delle attivita' dell'Agenzia, alle Aree e agli Uffici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura, sulla base degli indirizzi del Consiglio di amministrazione, i rapporti con gli Istituti di ricerca pubblici e privati, le societa' scientifiche, le associazioni industriali e le associazioni dei consumatori e dei pazienti e con le organizzazioni e organismi internazionali, ivi comprese le agenzie degli altri Paesi, e con l'EMA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    stipula la convenzione di cui all'articolo 4, comma 3; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sottopone al Consiglio di amministrazione il bilancio preventivo e consuntivo, predisposto dal Direttore amministrativo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    in caso di urgenza qualificata, tale da non consentire l'immediata convocazione del Consiglio di amministrazione, adotta provvedimenti di competenza di quest'ultimo, da sottoporre a ratifica nella prima riunione successiva; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    trasmette al Ministro della salute, dopo l'approvazione del Consiglio di amministrazione, i periodici rapporti informativi di cui all'articolo 4, comma 2, lettera d); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    esercita ogni altra funzione attribuitagli dalla legge e dal presente regolamento.
 
 Ai fini dell'attuazione delle disposizioni di cui al presente articolo, il Presidente sottopone, su proposta dei responsabili delle direzioni di cui agli articoli 10 e 10-bis, al Consiglio di amministrazione, le deliberazioni relative ai programmi annuali e triennali dell'attivita' dell'Agenzia.
 
@@ -136,6 +363,73 @@ In materia di inconferibilita' e incompatibilita' di incarichi, si applicano in 
 
 L'incarico di Direttore amministrativo e' conferito, nel rispetto delle disposizioni vigenti, con decreto del Ministro della salute, sentiti il Ministro dell'economia e delle finanze e la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, a persona in possesso di diploma di laurea magistrale o specialistica, ovvero di laurea conseguita in base al previgente ordinamento, in materia giuridica od economica, o titoli equipollenti od equiparati, secondo le disposizioni vigenti in materia nonche' di requisiti di comprovata professionalita' ed esperienza gestionale e organizzativa. Nel contratto del Direttore amministrativo, stipulato con il Ministro della salute, sono definiti gli obiettivi connessi all'incarico.
 
+2.
+                        
+                            
+                                Il Direttore amministrativo svolge e dirige le attivita' di competenza avvalendosi delle Aree e degli Uffici, assumendone la diretta responsabilita'. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predispone e trasmette al Presidente, per la deliberazione da parte del Consiglio di amministrazione: 
+ 1) lo schema di bilancio preventivo e consuntivo, nonche' i programmi triennali e annuali di attivita' dell'Agenzia accompagnati dai rispettivi documenti di bilancio previsionale e di rendicontazione; 
+ 2) gli schemi di regolamenti interni necessari per assicurare il funzionamento dell'Agenzia; 
+ 3) la dotazione organica complessiva e la ripartizione tra le aree funzionali delle relative risorse umane, materiali ed economico-finanziarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stipula i contratti e le convenzioni secondo gli indirizzi strategici impartiti dal Consiglio di amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fissa, sentito il Direttore tecnico-scientifico per i profili di competenza, gli obiettivi delle aree funzionali e degli uffici dirigenziali, ne stabilisce i livelli di responsabilita' ed attua le modalita' di incentivazione economica per il conseguimento degli obiettivi e dei risultati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attua la ripartizione tra gli uffici di direzione generale delle relative risorse umane, materiali ed economico-finanziarie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adotta gli atti ed i provvedimenti amministrativi e gli atti di gestione necessari per il conseguimento degli obiettivi dell'Agenzia ed esercita i relativi poteri di spesa, con possibilita' di specifica delega ai dirigenti delle aree funzionali e degli uffici dirigenziali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    cura gli affari legali e il contenzioso, nonche' le attivita' inerenti alla qualita' delle procedure, le funzioni di segreteria degli organismi collegiali operanti presso l'Agenzia, nonche' le attivita' relative ai sistemi informativi dell'Agenzia.
+
+2-bis.
+                        
+                            
+                                Il Direttore amministrativo, in raccordo con il Direttore tecnico-scientifico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predispone lo schema di convenzione di cui al precedente articolo 4, comma 3, del presente regolamento e la sottopone al Presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone i periodici rapporti informativi di cui all'articolo 4, comma 2, lettera d), del presente regolamento, per l'approvazione da parte del Consiglio di amministrazione ai fini della successiva trasmissione al Ministro della salute.
+
 Il trattamento giuridico ed economico del Direttore amministrativo e' disciplinato con un contratto di lavoro di diritto privato stipulato con il Ministro della salute. Esso ha una durata di cinque anni ed e' rinnovabile.
 
 ))
@@ -145,6 +439,31 @@ Il trattamento giuridico ed economico del Direttore amministrativo e' disciplina
 ((
 
 L'incarico di Direttore tecnico-scientifico e' conferito, nel rispetto delle disposizioni vigenti, con decreto del Ministro della salute, sentiti il Ministro dell'economia e delle finanze e la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, a persona in possesso di diploma di laurea magistrale o specialistica, ovvero di laurea conseguita in base al previgente ordinamento, in discipline sanitarie o titoli equipollenti od equiparati, secondo le disposizioni vigenti in materia nonche' di requisiti di comprovata professionalita' ed esperienza sul piano tecnico-scientifico nel settore dei farmaci. Nel contratto del Direttore tecnico-scientifico, stipulato con il Ministro della salute, sono definiti gli obiettivi connessi all'incarico.
+
+2.
+                        
+                            
+                                Il Direttore tecnico-scientifico svolge e dirige l'attivita' tecnico-scientifica dell'Agenzia avvalendosi delle Aree e degli Uffici. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attua le misure idonee ad assicurare le funzioni di cui all'articolo 48, comma 5, lettere a), b), g), h), i) ed l), del decreto-legge 30 settembre 2003, n. 269, convertito dalla legge 24 novembre 2003, n. 326; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formula proposte ai fini della predisposizione dell'elenco di cui all'articolo 6, comma 3, lettera i), del presente regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura il coordinamento con le attivita' dell'EMA.
 
 Il Direttore tecnico-scientifico cura, altresi', in raccordo con il Direttore amministrativo, le attivita' di cui all'articolo 10, comma 2-bis, del presente regolamento.
 
@@ -219,6 +538,24 @@ Il compenso spettante al Commissario straordinario e' determinato ((con)) decret
 ## Art. 17. — (( (Assetto organizzativo).))
 
 ((
+
+1.
+                        
+                            
+                                L'Agenzia si articola in due strutture di livello dirigenziale generale che ne assicurano la gestione amministrativa e tecnico-scientifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione amministrativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione tecnico-scientifica.
 
 La Direzione generale di cui al comma 1, lettera a), fatte salve le funzioni di supporto al Presidente e al Consiglio di amministrazione, svolge le funzioni di cui all'articolo 10.
 
@@ -296,6 +633,38 @@ Le variazioni del ruolo organico di cui al precedente comma 3 ed i regolamenti d
 Per l'approvazione degli atti di programmazione dei bilanci si applicano le disposizioni del decreto del Presidente della Repubblica 9 novembre 1998, n. 439.
 
 ## Art. 23. — Amministrazione e contabilita'
+
+1.
+                        
+                            
+                                L'Agenzia provvede autonomamente alla gestione delle entrate previste per l'attuazione dei propri fini istituzionali, costituite:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal finanziamento annualmente erogato ai sensi dell'articolo 11, comma 3, lettera d) della legge 5 agosto 1978, n. 468, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal 20 per cento dei proventi derivanti dalle tariffe di cui all'articolo 5, comma 12, della legge 29 dicembre 1990, n. 407, e successive modificazioni, per il settore relativo ai farmaci;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dai corrispettivi per servizi di consulenze, collaborazione, assistenza e ricerca prestati a soggetti pubblici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da altri proventi patrimoniali e di gestione.
 
 L'Agenzia provvede, inoltre, alla gestione del Fondo di cui all'articolo 48, comma 18, della legge di riferimento.
 

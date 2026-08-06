@@ -8,8 +8,8 @@ codice_redazionale: 007G0184
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -87,7 +87,43 @@ L'articolo 18, del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguen
  Se il fallimento e' revocato, restano salvi gli effetti degli atti legalmente compiuti dagli organi della procedura.
  Le spese della procedura ed il compenso al curatore sono liquidati dal tribunale, su relazione del giudice delegato, con decreto reclamabile ai sensi dell'articolo 26.».
 
+8.
+                    
+                        
+                            All'articolo 19 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma, le parole «l'appello» sono sostituite dalle parole «il reclamo» e le parole «il collegio» sono sostituite dalle parole «la corte d'appello»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo comma e' abrogato.
+
 L'articolo 20 del regio decreto 16 marzo 1942, n. 267 e' abrogato.
+
+10.
+                    
+                        
+                            All'articolo 22 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nei commi secondo, terzo, quarto e quinto, le parole «Corte di appello» e «Corte d'appello» sono sostituite dalle seguenti: «corte d'appello»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel secondo comma, le parole «quindici giorni» sono sostituite dalle seguenti: «trenta giorni».
 
 ## Art. 3. — Modifiche al Titolo II, Capo II, del regio decreto 16 marzo 1942, n. 267
 
@@ -119,14 +155,171 @@ All'articolo 28 del regio decreto 16 marzo 1942, n. 267, il secondo comma e' abr
 
 All'articolo 32, primo comma, del regio decreto 16 marzo 1942, n. 267, le parole «giudice delegato» sono sostituite dalle seguenti: «comitato dei creditori, con esclusione degli adempimenti di cui agli articoli 89, 92, 95, 97 e 104-ter.».
 
+6.
+                    
+                        
+                            All'articolo 33, del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nella rubrica dopo le parole: «Relazione al giudice» sono aggiunte: «e rapporti riepilogativi.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel primo comma le parole «dell'istruttoria penale» sono sostituite con «delle indagini preliminari in sede penale.».
+
+7.
+                    
+                        
+                            All'articolo 34 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel primo comma, dopo le parole «scelti dal curatore.» e' aggiunta la seguente frase: «Su proposta del curatore il comitato dei creditori puo' autorizzare che le somme riscosse vengano in tutto o in parte investite con strumenti diversi dal deposito in conto corrente, purche' sia garantita l'integrita' del capitale»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il terzo comma e' abrogato.
+
+8.
+                    
+                        
+                            All'articolo 35 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il primo comma e' inserito il seguente: «Nel richiedere l'autorizzazione del comitato dei creditori, il curatore formula le proprie conclusioni anche sulla convenienza della proposta.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo comma, le parole «approvati dal medesimo ai sensi dell'articolo 104-ter» sono sostituite dalla seguente: «autorizzati dal medesimo ai sensi dell'articolo 104-ter comma ottavo».
+
+9.
+                    
+                        
+                            All'articolo 37-bis del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il primo comma, e' sostituito dal seguente: «Conclusa l'adunanza per l'esame dello stato passivo e prima della dichiarazione di esecutivita' dello stesso, i creditori presenti, personalmente o per delega, che rappresentano la maggioranza dei crediti ammessi, possono effettuare nuove designazioni in ordine ai componenti del comitato dei creditori nel rispetto dei criteri di cui all'articolo 40; possono chiedere la sostituzione del curatore indicando al tribunale le ragioni della richiesta e un nuovo nominativo. Il tribunale, valutate le ragioni della richiesta di sostituzione del curatore, provvede alla nomina dei soggetti designati dai creditori salvo che non siano rispettati i criteri di cui agli articoli 28 e 40»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel terzo comma, le parole «allo stato» sono soppresse.
+
+10.
+                    
+                        
+                            All'articolo 41 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al quarto comma, dopo le parole «In caso di inerzia, di impossibilita» sono inserite le seguenti: «di costituzione per insufficienza di numero o indisponibilita' dei creditori, o»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il settimo comma e' sostituito dai seguenti:
+ «Ai componenti del comitato dei creditori si applica, in quanto compatibile, l'articolo 2407, primo e terzo comma, del codice civile.
+ L'azione di responsabilita' puo' essere proposta dal curatore durante lo svolgimento della procedura. Con il decreto di autorizzazione il giudice delegato sostituisce i componenti del comitato dei creditori nei confronti dei quali ha autorizzato l'azione.».
+
 ## Art. 4. — Modifiche al Titolo II, Capo III, del regio decreto 16 marzo 1942, n. 267
+
+1.
+                    
+                        
+                            All'articolo 48 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel primo comma, le parole da «L'imprenditore» a «sono tenuti» sono sostituite dalle seguenti: «Il fallito persona fisica e' tenuto»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il primo comma e' aggiunto il seguente:
+ «La corrispondenza diretta al fallito che non sia persona fisica e' consegnata al curatore.».
 
 All'articolo 52 del regio decreto 16 marzo 1942, n. 267, dopo il secondo comma e' inserito il seguente:
  «Le disposizioni del secondo comma si applicano anche ai crediti esentati dal divieto di cui all'articolo 51.».
 
 All'articolo 53, secondo comma, del regio decreto 16 marzo 1942, n. 267, le parole da «disponendo» fino a «relative», sono sostituite dalle seguenti: «determinandone le modalita' a norma dell'articolo 107».
 
+4.
+                    
+                        
+                            All'articolo 67 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera c) del terzo comma e' sostituita dalla seguente:
+ «c) le vendite ed i preliminari di vendita trascritti ai sensi dell'articolo 2645-bis del codice civile, i cui effetti non siano cessati ai sensi del comma terzo della suddetta disposizione, conclusi a giusto prezzo ed aventi ad oggetto immobili ad uso abitativo, destinati a costituire l'abitazione principale dell'acquirente o di suoi parenti e affini entro il terzo grado;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera d) del terzo comma dopo le parole «sia attestata», sono aggiunte le seguenti: «da un professionista iscritto nel registro dei revisori contabili e che abbia i requisiti previsti dall'articolo 28, lettere a) e b)».
+
 All'articolo 70, terzo comma, del regio decreto 16 marzo 1942, n. 267, dopo le parole «atti estintivi di», sono aggiunte le seguenti: «posizioni passive derivanti da rapporti di conto corrente bancario o comunque».
+
+6.
+                    
+                        
+                            All'articolo 72 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma sono aggiunte, in fine, le seguenti parole: «, salvo che, nei contratti ad effetti reali, sia gia' avvenuto il trasferimento del diritto»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al quarto comma, sono aggiunte, in fine, le seguenti parole: «, senza che gli sia dovuto risarcimento del danno»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il settimo comma e' sostituito dai seguenti:
+ «In caso di scioglimento del contratto preliminare di vendita immobiliare trascritto ai sensi dell'articolo 2645-bis del codice civile, l'acquirente ha diritto di far valere il proprio credito nel passivo, senza che gli sia dovuto il risarcimento del danno e gode del privilegio di cui all'articolo 2775-bis del codice civile a condizione che gli effetti della trascrizione del contratto preliminare non siano cessati anteriormente alla data della dichiarazione di fallimento.
+ Le disposizioni di cui al primo comma non si applicano al contratto preliminare di vendita trascritto ai sensi dell'articolo 2645-bis del codice civile avente ad oggetto un immobile ad uso abitativo destinato a costituire l'abitazione principale dell'acquirente o di suoi parenti ed affini entro il terzo grado».
 
 L'articolo 72-bis del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguente:
  «Art. 72-bis (Contratti relativi ad immobili da costruire). - I contratti di cui all'articolo 5 del decreto legislativo 20 giugno 2005, n. 122 si sciolgono se, prima che il curatore comunichi la scelta tra esecuzione o scioglimento, l'acquirente abbia escusso la fideiussione a garanzia della restituzione di quanto versato al costruttore, dandone altresi' comunicazione al curatore. In ogni caso, la fideiussione non puo' essere escussa dopo che il curatore ha comunicato di voler dare esecuzione al contratto.».
@@ -161,7 +354,45 @@ All'articolo 89, primo comma, del regio decreto 16 marzo 1942, n. 267, le parole
 
 ## Art. 6. — Modifiche al Titolo II, Capo V, del regio decreto 16 marzo 1942, n. 267
 
+1.
+                    
+                        
+                            All'articolo 93, del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al terzo comma, n. 4), le parole «anche in relazione alla graduazione del credito,» sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il settimo comma e' abrogato.
+
 L'articolo 95, secondo comma, del regio decreto 16 marzo 1942, n. 267 e' sostituito dal seguente: «Il curatore deposita il progetto di stato passivo nella cancelleria del tribunale almeno quindici giorni prima dell'udienza fissata per l'esame dello stato passivo. I creditori, i titolari di diritti sui beni ed il fallito possono esaminare il progetto e presentare osservazioni scritte e documenti integrativi fino all'udienza.».
+
+3.
+                    
+                        
+                            All'articolo 96 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma:
+ 1) dopo le parole «con decreto», sono aggiunte le seguenti: «succintamente motivato»;
+ 2) il secondo periodo e' soppresso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo comma e' abrogato.
 
 L'articolo 99 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguente:
  «Art. 99 (Procedimento). - Le impugnazioni di cui all'articolo precedente si propongono con ricorso depositato presso la cancelleria del tribunale entro trenta giorni dalla comunicazione di cui all'articolo 97 ovvero in caso di revocazione dalla scoperta del fatto o del documento.
@@ -183,9 +414,59 @@ L'articolo 99 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguent
 
 All'articolo 101, secondo comma, del regio decreto 16 marzo 1942, n. 267, dopo il primo periodo e' inserito il seguente: «Il giudice delegato fissa per l'esame delle domande tardive un'udienza ogni quattro mesi, salvo che sussistano motivi d'urgenza.».
 
+6.
+                    
+                        
+                            All'articolo 102, del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel comma primo le parole «e sentiti il comitato dei creditori ed il fallito» sono sostituite dalle seguenti «e dal parere del comitato dei creditori, sentito il fallito»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo comma e' sostituito dal seguente: «Le disposizioni di cui al primo comma si applicano, in quanto compatibili, ove la condizione di insufficiente realizzo emerge successivamente alla verifica dello stato passivo».
+
 All'articolo 103 del regio decreto 16 marzo 1942, n. 267, dopo il primo comma e' aggiunto il seguente: «Sono salve le disposizioni dell'articolo 1706 del codice civile.».
 
 ## Art. 7. — Modifiche al titolo II, capo VI del regio decreto 16 marzo 1942, n. 267
+
+1.
+                    
+                        
+                            All'articolo 104-ter, del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i commi primo e secondo sono sostituiti dai seguenti: «Entro sessanta giorni dalla redazione dell'inventario, il curatore predispone un programma di liquidazione da sottoporre all'approvazione del comitato dei creditori.
+ Il programma costituisce l'atto di pianificazione e di indirizzo in ordine alle modalita' e ai termini previsti per la realizzazione dell'attivo, e deve specificare:
+ a) l'opportunita' di disporre l'esercizio provvisorio dell'impresa, o di singoli rami di azienda, ai sensi dell'articolo 104, ovvero l'opportunita' di autorizzare l'affitto dell'azienda, o di rami, a terzi ai sensi dell'articolo 104-bis;
+ b) la sussistenza di proposte di concordato ed il loro contenuto;
+ c) le azioni risarcitorie, recuperatorie o revocatorie da esercitare ed il loro possibile esito;
+ d) le possibilita' di cessione unitaria dell'azienda, di singoli rami, di beni o di rapporti giuridici individuabili in blocco;
+ e) le condizioni della vendita dei singoli cespiti»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al quarto comma, il secondo periodo e' soppresso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il settimo comma e' inserito il seguente:
+ «Il programma approvato e' comunicato al giudice delegato che autorizza l'esecuzione degli atti a esso conformi.».
 
 Prima dell'articolo 105 del regio decreto 16 marzo 1942, n. 267, sono inserite le seguenti parole: «Sezione II DELLA VENDITA DEI BENI».
 
@@ -195,22 +476,205 @@ All'articolo 106 del regio decreto 16 marzo 1942, n. 267, nella rubrica, la paro
 
 Prima dell'articolo 107 del regio decreto 16 marzo 1942, n. 267, le parole: «Sezione III DELLA VENDITA DEI BENI IMMOBILI» sono soppresse.
 
+6.
+                    
+                        
+                            All'articolo 107 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il primo comma e' sostituito dal seguente:
+ «Le vendite e gli altri atti di liquidazione posti in essere in esecuzione del programma di liquidazione sono effettuati dal curatore tramite procedure competitive anche avvalendosi di soggetti specializzati, sulla base di stime effettuate, salvo il caso di beni di modesto valore, da parte di operatori esperti, assicurando, con adeguate forme di pubblicita', la massima informazione e partecipazione degli interessati.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il primo comma e' inserito il seguente:
+ «Il curatore puo' prevedere nel programma di liquidazione che le vendite dei beni mobili, immobili e mobili registrati vengano effettuate dal giudice delegato secondo le disposizioni del codice di procedura civile in quanto compatibili.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al secondo comma, dopo le parole «Per i beni immobili» sono inserite le seguenti: «e gli altri beni iscritti nei pubblici registri».
+
 All'articolo 108 del regio decreto 16 marzo 1942, n. 267, al secondo comma le parole «Per i veicoli iscritti nel pubblico registro automobilistico e per i beni immobili» sono sostituite dalle seguenti: «Per i beni immobili e gli altri beni iscritti in pubblici registri,».
 
 L'articolo 108-bis del regio decreto 16 marzo 1942, n. 267, e' abrogato.
 
 ## Art. 8. — Modifiche al Titolo II, Capo VII, del regio decreto 16 marzo 1942, n. 267
 
+1.
+                    
+                        
+                            All'articolo 110 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma, dopo il primo periodo e' aggiunto il seguente: «Nel progetto sono collocati anche i crediti per i quali non si applica il divieto di azioni esecutive e cautelari di cui all'articolo 51.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo comma, le parole «sentito il comitato dei creditori» sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel terzo comma, dopo la parola: «reclamo» sono aggiunte le seguenti: «al giudice delegato» e le parole «nelle forme di cui all'articolo 26.» sono sostituite dalle seguenti: «ai sensi dell'art. 36.».
+
 All'articolo 111, secondo comma, del regio decreto 16 marzo 1942, n. 267, la parola: «debiti» e' sostituita dalla seguente: «crediti».
+
+3.
+                    
+                        
+                            All'articolo 111-bis del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il secondo comma e' abrogato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel terzo comma, le parole: «secondo un criterio proporzionale» sono sostituite dalle seguenti: «tenuto conto delle rispettive cause di prelazione»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al quarto comma, le parole da «se l'importo» fino a «costo della vita», sono soppresse.
 
 All'articolo 115, secondo comma, del regio decreto 16 marzo 1942, n. 267, dopo le parole «formale dello stato passivo.» sono aggiunte le seguenti: «Le stesse disposizioni si applicano in caso di surrogazione del creditore».
 
 ## Art. 9. — Modifiche al Titolo II, Capo VIII, del regio decreto 16 marzo 1942, n. 267
 
+1.
+                    
+                        
+                            All'articolo 118, secondo comma, del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole «Ove si tratti di fallimento di societa' il curatore ne chiede la cancellazione dal registro delle imprese.» sono sostituite dalle seguenti: «Nei casi di chiusura di cui ai numeri 3) e 4), ove si tratti di fallimento di societa' il curatore ne chiede la cancellazione dal registro delle imprese»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo le parole «della societa» sono inserite le seguenti: «nei casi di cui ai numeri 1) e 2)».
+
+2.
+                    
+                        
+                            All'articolo 119 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel terzo comma, dopo il primo periodo e' aggiunto il seguente:
+ «Contro il decreto della corte d'appello il ricorso per cassazione e' proposto nel termine perentorio di trenta giorni, decorrente dalla notificazione o comunicazione del provvedimento per il curatore, per il fallito, per il comitato dei creditori e per chi ha proposto il reclamo o e' intervenuto nel procedimento; dal compimento della pubblicita' di cui all'articolo 17 per ogni altro interessato.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il terzo comma e' inserito il seguente:
+ «Il decreto di chiusura acquista efficacia quando e' decorso il termine per il reclamo, senza che questo sia stato proposto, ovvero quando il reclamo e' definitivamente rigettato.»;
+
 L'articolo 120, primo comma, del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguente:
  «Con la chiusura cessano gli effetti del fallimento sul patrimonio del fallito e le conseguenti incapacita' personali e decadono gli organi preposti al fallimento.».
 
 All'articolo 121, terzo comma, regio decreto 16 marzo 1942, n. 267, la parola: «appellata» e' sostituita dalla seguente: «reclamata»;
+
+5.
+                    
+                        
+                            All'articolo 124 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                Il primo comma e' sostituito dal seguente:
+ «La proposta di concordato puo' essere presentata da uno o piu' creditori o da un terzo, anche prima del decreto che rende esecutivo lo stato passivo, purche' sia stata tenuta la contabilita' ed i dati risultanti da essa e le altre notizie disponibili consentano al curatore di predisporre un elenco provvisorio dei creditori del fallito da sottoporre all'approvazione del giudice delegato. Essa non puo' essere presentata dal fallito, da societa' cui egli partecipi o da societa' sottoposte a comune controllo se non dopo il decorso di un anno dalla dichiarazione di fallimento e purche' non siano decorsi due anni dal decreto che rende esecutivo lo stato passivo.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il terzo comma e' sostituito dal seguente:
+ «La proposta puo' prevedere che i creditori muniti di privilegio, pegno o ipoteca, non vengano soddisfatti integralmente, purche' il piano ne preveda la soddisfazione in misura non inferiore a quella realizzabile, in ragione della collocazione preferenziale, sul ricavato in caso di liquidazione, avuto riguardo al valore di mercato attribuibile ai beni o diritti sui quali sussiste la causa di prelazione indicato nella relazione giurata di un professionista in possesso dei requisiti di cui all'articolo 67, terzo comma, lettera d) designato dal tribunale. Il trattamento stabilito per ciascuna classe non puo' avere l'effetto di alterare l'ordine delle cause legittime di prelazione.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al quarto comma:
+ 1) dopo le parole: «La proposta presentata» sono inserite le seguenti: «da uno o piu' creditori o»;
+ 2) nel secondo periodo le parole «Il terzo» vengono sostituite dalle seguenti: «Il proponente».
+
+6.
+                    
+                        
+                            All'articolo 125, del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma le parole «comitato dei creditori e» sono soppresse e dopo le parole «della liquidazione» sono aggiunte le seguenti: «ed alle garanzie offerte»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi secondo e terzo sono sostituiti dai seguenti:
+ «Una volta espletato tale adempimento preliminare, il giudice delegato, acquisito il parere favorevole del comitato dei creditori, valutata la ritualita' della proposta, ordina che la stessa, unitamente al parere del curatore e del comitato dei creditori venga comunicata ai creditori, specificando dove possono essere reperiti i dati per la sua valutazione ed informandoli che la mancata risposta sara' considerata come voto favorevole. Nel medesimo provvedimento il giudice delegato fissa un termine non inferiore a venti giorni ne' superiore a trenta, entro il quale i creditori devono far pervenire nella cancelleria del tribunale eventuali dichiarazioni di dissenso.
+ Qualora la proposta contenga condizioni differenziate per singole classi di creditori essa, prima di essere comunicata ai creditori, deve essere sottoposta, con i pareri di cui al primo e secondo comma, al giudizio del tribunale che verifica il corretto utilizzo dei criteri di cui all'articolo 124, secondo comma, lettere a) e b) tenendo conto della relazione resa ai sensi dell'articolo 124, terzo comma.»;
+
+7.
+                    
+                        
+                            All'articolo 128 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i commi primo e secondo sono sostituiti dal seguente:
+ «Il concordato e' approvato dai creditori che rappresentano la maggioranza dei crediti ammessi al voto. Ove siano previste diverse classi di creditori, il concordato e' approvato se tale maggioranza si verifica inoltre nel maggior numero di classi.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel comma quarto le parole: «una sentenza emessa» sono sostituite dalle seguenti: «un provvedimento emesso»;
 
 L'articolo 129, del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguente:
  «Art. 129 (Giudizio di omologazione). - Decorso il termine stabilito per le votazioni, il curatore presenta al giudice delegato una relazione sul loro esito.
@@ -266,10 +730,55 @@ Nella rubrica dell'articolo 160 la parola «Condizioni» e' sostituita dalla par
 All'articolo 160 del regio decreto 16 marzo 1942, n. 267, dopo il primo comma e' inserito il seguente:
  «La proposta puo' prevedere che i creditori muniti di privilegio, pegno o ipoteca, non vengano soddisfatti integralmente, purche' il piano ne preveda la soddisfazione in misura non inferiore a quella realizzabile, inragione della collocazione preferenziale, sul ricavato in caso di liquidazione, avuto riguardo al valore di mercato attribuibile ai beni o diritti sui quali sussiste la causa di prelazione indicato nella relazione giurata di un professionista in possesso dei requisiti di cui all'articolo 67, terzo comma, lettera d). Il trattamento stabilito per ciascuna classe non puo' avere l'effetto di alterare l'ordine delle cause legittime di prelazione.».
 
+3.
+                    
+                        
+                            All'articolo 161, del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il terzo comma e' sostituito dal seguente:
+ «Il piano e la documentazione di cui ai commi precedenti devono essere accompagnati dalla relazione di un professionista in possesso dei requisiti di cui all'articolo 67, terzo comma, lettera d), che attesti la veridicita' dei dati aziendali e la fattibilita' del piano medesimo.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il quarto comma e' aggiunto il comma seguente:
+ «La domanda di concordato e' comunicata al pubblico ministero».
+
 L'articolo 162 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguente:
  «Art. 162 (Inammissibilita' della proposta). - Il Tribunale puo' concedere al debitore un termine non superiore a quindici giorni per apportare integrazioni al piano e produrre nuovi documenti.
  Il Tribunale, se all'esito del procedimento verifica che non ricorrono i presupposti di cui agli articoli 160, commi primo e secondo, e 161, sentito il debitore in camera di consiglio, con decreto non soggetto a reclamo dichiara inammissibile la proposta di concordato. In tali casi il Tribunale, su istanza del creditore o su richiesta del pubblico ministero, accertati i presupposti di cui agli articoli 1 e 5 dichiara il fallimento del debitore.
  Contro la sentenza che dichiara il fallimento e' proponibile reclamo a norma dell'articolo 18. Con il reclamo possono farsi valere anche motivi attinenti all'ammissibilita' della proposta di concordato.».
+
+5.
+                    
+                        
+                            All'articolo 163, del regio decreto 16 marzo 1942, n. 267, sono apportare le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma le parole «verificata la completezza e la regolarita' della documentazione» sono sostituite dalle seguenti: «ove non abbia provveduto a norma dell'articolo 162, commi primo e secondo,»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo comma, n. 4), le parole: «che si presume necessaria per l'intera procedura» sono sostituite dalle seguenti: «pari al 50 per cento delle spese che si presumono necessarie per l'intera procedura, ovvero la diversa minor somma, non inferiore al 20 per cento di tali spese, che sia determinata dal giudice. Su proposta del commissario giudiziale, il giudice delegato puo' disporre che le somme riscosse vengano investite secondo quanto previsto dall'articolo 34, primo comma»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al terzo comma, le parole «quarto comma», sono sostituite dalle seguenti: «primo comma».
 
 All'articolo 166, primo comma, del regio decreto 16 marzo 1942, n. 267, il primo periodo e' sostituito dal seguente: «Il decreto e' pubblicato, a cura del cancelliere, a norma dell'articolo 17».
 
@@ -311,6 +820,28 @@ L'articolo 180 del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguen
 Il decreto e' pubblicato a norma dell'articolo 17 ed e' provvisoriamente esecutivo.
  Le somme spettanti ai creditori contestati, condizionali o irreperibili sono depositate nei modi stabiliti dal tribunale, che fissa altresi' le condizioni e le modalita' per lo svincolo.
  Il tribunale, se respinge il concordato, su istanza del creditore o su richiesta del pubblico ministero, accertati i presupposti di cui gli articoli 1 e 5, dichiara il fallimento del debitore, con separata sentenza, emessa contestualmente al decreto.».
+
+3.
+                    
+                        
+                            All'articolo 182 del regio decreto 16 marzo 1942, n. 267, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole «nella sentenza» vengono sostituite dalle seguenti: «nel decreto»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il primo comma sono aggiunti i seguenti:
+ «Si applicano ai liquidatori gli articoli 28, 29, 37, 38, 39 e 116 in quanto compatibili.
+ Si applicano al comitato dei creditori gli articoli 40 e 41 in quanto compatibili. Alla sostituzione dei membri del comitato provvede in ogni caso il tribunale.
+ Le vendite di aziende e rami di aziende, beni immobili e altri beni iscritti in pubblici registri, nonche' le cessioni di attivita' e passivita' dell'azienda e di beni o rapporti giuridici individuali in blocco devono essere autorizzate dal comitato dei creditori.
+ Si applicano gli articoli da 105 a 108-ter in quanto compatibili.».
 
 L'articolo 182-bis del regio decreto 16 marzo 1942, n. 267, e' sostituito dal seguente:
  «Art. 182-bis (Accordi di ristrutturazione dei debiti). - L'imprenditore in stato di crisi puo' domandare, depositando la documentazione di cui all'articolo 161, l'omologazione di un accordo di ristrutturazione dei debiti stipulato con i creditori rappresentanti almeno il sessanta per cento dei crediti, unitamente ad una relazione redatta da un professionista in possesso dei requisiti di cui all'articolo 67, terzo comma, lettera d) sull'attuabilita' dell'accordo stesso, con particolare riferimento alla sua idoneita' ad assicurare il regolare pagamento dei creditori estranei.
@@ -375,6 +906,45 @@ Qualora le procedure fallimentari di cui al comma 1 risultino chiuse alla data d
 All'articolo 5, comma 2, del decreto legislativo 31 marzo 1998, n. 114, la lettera a) e' abrogata.
 
 ## Art. 21. — Modifiche al decreto del Presidente della Repubblica 14 novembre 2002, n. 313
+
+1.
+                    
+                        
+                            Le seguenti disposizioni del decreto del Presidente della Repubblica 14 novembre 2002, n. 313, sono abrogate a decorrere dalla data di entrata in vigore del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 3 (L), comma 1, lettera q);
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolo 5 (L), comma 2, lettera i);
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 24 (L), comma 1, lettera n);
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 25 (L), comma 1, lettera n);
+
+                            
+                        
+                        
+                            e)
+                            
+                                articolo 26 (L), comma 1, lettera b).
 
 Per le procedure concorsuali aperte a far data dal 16 gennaio 2006, il richiamo alla riabilitazione civile del fallito disposta con sentenza definitiva, nell'articolo 24 (L), comma 1, lettera n), e nell'articolo 26 (L), comma 1, lettera b), del citato decreto del Presidente della Repubblica n. 313 del 2002, si intende riferito al decreto definitivo di chiusura del fallimento.
 

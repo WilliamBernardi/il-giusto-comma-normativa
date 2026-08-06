@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-02-20
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -60,6 +60,24 @@ La comunicazione fra titolari che effettuano trattamenti di dati personali, dive
 
 La diffusione e la comunicazione di dati personali, trattati per l'esecuzione di un compito di interesse pubblico o connesso all'esercizio di pubblici poteri, a soggetti che intendono trattarli per altre finalita' sono ammesse unicamente se previste ai sensi del comma 1 ((o se necessarie ai sensi del comma 1-bis. In tale ultimo caso, ne viene data notizia al Garante almeno dieci giorni prima dell'inizio della comunicazione o diffusione)).
 
+4.
+                        
+                            
+                                Si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "comunicazione", il dare conoscenza dei dati personali a uno o piu' soggetti determinati diversi dall'interessato, dal rappresentante del titolare nel territorio dell'Unione europea, dal responsabile o dal suo rappresentante nel territorio dell'Unione europea, dalle persone autorizzate, ai sensi dell'articolo 2-quaterdecies, al trattamento dei dati personali sotto l'autorita' diretta del titolare o del responsabile, in qualunque forma, anche mediante la loro messa a disposizione, consultazione o mediante interconnessione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "diffusione", il dare conoscenza dei dati personali a soggetti indeterminati, in qualunque forma, anche mediante la loro messa a disposizione o consultazione.
+
 ----------------
                             AGGIORNAMENTO (49)
                             
@@ -98,6 +116,185 @@ I dati personali relativi alla salute, ((pseudonimizzati)) , sono trattati, anch
 Il Ministero della salute disciplina, con uno o piu' decreti adottati ai sensi del comma 1, l'interconnessione a livello nazionale dei sistemi informativi su base individuale, ((pseudonomizzati)) , ivi incluso il fascicolo sanitario elettronico (FSE), compresi quelli gestiti dai soggetti di cui al comma 1-bis o da altre pubbliche amministrazioni che a tal fine adeguano i propri sistemi informativi.
 I decreti di cui al primo periodo adottati, previo parere del Garante per la protezione dei dati personali, nel rispetto del Regolamento, del presente codice, ((del codice)) dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, e delle linee guida emanate dall'Agenzia per l'Italia digitale in materia di interoperabilita', definiscono le caratteristiche e disciplinano un ambiente di trattamento sicuro all'interno del quale vengono messi a disposizione dati anonimi o pseudonimizzati, per le finalita' istituzionali di ciascuno, secondo le modalita' individuate al comma 1.
 
+2.
+                        
+                            
+                                Fermo quanto previsto dal comma 1, si considera rilevante l'interesse pubblico relativo a trattamenti effettuati da soggetti che svolgono compiti di interesse pubblico o connessi all'esercizio di pubblici poteri nelle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accesso a documenti amministrativi e accesso civico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tenuta degli atti e dei registri dello stato civile, delle anagrafi della popolazione residente in Italia e dei cittadini italiani residenti all'estero, e delle liste elettorali, nonche' rilascio di documenti di riconoscimento o di viaggio o cambiamento delle generalita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tenuta di registri pubblici relativi a beni immobili o mobili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tenuta dell'anagrafe nazionale degli abilitati alla guida e dell'archivio nazionale dei veicoli; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    cittadinanza, immigrazione, asilo, condizione dello straniero e del profugo, stato di rifugiato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    elettorato attivo e passivo ed esercizio di altri diritti politici, protezione diplomatica e consolare, nonche' documentazione delle attivita' istituzionali di organi pubblici, con particolare riguardo alla redazione di verbali e resoconti dell'attivita' di assemblee rappresentative, commissioni e di altri organi collegiali o assembleari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esercizio del mandato degli organi rappresentativi, ivi compresa la loro sospensione o il loro scioglimento, nonche' l'accertamento delle cause di ineleggibilita', incompatibilita' o di decadenza, ovvero di rimozione o sospensione da cariche pubbliche; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    svolgimento delle funzioni di controllo, indirizzo politico, inchiesta parlamentare o sindacato ispettivo e l'accesso a documenti riconosciuto dalla legge e dai regolamenti degli organi interessati per esclusive finalita' direttamente connesse all'espletamento di un mandato elettivo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    attivita' dei soggetti pubblici dirette all'applicazione, anche tramite i loro concessionari, delle disposizioni in materia tributaria e doganale, comprese quelle di prevenzione e contrasto all'evasione fiscale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    attivita' di controllo e ispettive; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    concessione, liquidazione, modifica e revoca di benefici economici, agevolazioni, elargizioni, altri emolumenti e abilitazioni; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    conferimento di onorificenze e ricompense, riconoscimento della personalita' giuridica di associazioni, fondazioni ed enti, anche di culto, accertamento dei requisiti di onorabilita' e di professionalita' per le nomine, per i profili di competenza del soggetto pubblico, ad uffici anche di culto e a cariche direttive di persone giuridiche, imprese e di istituzioni scolastiche non statali, nonche' rilascio e revoca di autorizzazioni o abilitazioni, concessione di patrocini, patronati e premi di rappresentanza, adesione a comitati d'onore e ammissione a cerimonie ed incontri istituzionali; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    rapporti tra i soggetti pubblici e gli enti del terzo settore; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    obiezione di coscienza; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    attivita' sanzionatorie e di tutela in sede amministrativa o giudiziaria; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    rapporti istituzionali con enti di culto, confessioni religiose e comunita' religiose; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    attivita' socio-assistenziali a tutela dei minori e soggetti bisognosi, non autosufficienti e incapaci; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    attivita' amministrative e certificatorie correlate a quelle di diagnosi, assistenza o terapia sanitaria o sociale, ivi incluse quelle correlate ai trapianti d'organo e di tessuti nonche' alle trasfusioni di sangue umano; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    compiti del servizio sanitario nazionale e dei soggetti operanti in ambito sanitario, nonche' compiti di igiene e sicurezza sui luoghi di lavoro e sicurezza e salute della popolazione, protezione civile, salvaguardia della vita e incolumita' fisica; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    programmazione, gestione, controllo e valutazione dell'assistenza sanitaria, ivi incluse l'instaurazione, la gestione, la pianificazione e il controllo dei rapporti tra l'amministrazione ed i soggetti accreditati o convenzionati con il servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    vigilanza sulle sperimentazioni, farmacovigilanza, autorizzazione all'immissione in commercio e all'importazione di medicinali e di altri prodotti di rilevanza sanitaria; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    tutela sociale della maternita' ed interruzione volontaria della gravidanza, dipendenze, assistenza, integrazione sociale e diritti dei disabili; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    istruzione e formazione in ambito scolastico, professionale, superiore o universitario; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    trattamenti effettuati a fini di archiviazione nel pubblico interesse o di ricerca storica, concernenti la conservazione, l'ordinamento e la comunicazione dei documenti detenuti negli archivi di Stato negli archivi storici degli enti pubblici, o in archivi privati dichiarati di interesse storico particolarmente importante, per fini di ricerca scientifica, nonche' per fini statistici da parte di soggetti che fanno parte del sistema statistico nazionale (Sistan); 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    instaurazione, gestione ed estinzione, di rapporti di lavoro di qualunque tipo, anche non retribuito o onorario, e di altre forme di impiego, materia sindacale, occupazione e collocamento obbligatorio, previdenza e assistenza, tutela delle minoranze e pari opportunita' nell'ambito dei rapporti di lavoro, adempimento degli obblighi retributivi, fiscali e contabili, igiene e sicurezza del lavoro o di sicurezza o salute della popolazione, accertamento della responsabilita' civile, disciplinare e contabile, attivita' ispettiva.
+
 Per i dati genetici, biometrici e relativi alla salute il trattamento avviene comunque nel rispetto di quanto previsto dall'articolo 2-septies.
 
 -------------
@@ -111,7 +308,64 @@ Per i dati genetici, biometrici e relativi alla salute il trattamento avviene co
 
 In attuazione di quanto previsto dall'articolo 9, paragrafo 4, del regolamento, i dati genetici, biometrici e relativi alla salute, possono essere oggetto di trattamento in presenza di una delle condizioni di cui al paragrafo 2 del medesimo articolo ed in conformita' alle misure di garanzia disposte dal Garante, nel rispetto di quanto previsto dal presente articolo.
 
+2.
+                        
+                            
+                                Il provvedimento che stabilisce le misure di garanzia di cui al comma 1 e' adottato con cadenza almeno biennale e tenendo conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle linee guida, delle raccomandazioni e delle migliori prassi pubblicate dal Comitato europeo per la protezione dei dati e delle migliori prassi in materia di trattamento dei dati personali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'evoluzione scientifica e tecnologica nel settore oggetto delle misure; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'interesse alla libera circolazione dei dati personali nel territorio dell'Unione europea.
+
 Lo schema di provvedimento e' sottoposto a consultazione pubblica per un periodo non inferiore a sessanta giorni.
+
+4.
+                        
+                            
+                                Le misure di garanzia sono adottate nel rispetto di quanto previsto dall'articolo 9, paragrafo 2, del Regolamento, e riguardano anche le cautele da adottare relativamente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contrassegni sui veicoli e accessi a zone a traffico limitato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    profili organizzativi e gestionali in ambito sanitario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modalita' per la comunicazione diretta all'interessato delle diagnosi e dei dati relativi alla propria salute; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prescrizioni di medicinali.
 
 Le misure di garanzia sono adottate in relazione a ciascuna categoria dei dati personali di cui al comma 1, avendo riguardo alle specifiche finalita' del trattamento e possono individuare, in conformita' a quanto previsto al comma 2, ulteriori condizioni sulla base delle quali il trattamento di tali dati e' consentito. In particolare, le misure di garanzia individuano le misure di sicurezza, ivi comprese quelle tecniche di cifratura e di pseudonomizzazione, le misure di minimizzazione, le specifiche modalita' per l'accesso selettivo ai dati e per rendere le informazioni agli interessati, nonche' le eventuali altre misure necessarie a garantire i diritti degli interessati.
 
@@ -128,6 +382,87 @@ I dati personali di cui al comma 1 non possono essere diffusi.
 Fatto salvo quanto previsto dal decreto legislativo 18 maggio 2018, n. 51, il trattamento di dati personali relativi a condanne penali e a reati o a connesse misure di sicurezza sulla base dell'articolo 6, paragrafo 1, del Regolamento, che non avviene sotto il controllo dell'autorita' pubblica, e' consentito, ai sensi dell'articolo 10 del medesimo regolamento, solo se autorizzato da una norma di legge o, nei casi previsti dalla legge, di regolamento, che prevedano garanzie appropriate per i diritti e le liberta' degli interessati.
 
 ((COMMA ABROGATO DALLA L. 2 DICEMBRE 2025, N. 182)).
+
+3.
+                        
+                            
+                                Fermo quanto previsto dai commi 1 e 2, il trattamento di dati personali relativi a condanne penali e a reati o a connesse misure di sicurezza e' consentito se autorizzato da una norma di legge o, nei casi previsti dalla legge, di regolamento, riguardanti, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adempimento di obblighi e l'esercizio di diritti da parte del titolare o dell'interessato in materia di diritto del lavoro o comunque nell'ambito dei rapporti di lavoro, nei limiti stabiliti da leggi, regolamenti e contratti collettivi, secondo quanto previsto dagli articoli 9, paragrafo 2, lettera b), e 88 del regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adempimento degli obblighi previsti da disposizioni di legge o di regolamento in materia di mediazione finalizzata alla conciliazione delle controversie civili e commerciali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la verifica o l'accertamento dei requisiti di onorabilita', requisiti soggettivi e presupposti interdittivi nei casi previsti dalle leggi o dai regolamenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'accertamento di responsabilita' in relazione a sinistri o eventi attinenti alla vita umana, nonche' la prevenzione, l'accertamento e il contrasto di frodi o situazioni di concreto rischio per il corretto esercizio dell'attivita' assicurativa, nei limiti di quanto previsto dalle leggi o dai regolamenti in materia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'accertamento, l'esercizio o la difesa di un diritto in sede giudiziaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'esercizio del diritto di accesso ai dati e ai documenti amministrativi, nei limiti di quanto previsto dalle leggi o dai regolamenti in materia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'esecuzione di investigazioni o le ricerche o la raccolta di informazioni per conto di terzi ai sensi dell'articolo 134 del testo unico delle leggi di pubblica sicurezza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'adempimento di obblighi previsti da disposizioni di legge in materia di comunicazioni e informazioni antimafia o in materia di prevenzione della delinquenza di tipo mafioso e di altre gravi forme di pericolosita' sociale, nei casi previsti da leggi o da regolamenti, o per la produzione della documentazione prescritta dalla legge per partecipare a gare d'appalto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'accertamento del requisito di idoneita' morale di coloro che intendono partecipare a gare d'appalto, in adempimento di quanto previsto dalle vigenti normative in materia di appalti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'attuazione della disciplina in materia di attribuzione del rating di legalita' delle imprese ai sensi dell'articolo 5-ter del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'adempimento degli obblighi previsti dalle normative vigenti in materia di prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo.
 
 ((COMMA ABROGATO DALLA L. 2 DICEMBRE 2025, N. 182)).
 
@@ -154,6 +489,52 @@ I dati personali trattati in violazione della disciplina rilevante in materia di
 ## - - (( CAPO III (DISPOSIZIONI IN MATERIA DI DIRITTI DELL'INTERESSATO) ))
 
 ## Art. 2-undecies. — (Limitazioni ai diritti dell'interessato)
+
+1.
+                        
+                            
+                                I diritti di cui agli articoli da 15 a 22 del Regolamento non possono essere esercitati con richiesta al titolare del trattamento ovvero con reclamo ai sensi dell'articolo 77 del Regolamento qualora dall'esercizio di tali diritti possa derivare un pregiudizio effettivo e concreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli interessi tutelati in base alle disposizioni in materia di riciclaggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli interessi tutelati in base alle disposizioni in materia di sostegno alle vittime di richieste estorsive; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'attivita' di Commissioni parlamentari d'inchiesta istituite ai sensi dell'articolo 82 della Costituzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle attivita' svolte da un soggetto pubblico, diverso dagli enti pubblici economici, in base ad espressa disposizione di legge, per esclusive finalita' inerenti alla politica monetaria e valutaria, al sistema dei pagamenti, al controllo degli intermediari e dei mercati creditizi e finanziari, nonche' alla tutela della loro stabilita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    allo svolgimento delle investigazioni difensive o all'esercizio di un diritto in sede giudiziaria; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    agli interessi tutelati in materia tributaria e allo svolgimento delle attivita' di prevenzione e contrasto all'evasione fiscale.
 
 Nei casi di cui al comma 1, lettera c), si applica quanto previsto dai regolamenti parlamentari ovvero dalla legge o dalle norme istitutive della Commissione d'inchiesta.
 
@@ -500,6 +881,53 @@ Fuori dei casi indicati nel presente articolo e' ammessa la diffusione in ogni f
 
 ## Art. 57. — (Disposizioni di attuazione)
 
+1.
+                        
+                            
+                                Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro dell'interno, di concerto con il Ministro della giustizia, sono individuate le modalita' di attuazione dei principi del presente codice relativamente al trattamento dei dati effettuato per le finalita' di cui all'articolo 53 dal Centro elaborazioni dati e da organi, uffici o comandi di polizia, anche ad integrazione e modifica del decreto del Presidente della Repubblica 3 maggio 1982, n. 378, e in attuazione della Raccomandazione R (87) 15 del Consiglio d'Europa del 17 settembre 1987, e successive modificazioni. Le modalita' sono individuate con particolare riguardo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al principio secondo cui la raccolta dei dati e' correlata alla specifica finalita' perseguita, in relazione alla prevenzione di un pericolo concreto o alla repressione di reati, in particolare per quanto riguarda i trattamenti effettuati per finalita' di analisi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'aggiornamento periodico dei dati, anche relativi a valutazioni effettuate in base alla legge, alle diverse modalita' relative ai dati trattati senza l'ausilio di strumenti elettronici e alle modalita' per rendere conoscibili gli aggiornamenti da parte di altri organi e uffici cui i dati sono stati in precedenza comunicati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai presupposti per effettuare trattamenti per esigenze temporanee o collegati a situazioni particolari, anche ai fini della verifica dei requisiti dei dati ai sensi dell'articolo 11, dell'individuazione delle categorie di interessati e della conservazione separata da altri dati che non richiedono il loro utilizzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'individuazione di specifici termini di conservazione dei dati in relazione alla natura dei dati o agli strumenti utilizzati per il loro trattamento, nonche' alla tipologia dei procedimenti nell'ambito dei quali essi sono trattati o i provvedimenti sono adottati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla comunicazione ad altri soggetti, anche all'estero o per l'esercizio di un diritto o di un interesse legittimo, e alla loro diffusione, ove necessaria in conformita' alla legge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'uso di particolari tecniche di elaborazione e di ricerca delle informazioni, anche mediante il ricorso a sistemi di indice. 
+ ((46))
+
 ---------------
                             AGGIORNAMENTO (46)
                             
@@ -636,6 +1064,42 @@ Il trattamento dei dati personali effettuato per finalita' di tutela della salut
 
 ((
 
+1.
+                        
+                            
+                                Le disposizioni del presente titolo individuano modalita' particolari utilizzabili dai soggetti di cui al comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per informare l'interessato ai sensi degli articoli 13 e 14 del Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il trattamento dei dati personali.
+
+2.
+                        
+                            
+                                Le modalita' di cui al comma 1 sono applicabili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle strutture pubbliche e private, che erogano prestazioni sanitarie e socio-sanitarie e dagli esercenti le professioni sanitarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dai soggetti pubblici indicati all'articolo 80.
+
 ))
 
 ## Art. 78. — ((Informazioni)) del medico di medicina generale o del pediatra
@@ -651,6 +1115,46 @@ Il medico di medicina generale o il pediatra di libera scelta informano l'intere
 Le informazioni possono riguardare, altresi', dati personali eventualmente raccolti presso terzi e sono fornite preferibilmente per iscritto.
 
 ))
+
+4.
+                        
+                            
+                                
+                                    ((Le informazioni)), se non e' diversamente specificato dal medico o dal pediatra, ((riguardano)) anche il trattamento di dati correlato a quello effettuato dal medico di medicina generale o dal pediatra di libera scelta, effettuato da un professionista o da altro soggetto, parimenti individuabile in base alla prestazione richiesta, che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostituisce temporaneamente il medico o il pediatra; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce una prestazione specialistica su richiesta del medico e del pediatra; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo' trattare lecitamente i dati nell'ambito di un'attivita' professionale prestata in forma associata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornisce farmaci prescritti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comunica dati personali al medico o pediatra in conformita' alla disciplina applicabile.
 
 ((Le informazioni rese)) ai sensi del presente articolo ((evidenziano)) analiticamente eventuali trattamenti di dati personali che presentano rischi specifici per i diritti e le liberta' fondamentali, nonche' per la dignita' dell'interessato, in particolare in caso di trattamenti effettuati: 
  ((a) per fini di ricerca scientifica anche nell'ambito di sperimentazioni cliniche, in conformita' alle leggi e ai regolamenti, ponendo in particolare evidenza che il consenso, ove richiesto, e' manifestato liberamente;)) 
@@ -757,6 +1261,25 @@ Per le prescrizioni di medicinali, laddove non e' necessario inserire il nominat
 ## Art. 92. — (Cartelle cliniche)
 
 Nei casi in cui ((strutture, pubbliche e private, che erogano prestazioni sanitarie e socio-sanitarie)) redigono e conservano una cartella clinica in conformita' alla disciplina applicabile, sono adottati opportuni accorgimenti per assicurare la comprensibilita' dei dati e per distinguere i dati relativi al paziente da quelli eventualmente riguardanti altri interessati, ivi comprese informazioni relative a nascituri.
+
+2.
+                        
+                            
+                                Eventuali richieste di presa visione o di rilascio di copia della cartella e dell'acclusa scheda di dimissione ospedaliera da parte di soggetti diversi dall'interessato possono essere accolte, in tutto o in parte, solo se la richiesta e' giustificata dalla documentata necessita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((di esercitare)) o difendere un diritto in sede giudiziaria ((, ai sensi dell'articolo 9, paragrafo 2, lettera f), del Regolamento,)) di rango pari a quello dell'interessato, ovvero consistente in un diritto della personalita' o in un altro diritto o liberta' fondamentale ((...)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di tutelare, in conformita' alla disciplina sull'accesso ai documenti amministrativi, una situazione giuridicamente rilevante di rango pari a quella dell'interessato, ovvero consistente in un diritto della personalita' o in un altro diritto o liberta' fondamentale ((...)).
 
 ## Art. 93. — (Certificato di assistenza al parto)
 
@@ -884,6 +1407,73 @@ Per il trattamento effettuato ((a fini statistici o di ricerca scientifica)) ris
 
 Il Garante promuove, ai sensi dell'articolo 2-quater, regole deontologiche per i soggetti pubblici e privati, ivi comprese le societa' scientifiche e le associazioni professionali, interessati al trattamento dei dati per fini statistici o di ricerca scientifica, volte a individuare garanzie adeguate per i diritti e le liberta' dell'interessato in conformita' all'articolo 89 del Regolamento.
 
+2.
+                        
+                            
+                                Con le regole deontologiche di cui al comma 1, tenendo conto, per i soggetti gia' compresi nell'ambito del Sistema statistico nazionale, di quanto gia' previsto dal decreto legislativo 6 settembre 1989, n. 322, e, per altri soggetti, sulla base di analoghe garanzie, sono individuati in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i presupposti e i procedimenti per documentare e verificare che i trattamenti, fuori dai casi previsti dal medesimo decreto legislativo n. 322 del 1989, siano effettuati per idonei ed effettivi fini statistici o di ricerca scientifica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per quanto non previsto dal presente codice, gli ulteriori presupposti del trattamento e le connesse garanzie, anche in riferimento alla durata della conservazione dei dati, alle informazioni da rendere agli interessati relativamente ai dati raccolti anche presso terzi, alla comunicazione e diffusione, ai criteri selettivi da osservare per il trattamento di dati identificativi, alle specifiche misure di sicurezza e alle modalita' per la modifica dei dati a seguito dell'esercizio dei diritti dell'interessato, tenendo conto dei principi contenuti nelle pertinenti raccomandazioni del Consiglio d'Europa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'insieme dei mezzi che possono essere ragionevolmente utilizzati dal titolare del trattamento o da altri per identificare direttamente o indirettamente l'interessato, anche in relazione alle conoscenze acquisite in base al progresso tecnico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le garanzie da osservare nei casi in cui si puo' prescindere dal consenso dell'interessato, tenendo conto dei principi contenuti nelle raccomandazioni di cui alla lettera b); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    modalita' semplificate per la prestazione del consenso degli interessati relativamente al trattamento dei dati di cui all'articolo 9 del regolamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i casi nei quali i diritti di cui agli articoli 15, 16, 18 e 21 del Regolamento possono essere limitati ai sensi dell'articolo 89, paragrafo 2, del medesimo Regolamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le regole di correttezza da osservare nella raccolta dei dati e le istruzioni da impartire alle persone autorizzate al trattamento dei dati personali sotto l'autorita' diretta del titolare o del responsabile ai sensi dell'articolo 2-quaterdecies; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le misure da adottare per favorire il rispetto del principio di minimizzazione e delle misure tecniche e organizzative di cui all'articolo 32 del Regolamento, anche in riferimento alle cautele volte ad impedire l'accesso da parte di persone fisiche che non sono autorizzate o designate e l'identificazione non autorizzata degli interessati, all'interconnessione dei sistemi informativi anche nell'ambito del Sistema statistico nazionale e all'interscambio di dati per fini statistici o di ricerca scientifica da effettuarsi con enti ed uffici situati all'estero; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'impegno al rispetto di regole deontologiche da parte delle persone che, ai sensi dell'articolo 2-quaterdecies, risultano autorizzate al trattamento dei dati personali sotto l'autorita' diretta del titolare o del responsabile del trattamento, che non sono tenute in base alla legge al segreto d'ufficio o professionale, tali da assicurare analoghi livelli di sicurezza e di riservatezza.
+
 ))
 
 ## Art. 107. — (( (Trattamento di categorie particolari di dati personali). ))
@@ -1004,6 +1594,87 @@ Le disposizioni del presente titolo si applicano al trattamento dei dati persona
 
 ((
 
+1-bis.
+                        
+                            
+                                Ai fini dell'applicazione delle disposizioni del presente titolo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «comunicazione elettronica», ogni informazione scambiata o trasmessa tra un numero finito di soggetti tramite un servizio di comunicazione elettronica accessibile al pubblico. Sono escluse le informazioni trasmesse al pubblico tramite una rete di comunicazione elettronica, come parte di un servizio di radiodiffusione, salvo che le stesse informazioni siano collegate ad uncontraente o utente ricevente, identificato o identificabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «chiamata», la connessione istituita da un servizio di comunicazione elettronica accessibil e al pubblico che consente la comunicazione bidirezionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «reti di comunicazione elettronica», i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse a commutazione di circuito e a commutazione di pacchetto, compresa Internet, le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «rete pubblica di comunicazioni», una rete di comunicazione elettronica utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico, che supporta il trasferimento di informazioni tra i punti terminali di reti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «servizio di comunicazione elettronica», i servizi consistenti esclusivamente o prevalentemente nella trasmissione di segnali su reti di comunicazioni elettroniche, compresi i servizi di telecomunicazioni e i servizi di trasmissione nelle reti utilizzate per la diffusione circolare radiotelevisiva, nei limiti previsti dall'articolo 2, lettera c), della direttiva 2002/21/CE del Parlamento europeo e del Consiglio, del 7 marzo 2002; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «contraente», qualunque persona fisica, persona giuridica, ente o associazione parte di un contratto con un fornitore di servizi di comunicazione elettronica accessibili al pubblico per la fornitura di tali servizi, o comunque destinatario di tali servizi tramite schede prepagate; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «utente», qualsiasi persona fisica che utilizza un servizio di comunicazione elettronica accessibile al pubblico, per motivi privati o commerciali, senza esservi necessariamente abbonata; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «dati relativi al traffico», qualsiasi dato sottoposto a trattamento ai fini della trasmissione di una comunicazione su una rete di comunicazione elettronica o della relativa fatturazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «dati relativi all'ubicazione», ogni dato trattato in una rete di comunicazione elettronica o da un servizio di comunicazione elettronica che indica la posizione geografica dell'apparecchiatura terminale dell'utente di un servizio di comunicazione elettronica accessibile al pubblico; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «servizio a valore aggiunto», il servizio che richiede il trattamento dei dati relativi al traffico o dei dati relativi all'ubicazione diversi dai dati relativi al traffico, oltre a quanto e' necessario per la trasmissione di una comunicazione o della relativa fatturazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «posta elettronica», messaggi contenenti testi, voci, suoni o immagini trasmessi attraverso una rete pubblica di comunicazione, che possono essere archiviati in rete o nell'apparecchiatura terminale ricevente, fino a che il ricevente non ne ha preso conoscenza.
+
 ))
 
 ## Art. 122. — Informazioni raccolte nei riguardi dell'contraente o dell'utente
@@ -1100,6 +1771,47 @@ Fuori dei casi di cui ai commi 1 e 2, ulteriori comunicazioni per le finalita' d
 
 In deroga a quanto previsto dall'articolo 129, il trattamento dei dati di cui ((al comma 1 del predetto articolo,)) mediante l'impiego del telefono e della posta cartacea per le finalita' ((di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale)), e' consentito nei confronti di chi non abbia esercitato il diritto di opposizione, con modalita' semplificate e anche in via telematica, mediante l'iscrizione della numerazione della quale e' intestatario e degli altri dati personali di cui ((al comma 1 del predetto articolo,)) in un registro pubblico delle opposizioni. (20)
 
+3-ter.
+                        
+                            
+                                Il registro di cui al comma 3-bis e' istituito con decreto del Presidente della Repubblica da adottare ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, previa deliberazione del Consiglio dei ministri, acquisito il parere del Consiglio di Stato e delle Commissioni parlamentari competenti in materia, che si pronunciano entro trenta giorni dalla richiesta, nonche', per i relativi profili di competenza, il parere dell'Autorita' per le garanzie nelle comunicazioni, che si esprime entro il medesimo termine, secondo i seguenti criteri e principi generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attribuzione dell'istituzione e della gestione del registro ad un ente o organismo pubblico titolare di competenze inerenti alla materia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    previsione che l'ente o organismo deputato all'istituzione e alla gestione del registro vi provveda con le risorse umane e strumentali di cui dispone o affidandone la realizzazione e la gestione a terzi, che se ne assumono interamente gli oneri finanziari e organizzativi, mediante contratto di servizio, nel rispetto del ((codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50)). I soggetti che si avvalgono del registro per effettuare le comunicazioni corrispondono tariffe di accesso basate sugli effettivi costi di funzionamento e di manutenzione. Il Ministro dello sviluppo economico, con proprio provvedimento, determina tali tariffe; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    previsione che le modalita' tecniche di funzionamento del registro consentano ad ogni utente di chiedere che sia iscritta la numerazione della quale e' intestatario secondo modalita' semplificate ed anche in via telematica o telefonica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    previsione di modalita' tecniche di funzionamento e di accesso al registro mediante interrogazioni selettive che non consentano il trasferimento del dati presenti nel registro stesso, prevedendo il tracciamento delle operazioni compiute e la conservazione dei dati relativi agli accessi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disciplina delle tempistiche e delle modalita' dell'iscrizione al registro, senza distinzione di settore di attivita' o di categoria merceologica, e del relativo aggiornamento, nonche' del correlativo periodo massimo di utilizzabilita' dei dati verificati nel registro medesimo, prevedendosi che l'iscrizione abbia durata indefinita e sia revocabile in qualunque momento, mediante strumenti di facile utilizzo e gratuitamente; 
+ f)obbligo per i soggetti che effettuano trattamenti di dati per le finalita' ((di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale)), di garantire la presentazione dell'identificazione della linea chiamante e di fornire all'utente idonee informative, in particolare sulla possibilita' e sulle modalita' di iscrizione nel registro per opporsi a futuri contatti; 
+ g) previsione che l'iscrizione nel registro non precluda i trattamenti dei dati altrimenti acquisiti e trattati nel rispetto degli articoli ((6 e 7 del Regolamento)).
+
 La vigilanza e il controllo sull'organizzazione e il funzionamento del registro di cui al comma 3-bis e sul trattamento dei dati sono attribuiti al Garante.
 
 Fatto salvo quanto previsto nel comma 1 , se il titolare del trattamento utilizza, a fini di vendita diretta di propri prodotti o servizi, le coordinate di posta elettronica fornite dall'interessato nel contesto della vendita di un prodotto o di un servizio, puo' non richiedere il consenso dell'interessato, sempre che si tratti di servizi analoghi a quelli oggetto della vendita e l'interessato, adeguatamente informato, non rifiuti tale uso, inizialmente o in occasione di successive comunicazioni. L'interessato, al momento della raccolta e in occasione dell'invio di ogni comunicazione effettuata per le finalita' di cui al presente comma, e' informato della possibilita' di opporsi in ogni momento al trattamento, in maniera agevole e gratuitamente.
@@ -1130,6 +1842,30 @@ I dati relativi alle chiamate senza risposta, trattati temporaneamente da parte 
 COMMA ABROGATO DAL D.LGS. 30 MAGGIO 2008, N. 109.
 
 Entro il termine di conservazione imposto dalla legge, se sussistono sufficienti indizi di reati per i quali la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel massimo a tre anni, determinata a norma dell'articolo 4 del codice di procedura penale, e di reati di minaccia e di molestia o disturbo alle persone col mezzo del telefono, quando la minaccia, la molestia e il disturbo sono gravi, ove rilevanti per l'accertamento dei fatti ((ovvero per le ricerche di un latitante)), i dati sono acquisiti previa autorizzazione rilasciata dal giudice con decreto motivato, su richiesta del pubblico ministero o su istanza del difensore dell'imputato, della persona sottoposta a indagini, della persona offesa e delle altre parti private.
+
+3-bis.
+                        
+                            
+                                Quando ricorrono ragioni di urgenza e vi e' fondato motivo di ritenere che dal ritardo possa derivare grave pregiudizio alle indagini ((ovvero alle ricerche di un latitante)), il pubblico ministero dispone la acquisizione dei dati con decreto motivato che e' comunicato immediatamente, e comunque non oltre quarantotto ore, al giudice competente per il rilascio dell'autorizzazione in via ordinaria. Il giudice, nelle quarantotto ore successive, decide sulla convalida con decreto motivato. PERIODO SOPPRESSO DAL D.L. 30 SETTEMBRE 2021, N. 132, CONVERTITO CON MODIFICAZIONI DALLA L. 23 NOVEMBRE 2021, N. 178. 
+ 3.bis.1. ((Il pubblico ministero puo' ordinare con decreto motivato ai fornitori e agli operatori di servizi telefonici, informatici o telematici, di conservare e proteggere, secondo le modalita' indicate e per un periodo non superiore a novanta giorni, i dati relativi al traffico telefonico e telematico, esclusi comunque i contenuti delle comunicazioni, nonche' i dati relativi alle chiamate senza risposta.
+Il provvedimento, prorogabile, per motivate esigenze, per una durata complessiva non superiore a sei mesi, puo' prevedere particolari modalita' di custodia dei dati e l'eventuale indisponibilita' dei dati stessi da parte dei fornitori e degli operatori di servizi telefonici, informatici o telematici ovvero di terzi.)) 
+ 3-bis.2. ((Le disposizioni di cui ai commi 3 e 3-bis non si applicano all'acquisizione dei dati relativi agli abbonati. Per dati relativi agli abbonati si intendono i dati detenuti da un prestatore di servizi relativi all'abbonamento ai suoi servizi, riguardanti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((l'identita' di un abbonato o di un cliente, come il nome, la data di nascita, l'indirizzo postale o geografico, i dati di fatturazione e pagamento, il numero di telefono o l'indirizzo e-mail forniti;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((il tipo di servizio e la sua durata, compresi i dati tecnici e i dati che identificano le misure tecniche correlate o le interfacce usate dall'abbonato o dal cliente o a questo fornite al momento della registrazione o dell'attivazione iniziale e i dati connessi alla convalida dell'uso del servizio, ad esclusione di password o altri mezzi di autenticazione usati al posto di una password, forniti dall'utente o creati a sua richiesta.)) 
+ 3.bis.3. ((All'acquisizione dei dati relativi agli abbonati provvede il pubblico ministero ovvero la polizia giudiziaria, di propria iniziativa o a seguito di delega del pubblico ministero, ai sensi dell'articolo 348 del codice di procedura penale.))
 
 Rispetto ai dati conservati per le finalita' indicate al comma 1 i diritti di cui agli articoli da 12 a 22 del Regolamento possono essere esercitati con le modalita' di cui all'articolo 2-undecies, comma 3, terzo, quarto e quinto periodo.
 
@@ -1227,9 +1963,53 @@ Analoghe informazioni sono rese al Garante e all'Autorita' per le garanzie nelle
 
 ## Art. 136. — (Finalita' giornalistiche e altre manifestazioni del pensiero)
 
+1.
+                        
+                            
+                                Le disposizioni del presente titolo si applicano ((, ai sensi dell'articolo 85 del Regolamento,)) al trattamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuato nell'esercizio della professione di giornalista e per l'esclusivo perseguimento delle relative finalita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuato dai soggetti iscritti nell'elenco dei pubblicisti o nel registro dei praticanti di cui agli articoli 26 e 33 della legge 3 febbraio 1963, n. 69; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((...)) finalizzato esclusivamente alla pubblicazione o diffusione ((anche)) occasionale di articoli, saggi e altre manifestazioni del pensiero anche ((nell'espressione accademica, artistica e letteraria.)).
+
 ## Art. 137. — (Disposizioni applicabili)
 
 Con riferimento a quanto previsto dall'articolo 136, possono essere trattati i dati di cui agli articoli 9 e 10 del Regolamento anche senza il consenso dell'interessato, purche' nel rispetto delle regole deontologiche di cui all'articolo 139.
+
+2.
+                        
+                            
+                                Ai trattamenti indicati nell'articolo 136 non si applicano le disposizioni relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle misure di garanzia di cui all'articolo 2-septies ((...)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al trasferimento dei dati verso paesi terzi o organizzazioni internazionali, contenute nel Capo V del Regolamento.
 
 In caso di diffusione o di comunicazione dei dati per le finalita' di cui all'articolo 136 restano fermi i limiti del diritto di cronaca a tutela dei diritti di cui all'articolo 1, paragrafo 2, del Regolamento e all'articolo 1 del presente codice e, in particolare, quello dell'essenzialita' dell'informazione riguardo a fatti di interesse pubblico. Possono essere trattati i dati personali relativi a circostanze o fatti resi noti direttamente dagli interessati o attraverso loro comportamenti in pubblico.
 
@@ -1466,6 +2246,112 @@ Il presidente, i componenti, il segretario generale e i dipendenti si astengono 
 
 ## Art. 154. — (Compiti)
 
+1.
+                        
+                            
+                                Oltre a quanto previsto da specifiche disposizioni e dalla Sezione II del Capo VI del regolamento, il Garante, ai sensi dell'articolo 57, paragrafo 1, lettera v), del Regolamento medesimo, anche di propria iniziativa e avvalendosi dell'Ufficio, in conformita' alla disciplina vigente e nei confronti di uno o piu' titolari del trattamento, ha il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controllare se i trattamenti sono effettuati nel rispetto della disciplina applicabile, anche in caso di loro cessazione e con riferimento alla conservazione dei dati di traffico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trattare i reclami presentati ai sensi del regolamento, e delle disposizioni del presente codice, anche individuando con proprio regolamento modalita' specifiche per la trattazione, nonche' fissando annualmente le priorita' delle questioni emergenti dai reclami che potranno essere istruite nel corso dell'anno di riferimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuovere l'adozione di regole deontologiche, nei casi di cui all'articolo 2-quater; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    denunciare i fatti configurabili come reati perseguibili d'ufficio, dei quali viene a conoscenza nell'esercizio o a causa delle funzioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    trasmettere la relazione, predisposta annualmente ai sensi dell'articolo 59 del Regolamento, al Parlamento e al Governo entro il 31 maggio dell'anno successivo a quello cui si riferisce; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assicurare la tutela dei diritti e delle liberta' fondamentali degli individui dando idonea attuazione al Regolamento e al presente codice; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    provvedere altresi' all'espletamento dei compiti ad esso attribuiti dal diritto dell'Unione europea o dello Stato e svolgere le ulteriori funzioni previste dall'ordinamento.
+
+2.
+                        
+                            
+                                Il Garante svolge altresi', ai sensi del comma 1, la funzione di controllo o assistenza in materia di trattamento dei dati personali prevista da leggi di ratifica di accordi o convenzioni internazionali o da atti comunitari o dell'Unione europea e, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal Regolamento (CE) n. 1987/2006 del Parlamento europeo e del Consiglio, del 20 dicembre 2006, sull'istituzione, l'esercizio e l'uso del sistema d'informazione Schengen di seconda generazione (SIS II) e Decisione 2007/533/GAI del Consiglio, del 12 giugno 2007, sull'istituzione, l'esercizio e l'uso del sistema d'informazione Schengen di seconda generazione (SIS II); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal Regolamento (UE) 2016/794 del Parlamento europeo e del Consiglio, dell'11 maggio 2016, che istituisce l'Agenzia dell'Unione europea per la cooperazione nell'attivita' di contrasto (Europol) e sostituisce e abroga le decisioni del Consiglio 2009/371/GAI, 2009/934/GAI, 2009/935/GAI, 2009/936/GAI e 2009/968/GAI; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dal Regolamento (UE) 2015/1525 del Parlamento europeo e del Consiglio, del 9 settembre 2015, che modifica il Regolamento (CE) n. 515/97 del Consiglio relativo alla mutua assistenza tra le autorita' amministrative degli Stati membri e alla collaborazione tra queste e la Commissione per assicurare la corretta applicazione delle normative doganale e agricola e decisione 2009/917/GAI del Consiglio, del 30 novembre 2009, sull'uso dell'informatica nel settore doganale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dal Regolamento (CE) n. 603/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, che istituisce l'Eurodac per il confronto delle impronte digitali per l'efficace applicazione del Regolamento (UE) n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l'esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un paese terzo o da un apolide e per le richieste di confronto con i dati Eurodac presentate dalle autorita' di contrasto degli Stati membri e da Europol a fini di contrasto, e che modifica il Regolamento (UE) n. 1077/2011 che istituisce un'agenzia europea per la gestione operativa dei sistemi IT su larga scala nello spazio di liberta', sicurezza e giustizia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dal Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (Regolamento VIS) e decisione n. 2008/633/GAI del Consiglio, del 23 giugno 2008, relativa all'accesso per la consultazione al sistema di informazione visti (VIS) da parte delle autorita' designate degli Stati membri e di Europol ai fini della prevenzione, dell'individuazione e dell'investigazione di reati di terrorismo e altri reati gravi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dal Regolamento (CE) n. 1024/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, relativo alla cooperazione amministrativa attraverso il sistema di informazione del mercato interno e che abroga la decisione 2008/49/CE della Commissione (Regolamento IMI) Testo rilevante ai fini del SEE; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dalle disposizioni di cui al capitolo IV della Convenzione n. 108 sulla protezione delle persone rispetto al trattamento automatizzato di dati di carattere personale, adottata a Strasburgo il 28 gennaio 1981 e resa esecutiva con legge 21 febbraio 1989, n. 98, quale autorita' designata ai fini della cooperazione tra Stati ai sensi dell'articolo 13 della convenzione medesima.
+
 Per quanto non previsto dal Regolamento e dal presente codice, il Garante disciplina con proprio Regolamento, ai sensi dell'articolo 156, comma 3, le modalita' specifiche dei procedimenti relativi all'esercizio dei compiti e dei poteri ad esso attribuiti dal Regolamento e dal presente codice.
 
 Il Garante collabora con altre autorita' amministrative indipendenti nazionali nello svolgimento dei rispettivi compiti.
@@ -1492,6 +2378,24 @@ Il Garante non e' competente per il controllo dei trattamenti effettuati dalle a
 ((
 
 .
+
+1.
+                        
+                            
+                                Oltre a quanto previsto da specifiche disposizioni, dalla Sezione II del Capo VI del Regolamento e dal presente codice, ai sensi dell'articolo 58, paragrafo 6, del Regolamento medesimo, il Garante ha il potere di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adottare linee guida di indirizzo riguardanti le misure organizzative e tecniche di attuazione dei principi del Regolamento, anche per singoli settori e in applicazione dei principi di cui all'articolo 25 del Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    approvare le regole deontologiche di cui all'articolo 2-quater.
 
 Il Garante puo' invitare rappresentanti di un'altra autorita' amministrativa indipendente nazionale a partecipare alle proprie riunioni, o essere invitato alle riunioni di altra autorita' amministrativa indipendente nazionale, prendendo parte alla discussione di argomenti di comune interesse; puo' richiedere, altresi', la collaborazione di personale specializzato addetto ad altra autorita' amministrativa indipendente nazionale.
 
@@ -1526,6 +2430,45 @@ All'Ufficio del Garante, al fine di garantire la responsabilita' e l'autonomia a
 All'Ufficio del Garante e' preposto un segretario generale, nominato tra persone di elevata e comprovata qualificazione professionale rispetto al ruolo e agli obiettivi da conseguire, scelto anche tra i magistrati ordinari, amministrativi e contabili, gli avvocati dello Stato, i professori universitari di ruolo in materie giuridiche ed economiche, nonche' i dirigenti di prima fascia dello Stato.
 
 ((A decorrere dal 1° gennaio 2022, il ruolo organico del personale dipendente e' stabilito nel limite di duecento unita')). Al ruolo organico del Garante si accede esclusivamente mediante concorso pubblico. Nei casi in cui sia ritenuto utile al fine di garantire l'economicita' e l'efficienza dell'azione amministrativa, nonche' di favorire il reclutamento di personale con maggiore esperienza nell'ambito delle procedure concorsuali di cui al secondo periodo, il Garante puo' riservare una quota non superiore al cinquanta per cento dei posti banditi al personale di ruolo delle amministrazioni pubbliche che sia stato assunto per concorso pubblico e abbia maturato un'esperienza almeno triennale nel rispettivo ruolo organico. La disposizione di cui all'articolo 30 del decreto legislativo 30 marzo 2001, n. 165, si applica esclusivamente nell'ambito del personale di ruolo delle autorita' amministrative indipendenti di cui all'articolo 22, comma 1, del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n.114.
+
+3.
+                        
+                            
+                                Con propri regolamenti pubblicati nella Gazzetta Ufficiale della Repubblica italiana, il Garante definisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'organizzazione e il funzionamento dell'Ufficio anche ai fini dello svolgimento dei compiti e dell'esercizio dei poteri di cui agli articoli 154, 154-bis, 160, nonche' all'articolo 57, paragrafo 1, del Regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ordinamento delle carriere e le modalita' di reclutamento del personale secondo i principi e le procedure di cui agli articoli 1, 35 e 36 del decreto legislativo n. 165 del 2001; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la ripartizione dell'organico tra le diverse aree e qualifiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il trattamento giuridico ed economico del personale, secondo i criteri previsti dalla legge 31 luglio 1997, n. 249, e, per gli incarichi dirigenziali, dagli articoli 19, comma 6, e 23-bis del decreto legislativo 30 marzo 2001, n. 165, tenuto conto delle specifiche esigenze funzionali e organizzative. Nelle more della piu' generale razionalizzazione del trattamento economico delle autorita' amministrative indipendenti, al personale e' attribuito ((il trattamento)) economico del personale dell'Autorita' per le garanzie nelle comunicazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la gestione amministrativa e la contabilita', anche in deroga alle norme sulla contabilita' generale dello Stato.
 
 L'Ufficio puo' avvalersi, per motivate esigenze, di dipendenti dello Stato o di altre amministrazioni pubbliche o di enti pubblici collocati in posizione di fuori ruolo o equiparati nelle forme previste dai rispettivi ordinamenti, ovvero in aspettativa ai sensi dell'articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, in numero non superiore, complessivamente, a ((trenta unita')) e per non oltre il venti per cento delle qualifiche dirigenziali, lasciando non coperto un corrispondente numero di posti di ruolo.
 
@@ -1801,7 +2744,169 @@ L'articolo 10 della legge 1 aprile 1981, n. 121, e successive modificazioni, e' 
 
 ## Art. 183. — (Norme abrogate)
 
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente codice sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 31 dicembre 1996, n. 675;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 3 novembre 2000, n. 325;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto legislativo 9 maggio 1997, n. 123;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto legislativo 28 luglio 1997, n. 255;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 1 del decreto legislativo 8 maggio 1998, n. 135;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto legislativo 13 maggio 1998, n. 171;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto legislativo 6 novembre 1998, n. 389;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il decreto legislativo 26 febbraio 1999, n. 51;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il decreto legislativo 11 maggio 1999, n. 135;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il decreto legislativo 30 luglio 1999, n. 281, ad eccezione degli articoli 8, comma 1, 11 e 12;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il decreto legislativo 30 luglio 1999, n. 282;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il decreto legislativo 28 dicembre 2001, n. 467;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto del Presidente della Repubblica 28 luglio 1999, n. 318.
+
 Dalla data di entrata in vigore del presente codice sono abrogati gli articoli 12, 13, 14, 15, 16, 17, 18, 19 e 20 del decreto del Presidente della Repubblica 31 marzo 1998, n. 501.
+
+3.
+                        
+                            
+                                Dalla data di entrata in vigore del presente codice sono o restano, altresi', abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'art. 5, comma 9, del decreto del Ministro della sanita' 18 maggio 2001, n. 279, in materia di malattie rare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 12 della legge 30 marzo 2001, n. 152;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 4, comma 3, della legge 6 marzo 2001, n. 52, in materia di donatori midollo osseo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 16, commi 2 e 3, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, in materia di certificati di assistenza al parto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'art. 2, comma 5, del decreto del Ministro della sanita' 27 ottobre 2000, n. 380, in materia di flussi informativi sui dimessi dagli istituti di ricovero;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 2, comma 5-quater 1, secondo e terzo periodo, del decreto-legge 28 marzo 2000, n. 70, convertito, con modificazioni, dalla legge 26 maggio 2000, n. 137, e successive modificazioni, in materia di banca dati sinistri in ambito assicurativo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 6, comma 4, del decreto legislativo 5 giugno 1998, n. 204, in materia di diffusione di dati a fini di ricerca e collaborazione in campo scientifico e tecnologico;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 330-bis del decreto legislativo 16 aprile 1994, n. 297, in materia di diffusione di dati relativi a studenti;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 8, quarto comma, e l'articolo 9, quarto comma, della legge 1 aprile 1981, n. 121.
 
 Dalla data in cui divengono efficaci le disposizioni del codice di deontologia e di buona condotta di cui all'articolo 118, i termini di conservazione dei dati personali individuati ai sensi dell'articolo 119, eventualmente previsti da norme di legge o di regolamento, si osservano nella misura indicata dal medesimo codice.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-09-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,7 +28,71 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per Ministro o Ministero, rispettivamente il Ministro e il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per universita', ateneo o atenei, tutte le istituzioni universitarie italiane, statali e non statali, comunque denominate, ivi compresi gli istituti universitari a ordinamento speciale e le universita' telematiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per corsi di studio, i corsi definiti dall'articolo 3 del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per sede, la sede amministrativa e decentrata delle universita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per ANVUR, l'Agenzia nazionale di valutazione del sistema universitario e della ricerca.
+
 ## Art. 2. — Oggetto
+
+1.
+                        
+                            
+                                Per le finalita' stabilite all'articolo 5, comma 1, lettera a), primo periodo, della legge 30 dicembre 2010, n. 240, il presente decreto disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'introduzione di un sistema di accreditamento iniziale e periodico delle sedi e dei corsi di studio universitari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'introduzione di un sistema di valutazione e di assicurazione della qualita', dell'efficienza e dell'efficacia della didattica e della ricerca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il potenziamento del sistema di autovalutazione della qualita' e dell'efficacia delle attivita' didattiche e di ricerca delle universita'.
 
 In coerenza con gli obiettivi e gli indirizzi strategici del sistema universitario definiti dal Ministro in sede di programmazione triennale, con il programma di qualita' approvato annualmente ai sensi dell'articolo 2, comma 2, del decreto del Presidente Repubblica 1° febbraio 2010, n. 76, con gli esiti delle valutazioni di cui alla lettera b) del comma 1, nonche' con gli indirizzi programmatici e gli obiettivi qualitativi di ciascun ateneo, il presente decreto prevede, all'articolo 15, meccanismi volti a garantire incentivi, in misura proporzionale, alle universita' che abbiano conseguito efficienza e risultati nell'ambito della didattica e della ricerca, nonche' la valorizzazione della figura dei ricercatori non confermati per il primo anno di attivita' attraverso la revisione del rispettivo trattamento economico, secondo quanto stabilito all'articolo 16.
 
@@ -40,11 +104,54 @@ Le disposizioni del CAPO II non si applicano ai corsi di dottorato di ricerca, p
 
 ## Art. 4. — Sistema nazionale di valutazione, assicurazione della qualita' e accreditamento delle universita'
 
+1.
+                        
+                            
+                                Il sistema nazionale di valutazione, assicurazione della qualita' e accreditamento delle universita' opera in coerenza con gli standard e le linee guida per l'assicurazione della qualita' nell'area europea dell'istruzione superiore e si articola in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un sistema di valutazione interna attivato in ciascuna universita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un sistema di valutazione esterna delle universita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un sistema di accreditamento delle sedi e dei corsi di studio delle universita'.
+
 In tutti i processi della valutazione e' assicurato il confronto tra le risultanze della valutazione interna e quelle della valutazione esterna.
 
 ## - Capo II Sistema di accreditamento delle sedi e dei corsi di studio  universitari
 
 ## Art. 5. — Sistema di accreditamento
+
+1.
+                        
+                            
+                                Il sistema di accreditamento iniziale e periodico di cui all'articolo 2, comma 1, lettera a), ha ad oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le sedi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i corsi di studio universitari.
 
 Per accreditamento iniziale si intende l'autorizzazione all'Universita' da parte del Ministero ad attivare sedi e corsi di studio. L'accreditamento iniziale comporta l'accertamento della rispondenza delle sedi e dei corsi di studio agli indicatori ex ante definiti dall'ANVUR ai sensi dell'articolo 6, volti a misurare e verificare i requisiti didattici, strutturali, organizzativi, di qualificazione dei docenti e di qualificazione della ricerca idonei a garantire qualita', efficienza ed efficacia nonche' a verificare la sostenibilita' economico-finanziaria delle attivita'.
 
@@ -136,6 +243,31 @@ I criteri e gli indicatori, elaborati in coerenza con gli standard e le linee gu
 
 I criteri e gli indicatori di cui al comma 1 traducono gli standard, le procedure e le linee guida adottate a livello europeo in parametri oggettivi, volti a misurare in ogni momento l'efficienza e l'efficacia della didattica e della ricerca messa in atto dai singoli atenei e a stimolare la competitivita' e la qualita' degli stessi.
 
+4.
+                        
+                            
+                                L'attivita' di cui al comma 1 tiene conto, altresi', dei seguenti principi, connessi al sistema di valutazione definito al presente Capo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    omogeneita', in modo da consentirne l'applicazione su tutto il territorio nazionale per il raggiungimento di un livello di qualita' uniforme, secondo quanto stabilito dal programma di qualita' di cui all'articolo 2, comma 2, del decreto del Presidente della Repubblica 1° febbraio 2010, n. 76; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capacita' di riflettere le attuali tendenze di aggregazione dei corsi e delle strutture universitarie e di diffusione dei risultati della ricerca nel contesto sociale e produttivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capacita' di esprimere coerenza tra la programmazione triennale dell'ateneo e le linee generali di indirizzo emanate dal Ministro ai sensi dell'articolo 1-ter, comma 1, del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43.
+
 Al fine di garantirne la massima pubblicita', i criteri e gli indicatori di cui al comma 1 sono pubblicati sul sito istituzionale del Ministero, sul sito istituzionale dell'ANVUR e sul sito web di ciascuna universita'.
 
 I criteri e gli indicatori sono oggetto di revisione periodica, con cadenza triennale, al fine di renderli costantemente coerenti con le linee guida definite a livello europeo e in linea con gli obiettivi qualitativi e le linee programmatiche di cui al comma 2, nonche' per tenere conto degli esiti dell'attivita' di monitoraggio di cui all'articolo 11. I nuovi indicatori sono soggetti all'espletamento della procedura di definizione, adozione e pubblicita' di cui al presente articolo.
@@ -182,6 +314,31 @@ La relazione di cui al comma 1 e' redatta sulla base di specifiche indicazioni d
 
 Il Ministero, per le finalita' indicate all'articolo 2, comma 2, destina annualmente una percentuale dello stanziamento previsto per il Fondo di finanziamento ordinario delle universita' (FFO) da ripartire tra gli atenei in relazione ai risultati conseguiti nella didattica e nella ricerca, con le modalita' stabilite dall'articolo 2 del decreto-legge 10 novembre 2008, n. 180, convertito, con modificazioni, dalla legge 9 gennaio 2009, n. 1.
 
+2.
+                        
+                            
+                                Per le finalita' definite al comma 1, l'ANVUR redige e trasmette al Ministero entro il 31 luglio di ogni anno una relazione sui risultati dell'attivita' di monitoraggio di cui all'articolo 11 e di controllo interno di cui all'articolo 12, in cui evidenzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il grado di rispondenza delle universita' e delle singole articolazioni interne ai criteri e agli indicatori di cui all'articolo 10; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il grado di coerenza della programmazione compiuta dall'ateneo e le linee generali di indirizzo emanate dal Ministro ai sensi del comma 1 dell'articolo 1-ter del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il grado di raggiungimento degli obiettivi strategici programmati dalle universita' e controllati annualmente ai sensi dell'articolo 12.
+
 Il Ministero, su parere dell'ANVUR, seleziona gli atenei che hanno ottenuto i migliori risultati e attribuisce, con decreto, sulla base delle risorse complessivamente disponibili, l'incentivo di cui al comma 1 in ordine decrescente, partendo dall'ateneo che ha conseguito il piu' alto grado di raggiungimento degli obiettivi.
 
 ## Art. 16. — Valorizzazione della figura dei ricercatori a tempo indeterminato non confermati
@@ -197,6 +354,39 @@ All'onere derivante dall'applicazione del comma 1 si provvede nel limite massimo
 I sistemi di accreditamento e di valutazione di cui al presente decreto legislativo entrano in vigore a partire dall'anno accademico successivo a quello nel quale sono emanati gli atti di competenza dell'ANVUR previsti agli articoli 6 e 10.
 
 Fino alla data di emanazione degli atti di cui al comma 1, continua a trovare applicazione il sistema di valutazione dei programmi degli atenei di cui al comma 2 dell'articolo 1-ter del decreto-legge 31 gennaio 2005, n. 7, convertito, con modificazioni, dalla legge 31 marzo 2005, n. 43.
+
+3.
+                        
+                            
+                                A decorrere dalla data di emanazione degli atti di competenza dell'ANVUR previsti agli articoli 6 e 10 del presente decreto, il decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 22 ottobre 2004, n. 270, e' cosi' modificato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 9 il comma 2 e' sostituito dal seguente: 
+ " 2. Con apposite deliberazioni le universita' attivano i propri corsi di studio, nel rispetto della procedura di accreditamento definita dal decreto legislativo emanato in attuazione della delega prevista dall'articolo 5, comma 1, lettera a), della legge 30 dicembre 2010, n. 240 . Nel caso di mancata conferma dell'accreditamento di uno o piu' corsi, le universita' assicurano la possibilita' per gli studenti gia' iscritti di concludere gli studi, conseguendo il relativo titolo e disciplinando le modalita' di esercizio della facolta' di opzione per altri corsi di studio accreditati ed attivati."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 11, comma 7, lettera b), sono aggiunte, in fine, le seguenti parole: "in coerenza con le misurazioni dei risultati ottenuti nell'apprendimento effettuate dalle commissioni paritetiche docenti-studenti"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 11, comma 7, lettera l), sono aggiunte, in fine, le seguenti parole: " anche per il monitoraggio degli obiettivi strategici programmati ogni triennio"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 11, comma 7, lettera m), sono aggiunte, in fine, le seguenti parole: "anche in modo coordinato rispetto a quanto definito dall'ANVUR per il monitoraggio sulla valutazione dei risultati conseguiti nell'ambito della didattica e della ricerca dall'ateneo e dalle proprie articolazioni interne".
 
 ## Art. 18. — Disposizioni finanziarie
 

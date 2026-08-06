@@ -8,8 +8,8 @@ codice_redazionale: 097G0139
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,31 @@ Udito il parere del Consiglio di Stato, espresso nella adunanza generale del 16 
 Sulla proposta del Ministro dell'universita' e della ricerca scientifica e tecnologica, di concerto con il Ministro dell'industria, del commercio e dell'artigianato;
 
 ## Art. 1. — O g g e t t o
+
+1.
+                    
+                        
+                            Per promuovere l'accrescimento della competitivita' tecnologica delle piccole e medie imprese e per favorirne l'accesso alle conoscenze ed alle innovazioni tecnologiche, l'attivita' di trasferimento tecnologico e' configurata quale relazione diretta della domanda e dell'offerta di tecnologia, comprensiva delle attivita' preliminari e funzionali collegate, anche di tipo formativo, purche' finalizzate a generare un processo di trasferimento; tali attivita' riguardano: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'individuazione dei fabbisogni tecnologici di una pluralita' di piccole e medie imprese con l'indicazione di potenziali soggetti attuatori del trasferimento, nonche' con la valutazione tecnico- economica dei costi e dei benefici delle successive iniziative di trasferimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la concreta attuazione dei progetti di trasferimento in favore di una singola piccola e media impresa o di un consorzio di piccole e medie imprese nonche', anche disgiuntamente, la valutazione di fattibilita' tecnico-economica dell'iniziativa di trasferimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la costituzione e l'ampliamento di strutture di trasferimento.
 
 ## Art. 2. — Destinatari finali delle iniziative
 

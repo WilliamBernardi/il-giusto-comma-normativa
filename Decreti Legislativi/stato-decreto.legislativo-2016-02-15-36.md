@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-02-15;36
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,45 @@ Il presente decreto attua nell'ordinamento interno le disposizioni della decisio
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «decisione quadro»: la decisione quadro 2009/829/GAI del Consiglio, del 23 ottobre 2009, relativa all'applicazione del principio del reciproco riconoscimento alle decisioni sulle misure alternative alla detenzione cautelare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «decisione sulle misure cautelari»: un provvedimento emesso nel corso del procedimento penale dall'autorita' giudiziaria con cui si impongono a una persona fisica, in alternativa alla detenzione cautelare, uno o piu' obblighi e prescrizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «misure cautelari»: gli obblighi e le prescrizioni imposti dalla decisione sulle misure cautelari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Stato di emissione»: lo Stato membro a cui appartiene l'autorita' giudiziaria che ha emesso la decisione sulle misure cautelari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «Stato di esecuzione»: lo Stato membro a cui e' trasmessa la decisione sulle misure cautelari ai fini del suo riconoscimento.
+
 ## Art. 3.
 
 Autorita' competenti
@@ -42,6 +81,59 @@ Nei limiti indicati dal presente decreto, e' consentita la corrispondenza dirett
 
 ## Art. 4. — Obblighi e prescrizioni impartiti con la decisione 
  sulle misure cautelari
+
+1.
+                        
+                            
+                                Il presente decreto, fatto salvo quanto previsto dal decreto legislativo 11 febbraio 2015, n. 9, di attuazione della direttiva 2011/99/UE del Parlamento europeo e del Consiglio, del 13 dicembre 2011, sull'ordine di protezione europeo, si applica alle seguenti misure cautelari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    obbligo di comunicare ogni cambiamento di residenza, in particolare al fine di assicurare la ricezione della citazione a comparire a un'audizione o in giudizio nel corso del procedimento penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    divieto di frequentare determinati luoghi, posti o zone del territorio dello Stato di emissione o dello Stato di esecuzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    obbligo di rimanere in un luogo determinato, eventualmente in ore stabilite; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    restrizioni del diritto di lasciare il territorio dello Stato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    obbligo di presentarsi nelle ore fissate alla autorita' indicata nel provvedimento impositivo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    obbligo di evitare contatti con determinate persone che possono essere a qualunque titolo coinvolte nel reato per il quale si procede; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    divieto temporaneo di esercitare determinate attivita' professionali.
 
 ## - Capo II Trasmissione all'estero
 
@@ -77,6 +169,31 @@ In caso di mancato riconoscimento della decisione sulle misure cautelari, il Min
 
 Quando l'autorita' competente dello Stato di esecuzione da' notizia dell'avvenuto riconoscimento della decisione sulle misure cautelari, l'autorita' giudiziaria italiana non e' piu' tenuta all'adozione dei provvedimenti necessari alla sorveglianza degli obblighi e delle prescrizioni impartiti, salvo nel caso di ritiro del certificato di cui allegato I al presente decreto ai sensi dell'articolo 7, comma 3.
 
+2.
+                        
+                            
+                                L'autorita' giudiziaria italiana riassume l'esercizio del potere di sorveglianza in conseguenza della comunicazione, ad opera dell'autorita' competente dello Stato di esecuzione, della cessazione della propria competenza per l'esecuzione in ragione del fatto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che l'interessato non ha piu' la residenza legale e abituale in quello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che, a seguito della modifica delle misure cautelari disposta dall'autorita' giudiziaria italiana, manca una corrispondenza con quelle previste dalla legislazione di quello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che e' scaduto il termine massimo di sorveglianza delle misure cautelari stabilito dalla legislazione di quello Stato.
+
 Spetta all'autorita' giudiziaria italiana la competenza a decidere in ordine alla proroga, alla revoca della decisione sulle misure cautelari, alla modifica degli obblighi e delle prescrizioni imposti e all'emissione di un mandato di arresto o di qualsiasi altra decisione giudiziaria esecutiva avente medesima forza.
 
 ## - Capo III Trasmissione dall'estero
@@ -89,11 +206,264 @@ Quando la corte di appello rileva la propria incompetenza, la dichiara con ordin
 
 ## Art. 10. — Condizioni per il riconoscimento
 
+1.
+                        
+                            
+                                La corte di appello riconosce la decisione sulle misure cautelari quando ricorrono congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la persona interessata ha la residenza legale e abituale nel territorio dello Stato o ha manifestato la volonta' di ivi recarsi per porre la sua dimora in vista dell'esecuzione delle misure cautelari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il fatto per cui e' stata emessa la decisione sulle misure cautelari e' previsto come reato anche dalla legge nazionale, indipendentemente dagli elementi costitutivi o dalla denominazione del reato, salvo quanto previsto dall'articolo 11; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la durata e la natura degli obblighi e prescrizioni impartiti sono compatibili con la legislazione italiana, salva la possibilita' di un adattamento nei limiti stabiliti dal comma 2.
+
 Se la natura o la durata degli obblighi e delle prescrizioni impartiti con le misure cautelari sono incompatibili con la disciplina prevista dall'ordinamento italiano per corrispondenti reati, la corte di appello, dandone informazione all'autorita' competente dello Stato di emissione, procede ai necessari adeguamenti, con le minime deroghe necessarie rispetto a quanto previsto dallo Stato di emissione. In ogni caso l'adeguamento non puo' comportare l'aggravamento, per contenuto o durata, degli obblighi e delle prescrizioni originariamente imposti.
 
 ## Art. 11.
 
 Deroghe alla doppia punibilita'
+
+1.
+                        
+                            
+                                Si fa luogo al riconoscimento, indipendentemente dalla doppia incriminazione, se il reato per il quale e' chiesta la trasmissione e' punito nello Stato di emissione con una pena detentiva o una misura privativa della liberta' personale della durata massima non inferiore a tre anni e si riferisce a una delle seguenti fattispecie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    associazione per delinquere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    terrorismo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tratta di esseri umani; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sfruttamento sessuale dei bambini e pornografia infantile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    traffico illecito di stupefacenti e sostanze psicotrope; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    traffico illecito di armi, munizioni ed esplosivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    corruzione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    frode, compresa la frode che lede gli interessi finanziari delle Comunita' europee ai sensi della convenzione del 26 luglio 1995, relativa alla tutela degli interessi finanziari delle Comunita' europee; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    riciclaggio; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    falsificazione e contraffazione di monete; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    criminalita' informatica; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    criminalita' ambientale, compreso il traffico illecito di specie animali protette e il traffico illecito di specie e di essenze vegetali protette; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    favoreggiamento dell'ingresso e del soggiorno illegali di cittadini non appartenenti a Stati membri dell'Unione europea; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    omicidio volontario, lesioni personali gravi; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    traffico illecito di organi e tessuti umani; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    sequestro di persona; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    razzismo e xenofobia; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    furti organizzati o con l'uso di armi; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    traffico illecito di beni culturali, compresi gli oggetti d'antiquariato e le opere d'arte; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    truffa; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    estorsione; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    contraffazione e pirateria in materia di prodotti; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    falsificazione di atti amministrativi e traffico di documenti falsi; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    falsificazione di mezzi di pagamento; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    traffico illecito di sostanze ormonali ed altri fattori di crescita; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    traffico illecito di materie nucleari e radioattive; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    traffico di veicoli rubati; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    violenza sessuale; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    incendio; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    reati che rientrano nella competenza giurisdizionale della Corte penale internazionale; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    dirottamento di nave o aeromobile; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    sabotaggio.
 
 In tale caso, la corte di appello accerta la corrispondenza tra la definizione dei reati per i quali e' richiesta la trasmissione, secondo la legge dello Stato di emissione, e le fattispecie medesime.
 
@@ -117,6 +487,59 @@ La decisione definitiva e' immediatamente trasmessa al Ministero della giustizia
 
 ## Art. 13. — Motivi di rifiuto del riconoscimento
 
+1.
+                        
+                            
+                                La corte di appello puo' rifiutare il riconoscimento della decisione sulle misure cautelari in uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se non sussiste una o piu' delle condizioni di cui all'articolo 10, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il certificato trasmesso dall'autorita' competente dello Stato di emissione e' incompleto o manifestamente non corrisponde alla decisione sulle misure cautelari e non e' stato completato o corretto entro il termine fissato ai sensi dell'articolo 12, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se risulta che il riconoscimento della decisione sulle misure cautelari viola il divieto di sottoporre una persona, gia' definitivamente giudicata, ad un nuovo processo per i medesimi fatti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i reati non elencati nell'articolo 11, se i fatti oggetto della decisione non sono previsti come reato anche dalla legislazione italiana. L'esecuzione non puo' essere rifiutata, in materia di tasse o di imposte, di dogana e di moneta, se la legislazione italiana non impone lo stesso tipo di tasse o di imposte o non contiene lo stesso tipo di disciplina in materia di tasse o di imposte, di dogana e di moneta, della legislazione dello Stato di emissione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se per i fatti per i quali la trasmissione dall'estero e' stata chiesta si sia gia' verificata la prescrizione del reato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se sussiste una causa di immunita' riconosciuta dall'ordinamento italiano che rende impossibile l'esecuzione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    se la misura e' stata irrogata nei confronti di una persona che, alla data di commissione del fatto, non era imputabile per l'eta', secondo la legge italiana.
+
 Nei casi di cui al comma 1, lettere a), b) e c), la corte di appello, prima di decidere di rifiutare il riconoscimento e la sorveglianza, consulta, anche tramite il Ministero della giustizia, con qualsiasi mezzo che lasci una traccia scritta, l'autorita' competente dello Stato di emissione e richiede ogni informazione utile alla decisione.
 
 ## Art. 14. — Effetti del riconoscimento
@@ -128,6 +551,45 @@ Alla sorveglianza provvede il procuratore generale presso la corte di appello ch
 Il procuratore generale informa, anche tramite il Ministero della giustizia, l'autorita' competente dello Stato di emissione di qualsiasi inosservanza degli obblighi e delle prescrizioni imposti con la decisione sulla misura cautelare e di qualsiasi altro elemento tale da comportare l'adozione di un provvedimento di revoca della decisione o di modifica degli obblighi e delle prescrizioni imposti, tramite il modulo di cui all'allegato II al presente decreto.
 
 ## Art. 15. — Cessazione della competenza
+
+1.
+                        
+                            
+                                La competenza per la sorveglianza delle misure cautelari cessa, dandone informazione all'autorita' competente dello Stato di emissione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'interessato ha stabilito la residenza legale e abituale in uno Stato diverso dallo Stato italiano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'interessato, dopo la trasmissione della decisione sulle misure cautelari e del certificato da parte dello Stato di emissione, non si trova piu' sul territorio dello Stato italiano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se l'autorita' competente dello Stato di emissione ha modificato gli obblighi e le prescrizioni delle misure cautelari e, non corrispondendo piu' questi alle misure previste dalla legislazione italiana, l'autorita' italiana procedente ha rifiutato l'esercizio dei poteri di sorveglianza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando sono scaduti i termini massimi, previsti dalla legge italiana, per la sorveglianza delle misure cautelari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se l'autorita' italiana procedente ha deciso di porre fine alla sorveglianza, in caso di mancato riscontro alla comunicazione, nonostante la fissazione di un termine ragionevole, dell'inosservanza degli obblighi e delle prescrizioni tale da comportare il riesame, la revoca della decisione sulle misure cautelari o la modifica degli obblighi e delle prescrizioni impartiti.
 
 ## Art. 16. — Spese
 

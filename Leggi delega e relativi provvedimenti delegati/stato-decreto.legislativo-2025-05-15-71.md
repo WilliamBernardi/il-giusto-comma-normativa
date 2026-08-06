@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-05-15;71
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,66 @@ Oggetto e finalita'
 Il presente decreto disciplina le nuove modalita' di accesso ai corsi di laurea magistrale a ciclo unico in medicina e chirurgia (LM-41), in odontoiatria e protesi dentaria (LM-46) e in medicina veterinaria (LM-42), al fine di garantire il potenziamento del Servizio sanitario nazionale (SSN), la qualita' della formazione e la sostenibilita' del sistema universitario.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Ministro» e «Ministero»: rispettivamente il Ministro dell'universita' e della ricerca e il Ministero dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «CUN»: il Consiglio universitario nazionale di cui alla legge 16 gennaio 2006, n. 18; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «legge di delega», la legge 14 marzo 2025, n. 26; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «semestre filtro»: il primo semestre immediatamente successivo all'iscrizione ai corsi di laurea magistrale a ciclo unico di cui all'articolo 1; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «iscrizione»: l'iscrizione al semestre filtro e al primo semestre dei corsi di laurea e di laurea magistrale a ciclo unico diversi da quelli di cui all'articolo 1; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «immatricolazione»: l'iscrizione al secondo semestre dei corsi di laurea magistrale a ciclo unico di cui all'articolo 1 e al secondo semestre dei corsi di laurea e di laurea magistrale diversi da quelli di cui all'articolo 1; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «SSN»: il Servizio sanitario nazionale di cui alla legge 23 dicembre 1978, n. 833; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «CFU»: i crediti formativi universitari di cui al decreto del Ministero dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270.
 
 ## Art. 3. — Principi
 

@@ -8,8 +8,8 @@ codice_redazionale: 006G0020
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -49,9 +49,225 @@ A decorrere dal 1° gennaio 2005 lo stipendio tabellare e' rideterminato per cia
 
 ## Art. 5. — Fondo per la retribuzione di posizione e la retribuzione di risultato
 
+1.
+                    
+                        
+                            Il fondo per la retribuzione di posizione e di risultato di cui all'articolo 20 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, ferme restando le modifiche ed integrazioni previste dall'articolo 15 del decreto del Presidente della Repubblica 1° agosto 2003, n. 252, continua ad essere definito con le modalita' ivi indicate ed e' alimentato dalle seguenti ulteriori risorse finanziarie:
+ 
+                        
+                        
+                            a)
+                            
+                                Euro 60,22 lordi mensili pro capite dal 1° gennaio 2004 al 31 dicembre 2004 per tredici mensilita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                Euro 167,58 lordi mensili pro capite dal 1° gennaio 2005 al 30 aprile 2005 per quattro mensilita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                Euro 177,22 lordi mensili pro capite dal 1° maggio 2005 al 31 dicembre 2005 per nove mensilita'.
+
 Le risorse del fondo di cui al comma 1 eventualmente non utilizzate alla fine dell'esercizio finanziario sono riassegnate all'anno successivo.
 
 ## Art. 6. — Retribuzione di posizione
+
+1.
+                    
+                        
+                            La retribuzione di posizione - parte fissa e' stabilita nei seguenti importi annui lordi per tredici mensilita':
+a decorrere dal 1° gennaio 2004:
+ 
+                        
+                        
+                            a)
+                            
+                                posizioni funzionali della qualifica di prefetto: Euro 21.100,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizioni funzionali della qualifica di viceprefetto: Euro 11.900,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizioni funzionali della qualifica di viceprefetto aggiunto:
+Euro 6.200,00;
+a decorrere dal 1° gennaio 2005:
+ a) posizioni funzionali della qualifica di prefetto: Euro 22.600,00;
+ b) posizioni funzionali della qualifica di viceprefetto: Euro 12.800,00;
+ c) posizioni funzionali della qualifica di viceprefetto aggiunto:
+Euro 6.700,00.
+
+2.
+                    
+                        
+                            Per l'anno 2004 la retribuzione di posizione, correlata alle posizioni funzionali individuate con decreto del Ministro dell'interno in data 14 maggio 2003, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera a): Euro 32.597,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera b): Euro 28.177,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera c): Euro 22.671,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera d): Euro 21.597,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera e): Euro 17.311,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera f): Euro 14.016,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera g): Euro 10.214,00.
+
+3.
+                    
+                        
+                            A decorrere dal 1° gennaio 2005 la retribuzione di posizione, correlata alle posizioni funzionali individuate con decreto del Ministro dell'interno in data 14 maggio 2003, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera a): Euro 34.969,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera b): Euro 30.264,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera c): Euro 24.411,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera d): Euro 23.028,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera e): Euro 18.558,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera f): Euro 15.090,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera g): Euro 11.043,00.
+
+4.
+                    
+                        
+                            A decorrere dal 1° maggio 2005 la retribuzione di posizione, correlata alle posizioni funzionali individuate con decreto del Ministro dell'interno in data 14 maggio 2003, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera a): Euro 34.969,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera b): Euro 30.264,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera c): Euro 24.411,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera d): Euro 23.028,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera e): Euro 18.771,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera f): Euro 15.090,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera g): Euro 11.193,00.
 
 Ai funzionari promossi alla qualifica superiore, per il periodo intercorrente tra la data di cui all'articolo 7, comma 4, del decreto legislativo 19 maggio 2000, n. 139, e quella di conferimento dell'incarico connesso alla nuova qualifica, competono la retribuzione di posizione e la retribuzione di risultato nelle misure minime previste per la qualifica acquisita, salvo recupero delle maggiori somme corrisposte in caso di mancato superamento del corso.
 
@@ -70,6 +286,31 @@ In caso di modifica del decreto del Ministro dell'interno in data 14 maggio 2003
 Al funzionario prefettizio, per l'espletamento degli incarichi individuati dal decreto del Ministro dell'interno in data 14 maggio 2003, compete comunque un unico trattamento economico accessorio. Nei casi di temporaneo conferimento di un ulteriore o diverso incarico, nei casi di sostituzione a norma dell'articolo 10 del decreto legislativo 19 maggio 2000, n. 139, per periodi non inferiori a tre mesi, nonche' in quelli di conferimento temporaneo di incarico riconducibile a posizione funzionale superiore, limitatamente al periodo di espletamento degli stessi, la misura del trattamento accessorio e' definita in sede di accordi decentrati a livello centrale nell'ambito delle disponibilita' del fondo e senza oneri aggiuntivi.
 
 ## Art. 7. — Retribuzione di risultato
+
+1.
+                    
+                        
+                            Il Ministro dell'interno, con proprio decreto, all'inizio di ogni anno determina gli importi spettanti come retribuzione di risultato, da erogare mensilmente per tredici mensilita' ai funzionari prefettizi, ivi compresi quelli in servizio presso il Commissariato dello Stato della regione Siciliana, il Rappresentante dello Stato nella regione Sardegna, la Commissione di coordinamento della Valle d'Aosta ed il Commissariato del Governo per la regione Friuli-Venezia Giulia, tenendo conto delle risorse disponibili e degli obiettivi raggiunti nell'anno precedente, in relazione alle diverse qualifiche, per entrambi gli anni 2004 e 2005, nel rispetto dei seguenti parametri:
+ 
+                        
+                        
+                            a)
+                            
+                                per i prefetti: fino a un massimo di 100;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i viceprefetti: fino a un massimo di 75;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i viceprefetti aggiunti: fino a un massimo di 50.
 
 La misura della retribuzione di risultato verra' definita in sede di accordi decentrati a livello centrale, una volta effettuato il sistema di valutazione di cui all'articolo 21 del decreto legislativo 19 maggio 2000, n. 139.
 

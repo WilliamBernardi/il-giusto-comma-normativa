@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-11-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,9 +33,50 @@ l. Il presente regolamento disciplina le condizioni e le modalita' di concession
 
 ## Art. 2. — Soggetti destinatari
 
+1.
+                    
+                        
+                            Possono presentare la domanda per la concessione del contributo i seguenti soggetti:
+ 
+                        
+                        
+                            a)
+                            
+                                le associazioni di volontariato, costituite in forma di associazione o nelle forme previste dall'articolo 3 della legge 11 agosto 1991, n. 266, iscritte nei registri di cui all'articolo 6 della medesima legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le organizzazioni non lucrative di utilita' sociale (ONLUS) in possesso dei requisiti di cui all'articolo 10 del decreto legislativo 4 dicembre 1997, n. 460, iscritte all'anagrafe unica delle ONLUS di cui all'articolo 11 del medesimo decreto legislativo.
+
 ## Art. 3. — Acquisti finanziabili
 
+1.
+                    
+                        
+                            Il contributo e' concesso ai soggetti di cui all'articolo 2 del presente regolamento, per l'acquisto o per l'acquisizione mediante contratto di leasing, da parte dei medesimi di:
 
+                        
+                        
+                            a)
+                            
+                                autoambulanze;
+                            
+                        
+                        
+                            b)
+                            
+                                beni strumentali, ad esclusione dei beni immobili, utilizzati direttamente ed esclusivamente per attivita' di utilita' sociale, che per le loro caratteristiche, non sono suscettibili di diverse utilizzazioni senza radicali trasformazioni;
+                            
+                        
+                        
+                            c)
+                            
+                                beni, acquistati da organizzazioni non lucrative di utilita' sociale (ONLUS), da donare a strutture sanitarie pubbliche.
+
+((2. Per un periodo di almeno tre anni dalla data del contratto))
 
 La vendita del bene o la cessione del contratto di leasing possono essere effettuate, prima dei tre anni dalla data di acquisto, solo in favore di organizzazioni di volontariato o in favore di organizzazioni non lucrative di utilita' sociale (ONLUS).
 
@@ -58,6 +99,38 @@ l. Le quote del Fondo nazionale per le politiche sociali di cui all'articolo 59,
 ## Art. 5. — Presentazione delle domande
 
 La domanda di concessione del contributo dovra' essere trasmessa al Ministero del lavoro e delle politiche sociali - Dipartimento delle politiche sociali e previdenziali - Direzione generale per il volontariato, l'associazionismo sociale e le politiche giovanili, via Veneto n. 56, 00187 Roma, unicamente tramite spedizione postale a mezzo raccomandata con avviso di ricevimento; la data di spedizione e' comprovata dal timbro apposto dall'ufficio postale.
+
+2.
+                    
+                        
+                            Alla domanda dovra' essere allegata la seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                documentazione recante i dati identificativi dell'ente richiedente, completa del certificato di iscrizione presso il Registro del Volontariato competente per territorio o copia autentica della comunicazione all'anagrafe delle ONLUS di cui all'articolo 11 del decreto legislativo 4 dicembre 1997, n. 460;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia dell'atto di acquisto e della fattura di vendita dell'autoambulanza o del bene strumentale per il quale si chiede la concessione del contributo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copia dell'atto di acquisto e di donazione del bene di cui alla lettera c) del comma 1 dell'articolo 3 del presente regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dichiarazione resa dal rappresentante legale dell'ente circa l'utilizzo diretto ed esclusivo del bene oggetto del contributo per le attivita' di utilita' sociale e circa le condizioni di cui ai commi 2 e 3 dell'articolo 3.
 
 La disposizione di cui alla lettera d) del comma 2 del presente articolo non si applica ai beni di cui alla lettera c), comma 1, dell'articolo 3, acquistati da organizzazioni non lucrative di utilita' sociale (ONLUS) da donare a strutture sanitarie pubbliche.
 

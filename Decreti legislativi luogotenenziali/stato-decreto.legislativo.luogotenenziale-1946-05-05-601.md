@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti legislativi luogotenenziali
 vigenza_date: 2008-12-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:36Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO LUOGOTENENZIALE

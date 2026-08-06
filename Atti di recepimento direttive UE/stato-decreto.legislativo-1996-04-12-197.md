@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,38 @@ Sulla proposta dei Ministri del bilancio e della programmazione economica incari
 ## Art. 1.
 
 I cittadini di uno Stato membro dell'Unione europea - di seguito indicati "cittadini dell'Unione" - che intendono partecipare alle elezioni per il rinnovo degli organi del comune e della circoscrizione in cui sono residenti, devono presentare al sindaco domanda di iscrizione nella lista elettorale aggiunta, istituita presso lo stesso comune.
+
+2.
+                    
+                        
+                            Nella domanda devono essere espressamente dichiarati:
+ 
+                        
+                        
+                            a)
+                            
+                                la cittadinanza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'attuale residenza nonche' l'indirizzo nello Stato di origine;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la richiesta di iscrizione nell'anagrafe della popolazione residente nel comune, sempreche' non siano gia' iscritti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la richiesta di conseguente iscrizione nella lista elettorale aggiunta.
 
 Alla domanda deve essere allegata dichiarazione sostitutiva di un documento di identita' valido, resa a norma della legge 4 gennaio 1968, n. 15.
 
@@ -56,6 +88,24 @@ La domanda di cui all'art. 1 e' presentata all'ufficio comunale competente che p
 
 Ai fini di cui al comma 1, le richieste del sindaco intese ad acquisire le certificazioni necessarie presso il casellario giudiziale e presso l'autorita' provinciale di pubblica sicurezza sono fatte per telegrafo e i documenti richiesti devono pervenire al sindaco entro 48 ore dalla richiesta.
 
+3.
+                    
+                        
+                            Il comune, compiuta l'istruttoria necessaria a verificare l'assenza di cause ostative, provvede a:
+ 
+                        
+                        
+                            a)
+                            
+                                iscrivere i cittadini dell'Unione nell'apposita lista aggiunta, che e' sottoposta al controllo ed all'approvazione della competente commissione elettorale circondariale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                comunicare agli interessati l'avvenuta iscrizione nella lista ovvero la mancata iscrizione; contro la mancata iscrizione puo' essere proposto ricorso secondo la normativa vigente. Il provvedimento negativo indica l'organo al quale il ricorso va proposto e il relativo termine.
+
 ## Art. 3.
 
 In occasione di consultazioni per la elezione diretta del sindaco e del consiglio comunale, la domanda di cui all'art. 1 deve essere presentata non oltre il quinto giorno successivo all'affissione del manifesto di convocazione dei comizi elettorali e l'iscrizione nelle liste elettorali aggiunte viene effettuata in sede di revisione disposta ai sensi dell'art. 32, quarto comma, del decreto del Presidente della Repubblica 20 marzo 1967, n. 223, e successive modificazioni ed integrazioni.
@@ -71,6 +121,24 @@ I cittadini dell'Unione, inclusi nell'apposita lista aggiunta, vi restano iscrit
 Gli elettori iscritti nella lista aggiunta votano presso il seggio nella cui circoscrizione territoriale risiedono. A tal fine essi sono assegnati, previa suddivisione in appositi elenchi, alle relative sezioni elettorali; in caso di superamento del limite massimo di ottocento elettori previsto per una sezione, essi sono proporzionalmente distribuiti nelle sezioni limitrofe.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            I cittadini dell'Unione che intendono presentare la propria candidatura a consigliere comunale devono produrre, all'atto del deposito della lista dei candidati, oltre alla documentazione richiesta per i cittadini italiani dal decreto del Presidente della Repubblica 16 maggio 1960, n. 570, e dalla legge 25 marzo 1993, n. 81:
+ 
+                        
+                        
+                            a)
+                            
+                                una dichiarazione contenente l'indicazione della cittadinanza, dell'attuale residenza e dell'indirizzo nello Stato di origine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un attestato, in data non anteriore a tre mesi, dell'autorita' amministrativa competente dello Stato membro di origine, dal quale risulti che l'interessato non e' decaduto dal diritto di eleggibilita'.
 
 Ove non siano ancora stati iscritti nelle liste elettorali aggiunte del comune di residenza, i cittadini dell'Unione devono produrre un attestato del comune stesso circa l'avvenuta presentazione, nel termine di cui all'art. 3, comma 1, della domanda di iscrizione nelle liste elettorali aggiunte.
 

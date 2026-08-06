@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-06-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,33 @@ Le graduatorie dei soppressi concorsi per soli titoli costituiscono le graduator
 
 I punteggi di coloro che sono gia' iscritti nelle graduatorie base sono aggiornati a domanda, con la valutazione di eventuali nuovi titoli, in conformita' alle tabelle di valutazione approvate con decreto ministeriale 26 ottobre 1994, per le accademie di belle arti statali (allegato A), per le accademie nazionali di danza (allegato B) e di arte drammatica (allegato C) e con decreto ministeriale 8 febbraio 1995, per i conservatori di musica (allegato D).
 
+3.
+                        
+                            
+                                L'integrazione delle graduatorie base avviene con l'inclusione, in coda alle medesime graduatorie, del personale sottoindicato:
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che alla data di scadenza per la presentazione delle domande di inclusione nella graduatoria nazionale ad esaurimento sono in possesso dei requisiti richiesti per partecipare ai soppressi concorsi per soli titoli:
+ 1) superamento delle prove di un precedente concorso per titoli ed esami relativo al medesimo insegnamento o al medesimo posto di ruolo;
+ 2) trecentosessanta giorni di servizio prestato con rapporto di lavoro a tempo determinato nelle accademie di belle arti statali, nelle accademie nazionali di danza e di arte drammatica, e nei conservatori di musica statali ((nel triennio antecedente alla predetta data di scadenza per la presentazione delle domande)).
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che alla data di scadenza per la presentazione delle domande di inclusione nelle graduatorie nazionali ad esaurimento hanno conseguito nella valutazione dei titoli artistico-culturali e professionali, ai fini della inclusione nelle graduatorie nazionali per il conferimento delle supplenze, nonche' nelle graduatorie di istituto, un punteggio non inferiore ai 24 punti richiesti dalla previgente normativa e hanno superato le prove di un precedente concorso per titoli ed esami in relazione al medesimo insegnamento o al medesimo posto di ruolo; nonche' coloro che superano le prove della sessione riservata di esami indetta ai sensi dell'articolo 3, lettera b), ultimo comma, della legge, a condizione che gli stessi siano in possesso dei predetti 24 punti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che alla data di scadenza per la presentazione delle domande di inclusione nella graduatoria permanente hanno superato le prove di un precedente concorso per titoli ed esami in relazione al medesimo insegnamento o al medesimo posto.
+
 Gli aspiranti di cui al comma 3, sono tutti graduati tra loro con il punteggio spettante in base ai titoli posseduti, da valutare secondo le tabelle di cui agli allegati A), B), C) e D). Agli aspiranti che sono inseriti negli elenchi alfabetici, in seguito al superamento degli esami della sessione riservata di cui all'ordinanza ministeriale 20 ottobre 1999, n. 247, e' attribuito lo stesso punteggio previsto dalla tabella di valutazione dei titoli relativa al personale docente nelle accademie di belle arti, decreto ministeriale 26 ottobre 1994, (allegato A) per l'inclusione in graduatoria di merito del concorso di cui al decreto ministeriale 8 gennaio 1986.
 
 ## - Titolo II Responsabili amministrativi delle accademie e dei conservatori di musica statali
@@ -44,6 +71,24 @@ Gli aspiranti di cui al comma 3, sono tutti graduati tra loro con il punteggio s
 ## Art. 3. — Graduatoria nazionale ad esaurimento dei responsabili amministrativi delle accademie e dei conservatori di musica statali
 
 Le disposizioni di cui al titolo I, in quanto compatibili, si applicano anche alle graduatorie nazionali dei responsabili amministrativi del ruolo nazionale delle accademie e dei conservatori di musica statali.
+
+2.
+                        
+                            
+                                In prima applicazione, considerato che le graduatorie dei concorsi riservati e per titoli, indetti rispettivamente con i decreti ministeriali del 4 giugno 1992 e del 5 giugno 1992, sono esaurite e che alla data di entrata in vigore della legge e' in atto soltanto la graduatoria relativa al concorso per esami e titoli indetto con decreto ministeriale 6 giugno 1992, ha titolo ad essere incluso a domanda, nelle graduatorie ad esaurimento di cui al comma 1, il personale sottoindicato:
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che alla data di scadenza del termine di presentazione della domanda di inclusione sono in possesso dei requisiti richiesti dalle norme previgenti per la partecipazione al soppresso concorso per soli titoli per l'accesso al ruolo nazionale dei responsabili amministrativi delle accademie e dei conservatori di musica statali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che hanno superato le prove dell'ultimo concorso, per esami e titoli bandito con decreto ministeriale 6 giugno 1992.
 
 Gli aspiranti sono tutti graduati tra loro con il punteggio spettante in base ai titoli posseduti da valutare secondo la tabella approvata con decreto ministeriale 29 gennaio 1990 (allegato E).
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-03-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -74,6 +74,66 @@ Agli oneri derivanti dall'attuazione del presente comma, che non possono ecceder
 
 I soggetti beneficiari provvedono a registrarsi, usando le credenziali ai sensi dell'articolo 3, comma 2, sulla piattaforma informatica dedicata, attiva all'indirizzo https://www.18app.italia.it/. La registrazione e' consentita fino al 31 agosto 2020 per i beneficiari che compiono diciotto anni di eta' ((nell'anno 2019,)) fino al 31 agosto 2021 per i beneficiari che compiono diciotto anni di eta' nell'anno 2020 ((e fino al 31 agosto 2022 per i beneficiari che compiono diciotto anni di eta' nell'anno 2021)).
 
+2.
+                        
+                            
+                                Fermo restando quanto stabilito dall'articolo 11, a ciascun soggetto beneficiario registrato e' attribuita una Carta, per un importo pari a 500 euro, per l'acquisto di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    biglietti per rappresentazioni teatrali e cinematografiche e spettacoli dal vivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    libri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    titoli di accesso a musei, mostre ed eventi culturali, monumenti, gallerie, aree archeologiche, parchi naturali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    musica registrata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    corsi di musica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    corsi di teatro; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    corsi di lingua straniera; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    prodotti dell'editoria audiovisiva.
+
 I beneficiari che compiono diciotto anni di eta' nell'anno 2020 possono utilizzare la Carta, oltre che per l'acquisto di quanto indicato al comma 2, per l'acquisto di abbonamenti a quotidiani anche in formato digitale.
 
 ((
@@ -123,6 +183,31 @@ Il ((MIC)) vigila sul corretto funzionamento della Carta e puo' provvedere, in c
 Il ((MIC)) assicura il trattamento dei dati personali ai sensi della normativa vigente, limitandolo alla sola realizzazione dei compiti attinenti all'attribuzione e all'utilizzo della Carta elettronica di cui al presente regolamento. SOGEI e CONSAP sono Responsabili del trattamento dei dati personali cui il ((MIC)), in qualita' di Titolare del trattamento, ricorre. A tal fine, il ((MIC)) provvede alla stipula del contratto o atto giuridico previsto dall'articolo 28 del Regolamento (UE) 2016/679 e disciplina, sentito il Garante per la protezione dei dati personali, le modalita' e i tempi della gestione e conservazione dei dati personali, nonche' gli obblighi e le responsabilita' reciproche fra il Titolare e i Responsabili del trattamento.
 
 ## Art. 11. — Norme finanziarie
+
+1.
+                        
+                            
+                                Alla copertura degli oneri derivanti dall'attuazione del presente regolamento si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2019, mediante corrispondente utilizzo dell'autorizzazione di spesa di cui al comma 980 dell'articolo 1 della legge n. 208 del 2015, come rideterminata dal comma 604 dell'articolo 1 della legge n. 145 del 2018 in misura pari a 240 milioni di euro per l'anno 2019; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2020, mediante corrispondente utilizzo dell'autorizzazione di spesa di cui al comma 357 dell'articolo 1 della legge n. 160 del 2019, in misura pari a 190 milioni di euro, e delle risorse, pari a 30 milioni di euro, iscritte nella missione «Tutela e valorizzazione dei beni e attivita' culturali e paesaggistici», programma 1.9 «Tutela del patrimonio culturale», capitolo 1430 dello stato di previsione del ((Ministero della cultura)). 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    per l'anno 2021, mediante corrispondente utilizzo dell'autorizzazione di spesa di cui al comma 357 dell'articolo 1 della legge n. 160 del 2019, in misura pari a 220 milioni di euro.
 
 Le risorse di cui al comma 1, lettera a), sono impegnate entro il 31 dicembre 2019 e possono essere spese entro il 31 dicembre 2021 ((. Le risorse)) di cui alla lettera b) del medesimo comma sono impegnate entro il 31 dicembre 2020 e possono essere spese entro il 31 dicembre 2022. ((Le risorse di cui alla lettera b-bis) del medesimo comma sono impegnate entro il 31 dicembre 2021 e possono essere spese entro il 31 dicembre 2023.))
 

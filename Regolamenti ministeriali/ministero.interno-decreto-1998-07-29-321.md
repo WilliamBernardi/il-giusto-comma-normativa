@@ -8,8 +8,8 @@ codice_redazionale: 098G0372
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,66 @@ Al concorso annuale, per titoli di servizio ed esami, per la promozione alla qua
 A norma dell'articolo 15, comma 6, del decreto legislativo 12 maggio 1995, n. 197, il personale con qualifica di ispettore capo del ruolo ad esaurimento, in possesso del prescritto titolo di studio, e' ammesso al concorso interno, a partire dal primo concorso cui potra' contestualmente partecipare il personale che, inquadrato nel ruolo degli ispettori ai sensi dell'articolo 13, comma 1, lettera d), dell'indicato decreto legislativo, avra' conseguito la qualifica di ispettore capo maturando le anzianita' di servizio prescritte dall'articolo 13, comma 4, del medesimo decreto legislativo.
 
 ## Art. 2. — Bando di concorso
+
+1.
+                    
+                        
+                            Il concorso e' indetto annualmente con decreto del Capo della Polizia - Direttore generale della pubblica sicurezza, da pubblicare nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti complessivi messi a concorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di presentazione delle domande di partecipazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il giorno, l'ora e il luogo in cui avra' svolgimento la prova scritta, ovvero la data del Bollettino ufficiale del personale del Ministero dell'interno nel quale sara' pubblicato il diario di detta prova;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le materie oggetto delle prove d'esame;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la votazione minima da conseguire nella prova scritta e nel colloquio;
+
+                            
+                        
+                        
+                            h)
+                            
+                                ogni altra prescrizione o notizia ritenuta utile.
 
 ## Art. 3. — Possesso dei requisiti
  ed esclusione dal concorso interno
@@ -75,6 +135,62 @@ Il candidato che per gravi e documentati motivi e' impossibilitato a sostenere i
 Qualora la mancata presentazione al colloquio sia determinata da infermita' o lesione dipendente da causa di servizio, la data per sostenere detta prova puo' essere differita anche oltre i limiti temporali di cui al comma precedente e comunque non oltre l'ultimo giorno fissato per la valutazione dei titoli.
 
 ## Art. 7. — Titoli di servizio
+
+1.
+                    
+                        
+                            Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 10;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualita' delle funzioni svolte con particolare riferimeno alla competenza professionale dimostrata ed al grado di responsabilita' assunta da rapportarsi a tre fasce di valutazione concernenti rispettivamente:
+ 1) i servizi che comportano compiti di indirizzo e coordinamento di piu' unita' operative ovvero di direzione di sottosezioni o di unita' equivalenti;
+ 2) i servizi che comportano la direzione di distaccamenti o di uffici o di unita' operative equivalenti o specifica competenza professionale;
+ 3) i servizi non riconducibili alle precedenti fasce, fino a punti 9;
+
+                            
+                        
+                        
+                            c)
+                            
+                                incarichi e servizi speciali conferiti con specifico provvedimento dell'amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 6;
+
+                            
+                        
+                        
+                            d)
+                            
+                                titoli attinenti alla formazione professionale del candidato con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati, fino a punti 7;
+
+                            
+                        
+                        
+                            e)
+                            
+                                lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'amministrazione di appartenenza o da quella presso cui presta servizio e che vertono su problemi giuridici, amministrativi o tecnici ovvero su questioni di particolare rilievo attinenti ai servizi dell'amministrazione, fino a punti 4;
+
+                            
+                        
+                        
+                            f)
+                            
+                                speciali riconoscimenti, fino a punti 6;
+
+                            
+                        
+                        
+                            g)
+                            
+                                anzianita' nella qualifica di ispettore capo o di ispettore capo del ruolo ad esaurimento, fino a punti 8.
 
 Nell'ambito delle suddette categorie, la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi. Predetermina altresi' i punteggi da attribuire ai giudizi complessivi presi in considerazione. Tali operazioni vengono riportate nei verbali del concorso.
 

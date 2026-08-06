@@ -8,8 +8,8 @@ codice_redazionale: 092G0345
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,6 +38,63 @@ Per l'espletamento del servizio telex di cui all'art. 251 del testo unico delle 
 Per "apparecchi terminali" si intendono gli apparecchi allacciati direttamente o indirettamente al punto terminale della rete telegrafica pubblica di cui al comma 1 per trasmettere, trattare o ricevere informazioni.
 
 La domanda di abbonamento al servizio, da perfezionarsi con la stipula di apposito contratto, deve essere presentata direttamente o inviata mediante lettera raccomandata con avviso di ricevimento al circolo delle costruzioni telegrafiche e telefoniche competente per territorio.
+
+4.
+                    
+                        
+                            La domanda deve contenere le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' e la residenza del richiedente se persona fisica ovvero, in caso diverso, la denominazione e la sede dell'ente, dell'istituto, della societa' o della ditta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esatta ubicazione del locale nel quale si richiede che vengano installati gli apparecchi terminali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                se il richiedente intenda provvedere in proprio all'acquisizione dell'apparecchio terminale con la precisazione del tipo di apparecchio omologato secondo le norme vigenti prescelto o se, invece, il richiedente intenda utilizzare un apparecchio terminale fornito in uso dall'Amministrazione con la precisazione del tipo prescelto tra quelli proposti dall'Amministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ogni altro elemento che sia ritenuto utile ai fini della realizzazione dell'allacciamento richiesto.
+
+5.
+                    
+                        
+                            La domanda deve essere sottoscritta:
+ 
+                        
+                        
+                            a)
+                            
+                                dal richiedente, se persona fisica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal legale rappresentante, nell'ipotesi di enti di diritto privato, istituti, associazioni, societa', ditte e simili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dall'organo competente, nel caso di amministrazioni pubbliche.
 
 L'evasione delle domande di abbonamento al servizio e' effettuata secondo l'ordine di presentazione delle domande stesse. A detto criterio e' consentito derogare per motivi di pubblico interesse o per motivi di ordine tecnico che saranno valutati da apposita commissione da istituirsi con ordinanza dell'ispettore generale superiore delle telecomunicazioni, composta di tre funzionari con qualifica non inferiore a vice dirigente amministrativo, categoria IX.
 
@@ -68,6 +125,38 @@ L'abbonamento al servizio telex decorre dalla data di realizzazione del collegam
 Salvo i casi particolari di cui agli articoli 5, comma 4, e 12, comma 3, la disdetta dell'abbonamento deve essere comunicata con preavviso di almeno novanta giorni, mediante lettera raccomandata con avviso di ricevimento diretta al circolo delle costruzioni telegrafiche e telefoniche competente per territorio.
 
 ## Art. 5. — Canoni, contributi, deposito cauzionale, tariffe
+
+1.
+                    
+                        
+                            I canoni ed i contributi da corrispondere ai sensi dell'art. 253 del codice p.t. sono:
+ 
+                        
+                        
+                            a)
+                            
+                                canone di abbonamento al servizio, la cui misura puo' variare in relazione alle categorie di utenza previste dal decreto di cui all'art. 253 del codice p.t., tenuto conto dell'uso del posto telex di cui all'art. 10, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                canone per il noleggio e la manutenzione dell'apparecchio terminale, se questo e' di proprieta' dell'Amministrazione; esso puo' variare in relazione alle caratteristiche dell'apparecchio dato in uso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                canone di manutenzione dell'apparecchio terminale, se questo e' acquisito in proprio dall'utente e tenuto in manutenzione dall'Amministrazione; esso puo' variare in relazione al tipo di apparecchio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                contributo per la costituzione del posto telex, la cui misura varia a seconda che l'apparecchio terminale sia acquisito in proprio dall'utente oppure fornito in uso dall'Amministrazione.
 
 I canoni decorrono dalla data di realizzazione del collegamento di cui all'art. 4; per il periodo compreso tra tale data e l'inizio del mese successivo deve essere corrisposto il relativo rateo dei canoni. Trascorso il primo anno di abbonamento, l'obbligo del pagamento dei canoni cessa dal primo giorno del mese successivo a quello in cui il contratto di abbonamento viene risolto.
 

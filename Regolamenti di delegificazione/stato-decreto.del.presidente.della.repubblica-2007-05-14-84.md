@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2011-08-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,32 @@ E' confermata la Consulta nazionale per il servizio civile, di cui all'articolo 
  3. Fermo restando quanto previsto dall'articolo 1, comma 58, della legge 23 dicembre 2005, n. 266, la spesa complessiva dell'organismo di cui al comma 1 e' ridotta del 30 per cento rispetto a quella sostenuta nell'esercizio finanziario 2005. Per l'anno 2006, la riduzione prevista dall'articolo 29 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, opera in misura proporzionale rispetto al periodo corrente tra l'entrata in vigore del citato decreto-legge n. 223 del 2006 ed il 31 dicembre 2006, tenuto conto degli impegni di spesa gia' assunti alla medesima data di entrata in vigore del decreto.
 
 ## Art. 3. — Altri organismi operanti presso la Presidenza del Consiglio dei Ministri
+
+1.
+                    
+                        
+                            Sono confermati i seguenti organismi: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL D.P.R. 3 GIUGNO 2011, N. 127)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Commissione per la garanzia dell'informazione statistica, di cui all'articolo 12 del decreto legislativo 6 settembre 1989, n. 322, e la relativa Segreteria tecnica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Commissione incaricata dell'esame delle domande per la concessione di un riconoscimento ai congiunti degli infoibati, istituita ai sensi dell'articolo 5 della legge 30 marzo 2004, n. 92.
 
 La spesa degli organismi di cui al comma 1 e' ridotta in misura tale da assicurare, unitamente alle riduzioni di spesa relative agli altri organismi operanti presso la Presidenza del Consiglio dei Ministri, la riduzione complessiva del trenta per cento della spesa sostenuta nell'esercizio finanziario 2005 dalla medesima Presidenza per tutti gli organismi rientranti nella previsione di cui all'articolo 29 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248. Per l'anno 2006, la riduzione opera in misura proporzionale rispetto al periodo corrente tra l'entrata in vigore del decreto-legge n. 223 del 2006 ed il 31 dicembre 2006, tenuto conto degli impegni di spesa gia' assunti alla medesima data di entrata in vigore del decreto.
 

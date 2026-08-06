@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1990-11-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -50,6 +50,24 @@ Il quarto censimento generale dell'agricoltura ha luogo a partire dal 21 ottobre
  legislativi qui trascritti.
 
 ## Art. 2. — Campo di osservazione
+
+1.
+                        
+                            
+                                Il censimento generale dell'agricoltura rileva in ciascun comune: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la consistenza numerica delle aziende agricole, forestali e zootecniche, di qualsiasi ampiezza e da chiunque condotte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche strutturali fondamentali delle singole aziende, quali il sistema di conduzione, la forma giuridica, la superficie, l'utilizzazione dei terreni, l'irrigazione, la consistenza degli allevamenti, il lavoro, i mezzi meccanici, gli impianti, i fabbricati rurali, l'acquisto di mezzi tecnici, la commercializzazione dei prodotti aziendali ed alcuni aspetti della territorializzazione dell'azienda stessa.
 
 Per le aziende che praticano la coltivazione della vite, la rilevazione si uniforma a quanto previsto dal regolamento CEE n. 357/79 del Consiglio del 5 febbraio 1979, e successive modificazioni.
 
@@ -104,15 +122,122 @@ Presso la regione Valle d'Aosta e' costituito, con provvedimento del presidente 
 
 Presso le province autonome di Trento e di Bolzano le funzioni del comitato provinciale di censimento sono svolte dalla commissione prevista dall'art. 7, comma 3. Nell'esercizio di tali funzioni la commissione si riunisce con l'esclusione dei rappresentanti delle organizzazioni sindacali e di categoria.
 
+4.
+                        
+                            
+                                Il comitato provinciale di censimento si riunisce con cadenza settimanale e svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce indicazioni circa la regolare e uniforme applicazione delle istruzioni impartite dall'ISTAT per l'esecuzione del censimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigila sulla corretta e tempestiva esecuzione dei compiti affidati agli uffici di censimento di cui agli articoli 9, 10 e 11 sulla base dei rapporti sullo stato dei lavori che gli uffici provinciali di censimento redigono tenendo anche conto delle relazioni inviate dai responsabili degli uffici intercomunali di censimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di non regolare svolgimento delle operazioni censuarie, interessa gli organi di censimento, per la parte di rispettiva competenza, affinche' siano adottati i provvedimenti necessari.
+
 ## Art. 9. — Ufficio provinciale di censimento
 
 In ogni provincia viene costituito un ufficio provinciale di censimento. La denominazione e le attribuzioni di ufficio provinciale di censimento spettano all'ufficio di statistica presso la Camera di commercio, industria, artigianato ed agricoltura, ovvero, agli uffici che, per legge, ne hanno assunto le funzioni. Il responsabile di ciascuno degli uffici anzidetti, assume le funzioni di responsabile dell'ufficio provinciale di censimento.
+
+2.
+                        
+                            
+                                Gli uffici provinciali di censimento svolgono i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilano per assicurare il tempestivo e regolare svolgimento delle operazioni affidate agli uffici comunali di censimento secondo le modalita' ed il calendario stabiliti dall'ISTAT nel quadro delle indicazioni fornite dal comitato provinciale di censimento di cui all'art. 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    redigono rapporti settimanali sullo stato dei lavori del censimento, tenendo anche conto delle relazioni inviate dagli uffici intercomunali di censimento e l'inviano al comitato provinciale di censimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettuano gli adempimenti amministrativi e contabili che saranno loro demandati dall'ISTAT con apposite istruzioni.
 
 In relazione all'espletamento dei compiti di vigilanza di cui alla lettera a), del comma 2, ai componenti degli uffici provinciali di censimento sara' corrisposto il relativo trattamento di missione, in misura corrispondente alla qualifica posseduta, nei limiti dei fondi a tal fine destinati dall'ISTAT a ciascuno degli uffici stessi.
 
 ## Art. 10. — Ufficio intercomunale di censimento
 
+1.
+                        
+                            
+                                I responsabili degli uffici intercomunali di censimento, attenendosi alle direttive impartite dall'ISTAT, svolgono i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    forniscono l'assistenza tecnica ai comuni, compresi nel territorio di rispettiva competenza, nell'aggiornamento dell'elenco delle aziende agricole, nel reperimento dei rilevatori e nella fase di raccolta e di controllo dei dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tengono i corsi di istruzione per i dirigenti degli uffici comunali di censimento e per i rilevatori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    redigono relazioni settimanali sugli aspetti tecnici connessi con l'esecuzione del censimento e sullo stato dei lavori in relazione all'attivita' degli uffici comunali di censimento di cui all'art. 21 e ne inviano copia all'ufficio provinciale di censimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    curano la revisione dei questionari di azienda; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicurano l'assistenza tecnica e gli interventi necessari per eventuali correzioni dei questionari durante la fase di registrazione controllata dei dati censuari.
+
 ## Art. 11. — Ufficio comunale di censimento
+
+1.
+                        
+                            
+                                In ogni comune viene costituito un ufficio comunale di censimento. La denominazione e le attribuzioni di ufficio comunale di censimento spettano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'ufficio di statistica del comune; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'ufficio che sara'' appositamente costituito dal sindaco, nei comuni che non abbiano provveduto alla istituzione di detto ufficio. L'ufficio comunale di censimento viene costituito anche nei comuni che, per l'esercizio della funzione statistica, si siano associati ad altri comuni.
 
 Nei comuni di cui all lettera a) del comma 1, il responsabile dell'ufficio comunale di statistica assume le funzioni di responsabile dell'ufficio comunale di censimento; negli altri comuni la qualifica di responsabile dell'ufficio comunale di censimento spetta al segretario comunale oppure a persona tecnicamente idonea da lui delegata. In ogni caso, il segretario comunale e' responsabile del funzionamento dell'ufficio.
 
@@ -203,6 +328,18 @@ I conduttori di aziende agricole, forestali e zootecniche i quali, entro i termi
 
 ## Art. 21. — Controllo e riepilogo dei dati
 
+1.
+                        
+                            
+                                A cura degli uffici comunali di censimento vengono effettuati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    giornalmente, il controllo dei questionari compilati dai rilevatori; 
+ b)) settimanalmente, la situazione sulla raccolta dei dati, determinando il numero delle aziende censite e totalizzando i dati relativi ad alcuni caratteri fondamantali delle aziende stesse in conformita' alle istruzioni impartite dall'ISTAT. Tale situazione viene comunicata con la stessa cadenza al responsabile dell'ufficio intercomunale di censimento.
+
 Gli uffici comunali di censimento, entro cinque giorni dal termine della raccolta dei dati, inviano i primi risultati comunali all'ufficio provinciale di censimento il quale provvedera' a trasmetterli all'ISTAT.
 
 ## Art. 22. — Revisione dei questionari
@@ -218,6 +355,31 @@ Gli uffici comunali di censimento provvedono ad eliminare le incompletezze e gli
 Ultimate le operazioni di cui all'art. 22, e comunque entro i termini stabiliti dall'ISTAT mediante apposite istruzioni, gli uffici comunali di censimento provvedono a separare da ciascun questionario di azienda il Iembo staccabile del questionario stesso e ad inviarlo, in plico a parte, unitamente ai questionari di azienda ed ai modelli ausiliari, al competente ufficio provinciale di censimento.
 
 A tutela della segretezza delle notizie contenute nei questionari di azienda, prima della registrazione controllata delle notizie stesse, gli uffici provinciali di censimento si accertano che i questionari siano stati resi anonimi mediante la separazione del lembo staccabile contenente i riferimenti individuali.
+
+3.
+                        
+                            
+                                Gli uffici anzidetti, controllata la completezza del materiale ricevuto, curano, secondo le istruzioni impartite dall'ISTAT, i seguenti distinti adempimenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    consegna dei modelli CA.1 e CA.1 AGG ai soggetti incaricati dall'ISTAT della loro registrazione controllata, effettuata di norma, presso il capoluogo di provincia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consegna dei lembi staccabili del mod. CA.1 ai soggetti, diversi da quelli di cui alla lettera a), incaricati dall'ISTAT della loro registrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    invio del restante materiale all'ISTAT.
 
 ## - CAPO V DISPOSIZIONI GENERALI E FINALI
 

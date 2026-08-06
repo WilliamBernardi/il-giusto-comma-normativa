@@ -8,8 +8,8 @@ codice_redazionale: 086U1027
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:56Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -20,4 +20,36 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1.
 
 n.
+
+1027.
+                    
+                        
+                            Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, l'ente autonomo "Fiera campionaria internazionale di Milano", in Milano, viene autorizzato ad acquistare alcune aree site in Milano, all'interno e nelle immediate adiacenze della zona fieristica, cosi' denominate: area 
+                        
+                        
+                            a)
+                            
+                                - ex De Finetti esterna, di mq 26.460,98; area
+                            
+                        
+                        
+                            b)
+                            
+                                - ex De Finetti esterna, di mq 15.006,73; area
+                            
+                        
+                        
+                            c)
+                            
+                                - ex raccordo ferroviario, di mq 7.243; area
+                            
+                        
+                        
+                            d)
+                            
+                                - viale dei Platani, di mq 482,79, per un totale di mq 49.194,39, di proprieta' del comune di Milano. L'acquisto e' avvenuto nell'ambito di una convenzione con il comune di Milano, volta a risolvere in via transativa vecchie pendenze tra i due enti, e che l'acquisto e' stato cosi' regolato: in parte con cessione dell'ente Fiera al comune dell'area e), ingresso di largo Domodossola, di mq 1318,18; in parte mediante compensazione con un credito che l'ente Fiera vantava nei confronti del comune; in parte in contanti. 
+ 
+Visto, il Guardasigilli: ROGNONI 
+ Registrato alla Corte dei Conti, addi' 25 febbraio 1987 
+ Registro n. 4 Industria, foglio n. 92
 

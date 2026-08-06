@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2012-12-31;235
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,31 @@ Sulla proposta del Ministro dell'interno, di concerto con i Ministri della giust
 ## Art. 1.
 
 Incandidabilita' alle elezioni della Camera dei deputati e del Senato della Repubblica
+
+1.
+                        
+                            
+                                Non possono essere candidati e non possono comunque ricoprire la carica di deputato e di senatore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che hanno riportato condanne definitive a pene superiori a due anni di reclusione per i delitti, consumati o tentati, previsti dall'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che hanno riportato condanne definitive a pene superiori a due anni di reclusione per i delitti, consumati o tentati, previsti nel libro II, titolo II, capo I, del codice penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che hanno riportato condanne definitive a pene superiori a due anni di reclusione, per delitti non colposi, consumati o tentati, per i quali sia prevista la pena della reclusione non inferiore nel massimo a quattro anni, determinata ai sensi dell'articolo 278 del codice di procedura penale.
 
 ## Art. 2.
 
@@ -92,6 +117,52 @@ Restano ferme per i titolari di cariche di governo le cause di incompatibilita' 
 
 Incandidabilita' alle elezioni regionali
 
+1.
+                        
+                            
+                                Non possono essere candidati alle elezioni regionali, e non possono comunque ricoprire le cariche di presidente della giunta regionale, assessore e consigliere regionale, amministratore e componente degli organi comunque denominati delle unita' sanitarie locali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che hanno riportato condanna definitiva per il delitto previsto dall'articolo 416-bis del codice penale o per il delitto di associazione finalizzata al traffico illecito di sostanze stupefacenti o psicotrope di cui all'articolo 74 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, o per un delitto di cui all'articolo 73 del citato testo unico, concernente la produzione o il traffico di dette sostanze, o per un delitto concernente la fabbricazione, l'importazione, l'esportazione, la vendita o cessione, nonche', nei casi in cui sia inflitta la pena della reclusione non inferiore ad un anno, il porto, il trasporto e la detenzione di armi, munizioni o materie esplodenti, o per il delitto di favoreggiamento personale o reale commesso in relazione a taluno dei predetti reati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che hanno riportato condanne definitive per i delitti, consumati o tentati, previsti dall'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale, diversi da quelli indicati alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che hanno riportato condanna definitiva per i delitti, consumati o tentati, previsti dagli articoli 314, 316, 316-bis,316-ter, 317, 318, 319, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 323, 325, 326, 331, secondo comma, 334, 346-bis del codice penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coloro che sono stati condannati con sentenza definitiva alla pena della reclusione complessivamente superiore a sei mesi per uno o piu' delitti commessi con abuso dei poteri o con violazione dei doveri inerenti ad una pubblica funzione o a un pubblico servizio diversi da quelli indicati alla lettera c); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coloro che sono stati condannati con sentenza definitiva ad una pena non inferiore a due anni di reclusione per delitto non colposo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    coloro nei cui confronti il tribunale ha applicato, con provvedimento definitivo, una misura di prevenzione, in quanto indiziati di appartenere ad una delle associazioni di cui all'articolo 4, comma 1, lettera a) e b), del decreto legislativo 6 settembre 2011, n. 159.
+
 Le disposizioni previste dal comma 1 si applicano a qualsiasi altro incarico con riferimento al quale l'elezione o la nomina e' di competenza del consiglio regionale, della giunta regionale, dei rispettivi presidenti e degli assessori regionali.
 
 L'eventuale elezione o nomina di coloro che si trovano nelle condizioni di cui al comma 1 e' nulla. L'organo che ha deliberato la nomina o la convalida dell'elezione e' tenuto a revocarla non appena venuto a conoscenza dell'esistenza delle condizioni stesse.
@@ -99,6 +170,31 @@ L'eventuale elezione o nomina di coloro che si trovano nelle condizioni di cui a
 ## Art. 8.
 
 Sospensione e decadenza di diritto per incandidabilita' alle cariche regionali
+
+1.
+                        
+                            
+                                Sono sospesi di diritto dalle cariche indicate all'articolo 7, comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che hanno riportato una condanna non definitiva per uno dei delitti indicati all'articolo 7, comma 1, lettera a), b), e c); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che, con sentenza di primo grado, confermata in appello per la stessa imputazione, hanno riportato una condanna ad una pena non inferiore a due anni di reclusione per un delitto non colposo, dopo l'elezione o la nomina; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro nei cui confronti l'autorita' giudiziaria ha applicato, con provvedimento non definitivo, una misura di prevenzione in quanto indiziati di appartenere ad una delle associazioni di cui all'articolo 4, comma 1, lettera a) e b), del decreto legislativo 6 settembre 2011, n. 159.
 
 La sospensione di diritto consegue, altresi', quando e' disposta l'applicazione di una delle misure coercitive di cui agli articoli 284, 285 e 286 del codice di procedura penale nonche' di cui all'articolo 283, comma 1, del codice di procedura penale, quando il divieto di dimora riguarda la sede dove si svolge il mandato elettorale.
 
@@ -128,6 +224,70 @@ Qualora la condizione di incandidabilita' sopravvenga o sia accertata successiva
 
 Incandidabilita' alle elezioni provinciali, comunali e circoscrizionali
 
+1.
+                        
+                            
+                                Non possono essere candidati alle elezioni provinciali, comunali e circoscrizionali e non possono comunque ricoprire le cariche di presidente della provincia, sindaco, assessore e consigliere provinciale e comunale, presidente e componente del consiglio circoscrizionale, presidente e componente del consiglio di amministrazione dei consorzi, presidente e componente dei consigli e delle giunte delle unioni di comuni, consigliere di amministrazione e presidente delle aziende speciali e delle istituzioni di cui all'articolo 114 del decreto legislativo 18 agosto 2000, n. 267, presidente e componente degli organi delle comunita' montane: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che hanno riportato condanna definitiva per il delitto previsto dall'articolo 416-bis del codice penale o per il delitto di associazione finalizzata al traffico illecito di sostanze stupefacenti o psicotrope di cui all'articolo 74 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, o per un delitto di cui all'articolo 73 del citato testo unico concernente la produzione o il traffico di dette sostanze, o per un delitto concernente la fabbricazione, l'importazione, l'esportazione, la vendita o cessione, nonche', nei casi in cui sia inflitta la pena della reclusione non inferiore ad un anno, il porto, il trasporto e la detenzione di armi, munizioni o materie esplodenti, o per il delitto di favoreggiamento personale o reale commesso in relazione a taluno dei predetti reati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che hanno riportato condanne definitive per i delitti, consumati o tentati, previsti dall'articolo 51, commi 3-bis e 3-quater, del codice di procedura penale, diversi da quelli indicati alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che hanno riportato condanna definitiva per i delitti previsti dagli articoli 314, 316, 316-bis, 316-ter, 317, 318, 319, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 323, 325, 326, 331, secondo comma, 334, 346-bis del codice penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coloro che sono stati condannati con sentenza definitiva alla pena della reclusione complessivamente superiore a sei mesi per uno o piu' delitti commessi con abuso dei poteri o con violazione dei doveri inerenti ad una pubblica funzione o a un pubblico servizio diversi da quelli indicati nella lettera c); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coloro che sono stati condannati con sentenza definitiva ad una pena non inferiore a due anni di reclusione per delitto non colposo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    coloro nei cui confronti il tribunale ha applicato, con provvedimento definitivo, una misura di prevenzione, in quanto indiziati di appartenere ad una delle associazioni di cui all'articolo 4, comma 1, lettera a) e b), del decreto legislativo 6 settembre 2011, n. 159.
+
+2.
+                        
+                            
+                                Le disposizioni previste dal comma 1 si applicano a qualsiasi altro incarico con riferimento al quale l'elezione o la nomina e' di competenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del consiglio provinciale, comunale o circoscrizionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della giunta provinciale o del presidente, della giunta comunale o del sindaco, di assessori provinciali o comunali.
+
 L'eventuale elezione o nomina di coloro che si trovano nelle condizioni di cui al comma 1 e' nulla. L'organo che ha provveduto alla nomina o alla convalida dell'elezione e' tenuto a revocare il relativo provvedimento non appena venuto a conoscenza dell'esistenza delle condizioni stesse.
 
 Le sentenze definitive di condanna ed i provvedimenti di cui al comma 1, emesse nei confronti di presidenti di provincia, sindaci, presidenti di circoscrizione o consiglieri provinciali, comunali o circoscrizionali in carica, sono immediatamente comunicate, dal pubblico ministero presso il giudice indicato nell'articolo 665 del codice di procedura penale, all'organo consiliare di rispettiva appartenenza, ai fini della dichiarazione di decadenza, ed al prefetto territorialmente competente.
@@ -135,6 +295,31 @@ Le sentenze definitive di condanna ed i provvedimenti di cui al comma 1, emesse 
 ## Art. 11.
 
 Sospensione e decadenza di diritto degli amministratori locali in condizione di incandidabilita'
+
+1.
+                        
+                            
+                                Sono sospesi di diritto dalle cariche indicate al comma 1 dell'articolo 10: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che hanno riportato una condanna non definitiva per uno dei delitti indicati all'articolo 10, comma 1, lettera a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e c); 
+ b) coloro che, con sentenza di primo grado, confermata in appello per la stessa imputazione, hanno riportato, dopo l'elezione o la nomina, una condanna ad una pena non inferiore a due anni di reclusione per un delitto non colposo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro nei cui confronti l'autorita' giudiziaria ha applicato, con provvedimento non definitivo, una misura di prevenzione in quanto indiziati di appartenere ad una delle associazioni di cui all'articolo 4, comma 1, lettera a) e b), del decreto legislativo 6 settembre 2011, n. 159.
 
 La sospensione di diritto consegue, altresi', quando e' disposta l'applicazione di una delle misure coercitive di cui agli articoli 284, 285 e 286 del codice di procedura penale nonche' di cui all'articolo 283, comma 1, del codice di procedura penale, quando il divieto di dimora riguarda la sede dove si svolge il mandato elettorale.
 
@@ -199,6 +384,38 @@ Per le incandidabilita' di cui ai Capi I e II, e per quelle di cui ai Capi III e
 Le disposizioni di cui al presente testo unico, limitatamente a quelle previste per l'accertamento dell'incandidabilita' in fase di ammissione delle candidature, per la mancata proclamazione, per i ricorsi e per il procedimento di dichiarazione in caso di incandidabilita' sopravvenuta, si applicano anche alle incandidabilita', non derivanti da sentenza penale di condanna, disciplinate dagli articoli 143, comma 11, e 248, comma 5, del decreto legislativo 18 agosto 2000, n. 267.
 
 ## Art. 17. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente testo unico sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 58 e 59 del decreto legislativo 18 agosto 2000, n. 267, recante il testo unico delle leggi sull'ordinamento degli enti locali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 15 della legge 19 marzo 1990, n. 55, salvo per quanto riguarda la disciplina per il personale dipendente dalle regioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 9, ottavo comma, n. 2), limitatamente al quarto periodo, della legge 17 febbraio 1968, n. 108; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 28, quarto comma, secondo periodo, e l'articolo 32, settimo comma, n. 2), limitatamente alle parole: «contenente la dichiarazione del candidato di non essere in alcuna delle condizioni previste dal comma 1 dell'articolo 15 della legge 19 marzo 1990, n. 55», del decreto del Presidente della Repubblica 16 maggio 1960, n. 570.
 
 Dalla data di cui al comma 1, i richiami agli articoli 58 e 59 del decreto legislativo 18 agosto 2000, n. 267, ovunque presenti, si intendono riferiti, rispettivamente, agli articoli 10 e 11 del presente testo unico.
 

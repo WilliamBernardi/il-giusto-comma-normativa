@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2024-11-12
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -46,7 +46,71 @@ Possono essere impiegati, altresi', quali solventi di estrazione nella fabbricaz
 
 ## Art. 4. — Requisiti generali di purezza
 
+1.
+                    
+                        
+                            I solventi di estrazione non devono contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                elementi o sostanze in quantita' tossicologicamente pericolose per la salute umana;
+
+                            
+                        
+                        
+                            b)
+                            
+                                piombo ed arsenico in quantita' superiore ad 1 mg/kg.
+
 ## Art. 5. — Etichettatura
+
+1.
+                    
+                        
+                            I solventi di estrazione devono riportare sull'imballaggio, sul recipiente o in etichetta, le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione di vendita indicata conformemente all'allegato 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una menzione chiara che indichi l'idoneita' della sostanza ad essere impiegata per l'estrazione dei prodotti alimentari o dei loro ingredienti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                una menzione che consenta di identificare il lotto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il nome o la ragione sociale o il marchio depositato e la sede del fabbricante o del confezionatore o di un venditore del prodotto stabilito all'interno delle Comunita' europee;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la quantita' espressa in unita' di volume;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le condizioni particolari di conservazione o di impiego, qualora necessarie.
 
 Le indicazioni di cui al comma 1, lettere c), d), e) ed f), possono figurare soltanto sui documenti commerciali relativi al lotto, che devono accompagnare o precedere la spedizione.
 

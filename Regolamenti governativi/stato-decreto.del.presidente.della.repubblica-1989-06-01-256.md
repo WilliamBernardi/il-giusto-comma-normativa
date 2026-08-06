@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2001-05-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -582,6 +582,25 @@ Gli assegni e i postagiro devono essere adoperati dal correntista nell'ordine de
 
 ## Art. 122. — Addebitamenti d'ufficio
 
+1.
+                        
+                            
+                                Sui conti dei correntisti possono essere effettuate d'ufficio operazioni di addebitamento nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.P.R. 14 MARZO 2001, N. 144 )). 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando occorra (( . . . )) effettuare operazioni di rivalsa ai sensi del primo comma dell'articolo 138 del codice postale.
+
 ## Art. 123. — (( ARTICOLO ABROGATO DAL D.P.R. 14 MARZO 2001, N. 144 ))
 
 
@@ -993,6 +1012,33 @@ f) certificato dell'ufficio del registro, di cui all'articolo 16, nei casi in cu
 ## Art. 189. — Emissione di libretti infruttiferi
 
 1 - Per il servizio dei depositi giudiziari vengono adoperati gli appositi libretti infruttiferi, di cui al comma 7 dell'articolo
+
+135.
+                        
+                            
+                                2 - I depositi possono essere effettuati, secondo i casi, dalle parti o dei loro procuratori, previa apposita autorizzazione o nulla osta rilasciati dalla competente autorita' giudiziaria, oppure dai cancellieri e da altri funzionari giudiziari.
+I libretti debbono essere sempre intestati alle parti con le seguenti eccezioni:
+
+                            
+                            
+                                a)
+                                
+                                    intestazione a favore della pretura o del tribunale che dispone il deposito, quando si tratti di somme sequestrate nei procedimenti penali contro ignoti;
+                                
+                            
+                            
+                                b)
+                                
+                                    intestazione a favore delle procure della Repubblica o, per delegazione di queste, dei pretori competenti nel caso di somme pertinenti a cittadini italiani morti all'estero;
+                                
+                            
+                            
+                                c)
+                                
+                                    intestazione a favore di avvocati muniti di procura, legalmente abilitati davanti al tribunale, qundo si tratti di somme depositate per concorrere agli incanti.
+3 - Sul libretto, che viente emesso gratuitamente e consegnato al depositante, l'ufficio deve scrivere, in base alle indicazioni fornite dal depositante medesimo, le generalita' dell'intestatario, l'ammontare del deposito, la causa o l'affare per cui il deposito e' fatto e la cancelleria presso la quale deve rimanere il libretto.
+4 - Per ogni deposito l'ufficio rilascia al depositante una ricevuta; quando il deposito e' eseguito dal cancelliere o da altro funzionario giudiziario, la ricevuta stessa deve essere trasmessa dell'ufficio in raccomandazione alla parte a favore della quale il deposito e' stato fatto.
+5 - Qualora l'ufficio, dopo aver avuto dal funzionario di cancelleria, che assiste all'udienza per gli incanti, l'elenco dei depositi eseguiti direttamente in cancelleria dagli offerenti divenuti aggiudicatari, non ricevesse nello stesso giorno o nel successivo tutti i depositi, deve sollecitamente informarne il presidente del tribunale od il procuratore della Repubblica, secondo che l'omissione sia imputabile alla segreteria del tribunale od a quella della pretura.
 
 ## Art. 190. — Comunicazione e conferma dei depositi
 

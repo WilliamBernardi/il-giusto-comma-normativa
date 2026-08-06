@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2025-03-24;53
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -116,6 +116,60 @@ A decorrere dal 1° gennaio 2024, le misure dell'indennita' pensionabile di cui 
 
 ## Art. 5. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per l'anno 2024, per ogni Forza di polizia ad ordinamento civile, le risorse destinate al fondo per l'efficienza dei servizi istituzionali di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, e successive modificazioni, sono ulteriormente incrementate dalle seguenti risorse economiche annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la Polizia di Stato: euro 7.648.369; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la Polizia penitenziaria: euro 697.215.
+
+2.
+                        
+                            
+                                Per l'anno 2025, per ogni Forza di polizia ad ordinamento civile, le risorse destinate al fondo per l'efficienza dei servizi istituzionali di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, e successive modificazioni, sono ulteriormente incrementate dalle seguenti risorse economiche annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la Polizia di Stato: euro 7.861.749; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la Polizia penitenziaria: euro 1.161.189.
+
+3.
+                        
+                            
+                                A decorrere dall'anno 2026, per ogni Forza di polizia ad ordinamento civile, le risorse destinate al fondo per l'efficienza dei servizi istituzionali di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, e successive modificazioni, sono ulteriormente incrementate dalle seguenti risorse economiche annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la Polizia di Stato: euro 9.437.955; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la Polizia penitenziaria: euro 1.910.698.
+
 Al fondo per l'efficienza dei servizi istituzionali di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, e successive modificazioni, sono assegnati, ove non destinati ad altre finalita', gli eventuali stanziamenti previsti dalla legge di bilancio per il 2025 per l'incremento delle risorse destinate al finanziamento dei trattamenti economici accessori di natura non fissa e continuativa del personale non dirigente di ciascuna Forza di polizia ad ordinamento civile.
 
 Gli importi di cui ai commi precedenti non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
@@ -209,6 +263,26 @@ L'articolo 22, comma 1, del decreto del Presidente della Repubblica 20 aprile 20
 
 Tutela della genitorialita'
 
+1.
+                        
+                            
+                                All'articolo 24, comma 1, del decreto del Presidente della Repubblica 20 aprile 2022, n. 57, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        la lettera d) e' sostituita dalla seguente: «d) esonero, a domanda, dal turno notturno per le situazioni monoparentali, ivi compreso il genitore unico affidatario ovvero, in caso di affidamento condiviso, il genitore collocatario nei termini del relativo provvedimento, sino al compimento del quattordicesimo anno di eta' del figlio convivente;»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        dopo la lettera f), e' inserita la seguente: «f-bis) esonero, a domanda, per la madre o, alternativamente, per il padre, in attesa del perfezionamento della concessione delle agevolazioni previste dalla legge 5 febbraio 1992, n. 104, dal servizio notturno per l'assistenza dei figli affetti da patologie gravi che richiedono terapie salvavita documentate dall'ufficio medico legale dell'azienda sanitaria competente per territorio o da struttura convenzionata;».
+
 ## Art. 19. — Congedo parentale
 
 L'articolo 8, comma 1, del decreto del Presidente della Repubblica 15 marzo 2018, n. 39, e' cosi' sostituito: 
@@ -254,6 +328,36 @@ All'articolo 32 del decreto del Presidente della Repubblica 18 giugno 2002, n. 1
 La fruizione dei permessi sindacali in forma cumulativa, ai sensi del precedente comma 8, non esclude la possibilita' di fruire, nello stesso mese, sempre non oltre il limite mensile di nove turni giornalieri di servizio per ciascun dirigente sindacale, dei permessi sindacali previsti dal comma 7.».
 
 ## Art. 23. — Disposizioni concernenti le deleghe e le revoche sindacali
+
+1.
+                        
+                            
+                                All'articolo 34 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, sono apportate le seguenti integrazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 2, in fine, sono aggiunte le seguenti parole: «La revoca della delega e' consegnata dall'interessato all'Amministrazione direttamente ovvero e' trasmessa a mezzo lettera raccomandata oppure a mezzo posta elettronica certificata. La revoca puo' essere, altresi', consegnata all'Amministrazione per il tramite dell'Organizzazione sindacale con i predetti mezzi di trasmissione.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        al comma 3, dopo il primo periodo, sono aggiunte le parole: «Le deleghe sono consegnate dall'Organizzazione sindacale all'Amministrazione direttamente ovvero sono trasmesse a mezzo lettera raccomandata oppure a mezzo posta elettronica certificata»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        dopo il comma 6 e' inserito il seguente comma: 
+ «6-bis. I competenti uffici delle Amministrazioni interessate forniscono, a richiesta dei rispettivi soggetti sindacali, entro il termine di dieci giorni, i dati, anche nominativi, riferiti alle revoche delle deleghe conferite in loro favore. 
+ La trasmissione dei predetti dati e' finalizzata ad assicurare la comunicazione in forma scritta della revoca anche all'organizzazione sindacale interessata, come anche previsto per la Polizia di Stato dall'articolo 93, secondo comma, della legge 1° aprile 1981, n. 121.».
 
 ## Art. 24. — Comitato unico di garanzia
 
@@ -313,9 +417,88 @@ A decorrere dal 1° gennaio 2024, le misure dell'indennita' pensionabile di cui 
 
 ## Art. 29. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per l'anno 2024, le risorse destinate al fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 53 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, sono ulteriormente incrementate delle seguenti risorse economiche annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'Arma dei carabinieri: euro 5.025.361; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la Guardia di finanza: euro 1.658.868.
+
+2.
+                        
+                            
+                                Per l'anno 2025, le risorse destinate al fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 53 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, sono ulteriormente incrementate delle seguenti risorse economiche annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'Arma dei carabinieri: euro 4.555.754; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la Guardia di finanza: euro 1.872.860.
+
+3.
+                        
+                            
+                                A decorrere dal 2026, le risorse destinate al fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 53 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, sono ulteriormente incrementate delle seguenti risorse economiche annue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'Arma dei carabinieri: euro 6.302.719; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la Guardia di finanza: euro 2.934.045.
+
 Gli importi di cui ai commi precedenti non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 
 Le risorse assegnate e non utilizzate nell'esercizio di competenza sono riassegnate, per le medesime esigenze, nell'anno successivo.
+
+6.
+                        
+                            
+                                All'articolo 53 del decreto del Presidente della Repubblica 19 giugno 2002, n. 164, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        il comma 4 e' sostituito dal seguente: «4. Con distinti decreti del Ministro della difesa e del Ministro dell'economia e delle finanze, su proposta dei rispettivi Comandanti Generali formulata all'esito delle procedure di cui ai commi 4-bis, 4-ter e 4-quater, sono annualmente determinati i criteri per la destinazione, l'utilizzazione delle risorse indicate al comma 1, disponibili al 31 dicembre di ciascun anno, e le modalita' applicative concernenti l'attribuzione dei compensi previsti dal presente articolo.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        dopo il comma 4 sono aggiunti i seguenti: 
+ «4-bis. Ai fini dell'emanazione del decreto di cui al comma 4, le Amministrazioni inviano alle APCSM firmatarie dell'ultimo accordo di cui all'articolo 2, comma 1, lettera b), del decreto legislativo 12 maggio 1995, n. 195, lo schema di provvedimento, in merito al quale le APCSM esprimono, entro 20 giorni dalla ricezione, pareri e proposte in ordine ai criteri ivi indicati per la destinazione, l'utilizzazione e le modalita' di attribuzione delle risorse. 
+ 4-ter. Le Amministrazioni adottano il provvedimento di cui al comma 4-bis ove la maggioranza delle APCSM firmatarie, di cui al comma 4-bis, stabilita tenendo conto della rispettiva percentuale di rappresentativita' determinata per l'emanazione del decreto del Ministro per la pubblica amministrazione di cui all'articolo 1480, comma 5, del decreto legislativo 15 marzo 2010, n. 66, esprime parere favorevole, anche mediante silenzio assenso, sullo schema di provvedimento inviato dall'Amministrazione. 
+ 4-quater. Fuori dai casi di cui al comma 4-ter, nei 30 giorni successivi all'acquisizione dei pareri e delle proposte di cui al comma 4-bis, l'Amministrazione e le APCSM firmatarie, di cui al comma 4-bis, svolgono apposite riunioni all'esito delle quali l'Amministrazione trasmette un nuovo schema di provvedimento alle medesime APCSM, che entro 10 giorni dalla ricezione esprimono il proprio parere. Decorso tale termine, se ricorrono le condizioni di cui al comma 4-ter, il provvedimento e' adottato. In assenza di parere favorevole della maggioranza delle predette APCSM, il provvedimento e' adottato utilizzando di massima i criteri previsti nel decreto ministeriale riferito all'anno precedente. 
+ 4-quinquies. Durante il periodo in cui si svolgono le procedure di cui ai commi 4-bis e 4-quater, le Amministrazioni non adottano provvedimenti al riguardo. 
+ 4-sexies. In deroga al comma 4-quater, solo per l'emanazione del decreto riferito all'anno 2024, lo schema di provvedimento proposto dalle Amministrazioni e' trasmesso al Ministro della difesa e al Ministro dell'economia e delle finanze, dai rispettivi Comandanti Generali, acquisito il parere favorevole della maggioranza delle APCSM firmatarie di cui al comma 4-bis.».
 
 ## Art. 30. — Lavoro straordinario
 
@@ -355,6 +538,24 @@ Indennita' per attivita' di controllo del territorio delle Forze di polizia a co
 
 A decorrere dal 1° gennaio 2024, nell'ambito delle attivita' delle Forze di polizia a competenza generale e in servizio permanente di pubblica sicurezza, al personale dell'Arma dei carabinieri impiegato in servizi di controllo del territorio, compete, per ciascun servizio svolto nella fascia serale o notturna, e di durata non inferiore alle tre ore continuative, l'indennita' nelle misure previste dall'articolo 46, comma 1, lettere a) e b), del decreto del Presidente della Repubblica 20 aprile 2022, n. 57.
 
+2.
+                        
+                            
+                                L'indennita' di cui al presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' cumulabile con quella di missione e continua a non essere cumulabile con quella di ordine pubblico di cui all'articolo 49 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' corrisposta una sola volta al personale impiegato in servizi plurimi consecutivi.
+
 ## Art. 35.
 
 Indennita' per attivita' ispettiva tributaria
@@ -383,11 +584,87 @@ A decorrere dal 1° gennaio 2024, l'indennita' giornaliera di cui agli articoli 
 
 ## Art. 39. — Licenza e riposo solidale
 
+1.
+                        
+                            
+                                All'articolo 53 del decreto del Presidente della Repubblica 20 aprile 2022, n. 57, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        il comma 1 e' sostituito dal seguente: «1. Il personale puo' cedere, in tutto o in parte, al fine di consentire ad altri appartenenti alla stessa Amministrazione di assistere i figli e/o il coniuge convivente, ovvero il convivente di fatto ai sensi della legge 20 maggio 2016, n. 76, che, per le particolari condizioni di salute in cui versano, necessitano di cure costanti: 
+ a) la licenza ordinaria spettante e non ancora fruita, eccedente le quattro settimane annue, quantificata in venti o ventiquattro giorni nel caso di articolazione dell'orario di lavoro settimanale, rispettivamente, su cinque o sei giorni; 
+ b) le quattro giornate di riposo di cui alla legge 23 dicembre 1977, n. 937.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        al comma 2, alla lettera b), le parole «rispettive sezioni del Consiglio centrale della rappresentanza militare ai sensi dell'articolo 59 del decreto del Presidente della Repubblica 16 marzo 1999, n. 254
+                                            » sono sostituite dalle seguenti: «APCSM riconosciute rappresentative ai sensi dell'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66
+                                            »;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        dopo il comma 3, e' inserito il seguente comma: «3-bis. Ferme restando le disposizioni di cui ai commi 1, 2 e 3, l'istituto puo' essere fruito anche dal personale che ha necessita' di assistere il genitore: 
+ a) convivente che, per le particolari condizioni di salute in cui versa, necessita di cure costanti; 
+ b) non convivente, affetto da patologie gravi che richiedono terapie salvavita documentate dalla azienda sanitaria competente per territorio o da struttura convenzionata.».
+
 ## Art. 40.
 
 Tutela della genitorialita'
 
+1.
+                        
+                            
+                                All'articolo 55, comma 1, del decreto del Presidente della Repubblica 20 aprile 2022, n. 57, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        la lettera d) e' sostituita dalla seguente: «d) esonero, a domanda, dal turno notturno per le situazioni monoparentali, ivi compreso il genitore unico affidatario ovvero, in caso di affidamento condiviso, il genitore collocatario nei termini del relativo provvedimento, sino al compimento del quattordicesimo anno di eta' del figlio convivente;»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        dopo la lettera f), e' inserita la seguente: «f-bis) esonero, a domanda, per la madre o, alternativamente, per il padre, in attesa del perfezionamento della concessione delle agevolazioni previste dalla legge 5 febbraio 1992, n. 104, dal servizio notturno per l'assistenza dei figli affetti da patologie gravi che richiedono terapie salvavita documentate dall'azienda sanitaria competente per territorio o da struttura convenzionata.».
+
 ## Art. 41. — Licenza straordinaria per congedo parentale
+
+1.
+                        
+                            
+                                All'articolo 25 del decreto del Presidente della Repubblica 15 marzo 2018, n. 39, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        il comma 1 e' sostituito dal seguente: «1. Al personale con figli minori di dodici anni che intende avvalersi del congedo parentale di cui articolo 32 del decreto legislativo 26 marzo 2001, n. 151, sono concessi, alternativamente a richiesta del militare e comunque per un periodo complessivamente non superiore a quello previsto dall'articolo 34, comma 1, primo periodo, del medesimo decreto: 
+ a) la licenza straordinaria di cui all'articolo 48 del decreto del Presidente della Repubblica 31 luglio 1995, n. 395, sino alla misura complessiva di quarantacinque giorni, anche frazionati, nell'arco di dodici anni e comunque entro il limite massimo annuale previsto per il medesimo istituto; 
+ b) il congedo parentale determinato ai sensi del citato articolo 34, comma 1, primo periodo.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        dopo il comma 4, e' inserito il seguente comma: «4-bis. I periodi di assenza disciplinati dai commi 3 e 4 non riducono la licenza ordinaria spettante ne' l'importo della tredicesima mensilita' e sono computati per intero nell'anzianita' di servizio.».
 
 ## Art. 42. — Commissione paritetica
 

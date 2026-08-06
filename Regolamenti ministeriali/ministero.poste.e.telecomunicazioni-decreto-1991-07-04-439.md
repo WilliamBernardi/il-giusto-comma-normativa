@@ -8,8 +8,8 @@ codice_redazionale: 092G0027
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,11 +50,84 @@ Non si considerano sponsorizzati i programmi promossi dalle amministrazioni dell
 
 Si considera sponsorizzato il programma radiofonico o televisivo nel quale siano inserite o a cui siano comunque abbinate o collegate, dietro versamento di specifico contributo da parte di un'impresa o di chi operi per conto di essa, forme di comunicazione di contenuto promozionale non annoverabile fra i tipici messaggi di pubblicita' tabellare.
 
+2.
+                        
+                            
+                                In particolare, si considera sponsorizzato il programma nel quale siano inserite o a cui siano comunque abbinate o collegate le seguenti forme di comunicazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    i "preannunci" o "inviti all'ascolto" di programmi, (c.d.
+"promos") dei quali sia prevista la trasmissione da parte della concessionaria in un tempo successivo, ove in tali "preannunci" siano citati, in forma visiva o acustica, nome, marchio, immagine o prodotti di una o piu' imprese, diverse dalla concessionaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli inviti all'ascolto e le offerte di programma che precedono immediatamente il programma stesso, come pure i ringraziamenti per l'ascolto o simili effettuati al termine del programma (c.d. "billboards"), ove essi contengano le citazioni di cui al precedente punto a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i segnali acustici o visivi trasmessi in occasione delle interruzioni di programmi, (c.d. "spot-jingles") ove contengano le citazioni di cui al precedente punto a);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le sovraimpressioni, realizzate nel corso di un programma, di nomi, marchi, simboli o scritte identificanti una o piu' imprese di- verse dalla concessionaria, o i loro prodotti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la citazione, nei titoli di testa e/o di coda di un programma, del nome, marchio, simboli, attivita' o prodotti di una o piu' imprese diverse dalla concessionaria, eccezion fatta per i casi specificati ai successivi articoli 7, 8 e 9 del presente regolamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la presentazione, l'illustrazione e, comunque, il coinvolgimento a scopo pubblicitario o promozionale, in modo diretto e specifico all'interno di un programma del nome, marchio o simboli di un'impresa nonche' di un prodotto o servizio, ovvero di un concorso, operazione a premi o altra manifestazione promozionale ad essi relativa;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la citazione, in forma visiva o acustica, del nome, marchio, simboli, attivita' o prodotti degli organizzatori e/o degli sponsor di eventi artistici, culturali o sportivi, nel corso della radiocronaca o telecronaca degli stessi, ove tale citazione risulti ripetuta, non occasionale, tecnicamente non necessaria, e comunque evitabile senza pregiudizio per la regolare effettuazione della cronaca e salvo in ogni caso il disposto dei successivi articoli 9 e 10 del presente regolamento.
+
 I messaggi di carattere promozionale contenuti all'interno del programma sponsorizzato devono essere riconoscibili come tali e preceduti dall'avvertenza "messaggio di carattere promozionale".
 
 ## Art. 4. — Forme di sponsorizzazione non consentite
 
 I programmi per i quali, a norma dell'art. 8, commi 1, 3 e 4, della legge 6 aprile 1990, n. 223, sono vietate interruzioni o inserimenti pubblicitari, non possono formare oggetto di sponsorizzazioni che comportino interruzioni o inserimenti promozionali nel contesto dei programmi stessi.
+
+2.
+                        
+                            
+                                Devono, pertanto, ritenersi non consentite:
+ 
+                            
+                            
+                                a)
+                                
+                                    per la trasmissione di cartoni animati e per i programmi che il Garante abbia determinato di alto valore artistico o di carattere educativo o religioso ai sensi dell'art. 8, comma 4, della legge 6 agosto 1990, 223, le forme di sponsorizzazione di cui alle lettere c), d), f)
+ e g) del precedente art. 3, comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le opere teatrali, cinematografiche, liriche o musicali, le forme di sponsorizzazione di cui alle lettere d), f) e g) del precedente art. 3, comma 2.
 
 ## Art. 5. — Telegiornali e notiziari politici
 

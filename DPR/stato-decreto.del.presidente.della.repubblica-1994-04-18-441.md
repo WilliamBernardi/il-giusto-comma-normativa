@@ -8,8 +8,8 @@ codice_redazionale: 094G0481
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,11 +29,207 @@ Sulla proposta del Ministro della sanita', di concerto con il Ministro del tesor
 
 ## Art. 1. — Compiti ed attribuzioni
 
+1.
+                        
+                            
+                                Le attivita' dell'I.S.P.E.S.L. di cui all'art. 1, comma 4, del decreto legislativo 30 giugno 1993, n. 268, sono integrate e coordinate con le competenze attribuite all'Istituto dall'art. 3 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619, dall'art. 2 della legge 12 agosto 1982, n. 597, dal decreto del Presidente della Repubblica 27 maggio 1988, n. 175, dal decreto legislativo 15 agosto 1991, n. 277, e dal decreto del Presidente della Repubblica 10 settembre 1982, n. 915. In particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    relativamente all'art. 1, comma 4, lettera a), del decreto legislativo 30 giugno 1993, n. 268, l'attivita' di consulenza e' effettuata attraverso:
+ 1) la definizione di criteri, modalita' e procedure per la valutazione dei rischi e dei danni per la salute ai fini della loro eliminazione in base al progresso tecnico e normativo in sede di consulenza nella elaborazione dei piani sanitari nazionali e regionali;
+ 2) lo studio delle procedure organizzative e tecniche nel campo dell'igiene del lavoro e della prevenzione degli infortuni e delle malattie professionali;
+ 3) la consulenza tecnica ai presidi multizonali di prevenzione e ad organismi pubblici e privati, ai fini della valutazione dei rischi e dei danni per la salute e della loro eliminazione in base al progresso tecnico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relativamente all'art. 1, comma 4, lettera b), del citato decreto legislativo 30 giugno 1993, n. 268, la standardizzazione tecnico-scientifica delle metodiche e procedure di valutazione dei rischi e' attuato con gli enti normatori nazionali sulla base di appositi protocolli di intesa, anche in collaborazione con l'Istituto superiore
+di sanita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relativamente all'art. 1, comma 4, lettera c), del citato decreto legislativo 30 giugno 1993, n, 268, per quanto attiene agli ambienti di lavoro, gia' di competenza dell'Istituto, e agli ambienti di vita, di nuova attribuzione, il compito dell'Istituto si esplica in via prioritaria nella proposta normativa all'autorita' di vigilanza e nella consulenza per indicare le misure idonee all'eliminazione dei fattori di rischio e al risanamento degli ambienti di vita e di lavoro, ivi compresa la definizione dei valori limite di esposizione a livello nazionale e la partecipazione alla formulazione di proposte normative a livello comunitario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    relativamente all'art. 1, comma 4, lettera d), del citato decreto legislativo 30 giugno 1993, n. 268, l'assistenza alle imprese si attua attraverso l'indicazione di metodologie e procedure mirate alla prevenzione degli infortuni derivanti dall'uso di macchine, attrezzature ed impianti tecnologici e di processo, nonche' alla prevenzione medesima nelle condizioni ambientali, ivi comprese l'igiene e la medicina del lavoro. L'assistenza alle imprese si esplica altresi' anche attraverso la formulazione e la realizzazione di progetti e la definizione di metodologie per l'informazione e la formazione del personale, nonche' attraverso la definizione di fattori ergonomici nella concezione dei posti di lavoro, nella scelta delle attrezzature e nella disposizione di metodi di lavoro e di produzione. Tutte le iniziative devono essere comunicate alle regioni interessate;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    relativamente all'art. 1, comma 4, lettera e), del citato decreto legislativo 30 giugno 1993, n. 268, l'Istituto esplica attivita' di certificazione previa specifica autorizzazione ministeriale ed in conformita' delle procedure vigenti previste negli atti di recepimento delle direttive comunitarie e svolge attivita' di collaborazione per l'accreditamento di laboratori sulla base di norme comunitarie;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nell'ambito dei compiti di cui all'art. 3 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619, e dell'art. 2 del decreto-legge 30 giugno 1982, n. 390, convertito, con modificazioni, dalla legge 18 agosto 1982, n. 597, l'Istituto attesta la conformita' in fase di costruzione dei prodotti industriali o parti di essi ovvero dei materiali ad essi destinati, nonche' delle procedure di fabbricazione, alle disposizioni di legge o di norme vigenti in materia di omologazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nell'ambito del reciproco riconoscimento con Paesi non aderenti alla Comunita' europea, a seguito di accordi di reciprocita' stipulati dall'I.S.P.E.S.L., l'Istituto attesta la rispondenza dei prodotti, degli apparecchi e dei dispositivi di cui alla lettera f) agli standards oggetto dell'accordo. Gli accordi di reciprocita', sottoscritti dall'I.S.P.E.S.L., sono approvati con decreto dei Ministri degli affari esteri, dell'industria, del commercio e dell'artigianato, della sanita' e del lavoro e della previdenza sociale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    su richiesta del Ministero dell'industria, del commercio e dell'artigianato, l'I.S.P.E.S.L. effettua consulenze per la vigilanza sulla conformita' dei prodotti industriali finiti alle disposizioni vigenti, finalizzata alla verifica della loro idonea e corretta installazione, nonche' dell'utilizzazione e dell'esercizio. Per prodotto industriale finito si intende l'impianto, la macchina o l'attrezzatura in genere costituita da componenti o prodotti industriali semplici gia' certificati da organismi autorizzati ovvero muniti di attestazione di conformita' da parte del fabbricante, secondo le procedure imposte dalle direttive comunitarie. Ancora su richiesta del Ministero dell'industria, del commercio e dell'artigianato l'I.S.P.E.S.L. effettua consulenza in tema di pianificazione e omogeneizzazione delle procedure di certificazione, in armonia alle disposizioni di legge comunitaria e presta assistenza sulla corretta applicazione delle stesse sul territorio nazionale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la certificazione, di cui all'art. 1, comma 4, lettera i), del decreto legislativo 30 giugno 1993, n. 268, nell'ambito delle aziende ospedaliere e dei presidi sanitari, si effettua, a richiesta e in conformita' alle direttive comunitarie, su macchine e attrezzature nuove e su nuovi impianti ed e' finalizzata alla prevenzione degli infortuni ed alla sicurezza del lavoro. Essa consiste in un accertamento delle caratteristiche costruttive delle macchine, attrezzature ed impianti per verificarne la rispondenza alla regola d'arte ed in un esame della loro corretta ubicazione nelle strutture sanitarie.
+
+2.
+                        
+                            
+                                Le competenze di cui al comma 1 sono esercitate:
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante le strutture dell'Istituto articolate secondo quanto previsto dal capo III del presente regolamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante la partecipazione dell'I.S.P.E.S.L. a consorzi aventi oggetto e finalita' conformi con i suoi compiti istituzionali. In particolare la partecipazione dell'I.S.P.E.S.L. ai consorzi e' consentita nei casi in cui non sia opportuno o possibile l'intervento diretto mediante gli strumenti operativi tipici dell'Istituto e quando si renda necessaria la collaborazione con soggetti pubblici o privati mediante la costituzione di una organizzazione comune; la partecipazione dell'I.S.P.E.S.L. e' in ogni caso limitata a consorzi che non hanno fini di lucro. La partecipazione dell'I.S.P.E.S.L. ai consorzi deve essere autorizzata in via preventiva dal comitato amministrativo dell'Istituto su proposta del direttore dell'Istituto, sentito il comitato tecnico scientifico. La precisazione delle finalita' da perseguire attraverso ciascun consorzio e l'individuazione dei soggetti con i quali consociarsi e' effettuata dall'I.S.P.E.S.L. sulla base di uno studio di fattibilita', tenendo conto di un disciplinare e di uno statuto. Quanto sopra ai fini della valutazione della convenienza sotto il profilo tecnico scientifico e giuridico-amministrativo della partecipazione dell'I.S.P.E.S.L. Gli statuti e gli atti costitutivi del consorzio in nessun caso possono far carico all'I.S.P.E.S.L. di assumere personale dipendente dai consorzi ai quali l'Istituto partecipa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mediante programmi di ricerca finalizzata. Tali programmi di durata definita, in particolare, riguardano attivita' di ricerca, informazione, documentazione, sviluppo e dimostrazione di prototipi e dispositivi relativi a prodotti, processi, protocolli e servizi, con particolare riguardo alla sicurezza, l'igiene e la medicina del lavoro negli ambienti di lavoro, trasferibili al sistema produttivo e al tessuto economico-sociale sulla base della programmazione annuale stabilita dai piani di attivita' dell'Istituto. Ai programmi di ricerca finalizzata possono partecipare dipartimenti dell'I.S.P.E.S.L., regioni, unita' sanitarie locali e presidi multizonali, universita', enti o consorzi di ricerca, enti locali, altre amministrazioni dello Stato, imprese e consorzi di imprese.
+L'I.S.P.E.S.L. assicura adeguata pubblicita' ai programmi di ricerca proposti per favorire la massima partecipazione della comunita' scientifica e delle categorie produttive. L'Istituto, in quanto centro nazionale di informazione, documentazione, ricerca e sperimentazione per il Servizio sanitario nazionale, opera, su richiesta, per organismi pubblici e privati e per le imprese, in materia di tutela della salute e della sicurezza e benessere nei luoghi di lavoro. In relazione, in particolare, alla finalita' di centro nazionale di informazione e documentazione l'I.S.P.E.S.L. promuove, in collaborazione con le regioni, un sistema informativo prevenzionale, senza oneri a carico del bilancio dello Stato al fine di uniformare i flussi informativi ed ottimizzare le risorse.
+
 ## - Capo II O R G A N I
 
 ## Art. 2. — Organi dell'Istituto
 
+1.
+                        
+                            
+                                Organi dell'I.S.P.E.S.L. sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    il comitato amministrativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comitato tecnico-scientifico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il direttore dell'Istituto.
+
 ## Art. 3. — Comitato amministrativo
+
+1.
+                        
+                            
+                                Il comitato amministrativo e' nominato con decreto del Ministro della sanita'; e' presieduto dallo stesso Ministro o per delega da un Sottosegretario di Stato, rimane in carica cinque anni ed e' composto da esperti di riconosciuta competenza in materia di organizzazione e programmazione nei settori di attivita' dell'Istituto, dei quali:
+ 
+                            
+                            
+                                a)
+                                
+                                    uno designato dal Ministro della sanita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uno designato dal Ministro del lavoro e della previdenza sociale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno designato dal Ministro dell'industria, del commercio e dell'artigianato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    uno designato dal Ministro del tesoro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    uno designato dal Ministro dell'universita' e della ricerca scientifica e tecnologica;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    uno designato dal Ministro dell'ambiente;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    uno designato dal Ministro dell'interno;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    due nominati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    uno designato dalla Associazione nazionale dei comuni d'Italia (ANCI);
+
+                                
+                            
+                            
+                                l)
+                                
+                                    uno designato dalla unione province italiane (UPI).
 
 Alle sedute del comitato partecipa il direttore dell'Istituto con voto consultivo. Le funzioni di segretario del comitato sono affidate ad un dirigente amministrativo dell'Istituto.
 
@@ -42,6 +238,45 @@ Le sedute del comitato sono valide se e' presente la maggioranza dei componenti.
 I componenti del comitato decadono automaticamente dalla carica dopo tre assenze consecutive senza giustificato motivo.
 
 Il compenso per i componenti del comitato e' fissato con decreto del Ministro della sanita' assunto di concerto con il Ministro del tesoro.
+
+6.
+                        
+                            
+                                Il comitato esercita le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    inoltra per l'approvazione del Ministro i piani annuali delle attivita', corredandoli con il proprio parere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delibera il bilancio preventivo, le eventuali variazioni ed il conto consuntivo trasmettendoli al Ministro per l'approvazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    approva gli schemi-tipo di convenzioni con istituzioni di riconosciuto valore scientifico per l'attuazione dei programmi di ricerca stabiliti dai piani annuali di attivita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprime il proprio parere ogni volta che gli viene richiesto dal Ministro della sanita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    approva i regolamenti generali di organizzazione e di funzionamento dell'Istituto e quelli relativi al conferimento di borse di studio.
 
 I provvedimenti sono assunti dal comitato su proposta del direttore dell'Istituto. Sulle materie di cui alle lettere a) e c) del comma 6 e' sentito il comitato tecnico-scientifico.
 
@@ -75,6 +310,73 @@ L'incarico ha durata quinquennale e puo' essere rinnovato per una sola volta con
 
 Il trattamento economico del direttore dell'Istituto e' determinato con decreto del Ministro della sanita' in conformita' a quanto previsto dall'art. 17, comma 14, del decreto del Presidente della Repubblica 12 febbraio 1991, n. 171.
 
+4.
+                        
+                            
+                                Il direttore dell'Istituto:
+ 
+                            
+                            
+                                a)
+                                
+                                    coordina e attua i programmi e le direttive impartite dal Ministro della sanita' in applicazione dell'art. 3 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sovraintende al funzionamento e alle attivita' dell'Istituto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delibera la ripartizione dei fondi fra i dipartimenti ed i servizi in funzione dei compiti agli stessi attribuiti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    conferisce gli incarichi di direttore dei dipartimenti, dei servizi, dei laboratori e di ogni altra struttura interna;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    predispone il piano di attivita' annuale e triennale ed ogni altra proposta su materie oggetto di provvedimento del comitato amministrativo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    cura la esecuzione dei provvedimenti adottati dal comitato amministrativo;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esercita i poteri di spesa ed ogni altra funzione attribuitagli da leggi o da regolamenti;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    rassegna, entro il primo semestre dell'anno successivo, una relazione all'autorita' vigilante sulla attivita' svolta dall'Istituto nell'anno precedente;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    esercita ogni altro potere di gestione non espressamente attribuito ad altri organi dell'Istituto.
+
 In caso di assenza o impedimento le funzioni di direttore dell'Istituto sono esercitate dal direttore di dipartimento centrale dallo stesso delegato o, in assenza di delega, dal piu' anziano in servizio nella funzione di direttore di dipartimento.
 
 ## - Capo III ORGANIZZAZIONE OPERATIVA DELL'ISTITUTO
@@ -84,6 +386,52 @@ In caso di assenza o impedimento le funzioni di direttore dell'Istituto sono ese
 L'I.S.P.E.S.L. e organizzato in sei dipartimenti centrali, trentacinque dipartimenti periferici che operano territorialmente nelle circoscrizioni di cui alla tabella D del presente regolamento e, con funzioni di supporto al complesso delle competenze dei dipartimenti, da tre dipartimenti centrali amministrativi e da un servizio per la valutazione ed i controlli di gestione.
 
 ## Art. 7. — Dipartimenti centrali
+
+1.
+                        
+                            
+                                I dipartimenti centrali sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    igiene del lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    medicina del lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tecnologie di sicurezza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    insediamenti produttivi ed interazione con l'ambiente;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    omologazione e certificazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    documentazione, informazione e formazione.
 
 I direttori dei dipartimenti centrali sono responsabili dell'attivita' svolta dal dipartimento di fronte al direttore dell'Istituto. I dipartimenti centrali sono articolati in unita' funzionali dirette da coordinatori che sono responsabili dell'attivita' svolta di fronte al direttore del dipartimento.
 
@@ -149,6 +497,31 @@ I dipartimenti periferici sede di capoluogo di regione esplicano anche funzione 
 
 Gli uffici amministrativi centrali sono composti da tre dipartimenti amministrativi e da un servizio per la valutazione ed i controlli di gestione.
 
+2.
+                        
+                            
+                                I dipartimenti amministrativi centrali sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    dipartimento per la programmazione e la gestione delle risorse economico-finanziarie e del personale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dipartimento informatico-statistico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dipartimento relazioni esterne e servizi comuni di supporto alle aree di ricerca "Casilina" e "Monteporzio".
+
 I direttori dei servizi amministrativi centrali sono responsabili dell'attivita' svolta dal dipartimento di fronte al direttore dell'Istituto. I dipartimenti centrali sono articolati in unita' funzionali dirette da coordinatori che sono responsabili dell'attivita' svolta di fronte al direttore del dipartimento.
 
 Gli incarichi di direzione dei dipartimenti amministrativi centrali sono conferiti, per un triennio, dal direttore dell'Istituto a un dirigente generale amministrativo.
@@ -175,6 +548,52 @@ Per quanto non espressamente previsto al comma 12, si applicano le disposizioni 
 ## Art. 10. — Consiglio interdipartimentale
 
 Il consiglio interdipartimentale e' composto dal direttore dell'Istituto, che lo presiede, dai direttori dei dipartimenti centrali e dai dirigenti amministrativi preposti alle direzioni centrali.
+
+2.
+                        
+                            
+                                Il consiglio interdipartimentale:
+ 
+                            
+                            
+                                a)
+                                
+                                    designa i direttori del dipartimento nella giunta di coordinamento con l'Istituto superiore di sanita' di cui all'art. 22 del decreto del Presidente della Repubblica 31 luglio 1980, n. 619;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formula proposte sul programma di attivita' dell'Istituto, sul piano di utilizzazione dei fondi stanziati in bilancio per il funzionamento dell'Istituto e la ricerca scientifici, sui corsi di formazione del personale e la loro programmazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprime parere sul coordinamento dell'attivita' dei dipartimenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprime parere e formula proposte sulle altre materie stabilite dalla legge e dai regolamenti e in tutti i casi in cui il presidente lo richieda;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verifica lo stato di avanzamento dei programmi di lavoro dell'Istituto;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    predispone per il direttore dell'Istituto la proposta di consuntivo delle attivita' dell'Istituto sulla base delle relazioni presentate dai direttori di dipartimento.
 
 Il consiglio interdipartimentale si riunisce in via ordinaria una volta ogni quadrimestre su convocazione del presidente o, in via straordinaria, su richiesta di almeno la meta' dei componenti.
 
@@ -296,6 +715,45 @@ L'Istituto puo' inoltre concedere, con le modalita' indicate dall'art. 12 della 
 
 I contratti di ricerca sono stipulati con enti privati o societa' e sono conformi a schemi tipo approvati dal comitato amministrativo, previo parere del comitato tecnico-scientifico.
 
+4.
+                        
+                            
+                                I contratti di cui al comma 3 possono essere stipulati a trattativa privata. I contratti predetti possono:
+ 
+                            
+                            
+                                a)
+                                
+                                    avere, in relazione ai programmi di ricerca da svolgere, durata pluriennale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevedere, in connessione alle peculiari loro caratteristiche e alle esigenze degli enti e societa' commissionari, che siano concesse anticipazioni, dietro presentazione di idonee garanzie, sino al 50 per cento del corrispettivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedere che la rispondenza dell'attivita' svolta dai commissionari all'oggetto contrattuale, sia verificata, anche in corso d'opera, da singoli collaudatori o da commissioni di collaudo sulla base dei costi sostenuti e sulla base dei risultati conseguiti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedere, in ispecie nel caso di contratti di durata pluriennale, che sia compiuta una valutazione periodica sull'andamento generale delle ricerche e delle sperimentazioni da parte del comitato tecnico-scientifico dell'Istituto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    contenere apposite clausole tese a favorire un rapido ed efficace trasferimento dei risultati conseguiti.
+
 I finanziamenti accordati alle universita', agli enti pubblici di ricerca o ad altri enti pubblici assumono la forma di contributi modali. Tali contributi sono versati anticipatamente a dette universita' od enti, i quali sono tenuti a gestirli secondo le rispettive norme di funzionamento, fatto salvo l'obbligo di presentare un analitico rendiconto delle spese effettuate. La documentazione di spesa e' tenuta, presso i soggetti fruitori dei contributi, a disposizione dell'Istituto per un periodo non inferiore a dieci anni a partire dalla data di inoltro del rendiconto.
 
 Quando i contributi sono concessi a soggetti privati, costoro devono presentare documentati rendiconti delle spese sostenute e presentare una relazione scientifica circa l'attivita' svolta, relazione da esaminarsi dall'Istituto per le valutazioni di competenza.
@@ -310,6 +768,52 @@ Possono essere eseguiti servizi e disposte spese in economia inerenti alle funzi
 
 Il direttore dell'Istituto, i dirigenti e i funzionari delegati possono disporre spese entro il limite massimo rispettivamente di centocinquanta, cinquanta e dieci milioni.
 
+3.
+                        
+                            
+                                I servizi e le spese da eseguire in economia concernono:
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisto, manutenzione, noleggio e riparazione di beni, mobili, macchine per ufficio, impianti, macchinari, apparecchiature, attrezzature, accessori e parti di ricambio per i vari dipartimenti, servizi e divisioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    custodia, conservazione, trasporto di quanto specificato al punto a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    manutenzione, riparazione, adattamento degli immobili di cui l'Istituto si serve per lo svolgimento delle proprie attivita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    acquisizione, produzione e diffusione di quanto attinente alla formazione, all'informazione e alla comunicazione relativamente ai compiti istituzionali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    organizzazione e partecipazione a convegni, corsi, mostre, fiere ed altre manifestazioni culturali e scientifiche relativamente ai compiti istituzionali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    spese telefoniche, postali, di illuminazione, di riscaldamento.
+
 Le spese aventi carattere ordinatorio, fisso e continuativo sono deliberate sulla base di preventivi di fabbisogno annuale o semestrale.
 
 Per la fornitura di strumenti tecnici, apparecchiature scientifiche, materiali di laboratorio, macchine e arredi per ufficio e tutto cio' che puo' occorrere per la ricerca scientifica ed il funzionamento dei dipartimenti, servizi e divisioni tecnici ed amministrativi e' sentita, sulla indispensabilita' della spesa e la congruita' del prezzo, una commissione nominata dal direttore dell'Istituto all'inizio di ogni biennio e composta da tre membri di cui due dirigenti di ricerca e un dirigente amministrativo. Svolge funzioni di presidente il dirigente piu' anziano.
@@ -317,6 +821,38 @@ Per la fornitura di strumenti tecnici, apparecchiature scientifiche, materiali d
 Le provviste in economia di presumibile importo superiore a lire sette milioni e duecentomila sono giustificate mediante adeguata relazione redatta dal dipartimento, servizio o divisione richiedente.
 
 Le provviste di cui al comma 6 sono fatte previa richiesta di preventivi ad almeno tre ditte che offrano sufficienti garanzie di solvibilita' e di idoneita' tecnica, salvo che la specialita' della provvista renda necessario il ricorso ad una determinata persona o ditta.
+
+8.
+                        
+                            
+                                Possono essere eseguiti in economia, qualunque sia l'importo relativo, e comunque solo in caso di urgente necessita':
+ 
+                            
+                            
+                                a)
+                                
+                                    le provviste di lavori nel caso di rescissione e risoluzione di un contratto, quando cio' sia ritenuto necessario o conveniente per assicurarne la esecuzione nel tempo previsto dal contratto rescisso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le provviste di lavori suppletivi, di completamento o di accessori non previsti da contratti in corso di esecuzione e per i quali l'Istituto non puo' valersi della facolta' di imporne l'esecuzione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i lavori di completamento e di riparazione in dipendenza di deficienza o di danni constatati dai collaudatori e per i quali siano state effettuate le corrispondenti detrazioni agli appaltatori o ditte;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le operazioni di sdoganamento di materiali importati e relative assicurazioni.
 
 I preventivi contengono le condizioni di esecuzione dei servizi e delle provviste, i relativi prezzi, le modalita' di pagamento, l'assunzione dell'obbligo di uniformarsi comunque alle norme legislative e regolamentari vigenti. L'ordinazione dei servizi e' effettuata mediante lettera o altro atto del committente.
 
@@ -355,6 +891,31 @@ I rapporti contrattuali gia' costituiti e le gare in corso di svolgimento restan
 
 
 ## Art. 28. — Regolamenti interni
+
+1.
+                        
+                            
+                                Con provvedimenti del direttore dell'Istituto, sentito il comitato tecnico-scientifico e il comitato amministrativo per le materie di competenza, sono adottati, entro sei mesi dalla data di entrata in vigore del presente decreto, uno o piu' regolamenti interni concernenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' per la erogazione delle borse di studio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la regolamentazione dell'esercizio delle mansioni superiori, conformemente a quanto disposto dall'art. 57 del decreto legislativo 3 febbraio 1993, n. 29, e successive modifiche ed integrazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolazione dei dipartimenti in unita' funzionali e la declaratoria delle loro attivita'.
 
 Fino all'emanazione dei regolamenti di cui sopra permane in vigore l'attuale regolamento dei servizi di cui al decreto del Ministro della sanita' 24 giugno 1991, n. 322.
 

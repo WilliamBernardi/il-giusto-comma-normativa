@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-03-26;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -28,6 +28,24 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 
 Definizione di contributo 
  di entita' significativa
+
+1.
+                    
+                        
+                            Ai fini dell'attuazione e ai sensi delle disposizioni richiamate in premessa, si considerano di entita' significativa i contributi a carico dello Stato, erogati da amministrazioni centrali dello Stato o da societa' da queste direttamente possedute, in misura maggioritaria, con esclusione delle societa' quotate ai sensi del testo unico in materia di societa' a partecipazione pubblica, di cui al decreto legislativo 19 agosto 2016, n. 175, e loro controllate, o da enti pubblici non economici vigilati dalle predette amministrazioni centrali, che, cumulativamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                sono destinati alla realizzazione di finalita' o di specifici progetti di interesse pubblico, con esclusione dei contributi destinati a una generalita' di soggetti, di quelli aventi natura corrispettiva, retributiva, indennitaria o risarcitoria, di quelli concessi sotto forma di credito di imposta, nonche' di quelli erogati, oltre che alle predette societa' quotate e loro controllate, agli enti del terzo settore disciplinati dal codice del terzo settore, di cui al decreto legislativo 3 luglio 2017, n. 117, alle organizzazioni non lucrative di utilita' sociale di cui al decreto legislativo 4 dicembre 1997, n. 460, iscritte nella relativa anagrafe, nonche' a favore degli enti ecclesiastici civilmente riconosciuti e degli enti riconosciuti delle confessioni religiose che hanno sottoscritto intese con lo Stato. Conseguentemente alle societa', alle organizzazioni e agli enti esclusi ai sensi della presente lettera non si applica l'articolo 1, comma 858, della legge 30 dicembre 2024, n. 207; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono di importo superiore a un milione di euro annui ovvero, nel caso di importi fino a un milione di euro annui, sono di ammontare pari ad almeno il 50 per cento del totale delle entrate o del valore della produzione del soggetto beneficiario. Ai fini di cui alla presente lettera rilevano i contributi comunque percepiti, anche in forma disgiunta.
 
 Il presente decreto si applica ai contributi percepiti dai soggetti beneficiari a partire dal 1° gennaio 2025.
 

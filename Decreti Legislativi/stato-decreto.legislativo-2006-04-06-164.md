@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-01-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,60 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la funzione pubblica;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai sensi del presente decreto legislativo si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per Ministro o Ministero, il Ministro o Ministero dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per legge, la legge 4 novembre 2005, n. 230;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per settore o settori, il settore scientifico-disciplinare o i settori scientifico-disciplinari;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per giudizi idoneativi, le procedure per il conseguimento della idoneita' scientifica nazionale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per fascia o fasce, le fasce dei professori ordinari e dei professori associati di cui al decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per CUN, il Consiglio universitario nazionale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per CRUI, la Conferenza dei rettori delle universita' italiane.
+ ((2))
 
 -------------
                         AGGIORNAMENTO (2)
@@ -146,6 +200,66 @@ Le commissioni giudicatrici, insediatesi presso le universita' in cui si espleta
 
 Espletate le procedure di cui al comma 1, le commissioni giudicatrici accedono per via telematica alla lista delle domande, all'elenco delle produzioni scientifiche e dei titoli e alla relativa documentazione, inerenti il concorso, presentate ai sensi dell'articolo 12, comma 3. Per garantire la riservatezza dei dati presentati l'accesso avviene tramite password consegnata al presidente della commissione dal responsabile del procedimento.
 
+3.
+                    
+                        
+                            Per valutare la produzione scientifica, gli altri titoli scientifici e il curriculum complessivo del candidato anche con riferimento all'attivita' didattica e alle eventuali esperienze professionali e organizzative, la commissione tiene in considerazione i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                originalita' e innovativita' della produzione scientifica, comprendente le pubblicazioni, i brevetti e i progetti innovativi, nonche' rigore metodologico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                apporto individuale del candidato, analiticamente determinato nei lavori in collaborazione in quanto individuabile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la direzione e il coordinamento di gruppi di ricerca;
+
+                            
+                        
+                        
+                            d)
+                            
+                                congruenza dell'attivita' del candidato con le discipline ricomprese nel settore per il quale e' bandita la procedura ovvero con tematiche interdisciplinari che le comprendano;
+
+                            
+                        
+                        
+                            e)
+                            
+                                rilevanza scientifica della collocazione editoriale delle pubblicazioni e loro diffusione all'interno della comunita' scientifica;
+
+                            
+                        
+                        
+                            f)
+                            
+                                continuita' temporale della produzione scientifica, anche in relazione all'evoluzione delle conoscenze nello specifico settore;
+
+                            
+                        
+                        
+                            g)
+                            
+                                entita' e caratteristiche degli impegni didattici assolti, documentati dagli enti interessati;
+
+                            
+                        
+                        
+                            h)
+                            
+                                entita' e caratteristiche delle attivita' svolte in campo clinico-assistenziale e in ogni altro ambito professionale e di lavoro in cui le connesse esperienze e competenze siano esplicitamente richieste o comunque integrino il profilo complessivo del candidato.
+
 Il giudizio della commissione sulla produzione scientifica, sui titoli e sul merito complessivo del candidato viene espresso con specifico riferimento ai criteri di cui ai commi 1 e 3.
 
 Al termine delle valutazioni della produzione scientifica e dei titoli, nei giudizi idoneativi per la fascia dei professori associati i candidati sostengono una prova didattica e discutono la produzione scientifica presentata. Il bando puo' prevedere che le relative prove siano sostenute nella lingua straniera oggetto della valutazione comparativa. Nei giudizi per la fascia di professore ordinario i candidati discutono la produzione scientifica presentata e quelli che non rivestono la qualifica di professore associato sostengono anche una prova didattica, che concorre alla valutazione complessiva.
@@ -216,6 +330,24 @@ Le universita' disciplinano con propri regolamenti, adottati ai sensi dell'artic
 ## Art. 14. — Disposizioni transitorie e finali
 
 Nelle prime due tornate dei giudizi di idoneita' per la fascia dei professori ordinari e nelle prime quattro tornate dei giudizi di idoneita' per la fascia dei professori associati, la quota di incremento di cui all'articolo 4, comma 1, e' pari al cento per cento.
+
+2.
+                    
+                        
+                            Nelle prime quattro tornate dei giudizi di idoneita' per la fascia dei professori associati:
+ 
+                        
+                        
+                            a)
+                            
+                                il quindici per cento della quota di incremento di cui al comma 1 e' riservata ai professori incaricati stabilizzati, agli assistenti del ruolo ad esaurimento, nonche' ai ricercatori confermati che alla data fissata dal bando abbiano svolto almeno tre anni di insegnamento nei corsi di studio universitari ai sensi dell'articolo 12 della legge 19 novembre 1990, n. 341;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una ulteriore quota dell'uno per cento e' riservata ai tecnici laureati gia' ammessi con riserva alla terza tornata dei giudizi di idoneita' per l'accesso al ruolo dei professori associati, bandita ai sensi del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, e non valutati dalle commissioni esaminatrici.
 
 Qualora l'applicazione delle disposizioni di cui al comma 2 dia luogo alla attribuzione ai destinatari della quota riservata di un numero frazionario di idoneita', quest'ultimo e' arrotondato all'unita' superiore.
 

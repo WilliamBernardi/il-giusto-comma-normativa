@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -33,5 +33,83 @@ Al fine di determinare quale sia l'attivita' principale di cui al precedente com
 
 ## Art. 2. — Pubblicita' delle bevande alcooliche
 
+1.
+                    
+                        
+                            La pubblicita' televisiva delle bevande alcooliche non deve:
+ 
+                        
+                        
+                            a)
+                            
+                                rivolgersi espressamente a minorenni, ne', in particolare, presentare minorenni intenti a consumare tali bevande;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collegare il consumo di alcoolici con prestazioni fisiche di particolare rilievo o con la guida di autoveicoli;
+
+                            
+                        
+                        
+                            c)
+                            
+                                creare l'impressione che il consumo di alcoolici contribuisca al successo sociale o sessuale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                indurre a credere che le bevande alcooliche possiedano qualita' terapeutiche stimolanti o calmanti, o che contribuiscano a risolvere situazioni di conflitto psicologico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                incoraggiare un uso eccessivo e incontrollato di bevande alcooliche o presentare in una luce negativa l'astinenza o la sobrieta';
+
+                            
+                        
+                        
+                            f)
+                            
+                                usare l'indicazione del rilevante grado alcoolico come qualita' positiva delle bevande.
+
 ## Art. 3. — Norme a tutela dei minorenni
+
+1.
+                    
+                        
+                            La pubblicita' televisiva, allo scopo di impedire ogni pregiudizio morale o fisico ai minorenni, non deve:
+ 
+                        
+                        
+                            a)
+                            
+                                esortare direttamente i minorenni ad acquistare un prodotto o un servizio, sfruttandone l'inesperienza o la credulita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                esortare direttamente i minorenni a persuadere genitori o altre persone ad acquistare tali prodotti o servizi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sfruttare la particolare fiducia che i minorenni ripongono nei genitori, negli insegnanti o in altre persone;
+
+                            
+                        
+                        
+                            d)
+                            
+                                mostrare, senza motivo, minorenni in situazioni pericolose.
 

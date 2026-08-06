@@ -8,8 +8,8 @@ codice_redazionale: 097G0234
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,31 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 13 g
 ## Art. 1. — Procedimento
 
 La richiesta di parere di cui al comma 9 dell'articolo 21 della legge 30 dicembre 1991, n. 413, rivolta al Ministero delle finanze - Dipartimento delle entrate, e' indirizzata alla direzione regionale delle entrate competente in relazione al domicilio fiscale del richiedente e va spedita a mezzo del servizio postale in plico raccomandato con avviso di ricevimento.
+
+2.
+                    
+                        
+                            La richiesta deve contenere a pena di inammissibilita': 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati identificativi del contribuente o del suo legale rappresentante e delle altre parti interessate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione dell'eventuale domiciliatario presso il quale devono essere effettuate le comunicazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sottoscrizione del contribuente o del suo legale rappresentante.
 
 Nella richiesta di parere va esposto dettagliatamente il caso concreto, nonche' la soluzione interpretativa prospettata; ad essa va allegata copia della documentazione, con relativo elenco, rilevante ai fini della individuazione e della qualificazione della fattispecie prospettata.
 

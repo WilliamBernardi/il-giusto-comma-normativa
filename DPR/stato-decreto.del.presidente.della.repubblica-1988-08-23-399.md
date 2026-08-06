@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,29 @@ Le disposizioni contenute nel presente decreto si applicano al personale di cui 
 Gli effetti giuridici decorrono dal 1° gennaio 1988 e quelli economici dal 1° luglio 1988.
 
 ## Art. 2. — Classificazione del personale
+
+1.
+                    
+                        
+                            Il personale di cui all'art. 1 e' individuato, ai fini del presente decreto, sulla base dell'appartenenza alle seguenti aree funzionali: 
+
+                        
+                        
+                            a)
+                            
+                                area dei servizi ausiliari, tecnici ed amministrativi; 
+                            
+                        
+                        
+                            b)
+                            
+                                area della funzione docente; 
+                            
+                        
+                        
+                            c)
+                            
+                                area della funzione direttiva ed ispettiva.
 
 ## Art. 3. — Trattamento economico
 
@@ -102,6 +125,40 @@ L'inquadramento economico nelle nuove posizioni stipendiali, di cui alla allegat
 
 L'inquadramento del nuovo reticolo retributivo avverra' sulla base delle anzianita' come sopra determinate. L'eventuale eccedenza temporale viene utilizzata ai fini dell'ulteriore progressione di carriera.
 
+3.
+                    
+                        
+                            Al compimento del sedicesimo anno per i docenti laureati della scuola secondaria superiore, del diciottesimo anno per i coordinatori amministrativi, per i docenti della scuola materna ed elementare, della scuola media e per i docenti diplomati della scuola secondaria superiore, del ventesimo anno per il personale ausiliario e collaboratore, del ventiquattresimo anno per i docenti dei conservatori di musica e delle accademie, l'anzianita' utile ai soli fini economici e' interamente valida ai fini dell'attribuzione delle successive posizioni stipendiali. 
+4. per il personale che, nel periodo compreso tra il 1 gennaio 1987 ed il 30 giugno 1988, abbia conseguito il passaggio a qualifica funzionale o livello retributivo superiore, l'anzianita' per l'inquadramento di cui al comma 1 e' quella determinata con i criteri e secondo i valori retributivi previsti dall'art. 6 del decreto del Presidente della Repubblica 25 giugno 1983, n. 345, maggiorata del periodo di servizio prestato dalla data del passaggio fino al 30 giugno 1988. 
+5. In sede di primo inquadramento il beneficio minimo contrattuale a regime non potra' essere inferiore alla differenza tra il preesistente stipendio iniziale del livello retributivo di appartenenza, incrementato di L. 1.081.000, corrispondente alla quota di indennita' integrativa speciale conglobata nello stipendio in applicazione dell'art. 33 del decreto del Presidente della Repubblica 10 aprile 1987, n. 209, come integrato dall'art. 69 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494, e quello iniziale previsto dal presente decreto per la corrispondente area e figura professionale. 
+6. I miglioramenti economici risultanti dalla differenza tra il trattamento economico alla data del 1 luglio 1988, determinato ai sensi dei commi 1 e 2, e quello in godimento alla data del 30 giugno 1988, ivi compresa la somma di L. 1.081.000, di cui al comma 5, sono attribuiti come segue: 
+
+                        
+                        
+                            a)
+                            
+                                dal 1° luglio 1988, nella misura del ventidue per cento; 
+                            
+                        
+                        
+                            b)
+                            
+                                dal 1° gennaio 1989, nella misura del sessantacinque per cento, comprensiva dell'incremento percentuale del ventidue per cento di cui alla lettera a); 
+                            
+                        
+                        
+                            c)
+                            
+                                dal 1 maggio 1990, per l'intero ammontare. 
+7. Gli incrementi relativi alle posizioni stipendiali, maturati successivamente al 1 luglio 1988, sono aggiunti per intero al trattamento economico come sopra determinato, ancorche' esso non sia stato corrisposto nella misura intera. 
+8. Nei casi di passaggio a qualifica funzionale superiore, successivo alla data del 30 giugno 1988, al personale interessato e' attribuito lo stipendio iniziale previsto a "regime" per la nuova qualifica, maggiorato dell'importo risultante dalla differenza tra lo stipendio tabellare a "regime" relativo alla posizione stipendiale in godimento nella qualifica di provenienza ed il relativo stipendio iniziale. 
+9. Qualora il nuovo stipendio si collochi fra due posizioni stipendiali, il personale interessato e' inquadrato nella posizione stipendiale immediatamente inferiore, fermo restando la corresponsione ad personam di detta differenza. La differenza tra i due stipendi, previa temporizzazione, e' considerata utile ai fini dell'ulteriore progressione economica. 
+10. I benefici economici di cui al comma 8 non sono cumulabili con quelli derivanti dai riconoscimenti dei servizi previsti, agli effetti della carriera, dalle vigenti disposizioni. 
+11. Nel caso di passaggio ad una qualifica funzionale superiore, intervenuto nel periodo dal 1 luglio 1988 al 30 aprile 1990, il beneficio spettante con riferimento allo stipendio iniziale della nuova qualifica verra' corrisposto nell'aliquota percentuale vigente al momento in cui si verifica il passaggio. 
+12. Per il personale dei servizi ausiliari, tecnici ed amministrativi si procedera', in sede contrattuale, alla ridefinizione dei profili professionali sulla base dell'individuazione cui si perverra' a seguito dell'attuazione dell'art. 67 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494. 
+13. Ai fini dell'inquadramento contrattuale, l'anzianita' giuridica ed economica del personale dei servizi ausiliari tecnici ed amministrativi e' determinata valutando anche il servizio pre-ruolo, comprensivo dell'eventuale servizio di ruolo in carriera inferiore, nella misura prevista dall'art. 3 del decreto-legge 19 giugno 1970, n. 370, convertito, con modificazioni, dalla legge 26 luglio 1970, n. 
+576, e successive modificazioni ed integrazioni. Restano ferme le anzianita' giuridiche ed economiche riconosciute dalle vigenti disposizioni, se piu' favorevoli.
+
 ## Art. 5. — Effetti dei nuovi stipendi
 
 Le nuove misure degli stipendi risultanti dell'applicazione del presente decreto hanno effetto sulla tredicesima mensilita', sul trattamento ordinario di quiescenza, normale e privilegiato, sulle indennita' di buonuscita e di licenziamento, sull'assegno alimentare previsto dall'art. 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, o da disposizioni analoghe, sull'equo indennizzo, sulle ritenute previdenziali ed assistenziali e relativi contributi, compresi la ritenuta in conto entrata Tesoro, o altre analoghe, ed i contributi di riscatto nonche' sulla determinazione degli importi dovuti per indennita' integrativa speciale.
@@ -114,16 +171,159 @@ Ai fini della corresponsione dei nuovi stipendi derivanti dall'applicazione del 
 
 L'indennita' di funzione prevista dall'art. 5 del decreto del Presidente della Repubblica 25 giugno 1983 n. 345, a favore del personale di cui all'art. 3, lettera a) e b), dell'area della funzione ispettiva e direttiva, e' rideterminata in L. 4.940.000 annue lorde per il personale direttivo al livello iniziale ed in L. 5.460.000 annue lorde per gli ispettori tecnici periferici al livello iniziale.
 
+2.
+                    
+                        
+                            I miglioramenti economici risultanti dalla differenza tra l'indennita' di cui al comma 1 e quella spettante alla data del 30 giugno 1988, sono attribuiti come segue: 
+
+                        
+                        
+                            a)
+                            
+                                dal 1 luglio 1988, nella misura del ventidue per cento; 
+                            
+                        
+                        
+                            b)
+                            
+                                dal 1 gennaio 1989, nella misura del sessantacinque per cento, comprensiva dell'incremento percentuale del ventidue per cento di cui alla lettera a); 
+                            
+                        
+                        
+                            c)
+                            
+                                dal 1 maggio 1990, per l'intero ammontare.
+
 L'indennita' di cui ai commi 1 e 2 e' corrisposta in ragione di tredici mensilita' ad anno. Le misure annue, correlate alle anzianita' di servizio prestato nella qualifica di appartenenza, sono indicate nella tabella B allegata al presente decreto.
 
 L'indennita' di cui al comma 1, e' prevista per il personale direttivo di cui all'art. 3, lettera a), dell'area della funzione direttiva ed ispettiva, e' attribuita, nella misura iniziale, anche al personale docente incaricato di cui all'art. 54, quinto e sesto comma, della legge 11 luglio 1980, n. 312, come integrato dall'art. 2, comma 6, del decreto del Presidente della Repubblica 10 aprile 1987, n. 209, ed al personale preposto alla direzione delle accademie di belle arti, limitatamente ai periodi di effettiva preposizione alla predetta direzione. Si applica, altresi', il comma 2, con le stesse decorrenze.
 
 ## Art. 7. — Indennita' di funzione docente
 
+1.
+                    
+                        
+                            Al personale dell'area della funzione docente di cui all'art. 3 e' attribuita una indennita' di funzione, per le attivita' connesse con la funzione docente, nelle misure iniziali annue lorde sotto indicate: 
+
+                        
+                        
+                            a)
+                            
+                                docenti della scuola materna; docenti della scuola elementare; accompagnatori al pianoforte e pianisti accompagnatori; docenti diplomati della scuola secondaria superiore; personale educativo dei convitti e degli educandati femminili; assistenti delle scuole speciali statali: 
+dal 1 luglio 1988: L. 270.000 
+dal 1 gennaio 1989: L. 797.000 
+dal 1 maggio 1990: L. 1.224.000 
+                            
+                        
+                        
+                            b)
+                            
+                                docenti della scuola media; vice rettori aggiunti dei convitti; docenti laureati delle scuole ed istituti di istruzione secondaria di secondo grado ed artistica; assistenti delle accademie di belle arti e dei licei artistici: 
+dal 1 luglio 1988: L. 313.000 
+dal 1 gennaio 1989: L. 924.000 
+dal 1 maggio 1990: L. 1.416.000 
+                            
+                        
+                        
+                            c)
+                            
+                                docenti dei conservatori di musica, delle accademie di belle arti e dell'accademia nazionale di danza: 
+dal 1 luglio 1988: L. 396.000 
+dal 1 gennaio 1989: L. 1.152.000 
+dal 1 maggio 1990: L. 1.764.000 
+                            
+                        
+                        
+                            d)
+                            
+                                docenti confermati dei conservatori di musica, delle accademie di belle arti e dell'accademia nazionale di danza: 
+dal 1 luglio 1988: L. 436.000 
+dal 1 gennaio 1989: L. 1.288.000 
+dal 1 maggio 1990: L. 1.980.000
+
+2.
+                    
+                        
+                            Le indennita' in cui al comma 1, competono nelle misure annue lorde, correlate alla anzianita' di servizio maturata nella qualifica di appartenenza, stabilite nell'allegata tabella B. 
+3. l'indennita' di cui al comma 1, e' corrisposta: 
+
+                        
+                        
+                            a)
+                            
+                                dal 1 luglio 1988, nella misura del ventidue per cento; 
+                            
+                        
+                        
+                            b)
+                            
+                                dal 1 gennaio 1989, nella misura del sessantacinque per cento, comprensiva dell'incremento del ventidue per cento di cui alla lettera a); 
+                            
+                        
+                        
+                            c)
+                            
+                                dal 1 maggio 1990, per l'intero ammontare.
+
 ## Art. 8. — Indennita' di funzione per il personale amministrativo 
  tecnico ed ausiliario
 
+1.
+                    
+                        
+                            Al personale di cui all'art. 3, lettera a), b) e c), dell'area dei servizi ausiliari, tecnici ed amministrativi e attribuita una indennita' di funzione, nelle misure annue lorde sotto indicate: 
+
+                        
+                        
+                            a)
+                            
+                                ausiliari, guardarobieri ed aiutanti cuochi: 
+dal 1 luglio 1988: L. 144.000 
+dal 1 gennaio 1989: L. 420.000 
+dal 1 maggio 1990: L. 648.000 
+                            
+                        
+                        
+                            b)
+                            
+                                collaboratori tecnici e collaboratori amministrativi; infermieri e cuochi: 
+dal 1 luglio 1988: L. 192.000 
+dal 1 gennaio 1989: L. 552.000 
+dal 1 maggio 1990: L. 852.000 
+                            
+                        
+                        
+                            c)
+                            
+                                coordinatori amministrativi: 
+dal 1 luglio 1988: L. 270.000 
+dal 1 gennaio 1989: L.797.000 
+dal 1 maggio 1990: L. 1.224.000
+
 Le indennita' di cui al comma 1, competono nelle misure annue lorde, correlate alla anzianita' di servizio maturata nella qualifica di appartenenza, stabilite nell'allegata tabella B.
+
+3.
+                    
+                        
+                            L'indennita' di cui al comma 1 e' corrisposta: 
+
+                        
+                        
+                            a)
+                            
+                                dal 1 luglio 1988, nella misura del ventidue per cento; 
+                            
+                        
+                        
+                            b)
+                            
+                                dal 1 gennaio 1989, nella misura del sessantacinque per cento, comprensiva dell'incremento percentuale del ventidue per cento di cui alla lettera a); 
+                            
+                        
+                        
+                            c)
+                            
+                                dal 1 maggio 1990, per l'intero ammontare.
 
 ## Art. 9. — Effetti delle indennita' di funzione
 
@@ -143,6 +343,24 @@ Restano confermate le modalita' della contrattazione decentrata a livello nazion
 
 ## Art. 11. — Indennita' aggiuntiva per la funzione docente
 
+1.
+                    
+                        
+                            Al personale docente che abbia esercitato la facolta' prevista dall'art. 14, comma 8, e' attribuita, a decorrere dal 1 settembre 1990 e per la durata del periodo di effettivo maggiore impegno nella scuola, una indennita' aggiuntiva, non utile ai fini pensionistici e previdenziali, nella misura mensile lorda sotto indicata, da corrispondersi per dieci mesi per anno scolastico: 
+
+                        
+                        
+                            a)
+                            
+                                docenti della scuola elementare; docenti diplomati della scuola secondaria superiore: L. 250.000; 
+                            
+                        
+                        
+                            b)
+                            
+                                docenti della scuola media; docenti laureati delle scuole ed istituti di istruzione secondaria di secondo grado ed artistica: L.
+290.000.
+
 ## Art. 12. — Indennita' di funzione per il personale supplente
 
 Le indennita' di funzioni nelle misure iniziali di cui agli articoli 6, 7 ed 8 competono anche al personale supplente, con le decorrenze e le percentuali previste per il corrispondente personale di ruolo, in misura correlata alle ore di impegno lavorativo.
@@ -150,6 +368,29 @@ Le indennita' di funzioni nelle misure iniziali di cui agli articoli 6, 7 ed 8 c
 ## Art. 13. — Lavoro straordinario
 
 Per il triennio 1988-90, continua ad applicarsi la disciplina di cui all'art. 5 del decreto del Presidente della Repubblica 10 aprile 1987, n. 209.
+
+2.
+                    
+                        
+                            Limitatamente al periodo 1 luglio-31 dicembre 1988 la misura oraria dei compensi per lavoro straordinario e' determinata maggiorando quella di lavoro ordinario, calcolata convenzionalmente dividendo per 156 i seguenti elementi retributivi: 
+
+                        
+                        
+                            a)
+                            
+                                stipendio tabellare base iniziale di livello mensile; 
+                            
+                        
+                        
+                            b)
+                            
+                                indennita' integrativa speciale in godimento nel mese di dicembre dell'anno precedente, diminuita di 1/12 dell'importo di L. 1.081.000; 
+                            
+                        
+                        
+                            c)
+                            
+                                rateo di tredicesima delle due precedenti voci.
 
 In concomitanza con l'incremento della tariffa sara' proporzionalmente diminuito il numero di prestazioni straordinarie autorizzabili.
 
@@ -224,6 +465,53 @@ I passaggi di ruolo del personale docente ed educativo, previsti dall'art. 77 de
 La verifica dell'attualita' e gli eventuali adeguamenti delle vigenti ordinanze di carattere permanente relative alla mobilita' od all'utilizzazione di tutto il personale della scuola hanno luogo in sede di negoziazione decentrata nazionale. Le disposizioni conseguenti avranno effetto a partire dall'inizio del secondo anno scolastico successivo a quello in cui sono state definite in sede di negoziazione decentrata, in modo da poter consentire all'amministrazione di programmare i necessari interventi operativi.
 Le stesse disposizioni potranno avere effetto a decorrere anche da data anteriore sempre che, a giudizio dell'amministrazione, siano compatibili con le esigenze della programmazione operativa.
 
+3.
+                    
+                        
+                            Nel definire gli eventuali adeguamenti si terra' conto dei seguenti principi e criteri generali: 
+
+                        
+                        
+                            a)
+                            
+                                i trasferimenti ed i passaggi si attuano annualmente; 
+                            
+                        
+                        
+                            b)
+                            
+                                tutto il personale ispettivo, direttivo, docente, educativo, ausiliario, tecnico ed amministrativo di ruolo ha titolo a partecipare alle operazioni di trasferimento definitivo annuale; 
+                            
+                        
+                        
+                            c)
+                            
+                                saranno individuate le categorie di personale aventi diritto alla precedenza assoluta, fermo restando che, in ogni caso, il personale trasferito d'ufficio per soppressione di posto conserva per un triennio, a domanda, i diritti inerenti alla titolarita' della scuola o plesso di provenienza; in caso di soppressione di detta scuola o plesso, il diritto e' ugualmente riconosciuto qualora l'interessato chieda, per la durata del triennio, il trasferimento nella scuola o plesso piu' vicini secondo tabelle di viciniorita'; 
+                            
+                        
+                        
+                            d)
+                            
+                                l'ordine di operazione di trasferimento deve essere determinato, per quanto possibile, con criteri di omogeneita' tra i vari settori; 
+                            
+                        
+                        
+                            e)
+                            
+                                le situazioni di soprannumero relative ai posti di sostegno vanno individuate con riferimento alle singole tipologie; 
+                            
+                        
+                        
+                            f)
+                            
+                                per i trasferimenti d'ufficio si terra' conto delle tabelle di viciniorita' definite sulla base delle distanze reali determinate, a livello provinciale, con riferimento a ciascun comune; 
+                            
+                        
+                        
+                            g)
+                            
+                                potranno essere modificate, secondo le modalita' previste dalla vigente normativa, le tabelle di valutazione dei titoli per i trasferimenti a domanda e d'ufficio, per i passaggi, le utilizzazioni e le assegnazioni provvisorie, anche al fine di realizzare una maggiore equita' tra le varie situazioni, un piu' puntuale equilibrio fra i vari titoli e l'omogeneita' di trattamento tra le categorie del personale; sara' previsto, in particolare, un punteggio aggiuntivo per il servizio prestato nelle piccole isole e nelle zone montane e per agevolare il trasferimento nelle predette localita'.
+
 I passaggi di cattedra previsti dall'art. 75 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417, sono effettuati con i criteri stabiliti per i trasferimenti e, successivamente ad essi, nel limite massimo del trenta per cento dei posti disponibili.
 Si applica ad essi la disposizione di cui al comma 1 per quanto riguarda la deroga al limite percentuale in caso di soprannumeri.
 
@@ -270,6 +558,23 @@ Resta fermo il disposto di cui all'art. 29 del decreto del Presidente della Repu
 ## Art. 22. — Mobilita' per l'assegnazione a posti vacanti dell'amministrazione di appartenenza o di altre amministrazioni.
 
 Il personale di cui all'art. 1 che, per qualsiasi causa, venga a trovarsi in posizione soprannumeraria e non possa essere utilizzato nelle istituzioni scolastiche, ubicate nella provincia di residenza, per l'esercizio delle attribuzioni proprie del ruolo di appartenenza, e' inserito in un contingente di mobilita' per essere assegnato a posti vacanti dell'amministrazione di appartenenza o di altre amministrazioni. Nel predetto contingente e' inserito, a domanda, anche personale non in soprannumero, purche' in servizio in provincie nelle quali si sono determinate posizioni soprannumerarie, che aspiri a partecipare alle procedure di mobilita'.
+
+2.
+                    
+                        
+                            La mobilita' di cui al comma 1 deve ispirarsi ai seguenti criteri: 
+
+                        
+                        
+                            a)
+                            
+                                trasferimento suppletivo, a domanda, per posti del ruolo di appartenenza disponibili in altra provincia, che residuano dopo le operazioni di trasferimenti e passaggi; 
+                            
+                        
+                        
+                            b)
+                            
+                                trasferimento, a domanda, in posti vacanti in strutture di altre amministrazioni pubbliche ubicate nella stessa provincia, con decorrenza dal 1 settembre 1989, secondo criteri, modalita', condizioni e limiti che saranno stabiliti con apposito provvedimento legislativo.
 
 Attivate le procedure di cui alle lettere a) e b) del comma 2, qualora dovessero permanere posizioni soprannumerarie, per la mobilita' all'interno del comparto provvedera' il Ministro della pubblica istruzione, di intesa con le organizzazioni sindacali maggiormente rappresentative sul piano nazionale.
 

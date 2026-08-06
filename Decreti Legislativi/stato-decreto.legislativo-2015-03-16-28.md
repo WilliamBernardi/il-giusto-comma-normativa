@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2015-03-16;28
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -44,9 +44,88 @@ Prima dell'articolo 132 e' inserito il seguente:
 
 ## Art. 2. — Modifiche al codice di procedura penale
 
+1.
+                    
+                        
+                            All'articolo 411 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «condizione di procedibilita'» sono inserite le seguenti: «, che la persona sottoposta alle indagini non e' punibile ai sensi dell'articolo 131-bis del codice penale per particolare tenuita' del fatto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' aggiunto il seguente: «1-bis. Se l'archiviazione e' richiesta per particolare tenuita' del fatto, il pubblico ministero deve darne avviso alla persona sottoposta alle indagini e alla persona offesa, precisando che, nel termine di dieci giorni, possono prendere visione degli atti e presentare opposizione in cui indicare, a pena di inammissibilita', le ragioni del dissenso rispetto alla richiesta. Il giudice, se l'opposizione non e' inammissibile, procede ai sensi dell'articolo 409, comma 2, e, dopo avere sentito le parti, se accoglie la richiesta, provvede con ordinanza. In mancanza di opposizione, o quando questa e' inammissibile, il giudice procede senza formalita' e, se accoglie la richiesta di archiviazione, pronuncia decreto motivato. Nei casi in cui non accoglie la richiesta il giudice restituisce gli atti al pubblico ministero, eventualmente provvedendo ai sensi dell'articolo 409, commi 4 e 5.».
+
 ## Art. 3. — Disposizioni di coordinamento processuale
 
+1.
+                    
+                        
+                            Al codice di procedura penale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 dell'articolo 469 e' aggiunto il seguente:
+«1-bis. La sentenza di non doversi procedere e' pronunciata anche quando l'imputato non e' punibile ai sensi dell'articolo 131-bis del codice penale, previa audizione in camera di consiglio anche della persona offesa, se compare.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 651 e' aggiunto il seguente: «651-bis.
+Efficacia della sentenza di proscioglimento per particolare tenuita' del fatto nel giudizio civile o amministrativo di danno. - 1. La sentenza penale irrevocabile di proscioglimento pronunciata per particolare tenuita' del fatto in seguito a dibattimento ha efficacia di giudicato quanto all'accertamento della sussistenza del fatto, della sua illiceita' penale e all'affermazione che l'imputato lo ha commesso, nel giudizio civile o amministrativo per le restituzioni e il risarcimento del danno promosso nei confronti del prosciolto e del responsabile civile che sia stato citato ovvero sia intervenuto nel processo penale. 
+ 2. La stessa efficacia ha la sentenza irrevocabile di proscioglimento pronunciata per particolare tenuita' del fatto a norma dell'articolo 442, salvo che vi si opponga la parte civile che non abbia accettato il rito abbreviato.». 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 23/03/2015, n. 68 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 4. — Modifiche al decreto del Presidente della Repubblica 14 novembre 2002, n. 313, recante testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti
+
+1.
+                    
+                        
+                            Al testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti di cui al decreto del Presidente della Repubblica 14 novembre 2002, n. 313, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 3, comma 1, lettera f), dopo le parole: «misura di sicurezza» sono aggiunte le seguenti: «, nonche' quelli che hanno dichiarato la non punibilita' ai sensi dell'articolo 131-bis del codice penale.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 5, comma 2, dopo la lettera d) e' inserita la seguente: 
+ «d-bis) ai provvedimenti giudiziari che hanno dichiarato la non punibilita' ai sensi dell'articolo 131-bis del codice penale, trascorsi dieci anni dalla pronuncia;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 24, comma 1, dopo la lettera f) e' inserita la seguente: 
+ «f-bis) ai provvedimenti giudiziari che hanno dichiarato la non punibilita' ai sensi dell'articolo 131-bis del codice penale, quando la relativa iscrizione non e' stata eliminata;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 25, comma 1, dopo la lettera f) e' inserita la seguente: 
+ «f-bis) ai provvedimenti giudiziari che hanno dichiarato la non punibilita' ai sensi dell'articolo 131-bis del codice penale, quando la relativa iscrizione non e' stata eliminata;».
 
 ## Art. 5. — Disposizioni finanziarie
 

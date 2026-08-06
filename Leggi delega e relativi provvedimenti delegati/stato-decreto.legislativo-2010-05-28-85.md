@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2012-08-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,7 +39,64 @@ In applicazione del principio di sussidiarieta', nei casi previsti dall'articolo
 
 L'ente territoriale, a seguito del trasferimento, dispone del bene nell'interesse della collettivita' rappresentata ed e' tenuto a favorire la massima valorizzazione funzionale del bene attribuito, a vantaggio diretto o indiretto della medesima collettivita' territoriale rappresentata. Ciascun ente assicura l'informazione della collettivita' circa il processo di valorizzazione, anche tramite divulgazione sul proprio sito internet istituzionale. Ciascun ente puo' indire forme di consultazione popolare, anche in forma telematica, in base alle norme dei rispettivi Statuti.
 
+5.
+                    
+                        
+                            I beni statali sono attribuiti, a titolo non oneroso, a Comuni, Province, Citta' metropolitane e Regioni, anche in quote indivise, sulla base dei seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                sussidiarieta', adeguatezza e territorialita'. In applicazione di tali criteri, i beni sono attribuiti, considerando il loro radicamento sul territorio, ai Comuni, salvo che per l'entita' o tipologia del singolo bene o del gruppo di beni, esigenze di carattere unitario richiedano l'attribuzione a Province, Citta' metropolitane o Regioni quali livelli di governo maggiormente idonei a soddisfare le esigenze di tutela, gestione e valorizzazione tenendo conto del rapporto che deve esistere tra beni trasferiti e funzioni di ciascun livello istituzionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                semplificazione. In applicazione di tale criterio, i beni possono essere inseriti dalle Regioni e dagli enti locali in processi di alienazione e dismissione secondo le procedure di cui all'articolo 58 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133. A tal fine, per assicurare la massima valorizzazione dei beni trasferiti, la deliberazione da parte dell'ente territoriale di approvazione del piano delle alienazioni e valorizzazioni e' trasmessa ad un'apposita Conferenza di servizi, che opera ai sensi degli articoli 14, 14-bis, 14-ter e 14-quater della legge 7 agosto 1990, n. 241, e successive modificazioni, a cui partecipano il Comune, la Provincia, la Citta' metropolitana e la Regione interessati, volta ad acquisire le autorizzazioni, gli assensi e le approvazioni comunque denominati necessari alla variazione di destinazione urbanistica. Sono fatte salve le procedure e le determinazioni adottate da organismi istituiti da leggi regionali, con le modalita' ivi stabilite. La determinazione finale della Conferenza di servizi costituisce provvedimento unico di autorizzazione delle varianti allo strumento urbanistico generale e ne fissa i limiti e i vincoli; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                capacita' finanziaria, intesa come idoneita' finanziaria necessaria a soddisfare le esigenze di tutela, gestione e valorizzazione dei beni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                correlazione con competenze e funzioni, intesa come connessione tra le competenze e le funzioni effettivamente svolte o esercitate dall'ente cui e' attribuito il bene e le esigenze di tutela, gestione e valorizzazione del bene stesso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                valorizzazione ambientale. In applicazione di tale criterio la valorizzazione del bene e' realizzata avendo riguardo alle caratteristiche fisiche, morfologiche, ambientali, paesaggistiche, culturali e sociali dei beni trasferiti, al fine di assicurare lo sviluppo del territorio e la salvaguardia dei valori ambientali.
+
 ## Art. 3. — Attribuzione e trasferimento dei beni
+
+1.
+                    
+                        
+                            Ferme restando le funzioni amministrative gia' conferite agli enti territoriali in base alla normativa vigente, con uno o piu' decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro per le riforme per il federalismo, con il Ministro per i rapporti con le Regioni e con gli altri Ministri competenti per materia, adottati entro centottanta giorni dalla data di entrata in vigore del presente decreto legislativo: 
+ 
+                        
+                        
+                            a)
+                            
+                                sono trasferiti alle Regioni, unitamente alle relative pertinenze, le miniere di cui all'articolo 5, comma 1, lettera d), che non comprendono i giacimenti petroliferi e di gas e le relative pertinenze nonche' i siti di stoccaggio di gas naturale e le relative pertinenze, e, i beni del demanio marittimo di cui all'articolo 5, comma 1, lettera a) ed i beni del demanio idrico di cui all'articolo 5, comma 1, lettera b), salvo quanto previsto dalla lettera b) del presente comma; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono trasferiti alle Province, unitamente alle relative pertinenze, i beni del demanio idrico di cui all'articolo 5, comma 1, lettera b), limitatamente ai laghi chiusi privi di emissari di superficie che insistono sul territorio di una sola Provincia.
 
 Una quota dei proventi dei canoni ricavati dalla utilizzazione del demanio idrico trasferito ai sensi della lettera a) del comma 1, tenendo conto dell'entita' delle risorse idriche che insistono sul territorio della Provincia e delle funzioni amministrative esercitate dalla medesima, e' destinata da ciascuna Regione alle Province, sulla base di una intesa conclusa fra la Regione e le singole Province sul cui territorio insistono i medesimi beni del demanio idrico. Decorso un anno dalla data di entrata in vigore del presente decreto senza che sia stata conclusa la predetta intesa, il Governo determina, tenendo conto dei medesimi criteri, la quota da destinare alle singole Province, attraverso l'esercizio del potere sostitutivo di cui all'articolo 8 della legge 5 giugno 2003, n. 131.
 
@@ -58,6 +115,47 @@ Il trasferimento dei beni ha effetto dalla data di pubblicazione nella Gazzetta 
 I beni trasferiti in attuazione del presente decreto che entrano a far parte del patrimonio disponibile dei Comuni, delle Province, delle Citta' metropolitane e delle Regioni possono essere alienati solo previa valorizzazione attraverso le procedure per l'adozione delle varianti allo strumento urbanistico, e a seguito di attestazione di congruita' rilasciata, entro il termine di trenta giorni dalla relativa richiesta, da parte dell'Agenzia del demanio o dell'Agenzia del territorio, secondo le rispettive competenze.
 
 ## Art. 5. — Tipologie dei beni
+
+1.
+                    
+                        
+                            I beni immobili statali e i beni mobili statali in essi eventualmente presenti che ne costituiscono arredo o che sono posti al loro servizio che, a titolo non oneroso, sono trasferiti ai sensi dell'articolo 3 a Comuni, Province, Citta' metropolitane e Regioni sono i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                i beni appartenenti al demanio marittimo e relative pertinenze, come definiti dall'articolo 822 del codice civile e dall'articolo 28 del codice della navigazione, con esclusione di quelli direttamente utilizzati dalle amministrazioni statali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i beni appartenenti al demanio idrico e relative pertinenze, nonche' le opere idrauliche e di bonifica di competenza statale, come definiti dagli articoli 822, 942, 945, 946 e 947 del codice civile e dalle leggi speciali di settore, ad esclusione: 
+ 1) dei fiumi di ambito sovraregionale; 
+ 2) dei laghi di ambito sovraregionale per i quali non intervenga un'intesa tra le Regioni interessate, ferma restando comunque la eventuale disciplina di livello internazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli aeroporti di interesse regionale o locale appartenenti al demanio aeronautico civile statale e le relative pertinenze, diversi da quelli di interesse nazionale cosi' come definiti dall'articolo 698 del codice della navigazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le miniere e le relative pertinenze ubicate su terraferma; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli altri beni immobili dello Stato, ad eccezione di quelli esclusi dal trasferimento.
 
 Fatto salvo quanto previsto al comma 4, sono in ogni caso esclusi dal trasferimento: gli immobili in uso per comprovate ed effettive finalita' istituzionali alle amministrazioni dello Stato, anche a ordinamento autonomo, agli enti pubblici destinatari di beni immobili dello Stato in uso governativo e alle Agenzie di cui al decreto legislativo 30 luglio 1999, n. 300, e successive modificazioni; i porti e gli aeroporti di rilevanza economica nazionale e internazionale, secondo la normativa di settore; i beni appartenenti al patrimonio culturale, salvo quanto previsto dalla normativa vigente e dal comma 7 del presente articolo; le reti di interesse statale, ivi comprese quelle stradali ed energetiche; le strade ferrate in uso di proprieta' dello Stato; sono altresi' esclusi dal trasferimento di cui al presente decreto i parchi nazionali e le riserve naturali statali. I beni immobili in uso per finalita' istituzionali sono inseriti negli elenchi dei beni esclusi dal trasferimento in base a criteri di economicita' e di concreta cura degli interessi pubblici perseguiti.
 

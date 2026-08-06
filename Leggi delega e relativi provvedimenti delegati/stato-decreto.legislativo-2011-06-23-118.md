@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-03-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,24 @@ Sulla proposta del Ministro dell'economia e delle finanze, del Ministro per le r
 ((
 
 Ai sensi dell'art. 117, secondo comma, lettera e), della Costituzione, il presente titolo e il titolo III disciplinano l'armonizzazione dei sistemi contabili e degli schemi di bilancio delle Regioni, ad eccezione dei casi in cui il Titolo II disponga diversamente, con particolare riferimento alla fattispecie di cui all'art. 19, comma 2, lettera b), degli enti locali di cui all'art. 2 del decreto legislativo 18 agosto 2000, n. 267, e dei loro enti e organismi strumentali, esclusi gli enti di cui al titolo II del presente decreto. A decorrere dal 1° gennaio 2015 cessano di avere efficacia le disposizioni legislative regionali incompatibili con il presente decreto.
+
+2.
+                        
+                            
+                                Ai fini del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per enti strumentali si intendono gli enti di cui all'art. 11-ter, distinti nelle tipologie definite in corrispondenza delle missioni del bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per organismi strumentali delle regioni e degli enti locali si intendono le loro articolazioni organizzative, anche a livello territoriale, dotate di autonomia gestionale e contabile, prive di personalita' giuridica. Le gestioni fuori bilancio autorizzate da legge e le istituzioni di cui all'art. 114, comma 2, del decreto legislativo 18 agosto 2000, n. 267, sono organismi strumentali. Gli organismi strumentali sono distinti nelle tipologie definite in corrispondenza delle missioni del bilancio.
 
 ))
 
@@ -49,6 +67,38 @@ Le istituzioni degli enti locali di cui all'articolo 114 del decreto legislativo
 
 ## Art. 3. — Principi contabili generali e applicati
 
+1.
+                        
+                            
+                                Le amministrazioni pubbliche di cui all'art. 2, conformano la propria gestione ai principi contabili generali contenuti nell'allegato 1 ed ai seguenti principi contabili applicati, che costituiscono parte integrante al presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della programmazione (allegato n. 4/1); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della contabilita' finanziaria (allegato n. 4/2); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della contabilita' economico-patrimoniale (allegato n. 4/3); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del bilancio consolidato (allegato n. 4/4).
+
 I principi applicati di cui al comma 1 garantiscono il consolidamento e la trasparenza dei conti pubblici secondo le direttive dell'Unione europea e l'adozione di sistemi informativi omogenei e interoperabili.
 
 Gli enti strumentali delle amministrazioni di cui all'art. 2, comma 1, che adottano la contabilita' economico-patrimoniale conformano la propria gestione ai principi contabili generali contenuti nell' allegato 1 e ai principi del codice civile.
@@ -57,7 +107,65 @@ Al fine di dare attuazione al principio contabile generale della competenza fina
 
 Le regioni che hanno partecipato alla sperimentazione nell'anno 2014, nell'ambito del riaccertamento ordinario effettuato nel 2015 ai fini del rendiconto 2014, provvedono al riaccertamento dei residui attivi e passivi relativi alla politica regionale unitaria --- cooperazione territoriale non effettuato in occasione del riaccertamento straordinario effettuato ai sensi dell'articolo 14 del decreto del Presidente del Consiglio dei ministri 28 dicembre 2011, pubblicato nel supplemento ordinario n. 285 alla Gazzetta Ufficiale n. 304 del 31 dicembre 2011.
 
+5.
+                        
+                            
+                                Al fine di dare attuazione al principio contabile generale della competenza finanziaria enunciato nell'allegato 1 al presente decreto, gli enti di cui al comma 1, a decorrere dall'anno 2015, iscrivono negli schemi di bilancio di cui all'art. 11, comma 1, lettere a) e b), il fondo per la copertura degli impegni pluriennali derivanti da obbligazioni sorte negli esercizi precedenti, di seguito denominato fondo pluriennale vincolato, costituito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in entrata, da due voci riguardanti la parte corrente e il conto capitale del fondo, per un importo corrispondente alla sommatoria degli impegni assunti negli esercizi precedenti ed imputati sia all'esercizio considerato sia agli esercizi successivi, finanziati da risorse accertate negli esercizi precedenti, determinato secondo le modalita' indicate nel principio applicato della programmazione, di cui all'allegato 4/1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella spesa, da una voce denominata «fondo pluriennale vincolato», per ciascuna unita' di voto riguardante spese a carattere pluriennale e distintamente per ciascun titolo di spesa. Il fondo e' determinato per un importo pari alle spese che si prevede di impegnare nel corso del primo anno considerato nel bilancio, con imputazione agli esercizi successivi e alle spese gia' impegnate negli esercizi precedenti con imputazione agli esercizi successivi a quello considerato. La copertura della quota del fondo pluriennale vincolato riguardante le spese impegnate negli esercizi precedenti e' costituita dal fondo pluriennale iscritto in entrata, mentre la copertura della quota del fondo pluriennale vincolato riguardante le spese che si prevede di impegnare nell'esercizio di riferimento con imputazione agli esercizi successivi, e' costituita dalle entrate che si prevede di accertare nel corso dell'esercizio di riferimento. Agli stanziamenti di spesa riguardanti il fondo pluriennale vincolato e' attribuito il codice della missione e del programma di spesa cui il fondo si riferisce e il codice del piano dei conti relativo al fondo pluriennale vincolato. 
+ Nel corso dell'esercizio, sulla base dei risultati del rendiconto, e' determinato l'importo definivo degli stanziamenti riguardanti il fondo pluriennale vincolato e degli impegni assunti negli esercizi precedenti di cui il fondo pluriennale vincolato costituisce la copertura.
+
 I principi contabili applicati di cui al comma 1 sono aggiornati con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di concerto con il Ministero dell'interno - Dipartimento per gli affari interni e territoriali e la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, su proposta della Commissione per l'armonizzazione contabile degli enti territoriali di cui all'art. 3-bis.
+
+7.
+                        
+                            
+                                Al fine di adeguare i residui attivi e passivi risultanti al 1° gennaio 2015 al principio generale della competenza finanziaria enunciato nell'allegato n. 1, le amministrazioni pubbliche di cui al comma 1, ((...)) con delibera di Giunta, previo parere dell'organo di revisione economico-finanziario, provvedono, contestualmente all'approvazione del rendiconto 2014, al riaccertamento straordinario dei residui, consistente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella cancellazione dei propri residui attivi e passivi, cui non corrispondono obbligazioni perfezionate e scadute alla data del 1° gennaio 2015. Non sono cancellati i residui delle regioni derivanti dal perimetro sanitario cui si applica il titolo II e i residui passivi finanziati da debito autorizzato e non contratto. Per ciascun residuo eliminato in quanto non scaduto sono indicati gli esercizi nei quali l'obbligazione diviene esigibile, secondo i criteri individuati nel principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2. Per ciascun residuo passivo eliminato in quanto non correlato a obbligazioni giuridicamente perfezionate, e' indicata la natura della fonte di copertura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella conseguente determinazione del fondo pluriennale vincolato da iscrivere in entrata del bilancio dell'esercizio 2015, distintamente per la parte corrente e per il conto capitale, per un importo pari alla differenza tra i residui passivi ed i residui attivi eliminati ai sensi della lettera a), se positiva, e nella rideterminazione del risultato di amministrazione al 1° gennaio 2015 a seguito del riaccertamento dei residui di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella variazione del bilancio di previsione annuale 2015 autorizzatorio, del bilancio pluriennale 2015-2017 autorizzatorio e del bilancio di previsione finanziario 2015-2017 predisposto con funzione conoscitiva, in considerazione della cancellazione dei residui di cui alla lettera a). In particolare gli stanziamenti di entrata e di spesa degli esercizi 2015, 2016 e 2017 sono adeguati per consentire la reimputazione dei residui cancellati e l'aggiornamento degli stanziamenti riguardanti il fondo pluriennale vincolato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nella reimputazione delle entrate e delle spese cancellate in attuazione della lettera a), a ciascuno degli esercizi in cui l'obbligazione e' esigibile, secondo i criteri individuati nel principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2. La copertura finanziaria delle spese reimpegnate cui non corrispondono entrate riaccertate nel medesimo esercizio e' costituita dal fondo pluriennale vincolato, salvi i casi di disavanzo tecnico di cui al comma 13; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'accantonamento di una quota del risultato di amministrazione al 1° gennaio 2015, rideterminato in attuazione di quanto previsto dalla lettera b), al fondo crediti di dubbia esigibilita'. L'importo del fondo e' determinato secondo i criteri indicati nel principio applicato della contabilita' finanziaria di cui all'allegato n. 4.2. Tale vincolo di destinazione opera anche se il risultato di amministrazione non e' capiente o e' negativo (disavanzo di amministrazione).
 
 L'operazione di riaccertamento di cui al comma 7 e' oggetto di un unico atto deliberativo. Al termine del riaccertamento straordinario dei residui non sono conservati residui cui non corrispondono obbligazioni giuridicamente perfezionate e esigibili.
 La delibera di giunta di cui al comma 7, cui sono allegati i prospetti riguardanti la rideterminazione del fondo pluriennale vincolato e del risultato di amministrazione, secondo lo schema di cui agli allegati 5/1 e 5/2, e' tempestivamente trasmessa al Consiglio. In caso di mancata deliberazione del riaccertamento straordinario dei residui al 1° gennaio 2015, contestualmente all'approvazione del rendiconto 2014, agli enti locali si applica la procedura prevista dal comma 2, primo periodo, dell'art. 141 del decreto legislativo 18 agosto 2000, n. 267. ((7))
@@ -75,6 +183,31 @@ Nel caso in cui a seguito del riaccertamento straordinario di cui al comma 7, i 
 Nel caso in cui a seguito del riaccertamento straordinario di cui al comma 7, i residui attivi reimputati ad un esercizio sono di importo superiore alla somma del fondo pluriennale vincolato stanziato in entrata e dei residui passivi reimputati nel medesimo esercizio, tale differenza e' vincolata alla copertura dell'eventuale eccedenza degli impegni reimputati agli esercizi successivi rispetto alla somma del fondo pluriennale vincolato di entrata e dei residui attivi. Nel bilancio di previsione dell'esercizio in cui si verifica tale differenza e' effettuato un accantonamento di pari importo agli stanziamenti di spesa del fondo pluriennale vincolato.
 
 Le modalita' e i tempi di copertura dell'eventuale maggiore disavanzo al 1° gennaio 2015 rispetto al risultato di amministrazione al 31 dicembre 2014, derivante dalla rideterminazione del risultato di amministrazione a seguito dell'attuazione del comma 7, sono definiti con decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero dell'interno, in considerazione dei risultati al 1° gennaio 2015 e prevedendo incentivi, anche attraverso la disciplina del patto di stabilita' interno e dei limiti di spesa del personale, per gli enti che, alla data del 31 dicembre 2017, non presentano quote di disavanzo derivanti dal riaccertamento straordinario dei residui. Per le regioni non rilevano i disavanzi derivanti dal debito autorizzato non contratto. Sulla base dei rendiconti delle regioni e dei consuntivi degli enti locali relativi all'anno 2014 e delle delibere di riaccertamento straordinario dei residui sono acquisite le informazioni riguardanti il maggiore disavanzo al 1º gennaio 2015 e quelle relative agli enti che hanno partecipato alla sperimentazione, incluso l'importo dell'accantonamento al fondo crediti di dubbia esigibilita', con tempi e modalita' definiti con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dell'interno e sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modificazioni. In base alle predette informazioni sono definiti i tempi di copertura del maggiore disavanzo, secondo modalita' differenziate in considerazione dell'entita' del fenomeno e della dimensione demografica e di bilancio dei singoli enti. Gli enti che non trasmettono le predette informazioni secondo le modalita' e i tempi previsti dal decreto di cui al terzo periodo ripianano i disavanzi nei tempi piu' brevi previsti dal decreto di cui al primo periodo.
+
+16.
+                        
+                            
+                                Nelle more dell'emanazione del decreto di cui al comma 15, l'eventuale maggiore disavanzo di amministrazione al 1° gennaio 2015, determinato dal riaccertamento straordinario dei residui effettuato a seguito dell'attuazione del comma 7 e dal primo accantonamento al fondo crediti di dubbia esigibilita' e' ripianato in non piu' di 30 esercizi a quote costanti. In attesa del decreto di cui al comma 15, sono definiti criteri e modalita' di ripiano dell'eventuale disavanzo di amministrazione di cui al periodo precedente, attraverso un decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero dell'interno, previa intesa in sede di Conferenza unificata. Tale decreto si attiene ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizzo di quote accantonate o destinate del risultato di amministrazione per ridurre la quota del disavanzo di amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ridefinizione delle tipologie di entrata utilizzabili ai fini del ripiano del disavanzo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuazione di eventuali altre misure finalizzate a conseguire un sostenibile passaggio alla disciplina contabile prevista dal presente decreto.
 
 Il decreto di cui al comma 15 estende gli incentivi anche agli enti che hanno partecipato alla sperimentazione prevista dall'art. 78 se, alla data del 31 dicembre 2015, non presentano quote di disavanzo risalenti all'esercizio 2012. Nelle more dell'adozione del decreto di cui al comma 15, la copertura dell'eventuale disavanzo di amministrazione di cui all'art. 14, commi 2 e 3, del decreto del Presidente del Consiglio dei ministri 28 dicembre 2011, puo' essere effettuata fino all'esercizio 2042 da parte degli enti coinvolti nella sperimentazione che hanno effettuato il riaccertamento straordinario dei residui nel 2012, e fino al 2043 da parte degli enti coinvolti nella sperimentazione che hanno effettuato il riaccertamento straordinario dei residui al 1º gennaio 2014.
 
@@ -115,6 +248,24 @@ Al fine di facilitare il monitoraggio e il confronto delle grandezze di finanza 
 
 Al fine di fornire supporto all' analisi degli scostamenti in sede di consuntivo rispetto alle previsioni, ((le amministrazioni di cui all'art. 2, trasmettono le risultanze del consuntivo, aggregate secondo la struttura del piano dei conti, alla banca dati unitaria delle amministrazioni pubbliche di cui all'art. 13, comma 3, della legge 31 dicembre 2009, n. 196, sulla base di schemi, tempi e modalita' definiti con decreto del Ministro dell'economia e delle finanze.))
 
+7-bis.
+                        
+                            
+                                Entro 60 giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale, a fini conoscitivi, e' pubblicato nel sito internet www.arconet.rgs.tesoro.it: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il piano dei conti dedicato alle regioni e agli enti regionali, derivato dal piano dei conti degli enti territoriali di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il piano dei conti dedicato alle province, ai comuni e agli enti locali, derivato dal piano dei conti degli enti territoriali di cui al comma 1.
+
 A seguito degli aggiornamenti del piano dei conti integrato di cui all'art. 4, comma 3, lettera a), del decreto legislativo 31 maggio 2011, n. 91, l'allegato n. 6 puo' essere modificato con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, di concerto con il Ministero dell'interno - Dipartimento per gli affari interni e territoriali e la Presidenza del Consiglio dei ministri - Dipartimento per gli affari regionali, su proposta della Commissione per l'armonizzazione contabile degli enti territoriali. La commissione per l'armonizzazione contabile degli enti territoriali promuove le modifiche e le integrazioni del piano dei conti di cui all'art. 4, comma 3, lettera a), del decreto legislativo 31 maggio 2011, n. 91, di interesse degli enti territoriali.
 
 ## Art. 5. — Definizione della transazione elementare
@@ -144,6 +295,31 @@ La codifica della transazione elementare e' aggiornata con decreto del Ministero
 
 ## Art. 7. — Modalita' di codificazione delle transazioni elementari
 
+1.
+                        
+                            
+                                Al fine di garantire l'omogeneita' dei bilanci pubblici, le amministrazioni di cui all'articolo 2((...)) codificano le transazioni elementari uniformandosi alle istruzioni degli appositi glossari. E' vietato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adozione del criterio della prevalenza ((, salvi i casi in cui e' espressamente previsto)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imputazione provvisoria di operazioni alle partite di giro/servizi per conto terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assumere impegni sui fondi di riserva((e sugli altri accantonamenti stanziati in bilancio.)).
+
 ((
 
 I residui provenienti dagli esercizi precedenti all'entrata in vigore del presente decreto, che non sono stati oggetto del riaccertamento di cui all'art. 3, comma 7, non imputabili ad una sola tipologia di entrata, o ad un solo programma di spesa, possono essere codificati adottando il criterio della prevalenza.
@@ -170,6 +346,24 @@ Il bilancio di previsione finanziario e' almeno triennale, ha carattere autorizz
 
 A seguito di eventi intervenuti successivamente all'approvazione del bilancio, la giunta, nelle more della necessaria variazione di bilancio e al solo fine di garantire gli equilibri di bilancio, puo' limitare la natura autorizzatoria degli stanziamenti del bilancio di previsione, compresi quelli relativi agli esercizi successivi al primo. Con riferimento a tali stanziamenti, non possono essere assunte obbligazioni giuridiche.
 
+3.
+                        
+                            
+                                Gli impegni di spesa sono assunti nei limiti dei rispettivi stanziamenti di competenza del bilancio di previsione, con imputazione agli esercizi in cui le obbligazioni passive sono esigibili. Non possono essere assunte obbligazioni che danno luogo ad impegni di spesa corrente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sugli esercizi successivi a quello in corso considerati nel bilancio di previsione, a meno che non siano connesse a contratti o convenzioni pluriennali o siano necessarie per garantire la continuita' dei servizi connessi con le funzioni fondamentali, fatta salva la costante verifica del mantenimento degli equilibri di bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sugli esercizi non considerati nel bilancio, a meno delle spese derivanti da contratti di somministrazione, di locazione, relative a prestazioni periodiche o continuative di servizi di cui all'art. 1677 del codice civile, imputate anche agli esercizi considerati nel bilancio di previsione, delle spese correlate a finanziamenti comunitari e delle rate di ammortamento dei prestiti, inclusa la quota capitale.
+
 ((
 
 Nei casi in cui il tesoriere e' tenuto ad effettuare controlli sui pagamenti, alle variazioni di bilancio, disposte nel rispetto di quanto previsto dai rispettivi ordinamenti finanziari, sono allegati i prospetti di cui all'allegato 8, da trasmettere al tesoriere.
@@ -180,9 +374,434 @@ Il conto del tesoriere e' predisposto secondo lo schema di cui all'allegato n. 1
 
 ## Art. 11. — Schemi di bilancio
 
+1.
+                        
+                            
+                                Le amministrazioni pubbliche di cui all'art. 2 adottano i seguenti comuni schemi di bilancio finanziari, economici e patrimoniali e comuni schemi di bilancio consolidato con i propri enti ed organismi strumentali, aziende, societa' controllate e partecipate e altri organismi controllati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    allegato n. 9, concernente lo schema del bilancio di previsione finanziario, costituito dalle previsioni delle entrate e delle spese, di competenza e di cassa del primo esercizio, dalle previsioni delle entrate e delle spese di competenza degli esercizi successivi, dai relativi riepiloghi, e dai prospetti riguardanti il quadro generale riassuntivo e gli equilibri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    allegato n. 10, concernente lo schema del rendiconto della gestione, che comprende il conto del bilancio, i relativi riepiloghi, i prospetti riguardanti il quadro generale riassuntivo e la verifica degli equilibri, lo stato patrimoniale e il conto economico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    allegato n. 11 concernente lo schema del bilancio consolidato disciplinato dall'art. 11-ter.
+
 Le amministrazioni pubbliche di cui all'art. 2 redigono un rendiconto semplificato per il cittadino, da divulgare sul proprio sito internet, recante una esposizione sintetica dei dati di bilancio, con evidenziazione delle risorse finanziarie umane e strumentali utilizzate dall'ente nel perseguimento delle diverse finalita' istituzionali, dei risultati conseguiti con riferimento al livello di copertura ed alla qualita' dei servizi pubblici forniti ai cittadini.
 
+3.
+                        
+                            
+                                Al bilancio di previsione finanziario di cui al comma 1, lettera a), sono allegati, oltre a quelli previsti dai relativi ordinamenti contabili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il prospetto esplicativo del presunto risultato di amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il prospetto concernente la composizione, per missioni e programmi, del fondo pluriennale vincolato per ciascuno degli esercizi considerati nel bilancio di previsione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prospetto concernente la composizione del fondo crediti di dubbia esigibilita' per ciascuno degli esercizi considerati nel bilancio di previsione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il prospetto dimostrativo del rispetto dei vincoli di indebitamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i soli enti locali, il prospetto delle spese previste per l'utilizzo di contributi e trasferimenti da parte di organismi comunitari e internazionali, per ciascuno degli anni considerati nel bilancio di previsione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per i soli enti locali, il prospetto delle spese previste per lo svolgimento delle funzioni delegate dalle regioni per ciascuno degli anni considerati nel bilancio di previsione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la nota integrativa redatta secondo le modalita' previste dal comma 5; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la relazione del collegio dei revisori dei conti.
+
+4.
+                        
+                            
+                                Al rendiconto della gestione sono allegati oltre a quelli previsti dai relativi ordinamenti contabili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il prospetto dimostrativo del risultato di amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il prospetto concernente la composizione, per missioni e programmi, del fondo pluriennale vincolato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il prospetto concernente la composizione del fondo crediti di dubbia esigibilita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il prospetto degli accertamenti per titoli, tipologie e categorie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il prospetto degli impegni per missioni, programmi e macroaggregati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la tabella dimostrativa degli accertamenti assunti nell'esercizio in corso e negli esercizi precedenti imputati agli esercizi successivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la tabella dimostrativa degli impegni assunti nell'esercizio in corso e negli esercizi precedenti imputati agli esercizi successivi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il prospetto rappresentativo dei costi sostenuti per missione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per le sole regioni, il prospetto dimostrativo della ripartizione per missioni e programmi della politica regionale unitaria e cooperazione territoriale, a partire dal periodo di programmazione 2014 - 2020; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    per i soli enti locali, il prospetto delle spese sostenute per l'utilizzo di contributi e trasferimenti da parte di organismi comunitari e internazionali; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    per i soli enti locali, il prospetto delle spese sostenute per lo svolgimento delle funzioni delegate dalle regioni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il prospetto dei dati SIOPE; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'elenco dei residui attivi e passivi provenienti dagli esercizi anteriori a quello di competenza, distintamente per esercizio di provenienza e per capitolo; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'elenco dei crediti inesigibili, stralciati dal conto del bilancio, sino al compimento dei termini di prescrizione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la relazione sulla gestione dell'organo esecutivo redatta secondo le modalita' previste dal comma 6; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    la relazione del collegio dei revisori dei conti.
+
+5.
+                        
+                            
+                                La nota integrativa allegata al bilancio di previsione indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri di valutazione adottati per la formulazione delle previsioni, con particolare riferimento agli stanziamenti riguardanti gli accantonamenti per le spese potenziali e al fondo crediti di dubbia esigibilita', dando illustrazione dei crediti per i quali non e' previsto l'accantonamento a tale fondo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco analitico delle quote vincolate e accantonate del risultato di amministrazione presunto al 31 dicembre dell'esercizio precedente, distinguendo i vincoli derivanti dalla legge e dai principi contabili, dai trasferimenti, da mutui e altri finanziamenti, vincoli formalmente attribuiti dall'ente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco analitico degli utilizzi delle quote vincolate e accantonate del risultato di amministrazione presunto, distinguendo i vincoli derivanti dalla legge e dai principi contabili, dai trasferimenti, da mutui e altri finanziamenti, vincoli formalmente attribuiti dall'ente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'elenco degli interventi programmati per spese di investimento finanziati col ricorso al debito e con le risorse disponibili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso in cui gli stanziamenti riguardanti il fondo pluriennale vincolato comprendono anche investimenti ancora in corso di definizione, le cause che non hanno reso possibile porre in essere la programmazione necessaria alla definizione dei relativi cronoprogrammi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'elenco delle garanzie principali o sussidiarie prestate dall'ente a favore di enti e di altri soggetti ai sensi delle leggi vigenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli oneri e gli impegni finanziari stimati e stanziati in bilancio, derivanti da contratti relativi a strumenti finanziari derivati o da contratti di finanziamento che includono una componente derivata; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'elenco dei propri enti ed organismi strumentali, precisando che i relativi bilanci consuntivi sono consultabili nel proprio sito internet fermo restando quanto previsto per gli enti locali dall'art. 172, comma 1, lettera a) del decreto legislativo 18 agosto 2000, n. 267; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'elenco delle partecipazioni possedute con l'indicazione della relativa quota percentuale; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    altre informazioni riguardanti le previsioni, richieste dalla legge o necessarie per l'interpretazione del bilancio.
+
+6.
+                        
+                            
+                                La relazione sulla gestione allegata al rendiconto e' un documento illustrativo della gestione dell'ente, nonche' dei fatti di rilievo verificatisi dopo la chiusura dell'esercizio e di ogni eventuale informazione utile ad una migliore comprensione dei dati contabili. In particolare la relazione illustra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri di valutazione utilizzati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le principali voci del conto del bilancio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le principali variazioni alle previsioni finanziarie intervenute in corso d'anno, comprendendo l'utilizzazione dei fondi di riserva e gli utilizzi delle quote vincolate e accantonate del risultato di amministrazione al 1° gennaio dell'esercizio precedente, distinguendo i vincoli derivanti dalla legge e dai principi contabili, dai trasferimenti, da mutui e altri finanziamenti, vincoli formalmente attribuiti dall'ente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'elenco analitico delle quote vincolate e accantonate del risultato di amministrazione al 31 dicembre dell'esercizio precedente, distinguendo i vincoli derivanti dalla legge e dai principi contabili, dai trasferimenti, da mutui e altri finanziamenti, vincoli formalmente attribuiti dall'ente; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    solo con riferimento alle regioni, l'elenco degli impegni per spese di investimento di competenza dell'esercizio finanziati con il ricorso al debito non contratto; 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    solo con riferimento alle regioni, l'elenco degli impegni per spese di investimento che hanno determinato il disavanzo da debito autorizzato e non contratto alla fine dell'anno, distintamente per esercizio di formazione
+                                
+                            
+                            
+                                e)
+                                
+                                    le ragioni della persistenza dei residui con anzianita' superiore ai cinque anni e di maggiore consistenza, nonche' sulla fondatezza degli stessi, compresi i crediti di cui al comma 4, lettera n); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'elenco delle movimentazioni effettuate nel corso dell'esercizio sui capitoli di entrata e di spesa riguardanti l'anticipazione, evidenziando l'utilizzo medio e l'utilizzo massimo dell'anticipazione nel corso dell'anno, nel caso in cui il conto del bilancio, in deroga al principio generale dell'integrita', espone il saldo al 31 dicembre dell'anticipazione attivata al netto dei relativi rimborsi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'elencazione dei diritti reali di godimento e la loro illustrazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'elenco dei propri enti e organismi strumentali, con la precisazione che i relativi rendiconti o bilanci di esercizio sono consultabili nel proprio sito internet; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'elenco delle partecipazioni dirette possedute con l'indicazione della relativa quota percentuale; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    gli esiti della verifica dei crediti e debiti reciproci con i propri enti strumentali e le societa' controllate e partecipate. La predetta informativa, asseverata dai rispettivi organi di revisione, evidenzia analiticamente eventuali discordanze e ne fornisce la motivazione; in tal caso l'ente assume senza indugio, e comunque non oltre il termine dell'esercizio finanziario in corso, i provvedimenti necessari ai fini della riconciliazione delle partite debitorie e creditorie; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    gli oneri e gli impegni sostenuti, derivanti da contratti relativi a strumenti finanziari derivati o da contratti di finanziamento che includono una componente derivata; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'elenco delle garanzie principali o sussidiarie prestate dall'ente a favore di enti e di altri soggetti ai sensi delle leggi vigenti, con l'indicazione delle eventuali richieste di escussione nei confronti dell'ente e del rischio di applicazione dell'art. 3, comma 17 della legge 24 dicembre 2003, n. 350; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'elenco descrittivo dei beni appartenenti al patrimonio immobiliare dell'ente alla data di chiusura dell'esercizio cui il conto si riferisce, con l'indicazione delle rispettive destinazioni e degli eventuali proventi da essi prodotti; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    gli elementi richiesti dall'art. 2427 e dagli altri articoli del codice civile, nonche' da altre norme di legge e dai documenti sui principi contabili applicabili; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    altre informazioni riguardanti i risultati della gestione, richieste dalla legge o necessarie per l'interpretazione del rendiconto.
+
+7.
+                        
+                            
+                                Al documento tecnico di accompagnamento delle regioni di cui all'art. 39, comma 10, e al piano esecutivo di gestione degli enti locali di cui all'art. 169 del decreto legislativo 18 agosto 2000, n. 267, sono allegati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il prospetto delle previsioni di entrata per titoli, tipologie e categorie per ciascuno degli anni considerati nel bilancio di previsione, distinguendo le entrate ricorrenti e non ricorrenti, secondo lo schema di cui all'allegato 12/1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il prospetto delle previsioni di spesa per missioni, programmi e macroaggregati per ciascuno degli anni considerati nel bilancio di previsione, distinguendo le spese ricorrenti e non ricorrenti, secondo lo schema di cui all'allegato 12/2.
+
 Le amministrazioni di cui al comma 1 articolate in organismi strumentali come definiti dall'art. 1, comma 2, approvano, contestualmente al rendiconto della gestione di cui al comma 1, lettera b), anche il rendiconto consolidato con i propri organismi strumentali. Il rendiconto consolidato delle regioni comprende anche i risultati della gestione del consiglio regionale.
+
+9.
+                        
+                            
+                                Il rendiconto consolidato di cui al comma 8, predisposto nel rispetto dello schema previsto dal comma 1, lettera b), e' costituito dal conto del bilancio, dai relativi riepiloghi, dai prospetti riguardanti il quadro generale riassuntivo e la verifica degli equilibri, dallo stato patrimoniale e dal conto economico, ed e' elaborato aggiungendo alle risultanze riguardanti la gestione dell'ente, quelle dei suoi organismi strumentali ed eliminando le risultanze relative ai trasferimenti interni. Al rendiconto consolidato sono allegati i prospetti di cui al comma 4, lettere da 
+                            
+                            
+                                a)
+                                
+                                    a g). Al fine di consentire l'elaborazione del rendiconto consolidato l'ente disciplina tempi e modalita' di approvazione e acquisizione dei rendiconti dei suoi organismi strumentali.
 
 Per i comuni con popolazione inferiore a 5.000 abitanti, la predisposizione degli allegati di cui al comma 3, lettere e) ed f), e di cui al comma 4, lettere d), e), h), j) e k), e' facoltativa.
 
@@ -206,6 +825,24 @@ In caso di esercizio provvisorio o gestione provvisoria nell'esercizio 2016 gli 
 
 Gli enti di cui all'art. 1, comma 1, redigono il bilancio consolidato con i propri enti ed organismi strumentali, aziende, societa' controllate e partecipate, secondo le modalita' ed i criteri individuati nel principio applicato del bilancio consolidato di cui all'allegato n. 4/4.
 
+2.
+                        
+                            
+                                Il bilancio consolidato e' costituito dal conto economico consolidato, dallo stato patrimoniale consolidato e dai seguenti allegati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la relazione sulla gestione consolidata che comprende la nota integrativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione del collegio dei revisori dei conti.
+
 Ai fini dell'inclusione nel bilancio consolidato, si considera qualsiasi ente strumentale, azienda, societa' controllata e partecipata, indipendentemente dalla sua forma giuridica pubblica o privata, anche se le attivita' che svolge sono dissimili da quelle degli altri componenti del gruppo, con l'esclusione degli enti cui si applica il titolo II.
 
 Gli enti di cui al comma 1 possono rinviare l'adozione del bilancio consolidato con riferimento all'esercizio 2016, salvo gli enti che, nel 2014, hanno partecipato alla sperimentazione.
@@ -214,7 +851,177 @@ Gli enti di cui al comma 1 possono rinviare l'adozione del bilancio consolidato 
 
 ## Art. 11-ter. — (Enti strumentali)
 
+1.
+                        
+                            
+                                Si definisce ente strumentale controllato di una regione o di un ente locale di cui all'art. 2 del decreto legislativo 18 agosto 2000, n. 267, l'azienda o l'ente, pubblico o privato, nei cui confronti la regione o l'ente locale ha una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il possesso, diretto o indiretto, della maggioranza dei voti esercitabili nell'ente o nell'azienda; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il potere assegnato da legge, statuto o convenzione di nominare o rimuovere la maggioranza dei componenti degli organi decisionali, competenti a definire le scelte strategiche e le politiche di settore, nonche' a decidere in ordine all'indirizzo, alla pianificazione ed alla programmazione dell'attivita' di un ente o di un'azienda; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la maggioranza, diretta o indiretta, dei diritti di voto nelle sedute degli organi decisionali, competenti a definire le scelte strategiche e le politiche di settore, nonche' a decidere in ordine all'indirizzo, alla pianificazione ed alla programmazione dell'attivita' dell'ente o dell'azienda; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'obbligo di ripianare i disavanzi, nei casi consentiti dalla legge, per percentuali superiori alla propria quota di partecipazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un'influenza dominante in virtu' di contratti o clausole statutarie, nei casi in cui la legge consente tali contratti o clausole. I contratti di servizio pubblico e di concessione, stipulati con enti o aziende che svolgono prevalentemente l'attivita' oggetto di tali contratti, comportano l'esercizio di influenza dominante.
+
 Si definisce ente strumentale partecipato da una regione o da un ente locale di cui all'art. 2 del decreto legislativo 18 agosto 2000, n. 267, l'azienda o l'ente, pubblico o privato, nel quale la regione o l'ente locale ha una partecipazione, in assenza delle condizioni di cui al comma 1.
+
+3.
+                        
+                            
+                                Gli enti strumentali di cui ai commi 1 e 2 sono distinti nelle seguenti tipologie, corrispondenti alle missioni del bilancio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    servizi istituzionali, generali e di gestione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istruzione e diritto allo studio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordine pubblico e sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutela e valorizzazione dei beni ed attivita' culturali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    politiche giovanili, sport e tempo libero; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    turismo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    assetto del territorio ed edilizia abitativa; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sviluppo sostenibile e tutela del territorio e dell'ambiente; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    trasporti e diritto alla mobilita'; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    soccorso civile; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    diritti sociali, politiche sociali e famiglia; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    tutela della salute; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    sviluppo economico e competitivita'; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    politiche per il lavoro e la formazione professionale; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    agricoltura, politiche agroalimentari e pesca; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    energia e diversificazione delle fonti energetiche; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    relazione con le altre autonomie territoriali e locali; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    relazioni internazionali. 
+ ((18))
 
 -------------
                             AGGIORNAMENTO (18)
@@ -222,6 +1029,25 @@ Si definisce ente strumentale partecipato da una regione o da un ente locale di 
  Il D.L. 20 giugno 2017, n. 91, convertito con modificazioni dalla L. 3 agosto 2017, n. 123, ha disposto (con l'art. 8, comma 1-quater) che "L'articolo 11-ter del decreto legislativo 23 giugno 2011, n. 118, non si applica ai Corpi volontari dei vigili del fuoco, nonche' alle relative unioni".
 
 ## Art. 11-quater. — (Societa' controllate)
+
+1.
+                        
+                            
+                                
+                                    ((Ai fini dell'elaborazione del bilancio consolidato, si definisce)) controllata da una regione o da un ente locale la societa' nella quale la regione o l'ente locale ha una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il possesso, diretto o indiretto, anche sulla scorta di patti parasociali, della maggioranza dei voti esercitabili nell'assemblea ordinaria o dispone di voti sufficienti per esercitare una influenza dominante sull'assemblea ordinaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il diritto, in virtu' di un contratto o di una clausola statutaria, di esercitare un'influenza dominante, quando la legge consente tali contratti o clausole.
 
 I contratti di servizio pubblico e gli atti di concessione stipulati con societa' che svolgono prevalentemente l'attivita' oggetto di tali contratti comportano l'esercizio di influenza dominante.
 
@@ -249,7 +1075,26 @@ L'unita' di voto per l'approvazione del bilancio di previsione delle amministraz
 
 ## Art. 14. — Criteri per la specificazione e classificazione delle spese
 
+1.
+                        
+                            
+                                Unitamente alle rilevazioni contabili in termini finanziari, economici e patrimoniali, i documenti di bilancio previsivi e consuntivi delle Amministrazioni pubbliche di cui all'articolo 2 ((...)) in attuazione di quanto previsto dall'articolo 13 ripartiscono le spese in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    missioni, come definite all'articolo 13, comma 1, secondo periodo. Le missioni sono definite in relazione al riparto di competenza di cui agli articoli 117 e 118 della Costituzione. Al fine di assicurare un piu' agevole consolidamento e monitoraggio dei conti pubblici, le missioni sono definite anche tenendo conto di quelle individuate per il bilancio dello Stato; 
 
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 10 AGOSTO 2014, N. 126)).
+
+((COMMA ABROGATO DAL D.LGS. 10 AGOSTO 2014, N. 126)).
 
 Le amministrazioni pubbliche di cui all'articolo 2 ((...)) allegano al bilancio consuntivo un apposito allegato che includa una rappresentazione riassuntiva dei costi sostenuti per ((per le missioni di cui agli articoli 12 e 13 secondo lo schema previsto dall'art. 11, comma 4, lettera h) )).
 
@@ -262,6 +1107,32 @@ L'elenco delle missioni, programmi, titoli e macroaggregati, indicato nell'alleg
 ))
 
 ## Art. 15. — Criteri per la specificazione e la classificazione delle entrate
+
+1.
+                        
+                            
+                                Le entrate degli schemi di bilancio finanziario di cui all' articolo 11 sono classificate secondo i successivi livelli di dettaglio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli, definiti secondo la fonte di provenienza delle entrate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipologie, definite in base alla natura delle entrate, nell'ambito di ciascuna fonte di provenienza, ai fini dell'approvazione in termini di unita' di voto; ((Ai fini della gestione e della rendicontazione le tipologie sono ripartite in categorie, capitoli ed eventualmente in articoli secondo il rispettivo oggetto. I capitoli e gli articoli, ove previsti, si raccordano con il quarto livello di articolazione del piano dei conti integrato di cui all'art. 4. La Giunta contestualmente alla proposta di bilancio trasmette al Consiglio, a fini conoscitivi, la proposta di articolazione delle tipologie in categorie.)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 10 AGOSTO 2014, N. 126)).
 
 ((
 
@@ -315,6 +1186,31 @@ Il prospetto di cui all'allegato n. 15 e' aggiornato con decreto del Ministero d
 
 ## Art. 18. — Termini di approvazione dei bilanci
 
+1.
+                        
+                            
+                                Le amministrazioni pubbliche di cui all'articolo 1, comma 1, approvano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il bilancio di previsione o il budget economico entro il 31 dicembre dell'anno precedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rendiconto o il bilancio di esercizio entro il 30 aprile dell' anno successivo le regioni approvano il rendiconto entro il 31 luglio dell'anno successivo, con preventiva approvazione da parte della giunta entro il 30 aprile, per consentire la parifica delle sezioni regionali di controllo della Corte dei conti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il bilancio consolidato ((entro il 31 ottobre dell'anno successivo)). (32)
+
 Le amministrazioni pubbliche di cui all'articolo 1 trasmettono i loro bilanci preventivi ed i bilanci consuntivi alla Banca dati unitaria delle· amministrazioni pubbliche, secondo gli schemi e le modalita' previste dall'articolo 13, comma 3, della legge 31 dicembre 2009, n. 196. Gli schemi , standardizzati ed omogenei, assicurano l'effettiva comparabilita' delle informazioni tra i diversi enti territoriali.
 
 ---------------
@@ -342,7 +1238,97 @@ Il sistema comune di indicatori di risultato delle Regioni e dei loro enti ed or
 
 Le disposizioni del presente titolo, che costituiscono principi fondamentali del coordinamento della finanza pubblica ai sensi dell'articolo 117, comma 3, della Costituzione e sono finalizzate alla tutela dell'unita' economica della Repubblica italiana, ai sensi dell'articolo 120, secondo comma, della Costituzione, al fine di garantire che gli enti coinvolti nella gestione della spesa finanziata con le risorse destinate al Servizio sanitario nazionale concorrano al perseguimento degli obiettivi di finanza pubblica sulla base di principi di armonizzazione dei sistemi contabili e dei bilanci, sono dirette a disciplinare le modalita' di redazione e di consolidamento dei bilanci da parte dei predetti enti, nonche' a dettare i principi contabili cui devono attenersi gli stessi per l'attuazione delle disposizioni ivi contenute.
 
+2.
+                        
+                            
+                                Gli enti destinatari delle disposizioni del presente titolo sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le regioni, per la parte del bilancio regionale che riguarda il finanziamento e la spesa del relativo servizio sanitario, rilevata attraverso scritture di contabilita' finanziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le regioni: 
+ i) per la parte del finanziamento del servizio sanitario, regionale direttamente gestito, rilevata attraverso scritture di contabilita' economico-patrimoniale, qualora le singole regioni esercitino la scelta di gestire direttamente presso la regione una quota del finanziamento del proprio servizio sanitario, d'ora in poi denominata gestione sanitaria accentrata presso la regione; 
+ ii) per il consolidamento dei conti degli enti sanitari di cui alla lettera c) e, ove presente ai sensi del punto i), della gestione sanitaria accentrata presso la regione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aziende sanitarie locali; aziende ospedaliere; istituti di ricovero e cura a carattere scientifico pubblici, anche se trasformati in fondazioni; aziende. ospedaliere universitarie integrate con il Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    istituti zooprofilattici di cui al decreto legislativo 30 giugno 1993, n. 270.
+
 ## Art. 20. — Trasparenza dei conti sanitari e finalizzazione delle risorse al finanziamento dei singoli servizi sanitari regionali
+
+1.
+                        
+                            
+                                Nell'ambito del bilancio regionale le regioni garantiscono un'esatta perimetrazione delle entrate e delle uscite relative al finanziamento del proprio servizio sanitario regionale, al fine di consentire la confrontabilita' immediata fra le entrate e le spese sanitarie iscritte nel bilancio regionale e le risorse indicate negli atti di determinazione del fabbisogno sanitario regionale standard e di individuazione delle correlate fonti di finanziamento, nonche' un'agevole verifica delle ulteriori risorse rese disponibili dalle regioni per il finanziamento del medesimo servizio sanitario regionale per l'esercizio in corso. A tal fine le regioni adottano un'articolazione in capitoli tale da garantire, sia nella sezione dell'entrata che nella sezione della spesa, ivi compresa l'eventuale movimentazione di partite di giro, separata evidenza delle seguenti grandezze: 
+ A) Entrate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    finanziamento sanitario ordinario corrente quale derivante dalle fonti di finanziamento definite nell'atto formale di determinazione del fabbisogno sanitario regionale standard e di individuazione delle relative fonti di finanziamento intercettate dall'ente regionale, ivi compresa la mobilita' attiva programmata per l'esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    finanziamento sanitario aggiuntivo corrente, quale derivante dagli eventuali atti regionali di incremento di aliquote fiscali per il finanziamento della sanita' regionale, dagli automatismi fiscali intervenuti ai sensi della vigente legislazione in materia di copertura dei disavanzi sanitari, da altri atti di finanziamento regionale aggiuntivo, ivi compresi quelli di erogazione dei livelli di assistenza superiori rispetto ai LEA, da pay back e da iscrizione volontaria al Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    finanziamento regionale del disavanzo sanitario pregresso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    finanziamento per investimenti in ambito sanitario, con separata evidenza degli interventi per l'edilizia sanitaria finanziati ai sensi dell' articolo 20, della legge n. 67 del 1988; 
+ B) Spesa: 
+ a) spesa sanitaria corrente per il finanziamento dei LEA, ivi compresa la mobilita' passiva programmata per l'esercizio e il pay back; 
+ b) spesa sanitaria aggiuntiva per il finanziamento di livelli di assistenza sanitaria superiori ai LEA; 
+ c) spesa sanitaria per il finanziamento di disavanzo sanitario pregresso; 
+ d) spesa per investimenti in. ambito sanitario, con separata evidenza degli interventi per l'edilizia sanitaria finanziati ai sensi dell' articolo 20, della legge n. 67 del 1988.
+
+2.
+                        
+                            
+                                Per garantire effettivita' al finanziamento dei livelli di assistenza sanitaria, le regioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accertano ed impegnano nel corso dell'esercizio l'intero importo corrispondente al finanziamento sanitario corrente, ivi compresa la quota premiale condizionata alla verifica degli adempimenti regionali, e le quote di finanziamento sanitario vincolate o finalizzate. Ove si verifichi la perdita definitiva di quote di finanziamento condizionate alla verifica di adempimenti regionali, ai sensi della legislazione vigente, detto evento e' registrato come cancellazione dei residui attivi nell'esercizio nel quale la perdita si determina definitivamente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accertano ed impegnano nel corso dell'esercizio l'intero importo corrispondente al finanziamento regionale del disavanzo sanitario pregresso;
 
 I gettiti derivanti dalle manovre fiscali regionali e destinati al finanziamento del Servizio sanitario regionale sono iscritti nel bilancio regionale nell'esercizio di competenza dei tributi.
 
@@ -362,6 +1348,24 @@ Per la parte in conto capitale riferita all'edilizia sanitaria di cui all'artico
 
 ## Art. 21. — Accensione di conti di tesoreria intestati alla sanita'
 
+1.
+                        
+                            
+                                Per garantire trasparenza e confrontabilita' dei flussi di cassa relativi al finanziamento del fabbisogno sanitario regionale standard: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le risorse destinate al finanziamento del fabbisogno sanitario regionale standard che affluiscono nei conti di tesoreria unica intestati alle singole regioni e a titolo di trasferimento dal Bilancio dello Stato e di anticipazione mensile di tesoreria sono versate in conti di tesoreria unica appositamente istituiti per il finanziamento del servizio sanitario nazionale e funzionanti secondo le modalita' di cui all'articolo 7 del decreto legislativo 7 agosto 1997, n. 279; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le ulteriori risorse destinate al finanziamento del Servizio sanitario nazionale sono versate in appositi conti correnti intestati alla sanita' presso i tesorieri delle regioni secondo le modalita' previste dall'articolo 77-quater, comma 2, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133.
+
 Ai fini della rilevazione SIOPE le regioni sono identificate da distinti codici-ente, riguardanti la gestione non sanitaria e la gestione sanitaria.
 
 ## Art. 22. — Individuazione delle responsabilita' all'interno delle regioni nel caso di sussistenza della gestione sanitaria accentrata presso la regione
@@ -370,7 +1374,66 @@ Le regioni che esercitano la scelta di gestire direttamente presso la regione un
 
 Il responsabile della gestione sanitaria accentrata presso la regione registra i fatti gestionali nel libro giornale e li imputa ai conti relativi a singole categorie di valori omogenei, provvedendo alla rilevazione dei costi, dei ricavi e delle variazioni negli elementi attivi e passivi del patrimonio, in modo da dame rappresentazione nel bilancio di esercizio.
 
+3.
+                        
+                            
+                                Le regioni individuano il responsabile della gestione sanitaria accentrata presso la regione che e' tenuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'elaborazione e all'adozione del bilancio di esercizio della gestione sanitaria accentrata presso la regione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla coerente compilazione, con il bilancio di esercizio della gestione sanitaria accentrata presso la regione, dei modelli ministeriali CE e SP di cui al decreto ministeriale 13 novembre 2007 e successive modificazioni ed integrazioni, e relativi all'ente ivi identificato con il codice "000"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla redazione del bilancio sanitario consolidato mediante il consolidamento dei conti della gestione accentrata stessa e dei conti degli enti di cui all'articolo 19, comma 2, lettera c), secondo le modalita' definite nell'articolo 32. In sede di consolidamento, il responsabile della gestione sanitaria accentrata presso la regione garantisce la coerenza del bilancio sanitario consolidato con le risultanze dei modelli ministeriali CE e SP di cui al decreto ministeriale 13 novembre 2007 e s.m.i. e relative all'ente ivi identificato con il codice "999". In sede di consolidamento, il responsabile della gestione sanitaria accentrata presso la regione ed il responsabile della predisposizione del bilancio regionale, assicurano l'integrale raccordo e riconciliazione tra le poste iscritte e contabilizzate in termini di contabilita' economico-patrimoniale e quelle iscritte in termini di contabilita' finanziaria. Tale riconciliazione e' obbligatoriamente riportata nella nota integrativa di cui all'articolo 32; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Le regioni individuano un responsabile regionale che certifichi, con riferimento alla gestione sanitaria accertata presso la regione: 
+ i. in sede di rendicontazione trimestrale, la regolare tenuta dei libri contabili e della contabilita', la riconciliazione dei dati della gestione accentrata con le risultanze del bilancio finanziario, la riconciliazione dei dati di cassa, la coerenza dei dati inseriti nei modelli ministeriali di rilevazione dei conti con le risultanze della contabilita'; 
+ ii. in sede di rendicontazione annuale, quando indicato al punto i), nonche' la corrispondenza del bilancio alle risultanze della contabilita'.
+
 ## Art. 23. — Individuazione delle responsabilita' all'interno delle regioni nel caso di gestione integrale del finanziamento del servizio sanitario regionale presso gli enti di cui del servizio sanitario regionale
+
+1.
+                        
+                            
+                                Le regioni che non esercitano la scelta di gestire direttamente presso la regione una quota del finanziamento del proprio servizio sanitario di cui all' articolo 19, comma 2, lettera b), punto i): 
+ 
+                            
+                            
+                                a)
+                                
+                                    ne danno preventivamente comunicazione ai Ministeri dell'economia e delle finanze e della salute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trattano presso la regione le sole operazioni di consolidamento dei conti sanitari degli enti di cui all'articolo 19, comma 2, lettera c), come disciplinato dall'articolo 22, comma 3, lettera c). A tal fine e' comunque formalmente individuato un responsabile presso la regione, al quale si applicano le disposizioni recate dall'articolo 32; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non possono effettuare, a valere sui capitoli di spesa del servizio sanitario regionale, operazioni di gestione diverse dal mero trasferimento delle somme agli enti del servizio sanitario regionale di cui all'articolo 19, comma 2, lettera c). A tal fine le regioni destinano in ciascun esercizio agli enti del servizio sanitario regionale l'intero importo del finanziamento previsto nell'esercizio di riferimento.
 
 ## Art. 24. — Libri obbligatori della gestione sanitaria accentrata presso la regione
 
@@ -415,6 +1478,81 @@ Gli enti di cui al comma 1 possono dettagliare il proprio piano dei conti insere
 Per la redazione del bilancio d'esercizio gli enti di cui alle lettere b), punto i), c) e d) del comma 2 dell'articolo 19 applicano gli articoli da 2423 a 2428 del codice civile, fatto salvo quanto diversamente disposto nel presente titolo.
 
 ## Art. 29. — Principi di valutazione specifici del settore sanitario
+
+1.
+                        
+                            
+                                Al fine di soddisfare il principio generale di chiarezza e di rappresentazione veritiera e corretta, nonche' di garantire l'omogeneita', la confrontabilita' ed il consolidamento dei bilanci dei servizi sanitari regionali, sono individuate le modalita' di rappresentazione, da parte degli enti di cui all'articolo 19, comma 2, lettera c) e lettera b), punto i), ove ricorrano le condizioni ivi previste, delle seguenti fattispecie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il costo delle rimanenze di beni fungibili e' calcolato con il metodo della media ponderata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i contributi in conto capitale da regione sono rilevati sulla base del provvedimento di assegnazione. I contributi sono iscritti in un'apposita voce di patrimonio netto, con contestuale rilevazione di un credito verso regione. Laddove siano impiegati per l'acquisizione di cespiti ammortizzabili, i contributi vengono successivamente stornati a proventi con un criterio sistematico, commisurato all'ammortamento dei cespiti cui si riferiscono, producendo la sterilizzazione dell'ammortamento stesso. Nel caso di cessione di beni acquisiti tramite contributi in conto capitale con generazione di minusvalenza, viene stornata a provento una quota di contributo commisurata alla minusvalenza. La quota di contributo residua resta iscritta nell'apposita voce di patrimonio netto ed e' utilizzata per sterilizzare l'ammortamento dei beni acquisiti con le disponibilita' generate dalla dismissione. Nel caso di cessione di beni acquisiti tramite contributi in conto capitale con generazione di plusvalenza, la plusvalenza viene direttamente iscritta in una riserva del patrimonio netto, senza influenzare il risultato economico dell'esercizio. La quota di contributo residua resta iscritta nell'apposita voce di patrimonio netto ed e' utilizzata, unitamente alla riserva derivante dalla plusvalenza, per sterilizzare l'ammortamento dei beni acquisiti con le disponibilita' generate dalla dismissione. Le presenti disposizioni si applicano anche ai contributi in conto capitale dallo Stato e da altri enti pubblici, a lasciti e donazioni vincolati all'acquisto di immobilizzazioni, nonche' a conferimenti, lasciti e donazioni di immobilizzazioni da parte dello Stato, della regione, di altri soggetti pubblici o privati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i contributi per ripiano perdite sono rilevati in un'apposita voce del patrimonio netto sulla base del provvedimento regionale di assegnazione, con contestuale iscrizione di un credito verso regione.
+Al momento dell'incasso del credito, il contributo viene stornato dall'apposita voce del patrimonio netto e portato a diretta riduzione della perdita all'interno della voce «utili e perdite portati a nuovo»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le quote di contributi di parte corrente finanziati con somme relative al fabbisogno sanitario regionale standard, vincolate ai sensi della normativa nazionale vigente e non utilizzate nel corso dell'esercizio, sono accantonate nel medesimo esercizio in apposito fondo spese per essere rese disponibili negli esercizi successivi di effettivo utilizzo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le plusvalenze, le minusvalenze, le donazioni che non consistano in immobilizzazioni, ne' siano vincolate all'acquisto di immobilizzazioni, nonche' le sopravvenienze e le insussistenze, sono iscritte fra i proventi e gli oneri straordinari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    lo stato dei rischi aziendali e' valutato dalla regione, che verifica l'adeguatezza degli accantonamenti ai fondi rischi e oneri iscritti nei bilanci di esercizio degli enti. Il collegio sindacale dei suddetti enti attesta l'avvenuto rispetto degli adempimenti necessari per procedere all'iscrizione dei fondi rischi ed oneri ed al relativo utilizzo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le somme di parte corrente assegnate alle regioni, a titolo di finanziamento ordinario del Servizio sanitario nazionale, tramite atto formale di individuazione del fabbisogno sanitario regionale standard e delle relative fonti di finanziamento, sono iscritte, ove sussista la gestione di cui all'articolo 19, comma 2, lettera b), punto i), dal responsabile della gestione sanitaria accentrata presso la regione nella propria contabilita' generale, come credito e contestualmente come passivita' per finanziamenti da allocare. Ai fini della contabilizzazione della mobilita' sanitaria extraregionale attiva e passiva, si prende a riferimento la matrice della mobilita' extraregionale approvata dal Presidente della Conferenza delle Regioni e delle Province autonome ed inserita nell' atto formale di individuazione del fabbisogno sanitario regionale standard e delle relative fonti di finanziamento dell'anno di riferimento; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ove sussista la gestione di cui all'articolo 19, comma 2, lettera b), punto i), per la parte di finanziamento assegnata dalla regione agli enti di cui alla lettera c) del comma 2 dell'articolo 19, mensilmente il responsabile della gestione sanitaria accentrata presso la regione storna la passivita' per finanziamenti da allocare in ragione di un dodicesimo dell'intero importo, iscrivendo parimenti debiti verso le singole aziende in dodicesimi. Gli enti di cui alla predetta lettera c) del comma 2 dell'articolo 19 contestualmente rilevano un credito verso la regione e un ricavo sempre in ragione di un dodicesimo. Per la parte di finanziamento assegnata agli enti di cui all'articolo 19, comma 2, lettera b), punto i), limitatamente alla quota riferita alla spesa sanitaria direttamente gestita, dal momento dell'assegnazione il responsabile della gestione sanitaria accentrata presso la regione storna la passivita' per finanziamenti da allocare, iscrivendo proventi in ragione di un dodicesimo per ogni mese. Al termine dell'esercizio, eventuali quote non assegnate ne' agli enti di cui all'articolo 19, comma 2, lettera b), punto i), ne' agli enti di cui alla predetta lettera c) si intendono attribuite alla gestione sanitaria accentrata presso la regione e, conseguentemente, stornate da passivita' per finanziamenti da allocare a proventi della stessa gestione sanitaria accentrata. Il responsabile della gestione sanitaria accentrata presso la regione impartisce disposizioni agli enti di cui alla predetta lettera c) sulla rilevazione dei proventi e dei costi per mobilita' extraregionale, al fine di garantire la corrispondenza dei dati aziendali con quanto disposto nell'ultimo periodo della lettera h); 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    con modalita' analoghe a quelle previste per le somme di parte corrente, di cui al primo periodo della lettera h), ove sussista la gestione di cui all'articolo 19, comma 2, lettera b), punto i), il responsabile della gestione sanitaria accentrata presso la regione iscrive nella propria contabilita' generale le altre entrate regionali per l'assistenza sanitaria e ne definisce l'assegnazione alle aziende sanitarie. Tali assegnazioni sono rilevate dalle aziende con le modalita' stabilite alla lettera i) se destinate al finanziamento di parte corrente; sono invece rilevate con le modalita' stabilite alle lettere c) e d) se destinate rispettivamente al finanziamento degli investimenti o al ripiano delle perdite. In tutti i casi va garantita la corrispondenza tra i crediti verso regione iscritti nei bilanci degli enti di cui alla lettera c) del comma 2 dell'articolo 19 del presente titolo e i debiti verso aziende iscritti nel bilancio della gestione sanitaria accentrata presso la regione; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    alle disposizioni recate dalle lettere h), i) e j), qualora le singole regioni non esercitino la scelta di gestire direttamente presso la regione o la provincia autonoma una quota del finanziamento del proprio servizio sanitario, provvedono le singole aziende di cui all'articolo 19, comma 2, lettera c), per quanto di loro competenza, sulla base delle assegnazioni del finanziamento del servizio sanitario regionale effettuate dalla regione in loro favore a seguito di atto formale di individuazione del fabbisogno sanitario regionale standard e delle relative fonti di finanziamento. In tutti i casi va garantita la corrispondenza fra il finanziamento complessivo del servizio sanitario regionale e la somma dei finanziamenti registrati dalle aziende di cui all'articolo 19, comma 2, lettera c). (1)
 
 -------------
                             AGGIORNAMENTO (1)
@@ -498,6 +1636,24 @@ Le regioni adottano i principi contabili generali ed i principi contabili applic
 
 ((
 
+1.
+                        
+                            
+                                Il sistema contabile delle regioni, in attuazione dell'art. 2, comma 2, lettera h), della legge 5 maggio 2009, n. 42, garantisce la rilevazione unitaria dei fatti gestionali sotto il profilo finanziario, economico e patrimoniale, attraverso l'adozione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della contabilita' finanziaria, che ha natura autorizzatoria e consente la rendicontazione della gestione finanziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della contabilita' economico-patrimoniale, per la rilevazione, ai fini conoscitivi, degli effetti economici e patrimoniali dei fatti gestionali, che consente la rendicontazione economico e patrimoniale.
+
 Le regioni garantiscono la rilevazione unitaria dei fatti gestionali sotto il profilo finanziario ed economico patrimoniale adottando il piano dei conti integrato di cui all'art. 4.
 
 Al fine di consentire la tracciabilita' di tutte le operazioni gestionali e la movimentazione delle voci del piano dei conti integrato, ad ogni transazione e' attribuita una codifica da applicare secondo le modalita' previste dagli articoli 5, 6 e 7.
@@ -527,14 +1683,132 @@ Il Consiglio regionale approva ogni anno, con legge, il bilancio di previsione f
 
 Il bilancio di previsione finanziario comprende le previsioni di competenza e di cassa del primo esercizio del periodo considerato e le previsioni di competenza degli esercizi successivi ed e' redatto, secondo gli schemi previsti dall'allegato n. 9, con le modalita' previste dal principio applicato della programmazione di cui all'allegato n. 4/1, dallo statuto e dall'ordinamento contabile. Le previsioni riguardanti il primo esercizio costituiscono il bilancio di previsione finanziario annuale.
 
+3.
+                        
+                            
+                                Il bilancio di previsione finanziario ha carattere autorizzatorio, costituendo limite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli accertamenti e agli incassi riguardanti le accensioni di prestiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli impegni e ai pagamenti di spesa. Non comportano limiti alla gestione le previsioni riguardanti i rimborsi delle anticipazioni di tesoreria e le partite di giro.
+
 A seguito di eventi intervenuti successivamente all'approvazione del bilancio la giunta, nelle more della necessaria variazione di bilancio, puo' limitare la natura autorizzatoria degli stanziamenti di ciascuno degli esercizi successivi considerati nel bilancio di previsione, al solo fine di garantire gli equilibri di bilancio. Con riferimento a tali stanziamenti, non possono essere assunte obbligazioni giuridiche.
 
+5.
+                        
+                            
+                                Il bilancio di previsione finanziario indica, per ciascuna unita' di voto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ammontare presunto dei residui attivi o passivi alla chiusura dell'esercizio precedente a quello cui il bilancio si riferisce; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare delle previsioni di competenza definitive dell'anno precedente a quello cui si riferisce il bilancio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ammontare delle entrate che si prevede di accertare o delle spese di cui si autorizza l'impegno negli esercizi cui il bilancio si riferisce; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ammontare delle entrate che si prevede di riscuotere o delle spese di cui si autorizza il pagamento nel primo esercizio considerato nel bilancio, senza distinzioni fra riscossioni e pagamenti in conto competenza e in conto residui.
+
 Gli stanziamenti di spesa di competenza sono quantificati nella misura necessaria per lo svolgimento delle attivita' o interventi che sulla base della legislazione vigente daranno luogo ad obbligazioni esigibili negli esercizi considerati nel bilancio di previsione, e sono determinati esclusivamente in relazione alle esigenze funzionali ed agli obiettivi concretamente perseguibili nel periodo cui si riferisce il bilancio di previsione finanziario, restando esclusa ogni quantificazione basata sul criterio della spesa storica incrementale.
+
+7.
+                        
+                            
+                                Nel bilancio di previsione finanziario, prima di tutte le entrate e le spese, sono iscritti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in entrata, gli importi relativi al fondo pluriennale vincolato di parte corrente e del fondo pluriennale vincolato in c/capitale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'entrata del primo esercizio, gli importi relativi all'utilizzo dell'avanzo di amministrazione presunto, nei casi individuati dall'art. 42, comma 8, con l'indicazione della quota vincolata del risultato di amministrazione utilizzata anticipatamente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in spesa, l'importo del disavanzo di amministrazione presunto al 31 dicembre dell'esercizio precedente cui il bilancio si riferisce. Il disavanzo di amministrazione presunto puo' essere iscritto nella spesa del bilancio di previsione secondo le modalita' previste dall'art. 42, comma 12; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in entrata, il fondo di cassa presunto dell'esercizio precedente.
+
+8.
+                        
+                            
+                                Nel bilancio, ciascun stanziamento di spesa di cui al comma 5, lettere b) e c), individua: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la quota che e' gia' stata impegnata negli esercizi precedenti con imputazione all'esercizio di riferimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quota dello stanziamento di competenza costituita dal fondo pluriennale vincolato, destinata alla copertura degli impegni che sono stati assunti negli esercizi precedenti con imputazione agli esercizi successivi e degli impegni che si prevede di assumere nell'esercizio con imputazione agli esercizi successivi. Con riferimento a tale quota, non e' possibile impegnare e pagare con imputazione all'esercizio cui lo stanziamento si riferisce. Agli stanziamenti di spesa riguardanti il fondo pluriennale vincolato e' attribuito il medesimo codice del piano dei conti della spesa cui il fondo si riferisce.
 
 Formano oggetto di specifica approvazione del consiglio regionale, le previsioni di cui al comma 5, lettere c) e d), per ogni unita' di voto e le previsioni del comma 7.
 
 Contestualmente all'approvazione della legge di bilancio la giunta approva, per ciascun esercizio, la ripartizione delle unita' di voto del bilancio in categorie e macroaggregati. Tale ripartizione costituisce il documento tecnico di accompagnamento al bilancio.
 L'ordinamento contabile disciplina le modalita' con cui, contestualmente all'approvazione del documento tecnico di accompagnamento, la Giunta o il Segretario generale, con il bilancio finanziario gestionale, provvede, per ciascun esercizio, a ripartire le categorie e i macroaggregati in capitoli ai fini della gestione e rendicontazione, ed ad assegnare ai dirigenti titolari dei centri di responsabilita' amministrativa le risorse necessarie al raggiungimento degli obiettivi individuati per i programmi ed i progetti finanziati nell'ambito dello stato di previsione delle spese. I capitoli di entrata e di spesa sono raccordati almeno al quarto livello del piano dei conti di cui all'art. 4.
+
+11.
+                        
+                            
+                                Alla legge concernente il bilancio di previsione finanziario sono allegati i documenti previsti dall'art. 11, comma 3, e i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco dei capitoli che riguardano le spese obbligatorie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco delle spese che possono essere finanziate con il fondo di riserva per spese impreviste di cui all'art. 48, comma 1, lettera b).
 
 Al documento tecnico di accompagnamento al bilancio di cui al comma 10 sono allegati i documenti previsti dall'art. 11 comma 7.
 
@@ -575,6 +1849,81 @@ I fondi accantonati del risultato di amministrazione comprendono il fondo credit
 I fondi destinati agli investimenti sono costituiti dalle entrate in conto capitale senza vincoli di specifica destinazione non spese, e sono utilizzabili con provvedimento di variazione di bilancio solo a seguito dell'approvazione del rendiconto.
 L'indicazione della destinazione nel risultato di amministrazione, per le entrate in conto capitale che hanno dato luogo ad accantonamento al fondo crediti di dubbia e difficile esazione, e' sospeso, per l'importo dell'accantonamento, sino all'effettiva riscossione delle stesse. I trasferimenti in conto capitale non sono destinati al finanziamento degli investimenti e non possono essere finanziati dal debito e dalle entrate in conto capitale destinate al finanziamento degli investimenti.
 
+5.
+                        
+                            
+                                Costituiscono quota vincolata del risultato di amministrazione le entrate accertate e le corrispondenti economie di bilancio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi in cui la legge o i principi contabili generali e applicati individuano un vincolo di specifica destinazione dell'entrata alla spesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    derivanti da mutui e finanziamenti contratti per il finanziamento di investimenti determinati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    derivanti da trasferimenti erogati a favore dell'ente per una specifica destinazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    derivanti da entrate accertate straordinarie, non aventi natura ricorrente, cui la regione ha formalmente attribuito una specifica destinazione. E' possibile attribuire un vincolo di destinazione alle entrate straordinarie non aventi natura ricorrente solo se la regione non ha rinviato la copertura del disavanzo di amministrazione negli esercizi successivi e ha provveduto nel corso dell'esercizio alla copertura di tutti gli eventuali debiti fuori bilancio. 
+ L'indicazione del vincolo nel risultato di amministrazione, per le entrate vincolate che hanno dato luogo ad accantonamento al fondo crediti di dubbia e difficile esazione, e' sospeso, per l'importo dell'accantonamento, sino all'effettiva riscossione delle stesse.
+
+6.
+                        
+                            
+                                La quota libera dell'avanzo di amministrazione dell'esercizio precedente, accertato ai sensi del comma 1, puo' essere utilizzata, nel rispetto dei vincoli di destinazione, con provvedimento di variazione di bilancio, per le finalita' di seguito indicate in ordine di priorita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la copertura dei debiti fuori bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i provvedimenti necessari per la salvaguardia degli equilibri di bilancio previsti dalla legislazione vigente, ove non possa provvedersi con mezzi ordinari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2025, N. 199)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2025, N. 199)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2025, N. 199)).
+
 ((La quota libera dell'avanzo di amministrazione puo' essere inoltre utilizzata, sulla base delle specifiche necessita', per il finanziamento di spese correnti a carattere non permanente, per il finanziamento di spese di investimento e per l'estinzione anticipata di prestiti)).
 
 Resta salva la facolta' di impiegare l'eventuale quota del risultato di amministrazione "svincolata", in occasione dell'approvazione del rendiconto, sulla base della determinazione dell'ammontare definitivo della quota del risultato di amministrazione accantonata per il fondo crediti di dubbia esigibilita', per finanziare lo stanziamento riguardante il fondo crediti di dubbia esigibilita' nel bilancio di previsione dell'esercizio successivo a quello cui il rendiconto si riferisce.
@@ -611,6 +1960,24 @@ L'esercizio provvisorio del bilancio non puo' essere concesso se non per legge e
 
 ((
 
+1.
+                        
+                            
+                                Nel bilancio della regione le entrate sono ripartite, secondo le modalita' indicate all'art. 15, in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli, definiti secondo la fonte di provenienza delle entrate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipologie, definite in base alla natura delle entrate, nell'ambito di ciascuna fonte di provenienza, ai fini dell'approvazione in termini di unita' di voto.
+
 Ai fini della gestione le tipologie sono ripartite in categorie, in capitoli ed eventualmente in articoli. Le categorie di entrata delle regioni sono individuate dall'elenco di cui all'allegato n. 13.
 Nell'ambito delle categorie e' data separata evidenza delle eventuali quote di entrata non ricorrente. La Giunta, contestualmente alla proposta di bilancio, trasmette, a fini conoscitivi, la proposta di articolazione delle tipologie in categorie.
 
@@ -621,6 +1988,24 @@ Le entrate in c/capitale e derivanti da debito sono destinate esclusivamente al 
 ## Art. 45. — (( (Classificazione delle spese).))
 
 ((
+
+1.
+                        
+                            
+                                Le previsioni di spesa del bilancio di previsione sono classificate secondo le modalita' indicate all'art. 14 in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    missioni, che rappresentano le funzioni principali e gli obiettivi strategici perseguiti dalle regioni, utilizzando risorse finanziarie, umane e strumentali ad esse destinate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    programmi, che rappresentano gli aggregati omogenei di attivita' volte a perseguire gli obiettivi definiti nell'ambito delle missioni, ai fini dell'approvazione in termini di unita' di voto. I programmi sono ripartiti in titoli e sono raccordati alla relativa codificazione COFOG di secondo livello (Gruppi), secondo le corrispondenze individuate nel glossario, di cui al comma 3-ter dell'art. 14, che costituisce parte integrante dell'allegato n. 14.
 
 Ai fini della gestione, i programmi sono ripartiti in macroaggregati, capitoli ed eventualmente in articoli. I macroaggregati di spesa delle regioni sono individuati dall'elenco di cui all'allegato n. 14. La Giunta, contestualmente alla proposta di bilancio, trasmette, a fini conoscitivi, la proposta di articolazione dei programmi in macroaggregati.
 
@@ -658,6 +2043,31 @@ I bilanci degli enti e degli organismi, in qualunque forma costituiti, strumenta
 
 ((
 
+1.
+                        
+                            
+                                Nel bilancio regionale sono iscritti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella parte corrente, un «fondo di riserva per spese obbligatorie» dipendenti dalla legislazione in vigore. Le spese obbligatorie sono quelle relative al pagamento di stipendi, assegni, pensioni ed altre spese fisse, le spese per interessi passivi, quelle derivanti da obblighi comunitari e internazionali, le spese per ammortamenti di mutui, nonche' quelle cosi' identificative per espressa disposizione normativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella parte corrente, un «fondo di riserva per spese impreviste» per provvedere alle eventuali deficienze delle assegnazioni di bilancio, che non riguardino le spese di cui alla lettera a), e che, comunque, non impegnino i bilanci futuri con carattere di continuita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il fondo di riserva per le autorizzazioni di cassa di cui al comma 3.
+
 L'ordinamento contabile della regione disciplina le modalita' e i limiti del prelievo di somme dai fondi di cui al comma 1, escludendo la possibilita' di utilizzarli per l'imputazione di atti di spesa. I prelievi dal fondo di cui al comma 1, lettera a), sono disposti con decreto dirigenziale. I prelievi dal fondo di cui al comma 1, lettera b), sono disposti con delibere della giunta regionale.
 
 Il fondo di riserva per le autorizzazioni di cassa e' iscritto nel solo bilancio di cassa per un importo definito in rapporto alla complessiva autorizzazione a pagare ivi disposta, secondo modalita' indicate dall'ordinamento contabile regionale in misura non superiore ad un dodicesimo e i cui prelievi e relative destinazioni ed integrazioni degli altri programmi di spesa, nonche' dei relativi capitoli del bilancio di cassa, sono disposti con decreto dirigenziale.
@@ -686,11 +2096,97 @@ Entro il 31 luglio, la regione approva con legge l'assestamento delle previsioni
 
 La legge di assestamento del bilancio da' atto del permanere degli equilibri generali di bilancio e, in caso di accertamento negativo, assume i necessari provvedimenti di riequilibrio.
 
+3.
+                        
+                            
+                                Alla legge di assestamento e' allegata una nota integrativa nella quale sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la destinazione del risultato economico dell'esercizio precedente o i provvedimenti atti al contenimento e assorbimento del disavanzo economico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la destinazione della quota libera del risultato di amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di copertura dell'eventuale disavanzo di amministrazione tenuto conto della struttura e della sostenibilita' del ricorso all'indebitamento, con particolare riguardo ai contratti di mutuo, alle garanzie prestate e alla conformita' dei relativi oneri alle condizioni previste dalle convenzioni con gli istituti bancari e i valori di mercato, evidenziando gli oneri sostenuti in relazione ad eventuali anticipazioni di cassa concesse dall'istituto tesoriere.
+
 ((3-bis. Nelle more della conclusione del giudizio di parificazione del rendiconto dell'esercizio precedente da parte della Corte dei conti, i consigli regionali e delle province autonome di Trento e di Bolzano approvano la legge di assestamento del bilancio anche sulla base delle risultanze del rendiconto approvato dalla giunta, fermo restando l'obbligo di apportare le eventuali variazioni di bilancio che si dovessero rendere necessarie a seguito dell'approvazione definitiva del rendiconto dopo la decisione di parificazione. In ogni caso, l'eventuale avanzo di amministrazione libero e quello destinato agli investimenti possono essere applicati al bilancio di previsione solo a seguito dell'approvazione con legge del rendiconto che ne certifica la sussistenza))
 
 ## Art. 51. — (Variazioni del bilancio di previsione, del documento tecnico di accompagnamento e del bilancio gestionale)
 
 Nel corso dell'esercizio, il bilancio di previsione puo' essere oggetto di variazioni autorizzate con legge.
+
+2.
+                        
+                            
+                                Nel corso dell'esercizio la giunta, con provvedimento amministrativo, autorizza le variazioni del documento tecnico di accompagnamento e le variazioni del bilancio di previsione riguardanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituzione di nuove tipologie di bilancio, per l'iscrizione di entrate derivanti da assegnazioni vincolate a scopi specifici nonche' per l'iscrizione delle relative spese, quando queste siano tassativamente regolate dalla legislazione in vigore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    variazioni compensative tra le dotazioni delle missioni e dei programmi riguardanti l'utilizzo di risorse comunitarie e vincolate, nel rispetto della finalita' della spesa definita nel provvedimento di assegnazione delle risorse, o qualora le variazioni siano necessarie per l'attuazione di interventi previsti da intese istituzionali di programma o da altri strumenti di programmazione negoziata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    variazioni compensative tra le dotazioni delle missioni e dei programmi limitatamente alle spese per il personale, conseguenti a provvedimenti di trasferimento del personale all'interno dell'amministrazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    variazioni compensative tra le dotazioni di cassa delle missioni e dei programmi di diverse missioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    variazioni riguardanti il fondo pluriennale di cui all'art. 3, comma 4; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le variazioni riguardanti l'utilizzo del fondo di riserva per le spese impreviste di cui all'art. 48, lettera b); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le variazioni necessarie per l'utilizzo della quota accantonata del risultato di amministrazione riguardante i residui perenti. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    le variazioni che, al fine di ridurre il ricorso a nuovo debito, destinano alla copertura degli investimenti gia' stanziati in bilancio e finanziati da debito i maggiori accertamenti di entrate del titolo 1 e del titolo 3 rispetto agli stanziamenti di bilancio.
+Tali variazioni sono consentite solo alle regioni che nell'anno precedente hanno registrato un valore dell'indicatore annuale di tempestivita' dei pagamenti, calcolato e pubblicato secondo le modalita' stabilite dal decreto del Presidente del Consiglio dei ministri 22 settembre 2014, pubblicato nella Gazzetta Ufficiale n. 265 del 14 novembre 2014, tenendo conto di quanto disposto dall'articolo 41, comma 2, terzo periodo, del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89, rispettoso dei termini di pagamento di cui all'articolo 4 del decreto legislativo 9 ottobre 2002, n. 231.
 
 L'ordinamento contabile regionale disciplina le modalita' con cui la giunta regionale o il Segretario generale, con provvedimento amministrativo, autorizza le variazioni del bilancio gestionale che non sono di competenza dei dirigenti e del responsabile finanziario.
 
@@ -698,9 +2194,87 @@ Salva differente previsione definita dalle Regioni nel proprio ordinamento conta
 
 Sono vietate le variazioni amministrative compensative tra macroaggregati appartenenti a titoli diversi e spostamenti di somme tra residui e competenza.
 
+6.
+                        
+                            
+                                Nessuna variazione al bilancio puo' essere approvata dopo il 30 novembre dell'anno a cui il bilancio stesso si riferisce, fatta salva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituzione di tipologie di entrata di cui al comma 2, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'istituzione di tipologie di entrata, nei casi non previsti dalla lettera a) con stanziamento pari a zero, a seguito di accertamento e riscossione di entrate non previste in bilancio, secondo le modalita' previste dal principio applicato della contabilita' finanziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le variazioni del fondo pluriennale vincolato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le variazioni necessarie per consentire la reimputazione di obbligazioni gia' assunte agli esercizi in cui sono esigibili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i prelievi dai fondi di riserva per le spese obbligatorie, per le spese impreviste, per l'utilizzo della quota accantonata del risultato di amministrazione riguardante i residui perenti e le spese potenziali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le variazioni necessarie alla reimputazione agli esercizi in cui sono esigibili, di obbligazioni riguardanti entrate vincolate gia' assunte e, se necessario, delle spese correlate; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le variazioni delle dotazioni di cassa di cui al comma 2, lettera d); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le variazioni degli stanziamenti riguardanti i versamenti ai conti correnti di tesoreria statale intestati all'ente e i versamenti a depositi bancari intestati all'ente.
+
 I provvedimenti amministrativi che dispongono le variazioni al bilancio di previsione e, nei casi previsti dal presente decreto, non possono disporre variazioni del documento tecnico di accompagnamento o del bilancio gestionale.
 
 Salvo quanto disposto dal presente articolo e dagli articoli 48 e 49, sono vietate le variazioni compensative degli stanziamenti di competenza da un programma all'altro del bilancio con atto amministrativo.
+
+9.
+                        
+                            
+                                Le variazioni al bilancio di previsione sono trasmesse al tesoriere inviando il prospetto di cui all'art. 10, comma 4, allegato alla legge o al provvedimento di approvazione della variazione. Sono altresi' trasmesse al tesoriere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le variazioni dei residui a seguito del loro riaccertamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le variazioni del fondo pluriennale vincolato effettuate nel corso dell'esercizio finanziario.
 
 Nel corso dell'esercizio 2015 sono applicate le norme concernenti le variazioni di bilancio vigenti nell'esercizio 2014, fatta salva la disciplina del fondo pluriennale vincolato e del riaccertamento straordinario dei residui. Gli enti che hanno partecipato alla sperimentazione nel 2014 adottano la disciplina prevista dal presente articolo a decorrere dal 1° gennaio 2015.
 
@@ -737,6 +2311,66 @@ L'accertamento costituisce la prima fase della gestione dell'entrata con la qual
 La riscossione consiste nel materiale introito da parte del tesoriere o di altri eventuali incaricati della riscossione delle somme dovute all'ente.
 
 La riscossione e' disposta a mezzo di ordinativo di incasso, fatto pervenire al tesoriere nelle forme e nei tempi previsti dalla convenzione di tesoreria, anche nei casi in cui l'entrata non da' luogo ad effettivi movimenti di cassa.
+
+3.
+                        
+                            
+                                L'ordinativo d'incasso e' sottoscritto dal responsabile del servizio finanziario o da un suo delegato e contiene almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del debitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare della somma da riscuotere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la causale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione del titolo e delle tipologia di bilancio cui e' riferita l'entrata, con le relative codifiche, distintamente per residui o competenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i codici della transazione elementare di cui agli articoli da 5 a 7, inseriti nei campi liberi dell'ordinativo a disposizione dell'ente, non gestiti dal tesoriere; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero progressivo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'esercizio finanziario e la data di emissione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196.
 
 Il tesoriere deve accettare, senza pregiudizio per i diritti della regione, la riscossione di ogni somma, versata in favore della regione, ivi comprese le entrate di cui al comma 6, anche senza la preventiva emissione di ordinativo d'incasso. In tale ipotesi, il tesoriere ne da' immediata comunicazione alla regione, richiedendo la regolarizzazione. La regione procede alla regolarizzazione dell'incasso entro i successivi 60 giorni.
 
@@ -797,6 +2431,80 @@ Il pagamento delle spese e' ordinato al tesoriere entro i limiti delle prevision
 
 Al pagamento delle spese, conseguenti alle deliberazioni o agli atti con i quali sono assunti i relativi impegni, si provvede esclusivamente se tali deliberazioni o atti siano divenuti esecutivi, ovvero risultino immediatamente eseguibili.
 
+3.
+                        
+                            
+                                I mandati di pagamento sono firmati dal responsabile del servizio finanziario o da un suo delegato e contengono almeno i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero progressivo del mandato per esercizio finanziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data di emissione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione della missione, del programma e del titolo di bilancio cui e' riferita la spesa, distintamente per residui o competenza, e della relativa disponibilita' in termini di cassa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione del creditore e, se si tratta di persona diversa, del soggetto tenuto a rilasciare quietanza, nonche' il relativo codice fiscale o la partita IVA; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ammontare della somma dovuta e la scadenza, qualora sia prevista dalla legge o sia stata concordata con il creditore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la causale e gli estremi dell'atto esecutivo che legittima l'erogazione della spesa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' di pagamento se richieste dal creditore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i codici della transazione elementare di cui agli articoli da 5 a 7, inseriti nei campi liberi del mandato a disposizione dell'ente, non gestiti dal tesoriere; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    il codice che identifica le spese non soggette al controllo dei dodicesimi previsto dal principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2, in caso di esercizio provvisorio.
+
 I codici di cui al comma 3, lettera i), possono essere applicati al mandato a decorrere dal 1° gennaio 2016.
 
 Il tesoriere effettua i pagamenti derivanti da obblighi tributari, da somme iscritte a ruolo, da delegazioni di pagamento e da altri obblighi di legge, anche in assenza della preventiva emissione del relativo mandato di pagamento. Entro trenta giorni, la regione emette il relativo mandato ai fini della regolarizzazione.
@@ -812,6 +2520,38 @@ I mandati di pagamento, non pagati entro il termine dell'esercizio, sono commuta
 ## Art. 59. — (( (Modalita' di estinzione dei titoli di pagamento).))
 
 ((
+
+1.
+                        
+                            
+                                Le regioni possono disporre, su richiesta scritta del creditore e con spese a suo carico, che i mandati di pagamento siano estinti mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accreditamento in conto corrente postale intestato al creditore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    commutazione in vaglia cambiario o in assegno circolare, non trasferibile, all'ordine del creditore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accreditamento in conto corrente bancario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    altre forme di pagamento previste dai sistemi bancari e postali.
 
 2. Le dichiarazioni di accreditamento o di commutazione, che sostituiscono la quietanza del creditore, devono risultare da annotazione sul mandato di pagamento, o su evidenze informatiche, recante gli estremi relativi alle operazioni))
 
@@ -881,7 +2621,43 @@ Contestualmente al rendiconto, la regione approva il rendiconto consolidato, com
 
 Al rendiconto della gestione sono allegati i documenti previsti dall'art. 11, comma 4, l'elenco delle delibere di prelievo dal fondo di riserva per spese impreviste di cui all'art. 48, comma 1, lettera b), con l'indicazione dei motivi per i quali si e' proceduto ai prelevamentie il prospetto relativo alla gestione del perimetro sanitario di cui all'art. 20, comma 1.
 
+5.
+                        
+                            
+                                Il conto del bilancio dimostra i risultati finali della gestione rispetto alle autorizzazioni contenute nel primo esercizio considerato nel bilancio di previsione. Per ciascuna tipologia di entrata e per ciascun programma della spesa, il conto del bilancio comprende, distintamente per residui e competenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'entrata le somme accertate, con distinzione della parte riscossa e di quella ancora da riscuotere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la spesa le somme impegnate, con distinzione della parte pagata, di quella ancora da pagare e di quella impegnata con imputazione agli esercizi successivi, che costituisce il fondo pluriennale vincolato.
+
 Il conto economico evidenzia i componenti positivi e negativi della gestione di competenza economica dell'esercizio considerato, rilevati dalla contabilita' economico-patrimoniale, nel rispetto del principio contabile generale n. 17 di cui all'allegato n. 1 e dei principi applicati della contabilita' economico-patrimoniale di cui all'allegato n. 4/3.
+
+7.
+                        
+                            
+                                Lo stato patrimoniale rappresenta la consistenza del patrimonio al termine dell'esercizio. Il patrimonio delle regioni e' costituito dal complesso dei beni e dei rapporti giuridici, attivi e passivi, di pertinenza della regione, ed attraverso la cui rappresentazione contabile e' determinata la consistenza netta della dotazione patrimoniale comprensiva del risultato economico dell'esercizio. Le regioni includono nel conto del patrimonio anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i beni del demanio, con specifica distinzione, ferme restando le caratteristiche proprie, in relazione alle disposizioni del codice civile. Le regioni valutano i beni del demanio e del patrimonio, comprensivi delle relative manutenzioni straordinarie, secondo le modalita' previste dal principio applicato della contabilita' economico-patrimoniale di cui all'allegato n. 4/3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i crediti inesigibili, stralciati dal conto del bilancio, sino al compimento dei termini di prescrizione. Al rendiconto della gestione e' allegato l'elenco di tali crediti distintamente rispetto a quello dei residui attivi.
 
 In attuazione del principio contabile generale della competenza finanziaria allegato al presente decreto, le regioni, prima di inserire i residui attivi e passivi nel rendiconto della gestione, provvedono al riaccertamento degli stessi, consistente nella revisione delle ragioni del mantenimento in tutto o in parte dei residui.
 
@@ -951,6 +2727,24 @@ Gli enti strumentali, le aziende e le societa' considerate nel bilancio consolid
 
 Le regioni adottano lo schema di bilancio consolidato di cui all'allegato n. 11 del presente decreto.
 
+4.
+                        
+                            
+                                Al bilancio consolidato del gruppo della regione sono allegati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la relazione sulla gestione che comprende la nota integrativa, 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione del collegio dei revisori dei conti.
+
 Il bilancio consolidato e' approvato dal Consiglio regionale entro il ((31 ottobre)) dell'anno successivo secondo le modalita' previste dalla disciplina contabile della Regione.
 
 ((I bilanci consolidati delle regioni sono trasmessi alla banca dati unitaria delle amministrazioni pubbliche entro sette giorni dalla loro approvazione)).
@@ -1019,6 +2813,45 @@ Il registro dei verbali e' custodito presso la sede della regione. Copia del ver
 
 ## Art. 73. — (Riconoscimento di legittimita' di debiti fuori bilancio delle Regioni)
 
+1.
+                        
+                            
+                                Il Consiglio regionale riconosce con legge, la legittimita' dei debiti fuori bilancio derivanti da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sentenze esecutive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copertura dei disavanzi di enti, societa' ed organismi controllati, o, comunque, dipendenti dalla Regione, purche' il disavanzo derivi da fatti di gestione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricapitalizzazione, nei limiti e nelle forme previste dal codice civile o da norme speciali, delle societa' di cui alla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedure espropriative o di occupazione d'urgenza per opere di pubblica utilita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    acquisizione di beni e servizi in assenza del preventivo impegno di spesa.
+
 Per il pagamento la Regione puo' provvedere anche mediante un piano di rateizzazione, della durata di tre esercizi finanziari compreso quello in corso, convenuto con i creditori.
 
 Qualora il bilancio della Regione non rechi le disponibilita' finanziarie sufficienti per effettuare le spese conseguenti al riconoscimento dei debiti fuori bilancio, la Regione e' autorizzata a deliberare aumenti, sino al limite massimo consentito dalla vigente legislazione, dei tributi, delle addizionali, delle aliquote ovvero delle maggiorazioni di aliquote ad essa attribuite, nonche' ad elevare ulteriormente la misura dell'imposta regionale di cui all' art. 17, comma 1, del decreto legislativo 21 dicembre 1990, n. 398, fino a un massimo di cinque centesimi per litro, ulteriori rispetto alla misura massima consentita.
@@ -1029,9 +2862,525 @@ Al riconoscimento della legittimita' dei debiti fuori bilancio di cui al comma 1
 
 ## Art. 74. — (Adeguamento dell'ordinamento contabile degli enti locali)
 
+1.
+                        
+                            
+                                Nel decreto legislativo 18 agosto 2000, n. 267, e successive modificazioni, recante il testo unico delle leggi sull'ordinamento degli enti locali, sono apportate le seguenti modificazioni: 
+ 1) all'art. 114: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1 e' aggiunto, in fine, il seguente periodo: 
+ «L'azienda speciale conforma la propria gestione ai principi contabili generali contenuti nell'allegato n. 1 al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, ed ai principi del codice civile.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2 e' aggiunto, in fine, il seguente periodo: 
+ «L'istituzione conforma la propria gestione ai principi contabili generali e applicati allegati al decreto legislativo 23 giugno 2011, n. 118 e successive modificazioni e integrazioni ed adotta il medesimo sistema contabile dell'ente locale che lo ha istituito, nel rispetto di quanto previsto dall'art. 151, comma 2.
+L'ente locale che si avvale della facolta' di non tenere la contabilita' economico patrimoniale di cui all'art. 232, comma 3, puo' imporre alle proprie istituzioni l'adozione della contabilita' economico-patrimoniale.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4, la parola: «informano» e' sostituita dalla seguente: «conformano», e le parole: «del pareggio di bilancio da perseguire attraverso l'equilibrio dei costi e dei ricavi, compresi i trasferimenti.» sono sostituite dalle seguenti: «dell'equilibrio economico, considerando anche i proventi derivanti dai trasferimenti, fermo restando, per l'istituzione, l'obbligo del pareggio finanziario.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 8, dopo le parole: « i seguenti atti» sono inserite le seguenti: « dell'azienda»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le lettere b), c) e d) del comma 8 sono sostituite dalle seguenti: 
+ «b) il budget economico almeno triennale; 
+ c) il bilancio di esercizio; 
+ d) il piano degli indicatori di bilancio.» 
+ ((...))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        (( f) )) dopo il comma 8 e' aggiunto, in fine, il seguente: 
+ «8-bis. Ai fini di cui al comma 6, sono fondamentali i seguenti atti dell'istituzione da sottoporre all'approvazione del consiglio comunale: 
+ a) il piano-programma, di durata almeno triennale, che costituisce il documento di programmazione dell'istituzione; 
+ b) il bilancio di previsione almeno triennale, predisposto secondo lo schema di cui all'allegato n. 9 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, completo dei relativi allegati; 
+ c) le variazioni di bilancio; 
+ d) il rendiconto della gestione predisposto secondo lo schema di cui all'allegato n. 10 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, completo dei relativi allegati.»; 
+ 2) alla lettera d) del comma 2 dell'art. 147 dopo le parole: «la ((redazione)) del bilancio consolidato» sono inserite le seguenti: «nel rispetto di quanto previsto dal decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni»; 
+ 3) al comma 4 dell'art. 147-quater, dopo le parole: «secondo la competenza economica» sono inserite le seguenti: «, predisposto secondo le modalita' previste dal decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni»; 
+ 4) all'art. 150: 
+ a) al comma 1, dopo le parole: «dalle disposizioni di principio del presente testo unico» sono aggiuntele seguenti: «e del decreto legislativo 23 giugno 2011, n. 118.»; 
+ b) il comma 3 e' abrogato; 
+ 5) l'art. 151 e' sostituito dal seguente: 
+ «Art. 151. (Principi generali). - 1. Gli enti locali ispirano la propria gestione al principio della programmazione. A tal fine presentano il Documento unico di programmazione entro il 31 luglio di ogni anno e il bilancio di previsione finanziario entro il 31 dicembre, riferiti ad un orizzonte temporale almeno triennale. Le previsioni del bilancio sono elaborate sulla base delle linee strategiche contenute nel documento unico di programmazione, osservando i principi contabili generali ed applicati allegati al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. I termini possono essere differiti con decreto del Ministro dell'interno, d'intesa con il Ministro dell'economia e delle finanze, sentita la Conferenza Stato-citta' ed autonomie locali, in presenza di motivate esigenze. 
+ 2. Il Documento unico di programmazione e' composto dalla Sezione strategica, della durata pari a quelle del mandato amministrativo, e dalla Sezione operativa di durata pari a quello del bilancio di previsione finanziario. 
+ 3. Il bilancio di previsione finanziario comprende le previsioni di competenza e di cassa del primo esercizio del periodo considerato e le previsioni di competenza degli esercizi successivi. Le previsioni riguardanti il primo esercizio costituiscono il bilancio di previsione finanziario annuale. 
+ 4. Il sistema contabile degli enti locali garantisce la rilevazione unitaria dei fatti gestionali sotto il profilo finanziario, economico e patrimoniale, attraverso l'adozione: 
+ a) della contabilita' finanziaria, che ha natura autorizzatoria e consente la rendicontazione della gestione finanziaria; 
+ b) della contabilita' economico-patrimoniale ai fini conoscitivi, per la rilevazione degli effetti economici e patrimoniali dei fatti gestionali e per consentire la rendicontazione economico e patrimoniale. 
+ 5. I risultati della gestione finanziaria, economico e patrimoniale sono dimostrati nel rendiconto comprendente il conto del bilancio, il conto economico e lo stato patrimoniale. 
+ 6. Al rendiconto e' allegata una relazione della Giunta sulla gestione che esprime le valutazioni di efficacia dell'azione condotta sulla base dei risultati conseguiti, e gli altri documenti previsti dall'art. 11, comma 4, del decreto legislativo 23 giugno 2011, n. 118. 
+ 7. Il rendiconto e' deliberato dall'organo consiliare entro il 30 aprile dell'anno successivo. 
+ 8. Entro il 31 luglio l'ente approva il bilancio consolidato con i bilanci dei propri organismi e enti strumentali e delle societa' controllate e partecipate, secondo il principio applicato n. 4/4 di cui al decreto legislativo 23 giugno 2011, n. 118.»; 
+ 6) all'art. 152: 
+ a) al comma 1, dopo le parole: «i principi contabili stabiliti dal presente testo unico» sono inserite le seguenti: «e dal decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni»; 
+ b) le lettere a), b), c), d), ed e), del comma 4 sono sostituite dalle seguenti: 
+ «a) art. 177; 
+ b) art. 185, comma 3; 
+ c) articoli 197 e 198; 
+ d) art. 205; 
+ e) articoli 213 e219»; 
+ 7) al comma 4 dell'art. 153, le parole: ((«annuale o pluriennale»)) sono sostituite dalle seguenti: «di previsione», dopo le parole: «dello stato di accertamento delle entrate e di impegno delle spese» sono inserite le seguenti:«, alla regolare tenuta della contabilita' economico-patrimoniale e» e dopo la parola: «finanziari» e' inserita la seguente: «e»; 
+ 8) all'art. 154: 
+ a) i commi da 1 a 4 sono sostituiti dai seguenti 
+ «1. E' istituito, senza nuovi o maggiori oneri per la finanza pubblica, presso il Ministero dell'interno l'Osservatorio sulla finanza e la contabilita' degli enti locali. 
+ 2. L'Osservatorio ha il compito di promuovere, in raccordo con la Commissione per l'armonizzazione contabile degli enti territoriali di cui all'art. 3-bis del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, l'adeguamento e la corretta applicazione dei principi contabili da parte degli enti locali e di monitorare la situazione della finanza pubblica locale attraverso studi ed analisi, anche in relazione agli effetti prodotti dall'applicazione della procedura di riequilibrio finanziario pluriennale di cui all'art.
+243-bis. Nell'ambito dei suoi compiti, l'Osservatorio esprime pareri, indirizzi ed orientamenti. 
+ 3. Con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, sentita la Conferenza Stato-citta', sono disciplinate le modalita' di organizzazione e di funzionamento.»; 
+ 4. La partecipazione ai lavori dell'Osservatorio e' a titolo gratuito e non da' diritto ad alcun compenso o rimborso spese.»; 
+ b) il comma 7 e' abrogato; 
+ 9) all'art. 157: 
+ a) al comma1, le parole: «25, 29 e 30 della legge 5 agosto 1978, n. 468, e successive modificazioni ed integrazioni» sono sostituite dalle seguenti: «13, 14 e 15 della legge 31 dicembre 2009, n. 196, e successive modificazioni, e di cui al titolo I del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ b) dopo il comma 1 sono aggiunti i seguenti: 
+ «1-bis. Per le stesse finalita' di cui al comma 1 gli enti locali garantiscono la rilevazione unitaria dei fatti gestionali attraverso l'adozione di un piano integrato dei conti, articolato in piano finanziario, economico e patrimoniale secondo lo schema di cui all'allegato n. 6 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. Il livello minimo di articolazione del piano dei conti finanziario, ai fini del raccordo con i capitoli e gli articoli, ove previsti, del piano esecutivo di gestione e' costituito almeno dal quarto livello. 
+ 1-ter. Al fine di garantire la tracciabilita' di tutte le operazioni gestionali e la movimentazione delle voci del piano dei conti integrato, ad ogni transazione e' attribuita una codifica da applicare secondo le modalita' previste dagli articoli 5, 6 e 7 del decreto legislativo 23 giugno 2011, n. 118, e successive integrazioni. 
+ 1-quater. Le previsioni di competenza e di cassa, aggregate secondo l'articolazione del piano dei conti di quarto livello, ed i risultati della gestione aggregati secondo l'articolazione del piano dei conti, sono trasmessi alla banca dati unitaria delle amministrazioni pubbliche di cui all'art. 13 della legge 31 dicembre 2009, n. 196, sulla base di schemi, tempi e modalita' definiti con decreto del Ministro dell'economia e delle finanze.»; 
+ 10) l'art. 160 e' abrogato; 
+ 11) all'art. 162: 
+ a) al comma 1, le parole: «redatto in termini di competenza, per l'anno successivo, osservando i principi di unita', annualita', universalita' ed integrita', veridicita', pareggio finanziario e pubblicita'. La situazione corrente, come definita al comma 6 del presente articolo, non puo' presentare un disavanzo» sono sostituite dalle seguenti:«riferito ad almeno un triennio, comprendente le previsioni di competenza e di cassa del primo esercizio del periodo considerato e le previsioni di competenza degli esercizi successivi, osservando i principi contabili generali e applicati allegati al decreto legislativo 23 giugno 2011, n. 118 ((, e successive modificazioni»;)) 
+ b) il comma 6 e' sostituito dal seguente: 
+ «6.Il bilancio di previsione e' deliberato in pareggio finanziario complessivo per la competenza, comprensivo dell'utilizzo dell'avanzo di amministrazione e del recupero del disavanzo di amministrazione e garantendo un fondo di cassa finale non negativo.
+Inoltre, le previsioni di competenza relative alle spese correnti sommate alle previsioni di competenza relative ai trasferimenti in c/capitale,al saldo negativo delle partite finanziarie e alle quote di capitale delle rate di ammortamento dei mutui e degli altri prestiti, con l'esclusione dei rimborsi anticipati, non possono essere complessivamente superiori alle previsioni di competenza dei primi tre titoli dell'entrata, ai contribuiti destinati al rimborso dei prestiti e all'utilizzo dell'avanzo di competenza di parte corrente e non possono avere altra forma di finanziamento, salvo le eccezioni tassativamente indicate nel principio applicato alla contabilita' finanziaria necessarie a garantire elementi di flessibilita' degli equilibri di bilancio ai fini del rispetto del principio dell'integrita'.»; 
+ 12) l'art. 163 e' sostituito dal seguente: 
+ «Art. 163. (Esercizio provvisorio e gestione provvisoria). - 1.
+Se il bilancio di previsione non e' approvato dal Consiglio entro il 31 dicembre dell'anno precedente, la gestione finanziaria dell'ente si svolge nel rispetto dei principi applicati della contabilita' finanziaria riguardanti l'esercizio provvisorio o la gestione provvisoria.Nel corso dell'esercizio provvisorio o della gestione provvisoria, gli enti gestiscono gli stanziamenti di competenza previsti nell'ultimo bilancio approvato per l'esercizio cui si riferisce la gestione o l'esercizio provvisorio, ed effettuano i pagamenti entro i limiti determinati dalla somma dei residui al 31 dicembre dell'anno precedente e degli stanziamenti di competenza al netto del fondo pluriennale vincolato. 
+ 2. Nel caso in cui il bilancio di esercizio non sia approvato entro il 31 dicembre e non sia stato autorizzato l'esercizio provvisorio, o il bilancio non sia stato approvato entro i termini previsti ai sensi del comma 3, e' consentita esclusivamente una gestione provvisoria nei limiti dei corrispondenti stanziamenti di spesa dell'ultimo bilancio approvato per l'esercizio cui si riferisce la gestione provvisoria. Nel corso della gestione provvisoria l'ente puo' assumere solo obbligazioni derivanti da provvedimenti giurisdizionali esecutivi, quelle tassativamente regolate dalla legge e quelle necessarie ad evitare che siano arrecati danni patrimoniali certi e gravi all'ente. Nel corso della gestione provvisoria l'ente puo' disporre pagamenti solo per l'assolvimento delle obbligazioni gia' assunte, delle obbligazioni derivanti da provvedimenti giurisdizionali esecutivi e di obblighi speciali tassativamente regolati dalla legge, per le spese di personale, di residui passivi, di rate di mutuo, di canoni, imposte e tasse, ed, in particolare, per le sole operazioni necessarie ad evitare che siano arrecati danni patrimoniali certi e gravi all'ente. 
+ 3. L'esercizio provvisorio e' autorizzato con legge o con decreto del Ministro dell'interno che, ai sensi di quanto previsto dall'art. 151, primo comma, differisce il termine di approvazione del bilancio, d'intesa con il Ministro dell'economia e delle finanze, sentita la Conferenza Stato-citta' ed autonomia locale, in presenza di motivate esigenze. Nel corso dell'esercizio provvisorio non e' consentito il ricorso all'indebitamento e gli enti possono impegnare solo spese correnti, le eventuali spese correlate riguardanti le partite di giro, lavori pubblici di somma urgenza o altri interventi di somma urgenza. Nel corso dell'esercizio provvisorio e' consentito il ricorso all'anticipazione di tesoreria di cui all'art. 222. 
+ 4. All'avvio dell'esercizio provvisorio o della gestione provvisoria l'ente trasmette al tesoriere l'elenco dei residui presunti alla data del 1° gennaio e gli stanziamenti di competenza riguardanti l'anno a cui si riferisce l'esercizio provvisorio o la gestione provvisoria previsti nell'ultimo bilancio di previsione approvato, aggiornati alle variazioni deliberate nel corso dell'esercizio precedente, indicanti - per ciascuna missione, programma e titolo - gli impegni gia' assunti e l'importo del fondo pluriennale vincolato. 
+ 5. Nel corso dell'esercizio provvisorio, gli enti possono impegnare mensilmente,unitamente alla quota dei dodicesimi non utilizzata nei mesi precedenti, per ciascun programma, le spese di cui al comma 3, per importi non superiori ad un dodicesimo degli stanziamenti del secondo esercizio del bilancio di previsione deliberato l'anno precedente, ridotti delle somme gia' impegnate negli esercizi precedenti e dell'importo accantonato al fondo pluriennale vincolato, con l'esclusione delle spese: 
+ a) tassativamente regolate dalla legge; 
+ b) non suscettibili di pagamento frazionato in dodicesimi; 
+ c) a carattere continuativo necessarie per garantire il mantenimento del livello qualitativo e quantitativo dei servizi esistenti, impegnate a seguito della scadenza dei relativi contratti. 
+ 6. I pagamenti riguardanti spese escluse dal limite dei dodicesimi di cui al comma 5 sono individuati nel mandato attraverso l'indicatore di cui all'art. 185, comma 2, lettera i-bis). 
+ 7. Nel corso dell'esercizio provvisorio, sono consentite le variazioni di bilancio previste dall'art. 187, comma 3-quinquies, quelle riguardanti le variazioni del fondo pluriennale vincolato, quelle necessarie alla reimputazione agli esercizi in cui sono esigibili, di obbligazioni riguardanti entrate vincolate gia' assunte, e delle spese correlate, nei casi in cui anche la spesa e' oggetto di reimputazione l'eventuale aggiornamento delle spese gia' impegnate. Tali variazioni rilevano solo ai fini della gestione dei dodicesimi.»; 
+ 13) l'art. 164 e' sostituito dal seguente: 
+ «Art. 164. - (Caratteristiche del bilancio) - 1. L'unita' di voto del bilancio per l'entrata e' la tipologia e per la spesa e' il programma, articolato in titoli. 
+ 2. Il bilancio di previsione finanziario ha carattere autorizzatorio, costituendo limite, per ciascuno degli esercizi considerati: 
+ a) agli accertamenti e agli incassi riguardanti le accensioni di prestiti; 
+ b) agli impegni e ai pagamenti di spesa. Non comportano limiti alla gestione le previsioni riguardanti i rimborsi delle anticipazioni di tesoreria e le partite di giro.»; 
+ 14) all'art. 165: 
+ a) al comma 1, la parola: «annuale» e' sostituita dalla seguente: «finanziario », dopo le parole: «all'entrata ed alla spesa» sono inserite le seguenti: «ed e' redatto secondo lo schema previsto dall'allegato n. 9 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ b) i commi da 2 a 14 sono sostituiti dai seguenti: 
+ «2. Le previsioni di entrata del bilancio di previsione sono classificate, secondo le modalita' indicate all'art. 15 del decreto legislativo 23 giugno 2011, n. 118, in: 
+ a) titoli, definiti secondo la fonte di provenienza delle entrate; 
+ b) tipologie, definite in base alla natura delle entrate, nell'ambito di ciascuna fonte di provenienza. 
+ 3. Ai fini della gestione, nel Piano esecutivo di gestione, le tipologie sono ripartite in categorie, in capitoli ed eventualmente in articoli. Le categorie di entrata degli enti locali sono individuate nell'elenco di cui all'allegato n. 13/2 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.
+Nell'ambito delle categorie e' data separata evidenza delle eventuali quote di entrata non ricorrente. La Giunta, contestualmente alla proposta di bilancio, trasmette, a fini conoscitivi, la proposta di articolazione delle tipologie in categorie. 
+ 4. Le previsioni di spesa del bilancio di previsione sono classificate secondo le modalita' indicate all'art. 14 del decreto legislativo 23 giugno 2011, n. 118 in: 
+ a) missioni, che rappresentano le funzioni principali e gli obiettivi strategici perseguiti dagli enti locali, utilizzando risorse finanziarie, umane e strumentali ad esse destinate; 
+ b) programmi, che rappresentano gli aggregati omogenei di attivita' volte a perseguire gli obiettivi definiti nell'ambito delle missioni. I programmi sono ripartiti in titoli e sono raccordati alla relativa codificazione COFOG di secondo livello (Gruppi), secondo le corrispondenze individuate nel glossario, di cui al comma 3-ter dell'art. 14, che costituisce parte integrante dell'allegato n. 14. 
+ 5. Ai fini della gestione, nel Piano esecutivo di gestione, i programmi sono ripartiti in titoli, macroaggregati, capitoli ed eventualmente in articoli. I macroaggregati di spesa degli enti locali sono individuati nell'elenco di cui all'allegato n. 14 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. La Giunta, contestualmente alla proposta di bilancio trasmette, a fini conoscitivi, la proposta di articolazione dei programmi in macroaggregati. ((...)) 
+ 6. Il bilancio di previsione finanziario indica, per ciascuna unita' di voto: 
+ a) l'ammontare presunto dei residui attivi o passivi alla chiusura dell'esercizio precedente a quello cui il bilancio si riferisce; 
+ b) l'ammontare delle previsioni di competenza e di cassa definitive dell'anno precedente a quello cui si riferisce il bilancio; 
+ c) l'ammontare degli accertamenti e degli impegni che si prevede di imputare in ciascuno degli esercizi cui il bilancio si riferisce, nel rispetto del principio della competenza finanziaria; 
+ d) l'ammontare delle entrate che si prevede di riscuotere o delle spese di cui si autorizza il pagamento nel primo esercizio considerato nel bilancio, senza distinzioni fra riscossioni e pagamenti in conto competenza e in conto residui. 
+ 7. In bilancio, prima di tutte le entrate e le spese, sono iscritti: 
+ a) in entrata gli importi relativi al fondo pluriennale vincolato di parte corrente e al fondo pluriennale vincolato in c/capitale; 
+ b) in entrata del primo esercizio gli importi relativi all'utilizzo dell'avanzo di amministrazione presunto, nei casi individuati dall'art. 187, commi 3 e 3-bis, con l'indicazione della quota vincolata del risultato di amministrazione utilizzata anticipatamente; 
+ c) in uscita l'importo del disavanzo di amministrazione presunto al 31 dicembre dell'esercizio precedente cui il bilancio si riferisce. Il disavanzo di amministrazione presunto puo' essere iscritto nella spesa degli esercizi successivi secondo le modalita' previste dall'art. 188; 
+ d) in entrata del primo esercizio il fondo di cassa presunto dell'esercizio precedente. 
+ 8. In bilancio, gli stanziamenti di competenza relativi alla spesa di cui al comma 6, lettere b) e c), individuano: 
+ a) la quota che e' gia' stata impegnata negli esercizi precedenti con imputazione all'esercizio cui si riferisce il bilancio; 
+ b) la quota di competenza costituita dal fondo pluriennale vincolato, destinata alla copertura degli impegni che sono stati assunti negli esercizi precedenti con imputazione agli esercizi successivi e degli impegni che si prevede di assumere nell'esercizio con imputazione agli esercizi successivi. Con riferimento a tale quota non e' possibile impegnare e pagare con imputazione all'esercizio cui lo stanziamento si riferisce. Agli stanziamenti di spesa riguardanti il fondo pluriennale vincolato e' attribuito il codice della missione e del programma di spesa cui il fondo si riferisce e il codice del piano dei conti relativo al fondo pluriennale vincolato. 
+ 9. I bilanci di previsione degli enti locali recepiscono, per quanto non contrasta con la normativa del presente testo unico, le norme recate dalle leggi delle rispettive regioni di appartenenza riguardanti le entrate e le spese relative a funzioni delegate, al fine di consentire la possibilita' del controllo regionale sulla destinazione dei fondi assegnati agli enti locali e l'omogeneita' delle classificazioni di dette spese nei bilanci di previsione degli enti rispetto a quelle contenute nei rispettivi bilanci di previsione regionali. Le entrate e le spese per le funzioni delegate dalle regioni non possono essere collocate tra i servizi per conto di terzi nei bilanci di previsione degli enti locali. 
+ 10. Il bilancio di previsione si conclude con piu' quadri riepilogativi, secondo gli schemi previsti dall'allegato n. 9 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. 
+ 11. Formano oggetto di specifica approvazione del consiglio le previsioni di cui al comma 6, lettere c) e d), per ogni unita' di voto, e le previsioni del comma 7.»; 
+ 15) all'art. 166: 
+ a) il comma 1 e' sostituito dal seguente «1. Nella missione "Fondi e Accantonamenti", all'interno del programma "Fondo di riserva", gli enti locali iscrivono un fondo di riserva non inferiore allo 0,30 e non superiore al 2 per cento del totale delle spese correnti di competenza inizialmente previste in bilancio. »; 
+ b) dopo il comma 2-ter e' aggiunto il seguente: 
+ «2-quater. Nella missione "Fondi e Accantonamenti", all'interno del programma "Fondo di riserva", gli enti locali iscrivono un fondo di riserva di cassa non inferiore allo 0,2 per cento delle spese finali, utilizzato con deliberazioni dell'organo esecutivo.»; 
+ 16) l'art. 167 e' sostituito dal seguente: 
+ «Art. 167. (Fondo crediti di dubbia esigibilita' e altri fondi per spese potenziali). - 1. Nella missione "Fondi e Accantonamenti", all'interno del programma "Fondo crediti di dubbia esigibilita'" e' stanziato l'accantonamento al fondo crediti di dubbia esigibilita', il cui ammontare e' determinato in considerazione dell'importo degli stanziamenti di entrata di dubbia e difficile esazione, secondo le modalita' indicate nel principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2 al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. 
+ 2. Una quota del risultato di amministrazione e' accantonata per il fondo crediti di dubbia esigibilita', il cui ammontare e' determinato, secondo le modalita' indicate nel principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2 al decreto legislativo 23 giugno 2011, n. 118 e successive modificazioni e integrazioni, in considerazione dell'ammontare dei crediti di dubbia e difficile esazione, e non puo' essere destinata ad altro utilizzo. 
+ 3. E' data facolta' agli enti locali di stanziare nella missione "Fondi e accantonamenti", all'interno del programma "Altri fondi", ulteriori accantonamenti riguardanti passivita' potenziali, sui quali non e' possibile impegnare e pagare. A fine esercizio, le relative economie di bilancio confluiscono nella quota accantonata del risultato di amministrazione, utilizzabili ai sensi di quanto previsto dall'art. 187, comma 3. Quando si accerta che la spesa potenziale non puo' piu' verificarsi, la corrispondente quota del risultato di amministrazione e' liberata dal vincolo.»; 
+ 17) all'art. 168: 
+ a) alla rubrica, sono aggiunte le seguenti parole: « e le partite di giro»; 
+ b) al comma 1, dopo le parole: «servizi per conto di terzi» sono inserite le seguenti: «e le partite di giro», le parole: «ivi compresi i fondi economali, e» sono soppresse, le parole: «sono ordinati esclusivamente in capitoli, secondo la partizione contenuta nel regolamento di cui all'art. 160.» sono sostituite dalle seguenti: « comprendono le transazioni poste in essere per conto di altri soggetti, in assenza di qualsiasi discrezionalita' come individuate dal principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ ((c) )) il comma 2 e' sostituito dal seguente: 
+ «2. Le partite di giro riguardano le operazioni effettuate come sostituto di imposta, per la gestione dei fondi economali e le altre operazioni previste nel principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ ((d) )) dopo il comma 2 sono inseriti i seguenti: 
+ «2-bis. Le previsioni e gli accertamenti d'entrata riguardanti i servizi per conto di terzi e le partite di giro conservano l'equivalenza con le corrispondenti previsioni e impegni di spesa, e viceversa. A tal fine, le obbligazioni giuridicamente perfezionate attive e passive che danno luogo ad entrate e spese riguardanti tali operazioni sono registrate e imputate all'esercizio in cui l'obbligazione e' perfezionata, in deroga al principio contabile generale n. 16. 
+ 2-ter. Non comportando discrezionalita' e autonomia decisionale, gli stanziamenti riguardanti le operazioni per conto di terzi e le partite di giro non hanno natura autorizzatoria.»; 
+ 18) l'art. 169 e' sostituito dal seguente: 
+ «Art. 169. (Piano esecutivo di gestione). - 1. La giunta delibera il piano esecutivo di gestione (PEG) entro venti giorni dall'approvazione del bilancio di previsione, in termini di competenza . Con riferimento al primo esercizio il PEG e' redatto anche in termini di cassa. Il PEG e' riferito ai medesimi esercizi considerati nel bilancio, individua gli obiettivi della gestione ed affida gli stessi, unitamente alle dotazioni necessarie, ai responsabili dei servizi. 
+ 2. Nel PEG le entrate sono articolate in titoli, tipologie, categorie, capitoli, ed eventualmente in articoli, secondo il rispettivo oggetto. Le spese sono articolate in missioni, programmi, titoli, macroaggregati, capitoli ed eventualmente in articoli. I capitoli costituiscono le unita' elementari ai fini della gestione e della rendicontazione, e sono raccordati al quarto livello del piano dei conti finanziario di cui all'art. 157. 
+ 3. L'applicazione dei commi 1 e 2 del presente articolo e' facoltativa per gli enti locali con popolazione inferiore a 5.000 abitanti, fermo restando l'obbligo di rilevare unitariamente i fatti gestionali secondo la struttura del piano dei conti di cui all'art. 157, comma 1-bis. 
+ 3-bis. Il PEG e' deliberato in coerenza con il bilancio di previsione e con il documento unico di programmazione. Al PEG e' allegato il prospetto concernente la ripartizione delle tipologie in categorie e dei programmi in macroaggregati, secondo lo schema di cui all'allegato n. 8 al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. Il piano dettagliato degli obiettivi di cui all'art. 108, comma 1, del presente testo unico e il piano della performance di cui all'art. 10 del decreto legislativo 27 ottobre 2009, n. 150, sono unificati organicamente nel PEG .»; 
+ 19) l'art. 170 e' sostituito dal seguente: 
+ «Art. 170. (Documento unico di programmazione). - 1. Entro il 31 luglio di ciascun anno la Giunta presenta al Consiglio il Documento unico di programmazione per le conseguenti deliberazioni. Entro il 15 novembre di ciascun anno, con lo schema di delibera del bilancio di previsione finanziario, la Giunta presenta al Consiglio la nota di aggiornamento del Documento unico di programmazione.Con riferimento al periodo di programmazione decorrente dall'esercizio 2015, gli enti locali non sono tenuti alla predisposizione del documento unico di programmazione e allegano al bilancio annuale di previsione una relazione previsionale e programmatica che copra un periodo pari a quello del bilancio pluriennale, secondo le modalita' previste dall'ordinamento contabile vigente nell'esercizio 2014. Il primo documento unico di programmazione e' adottato con riferimento agli esercizi 2016 e successivi. Gli enti che hanno partecipato alla sperimentazione adottano la disciplina prevista dal presente articolo a decorrere dal 1° gennaio 2015. 
+ 2. Il Documento unico di programmazione ha carattere generale e costituisce la guida strategica ed operativa dell'ente. 
+ 3. Il Documento unico di programmazione si compone di due sezioni: la Sezione strategica e la Sezione operativa. La prima ha un orizzonte temporale di riferimento pari a quello del mandato amministrativo, la seconda pari a quello del bilancio di previsione. 
+ 4. Il documento unico di programmazione e' predisposto nel rispetto di quanto previsto dal principio applicato della programmazione di cui all'allegato n. 4/1 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. 
+ 5. Il Documento unico di programmazione costituisce atto presupposto indispensabile per l'approvazione del bilancio di previsione. 
+ 6. Gli enti locali con popolazione fino a 5.000 abitanti predispongono il Documento unico di programmazione semplificato previsto dall'allegato n. 4/1 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. 
+ 7. Nel regolamento di contabilita' sono previsti i casi di inammissibilita' e di improcedibilita' per le deliberazioni del Consiglio e della Giunta che non sono coerenti con le previsioni del Documento unico di programmazione.»; 
+ 20) l'art. 171 e' abrogato; 
+ 21) l'art. 172 e' sostituito dal seguente: 
+ «Art. 172. (Altri allegati al bilancio di previsione). - 1. Al bilancio di previsione sono allegati i documenti previsti dall'art. 11, comma 3, del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, e i seguenti documenti: 
+ a) l'elenco degli indirizzi internet di pubblicazione del rendiconto della gestione, del bilancio consolidato deliberati e relativi al penultimo esercizio antecedente quello cui si riferisce il bilancio di previsione, dei rendiconti e dei bilanci consolidati delle unioni di comuni e dei soggetti considerati nel gruppo "amministrazione pubblica" di cui al principio applicato del bilancio consolidato allegato al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, relativi al penultimo esercizio antecedente quello cui il bilancio si riferisce. Tali documenti contabili sono allegati al bilancio di previsione qualora non integralmente pubblicati nei siti internet indicati nell'elenco; 
+ b) la deliberazione, da adottarsi annualmente prima dell'approvazione del bilancio, con la quale i comuni verificano la quantita' e qualita' di aree e fabbricati da destinarsi alla residenza, alle attivita' produttive e terziarie - ai sensi delle leggi 18 aprile 1962, n. 167, 22 ottobre 1971, n. 865, e 5 agosto 1978, n. 457, che potranno essere ceduti in proprieta' od in diritto di superficie; con la stessa deliberazione i comuni stabiliscono il prezzo di cessione per ciascun tipo di area o di fabbricato; 
+ c) le deliberazioni con le quali sono determinati, per l'esercizio successivo, le tariffe, le aliquote d'imposta e le eventuali maggiori detrazioni, le variazioni dei limiti di reddito per i tributi locali e per i servizi locali, nonche', per i servizi a domanda individuale, i tassi di copertura in percentuale del costo di gestione dei servizi stessi; 
+ d) la tabella relativa ai parametri di riscontro della situazione di deficitarieta' strutturale prevista dalle disposizioni vigenti in materia; 
+ e) il prospetto della concordanza tra bilancio di previsione e obiettivo programmatico del patto di stabilita' interno.»; 
+ 22) all'art. 174: 
+ a) al comma 1, la parola: «annuale» e' abrogata, le parole: «la relazione previsionale e programmatica e lo schema di bilancio pluriennale» sono sostituite dalle seguenti: «finanziario e il Documento unico di programmazione», dopo le parole: «organo di revisione» sono aggiunte le seguenti: «entro il 15 novembre di ogni anno»; 
+ b) al comma 2, dopo le parole: «dell'organo consiliare» sono inserite le seguenti: «e dalla Giunta» le parole: «predisposti dall'organo esecutivo» sono soppresse. Dopo il primo periodo, e' aggiunto il seguente: «A seguito di variazioni del quadro normativo di riferimento sopravvenute, l'organo esecutivo presenta all'organo consiliare emendamenti allo schema di bilancio e alla nota di aggiornamento al Documento unico di programmazione in corso di approvazione.»; 
+ c) al comma 3, la parola: «annuale» e' abrogata, dopo le parole : «di previsione» e' inserita la seguente: «finanziario». Il secondo periodo e' soppresso; 
+ d) il comma 4 e' sostituito dal seguente: 
+ «4. Nel sito internet dell'ente locale sono pubblicati il bilancio di previsione, il piano esecutivo di gestione, le variazioni al bilancio di previsione, il bilancio di previsione assestato ed il piano esecutivo di gestione assestato.»; 
+ 23) all'art. 175: 
+ a) al comma 1, dopo le parole: «il bilancio di previsione» e' inserita la seguente: «finanziario», dopo le parole: «di competenza» sono inserite le seguenti: « e di cassa» e dopo le parole: «relativa alle spese» sono aggiunte le seguenti: «,per ciascuno degli esercizi considerati nel documento.»; 
+ b) al comma 2, dopo le parole: «dell'organo consiliare» sono aggiunte le seguenti: «salvo quelle previste dai commi 5-bis e 5-quater.»; 
+ c) al comma 3, dopo le parole: «non oltre il 30 novembre di ciascun anno» sono aggiunte le seguenti: «, fatte salve le seguenti variazioni, che possono essere deliberate sino al 31 dicembre di ciascun anno: 
+ a) l'istituzione di tipologie di entrata a destinazione vincolata e il correlato programma di spesa; 
+ b) l'istituzione di tipologie di entrata senza vincolo di destinazione, con stanziamento pari a zero, a seguito di accertamento e riscossione di entrate non previste in bilancio, secondo le modalita' disciplinate dal principio applicato della contabilita' finanziaria; 
+ c) l'utilizzo delle quote del risultato di amministrazione vincolato ed accantonato per le finalita' per le quali sono stati previsti; 
+ d) quelle necessarie alla reimputazione agli esercizi in cui sono esigibili, di obbligazioni riguardanti entrate vincolate gia' assunte e, se necessario, delle spese correlate; 
+ e) le variazioni delle dotazioni di cassa di cui al comma 5-bis, lettera d); 
+ f) le variazioni di cui al comma 5-quater, lettera b); 
+ g) le variazioni degli stanziamenti riguardanti i versamenti ai conti di tesoreria statale intestati all'ente e i versamenti a depositi bancari intestati all'ente»; 
+ d) al comma 4, dopo le parole: « in via d'urgenza» sono inserite le seguenti: «opportunamente motivata,»; 
+ e) dopo il comma 5, sono inseriti i seguenti: 
+ «5-bis. L'organo esecutivo con provvedimento amministrativo approva le variazioni del piano esecutivo di gestione, salvo quelle di cui al comma 5-quater, e le seguenti variazioni del bilancio di previsione non aventi natura discrezionale, che si configurano come meramente applicative delle decisioni del Consiglio, per ciascuno degli esercizi considerati nel bilancio: 
+ a) variazioni riguardanti l'utilizzo della quota vincolata e accantonata del risultato di amministrazione nel corso dell'esercizio provvisorio consistenti nella mera reiscrizione di economie di spesa derivanti da stanziamenti di bilancio dell'esercizio precedente corrispondenti a entrate vincolate, secondo le modalita' previste dall'art. 187, comma 3-quinquies; 
+ b) variazioni compensative tra le dotazioni delle missioni e dei programmi riguardanti l'utilizzo di risorse comunitarie e vincolate, nel rispetto della finalita' della spesa definita nel provvedimento di assegnazione delle risorse, o qualora le variazioni siano necessarie per l'attuazione di interventi previsti da intese istituzionali di programma o da altri strumenti di programmazione negoziata, gia' deliberati dal Consiglio; 
+ c) variazioni compensative tra le dotazioni delle missioni e dei programmi limitatamente alle spese per il personale, conseguenti a provvedimenti di trasferimento del personale all'interno dell'ente; 
+ d) variazioni delle dotazioni di cassa, salvo quelle previste dal comma 5-quater, garantendo che il fondo di cassa alla fine dell'esercizio sia non negativo; 
+ e) variazioni riguardanti il fondo pluriennale vincolato di cui all'art. 3, comma 5, del decreto legislativo 23 giugno 2011, n. 118, effettuata entro i termini di approvazione del rendiconto in deroga al comma 3. 
+ 5-ter. Con il regolamento di contabilita' si disciplinano le modalita' di comunicazione al Consiglio delle variazioni di bilancio di cui al comma 5-bis. 
+ 5-quater. Nel rispetto di quanto previsto dai regolamenti di contabilita', i responsabili della spesa o, in assenza di disciplina, il responsabile finanziario, possono effettuare, per ciascuno degli esercizi del bilancio: 
+ a) le variazioni compensative del piano esecutivo di gestione fra capitoli di entrata della medesima categoria e fra i capitoli di spesa del medesimo macroaggregato, escluse le variazioni dei capitoli appartenenti ai macroaggregati riguardanti i trasferimenti correnti, i contribuiti agli investimenti, ed ai trasferimenti in conto capitale, che sono di competenza della Giunta; 
+ b) le variazioni di bilancio fra gli stanziamenti riguardanti il fondo pluriennale vincolato e gli stanziamenti correlati, in termini di competenza e di cassa, escluse quelle previste dall'art. 3, comma 5, del decreto legislativo 23 giugno 2011, n. 118. Le variazioni di bilancio riguardanti le variazioni del fondo pluriennale vincolato sono comunicate trimestralmente alla giunta; 
+ c) le variazioni di bilancio riguardanti l'utilizzo della quota vincolata del risultato di amministrazione derivanti da stanziamenti di bilancio dell'esercizio precedente corrispondenti a entrate vincolate, in termini di competenza e di cassa, secondo le modalita' previste dall'art. 187, comma 3-quinquies; 
+ d) le variazioni degli stanziamenti riguardanti i versamenti ai conti di tesoreria statale intestati all'ente e i versamenti a depositi bancari intestati all'ente; 
+ e) le variazioni necessarie per l'adeguamento delle previsioni, compresa l'istituzione di tipologie e programmi, riguardanti le partite di giro e le operazioni per conto di terzi. 
+ 5-quinquies. Le variazioni al bilancio di previsione disposte con provvedimenti amministrativi, nei casi previsti dal presente decreto, e le variazioni del piano esecutivo di gestione non possono essere disposte con il medesimo provvedimento amministrativo. Le determinazioni dirigenziali di variazione compensativa dei capitoli del piano esecutivo di gestione di cui al comma 5-quater sono effettuate al fine di favorire il conseguimento degli obiettivi assegnati ai dirigenti.»; 
+ f) il comma 6 e' sostituito dal seguente: 
+ «6. Sono vietate le variazioni di giunta compensative tra macroaggregati appartenenti a titoli diversi.»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 7, le parole: « nei servizi per conto di terzi » sono sostituite dalle seguenti: «nei titoli riguardanti le entrate e le spese per conto di terzi e partite di giro»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    al comma 8, le parole: «30 novembre» sono sostituite dalle seguenti: «31 luglio» e dopo le parole: «fondo di riserva» sono inserite le seguenti: «ed il fondo di cassa,»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    al comma 9, dopo le parole: «dell'organo esecutivo» sono inserite le seguenti: «, salvo quelle previste dal comma 5-quater, » e dopo le parole: «entro il 15 dicembre di ciascun anno» sono aggiunte le seguenti: «, fatte salve le variazioni correlate alle variazioni di bilancio previste al comma 3, che possono essere deliberate sino al 31 dicembre di ciascun anno.»; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    dopo il comma 9 e' aggiunto, in fine, il seguente: 
+ «9-bis. Le variazioni al bilancio di previsione sono trasmesse al tesoriere inviando il prospetto di cui all'art. 10, comma 4, del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, allegato al provvedimento di approvazione della variazione. Sono altresi' trasmesse al tesoriere: 
+ a) le variazioni dei residui a seguito del loro riaccertamento; 
+ b) le variazioni del fondo pluriennale vincolato effettuate nel corso dell'esercizio finanziario.»; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    dopo il comma 9-bis e' aggiunto il seguente: «9-ter. Nel corso dell'esercizio 2015 sono applicate le norme concernenti le variazioni di bilancio vigenti nell'esercizio 2014, fatta salva la disciplina del fondo pluriennale vincolato e del riaccertamento straordinario dei residui. Gli enti che hanno partecipato alla sperimentazione nel 2014 adottano la disciplina prevista dal presente articolo a decorrere dal 1° gennaio 2015.» 
+ 24) all'art. 176: 
+ a) alla rubrica, dopo le parole: «Prelevamenti dal fondo di riserva» sono aggiunte le seguenti: «e dai fondi spese potenziali»; 
+ b) dopo le parole: «fondo di riserva» sono inserite le seguenti: «, dal fondo di riserva di cassa e dai fondi spese potenziali»; 
+ 25) all'art. 179: 
+ a) dopo il primo periodo del comma 1 e' aggiunto il seguente: «Le entrate relative al titolo "Accensione prestiti" sono accertate nei limiti dei rispettivi stanziamenti di competenza del bilancio.»; 
+ b) al comma 2, dopo le parole: «l'accertamento delle entrate avviene» sono aggiunte le seguenti: «distinguendo le entrate ricorrenti da quelle non ricorrenti attraverso la codifica della transazione elementare di cui agli articoli 5 e 6 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, seguendo le seguenti disposizioni»; 
+ c) alla lettera c) del comma 2, dopo le parole: «delle spese» sono inserite le seguenti: «del titolo "Servizi per conto terzi e partite di giro",»; 
+ d) dopo la lettera c) del comma 2 e' inserita la seguente: 
+ «c-bis) per le entrate derivanti da trasferimenti e contributi da altre amministrazioni pubbliche a seguito della comunicazione dei dati identificativi dell'atto amministrativo di impegno dell'amministrazione erogante relativo al contributo o al finanziamento;»; 
+ e) alla lettera d) del comma 2, dopo le parole: «atti amministrativi specifici» sono aggiunte le seguenti: «, salvo i casi, tassativamente previsti nel principio applicato della contabilita' finanziaria, per cui e' previsto l'accertamento per cassa.»; 
+ f) al comma 3, dopo le parole: «regolamento di contabilita' dell'ente» sono aggiunte le seguenti:«, nel rispetto di quanto previsto dal presente decreto e dal principio generale della competenza finanziaria e dal principio applicato della contabilita' finanziaria di cui agli allegati n. 1 e n. 4/2 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ g) dopo il comma 3 e' aggiunto il seguente: 
+ «3-bis. L'accertamento dell'entrata e' registrato quando l'obbligazione e' perfezionata, con imputazione alle scritture contabili riguardanti l'esercizio in cui l'obbligazione viene a scadenza. Non possono essere riferite ad un determinato esercizio finanziario le entrate il cui diritto di credito non venga a scadenza nello stesso esercizio finanziario. E' vietato l'accertamento attuale di entrate future. Le entrate sono registrate nelle scritture contabili anche se non determinano movimenti di cassa effettivi.»; 
+ 26) all'art. 180: 
+ a) alla lettera d) del comma 3, la parola: «somme» e' sostituita dalle seguenti: ((entrate derivanti da legge)), da trasferimenti o da prestiti»; 
+ b) alla lettera e) del comma 3, le parole: «della risorsa o del capitolo di bilancio cui e' riferita l'entrata» sono sostituite dalle seguenti: «del titolo e della tipologia»; 
+ c) alla lettera f) del comma 3, dopo le parole: «la codifica» sono aggiunte le seguenti: «di bilancio»; 
+ d) dopo la lettera h) del comma 3 sono aggiunte le seguenti: « h-bis) la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196; 
+ h-ter) i codici della transazione elementare di cui agli articoli da 5 a 7, del decreto legislativo 23 giugno 2011, n. 118.»; 
+ e) al primo periodo del comma 4, dopo le parole: «versata in favore dell'ente,» sono inserite le seguenti: «ivi comprese le entrate di cui al comma 4-ter,». Dopo il secondo periodo e' aggiunto il seguente: «L'ente procede alla regolarizzazione dell'incasso entro i successivi 60 giorni e, comunque, entro i termini previsti per la resa del conto del tesoriere.»; 
+ f) dopo il comma 4 sono aggiunti, in fine, i seguenti: 
+ «4-bis. Gli ordinativi di incasso che si riferiscono ad entrate di competenza dell'esercizio in corso sono tenuti distinti da quelli relativi ai residui, garantendone la numerazione unica per esercizio e progressiva. Gli ordinativi di incasso, sia in conto competenza sia in conto residui, sono imputati contabilmente all'esercizio in cui il tesoriere ha incassato le relative entrate, anche se la comunicazione e' pervenuta all'ente nell'esercizio successivo. 
+ 4-ter. Gli incassi derivanti dalle accensioni di prestiti sono disposti nei limiti dei rispettivi stanziamenti di cassa. 
+ 4-quater. E' vietata l'imputazione provvisoria degli incassi in attesa di regolarizzazione alle partite di giro. 
+ 4-quinquies. Gli ordinativi d'incasso non riscossi entro il termine dell'esercizio sono restituiti dal tesoriere all'ente per l'annullamento e la successiva emissione nell'esercizio successivo in conto residui. 
+ 4-sexies. I codici di cui al comma 3, lettera h-ter), possono essere applicati all'ordinativo di incasso a decorrere dal 1° gennaio 2016.»; 
+ 27) al comma 3 dell'art. 181, dopo le parole: «dal regolamento di contabilita'» sono aggiunte le seguenti:«, non superiori ai quindici giorni lavorativi»; 
+ 28) all'art. 183: 
+ a) al comma 1, dopo le parole: «indicata la ragione» sono inserite le seguenti: «e la relativa scadenza»; 
+ b) alla lettera b) del comma 2 dopo le parole: «oneri accessori» sono aggiunte le seguenti: «nei casi in cui non si sia provveduto all'impegno nell'esercizio in cui il contratto di finanziamento e' stato perfezionato»; 
+ c) la lettera c) del comma 2 e' sostituita dalla seguente: 
+ «c) per contratti di somministrazione riguardanti prestazioni continuative, nei casi in cui l'importo dell'obbligazione sia definita contrattualmente. Se l'importo dell'obbligazione non e' predefinito nel contratto, con l'approvazione del bilancio si provvede alla prenotazione della spesa, per un importo pari al consumo dell'ultimo esercizio per il quale l'informazione e' disponibile.»; 
+ d) il terzo periodo del comma 3 e' sostituito dai seguenti: «Le spese di investimento per lavori pubblici prenotate negli esercizi successivi, la cui gara e' stata formalmente indetta, concorrono alla determinazione del fondo pluriennale vincolato e non del risultato di amministrazione. In assenza di aggiudicazione definitiva della gara entro l'anno successivo le economie di bilancio confluiscono nell'avanzo di amministrazione vincolato per la riprogrammazione dell'intervento in c/capitale e il fondo pluriennale e' ridotto di pari importo.»; 
+ e) i commi 5, 6, 7 e 8, sono sostituiti dai seguenti: 
+ «5. Tutte le obbligazioni passive giuridicamente perfezionate, devono essere registrate nelle scritture contabili quando l'obbligazione e' perfezionata, con imputazione all'esercizio in cui l'obbligazione viene a scadenza, secondo le modalita' previste dal principio applicato della contabilita' finanziaria di cui all'allegato n. 4/2 del decreto legislativo 23 giugno 2011, n. 118.
+Non possono essere riferite ad un determinato esercizio finanziario le spese per le quali non sia venuta a scadere nello stesso esercizio finanziario la relativa obbligazione giuridica. Le spese sono registrate anche se non determinano movimenti di cassa effettivi. 
+ 6. Gli impegni di spesa sono assunti nei limiti dei rispettivi stanziamenti di competenza del bilancio di previsione, con imputazione agli esercizi in cui le obbligazioni passive sono esigibili. Non possono essere assunte obbligazioni che danno luogo ad impegni di spesa corrente: 
+ a) sugli esercizi successivi a quello in corso, a meno che non siano connesse a contratti o convenzioni pluriennali o siano necessarie per garantire la continuita' dei servizi connessi con le funzioni fondamentali, fatta salva la costante verifica del mantenimento degli equilibri di bilancio, anche con riferimento agli esercizi successivi al primo; 
+ b) sugli esercizi non considerati nel bilancio, a meno delle spese derivanti da contratti di somministrazione, di locazione, relative a prestazioni periodiche o continuative di servizi di cui all'art. 1677 del codice civile, delle spese correnti correlate a finanziamenti comunitari e delle rate di ammortamento dei prestiti, inclusa la quota capitale. Le obbligazioni che comportano impegni riguardanti le partite di giro e i rimborsi delle anticipazioni di tesoreria sono assunte esclusivamente in relazione alle esigenze della gestione. 
+ 7. I provvedimenti dei responsabili dei servizi che comportano impegni di spesa sono trasmessi al responsabile del servizio finanziario e sono esecutivi con l'apposizione del visto di regolarita' contabile attestante la copertura finanziaria. 
+ 8. Al fine di evitare ritardi nei pagamenti e la formazione di debiti pregressi, il responsabile della spesa che adotta provvedimenti che comportano impegni di spesa ha l'obbligo di accertare preventivamente che il programma dei conseguenti pagamenti sia compatibile con i relativi stanziamenti di cassa e con le regole del patto di stabilita' interno; la violazione dell'obbligo di accertamento di cui al presente comma comporta responsabilita' disciplinare ed amministrativa. Qualora lo stanziamento di cassa, per ragioni sopravvenute, non consenta di far fronte all'obbligo contrattuale, l'amministrazione adotta le opportune iniziative, anche di tipo contabile, amministrativo o contrattuale, per evitare la formazione di debiti pregressi.»; 
+ f) al primo periodo del comma 9, dopo le parole: «assumono atti di impegno» sono inserite le seguenti: «nel rispetto dei principi contabili generali e del principio applicato della contabilita' finanziaria di cui agli allegati n. 1 e n. 4/2del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.» ((e, al secondo periodo, le parole: «all'art. 151, comma 4»)) sono sostituite dalle seguenti: «ai commi 7 e 8.»; 
+ g) dopo il comma 9 e' inserito il seguente: «9-bis.Gli impegni sono registrati distinguendo le spese ricorrenti da quelle non ricorrenti attraverso la codifica della transazione elementare di cui agli articoli 5 e 6 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.» 
+ 29) all'art. 185: 
+ a) il comma 1 e' sostituito dal seguente: 
+ «1. Gli ordinativi di pagamento sono disposti nei limiti dei rispettivi stanziamenti di cassa, salvo i pagamenti riguardanti il rimborso delle anticipazioni di tesoreria, i servizi per conto terzi e le partite di giro.»; 
+ b) la lettera c) del comma 2 e' sostituita dalla seguente: 
+ «c) l'indicazione della missione, del programma e del titolo di bilancio cui e' riferita la spesa e la relativa disponibilita', distintamente per residui o competenza e cassa;»; 
+ c) alla lettera d) del comma 2, dopo la parola: «codifica» sono aggiunte le seguenti: «di bilancio»; 
+ d) alla lettera e) del comma 2, le parole: «, ove richiesto,» sono soppresse; 
+ e) alla lettera i) della comma 2,dopo le parole: «vincoli di destinazione» sono aggiunte le seguenti: «stabiliti per legge o relativi a trasferimenti o ai prestiti;»; 
+ f) dopo la lettera i) del comma 2 sono inserite le seguenti: 
+ «i-bis) la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196; 
+ i-ter) i codici della transazione elementare di cui agli articoli da 5 a 7, del decreto legislativo 23 giugno 2011, n. 118. 
+ i-quater) l'identificazione delle spese non soggette al controllo dei dodicesimi di cui all'art. 163, comma 5, in caso di esercizio provvisorio.»; 
+ g) al comma 3, dopo le parole: «della liquidazione» sono inserite le seguenti: «e al rispetto dell'autorizzazione di cassa,»; 
+ h) al secondo periodo del comma 4, le parole: «Entro quindici giorni e comunque entro il termine del mese in corso» sono sostituite dalle seguenti: «Entro trenta giorni» e dopo le parole: «ai fini della regolarizzazione» sono aggiunte le seguenti: «, imputandolo contabilmente all'esercizio in cui il tesoriere ha effettuato il pagamento, anche se la relativa comunicazione e' pervenuta all'ente nell'esercizio successivo.»; 
+ i) dopo il comma 4 e' aggiunto il seguente: 
+ «4-bis. I codici di cui al comma 2, lettera i-bis), possono essere applicati al mandato a decorrere dal 1° gennaio 2016.»; 
+ 30) all'art. 186: 
+ a) dopo il primo periodo del comma 1 e' aggiunto il seguente: «Tale risultato non comprende le risorse accertate che hanno finanziato spese impegnate con imputazione agli esercizi successivi, rappresentate dal fondo pluriennale vincolato determinato in spesa del conto del bilancio.»; 
+ b) dopo il comma 1 e' aggiunto il seguente: «1-bis. In occasione dell'approvazione del bilancio di previsione e' determinato l'importo del risultato di amministrazione presunto dell'esercizio precedente cui il bilancio si riferisce.»; 
+ 31) all'art. 187: 
+ a) la rubrica e' sostituita dalla seguente: «Composizione del risultato di amministrazione»; 
+ b) i commi 1, 2 e 3 sono sostituiti dai seguenti: 
+ «1. Il risultato di amministrazione e' distinto in fondi liberi, fondi vincolati, fondi destinati agli investimenti e fondi accantonati. I fondi destinati agli investimenti sono costituiti dalle entrate in c/capitale senza vincoli di specifica destinazione non spese, e sono utilizzabili con provvedimento di variazione di bilancio solo a seguito dell'approvazione del rendiconto.
+L'indicazione della destinazione nel risultato di amministrazione per le entrate in conto capitale che hanno dato luogo ad accantonamento al fondo crediti di dubbia e difficile esazione e' sospeso, per l'importo dell'accantonamento, sino all'effettiva riscossione delle stesse. I trasferimenti in conto capitale non sono destinati al finanziamento degli investimenti e non possono essere finanziati dal debito e dalle entrate in conto capitale destinate al finanziamento degli investimenti. I fondi accantonati comprendono gli accantonamenti per passivita' potenziali e il fondo crediti di dubbia esigibilita'. Nel caso in cui il risultato di amministrazione non sia sufficiente a comprendere le quote vincolate, destinate e accantonate, l'ente e' in disavanzo di amministrazione. Tale disavanzo e' iscritto come posta a se stante nel primo esercizio del bilancio di previsione secondo le modalita' previste dall'art. 188. 
+ 2. La quota libera dell'avanzo di amministrazione dell'esercizio precedente, accertato ai sensi dell'art. 186 e quantificato ai sensi del comma 1, puo' essere utilizzato con provvedimento di variazione di bilancio, per le finalita' di seguito indicate in ordine di priorita': 
+ a) per la copertura dei debiti fuori bilancio; 
+ b) per i provvedimenti necessari per la salvaguardia degli equilibri di bilancio di cui all'art. 193 ove non possa provvedersi con mezzi ordinari; 
+ c) per il finanziamento di spese di investimento; 
+ d) per il finanziamento delle spese correnti a carattere non permanente; 
+ e) per l'estinzione anticipata dei prestiti. Resta salva la facolta' di impiegare l'eventuale quota del risultato di amministrazione "svincolata", in occasione dell'approvazione del rendiconto, sulla base della determinazione dell'ammontare definitivo della quota del risultato di amministrazione accantonata per il fondo crediti di dubbia esigibilita', per finanziare lo stanziamento riguardante il fondo crediti di dubbia esigibilita' nel bilancio di previsione dell'esercizio successivo a quello cui il rendiconto si riferisce. 
+ 3. Le quote del risultato presunto derivanti dall'esercizio precedente, costituite da accantonamenti risultanti dall'ultimo consuntivo approvato o derivanti da fondi vincolati possono essere utilizzate per le finalita' cui sono destinate prima dell'approvazione del conto consuntivo dell'esercizio precedente, attraverso l'iscrizione di tali risorse, come posta a se' stante dell'entrata, nel primo esercizio del bilancio di previsione o con provvedimento di variazione al bilancio. L'utilizzo della quota vincolata o accantonata del risultato di amministrazione e' consentito, sulla base di una relazione documentata del dirigente competente, anche in caso di esercizio provvisorio, esclusivamente per garantire la prosecuzione o l'avvio di attivita' soggette a termini o scadenza, la cui mancata attuazione determinerebbe danno per l'ente, secondo le modalita' individuate al comma 3-quinquies.»; 
+ c) dopo il comma 3-bis sono inseriti i seguenti: 
+ «3-ter. Costituiscono quota vincolata del risultato di amministrazione le entrate accertate e le corrispondenti economie di bilancio: 
+ a) nei casi in cui la legge o i principi contabili generali e applicati individuano un vincolo di specifica destinazione dell'entrata alla spesa; 
+ b) derivanti da mutui e finanziamenti contratti per il finanziamento di investimenti determinati; 
+ c) derivanti da trasferimenti erogati a favore dell'ente per una specifica destinazione determinata; 
+ d) derivanti da entrate accertate straordinarie, non aventi natura ricorrente, cui l'amministrazione ha formalmente attribuito una specifica destinazione. E' possibile attribuire un vincolo di destinazione alle entrate straordinarie non aventi natura ricorrente solo se l'ente non ha rinviato la copertura del disavanzo di amministrazione negli esercizi successivi e ha provveduto nel corso dell'esercizio alla copertura di tutti gli eventuali debiti fuori bilancio, compresi quelli di cui all'art. 193. L'indicazione del vincolo nel risultato di amministrazione per le entrate vincolate che hanno dato luogo ad accantonamento al fondo crediti di dubbia e difficile esazione e' sospeso, per l'importo dell'accantonamento, sino all'effettiva riscossione delle stesse. 
+ 3-quater. Se il bilancio di previsione impiega quote vincolate del risultato di amministrazione presunto ai sensi del comma 3, entro il 31 gennaio la Giunta verifica l'importo delle quote vincolate del risultato di amministrazione presunto sulla base di un preconsuntivo relativo alle entrate e alle spese vincolate ed approva l'aggiornamento dell'allegato al bilancio di previsione di cui all'art. 11, comma 3, lettera a), del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. Se la quota vincolata del risultato di amministrazione presunto e' inferiore rispetto all'importo applicato al bilancio di previsione, l'ente provvede immediatamente alle necessarie variazioni di bilancio che adeguano l'impiego del risultato di amministrazione vincolato. 
+ 3-quinquies. Le variazioni di bilancio che, in attesa dell'approvazione del consuntivo, applicano al bilancio quote vincolate o accantonate del risultato di amministrazione, sono effettuate solo dopo l'approvazione del prospetto aggiornato del risultato di amministrazione presunto da parte della Giunta di cui al comma 3-quater. Le variazioni consistenti nella mera re-iscrizione di economie di spesa derivanti da stanziamenti di bilancio dell'esercizio precedente corrispondenti a entrate vincolate, possono essere disposte dai dirigenti se previsto dal regolamento di contabilita' o, in assenza di norme, dal responsabile finanziario. In caso di esercizio provvisorio tali variazioni sono di competenza della Giunta. 
+ 3-sexies. Le quote del risultato presunto derivante dall'esercizio precedente costituite dagli accantonamenti effettuati nel corso dell'esercizio precedente possono essere utilizzate prima dell'approvazione del conto consuntivo dell'esercizio precedente, per le finalita' cui sono destinate, con provvedimento di variazione al bilancio, se la verifica di cui al comma 3-quater e l'aggiornamento dell'allegato al bilancio di previsione di cui all'art. 11, comma 3, lettera a), del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, sono effettuate con riferimento a tutte le entrate e le spese dell'esercizio precedente e non solo alle entrate e alle spese vincolate.»; 
+ 32) all'art. 188: 
+ a) al comma 1, dopo la parola: «e'» e' inserita la seguente: «immediatamente» e le parole: «al bilancio di previsione nei modi e nei termini di cui all'art. 193, in aggiunta alle quote di ammortamento accantonate e non disponibili nel risultato contabile di amministrazione» sono sostituite dalle seguenti: «((...)) all'esercizio in corso di gestione contestualmente alla delibera di approvazione del rendiconto.»; 
+ b) al comma 1, dopo il primo periodo, sono aggiunti i seguenti: «La mancata adozione della delibera che applica il disavanzo al bilancio in corso di gestione e' equiparata a tutti gli effetti alla mancata approvazione del rendiconto di gestione. Il disavanzo di amministrazione puo' anche essere ripianato negli esercizi successivi considerati nel bilancio di previsione, in ogni caso non oltre la durata della consiliatura, contestualmente all'adozione di una delibera consiliare avente ad oggetto il piano di rientro dal disavanzo nel quale siano individuati i provvedimenti necessari a ripristinare il pareggio. Il piano di rientro e' sottoposto al parere del collegio dei revisori. Ai fini del rientro possono essere utilizzate le economie di spesa e tutte le entrate, ad eccezione di quelle provenienti dall'assunzione di prestiti e di quelle con specifico vincolo di destinazione, nonche' i proventi derivanti da alienazione di beni patrimoniali disponibili e da altre entrate in c/capitale con riferimento a squilibri di parte capitale. Ai fini del rientro, in deroga all'art. 1, comma 169, della legge 27 dicembre 2006, n. 296, contestualmente, l'ente puo' modificare le tariffe e le aliquote relative ai tributi di propria competenza. La deliberazione, contiene l'analisi delle cause che hanno determinato il disavanzo, l'individuazione di misure strutturali dirette ad evitare ogni ulteriore potenziale disavanzo, ed e' allegata al bilancio di previsione e al rendiconto, costituendone parte integrante. Con periodicita' almeno semestrale il sindaco o il presidente trasmette al Consiglio una relazione riguardante lo stato di attuazione del piano di rientro, con il parere del collegio dei revisori.
+L'eventuale ulteriore disavanzo formatosi nel corso del periodo considerato nel piano di rientro deve essere coperto non oltre la scadenza del piano di rientro in corso.»; 
+ c) dopo il comma 1 sono inseriti i seguenti: 
+ «1-bis. L'eventuale disavanzo di amministrazione presunto accertato ai sensi dell'art. 186, comma 1-bis, e' applicato al bilancio di previsione dell'esercizio successivo secondo le modalita' previste al comma 1. A seguito dell'approvazione del rendiconto e dell'accertamento dell'importo definitivo del disavanzo di amministrazione dell'esercizio precedente, si provvede all'adeguamento delle iniziative assunte ai sensi del presente comma. 
+ 1-ter. A seguito dell'eventuale accertamento di un disavanzo di amministrazione presunto nell'ambito delle attivita' previste dall'art. 187, comma 3-quinquies, effettuate nel corso dell'esercizio provvisorio nel rispetto di quanto previsto dall'art. 187, comma 3, si provvede alla tempestiva approvazione del bilancio di previsione.
+Nelle more dell'approvazione del bilancio la gestione prosegue secondo le modalita' previste dall'art. 163, comma 3. 
+ 1-quater. Agli enti locali che presentino, nell'ultimo rendiconto deliberato, un disavanzo di amministrazione ovvero debiti fuori bilancio, ancorche' da riconoscere, nelle more della variazione di bilancio che dispone la copertura del disavanzo e del riconoscimento e finanziamento del debito fuori bilancio, e' fatto divieto di assumere impegni e pagare spese per servizi non espressamente previsti per legge. Sono fatte salve le spese da sostenere a fronte di impegni gia' assunti nei precedenti esercizi.»; 
+ 33) all'art. 189: 
+ a) al comma 2 le parole: «nonche' le somme derivanti dalla stipulazione di contratti di apertura di credito» sono sostituite dalle seguenti: «esigibile nell'esercizio, secondo i principi applicati della contabilita' finanziaria di cui all'allegato n. 4/2 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ b) al comma 3 le parole: «costituiscono residui attivi le somme derivanti da mutui per i quali e' intervenuta la concessione definitiva da parte della Cassa depositi e prestiti o degli Istituti di previdenza ovvero la stipulazione del contratto per i mutui concessi da altri Istituti di credito.» sono sostituite dalle seguenti: «le somme rese disponibili dalla Cassa depositi e prestiti a titolo di finanziamento e non ancora prelevate dall'ente costituiscono residui attivi a valere dell'entrata classificata come prelievi da depositi bancari, nell'ambito del titolo Entrate da riduzione di attivita' finanziarie, tipologia Altre entrate per riduzione di attivita' finanziarie.»; 
+ c) al comma 4 la parola: «accertamenti» e' sostituita dalla seguente: «entrate»; 
+ 34) all'art. 191: 
+ a) al comma 1 le parole: «intervento o capitolo» sono sostituite dalla seguente: «programma». Il secondo periodo e' sostituito dai seguenti: 
+ «Nel caso di spese riguardanti trasferimenti e contributi ad altre amministrazioni pubbliche, somministrazioni, forniture, appalti e prestazioni professionali, il responsabile del procedimento di spesa comunica al destinatario le informazioni relative all'impegno.
+La comunicazione dell'avvenuto impegno e della relativa copertura finanziaria, riguardanti le somministrazioni, le forniture e le prestazioni professionali, e' effettuata contestualmente all'ordinazione della prestazione con l'avvertenza che la successiva fattura deve essere completata con gli estremi della suddetta comunicazione.»; 
+ b) al comma 2 le parole: «all'intervento o capitolo» sono sostituite dalle seguenti: «alla missione e al programma», dopo le parole: «di bilancio» sono inserite le seguenti: «e al relativo capitolo di spesa del piano esecutivo di gestione»; 
+ c) il comma 5 e' sostituito dal seguente: 
+ «5. Il regolamento di contabilita' dell'ente disciplina le modalita' attraverso le quali le fatture o i documenti contabili equivalenti che attestano l'avvenuta cessione di beni, lo stato di avanzamento di lavori, la prestazione di servizi nei confronti dell'ente sono protocollate ed, entro 10 giorni, annotate nel registro delle fatture ricevutesecondo le modalita' previste dall'art. 42 del decreto-legge 24 aprile 2014, n. 66, convertito in legge, con modificazioni, dalla legge 23 giugno 2014, n. 89. Per il protocollo di tali documenti e' istituito un registro uniconel rispetto della disciplina in materia di documentazione amministrativa di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, ed e' esclusa la possibilita' di ricorrere a protocolli di settore o di reparto.((».)) 
+ 35) all'art. 193: 
+ a) al comma 1, dopo le parole: «dal presente testo unico» sono aggiunte le seguenti: «, con particolare riferimento agli equilibri di competenza e di cassa di cui all'art. 162, comma 6.»; 
+ b) al comma 2, le parole: «30 settembre» sono sostituite dalle seguenti: «31 luglio», le parole: «ad effettuare la ricognizione sullo stato di attuazione dei programmi. In tale sede l'organo consiliare da'», sono sostituite dalle seguenti: «a dare», e le parole: «, adotta contestualmente i provvedimenti necessari per il ripiano degli eventuali debiti di cui all'art. 194, per il ripiano dell'eventuale disavanzo di amministrazione risultante dal rendiconto approvato e, qualora i dati della gestione finanziaria facciano prevedere un disavanzo, di amministrazione o di gestione, per squilibrio della gestione di competenza ovvero della gestione dei residui, adotta le misure necessarie a ripristinare il pareggio.» sono sostituite dalle seguenti: «ad adottare, contestualmente: 
+ a) le misure necessarie a ripristinare il pareggio qualora i dati della gestione finanziaria facciano prevedere un disavanzo, di gestione o di amministrazione, per squilibrio della gestione di competenza, di cassa ovvero della gestione dei residui; 
+ b) i provvedimenti per il ripiano degli eventuali debiti di cui all'art. 194; 
+ c) le iniziative necessarie ad adeguare il fondo crediti di dubbia esigibilita' accantonato nel risultato di amministrazione in caso di gravi squilibri riguardanti la gestione dei residui.»; 
+ c) il comma 3 e' sostituito dal seguente: «3.Ai fini del comma 2, fermo restando quanto stabilito dall'art. 194, comma 2, possono essere utilizzate per l'anno in corso e per i due successivi le possibili economie di spesa e tutte le entrate, ad eccezione di quelle provenienti dall'assunzione di prestiti e di quelle con specifico vincolo di destinazione, nonche' i proventi derivanti da alienazione di beni patrimoniali disponibili e da altre entrate in c/capitale con riferimento a squilibri di parte capitale. Ove non possa provvedersi con le modalita' sopra indicate e' possibile impiegare la quota libera del risultato di amministrazione. Per il ripristino degli equilibri di bilancio e in deroga all'art. 1, comma 169, della legge 27 dicembre 2006, n. 296, l'ente puo' modificare le tariffe e le aliquote relative ai tributi di propria competenza entro la data di cui al comma 2.»; 
+ 36) all'art. 195 
+ a) la rubrica e' sostituita dalla seguente: «Utilizzo di entrate vincolate»: 
+ b) al comma 1, le parole: «di entrate aventi specifica destinazione» sono sostituite dalle seguenti: «delle entrate vincolate di cui all'art. 180, comma 3, lettera d)». Dopo il primo periodo, e' aggiunto il seguente: «I movimenti di utilizzo e di reintegro delle somme vincolate di cui all'art. 180, comma 3, sono oggetto di registrazione contabile secondo le modalita' indicate nel principio applicato della contabilita' finanziaria.»; 
+ c) al comma 2, le parole: «somme a specifica destinazione» sono sostituite dalle seguenti: «entrate vincolate», le parole: «dal tesoriere su specifiche richieste del servizio finanziario dell'ente» sono sostituite dalle seguenti: «dall'ente con l'emissione di appositi ordinativi di incasso e pagamento di regolazione contabile»; 
+ d) al comma 3, le parole: «somme a specifica destinazione» sono sostituite dalle seguenti: «entrate vincolate». Dopo il secondo periodo del comma 3 e' aggiunto il seguente: « La ricostituzione dei vincoli e' perfezionata con l'emissione di appositi ordinativi di incasso e pagamento di regolazione contabile.»; 
+ e) al comma 4, le parole: «somme a specifica destinazione» sono sostituite dalle seguenti: «entrate vincolate»; 
+ 37) la lettera a) del comma 2 dell'art. 197 e' sostituita dalla seguente: 
+ «a) predisposizione del piano esecutivo di gestione;»; 
+ 38) all'art. 199: 
+ a) alla lettera b) del comma 1 dell'art. 199, le parole: «avanzi di» sono sostituite dalle seguenti: «avanzo di parte corrente del», la parola : «costituiti» e' sostituita dalla seguente: «costituito»; 
+ b) dopo il comma 1, e' inserito il seguente: 
+ «1-bis. Le entrate di cui al comma 1, lettere a), c), d) ed f) sono destinate esclusivamente al finanziamento di spese di investimento e non possono essere impiegate per la spesa corrente.»; 
+ 39) all'art. 200: 
+ a) la rubrica e' sostituita dalla seguente: «Gli investimenti»: 
+ ((b) al comma 1, le parole: «pluriennale originario, eventualmente modificato)) dall'organo consiliare,» sono sostituite dalle seguenti: «di previsione»; 
+ c) dopo il comma 1, sono aggiunti, in fine, i seguenti: 
+ «1-bis. La copertura finanziaria delle spese di investimento imputate agli esercizi successivi e' costituita: 
+ a) da risorse accertate esigibili nell'esercizio in corso di gestione, confluite nel fondo pluriennale vincolato accantonato per gli esercizi successivi; 
+ b) da risorse accertate esigibili negli esercizi successivi, la cui esigibilita' e' nella piena discrezionalita' dell'ente o di altra pubblica amministrazione; 
+ c) dall'utilizzo del risultato di amministrazione nel primo esercizio considerato nel bilancio di previsione, nel rispetto di quanto previsto dall'art. 187. Il risultato di amministrazione puo' confluire nel fondo pluriennale vincolato accantonato per gli esercizi successivi. 
+ 1-ter. Per l'attivita' di investimento che comporta impegni di spesa che vengono a scadenza in piu' esercizi finanziari, deve essere dato specificamente atto, al momento dell'attivazione del primo impegno, di aver predisposto la copertura finanziaria per l'effettuazione della complessiva spesa dell'investimento, anche se la forma di copertura e' stata gia' indicata nell'elenco annuale del piano delle opere pubbliche di cui all'art. 128 del decreto legislativo n. 163 del 2006.»; 
+ 40) all'art. 201: 
+ a) al comma 1, dopo le parole: «sono autorizzate» sono inserite le seguenti: «, nel rispetto dei limiti imposti dall'ordinamento alla possibilita' di indebitamento,»; 
+ b) al comma 2, le parole: «al miliardo di lire» sono sostituite dalle seguenti: «a cinquecentomila euro»; 
+ 41) all'art. 203: 
+ a) alla lettera b) del comma 1, la parola: «annuale» e' sostituita dalle seguenti: «di previsione» le parole: «incluse le relative previsioni» sono sostituite dalle seguenti: «iscritti i relativi stanziamenti»; 
+ b) al comma 2, la parola: «annuale» e' sostituita dalla seguente: «di previsione» e le parole: «modifica il bilancio pluriennale e la relazione previsionale e programmatica» sono sostituite dalle seguenti: «adegua il documento unico di programmazione e di conseguenza le previsioni del bilancio degli esercizi successivi»; 
+ 42) all'art. 204: 
+ a) al comma 1, le parole: «Per le comunita' montane si fa riferimento ai primi due titoli delle entrate.» sono soppresse; 
+ b) alla fine del comma 1 sono aggiunti i seguenti periodi: «Il rispetto del limite e' verificato facendo riferimento anche agli interessi riguardanti i finanziamenti contratti e imputati contabilmente agli esercizi successivi. Non concorrono al limite di indebitamento le garanzie prestate per le quali l'ente ha accantonato l'intero importo del debito garantito.»; 
+ c) al comma 2, le parole: «dall'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica» sono soppresse. Alla lettera f), le parole: «Ministro del tesoro, bilancio e programmazione economica» sono sostituite dalle seguenti: «dal Ministro dell'economia e delle finanze»; 
+ d) il secondo periodo del comma 3 e' soppresso; 
+ 43) all'art. 205-bis: 
+ a) alla lettera a) del comma 3, le parole: «L'erogazione dell'intero importo messo a disposizione al momento della contrazione dell'apertura di credito ha luogo nel termine massimo di tre anni, ferma restando la possibilita' per l'ente locale di disciplinare contrattualmente le condizioni economiche ((di un eventuale utilizzo parziale;» sono soppresse)); 
+ b) dopo il comma 3 e' inserito il seguente: 
+ «3-bis. Il contratto di cui al comma 3 puo' prevedere l'erogazione dei singoli tiraggi sulla base di scritture private ovvero di atti di quietanza, fermo restando, al termine di periodi di tempo contrattualmente predeterminati, la formalizzazione dell'insieme dei tiraggi effettuati con unico atto pubblico.»; 
+ 44) all'art. 206: 
+ a) al comma 1, la parola: «annuale» e' sostituita dalle seguenti: «di previsione»; 
+ b) il secondo periodo del comma 1 e' soppresso; 
+ 45) all'art. 207: 
+ a) al comma 1, dopo le parole: «dalle comunita' montane di cui fanno parte» sono aggiunte le seguenti: «che possono essere destinatari di contributi agli investimenti finanziati da debito, come definiti dall'art. 3, comma 18, lettere g) ed h), della legge 24 dicembre 2003, n. 350.»; 
+ b) al comma 3, dopo le parole: «anche a favore di terzi» sono inserite le seguenti: «, che possono essere destinatari di contributi agli investimenti finanziati da debito, come definiti dall'art. 3, comma 18, lettere g) ed h), della legge 24 dicembre 2003, n. 350,»;
+c) dopo il comma 4 e' aggiunto, in fine, il seguente: 
+ «4-bis. Con il regolamento di contabilita' l'ente puo' limitare la possibilita' di rilasciare fideiussioni.»; 
+ 46) alla lettera b) del comma 1 all'art. 208, le parole: «lire 1 miliardo» sono sostituite dalle seguenti: «cinquecentomila euro»; 
+ 47) all'art. 209, dopo il comma 3 e' aggiunto il seguente: 
+ «3-bis. Il tesoriere tiene contabilmente distinti gli incassi di cui all'art. 180, comma 3, lettera d). I prelievi di tali risorse sono consentiti solo con i mandati di pagamento di cui all'art. 185, comma 2, lettera i). E' consentito l'utilizzo di risorse vincolate secondo le modalita' e nel rispetto dei limiti previsti dall'art. 195.»; 
+ 48) dopo il comma 1 dell'art. 215 e' aggiunto il seguente: 
+ «1-bis. Il tesoriere non gestisce i codici della transazione elementare di cui agli articoli da 5 a 7, del decreto legislativo 23 giugno 2011, n. 118, inseriti nei campi liberi dell'ordinativo a disposizione dell'ente.»; 
+ 49) all'art. 216: 
+ a) al comma 1 le parole: «solo se i mandati risultano emessi entro i limiti dei rispettivi interventi stanziati in bilancio o dei capitoli per i servizi per conto di terzi» sono sostituite dalle seguenti: «nei limiti degli stanziamenti di cassa. I mandati in conto competenza non possono essere pagati per un importo superiore alla differenza tra il relativo stanziamento di competenza e la rispettiva quota riguardante il fondo pluriennale vincolato.». Al secondo periodo, dopo le parole: «debitamente esecutive» sono aggiunte, in fine, le seguenti: «riguardanti l'esercizio in corso di gestione. Il tesoriere gestisce solo il primo esercizio del bilancio di previsione e registra solo le delibere di variazione del fondo pluriennale vincolate effettuate entro la chiusura dell'esercizio finanziario.»; 
+ b) al comma 2, dopo le parole: «se privo della codifica» sono aggiunte, in fine, le seguenti: «,compresa la codifica SIOPE di cui all'art. 14 della legge 31 dicembre 2009, n. 196. Il tesoriere non gestisce i codici della transazione elementare di cui agli articoli da 5 a 7, del decreto legislativo 23 giugno 2011, n. 118, inseriti nei campi liberi del mandato a disposizione dell'ente»; 
+ c) il comma 3 e' sostituito dal seguente: «3. I mandati in conto residui non possono essere pagati per un importo superiore all'ammontare dei residui risultanti in bilancio per ciascun programma.»; 
+ 50) all'art. 222 le parole: «per i comuni, le province, le citta' metropolitane e le unioni di comuni» e «e per le comunita' montane ai primi due titoli» sono soppresse; 
+ 51) all'art. 224, dopo il comma 1 e' aggiunto il seguente: 
+ «1-bis. Il regolamento di contabilita' dell'ente disciplina le modalita' di svolgimento della verifica straordinaria di cassa.»; 
+ 52) alla lettera c) del comma 1 dell'art. 225, dopo la parola: «conservazione» sono inserite le seguenti: «per almeno cinque anni» e la parola: «periodiche» e' soppressa; 
+ 53) all'art. 226: 
+ a) al comma 2, le parole: «su modello approvato col regolamento di cui all'art. 160» sono sostituite dalle seguenti: «su modello di cui all'allegato n. 17 al decreto legislativo 23 giugno 2011, n. 118»; 
+ b) alla lettera a) del comma 2 la parola: «risorsa» e' sostituita dalla seguente: «tipologia», la parola: «intervento» e' sostituita dalla seguente: «programma», le parole: «nonche' per ogni capitolo di entrata e di spesa per i servizi per conto di terzi» sono soppresse; 
+ c) alla lettera c) del comma 2, la parola: «meccanografici» e' sostituita dalla seguente: «informatici»; 
+ 54) all'art. 227: 
+ a) al comma 1, dopo la parola: «rendiconto» sono inserite le seguenti: «della gestione», le parole: «ed il conto del patrimonio» sono sostituite dalle seguenti: «e lo stato patrimoniale»; 
+ b) il comma 2 e' sostituito dal seguente: 
+ «2. Il rendiconto della gestione e' deliberato entro il 30 aprile dell'anno successivo dall'organo consiliare, tenuto motivatamente conto della relazione dell'organo di revisione. La proposta e' messa a disposizione dei componenti dell'organo consiliare prima dell'inizio della sessione consiliare in cui viene esaminato il rendiconto entro un termine, non inferiore a venti giorni, stabilito dal regolamento di contabilita'.»; 
+ c) dopo il comma 2-bis e' inserito il seguente: 
+ «2-ter. Contestualmente al rendiconto, l'ente approva il rendiconto consolidato, comprensivo dei risultati degli eventuali organismi strumentali secondo le modalita' previste dall'art. 11, commi 8 e 9, del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ d) il comma 3 e' sostituito dal seguente: 
+ «3. Nelle more dell'adozione della contabilita' economico-patrimoniale, gli enti locali con popolazione inferiore a 5.000 abitanti che si avvalgono della facolta', prevista dall'art. 232, non predispongono il conto economico, lo stato patrimoniale e il bilancio consolidato.»; 
+ e) il comma 5 e' sostituito dal seguente: 
+ «5. Al rendiconto della gestione sono allegati i documenti previsti dall'art. 11 comma 4 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, ed i seguenti documenti: 
+ a) l'elenco degli indirizzi internet di pubblicazione del rendiconto della gestione, del bilancio consolidato deliberati e relativi al penultimo esercizio antecedente quello cui si riferisce il bilancio di previsione, dei rendiconti e dei bilanci consolidati delle unioni di comuni di cui il comune fa parte e dei soggetti considerati nel gruppo "amministrazione pubblica" di cui al principio applicato del bilancio consolidato allegato al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, relativi al penultimo esercizio antecedente quello cui il bilancio si riferisce.
+Tali documenti contabili sono allegati al rendiconto della gestione qualora non integralmente pubblicati nei siti internet indicati nell'elenco; 
+ b) la tabella dei parametri di riscontro della situazione di deficitarieta' strutturale; 
+ c) il piano degli indicatori e dei risultati di bilancio.»; 
+ f) dopo il comma 6, sono aggiunti, in fine, i seguenti: 
+ «6-bis. Nel sito internet dell'ente, nella sezione dedicata ai bilanci, e' pubblicata la versione integrale del rendiconto della gestione, comprensivo anche della gestione in capitoli, dell'eventuale rendiconto consolidato, comprensivo della gestione in capitoli ed una versione semplificata per il cittadino di entrambi i documenti. 
+ 6-ter. I modelli relativi alla resa del conto da parte degli agenti contabili sono quelli previsti dal decreto del Presidente della Repubblica 31 gennaio 1996, n. 194. Tali modelli sono aggiornati con le procedure previste per l'aggiornamento degli allegati al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. 
+ 6-quater. Contestualmente all'approvazione del rendiconto, la giunta adegua, ove necessario, i residui, le previsioni di cassa e quelle riguardanti il fondo pluriennale vincolato alle risultanze del rendiconto, fermo restando quanto previsto dall'art. 188, comma 1, in caso di disavanzo di amministrazione.»; 
+ 55) all'art. 228 sono apportate le seguenti modificazioni: 
+ a) al comma 1, le parole: «autorizzatoria contenuta nel bilancio annuale rispetto alle previsioni» sono sostituite dalle seguenti: «rispetto alle autorizzazioni contenute nel primo esercizio considerato nel bilancio di previsione»; 
+ b) al comma 2, le parole: «risorsa dell'»sono sostituite dalle seguenti: «tipologia di» e le parole: «intervento della» sono sostituite dalle seguenti: «programma di» e le parole: «nonche' per ciascun capitolo dei servizi per conto di terzi,» sono soppresse; 
+ c) alla lettera b) del comma 2, dopo le parole: «di quella ancora da pagare» sono aggiunte le seguenti: «e di quella impegnata con imputazione agli esercizi successivi rappresentata dal fondo pluriennale vincolato»; 
+ d) al comma 3, dopo le parole: «in parte dei residui» sono aggiunte le seguenti: «e della corretta imputazione in bilancio, secondo le modalita' di cui all'art. 3, comma 4, del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni»; 
+ e) al comma 4, le parole: «contabile di gestione e con quello contabile di amministrazione, in termini di avanzo, pareggio o disavanzo» sono sostituite dalle seguenti: «della gestione di competenza e della gestione di cassa e del risultato di amministrazione alla fine dell'esercizio»; 
+ f) il comma 5 e' sostituito dal seguente: 
+ «5. Al rendiconto sono allegati la tabella dei parametri di riscontro della situazione di deficitarieta' strutturale ed il piano degli indicatori e dei risultati di bilancio. La tabella dei parametri di riscontro della situazione di deficitarieta' strutturale e il piano degli indicatori e dei risultati di bilancio sono altresi' allegati al certificato del rendiconto.»; 
+ g) al comma 7, la parola: «sui» e' sostituita dalla seguente: «riguardante», le parole: «gestionali dei servizi degli enti locali indicati» sono sostituite dalla seguente: «contenuti» e le parole: «nella Gazzetta Ufficiale della Repubblica italiana.» sono sostituite dalle seguenti: «nel sito internet del Ministero dell'interno.»; 
+ h) al comma 8, le parole: «e le tabelle di cui al comma 5sono approvati con il regolamento di cui all'art. 160» sono sostituite dalle seguenti: «sono predisposti secondo lo schema di cui all'allegato n. 10 al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ 56) all'art. 229: 
+ a) i commi 1 e 2 sono sostituiti dai seguenti: 
+ «1. Il conto economico evidenzia i componenti positivi e negativi della gestione di competenza economica dell'esercizio considerato, rilevati dalla contabilita' economico-patrimoniale ,nel rispetto del principio contabile generale n. 17 e dei principi applicati della contabilita' economico-patrimoniale di cui all'allegato n. 1 e n. 10 al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, e rileva il risultato economico dell'esercizio. 
+ 2. Il conto economico e' redatto secondo lo schema di cui all'allegato n. 10 al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ b) i commi 3,4, 5, 6,7, 9 e 10 sono abrogati; 
+ 57) all'art. 230: 
+ a) alla rubrica, le parole: «conto del patrimonio» sono sostituite dalle seguenti: «Lo stato patrimoniale»: 
+ b) il comma 1 e' sostituito dal seguente: 
+ «1. Lo stato patrimoniale rappresenta i risultati della gestione patrimoniale e la consistenza del patrimonio al termine dell'esercizio ed e' predisposto nel rispetto del principio contabile generale n. 17 e dei principi applicati della contabilita' economico-patrimoniale di cui all'allegato n. 1 e n. 4/3 al decreto legislativo 23 giugno 2011, n. 118, ((e successive modificazioni.»))  c) al comma 2, le parole: «, suscettibili di valutazione ed attraverso la cui rappresentazione contabile ed il relativo risultato finale differenziale e' determinata la consistenza netta della dotazione patrimoniale» sono soppresse. Dopo il primo periodo e' aggiunto il seguente: 
+ «Attraverso la rappresentazione contabile del patrimonio e' determinata la consistenza netta della dotazione patrimoniale.»; 
+ d) al comma 3, le parole: «nel conto del patrimonio» sono sostituite dalle seguenti: «nello stato patrimoniale»; 
+ e) al comma 4, le parole: «come segue:» sono sostituite dalle seguenti: «, secondo le modalita' previste dal principio applicato della contabilita' economico-patrimoniale di cui all'allegato n. 4/3 del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.» e le lettere a), b), c), d), e), f), g) ed h) sono soppresse; 
+ f) il comma 5 e' sostituito dal seguente: 
+ «5. Lo stato patrimoniale comprende anche i crediti inesigibili, stralciati dal conto del bilancio, sino al compimento dei termini di prescrizione. Al rendiconto della gestione e' allegato l'elenco di tali crediti distintamente rispetto a quello dei residui attivi.»; 
+ g) il comma 6 e' sostituito dal seguente: 
+ «6. Il regolamento di contabilita' puo' prevedere la compilazione di conti patrimoniali di inizio e fine mandato degli amministratori.»; 
+ h) il comma 9 e' sostituito dal seguente: 
+ «9. Lo stato patrimoniale e' redatto secondo lo schema di cui all'allegato n. 4/3 al decreto legislativo 23 giugno 2011, n. 118 e successive modificazioni e integrazioni.»; 
+ f) dopo il comma 9 e' inserito il seguente: 
+ «9-bis. Nell'apposita sezione dedicata ai bilanci del sito internet degli enti locali e' pubblicato il rendiconto della gestione, il conto del bilancio articolato per capitoli, e il rendiconto semplificato per il cittadino di cui all'art. 11 del decreto legislativo 23 giugno 2011, n. 118 e successive modificazioni e integrazioni.»; 
+ 58) l'art. 231 e' sostituito dal seguente: 
+ «Art. 231. (La relazione sulla gestione). - 1. La relazione sulla gestione e' un documento illustrativo della gestione dell'ente, nonche' dei fatti di rilievo verificatisi dopo la chiusura dell'esercizio, contiene ogni eventuale informazione utile ad una migliore comprensione dei dati contabili, ed e' predisposto secondo le modalita' previste dall'art. 11, comma 6, del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni.»; 
+ 59) l'art. 232 e' sostituito dal seguente: 
+ «Art. 232. (Contabilita' economico-patrimoniale). - Gli enti locali garantiscono la rilevazione dei fatti gestionali sotto il profilo economico-patrimoniale nel rispetto del principio contabile generale n. 17 della competenza economica e dei principi applicati della contabilita' economico-patrimoniale di cui agli allegati n. 1 e n. 4/3del decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. 
+ 2. Gli enti locali con popolazione inferiore a 5.000 abitanti possono non tenere la contabilita' economico-patrimoniale fino all'esercizio 2017.»; 
+ 60) dopo l'art. 233 e' inserito il seguente: 
+ «Art. 233-bis. (Il bilancio consolidato). - 1. Il bilancio consolidato di gruppo e' predisposto secondo le modalita' previste dal decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni. 
+ 2. Il bilancio consolidato e' redatto secondo lo schema previsto dall'allegato n. 11 del decreto legislativo 23 giugno 2011. n. 118, e successive modificazioni. 
+ 3. Gli enti locali con popolazione inferiore a 5.000 abitanti possono non predisporre il bilancio consolidato fino all'esercizio 2017.»; 
+ 61) all'art. 239: 
+ a) al comma 1, lettera b), numero 2),dopole parole:«variazioni di bilancio» sono aggiunte le seguenti: «escluse quelle attribuite alla competenza della giunta, del responsabile finanziario e dei dirigenti, a meno che il parere dei revisori sia espressamente previsto dalle norme o dai principi contabili, fermo restando la necessita' dell'organo di revisione di verificare, in sede di esame del rendiconto della gestione, dandone conto nella propria relazione, l'esistenza dei presupposti che hanno dato luogo alle variazioni di bilancio approvate nel corso dell'esercizio, comprese quelle approvate nel corso dell'esercizio provvisorio.»; 
+ b) alla lettera d) del comma 1, dopo le parole: «di deliberazione consiliare» sono inserite le seguenti: «di approvazione». Al secondo periodo, dopo le parole: «La relazione» sono inserite le seguenti: «dedica un'apposita sezione all'eventuale rendiconto consolidato di cui all'art. 11, commi 8 e 9, e»; 
+ c) dopo la lettera d) e' inserita la seguente: 
+ «d-bis) relazione sulla proposta di deliberazione consiliare di approvazione del bilancio consolidato di cui all'art. 233-bis e sullo schema di bilancio consolidato, entro il termine previsto dal regolamento di contabilita' e comunque non inferiore a 20 giorni, decorrente dalla trasmissione della stessa proposta approvata dall'organo esecutivo;»; 
+ 62) al comma 4 dell'art. 246, le parole: «bilancio preventivo per l'esercizio successivo» sono sostituite dalle seguenti: «bilancio di previsione per il triennio successivo»; 
+ 63) al primo periodo del comma 1 dell'art. 250, dopo le parole: «nell'ultimo bilancio approvato» sono inserite le seguenti: «con riferimento all'esercizio in corso,»; 
+ 64) al primo periodo del comma 5 dell'art. 268-bis, le parole: «nei bilanci annuale e pluriennale» sono sostituite dalle seguenti: «in ciascuno degli esercizi considerati nel bilancio di previsione.».
+
 ## Art. 75. — (( (Adeguamento della definizione di indebitamento).))
 
 ((
+
+1.
+                        
+                            
+                                Nella legge 24 dicembre 2003, n. 350, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 17 dell'art. 3 e' sostituito dal seguente: 
+ «17. Per gli enti di cui al comma 16, costituiscono indebitamento, agli effetti dell'art. 119, sesto comma, della Costituzione, l'assunzione di mutui, l'emissione di prestiti obbligazionari, le cartolarizzazioni relative a flussi futuri di entrata, a crediti e a attivita' finanziarie e non finanziarie, l'eventuale somma incassata al momento del perfezionamento delle operazioni derivate di swap (cosiddetto upfront), le operazioni di leasing finanziario stipulate dal 1° gennaio 2015, il residuo debito garantito dall'ente a seguito della definitiva escussione della garanzia. Inoltre, costituisce indebitamento il residuo debito garantito a seguito dell'escussione della garanzia per tre annualita' consecutive, fermo restando il diritto di rivalsa nei confronti del debitore originario. 
+ Dal 2015, gli enti di cui al comma 16 rilasciano garanzie solo a favore dei soggetti che possono essere destinatari di contributi agli investimenti finanziati da debito e per le finalita' definite dal comma 18.Non costituiscono indebitamento, agli effetti del citato art. 119, le operazioni che non comportano risorse aggiuntive, ma consentono di superare, entro il limite massimo stabilito dalla normativa statale vigente, una momentanea carenza di liquidita' e di effettuare spese per le quali e' gia' prevista idonea copertura di bilancio.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 18 dell'art. 3, le parole: « Trasferimenti in conto capitale» sono sostituite dalle seguenti: «Contributi agli investimenti e i trasferimenti in conto capitale a seguito di escussione delle garanzie».
 
 ))
 
@@ -1041,11 +3390,92 @@ Al riconoscimento della legittimita' dei debiti fuori bilancio di cui al comma 1
 
 Gli enti soggetti al titolo I del presente decreto pubblicano nel proprio sito istituzionale, nella sezione dedicata ai bilanci, tutti i documenti contabili previsti dai rispettivi ordinamenti.
 
+2.
+                        
+                            
+                                Dal 1° gennaio 2015 agli enti di cui al comma 1 non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'art. 6 della legge n. 25 febbraio 1987, n. 67, recante rinnovo della legge 5 agosto 1981, n. 416, recante disciplina delle imprese editrici e provvidenze per l'editoria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Presidente della Repubblica 15 febbraio 1989, n. 90, recante approvazione dei modelli degli estratti di bilancio che gli enti pubblici devono compilare e pubblicare sui giornali quotidiani e periodici, ai sensi dell'art. 6 della legge n. 25 febbraio 1987, n. 67.
+
 ))
 
 ## Art. 77. — (( (Abrogazioni).))
 
 ((
+
+1.
+                        
+                            
+                                A decorrere dal 1° gennaio 2015 sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'art. 10 della legge 16 maggio 1970, n. 281; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 6 dicembre 1973, n. 853, concernente autonomia contabile e funzionale dei consigli regionali delle regioni a statuto ordinario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto legislativo 28 marzo 2000, n. 76, concernente principi fondamenti e norme di coordinamento in materia di bilancio e di contabilita' delle regioni in attuazione dell'art. 1, comma 4, della legge 25 giugno 1999, n. 208; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto legislativo 12 aprile 2006 n. 170, concernente ricognizione dei principi fondamentali in materia di armonizzazione dei bilanci pubblici, a norma dell'art. 1 della legge 5 giugno 2003, n. 131; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 4 dell'art. 6 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, fatta salva l'applicazione ai fini della rendicontazione dell'esercizio 2014; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comma 17 dell'art. 6 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, fatta salva l'applicazione all'esercizio 2014; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'art. 4, comma 3, della legge 14 gennaio 2013, n. 10, concernente norme per lo sviluppodegli spazi verdi urbani; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    al decreto del Presidente della Repubblica 31 gennaio 1996, n. 194: 
+ 1) le lettere da a) a v) del comma 1 dell'art. 1; 
+ 2) i commi 2, 3 e 5 dell'art. 1; 
+ 3) gli articoli 2, 3 e 4.
 
 ))
 

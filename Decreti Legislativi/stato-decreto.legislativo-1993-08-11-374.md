@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1995-08-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,31 @@ Nei casi in cui i singoli ordinamenti previdenziali prevedano anticipazioni dei 
 ## Art. 3.
 
 ((
+
+1.
+                    
+                        
+                            Ai fini dell'ammissione al beneficio di cui all'articolo 2 e alla copertura dei relativi oneri: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i lavoratori del settore privato, con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, su proposta congiunta delle organizzazioni sindacali dei datori di lavoro e dei lavoratori maggiormente rappresentative sul piano nazionale, sono individuate per ciascuna categoria le mansioni particolarmente usuranti e sono determinate le modalita' di copertura dei conseguenti oneri attraverso una aliquota contributiva definita secondo criteri attuariali riferiti all'anticipo dell'eta' pensionabile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i lavoratori autonomi assicurati presso l'INPS, con decreto del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, su proposta delle organizzazioni di categoria maggiormente rappresentative sul piano nazionale, sono definite le mansioni ritenute particolarmente usuranti e sono determinate le modalita' di copertura dei conseguenti oneri attraverso una aliquota contributiva definita secondo criteri attuariali riferiti all'anticipo dell'eta' pensionabile. Con il medesimo decreto sono stabiliti i termini e le modalita' per la verifica e di controllo in ordine all'espletamento, da parte dei lavoratori medesimi, delle attivita' particolarmente usuranti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i lavoratori del settore pubblico, con decreto del Ministro per la funzione pubblica, di concerto con i Ministri del tesoro e del lavoro e della previdenza sociale, su proposta delle organizzazioni sindacali maggiormente rappresentative del settore, sono individuate le mansioni particolarmente usuranti nei singoli comparti e sono definite le modalita' di copertura dei conseguenti oneri attraverso una aliquota contributiva definita secondo i criteri attuariali riferiti all'anticipo dell'eta' pensionabile, nell'ambito delle risorse finanziarie preordinate ai rinnovi dei rispettivi contratti di lavoro.
 
 Sulle aliquote contributive di cui al comma 1 non operano misure di fiscalizzazione e di agevolazione comunque denominate.
 

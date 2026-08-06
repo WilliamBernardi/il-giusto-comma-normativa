@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2025-01-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -57,6 +57,38 @@ La sperimentazione e' avviata nei territori indicati all'articolo 9 del decreto-
 
 Soggetti e modalita' della sperimentazione
 
+1.
+                    
+                        
+                            A decorrere dal 1° gennaio 2025, le Unita' di valutazione multidimensionale di cui al Capo III del decreto legislativo 3 maggio 2024, n. 62, operanti nei territori di cui all'articolo 2 applicano, ai fini della sperimentazione, le disposizioni del predetto Capo III: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'elaborazione dei progetti di vita, in relazione alle istanze presentate tra il 1° gennaio 2025 e il 31 dicembre 2025; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle istanze, presentate tra il 1° gennaio 2025 e il 31 dicembre 2025, per la revisione dei progetti individuali gia' approvati ai sensi dell'articolo 14 della legge 8 novembre 2000, n. 328; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle istanze relative ai progetti di vita presentate da coloro che sono gia' in possesso di una certificazione, rilasciata in data anteriore al 1° gennaio 2025 ai sensi della legge 5 febbraio 1992, n. 104; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai procedimenti per il progetto di vita individuale, di cui all'articolo 14 della legge 8 novembre 2000, n. 328, in corso alla data del 1° gennaio 2025.
+
 ## Art. 4. — Monitoraggio della sperimentazione
 
 Le Regioni provvedono all'attivita' di monitoraggio in relazione ai procedimenti di cui all'articolo 3, attivati nella provincia di appartenenza individuata ai sensi dell'articolo 2, mediante i dati aggregati e anonimi secondo il modello di cui all'Allegato 1, che costituisce parte integrante del presente regolamento.
@@ -67,6 +99,73 @@ Le Regioni attuano le disposizioni del presente articolo avvalendosi delle risor
 
 ## Art. 5. — Assegnazione delle risorse
 
+1.
+                    
+                        
+                            Quota parte delle risorse disponibili per l'anno 2025 nel Fondo per l'implementazione dei progetti di vita, iscritto nel bilancio autonomo della Presidenza del Consiglio dei ministri ai sensi dell'articolo 31, comma 1, del decreto legislativo 3 maggio 2024, n. 62, e' ripartita come segue tra i territori di cui all'articolo 2, interessati alla sperimentazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                regione Lombardia, euro 534.954; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                regione Calabria, euro 144.365; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                regione Toscana, euro 419.707; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                regione Emilia-Romagna, euro 166.582; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                regione Lazio, euro 197.063; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                regione Umbria, euro 270.441; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                regione Campania, euro 448.306; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                regione Sardegna, euro 200.559; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                regione Friuli-Venezia Giulia, euro 97.030.
+
 Le risorse assegnate ai sensi del comma 1 sono destinate per l'attivazione di interventi, prestazioni e sostegni non rientranti nell'offerta del territorio di riferimento e non possono essere utilizzate per spese di organizzazione.
 
 Il monitoraggio delle risorse di cui al presente articolo si effettua nel rispetto degli Allegati 2-a, relativo al -monitoraggio annuale e 2-b, relativo al monitoraggio semestrale, che costituiscono parte integrante del presente decreto.
@@ -74,6 +173,52 @@ Il monitoraggio delle risorse di cui al presente articolo si effettua nel rispet
 ## Art. 6. — Tavolo di coordinamento interistituzionale
 
 Al fine di assicurare il necessario coordinamento tra le istituzioni coinvolte nei procedimenti di sperimentazione di cui al presente regolamento e favorire la circolarita' dei relativi dati, nonche' per consentire la valutazione degli esiti del monitoraggio semestrale e proporre, ove necessario, le azioni correttive, e' istituito, presso il Dipartimento per le politiche in favore delle persone con disabilita', il Tavolo di monitoraggio della sperimentazione dei progetti di vita.
+
+2.
+                    
+                        
+                            Il Tavolo, di cui al comma 1, e' presieduto dal Capo del Dipartimento per le politiche in favore delle persone con disabilita' o da un suo delegato, ed e' composto da: 
+ 
+                        
+                        
+                            a)
+                            
+                                due rappresentanti del Ministro per le disabilita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tre rappresentanti del Ministero della salute; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                due rappresentanti del Ministero del lavoro e delle politiche sociali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante dell'Istituto nazionale della previdenza sociale (INPS); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante di ciascuna delle Regioni nelle quali sono collocati i territori di cui all'articolo 2; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                tre rappresentanti indicati da Anci Nazionale.
 
 Il tavolo si riunisce dall'avvio della sperimentazione, con periodicita' semestrale in occasione dei monitoraggi di cui all'articolo 4, nonche' su richiesta del Presidente o della maggioranza dei componenti, e predispone con periodicita' semestrale una relazione sull'esito del monitoraggio da trasmettere al Ministro per le disabilita', al ministro della salute e al Ministro del lavoro e delle politiche sociali, e termina i lavori con le attivita' relative al secondo semestre dell'anno 2025.
 

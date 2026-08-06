@@ -8,8 +8,8 @@ codice_redazionale: 012G0091
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,132 @@ Sulla proposta del Ministro per gli affari europei e del Ministro dello sviluppo
 ## - Capo I RECEPIMENTO DELLA DIRETTIVA 2009/140/CE
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                All'articolo 1, comma 1, del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera a) la parola: "abbonato" e' sostituita dalla seguente: "contraente"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera b) e' sostituita dalla seguente: "b) accesso: il fatto di rendere accessibili risorse o servizi ad un'altra impresa a determinate condizioni, su base esclusiva o non esclusiva, al fine di fornire servizi di comunicazione elettronica anche quando sono utilizzati per la prestazione di servizi della societa' dell'informazione o di servizi di radiodiffusione di contenuti. E' compreso tra l'altro, l'accesso agli elementi della rete e alle risorse correlate, che puo' comportare la connessione di apparecchiature con mezzi fissi o non fissi (ivi compreso, in particolare, l'accesso alla rete locale nonche' alle risorse e ai servizi necessari per fornire servizi tramite la rete locale); l'accesso all'infrastruttura fisica, tra cui edifici, condotti e piloni; l'accesso ai pertinenti sistemi software, tra cui i sistemi di supporto operativo; l'accesso a sistemi informativi o banche dati per l'ordinazione preventiva, la fornitura, l'ordinazione, la manutenzione, le richieste di riparazione e la fatturazione; l'accesso ai servizi di traduzione del numero o a sistemi che svolgono funzioni analoghe; l'accesso alle reti fisse e mobili, in particolare per il roaming; l'accesso ai sistemi di accesso condizionato per i servizi di televisione digitale e l'accesso ai servizi di rete virtuale"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lettera h) e' sostituita dalla seguente: " h) chiamata: la connessione istituita da un servizio di comunicazione elettronica accessibile al pubblico che consente la comunicazione bidirezionale"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla lettera j), dopo la parola: "consumatore:" sono inserite le seguenti: "l'utente finale," e dopo le parole: "persona fisica che utilizza" sono inserite le seguenti: "o che chiede di utilizzare"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la lettera n) e' sostituita dalla seguente: "n) interferenza dannosa: interferenza che pregiudica il funzionamento di un servizio di radionavigazione o di altri servizi di sicurezza o che deteriora gravemente, ostacola o interrompe ripetutamente un servizio di radiocomunicazione che opera conformemente alle normative internazionali, dell'Unione europea o nazionali applicabili;"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la lettera q) e' sostituita dalla seguente: " q) mercati transnazionali: mercati situati in piu' di uno Stato membro, individuati conformemente all'articolo 18, che comprendono l'Unione europea o una parte considerevole dei suoi Stati membri;"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alla lettera r) le parole: "Ministero delle comunicazioni" sono sostituite dalle seguenti: "Ministero dello sviluppo economico"; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la lettera s) e' sostituita dalla seguente: "s) numero geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica nel quale alcune delle cifre fungono da indicativo geografico e sono utilizzate per instradare le chiamate verso l'ubicazione fisica del punto terminale di rete;"; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la lettera t) e' sostituita dalla seguente: "t) numero non geografico: qualsiasi numero del piano nazionale di numerazione dei servizi di comunicazione elettronica e che non sia un numero geografico; include tra l'altro i numeri di telefonia mobile, i numeri di chiamata gratuita e i numeri relativi ai servizi a sovrapprezzo;"; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la lettera v) e' sostituita dalla seguente: "v) punto terminale di rete: il punto fisico a partire dal quale il contraente ha accesso ad una rete pubblica di comunicazione; in caso di reti in cui abbiano luogo la commutazione o l'instradamento, il punto terminale di rete e' definito mediante un indirizzo di rete specifico che puo' essere correlato ad un numero di contraente o ad un nome di contraente; per il servizio di comunicazioni mobili e personali il punto terminale di rete e' costituito dall'antenna fissa cui possono collegarsi via radio le apparecchiature terminali utilizzate dagli utenti del servizio;"; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la lettera z) e' sostituita dalla seguente: "z) rete locale: il circuito fisico che collega il punto terminale della rete a un permutatore o a un impianto equivalente nella rete pubblica fissa di comunicazione elettronica;"; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    la lettera aa) e' sostituita dalla seguente: "aa) rete pubblica di comunicazioni: una rete di comunicazione elettronica utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico, che supporta il trasferimento di informazioni tra i punti terminali di reti;"; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la lettera bb) e' soppressa; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    la lettera dd) e' sostituita dalla seguente: "dd) reti di comunicazione elettronica: i sistemi di trasmissione e, se del caso, le apparecchiature di commutazione o di instradamento e altre risorse, inclusi gli elementi di rete non attivi, che consentono di trasmettere segnali via cavo, via radio, a mezzo di fibre ottiche o con altri mezzi elettromagnetici, comprese le reti satellitari, le reti terrestri mobili e fisse (a commutazione di circuito e a commutazione di pacchetto, compresa Internet), le reti utilizzate per la diffusione circolare dei programmi sonori e televisivi, i sistemi per il trasporto della corrente elettrica, nella misura in cui siano utilizzati per trasmettere i segnali, le reti televisive via cavo, indipendentemente dal tipo di informazione trasportato;"; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    la lettera ee) e' sostituita dalla seguente: "ee) risorse correlate: i servizi correlati, le infrastrutture fisiche e le altre risorse o elementi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, ovvero sono potenzialmente in grado di farlo, ivi compresi tra l'altro gli edifici o gli accessi agli edifici, il cablaggio degli edifici, le antenne, le torri e le altre strutture di supporto, le guaine, i piloni, i pozzetti e gli armadi di distribuzione;"; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    la lettera hh) e' sostituita dalla seguente: "hh) servizio telefonico accessibile al pubblico: un servizio reso accessibile al pubblico che consente di effettuare e ricevere direttamente o indirettamente, chiamate nazionali o nazionali e internazionali tramite uno o piu' numeri che figurano in un piano di numerazione dei servizi di comunicazione elettronica nazionale o internazionale;"; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    dopo la lettera qq) sono aggiunte, in fine, le seguenti: 
+ " qq-bis) BEREC: Organismo dei regolatori europei delle comunicazioni elettroniche; 
+ qq-ter) attribuzione di spettro radio: la designazione di una determinata banda di frequenze destinata ad essere utilizzata da parte di uno o piu' tipi di servizi di radiocomunicazione, se del caso, alle condizioni specificate; 
+ qq-quater) servizi correlati: i servizi correlati ad una rete di comunicazione elettronica o ad un servizio di comunicazione elettronica che permettono o supportano la fornitura di servizi attraverso tale rete o servizio, o sono potenzialmente in grado di farlo, compresi tra l'altro i servizi di traduzione del numero o i sistemi che svolgono funzioni analoghe, i sistemi di accesso condizionato e le guide elettroniche ai programmi, nonche' altri servizi quali quelli relativi all'identita', alla posizione e alla presenza.".
 
 ## Art. 2. — Principi generali
 
@@ -60,6 +186,60 @@ Il comma 1 dell'articolo 11 del decreto legislativo 1° agosto 2003, n. 259, e' 
 
 ## Art. 7. — Consolidamento del mercato interno per le comunicazioni elettroniche
 
+1.
+                        
+                            
+                                All'articolo 12 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2, e' sostituito dal seguente: "2. L'Autorita' contribuisce allo sviluppo del mercato interno collaborando con le Autorita' di regolamentazione degli altri Stati membri, con la Commissione e con il BEREC in modo trasparente al fine di assicurare la piena applicazione, in tutti gli Stati membri, delle disposizioni delle direttive europee recepite con il Codice. A tale scopo, l'Autorita' coopera in particolare con la Commissione e il BEREC per individuare i tipi di strumenti e le soluzioni piu' adeguate da utilizzare nell'affrontare determinati tipi di situazioni nel contesto del mercato."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3, e' sostituito dal seguente: "3. Salvo che sia diversamente previsto nelle raccomandazioni o negli orientamenti adottati dalla Commissione europea a norma dell'articolo 7-ter della direttiva 2002/21/CE, al termine della consultazione di cui all'articolo 11, qualora l'Autorita' intenda adottare un provvedimento che rientri nell'ambito degli articoli 18, 19, 42 o 45 e influenzi gli scambi tra Stati membri, rende accessibile, fornendone apposita documentazione, la proposta di provvedimento, adeguatamente motivata, contemporaneamente alla Commissione europea, al BEREC e alle Autorita' di regolamentazione degli altri Stati membri. L'Autorita' non puo' adottare il provvedimento prima che sia decorso il termine di un mese dalla predetta informativa."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4 dopo la parola: "rivedere" e' inserita la seguente: "tale"; dopo le parole: "qualora la Commissione europea ne faccia richiesta entro tale termine" sono inserite le seguenti: "quando la proposta di provvedimento"; dopo la lettera a) e' aggiunta, in fine, la seguente: "oppure"; prima delle parole: "influenzi gli scambi tra Stati membri" sono inserite le seguenti: "tale proposta"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 4 e' inserito il seguente: "4-bis. Qualora la Commissione europea adotti una decisione ai sensi dell'articolo 7, paragrafo 5, della direttiva 2002/21/CE, l'Autorita' modifica o ritira il progetto di misura entro sei mesi dalla predetta decisione.
+Se il progetto di misura e' modificato, l'Autorita' avvia una consultazione pubblica secondo le procedure di cui all'articolo 11 e notifica nuovamente il progetto di misura modificato alla Commissione europea conformemente al comma 3."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 5, e' sostituito dal seguente: "5. L'Autorita' tiene in massima considerazione le osservazioni delle Autorita' di regolamentazione di altri Stati membri, della Commissione europea e del BEREC e, salvo nei casi di cui al comma 4 e all'articolo 7, paragrafo 5, lettera a), della direttiva 2002/21/CE, adotta il provvedimento risultante e lo comunica alla Commissione europea."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il comma 5, e' inserito il seguente: "5-bis. L'Autorita' comunica alla Commissione e al BEREC tutte le misure definitive adottate che rientrano nell'articolo 12, comma 3."; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il comma 6, e' sostituito dal seguente: "6. In circostanze straordinarie l'Autorita', ove ritenga che sussistano motivi di urgenza per salvaguardare la concorrenza e tutelare gli interessi degli utenti, in deroga alla procedura di cui ai commi 3 e 4, puo' adottare adeguati provvedimenti temporanei cautelari aventi effetto immediato, in coerenza con le disposizioni del Codice. L'Autorita' comunica immediatamente tali provvedimenti, esaurientemente motivati, alla Commissione europea e alle Autorita' di regolamentazione degli altri Stati membri e al BEREC. La decisione dell'Autorita' di estendere il periodo di efficacia dei provvedimenti cosi' adottati o di renderli permanenti e' soggetta alla procedura di cui ai commi 3 e 4.".
+
 ## Art. 8. — Procedura per la coerente applicazione 
  delle misure correttive
 
@@ -74,6 +254,60 @@ Dopo l'articolo 12 del decreto legislativo 1° agosto 2003, n. 259, e' inserito 
  6. L'Autorita' puo' ritirare il progetto di misura in qualsiasi fase della procedura.".
 
 ## Art. 9. — Obiettivi e principi dell'attivita' di regolamentazione
+
+1.
+                        
+                            
+                                All'articolo 13 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 e' sostituito dal seguente: " 2. Salvo diversa disposizione dell'articolo 14 relativo alle frequenze radio, il Ministero e l'Autorita' nell'esercizio delle funzioni e dei poteri indicati nel Codice perseguono, ove possibile, il principio di neutralita' tecnologica, nel rispetto dei principi di garanzia della concorrenza e non discriminazione tra imprese."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4, le lettere a) e b) sono sostituite dalle seguenti:  " a) assicurando che gli utenti, compresi gli utenti disabili, quelli anziani e quelli che hanno esigenze sociali particolari ne traggano il massimo beneficio in termini di scelta, prezzi e qualita'; 
+ b) garantendo che non abbiano luogo distorsioni e restrizioni della concorrenza nel settore delle comunicazioni elettroniche, anche per la trasmissione di contenuti;"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lettera c) e' abrogata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 5, la lettera d) e' abrogata e la lettera e) e' sostituita dalla seguente: "e) collaborando con le Autorita' di regolamentazione degli altri Stati membri, con la Commissione europea e con il BEREC per garantire lo sviluppo di prassi regolamentari coerenti e l'applicazione coerente delle direttive europee recepite con il Codice;"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 6, la lettera e) e' sostituita dalla seguente: "e) prendendo in considerazione le esigenze degli utenti disabili, di quelli anziani e di quelli che hanno esigenze sociali particolari" e la lettera g) e' sostituita dalla seguente: "g) promuovendo la capacita' degli utenti finali di accedere ad informazioni e distribuirle o eseguire applicazioni e servizi di loro scelta."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il comma 6 e' inserito il seguente: 
+ " 6-bis. Il Ministero e l'Autorita', nel perseguire le finalita' programmatiche di cui ai commi 4, 5 e 6, applicano, nell'ambito delle rispettive competenze, principi regolamentari obiettivi, trasparenti, non discriminatori e proporzionati: 
+ a) promuovendo la prevedibilita' regolamentare, garantendo un approccio regolatorio coerente nell'arco di opportuni periodi di revisione; 
+ b) garantendo che, in circostanze analoghe, non vi siano discriminazioni nel trattamento delle imprese che forniscono reti e servizi di comunicazione elettronica; 
+ c) salvaguardando la concorrenza a vantaggio dei consumatori e promuovendo se del caso la concorrenza basata sulle infrastrutture; 
+ d) promuovendo investimenti efficienti e innovazione in infrastrutture nuove e avanzate, anche garantendo che qualsiasi obbligo di accesso tenga debito conto del rischio sostenuto dalle imprese e consentendo accordi di cooperazione tra investitori e parti richiedenti accesso, al fine di diversificare il rischio di investimento, assicurando nel contempo la salvaguardia della concorrenza nel mercato e del principio di non discriminazione; 
+ e) tenendo debito conto delle differenti condizioni attinenti alla concorrenza e al consumo, nelle diverse aree geografiche all'interno del territorio nazionale; 
+ f) imponendo obblighi regolamentari ex ante unicamente dove non opera una concorrenza effettiva e sostenibile, e attenuandoli o revocandoli non appena sia soddisfatta tale condizione.".
 
 ## Art. 10. — Pianificazione strategica e coordinamento 
  della politica in materia di spettro radio
@@ -389,15 +623,116 @@ Dopo l'articolo 50 del decreto legislativo 1° agosto 2003, n. 259, sono inserit
 ## Art. 39. — Fornitura dell'accesso agli utenti finali 
  da una postazione fissa e fornitura di servizi telefonici
 
+1.
+                        
+                            
+                                All'articolo 54 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Fornitura dell'accesso agli utenti finali da una postazione fissa e fornitura di servizi telefonici"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. Qualsiasi richiesta ragionevole di connessione in postazione fissa a una rete di comunicazione pubblica e' soddisfatta quanto meno da un operatore. Il Ministero vigila sull'applicazione del presente comma."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 2 e' sostituito dal seguente: "2. La connessione consente agli utenti finali di supportare le comunicazioni vocali, facsimile e dati, a velocita' di trasmissione tali da consentire un accesso efficace a Internet tenendo conto delle tecnologie prevalenti usate dalla maggioranza dei contraenti e della fattibilita' tecnologica nel rispetto delle norme tecniche stabilite nelle Raccomandazioni dell'UIT-T."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 2 e' aggiunto il seguente: "2-bis. Qualsiasi richiesta ragionevole di fornitura di un servizio telefonico accessibile al pubblico attraverso la connessione di rete di cui al primo comma che consente di effettuare e ricevere chiamate nazionali e internazionali e' soddisfatta quanto meno da un operatore. Il Ministero vigila sull'applicazione del presente comma.".
+
 ## Art. 40. — Elenco abbonati e servizi di consultazione
 
 All'articolo 55 del decreto legislativo 1° agosto 2003, n. 259, il comma 3 e' sostituito dal seguente: "3. In considerazione dell'esistenza sul mercato di diverse offerte in termini di disponibilita', qualita' e prezzo accessibile, fintantoche' il Ministero non riscontri il venir meno di tali condizioni, ai servizi di cui al comma 1 non si applicano gli obblighi di fornitura del servizio universale. Il Ministero verifica il permanere delle predette condizioni, sentiti gli operatori interessati, con cadenza semestrale.".
 
 ## Art. 41. — Telefoni pubblici a pagamento e altri punti di accesso pubblico alla telefonia vocale
 
+1.
+                        
+                            
+                                All'articolo 56 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Telefoni pubblici a pagamento e altri punti di accesso pubblico alla telefonia vocale"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. Nel rispetto delle disposizioni emanate in materia dall'Autorita', le imprese mettono a disposizione telefoni pubblici a pagamento o altri punti di accesso pubblico alla telefonia vocale per soddisfare le esigenze ragionevoli degli utenti finali in termini di copertura geografica, numero di apparecchi o di altri punti di accesso e loro accessibilita' per gli utenti disabili, nonche' di qualita' del servizio. Il Ministero vigila sull'applicazione delle disposizioni del presente comma"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 2 e' sostituito dal seguente: " 2. In applicazione delle disposizioni di cui al comma 1 il Ministero entro il 31 dicembre 2012 e comunque ogni 12 mesi, previa consultazione dei soggetti interessati ai sensi dell'articolo 83, individua le localizzazioni nelle quali i servizi di cui al comma medesimo o servizi analoghi sono ampiamente disponibili e per le quali pertanto non possono essere prescritti obblighi ai fini di cui al comma stesso, anche in considerazione dell'esistenza sul mercato di offerte diverse in termini di sostituibilita' e disponibilita'.".
+
 ## Art. 42. — Misure destinate agli utenti finali disabili
 
+1.
+                        
+                            
+                                All'articolo 57 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Misure destinate agli utenti finali disabili"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. A meno che alla Sezione III del presente Capo, siano previsti requisiti che conseguono l'effetto equivalente, l'Autorita' adotta misure specifiche per garantire che gli utenti finali disabili fruiscano di un accesso, ad un prezzo accessibile, ai servizi individuati all'articolo 54, comma 2-bis, e all'articolo 55 che sia di livello equivalente a quello di cui beneficiano gli altri utenti finali.
+L'Autorita' valuta la necessita' generale e i requisiti specifici di tali misure specifiche per gli utenti finali disabili, comprese la loro portata e forma concreta."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2 e' aggiunto il seguente: "2-bis. Nell'adottare le misure di cui ai commi 1 e 2, l'Autorita' favorisce la conformita' con le pertinenti norme o specifiche pubblicate secondo il disposto degli articoli 20, 21 e 22 del Codice.".
+
 ## Art. 43. — Accessibilita' delle tariffe
+
+1.
+                        
+                            
+                                All'articolo 59 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. L'Autorita' vigila sull'evoluzione e il livello delle tariffe al dettaglio dei servizi che, in base agli articoli da 54 a 57, sono soggetti agli obblighi di servizio universale e forniti dalle imprese designate oppure sono disponibili sul mercato, qualora non sia designata alcuna impresa per la fornitura di tali servizi, con particolare riguardo ai prezzi al consumo e al reddito dei consumatori."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: "2. L'Autorita' puo' prescrivere che le imprese designate ai sensi dell'articolo 58 propongano ai consumatori opzioni o formule tariffarie diverse da quelle proposte in normali condizioni commerciali, in particolare per garantire che i consumatori a basso reddito o con esigenze sociali particolari non siano esclusi dall'accesso alla rete di cui all'articolo 54, comma 1, o dall'uso dei servizi individuati all'articolo 54, comma 2-bis, e agli articoli 55, 56 e 57, soggetti agli obblighi di servizio universale e forniti dalle imprese designate.".
 
 ## Art. 44. — Qualita' del servizio fornito dalle imprese designate
 
@@ -409,6 +744,24 @@ L'articolo 66 del decreto legislativo 1° agosto 2003, n. 259, e' abrogato.
 
 ## Art. 46. — Controlli normativi sui servizi al dettaglio
 
+1.
+                        
+                            
+                                All'articolo 67 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. L'Autorita', qualora in esito all'analisi del mercato realizzata a norma dell'articolo 19 del Codice accerti che un determinato mercato al dettaglio identificato conformemente all'articolo 18 non e' effettivamente concorrenziale e giunga alla conclusione che gli obblighi previsti dagli articoli da 46 a 50 non portino al conseguimento degli obiettivi di cui all'articolo 13, impone i necessari obblighi alle imprese identificate come imprese che dispongono di un significativo potere di mercato su un dato mercato al dettaglio ai sensi dell'articolo 17."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' abrogato.
+
 ## Art. 47. — Controlli sull'insieme minimo di linee affittate
 
 L'articolo 68 del decreto legislativo 1° agosto 2003, n. 259, e' abrogato.
@@ -419,11 +772,161 @@ L'articolo 69 del decreto legislativo 1° agosto 2003, n. 259, e' abrogato.
 
 ## Art. 49. — Contratti
 
+1.
+                        
+                            
+                                All'articolo 70 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Contratti e esercizio del diritto di recesso"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ " 1. Fermo restando le disposizioni di cui al decreto-legge 31 gennaio 2007, n.7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40, i consumatori ed altri utenti finali che ne facciano richiesta, hanno diritto di stipulare contratti con una o piu' imprese che forniscono servizi di connessione ad una rete di comunicazione pubblica o servizi di comunicazione elettronica accessibile al pubblico. Il contratto indica almeno, in modo chiaro, dettagliato e facilmente comprensibile: 
+ a) la denominazione e la sede dell'impresa; 
+ b) i servizi forniti, ed in particolare: 
+ 1) se viene fornito o meno l'accesso ai servizi di emergenza e alle informazioni sulla localizzazione del chiamante e se esistono eventuali restrizioni alla fornitura di servizi di emergenza di cui all'articolo 76; 
+ 2) informazioni su eventuali altre condizioni che limitano l'accesso o l'utilizzo di servizi e applicazioni; 
+ 3) i livelli minimi di qualita' del servizio offerti, compresa la data dell'allacciamento iniziale e, ove opportuno, altri parametri di qualita' del servizio, quali definiti dall'Autorita'; 
+ 4) informazioni sulle procedure poste in essere dall'impresa per misurare e strutturare il traffico in un collegamento di rete nel rispetto del diritto di scelta nonche' del diritto alla protezione dei dati personali dell'utente onde evitare la saturazione della rete e il superamento dei limiti di capienza, e informazioni sulle eventuali ripercussioni sulla qualita' del servizio riconducibili a tali procedure; 
+ 5) eventuali restrizioni imposte dal fornitore all'utilizzo delle apparecchiature terminali fornite. 
+ c) i tipi di servizi di manutenzione offerti e i servizi di assistenza alla clientela forniti, nonche' le modalita' per contattare tali servizi; 
+ d) qualora esista un obbligo ai sensi dell'articolo 75, la scelta del contraente di far includere o meno i suoi dati personali in un elenco e i dati di cui trattasi; 
+ e) il dettaglio dei prezzi e delle tariffe, nonche' le modalita' secondo le quali possono essere ottenute informazioni aggiornate in merito a tutte le tariffe applicabili e a tutti i costi di manutenzione, alle modalita' di pagamento e ad eventuali differenze di costo ad esse legate; 
+ f) la durata del contratto, le condizioni di rinnovo e di cessazione dei servizi e del contratto compresi: 
+ 1) ogni utilizzo minimo o durata richiesti per beneficiare di condizioni promozionali; 
+ 2) i diritti e gli obblighi inerenti la portabilita' dei numeri o di altri identificatori; 
+ 3) eventuali commissioni dovute alla scadenza del contratto, compresi gli eventuali costi da recuperare in relazione all'apparecchiatura terminale. 
+ g) le disposizioni relative all'indennizzo e al rimborso applicabili qualora non sia raggiunto il livello di qualita' del servizio previsto dal contratto; 
+ h) il modo in cui possono essere avviati i procedimenti di risoluzione delle controversie ai sensi dell'articolo 84; 
+ i) i tipi di azioni che l'impresa puo' adottare in risposta a incidenti o minacce alla sicurezza o all'integrita' e alle vulnerabilita'."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' sostituito dal seguente: "3. L'Autorita' puo' richiedere che il contratto contenga ogni informazione che possa essere fornita a tal fine dalle autorita' competenti sull'utilizzo delle reti e servizi di comunicazione elettronica per attivita' illegali e per la diffusione di contenuti dannosi, e sugli strumenti di tutela dai rischi per la sicurezza personale, la vita privata e i dati personali di cui all'articolo 71, comma 2-quater, e relativi al servizio fornito."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 4 e' sostituito dal seguente: "4. Il contraente, qualora non accetti le modifiche delle condizioni contrattuali da parte delle imprese che forniscono reti o servizi di comunicazione elettronica, ha diritto di recedere dal contratto senza penali ne' costi di disattivazione. Le modifiche sono comunicate al contraente con adeguato preavviso, non inferiore a trenta giorni, e contengono le informazioni complete circa l'esercizio del diritto di recesso.
+L'Autorita' puo' specificare la forma di tali comunicazioni."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 5, dopo la parola: "arrecare" sono inserite le seguenti: "danno ai minori"; dopo la parola: "privata" sono inserite le seguenti: "ovvero per finalita' abusive o fraudolente"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comma 6 dell'articolo 70 del decreto legislativo 1° agosto 2003, n. 259, e' abrogato.
+
 ## Art. 50. — Trasparenza e pubblicazione delle informazioni
+
+1.
+                        
+                            
+                                All'articolo 71 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. L'Autorita' assicura che le imprese che forniscono reti pubbliche di comunicazione elettronica o servizi accessibili al pubblico di comunicazione elettronica pubblichino informazioni trasparenti, comparabili, adeguate e aggiornate in merito ai prezzi e alle tariffe vigenti, a eventuali commissioni per la risoluzione del contratto e a informazioni sulle condizioni generali vigenti in materia di accesso e di uso dei servizi forniti agli utenti finali e ai consumatori, conformemente alle disposizioni dell'allegato n. 5. Tali informazioni sono pubblicate in forma chiara, esaustiva e facilmente accessibile.
+L'Autorita' puo' precisare ulteriori prescrizioni relative alla forma in cui tali informazioni devono essere pubblicate."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: "2. L'Autorita' promuove la fornitura di informazioni che consentano agli utenti finali e ai consumatori di valutare autonomamente il costo di modalita' di uso alternative, anche mediante guide interattive. Ove tali servizi non siano disponibili sul mercato a titolo gratuito o a un prezzo ragionevole, l'Autorita' provvede affinche' vengano resi disponibili o affida l'incarico a terzi. Questi ultimi hanno il diritto di utilizzare gratuitamente le informazioni pubblicate dalle imprese che forniscono reti o servizi di comunicazione elettronica accessibili al pubblico per vendere o rendere disponibili tali guide interattive o tecniche analoghe."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2 sono aggiunti, in fine, i seguenti: 
+ " 2-bis. Fermo restando le disposizioni di cui al decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40, l'Autorita' puo' imporre alle imprese che forniscono reti pubbliche di comunicazione elettronica o servizi di comunicazione elettronica accessibili al pubblico di, tra l'altro: 
+ a) fornire ai contraenti informazioni sulle tariffe in vigore riguardo a ogni numero o servizio soggetto a particolari condizioni tariffarie; per singole categorie di servizi l'Autorita' puo' esigere che tali informazioni siano fornite immediatamente prima della connessione al numero chiamato; 
+ b) informare i contraenti di eventuali modifiche all'accesso ai servizi di emergenza o alle informazioni sulla localizzazione del chiamante nell'ambito del servizio al quale si sono abbonati; 
+ c) informare i contraenti di ogni modifica alle condizioni che limitano l'accesso o l'utilizzo di servizi e applicazioni, ove siano ammesse dalla legislazione nazionale in conformita' del diritto dell'Unione europea; 
+ d) fornire informazioni sulle procedure poste in essere dal fornitore per misurare e strutturare il traffico in un collegamento di rete nel rispetto del diritto alla protezione dei dati personali dell'utente onde evitare la saturazione della rete e il superamento dei limiti di capienza, che indichino anche le eventuali ripercussioni sulla qualita' del servizio riconducibili a tali procedure; 
+ e) informare i contraenti del loro diritto a decidere se far inserire o meno i loro dati personali in un elenco e delle tipologie di dati di cui trattasi in materia di protezione dei dati personali e tutela della vita privata nel settore delle comunicazioni elettroniche; nonche'; 
+ f) comunicare regolarmente ai contraenti disabili le informazioni dettagliate su prodotti e servizi destinati a loro. 
+ 2-ter. Qualora lo ritenga opportuno, l'Autorita' puo', prima di imporre un obbligo, promuovere misure di auto-regolamentazione o co-regolamentazione. 
+ 2-quater. Le imprese di cui al comma 2-bis diffondono, all'occorrenza, informazioni gratuite di pubblico interesse agli attuali e nuovi contraenti tramite gli stessi canali normalmente utilizzati dalle imprese per le loro comunicazioni con i contraenti.
+In tal caso, dette informazioni sono fornite dall'Autorita' in forma standardizzata e riguardano fra l'altro: 
+ a) gli utilizzi piu' comuni dei servizi di comunicazione elettronica per attivita' illegali e per la diffusione di contenuti dannosi, in particolare quelli che possono attentare al rispetto degli altrui diritti e liberta'. Rientrano in questa categoria le violazioni del diritto d'autore e dei diritti connessi e le informazioni sulle conseguenze giuridiche di tali atti; nonche'; 
+ b) i mezzi di protezione contro i rischi per la sicurezza personale, per la vita privata e per i dati personali nella fruizione di servizi di comunicazione elettronica.".
 
 ## Art. 51. — Qualita' del servizio
 
+1.
+                        
+                            
+                                All'articolo 72 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. L'Autorita', dopo aver effettuato la consultazione di cui all'articolo 83, puo' prescrivere alle imprese fornitrici di reti o servizi di comunicazione elettronica accessibili al pubblico di pubblicare, a uso degli utenti finali, informazioni comparabili, adeguate ed aggiornate sulla qualita' dei servizi offerti e sulle misure adottate per assicurare un accesso equivalente per gli utenti finali disabili.
+Le informazioni sono comunicate, a richiesta, anche all'Autorita' prima della pubblicazione."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: "2. L'Autorita' puo' precisare, tra l'altro, i parametri di qualita' del servizio da misurare, nonche' il contenuto, la forma e le modalita' della pubblicazione, compresi meccanismi di certificazione della qualita', per garantire che gli utenti finali, inclusi gli utenti finali disabili, abbiano accesso ad informazioni complete, comparabili e di facile consultazione, anche utilizzando i parametri, le definizioni e i metodi di misura indicati nell'allegato n. 6."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2 sono aggiunti, in fine, i seguenti: 
+ " 2-bis. Per impedire il degrado del servizio e la limitazione o il rallentamento del traffico di rete, l'Autorita' puo' imporre prescrizioni in materia di qualita' minima del servizio all'impresa o alle imprese che forniscono reti di comunicazione pubbliche. 
+ 2-ter. L'Autorita' fornisce alla Commissione europea, con largo anticipo rispetto alla fissazione delle prescrizioni di cui al comma 2-bis, una sintesi delle ragioni alla base dell'intervento, le misure previste e l'impostazione proposta. Dette informazioni sono rese disponibili anche al BEREC. 
+ 2-quater. Nel deliberare sulle prescrizioni di cui al comma 2-bis del presente articolo, l'Autorita' tiene nella massima considerazione le osservazioni o raccomandazioni eventualmente formulate dalla Commissione europea in esito alla comunicazione di cui al comma 2.".
+
 ## Art. 52. — Disponibilita' di servizi
+
+1.
+                        
+                            
+                                All'articolo 73 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Disponibilita' di servizi"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. Il Ministero stabilisce le misure necessarie per garantire la piu' ampia disponibilita' possibile dei servizi telefonici accessibili al pubblico forniti attraverso le reti pubbliche di comunicazioni, in caso di incidenti gravi di rete o nei casi di forza maggiore. Le imprese fornitrici di servizi telefonici accessibili al pubblico devono adottare tutte le misure necessarie per garantire l'accesso ininterrotto ai servizi di emergenza.".
 
 ## Art. 53. — Garanzia di accesso e di scelta equivalenti 
  per gli utenti finali disabili
@@ -436,6 +939,45 @@ Dopo l'articolo 73 del decreto legislativo 1° agosto 2003, n. 259, e' inserito 
 
 ## Art. 54. — Servizi di consultazione degli elenchi telefonici
 
+1.
+                        
+                            
+                                All'articolo 75 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Servizi di consultazione degli elenchi telefonici"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. L'Autorita' provvede affinche' sia rispettato il diritto degli abbonati ai servizi telefonici accessibili al pubblico ad essere inseriti negli elenchi di cui all'articolo 55, comma 1, lettera a), e le informazioni che li riguardano siano messe a disposizione dei fornitori di elenchi o di servizi di consultazione ai sensi del comma 2 del presente articolo."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2 le parole: "agli abbonati" sono sostituite dalle seguenti: "ai contraenti"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 3 e' sostituito dal seguente: "3. L'Autorita' provvede affinche' sia rispettato il diritto di tutti gli utenti finali dotati di un servizio telefonico accessibile al pubblico di accedere ai servizi di consultazione elenchi. A tal fine, l'Autorita' puo' imporre obblighi alle imprese che controllano l'accesso agli utenti finali per la fornitura di servizi di consultazione elenchi in conformita' alle disposizioni dell'articolo 55. Detti obblighi e condizioni sono obiettivi, equi, trasparenti e non discriminatori."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 4 e' sostituito dal seguente: "4. Gli utenti finali degli altri Stati membri hanno diritto di accedere direttamente ai servizi di consultazione elenchi abbonati di cui all'articolo 55 tramite chiamata vocale o SMS a norma dell'articolo 78.".
+
 ## Art. 55. — Disposizioni per favorire l'attuazione del numero di emergenza unico europeo
 
 Dopo l'articolo 75 del decreto legislativo 1° agosto 2003, n. 259, e' inserito il seguente: 
@@ -446,6 +988,49 @@ Ai componenti della commissione non spetta alcun compenso e rimborso spese.
 
 ## Art. 56. — Servizi di emergenza e numero 
  di emergenza unico europeo
+
+1.
+                        
+                            
+                                All'articolo 76 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Servizi di emergenza e numero di emergenza unico europeo"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. Il Ministero provvede affinche' tutti gli utenti finali dei servizi di cui al comma 1-bis, compresi gli utenti di telefoni pubblici a pagamento, possano chiamare gratuitamente i servizi di soccorso digitando il numero di emergenza unico europeo '112' e qualunque numero di emergenza nazionale. Le chiamate al numero di emergenza unico europeo '112' devono ricevere adeguata risposta ed essere trattate nel modo piu' conforme alla struttura dei servizi di soccorso. Tali chiamate ricevono risposte e un trattamento con la stessa rapidita' ed efficacia riservate alle chiamate al numero o ai numeri di emergenza nazionali, se questi continuano ad essere utilizzati. I numeri di emergenza nazionali sono stabiliti con decreto del Presidente del Consiglio dei Ministri, sentita l'Autorita' in merito alla disponibilita' dei numeri, e sono recepiti dall'Autorita' nel piano nazionale di numerazione dei servizi di comunicazione elettronica."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 1 e' inserito il seguente: "1-bis. Il Ministero, in consultazione con i fornitori dei servizi di emergenza, provvede affinche' sia garantito un accesso ai servizi di emergenza da parte delle imprese che forniscono un servizio di comunicazione elettronica che permette di effettuare chiamate nazionali verso uno o piu' numeri che figurano nel piano nazionale di numerazione dei servizi di comunicazione elettronica."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 3 e' sostituito dal seguente: "3. Il Ministero provvede che venga assicurata ai cittadini un'informazione adeguata in merito all'esistenza e all'uso del numero di emergenza unico europeo '112', in particolare attraverso iniziative rivolte specificamente alle persone che viaggiano da uno Stato membro all'altro."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 3 sono aggiunti, in fine, i seguenti: 
+ " 3-bis. Il Ministero provvede affinche' l'accesso per gli utenti finali disabili ai servizi di emergenza sia equivalente a quello degli altri utenti finali. Per assicurare che gli utenti finali disabili possano accedere ai servizi di emergenza mentre si trovano in Stati membri diversi dal proprio, le misure adottate a tal fine si basano quanto piu' possibile sulle norme o specifiche europee pubblicate conformemente all'articolo 17 della direttiva 2002/21/CE.
+Tali misure non impediscono al Ministero di adottare ulteriori prescrizioni al fine di perseguire gli obiettivi di cui al presente articolo. 
+ 3-ter. Il Ministero provvede affinche' le imprese interessate mettano gratuitamente a disposizione dell'autorita' incaricata delle chiamate di emergenza le informazioni sulla localizzazione del chiamante nel momento in cui la chiamata raggiunge tale autorita'.
+Cio' si applica altresi' per ogni chiamata al numero di emergenza unico europeo '112'. Il Ministero estende tale obbligo alle chiamate a numeri di emergenza nazionali. Il Ministero definisce i criteri per l'esattezza e l'affidabilita' delle informazioni fornite sulla localizzazione del chiamante.".
 
 ## Art. 57. — Prefissi telefonici internazionali
 
@@ -463,9 +1048,99 @@ Dopo l'articolo 77 del decreto legislativo 1° agosto 2003, n. 259, e' inserito 
 
 ## Art. 59. — Accesso a numeri e servizi
 
+1.
+                        
+                            
+                                All'articolo 78 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Accesso a numeri e servizi"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ " 1. Ove cio' sia tecnicamente ed economicamente fattibile e salvo il caso in cui un contraente chiamato abbia scelto, per ragioni commerciali, di limitare l'accesso da parte di chiamanti ubicati in determinate zone geografiche, ovvero con riferimento ad accessi effettuati da numerazioni non geografiche l'Autorita' assume tutte le misure necessarie per assicurare che gli utenti finali siano in grado di: 
+ a) accedere e utilizzare i servizi associati a numeri non geografici appartenenti ai Piani di numerazione telefonica nazionali presenti all'interno dell'Unione europea; nonche'; 
+ b) accedere a tutti i numeri forniti nell'Unione europea, a prescindere dalla tecnologia e dai dispositivi utilizzati dall'operatore, compresi quelli dei piani di numerazione telefonica nazionali, quelli dello ETNS e i numeri verdi internazionali universali (UIFN)."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 1 e' aggiunto il seguente: 
+ " 1-bis. L'Autorita' puo' imporre alle imprese che forniscono reti pubbliche di comunicazione o servizi di comunicazione elettronica accessibili al pubblico di bloccare l'accesso a numeri o servizi caso per caso, ove cio' sia giustificato da motivi legati a frodi o abusi, e imporre che in simili casi i fornitori di servizi di comunicazione elettronica trattengano i relativi ricavi da interconnessione o da altri servizi.".
+
 ## Art. 60. — Fornitura di prestazioni supplementari
 
+1.
+                        
+                            
+                                All'articolo 79 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. Fatto salvo l'articolo 60, comma 2, l'Autorita', sentite le parti interessate, puo' obbligare gli operatori che forniscono servizi telefonici accessibili al pubblico o accesso a reti di comunicazione pubbliche a mettere a disposizione degli utenti finali le prestazioni elencate nell'allegato n. 4, parte B, se cio' e' fattibile sul piano tecnico e praticabile su quello economico, come pure, tutte o parte delle prestazioni supplementari elencate nell'allegato n. 4, parte A."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' abrogato.
+
 ## Art. 61. — Agevolare il cambiamento di fornitore
+
+1.
+                        
+                            
+                                All'articolo 80 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Agevolare il cambiamento di fornitore"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. L'Autorita' provvede affinche' tutti i contraenti con numeri appartenenti al piano nazionale di numerazione dei servizi di comunicazione elettronica che ne facciano richiesta conservino il proprio o i propri numeri indipendentemente dall'impresa fornitrice del servizio, a norma di quanto disposto all'allegato n. 4, parte C."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 2 e' abrogato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 3 e' sostituito dal seguente: "3. L'Autorita' provvede affinche' la tariffazione tra operatori o fornitori di servizi in relazione alla portabilita' del numero, qualora prevista, sia orientata ai costi e gli eventuali oneri diretti posti a carico dei contraenti non agiscano da disincentivo al cambiamento del fornitore di servizi da parte dei contraenti."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 4 sono aggiunti i seguenti: 
+ " 4-bis. L'Autorita' provvede affinche' il trasferimento dei numeri e la loro successiva attivazione sono effettuati nel piu' breve tempo possibile. In ogni caso, i contraenti che abbiano concluso un accordo per il trasferimento del proprio numero a una nuova impresa hanno diritto di ottenere l'attivazione del numero in questione entro un giorno lavorativo. 
+ 4-ter. Fatto salvo quanto previsto dal comma 1, l'Autorita' puo' stabilire il processo globale della portabilita' del numero, tenendo conto delle disposizioni nazionali in materia di contratti, della fattibilita' tecnica e della necessita' di assicurare al contraente la continuita' del servizio. In ogni caso, l'interruzione del servizio durante le operazioni di trasferimento non puo' superare un giorno lavorativo. L'Autorita' prende anche in considerazione, se necessario, misure che assicurino la tutela dei contraenti durante tutte le operazioni di trasferimento, evitando altresi' il trasferimento ad altro operatore contro la loro volonta'. L'Autorita' provvede affinche' siano previste sanzioni adeguate per le imprese, tra cui l'obbligo di risarcire i clienti in caso di ritardo nel trasferimento del numero o in caso di abuso di trasferimento da parte delle imprese o in nome di queste. 
+ 4-quater. L'Autorita' provvede affinche' i contratti conclusi tra consumatori e imprese che forniscono servizi di comunicazione elettronica non devono imporre un primo periodo di impegno iniziale superiore a 24 mesi. L'Autorita' provvede altresi' affinche' le imprese offrano agli utenti la possibilita' di sottoscrivere un contratto della durata massima di dodici mesi. 
+ 4-quinquies. L'Autorita' provvede affinche' le condizioni e le contratte modalita' di esercizio del diritto di recesso non agiscano da disincentivo al cambiamento di fornitore di servizi.".
 
 ## Art. 62. — Obblighi di trasmissione
 
@@ -475,7 +1150,52 @@ L'articolo 81 del decreto legislativo 1° agosto 2003, n. 259, e' sostituito dal
 
 ## Art. 63. — Consultazione dei soggetti interessati
 
+1.
+                        
+                            
+                                All'articolo 83 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. Fermo restando quanto disposto dall'articolo 11, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, tengono conto, attraverso meccanismi di consultazione pubblica, del parere degli utenti finali, dei consumatori, delle associazioni dei consumatori e degli utenti inclusi in particolare gli utenti disabili, delle aziende manifatturiere e delle imprese che forniscono reti o servizi di comunicazione elettronica nelle questioni attinenti ai diritti degli utenti finali e dei consumatori in materia di servizi di comunicazione elettronica accessibili al pubblico, in particolare quando hanno un impatto significativo sul mercato. In particolare, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, istituiscono un meccanismo di consultazione pubblica che garantisca che nell'ambito delle proprie decisioni sulle questioni attinenti a tutti i diritti degli utenti finali e dei consumatori in materia di servizi di comunicazione elettronica accessibili al pubblico si tenga adeguatamente conto degli interessi dei consumatori nelle comunicazioni elettroniche."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2 e' aggiunto il seguente: "2-bis. Ai fini della promozione degli obiettivi della politica culturale e dei media, quali ad esempio la diversita' culturale e linguistica e il pluralismo dei media, il Ministero e l'Autorita', nell'ambito delle rispettive competenze, promuovono la cooperazione fra le imprese fornitrici di reti o servizi di comunicazione elettronica e i settori interessati alla promozione di contenuti legittimi su tali reti e servizi. Tale cooperazione puo' includere il coordinamento delle informazioni di pubblico interesse da fornire a norma dell'articolo 71, comma 2-quater, e dell'articolo 70, comma 1 e 3.".
+
 ## Art. 64. — Risoluzione extragiudiziale delle controversie
+
+1.
+                        
+                            
+                                All'articolo 84 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ " 1. L'Autorita', ai sensi dell'articolo 1, commi 11, 12 e 13, della legge 31 luglio 1997, n. 249, adotta procedure extragiudiziali trasparenti, non discriminatorie, semplici e poco costose per l'esame delle controversie tra i consumatori e le imprese che forniscono reti o servizi di comunicazione elettronica, relative alle disposizioni di cui al presente Capo ed inerenti alle condizioni contrattuali o all'esecuzione dei contratti riguardanti la fornitura di tali reti o servizi. Tali procedure consentono una equa e tempestiva risoluzione delle controversie prevedendo, nei casi giustificati, un sistema di rimborso o di indennizzo, fermo restando la tutela giurisdizionale dei contraenti prevista dalla vigente normativa."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2 e' inserito il seguente: 
+ " 2-bis. Al di fuori delle forme di tutela e delle procedure stabilite dall'Autorita' ai sensi dei commi 1 e 2 l'interessato puo' rivolgersi all'Autorita' per rappresentare una violazione delle disposizioni nelle materie di competenza dell'Autorita' e richiederne l'intervento secondo le modalita' stabilite dall'Autorita'."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4, dopo le parole: "risoluzione giudiziale delle controversie" sono inserite le seguenti: "nonche' le procedure di cui agli articoli 139, 140, 140-bis del decreto legislativo 6 settembre 2005, n. 206, recante il Codice del consumo".
 
 ## Art. 65. — Notifica alla Commissione europea
 
@@ -487,6 +1207,34 @@ Il comma 2 dell'articolo 85 del decreto legislativo 1° agosto 2003, n. 259, e' 
 Al comma 1 dell'articolo 86 del decreto legislativo 1° agosto 2003, n. 259, dopo le parole: "adottano senza indugio" sono inserite le seguenti: "e, in ogni caso, entro sei mesi dalla richiesta, salvo per i casi di espropriazione," e dopo le parole: "rispettano procedure" sono inserite le seguenti: "semplici, efficaci,".
 
 ## Art. 67. — Coubicazione e condivisione di infrastrutture
+
+1.
+                        
+                            
+                                All'articolo 89 del decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: "1. Quando un operatore che fornisce reti di comunicazione elettronica ha il diritto di installare infrastrutture su proprieta' pubbliche o private ovvero al di sopra o al di sotto di esse, oppure puo' avvalersi di disposizioni in materia di limitazioni legali della proprieta', servitu' ed espropriazione di cui al presente Capo, l'Autorita', anche mediante l'adozione di specifici regolamenti, puo' imporre la condivisione di tali infrastrutture o proprieta', nel pieno rispetto del principio di proporzionalita', ivi compresi tra l'altro edifici o accesso a edifici, cablaggio degli edifici, piloni, antenne, torri e altre strutture di supporto, condotti, guaine, pozzetti e armadi di distribuzione."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: "2. Fermo quanto disposto in materia di coubicazione e condivisione di infrastrutture e di coordinamento di lavori dalla legge 1° agosto 2002, n. 166, e dal comma 3 del presente articolo, l'Autorita' puo' richiedere ed eventualmente imporre ai titolari dei diritti di cui al comma 1 di condividere le strutture o la proprieta', compresa la coubicazione fisica, o di adottare misure volte a facilitare il coordinamento di lavori pubblici per tutelare l'ambiente, la salute pubblica, la pubblica sicurezza o per realizzare obiettivi di pianificazione urbana o rurale e soltanto dopo un adeguato periodo di pubblica consultazione ai sensi dell'articolo 11 nel corso del quale tutte le parti interessate devono poter esprimere il proprio parere. Tali disposizioni su condivisione o coordinamento possono comprendere regole sulla ripartizione dei costi della condivisione delle strutture o delle proprieta'."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 5 sono aggiunti, in fine, i seguenti: 
+ " 5-bis. L'Autorita', previo adeguato periodo di consultazione pubblica nel corso del quale tutte le parti interessate hanno la possibilita' di esprimere le proprie opinioni, puo' imporre obblighi in relazione alla condivisione del cablaggio all'interno degli edifici o fino al primo punto di concentrazione o di distribuzione, qualora esso si trovi al di fuori dell'edificio, ai titolari dei diritti di cui al comma 1 o al proprietario di tale cablaggio, se cio' e' giustificato dal fatto che la duplicazione di tale infrastruttura sarebbe economicamente inefficiente o fisicamente impraticabile. Tra queste disposizioni in materia di condivisione o coordinamento possono rientrare norme sulla ripartizione dei costi della condivisione delle strutture o delle proprieta', adattate se del caso in funzione dei rischi. 
+ 5-ter. Il Ministero, tenendo informata l'Autorita', puo' richiedere alle imprese di fornire le informazioni necessarie per elaborare un inventario dettagliato della natura, disponibilita' e ubicazione geografica delle strutture di cui al comma 1, e metterlo a disposizione delle parti interessate e dell'Autorita' medesima. 
+ 5-quater. I provvedimenti adottati dall'Autorita' o dal Ministero conformemente al presente articolo sono obiettivi, trasparenti, non discriminatori e proporzionati.".
 
 ## Art. 68. — Divieto di imporre altri oneri
 
@@ -639,6 +1387,81 @@ Dopo l'allegato n. 26, del decreto legislativo 1° agosto 2003, n. 259, e' inser
 ## - Capo II NORME DI COORDINAMENTO DEL CODICE DELLE COMUNICAZIONI ELETTRONICHE
 
 ## Art. 80. — Norme integrative e di coordinamento
+
+1.
+                        
+                            
+                                Al decreto legislativo 1° agosto 2003, n. 259, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 6 dell'articolo 55 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1 dell'articolo 60 la parola: "abbonato" e' sostituita dalla seguente: "contraente"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 1 dell'articolo 82 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 3) dell'articolo 87 le parole: "denuncia di inizio attivita'", sono sostituite dalle seguenti: "segnalazione certificata di inizio attivita'"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 1 dell'articolo 87-bis le parole: "denuncia di inizio attivita'", sono sostituite dalle seguenti: "segnalazione certificata di inizio attivita'"; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 2 dell'articolo 90 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai commi 2 e 4 dell'articolo 94 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    al comma 6 dell'articolo 95 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico; 
+ i) al comma 2 dell'articolo 96 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ l) al comma 4 dell'articolo 99 le parole: "denuncia di inizio attivita'", sono sostituite dalle seguenti: "segnalazione certificata di inizio attivita'"; 
+ m) al comma 3 dell'articolo 101 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ n) al comma 5 dell'articolo 130 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ o) al comma 3 dell'articolo 162 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ p) al comma 1 dell'articolo 163 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ q) al comma 1 dell'articolo 166 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ r) al comma 2 dell'articolo 170 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ s) ai commi 5 e 7, dell'articolo 176, le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ t) al comma 1 dell'articolo 178 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ u) al comma 3 dell'articolo 185 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ v) al comma 1 dell'articolo 207 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ z) al comma 2 dell'articolo 208 le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ aa) alle lettere a), b) e c) del comma 2 dell'articolo 220, le parole: "Ministro delle comunicazioni" sono sostituite dalle seguenti: "Ministro dello sviluppo economico"; 
+ bb) la rubrica del Modello B dell'allegato n. 13 e' sostituita dalla seguente: "segnalazione certificata di inizio attivita'".
 
 ## Art. 81. — Disposizioni finanziarie
 

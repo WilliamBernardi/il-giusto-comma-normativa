@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2017-07-20;140
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,38 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro delle in
 Al comma 1-bis dell'appendice XI - articoli 255 e 256 al Titolo III del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e successive modificazioni, dopo le parole: «Sondrio SO» sono inserite le seguenti: «Sud Sardegna SU».
 
 ## Art. 2. — Disposizioni finali e transitorie
+
+1.
+                    
+                        
+                            Al comma 1-bis dell'appendice XI - articoli 255 e 256 al Titolo III del citato decreto del Presidente della Repubblica n. 495 del 1992, e successive modificazioni, sono soppresse le seguenti sigle di individuazione delle province: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Carbonia-Iglesias CI»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Medio Campidano VS»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Ogliastra OG»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Olbia-Tempio OT».
 
 I veicoli dotati di targhe di immatricolazione con le sigle delle province, di cui al comma 1, possono continuare a circolare fino a una nuova immatricolazione o fino alla cessazione dalla circolazione.
 

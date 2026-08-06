@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-06-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,13 +36,109 @@ L'attivita' dell'Istituto e' disciplinata, per quanto non previsto dalla legge e
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            L'Istituto, con riferimento all'attuazione delle politiche e dei programmi comunitari, nazionali e regionali, compresi quelli discendenti dalla programmazione negoziata, che investono il settore agricolo, delle foreste, della pesca, dell'acquacoltura e dell'alimentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                svolge, sulla base degli indirizzi del Ministro delle politiche agricole e forestali e di specifiche convenzioni, le funzioni riguardanti la rilevazione, l'elabarazione e la diffusione dei dati e delle informazioni che riguardano i mercati agricoli, forestali, ittici e alimentari, anche ai fini dell'attuazione degli adempimenti e degli obblighi derivanti dalla normativa comunitaria e dal Sistema statistico nazionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvede, nel rispetto dei principi di sicurezza alimentare, della biodiversita' e della ecocompatibilita', a supporti di ricerca, analisi e servizi informativi e per la commercializzazione, la valorizzazione e la promozione dei prodotti agricoli, ittici ed alimentari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                svolge, nel rispetto della programmazione regionale, le funzioni di cui al decreto legislativo 5 marzo 1948, n. 121, e successive modificazioni ed integrazioni, nonche' i compiti di organismo fondiario ai sensi dell'articolo 39 della legge 9 maggio 1975, n. 153; promuove e attua gli interventi di cui all'articolo 4, commi 3, 4 e 5 della legge 15 dicembre 1998, n. 441;
+
+                            
+                        
+                        
+                            d)
+                            
+                                costituisce, ai sensi dell'articolo 6, comma 5, del decreto legislativo 29 ottobre 1999, n. 419, forme di garanzia creditizia e finanziaria per strumenti e servizi informativi, assicurativi e finanziari alle imprese agricole ed alle loro forme associative, volti a ridurre i rischi inerenti alle attivita' produttive di mercato, a favorire il ricambio generazionale, a contribuire alla trasparenza e alla mobilita' del mercato fondiario rurale anche sulla base di programmi con le regioni e ai sensi dei regolamenti comunitari.
+
 ## Art. 3.
+
+1.
+                    
+                        
+                            Per il perseguimento delle finalita' di cui all'articolo 2, l'Istituto, anche sulla base di convenzioni con le amministrazioni pubbliche o con privati, svolge in particolare le seguenti attivita':
+ 
+                        
+                        
+                            a)
+                            
+                                rilevazione sistematica dei dati e delle informazioni nei settori di propria competenza relativi alle analisi strutturali, congiunturali e previsionali riguardanti la produzione, i mercati e i consumi in Italia e nell'Unione europea; nonche' elaborazione e divulgazione di dati informativi, anche in collaborazione con le altre fonti ufficiali esistenti nell'ambito del SIAN e del SISTAN, per gli operatori e per quanti svolgono attivita' di programmazione, monitoraggio e valutazione dell'intervento pubblico nei settori di competenza. In questo ambito, l'Istituto attua una sistematica divulgazione delle fonti informative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                erogazione di servizi e di supporti informativi finalizzati alla trasparenza del mercato ed a favorire l'organizzazione della produzione agricola per adattarla alla domanda, nonche' servizi per la riduzione dei costi di produzione, per la promozione e la commercializzazione delle produzioni agroalimentari e l'integrazione della filiera produttiva; le attivita' di supporto per la stipula di accordi interprofessionali e in materia di riconoscimento e vigilanza degli organismi nazionali associativi e di certificazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                operazioni di riordino fondiario ai sensi dell'articolo 4 della legge 15 dicembre 1998, n. 441, nonche' le attivita' intese a realizzare il miglioramento delle aziende ai sensi dell'articolo 30 della legge 26 maggio 1965, n. 590, in particolare la prestazione di garanzia fidejussoria nelle operazioni di credito agrario agevolato e la concessione di finanziamenti agevolati per l'attuazione di interventi di miglioramento agrario. Per l'esercizio delle funzioni statali relative alle predette attivita', continuano ad applicarsi all'Istituto le norme previste per le amministrazioni dello Stato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                assistenza tecnica e finanziaria per iniziative, in particolare, di innovazione tecnologica; orientamento e riconversione colturale con produzioni alternative e di valorizzazione dell'ambiente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gestione e attuazione di azioni volte a favorire la privatizzazione dei terreni pubblici suscettibili di utilizzazione agricola, di cui all'articolo 4, comma 4, della legge 23 dicembre 1999, n. 488.
 
 L'Istituto, nell'ambito delle proprie finalita' istituzionali, puo' svolgere, anche sulla base di convenzioni con le amministrazioni competenti, compiti di predisposizione, gestione, valutazione, monitoraggio, assistenza tecnica e verifica dei risultati di programmi di intervento comunitari, nazionali e regionali. Inoltre, l'Istituto puo' promuovere, partecipare ed attuare azioni volte ad attivare gli strumenti operativi previsti dalla programmazione negoziata, cosi' come definiti dalla delibera CIPE 11 novembre 1998, n. 127/98, pubblicata nella Gazzetta Ufficiale n. 4 del 7 gennaio 1999, e successive modifiche ed integrazioni.
 
 Per lo svolgimento di attivita' di particolare rilievo, l'Istituto puo' stipulare accordi di collaborazione con amministrazioni, enti, associazioni ed altre persone giuridiche, pubbliche o private, nazionali o internazionali. In particolare, l'Istituto puo' partecipare, anche su richiesta delle Amministrazioni e di altri organismi competenti, ad iniziative nell'ambito della cooperazione con altri Paesi.
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            Sono organi dell'Istituto:
+ 
+                        
+                        
+                            a)
+                            
+                                il Presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il Collegio sindacale.
 
 Il Presidente dell'Istituto e' nominato ai sensi dell'articolo 3 della legge 23 agosto 1988, n. 400. Il Presidente ha la rappresentanza legale dell'Istituto.
 
@@ -66,6 +162,38 @@ Entro tre mesi dalla data di entrata in vigore del presente regolamento, al pers
 
 Salvo quanto disposto dal comma 3, il personale di ruolo della Cassa per la formazione della proprieta' contadina, in servizio alla data di entrata in vigore del presente regolamento, e' inquadrato nell'ISMEA.
 
+5.
+                    
+                        
+                            Per gli adempimenti di cui al comma 4, l'Amministrazione si avvale di una commissione tecnica di inquadramento, nominata con decreto del Ministero delle politiche agricole e forestali, entro trenta giorni dalla data di entrata in vigore del presente decreto, e composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante ISMEA, con funzioni di presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante della Presidenza del Consiglio del Ministri, Dipartimento della funzione pubblica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante del Ministero delle politiche agricole e forestali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Ministero del tesoro, del bilancio e della programmazione economica.
+
 Nel termine di novanta giorni dalla nomina, la Commissione si pronuncia sulla corrispondenza tra i livelli dell'ISMEA e le aree Cassa, sull'identificazione concreta dei singoli profili professionali e su ogni altra questione attinente le operazioni di inquadramento. L'inquadramento e' disposto dal Consiglio di amministrazione previa consultazione delle organizzazioni sindacali.
 
 La Commissione ha altresi' il compito di elaborare un programma di attivita' di formazione e di aggiornamento del personale di cui al comma 4.
@@ -75,6 +203,59 @@ Ai dipendenti della Cassa per la formazione della proprieta' contadina, provenie
 Entro il termine di centottanta giorni dalla data di entrata in vigore del presente statuto deve essere adottato il regolamento di organizzazione e funzionamento, che dovra' prevedere, oltre la direzione generale, gli uffici dirigenziali nel numero massimo di dodici, ivi compresi l'ufficio per lo svolgimento delle funzioni di cui all'articolo 3, comma 1, lettera c), e l'ufficio per le relazioni con il pubblico, nonche' l'istituzione di un sistema di controlli interni coerente con i principi fissati dal decreto legislativo 30 luglio 1999, n. 286.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            Costituiscono entrate dell'Istituto:
+ 
+                        
+                        
+                            a)
+                            
+                                le assegnazioni a carico del bilancio dello Stato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i finanziamenti dell'Unione europea;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le rendite del proprio patrimonio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i corrispettivi per la cessione di servizi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli eventuali altri contributi dello Stato, delle Regioni e di altri enti pubblici o privati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'eventuale emissione di obbligazioni sui mercati italiani ed esteri sulla base delle disposizioni di cui alla legge 30 aprile 1999, n 130;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i proventi conseguenti ad atti di liberalita'.
 
 L'Istituto, ai sensi dell'articolo 6, comma 5, del decreto legislativo 29 ottobre 1999, n. 419, utilizza il proprio patrimonio per costituire forme di garanzia creditizia e finanziaria, assicurative e riassicurative, nonche' concedere finanziamenti a favore di imprese agricole.
 
@@ -92,7 +273,50 @@ Entro il termine di centottanta giorni dalla data di entrata in vigore del prese
 
 ## Art. 8.
 
+1.
+                    
+                        
+                            Sono soggetti all'approvazione del Ministero delle politiche agricole e forestali i seguenti atti deliberativi:
+ 
+                        
+                        
+                            a)
+                            
+                                il regolamento di amministrazione e di contabilita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                il bilancio annuale dell'Istituto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le proposte di modifica del presente statuto.
+
 Le deliberazioni di cui al comma 1, lettere a) e b), divengono esecutive se, nel termine di sessanta giorni dalla data di ricezione, il Ministero delle politiche agricole e forestali non ne disponga, con provvedimento motivato, l'annullamento per vizi di legittimita', o per ragioni attinenti al merito economico-finanziario, ovvero il rinvio all'Istituto per il riesame. Il Ministero delle politiche agricole e forestali puo' sospendere il suddetto termine per una sola volta e per un periodo di pari durata. Le delibere riesaminate dall'Istituto sono soggette unicamente a controllo di legittimita', limitatamente alle parti modificate. Le deliberazioni di cui alle lettere a) e b) sono approvate di concerto con il Ministero del tesoro, del bilancio e della programmazione economica.
 
 ## Art. 9.
+
+1.
+                    
+                        
+                            A far data dalla data di entrata in vigore del presente decreto sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto del Presidente della Repubblica 28 marzo 1987, n. 278;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Presidente della Repubblica 1o dicembre 1982, n. 1168.
 

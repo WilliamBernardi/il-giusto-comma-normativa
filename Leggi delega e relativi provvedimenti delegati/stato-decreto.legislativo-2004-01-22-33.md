@@ -8,8 +8,8 @@ codice_redazionale: 004G0054
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,24 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per i beni e le attivita' culturali, di concerto con il Ministro per gli affari regionali;
 
 ## Art. 1. — Trasformazione
+
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 29 gennaio 1998, n. 20, di seguito denominato «decreto», sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 sono soppresse le parole: «ed ha sede legale in Roma»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: «2-bis. La fondazione ha sede legale in Roma e sede amministrativa e operativa in Siracusa.».
 
 ## Art. 2. — Statuto
 
@@ -107,6 +125,31 @@ L'articolo 7 del decreto e' sostituito dal seguente:
  3. Le eventuali procedure di mobilita', conseguenti alla destinazione presso le sedi dell'Istituto, sono definite dal consiglio di amministrazione previo accordo con le organizzazioni sindacali piu' rappresentative.».
 
 ## Art. 8. — Disponibilita' finanziarie e gestione
+
+1.
+                    
+                        
+                            All'articolo 8 del decreto sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole: «con le modalita' di cui» sono inserite le seguenti: «all'articolo 12 della»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 sono soppresse le parole: «a partire dal 1° gennaio 1999»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4 le parole: «Autorita' di Governo competente in materia di spettacolo» sono sostituite dalle seguenti: «Ministero per i beni e le attivita' culturali», e le parole: «Ministero del tesoro, del bilancio e della programmazione economica» sono sostituite dalle seguenti: «Ministero dell'economia e delle finanze».
 
 ## Art. 9. — Vigilanza e amministrazione straordinaria
 

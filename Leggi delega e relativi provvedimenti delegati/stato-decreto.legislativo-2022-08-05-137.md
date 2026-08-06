@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,17 @@ Il presente decreto legislativo detta le disposizioni necessarie all'adeguamento
 ## Art. 2. — Definizioni
 
 Ai fini del presente decreto si applicano le definizioni contenute nell'articolo 2 del regolamento fatta salva, per le definizioni di cui ai numeri 18, 19, 20 e 21, l'applicazione delle eventuali nuove definizioni successivamente adottate dalla Commissione europea, con atti delegati ai sensi degli articoli 3 e 115 dello stesso regolamento.
+
+2.
+                    
+                        
+                            Ai fini del presente decreto si applica, altresi', la seguente definizione: 
+ 
+                        
+                        
+                            a)
+                            
+                                reclamo: comunicazione scritta, in formato elettronico o orale che dichiara carenze correlate a identita', qualita', durabilita', affidabilita', usabilita', sicurezza o prestazioni di un dispositivo medico o relative a un servizio che influisce sulle prestazioni di tali dispositivi medici.
 
 ## Art. 3.
 
@@ -137,6 +148,31 @@ In casi eccezionali di necessita' e urgenza, conformemente a quanto previsto dal
 
 Le istituzioni sanitarie, attraverso i competenti assessorati regionali, possono segnalare al Ministero della salute la necessita' dei dispositivi di cui al comma 3, che in mancanza di sostituti adeguati risultano indispensabili a garantire la salute pubblica o la sicurezza e salute dei pazienti.
 
+5.
+                    
+                        
+                            La richiesta di autorizzazione di cui al comma 3, presentata dal fabbricante: 
+ 
+                        
+                        
+                            a)
+                            
+                                identifica chiaramente il dispositivo, contiene la descrizione del dispositivo, della destinazione d'uso e le informazioni del fabbricante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indica i motivi per i quali la domanda stessa e' stata presentata, identifica circostanze eccezionali e imprevedibili per cui il fabbricante non ha potuto completare o iniziare la valutazione della conformita', dichiara e documenta l'indisponibilita' sul mercato di dispositivi alternativi marcati CE; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' accompagnata dalla segnalazione di cui al comma 4.
+
 Nella valutazione delle domande il Ministero della salute puo' avvalersi del supporto dell'Istituto Superiore di Sanita' e del Consiglio Superiore di Sanita'.
 
 Il Ministero della salute comunica la propria decisione in merito alla domanda di autorizzazione entro sessanta giorni dalla ricezione della stessa.
@@ -167,6 +203,59 @@ Gli operatori economici osservano le procedure indicate dall'articolo 31, paragr
 Banca dati europea 
  dei dispositivi medici «Eudamed»
 
+1.
+                    
+                        
+                            Il Ministero della salute, gli organismi notificati, gli operatori economici e gli sponsor inseriscono nella Banca dati dei dispositivi medici «Edamed» predisposta dalla Commissione ai sensi dell'articolo 33 del regolamento, i dati, secondo le disposizioni riguardanti i seguenti sistemi elettronici: 
+ 
+                        
+                        
+                            a)
+                            
+                                il sistema elettronico relativo alla registrazione dei dispositivi di cui all'articolo 29, paragrafo 4, del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la banca dati UDI di cui all'articolo 28 del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il sistema elettronico relativo alla registrazione degli operatori economici di cui all'articolo 30 del regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il sistema elettronico per gli organismi notificati e i certificati di cui all'articolo 57 del regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il sistema elettronico per le indagini cliniche di cui all'articolo 73 del regolamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il sistema elettronico per la vigilanza e la sorveglianza post-commercializzazione di cui all'articolo 92 del regolamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il sistema elettronico per la sorveglianza del mercato di cui all'articolo 100 del regolamento.
+
 Il Ministero della salute garantisce l'implementazione di misure informatiche che assicurino la connessione della banca dati «Eudamed» alle banche dati esistenti o in via di implementazione e il rispetto da parte degli operatori economici degli obblighi previsti dall'articolo 31, paragrafo 5, del regolamento.
 
 ## Art. 14. — Banca dati nazionale
@@ -178,6 +267,31 @@ In caso di modifica dei dati comunicati o di cessazione dell'attivita', il distr
 Fermo restando quanto previsto al comma 2, entro un anno dal conferimento delle informazioni di cui al comma 1, e successivamente ogni due anni, il distributore e' tenuto a confermare l'esattezza dei dati comunicati al Ministero della salute.
 
 Fermo restando quanto previsto all'articolo 16, paragrafo 4 del regolamento, i distributori e gli importatori che svolgono le attivita' di cui all'articolo 16, paragrafo 2, lettere a) e b), del medesimo articolo del regolamento conferiscono al Ministero della salute le informazioni e la documentazione relative ai dispositivi rietichettati e riconfezionati.
+
+5.
+                    
+                        
+                            Al fine di salvaguardare il livello informativo piu' completo, per le necessita' delle strutture del Servizio sanitario nazionale (SSN), inclusa l'acquisizione di dispositivi medici: 
+ 
+                        
+                        
+                            a)
+                            
+                                tutti gli operatori economici gia' registrati che intendono mettere a disposizione dispositivi medici al SSN, possono rendere disponibili nella banca dati nazionale i propri dati e i dati relativi ai dispositivi presenti in «Eudamed», identificati in conformita' al sistema UDI; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il fabbricante che intende mettere a disposizione o mettere in servizio per il SSN dispositivi medici, diversi dai dispositivi medici su misura, puo' conferire nella banca dati nazionale, le ulteriori informazioni relative ai dispositivi, qualora non disponibili in «Eudamed»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i soggetti che immettono sul mercato sistemi e kit procedurali ai sensi dell'articolo 22, paragrafi 1 e 3, del regolamento, possono conferire nella banca dati nazionale le ulteriori informazioni relative ai sistemi e kit che intendono mettere a disposizione del SSN.
 
 Il Ministero della salute stabilisce disposizioni relative alle modalita' di conferimento e aggiornamento delle informazioni di cui ai commi precedenti.
 
@@ -240,6 +354,31 @@ La sorveglianza sull'applicazione del presente decreto e' demandata al Ministero
 
 Il fabbricante, il mandatario e tutti gli altri operatori economici coinvolti nel procedimento di sorveglianza, sono tenuti ad improntare le proprie interlocuzioni con il Ministero della salute nel rispetto dei principi di correttezza, buona fede, lealta' e collaborazione, rispondendo alle richieste di accertamento di cui al presente articolo in modo puntuale, pertinente, tempestivo e completo.
 
+3.
+                    
+                        
+                            Gli accertamenti possono essere effettuati, anche con metodo a campione, presso gli operatori economici, i fornitori e i subfornitori o presso gli utilizzatori professionali. A tal fine e' consentito: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'accesso ai locali degli operatori economici, dei fornitori e dei subfornitori e alle strutture degli utilizzatori professionali, ai sensi dell'articolo 93, paragrafo 3, lettera b), del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'acquisizione della documentazione e di tutte le informazioni necessarie all'accertamento, ai sensi dell'articolo 93, paragrafo 3, lettera a), del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il prelievo di un campione o l'accesso ai dispositivi a titolo gratuito per l'esecuzione di esami e prove, ai sensi dell'articolo 93, paragrafo 3, lettera a), del regolamento.
+
 Per l'effettuazione degli accertamenti di cui al comma 3, lettera c), il Ministero della salute puo' avvalersi di organismi tecnici dello Stato o di laboratori accreditati per le prove richieste ai sensi dei pertinenti standard armonizzati, ove presenti.
 Qualora non presenti sul territorio italiano, il Ministero della salute puo' valutare l'opportunita' di rivolgersi a laboratori non accreditati per la specifica prova.
 
@@ -280,6 +419,45 @@ Qualora per il dispositivo medico siano previste dal fabbricante attivita' di ta
 
 ## Art. 22. — Valutazione delle tecnologie sanitarie
 
+1.
+                    
+                        
+                            Al fine di garantire l'azione coordinata dei livelli nazionale, regionali e delle aziende accreditate del SSN per il governo dei consumi dei dispositivi medici a tutela dell'unitarieta' del sistema, della sicurezza nell'uso della tecnologia e della salute dei cittadini e di garantire che i processi decisionali del SSN siano informati da evidenze scientifiche sul potenziale impatto clinico, organizzativo, economico, sociale, legale ed etico dell'introduzione nella pratica clinica di tecnologie sanitarie, nonche' al fine di introdurre specifiche classificazioni e condizioni di acquisto a carico del SSN per l'uso di dispositivi medici successivamente alla loro commercializzazione, il Ministero della salute fermo restando quanto previsto dall'articolo 1, comma 587, della legge 23 dicembre 2014, n. 190, per il tramite della Cabina di regia per l'Health Technology Assessment (HTA) istituita ai sensi dell'articolo 1 comma 587, lettera a), della legge n. 190 del 2014, promuove l'attuazione del Programma nazionale di HTA dei dispositivi medici. Alla realizzazione del Programma nazionale di HTA dei dispositivi medici concorre l'Agenzia nazionale per i servizi sanitari regionali (AGENAS) di cui all'articolo 5, comma 1, del decreto legislativo 30 giugno 1993, n. 266, che, anche mediante la stipula di convenzioni con enti pubblici e privati, svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                presentazione di proposte alla Cabina di regia, a fini di approvazione, per l'identificazione e valutazione precoce delle tecnologie sanitarie innovative riconosciute a potenzialmente elevato impatto clinico, economico, organizzativo e comunque in grado di rispondere alle esigenze assistenziali, anche emergenziali, espresse dal SSN; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                elaborazione degli indirizzi metodologici che verranno applicati per la produzione dei rapporti di valutazione tecnica multidimensionale nel Programma nazionale di HTA dei dispositivi medici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in coerenza con le indicazioni della Cabina di regia, realizzazione delle attivita' di valutazione tecnica multidimensionale e coordinamento delle attivita' dei soggetti iscritti nell'Albo nazionale dei Centri Collaborativi del Programma Nazionale di HTA dei dispositivi medici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipazione alla fase di elaborazione delle raccomandazioni sull'uso delle tecnologie valutate (appraisal), svolgendo compiti di coordinamento metodologico nell'ambito delle commissioni consultive che propongono alla Cabina di regia le Raccomandazioni, ai fini della loro adozione, e che sono costituite da esperti, delegati degli Enti istituzionali coinvolti e rappresentanti delle associazioni di portatori di interessi collettivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                in coerenza con le indicazioni della Cabina di regia, attivita' per la pubblicazione, la diffusione e la verifica degli impatti a livello nazionale degli esiti delle valutazioni di cui alla lettera c), secondo i metodi validati di cui alla lettera b), promuovendone l'utilizzo da parte delle regioni e delle aziende sanitarie per informare le decisioni in merito all'adozione e all'introduzione delle tecnologie sanitarie e al disinvestimento.
+
 Il Ministro della salute, su proposta tecnica dell'AGENAS approvata dalla Cabina di regia, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, adotta con decreto, entro centottanta giorni dalla data di entrata in vigore del presente decreto, il Programma nazionale HTA dei dispositivi medici, da aggiornarsi con cadenza triennale.
 
 Con accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, da adottare entro dodici mesi dalla data di entrata in vigore del presente decreto, sono stabilite le modalita' operative per rendere i procedimenti di acquisto piu' efficienti tenendo conto delle risultanze conseguenti all'esercizio delle funzioni di HTA, di cui all'articolo 1, comma 587, della legge 23 dicembre 2014, n. 190, nonche' sulla base degli obiettivi individuati dal Programma nazionale HTA.
@@ -310,6 +488,38 @@ Al fine di garantire la sicurezza dei dispositivi sul mercato e razionalizzare l
 ## Art. 26.
 
 Pubblicita'
+
+1.
+                    
+                        
+                            E' vietata la pubblicita' verso il pubblico dei seguenti dispositivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                dispositivi su misura di cui all'articolo 2, numero 3), del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dispositivi per il cui impiego e' prevista come obbligatoria, dalle norme vigenti, l'assistenza di un medico o di altro professionista sanitario; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dispositivi per il cui impiego e' prevista come obbligatoria, secondo le indicazioni del fabbricante, l'assistenza di un medico o di altro professionista sanitario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dispositivi medici la cui vendita al pubblico e' subordinata, dalle norme vigenti, alla prescrizione di un medico.
 
 Nell'interesse della salute pubblica o della sicurezza e salute dei pazienti, il Ministro della salute, con apposito decreto, puo' individuare ulteriori tipologie di dispositivi medici per i quali non e' consentita la pubblicita' presso il pubblico.
 
@@ -351,6 +561,31 @@ Salvo che il fatto costituisca reato, il distributore che viola le disposizioni 
 I fabbricanti che non si attengono agli obblighi connessi con il sistema UDI di cui all'articolo 27, paragrafi 3, 4, 5, 6 e 7, del regolamento, sono soggetti alla sanzione amministrativa pecuniaria da 8.150 euro a 48.500 euro. La stessa sanzione si applica agli operatori economici che non rispettano gli obblighi di registrazione di cui agli articoli 29 e 31 del regolamento, e a quelli che non rispettano gli obblighi di cui all'articolo 14, commi 1, 2, 3 e 4, del presente decreto.
 
 Salvo che il fatto costituisca reato, i fabbricanti di dispositivi su misura che non si attengono agli obblighi di registrazione di cui all'articolo 7, commi 1, 2 e 3, del presente decreto, sono soggetti alla sanzione amministrativa pecuniaria da 8.150 euro a 48.500 euro.
+
+14.
+                    
+                        
+                            Salvo che il fatto costituisca reato, il fabbricante o il mandatario che, in violazione dell'articolo 10, paragrafo 14, o dell'articolo 11, paragrafo 3, lettere d), e) e f), del regolamento, non fornisce all'autorita' competente tutte le informazioni e la documentazione necessaria per dimostrare la conformita' del dispositivo, che non garantisce l'accesso al dispositivo stesso, ovvero che non collabora con detta autorita' nell'adozione di azioni correttive al fine di eliminare o attenuare i rischi presentati dai dispositivi da essi immessi sul mercato o messi in servizio, e' soggetto alla sanzione amministrativa pecuniaria da 24.200 euro a 145.000 euro. Alla medesima sanzione amministrativa pecuniaria sono soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il mandatario che viola le previsioni di cui agli articoli 11, paragrafo 3, primo comma, secondo periodo, e 12, lettere c) e d), del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'importatore che viola le disposizioni di cui all'articolo 13, paragrafo 10, del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il distributore che viola le disposizioni di cui all'articolo 14, paragrafo 6, del regolamento.
 
 I fabbricanti che non corredano il dispositivo delle informazioni indicate nell'allegato I, punto 23, del regolamento, o che non redigono la sintesi relativa alla sicurezza e alla prestazione clinica di cui all'articolo 32 del regolamento, sono soggetti alla sanzione amministrativa pecuniaria da 20.000 euro a 112.000 euro. Alla medesima sanzione sono soggetti i fabbricanti che non rispettano le disposizioni dell'articolo 6, comma 2, del presente decreto.
 

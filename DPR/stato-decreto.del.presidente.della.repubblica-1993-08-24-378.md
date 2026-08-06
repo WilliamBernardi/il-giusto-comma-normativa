@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1996-07-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -93,6 +93,114 @@ Ai componenti dell'organo straordinario di liquidazione e' consentito, per l'esp
 
 ## Art. 5. — Competenze dell'organo straordinario di liquidazione
 
+1.
+                    
+                        
+                            L'organo straordinario di liquidazione ha le seguenti competenze: 
+ 
+                        
+                        
+                            a)
+                            
+                                definizione ed acquisizione del fondo cassa relativo alla gestione dei residui; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                istituzione del servizio di cassa della gestione di liquidazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL D.LGS. 25 FEBBRAIO 1995, N. 77, COME MODIFICATO DAL D.LGS. 11 GIUGNO 1996, N. 336)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                accertamento dell'indebitamento fuori bilancio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                inserimento d'ufficio nella massa passiva, per capitale, accessori e spese, dei debiti rinvenenti da procedure esecutive in corso al momento della deliberazione di dissesto e successive richieste al giudice dell'esecuzione di provvedimenti dichiarativi dell'estinzione dei procedimenti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                transazione delle vertenze; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                evidenziazione dei debiti di bilancio e fuori bilancio ammissibili alla procedura di liquidazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                evidenziazione dei debiti che non sono ammissibili alla procedura di liquidazione e relative segnalazioni; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                provvedimenti per l'accertamento e la riscossione dei residui attivi; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                individuazione ed alienazione del patrimonio disponibile; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                individuazione ed acquisizione delle attivita' che possono finanziare il piano di estinzione dei debiti; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                predisposizione del piano di rilevazione della massa passiva e di un successivo piano di estinzione, includendo anche le passivita' accertate successivamente al piano di rilevazione dei debiti;
+                            
+                        
+                        
+                            o)
+                            
+                                assunzione ed acquisizione del mutuo costituente il contributo erariale alla liquidazione; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                liquidazione e pagamento dei residui debiti, fino alla concorrenza della massa attiva realizzata;
+                            
+                        
+                        
+                            q)
+                            
+                                deliberazione del rendiconto della gestione.
+
 ((
 
 Non compete all'organo straordinario di liquidazione l'amministrazione dei residui attivi e passivi relativi ai fondi a gestione vincolata ed ai mutui passivi gia' attivati per investimenti, ivi compreso il pagamento delle relative spese.
@@ -105,6 +213,64 @@ Non compete all'organo straordinario di liquidazione l'amministrazione dei resid
 
 Il piano di rilevazione della massa passiva si compone di due parti: la massa passiva, ivi compresi gli oneri di liquidazione, e i debiti esclusi, allegati al piano stesso. Si conclude con la proposta di riparto.
 
+2.
+                    
+                        
+                            Fanno parte della massa passiva: 
+ 
+                        
+                        
+                            a)
+                            
+                                le somme di cui alla lettera a) del comma 3 dell'art. 6 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i crediti dell'ente di cui al comma 7, ultimo periodo, dell'art. 6 del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i debiti di cui alle lettere b), c), d), e), f), g) e h) di cui all'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77.
+
+3.
+                    
+                        
+                            Le schede di rilevazione delle singole partite debitorie devono contenere almeno: 
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' identificative del creditore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'importo del debito distinto per capitale ed accessori; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'oggetto dell'obbligazione e l'epoca in cui e' sorta la stessa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il tipo e gli estremi del documento che comprova il credito.
+Per le passivita' derivanti da forniture di beni e servizi, l'attestazione reca anche una valutazione sulla congruita' della prestazione resa, ove cio' sia possibile sulla base degli elementi disponibili.
+
 I medesimi elementi di cui al comma 3 devono essere richiesti per la presentazione delle domande di inserimento nel piano di rilevazione di cui all'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77.
 
 ## Art. 6. — ((Piano di estinzione))
@@ -115,7 +281,167 @@ Il piano di estinzione si compone di tre parti: la massa attiva, la massa passiv
 
 ))
 
+2.
+                    
+                        
+                            Fanno parte della massa attiva: 
+ 
+                        
+                        
+                            a)
+                            
+                                il fondo di cassa risultante al 31 dicembre dell'esercizio precedente alla deliberazione del dissesto, rettificato sulla base delle riscossioni dei residui attivi e, fino alla concorrenza della cassa, dei pagamenti di residui passivi, effettuati prima della deliberazione di dissesto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i crediti riportati tra i residui attivi dopo la revisione straordinaria degli stessi, esclusi quelli di cui al comma 6 del presente articolo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le quote di mutui residue e disponibili in quanto corrispondenti ad economie accertate rispetto alle somme mutuate, esclusi i mutui della Cassa depositi e prestiti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il ricavato della cessione di attivita' produttive non sufficientemente remunerative per l'ente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il ricavato della vendita di beni mobili non strettamente indispensabili per il disimpegno dei servizi d'istituto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il ricavato della vendita di beni immobili, se ed in quanto necessaria, tenuto conto degli introiti di cui alle lettere g) e h);
+                            
+                        
+                        
+                            g)
+                            
+                                il ricavato del mutuo a carico dello Stato;
+                            
+                        
+                        
+                            h)
+                            
+                                interessi attivi maturati sul conto bancario di cassa della gestione.
+
+3.
+                    
+                        
+                            Fanno parte della massa passiva: 
+ 
+                        
+                        
+                            a)
+                            
+                                le somme da restituire al comune per gia' avvenuto pagamento di residui passivi non portati in detrazione, come da comma 2, lettera a), del presente articolo; i debiti riportati nei residui passivi (anche perenti) rideterminati quali risultano nel complesso, per capitolo, dall'ultimo conto consuntivo approvato dal consiglio dell'ente o dal verbale di chiusura dell'esercizio precedente a quello della dichiarazione di dissesto, se non sono decorsi i termini per l'approvazione del conto consuntivo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i debiti di cui alle lettere b), c), d), e), f), g) e h) dell'art. 87, comma 3, del decreto legislativo 25 febbraio 1995, n. 77.
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 25 FEBBRAIO 1995, N. 77, COME MODIFICATO DAL D.LGS. 11 GIUGNO 1996, N. 336)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 25 FEBBRAIO 1995, N. 77, COME MODIFICATO DAL D.LGS. 11 GIUGNO 1996, N. 336)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 25 FEBBRAIO 1995, N. 77, COME MODIFICATO DAL D.LGS. 11 GIUGNO 1996, N. 336)). 
+ e-bis). debiti fuori bilancio sorti entro il 12 giugno 1990, non compresi nei provvedimenti di riconoscimento adottati dall'ente locale e riconosciuti legittimi dall'organo straordinario di liquidazione.
+
 Gli oneri di liquidazione sono costituiti dai compensi ai liquidatori, dai rimborsi di spese, dalle indennita' di missione e dalle spese per le eventuali consulenze esterne autorizzate.
+
+5.
+                    
+                        
+                            Sono esclusi dalla massa passiva: 
+ 
+                        
+                        
+                            a)
+                            
+                                i debiti fuori bilancio, anche se riconosciuti, ed i residui passivi, caduti in prescrizione ai sensi dell'art. 2934 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i debiti fuori bilancio che non siano suffragati dalle attestazioni dell'amministrazione ordinaria e da idonea documentazione ovvero da sola documentazione per i casi di cui alla lettera c) del comma 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i debiti fuori bilancio che non siano conseguenti a spese per l'esercizio di funzioni o servizi di competenza dell'ente per legge; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i debiti fuori bilancio relativi comunque a spese di rappresentanza, pranzi, ricevimenti, consumazioni o simili; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i debiti fuori bilancio maturati entro il 12 giugno 1990, non riconosciuti dal consiglio dell'ente entro il 15 luglio 1991 o dall'organo straordinario di liquidazione;
+                            
+                        
+                        
+                            f)
+                            
+                                i debiti fuori bilancio maturati dopo il 12 giugno 1990 per fattispecie diverse da quelle indicate all'articolo 12-bis, comma 4, del decreto-legge n. 6 del 1991, in quanto rientranti nell'ambito di applicazione dell'art. 23 del decreto-legge n. 66 del 1989; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 25 FEBBRAIO 1995, N. 77, COME MODIFICATO DAL D.LGS. 11 GIUGNO 1996, N. 336)); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                debiti per espropriazione di aree ricomprese nei piani di edilizia economico-popolare o di insediamenti produttivi, per le parti cedute o date in concessione superficiaria a enti o privati per la realizzazione di immobili, in tutti i casi nei quali l'ente sia in grado di adottare provvedimenti di recupero a carico degli acquirenti o concessionari.
 
 ((IL D.LGS. 25 FEBBRAIO 1995, N. 77, COME MODIFICATO DAL D.LGS. 11 GIUGNO 1996, N. 336, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 
@@ -131,6 +457,38 @@ Nella parte del piano relativa alla massa passiva, l'organo straordinario di liq
  - l'importo del debito per sorte capitale; 
  - l'importo del debito per interessi ed accessori; 
  - il totale del debito.
+
+10.
+                    
+                        
+                            In calce al piano di estinzione dei debiti il commissario o tutti i commissari straordinari di liquidazione rendono, sotto la propria personale responsabilita', la dichiarazione di rispetto delle disposizioni delle leggi e del presente decreto, assicurando: 
+ 
+                        
+                        
+                            a)
+                            
+                                che non sono compresi nella massa passiva debiti prescritti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                che non sono compresi nella massa passiva debiti ricadenti nei casi di esclusione previsti dal presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che i debiti ammessi alla massa passiva si riferiscono a spese per le quali e' stata accertata la necessita' per l'esercizio delle funzioni e dei servizi di competenza dell'ente locale per legge; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                che per i debiti ammessi e' stata acquisita la documentazione conforme alle prescrizioni ed ai modelli che fanno parte del presente decreto.
 
 Nella parte del piano relativo ai debiti esclusi, l'organo straordinario di liquidazione riporta gli elementi identificativi di cui al precedente comma 9 ed i motivi dell'esclusione.
 
@@ -153,6 +511,38 @@ L'organo straordinario di liquidazione delibera l'assunzione del mutuo a fronte 
 ## Art. 8. — Particolari condizioni di ammissibilita' di alcuni debiti
 
 I debiti nei confronti degli istituti assistenziali e previdenziali sono definiti dall'organo straordinario di liquidazione direttamente con gli enti interessati.
+
+2.
+                    
+                        
+                            I debiti per acquisizione di aree sono ammissibili alla liquidazione alle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'opera sia stata realizzata sulla base di progetti approvati dagli organi competenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non sia piu' possibile la retrocessione dell'immobile occupato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ente non abbia richiesto od ottenuto per la stessa opera altri finanziamenti in misura congrua; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'ammontare del debito sia comprovato sulla base di documentazione prodotta in conformita' alle tipologie individuate dall'art. 12, comma 4- bis, del decreto-legge 28 dicembre 1989, n. 415, convertito dalla legge 28 febbraio 1990, n. 38.
 
 Sono ammissibili alla liquidazione, se spettanti, solo i debiti per interessi e rivalutazione monetaria o altri oneri accessori maturati sino alla data di deliberazione del dissesto.
 
@@ -264,7 +654,145 @@ La deliberazione con la quale l'ente adotta l'ipotesi di bilancio e' soggetta al
 
 L'ipotesi di bilancio riequilibrato comprende anche l'ipotesi di relazione previsionale e programmatica per il triennio che ne costituisce allegato.
 
+4.
+                    
+                        
+                            L'ipotesi di bilancio e' formulata: 
+ 
+                        
+                        
+                            a)
+                            
+                                obbligatoriamente, sulla base della previsione di aumento delle imposte, delle tasse e dei canoni patrimoniali nella misura massima consentita dalla legge, con il recupero della base imponibile totalmente o parzialmente evasa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulla base del contributo erariale per l'allineamento alla me- dia dei contributi erariali dei comuni della stessa classe demografica, calcolata ad inizio dell'anno relativo all'ipotesi di bilancio, a norma dell'art. 25, comma 5, del decreto-legge n. 66 del 1989; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sulla base delle norme di legge relative al personale dipendente in eccedenza;
+                            
+                        
+                        
+                            d)
+                            
+                                sulla base dell'eliminazione dei servizi non indispensabili e del contenimento degli altri livelli di spesa entro limiti di prudenza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sulla base di rate di ammortamento conseguenti al consolidamento dell'esposizione debitoria con la Cassa depositi e prestiti ((e con altri soggetti esercenti attivita' creditizia)); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                sulla base di un contributo una tantum del Ministero dell'interno per il trattamento economico del personale posto in mobilita'; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                sulla base del contenimento delle perdite di gestione degli enti ed organismi dipendenti dall'ente locale nonche' delle aziende municipalizzate, provincializzate, consortili e speciali, entro limiti compatibili con il bilancio riequilibrato dell'ente e sino al definitivo risanamento della gestione degli enti, organismi ed aziende.
+
+5.
+                    
+                        
+                            Contestualmente alla deliberazione dell'ipotesi di bilancio, l'ente locale delibera: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'aumento di tutte le imposte e tasse (compreso il contributo per gli oneri di urbanizzazione) e di tutti i canoni patrimoniali alle misure massime stabilite dalla legge; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvedimenti di immediata applicazione tendenti ad eliminare ogni caso di evasione dei tributi e dei canoni patrimoniali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la rideterminazione della pianta organica con la riduzione della stessa entro il rapporto medio dipendenti/abitanti della fascia demografica di appartenenza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((IL D.LGS. 25 FEBBRAIO 1995, N. 77, COME MODIFICATO DAL D.LGS. 11 GIUGNO 1996, N. 336, HA CONFERMATO L'ABROGAZIONE DELLA PRESENTE LETTERA)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i provvedimenti relativi al risanamento economico-finanziario degli enti ed organismi dipendenti dall'ente locale nonche' delle aziende municipalizzate, provincializzate, consortili e speciali dell'ente, secondo le norme vigenti in materia.
+
 L'ipotesi di bilancio e' stabilmente riequilibrata quando viene assicurato un pareggio economico e finanziario che preveda ragionevoli rapporti tra le diverse componenti della spesa in modo che una o piu' di esse non ne comprimano altre, rendendo impossibile la copertura finanziaria dei servizi indispensabili.
+
+7.
+                    
+                        
+                            La presentazione al Ministro dell'interno dell'ipotesi di bilancio di cui al comma 1 si intende realizzata mediante il deposito dell'atto alla commissione di ricerca per la finanza locale operante presso il Ministero dell'interno - Direzione generale dell'Amministrazione civile, unitamente ai seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                relazione previsionale e programmatica, nella quale sia data dimostrazione della razionalizzazione dei servizi e della maggiore economicita' ed efficienza che si vuole raggiungere, con allegati i piani finanziari delle opere pubbliche realizzate negli ultimi tre anni o in corso di realizzazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                relazione del revisore o del collegio dei revisori dei conti, sull'ipotesi di bilancio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rapporto dell'ente ai fini dell'istruttoria dell'ipotesi di bilancio, redatto sul modello conforme all'allegato F al presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                deliberazioni di aumento dei tributi e dei canoni patrimoniali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                deliberazioni riguardanti la riorganizzazione dei servizi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                deliberazioni di rideterminazione della pianta organica e di mobilita' del personale.
 
 E' fatto obbligo all'ente di trasmettere gli estremi dell'esecutivita' della deliberazione e le eventuali modifiche apportate alla stessa su richiesta dell'organo regionale di controllo anche successivamente alla presentazione al Ministro dell'interno.
 

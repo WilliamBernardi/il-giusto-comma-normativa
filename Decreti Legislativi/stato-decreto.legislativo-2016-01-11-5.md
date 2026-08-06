@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-12-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,9 +29,326 @@ Il presente decreto stabilisce i requisiti per la progettazione e la fabbricazio
 
 ## Art. 2. — Ambito di applicazione
 
+1.
+                    
+                        
+                            Le disposizioni del presente decreto si applicano a: 
+ 
+                        
+                        
+                            a)
+                            
+                                imbarcazioni da diporto e imbarcazioni da diporto parzialmente completate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                natanti da diporto e natanti da diporto parzialmente completati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                moto d'acqua e moto d'acqua parzialmente completate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                componenti elencati all'allegato II se immessi sul mercato dell'Unione europea separatamente, in prosieguo denominati 'componenti'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                motori di propulsione installati o specificamente destinati ad essere installati su o in unita' da diporto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                motori di propulsione installati su o in unita' da diporto oggetto di una modifica rilevante del motore; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                unita' da diporto oggetto di una trasformazione rilevante.
+
+2.
+                    
+                        
+                            Le disposizioni del presente decreto non si applicano a: 
+ 
+                        
+                        
+                            a)
+                            
+                                per quanto riguarda i requisiti di progettazione e costruzione di cui all'allegato II, parte A, del decreto legislativo n. 171 del 2005 come sostituito dall' allegato I del presente decreto: 
+ 1) unita' da diporto destinate unicamente alle regate, comprese le unita' a remi e le unita' per l'addestramento al canottaggio, e identificate in tal senso dal fabbricante; 
+ 2) canoe e kayak progettati unicamente per la propulsione umana, gondole e pedalo'; 
+ 3) tavole da surf progettate unicamente per la propulsione eolica e per essere manovrate da una o piu' persone in piedi; 
+ 4) tavole da surf; 
+ 5) unita' storiche originali e singole riproduzioni di unita' da diporto storiche, progettate prima del 1950, ricostruite principalmente con i materiali originali e identificate in tal senso dal fabbricante; 
+ 6) unita' da diporto sperimentali, a condizione che non siano immesse sul mercato dell'Unione europea; 
+ 7) unita' da diporto costruite per uso personale, a condizione che non siano successivamente immesse sul mercato dell'Unione europea durante un periodo di cinque anni a decorrere dalla messa in servizio dell'unita' da diporto; 
+ 8) unita' da diporto specificamente destinate a essere dotate di equipaggio e a trasportare passeggeri a fini commerciali, fatto salvo quanto previsto al comma 3, indipendentemente dal numero di passeggeri; 
+ 9) sommergibili; 
+ 10) veicoli a cuscino d'aria; 
+ 11) aliscafi; 
+ 12) unita' da diporto a vapore a combustione esterna, alimentate a carbone, coke, legna, petrolio o gas; 
+ 13) mezzi anfibi, ossia veicoli a motore, su ruote o cingoli, in grado di operare sia sull'acqua sia sulla terraferma; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per quanto riguarda i requisiti relativi alle emissioni di scarico di cui all'allegato II, parte B, del decreto legislativo n. 171 del 2005 come sostituito dall' allegato I del presente decreto: 
+ 1) motori di propulsione installati o specificamente destinati a essere installati sui seguenti prodotti: 
+ 1.1) unita' da diporto destinate unicamente alle regate e identificate in tal senso dal fabbricante; 
+ 1.2) unita' da diporto sperimentali, a condizione che non siano immesse sul mercato dell'Unione europea; 
+ 1.3) unita' da diporto specificamente destinate a essere dotate di equipaggio e a trasportare passeggeri a fini commerciali, fatto salvo quanto previsto al comma 3, indipendentemente dal numero dei passeggeri; 
+ 1.4) sommergibili; 
+ 1.5) veicoli a cuscino d'aria; 
+ 1.6) aliscafi; 
+ 1.7) mezzi anfibi, ossia veicoli a motore, su ruote o cingoli, in grado di operare sia sull'acqua sia sulla terraferma; 
+ 2) motori originali e singole riproduzioni di motori di propulsione storici, basati su un progetto anteriore al 1950, non prodotti in serie e montati sulle unita' da diporto di cui alla lettera a) numeri 5) o 7); 
+ 3) motori di propulsione costruiti per uso personale, a condizione che non siano successivamente immessi sul mercato dell'Unione europea durante un periodo di cinque anni a decorrere dalla messa in servizio dell'unita' da diporto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per quanto riguarda i requisiti per le emissioni acustiche di cui all'allegato II, parte C, del decreto legislativo n. 171 del 2005 come sostituito dall' allegato I del presente decreto: 
+ 1) tutte le unita' da diporto di cui alla lettera b); 
+ 2) unita' da diporto costruite per uso personale, a condizione che non siano successivamente immesse sul mercato dell'Unione europea durante un periodo di cinque anni a decorrere dalla messa in servizio dell'unita' da diporto.
+
 Il fatto che la stessa unita' da diporto possa essere utilizzata anche per il noleggio o per l'addestramento o per attivita' sportive e ricreative non la esclude dall'ambito di applicazione del presente decreto quando e' immessa sul mercato dell'Unione europea ai fini di diporto.
 
 ## Art. 3. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                unita' da diporto: ogni costruzione destinata ad attivita' sportive o ricreative, classificabile come imbarcazione da diporto o natante da diporto o moto d'acqua; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                imbarcazione da diporto: un'unita' da diporto con lunghezza dello scafo superiore a dieci metri e fino a ventiquattro metri, indipendentemente dal mezzo di propulsione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                natante da diporto: un'unita' da diporto con lunghezza dello scafo compresa tra i due metri e cinquanta centimetri e i dieci metri, indipendentemente dal mezzo di propulsione e con esclusione delle moto d'acqua; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                moto d'acqua: un'unita' da diporto con lunghezza dello scafo inferiore a quattro metri, che utilizza un motore di propulsione con una pompa a getto d'acqua come fonte primaria di propulsione e destinata a essere azionata da una o piu' persone sedute, in piedi o inginocchiate sullo scafo, anziche' al suo interno; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                unita' da diporto costruita per uso personale: un'unita' da diporto costruita prevalentemente dal suo utente futuro per il proprio uso personale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                motore di propulsione: qualsiasi motore a combustione interna, ad accensione comandata o spontanea, utilizzato direttamente o indirettamente a fini di propulsione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                modifica rilevante del motore: la modifica di un motore di propulsione che potrebbe avere per effetto il superamento dei valori limite di emissione stabiliti all'allegato II, parte B, del decreto legislativo n. 171 del 2005 come sostituito dall' allegato I del presente decreto, o che determina un aumento superiore al quindici per cento della potenza nominale del motore; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                trasformazione rilevante dell'unita' da diporto: una trasformazione di un'unita' da diporto che ne modifica il mezzo di propulsione, che comporta una modifica rilevante del motore o che altera l'unita' da diporto in misura tale che potrebbe non soddisfare i requisiti essenziali applicabili in materia di sicurezza e ambiente previsti dal presente decreto; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                mezzo di propulsione: il metodo con cui e' assicurata la propulsione dell'unita' da diporto; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                famiglia di motori: il raggruppamento, effettuato dal fabbricante, di motori che, per la loro progettazione, presentano caratteristiche di emissione di gas di scarico o acustiche simili; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                lunghezza dello scafo: la lunghezza dello scafo misurata conformemente alla norma armonizzata; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                messa a disposizione sul mercato: la fornitura di un prodotto per la distribuzione, il consumo o l'uso sul mercato dell'Unione nel quadro di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                immissione sul mercato: la prima messa a disposizione di un prodotto sul mercato dell'Unione europea; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                messa in servizio: il primo impiego nell'Unione europea di un prodotto oggetto del presente decreto da parte del suo utilizzatore finale; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                fabbricante: qualsiasi persona fisica o giuridica che fabbrica un prodotto o lo fa progettare o fabbricare e lo commercializza sotto il proprio nome o marchio; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                rappresentante autorizzato: qualsiasi persona fisica o giuridica stabilita nell'Unione europea che ha ricevuto dal fabbricante un mandato scritto che la autorizza ad agire per suo conto in relazione a determinati compiti; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                importatore: qualsiasi persona fisica o giuridica stabilita nell'Unione europea che immette sul mercato dell'Unione europea un prodotto originario di un paese terzo; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                importatore privato: qualsiasi persona fisica o giuridica stabilita nell'Unione europea che importa nell'Unione europea, nel quadro di un'attivita' non commerciale, un prodotto originario di un paese terzo al fine della sua messa in servizio per uso proprio; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                distributore: qualsiasi persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall'importatore, che mette a disposizione sul mercato un prodotto; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                operatori economici: il fabbricante, il rappresentante autorizzato, l'importatore e il distributore; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                norma armonizzata: una norma armonizzata quale definita all'articolo 2, punto 1, lettera c), del regolamento (UE) n. 1025/2012; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                accreditamento: attestazione da parte di un organismo nazionale di accreditamento che certifica che un determinato organismo di valutazione della conformita' soddisfa i criteri stabiliti da norme armonizzate e, ove appropriato, ogni altro requisito supplementare, compresi quelli definiti nei rilevanti programmi settoriali, per svolgere una specifica attivita' di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                organismo nazionale di accreditamento: l'unico organismo autorizzato a svolgere attivita' di accreditamento; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                valutazione della conformita': la procedura atta a dimostrare se le prescrizioni del presente decreto relative ad un prodotto siano state rispettate; 
+
+                            
+                        
+                        
+                            dd)
+                            
+                                organismo di valutazione della conformita': un organismo notificato che svolge attivita' di valutazione della conformita', fra cui tarature, prove, certificazioni e ispezioni; 
+
+                            
+                        
+                        
+                            ee)
+                            
+                                richiamo: qualsiasi provvedimento volto a ottenere la restituzione di un prodotto che e' gia' stato messo a disposizione dell'utilizzatore finale; 
+
+                            
+                        
+                        
+                            ff)
+                            
+                                ritiro: qualsiasi provvedimento volto a impedire la messa a disposizione sul mercato di un prodotto nella catena di fornitura; 
+
+                            
+                        
+                        
+                            gg)
+                            
+                                vigilanza del mercato: le attivita' svolte e i provvedimenti adottati dalla competente autorita' per garantire che i prodotti siano conformi ai requisiti applicabili stabiliti nella normativa di armonizzazione dell'Unione europea e non pregiudichino la salute, la sicurezza o qualsiasi altro aspetto legato alla tutela dell'interesse pubblico; 
+
+                            
+                        
+                        
+                            hh)
+                            
+                                marcatura CE: una marcatura mediante cui il fabbricante indica che il prodotto e' conforme ai requisiti applicabili stabiliti nella normativa di armonizzazione dell'Unione europea che ne prevede l'apposizione; 
+
+                            
+                        
+                        
+                            ii)
+                            
+                                normativa di armonizzazione dell'Unione europea: la normativa dell'Unione europea che armonizza le condizioni di commercializzazione dei prodotti.
 
 ## Art. 4. — Requisiti essenziali
 
@@ -46,6 +363,31 @@ Possono essere messi a disposizione sul mercato o messi in servizio sul territor
 Possono essere messe a disposizione sul mercato le unita' da diporto parzialmente completate nel caso in cui il fabbricante o l'importatore dichiari, conformemente all'Allegato XV, che sono destinate ad essere completate da altri.
 
 Possono essere messi a disposizione sul mercato o messi in servizio i componenti di cui all'articolo 2, comma 1, lettera d), che soddisfino i requisiti di sicurezza indicati all'articolo 4 e che recano la marcatura CE di cui all'articolo 15, destinati ad essere incorporati in unita' da diporto conformemente alla dichiarazione del fabbricante o dell'importatore di cui all'articolo 14.
+
+4.
+                    
+                        
+                            Possono essere messi a disposizione sul mercato o messi in servizio i motori di propulsione: 
+ 
+                        
+                        
+                            a)
+                            
+                                motori, anche se non installati in unita' da diporto, che soddisfino i requisiti di sicurezza indicati all'articolo 4 e che recano la marcatura CE di cui all'articolo 15; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                motori installati in unita' da diporto e omologati conformemente alla direttiva 97/68/CE che sono conformi ai limiti di emissione della fase III A, della fase III B o della fase IV per i motori ad accensione spontanea (AS) utilizzati in applicazioni diverse dalla propulsione di navi della navigazione interna, di locomotive e di automotrici ferroviarie, come previsto all'allegato I, punto 4.1.2, di tale direttiva, conformi al presente decreto, ad esclusione dei requisiti relativi alle emissioni di scarico di cui all'allegato II, parte B, del decreto legislativo n. 171 del 2005 come sostituito dall'allegato I del presente decreto. 
+
+                            
+                        
+                        
+                            c)
+                            
+                                motori installati in unita' da diporto e omologati conformemente al regolamento (CE) n. 595/2009, conformi al presente decreto, ad esclusione dei requisiti relativi alle emissioni di cui all'allegato II, parte B, del decreto legislativo n. 171 del 2005 come sostituito dall'allegato I del presente decreto.
 
 Le lettere b) e c) del comma 4, si applicano a condizione che, in caso di adattamento di un motore ai fini dell'installazione in un'unita' da diporto, la persona che procede all'adattamento assicuri che quest'ultimo tenga pienamente conto dei dati e delle altre informazioni resi disponibili dal fabbricante del motore per garantire che, se installato secondo le istruzioni d'installazione fornite dalla persona che adatta il motore, quest'ultimo continuera' a soddisfare i requisiti relativi alle emissioni di scarico di cui alla direttiva 97/68/CE o al regolamento (CE) n. 595/2009, come dichiarato dal fabbricante del motore. La persona che adatta il motore dichiara, ai sensi dell'articolo 14, che il motore continuera' a soddisfare i requisiti relativi alle emissioni di scarico di cui alla direttiva 97/68/CE o al regolamento (CE) n. 595/2009, come dichiarato dal fabbricante del motore, se installato secondo le istruzioni di installazione da essa fornite.
 
@@ -76,6 +418,31 @@ I fabbricanti, a seguito di una richiesta motivata di un'autorita' nazionale com
 Un fabbricante puo', mediante mandato scritto, nominare un rappresentante autorizzato.
 
 Gli obblighi di cui all'articolo 6, comma 1, e l'elaborazione della documentazione tecnica non rientrano nel mandato del rappresentante autorizzato.
+
+3.
+                    
+                        
+                            Il rappresentante autorizzato esegue i compiti specificati nel mandato ricevuto dal fabbricante. Il mandato consente al rappresentante autorizzato almeno: 
+ 
+                        
+                        
+                            a)
+                            
+                                di tenere a disposizione delle autorita' nazionali di vigilanza una copia della dichiarazione di cui all'articolo 14 e la documentazione tecnica per dieci anni dalla data in cui il prodotto e' stato immesso sul mercato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a seguito di una richiesta motivata di un'autorita' nazionale competente, di fornire a quest'ultima tutte le informazioni e la documentazione necessarie per dimostrare la conformita' di un prodotto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di cooperare con le autorita' nazionali competenti, su loro richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dai prodotti che rientrano nel suo mandato.
 
 ## Art. 8. — Obblighi degli importatori
 
@@ -124,6 +491,24 @@ L'importatore privato provvede affinche' il nome e l'indirizzo dell'organismo no
 
 ## Art. 12. — Identificazione degli operatori economici
 
+1.
+                    
+                        
+                            Su richiesta, gli operatori economici identificano per le autorita' di vigilanza del mercato: 
+ 
+                        
+                        
+                            a)
+                            
+                                qualsiasi operatore economico che abbia fornito loro un prodotto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualsiasi operatore economico cui essi abbiano fornito un prodotto.
+
 Gli operatori economici sono in grado di presentare le informazioni di cui al comma 1 per un periodo di dieci anni dal momento in cui sia stato loro fornito il prodotto e per un periodo di dieci anni dal momento in cui essi abbiano fornito il prodotto.
 
 Gli importatori privati, su richiesta, indicano alle autorita' di vigilanza del mercato l'operatore economico che ha fornito loro il prodotto.
@@ -146,11 +531,100 @@ La dichiarazione di conformita' UE ha la struttura del modello di cui all'allega
 
 Redigendo la dichiarazione di conformita' UE, il fabbricante, l'importatore privato o la persona che adatta il motore di cui all'articolo 5, comma 4, lettere b) e c), si assume la responsabilita' della conformita' del prodotto.
 
+4.
+                    
+                        
+                            La dichiarazione di conformita' UE di cui al comma 3 accompagna i seguenti prodotti quando sono messi a disposizione sul mercato o messi in servizio: 
+ 
+                        
+                        
+                            a)
+                            
+                                unita' da diporto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                componenti immessi sul mercato separatamente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                motori di propulsione.
+
 La dichiarazione del fabbricante o dell'importatore di cui all'allegato XV per le unita' da diporto parzialmente completate contiene gli elementi specificati in tale allegato e accompagna le unita' da diporto parzialmente completate. Essa e' tradotta nella lingua o nelle lingue richieste dallo Stato membro sul cui mercato il prodotto e' messo a disposizione.
 
 ## Art. 15. — Principi generali della marcatura CE
 
+1.
+                    
+                        
+                            La marcatura CE, ai sensi dell'articolo 30 del regolamento CE n. 765/2008, e' soggetta ai seguenti principi generali: 
+ 
+                        
+                        
+                            a)
+                            
+                                la marcatura CE puo' essere apposta solo dal fabbricante, dal suo mandatario nonche' dai soggetti identificati agli articoli 10, 11, comma 1, e 18, commi 3 e 4, del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la marcatura CE e' apposta solo su prodotti per i quali la sua apposizione e' prevista dalla specifica normativa comunitaria di armonizzazione e non e' apposta su altri prodotti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                apponendo o avendo apposto la marcatura CE, i soggetti di cui alla lettera a) accettano di assumersi la responsabilita' della conformita' del prodotto a tutte le prescrizioni applicabili stabilite nella normativa comunitaria di armonizzazione pertinente che ne dispone l'apposizione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la marcatura CE e' l'unica marcatura che attesta la conformita' del prodotto alle prescrizioni applicabili della normativa comunitaria di armonizzazione pertinente che ne dispone l'apposizione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                e' vietata l'apposizione su un prodotto di marcature, segni o iscrizioni che possano indurre in errore terzi circa il significato della marcatura CE o il simbolo grafico della stessa.
+
 ## Art. 16. — Prodotti soggetti alla marcatura CE
+
+1.
+                    
+                        
+                            I seguenti prodotti sono soggetti alla marcatura CE quando sono messi a disposizione sul mercato o messi in servizio: 
+ 
+                        
+                        
+                            a)
+                            
+                                unita' da diporto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                componenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                motori di propulsione.
 
 I prodotti di cui al comma 1 che recano la marcatura CE si presumono che siano conformi al presente decreto.
 
@@ -177,6 +651,117 @@ Chiunque immetta sul mercato un'unita' da diporto costruita per uso personale pr
 
 ## Art. 19. — Progettazione e costruzione
 
+1.
+                    
+                        
+                            Per la progettazione e la costruzione delle imbarcazioni e dei natanti da diporto si applicano le procedure relative ai seguenti pertinenti moduli di cui agli allegati del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le categorie di progettazione A e B di cui all'allegato II, parte A, punto 1, del decreto legislativo n. 171 del 2005 come sostituito dall'allegato I del presente decreto: 
+ 1) per le imbarcazioni e i natanti da diporto con lunghezza dello scafo pari o superiore a 2,5 metri e inferiore a 12 metri, uno dei seguenti moduli: 
+ 1.1) modulo A1 (controllo interno della produzione unito a prove ufficiali del prodotto); 
+ 1.2) modulo B (esame UE per tipo) insieme al modulo C, D, E o F; 
+ 1.3) modulo G (conformita' basata sulla verifica dell'unita'); 
+ 1.4) modulo H (conformita' basata sulla garanzia qualita' totale); 
+ 2) per le imbarcazioni da diporto con lunghezza dello scafo compresa tra 12 e 24 metri, uno dei seguenti moduli: 
+ 2.1) modulo B (esame UE per tipo) insieme al modulo C, D, E o F, 
+ 2.2) modulo G (conformita' basata sulla verifica dell'unita'); 
+ 2.3) modulo H (conformita' basata sulla garanzia qualita' totale); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la categoria di progettazione C di cui all'allegato II, parte A, punto 1, del decreto legislativo n. 171 del 2005 come sostituito dall'allegato I del presente decreto: 
+ 1) per le imbarcazioni e i natanti da diporto con lunghezza dello scafo pari o superiore a 2,5 metri e inferiore a 12 metri, uno dei seguenti moduli: 
+ 1.1) se le norme armonizzate relative all' allegato II, parte A, punti 3.2 e 3.3, del decreto legislativo n. 171 del 2005 come sostituito dall'allegato I del presente decreto sono rispettate: modulo A (controllo interno della produzione), modulo A1 (controllo interno della produzione unito a prove ufficiali del prodotto), modulo B (esame UE per tipo) insieme al modulo C, D, E o F, modulo G (conformita' basata sulla verifica dell'unita') o modulo H (conformita' basata sulla garanzia qualita' totale); 
+ 1.2) se le norme armonizzate relative all' allegato II, parte A, punti 3.2 e 3.3, del decreto legislativo n. 171 del 2005 come sostituito dall'allegato I del presente decreto non sono rispettate: modulo A1 (controllo interno della produzione unito a prove ufficiali del prodotto), modulo B (esame UE per tipo) insieme al modulo C, D, E o F, modulo G (conformita' basata sulla verifica dell'unita') o modulo H (conformita' basata sulla garanzia qualita' totale); 
+ 2) per le imbarcazioni da diporto con lunghezza dello scafo compresa tra 12 e 24 metri, uno dei seguenti moduli: 
+ 2.1) modulo B (esame UE per tipo) insieme al modulo C, D, E o F; 
+ 2.2) modulo G (conformita' basata sulla verifica dell'unita'); 
+ 2.3) modulo H (conformita' basata sulla garanzia qualita' totale); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la categoria di progettazione D di cui all'allegato II, parte A, punto 1, del decreto legislativo n. 171 del 2005 come sostituito dall'allegato I del presente decreto: 
+ 1) per le imbarcazioni e i natanti da diporto con lunghezza dello scafo compresa tra 2,5 metri e 24 metri, uno dei seguenti moduli: 
+ 1.1) modulo A (controllo interno della produzione); 
+ 1.2) modulo A1 (controllo interno della produzione unito a prove ufficiali del prodotto); 
+ 1.3) modulo B (esame UE per tipo) insieme al modulo C, D, E o F; 
+ 1.4) modulo G (conformita' basata sulla verifica dell'unita'); 
+ 1.5) modulo H (conformita' basata sulla garanzia qualita' totale).
+
+2.
+                    
+                        
+                            Per quanto riguarda la progettazione e la costruzione di moto d'acqua si applica una delle procedure relative ai pertinenti moduli di cui agli allegati del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                modulo A (controllo interno della produzione); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                modulo A1 (controllo interno della produzione unito a prove ufficiali del prodotto); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                modulo B (esame UE per tipo) insieme al modulo C, D, E o F; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                modulo G (conformita' basata sulla verifica dell'unita'); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                modulo H (conformita' basata sulla garanzia qualita' totale).
+
+3.
+                    
+                        
+                            Per quanto riguarda la progettazione e la costruzione di componenti si applica una delle procedure relative ai pertinenti moduli di cui agli allegati del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                modulo B (esame UE per tipo) insieme al modulo C, D, E o F; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                modulo G (conformita' basata sulla verifica dell'unita'); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                modulo H (conformita' basata sulla garanzia qualita' totale).
+
 ## Art. 19-bis. — ((Compartimenti motori e motori alimentati con combustibili alternativi))
 
 ((
@@ -187,13 +772,162 @@ Il fabbricante o l'importatore di cui agli articoli 6 e 8 del presente decreto s
 
 I certificati e le dichiarazioni previste per le operazioni periodiche di ispezione, sostituzione e controllo previsti dalla regola tecnica di cui al comma 1 sono documenti di bordo.
 
+4.
+                    
+                        
+                            Con uno o piu' decreti da adottare in relazione alle specificita' dei diversi sistemi alternativi di propulsione di cui al comma 1, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, il Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dello sviluppo economico e il Ministro dell'ambiente e della tutela del territorio e del mare, disciplina: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'individuazione dei criteri della regola tecnica elaborata nel rispetto della normativa internazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le procedure connesse all'applicazione delle regole tecniche di cui al comma 1 alle unita' da diporto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i requisiti che deve possedere l'impresa installatrice di cui al comma 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'adozione da parte dell'impresa installatrice di un sistema di qualita' approvato da un organismo notificato e autorizzato ai fini della valutazione della conformita' dei sistemi di qualita' aziendali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' con cui l'organismo notificato di cui alla lettera d) effettua i controlli sul sistema di gestione della qualita' dell'impresa installatrice; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                procedure per l'immissione in commercio dei motori di propulsione di cui al comma 1, comprensive delle norme di sicurezza in materia; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                procedure per la conversione alle alimentazioni con gas di petrolio liquefatto, gas naturale liquefatto, metano ed elettrici o a doppia alimentazione delle unita' da diporto e dei relativi motori di propulsione gia' immessi sul mercato; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le operazioni di controllo periodico sugli impianti di cui al comma 1, nonche' l'istituzione di una apposita dichiarazione rilasciata dal personale preposto a tali controlli; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                le procedure per l'istituzione presso l'amministrazione competente di un elenco delle imprese installatrici; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'obbligo per le imprese installatrici di informare l'amministrazione competente del possesso dei requisiti di cui alla lettera c).
+
 ))
 
 ## Art. 20. — Emissioni di gas di scarico
 
+1.
+                    
+                        
+                            Riguardo all'emissione di gas di scarico, per i prodotti di cui all'articolo 2, comma 1, lettere ((e) ed f) )), il fabbricante del motore applica le procedure relative ai pertinenti moduli di cui agli allegati del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                se le prove sono effettuate applicando la norma armonizzata, uno dei seguenti moduli: 
+ 1) modulo B (esame UE per tipo) insieme al modulo C, D, E o F; 
+ 2) modulo G (conformita' basata sulla verifica dell'unita'); 
+ 3) modulo H (conformita' basata sulla garanzia qualita' totale). 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se le prove sono effettuate senza applicare la norma armonizzata, uno dei seguenti moduli: 
+ 1) modulo B (esame UE per tipo) unitamente al modulo C1 di cui all'allegato XVII del presente decreto; 
+ 2) modulo G (conformita' basata sulla verifica dell'unita').
+
 Nella valutazione di conformita' il fabbricante si attiene, altresi', a quanto previsto nell'allegato XIII del presente decreto.
 
 ## Art. 21. — Emissioni acustiche
+
+1.
+                    
+                        
+                            Per quanto riguarda le emissioni acustiche delle imbarcazioni e natanti da diporto dotati di motore di propulsione entrobordo o entrobordo con comando a poppa senza scarico integrato e delle imbarcazioni e natanti da diporto dotati di motore di propulsione entrobordo o entrobordo con comando a poppa senza scarico integrato oggetto di una trasformazione rilevante e successivamente immessi sul mercato entro cinque anni dalla trasformazione, il fabbricante applica le procedure relative ai pertinenti moduli di cui agli allegati del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                se le prove sono effettuate applicando la norma armonizzata per la misurazione del rumore, uno dei seguenti moduli: 
+ 1) modulo A1 (controllo interno della produzione unito a prove ufficiali del prodotto); 
+ 2) modulo G (conformita' basata sulla verifica dell'unita'); 
+ 3) modulo H (conformita' basata sulla garanzia qualita' totale); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se le prove sono effettuate senza applicare la norma armonizzata per la misurazione del rumore, il modulo G (conformita' basata sulla verifica dell'unita'); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se per la valutazione si utilizzano il numero di Froude e il rapporto potenza/dislocamento, uno dei seguenti moduli: 
+ 1) modulo A (controllo interno della produzione); 
+ 2) modulo G (conformita' basata sulla verifica dell'unita'); 
+ 3) modulo H (conformita' basata sulla garanzia qualita' totale).
+
+2.
+                    
+                        
+                            Per quanto riguarda le emissioni acustiche delle moto d'acqua, dei motori di propulsione fuoribordo e dei motori di propulsione entrobordo con comando a poppa con scarico integrato destinati all'installazione su imbarcazioni e natanti da diporto, il fabbricante della moto d'acqua o del motore applica le procedure relative ai pertinenti moduli di cui agli allegati del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                se le prove sono effettuate applicando la norma armonizzata per la misurazione del rumore, uno dei seguenti moduli: 
+ 1) modulo A1 (controllo interno della produzione unito a prove ufficiali del prodotto); 
+ 2) modulo G (conformita' basata sulla verifica dell'unita'); 
+ 3) modulo H (conformita' basata sulla garanzia qualita' totale); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se le prove sono effettuate senza applicare la norma armonizzata per la misurazione del rumore, il modulo G (conformita' basata sulla verifica dell'unita').
 
 Nella valutazione di conformita' il fabbricante si attiene, altresi', a quanto previsto nell'allegato XIII del presente decreto.
 
@@ -239,6 +973,24 @@ Il Ministero dello sviluppo economico informa la Commissione europea delle proce
 
 ## Art. 28. — Prescrizioni relative agli Organismi notificati
 
+1.
+                    
+                        
+                            Possono essere autorizzati ad espletare le procedure di valutazione di conformita' di cui agli articoli da 18 a 23 gli organismi per la valutazione della conformita' che soddisfano le seguenti prescrizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                hanno personalita' giuridica di diritto privato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono organismi terzi e indipendenti dall'organizzazione o dal prodotto che valuta.
+
 Un organismo appartenente a un'associazione di imprese o a una federazione professionale che rappresenti le imprese coinvolte nella progettazione, nella fabbricazione, nella fornitura, nell'assemblaggio, nell'utilizzo o nella manutenzione dei prodotti che esso valuta puo' essere considerato un organismo di tale tipo, a condizione che siano dimostrate la sua indipendenza e l'assenza di qualsiasi conflitto di interesse.
 
 L'organismo, i suoi alti dirigenti e il personale incaricato di svolgere le funzioni di valutazione della conformita', non sono ne' il progettista, ne' il fabbricante, ne' il fornitore, ne' l'installatore, ne' l'acquirente, ne' il proprietario, ne' l'utilizzatore o il responsabile della manutenzione dei prodotti che essi valutano ne' il rappresentante di uno di tali soggetti. Cio' non preclude l'uso dei prodotti valutati che sono necessari per il funzionamento dell'organismo di valutazione della conformita' o l'uso di tali prodotti per scopi privati.
@@ -250,6 +1002,77 @@ L'organismo garantisce che le attivita' delle affiliate o dei propri subappaltat
 L'organismo ed il proprio personale svolge le attivita' di valutazione della conformita' con il massimo grado di integrita' professionale e competenza tecnica richiesta nel campo specifico ed e' libero da qualsiasi pressione e incentivo, soprattutto di ordine finanziario, che possa influenzare il proprio giudizio o i risultati della propria attivita' di valutazione della conformita', in particolare da parte di persone o gruppi di persone interessati ai risultati di tali attivita'.
 
 L'organismo e' in grado di svolgere le funzioni di valutazione della conformita' a esso conferite dalle disposizioni degli articoli da 18 a 23, e per i quali e' stato notificato, indipendentemente dal fatto che tali funzioni siano svolte dall'organismo di valutazione della conformita' stesso oppure per suo conto e sotto la sua responsabilita'.
+
+8.
+                    
+                        
+                            L'organismo di valutazione della conformita', per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di prodotti per i quali e' stato notificato, dispone di: 
+ 
+                        
+                        
+                            a)
+                            
+                                personale necessario con conoscenze tecniche ed esperienza sufficiente ed appropriata per svolgere le funzioni di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                descrizioni adeguate delle procedure secondo le quali avviene la valutazione della conformita', garantendo la trasparenza e la riproducibilita' di tali procedure; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di una politica e procedure appropriate che distinguono le funzioni svolte in qualita' di organismo notificato dalle altre attivita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                procedure interne per svolgere le attivita' che tengano debitamente conto delle dimensioni dell'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia del prodotto in questione e della natura seriale o di massa del processo produttivo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                mezzi necessari per svolgere le funzioni tecniche ed amministrative connesse alle attivita' di valutazione della conformita' in modo appropriato ed accesso a tutti gli strumenti o impianti necessari.
+
+9.
+                    
+                        
+                            Il personale responsabile dell'esecuzione delle attivita' di valutazione della conformita' risponde ai seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                solida formazione tecnica e professionale per tutte le attivita' di valutazione della conformita' in relazione alle quali l'organismo di valutazione della conformita' e' stato notificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conoscenza e comprensione adeguate dei requisiti essenziali, delle norme armonizzate applicabili, della pertinente normativa di armonizzazione dell'Unione europea e della normativa nazionale applicabile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                capacita' di redigere certificati, verbali e relazioni atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei suoi alti dirigenti e del personale addetto alle valutazioni.
 
@@ -304,7 +1127,57 @@ L'autorizzazione e' rilasciata entro novanta giorni dalla data di presentazione 
 
 Il Ministero dello sviluppo economico, di concerto con il Ministero delle infrastrutture e dei trasporti, avvia l'attivita' istruttoria sulla documentazione che accompagna la domanda e pianifica gli audit da effettuarsi presso le sedi dell'organismo richiedente e di eventuali altri soggetti di cui all'articolo 30, per l'accertamento dei requisiti prescritti e di ogni altro elemento ritenuto necessario.
 
+3.
+                    
+                        
+                            Il Ministero dello sviluppo economico e il Ministero delle infrastrutture e dei trasporti, quali amministrazioni vigilanti: 
+ 
+                        
+                        
+                            a)
+                            
+                                svolgono le visite di sorveglianza periodica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                decidono sull'opportunita' di procedere, in ogni momento, congiuntamente o disgiuntamente, di propria iniziativa o a seguito di segnalazioni esterne, al controllo degli organismi per verificare le condizioni in base alle quali gli stessi hanno ottenuto l'autorizzazione, il mantenimento dei requisiti, il regolare svolgimento delle procedure e l'adempimento dei propri obblighi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                adottano i provvedimenti sanzionatori di cui al comma 5.
+
 L'autorizzazione agli organismi che presentano domanda ai sensi dell'articolo 31, comma 4, e' rilasciata dal Ministero dello sviluppo economico, di concerto con il Ministero delle infrastrutture e dei trasporti, con durata pari a quella del certificato di accreditamento.
+
+5.
+                    
+                        
+                            Nel caso siano poste in essere da parte dell'organismo notificato violazioni in merito al possesso dei requisiti di cui all'articolo 28, al regolare svolgimento delle procedure o all'adempimento delle proprie responsabilita', le amministrazioni vigilanti applicano una sanzione modulata in relazione alla gravita' della violazione commessa. La sanzione puo' consistere in: 
+ 
+                        
+                        
+                            a)
+                            
+                                richiamo scritto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sospensione parziale o totale dell'autorizzazione per un periodo variabile da tre mesi ad un anno in relazione alla gravita' dell'irregolarita' rilevata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                revoca dell'autorizzazione.
 
 In caso di sospensione o di revoca, il Ministero dello sviluppo economico, di concerto con il Ministero delle infrastrutture e dei trasporti, adotta un motivato provvedimento, e ne informa immediatamente la Commissione europea e gli altri Stati membri. Le Amministrazioni competenti adottano le appropriate misure affinche' le pratiche dell'organismo sospeso o revocato siano evase da un altro organismo notificato o siano messe a loro disposizione.
 
@@ -351,6 +1224,38 @@ Avverso i provvedimenti degli organismi notificati, i soggetti interessati posso
 
 ## Art. 37. — Obbligo di informazione a carico degli organismi notificati
 
+1.
+                    
+                        
+                            Gli organismi notificati informano il Ministero dello sviluppo economico e il Ministero delle infrastrutture e dei trasporti: 
+ 
+                        
+                        
+                            a)
+                            
+                                di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di qualunque circostanza che possa influire sull'ambito e sulle condizioni della notifica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di eventuali richieste pervenute da altre autorita' in relazione all'attivita' di valutazione della conformita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
+
 Gli organismi notificati forniscono agli altri organismi notificati a norma del presente decreto che esercitano attivita' di valutazione della conformita' simili che coprono gli stessi prodotti, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, ai risultati positivi delle valutazioni della conformita'.
 
 ## Art. 38. — Coordinamento degli organismi notificati
@@ -367,6 +1272,38 @@ La vigilanza sul mercato e il controllo dei prodotti e' demandata al Ministero d
 
 Al fine di garantire che i prodotti di cui all'articolo 2, comma 1, siano conformi ai requisiti applicabili stabiliti nell'allegato II del decreto legislativo n. 171 del 2005 come sostituito dall'allegato I del presente decreto, le amministrazioni vigilanti di cui al comma 2 hanno facolta' di disporre((...)) verifiche e controlli mediante i propri uffici centrali o periferici.
 
+4.
+                    
+                        
+                            Gli accertamenti possono essere effettuati, anche con metodo a campione, presso l'operatore economico, i depositi sussidiari dell'operatore economico, gli importatori privati o presso gli utilizzatori. A tale fine e' consentito: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'accesso ai luoghi di fabbricazione o di immagazzinamento dei prodotti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'acquisizione di tutte le informazioni necessarie all'accertamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                qualora necessario e giustificato, il prelievo temporaneo e a titolo gratuito di un singolo campione per l'esecuzione di esami e prove; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                effettuare esami e prove presso strutture tecniche specializzate, pubbliche o private.
+
 Al fine di agevolare l'attivita' di vigilanza e di verifica, i soggetti di cui agli articoli 6, 7, 8 e 11, in funzione dei rispettivi obblighi, rendono disponibili agli organi di vigilanza, per dieci anni, la documentazione indicata nell'allegato XVI del presente decreto.
 
 Ferma restando l'applicazione delle sanzioni di cui all'articolo 43, le amministrazioni vigilanti, quando, a seguito delle valutazioni di cui al comma 3, accertano la non conformita' dei prodotti di cui all'articolo 2, comma 1, alle disposizioni del presente decreto, dispongono agli operatori economici, in funzione dei rispettivi obblighi, di adottare tutte le misure idonee a far venire meno la situazione di non conformita', fissando un termine proporzionato alla natura del rischio.
@@ -381,6 +1318,24 @@ L'operatore economico assicura che siano adottate le opportune misure correttive
 L'importatore privato assicura che siano adottate le opportune misure correttive nei confronti del prodotto che ha importato nell'Unione europea per uso proprio.
 
 Qualora l'operatore economico interessato non adotti le misure correttive adeguate entro il termine di cui al comma 6, le autorita' di vigilanza del mercato adottano tutte le opportune misure provvisorie per proibire o limitare la messa a disposizione del prodotto, per ritirarlo o per richiamarlo dal mercato. Qualora l'importatore privato non adotti le misure correttive adeguate, le autorita' di vigilanza del mercato adottano tutte le opportune misure provvisorie per proibire la messa in servizio del prodotto o vietarne o limitarne l'uso nel territorio nazionale. Le autorita' di vigilanza del mercato informano immediatamente la Commissione e gli altri Stati membri di tali misure.
+
+12.
+                    
+                        
+                            Le informazioni di cui al comma 11 includono tutti gli elementi disponibili, in particolare i dati necessari per identificare il prodotto non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dall'operatore economico interessato o dall'importatore privato. In particolare, le autorita' di vigilanza del mercato indicano se la non conformita' sia dovuta: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla mancata rispondenza del prodotto alle prescrizioni relative alla salute o alla sicurezza delle persone e alla tutela delle cose o dell'ambiente previste dal presente decreto, o 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a carenze delle norme armonizzate di cui all'articolo 13 che conferiscono la presunzione di conformita'.
 
 Le amministrazioni vigilanti che ricevono comunicazione di procedure avviate ai sensi del presente articolo, informano la Commissione europea e gli altri Stati membri di tutti i provvedimenti adottati, di ogni informazione supplementare a loro disposizione sulla non conformita' del prodotto interessato e, in caso di disaccordo con la misura nazionale notificata, delle loro obiezioni.
 
@@ -399,6 +1354,59 @@ Se la misura e' ritenuta giustificata dalla Commissione europea e la non conform
 ## Art. 41.
 
 Non conformita' formale
+
+1.
+                    
+                        
+                            Fatto salvo l'articolo 39, l'Autorita' di vigilanza sul mercato chiede all'operatore economico interessato o all'importatore privato di porre fine allo stato di non conformita' in questione, nel termine perentorio di giorni sessanta, qualora ricorrano una o piu' delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la marcatura CE e' stata apposta in violazione degli articoli 15, 16 o 17; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la marcatura CE di cui all'articolo 16 non e' stata apposta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione di conformita' UE o la dichiarazione di cui all'allegato XV non e' stata redatta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la dichiarazione di conformita' UE o la dichiarazione di cui all'allegato XV non sono state redatte correttamente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la documentazione tecnica non e' disponibile o non e' completa; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le informazioni di cui agli articoli 6, comma 6, o 8, comma 3, sono assenti, false o incomplete; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                qualsiasi altra prescrizione amministrativa di cui agli articoli 6 o 8 non e' rispettata.
 
 Se la non conformita' di cui al comma 1 permane, l'autorita' di vigilanza sul mercato adotta tutte le opportune misure per limitare o proibire la messa a disposizione sul mercato del prodotto o garantisce che sia richiamato o ritirato dal mercato, a spese degli operatori economici in funzione dei rispettivi obblighi, oppure, nel caso di un prodotto importato da un importatore privato per uso proprio, che il suo uso sia vietato o limitato.
 

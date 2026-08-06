@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2008-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,31 @@ L'applicazione delle disposizioni di cui agli articoli 12 e 13 e' facoltativa pe
 Restano ferme le disposizioni di legge in ordine ai poteri delle autorita' di garanzia e di vigilanza.
 
 ## Art. 2. — Privatizzazione, trasformazione, fusione di enti
+
+1.
+                    
+                        
+                            Relativamente agli enti pubblici di cui alla tabella A allegata al presente decreto, con le modalita' di cui al comma 2, possono essere adottate, in esito ad istruttoria dei Ministeri competenti, comprensiva di consultazione degli enti stessi e di acquisizione di parere delle commissioni parlamentari competenti per materia, le seguenti misure di razionalizzazione:
+ 
+                        
+                        
+                            a)
+                            
+                                privatizzazione di enti, secondo le modalita' di cui all'articolo 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                trasformazione di enti in strutture scientifiche universitarie, alle condizioni e secondo le modalita' di cui all'articolo 4;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fusione o unificazione strutturale di enti appartenenti allo stesso settore di attivita', in conformita' ai criteri e secondo le modalita' di cui all'articolo 5.
 
 L'individuazione degli enti oggetto delle misure di cui al comma 1 e' effettuata con uno o piu' elenchi approvati, entro il 30 giugno 2001, con decreto del Presidente del Consiglio dei Ministri. La privatizzazione o la trasformazione degli enti decorre dal 1 gennaio 2002. (2) (3) (5) (6) ((9))
 
@@ -90,6 +115,45 @@ L'Istituto italiano di studi germanici puo', in ogni caso, ricevere contributi d
 ## Art. 5. — Fusione o unificazione strutturale di enti
 
 La fusione, ovvero l'unificazione (( strutturale )) degli enti di cui all'articolo 2, comma 1, lettera c), e' effettuata, con uno o piu' (( regolamenti da emanare ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, nel rispetto dei principi generali indicati dall'articolo 14, comma 1, della legge 15 marzo 1997, n. 59, ed in coerenza, per quanto compatibili, )) con i criteri direttivi di cui all'articolo 13 del presente decreto.
+
+2.
+                    
+                        
+                            I compiti istituzionali, l'organizzazione e il funzionamento (( della o delle strutture derivanti dalla fusione o unificazione, anche mediante inserimento in sistema strutturato a rete, degli istituti ed enti operanti nel campo della ricerca storica, sono determinati )) in conformita' ai seguenti ulteriori principi e criteri direttivi:
+ 
+                        
+                        
+                            a)
+                            
+                                attribuzione di funzioni di ricerca storica, con particolare riferimento alla storia d'Italia, e di compiti connessi relativi, tra l'altro, al coordinamento della ricerca, alla redazione di repertori, allo studio critico e alla pubblicazione delle fonti, all'osservatorio dell'insegnamento della storia, alla formazione in servizio degli insegnanti della scuola, all'organizzazione di incontri, convegni e settimane di studio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                adozione, per quanto compatibili, delle isposizioni sull'organizzazione e funzionamento in vigore per gli enti di ricerca non strumentali di competenza del Ministero dell'universita' e della ricerca scientifica e tecnologica, con facolta' di deroga alle norme dell'ordinamento contabile pubblico, nel rispetto dei relativi principi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                organizzazione della rete scientifica, prevedendo servizi e strutture comuni, nonche' attribuendo agli istituti e alle scuole annesse autonomia scientifica, finanziaria, organizzativa e contabile, con propri organi direttivi e di consulenza scientifica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                adozione di disposizioni transitorie in analogia a quanto previsto per l'Istituto nazionale di astrofisica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                finanziamento a carico del fondo di cui all'articolo 7, commi 1 e 2, del decreto legislativo 5 giugno 1998, n. 204, con trasferimento al fondo stesso dei contributi in atto fruiti.
 
 ## Art. 6. — Disposizioni relative a enti particolari
 
@@ -163,11 +227,157 @@ Gli enti pubblici ai quali si applica il presente decreto predispongono, entro l
 
 Il piano di cui al comma 1 e' trasmesso, entro trenta giorni, dal presidente dell'ente, previo parere del collegio dei revisori, all'amministrazione o istituzione vigilante ed al Ministero del tesoro, del bilancio e della programmazione economica. Il Ministero stesso riferisce annualmente al Parlamento sulla attuazione del presente articolo, indicando, sulla base anche di una analisi comparativa delle risultanze dei piani e dei relativi dati di spesa negli ultimi bilanci consuntivi degli enti, criteri di razionalizzazione e contenimento delle spese di allocazione e per servizi suscettibili di conduzione comune.
 
+3.
+                    
+                        
+                            Tenuto conto dei piani di revisione degli enti e della apposita relazione di cui al comma 2:
+ 
+                        
+                        
+                            a)
+                            
+                                i Ministri vigilanti, di concerto con il Presidente del Consiglio dei Ministri e con il Ministro del tesoro, del bilancio e della programmazione economica, impartiscono agli enti direttive, anche subordinando l'approvazione del bilancio preventivo o dei piani pluriennali degli enti alla realizzazione o alla programmazione delle riduzioni di spesa di cui al comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i revisori dei conti vigilano sulla adozione delle misure indicate.
+
 Nei confronti degli enti di cui al comma 1 che non abbiano predisposto, nei termini stabiliti, il piano di revisione per l'utilizzo degli immobili, i Ministri vigilanti adottano, ovvero propongono al Ministro del tesoro, del bilancio e della programmazione economica una riduzione, sino al venti per cento, dei contributi ordinari previsti nel bilancio preventivo dello Stato.
 
 ## Art. 13. — Revisione statutaria
 
+1.
+                    
+                        
+                            Le amministrazioni dello Stato che esercitano la vigilanza sugli enti pubblici cui si applica il presente decreto promuovono, con le modalita' stabilite per ogni ente dalle norme vigenti, la revisione degli statuti. La revisione adegua gli statuti stessi alle seguenti norme generali, regolatrici della materia:
+ 
+                        
+                        
+                            a)
+                            
+                                attribuzione di poteri di programmazione, indirizzo e relativo controllo strategico:
+ 1) al presidente dell'ente, nei casi in cui il carattere monocratico dell'organo e' adeguato alla dimensione organizzativa e finanziaria o rispondente al prevalente carattere tecnico dell'attivita' svolta o giustificato dall'inerenza di quest'ultima a competenze conferite a regioni o enti locali;
+ 2) in mancanza dei presupposti di cui al n. 1), ad un organo collegiale, denominato consiglio di amministrazione, presieduto dal presidente dell'ente e composto da un numero di membri variabile da due a otto, in relazione al rilievo ed alle dimensioni organizzative e finanziarie dell'ente, fatta salva l'ipotesi della gratuita' degli incarichi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                previsione della nomina dei componenti del consiglio di amministrazione dell'ente, con decreto del Ministro vigilante, tra esperti di amministrazione o dei settori di attivita' dell'ente, con esclusione di rappresentanti del Ministero vigilante o di altre amministrazioni pubbliche, di organizzazioni imprenditoriali e sindacali e di altri enti esponenziali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ridefinizione dei poteri di vigilanza secondo criteri idonei a garantire l'effettiva autonomia dell'ente, ferma restando l'attribuzione all'autorita' di vigilanza del potere di approvazione dei bilanci e rendiconti, nonche', per gli enti finanziati in misura prevalente con trasferimenti a carico di bilanci pubblici, di approvazione dei programmi di attivita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                previsione, quando l'ente operi in materia inerente al sistema regionale o locale, di forme di intervento degli enti territorialmente interessati, o della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ovvero della Conferenza unificata di cui al decreto legislativo 28 agosto 1998, n. 281, tali comunque da assicurare una adeguata presenza, negli organi collegiali, di esperti designati dagli enti stessi e dalla Conferenza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuale attribuzione di compiti di definizione del quadro programmatico generale o di sorveglianza, ovvero di funzioni consultive, a organi assembleari, composti da esperti designati da amministrazioni e organizzazioni direttamente interessate all'attivita' dell'ente, ovvero, per gli enti a vocazione scientifica o culturale, composti in prevalenza da docenti o esperti del settore;
+
+                            
+                        
+                        
+                            f)
+                            
+                                determinazione del compenso eventualmente spettante ai componenti degli organi di amministrazione, ordinari o straordinari, con decreto del Ministro competente, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, sulla base di eventuali direttive del Presidente del Consiglio dei Ministri; determinazione, con analogo decreto, di gettoni di presenza per i componenti dell'organo assembleare, salvo rimborso delle spese di missione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                attribuzione al presidente dell'ente di poteri di rappresentanza esterna e, negli enti con organo di vertice collegiale, di poteri di convocazione del consiglio di amministrazione; previsione, per i soli enti di grande rilievo o di rilevante dimensione organizzativa o finanziaria e fatta salva l'ipotesi della gratuita' degli incarichi, di un vicepresidente, designato tra i componenti del consiglio; previsione che il presidente possa restare in carica, di norma, il tempo corrispondente a non piu' di due mandati;
+
+                            
+                        
+                        
+                            h)
+                            
+                                previsione di un collegio dei revisori composto di tre membri, ovvero cinque per gli enti di notevole rilievo o dimensione organizzativa o finanziaria, uno dei quali in rappresentanza di autorita' ministeriale egli altri scelti tra iscritti al registro dei revisori contabili o tra persone in possesso di specifica professionalita'; previsione di un membro supplente, ovvero due negli enti di notevole rilievo o dimensione organizzativa o finanziaria;
+
+                            
+                        
+                        
+                            i)
+                            
+                                esclusione del direttore generale dal novero degli organi dell'ente ed attribuzione allo stesso, nonche' ad altri dirigenti dell'ente, di poteri coerenti al principio di distinzione tra attivita' di indirizzo e attivita' di gestione, di cui al decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni; previsione della responsabilita' dei predetti dirigenti per il conseguimento dei risultati previsti dal consiglio di amministrazione, o organo di vertice, con riferimento, ove possibile, all'assegnazione delle relative risorse finanziarie (budget di spesa) predeterminate nell'ambito del bilancio;
+
+                            
+                        
+                        
+                            l)
+                            
+                                istituzione, in aggiunta all'organo di revisione, di un sistema di controlli interni, coerente con i principi fissati dal decreto legislativo 30 luglio 1999, n. 286;
+
+                            
+                        
+                        
+                            m)
+                            
+                                istituzione di un ufficio per le relazioni con il pubblico, ai sensi dell'articolo 12 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni;
+
+                            
+                        
+                        
+                            n)
+                            
+                                determinazione del numero massimo degli uffici dirigenziali e dei criteri generali di organizzazione dell'ente, in coerenza alle esigenze di speditezza, efficienza ed efficacia dell'azione amministrativa, rinviando la disciplina dei residui profili organizzativi, in funzione anche delle dimensioni dell'ente, a regolamenti interni, eventualmente soggetti all'approvazione dell'autorita' di vigilanza, ovvero ad altri atti organizzativi;
+                            
+                        
+                        
+                            o)
+                            
+                                facolta' dell'ente di adottare regolamenti di contabilita' ispirati a principi civilistici e recanti, ove necessario, deroghe, anche in materia contrattuale, alle disposizioni del decreto del Presidente della Repubblica 18 dicembre 1979, n. 696, e successive modificazioni; i predetti regolamenti sono soggetti all'approvazione dell'autorita' di vigilanza, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica;
+
+                            
+                        
+                        
+                            p)
+                            
+                                previsione della facolta' di attribuire, per motivate esigenze ed entro un limite numerico predeterminato, incarichi di collaborazione ad esperti delle materie di competenza istituzionale;
+
+                            
+                        
+                        
+                            q)
+                            
+                                previsione delle ipotesi di commissariamento dell'ente e dei poteri del commissario straordinario, nominato dall'autorita' di vigilanza, ovvero, per gli enti di notevole rilievo o dimensione organizzativa e finanziaria, con decreto del Presidente del Consiglio dei Ministri, su proposta dell'autorita' di vigilanza; previsione, per i soli enti di notevole rilievo o dimensione organizzativa o finanziaria, della possibilita' di nominare uno o piu' subcommissari; previsione di termini perentori di durata massima del commissariamento, a pena di scioglimento dell'ente.
+
 Nella revisione di cui al comma 1, sono fatte salve le specifiche e motivate esigenze connesse alla natura ed all'attivita' di singoli enti, con particolare riferimento a quelli ad alto tasso di autonomia finanziaria in funzione della prevalenza delle entrate proprie su quelle attinenti a trasferimenti a carico di bilanci pubblici, nonche' le esigenze specifiche degli enti a struttura associativa, ai quali, in particolare, non si applicano i criteri di cui alle lettere a) ed e) del comma 1 ed ai quali i criteri di cui alla lettera b) del medesimo comma si applicano solo se coerenti con la natura e l'attivita' dei singoli enti e per motivate esigenze degli stessi.
+
+3.
+                    
+                        
+                            Agli enti di cui al presente articolo, relativamente ai quali la revisione statutaria non sia intervenuta alla data del 30 giugno 2001, si applicano, con effetto dal 1 gennaio 2002, le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i consigli di amministrazione sono sciolti, salvo che risultino composti in conformita' ai criteri di cui al comma 1, lettera a); il presidente dell'ente assume, sino a che il regolamento non e' emanato e i nuovi organi non sono nominati, i poteri di amministrazione ordinaria e straordinaria, salva la possibilita' dell'autorita' di vigilanza di nominare un commissario straordinario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i collegi dei revisori, ove non conformi ai criteri di cui al comma 1, lettera h), sono sciolti e le relative competenze sono esercitate, sino alla nomina del nuovo collegio, dai soli rappresentanti del Ministero del tesoro, del bilancio e della programmazione economica e dell'autorita' di vigilanza, ove presenti, ovvero, in caso contrario, dal solo presidente del collegio.
 
 Negli enti di cui al presente articolo per i quali la revisione statutaria risulti intervenuta alla data del 30 giugno 2001, il funzionamento degli organi preesistenti e' prorogato sino alla nomina di quelli di nuova istituzione.
 

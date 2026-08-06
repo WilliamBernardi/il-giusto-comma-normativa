@@ -8,8 +8,8 @@ codice_redazionale: 097G0074
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -22,6 +22,24 @@ Entrata in vigore del decreto: 21/3/1997
 Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri delle finanze e dei trasporti e della navigazione, di concerto con i Ministri degli affari esteri, di grazia e giustizia, del tesoro e per la funzione pubblica e gli affari regionali;
 
 ## Art. 1. — (Base imponibile)
+
+1.
+                    
+                        
+                            All'articolo 2, primo comma, del D.P.R. 5 febbraio 1953, n. 39, sono apportate le seguenti modifiche:
+
+                        
+                        
+                            a)
+                            
+                                alla lettera d), le parole: "autoveicoli e" sono sostituite dalle seguenti: "autoveicoli di peso complessivo a pieno carico inferiore a 12 tonnellate e per";
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera d) e aggiunta la seguente:
+"d-bis) al peso complessivo, al numero degli assi e al tipo di sospensione dell'asse motore per gli autoveicoli per trasporto di cose di peso complessivo a pieno carico pari o superiore a 12 tonnellate;".
 
 ## Art. 2. — (Tassazione degli autoveicoli di peso complessivo a pieno carico
  pari o superiore a 12 tonnellate)

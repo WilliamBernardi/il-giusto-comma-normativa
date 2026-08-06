@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-05-21;75
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -123,6 +123,24 @@ Le disposizioni del presente decreto si applicano a decorrere dal centottantesim
 Dalla data di entrata in vigore del presente decreto e' abrogato il regio decreto 19 novembre 1931, n. 1793.
 
 Il regio decreto 26 maggio 1932, n. 772, e' abrogato a decorrere dalla data di entrata in vigore del decreto di cui all'articolo 1, comma 3.
+
+4.
+                    
+                        
+                            Alla legge 6 gennaio 1931, n. 99, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 1, 2, 3, 4, 5, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17 e 18 sono abrogati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 8, primo comma, le parole «agli artt.» sono sostituite dalle seguenti: «all'articolo» e le parole «e 7» sono soppresse.
 
 Il rinvio alle norme abrogate fatto da leggi, da regolamenti e da altre norme si intende riferito alle corrispondenti disposizioni del presente decreto e dei provvedimenti ivi previsti.
 

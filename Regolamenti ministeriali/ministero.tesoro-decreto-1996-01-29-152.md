@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1996-08-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,6 +23,24 @@ Entrata in vigore del decreto: 7-4-1996
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 30 novembre 1995;
 
 ## Art. 1. — Contenuto della delibera di emissione
+
+1.
+                    
+                        
+                            Gli enti locali di cui agli articoli 35 e 37 della legge 23 dicembre 1994, n. 724, possono deliberare l'emissione di prestiti obbligazionari subordinatamente alla preventiva approvazione:
+ 
+                        
+                        
+                            a)
+                            
+                                del piano economico-finanziario di cui all'art. 46 del decreto legislativo 30 dicembre 1992, n. 504, ove il prestito sia finalizzato alla realizzazione di opere pubbliche destinate all'esercizio di servizi pubblici a rilevanza imprenditoriale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                del progetto o del piano esecutivo dell'investimento previsto dall'art. 43 del decreto legislativo 25 febbraio 1995, n. 77.
 
 La delibera di emissione deve essere corredata del piano di ammortamento finanziario del prestito stesso; ai fini della fungibilita' dei titoli rappresentativi del prestito, il rimborso avra' luogo mediante decurtazione delle quote nominali di capitale in concomitanza con il pagamento delle cedole. La delibera di emissione deve attestare la sussistenza dei requisiti richiesti per l'emissione e, in particolare, di quelli previsti dal comma 1 del presente regolamento nonche' di quelli previsti dall'art. 35, commi 2 e 3, della legge n. 724/1994. Qualora l'emissione del prestito sia deliberata da enti locali in situazioni di dissesto o in situazione strutturalmente deficitaria, la delibera deve espressamente indicare anche la sussistenza dei requisiti richiesti dall'art. 37 della legge n. 724/1994. La rata di ammortamento del prestito deve essere comprensiva, sin dal primo anno, della quota capitale e della quota interessi.
 

@@ -8,8 +8,8 @@ codice_redazionale: 095G0007
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,52 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 lug
 ## Art. 1.
 
 E' individuata la figura del tecnico sanitario di laboratorio biomedico con il seguente profilo: il tecnico sanitario di laboratorio biomedico e' l'operatore sanitario, in possesso del diploma universitario abilitante, responsabile degli atti di sua competenza, che svolge attivita' di laboratorio di analisi e di ricerca relative ad analisi biomediche e biotecnologiche ed in particolare di biochimica, di microbiologia e virologia, di farmacotossicologia, di immunologia, di patologia clinica, di ematologia, di citologia e di istopatologia.
+
+2.
+                    
+                        
+                            Il tecnico sanitario di laboratorio biomedico:
+ 
+                        
+                        
+                            a)
+                            
+                                svolge con autonomia tecnico professionale la propria prestazione lavorativa in diretta collaborazione con il personale laureato di laboratorio preposto alle diverse responsabilita' operative di appartenenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' responsabile, nelle strutture di laboratorio, del corretto adempimento delle procedure analitiche e del proprio operato, nell'ambito delle proprie funzioni in applicazione dei protocolli di lavoro definiti dai dirigenti responsabili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                verifica la corrispondenza delle prestazioni erogate agli indicatori e standard predefiniti dal responsabile della struttura;
+
+                            
+                        
+                        
+                            d)
+                            
+                                controlla e verifica il corretto funzionamento delle apparecchiature utilizzate, provvede alla manutenzione ordinaria ed alla eventuale eliminazione di piccoli inconvenienti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                partecipa alla programmazione e organizzazione del lavoro nell'ambito della struttura in cui opera;
+
+                            
+                        
+                        
+                            f)
+                            
+                                svolge la sua attivita' in strutture di laboratorio pubbliche e private, autorizzate secondo la normativa vigente, in rapporto di dipendenza o libero-professionale.
 
 Il tecnico di laboratorio biomedico contribuisce alla formazione del personale di supporto e concorre direttamente all'aggiornamento relativo al proprio profilo professionale e alla ricerca.
  AVVERTENZA:

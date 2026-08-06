@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2017-12-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -69,6 +69,59 @@ Ai fini della determinazione dei compensi dei componenti il Nucleo di valutazion
 Al fine di assicurare il rispetto dei limiti di spesa indicati nel precedente comma 2, nel decreto del Ministro per i beni e le attivita' culturali di cui al comma 1 sono stabiliti, per ciascun organo collegiale, il limite massimo di spesa per gettoni di presenza e per trattamento economico di missione erogabili per ciascun esercizio finanziario. Nell'ambito di ciascun esercizio finanziario e della medesima Direzione generale cui fanno riferimento gli organi collegiali di cui al presente articolo, e' possibile utilizzare il limite di spesa relativo ad un organo collegiale per le esigenze di un diverso organo collegiale della medesima Direzione generale, fermo restando il limite complessivo di spesa relativo agli organi collegiali di pertinenza di ciascuna Direzione generale.
 
 ## Art. 6. — Altri organismi confermati
+
+1.
+                    
+                        
+                            In attuazione dell'articolo 29, comma 2, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni dalla legge 4 agosto 2006, n. 248, fermo restando quanto disposto dagli articoli da 1 a 5, restano confermati i seguenti organismi:
+ 
+                        
+                        
+                            a)
+                            
+                                il Comitato per le pubblicazioni di cui all'articolo 11 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la Consulta dei comitati nazionali e delle edizioni nazionali prevista all'articolo 1 della legge 1° dicembre 1997, n. 420;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la Commissione per l'esame delle proposte di cessione di beni culturali offerti in pagamento di imposte di cui all'articolo 42-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 637;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il Comitato tecnico-scientifico speciale per il patrimonio storico della prima guerra mondiale previsto all'articolo 4, comma 2, della legge 7 marzo 2001, n. 78;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'Osservatorio nazionale per la qualita' del paesaggio previsto all'articolo 132, comma 4, del decreto legislativo 22 gennaio 2004, n. 42, e successive modificazioni;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il Comitato per i premi agli esportatori del libro previsto all'articolo 4 della legge 22 dicembre 1969, n. 1010;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la Commissione per i contributi alle pubblicazioni di elevato valore culturale prevista all'articolo 25 della legge 5 agosto 1981, n. 416.
 
 ## Art. 7. — Disposizioni finanziarie per gli altri organismi confermati
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2008-04-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -51,15 +51,77 @@ L'articolo 37 e' sostituito dal seguente:
 All'articolo 38, dopo il comma 2 e' inserito il seguente:
  "2-bis. Nei casi in cui non venga presentata domanda di rinnovo, l'AIFA ne da' sollecita comunicazione al titolare dell'AIC e rende noto, con un comunicato pubblicato nella Gazzetta Ufficiale della Repubblica italiana, che il medicinale non puo' essere piu' commercializzato. Nei casi in cui, a seguito di presentazione di domanda di rinnovo, la valutazione del rapporto rischio beneficio sia risultata non favorevole, l'interessato puo' presentare all'AIFA, entro trenta giorni, opposizione al provvedimento di diniego; l'AIFA decide entro i successivi novanta giorni, sentito il Consiglio superiore di sanita'. Se la decisione non e' favorevole, l'AIFA ne da' sollecita comunicazione al titolare dell'AIC e rende noto con un comunicato pubblicato nella Gazzetta Ufficiale che il medicinale non puo' essere piu' commercializzato. Nei casi in cui la valutazione del rapporto rischio beneficio sia risultata favorevole, ma i termini dell'autorizzazione debbano essere modificati, l'AIFA adotta uno specifico provvedimento; negli altri casi l'autorizzazione e' automaticamente rinnovata alla data di scadenza di validita' dell'autorizzazione originaria.".
 
+8.
+                    
+                        
+                            All'articolo 50 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5, dopo la parola: "condizioni" e' inserita la seguente: "essenziali";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 5 e' aggiunto il seguente:
+ "5-bis. Con apposita determinazione, da adottarsi entro il 29 febbraio 2008, l'AIFA individua le modifiche, diverse da quelle previste al comma 5, che l'interessato e' tenuto a comunicare alla stessa Agenzia.".
+
 All'articolo 54, dopo il comma 3 e' inserito il seguente:
  "3-bis. Il disposto del primo periodo del comma 3 si applica dal 1° gennaio 2009. Fino a tale data le materie prime devono essere corredate di una certificazione di qualita' che attesti la conformita' alle norme di buona fabbricazione rilasciata dalla persona qualificata responsabile della produzione del medicinale che utilizza le materie prime. Resta ferma la possibilita', per l'AIFA, di effettuare ispezioni dirette a verificare la conformita' delle materie prime alla certificazione resa.".
 
 All'articolo 73, comma 2, le parole: "previa autorizzazione dell'AIFA" sono sostituite dalle seguenti: "previa notifica all'AIFA".
 
+11.
+                    
+                        
+                            All'articolo 77 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera f), n. 7), dopo la parola: "produttore", sono aggiunte le seguenti: "responsabile del rilascio dei lotti";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "previa autorizzazione dell'AIFA" sono sostituite dalle seguenti: "previa notifica all'AIFA";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5 sono aggiunte, in fine, le parole: ", secondo i criteri stabiliti con apposita determinazione dell'AIFA".
+
 All'articolo 80, comma 1, dopo la parola: "farmacia", sono inserite le parole: "e nei punti vendita previsti dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248,".
 
 All'articolo 88, dopo il comma 2, e' inserito il seguente:
  "2-bis. Il Ministro della salute, con proprio decreto da adottarsi entro il 29 febbraio 2008, previa intesa con la Conferenza permanente per i rapporti con lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le Federazioni degli ordini professionali dei farmacisti e dei medici, nonche' le organizzazioni sindacali delle farmacie pubbliche e private, individua le condizioni che consentono al farmacista, in caso di estrema necessita' e urgenza, di consegnare al cliente che ne faccia richiesta, in assenza di prescrizione medica, un medicinale disciplinato dal comma 2 o dall'articolo 89.".
+
+14.
+                    
+                        
+                            All'articolo 96 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 sono soppresse le parole: ", in farmacia,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 e' aggiunto, in fine, il seguente periodo: "I medicinali di automedicazione di cui al primo periodo possono essere oggetto di accesso diretto da parte dei clienti in farmacia e nei punti vendita previsti dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248.".
 
 Dopo l'articolo 98 e' inserito il seguente:
  "Art. 98-bis
@@ -72,11 +134,72 @@ All'articolo 100, dopo il comma 1 sono inseriti i seguenti:
 
 All'articolo 101, comma 2, in fine, e' aggiunto, il seguente periodo: "Con decreto del Ministro della salute, sentita l'AIFA, possono essere stabilite, per i depositi che trattano esclusivamente gas medicinali, deroghe al disposto della lettera b) del comma 1 e al disposto di cui al precedente periodo.".
 
+18.
+                    
+                        
+                            All'articolo 105 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: "dagli articoli 92 e 94", sono inserite le seguenti: "ovvero dall'articolo 96";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo la parola: "pubblico" sono inserite le seguenti: ", ivi compresi i punti vendita di medicinali previsti dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248,";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, dopo la parola: "ospedaliere," sono inserite le seguenti: "o dei punti vendita di medicinali previsti dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248,";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, dopo le parole: "oltre al proprio nome e indirizzo" sono inserite le seguenti: "e al codice identificativo univoco assegnato dal Ministero della salute ai sensi dell'articolo 3, comma 1, del decreto del Ministro della salute in data 15 luglio 2004, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 2 del 4 gennaio 2005,";
+
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera b) del comma 5 e' sostituita dalla seguente: "b) la denominazione, la forma farmaceutica e il numero dell'AIC del medicinale;".
+
 All'articolo 107, comma 1, dopo le parole: "Le farmacie aperte al pubblico," sono inserite le seguenti: "i punti vendita di medicinali previsti dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248,".
 
 All'articolo 108 sono aggiunti i seguenti commi:
  "1-bis. Il farmacista che esplica l'attivita' professionale prevista dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, e' responsabile, oltre che della gestione del reparto e dell'attivita' di vendita al pubblico dei medicinali, anche del connesso stoccaggio dei medicinali nel magazzino annesso, funzionale all'esercizio commerciale.
  1-ter. Nell'ipotesi prevista dal comma 1-bis, quando al reparto per la vendita di medicinali sono assegnati piu' farmacisti, il titolare dell'esercizio commerciale individua il farmacista responsabile, il quale deve risultare identificabile dall'utente.".
+
+21.
+                    
+                        
+                            All'articolo 118 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ "1. Nessuna pubblicita' di medicinali presso il pubblico puo' essere effettuata senza autorizzazione del Ministero della salute, ad eccezione:
+ a) delle inserzioni pubblicitarie sulla stampa quotidiana o periodica che, ferme restando le disposizioni dell'articolo 116, comma 1, si limitano a riprodurre integralmente e senza modifiche le indicazioni, le controindicazioni, le opportune precauzioni d'impiego, le interazioni, le avvertenze speciali, gli effetti indesiderati descritti nel foglio illustrativo, con l'eventuale aggiunta di una fotografia o di una rappresentazione grafica dell'imballaggio esterno o del confezionamento primario del medicinale;
+ b) delle fotografie o rappresentazioni grafiche dell'imballaggio esterno o del confezionamento primario dei medicinali apposte sui cartelli dei prezzi di vendita al pubblico e degli eventuali sconti praticati esposti da coloro che svolgono attivita' di fornitura al pubblico, limitatamente ai farmaci di cui all'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 9 e' aggiunto, in fine, il seguente periodo:
+ "Se, entro il termine di quarantacinque giorni previsto dal comma 8, il Ministero della salute comunica al richiedente che la domanda non puo' essere accolta, la domanda stessa e' da intendersi definitivamente respinta qualora l'interessato non presenti osservazioni entro il termine di dieci giorni; se l'interessato presenta osservazioni finalizzate ad ottenere modifiche al messaggio, diverse da quelle previste nella comunicazione ministeriale, il relativo atto e' considerato, a tutti gli effetti, ((come nuova domanda di autorizzazione; se le osservazioni dell'interessato si limitano a ribadire, con l'eventuale supporto di documentazione, il contenuto della domanda iniziale, su di essa si pronuncia, in via definitiva, il competente ufficio del Ministero della salute,)) senza necessita' di una nuova consultazione della commissione di cui al comma 2.".
 
 All'articolo 120, dopo il comma 1 e' inserito il seguente:
  "1-bis. Per i medicinali omeopatici o antroposofici senza indicazioni terapeutiche, al medico puo' essere consegnata la documentazione utile a ricordare posologia e campi di applicazione mediante pubblicazioni tratte da una delle farmacopee europee o dalla letteratura omeopatica o antroposofica. In quest'ultimo caso, deve essere stampigliato in modo visibile che trattasi di indicazioni per cui non vi e', allo stato, evidenza scientificamente provata della efficacia del medicinale omeopatico o antroposofico.".
@@ -85,10 +208,116 @@ Il comma 2 dell'articolo 123 e' sostituito dal seguente: "2. Il materiale inform
 
 All'articolo 125, comma 10, terzo periodo, sono aggiunte, in fine, le seguenti parole: ", comunque non superiore al mese".
 
+25.
+                    
+                        
+                            All'articolo 129 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole: "definite dall'EMEA" sono inserite le seguenti: ", nonche' alle linee direttrici elaborate dalla Commissione europea ai sensi dell'articolo 106, paragrafo 1, della direttiva n. 2001/83/CE";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, dopo la parola: "AIFA", sono aggiunte le seguenti parole: "previa consultazione delle Associazioni dell'industria farmaceutica,".
+
+26.
+                    
+                        
+                            All'articolo 130 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 le parole: "secondo le modalita', previste dalle linee guida di cui al comma 2 dell'articolo 129", sono sostituite dalle seguenti: "secondo le modalita', previste dalle linee direttrici elaborate dalla Commissione europea ai sensi dell'articolo 106, paragrafo 1, della direttiva n. 2001/83/CE";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 8 e' sostituito dal seguente:
+ "8. Conformemente alle linee direttrici elaborate dalla Commissione europea ai sensi dell'articolo 106, paragrafo 1, della direttiva n. 2001/83/CE, i titolari dell'AIC utilizzano la terminologia medica concordata a livello internazionale per le segnalazioni di reazioni avverse.".
+
+27.
+                    
+                        
+                            All'articolo 132 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo la parola: "medici" sono inserite le seguenti: ", i farmacisti anche operanti nei punti vendita previsti dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 7 e' aggiunta, in fine, la seguente parola: "129".
+
 All'articolo 133, comma 1, le parole: "linee guida di cui all'", sono sostituite dalle seguenti: "linee direttrici elaborate dalla Commissione europea ai sensi dell'".
+
+29.
+                    
+                        
+                            All'articolo 144 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, dopo le parole: "della farmacia" sono inserite le seguenti: "o dell'apposito reparto del punto vendita previsto dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ "4. Se successivamente si ripetono, almeno due volte, i fatti previsti dal comma 1 presso la stessa farmacia o lo stesso punto vendita, l'autorita' amministrativa competente dispone la decadenza della farmacia o, nel caso previsto dall'articolo 5 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, la chiusura del reparto.".
 
 All'articolo 147, comma 3, dopo le parole: "o confermata" sono aggiunte le seguenti: "ovvero e' stata sospesa o revocata,".
 
 All'articolo 148, dopo il comma 13 e' inserito il seguente:
  "13-bis. Il distributore all'ingrosso che non osserva il divieto previsto dall'articolo 100, comma 1-ter, e' soggetto alla sanzione amministrativa pecuniaria da trentamila a centomila euro.".
+
+32.
+                    
+                        
+                            All'articolo 158 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto, in fine, il seguente periodo: "Sono abrogati l'articolo 3, comma 9, del decreto-legge 15 aprile 2002, n. 63, convertito, con modificazioni, dalla legge 15 giugno 2002, n. 112, l'articolo 4 della legge 14 ottobre 1999, n. 362, e l'articolo 2, comma 3, del decreto del Ministro della salute in data 27 gennaio 2000, pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale n. 125 del 31 maggio 2000.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, dopo le parole: "farmacologicamente attive" sono inserite le seguenti: "ovvero di divisione, riconfezionamento e rietichettatura delle stesse";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, la parola: "dodici" e' sostituita dalla seguente: "ventiquattro";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 12, e' aggiunto, in fine, il seguente periodo: "Il Ministro della salute, su proposta dell'AIFA, identifica le variazioni di AIC tra loro collegate da un rapporto di consequenzialita' o correlazione, alle quali non si applica la tariffa in quanto non comportano una prestazione aggiuntiva da parte dell'AIFA.".
 

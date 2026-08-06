@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -71,6 +71,150 @@ IL PRESIDENTE DELLA REPUBBLICA
                 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica, di concerto con il Ministro della difesa e con il Ministro dell'economia e delle finanze; Decreta:
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                per "Forze armate" (esclusa l'Arma dei carabinieri), si intende il personale militare dell'Esercito, della Marina, compreso il Corpo delle Capitanerie di porto, dell'Aeronautica, con esclusione dei rispettivi dirigenti e del personale di leva;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "Polizia ad ordinamento civile" si intende il personale della Polizia di Stato, del Corpo della polizia penitenziaria e del Corpo forestale dello Stato, con esclusione dei rispettivi dirigenti e del personale ausiliario di leva;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "Polizia ad ordinamento militare" si intende il personale dell'Arma dei carabinieri e del Corpo della guardia di finanza con esclusione dei rispettivi dirigenti e del personale ausiliario di leva;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "decreto sulle procedure" si intende il decreto legislativo 12 maggio 1995, n. 195, e successive modificazioni, recante: "Attuazione dell'articolo 2 della legge 6 marzo 1992, n. 216, in materia di procedure per disciplinare i contenuti del rapporto di impiego del personale delle Forze di polizia e delle Forze armate";
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "primo quadriennio normativo Forze armate" si intende il decreto del Presidente della Repubblica 31 luglio 1995, n. 394, di recepimento del provvedimento di concertazione sottoscritto in data 20 luglio 1995, riguardante il personale delle Forze armate, quadriennio normativo 1994-1997 ed al biennio economico 1994-1995;&0;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per "biennio economico Forze armate 1996-1997" si intende il decreto del Presidente della Repubblica 10 maggio 1996, n. 360, di recepimento del provvedimento di concertazione sottoscritto in data 18 aprile 1996, riguardante il biennio 1996-1997, per gli aspetti retributivi, per il personale non dirigente delle Forze armate, emanato a seguito del decreto del Presidente della Repubblica 31 luglio 1995, n. 394;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per "secondo quadriennio normativo Forze armate" si intende il decreto del Presidente della Repubblica 16 marzo 1999, n. 255, di recepimento del provvedimento di concertazione, sottoscritto in data 17 febbraio 1999, per le Forze armate relativo al quadriennio normativo 1998-2001 ed al biennio economico 1998-1999;
+
+                            
+                        
+                        
+                            h)
+                            
+                                per "biennio economico Forze armate 2000-2001" si intende il decreto del Presidente della Repubblica 8 febbraio 2001, n. 139, di recepimento del provvedimento di concertazione, sottoscritto in data 24 gennaio 2001, per le Forze armate relativo al biennio economico 2000-2001 emanato a seguito del decreto del Presidente della Repubblica 16 marzo 1999, n. 255;
+
+                            
+                        
+                        
+                            i)
+                            
+                                per "legge finanziaria 1994" si intende la legge 24 dicembre 1993, n. 537, recante "Interventi correttivi di finanza pubblica";
+
+                            
+                        
+                        
+                            j)
+                            
+                                per "legge finanziaria 1998" si intende la legge 27 dicembre 1997, n. 449, recante "Misure per la stabilizzazione della finanza pubblica";
+
+                            
+                        
+                        
+                            k)
+                            
+                                per "legge di bilancio 1999" si intende la legge 23 dicembre 1998, n. 449, recante "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato";
+
+                            
+                        
+                        
+                            l)
+                            
+                                per "legge finanziaria 1999" si intende la legge 23 dicembre 1998, n. 448, recante "Misure di finanza pubblica per la stabilizzazione e lo sviluppo";
+
+                            
+                        
+                        
+                            m)
+                            
+                                per "legge finanziaria 2002" si intende la legge 28 dicembre 2001, n. 448, recante "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato";
+
+                            
+                        
+                        
+                            n)
+                            
+                                per "regolamento del 1990" si intende il decreto del Presidente della Repubblica 5 giugno 1990, n. 147, recante "Regolamento per il recepimento delle norme risultanti dalla disciplina prevista dall'accordo del 22 dicembre 1989 concernente il personale della Polizia di Stato";
+
+                            
+                        
+                        
+                            o)
+                            
+                                per "legge sulle indennita'" si intende la legge 27 maggio 1977, n. 284, recante "Adeguamento e riordinamento di indennita' alle Forze di polizia ed al personale civile degli istituti penitenziari";
+
+                            
+                        
+                        
+                            p)
+                            
+                                per "Testo unico a tutela della maternita'" si intende il decreto legislativo 26 marzo 2001, n. 151, recante "Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'articolo 15 della legge 8 marzo 2000, n. 53";
+
+                            
+                        
+                        
+                            q)
+                            
+                                per "statuto degli impiegati civili dello Stato", si intende il decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, recante "Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato";
+
+                            
+                        
+                        
+                            r)
+                            
+                                per "legge sulle missioni" si intende la legge 18 dicembre 1973, n. 836, e successive modificazioni, recante "Trattamento economico di missione e di trasferimento dei dipendenti statali";
+
+                            
+                        
+                        
+                            s)
+                            
+                                per "legge sulle indennita' operative" si intende la legge 23 marzo 1983, n. 78, e successive modificazioni, recante "Aggiornamento della legge 5 maggio 1976, n. 187, relativa alle indennita' operative del personale militare";
+
+                            
+                        
+                        
+                            t)
+                            
+                                per "legge di riforma del sistema pensionistico" si intende la legge 8 agosto 1995, n. 335, recante "Riforma del sistema pensionistico obbligatorio e complementare".
 
 ## Art. 2. — Ambito di applicazione e durata
 
@@ -2245,6 +2389,38 @@ Il personale che intende avvalersi del congedo per la formazione deve presentare
 Il congedo per la formazione puo' essere differito con provvedimento motivato per improrogabili esigenze di servizio e non puo' essere concesso in caso di impiego in missioni umanitarie e di pace.
 
 ## Art. 14. — Applicazione del testo unico a tutela della maternita'
+
+1.
+                    
+                        
+                            Il personale militare che si trova nelle condizioni previste dal testo unico a tutela della maternita', ha diritto ai seguenti periodi di astensione dal lavoro, in aggiunta alla licenza ordinaria e straordinaria previste dal primo quadriennio normativo Forze armate:
+ 
+                        
+                        
+                            a)
+                            
+                                "licenza di maternita'", con cui si intende l'astensione obbligatoria dal lavoro del personale militare femminile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "licenza di paternita'", con cui si intende l'astensione dal lavoro del personale militare maschile, fruito in alternativa alla licenza di maternita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                "licenza parentale", con cui si intende l'astensione facoltativa dal lavoro del personale militare femminile o maschile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "licenza per malattia del figlio", con cui si intende l'astensione facoltativa dal lavoro del personale militare femminile o maschile in dipendenza della malattia stessa.
 
 Le licenze di cui al comma 1 non riducono il periodo di licenza ordinaria spettante, l'importo della tredicesima mensilita' e sono computate per intero nell'anzianita' di servizio, salvo diversa indicazione.
 

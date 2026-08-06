@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2007-11-29;268
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,25 @@ Sulla proposta del Ministro della pubblica istruzione;
 
 ## Art. 1. — Modifiche all'articolo 6 del decreto
  del Presidente della Repubblica 10 ottobre 1996, n. 567
+
+1.
+                    
+                        
+                            All'articolo 6 del decreto del Presidente della Repubblica 10 ottobre 1996, n. 567, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ «1. Due rappresentanti degli studenti per ciascun istituto o scuola di istruzione secondaria superiore si riuniscono in consulta provinciale in una sede appositamente attrezzata e messa a disposizione dall'ufficio scolastico locale a livello provinciale che assicura alla consulta il supporto organizzativo e la consulenza tecnico-scientifica. La durata in carica dei predetti rappresentanti e' di due anni. L'elezione di tali rappresentanti avviene entro il 31 ottobre dell'anno di scadenza dell'organismo con le stesse modalita' della elezione dei rappresentanti degli studenti nel consiglio di istituto. Per la sostituzione degli eletti venuti a cessare per qualsiasi causa, o che abbiano perso i requisiti di eleggibilita', anche per aver conseguito il diploma, si procede alla nomina di coloro che, in possesso dei detti requisiti, risultino i primi fra i non eletti delle rispettive liste. In caso di esaurimento delle liste si procede ad elezioni suppletive. La prima riunione della consulta e' convocata dal dirigente dell'ufficio scolastico locale a livello provinciale entro quindici giorni dal completamento delle operazioni elettorali.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, sono aggiunte, in fine, le seguenti parole: «e puo' articolarsi in commissioni di lavoro, territoriali e/o tematiche.».
 
 ## Art. 2. — Consiglio nazionale dei presidenti delle consulte provinciali
  dello studente e disposizioni finanziarie

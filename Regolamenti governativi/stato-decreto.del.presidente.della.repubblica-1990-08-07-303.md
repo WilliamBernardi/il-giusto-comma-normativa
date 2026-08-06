@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2002-11-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -167,6 +167,32 @@ In caso di smarrimento dello scontrino, durante la trasmissione effettuata dall'
 
 ## Art. 18.
 
+1.
+                        
+                            
+                                In relazione a quanto previsto dall'art. 12 della citata legge n. 528/1982, come modificato dall'art. 5 della legge n. 85/1990, e' stabilito che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i punti di raccolta del gioco del lotto sono determinati in numero di 6.500; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai fini della progressiva estensione alle rivendite di generi di monopolio della raccolta del gioco del lotto si procede secondo criteri di dislocazione territoriale in base ad indici di produttivita' distinti per regione, previo accertamento dell'incremento del gettito erariale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli indici di produttivita' vengono di volta in volta predeterminati con decreto del Ministro delle finanze, tenuto conto delle riscossioni al lordo conseguite nel gioco del lotto nella regione e sulla base dei risultati conseguiti su tutto il territorio nazionale nell'anno precedente, rapportati ai punti di raccolta esistenti, previa intesa con le organizzazioni sindacali dei rispettivi settori maggiormente rappresentative su base nazionale.
+Con lo stesso decreto vengono fissati gli specifici criteri di distanza e densita' demografica per la migliore funzionalita' del servizio.
+
 ## Art. 19. — Insegna e giorni d'apertura d'esercizio dei punti di raccolta
 
 I punti di raccolta del gioco del lotto devono essere contrassegnati, all'esterno del locale, dalla insegna prescritta dall'Amministrazione dei monopoli di Stato.
@@ -199,6 +225,45 @@ Il raccoglitore risponde personalmente nei confronti del giocatore per qualsiasi
 ## - TITOLO III NORME DI CONTABILITA' E RISCONTRO
 
 ## Art. 23. — Estratto conto
+
+1.
+                        
+                            
+                                Il mercoledi' successivo all'estrazione viene consegnato ad ogni raccoglitore, a cura del sistema informatico, il relativo estratto conto contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero e l'importo delle giocate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'aggio, corrispondente all'importo delle giocate, di spettanza del raccoglitore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero e l'importo delle vincite pagate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero e l'importo delle giocate rimborsate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'importo netto da versare.
 
 Copia dell'estratto conto suddetto viene, altresi', trasmessa alla ragioneria provinciale dello Stato competente per il territorio in cui e' ubicato il punto di raccolta.
 
@@ -249,6 +314,52 @@ Nel caso in cui la gestione del gioco del lotto sia affidata in concessione, ai 
 ## Art. 29. — (( Estratti conto settimanali dei raccoglitori ))
 
 ((
+
+1.
+                        
+                            
+                                Il mercoledi' successivo all'estrazione, il concessionario consegna ad ogni raccoglitore, a mezzo del sistema automatizzato, il relativo estratto conto contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero e l'importo delle giocate relative all'ultimo concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'aggio corrispondente all'importo delle giocate, di spettanza del raccoglitore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero e l'importo delle vincite pagate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero e l'importo delle giocate escluse dal concorso dal concessionario e rimborsate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il numero e l'importo delle giocate annullate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'importo netto a debito, da versare al concessionario, o a credito, da conguagliare nell'estratto conto della settimana successiva.
 
 ))
 
@@ -340,6 +451,32 @@ Il concessionario, per il pagamento delle vincite, si puo' avvalere di una o piu
 
 La gestione finanziaria e' effettuata utilizzando un conto corrente bancario acceso dal concessionario presso un istituto bancario in grado di assicurare il servizio alle migliori condizioni di mercato.
 
+2.
+                        
+                            
+                                Al conto corrente bancario affluiscono gli importi netti a debito risultanti dagli estratti conto settimanali dei raccoglitori del gioco del lotto, versati al concessionario a norma dell'art. 30.
+Da detto conto il concessionario preleva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'importo delle vincite da pagare a cura del concessionario stesso ed il compenso a quest'ultimo spettante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo da versare allo Stato a norma dell'art. 33, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo delle ritenute di cui all'art. 33, comma 3.
+
 Gli interessi prodotti dal conto corrente bancario sono versati all'erario il giorno successivo alla data di accreditamento dell'importo netto sul conto corrente medesimo.
 
 ))
@@ -347,6 +484,46 @@ Gli interessi prodotti dal conto corrente bancario sono versati all'erario il gi
 ## Art. 38. — (( Adempimenti contabili del concessionario ))
 
 ((
+
+1.
+                        
+                            
+                                Il concessionario rende il conto della gestione finanziaria relativa alla riscossione degli incassi del lotto ed al pagamento delle vincite, mediante la produzione degli elaborati contabili e della documentazione come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prospetto complessivo settimanale contenente l'importo delle giocate, il numero delle giocate, l'importo dell'aggio ai raccoglitori, l'importo del compenso al concessionario, l'importo lordo delle vincite con la disaggregazione per sorte, l'importo a favore dell'erario. Tale prospetto e' trasmesso alla Direzione generale dei monopoli di Stato entro il martedi' successivo ad ogni estrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prospetto estratto conto raccoglitori contenente il saldo a debito e a credito di ciascun raccoglitore, l'importo a debito versato al concessionario con l'indicazione dell'eventuale ritardato, parziale od omesso versamento. Tale prospetto e' trasmesso al competente Ispettorato compartimentale dei monopoli di Stato ogni mercoledi' seguente la settimana successiva a quella di versamento dei raccoglitori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rendiconto settimanale delle vincite pagate dal concessionario comprendente l'importo delle giocate vincenti da pagare, l'importo delle giocate pagate, l'importo dei versamenti destinato ai fondi di previdenza per il personale del Ministero delle finanze e dell'Amministrazione autonoma dei monopoli di Stato, l'importo dell'eventuale saldo per vincite non reclamate alla scadenza del sessantesimo giorno dall'affissione del Bollettino ufficiale di zona.
+Tale rendiconto e' trasmesso alla Direzione generale dei monopoli di Stato nei trenta giorni successivi alla scadenza del sessantesimo giorno dalla suddetta affissione del Bollettino ufficiale di zona, con allegati gli scontrini pagati in originale e gli attestati di versamento in conto corrente postale o con la quietanza di tesoreria provinciale relativi alle eventuali vincite non reclamate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contabilita' bimestrale contenente l'analisi della gestione finanziaria delle riscossioni e dei pagamenti di ciascun bimestre, e cioe': nella sezione "carico" le riscossioni dai raccoglitori, gli aggi da loro trattenuti, i pagamenti dagli stessi effettuati, l'importo delle ritenute per i fondi di previdenza trattenuti sulle vincite pagate; nella sezione "scarico" i pagamenti delle vincite di competenza del concessionario, il compenso spettantegli, il versamento degli utili erariali, il versamento delle ritenute destinate ai fondi di previdenza, con l'evidenziazione dei resti da versare alla fine di ogni bimestre e dei pagamenti e versamenti in conto residui all'inizio dell'esercizio. Ogni contabilita' riporta le totalizzazioni relative ai bimestri precedenti e quelle di tutto il bimestre di riferimento. Detto prospetto e' trasmesso alla Direzione generale dei monopoli di Stato entro trenta giorni successivi alla chiusura di ciascun bimestre; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conto giudiziale delle somme riscosse e dei pagamenti attinenti al gioco del lotto contenente l'analisi della gestione finanziaria delle riscossioni e dei pagamenti dell'intero anno, con l'indicazione, nelle sezioni "carico" e "scarico" dei flussi finanziari di cui al prospetto del punto d), con allegati gli attestati di versamento in conto corrente postale o le quietanze di tesoreria provinciale relativi al versamento degli utili erariali, nonche' gli attestati di versamento delle ritenute destinate ai fondi di previdenza per il personale del Ministero delle finanze (1%) e dell'Amministrazione dei monopoli di Stato (2%). Il prospetto di cui al presente punto e) e' trasmesso alla Direzione generale dei monopoli di Stato entro il mese di gennaio dell'anno successivo a quello di riferimento, per gli adempimenti ai sensi della legge di contabilita' generale dello Stato.
 
 Tutti gli elaborati di cui al comma 1 devono essere trasmessi dal concessionario, entro gli stessi termini per ciascuno di essi previsti, anche all'Ufficio centrale di ragioneria presso l'Amministrazione dei monopoli di Stato, con esclusione del conto giudiziale che deve pervenire allo stesso ufficio, in doppia copia, dalla Direzione generale dei monopoli di Stato.
 

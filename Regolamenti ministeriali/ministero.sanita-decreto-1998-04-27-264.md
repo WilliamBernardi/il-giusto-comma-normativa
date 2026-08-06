@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-06-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,59 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 29 ma
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            Nella produzione delle paste alimentari speciali, secche e fresche, e' consentito impiegare nell'impasto:
+ 
+                        
+                        
+                            a)
+                            
+                                malto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                glutine;
+
+                            
+                        
+                        
+                            c)
+                            
+                                germe di grano duro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                proteine lattiche idrosolubili;
+
+                            
+                        
+                        
+                            e)
+                            
+                                verdure, prodotti ortofrutticoli e loro derivati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                funghi eduli, tartufi;
+
+                            
+                        
+                        
+                            g)
+                            
+                                aromi naturali, spezie, piante o parti di piante aromatiche commestibili.
+
 Le paste alimentari speciali, secche e fresche, prodotte con aggiunta di malto devono possedere un contenuto in zuccheri riducenti non inferiore al 10 per cento sulla sostanza secca.
 
 Nella produzione delle paste alimentari speciali, secche e fresche, il germe di grano duro non puo' essere impiegato in quantita' inferiore al 3%.
@@ -47,6 +100,80 @@ Nella produzione delle paste alimentari speciali, secche e fresche, le proteine 
                          Il D.P.R. 9 febbraio 2001, n. 187 ha disposto (con l'art. 14, comma 1, lettera b)) dalla data di entrata in vigore del presente regolamento cessa di avere efficacia il decreto del Ministro della sanita' 27 aprile 1998, n. 264.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Nella produzione delle paste alimentari speciali, secche e fresche, e' consentito impiegare nel ripieno:
+ 
+                        
+                        
+                            a)
+                            
+                                carni di tutte le specie animali commestibili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                latte alimentare e prodotti lattierocaseari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                prodotti della pesca conservati in recipienti ermeticamente chiusi o sterilizzati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ovoprodotti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                oli e grassi alimentari;
+
+                            
+                        
+                        
+                            f)
+                            
+                                farine alimentari e loro derivati, derivati del frumento, pangrattato, grissini, prodotti da forno anche dolciari, zuccheri;
+
+                            
+                        
+                        
+                            g)
+                            
+                                verdure e prodotti ortofrutticoli e loro derivati;
+
+                            
+                        
+                        
+                            h)
+                            
+                                funghi eduli, tartufi;
+
+                            
+                        
+                        
+                            i)
+                            
+                                condimenti, idrolizzati proteici ed estratti alimentari;
+
+                            
+                        
+                        
+                            l)
+                            
+                                aromi, spezie, piante o parti di piante aromatiche commestibili. ((1))
 
 --------------
                         AGGIORNAMENTO (1)

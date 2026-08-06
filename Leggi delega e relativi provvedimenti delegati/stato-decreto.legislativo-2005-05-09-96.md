@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2012-02-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -149,6 +149,31 @@ navigazione aerea nelle vicinanze degli stessi;
  Art. 716 (Inquinamento acustico). - La realizzazione di opere e l'imposizione di nuove destinazioni urbanistiche nelle vicinanze degli aeroporti sono subordinate all'osservanza delle norme vigenti in materia di inquinamento acustico.".
 
 Indipendentemente dall'individuazione degli aeroporti di rilevanza nazionale, ai sensi dell'articolo 698 del codice della navigazione, ((. . .)) le disposizioni di cui all'articolo 704, primo e secondo comma, del codice della navigazione, come modificato dal presente decreto legislativo, non si applicano alle concessioni della gestione aeroportuale gia' rilasciate, anche in base a legge speciale e in ipotesi di delocalizzazione funzionale, nonche' ai procedimenti di rilascio della concessione su istanza antecedente alla data di entrata in vigore del presente decreto legislativo, ai sensi del decreto del Ministro dei trasporti e della navigazione 12 novembre 1997, n. 521. Detti procedimenti devono concludersi entro il ((30 giugno 2012)). Decorso inutilmente il detto termine le societa' istanti possono chiedere, con oneri a carico delle medesime, al Ministro delle infrastrutture e dei trasporti la nomina di un Commissario ad acta, il quale nei successivi sessanta giorni provvede sull'istanza, provvedendo al rilascio della concessione una volta verificato il possesso dei necessari requisiti. (6) (7a) ((7))
+
+3.
+                    
+                        
+                            Sono abrogate le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 4 dell'articolo 8 del decreto legislativo 25 luglio 1997, n. 250; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 dell'articolo 1-bis del decreto-legge 8 settembre 2004, n. 237, convertito, con modificazioni, dalla legge 9 novembre 2004, n. 265; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i commi 2 e 4 dell'articolo 2 del decreto-legge 8 settembre 2004, n. 237, convertito, con modificazioni, dalla legge 9 novembre 2004, n. 265.
 
 L'articolo 718 del codice della navigazione e' sostituito dal seguente: 
  "Art. 718 (Funzioni di polizia e di vigilanza). - Le funzioni di polizia degli aerodromi sono esercitate dall'ENAC, anche mediante le proprie articolazioni periferiche. 
@@ -606,6 +631,23 @@ L'articolo 1181 del codice della navigazione e' abrogato.
 
 Il secondo comma dell'articolo 1183 del codice della navigazione e' sostituito dal seguente: "Chiunque demolisce una nave o un galleggiante nazionali ovvero demolisce o smantella un aeromobile nazionale, senza l'autorizzazione prescritta negli articoli 160 o 759, e' punito con la sanzione amministrativa da euro cinquantuno a cinquecentosedici.".
 
+7.
+                    
+                        
+                            All'articolo 1184 del codice della navigazione sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                al primo comma, il numero: "758" e' sostituito dal seguente: "760";
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo comma, il numero: "759" e' sostituito dal seguente: "758".
+
 L'articolo 1185 del codice della navigazione e' abrogato.
 
 L'articolo 1188 del codice della navigazione e' sostituito dal seguente:
@@ -617,6 +659,29 @@ L'articolo 1191 del codice della navigazione e' sostituito dal seguente:
 Il secondo comma dell'articolo 1200 del codice della navigazione e' abrogato.
 
 L'articolo 1202 del codice della navigazione e' abrogato.
+
+13.
+                    
+                        
+                            All'art. 1204 del codice della navigazione sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: "(Sorvolo di aeromobili stranieri)";
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo comma e' abrogato;
+                            
+                        
+                        
+                            c)
+                            
+                                al terzo comma le parole: "Nei casi previsti dal primo e dal secondo comma" sono soppresse.
 
 Nell'articolo 1205 del codice della navigazione, i numeri: "818, 834, 835, 836" sono sostituiti dal seguente: "835".
 

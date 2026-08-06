@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2021-03-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,6 +27,31 @@ Adotta
 ## Art. 1. — Biglietti di ingresso
 
 L'ingresso ai musei, alle aree e ai parchi archeologici ed ai complessi monumentali, come definiti all'articolo 101 del Codice, e' consentito, di regola, dietro pagamento di un biglietto. (2)
+
+2.
+                    
+                        
+                            La tipologia del biglietto di ingresso e' la seguente: 
+ 
+                        
+                        
+                            a)
+                            
+                                biglietto unico che consente l'accesso ad uno solo dei luoghi di cui al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                biglietto cumulativo che consente l'accesso a piu' luoghi tra quelli indicati al comma 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                biglietto integrato che consente l'accesso ad uno o piu' dei luoghi indicati al comma 1, insieme ad uno o piu' monumenti, musei, gallerie, scavi di antichita', parchi e giardini non statali nonche' mostre o altre manifestazioni culturali, statali e non statali.
 
 La tipologia dei biglietti di ingresso di cui alle lettere b) e c) del comma 2 non esclude l'accesso ai luoghi di cui al comma 1 mediante biglietto unico.
 
@@ -84,6 +109,87 @@ Il competente Direttore ((della Direzione regionale Musei)), e, con riferimento 
 Il competente Direttore della Direzione regionale Musei e, con riferimento ai musei e istituti dotati di autonomia speciale, il Direttore possono stabilire, d'intesa con la Direzione generale Musei, ulteriori giornate di libero accesso o, in alternativa, fasce orarie di libero accesso, tenendo conto delle esigenze degli utenti e delle caratteristiche dell'ambito territoriale di riferimento. Il relativo calendario e' pubblicato sui siti internet dell'istituto o luogo della cultura e della Direzione regionale interessati, nonche' sul sito internet del Ministero.
 
 ))
+
+3.
+                    
+                        
+                            E' consentito l'ingresso gratuito agli istituti ed ai luoghi della cultura di cui all'articolo 1, comma 1, ivi inclusi, in assenza di un percorso espositivo separato e di un biglietto distinto, gli spazi in cui sono allestite mostre o esposizioni temporanee: (4) 
+ 
+                        
+                        
+                            a)
+                            
+                                alle guide turistiche dell'Unione europea nell'esercizio della propria attivita' professionale, mediante esibizione di valida licenza rilasciata dalla competente autorita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli interpreti turistici dell'Unione europea quando occorra la loro opera a fianco della guida, mediante esibizione di valida licenza rilasciata dalla competente autorita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al personale del Ministero; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai membri dell'I.C.O.M. (International Council of Museums); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai visitatori che non abbiano compiuto il diciottesimo anno di eta'. I visitatori che abbiano meno di dodici anni debbono essere accompagnati; (4) 
+
+                            
+                        
+                        
+                            f)
+                            
+                                a gruppi o comitive di studenti delle scuole pubbliche e private dell'Unione europea, accompagnati dai loro insegnanti, previa prenotazione e nel contingente stabilito dal direttore dell'istituto o del luogo della cultura; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                ai docenti ed agli studenti iscritti alle facolta' di architettura, di conservazione dei beni culturali, di scienze della formazione e ai corsi di laurea in lettere o materie letterarie con indirizzo archeologico o storico-artistico delle facolta' di lettere e filosofia, o a facolta' e corsi corrispondenti istituiti negli Stati membri dell'Unione europea. Il biglietto gratuito e' rilasciato agli studenti mediante esibizione del certificato di iscrizione per l'anno accademico in corso; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                ai docenti ed agli studenti iscritti alle accademie di belle arti o a corrispondenti istituti dell'Unione europea. Il biglietto gratuito e' rilasciato agli studenti mediante esibizione del certificato di iscrizione per l'anno accademico in corso; 
+
+                            
+                        
+                        
+                            h-bis)
+                            
+                                al personale docente della scuola, di ruolo o con contratto a termine, dietro esibizione di idonea attestazione rilasciata dalle istituzioni scolastiche, senza nuovi o maggiori oneri per la finanza pubblica, sul modello predisposto dal Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                ai portatori di handicap e ad un loro familiare o ad altro accompagnatore che dimostri la propria appartenenza a servizi di assistenza socio-sanitaria; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                agli operatori delle associazioni di volontariato che svolgano, in base a convenzioni in essere stipulate con il Ministero ai sensi dell'articolo 112, comma 8, del Codice, attivita' di promozione e diffusione della conoscenza dei beni culturali.
 
 Per ragioni di studio o di ricerca, attestate da istituzioni scolastiche o universitarie, da accademie, da istituti di ricerca e di cultura italiani o stranieri nonche' da organi del Ministero, ovvero per particolari e motivate esigenze, i direttori degli istituti o dei luoghi della cultura possono consentire ai soggetti che ne facciano richiesta l'ingresso gratuito per periodi determinati.
 

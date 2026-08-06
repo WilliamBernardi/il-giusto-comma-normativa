@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2008-04-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,7 +28,85 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini antincendio si definisce:
+ 
+                        
+                        
+                            a)
+                            
+                                eliporto: area idonea alla partenza e all'approdo di elicotteri, conforme alle prescrizioni di cui all'annesso 14 ICAO - Volume II;
+
+                            
+                        
+                        
+                            b)
+                            
+                                aviosuperficie: area idonea alla partenza e all'approdo di aeromobili, diversa dall'aeroporto, non appartenente al demanio aeronautico, disciplinata da norme speciali, ferme restando le competenze dell'ENAC in materia di sicurezza, nonche' delle regioni, degli enti locali e delle altre autorita' secondo le rispettive attribuzioni, come riportato dall'articolo 1 del decreto 1° febbraio 2006 del Ministero delle infrastrutture e dei trasporti e dall'articolo 701 del Nuovo codice della navigazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elisuperficie: aviosuperficie destinata ad uso esclusivo degli elicotteri, che non sia un eliporto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                elisuperficie in elevazione: elisuperficie posta su struttura avente elevazione di tre metri o piu' rispetto al livello del terreno o del mare, se trattasi di piattaforma fissa in acqua;
+
+                            
+                        
+                        
+                            e)
+                            
+                                tempo di risposta: tempo intercorrente tra la chiamata iniziale ricevuta dal servizio di soccorso e lotta antincendio ed il primo intervento effettivo sul luogo dell'incidente da parte del servizio di assistenza antincendio e soccorso;
+
+                            
+                        
+                        
+                            f)
+                            
+                                lunghezza fuori tutto: massima lunghezza fra i punti estremi dell'elicottero con i rotori in moto;
+
+                            
+                        
+                        
+                            g)
+                            
+                                assistenza antincendio e soccorso: presenza di dotazioni antincendio e personale addetto pronto ad intervenire in occasione di movimenti aerei;
+
+                            
+                        
+                        
+                            h)
+                            
+                                movimento aereo: un atterraggio o un decollo di elicotteri.
+
 ## Art. 2. — Scopo ed ambito di applicazione
+
+1.
+                    
+                        
+                            Le disposizioni del presente decreto si applicano a:
+ 
+                        
+                        
+                            a)
+                            
+                                eliporti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elisuperfici di cui all'articolo 14 del decreto del Ministro delle infrastrutture e dei trasporti 1° febbraio 2006.
 
 Le disposizioni del presente decreto non si applicano nei casi previsti dagli articoli 2, comma 2, lettera a), e 7 del decreto del Ministro delle infrastrutture e dei trasporti 1° febbraio 2006.
 

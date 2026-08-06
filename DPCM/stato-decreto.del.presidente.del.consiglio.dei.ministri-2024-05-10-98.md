@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2024-05-10;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 10 maggio 2024 98 Regolamento recante attuazione dell'articolo 19-bis del decreto legislativo 18 agosto 2015, n. 142, introdotto con l'articolo 5 della legge 7 aprile 2017, n. 47, recante le modalita' di svolgimento del colloquio che il minore straniero non accompagnato deve effettuare al momento dell'ingresso nelle strutture di prima accoglienza. (24G00114)
@@ -53,7 +53,13 @@ L'operatore che conduce il colloquio e gli altri soggetti legittimati ad assiste
 
 Il colloquio e' diretto ad approfondire la conoscenza della storia personale e familiare del minore e ad acquisire tutte le notizie utili per la sua protezione e per l'individuazione di un percorso di accoglienza personalizzato diretto alla realizzazione del superiore interesse del minore.
 
+2.Il colloquio e' strutturato nelle seguenti fasi: a)informazione del minore sul contesto del colloquio, con la presentazione degli operatori, l'illustrazione delle modalita' di svolgimento dello stesso e delle finalita' a cui e' diretto; b)approfondimento della storia personale e familiare del minore, delle circostanze che hanno determinato la situazione di abbandono o di allontanamento del minore stesso dalla sua famiglia e dal suo Paese di origine o di provenienza, anche con riferimento alle sue aspettative future; c)ricostruzione insieme al minore dei fatti dallo stesso narrati; d)prospettazione e condivisione con il minore del progetto di accoglienza.
+
+3.Ai fini dell'acquisizione delle notizie di cui al comma 2, lettera b), in particolare e' necessario: a)raccogliere i dati anagrafici e verificare la possibilita' di reperimento dei documenti di identita' del minore; b)evidenziare le lingue parlate dal minore e se lo stesso appartiene ad una minoranza linguistica o etnica; c)ricostruire il vissuto del minore con riferimento al contesto del Paese di origine o di provenienza e al percorso scolastico seguito; d)ricostruire le circostanze della partenza dal suo Paese di origine o di provenienza e del viaggio effettuato, ponendo in evidenza le esperienze vissute anche durante il viaggio e dopo l'arrivo in Italia; e)ricostruire le relazioni familiari, affettive e amicali nel proprio Paese ed in Italia, anche con riferimento alla comunita' etnica di appartenenza; f)raccogliere elementi sulla presenza di familiari in Italia o in altri Paesi dell'Unione europea o in Paesi terzi, al fine di valutare la possibilita' di ricongiungimento; g)evidenziare stati di particolare emotivita' o di vulnerabilita' derivanti anche da violenze psichiche o fisiche o dall'essere stato vittima di tratta o altre forme di sfruttamento, nonche' la presenza di bisogni specifici; h)rilevare fatti o circostanze che potrebbero dare luogo alle misure di protezione internazionale o ad altre misure di protezione; i)evidenziare le aspettative del minore in relazione al suo percorso di accoglienza.
+
 ## Art. 4. — Conclusione del colloquio
+
+1.Al termine del colloquio, l'operatore di cui all'articolo 2, comma 5, predispone, sottoscrivendola, una dettagliata relazione recante, oltre ai dati anagrafici del minore: a)le informazioni utili per la ricostruzione della storia personale del minore; b)le eventuali relazioni familiari, affettive ed amicali del minore, nonche' i rapporti con la comunita' etnica di riferimento; c)gli eventuali profili di vulnerabilita'; d)i fatti e le circostanze che possano dar luogo all'attivazione delle forme di protezione; e)le modalita' di coinvolgimento del minore nel colloquio; f)l'opinione del minore sul progetto di accoglienza prospettato.
 
 La relazione di cui al comma 1 e' inserita nella cartella sociale prevista dall'articolo 9, comma 2, della legge 7 aprile 2017, n. 47, che viene trasmessa ai servizi sociali del comune e alla procura della Repubblica del Tribunale dei minorenni, competenti.
 

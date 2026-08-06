@@ -6,8 +6,8 @@ urn: urn:nir:stato:regio.decreto:1905-12-21;456
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T10:27:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO
@@ -53,6 +53,50 @@ Falegnami e intagliatori.
 Fabbri.
 
 Muratori e decoratori.
+
+4.
+                    
+                        
+                            Lavoranti in giocattoli. 
+ 
+ Nella scuola s'insegnano le seguenti materie: 
+ 
+ lingua italiana, aritmetica e geometria, disegno geometrico ed ornamentale, disegno architettonico e tecnologico, plastica e sue applicazioni, elementi di fisica, di meccanica, di metallurgia e di tecnologia. 
+ 
+ Per le esercitazioni pratiche degli allievi sono annessi alla scuola i seguenti laboratori ed officine: 
+ 
+ 
+                        
+                        
+                            a)
+                            
+                                officina per la lavorazione dei metalli; 
+ 
+
+                            
+                        
+                        
+                            b)
+                            
+                                officina per la lavorazione e l' intaglio del legno; 
+ 
+
+                            
+                        
+                        
+                            c)
+                            
+                                officina per la fabbricazione di giocattoli; 
+ 
+
+                            
+                        
+                        
+                            d)
+                            
+                                laboratori per la plastica e per le arti murarie. 
+ 
+ Potranno essere aggiunti alla scuola nuovi insegnamenti, come pure altre sezioni, officine e laboratori, con decreto Ministeriale, sentita la Giunta di vigilanza.
 
 ## Art. 4.
 

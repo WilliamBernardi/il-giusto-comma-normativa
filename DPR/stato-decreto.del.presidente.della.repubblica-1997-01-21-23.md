@@ -8,8 +8,8 @@ codice_redazionale: 097G0053
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,90 @@ Sulla proposta del Ministro di grazia e giustizia;
 Ai fini delle disposizioni del presente regolamento, per "decreto legislativo" si intende il decreto legislativo 27 gennaio 1992, n. 88.
 
 ## Art. 2. — Contenuto della domanda di iscrizione
+
+1.
+                    
+                        
+                            Nella domanda di iscrizione nel registro dei revisori contabili ai sensi dell'articolo 6 del decreto legislativo il legale rappresentante della societa' deve dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione o la ragione sociale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sede principale o secondaria con rappresentanza stabile in Italia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il cognome, il nome, il sesso, il luogo e la data di nascita degli amministratori;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la residenza, anche all'estero, il domicilio in Italia e, se diverso, anche il domicilio fiscale degli amministratori;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il numero di codice fiscale degli amministratori;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'assenza in capo agli amministratori di:
+ 1) provvedimenti di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese;
+ 2) misure di prevenzione ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575, e successive modificazioni e integrazioni;
+ 3) condanne alla reclusione, anche se con pena condizionalmente sospesa, per uno dei delitti indicati all'articolo 8, comma 1, lettera c), del decreto legislativo;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'iscrizione della maggioranza degli amministratori nel registro dei revisori contabili, con gli estremi della iscrizione di ognuno;
+
+                            
+                        
+                        
+                            h)
+                            
+                                il nome, il cognome, la data e il luogo di nascita delle persone che rappresentano la societa' nel controllo legale dei conti;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la iscrizione delle persone che rappresentano la societa' nel controllo legale dei conti nel registro dei revisori contabili e gli estremi della iscrizione di ognuno;
+
+                            
+                        
+                        
+                            l)
+                            
+                                nelle societa' regolate nei capi II, III e IV del titolo V, del libro V del codice civile, la composizione per quote del capitale sociale, nonche' il cognome, il nome, la data e il luogo di nascita dei soci costituenti la maggioranza numerica e per quote e gli estremi della loro iscrizione nel registro dei revisori contabili;
+
+                            
+                        
+                        
+                            m)
+                            
+                                nelle societa' regolate nei capi V, VI e VII del titolo V del libro V del codice civile la composizione dell'assemblea ordinaria nonche' il nome, il cognome, la data e il luogo di nascita dei soci che detengono la maggioranza dei diritti di voto nell'assemblea e gli estremi della loro iscrizione nel registro dei revisori contabili.
 
 Alla domanda e' allegata copia autentica dell'atto costitutivo con le eventuali modificazioni.
 

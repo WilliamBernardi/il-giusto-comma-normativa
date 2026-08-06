@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2022-03-29;49
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,31 @@ L'accesso alla qualifica di ispettore tecnico-scientifico del Corpo nazionale de
 
 Il bando di concorso, per ciascun ambito tecnico-scientifico individuato al comma 3, e' adottato con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, di seguito denominato «Dipartimento», e pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
+3.
+                        
+                            
+                                I bandi di concorso indicano il numero di posti attribuito a ciascun ambito tecnico-scientifico che si intende attivare, assicurando l'assunzione di almeno una unita' di personale per ciascuno tra gli ambiti di seguito specificati, fermo restando il rispetto del limite numerico complessivo della dotazione organica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ambito bio-chimico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ambito energetico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ambito costruzioni e impianti.
+
 Al concorso possono partecipare i cittadini italiani in possesso dei requisiti di cui all'articolo 103 del decreto legislativo 13 ottobre 2005, n. 217, fermi restando i requisiti previsti per le categorie riservatarie di cui all'articolo 102, comma 2, del medesimo decreto legislativo. Per l'individuazione del numero dei posti riservati alle predette categorie, si applica il criterio dell'arrotondamento, per eccesso o per difetto, all'unita' intera piu' vicina.
 
 L'identificazione informatica dei candidati che partecipano alla procedura concorsuale e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82.
@@ -39,6 +64,31 @@ L'identificazione informatica dei candidati che partecipano alla procedura conco
 ## Art. 2. — Prova preselettiva
 
 Qualora il numero delle domande presentate per il singolo ambito tecnico-scientifico previsto dal bando superi di almeno dieci volte il numero complessivo dei posti messi a concorso per il medesimo ambito, l'ammissione alle prove di esame puo' essere subordinata, con decreto del Capo del Dipartimento, al superamento di una prova preselettiva.
+
+2.
+                        
+                            
+                                La prova preselettiva consiste nella risoluzione di quesiti a risposta multipla finalizzati ad accertare le capacita' logico-deduttive e analitiche e la conoscenza delle materie di seguito specificate distintamente per ciascun ambito professionale tecnico-scientifico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ambito bio-chimico: elementi di chimica ed elementi di biologia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ambito energetico: elementi di fisica ed elementi di chimica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ambito costruzioni e impianti: elementi di matematica (algebra e geometria) ed elementi di fisica.
 
 Per la formulazione dei quesiti e l'organizzazione della preselezione, il Dipartimento puo' avvalersi di aziende specializzate in selezione di personale, ai sensi dell'articolo 7, comma 2-bis, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487.
 
@@ -60,6 +110,24 @@ La seconda prova scritta consiste nella stesura di un elaborato oppure nella ris
 
 Sono ammessi alla prova orale i candidati che hanno riportato in ciascuna prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
+5.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie oggetto delle prove scritte di cui ai commi 2 e 3, differenziate in funzione dello specifico ambito tecnico-scientifico, anche sulle seguenti materie comuni a tutti gli ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di normativa sulla sicurezza nei luoghi di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, e ordinamento del personale del Corpo nazionale.
+
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso, e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
@@ -74,6 +142,31 @@ L'accesso alla qualifica di ispettore tecnico-scientifico del Corpo nazionale, a
 
 Il bando di concorso, per ciascun ambito tecnico-scientifico individuato al comma 3, e' adottato con decreto del Capo del Dipartimento e pubblicato sul sito internet istituzionale www.vigilfuoco.it.
 
+3.
+                        
+                            
+                                I bandi di concorso indicano il numero di posti attribuito a ciascun ambito tecnico-scientifico che si intende attivare, assicurando l'assunzione di almeno una unita' di personale per ciascuno tra gli ambiti di seguito specificati, fermo restando il rispetto del limite numerico complessivo della dotazione organica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ambito bio-chimico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ambito energetico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ambito costruzioni e impianti.
+
 Il concorso e' riservato al personale del Corpo nazionale in possesso dei requisiti di cui agli articoli 102, commi 1, lettera b) e 3, e 106, comma 1, del decreto legislativo 13 ottobre 2005, n. 217.
 
 L'identificazione informatica dei candidati che partecipano alla procedura concorsuale e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82, oppure mediante il sistema di autenticazione in uso presso il Dipartimento.
@@ -86,6 +179,24 @@ La prova scritta consiste nella stesura di un elaborato oppure nella risposta si
 
 Sono ammessi alla prova orale i candidati che hanno riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
+4.
+                        
+                            
+                                La prova orale verte sulle materie, differenziate e specificate per ciascun ambito tecnico-scientifico previsto nel bando, nell'allegato 1 ed afferenti al gruppo A e al gruppo B, nonche' sulle seguenti materie comuni a tutti gli ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di normativa sulla sicurezza nei luoghi di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, e ordinamento del personale del Corpo nazionale.
+
 Nell'ambito della prova orale e' accertata la conoscenza della lingua straniera, scelta dal candidato all'atto della presentazione della domanda, tra quelle indicate nel bando di concorso, e la conoscenza dell'uso delle apparecchiature e delle applicazioni informatiche piu' diffuse.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
@@ -93,6 +204,110 @@ La prova orale si intende superata se il candidato ottiene una votazione non inf
 ## Art. 6. — Titoli
 
 La commissione esaminatrice di ciascun ambito professionale tecnico-scientifico valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i titoli di studio e le abilitazioni professionali, nonche' l'anzianita' di effettivo servizio secondo i punteggi di cui al comma 4.
+
+2.
+                        
+                            
+                                I titoli di studio e le abilitazioni professionali ammessi a valutazione, con i relativi punteggi, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree ad indirizzo tecnico-scientifico di seguito indicate o equiparate: punti 3,00 
+ 1. biotecnologie (classe L-02); 
+ 2. scienze biologiche (classe L-13); 
+ 3. scienze e tecnologie agrarie e forestali (classe L-25); 
+ 4. scienze e tecnologie chimiche (classe L-27); 
+ 5. scienze e tecnologie farmaceutiche (classe L-29); 
+ 6. scienze e tecnologie fisiche (classe L-30); 
+ 7. scienze e tecnologie per l'ambiente e la natura (classe L-32); 
+ 8. scienze geologiche (classe L-34); 
+ 9. laurea conseguita al termine di un corso di laurea in ingegneria o in architettura (tutte le classi); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lauree diverse da quelle indicate alla lettera a): punti 1,50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lauree magistrali ad indirizzo tecnico-scientifico di seguito indicate o equiparate: punti 4,00 
+ 1. biologia (classe LM-06); 
+ 2. biotecnologie agrarie (classe LM-07); 
+ 3. biotecnologie industriali (classe LM-08); 
+ 4. biotecnologie mediche, veterinarie e farmaceutiche (classe LM-09); 
+ 5. fisica (classe LM-17); 
+ 6. scienze chimiche (classe LM-54); 
+ 7. scienze della natura (classe LM-60); 
+ 8. scienze e tecnologie agrarie (classe LM-69); 
+ 9. scienze e tecnologie della chimica industriale (classe LM-71); 
+ 10. scienze e tecnologie forestali e ambientali (classe LM-73); 
+ 11. scienze e tecnologie geologiche (classe LM-74); 
+ 12. scienze e tecnologie per l'ambiente e il territorio (classe LM-75); 
+ 13. scienze geofisiche (classe LM-79); 
+ 14. laurea magistrale conseguita al termine di un corso di laurea magistrale in ingegneria o in architettura (tutte le classi); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lauree magistrali diverse da quelle indicate alla lettera c): punti 2,00; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    master universitario di I livello avente come requisito di accesso il possesso di una delle lauree di cui alla lettera a): punti 0,30; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    master universitario di I livello diversi da quelli di cui alla lettera e): punti 0,15; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    master universitario di II livello avente come requisito di accesso il possesso di una delle lauree magistrali di cui alla lettera c): punti 0,50; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    master universitario di II livello diversi da quelli di cui alla lettera g): punti 0,25; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    diploma di specializzazione, conseguito al termine di un corso di specializzazione istituito dalle Universita', correlato al possesso di una delle lauree magistrali di cui alla lettera c): punti 0,75; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    dottorato di ricerca correlato al possesso di una delle lauree magistrali di cui alla lettera c): punti 2,00; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    abilitazione professionale correlata al titolo di studio costituente requisito di partecipazione al concorso, oppure abilitazione professionale correlata alle lauree di cui alle lettere a) e c): punti 0,50. Tale punteggio non e' cumulabile qualora il candidato sia in possesso di piu' abilitazioni.
 
 I punteggi dei titoli di studio di cui al comma 2 sono fra loro cumulabili, fino al raggiungimento del punteggio massimo complessivo pari a punti 6,00. Non sono cumulabili tra loro i punteggi per lauree e lauree magistrali afferenti al medesimo corso di laurea, considerandosi assorbente il punteggio della laurea magistrale.
 

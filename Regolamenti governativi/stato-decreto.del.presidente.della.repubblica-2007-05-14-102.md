@@ -8,8 +8,8 @@ codice_redazionale: 007G0116
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -46,6 +46,31 @@ I componenti della Commissione restano in carica fino alla scadenza del termine 
 ## Art. 3. — Competenze della Commissione
 
 La Commissione svolge i compiti di indirizzo, coordinamento, controllo e di programmazione delle risorse in ordine ai programmi di assistenza ed integrazione sociale di cui all'articolo 18 del testo unico ed ai programmi speciali di cui all'articolo 13 della legge 11 agosto 2003, n. 228.
+
+2.
+                    
+                        
+                            In particolare la Commissione provvede a:
+ 
+                        
+                        
+                            a)
+                            
+                                esprimere il parere sulle richieste di iscrizione nell'apposita sezione del registro di cui all'articolo 52, comma 1, lettera b), del decreto del Presidente della Repubblica 31 agosto 1999, n. 394, e successive modificazioni, dei soggetti privati che intendano realizzare i programmi di cui al comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                valutare i programmi da finanziare, previa individuazione annualmente, delle strategie di intervento e prevenzione sulla base delle risorse previste dagli articoli 12 e 13, legge 11 agosto 2003, n. 228, in conformita' ai criteri e alle modalita' stabiliti con decreto del Ministro per i diritti e le pari opportunita', di concerto con i Ministri della solidarieta' sociale, dell'interno, delle politiche per la famiglia e della giustizia, previa intesa in sede di Conferenza unificata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                verificare lo stato di attuazione dei programmi di cui al comma 1 e la loro efficacia. A tale fine i soggetti pubblici e privati che realizzano i programmi fanno pervenire alla Commissione ogni sei mesi una relazione.
 
 La Commissione assume ogni iniziativa per acquisire elementi necessari per le attivita' di competenza, nonche' per lo sviluppo di campagne promozionali e formative.
 

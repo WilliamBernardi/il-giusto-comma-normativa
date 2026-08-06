@@ -7,8 +7,8 @@ urn: urn:nir:ministero.istruzione.universita.e.ricerca:decreto:2015-01-29;10
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -54,7 +54,91 @@ Ai fini dello svolgimento della prova, il Ministero puo' prevedere l'uso di calc
 
 ## Art. 4. — Liceo delle scienze umane
 
+1.
+                        
+                            
+                                Con riferimento al Liceo delle scienze umane, la prova di cui all'articolo 1 consiste nella trattazione di un argomento afferente ai seguenti ambiti disciplinari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    antropologico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pedagogico, con riferimento ad autori particolarmente significativi del Novecento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sociologico, con riferimento a problemi o anche a concetti fondamentali. 
+ La trattazione prevede alcuni quesiti di approfondimento.
+
+2.
+                        
+                            
+                                Con riferimento al Liceo delle scienze umane - Opzione economico-sociale, la prova di cui all'articolo 1 ha ad oggetto una delle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trattazione di problemi, concetti o anche temi della disciplina; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analisi e trattazione, qualitativa e quantitativa, di particolari casi o situazioni socio-politiche, giuridiche ed economiche, che possono essere presentate al candidato anche con l'ausilio di grafici, tabelle statistiche, articoli dei giornali o di riviste specialistiche. 
+ La trattazione prevede alcuni quesiti di approfondimento.
+
 ## Art. 5. — Liceo artistico
+
+1.
+                        
+                            
+                                La prova di cui all'articolo 1 consiste nella elaborazione di un progetto, relativo allo specifico indirizzo del Liceo artistico, che tiene conto della dimensione pratica e laboratoriale delle discipline coinvolte. Il progetto e' sviluppato secondo le fasi di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi e rielaborazione delle fonti rispetto alla traccia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    schizzi preliminari e bozzetti (ogni candidato ha facolta' di utilizzare le esperienze espressive acquisite, facendo emergere le attitudini personali nell'autonomia creativa); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    restituzione tecno-grafica coerente con il progetto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    realizzazione di modello o prototipo di una parte significativa del progetto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    relazione illustrativa dettagliata sulle scelte di progetto.
 
 Le modalita' operative consistono in opzioni tecniche a scelta del candidato in relazione al tema previsto dallo specifico indirizzo.
 
@@ -62,13 +146,99 @@ La durata massima della prova e' di tre giorni, per sei ore al giorno.
 
 ## Art. 6. — Liceo linguistico
 
+1.
+                        
+                            
+                                La prova di cui all'articolo 1 consiste nell'analisi di uno dei testi proposti ed e' finalizzata a verificare le capacita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comprendere e interpretare testi scritti di diverse tipologie e generi (temi di attualita', storico-sociali, letterari o artistici), dimostrando di conoscerne le caratteristiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    produrre testi scritti per riferire o descrivere o argomentare.
+
+2.
+                        
+                            
+                                La prova si articola in due parti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risposte a domande aperte o anche chiuse, relative al testo scelto dal candidato fra quelli proposti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    redazione di un testo in forma di narrazione o descrizione o argomentazione afferente alla tematica trattata nel testo scelto (lunghezza massima 300 parole).
+
 ## Art. 7. — Licei musicali e coreutici
 
 Con riferimento alla sezione musicale la prova di cui all'articolo 1 si svolge nelle due parti descritte nei commi 2 e 3.
 
+2.
+                        
+                            
+                                La prima parte della prova, che ha la durata di un giorno, per massimo sei ore, ha ad oggetto una delle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi di una composizione, o di una sua parte significativa, della letteratura musicale classica, moderna o contemporanea con relativa contestualizzazione storica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    composizione di un brano attraverso un basso dato con modulazione ai toni vicini o armonizzazione di una melodia tonale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    realizzazione e descrizione di un percorso digitale del suono e dei materiali correlati allo scopo di produrre un brano musicale, o anche la sonorizzazione di un video; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    progettazione di un'applicazione musicale (Plug in) di produzione e trattamento del suono in un ambiente a oggetti contenente la parte di sintesi, di equalizzazione e di spazializzazione.
+
 La seconda parte si svolge il giorno successivo e consiste nella prova di strumento. Essa, della durata massima di venti minuti, prevede l'esecuzione e l'interpretazione di brani solistici o di musica d'insieme o tratti da un repertorio concertistico con riduzione pianistica.
 
 Con riferimento alla sezione coreutica la prova di cui all'articolo 1 si svolge nelle due parti descritte nei commi 5 e 6.
+
+5.
+                        
+                            
+                                La prima parte della prova ha per oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esibizione collettiva, della durata massima di due ore, in cui tutti i candidati sono coinvolti su un tema riguardante gli ambiti della sezione classica e contemporanea definiti in allegato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione accompagnatoria, della durata massima di quattro ore, redatta da ciascun candidato sulla base dell'analisi stilistica degli elementi tecnici dell'esibizione e svolta con gli opportuni riferimenti alla storia della danza.
 
 La seconda parte si svolge il giorno successivo e consiste nella esibizione individuale. Essa, della durata massima di dieci minuti, prevede una variazione del repertorio classico nella sezione classica ovvero un brano del repertorio contemporaneo nella sezione contemporanea.
 
@@ -78,11 +248,100 @@ Per entrambe le sezioni, la prima e la seconda parte della prova concorrono alla
 
 La prova di cui all'articolo 1 fa riferimento a situazioni operative in ambito economico-aziendale e richiede al candidato attivita' di analisi, scelta, decisione, individuazione e definizione di linee operative, individuazione di problemi e definizione motivata delle soluzioni, ricerca e produzione di documenti aziendali.
 
+2.
+                        
+                            
+                                La prova consiste in una delle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi di testi e documenti economici attinenti al percorso di studio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analisi di casi aziendali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    simulazioni aziendali.
+
 La struttura della prova prevede una prima parte, che tutti i candidati sono tenuti a svolgere, seguita da una seconda parte costituita da quesiti tra i quali il candidato scegliera' sulla base del numero minimo indicato in calce al testo.
+
+4.
+                        
+                            
+                                Nel caso in cui la materia della seconda prova scritta sia la lingua inglese o la seconda lingua comunitaria, la prova si articola in due parti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comprensione e analisi di testi scritti, continui o anche non continui, relativi al contesto del percorso di studio, con risposte a domande aperte o anche chiuse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elaborazione di un testo scritto, sulla base della documentazione fornita, riguardante esperienze, processi e situazioni relativi al settore di indirizzo.
 
 ## Art. 9. — Istituti tecnici - Settore tecnologico
 
 La prova di cui all'articolo 1 fa riferimento a situazioni operative in ambito tecnologico-aziendale e richiede al candidato attivita' di analisi tecnologico-tecniche, scelta, decisione su processi produttivi, ideazione, progettazione e dimensionamento di prodotti, individuazione di soluzioni e problematiche organizzative e gestionali.
+
+2.
+                        
+                            
+                                La prova consiste in una delle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi di problemi tecnologico-tecnici partendo da prove di laboratorio su materiali semilavorati, prodotti finiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analisi di caratteristiche di macchine e apparecchiature partendo da prove di verifica e collaudo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ideazione e progettazione di componenti e prodotti delle diverse filiere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    analisi di processi tecnologici di produzione, gestione e controllo di qualita' dei processi produttivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sviluppo di strumenti per l'implementazione di soluzioni a problemi organizzativi e gestionali dei processi produttivi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gestione di attivita' produttive e del territorio nel rispetto e tutela dell'ambiente.
 
 La struttura della prova prevede una prima parte che tutti i candidati sono tenuti a svolgere, seguita da una seconda parte costituita da quesiti tra i quali il candidato scegliera' sulla base del numero minimo indicato in calce al testo.
 
@@ -90,11 +349,100 @@ La struttura della prova prevede una prima parte che tutti i candidati sono tenu
 
 La prova di cui all'articolo 1 fa riferimento a situazioni operative della filiera di servizio e richiede al candidato attivita' di analisi, scelta, decisione sullo svolgimento dei processi produttivi e dei servizi.
 
+2.
+                        
+                            
+                                La prova ha ad oggetto una delle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione, analisi ed elaborazione di un tema relativo al percorso professionale anche sulla base di documenti, tabelle e dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analisi e soluzione di problematiche della propria area professionale (caso aziendale); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuazione e predisposizione delle fasi per la realizzazione di un prodotto o anche di un servizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individuazione di modalita' e tecniche di commercializzazione dei prodotti e dei servizi.
+
 La struttura della prova prevede una prima parte che tutti i candidati sono tenuti a svolgere, seguita da una seconda parte costituita da quesiti tra i quali il candidato scegliera' sulla base del numero minimo indicato in calce al testo.
+
+4.
+                        
+                            
+                                Nel caso in cui, con riguardo al settore Servizi per l'enogastronomia e l'ospitalita' alberghiera - Articolazione accoglienza turistica, la materia della seconda prova scritta sia la lingua inglese o la seconda lingua straniera, la prova si articola in due parti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comprensione e analisi di testi scritti, continui o anche non continui, relativi al contesto del percorso di studio, con risposte a domande aperte o anche chiuse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elaborazione di un testo scritto, sulla base della documentazione fornita, riguardante esperienze, processi e situazioni relative al settore di indirizzo.
 
 ## Art. 11. — Istituti professionali - Settore industria e artigianato
 
 La prova di cui all'articolo 1 fa riferimento a situazioni operative, professionalmente rilevanti, nell'ambito della filiera industriale o artigianale di interesse e richiede al candidato attivita' di analisi, scelta, decisione sullo svolgimento dei processi produttivi e dei servizi.
+
+2.
+                        
+                            
+                                La prova ha ad oggetto una delle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    analisi e problemi tecnici relativi alle materie prime, ai materiali e ai dispositivi del settore di riferimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diagnosi nella predisposizione, conduzione e mantenimento in efficienza di macchine, impianti e attrezzature; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizzazione dei servizi tecnici nel rispetto delle normative sulla sicurezza personale e ambientale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individuazione e predisposizione delle fasi per la realizzazione di un prodotto artigianale o industriale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    individuazione di modalita' e tecniche di commercializzazione dei prodotti o anche dei servizi.
 
 La struttura della prova prevede una prima parte che tutti i candidati sono tenuti a svolgere, seguita da una seconda parte costituita da quesiti tra i quali il candidato scegliera' sulla base del numero minimo indicato in calce al testo.
 

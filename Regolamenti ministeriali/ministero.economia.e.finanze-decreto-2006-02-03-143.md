@@ -8,8 +8,8 @@ codice_redazionale: 006G0154
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,13 +31,214 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Nel presente regolamento si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «direttiva», la direttiva del Consiglio delle Comunita' europee n. 91/308/CEE del 10 giugno 1991, modificata dalla direttiva del Parlamento europeo e del Consiglio dell'Unione europea n. 2001/97/CE del 4 dicembre 2001;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «legge antiriciclaggio», il decreto-legge 3 maggio 1991, n. 143, convertito, con modificazioni, dalla legge 5 luglio 1991, n. 197, e successive modificazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «decreto», il decreto legislativo 20 febbraio 2004, n. 56, recante: «Attuazione della direttiva 2001/97/CE in materia di prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi da attivita' illecite»;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «codice in materia di protezione dei dati personali» il decreto legislativo 30 giugno 2003, n. 196;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «UIC», l'Ufficio italiano dei cambi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «operatori», i soggetti indicati nell'articolo 2 del presente regolamento;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «personale incaricato», il personale dipendente e i collaboratori esterni dei quali gli operatori si avvalgono per lo svolgimento dell'attivita';
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «cliente», il soggetto che compie operazioni con gli operatori;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «dati identificativi», il nome e il cognome, il luogo e la data di nascita, l'indirizzo, il codice fiscale e gli estremi del documento di identificazione o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale ed il codice fiscale;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «mezzi di pagamento», il denaro contante, gli assegni bancari e postali, gli assegni circolari e gli altri assegni ad essi assimilabili o equiparabili, i vaglia postali, gli ordini di accreditamento o di pagamento, le carte di credito e le altre carte di pagamento, ogni altro strumento o disposizione che permetta di trasferire, movimentare o acquisire, anche per via telematica, fondi, valori o disponibilita' finanziarie;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «operazione frazionata», un'operazione unitaria sotto il profilo economico di valore superiore a 12.500 euro posta in essere attraverso piu' operazioni, effettuate in momenti diversi e in un circoscritto periodo di tempo, singolarmente di valore non superiore a 12.500 euro;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «archivio unico», un archivio nel quale i soggetti conservano in modo accentrato tutte le informazioni acquisite nell'adempimento degli obblighi di identificazione e registrazione, secondo le modalita' previste nel presente regolamento.
+
 ## Art. 2. — Destinatari
+
+1.
+                        
+                            
+                                Il presente regolamento si applica agli operatori che esercitano, ai sensi dell'articolo 1, comma 1, del decreto legislativo 25 settembre 1999, n. 374, le seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    recupero di crediti per conto terzi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    custodia e trasporto di denaro contante, di titoli o valori a mezzo di guardie particolari giurate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasporto di denaro contante e di titoli o valori senza l'impiego di guardie particolari giurate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agenzia di affari in mediazione immobiliare;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    commercio di cose antiche;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esercizio di case d'asta o gallerie d'arte;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    commercio, comprese l'esportazione e l'importazione, di oro per finalita' industriali o di investimento;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    fabbricazione, mediazione e commercio, comprese l'esportazione e l'importazione, di oggetti preziosi;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gestione di case da gioco;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    fabbricazione di oggetti preziosi da parte di imprese artigiane;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    mediazione creditizia;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    agenzia in attivita' fmanziaria.
 
 Il presente regolamento si applica altresi' alle succursali italiane degli operatori indicati alle lettere precedenti aventi sede legale in uno stato estero.
 
 ## Art. 3. — Obblighi applicabili
 
 Gli obblighi di identificazione, registrazione e conservazione si applicano in relazione alle operazioni inerenti allo svolgimento professionale delle attivita' di cui all'articolo 2.
+
+2.
+                        
+                            
+                                Tenendo conto delle disposizioni particolari formulate per ciascuna categoria, gli operatori devono:
+ 
+                            
+                            
+                                a)
+                                
+                                    identificare i clienti in relazione alle operazioni che comportino la trasmissione o la movimentazione di mezzi di pagamento di importo superiore a 12.500 euro salvo quanto previsto dall'articolo 17, comma 1, del presente regolamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istituire l'archivio unico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    registrare e conservare nell'archivio unico i dati identificativi e le altre informazioni relative alle operazioni.
 
 Gli operatori devono inoltre segnalare le operazioni sospette di cui all'articolo 3 della legge antiriciclaggio, con particolare riguardo alle operazioni frazionate, secondo le indicazioni e le modalita' formulate dall'UIC.
 
@@ -67,11 +268,68 @@ E' in ogni caso necessario procedere all'identificazione diretta qualora si abbi
 
 ## Art. 5. — Identificazione indiretta
 
+1.
+                        
+                            
+                                Non e' necessario procedere all'identificazione diretta nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    per i clienti gia' identificati in relazione ad una operazione in precedenza posta in essere, sempreche' le informazioni gia' acquisite siano aggiornate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione ad operazioni che sono effettuate con sistemi di cassa continua o di sportelli automatici, per corrispondenza o attraverso soggetti che svolgono attivita' di trasporto di valori o mediante carte di pagamento; tali operazioni sono imputate al soggetto titolare del rapporto al quale ineriscono;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i clienti i cui dati identificativi e le altre informazioni da acquisire risultino da atti pubblici, da scritture private autenticate o da documenti recanti la firma digitale ai sensi dell'articolo 23 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 e successive modificazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i clienti i cui dati identificativi risultino da dichiarazione della rappresentanza e dell'autorita' consolare italiana, cosi' come indicata nell'art. 6 del decreto legislativo 26 maggio 1997, n. 153.
+
 ## Art. 6. — Identificazione a distanza
 
 Non e' necessario procedere all'identificazione di cui agli articoli 4 e 5 qualora ai clienti sia stata rilasciata attestazione da uno dei soggetti indicati al comma 3 del presente articolo presso i quali gli stessi sono titolari di conti o rapporti e in relazione ai quali sono stati gia' identificati di persona.
 
 L'attestazione deve essere idonea a confermare l'identita' tra il soggetto che deve essere identificato e il soggetto titolare del conto o del rapporto presso l'intermediario attestante, nonche' l'esattezza delle informazioni comunicate a distanza.
+
+3.
+                        
+                            
+                                L'attestazione puo' essere rilasciata dai seguenti soggetti:
+ 
+                            
+                            
+                                a)
+                                
+                                    intermediari abilitati ai sensi dell'articolo 4 del decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    enti creditizi ed enti finanziari di Stati membri dell'Unione europea, cosi' come definiti nell'articolo 1, lettera A) e lettera B), numeri 2), 3) e 4), della direttiva;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    banche aventi sede legale e amministrativa in Paesi non appartenenti all'Unione europea purche' aderenti al Gruppo di azione finanziaria internazionale (GAFI) e succursali in tali Paesi di banche italiane e di altri Stati aderenti al GAFI.
 
 L'attestazione puo' consistere in un bonifico eseguito a valere sul conto per il quale il cliente e' stato identificato di persona, che contenga un codice rilasciato al cliente dal soggetto che deve procedere all'identificazione.
 
@@ -119,15 +377,104 @@ Gli operatori indicati nell'articolo 2, comma 1, lettera d), del presente regola
 
 ## Art. 10. — Recupero di crediti
 
+1.
+                        
+                            
+                                Gli operatori che esercitano l'attivita' di recupero di crediti, indicati nell'articolo 2, comma 1, lettera a), del presente regolamento, devono identificare il cliente che conferisce 1'incarico e devono acquisire e registrare nell'archivio unico le informazioni relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'identita' del cliente e, se diverso, del creditore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla data del conferimento dell'incarico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al valore complessivo dei crediti da recuperare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'importo dei crediti e alle generalita' dei debitori, per i crediti di valore superiore a 12.500 euro.
+
 Per le riscossioni di valore superiore a 12.500 euro devono essere registrati, entro trenta giorni, le generalita' del debitore o di chi provvede al pagamento, la data della riscossione e i mezzi di pagamento utilizzati.
 
 ## Art. 11. — Custodia e trasporto di contante, titoli o valori
 
 Gli operatori che svolgono le attivita' di custodia e trasporto di denaro contante, titoli o valori, indicati nell'articolo 2, comma 1, lettere b) e c), del presente regolamento, devono identificare il soggetto che conferisce l'incarico. In caso di custodia, deve essere identificato anche il soggetto che richiede la restituzione dei beni, se diverso dal soggetto che ha conferito l'incarico o dall'effettivo titolare.
 
+2.
+                        
+                            
+                                Devono essere acquisite e registrate nell'archivio unico le informazioni relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'identita' del cliente che conferisce l'incarico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle generalita' del mittente e del destinatario, acquisite direttamente o fornite dal cliente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla data dell'operazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al valore e al tipo dei beni oggetto dell'incarico.
+
 ## Art. 12. — Agenzia di affari in mediazione immobiliare
 
 Gli operatori che svolgono l'attivita' di agenzia di affari in mediazione immobiliare, indicati nell'articolo 2, comma 1, lettera d), del presente regolamento, devono identificare le parti dei contratti per i quali intervengono.
+
+2.
+                        
+                            
+                                Devono essere acquisite e registrate nell'archivio unico le informazioni relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai dati identificativi delle parti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla data di conclusione del contratto preliminare o, in mancanza, di quello definitivo di compravendita;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al prezzo convenuto dell'immobile oggetto della mediazione.
 
 Gli obblighi di identificazione e di registrazione si applicano solo nei casi in cui vi sia stata la conclusione del contratto di compravendita preliminare o, in mancanza, di quello definitivo.
 
@@ -135,7 +482,71 @@ Gli obblighi di identificazione e di registrazione si applicano solo nei casi in
 
 Gli operatori che svolgono le attivita' di commercio di cose antiche e di esercizio di case d'asta o gallerie d'arte, indicati nell'articolo 2, comma 1, lettere e) e f), del presente regolamento, devono identificare le controparti, acquirenti e venditori.
 
+2.
+                        
+                            
+                                Devono essere acquisite e registrate nell'archivio unico le informazioni relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai dati identificativi delle controparti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla data dell'operazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'importo dell'operazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai mezzi di pagamento impiegati.
+
 ## Art. 14. — Commercio di oro e di oggetti preziosi
+
+1.
+                        
+                            
+                                Gli operatori che svolgono le attivita' di commercio di oro e di fabbricazione, mediazione e commercio, compresa l'importazione e l'esportazione, di oggetti preziosi, indicati nell'articolo 2, comma 1, lettere g), h) e l), del presente regolamento, devono acquisire e registrare nell'archivio unico le informazioni relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai dati identificativi delle controparti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla data dell'operazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al tipo dell'operazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'importo dell'operazione e ai mezzi di pagamento impiegati.
 
 Per l'adempimento degli obblighi di cui al presente regolamento, gli operatori di cui al comma 1 possono avvalersi delle informazioni acquisite ai sensi dell'art. 1, comma 2, della legge 17 gennaio 2000, n. 7, e delle relative disposizioni di attuazione.
 
@@ -145,15 +556,97 @@ Gli operatori che svolgono l'attivita' di gestione di case da gioco, indicati ne
 
 L'identificazione dei clienti non va rinnovata qualora gia' identificati al momento dell'ingresso, salvi i casi di dubbio sui dati identificativi rilasciati.
 
+3.
+                        
+                            
+                                Devono essere acquisite e conservate nell'archivio unico le informazioni relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai dati identificativi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla data e alla tipologia dell'operazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al valore dell'operazione e ai mezzi di pagamento utilizzati.
+
 ## Art. 16. — Mediazione creditizia
 
 Gli operatori che svolgono l'attivita' di mediazione creditizia, indicati nell'articolo 2, comma 1, lettera m), del presente regolamento, devono identificare il soggetto che richiede il finanziamento.
+
+2.
+                        
+                            
+                                Devono essere acquisite e conservate nell'archivio unico le informazioni relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai dati identificativi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli estremi dell'intermediario con il quale il cliente viene messo in contatto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla data della concessione del finanziamento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'ammontare e al tipo del finanziamento accordato.
 
 I mediatori creditizi forniscono all'intermediario, con il quale mettono in contatto il potenziale cliente, le informazioni necessarie per l'identificazione di quest'ultimo.
 
 ## Art. 17. — Agenzia in attivita' finanziaria
 
 Gli operatori che svolgono l'agenzia in attivita' finanziaria, indicati nell'articolo 2, comma 1, lettera n), del presente regolamento, devono identificare i soggetti nei confronti dei quali svolgono l'attivita' di promozione e conclusione dei contratti.
+
+2.
+                        
+                            
+                                Devono essere acquisite e conservate nell'archivio unico le informazioni relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai dati identificativi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla data della consegna dei mezzi di pagamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'ammontare e al tipo dei mezzi di pagamento.
 
 ## - Parte III DISPOSIZIONI FINALI
 

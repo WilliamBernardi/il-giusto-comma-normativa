@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2023-12-31
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,29 @@ Relativamente alle materie oggetto di competenza concorrente, le regioni e le pr
 
 ## Art. 2. — (Esclusioni)
 
+1.
+                        
+                            
+                                Le disposizioni del presente decreto non si applicano:
+
+                            
+                            
+                                a)
+                                
+                                    alle attivita' connesse con l'esercizio di pubblici poteri, quando le stesse implichino una partecipazione diretta e specifica all'esercizio del potere pubblico e alle funzioni che hanno per oggetto la salvaguardia degli interessi generali dello Stato e delle altre collettivita' pubbliche;
+                                
+                            
+                            
+                                b)
+                                
+                                    alla disciplina fiscale delle attivita' di servizi;
+                                
+                            
+                            
+                                c)
+                                
+                                    ai servizi d'interesse economico generale assicurati alla collettivita' in regime di esclusiva da soggetti pubblici o da soggetti privati, ancorche' scelti con procedura ad evidenza pubblica, che operino in luogo e sotto il controllo di un soggetto pubblico.
+
 Le disposizioni del presente decreto non si applicano nei casi previsti negli articoli da 3 a 7 del presente capo.
 
 Il Ministro per le politiche europee ed i Ministri interessati dalle disposizioni del presente decreto possono adottare uno o piu' decreti interministeriali ricognitivi delle attivita' di servizi che, in applicazione delle disposizioni del presente decreto, sono comunque escluse dall'ambito di applicazione dello stesso.
@@ -55,6 +78,23 @@ Le disposizioni del presente decreto non si applicano ai servizi sociali riguard
 
 Sono esclusi dall'ambito di applicazione del presente decreto i servizi finanziari, ivi inclusi i servizi bancari e nel settore del credito, ((i servizi di agenzia in attivita' finanziaria e di mediazione creditizia)) i servizi assicurativi e di riassicurazione, il sevizio pensionistico professionale o individuale, la negoziazione dei titoli, la gestione dei fondi, i servizi di pagamento e quelli di consulenza nel settore degli investimenti.
 
+2.
+                        
+                            
+                                Le disposizioni del presente decreto non si applicano, in particolare: 
+
+                            
+                            
+                                a)
+                                
+                                    alle attivita' ammesse al mutuo riconoscimento di cui all'articolo 1, comma 2, lettera f), del decreto legislativo 1° settembre 1993, n. 385; 
+                                
+                            
+                            
+                                b)
+                                
+                                    quando hanno ad oggetto gli strumenti finanziari di cui alla sezione C dell'Allegato al decreto legislativo 24 febbraio 1998, n. 58, alle attivita', ai servizi di investimento ed ai servizi accessori di cui alla sezione A ed alla sezione B del medesimo Allegato.
+
 ## Art. 5. — (Servizi di comunicazione)
 
 Ai servizi ed alle reti di comunicazione di cui all'articolo 1 del decreto legislativo 1° agosto 2003, n. 259, si applicano esclusivamente le disposizioni di cui ai titoli IV e V della parte prima del presente decreto.
@@ -63,11 +103,173 @@ Ai servizi ed alle reti di comunicazione di cui all'articolo 1 del decreto legis
 
 Le disposizioni del presente decreto non si applicano ai servizi di trasporto aereo, marittimo, per le altre vie navigabili, ferroviario e su strada, ivi inclusi i servizi di trasporto urbani, di taxi, di ambulanza, nonche' i servizi portuali e i servizi di noleggio auto con conducente.
 
+2.
+                        
+                            
+                                Ai fini del presente decreto, non costituiscono servizi di trasporto quelli di:
+
+                            
+                            
+                                a)
+                                
+                                    scuola guida;
+                                
+                            
+                            
+                                b)
+                                
+                                    trasloco;
+                                
+                            
+                            
+                                c)
+                                
+                                    noleggio di veicoli e unita' da diporto;
+                                
+                            
+                            
+                                d)
+                                
+                                    pompe funebri;
+                                
+                            
+                            
+                                e)
+                                
+                                    fotografia aerea.
+
 ## Art. 7. — (Altri servizi esclusi)
+
+1.
+                        
+                            
+                                Le disposizioni del presente decreto non si applicano: 
+
+                            
+                            
+                                a)
+                                
+                                    ai servizi di somministrazione di lavoratori forniti dalle agenzie per il lavoro, autorizzate ai sensi del decreto legislativo 10 settembre 2003, n. 276; 
+                                
+                            
+                            
+                                b)
+                                
+                                    ai servizi sanitari ed a quelli farmaceutici forniti direttamente a scopo terapeutico nell'esercizio delle professioni sanitarie, indipendentemente dal fatto che vengano prestati in una struttura sanitaria e a prescindere dalle loro modalita' di organizzazione, di finanziamento e dalla loro natura pubblica o privata; 
+                                
+                            
+                            
+                                c)
+                                
+                                    ai servizi audiovisivi, ivi compresi i servizi cinematografici, a prescindere dal modo di produzione, distribuzione e trasmissione, e i servizi radiofonici; 
+                                
+                            
+                            
+                                d)
+                                
+                                    al gioco d'azzardo e di fortuna comprese le lotterie, le scommesse e le attivita' delle case da gioco, nonche' alle reti di acquisizione del gettito; 
+                                
+                            
+                            
+                                e)
+                                
+                                    ai servizi privati di sicurezza; 
+                                
+                            
+                            
+                                f)
+                                
+                                    ai servizi forniti da notai. 
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2023, N. 214)).
 
 ## - Capo II (Definizioni e principi generali)
 
 ## Art. 8. — (Definizioni)
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+
+                            
+                            
+                                a)
+                                
+                                    servizio: qualsiasi prestazione anche a carattere intellettuale svolta in forma imprenditoriale o professionale, fornita senza vincolo di subordinazione e normalmente fornita dietro retribuzione; i servizi non economici non costituiscono servizi ai sensi del presente decreto; 
+                                
+                            
+                            
+                                b)
+                                
+                                    prestatore: qualsiasi persona fisica avente la cittadinanza di uno Stato membro o qualsiasi soggetto costituito conformemente al diritto di uno Stato membro o da esso disciplinato, a prescindere dalla sua forma giuridica, stabilito in uno Stato membro, che offre o fornisce un servizio; 
+                                
+                            
+                            
+                                c)
+                                
+                                    destinatario: qualsiasi persona fisica che sia cittadino di uno Stato membro o che goda di diritti ad essa conferiti dall'ordinamento comunitario, o qualsiasi altro soggetto indicato alla lettera b), stabilito in uno Stato membro, che a scopo professionale o per altri scopi, fruisce o intende fruire di un servizio; 
+                                
+                            
+                            
+                                d)
+                                
+                                    Stato membro di stabilimento: lo Stato membro nel cui territorio e' stabilito il prestatore del servizio considerato; 
+                                
+                            
+                            
+                                e)
+                                
+                                    stabilimento: l'esercizio effettivo a tempo indeterminato di un'attivita' economica non salariata da parte del prestatore, svolta con un'infrastruttura stabile; 
+                                
+                            
+                            
+                                f)
+                                
+                                    regime di autorizzazione: qualsiasi procedura, non inerente alle misure applicabili a norma del decreto legislativo 9 novembre 2007, n. 206, che obbliga un prestatore o un destinatario a rivolgersi ad un'autorita' competente allo scopo di ottenere un provvedimento formale o un provvedimento implicito relativo all'accesso ad un'attivita' di servizio o al suo esercizio; ai fini del presente decreto, non costituisce regime autorizzatorio la ((segnalazione certificata di inizio di attivita' (S.C.I.A.), di cui all'articolo 19 della legge 7 agosto 1990, n. 241)). 
+                                
+                            
+                            
+                                g)
+                                
+                                    requisito: qualsiasi regola che imponga un obbligo, un divieto, una condizione o un limite al quale il prestatore o il destinatario debba conformarsi ai fini dell'accesso ed esercizio della specifica attivita' esercitata e che abbia fonte in leggi, regolamenti, provvedimenti amministrativi ovvero in disposizioni adottate da ordini, collegi e albi professionali; non costituiscono requisiti le disposizioni in materia ambientale, edilizia ed urbanistica, nonche' quelle a tutela della sanita' pubblica, della pubblica sicurezza, della sicurezza dei lavoratori e dell'incolumita' delle persone e che si applicano indistintamente ai prestatori nello svolgimento della loro attivita' economica e ai singoli che agiscono a titolo privato; 
+                                
+                            
+                            
+                                h)
+                                
+                                    motivi imperativi d'interesse generale: ragioni di pubblico interesse, tra i quali l'ordine pubblico, la sicurezza pubblica, l'incolumita' pubblica, la sanita' pubblica, la sicurezza stradale, la tutela dei lavoratori compresa la protezione sociale dei lavoratori, il mantenimento dell'equilibrio finanziario del sistema di sicurezza sociale, la tutela dei consumatori, dei destinatari di servizi e dei lavoratori, l'equita' delle transazioni commerciali, la lotta alla frode, la tutela dell'ambiente, incluso l'ambiente urbano, la salute degli animali, la proprieta' intellettuale, la conservazione del patrimonio nazionale storico e artistico, gli obiettivi di politica sociale e di politica culturale; 
+                                
+                            
+                            
+                                i)
+                                
+                                    autorita' competente: le amministrazioni statali, regionali o locali e gli altri soggetti responsabili del controllo o della disciplina delle attivita' di servizi, ivi inclusi gli ordini professionali, i collegi nazionali professionali e gli albi professionali; 
+                                
+                            
+                            
+                                l)
+                                
+                                    Stato membro nel quale e' prestato il servizio: lo Stato membro in cui il servizio e' fornito da un prestatore stabilito in un altro Stato membro; 
+                                
+                            
+                            
+                                m)
+                                
+                                    professione regolamentata: un'attivita' professionale o un insieme di attivita' professionali, riservate o non riservate, ai sensi dell'articolo 4, comma 1, lettera a), del decreto legislativo 9 novembre 2007, n. 206; 
+                                
+                            
+                            
+                                n)
+                                
+                                    comunicazione commerciale: qualsiasi forma di comunicazione destinata a promuovere, direttamente o indirettamente, beni, servizi, o l'immagine di un'impresa, di un'organizzazione o di una persona che svolge un'attivita' commerciale, industriale o artigianale o che esercita una professione regolamentata. Non costituiscono, di per se', comunicazioni commerciali le informazioni seguenti: 
+1) le informazioni che permettono l'accesso diretto all'attivita' dell'impresa, dell'organizzazione o della persona, in particolare un nome di dominio o un indirizzo di posta elettronica; 
+2) le comunicazioni relative ai beni, ai servizi o all'immagine dell'impresa, dell'organizzazione o della persona elaborate in modo indipendente, in particolare se fornite in assenza di un corrispettivo economico.
 
 ## Art. 9. — (Clausola di specialita')
 
@@ -83,8 +285,110 @@ Nei limiti del presente decreto, l'accesso e l'esercizio delle attivita' di serv
 
 ## Art. 11. — (Requisiti vietati)
 
+1.
+                        
+                            
+                                L'accesso ad un'attivita' di servizi o il suo esercizio non possono essere subordinati al rispetto dei seguenti requisiti:
+
+                            
+                            
+                                a)
+                                
+                                    requisiti discriminatori fondati direttamente o indirettamente sulla cittadinanza o, per quanto riguarda le societa', sull'ubicazione della sede legale, in particolare:
+1) il requisito della cittadinanza italiana per il prestatore, il suo personale, i detentori di capitale sociale o i membri degli organi di direzione e vigilanza;
+2) il requisito della residenza in Italia per il prestatore, il suo personale, i detentori di' capitale sociale o i membri degli organi di direzione e vigilanza;
+                                
+                            
+                            
+                                b)
+                                
+                                    il divieto di avere stabilimenti in piu' di uno Stato membro o di essere iscritti nei registri o ruoli di organismi, ordini o associazioni professionali di altri Stati membri;
+                                
+                            
+                            
+                                c)
+                                
+                                    restrizioni della liberta', per il prestatore, di scegliere tra essere stabilito a titolo principale o secondario, in particolare l'obbligo per il prestatore, di avere lo stabilimento principale in Italia o restrizioni alla liberta' di scegliere tra essere stabilito in forma di rappresentanza, succursale o filiale;
+                                
+                            
+                            
+                                d)
+                                
+                                    condizioni di reciprocita' con lo Stato membro nel quale il prestatore ha gia' uno stabilimento, salvo quelle previste in atti comunitari riguardanti l'energia;
+                                
+                            
+                            
+                                e)
+                                
+                                    l'applicazione caso per caso di una verifica di natura economica che subordina il rilascio del titolo autorizzatorio alla prova dell'esistenza di un bisogno economico o di una domanda di mercato, o alla valutazione degli effetti economici potenziali o effettivi dell'attivita' o alla valutazione dell'adeguatezza dell'attivita' rispetto agli obiettivi di programmazione economica stabiliti; tale divieto non concerne i requisiti di programmazione che non perseguono obiettivi economici, ma che sono dettati da motivi imperativi d'interesse generale;
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di presentare, individualmente o con altri, una garanzia finanziaria o di sottoscrivere un'assicurazione presso un prestatore o presso un organismo stabilito in Italia;
+                                
+                            
+                            
+                                g)
+                                
+                                    l'obbligo di essere gia' stato iscritto per un determinato periodo nei registri italiani o di avere in precedenza esercitato l'attivita' in Italia per un determinato periodo.
+
 ## Art. 12. — (Requisiti subordinati alla sussistenza
  di un motivo imperativo di interesse generale)
+
+1.
+                        
+                            
+                                Nei casi in cui sussistono motivi imperativi di interesse generale, l'accesso e l'esercizio di una attivita' di servizio possono, nel rispetto dei principi di proporzionalita' e non discriminazione, essere subordinati al rispetto dei seguenti requisiti:
+
+                            
+                            
+                                a)
+                                
+                                    restrizioni quantitative o territoriali sotto forma, in particolare, di restrizioni fissate in funzione della popolazione o di una distanza geografica minima tra prestatori;
+                                
+                            
+                            
+                                b)
+                                
+                                    requisiti che impongono al prestatore di avere un determinato statuto giuridico;
+                                
+                            
+                            
+                                c)
+                                
+                                    obblighi relativi alla detenzione del capitale di una societa';
+                                
+                            
+                            
+                                d)
+                                
+                                    requisiti diversi da quelli relativi alle questioni disciplinate dal decreto legislativo 9 novembre 2007, n. 206, o da quelli previsti in altre norme attuative di disposizioni comunitarie, che riservano l'accesso alle attivita' di servizi in questione a prestatori particolari a motivo della natura specifica dell'attivita' esercitata;
+                                
+                            
+                            
+                                e)
+                                
+                                    il divieto di disporre di piu' stabilimenti sul territorio nazionale;
+                                
+                            
+                            
+                                f)
+                                
+                                    requisiti che stabiliscono un numero minimo di dipendenti;
+                                
+                            
+                            
+                                g)
+                                
+                                    tariffe obbligatorie minime o massime che il prestatore deve rispettare;
+                                
+                            
+                            
+                                h)
+                                
+                                    l'obbligo per il prestatore di fornire, insieme al suo servizio, altri servizi specifici.
 
 Fermo restando quanto previsto dall'articolo 11, le disposizioni di cui al comma 1 si applicano alla legislazione riguardante i servizi di interesse economico generale per i quali non sono previsti regimi di esclusiva, nella misura in cui cio' non sia di ostacolo alla specifica missione di interesse pubblico.
 
@@ -113,6 +417,53 @@ Il numero dei titoli autorizzatori per l'accesso e l'esercizio di un'attivita' d
 Le disposizioni del presente capo non si applicano agli aspetti dei regimi di autorizzazione che sono disciplinati direttamente o indirettamente da altri strumenti comunitari.
 
 ## Art. 15. — (Condizioni per il rilascio dell'autorizzazione)
+
+1.
+                        
+                            
+                                Ove sia previsto un regime autorizzatorio, le condizioni alle quali e' subordinato l'accesso e l'esercizio alle attivita' di servizi sono:
+
+                            
+                            
+                                a)
+                                
+                                    non discriminatorie;
+                                
+                            
+                            
+                                b)
+                                
+                                    giustificate da un motivo imperativo di interesse generale;
+                                
+                            
+                            
+                                c)
+                                
+                                    commisurate all'obiettivo di interesse generale;
+                                
+                            
+                            
+                                d)
+                                
+                                    chiare ed inequivocabili;
+                                
+                            
+                            
+                                e)
+                                
+                                    oggettive;
+                                
+                            
+                            
+                                f)
+                                
+                                    rese pubbliche preventivamente;
+                                
+                            
+                            
+                                g)
+                                
+                                    trasparenti e accessibili.
 
 I requisiti e i controlli equivalenti o sostanzialmente comparabili quanto a finalita', ai quali il prestatore sia gia' assoggettato in un altro Stato membro, sono da considerarsi idonei ai fini della verifica della sussistenza delle condizioni per il rilascio di un titolo autorizzatorio, sempre che il prestatore o le autorita' competenti dell'altro Stato membro forniscano al riguardo le informazioni necessarie.
 
@@ -146,6 +497,29 @@ Qualora sussista un motivo imperativo di interesse generale, puo' essere imposto
 
 Il termine per la conclusione del procedimento decorre dal momento in cui il prestatore ha presentato tutta la documentazione necessaria ai fini dell'accesso all'attivita' e al suo esercizio.
 
+4.
+                        
+                            
+                                Le autorita' competenti assicurano che per ogni domanda di autorizzazione sia rilasciata una ricevuta. La ricevuta deve contenere le informazioni seguenti: 
+
+                            
+                            
+                                a)
+                                
+                                    il termine previsto per la conclusione del procedimento e i casi in cui la sua decorrenza subisca un differimento o una sospensione; 
+                                
+                            
+                            
+                                b)
+                                
+                                    i mezzi di ricorso previsti; 
+                                
+                            
+                            
+                                c)
+                                
+                                    fatti salvi i casi in cui il procedimento si conclude con l'adozione di un provvedimento espresso, la menzione che, in mancanza di risposta entro il termine previsto, l'autorizzazione e' considerata come rilasciata.
+
 Quando la domanda e' presentata per via telematica la ricevuta e' inviata tramite posta elettronica.
 
 ## Art. 18. — (Autorita' preposte al rilascio delle autorizzazioni)
@@ -155,6 +529,29 @@ Fatti salvi i poteri di ordini, collegi e organismi professionali e di organi co
 ## Art. 19. — (Efficacia delle autorizzazioni)
 
 L'autorizzazione permette al prestatore di accedere all'attivita' di servizi e di esercitarla su tutto il territorio nazionale, anche mediante l'apertura di rappresentanze, succursali, filiali o uffici; sono fatte salve le ipotesi in cui la necessita' di un'autorizzazione specifica o di una limitazione dell'autorizzazione ad una determinata parte del territorio per ogni stabilimento sia giustificata da un motivo imperativo di interesse generale.
+
+2.
+                        
+                            
+                                L'autorizzazione ha durata illimitata, salvo che non ricorra uno dei seguenti casi:
+
+                            
+                            
+                                a)
+                                
+                                    previsione di un rinnovo automatico, purche' compatibile con le disposizioni del presente decreto;
+                                
+                            
+                            
+                                b)
+                                
+                                    previsione di una limitazione numerica dei titoli che possono essere rilasciati;
+                                
+                            
+                            
+                                c)
+                                
+                                    limitazione della durata giustificata da un motivo imperativo di interesse generale.
 
 Restano salvi i casi in cui la decadenza dall'autorizzazione, la sospensione o la revoca conseguono al venir meno delle condizioni cui e' subordinato il suo ottenimento. Le autorita' competenti possono periodicamente verificare la persistenza delle condizioni per il rilascio dell'autorizzazione, anche richiedendo al prestatore le informazioni e la documentazione necessarie.
 
@@ -171,9 +568,156 @@ Restano ferme le disposizioni di cui al titolo II del decreto legislativo 9 nove
 
 ## Art. 21. — (Requisiti da giustificare)
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 20, commi 2 e 3, il diritto alla libera prestazione di servizi di un prestatore stabilito in un altro Stato membro non puo' essere in particolare subordinato alla sussistenza dei seguenti requisiti:
+
+                            
+                            
+                                a)
+                                
+                                    l'obbligo per il prestatore di essere stabilito in Italia;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'obbligo per il prestatore di ottenere un'autorizzazione dalle autorita' competenti, compresa l'iscrizione in un registro o a un ordine professionale nazionale, salvo i casi previsti dal presente decreto o da altre disposizioni di recepimento di norme comunitarie;
+                                
+                            
+                            
+                                c)
+                                
+                                    il divieto imposto al prestatore di dotarsi in Italia di una determinata forma o tipo di infrastruttura, inclusi uffici o uno studio, necessaria all'esecuzione delle prestazioni in questione;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'applicazione di un regime contrattuale particolare tra il prestatore e il destinatario che impedisca o limiti la prestazione di servizi a titolo indipendente;
+                                
+                            
+                            
+                                e)
+                                
+                                    l'obbligo per il prestatore di essere in possesso di un documento di identita' specifico per l'esercizio di un'attivita' di servizi rilasciato in Italia;
+                                
+                            
+                            
+                                f)
+                                
+                                    i requisiti, a eccezione di quelli in materia di salute e di sicurezza sul posto di lavoro, relativi all'uso di attrezzature e di materiali che costituiscono parte integrante della prestazione del servizio;
+                                
+                            
+                            
+                                g)
+                                
+                                    le restrizioni alla libera circolazione dei servizi riguardanti i destinatari ai sensi dell'articolo 28 del presente decreto.
+
 Disposizioni in deroga a quanto previsto dal comma 1 possono essere previste solo se giustificate da motivi imperativi di ordine pubblico, di pubblica sicurezza, di sanita' pubblica o di tutela dell'ambiente, in conformita' con i principi di non discriminazione e proporzionalita'.
 
 ## Art. 22. — (Deroghe al regime della libera prestazione)
+
+1.
+                        
+                            
+                                Gli articoli 20 e 21 del presente decreto non si applicano:
+
+                            
+                            
+                                a)
+                                
+                                    ai servizi di interesse economico generale ivi inclusi i seguenti:
+1) nel settore postale, i servizi contemplati dal decreto legislativo 22 luglio 1999, n. 261;
+2) servizi di generazione, trasmissione, distribuzione e fornitura dell'energia elettrica;
+3) servizi di trasporto, distribuzione, fornitura e stoccaggio di gas naturale;
+4) i servizi di distribuzione e fornitura idriche e i servizi di gestione delle acque reflue;
+5) il trattamento dei rifiuti;
+                                
+                            
+                            
+                                b)
+                                
+                                    alle materie disciplinate dal decreto legislativo 25 febbraio 2000, n. 72;
+                                
+                            
+                            
+                                c)
+                                
+                                    alle materie disciplinate dal decreto legislativo 30 giugno 2003, n. 196;
+                                
+                            
+                            
+                                d)
+                                
+                                    alle materie disciplinate dalla legge 9 febbraio 1982, n. 31;
+                                
+                            
+                            
+                                e)
+                                
+                                    alle attivita' di recupero giudiziario dei crediti;
+                                
+                            
+                            
+                                f)
+                                
+                                    alle materie disciplinate dal titolo II del decreto legislativo 9 novembre 2007, n. 206, di recepimento della direttiva 2005/36/CE;
+                                
+                            
+                            
+                                g)
+                                
+                                    alle materie disciplinate dal regolamento (CEE) 1408/71;
+                                
+                            
+                            
+                                h)
+                                
+                                    per quanto riguarda le formalita' amministrative relative alla libera circolazione delle persone ed alla loro residenza, alle questioni disciplinate dalle disposizioni del decreto legislativo 6 febbraio 2007, n. 30, e successive modificazioni;
+                                
+                            
+                            
+                                i)
+                                
+                                    per quanto riguarda i cittadini di Paesi terzi che si spostano in un altro Stato membro nell'ambito di una prestazione di servizi, agli obblighi riguardanti il visto di ingresso e il permesso di soggiorno di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni;
+                                
+                            
+                            
+                                l)
+                                
+                                    per quanto riguarda le spedizioni di rifiuti, le materie disciplinate dal regolamento (CEE) n. 259/93, del Consiglio, del 1° febbraio 1993, relativo alla sorveglianza e al controllo delle spedizioni di rifiuti all'interno della Comunita' europea, nonche' in entrata e in uscita dal suo territorio;
+                                
+                            
+                            
+                                m)
+                                
+                                    ai diritti d'autore e diritti connessi, di cui alla sezione VI del Capo II del decreto legislativo 10 febbraio 2005, n. 30, e al decreto legislativo 6 maggio 1999, n. 169;
+                                
+                            
+                            
+                                n)
+                                
+                                    agli atti per i quali la legge richiede l'intervento di un notaio;
+                                
+                            
+                            
+                                o)
+                                
+                                    alle materie disciplinate dalla direttiva 2006/43/CE, del Parlamento europeo e del Consiglio, del 17 maggio 2006, sulla revisione legale dei conti annuali e dei conti consolidati;
+                                
+                            
+                            
+                                p)
+                                
+                                    all'immatricolazione dei veicoli presi in leasing in un altro Stato membro;
+                                
+                            
+                            
+                                q)
+                                
+                                    alle disposizioni riguardanti obblighi contrattuali e non contrattuali, compresa la forma dei contratti, determinate in virtu' delle norme di diritto internazionale privato.
 
 ## Art. 23. — (Condizioni di lavoro)
 
@@ -197,9 +741,61 @@ Per le attivita' che non richiedono iscrizione al registro delle imprese, il por
 
 Le Autorita' competenti sono tenute a garantire che presso lo sportello unico il prestatore possa espletare tutte le ulteriori formalita' richieste, ivi incluse dichiarazioni, notifiche o istanze necessarie a ottenere il titolo per l'accesso o per l'esercizio dalle autorita' competenti, nonche' le domande di inserimento in registri, ruoli, banche dati, o di iscrizione a ordini, albi e collegi e a altri organismi.
 
+7.
+                        
+                            
+                                Il prestatore informa lo sportello unico dei seguenti cambiamenti:
+
+                            
+                            
+                                a)
+                                
+                                    l'apertura di filiali le cui attivita' rientrano nel campo di applicazione del regime di autorizzazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    i cambiamenti della sua situazione che comportino la modifica o il venir meno del rispetto delle condizioni di autorizzazione.
+
 Nei casi in cui il titolo autorizzatorio e' rilasciato in forma espressa, ferma restando la presentazione telematica dell'istanza e dei relativi documenti, l'Amministrazione puo', per motivi imperativi di interesse generale, effettuare nel corso dell'istruttoria di sua competenza un colloquio con il richiedente, al fine di valutarne l'integrita' personale e l'idoneita' a svolgere la richiesta attivita' di servizi, ovvero verifiche ispettive o sopralluoghi. In tali casi, il procedimento puo' essere espletato in modalita' non interamente telematica.
 
 ## Art. 26. — (Diritto all'informazione)
+
+1.
+                        
+                            
+                                Attraverso lo sportello unico di cui al presente decreto, i prestatori e i destinatari hanno accesso alle seguenti informazioni:
+
+                            
+                            
+                                a)
+                                
+                                    i requisiti imposti ai prestatori stabiliti in Italia, in particolare quelli relativi alle procedure e alle formalita' da espletare per accedere alle attivita' di servizi ed esercitarle;
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati necessari per entrare direttamente in contatto con le autorita' competenti, comprese quelle competenti in materia di esercizio delle attivita' di servizi;
+                                
+                            
+                            
+                                c)
+                                
+                                    i mezzi e le condizioni di accesso alle banche dati e ai registri pubblici relativi ai prestatori ed ai servizi;
+                                
+                            
+                            
+                                d)
+                                
+                                    i mezzi di ricorso esistenti in genere in caso di controversie tra le autorita' competenti ed il prestatore o il destinatario, o tra un prestatore e un destinatario, o tra prestatori;
+                                
+                            
+                            
+                                e)
+                                
+                                    i dati di associazioni o organizzazioni diverse dalle autorita' competenti presso le quali i prestatori o i destinatari possono ottenere assistenza pratica.
 
 Il regolamento di cui all'articolo 38, comma 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, della legge 6 agosto 2008, n. 133, prevede misure idonee per assicurare che lo sportello unico, su richiesta, fornisca assistenza sul modo in cui i requisiti di cui al comma 1, lettera a), vengono interpretati ed applicati. L'informazione e' fornita in un linguaggio semplice e comprensibile.
 
@@ -213,6 +809,23 @@ Le disposizioni del comma 1 non si applicano ai documenti di cui agli articoli 1
 
 ## Art. 28. — (Restrizioni vietate)
 
+1.
+                        
+                            
+                                La fruizione di un servizio fornito da un prestatore stabilito in un altro Stato membro non puo' essere subordinata ai seguenti requisiti:
+
+                            
+                            
+                                a)
+                                
+                                    l'obbligo per il destinatario di ottenere un'autorizzazione dalle autorita' competenti o quello di presentare una dichiarazione presso di esse;
+                                
+                            
+                            
+                                b)
+                                
+                                    limiti discriminatori alla concessione di aiuti finanziari al destinatario, in ragione del luogo in cui il prestatore e' stabilito o di quello in cui il servizio e' prestato.
+
 ## Art. 29. — (Divieto di discriminazioni)
 
 Al destinatario non possono essere imposti requisiti discriminatori fondati sulla sua nazionalita' o sul suo luogo di residenza.
@@ -223,11 +836,169 @@ A decorrere dalla data di entrata in vigore del presente decreto sono abrogate l
 
 ## Art. 30. — (Assistenza ai destinatari)
 
+1.
+                        
+                            
+                                Il Ministero dello sviluppo economico provvede affinche' siano fornite le seguenti informazioni ai destinatari di attivita' di servizi che ne facciano richiesta: 
 
+                            
+                            
+                                a)
+                                
+                                    informazioni generali sui requisiti applicati negli altri Stati membri in materia di accesso alle attivita' di servizi e al loro esercizio, in particolare quelli connessi con la tutela dei consumatori; 
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni generali sui mezzi di ricorso esperibili in caso di controversia tra un prestatore e un destinatario; 
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati delle associazioni o organizzazioni, compresi gli sportelli della rete dei centri europei dei consumatori, presso le quali i prestatori o i destinatari possono ottenere assistenza pratica.
+
+((1-bis. Al fine di assicurare il rispetto del divieto di discriminazioni di cui all'articolo 29, il Centro europeo dei consumatori per l'Italia riceve le segnalazioni dei consumatori, delle micro-imprese di cui all'articolo 18, comma 1, lettera d-bis), del codice di cui al decreto legislativo 6 settembre 2005, n. 206, e delle associazioni dei consumatori; fornisce loro assistenza anche per facilitarne la comunicazione con il prestatore del servizio; ove appropriato, d'ufficio o su segnalazione, contatta il prestatore del servizio al fine di ottenere il rispetto delle normative europee e nazionali relative al predetto divieto di discriminazioni, avvalendosi anche della rete dei centri europei dei consumatori (ECC-NET). Ove tali iniziative non consentano di ottenere il rispetto del divieto, il Centro europeo dei consumatori per l'Italia invia un documentato rapporto all'Autorita' garante della concorrenza e del mercato, che puo' intervenire applicando i poteri di cui all'articolo 27 del citato codice di cui al decreto legislativo n. 206 del 2005, e successive modificazioni. Con proprio regolamento, da adottare entro centoventi giorni dalla data di entrata in vigore della presente disposizione, l'Autorita' garante della concorrenza e del mercato disciplina la procedura istruttoria, in modo da garantire il contraddittorio e l'accesso agli atti. Con il medesimo regolamento l'Autorita' garante della concorrenza e del mercato disciplina i propri rapporti con il Centro europeo dei consumatori per l'Italia))
 
 Per le imprese destinatarie di attivita' di servizi, le informazioni di cui al comma 1 sono fornite dal sistema delle Camere di commercio, dell'industria, dell'artigianato e dell'agricoltura.
 
 ## Art. 31. — (Informazioni sui prestatori e sui loro servizi)
+
+1.
+                        
+                            
+                                I prestatori forniscono al destinatario in modo chiaro e senza ambiguita', in tempo utile prima della stipula del contratto o in ogni caso prima della prestazione del servizio, le informazioni seguenti:
+
+                            
+                            
+                                a)
+                                
+                                    nome, status e forma giuridica, indirizzo postale al quale sono stabiliti e tutti i dati necessari per entrare rapidamente in contatto e comunicare con i prestatori direttamente e, se del caso, per via elettronica;
+                                
+                            
+                            
+                                b)
+                                
+                                    ove siano iscritti in un registro commerciale o altro registro pubblico analogo, la denominazione di tale registro e il numero di immatricolazione o mezzi equivalenti atti ad identificarli in tale registro;
+                                
+                            
+                            
+                                c)
+                                
+                                    ove l'attivita' sia assoggettata ad un regime di autorizzazione, i dati dell'autorita' competente o dello sportello unico;
+                                
+                            
+                            
+                                d)
+                                
+                                    ove esercitino un'attivita' soggetta all'IVA, il numero di partita IVA;
+                                
+                            
+                            
+                                e)
+                                
+                                    per quanto riguarda le professioni regolamentate, gli ordini professionali, albi o collegi presso i quali sono iscritti, la qualifica professionale e lo Stato membro nel quale e' stata acquisita;
+                                
+                            
+                            
+                                f)
+                                
+                                    eventuali clausole e condizioni generali applicate dal prestatore;
+                                
+                            
+                            
+                                g)
+                                
+                                    esistenza di eventuali clausole contrattuali utilizzate dal prestatore relative alla legge applicabile al contratto o alla giurisdizione competente;
+                                
+                            
+                            
+                                h)
+                                
+                                    esistenza di un'eventuale garanzia post vendita, non imposta dalla legge;
+                                
+                            
+                            
+                                i)
+                                
+                                    prezzo del servizio, laddove esso e' predefinito dal prestatore per un determinato tipo di servizio;
+                                
+                            
+                            
+                                l)
+                                
+                                    principali caratteristiche del servizio, se non gia' apparenti dal contesto;
+                                
+                            
+                            
+                                m)
+                                
+                                    eventuale assicurazione o le garanzie per responsabilita' professionale, in particolare il nome e l'indirizzo dell'assicuratore o del garante e la copertura geografica.
+
+2.
+                        
+                            
+                                I prestatori scelgono le modalita', attraverso le quali fornire al destinatario prima della stipula del contratto o, in assenza di contratto scritto, prima che il servizio sia prestato, le informazioni di cui al comma 1, tra le seguenti:
+
+                            
+                            
+                                a)
+                                
+                                    comunicandole di propria iniziativa;
+                                
+                            
+                            
+                                b)
+                                
+                                    rendendole facilmente accessibili sul luogo della prestazione del servizio o di stipula del contratto;
+                                
+                            
+                            
+                                c)
+                                
+                                    rendendole facilmente accessibili per via elettronica tramite un indirizzo comunicato dal prestatore;
+                                
+                            
+                            
+                                d)
+                                
+                                    indicandole in tutti i documenti informativi che fornisce al destinatario per presentare dettagliatamente il servizio offerto.
+
+3.
+                        
+                            
+                                I prestatori, su richiesta del destinatario, comunicano le seguenti informazioni supplementari:
+
+                            
+                            
+                                a)
+                                
+                                    ove non vi sia un prezzo predefinito dal prestatore per un determinato tipo di servizio, il costo del servizio o, se non e' possibile indicare un prezzo esatto, il metodo di calcolo del prezzo per permettere al destinatario di verificarlo, o un preventivo sufficientemente dettagliato;
+                                
+                            
+                            
+                                b)
+                                
+                                    per quanto riguarda le professioni regolamentate, un riferimento alle regole professionali in vigore nello Stato membro di stabilimento e ai mezzi per prenderne visione;
+                                
+                            
+                            
+                                c)
+                                
+                                    informazioni sulle loro attivita' multidisciplinari e sulle associazioni che sono direttamente collegate al servizio in questione, nonche' sulle misure assunte per evitare conflitti di interesse. Dette informazioni sono inserite in ogni documento informativo nel quale i prestatori danno una descrizione dettagliata dei loro servizi;
+                                
+                            
+                            
+                                d)
+                                
+                                    gli eventuali codici di condotta ai quali il prestatore e' assoggettato, nonche' l'indirizzo al quale tali codici possono essere consultati per via elettronica, con un'indicazione delle versioni linguistiche disponibili;
+                                
+                            
+                            
+                                e)
+                                
+                                    se un prestatore e' assoggettato a un codice di condotta o e' membro di un'associazione commerciale o di un ordine, collegio o albo professionale che prevede il ricorso ad un meccanismo extragiudiziale di risoluzione delle controversie, informazioni a questo riguardo. Il prestatore specifica in che modo e' possibile reperire informazioni dettagliate sulle caratteristiche e le condizioni di ricorso a meccanismi extragiudiziali di risoluzione delle controversie.
 
 ## Art. 32. — (Risoluzione delle controversie)
 
@@ -257,11 +1028,92 @@ I codici deontologici assicurano che le comunicazioni commerciali relative ai se
 
 ## Art. 35. — (Attivita' multidisciplinari)
 
+1.
+                        
+                            
+                                I prestatori possono essere assoggettati a requisiti che li obblighino ad esercitare esclusivamente una determinata attivita' specifica o che limitino l'esercizio, congiunto o in associazione, di attivita' diverse solo nei casi seguenti:
+
+                            
+                            
+                                a)
+                                
+                                    professioni regolamentate, nella misura in cui cio' sia giustificato per garantire il rispetto di norme di deontologia diverse in ragione della specificita' di ciascuna professione, di cui e' necessario garantire l'indipendenza e l'imparzialita';
+                                
+                            
+                            
+                                b)
+                                
+                                    prestatori che forniscono servizi di certificazione, di omologazione, di controllo, prova o collaudo tecnici, nella misura in cui cio' sia giustificato per assicurarne l'indipendenza e l'imparzialita'.
+
+2.
+                        
+                            
+                                Nei casi in cui e' consentito lo svolgimento delle attivita' multidisciplinari di cui al comma 1:
+
+                            
+                            
+                                a)
+                                
+                                    sono evitati i conflitti di interesse e le incompatibilita' tra determinate attivita';
+                                
+                            
+                            
+                                b)
+                                
+                                    sono garantite l'indipendenza e l'imparzialita' che talune attivita' richiedono;
+                                
+                            
+                            
+                                c)
+                                
+                                    e' assicurata la compatibilita' delle regole di deontologia professionale e di condotta relative alle diverse attivita', soprattutto in materia di segreto professionale.
+
 ## Art. 36. — (Cooperazione tra autorita' nazionali competenti)
 
 Al fine di garantire forme efficaci di cooperazione amministrativa tra le autorita' competenti degli Stati membri, le autorita' competenti di cui all'articolo 8, lettera i), del presente decreto utilizzano il sistema telematico di assistenza reciproca con le autorita' competenti degli Stati dell'Unione europea istituito dalla Commissione europea denominato IMI-Internal Market Information.
 
 Le richieste di informazioni, le richieste di verifiche, ispezioni e indagini di cui agli articoli 37, 38, 39 e 40 ((, le procedure di notifica di cui all'articolo 13)), nonche' il meccanismo di allerta di cui all'articolo 41 e lo scambio di informazioni su misure eccezionali relative alla sicurezza dei servizi di cui all'articolo 42 sono effettuate tramite il sistema IMI di cui al comma 1. La Presidenza del Consiglio - Dipartimento per il coordinamento delle politiche comunitarie costituisce punto di contatto nazionale per la cooperazione amministrativa tra autorita' competenti nazionali e comunitarie.
+
+3.
+                        
+                            
+                                Ferme restando le competenze delle autorita' di cui all'articolo 8, lettera i), il punto di contatto nazionale cura la gestione nazionale delle attivita' del sistema IMI, in particolare: 
+
+                            
+                            
+                                a)
+                                
+                                    convalida la registrazione delle autorita' competenti nazionali nel sistema; 
+                                
+                            
+                            
+                                b)
+                                
+                                    supporta lo scambio di informazioni tra autorita' competenti; 
+                                
+                            
+                            
+                                c)
+                                
+                                    coordina le richieste informative fatte da altri Stati membri; 
+                                
+                            
+                            
+                                d)
+                                
+                                    assiste le autorita' competenti nell'individuazione delle amministrazioni competenti alle quali rivolgersi; 
+                                
+                            
+                            
+                                e)
+                                
+                                    assiste le autorita' competenti per garantire la mutua assistenza; 
+                                
+                            
+                            
+                                f)
+                                
+                                    notifica alla Commissione le richieste connesse con il meccanismo di allerta di cui all'articolo 41;
 
 Le modalita' procedurali per l'utilizzo della rete IMI sono disciplinate con decreto del Ministro per le politiche europee, di concerto con i Ministri interessati.
 
@@ -306,6 +1158,23 @@ L'obbligo di cui al comma 1 non comporta il dovere per le autorita' competenti d
 ## Art. 40. — (Controllo da parte delle autorita' competenti in caso
  di spostamento temporaneo del prestatore sul territorio)
 
+1.
+                        
+                            
+                                In caso di spostamento temporaneo del prestatore comunitario sul territorio nazionale, in relazione ai requisiti nazionali che possono essere imposti in base agli articoli 20, comma 2, 21, comma 2, e 22, le autorita' competenti sono responsabili del controllo sull'attivita' del prestatore sul territorio. In conformita' al diritto comunitario, le autorita' competenti:
+
+                            
+                            
+                                a)
+                                
+                                    adottano tutte le misure necessarie al fine di garantire che il prestatore si conformi a tali requisiti per quanto riguarda l'accesso a un'attivita' di servizi sul territorio e il suo esercizio;
+                                
+                            
+                            
+                                b)
+                                
+                                    procedono alle verifiche, ispezioni e indagini necessarie per controllare il servizio prestato.
+
 Nel caso in cui un prestatore di un altro Stato membro si sposti temporaneamente sul territorio nazionale in cui non e' stabilito per prestarvi un servizio, le autorita' competenti partecipano al controllo del prestatore conformemente ai commi 3 e 4.
 
 Su richiesta dello Stato membro di stabilimento, le autorita' competenti procedono alle verifiche, ispezioni e indagini necessarie per assicurare un efficace controllo da parte dello Stato membro di stabilimento, intervenendo nei limiti delle competenze loro attribuite. Le autorita' competenti possono decidere le misure piu' appropriate da assumere, caso per caso, per soddisfare la richiesta dello Stato membro di stabilimento.
@@ -322,6 +1191,35 @@ Con il decreto di cui all'articolo 36, comma 4, sono disciplinate le modalita' o
 
 In deroga agli articoli 21 e 22 e a titolo eccezionale, le autorita' competenti di cui all'articolo 8, comma 1, lettera i), possono prendere nei confronti di un prestatore stabilito in un altro Stato membro misure relative alla sicurezza dei servizi.
 
+2.
+                        
+                            
+                                Le misure di cui al comma 1 possono essere assunte esclusivamente nel rispetto della procedura di mutua assistenza di cui all'articolo 43 e se sono soddisfatte le condizioni seguenti:
+
+                            
+                            
+                                a)
+                                
+                                    le disposizioni nazionali a norma delle quali sono assunte le misure non hanno fatto oggetto di un'armonizzazione comunitaria riguardante il settore della sicurezza dei servizi;
+                                
+                            
+                            
+                                b)
+                                
+                                    le misure proteggono maggiormente il destinatario rispetto a quelle che adotterebbe lo Stato membro di stabilimento del prestatore in conformita' delle sue disposizioni nazionali;
+                                
+                            
+                            
+                                c)
+                                
+                                    lo Stato membro di stabilimento del prestatore non ha adottato alcuna misura o ha adottato misure insufficienti rispetto a quelle di cui all'articolo 43, comma 2;
+                                
+                            
+                            
+                                d)
+                                
+                                    le misure sono proporzionate.
+
 I commi 1 e 2 lasciano impregiudicate le disposizioni che garantiscono la liberta' di prestazione dei servizi o che permettono deroghe a detta liberta', previste in provvedimenti di recepimento di atti comunitari.
 
 ## Art. 43. — (Mutua assistenza in caso di deroghe individuali)
@@ -329,6 +1227,23 @@ I commi 1 e 2 lasciano impregiudicate le disposizioni che garantiscono la libert
 Qualora un'autorita' competente di cui all'articolo 8, comma 1, lettera i), intenda assumere le misure previste dall'articolo 42, si applica la procedura di cui ai commi da 2 a 6 del presente articolo, senza pregiudizio delle procedure giudiziarie, compresi i procedimenti e gli atti preliminari compiuti nel quadro di un'indagine penale.
 
 L'autorita' competente di cui al comma 1 chiede allo Stato membro di stabilimento di assumere misure nei confronti del prestatore la cui attivita' configura un pericolo per la sicurezza dei servizi, informando il punto nazionale di contatto di cui all'articolo 36, comma 2, e fornendo tutte le informazioni pertinenti sul servizio in causa e sulle circostanze della fattispecie.
+
+3.
+                        
+                            
+                                Qualora l'autorita' che ha presentato la richiesta non ritiene soddisfacente la risposta dello Stato membro interessato, l'autorita' ne informa il punto nazionale di contatto, precisando le ragioni per le quali ritiene che:
+
+                            
+                            
+                                a)
+                                
+                                    le misure assunte o previste dallo Stato membro di stabilimento siano insufficienti;
+                                
+                            
+                            
+                                b)
+                                
+                                    le misure che prevede di assumere rispettino le condizioni di cui all'articolo 42.
 
 La Presidenza del Consiglio dei Ministri - Dipartimento per il coordinamento delle politiche comunitarie provvede a notificare alla Commissione e allo Stato membro di stabilimento del prestatore l'intenzione di prendere misure ai sensi del presente articolo.
 
@@ -383,6 +1298,80 @@ Su proposta del Ministro della giustizia, di concerto con i Ministri competenti 
  n. 36, e successive modificazioni, recante ordinamento
  della professione di avvocato e procuratore)
 
+1.
+                        
+                            
+                                All'articolo 17 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al primo comma, numero 1°, dopo la parola: "Italia" sono aggiunte, in fine, le seguenti: ", ovvero cittadino di uno Stato membro dell'Unione europea";
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il primo comma e' inserito il seguente: "Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.".
+
+2.
+                        
+                            
+                                All'articolo 24 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al quinto comma la parola: "tre" e' sostituita dalla seguente: "due";
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ottavo comma e' sostituito dal seguente: "Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE";
+
+3.
+                        
+                            
+                                All'articolo 31 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al primo comma, dopo la parola: "residenza" sono inserite le seguenti: "o il suo domicilio professionale";
+                                
+                            
+                            
+                                b)
+                                
+                                    al quarto comma la parola: "tre" e' sostituita dalla seguente: "due";
+                                
+                            
+                            
+                                c)
+                                
+                                    il sesto comma e' sostituito dal seguente: "Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE".
+
+4.
+                        
+                            
+                                All'articolo 37 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al primo comma, numero 3°, dopo la parola: "residenza" sono inserite le seguenti: "o del domicilio professionale";
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma, numero 4), dopo la parola: "residenza" sono inserite le seguenti: "o il suo domicilio professionale".
+
 Le espressioni: "Ministro di grazia e giustizia" o "Ministro per la grazia e giustizia", ovunque ricorrano, sono sostituite dalle seguenti: "Ministro della giustizia"; l'espressione "Ministero di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministero della giustizia".
 
 ## Art. 50. — (Modifiche alla legge 7 gennaio 1976, n. 3, e successive
@@ -390,6 +1379,46 @@ Le espressioni: "Ministro di grazia e giustizia" o "Ministro per la grazia e giu
  di dottore agronomo e di dottore forestale)
 
 All'articolo 30, primo comma, della legge 7 gennaio 1976, n. 3, e successive modificazioni, e' apportata la seguente modifica, dopo le parole: "la residenza" sono inserite le seguenti: "o il domicilio professionale,";
+
+2.
+                        
+                            
+                                All'articolo 31, della legge 7 gennaio 1976, n. 3, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al primo comma, lettera a), le parole: "o cittadino" sono sostituite dalle seguenti: ", ovvero cittadino di uno Stato membro dell'Unione europea o";
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma, lettera e), dopo le parole: "la residenza" sono inserite le seguenti: "o il domicilio professionale,";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il primo comma e' inserito il seguente: "Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.";
+
+3.
+                        
+                            
+                                All'articolo 32 della legge 7 gennaio 1976, n. 3, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al primo comma la parola: "tre" e' sostituita dalla seguente: "due";
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' sostituito dal seguente: "Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.".
 
 All'articolo 33, secondo comma, della legge 7 gennaio 1976, n. 3, e successive modificazioni, dopo le parole: "di residenza" sono inserite le seguenti: "o di domicilio professionale,".
 
@@ -399,6 +1428,53 @@ L'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita d
  modificazioni, recante istituzione dell'albo professionale
  degli agrotecnici)
 
+1.
+                        
+                            
+                                All'articolo 5 della legge 6 giugno 1986, n. 251, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al primo comma, lettera a), le parole: "della Comunita' europea" sono sostituite dalle seguenti: "dell'Unione europea";
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma, lettera d), dopo le parole: "essere residente" sono inserite le seguenti: "o avere il domicilio professionale";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il primo comma e' inserito il seguente:
+"Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.".
+
+2.
+                        
+                            
+                                All'articolo 6, della legge 6 giugno 1986, n. 251, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole: "l'aspirante risiede" sono inserite le seguenti: "o ha il domicilio professionale";
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 e' inserito il seguente: "1-bis. Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.";
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 2, dopo le parole: "indirizzo di residenza" sono inserite le seguenti: "o di domicilio professionale".
+
 All'articolo 10-bis, comma 3, della legge 6 giugno 1986, n. 251, e successive modificazioni, le parole: "cittadini italiani," sono soppresse;
 
 L'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"; l'espressione "Ministero di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministero della giustizia".
@@ -406,6 +1482,53 @@ L'espressione "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita d
 ## Art. 52. — (Modifiche alla legge 9 febbraio 1942, n. 194, e successive
  modificazioni, recante disciplina giuridica
  della professione di attuario)
+
+1.
+                        
+                            
+                                All'articolo 4, della legge 9 febbraio 1942, n.194, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al primo comma, lettera a), dopo le parole: "ovvero cittadino" sono inserite le seguenti: "di uno Stato membro dell'Unione europea o";
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma la lettera f), e' sostituita dalla seguente: "f) avere la residenza o il domicilio professionale in Italia.";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il primo comma e' aggiunto, in fine, il seguente:
+"Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.";
+
+2.
+                        
+                            
+                                All'articolo 8, della legge 9 febbraio 1942, n. 194, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al primo comma, numero 2°, dopo la parola: "residenza" sono aggiunte le seguenti: "o di domicilio professionale";
+                                
+                            
+                            
+                                b)
+                                
+                                    al primo comma, numero 4), dopo le parole: "di Stato" sono inserite le seguenti: "membro dell'Unione europea o di Stato";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il primo comma e' inserito il seguente: "Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE";
 
 L'articolo 20 della legge 9 febbraio 1942, n. 194, e successive modificazioni, e' abrogato.
 
@@ -417,6 +1540,33 @@ L'espressione: "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita 
 
 All'articolo 30, primo comma, della legge 28 marzo 1968, n. 434, e successive modificazioni, dopo le parole: "la residenza" sono inserite le seguenti: "o il domicilio professionale,".
 
+2.
+                        
+                            
+                                All'articolo 31 della legge 28 marzo 1968, n. 434, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al comma 1, lettera a), le parole: "delle Comunita' europee" sono sostituite dalle seguenti: "dell'Unione europea";
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, lettera c), dopo le parole: "la residenza anagrafica" sono inserite le seguenti: "o il domicilio professionale,";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2 e' inserito il seguente:
+"2-bis. Il decreto di riconoscimento del titolo professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.".
+2. All'articolo 32 della legge 28 marzo 1968, n. 434, e successive modificazioni, sono apportate le seguenti modifiche:
+a) al primo comma la parola: "tre" e' sostituita dalla seguente: "due";
+b) il secondo comma e' sostituito dal seguente: "Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.";
+
 L'espressione: "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"; l'espressione: "Ministero di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministero della giustizia".
 
 ## Art. 54. — (Modifiche alla legge 3 febbraio 1963, n. 69, e successive
@@ -426,6 +1576,23 @@ L'espressione: "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita 
 All'articolo 26, primo comma, della legge 3 febbraio 1963, n. 69, e successive modificazioni, dopo le parole: " la loro residenza" sono inserite le seguenti: "o il loro domicilio professionale,".
 
 All'articolo 27, primo comma, della legge 3 febbraio 1963, n. 69, e successive modificazioni, dopo le parole: "la residenza" sono inserite le seguenti: "o il domicilio professionale".
+
+3.
+                        
+                            
+                                All'articolo 29, della legge 3 febbraio 1963, n. 69, e successive modificazioni sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    dopo il primo comma e' inserito il seguente: "Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.";
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo comma, le parole da: "entro" a: "iscrizione" sono sostituite dalle seguenti: "Al procedimento per l'iscrizione nell'albo si applica l'articolo 45 del decreto legislativo di attuazione della direttiva 2006/123/CE.";
 
 Dopo l'articolo 31 della legge 3 febbraio 1963, n. 69, e successive modificazioni, e' inserito il seguente:
  "Art. 31-bis
@@ -450,6 +1617,30 @@ All'articolo 37 del decreto legislativo 28 giugno 2005, n. 139, il comma 6 e' so
 ## Art. 56. — (Modifiche alla legge 24 maggio 1967, n. 396, e successive
  modificazioni, recante ordinamento della professione di biologo)
 
+1.
+                        
+                            
+                                All'articolo 5 della legge 24 maggio 1967, n. 396, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    alla lettera a), dopo le parole: "ovvero cittadino" sono inserite le seguenti: "di uno Stato membro dell'Unione europea o";
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera e), dopo le parole: "la residenza" sono inserite le seguenti: "o il domicilio professionale";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il primo comma e' aggiunto il seguente:
+"Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.".
+
 All'articolo 8, comma quinto, della legge 24 maggio 1967, n. 396, e successive modificazioni, la parola: "stranieri" e' sostituita dalle seguenti: "di Stati non membri dell'Unione europea".
 
 All'articolo 10 della legge 24 maggio 1967, n. 396, e successive modificazioni, il secondo comma e' sostituito dal seguente: "Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.".
@@ -466,11 +1657,67 @@ All'articolo 3, secondo comma, lettera a), della legge 11 gennaio 1979, n. 12, e
 
 All'articolo 8, terzo comma, della legge 11 gennaio 1979, n. 12, e successive modificazioni, dopo la parola: "domicilio" e' inserita la seguente: "professionale";
 
+3.
+                        
+                            
+                                All'articolo 9 della legge 11 gennaio 1979, n. 12, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    al primo comma, lettera a), le parole: "della Comunita' economica europea" sono sostituite dalle seguenti: "dell'Unione europea";
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il primo comma e' inserito il seguente:
+"Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.";
+                                
+                            
+                            
+                                c)
+                                
+                                    al quarto comma la parola: "tre" e' sostituita dalla parola: "due";
+                                
+                            
+                            
+                                d)
+                                
+                                    il settimo comma e' sostituito dal seguente: "Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.".
+
 L'espressione: "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia".
 
 ## Art. 58. — (Modifiche alla legge 3 febbraio 1963, n. 112, e successive
  modificazioni, recante disposizioni per la tutela del titolo
  e della professione di geologo)
+
+1.
+                        
+                            
+                                All'articolo 5 della legge 3 febbraio 1963, n. 112, e successive modificazioni, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    alla lettera a), dopo le parole: "ovvero cittadino" sono inserite le seguenti: "di uno Stato membro dell'Unione europea o" ;
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera e), dopo la parola: "residenza" sono inserite le seguenti: "o il domicilio professionale";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il primo comma sono inseriti i seguenti:
+"Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.
+Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.
+L'espressione: "Ministro per la grazia e la giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia".
 
 ## Art. 59. — (Modifiche alla legge 12 novembre 1990, n. 339, recante
  decentramento dell'ordine nazionale dei geologi)
@@ -482,6 +1729,42 @@ Al comma 6 dell'articolo 6 della legge 12 novembre 1990, n. 339, le parole: "cit
 
 All'articolo 26, comma 1, della legge 18 gennaio 1994, n. 59, dopo la parola: "residenza" sono inserite le seguenti: "o il domicilio professionale";
 
+2.
+                        
+                            
+                                All'articolo 27 della legge 18 gennaio 1994, n. 59, sono apportate le seguenti modificazioni:
+
+                            
+                            
+                                a)
+                                
+                                    al comma 1, lettera a), le parole: "della Comunita' economica europea" sono sostituite dalle seguenti: "dell'Unione europea";
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, lettera d), dopo la parola: "residenza" sono inserite le seguenti: "o il domicilio professionale";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 1 e' inserito il seguente:
+"1-bis. Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.";
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 3, la parola: "tre" e' sostituita dalla seguente: "due";
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 4, e' sostituito dal seguente "4. Si applicano i commi 4 e 5 dell'articolo 45 del decreto legislativo di attuazione della direttiva 2006/123/CE.".
+
 Al comma 4, dell'articolo 49, le parole: "cittadini italiani," sono soppresse.
 
 L'espressione: "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministro della giustizia"; l'espressione: "Ministero di grazia e giustizia", ovunque ricorra, e' sostituita dalla seguente: "Ministero della giustizia".
@@ -489,8 +1772,69 @@ L'espressione: "Ministro di grazia e giustizia", ovunque ricorra, e' sostituita 
 ## Art. 61. — (Modifiche alla legge 7 marzo 1985, n. 75, recante modifiche
  all'ordinamento professionale dei geometri)
 
+1.
+                        
+                            
+                                All'articolo 2 della legge 7 marzo 1985, n. 75, sono apportate le seguenti modificazioni:
+
+                            
+                            
+                                a)
+                                
+                                    al comma 1, numero 1), le parole: "della Comunita' economica europea" sono sostituite dalle seguenti: "dell'Unione europea";
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, numero 3), dopo la parola: "anagrafica" sono inserite le seguenti: "o il domicilio professionale";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2 e' inserito il seguente:
+"2-bis. Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.";
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 3 e' inserito il seguente: "3-bis. Al procedimento per l'iscrizione nell'albo si applica l'articolo 45 del presente decreto legislativo.".
+
 ## Art. 62. — (Modifiche alla legge 2 febbraio 1990, n. 17, recante modifiche
  all'ordinamento professionale dei periti industriali)
+
+1.
+                        
+                            
+                                All'articolo 2 della legge 2 febbraio 1990, n.17, sono apportate le seguenti modificazioni:
+
+                            
+                            
+                                a)
+                                
+                                    al comma 1, lettera a), le parole: "delle Comunita' europee" sono sostituite dalle seguenti: "dell'Unione europea" ;
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, lettera d), dopo la parola: "anagrafica" sono inserite le seguenti: "o il domicilio professionale";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 4 e' inserito il seguente:
+"4-bis. Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.";
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 5 e' inserito, in fine, il seguente:
+"5-bis. Al procedimento per l'iscrizione nell'albo si applica l'articolo 45, commi 4 e 5, del decreto legislativo di attuazione della direttiva 2006/123/CE.".
 
 ## Art. 63. — (Modifiche alla legge 23 marzo 1993, n. 84, recante
  ordinamento della professione di assistente sociale
@@ -529,6 +1873,35 @@ e) nelle mense aziendali e negli spacci annessi ai circoli cooperativi e degli e
 f) esercitate in via diretta a favore dei propri dipendenti da amministrazioni, enti o imprese pubbliche; 
 g) nelle scuole; negli ospedali; nelle comunita' religiose; in stabilimenti militari delle Forze di polizia e del Corpo nazionale dei vigili del fuoco; 
 h) nei mezzi di trasporto pubblico. ".
+
+8.
+                        
+                            
+                                L'autorizzazione e il titolo abilitativo decadono nei seguenti casi: 
+
+                            
+                            
+                                a)
+                                
+                                    qualora il titolare dell'attivita' non risulti piu' in possesso dei requisiti di cui all'articolo 71, commi 1 e 2; 
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora il titolare sospenda l'attivita' per un periodo superiore a dodici mesi; 
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora venga meno la rispondenza dello stato dei locali ai criteri stabiliti dal Ministro dell'interno. In tale caso, il titolare puo' essere espressamente diffidato dall'amministrazione competente a ripristinare entro il termine assegnato il regolare stato dei locali; 
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di attivita' soggetta ad autorizzazione, qualora il titolare, salvo proroga in caso di comprovata necessita', non attivi l'esercizio entro centottantagiorni.
 
 Il comma 1 dell'articolo 10 della legge 25 agosto 1991, n. 287, e' sostituito dal seguente: "l. A chiunque eserciti l'attivita' di somministrazione al pubblico di alimenti e bevande senza l'autorizzazione, ovvero senza la ((segnalazione certificata di inizio di attivita')), ovvero quando sia stato emesso un provvedimento di inibizione o di divieto di prosecuzione dell'attivita' ed il titolare non vi abbia ottemperato, si applica la sanzione amministrativa del pagamento di una somma da 2.500 euro a 15.000 euro e la chiusura dell'esercizio.".
 
@@ -590,6 +1963,47 @@ L'attivita' di incaricato alla vendita diretta a domicilio di cui al comma 5 e' 
 
 ## Art. 71. — (Requisiti di accesso e di esercizio delle attivita' commerciali)
 
+1.
+                        
+                            
+                                Non possono esercitare l'attivita' commerciale di' vendita e di somministrazione: 
+
+                            
+                            
+                                a)
+                                
+                                    coloro che sono stati dichiarati delinquenti abituali, professionali o per tendenza, salvo che abbiano ottenuto la riabilitazione; 
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che hanno riportato una condanna, con sentenza passata in giudicato, per delitto non colposo, per il quale e' prevista una pena detentiva non inferiore nel minimo a tre anni, sempre che sia stata applicata, in concreto, una pena superiore al minimo edittale; 
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che hanno riportato, con sentenza passata in giudicato, una condanna a pena detentiva per uno dei delitti di cui al libro II, Titolo VIII, capo II del codice penale, ovvero per ricettazione, riciclaggio, insolvenza fraudolenta, bancarotta fraudolenta, usura, rapina, delitti contro la persona commessi con violenza, estorsione; 
+                                
+                            
+                            
+                                d)
+                                
+                                    coloro che hanno riportato, con sentenza passata in giudicato, una condanna per reati contro l'igiene e la sanita' pubblica, compresi i delitti di cui al libro II, Titolo VI, capo II del codice penale; 
+                                
+                            
+                            
+                                e)
+                                
+                                    coloro che hanno riportato, con sentenza passata in giudicato, due o piu' condanne, nel quinquennio precedente all'inizio dell'esercizio dell'attivita', per delitti di frode nella preparazione e nel commercio degli alimenti previsti da leggi speciali; 
+                                
+                            
+                            
+                                f)
+                                
+                                    coloro che sono sottoposti a una delle misure di prevenzione di cui alla legge 27 dicembre 1956, n. 1423, o nei cui confronti sia stata applicata una delle misure previste dalla legge 31 maggio 1965, n. 575, ovvero a misure di sicurezza ((. . .));
+
 Non possono esercitare l'attivita' di somministrazione di alimenti e bevande coloro che si trovano nelle condizioni di cui al comma 1, o hanno riportato, con sentenza passata in giudicato, una condanna per reati contro la moralita' pubblica e il buon costume, per delitti commessi in stato di ubriachezza o in stato di intossicazione da stupefacenti; per reati concernenti la prevenzione dell'alcolismo, le sostanze stupefacenti o psicotrope, ((il gioco d'azzardo, le scommesse clandestine, nonche' per reati relativi ad infrazioni alle norme sui giochi)).
 
 ((
@@ -607,6 +2021,30 @@ In caso di impresa individuale i requisiti di cui ai commi 1 e 2 devono essere p
 
 ))
 
+6.
+                        
+                            
+                                
+                                    ((L'esercizio, in qualsiasi forma e limitatamente all'alimentazione umana, di un'attivita' di commercio al dettaglio relativa al settore merceologico alimentare o di un'attivita' di somministrazione di alimenti e bevande e' consentito a chi e' in possesso di uno dei seguenti requisiti professionali:))
+                                
+                            
+                            
+                                a)
+                                
+                                    avere frequentato con esito positivo un corso professionale per il commercio, la preparazione o la somministrazione degli alimenti, istituito o riconosciuto dalle regioni o dalle province autonome di Trento e di Bolzano; 
+                                
+                            
+                            
+                                b)
+                                
+                                    avere, per almeno due anni, anche non continuativi, nel quinquennio precedente, esercitato in proprio attivita' d'impresa nel settore alimentare o nel settore della somministrazione di alimenti e bevande o avere prestato la propria opera, presso tali imprese, in qualita' di dipendente qualificato, addetto alla vendita o all'amministrazione o alla preparazione degli alimenti, o in qualita' di socio lavoratore o in altre posizioni equivalenti o, se trattasi di coniuge, parente o affine, entro il terzo grado, dell'imprenditore, in qualita' di coadiutore familiare, comprovata dalla iscrizione all'Istituto nazionale per la previdenza sociale;
+                                
+                            
+                            
+                                c)
+                                
+                                    essere in possesso di un diploma di scuola secondaria superiore o di laurea, anche triennale, o di altra scuola ad indirizzo professionale, almeno triennale, purche' nel corso di studi siano previste materie attinenti al commercio, alla preparazione o alla somministrazione degli alimenti.
+
 ((6-bis. Sia per le imprese individuali che in caso di societa', associazioni od organismi collettivi, i requisiti professionali di cui al comma 6 devono essere posseduti dal titolare o rappresentante legale, ovvero, in alternativa, dall'eventuale persona preposta all'attivita' commerciale.))
 
 ((7))
@@ -616,6 +2054,31 @@ In caso di impresa individuale i requisiti di cui ai commi 1 e 2 devono essere p
 ## Art. 71-bis. — (( (Commercio all'ingrosso con deposito e produzione di margarina e grassi idrogenati) ))
 
 ((
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente articolo, sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 4 novembre 1951, n. 1316, recante disciplina della produzione e del commercio della margarina e dei grassi idrogenati alimentari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Presidente della Repubblica 14 gennaio 1954, n. 131, recante approvazione del regolamento per la esecuzione della legge 4 novembre 1951, n. 1316, sulla disciplina della produzione e del commercio della margarina e dei grassi idrogenati alimentari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Presidente della Repubblica 13 novembre 1997, n. 519, recante regolamento recante disciplina dei procedimenti relativi alla produzione e al deposito della margarina e dei grassi idrogenati alimentari, a norma dell'articolo 20, comma 8, della legge 15 marzo 1997, n. 59.
 
 All'articolo 22, comma 4, del decreto legislativo 31 marzo 1998, n. 112, recante conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della legge 15 marzo 1997, n. 59, le parole: "E' subordinato ad una denuncia di inizio attivita'" sono sostituite dalle seguenti : "Non e' subordinato ad alcuna specifica segnalazione certificata di inizio attivita', fatto salvo quanto previsto dal regolamento CE/852/2004.".
 
@@ -768,6 +2231,24 @@ Con decreto del Ministro dello sviluppo economico, da adottare entro i sei mesi 
 
 E' soppresso il ruolo degli stimatori e pesatori pubblici.
 
+2.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente articolo sono o restano abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 32, primo comma, n. 3, del testo unico approvato con regio decreto 20 settembre 1934, n. 2011, recante approvazione del testo unico delle leggi sui consigli provinciali dell'economia corporativa nella sola parte in cui prevede l'istituzione del ruolo degli stimatori e pesatori pubblici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Ministro dell'industria del commercio e dell'artigianato in data 11 luglio 1983, pubblicato nella Gazzetta Ufficiale n. 224 del 17 agosto 1983, recante approvazione del nuovo regolamento-tipo per la formazione presso le Camere di commercio, industria, artigianato e agricoltura del ruolo degli stimatori e pesatori pubblici.
+
 ))
 
 ## Art. 80-ter. — (( (Attivita' di mediatori per le unita' di diporto). ))
@@ -781,6 +2262,79 @@ A decorrere dalla data di entrata in vigore del presente articolo e' soppresso l
 ## Art. 80-quater. — (( (Ruolo dei periti e degli esperti). ))
 
 ((
+
+1.
+                        
+                            
+                                Fatta salva la possibilita' di successive modificazioni nell'ambito dell'ordinaria potesta' regolamentare in materia di ruoli dei periti e degli esperti, al regolamento-tipo per la formazione del ruolo dei periti e degli esperti presso le camere di commercio, industria, artigianato e agricoltura di cui al decreto del Ministro dell'industria del commercio e dell'artigianato in data 29 dicembre 1979, pubblicato nella Gazzetta Ufficiale n. 24 del 25 gennaio 1980, sono apportate le seguenti modificazioni. 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 4 e' sostituito dal seguente: «4. - L'iscrizione nel ruolo e' disposta dalla camera di commercio, industria, artigianato e agricoltura.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al settimo comma dell'articolo 5 le parole: «La commissione di cui all'articolo 4» e le parole: «la commissione» sono sostituite dalle seguenti: «La camera di commercio, industria, artigianato e agricoltura»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al primo comma dell'articolo 6 le parole: «ed alla proposta della commissione di cui all'art. 4» sono soppresse ed al secondo comma dell'articolo 6 le parole: «in base ad istruttoria eseguita dalla commissione anzidetta» sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 7 le parole: «che decide, sentita la commissione centrale per l'esame dei ricorsi dei periti e degli esperti di cui all'articolo seguente» sono abrogate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli articoli 8 e 9 sono conseguentemente soppressi;
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 10 le parole: «l'attivita' abitualmente esercitata» sono soppresse; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 11 e' sostituito dal seguente: «11. Il ruolo e' pubblico e l'elenco dei periti e degli esperti e' pubblicato sul sito della camera di commercio.»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 13, le parole: «La commissione di cui all'articolo 4» sono sostituite dalle seguenti: «La Camera di commercio, industria agricoltura e artigianato»; le parole: «e propone, ove del caso, l'applicazione delle sanzioni previste dal successivo art. 15» sono soppresse; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 15, le parole: «commissione prevista dall'art. 4» sono sostituite dalle seguenti: «dirigente della camera di commercio» e il quinto comma e' abrogato; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sono abrogati gli articoli 3, 5, primo comma, limitatamente alle lettere b), c), d) ed e), sesto comma, ottavo comma, nono comma, e 16.
 
 Le competenze relative alla gestione del ruolo dei periti e degli esperti sono assolte dall'ufficio competente della camera di commercio, industria, artigianato e agricoltura in forma semplificata.
 
@@ -833,6 +2387,38 @@ Le violazioni delle disposizioni di cui al comma 1 sono valutate ai fini della i
 
 ## Art. 82. — (Attivita' di spedizioniere doganale)
 
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, recante approvazione del testo unico delle disposizioni legislative in materia doganale sono apportate le seguenti modificazioni:
+
+                            
+                            
+                                a)
+                                
+                                    l'articolo 46, primo capoverso e' sostituito dal seguente:
+"Presso ciascun Ufficio delle dogane e' formato e tenuto aggiornato un registro nel quale sono elencati gli ausiliari, residenti in un comune compreso nel territorio del competente Ufficio delle dogane, che svolgono la loro attivita' alle dipendenze degli spedizionieri doganali abilitati alla presentazione di dichiarazioni doganali sull'intero territorio nazionale.";
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 47 e' sostituito dal seguente:
+"Art. 47 ( Conferimento della nomina a spedizioniere doganale)
+1. La nomina a spedizioniere doganale e' conferita mediante il rilascio di apposita patente, di validita' illimitata.
+2. La patente e' rilasciata dall' Agenzia delle dogane, sentito il Consiglio nazionale degli spedizionieri doganali.
+3. La nomina a spedizioniere doganale abilita alla presentazione di dichiarazioni doganali sull 'intero territorio nazionale.";
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 51 e' sostituito dal seguente:
+"Art. 51 (Ammissione agli esami)
+1. Per essere ammessi agli esami gli aspiranti devono inoltrare istanza entro il termine stabilito nella determinazione del Direttore dell'Agenzia delle dogane che indice gli esami medesimi, devono aver conseguito, alla data di pubblicazione della determinazione stessa, il diploma di istruzione secondaria di secondo grado e devono risultare, alla medesima data, iscritti da almeno due anni nel registro del personale ausiliario, ai sensi dell'articolo 46.
+Possono, inoltre, essere ammessi agli esami, coloro che, in possesso del diploma di istituto di istruzione secondaria di secondo grado, abbiano superato un corso di formazione professionale di durata almeno annuale, tenuto da un istituto universitario e che risultino iscritti, alla data di cui al primo capoverso, da almeno un anno nel registro del personale ausiliario. Il requisito dell'iscrizione nel registro degli ausiliari non e' richiesto agli aspiranti che per almeno due anni abbiano prestato servizio nell'Agenzia delle dogane con mansioni direttive, di concetto od esecutive ovvero nella Guardia di finanza in qualita' di ufficiale o sottufficiale.
+2. L'esclusione dagli esami per difetto dei requisiti e' disposta con determinazione del Direttore dell 'Agenzia delle dogane.".
+
 ## Art. 83. — ((ARTICOLO ABROGATO DAL D.LGS. 23 MAGGIO 2011, N. 79))
 
 
@@ -854,6 +2440,64 @@ Il comma 4 dell'articolo 60 del decreto legislativo 9 novembre 2007, n. 206, di 
 L'articolo 9 della legge 29 dicembre 1990, n. 428, e' abrogato.
 
 Ferme restando le abrogazioni contenute nel comma 5, sono o restano abrogate le disposizioni di legge e di regolamento statali incompatibili con gli articoli ((73, 74, 75 e 76)).
+
+5.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni: 
+
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 6 AGOSTO 2012, N. 147)); 
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 6 AGOSTO 2012, N. 147)); 
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 5, comma 1, lettere a), b) e d), della legge 3 maggio 1985, n. 204; 
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 6 AGOSTO 2012, N. 147)); 
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 9, lettere a) c) ed e), della legge 4 aprile 1977, n. 135; 
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    l'articolo 4, primo comma, lettere a) ed e), della legge 14 novembre 1941, n. 1442;
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 6 AGOSTO 2012, N. 147)); 
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 6 AGOSTO 2012, N. 147)).
 
 ((
 

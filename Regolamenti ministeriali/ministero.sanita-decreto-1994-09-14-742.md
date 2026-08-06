@@ -8,8 +8,8 @@ codice_redazionale: 095G0004
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,45 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 4 lu
 E' individuata la figura del logopedista con il seguente profilo: il logopedista e' l'operatore sanitario che, in possesso del diploma universitario abilitante, svolge la propria attivita' nella prevenzione e nel trattamento riabilitativo delle patologie del linguaggio e della comunicazione in eta' evolutiva, adulta e geriatrica.
 
 L'attivita' del logopedista e' volta all'educazione e rieducazione di tutte le patologie che provocano disturbi della voce, della parola, del linguaggio orale e scritto e degli handicap comunicativi.
+
+3.
+                    
+                        
+                            In riferimento alla diagnosi ed alla prescrizione del medico, nell'ambito delle proprie competenze, il logopedista:
+ 
+                        
+                        
+                            a)
+                            
+                                elabora, anche in equipe multidisciplinare, il bilancio logopedico volto all'individuazione ed al superamento del bisogno di salute del disabile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pratica autonomamente attivita' terapeutica per la rieducazione funzionale delle disabilita' comunicative e cognitive, utilizzando terapie logopediche di abilitazione e riabilitazione della comunicazione e del linguaggio, verbali e non verbali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                propone l'adozione di ausili, ne addestra all'uso e ne verifica l'efficacia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolge attivita' di studio, didattica e consulenza professionale, nei servizi sanitari ed in quelli dove si richiedono le sue competenze professionali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                verifica le rispondenze della metodologia riabilitativa attuata agli obiettivi di recupero funzionale.
 
 Il logopedista svolge la sua attivita' professionale in strutture sanitarie, pubbliche o private, in regime di dipendenza o libero-professionale.
  AVVERTENZA:

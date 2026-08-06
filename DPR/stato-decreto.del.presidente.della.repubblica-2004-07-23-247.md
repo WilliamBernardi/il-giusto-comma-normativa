@@ -8,8 +8,8 @@ codice_redazionale: 004G0279
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,7 +29,92 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «camera di commercio»: la camera di commercio, industria, artigianato e agricoltura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «registro delle imprese»: il registro delle imprese di cui all'articolo 8 della legge 29 dicembre 1993, n. 580;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «ufficio del registro delle imprese»: l'ufficio della camera di commercio per la tenuta del registro delle imprese e del repertorio delle notizie economiche e amministrative (REA);
+
+                            
+                        
+                        
+                            d)
+                            
+                                «giudice del registro»: il giudice delegato a vigilare sulla tenuta del registro delle imprese ai sensi dell'articolo 2188 del codice civile e dell'articolo 8, comma 2, della legge 29 dicembre 1993, n. 580;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «conservatore»: il conservatore di cui all'articolo 8, comma 3, della legge 29 dicembre 1993, n. 580;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «commissione provinciale per l'artigianato»: la commissione di cui all'articolo 10 della legge 8 agosto 1985, n. 443;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «cancellazione»: l'annotazione nel registro delle imprese della cessazione dell'impresa o del fatto estintivo della societa'.
+
 ## Art. 2. — Cancellazione dell'impresa individuale
+
+1.
+                    
+                        
+                            Si procede alla cancellazione dell'impresa individuale quando l'ufficio del registro delle imprese accerta una delle seguenti circostanze:
+ 
+                        
+                        
+                            a)
+                            
+                                decesso dell'imprenditore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                irreperibilita' dell'imprenditore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                mancato compimento di atti di gestione per tre anni consecutivi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                perdita dei titoli autorizzativi o abilitativi all'esercizio dell'attivita' dichiarata.
 
 L'ufficio del registro delle imprese che rileva una delle circostanze indicate al comma 1, anche a seguito di segnalazione da parte di altro pubblico ufficio, avvia il procedimento di cancellazione dell'impresa ai sensi del comma 3.
 
@@ -42,6 +127,45 @@ La trasmissione degli atti al giudice del registro e' annotata nel registro dell
 Dopo la cancellazione, l'ufficio del registro delle imprese valuta, in relazione all'importo e alla effettiva possibilita' di riscossione, se procedere alla riscossione del diritto annuale, dei diritti di segreteria e delle eventuali sanzioni dovuti ai sensi dell'articolo 18 della legge 29 dicembre 1993, n. 580, maturati a decorrere dalla data di avvio del procedimento di cancellazione. La determinazione di non procedere alla riscossione e' motivata con comunicazione al competente collegio dei revisori dei conti, di cui all'articolo 17 della legge 29 dicembre 1993, n. 580.
 
 ## Art. 3. — Cancellazione della societa' semplice, della societa' in nome collettivo e della societa' in accomandita semplice
+
+1.
+                    
+                        
+                            Il procedimento per la cancellazione della societa' semplice, della societa' in nome collettivo e della societa' in accomandita semplice e' avviato quando l'ufficio del registro delle imprese rileva una delle seguenti circostanze:
+ 
+                        
+                        
+                            a)
+                            
+                                irreperibilita' presso la sede legale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                mancato compimento di atti di gestione per tre anni consecutivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                mancanza del codice fiscale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                mancata ricostituzione della pluralita' dei soci nel termine di sei mesi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                decorrenza del termine di durata, in assenza di proroga tacita.
 
 L'ufficio del registro delle imprese che rileva una delle circostanze indicate al comma 1, anche a seguito di segnalazione da parte di altro pubblico ufficio, avvia il procedimento invitando gli amministratori, mediante lettera raccomandata con avviso di ricevimento inviata all'indirizzo della sede che risulta iscritta nel registro e alla residenza anagrafica di ciascuno degli amministratori risultante nel registro, a comunicare l'avvenuto scioglimento della societa' stessa ovvero a fornire elementi idonei a dimostrare la persistenza dell'attivita' sociale della societa'. L'ufficio, contemporaneamente, procede alla verifica delle circostanze di cui al comma 1. Dell'avvio del procedimento e' data notizia mediante affissione all'albo camerale. Nelle lettere raccomandate e nell'avviso affisso all'albo camerale sono indicati gli effetti ricollegati, ai sensi del comma 3, al mancato riscontro.
 

@@ -8,8 +8,8 @@ codice_redazionale: 000G0366
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,80 @@ amministrazione n. 4/99 formulato nell'adunanza del 29 dicembre 1999;
 norma del citato articolo 17, comma 3, della legge 23 agosto 1988, n. 400, effettuata con nota prot. n. 18295 del 9 giugno 2000;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per "legge n. 77 del 1955", la legge 12 febbraio 1955, n. 77, come modificata dalla legge 29 dicembre 1956, n. 1559, dalla legge 12 giugno 1973, n. 349, e dal decreto-legge 18 settembre 1995, n. 381, convertito, con modificazioni, dalla legge 15 novembre 1995, n. 480;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "legge n. 108 del 1996", la legge 7 marzo 1996, n. 108;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "Ministro dell'industria", il Ministro dell'industria, del commercio e dell'artigianato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "camere di commercio", le camere di commercio, industria, artigianato e agricoltura;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per "pubblici ufficiali abilitati", i notai, gli ufficiali giudiziari, gli aiutanti ufficiali giudiziari e i segretari comunali, abilitati alla levata dei protesti a norma dell'articolo 1 della legge 12 giugno 1973, n. 349, nonche' le stanze di compensazione che emettono le dichiarazioni previste dall'articolo 45, primo comma, n. 3 del regio decreto 21 dicembre 1933, n. 1736;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per "protesti levati", i protesti per mancato pagamento di cambiali, di vaglia cambiari e di assegni bancari, nonche' le dichiarazioni indicate nella lettera e);
+
+                            
+                        
+                        
+                            g)
+                            
+                                per "rifiuti di pagamento", le dichiarazioni di rifiuto di pagamento di cambiali e di vaglia cambiari effettuate a norma dell'articolo 72 del regio decreto 5 dicembre 1933, n. 1669;
+
+                            
+                        
+                        
+                            h)
+                            
+                                per "notizie dei protesti", i dati relativi ai protesti levati ed ai rifiuti di pagamento;
+
+                            
+                        
+                        
+                            i)
+                            
+                                per "pubblicazione ufficiale dell'elenco dei protesti", la pubblicazione prevista dall'articolo 1, primo comma, della legge n. 77 del 1955;
+
+                            
+                        
+                        
+                            l)
+                            
+                                per "registro informatico", il registro delle notizie dei protesti tenuto con tecniche informatiche.
 
 ## Art. 2. — Registro informatico
 
@@ -63,11 +137,105 @@ Gli elenchi sono redatti in base ad apposito modello, approvato dal Ministro del
 
 L'elenco e' sottoscritto, anche mediante apposizione di firma digitale ai sensi del decreto del Presidente della Repubblica 10 novembre 1997, n. 513, dal pubblico ufficiale abilitato e reca il codice identificativo dello stesso ovvero, se tale codice non e' stato ancora attribuito, il nome, la data e il luogo di nascita, il domicilio e la qualifica.
 
+4.
+                    
+                        
+                            L'elenco indica, altresi', per ciascun protesto levato o rifiuto di pagamento:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero progressivo all'interno dell'elenco;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data e il luogo della levata o della registrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il nome e il domicilio del richiedente il pagamento, se si tratta di persona fisica, ovvero la denominazione e la sede, se si tratta di soggetto diverso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il nome e il domicilio del soggetto nei cui confronti il protesto e' stato levato o che ha effettuato il rifiuto, se si tratta di persona fisica, ovvero la denominazione e la sede, se si tratta di soggetto diverso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il codice fiscale del soggetto indicato dalla lettera d) o, in mancanza:
+ e1) se si tratta di persona fisica, la data e il luogo di nascita;
+ e2) se si tratta di societa' soggetta a registrazione, l'ufficio del registro delle imprese presso il quale e' iscritta e il numero di iscrizione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la natura del titolo di credito;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la data di scadenza, se si tratta di cambiale o di vaglia cambiario;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la valuta, tramite indicazione del relativo codice;
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'ammontare della somma dovuta, con indicazione, se in valuta estera, del controvalore in lire italiane o in euro alla data del protesto o della registrazione;
+
+                            
+                        
+                        
+                            l)
+                            
+                                i motivi del rifiuto di pagamento, tramite indicazione del relativo codice.
+
 Nel caso in cui le indicazioni previste dalla lettera e) del comma 4 non sono note al pubblico ufficiale abilitato che redige l'elenco, ne' dal medesimo agevolmente e prontamente conoscibili, la camera di commercio, ove possibile, le ricava e le inserisce nel registro informatico avvalendosi dell'interconnessione telematica con il sistema informativo del Ministero delle finanze prevista dall'articolo 32 del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581.
 
 ## Art. 6. — Trasmissione dell'elenco dei protesti
 
 Gli elenchi indicati nell'articolo 5 sono trasmessi al presidente del tribunale nella cui circoscrizione i soggetti che li hanno redatti esercitano le loro funzioni, non oltre il giorno 5 ed il giorno 20 di ogni mese. La trasmissione ha luogo su supporto cartaceo, salva la facolta' del presidente del tribunale di autorizzare la trasmissione con le modalita' alternative prevista dal comma 2 del presente articolo.
+
+2.
+                    
+                        
+                            Nei medesimi termini gli elenchi sono altresi' trasmessi alla camera di commercio nella cui circoscrizione territoriale si trova il tribunale indicato nel comma 1, con una delle seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                mediante consegna di un esemplare del supporto informatico, della quale la camera di commercio rilascia ricevuta,
+
+                            
+                        
+                        
+                            b)
+                            
+                                per via telematica, tramite messa a disposizione di una casella di posta elettronica.
 
 ## Art. 7. — Pubblicazione dell'elenco dei protesti
 
@@ -112,6 +280,31 @@ La consultazione e' effettuata sui terminali delle camere di commercio o sui ter
 La consultazione ha luogo su scala nazionale.
 
 La ricerca delle notizie dei protesti avviene in base al nome del soggetto nei cui confronti il protesto e' stato levato o che ha effettuato il rifiuto di pagamento. La camera di commercio rilascia, a richiesta dell'interessato, certificazione dell'esito della ricerca.
+
+5.
+                    
+                        
+                            E' consentito altresi' estrarre:
+ 
+                        
+                        
+                            a)
+                            
+                                elenchi di protesti e rifiuti di pagamento selezionati in base ad altri parametri di ricerca, tra cui, in ogni caso, quelli indicati nell'articolo 5, comma 4, lettere b), e) e g), e nell'articolo 7, comma 3, secondo periodo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elenchi integrali delle iscrizioni eseguite nel registro informatico nei quindici giorni precedenti a quello della consultazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copie integrali della pagina elettronica delle variazioni dei dati prevista dall'articolo 10.
 
 Dai documenti previsti dal comma 5 deve risultare la data di estrazione. Sono mantenuti nel registro informatico gli estremi di estrazione.
 

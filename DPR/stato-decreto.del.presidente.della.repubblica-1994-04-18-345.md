@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1997-03-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -64,7 +64,26 @@ La compensazione territoriale ha luogo di diritto per il personale dipendente da
 
 ## Art. 5. — Denunce delle aziende private e degli enti pubblici
 
-) sono tenute ad inviare ai competenti organi del Ministero, entro il mese di gennaio di ciascun anno, un prospetto recante il numero dei posti in organico, nonche' il numero del personale effettivamente in servizio, di ciascun gruppo di personale di ruolo; il numero del personale non di ruolo, distinto per categoria; il numero ed i nominativi degli invalidi e degli altri aventi diritto al collocamento obbligatorio in servizio.
+1.
+                    
+                        
+                            
+                                (( I datori di lavoro privati soggetti alle disposizioni della legge 2 aprile 1968, n. 482, sono tenuti ad inviare )) ai competenti uffici del Ministero, entro il mese di gennaio di ciascun anno, un prospetto recante: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione del numero complessivo del personale impiegato alle loro dipendenze, distinto per stabilimenti, per sesso e per categoria di mestiere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione nominativa degli invalidi e degli altri aventi diritto al collocamento obbligatorio, che si trovano alle loro dipendenze, precisando per ciascuno il giorno dell'assunzione e la categoria di appartenenza.
+
+(( Le amministrazioni dello Stato e gli enti pubblici )) sono tenute ad inviare ai competenti organi del Ministero, entro il mese di gennaio di ciascun anno, un prospetto recante il numero dei posti in organico, nonche' il numero del personale effettivamente in servizio, di ciascun gruppo di personale di ruolo; il numero del personale non di ruolo, distinto per categoria; il numero ed i nominativi degli invalidi e degli altri aventi diritto al collocamento obbligatorio in servizio.
 
 ((
 

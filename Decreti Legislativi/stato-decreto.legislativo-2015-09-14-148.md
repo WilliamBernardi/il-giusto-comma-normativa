@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -58,6 +58,24 @@ Agli effetti dell'integrazione le indennita' accessorie alla retribuzione base, 
 
 Per i lavoratori retribuiti a cottimo e per quelli retribuiti in tutto o in parte con premi di produzione, interessenze e simili, l'integrazione e' riferita al guadagno medio orario percepito nel periodo di paga per il quale l'integrazione e' dovuta.
 
+5.
+                        
+                            
+                                L'importo del trattamento di cui al comma 1 e' soggetto alle disposizioni di cui all'articolo 26 della legge 28 febbraio 1986, n. 41, e non puo' superare per l'anno 2015 gli importi massimi mensili seguenti, comunque rapportati alle ore di integrazione salariale autorizzate e per un massimo di dodici mensilita', comprensive dei ratei di mensilita' aggiuntive: 
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 971,71 quando la retribuzione mensile di riferimento per il calcolo del trattamento, comprensiva dei ratei di mensilita' aggiuntive, e' pari o inferiore a euro 2.102,24; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 1.167,91 quando la retribuzione mensile di riferimento per il calcolo del trattamento, comprensiva dei ratei di mensilita' aggiuntive, e' superiore a euro 2.102,24.
+
 ((5-bis. Per i trattamenti di integrazione salariale relativi a periodi di sospensione o riduzione dell'attivita' lavorativa decorrenti dal 1° gennaio 2022, il massimale di cui alla lettera a) del comma 5 cessa di produrre i propri effetti e l'importo del trattamento di cui al comma 1, indipendentemente dalla retribuzione mensile di riferimento per il calcolo del trattamento, non puo' superare l'importo massimo mensile di cui al comma 5, lettera b), come rivalutato ai sensi del comma 6))
 
 Con effetto dal 1° gennaio di ciascun anno, a decorrere dall'anno 2016, gli importi del trattamento di cui alle lettere a) e b) del comma 5, nonche' la retribuzione mensile di riferimento di cui alle medesime lettere, sono aumentati nella misura del 100 per cento dell'aumento derivante dalla variazione annuale dell'indice ISTAT dei prezzi al consumo per le famiglie degli operai e impiegati.
@@ -97,7 +115,50 @@ L'intervento straordinario di integrazione salariale e' subordinato all'erogazio
 
 ## Art. 5. — Contribuzione addizionale
 
+1.
+                        
+                            
+                                A carico delle imprese che presentano domanda di integrazione salariale e' stabilito un contributo addizionale, in misura pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    9 per cento della retribuzione globale che sarebbe spettata al lavoratore per le ore di lavoro non prestate, relativamente ai periodi di integrazione salariale ordinaria o straordinaria fruiti all'interno di uno o piu' interventi concessi sino a un limite complessivo di 52 settimane in un quinquennio mobile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    12 per cento oltre il limite di cui alla lettera a) e sino a 104 settimane in un quinquennio mobile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    15 per cento oltre il limite di cui alla lettera b), in un quinquennio mobile.
+
 Le imprese del settore della fabbricazione di elettrodomestici, con un organico superiore alle 4.000 unita' e con unita' produttive site nel territorio nazionale, di cui almeno una in un'area di crisi industriale complessa riconosciuta ai sensi dell'articolo 27 del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, le quali, al fine di mantenere la produzione esistente con la stabilita' dei livelli occupazionali, abbiano stipulato contratti di solidarieta', ai sensi dell'articolo 21, comma 1, lettera c), che prevedono nell'anno 2019 la riduzione concordata dell'orario di lavoro di durata non inferiore a quindici mesi, sono esonerate dalla contribuzione di cui al comma 1. L'esonero e' autorizzato dal Ministero del lavoro e delle politiche sociali, previo accordo governativo tra l'impresa e le organizzazioni sindacali dei lavoratori in cui vengono definiti gli impegni aziendali relativi alla continuita' produttiva e al mantenimento stabile dei livelli occupazionali. L'accordo e' stipulato entro e non oltre sessanta giorni dalla data di entrata in vigore della presente disposizione, decorsi i quali si intendono non piu' presenti i predetti impegni aziendali. Il beneficio contributivo di cui al presente comma e' riconosciuto nel limite di spesa di 10 milioni di euro per l'anno 2019 e di 6,9 milioni di euro per l'anno 2020. Qualora nel corso della procedura di stipula dell'accordo emerga il verificarsi di scostamenti, anche in via prospettica, rispetto al predetto limite di spesa, il Ministero del lavoro e delle politiche sociali non puo' procedere alla sottoscrizione dell'accordo governativo e conseguentemente non puo' prendere in considerazione ulteriori domande di accesso ai benefici di cui al presente comma. L'INPS provvede al monitoraggio del rispetto del limite di spesa con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica, fornendo i risultati dell'attivita' di monitoraggio al Ministero del lavoro e delle politiche sociali e al Ministero dell'economia e delle finanze. ((PERIODO SOPPRESSO DAL D.L. 27 GENNAIO 2022, N. 4)). (15)
+
+1-ter.
+                        
+                            
+                                A decorrere dal 1° gennaio 2025, a favore dei datori di lavoro che non abbiano fruito di trattamenti di integrazione salariale per almeno ventiquattro mesi successivi al termine dell'ultimo periodo di fruizione del trattamento e' stabilita una contribuzione addizionale ridotta, in misura pari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al 6 per cento della retribuzione globale che sarebbe spettata al lavoratore per le ore di lavoro non prestate, relativamente ai periodi di integrazione salariale ordinaria o straordinaria fruiti all'interno di uno o piu' interventi concessi sino a un limite complessivo di 52 settimane in un quinquennio mobile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al 9 per cento oltre il limite di cui alla lettera a) e sino a 104 settimane in un quinquennio mobile.
 
 ---------------
                             AGGIORNAMENTO (15)
@@ -147,7 +208,120 @@ La gestione di cui al comma 1 evidenzia, per ciascun trattamento, le prestazioni
 
 ## Art. 10. — Campo di applicazione
 
+1.
+                        
+                            
+                                La disciplina delle integrazioni salariali ordinarie e i relativi obblighi contributivi si applicano a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    imprese industriali manifatturiere, di trasporti, estrattive, di installazione di impianti, produzione e distribuzione dell'energia, acqua e gas; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cooperative di produzione e lavoro che svolgano attivita' lavorative similari a quella degli operai delle imprese industriali, ad eccezione delle cooperative elencate dal Decreto del Presidente della Repubblica 30 aprile 1970, n. 602; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    imprese dell'industria boschiva, forestale e del tabacco; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cooperative agricole, zootecniche e loro consorzi che esercitano attivita' di trasformazione, manipolazione e commercializzazione di prodotti agricoli propri per i soli dipendenti con contratto di lavoro a tempo indeterminato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    imprese addette al noleggio e alla distribuzione dei film e di sviluppo e stampa di pellicola cinematografica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    imprese industriali per la frangitura delle olive per conto terzi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    imprese produttrici di calcestruzzo preconfezionato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    imprese addette agli impianti elettrici e telefonici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    imprese addette all'armamento ferroviario; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    imprese industriali degli enti pubblici, salvo il caso in cui il capitale sia interamente di proprieta' pubblica; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    imprese industriali e artigiane dell'edilizia e affini; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    imprese industriali esercenti l'attivita' di escavazione e/o lavorazione di materiale lapideo; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    imprese artigiane che svolgono attivita' di escavazione e di lavorazione di materiali lapidei, con esclusione di quelle che svolgono tale attivita' di lavorazione in laboratori con strutture e organizzazione distinte dalla attivita' di escavazione.
+
 ## Art. 11. — Causali
+
+1.
+                        
+                            
+                                Ai dipendenti delle imprese indicate all'articolo 10, che siano sospesi dal lavoro o effettuino prestazioni di lavoro a orario ridotto e' corrisposta l'integrazione salariale ordinaria nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    situazioni aziendali dovute a eventi transitori e non imputabili all'impresa o ai dipendenti, incluse le intemperie stagionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    situazioni temporanee di mercato.
 
 ## Art. 12. — Durata
 
@@ -164,6 +338,52 @@ Nei limiti di durata definiti nei commi da 1 a 4, non possono essere autorizzate
 Con riferimento all'unita' produttiva oggetto di sospensione o riduzione dell'orario di lavoro, nella domanda di concessione dell'integrazione salariale l'impresa comunica il numero dei lavoratori mediamente occupati nel semestre precedente, distinti per orario contrattuale.
 
 ## Art. 13. — Contribuzione
+
+1.
+                        
+                            
+                                A carico delle imprese di cui all'articolo 10 e' stabilito un contributo ordinario, nella misura di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    1,70 per cento della retribuzione imponibile ai fini previdenziali per i dipendenti delle imprese industriali che occupano fino a 50 dipendenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    2,00 per cento della retribuzione imponibile ai fini previdenziali per i dipendenti delle imprese industriali che occupano oltre 50 dipendenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    4,70 per cento della retribuzione imponibile ai fini previdenziali per gli operai delle imprese dell'industria e artigianato edile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    3,30 per cento della retribuzione imponibile ai fini previdenziali per gli operai delle imprese dell'industria e artigianato lapidei; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    1,70 per cento della retribuzione imponibile ai fini previdenziali per gli impiegati e quadri delle imprese dell'industria e artigianato edile e lapidei che occupano fino a 50 dipendenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    2,00 per cento della retribuzione imponibile ai fini previdenziali per gli impiegati e quadri delle imprese dell'industria e artigianato edile e lapidei che occupano oltre 50 dipendenti.
 
 Ai fini della determinazione del limite di dipendenti, indicato al comma 1, il limite anzidetto e' determinato, con effetto dal 1° gennaio di ciascun anno, sulla base del numero medio di dipendenti in forza nell'anno precedente dichiarato dall'impresa. Per le imprese costituite nel corso dell'anno solare si fa riferimento al numero di dipendenti alla fine del primo mese di attivita'. L'impresa e' tenuta a fornire all'INPS apposita dichiarazione al verificarsi di eventi che, modificando la forza lavoro in precedenza comunicata, influiscano ai fini del limite di cui al comma 1. Agli effetti di cui al presente articolo sono da comprendersi nel calcolo tutti i lavoratori, compresi i lavoratori a domicilio e gli apprendisti, che prestano la propria opera con vincolo di subordinazione sia all'interno che all'esterno dell'azienda.
 
@@ -222,7 +442,114 @@ La gestione di cui al comma 1 evidenzia l'apporto dello Stato, le prestazioni e 
 
 ## Art. 20. — Campo di applicazione
 
+1.
+                        
+                            
+                                La disciplina in materia di intervento straordinario di integrazione salariale e i relativi obblighi contributivi trovano applicazione in relazione alle seguenti imprese, che nel semestre precedente la data di presentazione della domanda, abbiano occupato mediamente piu' di quindici dipendenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    imprese industriali, comprese quelle edili e affini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    imprese artigiane che procedono alla sospensione dei lavoratori in conseguenza di sospensioni o riduzioni dell'attivita' dell'impresa che esercita l'influsso gestionale prevalente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    imprese appaltatrici di servizi di mensa o ristorazione, che subiscano una riduzione di attivita' in dipendenza di situazioni di difficolta' dell'azienda appaltante, che abbiano comportato per quest'ultima il ricorso al trattamento ordinario o straordinario di integrazione salariale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    imprese appaltatrici di servizi di pulizia, anche se costituite in forma di cooperativa, che subiscano una riduzione di attivita' in conseguenza della riduzione delle attivita' dell'azienda appaltante, che abbia comportato per quest'ultima il ricorso al trattamento straordinario di integrazione salariale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    imprese dei settori ausiliari del servizio ferroviario, ovvero del comparto della produzione e della manutenzione del materiale rotabile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    imprese cooperative di trasformazione di prodotti agricoli e loro consorzi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    imprese di vigilanza.
+
+2.
+                        
+                            
+                                La disciplina in materia di intervento straordinario di integrazione salariale e i relativi obblighi contributivi trovano altresi' applicazione in relazione alle seguenti imprese, che nel semestre precedente la data di presentazione della domanda, abbiano occupato mediamente piu' di cinquanta dipendenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    imprese esercenti attivita' commerciali, comprese quelle della logistica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agenzie di viaggio e turismo, compresi gli operatori turistici.
+
+3.
+                        
+                            
+                                La medesima disciplina e i medesimi obblighi contributivi trovano applicazione, a prescindere dal numero dei dipendenti, in relazione alle categorie seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    imprese del trasporto aereo e di gestione aeroportuale e societa' da queste derivate, nonche' imprese del sistema aereoportuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partiti e movimenti politici e loro rispettive articolazioni e sezioni territoriali, nei limiti di spesa di 8,5 milioni di euro per l'anno 2015 e di 11,25 milioni di euro annui a decorrere dall'anno 2016, a condizione che risultino iscritti nel registro di cui all'articolo 4, comma 2, del decreto-legge 28 dicembre 2013, n. 149, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 13.
+
 Per i trattamenti di integrazione salariale relativi a periodi di sospensione o riduzione dell'attivita' lavorativa decorrenti dal 1° gennaio 2022, la disciplina in materia di intervento straordinario di integrazione salariale e i relativi obblighi contributivi trovano applicazione in relazione ai datori di lavoro non coperti dai fondi di cui agli articoli 26, 27 e 40 e che, nel semestre precedente la data di presentazione della domanda, abbiano occupato mediamente piu' di quindici dipendenti, per le causali di cui all'articolo 21, comma 1. ((35))
+
+3-ter.
+                        
+                            
+                                La medesima disciplina e i medesimi obblighi contributivi trovano applicazione, a prescindere dal numero dei dipendenti, per le causali di cui all'articolo 21, comma 1, in relazione alle categorie seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    imprese del trasporto aereo e di gestione aeroportuale e societa' da queste derivate, nonche' imprese del sistema aeroportuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partiti e movimenti politici e loro rispettive articolazioni e sezioni territoriali, a condizione che risultino iscritti nel registro di cui all'articolo 4, comma 2, del decreto-legge 28 dicembre 2013, n. 149, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 13.
 
 La disciplina di cui ai commi 1, 2 e 3 trova applicazione per i trattamenti di integrazione salariale fino al 31 dicembre 2021.
 
@@ -242,6 +569,31 @@ Resta fermo quanto disposto dall'articolo 37 della legge 5 agosto 1981, n. 416, 
  Il D.L. 28 settembre 2018, n. 109, convertito, con modificazioni, dalla L. 16 novembre 2018, n. 130, come modificato dalla L. 30 dicembre 2024, n. 207, ha disposto (con l'art. 44, comma 1) che "In deroga agli articoli 4, 20, comma 3-bis, e 22 del decreto legislativo 14 settembre 2015, n. 148, a decorrere dalla data di entrata in vigore del presente decreto e per gli anni 2019 e 2020, puo' essere autorizzato sino ad un massimo di dodici mesi complessivi, previo accordo stipulato in sede governativa presso il Ministero del lavoro e delle politiche sociali, anche in presenza del Ministero dello sviluppo economico e della Regione interessata, il trattamento straordinario di integrazione salariale per crisi aziendale qualora l'azienda abbia cessato o cessi l'attivita' produttiva e sussistano concrete prospettive di cessione dell'attivita' con conseguente riassorbimento occupazionale, secondo le disposizioni del decreto del Ministro del lavoro e delle politiche sociali del 25 marzo 2016, n. 95075, pubblicato nella Gazzetta Ufficiale n. 120 del 24 maggio 2016, oppure laddove sia possibile realizzare interventi di reindustrializzazione del sito produttivo, nonche' in alternativa attraverso specifici percorsi di politica attiva del lavoro posti in essere dalla Regione interessata, nel limite delle risorse stanziate ai sensi dell'articolo 21, comma 4, del decreto legislativo 14 settembre 2015, n. 148, e non utilizzate, anche in via prospettica , nonche' nel limite di 45 milioni di euro per l'anno 2019 e di 28,7 milioni di euro per l'anno 2020".
 
 ## Art. 21. — Causali di intervento
+
+1.
+                        
+                            
+                                L'intervento straordinario di integrazione salariale puo' essere richiesto quando la sospensione o la riduzione dell'attivita' lavorativa sia determinata da una delle seguenti causali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riorganizzazione aziendale ((, anche per realizzare processi di transizione individuati e regolati con decreto del Ministro del lavoro e delle politiche sociali, sentito il Ministro dello sviluppo economico, da adottare entro sessanta giorni dalla data di entrata in vigore della presente disposizione)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    crisi aziendale, ad esclusione, a decorrere dal 1° gennaio 2016, dei casi di cessazione dell'attivita' produttiva dell'azienda o di un ramo di essa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contratto di solidarieta'.
 
 Il programma di riorganizzazione aziendale di cui al comma 1, lettera a), deve presentare un piano di interventi volto a fronteggiare le inefficienze della struttura gestionale o produttiva ((ovvero a gestire processi di transizione)) e deve contenere indicazioni sugli investimenti e sull'eventuale attivita' di formazione dei lavoratori. Tale programma deve, in ogni caso, essere finalizzato a un consistente recupero occupazionale ((, anche in termini di riqualificazione professionale e di potenziamento delle competenze,)) del personale interessato alle sospensioni o alle riduzioni dell'orario di lavoro.
 
@@ -362,6 +714,26 @@ Il lavoratore che, nel periodo in cui usufruisce del servizio di cui al comma 2,
 
 Nei casi di cui al comma 4, il lavoratore ha diritto altresi' alla corresponsione di un contributo mensile pari al 50 per cento del trattamento straordinario di integrazione salariale che gli sarebbe stato altrimenti corrisposto.
 
+6.
+                        
+                            
+                                Al datore di lavoro che assume il lavoratore di cui al comma 4 e' riconosciuto, ferma restando l'aliquota di computo delle prestazioni pensionistiche, l'esonero dal versamento del 50 per cento dei complessivi contributi previdenziali a carico dei datori di lavoro, con esclusione dei premi e contributi dovuti all'INAIL, nel limite massimo di importo pari a 4.030 euro su base annua, annualmente rivalutato sulla base della variazione dell'indice ISTAT dei prezzi al consumo per le famiglie degli operai e degli impiegati.
+L'esonero e' riconosciuto per una durata non superiore a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diciotto mesi, in caso di assunzione con contratto a tempo indeterminato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dodici mesi, in caso di assunzione con contratto a tempo determinato. Nel caso in cui, nel corso del suo svolgimento, il predetto contratto venga trasformato in contratto a tempo indeterminato, il beneficio contributivo spetta per ulteriori sei mesi. 
+ (21) ((22))
+
 ---------------
                             AGGIORNAMENTO (21)
                             
@@ -398,6 +770,31 @@ L'impresa, sentite le rappresentanze sindacali aziendali o la rappresentanza sin
 Sono destinatari del trattamento straordinario di integrazione salariale, a prescindere dal numero di dipendenti occupati dal datore di lavoro, i giornalisti professionisti, i pubblicisti, i praticanti dipendenti da imprese editrici di giornali quotidiani, di periodici e di agenzie di stampa a diffusione nazionale di cui all'articolo 27, secondo comma, della legge 5 agosto 1981, n. 416, nonche' i dipendenti delle imprese editrici o stampatrici di giornali quotidiani, di periodici e delle agenzie di stampa a diffusione nazionale di cui all'articolo 27, secondo comma, della legge 5 agosto 1981, n. 416, ivi compresi i lavoratori assunti con contratto di apprendistato professionalizzante per i quali trova applicazione l'articolo 2, comma 3.
 
 Ai lavoratori di cui al comma 1 si applica l'articolo 1, comma 2, primo periodo.
+
+3.
+                        
+                            
+                                L'intervento straordinario di integrazione salariale puo' essere richiesto quando la sospensione o la riduzione dell'attivita' lavorativa sia determinata da una delle seguenti causali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riorganizzazione aziendale in presenza di crisi, di durata non superiore a 24 mesi, anche continuativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    crisi aziendale, ivi compresi i casi di cessazione dell'attivita' produttiva dell'azienda o di un ramo di essa anche in costanza di fallimento, di durata non superiore a 24 mesi, anche continuativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contratto di solidarieta' di cui all'articolo 21, comma 1, lettera c).
 
 In ogni caso, per ciascuna unita' produttiva il trattamento straordinario di integrazione salariale non puo' superare la durata massima complessiva di 24 mesi, anche continuativi, in un quinquennio mobile, fermo restando quanto disposto dall'articolo 22, comma 5.
 
@@ -458,6 +855,38 @@ A decorrere dal 1° gennaio 2022, l'istituzione dei fondi di cui al comma 1-bis 
 
 I fondi gia' costituiti ai sensi del comma 1 alla data di entrata in vigore del presente decreto, si adeguano alle disposizioni di cui al comma 7 entro il 31 dicembre 2015. In mancanza, i datori di lavoro del relativo settore, che occupano mediamente piu' di cinque dipendenti, confluiscono nel fondo di integrazione salariale di cui all'articolo 29 a decorrere dal 1° gennaio 2016 e i contributi da questi gia' versati o comunque dovuti ai fondi di cui al primo periodo vengono trasferiti al fondo di integrazione salariale.
 
+9.
+                        
+                            
+                                I fondi di cui al comma 1, che comprendono, per periodi di sospensione o riduzione dell'attivita' lavorativa decorrenti dal 1° gennaio 2022, anche i datori di lavoro che occupano almeno un dipendente, oltre alla finalita' di cui al medesimo comma, possono avere le seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurare ai lavoratori prestazioni integrative, in termini di importi o durate, rispetto alle prestazioni previste dalla legge in caso di cessazione del rapporto di lavoro, ovvero prestazioni integrative, in termini di importo, rispetto a trattamenti di integrazione salariale previsti dalla normativa vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevedere un assegno straordinario per il sostegno al reddito, riconosciuto nel quadro dei processi di agevolazione all'esodo, a lavoratori che raggiungano i requisiti previsti per il pensionamento di vecchiaia o anticipato nei successivi cinque anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contribuire al finanziamento di programmi formativi di riconversione o riqualificazione professionale, anche in concorso con gli appositi fondi nazionali o dell'Unione europea. (12) 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    assicurare, in via opzionale, il versamento mensile di contributi previdenziali nel quadro dei processi connessi alla staffetta generazionale a favore di lavoratori che raggiungono i requisiti previsti per il pensionamento di vecchiaia o anticipato nei successivi tre anni, consentendo la contestuale assunzione presso il medesimo datore di lavoro di lavoratori di eta' non superiore a 35 anni compiuti per un periodo non inferiore a tre anni.
+
 Per le finalita' di cui al comma 9, i fondi di cui al comma 1 possono essere istituiti anche in relazione a settori di attivita' e classi di ampiezza dei datori di lavoro che gia' rientrano nell'ambito di applicazione del Titolo I del presente decreto. Per le imprese nei confronti delle quali trovano applicazione le disposizioni in materia di indennita' di mobilita' di cui agli articoli 4 e seguenti della legge 23 luglio 1991, n. 223, e successive modificazioni, gli accordi e contratti collettivi di cui al comma 1 possono prevedere che il fondo di solidarieta' sia finanziato, a decorrere dal 1° gennaio 2017, con un'aliquota contributiva nella misura dello 0,30 per cento delle retribuzioni imponibili ai fini previdenziali.
 
 Gli accordi e i contratti collettivi di cui al comma 1 possono prevedere che nel fondo di cui al medesimo comma confluisca anche l'eventuale fondo interprofessionale istituito dalle medesime parti firmatarie ai sensi dell'articolo 118 della legge 23 dicembre 2000, n. 388, e successive modificazioni. In tal caso, al fondo affluisce anche il gettito del contributo integrativo stabilito dall'articolo 25, quarto comma, della legge 21 dicembre 1978, n. 845, e successive modificazioni, con riferimento ai datori di lavoro cui si applica il fondo e le prestazioni derivanti dall'attuazione del primo periodo del presente comma sono riconosciute nel limite di tale gettito.
@@ -477,9 +906,112 @@ In alternativa al modello previsto dall'articolo 26, in riferimento ai settori d
 
 Ove a seguito della trasformazione di cui al comma 1 sia avvenuta la confluenza, in tutto o in parte, di un fondo interprofessionale in un unico fondo bilaterale rimangono fermi gli obblighi contributivi previsti dal predetto articolo 118 della legge n. 388 del 2000, e le risorse derivanti da tali obblighi sono vincolate alle finalita' formative.
 
+3.
+                        
+                            
+                                I fondi di cui al comma 1 assicurano almeno una delle seguenti prestazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un assegno di durata e misura pari all'assegno di integrazione salariale di cui all'articolo 30, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'assegno di solidarieta' di cui all'articolo 31, eventualmente limitandone il periodo massimo previsto al comma 2 di tale articolo, prevedendo in ogni caso un periodo massimo non inferiore a 26 settimane in un biennio mobile. L'assegno di solidarieta' puo' essere riconosciuto per periodi di sospensione o riduzione dell'attivita' lavorativa fino al 31 dicembre 2021.
+
 I fondi di cui al comma 1 si adeguano alle disposizioni di cui al comma 3 entro il 31 dicembre 2015. In mancanza, i datori di lavoro, che occupano mediamente piu' di 5 dipendenti, aderenti ai fondi suddetti, confluiscono nel fondo di integrazione salariale di cui all'articolo 29, a decorrere dal 1° gennaio 2016 e possono richiedere le prestazioni previste dal fondo di integrazione salariale per gli eventi di sospensione o riduzione del lavoro verificatisi a decorrere dal 1° luglio 2016.
 
 Per periodi di sospensione o riduzione dell'attivita' lavorativa decorrenti dal 1° gennaio 2022, sono soggetti alla disciplina dei fondi di cui al comma 1 anche i datori di lavoro che occupano almeno un dipendente. I fondi gia' costituiti alla predetta data si adeguano alle disposizioni di cui al presente comma entro il ((30 giugno 2023)). In mancanza, i datori di lavoro confluiscono nel fondo di integrazione salariale di cui all'articolo 29, a decorrere dal ((1° luglio 2023)).
+
+5.
+                        
+                            
+                                Per le finalita' di cui al comma 1, gli accordi e i contratti collettivi definiscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un'aliquota complessiva di contribuzione ordinaria di finanziamento non inferiore, fatto salvo il caso di cui alla lettera e), allo 0,45 per cento della retribuzione imponibile previdenziale a decorrere dal 1° gennaio 2016, ripartita fra datore di lavoro e lavoratore secondo criteri che devono essere stabiliti da un accordo tra le parti sociali istitutive del fondo di cui al comma 1 entro il 31 dicembre 2015, in difetto del quale i datori di lavoro, che occupano mediamente piu' di 5 dipendenti, aderenti al fondo di cui al comma 1, confluiscono nel fondo di integrazione salariale di cui all'articolo 29 a decorrere dal 1° gennaio 2016 e possono richiedere le prestazioni previste dal medesimo fondo per gli eventi di sospensione o riduzione del lavoro verificatisi a decorrere dal 1° luglio 2016; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le tipologie di prestazioni in funzione delle disponibilita' del fondo di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adeguamento dell'aliquota in funzione dell'andamento della gestione ovvero la rideterminazione delle prestazioni in relazione alle erogazioni, tra l'altro tenendo presente in via previsionale gli andamenti del relativo settore in relazione anche a quello piu' generale dell'economia e l'esigenza dell'equilibrio finanziario del fondo di cui al comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la possibilita' di far confluire al fondo di cui al comma 1 quota parte del contributo previsto per l'eventuale fondo interprofessionale istituito ai sensi dell'articolo 118 della legge n. 388 del 2000; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la possibilita' di far confluire al fondo di cui al comma 1 quota parte del contributo previsto dall'articolo 12 del decreto legislativo n. 276 del 2003, prevedendo un'aliquota complessiva di contribuzione ordinaria di finanziamento del predetto fondo a esclusivo carico del datore di lavoro, in misura non inferiore allo 0,30 per cento della retribuzione imponibile previdenziale a decorrere dal 1° gennaio 2016; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la possibilita' per il fondo di cui al comma 1 di avere le finalita' di cui all'articolo 26, comma 9, lettere a) e b); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    criteri e requisiti per la gestione del fondo di cui al comma 1.
+
+6.
+                        
+                            
+                                Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, sentite le parti sociali istitutive dei fondi bilaterali di cui al comma 1, sono dettate disposizioni per determinare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    criteri volti a garantire la sostenibilita' finanziaria dei fondi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    requisiti di professionalita' e onorabilita' dei soggetti preposti alla gestione dei fondi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    criteri e requisiti per la contabilita' dei fondi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    modalita' volte a rafforzare la funzione di controllo sulla corretta gestione dei fondi e di monitoraggio sull'andamento delle prestazioni, anche attraverso la determinazione di standard e parametri omogenei.
 
 ## Art. 28.
 
@@ -502,6 +1034,24 @@ Sono soggetti alla disciplina del fondo di integrazione salariale i datori di la
 A decorrere dal 1° gennaio 2022, sono soggetti alla disciplina del fondo di integrazione salariale i datori di lavoro che occupano almeno un dipendente, appartenenti a settori, tipologie e classi dimensionali non rientranti nell'ambito di applicazione dell'articolo 10, che non aderiscono ai fondi di solidarieta' bilaterali costituiti ai sensi degli articoli 26, 27 e 40.
 
 Il fondo di integrazione salariale, finanziato con i contributi dei datori di lavoro appartenenti al fondo e dei lavoratori da questi occupati, secondo quanto definito dall'articolo 33, commi 1, 2 e 4, garantisce l'assegno di solidarieta' di cui all'articolo 31. Nel caso di datori di lavoro che occupano mediamente piu' di quindici dipendenti, il fondo garantisce per una durata massima di 26 settimane in un biennio mobile l'ulteriore prestazione di cui all'articolo 30, comma 1, in relazione alle causali di riduzione o sospensione dell'attivita' lavorativa previste dalla normativa in materia di integrazioni salariali ordinarie, ad esclusione delle intemperie stagionali, e straordinarie, limitatamente alle causali per riorganizzazione e crisi aziendale. Il presente comma cessa di trovare applicazione per i trattamenti decorrenti dal 1° gennaio 2022.
+
+3-bis.
+                        
+                            
+                                Per periodi di sospensione o riduzione dell'attivita' lavorativa decorrenti dal 1° gennaio 2022, l'assegno di integrazione salariale di cui all'articolo 30, comma 1, in relazione alle causali di riduzione o sospensione dell'attivita' lavorativa previste dalla normativa vigente in materia di integrazioni salariali ((...)), e' riconosciuto con i criteri e per le durate di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai datori di lavoro che, nel semestre precedente la data di presentazione della domanda, abbiano occupato mediamente fino a cinque dipendenti, per una durata massima di tredici settimane in un biennio mobile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai datori di lavoro che, nel semestre precedente la data di presentazione della domanda, abbiano occupato mediamente piu' di cinque dipendenti, per una durata massima di ventisei settimane in un biennio mobile.
 
 Alle prestazioni erogate dal fondo di integrazione salariale si provvede nei limiti delle risorse finanziarie acquisite al fondo medesimo, al fine di garantirne l'equilibrio di bilancio. In ogni caso, tali prestazioni sono determinate in misura non superiore a dieci volte l'ammontare dei contributi ordinari dovuti dal medesimo datore di lavoro, tenuto conto delle prestazioni gia' deliberate a qualunque titolo a favore dello stesso.
 
@@ -594,6 +1144,52 @@ In caso di necessita' di assicurare il pareggio di bilancio ovvero di far fronte
 
 ## Art. 36. — Comitato amministratore
 
+1.
+                        
+                            
+                                Alla gestione di ciascun fondo istituito ai sensi dell'articolo 26 e del fondo di cui all'articolo 28, provvede un comitato amministratore con i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    predisporre, sulla base dei criteri stabiliti dal consiglio di indirizzo e vigilanza dell'INPS, i bilanci annuali, preventivo e consuntivo, della gestione, corredati da una propria relazione, e deliberare sui bilanci tecnici relativi alla gestione stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    deliberare in ordine alla concessione degli interventi e dei trattamenti e compiere ogni altro atto richiesto per la gestione delle prestazioni previste dal decreto istitutivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fare proposte in materia di contributi, interventi e trattamenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigilare sull'affluenza dei contributi, sull'ammissione agli interventi e sull'erogazione dei trattamenti, nonche' sull'andamento della gestione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    decidere in unica istanza sui ricorsi in ordine alle materie di competenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assolvere ogni altro compito ad esso demandato da leggi o regolamenti.
+
 Il comitato amministratore e' composto da esperti in possesso dei requisiti di professionalita' e onorabilita' previsti dagli articoli 37 e 38, designati, per i fondi di cui all'articolo 26, dalle organizzazioni sindacali dei datori di lavoro e dei lavoratori stipulanti l'accordo o il contratto collettivo e, ((per il fondo di cui all'articolo 29)), dalle organizzazioni sindacali dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative sul piano nazionale, in numero complessivamente non superiore a dieci, o nel maggior numero necessario a garantire la rappresentanza di tutte le parti sociali ((...)) del fondo, nonche' da due rappresentanti, con qualifica di dirigente, rispettivamente del Ministero del lavoro e delle politiche sociali e del Ministero dell'economia e delle finanze in possesso dei requisiti di onorabilita' previsti dall'articolo 38. Ai componenti del comitato non spetta alcun emolumento, indennita' o rimborso spese.
 
 Il comitato amministratore e' nominato con decreto del Ministro del lavoro e delle politiche sociali e rimane in carica per quattro anni o per la diversa durata prevista dal decreto istitutivo.
@@ -620,6 +1216,70 @@ La sussistenza dei requisiti e l'assenza di situazioni impeditive e' accertata d
 ## Art. 38.
 
 Requisiti di onorabilita'
+
+1.
+                        
+                            
+                                I membri del comitato amministratore di ciascun fondo istituito ai sensi dell'articolo 26 e del fondo di cui all'articolo 28, non possono, a pena di ineleggibilita' o decadenza, trovarsi in una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    condizioni previste dall'articolo 2382 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assoggettamento a misure di prevenzione disposte ai sensi del decreto legislativo 6 settembre 2011, n. 159, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    condanna con sentenza definitiva a pena detentiva per uno dei reati previsti nel Titolo XI del Libro V del codice civile, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    condanna con sentenza definitiva alla reclusione per un tempo non inferiore a un anno per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria, di lavoro e previdenza, salvi gli effetti della riabilitazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    condanna con sentenza definitiva alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo, salvi gli effetti della riabilitazione.
+
+2.
+                        
+                            
+                                Costituiscono causa di sospensione dalle funzioni esercitate dai membri del comitato amministratore del fondo le seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    condanna con sentenza non definitiva per uno dei reati di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    applicazione provvisoria di una delle misure previste dall'articolo 67, comma 3, del decreto legislativo n. 159 del 2011; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    applicazione di una misura cautelare di tipo personale.
 
 L'assenza di situazioni impeditive e' accertata dal Ministero del lavoro e delle politiche sociali. La decadenza dalla carica o la sospensione dalle funzioni e' dichiarata dal Ministro del lavoro e delle politiche sociali entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto.
 
@@ -666,6 +1326,38 @@ Esclusivamente per il 2021, il limite minimo di unita' lavorative in organico di
 Per gli anni 2022 e 2023 il limite minimo di unita' lavorative in organico di cui al comma 1 non puo' essere inferiore a cinquanta, anche calcolate complessivamente nelle ipotesi di aggregazione stabile di imprese con un'unica finalita' produttiva o di servizi.
 
 ((1-quater. Fino))
+
+2.
+                        
+                            
+                                Il contratto di cui al comma 1 e' di natura gestionale e deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei lavoratori da assumere e l'indicazione dei relativi profili professionali compatibili con i piani di reindustrializzazione o riorganizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la programmazione temporale delle assunzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione della durata a tempo indeterminato dei contratti di lavoro, compreso il contratto di apprendistato professionalizzante di cui all'articolo 44 del decreto legislativo 15 giugno 2015, n. 81; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    relativamente alle professionalita' in organico, la riduzione complessiva media dell'orario di lavoro e il numero dei lavoratori interessati, nonche' il numero dei lavoratori che possono accedere al trattamento previsto dal comma 5.
 
 In deroga agli articoli 4 e 22, l'intervento straordinario di integrazione salariale puo' essere richiesto per un periodo non superiore a 18 mesi, anche non continuativi.
 
@@ -772,6 +1464,25 @@ All'articolo 37, comma 3, lettera d), della legge n. 88 del 1989, dopo le parole
 
 All'articolo 37, comma 8, della legge n. 88 del 1989, dopo le parole «6 agosto 1975, n. 427,» sono inserite le seguenti: «e al decreto legislativo adottato in attuazione dell'articolo 1, comma 2, lettera a) della legge 10 dicembre 2014, n. 183,».
 
+11.
+                        
+                            
+                                Con effetto per l'anno 2015, all'articolo 3, comma 5-bis, della legge 23 luglio 1991, n. 223, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole «sottoposte a sequestro o confisca ai sensi della legge 31 maggio 1965, n. 575, e successive modificazioni.» sono sostituite dalle seguenti: «che, ai sensi della legge 31 maggio 1965, n. 575, e successive modificazioni, siano sottoposte a sequestro o confisca, o nei cui confronti sia stata emessa dal Prefetto un'informazione antimafia interdittiva e siano state adottate le misure di cui all'articolo 32 del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo periodo e' sostituito dal seguente: «A tale fine l'amministratore dei beni nominato ai sensi dell'articolo 2-sexies della citata legge n. 575 del 1965 o i soggetti nominati in sostituzione del soggetto coinvolto ai sensi dell'articolo 32 del decreto-legge n. 90 del 2014, esercitano le facolta' attribuite dal presente articolo al curatore, al liquidatore e al commissario nominati in relazione alle procedure concorsuali.». 
+ Per gli interventi di cui al predetto articolo 3, comma 5-bis, della legge n. 223 del 1991, come modificato dal presente comma, e' altresi' destinato per l'anno 2015, in via aggiuntiva a quanto previsto dallo stesso articolo 3, comma 5-bis, un importo nel limite massimo di 8 milioni di euro a valere sulle risorse del Fondo sociale per occupazione e formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge n. 185 del 2008, convertito, con modificazioni, dalla legge n. 2 del 2009.
+
 In deroga all'articolo 4, comma 1, e all'articolo 22, commi 1, 2 e 3, entro il limite massimo di spesa di 216 milioni di euro per l'anno 2016 e di 117 milioni di euro per l'anno 2017, previo accordo stipulato in sede governativa presso il Ministero del lavoro e delle politiche sociali con la presenza del Ministero dello sviluppo economico e della regione, puo' essere concesso un ulteriore intervento di integrazione salariale straordinaria, sino al limite massimo di 12 mesi per ciascun anno di riferimento, alle imprese operanti in un'area di crisi industriale complessa riconosciuta alla data di entrata in vigore della presente disposizione ai sensi dell'articolo 27 del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134. Al fine di essere ammessa all'ulteriore intervento di integrazione salariale straordinaria l'impresa presenta un piano di recupero occupazionale che prevede appositi percorsi di politiche attive del lavoro concordati con la regione e finalizzati alla rioccupazione dei lavoratori, dichiarando contestualmente di non poter ricorrere al trattamento di integrazione salariale straordinaria ne' secondo le disposizioni del presente decreto ne' secondo le disposizioni attuative dello stesso. All'onere derivante dal primo periodo si provvede, quanto a 216 milioni per l'anno 2016 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 16, comma 7, del decreto legislativo 4 marzo 2015, n. 22, come incrementata dall'articolo 43, comma 5, e dall'articolo 1, comma 387, lettera b), della legge 28 dicembre 2015, n. 208, e quanto a 117 milioni per l'anno 2017 a carico del Fondo sociale per occupazione e formazione, di cui all'articolo 18, comma 1, lettera a), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, mediante utilizzo delle disponibilita' in conto residui. Entro quindici giorni dall'entrata in vigore della presente disposizione, le regioni richiedono al Ministero del lavoro e delle politiche sociali l'assegnazione delle risorse necessarie in relazione alle proprie esigenze. Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, le risorse sono proporzionalmente ripartite tra le regioni in base alle richieste, entro il limite massimo complessivo di spesa di euro 216 milioni di euro per l'anno 2016 e 117 milioni di euro per l'anno 2017. L'INPS provvede al monitoraggio del rispetto del limite di spesa, con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente e senza nuovi o maggiori oneri a carico della finanza pubblica e trasmette relazioni semestrali al Ministero del lavoro e delle politiche sociali e al Ministero dell'economia e delle finanze.
 
 Per fronteggiare, nel biennio 2022-2023, i processi di riorganizzazione e le situazioni di particolare difficolta' economica, ai datori di lavoro di cui all'articolo 20 che non possono piu' ricorrere ai trattamenti straordinari di integrazione salariale e' riconosciuto, in deroga agli articoli 4 e 22, nel limite di spesa di 150 milioni di euro per l'anno 2022 e di 150 milioni di euro per l'anno 2023, un trattamento straordinario di integrazione salariale per un massimo di cinquantadue settimane fruibili fino al 31 dicembre 2023. L'INPS provvede al monitoraggio del rispetto del limite di spesa di cui al primo periodo. Qualora dal predetto monitoraggio emerga il raggiungimento, anche in via prospettica, del predetto limite di spesa, l'INPS non prende in considerazione ulteriori domande.
@@ -806,6 +1517,146 @@ Le modalita' di accesso ai dati utili ai fini di cui al comma 1, nel rispetto de
 All'attuazione del presente articolo si provvede con le risorse finanziarie, umane e strumentali gia' previste a legislazione vigente e comunque senza nuovi o maggiori oneri a carico della finanza pubblica.
 
 ## Art. 46. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto legislativo luogotenenziale 9 novembre 1945, n. 788; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto legislativo del Capo provvisorio dello Stato 12 agosto 1947, n. 869, ad eccezione dell'articolo 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la legge 3 febbraio 1963, n. 77; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli da 2 a 5 della legge 5 novembre 1968, n. 1115; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la legge 8 agosto 1972, n. 464; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli articoli da 1 a 7, da 9 a 11, 12, comma 1, numeri 1) e 2), e da 13 a 17 della legge 20 maggio 1975, n. 164;
+                                
+                            
+                            
+                                g)
+                                
+                                    gli articoli 1, 2, e da 4 a 8 della legge 6 agosto 1975, n. 427; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la legge 13 agosto 1980, n. 427; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli articoli 1 e 2 del decreto-legge 30 ottobre 1984, n. 726, convertito con modificazioni dalla legge 19 dicembre 1984, n. 863; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 8, commi da 1 a 5, e 8 del decreto-legge 21 marzo 1988, n. 86, convertito, con modificazioni, dalla legge 20 maggio 1988, n. 160; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    gli articoli 1, 2, e da 12 a 14 della legge 23 luglio 1991, n. 223; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'articolo 5, commi da 1 a 4, del decreto-legge 20 maggio 1993, n. 148, convertito con modificazioni dalla legge 19 luglio 1993, n. 236; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto del Presidente della Repubblica 10 giugno 2000, n. 218; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'articolo 44, comma 6 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    i commi 1, da 4 a 19-ter, da 22 a 45, dell'articolo 3 della legge 28 giugno 2012, n. 92.
+
+2.
+                        
+                            
+                                A decorrere dal 1° gennaio 2016 sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 8 della legge 20 maggio 1975, n. 164; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 3 della legge 6 agosto 1975, n. 427; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, 7 febbraio 2014, n. 79141; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i commi 20, 20-bis, e 21 dell'articolo 3 della legge 28 giugno 2012, n. 92.
 
 A decorrere dal 1° luglio 2016 e' abrogato l'articolo 5 del decreto-legge 20 maggio 1993, n. 148, convertito, con modificazioni, dalla legge 19 luglio 1993, n. 236.
 

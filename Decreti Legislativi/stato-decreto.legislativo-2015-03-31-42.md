@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2015-03-31;42
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -22,7 +22,84 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 
 ## Art. 1. — Disposizioni in materia di imposta sul valore aggiunto
 
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 7-sexies, comma 1, le lettere f) e g) sono sostituite dalle seguenti: 
+ " f) le prestazioni di servizi rese tramite mezzi elettronici, quando il committente e' domiciliato nel territorio dello Stato o ivi residente senza domicilio all'estero; 
+ g) le prestazioni di telecomunicazione e di teleradiodiffusione, quando il committente e' domiciliato nel territorio dello Stato o ivi residente senza domicilio all'estero e sempre che siano utilizzate nel territorio dell'Unione europea."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 7-septies, comma 1, le lettere h) ed i) sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 22, primo comma, dopo il n. 6-bis) e' aggiunto il seguente: "6-ter) per le prestazioni di servizi di telecomunicazione, di servizi di teleradiodiffusione e di servizi elettronici resi a committenti che agiscono al di fuori dell'esercizio d'impresa, arte o professione.".
+
 ## Art. 2. — Istituzione dei regimi speciali per i servizi di telecomunicazione, di teleradiodiffusione ed elettronici
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 74-quinquies e' sostituito dai seguenti: 
+ "Art. 74-quinquies (Regime speciale per i servizi di telecomunicazione, di teleradiodiffusione ed elettronici resi da soggetti non UE ). - 1. I soggetti passivi domiciliati o residenti fuori dell'Unione europea, non stabiliti ne' identificati in alcuno Stato membro dell'Unione, possono identificarsi in Italia, con le modalita' previste dal presente articolo, per l'assolvimento degli obblighi in materia di imposta sul valore aggiunto relativamente ai servizi di telecomunicazione, di teleradiodiffusione o elettronici resi a committenti non soggetti passivi d'imposta domiciliati o residenti nell'Unione europea. A tal fine presentano apposita richiesta all'ufficio competente dell'Agenzia delle entrate, il quale comunica al soggetto richiedente il numero di identificazione attribuito. 
+ 2. I soggetti che si avvalgono del regime previsto dal presente articolo sono dispensati dagli obblighi di cui al titolo II. 
+ 3. La richiesta di cui al comma 1 contiene almeno le seguenti indicazioni: 
+ a) per le persone fisiche, il cognome e nome ed eventualmente la ditta; per i soggetti diversi dalle persone fisiche, la ragione sociale, la denominazione; 
+ b) indirizzo postale, indirizzi elettronici, inclusi i siti web; 
+ c) numero di codice fiscale attribuito dallo Stato di residenza o domicilio, se previsto; 
+ d) dichiarazione sulla mancata identificazione ai fini dell'imposta sul valore aggiunto all'interno dell'Unione europea. 
+ 4. In caso di variazione dei dati presentati, i soggetti di cui al comma 1 ne danno comunicazione all'Agenzia delle entrate. Gli stessi soggetti presentano un'analoga comunicazione se non intendono piu' fornire servizi di telecomunicazione, di teleradiodiffusione ed elettronici o non soddisfano piu' i requisiti per avvalersi del regime speciale previsto dal presente articolo. 
+ 5. I soggetti identificati ai sensi del presente articolo sono esclusi dal regime speciale se: 
+ a) comunicano di non fornire piu' servizi di telecomunicazione, di teleradiodiffusione o elettronici; 
+ b) si puo' altrimenti presumere che le loro attivita' di fornitura di servizi di telecomunicazione, di teleradiodiffusione o elettronici siano cessate; 
+ c) non soddisfano piu' i requisiti necessari per avvalersi del regime speciale; 
+ d) persistono a non osservare le norme relative al presente regime speciale. 
+ 6. I soggetti di cui al comma 1 presentano, per ciascun trimestre dell'anno solare ed entro il giorno venti del mese successivo al trimestre di riferimento, anche in mancanza di operazioni, una dichiarazione dalla quale risultano: 
+ a) il numero di identificazione; 
+ b) l'ammontare delle prestazioni di servizi di telecomunicazione, di teleradiodiffusione o elettronici effettuate nel periodo di riferimento, distintamente per ciascuno Stato membro di domicilio o residenza dei committenti e suddiviso per aliquote, al netto dell'imposta sul valore aggiunto; 
+ c) le aliquote applicate in relazione allo Stato membro di domicilio o di residenza dei committenti; 
+ d) l'ammontare dell'imposta sul valore aggiunto, suddiviso per aliquote, spettante a ciascuno Stato membro di domicilio o residenza dei committenti. 
+ 7. Per le prestazioni di servizi il cui corrispettivo e' fissato in valuta diversa dall'euro, il prestatore, in sede di redazione della dichiarazione di cui al comma 6, utilizza il tasso di cambio pubblicato dalla Banca centrale europea l'ultimo giorno del periodo cui si riferisce la dichiarazione o, in mancanza, quello del primo giorno successivo di pubblicazione. 
+ 8. Le comunicazioni e le dichiarazioni previste nei commi 1, 4 e 6 sono redatte in base ai modelli approvati con provvedimento del direttore dell'Agenzia delle entrate in conformita' con quanto previsto dall'ordinamento dell'Unione europea in materia di obblighi di trasmissione dei messaggi elettronici comuni ed inviate all'Agenzia delle entrate in via telematica con le modalita' definite nello stesso provvedimento. 
+ 9. I soggetti di cui al comma 1, entro il termine per la presentazione della dichiarazione di cui al comma 6, effettuano il versamento dell'imposta sul valore aggiunto dovuta in base alla dichiarazione medesima. 
+ 10. I soggetti di cui al comma 1 conservano un'idonea documentazione delle relative operazioni fino alla fine del decimo anno successivo a quello di effettuazione delle medesime. Tale documentazione e' fornita, su richiesta, all'Amministrazione finanziaria e alle autorita' fiscali degli Stati membri ove le operazioni sono state effettuate. 
+ 11. I soggetti di cui al comma 1 non possono detrarre dall'imposta dovuta ai sensi del presente articolo quella relativa agli acquisti di beni e servizi ed alle importazioni di beni; l'imposta relativa agli acquisti di beni e servizi ed alle importazioni di beni effettuati nel territorio dello Stato puo' essere in ogni caso chiesta a rimborso ai sensi dell'articolo 38-ter, comma 1-bis."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 74-quinquies sono inseriti i seguenti: 
+ "Art. 74-sexies (Regime speciale per i servizi di telecomunicazione, di teleradiodiffusione ed elettronici resi da soggetti UE ). - 1. I soggetti passivi domiciliati nel territorio dello Stato, o ivi residenti che non abbiano stabilito il domicilio all'estero, identificati in Italia, possono, ai fini dell'assolvimento degli obblighi in materia di imposta sul valore aggiunto per i servizi di telecomunicazione, di teleradiodiffusione o elettronici resi a committenti non soggetti passivi d'imposta domiciliati o residenti negli altri Stati membri dell'Unione europea, optare per l'applicazione delle disposizioni previste dall'articolo 74-quinquies e dal presente articolo. 
+ 2. L'opzione di cui al comma 1 puo' essere esercitata anche dai soggetti passivi domiciliati o residenti fuori dell'Unione europea che dispongono di una stabile organizzazione nel territorio dello Stato. Tuttavia, nel caso in cui un soggetto passivo disponga di una stabile organizzazione anche in un altro Stato membro dell'Unione europea, l'opzione di cui al comma 1 non puo' essere revocata prima del termine del secondo anno successivo a quello del suo esercizio. 
+ 3. Il numero di partita IVA attribuito al soggetto passivo ai sensi dell'articolo 35, comma 1, e' utilizzato anche in relazione all'opzione esercitata a norma del comma 1. 
+ 4. I soggetti passivi optanti, che dispongano di stabili organizzazioni in altri Stati membri dell'Unione europea, a partire dalle quali i servizi di telecomunicazione, di teleradiodiffusione o elettronici sono prestati, indicano nella dichiarazione trimestrale, oltre a quanto prescritto dall'articolo 74-quinquies, comma 6, anche l'ammontare dei servizi resi tramite una stabile organizzazione in ciascuno Stato membro, diverso da quello in cui quest'ultima e' localizzata, in cui i committenti hanno il domicilio o la residenza, nonche' il numero individuale d'identificazione IVA o il numero di registrazione fiscale della stabile organizzazione stessa. 
+ 5. Il soggetto passivo che ha esercitato l'opzione di cui al comma 1 non puo' detrarre dall'imposta dovuta ai sensi dell'articolo 74-quinquies quella relativa agli acquisti di beni e servizi ed alle importazioni di beni. Detto soggetto passivo puo' esercitare il diritto alla detrazione relativa agli acquisti di beni e servizi ed alle importazioni di beni effettuati nel territorio dello Stato, qualora spettante ai sensi dell'articolo 19, e seguenti, dall'ammontare dell'imposta applicata alle operazioni effettuate nell'ambito delle attivita' non assoggettate al regime speciale svolte dal soggetto passivo stesso. 
+ Art. 74-septies (Disposizioni per i soggetti identificati in un altro Stato membro). - 1. In relazione all'imposta sul valore aggiunto dovuta sulle prestazioni dei servizi di telecomunicazione, di teleradiodiffusione o elettronici effettuate nel territorio dello Stato, i soggetti passivi domiciliati o residenti fuori dell'Unione europea che hanno chiesto in un altro Stato membro dell'Unione europea l'applicazione del regime speciale disciplinato dal titolo XII, capo 6, sezione 2, della direttiva 2006/112/CE, nonche' i soggetti passivi domiciliati o residenti in un altro Stato membro dell'Unione ed ivi identificati che hanno chiesto in detto Stato membro l'applicazione del regime speciale disciplinato dal titolo XII, capo 6, sezione 3, della direttiva 2006/112/CE, osservano gli obblighi previsti nell'ambito di tali regimi nonche' le disposizioni del presente articolo. 
+ 2. I soggetti passivi domiciliati o residenti in un altro Stato membro dell'Unione europea ed ivi identificati, che hanno chiesto in detto Stato membro l'applicazione del regime speciale disciplinato dal titolo XII, capo 6, sezione 3, della direttiva 2006/112/CE e che risultino identificati anche in Italia, recuperano l'imposta relativa agli acquisti di beni e servizi ed alle importazioni di beni effettuati nel territorio dello Stato esercitando il diritto alla detrazione della medesima, qualora spettante ai sensi dell'articolo 19 e seguenti, dall'ammontare dell'imposta applicata alle operazioni effettuate nell'ambito delle attivita' non assoggettate al regime speciale svolte dal soggetto passivo stesso. Qualora tali soggetti passivi non risultino identificati in Italia, possono chiedere il rimborso dell'imposta ai sensi dell'articolo 38-bis2 anche in deroga a quanto previsto al comma 1, secondo periodo, dello stesso articolo. 
+ 3. I soggetti di cui al comma 1, su richiesta, forniscono all'Amministrazione finanziaria idonea documentazione relativa alle operazioni effettuate. 
+ 4. In relazione alle prestazioni dei servizi di telecomunicazione, di teleradiodiffusione o elettronici effettuate nel territorio dello Stato, i soggetti passivi di cui al comma 1 sono dispensati dagli obblighi di cui al titolo II.".
 
 ## Art. 3. — Disposizioni in materia di riscossione e di ripartizione dell'imposta sul valore aggiunto agli Stati membri di consumo.
 
@@ -32,6 +109,42 @@ Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, dopo l'artic
  3. Con il decreto di cui al comma 1 sono altresi' stabilite le modalita' di ripartizione dell'imposta di cui al medesimo comma, di contabilizzazione dell'imposta versata agli Stati membri di identificazione dai soggetti di cui all'articolo 74-septies, comma 1, in relazione ai servizi prestati nel territorio dello Stato, nonche' di rendicontazione delle operazioni effettuate per il tramite della nuova contabilita' speciale.".
 
 ## Art. 4. — Disposizioni su rimborsi e restituzioni
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 38-bis2, comma 1, il secondo periodo e' sostituito dal seguente: "Il rimborso non puo' essere richiesto dai soggetti che nel periodo di riferimento disponevano di una stabile organizzazione nel territorio dello Stato ovvero dai soggetti che hanno ivi effettuato operazioni diverse da quelle per le quali debitore dell'imposta e' il committente o cessionario, da quelle non imponibili di trasporto o accessorie ai trasporti e da quelle di servizi di telecomunicazione, teleradiodiffusione ed elettronici rese ai sensi dell'articolo 74-septies."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 38-bis2 e' inserito il seguente: 
+ "Art. 38-bis3 (Rimborsi di eccedenze di versamento a soggetti aderenti ai regimi speciali per i servizi di telecomunicazione, di teleradiodiffusione ed elettronici). - 1. Qualora i soggetti passivi che hanno optato in Italia per l'applicazione del regime speciale di cui all'articolo 74-quinquies o 74-sexies effettuino versamenti in eccesso rispetto a quanto risulta dalla dichiarazione trimestrale di cui all'articolo 74-quinquies, comma 6, e tale eccesso sia rilevato in sede di ripartizione delle somme tra i vari Stati membri di consumo, l'Agenzia delle entrate rimborsa l'eccedenza di versamento entro 30 giorni dalla data di ripartizione. 
+ 2. Qualora in sede di effettuazione dei controlli automatici di cui all'articolo 54-quater si rilevi un eccesso di versamento da parte di soggetti passivi identificati in un altro Stato membro ai sensi dell'articolo 74-septies, l'Agenzia delle entrate effettua il relativo rimborso entro 30 giorni. Tuttavia, se l'eccedenza di versamento si riferisce a periodi di imposta sino al 2018, il rimborso viene effettuato tenendo conto delle eventuali somme trattenute dallo Stato membro di identificazione ai sensi dell'articolo 46, paragrafo 3, del regolamento (UE) n. 904/2010.
+L'Agenzia delle entrate comunica, per via elettronica, allo Stato membro di identificazione, l'importo del rimborso gia' effettuato e del rimborso di competenza dello Stato membro di identificazione. 
+ 3. Qualora uno Stato membro di consumo abbia rimborsato un'eccedenza di versamento che si riferisce a periodi di imposta sino al 2018 ai soggetti passivi che hanno optato in Italia per l'applicazione del regime speciale di cui all'articolo 74-quinquies o 74-sexies, l'Agenzia delle entrate, a seguito di apposita comunicazione elettronica dello Stato membro di consumo, restituisce entro 30 giorni al contribuente la quota dell'imposta eventualmente trattenuta ai sensi dell'articolo 46, paragrafo 3, del regolamento (UE) n. 904/2010. L'Agenzia delle entrate comunica per via elettronica allo Stato membro di consumo l'effettuazione di tale rimborso. 
+ 4. Sulle somme rimborsate dall'Agenzia delle entrate ai sensi del presente articolo si applicano gli interessi di cui all'articolo 38-bis, primo comma, con decorrenza dal trentunesimo giorno successivo alla seguente data: 
+ a) la data di ripartizione, nelle ipotesi di cui al comma 1; 
+ b) la data di conclusione dei controlli automatici di cui all'articolo 54-quater, nelle ipotesi di cui al comma 2; 
+ c) la data di ricevimento della comunicazione elettronica dello Stato di consumo, nelle ipotesi di cui al comma 3. 
+ 5. Ai rimborsi previsti nel presente articolo e al pagamento degli interessi provvede il competente ufficio dell'Agenzia delle entrate, utilizzando i fondi messi a disposizione su apposita contabilita' speciale. 
+ 6. In sede di esecuzione dei rimborsi di cui ai commi 1, 2 e 3 non si applicano le disposizioni di cui all'articolo 28-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e di cui all'articolo 23 del decreto legislativo 18 dicembre 1997, n. 472."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 38-ter, dopo il comma 1 e' inserito il seguente: 
+ "1-bis. I rimborsi di cui al comma 1 sono concessi a soggetti domiciliati o residenti fuori dell'Unione europea, e che abbiano aderito al regime speciale di cui agli articoli 74-quinquies e seguenti, anche in assenza della condizione di reciprocita' ed ancorche' abbiano effettuato nel territorio dello Stato prestazioni di servizi di telecomunicazione, teleradiodiffusione ed elettronici.".
 
 ## Art. 5. — Disposizioni in materia di controlli sulle dichiarazioni
 
@@ -54,6 +167,38 @@ Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, dopo l'artic
  4. Qualora l'Amministrazione finanziaria verifichi sulla base delle informazioni presenti al sistema informativo dell'anagrafe tributaria che il soggetto, non domiciliato o residente nel territorio dello Stato, non dispone di fonti di reddito o beni disponibili nel territorio nazionale, la riscossione delle somme contenute nell'avviso di accertamento di cui al comma 3 potra' essere chiesta direttamente ad uno Stato estero attraverso la cooperazione amministrativa per il recupero dei crediti ai sensi della direttiva 2010/24/UE del Consiglio, del 16 marzo 2010 o altri accordi sulla reciproca assistenza in materia di riscossione dei crediti tributari comparabile a quella assicurata dalla direttiva 2010/24/UE, in deroga alle disposizioni in materia di iscrizione a ruolo e senza l'affidamento in carico agli agenti della riscossione.".
 
 ## Art. 6. — Disposizioni in materia di sanzioni
+
+1.
+                    
+                        
+                            Al decreto legislativo 18 dicembre 1997, n. 471, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 5, comma 1, dopo il secondo periodo e' inserito il seguente: "Nel caso di omessa o tardiva presentazione della dichiarazione cui sono tenuti i soggetti che applicano i regimi speciali di cui agli articoli 74-quinquies e 74-septies del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, la sanzione e' commisurata all'ammontare dell'imposta dovuta nel territorio dello Stato che avrebbe dovuto formare oggetto di dichiarazione."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 5, comma 4, dopo il primo periodo e' inserito il seguente: "La medesima sanzione si applica se dalla dichiarazione cui sono tenuti i soggetti che applicano i regimi speciali di cui agli articoli 74-quinquies e 74-septies del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, risulta, con riferimento alle operazioni effettuate nel territorio dello Stato, un'imposta inferiore a quella dovuta."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 5, comma 6, dopo il primo periodo, e' inserito il seguente: " E' punito con la medesima sanzione chi presenta la richiesta di registrazione di cui all'articolo 74-quinquies, comma 1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, con indicazioni incomplete o inesatte, anche relativamente all'indirizzo di posta elettronica e all'URL del sito web, tali da non consentire l'individuazione del contribuente o dei luoghi ove e' esercitata l'attivita'."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 8, comma 1, dopo il primo periodo e' inserito il seguente: "La medesima sanzione si applica alle violazioni relative al contenuto della dichiarazione prevista dall'articolo 74-quinquies, comma 6, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.".
 
 ## Art. 7. — Disposizioni di attuazione
 

@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2024-05-02
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -26,9 +26,139 @@ Sulla proposta dei Ministri per le politiche comunitarie, delle attivita' produt
 
 Il presente decreto e' diretto a promuovere la libera circolazione dei servizi della societa' dell'informazione, fra i quali il commercio elettronico.
 
+2.
+                    
+                        
+                            Non rientrano nel campo di applicazione del presente decreto: 
+ 
+
+                        
+                        
+                            a)
+                            
+                                i rapporti fra contribuente e amministrazione finanziaria connessi con l'applicazione, anche tramite concessionari, delle disposizioni in materia di tributi nonche' la regolamentazione degli aspetti tributari dei servizi della societa' dell'informazione ed in particolare del commercio elettronico; 
+                            
+                        
+                        
+                            b)
+                            
+                                le questioni relative al diritto alla riservatezza, con riguardo al trattamento dei dati personali nel settore delle telecomunicazioni di cui alla legge 31 dicembre 1996, n. 675, e al decreto legislativo 13 maggio 1998, n. 171, e successive modificazioni; 
+                            
+                        
+                        
+                            c)
+                            
+                                le intese restrittive della concorrenza; 
+                            
+                        
+                        
+                            d)
+                            
+                                le prestazioni di servizi della societa' dell'informazione effettuate da soggetti stabiliti in Paesi non appartenenti allo spazio economico europeo; 
+                            
+                        
+                        
+                            e)
+                            
+                                le attivita', dei notai o di altre professioni, nella misura in cui implicano un nesso diretto e specifico con l'esercizio dei pubblici poteri; 
+                            
+                        
+                        
+                            f)
+                            
+                                la rappresentanza e la difesa processuali; 
+                            
+                        
+                        
+                            g)
+                            
+                                i giochi d'azzardo, ove ammessi, che implicano una posta pecuniaria, i giochi di fortuna, compresi il lotto, le lotterie, le scommesse i concorsi pronostici e gli altri giochi come definiti dalla normativa vigente, nonche' quelli nei quali l'elemento aleatorio e' prevalente.
+
 Sono fatte salve le disposizioni comunitarie e nazionali sulla tutela della salute pubblica e dei consumatori, sul regime autorizzatorio in ordine alle prestazioni di servizi investigativi o di vigilanza privata, nonche' in materia di ordine pubblico e di sicurezza, di prevenzione del riciclaggio del denaro, del traffico illecito di stupefacenti, di commercio, importazione ed esportazione di armi, munizioni ed esplosivi e dei materiali d'armamento di cui alla legge 9 luglio 1990, n. 185.
 
 ## Art. 2. — (Definizioni)
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+
+
+                        
+                        
+                            a)
+                            
+                                "servizi della societa' dell'informazione": le attivita' economiche svolte in linea -on line-, nonche' i servizi definiti dall'articolo 1, comma 1, lettera b), della legge 21 giugno 1986, n. 317, e successive modificazioni;
+                            
+                        
+                        
+                            b)
+                            
+                                "prestatore": la persona fisica o giuridica che presta un servizio della societa' dell'informazione;
+                            
+                        
+                        
+                            c)
+                            
+                                "prestatore stabilito": il prestatore che esercita effettivamente un'attivita' economica mediante una stabile organizzazione per un tempo indeterminato. La presenza e l'uso dei mezzi tecnici e delle tecnologie necessarie per prestare un servizio non costituiscono di per se' uno stabilimento del prestatore;
+                            
+                        
+                        
+                            d)
+                            
+                                "destinatario del servizio": il soggetto che, a scopi professionali e non, utilizza un servizio della societa' dell'informazione, in particolare per ricercare o rendere accessibili informazioni;
+                            
+                        
+                        
+                            e)
+                            
+                                "consumatore": qualsiasi persona fisica che agisca con finalita' non riferibili all'attivita' commerciale, imprenditoriale o professionale eventualmente svolta.
+                            
+                        
+                        
+                            f)
+                            
+                                "comunicazioni commerciali": tutte le forme di comunicazione destinate, in modo diretto o indiretto, a promuovere beni, servizi o l'immagine di un'impresa, di un'organizzazione o di un soggetto che esercita un'attivita' agricola, commerciale, industriale, artigianale o una libera professione. Non sono di per se' comunicazioni commerciali:
+1) le informazioni che consentono un accesso diretto all'attivita' dell'impresa, del soggetto o dell'organizzazione, come un nome di dominio, o un indirizzo di posta elettronica;
+2) le comunicazioni relative a beni, servizi o all'immagine di tale impresa, soggetto o organizzazione, elaborate in modo indipendente, in particolare senza alcun corrispettivo;
+                            
+                        
+                        
+                            g)
+                            
+                                "professione regolamentata": professione riconosciuta ai sensi dell'articolo 2 del decreto legislativo 27 gennaio 1992, n. 115, ovvero ai sensi dell'articolo 2 del decreto legislativo 2 maggio 1994, n. 319;
+                            
+                        
+                        
+                            h)
+                            
+                                "ambito regolamentato": le disposizioni applicabili ai prestatori di servizi o ai servizi della societa' dell'informazione, indipendentemente dal fatto che siano di carattere generale o loro specificamente destinate. L'ambito regolamentato riguarda le disposizioni che il prestatore deve soddisfare per quanto concerne:
+1) l'accesso all'attivita' di servizi della societa' dell'informazione, quali le disposizioni riguardanti le qualifiche e i regimi di autorizzazione o di notifica;
+2) l'esercizio dell'attivita' di un servizio della societa' dell'informazione, quali, ad esempio, le disposizioni riguardanti il comportamento del prestatore, la qualita' o i contenuti del servizio, comprese le disposizioni applicabili alla pubblicita' e ai contratti, ovvero alla responsabilita' del prestatore.
+
+2.
+                    
+                        
+                            L'ambito regolamentato comprende unicamente i requisiti riguardanti le attivita' in linea e non comprende i requisiti legali relativi a:
+
+
+                        
+                        
+                            a)
+                            
+                                le merci in quanto tali, nonche' le merci, i beni e i prodotti per le quali le disposizioni comunitarie o nazionali nelle materie di cui all'articolo 1, comma 3, prevedono il possesso e l'esibizione di documenti, certificazioni, nulla osta o altri titoli autorizzatori di qualunque specie;
+                            
+                        
+                        
+                            b)
+                            
+                                la consegna o il trasporto delle merci;
+                            
+                        
+                        
+                            c)
+                            
+                                i servizi non prestati per via elettronica.
 
 Sono fatte salve, ove non espressamente derogate, le disposizioni in materia bancaria, finanziaria, assicurativa e dei sistemi di pagamento e le competenze degli organi amministrativi e degli organi di polizia aventi funzioni di vigilanza e di controllo, compreso il controllo sulle reti informatiche di cui alla legge 31 luglio 1997, n. 249, e delle autorita' indipendenti di settore.
 
@@ -42,7 +172,127 @@ Alle controversie che riguardano il prestatore stabilito si applicano le disposi
 
 ## Art. 4. — (Deroghe all'articolo 3)
 
+1.
+                    
+                        
+                            Le disposizioni dei commi 1 e 2 dell'articolo 3, non si applicano nei seguenti casi:
+
+
+                        
+                        
+                            a)
+                            
+                                diritti d'autore, diritti assimilati, diritti di cui alla legge 21 febbraio 1989, n. 70, e al decreto legislativo 6 maggio 1999, n. 169, nonche' diritti di proprieta' industriale;
+                            
+                        
+                        
+                            b)
+                            
+                                emissione di moneta elettronica da parte di istituti per i quali gli Stati membri hanno applicato una delle deroghe di cui all'articolo 8, paragrafo 1, della direttiva 2000/46/CE del Parlamento europeo e del Consiglio riguardante l'avvio, l'esercizio e la vigilanza prudenziale dell'attivita' degli istituti di moneta elettronica;
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 44, paragrafo 2, della direttiva 85/611/CEE, in materia di pubblicita' degli organismi di investimento collettivo in valori mobiliari;
+                            
+                        
+                        
+                            d)
+                            
+                                all'attivita' assicurativa di cui all'articolo 30 e al titolo IV della direttiva 92/49/CEE, terza direttiva sulle assicurazioni sui danni, agli articoli 7 e 8 della direttiva 88/357/CEE, seconda direttiva sulle assicurazioni sui danni; al titolo IV della direttiva 92/96/CEE, terza direttiva sulle assicurazioni sulla vita, e all'articolo 4 della direttiva 90/619/CEE, la seconda direttiva sulle assicurazioni sulla vita, come modificate dalla direttiva 2002/83/CE;
+                            
+                        
+                        
+                            e)
+                            
+                                facolta' delle parti di scegliere la legge applicabile al loro contratto;
+                            
+                        
+                        
+                            f)
+                            
+                                obbligazioni contrattuali riguardanti i contratti conclusi dai consumatori;
+                            
+                        
+                        
+                            g)
+                            
+                                validita' dei contratti che istituiscono o trasferiscono diritti relativi a beni immobili nei casi in cui tali contratti devono soddisfare requisiti formali;
+                            
+                        
+                        
+                            h)
+                            
+                                ammissibilita' delle comunicazioni commerciali non sollecitate per posta elettronica.
+
 ## Art. 5. — (Deroghe)
+
+1.
+                    
+                        
+                            La libera circolazione di un determinato servizio della societa' dell'informazione proveniente da un altro Stato membro puo' essere limitata, con provvedimento dell'autorita' giudiziaria o degli organi amministrativi di vigilanza o delle autorita' indipendenti di settore, per motivi di:
+
+
+                        
+                        
+                            a)
+                            
+                                ordine pubblico, per l'opera di prevenzione, investigazione, individuazione e perseguimento di reati, in particolare la tutela dei minori e la lotta contro l'incitamento all'odio razziale, sessuale, religioso o etnico, nonche' contro la violazione della dignita' umana;
+                            
+                        
+                        
+                            b)
+                            
+                                tutela della salute pubblica;
+                            
+                        
+                        
+                            c)
+                            
+                                pubblica sicurezza, compresa la salvaguardia della sicurezza e della difesa nazionale;
+                            
+                        
+                        
+                            d)
+                            
+                                tutela dei consumatori, ivi compresi gli investitori.
+
+2.
+                    
+                        
+                            I provvedimenti di cui al comma 1 possono essere adottati se, nel caso concreto, sono:
+
+
+                        
+                        
+                            a)
+                            
+                                necessari riguardo ad un determinato servizio della societa' dell'informazione lesivo degli obiettivi posti a tutela degli interessi pubblici di cui al comma 1, ovvero che costituisca un rischio serio e grave di pregiudizio agli stessi obiettivi;
+                            
+                        
+                        
+                            b)
+                            
+                                proporzionati a tali obiettivi.
+
+3.
+                    
+                        
+                            Fatti salvi i procedimenti giudiziari e gli atti compiuti nell'ambito di un'indagine penale, l'autorita' competente, per il tramite del Ministero delle attivita' produttive ovvero l'autorita' indipendente di settore, deve, prima di adottare il provvedimento:
+
+
+                        
+                        
+                            a)
+                            
+                                chiedere allo Stato membro di cui al comma 1 di prendere provvedimenti e verificare che essi non sono stati presi o che erano inadeguati;
+                            
+                        
+                        
+                            b)
+                            
+                                notificare alla Commissione europea e allo Stato membro di cui al comma 1, la sua intenzione di adottare tali provvedimenti. Dei provvedimenti adottati dalle autorita' indipendenti, e' data periodicamente comunicazione al Ministero competente.
 
 In caso di urgenza, i soggetti di cui al comma 3 possono derogare alle condizioni poste nello stesso comma. I provvedimenti, in tal caso, sono notificati nel piu' breve tempo possibile alla Commissione e allo Stato membro, insieme ai motivi dell'urgenza.
 
@@ -54,11 +304,104 @@ Sono fatte salve le disposizioni sui regimi di autorizzazione che non riguardano
 
 ## Art. 7. — (Informazioni generali obbligatorie)
 
+1.
+                    
+                        
+                            Il prestatore, in aggiunta agli obblighi informativi previsti per specifici beni e servizi, deve rendere facilmente accessibili, in modo diretto e permanente, ai destinatari del servizio e alle Autorita' competenti le seguenti informazioni:
+
+
+                        
+                        
+                            a)
+                            
+                                il nome, la denominazione o la ragione sociale;
+                            
+                        
+                        
+                            b)
+                            
+                                il domicilio o la sede legale;
+                            
+                        
+                        
+                            c)
+                            
+                                gli estremi che permettono di contattare rapidamente il prestatore e di comunicare direttamente ed efficacemente con lo stesso, compreso l'indirizzo di posta elettronica;
+                            
+                        
+                        
+                            d)
+                            
+                                il numero di iscrizione al repertorio delle attivita' economiche, REA, o al registro delle imprese;
+                            
+                        
+                        
+                            e)
+                            
+                                gli elementi di individuazione, nonche' gli estremi della competente autorita' di vigilanza qualora un'attivita' sia soggetta a concessione, licenza od autorizzazione;
+                            
+                        
+                        
+                            f)
+                            
+                                per quanto riguarda le professioni regolamentate:
+1) l'ordine professionale o istituzione analoga, presso cui il prestatore sia iscritto e il numero di iscrizione;
+2) il titolo professionale e lo Stato membro in cui e' stato rilasciato;
+3) il riferimento alle norme professionali e agli eventuali codici di condotta vigenti nello Stato membro di stabilimento e le modalita' di consultazione dei medesimi;
+                            
+                        
+                        
+                            g)
+                            
+                                il numero della partita IVA o altro numero di identificazione considerato equivalente nello Stato membro, qualora il prestatore eserciti un'attivita' soggetta ad imposta;
+                            
+                        
+                        
+                            h)
+                            
+                                l'indicazione in modo chiaro ed inequivocabile dei prezzi e delle tariffe dei diversi servizi della societa' dell'informazione forniti, evidenziando se comprendono le imposte, i costi di consegna ed altri elementi aggiuntivi da specificare;
+                            
+                        
+                        
+                            i)
+                            
+                                l'indicazione delle attivita' consentite al consumatore e al destinatario del servizio e gli estremi del contratto qualora un'attivita' sia soggetta ad autorizzazione o l'oggetto della prestazione sia fornito sulla base di un contratto di licenza d'uso.
+
 Il prestatore deve aggiornare le informazioni di cui al comma 1.
 
 La registrazione della testata editoriale telematica e' obbligatoria esclusivamente per le attivita' per le quali i prestatori del servizio intendano avvalersi delle provvidenze previste dalla legge 7 marzo 2001, n. 62.
 
 ## Art. 8. — (Obblighi di informazione per la comunicazione commerciale)
+
+1.
+                    
+                        
+                            In aggiunta agli obblighi informativi previsti per specifici beni e servizi, le comunicazioni commerciali che costituiscono un servizio della societa' dell'informazione o ne sono parte integrante, devono contenere, sin dal primo invio, in modo chiaro ed inequivocabile, una specifica informativa, diretta ad evidenziare:
+
+
+                        
+                        
+                            a)
+                            
+                                che si tratta di comunicazione commerciale;
+                            
+                        
+                        
+                            b)
+                            
+                                la persona fisica o giuridica per conto della quale e' effettuata la comunicazione commerciale;
+                            
+                        
+                        
+                            c)
+                            
+                                che si tratta di un'offerta promozionale come sconti, premi, o omaggi e le relative condizioni di accesso;
+                            
+                        
+                        
+                            d)
+                            
+                                che si tratta di concorsi o giochi promozionali, se consentiti, e le relative condizioni di partecipazione.
 
 ## Art. 9. — (Comunicazione commerciale non sollecitata)
 
@@ -73,7 +416,79 @@ L'impiego di comunicazioni commerciali che costituiscono un servizio della socie
 
 ## Art. 11. — (Esclusioni)
 
+1.
+                    
+                        
+                            Il presente decreto non si applica a:
+
+
+                        
+                        
+                            a)
+                            
+                                contratti che istituiscono o trasferiscono diritti relativi a beni immobili, diversi da quelli in materia di locazione;
+                            
+                        
+                        
+                            b)
+                            
+                                contratti che richiedono per legge l'intervento di organi giurisdizionali, pubblici poteri o professioni che implicano l'esercizio di pubblici poteri;
+                            
+                        
+                        
+                            c)
+                            
+                                contratti di fideiussione o di garanzie prestate da persone che agiscono a fini che esulano dalle loro attivita' commerciali, imprenditoriali o professionali;
+                            
+                        
+                        
+                            d)
+                            
+                                contratti disciplinati dal diritto di famiglia o di successione.
+
 ## Art. 12. — (Informazioni dirette alla conclusione del contratto)
+
+1.
+                    
+                        
+                            Oltre agli obblighi informativi previsti per specifici beni e servizi, nonche' a quelli stabiliti dall'articolo 3 del decreto legislativo 22 maggio 1999, n. 185, il prestatore, salvo diverso accordo tra parti che non siano consumatori, deve fornire in modo chiaro, comprensibile ed inequivocabile, prima dell'inoltro dell'ordine da parte del destinatario del servizio, le seguenti informazioni:
+
+
+                        
+                        
+                            a)
+                            
+                                le varie fasi tecniche da seguire per la conclusione del contratto;
+                            
+                        
+                        
+                            b)
+                            
+                                il modo in cui il contratto concluso sara' archiviato e le relative modalita' di accesso;
+                            
+                        
+                        
+                            c)
+                            
+                                i mezzi tecnici messi a disposizione del destinatario per individuare e correggere gli errori di inserimento dei dati prima di inoltrare l'ordine al prestatore;
+                            
+                        
+                        
+                            d)
+                            
+                                gli eventuali codici di condotta cui aderisce e come accedervi per via telematica;
+                            
+                        
+                        
+                            e)
+                            
+                                le lingue a disposizione per concludere il contratto oltre all'italiano;
+                            
+                        
+                        
+                            f)
+                            
+                                l'indicazione degli strumenti di composizione delle controversie.
 
 Il comma 1 non e' applicabile ai contratti conclusi esclusivamente mediante scambio di messaggi di posta elettronica o comunicazioni individuali equivalenti.
 
@@ -123,6 +538,30 @@ Gli organi di composizione extragiudiziale delle controversie comunicano alla Co
 ## Art. 20. — (Cooperazione)
 
 Presso il Ministero delle attivita' produttive e' istituito, senza maggiori oneri a carico del bilancio dello Stato, il punto di contatto nazionale che fornisce assistenza e collaborazione agli Stati membri e alla Commissione. Il punto di contatto e' accessibile anche per via telematica.
+
+2.
+                    
+                        
+                            Il Ministero delle attivita' produttive, provvede affinche' sul proprio sito siano rese tempestivamente disponibili, per le Amministrazioni pubbliche, per i destinatari e per i fornitori di servizi:
+
+
+                        
+                        
+                            a)
+                            
+                                le informazioni generali sui diritti ed obblighi contrattuali e sui meccanismi di reclamo e ricorso disponibili in caso di controversie, nonche' sui codici di condotta elaborati con le associazioni di consumatori iscritte nell'elenco di cui all'articolo 5 della legge 30 luglio 1998, n. 281;
+                            
+                        
+                        
+                            b)
+                            
+                                gli estremi delle autorita', organizzazioni o associazioni presso le quali possono ottenere ulteriori informazioni o assistenza;
+                            
+                        
+                        
+                            c)
+                            
+                                gli estremi e la sintesi delle decisioni significative riguardo a controversie sui servizi della societa' dell'informazione, comprese quelle adottate dagli organi di composizione extragiudiziale, nonche' informazioni su pratiche, consuetudini od usi relativi al commercio elettronico.
 
 ## Art. 21. — (Sanzioni)
 

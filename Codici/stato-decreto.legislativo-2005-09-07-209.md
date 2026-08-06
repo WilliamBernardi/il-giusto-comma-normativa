@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Codici
 vigenza_date: 2026-06-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:38:35Z
+zip_date: 2026-08-04
+fetched_at: 2026-08-04
 ---
 
 DECRETO LEGISLATIVO
@@ -32,7 +32,673 @@ Sulla proposta del Ministro delle attivita' produttive e del Ministro per le pol
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Agli effetti del codice delle assicurazioni private si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurazione contro i danni: le assicurazioni indicate all'articolo 2, comma 3; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurazione sulla vita: le assicurazioni e le operazioni indicate all'articolo 2, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' assicurativa: l'assunzione e la gestione dei rischi effettuata da un'impresa di assicurazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' riassicurativa: 
+ 1) l'assunzione e la gestione dei rischi ceduti da un'impresa di assicurazione, anche di uno Stato terzo o retrocessi da un'impresa di riassicurazione; 
+ 2) la copertura fornita da un'impresa di riassicurazione ad un fondo pensione istituito in uno Stato membro dell'Unione europea, autorizzato dall'Autorita' competente dello Stato membro di origine e che rientri nell'ambito di applicazione della direttiva (UE) 2016/2341; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivita' in regime di liberta' di prestazione di servizi o rischio assunto in regime di liberta' di prestazione di servizi: l'attivita' che un'impresa esercita da uno stabilimento situato nel territorio di uno Stato membro assumendo obbligazioni con contraenti aventi il domicilio, ovvero, se persone giuridiche , la sede in un altro Stato membro o il rischio che un'impresa assume da uno stabilimento situato nel territorio di uno Stato membro diverso da quello in cui e' ubicato il rischio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' in regime di stabilimento o rischio assunto in regime di stabilimento: l'attivita' che un'impresa esercita da uno stabilimento situato nel territorio di uno Stato membro assumendo obbligazioni con contraenti aventi il domicilio, ovvero, se persone giuridiche, la sede nello stesso Stato o il rischio che un'impresa assume da uno stabilimento situato nel territorio dello Stato membro in cui e' ubicato il rischio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    autorita' di vigilanza: l'autorita' nazionale incaricata della vigilanza sulle imprese e sugli intermediari e gli altri operatori del settore assicurativo; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
+ 1) "AEAP o EIOPA": Autorita' europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 2) "ABE o EBA": Autorita' bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 3) "AESFEM o ESMA": Autorita' europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
+ 4) "Comitato congiunto": il Comitato congiunto delle Autorita' europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
+ 5) "CERS": Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
+ 6) "Autorita' di vigilanza degli Stati membri": le autorita' competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    autorita' di vigilanza sul gruppo: l'autorita' di vigilanza di gruppo determinata ai sensi dell'articolo 207-sexies; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    carta verde: certificato internazionale di assicurazione emesso da un ufficio nazionale secondo la raccomandazione n. 5 adottata il 25 gennaio 1949 dal sottocomitato dei trasporti stradali del comitato dei trasporti interni della Commissione economica per l'Europa dell'Organizzazione delle Nazioni Unite; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        codice della strada: il decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        codice in materia di protezione dei dati personali: il decreto legislativo 30 giugno 2003, n. 196; 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    collegio delle autorita' di vigilanza: una struttura permanente ma flessibile per la cooperazione, il coordinamento e l'agevolazione del processo decisionale nell'ambito della vigilanza del gruppo; 
+ l-bis.1) compenso: qualsiasi commissione, onorario, spesa, o altro pagamento, inclusi altri benefici economici di qualsiasi tipo o qualunque altro vantaggio o incentivo finanziario o non finanziario, offerti o forniti in relazione ad attivita' di distribuzione assicurativa; (45) 
+
+                                
+                            
+                            
+                                l-ter)
+                                
+                                    concentrazione dei rischi: tutte le esposizioni al rischio che comportano perdite potenziali sufficientemente ampie da mettere a repentaglio la solvibilita' o la posizione finanziaria dell'impresa di assicurazione o di riassicurazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    CONSAP: la Concessionaria servizi assicurativi pubblici S.p.A.; 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    controparte centrale autorizzata: una controparte centrale che ha ottenuto un'autorizzazione conformemente all'articolo 14 del regolamento (UE) n. 648/2012 o che e' stata riconosciuta in base all'articolo 25 dello stesso Regolamento; 
+
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    consulenza: l'attivita' consistente nel fornire raccomandazioni personalizzate ad un cliente, su richiesta dello stesso o su iniziativa del distributore, in relazione ad uno o piu' contratti di assicurazione; (45) 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    credito di assicurazione: ogni importo dovuto da un'impresa di assicurazione ad assicurati, contraenti, beneficiari o altre parti lese aventi diritto ad agire direttamente contro l'impresa di assicurazione e derivante da un contratto di assicurazione o da operazioni di cui all'articolo 2, commi 1 e 3, nell'ambito di attivita' di assicurazione diretta, compresi gli importi detenuti in riserva per la copertura a favore dei medesimi aventi diritto allorquando alcuni elementi del debito non sono ancora conosciuti.
+Sono parimenti considerati crediti di assicurazione i premi detenuti da un'impresa di assicurazione, prima dell'avvio delle procedure di liquidazione dell'impresa stessa, in seguito alla mancata stipulazione o alla risoluzione dei medesimi contratti ed operazioni, in virtu' della legge applicabile a tali contratti e operazioni; 
+ n. 1) distributore di prodotti assicurativi: qualsiasi intermediario assicurativo, intermediario assicurativo a titolo accessorio o impresa di assicurazione; (45) 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    distribuzione di probabilita' prevista: funzione matematica che assegna ad un elenco esaustivo di eventi futuri mutualmente esclusivi una probabilita' di realizzazione; 
+
+                                
+                            
+                            
+                                n-ter)
+                                
+                                    «ECAI» o «agenzia esterna di valutazione del merito di credito»: un'agenzia di rating creditizio registrata o certificata in conformita' del regolamento (CE) n. 1060/2009 del Parlamento europeo o del Consiglio o una banca centrale che emette rating creditizi esenti dall'applicazione di tale regolamento; 
+
+                                
+                            
+                            
+                                n-quater)
+                                
+                                    effetti di diversificazione: la riduzione dell'esposizione al rischio dell'impresa di assicurazione o di riassicurazione o del gruppo dovuta alla diversificazione della loro attivita', derivante dal fatto che il risultato sfavorevole di un rischio puo' essere compensato dal risultato piu' favorevole di un altro, quando tali rischi non siano pienamente correlati; 
+
+                                
+                            
+                            
+                                n-quinquies)
+                                
+                                    esternalizzazione: l'accordo concluso tra un'impresa di assicurazione o di riassicurazione e un fornitore di servizi, anche se non autorizzato all'esercizio dell'attivita' assicurativa o riassicurativa, in base al quale il fornitore di servizi esegue una procedura, un servizio o un'attivita', direttamente o tramite sub esternalizzazione, che sarebbero altrimenti realizzati dall'impresa di assicurazione o di riassicurazione stessa; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    fondo di garanzia: un organismo creato da uno Stato membro che ha almeno il compito di rimborsare, entro i limiti dell'obbligo di assicurazione, i danni alle cose o alle persone causati da un veicolo non identificato o per il quale non vi e' stato adempimento dell'obbligo di assicurazione; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    Fondo di garanzia delle vittime della caccia: il fondo costituito presso la CONSAP e previsto dall'articolo 303; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    Fondo di garanzia delle vittime della strada: il fondo costituito presso la CONSAP e previsto dall'articolo 285; 
+
+                                
+                            
+                            
+                                q-bis)
+                                
+                                    funzione: in un sistema di governo societario, la capacita' interna all'impresa di assicurazione o di riassicurazione di svolgere compiti concreti; un sistema di governo societario comprende la funzione di gestione del rischio, la funzione di verifica della conformita', la revisione interna e la funzione attuariale; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    grandi rischi: si intendono per grandi rischi quelli rientranti nei rami di cui all'articolo 2, comma 3, qui di seguito indicati: 
+ 1) 4 (corpi di veicoli ferroviari), 5 (corpi di veicoli aerei), 6 (corpi di veicoli marittimi, lacustri e fluviali), 7 (merci trasportate), 11 (r.c. aeromobili) e 12 (r.c. veicoli marittimi, lacustri e fluviali) salvo quanto previsto al numero 3); 
+ 2) 14 (credito) e 15 (cauzione), qualora l'assicurato eserciti professionalmente un'attivita' industriale, commerciale o intellettuale e il rischio riguardi questa attivita'; 
+ 3) 3 (corpi di veicoli terrestri, esclusi quelli ferroviari), 8 (incendio ed elementi naturali), 9 (altri danni ai beni), 10 (r.c. autoveicoli terrestri), 12 (r.c. veicoli marittimi, lacustri e fluviali) per quanto riguarda i natanti soggetti all'assicurazione obbligatoria ai sensi dell'articolo 123, 13 (r.c. generale) e 16 (perdite pecuniarie), purche' l'assicurato superi i limiti di almeno due dei tre criteri seguenti: 1) il totale dell'attivo dello stato patrimoniale risulti superiore ai seimilionieduecentomila euro; 2) l'importo del volume d'affari risulti superiore ai dodicimilionieottocentomila euro; 3) il numero dei dipendenti occupati in media durante l'esercizio risulti superiore alle duecentocinquanta unita'. Qualora l'assicurato sia un'impresa facente parte di un gruppo tenuto a redigere un bilancio consolidato, le condizioni di cui sopra si riferiscono al bilancio consolidato del gruppo; 
+
+                                
+                            
+                            
+                                r-bis)
+                                
+                                    gruppo: un gruppo 
+ 1) composto da una societa' partecipante o controllante, dalle sue societa' controllate o da altre entita' in cui la societa' partecipante o controllante o le sue societa' controllate detengono una partecipazione, nonche' da societa' legate da direzione unitaria ai sensi dell'articolo 96; ovvero 
+ 2) basato sull'instaurazione, contrattuale o di altro tipo, di rapporti finanziari solidi e sostenibili tra tali imprese che puo' includere anche mutue assicuratrici o altre societa' di tipo mutualistico, a condizione che: 
+ 2.1) una delle imprese eserciti effettivamente, tramite un coordinamento centralizzato, un'influenza dominante sulle decisioni, incluse le decisioni finanziarie, di tutte le imprese che fanno parte del gruppo; e 
+ 2.2) la costituzione e lo scioglimento di tali relazioni ai fini del titolo XV siano soggetti all'approvazione preventiva dell'autorita' di vigilanza del gruppo; laddove l'impresa che esegue il coordinamento centralizzato e' considerata l'impresa controllante o partecipante e le altre imprese sono considerate le imprese controllate o partecipate; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    impresa: la societa' di assicurazione o di riassicurazione autorizzata; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    impresa di assicurazione: la societa' autorizzata secondo quanto previsto nelle direttive comunitarie sull'assicurazione diretta; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    impresa di assicurazione autorizzata in Italia ovvero impresa di assicurazione italiana: la societa' avente sede legale in Italia e la sede secondaria in Italia di impresa di assicurazione avente sede legale in uno Stato terzo, autorizzata all'esercizio delle assicurazioni o delle operazioni di cui all'articolo 2; 
+
+                                
+                            
+                            
+                                u-bis)
+                                
+                                    impresa di assicurazione captive: un'impresa di assicurazione controllata da un'impresa finanziaria, diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o di riassicurazione a cui si applica la direttiva 2009/138/CE oppure controllata da un'impresa non finanziaria, il cui scopo e' fornire copertura assicurativa esclusivamente per i rischi dell'impresa o delle imprese che la controllano o di una o piu' imprese del gruppo di cui fa parte l'impresa di assicurazione captive; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    impresa di assicurazione comunitaria: la societa' avente sede legale e amministrazione - centrale in uno Stato membro dell'Unione europea diverso dall'Italia o in uno Stato aderente allo Spazio economico europeo, autorizzata secondo quanto previsto nelle direttive comunitarie sull'assicurazione diretta; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    impresa di assicurazione extracomunitaria: la societa' di assicurazione avente sede legale e amministrazione centrale in uno Stato non appartenente all'Unione europea o non aderente allo Spazio economico europeo, autorizzata per l'esercizio delle assicurazioni o delle operazioni di cui all'articolo 2; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    impresa di partecipazione assicurativa: una societa' controllante il cui unico o principale oggetto consiste nell'assunzione di partecipazioni di controllo, nonche' nella gestione e valorizzazione di tali partecipazioni, se le imprese controllate sono esclusivamente o principalmente imprese di assicurazione, imprese di riassicurazione, imprese di assicurazione o di riassicurazione extracomunitarie, sempre che almeno una di esse sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica e che non sia una impresa di partecipazione finanziaria mista ai sensi dell'articolo 1, comma 1, lettera bb-bis); 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    impresa di partecipazione assicurativa mista ai sensi dell'articolo 1, comma 1, lettera bb-bis): una societa' controllante diversa da un'impresa di assicurazione, da un'impresa di assicurazione extracomunitaria, da un'impresa di riassicurazione, da un'impresa di riassicurazione extracomunitaria, da un'impresa di partecipazione assicurativa o da una impresa di partecipazione finanziaria mista ai sensi dell'articolo 1, comma 1, lettera bb-bis), sempreche' almeno una delle sue imprese controllate sia un'impresa di assicurazione o un'impresa di riassicurazione avente sede legale nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                bb-bis)
+                                
+                                    impresa di partecipazione finanziaria mista: un'impresa di cui all'articolo 1, comma 1, lettera v), del decreto legislativo 30 maggio 2005, n. 142; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    impresa di riassicurazione: la societa' autorizzata all'esercizio della sola riassicurazione, diversa da una impresa di assicurazione o da una impresa di assicurazione extracomunitaria, la cui attivita' principale consiste nell'accettare rischi ceduti da una impresa di assicurazione, da una impresa di assicurazione avente sede legale in uno Stato terzo, o da altre imprese di riassicurazione; 
+
+                                
+                            
+                            
+                                cc-bis)
+                                
+                                    impresa di riassicurazione captive: un'impresa di riassicurazione controllata da un'impresa finanziaria diversa da un'impresa di assicurazione o di riassicurazione o da un gruppo di imprese di assicurazione o riassicurazione a cui si applica la direttiva 2009/138/CE oppure controllata da un'impresa non finanziaria il cui scopo e' di fornire copertura riassicurativa esclusivamente per i rischi dell'impresa o delle imprese che la controllano o di una o piu' imprese del gruppo di cui fa parte l'impresa di riassicurazione captive; 
+
+                                
+                            
+                            
+                                cc-ter)
+                                
+                                    impresa di riassicurazione extracomunitaria: la societa' avente sede legale e amministrazione centrale in uno Stato non appartenente all'Unione europea o non aderente allo Spazio economico europeo, autorizzata per l'esercizio dell'attivita' riassicurativa; 
+
+                                
+                            
+                            
+                                cc-quater)
+                                
+                                    impresa finanziaria: un'impresa costituita da uno dei seguenti soggetti: 
+ 1) un ente creditizio, un ente finanziario o una societa' strumentale di cui all'articolo 4, n. 18), del regolamento (UE) 575/2013; 
+ 2) un'impresa di assicurazione, un'impresa di riassicurazione o un'impresa di partecipazione assicurativa ai sensi dell'articolo 1, comma 1, lettere t), aa) e cc); 
+ 3) un'impresa di investimento ai sensi dell'articolo 4, n. 2), del regolamento del Parlamento europeo e del Consiglio n. 575 del 26 giugno 2013; 
+ 4) un'impresa di partecipazione finanziaria mista ai sensi dell'articolo 1, comma 1, lettera bb-bis); 
+
+                                
+                            
+                            
+                                cc-quinquies)
+                                
+                                    intermediario assicurativo: qualsiasi persona fisica o giuridica, diversa da un'impresa di assicurazione o riassicurazione o da un dipendente della stessa e diversa da un intermediario assicurativo a titolo accessorio, che avvii o svolga a titolo oneroso l'attivita' di distribuzione assicurativa; (45) 
+
+                                
+                            
+                            
+                                cc-sexies)
+                                
+                                    intermediario riassicurativo: qualsiasi persona fisica o giuridica, diversa da un'impresa di assicurazione o di riassicurazione o da un dipendente di essa, che avvii o svolga a titolo oneroso l'attivita' di distribuzione riassicurativa; (45) 
+
+                                
+                            
+                            
+                                cc-septies)
+                                
+                                    intermediario assicurativo a titolo accessorio: qualsiasi persona fisica o giuridica, diversa da uno dei soggetti di cui alla lettera d), comma 2, dell'articolo 109, che avvii o svolga a titolo oneroso l'attivita' di distribuzione assicurativa a titolo accessorio, nel rispetto delle seguenti condizioni: 
+ 1) l'attivita' professionale principale di tale persona fisica o giuridica e' diversa dalla distribuzione assicurativa; 
+ 2) la persona fisica o giuridica distribuisce soltanto determinati prodotti assicurativi, complementari rispetto ad un bene o servizio; 
+ 3) i prodotti assicurativi in questione non coprono il ramo vita o la responsabilita' civile, a meno che tale copertura non integri il bene o il servizio che l'intermediario fornisce nell'ambito della sua attivita' professionale principale; (45) 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    ISVAP o IVASS: l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo a cui e' succeduto l'IVASS, Istituto per la vigilanza sulle assicurazioni, ai sensi dell'articolo 13 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012 n. 135; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    
+                                        legge fallimentare: il regio decreto 16 marzo 1942, n. 267, e successive modificazioni; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    localizzazione: la presenza di attivita' mobiliari ed immobiliari all'interno del territorio di un determinato Stato. I crediti sono considerati come localizzati nello Stato nel quale gli stessi sono esigibili; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2015, N. 74; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 12 MAGGIO 2015, N. 74; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    mercato regolamentato: un mercato finanziario autorizzato o riconosciuto ai sensi della parte III, titolo I, del testo unico dell'intermediazione finanziaria, nonche' i mercati di Stati appartenenti all'OCSE che sono istituiti, organizzati e disciplinati da disposizioni adottate o approvate dalle competenti autorita' nazionali e che soddisfano requisiti analoghi a quelli dei mercati regolamentati di cui al testo unico dell'intermediazione finanziaria; 
+
+                                
+                            
+                            
+                                ii-bis)
+                                
+                                    misura del rischio: la funzione matematica che assegna un importo monetario ad una data distribuzione di probabilita' prevista e cresce monotonicamente con il livello di esposizione al rischio sottostante a tale distribuzione; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    natante: qualsiasi unita' che e' destinata alla navigazione marittima, fluviale o lacustre e che e' azionata da propulsione meccanica; 
+
+                                
+                            
+                            
+                                ll-bis)
+                                
+                                    operazione infragruppo: un'operazione in cui un'impresa di assicurazione o di riassicurazione si affida, direttamente o indirettamente, ad un'altra impresa nell'ambito dello stesso gruppo o ad una persona fisica o giuridica strettamente legata alle imprese nell'ambito di tale gruppo per ottemperare ad un obbligo, contrattuale o meno, e a fini o meno di pagamento; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    Organismo di indennizzo italiano: l'organismo istituito presso la CONSAP e previsto dall'articolo 296; 
+
+                                
+                            
+                            
+                                mm-bis)
+                                
+                                    partecipazione: la detenzione, diretta o tramite un rapporto di controllo, del 20 per cento o piu' dei diritti di voto o del capitale di una societa', anche per il tramite di societa' controllate, fiduciarie o per interposta persona o comunque di una percentuale che consente l'esercizio di una influenza notevole sulla gestione di tale societa'; 
+
+                                
+                            
+                            
+                                mm-ter)
+                                
+                                    partecipazione qualificata: la detenzione, diretta o indiretta, di almeno il 10 per cento dei diritti di voto o del capitale di un'impresa di assicurazione o di riassicurazione o comunque la partecipazione che consente l'esercizio di un'influenza notevole sulla gestione di tale impresa; 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    partecipazioni: le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque i diritti previsti dall'articolo 2351, ultimo comma, del codice civile; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 27 GENNAIO 2010, N. 21; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    portafoglio del lavoro diretto italiano: tutti i contratti stipulati da imprese di assicurazione italiane, ad eccezione di quelli stipulati da loro sedi secondarie situate in Stati terzi; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    portafoglio del lavoro indiretto italiano: i contratti, ovunque stipulati, da imprese italiane o da stabilimenti in Italia di imprese aventi la sede legale in altro Stato, se l'impresa cedente e' essa stessa impresa italiana o stabilimento in Italia di imprese aventi la sede legale in altro Stato. Si considerano facenti parte del portafoglio estero i contratti, ovunque stipulati, nel caso in cui l'impresa cedente sia un'impresa avente la sede legale in altro Stato. PERIODO SOPPRESSO D.LGS. 29 FEBBRAIO 2008, N. 56. 
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    principi contabili internazionali: i principi contabili internazionali e le relative interpretazioni adottati secondo la procedura di cui all'articolo 6 del regolamento (CE) n. 1606/2002, del Parlamento europeo e del Consiglio, del 19 luglio 2002; 
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    prodotti assicurativi: tutti i contratti emessi da imprese di assicurazione nell'esercizio delle attivita' rientranti nei rami vita o nei rami danni come definiti all'articolo 2; 
+
+                                
+                            
+                            
+                                ss-bis)
+                                
+                                    prodotto di investimento assicurativo: un prodotto ai sensi dell'articolo 4, paragrafo 1, numero 2), del regolamento (UE) n. 1286/2014. Tale definizione non include: 
+ 1) i prodotti assicurativi non vita elencati all'allegato I della direttiva 2009/138/CE (Rami dell'assicurazione non vita); 
+ 2) i contratti assicurativi vita, qualora le prestazioni previste dal contratto siano dovute soltanto in caso di decesso o per incapacita' dovuta a lesione, malattia o disabilita'; 
+ 3) i prodotti pensionistici che, ai sensi del diritto nazionale, sono riconosciuti come aventi lo scopo precipuo di offrire all'investitore un reddito durante la pensione e che consentono all'investitore di godere di determinati vantaggi; 
+ 4) i regimi pensionistici aziendali o professionali ufficialmente riconosciuti che rientrano nell'ambito di applicazione della direttiva 2003/41/CE o della direttiva 2009/138/CE; 
+ 5) i singoli prodotti pensionistici per i quali il diritto nazionale richiede un contributo finanziario del datore di lavoro e nei quali il lavoratore o il datore di lavoro non puo' scegliere il fornitore o il prodotto pensionistico; (45) 
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    ramo di assicurazione: la classificazione secondo un insieme omogeneo di rischi od operazioni che descrive l'attivita' che l'impresa puo' esercitare al rilascio dell'autorizzazione; 
+
+                                
+                            
+                            
+                                uu)
+                                
+                                    retrocessione: cessione dei rischi assunti in riassicurazione; 
+
+                                
+                            
+                            
+                                vv)
+                                
+                                    sede secondaria o succursale: una sede che costituisce parte, sprovvista di personalita' giuridica, di un'impresa di assicurazione o di riassicurazione e che effettua direttamente, in tutto o in parte, l'attivita' assicurativa o riassicurativa; con riferimento all'intermediazione, per succursale si intende una agenzia o una succursale situata in uno Stato membro diverso dallo Stato membro di origine, inclusa l'organizzazione di un semplice ufficio gestito da personale dipendente dell'intermediario ovvero da una persona indipendente, ma incaricata ad agire in modo permanente per conto dell'intermediario stesso; (45) 
+
+                                
+                            
+                            
+                                vv-bis)
+                                
+                                    riassicurazione finite: una riassicurazione in base alla quale la potenziale perdita massima esplicita, espressa in termini di rischio economico massimo trasferito, risultante da un significativo trasferimento sia del rischio di sottoscrizione che del rischio di timing, eccede, per un importo limitato ma significativo, il premio per l'intera durata del contratto, unitamente ad almeno una delle seguenti caratteristiche: 
+ 1) considerazione esplicita e materiale del valore del denaro in rapporto al tempo; 
+ 2) disposizioni contrattuali intese a limitare il risultato economico del contratto tra le parti nel tempo, al fine di raggiungere il trasferimento del rischio previsto; 
+ vv-bis.1) rischio di credito: il rischio di perdita o di variazione sfavorevole della situazione finanziaria derivante da oscillazioni del merito di credito di emittenti di titoli, controparti e debitori nei confronti dei quali l'impresa di assicurazione o di riassicurazione e' esposta in forma di rischio di inadempimento della controparte, di rischio di spread o di concentrazione del rischio di mercato; 
+ vv-bis.2) rischio di liquidita': il rischio che l'impresa di assicurazione o di riassicurazione non sia in grado di liquidare investimenti ed altre attivita' per regolare i propri impegni finanziari al momento della relativa scadenza; 
+ vv-bis.3) rischio di mercato: il rischio di perdita o di variazione sfavorevole della situazione finanziaria derivante, direttamente o indirettamente, da oscillazioni del livello e della volatilita' dei prezzi di mercato delle attivita', delle passivita' e degli strumenti finanziari; 
+ vv-bis.4) rischio di sottoscrizione: il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative dovuto ad ipotesi inadeguate in materia di fissazione di prezzi e di costituzione delle riserve tecniche; 
+ vv-bis.5) rischio operativo: il rischio di perdite derivanti dall'inadeguatezza o dalla disfunzione di procedure interne, risorse umane o sistemi oppure da eventi esogeni; 
+ vv-bis.6) sistemi di garanzia: sistemi per lo svolgimento, in Italia o all'estero, delle funzioni di salvaguardia della stabilita' finanziaria delle imprese, in particolare per la gestione e la risoluzione di situazioni di crisi; 
+ vv-bis.7) societa' controllante: una societa' che esercita il controllo ai sensi dell'articolo 72, anche per il tramite di societa' controllate, fiduciarie o per interposta persona; 
+ vv-bis.8) societa' controllata: una societa' sulla quale e' esercitato il controllo ai sensi dell'articolo 72, anche per il tramite di societa' controllate, fiduciarie o per interposta persona; 
+ vv-bis.9) societa' partecipante: la societa' che detiene una partecipazione; 
+ vv-bis.10) societa' partecipata: la societa' in cui e' detenuta una partecipazione; 
+
+                                
+                            
+                            
+                                vv-ter)
+                                
+                                    societa' veicolo: qualsiasi impresa, con o senza personalita' giuridica, diversa da un'impresa di assicurazione o di riassicurazione, che assume i rischi ceduti da imprese di assicurazione o riassicurazione e che finanzia integralmente la sua esposizione a tali rischi mediante l'emissione di titoli o altri strumenti finanziari per i quali i diritti di rimborso dei detentori sono subordinati agli obblighi di riassicurazione della societa' veicolo; 
+
+                                
+                            
+                            
+                                vv-quater)
+                                
+                                    supporto durevole: qualsiasi strumento che: 
+ 1) permetta al contraente di memorizzare informazioni a lui personalmente dirette, in modo che siano accessibili per la futura consultazione durante un periodo di tempo adeguato ai fini cui sono destinate le informazioni stesse; e 
+ 2) consenta la riproduzione inalterata delle informazioni memorizzate; (45) 
+
+                                
+                            
+                            
+                                zz)
+                                
+                                    stabilimento: la sede legale od una sede secondaria di un'impresa di assicurazione o di riassicurazione; 
+
+                                
+                            
+                            
+                                aaa)
+                                
+                                    Stato aderente allo Spazio economico europeo; uno Stato aderente all'accordo di estensione della normativa dell'Unione europea in materia, fra l'altro, di circolazione delle merci, dei servizi e dei capitali agli Stati appartenenti all'Associazione europea di libero scambio firmato ad Oporto il 2 maggio 1992 e ratificato con legge 28 luglio 1993, n. 300; 
+
+                                
+                            
+                            
+                                bbb)
+                                
+                                    Stato membro: uno Stato membro dell'Unione europea o uno Stato aderente allo Spazio economico europeo, come tale equiparato allo Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                ccc)
+                                
+                                    Stato membro dell'obbligazione: lo Stato di cui alla lettera bbb) nel quale il contraente ha il domicilio, ovvero, se il contraente e' una persona giuridica, lo Stato di cui alla lettera bbb) sede della stessa cui si riferisce il contratto; 
+
+                                
+                            
+                            
+                                ddd)
+                                
+                                    Stato membro di prestazione di servizi: lo Stato di cui alla lettera bbb) dell'obbligazione o in cui e' ubicato il rischio, quando l'obbligazione o il rischio e' assunto da uno stabilimento situato in un altro Stato di cui alla lettera bbb); 
+
+                                
+                            
+                            
+                                eee)
+                                
+                                    Stato membro di stabilimento: lo Stato di cui alla lettera bbb) in cui e' situato lo stabilimento dal quale l'impresa opera; 
+
+                                
+                            
+                            
+                                fff)
+                                
+                                    Stato membro di ubicazione del rischio: 
+ 1) lo Stato di cui alla lettera bbb) in cui si trovano i beni, quando l'assicurazione riguardi beni immobili, ovvero beni immobili e beni mobili in essi contenuti, sempre che entrambi siano coperti dallo stesso contratto di assicurazione; 
+ 2) lo Stato di cui alla lettera bbb) di immatricolazione, quando l'assicurazione riguardi veicoli di ogni tipo soggetti ad immatricolazione sia che si tratti di un veicolo con targa definitiva o targa temporanea; 
+ 3) lo Stato di cui alla lettera bbb) in cui l'assicurato ha sottoscritto il contratto, quando abbia durata inferiore o pari a quattro mesi e sia relativo a rischi inerenti ad un viaggio o ad una vacanza; 
+ 4) lo Stato di cui alla lettera bbb) in cui l'assicurato ha il domicilio, ovvero, se l'assicurato e' una persona giuridica, lo Stato della sede della stessa alla quale si riferisce il contratto, in tutti i casi non esplicitamente previsti dai numeri da 1 a 3; 
+ ((4-bis) nel caso in cui un veicolo e' spedito da uno Stato membro ad un altro, a seconda della scelta della persona responsabile della copertura della responsabilita' civile, lo Stato membro di immatricolazione o, a decorrere dall'accettazione della consegna da parte dell'acquirente, lo Stato membro di destinazione, per un periodo di trenta giorni, anche se il veicolo non e' stato formalmente immatricolato nello Stato membro di destinazione;))
+                                        ((70)) 
+ 4-ter) lo Stato di cui alla lettera bbb) in cui si e' verificato il sinistro qualora il veicolo sia privo di targa o rechi una targa che non corrisponde piu' allo stesso veicolo. 
+
+                                
+                            
+                            
+                                ggg)
+                                
+                                    Stato membro d'origine: lo Stato membro dell'Unione europea o lo Stato aderente allo Spazio economico europeo in cui e' situata la sede legale dell'impresa di assicurazione che assume l'obbligazione o il rischio o dell'impresa di riassicurazione; con riferimento all'intermediazione, se l'intermediario e' una persona fisica, per Stato membro di origine, si intende lo Stato di residenza dell'intermediario; se e' una persona giuridica, si intende lo Stato membro in cui e' situata la sede legale, o se assente, la sede principale, da intendersi come il luogo a partire dal quale e' gestita l'attivita' principale; (45) 
+
+                                
+                            
+                            
+                                ggg-bis)
+                                
+                                    Stato membro ospitante: lo Stato membro diverso dallo Stato membro di origine in cui un'impresa di assicurazione o di riassicurazione ha una sede secondaria o presta servizi; con riferimento all'intermediazione si intende lo Stato membro, diverso dallo Stato membro d'origine, in cui l'intermediario ha una presenza permanente o una stabile organizzazione o in cui presta servizi; (45) 
+
+                                
+                            
+                            
+                                hhh)
+                                
+                                    Stato terzo: uno Stato che non e' membro dell'Unione europea o non e' aderente allo Spazio economico europeo; 
+
+                                
+                            
+                            
+                                iii)
+                                
+                                    stretti legami: il rapporto fra due o piu' persone fisiche o giuridiche nei casi in cui sussiste: 
+ 1) un legame di controllo ai sensi dell'articolo 72; 
+ 2) una partecipazione, detenuta direttamente o per il tramite di societa' controllate, societa' fiduciarie o per interposta persona, almeno pari al dieci per cento del capitale o dei diritti di voto, ovvero una partecipazione che, pur restando al di sotto del limite sopra indicato, da' comunque la possibilita' di esercitare un'influenza notevole ancorche' non dominante; 
+ 3) un legame in base al quale le stesse persone sono sottoposte al controllo del medesimo soggetto, o comunque sono sottoposte a direzione unitaria in virtu' di un contratto o di una clausola statutaria, oppure quando gli organi di amministrazione sono composti in maggioranza dalle medesime persone, oppure quando esistono legami importanti e durevoli di riassicurazione; 
+ 4) un rapporto di carattere tecnico, organizzativo, finanziario, giuridico e familiare che possa influire in misura rilevante sulla gestione dell'impresa. L' IVASS, con regolamento, puo' ulteriormente qualificare la definizione di stretti legami, al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza; 
+ iii.1) vendita a distanza: qualunque modalita' di vendita che, senza la presenza fisica e simultanea del distributore e del contraente, possa essere impiegata per il collocamento a distanza di contratti assicurativi e riassicurativi; (45) 
+
+                                
+                            
+                            
+                                iii-bis)
+                                
+                                    tecniche di mitigazione del rischio: le tecniche che consentono all'impresa di assicurazione o di riassicurazione di trasferire una parte o la totalita' dei rischi ad un terzo; 
+
+                                
+                            
+                            
+                                lll)
+                                
+                                    testo unico bancario: il decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni; 
+
+                                
+                            
+                            
+                                mmm)
+                                
+                                    testo unico dell'intermediazione finanziaria: il decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni; 
+
+                                
+                            
+                            
+                                nnn)
+                                
+                                    testo unico in materia di assicurazioni sugli infortuni sul lavoro e le malattie professionali: il decreto legislativo 23 febbraio 2000, n. 38, e successive modificazioni; 
+
+                                
+                            
+                            
+                                ooo)
+                                
+                                    Ufficio centrale italiano: l'ente costituito dalle imprese di assicurazione autorizzate ad esercitare il ramo responsabilita' civile autoveicoli che e' stato abilitato all'esercizio delle funzioni di Ufficio nazionale di assicurazione nel territorio della Repubblica ed allo svolgimento degli altri compiti previsti dall'ordinamento comunitario e italiano; 
+ ppp)Ufficio nazionale di assicurazione: l'organizzazione professionale che e' costituita, conformemente alla raccomandazione n. 5 adottata il 25 gennaio 1949 dal sottocomitato dei trasporti stradali del comitato dei trasporti interni della Commissione economica per l'Europa dell'Organizzazione delle Nazioni Unite, e che raggruppa imprese di assicurazione che hanno ottenuto in uno Stato l'autorizzazione ad esercitare il ramo responsabilita' civile autoveicoli; 
+ qqq) unita' da diporto: il natante definito all'articolo 1, comma 3, del decreto legislativo 18 luglio 2005, n. 171, recante il codice della nautica da diporto; 
+ ((rrr) veicolo: 
+ 1) qualsiasi veicolo a motore azionato esclusivamente da una forza meccanica che circola sul suolo ma non su rotaia, con: 
+ 1.1) una velocita' di progetto massima superiore a 25 km/h; o  1.2) un peso netto massimo superiore a 25 kg e una velocita' di progetto massima superiore a 14 km/h; 
+ 2) qualsiasi rimorchio destinato ad essere utilizzato con un veicolo di cui al numero 1), a prescindere che sia ad esso agganciato o meno; 
+ 3) i veicoli elettrici leggeri individuati con apposito decreto del Ministro delle imprese e del made in Italy e del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, da adottarsi entro il termine di novanta giorni dalla data di entrata in vigore della presente disposizione.))
+                                        ((70))
+
+((1-bis. Fatti salvi i numeri 1) e 2) della lettera rrr) del comma 1, le sedie a rotelle destinate esclusivamente ad essere utilizzate da persone con disabilita' fisiche non sono considerate veicoli ai sensi del presente codice.))
 
 ((70))
 
@@ -89,6 +755,42 @@ Cauzione: cauzione diretta; cauzione indiretta;
 Perdite pecuniarie di vario genere: rischi relativi all'occupazione; insufficienza di entrate (generale); intemperie; perdite di utili; persistenza di spese generali; spese commerciali impreviste; perdita di valore venale; perdita di fitti o di redditi; perdite commerciali indirette diverse da quelle menzionate precedentemente; perdite pecuniarie non commerciali; altre perdite pecuniarie;
 
 Tutela legale: tutela legale;
+
+18.
+                        
+                            
+                                Assistenza: assistenza alle persone in situazione di difficolta'. 
+ 4. Nei rami danni l'autorizzazione rilasciata cumulativamente per piu' rami e' cosi' denominata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i rami di cui ai numeri 1 e 2, "Infortuni e malattia"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i rami di cui ai numeri 1, persone trasportate, 3, 7 e 10, "Assicurazioni auto"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i rami di cui ai numeri 1, persone trasportate, 4, 6, 7 e 12, "Assicurazioni marittime e trasporti; 
+ d) per i rami di cui al numero 1, rischio persone trasportate, 5, 7 e 11, "Assicurazioni aeronautiche"; 
+ e) per i rami di cui ai numeri 8 e 9, "Incendio ed altri danni ai beni"; 
+ f) per i rami di cui ai numeri 10, 11, 12 e 13, "Responsabilita' civile"; 
+ g) per i rami di cui ai numeri 14 e 15, "Credito e cauzione"; 
+ h) per tutti i rami, "Tutti i rami danni". 
+ 5. Nei rami danni l'impresa che ha ottenuto l'autorizzazione per un rischio principale, appartenente ad un ramo o ad un gruppo di rami, puo' garantire i rischi compresi in un altro ramo, senza necessita' di un'ulteriore autorizzazione quando i medesimi rischi: 
+ a) sono connessi con il rischio principale; 
+ b) riguardano l'oggetto coperto contro il rischio principale; 
+ c) sono garantiti dallo stesso contratto che copre il rischio principale. I rischi compresi nei rami 14, 15 e 17 di cui al comma 3 non possono essere considerati accessori di altri rami; tuttavia, fermo il rispetto delle condizioni di cui alle lettere a), b) e c), i rischi compresi nel ramo 17 possono essere considerati come rischi accessori del ramo 18 quando il rischio principale riguardi solo l'assistenza da fornire alle persone in difficolta' durante trasferimenti o assenze dal domicilio o dal luogo di residenza o quando riguardino controversie relative all'utilizzazione di navi o comunque connesse a tale utilizzazione. 
+ 6. L'((IVASS)) adotta, con regolamento, le istruzioni applicative sulla classificazione dei rischi all'interno dei rami nel rispetto del principio di equivalenza dell'autorizzazione nel territorio comunitario.
 
 ## - - Capo II Vigilanza sull'attivita' assicurativa e riassicurativa
 
@@ -148,6 +850,38 @@ L'IVASS, nell'ambito della propria autonomia, garantisce comunque il rispetto de
 
 ## Art. 6. — Destinatari della vigilanza
 
+1.
+                        
+                            
+                                L'((IVASS)) esercita le funzioni di vigilanza nei confronti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle imprese, comunque denominate e costituite, che esercitano nel territorio della Repubblica attivita' di assicurazione o di riassicurazione in qualsiasi ramo e in qualsiasi forma, ovvero operazioni di capitalizzazione e di gestione di fondi collettivi costituiti per l'erogazione di prestazioni in caso di morte, in caso di vita o in caso di cessazione o riduzione dell'attivita' lavorativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei gruppi assicurativi e dei conglomerati finanziari nei quali sono incluse imprese di assicurazione e di riassicurazione in conformita' alla specifica normativa ad essi applicabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei soggetti, enti e organizzazioni che in qualunque forma svolgono funzioni parzialmente comprese nel ciclo operativo delle imprese di assicurazione o di riassicurazione limitatamente ai profili assicurativi e riassicurativi ((,fermi restando i poteri nei confronti delle imprese di assicurazione o di riassicurazione per le attivita' esternalizzate;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    degli intermediari di assicurazione e di riassicurazione ((...)) e di ogni altro operatore del mercato assicurativo.
+
 ## Art. 7. — (( (Reclami) ))
 
 ((
@@ -177,6 +911,45 @@ Entro il 31 gennaio di ogni anno, tutti i regolamenti e i provvedimenti di carat
 ## Art. 9-bis. — (( (Trasparenza e responsabilita' dell'attivita' di vigilanza) ))
 
 ((
+
+1.
+                        
+                            
+                                L'IVASS svolge la propria attivita' in modo trasparente e responsabile. Nel perseguimento di tali principi, fatto salvo il rispetto della riservatezza, pubblica sul sito internet ed aggiorna periodicamente le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il testo delle disposizioni legislative, regolamentari e amministrative, delle raccomandazioni e degli orientamenti generali in materia assicurativa e riassicurativa, ed ogni altro provvedimento rilevante di carattere generale relativo ai soggetti sottoposti a vigilanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri generali e i metodi di vigilanza, inclusi gli strumenti utilizzati nell'ambito del processo di controllo prudenziale di cui all'articolo 47-quinquies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati statistici aggregati sugli aspetti principali relativi all'applicazione della regolamentazione prudenziale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di esercizio delle opzioni previste dalla direttiva n. 2009/138/CE; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli obiettivi della vigilanza e le principali funzioni e attivita' svolte dall'IVASS.
 
 Le informazioni di cui al comma 1 sono pubblicate in modo tale da consentire un raffronto dei metodi di vigilanza adottati dalle autorita' di vigilanza degli Stati membri, anche mediante l'utilizzo di un formato comune definito a livello comunitario.
 
@@ -219,11 +992,54 @@ L'((IVASS)) puo' scambiare informazioni con le autorita' amministrative o giudiz
 
 ((
 
+1.
+                        
+                            
+                                L'IVASS puo' utilizzare le informazioni coperte dal segreto d'ufficio, ai sensi dell'articolo 10, esclusivamente nell'esercizio delle funzioni di vigilanza e per le seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica della sussistenza delle condizioni di accesso e di esercizio all'attivita' assicurativa e riassicurativa, con particolare riguardo all'osservanza delle disposizioni relative alle riserve tecniche, al Requisito Patrimoniale di Solvibilita', al Requisito Patrimoniale Minimo e al sistema di governo societario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    irrogazione delle sanzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    difesa nell'ambito dei procedimenti giurisdizionali e dei ricorsi amministrativi avverso provvedimenti dell'IVASS.
+
 ))
 
 ## Art. 10-ter. — (( (Scambio di informazioni con altre Autorita' dell'Unione europea) ))
 
 ((
+
+1.
+                        
+                            
+                                L'IVASS, secondo le modalita' e alle condizioni previste dalle disposizioni dell'Unione europea collabora anche mediante scambio di informazioni con: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le banche centrali del Sistema europeo di banche centrali (SEBC), compresa la Banca centrale europea (BCE) e altri organismi con responsabilita' analoghe in quanto autorita' monetarie, quando queste informazioni siano attinenti all'esercizio dei rispettivi compiti statutari, ivi incluse la gestione della politica monetaria e la relativa concessione di liquidita', la sorveglianza dei sistemi di pagamento, di compensazione e di regolamento titoli e la tutela della stabilita' del sistema finanziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'occorrenza, altre autorita' pubbliche nazionali incaricate della vigilanza sui sistemi di pagamento.
 
 Nelle situazioni di emergenza, ivi incluse quelle di cui all'articolo 18 del regolamento (UE) n. 1094/2010, l'IVASS comunica immediatamente informazioni alle banche centrali del SEBC, inclusa la BCE, quando le informazioni siano attinenti all'esercizio dei rispettivi compiti statutari, ivi incluse la gestione della politica monetaria e la relativa concessione di liquidita', la sorveglianza dei sistemi di pagamento, di compensazione e di regolamento titoli e la tutela della stabilita' del sistema finanziario, e al CERS, quando le informazioni siano attinenti all'esercizio dei suoi compiti.
 
@@ -237,6 +1053,31 @@ Le informazioni ricevute dall'IVASS ai sensi dei commi 1 e 2 sono soggette alle 
 
 Le imprese di assicurazione o di riassicurazione ((e le ultime societa' controllanti di cui all'articolo 210, comma 2)), gli intermediari assicurativi e riassicurativi, inclusi gli intermediari assicurativi a titolo accessorio, adottano procedure specifiche per la segnalazione al proprio interno, da parte del personale, di atti o fatti che possano costituire violazioni delle norme disciplinanti ((l'attivita' assicurativa e distributiva svolta)).
 
+2.
+                        
+                            
+                                Le procedure previste al comma 1 sono idonee a garantire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la riservatezza dei dati personali del segnalante e del presunto responsabile della violazione, ferme restando le regole che disciplinano le indagini o i procedimenti avviati dall'autorita' amministrativa o giudiziaria in relazione ai fatti oggetto della segnalazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la protezione adeguata ((del personale)) dei soggetti di cui al comma 1 e, ove possibile, di altre persone che riferiscono di violazioni commesse all'interno degli stessi almeno contro ritorsioni, discriminazioni e altri tipi di trattamento iniquo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un canale specifico, indipendente ed autonomo per la segnalazione.
+
 Fuori dei casi di responsabilita' a titolo di calunnia o diffamazione, ovvero per lo stesso titolo ai sensi dell'articolo 2043 del codice civile, la presentazione di una segnalazione nell'ambito della procedura di cui al comma 1 non costituisce violazione degli obblighi derivanti dal rapporto di lavoro.
 
 La disposizione di cui all'articolo 7, comma 2, del decreto legislativo 30 giugno 2003, n. 196, non trova applicazione avuto riguardo all'eta' del segnalante, che puo' essere rivelata solo con il suo consenso quando la conoscenza sia indispensabile per la difesa del segnalato. Le imprese di assicurazione o di riassicurazione, gli intermediari assicurativi e riassicurativi, inclusi gli intermediari assicurativi a titolo accessorio osservano le disposizioni di attuazione del presente articolo emanate dall'IVASS. 
@@ -248,6 +1089,31 @@ La disposizione di cui all'articolo 7, comma 2, del decreto legislativo 30 giugn
  Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
 
 ## Art. 10-quinquies. — (Procedura di segnalazione di violazioni)
+
+1.
+                        
+                            
+                                L'IVASS: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riceve segnalazioni da parte ((del personale)) dei soggetti di cui all'articolo 10-quater, comma 1, riguardanti violazioni delle norme del presente codice, nonche' di disposizioni dell'Unione europea direttamente applicabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stabilisce condizioni, limiti e procedure per la ricezione delle segnalazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si avvale delle informazioni contenute nelle segnalazioni, ove rilevanti, esclusivamente nell'esercizio delle funzioni di vigilanza.
 
 Gli atti relativi alle segnalazioni di cui al comma 1 sono sottratti all'accesso previsto dagli articoli 22 e seguenti della legge 7 agosto 1990, n. 241, e successive modificazioni. 
  (45)
@@ -287,7 +1153,105 @@ L'autorizzazione e' valida per il territorio della Repubblica, per quello degli 
 
 ## Art. 14. — Requisiti e procedura
 
+1.
+                        
+                            
+                                L'((IVASS)) rilascia l'autorizzazione di cui all'articolo 13 quando ricorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adottata la forma di societa' per azioni, di societa' cooperativa o di societa' di mutua assicurazione le cui quote di partecipazione siano rappresentate da azioni, costituite ai sensi, rispettivamente, degli articoli 2325, 2511 e 2546 del codice civile, nonche' nella forma di societa' europea ai sensi del regolamento (CE) n. 2157/2001 relativo allo statuto della societa' europea ((e la forma di Societa' cooperativa europea (SCE) ai sensi del regolamento (CE) n. 1435/2003)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la direzione generale e amministrativa dell'impresa richiedente sia stabilita nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impresa detenga i fondi propri di base ammissibili necessari per coprire il minimo assoluto del Requisito Patrimoniale Minimo, di cui all'articolo 47-ter, comma 1, lettera d), pari ad un importo non inferiore a: 
+ 1) 2.500.000 euro per le imprese di assicurazione danni, comprese le imprese di assicurazione captive, salva l'ipotesi in cui sia coperta la totalita' o parte dei rischi compresi in uno dei rami da 10 a 15 elencati all'articolo 2, comma 3, nel qual caso l'importo e' elevato a 3.700.000 euro; 
+ 2) 3.700.000 euro per le imprese di assicurazione vita, comprese le imprese di assicurazione captive; 
+ 3) 6.200.000 euro, ovvero la somma degli importi di cui ai numeri 1) e 2), per le imprese che esercitano congiuntamente i rami vita e danni di cui all'articolo 13, comma 1.
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    l'impresa dimostri che sara' in grado di detenere i fondi propri ammissibili necessari per coprire in prospettiva il Requisito Patrimoniale di Solvibilita', di cui all'articolo 45-bis; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    l'impresa dimostri che sara' in grado di detenere i fondi propri di base ammissibili necessari per coprire in prospettiva il Requisito Patrimoniale Minimo di cui all'articolo 47-bis;
+                                
+                            
+                            
+                                d)
+                                
+                                    venga presentato, unitamente all'atto costitutivo e allo statuto, un programma di attivita' conforme alle indicazioni fornite all'articolo 14-bis, commi 1 e 2;
+                                
+                            
+                            
+                                e)
+                                
+                                    i titolari di partecipazioni ((qualificate)) siano in possesso dei requisiti di onorabilita' stabiliti dall'articolo 77 e sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 68; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    l'impresa dimostri che sara' in grado di conformarsi al sistema di governo societario di cui al Titolo III, Capo I;
+                                
+                            
+                            
+                                f)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo ((nonche' coloro che svolgono funzioni fondamentali all'interno dell'impresa)) siano in possesso dei requisiti di professionalita', onorabilita' ed indipendenza indicati dall'articolo 76; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    non sussistano, tra l'impresa o i soggetti del gruppo di appartenenza e altri soggetti, stretti legami che ostacolino l'effettivo esercizio delle funzioni di vigilanza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    siano indicati il nome e l'indirizzo del mandatario per la liquidazione dei sinistri da designare in ciascuno degli altri Stati membri, se i rischi da coprire sono classificati nei rami 10 e 12 dell'articolo 2, comma 3, esclusa la responsabilita' del vettore.
+
 ((
+
+1-bis.
+                        
+                            
+                                L'impresa di assicurazione che intende ottenere l'autorizzazione ad esercitare congiuntamente i rami vita e i rami infortuni e malattia di cui all'articolo 2, comma 3, e' tenuta a dimostrare, altresi', che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    possiede i fondi propri di base ammissibili necessari per coprire il minimo assoluto del Requisito Patrimoniale Minimo per le imprese di assicurazione vita e il minimo assoluto del Requisito Patrimoniale Minimo per le imprese di assicurazione danni secondo quanto stabilito dal comma 1, lettera c) del presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si impegna a coprire in prospettiva i Requisiti Patrimoniali Minimi Nozionali di cui all'articolo 348, comma 2-ter.
 
 ))
 
@@ -301,11 +1265,116 @@ L'((IVASS)) determina, con regolamento, la procedura di autorizzazione ((, inclu
 
 ((
 
+5-bis.
+                        
+                            
+                                L'IVASS comunica all'AEAP ogni autorizzazione rilasciata ai fini della pubblicazione nell'elenco dalla stessa tenuto, con l'indicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei rami e dei rischi per i quali l'impresa e' autorizzata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'eventuale abilitazione ad operare negli altri Stati membri in stabilimento o in libera prestazione di servizi.
+
 ))
 
 ## Art. 14-bis. — (Programma di attivita')
 
+1.
+                        
+                            
+                                Il programma di attivita' di cui all'articolo 14, comma 1, lettera d), contiene informazioni supportate da idonea documentazione riguardanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la natura dei rischi o delle obbligazioni che l'impresa si propone di garantire; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'impresa intende assumere rischi in riassicurazione, il tipo di accordi che intende concludere con le imprese cedenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i principi direttivi in materia di riassicurazione e di retrocessione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli elementi dei fondi propri di base che costituiscono il minimo assoluto del Requisito Patrimoniale Minimo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le previsioni circa le spese d'impianto dei servizi amministrativi e dell'organizzazione della rete di produzione, i mezzi finanziari destinati a farvi fronte e, se i rischi da coprire sono classificati nel ramo 18 dell'articolo 2, comma 3, i mezzi di cui l'impresa di assicurazione dispone per fornire l'assistenza promessa.
+
+2.
+                        
+                            
+                                Il programma contiene, oltre a quanto previsto al comma 1, per i primi tre esercizi sociali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le previsioni di bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le previsioni del futuro Requisito Patrimoniale di Solvibilita', di cui al Titolo III, Capo IV-bis, Sezione I, sulla base delle previsioni di bilancio di cui alla lettera a), nonche' il metodo di calcolo utilizzato per elaborare tali previsioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le previsioni del futuro Requisito Patrimoniale Minimo, di cui al Titolo III, Capo IV-bis, Sezione IV, sulla base delle probabili previsioni di bilancio di cui alla lettera a), nonche' il metodo di calcolo utilizzato per elaborare tali previsioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le previsioni relative ai mezzi finanziari destinati alla copertura delle riserve tecniche e del Requisito Patrimoniale Minimo, di cui al Titolo III, Capo III e Capo IV-bis, Sezione IV, e del Requisito Patrimoniale di Solvibilita' di cui al Titolo III, Capo IV-bis, Sezione I; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per quanto riguarda l'assicurazione danni, in aggiunta: 
+ 1) le previsioni relative alle spese di gestione diverse dalle spese di impianto, in particolare le spese generali correnti e le provvigioni; 
+ 2) le previsioni relative ai premi o ai contributi e ai sinistri; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per quanto riguarda l'assicurazione vita, anche un piano che esponga dettagliatamente le previsioni delle entrate e delle spese sia per le operazioni dirette e per le operazioni di riassicurazione attiva che per le operazioni di riassicurazione passiva.
+
+((2-bis. Qualora il programma di attivita' indichi che una parte rilevante dell'attivita' dell'impresa sara' esercitata in regime di stabilimento o di libera prestazione dei servizi in altro Stato membro e che tale attivita' e' potenzialmente rilevante per il mercato dello Stato membro ospitante, l'IVASS, con adeguato livello di dettaglio, informa l'AEAP e l'autorita' di vigilanza dello Stato membro interessato in merito))
 
 ## Art. 15. — (( (Estensione ad altri rami) ))
 
@@ -483,6 +1552,45 @@ Il consiglio di amministrazione dell'impresa ha la responsabilita' ultima dell'o
 
 L'impresa si dota di un efficace sistema di governo societario , ivi inclusi i sistemi di remunerazione e di incentivazione, che consenta una gestione sana e prudente dell'attivita'. Il sistema di governo societario e' proporzionato alla natura, alla portata e alla complessita' delle attivita' dell'impresa.
 
+2.
+                        
+                            
+                                Il sistema di governo societario di cui al comma 1 comprende almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituzione di un'adeguata e trasparente struttura organizzativa, con una chiara ripartizione e un'appropriata separazione delle responsabilita' delle funzioni e degli organi dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'organizzazione di un efficace sistema di trasmissione delle informazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il possesso da parte di coloro che svolgono funzioni di amministrazione, direzione e controllo e di coloro che svolgono funzioni fondamentali dei requisiti di cui all'articolo 76; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la predisposizione di meccanismi idonei a garantire il rispetto delle disposizioni di cui al presente Capo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'istituzione della funzione di revisione interna, della funzione di verifica della conformita', della funzione di gestione dei rischi e della funzione attuariale. Tali funzioni sono fondamentali e di conseguenza sono considerate funzioni essenziali o importanti.
+
 Il sistema di governo societario e' sottoposto ad una revisione interna periodica almeno annuale.
 
 ((L'impresa adotta misure ragionevoli idonee a garantire la continuita' e la regolarita' dell'attivita' esercitata, inclusa l'elaborazione di piani di emergenza. A tal fine, l'impresa utilizza sistemi, risorse e procedure interne adeguati e proporzionati e, in particolare, istituisce e gestisce sistemi informatici e di rete conformemente al regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022.))
@@ -501,7 +1609,93 @@ L'impresa si dota di un efficace sistema di gestione dei rischi che comprende le
 
 Il sistema di gestione dei rischi e' efficace e correttamente integrato nella struttura organizzativa e nei processi decisionali dell'impresa, tenendo in adeguata considerazione il ruolo dei soggetti che svolgono funzioni di amministrazione, direzione e controllo dell'impresa o altre funzioni fondamentali.
 
+3.
+                        
+                            
+                                Il sistema di gestione dei rischi considera i rischi da includere nel calcolo del Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-ter, comma 5, nonche' i rischi che sono integralmente o parzialmente esclusi da tale calcolo. Per le finalita' di cui al comma 1, il sistema considera almeno le seguenti aree: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sottoscrizione e costituzione di riserve tecniche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione integrata delle attivita' e delle passivita' (asset-liability management); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    investimenti, in particolare strumenti finanziari derivati e impegni simili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione dei rischi di liquidita' e di concentrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gestione dei rischi operativi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    riassicurazione e altre tecniche di mitigazione del rischio.
+
+4.
+                        
+                            
+                                La politica scritta sul sistema di gestione dei rischi di cui all'articolo 30, comma 5, comprende le politiche sulle aree di cui alle lettere da 
+                            
+                            
+                                a)
+                                
+                                    ad f) del comma 3.
+
 L'impresa che applica l'aggiustamento di congruita' di cui all'articolo 36-quinquies o l'aggiustamento per la volatilita' di cui all'articolo 36-septies, predispone un piano di liquidita' con la proiezione dei flussi di cassa in entrata e in uscita in rapporto agli attivi e passivi soggetti a tali aggiustamenti.
+
+6.
+                        
+                            
+                                Per quanto riguarda la gestione integrata delle attivita' e passivita' l'impresa valuta regolarmente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sensitivita' delle riserve tecniche e dei fondi propri ammissibili alle ipotesi sottese all'estrapolazione della pertinente struttura per scadenza dei tassi di interesse privi di rischio di cui all'articolo 36-quater; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di applicazione dell'aggiustamento di congruita' di cui all'articolo 36-quinquies: 
+ 1) la sensitivita' delle riserve tecniche e dei fondi propri ammissibili alle ipotesi sottese al calcolo dell'aggiustamento di congruita', ivi compreso il calcolo dello spread fondamentale di cui all'articolo 36-sexies, comma 1, lettera b), e i possibili effetti di una vendita forzata di attivi a carico dei fondi propri ammissibili; 
+ 2) la sensitivita' delle riserve tecniche e dei fondi propri ammissibili alle modifiche della composizione del portafoglio di attivi dedicato; 
+ 3) l'impatto di un azzeramento dell'aggiustamento di congruita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di applicazione dell'aggiustamento per la volatilita' di cui all'articolo 36-septies: 
+ 1) la sensitivita' delle riserve tecniche e dei fondi propri ammissibili alle ipotesi sottese al calcolo dell'aggiustamento per la volatilita' e i possibili effetti a carico dei fondi propri ammissibili di una vendita forzata di attivi; 
+ 2) l'impatto di un azzeramento dell'aggiustamento per la volatilita'.
 
 L'impresa presenta le valutazioni di cui al comma 6, lettere a), b) e c), ogni anno all'IVASS nel quadro delle informazioni trasmesse a norma dell'articolo 47-quater. Qualora l'azzeramento dell'aggiustamento di congruita' o dell'aggiustamento per la volatilita' si risolva nel mancato rispetto del Requisito Patrimoniale di Solvibilita', l'impresa presenta anche un elenco di misure da applicare in tale situazione per ripristinare il livello di fondi propri ammissibili a copertura del Requisito Patrimoniale di Solvibilita' o per ridurre il profilo di rischio e rimettersi in tal modo in regola con il Requisito Patrimoniale di Solvibilita'.
 
@@ -517,6 +1711,45 @@ Onde evitare un'eccessiva dipendenza dalle agenzie di rating del credito, l'impr
 
 L'IVASS puo' fornire con il regolamento di cui all'articolo 30, comma 7, indicazioni sulle procedure da seguire in sede di valutazione dei rating creditizi esterni di cui al comma 12.
 
+14.
+                        
+                            
+                                Nel caso in cui l'impresa utilizzi un modello interno completo o parziale, approvato conformemente agli articoli 46-bis e 46-ter, la funzione di gestione dei rischi assolve ai seguenti ulteriori compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    costruire e applicare il modello interno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    testare e validare il modello interno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    documentare il modello interno e le eventuali modifiche successivamente apportate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    analizzare il funzionamento del modello interno e produrre relazioni sintetiche sull'analisi effettuata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    informare il consiglio di amministrazione sui risultati del funzionamento del modello interno, formulando proposte in merito alle aree suscettibili di miglioramento ed aggiornando tale organo sulle misure adottate al fine di porre rimedio alle carenze riscontrate in precedenza.
+
 ))
 
 ## Art. 30-ter. — (( (Valutazione interna del rischio e della solvibilita') ))
@@ -524,6 +1757,31 @@ L'IVASS puo' fornire con il regolamento di cui all'articolo 30, comma 7, indicaz
 ((
 
 Nell'ambito del sistema di gestione dei rischi di cui all'articolo 30-bis l'impresa effettua la valutazione interna del rischio e della solvibilita'. La valutazione interna del rischio e della solvibilita' e' parte integrante della strategia operativa dell'impresa e di tale valutazione l'impresa tiene conto in modo sistematico nell'ambito delle proprie decisioni strategiche.
+
+2.
+                        
+                            
+                                La valutazione di cui al comma 1 riguarda almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fabbisogno di solvibilita' globale dell'impresa, tenuto conto del profilo di rischio specifico, dei limiti di tolleranza del rischio approvati e della strategia operativa dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'osservanza su base continuativa dei requisiti patrimoniali previsti dal Titolo III, Capo IV-bis, e dei requisiti in materia di riserve tecniche previsti dal Titolo III, Capo II; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la misura in cui il profilo di rischio dell'impresa si discosta dalle ipotesi sottostanti al Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-ter, commi 3 e 4, calcolato con la formula standard conformemente al Titolo III, Capo IV-bis, Sezione II, o con un modello interno completo o parziale conformemente al Titolo III, Capo IV-bis, Sezione III.
 
 Ai fini del comma 2, lettera a), l'impresa adotta processi proporzionati alla natura, alla portata e alla complessita' dei rischi inerenti alla propria attivita', idonei a consentire la corretta individuazione e la valutazione dei rischi a cui e' o potrebbe essere esposta nel breve e nel lungo termine. L'impresa giustifica i metodi utilizzati ai fini di tale valutazione.
 
@@ -567,6 +1825,91 @@ La funzione di revisione interna comunica al consiglio di amministrazione le ris
 
 ((
 
+1.
+                        
+                            
+                                L'impresa istituisce una efficace funzione attuariale. La funzione attuariale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordina il calcolo delle riserve tecniche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantisce l'adeguatezza delle metodologie e dei modelli sottostanti utilizzati, nonche' delle ipotesi su cui si basa il calcolo delle riserve tecniche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valuta la sufficienza e la qualita' dei dati utilizzati nel calcolo delle riserve tecniche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    confronta le migliori stime con i dati desunti dall'esperienza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    informa il consiglio di amministrazione sull'affidabilita' e sull'adeguatezza del calcolo delle riserve tecniche; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    supervisiona il calcolo delle riserve tecniche nei casi di cui all'articolo 36-duodecies; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    formula un parere sulla politica di sottoscrizione globale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    formula un parere sull'adeguatezza degli accordi di riassicurazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    contribuisce ad applicare in modo efficace il sistema di gestione dei rischi di cui all'articolo 30-bis, in particolare con riferimento alla modellizzazione dei rischi sottesa al calcolo dei requisiti patrimoniali di cui al Titolo III, Capo IV-bis, e alla valutazione interna del rischio e della solvibilita' di cui all'articolo 30-ter.
+
+2.
+                        
+                            
+                                La funzione attuariale e' esercitata da un attuario iscritto nell'albo professionale di cui alla legge 9 febbraio 1942, n. 194, ovvero da soggetti che dispongono di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    conoscenze di matematica attuariale e finanziaria, adeguate alla natura, alla portata e alla complessita' dei rischi inerenti all'attivita' dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comprovata esperienza professionale nelle materie rilevanti ai fini dell'espletamento dell'incarico.
+
 ))
 
 ## Art. 30-septies. — (( (Esternalizzazione) ))
@@ -575,9 +1918,66 @@ La funzione di revisione interna comunica al consiglio di amministrazione le ris
 
 L'impresa che esternalizza funzioni o attivita' relative all'attivita' assicurativa o riassicurativa conserva la piena responsabilita' dell'osservanza degli obblighi ad essa imposti da norme legislative, regolamentari e dalle disposizioni dell'Unione europea direttamente applicabili.
 
+2.
+                        
+                            
+                                L'impresa che esternalizza funzioni o attivita' essenziali o importanti garantisce che le relative modalita' siano tali da non determinare anche uno solo dei seguenti effetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    arrecare un grave pregiudizio alla qualita' del sistema di governo societario dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determinare un indebito incremento del rischio operativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compromettere la capacita' dell'IVASS di verificare l'osservanza degli obblighi gravanti sull'impresa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compromettere la capacita' dell'impresa di fornire un servizio continuo e soddisfacente ai contraenti, agli assicurati e agli aventi diritto ad una prestazione assicurativa.
+
 L'impresa informa tempestivamente l'IVASS prima dell'esternalizzazione di funzioni o attivita' essenziali o importanti nonche' di significativi sviluppi successivi in relazione all'esternalizzazione di tali funzioni o compiti.
 
 L'IVASS con regolamento stabilisce i termini e le condizioni per l'esternalizzazione delle funzioni o delle attivita', di cui ai commi 2 e 3.
+
+5.
+                        
+                            
+                                L'impresa che esternalizza una funzione o un'attivita' di assicurazione o di riassicurazione adotta le misure necessarie ad assicurare che siano soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fornitore del servizio cooperi con l'IVASS in relazione alla funzione o all'attivita' esternalizzata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa, i revisori e l'IVASS abbiano accesso effettivo ai dati relativi alle funzioni o attivita' esternalizzate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'IVASS abbia un accesso effettivo ai locali commerciali del fornitore del servizio e sia in grado di esercitare tali diritti di accesso.
 
 ))
 
@@ -716,6 +2116,24 @@ L'IVASS puo' disciplinare con regolamento gli strumenti di sistema di gestione d
 
 ((
 
+1.
+                        
+                            
+                                L'impresa, secondo le disposizioni stabilite dall'IVASS con regolamento, valuta i propri attivi e passivita' nel rispetto delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli attivi all'importo al quale potrebbero essere scambiati tra parti consapevoli e consenzienti in un'operazione svolta alle normali condizioni di mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le passivita', all'importo al quale potrebbero essere trasferite, o regolate, tra parti consapevoli e consenzienti in un'operazione svolta alle normali condizioni di mercato.
+
 Ai fini della valutazione delle passivita' di cui al comma 1, lettera b), l'impresa non effettua alcun aggiustamento per tenere conto del proprio merito di credito.
 
 ))
@@ -792,6 +2210,73 @@ La parte estrapolata della pertinente struttura per scadenza dei tassi d'interes
 
 L'impresa puo' applicare un aggiustamento di congruita' («matching adjustment») alla pertinente struttura per scadenza dei tassi di interesse privi di rischio ai fini del calcolo della migliore stima di un portafoglio di impegni di assicurazione o riassicurazione vita, e di contratti di rendita derivanti da contratti di assicurazione o riassicurazione danni, nel rispetto delle disposizioni di cui all'articolo 36-octies.
 
+2.
+                        
+                            
+                                L'applicazione dell'aggiustamento di congruita' di cui al comma 1 e' soggetta all'autorizzazione dell'IVASS, che la rilascia laddove siano soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa dispone di un portafoglio di attivi, formato da titoli obbligazionari e altri attivi con caratteristiche simili in termini di flusso di cassa dedicato alla copertura della migliore stima del portafoglio degli impegni di assicurazione o riassicurazione e lo detiene per tutta la durata degli impegni, a meno che non si verifichi una rilevante variazione dei flussi di cassa e sia necessario mantenere la replicazione dei flussi di cassa attesi in entrata e in uscita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il portafoglio degli impegni di assicurazione o di riassicurazione cui si applica l'aggiustamento di congruita' e il relativo portafoglio di attivi dedicato sono identificati, organizzati e gestiti separatamente dalle altre attivita' dell'impresa. Il portafoglio di attivi dedicato non puo' essere usato a copertura di perdite derivanti da altre attivita' dell'impresa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i flussi di cassa attesi del portafoglio di attivi dedicato rispecchiano i singoli flussi di cassa attesi del portafoglio degli impegni di assicurazione o di riassicurazione nella medesima valuta; gli eventuali disallineamenti non comportano rischi rilevanti in relazione a quelli intrinseci dell'attivita' assicurativa o riassicurativa cui si applica l'aggiustamento di congruita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i contratti sottostanti al portafoglio degli impegni di assicurazione o di riassicurazione non comportano versamenti di premi futuri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli unici rischi di sottoscrizione legati al portafoglio degli impegni di assicurazione o di riassicurazione sono quelli di longevita', di spesa, di revisione e di mortalita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    laddove il rischio di sottoscrizione legato al portafoglio degli impegni di assicurazione o di riassicurazione comprende il rischio di mortalita', la migliore stima del portafoglio degli impegni di assicurazione o di riassicurazione non aumenta piu' del 5 per cento, sotto una ipotesi di stress del rischio di mortalita' calibrato secondo le disposizioni di cui all'articolo 45-ter, commi da 2 a 6; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i contratti sottostanti al portafoglio degli impegni di assicurazione o di riassicurazione non comprendono opzioni per il contraente o comunque includono solo un'opzione di riscatto in cui il valore di riscatto non e' superiore a quello degli attivi, valutati in conformita' all'articolo 35-quater destinati alla copertura degli impegni di assicurazione o di riassicurazione in essere al momento dell'esercizio dell'opzione di riscatto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i flussi di cassa del portafoglio di attivi dedicato sono fissi e non possono essere modificati ne' dagli emittenti degli attivi stessi ne' da terzi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ai fini del presente comma gli impegni di assicurazione o di riassicurazione derivanti da un contratto di assicurazione o di riassicurazione non sono suddivisi in diverse parti in sede di composizione del portafoglio degli impegni di assicurazione o riassicurazione.
+
 Nonostante quanto disposto al comma 2, lettera h), l'impresa puo' fare ricorso ad attivi caratterizzati da flussi di cassa fissi, o comunque soggetti solo all'inflazione, a condizione che essi replichino flussi di cassa del portafoglio degli impegni di assicurazione o di riassicurazione anch'essi dipendenti dall'inflazione.
 
 L'eventuale facolta' di emittenti o terze parti di modificare i flussi di cassa di un attivo in maniera tale da offrire all'investitore una compensazione sufficiente a permettergli di ottenere i medesimi flussi di cassa reinvestendo in attivi caratterizzati da un merito di credito equivalente o superiore non inficia l'ammissibilita' dell'attivo stesso al portafoglio dedicato in virtu' di quanto disposto al comma 2, lettera h).
@@ -809,6 +2294,67 @@ L'aggiustamento di congruita' non si applica agli impegni di assicurazione o di 
 ## Art. 36-sexies. — (( (Calcolo dell'aggiustamento di congruita') ))
 
 ((
+
+1.
+                        
+                            
+                                L'aggiustamento di congruita' di cui all'articolo 36-quinquies si calcola per le singole valute in base ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'aggiustamento di congruita' deve essere pari alla differenza tra: 
+ 1) il tasso effettivo annuo calcolato come tasso di attualizzazione unico che, applicato ai flussi di cassa del portafoglio degli impegni di assicurazione o di riassicurazione, da' come risultato un valore equivalente a quello del portafoglio degli attivi dedicato, valutato ai sensi dell'articolo 35-quater; 
+ 2) il tasso effettivo annuo calcolato come tasso di attualizzazione unico che, applicato ai flussi di cassa del portafoglio degli impegni di assicurazione o di riassicurazione, da' come risultato un valore equivalente a quello della migliore stima del portafoglio degli impegni di assicurazione o di riassicurazione, tenuto conto del valore temporale del denaro mediante utilizzo della struttura per scadenza di base dei tassi di interesse privi di rischio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'aggiustamento di congruita' non deve includere lo spread "fondamentale" che riflette i rischi mantenuti dall'impresa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nonostante la lettera a), lo spread "fondamentale" deve essere incrementato, laddove necessario, per evitare che l'aggiustamento di congruita' per gli attivi con merito di credito inferiore alla categoria "investimento" (investment grade) superi gli aggiustamenti di congruita' per gli attivi della stessa classe e della medesima durata caratterizzati da un merito di credito di categoria "investimento"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il ricorso a valutazioni esterne del merito di credito per il calcolo dell'aggiustamento di congruita' deve essere conforme alle relative specifiche misure di attuazione adottate dalla Commissione europea.
+
+2.
+                        
+                            
+                                Ai fini del comma 1, lettera b), lo spread "fondamentale" e': 
+ 
+                            
+                            
+                                a)
+                                
+                                    pari alla somma di: 
+ 1) spread di credito corrispondente alla probabilita' di inadempimento relativa agli attivi; 
+ 2) spread di credito corrispondente alla perdita prevista in caso di declassamento degli attivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le esposizioni verso gli Stati membri e verso le banche centrali, pari ad almeno il 30 per cento della media a lungo termine dello spread sul tasso di interesse privo di rischio degli attivi di uguale durata relativa (duration), merito di credito e classe osservati sui mercati finanziari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per gli attivi diversi dalle esposizioni di cui alla lettera b), pari ad almeno il 35 per cento della media a lungo termine dello spread sul tasso di interesse privo di rischio degli attivi di uguale durata relativa (duration), merito di credito e classe osservati sui mercati finanziari.
 
 La probabilita' di inadempimento di cui al comma 2, lettera a), numero 1), si basa su statistiche di inadempimento a lungo termine pertinenti per il singolo attivo in rapporto alla durata relativa (duration), al merito di credito e alla classe di quest'ultimo.
 
@@ -852,6 +2398,31 @@ In deroga all'articolo 45-ter, il requisito patrimoniale di solvibilita' non com
 
 ((
 
+1.
+                        
+                            
+                                Le informazioni tecniche prodotte dall'EIOPA in conformita' alle disposizioni comunitarie costituite da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una pertinente struttura per scadenza dei tassi di interesse privi di rischio per il calcolo della migliore stima di cui all'articolo 36-ter, comma 2, senza aggiustamenti di congruita' o aggiustamenti per la volatilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per ciascuna durata interessata, il merito di credito e la classe di attivo di uno spread "fondamentale" per il calcolo dell'aggiustamento di congruita' di cui all'articolo 36-sexies, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'aggiustamento per la volatilita' della pertinente struttura per scadenza dei tassi di interesse privi di rischio di cui all'articolo 36-septies, comma 1, per ciascun mercato assicurativo nazionale interessato; laddove adottate dalla Commissione europea, in conformita' alle disposizioni comunitarie, sono utilizzate dall'impresa in sede di calcolo della migliore stima ai sensi dell'articolo 36-ter, dell'aggiustamento di congruita' ai sensi dell'articolo 36-sexies e dell'aggiustamento per la volatilita' ai sensi dell'articolo 36-septies.
+
 Per quanto concerne le valute e i mercati nazionali per i quali la rettifica di cui al comma 1, lettera c), non e' stabilita dagli atti di esecuzione della Commissione europea in conformita' alle disposizioni dell'Unione europea, l'impresa, ai fini del calcolo della migliore stima, non applica alcun aggiustamento per la volatilita' alla struttura per scadenza dei pertinenti tassi di interesse privi di rischio.
 
 ))
@@ -859,6 +2430,31 @@ Per quanto concerne le valute e i mercati nazionali per i quali la rettifica di 
 ## Art. 36-novies. — (( (Altri elementi da prendere in considerazione nel calcolo delle riserve tecniche) ))
 
 ((
+
+1.
+                        
+                            
+                                Nel calcolo delle riserve tecniche l'impresa, oltre a quanto disposto dall'articolo 36-ter, segmenta gli impegni assicurativi e riassicurativi in gruppi di rischi omogenei ed almeno per linee di attivita', tenendo conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di tutte le spese che sosterra' per far fronte agli impegni assicurativi e riassicurativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'inflazione, inclusa quella relativa alle spese e ai sinistri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di ogni pagamento ai contraenti, agli assicurati, ai beneficiari e agli aventi diritto a prestazioni assicurative, incluse le future partecipazioni agli utili a carattere discrezionale previsti dall'impresa a prescindere dalla sussistenza di garanzie contrattuali, salvo che tali pagamenti non siano ricompresi nell'ambito di applicazione dell'articolo 44-sexies.
 
 ))
 
@@ -932,6 +2528,63 @@ L'impresa di assicurazione che esercita congiuntamente l'attivita' di riassicura
 
 L'impresa investe tutti gli attivi, inclusi quelli che coprono il Requisito Patrimoniale Minimo e il Requisito Patrimoniale di Solvibilita', conformemente al principio della persona prudente, come specificato nei commi da 2 a 6, nonche' dal regolamento dell'IVASS adottato in conformita' con le disposizioni dell'Unione europea.
 
+2.
+                        
+                            
+                                L'impresa investe tutti gli attivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in attivita' e strumenti dei quali possa identificare, misurare, monitorare, gestire, controllare e segnalare adeguatamente i rischi, e ne tiene opportunamente conto nella valutazione del fabbisogno di solvibilita' globale ai sensi dell'articolo 30-ter, comma 2, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in modo tale da garantire la sicurezza, la qualita', la liquidita' e la redditivita' del portafoglio nel suo complesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    localizzando le attivita' secondo criteri tali da assicurare la loro disponibilita'.
+
+3.
+                        
+                            
+                                L'impresa, in ogni caso, investe gli attivi assicurando che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli investimenti in strumenti finanziari derivati contribuiscano ad una riduzione dei rischi o agevolino un'efficace gestione del portafoglio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli investimenti in attivita' non ammesse alla negoziazione su un mercato regolamentato siano mantenuti in ogni caso a livelli prudenziali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli investimenti siano adeguatamente diversificati in modo da evitare un'eccessiva dipendenza da una particolare attivita', un particolare emittente o gruppo di imprese o una particolare area geografica, nonche' l'accumulazione eccessiva di rischi nel portafoglio nel suo insieme; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli investimenti in attivita' di uno stesso emittente o di emittenti appartenenti allo stesso gruppo, non determinino un'eccessiva concentrazione di rischi.
+
 L'impresa puo' localizzare gli attivi anche al di fuori del territorio della Repubblica o degli Stati membri, nel rispetto del principio di cui al comma 2, lettera c).
 
 L'IVASS, qualora l'impresa vanti crediti verso i riassicuratori o i retrocessionari aventi sede in uno Stato terzo il cui regime di solvibilita' non sia ritenuto equivalente conformemente all'ordinamento comunitario, puo' richiedere all'impresa cedente di localizzare all'interno del territorio della Repubblica attivi di importo corrispondente ai suddetti crediti.
@@ -949,6 +2602,38 @@ Le riserve tecniche sono coperte con attivi di proprieta' dell'impresa.
 L'impresa investe gli attivi a copertura delle riserve tecniche in modo adeguato alla natura dei rischi e delle obbligazioni assunte e alla durata delle passivita' e nel migliore interesse dei contraenti, degli assicurati, dei beneficiari e degli aventi diritto a prestazioni assicurative, tenendo conto degli obiettivi strategici resi noti dall'impresa.
 
 In caso di conflitto di interessi, l'impresa o il soggetto che gestisce il portafoglio di attivita' dell'impresa garantisce che l'investimento sia realizzato nel migliore interesse dei contraenti, degli assicurati, dei beneficiari e degli aventi diritto a prestazioni assicurative.
+
+2.
+                        
+                            
+                                Gli attivi di cui al comma 1-bis possono includere anche i finanziamenti concessi nei confronti di soggetti diversi dalle persone fisiche e dalle microimprese, come definite dall'articolo 2, paragrafo 1, dell'allegato alla raccomandazione 2003/361/CE della Commissione europea. In tal caso l'IVASS stabilisce condizioni e limiti operativi tenendo conto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i prenditori dei finanziamenti siano individuati da una banca o da un intermediario finanziario iscritto nell'albo di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la banca o l'intermediario finanziario di cui alla lettera a) trattenga un interesse economico nell'operazione, pari ad almeno il 5 per cento del finanziamento concesso, trasferibile anche a un'altra banca o intermediario finanziario, fino alla scadenza dell'operazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il sistema dei controlli interni e gestione dei rischi dell'impresa sia adeguato e consenta di comprendere a pieno i rischi, in particolare di credito, connessi a tale categoria di attivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impresa sia dotata di un adeguato livello di patrimonializzazione; l'esercizio autonomo dell'attivita' di individuazione dei prenditori da parte dell'assicuratore, in deroga ai criteri di cui alle lettere a) e b), e' sottoposto ad autorizzazione dell'IVASS.
 
 ((2-bis. Le imprese di assicurazione osservano le disposizioni dell'articolo 114, comma 2-bis, del Testo unico bancario o delle relative norme di attuazione emanate dalla Banca d'Italia e dall'IVASS.))
 
@@ -1073,6 +2758,24 @@ Per le finalita' del presente articolo, si intendono per partecipazioni detenute
 
 ((
 
+1.
+                        
+                            
+                                I fondi propri di base sono costituiti dai seguenti elementi patrimoniali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'eccedenza delle attivita' rispetto alle passivita', valutata ai sensi dei Capi I-bis e II del presente Titolo e delle relative disposizioni di attuazione adottate dalla Commissione europea, diminuita dell'importo delle azioni proprie detenute dall'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le passivita' subordinate.
+
 ))
 
 ## Art. 44-quinquies. — (( (Fondi propri accessori) ))
@@ -1081,6 +2784,31 @@ Per le finalita' del presente articolo, si intendono per partecipazioni detenute
 
 I fondi propri accessori sono costituiti da elementi patrimoniali diversi dai fondi propri di base di cui all'articolo 44-quater che possono essere richiamati per assorbire le perdite.
 
+2.
+                        
+                            
+                                I fondi propri accessori possono comprendere i seguenti elementi se non sono elementi dei fondi propri di base: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il capitale sociale o fondo iniziale non versato che non e' stato richiamato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le lettere di credito e le garanzie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualsiasi altro impegno giuridicamente vincolante di cui dispone l'impresa.
+
 Nella societa' mutua assicuratrice, costituita ai sensi dell'articolo 2546 del codice civile, i fondi propri accessori possono comprendere qualsiasi credito futuro che tale mutua puo' vantare nei confronti dei suoi soci tramite il richiamo di contributi supplementari entro i dodici mesi successivi.
 
 Quando un elemento dei fondi propri accessori e' stato versato o richiamato e' trattato come un'attivita' e cessa di far parte dei fondi propri accessori.
@@ -1088,6 +2816,49 @@ Quando un elemento dei fondi propri accessori e' stato versato o richiamato e' t
 Gli importi degli elementi dei fondi propri accessori da prendere in considerazione per la determinazione dei fondi propri sono soggetti all'autorizzazione dell'IVASS.
 
 L'importo assegnato a ciascun elemento dei fondi propri accessori riflette la capacita' di assorbimento delle perdite di tale elemento ed e' determinato sulla base di ipotesi prudenti e realistiche. Qualora un elemento dei fondi propri accessori abbia un valore nominale fisso, l'importo di tale elemento e' pari al suo valore nominale, purche' tale valore nominale rifletta in modo adeguato la sua capacita' di assorbimento delle perdite.
+
+7.
+                        
+                            
+                                Per ciascun elemento dei fondi propri accessori, ai fini del comma 5, l'IVASS autorizza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'utilizzo di un determinato importo monetario; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione di un metodo di calcolo per quantificare detto importo; l'autorizzazione del metodo di calcolo e' limitata ad un periodo di tempo determinato.
+
+8.
+                        
+                            
+                                L'IVASS rilascia l'autorizzazione di cui al comma 5 per ciascun elemento dei fondi propri accessori tenendo conto dei seguenti elementi di valutazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dello status delle controparti interessate, in relazione alla loro capacita' e disponibilita' a pagare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della recuperabilita' dei fondi, tenuto conto della forma giuridica dell'elemento considerato nonche' di qualsiasi condizione ostativa al buon fine del pagamento o del richiamo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di qualsiasi informazione sull'esito dei richiami dei fondi propri accessori effettuati in passato dall'impresa, qualora tali informazioni possano essere utilizzate in modo attendibile per valutare l'esito previsto di richiami futuri.
 
 ))
 
@@ -1107,7 +2878,50 @@ Tali importi sono considerati fondi propri se soddisfano i criteri di cui all'ar
 
 ((
 
+1.
+                        
+                            
+                                Gli elementi dei fondi propri sono classificati in tre livelli. La classificazione dipende dall'inclusione di tali elementi nei fondi propri di base o nei fondi propri accessori e dalla misura in cui tali elementi presentano le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disponibilita' permanente: l'elemento e' disponibile, o puo' essere richiamato su richiesta, per assorbire interamente le perdite nella prospettiva di continuita' aziendale, nonche' in caso di liquidazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    subordinazione: in caso di liquidazione dell'impresa, l'importo totale dell'elemento e' disponibile per assorbire le perdite e il rimborso dell'elemento al possessore avviene solo dopo che sono state onorate tutte le altre obbligazioni, comprese quelle di assicurazione e di riassicurazione nei confronti dei contraenti e dei beneficiari dei contratti di assicurazione e di riassicurazione.
+
 Per valutare il possesso da parte dei fondi propri delle caratteristiche di cui al comma 1, lettere a) e b), viene presa in considerazione la durata dell'elemento, in particolare se abbia una scadenza. Nel caso in cui l'elemento abbia una scadenza, la durata e' valutata prendendo in considerazione la durata relativa (duration) dell'elemento rispetto alla durata relativa (duration) degli impegni di assicurazione e di riassicurazione dell'impresa.
+
+3.
+                        
+                            
+                                Fatto salvo quanto previsto dal comma 1, per la classificazione degli elementi dei fondi propri, l'impresa valuta la presenza delle seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'assenza di obblighi o incentivi a rimborsare l'importo nominale dell'elemento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'assenza di costi fissi obbligatori di servizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'assenza di gravami.
 
 ))
 
@@ -1135,6 +2949,31 @@ L'impresa valuta e classifica gli elementi non inclusi nell'elenco di cui al com
 
 ((
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 44-octies e dall'elenco degli elementi dei fondi propri adottato dalla Commissione europea, si applicano le seguenti classificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le riserve relative a contratti con partecipazioni agli utili che rientrano nell'ambito di applicazione dell'articolo 44-sexies, comma 2, sono classificate nel livello 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le lettere di credito e le garanzie detenute da fiduciari indipendenti in fiduciarie a beneficio dei creditori di assicurazione e fornite da enti creditizi autorizzati conformemente alla normativa europea applicabile, sono classificate nel livello 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualsiasi credito futuro che la societa' mutua assicuratrice, costituita ai sensi dell'articolo 2546 del codice civile, puo' vantare nei confronti dei propri soci tramite il richiamo di contributi supplementari dovuti entro i dodici mesi successivi, e' classificato nel livello
+
 2. Nel rispetto dell'articolo 44-octies, comma 4, qualsiasi credito futuro che la societa' mutua assicuratrice di cui all'articolo 2546 del codice civile puo' vantare nei confronti dei propri soci tramite il richiamo di contributi supplementari, entro i dodici mesi successivi, che non rientra nel comma 1, lettera c), e' classificato nel livello 2 quando possiede le caratteristiche di cui all'articolo 44-septies, comma 1, lettere a) e b), tenendo conto degli aspetti di cui all'articolo 44-septies, commi 2 e 3.
 
 ))
@@ -1142,6 +2981,24 @@ L'impresa valuta e classifica gli elementi non inclusi nell'elenco di cui al com
 ## Art. 44-decies. — (( (Ammissibilita' e limiti applicabili ai livelli 1, 2 e 3) ))
 
 ((
+
+1.
+                        
+                            
+                                Ai fini del rispetto della copertura del Requisito Patrimoniale di Solvibilita', gli elementi dei fondi propri ammissibili sono individuati nel rispetto dei limiti quantitativi previsti dalle disposizioni dell'Unione europea direttamente applicabili e tali da assicurare che siano soddisfatte almeno le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la proporzione degli elementi di livello 1 nei fondi propri ammissibili e' superiore ad un terzo dell'importo totale dei fondi propri ammissibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo ammissibile degli elementi di livello 3 e' inferiore ad un terzo dell'importo totale dei fondi propri ammissibili.
 
 Ai fini del rispetto della copertura del Requisito Patrimoniale Minimo, gli elementi dei fondi propri di base ammissibili sono individuati nel rispetto dei limiti quantitativi previsti dalle disposizioni dell'Unione europea direttamente applicabili e tali da assicurare, come minimo, che l'importo degli elementi di livello 1 dei fondi propri di base ammissibili sia superiore alla meta' dell'importo totale dei fondi propri di base ammissibili.
 
@@ -1181,6 +3038,52 @@ Il requisito patrimoniale di solvibilita' e' calibrato in modo da garantire che 
 
 Il Requisito Patrimoniale di Solvibilita' corrisponde al valore a rischio dei fondi propri di base dell'impresa soggetto ad un livello di confidenza del novantanove virgola cinque percento (99,5%) su un periodo di un anno.
 
+5.
+                        
+                            
+                                Il Requisito Patrimoniale di Solvibilita' copre almeno i seguenti rischi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rischio di sottoscrizione per l'assicurazione danni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rischio di sottoscrizione per l'assicurazione vita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rischio di sottoscrizione per l'assicurazione malattia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rischio di mercato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il rischio di credito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il rischio operativo. Tale rischio include i rischi legali ma non i rischi derivanti da decisioni strategiche e i rischi reputazionali.
+
 Nel calcolo del Requisito Patrimoniale di Solvibilita' l'impresa tiene conto dell'effetto delle tecniche di mitigazione del rischio, purche' il Requisito Patrimoniale di Solvibilita' rifletta adeguatamente il rischio di credito e gli altri rischi derivanti dall'uso di tali tecniche.
 
 ))
@@ -1207,6 +3110,31 @@ L'IVASS, se vi sono elementi tali da far ritenere che il profilo di rischio dell
 
 ((
 
+1.
+                        
+                            
+                                Il Requisito Patrimoniale di Solvibilita' calcolato in base alla formula standard e' pari alla somma algebrica dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Requisito Patrimoniale di Solvibilita' di base di cui all'articolo 45-sexies; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Requisito Patrimoniale per il rischio operativo di cui all'articolo 45-decies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'aggiustamento per la capacita' di assorbimento delle perdite delle riserve tecniche e delle imposte differite di cui all'articolo 45-undecies.
+
 L'IVASS, con regolamento, detta disposizioni applicative in merito alla formula standard in coerenza con le disposizioni dell'Unione europea.
 
 ))
@@ -1214,6 +3142,45 @@ L'IVASS, con regolamento, detta disposizioni applicative in merito alla formula 
 ## Art. 45-sexies. — (( (Struttura del Requisito Patrimoniale di Solvibilita' di base) ))
 
 ((
+
+1.
+                        
+                            
+                                Il Requisito Patrimoniale di Solvibilita' di base comprende moduli di rischio individuali, aggregati conformemente alla formula definita nel regolamento dell'IVASS di cui all'articolo 45-quinquies, comma 2. Tale requisito e' composto almeno dai seguenti moduli di rischio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rischio di sottoscrizione per l'assicurazione danni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rischio di sottoscrizione per l'assicurazione vita; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rischio di sottoscrizione per l'assicurazione malattia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rischio di mercato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il rischio di inadempimento della controparte.
 
 Ai fini del comma 1, lettere a), b) e c), le operazioni di assicurazione o di riassicurazione sono imputate al modulo del rischio di sottoscrizione che meglio riflette la natura tecnica dei rischi sottostanti.
 
@@ -1237,11 +3204,153 @@ L'impresa calcola il Requisito Patrimoniale di Solvibilita' di base conformement
 
 Il modulo del rischio di sottoscrizione per l'assicurazione danni riflette il rischio derivante dagli impegni della assicurazione danni, tenuto conto di tutti i rischi coperti e delle procedure utilizzate nell'esercizio dell'attivita'. Tale modulo tiene conto altresi' dell'incertezza dei risultati dell'impresa in rapporto agli impegni di assicurazione e di riassicurazione esistenti nonche' delle attivita' future che l'impresa prevede di effettuare nel corso dei dodici mesi successivi.
 
+3.
+                        
+                            
+                                L'impresa calcola il modulo di cui al comma 2, conformemente alla formula definita nel regolamento dell'IVASS di cui all'articolo 45-quinquies, comma 2, come combinazione dei requisiti patrimoniali almeno per i seguenti sottomoduli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rischio di tariffazione e di riservazione per l'assicurazione danni: il rischio di perdita o variazione sfavorevole del valore delle passivita' assicurative, derivante da oscillazioni riguardanti il momento di accadimento, la frequenza e la gravita' degli eventi assicurati, nonche' il momento di accadimento e l'importo delle liquidazioni di sinistri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rischio catastrofale per l'assicurazione danni: il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante da un'incertezza significativa delle ipotesi in materia di tariffazione e di calcolo delle riserve in rapporto ad eventi estremi o eccezionali.
+
 Il modulo del rischio di sottoscrizione per l'attivita' di assicurazione vita riflette il rischio derivante dalle obbligazioni dell'assicurazione vita, tenuto conto di tutti i rischi coperti e delle procedure utilizzate nell'esercizio dell'attivita'.
+
+5.
+                        
+                            
+                                L'impresa calcola il modulo del rischio di cui al comma 4 conformemente alla formula definita nel regolamento dell'IVASS di cui all'articolo 45-quinquies, come combinazione dei requisiti patrimoniali almeno per i seguenti sottomoduli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rischio di mortalita': il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante da variazioni del livello, della tendenza o della volatilita' dei tassi di mortalita', laddove un incremento del tasso di mortalita' da' luogo ad un incremento del valore delle passivita' assicurative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rischio di longevita': il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante da variazioni del livello, della tendenza o della volatilita' dei tassi di mortalita', laddove un calo del tasso di mortalita' da' luogo ad un incremento del valore delle passivita' assicurative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rischio di invalidita' - morbilita': il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante da variazioni del livello, della tendenza o della volatilita' dei tassi di invalidita', malattia e morbilita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rischio di spesa per l'assicurazione vita: il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante da variazioni del livello, della tendenza o della volatilita' delle spese sostenute in relazione ai contratti di assicurazione o di riassicurazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rischio di revisione: il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante da oscillazioni del livello, della tendenza o della volatilita' dei tassi di revisione delle rendite, dovute a variazioni del quadro giuridico o dello stato di salute della persona assicurata; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rischio di estinzione anticipata: il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante da variazioni del livello o della volatilita' dei tassi di riduzione, estinzione anticipata, incluse le ipotesi di riscatto, recesso, nonche' di rinnovo delle polizze; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    rischio catastrofale per l'assicurazione vita: il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante dall'incertezza significativa delle ipotesi in materia di fissazione dei prezzi e di costituzione delle riserve in rapporto ad eventi estremi o irregolari.
 
 Il modulo del rischio di sottoscrizione per l'assicurazione malattia riflette il rischio derivante dalla sottoscrizione di impegni dell'assicurazione malattia, sia quando gli impegni sono definiti sulla base di costruzioni tecniche simili a quelle usate per le assicurazioni vita sia quando sono definiti sulla base di costruzioni tecniche delle assicurazioni danni, tenuto conto sia dei rischi coperti che dei processi utilizzati nell'esercizio dell'attivita'.
 
+7.
+                        
+                            
+                                Il modulo di cui al comma 6 e' calcolato in modo tale da coprire almeno i seguenti rischi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante da variazioni del livello, della tendenza o della volatilita' delle spese incorse in relazione ai contratti di assicurazione o di riassicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rischio di perdita o variazione sfavorevole del valore delle passivita' assicurative, derivante da oscillazioni riguardanti il momento di accadimento, la frequenza e la gravita' degli eventi assicurati nonche' il momento di accadimento e l'importo delle liquidazioni di sinistri al momento della costituzione delle riserve; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rischio di perdita o di variazione sfavorevole del valore delle passivita' assicurative, derivante dall'incertezza significativa delle ipotesi relative alla fissazione dei prezzi e alla costituzione delle riserve in rapporto al verificarsi di importanti epidemie nonche' all'insolita accumulazione di rischi che si verifica in tali circostanze estreme.
+
 Il modulo del rischio di mercato riflette il rischio derivante dal livello o dalla volatilita' dei prezzi di mercato degli strumenti finanziari tali da avere un impatto sul valore delle attivita' e delle passivita' dell'impresa. Tale modulo riflette adeguatamente il disallineamento strutturale tra attivita' e passivita', in particolare rispetto alla loro durata relativa (duration).
+
+9.
+                        
+                            
+                                Il modulo di cui al comma 8 e' calcolato, conformemente alla formula definita nel regolamento dell'IVASS di cui all'articolo 45-quinquies, come combinazione dei requisiti patrimoniali almeno per i seguenti sottomoduli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rischio di tasso di interesse: la sensitivita' del valore delle attivita', delle passivita' e degli strumenti finanziari a variazioni della struttura per scadenza dei tassi d'interesse o della volatilita' dei tassi di interesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rischio azionario: la sensitivita' del valore delle attivita', delle passivita' e degli strumenti finanziari a variazioni del livello o della volatilita' dei prezzi di mercato degli strumenti di capitale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rischio immobiliare: la sensitivita' del valore delle attivita', delle passivita' e degli strumenti finanziari a variazioni del livello o della volatilita' dei prezzi di mercato dei beni immobili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rischio di spread: la sensitivita' del valore delle attivita', delle passivita' e degli strumenti finanziari a variazioni del livello o della volatilita' degli spread di credito rispetto alla struttura per scadenze dei tassi di interesse privi di rischio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rischio valutario: la sensitivita' del valore delle attivita', delle passivita' e degli strumenti finanziari a variazioni del livello o della volatilita' dei tassi di cambio delle valute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    concentrazioni del rischio di mercato: i rischi aggiuntivi per l'impresa derivanti o dalla mancanza di diversificazione del portafoglio delle attivita' o da grandi esposizioni al rischio di inadempimento da parte di un unico emittente di titoli o di un gruppo di emittenti collegati.
 
 Il modulo del rischio di inadempimento della controparte riflette le possibili perdite dovute all'inadempimento imprevisto o al deterioramento del merito di credito delle controparti e dei debitori dell'impresa nei successivi dodici mesi. Tale modulo copre i contratti di mitigazione del rischio, quali gli accordi di riassicurazione, le cartolarizzazioni e i derivati, nonche' i crediti nei confronti di intermediari e qualsiasi altra esposizione non coperta nel sottomodulo del rischio di spread. Il modulo tiene adeguatamente conto delle garanzie collaterali o di altro genere detenute dall'impresa o da terzi per suo conto e dei rischi ivi associati.
 
@@ -1253,6 +3362,24 @@ Il modulo del rischio di inadempimento della controparte di cui al comma 10 tien
 
 ((
 
+1.
+                        
+                            
+                                Il sottomodulo del rischio azionario (equity risk charge) calcolato dall'impresa secondo la formula standard comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fabbisogno standard del rischio azionario, a copertura dei rischi derivanti dalle variazioni del livello dei prezzi azionari, calibrato in conformita' alle disposizioni di cui all'articolo 45-sexies, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un aggiustamento simmetrico, basato su una funzione del livello corrente di un indice azionario appropriato e di una media ponderata di tale indice. La media ponderata e' calcolata su un periodo di tempo adeguato, identico per tutte le imprese, definito dalla Commissione Europea.
+
 L'aggiustamento simmetrico di cui al comma 1, lettera b), determina un sottomodulo del rischio azionario (equity risk charge), calcolato secondo la formula standard, che non e' inferiore o superiore di piu' di dieci (10) punti percentuali rispetto al fabbisogno standard di cui al comma 1, lettera a).
 
 ))
@@ -1260,6 +3387,24 @@ L'aggiustamento simmetrico di cui al comma 1, lettera b), determina un sottomodu
 ## Art. 45-novies. — (( (Sottomodulo del rischio azionario basato sulla durata) ))
 
 ((
+
+1.
+                        
+                            
+                                L'IVASS puo' autorizzare l'applicazione del sottomodulo del rischio azionario del Requisito Patrimoniale di Solvibilita' di cui ai commi 3 e 4 da parte dell'impresa di assicurazione che esercita l'attivita' nei rami vita, che fornisca: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' nel settore delle pensioni aziendali e professionali; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestazioni pensionistiche erogate al raggiungimento o in previsione del raggiungimento del pensionamento, laddove i premi pagati per tali prestazioni abbiano dato luogo ad una deduzione fiscale per i contraenti, in conformita' alla legislazione italiana.
 
 L'autorizzazione di cui al comma 1 puo' essere rilasciata dall'IVASS quando ricorrono congiuntamente le seguenti condizioni: 
  1) tutte le poste dell'attivo e del passivo corrispondenti alle attivita' siano individuate, gestite e organizzate separatamente dalle altre attivita' dell'impresa e non siano trasferibili; 
@@ -1325,6 +3470,31 @@ Tali parametri specifici sono calcolati in modo tale da assicurare che l'impresa
 
 L'impresa puo' essere autorizzata dall'IVASS a calcolare il Requisito Patrimoniale di Solvibilita' utilizzando un modello interno completo o uno o piu' modelli parziali, in coerenza con le disposizioni dell'Unione europea direttamente applicabili.
 
+2.
+                        
+                            
+                                L'impresa puo' utilizzare modelli interni parziali, per il calcolo di uno o piu' dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno o piu' moduli di rischio, o sottomoduli, del Requisito Patrimoniale di Solvibilita' di base di cui agli articoli 45-sexies e 45-septies; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il requisito patrimoniale per il rischio operativo di cui all'articolo 45-decies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'aggiustamento per la capacita' di assorbimento di perdite delle riserve tecniche e delle imposte differite di cui all'articolo 45-undecies.
+
 Fatto salvo quanto previsto dal comma 2, l'impresa puo' applicare modelli parziali a tutta l'attivita' o solo ad uno o piu' settori di attivita' rilevanti.
 
 L'impresa allega alla richiesta di autorizzazione tutti i documenti necessari a comprovare che il modello interno soddisfi i requisiti di cui agli articoli 46-novies, 46-decies, 46-undecies, 46-duodecies, 46-terdecies, 46-quaterdecies.
@@ -1343,6 +3513,31 @@ A seguito del rilascio dell'autorizzazione all'utilizzo di un modello interno, d
 ## Art. 46-ter. — (( (Autorizzazione all'utilizzo dei modelli interni parziali: disposizioni specifiche) ))
 
 ((
+
+1.
+                        
+                            
+                                Ai fini dell'autorizzazione di cui all'articolo 46-bis il modello interno parziale puo' essere autorizzato solo se tale modello soddisfa i criteri di cui al medesimo articolo e le seguenti condizioni aggiuntive: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ambito di applicazione limitato e' adeguatamente motivato dall'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Requisito Patrimoniale di Solvibilita' calcolato utilizzando il modello parziale riflette in maniera piu' appropriata il profilo di rischio dell'impresa ed in particolare e' conforme ai principi di cui alla Sezione I del presente Capo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la struttura e' coerente con i principi di cui alla Sezione I del presente Capo, in modo tale che sia possibile la piena integrazione del modello interno parziale nella formula standard.
 
 Nell'ambito del procedimento di valutazione della richiesta di autorizzazione all'utilizzo di un modello interno parziale che si applica, con riguardo ad un modulo di rischio specifico, soltanto a taluni sottomoduli o a taluni settori di attivita' dell'impresa o a parti di entrambi, l'IVASS puo' richiedere all'impresa di presentare un piano di transizione realistico per l'estensione dell'ambito di applicazione del modello.
 
@@ -1403,6 +3598,24 @@ L'IVASS, qualora sia inappropriato calcolare il Requisito Patrimoniale di Solvib
 ## Art. 46-novies. — (( (Prova dell'utilizzo) ))
 
 ((
+
+1.
+                        
+                            
+                                L'impresa dimostra che il modello interno completo o parziale e' ampiamente utilizzato e svolge un ruolo importante nel sistema di governo societario di cui al Titolo III, Capo I, Sezione II, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel sistema di gestione dei rischi di cui all'articolo 30-bis e nei processi decisionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei processi di valutazione e di allocazione del capitale economico e di solvibilita', compresa la valutazione interna del rischio e della solvibilita' di cui all'articolo 30-ter.
 
 L'impresa dimostra che la frequenza del calcolo del Requisito Patrimoniale di Solvibilita' tramite il modello interno e' coerente con la frequenza con la quale utilizza tale modello interno per le altre finalita' di cui al comma 1.
 
@@ -1481,6 +3694,31 @@ L'impresa include nella procedura di convalida del modello interno un'analisi de
 
 L'impresa documenta la struttura e i dettagli operativi del modello interno utilizzato.
 
+2.
+                        
+                            
+                                La documentazione di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dimostra l'osservanza degli articoli 46-novies, 46-decies, 46-undecies, 46-duodecies, 46-terdecies; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce un quadro dettagliato della teoria, delle ipotesi e delle basi matematica ed empirica che sottendono il modello interno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indica eventuali circostanze in cui il modello interno non funziona in modo efficace.
+
 L'impresa documenta ogni modifica rilevante apportata al proprio modello interno conformemente all'articolo 46-quater.
 
 ))
@@ -1507,6 +3745,41 @@ L'impresa detiene fondi propri di base ammissibili in misura tale da coprire il 
 
 ((
 
+1.
+                        
+                            
+                                Il Requisito Patrimoniale Minimo e' calcolato conformemente alle relative disposizioni di attuazione adottate dalla Commissione europea nel rispetto dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' calcolato in modo chiaro e semplice, al fine di garantire la possibilita' di una revisione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corrisponde ad un importo di fondi propri di base ammissibili al di sotto del quale i contraenti, i beneficiari, gli assicurati e gli altri aventi diritto a prestazioni assicurative sarebbero esposti ad un livello di rischio inaccettabile qualora all'impresa fosse consentito di continuare la propria attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la funzione lineare di cui al comma 2, utilizzata per calcolare il Requisito Patrimoniale Minimo, e' calibrata sul valore a rischio dei fondi propri di base dell'impresa con un livello di confidenza dell'ottantacinque per cento (85 %) su un periodo di un anno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il livello minimo assoluto e' pari a: 
+ 1) 2.500.000 euro per le imprese di assicurazione danni, comprese le imprese di assicurazione captive, salvo il caso in cui sia coperta la totalita' o parte dei rischi compresi in uno dei rami da 10 a 15 elencati all'articolo 2, comma 3, nel qual caso non puo' essere inferiore a 3.700.000 euro; 
+ 2) 3.700.000 euro per le imprese di assicurazione vita, comprese le imprese di assicurazione captive; 
+ 3) 6.200.000 euro, ossia la somma degli importi di cui ai numeri 1) e 2) per le imprese che esercitano congiuntamente i rami vita e danni.
+
 Fatto salvo il comma 3, il Requisito Patrimoniale Minimo e' calcolato come funzione lineare di un insieme o sottoinsieme delle seguenti variabili: riserve tecniche, premi contabilizzati, capitale a rischio, imposte differite e costi amministrativi dell'impresa. Le variabili utilizzate sono calcolate al netto della riassicurazione.
 
 Fatto salvo quanto previsto al comma 1, lettera d), il Requisito Patrimoniale Minimo non puo' scendere al di sotto del venticinque per cento (25%) ne' superare il quarantacinque per cento (45%) del Requisito Patrimoniale di Solvibilita' dell'impresa, calcolato conformemente alle Sezioni II e III del presente Capo, ivi incluse le eventuali maggiorazioni del capitale imposte ai sensi dell'articolo 47-sexies.
@@ -1527,7 +3800,43 @@ Se il Requisito Patrimoniale Minimo di cui al comma 5 coincide con uno dei limit
 
 ((
 
+1.
+                        
+                            
+                                L'impresa trasmette all'IVASS le informazioni necessarie, tenuto conto degli obiettivi di vigilanza di cui agli articoli 3 e 5, al fine di consentire all'IVASS di effettuare il processo di controllo prudenziale di cui all'articolo 47-quinquies. Le informazioni da trasmettere, secondo quanto stabilito dall'IVASS con regolamento, includono almeno elementi per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valutare il sistema di governo societario adottato dalle imprese, l'attivita' che esse esercitano, i principi di valutazione applicati a fini di solvibilita', i rischi cui sono esposte e i sistemi di gestione dei rischi, nonche' la loro struttura patrimoniale, il loro fabbisogno di capitale e la loro gestione del capitale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adottare tutte le decisioni opportune derivanti dall'esercizio delle funzioni e dei poteri di vigilanza.
+
 Fermo restando quanto previsto dall'articolo 190, commi 1-bis e 1-ter, l'IVASS determina, con regolamento, la natura, la portata e il formato delle informazioni di cui al comma 1 che l'impresa e' tenuta a presentare in periodi predefiniti, in caso di eventi predefiniti e in caso di indagini in merito alla situazione dell'impresa.
+
+3.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 47-ter, comma 5, quando le informazioni devono essere fornite a scadenze determinate inferiori all'anno, l'IVASS puo' limitare le informazioni se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire tali informazioni risulterebbe eccessivamente oneroso in rapporto alla natura, alla portata e alla complessita' dei rischi inerenti all'attivita' dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni sono trasmesse almeno una volta l'anno.
 
 Il comma 3 non si applica se le informazioni periodiche di vigilanza riguardino imprese di assicurazione o di riassicurazione facenti parte di un gruppo come definito dall'articolo 210 a meno che l'impresa non riesca a dimostrare all'IVASS che una frequenza superiore all'anno e' inopportuna data la natura, la portata e la complessita' dei rischi inerenti all'attivita' del gruppo.
 
@@ -1535,11 +3844,117 @@ Limitazioni alle informazioni periodiche di vigilanza sono concesse solo alle im
 
 L'IVASS, in sede di concessione delle limitazioni di cui ai commi 3 e 5, tiene conto delle dimensioni delle imprese dando priorita' alle imprese di dimensioni minori.
 
+7.
+                        
+                            
+                                L'IVASS puo' limitare o esonerare l'impresa dall'obbligo di presentazione periodica delle informazioni analitiche di vigilanza quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire tali informazioni risulterebbe eccessivamente oneroso in rapporto alla natura, alla portata e alla complessita' dei rischi inerenti all'attivita' dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornire tali informazioni non e' necessario ai fini di una vigilanza efficace dell'impresa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esonero non mina la stabilita' dei sistemi finanziari interessati nell'Unione; e 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impresa e' in grado di fornire informazioni su base ad hoc.
+
 L'IVASS non esonera dall'obbligo di fornire informazioni analitiche le imprese facenti parte di un gruppo ai sensi dell'articolo 210 a meno che l'impresa non dimostri all'IVASS che un'informativa di questo tipo e' inopportuna data la natura, la portata e la complessita' dei rischi inerenti all'attivita' del gruppo e tenuto conto dell'obiettivo della stabilita' finanziaria.
 
 Esoneri all'obbligo di fornire informazioni analitiche sono concessi solo alle imprese che non rappresentino piu' del 20 per cento del mercato nazionale rispettivamente vita e danni, ove la quota di mercato danni si basa su premi lordi contabilizzati e la quota vita sulle riserve tecniche lorde.
 
 L'IVASS, in sede di concessione delle deroghe di cui ai commi 7, 8 e 9, tiene conto delle dimensioni delle imprese dando priorita' alle imprese di dimensioni minori.
+
+11.
+                        
+                            
+                                Ai fini dell'esercizio del potere di limitazione o di esonero delle informazioni da trasmettere di cui ai commi 3, 4, 5, 6, 7, 8, 9 e 10, l'IVASS valuta nell'ambito del processo di controllo prudenziale di cui all'articolo 47-quinquies se l'informativa e' eccessivamente onerosa in rapporto alla natura, alla portata e alla complessita' dei rischi insiti nell'attivita' dell'impresa, tenendo conto almeno dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il volume dei premi, delle riserve tecniche e degli attivi dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la volatilita' delle prestazioni e dei sinistri coperti dall'impresa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i rischi di mercato generati dagli investimenti dell'impresa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il livello delle concentrazioni di rischi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il numero totale dei rami assicurativi vita e danni per cui l'autorizzazione e' concessa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i possibili effetti della gestione degli attivi dell'impresa sulla stabilita' finanziaria; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i sistemi e le strutture dell'impresa preposte alle informazioni di vigilanza e la politica scritta sull'informativa di cui all'articolo 30, comma 5; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'idoneita' dei sistemi di governo societario dell'impresa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il livello dei fondi propri a fronte del Requisito Patrimoniale di Solvibilita' e del Requisito Patrimoniale Minimo; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il fatto che l'impresa sia o meno un'impresa captive.
 
 ))
 
@@ -1549,7 +3964,71 @@ L'IVASS, in sede di concessione delle deroghe di cui ai commi 7, 8 e 9, tiene co
 
 L'IVASS riesamina e valuta le strategie, i processi e le procedure di reportistica adottati dall'impresa per rispettare le norme del presente codice e delle disposizioni dell'ordinamento dell'Unione europea direttamente applicabili. Il processo di controllo prudenziale include la verifica dei requisiti qualitativi relativi al sistema di governo societario, la valutazione dei rischi a cui le imprese sono o potrebbero essere esposte e la valutazione della capacita' dell' impresa di valutare tali rischi tenuto conto del contesto in cui la stessa svolge l'attivita'.
 
+2.
+                        
+                            
+                                L'IVASS esamina e valuta, in particolare, che le imprese rispettino le disposizioni relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al sistema di governo societario, inclusa la valutazione interna del rischio e della solvibilita' di cui al Titolo III, Capo I, Sezione II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle riserve tecniche di cui al Titolo II, Capo II; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai requisiti patrimoniali di cui al Titolo III, Capo IV-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agli investimenti di cui agli articoli 37-ter, 38 e 41; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla qualita' ed alla quantita' dei fondi propri di cui al Titolo III, Capo IV; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai requisiti relativi ai modelli interni completi o parziali di cui al Titolo III, Capo IV-bis, Sezione III.
+
 L'IVASS monitora con adeguati strumenti l'impresa al fine di rilevare qualsiasi deterioramento delle condizioni finanziarie e di verificare come l'impresa vi abbia posto rimedio.
+
+4.
+                        
+                            
+                                L'IVASS valuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adeguatezza dei metodi e delle prassi applicati dall'impresa per identificare possibili eventi o cambiamenti futuri delle condizioni economiche che potrebbero avere effetti negativi sulla situazione finanziaria globale dell'impresa. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la capacita' dell'impresa di far fronte a tali eventi o cambiamenti futuri delle condizioni economiche.
 
 Nell'ambito del processo di controllo prudenziale l'IVASS, in aggiunta al calcolo del Requisito Patrimoniale di Solvibilita', ove appropriato puo' utilizzare gli strumenti quantitativi necessari a consentire la valutazione della capacita' delle imprese di far fronte a possibili eventi o cambiamenti futuri delle condizioni economiche che potrebbero avere effetti negativi sulla loro situazione finanziaria globale. L'IVASS puo' imporre all'impresa di attuare verifiche o analisi corrispondenti.
 
@@ -1563,6 +4042,40 @@ L'IVASS stabilisce con regolamento la frequenza minima e l'ambito del processo d
 ## Art. 47-sexies. — (( (Maggiorazione del capitale) ))
 
 ((
+
+1.
+                        
+                            
+                                All'esito del processo di controllo prudenziale di cui all'articolo 47-quinquies l'IVASS, in circostanze eccezionali, puo', con provvedimento motivato, imporre una maggiorazione del capitale dell'impresa qualora ricorrano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a giudizio dell'IVASS, il profilo di rischio dell'impresa si discosta significativamente dalle ipotesi sottese al Requisito Patrimoniale di Solvibilita' calcolato con la formula standard secondo quanto disposto dal Titolo II, Capo IV-bis, Sezione II e: 
+ 1) l'utilizzo di un modello interno di cui all'articolo 46-octies e' inadeguato o e' risultato inefficace; oppure 
+ 2) un modello interno completo o parziale di cui all'articolo 46-octies e' in via di predisposizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a giudizio dell'IVASS, il profilo di rischio dell'impresa si discosta significativamente dalle ipotesi sottese al Requisito Patrimoniale di Solvibilita' calcolato con un modello interno o un modello interno parziale secondo quanto disposto dal Titolo III, Capo IV-bis, Sezione III, in quanto il modello non tiene conto in misura sufficiente di taluni rischi quantificabili e l'impresa non e' riuscita ad adattare il modello al proprio profilo di rischio entro il termine stabilito dall'IVASS; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il sistema di governo societario dell'impresa differisce in modo significativo dalle disposizioni di cui al Titolo III, Capo I, Sezione II, e tali difformita' impediscono all'impresa di individuare, misurare, monitorare, gestire e segnalare correttamente i rischi a cui e' o potrebbe essere esposta, ed altre misure adottabili dall'IVASS non sarebbero idonee, entro un congruo periodo di tempo, a sanare in modo adeguato le carenze riscontrate. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impresa applica l'aggiustamento di congruita' di cui all'articolo 36-quinquies, l'aggiustamento per la volatilita' di cui all'articolo 36-septies o le misure transitorie di cui agli articoli 344-novies e 344-decies e l'IVASS conclude che il profilo di rischio dell'impresa si discosta in modo significativo dalle ipotesi sottese a dette correzioni, rettifiche e misure transitorie.
 
 Nei casi di cui al comma 1, lettere a) e b), la maggiorazione del capitale e' calcolata in modo tale da garantire che l'impresa rispetti l'articolo 45-ter, commi 3 e 4.
 
@@ -1589,6 +4102,50 @@ L'IVASS con regolamento, detta disposizioni per l'applicazione delle maggiorazio
 
 L'impresa, tenuto conto di quanto previsto all'articolo 190, commi 1-bis e 1-ter, pubblica annualmente una relazione sulla propria solvibilita' e condizione finanziaria e la trasmette all'IVASS congiuntamente alle informazioni di cui all'articolo 47-quater, comma 1.
 
+2.
+                        
+                            
+                                La relazione di cui al comma 1 include le informazioni, riportate integralmente o mediante il riferimento ad altre informazioni, equivalenti per natura e portata, pubblicate in attuazione di altre prescrizioni legislative o regolamentari, concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la descrizione dell'attivita' e i risultati di gestione dell'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la descrizione del sistema di governo societario e la valutazione della adeguatezza di tale sistema rispetto al profilo di rischio dell'impresa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    separatamente per ciascuna categoria di rischio, la descrizione dell'esposizione, della concentrazione, della mitigazione e della sensitivita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    separatamente per attivita', riserve tecniche e altre passivita', la descrizione delle basi e dei metodi utilizzati per la loro valutazione, congiuntamente alla spiegazione di eventuali differenze rilevanti rispetto alle basi e ai metodi utilizzati per la loro valutazione nel bilancio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la descrizione della gestione del capitale contenente almeno: 
+ 1) la struttura e l'importo dei fondi propri, nonche' la loro qualita'; 
+ 2) gli importi del Requisito Patrimoniale di Solvibilita' e del Requisito Patrimoniale Minimo; 
+ 3) l'esercizio della opzione di cui all'articolo 45-novies utilizzata ai fini del calcolo del Requisito Patrimoniale di Solvibilita'; 
+ 4) le informazioni che consentono un'adeguata comprensione delle principali differenze tra le ipotesi sottese alla formula standard e quelle di ciascun modello interno utilizzato dall'impresa per il calcolo del proprio Requisito Patrimoniale di Solvibilita'; 
+ 5) l'importo corrispondente all'inosservanza del Requisito Patrimoniale Minimo o ogni grave inosservanza del Requisito Patrimoniale di Solvibilita' rilevata durante il periodo oggetto della relazione, anche se in seguito rimosso, congiuntamente all'illustrazione delle relative cause, conseguenze e delle eventuali misure correttive adottate.
+
 Quando si applica l'aggiustamento di congruita' di cui all'articolo 36-quinquies, la descrizione di cui al comma 2, lettera d), riguarda, oltre all'aggiustamento, anche il portafoglio degli impegni e gli attivi dedicati cui l'aggiustamento stesso si applica nonche' la quantificazione dell'impatto dell'azzeramento dell'aggiustamento di congruita' sulla situazione finanziaria dell'impresa. La descrizione di cui al comma 2, lettera d), indica anche se l'impresa utilizza l'aggiustamento per la volatilita' di cui all'articolo 36-sexies e quantifica l'impatto dell'azzeramento dell'aggiustamento per la volatilita' sulla situazione finanziaria dell'impresa.
 
 La descrizione di cui al comma 2, lettera e), numero 1), comprende un'analisi relativa ad ogni cambiamento significativo rispetto al precedente periodo oggetto della relazione e l'illustrazione di ogni variazione significativa rispetto al valore di tali elementi nel bilancio, nonche' una breve descrizione della trasferibilita' del capitale.
@@ -1605,6 +4162,24 @@ L'IVASS determina, con regolamento, gli elementi della relazione di cui al comma
 
 ((
 
+1.
+                        
+                            
+                                L'IVASS puo' esonerare l'impresa dall'obbligo di rendere pubblica un'informazione se la pubblicazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    possa procurare un significativo vantaggio ingiustificato ad operatori concorrenti del mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia coperta da segreto o se e' in ogni caso riservata, in forza di obblighi dell'impresa nei confronti dei contraenti o di altri soggetti.
+
 Nel caso di cui al comma 1, l'impresa dichiara nella relazione sulla solvibilita' e sulla condizione finanziaria l'esonero dall'obbligo di pubblicazione e le relative motivazioni.
 
 L'IVASS autorizza l'impresa ad utilizzare o a fare riferimento alle informazioni pubblicate in adempimento di altri obblighi di legge o regolamentari, se tali informazioni sono di natura e portata equivalenti a quelle richieste dall'articolo 47-septies.
@@ -1620,6 +4195,24 @@ L'IVASS con regolamento determina modalita', termini e contenuti della relazione
 ((
 
 Nel caso si verifichino circostanze rilevanti che abbiano un impatto significativo sulle informazioni pubblicate ai sensi degli articoli 47-septies e 47-octies, l'impresa pubblica appropriate informazioni sulla natura e sugli effetti di tali circostanze.
+
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, sono considerate circostanze rilevanti almeno le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'IVASS, constatata l'inosservanza del Requisito Patrimoniale Minimo, ritiene che l'impresa non sia in grado di presentare un piano di finanziamento realistico a breve termine o, comunque, l'impresa non trasmette tale piano entro un mese dalla data in cui e' stata rilevata l'inosservanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'IVASS rileva che l'impresa non ha trasmesso un piano di risanamento realistico entro due mesi dalla data in cui e' stata riscontrata una grave inosservanza del Requisito Patrimoniale di Solvibilita'.
 
 Nel caso di cui al comma 2, lettera a), l'IVASS richiede all'impresa di pubblicare immediatamente l'importo corrispondente all'inosservanza del Requisito Patrimoniale Minimo, congiuntamente ad una illustrazione delle relative cause e dei relativi effetti per l'impresa, incluse le eventuali misure adottate per porvi rimedio.
 Quando, nonostante il piano di finanziamento a breve termine considerato inizialmente realistico, il problema dell'inosservanza del Requisito Patrimoniale Minimo non e' stato risolto a distanza di tre mesi dal rilevamento, l'impresa ne da' comunicazione alla fine di tale periodo, insieme ad una spiegazione della sua origine e delle sue conseguenze, comprese eventuali altre misure adottate per porvi rimedio, nonche' le eventuali altre misure correttive previste.
@@ -1641,6 +4234,43 @@ La relazione relativa alla solvibilita' e alla condizione finanziaria e' soggett
 ## Art. 47-undecies. — (( (Informativa all'AEAP) ))
 
 ((
+
+1.
+                        
+                            
+                                L'IVASS comunica annualmente all'AEAP le informazioni concernenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la maggiorazione media del capitale per impresa e l'attribuzione delle maggiorazioni del capitale imposte dall'IVASS durante l'anno precedente, calcolate in misura percentuale del Requisito Patrimoniale di Solvibilita', per ciascuna delle seguenti categorie: 
+ 1) per le imprese di assicurazione e di riassicurazione; 
+ 2) per le imprese di assicurazione che esercitano l'attivita' nei rami vita; 
+ 3) per le imprese di assicurazione che esercitano l'attivita' nei rami danni; 
+ 4) per le imprese di assicurazione che esercitano congiuntamente l'attivita' nei rami vita e danni; 
+ 5) per le imprese che esercitano l'attivita' di riassicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per ciascuna informazione di cui alla lettera a), la proporzione delle maggiorazioni del capitale imposte rispettivamente in applicazione dell'articolo 47-sexies, comma 1, lettere a), b) e c); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero delle imprese che beneficiano della limitazione dell'obbligo di informativa periodica di vigilanza e il numero di quelle che sono esonerate dalla comunicazione su base analitica secondo il disposto dell'articolo 47-quater, commi 3, 4, 5, 6, 7, 8, 9, 10 e 11, unitamente al volume dei loro requisiti patrimoniali, dei premi, delle riserve tecniche e degli attivi rispettivamente calcolati in percentuale del totale dei requisiti patrimoniali, dei premi, delle riserve tecniche e degli attivi di tutte le imprese di assicurazione o di riassicurazione aventi sede nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero dei gruppi che beneficiano della limitazione dell'obbligo di informativa periodica di vigilanza e il numero di quelli che sono esonerati dalla comunicazione su base analitica secondo il disposto dell'articolo 216-octies, unitamente al volume dei loro requisiti patrimoniali, dei premi, delle riserve tecniche e degli attivi rispettivamente calcolati in percentuale del totale dei requisiti patrimoniali, dei premi, delle riserve tecniche e degli attivi di tutti i gruppi di cui all'articolo 210.
 
 ))
 
@@ -1708,6 +4338,31 @@ Le disposizioni dei commi 1 e 1-bis non si applicano all'impresa autorizzata ad 
 
 ((
 
+1.
+                        
+                            
+                                L'impresa di un Paese terzo, che al momento in cui presenta istanza di autorizzazione ad operare nel territorio della Repubblica e' gia' autorizzata all'esercizio dei rami vita o dei rami danni in uno o piu' Stati membri o ha presentato in tali Stati domanda di autorizzazione, puo' chiedere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di poter calcolare, in deroga a quanto disposto nell'articolo 50, comma 1-bis, il Requisito Patrimoniale di Solvibilita' in funzione dell'attivita' globale esercitata dalle proprie sedi secondarie stabilite nel territorio degli Stati membri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di poter costituire la cauzione prevista dall'articolo 28, comma 5, soltanto in uno di tali Stati membri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di poter localizzare in uno qualunque degli Stati membri, nei quali ha insediato una sede secondaria, le attivita' a copertura del Requisito Patrimoniale Minimo.
+
 L'istanza di cui al comma 1 e' presentata all'IVASS ed alle autorita' di vigilanza degli altri Stati membri interessati.
 
 Le agevolazioni possono essere richieste anche dall'impresa che, dopo aver ottenuto l'autorizzazione ad operare nel territorio della Repubblica, insedia una sede secondaria anche nel territorio di un altro Stato membro.
@@ -1729,6 +4384,24 @@ L'IVASS collabora con le autorita' di vigilanza degli altri Stati membri al fine
 
 ((
 
+1.
+                        
+                            
+                                Sono soggette alle disposizioni del presente Titolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le imprese di assicurazione locali che soddisfano le condizioni di cui all'articolo 51-ter, ivi incluse le mutue assicuratrici costituite ai sensi dell'articolo 2546 del codice civile, che superano gli importi di cui ai commi 2 e 3 dell'articolo 52 e che non superano gli importi di cui all'articolo 51-ter; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le particolari mutue assicuratrici ai sensi dell'articolo 52.
+
 Le imprese di cui al comma 1, lettera a), sono iscritte nella sezione dell'albo delle imprese di assicurazione, rubricata «Imprese locali di cui al Titolo IV, Capo II, del Codice delle Assicurazioni private. 
  3. Le imprese di cui al comma 1, lettera b), sono iscritte nella sezione dell'albo delle imprese di assicurazione, rubricata «Particolari mutue assicuratrici di cui al Titolo IV, Capo III, del Codice delle Assicurazioni private». 
  4. L'IVASS da' pronta comunicazione all'impresa interessata dell'iscrizione nell'albo, ai sensi dei commi 2 e 3. Le imprese indicano negli atti e nella corrispondenza l'iscrizione all'albo.
@@ -1740,6 +4413,70 @@ Le imprese di cui al comma 1, lettera a), sono iscritte nella sezione dell'albo 
 ## Art. 51-ter. — (( (Nozione di impresa di assicurazione locale) ))
 
 ((
+
+1.
+                        
+                            
+                                L'impresa di assicurazione italiana e' qualificata impresa di assicurazione locale ai sensi del presente Capo se soddisfa congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'incasso annuo dei premi lordi contabilizzati dall'impresa non supera euro 5.000.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il totale delle riserve tecniche dell'impresa al lordo degli importi recuperabili dai contratti di riassicurazione e dalle societa' veicolo non supera euro 25.000.000; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ove l'impresa faccia parte di un gruppo, il totale delle riserve tecniche del gruppo, al lordo degli importi recuperabili dai contratti di riassicurazione e dalle societa' veicolo, non supera euro 25.000.000; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nelle attivita' dell'impresa non rientrano attivita' assicurative o riassicurative volte a coprire rischi assicurativi di responsabilita', credito e cauzione a meno che non costituiscano rischi accessori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nelle attivita' dell'impresa non rientrano operazioni riassicurative superiori ad euro 500.000 del suo incasso annuo di premi lordi contabilizzati o ad euro 2.500.000 delle sue riserve tecniche al lordo degli importi recuperabili dai contratti di riassicurazione e dalle societa' veicolo, ovvero superiori al 10 per cento del suo incasso annuo di premi lordi contabilizzati o delle sue riserve tecniche al lordo degli importi recuperabili dai contratti di riassicurazione e dalle societa' veicolo.
+
+2.
+                        
+                            
+                                L'impresa che rispetta le condizioni di cui al comma 1 non e' qualificata impresa di assicurazione locale quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercita l'attivita' assicurativa o riassicurativa in regime di libera prestazione di servizi o di stabilimento in altri Stati membri; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in esito alla sua richiesta e' autorizzata all'esercizio dell'attivita' di assicurazione ai sensi dell'articolo 13 o a continuare l'esercizio dell'attivita' ai sensi dell'articolo 13; o 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'incasso annuo di premi lordi contabilizzati o l'ammontare delle riserve tecniche, al lordo degli importi recuperabili dai contratti di riassicurazione e dalle societa' veicolo, e' prevedibile che superi, entro i cinque anni successivi, uno degli importi di cui alle lettere a), b) c) ed e) del comma 1.
 
 ))
 
@@ -1799,6 +4536,31 @@ L'((IVASS)), con regolamento, determina, salve le competenze delle regioni a sta
 
 ((
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dal comma 3, l'IVASS, determina, con regolamento, la disciplina applicabile alle particolari mutue assicuratrici di cui all'articolo 52, tenuto conto delle dimensioni e delle limitazioni all'attivita' assicurativa, e specificamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le disposizioni relative all'adeguatezza patrimoniale e organizzativa dell'impresa, gli obblighi di tenuta dei registri contabili nonche' quelli di comunicazione all'autorita' di vigilanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti di onorabilita', indipendenza e professionalita' degli esponenti aziendali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le disposizioni di cui ai titoli VIII, XIII, XIV, XVI e XVIII in quanto compatibili.
+
 ))
 
 ((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
@@ -1825,6 +4587,59 @@ L'impresa di assicurazione che esercita congiuntamente l'attivita' di riassicura
 
 L'esercizio dell'attivita' nel territorio della Repubblica da parte di societa' veicolo aventi sede legale nel territorio della Repubblica e' subordinato alla preventiva autorizzazione dell'((IVASS)).
 
+2.
+                        
+                            
+                                Con regolamento adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro dello sviluppo economico, sono stabilite le condizioni per l'accesso e per l'esercizio dell'attivita' da parte delle societa' veicolo. In particolare, il regolamento stabilisce disposizioni con riguardo a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la portata dell'autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni obbligatorie da includere nei contratti stipulati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i requisiti di onorabilita' e di professionalita' dei gestori della societa' veicolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i requisiti di professionalita' ed onorabilita' degli azionisti o dei titolari di una partecipazione ((qualificata)) nella societa' veicolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le procedure amministrative e contabili, i meccanismi di controllo interno e di gestione dei rischi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i requisiti in materia di bilancio, scritture contabili e informazioni statistiche e prudenziali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i requisiti di solvibilita'.
+
 ## - - Capo II Imprese di riassicurazione aventi la sede legale nel territorio della Repubblica
 
 ## Art. 58. — Autorizzazione
@@ -1840,6 +4655,80 @@ L'autorizzazione e' valida per il territorio della Repubblica, per quello degli 
 ))
 
 ## Art. 59. — Requisiti e procedura
+
+1.
+                        
+                            
+                                L'IVASS rilascia l'autorizzazione di cui all'articolo 58 quando ricorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adottata la forma di societa' per azioni costituita ai sensi dell'articolo 2325 del codice civile o di societa' europea ai sensi del regolamento (CE) n. 2157/2001 relativo allo statuto della Societa' europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la direzione generale e amministrativa dell'impresa richiedente sia stabilita nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impresa detenga i fondi propri di base ammissibili necessari per coprire il minimo assoluto del Requisito Patrimoniale Minimo di cui all'articolo 66-sexies, comma 1, lettera d), di ammontare non inferiore ad euro 3.600.000, ad eccezione che per le imprese captive, per le quali il Requisito Patrimoniale Minimo non puo' essere inferiore ad euro 1.200.000; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    l'impresa dimostri che sara' in grado di detenere i fondi propri ammissibili necessari per coprire in prospettiva il Requisito Patrimoniale di Solvibilita' previsto all'articolo 45-bis; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    l'impresa dimostri che sara' in grado di detenere i fondi propri di base ammissibili necessari per coprire in prospettiva il Requisito Patrimoniale Minimo di cui all'articolo 47-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    venga presentato, unitamente all'atto costitutivo e allo statuto, un programma di attivita' conforme all'articolo 14-bis, commi 1 e 2, lettere a), b), c), d) ed e); il programma descrive, altresi', il tipo di accordi di riassicurazione che l'impresa intende concludere con le imprese cedenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i titolari di partecipazioni indicate dall'articolo 68 siano in possesso dei requisiti di onorabilita' stabiliti dall'articolo 77 e sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 68; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    l'impresa dimostri che sara' in grado di conformarsi al sistema di governo societario di cui al Titolo III, Capo I, Sezione I, e agli articoli 30, 30-bis, 30-ter, 30-quater, 30-quinquies, 30-sexies e 30-septies; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo nonche' i responsabili delle funzioni fondamentali all'interno dell'impresa siano in possesso dei requisiti di professionalita', onorabilita' ed indipendenza indicati dall'articolo 76; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    non sussistano tra l'impresa o i soggetti del gruppo di appartenenza e altri soggetti, stretti legami che ostacolino l'effettivo esercizio delle funzioni di vigilanza.
 
 L'IVASS nega l'autorizzazione quando dalla verifica delle condizioni indicate nel comma 1 non risulti garantita la sana e prudente gestione, senza che si possa aver riguardo alla struttura e all'andamento dei mercati interessati. Il provvedimento e' specificatamente e adeguatamente motivato ed e' comunicato all'impresa interessata entro novanta giorni dalla presentazione della domanda di autorizzazione completa dei documenti richiesti.
 
@@ -1882,6 +4771,38 @@ Il provvedimento di estensione e' comunicato all'AEAP in conformita' all'articol
 ))
 
 ## Art. 59-ter. — (Attivita' in regime di stabilimento in un altro Stato membro)
+
+1.
+                        
+                            
+                                L'impresa di riassicurazione, qualora intenda istituire una sede secondaria in un altro Stato membro, ne da' preventiva comunicazione all'((IVASS)). Nella comunicazione e' indicato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indirizzo della sede secondaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nominativo e i poteri del rappresentante generale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli Stati membri in cui intende operare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un programma che illustri il tipo di attivita' che intende esercitare.
 
 L'((IVASS)), entro trenta giorni dalla data di ricezione della comunicazione di cui al comma 1, ove non ravvisi la sussistenza di elementi ostativi, comunica all'autorita' di vigilanza competente dello Stato membro interessato l'intenzione dell'impresa di istituire una succursale in tale Stato, trasmettendo le informazioni previste dalle disposizioni dell'ordinamento comunitario.
 
@@ -2045,6 +4966,38 @@ All'impresa di riassicurazione si applicano le disposizioni di cui agli articoli
 
 ((
 
+1.
+                        
+                            
+                                Il Requisito Patrimoniale Minimo e' calcolato conformemente alle relative disposizioni di attuazione adottate dalla Commissione europea nel rispetto dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in modo chiaro e semplice, al fine di garantire la possibilita' di una revisione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corrisponde ad un importo di fondi propri di base ammissibili al di sotto del quale i contraenti, i beneficiari, gli assicurati e gli aventi diritto a prestazioni assicurative sarebbero esposti ad un livello di rischio inaccettabile qualora all'impresa di riassicurazione fosse consentito di continuare la propria attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la funzione lineare di cui al comma 2, utilizzata per calcolare il Requisito Patrimoniale Minimo, e' calibrata sul valore a rischio dei fondi propri di base dell'impresa con un livello di confidenza dell'ottantacinque per cento (85%) su un periodo di un anno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il livello minimo assoluto e' pari a 3.600.000 euro per le imprese di riassicurazione, ad eccezione delle imprese di riassicurazione captive, per le quali il Requisito Patrimoniale Minimo non puo' essere inferiore a 1.200.000 euro.
+
 Fatto salvo il comma 3, il Requisito Patrimoniale Minimo e' calcolato come funzione lineare di un insieme o sottoinsieme delle seguenti variabili: riserve tecniche, premi contabilizzati, capitale a rischio, imposte differite e costi amministrativi dell'impresa. Le variabili utilizzate sono calcolate al netto della riassicurazione.
 
 Fatto salvo quanto previsto al comma 1, lettera d), il Requisito Patrimoniale Minimo non puo' scendere al di sotto del venticinque per cento (25%) ne' superare il quarantacinque per cento (45%) del Requisito Patrimoniale di Solvibilita' dell'impresa, calcolato conformemente al Titolo III, Capo IV-bis, Sezione II e Sezione III.
@@ -2147,7 +5100,68 @@ L'((IVASS)), in relazione alle richieste che interessano societa' con titoli neg
 
 Ai fini del presente titolo, il controllo sussiste anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'articolo 2359, primo e secondo comma, del codice civile ed in presenza di contratti o di clausole statutarie che abbiano per oggetto o per effetto il potere di esercitare l'attivita' di direzione e coordinamento.
 
+2.
+                        
+                            
+                                Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esistenza di un soggetto che, sulla base di accordi, ha il diritto di nominare o revocare la maggioranza degli amministratori o del consiglio di sorveglianza ovvero dispone da solo della maggioranza dei voti ai fini delle deliberazioni relative alle materie di cui agli articoli 2364 e 2364-bis del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possesso di partecipazioni idonee a consentire la nomina o la revoca della maggioranza dei componenti dell'organo che svolge funzioni di amministrazione o del consiglio di sorveglianza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sussistenza di rapporti, anche tra soci, di carattere assicurativo, riassicurativo, finanziario e organizzativo idonei a conseguire uno dei seguenti effetti: 
+ 1) la trasmissione degli utili o delle perdite; 
+ 2) il coordinamento della gestione dell'impresa con quella di altre imprese ai fini del perseguimento di uno scopo comune; 
+ 3) l'attribuzione di poteri maggiori rispetto a quelli derivanti dalle partecipazioni possedute; 
+ 4) l'attribuzione a soggetti diversi da quelli legittimati, in base alla titolarita' delle partecipazioni, di poteri nella scelta degli amministratori o dei componenti del consiglio di sorveglianza o dei dirigenti delle imprese; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'assoggettamento a direzione comune, in base alla composizione degli organi amministrativi o per altri concordanti elementi quali, esemplificativamente, legami importanti e durevoli di riassicurazione.
+
 ## Art. 73. — Partecipazioni indirette
+
+1.
+                        
+                            
+                                Ai fini dell'applicazione dei capi I e III del presente titolo, si considerano anche le partecipazioni acquisite o comunque possedute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il tramite di societa' controllate, di societa' fiduciarie o per interposta persona; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a titolo di deposito, garanzia pignoratizia o usufrutto, qualora il depositario, il creditore pignoratizio o l'usufruttuario possa esercitare discrezionalmente i diritti di voto ad esse inerenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che sono oggetto di contratto di riporto o di contratti derivati, dei quali si tiene conto tanto nei confronti del riportato che del riportatore ovvero nei confronti di entrambe le parti dei contratti medesimi, salvo la prova dell'esclusiva attribuzione ad una sola parte del potere di influenzare la gestione dell'impresa.
 
 ## Art. 74. — Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione
 
@@ -2392,6 +5406,87 @@ Le imprese di assicurazione che esercitano il ramo assistenza depositano, in all
 
 ## Art. 94. — Relazione sulla gestione
 
+1.
+                        
+                            
+                                Il bilancio deve essere corredato da una relazione degli amministratori contenente un'analisi fedele, equilibrata ed esauriente della situazione dell'impresa e dell'andamento e del risultato della gestione nel suo complesso, nonche' una descrizione dei principali rischi e incertezze cui l'impresa e' esposta. Dalla relazione risultano in ogni caso le informazioni che riguardano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'evoluzione del portafoglio assicurativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'andamento dei sinistri nei principali rami esercitati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le forme riassicurative maggiormente significative adottate nei principali rami esercitati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le attivita' di ricerca e di sviluppo e i nuovi prodotti immessi sul mercato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le linee essenziali seguite nella politica degli investimenti; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    gli obiettivi e le politiche di gestione del rischio finanziario e la politica di copertura per principali categorie di operazioni coperte e l'esposizione dell'impresa ai rischi di prezzo, di credito, di liquidita' e di variazione dei flussi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    notizie in merito al contenzioso, se significativo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il numero e il valore nominale delle azioni o quote proprie, delle azioni o quote dell'impresa controllante detenute in portafoglio, di quelle acquistate e di quelle alienate nel corso dell'esercizio, le corrispondenti quote di capitale sottoscritto, dei corrispettivi ed i motivi degli acquisti e delle alienazioni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i rapporti con le imprese del gruppo distinguendo fra imprese controllanti, controllate e consociate, nonche' i rapporti con imprese collegate; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'evoluzione prevedibile della gestione, con particolare riguardo allo sviluppo del portafoglio assicurativo, all'andamento dei sinistri e alle eventuali modifiche alle forme riassicurative adottate; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i fatti di rilievo avvenuti dopo la chiusura dell'esercizio.
+
 L'analisi di cui al comma 1 e' coerente con l'entita' e la complessita' degli affari dell'impresa e contiene, nella misura necessaria alla comprensione della situazione dell'impresa e dell'andamento e del risultato della sua gestione, gli indicatori di risultato finanziari e, se del caso, quelli non finanziari pertinenti all'attivita' specifica dell'impresa, comprese le informazioni attinenti all'ambiente e al personale. L'analisi contiene, ove opportuno, riferimenti agli importi riportati nel bilancio dell'impresa e chiarimenti aggiuntivi su di essi. Per le imprese di grandi dimensioni e per le piccole e medie imprese, a eccezione delle micro-imprese, i cui valori mobiliari sono ammessi alla negoziazione su mercati regolamentati, l'analisi di cui al comma 1 e', altresi', corredata delle informazioni sulle risorse immateriali essenziali e spiega in che modo il modello aziendale dell'impresa dipende fondamentalmente da tali risorse e come tali risorse costituiscono una fonte di creazione del valore per l'impresa. Tali ultime informazioni sono inserite in una sezione apposita della relazione sulla gestione. (74) ((79))
 
 Le disposizioni del comma 1, lettera g), si applicano anche alle azioni o quote detenute, acquistate o alienate per il tramite di societa' fiduciaria o per interposta persona. (5)
@@ -2454,6 +5549,24 @@ Sono in ogni caso assimilate alle imprese di cui al comma 1 quelle sottoposte al
 
 Nei casi di cui ai commi 1 e 2 e' tenuta alla redazione del bilancio consolidato l'impresa che, in base ai dati dell'ultimo bilancio d'esercizio approvato, presenta l'ammontare maggiore del totale dell'attivo.
 
+4.
+                        
+                            
+                                L'impresa soggetta all'obbligo di redazione del bilancio consolidato che operi anche secondo una direzione unitaria ai sensi dei commi 1 e 2 e' tenuta alla redazione del bilancio consolidato esclusivamente in base al comma 3, quando ricorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa non ha emesso titoli quotati in mercati regolamentati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la redazione del bilancio consolidato non e' richiesta almeno sei mesi prima della fine dell'esercizio da tanti soci che rappresentino almeno il cinque per cento del capitale sociale.
+
 In caso di esonero dall'obbligo di redazione del bilancio consolidato ai sensi del comma 4, le ragioni dell'esonero sono indicate nella nota integrativa al bilancio d'esercizio. La nota integrativa indica altresi' la denominazione e la sede dell'impresa che redige il bilancio consolidato ai sensi del presente articolo.
 Copia dello stesso, della relazione sulla gestione e di quella dell'organo di controllo sono depositati presso l'ufficio del registro delle imprese del luogo ove e' la sede dell'impresa esonerata.
 
@@ -2462,6 +5575,38 @@ Restano salve le disposizioni relative alle societa' che hanno emesso titoli quo
 ## Art. 97. — Esonero dall'obbligo di redazione
 
 L'obbligo di redazione del bilancio consolidato non sussiste nei confronti delle imprese di cui all'articolo 95, commi 1 e 2, a loro volta controllate direttamente o indirettamente da altra impresa tenuta alla redazione del bilancio consolidato ai sensi del presente titolo ovvero da un'impresa di assicurazione o riassicurazione costituita in un altro Stato membro.
+
+2.
+                        
+                            
+                                L'esonero e' subordinato alle seguenti circostanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che l'impresa controllata non abbia emesso titoli quotati in mercati regolamentati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che la controllante sia titolare di oltre il novantacinque per cento delle azioni o quote dell'impresa controllata ovvero, in difetto di tale condizione, che la redazione del bilancio consolidato non sia richiesta almeno sei mesi prima della fine dell'esercizio da tanti soci che rappresentino almeno il cinque per cento del capitale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che l'impresa controllata e le imprese da questa controllate da includere nel consolidamento ai sensi del presente titolo siano incluse nel bilancio consolidato della controllante; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che l'impresa controllante, soggetta al diritto di uno Stato membro, rediga e sottoponga a controllo il bilancio consolidato conformemente alle disposizioni dell'ordinamento comunitario.
 
 Le ragioni dell'esonero sono indicate nella nota integrativa al bilancio di esercizio. La nota integrativa indica altresi' la denominazione e la sede dell'impresa che redige il bilancio consolidato ai sensi del presente articolo. Una copia del bilancio della controllante, della relazione sulla gestione e di quella dell'organo di controllo, redatti in lingua italiana, e' depositata presso l'ufficio del registro delle imprese del luogo ove e' la sede dell'impresa controllata.
 
@@ -2474,6 +5619,45 @@ L'((IVASS)) individua, con regolamento, i soggetti non sottoposti agli obblighi 
 La data di riferimento del bilancio consolidato coincide con la data di chiusura del bilancio di esercizio dell'impresa controllante obbligata alla redazione. ((Nel caso quest'ultima sia un'impresa di partecipazione assicurativa o un'impresa di partecipazione finanziaria mista di cui all'articolo 95, commi 2 o 2-bis, la data di riferimento coincide con la data di chiusura dell'esercizio delle imprese assicurative controllate.))
 
 ## Art. 100. — Relazione sulla gestione
+
+1.
+                        
+                            
+                                Il bilancio consolidato deve essere corredato da una relazione degli amministratori contenente un'analisi fedele, equilibrata ed esauriente della situazione dell'insieme delle imprese incluse nel consolidamento e dell'andamento e del risultato della gestione nel suo insieme e nei vari settori, con particolare riguardo ai costi, ai ricavi e agli investimenti, nonche' una descrizione dei principali rischi e incertezze cui le imprese incluse nel consolidamento sono esposte. Dalla relazione risultano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' di ricerca e di sviluppo e i nuovi prodotti immessi sul mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero e il valore nominale delle azioni o quote dell'impresa controllante possedute da essa o da imprese controllate, anche per il tramite di societa' fiduciarie o per interposta persona, con l'indicazione della quota di capitale corrispondente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'evoluzione prevedibile della gestione, con particolare riguardo allo sviluppo del portafoglio assicurativo, all'andamento dei sinistri e alle eventuali modifiche, se significative, delle forme riassicurative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i fatti di rilievo avvenuti dopo la data di riferimento del bilancio consolidato; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    gli obiettivi e le politiche di gestione del rischio finanziario e la politica di copertura per principali categorie di operazioni coperte e l'esposizione delle imprese incluse nel consolidamento ai rischi di prezzo, di credito, di liquidita' e di variazione dei flussi.
 
 L'analisi di cui al comma 1 e' coerente con l'entita' e la complessita' degli affari dell'insieme delle imprese incluse nel consolidamento e contiene, nella misura necessaria alla comprensione della situazione dell'insieme delle imprese incluse nel consolidamento e dell'andamento e del risultato della loro gestione, gli indicatori di risultato finanziari e, se del caso, quelli non finanziari pertinenti alle attivita' specifiche delle imprese, comprese le informazioni attinenti all'ambiente e al personale.
 L'analisi contiene, ove opportuno, riferimenti agli importi riportati nel bilancio consolidato e chiarimenti aggiuntivi su di essi.
@@ -2516,6 +5700,119 @@ La relazione di cui al comma 1 e la relazione di cui all'articolo 94 possono ess
 ## Art. 101. — Libri e registri obbligatori
 
 Le imprese di assicurazione con sede legale nel territorio della Repubblica ((...)), ferme restando le altre disposizioni stabilite dalla legge, devono tenere i libri e i registri secondo quanto previsto ai commi 2 e 3.
+
+2.
+                        
+                            
+                                Le imprese autorizzate all'esercizio dei rami vita, oltre al registro delle attivita' a copertura delle riserve tecniche, sono tenute alla compilazione dei registri su cui annotare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i contratti emessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contratti stornati per risoluzione ai sensi dell'articolo 1924, secondo comma, del codice civile, ovvero per mancato perfezionamento ovvero per i quali e' stato esercitato il diritto di recesso di cui all'articolo 177; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i contratti scaduti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i contratti per i quali e' stato esercitato il diritto di riscatto di cui all'articolo 1924, secondo comma, del codice civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i contratti che sono stati oggetto di trasformazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i sinistri denunciati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i sinistri pagati; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i reclami ricevuti.
+
+3.
+                        
+                            
+                                Le imprese autorizzate all'esercizio dei rami danni, oltre al registro delle attivita' a copertura delle riserve tecniche, sono tenute alla compilazione dei registri su cui annotare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i contratti emessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i sinistri denunciati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i sinistri pagati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i sinistri eliminati senza pagamento di indennizzo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i sinistri ancora da pagare alla chiusura dell'esercizio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i sinistri gia' classificati alle lettere c) oppure d) per i quali sia stata riaperta la procedura di liquidazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i reclami ricevuti.
 
 L'((IVASS)) adotta, con regolamento, le disposizioni per la tenuta dei registri assicurativi previsti dai commi 2 e 3 e determina le informazioni, i termini e le modalita' per la loro conservazione e compilazione nel rispetto delle prescrizioni dell'articolo 2421, ultimo comma, del codice civile.
 
@@ -2571,6 +5868,90 @@ Fermo restando quanto previsto dai Titoli II, III e IV per le imprese di assicur
 
 Le disposizioni del presente titolo disciplinano altresi' l'attivita' di distribuzione assicurativa, anche a titolo accessorio, e riassicurativa da parte di persone fisiche o giuridiche con residenza o sede legale nel territorio di altri Stati membri dell'Unione europea, svolta nel territorio della Repubblica.
 
+3.
+                        
+                            
+                                Non configurano attivita' di distribuzione assicurativa o riassicurativa, ai fini di cui al comma 1, le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la fornitura di informazioni a titolo accessorio ad un cliente nel contesto di un'altra attivita' professionale, sempre che il fornitore non intraprenda ulteriori iniziative di assistenza nella conclusione o nell'esecuzione di un contratto di assicurazione o riassicurazione e l'obiettivo di tale attivita' non sia quello di assistere il cliente nella conclusione o nell'esecuzione di un contratto di assicurazione o riassicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la gestione di sinistri per un'impresa di assicurazione o riassicurazione su base professionale o le attivita' di liquidazione sinistri e di consulenza in materia di sinistri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la mera fornitura di dati e informazioni su potenziali assicurati a intermediari assicurativi o riassicurativi, o a imprese di assicurazione o di riassicurazione, se il fornitore non intraprende ulteriori iniziative di assistenza nella conclusione di un contratto di assicurazione o riassicurazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la mera fornitura a potenziali assicurati di informazioni su prodotti assicurativi o riassicurativi, su un intermediario assicurativo o riassicurativo, su un'impresa di assicurazione o riassicurazione, se il fornitore non intraprende ulteriori iniziative di assistenza nella conclusione del contratto.
+
+4.
+                        
+                            
+                                E' esclusa dalla disciplina del presente Titolo l'attivita' di distribuzione assicurativa esercitata da intermediari assicurativi a titolo accessorio, laddove siano soddisfatte congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'assicurazione e' accessoria ad un prodotto o servizio e ne copre: 
+ 1) i rischi di perdita, deterioramento, danneggiamento del prodotto fornito o il mancato uso del servizio prestato dal fornitore; o 
+ 2) la perdita o il danneggiamento del bagaglio e altri rischi connessi con un viaggio prenotato presso tale fornitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo del premio versato per il contratto assicurativo, calcolato proporzionalmente su base annua, non e' superiore a 600 euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in deroga alla lettera b) , qualora l'assicurazione sia complementare rispetto a un servizio di cui alla lettera a) e la durata di tale servizio sia pari o inferiore a tre mesi, l'importo del premio versato per persona non e' superiore a 200 euro.
+
+5.
+                        
+                            
+                                Nell'esercizio dell'attivita' di distribuzione attraverso un intermediario assicurativo a titolo accessorio esentato, di cui al comma 4, l'impresa di assicurazione o l'intermediario assicurativo che se ne avvale garantisce che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prima della conclusione del contratto, il contraente riceva informazioni riguardanti rispettivamente gli elementi di cui all'articolo 120, comma 2, lettere a) e c), se agisce su incarico dell'impresa, o di cui all'articolo 120, comma 1, lettere a) e c), se agisce su incarico di altro intermediario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano predisposti rapporti contrattuali adeguati e proporzionati al fine di assicurare la conformita' con quanto previsto dagli articoli 119-bis e 120-quinquies e tenere conto delle richieste ed esigenze del contraente prima di proporre il contratto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prima della conclusione del contratto, sia fornita al contraente la documentazione informativa relativa al prodotto assicurativo di cui all'articolo 185.
+
 Fatto salvo quanto previsto dal testo unico dell'intermediazione finanziaria, le persone giuridiche di cui all'articolo 109, comma 2, lettera d), sono sottoposte, limitatamente all'attivita' di distribuzione assicurativa, alla vigilanza dell'IVASS, che la esercita mediante i poteri previsti dall'articolo 5, comma 1, anche per quanto riguarda l'osservanza delle disposizioni sulle regole di comportamento di cui al Capo III, informando e collaborando con le altre autorita' interessate.
 
 7. L'IVASS monitora il mercato, ivi incluso il mercato dei prodotti assicurativi commercializzati, distribuiti o venduti, a titolo accessorio, nel o dal territorio della Repubblica.))
@@ -2618,6 +5999,45 @@ L'esercizio dell'attivita' di intermediario di assicurazione ((, anche a titolo 
 
 ((
 
+1.
+                        
+                            
+                                - E' istituito un Organismo per la registrazione degli intermediari di cui all'articolo 109, comma 2, e per lo svolgimento degli adempimenti relativi agli elenchi di cui agli articoli 109, comma 1-bis, e alle sezioni I e II del Titolo IX, Capo II. Con decreto del Presidente della Repubblica emanato ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, su proposta del Ministro dello sviluppo economico, e' disciplinata l'organizzazione dell'Organismo. L'Organismo promuove altresi' la diffusione dei principi di correttezza e diligenza professionale presso gli intermediari di cui all'articolo 109, comma 2. In particolare il regolamento disciplina, nel rispetto dei principi di semplificazione e proporzionalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'istituzione dell'Organismo avente personalita' giuridica di diritto privato, dotato di autonomia statutaria, organizzativa e finanziaria, ordinato in forma di associazione, cui sono trasferite funzioni e competenze in materia di tenuta del registro degli intermediari assicurativi e riassicurativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il procedimento di nomina dei componenti dell'Organismo nel rispetto dei principi di imparzialita' e terzieta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il passaggio all'Organismo di funzioni e competenze attribuite in via transitoria all'IVASS; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' attraverso le quali l'Organismo riscuote e gestisce i contributi dovuti dagli intermediari iscritti nel registro di cui all'articolo 109 del Codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209, ai sensi dell'articolo 336 del medesimo Codice; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la vigilanza dell'IVASS sull'Organismo di cui alla lettera a).
+
 L'Organismo e' sottoposto al controllo dell'IVASS che, con regolamento, disciplina le modalita' di esercizio del controllo, inclusi i flussi informativi e i poteri ispettivi,1 secondo modalita' improntate a criteri di proporzionalita' ed economicita' dell'azione di controllo, con la finalita' di verificare l'adeguatezza delle procedure interne adottate e l'efficacia dell'attivita' svolta in relazione alle funzioni affidate.
 
 L'Organismo e' finanziato mediante una quota del contributo di vigilanza sugli intermediari di assicurazione e riassicurazione di cui all'articolo 336 del Codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209 versato all'IVASS e successivamente trasferito allo stesso Organismo, secondo la misura e le modalita' individuate dal regolamento di cui al comma 1.
@@ -2640,6 +6060,53 @@ L'impresa che opera in qualita' di distributore, individua la persona fisica, ne
 
 Il registro e' agevolmente accessibile e consente la registrazione integrale e diretta, secondo quanto disposto dall'IVASS con regolamento di cui al comma 1. (45)
 
+2.
+                        
+                            
+                                Nel registro sono iscritti in sezioni distinte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli agenti di assicurazione, in qualita' di intermediari che agiscono in nome o per conto di una o piu' imprese di assicurazione o di riassicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i mediatori di assicurazione o di riassicurazione, altresi' denominati broker, in qualita' di intermediari che agiscono su incarico del cliente e senza poteri di rappresentanza di imprese di assicurazione o di riassicurazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i produttori diretti che, anche in via sussidiaria rispetto all'attivita' svolta a titolo principale, esercitano l'intermediazione assicurativa nei rami vita e nei rami infortuni e malattia per conto e sotto la piena responsabilita' di un'impresa di assicurazione e che operano senza obblighi di orario o di risultato esclusivamente per l'impresa medesima; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le banche autorizzate ai sensi dell'articolo 14 del testo unico bancario, gli intermediari finanziari inseriti nell'elenco speciale di cui all'articolo 106 e 114-septies del testo unico bancario, le societa' di intermediazione mobiliare autorizzate ai sensi dell'articolo 19 del testo unico dell'intermediazione finanziaria, la societa' Poste Italiane - Divisione servizi di bancoposta, autorizzata ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 14 marzo 2001, n. 144;(45) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i soggetti addetti all'intermediazione, quali i dipendenti, i collaboratori, i produttori e gli altri incaricati degli intermediari iscritti alle sezioni (( di cui alle lettere a), b), d), e) e
+                                
+                            
+                            
+                                f)
+                                
+                                    )) per l'attivita' di intermediazione svolta al di fuori dei locali dove l'intermediario opera. 
+ f) gli intermediari assicurativi a titolo accessorio, come definiti dall'articolo 1, comma 1, lettera cc-septies). (45) 
+ Non e' consentita la contemporanea iscrizione dello stesso intermediario in piu' sezioni del registro.
+
 Per i siti internet mediante i quali e' possibile l'esercizio dell'attivita' di distribuzione assicurativa, ai sensi dell'articolo 106, e' necessaria l'iscrizione al registro del titolare del dominio. (45)
 
 Nel registro sono altresi' indicati gli intermediari persone fisiche, di cui al comma 2, lettere a) e b), abilitati ma temporaneamente non operanti, per i quali 1'adempimento dell'obbligo di copertura assicurativa di cui all'articolo 110, comma 3, e' sospeso sino all'avvio dell'attivita', che forma oggetto di tempestiva comunicazione all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi.(45)
@@ -2653,6 +6120,31 @@ Nella domanda di iscrizione al registro l'impresa che si avvale di soggetti iscr
 L'IVASS fornisce tempestivamente all'AEAP, secondo le istruzioni da questa impartite, le informazioni rilevanti ai fini dell'alimentazione del registro unico europeo degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi di cui al paragrafo 4, dell'articolo 3 della direttiva 2016/97 e puo' richiedere la modifica dei dati in esso riportati.(45)
 
 Le domande presentate, ai fini dell'iscrizione nel registro di cui al comma 2, sono esaminate nel termine fissato dal regolamento IVASS di cui al comma 1 e comunque non oltre 90 giorni dalla data di presentazione dell'istanza. L'avvenuta iscrizione e' comunicata ai soggetti interessati nelle forme indicate dalle disposizioni di attuazione emanate dall'IVASS.(45)
+
+4-sexies.
+                        
+                            
+                                Ai fini della registrazione degli intermediari, di cui al comma 2, sono trasmessi all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi secondo le modalita' individuate nelle relative disposizioni di attuazione di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i nominativi degli azionisti o dei soci, persone fisiche o giuridiche, che detengono una partecipazione superiore al 10 per cento nell'intermediario e l'importo di tale partecipazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i nominativi delle persone che hanno stretti legami con l'intermediario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indicazioni da cui si evinca che tali partecipazioni o stretti legami non impediscono l'esercizio dei poteri di vigilanza da parte dell'IVASS. (45)
 
 Ogni modifica alle informazioni di cui al comma 4-sexies e' tempestivamente comunicata.(45)
 
@@ -2700,6 +6192,45 @@ L'IVASS con regolamento disciplina le modalita' applicative del presente articol
 
 ## Art. 110. — Requisiti per l'iscrizione delle persone fisiche
 
+1.
+                        
+                            
+                                Per ottenere l'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettere a) o b), la persona fisica deve essere in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godere dei diritti civili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non aver riportato condanna irrevocabile, o sentenza irrevocabile di applicazione della pena di cui all'articolo 444, comma 2, del codice di procedura penale, per delitto contro la pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro l'economia pubblica, l'industria e il commercio, contro il patrimonio per il quale la legge commini la pena della reclusione non inferiore nel minimo ad un anno o nel massimo a tre anni, o per altro delitto non colposo per il quale la legge commini la pena della reclusione non inferiore nel minimo a due anni o nel massimo a cinque anni, oppure condanna irrevocabile comportante l'applicazione della pena accessoria dell'interdizione da pubblici uffici, perpetua o di durata superiore a tre anni, salvo che non sia intervenuta la riabilitazione ((e salvo quanto previsto dall'articolo 166 del codice penale)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non essere stata dichiarata fallita, ne' essere stato presidente, amministratore con delega di poteri, direttore generale, sindaco di societa' od enti che siano stati assoggettati a procedure di fallimento, concordato preventivo o liquidazione coatta amministrativa, almeno per i tre esercizi precedenti all'adozione dei relativi provvedimenti, fermo restando che l'impedimento ha durata fino ai cinque anni successivi all'adozione dei provvedimenti stessi;(45) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non versare nelle situazioni di decadenza, divieto o sospensione previste dall'articolo 10 della legge 31 maggio 1965, n. 575, e successive modificazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non essere iscritto nel ruolo dei periti assicurativi.
+
 Ai fini dell'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettere a) o b), la persona fisica deve inoltre possedere adeguate cognizioni e capacita' professionali sulle materie individuate dall'IVASS con regolamento, che sono accertate, tramite una prova di idoneita', consistente in un esame su tali aree tematiche.L'IVASS, con regolamento, detta anche disposizioni di dettaglio in merito ai requisiti per l'iscrizione al registro, determinando altresi' le modalita' di svolgimento della ((prova di idoneita')). (45)
 
 Salvo quanto previsto all'articolo 109, comma 3, ed all'articolo 112, comma 3, la persona fisica, ai fini dell'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettere a) o b), deve altresi' stipulare una polizza di assicurazione della responsabilita' civile per l'attivita' svolta in forza dell'iscrizione al registro con massimale di almeno un milione duecentocinquantamila euro per ciascun sinistro e di un milione e ottocentocinquantamila euro all'anno globalmente per tutti i sinistri, valida in tutto il territorio dell'Unione europea, per danni arrecati da negligenze ed errori professionali propri ovvero da negligenze, errori professionali ed infedelta' dei dipendenti, dei collaboratori o delle persone del cui operato deve rispondere a norma di legge. (45)
@@ -2732,6 +6263,25 @@ L'IVASS disciplina con regolamento le modalita' applicative del presente articol
 
 ## Art. 112. — Requisiti per l'iscrizione delle societa'
 
+1.
+                        
+                            
+                                Per ottenere l'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettere a), b) ed e), la societa' deve essere in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    avere la sede legale in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non essere assoggettata a procedure di fallimento, concordato preventivo, amministrazione straordinaria o liquidazione coatta amministrativa; 
+ e) non essere sottoposta ai divieti e decadenze previste dall'articolo 10, comma 4, della legge 31 maggio 1965, n. 575, e successive modificazioni.
+
 Ai fini dell'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettere a), b) ed e), la societa' deve inoltre avere affidato la responsabilita' dell'attivita' di distribuzione ad almeno una persona fisica iscritta nella sezione del registro al quale la medesima chiede l'iscrizione. Nelle societa' iscritte nella sezione del registro di cui all'articolo 109, comma 2, lettera b), il rappresentante legale e, ove nominati, l'amministratore delegato e il direttore generale devono essere iscritti nella medesima sezione del registro. (45)
 
 Ai fini dell'iscrizione, la societa' deve altresi' avere stipulato la polizza di assicurazione della responsabilita' civile professionale di cui all'articolo 110, comma 3, per l'attivita' di distribuzione svolta dalla societa', dalle persone fisiche di cui al comma 2, nonche' per i danni arrecati da negligenze, errori professionali ed infedelta' dei dipendenti, dei collaboratori o delle persone del cui operato deve rispondere a norma di legge. (45)
@@ -2749,6 +6299,59 @@ E' altresi' necessario il possesso dei requisiti di cui all'articolo 111, commi 
 
 ## Art. 113. — Cancellazione
 
+1.
+                        
+                            
+                                L'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi provvede alla cancellazione dell'intermediario dalla relativa sezione del registro in caso di: (45) 
+ 
+                            
+                            
+                                a)
+                                
+                                    radiazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rinunzia all'iscrizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mancato esercizio dell'attivita', senza giustificato motivo, per oltre tre anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    perdita di almeno uno dei requisiti di cui agli articoli 110, comma 1, 111, commi 1 e 3, e 112; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mancato versamento del contributo di vigilanza di cui all'articolo 336, nonostante apposita diffida disposta dall'IVASS; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    limitatamente agli intermediari iscritti alle sezioni del registro di cui all'articolo 109, comma 2, lettere a), b) ed f), perdita di efficacia delle garanzie assicurative di cui agli articoli 110, comma 3, e 112, comma 3; (45) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    limitatamente agli intermediari iscritti nella sezione del registro di cui all'articolo 109, comma 2, lettera b), mancato versamento del contributo al Fondo di garanzia previsto dall'articolo 115.
+
 L'istanza di cancellazione, nel caso di cui al comma 1, lettere b) e c), relativa ai produttori diretti dell'impresa o ai soggetti iscritti alla sezione del registro di cui all'articolo 109, comma 2, lettera e), e' presentata dall'impresa o, rispettivamente, dall'intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettere a), b) e d). Nel caso di interruzione del rapporto con il produttore diretto ovvero con il soggetto iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettera e), l'impresa o, rispettivamente, l'intermediario sono tenuti a darne comunicazione all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi. L'intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettera a), comunica all'impresa preponente ogni variazione concernente i soggetti iscritti ai sensi dell'articolo 109, comma 2, lettera e). (45)
 
 COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2020, N. 187.
@@ -2761,6 +6364,24 @@ COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2020, N. 187.
 ## Art. 114. — Reiscrizione
 
 ((
+
+1.
+                        
+                            
+                                L'intermediario, che sia stato cancellato dal registro a seguito del provvedimento di radiazione, puo' richiedere di esservi iscritto nuovamente, purche' siano decorsi almeno cinque anni dalla cancellazione e sussistano i requisiti di cui, rispettivamente, agli articoli 110, 111 e 112. In caso di cancellazione derivante da condanna irrevocabile o da fallimento, le persone fisiche possono essere nuovamente iscritte al registro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di cancellazione derivante da condanna irrevocabile, una volta ottenuta la riabilitazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di cancellazione derivante da fallimento, quando siano venute meno le incapacita' personali derivanti dalla dichiarazione di fallimento.
 
 ))
 
@@ -2818,6 +6439,38 @@ Gli intermediari di cui al comma 1 laddove, per l'esercizio dell'attivita' di in
 
 ((
 
+1.
+                        
+                            
+                                L'intermediario di cui all'articolo 116, comma 1, che intende effettuare per la prima volta attivita' in regime di libera prestazione di servizi in altro Stato membro, trasmette all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome o ragione sociale dell'intermediario, l'indirizzo o la sede legale e i dati relativi all'iscrizione nel registro di cui all'articolo 109; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo Stato membro o gli Stati membri in cui intende operare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la categoria di intermediario alla quale appartiene e, eventualmente, il nome delle imprese di assicurazione o di riassicurazione che rappresenta, nonche' i dati identificativi dei soggetti iscritti alla sezione e) del Registro della cui collaborazione intende avvalersi per l'esercizio dell'attivita' di intermediazione in altro Stato membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ove applicabile, i rami assicurativi in cui intende operare.
+
 Entro trenta giorni dalla ricezione delle informazioni di cui al comma 1, l'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi ne fornisce comunicazione all'autorita' competente dello Stato membro ospitante.
 L'intermediario puo' iniziare ad esercitare l'attivita' nello Stato membro ospitante dal momento in cui l'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi lo informa dell'avvenuta ricezione da parte dell'autorita' competente dello Stato membro ospitante delle informazioni trasmesse ai sensi del comma 1. L'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi da' notizia di tale operativita' nel registro.
 
@@ -2835,6 +6488,52 @@ L'intermediario e' tenuto a rispettare le disposizioni di interesse generale app
 ## Art. 116-ter. — (( (Attivita' in regime di stabilimento in un altro Stato membro). ))
 
 ((
+
+1.
+                        
+                            
+                                L'intermediario di cui all'articolo 116 che intende effettuare per la prima volta attivita' in regime di stabilimento in un altro Stato membro, attraverso una succursale o una presenza permanente, ne fornisce comunicazione all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi, trasmettendo le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome o ragione sociale dell'intermediario, l'indirizzo o la sede legale e i dati relativi all'iscrizione nel registro di cui all'articolo 109 dell'intermediario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo Stato membro o gli Stati membri in cui intende operare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la categoria di intermediario alla quale appartiene ed eventualmente, il nome delle imprese di assicurazione o di riassicurazione che rappresenta, nonche' i dati identificativi dei soggetti iscritti alla sezione e) del Registro della cui collaborazione intende avvalersi per l'esercizio dell'attivita' di intermediazione in altro Stato membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ove applicabile, i rami assicurativi in cui intende operare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indirizzo nello Stato membro ospitante della sede dello stabilimento presso la quale e' possibile ottenere documenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il nominativo del soggetto responsabile della gestione della succursale o presenza permanente.
 
 Fatto salvo il caso in cui l'IVASS abbia motivo di dubitare dell'adeguatezza della struttura organizzativa o della situazione finanziaria dell'intermediario in relazione all'attivita' di distribuzione prospettata, entro trenta giorni dalla ricezione della comunicazione di cui al comma 1, l'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi trasmette le informazioni di cui al comma 1 all'autorita' competente dello Stato membro ospitante.
 
@@ -3049,6 +6748,24 @@ Ai fini di cui al comma 4, il distributore non adotta disposizioni in materia di
 
 ))
 
+6.
+                        
+                            
+                                Fermo restando quanto disposto dal comma 1, i distributori di prodotti assicurativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantengono e applicano presidi organizzativi e amministrativi efficaci al fine di adottare tutte le misure ragionevoli volte ad evitare che i conflitti di interesse di cui alla lettera b) incidano negativamente sugli interessi dei contraenti. I presidi organizzativi sono proporzionati alle attivita' svolte, ai prodotti assicurativi venduti e al tipo di distributore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adottano misure idonee ad identificare i conflitti di interesse che potrebbero insorgere tra loro, inclusi i dirigenti e i dipendenti, o qualsiasi persona direttamente o indirettamente controllata, e i loro clienti o tra due clienti al momento della prestazione di qualsiasi attivita' di distribuzione assicurativa.
+
 Quando i presidi adottati ai sensi del comma 6, lettera a), non sono sufficienti per assicurare, con ragionevole certezza, che sia evitato il rischio di nuocere agli interessi del contraente, ((il distributore)) informa chiaramente il contraente stesso, prima della conclusione di un contratto di assicurazione, della natura o della fonte di tale conflitto di interesse, in occasione dell'informativa fornita ai sensi dell'articolo 120-ter.
 
 I distributori possono incassare i premi esclusivamente con mezzi di pagamento che assicurano la tracciabilita' dell'operazione secondo soglie e per tipologie di contratti individuati dall'IVASS con regolamento.
@@ -3065,6 +6782,24 @@ L'IVASS disciplina con regolamento le modalita' applicative del presente articol
 ## Art. 119-ter. — (( (Consulenza e norme per le vendite senza consulenza).))
 
 ((
+
+1.
+                        
+                            
+                                Prima della conclusione di un contratto di assicurazione, il distributore di prodotti assicurativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisisce dal contraente ogni informazione utile a identificare le richieste ed esigenze del contraente medesimo, al fine di valutare l'adeguatezza del contratto offerto; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce allo stesso informazioni oggettive sul prodotto assicurativo in una forma comprensibile al fine di consentirgli di prendere una decisione informata.
 
 Qualsiasi contratto proposto deve essere coerente con le richieste e le esigenze assicurative del contraente.
 
@@ -3085,6 +6820,70 @@ Quando un intermediario assicurativo fornisce consulenze fondate su un'analisi i
 
 ((
 
+1.
+                        
+                            
+                                Gli intermediari assicurativi iscritti al registro di cui all'articolo 109, comma 2, prima della conclusione del contratto e in caso di successive modifiche di rilievo o di rinnovo, forniscono al contraente le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome, cognome o denominazione sociale, indirizzo della sede dell'attivita' e lo status di intermediario assicurativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se fornisce sui prodotti assicurativi offerti la consulenza di cui all'articolo 119-ter, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure di cui all'articolo 7 e relative disposizioni di attuazione che consentono ai contraenti e agli altri interessati di presentare reclamo nei confronti degli intermediari assicurativi nonche' le procedure di risoluzione stragiudiziale delle controversie di cui all'articolo 187-ter e relative disposizioni di attuazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sezione del registro in cui e' iscritto e i mezzi esperibili per verificare che sia effettivamente registrato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se l'intermediario agisce su incarico del cliente o se agisce in nome e per conto di una o piu' imprese di assicurazione.
+
+2.
+                        
+                            
+                                Le imprese di assicurazione prima della conclusione del contratto e in caso di successive modifiche di rilievo o di rinnovo, forniscono al contraente le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    denominazione sociale, indirizzo della sede legale e lo status di impresa di assicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se fornisce sui prodotti assicurativi offerti la consulenza di cui all'articolo 119-ter, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure di cui all'articolo 7 e relative disposizioni di attuazione che consentono ai contraenti e agli altri interessati di presentare reclamo nei confronti delle imprese di assicurazione nonche' le procedure di risoluzione stragiudiziale delle controversie di cui all'articolo 187-ter e relative disposizioni di attuazione.
+
 Il distributore consegna al contraente, prima della conclusione del contratto e in caso di successive modifiche di rilievo o di rinnovo, la documentazione di cui all'articolo 185.
 
 Agli intermediari a titolo accessorio si applicano le disposizioni di cui al comma 1, lettere a), c) e d).
@@ -3103,6 +6902,38 @@ Sono esclusi dagli obblighi informativi di cui al presente articolo e agli artic
 ## Art. 120-bis. — (( (Trasparenza sulle remunerazioni).))
 
 ((
+
+1.
+                        
+                            
+                                Fatto salvo quanto disposto dall'articolo 131 in materia di trasparenza sui compensi in relazione alla distribuzione di contratti di r.c. auto, l'intermediario assicurativo e l'intermediario assicurativo a titolo accessorio comunicano al contraente, prima della conclusione del contratto, la natura del compenso ricevuto in relazione al contratto distribuito, precisando se il compenso percepito consiste in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un onorario corrisposto direttamente dal cliente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una commissione inclusa nel premio assicurativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    altri tipi di compensi, compresi i benefici economici di qualsiasi tipo offerti o ricevuti in virtu' dell'intermediazione effettuata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una combinazione dei compensi di cui alle lettere a), b) e c).
 
 Nel caso di cui al precedente comma 1, lettera a), l'intermediario assicurativo e l'intermediario assicurativo a titolo accessorio comunicano al contraente anche l'importo del compenso.
 Qualora cio' non sia possibile, forniscono al contraente informazioni relative al metodo per calcolare il compenso stesso.
@@ -3142,7 +6973,107 @@ e) se distribuisce determinati prodotti in assenza di obblighi contrattuali con 
 
 ((
 
+1.
+                        
+                            
+                                Tutte le informazioni di cui agli articoli 119-ter, 120, 120-bis, 120-ter, 121-sexies, 185, 185-bis e 185-ter sono comunicate ai contraenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su supporto cartaceo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in modo corretto, esauriente e facilmente comprensibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in lingua italiana o in altra lingua concordata dalle parti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a titolo gratuito.
+
+2.
+                        
+                            
+                                In deroga a quanto previsto dal comma 1, lettera a), le informazioni di cui al comma 1 possono essere fornite al contraente con uno dei seguenti mezzi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un supporto durevole non cartaceo, laddove siano soddisfatte le condizioni di cui al comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un sito Internet, laddove siano soddisfatte le condizioni di cui al comma 5.
+
 Se le informazioni di cui al comma 1 sono fornite per mezzo di un supporto durevole non cartaceo o tramite un sito Internet, al cliente viene gratuitamente fornita, su richiesta, una copia in formato cartaceo.
+
+4.
+                        
+                            
+                                Le informazioni di cui al comma 1 possono essere fornite tramite un supporto durevole non cartaceo laddove siano soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'utilizzo di un supporto durevole e' appropriato rispetto alle modalita' di distribuzione del prodotto assicurativo; e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contraente, potendo scegliere tra le informazioni in formato cartaceo e su supporto durevole, ha scelto quest'ultimo.
+
+5.
+                        
+                            
+                                Le informazioni di cui al comma 1 possono essere fornite tramite sito Internet se sono indirizzate direttamente al contraente o se sussistono i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la fornitura delle informazioni e' appropriata rispetto alle modalita' di distribuzione del prodotto assicurativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contraente ha acconsentito alla fornitura delle informazioni tramite sito Internet; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il contraente e' stato informato mediante comunicazione telematica dell'indirizzo del sito Internet e del punto del sito Internet in cui possono essere reperite le informazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' garantito che le informazioni rimangano accessibili sul sito Internet per tutta la durata del contratto.
 
 Ai fini dei commi 4 e 5, la fornitura di informazioni tramite un supporto durevole non cartaceo o per mezzo di un sito Internet e' ritenuta appropriata rispetto alle modalita' di distribuzione del prodotto assicurativo se il contraente ha regolarmente accesso ad Internet, ossia nel caso in cui fornisca un indirizzo di posta elettronica ai fini della distribuzione del prodotto.
 
@@ -3184,6 +7115,52 @@ Sono fatte salve le previsioni del Codice del Consumo di cui al decreto legislat
  Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
 ## Art. 121. — (Informazione precontrattuale in caso di vendita a distanza)
+
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dagli articoli 185, 185-bis e 185-ter, in caso di vendita a distanza, il distributore rende note al contraente almeno le seguenti informazioni preliminari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'identita' del distributore e il fine della chiamata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'identita' della persona in contatto con il contraente ed il suo rapporto con il distributore assicurativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una descrizione delle principali caratteristiche del servizio o prodotto offerto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il prezzo totale, comprese le imposte, che il contraente dovra' corrispondere; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'informativa relativa al compenso ricevuto in relazione al contratto distribuito, secondo quanto previsto dall'articolo 120-bis; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le ulteriori informazioni di cui agli articoli ((59-quater, 59-quinquies e 59-septies)) del decreto legislativo 6 settembre 2005, n. 206. ((82))
 
 In ogni caso l'informazione e' fornita al contraente prima della conclusione del contratto di assicurazione. La stessa puo' essere fornita verbalmente solo a su espressa richiesta del contraente o qualora sia necessaria una copertura immediata del rischio. In caso di collocamento di un contratto a distanza mediante telefonia vocale, se il contraente lo richiede espressamente, gli obblighi di trasmissione della documentazione sono adempiuti, subito dopo la conclusione del contratto a distanza e comunque non oltre i cinque giorni successivi; in mancanza della predetta richiesta gli obblighi di trasmissione della documentazione sono adempiuti prima della conclusione del contratto di assicurazione. Anche se il contraente ha scelto di ottenere precedentemente le informazioni tramite un supporto durevole non cartaceo in conformita' a quanto previsto dall'articolo 120-quater, comma 4, l'informazione e' fornita al contraente dal distributore di prodotti assicurativi a norma dell'articolo 120-quater, commi 1 e 2, subito dopo la conclusione del contratto di assicurazione.
 
@@ -3274,6 +7251,31 @@ b) sufficientemente dettagliate, in considerazione delle caratteristiche dei con
 
 ((
 
+1.
+                        
+                            
+                                Fatti salvi gli articoli 120, commi 1 e 2, e 120-bis, commi 1 e 2, gli intermediari assicurativi e le imprese di assicurazione forniscono ai contraenti, prima della conclusione di un contratto, informazioni appropriate in relazione alla distribuzione di prodotti di investimento assicurativi e in relazione a tutti i costi e agli oneri connessi. Tali informazioni comprendono almeno i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di prestazione di consulenza, la comunicazione se l'intermediario assicurativo o l'impresa di assicurazione fornira' al contraente una valutazione periodica dell'adeguatezza dei prodotti di investimento assicurativi consigliati al contraente medesimo, come indicato all'articolo 121-septies; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per quanto riguarda le informazioni sui prodotti di investimento assicurativi e sulle strategie di investimento proposte, opportune indicazioni e avvertenze sui rischi associati ai prodotti di investimento assicurativi o a determinate strategie di investimento proposte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per quanto riguarda le informazioni su tutti i costi e gli oneri da comunicare al contraente, le informazioni relative alla distribuzione dei prodotti di investimento assicurativi, ove effettuata, il costo del prodotto di investimento assicurativo consigliato o offerto al contraente e le modalita' di pagamento da parte di quest'ultimo, inclusi i pagamenti eseguiti a favore di o tramite soggetti terzi.
+
 Le informazioni su tutti i costi e gli oneri, compresi quelli connessi alla distribuzione del prodotto di investimento assicurativo non causati dal verificarsi di un rischio di mercato sottostante, sono comunicate in forma aggregata per permettere al contraente di conoscere il costo totale e il suo effetto complessivo sul rendimento dell'investimento. Su richiesta del contraente, i costi e gli oneri sono comunicati in forma analitica. Se necessario, tali informazioni sono fornite al contraente con periodicita' regolare, e comunque almeno annuale, per tutto il periodo dell'investimento.
 
 Le informazioni di cui ai commi 1 e 2 sono fornite in una forma comprensibile in modo che i contraenti possano ragionevolmente comprendere la natura del prodotto di investimento assicurativo che viene loro proposto nonche' i rischi ad esso connessi e, di conseguenza, possano assumere decisioni consapevoli in materia di investimenti. Le informazioni di cui ai commi 1 e 2 sono fornite con modalita' uniformi, individuate dall'IVASS, sentita la CONSOB, con il regolamento di cui all'articolo 121-quater, in modo che le medesime informazioni risultino chiare e comprensibili.
@@ -3310,6 +7312,24 @@ L'intermediario assicurativo o l'impresa di assicurazione mantiene evidenza dei 
 L'intermediario assicurativo o l'impresa di assicurazione fornisce ai contraenti, su un supporto durevole, adeguate relazioni sui servizi prestati, che includono comunicazioni periodiche, tenendo conto della tipologia e della complessita' dei prodotti di investimento assicurativi e della natura del servizio prestato e comprendono, se del caso, i costi delle operazioni e dei servizi prestati per conto dei contraenti.
 
 Quando fornisce consulenza in merito al prodotto di investimento assicurativo, l'intermediario assicurativo o l'impresa di assicurazione fornisce al contraente, su un supporto durevole, prima della conclusione del contratto, una dichiarazione di adeguatezza in cui sia indicata la fornitura della consulenza e in che modo essa risponda alle preferenze, agli obiettivi e ad altre caratteristiche del contraente. Si applicano le disposizioni di cui all'articolo 120-quater, commi da 1 a 4.
+
+11.
+                        
+                            
+                                Se il contratto e' concluso utilizzando un mezzo di comunicazione a distanza che impedisce la consegna preventiva della dichiarazione di adeguatezza, l'intermediario assicurativo o l'impresa di assicurazione puo' fornire la dichiarazione di adeguatezza su un supporto durevole subito dopo la sottoscrizione del contratto, a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contraente abbia accettato di ricevere la dichiarazione di adeguatezza subito dopo la conclusione del contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'intermediario assicurativo o l'impresa di assicurazione abbia dato al contraente la possibilita' di ritardare la conclusione del contratto al fine di ricevere la dichiarazione di adeguatezza prima della conclusione del contratto.
 
 Se l'intermediario assicurativo o l'impresa di assicurazione ha informato il contraente che effettuera' periodicamente la valutazione di adeguatezza, la relazione periodica contiene una dichiarazione aggiornata che spieghi in che modo il prodotto di investimento assicurativo corrisponde alle preferenze, agli obiettivi e alle altre caratteristiche del contraente stesso.
 
@@ -3399,6 +7419,49 @@ L'assicurazione ((stipulata dall'organizzatore)) copre la responsabilita' dell'o
 
 Per i veicoli e i natanti soggetti all'obbligo di assicurazione ed immatricolati o registrati in Stati esteri nonche' per i motori amovibili di cui all'articolo 123, comma 3, muniti di certificato di uso straniero o di altro documento equivalente emesso all'estero, che circolino temporaneamente nel territorio o nelle acque territoriali della Repubblica, deve essere assolto, per la durata della permanenza in Italia, l'obbligo di assicurazione.
 
+2.
+                        
+                            
+                                Per i natanti l'obbligo di assicurazione si considera assolto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con la stipula di un contratto di assicurazione secondo quanto previsto con regolamento adottato dal ((Ministro dello sviluppo economico)), su proposta dell'((IVASS)), ovvero 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando il conducente sia in possesso di certificato internazionale di assicurazione emesso dall'Ufficio nazionale di assicurazione estero ed accettato dall'Ufficio centrale italiano.
+
+3.
+                        
+                            
+                                Per i veicoli a motore muniti di targa di immatricolazione rilasciata da uno Stato terzo l'obbligo di assicurazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' assolto mediante contratto di assicurazione "frontiera", come disciplinato dal regolamento previsto all'articolo 126, comma 2, lettera a), concernente la responsabilita' civile derivante dalla circolazione del veicolo nel territorio della Repubblica e degli altri Stati membri, alle condizioni e fino ai limiti di somma stabiliti dalla legislazione in vigore in ciascuno di essi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    si considera assolto quando l'Ufficio centrale italiano si sia reso garante per il risarcimento dei danni cagionati in Italia dalla circolazione dei medesimi veicoli e quando con atto dell'Unione europea sia stato rimosso l'obbligo negli Stati membri di controllare l'assicurazione di responsabilita' civile per i veicoli muniti di targa di immatricolazione rilasciata dallo Stato terzo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si considera assolto, quando il conducente sia in possesso di una carta verde emessa dall'Ufficio nazionale di assicurazione estero ed accettata dall'Ufficio centrale italiano.
+
 Per i veicoli a motore muniti di targa di immatricolazione rilasciata da uno Stato membro diverso dalla Repubblica italiana, l'obbligo di assicurazione si considera assolto quando l'Ufficio centrale italiano si sia reso garante per il risarcimento dei danni cagionati dalla circolazione in Italia di detti veicoli, sulla base di accordi stipulati con i corrispondenti uffici nazionali di assicurazione e l'Unione europea abbia riconosciuto tali accordi.
 
 Nell'ipotesi di cui al comma 3, lettera c), l'Ufficio centrale italiano provvede alla liquidazione dei danni, garantendone il pagamento agli aventi diritto, nei limiti dei massimali minimi di legge o, se maggiori, di quelli eventualmente previsti dalla polizza di assicurazione alla quale si riferisce la carta verde. Nelle ipotesi di cui al comma 3, lettera b), ed in quelle di cui al comma 4, l'Ufficio centrale italiano provvede alla liquidazione dei danni cagionati in Italia, garantendone il pagamento agli aventi diritto nei limiti dei massimali minimi di legge o, se maggiori, di quelli eventualmente previsti dalla polizza di assicurazione.
@@ -3412,6 +7475,31 @@ Le disposizioni di cui al comma 3, lettera b), ed al comma 4 non si applicano pe
 ## Art. 126. — Ufficio centrale italiano
 
 L'Ufficio centrale italiano e' abilitato all'esercizio delle funzioni di Ufficio nazionale di assicurazione e allo svolgimento degli altri compiti stabiliti dall'ordinamento comunitario e dal presente codice a seguito di riconoscimento del Ministro dello sviluppo economico.
+
+2.
+                        
+                            
+                                L'Ufficio centrale italiano, oltre ai compiti di cui all'articolo 125, svolge le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    stipula e gestisce, in nome e per conto delle imprese aderenti, l'assicurazione frontiera disciplinata nel regolamento adottato, su proposta dell'IVASS, dal Ministro dello sviluppo economico e provvede alla liquidazione e al pagamento degli indennizzi dovuti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assume, nelle ipotesi di cui al comma 2, lettera b), comma 3, lettere b) e c), ed al comma 4 dell'articolo 125, ai fini del risarcimento dei danni cagionati dalla circolazione in Italia dei veicoli a motore e natanti, la qualita' di domiciliatario dell'assicurato, del responsabile civile e della loro impresa di assicurazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' legittimato a stare in giudizio, nelle ipotesi di cui al comma 2, lettera b), al comma 3 ed al comma 4 dell'articolo 125, in nome e per conto delle imprese aderenti, nelle azioni di risarcimento che i danneggiati dalla circolazione in Italia di veicoli a motore e natanti immatricolati o registrati all'estero possono esercitare direttamente nei suoi confronti secondo quanto previsto agli articoli 145, comma 1, 146 e 147. Si applicano anche nei confronti dell'Ufficio centrale italiano le disposizioni che regolano l'azione diretta contro l'impresa di assicurazione del responsabile civile secondo quanto previsto dall'articolo 144.
 
 ((3. Ai fini della proposizione dell'azione diretta di risarcimento nei confronti dell'Ufficio centrale italiano il termine per comparire di cui all'articolo 163-bis, primo comma, del codice di procedura civile e' aumentato a duecentodieci giorni e il termine previsto dall'articolo 281-undecies, secondo comma, terzo periodo del codice di procedura civile e' aumentato a cento giorni.))
 
@@ -3447,6 +7535,31 @@ L'((IVASS)), con regolamento, stabilisce le modalita' per il rilascio, nonche' l
 
 ((
 
+1.
+                        
+                            
+                                Per l'adempimento dell'obbligo di assicurazione per la responsabilita' civile dei veicoli a motore e dei natanti, il contratto e' stipulato per somme non inferiori ai seguenti importi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di danni alle persone un importo di euro 6.450.000 per sinistro, indipendentemente dal numero delle vittime; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di danno alle cose, euro 1.300.000 per sinistro, indipendentemente dal numero delle vittime; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    per i veicoli a motore adibiti al trasporto di persone classificati nelle categorie M2 e M3 ai sensi dell'articolo 47 del codice della strada di cui al decreto legislativo 30 aprile 1992, n. 285, un importo minimo di copertura pari a euro 30.000.000 per sinistro per i danni alle persone, indipendentemente dal numero delle vittime, e a euro 2.000.000 per sinistro per i danni alle cose, indipendentemente dal numero dei danneggiati.
+
 2. Ogni cinque anni dalla data del 22 dicembre 2021, gli importi di cui al comma 1, lettere a) e b), sono indicizzati automaticamente in linea con l'indice dei prezzi al consumo armonizzato (IPCA) stabilito a norma del regolamento (UE) 2016/792 del Parlamento europeo e del Consiglio, dell'11 maggio 2016, relativo agli indici dei prezzi al consumo armonizzati e all'indice dei prezzi delle abitazioni, e recante abrogazione del regolamento (CE) n. 2494/95 del Consiglio, per effetto degli atti delegati adottati dalla Commissione europea entro sei mesi dalla fine di ciascun periodo di cinque anni.))
 
 ((70))
@@ -3475,6 +7588,31 @@ L'((IVASS)), con regolamento, stabilisce le modalita' per il rilascio, nonche' l
 ## Art. 129. — Soggetti esclusi dall'assicurazione
 
 Non e' considerato terzo e non ha diritto ai benefici derivanti dal contratto di assicurazione obbligatoria il solo conducente del veicolo responsabile del sinistro.
+
+2.
+                        
+                            
+                                Ferme restando la disposizione di cui all'articolo 122, comma 2, e quella di cui al comma 1 del presente articolo, non sono inoltre considerati terzi e non hanno diritto ai benefici derivanti dai contratti di assicurazione obbligatoria, limitatamente ai danni alle cose: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti di cui all'articolo 2054, terzo comma, del codice civile ed all'articolo 91, comma 2, del codice della strada; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il coniuge non legalmente separato, il convivente more uxorio, gli ascendenti e i discendenti legittimi, naturali o adottivi del soggetto di cui al comma 1 e di quelli di cui alla lettera a), nonche' gli affiliati e gli altri parenti e affini fino al terzo grado di tutti i predetti soggetti, quando convivano con questi o siano a loro carico in quanto l'assicurato provvede abitualmente al loro mantenimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ove l'assicurato sia una societa', i soci a responsabilita' illimitata e le persone che si trovano con questi in uno dei rapporti indicati alla lettera b).
 
 ## - - Capo II Esercizio dell'assicurazione
 
@@ -3564,11 +7702,54 @@ Il contratto stipulato senza la dichiarazione del cliente di aver ricevuto, ove 
 
 ## Art. 132-ter. — (Sconti obbligatori)
 
+1.
+                        
+                            
+                                In presenza di almeno una delle seguenti condizioni, da verificare in precedenza o contestualmente alla stipulazione del contratto o dei suoi rinnovi, le imprese di assicurazione praticano uno sconto determinato dall'impresa nei limiti stabiliti dal comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui, su proposta dell'impresa di assicurazione, i soggetti che presentano proposte per l'assicurazione obbligatoria accettano di sottoporre il veicolo a ispezione da eseguire a spese dell'impresa di assicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui vengono installati, su proposta dell'impresa di assicurazione, o sono gia' presenti e portabili meccanismi elettronici che registrano l'attivita' del veicolo, denominati "scatola nera" o equivalenti, ovvero ulteriori dispositivi, individuati, per i soli requisiti funzionali minimi necessari a garantire l'utilizzo dei dati raccolti, in particolare, ai fini tariffari e della determinazione della responsabilita' in occasione dei sinistri, con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dello sviluppo economico, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso in cui vengono installati, su proposta dell'impresa di assicurazione, o sono gia' presenti, meccanismi elettronici che impediscono l'avvio del motore qualora sia riscontrato nel guidatore un tasso alcolemico superiore ai limiti stabiliti dalla legge per la conduzione di veicoli a motore.
+
 L'IVASS, con proprio regolamento, definisce criteri e modalita' nell'ambito dei processi di costruzione della tariffa e di ricalcolo del premio, per la determinazione da parte delle imprese di assicurazione dello sconto di cui al comma 1. Le imprese di assicurazione, in attuazione dei criteri stabiliti dall'IVASS, definiscono uno sconto significativo da applicare alla clientela a fronte della riduzione del rischio connesso al ricorrere di una o piu' delle condizioni di cui al comma 1 ed evidenziano in sede di preventivo e nel contratto, in caso di accettazione da parte del contraente, lo sconto praticato per ciascuna delle condizioni di cui al comma 1, in valore assoluto e in percentuale, rispetto al prezzo della polizza altrimenti applicato.
 
 L'IVASS identifica, sulla scorta di dati in proprio possesso e di indagini statistiche, la lista delle province a maggiore tasso di sinistrosita' e con premio medio piu' elevato. Tale lista e' aggiornata con cadenza almeno biennale.
 
 Con il regolamento di cui al comma 2, l'IVASS, tenuto conto dei premi piu' elevati applicati nelle province individuate ai sensi del comma 3 e di quelli praticati nelle altre province a piu' bassa sinistrosita' ad assicurati con le medesime caratteristiche soggettive e collocati nella medesima classe di merito, definisce altresi' i criteri e le modalita' finalizzati alla determinazione da parte delle imprese di assicurazione di uno sconto, aggiuntivo e significativo rispetto a quello praticato ai sensi del comma 2, da applicare ai soggetti residenti nelle province di cui al comma 3, che non abbiano provocato sinistri con responsabilita' esclusiva o principale o paritaria negli ultimi quattro anni sulla base dell'evidenza dell'attestato di rischio, e che abbiano installato o installino, a seguito della stipula del contratto, il dispositivo di cui al comma 1, lettera b).
+
+5.
+                        
+                            
+                                In particolare, il regolamento di cui al comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definisce i parametri oggettivi, tra cui la frequenza dei sinistri e il relativo costo medio, per il calcolo dello sconto aggiuntivo di cui al comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevede, nell'ambito delle modalita' di cui al comma 4, che non possano sussistere differenziali di premio che non siano giustificati da specifiche evidenze sui differenziali di rischio.
 
 Le attivita' di cui ai commi precedenti sono svolte nell'ambito delle risorse umane e strumentali disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri per la finanza pubblica.
 
@@ -3676,6 +7857,71 @@ In tutti gli altri casi il reddito che occorre considerare ai fini del risarcime
 
 ## Art. 138. — (Danno non patrimoniale per lesioni di non lieve entita')
 
+1.
+                        
+                            
+                                Al fine di garantire il diritto delle vittime dei sinistri a un pieno risarcimento del danno non patrimoniale effettivamente subito e di razionalizzare i costi gravanti sul sistema assicurativo e sui consumatori, ((con due distinti decreti)) del Presidente della Repubblica, da adottare ((entro il 1° maggio 2022)), previa deliberazione del Consiglio dei ministri, ((il primo, di cui alla lettera a), su proposta del Ministro della salute, di concerto con il Ministro dello sviluppo economico, con il Ministro del lavoro e delle politiche sociali e con il Ministro della giustizia, e il secondo, di cui alla lettera b), su proposta del Ministro dello sviluppo economico, di concerto con il Ministro della giustizia, sentito l'IVASS)), si provvede alla predisposizione di ((specifiche tabelle uniche per)) tutto il territorio della Repubblica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle menomazioni all'integrita' psico-fisica comprese tra dieci e cento punti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del valore pecuniario da attribuire a ogni singolo punto di invalidita' comprensivo dei coefficienti di variazione corrispondenti all'eta' del soggetto leso.
+
+2.
+                        
+                            
+                                
+                                    ((Le tabelle uniche nazionali di cui al comma 1 sono redatte)), tenuto conto dei criteri di valutazione del danno non patrimoniale ritenuti congrui dalla consolidata giurisprudenza di legittimita', secondo i seguenti principi e criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli effetti ((delle tabelle)), per danno biologico si intende la lesione temporanea o permanente all'integrita' psico-fisica della persona, suscettibile di accertamento medico-legale, che esplica un'incidenza negativa sulle attivita' quotidiane e sugli aspetti dinamico-relazionali della vita del danneggiato, indipendentemente da eventuali ripercussioni sulla sua capacita' di produrre reddito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tabella dei valori economici si fonda sul sistema a punto variabile in funzione dell'eta' e del grado di invalidita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il valore economico del punto e' funzione crescente della percentuale di invalidita' e l'incidenza della menomazione sugli aspetti dinamico-relazionali della vita del danneggiato cresce in modo piu' che proporzionale rispetto all'aumento percentuale assegnato ai postumi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il valore economico del punto e' funzione decrescente dell'eta' del soggetto, sulla base delle tavole di mortalita' elaborate dall'ISTAT, al tasso di rivalutazione pari all'interesse legale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al fine di considerare la componente del danno morale da lesione all'integrita' fisica, la quota corrispondente al danno biologico stabilita in applicazione dei criteri di cui alle lettere da a) a d) e' incrementata in via percentuale e progressiva per punto, individuando la percentuale di aumento di tali valori per la personalizzazione complessiva della liquidazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il danno biologico temporaneo inferiore al 100 per cento e' determinato in misura corrispondente alla percentuale di inabilita' riconosciuta per ciascun giorno.
+
 Qualora la menomazione accertata incida in maniera rilevante su specifici aspetti dinamico-relazionali personali documentati e obiettivamente accertati, l'ammontare del risarcimento del danno, calcolato secondo quanto previsto (( dalla tabella unica nazionale di cui al comma 1, lettera b) )), puo' essere aumentato dal giudice, con equo e motivato apprezzamento delle condizioni soggettive del danneggiato, fino al 30 per cento.
 
 L'ammontare complessivo del risarcimento riconosciuto ai sensi del presente articolo e' esaustivo del risarcimento del danno conseguente alle lesioni fisiche.
@@ -3689,6 +7935,25 @@ Gli importi stabiliti nella tabella unica nazionale ((di cui al comma 1, lettera
  La L. 4 agosto 2017, n. 124 ha disposto (con l'art. 1, comma 18) che "La tabella unica nazionale predisposta con il decreto del Presidente della Repubblica di cui all'articolo 138, comma 1, del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, come sostituito dal comma 17 del presente articolo, si applica ai sinistri e agli eventi verificatisi successivamente alla data di entrata in vigore del medesimo decreto del Presidente della Repubblica".
 
 ## Art. 139. — (Danno non patrimoniale per lesioni di lieve entita')
+
+1.
+                        
+                            
+                                Il risarcimento del danno biologico per lesioni di lieve entita', derivanti da sinistri conseguenti alla circolazione di veicoli a motore e di natanti, e' effettuato secondo i criteri e le misure seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a titolo di danno biologico permanente, e' liquidato per i postumi da lesioni pari o inferiori al 9 per cento un importo crescente in misura piu' che proporzionale in relazione a ogni punto percentuale di invalidita'; tale importo e' calcolato in base all'applicazione a ciascun punto percentuale di invalidita' del relativo coefficiente secondo la correlazione stabilita dal comma 6.
+L'importo cosi' determinato si riduce con il crescere dell'eta' del soggetto in ragione dello 0,5 per cento per ogni anno di eta' a partire dall'undicesimo anno di eta'. Il valore del primo punto e' pari a 795,91 euro;(44) (50) (55) (65) (69) (73a) ((78))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    a titolo di danno biologico temporaneo, e' liquidato un importo di 39,37 euro per ogni giorno di inabilita' assoluta; in caso di inabilita' temporanea inferiore al 100 per cento, la liquidazione avviene in misura corrispondente alla percentuale di inabilita' riconosciuta per ciascun giorno.(44) (50) (55) (65) (69) (73a) ((78))
 
 Ai fini di cui al comma 1, per danno biologico si intende la lesione temporanea o permanente all'integrita' psico-fisica della persona, suscettibile di accertamento medico-legale, che esplica un'incidenza negativa sulle attivita' quotidiane e sugli aspetti dinamico-relazionali della vita del danneggiato, indipendentemente da eventuali ripercussioni sulla sua capacita' di produrre reddito. In ogni caso, le lesioni di lieve entita', che non siano suscettibili di accertamento clinico strumentale obiettivo, ovvero visivo, con riferimento alle lesioni, quali le cicatrici, oggettivamente riscontrabili senza l'ausilio di strumentazioni, non possono dar luogo a risarcimento per danno biologico permanente.
 
@@ -3868,7 +8133,44 @@ L'azione diretta che spetta al danneggiato nei confronti dell'impresa di assicur
 
 ((
 
+1.
+                        
+                            
+                                Nel caso di un sinistro causato da un insieme di veicoli consistente in un veicolo trainante e in un rimorchio, laddove il rimorchio disponga di un'assicurazione della responsabilita' civile separata, il danneggiato puo' presentare la propria richiesta di indennizzo direttamente all'impresa di assicurazione che ha assicurato il rimorchio, ove: 
+ 
+                            
+                            
+                                a)
+                                
+                                    possa essere identificato il rimorchio, ma non possa essere identificato il veicolo trainante e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge nazionale applicabile al sinistro preveda che l'assicuratore del rimorchio provveda all'indennizzo.
+
 L'impresa di assicurazione del rimorchio che ha indennizzato il danneggiato esercita l'azione di regresso nei confronti dell'impresa che ha assicurato il veicolo trainante o del Fondo di garanzia per le vittime della strada o dell'equivalente organismo dello Stato membro la cui legge nazionale si applica nel caso di sinistro.
+
+3.
+                        
+                            
+                                Nel caso di sinistro di cui al comma 1, l'assicuratore del rimorchio, laddove la legge nazionale applicabile al sinistro lo obblighi a fornire un indennizzo completo, informa il danneggiato, su richiesta di quest'ultimo e senza indebito ritardo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'identita' dell'assicuratore del veicolo trainante o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora l'assicuratore del rimorchio non sia in grado di identificare l'assicuratore del veicolo trainante, del meccanismo di indennizzo previsto dal Fondo di garanzia per le vittime della strada o dall'equivalente organismo di altro Stato membro.)) 
+ ((70))
 
 ---------------
                             AGGIORNAMENTO (70)
@@ -3971,7 +8273,46 @@ In caso di comunicazione dei motivi che impediscono il risarcimento diretto ovve
 
 ## Art. 150. — Disciplina del sistema di risarcimento diretto
 
+1.
+                        
+                            
+                                Con decreto del Presidente della Repubblica, su proposta del Ministro dello sviluppo economico, da emanarsi entro novanta giorni dalla data di entrata in vigore del presente codice sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri di determinazione del grado di responsabilita' delle parti anche per la definizione dei rapporti interni tra le imprese di assicurazione; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    il contenuto e le modalita' di presentazione della denuncia di sinistro e gli adempimenti necessari per il risarcimento del danno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita', le condizioni e gli adempimenti dell'impresa di assicurazione per il risarcimento del danno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i limiti e le condizioni di risarcibilita' dei danni accessori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i principi per la cooperazione tra le imprese di assicurazione, ivi compresi i benefici derivanti agli assicurati dal sistema di risarcimento diretto.
+
+((2. Le disposizioni relative alla procedura prevista dall'articolo 149 si applicano anche alle imprese di assicurazione con sede legale in altri Stati membri che operano nel territorio della Repubblica ai sensi degli articoli 23 e 24))
 
 L'IVASS vigila sul sistema di risarcimento diretto e sui principi adottati dalle imprese per assicurare la tutela dei danneggiati, il corretto svolgimento delle operazioni di liquidazione e la stabilita' delle imprese.
 
@@ -4019,6 +8360,31 @@ In caso di mancata designazione del mandatario da parte dell'impresa di assicura
 
 E' istituito presso l'((CONSAP)) il Centro di informazione italiano per consentire agli aventi diritto di chiedere il risarcimento a seguito di un sinistro derivante dalla circolazione dei veicoli a motore nei casi previsti dall'articolo 151. A tale fine l'((CONSAP)) puo' stipulare apposite convenzioni a titolo gratuito con enti pubblici o privati che gia' detengano e gestiscano le informazioni di cui al comma 2, per l'organizzazione e il funzionamento del Centro di informazione italiano.
 
+2.
+                        
+                            
+                                Il Centro di informazione italiano e' incaricato di tenere un registro da cui risulta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la targa di immatricolazione di ogni veicolo che staziona abitualmente nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i numeri e la data di scadenza delle polizze di assicurazione che coprono la responsabilita' civile derivante dalla circolazione di detti veicoli per i rischi di cui al ramo 10 di cui all'articolo 2, comma 3, diversi dalla responsabilita' del vettore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le imprese di assicurazione che coprono la responsabilita' civile derivante dalla circolazione di tali veicoli per i rischi di cui al ramo 10 di cui all'articolo 2, comma 3, diversi dalla responsabilita' del vettore, e i mandatari per la liquidazione dei sinistri designati da tali imprese di assicurazione conformemente all'articolo 152.
+
 Il Centro di informazione italiano assiste gli aventi diritto al risarcimento nell'accesso alle informazioni di cui al comma 2, lettere a), b) e c).
 
 Le imprese di assicurazione che coprono la responsabilita' civile derivante dalla circolazione dei veicoli, che stazionano abitualmente nel territorio della Repubblica, sono tenute a comunicare in via sistematica i dati relativi ai numeri di targa dei veicoli assicurati, ai numeri di polizza, alla data di cessazione della copertura assicurativa, ai nominativi dei mandatari per la liquidazione dei sinistri nominati in ciascuno Stato membro e, a richiesta, tempestivamente i dati relativi al nome ed indirizzo del proprietario o dell'usufruttuario o dell'acquirente con patto di riservato dominio o del locatario in caso di locazione finanziaria.
@@ -4036,6 +8402,52 @@ Il trattamento e la comunicazione dei dati personali sono consentiti, con esclus
 Il Centro di informazione coopera con i centri di informazione istituiti dagli altri Stati membri per l'attuazione delle disposizioni previste dall'ordinamento comunitario.
 
 ## Art. 155. — Accesso al Centro di informazione italiano
+
+1.
+                        
+                            
+                                I danneggiati, a seguito dei sinistri previsti all'articolo 151, hanno diritto di richiedere al Centro di informazione italiano entro sette anni dalla data del sinistro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome ed indirizzo dell'impresa di assicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero della polizza di assicurazione e data di scadenza della stessa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nome ed indirizzo del mandatario per la liquidazione dei sinistri dell'impresa di assicurazione nello Stato membro di residenza degli aventi diritto al risarcimento, nei casi in cui: 
+ 1) gli stessi risiedono nel territorio della Repubblica; 
+ 2) il veicolo che ha causato il sinistro stazioni abitualmente nel territorio della Repubblica; 
+ 3) il sinistro sia avvenuto nel territorio della Repubblica.
+
+2.
+                        
+                            
+                                Nel caso in cui gli aventi diritto al risarcimento richiedano al Centro di informazione italiano il nome e l'indirizzo del proprietario o dell'usufruttuario o dell'acquirente con patto di riservato dominio o del locatario in caso di locazione finanziaria del veicolo che ha causato il sinistro, il Centro stesso, se gli aventi diritto hanno un interesse giuridicamente tutelato ad ottenere tali informazioni, si rivolge in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'impresa di assicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'ente di immatricolazione del veicolo.
 
 Fermi restando i poteri dell'autorita' giudiziaria, le forze di polizia nonche' gli organi di polizia stradale di cui all'articolo 12 del codice della strada e le pubbliche amministrazioni competenti in materia di prevenzione e contrasto di comportamenti fraudolenti nel settore delle assicurazioni obbligatorie hanno accesso gratuito ai dati del Centro di informazione italiano. Le imprese di assicurazione, l'Ufficio centrale italiano e l'Organismo di indennizzo italiano possono richiedere al Centro di informazione italiano i dati per i quali hanno interesse motivato.
 
@@ -4063,11 +8475,103 @@ Nel ruolo sono iscritti i periti assicurativi che esercitano l'attivita' in prop
 
 ## Art. 158. — Requisiti per l'iscrizione
 
+1.
+                        
+                            
+                                Per ottenere l'iscrizione nel ruolo la persona fisica deve essere in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godere dei diritti civili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non aver riportato condanna irrevocabile, o sentenza irrevocabile di applicazione della pena di cui all'articolo 444, comma 2, del codice di procedura penale, per un delitto contro la pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro l'economia pubblica, l'industria e il commercio, contro il patrimonio per il quale la legge commini la pena della reclusione non inferiore nel minimo ad un anno o nel massimo a tre anni, o per altro delitto non colposo per il quale sia comminata la pena della reclusione non inferiore nel minimo a due anni o nel massimo a cinque anni, o per il reato di omesso versamento dei contributi previdenziali e assistenziali obbligatori, ovvero condanna irrevocabile comportante l'applicazione della pena accessoria dell'interdizione dai pubblici uffici perpetua o di durata superiore a tre anni, salvo che non sia intervenuta la riabilitazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non essere stata dichiarata fallita, salvo che sia intervenuta la riabilitazione, ne' essere stato presidente, amministratore con delega di poteri, direttore generale, sindaco di societa' od enti che siano stati assoggettati a procedure di fallimento, concordato preventivo o liquidazione coatta amministrativa, almeno per i tre esercizi precedenti all'adozione dei relativi provvedimenti, fermo restando che l'impedimento ha durata fino ai cinque anni successivi all'adozione dei provvedimenti stessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non versare nelle situazioni di decadenza, divieto o sospensione previste dall'articolo 10 della legge 31 maggio 1965, n. 575, e successive modificazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    aver conseguito un diploma di scuola media secondaria superiore o di laurea triennale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    aver svolto tirocinio di durata biennale presso un perito abilitato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    aver superato una prova di idoneita' secondo quanto previsto dal comma 3.
+
 Fermo il disposto dell'articolo 156, non possono esercitare l'attivita' di perito assicurativo ne' essere iscritti nel ruolo gli intermediari di assicurazione e di riassicurazione, i riparatori di veicoli e di natanti e i pubblici dipendenti con rapporto lavorativo a tempo pieno ovvero a tempo parziale, quando superi la meta' dell'orario lavorativo a tempo pieno.
 
 Ai fini dell'iscrizione, il perito deve possedere adeguate cognizioni e capacita' professionali, che sono accertate dall'((CONSAP)) tramite una prova di idoneita', consistente in un esame su materie tecniche, giuridiche ed economiche rilevanti nell'esercizio dell'attivita'. L'((CONSAP)) determina, con regolamento, i titoli di ammissione e le modalita' di svolgimento della prova valutativa, provvedendo alla relativa organizzazione e gestione.
 
 ## Art. 159. — Cancellazione dal ruolo
+
+1.
+                        
+                            
+                                La cancellazione dal ruolo e' disposta dall'((CONSAP)), con provvedimento motivato, in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rinuncia all'iscrizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    perdita di uno dei requisiti di cui all'articolo 158, comma 1, lettere a), b),
+                                
+                            
+                            
+                                c)
+                                
+                                    e d); 
+ c) sopravvenuta incompatibilita' ai sensi dell'articolo 158, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    radiazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mancato versamento del contributo ((di gestione)) di cui all'articolo 337, nonostante apposita diffida disposta dall'((CONSAP)).
 
 Non si procede alla cancellazione dal ruolo, anche se richiesta dal perito, fino a quando sia in corso un procedimento disciplinare ovvero siano in corso accertamenti istruttori propedeutici all'avvio del medesimo.
 
@@ -4129,6 +8633,49 @@ La disciplina di cui al presente capo non si applica alle assicurazioni di tutel
 
 L'impresa che esercita l'attivita' assicurativa nel ramo tutela legale adotta, per la gestione dei sinistri e per la relativa attivita' di consulenza, una delle modalita', di cui deve essere data preventiva comunicazione all'((IVASS)), previste dal comma 2.
 
+2.
+                        
+                            
+                                L'impresa puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolgere direttamente l'attivita' di gestione dei sinistri e quella di consulenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    affidarla ad un'impresa distinta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedere nel contratto il diritto per l'assicurato di affidare la tutela dei suoi interessi in caso di sinistro, non appena abbia il diritto di esigere l'intervento dell'impresa di assicurazione, a un avvocato o ad altro professionista abilitato dalla legge da lui scelto.
+
+3.
+                        
+                            
+                                Qualora l'impresa si avvalga della facolta' di cui al comma 2, lettera a), devono ricorrere congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'impresa e' multiramo, il personale di cui si avvale non deve svolgere, per conto della stessa, attivita' di gestione dei sinistri o di consulenza in un altro ramo esercitato dall'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indipendentemente dal fatto che l'impresa sia multiramo o specializzata, il personale non deve svolgere, per conto di altra impresa autorizzata all'esercizio delle assicurazioni contro i danni che abbia con la prima legami finanziari, commerciali o amministrativi, attivita' di gestione dei sinistri o di consulenza in altri rami esercitati dall'impresa con la quale intercorrono i predetti legami.
+
 L'impresa deve dichiarare nel contratto se intende avvalersi della facolta' di cui al comma 2, lettera b), indicando la denominazione sociale dell'impresa alla quale affida la gestione dei sinistri. Quando l'impresa ha legami con un'altra impresa che esercita le assicurazioni contro i danni, il personale incaricato della gestione dei sinistri o della relativa consulenza non puo' esercitare la stessa o analoga attivita' in altri rami esercitati da quest'ultima impresa. L'impresa cui sia affidata la gestione dei sinistri e' soggetta alla vigilanza dell'((IVASS)).
 
 L'impresa puo' adottare una diversa modalita' operativa previa comunicazione all'((IVASS)) e con effetto solo per i contratti stipulati successivamente alla comunicazione medesima.
@@ -4153,7 +8700,29 @@ La nullita' puo' essere fatta valere solo dal contraente o dall'assicurato. La p
 
 ## Art. 167-bis. — (( (Diritto di recesso in caso di vendita a distanza).))
 
-((82))
+1.
+                        
+                            
+                                
+                                    ((Il diritto di recesso dai contratti di assicurazione conclusi a distanza non puo' essere esercitato se:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il contraente richiede all'impresa di assicurazione o all'intermediario assicurativo, come definito dall'articolo 1, comma 1, lettere cc-quinquies) e cc-septies), la liquidazione dell'indennizzo o delle somme assicurate, entro il termine previsto dall'articolo 59-octies, comma 1, del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((il sinistro si verifica entro il termine previsto dall'articolo 59-octies, comma 1, del codice del consumo di cui al decreto legislativo n. 206 del 2005, in caso di polizza obbligatoria.))
+
+((L'impresa di assicurazione informa il contraente che non puo' esercitare il diritto di recesso se richiede esplicitamente l'esecuzione del contratto, entro il termine di cui all'articolo 59-octies, comma 1, del codice del consumo, di cui al decreto legislativo n. 206 del 2005.))
+                                ((82))
 
 --------------
                             AGGIORNAMENTO (82)
@@ -4203,6 +8772,31 @@ La risoluzione di cui al comma 1 si applica anche alle assicurazioni dei rischi 
 
 ## Art. 171. — Trasferimento di proprieta' del veicolo o del natante
 
+1.
+                        
+                            
+                                Il trasferimento di proprieta' del veicolo o del natante determina, a scelta irrevocabile dell'alienante, uno dei seguenti effetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la risoluzione del contratto a far data dal perfezionamento del trasferimento di proprieta', con diritto al rimborso del rateo di premio relativo al residuo periodo di assicurazione al netto dell'imposta pagata e del contributo obbligatorio di cui all'articolo 334; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la cessione del contratto di assicurazione all'acquirente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sostituzione del contratto per l'assicurazione di altro veicolo o, rispettivamente, di un altro natante di sua proprieta', previo l'eventuale conguaglio del premio.
+
 Eseguito il trasferimento di proprieta', l'alienante informa contestualmente l'impresa di assicurazione e l'acquirente se, insieme al veicolo, viene ceduto il contratto di assicurazione.
 
 La garanzia e' valida per il nuovo veicolo o natante dalla data del rilascio del nuovo certificato e, ove occorra, del nuovo contrassegno relativo al veicolo o al natante secondo le modalita' previste dal regolamento adottato, su proposta dell'((IVASS)), dal ((Ministro dello sviluppo economico)).
@@ -4228,6 +8822,31 @@ Qualora l'assicurazione di tutela legale sia prestata cumulativamente con altre 
 Il contratto di assicurazione di tutela legale deve espressamente prevedere in funzione di tutela dell'assicurato che il medesimo, qualora necessiti dell'assistenza di un professionista per la difesa o la rappresentanza dei propri interessi in un procedimento giudiziario o amministrativo oppure nel caso di conflitto di interessi con l'impresa stessa, abbia la facolta' di scelta del professionista, purche' quest'ultimo sia abilitato secondo la normativa applicabile.
 
 In caso di disaccordo tra l'assicurato e l'impresa sulla gestione del sinistro, le parti possono adire l'autorita' giudiziaria o demandare la decisione sul comportamento da tenere ad un arbitro che provvede secondo equita'. Tale seconda facolta' deve essere esplicitamente prevista nel contratto.
+
+3.
+                        
+                            
+                                Fermo restando il diritto dell'assicurato di avvalersi della facolta' di cui al comma 1, non e' necessario che le condizioni di contratto prevedano espressamente la medesima facolta' quando sono cumulativamente soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'assicurazione di tutela legale e' limitata a controversie derivanti dall'utilizzazione di veicoli stradali nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la medesima e' collegata ad un contratto di assicurazione di assistenza da prestare in caso di incidente o guasto relativamente allo stesso veicolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ne' l'impresa di assicurazione della tutela legale ne' l'impresa di assicurazione dell'assistenza esercitano il ramo della responsabilita' civile.
 
 Nell'ipotesi di cui al comma 3, qualora l'impresa assicuri per la tutela legale entrambe le parti della controversia, queste devono essere assistite e rappresentate da avvocati, o altri soggetti abilitati dalla legislazione vigente, indipendenti dall'impresa di assicurazione.
 
@@ -4329,6 +8948,39 @@ L' IVASS, con regolamento, stabilisce i criteri di riconoscibilita' della pubbli
 
 ## Art. 183. — Regole di comportamento
 
+1.
+                        
+                            
+                                
+                                    ((Nell'offerta e nell'esecuzione dei contratti le imprese devono)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    comportarsi con diligenza, correttezza e trasparenza nei confronti dei contraenti e degli assicurati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 21 MAGGIO 2018, N. 68; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizzarsi in modo tale da identificare ed evitare conflitti di interesse ove cio' sia ragionevolmente possibile e, in situazioni di conflitto, agire in modo da consentire agli assicurati la necessaria trasparenza sui possibili effetti sfavorevoli e comunque gestire i conflitti di interesse in modo da escludere che rechino loro pregiudizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    realizzare una gestione finanziaria indipendente, sana e prudente e adottare misure idonee a salvaguardare i diritti dei contraenti e degli assicurati.
+
 L'IVASS adotta, con regolamento, specifiche disposizioni relative alla determinazione delle regole di comportamento da osservare nei rapporti con i contraenti, in modo che l'attivita' si svolga con correttezza e con adeguatezza rispetto alle specifiche esigenze dei singoli.
 
 L'IVASS tiene conto, nel regolamento, delle differenti esigenze di protezione dei contraenti e degli assicurati, nonche' della natura dei rischi e delle obbligazioni assunte dall'impresa, individua le categorie di soggetti che non necessitano in tutto o in parte della protezione riservata alla clientela non qualificata e determina modalita', limiti e condizioni di applicazione delle medesime disposizioni nell'offerta e nell'esecuzione dei contratti di assicurazione dei rami danni, tenendo in considerazione le particolari caratteristiche delle varie tipologie di rischio.
@@ -4350,6 +9002,31 @@ L'IVASS vieta la commercializzazione in caso di accertata violazione delle dispo
 
 ((
 
+1.
+                        
+                            
+                                Le imprese di assicurazione e gli intermediari che realizzano prodotti assicurativi da vendere ai clienti redigono i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il documento informativo precontrattuale per i prodotti assicurativi danni di cui all'articolo 185-bis, redatto in conformita' a quanto stabilito dal regolamento di esecuzione (UE) 2017/1469 dell'11 agosto 2017 (DIP); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il documento informativo precontrattuale per i prodotti assicurativi vita di cui all'articolo 185-ter, diversi da quelli indicati alla lettera c) (DIP - Vita); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il documento informativo per i prodotti di investimento redatto in conformita' a quanto stabilito dal regolamento (UE) n. 1286/2014 del 26 novembre 2014 e relative norme di attuazione (KID).
+
 Le imprese di assicurazione e gli intermediari che realizzano prodotti assicurativi redigono altresi' il documento informativo precontrattuale aggiuntivo.
 
 Fatto salvo quanto previsto dal testo unico dell'intermediazione finanziaria e dalle relative disposizioni di attuazione in materia di informativa precontrattuale, il documento informativo precontrattuale aggiuntivo di cui al comma 2 contiene le informazioni, diverse da quelle pubblicitarie o promozionali, integrative e complementari rispetto a quelle contenute nei documenti di cui al comma 1 che, tenendo conto della complessita' e delle caratteristiche del prodotto, del tipo del cliente e delle caratteristiche dell'impresa di assicurazione, sono necessarie affinche' il cliente possa pervenire ad una decisione informata su diritti e obblighi contrattuali e, ove opportuno, sulla situazione patrimoniale dell'impresa. Il documento informativo precontrattuale aggiuntivo contiene il riferimento alla relazione sulla solvibilita' e sulla condizione finanziaria dell'impresa di cui all'articolo 47-septies.
@@ -4369,6 +9046,59 @@ L'IVASS, con regolamento, disciplina il contenuto, lo schema e le istruzioni di 
 ## Art. 185-bis. — (( (Documento informativo precontrattuale per i prodotti assicurativi danni). ))
 
 ((
+
+1.
+                        
+                            
+                                Il documento informativo standardizzato per i prodotti assicurativi danni di cui all'articolo 185, comma 1, lettera a), ha le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' un documento sintetico e autonomo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' presentato e strutturato in modo tale da essere chiaro e di facile lettura e ha caratteri di dimensione leggibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non e' meno comprensibile nel caso in cui, prodotto originariamente a colori, sia stampato o fotocopiato in bianco e nero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' redatto in lingua italiana o in altra lingua concordata dalle parti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' preciso e non fuorviante; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    contiene il titolo «documento informativo relativo al prodotto assicurativo» nella parte in alto della prima pagina; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    contiene la dichiarazione in base alla quale le informazioni precontrattuali e contrattuali complete sono fornite in altri documenti.
 
 2. Il documento informativo standardizzato di cui al comma 1 contiene:
 
@@ -4400,6 +9130,119 @@ i) le modalita' di risoluzione del contratto))
 ## Art. 185-ter. — (( (Documento informativo precontrattuale per i prodotti assicurativi vita). ))
 
 ((
+
+1.
+                        
+                            
+                                Il documento informativo precontrattuale per i prodotti assicurativi vita di cui all'articolo 185, comma 1, lettera b), ha le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' un documento sintetico e autonomo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' presentato e strutturato in modo da contenere informazioni accurate, corrette, chiare, non fuorvianti e coerenti con la documentazione del prodotto assicurativo cui si riferisce; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non e' meno comprensibile nel caso in cui, prodotto originariamente a colori, sia stampato o fotocopiato in bianco e nero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' redatto in lingua italiana o in altra lingua concordata dalle parti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    contiene il titolo «documento informativo relativo al prodotto assicurativo» nella parte in alto della prima pagina; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    contiene la dichiarazione in base alla quale le informazioni precontrattuali e contrattuali complete sono fornite in altri documenti.
+
+2.
+                        
+                            
+                                Il documento informativo standardizzato di cui al comma 1 contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni sul tipo di assicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una sintesi della copertura assicurativa, compresi i rischi assicurati, la somma assicurata e gli eventuali rischi esclusi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' e la durata di pagamento dei premi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i casi di esclusione della garanzia, ove presenti, per i quali non e' possibile presentare una richiesta di risarcimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli obblighi all'inizio del contratto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli obblighi nel corso della durata del contratto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la documentazione da presentare nel caso di sinistro; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le condizioni del contratto, inclusa la data di inizio e di fine del periodo di copertura; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le modalita' di risoluzione del contratto.
 
 Il documento informativo di cui al comma 1 e' redatto secondo il formato standardizzato come definito dall'IVASS con regolamento.
 
@@ -4474,9 +9317,89 @@ I poteri di vigilanza sono esercitati in modo tempestivo e proporzionato.
 
 ## Art. 188. — Poteri di intervento
 
+1.
+                        
+                            
+                                L'IVASS, nell'esercizio delle funzioni di vigilanza sulla gestione tecnica, finanziaria e patrimoniale delle imprese e sull'osservanza delle leggi, dei regolamenti e dei provvedimenti del presente codice nonche' delle disposizioni dell'Unione europea direttamente applicabili, puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    convocare i componenti degli organi amministrativi e di controllo, i direttori generali delle imprese di assicurazione e di riassicurazione, i legali rappresentanti della societa' di revisione e i soggetti responsabili delle funzioni fondamentali all'interno delle imprese di assicurazione e riassicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare la convocazione dell'assemblea, degli organi amministrativi e di controllo, delle imprese di assicurazione e di riassicurazione, indicando gli argomenti da inserire all'ordine del giorno e sottoponendo al loro esame i provvedimenti necessari per rendere la gestione conforme a legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere direttamente alla convocazione dell'assemblea, degli organi amministrativi e di controllo delle imprese di assicurazione e di riassicurazione, quando non abbiano ottemperato al provvedimento di cui alla lettera precedente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    convocare i soggetti che svolgono funzioni parzialmente comprese nel ciclo operativo delle imprese di assicurazione e di riassicurazione per accertamenti esclusivamente rivolti ai profili assicurativi o riassicurativi.
+
 L'IVASS, nell'esercizio delle funzioni di vigilanza sull'osservanza delle leggi e dei regolamenti previsti nel presente codice, nonche' delle disposizioni dell'Unione europea direttamente applicabili da parte degli operatori del mercato assicurativo, puo' convocare i legali rappresentanti delle societa' che svolgono attivita' di intermediazione ed i soggetti iscritti al registro degli intermediari.
 
 L'IVASS, al fine di conoscere i programmi e valutare gli impegni a garanzia dell'autonomia e dell'indipendenza della gestione dell'impresa di assicurazione o di riassicurazione, puo' convocare chiunque detenga una partecipazione indicata dall'articolo 68 in un'impresa di assicurazione o di riassicurazione.
+
+3-bis.
+                        
+                            
+                                L'IVASS, nell'esercizio delle funzioni indicate al comma 1, ove la situazione lo richieda, anche a seguito del processo di controllo prudenziale di cui all'articolo 47-quinquies, adotta misure preventive o correttive nei confronti delle singole imprese di assicurazione o riassicurazione ((o - se pertinenti - di singoli soggetti iscritti al registro degli intermediari)), ivi inclusi i provvedimenti specifici riguardanti: ((82))
+                                
+                            
+                            
+                                a)
+                                
+                                    la restrizione dell'attivita', ivi incluso il potere di vietare l'ulteriore commercializzazione dei prodotti assicurativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il divieto di effettuare determinate operazioni anche di natura societaria o l'imposizione, per un periodo non superiore a tre mesi prorogabile al massimo per ulteriori tre mesi, di limitazioni, restrizioni o differimenti relativi ai diritti di riscatto esercitabili dai contraenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il divieto di distribuzione di utili o di altri elementi del patrimonio, nonche' la fissazione di limiti all'importo totale della parte variabile delle remunerazioni dell'impresa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rafforzamento dei sistemi di governo societario, ivi incluso il contenimento dei rischi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ordine di rimozione di uno o piu' esponenti aziendali o dei titolari di funzioni fondamentali qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione dell'impresa di assicurazione o di riassicurazione o per gli interessi degli assicurati e degli aventi diritto alle prestazioni assicurative. La rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 76, salvo che sussista urgenza di provvedere. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    
+                                        ((la richiesta di cessazione temporanea o permanente di qualsiasi pratica o comportamento contrario alle disposizioni del presente codice e delle relative norme di attuazione.))
+                                        ((82))
 
 L'esercizio dei poteri di vigilanza di cui al comma 3-bis, lettera a), e' attribuito alla CONSOB, per i profili di propria competenza.
 
@@ -4494,6 +9417,35 @@ Ai fini della salvaguardia della stabilita' del sistema finanziario nel suo comp
 ((In caso di tempestiva presentazione di una proposta di impegni, l'IVASS non procede all'accertamento dell'infrazione ai fini dell'avvio del procedimento sanzionatorio, fino alla notifica del provvedimento di rigetto della proposta o all'apertura del procedimento sanzionatorio nei casi di cui al comma 4.))
 
 ((In caso di mancato rispetto degli impegni resi obbligatori ai sensi del comma 1, l'IVASS puo' irrogare la sanzione amministrativa pecuniaria prevista dalla normativa di riferimento, i cui limiti edittali massimi sono aumentati del 10 per cento. Al fine di monitorare l'attuazione degli impegni, l'IVASS esercita i poteri di cui agli articoli 188 e 189.))
+
+4.
+                        
+                            
+                                
+                                    ((L'IVASS puo', d'ufficio, aprire il procedimento sanzionatorio se:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((si modifica in modo determinante la situazione di fatto rispetto a un elemento su cui si fonda la decisione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((i soggetti interessati contravvengono agli impegni assunti;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la decisione si fonda su informazioni trasmesse dalle parti che sono incomplete inesatte o fuorvianti.))
 
 ((L'IVASS pubblica sul proprio sito internet istituzionale gli impegni assunti ai sensi del presente articolo.))
                                 ((82))
@@ -4520,9 +9472,59 @@ L'IVASS, nel rispetto degli articoli 3 e 5, puo' chiedere ai soggetti vigilati l
 
 ((
 
+1-bis.
+                        
+                            
+                                Le informazioni di cui al comma 1 comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi qualitativi o quantitativi o un'appropriata combinazione di entrambi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dati storici, attuali o futuri, o un'appropriata combinazione di tali dati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dati provenienti da fonti interne o esterne o un'appropriata combinazione di entrambi.
+
 ))
 
 ((
+
+1-ter.
+                        
+                            
+                                Le informazioni, i dati, i documenti trasmessi all'IVASS: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riflettono la natura, la portata e la complessita' dell'attivita' dell'impresa interessata, in particolare i rischi inerenti all'attivita' in oggetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono accessibili, completi da tutti i punti di vista sostanziali, confrontabili e coerenti nel tempo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono pertinenti, affidabili e comprensibili.
 
 ))
 
@@ -4546,6 +9548,38 @@ La comunicazione in buona fede alle autorita' di vigilanza da parte dei soggetti
 
 Le disposizioni di cui ai commi 3, primo periodo, ((4 e 4-bis)) si applicano anche ai soggetti che esercitano i compiti ivi previsti presso le societa' che controllano le imprese di assicurazione o di riassicurazione o che sono da queste controllate ai sensi dell'articolo 72.
 
+5-bis.
+                        
+                            
+                                Le imprese di assicurazione e di riassicurazione comunicano tempestivamente all'((IVASS)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    la nomina e la mancata nomina del soggetto incaricato della revisione legale dei conti, esponendo le cause che hanno determinato il ritardo nel conferimento dell'incarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le dimissioni del soggetto incaricato della revisione legale dei conti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la risoluzione consensuale del mandato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la revoca dell'incarico di revisione legale dei conti, fornendo adeguate spiegazioni in ordine alle ragioni che l'hanno determinata.
+
 L'((IVASS)) stabilisce modalita' e termini per l'invio delle comunicazioni di cui al comma 5-bis. Nel caso di mancata nomina del soggetto incaricato della revisione legale dei conti, l'((IVASS)) adotta i provvedimenti cautelari, autoritativi e sanzionatori previsti dal codice.
 
 ## Art. 190-bis. — (( (Informazioni statistiche) ))
@@ -4554,6 +9588,24 @@ L'((IVASS)) stabilisce modalita' e termini per l'invio delle comunicazioni di cu
 
 L'IVASS chiede ai soggetti vigilati di comunicare i dati e le informazioni per lo svolgimento di indagini statistiche, studi ed analisi relative al mercato assicurativo. L'IVASS stabilisce con regolamento la periodicita', le modalita', i contenuti ed i termini per la trasmissione, da parte dei medesimi soggetti, di tali dati e informazioni.
 
+2.
+                        
+                            
+                                L'impresa di assicurazione o l'impresa di riassicurazione comunica all'IVASS, in forma separata per le operazioni rispettivamente effettuate in regime di stabilimento e in regime di libera prestazione di servizi, l'importo dei premi, dei sinistri e delle commissioni, al lordo della riassicurazione o della retrocessione, per Stato membro e secondo le modalita' seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'assicurazione danni, per linee di attivita' in conformita' ai principi dell'ordinamento comunitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'assicurazione vita, per linee di attivita' in conformita' ai principi dell'ordinamento comunitario.
+
 Per quanto riguarda le imprese autorizzate al ramo 10 di cui all'articolo 2, comma 3, l'impresa interessata comunica all'autorita' di vigilanza anche la frequenza e il costo medio dei sinistri.
 
 L'IVASS presenta alle autorita' di vigilanza dei singoli Stati membri interessati su loro richiesta, entro un termine ragionevole e in forma aggregata, le informazioni di cui ai commi 2 e 3.
@@ -4561,6 +9613,153 @@ L'IVASS presenta alle autorita' di vigilanza dei singoli Stati membri interessat
 ))
 
 ## Art. 191. — (Potere regolamentare)
+
+1.
+                        
+                            
+                                Fatta salva la potesta' regolamentare del Governo e del Ministero dello sviluppo economico, secondo le disposizioni previste dal presente Codice, l'IVASS, per l'esercizio delle funzioni di vigilanza sulla gestione tecnica, finanziaria e patrimoniale delle imprese di assicurazione e di riassicurazione e sulla trasparenza e sulla correttezza dei comportamenti delle imprese e degli intermediari di assicurazione e di riassicurazione, con particolare riferimento alla tutela degli assicurati, puo' adottare regolamenti o altre disposizioni di carattere generale per l'attuazione delle norme contenute nel presente codice e delle disposizioni direttamente applicabili dell'Unione europea, nonche' regolamenti per l'attuazione delle raccomandazioni, linee guida e altre disposizioni emanate dalle Autorita' di vigilanza europee, aventi ad oggetto le seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le condizioni di accesso all'attivita' di assicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni di esercizio dell'attivita' di assicurazione e riassicurazione, incluso: 
+ ((1) il sistema di governo societario, ivi inclusi i sistemi di remunerazione e di incentivazione nonche' le funzioni fondamentali, delle imprese di assicurazione o di riassicurazione;)) 
+ 2) l'adeguatezza patrimoniale, ivi compresa la formazione delle riserve tecniche, la copertura e la valutazione delle attivita', la composizione dei fondi propri ed il calcolo dei requisiti patrimoniali di solvibilita' delle imprese di assicurazione e di riassicurazione, con particolare riferimento alla disciplina della formula standard e del modello interno completo o parziale, nonche' l'eventuale possibilita' di richiedere l'attivita' di verifica da parte della societa' di revisione in conformita' alla normativa dell'Unione europea; 
+ 3) l'informativa e il processo di controllo prudenziale, ivi incluso il contenuto della relazione sulla solvibilita' e sulla condizione finanziaria nonche' l'eventuale sottoposizione dell'informativa a verifica da parte della societa' di revisione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le condizioni di accesso e di esercizio all'attivita' di assicurazione delle imprese con sede in uno Stato terzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le condizioni di accesso e di esercizio all'attivita' di assicurazione delle imprese locali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le condizioni di accesso e di esercizio all'attivita' di riassicurazione, incluse le condizioni per l'accesso e l'esercizio delle societa' veicolo di cui all'articolo 57-bis; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la classificazione dei rischi all'interno dei rami di cui all'articolo 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le procedure relative all'assunzione di partecipazioni e gli assetti proprietari, ivi inclusa la disciplina degli stretti legami; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli schemi di bilancio, il piano dei conti, le modalita' di calcolo, le forme e le modalita' di raccordo fra il sistema contabile ed il piano dei conti, e gli altri modelli di vigilanza derivati dal bilancio di esercizio e consolidato delle imprese di assicurazione e di riassicurazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'individuazione dei soggetti non sottoposti agli obblighi di redazione del bilancio consolidato che sono tenuti, ad esclusivi fini di vigilanza, a redigere il bilancio consolidato; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la costituzione e l'amministrazione dei patrimoni dedicati ad uno specifico affare, nelle forme previste dal codice civile, delle gestioni separate e dei fondi interni delle imprese che esercitano le assicurazioni sulla vita, ivi compresi i limiti e i divieti relativi all'attivita' di investimento e i principi e gli schemi da adottare per la valutazione dei beni in cui e' investito il patrimonio; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    gli obblighi relativi all'assicurazione obbligatoria per i veicoli a motore e i natanti, ivi incluse le procedure liquidative; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    i contratti di assicurazione, con particolare riferimento all'assicurazione obbligatoria per i veicoli a motore e i natanti e le particolari operazioni di assicurazione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la correttezza della pubblicita', le regole di presentazione e di comportamento delle imprese di assicurazione e dei distributori nell'ideazione e nell'offerta di prodotti assicurativi, tenuto conto delle differenti esigenze di protezione degli assicurati; (45) 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    la procedura per la presentazione dei reclami per l'accertamento della violazione degli obblighi comportamentali a carico delle imprese e degli intermediari; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    gli obblighi informativi prima della conclusione e durante l'esecuzione del contratto, ivi compresi quelli relativi alla promozione e al collocamento, mediante tecniche di comunicazione a distanza, dei prodotti assicurativi; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    le procedure relative alle operazioni straordinarie; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    la vigilanza sul gruppo assicurativo ivi compresa la verifica delle operazioni infragruppo ed il calcolo della solvibilita' di gruppo; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    le procedure per le misure di salvaguardia, di risanamento e di liquidazione delle imprese di assicurazione e di riassicurazione e delle societa' soggette alla vigilanza sul gruppo; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    i sistemi di indennizzo per i danni derivanti dalla circolazione dei veicoli e dei natanti nonche' dell'attivita' venatoria; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    i procedimenti relativi all'accertamento e alla irrogazione delle sanzioni amministrative.
 
 I regolamenti di cui al comma 1 si conformano al principio di proporzionalita' per il raggiungimento del fine con il minor sacrificio per i soggetti destinatari.
 
@@ -4681,6 +9880,31 @@ L'((IVASS)) verifica, nel caso in cui il portafoglio sia trasferito ad una sede 
 
 Se le autorita' di vigilanza di cui ai commi 2 e 3 non si pronunciano entro novanta giorni dal ricevimento della richiesta da parte dell'((IVASS)), si considera che esse abbiano dato parere favorevole.
 
+5.
+                        
+                            
+                                Il portafoglio puo' essere trasferito anche ad imprese di assicurazione che hanno la sede legale in uno Stato terzo a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa cessionaria sia autorizzata ad esercitare nel territorio della Repubblica, in regime di stabilimento, le attivita' ad essa trasferite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il trasferimento sia limitato ai contratti stipulati dall'impresa cedente nel territorio della Repubblica in regime di stabilimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il portafoglio sia attribuito alla sede secondaria dell'impresa cessionaria costituita nel territorio della Repubblica;
+
 Se il trasferimento e' effettuato ad un'impresa di assicurazione con sede legale nel territorio della Repubblica o ad un'impresa di assicurazione con sede legale in altro Stato, ma a favore di una sede secondaria situata nel territorio della Repubblica, esso comporta altresi' l'applicazione, per i rapporti di lavoro in corso alla data del provvedimento di autorizzazione, delle disposizioni dell'articolo 2112 del codice civile.
 
 ## Art. 199. — Trasferimento del portafoglio di imprese di assicurazione di altri Stati membri
@@ -4689,11 +9913,84 @@ L'impresa di assicurazione di un altro Stato membro operante nel territorio dell
 
 Se il portafoglio e' trasferito ad un'impresa di assicurazione con sede legale nel territorio della Repubblica, l'((IVASS)) da' il suo assenso all'autorita' di vigilanza dello Stato membro dell'impresa cedente, dopo aver verificato che l'impresa cessionaria e' autorizzata all'esercizio delle attivita' trasferite e che dispone, tenuto conto del trasferimento, ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.)) La medesima procedura si applica se il portafoglio trasferito da un'impresa di assicurazione di altro Stato membro all'impresa con sede legale nel territorio della Repubblica comprende obbligazioni assunte al di fuori del territorio italiano.
 
+3.
+                        
+                            
+                                Se il portafoglio e' trasferito ad una sede secondaria in Italia di un'impresa di assicurazione che ha sede legale in altro Stato membro, l'((IVASS)) da' il suo assenso all'autorita' di vigilanza dello Stato di origine dell'impresa cedente dopo aver verificato che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa cessionaria soddisfa le condizioni per lo svolgimento dell'attivita' in regime di stabilimento nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorita' di vigilanza dello Stato membro di origine dell'impresa cedente ha accertato che l'impresa cessionaria dispone, tenuto conto del trasferimento, ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis)).
+
+4.
+                        
+                            
+                                Se il portafoglio e' trasferito ad un'impresa di assicurazione che ha sede legale in un altro Stato membro o ad una sua sede secondaria stabilita in altro Stato membro, l'((IVASS)) da' il suo assenso all'autorita' di vigilanza dello Stato membro di origine dell'impresa cedente dopo aver verificato che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa cessionaria soddisfa le condizioni per lo svolgimento dell'attivita' in libera prestazione di servizi nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorita' di vigilanza dello Stato membro di origine dell'impresa cedente ha accertato che la cessionaria dispone, tenuto conto del trasferimento, ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis)).
+
+5.
+                        
+                            
+                                Se il portafoglio e' trasferito ad una sede secondaria nel territorio della Repubblica di un'impresa che ha sede legale in uno Stato terzo, l'((IVASS)) da' il suo assenso all'autorita' di vigilanza dello Stato membro di origine dell'impresa cedente dopo aver verificato che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sede secondaria e' autorizzata all'esercizio delle attivita' trasferite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorita' dello Stato membro di origine dell'impresa cedente ha accertato che l'impresa cessionaria dispone, tenuto conto del trasferimento, ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis)). 
+ Non puo' essere effettuato un trasferimento di portafoglio ad una sede secondaria dell'impresa cessionaria che sia situata in uno Stato terzo.
+
 L'((IVASS)) pubblica nel Bollettino un avviso sui pareri resi e sui provvedimenti emessi dalle autorita' di vigilanza degli altri Stati membri relativi ai trasferimenti di portafoglio autorizzati.
 
 ## Art. 200. — Trasferimento del portafoglio di imprese di assicurazione di Stati terzi
 
 Il trasferimento, parziale o totale, del portafoglio della sede secondaria nel territorio della Repubblica di un'impresa di assicurazione di uno Stato terzo e' sottoposto, a cura della cedente, all'autorizzazione preventiva dell'((IVASS)), secondo la procedura stabilita con regolamento, con provvedimento da pubblicare nel Bollettino.
+
+2.
+                        
+                            
+                                Il trasferimento puo' essere effettuato a favore di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un'impresa avente la sede legale nel territorio della Repubblica o in un altro Stato membro, a condizione che il portafoglio ceduto non sia trasferito ad una sede secondaria situata in uno Stato terzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un'impresa avente la sede legale in uno Stato terzo, a condizione che il portafoglio ceduto sia trasferito ad una sede secondaria della stessa impresa che sia situata nel territorio della Repubblica.
 
 Nel caso di cui al comma 2, lettera a), l'impresa cessionaria soddisfa le condizioni rispettivamente previste all'articolo 198, commi 2 e 3, a seconda che il trasferimento sia effettuato a favore di un'impresa con sede legale nel territorio della Repubblica o in quello di altri Stati membri.
 
@@ -4709,6 +10006,25 @@ Se la fusione e' attuata per incorporazione, l'impresa di assicurazione incorpor
 
 La fusione e' autorizzata dall'((IVASS)) con provvedimento da pubblicare nel Bollettino. I provvedimenti che concedono o rifiutano l'autorizzazione sono specificamente e adeguatamente motivati e sono comunicati alle imprese interessate. Qualora alla fusione partecipino imprese di assicurazione aventi la sede legale in altri Stati membri, l'autorizzazione non puo' essere data se non dopo che sia stato acquisito il parere favorevole delle autorita' di vigilanza di tali Stati.
 
+4.
+                        
+                            
+                                Se la fusione da' luogo all'incorporazione di un'impresa di assicurazione con sede legale nel territorio della Repubblica in un'impresa con sede legale in altro Stato membro o alla costituzione di una nuova impresa con sede legale in un altro Stato membro, l'((IVASS)) esprime parere favorevole dopo avere verificato che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa incorporante, o la nuova impresa di assicurazione, soddisfa le condizioni relative all'accesso all'attivita' in regime di stabilimento o di libera prestazione di servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa incorporante o la nuova impresa di assicurazione dispongono ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis, tenuto conto della fusione.)) 
+ Il provvedimento dell'((IVASS)) e' pubblicato nel Bollettino.
+
 Ai trasferimenti di portafoglio conseguenti ad una fusione o ad una scissione, si applica l'articolo 198, comma 6, sussistendone le condizioni ivi previste.
 
 Per quanto applicabili, le disposizioni dei commi 2, 3 e 4 valgono anche per le operazioni di scissione.
@@ -4723,6 +10039,56 @@ La fusione e la scissione delle imprese di riassicurazione, alle quali prenda pa
 
 ## Art. 203. — Autorizzazione relativa all'esercizio dell'attivita' assicurativa
 
+1.
+                        
+                            
+                                L'((IVASS)) consulta in via preliminare le autorita' competenti degli altri Stati membri in merito al rilascio dell'autorizzazione all'esercizio dell'attivita' richiesta da qualsiasi impresa di assicurazione o di riassicurazione che si trovi in una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia controllata da un'impresa di assicurazione o di riassicurazione autorizzata in un altro Stato membro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia controllata da un'impresa che controlla un'altra impresa di assicurazione o di riassicurazione autorizzata in un altro Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia controllata dalla stessa persona, fisica o giuridica, che controlla un'impresa di assicurazione o di riassicurazione autorizzata in un altro Stato membro.
+
+2.
+                        
+                            
+                                L'((IVASS)), altresi', consulta in via preliminare le autorita' competenti degli altri Stati membri preposte alla vigilanza degli enti creditizi e delle imprese di investimento in merito al rilascio dell'autorizzazione ad un'impresa di assicurazione o di riassicurazione che si trovi in una delle seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia controllata da una banca o da un'impresa di investimento autorizzata nell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia controllata da un'impresa che controlla una banca o un'impresa di investimento autorizzata nell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia controllata dalla stessa persona, fisica o giuridica, che controlla una banca o un'impresa di investimento autorizzata nell'Unione europea.
+
 L'((IVASS)) scambia reciprocamente e fornisce alle altre ((autorita' competenti)) ai sensi delle rilevanti disposizioni dell'ordinamento ((dell'Unione europea)) sulla vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario le informazioni utili a valutare l'idoneita' degli azionisti e la reputazione e l'esperienza dei soggetti ai quali sono attribuite le funzioni di amministrazione e di direzione partecipanti alla gestione di un'altra impresa dello stesso gruppo, anche ai fini delle verifiche delle condizioni di accesso e di esercizio dell'attivita'.
 
 ## Art. 203-bis. — (( (Cooperazione per l'esercizio della vigilanza sulle societa' veicolo) ))
@@ -4736,6 +10102,31 @@ L'IVASS coopera e scambia informazioni con le Autorita' di vigilanza degli altri
 ## Art. 204. — (Autorizzazione relativa all'assunzione di partecipazioni in imprese di assicurazione o di riassicurazione)
 
 ((
+
+1.
+                        
+                            
+                                L'IVASS, nei casi in cui e' previsto il rilascio dell'autorizzazione di cui all'articolo 68, opera in piena consultazione con le Autorita' competenti degli altri Stati membri allorche' l'acquisizione o la sottoscrizione di azioni sia effettuata da un acquirente che sia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una banca, un'impresa di assicurazione, un'impresa di riassicurazione, un'impresa di investimento o una societa' di gestione ai sensi dell'articolo 2, paragrafo 1, lettera b), della direttiva 2009/65/CE autorizzati in un altro Stato membro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un'impresa madre, come definita secondo le rilevanti disposizioni dell'ordinamento dell'Unione europea sulla vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario, delle imprese di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una persona, fisica o giuridica, che controlla una delle imprese di cui alla lettera a).
 
 ))
 
@@ -4826,7 +10217,43 @@ L'istituzione e il funzionamento del Collegio delle autorita' di vigilanza e' di
 
 L'autorita' di vigilanza sul gruppo adegua la sua decisione definitiva a quella dell'AEAP e trasmette la decisione alle altre autorita' di vigilanza sulle societa' del gruppo interessate.
 
+3.
+                        
+                            
+                                Gli accordi di coordinamento di cui ai commi 1 e 2 disciplinano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i processi decisionali di vigilanza di gruppo, con particolare riferimento al modello interno di gruppo, alla maggiorazione di capitale a livello di gruppo e all'individuazione dell'autorita' di vigilanza sul gruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le procedure di consultazione tra le autorita' di vigilanza interessate previste dalle disposizioni dell'Unione europea.
+
 Fatti salvi i diritti e gli obblighi assegnati all'autorita' di vigilanza sul gruppo e alle altre autorita' di vigilanza sulle imprese del gruppo, gli accordi di coordinamento possono assegnare ulteriori compiti alle stesse o all'AEAP, purche' tale assegnazione migliori l'efficienza della vigilanza sul gruppo e non pregiudichi le attivita' delle autorita' di vigilanza che compongono il Collegio rispetto alle loro responsabilita' individuali.
+
+5.
+                        
+                            
+                                Gli accordi di coordinamento possono altresi' prevedere procedure per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la consultazione tra le autorita' di vigilanza sulle imprese del gruppo prevista dalle disposizioni dell'Unione europea, con particolare riferimento alle disposizioni relative all'ambito di applicazione della vigilanza di gruppo e alle disposizioni sul governo societario, alle disposizioni relative al calcolo della solvibilita' di gruppo, alle disposizioni relative alla vigilanza sulle operazioni infragruppo e sulla concentrazione dei rischi di cui al Titolo XV; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la cooperazione con le altre autorita' di vigilanza.
 
 ))
 
@@ -4848,11 +10275,61 @@ Se un'autorita' di vigilanza non ha comunicato informazioni pertinenti oppure e'
 
 Qualora la societa' al vertice del gruppo non abbia fornito entro un termine ragionevole all'autorita' di vigilanza sul gruppo o ad altre autorita' di vigilanza sulle imprese del gruppo informazioni su una societa' italiana facente parte del gruppo, l'IVASS collabora con l'autorita' richiedente per l'acquisizione di informazioni dalla societa' italiana.
 
+6.
+                        
+                            
+                                Le autorita' responsabili della vigilanza sulle singole imprese di assicurazione e di riassicurazione appartenenti a un gruppo e l'autorita' di vigilanza sul gruppo convocano senza indugio una riunione di tutte le autorita' di vigilanza partecipanti alla vigilanza di gruppo almeno nei seguenti casi, allorche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    vengono a conoscenza di una grave violazione del Requisito Patrimoniale di Solvibilita' o del Requisito Patrimoniale Minimo di una singola impresa di assicurazione o di riassicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vengono a conoscenza di una grave violazione del Requisito Patrimoniale di Solvibilita' di gruppo calcolato in base a dati consolidati, o del requisito patrimoniale di solvibilita' di gruppo aggregato in conformita' di qualunque metodo di calcolo usato conformemente al Titolo XV, Capo I ter; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si verificano o si sono verificate altre circostanze eccezionali.
+
 ))
 
 ## Art. 207-ter. — (( (Consultazione tra autorita' di vigilanza) ))
 
 ((
+
+1.
+                        
+                            
+                                Fatti salvi gli articoli 206-bis e 206-ter, 207-septies e 212-bis, le autorita' di vigilanza interessate, quando una decisione e' rilevante per l'espletamento dei compiti di vigilanza di altre autorita' di vigilanza, prima di adottare tale decisione si consultano nell'ambito del collegio delle autorita' di vigilanza sui seguenti aspetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modifiche dell'assetto azionario, della struttura organizzativa o decisionale delle imprese di assicurazione e di riassicurazione di un gruppo che richiedono l'autorizzazione delle autorita' di vigilanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la decisione sull'estensione del periodo ammesso per il risanamento a norma dell'articolo 222, commi 2-bis, 2-ter e 2-quater; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le principali sanzioni e misure eccezionali adottate dalle autorita' di vigilanza interessate, ivi compresa l'imposizione di una maggiorazione del requisito patrimoniale di solvibilita' ai sensi dell'articolo 47-sexies e l'imposizione di limitazioni nell'uso di un modello interno per il calcolo del Requisito Patrimoniale di Solvibilita' conformemente agli articoli da 46-bis a 46-quinquiesdecies. Nel caso di cui alle lettere b) e c), l'autorita' di vigilanza sul gruppo e' sempre consultata.
 
 In ogni caso le autorita' di vigilanza interessate si consultano prima di adottare decisioni basate su informazioni ricevute da altre autorita' di vigilanza.
 
@@ -4884,6 +10361,29 @@ Le informazioni ricevute nell'ambito dell'esercizio della vigilanza sul gruppo, 
 
 L'IVASS, nel caso in cui sia competente all'esercizio della vigilanza su tutte le imprese di assicurazione o di riassicurazione del gruppo, e' designata autorita' di vigilanza sul gruppo. In tal caso l'IVASS e' responsabile del coordinamento e dell'esercizio della vigilanza sul gruppo.
 
+2.
+                        
+                            
+                                Fatto salvo quanto previsto dai commi 1 e 3, l'IVASS esercita le funzioni di autorita' di vigilanza sul gruppo secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se al vertice del gruppo vi e' un'impresa di assicurazione o di riassicurazione e l'IVASS ha autorizzato tale impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se al vertice del gruppo non vi e' un'impresa di assicurazione o di riassicurazione, l'IVASS e' considerata autorita' di vigilanza sul gruppo sulla base dei seguenti criteri: 
+ 1) nel caso in cui l'IVASS ha autorizzato l'impresa di assicurazione o di riassicurazione la cui societa' controllante sia una societa' di partecipazione assicurativa o una societa' di partecipazione finanziaria mista; 
+ 2) nel caso in cui l'IVASS ha autorizzato l'impresa di assicurazione o di riassicurazione con sede nel territorio della Repubblica, qualora piu' imprese di assicurazione o di riassicurazione del gruppo con sede in diversi Stati membri abbiano come societa' controllante la stessa societa' di partecipazione assicurativa o societa' di partecipazione finanziaria mista e tale societa' di partecipazione assicurativa o di partecipazione finanziaria mista abbia sede nel territorio della Repubblica; 
+ 3) nel caso in cui l'IVASS ha autorizzato l'impresa di assicurazione o di riassicurazione con il totale dello stato patrimoniale piu' elevato, qualora al vertice del gruppo vi siano piu' societa' di partecipazione assicurativa o societa' di partecipazione finanziaria mista con sede in diversi Stati membri, in ciascuno dei quali si trova un'impresa di assicurazione o di riassicurazione; 
+ 4) nel caso in cui l'IVASS ha autorizzato l'impresa di assicurazione o di riassicurazione con il totale dello stato patrimoniale piu' elevato, qualora piu' imprese di assicurazione o di riassicurazione del gruppo con sede in diversi Stati membri abbiano come societa' controllante la stessa societa' di partecipazione assicurativa o societa' di partecipazione finanziaria mista e nessuna di tali imprese sia stata autorizzata nello Stato membro nel quale ha sede la societa' di partecipazione assicurativa o la societa' di partecipazione finanziaria mista; 
+ 5) nel caso in cui l'IVASS ha autorizzato l'impresa di assicurazione o di riassicurazione con il totale dello stato patrimoniale piu' elevato, qualora il gruppo non abbia una societa' controllante, o in qualsiasi altro caso diverso da quelli di cui ai numeri da 1) a 4).
+
 Qualora non ricorrano i criteri di cui ai commi 1 e 2, il ruolo di autorita' di vigilanza sul gruppo e' assunto dall'autorita' di vigilanza risultata competente applicando i criteri previsti dall'articolo 247 della direttiva 2009/138/CE.
 
 In casi particolari, l'IVASS e le altre autorita' di vigilanza interessate sulle imprese del gruppo, su richiesta di una di esse, possono con decisione congiunta derogare ai criteri fissati ai commi 2 e 3, qualora l'applicazione di tali criteri non sia opportuna, avuto riguardo alla struttura del gruppo ed all'importanza relativa delle attivita' delle imprese di assicurazione e di riassicurazione nei vari Stati membri, e designare un'altra autorita' di vigilanza come autorita' di vigilanza sul gruppo. A tal fine, l'IVASS, o altra autorita' di vigilanza interessata sulle imprese del gruppo, puo' chiedere che sia avviata una discussione sulla possibilita' che siano applicati i criteri di cui ai commi 2 e 3. La discussione si tiene al massimo annualmente.
@@ -4901,6 +10401,45 @@ In mancanza di una decisione congiunta che deroghi ai criteri di cui al comma 2,
 ## Art. 207-septies. — (( (Funzioni dell'IVASS in qualita' di Autorita' di Vigilanza sul gruppo) ))
 
 ((
+
+1.
+                        
+                            
+                                L'IVASS, in qualita' di Autorita' di vigilanza sul gruppo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasmette all'AEAP le informazioni sul funzionamento dei collegi delle autorita' di vigilanza e in merito a qualsiasi difficolta' incontrata che possa essere rilevante ai fini dell'esame che l'AEAP effettua, almeno ogni tre anni, sul funzionamento operativo dei collegi, al fine di valutarne i livelli di convergenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasmette alle autorita' di vigilanza sulle imprese del gruppo e all'AEAP le informazioni concernenti il gruppo con riferimento agli stretti legami e alla relazione sulla solvibilita' di gruppo e alla condizione finanziaria, nonche' quelle acquisite ai sensi dell'articolo 214-bis, in particolare per quanto concerne la forma giuridica e la struttura di governo societario e organizzativa del gruppo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordina la raccolta e la diffusione delle informazioni rilevanti o essenziali, anche in situazioni di emergenza, e divulga le informazioni importanti per l'esercizio delle funzioni di vigilanza da parte delle autorita' di vigilanza sulle imprese del gruppo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pianifica e coordina, in collaborazione con le autorita' di vigilanza sulle imprese del gruppo, le attivita' di vigilanza sul gruppo, anche in situazioni di emergenza, tramite riunioni regolari organizzate almeno annualmente o con ogni altro mezzo idoneo, tenendo conto della natura, della portata e della complessita' dei rischi inerenti all'attivita' di tutte le imprese che appartengono al gruppo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolge ulteriori compiti, adotta le misure e decisioni assegnate dalle disposizioni legislative, regolamentari e dalle norme europee direttamente applicabili, in particolare espleta la procedura di convalida del modello interno a livello di gruppo e la procedura di autorizzazione ad applicare il regime di vigilanza sulla solvibilita' di gruppo con gestione centralizzata dei rischi.
 
 L'IVASS puo' invitare le autorita' di vigilanza dello Stato membro in cui ha sede una impresa controllante a richiedere alla societa' controllante ogni informazione pertinente per l'esercizio delle funzioni di coordinamento di cui al comma 1.
 
@@ -4925,6 +10464,24 @@ Se le autorita' di vigilanza interessate sono pervenute alla decisione congiunta
 
 In mancanza di una decisione congiunta delle autorita' di vigilanza interessate entro il termine di sei mesi di cui al comma 3, l'IVASS decide autonomamente in merito alla domanda, tenendo in debita considerazione eventuali pareri e riserve delle autorita' di vigilanza interessate espressi nel termine di sei mesi. L'IVASS trasmette un documento contenente la decisione pienamente motivata al richiedente e alle altre autorita' di vigilanza interessate che la riconoscono come determinante e la applicano.
 
+8.
+                        
+                            
+                                Nell'ipotesi in cui una delle autorita' di vigilanza interessate ritenga che il profilo di rischio di un'impresa di assicurazione o riassicurazione soggetta alla sua vigilanza si discosti significativamente dalle ipotesi sottese al modello interno approvato a livello di gruppo e fino a quando l'impresa non affronti adeguatamente le riserve dell'autorita' di vigilanza, quest'ultima puo', nei casi di cui all'articolo 47-sexies, proporre di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    imporre una maggiorazione di capitale rispetto al Requisito Patrimoniale di Solvibilita' di tale impresa di assicurazione o di riassicurazione risultante dall'applicazione del predetto modello interno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in circostanze eccezionali in cui la maggiorazione di capitale di cui alla lettera a) risulti inappropriata, imporre all'impresa di calcolare il suo Requisito Patrimoniale di solvibilita' sulla base della formula standard in conformita' alle previsioni di cui al Titolo III, Capo IV-bis, Sezioni I e II.
+
 Secondo quanto previsto dall'articolo 47-sexies, comma 1, lettere a) e c), l'autorita' di vigilanza puo' imporre una maggiorazione del capitale rispetto al Requisito Patrimoniale di Solvibilita' di tale impresa di assicurazione o riassicurazione risultante dall'applicazione della formula standard. L'autorita' di vigilanza comunica le ragioni delle eventuali decisioni, adottate ai sensi del presente comma e del comma 10, sia all'impresa di assicurazione o riassicurazione, sia agli altri membri del collegio delle autorita' di vigilanza.
 
 L'IVASS, quando non e' Autorita' di vigilanza sul gruppo ai sensi del comma 1, collabora con l'Autorita' di vigilanza sul gruppo con sede in altro Stato membro al fine di procedere all'autorizzazione del modello interno di gruppo. In ogni caso l'IVASS puo' avvalersi del potere di imporre una maggiorazione di capitale quando ricorrono le condizioni di cui ai commi 8 e 9.
@@ -4932,6 +10489,24 @@ L'IVASS, quando non e' Autorita' di vigilanza sul gruppo ai sensi del comma 1, c
 ## - - ((Sezione III  Comunicazioni alla Commissione europea e all'AEAP))
 
 ## Art. 208. — (Comunicazioni alla Commissione europea e all'AEAP e alle autorita' di vigilanza di altri Stati membri relativamente ad imprese di Stati membri e di Stati terzi)
+
+1.
+                        
+                            
+                                L'IVASS comunica alla Commissione europea, all'AEAP e alle autorita' di vigilanza degli altri Stati membri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ogni autorizzazione all'esercizio dell'attivita' assicurativa o riassicurativa rilasciata ad un'impresa di assicurazione o di riassicurazione di nuova costituzione che sia controllata, direttamente o indirettamente, da imprese di assicurazione o di riassicurazione aventi la sede legale in uno Stato terzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni autorizzazione all'acquisizione, da parte di imprese di assicurazione o di riassicurazione aventi la sede legale in uno Stato terzo, di partecipazioni di controllo in imprese di assicurazione o di riassicurazione aventi la sede legale nel territorio della Repubblica.
 
 Se l'autorizzazione e' stata rilasciata ad un'impresa di assicurazione o di riassicurazione che si trovi nella situazione di cui alla lettera a), la struttura dei rapporti di controllo e' specificamente indicata nella comunicazione che l'IVASS invia alla Commissione europea, all'AEAP e alle autorita' di vigilanza degli altri Stati membri.
 
@@ -4975,6 +10550,52 @@ L'((IVASS)) comunica alla Commissione europea le assicurazioni di cui la legge i
 ## Art. 210. — (( (Vigilanza sul gruppo) ))
 
 ((
+
+1.
+                        
+                            
+                                La vigilanza a livello di gruppo si applica, in base a quanto previsto dal presente Titolo e secondo le disposizioni stabilite da IVASS con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle imprese di assicurazione o di riassicurazione con sede legale nel territorio della Repubblica che siano controllanti o partecipanti in almeno un'impresa di assicurazione o di riassicurazione, o in un'impresa di assicurazione o di riassicurazione avente sede legale in uno Stato terzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle imprese di assicurazione o di riassicurazione con sede legale nel territorio della Repubblica che siano controllate da una societa' di partecipazione assicurativa o da una societa' di partecipazione finanziaria mista con sede nel territorio della Repubblica o in un altro Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle imprese di assicurazione o di riassicurazione con sede legale nel territorio della Repubblica che siano controllate da una societa' di partecipazione assicurativa, una societa' di partecipazione finanziaria mista o da un'impresa di assicurazione o di riassicurazione aventi sede legale in uno Stato terzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle imprese di assicurazione o di riassicurazione con sede legale nel territorio della Repubblica che siano controllate da una societa' di partecipazione assicurativa mista; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle imprese di assicurazione o di riassicurazione con sede legale nel territorio della Repubblica che controllano una societa' strumentale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle imprese di assicurazione o di riassicurazione con sede legale nel territorio della Repubblica soggette a direzione unitaria ai sensi dell'articolo 96.
 
 Fatto salvo quanto previsto dai Capi IV-bis e IV-ter, l'IVASS esercita la vigilanza sul gruppo a livello dell'ultima societa' controllante italiana, ovvero l'impresa di assicurazione o di riassicurazione, la societa' di partecipazione assicurativa o di partecipazione finanziaria mista con sede nel territorio della Repubblica che, nell'ambito del gruppo, non e' a sua volta controllata da una impresa di assicurazione o di riassicurazione, da una societa' di partecipazione assicurativa o da una societa' di partecipazione finanziaria mista con sede nel territorio della Repubblica.
 
@@ -5058,6 +10679,31 @@ Nel caso in cui un'impresa di assicurazione o riassicurazione sia stata esclusa 
 
 ((
 
+1.
+                        
+                            
+                                Con riferimento alla vigilanza sul gruppo, l'IVASS esercita le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettua, secondo le modalita' di cui all'articolo 47-quinquies il processo di revisione e valutazione prudenziale di cui all'articolo 216-decies e valuta la situazione finanziaria del gruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valuta l'osservanza da parte del gruppo delle disposizioni in materia di solvibilita', di concentrazione dei rischi e di operazioni infragruppo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valuta il sistema di governo societario del gruppo ed il possesso dei requisiti di cui all'articolo 76 da parte dei soggetti che svolgono funzioni di amministrazione, di direzione e di controllo nelle societa' controllanti di cui all'articolo 210, comma 2, e dei soggetti in esse responsabili delle funzioni fondamentali.
+
 ))
 
 ## Art. 213. — (( (Vigilanza informativa) ))
@@ -5123,6 +10769,31 @@ Le valutazioni di equivalenza di cui agli articoli 216-sexies, comma 1, lettera 
 Il gruppo si dota di un sistema di governo societario coerente con le disposizioni di cui al Titolo III, Capo I, Sezione II, e con le relative disposizioni di attuazione dettate dall'IVASS con regolamento.
 
 L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, e' responsabile dell'attuazione delle disposizioni in materia di sistema di governo societario di gruppo. Resta impregiudicata la responsabilita' del consiglio di amministrazione di ciascuna impresa di assicurazione o riassicurazione del gruppo relativamente al rispetto delle disposizioni di cui al Titolo III, Capo I, Sezione II.
+
+3.
+                        
+                            
+                                I meccanismi di controllo interno del gruppo includono almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    meccanismi adeguati in materia di solvibilita' di gruppo che consentano di individuare e misurare tutti i rischi sostanziali incorsi e determinare un livello di fondi propri ammissibili adeguato ai rischi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valide procedure di segnalazione e contabili che consentano di sorvegliare e di gestire le operazioni infragruppo e la concentrazione di rischi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la costituzione di una funzione per la produzione dei dati e delle informazioni utili ai fini dell'esercizio della vigilanza sul gruppo.
 
 Le disposizioni di cui al comma 3 si applicano alle societa' del gruppo in modo coerente.
 
@@ -5194,6 +10865,24 @@ L'IVASS, previa consultazione delle altre autorita' di vigilanza interessate e d
 
 ((
 
+1.
+                        
+                            
+                                Se risulta che un'operazione infragruppo determina o rischia di determinare gli effetti negativi di cui all'articolo 215-quinquies, comma 3 o arreca o rischia di arrecare pregiudizio per gli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative o per gli interessi delle imprese di assicurazione e riassicurazione cedenti, l'IVASS puo', secondo le disposizioni stabilite con regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vietare all'impresa il compimento dell'operazione o imporre condizioni per il suo compimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare all'impresa di porre in atto le misure idonee a rimuovere tali conseguenze negative o pregiudizievoli, assegnando a tal fine un termine congruo.
+
 ))
 
 ## Art. 216-ter. — (( (Vigilanza sulla solvibilita' di gruppo) ))
@@ -5201,6 +10890,24 @@ L'IVASS, previa consultazione delle altre autorita' di vigilanza interessate e d
 ((
 
 Il calcolo della solvibilita' di gruppo e' effettuato secondo le disposizioni stabilite dall'IVASS con regolamento.
+
+2.
+                        
+                            
+                                Il calcolo della solvibilita' di gruppo e' effettuato dall'ultima societa' controllante italiana di cui all'articolo 210, comma 2, a partire dal bilancio consolidato. La solvibilita' di gruppo dell'impresa di assicurazione o di riassicurazione controllante e' data dalla differenza tra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i fondi propri ammissibili a copertura del Requisito Patrimoniale di Solvibilita', calcolato sulla base dei dati consolidati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Requisito Patrimoniale di Solvibilita' a livello di gruppo calcolato sulla base dei dati consolidati.
 
 Il calcolo del Requisito Patrimoniale di Solvibilita' a livello di gruppo e dei fondi propri ammissibili per la sua copertura calcolato sulla base dei conti consolidati di cui alle lettere a) e b), comma 2, e' effettuato secondo le disposizioni di cui al Titolo III, Capo IV, Sezione I e II, e di cui al Titolo III, Capo IV-bis, Sezione I, II e III, e le disposizioni attuative dettate dall'IVASS con regolamento, ai sensi del comma 1.
 
@@ -5226,6 +10933,24 @@ L'ultima societa' controllante italiana monitora su base continuativa il Requisi
 
 L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, assicura la costante disponibilita' in seno al gruppo di fondi propri ammissibili che siano sempre almeno uguali al Requisito Patrimoniale di Solvibilita'.
 
+2.
+                        
+                            
+                                Il Requisito Patrimoniale di Solvibilita' di gruppo consolidato e' come minimo pari alla somma dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Requisito Patrimoniale Minimo, di cui all'articolo 47-ter, dell'impresa di assicurazione o di riassicurazione controllante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quota proporzionale del Requisito Patrimoniale Minimo delle imprese di assicurazione e di riassicurazione controllate o partecipate.
+
 L'importo minimo di cui al comma 2 e' coperto da fondi propri di base ammissibili ai sensi dell'articolo 44-decies, comma 4. Al fine di determinare se tali fondi propri di base ammissibili consentono di coprire il Requisito Patrimoniale di Solvibilita' di gruppo consolidato minimo, si applicano i principi di cui all'articolo 216-sexies, comma 1, lettere a), c), d) e) ed f). Si applica l'articolo 222-bis, commi 1 e 2. In tal caso le comunicazioni sono effettuate dall'ultima societa' controllante di cui al comma 2.
 
 ))
@@ -5234,9 +10959,73 @@ L'importo minimo di cui al comma 2 e' coperto da fondi propri di base ammissibil
 
 ((
 
+1.
+                        
+                            
+                                L'IVASS stabilisce con regolamento i criteri e le modalita' del calcolo della solvibilita' di gruppo ed in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le disposizioni relative ai metodi di calcolo della solvibilita' di gruppo, in particolare al metodo basato sul bilancio consolidato, alla frequenza del calcolo, all'inclusione della quota proporzionale, all'eliminazione del doppio computo di fondi propri ammissibili, all'eliminazione della creazione infragruppo di capitale, ai criteri di valutazione delle attivita' e delle passivita', ai termini e le modalita' delle comunicazioni da effettuare periodicamente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i presupposti e la procedura di autorizzazione per l'utilizzo del metodo della deduzione e dell'aggregazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il trattamento delle imprese di assicurazione e di riassicurazione controllate o partecipate con sede in un altro Stato membro, in particolare prevedendo che l'IVASS possa tener conto, in relazione all'impresa controllata o partecipata, del Requisito Patrimoniale di Solvibilita' e dei fondi propri ammissibili a copertura di tale requisito previsti da detto Stato membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il trattamento degli enti creditizi, delle imprese di investimento e enti finanziari partecipati o controllati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il trattamento delle societa' di partecipazione assicurativa e di partecipazione finanziaria mista intermedie e delle imprese di assicurazione o di riassicurazione controllate o partecipate aventi sede legale in uno Stato terzo, ai fini dell'inclusione nel calcolo della solvibilita' di gruppo; in particolare l'IVASS puo' prevedere che, nel caso in cui l'impresa di assicurazione o di riassicurazione controllata o partecipata avente sede legale in uno Stato terzo sia soggetta ad un regime di autorizzazione e a requisiti di solvibilita' almeno equivalenti, il calcolo, effettuato secondo il metodo della deduzione e della aggregazione, tenga conto, per quanto riguarda l'impresa in questione, del Requisito Patrimoniale di Solvibilita' e dei fondi propri ammissibili a copertura di tale requisito previsti dallo Stato terzo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di vigilanza della solvibilita' di gruppo nel caso di indisponibilita' delle informazioni relativamente ad una societa' partecipata o controllata avente sede in uno Stato membro o in uno Stato terzo.
+
 ))
 
 ## Art. 216-septies. — (Maggiorazione del Requisito Patrimoniale di Solvibilita' di gruppo consolidato)
+
+1.
+                        
+                            
+                                L'IVASS, al fine di determinare se il Requisito Patrimoniale di Solvibilita' di gruppo consolidato riflette adeguatamente il profilo di rischio del gruppo, tiene in particolare considerazione i casi in cui le circostanze di cui all'articolo 47-sexies, comma 1, lettere a), b) e c), potrebbero verificarsi a livello di gruppo, segnatamente qualora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un rischio specifico esistente a livello di gruppo non sia sufficientemente coperto dalla formula standard o dal modello interno utilizzati, in quanto difficile da quantificare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una maggiorazione del Requisito Patrimoniale di Solvibilita' delle imprese di assicurazione o di riassicurazione partecipate o controllate sia imposta dall'IVASS o dalle autorita' di vigilanza interessate, ((conformemente agli articoli)) 47-sexies e 207-octies, comma 7.
 
 Se il profilo di rischio del gruppo non e' adeguatamente riflesso dal Requisito Patrimoniale di Solvibilita' di gruppo consolidato, l'IVASS, anche a seguito del processo di controllo prudenziale degli strumenti di vigilanza sul gruppo, puo' imporre una maggiorazione del Requisito Patrimoniale di Solvibilita' di gruppo consolidato. Si applica l'articolo 47-sexies.
 
@@ -5255,6 +11044,24 @@ L'IVASS puo' limitare le informazioni di vigilanza da presentare periodicamente 
 ((
 
 L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, pubblica una relazione annuale sulla solvibilita' e sulla condizione finanziaria a livello di gruppo, secondo i principi di cui agli articoli 47-septies, 47-octies, 47-novies e 47-decies.
+
+2.
+                        
+                            
+                                La societa' controllante puo', con il parere favorevole dell'IVASS, presentare un'unica relazione sulla solvibilita' e sulla condizione finanziaria contenente i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni a livello del gruppo che devono essere pubblicate conformemente al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni relative a ciascuna delle imprese controllate del gruppo, informazioni che devono essere identificabili singolarmente e pubblicate conformemente agli articoli 47-septies, 47-octies, 47-novies e 47-decies.
 
 Ai fini dell'esercizio della facolta' di cui al comma 2, l'IVASS consulta i membri del collegio delle autorita' di vigilanza, e tiene in debito conto i pareri e le riserve da loro espressi.
 
@@ -5299,6 +11106,24 @@ La decisione di cui al comma 3, adottata dall'AEAP entro un mese, e' riconosciut
 
 Se le autorita' di vigilanza interessate sono pervenute alla decisione congiunta di cui al comma 2, l'autorita' di vigilanza che ha autorizzato l'impresa controllata trasmette all'impresa richiedente la decisione. La decisione congiunta e' riconosciuta come determinante e applicata dalle autorita' di vigilanza interessate.
 
+6.
+                        
+                            
+                                In mancanza di una decisione congiunta delle autorita' di vigilanza interessate entro il termine di tre mesi di cui al comma 2, l'autorita' di vigilanza sul gruppo decide autonomamente in merito alla domanda, tenendo in debita considerazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eventuali pareri e riserve delle autorita' di vigilanza interessate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali riserve delle altre autorita' di vigilanza nell'ambito del collegio.
+
 La decisione di cui al comma 6 contiene la motivazione di ogni eventuale scostamento significativo dalle riserve espresse dalle altre autorita' di vigilanza interessate. La decisione e' trasmessa all'impresa richiedente e alle altre autorita' di vigilanza interessate che la riconoscono come determinante e la applicano.
 
 ## Art. 217-quater. — (( (Gestione centralizzata del rischio: determinazione del Requisito Patrimoniale di Solvibilita') ))
@@ -5307,7 +11132,42 @@ La decisione di cui al comma 6 contiene la motivazione di ogni eventuale scostam
 
 Fatto salvo quanto previsto dall'articolo 207-octies il Requisito Patrimoniale di Solvibilita' dell'impresa di assicurazione o riassicurazione controllata di cui all'articolo articolo 217-bis e' calcolato secondo quanto previsto dai commi 2, 4, 5 e 6 del presente articolo.
 
+2.
+                        
+                            
+                                Nell'ipotesi in cui il Requisito Patrimoniale di Solvibilita' dell'impresa di assicurazione o riassicurazione controllata e' calcolato sulla base di un modello interno approvato a livello di gruppo conformemente all'articolo 207-octies e l'autorita' di vigilanza che ha autorizzato l'impresa di assicurazione o riassicurazione controllata ritiene che il suo profilo di rischio si discosti significativamente dal predetto modello interno e fino a quando l'impresa non risolve adeguatamente le riserve dell'autorita' di vigilanza, quest'ultima puo', nei casi di cui all'articolo 47-sexies, proporre di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fissare una maggiorazione del Requisito Patrimoniale di Solvibilita' di tale impresa controllata risultante dall'applicazione del predetto modello, o, 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in circostanze eccezionali in cui la maggiorazione di cui alla lettera a) non sarebbe appropriata, imporre all'impresa di calcolare il suo Requisito Patrimoniale di Solvibilita' sulla base della formula standard.
+
 L'autorita' di vigilanza discute le proposte di cui al comma 2 nell'ambito del collegio delle autorita' di vigilanza e ne comunica le ragioni sia all'impresa di assicurazione o riassicurazione controllata sia al collegio delle autorita' di vigilanza.
+
+4.
+                        
+                            
+                                Nell'ipotesi in cui il Requisito Patrimoniale di Solvibilita' dell'impresa di assicurazione o riassicurazione controllata e' calcolato sulla base della formula standard e l'autorita' di vigilanza che ha autorizzato l'impresa controllata ritiene che il suo profilo di rischio si discosti significativamente dalle ipotesi sottese alla formula, e fino a quando l'impresa non risolve adeguatamente le riserve dell'autorita' di vigilanza, quest'ultima puo' proporre all'impresa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in circostanze eccezionali, di sostituire un sottoinsieme di parametri utilizzati nel calcolo della formula standard con parametri specifici a tale impresa nel calcolare i moduli del rischio di sottoscrizione per l'assicurazione vita, per l'assicurazione danni e per l'assicurazione malattia, a norma dell'articolo 45-terdecies, o, 
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi di cui all'articolo 47-sexies, di fissare una maggiorazione del Requisito Patrimoniale di Solvibilita' dell'impresa controllata.
 
 L'autorita' di vigilanza discute la proposta di cui al comma 4 nell'ambito del collegio delle autorita' di vigilanza e ne comunica le ragioni sia all'impresa controllata sia al collegio delle autorita' di vigilanza.
 
@@ -5329,13 +11189,81 @@ Se l'autorita' di vigilanza che ha autorizzato l'impresa controllata individua, 
 
 In caso d'inosservanza del Requisito Patrimoniale Minimo e fatto salvo l'articolo 222-bis, l'autorita' di vigilanza che ha autorizzato l'impresa di assicurazione o riassicurazione controllata trasmette senza indugio al collegio delle autorita' di vigilanza il piano di finanziamento a breve termine presentato dall'impresa controllata per ristabilire, entro tre mesi dalla data in cui e' stata rilevata l'inosservanza del Requisito Patrimoniale Minimo, il livello di fondi propri ammissibili a copertura del Requisito Patrimoniale Minimo o per ridurre il suo profilo di rischio al fine di garantire il rispetto del Requisito Patrimoniale Minimo. Il collegio delle autorita' di vigilanza e' altresi' informato circa le eventuali misure adottate per garantire il rispetto del Requisito Patrimoniale Minimo a livello di impresa controllata.
 
+5.
+                        
+                            
+                                L'Autorita' di vigilanza sull'impresa controllata e l'autorita' di vigilanza sul gruppo possono rinviare la questione all'AEAP e richiederne l'assistenza conformemente all'articolo 19 del regolamento (UE) n. 1094/2010 in caso di disaccordo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sull'approvazione del piano di risanamento, anche in relazione ad un'eventuale estensione del periodo ammesso per il risanamento, entro il periodo di quattro mesi di cui al comma 2; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sull'approvazione delle misure proposte entro il periodo di un mese di cui al comma 3.
+
 Nelle ipotesi di cui al comma 5 l'AEAP assume la decisione entro un mese da tale rinvio.
+
+7.
+                        
+                            
+                                La questione non e' rinviata all'AEAP: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo la scadenza del periodo di quattro mesi o di un mese di cui ai commi 2 e 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il raggiungimento di un accordo nell'ambito del collegio ai sensi dei commi 2 o 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nelle situazioni di emergenza di cui al comma 3.
 
 8. Il periodo di quattro mesi e di un mese di cui ai commi 2 e 3 sono considerati periodi di conciliazione ai sensi dell'articolo 19, paragrafo 2, del regolamento (UE) n. 1094/2010. L'autorita' di vigilanza che ha autorizzato l'impresa di assicurazione e riassicurazione controllata posticipa la sua decisione in attesa di una decisione eventualmente adottata dall'AEAP conformemente all'articolo 19, paragrafo 3, di tale regolamento e adegua la propria decisione a quella dell'AEAP. Tale decisione e' riconosciuta come determinante e applicata dalle autorita' di vigilanza interessate. La decisione e' pienamente motivata ed e' trasmessa all'impresa controllata e al collegio delle autorita' di vigilanza))
 
 ## Art. 217-sexies. — (( (Gestione centralizzata del rischio: fine delle deroghe per l'impresa controllata) ))
 
 ((
+
+1.
+                        
+                            
+                                Le disposizioni, di cui agli articoli 217-quater e 217-quinquies cessano di essere applicabili quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la condizione di cui all'articolo 217-bis, comma 1, lettera a), non e' piu' soddisfatta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la condizione di cui all'articolo 217-bis, comma 1, lettera b), non e' piu' soddisfatta e l'ultima impresa di assicurazione o riassicurazione controllante non ne ripristina l'osservanza entro un termine adeguato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le condizioni di cui all'articolo 217-bis, comma 1, lettere c) e d), non sono piu' soddisfatte.
 
 Nel caso di cui al comma 1, lettera a), se l'autorita' di vigilanza del gruppo decide, previa consultazione del collegio delle autorita' di vigilanza, di non includere piu' l'impresa di assicurazione o riassicurazione controllata nella vigilanza sul gruppo, ne informa immediatamente l'autorita' di vigilanza interessata e l'ultima impresa controllante.
 
@@ -5459,6 +11387,24 @@ L'IVASS comunica gli approcci di cui al comma 4, che consentono di conseguire gl
 
 ((
 
+1.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 227, se le imprese di assicurazione o di riassicurazione del gruppo non rispettano i requisiti di cui al presente Titolo o se i requisiti sono rispettati ma la solvibilita' e' comunque a rischio o se le operazioni infragruppo o le concentrazioni dei rischi minacciano la situazione finanziaria delle imprese di assicurazione o di riassicurazione, le misure necessarie, incluse quelle previste dall'articolo 188, per rimediare il piu' rapidamente possibile alla situazione sono adottate tempestivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'IVASS, in qualita' di autorita' di vigilanza sul gruppo, nei confronti delle societa' di partecipazione assicurativa e delle societa' di partecipazione finanziaria mista controllante ai sensi dell'articolo 210, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'IVASS nei confronti delle imprese di assicurazione e riassicurazione del gruppo con sede legale nel territorio della Repubblica.
+
 Nelle ipotesi in cui le misure di cui al comma 1 devono essere adottate nei confronti di societa' di partecipazione assicurativa e delle societa' di partecipazione finanziaria mista con sede legale in un altro Stato membro, l'IVASS informa le autorita' di vigilanza di tale Stato delle conclusioni a cui e' pervenuta, al fine di consentire alle stesse l'adozione delle misure necessarie e collabora con esse al fine di garantire un'azione efficace di vigilanza.
 
 Nel caso in cui l'impresa di assicurazione o di riassicurazione nei cui confronti devono essere prese le misure correttive abbia sede in un altro Stato membro, IVASS, in qualita' di autorita' di vigilanza sul gruppo ai sensi dell'articolo 207-sexies, informa l'autorita' di vigilanza in cui ha sede l'impresa al fine di consentire alla stessa l'adozione delle misure necessarie e collabora con essa al fine di garantire un'azione efficace di vigilanza.
@@ -5485,6 +11431,31 @@ Fatto salvo quanto previsto all'articolo 184, qualora l'impresa di assicurazione
 
 L'((IVASS)), nei casi di cui al comma 1, puo' vietare all'impresa di compiere atti di disposizione sui beni esistenti nel territorio della Repubblica e successivamente puo' consentirne, con specifiche autorizzazioni, una disponibilita' limitata, comunque informando preventivamente le autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera. L'((IVASS)) puo' inoltre chiedere alle autorita' di vigilanza degli altri Stati membri, nei quali l'impresa possiede beni, di adottare analogo provvedimento, indicando i beni da assoggettare a tale misura.
 
+3.
+                        
+                            
+                                Se l'impresa non ottempera nel termine assegnato all'ordine di cui al comma 1, l'((IVASS)) puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    nominare un commissario con i compiti di cui all'articolo 229 per l'eliminazione delle violazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vietare l'assunzione di nuovi affari, per un periodo fino a sei mesi, allo scopo di salvaguardare gli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative o gli interessi delle imprese di assicurazione cedenti, con gli effetti di cui all'articolo 167; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre, avuto riguardo alla gravita' della violazione, il vincolo sui singoli attivi iscritti nel registro a copertura delle riserve tecniche con le modalita' previste dall'articolo 224.
+
 Il divieto di assunzione di nuovi affari e' comunicato alle autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera ed e' pubblicato nel bollettino. Il provvedimento viene revocato prima del termine, se l'impresa ha eliminato o posto completo rimedio alla violazione contestata. La revoca e' comunicata alle autorita' di vigilanza degli altri Stati membri ed il relativo provvedimento e' pubblicato nel bollettino.
 
 ## Art. 222. — (( (Violazione delle norme sul Requisito Patrimoniale di Solvibilita') ))
@@ -5502,6 +11473,31 @@ L'IVASS, qualora lo ritenga opportuno, puo' concedere una proroga di tre mesi.
 In presenza di situazioni eccezionalmente avverse aventi ripercussioni, riconosciute dall'AEAP, su imprese di assicurazione e riassicurazione che rappresentano una quota significativa del mercato o delle aree di attivita' interessate, l'IVASS puo' estendere per le imprese colpite, se del caso anche in consultazione con il CERS, il periodo fissato al comma 2-ter per un periodo di tempo massimo di sette anni, tenendo conto di tutti i fattori pertinenti, ivi inclusa la durata media relativa delle riserve tecniche.
 
 L'IVASS puo' chiedere all'AEAP di constatare l'esistenza di situazioni eccezionalmente avverse.
+
+2-sexies.
+                        
+                            
+                                L'IVASS puo' formulare una richiesta in tal senso se esiste la concreta possibilita' che talune imprese di assicurazione o di riassicurazione che rappresentano una quota significativa del mercato o delle aree di attivita' interessate non siano in grado di soddisfare uno dei requisiti di cui al comma 2-bis. Si e' in presenza di situazioni eccezionalmente avverse nel caso in cui la situazione finanziaria di talune di dette imprese sia gravemente o negativamente colpita da almeno una delle seguenti circostanze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un crollo dei mercati finanziari che sia imprevisto, brusco e drastico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un contesto caratterizzato in maniera persistente da tassi di interesse bassi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un evento catastrofico ad alto impatto.
 
 L'IVASS collabora con l'AEAP nella valutazione sulla persistenza delle condizioni di cui ai commi 2-quinquies e 2-sexies.
 La cessazione della situazione eccezionalmente avversa e' dichiarata dall'AEAP, previa consultazione dell'IVASS.
@@ -5549,6 +11545,45 @@ Fatte salve le deroghe previste dalle disposizioni dell'Unione Europea direttame
 ## Art. 223-ter. — (( (Piano di risanamento e piano di finanziamento) ))
 
 ((
+
+1.
+                        
+                            
+                                L'IVASS stabilisce, con regolamento, le norme di attuazione che riguardano, in particolare, i dati e le informazioni da indicare nel piano di risanamento di cui all'articolo 222 e nel piano di finanziamento di cui all'articolo 222-bis i quali devono includere, in ogni caso, almeno le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le previsioni relative alle spese di gestione, in particolare le spese generali correnti e le provvigioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le previsioni di entrata e di spesa, sia per le operazioni dirette e per le operazioni di riassicurazione attiva sia per le operazioni di riassicurazione passiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le previsioni di bilancio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le previsioni relative ai mezzi finanziari destinati alla copertura delle riserve tecniche, del requisito patrimoniale di solvibilita' e del requisito patrimoniale minimo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la politica di riassicurazione nel suo complesso.
 
 L'IVASS, valutata la situazione dell'impresa di assicurazione o di riassicurazione, puo' ridurre il valore di tutti gli elementi che rientrano nel Requisito Patrimoniale di Solvibilita' e cio' anche nel caso in cui abbiano subito una significativa diminuzione del valore di mercato nel periodo successivo alla fine del precedente esercizio.
 
@@ -5636,7 +11671,26 @@ Al termine della gestione provvisoria gli organi subentranti prendono in consegn
 
 ## Art. 231. — Amministrazione straordinaria
 
+1.
+                        
+                            
+                                Il ((Ministro dello sviluppo economico)), su proposta dell'((IVASS)), puo' disporre con decreto lo scioglimento degli organi con funzioni di amministrazione e di controllo dell'impresa di assicurazione o di riassicurazione quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultino gravi irregolarita' nell'amministrazione, ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie che regolano l'attivita' dell'impresa; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    siano previste gravi perdite patrimoniali. 
+ Lo scioglimento puo' essere richiesto all'((IVASS)) dagli organi amministrativi ovvero dall'assemblea straordinaria dell'impresa con istanza motivata sulla base dei presupposti di cui alle lettere a) e b) del presente comma.
+
+((COMMA SOPPRESSO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
 
 Le funzioni delle assemblee e degli organi diversi da quelli indicati nel comma 1 sono sospese per effetto del provvedimento di amministrazione straordinaria, salvo quanto previsto dall'articolo 234, comma 7.
 
@@ -5757,6 +11811,46 @@ Si applicano, in quanto compatibili, le disposizioni del presente capo.
 
 ## Art. 240. — Decadenza dall'autorizzazione rilasciata all'impresa di assicurazione
 
+1.
+                        
+                            
+                                L'impresa di assicurazione decade dall'autorizzazione quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non da' inizio all'attivita' entro i primi dodici mesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rinuncia espressamente all'autorizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non esercita l'attivita' per un periodo superiore a sei mesi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    trasferisce l'intero portafoglio ad altra impresa di assicurazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    si verifica una causa di scioglimento della societa'. 
+ Qualora l'impresa non abbia dato inizio all'attivita' entro i primi dodici mesi ovvero non abbia esercitato la stessa per un periodo superiore a sei mesi, in presenza di giustificati motivi e su richiesta dell'impresa interessata, l'((IVASS)) puo' consentire un limitato periodo di proroga non superiore a sei mesi.
+
 Se l'inattivita', la rinuncia o la cessazione dell'attivita' riguardano soltanto alcuni dei rami per i quali l'impresa di assicurazione e' stata autorizzata, la decadenza concerne esclusivamente tali rami.
 
 ((
@@ -5797,6 +11891,45 @@ Fermo restando quanto previsto all'articolo 245, se la procedura di liquidazione
 Le disposizioni del presente articolo si applicano anche all'impresa di assicurazione che ha sede legale in uno Stato terzo e che e' autorizzata ad operare in stabilimento nel territorio della Repubblica, fermo restando che l'efficacia dei provvedimenti adottati e' limitata alla medesima sede secondaria.
 
 ## Art. 242. — Revoca dell'autorizzazione rilasciata all'impresa di assicurazione
+
+1.
+                        
+                            
+                                L'autorizzazione e' revocata quando l'impresa di assicurazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non si attiene, nell'esercizio dell'attivita', ai limiti imposti nel provvedimento di autorizzazione o previsti nel programma di attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non soddisfa piu' alle condizioni di accesso all'attivita' assicurativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' gravemente inadempiente alle disposizioni del presente codice; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non rispetta il Requisito Patrimoniale Minimo ed ha presentato, a giudizio dell'IVASS, un piano di finanziamento manifestamente inadeguato ovvero non ha rispettato il piano approvato entro tre mesi dalla rilevazione dell'inosservanza del Requisito Patrimoniale Minimo ovvero, nel caso in cui sia soggetta a vigilanza di gruppo, non ha realizzato entro i termini stabiliti le misure previste dall'articolo 227; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    viene assoggettata a liquidazione coatta ovvero e' dichiarato lo stato di insolvenza dall'autorita' giudiziaria.
 
 L'autorizzazione all'esercizio del ramo della responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore e dei natanti, fermo quanto previsto al comma 1, e' altresi' revocata nel caso di ripetuto o sistematico rifiuto od elusione all'obbligo a contrarre, di cui all'articolo 132, comma 1, o nel caso di ripetuta o sistematica violazione delle disposizioni sulle procedure di liquidazione dei sinistri di cui agli articoli 148 e 149.
 
@@ -6152,6 +12285,63 @@ Gli attivi a copertura delle riserve tecniche dei rami vita e dei rami danni, ch
 
 Dalla pubblicazione del provvedimento di liquidazione, o dalla notifica all'impresa di assicurazione o di riassicurazione se anteriore, la composizione degli attivi indicati nel registro ed il registro medesimo non possono essere modificati dai commissari, ad eccezione della correzione di meri errori materiali, senza l'autorizzazione dell'IVASS. I commissari includono nel registro, in deroga al vincolo di immodificabilita', i proventi finanziari maturati sugli attivi, nonche' l'importo dei premi incassati nel periodo compreso fra l'apertura della liquidazione e il pagamento dei crediti di assicurazione e di riassicurazione o, nel caso di trasferimento del portafoglio, fino alla data del trasferimento stesso. Se il ricavato della liquidazione degli attivi e' inferiore alla valutazione indicata nel registro, i commissari sono tenuti a darne giustificazione all'IVASS.
 
+3.
+                        
+                            
+                                Sugli attivi a copertura delle riserve tecniche dei rami vita si soddisfano con priorita' rispetto agli altri titolari di crediti sorti anteriormente al provvedimento di liquidazione, ancorche' assistiti da privilegio o ipoteca: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli aventi diritto ai capitali o indennizzi per polizze scadute o sinistrate entro il sessantesimo giorno successivo alla data di pubblicazione del provvedimento di liquidazione e gli aventi diritto a rendite maturate entro lo stesso termine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i titolari di crediti derivanti da operazioni di capitalizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli aventi diritto alle somme dovute per riscatti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i titolari dei contratti in corso alla data di cui alla lettera a), in proporzione dell'ammontare delle riserve matematiche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i titolari dei contratti che non prevedono la costituzione di riserve matematiche, proporzionalmente alla frazione di premio corrispondente al rischio non corso. Se gli attivi a copertura delle riserve tecniche dei rami vita risultano insufficienti per soddisfare i crediti indicati in precedenza, quelli di cui alle lettere a), b), c), e d) sono preferiti ai crediti di cui alla lettera e).
+
+4.
+                        
+                            
+                                Sugli attivi a copertura delle riserve tecniche dei rami danni si soddisfano, con priorita' rispetto agli altri titolari di crediti sorti anteriormente al provvedimento di liquidazione, ancorche' assistiti da privilegio o ipoteca: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli aventi diritto a capitali o indennizzi per sinistri verificatisi entro il sessantesimo giorno successivo alla data di pubblicazione del provvedimento di liquidazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i titolari dei contratti in corso alla data di cui alla lettera a), in proporzione alla frazione del premio corrispondente al rischio non ancora corso. Se gli attivi a copertura delle riserve tecniche dei rami danni risultano insufficienti per soddisfare tutti i crediti indicati in precedenza, quelli di cui alla lettera a) sono preferiti ai crediti di cui alla lettera b).
+
 Gli impegni risultanti dalla partecipazione ad un contratto di coassicurazione comunitaria sono soddisfatti alla stessa stregua degli impegni risultanti dagli altri contratti di assicurazione senza distinzione di nazionalita' per quanto riguarda gli aventi diritto alle prestazione assicurative.
 
 Se gli attivi a copertura delle riserve tecniche relative ai contratti di assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti risultano insufficienti per soddisfare tutti i crediti indicati nel comma 4, si applicano le disposizioni previste dal capo I del titolo XVII.
@@ -6360,6 +12550,31 @@ Il presente articolo si applica, in quanto compatibile, alle sedi secondarie ita
 
 ## Art. 267. — Rapporti di lavoro, contratti su beni immobili navi e aeromobili, strumenti finanziari
 
+1.
+                        
+                            
+                                In caso di adozione di un provvedimento di risanamento o di una procedura di liquidazione, da parte di un altro Stato membro nei confronti dell'impresa di assicurazione che ha sede legale in tale Stato, restano soggetti alla legge italiana: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i rapporti di lavoro con l'impresa di assicurazione sorti in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contratti stipulati con l'impresa di assicurazione che danno diritto all'utilizzo o all'acquisto di un bene immobile situato nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i diritti dell'impresa di assicurazione su un bene immobile, su una nave o su un aeromobile, che richiedono un'iscrizione in un pubblico registro italiano.
+
 Agli atti a titolo oneroso, stipulati successivamente all'adozione di un provvedimento di risanamento o di una procedura di liquidazione, per effetto dei quali l'impresa di assicurazione disponga di un bene immobile, di una nave o di un aeromobile soggetti all'iscrizione in pubblico registro ovvero di strumenti finanziari la cui esistenza o il cui trasferimento presuppongono l'iscrizione in un registro pubblico o l'immissione in un sistema di deposito accentrato, si applica la legge italiana se, rispettivamente, l'immobile e' situato nel territorio della Repubblica, i pubblici registri della nave o dell'aeromobile ovvero il registro o il sistema di deposito accentrato degli strumenti finanziari sono disciplinati dalla legge italiana.
 
 ## Art. 268. — Diritti reali di terzi su beni situati nel territorio della Repubblica
@@ -6432,6 +12647,45 @@ I commissari e i liquidatori nominati dall'autorita' dello Stato membro di origi
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente capo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "Fondo di garanzia assicurativo dei rami vita" o "Fondo": organismo associativo istituito fra le imprese di assicurazione e gli intermediari aderenti con lo scopo di intervenire a tutela degli aventi diritto a prestazioni assicurative nei confronti delle imprese aderenti nei casi di cui all'articolo 274-sexies, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "prestazioni protette": diritti di credito spettanti ai contraenti o ai beneficiari di polizze di assicurazione sulla vita a titolo di indennizzo, di restituzione del capitale, di pagamento di una rendita o ad altro titolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "imprese aderenti": le imprese di assicurazione indicate all'articolo 274-ter, commi 1 e 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "intermediari aderenti": gli iscritti al registro di cui all'articolo 109 indicati all'articolo 274-ter, comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "aderenti": le imprese di assicurazione aderenti e gli intermediari aderenti.
+
 ))
 
 ## Art. 274-ter. — (( (Soggetti aderenti e natura del Fondo di garanzia assicurativo dei rami vita) ))
@@ -6469,6 +12723,24 @@ Delle obbligazioni contratte in relazione agli interventi e ai finanziamenti dis
 
 ((
 
+1.
+                        
+                            
+                                Per costituire la dotazione finanziaria del Fondo di garanzia assicurativo dei rami vita, gli aderenti versano contributi almeno annualmente, per l'ammontare determinato dal Fondo stesso ai sensi del comma 2 e di anno in anno comunicato agli aderenti. I contributi possono assumere la forma di impegni irrevocabili di pagamento ed esigibili nei casi previsti dallo statuto del Fondo se cio' e' autorizzato dal Fondo medesimo e nell'ammontare da esso determinato, comunque non superiore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al 50 per cento dell'importo totale della dotazione finanziaria del Fondo fino a che la dotazione e' inferiore al 75 per cento del livello obiettivo di cui al comma 1 dell'articolo 274-quater; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al 60 per cento una volta che sia stata raggiunta una dotazione pari al 75 per cento del livello obiettivo di cui al comma 1 dell'articolo 274-quater.
+
 ))
 
 ((2. I contributi dovuti dalle imprese aderenti sono proporzionati all'ammontare degli impegni assunti nei confronti degli assicurati e al profilo di rischio delle imprese e rappresentano almeno i quattro quinti della contribuzione annuale degli aderenti. Essi possono essere determinati dal Fondo sulla base dei propri metodi interni di valutazione del rischio. L'IVASS approva i metodi interni. In fase di prima applicazione i contributi dovuti dalle imprese di assicurazione aderenti sono pari allo 0,4 per mille dell'importo delle riserve tecniche dei rami vita calcolate secondo le disposizioni di cui al titolo III, capo II, o secondo un regime di solvibilita' ritenuto equivalente conformemente all'ordinamento dell'Unione europea.))
@@ -6498,7 +12770,82 @@ Il Fondo di garanzia assicurativo dei rami vita assicura di avere accesso a font
 
 ((
 
+1.
+                        
+                            
+                                Il Fondo di garanzia assicurativo dei rami vita tutela gli aventi diritto alle prestazioni protette nei confronti delle imprese aderenti, ivi incluse quelle che aderiscono ai sensi dell'articolo 274-ter, comma 5. Il Fondo, a tal fine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettua, nei limiti e secondo le modalita' indicati negli articoli 274-septies e 274-octies, pagamenti nei casi di liquidazione coatta amministrativa delle imprese di assicurazione aderenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se previsto dallo statuto interviene anche in operazioni di cessione di attivita', passivita', aziende, rami d'azienda, beni e rapporti giuridici individuabili in blocco di cui all'articolo 257, comma 2, anche attraverso la prestazione di garanzie, se il costo dell'intervento non supera il costo che il Fondo, secondo quanto ragionevolmente prevedibile in base alle informazioni disponibili al momento dell'intervento, dovrebbe sostenere per l'esecuzione delle prestazioni protette; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se previsto dallo statuto, effettua interventi nei confronti di imprese di assicurazione aderenti per prevenire o superare una situazione di crisi che ne potrebbe determinare l'assoggettamento a liquidazione coatta amministrativa, se il costo degli interventi non supera il costo che il Fondo, secondo quanto ragionevolmente prevedibile in base alle informazioni disponibili al momento dell'intervento, dovrebbe sostenere per l'esecuzione delle prestazioni protette.
+
+2.
+                        
+                            
+                                Lo statuto del Fondo di garanzia assicurativo dei rami vita definisce modalita' e condizioni degli interventi di cui al comma 1, lettera c), con particolare riguardo a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli impegni che l'impresa di assicurazione beneficiaria dell'intervento deve assumere per rafforzare i propri presidi dei rischi anche al fine di non pregiudicare l'esecuzione delle prestazioni protette; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la verifica sul rispetto degli impegni assunti dall'impresa di assicurazione ai sensi della lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il costo dell'intervento, che non supera il costo che il Fondo, secondo quanto ragionevolmente prevedibile, dovrebbe sostenere per effettuare altri interventi nei casi previsti dalla legge o dallo statuto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sopportazione delle perdite prioritariamente da parte dei partecipanti al capitale dell'impresa di assicurazione in situazione di crisi attuale o prospettica.
+
 L'intervento di cui al comma 1, lettera c), puo' essere effettuato se l'IVASS ha accertato che gli aderenti al Fondo di garanzia assicurativo dei rami vita sono in grado di versare i contributi straordinari ai sensi dell'articolo 274-quinquies, comma 4.
+
+4.
+                        
+                            
+                                Dopo che il Fondo ha effettuato un intervento ai sensi del comma 1, lettera c), gli aderenti forniscono allo stesso senza indugio, se necessario sotto forma di contributi straordinari, risorse pari a quelle utilizzate per l'intervento, se, in alternativa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la dotazione finanziaria del Fondo si e' ridotta a meno del 50 per cento del livello obiettivo di cui all'articolo 274-quater, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dotazione finanziaria del Fondo si e' ridotta a meno di due terzi del livello obiettivo di cui all'articolo 274-quater, comma 1, ed emerge la necessita' di effettuare il pagamento delle prestazioni protette.
 
 Finche' il livello obiettivo di cui all'articolo 274-quater, comma 1, non e' raggiunto, le soglie di cui al comma 4 sono riferite all'effettiva dotazione finanziaria disponibile.
 
@@ -6510,6 +12857,31 @@ Finche' il livello obiettivo di cui all'articolo 274-quater, comma 1, non e' rag
 
 Il Fondo di garanzia assicurativo dei rami vita, fatto salvo quanto previsto al comma 3, liquida le prestazioni protette entro l'importo massimo di euro 100.000 per ciascun avente diritto.
 
+2.
+                        
+                            
+                                Ai fini del calcolo del limite di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le prestazioni protette a cui hanno diritto due o piu' soggetti come partecipanti di un ente senza personalita' giuridica sono trattate come se di spettanza di un unico soggetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se la prestazione protetta deve essere eseguita nei confronti di piu' soggetti, la quota spettante a ciascuno di essi e' considerata nel calcolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si tiene conto della compensazione di eventuali debiti dell'avente diritto alla prestazione protetta nei confronti dell'impresa di assicurazione, se esigibili alla data in cui si producono gli effetti del provvedimento di liquidazione coatta amministrativa, nella misura in cui la compensazione e' possibile a norma delle disposizioni di legge o di previsioni contrattuali applicabili.
+
 Il limite di cui al comma 1 non opera con riferimento alle prestazioni protette relative ai contratti di assicurazione sulla vita di cui all'articolo 1, comma 1, lettera ss-bis), numeri 2), 3), 4) e 5).
 
 ))
@@ -6520,6 +12892,24 @@ Il limite di cui al comma 1 non opera con riferimento alle prestazioni protette 
 
 Il pagamento e' effettuato entro novanta giorni lavorativi dalla data di pubblicazione del provvedimento di liquidazione coatta amministrativa ai sensi dell'articolo 247, senza che sia necessario presentare alcuna richiesta al Fondo. A tal fine, l'impresa aderente posta in liquidazione coatta amministrativa trasmette tempestivamente al Fondo le informazioni necessarie in merito alle prestazioni protette su richiesta del Fondo stesso. Il rimborso e' effettuato in euro o nella valuta dello Stato dove risiede l'avente diritto.
 
+2.
+                        
+                            
+                                Il Fondo puo' differire il pagamento nei casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di incertezza sulla sussistenza o sulla titolarita' del diritto alla prestazione protetta o sull'importo dovuto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di cui all'articolo 274-septies, comma 3, se l'importo della prestazione da liquidare eccede i 100.000 euro; il differimento opera per la sola eccedenza e il pagamento, in deroga a quanto previsto dal comma 1, e' effettuato entro sei mesi dalla data di pubblicazione del provvedimento di liquidazione coatta amministrativa.
+
 In deroga al comma 1, se l'avente diritto al pagamento e' sottoposto a un procedimento penale, a misura di prevenzione o a provvedimenti di sequestro connessi con il riciclaggio di proventi di attivita' illecite, il Fondo di garanzia assicurativo dei rami vita puo' sospendere i pagamenti relativi alle prestazioni protette fino al passaggio in giudicato della sentenza di proscioglimento o assoluzione.
 
 Il diritto all'esecuzione della prestazione protetta si estingue decorsi dieci anni dalla pubblicazione del provvedimento di avvio della liquidazione coatta amministrativa. L'estinzione e' impedita dalla proposizione della domanda giudiziale, salvo che il processo si estingua, o dal riconoscimento del diritto da parte del Fondo.
@@ -6529,6 +12919,59 @@ Il Fondo, quando esegue la prestazione protetta ai sensi dell'articolo 274-sexie
 ## Art. 274-novies. — (( (Obblighi del Fondo di garanzia assicurativo dei rami vita) ))
 
 ((
+
+1.
+                        
+                            
+                                Il Fondo di garanzia assicurativo dei rami vita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dispone di assetti di governo, di strutture organizzative e di sistemi di controllo adeguati allo svolgimento dell'attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettua con regolarita', almeno ogni cinque anni, prove di resistenza della propria capacita' di effettuare gli interventi di cui all'articolo 274-sexies. A tal fine esso puo' chiedere informazioni agli aderenti, che sono conservate per il tempo strettamente necessario allo svolgimento delle prove di resistenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    redige la corrispondenza con gli aventi diritto alle prestazioni protette nella lingua o nelle lingue utilizzate dall'impresa di assicurazione per le comunicazioni con i contraenti, gli assicurati e i beneficiari o in una delle lingue ufficiali dello Stato in cui e' stabilita la succursale che ha emesso la copertura assicurativa a cui si riferisce la prestazione protetta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantisce la riservatezza di notizie, informazioni e dati in suo possesso in ragione della propria attivita' istituzionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    redige il proprio bilancio, soggetto a revisione legale dei conti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    si dota di un proprio patrimonio al fine di provvedere alle spese del suo funzionamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    stabilisce nello statuto le modalita' di determinazione della quota associativa versata dagli aderenti per la copertura delle spese di gestione e funzionamento del Fondo stesso.
 
 I componenti degli organi del Fondo di garanzia assicurativo dei rami vita e coloro che prestano la loro attivita' per essi sono vincolati al segreto professionale in relazione alle notizie, alle informazioni e ai dati indicati al comma 1, lettera d).
 
@@ -6547,6 +12990,52 @@ Il Fondo di garanzia assicurativo dei rami vita puo' chiedere ai propri aderenti
 ## Art. 274-undecies. — (( (Poteri dell'IVASS) ))
 
 ((
+
+1.
+                        
+                            
+                                L'IVASS, avendo riguardo alla tutela degli aventi diritto a prestazioni assicurative e alla capacita' del Fondo di eseguire le prestazioni protette: 
+ 
+                            
+                            
+                                a)
+                                
+                                    approva lo statuto, a condizione che il Fondo stesso presenti caratteristiche adeguate allo svolgimento delle funzioni disciplinate dal presente capo e tali da comportare una ripartizione equilibrata dei rischi di insolvenza sul Fondo; se lo statuto prevede che possano essere attuati gli interventi indicati all'articolo 274-sexies, comma 1, lettera c), verifica che il Fondo sia dotato di procedure e sistemi appropriati per selezionare la tipologia di intervento, darvi esecuzione e monitorarne i rischi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigila sul rispetto di quanto previsto dal presente capo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifica che la tutela offerta dai sistemi di garanzia esteri cui aderiscono le succursali italiane di imprese di assicurazione extracomunitarie autorizzate ad esercitare i rami vita in Italia sia equivalente a quella offerta dal Fondo di garanzia assicurativo dei rami vita italiano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definisce eventuali procedure di coordinamento con le autorita' degli Stati interessati in ordine all'adesione delle succursali di imprese di assicurazione extracomunitarie a un Fondo di garanzia italiano e alla loro esclusione dallo stesso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    informa senza indugio il Fondo di garanzia assicurativo dei rami vita se rileva che un'impresa aderente presenta criticita' tali da poter determinare l'attivazione del Fondo stesso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    puo' emanare disposizioni attuative delle norme contenute nel presente capo, anche ai fini di cui all'articolo 274-quater.
 
 Il Fondo informa tempestivamente l'IVASS degli atti e degli eventi di maggior rilievo relativi all'esercizio delle proprie funzioni e trasmette, entro il 31 marzo di ogni anno, una relazione dettagliata sull'attivita' svolta nell'anno precedente e sul piano delle attivita' predisposto per l'anno in corso.
 
@@ -6591,6 +13080,24 @@ Agli schemi di cui al comma 1 si applica il presente capo)).
 ((
 
 Salvo quanto previsto dal presente articolo, alla ultima societa' controllante italiana di cui all'articolo 210, comma 2, si applicano le norme del capo II del presente titolo.
+
+2.
+                        
+                            
+                                L'amministrazione straordinaria della societa' di cui al comma 1, oltre che nei casi previsti dall'articolo 231, puo' essere disposta quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultino gravi inadempienze nell'esercizio dell'attivita' di direzione e di coordinamento per l'esecuzione delle istruzioni di vigilanza impartite dall'IVASS; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una delle societa' del gruppo di cui all'articolo 210-ter, comma 2, sia stata sottoposta alla procedura del fallimento, del concordato preventivo, della liquidazione coatta amministrativa, dell'amministrazione straordinaria ovvero ad altra analoga procedura prevista da leggi speciali o dalla legislazione di altri Stati membri, nonche' quando sia stato nominato l'amministratore giudiziario secondo le disposizioni del codice civile in materia di denuncia al tribunale di gravi irregolarita' nella gestione e possa essere alterato in modo grave l'equilibrio finanziario o gestionale del gruppo.
 
 L'amministrazione straordinaria della societa' di cui al comma 1 dura un anno dalla data di emanazione del decreto del Ministro dello sviluppo economico, salvo che sia prescritto un termine piu' breve dal provvedimento medesimo o che ne sia disposta la chiusura anticipata. In casi eccezionali la procedura puo' essere prorogata per un periodo non superiore ad un anno.
 
@@ -6721,6 +13228,45 @@ Le disposizioni degli articoli di cui al presente capo si applicano anche nei co
 
 ## Art. 283. — Sinistri verificatisi nel territorio della Repubblica
 
+1.
+                        
+                            
+                                Il Fondo di garanzia per le vittime della strada, costituito presso la CONSAP, risarcisce i danni causati dalla circolazione dei veicoli e dei natanti, per i quali vi e' obbligo di assicurazione, nei casi in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il sinistro sia stato cagionato da veicolo o natante non identificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il veicolo o natante non risulti coperto da assicurazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il veicolo sia posto in circolazione contro la volonta' del proprietario, dell'usufruttuario, dell'acquirente con patto di riservato dominio o del locatario in caso di locazione finanziaria. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    il veicolo sia stato spedito nel territorio della Repubblica italiana da uno Stato di cui all'articolo 1, comma 1, lettera bbb), e nel periodo indicato all'articolo 1, comma 1, lettera fff), numero 4-bis), lo stesso risulti coinvolto in un sinistro e sia privo di assicurazione; 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    il sinistro sia cagionato da un veicolo estero con targa non corrispondente o non piu' corrispondente allo stesso veicolo.
+
 Nel caso di cui al comma 1, lettera a), il risarcimento e' dovuto solo per i danni alla persona. In caso di danni gravi alla persona, il risarcimento e' dovuto anche per i danni alle cose, il cui ammontare sia superiore all'importo di euro 500, per la parte eccedente tale ammontare. Nei casi di cui al comma 1, lettere b), d-bis) e d-ter) il risarcimento e' dovuto per i danni alla persona, nonche' per i danni alle cose. Nel caso di cui al comma 1, lettera c), il risarcimento e' dovuto per i danni alla persona, nonche' per i danni alle cose. Nel caso di cui al comma 1, lettera d), il risarcimento e' dovuto, limitatamente ai terzi non trasportati e a coloro che sono trasportati contro la propria volonta' ovvero che sono inconsapevoli della circolazione illegale, sia per i danni alla persona sia per i danni a cose. ((70))
 
 Nel caso previsto dal comma 1, lettera a), il danno e' risarcito nei limiti dei minimi di garanzia previsti, per ogni persona danneggiata e per ogni sinistro, nel regolamento di cui all'articolo 128 relativamente alle autovetture ad uso privato. La percentuale di inabilita' permanente, la qualifica di convivente a carico e la percentuale di reddito del danneggiato da calcolare a favore di ciascuno dei conviventi a carico sono determinate in base alle norme del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali.
@@ -6835,6 +13381,24 @@ Nel giudizio promosso ai sensi dell'articolo 283, comma 1, ((lettere c) e c-bis)
 
 I danneggiati da veicoli assicurati con imprese con sede legale nel territorio della Repubblica che esercitano i rami di responsabilita' civile dei veicoli a motore e dei natanti soggette a procedure di cui all'articolo 283, comma 1, lettere c) e c-bis), possono far valere, nei limiti delle somme indicate dall'articolo 283, comma 4, i diritti derivanti dal contratto nei confronti della CONSAP - Fondo di garanzia per le vittime della strada, richiedendo l'indennizzo direttamente all'impresa designata per il territorio in cui e' avvenuto il sinistro.
 
+2.
+                        
+                            
+                                Entro tre mesi dalla richiesta di cui al comma 1, l'impresa designata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formula un'offerta di indennizzo motivata con la quale chiarisce di essere tenuta a provvedere all'indennizzo, in quanto la richiesta non e' contestata e i danni sono stati parzialmente o interamente quantificati o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce una risposta motivata con la quale chiarisce di non essere tenuta a provvedere all'indennizzo, o con la quale neghi la responsabilita' ovvero dichiari che la responsabilita' non e' chiaramente determinata ovvero che i danni non sono stati interamente quantificati.
+
 Laddove l'indennizzo sia dovuto in conformita' al comma 2, lettera a), l'impresa designata provvede a indennizzare il danneggiato senza indebito ritardo e in ogni caso entro tre mesi dall'accettazione, da parte del danneggiato, dell'offerta motivata di indennizzo. Ove i danni siano stati quantificati solo parzialmente, l'impresa designata provvede a indennizzare il danneggiato entro tre mesi dall'accettazione dell'offerta. La somma corrisposta e' imputata alla liquidazione definitiva del danno.
 
 L'impresa designata non subordina il pagamento dell'indennizzo alla condizione che il danneggiato dimostri che la persona fisica o giuridica responsabile non e' in grado o rifiuta di pagare, o a condizioni diverse da quelle stabilite nei commi 1, 2 e 3.
@@ -6932,7 +13496,32 @@ La CONSAP ha il potere di negoziare e di concludere, entro il 23 dicembre 2023, 
 
 ## Art. 297. — Ambito di intervento dell'Organismo di indennizzo italiano
 
+1.
+                        
+                            
+                                L'Organismo di indennizzo italiano e' incaricato di risarcire gli aventi diritto che abbiano residenza nel territorio della Repubblica, per danni a cose o a persone derivanti da sinistri avvenuti in un altro Stato membro e provocati dall'uso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un veicolo assicurato tramite uno stabilimento situato in altro Stato membro e stazionante in un altro Stato membro; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    un veicolo di cui risulti impossibile l'identificazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un veicolo di cui risulti impossibile, entro due mesi dal sinistro, identificare l'impresa di assicurazione.
+
+((1-bis. L'Organismo di indennizzo italiano e' altresi' incaricato di risarcire gli aventi diritto, che abbiano residenza nel territorio della Repubblica, per danni a cose o a persone derivanti da sinistri avvenuti in un altro Stato membro qualora l'impresa di assicurazione sia assoggettata a procedura di liquidazione, o ad altra procedura equivalente, indipendentemente dall'accertamento dello stato di insolvenza, o vi venga assoggettata in un momento successivo.))
 
 ((70))
 
@@ -6953,7 +13542,25 @@ Nel caso di cui al comma 1, lettera a), l'Organismo di indennizzo italiano inter
 
 ## Art. 298. — Sinistri causati da veicoli regolarmente assicurati
 
+1.
+                        
+                            
+                                Nei casi previsti dall'articolo 297, commi 1, lettera a), e 2, gli aventi diritto possono presentare all'Organismo di indennizzo italiano richiesta di risarcimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora l'impresa di assicurazione o il suo mandatario per la liquidazione dei sinistri nel territorio della Repubblica non abbiano fornito una risposta motivata sugli elementi dedotti nella richiesta di risarcimento entro tre mesi dalla data in cui gli aventi diritto hanno presentato la propria richiesta di risarcimento all'impresa di assicurazione del veicolo, il cui uso ha provocato il sinistro o al mandatario per la liquidazione dei sinistri; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui l'impresa di assicurazione non abbia designato un mandatario per la liquidazione dei sinistri nel territorio della Repubblica; in tale caso gli aventi diritto non possono presentare all'Organismo di indennizzo italiano una richiesta di risarcimento, se hanno presentato una analoga richiesta direttamente all'impresa di assicurazione del veicolo il cui uso ha provocato il sinistro e hanno ricevuto una risposta motivata entro tre mesi dalla presentazione della richiesta.
+
+((1-bis. Gli aventi diritto possono altresi' presentare all'Organismo di indennizzo italiano richiesta di risarcimento nei casi previsti dall'articolo 297, comma 1-bis.))
 
 ((70))
 
@@ -6966,6 +13573,38 @@ Gli aventi diritto presentano all'Organismo di indennizzo italiano la propria ri
 ((5. La persona lesa residente in Italia, entro due mesi dall'accadimento del sinistro, puo' chiedere l'indennizzo all'Organismo di indennizzo italiano nelle situazioni previste nell'articolo 297, comma 1, lettere b) e c). L'Organismo di indennizzo italiano pone fine al suo intervento in caso di successiva risposta motivata dell'impresa di assicurazione o del suo mandatario per la liquidazione dei sinistri alla richiesta degli aventi diritto al risarcimento, a condizione che tale risposta sia inviata entro il termine di due mesi dalla presentazione della richiesta all'Organismo di indennizzo italiano.))
 
 ((70))
+
+6.
+                        
+                            
+                                L'Organismo di indennizzo italiano informa immediatamente di aver ricevuto una richiesta di risarcimento dagli aventi diritto e che interverra' entro due mesi a decorrere dalla presentazione di detta richiesta, i seguenti soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa di assicurazione con la quale e' assicurato il veicolo che ha causato il sinistro o il mandatario per la liquidazione dei sinistri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'organismo di indennizzo dello Stato membro dello stabilimento dell'impresa di assicurazione che ha stipulato il contratto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la persona che ha causato il sinistro, se nota; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ufficio nazionale per l'assicurazione dello Stato ove e' avvenuto il sinistro, se il sinistro e' stato causato da un veicolo stazionante in un altro Stato rispetto a quello in cui e' accaduto il sinistro.
 
 ((6-bis. L'impresa di assicurazione del veicolo responsabile del sinistro informa l'Organismo di indennizzo italiano nel momento in cui indennizza o nega la responsabilita' in relazione a una richiesta che e' stata ricevuta anche dall'Organismo ai sensi del comma 1-bis del medesimo articolo.))
 
@@ -7005,15 +13644,101 @@ L'impresa e' tenuta a rimborsare entro trenta giorni l'Organismo di indennizzo i
 
 ## Art. 300. — Sinistri causati da veicoli non identificati o non assicurati
 
+1.
+                        
+                            
+                                Nei casi previsti dall'articolo 297, comma 1, lettere b) e c), l'Organismo di indennizzo italiano, ricevuta la richiesta di risarcimento, ne informa immediatamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il fondo di garanzia dello Stato membro in cui il veicolo che ha causato il sinistro staziona abitualmente, nel caso si tratti di un veicolo non assicurato, nonche' il Fondo di garanzia dello Stato membro in cui e' accaduto il sinistro se diverso da quello ove staziona abitualmente il veicolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il fondo di garanzia dello Stato membro in cui si e' verificato il sinistro, nel caso in cui lo stesso sia stato causato da un veicolo non identificato ovvero da un veicolo non assicurato di uno Stato terzo.
+
 L'Organismo di indennizzo italiano, ricevuta la richiesta di risarcimento, e' tenuto a rispettare, per la determinazione della responsabilita' e la quantificazione del danno, le norme del diritto positivo vigenti nello Stato ove e' avvenuto il sinistro.
 
+3.
+                        
+                            
+                                L'Organismo di indennizzo italiano, qualora abbia risarcito gli aventi diritto, secondo quanto previsto nel comma 1, ha diritto di richiedere il rimborso di quanto corrisposto a titolo di risarcimento e di quanto sostenuto a titolo di spese dirette e indirette nella misura e secondo le modalita' stabilite dall'accordo fra gli organismi di indennizzo e fra gli organismi di indennizzo e i fondi di garanzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al Fondo di garanzia dello Stato membro in cui il veicolo staziona abitualmente, nel caso in cui non possa essere identificata l'impresa di assicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al Fondo di garanzia dello Stato membro ove si e' verificato il sinistro, nel caso di veicolo non identificato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al Fondo di garanzia dello Stato membro ove si e' verificato il sinistro, nel caso di veicoli non assicurati di uno Stato terzo.
+
 ## Art. 301. — Rimborsi a carico del Fondo di garanzia per le vittime della strada
+
+1.
+                        
+                            
+                                Il Fondo di garanzia per le vittime della strada rimborsa l'organismo di indennizzo dello Stato membro nel quale gli aventi diritto al risarcimento risiedono della somma con la quale il predetto organismo ha risarcito tali aventi diritto, nonche' delle spese dirette e indirette di cui all'articolo 300, comma 3, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sinistri avvenuti in uno Stato membro diverso da quello di residenza degli aventi diritto al risarcimento e causati da un veicolo stazionante abitualmente nel territorio della Repubblica per il quale non e' possibile identificare l'impresa di assicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sinistri avvenuti nel territorio della Repubblica e causati da un veicolo non identificato o da un veicolo non assicurato di uno Stato terzo.
 
 Il Fondo di garanzia per le vittime della strada, dopo aver rimborsato l'organismo di indennizzo, ha diritto di esercitare l'azione di regresso prevista dall'articolo 292.
 
 ## - - Capo V Sistema di indennizzo dei danni derivanti dall'esercizio dell'attivita' venatoria
 
 ## Art. 302. — Ambito di intervento
+
+1.
+                        
+                            
+                                Il Fondo di garanzia per le vittime della caccia, costituito presso la CONSAP, risarcisce i danni causati nell'esercizio dell'attivita' venatoria per i quali vi e' obbligo di assicurazione nei casi in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esercente l'attivita' venatoria non sia identificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esercente l'attivita' venatoria responsabile dei danni non risulti coperto dall'assicurazione obbligatoria per la responsabilita' civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esercente l'attivita' venatoria sia assicurato presso un'impresa operante nel territorio della Repubblica in regime di stabilimento o di prestazione di servizi e che, al momento del sinistro, si trovi in stato di liquidazione coatta o vi sia posta successivamente.
 
 Nel caso di cui alla lettera a), il risarcimento e' dovuto solo per i danni alla persona che abbiano comportato la morte od un'invalidita' permanente superiore al venti per cento. Nel caso di cui alla lettera b), il risarcimento e' dovuto per i danni alla persona nonche' per i danni alle cose il cui ammontare sia superiore all'importo stabilito nel regolamento di attuazione del presente capo. Nel caso di cui alla lettera c), il risarcimento e' dovuto per i danni alla persona nonche' per i danni alle cose il cui ammontare sia superiore all'importo di euro cinquecento. La percentuale di inabilita' permanente, la qualifica di convivente a carico e la percentuale di reddito del danneggiato da calcolare a favore di ciascuno dei conviventi a carico sono determinate in base alle norme del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali.
 
@@ -7116,7 +13841,40 @@ L'IVASS determina, con regolamento, le ipotesi in cui, per l'esistenza di contro
 
 ## Art. 310. — (Sanzioni amministrative pecuniarie)
 
+1.
+                        
+                            
+                                Si applica la sanzione amministrativa pecuniaria da euro trentamila al dieci percento del fatturato per le seguenti violazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    inosservanza degli articoli 11, 12, 13, 15, 16, 18, 21, 22, 28, 29, 30, 30-bis, 30-ter, 30-quater, 30-quinquies, 30-sexies, 30-septies, 30-octies, 30-novies, 32, 33, 35-bis, 35-ter, 35-quater, 36-bis, 36-ter, 36-quater, 36-quinquies, 36-sexies, 36-septies, 36-octies, 36-novies, 36-decies, 36-undecies, 36-duodecies, 36-terdecies, 37-bis, 37-ter, 38, 41, 42, 42-bis, 43, 44-ter, 44-quater, 44-quinquies, 44-sexies, 44-septies, 44-octies, 44-novies, 44-decies, 47-quater, comma 1, 47-septies, 47-octies, 47-novies, 47-decies, 48, 48-bis, 49, 51-quater, 53, 55, 56, 57, 57-bis, 58, 59-bis, 59-ter, 59-quater, 59-quinquies, 60-bis, 62, 63, 64, 65, 65-bis, 66-sexies.1, 66-septies, 67, 73, 75, comma 1, 76, comma 2, 77, commi 1, 3 e 4, 88, 89, 90, 92, 93, 94, 95, 96, 98, 99, 100, 101, 188, 189, comma 1, 190, commi 1, 1-bis, 1-ter e 5-bis, 190-bis, comma 1, 191, 196, comma 2, 197, 210, 210-ter, comma 8, 213, 214-bis, 215-bis, 216, commi 1 e 2, 216-ter, 216-sexies, 216-octies, 216-novies, 220-novies, comma 1, 348 e 349, comma 1, o delle relative norme di attuazione; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    inosservanza degli articoli 10-quater, 132-ter, 133, o delle relative norme di attuazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inosservanza degli articoli 125, comma 5-bis, 127, comma 3, limitatamente all'obbligo di rilascio del certificato di assicurazione, 134 ad eccezione del comma 2, 146, 148, 149, 150, 152, comma 5, e 183, o delle relative norme di attuazione e delle disposizioni di cui all'articolo 8 della legge 8 marzo 2017, n. 24. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte delle imprese di assicurazione, delle imprese di riassicurazione e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554.))
+
+((Si applica la sanzione amministrativa pecuniaria da euro 30.000 al 7 per cento del fatturato in caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte delle imprese di assicurazione, delle imprese di riassicurazione e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554.))
 
 Se il vantaggio ottenuto dall'autore delle violazioni di cui al (( comma 1, lettere a), b) e c-bis) )), come conseguenza delle violazioni stesse e' superiore al massimo edittale indicato nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile. 
  (45)
@@ -7250,6 +14008,31 @@ h) le misure adottate successivamente alla violazione al fine di evitare in futu
  Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
 
 ## Art. 311-sexies. — (Sanzioni amministrative agli esponenti aziendali o al personale)
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto all'articolo 325, comma 1 circa la responsabilita' delle imprese nei confronti delle quali sono accertate le violazioni, per l'inosservanza delle norme richiamate nell'articolo 310, comma 1, lettera a) si applica, salvo che il fatto costituisca reato, la sanzione amministrativa pecuniaria da cinquemila euro a cinque milioni di euro nei confronti dei soggetti che svolgono le funzioni di amministrazione, di direzione, di controllo, nonche' dei dipendenti o di coloro che operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione dell'impresa anche in forma diversa dal rapporto di lavoro subordinato quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e ricorrono una o piu' delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la condotta ha contribuito a determinare la mancata ottemperanza dell'impresa a provvedimenti specifici adottati ai sensi degli articoli 188, comma 3-bis, lettere a), b) e
+                                
+                            
+                            
+                                c)
+                                
+                                    e 214-bis, comma 1; 
+ c) le violazioni riguardano obblighi imposti ai sensi dell'articolo 76 o dell'articolo 79, comma 3, o dell'articolo 191, comma 1, lettera g) ovvero obblighi in materia di remunerazione e incentivazione, quando l'esponente o il personale e' la parte interessata.
 
 Nel caso in cui la condotta dei soggetti di cui al comma 1 abbia contribuito a determinare l'inosservanza dell'ordine previsto nell'articolo 311-ter da parte dell'impresa, si applica nei confronti dei soggetti stessi la sanzione amministrativa pecuniaria da cinquemila euro a cinque milioni di euro.
 
@@ -7419,6 +14202,40 @@ la distribuzione assicurativa))
 
 ## Art. 324. — (Sanzioni relative alle violazioni delle disposizioni in materia di realizzazione e di distribuzione dei prodotti assicurativi, inclusi i prodotti di investimento assicurativo, nonche' alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 e dalle relative norme tecniche di regolamentazione e attuazione, commesse dagli intermediari)
 
+1.
+                        
+                            
+                                Gli intermediari assicurativi e riassicurativi, ivi inclusi quelli a titolo accessorio che nell'ambito delle attivita' di realizzazione e di distribuzione di prodotti assicurativi e di investimento assicurativi violano gli articoli 10-quater, 30-decies, 107, comma 5, 109, commi 2, ultimo periodo, 3, 4, 4-bis, 4-sexies, 4-septies e 6, 109-bis, 110, commi 2 e 3, 111, commi 4 e 5, 112, commi 2, 3 e 5, 113 , comma 2, 117, 118, 119, comma 2, ultimo periodo, 119-bis, 119-ter, 120, 120-bis, commi 1, 2, 3 e 6, 120-ter, 120-quater, 120-quinquies, 121, 121-bis, 121-ter, 131, 170, 185, 185-bis, 185-ter, 187.1, in caso di mancata adesione a detti sistemi, ((188 e)) 191 o le relative norme di attuazione, sono puniti secondo i criteri di cui all'articolo 324-sexies con una delle seguenti sanzioni: ((82))
+                                
+                            
+                            
+                                a)
+                                
+                                    richiamo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    censura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sanzione amministrativa pecuniaria: 
+ 1) per le societa', da cinquemila euro a cinque milioni di euro oppure, se superiore, pari al cinque per cento del fatturato complessivo annuo risultante dall'ultimo bilancio disponibile approvato dall'organo di amministrazione; 
+ 2) per le persone fisiche, da mille euro a settecentomila euro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    radiazione o, in caso di societa' di intermediazione, cancellazione.
+
 Il richiamo, consistente in una dichiarazione scritta di biasimo motivato, e' disposto per fatti di lieve manchevolezza. La censura e' disposta per fatti di particolare gravita'. La radiazione o la cancellazione della societa' di intermediazione e' disposta per fatti di eccezionale gravita'. La radiazione determina l'immediata risoluzione dei rapporti di intermediazione e, nel caso di esercizio dell'attivita' in forma societaria, comporta altresi' la cancellazione della societa' nei casi di particolare gravita' o di sistematica reiterazione dell'illecito.
 
 La violazione dei provvedimenti interdittivi e cautelari adottati ai sensi dell'articolo 184 e' punita con una delle sanzioni di cui al comma 1.
@@ -7437,6 +14254,24 @@ La disposizione di cui al comma 1 si applica anche agli intermediari iscritti al
 In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, si applica, per le societa', la sanzione amministrativa pecuniaria di cui al comma 1, lettera c), numero 1) .
 
 In caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, si applica, per le societa', la sanzione amministrativa pecuniaria da 5.000 euro a 3,5 milioni di euro oppure, se superiore, pari al 3,50 per cento del fatturato complessivo annuo risultante dall'ultimo bilancio disponibile approvato dall'organo di amministrazione.
+
+7-quinquies.
+                        
+                            
+                                Salvo che il fatto costituisca reato, se le violazioni indicate dai commi 7-ter e 7-quater sono commesse da una persona fisica di cui al comma 7-sexies, si applica nei confronti di quest'ultima la sanzione amministrativa pecuniaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di cui al comma 1, lettera c), numero 2), nei casi di cui al comma 7-ter; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da euro 1.000 fino a euro 500.000, nei casi di cui al comma 7-quater.
 
 Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui al comma 7-quinquies si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali o ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati dall'IVASS, ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, ovvero quando la condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'articolo 50, paragrafo 4, lettera a), del regolamento (UE) 2022/2554 da parte della societa' o dell'ente.
 
@@ -7647,7 +14482,51 @@ Ai fini dell'applicazione delle sanzioni amministrative pecuniarie previste dal 
 
 I provvedimenti di applicazione delle sanzioni, le sentenze dei giudici amministrativi che decidono i ricorsi e i decreti che decidono i ricorsi straordinari al Presidente della Repubblica sono pubblicati per estratto nel Bollettino e sul sito internet dell'IVASS. L'IVASS, tenuto conto della violazione e degli interessi coinvolti, puo' stabilire modalita' ulteriori per dare pubblicita' al provvedimento, ponendo le relative spese a carico dell'autore della violazione.
 
+2.
+                        
+                            
+                                L'IVASS puo' disporre la pubblicazione in forma anonima del provvedimento sanzionatorio quando quella ordinaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia ad oggetto dati personali ai sensi del decreto legislativo 30 giugno 2003, n. 196, la cui pubblicazione appaia sproporzionata rispetto alla violazione sanzionata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possa comportare rischi per la stabilita' dei mercati finanziari o pregiudicare lo svolgimento di una indagine penale in corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possa causare un danno sproporzionato ai soggetti coinvolti, purche' tale danno sia determinabile.
+
 Se le situazioni descritte al comma 2 hanno carattere temporaneo, la pubblicazione puo' essere rimandata ed effettuata quando dette esigenze sono venute meno.
+
+4.
+                        
+                            
+                                L'IVASS ((...)) puo' escludere la pubblicazione del provvedimento sanzionatorio nel caso in cui le opzioni stabilite dai commi 2 e 3 siano ritenute insufficienti ad assicurare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la stabilita' dei mercati finanziari ((non)) sia messa a rischio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la proporzionalita' della pubblicazione delle decisioni rispetto all'irrogazione delle sanzioni previste. 
+ (45)
 
 ------------
                             AGGIORNAMENTO (45)
@@ -7719,6 +14598,35 @@ Alle sanzioni amministrative pecuniarie previste dal presente Titolo non si appl
 ((La tempestiva presentazione di una proposta di impegni sospende il termine di conclusione del procedimento sanzionatorio, fino alla notifica del provvedimento di rigetto della proposta o di riapertura del procedimento sanzionatorio nei casi di cui al comma 4.))
 
 ((In caso di mancato rispetto degli impegni resi obbligatori ai sensi del comma 1, l'IVASS puo' irrogare la sanzione amministrativa pecuniaria prevista dalla normativa di riferimento, i cui limiti edittali massimi sono aumentati del 10 per cento. Al fine di monitorare l'attuazione degli impegni, l'IVASS esercita i poteri di cui agli articoli 188 e 189.))
+
+4.
+                        
+                            
+                                
+                                    ((L'IVASS puo' d'ufficio riaprire il procedimento se:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((si modifica in modo determinante la situazione di fatto rispetto ad un elemento su cui si fonda la decisione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((i soggetti interessati contravvengono agli impegni assunti;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la decisione si fonda su informazioni trasmesse dalle parti che sono incomplete inesatte o fuorvianti.))
 
 ((L'IVASS pubblica sul proprio sito internet istituzionale gli impegni assunti ai sensi del presente articolo.))
                                 ((82))
@@ -7830,6 +14738,52 @@ Il contributo si applica, con aliquota del diecivirgolacinque per cento, sui pre
 
 ## Art. 335. — Imprese di assicurazione e di riassicurazione
 
+1.
+                        
+                            
+                                Sono tenute a versare all'IVASS un contributo annuale, denominato contributo di vigilanza sull'attivita' di assicurazione e di riassicurazione, nella misura prevista dal comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le imprese di assicurazione con sede legale nel territorio della Repubblica ed iscritte alla sezione I dell'albo di cui all'articolo 14, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le sedi secondarie delle imprese di assicurazione extracomunitarie stabilite nel territorio della Repubblica ed iscritte alla sezione II dell'albo previsto dagli articoli 14, comma 4, e 28, comma 5, ultimo periodo, 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le imprese locali di cui all'articolo 51-bis, comma 1, lettera a), iscritte nella sezione dell'albo delle imprese di assicurazione rubricata «Imprese locali di cui al Titolo IV, Capo II, del Codice delle Assicurazioni private» e le particolari mutue assicuratrici di cui all'articolo 51-bis, comma 1, lettera b), ed iscritte nella sezione dell'albo rubricata «Particolari mutue assicuratrici di cui al Titolo IV, Capo III, del Codice delle Assicurazioni private»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le imprese di riassicurazione con sede legale nel territorio della Repubblica ed iscritte alla sezione IV dell'albo di cui all'articolo 59, comma 4, 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le sedi secondarie delle imprese di riassicurazione extracomunitarie stabilite nel territorio della Repubblica ed iscritte alla sezione V dell'albo di cui all'articolo 60, comma 3. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    le imprese aventi sede legale in un altro Stato membro di cui al Titolo II, Capo III, iscritte negli elenchi in appendice all'albo di cui all'articolo 26.
+
 Il contributo di vigilanza e' commisurato ad un importo non superiore al due per mille dei premi incassati in ciascun esercizio, escluse le tasse e le imposte ed al netto di un'aliquota per oneri di gestione calcolata dall'IVASS mediante apposita elaborazione dei dati risultanti dai bilanci dell'esercizio precedente. ((Per le imprese di cui al comma 1, lettera e-bis), detto contributo e' commisurato a un importo non superiore alla meta' di quello di cui al periodo precedente ed e' calcolato sui premi incassati in Italia.))
 
 Il contributo di vigilanza dovuto dalle altre mutue di assicurazione e' commisurato all'uno per mille dei premi incassati in ciascun esercizio, escluse le tasse e le imposte.
@@ -7940,6 +14894,151 @@ I periti di assicurazione che esercitano l'attivita' di accertamento e stima dei
 
 ((
 
+1.
+                        
+                            
+                                A decorrere dal 1° aprile 2015 l'IVASS decide sulle autorizzazioni relative a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fondi propri accessori ai sensi dell'articolo 44-quinquies, commi 5, 6, 7 e 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    classificazione degli elementi dei fondi propri di cui all'articolo 44-octies, commi 1, 6 e 7; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    parametri specifici dell'impresa ai sensi dell'articolo 45-sexies, comma 7; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    modello interno completo o parziale ai sensi degli articoli 46-bis e 46-ter; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    stabilimento sul territorio italiano di societa' veicolo di cui all'articolo 57-bis; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fondi propri accessori di una societa' di partecipazione assicurativa intermedia conformemente all'articolo 216-sexies, comma 1, lettera e); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    applicazione del modello interno di gruppo di cui agli articoli 207-octies, 216-sexies, comma 1, lettere a) e b); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    applicazione del sottomodulo del rischio azionario basato sulla durata di cui all'articolo 45-novies; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    applicazione dell'aggiustamento di congruita' alla pertinente struttura per scadenza dei tassi d'interesse privi di rischio conformemente agli articoli 36-quinquies e 36-sexies; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    applicazione della misura transitoria sui tassi d'interesse privi di rischio conformemente all'articolo 344-novies; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    applicazione nella misura transitoria sulle riserve tecniche conformemente all'articolo 344-undecies.
+
+2.
+                        
+                            
+                                Con riferimento alla vigilanza sul gruppo, a partire dal 1° aprile 2015, l'IVASS puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    disporre in merito all'applicazione delle disposizioni di vigilanza sul gruppo di cui ai Capi I, IV-bis e IV-ter del Titolo XV; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere qualificata autorita' di vigilanza sul gruppo, ai sensi degli articoli 207-sexies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere all'istituzione di un Collegio delle Autorita' di vigilanza, ai sensi dell'articolo 206-bis.
+
+3.
+                        
+                            
+                                Con riferimento alla vigilanza sul gruppo, a partire dal 1° luglio 2015, l'IVASS puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    dedurre eventuali partecipazioni di cui all'articolo 216-sexies, comma 1, lettera d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determinare la scelta del metodo di calcolo della solvibilita' di gruppo, ai sensi dell'articolo 216-sexies, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettuare la verifica in merito alla sussistenza di un regime di vigilanza equivalente, ai sensi degli articoli 216-sexies, comma 1, lettera e), e 220-septies; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedere l'applicazione delle disposizioni sulla vigilanza sul gruppo con gestione centralizzata dei rischi di cui agli articoli 217-quater e 217-quinquies, conformemente all'articolo 217-bis; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    effettuare gli accertamenti di cui agli articoli 220-octies e 220-sexies;
+
 A partire dal 1° luglio 2015, l'IVASS puo' prevedere l'applicazione di misure transitorie ai sensi della Sezione II del presente Capo.
 
 Le autorizzazioni e le decisioni assunte dall'IVASS ai sensi dei commi 1, e dei commi 2 e 3, sono applicabili a partire dal 1° gennaio 2016.
@@ -7951,6 +15050,67 @@ Le autorizzazioni e le decisioni assunte dall'IVASS ai sensi dei commi 1, e dei 
 ## Art. 344-ter. — (( (Misure transitorie inerenti particolari tipi di imprese di assicurazione o di riassicurazione) ))
 
 ((
+
+1.
+                        
+                            
+                                Fino alle date di cui al comma 2, lettere a) e b), i Titoli I, II, III, IV, V, VI, VII, XIV, XV, XVI, XVIII del presente Codice non si applicano alle imprese di assicurazione o riassicurazione che al 1° gennaio 2016 abbiano cessato di stipulare nuovi contratti di assicurazione o di riassicurazione e si limitino ad amministrare il portafoglio esistente nella prospettiva di cessare l'attivita' se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa ha dimostrato all'IVASS l'intenzione di cessare l'attivita' prima del 1° gennaio 2019; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa e' sottoposta a provvedimenti di risanamento di cui al Titolo XVI, Capo II, ed e' stato nominato un commissario.
+
+2.
+                        
+                            
+                                L'impresa di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, lettera a), e' soggetta ai Titoli I, II, III, IV, V, VI, VII, XIV, XV, XVI, XVIII a decorrere dal 1° gennaio 2019 o da una data precedente qualora l'IVASS non sia soddisfatto dei progressi compiuti per la cessazione dell'attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, lettera b), e' soggetta ai Titoli I, II, III, IV, V, VI, VII, XIV, XV, XVI, XVIII a decorrere dal 1° gennaio 2021 o da una data precedente qualora l'IVASS non sia soddisfatto dei progressi compiuti per la cessazione dell'attivita'.
+
+3.
+                        
+                            
+                                Le disposizioni di cui ai commi 1 e 2 si applicano se l'impresa di cui al comma 1 soddisfa le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa non appartiene a un gruppo oppure, in caso contrario, tutte le imprese del gruppo cessano di stipulare nuovi contratti di assicurazione o di riassicurazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa presenta all'IVASS una relazione annuale che illustri i progressi compiuti verso la cessazione della sua attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impresa ha comunicato all'IVASS di applicare le misure transitorie. I commi 1 e 2 non ostano a che un'impresa operi in conformita' dei titoli I, II, III, IV, V, VI, VII, XIV, XV, XVI, XVIII.
 
 L'IVASS predispone un elenco delle imprese di assicurazione e di riassicurazione di cui al comma 1 e lo comunica a tutti gli altri Stati membri.
 
@@ -7978,6 +15138,49 @@ I termini previsti dal comma 2, aumentati di ulteriori sei settimane, si applica
 
 ((
 
+1.
+                        
+                            
+                                In deroga all'articolo 44-octies, commi 2, 3, 4 e 5, in materia di criteri per la classificazione in livelli, gli elementi dei fondi propri di base sono inseriti nei fondi propri di base di livello 1 per un periodo massimo di 10 anni a partire dal 1° gennaio 2016, se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono stati emessi entro il 1° gennaio 2016 o alla data di entrata in vigore dell'atto delegato di cui all'articolo 97 della direttiva 2009/138/CE, ove quest'ultima sia anteriore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al 31 dicembre 2015 possono essere utilizzati per soddisfare il margine di solvibilita' disponibile fino al 50 per cento del margine di solvibilita' secondo le disposizioni legislative e regolamentari in materia di margine di solvibilita' applicabili in tale data; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non sarebbero altrimenti classificati nel livello 1 o nel livello 2 conformemente all'articolo 44-octies, commi 2, 3, 4 e 5.
+
+2.
+                        
+                            
+                                In deroga all'articolo 44-octies, commi 2, 3, 4 e 5, in materia di criteri per la classificazione in livelli, gli elementi dei fondi propri di base sono inseriti nei fondi propri di base di livello 2 per un periodo massimo di 10 anni a partire dal 1° gennaio 2016, se sono soddisfatte entrambe le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono stati emessi entro il 1° gennaio 2016 o alla data di entrata in vigore dell'atto delegato di cui all'articolo 97 della direttiva 2009/138/CE, ove quest'ultima sia anteriore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al 31 dicembre 2015 possono essere utilizzati per soddisfare il margine di solvibilita' disponibile fino al 25 per cento del margine di solvibilita' legislative e regolamentari in materia di margine di solvibilita' applicabili in tale data.
+
 Per l'impresa che investe in titoli negoziabili e altri strumenti finanziari basati su prestiti «confezionati» emessi prima del 1° gennaio 2011, i requisiti che devono essere soddisfatti dalle imprese che «confezionano» i prestiti in titoli negoziabili e altri strumenti finanziari si applicano soltanto nell'eventualita' in cui dopo il 31 dicembre 2014 siano state aggiunte o sostituite nuove esposizioni sottostanti.
 
 ))
@@ -7985,6 +15188,56 @@ Per l'impresa che investe in titoli negoziabili e altri strumenti finanziari bas
 ## Art. 344-sexies. — (( (Misure transitorie in materia di Requisito Patrimoniale di Solvibilita') ))
 
 ((
+
+1.
+                        
+                            
+                                In deroga agli articoli 45-bis, 45-ter, comma 3, e 45-sexies, il calcolo del Requisito Patrimoniale di Solvibilita' e' effettuato secondo le disposizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino al 31 dicembre 2017 i parametri standard da utilizzare per il calcolo del sottomodulo per le concentrazioni del rischio di mercato e del sottomodulo di rischio di spread secondo la formula standard per le esposizioni verso le amministrazioni o le banche centrali degli Stati membri denominate e finanziate nella valuta nazionale di uno Stato membro sono gli stessi rispetto a quelli che sarebbero applicati alle esposizioni denominate e finanziate nella loro valuta nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel 2018 i parametri standard da utilizzare per il calcolo del sottomodulo per le concentrazioni del rischio di mercato e del sottomodulo di rischio di spread secondo la formula standard sono ridotti dell'80 per cento in relazione alle esposizioni verso le amministrazioni o le banche centrali degli Stati membri denominate e finanziate nella valuta nazionale di un altro Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel 2019 i parametri standard da utilizzare per il calcolo del sottomodulo per le concentrazioni del rischio di mercato e del sottomodulo di rischio di spread secondo la formula standard sono ridotti del 50 per cento in relazione alle esposizioni verso le amministrazioni o le banche centrali degli Stati membri denominate e finanziate nella valuta nazionale di un altro Stato membro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a decorrere dal 1° gennaio 2020 i parametri standard da utilizzare per il calcolo del sottomodulo per le concentrazioni del rischio di mercato e del sottomodulo di rischio di spread secondo la formula standard non sono ridotti in relazione alle esposizioni verso le amministrazioni o le banche centrali degli Stati membri denominate e finanziate nella valuta nazionale di un altro Stato membro.
+
+2.
+                        
+                            
+                                In deroga agli articoli 45-bis, 45-ter, comma 3, e 45-sexies, in materia di calcolo del Requisito Patrimoniale di Solvibilita', i parametri standard da utilizzare per le azioni acquistate dall'impresa entro il 1° gennaio 2016, in sede di calcolo del sottomodulo del rischio azionario secondo la formula standard senza l'opzione prevista all'articolo 45-novies sono calcolati come media ponderata tra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il parametro standard da utilizzare in sede di calcolo del sottomodulo del rischio azionario conformemente all'articolo 45-novies; nonche' 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il parametro standard da utilizzare in sede di calcolo del sottomodulo del rischio azionario secondo la formula standard senza l'opzione di cui all'articolo 45-novies.
 
 La ponderazione relativa al parametro di cui al comma 2, lettera b), aumenta almeno linearmente alla fine di ogni anno, partendo dallo 0 per cento nell'anno avente inizio il 1° gennaio 2016 fino al 100 per cento al 1° gennaio 2023.
 
@@ -8024,9 +15277,77 @@ L'impresa di assicurazione o riassicurazione puo' applicare un adeguamento trans
 
 L'applicazione dell'adeguamento transitorio di cui al comma 1 e' soggetto all'autorizzazione dell'IVASS.
 
+3.
+                        
+                            
+                                Per ciascuna valuta l'adeguamento e' calcolato come parte della differenza tra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il tasso d'interesse quale determinato dall'impresa conformemente alle disposizioni legislative e regolamentari in materia di riserve tecniche applicabili al 31 dicembre 2015; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il tasso effettivo annuo, calcolato come tasso di attualizzazione unico che, laddove applicato ai flussi di cassa del portafoglio di impegni di assicurazione o riassicurazione ammissibili, ha come risultato un valore equivalente a quello della migliore stima del portafoglio di impegni di assicurazione o riassicurazione ammissibili, tenuto conto del valore temporale del denaro mediante utilizzo della pertinente struttura per scadenza dei tassi d'interesse privi di rischio di cui all'articolo 36-quater.
+
 La parte di cui alla lettera a) della differenza di cui al comma 3 diminuisce linearmente alla fine di ogni anno, partendo dal 100 per cento al 1° gennaio 2016 fino allo 0 per cento al 1° gennaio 2032.
 
 Se l'impresa applica l'aggiustamento per la volatilita' di cui all'articolo 36-septies, la pertinente struttura per scadenza dei tassi d'interesse privi di rischio di cui alla lettera b) del comma 3 corrisponde alla pertinente struttura per scadenza dei tassi d'interesse privi di rischio rettificata di cui allo stesso articolo 36-septies.
+
+6.
+                        
+                            
+                                Gli impegni di assicurazione e di riassicurazione ammissibili comprendono unicamente gli impegni di assicurazione o di riassicurazione che soddisfano i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono originati da contratti conclusi precedentemente al 31 dicembre 2015, esclusi i rinnovi contrattuali in tale data o in una successiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le relative riserve tecniche sono state stabilite in conformita' alle disposizioni legislative e regolamentari in materia di riserve tecniche applicabili al 31 dicembre 2015; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a detti impegni non si applica l'aggiustamento per la congruita' di cui all'articolo 36-quinquies.
+
+7.
+                        
+                            
+                                L'impresa di assicurazione o di riassicurazione che applica il comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non include gli impegni di assicurazione e di riassicurazione ammissibili nel calcolo dell'aggiustamento per la volatilita' di cui all'articolo 36-septies; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non applica l'articolo 344-decies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'ambito della relazione sulla solvibilita' e sulla condizione finanziaria di cui all'articolo 47-septies, rende pubblico il fatto che applica la struttura per scadenza dei tassi d'interesse privi di rischio transitoria e quantifica l'impatto che la mancata applicazione di tale misura transitoria avrebbe sulla posizione finanziaria dell'impresa.
 
 ))
 
@@ -8035,6 +15356,24 @@ Se l'impresa applica l'aggiustamento per la volatilita' di cui all'articolo 36-s
 L'impresa di assicurazione o di riassicurazione puo' applicare una deduzione transitoria alle riserve tecniche. La deduzione puo' essere applicata a livello dei gruppi di rischi omogenei di cui all'articolo 36-novies, comma 1.
 
 L'applicazione della deduzione transitoria di cui al comma 1 e' soggetta all'autorizzazione dell'IVASS.
+
+3.
+                        
+                            
+                                La deduzione transitoria corrisponde a una parte della differenza tra i due importi seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le riserve tecniche, previa deduzione degli importi recuperabili da contratti di riassicurazione e societa' veicolo, calcolate secondo l'articolo 36-bis alla data del 1° gennaio 2016; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le riserve tecniche, previa deduzione degli importi recuperabili da contratti di riassicurazione, calcolate secondo le disposizioni legislative e regolamentari in materia di riserve tecniche in vigore al 31 dicembre 2015.
 
 La deduzione transitoria massima diminuisce linearmente alla fine di ogni anno, partendo dal 100 per cento a partire dal 1° gennaio 2016 fino allo 0 per cento al 1° gennaio 2032.
 
@@ -8071,6 +15410,52 @@ L'IVASS revoca l'approvazione ad applicare le misure transitorie di cui agli art
 
 ((
 
+1.
+                        
+                            
+                                Fino al 1° gennaio 2021 l'IVASS fornisce all'AEAP informazioni sui seguenti aspetti, in coerenza con le disposizioni dell'Unione europea: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disponibilita' di garanzie a lungo termine nei prodotti assicurativi sul mercato italiano e comportamento delle imprese di assicurazione e di riassicurazione in quanto investitori a lungo termine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero di imprese di assicurazione e di riassicurazione che applicano l'aggiustamento di congruita', l'aggiustamento per la volatilita', l'estensione del periodo ammesso per il risanamento ai sensi dell'articolo 222, comma 2-ter, il sottomodulo del rischio azionario basato sulla durata e le misure transitorie di cui agli articoli 344-novies e 344-decies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impatto dell'aggiustamento di congruita', dell'aggiustamento per la volatilita', del meccanismo di aggiustamento simmetrico del fabbisogno standard del rischio azionario (equity risk charge), del sottomodulo del rischio azionario basato sulla durata relativa (duration) nonche' delle misure transitorie di cui agli articoli 344-novies e 344-decies sulla posizione finanziaria delle imprese di assicurazione e di riassicurazione, a livello nazionale e in forma anonima per ciascuna impresa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli effetti, sul comportamento delle imprese di assicurazione e di riassicurazione in materia di investimenti, dell'aggiustamento di congruita', dell'aggiustamento per la volatilita', del meccanismo di aggiustamento simmetrico del fabbisogno standard del rischio azionario (equity risk charge), e del sottomodulo del rischio azionario basato sulla durata, nonche' l'eventuale indebito alleggerimento dei requisiti patrimoniali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli effetti di eventuali estensioni del periodo ammesso per il risanamento ai sensi dell'articolo 222, comma 2-ter, sugli sforzi profusi dalle imprese di assicurazione e di riassicurazione per ripristinare il livello di fondi propri ammissibili destinati alla copertura del Requisito Patrimoniale di Solvibilita' oppure per ridurre il profilo di rischio al fine di garantire la conformita' al requisito stesso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per le imprese di assicurazione e di riassicurazione che applicano le misure transitorie di cui agli articoli 344-novies e 344-decies, l'effettivo rispetto dei piani di transizione di cui all'articolo 344-undecies e le prospettive di riduzione della dipendenza dalle misure transitorie stesse, anche per quanto concerne quelle adottate o che si prevede che siano adottate dalle imprese e dall'IVASS, tenendo conto del contesto normativo dello Stato Italiano.
+
 ))
 
 ## Art. 344-terdecies. — (( (Disposizioni transitorie riguardanti il rispetto del Requisito Patrimoniale Minimo) ))
@@ -8095,6 +15480,60 @@ Fermi restando gli obblighi di informativa previsti da altre disposizioni di leg
 
 ## Art. 345. — Istituzioni e enti esclusi
 
+1.
+                        
+                            
+                                Sono esclusi dall'ambito di applicazione delle disposizioni di cui al presente codice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le Amministrazioni pubbliche, gli enti di previdenza amministrati per legge dal Ministero dell'economia e delle finanze, gli istituti, gli enti, le casse ed i fondi comunque denominati che gestiscono, in favore dei lavoratori o di singole categorie professionali, forme di previdenza e di assistenza comprese in un regime legale obbligatorio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 74)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la SACE Servizi assicurativi per il commercio estero S.p.a., di cui alla legge 24 maggio 1977, n. 227, e successive modificazioni, limitatamente alle attivita' che beneficiano della garanzia dello Stato e fatto salvo quanto previsto al comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il Fondo di solidarieta' nazionale per la riassicurazione dei rischi agricoli istituito presso l'ISMEA dall'articolo 127 delle legge 23 dicembre 2000, n. 388, e disciplinato dagli articoli 2 e 4 del decreto-legge 13 settembre 2002 n. 200, convertito, con modificazioni, dalla legge 13 novembre 2002, n. 256; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli enti che garantiscono unicamente prestazioni in caso di decesso qualora le prestazioni siano erogate in natura o qualora l'importo della prestazione non superi il valore medio delle spese funerarie determinato nella misura di cui all'articolo 15, comma 1, lettera d), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le societa' di mutuo soccorso costituite ai sensi della legge 15 aprile 1886, n. 3818, che provvedano direttamente al pagamento a favore degli iscritti di capitali o rendite di qualsiasi importo fatto salvo quanto previsto al comma 3; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le associazioni agrarie di mutua assicurazione, costituite ai sensi della legge 7 luglio 1907, n. 526, e del regio decreto-legge 2 settembre 1919, n. 1759, modificato dal regio decreto-legge 21 ottobre 1923, n. 2479, entrambi convertiti dalla legge 17 aprile 1925, n. 473, a sua volta modificata dall'articolo 9 del regio decreto-legge 12 luglio 1934, n. 1290, convertito dalla legge 12 febbraio 1935, n. 303.
+
 In deroga a quanto previsto al comma 1, la SACE S.p.a. e' sottoposta alle disposizioni dei capi I, II e III del titolo VIII del presente codice per le attivita' che beneficiano della garanzia dello Stato. Restano integralmente soggette alle disposizioni del presente codice le attivita' della SACE S.p.a. che non beneficiano della garanzia dello Stato.
 
 Le societa' di mutuo soccorso di cui al comma 1, lettera f), se contraggono impegni al pagamento a favore degli iscritti di capitali o rendite complessivamente superiori a euro centomila per ciascun esercizio sono sottoposte alle disposizioni del titolo IV in quanto compatibili. Qualora le medesime societa' stipulino contratti di assicurazione per conto degli iscritti, ai soci sono comunque fornite le informazioni di cui al titolo IX, capo III, e XII in quanto compatibili.
@@ -8102,6 +15541,26 @@ Le societa' di mutuo soccorso di cui al comma 1, lettera f), se contraggono impe
 Le casse di assistenza sanitaria autogestite sono sottoposte alle disposizioni del titolo IV in quanto compatibili.
 
 ## Art. 346. — Attivita' di assistenza prestata da enti e societa' non assicurative
+
+1.
+                        
+                            
+                                Non costituisce esercizio di attivita' assicurativa nel ramo assistenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la prestazione di servizi di manutenzione o riparazione, di assistenza a clienti e la sola indicazione o messa a disposizione, in qualita' di semplice intermediario, di un aiuto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attivita' di assistenza effettuata da un soggetto residente o avente sede nel territorio della Repubblica in caso di incidente o di guasto meccanico di un veicolo avvenuti nel medesimo territorio, a condizione che l'attivita' stessa risulti limitata alle seguenti prestazioni: 
+ 1) soccorso sul posto, effettuato utilizzando in prevalenza >personale e mezzi propri; 
+ 2) trasporto del veicolo fino all'officina piu' vicina o piu' idonea ad effettuare la riparazione ed eventuale accompagnamento, di regola con lo stesso mezzo di soccorso, del conducente e dei passeggeri fino al luogo piu' vicino, dal quale sia possibile proseguire il viaggio con altri mezzi.
 
 La disposizione di cui al comma 1, lettera b), si applica anche nel caso in cui l'incidente od il guasto siano avvenuti all'estero ed il soggetto che effettua il soccorso od il trasporto del veicolo sia un organismo, analogo ad altro esistente in Italia, del quale chi riceve l'assistenza e' membro, che fornisce la prestazione in base ad un accordo di reciprocita' con l'organismo nazionale, su semplice presentazione della tessera di membro e senza pagamento di alcun compenso aggiuntivo.
 
@@ -8126,6 +15585,66 @@ Sono inderogabili e prevalgono sulle contrarie disposizioni gia' emanate le norm
 ((
 
 In deroga all'obbligo di limitazione dell'oggetto sociale all'esercizio dei rami vita o dei rami danni, della relativa riassicurazione e delle operazioni connesse a tali attivita', di cui all'articolo 11, comma 2, e' consentito l'esercizio congiunto dei rami vita e danni alle imprese a cio' autorizzate alla data del 15 marzo 1979.
+
+2.
+                        
+                            
+                                L'impresa che, ai sensi del comma 1, esercita congiuntamente i rami vita e danni ha l'obbligo di tenere, per ciascuna delle due attivita', una gestione distinta. L'IVASS stabilisce, con regolamento, i criteri e le modalita' di rappresentazione della gestione separata, prevedendo l'obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indicare nello statuto quale parte del capitale, o del fondo di garanzia se mutua di assicurazione, e delle riserve patrimoniali e' attribuita a ciascuna gestione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tenere le scritture contabili in modo che, per ciascuna gestione, siano evidenziati i relativi risultati. A tal fine tutte le entrate, in particolare i premi, le somme corrisposte dai riassicuratori, i redditi finanziari, e tutte le spese, in particolare le prestazioni di assicurazione, gli incrementi delle riserve tecniche, i premi di riassicurazione e le spese di gestione delle operazioni di assicurazione, sono ripartite in base alla loro origine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    imputare ai conti gli elementi comuni alle due gestioni secondo un criterio di ripartizione approvato dall'IVASS.
+
+2-bis.
+                        
+                            
+                                Fatte salve le disposizioni in materia di requisiti patrimoniali di cui agli articoli 45-bis e 47-bis, l'impresa che esercita congiuntamente i rami vita e danni, calcola: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un Requisito Patrimoniale Minimo nozionale vita rispetto all'attivita' di assicurazione o di riassicurazione vita, calcolato come se l'impresa esercitasse soltanto tale attivita', sulla base delle scritture contabili separate di cui al comma 2, lettera b); e 
+                                
+                            
+                            
+                                b)
+                                
+                                    un Requisito Patrimoniale Minimo nozionale danni rispetto all'attivita' di assicurazione o riassicurazione danni, calcolato come se l'impresa esercitasse soltanto tale attivita', sulla base delle scritture contabili separate di cui al comma 2, lettera b).
+
+2-ter.
+                        
+                            
+                                L'impresa che esercita congiuntamente i rami vita e danni, copre i requisiti seguenti con un importo equivalente di elementi di fondi propri di base ammissibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Requisito Patrimoniale Minimo nozionale vita rispetto all'attivita' della gestione vita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Requisito Patrimoniale Minimo nozionale danni rispetto all'attivita' della gestione danni.
 
 I requisiti minimi di cui al comma 2-ter che sono a carico della gestione vita e della gestione danni non sono sostenuti dall'altra gestione.
 
@@ -8303,7 +15822,43 @@ E' abrogata ogni altra disposizione incompatibile con il presente codice. Il rin
 
 Le disposizioni di cui al comma 1 e quelle emanate in attuazione delle norme abrogate o sostituite continuano a essere applicate, in quanto compatibili, fino alla data di entrata in vigore dei provvedimenti adottati ai sensi del presente codice nelle corrispondenti materie e comunque non oltre trenta mesi dopo il termine previsto dal comma 2 dell'articolo 355. In caso di violazione si applicano, con la procedura sanzionatoria prevista dall'articolo 326, gli articoli di cui ai capi II, III, IV e V del titolo XVIII in relazione alle materie rispettivamente disciplinate.
 
+5.
+                        
+                            
+                                Rimangono in vigore, in deroga al comma 4, e tengono luogo dei corrispondenti provvedimenti previsti nel presente codice i seguenti atti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i decreti del Ministro dell'industria, del commercio e dell'artigianato in data 26 maggio 1971, pubblicato nella Gazzetta Ufficiale n. 141 del 4 giugno 1971, e in data 12 ottobre 1972, pubblicato nella Gazzetta Ufficiale n. 280 del 26 ottobre 1972, adottati ai sensi dell'articolo 6 della legge 24 dicembre 1969, n. 990; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Ministro della salute, di concerto con il Ministro del lavoro e delle politiche sociali e con il Ministro delle attivita' produttive, in data 3 luglio 2003, pubblicato nella Gazzetta Ufficiale n. 211 dell'11 settembre 2003, adottato ai sensi dell'articolo 5 della legge 5 marzo 2001, n. 57, come modificato dall'articolo 23, comma 3, della legge 12 dicembre 2002, n. 273.
+
 ((
+
+5-bis.
+                        
+                            
+                                A decorrere dall'adozione del regolamento previsto dall'articolo 76, comma 1, sono o restano abrogati i seguenti atti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Ministro dello sviluppo economico 11 novembre 2011, n. 220, pubblicato nella Gazzetta Ufficiale 9 gennaio 2012, n. 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Ministro dello sviluppo economico 28 aprile 2008, n. 99, pubblicato nella Gazzetta Ufficiale 5 giugno 2008, n. 130.
 
 ))
 

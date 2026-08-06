@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-06-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,52 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Mini
 ## - Capo I CAMPO DI APPLICAZIONE
 
 ## Art. 1.
+
+1.
+                        
+                            
+                                Il presente decreto disciplina, in attuazione delle norme contenute nel titolo XI dello statuto speciale per il Trentino-Alto Adige, approvato con decreto del Presidente della Repubblica 31 agosto 1972, n. 670, l'uso della lingua tedesca. Nella regione la lingua tedesca e' parificata a quella italiana, che e' la lingua ufficiale dello Stato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei rapporti con gli organi e gli uffici della pubblica amministrazione e degli enti pubblici, situati nella provincia di Bolzano o aventi competenza regionale, nonche' con i concessionari di servizi di pubblico interesse svolti nella provincia medesima; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei rapporti con gli uffici giudiziari e con gli organi giurisdizionali ordinari, amministrativi e tributari situati nella provincia di Bolzano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei rapporti con la corte d'appello, la corte di assise d'appello, la sezione della corte d'appello per i minorenni, la Procura Generale presso la corte d'appello, il tribunale per i minorenni, il tribunale di sorveglianza e l'ufficio di sorveglianza, il commissario regionale per la liquidazione degli usi civici, nonche' con ogni altro ufficio giudiziario e organo giurisdizionale ordinario, amministrativo ((,contabile,)) o tributario, con sede in provincia di Trento ma con competenza anche in provincia di Bolzano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'attivita' svolta nei rapporti interni dal personale degli organi, degli uffici e dei concessionari indicati nelle lettere a), b) e c); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nei rapporti esterni con organi, uffici, enti e reparti degli ordinamenti di tipo militare, aventi sede in provincia di Bolzano o in provincia di Trento ma con competenza anche nella provincia di Bolzano; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    negli atti pubblici, notarili ed equiparati.
 
 Anche per le forze di polizia che fanno parte delle Forze armate e per il personale della Polizia di Stato che e' soggetto ad ordinamenti di tipo militare, la lingua soggiace alle disposizioni del presente decreto in tutti i casi in cui vengono compiuti atti che riguardano l'attivita' di polizia in genere, ovvero sono destinati ad avviare un'azione penale o comunque provochino una sanzione.
 
@@ -69,6 +115,31 @@ Presso gli organi, gli uffici ed i concessionari suddetti deve essere affisso l'
 
 A norma dell'ultimo comma dell'art. 100 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, l'uso congiunto delle lingue italiana e tedesca da parte degli organi, uffici e concessionari di cui all'art. 1, e' prescritto per gli atti destinati alla generalita' ((delle persone)), per gli atti individuali destinati ad uso pubblico e per gli atti destinati a pluralita' di uffici.
 
+2.
+                        
+                            
+                                A tal fine sono considerati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    atti destinati alla generalita' ((delle persone)), quelli che siano diretti ad una pluralita' indeterminata di destinatari e quelli per i quali e' prescritta la pubblicazione da leggi e regolamenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    atti individuali destinati ad uso pubblico, quelli per i quali e' prescritto l'obbligo dell'esposizione al pubblico, o dell'affissione, le carte di identita' e i documenti equipollenti nonche' gli atti di abilitazione, di concessione e di autorizzazione per i quali e' prescritta l'esibizione a richiesta di organi della pubblica amministrazione e che non contrastino con impegni internazionali dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    atti destinati ad una pluralita' di uffici, quelli diretti a piu' uffici e organi della pubblica amministrazione situati nella provincia di Bolzano o aventi competenza regionale.
+
 Per la redazione congiunta nelle due lingue degli atti di cui alla lettera b) del comma 2 non puo' essere posto a carico degli interessati alcun onere aggiuntivo di spese.
 
 Negli atti scritti i due testi vengono riportati uno a fianco all'altro. Tali testi devono avere la stessa evidenza e lo stesso rilievo tipografico.
@@ -92,6 +163,24 @@ La redazione nelle due lingue degli atti o dei provvedimenti, ai fini delle pubb
 Le spese, dovute dai soggetti privati per le pubblicazioni previste dal presente articolo, non possono essere superiori a quelle richieste per la pubblicazione in una sola lingua.
 
 ## Art. 6.
+
+1.
+                        
+                            
+                                Una commissione paritetica costituita con decreto del commissario del Governo, composta da sei esperti, tre di lingua italiana designati dallo stesso commissario del Governo e tre di lingua tedesca designati dalla giunta provinciale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determina ed aggiorna, ovvero convalida la terminologia giuridica, amministrativa e tecnica in uso da parte degli organi, degli uffici e dei concessionari indicati nell'art. 1, al fine di assicurarne la corrispondenza nelle lingue italiana e tedesca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura la redazione e l'aggiornamento di un dizionario di terminologia giuridica, amministrativa e tecnica nelle due lingue.
 
 Il relativo testo viene trasmesso al commissario del Governo e alla giunta provinciale di Bolzano per eventuali modifiche ed integrazioni. Trascorso il termine di ((sessanta giorni)) senza osservazioni, il testo si intende approvato.
 
@@ -243,6 +332,59 @@ Al condannato cui siano stati consegnati l'ordine di esecuzione ed il decreto di
 Il processo nel quale gli imputati o la parte civile utilizzano una lingua diversa e' bilingue.
 
 Il processo diviene monolingue se tutte le parti dichiarano di scegliere la stessa lingua.
+
+3.
+                        
+                            
+                                Nel processo bilingue ogni parte usa la lingua individuata ai sensi degli articoli precedenti. Salvo che le parti vi rinuncino: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli interventi orali delle parti sono immediatamente tradotti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli interventi del pubblico ministero, le sue richeste e le requisitorie orali o scritte sono pronunciate o redatte in entrambe le lingue; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i testimoni, periti e consulenti tecnici sono sentiti nella lingua da essi prescelta, con immediata traduzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'interrogatorio ovvero l'esame dell'imputato e delle altre parti private si svolge nella lingua dalle stesse scelta, con immediata traduzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i documenti e gli atti prodotti dalle parti, le consulenze tecniche e le relazioni dei periti sono tradotti nell'altra lingua; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la verbalizzazione avviene in forma bilingue; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i provvedimenti del giudice sono redatti in entrambe le lingue.
 
 ))
 

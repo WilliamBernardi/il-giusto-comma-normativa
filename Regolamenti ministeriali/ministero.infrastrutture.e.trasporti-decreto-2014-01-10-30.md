@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2014-01-10;30
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,11 +32,103 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Modifiche agli articoli 1 e 2 del decreto 17 maggio 1995, n. 317
 
+1.
+                        
+                            
+                                All'articolo 1 del decreto 17 maggio 1995, n. 317, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica, le parole: «e limitazione numerica» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 1, dopo le parole: «per il rilascio delle patenti» sono inserite le seguenti: «e dei documenti di abilitazione e di qualificazione professionale».
+
 All'articolo 2, comma 1, del decreto 17 maggio 1995, n. 317, le parole: «per ottenere l'autorizzazione all'esercizio» sono sostituite dalle seguenti: «per avviare l'esercizio».
 
 ## Art. 2. — Modifiche all'articolo 3 del decreto 17 maggio 1995, n. 317
 
+1.
+                        
+                            
+                                All'articolo 3 del decreto 17 maggio 1995, n. 317, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica, dopo le parole: «centri di istruzione» e' aggiunta la seguente: «automobilistica»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 1 e 2 sono sostituiti dai seguenti: 
+ «1. I locali dell'autoscuola e dei centri di istruzione automobilistica, di cui all'articolo 7 del presente decreto, comprendono almeno: 
+ a) un'aula di superficie non inferiore a mq. 25 dotata di idoneo arredamento e separata dagli uffici o da altri locali di ricevimento del pubblico. Fermo restando quanto previsto dall'articolo 4, lettera c), eventuali ulteriori aule possono avere una superficie anche minore rispetto a quanto indicato al precedente periodo; 
+ b) un ufficio di segreteria di superficie non inferiore a mq. 10, attiguo all'aula ed ubicato nella medesima sede della stessa con ingresso autonomo; 
+ c) servizi igienici. 
+ 2. L'altezza minima di tali locali e gli ambienti di cui al comma 1, lettere a) e c), sono conformi a quanto previsto dal regolamento edilizio vigente nel comune in cui ha sede l'autoscuola.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, dopo le parole: «8 agosto 1991, n. 264» sono aggiunte le seguenti: «, nonche' alle autoscuole che subentrino nei locali delle stesse»; dopo le parole: «o di chiusura al traffico della strada,» sono aggiunte le seguenti: «ovvero di sopravvenuta inagibilita' dei locali per causa di forza maggiore documentabile».
+
 ## Art. 3. — Modifiche agli articoli 4 e 5 del decreto 17 maggio 1995, n. 317
+
+1.
+                        
+                            
+                                All'articolo 4 del decreto 17 maggio 1995, n. 317, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera b) sono aggiunte in fine le seguenti parole: «, fatta eccezione per il caso che le lezioni teoriche siano svolte avvalendosi dei supporti audiovisivi o multimediali, di cui all'articolo 5, comma 2»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera c), sono aggiunte infine le seguenti parole: «, in conformita' a quanto previsto dal regolamento edilizio vigente nel comune in cui ha sede l'autoscuola».
+
+2.
+                        
+                            
+                                All'articolo 5 del decreto 17 maggio 1995, n. 317, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole da: «Inoltre, le autoscuole di cui al punto a),» fino a: «sono dotate del materiale didattico di cui ai seguenti punti:» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. Il materiale didattico di cui al comma 1, puo' essere sostituito da supporti audiovisivi o multimediali, la cui conformita' ai programmi e' dichiarata dal titolare o, se del caso, dal legale rappresentante dell'autoscuola, anche per eventuali ulteriori sedi della stessa. Non sono ammessi corsi con il sistema e-learning.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' abrogato.
 
 ## Art. 4. — Modifiche all'articolo 6 del decreto 17 maggio 1995, n. 317
 
@@ -107,7 +199,74 @@ L'articolo 12 del decreto 17 maggio 1995, n. 317, e' sostituito dal seguente:
 
 ## Art. 8. — Modifiche all'articolo 13 del decreto 17 maggio 1995, n. 317
 
+1.
+                        
+                            
+                                All'articolo 13 del decreto 17 maggio 1995, n. 317, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica, le parole «e schede» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, dopo le parole: «centri di istruzione» e' aggiunta la seguente: «automobilistica»; le parole: «dall'autorita' competente al rilascio dell'autorizzazione all'esercizio dell'attivita' di autoscuola» sono sostituite dalle seguenti: «dalla provincia a cui compete la vigilanza sui medesimi soggetti» e le lettere b),
+                                
+                            
+                            
+                                c)
+                                
+                                    e
+                                
+                            
+                            
+                                d)
+                                
+                                    sono abrogate; 
+ c) al comma 2, le parole: «I documenti di cui alle lettere b), c), d) ed e) di cui al comma 1 devono essere redatti e tenuti dal centro di istruzione» sono sostituite dalle seguenti: «Il registro di cui al comma 1, lettera e), deve essere redatto e tenuto dal centro di istruzione automobilistica»; 
+ d) al comma 3, le parole: «Tale centro» sono sostituite dalle seguenti: «Il centro di istruzione automobilistica» e le parole: «in apposito registro» sono sostituite dalle seguenti: «nel registro di cui al comma 1, lettera e)»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 4 e' sostituito dal seguente: 
+ «4. Il registro di iscrizione ed il registro degli allievi trasferiti al centro di istruzione automobilistica sono conformi ai modelli di cui agli allegati 3 e 9 del presente regolamento».
+
 ## Art. 9. — Modifiche all'articolo 14 del decreto 17 maggio 1995, n. 317
+
+1.
+                        
+                            
+                                All'articolo 14 del decreto 17 maggio 1995, n. 317, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ «1. Fatto salvo quanto previsto dall'articolo 20, comma 6, della legge 29 luglio 2010, n. 120, le autoscuole che, anteriormente alla data del 13 agosto 2010, svolgevano attivita' di formazione dei conducenti per il conseguimento delle patenti di guida delle categorie A e B, delle patenti speciali corrispondenti e dei relativi esami di revisione, ovvero a tal fine avevano presentato dichiarazione di inizio attivita', continuano la predetta attivita' dotate del solo materiale richiesto dalla normativa previgente per l'espletamento delle lezioni teoriche e dei veicoli richiesti dall'articolo 6 del presente decreto per le esercitazioni di guida, in relazione a tali categorie di patenti.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Le autoscuole di cui al comma 1, possono estendere la loro attivita' alla formazione dei conducenti per tutte le categorie di patenti e documenti di abilitazione e qualificazione professionale, o dotandosi dei veicoli a tal fine necessari, ai sensi dell'articolo 7-bis o aderendo ad un consorzio che ha costituito un centro di istruzione automobilistica. In tal caso, sono tenute alla presentazione di una dichiarazione di inizio attivita': si applicano le disposizioni di cui all'articolo 123, commi 3 e 7-bis, del decreto legislativo 30 aprile 1992, n. 285. L'applicazione del presente comma non comporta, di per se', variazione della titolarita' dell'autoscuola. Le predette autoscuole non possono, in ogni caso, piu' svolgere attivita' di formazione dei conducenti limitatamente al solo conseguimento delle patenti di guida delle categorie A e B.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 6 e' abrogato.
 
 ## Art. 10. — Disposizioni transitorie
 
@@ -122,6 +281,50 @@ Fino alla completa predisposizione dei questionari di esame informatizzati di cu
 ## - Capo II MODIFICHE AL DECRETO DEL MINISTRO DELLE INFRASTRUTTURE E DEI TRASPORTI 26 GENNAIO 2011, N. 17, CONCERNENTE IL REGOLAMENTO RECANTE LA DISCIPLINA DEI CORSI DI FORMAZIONE E PROCEDURE PER L'ABILITAZIONE  DI INSEGNANTI E DI ISTRUTTORI DI AUTOSCUOLA.
 
 ## Art. 11. — Modifiche al decreto del Ministro delle infrastrutture e dei trasporti 26 gennaio 2011, n. 17, in materia di corsi di formazione e procedure per l'abilitazione del personale docente di autoscuola.
+
+1.
+                        
+                            
+                                Al decreto del Ministro delle infrastrutture e dei trasporti 26 gennaio 2011, n. 17, recante la disciplina dei corsi di formazione e procedure per l'abilitazione di insegnanti ed istruttori di autoscuola, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, dopo il comma 1 e' inserito il seguente: 
+ «1-bis. La revoca della patente di cui al comma 1, lett. d), comporta la decadenza dall'abilitazione.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 4, comma 1, ed all'articolo 9, comma 1, sono aggiunti in fine i seguenti periodi: «La formazione periodica e' ripetuta con cadenza biennale a decorrere dalle date di cui al precedente periodo. Il corso di formazione periodica puo' essere frequentato a partire dal sesto mese antecedente il compimento del biennio di cui al precedente periodo: in tal caso la validita' dell'abilitazione e' rinnovata senza soluzione di continuita'.
+Qualora il corso di formazione periodica sia frequentato dopo lo scadere del predetto biennio, da tale data di scadenza e fino alla avvenuta frequenza del corso si applicano le disposizioni di cui al comma 2.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    agli articoli 4 e 9, dopo il comma 3 e' inserito il seguente: 
+ «3-bis. Non sono ammessi corsi con il sistema e-learning.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 6, dopo il comma 1 e' inserito il seguente: 
+ «1-bis. La revoca della patente di cui al comma 1, lett. d), comporta la decadenza dall'abilitazione.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 10, comma 1, dopo le parole: «di cui all'allegato 2, lettera A),» sono inserite le seguenti: «relativa alle peculiarita' della guida dei diversi tipi di veicoli - Utilizzo dei diversi dispositivi,»; nel comma 2, dopo le parole: «secondo il programma di cui all'allegato 1» sono inserite le seguenti: «con esclusione delle ore gia' oggetto della parte teorica del programma del corso di formazione iniziale per istruttori»; dopo il comma 2 e' inserito il seguente: 
+ «2-bis. Il soggetto che sia titolare tanto dell'abilitazione di insegnante quanto di quella di istruttore, conseguite ai sensi dei commi 1 e 2, ovvero di una o di entrambe, ai sensi della previgente normativa, ottempera all'obbligo di formazione periodica per entrambe le abilitazioni frequentando uno solo tra i corsi di cui agli articoli 4 e 9.».
 
 ## Art. 12. — Entrata in vigore
 

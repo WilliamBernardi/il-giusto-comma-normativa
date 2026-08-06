@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2023-07-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,11 +29,166 @@ Uditi i pareri del Consiglio di Stato, espressi dalla sezione consultiva per gli
 
 ## Art. 1. — Esame per l'iscrizione nel registro dei revisori legali
 
+1.
+                    
+                        
+                            L'esame previsto dall'articolo 4 del decreto legislativo 27 gennaio 2010, n. 39, consiste in prove scritte e orali dirette ad accertare il possesso delle conoscenze teoriche necessarie all'esercizio dell'attivita' di revisione legale e della capacita' di applicare concretamente tali conoscenze, e verte sulle seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                contabilita' generale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contabilita' analitica e di gestione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                disciplina del bilancio di esercizio e del bilancio consolidato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                principi contabili nazionali e internazionali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                analisi finanziaria; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gestione del rischio e controllo interno; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                principi di revisione nazionali e internazionali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                disciplina della revisione legale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                deontologia professionale ed indipendenza; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                tecnica professionale della revisione; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                diritto civile e commerciale; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                diritto societario; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                diritto fallimentare; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                diritto tributario; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                diritto del lavoro e della previdenza sociale; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                informatica e sistemi operativi; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                economia politica, aziendale e finanziaria; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                principi fondamentali di gestione finanziaria; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                matematica e statistica.
+
 Per le materie indicate al comma 1, lettere da m) a u), l'accertamento delle conoscenze teoriche e della capacita' di applicarle concretamente e' limitata funzionalmente a quanto necessario per lo svolgimento della revisione dei conti.
 
 Per i soggetti che hanno gia' superato l'esame di Stato di cui agli articoli 46 e 47 del decreto legislativo 28 giugno 2005, n. 139 e per i soggetti che intendono abilitarsi alle professioni di dottore commercialista ed esperto contabile, l'abilitazione allo svolgimento della revisione legale si consegue secondo le modalita' previste dall'articolo 11, comma 1, del presente regolamento, in attuazione dell'articolo 4, comma 4-bis del decreto legislativo 27 gennaio 2010, n. 39.
 
 ## Art. 2. — Ammissione all'esame
+
+1.
+                    
+                        
+                            Per l'ammissione all'esame e' necessario: 
+ 
+                        
+                        
+                            a)
+                            
+                                aver conseguito una laurea almeno triennale, tra quelle individuate con regolamento dal Ministro dell'economia e delle finanze, sentita la Consob, ai sensi dell'articolo 2, comma 2, del decreto legislativo 27 gennaio 2010, n. 39, adottato con decreto ministeriale n. 145 del 20 giugno 2012; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere in possesso dell'attestato di compiuto tirocinio, previsto dal regolamento di cui all'articolo 3, comma 8 del decreto legislativo 27 gennaio 2010, n. 39, adottato con decreto ministeriale n. 146 del 25 giugno 2012, ovvero produrre dichiarazione attestante l'assolvimento del tirocinio, secondo quanto previsto dal regolamento sopra citato.
 
 In deroga al comma 1, sono ammessi a sostenere l'esame di idoneita' per l'iscrizione al registro i soggetti che, alla data di pubblicazione in Gazzetta Ufficiale del presente regolamento, hanno regolarmente completato il tirocinio previsto dall'articolo 5 del decreto del Presidente della Repubblica 6 marzo 1998, n. 99.
 
@@ -47,6 +202,56 @@ La domanda per l'ammissione all'esame, conforme alle prescrizioni di legge in ma
 
 La domanda puo' essere presentata con modalita' telematiche o digitali, ovvero a mezzo raccomandata con avviso di ricevimento; in tal caso gli effetti si producono dalla data di spedizione.
 
+3.
+                    
+                        
+                            Nella domanda di cui al comma 1, l'interessato dichiara sotto la propria responsabilita', ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445: 
+ 
+                        
+                        
+                            a)
+                            
+                                cognome, nome, luogo e data di nascita, residenza o domicilio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di aver conseguito il diploma di laurea tra quelle individuate con regolamento di cui all'articolo 2, comma 2, lettera b), del decreto legislativo 27 gennaio 2010, n. 39, adottato con decreto ministeriale del 20 giugno 2012, n. 145, ovvero per i soggetti di cui all'articolo 2, commi 2 e 3, il possesso del titolo di studio previsto dall'articolo 3, comma 2, lettera a), del decreto legislativo 27 gennaio 1992, n. 88; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di essere in possesso dell'attestato di compiuto tirocinio di cui al regolamento previsto dall'articolo 3, comma 8, del decreto legislativo 27 gennaio 2010, n. 39, adottato con decreto ministeriale del 25 giugno 2012, n. 146, ovvero di produrre, nelle more del rilascio da parte del Ministero dell'economia e delle finanze dell'attestato di compiuto tirocinio, una dichiarazione attestante l'assolvimento di quanto previsto dal sopra citato regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                eventualmente di aver diritto all'esonero dalle singole prove ai sensi del successivo articolo 11.
+
+4.
+                    
+                        
+                            Alla domanda sono allegati i seguenti documenti conformi alle prescrizioni di legge in materia di bollo, ovvero apposita autocertificazione sostitutiva: 
+ 
+                        
+                        
+                            a)
+                            
+                                la documentazione comprovante il possesso dei requisiti di cui alle lettere b), c) e d); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la ricevuta di pagamento del contributo indicato al comma 6.
+
 La sottoscrizione apposta in calce alla domanda e' esente da autenticazione.
 
 L'istante deve versare il contributo per le spese d'esame nella misura di euro 100,00. L'ammontare dell'importo puo' essere aggiornato con decreto del Ministro dell'economia e delle finanze, nella misura necessaria alla copertura delle spese indicate.
@@ -59,6 +264,38 @@ Per coloro che hanno gia' conseguito l'abilitazione alla professione di dottore 
 
 ((
 
+1.
+                    
+                        
+                            La commissione esaminatrice e' nominata con decreto del direttore generale della Direzione generale degli affari interni del Dipartimento per gli affari di giustizia del Ministero della giustizia, sentito il Ministero dell'economia e delle finanze, ed e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                un magistrato con qualifica non inferiore a quella di magistrato di III valutazione di professionalita', che la presiede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                due professori universitari ordinari o associati nelle materie indicate nell'articolo 1; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un revisore legale iscritto nel registro da almeno cinque anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un dirigente del Ministero dell'economia e delle finanze - Dipartimento della ragioneria generale dello Stato.
+
 ))
 
 Per ciascuno dei componenti effettivi e' nominato un supplente avente gli stessi requisiti indicati al comma 1.
@@ -70,6 +307,38 @@ I componenti della commissione o delle sottocommissioni non possono essere nuova
 La commissione si avvale di un ufficio di segreteria cui e' addetto, nel numero strettamente necessario, personale del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria Generale dello Stato. La commissione nomina il capo dell'ufficio di segreteria tra il personale appartenente alla terza area.
 
 ## Art. 5. — Materie delle prove di esame
+
+1.
+                    
+                        
+                            L'esame consiste in tre prove scritte ed una prova orale, secondo le seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                la prima prova scritta ((verte)) su materie economiche e aziendali, scelte tra quelle indicate nell'articolo 1, comma 1, lettere a), b), c), d), e), r), s), t), u); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la seconda prova scritta ((verte)) su materie giuridiche, scelte tra quelle indicate nell'articolo 1, comma 1, lettere m), n), o), p), q); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la terza prova scritta verte sulle materie tecnico-professionali e della revisione indicate all'articolo 1, comma 1, lettere f), g), h), i), l) e comprende un quesito a contenuto pratico attinente l'esercizio della revisione legale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la prova orale verte ((sulle)) materie scelte tra quelle elencate nell'articolo 1, comma 1 ed eventuali successive modifiche ed integrazioni, ferma restando la disciplina degli esoneri di cui al presente regolamento.
 
 ((
 

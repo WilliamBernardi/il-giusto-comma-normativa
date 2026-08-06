@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,28 @@ Le disposizioni del presente decreto legislativo, in attuazione dell'articolo 1,
 
 ## Art. 2. — Modifiche all'articolo 16 del decreto legislativo 26 marzo 2001, n. 151, in materia di divieto di adibire al lavoro le donne
 
+1.
+                    
+                        
+                            Al decreto legislativo 26 marzo 2001, n. 151, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 16, comma 1, la lettera d) e' sostituita dalla seguente: 
+ «d) durante i giorni non goduti prima del parto, qualora il parto avvenga in data anticipata rispetto a quella presunta. Tali giorni si aggiungono al periodo di congedo di maternita' dopo il parto, anche qualora la somma dei periodi di cui alle lettere a) e c) superi il limite complessivo di cinque mesi.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 16 e' inserito il seguente: 
+ «Art. 16-bis (Rinvio e sospensione del congedo di maternita'). - 1.
+In caso di ricovero del neonato in una struttura pubblica o privata, la madre ha diritto di chiedere la sospensione del congedo di maternita' per il periodo di cui all'articolo 16, comma 1, lettere c) e d), e di godere del congedo, in tutto o in parte, dalla data di dimissione del bambino. 
+ 2. Il diritto di cui al comma 1 puo' essere esercitato una sola volta per ogni figlio ed e' subordinato alla produzione di attestazione medica che dichiari la compatibilita' dello stato di salute della donna con la ripresa dell'attivita' lavorativa.».
+
 ## Art. 3. — Modifiche all'articolo 24 del decreto legislativo 26 marzo 2001, n. 151, in materia di prolungamento del diritto alla corresponsione del trattamento economico
 
 All'articolo 24 del decreto legislativo 26 marzo 2001, n. 151, il comma 1 e' sostituito dal seguente: 
@@ -48,6 +70,28 @@ All'articolo 26 del decreto legislativo 26 marzo 2001, n. 151, dopo il comma 6 e
 Modifiche all'articolo 28 del decreto legislativo 
  26 marzo 2001, n. 151, in materia di congedo di paternita'
 
+1.
+                    
+                        
+                            All'articolo 28 del decreto legislativo 26 marzo 2001, n. 151, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 sono inseriti i seguenti: 
+ «1-bis. Le disposizioni di cui al comma 1, si applicano anche qualora la madre sia lavoratrice autonoma avente diritto all'indennita' di cui all'articolo 66». 
+ 1-ter. L'indennita' di cui all'articolo 66 spetta al padre lavoratore autonomo, previa domanda all'INPS, per tutta la durata del congedo di maternita' o per la parte residua che sarebbe spettata alla lavoratrice in caso di morte o di grave infermita' della madre ovvero di abbandono, nonche' in caso di affidamento esclusivo del bambino al padre»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Il padre lavoratore che intende avvalersi del diritto di cui ai commi 1 e 1-bis presenta al datore di lavoro la certificazione relativa alle condizioni ivi previste. In caso di abbandono, il padre lavoratore ne rende dichiarazione ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
+L'INPS provvede d'ufficio agli accertamenti amministrativi necessari all'erogazione dell'indennita' di cui al comma 1-ter, con le risorse umane, strumentali e finanziarie previste a legislazione vigente.».
+
 ## Art. 6.
 
 Modifiche all'articolo 31 del decreto legislativo 26 marzo 2001, n. 151, in materia di congedo di paternita' nei casi di adozione e affidamento
@@ -57,13 +101,72 @@ All'articolo 31 del decreto legislativo 26 marzo 2001, n. 151, il comma 2 e' sos
 
 ## Art. 7. — Modifiche all'articolo 32 del decreto legislativo 26 marzo 2001, n. 151, in materia di congedo parentale
 
+1.
+                    
+                        
+                            All'articolo 32 del decreto legislativo 26 marzo 2001, n. 151, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «nei primi suoi otto anni di vita» sono sostituite dalle seguenti: «nei primi suoi dodici anni di vita»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1-bis e' inserito il seguente: 
+ «1-ter. In caso di mancata regolamentazione, da parte della contrattazione collettiva, anche di livello aziendale, delle modalita' di fruizione del congedo parentale su base oraria, ciascun genitore puo' scegliere tra la fruizione giornaliera e quella oraria.
+La fruizione su base oraria e' consentita in misura pari alla meta' dell'orario medio giornaliero del periodo di paga quadrisettimanale o mensile immediatamente precedente a quello nel corso del quale ha inizio il congedo parentale. Nei casi di cui al presente comma e' esclusa la cumulabilita' della fruizione oraria del congedo parentale con permessi o riposi di cui al presente decreto legislativo. Le disposizioni di cui al presente comma non si applicano al personale del comparto sicurezza e difesa e a quello dei vigili del fuoco e soccorso pubblico.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Ai fini dell'esercizio del diritto di cui al comma 1, il genitore e' tenuto, salvo casi di oggettiva impossibilita', a preavvisare il datore di lavoro secondo le modalita' e i criteri definiti dai contratti collettivi e, comunque, con un termine di preavviso non inferiore a cinque giorni indicando l'inizio e la fine del periodo di congedo. Il termine di preavviso e' pari a 2 giorni nel caso di congedo parentale su base oraria.».
+
 ## Art. 8. — Modifiche all'articolo 33 del decreto legislativo 26 marzo 2001, n. 151, in materia di prolungamento del congedo parentale
 
 All'articolo 33, comma 1, del decreto legislativo 26 marzo 2001, n. 151, le parole: «entro il compimento dell'ottavo anno di vita del bambino» sono sostituite dalle seguenti: «entro il compimento del dodicesimo anno di vita del bambino».
 
 ## Art. 9. — Modifiche all'articolo 34 del decreto legislativo 26 marzo 2001, n. 151, in materia di trattamento economico e normativo
 
+1.
+                    
+                        
+                            All'articolo 34 del decreto legislativo 26 marzo 2001, n. 151, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «fino al terzo anno» sono sostituite dalle seguenti: «fino al sesto anno»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 dopo le parole: «e' dovuta» sono inserite le seguenti: «, fino all'ottavo anno di vita del bambino,».
+
 ## Art. 10. — Modifiche all'articolo 36 del decreto legislativo 26 marzo 2001, n. 151, in materia di congedo parentale nei casi di adozione e affidamento
+
+1.
+                    
+                        
+                            All'articolo 36 del decreto legislativo 26 marzo 2001, n. 151, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 le parole: «entro otto anni dall'ingresso del minore in famiglia» sono sostituite dalle seguenti: «entro dodici anni dall'ingresso del minore in famiglia; 
+ b) il comma 3 e' sostituito dal seguente: 
+ «3. L'indennita' di cui all'articolo 34, comma 1, e' dovuta, per il periodo massimo complessivo ivi previsto, entro i sei anni dall'ingresso del minore in famiglia.».
 
 ## Art. 11. — Modifiche all'articolo 53 del decreto legislativo 26 marzo 2001, n. 151, in materia di lavoro notturno
 
@@ -71,6 +174,25 @@ All'articolo 53, comma 2, del decreto legislativo 26 marzo 2001, n. 151, dopo la
  «b-bis) la lavoratrice madre adottiva o affidataria di un minore, nei primi tre anni dall'ingresso del minore in famiglia, e comunque non oltre il dodicesimo anno di eta' o, in alternativa ed alle stesse condizioni, il lavoratore padre adottivo o affidatario convivente con la stessa.».
 
 ## Art. 12. — Modifiche all'articolo 55 del decreto legislativo 26 marzo 2001, n. 151, in materia di dimissioni
+
+1.
+                    
+                        
+                            All'articolo 55 del decreto legislativo 26 marzo 2001, n. 151, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. In caso di dimissioni volontarie presentate durante il periodo per cui e' previsto, a norma dell'articolo 54, il divieto di licenziamento, la lavoratrice ha diritto alle indennita' previste da disposizioni di legge e contrattuali per il caso di licenziamento. La lavoratrice e il lavoratore che si dimettono nel predetto periodo non sono tenuti al preavviso.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' abrogato.
 
 ## Art. 13. — Modifiche all'articolo 64 del decreto legislativo 26 marzo 2001, n. 151, in materia di lavoratrici iscritte alla gestione separata di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335
 
@@ -122,9 +244,67 @@ All'articolo 71 del decreto legislativo 26 marzo 2001, n. 151, dopo il comma 3 e
 
 Modifiche all'articolo 72 del decreto legislativo 26 marzo 2001, n. 151, in materia di indennita' di maternita' per le libere professioniste nei casi di adozione e affidamento
 
+1.
+                    
+                        
+                            All'articolo 72 del decreto legislativo 26 marzo 2001, n. 151, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. In caso di adozione o di affidamento, l'indennita' di maternita' di cui all'articolo 70 spetta, sulla base di idonea documentazione, per i periodi e secondo quanto previsto all'articolo 26.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. La domanda deve essere presentata dalla madre al competente ente che gestisce forme obbligatorie di previdenza in favore dei liberi professionisti entro il termine perentorio di centottanta giorni dall'ingresso del minore e deve essere corredata da idonee dichiarazioni, ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestanti l'inesistenza del diritto a indennita' di maternita' per qualsiasi altro titolo e la data di effettivo ingresso del minore nella famiglia.».
+
 ## Art. 21. — Modifiche all'articolo 85 del decreto legislativo 26 marzo 2001, n. 151, recante disposizioni in vigore
 
+1.
+                    
+                        
+                            All'articolo 85 del decreto legislativo 26 marzo 2001, n. 151, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 sono soppresse le lettere m) e z); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, la lettera h) e' sostituita dalla seguente: 
+ «h) il decreto del Ministro della sanita' 10 settembre 1998;».
+
 ## Art. 22. — Modifiche agli articoli 11 e 18-bis del decreto legislativo 8 aprile 2003, n. 66, in materia di lavoro notturno
+
+1.
+                    
+                        
+                            Al decreto legislativo 8 aprile 2003, n. 66, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 11, comma 2, dopo la lettera b), e' inserita la seguente: 
+ «b-bis) la lavoratrice madre adottiva o affidataria di un minore, nei primi tre anni dall'ingresso del minore in famiglia, e comunque non oltre il dodicesimo anno di eta' o, in alternativa ed alle stesse condizioni, il lavoratore padre adottivo o affidatario convivente con la stessa;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 18-bis, comma 1, secondo periodo, dopo le parole: «lettere a), b)» sono inserite le seguenti: «b-bis) e».
 
 ## Art. 23. — Disposizioni in materia di telelavoro
 

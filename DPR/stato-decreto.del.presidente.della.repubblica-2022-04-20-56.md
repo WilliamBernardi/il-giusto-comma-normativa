@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -171,6 +171,45 @@ Gli importi di cui al comma 1 non comprendono gli oneri contributivi e l'IRAP a 
 
 Le risorse assegnate e non utilizzate nell'esercizio di competenza sono riassegnate, per le medesime esigenze, nell'anno successivo.
 
+4.
+                        
+                            
+                                Le risorse destinate al fondo per l'efficienza dei servizi istituzionali sono utilizzate per attribuire compensi finalizzati a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fronteggiare particolari situazioni di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incentivare l'impiego del personale nelle attivita' operative e di funzionamento individuate dai rispettivi vertici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compensare l'incentivazione della produttivita' collettiva per il miglioramento dei servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compensare l'impiego in compiti o incarichi che comportino l'assunzione di specifiche responsabilita' o disagio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    compensare la presenza qualificata.
+
 La determinazione dei criteri per la destinazione e l'utilizzazione delle risorse del fondo per l'efficienza dei servizi istituzionali, secondo le modalita' previste dall'articolo 5 del decreto del Presidente della Repubblica 11 settembre 2007, n. 171, contempla la totalita' delle singole voci di cui al comma 4 ovvero parte di esse.
 
 ## Art. 8. — Lavoro straordinario
@@ -197,6 +236,24 @@ A decorrere dal 1° gennaio 2021, le misure del compenso forfetario di guardia s
 
 ## Art. 10. — Trattamento di missione
 
+1.
+                        
+                            
+                                A decorrere dal 31 dicembre 2021 e a valere dal 2022: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indennita' di missione prevista dall'articolo 1, primo comma, della legge 18 dicembre 1973, n. 836, per il personale di cui all'articolo 1 del presente decreto e' rideterminata in euro 24,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al personale inviato in missione di durata superiore a dodici ore compete il rimborso delle spese documentate nel limite di euro 30,55 per un pasto e di complessivi euro 61,10 per due pasti. Per incarichi di durata non inferiore a otto ore compete il rimborso di un solo pasto. I medesimi limiti di rimborso si applicano al personale in trasferta che dichiari di non aver potuto consumare i pasti per ragioni di servizio o per mancanza di strutture che ne consentano la consumazione pur avendone il diritto ai sensi della vigente normativa. E' consentito il rimborso del documento fiscale con dicitura «pasto completo».
+
 Al personale delle musiche d'ordinanza comandato in missione fuori della sede di servizio, anche in contingenti superiori a dieci unita', e' dovuto il trattamento di missione di cui all'articolo 1 della legge 18 dicembre 1973, n. 836, in luogo della indennita' supplementare di marcia prevista dall'articolo 8 della legge 23 marzo 1983, n. 78.
 
 ## Art. 11. — Orario di lavoro
@@ -212,6 +269,29 @@ Il comma 3 dell'articolo 13 del decreto del Presidente della Repubblica 15 marzo
 ## Art. 12.
 
 Indennita' di rischio
+
+1.
+                        
+                            
+                                A decorrere dal 31 dicembre 2021 e a valere dal 2022, le indennita' giornaliere di rischio di cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1 e alla tabella A del decreto del Presidente della Repubblica 5 maggio 1975, n. 146, per attivita' di servizio comportanti continua e diretta esposizione a rischi pregiudizievoli alla salute o all'incolumita' personale, sono rideterminate nei seguenti importi: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 3 e alla tabella C del decreto del Presidente della Repubblica n. 146 del 1975, per gli operatori subacquei, sono rideterminate nei seguenti importi: 
+ 
+ Parte di provvedimento in formato grafico
 
 ## Art. 13.
 
@@ -241,11 +321,68 @@ A decorrere dal 31 dicembre 2021 e a valere dal 2022, le misure percentuali di c
 
 A decorrere dal 31 dicembre 2021 e a valere dal 2022, al personale militare qualificato soccorritore marittimo e imbarcato sulle unita' navali iscritte nel quadro del naviglio militare per assolvere i compiti di soccorritore marittimo, e' corrisposta una indennita' supplementare mensile in misura pari al 20 per cento dell'indennita' di impiego operativo di base. ((1))
 
+13.
+                        
+                            
+                                A decorrere dal 31 dicembre 2021 e a valere dal 2022, al personale militare abilitato aerocontrollore e imbarcato sulle unita' navali iscritte nel quadro del naviglio militare, per assolvere i compiti di controllore aeromobili, compete un'indennita' supplementare mensile, con riferimento alle indennita' di impiego operativo di base, nelle seguenti misure percentuali, in relazione al livello di abilitazione posseduto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alfa, 70 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    bravo, 50 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    charlie, 30 per cento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delta, 20 per cento.
+
 L'indennita' supplementare mensile di cui al comma 13, nella misura percentuale riferita al livello alfa, e' altresi' corrisposta, al personale militare abilitato controllore del traffico aereo e imbarcato sulle unita' portaeromobili, per assolvere i compiti di controllore del traffico aereo.
 
 A decorrere dal 31 dicembre 2021 e a valere dal 2022, l'indennita' giornaliera prevista per il personale militare delle Forze Armate impiegato in turni continuativi, di cui all'articolo 4, comma 3, decreto del Presidente della Repubblica 16 marzo 1999, n. 255, come incrementata con decreto del Presidente della Repubblica 13 giugno 2002, n. 163, e' rideterminata in euro 4,10.
 
 A decorrere dal 31 dicembre 2021 e a valere dal 2022, al personale militare dell'Esercito, in possesso di qualifica cyber e in servizio presso il Reparto Sicurezza Cibernetica, il Comando C4 Esercito, nelle unita' Computer Incident Response Team dei Battaglioni Trasmissioni, nei Nuclei Cyber Security dei Reggimenti Trasmissioni e il VI Reparto dello Stato Maggiore Esercito, e' corrisposta una indennita' supplementare mensile in misura pari al 40 per cento dell'indennita' di impiego operativo di base.
+
+17.
+                        
+                            
+                                L'indennita' di cui al comma 16 e' corrisposta, altresi', con la stessa decorrenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al personale militare della Marina e delle Capitanerie di Porto in possesso di qualifica cyber e in servizio rispettivamente presso la Sezione Cyber Defence dello Stato Maggiore della Marina, il Comando C4S e i Centri Telecomunicazioni ed Informatica della Marina militare e presso il Reparto VII del Comando Generale del Corpo delle Capitanerie di Porto - Guardia Costiera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al personale militare dell'Aeronautica militare in possesso di qualifica cyber e in servizio presso il Reparto Sistemi Informativi Automatizzati, il Reparto Gestione ed Innovazione Sistemi Comando e Controllo, il Reparto Supporto Tecnico Operativo Guerra Elettronica e la terza Divisione del Comando Logistico di Roma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al personale militare dell'Esercito, della Marina e dell'Aeronautica in possesso di qualifica cyber nel settore della cyber sicurezza e in servizio presso il VI Reparto dello Stato Maggiore Difesa, il Reparto Cyber Operations, il Reparto Sicurezza e Cyber Defence e il Reparto C4 del Comando per le operazioni in rete e presso l'Ufficio Cyber Intelligence del Centro Intelligence interforze.
 
 A decorrere dal 31 dicembre 2021 e a valere dal 2022, al personale militare in possesso di abilitazione avanzata aeromobile e in servizio presso il 66° reggimento fanteria aeromobile Trieste, e' corrisposta una indennita' supplementare mensile in misura pari al 20 per cento dell'indennita' di impiego operativo di base.
 
@@ -271,6 +408,24 @@ A decorrere dal 31 dicembre 2021 e a valere dal 2022, agli Ufficiali dell'Aerona
 
 Indennita' di presenza festiva
 
+1.
+                        
+                            
+                                A decorrere dal 31 dicembre 2021 e a valere dal 2022, al personale militare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che presta attivita' lavorativa in un giorno festivo, matura l'indennita' di cui all'articolo 7, comma 1, del decreto del Presidente della Repubblica 8 febbraio 2001, n. 139, nella misura giornaliera di euro 14,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chiamato a prestare attivita' lavorativa nei giorni di Natale, 26 dicembre, Capodanno, Pasqua, lunedi' di Pasqua, 1° maggio, 2 giugno e Ferragosto e' attribuito per ciascuna festivita', in luogo dell'indennita' di cui alla lettera a), un compenso giornaliero nella misura di euro 40,00.
+
 ## Art. 15.
 
 Indennita' per servizio aviolancistico
@@ -283,7 +438,43 @@ L'emolumento di cui al precedente comma 1 non compete ai gruppi sportivi di spec
 
 Indennita' di servizio aereo
 
+1.
+                        
+                            
+                                A decorrere dal 31 dicembre 2021 e a valere dal 2022, al personale militare che espleta funzioni di controllore del traffico aereo o di assistente al traffico aereo, in maniera continuativa o discontinua, anche nell'ambito del normale orario di servizio, impiegato in turni operativi presso un ente dei servizi informazioni aeronautiche o un ente dei servizi del traffico aereo, ivi compresi i Servizi di Coordinamento e Controllo dell'Aeronautica Militare, e' dovuta un'indennita' di presenza pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 15,00, per le funzioni di assistente al traffico aereo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 20,00, per le funzioni di controllore del traffico aereo.
+
 La presenza di cui al comma 1 e' maturata per ogni 8 ore di impiego cumulativo in turnazione operativa.
+
+3.
+                        
+                            
+                                L'indennita' di cui al comma 1, lettera b), e' rideterminata nella misura di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    euro 40,00 per il personale che espleta funzioni di controllo del traffico aereo presso i servizi di cui al comma 1, che gestiscono un numero di movimenti di aeromobili complessivo nel mese solare, attestati dall'autorita' competente di ciascun aeroporto, superiore a 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    euro 60,00 per il personale che espleta funzioni di controllo del traffico aereo presso i servizi di cui al comma 1, che gestiscono un numero di movimenti di aeromobili complessivo nel mese solare, attestati dall'autorita' competente di ciascun aeroporto, superiore a 4000.
 
 L'indennita' di servizio traffico aereo non e' cumulabile con l'indennita' di cui all'articolo 4, comma 11, del decreto-legge 24 ottobre 1979, n. 511 convertito, con modificazioni, dalla legge 22 dicembre 1979, n. 635 e con l'indennita' per il personale impiegato in turni continuativi di cui all'articolo 13, comma 15, del presente decreto.
 
@@ -311,6 +502,49 @@ A decorrere dal 31 dicembre 2021 e a valere dal 2022, al personale militare in p
  i. la licenza ordinaria spettante e non ancora fruita, eccedente le quattro settimane annue, quantificata in venti o ventiquattro giorni nel caso di articolazione dell'orario di lavoro settimanale, rispettivamente, su cinque o sei giorni; 
  ii. le quattro giornate di riposo di cui alla legge 23 dicembre 1977, n. 937)).
 
+2.
+                        
+                            
+                                La cessione di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' a titolo volontario e gratuito, non puo' essere sottoposta a condizione o a termine e non e' revocabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avviene in forma scritta, adottando misure idonee a garantire la riservatezza dei dati personali, e puo' essere effettuata sia mediante cessione diretta sia con sistemi centralizzati, secondo procedure definite dall'Amministrazione entro novanta giorni dall'entrata in vigore del presente decreto, previa acquisizione del parere ((delle APCSM riconosciute rappresentative ai sensi dell'articolo 1478 del decreto legislativo 15 marzo 2010, n. 66, secondo le procedure di cui all'articolo 1479-ter, comma 2, del medesimo decreto legislativo)).
+
+3.
+                        
+                            
+                                Il militare ricevente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'atto della formalizzazione della richiesta di cessione deve presentare al Comando di appartenenza adeguata certificazione, comprovante lo stato di necessita' di cui al comma 1, rilasciata da struttura sanitaria pubblica o convenzionata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    puo' chiedere massimo trenta giorni, fruibili anche consecutivamente, per ciascuna domanda di cessione, fino al limite di centoventi giorni annui; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo' avvalersi dei giorni ricevuti solo a seguito dell'avvenuta completa fruizione dei giorni di licenza ordinaria e di riposo di cui alla legge 23 dicembre 1977, n. 937, allo stesso spettanti ovvero, in caso di pregressa cessione, di quelli ricevuti con quest'ultima.
+
 ((Ferme restando le disposizioni di cui ai commi 1, 2 e 3, l'istituto puo' essere fruito anche dal personale che ha necessita' di assistere il genitore: 
  a) convivente che, per le particolari condizioni di salute in cui versa, necessita di cure costanti; 
 b) non convivente, affetto da patologie gravi che richiedono terapie salvavita documentate dalla azienda sanitaria competente per territorio o da struttura convenzionata.))
@@ -321,11 +555,98 @@ Ove cessino le condizioni di cui al comma 1, i giorni ricevuti devono essere res
 
 ## Art. 20. — Trattamento economico di trasferimento
 
+1.
+                        
+                            
+                                Il personale trasferito d'autorita' che, ove sussista l'alloggio di servizio, ne abbia titolo in relazione all'incarico ricoperto, ed abbia presentato domanda per ottenerlo, ove prevista, puo' richiedere il rimborso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del canone dell'alloggio per un importo massimo di euro 775,00 mensili, fino all'assegnazione dell'alloggio di servizio e, comunque, per un periodo non superiore a tre mesi, previa presentazione di formale contratto di locazione o di fattura quietanzata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle spese per il deposito delle proprie masserizie in attesa dell'effettiva consegna dell'alloggio temporaneamente non disponibile per cause non riconducibili allo stesso personale, nel limite di euro 1.000,00 mensili e per un periodo non superiore a tre mesi, previa presentazione di formale contratto di deposito o di fattura quietanzata.
+
 Nelle stesse condizioni indicate al comma 1 il personale ha facolta' di optare per la riduzione dell'importo mensile ivi previsto in relazione alla elevazione proporzionale dei mesi di durata dei benefici e comunque non oltre i sei mesi.
 
 ## Art. 21.
 
 Tutela della genitorialita'
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo 26 marzo 2001, n. 151, al personale delle Forze armate si applicano le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esonero dalla sovrapposizione completa dell'orario di servizio, a richiesta degli interessati, tra genitori, dipendenti dalla stessa Amministrazione, con figli fino a sei anni di eta' per provvedere alle materiali esigenze del minore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esonero, a domanda, per la madre o, alternativamente, per il padre, dal servizio notturno sino al compimento del terzo anno di eta' del figlio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esonero, a domanda, sino al compimento del terzo anno di eta' del figlio, per la madre dal servizio notturno o da servizi continuativi articolati sulle 24 ore, o per le situazioni monoparentali da servizi continuativi articolati sulle 24 ore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((esonero, a domanda, dal servizio notturno per le situazioni monoparentali, ivi compreso il genitore unico affidatario ovvero, in caso di affidamento condiviso, il genitore collocatario nei termini del relativo provvedimento, sino al compimento del quattordicesimo anno di eta' del figlio convivente;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    divieto di inviare in missione all'estero, fuori sede o in servizio di ordine pubblico per piu' di una giornata, senza il consenso dell'interessato, il personale con figli di eta' inferiore a tre anni che ha proposto istanza per essere esonerato dai servizi continuativi, notturni o dalla sovrapposizione dei servizi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esonero, a domanda, dal servizio notturno per i dipendenti che assistono un soggetto disabile per il quale risultano gia' godere delle agevolazioni di cui alla legge 5 febbraio 1992, n. 104; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    
+                                        ((esonero, a domanda, per la madre o, alternativamente, per il padre, in attesa del perfezionamento della concessione delle agevolazioni previste dalla legge 5 febbraio 1992, n. 104, dal servizio notturno per l'assistenza dei figli affetti da patologie gravi che richiedono terapie salvavita documentate dall'ufficio medico legale dell'azienda sanitaria competente per territorio o di struttura convenzionata.))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    possibilita' per le lavoratrici madri e per i lavoratori padri vincitori di concorso interno, con figli fino al dodicesimo anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    divieto di impiegare la madre o il padre che fruiscono dei riposi giornalieri, ai sensi degli articoli 39 e 40 del decreto legislativo 26 marzo 2001, n. 151 in servizi continuativi articolati sulle 24 ore.
 
 Il personale genitore di studenti del primo ciclo dell'istruzione affetti da disturbi specifici di apprendimento in ambito scolastico di cui all'articolo 1 della legge 8 ottobre 2010, n. 170, ha diritto, salvo che sussistano specifiche esigenze di servizio, a usufruire di orari di lavoro flessibili per l'assistenza alle attivita' scolastiche a casa richiesta dal piano didattico personalizzato definito dalla scuola secondo le linee guida emanate dal Ministro dell'istruzione ai sensi dell'articolo 7 della legge n. 170 del 2010.
 
@@ -344,6 +665,24 @@ Durante il periodo di licenza, alla dipendente e' attribuito il trattamento econ
 L'Amministrazione adotta idonee misure a tutela della riservatezza della condizione di cui al comma 1.
 
 ## Art. 23. — Licenza per aggiornamento scientifico
+
+1.
+                        
+                            
+                                Ai fini dell'aggiornamento scientifico della propria specializzazione professionale, possono essere autorizzati a usufruire, compatibilmente con le esigenze di servizio, di otto giorni di licenza annui nell'ambito dei periodi di licenza straordinaria di cui all'articolo 13 del decreto del Presidente della Repubblica 31 luglio 1995, n. 394: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli ufficiali medici in servizio permanente dell'Esercito italiano, della Marina militare e dell'Aeronautica militare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i militari in servizio permanente la cui iscrizione obbligatoria a un albo professionale o a un elenco professionale sia imposta per legge ai fini dello svolgimento della specifica attivita' di servizio a beneficio esclusivo dell'Amministrazione d'appartenenza, qualora la stessa non provveda in proprio o attraverso convenzioni con soggetti o enti esterni all'aggiornamento scientifico della specifica specializzazione professionale.
 
 ## Art. 24. — Disposizioni finali
 

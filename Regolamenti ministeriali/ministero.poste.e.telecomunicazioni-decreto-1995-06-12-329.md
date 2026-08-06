@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1998-08-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -97,6 +97,95 @@ Il presidente, nei casi in cui vi e' particolare urgenza di promuovere, contesta
 
 ## Art. 6.
 
+11.
+                    
+                        
+                            Il consiglio di amministrazione delibera:
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 18 DICEMBRE 1997, N. 523));
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 18 DICEMBRE 1997, N. 523));
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 18 DICEMBRE 1997, N. 523));
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 18 DICEMBRE 1997, N. 523));
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 18 DICEMBRE 1997, N. 523));
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 18 DICEMBRE 1997, N. 523));
+
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 18 DICEMBRE 1997, N. 523));
+
+                            
+                        
+                        
+                            h)
+                            
+                                di promuovere, contestare o abbandonare giudizi;
+
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 18 DICEMBRE 1997, N. 523));
+
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 18 DICEMBRE 1997, N. 523)).
+ 2. ((COMMA ABROGATO DAL DECRETO 18 DICEMBRE 1997, N. 523)).
+ 3.((COMMA ABROGATO DAL DECRETO 18 DICEMBRE 1997, N. 523)).
+ 4. ((COMMA ABROGATO DAL DECRETO 18 DICEMBRE 1997, N. 523)).
+ 5. ((COMMA ABROGATO DAL DECRETO 18 DICEMBRE 1997, N. 523)).
+ 6. ((COMMA ABROGATO DAL DECRETO 18 DICEMBRE 1997, N. 523)).
+ 7. L'Istituto puo' avvalersi del patrocinio dell'Avvocatura dello Stato.
+
 ## Art. 7. — ((ARTICOLO ABROGATO DAL DECRETO 18 DICEMBRE 1997, N. 523))
 
 
@@ -142,4 +231,29 @@ Sono fatti salvi in ogni caso i diritti acquisiti dal personale trasferito e con
 Entro novanta giorni dalla entrata in vigore del presente regolamento, con apposita convenzione, da stipularsi con l'Ente poste italiane e gli enti gia' titolari dei compiti trasferiti in capo all'Istituto stesso ai sensi dell'art. 6 della legge 29 gennaio 1994, n. 71, verranno disciplinati le modalita' di passaggio dei compiti predetti, nonche' i rapporti e le situazioni allo stesso conseguenti.
 
 Nella definizione della citata disciplina si dovra' salvaguardare l'esigenza dell'Istituto di disporre dei mezzi necessari per assolvere ai nuovi compiti con criteri di economicita' e di migliorare la qualita' del servizio, anche attraverso la semplificazione delle procedure di erogazione delle prestazioni.
+
+3.
+                    
+                        
+                            In particolare, saranno convenzionalmente definiti:
+ 
+                        
+                        
+                            a)
+                            
+                                la successione in tutto o in parte nei rapporti connessi con l'espletamento dei compiti assunti dall'Istituto postelegrafonici e l'accollo degli oneri agli stessi relativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di gestione delle pratiche di previdenza e quiescenza assunte in carico dall'Istituto postelegrafonici, anche in relazione a posizioni creditorie e non definite;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di trasferimento all'Istituto postelegrafonici di strutture, beni, risorse finanziarie gia' destinati allo svolgimento dei compiti assegnati all'Istituto.
 

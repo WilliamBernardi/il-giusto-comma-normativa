@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2014-08-21
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,31 @@ Il presente decreto e' finalizzato alla realizzazione di una infrastruttura nazi
 
 Per le finalita' di cui al comma 1, il presente decreto stabilisce norme generali per lo scambio, la condivisione, l'accesso e l'utilizzazione, in maniera integrata con le realta' regionali e locali, dei dati necessari per gli scopi delle politiche ambientali e delle politiche o delle attivita' che possono avere ripercussioni sull'ambiente.
 
+3.
+                    
+                        
+                            Il presente decreto si applica ai set di dati territoriali che rispondono alle seguenti condizioni: 
+
+                        
+                        
+                            a)
+                            
+                                sono disponibili in formato elettronico; 
+                            
+                        
+                        
+                            b)
+                            
+                                sono detenuti da o per conto di: 
+1) un'autorita' pubblica, e sono stati prodotti o ricevuti da un'autorita' pubblica o sono gestiti o aggiornati dalla medesima autorita' e rientrano nell'ambito dei compiti di servizio pubblico; 
+2) terzi, ((che possono accedere alla rete ai sensi dell'articolo 7 e)) che svolgono attivita' che possono avere ripercussioni sull'ambiente. 
+                            
+                        
+                        
+                            c)
+                            
+                                riguardano una o piu' delle categorie tematiche elencate agli Allegati I, II e III.
+
 Il presente decreto si applica altresi' ai servizi relativi ai dati territoriali concernenti i set di dati territoriali di cui al comma 3.
 
 Per i set di dati territoriali che rispondono alle condizioni di cui al comma 3, (( lettera b) )), ma per i quali i terzi detengano i diritti di proprieta' intellettuale, l'autorita' pubblica puo' intervenire in virtu' del presente decreto solo previa autorizzazione dei medesimi terzi.
@@ -40,8 +65,129 @@ Il presente decreto non impone la raccolta di nuovi dati territoriali. ((Il pres
 
 ## Art. 2. — (Definizioni)
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, si applicano le seguenti definizioni: 
+
+                        
+                        
+                            a)
+                            
+                                infrastruttura per l'informazione territoriale - INSPIRE: i metadati; i set di dati territoriali e i servizi relativi ai dati territoriali; i servizi e le tecnologie di rete; gli accordi in materia di condivisione, accesso e utilizzo dei dati e i meccanismi, i processi e le procedure di coordinamento e di monitoraggio stabilite, attuate o rese disponibili conformemente al presente decreto; 
+                            
+                        
+                        
+                            b)
+                            
+                                dati territoriali: i dati che attengono, direttamente o indirettamente, a una localita' o un'area geografica specifica; 
+                            
+                        
+                        
+                            c)
+                            
+                                set di dati territoriali: una collezione di dati territoriali identificabili; 
+                            
+                        
+                        
+                            d)
+                            
+                                servizi relativi ai dati territoriali: le operazioni che possono essere eseguite, con un'applicazione informatica, sui dati territoriali contenuti nei set dei medesimi dati o sui metadati connessi; 
+                            
+                        
+                        
+                            e)
+                            
+                                oggetto territoriale: una rappresentazione astratta di un fenomeno reale connesso con una localita' o un'area geografica specifica; 
+                            
+                        
+                        
+                            f)
+                            
+                                metadati: le informazioni che descrivono i set di dati territoriali e i servizi ad essi relativi e che consentono di ricercare, repertoriare e utilizzare tali dati e servizi; 
+                            
+                        
+                        
+                            g)
+                            
+                                interoperabilita': la possibilita' per i set di dati territoriali di essere combinati, e per i servizi di interagire, senza interventi manuali ripetitivi, in modo che il risultato sia coerente e che il valore aggiunto dei set di dati e dei servizi ad essi relativi sia potenziato; 
+                            
+                        
+                        
+                            h)
+                            
+                                geoportale INSPIRE: un sito internet, o equivalente, che fornisce l'accesso, a livello europeo, ai servizi di cui all'articolo 7; 
+                            
+                        
+                        
+                            i)
+                            
+                                autorita' pubblica: 
+1) qualsiasi amministrazione pubblica, a livello statale, regionale o locale, le aziende autonome e speciali, gli enti pubblici ed i concessionari di pubblici servizi, gli organi consultivi pubblici; 
+2) qualsiasi persona fisica o giuridica che eserciti funzioni amministrative pubbliche, ivi compresi compiti, attivita' o servizi specifici aventi attinenza con l'ambiente; 
+3) qualsiasi persona fisica o giuridica che abbia responsabilita' o funzioni pubbliche o presti servizi pubblici aventi attinenza con l'ambiente sotto il controllo degli organi o delle persone di cui ai numeri 1) o 2). 
+                            
+                        
+                        
+                            l)
+                            
+                                l'indice dei cataloghi pubblici dell'informazione ambientale: la base dati informatizzata dei cataloghi, disponibili con strumenti telematici, di cui all'articolo 4 del decreto legislativo 19 agosto 2005, n.195, disponibili in formato elettronico; 
+                            
+                        
+                        
+                            m)
+                            
+                                geoportale nazionale: un sito internet, o equivalente, che fornisce accesso a livello nazionale ai servizi di cui all'articolo 7.
+
 ## Art. 3. — (Infrastruttura nazionale per l'informazione territoriale
  e del monitoraggio ambientale)
+
+1.
+                    
+                        
+                            L'infrastruttura nazionale per l'informazione territoriale e del monitoraggio ambientale e' costituita da:
+
+                        
+                        
+                            a)
+                            
+                                i metadati, i set di dati territoriali e i servizi relativi ai dati territoriali e del monitoraggio ambientale;
+                            
+                        
+                        
+                            b)
+                            
+                                i servizi di rete di cui all'articolo 7;
+                            
+                        
+                        
+                            c)
+                            
+                                le tecnologie necessarie alla realizzazione dei servizi di rete;
+                            
+                        
+                        
+                            d)
+                            
+                                l'elenco ufficiale delle autorita' pubbliche responsabili della disponibilita' dei set di dati territoriali di cui all'articolo 1, comma 3, e dei servizi ad essi relativi;
+                            
+                        
+                        
+                            e)
+                            
+                                l'indice dei cataloghi pubblici dell'informazione ambientale;
+                            
+                        
+                        
+                            f)
+                            
+                                gli accordi in materia di condivisione, accesso e utilizzo dei dati;
+                            
+                        
+                        
+                            g)
+                            
+                                i meccanismi, i processi e le procedure di coordinamento e monitoraggio stabilite, attuate o rese disponibili conformemente al presente decreto.
 
 Il Ministero dell'ambiente e della tutela del territorio e del mare e' autorita' competente per l'attuazione del presente decreto.
 Per l'assolvimento di tali funzioni il Ministero dell'ambiente e della tutela del territorio e del mare si avvale dell'Istituto superiore per la protezione e la ricerca ambientale, di seguito ISPRA, quale struttura di coordinamento anche ai fini dell'adempimento dei compiti di cui all'articolo 12 e del raccordo con la rete europea d'informazione e di osservazione in materia ambientale.
@@ -53,6 +199,41 @@ Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare,
 Le autorita' pubbliche che producono, gestiscono o aggiornano i set dei dati territoriali e i servizi corrispondenti alle categorie tematiche elencate agli Allegati I, II e III creano, per tali set di dati, i metadati ((in conformita' con le disposizioni di esecuzione adottate a livello europeo e)) secondo le modalita' esecutive e temporali di cui al presente articolo.
 
 Nel caso di copie identiche dei medesimi set di dati territoriali detenute da piu' autorita' pubbliche o per conto di piu' autorita' pubbliche, le disposizioni del presente decreto si applicano solo alla versione di riferimento da cui derivano le varie copie. La Consulta nazionale per l'informazione territoriale ed ambientale, di cui all'articolo 11, individua la versione di riferimento nel caso in cui quest'ultima non sia univocamente identificata.
+
+3.
+                    
+                        
+                            I metadati contengono informazioni sui seguenti aspetti: 
+
+                        
+                        
+                            a)
+                            
+                                conformita' dei set di dati territoriali alle disposizioni di esecuzione definite a livello comunitario; 
+                            
+                        
+                        
+                            b)
+                            
+                                condizioni applicabili all'accesso e all'utilizzo dei set di dati territoriali e dei servizi relativi e, se del caso, corrispondenti canoni; 
+                            
+                        
+                        
+                            c)
+                            
+                                qualita' e validita' dei set di dati territoriali; 
+                            
+                        
+                        
+                            d)
+                            
+                                autorita' pubbliche responsabili della creazione, gestione, manutenzione e distribuzione dei set di dati territoriali e dei servizi; 
+                            
+                        
+                        
+                            e)
+                            
+                                limitazioni dell'accesso del pubblico e motivi di tali limitazioni, a norma dell'articolo 9, comma 4.
 
 ((COMMA ABROGATO DAL D.L. 24 GIUGNO 2014, N. 91, CONVERTITO, CON MODIFICAZIONI, DALLA L. 24 GIUGNO 2014, N. 91)).
 
@@ -94,7 +275,89 @@ Il Ministero dell'ambiente e della tutela del territorio e del mare, sentita la 
 
 ## Art. 7. — (Servizi di rete)
 
+1.
+                    
+                        
+                            Nell'ambito del sistema pubblico di connettivita' e cooperazione sono erogati i seguenti servizi per i set di dati territoriali e del monitoraggio ambientale, nonche' per i servizi ad essi relativi per i quali sono stati creati metadati a norma del presente decreto: 
+
+                        
+                        
+                            a)
+                            
+                                servizi di ricerca che consentano di cercare i set di dati territoriali e i servizi ad essi relativi in base al contenuto dei metadati corrispondenti e di visualizzare il contenuto dei metadati; 
+                            
+                        
+                        
+                            b)
+                            
+                                servizi di consultazione che consentano di eseguire almeno le seguenti operazioni: visualizzazione, navigazione, variazione della scala di visualizzazione (zoom in e zoom out), variazione della porzione di territorio inquadrata (pan), sovrapposizione dei set di dati territoriali consultabili e visualizzazione delle informazioni contenute nelle legende e qualsivoglia contenuto pertinente dei metadati; 
+                            
+                        
+                        
+                            c)
+                            
+                                servizi per lo scaricamento (download) dei dati che permettano di scaricare copie di set di dati territoriali o di una parte di essi e, ove fattibile, di accedervi direttamente; 
+                            
+                        
+                        
+                            d)
+                            
+                                servizi di conversione che consentano di trasformare i set di dati territoriali, onde conseguire l'interoperabilita'; 
+                            
+                        
+                        
+                            e)
+                            
+                                servizi che consentano di richiamare servizi sui dati territoriali.
+
 I servizi di cui al comma 1 tengono conto delle pertinenti esigenze degli utilizzatori, sono facili da utilizzare, disponibili per il pubblico e accessibili via internet o attraverso altri mezzi di telecomunicazione adeguati.
+
+3.
+                    
+                        
+                            Ai fini dei servizi di ricerca cui al comma 1, lettera a), e' applicata almeno la combinazione di criteri di ricerca indicata di seguito: 
+
+                        
+                        
+                            a)
+                            
+                                parole chiave; 
+                            
+                        
+                        
+                            b)
+                            
+                                classificazione dei dati territoriali e dei servizi ad essi relativi; 
+                            
+                        
+                        
+                            c)
+                            
+                                qualita' e validita' dei set di dati territoriali; 
+                            
+                        
+                        
+                            d)
+                            
+                                grado di conformita' alle disposizioni di esecuzione adottate a livello comunitario; 
+                            
+                        
+                        
+                            e)
+                            
+                                localizzazione geografica; 
+                            
+                        
+                        
+                            f)
+                            
+                                condizioni applicabili all'accesso e all'utilizzo dei dati territoriali e dei servizi ad essi relativi; 
+                            
+                        
+                        
+                            g)
+                            
+                                autorita' pubbliche responsabili dell'istituzione, della gestione, della manutenzione e della distribuzione dei set di dati territoriali e dei servizi ad essi relativi.
 
 ((Un servizio)) di ricerca di cui al comma 1 e' garantito sulla base del repertorio nazionale dei dati territoriali di cui all'articolo 59, comma 3, del decreto legislativo n. 82 del 2005.
 
@@ -103,6 +366,29 @@ Al fine di ridurre il proliferare della spesa per sistemi proprietari distribuit
 ## Art. 8. — (Geoportale nazionale)
 
 A decorrere dalla data di entrata in vigore del presente decreto il Portale cartografico nazionale assume la denominazione di Geoportale nazionale'. Il Geoportale nazionale sostituisce, ad ogni effetto, il Sistema cartografico cooperativo - Portale cartografico nazionale. Il Geoportale nazionale consente ai soggetti interessati, pubblici e privati, di avere contezza della disponibilita' dell'informazione territoriale e ambientale.
+
+2.
+                    
+                        
+                            Il Geoportale nazionale e' punto di accesso per le finalita' del presente decreto, per il livello nazionale: 
+
+                        
+                        
+                            a)
+                            
+                                ai servizi di rete di cui all'articolo 7, relativamente ai set di dati di cui all'articolo 5, comma 2, tramite il repertorio nazionale dei dati territoriali; 
+                            
+                        
+                        
+                            b)
+                            
+                                ai cataloghi delle autorita' pubbliche di cui all'articolo 2, comma 1, lettera 1); 
+                            
+                        
+                        
+                            c)
+                            
+                                alla rete SINAnet, per le finalita' di cui all'articolo 7, comma 5;
 
 Il Ministero dell'ambiente e della tutela del territorio e del mare adegua, sulla scorta delle infrastrutture gia' esistenti presso lo stesso Ministero, lo sviluppo del Geoportale nazionale ((, anche avvalendosi dell'ISPRA o di altra struttura tecnica dedicata, sulla base delle risorse disponibili a legislazione vigente, in coerenza con le regole tecniche definite dai decreti di cui all'articolo 59, comma 5, del decreto legislativo 7 marzo 2005, n. 82, e con le disposizioni di esecuzione adottate a livello europeo. In caso di disallineamento delle regole tecniche nazionali rispetto alle disposizioni di esecuzione europee si procede all'aggiornamento dei decreti, con le modalita' di cui al medesimo articolo 59, comma 5, del decreto legislativo n. 82 del 2005)).
 
@@ -113,6 +399,60 @@ Le autorita' pubbliche responsabili della produzione, della gestione, dell'aggio
 I servizi di cui all'articolo 7, comma 1, lettere a) e b), sono messi gratuitamente a disposizione del pubblico.
 
 In deroga al comma 1, l'accesso del pubblico ai set di dati territoriali e ai servizi ad essi relativi tramite i servizi di ricerca di cui all'articolo 7, comma 1, lettera a), e conseguentemente tramite i servizi di cui al medesimo articolo 7, comma 1, lettere b), c) ed e), e' escluso qualora l'accesso a tali servizi possa recare pregiudizio alle relazioni internazionali, alla pubblica sicurezza o alla difesa nazionale.
+
+4.
+                    
+                        
+                            In deroga al comma 1, le autorita' pubbliche escludono l'accesso del pubblico ai set di dati territoriali e ai servizi ad essi relativi tramite i servizi di cui all'articolo 7, comma 1, lettere da b) ad e), o ai servizi di commercio elettronico di cui al comma 12 qualora l'accesso a tali servizi possa recare pregiudizio: 
+
+                        
+                        
+                            a)
+                            
+                                alla riservatezza delle deliberazioni interne delle autorita' pubbliche, qualora essa sia prevista dal diritto; 
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((alle)) relazioni internazionali, alla sicurezza pubblica o alla difesa nazionale; 
+                            
+                        
+                        
+                            c)
+                            
+                                allo svolgimento di procedimenti giudiziari, alla possibilita' per ogni persona di avere un processo equo o alla possibilita' per l'autorita' pubblica di svolgere indagini di carattere penale o disciplinare; 
+                            
+                        
+                        
+                            d)
+                            
+                                alla riservatezza delle informazioni commerciali o industriali qualora la riservatezza sia prevista dal diritto nazionale o comunitario per tutelare un legittimo interesse economico, compreso l'interesse pubblico di mantenere la riservatezza statistica ed il segreto fiscale; 
+                            
+                        
+                        
+                            e)
+                            
+                                ai diritti di proprieta' intellettuale; 
+                            
+                        
+                        
+                            f)
+                            
+                                alla riservatezza dei dati personali ovvero dei fascicoli riguardanti una persona fisica, qualora tale persona non abbia acconsentito alla divulgazione dell'informazione al pubblico, laddove detta riservatezza sia prevista dal diritto nazionale o comunitario, anche tenuto conto dei requisiti previsti dalla direttiva 95/46/CE; 
+                            
+                        
+                        
+                            g)
+                            
+                                agli interessi o alla protezione di chiunque abbia fornito le informazioni richieste di sua propria volonta', senza che sussistesse alcun obbligo legale reale o potenziale in tal senso, a meno che la persona interessata abbia acconsentito alla divulgazione delle informazioni in questione; 
+                            
+                        
+                        
+                            h)
+                            
+                                alla tutela dell'ambiente cui si riferisce l'informazione, come nel caso dell'ubicazione di specie rare.
 
 I motivi che giustificano la limitazione dell'accesso di cui ((al comma 3 e)) al comma 4 sono interpretati in modo restrittivo, tenendo conto nel caso specifico dell'interesse pubblico tutelato dalla fornitura del medesimo accesso.
 
@@ -172,6 +512,96 @@ La Consulta nazionale per l'informazione territoriale ed ambientale e' organo di
 
 Il Ministero dell'ambiente e della tutela del territorio e del mare garantisce, con il supporto della Consulta di cui al comma 1, la partecipazione dell'Italia all'elaborazione delle disposizioni di esecuzione e delle linee guida adottate a livello comunitario ai fini della attuazione del presente decreto.
 
+4.
+                    
+                        
+                            La Consulta di cui al comma 1, e' presieduta da un rappresentante del Ministero dell'ambiente e della tutela del territorio e del mare ed e' costituita da un massimo di 50 componenti. Sono membri di diritto della Consulta:
+
+                        
+                        
+                            a)
+                            
+                                un rappresentante per ciascuno degli organi cartografici dello Stato di cui all'articolo 1 della legge 2 febbraio 1960, n. 68;
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante per ciascuna delle regioni e delle Province autonome di Trento e di Bolzano;
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante del Ministero della difesa;
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Ministero dell'istruzione, dell'universita' e della ricerca;
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante del Ministero delle infrastrutture e dei trasporti;
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante del Ministero delle politiche agricole, alimentari e forestali;
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante del Ministero per i beni e le attivita' culturali;
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante del Ministero dello sviluppo economico;
+                            
+                        
+                        
+                            i)
+                            
+                                un rappresentante del Ministero della salute;
+k) un rappresentante del Ministro per i rapporti con le regioni;
+                            
+                        
+                        
+                            l)
+                            
+                                un rappresentante dell'ISPRA;
+                            
+                        
+                        
+                            m)
+                            
+                                un rappresentante del Dipartimento della protezione civile;
+                            
+                        
+                        
+                            n)
+                            
+                                un rappresentante della DIGITPA;
+                            
+                        
+                        
+                            o)
+                            
+                                un rappresentante dell'Unione delle province d'Italia (UPI);
+                            
+                        
+                        
+                            p)
+                            
+                                un rappresentante dell'Associazione nazionale dei Comuni italiani (ANCI).
+
 Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'ambiente e della tutela del territorio e del mare, sentito il Ministro per la pubblica amministrazione e l'innovazione, sono definite le modalita' di funzionamento della Consulta e sono determinati gli eventuali ulteriori rappresentanti delle pubbliche amministrazioni centrali e degli enti, istituti ed organismi nazionali, nonche' gli eventuali ulteriori rappresentanti degli enti locali. Con il medesimo provvedimento sono anche individuate, nell'ambito della Consulta, una o piu' sezioni tecniche per l'attivita' istruttoria su specifiche tematiche di competenza dell'Organo, tra cui almeno una sezione denominata "Tavolo tecnico di cooperazione" tra il livello nazionale ed il livello regionale per la realizzazione di un sistema coordinato e condiviso per il governo, la tutela, il monitoraggio ed il controllo dell'ambiente, del territorio e del mare, nell'ambito del SINAnet. I rappresentanti delle regioni, d'intesa con l'ISPRA, curano il raccordo tecnico ed informativo con le Agenzie ambientali, regionali e provinciali.
 
 La partecipazione alla Consulta di cui al comma 1 non comporta compensi o gettoni di presenza. Gli eventuali rimborsi per spese di viaggio sono a carico delle amministrazioni direttamente interessate che vi provvedono nell'ambito degli ordinari stanziamenti di bilancio. Al fine di ridurre i costi di funzionamento della Consulta a carico delle amministrazioni e di massimizzarne l'efficacia operativa, le sessioni di lavoro possono essere anche condotte attraverso strumenti di teleconferenza, videopresenza o altre modalita' di gestione dei flussi informativi attraverso strumenti telematici che assicurino, comunque, parita' di partecipazione ai processi decisionali a tutti i rappresentanti.
@@ -181,6 +611,41 @@ La partecipazione alla Consulta di cui al comma 1 non comporta compensi o getton
 Anche ai fini delle attivita' di monitoraggio e di rendicontazione, e' redatto l'elenco in formato elettronico dei set di dati territoriali e dei relativi servizi corrispondenti alle categorie tematiche di cui agli Allegati I, II e III, raggruppati per categoria tematica e per Allegato, e dei servizi di rete di cui all'articolo 7, raggruppati per tipo di servizio.
 
 L'elenco e' pubblicato annualmente, entro il 30 aprile, sul sito internet del Ministero dell'ambiente e della tutela del territorio e del mare.
+
+3.
+                    
+                        
+                            Il Ministero dell'ambiente e della tutela del territorio e del mare invia alla Commissione europea, entro il 15 maggio 2013 e, successivamente, con cadenza triennale, entro il 15 maggio, una relazione contenente informazioni su: 
+
+                        
+                        
+                            a)
+                            
+                                le modalita' di coordinamento dei fornitori pubblici di set di dati territoriali e dei servizi ad essi relativi, degli utilizzatori di tali set di dati e servizi, degli organismi di intermediazione, e delle relazioni con i terzi e dell'organizzazione della garanzia di qualita'; 
+                            
+                        
+                        
+                            b)
+                            
+                                il contributo delle autorita' pubbliche o dei terzi al funzionamento e al coordinamento dell'infrastruttura per l'informazione territoriale; 
+                            
+                        
+                        
+                            c)
+                            
+                                l'utilizzo dell'infrastruttura per l'informazione territoriale; 
+                            
+                        
+                        
+                            d)
+                            
+                                gli accordi di condivisione dei dati stipulati tra autorita' pubbliche; 
+                            
+                        
+                        
+                            e)
+                            
+                                i costi e i benefici connessi all'attuazione della presente direttiva.
 
 Ai fini della raccolta dei dati per il monitoraggio e per la rendicontazione il Ministero dell'ambiente e della tutela del territorio e del mare si avvale dell'ISPRA, in raccordo con la Consulta nazionale per l'informazione territoriale ed ambientale.
 

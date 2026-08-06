@@ -8,8 +8,8 @@ codice_redazionale: 001G0089
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -38,4 +38,15 @@ Al procedimento di sostituzione del liquidatore ordinario di cui al presente reg
 Il Ministro del lavoro e della previdenza sociale, con proprio decreto, individua i raccordi con le procedure ispettive esistenti e gli specifici strumenti di controllo dell'attivita' del liquidatore in modo da garantire uniformita' nella rilevazione delle irregolarita' e dei ritardi di cui all'articolo 2.
 
 ## Art. 4. — Abrogazioni
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente regolamento, e' abrogato:
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto del Ministro del lavoro e della previdenza sociale 21 luglio 1999, pubblicato nella Gazzetta Ufficiale n. 202 del 28 agosto 1999.
 

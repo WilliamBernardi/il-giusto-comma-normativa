@@ -8,8 +8,8 @@ codice_redazionale: 005G0155
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,181 @@ Il presente regolamento stabilisce i requisiti a cui debbono rispondere le navi 
 Le presenti norme non si applicano alle merci ed ai materiali pericolosi destinati al normale approvvigionamento ed armamento della nave, nonche' a carichi particolari trasportati su navi costruite appositamente o trasformate interamente a tale scopo.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    SOLAS: la convenzione internazionale del 1974 per la salvaguardia della vita umana in mare ed il relativo protocollo del 1978 (SOLAS 74/78), e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    MARPOL: la convenzione internazionale del 1973 per la prevenzione dell'inquinamento causato da navi e il relativo protocollo del 1978 (MARPOL 73/78), e successive modificazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    regolamento di sicurezza: il regolamento per la sicurezza della navigazione e della vita umana in mare, approvato con decreto del Presidente della Repubblica 8 novembre 1991, n. 435;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    IMO: International Maritime Organization (Organizzazione internazionale marittima);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Codice IMDG: codice marittimo internazionale per il trasporto delle merci pericolose, cosi' come adottato dall'IMO con risoluzione A.81 (IV) del 27 settembre 1965, e successive modificazioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    MFAG: guida medica per il pronto soccorso in caso di incidenti connessi con il trasporto di merci pericolose;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    EmS: procedure d'emergenza per le navi trasportanti merci pericolose, il cui numero di identificazione e' indicato, per ciascuna merce pericolosa, nell'indice generale del codice IMDG;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ADR: l'accordo europeo relativo al trasporto internazionale di merci pericolose su strada, concluso a Ginevra il 30 settembre 1957, con le relative modificazioni, cosi' come ratificato con legge 12 agosto 1962, n. 1839;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    RID: il regolamento concernente il trasporto internazionale di merci pericolose per ferrovie, di cui all'annesso I dell'appendice B della convenzione relativa ai trasporti ferroviari internazionali (COTIF), e successive modificazioni, cosi' come recepito dal decreto legislativo 13 gennaio 1999, n. 41, e successive modificazioni, recante attuazione delle direttive 96/49/CE del Consiglio, del 23 luglio 1996, e 96/87/CE della Commissione, del 13 dicembre 1996, relative al trasporto di merci pericolose per ferrovia;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    CSC: la convenzione internazionale sulla sicurezza dei contenitori, adottata a Ginevra il 2 dicembre 1972 e ratificata con legge 3 febbraio 1979, n. 67, attuata con decreto del Presidente della Repubblica 4 giugno 1997, n. 448;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    autoveicolo: veicolo stradale autopropulso contenente nel suo serbatoio il combustibile necessario alla sua propulsione;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    caricatore o proprietario: soggetto che ha stipulato un contratto per il trasporto di merci via mare o persona nel cui nome o per conto della quale viene stipulato il contratto;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    detentore: colui che ha la disponibilita', a qualsiasi titolo, di colli e/o unita' di trasporto del carico;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    collo: imballaggio, contenitore intermedio o grande imballaggio, contenente merce pericolosa e pronto per la spedizione, nei limiti di capacita' e peso previsti dal codice IMDG:
+ 1) imballaggio: recipiente unico oppure uno o piu' recipienti interni imballati, con o senza materiale di imbottitura, in un recipiente unico esterno;
+ 2) contenitore intermedio: imballaggio mobile rigido, semirigido o flessibile per il trasporto alla rinfusa (IBC);
+ 3) grande imballaggio: imballaggio contenente a sua volta imballaggi o articoli;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    unita' di trasporto del carico: carro ferroviario, veicolo stradale autopropulso o rimorchiabile, contenitore ovvero cisterna, trasportati o non sui mezzi di cui sopra oppure su carrelli o chiatta, contenente merci pericolose non alla rinfusa, posta, a sua volta, su nave porta chiatte;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    cisterna; cisterna portatile (compreso il contenitore cisterna), veicolo cisterna stradale, carro cisterna ferroviario o recipiente di capacita' non inferiore a 450 litri per contenere solidi, liquidi o gas liquefatti;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    merce pericolosa: le sostanze, i materiali e gli articoli trattati dal codice IMDG;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    trasbordo: operazione di trasferimento di merci tra nave e banchina e viceversa mediante mezzi nautici;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    transhipment: operazione di sbarco e di successivo reimbarco su altre navi nell'ambito dello stesso ciclo di trasporto;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    Amministrazione: il Ministero delle infrastrutture e dei trasporti;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    autorita' marittima: gli uffici locali di cui all'articolo 17 del codice della navigazione, secondo funzioni delegate con direttive del Comando generale del Corpo delle capitanerie di porto;
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    autorita' portuale: gli enti di cui all'articolo 6 della legge 28 gennaio 1994, n. 84;
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    organismo tecnico: l'organismo autorizzato ai sensi dell'articolo 1, comma 1, lettera b), del decreto legislativo 3 agosto 1998, n. 314, e successive modificazioni;
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    raccomandatario marittimo: il soggetto di cui all'articolo 2 della legge 4 aprile 1977, n. 135.
 
 In tutti i casi in cui nel codice IMDG si fa riferimento all'autorita' competente, per tale si deve intendere «l'Amministrazione» cosi' come definita al comma 1, lettera v).
 
@@ -65,6 +240,24 @@ Restano ferme le disposizioni vigenti in materia di servizi di polizia doganale.
  nuove e B esistenti di cui al decreto
  legislativo 4 febbraio 2000, n. 45
 
+1.
+                        
+                            
+                                Alle navi di seguito indicate si applicano le prescrizioni SOLAS, cui le navi sono soggette, in relazione alla loro data di costruzione:
+ 
+                            
+                            
+                                a)
+                                
+                                    navi costruite il 1° settembre 1984 o posteriormente se navi da carico di stazza lorda uguale o superiore a 500 tonnellate in navigazione internazionale, se navi da passeggeri di qualsiasi stazza lorda in navigazione internazionale, se navi da passeggeri della classe A di cui al decreto legislativo 4 febbraio 2000, n. 45;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    navi costruite il 1° febbraio 1992 o posteriormente, se navi da carico di stazza lorda inferiore a 500 tonnellate in navigazione internazionale.
+
 Alle navi passeggeri delle classi B, C e D nuove ed alle navi passeggeri della classe B esistenti, di cui al decreto legislativo 4 febbraio 2000, n. 45, si applicano le prescrizioni di cui all'allegato I al predetto decreto legislativo.
 
 ## Art. 7.
@@ -73,7 +266,194 @@ Prescrizioni per le navi in esercizio soggette alla convenzione
  SOLAS costruite prima del 1° settembre 1984
  e per le navi non soggette alla convenzione SOLAS
 
+1.
+                        
+                            
+                                Fermo restando quanto stabilito dalla SOLAS, cui le navi sono soggette in relazione alla loro data di costruzione ovvero, per le navi non soggette alla SOLAS, dal regolamento di sicurezza o dal decreto legislativo 4 febbraio 2000, n. 45, alle navi di seguito indicate si applicano le prescrizioni particolari di cui ai commi 2 e 3 o, in alternativa, per le navi di cui al comma 1, lettera a), le disposizioni di cui all'articolo 6, comma 1:
+ 
+                            
+                            
+                                a)
+                                
+                                    navi soggette alla SOLAS costruite prima del 1° settembre 1984, se navi da carico di stazza lorda uguale o superiore a 500 tonnellate in navigazione internazionale, se navi da passeggeri di qualsiasi stazza lorda in navigazione internazionale, se navi da passeggeri della classe A di cui al decreto legislativo 4 febbraio 2000, n. 45;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    navi non soggette alla SOLAS, se navi da carico di qualsiasi stazza lorda in navigazione nazionale, se navi da carico di stazza lorda inferiore a 500 tonnellate in navigazione internazionale, costruite prima del 1° febbraio 1992, se navi passeggeri delle classi B esistenti, costruite prima del 1° settembre 1984, e C e D esistenti di cui al decreto legislativo 4 febbraio 2000, n. 45.
+
 I locali da carico adibiti al trasporto di merci pericolose non devono avere comunicazioni dirette con altri locali non idonei al trasporto delle suddette sostanze. Quanto sopra non si applica ai locali ro/ro, qualora le aperture o gli accessi verso i suddetti altri locali siano dotati di porta con dispositivo automatico di chiusura e con una soglia di altezza non inferiore a 500 mm.
+
+3.
+                        
+                            
+                                Salvo esplicite disposizioni contrarie, ai fini dell'applicazione delle tabelle 1 e 2 di cui all'allegato I al presente regolamento, sia per le merci pericolose trasportate «su ponti scoperti», sia per quelle trasportate in altri locali, valgono le disposizioni delle successive lettere:
+ 
+                            
+                            
+                                a)
+                                
+                                    le navi devono essere provviste di impianti tali da assicurare una pronta disponibilita' di acqua dal collettore principale antincendio alla pressione richiesta dalla convenzione SOLAS cui le navi sono soggette in relazione alla loro data di costruzione oppure dal regolamento di sicurezza; cio' puo' essere ottenuto mantenendo il collettore costantemente sotto pressione oppure mediante sistemazioni, ubicate in idonee posizioni, per la messa in moto a distanza delle pompe antincendio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quantita' di acqua disponibile deve essere tale da alimentare, alla suddetta pressione, boccalini a doppio uso, in numero, caratteristiche e dimensioni conformi a quanto richiesto dalla convenzione o dal regolamento sopra citati, i cui getti possano essere diretti su qualsiasi parte del locale da carico quando vuoto.
+La stessa quantita' di acqua puo' essere riversata con mezzi equivalenti, a soddisfazione dell'organismo tecnico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le navi devono essere provviste di impianti addizionali ai prescritti mezzi antincendio per raffreddare in modo efficace un determinato locale da carico sotto il ponte con abbondante quantita' di acqua tramite una sistemazione fissa di ugelli per acqua spruzzata. L'Amministrazione, sentito l'organismo tecnico, puo' accettare, per tale scopo, l'impiego di manichette in piccoli locali da carico ed in piccole zone di grandi locali da carico. In ogni caso i sistemi di esaurimento e prosciugamento devono essere tali da evitare la formazione di specchi liberi liquidi. Se cio' non fosse possibile, nella valutazione delle condizioni di stabilita' della nave, deve essere tenuto conto degli effetti sfavorevoli sulla stabilita' dovuti al peso aggiuntivo ed agli specchi liberi suddetti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in sostituzione del raffreddamento con acqua di cui alla lettera c) possono essere previste sistemazioni che consentano di allagare, con un adeguato e specifico mezzo, un determinato spazio da carico sotto il ponte;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il sistema di distribuzione dell'impianto elettrico deve essere realizzato senza ritorno per lo scafo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    macchinari, apparecchiature e cavi elettrici non devono essere in locali da carico, nei locali ro/ro chiusi e nei locali ro/ro aperti, a meno che cio', a giudizio dell'organismo tecnico, sia necessario per motivi operativi. Tuttavia, eventuali macchinari ed apparecchiature elettriche installati in detti locali devono essere di un tipo di sicurezza certificato per l'uso in ambienti pericolosi ai quali possono essere esposti, a meno che sia possibile isolare completamente l'impianto elettrico, mediante la rimozione di un elemento rimovibile diverso dal fusibile oppure mediante il bloccaggio degli interruttori in posizione di «aperto». Gli attraversamenti di ponti e paratie per cavi devono essere resi stagni al passaggio di gas o vapori. I cavi entro i locali da carico e l'intero percorso degli stessi devono essere del tipo armato e protetti contro danneggiamenti da urti. Qualsiasi altra apparecchiatura che possa costituire una sorgente di ignizione di vapori infiammabili non e' ammessa. Fermo restando quanto sopra prescritto, nel caso di trasporto di imballaggi contenenti liquidi infiammabili, punto di infiammabilita' inferiore a 23°, e di recipienti contenenti gas infiammabili, entrambi aventi capacita' non superiore a 450 litri, le apparecchiature elettriche installate al di sopra di 450 mm dal ponte dei locali ro/ro chiusi, ubicati al di sopra del ponte delle paratie e dei locali ro/ro aperti, devono avere un grado di protezione corrispondente almeno non inferiore a IP 55;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nei locali e spazi adibiti al trasporto di merci pericolose non devono essere presenti sorgenti di calore, quali, ad esempio, tubi vapore non coibentati, serpentine di riscaldamento e casse nafta riscaldate, apparecchiature che producono scintille e/o fiamme libere, ecc;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la nave deve essere provvista di mezzi fissi o portatili per il rilievo della temperatura nei locali adibiti al trasporto di merci pericolose;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    qualora gli alberi non siano completamente metallici e collegati elettricamente allo scafo, le navi devono essere provviste di idonee punte parafulmine;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i fumaioli dell'apparato motore ed altri tubi di scarico da dove possono fuoriuscire scintille o altri corpi igniscenti devono essere dotati di reti parascintille o di altri dispositivi ritenuti adeguati dall'Organismo tecnico;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    i locali da carico adibiti al trasporto di esplosivi, esclusi quelli del gruppo 1.4 S, ed i locali da carico adiacenti, nonche' i locali da carico ro/ro chiusi adibiti al trasporto di veicoli cisterna stradali o carri cisterna ferroviari contenenti liquidi o gas infiammabili devono essere provvisti di un impianto fisso automatico di segnalazione di incendio;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    i locali chiusi adibiti al carico devono essere muniti, per la loro ventilazione, di condotte di immissione e di estrazione d'aria.
+Per ogni locale deve esservi almeno una condotta di immissione ed una di estrazione, sistemate all'estremita' opposte dei locali. Le condotte di immissione devono arrestarsi nella parte alta dei locali; quelle di estrazione devono essere prolungate, se necessario anche mediante apposite diramazioni, fino verso il fondo degli stessi. Nel caso di merci che emettono vapori o gas piu' leggeri dell'aria le condotte di estrazione devono essere provviste di aperture anche nella parte alta dei locali. Le condotte di estrazione e quelle di immissione devono sboccare all'aperto in modo tale che non possano crearsi zone di ristagno dell'aria estratta. Tali condotte devono essere provviste di serrande di intercettazione metalliche munite degli indici di «aperto» e «chiuso»;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    i locali chiusi adibiti al carico devono essere provvisti di un adeguato impianto di ventilazione meccanica. L'impianto di ventilazione deve essere realizzato in modo da effettuare almeno dieci ricambi d'aria all'ora, riferiti al volume lordo del locale, e da estrarre i vapori dalle parti alte o dalle parti basse, come appropriato in relazione alle merci trasportate. Le condotte di ventilazione devono essere provviste di serrande d'intercettazione metalliche munite degli indici di «aperto» e «chiuso»;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    i ventilatori e gli estrattori devono essere costruiti in materiali tali da evitare la possibilita' di ignizione di miscele infiammabili di gas ed aria;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    sulle aperture sia esterne sia interne delle condotte di ventilazione devono essere sistemate adeguate reti di protezione;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    l'impianto di sentina di locali in cui vengano trasportati liquidi infiammabili o tossici deve essere progettato in modo da prevenire il pompaggio di tali liquidi attraverso tubolature o pompe ubicate nel locale macchine o in altri locali sicuri. Il servizio di sentina deve essere predisposto contro la possibile aspirazione di liquidi infiammabili o tossici, attraverso pompe e tubolature ubicate nei suddetti locali, per mezzo della sistemazione di una flangia cieca sull'aspirazione oppure per mezzo del blocco delle valvole di aspirazione unitamente alla sistemazione di un avviso posto in corrispondenza delle stesse;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    in aggiunta agli equipaggiamenti da vigile del fuoco prescritti dalla convenzione SOLAS o dal regolamento di sicurezza devono esservi almeno quattro indumenti protettivi completi resistenti all'attacco dei prodotti chimici. L'indumento protettivo deve coprire tutta la pelle in modo da proteggere qualsiasi parte del corpo;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    in aggiunta agli apparecchi autorespiratori prescritti dalla convenzione SOLAS o dal regolamento di sicurezza devono esservi a bordo almeno due apparecchi autorespiratori, di tipo approvato, funzionanti ad aria compressa contenenti almeno 1200 litri d'aria libera. Ognuno di detti apparecchi deve essere provvisto di due cariche d'aria di riserva;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    nei locali da carico devono esservi estintori portatili di incendio, di tipo approvato, per una capacita' complessiva di almeno 12 kg di polvere o di equivalente capacita' estinguente. Tali estintori devono essere in aggiunta a qualsiasi altro estintore portatile prescritto altrove nella SOLAS o nel regolamento di sicurezza;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    le navi ro/ro che trasportano su ponti scoperti veicoli cisterna o carri cisterna ferroviari contenenti liquidi o gas infiammabili devono essere dotate di estintori portatili, di tipo approvato, a schiuma o a polvere in ragione di 1 ogni 10 metri a dritta ed a sinistra dell'area utilizzata per lo stivaggio degli automezzi. Tali estintori devono essere in aggiunta a qualsiasi altro estintore portatile prescritto altrove nella SOLAS o nel regolamento di sicurezza;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    le delimitazioni tra i locali e gli spazi del carico ed i locali macchine devono essere tagliafuoco di classe A-60. La coibentazione delle paratie puo' essere omessa se le merci pericolose sono stivate ad una distanza orizzontale non inferiore a 3 metri da dette paratie, oppure se il trasporto e' effettuato in locali da carico di navi porta-contenitori. Nel caso di trasporto di esplosivi questa distanza deve essere mantenuta anche se esiste detta coibentazione. La coibentazione dei ponti puo' essere omessa se le merci pericolose sono stivate ad una distanza orizzontale non inferiore a 3 metri dalla proiezione verticale delle paratie dei locali macchine. In nessun caso gli esplosivi devono essere stivati al di sopra o al di sotto dei locali alloggio e dei locali macchine;
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    ogni locale da carico ro/ro avente un ponte sovrastante ed ogni locale da carico ro/ro che non possa essere ermeticamente chiuso deve essere provvisto di un impianto ad acqua spruzzata sotto pressione a comando manuale approvato. L'impianto deve proteggere tutte le parti di qualsiasi ponte e piattaforma per autoveicoli in detti locali. L'Amministrazione puo' permettere l'installazione di qualsiasi altro impianto fisso di estinzione incendi che abbia dimostrato, a seguito di prova in scala reale, di essere non meno efficace. In ogni caso, le sistemazioni di esaurimento e prosciugamento devono essere tali da evitare la formazione di specchi liberi liquidi. Se cio' non fosse possibile, nella valutazione delle condizioni di stabilita' della nave, deve essere tenuto conto degli effetti sfavorevoli sulla stabilita' dovuti al peso aggiuntivo ed agli specchi liberi suddetti;
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    i locali ro/ro chiusi adibiti al trasporto di veicoli cisterna o carri cisterna ferroviari contenenti liquidi o gas infiammabili, indipendentemente dalla stazza lorda, devono essere protetti da uno dei seguenti impianti fissi antincendio, conformi a quanto richiesto dalla convenzione SOLAS o dal regolamento di sicurezza:
+ 1) impianto ad anidride: nei locali protetti da questo impianto possono essere trasportate le materie ammesse;
+ 2) impianto a schiuma ad alta espansione e impianto ad acqua spruzzata: nei locali protetti da questi impianti possono essere trasportate le materie ammesse, ad esclusione delle materie che reagiscono con l'acqua.
 
 ## Art. 8. — Navi in legno
 
@@ -127,9 +507,148 @@ Il modello di attestazione di idoneita' di cui al comma 2 puo' essere modificato
 
 ## Art. 13. — Operazioni di imbarco, sbarco e trasbordo
 
+1.
+                        
+                            
+                                Fatte salve le norme di sicurezza delle operazioni portuali previste dal decreto legislativo 27 luglio 1999, n. 272, e quelle di sicurezza portuale emanate dalle autorita' marittime o portuali, le operazioni di imbarco e sbarco sono eseguite sotto la sorveglianza e la direzione del comandante della nave o di un ufficiale da lui appositamente delegato, nell'osservanza delle sottoelencate prescrizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    alzare a riva nelle ore diurne la bandiera B del codice internazionale dei segnali e nelle ore notturne esporre un fanale a luce rossa visibile per tutto il giro dell'orizzonte ad una distanza di due miglia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imbarco e lo sbarco di merci pericolose debbono essere effettuati direttamente tra la banchina e le navi e viceversa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' vietato alle persone non addette alle operazioni avvicinarsi alla banchina di ormeggio od ai galleggianti contenenti merci pericolose;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    devono essere tenuti pronti all'uso ed efficienti i mezzi antincendio di cui dispone la nave;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    deve essere assicurata la presenza a bordo di un numero adeguato di membri dell'equipaggio, atta a prevenire incidenti ed intervenire in casi di emergenza;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' vietato fumare o usare fiamme libere o comunque fonti termiche a bordo della nave e sulle banchine d'ormeggio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    durante tutto il tempo occorrente al compimento delle operazioni di imbarco, sbarco e trasbordo di merci che presentano pericolo di incendio o esplosione, oppure che possano sviluppare comunque gas o vapori infiammabili o dar luogo a miscele esplosive, l'autorita' marittima o portuale predispone, sentito il Comando provinciale dei vigili del fuoco, a spese dell'interessato, un servizio antincendio per l'immediato intervento in caso di incidente.
+Il servizio antincendio e' svolto ai sensi della vigente legislazione in materia di prevenzione ed estinzione degli incendi nei porti;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    e' vietato effettuare l'imbarco e lo sbarco di rotabili ferroviari o stradali mediante l'impiego di mezzi di sollevamento, gru e simili;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    prima e durante l'imbarco deve essere verificato, a cura del comandante della nave, mediante ispezione esterna, che non vi siano perdite dagli imballaggi e dai serbatoi per il carburante delle unita' di trasporto del carico;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    durante la movimentazione delle unita' di trasporto del carico non e' ammesso il transito, su navi ro/ro, dei passeggeri nelle zone interessate dalla predetta operazione.
+
+2.
+                        
+                            
+                                Per l'effettuazione delle operazioni di trasbordo, ferme restando le prescrizioni del comma 1 devono essere osservate le seguenti misure:
+ 
+                            
+                            
+                                a)
+                                
+                                    i mezzi nautici impiegati devono essere in buone condizioni di manutenzione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i mezzi nautici devono essere riconosciuti idonei dall'organismo tecnico, con le cautele prescritte dall'Autorita' marittima;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    deve essere assicurata la protezione delle merci con mezzi appropriati e tenendo conto delle loro caratteristiche;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    si devono osservare le disposizioni relative all'incompatibilita' di stivaggio, indicate dal codice IMDG;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    si devono rizzare i colli in modo da evitare urti, cadute o sfregamenti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    deve essere vietata la presenza di persone estranee all'equipaggio, a meno che ne abbiano facolta' in forza di leggi e dei relativi regolamenti.
+
 ## Art. 14. — Precauzioni da osservare durante il trasporto
 
 Qualora durante il trasporto si verifichino spandimenti, il comandante della nave provvede agli interventi di emergenza ed avverte le autorita' del primo porto di approdo.
+
+2.
+                        
+                            
+                                Durante il trasporto:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' vietato fumare, nonche' usare fiamme libere o comunque fonti termiche nei locali e spazi di carico in cui sono stivate le merci pericolose;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' vietato l'accesso dei passeggeri nei locali e spazi di carico in cui sono stivate le merci pericolose. Qualora i viaggi siano di durata inferiore alle due ore e, per le particolarita' costruttive della nave, non sia possibile applicare tale divieto, il comandante della nave dovra' disporre la sorveglianza dei locali e spazi di carico interessati.
 
 Il comandante della nave dispone periodiche ispezioni delle zone dove sono sistemate le merci pericolose, al fine di rilevare e segnalare qualsiasi pericolo.
 
@@ -153,6 +672,30 @@ Chi intende effettuare operazioni di transhipment di merci pericolose nei porti 
 
 Sono ammessi all'imbarco i carri ferroviari chiusi e i veicoli chiusi rispondenti alla vigente normativa.
 
+2.
+                        
+                            
+                                I veicoli ed i carri ferroviari sopraccitati devono essere provvisti dei sottoelencati documenti in corso di validita' ed, in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    carta di circolazione, per i veicoli, con annotazione sulla idoneita' degli stessi al trasporto di esplosivi. Per i veicoli immatricolati all'estero puo' essere accettata l'equivalente certificazione rilasciata dall'autorita' estera. Qualora tale certificazione manchi, essa dovra' essere richiesta alla competente autorita' italiana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione del caricatore, per i veicoli e carri ferroviari, attestante che:
+ 1) sono stati esaminati prima della caricazione e non presentano deformazioni o lesioni degli elementi strutturali e dei ganci per l'attacco delle rizze, tali da pregiudicarne la robustezza;
+ 2) lo stivaggio sui veicoli e' stato effettuato conformemente a quanto prescritto dal codice IMDG;
+ 3) non contengano altre merci oppure esplosivi incompatibili tra di loro;
+ 4) i colli sono stati esaminati per accertare la loro integrita';
+ 5) i colli sono stati sistemati nei veicoli in modo da evitare qualsiasi loro spostamento durante il trasporto;
+ 6) i colli sono stati correttamente imballati, marcati ed etichettati.
+
 Il vettore terrestre, in calce alla dichiarazione di cui al comma 2, lettera b), attesta che quanto rappresentato in essa non e' venuto meno nel corso del viaggio terrestre.
 
 Tranne i casi di emergenza, e' vietata la movimentazione dei veicoli per tutto il tempo della loro permanenza a bordo, nonche' collocarvi o rimuovere dagli stessi i colli contenenti esplosivi.
@@ -161,6 +704,22 @@ Durante la movimentazione dei veicoli e dei carri ferroviari e' vietato effettua
 
 ## Art. 18. — Ammissibilita' all'imbarco e movimentazione
  di contenitori carichi di esplosivi (classe 1)
+
+1.
+                        
+                            
+                                Sono ammessi all'imbarco i contenitori di tipo chiuso, che siano in possesso della sottoelencata documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarazione del caricatore attestante che:
+ 1) sono stati esaminati prima di essere caricati e sono risultati in buone condizioni, puliti, asciutti e rivestiti internamente in conformita' a quanto prescritto dal codice IMDG;
+ 2) non contengono altre merci oppure esplosivi incompatibili tra loro;
+ 3) i colli sono stati esaminati per accertare la loro integrita';
+ 4) i colli sono stati sistemati nei contenitori in modo da evitare qualsiasi loro movimento durante il trasporto;
+ 5) i colli ed i contenitori sono stati correttamente imballati, marcati ed etichettati.
 
 I contenitori devono inoltre essere muniti di una dichiarazione del vettore terrestre attestante che, durante il trasporto, non hanno subito danneggiamenti che ne pregiudichino l'integrita' strutturale o che possano provocare la fuoriuscita del contenuto dei colli.
 
@@ -172,7 +731,95 @@ Durante la movimentazione dei contenitori e' vietato effettuare, nelle immediate
 
 ## Art. 19. — Operazioni di imbarco e sbarco di esplosivi (classe 1)
 
+1.
+                        
+                            
+                                Durante le operazioni di imbarco e sbarco devono essere osservate le seguenti norme:
+ 
+                            
+                            
+                                a)
+                                
+                                    le navi devono essere attraccate in modo da consentire il rapido disormeggio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le tele, le reti, le braghe e gli stroppi impiegate per il maneggio devono essere esclusivamente di materiale non metallico, oppure con le parti in metallo rivestite e protette con materiale non metallico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli scivoli, i nastri trasportatori e gli altri mezzi per il maneggio delle merci non devono presentare parti metalliche sporgenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' vietato, salvo in caso di necessita', far funzionare gli apparati radioelettrici e radar di bordo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli imballaggi contenenti esplosivi non devono essere esposti per un periodo prolungato all'azione diretta dal sole, in modo da evitare che la temperatura esterna degli stessi superi i 50 0C. Si deve inoltre evitare che i medesimi si bagnino;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' vietato eseguire il rifornimento di carburante e combustibile durante le operazioni di imbarco e sbarco, con esclusione degli esplosivi compresi nella divisione 1.4, gruppo di compatibilita' S.
+
 ## Art. 20. — Trasbordo di esplosivi (classe 1)
+
+1.
+                        
+                            
+                                Ferme restando le prescrizioni dell'articolo 19, per il trasbordo degli esplosivi devono essere osservate le seguenti norme:
+ 
+                            
+                            
+                                a)
+                                
+                                    i mezzi nautici impiegati per il trasbordo devono essere in buone condizioni di manutenzione e devono avere:
+ 1) le stive asciutte e ventilate;
+ 2) un pagliolo di legno in stiva di almeno 3 centimetri di spessore;
+ 3) facile accesso per lo sbarco e l'imbarco delle merci;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i colli contenenti gli esplosivi devono essere convenientemente rizzati. Se collocati all'aperto, devono essere protetti in modo completo da copertoni impermeabili ed ignifughi, ben tesi e non poggianti sul carico. Se necessario, si deve provvedere all'innaffiamento del copertone, in modo da impedire che la temperatura del carico superi i 50 0C;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a bordo dei mezzi nautici gli esplosivi devono essere collocati lontano dall'azione del calore dell'apparato motore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    durante le operazioni di trasbordo dalla nave ai mezzi nautici privi di propulsione propria, o viceversa, un rimorchiatore deve essere tenuto pronto nelle vicinanze per intervenire tempestivamente in caso di necessita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il fumaiolo ed il tubo di scarico dell'apparato motore del rimorchiatore di cui alla lettera d) deve essere munito di rete parascintille.
 
 ## Art. 21. — Lavori a bordo in presenza di esplosivi (classe 1)
 
@@ -206,6 +853,31 @@ In casi di incendio nelle zone o nei locali destinati allo stivaggio di colli co
 
 ## Art. 25. — Operazioni di imbarco e sbarco
  di materie comburenti (classe 5.1)
+
+1.
+                        
+                            
+                                Durante le operazioni di imbarco e sbarco devono essere osservate le seguenti ulteriori disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    devono essere prese precauzioni allo scopo di evitare la penetrazione delle materie comburenti nelle sentine ed in altri locali in cui possono essere contenute materie combustibili, facilmente ossidabili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prima di imbarcare i colli contenenti materie comburenti, deve essere accertato che nei locali non siano presenti materiali combustibili facilmente ossidabili, esclusi quelli eventualmente necessari per lo stivaggio dei colli;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il rizzaggio e la protezione dei colli devono essere impiegati, per quanto possibile, materiali non combustibili. Il fardaggio con legno deve essere, per quanto possibile, evitato.
 
 ## Art. 26. — Misure di sicurezza per i perossidi organici
  (classe 5.2)
@@ -252,6 +924,45 @@ Chi intende provvedere all'approvazione di imballaggi, grandi imballaggi e conte
 
 ## Art. 31. — Modalita' di rilascio dell'autorizzazione. Validita'
 
+1.
+                        
+                            
+                                Al fine di ottenere l'autorizzazione, l'organismo invia apposita istanza all'Amministrazione, corredata dalla seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    elenco delle tipologie di imballaggi, grandi imballaggi e contenitori intermedi che si intendono approvare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dettagliata descrizione delle attrezzature necessarie per l'esecuzione delle prove previste dal codice IMDG;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    piano di qualificazione del personale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    documentazione attinente il sistema di qualita' adottato certificato da un ente riconosciuto dallo Stato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dichiarazione che il richiedente non produce imballaggi, grandi imballaggi e contenitori intermedi.
+
 Entro novanta giorni dalla data di ricezione della richiesta, l'Amministrazione, espletati tutti gli accertamenti ritenuti necessari, rilascia, in caso di esito positivo degli stessi, l'autorizzazione, contenente eventuali prescrizioni, la tipologia di imballaggio dei grandi imballaggi e contenitori intermedi autorizzata, nonche' la sigla di identificazione da apporre sugli imballaggi, grandi imballaggi e sui contenitori intermedi.
 
 I novanta giorni di cui al comma 2 sono sospesi per il periodo necessario a ricevere la documentazione integrativa eventualmente richiesta.
@@ -277,6 +988,84 @@ L'organismo autorizzato procede, a richiesta dell'interessato, a sottoporre il p
 
 L'organismo autorizzato e' tenuto, entro trenta giorni dalla data di effettuazione delle prove, a compilare il rapporto di prova, contenente le modalita' ed i risultati delle prove effettuate, ed il relativo certificato di approvazione da trasmettere all'Amministrazione ed all'interessato.
 
+4.
+                        
+                            
+                                L'approvazione viene rilasciata a condizione che:
+ 
+                            
+                            
+                                a)
+                                
+                                    il prototipo superi con esito positivo le prove previste;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il richiedente abbia dimostrato di avere le necessarie capacita' tecniche ed organizzative, mediante la presentazione di apposita autocertificazione, corredata dalla necessaria documentazione, al fine di garantire che la produzione mantenga gli stessi standard qualitativi del prototipo approvato.
+
+5.
+                        
+                            
+                                Il rapporto di prova, secondo un modello approvato dall'Amministrazione, deve contenere le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    organismo che ha effettuato le prove;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiedente le prove;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fabbricante;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    descrizione dell'imballaggio o del grande imballaggio o del contenitore intermedio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disegno costruttivo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    caratteristiche dei materiali, modalita' costruttive e tipo di costruzione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    prove effettuate e loro risultati;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    marcature da apporre.
+
 Il certificato di approvazione, rilasciato dall'organismo autorizzato, deve contenere l'indicazione del richiedente, la marcatura da apporre sugli imballaggi, sui grandi imballaggi e sui contenitori intermedi e le caratteristiche principali del prototipo approvato, secondo un modello definito dall'Amministrazione.
 
 Il richiedente, con l'apposizione della marcatura, assume la responsabilita' che gli imballaggi, i grandi imballaggi ed i contenitori intermedi sono conformi al prototipo approvato.
@@ -284,6 +1073,31 @@ Il richiedente, con l'apposizione della marcatura, assume la responsabilita' che
 ## Art. 33. — Ricondizionamento imballaggi
 
 Gli imballaggi ricondizionati, utilizzabili per il trasporto di merci pericolose, debbono essere conformi a quanto prescritto dal codice IMDG.
+
+2.
+                        
+                            
+                                Il richiedente l'approvazione del ricondizionamento degli imballaggi deve presentare apposita istanza all'organismo autorizzato di cui all'articolo 30, allegando:
+ 
+                            
+                            
+                                a)
+                                
+                                    elenco delle tipologie di imballaggio da sottoporre a ricondizionamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modalita' delle operazioni di ricondizionamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione, mediante autocertificazione, di avere le necessarie capacita' tecniche ed organizzative, corredata dalla necessaria documentazione.
 
 Il certificato di approvazione al ricondizionamento, rilasciato dall'organismo autorizzato al ricondizionatore, deve contenere la marcatura da apporre sugli imballaggi ricondizionati, nonche' l'elenco dei tipi approvati autorizzati al ricondizionamento.
 
@@ -314,6 +1128,136 @@ I certificati di cui all'articolo 34 possono essere revocati dall'organismo auto
 ## - Capo VI Disposizioni finali
 
 ## Art. 36. — Abrogazioni
+
+1.
+                        
+                            
+                                Alla data di entrata in vigore del presente decreto sono abrogate, in particolare, le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il regolamento per l'imbarco, trasporto per mare, sbarco e trasbordo delle merci pericolose in colli, di cui al decreto del Presidente della Repubblica 9 maggio 1968, n. 1008, e le relative norme provvisorie allegate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Ministro della marina mercantile in data 15 maggio 1972, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 214 del 18 agosto 1972, recante norme per il trasporto marittimo di merci pericolose in colli caricate su veicoli aventi mezzi di propulsione propria o rimorchiabili, su rotabili ferroviari oppure contenuti in casse mobili (contenitori);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Ministro della marina mercantile in data 22 luglio 1972, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 214 del 18 agosto 1972, recante approvazione delle norme particolari per l'imbarco, il trasporto per mare, il trasbordo e lo sbarco di merci pericolose in colli appartenenti alla classe 9 - materie pericolose diverse;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Ministro della marina mercantile in data 5 novembre 1973, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 328 del 21 dicembre 1973, recante approvazione delle norme per il trasporto marittimo di colli contenenti piccole quantita' di una o piu' sostanze chimiche pericolose;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Ministro della marina mercantile in data 4 giugno 1981, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 188 del 10 luglio 1981, recante nome particolari per l'imbarco, il trasporto per mare, lo sbarco ed il trasbordo delle merci pericolose in colli appartenenti alla classe 2 (gas compressi, gas liquefatti refrigerati e gas disciolti sotto pressione);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il decreto del Ministro della marina mercantile in data 10 gennaio 1985, pubblicato nella Gazzetta Ufficiale n. 26 del 31 gennaio 1985, recante norme per il trasporto marittimo di esplosivi in colli caricati in cointainers;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il decreto del Ministro della marina mercantile in data 10 gennaio 1985, pubblicato nella Gazzetta Ufficiale n. 26 del 31 gennaio 1985, recante norme per il trasporto marittimo degli esplosivi in colli caricati su veicoli stradali aventi mezzi di propulsione propria o rimorchiabili;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il decreto del Ministro della marina mercantile in data 23 maggio 1985, e successive modificazioni, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 162 dell'11 luglio 1985, recante norme sugli imballaggi destinati al trasporto marittimo di merci pericolose in colli: generalita', tipi e requisiti, prescrizioni relative alle prove;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il decreto del Ministro della marina mercantile in data 16 maggio 1986, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 184 del 9 agosto 1986, recante approvazione delle etichette di pericolo da applicare sui colli contenenti merci pericolose;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il decreto del Ministro della marina mercantile in data 20 settembre 1986, pubblicato nella Gazzetta Ufficiale n. 10 del 14 gennaio 1987, recante approvazione delle norme particolari per l'imbarco, il trasporto per mare, lo sbarco e il trasbordo di merci pericolose in colli appartenenti alla classe 1 (esplosivi);
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il decreto del Ministro della marina mercantile in data 23 settembre 1986, pubblicato nella Gazzetta Ufficiale n. 10 del 14 gennaio 1987, recante approvazione delle norme particolari per l'imbarco, il trasporto per mare, lo sbarco ed il trasbordo delle merci pericolose in colli appartenenti alla classe 5.1 (materie comburenti);
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il decreto del Ministro della marina mercantile in data 25 settembre 1986, pubblicato nella Gazzetta Ufficiale n. 10 del 14 gennaio 1987, recante approvazione delle nome particolari per l'imbarco, il trasporto per mare, lo sbarco e il trasbordo delle merci pericolose in colli appartenenti alla classe 8 (corrosivi);
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il decreto del Ministro della marina mercantile in data 14 maggio 1990, e successive modificazioni, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 134 dell'11 giugno 1990, recante norme sui contenitori intermedi destinati al trasporto marittimo di merci pericolose: generalita', tipi e requisiti, prescrizioni relative alle prove;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    il decreto del Ministro della marina mercantile in data 22 luglio 1991, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 240 del 12 ottobre 1991, recante norme sulla separazione delle merci pericolose incompatibili caricate su una stessa nave;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    il decreto del Ministro della marina mercantile in data 22 luglio 1991, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 240 del 12 ottobre 1991, recante norme per i contenitori cisterna, i veicoli cisterna stradali e i veicoli cisterna ferroviari da adibire al trasporto marittimo di gas liquefatti refrigerati della classe 2;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    il decreto del Ministro della marina mercantile in data 31 ottobre 1991, pubblicato nella Gazzetta Ufficiale n. 294 del 16 dicembre 1991, recante trasporto marittimo di merci pericolose in colli;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    gli articoli 1, 2, 3, 7, comma 1, 9, comma 2, 10, 13, 14 e 15 del decreto del Ministro della marina mercantile 31 ottobre 1991, n. 459, concernente regolamento recante norme sul trasporto marittimo di rifiuti in colli;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    il decreto del Ministero delle infrastrutture e dei trasporti in data 18 aprile 2003, pubblicato nella Gazzetta Ufficiale n. 110 del 14 maggio 2003, recante trasporto marittimo di merci pericolose allo stato liquido o allo stato di gas liquefatti poste in contenitori cisterna e veicoli cisterna stradali o ferroviari.
 
 ## Art. 37. — Modifiche al regolamento di sicurezza
 

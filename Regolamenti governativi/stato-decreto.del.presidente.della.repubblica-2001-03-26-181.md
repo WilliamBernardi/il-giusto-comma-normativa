@@ -8,8 +8,8 @@ codice_redazionale: 001G0234
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,80 @@ Sulla proposta del Ministro dei lavori pubblici, di concerto con il Ministro del
 E' istituito presso il Ministero dei lavori pubblici un Ufficio di livello dirigenziale generale denominato: "Direzione generale per il sostegno agli interventi conto l'abusivismo edilizio".
 
 ## Art. 2. — Competenze
+
+1.
+                    
+                        
+                            Alla Direzione generale sono attribuiti i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                svolge funzioni di monitoraggio del fenomeno delle trasformazioni edilizie abusive;
+
+                            
+                        
+                        
+                            b)
+                            
+                                riceve i rapporti riguardanti opere o lottizzazioni realizzate abusivamente di cui all'articolo 7 della legge 28 febbraio 1985, n. 47, al fine di acquisire i dati relativi agli adempimenti effettuati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                a richiesta, supporta gli enti locali nella predisposizione degli atti relativi ai provvedimenti di individuazione e demolizione degli immobili abusivi e collabora con le amministrazioni regionali in caso di inadempienze o ritardi anche promuovendo, d'intesa con gli organi competenti, la richiesta di intervento del Genio militare e curando il coordinamento dell'attivita' delle Commissioni di cui all'articolo 2, comma 56, della legge 23 dicembre 1996, n. 662;
+
+                            
+                        
+                        
+                            d)
+                            
+                                raccoglie le segnalazioni di soggetti pubblici e privati in ordine a iniziative, attivita' e manufatti abusivi con priorita' nelle aree di primario interesse per l'incolumita' e la sicurezza di persone e beni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                segnala agli enti competenti i ritardi nella adozione degli eventuali provvedimenti repressivi e nell'esercizio dei poteri sostitutivi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove intese istituzionali, accordi di programma e conferenze dei servizi tra amministrazioni interessate per l'esame delle situazioni concernenti immobili abusivi realizzate sul demanio dello Stato ovvero che interferiscano con le infrastrutture di competenza dello Stato o di interesse nazionale (viarie, per il trasporto aereo, elettrico, idrico, ecc.);
+
+                            
+                        
+                        
+                            g)
+                            
+                                promuove le azioni giudiziarie e la costituzione di parte civile da parte dello Stato ovvero fornisce supporto alle iniziative delle regioni e degli enti locali in materia di violazioni dei vincoli idrogeologici, sismici e di quelli a tutela delle infrastrutture statali, fatto salvo quanto previsto in materia di danno ambientale;
+
+                            
+                        
+                        
+                            h)
+                            
+                                fornisce, a richiesta degli enti locali, supporto nella predisposizione degli atti relativi ai piani di recupero e di riabilitazione territoriale di aree edificate abusivamente;
+
+                            
+                        
+                        
+                            i)
+                            
+                                svolge l'attivita' di ricerca e di proposizione legislativa in materia di repressione degli abusi edilizi e formula i pareri dell'amministrazione sulla legittimita' costituzionale delle norme di emanazione regionale;
+
+                            
+                        
+                        
+                            j)
+                            
+                                istruisce i ricorsi straordinari al Capo dello Stato in materia di abusivismo edilizio.
 
 La Direzione generale, sulla scorta dei dati dalla stessa acquisiti, verifica che per le opere realizzate in aree sottoposte a vincoli previsti da leggi statali, e non suscettibili di sanatoria l'autorita' che esercita le competenze urbanistiche abbia provveduto a disporre la repressione delle violazioni stesse. Per i vincoli di carattere paesaggistico e culturale la Direzione generale procede coordinandosi con i competenti uffici del Ministero per i beni e le attivita' culturali e con gli organismi di gestione delle aree protette.
 

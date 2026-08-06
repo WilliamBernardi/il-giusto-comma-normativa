@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-02-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,7 +35,172 @@ Resta ferma l'esclusione dei sistemi di misura di cui all'articolo 7, comma 1, d
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «funzione di misura legale», la funzione di misura giustificata da motivi di interesse pubblico, sanita' pubblica, sicurezza pubblica, ordine pubblico, protezione dell'ambiente, tutela dei consumatori, imposizione di tasse e di diritti e lealta' delle transazioni commerciali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «strumento di misura», uno strumento di cui all'articolo 1, comma 1, utilizzato per una funzione di misura legale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «verificazione periodica», il controllo metrologico legale periodico effettuato sugli strumenti di misura dopo la loro messa in servizio, secondo la periodicita' definita in funzione delle caratteristiche metrologiche, o a seguito di riparazione per qualsiasi motivo comportante la rimozione di sigilli di protezione, anche di tipo elettronico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «controllo casuale o a richiesta», il controllo metrologico legale, diverso da quelli della lettera c) ed e), effettuato dalle Camere di commercio su strumenti di misura in servizio, inteso ad accertare il loro corretto funzionamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «vigilanza sugli strumenti», i controlli eseguiti sugli strumenti soggetti alla normativa europea e nazionale atti a dimostrare che soddisfano i requisiti ad essi applicabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «operatore economico», il fabbricante, l'importatore, il rappresentante autorizzato e il distributore di uno strumento di misura; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «titolare dello strumento», la persona fisica o giuridica titolare della proprieta' dello strumento di misura o che, ad altro titolo, ha la responsabilita' dell'attivita' di misura; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «norma armonizzata», una norma cosi' come definita all'articolo 2, comma 1, lettera c), del regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio del 25 ottobre 2012; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «raccomandazione OIML», una raccomandazione internazionale adottata dall'Organizzazione internazionale di metrologia legale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «organismo nazionale di accreditamento», l'unico organismo che in uno Stato membro e' autorizzato da tale Stato a svolgere attivita' di accreditamento ai sensi del regolamento (CE) n. 765/2008; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «contrassegno», l'etichetta che al distacco si distrugge, da applicare sugli strumenti di misura per attestare l'esito della verificazione periodica; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «sigilli», i sigilli di protezione, anche di tipo elettronico, applicati sugli strumenti per garantirne l'integrita' dagli organismi notificati e dai fabbricanti, in sede di accertamento della conformita', e dagli organismi di verificazione periodica che hanno presentato una segnalazione certificata di inizio attivita' all'Unioncamere e dalle stesse Camere e da altri organismi autorizzati all'esecuzione delle verifiche durante il periodo transitorio di cui all'articolo 18 ed anteriormente; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «libretto metrologico», il libretto, su supporto cartaceo o informatico, su cui vengono annotate tutte le informazioni previste nell'allegato V; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «Scia», segnalazione certificata d'inizio attivita' di cui all'articolo 19 della legge 7 agosto 1990, n. 241, e successive modificazioni; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «organismo», l'organismo che effettua la verificazione periodica degli strumenti di misura a seguito della presentazione a Unioncamere della Scia dopo essere stato accreditato in conformita' ad una delle seguenti norme o successive revisioni: 
+ 1) UNI CEI EN ISO/IEC 17020:2012 - Requisiti per il funzionamento di vari tipi di organismi che eseguono ispezioni; 
+ 2) UNI CEI EN ISO/IEC 17025:2005 - Requisiti generali per la competenza dei laboratori di prova e di taratura - come laboratorio di taratura; 
+ 3) UNI CEI EN ISO/IEC 17065:2012 - Requisiti per organismi che certificano prodotti, processi o servizi e future revisioni; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «Unioncamere», l'Unione italiana delle Camere di commercio; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «strumento di controllo», uno strumento di misura utilizzato per il controllo di altri strumenti; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «normativa europea», la normativa metrologica dell'Unione europea, ed in precedenza della Comunita' economica europea, direttamente applicabile o meno nell'ordinamento interno, nonche' le relative norme nazionali di recepimento o di attuazione; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «normativa nazionale», la normativa metrologica esclusivamente nazionale, che non deriva da norme dell'Unione europea o della Comunita' economica europea e non ne costituisce attuazione o recepimento.
+
 ## Art. 3. — Controlli
+
+1.
+                        
+                            
+                                Gli strumenti di misura in servizio, qualora utilizzati per le funzioni di misura legali, sono sottoposti alle seguenti tipologie di controlli successivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verificazione periodica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controlli casuali o a richiesta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigilanza sugli strumenti soggetti alla normativa nazionale e europea.
 
 In sede di controlli sugli strumenti di misura non possono essere aggiunti ulteriori sigilli rispetto a quelli gia' previsti nelle approvazioni di modello nazionali, CEE e nei certificati di esame CE del tipo o di progetto rilasciati dagli organismi notificati, ferma restando la possibilita' di apporre ulteriori sigilli facoltativi da parte dell'installatore.
 
@@ -73,6 +238,24 @@ Nei casi in cui le pertinenti norme nazionali, europee, armonizzate o raccomanda
 
 Ove non vi abbia gia' provveduto il fabbricante, l'organismo che esegue la prima verificazione periodica dota lo strumento di misura, senza onere per il titolare dello stesso, di un libretto metrologico contenente le informazioni di cui all'allegato V; lo stesso onere e' a carico della Camera di commercio che in applicazione delle diposizioni transitorie di cui all'articolo 18, comma 1, esegue la verificazione periodica sugli strumenti gia' in servizio alla data di entrata in vigore del presente regolamento. Sul piano operativo sono adottate le opportune iniziative affinche' la compilazione del libretto metrologico possa avvenire, di norma, mediante l'utilizzo di un idoneo supporto informatico, che puo' essere messo a disposizione dallo stesso sistema camerale nell'intento di facilitare anche lo scambio di informazioni prescritto.
 
+13.
+                        
+                            
+                                Nell'allegato VI sono riportati i disegni cui devono conformarsi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contrassegno da applicare sugli strumenti attestante l'esito positivo della verificazione periodica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contrassegno da applicare sugli strumenti attestante l'esito negativo del controllo successivo.
+
 Nel caso in cui il contrassegno di cui al comma 13 non puo' essere applicato direttamente sullo strumento oggetto della verificazione, questo e' apposto sul libretto metrologico.
 
 Sono esclusi dall'obbligo della verificazione periodica gli strumenti utilizzati per funzioni di misura legali costituiti da misure lineari materializzate o misure di capacita' di vetro, terracotta e monouso.
@@ -107,6 +290,70 @@ Restano ferme le competenze degli organi di polizia giudiziaria abilitati dalle 
 
 ## Art. 6. — Vigilanza sugli strumenti
 
+1.
+                        
+                            
+                                Per la vigilanza del mercato sugli strumenti soggetti alla normativa europea si applicano le seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le funzioni di autorita' di vigilanza del mercato sugli strumenti soggetti alla normativa europea di cui all'articolo 16, comma 2, del regolamento (CE) n.765/2008, che pone norme in materia di accreditamento e vigilanza del mercato, sono svolte dal Ministero dello sviluppo economico avvalendosi delle Camere di commercio quali autorita' locali competenti per i controlli metrologici di cui all'articolo 14 del decreto legislativo 2 febbraio 2007, n. 22, come modificati dal decreto legislativo 19 maggio 2016, n. 84; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la vigilanza del mercato ha lo scopo di assicurare che gli strumenti immessi sul mercato o importati sono stati sottoposti alle necessarie procedure di accertamento della conformita', che i requisiti di marcatura e di documentazione sono stati rispettati e che sono stati progettati e fabbricati in conformita' con i requisiti previsti dalla pertinente normativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le Camere di commercio, qualora abbiano sufficienti ragioni per ritenere che uno strumento di misura disciplinato dalla normativa europea vigente presenti un rischio per aspetti inerenti alla protezione di interessi pubblici, effettuano una valutazione dello strumento di misura interessato che investe tutte o in parte le prescrizioni pertinenti e informano il Ministero dello sviluppo economico degli esiti di tale valutazione; a tal fine, gli operatori economici interessati cooperano, ove necessario, con le Camere di commercio e il Ministero dello sviluppo economico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per l'effettuazione dei controlli, le Camere di commercio possono avvalersi, ed in ogni caso se ne avvalgono per l'effettuazione di prove, di laboratori di taratura accreditati da enti designati ai sensi del regolamento (CE) n. 765/2008 secondo la norma UNI CEI EN ISO/IEC 17025:2005 - Requisiti generali per la competenza dei laboratori di prova e di taratura, e future revisioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la vigilanza e' effettuata anche nei luoghi dove gli strumenti sono stati messi in servizio.
+
+2.
+                        
+                            
+                                Per la vigilanza sugli strumenti soggetti alla normativa nazionale si applicano le seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di strumenti conformi alla normativa nazionale, la vigilanza e' effettuata dalle Camere di commercio che, qualora abbiano sufficienti ragioni per ritenere che uno strumento di misura in servizio ha subito alterazioni e presenta un rischio per aspetti inerenti alla protezione di interessi pubblici, effettuano una valutazione sulla conformita' dello strumento di misura interessato che investe tutte o in parte le prescrizioni pertinenti e informano il Ministero dello sviluppo economico; a tal fine, i fabbricanti interessati cooperano, ove necessario, con le Camere di commercio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'esecuzione dei controlli, le Camere di commercio possono avvalersi della collaborazione di organismi accreditati, ed in ogni caso si avvalgono, per l'effettuazione di prove, di laboratori di taratura accreditati da enti designati ai sensi del regolamento (CE) n. 765/2008 secondo la norma UNI CEI EN ISO/IEC 17025:2005 - Requisiti generali per la competenza dei laboratori di prova e di taratura, e future revisioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le Camere di commercio informano il Ministero dello sviluppo economico degli esiti relativi ai controlli effettuati e degli eventuali provvedimenti adottati.
+
 Resta ferma l'applicazione dell'articolo 47 della legge 6 febbraio 1996, n 52. Ai fini della vigilanza del mercato ai funzionari delle Camere di commercio preposti al controllo e' consentito l'accesso ai luoghi di fabbricazione, di immagazzinamento e di commercializzazione degli strumenti ed il prelievo di detti strumenti per l'effettuazione di esami e prove. Gli oneri dei controlli sono posti a carico degli operatori interessati nei limiti e secondo le modalita' di cui all'articolo 2, commi 1, lettera c), e 2-bis, e all'articolo 18, comma 1, lettere d) ed f), della legge 29 dicembre 1993, n. 580, come modificata da ultimo dal decreto legislativo 25 novembre 2016, n. 219.
 
 ## Art. 7. — Riparazione degli strumenti
@@ -121,11 +368,117 @@ Nel caso in cui lo strumento sia stato riparato antecedentemente all'esecuzione 
 
 ## Art. 8. — Obblighi dei titolari degli strumenti
 
+1.
+                        
+                            
+                                I titolari degli strumenti di misura soggetti all'obbligo della verificazione periodica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunicano entro 30 giorni alla Camera di commercio della circoscrizione in cui lo strumento e' in servizio la data di inizio dell'utilizzo degli strumenti e quella di fine dell'utilizzo e gli altri elementi di cui all'articolo 9, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mantengono l'integrita' del contrassegno apposto in sede di verificazione periodica, nonche' di ogni altro marchio, sigillo, anche di tipo elettronico, o elemento di protezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    curano l'integrita' dei sigilli provvisori applicati dal riparatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    conservano il libretto metrologico e l'eventuale ulteriore documentazione prescritta; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    curano il corretto funzionamento dei loro strumenti e non li utilizzano quando sono palesemente difettosi o inaffidabili dal punto di vista metrologico.
+
 Gli obblighi di cui al comma 1, lettere b), c), d) ed e), sono esclusi a fronte di eventi non prevedibili o rispetto ai quali non si abbia un effettivo controllo secondo i normali criteri di diligenza.
 
 ## Art. 9. — Elenco titolari degli strumenti di misura
 
 La Camera di commercio raccoglie su supporto informatico le informazioni ottenute sulla base delle comunicazioni di cui all'articolo 8, comma 1, e delle trasmissioni da parte degli organismi riguardanti le attivita' di verificazione periodica e degli esiti dell'attivita' relativa ai controlli casuali, provvedendo a trasmetterle ad Unioncamere.
+
+2.
+                        
+                            
+                                Le Camere di commercio formano altresi' l'elenco dei titolari degli strumenti di misura, consultabile dal pubblico anche per via informatica e telematica ai soli fini dell'applicazione delle disposizioni del presente regolamento e della vigente normativa in materia di metrologia legale, contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome, indirizzo ed eventuale partita IVA del titolare dello strumento di misura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo presso cui lo strumento di misura e' in servizio, qualora diverso dal precedente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    codice identificazione del punto di riconsegna o di prelievo, a seconda dei casi e ove previsto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tipo dello strumento di misura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    marca e modello dello strumento di misura; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    numero di serie dello strumento di misura, se previsto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    anno della marcatura CE e della marcatura metrologica supplementare, nonche' data di messa in servizio e di cessazione dell'utilizzo dello strumento di misura; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    caratteristiche metrologiche dello strumento; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    specifica dell'eventuale uso temporaneo dello strumento.
 
 Le Camere di commercio utilizzano, ai fini della costituzione e della verifica dell'elenco di cui al presente articolo, anche i dati del registro delle imprese e quelli forniti dai comuni e dalle altre amministrazioni pubbliche in base agli accordi procedimentali di cui all'articolo 3, comma 5.
 
@@ -135,9 +488,108 @@ Le Camere di commercio utilizzano, ai fini della costituzione e della verifica d
 
 La verificazione periodica degli strumenti di misura di cui all'articolo 1 e' effettuata dagli organismi in possesso dei requisiti riportati all'allegato I.
 
+2.
+                        
+                            
+                                Unioncamere forma l'elenco degli organismi che hanno presentato apposita Scia per lo svolgimento di attivita' di verificazione periodica ai sensi del presente decreto. Tale elenco e' reso pubblico, e' consultabile anche per via informatica e telematica e contiene almeno i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome, denominazione o ragione sociale dell'organismo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nome e cognome del responsabile delle attivita' di verificazione periodica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indirizzo completo della sede legale e delle eventuali sedi operative dell'organismo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi identificativi assegnati, compresi i sigilli utilizzati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tipi di strumenti dei quali si esegue la verificazione periodica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    recapito telefonico, di fax ed indirizzo di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    data di inizio attivita', dell'eventuale divieto di prosecuzione dell'attivita' e di cessazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    pubblicazione delle eventuali violazioni accertate.
+
 ## Art. 11. — Scia
 
 Gli organismi interessati presentano apposita Scia ad Unioncamere.
+
+2.
+                        
+                            
+                                La Scia contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    copia del certificato di accreditamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione delle caratteristiche metrologiche dei tipi di strumenti conformi alla normativa nazionale o europea sui quali effettua la verificazione periodica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la dichiarazione con cui il legale rappresentante ed il responsabile della verificazione periodica si impegnano ad adempiere agli obblighi derivanti dall'esercizio dell'attivita' segnalata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione del responsabile della verificazione periodica e del suo eventuale sostituto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'impegno a conservare per almeno 5 anni, o comunque fino alla scadenza della verificazione periodica, copia della documentazione, anche su supporto informatico, comprovante le operazioni di verificazione periodica effettuate con le relative registrazioni dei risultati positivi o negativi delle verificazioni periodiche effettuate.
 
 Il certificato e la dichiarazione si riferiscono esplicitamente alle attivita' disciplinate dal presente regolamento per le quali l'organismo presenta la Scia; la documentazione relativa ai requisiti generali, strutturali, per le risorse, di processo e del sistema di gestione dell'organismo e' presentata esclusivamente all'organismo di accreditamento che, ove occorre e a richiesta, ne fornisce copia anche parziale ad Unioncamere.
 
@@ -165,6 +617,87 @@ Il divieto di prosecuzione dell'attivita' e' adottato da Unioncamere, sentito l'
 L'organismo oggetto di provvedimenti d'inibizione della prosecuzione dell'attivita' o di autotutela da parte di Unioncamere comunica ai titolari degli strumenti oggetto di verifiche periodiche gia' programmate, l'impossibilita' ad eseguire le verifiche. I titolari degli strumenti sono tenuti alla riprogrammazione degli stessi con altro organismo, entro sessanta giorni lavorativi dal ricevimento della comunicazione.
 
 ## Art. 13. — Obbligo di registrazione e di comunicazione
+
+1.
+                        
+                            
+                                Gli organismi inviano telematicamente entro dieci giorni lavorativi dalla verificazione, alla Camera di commercio di ciascuna delle province in cui essi hanno effettuato operazioni di verificazione periodica e a Unioncamere, un documento di riepilogo degli strumenti verificati con almeno i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome, indirizzo ed eventuale partita IVA del titolare dello strumento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo presso cui lo strumento e' in servizio, ove diverso dal precedente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    codice identificativo del punto di prelievo o di riconsegna, a seconda dei casi e qualora previsto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tipo dello strumento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    marca, modello dello strumento e classe, se prevista; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    numero di serie dello strumento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    specifica dell'eventuale uso temporaneo dello strumento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    data dell'intervento di riparazione, se del caso, e della verificazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    esito della verificazione e, ove positiva, la data di scadenza; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    anomalie riscontrate, se la verificazione ha dato esito negativo; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    nome dei riparatori e dei verificatori intervenuti.
 
 L'organismo tiene un registro, su supporto cartaceo o informatico, sul quale riporta, in ordine cronologico, le richieste di verificazione periodica pervenute, la loro data di esecuzione con il relativo esito.
 
@@ -209,6 +742,118 @@ Le apparecchiature ausiliarie self-service conformi alla normativa nazionale e e
 ## - Capo IV Abrogazioni e disposizioni transitorie
 
 ## Art. 17. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogati i seguenti regolamenti e provvedimenti ministeriali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        decreto del Ministro dell'industria, del commercio e dell'artigianato 28 marzo 2000, n. 182, concernente il regolamento recante modifica e integrazione della disciplina della verificazione periodica degli strumenti metrici in materia di commercio e camere di commercio, fatte salve le abrogazioni disposte dall'articolo 11, comma 1, del medesimo decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decreto del Ministro delle attivita' produttive 10 dicembre 2001, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 39 del 15 febbraio 2002, recante condizioni e modalita' di riconoscimento dell'idoneita' dei laboratori all'esecuzione della verificazione periodica degli strumenti di misura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    decreto del Vice Ministro dello sviluppo economico 29 agosto 2007, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 225 del 27 settembre 2007, concernente vigilanza sul mercato degli strumenti di misura di cui all'articolo 14 del decreto legislativo 2 febbraio 2007, n. 22, che attua la direttiva 2004/22/CE; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        decreto del Ministro dello sviluppo economico 18 gennaio 2011, n. 31, recante il regolamento concernente i criteri per l'esecuzione dei controlli metrologici successivi sui gli strumenti per pesare a funzionamento automatico, ai sensi del decreto legislativo 2 febbraio 2007, n. 22, attuativo della direttiva 2004/22/CE; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        decreto del Ministro dello sviluppo economico 18 gennaio 2011, n. 32, recante il regolamento concernente i criteri per l'esecuzione dei controlli metrologici successivi sui sistemi per la misurazione continua e dinamica di quantita' di liquidi diversi, ai sensi del decreto legislativo 2 febbraio 2007, n. 22, attuativo della direttiva 2004/22/CE; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        decreto del Ministro dello sviluppo economico 16 aprile 2012, n. 75, recante il regolamento concernente i criteri per l'esecuzione dei controlli metrologici successivi sui contatori del gas e i dispositivi di conversione del volume, ai sensi del decreto legislativo 2 febbraio 2007, n. 22, attuativo della direttiva 2004/22/CE; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        decreto del Ministro dello sviluppo economico 30 ottobre 2013, n. 155, recante il regolamento concernente i criteri per l'esecuzione dei controlli metrologici successivi sui contatori dell'acqua e sui contatori di calore, ai sensi del decreto legislativo 2 febbraio 2007, n. 22, attuativo della direttiva 2004/22/CE; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        decreto del Ministro dello sviluppo economico 24 marzo 2015, n. 60, recante il regolamento concernente i criteri per l'esecuzione dei controlli metrologici successivi sui contatori di energia elettrica attiva, ai sensi del decreto legislativo 2 febbraio 2007, n. 22, attuativo della direttiva 2004/22/CE (MID) e modifiche al decreto 16 aprile 2012, n. 75, concernente i criteri per l'esecuzione dei controlli successivi sui contatori del gas e sui dispositivi di conversione del volume.
+
+2.
+                        
+                            
+                                Dalla data di entrata in vigore del presente regolamento cessano di trovare applicazione le seguenti direttive ministeriali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    direttiva del Ministro della attivita' produttive 4 aprile 2003, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 246 del 22 ottobre 2003, recente indirizzo e coordinamento tecnico in materia di operazioni di verificazione periodica degli strumenti di misura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direttiva del Ministro delle attivita' produttive 30 luglio 2004, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 253 del 27 ottobre 2004, recante la definizione delle caratteristiche dei sigilli di garanzia apposti sugli strumenti di misura da parte dei laboratori riconosciuti idonei a eseguire la verificazione periodica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direttiva del Ministro dello sviluppo economico 4 agosto 2011, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 242 del 17 ottobre 2011, recante indirizzo e coordinamento tecnico in materia di controlli successivi sui distributori di carburanti (eccetto i gas liquefatti) di cui all'allegato MI -005 del decreto legislativo 2 febbraio 2007, n. 22; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    direttiva del Ministro dello sviluppo economico 14 ottobre 2011, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 293 del 17 dicembre 2011, recante indirizzo e coordinamento tecnico in materia di operazione di verificazione dei distributori di carburanti conformi alla direttiva 2004/22/CE, attuata con il decreto legislativo 2 febbraio 2007, n. 22, associati ad apparecchiature ausiliarie ammesse alla verificazione metrica ai sensi della normativa nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    direttiva del Ministro dello sviluppo economico 14 marzo 2013, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 102 del 3 maggio 2013, recante indirizzo e coordinamento tecnico in materia di operazione di verificazione di distributori di carburante associati ad apparecchiature ausiliarie e di armonizzazione tecnica alla normativa europea; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    direttiva del Ministro dello sviluppo economico 12 maggio 2014, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 165 del 18 luglio 2014, recante indirizzo e coordinamento tecnico in materia di operazione di verificazione dei dispositivi di conversione del volume, di semplificazione e di armonizzazione tecnica alla normativa europea.
 
 ## Art. 18. — Disposizioni transitorie e finali
 

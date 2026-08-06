@@ -8,8 +8,8 @@ codice_redazionale: 003G0281
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -114,9 +114,105 @@ All'articolo 13 del decreto del Presidente della Repubblica 23 maggio 2001, n. 3
 
 Gli accordi decentrati sono stipulati ai sensi dell'articolo 29, comma 6, del decreto legislativo 19 maggio 2000, n. 139, a livello centrale e periferico.
 
+2.
+                    
+                        
+                            L'accordo decentrato, da stipularsi a livello centrale, senza comportare alcun onere aggiuntivo, riguarda:
+ 
+                        
+                        
+                            a)
+                            
+                                individuazione di misure idonee a favorire la mobilita' di sede aggiuntive rispetto a quelle previste per i funzionari non assegnatari di alloggi da parte dell'Amministrazione dell'interno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attuazione delle previsioni contenute nell'articolo 9, comma 5, in materia di reperibilita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                criteri generali per l' utilizzo delle somme afferenti al fondo di cui all'articolo 20 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, nonche' criteri generali per la verifica della sussistenza delle risorse finanziarie da destinare all'ulteriore potenziamento dello stesso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individuazione delle funzioni i cui titolari sono esonerati dallo sciopero, ai sensi della legge 12 giugno 1990, n. 146, e successive modificazioni ed integrazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                definizione della misura del trattamento accessorio, nell'ambito delle risorse finanziarie disponibili e senza oneri aggiuntivi, entro valori annui lordi per tredici mensilita' ricompresi negli importi minimi e massimi indicati rispettivamente all'articolo 16, comma 3, e all'articolo 17, comma 1, nei casi di variazione del decreto del Ministro dell'interno con il quale sono determinate le posizioni funzionali dei funzionari della carriera prefettizia;
+
+                            
+                        
+                        
+                            f)
+                            
+                                definizione della misura del trattamento accessorio, nell'ambito delle risorse finanziarie disponibili e senza oneri aggiuntivi, entro valori ricompresi negli importi minimi e massimi indicati rispettivamente all'articolo 16, comma 3, e all'articolo 17, comma 1, nelle fattispecie previste dall'articolo 16, comma 6.
+
+3.
+                    
+                        
+                            Accordi decentrati, da stipularsi a livello di uffici centrali e periferici, senza comportare alcun onere aggiuntivo, riguardano:
+ 
+                        
+                        
+                            a)
+                            
+                                verifica dell'applicazione dei criteri di valutazione ai fini dell'attribuzione della retribuzione di risultato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attuazione delle previsioni contenute nell'articolo 9, comma 6, in materia di reperibilita'.
+
 L'individuazione dei titolari degli uffici centrali e periferici componenti la delegazione di parte pubblica e' effettuata dall'Amministrazione dell'interno entro novanta giorni dalla data di entrata in vigore del presente decreto. L'Amministrazione dell'interno convoca le organizzazioni sindacali firmatarie dell'accordo di cui all'articolo 29, comma 1, del decreto legislativo 19 maggio 2000, n. 139, entro 30 giorni decorrenti dalla data di presentazione della richiesta.
 
 ## Art. 13. — Struttura del trattamento economico
+
+1.
+                    
+                        
+                            La struttura del trattamento economico onnicomprensivo dei funzionari appartenenti alla carriera prefettizia, a decorrere dal 1° gennaio 2002, e' articolata nelle seguenti componenti:
+ 
+                        
+                        
+                            a)
+                            
+                                stipendio tabellare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                retribuzione individuale di anzianita' come risultante dall'articolo 19 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, nonche' quella gia' in godimento alla data del 16 giugno 2000 per i funzionari della carriera prefettizia di cui all'articolo 34, comma 1, lettera c), del decreto legislativo 19 maggio 2000, n. 139;
+
+                            
+                        
+                        
+                            c)
+                            
+                                retribuzione di posizione, parte fissa e parte variabile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                retribuzione di risultato, in relazione ai risultati conseguiti.
 
 Al personale nominato o inquadrato alla qualifica di prefetto proveniente dai ruoli dirigenziali della Polizia di Stato, al fine di assicurare omogeneita' di indirizzo, e' riconosciuta la retribuzione individuale di anzianita' con le modalita' di cui all'articolo 19 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, riferita alla progressione economica per classi e scatti biennali e relativi ratei maturati alla data del 16 giugno 2000.
 
@@ -136,11 +232,170 @@ Lo stipendio tabellare di cui ai commi 1 e 2 contiene ed assorbe l'indennita' in
 
 ## Art. 15. — Fondo per la retribuzione di posizione e la retribuzione di risultato
 
+1.
+                    
+                        
+                            Il fondo per la retribuzione di posizione e la retribuzione di risultato di cui all'articolo 20 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, continua ad essere definito con le modalita' ivi indicate ed e' alimentato dalle seguenti ulteriori risorse finanziarie:
+ 
+                        
+                        
+                            a)
+                            
+                                Euro 139,63 pro capite per tredici mensilita' per l'anno 2002;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Euro 249,70 pro capite per tredici mensilita' per l'anno 2003.
+
 All'articolo 20, comma 4, del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, le parole: «una quota pari al venti per cento» sono sostituite dalle seguenti: «una quota, di regola, pari al venti per cento».
 
 Le risorse del fondo di cui al comma 1 eventualmente non utilizzate alla fine dell'esercizio finanziario sono riassegnate all'anno successivo.
 
 ## Art. 16. — Retribuzione di posizione
+
+1.
+                    
+                        
+                            A decorrere dal 1° gennaio 2002 la retribuzione di posizione - parte fissa e' stabilita nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizioni funzionali della qualifica di prefetto:
+Euro 20.660,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizioni funzionali della qualifica di viceprefetto:
+Euro 11.370,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizioni funzionali della qualifica di viceprefetto aggiunto:
+Euro 5.940,00;
+
+2.
+                    
+                        
+                            Per l'anno 2002 la retribuzione di posizione, correlata alle posizioni funzionali individuate nell'articolo 1 del decreto del Ministro dell'interno in data 17 marzo 2001, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera a): Euro 29.460,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera b): Euro 25.440,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera c): Euro 20.660,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera d): Euro 19.090,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera e): Euro 15.230,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera f): Euro 11.770,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera g): Euro 8.980,00.
+
+3.
+                    
+                        
+                            A decorrere dal 1° gennaio 2003 la retribuzione di posizione correlata alle posizioni funzionali individuate con decreto del Ministro dell'interno 14 maggio 2003, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera A):
+Euro 31.890,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera B):
+Euro 27.550,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera C):
+Euro 22.150,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera D):
+Euro 20.670,00;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera E):
+Euro 16.553,00;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera F):
+Euro 13.430,00;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 3, lettera G):
+Euro 9.690,00.
 
 Ai funzionari promossi alla qualifica superiore, per il periodo intercorrente tra la data di cui all'articolo 7, comma 4, del decreto legislativo 19 maggio 2000, n. 139, e quella di conferimento dell'incarico connesso alla nuova qualifica, competono la retribuzione di posizione e la retribuzione di risultato nelle misure minime previste per la qualifica acquisita, salvo recupero delle maggiori somme corrisposte in caso di mancato superamento del corso.
 
@@ -155,6 +410,69 @@ Euro 22.324,00.
 Al funzionario prefettizio, per l'espletamento degli incarichi individuati dal decreto del Ministro dell'interno in data 18 novembre 2002, compete comunque un unico trattamento economico accessorio. Nei casi di temporaneo conferimento di un ulteriore o diverso incarico, nei casi di sostituzione a norma dell'articolo 10 del decreto legislativo 19 maggio 2000, n. 139, per periodi non inferiori a tre mesi, nonche' in quelli di conferimento temporaneo di incarico riconducibile a posizione funzionale superiore, limitatamente al periodo di espletamento degli stessi, la misura del trattamento accessorio e' definita in sede di accordi decentrati a livello centrale nell'ambito delle disponibilita' del fondo e senza oneri aggiuntivi.
 
 ## Art. 17. — Retribuzione di risultato
+
+1.
+                    
+                        
+                            All'articolo 22 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, il comma 1 e' sostituito dal seguente:
+ «1. Il Ministro dell'interno, con proprio decreto, all'inizio di ogni anno determina gli importi spettanti come retribuzione di risultato, da erogare mensilmente per tredici mensilita', tenendo conto delle risorse disponibili e degli obiettivi raggiunti nell'anno precedente, nel rispetto dei seguenti parametri in relazione alle diverse posizioni funzionali indicate, per l'anno 2002, nell'articolo 1 del decreto del Ministro dell'interno 17 marzo 2001 e, per l'anno 2003, nell'articolo 3 del decreto del Ministro dell'interno 14 maggio 2003:
+ anno 2002:
+ 
+                        
+                        
+                            a)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera a): 100;
+
+                            
+                        
+                        
+                            b)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera b): 86,11;
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera c): 69,85;
+
+                            
+                        
+                        
+                            d)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera d): 69,04;
+
+                            
+                        
+                        
+                            e)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera e): 59,76;
+
+                            
+                        
+                        
+                            f)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera f): 41,11;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posizione funzionale di cui all'articolo 1, comma 2, lettera g): 30,65;
+ anno 2003:
+ a) posizione funzionale di cui all'articolo 3, lettera A): 100;
+ b) posizione funzionale di cui all'articolo 3, lettera B): 86,10;
+ c) posizione funzionale di cui all'articolo 3, lettera C): 69,20;
+ d) posizione funzionale di cui all'articolo 3, lettera D): 68,68;
+ e) posizione funzionale di cui all'articolo 3, lettera E): 59,28;
+ f) posizione funzionale di cui all'articolo 3, lettera F): 44,34;
+ g) posizione funzionale di cui all'articolo 3, lettera G): 30,52.
 
 ## Art. 18. — Trattamento economico dei consiglieri
 

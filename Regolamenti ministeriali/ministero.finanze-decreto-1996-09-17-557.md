@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1996-12-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,11 +32,82 @@ Le disposizioni del presente regolamento si applicano agli oli lubrificanti, anc
 
 I soggetti che intendono fabbricare i prodotti di cui all'art. 1 presentano denuncia all'ufficio tecnico di finanza, d'ora in avanti indicato con la sigla "UTF", competente per territorio, almeno sessanta giorni prima della data d'inizio dell'attivita'.
 
+2.
+                    
+                        
+                            La denuncia e' compilata in duplice esemplare e contiene la denominazione della ditta, la sede, il codice fiscale o la partita IVA, le generalita' di chi la rappresenta legalmente, il comune, la via ed il numero civico o la localita' in cui si trova l'opificio, nonche' il relativo numero di telefono e di fax. La denuncia, sottoscritta dal legale rappresentante della ditta, contiene una dichiarazione in cui il suddetto rappresentante attesta, sotto la propria responsabilita', il possesso, da parte della ditta, di tutte le altre autorizzazioni di natura non fiscale occorrenti per l'esercizio dell'attivita', e' corredata da una relazione tecnica, con allegate la planimetria dell'opificio e le tabelle di taratura dei serbatoi dove sono custodite le materie prime ed i prodotti di cui all'art. 1, e riporta le seguenti ulteriori notizie:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei locali di cui si compone l'opificio e l'uso a cui ciascuno e' destinato, con riferimento alla planimetria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione delle apparecchiature e la potenzialita' degli impianti di deposito e di produzione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la descrizione dei processi di lavorazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la quantita' massima delle materie prime e dei prodotti finiti che si possono trovare nello stabilimento e che si presume di poter, rispettivamente, impiegare od ottenere nell'anno;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli estremi delle autorizzazioni o delle concessioni rilasciate ai sensi del regio decreto-legge 2 novembre 1933, n. 1741, convertito dalla legge 8 febbraio 1934, n. 367, e successive modificazioni.
+
 L'UTF, ricevuta la denuncia, verifica gli impianti, procede, in contraddittorio con la ditta, al controllo della taratura dei serbatoi destinati alla custodia delle materie prime e dei prodotti finiti, effettua, qualora lo ritenga opportuno, esperimenti di lavorzione per la determinazione delle rese, prescrive, nei casi previsti, le misure necessarie per l'esecuzione di controlli della produzione, comunica l'ammontare della cauzione, in misura pari al 10 per cento dell'imposta gravante su tutto il prodotto giacente e, comunque, non inferiore all'imposta dovuta mediamente in un mese, con riferimento all'anno solare di attivita', e del diritto annuale di cui all'art. 63, comma 2, del testo unico e rilascia la licenza fiscale prevista dall'art. 61, comma 1, lettera d), del testo unico medesimo. Il diritto annuale e' corrisposto nei termini di cui all'art. 63, comma 4, del testo unico. I soggetti di cui al comma 1 che intendono immettere o destinare all'immissione in consumo oli lubrificanti rigenerati ottenuti nei propri impianti con l'applicazione del trattamento fiscale previsto dall'art. 62, comma 5, del testo unico, devono munirsi della preventiva autorizzazione rilasciata dal direttore generale del dipartimento delle dogane e delle imposte indirette.
 
 Delle operazioni di verifica eseguite viene redatto processo verbale in duplice originale, da sottoscriversi anche dal rappresentante della ditta, uno dei quali e' consegnato al rappresentante medesimo, unitamente al primo esemplare della denuncia di cui al comma 1 vistato dal dirigente dell'UTF. Il secondo originale del processo verbale viene conservato agli atti dell'UTF insieme al secondo esemplare della denuncia di cui al comma 1.
 
 Le modifiche che si intendono apportare alla situazione risultante dal verbale di verifica di cui al comma 4 sono denunciate preventivamente all'UTF.
+
+6.
+                    
+                        
+                            Alla disciplina, di cui al presente articolo, sono anche assoggettate:
+ 
+                        
+                        
+                            a)
+                            
+                                le ditte che ottengono oli lubrificanti o le preparazioni lubrificanti della voce NC 3403 mediante miscelazione di basi lubrificanti, sostanze varie ed additivi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le ditte fabbricanti additivi contenenti i prodotti di cui all'art. 1, anche con l'aggiunta dei prodotti di cui all'art. 21, commi 1 e 2, del testo unico, diversi dai lubrificanti, destinati alle ditte di cui alla lettera a) ed ai soggetti di cui al comma 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le ditte che procedono all'ossidazione od alla miscelazione di bitumi sui quali non e' stata corrisposta l'imposta;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le ditte che confezionano prodotti di cui all'art. 1 ((non ancora assoggettati ad imposta.))
 
 Le ditte di cui al comma 6 dichiarano nella denuncia di cui al comma 1 la composizione fiscalmente rilevante dei prodotti ottenuti ed indicano il tipo di confezionamento, che, se modificato, e' preventivamente segnalato all'UTF. Per tali ditte il riscontro della correttezza delle tabelle di taratura puo' essere effettuato dall'UTF nell'ambito dei controlli eventuali e successivi. Qualora le ditte di cui al comma 6, lettera b), immettano in consumo gli additivi prodotti destinandoli ad essere aggiunti a carburanti o combustibili, sono tenute ad assolvere l'accisa prevista dall'art. 21, comma 2, del testo unico, con l'osservanza delle norme vigenti.
 
@@ -50,6 +121,28 @@ La fabbricazione o manipolazione dei prodotti di cui all'art. 1, da parte dei so
 I soggetti di cui all'art. 2, comma 6, presentano la predetta comunicazione, riguardante un periodo non superiore ad un trimestre, con indicazioni di massima sul piano di lavorazione, e ne allegano un esemplare al registro di cui al comma 5.
 
 Ultimata la lavorazione, i prodotti di cui all'art. 1 sono presi in carico nei registri di cui ai commi 3 e 5. Qualora, nel caso dei bitumi, risultasse tecnicamente difficoltosa la misurazione nei serbatoi di produzione, l'assunzione in carico puo' essere effettuata sulla base delle partite estratte. Se i suddetti prodotti sono ottenuti in una fabbrica di oli minerali soggetti ad accisa, l'estrazione delle singole partite deve essere comunicata all'ufficio finanziario di fabbrica con le stesse modalita' stabilite per gli oli minerali soggetti ad accisa armonizzata.
+
+3.
+                    
+                        
+                            I soggetti di cui all'art. 2, comma 1, esercenti fabbriche di oli lubrificanti, tengono un registro di carico e scarico nel quale sono riportati giornalmente:
+ 
+                        
+                        
+                            a)
+                            
+                                dalla parte del carico:
+ 1) le basi lubrificanti e gli additivi prodotti nell'impianto;
+ 2) le basi lubrificanti, gli additivi e le altre sostanze impiegate nella produzione, introdotti dall'esterno;
+ 3) gli oli lubrificanti sfusi e quelli confezionati introdotti dall'esterno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalla parte dello scarico:
+ 1) le basi lubrificanti, gli oli lubrificanti sfusi e quelli confezionati estratti, distinti a seconda che siano immessi in consumo con pagamento dell'imposta o per gli usi esenti di cui all'art. 62, comma 3, del testo unico, trasferiti agli impianti o depositi di cui all'art. 6, comma 1, trasferiti ad altri Paesi comunitari, o esportati; sono pure riportati eventuali cali, dispersioni o distruzioni.
 
 Gli esercenti di opifici di rigenerazione di oli lubrificanti usati, oltre al registro di cui al comma 3, tengono un registro di carico e scarico della materia prima, sul quale riportano giornalmente, dalla parte del carico, gli oli lubrificanti usati introdotti e dalla parte dello scarico quelli passati alla lavorazione; tale contabilizzazione puo' essere effettuata anche con cadenza decadale, considerando la terza decade conclusa con la fine del mese. Resta fermo l'obbligo della tenuta della contabilita' prevista per i prodotti soggetti ad accisa armonizzata eventualmente ottenuti nei predetti impianti.
 
@@ -72,6 +165,24 @@ L'UTF provvede al riscontro contabile della dichiarazione mensile di cui all'art
 
 L'UTF esegue, almeno una volta all'anno, verifiche presso gli impianti ed i depositi eserciti dai soggetti di cui all'art. 2, commi 1 e 6. In occasione di tali verifiche vengono rilevati anche i dati dei consumi energetici inerenti all'esercizio degli impianti. Per i prodotti assunti in carico che risultano mancanti alle verifiche e per i quali non e' stato possibile accertare il regolare esito, viene presunta l'immissione in consumo alla data della constatazione, ai sensi dell'art. 61, comma 1, lettera c), n. 4, del testo unico e si procede al recupero della relativa imposta.
 
+3.
+                    
+                        
+                            Ai fini di quanto disposto al comma 2, si presume regolare l'esito quando l'ammanco e' dovuto a dispersione, distruzione, deterioramente o rottura accidentale delle confezioni constatati dall'amministrazione finanziaria o da altra autorita' pubblica. Per i prodotti allo stato sfuso, l'esito e' presunto regolare anche quando l'ammanco e' contenuto:
+ 
+                        
+                        
+                            a)
+                            
+                                per le perdite di lavorazione, nei limiti delle risultanze degli esperimenti preventivamente effettuati in contraddittorio con il fabbricante, o, in mancanza, dei cali tecnici previsti dalla normativa doganale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le perdite durante la giacenza, nei limiti dei cali naturali previsti dalla normativa doganale.
+
 L'UTF ha facolta' di procedere a verifiche e riscontri presso i soggetti di cui all'art. 2, comma 8, nonche' presso le ditte che commerciano od utilizzano i prodotti di cui all'art. 1, sui quali e' stata gia' assolta l'imposta, per gli accertamenti ritenuti necessari.
 
 Per l'esecuzione di controlli su base informatizzata l'UTF puo' richiedere ai soggetti di cui all'art. 2, commi 1, 6 e 8, i necessari supporti meccanografici relativi alle operazioni effettuate nonche' a tutte le partite di prodotto introdotte od estratte.
@@ -80,6 +191,31 @@ Per l'esecuzione di controlli su base informatizzata l'UTF puo' richiedere ai so
 
 Non sono considerati immessi in consumo i prodotti di cui all'art. 1, ad esclusione dei prodotti di provenienza comunitaria o da Paesi terzi che non devono essere sottoposti a lavorazione o a confezionamento, trasferiti agli impianti eserciti dai soggetti di cui all'art. 2, commi 1 e 6, o inviati dai suddetti impianti a depositi propri o di altri in conto deposito, prima della distribuzione alla rete commerciale. I soggetti di cui all'art. 2, commi 1 e 6, osservano la disciplina di cui all'art. 2 per ciascun deposito, proprio o di terzi, presso cui e' custodita merce di loro proprieta'. Tali soggetti tengono, presso ciascun deposito, il registro di cui all'art. 3, comma 5, e presentano, all'UTF competente, la dichiarazione mensile di cui all'art. 4, comma 1. I soggetti che esercitano la commercializzazione dei prodotti di cui all'art. 1 attraverso piu' depositi appartenenti alla propria rete di distribuzione o mediante conti deposito presso altri operatori e che attuino la movimentazione, la predisposizione dei documenti di accompagnamento e la fatturazione con sistemi meccanografici centralizzati, possono tenere la contabilita' per le deteminazione e la liquidazione dell'imposta presso l'impianto o deposito principale.
 Rimane fermo l'obbligo, per i suddetti soggetti, di ottenere, per ognuno dei depositi eserciti od utilizzati in conto deposito, la licenza fiscale di cui all'art. 2, comma 3, e di tenere, presso i medesimi, i registri di cui all'art. 3, comma 5. I predetti soggetti, qualora intendano avvalersi di tale facolta', presentano all'UTF nel cui territorio di competenza e' ubicato l'impianto principale la dichiarazione mensile di cui all'art. 4, comma 1, corredata da elenchi distinti delle quantita' immesse in consumo da ciascuno dei diversi depositi e inviano a mezzo raccomandata, entro lo stesso termine previsto per la predetta dichiarazione mensile, a ciascuno degli UTF nel cui territorio di competenza sono ubicati i depositi secondari, copia dei dati di rispettiva pertinenza.
+
+2.
+                    
+                        
+                            I prodotti di cui all'art. 1 possono essere trasferiti, senza corresponsione d'imposta, a soggetti che li utilizzano esclusivamente per la preparazione di merci o prodotti destinati a Paesi comunitari o terzi. I predetti soggetti:
+ 
+                        
+                        
+                            a)
+                            
+                                osservano la disciplina di cui all'art. 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tengono un registro di carico e scarico, sul quale riportano giornalmente, dalla parte del carico, le partite ricevute con riferimento ai documenti di accompagnamento di cui al comma 3, e dalla parte dello scarico, le merci od i prodotti ottenuti e quelli esportati o trasferiti ad altri Paesi comunitari. Nel medesimo registro sono annotati anche gli estremi della documentazione relativa all'esportazione o degli elenchi riepilogativi delle cessioni e degli acquisti intracomunitari, di cui al decreto del Ministro delle finanze 21 ottobre 1992, pubblicato nella Gazzetta Ufficiale n. 251 del 24 ottobre 1992. Qualora il prodotto venga immesso in consumo in territorio nazionale, deve essere corrisposta la relativa imposta, maggiorata degli interessi di cui all'art. 3, comma 4, del testo unico, relativi al periodo intercorrente fra la data di acquisto e quella del pagamento, con le modalita' di cui all'art. 4, comma 1, del presente regolamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                utilizzano, nel caso in cui intendano effettuare anche lavorazioni per l'ottenimento di prodotti da immettere in consumo in territorio nazionale, prodotti di cui all'art. 1 che hanno gia' assolto l'imposta e li contabilizzano in apposito registro di carico e scarico, distinto da quello di cui alla lettera b).
 
 Il trasferimento dei prodotti nazionali di cui al comma 1, per i quali non e' stata assolta l'imposta, agli impianti dei soggetti di cui ai commi 1 e 2 e' effettuato dietro presentazione allo speditore di copia, vistata dall'UTF, della licenza di cui all'art. 2, i cui estremi vengono annotati, dal medesimo speditore, in apposito registro, e con la scorta del documento di accompagnamento comunitario in regime sospensivo, di cui al regolamento CEE n. 2719/92 della Commissione dell'11 settembre 1992, emesso direttamente dal mittente senza prestazione di alcuna garanzia e recante la stampigliatura: "Valido per la circolazione nazionale dei prodotti di cui all'art. 62 del decreto legislativo 26 ottobre 1995, n. 504". I prodotti di cui al comma 1 provenienti da Paesi terzi, che devono essere sottoposti a lavorazione o a confezionamento, importati senza il pagamento dell'imposta, devono essere scortati dal predetto documento di accompagnamento dalla dogana d'importazione all'impianto di destinazione. I prodotti di cui al comma 1 di provenienza comunitaria sono scortati dalla documentazione commerciale, valida anche per la presa in carico, da cui risultino il mittente, il destinatario, la qualita' e quantita' della merce e la data di spedizione. In mancanza della predetta documentazione o se la stessa non contiene le suddette indicazioni, la merce e' scortata da una dichiarazione del mittente, riportante le indicazioni medesime. Il ricevente comunica all'UTF la ricezione delle partite di tali prodotti entro i tre giorni successivi a quello di arrivo.
 
@@ -112,6 +248,24 @@ Per la produzione di antiparassitari possono essere utilizzati anche oli lubrifi
 Per ottenere la restituzione, anche mediante accredito, l'utilizzazione deve presentare, per ciascun semestre solare, apposita istanza al competente UTF ferma restando la disciplina di cui ai commi 1, 2, 3, 5 e 6 e, per la circolazione, di cui all'art. 6, comma 4.
 
 ## Art. 8. — Impieghi in usi agevolati di oli lubrificanti denaturati
+
+1.
+                    
+                        
+                            Gli oli lubrificanti, impiegati nella produzione e nella lavorazione della gomma naturale e sintetica e nella produzione delle materie plastiche e delle resine artificiali e sintetiche, comprese le colle adesive, salvo quanto previsto al comma 2, sono denaturati mediante l'aggiunta, ad ogni 100 kg di prodotto, delle seguenti sostanze:
+ 
+                        
+                        
+                            a)
+                            
+                                per gomme scure: 4 gr di colorante Oil bleu 9013 B;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gomme chiare, resine materie plastiche e colle: 3 gr di tracciante RS e 1.000 gr di diisobutil o normal butil ftalato.
 
 Per motivi tecnici l'amministrazione finanziaria puo' autorizzare, dandone notizia agli organi preposti ai controlli, l'utilizzazione di formule di denaturazione diverse da quelle indicate al comma 1, ovvero l'impiego di oli lubrificanti non denaturati; in quest'ultimo caso viene seguita la procedura di cui all'art. 7.
 

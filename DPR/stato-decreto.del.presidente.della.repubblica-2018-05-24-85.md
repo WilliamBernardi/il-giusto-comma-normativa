@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-06-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -144,6 +144,24 @@ I funzionari diplomatici appartenenti alle religioni ebraica ed islamica, nonche
 
 ((
 
+1.
+                        
+                            
+                                Su base volontaria ed a titolo gratuito, il personale della carriera diplomatica puo' cedere, in tutto o in parte, ad altra unita' di personale che abbia esigenza di prestare assistenza a figli minori che necessitino di cure costanti, per particolari condizioni di salute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le giornate di ferie, nella propria disponibilita', eccedenti le quattro settimane annuali di cui il lavoratore deve necessariamente fruire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le quattro giornate di riposo per le festivita' soppresse di cui all'art. 4.
+
 Il personale di cui all'art. 1 che si trovi nelle condizioni di necessita' considerate nel comma 1, puo' presentare specifica richiesta all'amministrazione, reiterabile, di utilizzo di ferie e giornate di riposo per una misura massima di 30 giorni per ciascuna domanda, previa presentazione di adeguata certificazione, comprovante lo stato di necessita' delle cure in questione, rilasciata esclusivamente da idonea struttura sanitaria pubblica o convenzionata.
 
 Ricevuta la richiesta, l'amministrazione rende tempestivamente nota al restante personale della carriera diplomatica di cui all'art. 1 l'esigenza, garantendo l'anonimato del richiedente.
@@ -171,6 +189,31 @@ In caso di assenza per malattia e per infortunio non dipendente da causa di serv
 Superati i periodi di conservazione del posto di cui al comma 1, o nel caso in cui il funzionario diplomatico a seguito dell'accertamento previsto nello stesso comma sia dichiarato permanentemente non idoneo a svolgere alcuna delle funzioni proprie della carriera diplomatica, l'Amministrazione puo' disporre la cessazione del rapporto di lavoro.
 
 I periodi di assenza di cui al comma 1, limitatamente ai primi 18 mesi, non interrompono la maturazione dell'anzianita' di servizio a tutti gli effetti.
+
+4.
+                        
+                            
+                                Ferme le disposizioni contenute nell'articolo 71, comma 1 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, il trattamento economico spettante al funzionario diplomatico nel periodo di conservazione del posto e' il seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la retribuzione costituita dalla componente stipendiale di base e da quella correlata alla posizione funzionale, per i primi nove mesi di assenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    90 per cento della retribuzione di cui alla lettera a), per i successivi tre mesi di assenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    50 per cento della retribuzione di cui alla lettera a), per gli ulteriori sei mesi di assenza.
 
 La retribuzione di cui al comma 4, lettera a), e' integralmente dovuta al funzionario diplomatico in ogni caso di ricovero ospedaliero, day hospital, day surgery, ricovero domiciliare certificato dalla ASL o da struttura sanitaria competente, purche' sostitutivo del ricovero ospedaliero, pre-ospedalizzazione e pre-ricovero e per il successivo periodo di convalescenza post ricovero.
 
@@ -234,6 +277,32 @@ Al funzionario diplomatico, dopo il rientro al lavoro a seguito della fruizione 
  ((9 bis. Sono inoltre direttamente applicabili, in favore del personale della carriera diplomatica, le disposizioni concernenti il congedo di paternita' obbligatorio di cui al decreto legislativo 30 giugno 2022 n. 105, in quanto applicabili anche ai dipendenti delle pubbliche amministrazioni.))
 
 ## Art. 10. — Permessi per esigenze personali
+
+1.
+                        
+                            
+                                Il funzionario diplomatico ha diritto di assentarsi nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipazione a concorsi od esami, limitatamente ai giorni di svolgimento delle prove ed al tempo strettamente necessario per il raggiungimento delle relative sedi di svolgimento delle stesse, ovvero, previa intesa con il responsabile della struttura di appartenenza, a congressi, convegni, seminari e corsi di aggiornamento professionale facoltativo entro il limite complessivo di otto giorni per ciascun anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decesso o documentata grave infermita' del coniuge, anche legalmente separato, della parte di unione civile o del convivente ai sensi dell'articolo 1, commi 36 e seguenti della legge 20 maggio 2016, n. 76, o di un parente entro il secondo grado o di un affine di primo grado, in ragione di tre giorni lavorativi, anche frazionati, per evento. I giorni di permesso devono essere utilizzati entro sette giorni dal decesso o dall'accertamento dell'insorgenza della grave infermita' o dalla necessita' di provvedere a conseguenti specifici interventi terapeutici. Nel caso di grave infermita' dei soggetti di cui alla presente lettera b), il funzionario diplomatico, entro sette giorni dall'evento predetto, puo' concordare con il responsabile della struttura presso cui presta servizio, in alternativa ai giorni di permesso, diverse modalita' di espletamento dell'attivita' lavorativa, anche per periodi superiori a tre giorni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((...)) motivi personali o familiari, ((ivi compresi quelli derivanti dal trasferimento da e per l'estero,)) entro il limite complessivo di tre giorni per ciascun anno.
 
 Il funzionario diplomatico ha inoltre il diritto di assentarsi per quindici giorni consecutivi in occasione del matrimonio. Tale permesso deve essere fruito entro 45 giorni dalla data in cui e' stato contratto il matrimonio o l'unione civile.
 
@@ -319,6 +388,31 @@ Il funzionario della carriera diplomatica, dirigente sindacale, non puo' essere 
 ## - Capo III TRATTAMENTO ECONOMICO
 
 ## Art. 16. — Struttura del trattamento economico
+
+1.
+                        
+                            
+                                La struttura del trattamento economico dei funzionari appartenenti alla carriera diplomatica e' articolata nelle seguenti componenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stipendio tabellare, indennita' integrativa speciale e retribuzione individuale di anzianita', ove acquisita e spettante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    retribuzione di posizione, correlata alle posizioni funzionali ricoperte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    retribuzione di risultato, correlata ai risultati conseguiti rispetto agli obiettivi assegnati.
 
 Il trattamento economico di cui al comma 1 e' onnicomprensivo e remunera tutte le funzioni, i compiti e gli incarichi attribuiti ai funzionari diplomatici.
 
@@ -717,6 +811,31 @@ L'esame della questione controversa deve espletarsi nel termine di trenta giorni
 Al personale di cui all'articolo 1 continuano ad applicarsi, ove non in contrasto con il presente decreto, le norme stabilite dai precedenti decreti di recepimento degli accordi.
 
 ## Art. 28. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione del presente decreto, pari ad euro 5.338.699,00 per l'anno 2018 e ad euro 3.769.085,00 annui a decorrere dall'anno 2019, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 778.208 euro per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208, che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 791.406,00 euro per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 365, lettera a), della legge 11 dicembre 2016, n. 232, che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a complessivi 3.769.085,00 euro annui a decorrere dall'anno 2018 mediante riduzione, per euro 389.104, dell'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208, per euro 1.180.510,00, dell'autorizzazione di spesa di cui all'articolo 1, comma 365, lettera a), della legge 11 dicembre 2016, n. 232 e, per euro 2.199.471, dell'autorizzazione di spesa di cui all'articolo 1, comma 679, della legge 27 dicembre 2017, n. 205.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

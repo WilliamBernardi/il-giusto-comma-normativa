@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2025-11-11;195
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,143 @@ Di concerto con il Ministro dell'economia e delle finanze e con il Ministro per 
 ## - Capo I Disposizioni generali
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Ministero»: il Ministero della giustizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «legge notarile»: la legge 16 febbraio 1913, n. 89; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «CAD»: il Codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «regolamento notarile»: il regio decreto 10 settembre 1914, n. 1326, recante il regolamento per l'esecuzione della legge 16 febbraio 1913, n. 89, riguardante l'ordinamento del notariato e degli archivi notarili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «archivio centrale»: l'archivio centrale informatico di cui all'articolo 65 della legge n. 89 del 1913; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «dominio giustizia»: l'insieme delle risorse hardware e software, mediante il quale il Ministero della giustizia tratta in via informatica e telematica qualsiasi tipo di attivita', di dato, di servizio, di comunicazione e di procedura; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «dominio del notariato»: l'insieme delle risorse hardware e software, mediante il quale il Consiglio nazionale del notariato gestisce in via informatica e telematica qualsiasi tipo di attivita', di dato, di servizio, di comunicazione e di procedura; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «portale dei servizi telematici»: la piattaforma informatica che fornisce l'accesso o il collegamento ai servizi telematici resi disponibili dal dominio giustizia, secondo le regole tecnico-operative riportate nel decreto ministeriale 21 febbraio 2011, n. 44; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «sistema informatico»: il sistema informatico dell'archivio centrale informatico previsto dall'articolo 65 della legge n. 89 del 1913; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «area riservata ai soggetti legittimati»: la sezione del sistema informatico alla quale accedono singolarmente i soggetti legittimati all'invio dei fascicoli digitali, contenente tutti i documenti e i servizi forniti ai medesimi soggetti legittimati; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «area riservata all'amministrazione»: la sezione del portale dei servizi telematici nella quale sono resi disponibili i documenti e i servizi forniti ai soggetti abilitati interni; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «soggetti legittimati»: i soggetti legittimati alla sottoscrizione e trasmissione dei documenti contenenti gli adempimenti disciplinati dal presente decreto; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «soggetti abilitati interni»: il personale dell'amministrazione degli archivi notarili; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «accesso»: l'operazione che consente di consultare i dati e i documenti conservati nel sistema informatico mediante visualizzazione, download e stampa di dati e documenti informatici; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «elaborazione»: l'operazione di trattamento dei dati per monitoraggi, statistiche e ogni altra finalita' consentita dalla legge; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «immissione:»: l'operazione di inserimento di dati e documenti nel sistema informatico per le finalita' per cui esso e' istituito; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «aggiornamento»: l'operazione di trattamento che consente di modificare o di cancellare i dati contenuti nel sistema informatico; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «interrogazione»: l'operazione di collegamento con il sistema informativo al fine di effettuare le operazioni di accesso, immissione e aggiornamento relative ai dati e ai documenti conservati nel sistema stesso; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «Ufficio centrale»: l'Ufficio centrale degli archivi notarili.
 
 ## Art. 2. — Oggetto del provvedimento
 
@@ -86,6 +223,144 @@ Il sistema di formazione e trasmissione dei dati e dei documenti di cui all'arti
 
 Se il controllo ha esito negativo il sistema segnala la presenza di anomalie. Queste ultime sono classificate come anomalie bloccanti, anomalie non bloccanti e anomalie lasciate al controllo dell'archivio notarile competente.
 
+3.
+                        
+                            
+                                L'anomalia e' bloccante nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fascicolo digitale non inviato secondo le modalita' di cui all'articolo 6; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fascicolo digitale vuoto o corrotto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fascicolo digitale che supera la dimensione massima consentita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fascicolo digitale non sottoscritto con le modalita' previste dall'articolo 3, comma 2, secondo periodo, o sottoscritto con firma basata su un certificato elettronico revocato, scaduto o sospeso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    formato del fascicolo, o dei file contenuti nel medesimo, difforme dalle specifiche tecniche previste dall'articolo 3, comma 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    struttura del fascicolo digitale con alberatura difforme dalle specifiche tecniche previste dall'articolo 3, comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fascicolo digitale sottoscritto da soggetto non legittimato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    fascicolo digitale che contiene dati nella distinta riassuntiva dei dati repertoriali e delle somme dovute e risulti vuoto in tutte le sezioni relative alle annotazioni repertoriali.
+
+4.
+                        
+                            
+                                L'anomalia e' non bloccante nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fascicolo digitale contenente una o piu' sezioni relative alle copie repertoriali, con indicazione di annotazioni, prive di dichiarazione di conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fascicolo digitale, contenente la distinta riassuntiva dei dati repertoriali certificata negativa, con una o piu' sezioni relative alle copie repertoriali, mancanti di annotazioni, prive di attestazione negativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fascicolo digitale contenente la distinta riassuntiva dei dati repertoriali e delle somme dovute vuota o con difformita' rispetto ai dati risultanti dalle sezioni relative alle copie repertoriali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dati inseriti nel fascicolo digitale in formato difforme dalle specifiche tecniche previste dall'articolo 3, comma 2.
+
+5.
+                        
+                            
+                                L'anomalia e' lasciata al controllo dell'archivio notarile competente nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    invio del fascicolo da parte di un soggetto diverso da quello che, all'esito del controllo automatizzato, ha sottoscritto il fascicolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    utilizzo di un certificato di firma digitale riferito a soggetto non censito nel sistema; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzo di un certificato di firma digitale riferito a soggetto non legittimato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzo di un certificato di firma digitale riferito a soggetto censito nel sistema, che invia in sostituzione di altro soggetto alla cui sostituzione non risulta legittimato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    utilizzo di un certificato di firma digitale riferito a soggetto censito nel sistema, che invia in sostituzione di altro soggetto non censito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    utilizzo di un certificato di firma digitale riferito a soggetto censito nel sistema, che invia in sostituzione di altro soggetto non piu' attivo.
+
 Con provvedimento del direttore generale dell'Ufficio centrale possono essere individuate ulteriori anomalie rientranti nei casi di cui ai commi 3, 4 e 5. Le specifiche tecniche stabilite dal capo del Dipartimento per l'innovazione tecnologica della giustizia del Ministero possono individuare ulteriori anomalie di carattere informatico rientranti nei casi di cui ai commi 3 e 4.
 
 Le anomalie e le segnalazioni generate nella fase di acquisizione del fascicolo sono comunicate dal sistema informatico mediante avvisi ai soggetti che hanno inviato i fascicoli e agli archivi notarili.
@@ -112,6 +387,52 @@ Il sistema informatico segnala all'archivio notarile le modifiche apportate risp
 
 ## Art. 10. — Accesso all'area riservata all'amministrazione 
  da parte dei soggetti abilitati interni
+
+1.
+                        
+                            
+                                Il personale dell'archivio notarile distrettuale ha accesso al portale dei servizi telematici ed e' autorizzato alla consultazione dei dati e dei documenti relativi al distretto notarile di competenza contenuti nel sistema informatico, allo scopo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare il controllo degli adempimenti, della liquidazione delle tasse e dei contributi e degli importi versati dai notai del distretto notarile di competenza e gli altri controlli, anche ispettivi, demandati all'archivio dalla normativa vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rilasciare, nei soli casi previsti dalla normativa vigente, duplicati, copie ed estratti analogici e informatici, anche per immagine, del fascicolo digitale di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rilasciare certificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedere alle attivita' di immissione e aggiornamento dei dati e dei documenti previsti dalla normativa vigente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    effettuare ricerche di atti di ultima volonta', nel rispetto della normativa vigente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    estrarre dati ed inviarli nei casi previsti dalla normativa vigente.
 
 Il personale dell'archivio notarile, su richiesta dell'utenza, effettua ricerche relative a singoli atti tra vivi e annotazioni del repertorio dei protesti rispetto all'intero territorio nazionale e ne fornisce l'esito. Per gli atti di ultima volonta' la ricerca e la comunicazione del relativo esito e' ristretta al distretto notarile di competenza.
 
@@ -154,6 +475,59 @@ I fascicoli sono trasmessi con modalita' automatizzate su di un sistema di conse
 L'invio in conservazione dei fascicoli in sospeso e' differito fino al momento della definizione del fascicolo.
 
 I fascicoli sono inviati in conservazione unitamente all'esito dei controlli e alla ricevuta di accettazione.
+
+4.
+                        
+                            
+                                I fascicoli sono conservati unitamente al seguente set minimo di metadati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    codice fiscale del pubblico ufficiale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice fiscale del sostituto (opzionale); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mese di riferimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    anno di riferimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    distretto notarile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    archivio notarile; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    progressivo invio.
 
 Ciascun fascicolo inviato in conservazione e' marcato temporalmente.
 
@@ -201,6 +575,31 @@ I dati trattati ai sensi del presente decreto sono conservati dal Ministero per 
 Le specifiche tecniche previste dal presente decreto sono adottate sentito il Garante per la protezione dei dati personali e prevedono un elevato livello di sicurezza delle procedure di autenticazione informatica per l'accesso, da parte dei soggetti legittimati e dei soggetti abilitati interni, ai sistemi e servizi informatici dei domini giustizia e notariato, il tracciamento dei relativi accessi e delle operazioni compiute, l'attivazione di specifici alert volti a rilevare comportamenti anomali o a rischio relativi alle operazioni eseguite, nonche' l'esecuzione di attivita' di controllo interno con cadenza almeno annuale, volte a verificare la legittimita' e la liceita' delle operazioni effettuate e l'integrita' dei dati e dei sistemi utilizzati.
 
 ## Art. 17. — Disposizioni di attuazione
+
+1.
+                        
+                            
+                                Con provvedimenti del direttore generale dell'Ufficio centrale, pubblicati nella Gazzetta Ufficiale della Repubblica italiana, sono fissate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le date a decorrere dalle quali i soggetti legittimati, appartenenti ad uno o piu' distretti notarili individuati nello stesso provvedimento, inviano tanto il fascicolo digitale di cui all'articolo 3 quanto la copia mensile dei repertori e la copia trimestrale del registro somme e valori su supporto cartaceo, che deve pervenire all'archivio secondo le vigenti modalita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le date a decorrere dalle quali i soggetti legittimati, appartenenti ad uno o piu' distretti notarili individuati nello stesso provvedimento, a seguito della progressiva attivazione del servizio telematico di cui al presente decreto, inviano unicamente il fascicolo digitale di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le date a decorrere dalle quali la consultazione dell'indice generale delle parti previsto dall'articolo 114, secondo comma, della legge notarile, dall'articolo 154, secondo e terzo comma, del regolamento notarile e dall'articolo 27 del regio decreto-legge 23 ottobre 1924, n. 1737, convertito dalla legge 18 marzo 1926, n. 562, e' assicurata mediante il portale dei servizi telematici.
 
 ## Art. 18. — Clausola di invarianza finanziaria
 

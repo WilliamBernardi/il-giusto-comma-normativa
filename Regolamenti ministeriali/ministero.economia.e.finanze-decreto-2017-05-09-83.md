@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2017-05-09;83
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,80 @@ Il presente decreto disciplina le modalita' e le condizioni di accesso al Fondo 
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto e conformemente, per le definizioni di cui alle lettere da 
+                        
+                        
+                            a)
+                            
+                                a f), all'articolo 8 del decreto-legge 3 maggio 2016, n. 59, convertito, con modificazioni, dalla legge 30 giugno 2016, n. 119, come modificato dall'articolo 26-bis, comma 1, del decreto-legge 23 dicembre 2016, n. 237, convertito, con modificazioni, dalla legge 17 febbraio 2017, n. 15, si intendono per: 
+ a) «investitore»: la persona fisica, l'imprenditore individuale, anche agricolo, e il coltivatore diretto, o il suo successore mortis causa, che ha acquistato gli strumenti finanziari subordinati indicati nell'articolo 1, comma 855, della legge 28 dicembre 2015, n. 208, nell'ambito di un rapporto negoziale diretto con la Banca in liquidazione che li ha emessi; il coniuge, il convivente more uxorio, i parenti entro il secondo grado in possesso dei predetti strumenti finanziari, a seguito di trasferimento con atto tra vivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Banca in liquidazione» o «Banca»: la Cassa di Risparmio di Ferrara S.p.a. in liquidazione coatta amministrativa, la Banca delle Marche S.p.a. in liquidazione coatta amministrativa, la Banca popolare dell'Etruria e del Lazio - Societa' cooperativa in liquidazione coatta amministrativa, la Cassa di risparmio di Chieti S.p.a. in liquidazione coatta amministrativa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Nuova Banca»: la Nuova Cassa di Risparmio di Ferrara S.p.a., la Nuova Banca delle Marche S.p.a., la Nuova Banca dell'Etruria e del Lazio S.p.a., la Nuova Cassa di risparmio di Chieti S.p.a., istituite dall'articolo 1 del decreto-legge 22 novembre 2015, n. 183; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Fondo di solidarieta'»: il Fondo istituito dall'articolo 1, comma 855 della legge di stabilita' per il 2016; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Fondo»: il Fondo Interbancario di Tutela dei Depositi, quale gestore del Fondo di solidarieta' di cui alla lettera d); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «prestazione dei servizi e delle attivita' di investimento relativi alla sottoscrizione o al collocamento degli strumenti finanziari subordinati»: la prestazione di ciascuno dei servizi ed attivita' di cui all'articolo 1, comma 5 e all'articolo 25-bis del testo unico delle disposizioni in materia di intermediazione finanziaria di cui al decreto legislativo del 24 febbraio 1998, n. 58, ove nella prestazione di tale servizi o attivita' sono stati in qualsiasi forma e con qualsiasi modalita' acquistati o sottoscritti dall'investitore i suddetti strumenti finanziari subordinati, nell'ambito di un rapporto negoziale con la Banca in liquidazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «procedura arbitrale»: la procedura di natura arbitrale di accesso al Fondo di solidarieta' di cui all'articolo 1, commi da 857 a 860, della legge 28 dicembre 2015, n. 208; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Camera arbitrale»: la Camera arbitrale per i contratti pubblici relativi a lavori, servizi, forniture di cui all'articolo 210 del decreto legislativo 18 aprile 2016, n. 50; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «Collegio arbitrale»: i collegi arbitrali individuati ai sensi del decreto del Presidente del Consiglio dei ministri di cui all'articolo 1, comma 859, della legge 28 dicembre 2015, n. 208; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                codice ISIN: codice internazionale che identifica gli strumenti finanziari («International Securities Identification Number»), attribuito in Italia dalla Banca d'Italia.
+
 ## Art. 3.
 
 Accesso al Fondo di solidarieta' tramite procedura arbitrale
@@ -43,6 +117,73 @@ Fermo restando quanto disposto dall'articolo 9, comma 10, del decreto-legge 3 ma
 L'accesso, tramite la procedura arbitrale, al Fondo di solidarieta' e le relative prestazioni costituiscono modalita' di ristoro del pregiudizio subito dall'investitore in ragione della violazione degli obblighi di informazione, diligenza, correttezza e trasparenza previsti dal testo unico delle disposizioni in materia di intermediazione finanziaria di cui al decreto legislativo 24 febbraio 1998, n. 58, nella prestazione dei servizi e delle attivita' di investimento relativi alla sottoscrizione e al collocamento degli strumenti finanziari subordinati.
 
 Il Fondo, entro trenta giorni dalla data di pubblicazione del presente decreto, propone agli investitori, nelle forme dell'offerta al pubblico, la facolta' di determinazione della prestazione di cui al comma 2 mediante arbitrato. Assicura, a tal fine, adeguate forme di pubblicita' dell'offerta.
+
+4.
+                    
+                        
+                            Il ricorso e' redatto avvalendosi esclusivamente di apposito modulo reso disponibile nel sito internet istituzionale della Camera arbitrale ed e' presentato in via telematica mediante posta elettronica certificata ovvero, a scelta del ricorrente, su supporto cartaceo al Collegio arbitrale individuato ai sensi del decreto del Presidente del Consiglio dei ministri di cui all'articolo 1, comma 859, della legge 28 dicembre 2015, n. 208. Il ricorso deve contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                il nome, il cognome, la residenza, il codice fiscale e l'elezione di un domicilio, anche digitale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la Banca in liquidazione tramite la quale l'investitore ha acquistato gli strumenti finanziari subordinati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli strumenti finanziari subordinati di proprieta', con indicazione della quantita', del controvalore, della data di acquisto della proprieta', dell'eventuale corrispettivo pagato, degli eventuali oneri e spese direttamente connessi all'operazione di acquisto e del codice ISIN; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'importo del ristoro domandato.
+
+5.
+                    
+                        
+                            L'investitore nel ricorso fornisce le informazioni necessarie ed espone le circostanze rilevanti a fondamento della pretesa, nonche' allega ad esso i seguenti documenti, secondo le modalita' specificate nell'apposito modulo di cui al comma 4: 
+ 
+                        
+                        
+                            a)
+                            
+                                il contratto quadro relativo ai servizi d'investimento nella prestazione dei quali sono stati in qualsiasi forma e con qualsiasi modalita' acquistati o sottoscritti dall'investitore gli strumenti finanziari subordinati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i moduli di sottoscrizione o d'ordine di negoziazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'attestazione degli ordini eseguiti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli altri atti e documenti rilevanti per la domanda, tra i quali, ove posseduti: 
+ il documento sui rischi generali dell'investimento; 
+ la scheda prodotto o altra documentazione informativa relativa ai predetti strumenti finanziari; 
+ i rendiconti periodici.
 
 Quando l'investitore non dispone, neanche in copia, di uno o piu' degli atti e documenti di cui al comma 5, ne fa espressa menzione nel ricorso, specificando se essi non sono stati sottoscritti dall'investitore medesimo o se non ne ha ricevuto copia dalla Banca in liquidazione, ovvero se ne ha perduto la disponibilita'. In tali casi gli atti sono trasmessi dalla Banca che ne e' in possesso.
 

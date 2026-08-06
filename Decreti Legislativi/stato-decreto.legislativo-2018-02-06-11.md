@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-02-06;11
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,26 @@ All'articolo 570, comma 1, secondo periodo, del codice di procedura penale, appr
 
 ## Art. 2. — Modifiche alla disciplina dei casi di appello
 
+1.
+                    
+                        
+                            All'articolo 593 del codice di procedura penale, approvato con decreto del Presidente della Repubblica 22 settembre 1988, n. 447, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 1 e 2 sono sostituiti dai seguenti: 
+ «1. Salvo quanto previsto dagli articoli 443, comma 3, 448, comma 2, 579 e 680, l'imputato puo' appellare contro le sentenze di condanna mentre il pubblico ministero puo' appellare contro le medesime sentenze solo quando modificano il titolo del reato o escludono la sussistenza di una circostanza aggravante ad effetto speciale o stabiliscono una pena di specie diversa da quella ordinaria del reato. 
+ 2. Il pubblico ministero puo' appellare contro le sentenze di proscioglimento. L'imputato puo' appellare contro le sentenze di proscioglimento emesse al termine del dibattimento, salvo che si tratti di sentenze di assoluzione perche' il fatto non sussiste o perche' l'imputato non lo ha commesso.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo la parola: «Sono» sono inserite le seguenti: «in ogni caso» e dopo le parole: «la sola pena dell'ammenda» sono aggiunte infine le seguenti: «e le sentenze di proscioglimento relative a contravvenzioni punite con la sola pena dell'ammenda o con pena alternativa».
+
 All'articolo 428 del codice di procedura penale, approvato con decreto del Presidente della Repubblica 22 settembre 1988, n. 447, dopo il comma 3-ter e' aggiunto il seguente: 
  «3-quater. Sono inappellabili le sentenze di non luogo a procedere relative a contravvenzioni punite con la sola pena dell'ammenda o con pena alternativa.».
 
@@ -45,6 +65,26 @@ All'articolo 428, comma 1, lettera a), del codice di procedura penale, approvato
 
 ## Art. 4. — Modifiche alla disciplina 
  in materia di appello incidentale
+
+1.
+                    
+                        
+                            All'articolo 595 del codice di procedura penale, approvato con decreto del Presidente della Repubblica 22 settembre 1988, n. 447, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. L'imputato che non ha proposto impugnazione puo' proporre appello incidentale entro quindici giorni da quello in cui ha ricevuto la notificazione prevista dall'articolo 584.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Entro quindici giorni dalla notificazione dell'impugnazione presentata dalle altre parti, l'imputato puo' presentare al giudice, mediante deposito in cancelleria, memorie o richieste scritte.».
 
 ## Art. 5. — Modifica alla disciplina 
  sui casi di ricorso per cassazione

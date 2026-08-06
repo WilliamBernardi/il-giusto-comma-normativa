@@ -8,8 +8,8 @@ codice_redazionale: 006G0238
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,38 @@ Sono soggette al presente regolamento le emittenti televisive appartenenti a Sta
 Nei programmi radiotelevisivi, ivi compresi quelli di intrattenimento e di carattere sociale o informativo, l'impiego dei minori di anni quattordici deve avvenire con il massimo rispetto della dignita' personale, dell'immagine, dell'integrita' psicofisica e della privacy.
 
 Le norme di comportamento sulla partecipazione dei minori alle trasmissioni indicate nel paragrafo 1 del Codice di autoregolamentazione TV e minori approvato in data 29 novembre 2002 e successive modificazioni sono obbligatorie per le emittenti televisive e, in quanto applicabili, per le emittenti radiofoniche di cui al comma 3 dell'articolo 1.
+
+3.
+                    
+                        
+                            E' inoltre vietato da parte delle stesse emittenti:
+ 
+                        
+                        
+                            a)
+                            
+                                sottoporre minori di anni quattordici ad azioni o situazioni pericolose per la propria salute psicofisica o eccessivamente gravose in relazione alle proprie capacita' o violente, ovvero mostrarli, senza motivo, in situazioni pericolose;
+
+                            
+                        
+                        
+                            b)
+                            
+                                far assumere a minori di anni quattordici, anche per gioco o per finzione, sostanze nocive quali tabacco, bevande alcoliche o stupefacenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                coinvolgere minori di anni quattordici in argomenti o immagini di contenuto volgare, licenzioso o violento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                utilizzare minori di anni quattordici in richieste di denaro o di elargizioni abusando dei naturali sentimenti degli adulti per i bambini.
 
 ## Art. 3. — Vigilanza e sanzioni
 

@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2010-12-25
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -30,7 +30,67 @@ Il presente decreto ha lo scopo di disciplinare l'utilizzazione dei fanghi di de
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente decreto, si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                Fanghi: i residui derivanti dai processi di depurazione:
+ 1) delle acque reflue provenienti esclusivamente da insediamenti civili come definiti dalla lettera b), art. 1-quater, legge 8 ottobre 1976, n. 670;
+ 2) delle acque reflue provenienti da insediamenti civili e produttivi: tali fanghi devono possedere caratteristiche sostanzialmente non diverse da quelle possedute dai fanghi di cui al punto a.1.;
+ 3) delle acque reflue provenienti esclusivamente da insediamenti produttivi, come definiti dalla legge 319/76 e successive modificazioni ed integrazioni; tali fanghi devono essere assimilabili per qualita' a quelli di cui al punto a.1. sulla base di quanto disposto nel successivo articolo 3.1.
+
+                            
+                        
+                        
+                            b)
+                            
+                                Fanghi trattati: i fanghi sottoposti a trattamento biologico, chimico o termico, a deposito a lungo termine ovvero ad altro opportuno procedimento, in modo da ridurre in maniera rilevante il loro potere fermentiscibile e gli inconvenienti sanitari della loro utilizzazione.
+
+                            
+                        
+                        
+                            c)
+                            
+                                Agricoltura: qualsiasi tipo di coltivazione a scopo commerciale e alimentare, nonche' zootecnico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Utilizzazione: il recupero dei fanghi previsti al punto a) mediante il loro spandimento sul suolo o qualsiasi altra applicazione sul suolo e nel suolo.
+
 ## Art. 3. — Condizioni per l'utilizzazione
+
+1.
+                    
+                        
+                            E' ammessa l'utilizzazione in agricoltura dei fanghi indicati all'art. 2 solo se ricorrono le seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                sono stati sottoposti a trattamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono idonei a produrre un effetto concimante e/o ammendante e correttivo del terreno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non contengono sostanze tossiche e nocive e/o persistenti, e/o bioaccumulabili in concentrazioni dannose per il terreno, per le colture, per gli animali, per l'uomo e per l'ambiente in generale.
 
 L'utilizzazione dei fanghi e' consentita qualora la concentrazione di uno o piu' metalli pesanti nel suolo non superi i valori limite fissati nell'allegato I A ovvero qualora tali valori limite non vengano superati a motivo dell'impiego dei fanghi.
 
@@ -42,11 +102,96 @@ I fanghi possono essere applicati su e/o nei terreni in dosi non superiori a 15 
 
 I fanghi provenienti dall'industria agro-alimentare possono essere impiegati in quantita' massima fino a tre volte le quantita' indicate al comma 4. In tal caso i limiti di metalli pesanti non possono superare valori pari ad un quinto di quelli di cui all'allegato I B.
 
+6.
+                    
+                        
+                            I fanghi possono essere utilizzati quali componenti dei substrati artificiali di colture floricole su bancali, nel rispetto della presente norma, della tutela ambientale e della salute degli operatori del settore. In particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                i fanghi utilizzati devono essere disidratati e il loro contenuto di umidita' non deve superare il limite di 80% espresso sul tal quale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i fanghi devono avere una composizione analitica che rientri nei limiti dell'allegato I B;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il substrato artificiale di coltura deve contenere un quantitativo di fango non superiore al 20% del totale.
+
 ## Art. 4. — D i v i e t i
 
 E' vietata l'utilizzazione dei fanghi sui terreni agricoli se non ricorrono le condizioni previste dall'art. 3.
 
 E' vietata l'utilizzazione dei fanghi tossici e nocivi in riferimento alle sostanze elencate nell'allegato al decreto del Presidente della Repubblica 10 settembre 1982, n. 915, con le concentrazioni limite stabilite nella delibera del 27 luglio 1984, anche se miscelati e diluiti con fanghi rientranti nelle presenti disposizioni.
+
+3.
+                    
+                        
+                            E' vietato applicare i fanghi ai terreni:
+ 
+                        
+                        
+                            a)
+                            
+                                allagati, soggetti ad esondazioni e/o inondazioni naturali, acquitrinosi o con falda acquifera affiorante, o con frane in atto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                con pendii maggiori del 15%, limitatamente ai fanghi con un contenuto in sostanza secca inferiore al 30%;
+
+                            
+                        
+                        
+                            c)
+                            
+                                con pH minore di 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                con C.S.C. minore di 8 meg/100 gr;
+
+                            
+                        
+                        
+                            e)
+                            
+                                destinati a pascolo, a prato-pascolo, a foraggere, anche in consociazione con altre colture, nelle 5 settimane che precedono il pascolo o la raccolta di foraggio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                destinati all'orticoltura e alla frutticoltura i cui prodotti sono normalmente a contatto diretto con il terreno e sono di norma consumati crudi, nei 10 mesi precedenti il raccolto e durante il raccolto stesso;
+
+                            
+                        
+                        
+                            g)
+                            
+                                quando e' in atto una coltura, ad eccezione delle colture arboree;
+
+                            
+                        
+                        
+                            h)
+                            
+                                quando sia stata comunque accertata l'esistenza di un pericolo per la salute degli uomini e/o degli animali e/o per la salvaguardia dell'ambiente.
 
 E' vietata l'applicazione di fanghi liquidi con la tecnica della irrigazione a pioggia, sia per i fanghi tal quali che per quelli diluiti con acqua.
 
@@ -83,6 +228,117 @@ Coloro che svolgono o intendono svolgere le attivita' sopra in- dicate, al fine 
 L'autorizzazione all'utilizzazione dei fanghi in agricoltura e' rilasciata ai sensi dell'articolo 9.
 
 ## Art. 9. — Autorizzazione all'utilizzazione dei fanghi in agricoltura
+
+1.
+                    
+                        
+                            Chi intende utilizzare in attivita' agricole proprie o di terzi, i fanghi di cui all'art. 2 deve:
+ 
+                        
+                        
+                            a)
+                            
+                                ottenere un'autorizzazione dalla Regione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                notificare, con almeno 10 giorni di anticipo, alla regione, alla provincia ed al comune di competenza, l'inizio delle operazioni di utilizzazione dei fanghi.
+
+2.
+                    
+                        
+                            Ai fini di ottenere l'autorizzazione di cui al comma 1, punto a), il richiedente deve indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                la tipologia di fanghi da utilizzare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le colture destinate all'impiego dei fanghi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le caratteristiche e l'ubicazione dell'impianto di stoccaggio dei fanghi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le caratteristiche dei mezzi impiegati per la distribuzione dei fanghi.
+ L'autorizzazione ha una durata massima di cinque anni.
+
+3.
+                    
+                        
+                            La notifica di cui al comma 1, punto b), deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                gli estremi dell'impianto di provenienza dei fanghi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati analitici dei fanghi per i parametri indicati all'allegato I B;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'identificazione, sui mappali catastali e la superficie dei terreni sui quali si intende applicare i fanghi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i dati analitici dei terreni, per i parametri indicati all'allegato II A;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le colture in atto e quelle previste;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le date previste per l'utilizzazione dei fanghi;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il consenso allo spandimento da parte di chi ha il diritto di esercitare attivita' agricola sui terreni sui quali si intende utilizzare fanghi;
+
+                            
+                        
+                        
+                            h)
+                            
+                                il titolo di disponibilita' dei terreni ovvero la dichiarazione sostitutiva di atto di notorieta';
 
 ## Art. 10. — Analisi del terreno
 
@@ -143,6 +399,38 @@ L'originale della scheda e le copie devono essere conservate per un periodo di a
                          Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal 3 dicembre 2010, n. 205, ha disposto (con l'art. 193, comma 9) che "La scheda di accompagnamento di cui all'articolo 13 del decreto legislativo 27 gennaio 1992, n. 99, relativa all'utilizzazione dei fanghi di depurazione in agricoltura, e' sostituita dalla Scheda SISTRI - Area movimentazione di cui al decreto del Ministro dell'ambiente e della tutela del territorio e del mare in data 17 dicembre 2009 o, per le imprese che non aderiscono su base volontaria al sistema di controllo della tracciabilita' dei rifiuti (SISTRI) di cui all´articolo 188-bis, comma 2, lett. a), dal formulario di identificazione di cui al comma 1".
 
 ## Art. 14. — Registri di carico e scarico
+
+1.
+                    
+                        
+                            Il produttore di fanghi destinati all'agricoltura, deve annotare sul registro di carico e scarico di cui all'art. 19 del decreto del Presidente della Repubblica 10 settembre 1982, n. 915 e all'art. 3 comma 5 della legge n. 475/88;
+ 
+                        
+                        
+                            a)
+                            
+                                i quantitativi di fango prodotto e quelli forniti per uso agricolo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la composizione e le caratteristiche dei fanghi rispetto ai parametri di cui all'allegato 1 B;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il tipo di condizionamento impiegato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i nomi e gli indirizzi dei destinatari dei fanghi e i luoghi previsti di utilizzazione dei fanghi.
 
 I registri sono a disposizione delle autorita' competenti e deve esserne trasmessa annualmente copia alla Regione ai fini della relazione di cui all'art. 6, comma 5.
 

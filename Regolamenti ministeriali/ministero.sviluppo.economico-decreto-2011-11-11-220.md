@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-11-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -57,6 +57,35 @@ Le disposizioni dell'articolo 5 si applicano anche ai soggetti che detengono, di
 
 
 ## Art. 5. — Requisiti di onorabilita'
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, il requisito dell'onorabilita' non ricorre se i soggetti interessati si trovano in una delle seguenti situazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                stato di interdizione legale ovvero interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese e, comunque, tutte le situazioni previste dall'art. 2382 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assoggettamento a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575, e della legge 13 settembre 1982, n. 646, e successive modificazioni ed integrazioni, salvi gli effetti della riabilitazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                condanna con sentenza definitiva, salvi gli effetti della riabilitazione: 
+ 1) a pena detentiva per uno dei reati previsti dalla normativa speciale che regola il settore dell'assicurazione, finanziario, del credito, dei valori mobiliari e dei mercati mobiliari nonche' dal decreto legislativo 21 novembre 2007, n. 231, e successive modificazioni ed integrazioni; 
+ 2) alla reclusione per uno dei delitti previsti nel titolo XI del libro V del codice civile e nel regio decreto 16 marzo 1942, n.267; 
+ 3) alla reclusione per un tempo non inferiore ad un anno per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria; 
+ 4) alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo.
 
 Le cariche, comunque denominate, di amministratore, direttore generale o sindaco nelle imprese di assicurazione e riassicurazione non possono essere ricoperte da coloro ai quali sia stata applicata su richiesta delle parti una delle pene previste dal comma 1, lettera c), salvo il caso di estinzione del reato. Nel caso in cui sono state applicate su richiesta delle parti, le pene previste dal comma 1, lettera c), numeri 1) e 2), non rilevano se inferiori a un anno.
 

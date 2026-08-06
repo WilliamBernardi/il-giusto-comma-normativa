@@ -8,8 +8,8 @@ codice_redazionale: 098G0101
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,59 @@ Data comunicazione al Presidente del consiglio dei Ministri ai sensi dell'artico
 La nomina alla qualifica iniziale del ruolo dei revisori tecnici della Polizia di Stato si consegue nel limite del settanta per cento dei posti disponibili, al 31 dicembre di ogni anno, in ciascun profilo professionale, mediante concorso interno per titoli e superamento di un successivo corso di formazione tecnico- professionale di durata non inferiore a dodici mesi con esami finali.
 
 ## Art. 2. — Bando di concorso
+
+1.
+                    
+                        
+                            Il concorso interno di cui all'articolo 1 e' indetto con decreto del capo della Polizia - Direttore generale della Pubblica sicurezza da pubblicare nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso in ciascun profilo professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero dei posti riservati al personale con qualifica di collaboratore tecnico capo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la definizione, anche per categorie omogenee, delle corrispondenze fra i profili professionali del ruolo degli operatori e collaboratori tecnici e quelli relativi ai posti messi a concorso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di presentazione delle domande di partecipazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ogni altra prescrizione o notizia ritenuta utile.
 
 ## Art. 3. — Possesso dei requisiti
  ed esclusione dal concorso
@@ -66,6 +119,61 @@ Le funzioni di segretario sono svolte da un funzionario con qualifica non inferi
  Le decisioni della commissione sono valide se adottate con la presenza di almeno la meta' dei suoi componenti e a maggioranza dei presenti".
 
 ## Art. 6. — T i t o l i
+
+1.
+                    
+                        
+                            Le categorie di titoli ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 20;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualita' delle mansioni svolte - con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta - da rapportarsi a due fasce di valutazione concernenti, rispettivamente:
+ 1) servizi che comportano responsabilita' di guida e di controllo tecnicopratico di personale sottordinato;
+ 2) servizi non riconducibili alla precedente fascia, fino a punti 20;
+
+                            
+                        
+                        
+                            c)
+                            
+                                incarichi e servizi speciali conferiti con specifico provvedimento dell'amministrazione, che comportino un rilevante aggravio di lavoro o che presuppongano una particolare competenza professionale, fino a punti 10;
+
+                            
+                        
+                        
+                            d)
+                            
+                                titoli attinenti alla formazione professionale del candidato con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati, alle abilitazioni professionali conseguite, fino a punti 20;
+
+                            
+                        
+                        
+                            e)
+                            
+                                lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'amministrazione di appartenenza o da quella presso cui presta servizio e che vertano su problemi tecnici ovvero su questioni di particolare rilievo attinenti ai servizi dell'Amministrazione, fino a punti 10;
+
+                            
+                        
+                        
+                            f)
+                            
+                                speciali riconoscimenti, fino a punti 10;
+
+                            
+                        
+                        
+                            g)
+                            
+                                anzianita' complessiva di servizio, fino a punti 10.
 
 Nell'ambito delle suddette categorie, la commissione determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi. Predetermina altresi' i punteggi da attribuire ai giudizi complessivi presi in considerazione.
 

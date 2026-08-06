@@ -8,8 +8,8 @@ codice_redazionale: 098G0237
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -75,7 +75,43 @@ La banca delegata, entro le ore 13 del termine di cui al comma 1, trasmette al c
 ## Art. 2. — Termini e modalita' di versamento da parte
  dei concessionari alla tesoreria provinciale dello Stato
 
+1.
+                        
+                            
+                                Quotidianamente ed entro il terzo giorno lavorativo successivo alla riscossione o all'accredito i concessionari versano in via telematica, distintamente, l'ammontare delle somme riscosse presso i propri sportelli e quello delle somme accreditate dalle banche delegate relative ai versamenti unitari nell'apposita contabilita' speciale istituita presso una sezione di tesoreria provinciale dello Stato indicata dalla Banca d'Italia, denominata "fondi della riscossione" ed intestata al Ministero delle finanze - Dipartimento delle entrate - Direzione centrale per la riscossione. Presso la medesima sezione di tesoreria sono altresi' istituite:
+ 
+                            
+                            
+                                a)
+                                
+                                    una contabilita' speciale, denominata "fondi di bilancio" ed intestata al Ministero delle finanze - Dipartimento delle entrate - Direzione centrale per la riscossione, per consentire la ripartizione delle somme di pertinenza degli altri enti destinatari dei versamenti unitari e delle somme necessarie alla regolazione contabile delle compensazioni effettuate dai contribuenti nell'ambito della sezione 2-erario del modello di pagamento, nonche' di quelle relative alle commissioni spettanti alle banche e ai concessionari, di quelle utilizzate dai concessionari per erogare i rimborsi in conto fiscale e di quelle che gli stessi concessionari non hanno versato usufruendo di provvedimenti di sgravio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una contabilita' speciale, intestata al Ministero delle finanze - Dipartimento delle entrate - Direzione centrale per la riscossione, denominata "fondi di proprieta' dell'INPS" e alimentata dalla Direzione generale dell'I.N.P.S. con trasferimento di fondi dalla contabilita' speciale accesa presso la sezione di tesoreria provinciale di Roma a nome della stessa, per consentire la ripartizione delle somme di pertinenza degli altri enti destinatari dei versamenti unitari, afferenti le compensazionioperate a carico degli enti stessi, nonche' delle somme di pertinenza di ciascuna sede I.N.P.S. Il Ministero delle finanze - Dipartimento delle entrate - Direzione centrale per la riscossione, valuta le richieste dell'I.N.P.S. rivolte ad ottenere la restituzione delle eventuali eccedenze giacenti su tale contabilita', tenendo conto degli importi per i quali essa viene utilizzata e della frequenza con cui avviene l'utilizzazione stessa, nonche' di eventuali motivi che possano determinare una variazione di tali elementi.
+
 La contabilita' speciale "fondi di bilancio" e' alimentata con parte degli stanziamenti iscritti nell'unita' previsionale di base 4.1.1.0 - "Funzionamento" - capitoli 3456, 3458, 3459 e 3480 - e nell'unita' previsionale di base 4.1.2.2 - "Restituzioni e rimborsi di imposte" - capitoli 3519, 3521, 3530 e 3533 - dello stato di previsione del Ministero delle finanze per l'anno finanziario 1998 e corrispondenti unita' per gli esercizi successivi.
+
+3.
+                        
+                            
+                                La contabilita' speciale "fondi di bilancio" e' alimentata con le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo anno di applicazione, dopo l'apertura della contabilita' speciale, con il cinquanta per cento delle disponibilita' esistenti al momento sulle unita' previsionali di base indicate al comma 2. La parte di stanziamento corrispondente all'ammontare dei rimborsi gia' erogati e dei compensi gia' trattenuti dalle banche e dai concessionari e' mantenuta nell'unita' previsionale di base per provvedere alle necessarie regolazioni contabili da parte del Ministero delle finanze - Dipartimento delle entrate - Direzione centrale per la riscossione; ulteriori afflussi alla contabilita' speciale "fondi di bilancio" sono effettuati nei mesi successivi, tenuto conto delle risorse necessarie per effettuare i rimborsi con le disponibilita' esistenti nello stato di previsione del Ministero delle finanze a favore di soggetti non titolari di partita IVA, nonche' dei soggetti non ammessi alla compensazione ai sensi dell'articolo 25 del decreto legislativo 9 luglio 1997, n. 241;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli esercizi successivi, la contabilita' speciale "fondi di bilancio" e' alimentata, nel mese di gennaio di ciascun anno, entro il limite del cinquanta per cento dei fondi iscritti nelle unita' previsionali di base indicate al comma 2. Ulteriori afflussi sono effettuati nei mesi successivi sulla base dei criteri indicati nella lettera a).
 
 Ogni anno gli importi per i quali la struttura di gestione di cui all'articolo 22, comma 3, del decreto legislativo 9 luglio 1997, n. 241, non ha potuto effettuare la regolazione contabile dal 1 gennaio al 31 agosto sono versati all'entrata del bilancio dello Stato entro il 10 settembre. Tali importi sono riassegnati alle pertinenti unita' previsionali di base dello stato di previsione del Ministero delle finanze - Dipartimento delle entrate - Direzione centrale per la riscossione nel mese di novembre. Gli importi per i quali la predetta struttura di gestione non ha potuto effettuare la regolazione contabile dal 1 settembre al 31 dicembre sono versati all'entrata del bilancio dello Stato entro il 10 gennaio dell'anno successivo e sono riassegnati alle unita' previsionali di base previste dal comma 2 per l'effettuazione, nel mese di marzo, delle regolazioni contabili da parte del Ministero delle finanze - Dipartimento delle entrate - Direzione centrale per la riscossione.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -121,6 +121,27 @@ A livello di contrattazione di comparto e decentrata verranno posti in essere tu
 
 ## Art. 8. — Articolazione degli orari
 
+1.
+                        
+                            
+                                Per l'attuazione dei principi contenuti nell'articolo precedente, gli accordi di comparto definiranno modalita' dettagliate di articolazione dell'orario di lavoro secondo i criteri seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizzazione in maniera programmata di tutti gli istituti che rendano concreta una gestione flessibile e mirata dell'organizzazione dei servizi, della dinamica degli organici e dei carichi di lavoro (flessibilita' e articolazione giornaliera, turnazione, reperibilita', tempo parziale, tempo determinato). I diversi sistemi di articolazione dell'orario di lavoro possono anche coesistere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    limitazione del ricorso al lavoro straordinario ai casi assolutamente eccezionali per periodi predeterminati e in base ai carichi di lavoro facendo anche ricorso alla programmazione di calendari di lavoro plurisettimanali e annuali con orari superiori, e inferiori alle 36 ore settimanali, nel rispetto delle modalita' e del monte ore definito a livello di comparto;
+ e) presenza in servizio di tutto il personale contemporaneamente e per un congruo numero di ore nelle attivita' lavorative in cui sia possibile e sia concordata l'adozione del sistema dell'orario flessibile giornaliero; i periodi di completamento dell'orario dovranno essere programmati con modalita' da precisare nella contrattazione decentrata;
+ d) individuazione dei settori nei quali il lavoro possa essere effettuato per turni, determinando il numero massimo di turni notturni consentibili nell'arco del mese ed effettuabili da ciascun operatore; sono fatte salve le esigenze imprevedibili ed eccezionali o quelle derivanti da calamita' e da eventi naturali;
+ e) modalita' di ricorso al rapporto di lavoro a tempo parziale garantendo la volontarieta', la reversibilita', la sua articolazione, in rapporto alle esigenze organizzative e a quelle dei lavoratori e alle funzioni esercitate ed individuando il contingente massimo consentito di trasformazione di rapporti di lavoro a tempo pieno in rapporti a tempo parziale nell'ambito della previsione legislativa.
+
 La programmazione delle modalita' organizzative per l'articolazione dell'orario di lavoro e di servizio - ivi comprese le incentivazioni economiche - sara' definita in sede di contrattazione di comparto e decentrata secondo le previsioni dell'art. 11 della legge-quadro sul pubblico impiego 29 marzo 1983, n. 93.
 
 ## Art. 9. — Lavoro straordinario
@@ -212,6 +233,43 @@ Ogni anno, entro il mese di settembre, le delegazioni di cui all'art. 12 della l
 
 ## Art. 16. — Modifica del meccanismo della indennita' integrativa speciale
 
+1.
+                        
+                            
+                                L'attuale sistema di adeguamento retributivo al costo della vita e' modificato come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    cadenza semestrale di rivalutazione retributiva:
+ per tale rivalutazione si fa riferimento al tasso percentuale di incremento risultante dal rapporto fra il valore medio dell'indice sindacale di un semestre rispetto a quello del semestre precedente.
+Tale tasso percentuale di incremento e' arrotondato sulla seconda cifra decimale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rivalutazione del cento per cento di una somma mensile uguale per tutti di L. 580.000 e di una percentuale pari al 25 per cento della quota di retribuzione mensile eccedente tale parte.
+ I benefici derivanti dalla rivalutazione semestrale delle 580.000 lire indicizzate al 100 per cento costituiscono base per le correlative rivalutazioni dei semestri successivi.
+ La retribuzione eccedente, sulla quale si calcola il 25 per cento, viene determinata come segue: lo stipendio mensile della qualifica di appartenenza, ottenuto dividendo per dodici quello annuo lordo base in atto il mese precedente a quello dell'adeguamento, piu' l'indennita' integrativa speciale maturata fino a quel momento, meno la quota di retribuzione indicizzata al 100 per cento, come sopra rivalutata;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il primo semestre di attuazione decorre dal mese di novembre 1985 e termina il mese di aprile 1986;
+ pertanto il primo adeguamento decorre dal 1 maggio 1986;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la prima applicazione del nuovo meccanismo il tasso percentuale semestrale medio e' determinato prendendo come base di riferimento dell'indice sindacale il valore di 134.00;
+
 Nel caso di variazioni delle imposte indirette, ai fini di un accorpamento delle aliquote e di una loro razionalizzazione, saranno concordate tra le delegazioni di cui all'art. 12 della legge 29 marzo 1983, n. 93, modalita' e limiti di incidenza di tali variazioni sui prezzi dei beni che compongono il bilancio familiare, assunto a base di calcolo per la determinazione dell'indennita' di contingenza.
 
 L'efficacia del sistema di adeguamento retributivo al costo della vita di cui al presente articolo sara' assicurata per un periodo non inferiore a quattro anni.
@@ -246,6 +304,28 @@ Al lavoratore viene comunque garantito il diritto, in caso di contestazione, di 
 Sara' data attuazione nell'art. 27, punto 9, della legge-quadro 29 marzo 1983, n. 93, in ordine alla pianificazione delle risorse per l'informatica nella pubblica amministrazione, fornendo alle confederazioni sindacali le relative informazioni.
 
 ## Art. 21. — Conflitti e controversie
+
+1.
+                        
+                            
+                                In attuazione della previsione contenuta nell'articolo 11, quarto comma, della legge 29 marzo 1983, n. 93, e' stabilito quanto segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    Procedure di raffreddamento dei conflitti ai livelli di comparto.
+ Nel caso di conflitti di lavoro ai livelli di comparto e decentrati, dovra' essere, entro tre giorni, avviato un confronto fra le parti.
+ Trascorsi quindici giorni dall'insorgenza del conflitto in assenza di accordo, si potra' fare ricorso all'intervento delle delegazioni trattanti previste dalla legge 29 marzo 1983, n. 93, alle quali e' attribuito dal presente decreto il compito di assicurare la corretta gestione degli accordi.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Commissione nazionale di valutazione.
+ Ove insorgano conflitti collettivi di lavoro di grande rilievo per l'intero settore del pubblico impiego, concernenti l'interpretazione o l'applicazione dal punto di vista giuridico degli accordi previsti dalla legge 29 marzo 1983, n. 93, o l'andamento delle relazioni sindacali nelle amministrazioni pubbliche, anche se i conflitti siano connessi con, ovvero originati da, controversie individuali e plurime, le parti possono ricorrere ad una commissione nazionale di valutazione composta da tre membri scelti dal Consiglio superiore della pubblica amministrazione fra personalita' di indiscussa qualificazione nelle discipline scientifiche riguardanti i rapporti di lavoro e le amministrazioni pubbliche.
+ La commissione, acquisiti i fatti e sentiti gli interessati, chiariti gli elementi relativi al conflitto, fornisce alle parti, fatta salva la loro autonomia, la propria valutazione in una pronuncia alla quale e' data pubblicita' tramite stampa su tre giornali quotidiani a diffusione nazionale.
 
 ## Art. 22. — Andamenti giurisprudenziali e giudicati amministrativi
 

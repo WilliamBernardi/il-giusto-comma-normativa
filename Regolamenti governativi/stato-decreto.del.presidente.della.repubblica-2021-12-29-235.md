@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2021-12-29;235
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -55,6 +55,24 @@ Ferme restando le disposizioni di cui agli articoli da 131 a 134 del regolamento
  e dei controlli
 
 I procedimenti e i controlli connessi all'entrata e uscita delle merci nel o dal territorio nazionale e finalizzati all'assolvimento delle formalita' doganali sono elencati all'interno delle tabelle A e B, allegate al decreto del Presidente del Consiglio dei ministri 4 novembre 2010, n. 242, e pubblicati sul Portale SUDOCO.
+
+2.
+                    
+                        
+                            Al fine di garantire l'efficace sviluppo dell'interoperabilita' e il perseguimento dei principi generali di pubblicita' e trasparenza dell'azione amministrativa, le amministrazioni e gli organi dello Stato competenti sono tenuti a comunicare tempestivamente al Comitato di coordinamento e monitoraggio permanente, di cui all'articolo 9, per la successiva pubblicazione sul Portale SUDOCO: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modifiche, intervenute ai sensi dell'articolo 2 della legge 7 agosto 1990, n. 241, dei termini di conclusione dei procedimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modifiche normative e regolamentari con riferimento ai procedimenti e ai controlli connessi all'entrata e uscita delle merci nel o dal territorio nazionale.
 
 ## Art. 5. — Trattamento dei dati personali
 
@@ -103,6 +121,73 @@ Ai fini dell'attuazione dell'articolo 4, comma 58, della legge 24 dicembre 2003,
 
 Il Comitato e' presieduto dal direttore dell'Agenzia delle dogane e dei monopoli, o da un dirigente di vertice suo delegato.
 
+3.
+                    
+                        
+                            Il Comitato e' composto da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comandante generale del Corpo delle capitanerie di porto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il presidente dell'Ente nazionale per l'aviazione civile (ENAC); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i presidenti delle Autorita' di Sistema portuale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un dirigente generale di ogni amministrazione titolare dei procedimenti e dei controlli di cui all'articolo 2 nonche' il direttore dell'Autorita' nazionale-UAMA (Unita' per le autorizzazioni dei materiali di armamento) per il Ministero degli affari esteri e della cooperazione internazionale e il direttore della Direzione generale della pesca marittima e dell'acquacoltura per il Ministero delle politiche agricole, alimentari, forestali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i dirigenti di vertice responsabili dei sistemi informativi, dei controlli e delle procedure dell'Agenzia delle dogane e dei monopoli; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i presidenti delle Societa' di gestione aeroportuali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                tre rappresentanti delle Regioni, designati dalla Conferenza delle Regioni e Province Autonome; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il comandante generale del Corpo della Guardia di finanza; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                un dirigente generale dell'Agenzia delle entrate.
+
 In caso di impossibilita' a partecipare, i componenti del Comitato di cui al comma 3 nominano in sostituzione un delegato con poteri decisionali.
 
 Al Comitato possono essere invitati a partecipare rappresentanti delle associazioni di categoria comparativamente piu' rappresentative sul piano nazionale, individuate secondo la specifica competenza in ordine alle materie di volta in volta all'ordine del giorno.
@@ -123,6 +208,24 @@ Il Comitato di cui all'articolo 9, nell'ambito delle scelte strategiche relative
 ## Art. 11.
 
 Supporto logistico all'attivita' dello Sportello unico doganale e dei controlli
+
+1.
+                    
+                        
+                            Le Autorita' di Sistema Portuale: 
+ 
+                        
+                        
+                            a)
+                            
+                                forniscono, in caso di necessita' e a titolo gratuito, le infrastrutture adeguate a supportare lo svolgimento dei compiti istituzionali dello Sportello unico doganale e dei controlli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                coadiuvano, nell'ambito delle proprie risorse umane e strumentali, lo Sportello unico doganale e dei controlli, al fine dell'esecuzione efficiente dei controlli.
 
 Le Societa' di gestione aeroportuale ed i gestori delle strutture logistiche interessate dallo Sportello unico doganale e dei controlli, nell'ottica dell'ottimale organizzazione delle attivita' di competenza relative alla gestione delle infrastrutture volte ad assicurare la fluidita' del traffico merci, forniscono, a titolo gratuito, con modalita' stabilite in apposito accordo, il supporto logistico necessario per lo svolgimento dei compiti istituzionali dello Sportello unico doganale e dei controlli e per l'esecuzione efficiente dei controlli.
 

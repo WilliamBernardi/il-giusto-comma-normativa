@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2019-02-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,80 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si applicano le definizioni di cui all'articolo 183 del decreto legislativo 3 aprile 2006, n. 152, integrate con le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «associazioni imprenditoriali rappresentative sul piano nazionale»: le associazioni imprenditoriali comparativamente piu' rappresentative sul piano nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «delegato»: il soggetto che, nell'ambito dell'organizzazione aziendale, e' eventualmente delegato dall'ente o impresa all'utilizzo del sistema; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «dipendenti»: il numero di addetti, ossia delle persone occupate a qualsiasi titolo nell'unita' locale dell'ente o dell'impresa con una posizione di lavoro indipendente o dipendente, a tempo pieno, a tempo parziale, anche se temporaneamente assente. I lavoratori stagionali sono considerati come frazioni di unita' lavorative annue con riferimento alle giornate effettivamente retribuite. In caso di frazioni si arrotonda all'intero superiore o inferiore piu' vicino; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «dispositivo»: il dispositivo elettronico per l'accesso in sicurezza al SISTRI, di seguito, dispositivo USB, il dispositivo da installarsi sui veicoli di trasporto dei rifiuti avente la funzione di monitorare il percorso effettuato dal veicolo durante il trasporto, di seguito, dispositivo black box, nonche' il dispositivo USB per l'interoperabilita' di cui all'articolo 18; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «operatore»: il soggetto obbligato ad aderire al SISTRI, nonche' il soggetto che aderisce al SISTRI su base volontaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «SISTRI»: il sistema di controllo della tracciabilita' dei rifiuti di cui al decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «titolare del dispositivo»: ciascun operatore obbligato ad aderire al SISTRI o che aderisce al SISTRI su base volontaria; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «titolare della firma elettronica»: la persona fisica cui e' attribuita la firma elettronica del dispositivo USB e, ove presente, del dispositivo USB per l'interoperabilita'; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «unita' locale»: qualsiasi sede, impianto o insieme delle unita' operative, nelle quali l'operatore esercita stabilmente una o piu' attivita' che determinano la produzione di rifiuti da cui deriva l'obbligo o la facolta' di adesione al SISTRI; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «unita' operativa»: reparto, impianto o stabilimento, all'interno di una unita' locale, dalla quale sono autonomamente originati rifiuti.
+
 ## Art. 2. — Procedure
 
 Con uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio e del mare, di natura non regolamentare, sono definite le procedure operative necessarie per l'accesso al SISTRI, l'inserimento e la trasmissione dei dati, nonche' quelle da applicare nei casi in cui, in ragione delle peculiarita' degli stessi, si richiedano disposizioni differenziate o specifiche. Con le medesime modalita' si procede alle modifiche dell'allegato 1, che forma parte integrante del presente regolamento, e alla revisione dell'entita' dei contributi a carico dei soggetti che aderiscono al SISTRI su base volontaria, che sono stabiliti in misura ridotta rispetto agli importi dovuti dai soggetti obbligati per le analoghe categorie di riferimento.
@@ -47,6 +121,38 @@ Al fine di intensificare l'azione di contrasto alle attivita' illecite di gestio
 ## Art. 4. — Iscrizione al SISTRI
 
 Sono tenuti ad aderire al SISTRI i soggetti indicati dall'articolo 188-ter, comma 1, del decreto legislativo 3 aprile 2006, n. 152, e dalle disposizioni attuative approvate ai sensi del comma 3 del medesimo articolo.
+
+2.
+                        
+                            
+                                Rientrano nell'ambito delle categorie individuate ai sensi del comma 1, in particolare, i seguenti soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso delle imprese e degli enti che raccolgono o trasportano rifiuti pericolosi, i soggetti che raccolgono o trasportano rifiuti pericolosi prodotti da terzi a titolo professionale, nonche' le imprese e gli enti che trasportano i rifiuti pericolosi da loro stessi prodotti iscritti all'Albo nazionale gestori ambientali in categoria 5, o, se iscritti in categoria 2-bis, solo quando obbligati ad aderire come produttori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di trasporto navale, l'armatore o il noleggiatore che effettuano il trasporto, o il raccomandatario marittimo di cui alla legge 4 aprile 1977, n. 135, delegato per gli adempimenti relativi al SISTRI dall'armatore o noleggiatore medesimo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di trasporto intermodale marittimo di rifiuti, il terminalista concessionario dell'area portuale di cui all'articolo 18, della legge 28 gennaio 1994, n. 84, e l'impresa portuale di cui all'articolo 16 della citata legge n. 84 del 1994, ai quali sono affidati i rifiuti in attesa dell'imbarco o allo sbarco, in attesa del successivo trasporto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di trasporto intermodale ferroviario di rifiuti, i responsabili degli uffici di gestione merci e gli operatori logistici presso le stazioni ferroviarie, gli interporti, gli impianti di terminalizzazione e gli scali merci ai quali sono affidati i rifiuti in attesa della presa in carico degli stessi da parte dell'impresa ferroviaria o dell'impresa che effettua il successivo trasporto.
 
 Possono aderire su base volontaria al SISTRI i soggetti indicati dall'articolo 188-ter, comma 2, del decreto legislativo 3 aprile 2006, n. 152, ed i soggetti non obbligati ad aderire ai sensi delle disposizioni attuative approvate ai sensi del comma 3 del medesimo articolo.
 
@@ -266,6 +372,38 @@ Il Catasto dei rifiuti assicura le informazioni necessarie per lo svolgimento de
 
 ## Art. 22. — Catasto telematico dei rifiuti
 
+1.
+                        
+                            
+                                L'Istituto superiore per la protezione e la ricerca ambientale (ISPRA) organizza il Catasto dei rifiuti di cui all'articolo 189, comma 1, del decreto legislativo 3 aprile 2006, n. 152, per via informatica attraverso la costituzione e la gestione del Catasto telematico interconnesso su rete nazionale e articolato nelle seguenti banche dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una banca dati anagrafica ed una banca dati contenente le informazioni sulla produzione e gestione dei rifiuti trasmesse dal SISTRI attraverso l'interconnessione diretta secondo le modalita' previste dal comma 2 dell'articolo 21; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una banca dati contenente le informazioni relative alle autorizzazioni e alle comunicazioni di cui agli articoli 208, 209, 210, 211, 213, 214, 215 e 216 del decreto legislativo 3 aprile 2006, n. 152. A tal fine le amministrazioni competenti comunicano all'ISPRA, nel termine perentorio di quindici giorni lavorativi dal rilascio dell'autorizzazione o dell'iscrizione, la ragione sociale e la sede legale dell'ente o impresa autorizzata o iscritta, il codice fiscale, la sede dell'impianto, l'attivita' per la quale viene rilasciata l'autorizzazione o l'iscrizione, i rifiuti oggetto dell'attivita' di gestione, le quantita' autorizzate, la scadenza dell'autorizzazione o dell'iscrizione e, successivamente, segnalano ogni variazione delle predette informazioni che intervenga nel corso della validita' dell'autorizzazione o dell'iscrizione stessa. Le autorizzazioni rilasciate e le iscrizioni effettuate precedentemente all'entrata in vigore della presente disposizione, sono comunicate all'ISPRA dalle amministrazioni competenti utilizzando le procedure di cui agli articoli 208, 209, 210, 211, 213, 214, 215 e 216, del decreto legislativo 3 aprile 2006, n. 152. La comunicazione e' effettuata nel termine perentorio di sessanta giorni dalla data di entrata in vigore della presente disposizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una banca dati relativa alle iscrizioni all'Albo nazionale gestori ambientali di cui all'articolo 212 del decreto legislativo 3 aprile 2006, n. 152, aggiornata attraverso interconnessione diretta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una banca dati contenente le informazioni relative alla tracciabilita' dei rifiuti nella Regione Campania.
+
 L'ISPRA elabora i dati forniti dal SISTRI ai fini della predisposizione di un Rapporto annuale ed ai fini della trasmissione al Ministero dell'ambiente e della tutela del territorio e del mare dei dati necessari per le comunicazioni alla Commissione europea previste dai regolamenti e dalle direttive comunitarie in materia di rifiuti.
 
 ## - Titolo VII DISPOSIZIONI TRANSITORIE, FINALI E ABROGAZIONI
@@ -275,6 +413,52 @@ L'ISPRA elabora i dati forniti dal SISTRI ai fini della predisposizione di un Ra
 A partire dalla data di entrata in vigore del presente regolamento, e' abrogato il decreto del Ministro dell'ambiente e della tutela del territorio e del mare 18 febbraio 2011, n. 52, «Regolamento recante istituzione del sistema di controllo della tracciabilita' dei rifiuti, ai sensi dell'articolo 189 del decreto legislativo 3 aprile 2006, n. 152, e dell'articolo 14-bis del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102».
 
 Per quanto non espressamente indicato dal presente regolamento, fino all'approvazione delle procedure operative con il decreto di cui all'articolo 2, comma 1, si applicano le procedure indicate nei manuali e nelle guide rese disponibili nel sito SISTRI (www.sistri.it), previo visto di approvazione del Ministero dell'ambiente e della tutela del territorio e del mare.
+
+3.
+                        
+                            
+                                In attuazione dell'articolo 11, comma 9-bis, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, le procedure di affidamento del sistema di tracciabilita' informatica dei rifiuti assicurano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la razionalizzazione e la semplificazione del sistema, attraverso l'abbandono dei dispositivi di cui all'articolo 1, comma 1, lettera d), del presente decreto e l'individuazione di strumenti idonei a garantire l'efficace resa del servizio di tracciabilita' dei rifiuti, nel rispetto di quanto previsto dalla direttiva 2008/98/CE e dal decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la tenuta in formato elettronico dei registri di carico e scarico e dei formulari di trasporto con compilazione in modalita' off-line e trasmissione asincrona dei relativi dati, nonche' la generazione automatica del modello unico di dichiarazione di cui alla legge 25 gennaio 1994, n. 70, ai fini della dematerializzazione della corrispondente documentazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la semplificazione degli obblighi informativi alle imprese attraverso l'interazione e il coordinamento con banche dati in uso alla pubblica amministrazione, garantendo, per quanto possibile, l'acquisizione automatica delle informazioni disponibili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la garanzia di interoperabilita' con i sistemi gestionali utilizzati dalle imprese, dalle associazioni di categoria e loro societa' di servizi e realizzazione di specifici sistemi per le imprese che non dispongono di sistemi gestionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la sostenibilita' dei costi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la messa a disposizione di adeguati strumenti di assistenza e formazione per le imprese.
 
 Con decreto adottato ai sensi dell'articolo 2, comma 1, sono disciplinati termini e modalita' per la sospensione degli obblighi di installazione e di utilizzo delle black box di cui all'articolo 1, comma 1, lettera d) ed eventualmente anche dei dispositivi USB ad esse collegati previa verifica di sostenibilita' tecnico-economica condotta dall'Agenzia per l'Italia digitale con l'attuale concessionario del sistema SISTRI, senza oneri a carico del Ministero dell'ambiente e della tutela del territorio e del mare. Con il medesimo decreto e' disciplinata la rimodulazione dei contributi dovuti dalla categoria dei trasportatori.
 

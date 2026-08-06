@@ -8,8 +8,8 @@ codice_redazionale: 000G0327
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,42 @@ Nel caso di grave infermita' dei soggetti di cui al comma 1, la lavoratrice o il
 I permessi di cui al presente articolo sono cumulabili con quelli previsti per l'assistenza delle persone handicappate dall'articolo 33 della legge 5 febbraio 1992, n. 104, e successive modificazioni.
 
 ## Art. 2. — Congedi per gravi motivi familiari
+
+1.
+                    
+                        
+                            La lavoratrice e il lavoratore, dipendenti di datori di lavoro pubblici o privati, possono richiedere, ai sensi dell'articolo 4, comma 2, della legge 8 marzo 2000, n. 53, un periodo di congedo per gravi motivi, relativi alla situazione personale, della propria famiglia anagrafica, dei soggetti di cui all'articolo 433 del codice civile anche se non conviventi, nonche' dei portatori di handicap, parenti o affini entro il terzo grado, anche se non conviventi. Per gravi motivi si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                le necessita' familiari derivanti dal decesso di una delle persone di cui al presente comma;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le situazioni che comportano un impegno particolare del dipendente o della propria famiglia nella cura o nell'assistenza delle persone di cui al presente comma;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le situazioni di grave disagio personale, ad esclusione della malattia, nelle quali incorra il dipendente medesimo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le situazioni, riferite ai soggetti di cui al presente comma ad esclusione del richiedente, derivanti dalle seguenti patologie:
+ 1) patologie acute o croniche che determinano temporanea o permanente riduzione o perdita dell'autonomia personale, ivi incluse le affezioni croniche di natura congenita, reumatica, neoplastica, infettiva, dismetabolica, post-traumatica, neurologica, neuromuscolare, psichiatrica, derivanti da dipendenze, a carattere evolutivo o soggette a riacutizzazioni periodiche;
+ 2) patologie acute o croniche che richiedono assistenza continuativa o frequenti monitoraggi clinici, ematochimici e strumentali;
+ 3) patologie acute o croniche che richiedono la partecipazione attiva del familiare nel trattamento sanitario;
+ 4) patologie dell'infanzia e dell'eta' evolutiva aventi le caratteristiche di cui ai precedenti numeri 1, 2, e 3 o per le quali il programma terapeutico e riabilitativo richiede il coinvolgimento dei genitori o del soggetto che esercita la potesta'.
 
 Il congedo di cui al presente articolo puo' essere utilizzato per un periodo, continuativo o frazionato, non superiore a due anni nell'arco della vita lavorativa. Il datore di lavoro e' tenuto a rilasciare al termine del rapporto di lavoro l'attestazione del periodo di congedo fruito dalla lavoratrice o dal lavoratore. Il limite dei due anni si computa secondo il calendario comune; si calcolano i giorni festivi e non lavorativi compresi nel periodo di congedo; le frazioni di congedo inferiori al mese si sommano tra di loro e si considera raggiunto il mese quando la somma delle frazioni corrisponde a trenta giorni.
 

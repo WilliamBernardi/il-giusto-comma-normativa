@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 1997-02-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,57 @@ Sulla proposta del Ministro dei lavori pubblici e del Ministro dei trasporti e d
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            All'articolo 2 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                I commi 1, 2 e 3 sono sostituiti dai seguenti:
+"1. Il decreto del Ministro dei lavori pubblici, di cui all'articolo 2, comma 8, del codice, per la classificazione amministrativa delle strade statali esistenti alla data del 1 gennaio 1993, e' predisposto dall'Ispettorato generale per la circolazione e la sicurezza stradale, sulla base degli elenchi previsti dalla legge 21 aprile 1962, n. 181, modificati ed aggiornati secondo i criteri di cui all'articolo 2, commi 5, 6 e 7, del codice. Le strade statali costruite successivamente all'entrata in vigore del codice, sono classificate con decreto del Ministro dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale, secondo i medesimi criteri.
+2. Per la classificazione amministrativa delle strade statali esistenti, l'Ispettorato generale per la circolazione e la sicurezza stradale, riceve dall'Azienda Nazionale Autonoma delle Strade (A.N.A.S.) i dati necessari, predispone l'elenco aggiornato delle strade statali esistenti alla data del 1 gennaio 1993 e trasmette lo stesso agli enti tenuti al parere, ai sensi dell'articolo 2, comma 8, del codice, entro ventiquattro mesi dalla data di entrata in vigore del codice. Gli enti suddetti trasmettono il loro parere all'Ispettorato generale per la circolazione e la sicurezza stradale nei sei mesi successivi. Il decreto di cui al comma 1, e' pubblicato nella Gazzetta Ufficiale della Repubblica e le strade dallo stesso individuate sono inserite nell'archivio nazionale delle strade di cui all'articolo 226 del codice. Le strade gia' comprese negli elenchi previsti dalla legge 21 aprile 1962, n. 181, e non ricomprese nel decreto di classificazione amministrativa delle strade statali, sono classificate tra le strade non statali .
+3. Per le strade statali di nuova costruzione viene rispettata la procedura indicata dal comma 2; i termini previsti, ridotti rispettivamente ad un mese ed a due mesi, decorrono dalla trasmissione della documentazione da parte dell'A.N.A.S. all'Ispettorato generale per la circolazione e la sicurezza stradale.
+Tale trasmissione e' effettuata entro un mese dalla definizione del collaudo della strada. Prima che siano completate le procedure di classificazione, l'A.N.A.S. puo' prendere in carico la strada, sempreche' sia intervenuta la definizione del collaudo, previa classificazione amministrativa provvisoria effettuata dal Ministero dei lavori pubblici - Ispettorato generale per la circolazione e la sicurezza stradale, secondo i criteri di cui all'articolo 2, commi 5, 6 e 7, del codice";
+
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 4 dopo le parole: "di classificazione" e' aggiunta la seguente: "amministrativa"; le parole: "comma 8" sono sostituite dalle seguenti: "comma 5" e le parole: "trenta giorni" sono sostituite dalle seguenti: "un mese";
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ai commi 5 e 6 dopo le parole: "La classificazione" e' inserita ogni volta la seguente: "amministrativa";
+
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 8 le parole: "all'articolo 2, comma 8," sono sostituite dalle seguenti: "all'articolo 13, comma 5," e dopo le parole: "alla classificazione" sono aggiunte le seguenti: "tecnico-funzionale";
+
+                            
+                        
+                        
+                            e)
+                            
+                                Al comma 9, al secondo periodo, le parole: "comma 8" sono sostituite dalle seguenti: "comma 5";
+
+                            
+                        
+                        
+                            f)
+                            
+                                E' aggiunto in fine il seguente comma:
+"10. I divieti e le prescrizioni, previste dal codice e dal presente regolamento per le strade inserite negli itinerari internazionali, si applicano unicamente a quelle gia' in possesso delle caratteristiche richieste dagli accordi internazionali per tale classificazione."
+
 ## Art. 2.
 
 Il testo dell'articolo 3 del D.P.R. 16 dicembre 1992, n. 495, e' sostituito dal seguente:
@@ -40,7 +91,78 @@ Il testo dell'articolo 3 del D.P.R. 16 dicembre 1992, n. 495, e' sostituito dal 
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            All'articolo 4 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                Al comma 1 le parole da: "ovvero per esigenze socio-economiche" a: "articolo 2, comma 6, del codice" sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2 le parole: "dei compartimenti ANAS competenti" sono sostituite dalle seguenti: "di uno degli enti interessati, previo parere degli altri enti competenti" ed e' aggiunto in fine il seguente periodo: "Le variazioni di classifica conseguenti all'emanazione dei decreti precedenti, da pubblicarsi sulla Gazzetta Ufficiale della Repubblica o sul Bollettino regionale, sono comunicate all'archivio nazionale delle strade di cui all'articolo 226 del codice.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                Il comma 4 e' sostituito dai seguenti commi:
+"4. I tratti di strade statali, regionali o provinciali, che attraversano i centri abitati con popolazione superiore a diecimila abitanti, individuati a seguito della delimitazione del centro abitato prevista dall'articolo 4 del codice, sono classificati quali strade comunali con la stessa deliberazione della giunta municipale con la quale si procede alla delimitazione medesima.
+5. Successivamente all'emanazione dei provvedimenti di classificazione e di declassificazione delle strade previsti agli articoli 2 e 3, all'emanazione dei decreti di passaggio di proprieta' ed alle deliberazioni di cui ai commi precedenti, si provvede alla consegna delle strade o dei tronchi di strade fra gli enti proprietari.
+6. La consegna all'ente nuovo proprietario della strada e' oggetto di apposito verbale da redigersi in tempo utile per il rispetto dei termini previsti dal comma 7 dell'articolo 2 ed entro sessanta giorni dalla delibera della giunta municipale per i tratti di strade interni ai centri abitati con popolazione superiore a diecimila abitanti.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                Il preesistente comma 5 diventa comma 7;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Il preesistente comma 6 e' soppresso.
+
 ## Art. 4.
+
+1.
+                    
+                        
+                            All'articolo 5 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                Il riferimento tra parentesi e' sostituito dal seguente:
+"(Artt. 3 e 4 Cod. Str.)" e nella rubrica la parola "rinvio" e' sostituita dalle seguenti: "delimitazione del centro abitato";
+
+                            
+                        
+                        
+                            b)
+                            
+                                Sono aggiunti i seguenti commi:
+"3. La delimitazione del centro abitato, come definito all'articolo 3, comma 1, punto 8, del codice, e' finalizzata ad individuare l'ambito territoriale in cui, per le interrelazioni esistenti tra le strade e l'ambiente circostante, e' necessaria da parte dell'utente della strada, una particolare cautela nella guida, e sono imposte particolari norme di comportamento. La delimitazione del centro abitato individua pertanto i limiti territoriali di applicazione delle diverse discipline previste dal codice e dal presente regolamento all'interno ed all'esterno del centro abitato. La delimitazione del centro abitato individua altresi', lungo le strade statali, regionali e provinciali, che attraversano i centri medesimi, i tratti di strada che:
+a) per i centri con popolazione non superiore a diecimila abitanti costituiscono <i tratti interni>;
+b) per i centri con popolazione superiore a diecimila abitanti costituiscono <strade comunali>, ed individua, pertanto, i limiti
+territoriali di competenza e di responsabilita' tra il comune e gli altri enti proprietari di strade.
+4. Nel caso in cui l'intervallo tra due contigui insediamenti abitativi, aventi ciascuno le caratteristiche di centro abitato, risulti, anche in relazione all'andamento planoaltimetrico della strada, insufficiente per un duplice cambiamento di comportamento da parte dell'utente della strada, si provvede alla delimitazione di un unico centro abitato, individuando ciascun insediamento abitativo con il segnale di localita'. Nel caso in cui i due insediamenti ricadano nell'ambito di comuni diversi si provvede a delimitazioni separate, anche se contigue, apponendo sulla stessa sezione stradale il segnale di fine del primo centro abitato e di inizio del successivo centro abitato.
+5. I segnali di inizio e fine centro abitato sono collocati esattamente sul punto di delimitazione del centro abitato indicato sulla cartografia allegata alla deliberazione della giunta municipale ed individuato, in corrispondenza di ciascuna strada di accesso al centro stesso, in modo tale da permettere il rispetto degli spazi di avvistamento previsti dall'articolo 79, comma 1. I segnali di inizio e fine centro abitato, relativi allo stesso punto di delimitazione, se posizionati separatamente ai lati della carreggiata, rispettivamente nella direzione di accesso e di uscita del centro medesimo, sono, di norma, collocati sulla stessa sezione stradale.
+Ove si renda necessario per garantire gli spazi di avvistamento, e' ammesso lo slittamento, verso l'esterno del centro abitato, del segnale di fine centro abitato, riportando tale diversa collocazione sulla cartografia. In tal caso, la diversa collocazione del segnale di fine centro abitato rispetto al punto di delimitazione dello stesso ha valenza per le norme di comportamento da parte dell'utente della strada, ma non per le competenze degli enti proprietari della strada.
+6. La delimitazione del centro abitato e' aggiornata periodicamente in relazione alle variazioni delle condizioni in base alle quali si e' provveduto alle delimitazioni stesse. A tale aggiornamento consegue l'aggiornamento dei <tratti interni> e delle <strade
+comunali> di cui al comma 1.
+7. Nei casi in cui la delimitazione del centro abitato interessi strade non comunali, la deliberazione della giunta municipale, prevista dall'articolo 4, comma 1, del codice, con la relativa cartografia allegata, e' inviata all'ente proprietario della strada interessata, prima della pubblicazione all'albo pretorio, indicando la data di inizio di quest'ultima. Entro il termine di pubblicazione l'ente stesso puo' inviare al comune osservazioni o proposte in merito. Su esse si esprime definitivamente la giunta municipale con deliberazione che e' pubblicata all'albo pretorio per dieci giorni consecutivi e comunicata all'ente interessato entro questo stesso termine. Contro tale provvedimento e' ammesso ricorso ai sensi dell'articolo 37, comma 3, del codice.".
 
 ## Art. 5.
 
@@ -48,7 +170,73 @@ La rubrica e il testo dell'articolo 6 del D.P.R. 16 dicembre 1992, n. 495, sono 
 
 ## Art. 6.
 
+1.
+                    
+                        
+                            All'articolo 7 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                La rubrica e il testo dell'articolo 7 sono sostituiti dalla rubrica e dal testo dell'articolo 6 e il riferimento tra parentesi e' sostituito dal seguente: "(Art. 6 Cod. Str.)";
+
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 1 le parole: "di cui all'articolo 5" sono sostituite dalle seguenti: "di cui all'articolo 6";
+
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 2 le parole: "degli autoveicoli" sono sostituite dalle seguenti: "dei veicoli";
+
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 3 le parole: "degli autoveicoli" sono sostituite dalle seguenti: "dei veicoli" e le parole: "agli autoveicoli" sono sostituite dalle seguenti: "ai veicoli";
+
+                            
+                        
+                        
+                            e)
+                            
+                                Al comma 5 dopo le parole: "della collettivita'" sono aggiunte le seguenti: ", ivi comprese quelle legate alle attivita' agricole,".
+
 ## Art. 7.
+
+1.
+                    
+                        
+                            All'articolo 9 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                Il comma 1 e' sostituito dal seguente:
+"1. Le caratteristiche costruttive e funzionali dei veicoli eccezionali e di quelli adibiti al trasporto eccezionale, eccedenti i limiti previsti dall'articolo 62 del codice, sono quelle indicate nell'appendice I al presente titolo.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2 le parole "Ministro dei trasporti" sono sostituite dalle seguenti: "Ministero dei trasporti e della navigazione - Direzione generale della Motorizzazione Civile e dei Trasporti in Concessione (M.C.T.C.)";
+
+                            
+                        
+                        
+                            c)
+                            
+                                E' aggiunto il seguente comma:
+"3. Le caratteristiche costruttive e funzionali dei veicoli eccezionali e di quelli adibiti al trasporto eccezionale, eccedenti i soli limiti previsti dall'articolo 61 del codice, sono quelle indicate nell'appendice II al presente titolo.".
 
 ## Art. 8.
 
@@ -77,11 +265,237 @@ Il testo dell'articolo 12 del D.P.R. 16 dicembre 1992, n. 495, e' sostituito dal
 
 ## Art. 11.
 
+1.
+                    
+                        
+                            All'articolo 13 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1, lettera c) gli ultimi due periodi sono sostituiti dal seguente: "In quest'ultimo caso la data di effettuazione del viaggio deve essere comunicata dall'interessato all'ente rilasciante per via telegrafica o per fax, almeno ventiquattro ore prima dell'inizio del viaggio, che, comunque, deve essere sempre effettuato nel periodo autorizzato."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Il comma 2 e' sostituito dal seguente: 
+"2. L'autorizzazione periodica: 
+A) E' rilasciata quando ricorrono congiuntamente le seguenti condizioni: 
+ a) i veicoli e i trasporti siano eccezionali solamente ai sensi dell'articolo 61 del codice; 
+ b) il carico del trasporto eccezionale, ove sporga rispetto al veicolo, risulti eccedente solo posteriormente e per non piu' di quattro decimi della lunghezza del veicolo con il quale il trasporto stesso viene effettuato; 
+ c) durante tutto il periodo di validita' dell'autorizzazione, gli elementi oggetto del trasporto siano costituiti sempre da materiale della stessa natura e siano riconducibili sempre ad una stessa tipologia; 
+ d) su tutto il percorso sia garantito, in qualunque condizione planoaltimetrica, un franco minimo del veicolo e del suo carico rispetto ai limiti di corsia, misurato su ciascun lato, non inferiore a 0,20 m; 
+ e) non ricorra nessuna delle condizioni per le quali e' prevista l'imposizione della scorta di polizia o di quella tecnica; 
+ f) i veicoli e i trasporti eccezionali rientrino entro i limiti delle combinazioni dimensionali che sono fissate, per ciascuna strada o tratto di strada, dagli enti proprietari delle stesse, in relazione alle caratteristiche del tracciato stradale e che comunque non possono essere superiori alle seguenti: 
+ 1) altezza 4,30 m, larghezza 3 m, lunghezza 20 m; 
+ 2) altezza 4,30 m, larghezza 2,50 m, lunghezza 25 m. 
+Tali valori costituiscono peraltro i limiti delle combinazioni ammissibili per le strade classificate di tipo A e B ai sensi dell'articolo 2, comma 2, del codice. In attesa della classificazione si applicano le disposizioni dell'articolo 2, comma 8. 
+B) E' altresi' rilasciata per le seguenti categorie di veicoli e di trasporti eccezionali, in considerazione delle loro specificita': 
+ a) veicoli per uso speciale individuati agli articoli 203, comma 2, lettere b), c), h), i) e j), e 204, comma 2, lettere a) e b); 
+ b) autotreni ed autoarticolati di massa complessiva a pieno carico non superiore a 56 t, formati con motrice classificata mezzo d'opera o dichiarata idonea a formare autoarticolati mezzi d'opera, e con rimorchio o semirimorchio destinato al trasporto esclusivo di macchine operatrici da cantiere, anche se superano le dimensioni prescritte dall'articolo 61 del codice, ma sono comunque compresi entro i limiti fissati dall'ente che rilascia l'autorizzazione, in relazione alla configurazione della rete stradale interessata; 
+ c) veicoli adibiti al trasporto di carri ferroviari; 
+ d) veicoli che trasportano, in quanto adeguatamente e permanentemente allestiti, pali per linee elettriche, telefoniche o di pubblica illuminazione, purche' non eccedenti con il carico le dimensioni in larghezza ed altezza di cui all'articolo 61 del codice, ed aventi lunghezza massima di 14 m. Le parti a sbalzo devono essere efficacemente segnalate ai fini della sicurezza della circolazione; la parte a sbalzo anteriore non deve eccedere 2,50 m misurati dal centro dell'asse anteriore; 
+ e) veicoli adibiti al trasporto di blocchi di pietra naturale a condizione che il trasporto venga effettuato senza sovrapporre i blocchi gli uni sugli altri; 
+ f) veicoli adibiti al trasporto di coils e laminati grezzi; 
+ g) veicoli adibiti al trasporto di attrezzature per spettacoli viaggianti, che non eccedano i limiti di massa fissati dall'articolo 62 del codice ed i seguenti limiti dimensionali: altezza 4,30 m, larghezza 2,60 m, lunghezza 23 m, purche' muniti di carta di circolazione. 
+L'autorizzazione periodica non e' consentita per i veicoli di cui alle lettere e) ed f) per il transito sulle strade classificate di tipo A, ai sensi dell'articolo 2, comma 2 del codice."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 3 le parole: "rimangono invariate" sono sostituite dalle seguenti: "rimangono invariati i percorsi e"; le parole: "e dei percorsi," sono soppresse e le parole: "al comma precedente" sono sostituite dalle seguenti: "al comma 2"; 
+                            
+                        
+                        
+                            d)
+                            
+                                Il comma 6 e' sostituito dal seguente: 
+"6. Alla domanda di autorizzazione periodica deve essere allegata una dichiarazione di responsabilita', sottoscritta dal legale rappresentante della ditta che esegue il trasporto, che attesti il rispetto, in qualunque condizione di carico, di tutte le altre prescrizioni di cui all'articolo 16 e, nell'ipotesi di cui al comma 2, punto A), dei limiti di massa fissati dall'articolo 62 del codice. 
+Nell'autorizzazione e' riportata solo l'indicazione dei limiti dimensionali superiori del trasporto."; 
+                            
+                        
+                        
+                            e)
+                            
+                                Al comma 7 le parole: "riducendo conseguentemente anche la sua massa" sono sostituite dalle seguenti: "anche con eventuale riduzione di massa"; 
+                            
+                        
+                        
+                            f)
+                            
+                                Al comma 8 dopo le parole: "di un veicolo" e' aggiunta la seguente: "o".
+
 ## Art. 12.
+
+1.
+                    
+                        
+                            All'articolo 14 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1 sono aggiunti in fine i seguenti periodi: "Il divieto di autorizzazione o la necessita' di procrastinare il rilascio a date successive a quelle richieste nella domanda, deve essere espressamente motivato. Le regioni possono delegare alle province le competenze relative all'autorizzazione alla circolazione di cui all'articolo 10, comma 6, del codice. In tal caso ciascuna provincia ha competenza a rilasciare l'autorizzazione sull'intero territorio regionale, previo nulla osta delle altre province."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 3: 
+A) alla lettera b), il segno di interpunzione <punto e virgola> e'
+soppresso e sono aggiunte di seguito le seguenti parole: "e gli interassi varino entro una tolleranza del 20% e che, comunque, si determini una differenza non superiore a 0,50 m;"; 
+B) la lettera c) e' soppressa e la preesistente lettera d) diventa lettera c); 
+C) e' aggiunto in fine il seguente periodo: 
+"L'obbligo di comunicare gli estremi non ricorre nel caso in cui, nell'effettuazione del trasporto, si utilizzi l'unico veicolo trattore indicato nell'autorizzazione ed uno dei rimorchi o semirimorchi individuati come riserva nell'autorizzazione medesima, purche' il complesso di veicoli cosi' risultante rientri nelle combinazioni autorizzate."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 5 le parole: "dell'Ente ferrovie" sono sostituite dalle seguenti: "delle Ferrovie"; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 6 e' aggiunto in fine il seguente periodo: 
+"Ove non sussistano tali condizioni, l'ente proprietario ha la facolta' di rilasciare l'autorizzazione, previa adozione di specifiche misure prescrittive e di controllo."; 
+                            
+                        
+                        
+                            e)
+                            
+                                Al comma 7: 
+A) nel primo periodo le parole: "e la consistenza della sua impresa," sono sostituite dalle seguenti: "e la dotazione dei mezzi tecnici di supporto eventualmente necessari per effettuare il trasporto"; 
+B) al punto B): 
+ I) alla lettera b) le parole: ", attestato da documento probatorio" sono soppresse; gli ultimi due periodi sono sostituiti dal seguente: "Alla domanda deve essere allegata una dichiarazione sulla percorribilita' di tutto l'itinerario da parte del veicolo, a firma del titolare o legale rappresentante della ditta, con particolare riferimento all'inscrivibilita' in curva del veicolo, in caso di eccedenza rispetto a quanto previsto dall'articolo 61 del codice;"; 
+ II) alla lettera d) le parole: "il trasporto ed il periodo di tempo" sono sostituite dalle seguenti: "il trasporto o il periodo di tempo"; 
+                            
+                        
+                        
+                            f)
+                            
+                                Al comma 8, all'ultimo periodo, le parole da: "la dichiarazione di rispetto" a: "del codice." sono sostituite dalle seguenti: "la dichiarazione di cui all'articolo 13, comma 6, ove prevista."; e' aggiunto in fine il seguente periodo: "E' ammessa la facolta' di formulare le dichiarazioni previste in calce alle domande di autorizzazione."; 
+                            
+                        
+                        
+                            g)
+                            
+                                Al comma 10 le parole: "61, 62, 104 e 114" sono sostituite dalle seguenti: "61 e 62"; 
+                            
+                        
+                        
+                            h)
+                            
+                                Al comma 12 dopo le parole: "Ministero dei trasporti" sono aggiunte le seguenti: "e della navigazione"; 
+                            
+                        
+                        
+                            i)
+                            
+                                E' aggiunto in fine il seguente comma: 
+"13. La fotocopia del documento di circolazione o del documento sostitutivo di cui ai commi 8 e 9, deve essere presentata in forma autenticata in data non anteriore a tre mesi, o in forma semplice; in quest'ultimo caso deve essere esibito, contestualmente, l'originale del documento stesso. L'ente rilasciante l'autorizzazione attesta sulla fotocopia la presa visione del documento originale. I soggetti che presentano piu' domande di autorizzazione presso lo stesso ente e per lo stesso veicolo possono fornire per tutte le domande successive alla prima, nell'arco temporale di un anno, fotocopia in carta semplice di quella presentata in allegato alla prima richiesta, citando gli estremi della medesima e dichiarando che, dalla data della prima presentazione, il documento di circolazione o il documento sostitutivo non hanno subito modifiche ed hanno mantenuto validita' per la circolazione.".
 
 ## Art. 13.
 
+1.
+                    
+                        
+                            All'articolo 15 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                La rubrica e' sostituita dalla seguente: "Domande di rinnovo e di proroga"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 1 le parole: "fino ad un periodo di validita' complessivo" sono sostituite dalle seguenti: "per un periodo di validita'"; 
+                            
+                        
+                        
+                            c)
+                            
+                                Il comma 2 e' sostituito dal seguente: 
+"2. La domanda per il rinnovo delle autorizzazioni deve essere sottoscritta da uno dei soggetti di cui all'articolo 14, comma 11, e corredata da: 
+ a) copia della precedente autorizzazione rilasciata; 
+ b) dichiarazione sottoscritta, nelle forme di legge, dal legale rappresentante della ditta che esegue il trasporto, attestante il permanere di tutti i requisiti che hanno determinato il rilascio della stessa; 
+ c) ricevuta attestante il pagamento dell'indennizzo, ove previsto, e delle spese di cui agli articoli 18 e 19, aggiornato all'anno in cui avviene il rinnovo; 
+ d) fotocopia del documento di circolazione o del documento sostitutivo, presentata con le modalita' previste all'articolo 14, comma 13."; 
+                            
+                        
+                        
+                            d)
+                            
+                                E' aggiunto il seguente comma 3: 
+"3. Le autorizzazioni di tipo singolo o multiplo, non ancora scadute, possono, a domanda dell'interessato, essere prorogate per un periodo di validita' non superiore a quello originariamente concesso. La domanda di proroga deve essere corredata da una dichiarazione attestante la necessita' della proroga, dalla dichiarazione sottoscritta dal legale rappresentante che il trasporto o i trasporti per i quali si chiede la proroga non sono ancora stati effettuati e dalla dichiarazione del permanere di tutti i requisiti che hanno determinato il rilascio della autorizzazione stessa."; 
+                            
+                        
+                        
+                            e)
+                            
+                                Il preesistente comma 3 diventa comma 4 e dopo le parole: "del rinnovo" sono aggiunte le seguenti: "o della proroga".
+
 ## Art. 14.
+
+1.
+                    
+                        
+                            All'articolo 16 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1 dopo le parole: "non si preveda la necessita'" le parole: "di regolamentare la circolazione stradale o" sono soppresse e dopo le parole: "o scarsa visibilita'" sono inserite le seguenti: "sia diurna che notturna,"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2 le parole: "regolamentata con pilotaggio del traffico da parte della polizia della strada." sono sostituite dalle seguenti: 
+"regolamentata con specifiche segnalazioni da effettuarsi a cura della scorta tecnica, ovvero con pilotaggio del traffico da parte della polizia della strada."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 3: 
+A) alla lettera c) il segno di interpunzione <punto e virgola> e'
+soppresso e sono aggiunte in fine le seguenti parole: "o a 3,20 m, nel caso di veicoli classificati o utilizzati come sgombraneve o in caso di trasporto di carri ferroviari;"; 
+B) alla lettera e) le parole: "50 km/h" sono sostituite dalle seguenti: "40 km/h"; 
+C) e' aggiunto in fine il seguente periodo: "Per i veicoli ed i trasporti eccezionali che rispettano tutti i limiti dell'articolo 61 del codice, le condizioni di cui sopra si intendono soddisfatte, fatta salva la verifica della condizione di cui alla lettera e)."; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 5 le parole: "e nei casi di cui al comma 2" sono soppresse; 
+                            
+                        
+                        
+                            e)
+                            
+                                Al comma 6: 
+A) dopo le parole: "e interventi diretti alla regolamentazione del traffico" il segno di interpunzione <punto e virgola> e' sostituito
+da <virgola> e sono aggiunte di seguito le seguenti parole: "salvo
+quelli strettamente indispensabili posti in essere, nei casi previsti 
+dal comma 2, dal personale abilitato a norma del presente comma;" 
+B) sono aggiunti in fine i seguenti periodi: "Fino a quando non siano attuati tutti gli adempimenti di cui al presente comma, la scorta tecnica e' effettuata sulla base delle disposizioni previgenti. I concessionari di pubblici servizi di cui all'articolo 28 del codice possono effettuare la scorta tecnica per i veicoli ed i trasporti di proprio interesse, utilizzando personale proprio e autoveicoli di cui abbiano la disponibilita'."; 
+                            
+                        
+                        
+                            f)
+                            
+                                Al comma 8 la parola: "peso" e' sostituita dalla seguente:
+"massa".
 
 ## Art. 15.
 
@@ -225,6 +639,36 @@ d) Al comma 6 le parole da: "devono essere" a ".Possono" sono sostituite dalla s
 
 ## Art. 30.
 
+1.
+                    
+                        
+                            All'articolo 36 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 5 dopo le parole: "dei dispositivi" e' aggiunta la seguente: "retroriflettenti"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 6 dopo le parole: "mezzi segnaletici rifrangenti" sono aggiunte le seguenti: "o in loro sostituzione, possono essere impiegati dispositivi luminosi a luce gialla."; la parola: "durante" e' sostituita dalla seguente: "Durante"; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 8 e' aggiunto in fine il seguente periodo: "E' consentito l'impiego di torce a vento da parte degli organi di polizia stradale in situazioni di emergenza in condizioni di scarsa visibilita'."; 
+                            
+                        
+                        
+                            d)
+                            
+                                Il comma 9 e' sostituito dal seguente: 
+"9. I dispositivi luminosi di cui ai commi 6, 7 e 8 sono soggetti ad approvazione da parte del Ministero dei lavori pubblici.".
+
 ## Art. 31.
 
 1. All'articolo 38 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
@@ -258,7 +702,99 @@ a) Le parole: "all'articolo 2" sono sostituite dalle seguenti: "all'articolo 3".
 
 ## Art. 35.
 
+1.
+                    
+                        
+                            All'articolo 45 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 2 le parole: "a livelli sfalsati" sono soppresse; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 3: 
+A) dopo le parole: "non inferiore" sono aggiunte le seguenti: ", di norma."; 
+B) dopo la parola: "consecutivi" il segno di interpunzione <punto> e'
+soppresso e sono aggiunte le seguenti parole: "per ogni senso di marcia. L'ente proprietario della strada puo' derogare a tale distanza, fino ad un minimo di 100 m, qualora, in relazione alla situazione morfologica, risulti particolarmente gravosa la realizzazione di strade parallele. La stessa deroga puo' essere applicata per tratti di strade che, in considerazione della densita' di insediamenti di attivita' o di abitazioni, sono soggetti a limitazioni di velocita' e per i tratti di strade compresi all'interno di zone previste come edificabili o trasformabili dagli strumenti urbanistici generali od attuativi vigenti."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 4 le parole: "e secondarie" sono soppresse; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 5 in fine il segno di interpunzione <punto> e' sostituito
+da <virgola> e sono aggiunte le seguenti parole: "e realizzati in
+modo da consentire una agevole e sicura manovra di immissione o di uscita dalla sede stradale, senza che tale manovra comporti la sosta del veicolo sulla carreggiata."; 
+                            
+                        
+                        
+                            e)
+                            
+                                Il comma 9 e' sostituito dal seguente: 
+"9. Gli accessi sono realizzati e mantenuti sia per la zona insistente sulla strada sia per la parte ricadente sulla proprieta' privata, a cura e spese dei titolari dell'autorizzazione, i quali sono tenuti a rispettare le prescrizioni e le modalita' fissate dall'ente proprietario della strada e ad operare sotto la sorveglianza dello stesso."; 
+                            
+                        
+                        
+                            f)
+                            
+                                E' aggiunto il seguente comma: 
+"10. E' consentita l'apertura di accessi provvisori per motivi temporanei quali l'apertura di cantieri o simili. In tali casi deve essere disposta idonea segnalazione di pericolo ed, eventualmente, quella di divieto.".
+
 ## Art. 36.
+
+1.
+                    
+                        
+                            All'articolo 46 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 2: 
+A) alla lettera b) dopo le parole: "allo stazionamento" sono aggiunte le seguenti: "o alla circolazione"; 
+B) alla lettera c) il segno di interpunzione <punto e virgola> e'
+sostituito da <punto>; 
+C) la lettera d) e' soppressa; 
+                            
+                        
+                        
+                            b)
+                            
+                                E' inserito il seguente comma: 
+"3. Nel caso in cui i passi carrabili, come definiti dall'articolo 3, comma 1, punto 37), del codice, rientrino nella definizione dell'articolo 44, comma 4, del decreto legislativo 15 novembre 1993, n. 507, nella zona antistante gli stessi vige il divieto di sosta, segnalato con l'apposito segnale di cui alla figura II.78. In caso contrario, il divieto di sosta nella zona antistante il passo medesimo ed il posizionamento del relativo segnale, sono subordinati alla richiesta di occupazione del suolo pubblico che, altrimenti, sarebbe destinato alla sosta dei veicoli, in conformita' a quanto previsto dall'articolo 44, comma 8, del citato decreto legislativo 507/93."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Il preesistente comma 3 diventa comma 4 con le seguenti modificazioni: 
+A) le parole: "nel comma precedente" sono sostituite dalle seguenti: "nel comma 2"; 
+B) le parole: "della sede stradale" sono sostituite dalle seguenti: "della carreggiata"; 
+C) sono aggiunti in fine i seguenti periodi: "Nel caso in cui, per obbiettive impossibilita' costruttive o per gravi limitazioni della godibilita' della proprieta' privata, non sia possibile arretrare gli accessi, possono essere autorizzati sistemi di apertura automatica dei cancelli o delle serrande che delimitano gli accessi. E' consentito derogare dall'arretramento degli accessi e dall'utilizzo dei sistemi alternativi nel caso in cui le immissioni laterali avvengano da strade senza uscita o comunque con traffico estremamente limitato, per cui le immissioni stesse non possono determinare condizioni di intralcio alla fluidita' della circolazione."; 
+                            
+                        
+                        
+                            d)
+                            
+                                Il preesistente comma 4 diventa comma 5; 
+                            
+                        
+                        
+                            e)
+                            
+                                E' aggiunto in fine il seguente comma: 
+"6. I comuni hanno la facolta' di autorizzare distanze inferiori a quelle fissate al comma 2, lettera a), per i passi carrabili gia' esistenti alla data di entrata in vigore del presente regolamento, nel caso in cui sia tecnicamente impossibile procedere all'adeguamento di cui all'articolo 22, comma 2, del codice.".
 
 ## Art. 37.
 
@@ -354,7 +890,61 @@ Per gli striscioni, le locandine e gli stendardi, le distanze dagli altri cartel
 
 ## Art. 42.
 
+1.
+                    
+                        
+                            All'articolo 52 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1: 
+A) dopo la parola: "cartelli" la parola: "e" e' sostituita dalle seguenti: ", insegne di esercizio e altri"; 
+B) le parole: "il 5%" sono sostituite dalle seguenti: "l'8% e le parole: "l'1%" sono sostituite dalle seguenti: "il 3%"; 
+C) sono aggiunti in fine i seguenti periodi: 
+"In attesa della classificazione delle strade si applicano le disposizioni dell'articolo 2, comma 8. Dal computo della superficie dei cartelli, delle insegne di esercizio e degli altri mezzi pubblicitari sono esclusi quelli attinenti ai servizi prestati presso la stazione o l'area di parcheggio."; 
+b) Al comma 2 le parole: "lungo le strade di tipo D ed E" sono sostituite dalle seguenti: ", entro i centri abitati,"; 
+c) Il preesistente comma 3 diventa comma 4 e il preesistente comma 4 diventa comma 3.
+
 ## Art. 43.
+
+1.
+                    
+                        
+                            All'articolo 53 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1 dopo le parole: "di cartelli" sono aggiunte le seguenti: ", di insegne di esercizio"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Il comma 3 e' sostituito dal seguente: 
+"3. Il soggetto interessato al rilascio di una autorizzazione per l'installazione di cartelli, di insegne di esercizio o di altri mezzi pubblicitari deve presentare la relativa domanda presso il competente ufficio dell'ente indicato al comma 1, allegando, oltre alla documentazione amministrativa richiesta dall'ente competente, un'autodichiarazione, redatta ai sensi della legge 4 gennaio 1968, n. 15, con la quale si attesti che il manufatto che si intende collocare e' stato calcolato e realizzato e sara' posto in opera tenendo conto della natura del terreno e della spinta del vento, in modo da garantire la stabilita'. Per le successive domande di rilascio di autorizzazione e' sufficiente il rinvio alla stessa autodichiarazione. Alla domanda deve essere allegato un bozzetto del messaggio da esporre ed il verbale di constatazione redatto da parte del capocantoniere o del personale preposto, in duplice copia, ove e' riportata la posizione nella quale si richiede l'autorizzazione all'installazione. In sostituzione del verbale di constatazione, su richiesta dell'ente competente, puo' essere allegata una planimetria ove sono riportati gli elementi necessari per una prima valutazione della domanda. Possono essere allegati anche piu' bozzetti, precisando il tempo di esposizione previsto per ciascuno di essi e che, comunque, non puo' essere inferiore a tre mesi. Se la domanda e' relativa a cartelli, insegne di esercizio o altri mezzi pubblicitari per l'esposizione di messaggi variabili devono essere allegati i bozzetti di tutti i messaggi previsti."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 6 dopo le parole: "di cartelli" sono aggiunte le seguenti: ", di insegne di esercizio"; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 7 le parole: "entro il trenta novembre" sono sostituite dalle seguenti: "entro il trentuno ottobre"; 
+                            
+                        
+                        
+                            e)
+                            
+                                Al comma 9 dopo le parole: "descrizione del cartello" sono aggiunte le seguenti: ", dell'insegna di esercizio" e dopo le parole: 
+"dei cartelli" sono aggiunte le seguenti: ", delle insegne di esercizio".
 
 ## Art. 44.
 
@@ -401,6 +991,24 @@ e) che non sia realizzata mediante messaggi variabili.
 
 ## Art. 48.
 
+1.
+                    
+                        
+                            All'articolo 58, comma 1, del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Le parole: "rimossi entro dodici mesi" sono sostituite dalle seguenti: "adeguati entro tre anni"; 
+                            
+                        
+                        
+                            b)
+                            
+                                In fine il segno di interpunzione <punto> e' soppresso e sono
+aggiunte le seguenti parole: ", qualora il cartello debba essere rimosso per impossibilita' di adeguamento. Qualora l'autorizzazione scada prima del termine suddetto, il rinnovo della stessa e' subordinato all'adeguamento entro il termine di decorrenza del rinnovo stesso.".
+
 ## Art. 49.
 
 1. Il testo dell'articolo 59 del D.P.R. 16 dicembre 1992, n. 495, e' sostituito dal seguente:
@@ -412,7 +1020,54 @@ e) che non sia realizzata mediante messaggi variabili.
 
 ## Art. 50.
 
+1.
+                    
+                        
+                            All'articolo 60 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1 e' aggiunto in fine il seguente periodo: "Per le pertinenze che costituiscono aree di servizio destinate al rifornimento e al ristoro, le previsioni progettuali si limitano ad individuarne il numero minimo in relazione alle esigenze, in accordo con i piani regionali di riorganizzazione della rete di distribuzione dei carburanti."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2 le parole: "predisposte a cura dell'ente proprietario della strada" sono soppresse; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 4 le parole: "salva la conformita' a norme specifiche per ciascun manufatto." sono sostituite dalle seguenti: "in conformita' con le specifiche norme di settore vigenti.".
+
 ## Art. 51.
+
+1.
+                    
+                        
+                            All'articolo 61 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1 dopo le parole: "Le aree di servizio" sono aggiunte le seguenti: "relative alle strade di tipo A e B di cui all'articolo 2 del codice," e le parole: "e di lavaggio" sono sostituite dalle seguenti: "ed eventualmente di lavaggio"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2 dopo le parole: "di carburante erogato" il segno di interpunzione <punto> e' sostituito dalla <virgola> e sono aggiunte
+le seguenti parole: "fatte salve le norme di settore vigenti."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 3 dopo le parole: "ed F" sono aggiunte le seguenti: "in ambito urbano".
 
 ## Art. 52.
 
@@ -450,6 +1105,30 @@ d) I commi 6, 7 e 8 sono sostituiti dai seguenti:
 e) I commi 9 e 10 sono soppressi.
 
 ## Art. 55.
+
+1.
+                    
+                        
+                            All'articolo 67 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 5: 
+A) dopo le parole: "manufatti di attraversamento" sono inserite le seguenti: "o di occupazione"; 
+B) alla lettera f) il segno di interpunzione <punto> e' sostituito da
+<punto e virgola> ed e' aggiunta la seguente lettera: 
+"g) la somma dovuta per l'uso o l'occupazione delle sedi stradali, prevista dall'articolo 27 del codice."; 
+C) sono aggiunti in fine i seguenti periodi: 
+"In particolare gli enti concessionari dei servizi di cui all'articolo 28 del codice possono stipulare con l'ente proprietario della strada convenzioni generali per la regolamentazione degli attraversamenti e per l'uso e l'occupazione delle sedi stradali, provvedendo contestualmente ad un deposito cauzionale. Dette convenzioni generali tengono luogo, ad ogni effetto di legge, per gli attraversamenti e le occupazioni delle sedi stradali realizzati in conformita' alle loro previsioni, delle singole convenzioni di cui al presente comma. In tal caso, i dati relativi alle lettere a), b) ed e) e le eventuali specifiche prescrizioni attinenti il singolo attraversamento o la singola occupazione stradale sono indicati nel provvedimento di concessione. Per gli stessi enti concessionari la somma dovuta per l'uso e l'occupazione delle sedi stradali e' determinata, per quanto di competenza, con decreto del Ministro dei lavori pubblici, ovvero stabilita dall'ente proprietario della strada entro il limite massimo della somma fissata con il suddetto decreto ministeriale."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 6 dopo le parole: "Le opere di attraversamento" sono inserite le seguenti: "e di occupazione"; in fine il segno di interpunzione <punto> e' soppresso e sono aggiunte di seguito le
+seguenti parole: "che e' limitato alla verifica della rispondenza tra le prescrizioni dell'atto di concessione e la realizzazione effettiva delle opere. Detta verifica deve essere eseguita dall'ente proprietario della strada entro trenta giorni dalla comunicazione di ultimazione dei lavori, effettuata dal concessionario.".
 
 ## Art. 56.
 
@@ -489,7 +1168,54 @@ a) Dopo le parole "di due segnali" sono aggiunte le seguenti: "del medesimo form
 
 ## Art. 62.
 
+1.
+                    
+                        
+                            All'articolo 83 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 7 la parola: "saranno" e' sostituita dalla seguente: "sono"; la parola: <ECCETTO> e' sostituita dalla seguente: <eccetto>; 
+e' aggiunto in fine il seguente periodo: "I simboli dei veicoli possono essere rappresentati con senso di marcia concorde a quello delle frecce in caso di abbinamento con segnali di prescrizione direzionali."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 8 in fine il segno di interpunzione <punto> e' soppresso
+e sono aggiunte le seguenti parole: ", e quello di <FINE> nei casi in
+cui non esiste il corrispondente segnale."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 10 le parole: "modello 6" sono sostituite dalle seguenti: 
+"modello II.6".
+
 ## Art. 63.
+
+1.
+                    
+                        
+                            All'articolo 84 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 3 il segno di interpunzione: <due punti> e' sostituito
+dal seguente: <punto> e la parola: "per" e' sostituita dalla
+seguente: "Per"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 7 la parola: "obbligo" e' sostituita dalla seguente:
+"prescrizione".
 
 ## Art. 64.
 
@@ -517,6 +1243,37 @@ a) E' aggiunto in fine il seguente periodo: "Il suo impiego e' obbligatorio sull
 
 ## Art. 69.
 
+1.
+                    
+                        
+                            All'articolo 104 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 2 e' aggiunto in fine il seguente periodo: "Tale obbligo non sussiste per i segnali a validita' zonale."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 4 le parole: "devono essere posti dove inizia il divieto o l'obbligo;" sono soppresse; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 5 in fine il segno di interpunzione <punto> e' soppresso
+e sono aggiunte le seguenti parole: ", eccetto i casi in cui la prescrizione non finisca in corrispondenza di una intersezione."; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 6 la parola: "ECCETTO" e' sostituita dalla seguente:
+"eccetto".
+
 ## Art. 70.
 
 1. All'articolo 110, comma 3, del D.P.R. 16 dicembre 1992, n. 495, e' apportata la seguente modificazione:
@@ -524,7 +1281,32 @@ a) Le parole da: "o dell'impresa" a: "sulla strada" sono soppresse.
 
 ## Art. 71.
 
+1.
+                    
+                        
+                            All'articolo 112, comma 3, del D.P.R. 16 dicembre 1992, n. 495, e' apportata la seguente modificazione: 
+
+                        
+                        
+                            a)
+                            
+                                In fine il segno di interpunzione <punto> e' soppresso e sono
+aggiunte le seguenti parole: "o di fermarsi e dare la precedenza.".
+
 ## Art. 72.
+
+1.
+                    
+                        
+                            All'articolo 117, comma 1, del D.P.R. 16 dicembre 1992, n. 495, e' apportata la seguente modificazione: 
+
+                        
+                        
+                            a)
+                            
+                                Alla lettera d) il segno di interpunzione <punto e virgola> e'
+sostituito dal seguente: <punto> ed e' aggiunto in seguente periodo:
+"Indica il divieto di transito per i velocipedi;".
 
 ## Art. 73.
 
@@ -596,6 +1378,52 @@ d) Al comma 9 le parole: "vigili urbani" sono sostituite dalle seguenti: "polizi
 
 ## Art. 83.
 
+1.
+                    
+                        
+                            All'articolo 134 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1, la lettera b) e' sostituita dalla seguente: "b) industriali, artigianali, commerciali;"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 4 e' aggiunto in fine il seguente periodo: "L'inizio del territorio comunale o di localita' entro il territorio comunale di particolare interesse puo' essere indicato con segnali rettangolari a fondo marrone di dimensioni ridotte."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 5 le parole: "all'industria" sono sostituite dalle seguenti: "alle zone di attivita'" ed e' aggiunto in fine il seguente periodo: "Ove non esista una zona di attivita' concentrate, l'uso di segnali di avvio ad una singola azienda e' consentito sulle strade extraurbane se l'azienda stessa e' destinazione od origine di un consistente traffico veicolare, sempre nel rispetto delle prescrizioni di cui ai commi 2 e 3."; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 6 le parole: "di tipo <industria>" sono sostituite dalle
+seguenti: "di attivita' singola" e le parole: "<zona industriale>"
+sono sostituite dalle seguenti: "<zona industriale, zona artigianale,
+zona commerciale>"; 
+                            
+                        
+                        
+                            e)
+                            
+                                Al comma 7 dopo le parole: "o le zone industriali" sono inserite le seguenti: ", artigianali o commerciali"; dopo le parole: "la zona" la parola: "industriale" e' soppressa e le parole: "<zona
+industriale>" sono sostituite dalle seguenti: "<zona industriale>" o
+"<zona artigianale>" o "<zona commerciale>"; 
+                            
+                        
+                        
+                            f)
+                            
+                                Al comma 10, lettera a) le parole: "al punto b)" sono sostituite dalle seguenti: "alla lettera b)".
+
 ## Art. 84.
 
 1. All'articolo 135 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
@@ -623,6 +1451,30 @@ b) Al comma 4 la parola: "scivolosita'" e' sostituita dalla seguente: "antiscivo
 c) Al comma 8 sono aggiunti in fine i seguenti periodi: "Le superfici dalle quali e' stata rimossa la segnaletica non devono scostarsi sostanzialmente, per quanto riguarda la loro rugosita', tonalita' cromatica e caratteristiche di riflessione, dalla superficie stradale circostante. Il deflusso dell'acqua superficiale non deve essere ulteriormente ostacolato.".
 
 ## Art. 87.
+
+1.
+                    
+                        
+                            All'articolo 138 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1 le parole: "per tutte le altre strade" sono sostituite dalle seguenti: "per le strade extraurbane secondarie, urbane di scorrimento ed urbane di quartiere e 10 cm per le strade locali"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 4 e' aggiunto in fine il seguente periodo: "Particolare cura deve essere posta nella riverniciatura delle linee discontinue affinche' i nuovi segmenti coincidano il piu' possibile con quelli vecchi, in modo da apparire chiari e nitidi, senza possibilita' di errore."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 5 in fine il segno di interpunzione <punto> e' soppresso
+e sono aggiunte le seguenti parole: "o in caso di raccordo con le linee di arresto.".
 
 ## Art. 88.
 
@@ -697,6 +1549,30 @@ a) Le parole: "i ciclisti" sono sostituite dalle seguenti: "i conducenti dei vel
 
 ## Art. 100.
 
+1.
+                    
+                        
+                            All'articolo 165 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1, la lettera a) e' sostituita dalla seguente: "a) una o due luci circolari lampeggianti;"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2 in fine il segno di interpunzione <punto> e' soppresso
+e sono aggiunte le seguenti parole: "o installate al di sopra del segnale."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 4 le parole: "alle biciclette" sono sostituite dalle seguenti: "ai velocipedi".
+
 ## Art. 101.
 
 1. All'articolo 166, comma 2, del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
@@ -710,6 +1586,47 @@ b) Il comma 4 e' sostituito dal seguente:
 "4. L'impianto semaforico deve essere dotato di dispositivi che non consentano la contemporaneita' di segnali in contrasto fra loro e che, in caso di blocco o di guasti, rendano automatico il passaggio dell'impianto a luci gialle lampeggianti.".
 
 ## Art. 103.
+
+1.
+                    
+                        
+                            All'articolo 170 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1: 
+A) alla lettera b) il segno di interpunzione <punto> e' sostituito
+dal <punto e virgola>; 
+B) e' aggiunta la seguente lettera: "c) delineatori di margine luminosi."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 5 dopo le parole: "a luce gialla" e' aggiunta la seguente: "fissa" e in fine il segno di interpunzione <punto> e'
+soppresso e sono aggiunte le seguenti parole: ", oltre ai segnali di prescrizione necessari."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Il comma 8 e' sostituito dal seguente: 
+"8. I bordi della carreggiata e le strisce continue di corsia o di mezzeria possono essere evidenziati mediante appositi dispositivi, a luce propria fissa, incassati nella carreggiata e rivolti verso la direzione di provenienza dei veicoli, dello stesso colore della corrispondente segnaletica orizzontale."; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 9 dopo le parole: "a luce propria gialla" e' aggiunta la seguente: "fissa"; 
+                            
+                        
+                        
+                            e)
+                            
+                                E' aggiunto in fine il seguente comma: 
+"10. I delineatori di margine luminosi devono essere a luce fissa, con gli stessi colori dei delineatori normali di margine di cui all'articolo 173 e installati con le stesse modalita'. Non devono provocare abbagliamento.".
 
 ## Art. 104.
 
@@ -741,6 +1658,31 @@ d) Il primo periodo del comma 7 e' sostituito dai seguenti: "Il presegnalamento 
 e) Al comma 9 dopo le parole: "di velocita'" e' aggiunta la seguente: "prefabbricati"; e dopo le parole: "e la sicurezza stradale" la parola "e" e' soppressa e sono inserite le seguenti: ". Tutti i tipi di rallentatori sono".
 
 ## Art. 108.
+
+1.
+                    
+                        
+                            All'articolo 180 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 2 la parola: "possono" e' sostituita dalla seguente: "devono"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 5 le parole: "Non devono" sono sostituite dalle seguenti: 
+"Devono essere visibili e non devono,"; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 6 la parola: "approvati" e' sostituita dalla seguente:
+"autorizzati".
 
 ## Art. 109.
 
@@ -840,7 +1782,59 @@ B) conseguentemente la preesistente lettera "dd)" e' sostituita dalla seguente: 
 
 ## Art. 121.
 
+1.
+                    
+                        
+                            All'articolo 204 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1: 
+A) alla lettera d) la parola "pulverulenti" e' sostituita dalla seguente: "pulvirulenti"; 
+B) dopo la lettera "l)" sono aggiunte le seguenti lettere: 
+ "m) carrozzerie, anche ad altezza variabile, per il trasporto 
+ esclusivo di animali vivi; 
+ n) telai attrezzati per il trasporto di imbarcazioni o di 
+ velivoli;"; 
+C) conseguentemente la preesistente lettera "m)" e' sostituita dalla seguente: "o) altre carrozzerie riconosciute idonee al trasporto specifico dal Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C..". 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2, alla lettera c) il segno di interpunzione <punto> e'
+sostituito da <punto e virgola>e sono aggiunte in fine le seguenti
+lettere: 
+ "d) attrezzati con pompe; 
+ e) attrezzati con scale; 
+ f) attrezzati con gru; 
+ g) attrezzati con saldatrici; 
+ h) attrezzati con scavatrici; 
+ i) attrezzati con perforatrici; 
+ l) attrezzati con gruppi elettrogeni; 
+ m) attrezzati con bobine avvolgicavi; 
+ n) attrezzati per uso abitazione; 
+ o) attrezzati per uso ufficio; 
+ p) attrezzati per uso officina; 
+ q) attrezzati per uso negozio; 
+ r) attrezzati con laboratori mobili o con apparecchiature mobili  di rilevamento; 
+ s) dotati di altre attrezzature riconosciute idonee per l'uso 
+ speciale dal Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C..".
+
 ## Art. 122.
+
+1.
+                    
+                        
+                            All'articolo 207, comma 1, del D.P.R. 16 dicembre 1992, n. 495, e' apportata la seguente modificazione: 
+
+                        
+                        
+                            a)
+                            
+                                Alla lettera a) e alla lettera b) la cifra: "1,25" e' sostituita, ogni volta, da: "1,35".
 
 ## Art. 123.
 
@@ -848,6 +1842,19 @@ B) conseguentemente la preesistente lettera "dd)" e' sostituita dalla seguente: 
 a) Le parole: "sospensione elastica" sono sostituite dalle seguenti: "idonee sospensioni".
 
 ## Art. 124.
+
+1.
+                    
+                        
+                            All'articolo 211, comma 1, del D.P.R. 16 dicembre 1992, n. 495, e' apportata la seguente modificazione: 
+
+                        
+                        
+                            a)
+                            
+                                In fine il segno di interpunzione <punto> e' sostituito da
+<virgola> ed e' aggiunto il seguente periodo: "nonche' di quelle
+eventualmente riportate, ai fini della sicurezza della circolazione stradale e della destinazione, sulla relativa carta di circolazione rilasciata da un ufficio provinciale della Direzione generale della M.C.T.C..".
 
 ## Art. 125.
 
@@ -885,7 +1892,58 @@ D) dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della 
 
 ## Art. 129.
 
+1.
+                    
+                        
+                            All'articolo 223 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Nella rubrica dopo le parole: "di frenatura" sono aggiunte le seguenti: "e di segnalazione acustica"; 
+                            
+                        
+                        
+                            b)
+                            
+                                AL comma 3 la parola: "o" e' sostituita dal segno di interpunzione: "virgola" e dopo la parola: "flessibili" sono aggiunte le seguenti: "o con sistemi di trasmissione idraulica"; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 4 le parole: "tubolari metalliche" sono soppresse; 
+                            
+                        
+                        
+                            d)
+                            
+                                E' aggiunto il seguente comma: 
+"5. Il suono emesso dal campanello deve essere di intensita' tale da poter essere percepito ad almeno 30 m di distanza.".
+
 ## Art. 130.
+
+1.
+                    
+                        
+                            Il testo dell'articolo 224 del D.P.R. 16 dicembre 1992, n. 495, e' sostituito dal testo dell'articolo 225 del D.P.R. medesimo, con le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: "di 40 cm" sono sostituite dalle seguenti: "di 30 cm"; 
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 le parole: a 60 cm" sono sostituite dalle seguenti: "a 1 m"; 
+c) il comma 6 e' soppresso e i successivi commi sono conseguentemente rinumerati; 
+d) al preesistente comma 7, rinumerato comma 6, dopo la parola: "catadiottrico" e' aggiunta la seguente: "posteriore"; le parole: "Il dispositivo deve essere posto sul paragrafo posteriore, ad una altezza non superiore a 55 cm" sono sostituite dalle seguenti: "Il dispositivo deve essere posto ad una altezza non superiore a 90 cm"; 
+e) al preesistente comma 8, rinumerato comma 7, la parola: "catadiottri" e' sostituita dalla seguente: "catadiottrici"; 
+f) al preesistente comma 10, rinumerato comma 9, dopo le parole: "dei dispositivi" e' aggiunta la seguente: "catadiottrici".
 
 ## Art. 131.
 
@@ -902,6 +1960,46 @@ Tale dichiarazione e' sottoscritta, sotto la propria responsabilita', dal produt
 7. Sono consentiti i rimorchi per velocipedi purche' la lunghezza del velocipede, compreso il rimorchio, non superi 3 m. La larghezza massima totale del rimorchio non deve essere superiore a 75 cm e l'altezza massima, compreso il carico, non deve essere superiore a 1 m. La massa trasportabile non deve essere superiore a 50 Kg. Per la circolazione notturna il rimorchio e' equipaggiato con i dispositivi di segnalazione visiva posteriore e laterale previsti per i velocipedi all'articolo 224.".
 
 ## Art. 132.
+
+1.
+                    
+                        
+                            All'articolo 226 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                I commi 1 e 2 sono sostituiti dai seguenti: 
+"1. I veicoli a trazione animale, con i quali puo' essere esercitato il servizio di piazza, ai sensi dell'articolo 70, del codice hanno le seguenti caratteristiche: 
+ a) gli elementi che costituiscono la struttura ed i relativi collegamenti, devono essere realizzati con materiali idonei, privi di difetto e di sezione sufficiente per resistere alle sollecitazioni impresse al veicolo in condizioni di circolazione a pieno carico.
+Tutte le parti dove si riscontrano condizioni di attrito devono essere opportunamente lubrificate; 
+ b) le ruote del veicolo devono essere non piu' di quattro; le due ruote anteriori devono essere posizionate sull'asse del timone collegato alla stanga o alle stanghe di attacco degli animali; 
+ c) le ruote devono essere dotate di cerchioni in ferro di sufficiente spessore in rapporto alla massa a pieno carico del mezzo e devono essere gommate, essendo a tal fine sufficiente la bordatura in gomma, o in materiale similare, delle ruote medesime; 
+ d) la larghezza massima non deve superare, ai mozzi delle ruote posteriori, 1,80 m e, ai mozzi delle ruote anteriori, 1,60 m. La lunghezza massima, escluse le stanghe, non deve superare 3,50 m. Le stanghe devono essere proporzionate alla lunghezza del veicolo e sufficienti per un corretto attacco degli animali posti al tiro. 
+I suddetti veicoli sono, inoltre, dotati: 
+ e) di un doppio dispositivo di frenatura, di cui uno di stazionamento e l'altro di servizio; quest'ultimo agisce su tutte le ruote; 
+ f) di non piu' di cinque posti oltre quello del conducente, che deve essere collocato in posizione adeguata per la guida degli animali e per consentire la piu' ampia visibilita' della strada. La postazione di guida deve, comunque, essere anteriore a quella dei passeggeri, che possono essere collocati anche in doppia fila. 
+Nella zona posteriore del veicolo puo' essere ricavato un vano, appositamente attrezzato, per il trasporto dei bagagli, che non devono superare complessivamente la massa di 50 Kg. Il traino del veicolo deve avvenire con non piu' di due animali da tiro. 
+2. Per poter effettuare il servizio di piazza, il veicolo, se rispondente e conforme a quanto previsto al comma 1, e' approvato da parte del competente ufficio comunale, che lo iscrive in apposito registro. Dell'avvenuta approvazione si da' atto mediante rilascio di una targa su cui sono riportate le parole: "servizio di piazza", come previsto dall'articolo 70, comma 1, del codice, nonche' il numero e la data di iscrizione nel suddetto registro. La targa e' apposta nella parte posteriore del veicolo in modo visibile."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 4, alla lettera d) le parole: "al tipo ed" sono soppresse e la parola: "omologazione" e' sostituita dalla seguente: "approvazione"; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 5 la cifra: "30" e' costituita dalla parola: "trenta"; 
+                            
+                        
+                        
+                            d)
+                            
+                                AL comma 7 le cifre: "5" e "30" sono sostituite rispettivamente dalle parole: "cinque" e "trenta" e le parole: "con le modalita' fissate nel disciplinare tecnico di cui al" sono sostituite dalle seguenti: "mediante una verifica della rispondenza del veicolo a quanto previsto nel".
 
 ## Art. 133.
 
@@ -949,7 +2047,126 @@ b) Il comma 3 e' sostituito dal seguente:
 
 ## Art. 139.
 
+1.
+                    
+                        
+                            All'articolo 236 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1: 
+A) prima della parola: "indicate" sono inserite le seguenti: "tra quelle"; 
+B) dopo le parole: "al presente titolo" sono inserite le seguenti: "ed individuate con decreto del Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C.,"; 
+C) dopo la parola: "ufficio" e' soppressa, ogni volta, la seguente: "provinciale"; 
+D) le parole: "competente in base" sono sostituite dalle seguenti: "competente in relazione"; 
+E) le parole "dove ha sede la ditta" sono sostituite dalle seguenti: "nel cui territorio di competenza ha sede la ditta"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2: 
+A) il primo periodo e' sostituito dal seguente: 
+"Ogni modifica riguardante uno dei seguenti elementi: 
+a) la massa complessiva massima; 
+b) la massa massima rimorchiabile; 
+c) le masse massime sugli assi; 
+d) il numero di assi; 
+e) gli interassi; 
+f) le carreggiate; 
+g) gli sbalzi; 
+h) il telaio anche se realizzato con una struttura portante o equivalente; 
+i) l'impianto frenante o i suoi elementi costitutivi; 
+l) la potenza massima del motore; 
+m) il collegamento del motore alla struttura del veicolo e' subordinata al rilascio, da parte della casa costruttrice del veicolo, di apposito nulla osta, salvo diverse o ulteriori 
+prescrizioni della casa stessa." 
+B) dopo la parola: "ufficio" e' soppressa la seguente: "provinciale"; 
+                            
+                        
+                        
+                            c)
+                            
+                                E' aggiunto in fine il seguente comma: 
+"4. La Direzione generale della M.C.T.C. definisce le competenze dei propri uffici periferici, tenuto anche conto della necessita' di distribuzione dei carichi di lavoro e delle possibilita' operative degli uffici stessi, nonche' delle particolari collocazioni territoriali delle ditte costruttrici o trasformatrici.".
+
 ## Art. 140.
+
+1.
+                    
+                        
+                            All'articolo 239 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                La rubrica e' sostituita dalla seguente: 
+"Revisioni presso imprese o consorzi e requisiti tecnico-professionali degli stessi"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 1: 
+A) dopo le parole: "di autoriparazione" sono aggiunte le seguenti: ", di seguito denominate imprese,"; 
+B) le parole: "di piu' officine presso cui" sono sostituite dalle seguenti: "di piu' sedi operative, ciascuna delle quali risponde ai requisiti di cui ai commi 2 e 3 e presso le quali"; 
+C) la parola: "officine" e' in fine sostituita dalla seguente: "sedi"; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 2: 
+A) le parole: "all'articolo 80, comma 8, del codice" sono sostituite dalle seguenti: "al comma 1"; 
+B) dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione"; 
+C) le parole "di cui al comma indicato" sono sostituite dalle seguenti: "di cui all'articolo 80, comma 8, del codice"; 
+D) la lettera a) e' sostituita dalla seguente: 
+"a) essere iscritte nel registro di cui all'articolo 2, comma 1, della legge 5 febbraio 1992, n. 122, per tutte le attivita' delle quattro sezioni previste dall'articolo 1, comma 3, della stessa legge, ovvero essere iscritte nello speciale elenco previsto dall'articolo 4, comma 2, della medesima legge per tutte le attivita' delle quattro sezioni predette;"; 
+E) alla lettera b) dopo le parole: "adeguata capacita' finanziaria," sono aggiunte le seguenti: "stabilita con decreto del Ministro dei trasporti e della navigazione,"; 
+F) alla lettera c) dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione"; 
+                            
+                        
+                        
+                            d)
+                            
+                                Il comma 3 e' soppresso; 
+                            
+                        
+                        
+                            e)
+                            
+                                Il preesistente comma 4 diventa comma 3 ed e' modificato come segue: 
+A) il primo periodo e' sostituito dal seguente: 
+"3. Le imprese per le quali sono rilasciati gli atti di concessione devono essere dotate di locali che, oltre a possedere le prescritte autorizzazioni amministrative, devono avere:"; 
+B) la lettera a) e' sostituita dalla seguente: "a) superficie di 
+officina non inferiore a 120 m2 ;" 
+C) alla lettera b) dopo la parola: "larghezza" sono aggiunte le seguenti: ", lato ingresso,"; 
+D) Le parole: "Le officine devono" sono sostituite dalle seguenti: "Le imprese devono"; dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione"; 
+                            
+                        
+                        
+                            f)
+                            
+                                Il preesistente comma 5 diventa comma 4 ed e' sostituito dal seguente: 
+"4. La concessione di cui all'art. 80, comma 8, del codice, puo' altresi' essere rilasciata ai consorzi e alle societa' consortili, anche in forma di cooperativa, di seguito denominati consorzi, appositamente costituiti tra imprese di autoriparazione. A tale scopo, ciascuna impresa: 
+a) deve avere la propria officina nel territorio dello stesso comune in cui il consorzio di appartenenza puo' essere autorizzato ad operare; 
+b) deve essere iscritta per tutte le attivita' di almeno una sezione del registro di cui all'articolo 2, comma 1, della legge 5 febbraio 1992, n. 122, ovvero dello speciale elenco previsto dall'articolo 4, comma 2, della medesima legge. Qualora sia iscritta in piu' sezioni, sempre per tutte le attivita' previste in ciascuna di esse, puo' partecipare a raggruppamenti individuati nell'ambito di un consorzio esclusivamente per il numero di sezioni di propria iscrizione strettamente necessario a garantire a ciascun raggruppamento la copertura di tutte le quattro sezioni del registro citato, senza cioe' determinare duplicazioni di competenze tra le imprese di autoriparazione partecipanti al raggruppamento stesso; 
+c) puo' partecipare ad altri consorzi solo se titolare di piu' officine autorizzate. Ciascuna officina puo' fare parte di un solo consorzio. Le sedi operative delle imprese di cui ai commi 1 e 2 non possono partecipare, neanche limitatamente ad alcune sezioni, a consorzi; 
+d) deve avere una o piu' officine ubicate in locali aventi le caratteristiche seguenti: 
+d.1) superficie non inferiore ad 80 m2 ; 
+d.2) larghezza, lato ingresso, non inferiore a 4 m; 
+d.3) ingresso avente larghezza ed altezza rispettivamente non inferiori a 2,50 m e 3,50 m; 
+ed essere dotata delle attrezzature e strumentazioni tra quelle indicate nell'appendice X al presente titolo nonche' di quelle indicate nelle tabelle approvate col decreto del Ministro dei trasporti e della navigazione di cui all'articolo 3, comma 1, lettera b), della legge 5 febbraio 1992, n. 122, necessarie per la propria attivita' di sezione."; 
+                            
+                        
+                        
+                            g)
+                            
+                                Sono aggiunti in fine i seguenti commi: 
+"5. I consorzi, al fine dell'affidamento in concessione delle revisioni di cui all'articolo 80, comma 8, del codice, devono altresi' possedere i requisiti previsti al comma 2, lettere b) e c). 
+6. Sono a carico dell'impresa, o del consorzio che richiede la concessione, tutte le spese inerenti i sopralluoghi effettuati dai funzionari della Direzione generale della M.C.T.C., per accertare la sussistenza dei requisiti tecnico-professionali necessari. Gli importi relativi, unitamente a quelli riguardanti i sopralluoghi volti a verificare il permanere dei predetti requisiti, sono stabiliti con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, sentito il Ministro delle finanze.".
 
 ## Art. 141.
 
@@ -968,6 +2185,38 @@ d) Al comma 3 dopo le parole: "Ministero dei Trasporti" sono aggiunte le seguent
 
 ## Art. 143.
 
+1.
+                    
+                        
+                            All'articolo 242 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1: 
+A) le parole: "nella lettera a)" sono sostituite dalle seguenti: "nelle lettere a) e b)"; 
+B) dopo le parole: "dirigenti tecnici" e' inserita la seguente: "ingegneri"; 
+C) le parole da: "degli impiegati" a "qualifica funzionale" sono sostituite dalle seguenti: "dei funzionari"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2 il periodo da: "Le visite e prove" a: "alla citata lettera a)" e' soppresso e dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione"; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 3 le parole: "ai commi 1 e 2" sono sostituite dalle seguenti: "nella tabella III.1" e dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione"; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 4 dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione".
+
 ## Art. 144.
 
 1. All'articolo 243, comma 1, del D.P.R. 16 dicembre 1992, n. 495, e' apportata la seguente modificazione:
@@ -980,6 +2229,23 @@ a) Nella rubrica le parole: "Locazione senza conducente e servizio" sono sostitu
 b) Il comma 1 e' soppresso e il preesistente comma 2 diventa comma 1.
 
 ## Art. 146.
+
+1.
+                    
+                        
+                            All'articolo 246 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1 prima della parola: "regolamento" e' inserita la seguente: "presente" e le parole: "alla lettera F, punto g)" sono sostituite dalle seguenti: "al punto F, lettera g),"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2 dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione".
 
 ## Art. 147.
 
@@ -1002,12 +2268,45 @@ b) E' aggiunto in fine il seguente comma:
 
 ## Art. 150.
 
+1.
+                    
+                        
+                            All'articolo 252 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Sono aggiunti i seguenti commi: 
+"2. Nel caso di trasferimenti di residenza, comunicati alle anagrafi comunali sei mesi dopo la data di pubblicazione del presente regolamento nella Gazzetta Ufficiale della Repubblica, di intestatari di contrassegni di identificazione per ciclomotori, i comuni devono trasmettere all'ufficio centrale operativo della Direzione generale della M.C.T.C., per via telematica o su supporto magnetico secondo i tracciati record prescritti dalla stessa Direzione generale della M.C.T.C., notizia dell'avvenuto trasferimento di residenza, nel termine di un mese decorrente dalla data di registrazione della variazione anagrafica. Gli ufficiali di anagrafe che ricevono la comunicazione del trasferimento di residenza, senza che sia stata ad essi dimostrata, previa consegna delle attestazioni, l'avvenuta effettuazione dei versamenti degli importi dovuti ai sensi della legge 1 dicembre 1986, n. 870, per l'operazione in questione, ovvero non sia stato ad essi contestualmente dichiarato che il soggetto trasferito non e' proprietario di contrassegni di identificazione per ciclomotori, sono responsabili in solido dell'omesso pagamento.
+L'ufficio centrale operativo sopra citato trasmette per posta, alla nuova residenza dell'intestatario, la ricevuta dell'avvenuta variazione. 
+3. Nei casi non previsti al comma 2, la variazione di residenza deve essere comunicata dagli interessati ad un ufficio provinciale della Direzione generale della M.C.T.C. che provvede al rilascio della ricevuta dell'avvenuta variazione nonche' al conseguente aggiornamento del sistema informatico della Direzione generale M.C.T.C..".
+
 ## Art. 151.
 
 1. All'articolo 255, comma 2, del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
 a) Alla lettera a) dopo le parole: Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione" e all'ultimo periodo, le parole: "Ministro dei trasporti" sono sostituite dalle seguenti: "Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C.".
 
 ## Art. 152.
+
+1.
+                    
+                        
+                            All'articolo 256 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 2, alla lettera b) le parole: "i rimorchi agricoli e" sono soppresse e le parole: "di cui all'articolo 113, comma 1" sono sostituite dalle seguenti: "quando ricorrono le condizioni previste dall'articolo 113, comma 2, del codice"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 4), alla lettera b) il segno di interpunzione <punto> e'
+sostituito dal seguente: <punto e virgola>; e' aggiunta infine la
+seguente lettera: "c) i contrassegni di identificazione, di cui devono essere muniti i ciclomotori ai sensi dell'art. 97, comma 1, del codice.".
 
 ## Art. 153.
 
@@ -1086,6 +2385,18 @@ c) Il comma 3 e' sostituito dal seguente:
 
 ## Art. 163.
 
+1.
+                    
+                        
+                            All'articolo 282, comma 1, del D.P.R. 16 dicembre 1992, n. 495, e' apportata la seguente modificazione: 
+
+                        
+                        
+                            a)
+                            
+                                Il segno di interpunzione <virgola> tra le parole: "semoventi " e: 
+"di cui" e' soppresso.
+
 ## Art. 164.
 
 1. All'articolo 283, comma 2, del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
@@ -1106,6 +2417,17 @@ b) Il comma 3 e' sostituito dal seguente:
 "3. La dichiarazione attestante che il richiedente l'immatricolazione di una macchina agricola e' titolare di azienda agricola o di impresa che effettua lavorazioni meccanico-agrarie o che esercita la locazione di macchine agricole di cui all'articolo 110, comma 2, del codice, e' rilasciata dal competente assessorato delle regioni, ovvero delle province autonome di Trento e Bolzano. Nel caso di enti o consorzi pubblici, la dichiarazione di titolarita' e' rilasciata dagli stessi interessati ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15 e successive modificazioni e deve assicurare l'esclusivo uso della macchina che si intende immatricolare, volto a lavorazioni agricole o forestali o di manutenzione di parchi e giardini pubblici. In ambedue i casi, la dichiarazione di assunzione di responsabilita', prevista dall'articolo 110, comma 3 del codice, puo' essere omessa quando dalla documentazione presentata gia' risulti la proprieta' della macchina agricola da parte di colui che ne richiede il trasferimento di proprieta'.".
 
 ## Art. 167.
+
+1.
+                    
+                        
+                            All'articolo 296, comma 1, del D.P.R. 16 dicembre 1992, n. 495, e' apportata la seguente modificazione: 
+
+                        
+                        
+                            a)
+                            
+                                Le parole: "Ministro dei Trasporti" sono sostituite, ogni volta, dalle seguenti:"Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.C.".
 
 ## Art. 168.
 
@@ -1130,9 +2452,71 @@ c) Le parole: "diverse da" sono sostituite dalle seguenti: "a integrazione o mod
 
 ## Art. 171.
 
+1.
+                    
+                        
+                            All'articolo 306, comma 1, del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                La lettera c) e la lettera d) sono sostituite dalle seguenti: 
+"c) art. 268 (autorizzazione alla circolazione delle macchine eccezionali); 
+d) art. 269 (blocco dei comandi dei sistemi di lavoro degli attrezzi delle macchine);".
+
 ## Art. 172.
 
+1.
+                    
+                        
+                            All'articolo 308 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Alla rubrica sono aggiunte in fine le seguenti parole: " Guida dei veicoli utilizzati per il soccorso stradale"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 3 dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione" e le parole: "di concerto con il Ministro dell'interno" sono soppresse; 
+                            
+                        
+                        
+                            c)
+                            
+                                E' aggiunto in fine il seguente comma: 
+"4. Le disposizioni di cui all'articolo 116, commi 3 e 4, del codice, si applicano anche nel caso di complessi formati da autoveicolo, anche non classificato per il soccorso stradale, e da rimorchio costituito da veicolo in avaria. 
+E' sufficiente che il conducente del complesso sia in possesso della sola patente di guida del veicolo traente isolato, quando venga rimorchiato un autoveicolo su cui sia presente altro conducente, munito della relativa patente di guida ed in grado di azionare i dispositivi di frenatura e di sterzo del veicolo trainato, cosi' da costituire valido ausilio per la corretta marcia del complesso stesso.".
+
 ## Art. 173.
+
+1.
+                    
+                        
+                            All'articolo 309 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Il comma 1 e' sostituito dal seguente: 
+"1. Il gruppo sanguigno di appartenenza del titolare, qualora annotato sulla patente di guida, e' riportato nell'apposito spazio a cio' destinato, come risulta a pagina 2 del modello IV.2."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 2 le parole: "da riportare sulla patente di guida" sono soppresse; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 4 dopo le parole: "gruppo sanguigno" sono aggiunte le seguenti: ", qualora annotato,".
 
 ## Art. 174.
 
@@ -1141,6 +2525,19 @@ a) Al comma 1, alla lettera KD dopo la parola: "autotreni," inserire la seguente
 b) Al comma 2 le parole: "cui abilita il certificato KB" sono sostituite dalle seguenti: "cui abilitano i certificati di tipo KB e KE." e le parole da: "; il certificato di abilitazione" a: "di tipo KB." sono soppresse.
 
 ## Art. 175.
+
+1.
+                    
+                        
+                            All'articolo 313, comma 5, del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Il segno di interpunzione <punto e virgola> e' sostituito da
+<punto> e le parole da: "i titolari" a: "di emergenza." sono
+soppresse.
 
 ## Art. 176.
 
@@ -1187,6 +2584,41 @@ b) I commi 9 e 10 sono sostituiti dai seguenti:
 2. Nel caso sia richiesta, ai sensi dell'articolo 119, comma 9, del codice, una valutazione psicodiagnostica, devono essere effettuate, oltre alle prove di cui al comma 1, anche altre prove di attenzione, di percezione e, su specifica indicazione del medico o della commissione medica richiedente, prove di valutazione della personalita'. In ogni caso gli psicologi che procedono alle valutazioni previste dal presente articolo devono essere in possesso, oltre che dei requisiti di cui all'articolo 119, comma 9, del codice, di una specifica formazione nel settore della sicurezza stradale.".
 
 ## Art. 183.
+
+1.
+                    
+                        
+                            All'articolo 325 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Nella rubrica le parole: "A, B e C" sono sostituite dalle seguenti: "A, B, C e D"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 1, lettera c) dopo le parole: " A e B" e' soppressa la parola: "normali"; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 2 dopo le parole: " A e B" e' soppressa la parola: "normali"; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 5 le parole da:", purche'" a: "occhiali correttivi" sono soppresse; 
+                            
+                        
+                        
+                            e)
+                            
+                                Al comma 6 le parole: "della patente speciale di categoria C" sono sostituite dalle seguenti: "delle patenti speciali di categoria C e D" e le parole: "della patente normale di categoria C" sono sostituite dalle seguenti: "delle patenti di guida di categoria C e D.".
 
 ## Art. 184.
 
@@ -1302,6 +2734,18 @@ b) Al comma 2 dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti
 
 ## Art. 200.
 
+1.
+                    
+                        
+                            All'articolo 355, comma 1, del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Alla lettera a) la parola: "vari" e' soppressa e dopo le parole: "di ruota" il segno di interpunzione <punto e virgola> e' soppresso e
+sono aggiunte le seguenti parole: "indicati dal richiedente l'omologazione del prototipo;".
+
 ## Art. 201.
 
 1. All'articolo 357 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni:
@@ -1315,6 +2759,18 @@ a) Al comma 1 dopo le parole: "del codice" sono aggiunte le seguenti: ", che fa 
 b) Al comma 4 le parole: "negli altri Stati della Comunita' Economica Europea" sono soppresse.
 
 ## Art. 203.
+
+1.
+                    
+                        
+                            All'articolo 360, comma 5, del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                Il segno di interpunzione <due punti> e' sostituito dal
+seguente: "punto" ed e' aggiunto in fine il seguente periodo: "Una competizione ciclistica o atletica in corso di svolgimento puo' essere indicata con analoghi cartelli riportanti le iscrizioni "INIZIO GARA......." e "FINE GARA......." con le modalita' prescritte nel provvedimento di autorizzazione della gara.".
 
 ## Art. 204.
 
@@ -1341,7 +2797,48 @@ a) Le parole: "commi 2, 3 e 4" sono sostituite dalle seguenti: "commi 2 e 4" e l
 
 ## Art. 208.
 
+1.
+                    
+                        
+                            All'articolo 372 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 2 dopo le parole: "Ministro dei trasporti" sono aggiunte le seguenti: "e della navigazione"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 3 in fine il segno di interpunzione <punto> e' soppresso
+ed e' aggiunto il seguente periodo: ", compreso l'attraversamento dei piazzali delle stazioni autostradali a particolari categorie di utenti e operatori autorizzati dall'ente proprietario.".
+
 ## Art. 209.
+
+1.
+                    
+                        
+                            All'articolo 373 del D.P.R. 16 dicembre 1992, n. 495, come modificato dal D.P.R. 16 dicembre 1993, n. 575, e' apportata la seguente modificazione: 
+
+                        
+                        
+                            a)
+                            
+                                Il comma 2 e' sostituito dal seguente: 
+"2. Sono esentati dal pagamento del pedaggio: 
+a) i veicoli della Polizia di Stato targati <Polizia> e dell'A.N.A.S. 
+muniti di segni contraddistintivi; 
+b) i veicoli dell'Arma dei Carabinieri con targa E.I. muniti di libretto di circolazione del Ministero della difesa con annotazione di carico all'Arma dei Carabinieri; 
+c) i veicoli con targa C.R.I., nonche' i veicoli delle associazioni di volontariato e degli organismi similari non aventi scopo di lucro, adibiti al soccorso nell'espletamento del relativo specifico servizio e provvisti di apposito contrassegno approvato con decreto del Ministro dei trasporti e della navigazione e del Ministro dei lavori pubblici; 
+d) i veicoli con targa V.F., nonche' quelli in dotazione al Corpo permanente dei vigili del fuoco delle province autonome di Trento e Bolzano; 
+e) i veicoli con targa G.d.F.; 
+f) i veicoli con targa C.F.S.; 
+g) i veicoli con targa POLIZIA PEN; 
+h) i veicoli delle Forze armate adibiti a soccorso (autoambulanze, autosoccorso, etc.) nell'espletamento del servizio o al seguito di autocolonne; 
+i) i veicoli delle Forze armate negli interventi di emergenza e in occasione di pubbliche calamita', nonche' i veicoli civili, con targa italiana o estera, che, nell'ambito di enti o organizzazioni formalmente riconosciuti dai rispettivi Stati di appartenenza, effettuano, a seguito di calamita' naturali o di eventi bellici, trasporti di beni di prima necessita' in soccorso delle popolazioni colpite, purche' muniti di specifica attestazione delle competenti autorita'; 
+1) i veicoli dei funzionari del Ministero dell'interno, dell'A.N.A.S., della Direzione generale della M.C.T.C., dell'Ispettorato generale per la circolazione e la sicurezza stradale, del Ministero dei lavori pubblici, autorizzati al servizio di polizia stradale.".
 
 ## Art. 210.
 
@@ -1444,12 +2941,63 @@ a) Il terzo periodo e' sostituito dal seguente:
 
 ## Art. 217.
 
+1.
+                    
+                        
+                            All'articolo 381 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 2 dopo le parole: "alla figura V.4." e' aggiunto il seguente periodo: "Il contrassegno e' strettamente personale, non e' vincolato ad uno specifico veicolo ed ha valore su tutto il territorio nazionale."; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 3 e' aggiunto in fine il seguente periodo: "Conservano la loro validita' le autorizzazioni e i corrispondenti <contrassegni
+invalidi> gia' rilasciati. All'atto del rinnovo, il contrassegno
+dovra' essere adeguato alle presenti norme."; 
+                            
+                        
+                        
+                            c)
+                            
+                                Al comma 4 l'ultimo periodo e' soppresso; 
+                            
+                        
+                        
+                            d)
+                            
+                                Al comma 5 le parole: "la targa del veicolo" sono sostituite dalle seguenti: "gli estremi del <contrassegno invalidi> del soggetto";
+sono aggiunti in fine i seguenti periodi: "Tale agevolazione puo' essere concessa nelle zone ad alta densita' di traffico, dietro specifica richiesta da parte del detentore del <contrassegno
+invalidi>. Questi deve, di norma, essere abilitato alla guida e deve
+disporre di un autoveicolo.".
+
 ## Art. 218.
 
 1. All'articolo 384, comma 1, del D.P.R. 16 dicembre 1992, n. 495 e' apportata la seguente modificazione:
 a) Alla lettera e) le parole: "in tempo utile e nei modi regolamentari" sono sostituite dalle seguenti: "in tempo utile o nei modi regolamentari".
 
 ## Art. 219.
+
+1.
+                    
+                        
+                            All'articolo 389 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 2 le parole: "383, comma 2", sono sostituite dalle seguenti: "203, comma 3, del codice,"; 
+                            
+                        
+                        
+                            b)
+                            
+                                Al comma 3 dopo le parole: "ma prima della formazione del ruolo," sono aggiunte le seguenti: "e' pari alla somma dovuta a norma dell'articolo 203, comma 3, del codice" e dopo le parole: "del procedimento" e' aggiunta la parola: "e".
 
 ## Art. 220.
 
@@ -1464,6 +3012,26 @@ b) E' aggiunto in fine il seguente comma:
 "3. Limitatamente alle quote dei proventi da destinarsi a finalita' di assistenza e previdenza del personale della Polizia di Stato, dell'Arma dei Carabinieri e della Guardia di Finanza, la ripartizione dei fondi e' determinata annualmente con decreto del Ministro dell'interno, proporzionalmente all'entita' dell'ammontare delle violazioni accertate dagli Organismi o dei Corpi anzidetti.".
 
 ## Art. 222.
+
+1.
+                    
+                        
+                            All'articolo 394 del D.P.R. 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                Al comma 1 dopo le parole: "sotto la vigilanza dell'organo procedente" sono aggiunte le seguenti: ", ovvero puo' essere condotto dallo stesso conducente, su percorso espressamente indicato dall'organo procedente"; 
+                            
+                        
+                        
+                            b)
+                            
+                                E' aggiunto in fine il seguente comma: 
+"9. La segnalazione dello stato di sequestro del veicolo e' realizzata con l'apposizione di uno o piu' fogli adesivi sulla parte anteriore o sul vetro parabrezza, recanti l'iscrizione: <Veicolo
+sottoposto a sequestro> e con l'indicazione degli estremi del
+provvedimento che lo ha disposto. Le dimensioni dell'adesivo non devono essere inferiori a 20X30 cm.".
 
 ## Art. 223.
 

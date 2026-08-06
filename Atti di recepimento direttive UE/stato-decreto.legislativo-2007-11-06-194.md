@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2016-05-26
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,61 @@ Sulla proposta del Ministro per le politiche europee, del Ministro dello svilupp
 
 Il presente decreto disciplina la compatibilita' elettromagnetica delle apparecchiature definite all'articolo 3 e prescrive la conformita' delle apparecchiature a un livello adeguato di compatibilita' elettromagnetica.
 
+2.
+                        
+                            
+                                Il presente decreto non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle apparecchiature radio e ai terminali di telecomunicazioni oggetto del decreto legislativo 9 maggio 2001, n. 269, di recepimento della direttiva 1999/5/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai prodotti aeronautici, parti e pertinenze di cui al regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, del 20 febbraio 2008, recante regole comuni nel settore dell'aviazione civile e che istituisce un'Agenzia europea per la sicurezza aerea, e che abroga la direttiva 91/670/CEE del Consiglio, il regolamento (CE) n. 1592/2002 e la direttiva 2004/36/CE;
+                                
+                            
+                            
+                                c)
+                                
+                                    alle apparecchiature radio utilizzate da radioamatori, ai sensi delle disposizioni relative alle radiocomunicazioni adottate nel quadro della costituzione dell'Unione internazionale delle telecomunicazioni e della convenzione dell'Unione internazionale delle telecomunicazioni, a meno che tali apparecchiature siano messe a disposizione sul mercato; a tale fine i kit di componenti destinati a essere assemblati da radioamatori e le apparecchiature messe a disposizione sul mercato nonche' modificate e utilizzate da radioamatori non sono considerati apparecchiature messe a disposizione sul mercato;
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    ai kit di valutazione su misura per professionisti destinati ad essere utilizzati unicamente in strutture di ricerca e sviluppo a tali fini;
+                                
+                            
+                            
+                                d)
+                                
+                                    agli apparecchi e agli impianti fissi, costruiti per usi militari.
+
+3.
+                        
+                            
+                                Il presente decreto non si applica alle apparecchiature che per loro natura e per le loro caratteristiche fisiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((sono incapaci di generare o contribuire)) a generare emissioni elettromagnetiche che superano un livello compatibile con il regolare funzionamento delle apparecchiature radio e di telecomunicazione e di altre apparecchiature; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    funzionano senza ((deterioramento inaccettabile)) in presenza delle perturbazioni elettromagnetiche abitualmente derivanti dall'uso al quale sono destinate.
+
 Qualora, per le apparecchiature di cui all'articolo 3, i requisiti essenziali indicati all'allegato I sono interamente o parzialmente stabiliti in maniera piu' specifica da altre direttive ((dell'Unione europea)), il presente decreto legislativo non si applica; esso cessa comunque di applicarsi a decorrere dalla data di recepimento di dette direttive, con riferimento ai requisiti essenziali dalle stesse definiti.
 
 Il presente decreto non incide sull'applicazione della legislazione ((dell'Unione europea)) o nazionale che disciplina la sicurezza delle apparecchiature.
@@ -40,6 +95,24 @@ Il presente decreto non incide sull'applicazione della legislazione ((dell'Union
 
 Agli apparecchi si applicano l'articolo 15, paragrafo 3, e gli articoli da 16 a 29 del regolamento (CE) n. 765/2008.
 
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, le funzioni di autorita' di vigilanza del mercato sono svolte dal Ministero dello sviluppo economico ed, in particolare, dagli uffici dirigenziali generali competenti, secondo il regolamento di organizzazione del medesimo Ministero, ed attualmente rispettivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalla Direzione generale per Pianificazione e Gestione dello spettro radioelettrico, per tutte le apparecchiature di cui all'articolo 3, limitatamente alla protezione delle comunicazioni dai disturbi eventualmente causati dall'utilizzo delle stesse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla Direzione generale per il mercato, la concorrenza, il consumatore, la vigilanza e la normativa tecnica, per le apparecchiature di cui all'articolo 3, con esclusione dei profili relativi alla protezione delle comunicazioni dai disturbi eventualmente causati dall'utilizzo delle apparecchiature stesse.
+
 Le funzioni di controllo alle frontiere esterne sono svolte dall'Agenzia delle dogane e dei monopoli conformemente agli articoli da 27 a 29 del regolamento (CE) n. 765/2008.
 
 Qualora gli organi di vigilanza competenti, nell'espletamento delle loro funzioni ispettive e di controllo, rilevano che un apparecchio e' in tutto o in parte non rispondente a uno o piu' requisiti essenziali, ne informano immediatamente il Ministero dello sviluppo economico.
@@ -47,6 +120,207 @@ Qualora gli organi di vigilanza competenti, nell'espletamento delle loro funzion
 ))
 
 ## Art. 3. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto, s'intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    apparecchiatura: ogni apparecchio o impianto fisso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    apparecchio: ogni dispositivo finito o combinazione di dispositivi finiti, ((messo a disposizione del mercato)) come unita' funzionale indipendente, destinato all'((utilizzatore)) finale e che puo' generare perturbazioni elettromagnetiche o il cui funzionamento puo' subire gli effetti di tali perturbazioni, ivi compresi: 
+ 1) i componenti o ((sottounita')) destinati ad essere integrati in un apparecchio dall'((utilizzatore)) finale e che possono generare perturbazioni elettromagnetiche o il cui funzionamento puo' subire gli effetti di tali perturbazioni; 
+ 2) gli impianti mobili definiti come una combinazione di apparecchi ed eventualmente altri dispositivi, destinata ad essere spostata e utilizzata in ubicazioni diverse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impianto fisso: una combinazione particolare di apparecchi di vario tipo ed eventualmente di altri dispositivi, che sono assemblati, installati e destinati ad essere utilizzati in modo permanente in un luogo prestabilito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compatibilita' elettromagnetica: l'idoneita' di un'apparecchiatura a funzionare nel proprio ambiente elettromagnetico in modo soddisfacente e senza produrre, in altre apparecchiature e nello stesso ambiente, perturbazioni elettromagnetiche inaccettabili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    perturbazione elettromagnetica: ogni fenomeno elettromagnetico che puo' alterare il funzionamento di un'apparecchiatura; una perturbazione elettromagnetica puo' essere costituita da un rumore elettromagnetico, da un segnale non desiderato o da una alterazione del mezzo stesso di propagazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    immunita': l'idoneita' di un'apparecchiatura a funzionare ((normalmente senza deterioramento)) in presenza di una perturbazione elettromagnetica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    scopi di sicurezza: scopi di preservazione della vita e della salute umana o dei beni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ambiente elettromagnetico: il complesso di tutti i fenomeni elettromagnetici osservabili in un determinato luogo; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    messa a disposizione sul mercato: la fornitura di un apparecchio per la distribuzione, il consumo o l'uso nel mercato dell'Unione nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    immissione sul mercato: la prima messa a disposizione sul mercato dell'Unione di un apparecchio; 
+
+                                
+                            
+                            
+                                h-quater)
+                                
+                                    fabbricante: una persona fisica o giuridica che fabbrica un apparecchio, o che lo fa progettare o fabbricare, e commercializza tale apparecchio con il proprio nome o marchio commerciale; 
+
+                                
+                            
+                            
+                                h-quinquies)
+                                
+                                    rappresentante autorizzato: una persona fisica o giuridica stabilita nell'Unione che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire a suo nome in relazione a determinati compiti; 
+
+                                
+                            
+                            
+                                h-sexies)
+                                
+                                    importatore: la persona fisica o giuridica stabilita nell'Unione che immette sul mercato dell'Unione un apparecchio originario di un paese terzo; 
+
+                                
+                            
+                            
+                                h-septies)
+                                
+                                    distributore: la persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante e dall'importatore, che mette a disposizione un apparecchio sul mercato; 
+
+                                
+                            
+                            
+                                h-octies)
+                                
+                                    operatori economici: il fabbricante, il rappresentante autorizzato, l'importatore e il distributore; 
+
+                                
+                            
+                            
+                                h-nonies)
+                                
+                                    specifica tecnica: un documento che prescrive i requisiti tecnici che l'apparecchiatura deve soddisfare;
+                                
+                            
+                            
+                                i)
+                                
+                                    norma armonizzata: la norma armonizzata di cui all'articolo 2, punto 1, lettera c), del regolamento (UE) n. 1025/2012;
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    accreditamento: accreditamento quale definito all'articolo 2, punto 10, del regolamento (CE) n. 765/2008; 
+
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    organismo nazionale di accreditamento: organismo nazionale di accreditamento di cui all'articolo 2, punto 11, del regolamento (CE) n. 765/2008; 
+
+                                
+                            
+                            
+                                i-quater)
+                                
+                                    valutazione della conformita': il processo atto a dimostrare il rispetto dei requisiti essenziali della presente direttiva relativi a un apparecchio; 
+
+                                
+                            
+                            
+                                i-quinquies)
+                                
+                                    organismo di valutazione della conformita': un organismo che svolge attivita' di valutazione della conformita', fra cui tarature, prove, certificazioni e ispezioni; 
+
+                                
+                            
+                            
+                                i-sexies)
+                                
+                                    richiamo: qualsiasi misura volta a ottenere la restituzione di un apparecchio gia' messo a disposizione dell'utilizzatore finale; 
+
+                                
+                            
+                            
+                                i-septies)
+                                
+                                    ritiro: qualsiasi misura volta a impedire la messa a disposizione sul mercato di un apparecchio presente nella catena di fornitura; 
+
+                                
+                            
+                            
+                                i-octies)
+                                
+                                    normativa di armonizzazione dell'Unione: la normativa dell'Unione che armonizza le condizioni per la commercializzazione dei prodotti; 
+
+                                
+                            
+                            
+                                i-nonies)
+                                
+                                    marcatura CE: una marcatura mediante la quale il fabbricante indica che l'apparecchio e' conforme ai requisiti applicabili stabiliti nella normativa di armonizzazione dell'Unione che ne prevede l'apposizione.
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 18 MAGGIO 2016, N. 80)); 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 18 MAGGIO 2016, N. 80)); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    radioamatore: persona debitamente autorizzata, che si interessa alla tecnica della radioelettricita' a titolo esclusivamente personale e senza scopo di lucro, che partecipa al servizio di radiocomunicazione "d'amatore" avente per oggetto l'istruzione individuale, l'intercomunicazione e gli studi tecnici.
 
 ## Art. 4. — ((Messa a disposizione sul mercato o messa in servizio))
 
@@ -67,6 +341,24 @@ Le autorita' competenti adottano le disposizioni necessarie per identificare la 
 ## Art. 6. — (( (Libera circolazione delle apparecchiature). ))
 
 ((
+
+1.
+                        
+                            
+                                Le autorita' competenti di cui all'articolo 2 non ostacolano, per motivi relativi alla compatibilita' elettromagnetica, la messa a disposizione sul mercato o la messa in servizio delle apparecchiature conformi al presente decreto. Le disposizioni del presente decreto non ostano all'applicazione, su iniziativa delle autorita' competenti di cui all'articolo 2, delle seguenti misure speciali riguardanti la messa in servizio o l'uso di un'apparecchiatura: 
+ 
+                            
+                            
+                                a)
+                                
+                                    misure atte a superare un problema di compatibilita' elettromagnetica esistente o prevedibile in uno specifico luogo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    misure adottate per motivi di sicurezza per proteggere le reti pubbliche di telecomunicazione o le stazioni riceventi o emittenti quando sono utilizzate per scopi di sicurezza in situazioni relative allo spettro chiaramente definite.
 
 Fatta salva la direttiva (UE) 2015/1535 del Parlamento europeo e del Consiglio, del 9 settembre 2015, che prevede una procedura d'informazione nel settore delle regolamentazioni tecniche e delle regole relative ai servizi della societa' dell'informazione, le misure speciali di cui al comma 1 sono notificate dalle autorita' competenti alla Commissione e agli altri Stati membri.
 
@@ -159,6 +451,24 @@ I distributori che ritengono o hanno motivo di ritenere che un apparecchio da es
 
 ((
 
+1.
+                        
+                            
+                                Gli operatori economici indicano alle autorita' di vigilanza che ne fanno richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualsiasi operatore economico che ha fornito loro un apparecchio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi operatore economico cui hanno fornito un apparecchio.
+
 2. Gli operatori economici devono essere in grado di presentare le informazioni di cui al comma 1 per dieci anni dal momento in cui sono stati loro forniti apparecchi e per dieci anni dal momento in cui essi hanno fornito apparecchi.))
 
 ## Art. 8. — (( (Presunzione di conformita' delle apparecchiature). ))
@@ -168,6 +478,24 @@ I distributori che ritengono o hanno motivo di ritenere che un apparecchio da es
 ## Art. 9. — (( (Procedure di valutazione della conformita'). ))
 
 ((
+
+1.
+                        
+                            
+                                La conformita' di un apparecchio ai requisiti essenziali di cui all'allegato I e' dimostrata mediante una delle seguenti procedure di valutazione della conformita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    il controllo interno della produzione di cui all'allegato II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esame UE del tipo seguito dalla conformita' al tipo basata sul controllo interno della produzione di cui all'allegato III.
 
 2. Il fabbricante puo' scegliere di limitare l'applicazione della procedura di cui al comma 1, lettera b), ad alcuni aspetti dei requisiti essenziali, a condizione che agli altri aspetti dei requisiti essenziali sia applicata la procedura di cui al comma 1, lettera a).))
 
@@ -208,9 +536,73 @@ Qualora la conformita' di un apparecchio ai requisiti essenziali di cui al punto
 
 ## Art. 12. — (( Funzioni delle autorita' competenti e procedura a livello nazionale per gli apparecchi che presentano rischi ))
 
+1.
+                        
+                            
+                                Le autorita' competenti, nell'ambito delle rispettive attribuzioni, hanno i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    controllare le apparecchiature immesse nel mercato o messe in servizio per verificarne la rispondenza ai requisiti essenziali di cui all'articolo 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individuare situazioni di incompatibilita' elettromagnetica, al fine della loro risoluzione, in particolare nei casi di radiodisturbi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adottare le misure di cui all'articolo 13 e informarne la Commissione europea.
+
 Al fine di agevolare l'attivita' di vigilanza, il responsabile dell'immissione degli apparecchi nel mercato o il responsabile dell'installazione dell'impianto fisso predispone e mantiene a disposizione delle autorita' competenti la documentazione rispettivamente indicata nell'allegato IV e nell'allegato I, punto 2, per 10 anni a decorrere dalla data di fabbricazione o di installazione dell'ultima apparecchiatura del tipo in questione.
 
 Al fine di verificare la conformita' delle apparecchiature alle prescrizioni del presente decreto legislativo, le autorita' competenti hanno facolta' di disporre verifiche e controlli. Restano ferme le disposizioni in materia di vigilanza di cui al comma 4.
+
+4.
+                        
+                            
+                                Per le apparecchiature immesse nel mercato o messe in servizio, le verifiche e i controlli di cui al comma 3 sono effettuati, anche con metodo a campione, presso il fabbricante o il suo rappresentante autorizzato, gli importatori, i grossisti, i commercianti, ovvero presso gli impianti fissi, e presso gli utilizzatori in caso di perturbazioni alle reti o ai servizi di comunicazione elettronica. A tale fine e' consentito alle persone incaricate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accesso ai luoghi di fabbricazione o di immagazzinamento degli apparecchi destinati all'immissione nel mercato comunitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'accesso agli impianti fissi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'acquisizione di tutte le informazioni necessarie all'accertamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il prelievo di campioni, a titolo gratuito, secondo le disposizioni di cui all'articolo 47 della legge 6 febbraio 1996, n. 52, e successive modificazioni, presso la catena di commercializzazione, per l'esecuzione di esami e prove; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'esame della documentazione in possesso del responsabile dell'immissione dell'apparecchio nel mercato o del responsabile dell'installazione dell'impianto fisso.
 
 Nel caso di cui al comma 4, lettera d), i risultati delle verifiche e dei controlli sono comunicati all'interessato entro il termine di novanta giorni dal prelievo.
 
@@ -237,6 +629,24 @@ Nel caso in cui ritiene che l'inadempienza non e' ristretta al territorio nazion
 
 Nel caso in cui l'operatore economico interessato non prende le misure correttive adeguate entro il periodo di cui al all'articolo 12, comma 9, le autorita' di vigilanza del mercato fatta salva l'applicazione delle sanzioni di cui all'articolo 15, adottano tutte le opportune misure provvisorie per proibire o limitare la messa a disposizione degli apparecchi sul mercato nazionale, per ritirarli da tale mercato o per richiamarli, nel rispetto delle garanzie partecipative previste dalla legge 7 agosto 1990, n. 241, e successive modificazioni, ed a cura e spese del soggetto destinatario del provvedimento. Nel caso di impianto fisso le autorita' competenti provvedono ad adottare le opportune misure cautelari ed il fermo amministrativo dell'impianto. Il Ministero dello sviluppo economico informa immediatamente la Commissione e gli altri Stati membri di tali misure.
 
+2.
+                        
+                            
+                                Le informazioni di cui all'ultimo periodo del comma 1, includono tutti i particolari disponibili, soprattutto i dati necessari all'identificazione dell'apparecchio non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dall'operatore economico interessato. In particolare, le autorita' di vigilanza del mercato indicano se l'inadempienza sia dovuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla non conformita' dell'apparecchio alle prescrizioni relative agli aspetti di protezione del pubblico interesse contemplati dalla presente direttiva; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle carenze nelle norme armonizzate di cui all'articolo 8, che conferiscono la presunzione di conformita'.
+
 Il Ministero dello sviluppo economico, quando la procedura a norma dell'articolo 38 della direttiva 2014/30/UE, e' stata avviata dall'autorita' di un altro Stato membro, informa immediatamente la Commissione e gli altri Stati membri di tutti i provvedimenti adottati, di tutte le altre informazioni a loro disposizione sulla non conformita' dell'apparecchio interessato e, in caso di disaccordo con la misura nazionale adottata, delle sue obiezioni.
 
 Il Ministero dello sviluppo economico tiene conto nello svolgimento della propria attivita', sia per le proprie misure provvisorie che per quelle assunte da autorita' di altri Stati membri, che nel caso in cui, entro tre mesi dal ricevimento delle informazioni di cui al comma 1, uno Stato membro o la Commissione non sollevano obiezioni contro la misura provvisoria presa da uno Stato membro, tale misura e' ritenuta giustificata.
@@ -255,6 +665,34 @@ Il Ministero dello sviluppo economico cura le iniziative necessarie alla parteci
 
 ((
 
+1.
+                        
+                            
+                                Fatto salvo l'articolo 12, se il Ministero dello sviluppo economico giunge a una delle seguenti conclusioni, chiede all'operatore economico interessato di porre fine allo stato di non conformita' in questione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la marcatura CE e' stata apposta in violazione dell'articolo 30 del regolamento (CE) n. 765/2008 o dell'articolo 10 del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la marcatura CE non e' stata apposta;
+                                
+                            
+                            
+                                c)
+                                
+                                    non e' stata compilata la dichiarazione di conformita' UE; 
+ e) non e' stata compilata correttamente la dichiarazione di conformita' UE; 
+ f) la documentazione tecnica non e' disponibile o e' incompleta; 
+ g) le informazioni di cui all'articolo 7-bis, comma 6, o all'articolo 7-quater, comma 3, sono assenti, false o incomplete; 
+ h) non e' rispettata qualsiasi altra prescrizione amministrativa di cui all'articolo 7-bis o all'articolo 7-quater.
+
 Qualora la non conformita' di cui al comma 1 permane, il Ministero dello sviluppo economico adotta le adeguate misure per limitare o proibire la messa a disposizione sul mercato dell'apparecchio o per garantire che sia richiamato o ritirato dal mercato.
 
 ))
@@ -270,6 +708,52 @@ La valutazione di cui al comma 1 degli organismi di valutazione della conformita
 Le modalita' di svolgimento dell'attivita' di cui al primo periodo del comma 2 ed i connessi rapporti fra l'organismo unico nazionale di accreditamento e il Ministero dello sviluppo economico sono regolati con apposita convenzione o protocollo di intesa fra gli stessi. L'organismo nazionale di accreditamento rispetta comunque per quanto applicabili le prescrizioni di cui al comma 5 ed adotta soluzioni idonee a coprire la responsabilita' civile connessa alle proprie attivita'.
 
 Il Ministero dello sviluppo economico assume piena responsabilita' per i compiti svolti dall'organismo di cui al comma 3. Relativamente ai compiti attribuiti dal presente articolo e dall'articolo 14-quater al Ministero dello sviluppo economico le competenze e responsabilita' degli uffici dirigenziali generali competenti, sono ripartite secondo il regolamento di organizzazione del medesimo Ministero ed attualmente, rispettivamente, alla Direzione generale per il mercato, la concorrenza, il consumatore, la vigilanza e la normativa tecnica, relativamente alle attivita' di notifica ed a quelle connesse, ed alla Direzione generale per la pianificazione e la gestione dello spettro radioelettrico, relativamente all'autorizzazione, di concerto con la precitata Direzione generale, ed alle attivita' connesse.
+
+5.
+                        
+                            
+                                Il Ministero dello sviluppo economico, quale autorita' di notifica e ai fini dell'attivita' di autorizzazione, nonche' l'organismo nazionale di accreditamento, ai fini dell'attivita' di valutazione e controllo, organizzano e gestiscono le relative attivita' nel rispetto delle seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in modo che non sorgano conflitti d'interesse con gli organismi di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in modo che sia salvaguardata l'obiettivita' e l'imparzialita' delle attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in modo che ogni decisione relativa alla notifica di un organismo di valutazione della conformita' sia presa da persone competenti diverse da quelle che hanno effettuato la valutazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    evitando di offrire ed effettuare attivita' eseguite dagli organismi di valutazione della conformita' o servizi di consulenza commerciali o su base concorrenziale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    salvaguardando la riservatezza delle informazioni ottenute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assegnando a tali attivita' un numero di dipendenti competenti sufficiente per l'adeguata esecuzione dei suoi compiti.
 
 Il Ministero dello sviluppo economico informa la Commissione europea delle procedure adottate per la valutazione e la notifica degli organismi di valutazione della conformita' e per il controllo degli organismi notificati, i nonche' di qualsiasi modifica delle stesse.
 
@@ -290,6 +774,64 @@ L'organismo di valutazione della conformita', i suoi alti dirigenti e il persona
 L'organismo di valutazione della conformita' garantisce che le attivita' delle sue affiliate o dei suoi subappaltatori non si ripercuotano sulla riservatezza, sull'obiettivita' o sull'imparzialita' delle sue attivita' di valutazione della conformita'.
 
 L'organismo di valutazione della conformita' e il suo personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica e sono liberi da qualsivoglia pressione o incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
+
+6.
+                        
+                            
+                                L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base all'allegato III e per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'. In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di apparecchi per i quali e' stato notificato, l'organismo di valutazione della conformita' ha a sua disposizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le necessarie descrizioni delle procedure in base alle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; una politica e procedure appropriate che distinguano i compiti che svolge in qualita' di organismo notificato dalle altre attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia dell'apparecchio in questione e della natura di massa o seriale del processo produttivo.
+
+7.
+                        
+                            
+                                L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' e ha accesso a tutti gli strumenti o impianti occorrenti.
+Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone di quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione tecnica e professionale solida che include tutte le attivita' di valutazione della conformita' in relazione alle quali l'organismo di valutazione della conformita' e' stato notificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una conoscenza e una comprensione adeguate dei requisiti essenziali di cui all'allegato I, delle norme armonizzate applicabili e delle disposizioni pertinenti della normativa di armonizzazione dell'Unione europea nonche' delle normative nazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di elaborare certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei loro alti dirigenti e del personale addetto allo svolgimento di compiti di valutazione della conformita'. La remunerazione degli alti dirigenti e del personale addetto allo svolgimento di compiti di valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -363,6 +905,38 @@ Contro le decisioni degli organismi notificati puo' essere espletata l'apposita 
 ## Art. 14-sexies. — (( (Obbligo di informazione a carico degli organismi notificati).))
 
 ((
+
+1.
+                        
+                            
+                                Gli organismi notificati informano il Ministero dello sviluppo economico e l'organismo nazionale di accreditamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di qualunque circostanza che possa influire sull'ambito o sulle condizioni della notifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di eventuali richieste di informazioni che abbiano ricevuto dalle autorita' di vigilanza del mercato in relazione alle attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su richiesta, delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
 
 Gli organismi notificati forniscono agli altri organismi notificati a norma della direttiva attuata con il presente decreto, le cui attivita' di valutazione della conformita' sono simili o coprono gli stessi apparecchi, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi delle valutazioni della conformita'.
 

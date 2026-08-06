@@ -8,8 +8,8 @@ codice_redazionale: 001G0185
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,6 +51,24 @@ IL MINISTRO DEI TRASPORTI E DELLA NAVIGAZIONE
 
 Il presente regolamento stabilisce i criteri vincolanti ai quali devono attenersi le autorita' portuali, dove istituite, o le autorita' marittime, per la regolazione e la disciplina dei servizi portuali di cui all'articolo 16 della legge 28 gennaio 1994, n. 84.
 
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per "autorita' competente" l'autorita' portuale, dove istituita, o l'autorita' marittima nella persona del Capo del circondario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "la legge" la legge 28 gennaio 1994, n. 84, e successive modificazioni.
+
 ## Art. 2. — Servizi portuali
 
 Sono servizi portuali le attivita' imprenditoriali consistenti nelle prestazioni specialistiche, che siano complementari e accessorie al ciclo delle operazioni portuali, da rendersi su richiesta di soggetti autorizzati allo svolgimento anche in autoproduzione delle operazioni portuali.
@@ -75,6 +93,38 @@ L'autorizzazione e' rilasciata, sentita la commissione consultiva locale, sulla 
 
 Il rilascio dell'autorizzazione e' subordinato al pagamento di un canone annuale e alla prestazione di una cauzione determinati nel loro ammontare dall'autorita' competente secondo modalita' preventivamente individuate e tenendo conto del fatturato del soggetto prestatore del servizio.
 
+6.
+                    
+                        
+                            L'autorizzazione puo' essere rilasciata per un periodo minimo di un anno e massimo di quattro, ferma restando la possibilita' di rinuncia o decadenza motivata. La decadenza puo' essere dichiarata per le seguenti ipotesi:
+ 
+                        
+                        
+                            a)
+                            
+                                perdita di uno dei requisiti previsti per il rilascio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                omesso pagamento del canone annuale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                abusiva sostituzione nell'esercizio delle attivita' autorizzate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                inadempienza degli obblighi derivanti dall'autorizzazione o imposti da norme di legge o di regolamento.
+
 Prima di dichiarare la decadenza, l'autorita' competente fissa un termine entro il quale l'interessato puo' presentare le sue deduzioni.
 
 ## Art. 4. — Requisiti
@@ -85,9 +135,94 @@ Non puo' essere autorizzato allo svolgimento dei servizi portuali chi sia stato 
 
 L'impresa autorizzata alla fornitura di lavoro temporaneo ai sensi dell'articolo 17, comma 2, della legge, dovendo svolgere esclusivamente tale funzione, non puo' essere autorizzata ad esercitare ne' direttamente ne' indirettamente le attivita' di cui all'articolo 16 della legge, ne' deve essere detenuta da una o piu' imprese di cui all'articolo 16 della legge e neppure deve detenere direttamente o indirettamente partecipazioni anche di minoranza in una o piu' imprese di cui all'articolo 16 della legge.
 
+4.
+                    
+                        
+                            I soci dell'impresa autorizzata alla fornitura di lavoro temporaneo non possono esercitare per conto proprio o tramite partecipazioni dirette o indirette le attivita' di cui all'articolo 16 della legge. Si considerano partecipazione o detenzione diretta o indiretta dei soci:
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso di quote di controllo di un'impresa da parte dell'insieme o di parte dei soci di un'altra;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il possesso di quote di controllo di un'impresa da parte del singolo socio dell'altra:
+
+                            
+                        
+                        
+                            c)
+                            
+                                la partecipazione o detenzione mediante un terzo soggetto partecipato o detenuto.
+
 ## Art. 5. — Registro dei servizi portuali
 
 L'autorita' competente istituisce il registro per l'iscrizione dei soggetti autorizzati allo svolgimento dei servizi portuali.
+
+2.
+                    
+                        
+                            Nel registro devono essere indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il nome, il cognome, il luogo, la data di nascita e la cittadinanza del soggetto autorizzato, se persona fisica; se persona giuridica, la denominazione o ragione sociale, il nome e il cognome degli amministratori e dei soci che ricoprono cariche nella societa' stessa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione del servizio o dei servizi portuali da svolgere;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il domicilio o la sede del soggetto autorizzato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il nome e cognome di un eventuale procuratore;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'organico dei dipendenti e dei quadri dirigenziali con le relative qualifiche;
+
+                            
+                        
+                        
+                            f)
+                            
+                                numero e tipo di eventuali mezzi utilizzati nello svolgimento del servizio;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il canone annuo e l'ammontare della cauzione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                le tariffe relative ai servizi da svolgere.
 
 Fermi restando i casi generali di ritiro del provvedimento amministrativo, la decadenza dell'autorizzazione o la cessazione dell'autorizzazione comportano la cancellazione dal registro.
 

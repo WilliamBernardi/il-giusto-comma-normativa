@@ -8,8 +8,8 @@ codice_redazionale: 005G0274
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -66,9 +66,168 @@ I terminali di gioco connessi alla rete telematica, eventualmente attraverso app
 
 ## Art. 3. — Funzioni del sistema centrale
 
+1.
+                        
+                            
+                                Il sistema centrale, collegato alla rete telematica e alle sue eventuali partizioni, assicura le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la generazione delle serie di biglietti ed il loro frazionamento in blocchi, in conformita' ai requisiti tecnici e alle modalita' operative di ciascuno specifico gioco di sorte, definiti con i provvedimenti di cui all'articolo 17;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la definizione dei biglietti virtuali vincenti, in caso di giochi basati su vincite predeterminate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la gestione dell'estrazione dei biglietti virtuali vincenti, in caso di giochi basati su vincite ad estrazione successiva di tipo informatizzato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la trasmissione delle serie di biglietti, su richiesta del concessionario, al concessionario stesso;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'acquisizione dei dati del gioco, memorizzati nei sistemi di elaborazione delle partizioni della rete telematica e da questo trasmessi periodicamente al sistema centrale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la raccolta, attraverso la rete telematica ed al di fuori della periodicita' stabilita, dei dati di gioco memorizzati nei terminali di gioco;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la contabilita' del gioco, sulla base dei dati provenienti dalla rete telematica e dalle sue eventuali partizioni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il controllo della conformita' del funzionamento della rete telematica e dei terminali di gioco ad essa collegati rispetto alle prescrizioni del gioco, fissate con i provvedimenti di cui all'articolo 17, comma 1.
+
 ## Art. 4. — Funzioni della rete telematica
 
+1.
+                        
+                            
+                                La rete telematica o le sue partizioni, se suddivisa, assicurano le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il collegamento tra il sistema centrale ed il sistema di elaborazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il collegamento tra il sistema di elaborazione ed i terminali di gioco;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il controllo della conformita' del funzionamento dei terminali di gioco alle prescrizioni del gioco;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'applicazione, nel caso di vincite determinabili precedentemente alla giocata accettata, dei criteri e delle regole fissati per l'assegnazione di blocchi di biglietti ai singoli terminali di gioco, di cui all'articolo 17, comma 2, lettera i), indispensabile per assicurare pari opportunita' di vincita ai giocatori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la trasmissione, su richiesta del punto di vendita, di uno o piu' blocchi di biglietti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la raccolta periodica dei dati del gioco memorizzati nei terminali di gioco, per il successivo trasferimento di tali informazioni al sistema centrale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la raccolta, su richiesta del sistema centrale ed al di fuori della periodicita' stabilita, dei dati di gioco memorizzati nei terminali di gioco, nonche' il trasferimento immediato degli stessi al sistema centrale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la rendicontazione della raccolta dei dati di gioco, nonche' il successivo trasferimento di tali informazioni al sistema centrale.
+
 ## Art. 5. — Funzioni del terminale di gioco
+
+1.
+                        
+                            
+                                Il terminale di gioco, collegato alla rete telematica o alle sue partizioni, eventualmente attraverso apparati di concentrazione, assicura le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la ricezione dei blocchi di biglietti dal sistema di elaborazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la gestione dei biglietti compresi nei blocchi trasmessi dalla partizione della rete telematica. Nel caso di vincite determinabili precedentemente alla giocata accettata, il terminale di gioco applica i criteri e le regole fissati per la vendita dei biglietti di ciascuno specifico gioco di sorte, di cui all'articolo 17, comma 2, lettera i), indispensabili per assicurare pari opportunita' di vincita ai giocatori;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la stampa della ricevuta di partecipazione, conforme ai requisiti specificati nell'articolo 13;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la messa a disposizione, per il periodo di riferimento, dei dati di gioco al sistema di elaborazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la messa a disposizione al sistema centrale, al di fuori della periodicita' stabilita, dei dati di gioco.
 
 ## - Titolo II ATTORI DEL SISTEMA DI GESTIONE
 
@@ -103,7 +262,113 @@ Le modalita' di esecuzione dei controlli e della vigilanza di AAMS sullo svolgim
 
 ## Art. 9. — Requisiti soggettivi del concessionario
 
+1.
+                        
+                            
+                                La concessione per l'attivazione e la gestione di una partizione della rete telematica e' affidata a societa', a societa' consortili ed a raggruppamenti temporanei d'impresa di cui all'articolo 10 del decreto legislativo n. 358 del 1992 e successive modificazioni, i quali siano in grado di garantire, per tutta la durata della concessione:
+ 
+                            
+                            
+                                a)
+                                
+                                    la piena integrita' e conformita' degli apparecchi misuratori fiscali di cui alla legge 26 gennaio 1983, n. 18, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la separazione logica di cui all'articolo 2, comma 2 del presente regolamento, tra la parte fiscale e la parte dedicata al gioco, di ciascun terminale di gioco collegato alla propria partizione di rete telematica.
+
 ## Art. 10. — Competenze e responsabilita' del concessionario
+
+1.
+                        
+                            
+                                Il concessionario:
+ 
+                            
+                            
+                                a)
+                                
+                                    assicura che la partizione della rete telematica affidatagli assolva alle funzioni di cui all'articolo 4;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    custodisce le ricevute di partecipazione vincenti e pagate, direttamente ovvero per il tramite dei punti di vendita collegati, per un periodo di cinque anni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede, dopo la verifica della ricevuta di gioco e secondo le modalita' di cui all'articolo 21, al pagamento delle vincite il cui importo sia superiore a 1.000,00;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigila sull'osservanza, da parte del titolare del punto di vendita, delle disposizioni contrattuali e degli obblighi di cui all'articolo 11. A tal fine raccoglie anche le segnalazioni dei giocatori e dei clienti dei punti di vendita, dotandosi di idonei canali di accesso per il pubblico;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    risolve l'accordo con il titolare, anche su richiesta di AAMS, privandolo della possibilita' di commercializzare i giochi di sorte, nei casi di violazione delle disposizioni contrattuali e degli obblighi di cui all'articolo 11, nonche' di inosservanza di leggi o regolamenti sul gioco. Dell'avvenuta risoluzione da' immediata comunicazione ad AAMS;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    verifica che il titolare intraprenda le procedure di blocco per i terminali, sia nei casi di risoluzione degli accordi con i titolari, sia nei casi in cui si e' rilevata la non conformita' dei terminali di gioco stessi, per qualsiasi motivo, ai requisiti definiti da AAMS;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    assolve a tutti gli adempimenti amministrativi relativi ai terminali di gioco collegati alla sua partizione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    effettua rilevazioni statistiche presso i punti di vendita dove sono installati i terminali di gioco collegati alla sua partizione, al fine di reperire le informazioni richieste periodicamente da AAMS;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    mantiene costantemente aggiornata la banca dati dei punti di vendita collegati alla partizione a lui affidata e ne trasmette i contenuti al sistema centrale;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    predispone il materiale illustrativo sulle caratteristiche del singolo gioco, sui diritti del giocatore e sulle modalita' di riscossione delle vincite da esporre presso i punti di vendita;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    effettua la rendicontazione del gioco, in base ai biglietti virtuali venduti dai terminali collegati alla partizione a lui affidata;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    effettua il versamento del prelievo erariale unico, ai sensi dell'articolo 18.
 
 Il concessionario non puo' stipulare accordi per la commercializzazione dei giochi di sorte con titolari che si trovino ricompresi nell'elenco di cui all'articolo 7, comma 8.
 
@@ -116,6 +381,73 @@ AAMS revoca la concessione per la gestione dei giochi di sorte legati al consumo
 ## Art. 11. — Obblighi del titolare del punto di vendita
 
 Il gioco e' raccolto presso i punti di vendita dotati di terminali di gioco, dal titolare che ha sottoscritto un apposito accordo con il concessionario, o da un suo incaricato. Il gioco non puo' essere raccolto nei punti di vendita il cui titolare sia stato inserito nell'elenco degli inabilitati alla raccolta dei giochi di sorte di cui all'articolo 7, comma 8.
+
+2.
+                        
+                            
+                                Il titolare e' obbligato:
+ 
+                            
+                            
+                                a)
+                                
+                                    ad applicare integralmente e correttamente le disposizioni del presente regolamento e dei provvedimenti di cui all'articolo 17;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad esporre il presente regolamento ed i provvedimenti di cui all'articolo 17 all'interno del punto di vendita, in modo da consentire al pubblico di prenderne agevole visione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad esporre, in modo ben evidente, il materiale illustrativo predisposto dal concessionario, relativo alle caratteristiche del singolo gioco, ai diritti del giocatore ed alle modalita' di riscossione delle vincite;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ad informare ogni persona che richieda spiegazioni riguardo i giochi di sorte commercializzati all'interno del punto di vendita;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ad indicare al pubblico, mediante idoneo avviso, la denominazione del concessionario per conto del quale raccoglie il gioco ed i relativi recapiti per segnalazioni o reclami;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ad esporre all'esterno del punto di vendita il contrassegno di cui all'articolo 12, comma 1;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    a rimborsare il giocatore nel caso previsto dall'articolo 12, comma 8;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    a pagare, secondo le modalita' previste dall'articolo 20 immediatamente dopo la verifica della ricevuta di gioco, le vincite il cui importo non sia superiore a 1.000,00 Euro;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    a vigilare affinche' i propri eventuali incaricati applichino integralmente e correttamente le disposizioni del presente regolamento e dei provvedimenti di cui all'articolo 17.
 
 ## - Titolo III DISCIPLINA GENERALE DEI GIOCHI DI SORTE LEGATI AL CONSUMO
 
@@ -143,9 +475,129 @@ Il rimborso del giocatore si effettua in contanti, presso il punto di vendita in
 
 Le giocate accettate sono documentate mediante consegna al giocatore della ricevuta di partecipazione. Costituisce ricevuta di partecipazione al gioco la scritturazione dei dati di gioco su una sezione distinta del medesimo supporto cartaceo dello scontrino fiscale emesso dal registratore di cassa, se reso conforme ai requisiti definiti da AAMS. La separazione fisica delle due sezioni, da chiunque sia effettuata, comporta la perdita di validita' della ricevuta di partecipazione.
 
+2.
+                        
+                            
+                                Sulla ricevuta di partecipazione sono riportate almeno le seguenti informazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione del concessionario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la partita IVA e l'indirizzo del punto di vendita;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il codice identificativo del terminale di gioco emittente, che puo' coincidere con la matricola fiscale nel caso di registratore di cassa reso conforme ai requisiti definiti da AAMS per i terminali stessi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'identificativo del biglietto virtuale; nel caso di acquisto da parte del giocatore di piu' biglietti sono ammesse forme abbreviate di scrittura degli identificativi dei biglietti virtuali, secondo le modalita' definite dal provvedimento di AAMS di cui all'articolo 17;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data e l'ora di effettuazione della giocata accettata;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il prezzo del singolo biglietto;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il numero di biglietti virtuali acquistati dal giocatore;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il costo totale della giocata accettata;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per i giochi con vincite predeterminate, la vincita o le vincite conseguite, nel caso di acquisto di piu' biglietti con una sola giocata accettata;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    per i giochi con vincite predeterminate, l'identificativo del biglietto virtuale vincente, o dei biglietti virtuali vincenti, nel caso di acquisto di piu' biglietti con una sola giocata accettata;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    per i giochi con vincite determinabili successivamente alla giocata accettata, il riferimento all'estrazione od alle estrazioni cui il biglietto partecipa.
+
 Il provvedimento di cui all'articolo 17 definisce gli eventuali ulteriori elementi da riportare obbligatoriamente sulla ricevuta di partecipazione, ai soli fini di migliorare il servizio prestato ai giocatori.
 
 ## Art. 14. — Ripartizione delle somme giocate
+
+1.
+                        
+                            
+                                L'importo di ciascun biglietto virtuale e' ripartito secondo le seguenti percentuali:
+ 
+                            
+                            
+                                a)
+                                
+                                    aggio riconosciuto al titolare, 8 per cento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contributo alle spese di gestione di AAMS, 2,5 per cento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compenso al concessionario, 4,5 per cento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prelievo erariale unico, 30 per cento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disponibile a vincite, 55 per cento.
 
 E' istituito un conto corrente infruttifero presso la tesoreria centrale intestato all'Amministrazione autonoma dei monopoli di Stato e denominato «fondo speciale di riserva», al quale affluiscono gli eventuali premi e rimborsi non riscossi, una volta decorsi i termini di decadenza di cui all'articolo 22.
 
@@ -159,6 +611,38 @@ Il presente regolamento ed i provvedimenti di cui all'articolo 17 sono esposti i
 
 Il presente regolamento ed i provvedimenti di cui all'articolo 17 sono pubblicati sui siti internet di AAMS e dei concessionari.
 
+3.
+                        
+                            
+                                Presso ciascun punto di vendita sono altresi' esposti:
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati identificativi del concessionario per il quale si raccoglie il gioco, unitamente ad un recapito telefonico ed all'indicazione del sito internet;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco dei biglietti vincenti, per quanto riguarda i giochi con vincite determinabili successivamente alla giocata accettata;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco degli istituti di credito convenzionati con il concessionario, per la riscossione dei premi di importo superiore a 1.000 Euro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le probabilita' di vincita delle diverse categorie di premi, associate all'acquisto dei biglietti virtuali.
+
 ## Art. 16. — Soluzione delle controversie
 
 La soluzione in via amministrativa delle controversie, escluse quelle di natura fiscale, insorte in sede di interpretazione e di esecuzione del presente regolamento e dei provvedimenti di cui all'articolo 17, e' demandata all'organo di cui all'articolo 2, comma 4, lettera b), del decreto del Presidente della Repubblica 15 dicembre 2003, n. 385.
@@ -168,6 +652,101 @@ Il reclamo scritto e' inoltrato, tramite raccomandata con ricevuta di ritorno, e
 ## Art. 17. — Requisiti tecnici dei singoli giochi di sorte legati al consumo
 
 Con appositi provvedimenti di AAMS, che adottano il nomenclatore di cui all'articolo 1, comma 2, sono definiti i requisiti tecnici e le modalita' operative di esercizio di ciascun gioco di sorte legato al consumo.
+
+2.
+                        
+                            
+                                Fermo restando quanto stabilito dal presente regolamento, per ciascun gioco di sorte i provvedimenti di cui al comma 1 definiscono almeno:
+ 
+                            
+                            
+                                a)
+                                
+                                    il prezzo del biglietto virtuale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero di biglietti virtuali emessi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero delle serie di biglietti previste;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il meccanismo del gioco;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'importo della giacenza del fondo speciale di riserva di cui all'articolo 14, comma 2, assegnata al disponibile a vincite;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'importo complessivo del disponibile a vincite;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le categorie di premi;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'importo del premio per ciascuna categoria;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il numero totale di biglietti vincenti, suddiviso per categorie di premi;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    nel caso di gioco con vincite determinabili successivamente alla giocata accettata, il numero di estrazioni, le modalita' di estrazione e la data, o le date, di estrazione;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    nel caso di gioco con vincite determinabili successivamente alla giocata accettata, che preveda l'abbinamento dei biglietti estratti ad un evento successivo alla loro estrazione, la data, o le date degli eventi che determinano l'avvenuta vincita, dalle quali decorrono i termini per la riscossione dei premi;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    nel caso di gioco con vincite determinabili precedentemente alla giocata accettata, gli specifici criteri e le modalita' tecniche per l'assegnazione di blocchi di biglietti ai titolari, a garanzia delle pari opportunita' di vincita dei giocatori, nonche' le modalita' di esercizio dei relativi controlli;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le eventuali informazioni aggiuntive rispetto a quelle stabilite dall'articolo 13, comma 2, strettamente finalizzate ad una migliore fruibilita' del gioco, da stampare sulla ricevuta di partecipazione; la modalita' di scrittura abbreviata degli identificativi dei biglietti virtuali, nel caso di acquisto contemporaneo, da parte del giocatore, di piu' biglietti.
 
 ## - Titolo IV GESTIONE DEI FLUSSI FINANZIARI
 
@@ -186,10 +765,53 @@ La verifica e' effettuata dal punto di vendita o dal concessionario, nel caso di
 
 Nel caso di giochi con vincite predeterminate, e quindi evidenti gia' al momento del rilascio della ricevuta di partecipazione, i premi di importo non superiore a 1.000,00 Euro sono pagati immediatamente ed in contanti presso lo stesso punto di vendita in cui e' stata effettuata la giocata accettata. E' facolta' del vincitore richiedere al punto di vendita di riscuotere il pagamento in un momento successivo, ove lo rendano opportuno ragioni di sicurezza personale.
 
+2.
+                        
+                            
+                                Nel caso di giochi con vincite determinabili successivamente alla giocata accettata, il possessore di ricevute di partecipazione vincenti premi di importo non superiore a 1.000,00 Euro puo' richiederne il pagamento secondo tre modalita' alternative:
+ 
+                            
+                            
+                                a)
+                                
+                                    presentando la ricevuta di partecipazione al gioco presso i punti di pagamento dei premi del concessionario, entro novanta giorni solari dalla data di avvenuta vincita. Effettuate le opportune verifiche, entro sette giorni il concessionario provvede al pagamento del premio, che puo' essere effettuato per contanti, a mezzo di assegno circolare, ovvero con bonifico bancario su un conto corrente espressamente indicato dal vincitore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presentando la ricevuta di partecipazione al gioco presso uno qualsiasi dei punti di vendita che effettuano la raccolta dello stesso gioco per il medesimo concessionario, entro novanta giorni solari dalla data di avvenuta vincita. Effettuate le opportune verifiche, entro sette giorni il punto di vendita provvede al pagamento in contanti del premio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presentando la ricevuta di partecipazione al gioco, entro novanta giorni solari dalla data di avvenuta vincita, presso lo stesso punto di vendita dove e' stata rilasciata, che effettua le necessarie verifiche e provvede immediatamente al pagamento in contanti del premio.
+
 I provvedimenti di cui all'articolo 17, comma 1, possono indicare modalita' aggiuntive di pagamento dei premi non superiori a 1.000,00 Euro, in ragione delle caratteristiche del singolo gioco e delle evoluzioni dei mezzi di pagamento telematici, purche' tali modalita' non siano sostitutive di quelle previste dal presente articolo ed assicurino al giocatore vincente livelli di sicurezza, di privacy e di servizio almeno pari.
 
 ## Art. 21. — Modalita' di pagamento delle vincite di importo
  superiore a 1.000,00 Euro
+
+1.
+                        
+                            
+                                Il possessore di ricevute di partecipazione vincenti premi di importo superiore a 1.000,00 Euro puo' riscuotere il premio secondo due modalita' alternative:
+ 
+                            
+                            
+                                a)
+                                
+                                    presentando la ricevuta di partecipazione al gioco presso un qualsiasi sportello degli istituti di credito convenzionati con il concessionario collegato con il punto di vendita presso il quale ha acquistato il biglietto vincente, entro trenta giorni solari dalla data di avvenuta vincita. L'elenco degli istituti convenzionati deve essere notificato ad AAMS, tempestivamente aggiornato in caso di variazioni ed adeguatamente pubblicizzato, sia presso i punti di vendita che raccolgono il gioco, sia sul sito Internet del concessionario. Esperita la verifica della ricevuta di partecipazione da parte del concessionario, e su suo mandato, l'istituto, entro venticinque giorni dalla consegna della ricevuta, provvede al pagamento del premio, che puo' essere effettuato per contanti, a mezzo di assegno circolare, ovvero con bonifico bancario, su un conto corrente espressamente indicato dal vincitore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presentando la ricevuta di partecipazione al gioco presso i punti di pagamento dei premi del concessionario, entro novanta giorni solari, dalla data di avvenuta vincita. Esperita la verifica della ricevuta di partecipazione, il concessionario, entro quindici giorni dalla consegna della ricevuta, provvede al pagamento del premio, che puo' essere effettuato per contanti, a mezzo di assegno circolare, ovvero con bonifico bancario su un conto corrente espressamente indicato dal vincitore.
 
 ## Art. 22. — Termini di decadenza
 

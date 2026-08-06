@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2012-01-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -60,6 +60,56 @@ La domanda di ammissione al contributo e' presentata al Ministero del commercio 
 
 La domanda deve essere presentata, a pena di irricevibilita', entro il 31 gennaio di ogni anno.
 
+3.
+                    
+                        
+                            Alla domanda sono allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                il programma dell'attivita' volta a sviluppare le relazioni commerciali con l'Italia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il bilancio preventivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copia delle deliberazioni o dei verbali degli organi camerali statutariamente competenti per l'approvazione del programma di attivita' e del bilancio preventivo.
+
+4.
+                    
+                        
+                            Il programma di cui al comma 3, lettera a), si articola in progetti, ciascuno dei quali e' descritto analiticamente in modo da illustrare, tenuto conto dell'interesse del mercato locale sia nel breve, che nel medio e lungo periodo:
+ 
+                        
+                        
+                            a)
+                            
+                                le singole azioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli obiettivi da conseguire con il progetto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la finalizzazione della spesa ed il rapporto della stessa con i benefici attesi.
+
 Il programma di cui al comma 3, lettera a), reca, inoltre, la predeterminazione degli indicatori e degli standards da applicare consuntivamente per misurare la qualita' delle azioni e, in particolare, i risultati raggiunti, nonche' la descrizione dell'attivita' destinata a ciascun settore merceologico.
 
 Il Ministero approva i progetti dell'attivita' verificandone la validita' tecnicoeconomica. Per valutare il contributo che le iniziative camerali apportano allosviluppo degli scambi commerciali con l'Italia, il Ministero tiene anche conto della loro corrispondenza alle direttive per l'attivita' promozionale, emanate dal Ministro stesso.
@@ -71,6 +121,84 @@ I progetti si intendono approvati qualora, entro trenta giorni dalla data di ric
 Il Ministero, d'intesa con il Ministero degli affari esteri, puo' proporre, alle singole camere di commercio italiane all'estero, specifici progetti di attivita' promozionale. In tal caso, le camere interessate ne assumono la responsabilita' gestionale sulla base del piano finanziario.
 
 ## Art. 4. — Finanziamento dell'attivita' svolta
+
+1.
+                    
+                        
+                            Entro il 31 marzo dell'anno successivo a quello in cui e' stata presentata la domanda di contributo, la camera di commercio italiana all'estero invia al Ministero e alla rappresentanza diplomatica competente:
+ 
+                        
+                        
+                            a)
+                            
+                                la relazione sull'esecuzione del programma di attivita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                il bilancio consuntivo, corredato dalla relazione del collegio dei revisori dei conti o dal rapporto della societa' di revisione contabile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copia delle deliberazioni o dei verbali degli organi camerali statutariamente competenti per l'approvazione del rendiconto di attivita' e del bilancio consuntivo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'elenco dei soci effettivi al 31 dicembre di ogni anno, con l'indicazione del numero dei soci locali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la variazione statistica degli associati rispetto all'anno precedente;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la composizione degli organi sociali.
+
+2.
+                    
+                        
+                            La relazione sull'esecuzione del programma di attivita' si compone di schede informative concernenti i singoli progetti eseguiti. In ciascuna scheda si illustrano analiticamente:
+ 
+                        
+                        
+                            a)
+                            
+                                le azioni svolte nell'eseguire ogni singolo progetto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i risultati raggiunti a fronte degli obiettivi con l'autovalutazione degli indicatori di risultato e dei rispettivi standard;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i costi sostenuti nell'esecuzione di ogni singolo progetto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'attivita' svolta per settore merceologico.
 
 ## Art. 5. — Criteri per la concessione
  e per la determinazione del contributo finanziario

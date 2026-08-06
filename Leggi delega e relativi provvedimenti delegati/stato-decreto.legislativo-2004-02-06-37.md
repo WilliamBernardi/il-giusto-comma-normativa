@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2004-03-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -448,9 +448,507 @@ professionalita' dei componenti del consiglio di sorveglianza.
 
 ## Art. 4. — Modifiche al decreto legislativo n. 5 del 2003
 
+1.
+                        
+                            
+                                Al decreto legislativo n. 5 del 2003 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1 sono apportate le seguenti modificazioni:
+ 1. al comma 1, lettera a), sono aggiunte in fine le seguenti parole: «nonche' contro il soggetto incaricato della revisione contabile per i danni derivanti da propri inadempimenti o da fatti illeciti commessi nei confronti della societa' che ha conferito l'incarico e nei confronti dei terzi danneggiati.»;
+ 2. al comma 3, dopo le parole: «il tribunale giudica», sono inserite le seguenti: «a norma del capo I del titolo II del presente decreto»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 2, dopo il comma 1, sono aggiunti i seguenti:
+ «2. Tutti i termini del procedimento possono essere ridotti alla meta' con provvedimento reso a norma dell'articolo 163-bis, comma 2, del codice di procedura civile.
+ 3. I termini sono ridotti alla meta' nel caso di opposizione a norma dell'articolo 645 del codice di procedura civile. Ciascuna delle parti, al momento della costituzione, ovvero successivamente, puo' chiedere con ricorso che sia designato il magistrato per l'adozione, previa convocazione delle parti, dei provvedimenti di cui agli articoli 648 e 649 del codice di procedura civile.»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 3, comma 1, le parole: «ovvero entro cinque giorni nel caso di abbreviazione dei termini a norma dell'articolo 163-bis, secondo comma, del codice di procedura civile,» sono soppresse;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 4, comma 1, sono apportate le seguenti modificazioni:
+ 1. dopo le parole: «che offre in comunicazione», inserire le seguenti: «; a pena di decadenza deve»;
+ 2. dopo le parole «mezzo di eccezione», inserire la seguente: «e»;
+ 3. dopo le parole: «precisandone le ragioni», inserire le seguenti: «; deve»;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 5, comma 1, le parole: «scadenza del termine di cui all'articolo 2, comma 1, lettera c)» sono sostituite dalle parole: «notifica della comparsa di risposta»;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 6, comma 2, nelle lettere b) e c), prima delle parole: «proporre» e: «dichiarare», inserire, in entrambe, le seguenti: «a pena di decadenza»;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 7 sono apportate le seguenti modificazioni:
+ 1. al comma 1 dopo le parole: «nuovi documenti e», e' inserita la seguente: «di»;
+ 2. al comma 1 dopo le parole: «richieste istruttorie,», la parola: «nonche» e' soppressa;
+ 3. al comma 1 le parole: «sedici giorni» sono sostituite dalle seguenti: «venti giorni»;
+ 4. al comma 1 dopo le parole: «per una ulteriore replica», sono aggiunte le seguenti: «, nonche', a pena di decadenza, le eccezioni non rilevabili d'ufficio che siano conseguenza delle nuove domande ed eccezioni proposte dall'attore a norma del secondo comma dell'articolo precedente»;
+ 5. al comma 2, le parole: «sedici giorni» sono sostituite dalle seguenti: «venti giorni».
+ 6. al comma 3, le parole: «otto giorni», ovunque ricorrenti, sono sostituite dalle parole: «venti giorni»;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 8 sono apportate le seguenti modificazioni:
+ 1. le parole: «sedici giorni», ovunque ricorrenti, sono sostituite dalle parole: «venti giorni»;
+ 2. al comma 1, lettera a), le parole: «di costituzione dello stesso» sono sostituite dalle parole: «per la notifica della comparsa di risposta»;
+ 3. al comma 1, lettera b) le parole: «di costituzione dello stesso» sono sostituite dalle parole: «per la notifica della comparsa stessa»;
+ 4. al comma 2, lettera b) le parole: «termine di costituzione dello stesso» sono sostituite dalle parole: «relativo termine»;
+ 5. al comma 3, dopo le parole: «terzo chiamato sono inserite le seguenti: «, ovvero intervenuto,»;
+ 6. al comma 4, primo periodo, le parole: «quindici giorni sono sostituite dalle seguenti: «venti giorni»; dopo le parole: «successivi alla scadenza» sono inserite le parole: «dei termini di cui ai commi precedenti o»;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 10, comma 2, le parole: «non rilevabili d'ufficio» sono soppresse;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 11, comma 3, le parole: «tre mesi» sono sostituite dalle seguenti: «novanta giorni».
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'articolo 13 sono apportate le seguenti modificazioni:
+ 1. al comma 2, dopo le parole: «ovvero depositare», sono inserite le seguenti: «, previa notifica,» e le parole: «si sia tardivamente costituito» sono sostituite dalle seguenti: «abbia tardivamente notificato la comparsa di costituzione».
+ 2. il comma 4 e' sostituito dal seguente:
+ «4. Fermo quanto disposto dai commi 1, 2 e 3, l'inosservanza dei termini previsti dagli articoli 2, 3, 4, 5, 6, 7, 9 e 10, nonche' le decadenze, sono rilevabili soltanto su eccezione della parte che vi abbia interesse da proporsi nella prima istanza o difesa successiva, a norma dell'articolo 157 del codice di procedura civile.»;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    all'articolo 19 sono apportate le seguenti modificazioni:
+ 1. il comma 2 e' sostituito dal seguente:
+ «2. Il giudice designato fissa a non oltre sessanta giorni la data di comparizione delle parti, assegnando il termine per la costituzione del convenuto, che deve avvenire non oltre dieci giorni prima dell'udienza; il ricorso, unitamente al decreto di fissazione dell'udienza, deve essere notificato al convenuto almeno trenta giorni prima della data di udienza»;
+ 2. dopo il comma 2 e' inserito il seguente:
+ «2-bis. Al termine dell'udienza il giudice, ove ritenga sussistenti i fatti costitutivi della domanda e manifestamente infondata la contestazione del convenuto, pronuncia ordinanza immediatamente esecutiva di condanna e dispone sulle spese ai sensi degli articoli 91 e seguenti del codice di procedura civile. L'ordinanza costituisce titolo per l'iscrizione di ipoteca giudiziale.»;
+ 3. al comma 3, dopo le parole: «cognizione non sommaria», sono inserite le parole: «ovvero in ogni altro caso in cui non dispone a norma del comma 2-bis,»;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    all'articolo 29, dopo le parole: «2343-bis, secondo comma,» sono inserite le parole: «2347» e, dopo le parole: «2437-ter, sesto comma,» sono inserite le parole: «2468»;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    all'articolo 32, comma 1, le parole: «dell'udienza di cui all'articolo 31,» sono sostituite dalle parole: «delle udienze di cui agli articoli 30 o 31»;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    all'articolo 33, comma 1, primo periodo, dopo le parole: «agli articoli» e' inserita la parola: «2275»;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    all'articolo 35, dopo il comma, e' aggiunto il seguente:
+ «5-bis. I dispositivi dell'ordinanza di sospensione e del lodo che decide sull'impugnazione devono essere iscritti, a cura degli amministratori, nel registro delle imprese.»;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    all'articolo 37, comma 2, le parole: «stabilite nello statuto stesso» sono sostituite dalle parole: «dagli stessi stabilite».
+
+                                
+                            
+                            
+                                t)
+                                
+                                    all'articolo 40, comma 2, primo periodo, le parole: «Il procedimento di conciliazione, ove le parti non raggiungano un accordo» sono sostituite dalle parole: «Se entrambe le parti lo richiedono, il procedimento di conciliazione, ove non sia raggiunto l'accordo».
+
 ## - Capo III DISPOSIZIONI CORRETTIVE DEL DECRETO LEGISLATIVO 17 GENNAIO 2003, N. 6, RECANTE RIFORMA ORGANICA DELLE SOCIETA' DI CAPITALI E SOCIETA' COOPERATIVE, IN ATTUAZIONE DELLA LEGGE 3 OTTOBRE 2001, N. 366.
 
 ## Art. 5. — Modifiche al decreto legislativo n. 6 del 2003
+
+1.
+                        
+                            
+                                Al decreto legislativo n. 6 del 2003 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 2325-bis, primo comma, del codice civile la parola: «capo» e' sostituita dalla parola: «titolo»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 2325-bis, secondo comma, del codice civile le parole: «Le norme di questo capo si applicano alle societa' emittenti di azioni» sono sostituite dalle parole: «Le norme di questo titolo si applicano alle societa' con azioni»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 2328, secondo comma, del codice civile al numero 1), dopo le parole: «luogo di nascita o» sono inserite le parole: «lo Stato» ed al numero 11) dopo la parola «sindaci» sono inserite la parole: «ovvero dei componenti del consiglio di sorveglianza»;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 2335, primo comma, del codice civile numero 4) le parole: «i membri del collegio sindacale» sono sostituite dalle parole: «ed i sindaci ovvero i componenti del consiglio di sorveglianza»;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 2344, primo comma, del codice civile le parole: «della loro partecipazione» sono sostituite dalle parole «alla loro partecipazione» e le parole: «nei mercati regolamentati» sono sostituite dalle parole: «in mercati regolamentati»;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 2349, secondo comma, del codice civile dopo le parole: «assegnazione ai» sono inserite le parole: «prestatori di lavoro» e dopo le parole: «diritti patrimoniali o» sono inserite le parole: «anche di»;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 2350, secondo comma, del codice civile le parole: «l'eventuali» sono sostituite dalle parole: «le eventuali»;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 2354, primo comma, del codice civile la parola: «stabiliscano» e' sostituita dalla parola: «stabiliscono»;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 2357-quater, primo comma, del codice civile le parole: «comma secondo» sono sostituite dalle parole: «secondo comma»;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 2362, primo comma, del codice civile dopo le parole: «luogo di nascita o» sono inserite le parole: «lo Stato»;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'articolo 2366, secondo comma, del codice civile e' aggiunto, in fine, il seguente periodo: «se i quotidiani indicati nello statuto hanno cessato le pubblicazioni, l'avviso deve essere pubblicato nella Gazzetta Ufficiale»;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    all'articolo 2369, quinto comma, del codice civile, in fine, le parole: «e l'emissione di azioni privilegiate» sono sostituite dalle parole: «e l'emissione delle azioni di cui al secondo comma dell'articolo 2351.»;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    all'articolo 2377 del codice civile, e' inserito il seguente primo comma:
+ «Le deliberazioni dell'assemblea, prese in conformita' della legge e dell'atto sostitutivo, vincolano tutti i soci, ancorche' non intervenuti o dissenzienti»;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    all'articolo 2378 del codice civile sono apportate le seguenti modificazioni:
+ 1. al secondo comma, primo periodo, le parole: «secondo comma» sono sostituite dalle parole: «terzo comma»;
+ 2. al quinto comma, primo periodo, le parole: «terzo comma» sono sostituite dalle parole: «quarto comma» e nel secondo periodo le parole: «quinto comma» sono sostituite dalle parole: «sesto comma»;
+ 3. in fine, e' aggiunto, il seguente comma: «I dispositivi del provvedimento di sospensione e della sentenza che decide sull'impugnazione devono essere iscritti, a cura degli amministratori, nel registro delle imprese»;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    all'articolo 2379 del codice civile sono apportate le seguenti modificazioni:
+ 1. al terzo comma, la parola: «tempestivamente» e' sostituita dalla parola: «preventivamente»;
+ 2. al quarto comma, le parole: «sesto e settimo comma» sono sostituite dalle parole: «settimo e ottavo comma»;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    all'articolo 2381, quinto comma, del codice civile, le parole: «centottanta giorni» sono sostituite dalle parole: «sei mesi»;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    all'articolo 2409-terdecies, primo comma, del codice civile dopo la lettera f) e' aggiunta, in fine, la seguente:
+ «f-bis) se previsto dallo statuto, delibera in ordine ai piani strategici, industriali e finanziari della societa' predisposti dal consiglio di gestione, ferma in ogni caso la responsabilita' di questo per gli atti compiuti.»;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    all'articolo 2412, quarto comma, del codice civile le parole: «le cui azioni siano» sono sostituite dalle parole: «con azioni»;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    all'articolo 2413, secondo comma, del codice civile le parole: «e delle riserve non eguagli l'ammontare delle obbligazioni in circolazione» sono sostituite dalle parole: «, della riserva legale e delle riserve disponibili non eguagli la meta' dell'ammontare delle obbligazioni in circolazione.»;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    all'articolo 2414 del codice civile, dopo il numero 5) e' inserito il seguente:
+ «6) la data di rimborso del prestito e gli estremi dell'eventuale prospetto informativo. »;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    all'articolo 2414-bis del codice civile, dopo il primo comma, e' aggiunto il seguente:
+ «Qualora un azionista pubblico garantisca i titoli obbligazionari si applica il numero 5) dell'articolo 2414».
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    all'articolo 2416, primo comma, del codice civile le parole: «Le quote previste dall'articolo 2377 s'intendono riferite» sono sostituite dalle parole: «Le percentuali previste dall'articolo 2377 sono calcolate con riferimento»;
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    all'articolo 2417, ultimo comma, primo periodo, del codice civile, le parole: «ad un triennio» sono sostituite dalle parole: «a tre esercizi sociali»;
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    all'articolo 2437-quater, quinto comma, del codice civile dopo le parole: «commi precedenti» sono inserite le parole: «entro centottanta giorni dalla comunicazione del recesso»;
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    all'articolo 2445, ultimo comma, del codice civile le parole: «la riduzione» sono sostituite dalle parole: «l'operazione»;
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    all'articolo 2447-ter, primo comma, del codice civile alla lettera f), le parole: «assoggettata alla revisione contabile» sono sostituite dalle parole: «gia' assoggettata alla revisione contabile da parte di una societa' di revisione» ed all'ultimo comma, le parole: «dal consiglio di amministrazione o di gestione» sono sostituite dalle parole: «dall'organo amministrativo»;
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    all'articolo 2447-sexies del codice civile le parole: «o il consiglio di gestione» sono soppresse;
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    all'articolo 2447-novies, primo comma, del codice civile le parole: «o il consiglio di gestione» sono soppresse;
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    all'articolo 2447-decies, quarto comma, del codice civile la parola: «tranne» e' sostituita dalla parola: «salva»;
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    all'articolo 2463, secondo comma del codice civile, al numero 1), dopo le parole: «luogo di nascita o» sono inserite le parole: «lo Stato»;
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    all'articolo 2465 secondo comma, del codice civile le parole: «proporzione della» sono sostituite dalle parole: proporzione alla»;
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    all'articolo 2466, primo comma, primo periodo, le parole: «apposito registro albo» sono sostituite dalle parole: «albo speciale.»;
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    all'articolo 2469, primo comma, del codice civile la parola: «trasmissibili» e' sostituita dalla parola: «trasferibili»;
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    all'articolo 2470, quarto comma, del codice civile le parole: «l'iscrizione del registro» sono sostituite dalle parole: «l'iscrizione nel registro» e dopo le parole: «luogo di nascita o» sono inserite le parole: «lo Stato»;
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    all'articolo 2473, quarto comma, del codice civile le parole: «in mancanza» sono sostituite dalle parole: «, in mancanza,»;
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    all'articolo 2477 del codice civile l'ultimo comma e' sostituito dal seguente: «Nei casi previsti dal secondo e terzo comma si applicano le disposizioni in tema di societa' per azioni; se l'atto costitutivo non dispone diversamente, il controllo contabile e' esercitato dal collegio sindacale.».
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    all'articolo 2478-bis, quinto comma, del codice civile la parola: «distribuzione» e' sostituita dalla parola: «ripartizione»;
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    all'articolo 2479 del codice civile sono apportate le seguenti modificazioni:
+ 1. al primo comma, in fine, il segno grafico: «:» e' sostituito da: «.»;
+ 2. al quarto comma, le parole: «in ogni caso» sono sostituite dalle parole: «comunque» e dopo le parole: «del presente articolo» sono aggiunte le parole: «nonche' nel caso previsto dal quarto comma dell'articolo 2482-bis»;
+ 3. il sesto comma e' sostituito dal seguente: «Salvo diversa disposizione dell'atto costitutivo, le decisioni dei soci sono prese con il voto favorevole di una maggioranza che rappresenti almeno la meta' del capitale sociale».
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    all'articolo 2479-ter, ultimo comma del codice civile, le parole: «quarto, sesto, settimo e ottavo comma,» sono sostituite dalle parole: «primo, quinto, settimo, ottavo e nono comma,»;
+
+                                
+                            
+                            
+                                uu)
+                                
+                                    all'articolo 2482, secondo comma, del codice civile le parole: «tre mesi» sono sostituite dalle parole: «novanta giorni»;
+
+                                
+                            
+                            
+                                vv)
+                                
+                                    all'articolo 2482-bis, quarto comma, del codice civile le parole: «l'assemblea convocata per l'approvazione del bilancio deve ridurre il capitale in proporzione delle perdite accertate.» sono sostituite dalle parole: «deve essere convocata l'assemblea per l'approvazione del bilancio e per la riduzione del capitale in proporzione delle perdite accertate»;
+
+                                
+                            
+                            
+                                zz)
+                                
+                                    all'articolo 2497-bis del codice civile sono apportate le seguenti modificazioni:
+ 1. al primo comma, le parole: «la propria soggezione all'altrui attivita' di direzione e coordinamento» sono sostituite dalle parole: «la societa' o l'ente alla cui attivita' di direzione e coordinamento e' soggetta»;
+ 2. al secondo comma, le parole: «sono indicati i soggetti» sono sostituite dalle parole: «sono indicate le societa' o gli enti»;
+
+                                
+                            
+                            
+                                aaa)
+                                
+                                    all'articolo 2497-sexies del codice civile sono apportate le seguenti modificazioni:
+ 1. al primo comma, le parole: «dalle societa' o enti tenuti al consolidamento dei loro bilanci o che comunque le controllano» sono sostituite dalle parole: «dalla societa' o ente tenuto al consolidamento dei loro bilanci o che comunque le controlla»;
+ 2. il secondo comma e' soppresso;
+ bbb)dopo l'articolo 2497-sexies del codice civile e' inserito il seguente:
+ «2497-septies (Coordinamento fra societa). Le disposizioni del presente capo si applicano altresi' alla societa' o all'ente che, fuori dalle ipotesi di cui all'articolo 2497-sexies, esercita attivita' di direzione e coordinamento di societa' sulla base di un contratto con le societa' medesime o di clausole dei loro statuti.»;
+ ccc) all'articolo 2501-bis, quinto comma, del codice civile dopo la parola: «allegata» e' inserita la parola: «una»;
+ ddd) all'articolo 2501-sexies del codice civile il terzo comma e' sostituito dal seguente:
+ «L'esperto o gli esperti sono scelti tra i soggetti di cui al primo comma dell'articolo 2409-bis e, se la societa' incorporante o la societa' risultante dalla fusione e' una societa' per azioni o in accomandita per azioni, sono designati dal tribunale del luogo in cui ha sede la societa'. Se la societa' e' quotata in mercati regolamentati, l'esperto e' scelto fra le societa' di revisione iscritte nell'apposito albo».
+ eee) all'articolo 2506, secondo comma, secondo periodo, del codice civile dopo la parola: «azioni», ovunque ricorre, sono inserite le parole: «o quote»;
+ fff) all'articolo 2526, secondo comma, del codice civile le parole: «i diritti di amministrazione o patrimoniali» sono sostituite dalle parole: «i diritti patrimoniali o anche amministrativi»;
+ ggg) all'articolo 111-quater delle disposizioni di attuazione e transitorie del codice civile, le parole: «essa non puo' essere una persona fisica» sono soppresse;
+ hhh) dopo l'articolo 111-duodecies delle disposizioni di attuazione e transitorie del codice civile e' inserito il seguente:
+ «Art. 111-terdecies. La deliberazione prevista dal secondo comma dell'articolo 2446 del codice e' verbalizzata ed iscritta nel registro delle imprese a norma dell'articolo 2436 del codice.».
+ iii) all'articolo 218 delle disposizioni di attuazione e transitorie del codice civile, la parola: «poste», ovunque ricorre, e' soppressa;
+ lll) all'articolo 223-bis delle disposizioni di attuazione e transitorie del codice civile, sono apportate le seguenti modificazioni:
+ 1. dopo il primo comma e' inserito il seguente: «Le decisioni di trasformazione della societa' a responsabilita' limitata in societa' per azioni possono essere prese entro il 30 settembre 2004, anche in deroga a clausole statutarie, con il voto favorevole di una maggioranza che rappresenti piu' della meta' del capitale sociale»;
+ 2. il secondo comma e' sostituito dal seguente:
+ «Le deliberazioni dell'assemblea straordinaria di mero adattamento dell'atto costitutivo e dello statuto a nuove disposizioni inderogabili possono essere assunte, entro il termine di cui al primo comma, a maggioranza semplice, qualunque sia la parte di capitale rappresentata in assemblea. Con la medesima maggioranza ed entro il medesimo termine possono essere assunte le deliberazioni dell'assemblea straordinaria aventi ad oggetto l'introduzione nello statuto di clausole che escludono l'applicazione di nuove disposizioni di legge, derogabili con specifica clausola statutaria; fino alla avvenuta adozione della modifica statutaria e comunque non oltre il 30 settembre 2004, per tali societa' resta in vigore la relativa disciplina statutaria e di legge vigente alla data del 31 dicembre 2003.»;
+ mmm) all'articolo 223-quinquiesdecies delle disposizioni di attuazione e transitorie del codice civile sono apportate le seguenti modificazioni:
+ 1. dopo il primo comma e' inserito il seguente:
+ «In deroga all'articolo 2545-quater del codice civile, le cooperative di cui al primo comma, qualora non accedano ai benefici fiscali, devono destinare al fondo di riserva legale il venti per cento degli utili netti annuali.»;
+ 2. al terzo comma, le parole: «devolvere le riserve indivisibili previsto dall'articolo» sono sostituite dalle parole: «cui all'articolo».
 
 ## - Capo IV NORME DI COORDINAMENTO TRANSITORIE E FINALI
 
@@ -464,9 +962,93 @@ All'articolo 2250, ultimo comma, del codice civile, dopo le parole: «delle soci
 
 ## Art. 7. — Modifiche al decreto legislativo n. 87 del 1992
 
+1.
+                        
+                            
+                                Al decreto legislativo n. 87 del 1992 sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo l'articolo 2 e' inserito il seguente:
+ «2-bis. Per ciascun patrimonio destinato costituito ai sensi dell'articolo 2447-bis, primo comma, lettera a) del codice civile, va allegato al bilancio dell'impresa e al bilancio consolidato un separato rendiconto redatto secondo le disposizioni contenute nel presente decreto e negli atti di cui all'articolo 5;»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 15 il comma 3 e' abrogato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 39 il comma 2 e' abrogato.
+
 ## Art. 8. — Modifiche alla legge n. 91 del 1981
 
+1.
+                        
+                            
+                                Alla legge 23 marzo 1981, n. 91, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 10, primo comma, secondo periodo, la parola: «2488» e' sostituita dalla parola: «2477»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 11, primo periodo, le parole: «entro trenta giorni dal decreto del tribunale previsto dal quarto comma dell'articolo 2330 del codice civile» sono sostituite dalle parole: «entro trenta giorni dall'iscrizione nel registro delle imprese a norma dell'art. 2330 del codice civile»;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 13 e' sostituito dal seguente:
+ «13 (Controllo giudiziario). - Il procedimento di cui all'articolo 2409 del codice civile si applica alle societa' di cui all'articolo 10, comprese quelle aventi forma di societa' a responsabilita' limitata; il potere di denuncia spetta anche alle federazioni sportive nazionali.».
+
 ## Art. 9. — Abrogazioni
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore delle disposizioni contenute nel presente decreto sono abrogate le seguenti disposizioni del decreto legislativo numero 58 del 1998:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 125, 128, 129 e 131;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 1, 3, 4 e 5 dell'articolo 126;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 dell'articolo 134;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 2 dell'articolo 147.
 
 All'articolo 165, comma 1, del decreto legislativo numero 58 del 1998, il secondo periodo e' soppresso.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-11-29;142
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -166,6 +166,84 @@ Con provvedimento del Direttore dell'Agenzia delle entrate sono indicati i crite
 
 ## Art. 5. — Modifiche alle disposizioni del Testo unico riguardanti dividendi e plusvalenze relativi a partecipazioni in soggetti non residenti.
 
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 47, il comma 4 e' sostituito dal seguente: «4.
+Nonostante quanto previsto dai commi precedenti, concorrono integralmente alla formazione del reddito imponibile gli utili provenienti da imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1; a tali fini, si considerano provenienti da imprese o enti residenti o localizzati in Stati o territori a regime privilegiato gli utili relativi al possesso di partecipazioni dirette in tali soggetti o di partecipazioni di controllo, ai sensi del comma 2 dell'articolo 167, in societa' residenti all'estero che conseguono utili dalla partecipazione in imprese o enti residenti o localizzati in Stati o territori a regime privilegiato e nei limiti di tali utili. Le disposizioni di cui al periodo precedente non si applicano nel caso in cui gli stessi utili siano gia' stati imputati al socio ai sensi del comma 6 dell'articolo 167 o sia dimostrato, anche a seguito dell'esercizio dell'interpello di cui al comma 3 dell'articolo 47-bis, il rispetto, sin dal primo periodo di possesso della partecipazione, della condizione di cui al comma 2, lettera b), del medesimo articolo. Ove la dimostrazione operi in applicazione della lettera a) del comma 2 del medesimo articolo 47-bis, per gli utili di cui ai periodi precedenti, e' riconosciuto al soggetto controllante, ai sensi del comma 2 dell'articolo 167, residente nel territorio dello Stato, ovvero alle sue controllate residenti percipienti gli utili, un credito d'imposta ai sensi dell'articolo 165 in ragione delle imposte assolte dall'impresa o ente partecipato sugli utili maturati durante il periodo di possesso della partecipazione, in proporzione degli utili conseguiti e nei limiti dell'imposta italiana relativa a tali utili. Ai soli fini dell'applicazione dell'imposta, l'ammontare del credito d'imposta di cui al periodo precedente e' computato in aumento del reddito complessivo. Se nella dichiarazione e' stato omesso soltanto il computo del credito d'imposta in aumento del reddito complessivo, si puo' procedere di ufficio alla correzione anche in sede di liquidazione dell'imposta dovuta in base alla dichiarazione dei redditi. Qualora il contribuente intenda far valere la sussistenza, sin dal primo periodo di possesso della partecipazione, della condizione indicata nella lettera b) del comma 2 dell'articolo 47-bis ma non abbia presentato l'istanza di interpello prevista dal comma 3 del medesimo articolo ovvero, avendola presentata, non abbia ricevuto risposta favorevole, la percezione di utili provenienti da partecipazioni in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, deve essere segnalata nella dichiarazione dei redditi da parte del socio residente; nei casi di mancata o incompleta indicazione nella dichiarazione dei redditi si applica la sanzione amministrativa prevista dall'articolo 8, comma 3-ter, del decreto legislativo 18 dicembre 1997, n. 471. Le disposizioni di cui al periodo precedente si applicano anche alle remunerazioni di cui all'articolo 109, comma 9, lettera b), relative a contratti stipulati con associanti residenti nei predetti Paesi o territori.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo l'articolo 47 e' inserito il seguente: «Art. 47-bis (Disposizioni in materia di regimi fiscali privilegiati). - 1. I regimi fiscali di Stati o territori, diversi da quelli appartenenti all'Unione europea ovvero da quelli aderenti allo Spazio economico europeo con i quali l'Italia abbia stipulato un accordo che assicuri un effettivo scambio di informazioni, si considerano privilegiati: 
+ a) nel caso in cui l'impresa o l'ente non residente o non localizzato in Italia sia sottoposto a controllo ai sensi dell'articolo 167, comma 2, da parte di un partecipante residente o localizzato in Italia, laddove si verifichi la condizione di cui al comma 4, lettera a), del medesimo articolo 167; 
+ b) in mancanza del requisito del controllo di cui alla lettera a), laddove il livello nominale di tassazione risulti inferiore al 50 per cento di quello applicabile in Italia. A tali fini, tuttavia, si tiene conto anche di regimi speciali che non siano applicabili strutturalmente alla generalita' dei soggetti svolgenti analoga attivita' dell'impresa o dell'ente partecipato, che risultino fruibili soltanto in funzione delle specifiche caratteristiche soggettive o temporali del beneficiario e che, pur non incidendo direttamente sull'aliquota, prevedano esenzioni o altre riduzioni della base imponibile idonee a ridurre il prelievo nominale al di sotto del predetto limite e sempreche', nel caso in cui il regime speciale riguardi solo particolari aspetti dell'attivita' economica complessivamente svolta dal soggetto estero, l'attivita' ricompresa nell'ambito di applicazione del regime speciale risulti prevalente, in termini di ricavi ordinari, rispetto alle altre attivita' svolte dal citato soggetto. 
+ 2. Ai fini dell'applicazione delle disposizioni del presente testo unico che fanno riferimento ai regimi fiscali privilegiati di cui al comma 1, il soggetto residente o localizzato nel territorio dello Stato che detenga, direttamente o indirettamente, partecipazioni di un'impresa o altro ente, residente o localizzato in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui al comma 1, puo' dimostrare che: 
+ a) il soggetto non residente svolga un'attivita' economica effettiva, mediante l'impiego di personale, attrezzature, attivi e locali; 
+ b) dalle partecipazioni non consegua l'effetto di localizzare i redditi in Stati o territori a regime fiscale privilegiato di cui al comma 1. 
+ 3. Ai fini del comma 2, il contribuente puo' interpellare l'amministrazione ai sensi dell'articolo 11, comma 1, lettera b), della legge 27 luglio 2000, n. 212.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 68, comma 4: 
+ 1) il primo periodo e' sostituito dal seguente: «Le plusvalenze realizzate mediante la cessione dei contratti stipulati con associanti non residenti che non soddisfano le condizioni di cui all'articolo 44, comma 2, lettera a), ultimo periodo, nonche' le plusvalenze di cui alle lettere c) e c-bis) del comma 1 dell'articolo 67 realizzate mediante la cessione di partecipazioni al capitale o al patrimonio, titoli e strumenti finanziari di cui all'articolo 44, comma 2, lettera a), e contratti di cui all'articolo 109, comma 9, lettera b), emessi o stipulati da imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, salvo la dimostrazione, anche a seguito dell'esercizio dell'interpello secondo le modalita' del comma 3 dello stesso articolo 47-bis, del rispetto della condizione indicata nella lettera b) del comma 2 del medesimo articolo, concorrono a formare il reddito per il loro intero ammontare»; 
+ 2) nel secondo periodo le parole «di cui alla citata lettera c-bis) del comma 1, dell'articolo 67,» sono soppresse; 
+ 3) il quarto periodo e' sostituito dai seguenti: «Qualora il contribuente intenda far valere la sussistenza della condizione indicata nella lettera b) del comma 2 dell'articolo 47-bis, ma non abbia presentato l'istanza di interpello prevista dal comma 3 del medesimo articolo ovvero, avendola presentata, non abbia ricevuto risposta favorevole, la percezione di plusvalenze derivanti dalla cessione di partecipazioni in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, deve essere segnalata nella dichiarazione dei redditi da parte del socio residente; nei casi di mancata o incompleta indicazione nella dichiarazione dei redditi si applica la sanzione amministrativa prevista dall'articolo 8, comma 3-ter, del decreto legislativo 18 dicembre 1997, n. 471. Ai fini del presente comma, la condizione indicata nell'articolo 47-bis, comma 2, lettera b), deve sussistere, ininterrottamente, sin dal primo periodo di possesso; tuttavia, per i rapporti detenuti da piu' di cinque periodi di imposta e oggetto di realizzo con controparti non appartenenti allo stesso gruppo del dante causa, e' sufficiente che tale condizione sussista, ininterrottamente, per i cinque periodi d'imposta anteriori al realizzo stesso. Ai fini del precedente periodo si considerano appartenenti allo stesso gruppo i soggetti residenti o non residenti nel territorio dello Stato tra i quali sussiste un rapporto di controllo ai sensi del comma 2 dell'articolo 167 ovvero che, ai sensi del medesimo comma 2, sono sottoposti al comune controllo da parte di altro soggetto residente o non residente nel territorio dello Stato.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 68, comma 4-bis, il primo periodo e' sostituito dal seguente: «Per le plusvalenze realizzate su partecipazioni in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, per i quali sussiste la condizione di cui al comma 2, lettera a), del medesimo articolo, al cedente controllante, ai sensi del comma 2 dell'articolo 167, residente nel territorio dello Stato, ovvero alle cedenti residenti sue controllate, spetta un credito d'imposta ai sensi dell'articolo 165 in ragione delle imposte assolte dall'impresa o ente partecipato sugli utili maturati durante il periodo di possesso della partecipazione, in proporzione delle partecipazioni cedute e nei limiti dell'imposta italiana relativa a tali plusvalenze.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 86, comma 4-bis, il primo periodo e' sostituito dal seguente: «Per le plusvalenze realizzate su partecipazioni in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, per i quali sussiste la condizione di cui al comma 2, lettera a), del medesimo articolo, al cedente controllante, ai sensi del comma 2 dell'articolo 167, residente nel territorio dello Stato, ovvero alle cedenti residenti sue controllate, spetta un credito d'imposta ai sensi dell'articolo 165 in ragione delle imposte assolte dall'impresa o ente partecipato sugli utili maturati durante il periodo di possesso della partecipazione, in proporzione delle partecipazioni cedute e nei limiti dell'imposta italiana relativa a tali plusvalenze.»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 87: 
+ 1) al comma 1, la lettera c) e' sostituita dalla seguente: «c) residenza fiscale o localizzazione dell'impresa o ente partecipato in Stati o territori diversi da quelli a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, o, alternativamente, la dimostrazione, anche a seguito dell'esercizio dell'interpello di cui allo stesso articolo 47-bis, comma 3, della sussistenza della condizione di cui al comma 2, lettera b), del medesimo articolo. Qualora il contribuente intenda far valere la sussistenza di tale ultima condizione ma non abbia presentato la predetta istanza di interpello ovvero, avendola presentata, non abbia ricevuto risposta favorevole, la percezione di plusvalenze derivanti dalla cessione di partecipazioni in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, deve essere segnalata nella dichiarazione dei redditi da parte del socio residente; nei casi di mancata o incompleta indicazione nella dichiarazione dei redditi si applica la sanzione amministrativa prevista dall'articolo 8, comma 3-ter, del decreto legislativo 18 dicembre 1997, n. 471. Ai fini della presente lettera, la condizione indicata nell'articolo 47-bis, comma 2, lettera b), deve sussistere, ininterrottamente, sin dal primo periodo di possesso; tuttavia, per i rapporti detenuti da piu' di cinque periodi di imposta e oggetto di realizzo con controparti non appartenenti allo stesso gruppo del dante causa, e' sufficiente che tale condizione sussista, ininterrottamente, per i cinque periodi d'imposta anteriori al realizzo stesso. Ai fini del precedente periodo si considerano appartenenti allo stesso gruppo i soggetti residenti o meno nel territorio dello Stato tra i quali sussiste un rapporto di controllo ai sensi del comma 2 dell'articolo 167 ovvero che, ai sensi del medesimo comma 2, sono sottoposti al comune controllo da parte di altro soggetto residente o meno nel territorio dello Stato,»; 
+ 2) il comma 2 e' sostituito dal seguente: «2. Il requisito di cui al comma 1, lettera c), deve sussistere, ininterrottamente, sin dal primo periodo di possesso; tuttavia, per i rapporti detenuti da piu' di cinque periodi di imposta e oggetto di realizzo con controparti non appartenenti allo stesso gruppo del dante causa, e' sufficiente che tale condizione sussista, ininterrottamente, per i cinque periodi d'imposta anteriori al realizzo stesso. Ai fini del precedente periodo si considerano appartenenti allo stesso gruppo i soggetti residenti o meno nel territorio dello Stato tra i quali sussiste un rapporto di controllo ai sensi del comma 2 dell'articolo 167 ovvero che, ai sensi del medesimo comma 2, sono sottoposti al comune controllo da parte di altro soggetto residente o non residente nel territorio dello Stato. Il requisito di cui al comma 1, lettera d), deve sussistere ininterrottamente, al momento del realizzo, almeno dall'inizio del terzo periodo d'imposta anteriore al realizzo stesso.»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 89, il comma 3 e' sostituito dal seguente: «3.
+Verificandosi la condizione dell'articolo 44, comma 2, lettera a), ultimo periodo, l'esclusione del comma 2 si applica agli utili provenienti da soggetti di cui all'articolo 73, comma 1, lettera d), e alle remunerazioni derivanti da contratti di cui all'articolo 109, comma 9, lettera b), stipulati con tali soggetti, se diversi da quelli residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, o, se ivi residenti o localizzati, sia dimostrato, anche a seguito dell'esercizio dell'interpello di cui al medesimo articolo 47-bis, comma 3, il rispetto, sin dal primo periodo di possesso della partecipazione, della condizione indicata nel medesimo articolo, comma 2, lettera b). Gli utili provenienti dai soggetti di cui all'articolo 73, comma 1, lettera d), residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, e le remunerazioni derivanti dai contratti di cui all'articolo 109, comma 9, lettera b), stipulati con tali soggetti, non concorrono a formare il reddito dell'esercizio in cui sono percepiti in quanto esclusi dalla formazione del reddito dell'impresa o dell'ente ricevente per il 50 per cento del loro ammontare, a condizione che sia dimostrata, anche a seguito dell'esercizio dell'interpello di cui all'articolo 47-bis, comma 3, la sussistenza della condizione di cui al comma 2, lettera a), del medesimo articolo; in tal caso, e' riconosciuto al soggetto controllante, ai sensi del comma 2 dell'articolo 167, residente nel territorio dello Stato, ovvero alle sue controllate residenti percipienti gli utili, un credito d'imposta ai sensi dell'articolo 165 in ragione delle imposte assolte dall'impresa o ente partecipato sugli utili maturati durante il periodo di possesso della partecipazione, in proporzione alla quota imponibile degli utili conseguiti e nei limiti dell'imposta italiana relativa a tali utili.
+Ai soli fini dell'applicazione dell'imposta, l'ammontare del credito d'imposta di cui al periodo precedente e' computato in aumento del reddito complessivo. Se nella dichiarazione e' stato omesso soltanto il computo del credito d'imposta in aumento del reddito complessivo, si puo' procedere di ufficio alla correzione anche in sede di liquidazione dell'imposta dovuta in base alla dichiarazione dei redditi. Ai fini del presente comma, si considerano provenienti da imprese o enti residenti o localizzati in Stati o territori a regime privilegiato gli utili relativi al possesso di partecipazioni dirette in tali soggetti o di partecipazioni di controllo, ai sensi del comma 2 dell'articolo 167, in societa' residenti all'estero che conseguono utili dalla partecipazione in imprese o enti residenti o localizzati in Stati o territori a regime privilegiato e nei limiti di tali utili. Qualora il contribuente intenda far valere la sussistenza, sin dal primo periodo di possesso della partecipazione, della condizione indicata nella lettera b) del comma 2 dell'articolo 47-bis ma non abbia presentato l'istanza di interpello prevista dal comma 3 del medesimo articolo ovvero, avendola presentata, non abbia ricevuto risposta favorevole, la percezione di utili provenienti da partecipazioni in imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1, deve essere segnalata nella dichiarazione dei redditi da parte del socio residente; nei casi di mancata o incompleta indicazione nella dichiarazione dei redditi si applica la sanzione amministrativa prevista dall'articolo 8, comma 3-ter, del decreto legislativo 18 dicembre 1997, n. 471.
+Concorrono in ogni caso alla formazione del reddito per il loro intero ammontare gli utili relativi ai contratti di cui all'articolo 109, comma 9, lettera b), che non soddisfano le condizioni di cui all'articolo 44, comma 2, lettera a), ultimo periodo.»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 168-ter: 
+ 1) il comma 3 e' sostituito dal seguente: «3. Quando la stabile organizzazione soddisfa le condizioni di cui al comma 4 dell'articolo 167, l'opzione di cui al comma 1 si esercita, relativamente a tali stabili organizzazioni, a condizione che ricorra l'esimente di cui al comma 5 del citato articolo 167.»; 
+ 2) al comma 4, le parole «delle esimenti richiamate» sono sostituite dalle seguenti: «dell'esimente richiamata»; 
+ 3) al comma 5 le parole «sono state disapplicate» sono sostituite dalle seguenti: «risulti integrato il requisito del comma 1 dell'articolo 47-bis e non si siano rese applicabili».
+
 All'articolo 27, comma 4, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, il primo periodo della lettera b) e' sostituito dal seguente: «sull'intero importo delle remunerazioni corrisposte, in relazione a partecipazioni, titoli, strumenti finanziari e contratti non relativi all'impresa ai sensi dell'articolo 65, da imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1 del citato testo unico, salvo che sia avvenuta la dimostrazione, anche a seguito dell'esercizio dell'interpello di cui al comma 3 dell'articolo 47-bis dello stesso testo unico, che e' rispettata, sin dal primo periodo di possesso della partecipazione, la condizione di cui alla lettera b) del comma 2 del medesimo articolo 47-bis.».
 
 All'articolo 8, comma 3-ter, del decreto legislativo 18 dicembre 1997, n. 471, le parole: «esteri localizzati in Stati o territori inclusi nel decreto o nel provvedimento di cui all'articolo 167, comma 4» sono sostituite dalle seguenti: «residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati in base ai criteri di cui all'articolo 47-bis, comma 1».
@@ -177,6 +255,214 @@ All'articolo 1, comma 143, della legge 28 dicembre 2015, n. 208, le parole «il 
 ## - Capo IV Disposizioni in materia di disallineamenti da ibridi
 
 ## Art. 6. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini degli articoli del presente Capo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «disallineamento», un effetto di doppia deduzione o di deduzione senza inclusione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «doppia deduzione», una deduzione dello stesso componente negativo di reddito nella giurisdizione in cui e' sostenuto ovvero che si ritiene sia sostenuto, ossia la giurisdizione del pagatore e in un'altra giurisdizione, ossia la giurisdizione dell'investitore.
+Nel caso di un componente negativo di reddito sostenuto da un'entita' ibrida o da una stabile organizzazione, la giurisdizione del pagatore e' la giurisdizione in cui l'entita' ibrida o la stabile organizzazione e' stabilita o localizzata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «deduzione senza inclusione», la deduzione di un componente negativo di reddito in qualsiasi giurisdizione in cui lo stesso sia sostenuto ovvero si ritiene sia sostenuto, ossia la giurisdizione del pagatore, senza la corrispondente inclusione, a fini fiscali, del correlato componente positivo di reddito nella diversa giurisdizione del beneficiario. La giurisdizione del beneficiario e' qualsiasi giurisdizione in cui il componente positivo di reddito e' conseguito ovvero si ritiene conseguito a norma delle leggi di qualsiasi altra giurisdizione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «deduzione», l'importo considerato deducibile ai fini delle imposte sui redditi a norma delle leggi della giurisdizione del pagatore o dell'investitore. Il termine «deducibile» va interpretato di conseguenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «inclusione», l'importo che rileva ai fini del calcolo del reddito imponibile a norma delle leggi della giurisdizione del beneficiario. Un componente positivo di reddito conseguito in base alle previsioni contrattuali che regolano uno strumento finanziario non e' considerato incluso nella misura in cui esso beneficia di sgravi fiscali che sono esclusiva conseguenza della sua qualificazione in base alle leggi della giurisdizione del beneficiario. Il termine «incluso» va interpretato di conseguenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «sgravio fiscale», l'esenzione totale o parziale dall'imposizione, l'esclusione dal concorso alla formazione della base imponibile, la riduzione dell'aliquota d'imposta applicabile ovvero un qualsiasi credito o rimborso di imposta, diverso da un credito per ritenute alla fonte; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «reddito a doppia inclusione», qualsiasi elemento di reddito incluso a norma delle leggi di entrambe le giurisdizioni in cui si e' verificato il disallineamento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «soggetto» un individuo o un'entita'; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «entita' ibrida», qualsiasi entita' o accordo che in base alla legislazione di uno Stato e' considerato un soggetto passivo ai fini delle imposte sui redditi e i cui componenti positivi e negativi di reddito sono considerati componenti positivi e negativi di reddito di un altro o di altri soggetti passivi a norma delle leggi di un'altra giurisdizione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «strumento finanziario», qualsiasi strumento che da' origine a componenti positivi di reddito propri di un rapporto giuridico di finanziamento ovvero di un investimento di capitale e assoggettati ad imposizione secondo le corrispondenti regole riguardanti i rapporti di debito, di capitale o dei derivati, in base alle leggi della giurisdizione del beneficiario o del pagatore; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «operatore finanziario», un soggetto che esercita regolarmente l'attivita' di acquisto o di vendita di strumenti finanziari per proprio conto a scopo di lucro; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «trasferimento ibrido», qualsiasi accordo di trasferimento di uno strumento finanziario in cui il rendimento sottostante e' considerato, ai fini fiscali, come conseguito simultaneamente da piu' di una delle parti dell'accordo ovvero il cui rendimento sottostante e' rilevante per la determinazione della sua remunerazione; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «trasferimento ibrido sul mercato», qualsiasi trasferimento ibrido posto in essere da un operatore finanziario nell'ambito della propria attivita' ordinaria e non nel quadro di un accordo strutturato; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «stabile organizzazione disconosciuta», l'esercizio di attivita' che, in base alla giurisdizione di residenza del contribuente, costituisce stabile organizzazione e che, a norma delle leggi dell'altra giurisdizione, non costituisce una stabile organizzazione; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «accordo strutturato», un accordo che determina un disallineamento da ibridi in cui l'impatto economico del disallineamento e' stato valutato nella negoziazione dei termini dell'accordo ovvero un accordo finalizzato a produrre un disallineamento da ibridi, salvo che il contribuente o un'impresa associata possa ragionevolmente non essere consapevole di tale disallineamento e non abbia condiviso il valore del beneficio fiscale risultante dal disallineamento da ibridi; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «disallineamento da ibridi», una situazione che coinvolge un soggetto passivo in cui: 
+ 1) un componente negativo di reddito, in base alle previsioni contrattuali che regolano uno strumento finanziario ovvero un trasferimento ibrido, genera una deduzione senza inclusione e congiuntamente: 
+ 1.1. il corrispondente componente positivo di reddito non e' incluso dalla giurisdizione del beneficiario in un periodo d'imposta che inizia entro 12 mesi dalla fine del periodo d'imposta del pagatore con riferimento al quale il componente negativo di reddito e' stato dedotto; 
+ 1.2. il disallineamento e' imputabile a differenze nella qualificazione dello strumento finanziario o del componente reddituale in base alla giurisdizione del pagatore ed a quella diversa del beneficiario; 
+ 2) in ogni caso, un componente negativo di reddito sostenuto ovvero che si ritiene sia sostenuto in base alle previsioni contrattuali che regolano uno strumento finanziario ovvero un trasferimento ibrido non genera un disallineamento da ibridi se lo sgravio fiscale concesso nella giurisdizione del beneficiario e' dovuto esclusivamente allo status fiscale di quest'ultimo o al fatto che lo strumento e' soggetto ai termini di un regime fiscale speciale; 
+ 3) un componente negativo di reddito sostenuto ovvero che si ritiene sia sostenuto a favore di un'entita' ibrida genera un effetto di deduzione senza inclusione e il disallineamento e' il risultato di differenze nell'allocazione del corrispondente componente positivo di reddito a favore dell'entita' ibrida in base alle leggi della giurisdizione in cui e' stabilita o registrata l'entita' ibrida ed alle leggi della giurisdizione di qualsiasi soggetto con una partecipazione in tale entita' ibrida. In ogni caso, un componente negativo di reddito sostenuto ovvero che si ritiene sia sostenuto non determina un disallineamento da ibridi laddove la deduzione senza inclusione si sarebbe verificata in ogni caso a causa dello status di esenzione dall'imposta del beneficiario a norma delle leggi della sua giurisdizione di residenza ovvero di localizzazione; 
+ 4) un componente negativo di reddito sostenuto ovvero che si ritiene sia sostenuto a favore di un'entita' avente una o piu' stabili organizzazioni genera un effetto di deduzione senza inclusione e tale disallineamento e' il risultato di differenze nell'allocazione del corrispondente componente positivo di reddito in base alle leggi della giurisdizione di residenza della casa madre ed alle leggi della giurisdizione di localizzazione della sua stabile organizzazione ovvero alle leggi delle giurisdizioni di localizzazione di due o piu' stabili organizzazioni della stessa entita'. In ogni caso, un componente negativo di reddito sostenuto ovvero che si ritiene sia sostenuto non determina un disallineamento da ibridi laddove la deduzione senza inclusione si sarebbe verificata in ogni caso a causa dello status di esenzione dall'imposta del beneficiario a norma delle leggi della sua giurisdizione di residenza ovvero di localizzazione; 
+ 5) un componente negativo di reddito sostenuto ovvero che si ritiene sia sostenuto genera un effetto di deduzione senza inclusione a seguito dell'attribuzione del corrispondente componente positivo di reddito a favore di una stabile organizzazione disconosciuta. In ogni caso, un componente negativo di reddito sostenuto ovvero che si ritiene sia sostenuto non determina un disallineamento da ibridi laddove la deduzione senza inclusione si sarebbe verificata in ogni caso a causa dello status di esenzione dall'imposta del beneficiario a norma delle leggi della sua giurisdizione di residenza ovvero di localizzazione; 
+ 6) un componente negativo di reddito sostenuto ovvero che si ritiene sia sostenuto da parte di un'entita' ibrida genera una deduzione senza inclusione e tale disallineamento origina dal fatto che il corrispondente componente positivo di reddito non e' riconosciuto come tale in base alle leggi della giurisdizione del beneficiario. Un componente negativo di reddito sostenuto ovvero che si ritiene sia sostenuto non determina un disallineamento da ibridi qualora la deduzione senza inclusione si sarebbe verificata in ogni caso a causa dello status di esenzione dall'imposta del beneficiario a norma delle leggi della sua giurisdizione di residenza ovvero di localizzazione; 
+ 7) un componente negativo di reddito relativo ad una operazione che si ritiene sia intervenuta tra la sede centrale e la stabile organizzazione ovvero tra due o piu' stabili organizzazioni genera una deduzione senza inclusione e tale disallineamento origina dal fatto che il corrispondente componente positivo di reddito non e' riconosciuto come tale in base alle leggi della giurisdizione del beneficiario. Il componente negativo di reddito relativo all'onere figurativo non determina un disallineamento da ibridi qualora la deduzione senza inclusione si sarebbe verificata in ogni caso a causa dello status di esenzione dall'imposta del beneficiario a norma delle leggi della sua giurisdizione di residenza ovvero di localizzazione; 
+ 8) si verifica un fenomeno di doppia deduzione di componenti negativi di reddito; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «TUIR», testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «soggetto passivo», le societa' ed enti di cui all'articolo 73, comma 1, lettere a) e b), del TUIR nonche' i soggetti di cui alla lettera c) del medesimo comma 1 che sono titolari di reddito di impresa, le stabili organizzazioni nel territorio dello Stato di societa' ed enti di cui all'articolo 73, comma 1, lettera d), del TUIR, le societa' di cui all'articolo 5 del TUIR, con esclusione delle societa' semplici e dei soggetti ad esse assimilati, nonche' le persone fisiche che esercitano un'attivita' di impresa; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «impresa associata»: 
+ 1) un'entita' nella quale il soggetto passivo detiene direttamente o indirettamente una partecipazione in termini di diritto di voto o proprieta' del capitale pari o superiore al 50 per cento ovvero ha il diritto di ricevere una percentuale degli utili di tale entita' pari o superiore al 50 per cento; 
+ 2) un individuo o un'entita' che detiene direttamente o indirettamente nel patrimonio di un soggetto passivo una partecipazione in termini di diritto di voto o proprieta' del capitale pari o superiore al 50 per cento ovvero ha il diritto di ricevere una percentuale degli utili del contribuente pari o superiore al 50 per cento; 
+ 3) un'entita' che faccia parte del medesimo gruppo consolidato a fini di contabilita' finanziaria del soggetto passivo; 
+ 4) un'impresa nella quale il soggetto passivo eserciti un'influenza dominante sulla gestione ai sensi dell'articolo 2359 del codice civile; 
+ 5) un'impresa che eserciti un'influenza dominante sulla gestione del soggetto passivo ai sensi dell'articolo 2359 del codice civile; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «gruppo consolidato a fini di contabilita' finanziaria», un gruppo composto da tutte le entita' pienamente incluse nel bilancio consolidato redatto in conformita' dei principi internazionali d'informativa finanziaria (IFRS) o del sistema nazionale di informativa finanziaria di uno Stato membro; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «componente negativo di reddito», un onere al quale e' associato un flusso finanziario che trova manifestazione nello stesso periodo di imposta in cui detto onere risulta sostenuto oppure in un periodo di imposta anteriore o posteriore ovvero un onere che si considera sostenuto sulla base delle regole di attribuzione degli utili e delle perdite della stabile organizzazione nei rapporti con la casa madre e con le altre stabili organizzazioni secondo le norme del suo Stato di localizzazione nonche' di quello della casa madre e delle altre stabili organizzazioni;
+
+2.
+                        
+                            
+                                Ai fini della lettera r) del comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un componente negativo di reddito che rappresenta il rendimento del sottostante strumento finanziario trasferito non determina un disallineamento da ibridi di cui al numero 1) della stessa lettera r), qualora: 
+ 1) nell'ipotesi in cui il componente negativo di reddito sia sostenuto da un soggetto passivo nell'ambito di un trasferimento ibrido sul mercato, gli importi ricevuti in relazione allo strumento finanziario trasferito siano integralmente imponibili; 
+ 2) nell'ipotesi in cui il componente negativo di reddito sia sostenuto da un operatore finanziario non residente a favore del beneficiario residente nell'ambito di un trasferimento ibrido sul mercato, la giurisdizione dell'operatore finanziario non residente imponga a tale soggetto di includere integralmente nel suo reddito imponibile gli importi ricevuti in relazione allo strumento finanziario trasferito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il disallineamento da ibridi si verifica ai sensi dei numeri 6), 7) e 8) della stessa lettera r) solo nel periodo di imposta e nella misura in cui la giurisdizione del pagatore consente la deduzione a fronte di un importo che non rappresenta reddito a doppia inclusione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un disallineamento e' ritenuto un disallineamento da ibridi se si verifica tra imprese associate, tra un soggetto passivo e un'impresa associata, tra la sede centrale e una stabile organizzazione, tra due o piu' stabili organizzazioni della stessa entita' ovvero nell'ambito di un accordo strutturato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le differenze di reddito imponibile ascrivibili alla valorizzazione del medesimo componente di reddito effettuata secondo le regole delle singole giurisdizioni coinvolte, anche per effetto dell'applicazione dei prezzi di trasferimento, non rientrano nella definizione di disallineamento da ibridi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i benefici di cui all'articolo 1 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, non determinano l'emersione di un disallineamento da ibridi.
 
 Ai fini di cui al comma 1, lettera u), se un individuo o un'entita' detiene direttamente o indirettamente nel patrimonio di un soggetto passivo e in una o piu' entita' una partecipazione pari o superiore al 50 per cento, tutte le entita' interessate ed il soggetto passivo, sono considerate imprese associate.
 
@@ -197,6 +483,31 @@ Lo Stato italiano e' lo Stato del beneficiario laddove il componente positivo di
 ## Art. 8. — Disallineamenti da ibridi
 
 Nella misura in cui un disallineamento da ibridi determina una doppia deduzione, la deduzione del componente negativo di reddito e' negata in capo al soggetto passivo qualora lo Stato italiano sia lo Stato dell'investitore ovvero qualora sia lo Stato del pagatore e la deduzione del componente negativo di reddito non e' negata nello Stato dell'investitore. L'indeducibilita' nello Stato dell'investitore deve risultare da una dichiarazione rilasciata dal contribuente ivi residente o localizzato ovvero da altri elementi certi e precisi.
+
+2.
+                        
+                            
+                                Nella misura in cui un disallineamento da ibridi determina una deduzione senza inclusione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora lo Stato italiano sia lo Stato del pagatore, la deduzione del componente negativo di reddito e' negata in capo al soggetto passivo, salvo che il disallineamento non sia neutralizzato in un altro Stato. L'inclusione nello Stato della casa madre ovvero nello Stato di localizzazione della stabile organizzazione deve risultare da una dichiarazione rilasciata dal contribuente ivi residente o localizzato ovvero da altri elementi certi e precisi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora lo Stato italiano sia lo Stato del beneficiario e la deduzione del componente negativo di reddito non e' negata nello Stato del pagatore, l'importo del corrispondente componente positivo di reddito che altrimenti genererebbe un disallineamento e' imponibile in capo al soggetto passivo, salvo che il disallineamento non sia neutralizzato in un altro Stato. L'indeducibilita' nello Stato del pagatore ovvero l'inclusione nello Stato di localizzazione della stabile organizzazione del soggetto passivo deve risultare da una dichiarazione rilasciata dal contribuente ivi residente o localizzato ovvero da altri elementi certi e precisi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora la deduzione di un componente negativo di reddito sia stata negata in capo ad un soggetto passivo in applicazione della lettera a), la successiva inclusione, nello Stato estero di residenza ovvero di localizzazione del beneficiario, del corrispondente componente positivo nel suo reddito imponibile, in un periodo d'imposta che inizia oltre 12 mesi dalla fine del periodo d'imposta del soggetto passivo con riferimento al quale la deduzione e' stata negata, fa sorgere in capo a quest'ultimo il diritto alla corrispondente deduzione del componente negativo di reddito in precedenza non dedotto.
 
 Non e' consentita la deduzione di un componente negativo di reddito da parte di un soggetto passivo nella misura in cui esso finanzi, direttamente o indirettamente, oneri deducibili che generano un disallineamento da ibridi mediante una transazione o serie di transazioni tra imprese associate o che sono parti di un accordo strutturato. In deroga a quanto riportato nel periodo precedente, il componente negativo di reddito sostenuto o che si ritiene sia sostenuto da un soggetto passivo e' deducibile se e nella misura in cui uno degli Stati di residenza o di localizzazione dei soggetti coinvolti nella transazione o nella serie di transazioni abbia effettuato un adeguamento equivalente con l'effetto di neutralizzare il disallineamento da ibridi in questione.
 
@@ -229,6 +540,54 @@ La richiesta motivata di chiarimenti e' notificata dall'amministrazione finanzia
 
 ## Art. 12. — Definizione di intermediari finanziari
 
+1.
+                        
+                            
+                                Al testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 96, comma 5, nel testo in vigore fino al periodo d'imposta in corso al 31 dicembre 2018, il primo periodo e' sostituito dal seguente: «Le disposizioni dei commi precedenti non si applicano agli intermediari finanziari, alle imprese di assicurazione nonche' alle societa' capogruppo di gruppi assicurativi»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 106: 
+ 1) al comma 3, le parole «enti creditizi e finanziari di cui al decreto legislativo 27 gennaio 1992, n. 87» sono sostituite dalle seguenti: «intermediari finanziari»; 
+ 2) al comma 4, le parole «enti creditizi e finanziari» sono sostituite dalle seguenti: «intermediari finanziari»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 113: 
+ 1) ai comma 1 e 5, le parole «enti creditizi» sono sostituite dalle seguenti: «intermediari finanziari»; 
+ 2) al comma 2, lettera b), le parole: «enti creditizi o finanziari» sono sostituite dalle seguenti: «intermediari finanziari»; 
+ 3) al comma 6, le parole: «ente creditizio» sono sostituite dalle seguenti: «intermediario finanziario»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo l'articolo 162 e' inserito il seguente: «Art. 162-bis (Intermediari finanziari e societa' di partecipazione). - 1. Ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive di cui al decreto legislativo 15 dicembre 1997, n. 446, si definiscono: 
+ a) intermediari finanziari: 
+ 1) i soggetti indicati nell'articolo 2, comma 1, lettera c), del decreto legislativo 28 febbraio 2005, n. 38, e i soggetti con stabile organizzazione nel territorio dello Stato aventi le medesime caratteristiche; 
+ 2) i confidi iscritti nell'elenco di cui all'articolo 112-bis del decreto legislativo 1° settembre 1993, n. 385; 
+ 3) gli operatori del microcredito iscritti nell'elenco di cui all'articolo 111 del decreto legislativo 1° settembre 1993, n. 385; 
+ 4) i soggetti che esercitano in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni in intermediari finanziari, diversi da quelli di cui al numero 1); 
+ b) societa' di partecipazione finanziaria: i soggetti che esercitano in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni in intermediari finanziari; 
+ c) societa' di partecipazione non finanziaria e assimilati: 
+ 1) i soggetti che esercitano in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni in soggetti diversi dagli intermediari finanziari; 
+ 2) i soggetti che svolgono attivita' non nei confronti del pubblico di cui al comma 2 dell'articolo 3 del regolamento emanato in materia di intermediari finanziari in attuazione degli articoli 106, comma 3, 112, comma 3 e 114 del decreto legislativo 1° settembre 1993, n. 385, nonche' dell'articolo 7-ter, comma 1-bis, della legge 30 aprile 1999, n. 130. 
+ 2. Ai fini del comma 1, l'esercizio in via prevalente di attivita' di assunzione di partecipazioni in intermediari finanziari sussiste, quando, in base ai dati del bilancio approvato relativo all'ultimo esercizio chiuso, l'ammontare complessivo delle partecipazioni in detti intermediari finanziari e altri elementi patrimoniali intercorrenti con gli stessi, unitariamente considerati, inclusi gli impegni ad erogare fondi e le garanzie rilasciate, sia superiore al 50 per cento del totale dell'attivo patrimoniale, inclusi gli impegni ad erogare fondi e le garanzie rilasciate. 
+ 3. Ai fini del comma 1, l'esercizio in via prevalente di attivita' di assunzione di partecipazioni in soggetti diversi dagli intermediari finanziari sussiste, quando, in base ai dati del bilancio approvato relativo all'ultimo esercizio chiuso, l'ammontare complessivo delle partecipazioni in detti soggetti e altri elementi patrimoniali intercorrenti con i medesimi, unitariamente considerati, sia superiore al 50 per cento del totale dell'attivo patrimoniale.».
+
 All'articolo 6 del decreto legislativo 15 dicembre 1997, n. 446, sono apportate le seguenti modificazioni: 
  1) al comma 1, le parole «Per le banche e gli altri enti e societa' finanziari indicati nell'articolo 1 del decreto legislativo 27 gennaio 1992, n. 87, e successive modificazioni» sono sostituite dalle seguenti: «Per gli intermediari finanziari»; 
  2) al comma 2, le parole «diversi dalle banche» sono sostituite dalle seguenti: «diversi dai soggetti di cui al comma 1»; 
@@ -248,6 +607,42 @@ Le disposizioni di cui ai Capi I, II e III, Sezione I si applicano a decorrere d
 
 Il comma 5 dell'articolo 96 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, come modificato dall'articolo 1 del presente decreto, si applica anche agli interessi passivi e oneri finanziari assimilati che al termine del periodo d'imposta in corso al 31 dicembre 2018 non sono stati dedotti per effetto della disciplina contenuta nell'articolo 96 del testo unico delle imposte sui redditi nella formulazione vigente anteriormente alle modifiche apportate con il medesimo articolo 1.
 
+3.
+                        
+                            
+                                Per la determinazione del risultato operativo lordo della gestione caratteristica di cui al comma 4 dell'articolo 96 del testo unico delle imposte sui redditi, come modificato dall'articolo 1 del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non si tiene conto dei proventi e degli oneri rilevati all'interno del valore e dei costi della produzione nel conto economico dell'esercizio in corso al 31 dicembre 2018 o degli esercizi precedenti e per i quali sussistono tutte le seguenti condizioni: ai fini dell'articolo 96, nel testo vigente anteriormente alle modifiche apportate dall'articolo 1, hanno concorso alla formazione del risultato operativo lordo dell'esercizio in cui sono stati rilevati contabilmente; al termine dell'esercizio in corso al 31 dicembre 2018 non hanno ancora assunto, in tutto o in parte, rilevanza fiscale e assumono rilevanza fiscale negli esercizi successivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le voci del valore e dei costi della produzione rilevate nei conti economici degli esercizi successivi a quello in corso al 31 dicembre 2018 che rappresentano una rettifica con segno opposto di voci del valore e dei costi della produzione rilevate nel conto economico dell'esercizio in corso al 31 dicembre 2018 o degli esercizi precedenti sono assunte per il loro valore contabile, indipendentemente dal valore, eventualmente diverso, risultante dall'applicazione delle disposizioni volte alla determinazione del reddito di impresa.
+
+4.
+                        
+                            
+                                A decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2018 gli interessi passivi e gli oneri finanziari assimilati, sostenuti in relazione a prestiti stipulati prima del 17 giugno 2016 la cui durata o il cui importo non sono stati modificati successivamente a tale data a seguito di variazioni contrattuali sono deducibili per un importo corrispondente alla somma tra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il 30 per cento del risultato operativo lordo prodotto a partire dal terzo periodo d'imposta successivo a quello in corso al 31 dicembre 2007 e che, al termine del periodo d'imposta in corso al 31 dicembre 2018, non era stato utilizzato per la deduzione degli interessi passivi e degli oneri finanziari ai sensi della disciplina contenuta nell'articolo 96 del testo unico delle imposte sui redditi nella formulazione vigente anteriormente alle modifiche apportate con l'articolo 1 del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo che risulta deducibile in applicazione delle disposizioni dell'articolo 96 del testo unico delle imposte sui redditi come modificato dall'articolo 1 del presente decreto.
+
 Nelle dichiarazioni dei redditi relative ai periodi d'imposta successivi a quello in corso al 31 dicembre 2018 il contribuente puo' scegliere, ai fini della deduzione degli interessi passivi indicati nel comma 4, se utilizzare prioritariamente l'ammontare di cui alla lettera a) o l'importo di cui alla lettera b) del comma 4.
 
 Le disposizioni del Capo III, Sezione II, si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2018, nonche' agli utili percepiti e alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
@@ -263,6 +658,24 @@ Per i soggetti di cui al numero 1) della lettera c) del comma 1 dell'articolo 16
 ## Art. 14. — Abrogazioni
 
 Il comma 6 dell'articolo 179 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e' abrogato con effetto dal periodo d'imposta successivo a quello in corso al 31 dicembre 2018.
+
+2.
+                        
+                            
+                                All'articolo 1, comma 36, della legge 24 dicembre 2007, n. 244: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel primo periodo, le parole da «, ferma restando» e fino alla fine del periodo sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo periodo e' soppresso.
 
 All'articolo 32 del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, il comma 13 e' abrogato.
 

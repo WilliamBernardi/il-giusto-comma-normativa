@@ -8,8 +8,8 @@ codice_redazionale: 090G0082
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,9 +37,168 @@ Restano ferme le competenze del Ministero degli affari esteri.
 
 L'ICE e' l'ente che, con particolare riguardo alle esigenze delle piccole e medie imprese e dei consorzi e raggruppamenti tra le stesse costituiti, ha il compito di promuovere, facilitare e sviluppare il commercio italiano con l'estero, assumendo le necessarie iniziative e curandone autonomamente la realizzazione.
 
+2.
+                    
+                        
+                            In particolare l'ICE:
+ 
+                        
+                        
+                            a)
+                            
+                                cura lo studio sistematico dei mercati esteri e dei problemi connessi alla internazionalizzazione delle imprese, provvedendo tra l'altro, attraverso anche sistemi elettronici di elaborazione dei dati, alla raccolta e alla diffusione di ogni utile informazione relativa alle correnti di traffico internazionale, alle possibilita' di sbocco per le esportazioni italiane di beni e servizi, alle normative che disciplinano gli scambi internazionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornisce alle imprese italiane che operano nel commercio internazionale e ad operatori economici pubblici che ne facciano richiesta servizi di informazione specifica, di consulenza, di assistenza tecnica con le modalita' di cui all'art. 3, comma 4;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sviluppa la promozione del prodotto italiano nel mondo, anche fornendo assistenza alle imprese estere che intendono commerciare con l'Italia e curando la divulgazione del servizio marittimo italiano e degli altri servizi di trasporto o comunque complementari ai fini dell'immagine complessiva della produzione nazionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                provvede autonomamente all'attuazione del programma promozionale di cui all'art. 3, comma 5, predisponendo, in coerenza con le indicazioni programmatiche ricevute e previa consultazione con le forze produttive interessate, l'articolazione del programma per iniziative ed informandone il Ministro del commercio con l'estero;
+
+                            
+                        
+                        
+                            e)
+                            
+                                provvede, secondo direttive del Ministro del commercio con l'estero, al coordinamento progettuale, a livello tecnico-operativo, delle iniziative promozionali da realizzarsi all'estero da parte di altri enti od organismi pubblici, a carattere nazionale, regionale o locale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                favorisce la formazione professionale ed il perfezionamento in materia di promozione e di commercio internazionale, anche per singole categorie produttive.
+
+3.
+                    
+                        
+                            L'Istituto inoltre:
+ 
+                        
+                        
+                            a)
+                            
+                                opera al fine di agevolare i processi di internazionalizzazione dell'impresa, anche facilitando il reperimento sui mercati internazionali di materie prime e prodotti essenziali per l'economia nazionale e per lo sviluppo delle esportazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                favorisce lo sviluppo dei consorzi per l'esportazione e l'importazione e lo sviluppo del sistema fieristico italiano all'estero;
+
+                            
+                        
+                        
+                            c)
+                            
+                                adotta e promuove, sulla base della legislazione vigente, le iniziative necessarie alla protezione del prodotto italiano all'estero e alla registrazione e protezione del marchio nazionale di esportazione; formula al riguardo proposte per gli interventi di competenza del Ministero degli affari esteri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                provvede alla tenuta degli albi degli esportatori di prodotti ortofrutticoli ed agrumari, nonche' di fiori e piante ornamentali ed esercita i controlli di qualita' nel settore degli ortofrutticoli sui prodotti ammessi all'importazione e all'esportazione nei confronti dei Paesi terzi e sui prodotti commercializzati dalle diverse zone ricadenti nel territorio italiano verso le altre zone comunitarie e viceversa, ai sensi del regolamento CEE n. 1450/85 della Commissione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                cura lo svolgimento di ogni altra attivita' demandatagli dalla legge e, nell'ambito dei propri fini istituzionali, l'attuazione degli incarichi affidatigli dal Ministero del commercio con l'estero ovvero, sulla base di apposite convenzioni, dal Ministero dell'agricoltura e delle foreste, dal Ministero dell'industria, del commercio e dell'artigianato, dal Ministero degli affari esteri, anche per cio' che riguarda la cooperazione allo sviluppo, da altre pubbliche amministrazioni, enti ed organizzazioni nazionali o internazionali.
+
 L'Istituto, sulla base anche di eventuali direttive del Ministro del commercio con l'estero, riferisce a quest'ultimo e, per quanto di sua competenza, al Ministero degli affari esteri, nonche' alle altre amministrazioni interessate, informazioni ed elementi utili alla elaborazione delle linee di politica promozionale e commerciale con l'estero.
 
 ## Art. 3. — Funzioni dell'Istituto
+
+1.
+                    
+                        
+                            Per l'espletamento dei suoi compiti l'ICE puo', tra l'altro:
+ 
+                        
+                        
+                            a)
+                            
+                                realizzare all'estero esposizioni di prodotti italiani, mostre, fiere ed altre iniziative promozionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                corrispondere direttamente con pubbliche amministrazioni, enti ed organizzazioni per lo scambio di informazioni concernenti il commercio internazionale e per l'acquisizione sistematica di notizie in ordine alla programmazione all'estero di manifestazioni alle quali possano opportunamente abbinarsi iniziative promozionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                organizzare, per il tramite anche di istituzioni specializzate, corsi, seminari o convegni in materia di formazione o perfezionamento professionale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                organizzare centri all'estero di addestramento professionale e di assistenza tecnica per macchinari italiani, d'intesa con le organizzazioni professionali di settore;
+
+                            
+                        
+                        
+                            e)
+                            
+                                stipulare con imprese, enti, associazioni ed organismi nazionali o esteri, convenzioni inerenti alla pubblicazione e diffusione di materiale conoscitivo riguardante il commercio internazionale, ovvero idoneo a propagandare all'estero l'immagine del prodotto italiano in generale o relativamente a comparti produttivi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                stipulare altresi', fatta salva la piena utilizzazione delle professionalita' interne, convenzioni finalizzate alla organizzazione, in Italia e all'estero, di servizi di informazione, consulenza ed assistenza tecnica alle imprese italiane operanti nel settore internazionale, relativamente ai problemi di carattere, tra l'altro, commerciale, creditizio, assicurativo, fiscale, valutario, doganale o di trasporto, inerenti all'esportazione di prodotti italiani;
+
+                            
+                        
+                        
+                            g)
+                            
+                                stipulare con le amministrazioni regionali, con le camere di commercio, industria, artigianato ed agricoltura e con i centri regionali per il commercio estero delle unioni regionali delle camere stesse, apposite convenzioni per lo scambio sistematico di informazioni sui programmi e sulle attivita' di tali enti in materie interessanti il commercio con l'estero e per la realizzazione di programmi promozionali coordinati inerenti a settori produttivi di tipico e specifico interesse regionale o locale;
+
+                            
+                        
+                        
+                            h)
+                            
+                                stipulare, con i soggetti di cui alla lettera g) nonche' con enti od organizzazioni pubbliche, nazionali o estere, convenzioni per lo scambio, anche attraverso sistemi elettronici di elaborazione dati, di informazioni concernenti il commercio internazionale;
+
+                            
+                        
+                        
+                            i)
+                            
+                                stipulare con i consorzi all'esportazione convenzioni per l'accesso sistematico dei consorzi stessi ai servizi di informazione e di assistenza tecnica organizzati dall'Istituto;
+
+                            
+                        
+                        
+                            l)
+                            
+                                stipulare con le aziende agricole e con le piccole e medie imprese che svolgono attivita' diretta alla produzione di beni e servizi, nonche' con consorzi o raggruppamenti tra le stesse costituiti, convenzioni per la predisposizione ed attuazione, in Paesi diversi da quelli della Comunita' europea, di progetti di penetrazione commerciale.
 
 Nell'esercizio della propria attivita' istituzionale, l'ICE puo' avvalersi dei centri regionali per il commercio estero delle unioni regionali delle camere di commercio, industria, artigianato ed agricoltura ed agire, sulla base di eventuali apposite convenzioni, per il tramite delle camere stesse, ovvero, per attivita' da svolgersi all'estero, per il tramite delle camere di commercio italiane all'estero riconosciute ai sensi delle leggi vigenti.
 
@@ -68,11 +227,68 @@ Nel quadro del coordinamento di cui al comma 1, possono essere convocate, presso
 
 L'esercizio finanziario dell'ICE inizia il 1 gennaio e termina il 31 dicembre di ciascun anno.
 
+2.
+                    
+                        
+                            Costituiscono entrate proprie dell'Istituto:
+ 
+                        
+                        
+                            a)
+                            
+                                i corrispettivi dei servizi prestati agli operatori economici pubblici o privati, determinati a norma dell'art. 3, comma 4;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le assegnazioni annuali, a carico dello stato di previsione della spesa del Ministero del commercio con l'estero, a fronte dei servizi compresi nel programma promozionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le altre assegnazioni a carico del bilancio dello Stato, a fronte di servizi prestati a richiesta delle amministrazioni dello Stato e sulla base di apposite convenzioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i proventi patrimoniali e di gestione, ivi compresi quelli dei servizi informativi e della vendita delle pubblicazioni e relativa pubblicita' e quelli provenienti dalla partecipazione di imprese all'attuazione del programma promozionale; gli eventuali contributi di amministrazioni, associazioni, enti pubblici o privati; le altre entrate eventuali.
+
 Affluiscono altresi' all'entrata dell'ICE, ai sensi dell'art. 3, comma 2, della legge 18 marzo 1989, n. 106, i contributi annuali alle spese di funzionamento in Italia e all'estero erogati dal Ministero del commercio con l'estero, in unica soluzione all'inizio di ciascun anno finanziario, a fronte delle spese generali dell'Istituto non coperte dalle entrate di cui al comma 2.
 
 La gestione finanziaria e patrimoniale dell'ICE e' disciplinata da norme ispirate alle disposizioni del codice civile in materia di imprese, nonche' alle specifiche esigenze di operativita' dell'Istituto, in relazione anche all'attivita' da svolgersi all'estero. In ogni caso deve essere tenuta contabilita' separata per ciascuna delle entrate derivanti da attivita' proprie dell'Istituto.
 
 Le norme di cui al comma 4 prevedono, in particolare, che i bilanci dell'Istituto siano redatti sulla base delle disposizioni del codice civile e delle normative contabili in materia di bilancio delle societa' per azioni e recano particolari disposizioni e schemi di sintesi che consentono il raccordo dei bilanci e delle contabilita' dell'Istituto con le norme di contabilita' generale dello Stato. Le norme stesse prevedono l'obbligo di certificazione dei bilanci e stabiliscono i limiti entro i quali l'Istituto puo' avvalersi di istituti di credito per il servizio di tesoreria relativamente alle entrate proprie non provenienti da assegnazioni o contributi a carico del bilancio dello Stato.
+
+6.
+                    
+                        
+                            L'Istituto adotta un sistema di contabilita' analitica di tipo industriale sulla cui base sono tra l'altro forniti, con la relazione di cui all'art. 1, comma 3, dettagliati elementi informativi sui costi delle attivita' espletate e dei servizi prestati e sui corrispettivi introitati, specificando in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                la quota dei costi generali non ripartibili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la quota dei costi generali imputabili a ciascuna tipologia delle attivia' espletate o dei servizi prestati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la differenza, per i servizi prestati dietro corrispettivo, tra il prezzo di mercato e le tariffe agevolate in concreto applicate.
 
 Il controllo della Corte dei conti sulla gestione finanziaria dell'Istituto e' esclusivamente esercitato, anche per la gestione dei fondi di cui ai commi 2 e 3, ai sensi della legge 21 marzo 1958, n. 259, e con le modalita' di cui all'art. 12 della legge stessa.
 
@@ -98,6 +314,45 @@ Per esigenze di coordinamento tra progetti ed iniziative di promozione all'ester
 
 ## Art. 7. — Organi dell'Istituto
 
+1.
+                    
+                        
+                            Sono organi dell'Istituto:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comitato esecutivo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei revisori;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il direttore generale.
+
 ## Art. 8. — Il presidente
 
 Il presidente dell'ICE, scelto tra persone di comprovata competenza, e' nominato con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri adottata su proposta del Ministro del commercio con l'estero. Il presidente dura in carica cinque anni e puo' essere confermato una sola volta.
@@ -111,6 +366,84 @@ Il consiglio di amministrazione dell'Istituto designa, su proposta del president
 Il presidente, sentito il consiglio di amministrazione, puo' delegare a membri del consiglio stesso specifiche funzioni inerenti alla rappresentanza dell'Istituto.
 
 ## Art. 9. — Il consiglio di amministrazione
+
+1.
+                    
+                        
+                            Il consiglio di amministrazione dell'ICE e' nominato con decreto del Ministro del commercio con l'estero ed e' composto, oltre che dal presidente dell'Istituto, da rappresentanti, di comprovata esperienza, dei seguenti organismi:
+ 
+                        
+                        
+                            a)
+                            
+                                un rappresentante del Ministero del commercio con l'estero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante del Ministero del tesoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante del Ministero degli affari esteri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante di ciascuno dei seguenti altri Ministeri: finanze; bilancio e programmazione economica; agricoltura e foreste; industria, commercio ed artigianato; partecipazioni statali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante dell'Ente nazionale per il turismo (ENIT);
+
+                            
+                        
+                        
+                            f)
+                            
+                                dodici rappresentanti degli operatori economici dell'industria, dell'agricoltura, del commercio, dell'artigianato, della cooperazione e del credito, scelti nell'ambito di terne indicate, su richiesta del Ministro del commercio con l'estero, da associazioni di categoria particolarmente rappresentative sul piano nazionale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante dell'Unione italiana delle camere di commercio.
+
+2.
+                    
+                        
+                            Fanno altresi' parte del consiglio di amministrazione:
+ 
+                        
+                        
+                            a)
+                            
+                                tre membri in rappresentanza rispettivamente delle regioni dell'Italia settentrionale, centrale, meridionale ed insulare, designati dalla commissione di cui all'art. 13 della legge 16 maggio 1970, n. 281;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quattro membri, di cui uno in rappresentanza dei dirigenti e tre in rappresentanza degli altri lavoratori dipendenti, designati dalle organizzazioni sindacali maggiormente rappresentative sul piano nazionale indicate dal Ministero del lavoro e della previdenza sociale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sei membri scelti dal Ministro del commercio con l'estero tra persone particolarmente esperte in materia di commercio con l'estero.
 
 I consiglieri di amministrazione durano in carica cinque anni e possono essere confermati una sola volta. Le nomine effettuate in caso di vacanza, nel corso del quinquennio, hanno validita' sino alla scadenza del quinquennio stesso.
 
@@ -126,6 +459,66 @@ Il consiglio di amministrazione stabilisce le procedure per la convocazione ed i
 
 ## Art. 10. — Attribuzioni del consiglio di amministrazione
 
+1.
+                    
+                        
+                            Il consiglio di amministrazione delibera:
+ 
+                        
+                        
+                            a)
+                            
+                                il regolamento del personale di cui all'art. 18, commi 1 e 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il trattamento economico dei dipendenti dell'Istituto e gli aspetti dell'organizzazione del lavoro e del rapporto di impiego, di cui all'art. 18, comma 3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le norme che disciplinano la gestione finanziaria e patrimoniale dell'Istituto, di cui all'art. 5, commi 4 e 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i regolamenti interni, i programmi di attivita' dell'Istituto e le eventuali direttive generali per l'espletamento delle funzioni dell'Istituto e per la sua organizzazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i bilanci preventivi e le relative variazioni, nonche' i bilanci consuntivi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i servizi da prestare dietro corrispettivo, di cui all'art. 3, comma 4;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'assunzione delle partecipazioni di cui all'art. 3, comma 3;
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli altri provvedimenti riservati al consiglio di amministrazione dal presente statuto e quelli che il comitato esecutivo ritenga di sottoporgli.
+
 Il bilancio preventivo ed il conto consuntivo, corredati della relazione del consiglio di amministrazione e della relazione del collegio dei revisori, sono deliberati il primo entro il mese di ottobre dell'anno precedente l'esercizio cui si riferisce ed il secondo entro il mese di aprile dell'anno successivo all'esercizio scaduto. Le relative delibere sono sottoposte all'approvazione del Ministro del commercio con l'estero, di concerto con il Ministro del tesoro, entro dieci giorni dalla loro assunzione. Sono altresi' sottoposte all'approvazione del Ministro del commercio con l'estero, di concerto con il Ministro del tesoro, entro dieci giorni dalla loro deliberazione le variazioni al bilancio di previsione.
 
 Le delibere di cui alle lettere a) e c) del comma 1 sono soggette all'approvazione del Ministro del comercio con l'estero, di concerto con il Ministro del tesoro. Le delibere di cui alla lettera b) sono approvate dal Ministro del commercio con l'estero che ne verifica la compatibilita' finanziaria, tenuto conto dell'entita del contributo di funzionamento dell'ICE a carico del bilancio dello Stato e della evoluzione delle entrate proprie dell'Istituto. Le delibere di cui alla lettera f) sono approvate dal Ministro del commercio con l'estero o adottate su sua richiesta. Le delibere di cui alla lettera g) sono approvate, previa verifica delle compatibilita' finanziarie, dal Ministro del commercio con l'estero, di concerto con il Ministro del tesoro.
@@ -136,6 +529,31 @@ Trascorso tale termine, le delibere non restituite diventano esecutive. Ove occo
 Il consiglio di amminitrazione ha facolta' di affidare lo studio di particolari e rilevanti problemi ad appositi comitati consultivi consiliari e puo' affidare ad esperti esterni lo studio di specifiche problematiche non comprese nell'ambito di professionalita' assicurato dal personale dell'Istituto.
 
 ## Art. 11. — Il comitato esecutivo
+
+1.
+                    
+                        
+                            Il comitato esecutivo e' nominato con decreto del Ministro del commercio con l'estero e dura in carica cinque anni. E' composto, oltre che dal presidente dell'Istituto, da:
+ 
+                        
+                        
+                            a)
+                            
+                                i consiglieri di cui alle lettere a) ,
+                            
+                        
+                        
+                            b)
+                            
+                                ,
+                            
+                        
+                        
+                            c)
+                            
+                                e g) dell'art. 9, comma 1;
+ b) uno dei consiglieri di cui alla lettera a) dell'art. 9, comma 2;
+ c) tre dei consiglieri di cui alla lettera c) dell'art. 9, comma 2.
 
 Al comitato esecutivo, fatte salve le competenze espressamente riservate al consiglio di amministrazione e salva altresi' la possibilita' di sottoporre al consiglio di amministrazione delibere di particolare importanza, compete l'amministrazione ordinaria e straordinaria dell'Istituto. Il regolamento del personale e le norme che disciplinano la gestione finanziaria e patrimoniale dell'Istituto possono demandare singole attribuzioni al presidente e al direttore generale, ferma restando la possibilita' di avocazione da parte del comitato esecutivo.
 
@@ -182,6 +600,24 @@ Qualora il direttore generale provenga dai ruoli dirigenziali dell'ente o dell'a
 Il direttore generale puo' essere coadiuvato da non piu' di tre dirigenti con funzioni di vice direttore generale, nominati su sua proposta dal consiglio di amministrazione, ai quali puo' affidare, mediante delega, funzioni inerenti alla sua carica. All'atto della nomina, uno dei vice direttori generali e' designato dal consiglio di amministrazione a sostituire il direttore generale in caso di sua assenza o impedimento.
 
 ## Art. 15. — Cause di incompatibilita'
+
+1.
+                    
+                        
+                            E' causa di incompatibilita' con le cariche di presidente, di componente del consiglio di amministrazione o del collegio dei revisori, di direttore generale:
+ 
+                        
+                        
+                            a)
+                            
+                                avere, all'atto della nomina, vertenze in corso con l'Ente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere proprietario o comproprietario, amministratore o sindaco o ricoprire altra carica simile, anche non retribuita, essere consulente o dipendente di imprese esercenti attivita' che, nei riguardi di quelle svolte dall'Ente, siano in concreto contrastanti o concorrenti, oppure di imprese che con l'ente abbiano contratti per lavori, servizi o forniture. Tale incompatibilita' sussiste anche quando l'Ente abbia in dette imprese una partecipazione azionaria, salvo specifica deroga da autorizzarsi da parte del Ministro del commercio con l'estero, di concerto con il Ministro del tesoro.
 
 Non possono, inoltre, appartenere contemporaneamente al consiglio di amministrazione i parenti o gli affini sino al terzo grado, i coniugi, l'affiliante o l'affiliato; la incompatibilita' colpisce il componente meno anziano di eta'. I membri del consiglio di amministrazione non possono far parte dei comitati consultivi di cui all'art. 17.
 

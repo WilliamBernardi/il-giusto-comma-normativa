@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2002-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,12 +34,76 @@ Le somme stanziate dall'articolo 23, comma 3, della legge, nel limite di lire 16
 
 Il contributo per le spese sostenute per l'adeguamento degli impianti al piano nazionale di assegnazione delle frequenze televisive e' attribuito nei casi previsti dall'articolo 2, comma 1, del decreto-legge 23 gennaio 2001, n. 5, convertito, con modificazioni, dalla legge 20 marzo 2001, n. 66, per il trasferimento degli impianti televisivi.
 
+4.
+                    
+                        
+                            Il contributo per l'ammodernamento degli impianti e' attribuito per le seguenti categorie di interventi:
+ 
+                        
+                        
+                            a)
+                            
+                                azioni di risanamento degli impianti di cui all'articolo 2, comma 2, del citato decreto-legge n. 5 del 2001, convertito, con modificazioni, dalla legge n. 66 del 2001;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sostituzione degli impianti o degli elementi costituenti gli impianti stessi per ponti di trasferimento per liberazione delle bande di frequenze attribuite al servizio UMTS - IMT 2000;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sostituzione degli impianti o degli elementi costituenti gli impianti stessi per ponti di trasferimento e per diffusione per l'adeguamento al vigente piano nazionale di ripartizione delle frequenze;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sostituzione in tecnica digitale degli impianti o degli elementi costituenti gli impianti stessi per la radiodiffusione televisiva su frequenze terrestri.
+
 I contributi previsti dai commi 2, 3 e 4 sono erogati agli aventi titolo, in misura ((non superiore all'80 per cento)) delle spese sostenute debitamente documentate. La percentuale e' fissata in misura uguale per tutti i richiedenti. Nel caso in cui il totale delle richieste superi l'ammontare complessivo delle somme annualmente stanziate, la percentuale stessa e' ridotta nella misura necessaria a rispettare il limite di stanziamento.
 
 ## Art. 2. — Domanda di ammissione al contributo
 
 Le emittenti televisive locali indicate dall'articolo 1, comma 1, del presente decreto, che intendono beneficiare del contributo previsto dall'articolo 23 della legge, devono inviare al Ministero delle comunicazioni - Direzione generale concessioni e autorizzazioni - Divisione 7 - Viale America, 201 - 00144 Roma, apposita domanda a mezzo raccomandata postale ovvero per fax, entro il 28 febbraio dell'anno successivo a quello per il quale e' presentata la domanda.
 Per l'ottenimento del contributo previsto per l'anno 2000, la domanda va inviata entro il 31 dicembre 2001.
+
+2.
+                    
+                        
+                            La domanda deve contenere, a pena di esclusione dall'erogazione del contributo:
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione degli elementi atti ad individuare l'emittente richiedente, ivi compreso il numero di partita IVA e il codice fiscale del titolare dell'emittente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la dichiarazione che il richiedente e' titolare di emittente legittimamente operante alla data del 1 settembre 1999;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la descrizione degli interventi effettuati sugli impianti che compongono la rete di diffusione dell'emittente con l'indicazione delle spese sostenute, dettagliatamente documentate a mezzo di originale delle fatture e indicazione degli estremi dei pagamenti effettuati. Nel caso di spese sostenute per piu' categorie, va indicato anche il totale delle spese complessivamente sostenute;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la sottoscrizione effettuata nei modi stabiliti dall'articolo 38 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, emanato con decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
 ## Art. 3. — Erogazione e revoca del contributo
 

@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -118,6 +118,24 @@ Alla legge n. 633 del 1941, dopo l'articolo 171-octies e' inserito il seguente:
 
 ## Art. 14. — Modifiche all'articolo 121 del decreto legislativo 10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 121 del Codice della proprieta' industriale, di cui al decreto legislativo 10 febbraio 2005, n. 30, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, secondo periodo, dopo le parole: «il giudice ordini», sono inserite le seguenti: «alla controparte»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' inserito il seguente: «2-bis. In caso di violazione commessa su scala commerciale mediante atti di pirateria di cui all'articolo 114, il giudice puo' anche disporre, su richiesta di parte, l'esibizione della documentazione bancaria, finanziaria e commerciale che si trovi in possesso della controparte.».
+
 ## Art. 15. — Introduzione dell'articolo 121-bis nel decreto legislativo 10 febbraio 2005, n. 30
 
 Al Codice della proprieta' industriale, di cui al decreto legislativo 10 febbraio 2005, n. 30, dopo l'articolo 121 e' inserito il seguente:
@@ -133,6 +151,39 @@ Al Codice della proprieta' industriale, di cui al decreto legislativo 10 febbrai
 
 ## Art. 16. — Modifiche all'articolo 124 del decreto legislativo 10 febbraio 2005, n. 30
 
+1.
+                    
+                        
+                            All'articolo 124 del Codice della proprieta' industriale, di cui al decreto legislativo 10 febbraio 2005, n. 30, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Misure correttive e sanzioni civili»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Con la sentenza che accerta la violazione di un diritto di proprieta' industriale possono essere disposti l'inibitoria della fabbricazione, del commercio e dell'uso delle cose costituenti violazione del diritto, e l'ordine di ritiro definitivo dal commercio delle medesime cose nei confronti di chi ne sia proprietario o ne abbia comunque la disponibilita'.
+L'inibitoria e l'ordine di ritiro definitivo dal commercio possono essere emessi anche contro ogni intermediario, che sia parte del giudizio ed i cui servizi siano utilizzati per violare un diritto di proprieta' industriale.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: «3. Con la sentenza che accerta la violazione di un diritto di proprieta' industriale puo' essere ordinata la distruzione di tutte le cose costituenti la violazione, se non vi si oppongono motivi particolari, a spese dell'autore della violazione. Non puo' essere ordinata la distruzione della cosa e l'avente diritto puo' conseguire solo il risarcimento dei danni, se la distruzione della cosa e' di pregiudizio all'economia nazionale. Se i prodotti costituenti violazione dei diritti di proprieta' industriale sono suscettibili, previa adeguata modifica, di una utilizzazione legittima, puo' essere disposto dal giudice, in luogo del ritiro definitivo o della loro distruzione, il loro ritiro temporaneo dal commercio, con possibilita' di reinserimento a seguito degli adeguamenti imposti a garanzia del rispetto del diritto.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6 e' aggiunto, in fine, il seguente periodo: «Nell'applicazione delle sanzioni l'autorita' giudiziaria tiene conto della necessaria proporzione tra la gravita' delle violazioni e le sanzioni, nonche' dell'interesse dei terzi.».
+
 ## Art. 17. — Sostituzione dell'articolo 125 del decreto legislativo 10 febbraio 2005, n. 30
 
 L'articolo 125 del Codice della proprieta' industriale, di cui al decreto legislativo n. 30 del 2005, e' sostituito dal seguente:
@@ -145,6 +196,26 @@ L'articolo 125 del Codice della proprieta' industriale, di cui al decreto legisl
 All'articolo 127 del Codice della proprieta' industriale, di cui al decreto legislativo n. 30 del 2005, dopo il comma 1 e' inserito il seguente: «1-bis. Chiunque si rifiuti senza giustificato motivo di rispondere alle domande del giudice ai sensi dell'articolo 121-bis ovvero fornisce allo stesso false informazioni e' punito con le pene previste dall'articolo 372 del codice penale, ridotte della meta'.».
 
 ## Art. 19. — Modifiche all'articolo 131 del decreto legislativo 10 febbraio 2005, n. 30
+
+1.
+                    
+                        
+                            All'articolo 131 del Codice della proprieta' industriale, di cui al decreto legislativo n. 30 del 2005, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Il titolare di un diritto di proprieta' industriale puo' chiedere che sia disposta l'inibitoria di qualsiasi violazione imminente del suo diritto e del proseguimento o della ripetizione delle violazioni in atto, ed in particolare puo' chiedere che siano disposti l'inibitoria della fabbricazione, del commercio e dell'uso delle cose costituenti violazione del diritto, e l'ordine di ritiro dal commercio delle medesime cose nei confronti di chi ne sia proprie-tario o ne abbia comunque la disponibilita', secondo le norme del codice di procedura civile concernenti i procedimenti cautelari. L'inibitoria e l'ordine di ritiro dal commercio possono essere chiesti, sugli stessi presupposti, contro ogni soggetto i cui servizi siano utilizzati per violare un diritto di proprieta' industriale.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, sono inseriti i seguenti: «1-bis. Se il giudice nel rilasciare il provvedimento cautelare non stabilisce il termine entro cui le parti devono iniziare il giudizio di merito, quest'ultimo deve essere iniziato entro il termine di venti giorni lavorativi o di trentuno giorni di calendario qualora questi rappresentino un periodo piu' lungo. Il temine decorre dalla pronuncia dell'ordinanza se avvenuta in udienza o, altrimenti, dalla sua comunicazione.
+ 1-ter. Se il giudizio di merito non e' iniziato nel termine perentorio di cui al comma 1, ovvero se successivamente al suo inizio si estingue, il provvedimento cautelare perde la sua efficacia.
+ 1-quater. Le disposizioni di cui al comma 1-ter non si applicano ai provvedimenti di urgenza emessi ai sensi dell'articolo 700 del codice di procedura civile ed agli altri provvedimenti cautelari idonei ad anticipare gli effetti della sentenza di merito. In tali casi ciascuna parte puo' iniziare il giudizio di merito.».
 
 ## Art. 20. — Introduzione dell'articolo 144-bis nel decreto legislativo 10 febbraio 2005, n. 30
 

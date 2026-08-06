@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2012-08-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,95 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 2 gi
 Sulla proposta del Ministro della sanita', di concerto con il Ministro del tesoro;
 
 ## Art. 1. — Funzioni e compiti
+
+1.
+                    
+                        
+                            L'Istituto superiore di sanita' (I.S.S.), oltre alle funzioni di cui all'art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267: 
+ 
+                        
+                        
+                            a)
+                            
+                                svolge attivita' di ricerca scientifica ai fini della tutela della salute pubblica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esercita attivita' di consulenza in campo ambientale per quanto attiene la tutela della salute pubblica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                provvede all'accertamento della composizione e della innocuita' dei prodotti farmaceutici di nuova istituzione prima della sperimentazione clinica sull'uomo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esegue, nei casi previsti dalle leggi, accertamenti ispettivi, controlli di Stato e controlli analitici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                compie accertamenti ed indagini di natura igienico sanitaria  in relazione all'assetto territoriale, aria, acque, luoghi di lavoro; 
+                            
+                        
+                        
+                            f)
+                            
+                                interviene, a tutela della salute pubblica, nel campo 
+igienico-sanitario, provvedendo in particolare: alla elaborazione delle norme tecniche concernenti farmaci, alimenti, prodotti, attivita' ed opere del settore; alla conservazione, distribuzione e preparazione degli standards biologici; alla classificazione ed all'aggiornamento dell'elenco delle sostanze di cui e' vietato l'uso nella pratica sportiva; inoltre alla elaborazione ed all'aggiornamento di norme per l'uso di sostanze e preparati chimici in agricoltura; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                esercita vigilanza, limitatamente all'attivita' di sanita' pubblica, sugli istituti zooprofilattici; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                produce, su richiesta del Ministro della sanita', sostanze terapeutiche, profilattiche e diagnostiche, nell'interesse pubblico; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                stipula accordi di collaborazione con amministrazioni, enti, associazioni ed altre persone giuridiche pubbliche o private nazionali, estere o internazionali, anche ricevendone contributi, per lo svolgimento di ricerche particolari attinenti ai compiti istituzionali; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                promuove convegni e dibattiti scientifici a carattere nazionale ed internazionale sui temi riguardanti i suoi compiti istituzionali; partecipa con propri esperti a convegni e dibattiti nazionali ed internazionali riguardanti gli stessi compiti; rende noti mediante pubblicazioni scientifiche i risultati delle ricerche effettuate, i metodi di analisi elaborati ed in generale la documentazione scientifica elaborata o raccolta nell'interesse della sanita' pubblica; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                collabora con il Ministro della sanita' all'elaborazione e all'attuazione della programmazione sanitaria e scientifica; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                appronta ed aggiorna periodicamente l'inventario nazionale delle sostanze chimiche e preparati corredati dalle caratteristiche chimico-fisiche e tossicologiche necessarie per la valutazione del rischio sanitario connesso alla loro presenza nell'ambiente. 
+((1))
 
 ------------
                         AGGIORNAMENTO (1)
@@ -99,6 +188,31 @@ L'attivita' svolta durante il periodo di aspettativa per motivi di studio e rice
 
 ## Art. 5. — Organi collegiali ed individuali
 
+1.
+                    
+                        
+                            Sono organi dell'Istituto: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comitato amministrativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comitato scientifico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il direttore dell'Istituto.
+
 Il consiglio dei direttori di laboratorio ed il consiglio di laboratorio, continuano ad esercitare le funzioni di cui agli articoli 10 ed 11 della legge 7 agosto 1973, n. 519, con l'esclusione, per il consiglio dei direttori di laboratorio, di quelle di cui all'art. 10, comma 3, n. 4, della citata legge n. 519 del 1973. ((1))
 
 ------------
@@ -109,6 +223,38 @@ Il consiglio dei direttori di laboratorio ed il consiglio di laboratorio, contin
 
 ## Art. 6. — Comitato amministrativo: composizione e funzioni
 
+1.
+                    
+                        
+                            Il comitato amministrativo e' nominato con decreto del Ministro della sanita'; e' presieduto dal Ministro o per delega da un Sottosegretario di Stato, rimane in carica per tre anni, ed e' composto da sei esperti di riconosciuta competenza nei settori di attivita' dell'Istituto, anche estranei alla pubblica amministrazione dei quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                due designati dal Ministro della sanita' individuati tra i dipendenti dell'Istituto con qualifica non inferiore a dirigente di ricerca e/o dirigente tecnologo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                uno designato dal Ministro del tesoro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                due designati dalla Conferenza permanente per i rapporti tra Stato, le regioni e le province autonome; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                uno designato dalla Associazione nazionale dei comuni italiani (ANCI).
+
 E', altresi', componente di diritto del comitato il direttore dell'Istituto superiore di sanita'. Le funzioni di segretario del comitato sono affidate ad un dirigente amministrativo dell'Istituto superiore di sanita'.
 
 Il comitato si riunisce in adunanza ordinaria una volta al mese ed e' convocato in via straordinaria dal Ministro della sanita' o dal Sottosegretario di Stato da lui delegato quando ne ravvisi l'opportunita' o su richiesta della maggioranza dei componenti.
@@ -118,6 +264,59 @@ Le sedute del comitato sono valide se e' presente la maggioranza dei componenti.
 I componenti del comitato decadono automaticamente dalla carica dopo tre assenze consecutive senza giustificato motivo.
 
 Il compenso per i componenti del comitato e' fissato con decreto del Ministro della sanita' assunto di concerto con il Ministro del tesoro.
+
+7.
+                    
+                        
+                            Il comitato esercita le seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                trasmette con proprio parere, sentito il comitato scientifico, i piani annuali e triennali delle attivita' per l'approvazione del Ministro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delibera il bilancio preventivo, le eventuali variazioni ed il conto consuntivo trasmettendoli al Ministro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera la ripartizione dei fondi fra le strutture organizzative dell'Istituto, in funzione dei compiti alle stesse attribuite e dei risultati conseguiti nell'espletamento delle attivita' scientifiche istituzionali, apprezzati secondo i criteri di valutazione di cui all'art. 7, comma 5, lettera e); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esprime parere sui regolamenti di organizzazione e funzionamento dell'Istituto ai sensi dell'art. 62 della legge 7 agosto 1973, n. 519; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                esprime pareri in ordine agli accordi di collaborazione di cui all'art. 2; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                esprime parere sui concorsi da indire, con riguardo alla ripartizione dei posti, ai titoli ad alle materie di esame; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                esprime il proprio parere ogni volta che gli viene richiesto dal Ministro della sanita' o dal direttore dell'Istituto.
 
 L'ordine del giorno va comunicato, salvo i casi di urgenza, ai componenti del comitato, almeno sette giorni prima della seduta.
 L'ordine del giorno e le deliberazioni sono resi pubblici mediante affissione all'albo dell'Istituto. L'accesso ai relativi documenti e' regolato dalla legge 7 agosto 1990, n. 241. ((1))
@@ -130,11 +329,106 @@ L'ordine del giorno e le deliberazioni sono resi pubblici mediante affissione al
 
 ## Art. 7. — Comitato scientifico: composizione e funzioni
 
+1.
+                    
+                        
+                            Il comitato scientifico e' nominato con decreto del Ministro della sanita' e dura in carica 3 anni. Esso e' composto: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal direttore dell'Istituto che lo presiede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da quindici esperti, anche stranieri, designati dal Ministro della sanita', sentita la conferenza permanente tra Stato, regioni e province autonome, tra personalita' scientifiche italiane ed eventualmente straniere; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da cinque esperti in rappresentanza del Ministero della sanita', del Ministero dell'universita' e della ricerca scientifica e tecnologica, del Ministero dell'ambiente, del Ministero dell'industria, del commercio e dell'artigianato e del Ministero degli affari sociali designati dai rispettivi Ministri; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dai direttori di dipartimento dell'Istituto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dai direttori di laboratorio dell'Istituto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                da tre rappresentanti di ruolo, eletti ogni tre anni, secondo le norme vigenti, da e fra il personale appartenente ai profili di ricercatore o tecnologo o profili superiori, uno per ognuna delle seguenti discipline: 
+ mediche e biologiche; 
+ chimiche e farmaceutiche; 
+ fisiche e tecnologiche.
+
 Le funzioni di segretario sono disimpegnate da un dirigente amministrativo dell'Istituto.
 
 Il presidente del comitato invita alle riunioni esperti dell'Istituto, o esperti esterni anche con cittadinanza straniera, particolarmente competenti nelle materie in esame.
 
 Il compenso per i componenti esterni del comitato scientifico e' fissato con decreto del Ministro della sanita' di concerto con il Ministro del tesoro.
+
+5.
+                    
+                        
+                            Il comitato scientifico: 
+ 
+                        
+                        
+                            a)
+                            
+                                esercita attivita' di consulenza scientifica per l'Istituto in ordine a piani e programmi di attivita' e formula i pareri previsti dall'art. 6, comma 7, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esprime parere sulle materie di studio e ricerca per le quali assegnare le borse di studio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esprime parere su quelle parti del regolamento interno che riguardano la struttura scientifica dell'Istituto e, in particolare, la costituzione e la soppressione dei dipartimenti, laboratori e reparti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esprime parere su quanto previsto dall'art. 2, comma 1, in materia di accordi di collaborazione, nonche' su tutti quegli argomenti che comunque interessano l'attivita' dell'Istituto in connessione con il programma sanitario e scientifico nazionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                esprime annualmente valutazione sull'attivita' di ciascun dipartimento, di ciascun laboratorio, di ciascun laureato facente parte del personale tecnico-scientifico, anche a contratto, avente livello professionale I, II, III, od equivalenti secondo i criteri che predetermina ogni due anni con riferimento ai parametri in uso presso la comunita' scientifica internazionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                determina, ogni due anni, i criteri di valutazione di cui all'art. 4, comma 7.
 
 Il comitato si riunisce almeno 6 volte all'anno e puo' articolare i propri lavori anche per commissioni, nominate dal presidente, sentito il comitato stesso. Esse operano nelle materie e con le modalita' individuate con il provvedimento di nomina. Per le modalita' di funzionamento si applica il precedente art. 6, comma 4.
 
@@ -153,6 +447,54 @@ L'ufficio di direttore dell'Istituto e' conferito, ai sensi e con le modalita' d
 L'incarico ha durata quinquennale e puo' essere rinnovato una sola volta con l'osservanza della stessa procedura, tenuto conto dei risultati raggiunti, avuto riguardo a quanto esposto nella dichiarazione programmatica di cui al seguente comma 4, lettera b).
 
 Il trattamento economico del direttore dell'Istituto e' determinato con decreto del Ministro della sanita' in conformita' a quanto previsto dall'art. 17, comma 14, lettera c), del decreto del Presidente della Repubblica 12 febbraio 1991, n. 171, e con riferimento ai contratti del comparto ricerca.
+
+4.
+                    
+                        
+                            Il direttore dell'Istituto: 
+ 
+                        
+                        
+                            a)
+                            
+                                attua i programmi generali e realizza gli obiettivi indicati dal Ministro della sanita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro sessanta giorni dal conferimento dell'incarico indica con una relazione programmatica al Ministro della sanita', al comitato amministrativo, al comitato scientifico, le linee e le priorita' che intende perseguire; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sovraintende al funzionamento e alle attivita' dell'Istituto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                predispone il piano di attivita' annuale e triennale ed ogni altra proposta su materie oggetto di delibera del comitato amministrativo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                cura la esecuzione delle delibere adottate dal comitato amministrativo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                predispone, entro il primo semestre dell'anno successivo, una relazione sull'attivita' svolta dall'Istituto nell'anno precedente; 
+ h) esercita ogni altro potere di gestione non espressamente attribuito ad altri organi dell'Istituto; 
+ i) conferisce gli incarichi di direttore dei dipartimenti, sentito il comitato scientifico, e di direttore dei laboratori, dei servizi tecnici, di reparto e di ogni altra struttura interna, ai sensi degli articoli 35, 36 e 37 della legge 7 agosto l973, n. 519, fatto salvo quanto previsto dall'art. 19 del decreto legislativo 2 febbraio 1993, n. 29, cosi' come modificato dall'art. 11 del decreto legislativo 23 dicembre 1993, n. 546.
 
 In caso di assenza o impedimento le funzioni di direttore dell'Istituto sono esercitate dal direttore di laboratorio dallo stesso delegato o, in assenza di delega, da colui che vanta la maggiore anzianita' di servizio nella funzione.
 
@@ -203,6 +545,92 @@ Le spese sono iscritte in bilancio nel loro importo integrale.
 Sono vietate gestioni fuori bilancio ad eccezione di quelle previste dalla legge 23 dicembre 1993, n. 559.
 
 Le maggiori entrate e le economie di spesa risultanti alla chiusura di ciascun esercizio finanziario sono utilizzate negli esercizi successivi.
+
+10.
+                    
+                        
+                            L'Istituto provvede all'autonoma gestione delle entrate derivanti dalle seguenti voci: 
+ 
+                        
+                        
+                            a)
+                            
+                                tariffe dei servizi a pagamento resi dall'Istituto ai sensi dell'art. 1, comma 2, del decreto legislativo 30 giugno 1993, n. 267; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quote di cui all'art. 12, comma 2, lettera a), del decreto legislativo 30 dicembre 1992, n. 502, cosi' come modificato dall'art. 
+14, comma 1, lettera a), del decreto legislativo 7 dicembre 1993, n. 517; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                proventi dei contratti di licenza di sfruttamento di brevetti per invenzioni industriali, per modelli di utilita' e per le cessioni di "know-how" i cui diritti economici appartengono all'Istituto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                proventi derivanti dalla vendita dei beni dichiarati fuori uso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                altri eventuali proventi.
+
+11.
+                    
+                        
+                            L'istituto, inoltre, provvede all'autonoma gestione delle spese derivanti dalle seguenti voci: 
+ 
+                        
+                        
+                            a)
+                            
+                                spese per organi istituzionali e per il personale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                spese per il funzionamento dell'Istituto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                spese per l'acquisto di beni e servizi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                spese per liti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i contributi di cui all'art. 1, comma 2, lettera b), del decreto legislativo 30 giugno 1993, n. 267; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ogni eventuale spesa idonea per realizzare i compiti dell'Istituto. ((1))
 
 ------------
                         AGGIORNAMENTO (1)
@@ -298,6 +726,101 @@ I servizi di cui trattasi sono resi solo a seguito del pagamento delle somme sec
 Possono essere eseguiti servizi e disposte spese in economia entro il limite massimo di L. 150.000.000.
 
 Le provviste in economia per l'acquisizione di beni e servizi per cui non sia possibile, per ragioni di efficienza e di economicita' dell'azione amministrativa, provvedere altrimenti, sono eseguite mediante affidamento ad imprese o persone di nota capacita' ed idoneita'.
+
+3.
+                    
+                        
+                            Le spese di cui al comma 1 devono riguardare: 
+ 
+                        
+                        
+                            a)
+                            
+                                acquisto di medicinali, sostanze chimiche, biologiche e radioattive, prodotti terapeutici, piante e semi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisto di animali per esperimento o per preparazione di sieri e vaccini, nonche' dei necessari mangimi e delle strutture per stabulazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                lavori urgenti di manutenzione dei locali adibiti ad uso dell'Istituto superiore di sanita', ivi compresi quelli di installazione di impianti tecnologici di qualsiasi genere; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                spese per congressi, conferenze, riunioni, convegni ed altre manifestazioni culturali e scientifiche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                acquisto, noleggio, manutenzione, riparazione di mezzi di trasporto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                acquisto di libri, riviste, giornali, pubblicazioni scientifiche di vario genere, abbonamenti a periodici e ad agenzie di informazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                spese di rappresentanza e casuali; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                spese editoriali, di documentazione e di pubblicita', nonche' lavori di traduzione e copia qualora l'Amministrazione non possa provvedere con proprio personale, da affidare unicamente ad imprese commerciali; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                spese postali, telefoniche e telegrafiche e relative a sistemi di trasmissione dati; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                spedizioni, imballaggi, magazzinaggio, facchinaggio e spese doganali; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                spese urgenti per il trasporto e lo smaltimento dei rifiuti urbani, speciali, tossici o nocivi; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                spese urgenti per l'acquisto, la manutenzione, la riparazione e la modifica di macchine per ufficio e apparecchiature scientifiche; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                spese relative a quant'altro occorra per il funzionamento dei laboratori e servizi dell'Istituto superiore di sanita'.
 
 Le provviste in economia di importo superiore a L. 5.000.000 debbono essere corredate da una relazione tecnica redatta dal laboratorio o servizio richiedente. Le provviste di importo superiore a L. 10.000.000 debbono, altresi', essere fatte previa richiesta di preventivi ad almeno tre ditte del settore salvo che la specialita' della provvista renda necessario il ricorso ad una determinata persona o ditta.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-05-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -77,6 +77,29 @@ Con regolamento del Ministro dell'interno, ai sensi dell'articolo 17, comma 3, d
  Il D.L. 17 marzo 2020, n. 18 ha disposto (con l'art. 74, comma 6) che "In relazione alla attuazione delle misure urgenti in materia di contenimento e gestione dell'emergenza epidemiologica da COVID-19 di cui al decreto-legge 23 febbraio 2020, n. 6, convertito, con modificazioni, dalla legge 5 marzo 2020, n.13, al fine di garantire la migliore applicazione delle correlate misure precauzionali attraverso la piena efficienza operativa delle Prefetture-Uffici territoriali del Governo, assicurando l'immediato supporto e la piu' rapida copertura di posti vacanti in organico, in deroga a quanto previsto dall'articolo 5 del decreto legislativo 19 maggio 2000, n. 139, il corso di formazione per l'accesso alla qualifica iniziale della carriera prefettizia avviato a seguito del Concorso pubblico indetto con decreto ministeriale 28 giugno 2017, pubblicato nella Gazzetta Ufficiale - 4^ Serie Speciale - "Concorsi ed Esami", numero 49 del 30 giugno 2017, in svolgimento alla data di entrata in vigore della presente disposizione ha, in via straordinaria, la durata di un anno e si articola in due semestri, il primo dei quali di formazione teorico-pratica, il secondo di tirocinio operativo che viene svolto presso le Prefetture-U.t.G. dei luoghi di residenza".
 
 ## Art. 6. — Attivita' formative
+
+1.
+                        
+                            
+                                La formazione del personale della carriera prefettizia e assicurata durante lo svolgimento dell'intera carriera. Oltre al corso di formazione iniziale, sono effettuati a cura della Scuola superiore dell'amministrazione dell'interno:
+
+                            
+                            
+                                a)
+                                
+                                    il corso di accesso alla qualifica di viceprefetto;
+                                
+                            
+                            
+                                b)
+                                
+                                    i corsi di formazione permanente su tematiche di interesse dell'amministrazione che devono essere frequentati dai funzionari almeno una volta l'anno;
+                                
+                            
+                            
+                                c)
+                                
+                                    il corso riservato ai viceprefetti volto al perfezionamento professionale.
 
 L'amministrazione promuove anche lo svolgimento di percorsi di formazione presso altre scuole delle amministrazioni statali, nonche' presso soggetti pubblici e privati, e di periodi di studio presso amministrazioni ed istituzioni dei paesi dell'Unione europea ed organizzazioni internazionali.
 
@@ -201,6 +224,23 @@ Per i funzionari titolari di incarichi conferiti con provvedimento del Ministro 
 
 ## Art. 21. — Retribuzione di risultato
 
+1.
+                        
+                            
+                                La retribuzione di risultato, correlata ai risultati conseguiti con le risorse umane ed i mezzi disponibili rispetto agli obiettivi assegnati, e' attribuita secondo i parametri definiti dal procedimento negoziale, tenendo conto della efficacia, della tempestivita' e dell'efficienza del lavoro svolto. La valutazione dei risultati conseguiti dai singoli funzionari, al fine della determinazione della relativa retribuzione, e' effettuata annualmente con le modalita' definite con decreto del Ministro dell'interno:
+
+                            
+                            
+                                a)
+                                
+                                    per i prefetti dal Ministro dell'interno;
+                                
+                            
+                            
+                                b)
+                                
+                                    per i funzionari preposti agli uffici individuati ai sensi dell'articolo 10, comma 1, rispettivamente, dal capo dell'ufficio di diretta collaborazione del ministro, dal capo del dipartimento o dal prefetto titolare dell'ufficio territoriale del governo.
+
 ## Art. 22. — Copertura assicurativa del rischio di responsabilita' civile
 
 L'amministrazione dell'interno garantisce, nei riguardi dei funzionari prefettizi, la copertura assicurativa del rischio di responsabilita' civile connesso all'esercizio delle funzioni e dei compiti propri della carriera e all'espletamento dei diversi incarichi conferiti ai sensi delle vigenti disposizioni.
@@ -272,7 +312,67 @@ Il procedimento negoziale intercorre tra una delegazione di parte pubblica compo
 
 ## Art. 28. — Materie di negoziazione
 
+1.
+                        
+                            
+                                Formano oggetto del procedimento negoziale:
+ 
+                            
+                            
+                                a)
+                                
+                                    il trattamento economico fondamentale ed accessorio, secondo parametri appositamente definiti in tale sede che ne assicurino, nell'ambito delle risorse finanziarie disponibili, sviluppi omogenei e proporzionati, rapportati alla figura apicale;
 
+                                
+                            
+                            
+                                b)
+                                
+                                    l'orario di lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il congedo ordinario e straordinario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la reperibilita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'aspettativa per motivi di salute e di famiglia;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i permessi brevi per esigenze personali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le aspettative ed i permessi sindacali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'individuazione di misure idonee a favorire la mobilita' di sede, aggiuntive rispetto a quelle previste per i funzionari non assegnatari di alloggi da parte dell'amministrazione dell'interno.
+
+((COMMA ABROGATO DAL D.LGS. 27 OTTOBRE 2009, N. 150)).
 
 ## Art. 29. — Procedura di negoziazione
 
@@ -311,6 +411,29 @@ Le risorse annualmente destinate dal bilancio dello Stato e dalle leggi finanzia
 Fino all'adozione del provvedimento di cui all'articolo 4, comma 2, l'accesso alla carriera prefettizia, con riguardo ai titoli di studio richiesti, alle prove di esame ed alle modalita' di espletamento del concorso, resta disciplinato dalle disposizioni vigenti alla data di entrata in vigore del presente decreto.
 
 ## Art. 34. — Inquadramenti nelle qualifiche
+
+1.
+                        
+                            
+                                In relazione a quanto previsto dall'articolo 2, comma 1, il personale dell'amministrazione civile dell'interno di cui al quadro A della tabella I allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 340, in servizio alla data di entrata in vigore del presente decreto, e' inquadrato come segue:
+
+                            
+                            
+                                a)
+                                
+                                    i prefetti di prima classe ed i prefetti sono inquadrati nella qualifica di prefetto;
+                                
+                            
+                            
+                                b)
+                                
+                                    i viceprefetti ed i viceprefetti ispettori sono inquadrati nella qualifica di viceprefetto;
+                                
+                            
+                            
+                                c)
+                                
+                                    i viceprefetti ispettori aggiunti, i direttori di sezione, i consiglieri di prefettura nonche' i vice consiglieri di prefettura sono inquadrati nella qualifica di viceprefetto aggiunto.
 
 Gli inquadramenti nelle qualifiche di cui al comma 1 sono effettuati, espletate le operazioni di scrutinio per il conferimento dei posti disponibili al 31 dicembre 1999, secondo l'ordine delle qualifiche di provenienza e, nell'ambito di queste, secondo l'ordine di ruolo.
 
@@ -362,6 +485,46 @@ Fermo quanto disposto dall'articolo 11 della legge 28 luglio 1999, n. 266, in se
 Ai fini dell'adozione del decreto del Presidente della Repubblica di cui al comma 1, il Ministro per la funzione pubblica, entro trenta giorni dalla data di entrata in vigore del presente decreto, individua la delegazione sindacale ed avvia il procedimento negoziale.
 
 ## Art. 40. — Abrogazioni e disapplicazioni
+
+1.
+                        
+                            
+                                Sono abrogate le disposizioni incompatibili con il presente decreto ed, in particolare:
+
+                            
+                            
+                                a)
+                                
+                                    gli articoli 13, 14, 15, 16, 18, 19, 28, 29, 32 e 41 del decreto del Presidente della Repubblica 24 aprile 1982, n. 340, fatto salvo quanto previsto dall'articolo 36, comma 2, del presente decreto;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 51 della legge 10 ottobre 1986, n. 668.
+
+2.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto, al personale della carriera prefettizia, non si applicano:
+
+                            
+                            
+                                a)
+                                
+                                    gli articoli 9, 10, 11, 12, 30, 31, 40 e 44 del decreto del Presidente della Repubblica 24 aprile 1982, n. 340;
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli dal 4 al 12, commi primo, secondo, terzo e quarto, e gli articoli 15, 19 e 25, primo comma, del decreto del Presidente della Repubblica 30 giugno 1972, n. 748;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 1-bis del decreto-legge 19 dicembre 1984, n. 858, convertito, con modificazioni, dalla legge 17 febbraio 1985, n. 19.
 
 Dalla data di cui al comma 2 non si applicano, ai fini del passaggio nei ruoli della carriera prefettizia e della relativa progressione in carriera, le disposizioni di cui agli articoli 1 e 2 del decreto del Presidente della Repubblica 24 luglio 1981, n. 551, e di cui agli articoli 1, 2, 3 e 11 del decreto del presidente della Repubblica 24 aprile 1982, n. 339.
 

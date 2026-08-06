@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,120 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Campo di applicazione e definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento sono adottate le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                TUA: il testo unico delle accise, recante le disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con il decreto legislativo 26 ottobre 1995, n. 504; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                carburanti esenti per la navigazione: il gasolio, la benzina, i gas di petrolio liquefatti (GPL), il gas naturale liquefatto (GNL) e l'olio combustibile impiegati per le attivita' per le quali il punto 3 della Tabella A allegata al TUA, come interpretato dall'articolo 3-ter del decreto-legge 2 marzo 2012, n. 16, convertito, con modificazioni, dalla legge 26 aprile 2012, n. 44, e dall'articolo 34-bis del decreto-legge 24 giugno 2014, n. 91, inserito dalla legge 11 agosto 2014, n. 116, e successive modificazioni, prevede l'esenzione dall'accisa, previa denaturazione dei carburanti se prevista; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                oli lubrificanti esenti: gli oli lubrificanti impiegati per la navigazione marittima, esentati dall'imposta di consumo ai sensi dell'articolo 62, comma 2, del medesimo TUA; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                soggetti beneficiari: i soggetti che impiegano carburanti esenti ovvero oli lubrificanti esenti; 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                impianto di stoccaggio di GNL: l'impianto di stoccaggio di GNL, ubicato nel territorio nazionale, che effettua rifornimenti di GNL alle imbarcazioni per conto di venditori di GNL di cui alla lettera d-quater), anche in esenzione dall'accisa ovvero detiene GNL destinato al rifornimento di imbarcazioni, anche in esenzione dall'accisa, per conto dei medesimi venditori; 
+
+                            
+                        
+                        
+                            d-ter)
+                            
+                                punto di rifornimento di GNL: il punto di rifornimento per il GNL di cui all'art. 6, commi 1 e 2, del decreto legislativo 16 dicembre 2016, n. 257 che effettua rifornimenti di GNL alle imbarcazioni anche in esenzione dall'accisa; 
+
+                            
+                        
+                        
+                            d-quater)
+                            
+                                venditori di GNL: i soggetti di cui all'articolo 26, comma 7, lettera a) del TUA, autorizzati ai sensi del comma 10 del medesimo articolo 26, che procedono alla fatturazione del GNL ceduto al gestore di cui alla lettera f-bis) del presente comma ovvero ai soggetti beneficiari avvalendosi di un impianto di stoccaggio ovvero di un'autocisterna, di una bettolina o di un altro mezzo di rifornimento navale che trasporti GNL, anche proveniente da un impianto non ubicato nel territorio nazionale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Ufficio competente: l'Ufficio delle dogane competente per territorio in relazione all'ubicazione: 
+ 1) dell'impianto di distribuzione dei carburanti esenti per la navigazione diversi dal GNL ovvero del punto di rifornimento di GNL; 
+ 2) dell'impianto di stoccaggio di GNL; 
+ 3) del deposito fiscale mittente, nel caso di rifornimento diretto di cui alla lettera l); 
+ 4) della sede legale del venditore di GNL; 
+ 5) della sede legale o del luogo in cui i soggetti di cui all'articolo 6-bis, commi 1 e 7, sono stabiliti o del centro di attivita' commerciale in cui staziona abitualmente l'imbarcazione utilizzata dai medesimi soggetti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                esercente: il soggetto autorizzato dal competente Ufficio delle dogane a gestire un impianto di distribuzione di carburanti esenti per la navigazione ad esclusione del GNL; 
+
+                            
+                        
+                        
+                            f-bis)
+                            
+                                gestore del punto di rifornimento di GNL: il soggetto che gestisce un punto di rifornimento di GNL e che, ai fini del presente regolamento, e' assimilato al consumatore finale di gas naturale al pari dell'esercente l'impianto di distribuzione di cui all'articolo 26, comma 9, del TUA; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                documento e-AD: il documento amministrativo elettronico di cui all'articolo 6, comma 5, del TUA; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                codice ARC: il codice unico di riferimento amministrativo di cui all'articolo 6, comma 5, del TUA attribuito al documento e-AD a seguito della convalida informatica della relativa bozza, ovvero il numero di riferimento locale, inteso come il numero progressivo unico attribuito al documento e-AD dallo speditore, che identifica la spedizione nella contabilita' dello speditore stesso; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                documento DAS: il documento di accompagnamento semplificato di cui all'articolo 12 del TUA; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                rifornimento diretto: il rifornimento di carburanti esenti per la navigazione, ad esclusione del GNL, effettuato, direttamente da un deposito fiscale, mediante autocisterna, bettolina o a mezzo tubazione; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                scontrino: la ricevuta emessa, a seguito del rifornimento effettuato, dai misuratori installati sull'autocisterna, sulla bettolina o su altro mezzo di rifornimento navale utilizzato per il trasporto dei carburanti esenti per la navigazione. (1)
+
 Il presente regolamento disciplina l'impiego dei carburanti esenti per la navigazione nonche' degli oli lubrificanti esenti.
 L'esenzione e' applicata ai prodotti energetici impiegati come carburanti per la navigazione nelle acque marine comunitarie, compresi il trasporto passeggeri e merci e la pesca, per la navigazione nelle acque interne, limitatamente alla pesca e al trasporto delle merci, nonche' per il dragaggio di vie navigabili e porti. Le imbarcazioni rifornite con carburanti esenti per la navigazione e oli lubrificanti esenti sono utilizzate in via esclusiva e direttamente per lo svolgimento delle attivita' per le quali e' concessa l'esenzione. Le acque marine comunitarie sono costituite dalle acque territoriali e dalle acque marittime interne degli Stati membri, incluse quelle lagunari ed escluse quelle appartenenti a territori che non sono parte del territorio doganale della Comunita'. (1)
 
@@ -58,6 +172,70 @@ Relativamente al trasporto di passeggeri o di merci nelle acque marine comunitar
 ## Art. 2. — Denaturazione dei carburanti esenti per la navigazione
 
 I carburanti esenti per la navigazione ((, ad eccezione degli oli combustibili e del GNL, e fermo restando quanto previsto dal comma 3-bis,)) sono denaturati. ((1))
+
+2.
+                    
+                        
+                            Per il gasolio ((...)) la denaturazione di cui al comma 1 e' effettuata, fino all'adozione dei relativi provvedimenti di cui all'articolo 24-bis, comma 1, del TUA, con l'aggiunta, per ogni 100 chilogrammi di prodotto, delle seguenti sostanze: 
+ 
+                        
+                        
+                            a)
+                            
+                                grammi 0,95 di «Solvent Yellow 124» e grammi 0,51 di nafta solvente da petrolio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                grammi 3 di «tracciante RS» di cui al decreto del Ministro delle finanze 12 settembre 1985, pubblicato nella Gazzetta Ufficiale n. 242 del 14 ottobre 1985; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                grammi 13 di toluolo o xilolo, tecnicamente puri; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                grammi 5 di «verde alizarina G base». ((1))
+
+3.
+                    
+                        
+                            Per la benzina, la denaturazione di cui al comma 1 e' effettuata, fino all'adozione del relativo provvedimento di cui all'articolo 24-bis, comma 1, del TUA, con l'aggiunta, per ogni 100 chilogrammi di prodotto, delle seguenti sostanze: 
+ 
+                        
+                        
+                            a)
+                            
+                                grammi 1,3 di «Solvent Yellow 124» e grammi 0,7 di nafta solvente da petrolio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                grammi 3 di «tracciante RS» di cui al decreto del Ministro delle finanze 12 settembre 1985; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                grammi 13 di toluolo o xilolo, tecnicamente puri; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                grammi 3 di «violetto alizarina A base».
 
 ((3-bis. La formula di denaturazione dei GPL e' stabilita con il provvedimento di cui all'articolo 24-bis, comma 1, del TUA. Fino all'adozione del predetto provvedimento possono essere effettuati, con le modalita' di cui all'articolo 10-bis, rifornimenti ad accisa assolta di GPL non denaturati alle imbarcazioni utilizzate nelle attivita' aventi titolo all'esenzione di cui al presente regolamento.))
 
@@ -81,6 +259,38 @@ Autorizzazione degli impianti di distribuzione dei carburanti esenti per la navi
 
 Il soggetto che intende gestire un impianto di distribuzione di carburanti esenti ((per la navigazione diversi dal GNL)) presenta, all'Ufficio competente, prima dell'inizio dell'attivita', una istanza contenente i propri dati identificativi, la denominazione della ditta e la sua sede legale, il codice fiscale e il numero della partita IVA, le generalita' del rappresentante legale, l'ubicazione dell'impianto, la capacita' di stoccaggio di ciascuno dei serbatoi a servizio dell'impianto stesso, l'indicazione delle attrezzature installate per la movimentazione e la misurazione dei prodotti, gli estremi dell'autorizzazione rilasciata ai sensi dell'articolo 1, comma 2, del decreto legislativo 11 febbraio 1998, n. 32, nonche' l'indicazione dei depositi fiscali dai quali viene effettuato il prelevamento dei carburanti esenti. L'istanza e' sottoscritta dall'esercente o dal rappresentante legale della ditta, se persona diversa dall'esercente medesimo. ((1))
 
+2.
+                    
+                        
+                            All'istanza di cui al comma 1 sono allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione, redatta ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante il possesso delle eventuali autorizzazioni di natura non fiscale occorrenti per l'esercizio della propria attivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il nulla osta del Capo del compartimento marittimo competente per territorio, per la navigazione nelle acque marine comunitarie o di altra autorita' competente per la navigazione nelle acque interne; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le tabelle di taratura dei serbatoi dell'impianto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificati di verifica metrica degli strumenti di misura fiscalmente rilevanti installati per rilevare il rifornimento delle imbarcazioni.
+
 L'Ufficio competente, ricevuta l'istanza di cui al comma 1, esegue la verifica tecnica dell'impianto e, dopo averne constatata la regolare costituzione, provvede, entro sessanta giorni dalla data di presentazione dell'istanza stessa, a rilasciare all'esercente l'autorizzazione ad operare come destinatario registrato, ai sensi dell'articolo 8, comma 1, del TUA, unitamente al relativo codice d'accisa, previa prestazione della cauzione nella misura del 10 per cento dell'imposta che grava sulla quantita' massima di carburanti esenti per la navigazione ed oli lubrificanti esenti che possono essere detenuti nell'impianto. All'esercente e' rilasciata la licenza di esercizio.
 
 Delle operazioni di verifica effettuate ai sensi del comma 3 viene redatto processo verbale in duplice originale, sottoscritto anche dall'esercente e, se persona diversa, dal rappresentante legale della ditta ovvero da persona da questi espressamente delegata con atto scritto, a cui e' consegnato uno degli originali.
@@ -100,6 +310,38 @@ A partire dal 1° gennaio 2018 le colonnine di distribuzione dei carburanti esen
 ((
 
 Il soggetto che intende gestire un punto di rifornimento di GNL denuncia prima dell'inizio dell'attivita', l'esercizio della medesima all'ufficio competente indicando i propri dati identificativi, la denominazione della ditta e la sede legale della stessa, il codice fiscale, il numero della partita IVA, le generalita' del rappresentante legale e l'ubicazione del punto di rifornimento di GNL; la denuncia e' sottoscritta dal predetto soggetto ovvero dal rappresentante legale della ditta se persona da esso diversa.
+
+2.
+                    
+                        
+                            Alla denuncia di cui al comma 1 sono allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione, redatta ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante il possesso delle eventuali autorizzazioni di natura non fiscale occorrenti per l'esercizio dell'attivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il nulla osta del Capo del compartimento marittimo competente per territorio, per la navigazione nelle acque marine comunitarie o di altra autorita' competente per la navigazione nelle acque interne; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le tabelle di taratura dei serbatoi e la descrizione dell'assetto tecnico del punto di rifornimento di GNL; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i certificati di verifica metrica degli strumenti di misura fiscalmente rilevanti installati per rilevare il rifornimento delle imbarcazioni.
 
 L'Ufficio competente esegue la verifica tecnica del punto di rifornimento di GNL e, riscontrata la completezza dei dati relativi alla denuncia, rilascia al soggetto di cui al comma 1, entro sessanta giorni dalla data di presentazione della medesima, la licenza fiscale di cui all'articolo 25 del TUA, attribuendo al punto di rifornimento di GNL un codice ditta.
 
@@ -123,6 +365,24 @@ Il medesimo soggetto comunica all'ufficio competente la cessazione della propria
 
 Il soggetto che intende gestire un impianto di stoccaggio di GNL presenta, prima dell'inizio dell'attivita', apposita comunicazione all'ufficio competente indicando i propri dati identificativi, la denominazione della ditta e la sede legale della stessa, il codice fiscale, gli estremi del provvedimento con cui sono stati autorizzati la realizzazione e l'esercizio dell'impianto, il numero della partita IVA e le generalita' del rappresentante legale.
 La comunicazione e' sottoscritta dal predetto soggetto ovvero dal rappresentante legale della ditta, se persona da esso diversa.
+
+2.
+                    
+                        
+                            Alla comunicazione di cui al comma 1, sono allegati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione, redatta ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante il possesso delle autorizzazioni di natura non fiscale occorrenti per l'esercizio dell'attivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i certificati di verifica metrica degli strumenti di misura fiscalmente rilevanti installati per rilevare il rifornimento delle imbarcazioni.
 
 L'Ufficio competente, riscontrata la completezza dei dati comunicati ai sensi del comma 1, rilascia, entro 30 giorni dalla data di ricevimento della comunicazione di cui al comma 1, al soggetto istante un codice ditta in relazione a ciascun impianto dallo stesso gestito.
 
@@ -179,6 +439,24 @@ A partire dal 1° gennaio 2017 le autocisterne, ovvero le bettoline, utilizzate 
 
 Adempimenti amministrativi e contabili dell'esercente ((l'impianto di distribuzione di carburanti esenti per la navigazione diversi dal GNL))
                             ((1))
+
+1.
+                    
+                        
+                            L'esercente l'impianto di distribuzione ((di carburanti esenti per la navigazione diversi dal GNL)) annota, con cadenza giornaliera e per ciascun prodotto, in un apposito registro di carico e scarico, preventivamente vidimato dall'Ufficio competente: ((1))
+                            
+                        
+                        
+                            a)
+                            
+                                nella parte del carico, le singole quantita' di prodotti energetici introdotte, come comprovate dallo scontrino rilasciato dai misuratori delle autobotti, unitamente ai codici ARC dei relativi documenti e-AD, con l'indicazione del deposito fiscale mittente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella parte dello scarico, le singole quantita' rifornite alle imbarcazioni utilizzate dai soggetti beneficiari, quali risultanti dai totalizzatori di impianto, con l'indicazione dei soggetti beneficiari e degli estremi dei memorandum di cui all'articolo 7.
 
 Giornalmente, l'inizio delle iscrizioni di carico e scarico sul registro di cui al comma 1 e' preceduto dall'indicazione della data; nel predetto registro sono indicate, a fine giornata, le giacenze contabili, le quantita' di carburanti esenti per la navigazione erogati nel medesimo giorno sulla base di quanto indicato dai contalitri dei totalizzatori di impianto nonche' il quantitativo di oli lubrificanti ceduto nella medesima giornata. Il registro di cui al comma 1 e' chiuso contabilmente al 31 dicembre di ciascun anno. Le rimanenze finali effettive di ciascun anno sono riportate all'inizio dell'anno immediatamente successivo.
 
@@ -257,6 +535,24 @@ Il venditore di GNL, qualora effettui rifornimenti di GNL alle imbarcazioni avva
 
 Per poter essere rifornite con carburanti esenti per la navigazione, le imbarcazioni utilizzate dai soggetti beneficiari sono munite del libretto di controllo di cui al comma 2, nel quale sono annotati i rifornimenti ed i consumi dei prodotti stessi.
 
+2.
+                    
+                        
+                            Il libretto ((di controllo)) e' composto di tre parti: ((1))
+                            
+                        
+                        
+                            a)
+                            
+                                nella prima parte sono indicate le caratteristiche dell'imbarcazione con riferimento alle relative carte di bordo ed i dati tecnici del rispettivo motore con indicazione del consumo medio orario in rapporto alla potenzialita' del motore stesso, annotate e autenticate dall'Autorita' marittima in base ai dati desunti dal Registro italiano navale (R.I.NA.); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella terza parte, a cura del soggetto beneficiario, sono annotate, per ciascuna giornata di navigazione, le ore di moto ed i conseguenti consumi.
+
 Nei casi di rifornimento diretto, le annotazioni di cui al comma 2, lettera b), sono apposte, con riferimento anche ai dati riportati nello scontrino, dall'esercente il deposito fiscale o da un suo delegato.
 
 ((3-bis. Per i rifornimenti alle imbarcazioni di GNL proveniente da un impianto di stoccaggio di GNL o da un impianto non situato nel territorio nazionale, le annotazioni di cui al comma 2, lettera b) sono effettuate, in relazione alla singola fattispecie, dal venditore di GNL o da un suo delegato.))
@@ -309,6 +605,55 @@ I militari della Guardia di finanza accedono alle informazioni di cui al present
 ## Art. 7. — (( (Compilazione del memorandum). ))
 
 ((
+
+1.
+                    
+                        
+                            Fatto salvo quanto indicato ai commi 3 e 4, per ciascun rifornimento effettuato dai soggetti beneficiari e' compilato un memorandum, numerato progressivamente, datato e firmato, in relazione alla singola fattispecie, dall'esercente o dal gestore del punto di rifornimento di GNL, e dal comandante dell'imbarcazione rifornita o da un suo delegato. Nel memorandum, redatto conformemente all'allegato 2, che costituisce parte integrante del presente regolamento, sono indicati: 
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' dell'esercente o del gestore del punto di rifornimento di GNL; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli estremi dell'imbarcazione rifornita; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le numerazioni iniziale e finale dei sistemi di misurazione dei carburanti atti a determinare il quantitativo rifornito alle imbarcazioni nonche' il quantitativo di prodotto rifornito espresso: 
+ 1) in litri, con indicazione delle relative densita' e temperatura reali ovvero in volume di prodotto espresso a 15° C, per i carburanti esenti diversi dai GPL e dal GNL; 
+ 2) in chilogrammi, per i GPL; 
+ 3) in standard metri cubi per il GNL; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                i quantitativi di oli lubrificanti riforniti espressi in chilogrammi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la dichiarazione di avere effettuato le prescritte annotazioni sul libretto di controllo dell'imbarcazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per i soggetti beneficiari di cui all'articolo 6-bis, comma 1, il codice identificativo e il numero di protocollo previsti dai commi 3 e 5 del medesimo articolo 6-bis.
 
 Per le imbarcazioni battenti bandiera di altri Stati membri, il rifornimento e' effettuato previa esibizione della documentazione di bordo dell'imbarcazione, i cui dati identificativi sono riportati nel memorandum d'imbarco, nonche' dei documenti utili a comprovare l'utilizzo diretto dell'imbarcazione medesima per lo svolgimento di una delle attivita' indicate all'articolo 1, comma 2, per le quali e' concessa l'esenzione.
 
@@ -367,6 +712,24 @@ Nella fase di prima applicazione dell'articolo 2, comma 3, del presente regolame
 
 L'esercente provvede, all'atto di ogni singola operazione di rifornimento di benzina non denaturata effettuata ai sensi del comma 1, a cedere la stessa ad un prezzo ridotto che tenga conto del valore dell'accisa gravante sul medesimo prodotto. Nella corrispondente fattura, il suddetto esercente provvede a indicare l'ammontare dell'imposta non addebitato al soggetto beneficiario a titolo di esenzione dall'accisa. L'esercente provvede, inoltre, a riportare il quantitativo rifornito, come risultante dal memorandum di cui all'articolo 7, nella parte dello scarico dell'apposito registro di cui all'articolo 5, comma 1, lettera b), annotando sul medesimo che trattasi di rifornimento effettuato ai sensi del comma 1 del presente articolo con benzina non denaturata. Non e' consentita la miscelazione di benzina denaturata con benzina non denaturata nei serbatoi di stoccaggio.
 
+3.
+                    
+                        
+                            Per i rifornimenti effettuati ai sensi del comma 1, l'accisa versata sulla benzina ceduta ai soggetti beneficiari e' rimborsata ai sensi dell'articolo 14, comma 4, del TUA. A tal fine, l'esercente presenta all'Ufficio competente, al termine del periodo transitorio di cui al comma 1, una domanda di rimborso riepilogativa dei rifornimenti effettuati ai sensi del medesimo comma con l'indicazione, per ciascuno di essi, del soggetto beneficiario e della data del rifornimento, alla quale e' allegata: 
+ 
+                        
+                        
+                            a)
+                            
+                                copia dei relativi memorandum di cui all'articolo 7; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia delle fatture di vendita dello stesso prodotto, nelle quali e' evidenziato l'ammontare dell'accisa non addebitata al soggetto beneficiario.
+
 Per i rifornimenti effettuati ai sensi del comma 1 sono fatti salvi gli altri adempimenti contabili e amministrativi previsti dal presente regolamento.
 
 ## Art. 10-bis. — (( (Disposizioni transitorie per i GPL). ))
@@ -376,6 +739,24 @@ Per i rifornimenti effettuati ai sensi del comma 1 sono fatti salvi gli altri ad
 Fino all'adozione del provvedimento di cui all'articolo 2, comma 3-bis, possono essere effettuati rifornimenti di GPL non denaturati in esenzione dall'accisa ai sensi del presente regolamento con le modalita' di cui al presente articolo.
 
 All'atto di ogni singola operazione di rifornimento di GPL esenti per la navigazione, l'esercente provvede a cedere i prodotti ad un prezzo ridotto che tenga conto del valore dell'accisa gravante sugli stessi. Il suddetto esercente provvede altresi' a indicare, nella corrispondente fattura, l'ammontare dell'imposta non addebitato al soggetto beneficiario a titolo di esenzione dall'accisa nonche' a riportare il quantitativo rifornito, come risultante dal memorandum di cui all'articolo 7, nella parte dello scarico dell'apposito registro di cui all'articolo 5, comma 1, lettera b), annotando sul medesimo che trattasi di rifornimento di GPL effettuato in esenzione.
+
+3.
+                    
+                        
+                            Per i rifornimenti di GPL esenti per la navigazione effettuati ai sensi del comma 2 si procede al rimborso dell'accisa versata sui GPL ceduti ai soggetti beneficiari, con le modalita' di cui all'articolo 6, comma 3, del regolamento adottato con il decreto del Ministro delle finanze 12 dicembre 1996, n. 689. A tal fine, l'esercente presenta all'ufficio competente, entro il mese successivo a ciascun bimestre solare, una domanda di rimborso riepilogativa dei rifornimenti effettuati ai sensi del comma 2 del presente articolo con l'indicazione, per ciascuno di essi, del soggetto beneficiario e della data del rifornimento. Alla domanda e' allegata: 
+ 
+                        
+                        
+                            a)
+                            
+                                copia dei relativi memorandum di cui all'articolo 7; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia delle fatture di vendita dei GPL esenti per la navigazione, nelle quali e' evidenziato l'ammontare dell'accisa non addebitata al soggetto beneficiario.
 
 I rifornimenti diretti di GPL esenti per la navigazione non denaturati possono essere effettuati previa autorizzazione rilasciata dall'ufficio competente, che stabilisce le modalita' per la loro esecuzione.
 

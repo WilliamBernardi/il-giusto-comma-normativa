@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1994-09-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,38 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di
 Il presente decreto regola i divieti e le limitazioni in materia di immissione sul mercato e di uso nel territorio nazionale dei policlorobifenili e policlorotrifenili, nonche' degli impianti ed apparecchi e fluidi che li contengono, riportati nell'allegato.
 
 ## Art. 2. — Esclusione dal campo di applicazione
+
+1.
+                    
+                        
+                            Le norme del presente decreto non si applicano:
+ 
+                        
+                        
+                            a)
+                            
+                                al trasporto per ferrovia, su strada, per via fluviale, marittima ed aerea;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'esportazione verso i Paesi terzi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al transito sottoposto a controllo doganale, purche' non si dia luogo ad alcuna trasformazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'immissione sul mercato o all'uso strettamente finalizzato a scopi di ricerca, di sviluppo e di analisi.
 
 ## Art. 3. — Adeguamenti tecnici
 

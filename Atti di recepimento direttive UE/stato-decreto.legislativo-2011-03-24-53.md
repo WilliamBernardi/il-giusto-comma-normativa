@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2021-09-11
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -26,7 +26,249 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle in
 
 ## Art. 1. — Finalita'
 
+1.
+                    
+                        
+                            Il presente decreto introduce misure per la progressiva riduzione dell'impiego di navi sub standard per il trasporto marittimo mediante: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'instaurazione di efficaci procedure di controllo delle navi non di bandiera italiana che scalano i porti nazionali concernenti l'osservanza della normativa internazionale e comunitaria in materia di sicurezza della navigazione, del trasporto marittimo, dei lavoratori marittimi, delle navi e degli impianti portuali, dell'ambiente marino e costiero e delle risorse biologiche marine, anche ai sensi e per le finalita' di cui al regolamento (CE) n. 725/2004 e del capitolo XI-2 della Convenzione SOLAS ed il relativo Codice ISPS sulla sicurezza delle navi e degli impianti portuali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la definizione di criteri e procedure, armonizzate in ambito comunitario, per l'attivita' ispettiva ed il fermo di navi, come consolidate per effetto delle conoscenze specialistiche e delle esperienze acquisite nell'ambito del Memorandum d'intesa di Parigi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la partecipazione ad un sistema di controlli da parte degli Stati di approdo, basato su ispezioni periodiche, effettuate all'interno della Comunita' e della regione del Memorandum d'intesa di Parigi, finalizzato ad ispezionare navi non battenti bandiera italiana con una frequenza proporzionale al profilo di rischio come definito dall'allegato II al presente decreto.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                convenzioni: quelle di seguito indicate, unitamente ai relativi protocolli ed emendamenti, nonche' ai connessi codici, nella loro versione aggiornata: 
+ 1) convenzione internazionale sulla linea di massimo carico, LL66, firmata a Londra il 5 aprile 1966, di cui al decreto del Presidente della Repubblica 8 aprile 1968, n. 777; 
+ 2) convenzione internazionale sulla salvaguardia della vita umana in mare, SOLAS 74, firmata a Londra il 1° novembre 1974, di cui alla legge 23 maggio 1980, n. 313; 
+ 3) convenzione internazionale per la prevenzione dell'inquinamento da navi, MARPOL 73/78, firmata a Londra il 2 novembre 1973, di cui alla legge 29 settembre 1980, n. 662; 
+ 4) convenzione internazionale sugli standard per l'addestramento, la certificazione ed il servizio di guardia dei marittimi, STCW 78, firmata a Londra il 5 luglio l978, di cui alla legge 21 novembre 1985, n. 739; 
+ 5) convenzione sul regolamento per prevenire gli abbordi in mare, COLREG 1972, firmata a Londra il 20 ottobre 1972, di cui alla legge 27 dicembre 1977, n. 1085; 
+ 6) convenzione internazionale sulla stazzatura delle navi mercantili, ITC 69, firmata a Londra il 23 giugno 1969, di cui alla legge 22 ottobre 1973, n. 958; 
+ 7) convenzione sul lavoro marittimo del 2006 (CLM 2006) di cui alla legge 23 settembre 2013 n. 113; 
+ 8) convenzione internazionale sulla responsabilita' civile per i danni derivanti da inquinamento da idrocarburi, CLC 92, firmata a Londra il 27 novembre 1992, di cui alla legge 27 maggio 1999, n. 177; 
+ 8-bis) convenzione internazionale sul controllo dei sistemi antivegetativi dannosi sulle navi del 2001 (AFS 2001) di cui alla legge 31 agosto 2012, n. 163; 
+ 8-ter) convenzione internazionale sulla responsabilita' civile per i danni derivanti dall'inquinamento determinato dal carburante delle navi, del 2001 (convenzione 'Bunker Oil' 2001) di cui alla legge 1° febbraio 2010, n. 19. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Memorandum d'intesa di Parigi (Paris MOU): il memorandum d'intesa relativo al controllo delle navi da parte dello Stato d'approdo, firmato a Parigi il 26 gennaio 1982, nella sua versione aggiornata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                audit IMO: sistema di verifica e consulenza cui si sottopongono volontariamente gli Stati membri dell'IMO secondo le procedure fissate dalla risoluzione dell'assemblea dell'IMO A.974(24); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                regione del Memorandum d'intesa di Parigi: la zona geografica in cui i firmatari del MOU di Parigi effettuano ispezioni secondo le procedure concordate; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nave: qualsiasi nave mercantile adibita al trasporto marittimo, battente bandiera diversa da quella nazionale, rientrante nel campo di applicazione di una o piu' delle convenzioni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                interfaccia nave/porto: le interazioni che hanno luogo quando una nave e' direttamente e immediatamente interessata da attivita' che comportano il movimento di persone o di merci o la fornitura di servizi portuali verso la nave o dalla nave, con esclusione delle operazioni e dei servizi portuali di cui alla legge 28 gennaio 1994, n. 84; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                nave ancorata: una nave, in porto o alla fonda in rada, che staziona in una zona ricadente nell'ambito portuale ma non ormeggiata, interessata da attivita' proprie dell' interfaccia nave/porto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                ispettore: soggetto appartenente unicamente al Corpo delle capitanerie di porto - Guardia costiera, in possesso dei requisiti di cui all'allegato I, del presente decreto, debitamente autorizzato e formalmente incaricato dall'autorita' competente centrale, a conclusione del prescritto iter formativo, a svolgere le ispezioni dello Stato di approdo; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                autorita' competente centrale: il Ministero delle infrastrutture e dei trasporti - Comando generale del Corpo delle capitanerie di porto - Guardia costiera e, per quanto attiene alle attivita' di prevenzione dell'inquinamento e di tutela dell'ambiente marino, il Ministero dell'ambiente e della tutela del territorio e del mare che, per tali fini, si avvale del Corpo delle capitanerie di porto - Guardia costiera; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                autorita' competente locale: gli uffici marittimi periferici retti da ufficiali del Corpo delle capitanerie di porto fino a livello di Ufficio circondariale marittimo; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                autorita' portuale: gli enti di cui all'articolo 6 della legge 28 gennaio1994, n. 84; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                periodo notturno: l'arco temporale che va dalle ore 22,00 alle ore 5,00 del giorno successivo; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                ispezione iniziale: la visita a bordo di una nave svolta da un ispettore, per verificare la conformita' alle pertinenti convenzioni e regolamenti, che include almeno i controlli previsti all'articolo 16, comma 1; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                ispezione dettagliata: l'ispezione durante la quale la nave, le dotazioni di bordo e l'equipaggio sono sottoposti, interamente o parzialmente, ad un esame accurato nei casi specificati all'articolo 16, comma 3, degli aspetti concernenti la costruzione, le dotazioni, l'equipaggio, le condizioni di vita e di lavoro ed il rispetto delle procedure operative di bordo; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                ispezione estesa: un'ispezione che riguarda le voci elencate all'allegato VII e che puo' comprendere un'ispezione dettagliata quando sussistano i fondati motivi di cui all'articolo 16, comma 3; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                esposto: un'informazione o rapporto originato da soggetto, associazione o organizzazione, portatore di una qualificata posizione soggettiva, di un interesse diffuso o legittimo comunque legato alla sicurezza della nave, inclusi la sicurezza o la salute dell'equipaggio, le condizioni di vita e di lavoro a bordo e la prevenzione dell'inquinamento; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                fermo: il formale divieto posto ad una nave di prendere il mare a causa delle deficienze individuate che, da sole o nel complesso, rendono la nave insicura; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                provvedimento di rifiuto di accesso: la decisione comunicata al comandante di una nave, alla compagnia che ne e' responsabile ed allo Stato di bandiera, con la quale si notifica che alla nave sara' rifiutato l'accesso a tutti i porti ed ancoraggi della Comunita'; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                sospensione di un'operazione: il formale divieto posto ad una nave di continuare una qualunque attivita' operativa tecnica o commerciale a causa delle deficienze individuate che, da sole o nel complesso, renderebbero il proseguimento della predetta attivita' pericoloso per la sicurezza della navigazione, delle persone a bordo o per l'ambiente; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                compagnia: il proprietario della nave o qualsiasi altra persona fisica o giuridica, incluso l'armatore o il noleggiatore a scafo nudo, che assume la responsabilita' dell'esercizio della nave dal proprietario della stessa e che si fa carico dei doveri e delle responsabilita' posti dal codice internazionale di gestione della sicurezza, ISM; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                organismo riconosciuto: una societa' di classificazione o altro organismo privato che svolge funzioni amministrative per conto dell'amministrazione dello Stato di bandiera; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                certificato obbligatorio: il certificato rilasciato direttamente o a nome di uno Stato di bandiera in conformita' alle convenzioni; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                certificato di classe: il documento che conferma la conformita' alla SOLAS 74, capitolo II-1, parte A-1, regola 3-1; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                banca dati delle ispezioni: il sistema informatico che contribuisce all'attuazione del sistema di controllo da parte dello Stato di approdo all'interno della Comunita' e che riguarda i dati relativi alle ispezioni effettuate nella Comunita' e nella regione del MOU di Parigi; 
+
+                            
+                        
+                        
+                            cc-bis)
+                            
+                                "certificato di lavoro marittimo" il certificato di cui alla regola 5.1.3 della CLM 2006; 
+
+                            
+                        
+                        
+                            cc-ter)
+                            
+                                "dichiarazione di conformita' del lavoro marittimo" la dichiarazione di cui alla regola 5.1.3 della CLM 2006. 
+
+                            
+                        
+                        
+                            cc-quater)
+                            
+                                "nave ro-ro da passeggeri": una nave avente dispositivi che consentono di caricare e scaricare veicoli stradali o ferroviari e che trasporta piu' di dodici passeggeri; 
+
+                            
+                        
+                        
+                            cc-quinquies)
+                            
+                                "unita' veloce da passeggeri": una nave quale definita dalla SOLAS 1974, capitolo X, regola 1, che trasporta piu' di dodici passeggeri; 
+
+                            
+                        
+                        
+                            cc-sexies)
+                            
+                                "servizio di linea": una serie di traversate effettuate da navi ro-ro da passeggeri o unita' veloci da passeggeri in modo da assicurare il collegamento tra gli stessi due o piu' porti, oppure una serie di viaggi da e verso lo stesso porto senza scali intermedi in base a un orario pubblicato oppure con collegamenti tanto regolari o frequenti da costituire una serie sistematica evidente.
 
 Tutti i riferimenti fatti nel presente decreto a convenzioni, codici e risoluzioni internazionali, inclusi quelli per i certificati e altri documenti, sono intesi come riferimenti a tali convenzioni, codici e risoluzioni internazionali nella loro versione aggiornata.
 
@@ -77,17 +319,109 @@ Al personale ispettivo del Corpo delle capitanerie di porto - Guardia costiera c
 
 Alle navi che fanno scalo in un porto o ancoraggio di uno Stato facente parte della Comunita' europea e' attribuito, dalla banca dati delle ispezioni di cui all'articolo 26, un profilo di rischio che determina il livello di priorita', la frequenza e l'entita' delle ispezioni cui la nave deve essere sottoposta.
 
+2.
+                    
+                        
+                            Il profilo di rischio di una nave e' determinato dalla combinazione dei parametri di seguito elencati: 
+ 
+                        
+                        
+                            a)
+                            
+                                parametri generici: tipo, eta', bandiera, organismi riconosciuti interessati e grado di affidabilita' della compagnia conformemente all'allegato II ed all'allegato III, parte I, punto 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                parametri storici: numero di deficienze e di fermi registrati in un determinato periodo conformemente all'allegato II ed all'allegato III, parte I, punto 2.
+
 ## Art. 7. — Selezione delle navi ai fini dell'ispezione
 
 L'autorita' competente locale provvede affinche', ai fini della programmazione dell'attivita' ispettiva, le navi siano selezionate in base al profilo di rischio, in conformita' all'allegato III, parte I, ed in presenza di fattori di priorita' assoluta o imprevisti conformemente all'allegato III, parte II, punti 2A e 2B.
 
+2.
+                    
+                        
+                            L'autorita' competente locale: 
+ 
+                        
+                        
+                            a)
+                            
+                                seleziona le navi che devono essere sottoposte ad ispezione obbligatoria, qualificate navi a «priorita' 1», secondo il regime di selezione di cui all'allegato III, parte II, punto 3A; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                puo' selezionare le navi che possono essere sottoposte ad ispezione, qualificate navi a «priorita' 2», conformemente all'allegato III, parte II, punto 3B.
+
 ## Art. 8. — Frequenza delle ispezioni
+
+1.
+                    
+                        
+                            L'autorita' competente locale provvede a sottoporre le navi che fanno scalo nei porti o negli ancoraggi nazionali ad ispezioni periodiche o ad ispezioni supplementari secondo i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                ispezioni periodiche ad intervalli di tempo prestabiliti a seconda del rispettivo profilo di rischio conformemente all'allegato III, parte I. La frequenza delle ispezioni periodiche diminuisce con il diminuire del rischio. Per le navi ad alto rischio tale intervallo non supera i sei mesi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ispezioni supplementari, indipendentemente dal periodo intercorso dalla loro ultima ispezione periodica, nei confronti di: 
+ 1) navi alle quali si applicano i fattori di priorita' assoluta enumerati nell'allegato III, parte II, punto 2A; 
+ 2) navi alle quali si applicano i fattori imprevisti enumerati nell'allegato III, parte II, punto 2B, a seguito della valutazione professionale dell'autorita' competente locale.
 
 ## Art. 9. — Sistema di ispezione ed impegno ispettivo annuale
 
 Le ispezioni sono effettuate conformemente al regime di selezione descritto all'articolo 7 e al disposto dell'allegato III.
 
+2.
+                    
+                        
+                            L'autorita' competente locale provvede, annualmente, ad ispezionare: 
+ 
+                        
+                        
+                            a)
+                            
+                                le navi di priorita' I, di cui all'articolo 7, comma 2, lettera a), che fanno scalo nei suoi porti e ancoraggi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un numero di navi di priorita' I e II, di cui all'articolo 7, comma 2, lettere a) e b), corrispondente almeno alla percentuale annuale di ispezioni assegnata.
+
 ## Art. 10. — Modalita' del rispetto dell'impegno di ispezione
+
+1.
+                    
+                        
+                            L'obbligo di effettuare le ispezioni di cui all'articolo 9, comma 2, lettera a), e' rispettato se le ispezioni mancate non superano: 
+ 
+                        
+                        
+                            a)
+                            
+                                il 5 per cento del totale delle navi di priorita' I con un profilo di rischio elevato che hanno fatto scalo nei porti ed ancoraggi nazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il 10 per cento del totale delle navi di priorita' I diverse da quelle con un profilo di rischio elevato approdate nei porti ed ancoraggi nazionali.
 
 Ferme le percentuali di cui al comma 1, l'Autorita' competente locale ispeziona, in via prioritaria, le navi che, secondo le informazioni fornite dalla banca dati delle ispezioni, fanno scalo raramente in porti o ancoraggi ubicati all'interno della Comunita'.
 
@@ -100,7 +434,69 @@ Nel caso in cui il totale delle navi di priorita' I e II che hanno fatto scalo e
 
 ## Art. 12. — Rinvio delle ispezioni - Casi di mancata effettuazione
 
+1.
+                    
+                        
+                            L'autorita' competente locale puo' decidere di rinviare l'ispezione di una nave di priorita' I nelle seguenti circostanze: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando l'ispezione puo' essere effettuata al successivo scalo nazionale della nave, a condizione che la nave non effettui scali intermedi in nessun altro porto della Comunita' o della regione del MOU di Parigi e che il rinvio non sia superiore a quindici giorni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando l'ispezione puo' essere effettuata in altro porto di scalo della Comunita' o della regione del MOU di Parigi entro quindici giorni, a condizione che lo Stato in cui si trova tale porto abbia anticipatamente accettato di eseguire l'ispezione stessa.
+
 In caso di ispezione rinviata ai sensi della lettera a) o b), ed inserita nella banca dati delle ispezioni, la predetta ispezione mancata non e' conteggiata come tale. Qualora l'ispezione di una nave di priorita' I non sia effettuata, la nave non e' esentata dall'essere ispezionata nel porto di scalo successivo all'interno della Comunita', ai sensi del presente decreto.
+
+3.
+                    
+                        
+                            L'ispezione di una nave di priorita' I, non effettuata per motivi operativi, non e' conteggiata come ispezione mancata, purche' il motivo per cui non e' stata effettuata sia inserito nella banca dati sulle ispezioni e ricorra una delle seguenti circostanze eccezionali: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'autorita' competente locale ritiene che l'esecuzione dell'ispezione comporti un rischio per la sicurezza degli ispettori, della nave, dell'equipaggio o del porto ovvero per l'ambiente marino; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la nave fa scalo soltanto durante il periodo notturno.
+L'autorita' competente locale adotta le misure necessarie per garantire che, se necessario, le navi che fanno regolarmente scalo durante il periodo notturno siano ispezionate.
+
+4.
+                    
+                        
+                            L'ispezione non effettuata su una nave ancorata non e' conteggiata come ispezione mancata se ricorre una delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la nave e' ispezionata, entro quindici giorni, in altro porto o ancoraggio della Comunita' o della regione del MOU di Parigi ai sensi dell'allegato III; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la nave fa scalo soltanto durante il periodo notturno o la durata dello scalo e' troppo breve perche' l'ispezione possa essere effettuata in modo soddisfacente, e il motivo dell'ispezione mancata sia inserito nella banca dati sulle ispezioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'autorita' competente locale ritiene che l'esecuzione dell'ispezione comporti un rischio per la sicurezza degli ispettori, della nave, dell'equipaggio o del porto ovvero per l'ambiente marino, e il motivo dell'ispezione mancata sia inserito nella banca dati sulle ispezioni.
 
 ## Art. 13. — Comunicazione preventiva di arrivo delle navi
 
@@ -111,6 +507,31 @@ Le procedure e i formati sviluppati dall'autorita' competente locale ai fini del
 ## Art. 14. — ((Segnalazione di apparenti anomalie))
 
 I piloti che operano su navi in arrivo o in partenza da un porto nazionale o che operano su navi dirette o in transito all'interno delle acque di giurisdizione, informano immediatamente l'autorita' competente locale, qualora nell'esercizio delle loro normali funzioni, vengano comunque a conoscenza di anomalie che possono costituire un rischio per la sicurezza della navigazione o rappresentare una minaccia per l'ambiente marino. ((Analoga informazione e' resa dalle autorita' di sistema portuale, dai comandanti dei rimorchiatori, dagli ormeggiatori, dai battellieri e dalle autorita' sanitarie che, nell'esercizio delle loro normali funzioni, constatano che una nave attraccata in porto presenta anomalie apparenti che possono mettere a repentaglio la sicurezza della nave o rappresentare una minaccia irragionevole per l'ambiente marino.))
+
+2.
+                    
+                        
+                            Le informazioni di cui al comma 1, trasmesse possibilmente in formato elettronico, devono contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                nome, numero di identificazione IMO, nominativo internazionale e bandiera della nave; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ultimo porto di scalo e porto di destinazione della nave; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                descrizione delle anomalie apparenti riscontrate a bordo.
 
 L'autorita' competente locale informa immediatamente il Ministero dell'ambiente e della tutela del territorio e del mare, qualora le anomalie di cui al comma 1 rappresentino una minaccia per l'ambiente marino.
 
@@ -148,6 +569,31 @@ Il presente articolo fa salvo l'articolo 15. L'articolo 15, comma 2, si applica 
 
 ## Art. 16. — Ispezioni iniziali e dettagliate
 
+1.
+                    
+                        
+                            Le navi selezionate ai fini dell'ispezione ai sensi dell'articolo 7 o 19 sono sottoposte ad un'ispezione iniziale nel corso della quale l'ispettore provvede almeno a: 
+ 
+                        
+                        
+                            a)
+                            
+                                controllare i certificati e i documenti elencati nell'allegato V, che devono essere conservati a bordo conformemente alla normativa marittima comunitaria e alle convenzioni in materia di sicurezza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare, se necessario, se le deficienze emerse nel corso della precedente ispezione effettuata da uno Stato membro o da uno Stato firmatario del MOU di Parigi siano state corrette; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                verificare che le condizioni generali della nave, compresi gli aspetti igienici della stessa, la sala macchine e gli alloggi siano soddisfacenti dal punto di vista della sicurezza della navigazione, dell'igiene e della sicurezza delle condizioni di lavoro e della tutela ambientale.
+
 Quando, dopo un'ispezione iniziale, le deficienze riscontrate sono state inserite nella banca dati sulle ispezioni e ne e' prescritta l'eliminazione nel porto di scalo nazionale successivo, l'ispettore del successivo scalo, in sede di verifica dell'avvenuta eliminazione delle deficienze, puo' decidere di non procedere alle verifiche di cui al comma 1, lettere a) e c).
 
 Se, a seguito dell'ispezione di cui al comma 1, l'ispettore ritiene che ricorra uno dei casi di cui all'allegato VI del presente regolamento ovvero altri fondati motivi circa la non rispondenza delle condizioni della nave, delle relative dotazioni o dell'equipaggio, ai requisiti previsti dalle convenzioni, procede ad un'ispezione dettagliata che comprende un'ulteriore verifica della conformita' ai requisiti operativi di bordo.
@@ -155,6 +601,38 @@ Se, a seguito dell'ispezione di cui al comma 1, l'ispettore ritiene che ricorra 
 Quando le condizioni generali della nave sono palesemente sub standard, l'ispettore sospende l'ispezione e dispone il fermo della nave finche' ((i soggetti responsabili in base all'ordinamento dello Stato di bandiera non adottino)) tutte le misure necessarie per garantire l'ottemperanza ai pertinenti requisiti fissati dalle convenzioni.
 
 ## Art. 17. — Ispezioni estese
+
+1.
+                    
+                        
+                            Le seguenti categorie di navi sono assoggettabili ad ispezione estesa in conformita' dell'allegato III, parte II, punti 3A e 3B: 
+ 
+                        
+                        
+                            a)
+                            
+                                navi a profilo di rischio elevato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                navi passeggeri, petroliere, gasiere, chimichiere o portarinfusa di eta' superiore a dodici anni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                navi a profilo di rischio elevato o navi passeggeri, petroliere, gasiere, chimichiere o portarinfusa di eta' superiore a dodici anni, in caso di fattori di priorita' assoluta o imprevisti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                navi sottoposte a nuove ispezioni a seguito di un provvedimento di rifiuto di accesso emesso in conformita' dell'articolo 20.
 
 L'armatore o il comandante della nave provvede affinche', nel piano operativo di bordo, venga destinato un tempo sufficiente per consentire lo svolgimento dell'ispezione estesa. Ferme restando le misure di controllo necessarie per motivi di sicurezza, la nave resta nel porto fino al completamento dell'ispezione.
 
@@ -196,6 +674,38 @@ Il rifiuto di accesso si applica dal momento in cui la nave lascia il porto o l'
 
 Il provvedimento di rifiuto di accesso e' revocato trascorsi tre mesi dalla data in cui esso e' stato emesso e quando sono soddisfatte le condizioni di cui all'allegato IX, punti da 3 a 9. Se la nave e' sottoposta ad un secondo rifiuto di accesso, il predetto provvedimento non e' revocato prima che siano trascorsi 12 mesi.
 
+4.
+                    
+                        
+                            Ogni fermo successivo in un porto o ancoraggio all'interno della Comunita' determina il rifiuto di accesso della nave a qualsiasi porto o ancoraggio all'interno della Comunita'. Tale terzo provvedimento di rifiuto di accesso e' revocato dopo un periodo di ventiquattro mesi dalla sua emanazione e soltanto se: 
+ 
+                        
+                        
+                            a)
+                            
+                                la nave batte la bandiera di uno Stato la cui percentuale di fermi non rientra ne' nella lista nera ne' nella lista grigia di cui al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i certificati obbligatori e di classe della nave sono rilasciati da uno o piu' organismi riconosciuti a norma del regolamento (CE) n. 391/2009 del Parlamento europeo e del Consiglio, del 23 aprile 2009, relativo alle disposizioni ed alle norme comuni per gli organismi che effettuano le ispezioni e le visite di controllo delle navi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la nave e' gestita da una compagnia con prestazioni elevate conformemente all'allegato III, parte I, punto 1, e se 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono soddisfatte le condizioni di cui all'allegato IX, punti da 3 a 9.
+
 Ad ogni nave che non soddisfi i criteri specificati nel comma 4, dopo un periodo di ventiquattro mesi dall'emanazione del provvedimento, e' imposto un rifiuto di accesso permanente a qualsiasi porto o ancoraggio all'interno della Comunita'.
 
 Ogni fermo successivo in un porto o ancoraggio all'interno della Comunita' dopo il terzo rifiuto di accesso determina il rifiuto permanente di accesso della nave a qualsiasi porto o ancoraggio all'interno della Comunita'.
@@ -209,6 +719,24 @@ Al termine di un'ispezione, di un'ispezione dettagliata o di un'ispezione estesa
 ((
 
 Qualora un'ispezione piu' dettagliata accerti condizioni di vita e di lavoro sulla nave difformi dalle prescrizioni della CLM 2006, l'ispettore segnala immediatamente le carenze al comandante della nave, stabilendo anche i termini previsti per la correzione delle stesse.
+
+1-ter.
+                    
+                        
+                            Qualora un ispettore ritenga che le carenze siano rilevanti o qualora esse riguardino un possibile esposto a norma dell'allegato VI, parte A, punto 20, segnala le stesse anche alle pertinenti organizzazioni degli armatori e dei marittimi e puo': 
+ 
+                        
+                        
+                            a)
+                            
+                                darne notifica a un rappresentante dello Stato di bandiera; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornire alle competenti autorita' del successivo porto di scalo le informazioni pertinenti.
 
 Riguardo a materie legate alla CLM 2006, l'autorita' competente locale ha la facolta' di trasmettere copia della relazione dell'ispettore, corredata delle eventuali repliche pervenute entro il termine prescritto dalle competenti autorita' dello Stato di bandiera, al direttore generale dell'Ufficio internazionale del lavoro, affinche' l'azione possa essere valutata pertinente e idonea al fine di garantire che i dati in questione siano registrati e trasmessi ai soggetti eventualmente interessati ad avvalersi delle procedure di ricorso appropriate.
 
@@ -289,6 +817,45 @@ Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri
 
 ## Art. 27. — Scambio di informazioni, cooperazione 
  e pubblicazione di notizie
+
+1.
+                    
+                        
+                            L'autorita' competente locale provvede ad acquisire i seguenti tipi di informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                informazioni notificate in conformita' dell'articolo 13 e dell'allegato IV; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                informazioni relative alle navi che hanno omesso di notificare informazioni conformemente al disposto del presente decreto e dei decreti legislativi 24 giugno 2003, n. 182, e 19 agosto 2005, n. 196, nonche', se del caso, al regolamento (CE) n. 725/2004; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                informazioni relative a navi che hanno preso il mare senza essersi conformate all'articolo 7 o all'articolo 10 del decreto legislativo 24 giugno 2003, n. 182; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                informazioni relative a navi alle quali e' stato negato l'accesso o che sono state espulse da un porto per motivi di sicurezza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                informazioni su anomalie apparenti conformemente all'articolo 14.
 
 L'autorita' competente centrale fornisce alla Commissione UE le informazioni elencate nell'allegato XIII con la frequenza in esso specificata.
 

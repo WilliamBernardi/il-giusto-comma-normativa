@@ -8,8 +8,8 @@ codice_redazionale: 096G0552
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,33 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 6 lu
 Sulla proposta del Ministro delle finanze, di concerto con il Ministro del tesoro;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            I comandi e reparti territoriali della Guardia di finanza sono cosi' determinati:
+ 
+                        
+                        
+                            a)
+                            
+                                n. 18 zone;
+
+                            
+                        
+                        
+                            b)
+                            
+                                n. 21 legioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                n. 15 nuclei regionali di polizia tributaria.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
 

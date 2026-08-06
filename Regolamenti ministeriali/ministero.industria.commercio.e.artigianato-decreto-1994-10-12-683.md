@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2000-03-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,45 @@ DEL COMMERCIO E DELL'ARTIGIANATO
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 22 settembre 1994;
 
 ## Art. 1. — Condizioni di ammissibilita' della domanda
+
+1.
+                    
+                        
+                            Per usufruire dei contributi di cui all'art. 1 del decreto-legge 20 giugno 1994, n. 396, convertito nella legge 3 agosto 1994, n. 481, le imprese siderurgiche, che esercitano una delle attivita' produttive indicate nell'allegato I del Trattato che istituisce la Comunita' europea del carbone e dell'acciaio, devono:
+ 
+                        
+                        
+                            a)
+                            
+                                essere iscritte nel registro delle imprese prima del 1 gennaio 1991; rientrano nella fattispecie le imprese derivanti da procedimenti di fusione, incorporazione o scissione di imprese aventi personalita' giuridica prima del 1 gennaio 1991;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non aver modificato l'oggetto della loro produzione e la struttura dei loro impianti dopo il 1 gennaio 1991;
+
+                            
+                        
+                        
+                            c)
+                            
+                                procedere alla distruzione degli impianti oggetto di incentivazione entro il 31 marzo 1995;
+
+                            
+                        
+                        
+                            d)
+                            
+                                essere poste in liquidazione volontaria, prima del pagamento dei contributi, se controllate direttamente o indirettamente da un'impresa siderurgica o altra impresa che controlli altre imprese siderurgiche o se esse stesse controllino una tale impresa, in conformita' con il disposto di cui all'art. 4, paragrafo 2, quarto alinea, della decisione n. 3855/91/CECA;
+
+                            
+                        
+                        
+                            e)
+                            
+                                aver realizzato regolarmente fino alla data di adozione del decreto-legge n. 103 del 14 febbraio 1994, reiterato il 14 aprile 1994 con decreto-legge n. 234, reiterato il 20 giugno 1994 con decreto-legge n. 396, convertito nella legge 3 agosto 1994, n. 481, una produzione certificata con perizia giurata di un tecnico esperto del settore iscritto nel registro dei periti nominato dal tribunale nella cui circoscrizione ha sede la societa'.
 
 Per sito produttivo deve intendersi una unita' produttiva idonea a realizzare un ciclo completo di attivita' di laminazione e un ciclo completo di produzione di acciaio grezzo, o uno solo dei due cicli predetti inseriti in un unico stabilimento industriale.
 
@@ -58,13 +97,74 @@ Nel caso in cui le disponibilita' finanziarie non risultano sufficienti al pagam
 ## Art. 3. — Calcolo del contributo per incentivare
  la soppressione di capacita' produttiva
 
+1.
+                    
+                        
+                            La misura del contributo destinato alla distruzione degli impianti, di cui all'art. 1, comma 2, lettera a), del decreto-legge 20 giugno 1994, n. 396, convertito nella legge 3 agosto 1994, n. 481, fa riferimento ai due seguenti valori, accertati attraverso una istruttoria tecnica svolta da Istituzioni creditizie specializzate nella valutazione di complessi aziendali ed impianti industriali, a seguito di convenzione con il Ministero dell'industria, del commercio e dell'artigianato, sentita la Banca d'Italia:
+ 
+                        
+                        
+                            a)
+                            
+                                valore del margine di contribuzione ai costi fissi del rendimento degli impianti nell'ultimo triennio, detratti i diversi vantaggi che l'impresa beneficiaria puo' ricavare dalla loro chiusura; per la determinazione del margine di contribuzione della impresa industriale, si fa riferimento alle sole voci di ricavo e di costo a monte del risultato operativo ad esclusione quindi delle componenti di natura sia finanziaria sia extraoperativa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                valore contabile residuo degli impianti da chiudere, al netto degli ammortamenti effettuati, depurato, in caso di rivalutazioni effettuate dopo il 1 gennaio 1990, della parte di dette rivalutazioni che supera il tasso di inflazione nazionale.
+
 L'entita' del contributo stesso scaturisce dalla media dei due valori precedentemente individuati.
 
 Le imprese istanti sono tenute ad effettuare una riclassificazione dei bilanci stessi da parte di societa' di revisione, secondo lo schema di cui all'allegato D.
 
 ## Art. 4. — Liquidazione volontaria del sito o impresa
 
+1.
+                    
+                        
+                            Le imprese beneficiarie dei contributi per la riduzione di capacita' produttiva devono procedere alla liquidazione volontaria, secondo le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                se e' la societa' facente parte di un gruppo ad essere posta in liquidazione, i liquidatori devono pagare con i benefici per la soppressione di capacita' produttiva i debiti sociali e le passivita' residue devono essere trasferite a carico della societa' controllante o controllata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                se e' una societa' appartenente ad un gruppo industriale o una singola societa' che offre in dismissione uno o piu' siti produttivi, questa deve procedere a costituire una nuova entita' giuridica che assume la titolarita' di tutti gli impianti residui e le passivita' relative agli stessi.
+
 ## Art. 5. — Distruzione degli impianti
+
+1.
+                    
+                        
+                            La distruzione degli impianti produttivi consiste nel taglio alla fiamma, in dimensioni inferiori ad un metro lineare, delle seguenti parti essenziali degli impianti:
+ 
+                        
+                        
+                            a)
+                            
+                                per gli impianti fusori: i forni elettrici, il tino, la volta, il braccio porta elettrodi, nonche' i dispositivi di azionamento idraulico e meccanico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la colata continua: la macchina completa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i laminatoi: le gabbie e le guarniture, le allunghe, i riduttori e i manipolatori, i forni di riscaldo e mantenimento, le vie a rulli di entrata, intermedie e di uscita, i letti di raffreddamento e gli aspi.
 
 La verifica della distruzione degli impianti produttivi avviene a mezzo di commissioni previste dall'art. 18 della legge 26 aprile 1983, n. 130, formate da un presidente e due membri. Gli uffici della Commissione dell'Unione europea, sulle base di programmi predeterminati e di date precise, possono inviare propri funzionari ad assistere alle operazioni di verifica.
 

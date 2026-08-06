@@ -8,8 +8,8 @@ codice_redazionale: 005G0003
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,24 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 D'intesa con il Ministro delle attivita' produttive (nota n. 0009613 del 2 dicembre 2004);
 
 ## Art. 1. — Soggetti beneficiari
+
+1.
+                    
+                        
+                            La garanzia statale e' concessa, nei limiti delle disponibilita' esistenti a valere sull'ammontare stabilito dalla legge, a beneficio delle imprese ammesse alla procedura di amministrazione straordinaria, per le quali, a seguito della decisione favorevole della Commissione europea, sia stata autorizzata con provvedimento del Ministero delle attivita' produttive:
+ 
+                        
+                        
+                            a)
+                            
+                                l'attuazione del piano di intervento per il salvataggio, anche secondo quanto previsto dall'articolo 5 del decreto-legge n. 347 del 2003, convertito con modificazioni dalla legge n. 39 del 2004;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'esecuzione del programma di ristrutturazione, ai sensi dell'articolo 54 e seguenti del decreto legislativo n. 270 del 1999.
 
 La garanzia assiste le operazioni finanziarie poste in essere dal commissario straordinario con le banche per la realizzazione del piano o del programma di cui al comma 1.
 

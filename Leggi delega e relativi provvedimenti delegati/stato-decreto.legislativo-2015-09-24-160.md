@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,9 +29,104 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 All'articolo 10-bis della legge 31 dicembre 2009, n. 196, dopo il comma 5, e' inserito il seguente: 
  « 5-bis. La Nota di aggiornamento di cui al comma 1 e' corredata altresi' da un rapporto programmatico nel quale sono indicati gli interventi volti a ridurre, eliminare o riformare le spese fiscali in tutto o in parte ingiustificate o superate alla luce delle mutate esigenze sociali o economiche ovvero che si sovrappongono a programmi di spesa aventi le stesse finalita', che il Governo intende attuare con la manovra di finanza pubblica. Nell'indicazione degli interventi di cui al precedente periodo resta ferma la priorita' della tutela dei redditi di lavoro dipendente e autonomo, dei redditi di imprese minori e dei redditi di pensione, della famiglia, della salute, delle persone economicamente o socialmente svantaggiate, del patrimonio artistico e culturale, della ricerca e dell'istruzione, nonche' dell'ambiente e dell'innovazione tecnologica. Le spese fiscali per le quali sono trascorsi cinque anni dalla entrata in vigore sono oggetto di specifiche proposte di eliminazione, riduzione, modifica o conferma.».
 
+2.
+                    
+                        
+                            All'articolo 11 della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, lettera b), dopo le parole: «e degli scaglioni,» sono inserite le seguenti: «le norme necessarie alla eliminazione, riduzione o modifica delle spese fiscali e»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3, e' inserito il seguente: 
+ «3-bis. Le eventuali maggiori entrate derivanti dalla revisione delle spese fiscali disposta ai sensi del comma 3, lettera b), sono attribuite di norma al Fondo per la riduzione della pressione fiscale.».
+
+3.
+                    
+                        
+                            All'articolo 21 della legge 31 dicembre 2009, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 11, lettera a), le parole: «, nonche' gli effetti connessi alle disposizioni normative vigenti, con separata indicazione di quelle introdotte nell'esercizio, recanti esenzioni o riduzioni del prelievo obbligatorio, con l'indicazione della natura delle agevolazioni, dei soggetti e delle categorie dei beneficiari e degli obiettivi perseguiti» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 11, e' inserito il seguente: 
+ «11-bis. Allo stato di previsione dell'entrata e' allegato un rapporto annuale sulle spese fiscali, che elenca qualunque forma di esenzione, esclusione, riduzione dell'imponibile o dell'imposta ovvero regime di favore, derivante da disposizioni normative vigenti, con separata indicazione di quelle introdotte nell'anno precedente e nei primi sei mesi dell'anno in corso. Ciascuna misura e' accompagnata dalla sua descrizione e dall'individuazione della tipologia dei beneficiari e, ove possibile, dalla quantificazione degli effetti finanziari e del numero dei beneficiari. Le misure sono raggruppate in categorie omogenee, contrassegnate da un codice che ne caratterizza la natura e le finalita'. Il rapporto individua le spese fiscali e ne valuta gli effetti finanziari prendendo a riferimento modelli economici standard di tassazione, rispetto ai quali considera anche le spese fiscali negative. Ove possibile e, comunque, per le spese fiscali per le quali sono trascorsi cinque anni dalla entrata in vigore, il rapporto effettua confronti tra le spese fiscali e i programmi di spesa destinati alle medesime finalita' e analizza gli effetti micro-economici delle singole spese fiscali, comprese le ricadute sul contesto sociale.».
+
 Per la redazione del rapporto di cui al comma 3, lettera b), il Governo si avvale di una Commissione istituita con decreto del Ministro dell'economia e delle finanze, composta da quindici esperti nelle materie economiche, statistiche, fiscali o giuridico-finanziarie, di cui due rappresentanti della Presidenza del Consiglio dei ministri, cinque rappresentanti del Ministero dell'economia e delle finanze, un rappresentante dell'Istituto nazionale di statistica (ISTAT), un rappresentante del Ministero dello sviluppo economico, un rappresentante dell'Associazione nazionale dei comuni italiani (ANCI), un rappresentante della Conferenza delle regioni e delle province autonome di Trento e di Bolzano, un rappresentante della Banca d'Italia e tre professori universitari. La Commissione puo' avvalersi del contributo di esperti delle associazioni di categoria, degli ordini professionali, delle organizzazioni sindacali piu' rappresentative a livello nazionale e delle associazioni familiari. La partecipazione alla Commissione, a qualunque titolo, non da' diritto a compensi, emolumenti o altre indennita', ne' a rimborsi di spese.
 
 ## Art. 2. — Monitoraggio dell'evasione fiscale e coordinamento con le procedure di bilancio
+
+1.
+                    
+                        
+                            Dopo l'articolo 10-bis della legge 31 dicembre 2009, n. 196, come modificato dall'articolo 1, e' inserito il seguente: 
+ «Art. 10-bis.1 (Monitoraggio dell'evasione fiscale e contributiva).
+- 1. Contestualmente alla nota di aggiornamento di cui al comma 1 dell'articolo 10-bis, e' presentato un rapporto sui risultati conseguiti in materia di misure di contrasto all'evasione fiscale e contributiva, distinguendo tra imposte accertate e riscosse nonche' tra le diverse tipologie di avvio delle procedure di accertamento, in particolare evidenziando i risultati del recupero di somme dichiarate e non versate e della correzione di errori nella liquidazione sulla base delle dichiarazioni, evidenziando, ove possibile, il recupero di gettito fiscale e contributivo attribuibile alla maggiore propensione all'adempimento da parte dei contribuenti. Il Governo indica, altresi', le strategie per il contrasto dell'evasione fiscale e contributiva, l'aggiornamento e il confronto dei risultati con gli obiettivi. 
+ 2. Le maggiori entrate che, sulla base delle risultanze riferite all'anno precedente, possono essere ascritte su base permanente ai risultati dell'attivita' di contrasto e prevenzione dell'evasione fiscale e contributiva, nonche' di miglioramento dell'adempimento spontaneo, di cui al comma 4, lettera e), al netto di quelle necessarie al mantenimento dell'equilibrio di bilancio e alla riduzione del rapporto tra il debito e il prodotto interno lordo, sono attribuite al Fondo per la riduzione della pressione fiscale, le cui dotazioni possono essere destinate soltanto ai fini indicati dalla normativa istitutiva del Fondo medesimo. 
+ 3. Per la redazione del rapporto previsto dal comma 1, che e' corredato da una esaustiva nota illustrativa delle metodologie utilizzate, il Governo, anche con il contributo delle regioni in relazione ai loro tributi e a quelli degli enti locali del proprio territorio, si avvale della «Relazione sull'economia non osservata e sull'evasione fiscale e contributiva», predisposta da una Commissione istituita con decreto del Ministro dell'economia e delle finanze. 
+ 4. La Commissione redige una Relazione annuale sull'economia non osservata e sull'evasione fiscale e contributiva, contenente anche una nota illustrativa delle metodologie utilizzate per effettuare le stime e finalizzata a: 
+ 
+                        
+                        
+                            a)
+                            
+                                recepire e commentare le valutazioni sull'economia non osservata effettuate dall'ISTAT sulla base della normativa che regola la redazione dei conti economici nazionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stimare l'ampiezza e la diffusione dell'evasione fiscale e contributiva e produrre una stima ufficiale dell'ammontare delle entrate sottratte al bilancio pubblico, con la massima disaggregazione possibile a livello settoriale, territoriale e dimensionale, utilizzando una metodologia di rilevazione, riferita a tutti i principali tributi, anche locali, basata sul confronto tra i dati della contabilita' nazionale e quelli acquisiti dall'anagrafe tributaria, con criteri trasparenti, stabili nel tempo, e adeguatamente pubblicizzati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                valutare l'evoluzione nel tempo dell'evasione fiscale e contributiva e delle entrate sottratte al bilancio pubblico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                illustrare le strategie e gli interventi attuati per contrastare e prevenire l'evasione fiscale e contributiva, nonche' quelli volti a stimolare l'adempimento spontaneo degli obblighi fiscali e contributivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                valutare i risultati dell'attivita' di contrasto e prevenzione, nonche' di stimolo all'adempimento spontaneo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                indicare le linee di intervento e prevenzione dell'evasione fiscale e contributiva, nonche' quelle volte a stimolare l'adempimento spontaneo degli obblighi fiscali e contributivi. 
+ 5. Per adempiere all'obiettivo di stimare l'ampiezza dell'evasione fiscale e contributiva, di cui al comma 4, lettera b), nella Relazione di cui al medesimo comma 4 viene effettuata una misurazione del divario tra le imposte e i contributi effettivamente versati e le imposte e i contributi che si sarebbero dovuti versare in un regime di perfetto adempimento, escludendo gli effetti delle spese fiscali di cui all'articolo 21, comma 11-bis, della legge 31 dicembre 2009, n. 196. A tal fine, in particolare, si misurano: 
+ a) i mancati gettiti derivanti da errori dei contribuenti nel calcolo delle imposte e dei contributi in sede di dichiarazione; 
+ b) gli omessi versamenti rispetto a quanto risulta dovuto in base alle dichiarazioni; 
+ c) il divario tra le basi imponibili fiscali e contributive dichiarate e quelle teoriche desumibili dagli aggregati di contabilita' nazionale, distinguendo tra la parte di tale divario ascrivibile alle spese fiscali, di cui al citato articolo 21, comma 11-bis, e la parte residua di tale divario, che viene attribuita all'occultamento di basi imponibili; 
+ d) le mancate entrate fiscali e contributive attribuibili all'evasione, valutate sottraendo, dal divario tra le entrate effettive e quelle potenzialmente ottenibili in un regime di perfetto adempimento, le minori entrate ascrivibili alle spese fiscali, di cui al citato articolo 21, comma 11-bis. 
+ 6. I risultati del contrasto all'evasione e del miglioramento dell'adempimento spontaneo, di cui al comma 4, lettera e), sono misurati sulla base di separata valutazione delle entrate risultanti dalle complessive attivita' di verifica e accertamento effettuate dalle amministrazioni, comprensive di quelle di cui al comma 5, lettere a) e b), e dell'andamento dell'adempimento spontaneo, correlato alla correttezza dei comportamenti dichiarativi dei contribuenti, che e' approssimato dalla variazione, rispetto all'anno precedente, della parte del divario tra le basi imponibili dichiarate e quelle teoriche attribuita all'occultamento di basi imponibili, di cui al comma 5, lettera c), e dalla variazione, rispetto all'anno precedente, delle mancate entrate fiscali e contributive attribuibili all'evasione, di cui al comma 5, lettere a), b) e d). Nella valutazione dell'andamento dell'adempimento spontaneo rispetto all'anno precedente si tiene conto degli effetti dell'evoluzione del quadro macroeconomico di riferimento sugli aggregati di contabilita' nazionale. Si da' conto delle mancate entrate di cui al comma 5, lettere a), b) e d), sia complessivamente che separatamente, sia in valore assoluto che in rapporto alle basi imponibili teoriche, applicando la massima disaggregazione possibile per: tipo di imposta, categoria, settore, dimensione dei contribuenti, ripartizione territoriale.».
 
 La Commissione di cui al comma 3 dell'articolo 10-bis.1 della legge 31 dicembre 2009, n. 196, inserito dal comma 1 e' composta da quindici esperti nelle materie economiche, statistiche, fiscali, lavoristiche o giuridico-finanziarie, di cui un rappresentante della Presidenza del Consiglio dei ministri, ((cinque rappresentanti del Ministero dell'economia e delle finanze, rispettivamente per i Dipartimenti delle finanze e della Ragioneria generale dello Stato, per le Agenzie delle entrate e delle dogane e dei monopoli e per il Corpo della Guardia di finanza)), due rappresentanti dell'Istituto nazionale di statistica (ISTAT), un rappresentante del Ministero del lavoro e delle politiche sociali, un rappresentante dell'INPS, un rappresentante dell'Associazione nazionale dei comuni italiani (ANCI), un rappresentante della Conferenza delle regioni e delle province autonome di Trento e di Bolzano, un rappresentante della Banca d'Italia e tre professori universitari. La Commissione puo' avvalersi del contributo di esperti delle associazioni di categoria, degli ordini professionali, delle organizzazioni sindacali piu' rappresentative a livello nazionale e delle associazioni familiari.
 La partecipazione alla Commissione, a qualunque titolo, non da' diritto a compensi, emolumenti o altre indennita', ne' a rimborsi di spese.

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-05-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,11 +38,137 @@ Le regioni, singolarmente o attraverso strumenti di autocoordinamento, elaborano
 
 Il Governo, su proposta del Ministro della sanita', sentite le commissioni parlamentari competenti per la materia, le quali si esprimono entro trenta giorni dalla data di trasmissione dell'atto, nonche' le confederazioni sindacali maggiormente rappresentative, le quali rendono il parere entro venti giorni, predispone il piano sanitario nazionale, tenendo conto delle proposte trasmesse dalle regioni entro il 31 luglio dell'ultimo anno di vigenza del piano precedente, nel rispetto di quanto stabilito dal comma 4. Il Governo, ove si discosti dal parere delle commissioni parlamentari, e' tenuto a motivare. Il piano e' adottato ai sensi dell'articolo 1 della legge 12 gennaio 1991, n.13, d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
 
+6.
+                        
+                            
+                                I livelli essenziali di assistenza comprendono le tipologie di assistenza, i servizi e le prestazioni relativi alle aree di offerta individuate dal Piano sanitario nazionale. Tali livelli comprendono, per il 1998-2000: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'assistenza sanitaria collettiva in ambiente di vita e di lavoro; 
+ b ) l'assistenza distrettuale; 
+ c) l'assistenza ospedaliera.
+
+7.
+                        
+                            
+                                Sono posti a carico del Servizio sanitario le tipologie di assistenza, i servizi e le prestazioni sanitarie che presentano, per specifiche condizioni cliniche o di rischio, evidenze scientifiche di un significativo beneficio in termini di salute, a livello individuale o collettivo, a fronte delle risorse impiegate. Sono esclusi dai livelli di assistenza erogati a carico del Servizio sanitario nazionale le tipologie di assistenza, i servizi e le prestazioni sanitarie che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non rispondono a necessita' assistenziali tutelate in base ai principi ispiratori del Servizio sanitario nazionale di cui al comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non soddisfano il principio dell'efficacia e dell'appropriatezza, ovvero la cui efficacia non e' dimostrabile in base alle evidenze scientifiche disponibili o sono utilizzati per soggetti le cui condizioni cliniche non corrispondono alle indicazioni raccomandate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in presenza di altre forme di assistenza volte a soddisfare le medesime esigenze, non soddisfano il principio dell'economicita' nell'impiego delle risorse, ovvero non garantiscono un uso efficiente delle risorse quanto a modalita' di organizzazione ed erogazione dell'assistenza.
+
 Le prestazioni innovative per le quali non sono disponibili sufficienti e definitive evidenze scientifiche di efficacia possono essere erogate in strutture sanitarie accreditate dal Servizio sanitario nazionale esclusivamente nell'ambito di appositi programmi di sperimentazione autorizzati dal Ministero della sanita'.
 
 Il Piano sanitario nazionale ha durata triennale ed e' adottato dal Governo entro il 30 novembre dell'ultimo anno di vigenza del Pi- ano precedente. Il Piano sanitario nazionale puo' essere modificato nel corso del triennio con la procedura di cui al comma 5.
 
+10.
+                        
+                            
+                                Il Piano sanitario nazionale indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le aree prioritarie di intervento, anche ai fini di una progressiva riduzione delle diseguaglianze sociali e territoriali nei confronti della salute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i livelli essenziali di assistenza sanitaria da assicurare per il triennio di validita' dei Piano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la quota capitaria di finanziamento per ciascun anno di validita' del Piano e la sua disaggregazione per livelli di assistenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli indirizzi finalizzati a orientare il Servizio sanitario nazionale verso il miglioramento continuo della qualita' dell'assistenza, anche attraverso la realizzazione di progetti di interesse sovraregionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i progetti-obiettivo, da realizzare anche mediante l'integrazione funzionale e operativa dei servizi sanitari e dei servizi socioassistenziali degli enti locali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le finalita' generali e i settori principali della ricerca biomedica e sanitaria, prevedendo altresi' il relativo programma di ricerca; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le esigenze relative alla formazione di base e gli indirizzi relativi alla formazione continua del personale, nonche' al fabbisogno e alla valorizzazione delle risorse umane; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le linee guida ((, i modelli organizzativi e gestionali)) e i relativi percorsi diagnostico-terapeutici allo scopo di favorire, all'interno di ciascuna struttura sanitaria, lo sviluppo di modalita' sistematiche di revisione e valutazione della pratica clinica e assistenziale e di assicurare l'applicazione dei livelli essenziali di assistenza ((, secondo i principi di umanizzazione della cura e di integrazione delle specializzazioni per valorizzare la centralita' della persona umana)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i criteri e gli indicatori per la verifica dei livelli di assistenza assicurati in rapporto a quelli previsti.
+
 I progetti obiettivo previsti dal Piano sanitario nazionale sono adottati dal Ministro della sanita' con decreto di natura non regolamentare, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con gli altri Ministri competenti per materia, d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n.281.
+
+12.
+                        
+                            
+                                La Relazione sullo stato sanitario del Paese, predisposta annualmente dal Ministro della sanita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    illustra le condizioni di salute della popolazione presente sul territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrive le risorse impiegate e le attivita' svolte dal Servizio sanitario nazionale; 
+ C) espone i risultati conseguiti rispetto agli obiettivi fissati dal Piano sanitario nazionale; 
+ d) riferisce sui risultati conseguiti dalle regioni in riferimento all'attuazione dei piani sanitari regionali; 
+ e) fornisce indicazioni per l'elaborazione delle politiche sanitarie e la programmazione degli interventi.
 
 Il Piano sanitario regionale rappresenta il piano strategico degli interventi per gli obiettivi di salute e il funzionamento dei servizi per soddisfare le esigenze specifiche della popolazione regionale anche in riferimento agli obiettivi del Piano sanitario nazionale. Le regioni, entro centocinquanta giorni dalla data di entrata in vigore del Piano sanitario nazionale, adottano o adeguano i Piani sanitari regionali, prevedendo forme di partecipazione delle autonomie locali, ai sensi dell'articolo 2, comma 2-bis, nonche' delle formazioni sociali private non aventi scopo di lucro impegnate nel campo dell'assistenza sociale e sanitaria, delle organizzazioni sindacali degli operatori sanitari pubblici e privati e delle strutture private accreditate dal Servizio sanitario nazionale.
 
@@ -70,6 +196,68 @@ Le regioni, nell'ambito della loro autonomia, definiscono i criteri e le modalit
 
 La legge regionale disciplina il rapporto tra programmazione regionale e programmazione attuativa locale, definendo in particolare le procedure di proposta, adozione e approvazione del Piano attuativo locale e le modalita' della partecipazione ad esse degli enti locali interessati. Nelle aree metropolitane il piano attuativo metropolitano e' elaborato dall'organismo di cui al comma 2- quater, ove costituito.
 
+2-sexies.
+                        
+                            
+                                La regione disciplina altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolazione del territorio regionale in unita' sanitarie locali, le quali assicurano attraverso servizi direttamente gestiti l'assistenza sanitaria collettiva in ambiente di vita e di lavoro, l'assistenza distrettuale e l'assistenza ospedaliera, salvo quanto previsto dal presente decreto per quanto attiene alle aziende ospedaliere di rilievo nazionale e interregionale e alle altre strutture pubbliche e private accreditate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i principi e criteri per l'adozione dell'atto aziendale di cui all'articolo 3, comma 1-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la definizione dei criteri per l'articolazione delle unita' sanitarie locali in distretti, da parte dell'atto di cui all'articolo 3, comma 1-bis, tenendo conto delle peculiarita' delle zone montane e a bassa densita' di popolazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il finanziamento delle unita' sanitarie locali, sulla base di una quota capitaria corretta in relazione alle caratteristiche della popolazione residente con criteri coerenti con quelli indicati all'articolo 1, comma 34, della legge 23 dicembre 1996, n.662; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di vigilanza e di controllo, da parte della regione medesima, sulle unita' sanitarie locali, nonche' di valutazione dei risultati delle stesse, prevedendo in quest'ultimo caso forme e modalita' di partecipazione della Conferenza dei sindaci; l'organizzazione e il funzionamento delle attivita' di cui all'articolo 19-bis, comma 3, in raccordo e cooperazione con la Commissione nazionale di cui al medesimo articolo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'organizzazione e il funzionamento delle attivita' di cui all'articolo 19-bis, comma 3, in raccordo e cooperazione con la Commissione nazionale di cui al medesimo articolo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fermo restando il generale divieto di indebitamento, la possibilita' per le unita' sanitarie locali di: 
+ 1) anticipazione, da parte del tesoriere, nella misura massima di un dodicesimo dell'ammontare annuo del valore dei ricavi, inclusi i trasferimenti, iscritti nel bilancio preventivo annuale; 
+ 2) contrazione di mutui e accensione di altre forme di credito, di durata non superiore a dieci anni, per il finanziamento di spese di investimento e previa autorizzazione regionale, fino a un ammontare complessivo delle relative rate, per capitale e interessi, non superiore al quindici per cento delle entrate proprie correnti, ad esclusione della quota di fondo sanitario nazionale di parte corrente attribuita alla regione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le modalita' con cui le unita' sanitarie locali e le aziende ospedaliere assicurano le prestazioni e i servizi contemplati dai livelli aggiuntivi di assistenza finanziati dai comuni ai sensi dell'articolo 2 comma 1, lettera l), della legge 30 novembre 1998, n. 419.
+
 Entro sessanta giorni dalla data di entrata in vigore ((del decreto legislativo 19 giugno 1999, n. 229,)) le regioni istituiscono l'elenco delle istituzioni e degli organismi a scopo non lucrativo di cui all'articolo 1, comma 18.
 
 Salvo quanto diversamente disposto, quando la regione non adotta i provvedimenti previsti dai commi 2-bis e 2-quinquies, il Ministro della sanita', sentite la regione interessata e l'Agenzia per i servizi sanitari regionali, fissa un congruo termine per provvedere; decorso tale termine, il Ministro della sanita', sentito il parere della medesima Agenzia e previa consultazione della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, propone al Consiglio dei Ministri l'intervento sostitutivo, anche sotto forma di nomina di un commissario ad acta. L'intervento adottato dal Governo non preclude l'esercizio delle funzioni regionali per le quali si e' provveduto in via sostitutiva ed e' efficace sino a quando i competenti organi regionali abbiano provveduto.
@@ -92,6 +280,59 @@ L'unita' sanitaria locale puo' assumere la gestione di attivita' o servizi socio
 
 COMMA ABROGATO DAL D.LGS. 19 GIUGNO 1999, N. 229.
 
+5.
+                        
+                            
+                                Le regioni disciplinano, entro il 31 marzo 1994, nell'ambito della propria competenza le modalita' organizzative e di funzionamento delle unita' sanitarie locali prevedendo tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 19 GIUGNO 1999, N. 229; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 19 GIUGNO 1999, N. 229; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 19 GIUGNO 1999, N. 229; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 19 GIUGNO 1999, N. 229; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 19 GIUGNO 1999, N. 229; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 19 GIUGNO 1999, N. 229; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i criteri per la definizione delle dotazioni organiche e degli uffici dirigenziali delle unita' sanitarie locali e delle aziende ospedaliere nonche' i criteri per l'attuazione della mobilita' del personale risultato in esubero, ai sensi delle disposizioni di cui al decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni.
+
 Tutti i poteri di gestione, nonche' la rappresentanza dell'unita' sanitaria locale, sono riservati al direttore generale.
 Al direttore generale compete in particolare, anche attraverso l'istituzione dell'apposito servizio di controllo interno di cui all'art. 20 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, verificare, mediante valutazioni comparative dei costi, dei rendimenti e dei risultati, la corretta ed economica gestione delle risorse attribuite ed introitate nonche' l'imparzialita' ed il buon andamento dell'azione amministrativa. I provvedimenti di nomina dei direttori generali delle aziende unita' sanitarie locali e delle aziende ospedaliere sono adottati esclusivamente con riferimento ai requisiti di cui all'articolo 1 del decreto-legge 27 agosto 1994, n. 512, convertito dalla legge 17 ottobre 1994, n. 590, senza necessita' di valutazioni comparative. PERIODO SOPPRESSO DAL D.L. 27 AGOSTO 1994, N. 512, CONVERTITO SENZA MODIFICAZIONI DALLA L. 17 OTTOBRE 1994, N. 590.
 PERIODO ABROGATO DAL D.LGS. 19 GIUGNO 1999, N. 229. PERIODO ABROGATO DAL D.LGS. 19 GIUGNO 1999, N. 229. L'autonomia di cui al comma 1 diviene effettiva con la prima immissione nelle funzioni del direttore generale. PERIODO ABROGATO DAL D.LGS. 19 GIUGNO 1999, N.
@@ -104,6 +345,38 @@ COMMA ABROGATO DAL D.LGS. 19 GIUGNO 1999, N. 229.
 COMMA ABROGATO DAL D.LGS. 8 APRILE 2013, N. 39.
 
 COMMA SOPPRESSO DAL D.L. 27 AGOSTO 1994, N. 512, CONVERTITO SENZA MODIFICAZIONI DALLA L. 17 OTTOBRE 1994, N. 590.
+
+11.
+                        
+                            
+                                Non possono essere nominati direttori generali, direttori amministrativi o direttori sanitari delle unita' sanitarie locali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che hanno riportato condanna, anche non definitiva, a pena detentiva non inferiore ad un anno per delitto non colposo ovvero a pena detentiva non inferiore a sei mesi per delitto non colposo commesso nella qualita' di pubblico ufficiale o con abuso dei poteri o violazione dei doveri inerenti ad una pubblica funzione, salvo quanto disposto dal secondo comma dell'articolo 166 del codice penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che sono sottoposti a procedimento penale per delitto per il quale e' previsto l'arresto obbligatorio in flagranza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che sono stati sottoposti, anche con provvedimento non definitivo ad una misura di prevenzione, salvi gli effetti della riabilitazione prevista dall'articolo 15 della legge 3 agosto 1988, n. 327, e dall'articolo 14 della legge 19 marzo 1990, n. 55; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coloro che sono sottoposti a misura di sicurezza detentiva o a liberta' vigilata.
 
 Il consiglio dei sanitari e' organismo elettivo dell'unita' sanitaria locale con funzioni di consulenza tecnico-sanitaria ed e' presieduto dal direttore sanitario. Fanno parte del consiglio medici in maggioranza ed altri operatori sanitari laureati - con presenza maggioritaria della componente ospedaliera medica se nell'unita' sanitaria locale e' presente un presidio ospedaliero - nonche' una rappresentanza del personale infermieristico e del personale tecnico sanitario. Nella componente medica e' assicurata la presenza del medico veterinario. Il consiglio dei sanitari fornisce parere obbligatorio al direttore generale per le attivita' tecnico- sanitarie, anche sotto il profilo organizzativo, e per gli investimenti ad esse attinenti. Il consiglio dei sanitari si esprime altresi' sulle attivita' di assistenza sanitaria. Tale parere e' da intendersi favorevole ove non formulato entro il termine fissato dalla legge regionale. La regione provvede a definire il numero dei componenti nonche' a disciplinare le modalita' di elezione e la composizione ed il funzionamento del consiglio.
 
@@ -231,6 +504,66 @@ Il direttore del distretto supporta la direzione generale nei rapporti con i sin
 
 Per specifiche esigenze assistenziali, di ricerca scientifica, nonche' di didattica del Servizio sanitario nazionale, nel rispetto dei criteri e delle modalita' di cui ai commi 1-bis e seguenti, possono essere costituiti o confermati in aziende, disciplinate dall'articolo 3, gli istituti di ricovero e cura a carattere scientifico di diritto pubblico, con le particolarita' procedurali e organizzative previste dalle disposizioni attuative dell'articolo 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59; le aziende di cui all'articolo 6 della legge 30 novembre 1998, n. 419, secondo le specifiche disposizioni definite in sede di attuazione della delega ivi prevista; le aziende ospedaliere di rilievo nazionale o interregionale, alle quali si applicano, salvo che sia diversamente previsto, le disposizioni del presente decreto relative alle unita' sanitarie locali. Sino all'emanazione delle disposizioni attuative sugli istituti di ricovero e cura a carattere scientifico, ad essi si applicano le disposizioni del presente decreto relative alla dirigenza sanitaria, ai dipartimenti, alla direzione sanitaria e amministrativa aziendale e al collegio di direzione. Le disposizioni del presente decreto, salvo quanto in esso diversamente disposto, non si applicano ai policlinici universitari e alle aziende ove insistono le facolta' di medicina e chirurgia prima della data indicata dalle disposizioni attuative della delega prevista dall'articolo 6 della legge 30 novembre 1998, n. 419; ove tale data non sia prevista, dette disposizioni si applicano a partire dal 1 aprile 2000.
 
+1-bis.
+                        
+                            
+                                Nell'ambito della riorganizzazione della rete dei servizi conseguente al riordino del sistema delle aziende previsto dal presente decreto, le regioni possono proporre la costituzione o la conferma in aziende ospedaliere dei presidi ospedalieri in possesso di tutti i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    organizzazione dipartimentale di tutte le unita' operative presenti nella struttura, disciplinata dall'atto di cui all'articolo 3, comma 1-bis, in coerenza con l'articolo 17-bis; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disponibilita' di un sistema di contabilita' economico patrimoniale e di una contabilita' per centri di costo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presenza di almeno tre unita' operative di alta specialita'secondo le specificazioni di cui al decreto del Ministro della sanita' 29 gennaio 1992, pubblicato nella Gazzetta Ufficiale n. 26 del 1 febbraio 1992, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dipartimento di emergenza di secondo livello, ai sensi dell'atto di indirizzo e coordinamento approvato con decreto del Presidente della Repubblica 27 marzo 1992, pubblicato nella Gazzetta Ufficiale n. 76 del 31 marzo 1992 e successive modificazioni, secondo le specificazioni contenute nell'Atto di intesa tra Stato e regioni di approvazione delle linee guida sul sistema di emergenza sanitaria pubblicate nella Gazzetta Ufficiale n. 114 del 17 maggio 1996; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ruolo di ospedale di riferimento in programmi integrati di assistenza su base regionale e interregionale, cosi' come previsto dal Piano sanitario regionale ed in considerazione della mobilita' infraregionale e della frequenza dei trasferimenti da presidi ospedalieri regionali di minore complessita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' di ricovero in degenza ordinaria, nel corso dell'ultimo triennio, per pazienti residenti in regioni diverse, superiore di almeno il dieci per cento rispetto al valore medio regionale, salvo che per le aziende ubicate in Sicilia e in Sardegna; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    indice di complessita' della casistica dei pazienti trattati in ricovero ordinario , nel corso dell'ultimo triennio, superiore di almeno il venti per cento rispetto al valore medio regionale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    disponibilita' di un proprio patrimonio immobiliare adeguato e sufficiente per consentire lo svolgimento delle attivita' istituzionali di tutela della salute e di erogazione di prestazioni sanitarie.
+
 I requisiti di cui alle lettere c) e d) del comma 1-bis non si applicano agli ospedali specializzati di cui al decreto ministeriale 31 gennaio 1995, pubblicato nella Gazzetta Ufficiale n. 127 del 2 giugno 1995. In ogni caso, non si procede alla costituzione o alla conferma in azienda ospedaliera qualora questa costituisca il solo presidio ospedaliero pubblico presente nella azienda unita' sanitaria locale. 
  1 -quater. Le regioni, entro sessanta giorni dalla data di entrata in vigore del presente decreto, trasmettono al Ministro della sanita' le proprie indicazioni ai fini della individuazione degli ospedali di rilievo nazionale o interregionale da costituire in azienda ospedaliera avuto riguardo a quanto previsto dai commi 1-bis e l-ter.
 Entro novanta giorni dalla data di entrata in vigore ((del decreto legislativo 19 giugno 1999, n. 229,)), il Ministro della sanita', attenendosi alle indicazioni pervenute dalle regioni previa verifica dei requisiti e, in mancanza, sulla base di proprie valutazioni, formula le proprie proposte al Consiglio dei ministri, il quale individua gli ospedali da costituire in azienda ospedaliera. Entro sessanta giorni dalla data della deliberazione del Consiglio dei ministri, le regioni costituiscono in azienda, ai sensi del comma 1, i predetti ospedali. 
@@ -239,6 +572,24 @@ Entro novanta giorni dalla data di entrata in vigore ((del decreto legislativo 1
 Alla scadenza del termine previsto nel provvedimento di conferma, ove permanga la carenza dei requisiti, le regioni e il ministero della sanita' attivano la procedura di cui all'ultimo periodo del comma l- quinquies; ove i requisiti sussistano, si procede ai sensi del comma 1-quater. 
  1-septies. Le regioni definiscono le modalita' dell'integrazione dell'attivita' assistenziale delle aziende di cui al comma 1 nella programmazione regionale e le forme della collaborazione con le unita' sanitarie locali in rapporto alle esigenze assistenziali dell'ambito territoriale in cui operano, anche ai sensi dell'articolo 3-septies. 
  1-octies. Ai progetti elaborati dalle regioni e finanziati ai sensi dell'articolo 1, comma 34-bis, della legge 23 dicembre 1996, n. 662, e successive modificazioni, hanno titolo a partecipare anche gli enti e gli istituti di cui al comma 12.
+
+2.
+                        
+                            
+                                Possono essere individuati come ospedali di rilievo nazionale e di alta specializzazione quelli che dispongono di tutte le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    PERIODO ABROGATO DAL D.LGS. 19 GIUGNO 1999, N. 229. Il Consiglio dei Ministri, su proposta del Ministro della sanita', sentito il Consiglio superiore di sanita' e la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, provvede, sulla base dell'evoluzione scientifica e tecnologica, ad aggiornare periodicamente l'elenco delle attivita' di alta specialita' e dei requisiti necessari per l'esercizio delle attivita' medesime; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 19 GIUGNO 1999, N. 229.
 
 Sono ospedali a rilievo nazionale e di alta specializzazione i policlinici universitari, che devono essere inseriti nel sistema di emergenza sanitaria di cui al decreto del Presidente della Repubblica 27 marzo 1992.
 
@@ -284,6 +635,52 @@ Le unita' sanitarie locali e le aziende ospedaliere hanno disponibilita' del pat
 Le leggi ed i provvedimenti di cui al comma 1 costituiscono titolo per la trascrizione, la quale e' esente da ogni onere relativo a imposte e tasse.
 
 Gli atti di donazione a favore delle unita' sanitarie locali e delle aziende ospedaliere che abbiano ad oggetto beni immobili con specifica destinazione a finalita' rientranti nell'ambito del servizio sanitario nazionale, sono esenti dal pagamento delle imposte di donazione, ipotecarie e catastali.
+
+5.
+                        
+                            
+                                Qualora non vi abbiano gia' provveduto, entro novanta giorni dalla data di entrata in vigore ((del decreto legislativo 19 giugno 1999, n. 229,)) le regioni emanano norme per la gestione economico finanziaria e patrimoniale delle unita' sanitarie locali e delle aziende ospedaliere, informate ai principi di cui al codice civile, cosi come integrato e modificato con decreto legislativo 9 aprile 1991, n. 127, e prevedendo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tenuta del libro delle deliberazioni del direttore generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione del bilancio economico pluriennale di previsione nonche' del bilancio preventivo economico annuale relativo all'esercizio successivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la destinazione dell'eventuale avanzo e le modalita' di copertura degli eventuali disavanzi di esercizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la tenuta di una contabilita' analitica per centri di costo e responsabilita' che consenta analisi comparative dei costi, dei rendimenti e dei risultati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'obbligo delle unita' sanitarie locali e delle aziende ospedaliere di rendere pubblici, annualmente, i risultati delle proprie analisi dei costi, dei rendimenti e dei risultati per centri di costo e responsabilita'. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il piano di valorizzazione del patrimonio immobiliare anche attraverso eventuali dismissioni e conferimenti.
 
 Per conferire struttura uniforme alle voci dei bilanci pluriennali ed annuali e dei conti consuntivi annuali, nonche' omogeneita' ai valori inseriti in tali voci e per consentire all'Agenzia per i servizi sanitari regionali rilevazioni comparative dei costi, dei rendimenti e dei risultati, e' predisposto apposito schema, con decreto interministeriale emanato di concerto fra i Ministri del tesoro e della sanita', previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome.
 
@@ -336,6 +733,38 @@ Fino all'emanazione del decreto di cui al comma 1 le strutture sono individuate,
 
 Entro il 30 aprile di ciascun anno il Ministro della sanita', sentiti la Conferenza permanente per i rapporti fra lo Stato, le regioni e le province autonome di Trento e di Bolzano e la Federazione nazionale degli Ordini dei medici chirurghi e odontoiatri e degli altri Ordini e Collegi professionali interessati, determina con uno o piu' decreti il fabbisogno per il Servizio sanitario nazionale, anche suddiviso per regioni, in ordine ai medici chirurghi, veterinari, odontoiatri, farmacisti, biologi, chimici, fisici, psicologi, nonche' al personale sanitario infermieristico, tecnico e della riabilitazione ai soli fini della programmazione da parte del Ministero dell'universita' e della ricerca scientifica e tecnologica degli accessi ai corsi di diploma di laurea, alle scuole di formazione specialistica e ai corsi di diploma universitario. Con la stessa procedura e' determinato, altresi', il fabbisogno degli ottici, degli odontotecnici e del restante personale sanitario e socio-sanitario che opera nei servizi e nelle strutture del Servizio sanitario nazionale.
 
+2.
+                        
+                            
+                                A tali fini i decreti di cui al comma 1 tengono conto di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    obiettivi e livelli essenziali di assistenza indicati dal Piano sanitario nazionale e da quelli regionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modelli organizzativi dei servizi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    offerta di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    domanda di lavoro, considerando il personale in corso di formazione e il personale gia' formato, non ancora immesso nell'attivita' lavorativa.
+
 Gli enti pubblici e privati e gli ordini e collegi professionali sono tenuti a fornire al Ministero della sanita' i dati e gli elementi di valutazione necessari per la determinazione dei fabbisogni riferiti alle diverse categorie professionali; in caso di inadempimento entro il termine prescritto il Ministero provvede all'acquisizione dei dati attraverso commissari ad acta ponendo a carico degli enti inadempienti gli oneri a tal fine sostenuti.
 
 ))
@@ -361,11 +790,104 @@ A tal fine il dipartimento di prevenzione promuove azioni volte a individuare e 
 
 ## Art. 7-ter. — (Funzioni del dipartimento di prevenzione)
 
+1.
+                        
+                            
+                                In base alla definizione dei livelli essenziali di assistenza, il dipartimento di prevenzione garantisce le seguenti funzioni di prevenzione collettiva e sanita' pubblica, anche a supporto dell'autorita' sanitaria locale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    profilassi delle malattie infettive e parassitarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutela della collettivita' dai rischi sanitari degli ambienti di vita anche con riferimento agli effetti sanitari degli inquinanti ambientali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutela della collettivita' e dei singoli dai rischi infortunistici e sanitari connessi agli ambienti di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sanita' pubblica veterinaria, che comprende sorveglianza epidemiologica delle popolazioni animali e profilassi delle malattie infettive e parassitarie; farmacovigilanza veterinaria; igiene delle produzioni zootecniche; tutela igienico sanitaria degli alimenti di origine animale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tutela igienico-sanitaria degli alimenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sorveglianza e prevenzione nutrizionale. 
+ ((f-bis tutela della salute nelle attivita' sportive.))
+
 Il dipartimento di prevenzione contribuisce inoltre alle attivita' di promozione della salute e di prevenzione delle malattie cronico- degenerative in collaborazione con gli altri servizi e dipartimenti aziendali.
 
 ## Art. 7-quater. — (Organizzazione del dipartimento di prevenzione)
 
 Il dipartimento di prevenzione opera nell'ambito del Piano attuativo locale, ha autonomia organizzativa e contabile ed e' organizzato in centri di costo e di responsabilita'. Il direttore del dipartimento e' scelto dal direttore generale tra i direttori di struttura complessa del dipartimento con almeno cinque anni di anzianita' di funzione e risponde alla direzione aziendale del perseguimento degli obiettivi aziendali, dell'assetto organizzativo e della gestione, in relazione alle risorse assegnate.
+
+2.
+                        
+                            
+                                Le regioni disciplinano l'articolazione delle aree dipartimentali di sanita' pubblica, della tutela della salute negli ambienti di lavoro e della sanita' pubblica veterinaria, prevedendo strutture organizzative specificamente dedicate a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    igiene e sanita' pubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    igiene degli alimenti e della nutrizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevenzione e sicurezza degli ambienti di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sanita' animale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    igiene della produzione, trasformazione, commercializzazione, conservazione e trasporto degli alimenti di origine animale e loro derivati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    igiene degli allevamenti e delle produzioni zootecniche.
 
 Le strutture organizzative si distinguono in servizi o in unita' operative, in rapporto all'omogeneita' della disciplina di riferimento ed alle funzioni attribuite, nonche' alle caratteristiche e alle dimensioni del bacino di utenza.
 
@@ -423,11 +945,316 @@ Il dipartimento di prevenzione assicura, nella programmazione della propria atti
 
 ## Art. 8. — Disciplina dei rapporti per l'erogazione delle prestazioni assistenziali
 
+1.
+                        
+                            
+                                Il rapporto tra il Servizio sanitario nazionale, i medici di medicina generale ed i pediatri di libera scelta e' disciplinato da apposite convenzioni di durata triennale conformi agli accordi collettivi nazionali stipulati, ai sensi dell'articolo 4, comma 9, della legge 30 dicembre 1991, n. 412, con le organizzazioni sindacali di categoria maggiormente rappresentative in campo nazionale. La rappresentativita' delle organizzazioni sindacali e' basata sulla consistenza associativa. Detti accordi devono tenere conto dei seguenti principi: 
+ 0a) prevedere che le attivita' e le funzioni disciplinate dall'accordo collettivo nazionale siano individuate tra quelle previste nei livelli essenziali di assistenza di cui all'articolo 1, comma 2, nei limiti delle disponibilita' finanziarie complessive del Servizio sanitario nazionale, fatto salvo quanto previsto dalle singole regioni con riguardo ai livelli di assistenza ed alla relativa copertura economica a carico del bilancio regionale; 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevedere che la scelta del medico e' liberamente effettuata dall'assistito, nel rispetto di un limite. massimo di assistiti per medico, ha validita' annuale ed e' tacitamente rinnovata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    regolamentare la possibilita' di revoca della scelta da parte dell'assistito nel corso dell'anno nonche' la ricusazione della scelta da parte del medico, qualora ricorrano eccezionali ed accertati motivi di incompatibilita'; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    nell'ambito dell'organizzazione distrettuale del servizio, garantire l'attivita' assistenziale per l'intero arco della giornata e per tutti i giorni della settimana, nonche' un'offerta integrata delle prestazioni dei medici di medicina generale, dei pediatri di libera scelta, della guardia medica, della medicina dei servizi e degli specialisti ambulatoriali, adottando forme organizzative monoprofessionali, denominate aggregazioni funzionali territoriali, che condividono, in forma strutturata, obiettivi e percorsi assistenziali, strumenti di valutazione della qualita' assistenziale, linee guida, audit e strumenti analoghi, nonche' forme organizzative multiprofessionali, denominate unita' complesse di cure primarie, che erogano prestazioni assistenziali tramite il coordinamento e l'integrazione dei professionisti delle cure primarie e del sociale a rilevanza sanitaria tenuto conto della peculiarita' delle aree territoriali quali aree metropolitane, aree a popolazione sparsa e isole minori; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    prevedere che per le forme organizzative multiprofessionali le aziende sanitarie possano adottare, anche per il tramite del distretto sanitario, forme di finanziamento a budget; 
+
+                                
+                            
+                            
+                                b-quater)
+                                
+                                    definire i compiti, le funzioni ed i criteri di selezione del referente o del coordinatore delle forme organizzative previste alla lettera b-bis); 
+
+                                
+                            
+                            
+                                b-quinquies)
+                                
+                                    disciplinare le condizioni, i requisiti e le modalita' con cui le regioni provvedono alla dotazione strutturale, strumentale e di servizi delle forme organizzative di cui alla lettera b-bis) sulla base di accordi regionali o aziendali, potendo prevedere un incremento del numero massimo di assistiti in carico ad ogni medico di medicina generale nell'ambito dei modelli organizzativi multi professionali nei quali e' prevista la presenza oltre che del collaboratore di studio, anche di personale infermieristico e dello psicologo, senza ulteriori oneri a carico della finanza pubblica; 
+
+                                
+                            
+                            
+                                b-sexies)
+                                
+                                    prevedere le modalita' attraverso le quali le aziende sanitarie locali, sulla base della programmazione regionale e nell'ambito degli indirizzi nazionali, individuano gli obiettivi e concordano i programmi di attivita' delle forme aggregative di cui alla lettera b-bis) e definiscono i conseguenti livelli di spesa programmati, in coerenza con gli obiettivi e i programmi di attivita' del distretto, anche avvalendosi di quanto previsto nella lettera b-ter); 
+
+                                
+                            
+                            
+                                b-septies)
+                                
+                                    prevedere che le convenzioni nazionali definiscano standard relativi all'erogazione delle prestazioni assistenziali, all'accessibilita' ed alla continuita' delle cure, demandando agli accordi integrativi regionali la definizione di indicatori e di percorsi applicativi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplinare gli ambiti e le modalita' di esercizio della libera professione prevedendo che: il tempo complessivamente dedicato alle attivita' in libera professione non rechi pregiudizio al corretto e puntuale svolgimento degli obblighi del medico, nello studio medico e al domicilio del paziente; le prestazioni offerte in attivita' libero-professionale siano definite nell'ambito della convenzione, anche al fine di escludere la coincidenza tra queste e le prestazioni incentivanti di cui alla lettera d); il medico sia tenuto a comunicare all'azienda unita' sanitaria locale l'avvio dell'attivita' in libera professione, indicandone sede ed orario di svolgimento, al fine di consentire gli opportuni controlli; sia prevista una preferenza nell'accesso a tutte le attivita' incentivate previste dagli accordi integrativi in favore dei medici che non esercitano attivita' libero-professionale strutturata nei confronti dei propri assistiti. Fino alla stipula della nuova convenzione sono fatti salvi i rapporti professionali in atto con le aziende termali.
+In ogni caso, il non dovuto pagamento, anche parziale, di prestazioni da parte dell'assistito o l'esercizio di attivita' libero-professionale al di fuori delle modalita' e dei limiti previsti dalla convenzione comportano l'immediata cessazione del rapporto convenzionale con il Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ridefinire la struttura del compenso spettante al medico, prevedendo una quota fissa per ciascun soggetto iscritto alla sua lista, corrisposta su base annuale in rapporto alle funzioni definite in convenzione; una quota variabile in considerazione del raggiungimento degli obiettivi previsti dai programmi di attivita' e del rispetto dei conseguenti livelli di spesa programmati di cui alla lettera f); una quota variabile in considerazione dei compensi per le prestazioni e le attivita' previste negli accordi nazionali e regionali, in quanto funzionali allo sviluppo dei programmi di cui alla lettera f); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.L. 13 SETTEMBRE 2012, N. 158, CONVERTITO CON MODIFICAZIONI DALLA L. 8 NOVEMBRE 2012, N. 189; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA ABROGATA DAL D.L. 13 SETTEMBRE 2012, N. 158, CONVERTITO CON MODIFICAZIONI DALLA L. 8 NOVEMBRE 2012, N. 189; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    prevedere la possibilita' per le aziende sanitarie di stipulare accordi per l'erogazione di specifiche attivita' assistenziali, con particolare riguardo ai pazienti affetti da patologia cronica, secondo modalita' e in funzione di obiettivi definiti in ambito regionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    disciplinare le modalita' di partecipazione dei medici alla definizione degli obiettivi e dei programmi di attivita' del distretto e alla verifica del loro raggiungimento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    prevedere che l'accesso al ruolo unico per le funzioni di medico di medicina generale del Servizio sanitario nazionale avvenga attraverso una graduatoria unica per titoli, predisposta annualmente a livello regionale e secondo un rapporto ottimale definito nell'ambito degli accordi regionali, in modo che l'accesso medesimo sia consentito ai medici forniti dell'attestato o del diploma di cui all'articolo 21 del decreto legislativo 17 agosto 1999, n. 368, e a quelli in possesso di titolo equipollente, ai sensi dell'articolo 30 del medesimo decreto. Ai medici forniti dell'attestato o del diploma e' comunque riservata una percentuale prevalente di posti in sede di copertura delle zone carenti, con l'attribuzione di un adeguato punteggio, che tenga conto anche dello specifico impegno richiesto per il conseguimento dell'attestato o del diploma; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    prevedere che l'accesso alle funzioni di pediatra di libera scelta del Servizio sanitario nazionale avvenga attraverso una graduatoria per titoli predisposta annualmente a livello regionale e secondo un rapporto ottimale definito nell'ambito degli accordi regionali; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    disciplinare l'accesso alle funzioni di specialista ambulatoriale del Servizio sanitario nazionale secondo graduatorie provinciali alle quali sia consentito l'accesso esclusivamente al professionista fornito del titolo di specializzazione inerente alla branca d'interesse. Il requisito della specializzazione non e' richiesto per l'accesso alle funzioni di specialista odontoiatra ambulatoriale del Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    regolare la partecipazione dei medici convenzionati a societa', anche cooperative, anche al fine di prevenire l'emergere di conflitti di interesse con le funzioni attribuite agli stessi medici dai rapporti convenzionali in atto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    prevedere la possibilita' di stabilire specifici accordi con i medici gia' titolari di convenzione operanti in forma associata, secondo modalita' e in funzione di specifici obiettivi definiti in ambito convenzionale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    prevedere le modalita' con cui la convenzione possa essere sospesa, qualora nell'ambito della integrazione dei medici di medicina generale e dei pediatri di libera scelta nella organizzazione distrettuale, le unita' sanitarie locali attribuiscano a tali medici l'incarico di direttore di distretto o altri incarichi temporanei ritenuti inconciliabili con il mantenimento della convenzione. 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    promuovere la collaborazione interprofessionale dei medici di medicina generale dei pediatri di libera scelta con i farmacisti delle farmacie pubbliche e private operanti in convenzione con il Servizio sanitario nazionale, in riferimento alle disposizioni di cui all'articolo 11 della legge 18 giugno 2009, n. 69, e al relativo decreto legislativo di attuazione. 
+
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    prevedere l'adesione obbligatoria dei medici all'assetto organizzativo e al sistema informativo definiti da ciascuna regione, al Sistema informativo nazionale, compresi gli aspetti relativi al sistema della tessera sanitaria, secondo quanto stabilito dall'articolo 50 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, e successive modificazioni, nonche' la partecipazione attiva all'applicazione delle procedure di trasmissione telematica delle ricette mediche. 
+
+                                
+                            
+                            
+                                m-quater)
+                                
+                                    fermo restando quanto previsto dalla lettera 0a), prevedere modalita' e forme d'incentivo per i medici inseriti nelle graduatorie affinche' sia garantito il servizio nelle zone carenti di personale medico nonche' specifiche misure alternative volte a compensare l'eventuale rinuncia agli incarichi assegnati.
+
 Le aziende unita' sanitarie locali e le aziende ospedaliere, in deroga a quanto previsto dal comma 1, utilizzano, ad esaurimento, nell'ambito del numero delle ore di incarico svolte alla data di entrata in vigore del decreto legislativo 7 dicembre 1993, n. 517, i medici addetti alla stessa data alle attivita' di guardia medica e di medicina dei servizi. Per costoro valgono le convenzioni stipulate ai sensi dell'art. 48 della legge 23 dicembre 1978, n. 833. Entro un anno dalla data di entrata in vigore del decreto legislativo 19 giugno 1999, n. 229, le regioni possono individuare aree di attivita' della emergenza territoriale e della medicina dei servizi, che, al fine del miglioramento dei servizi, richiedono l'instaurarsi di un rapporto d'impiego. A questi fini, i medici in servizio alla data di entrata in vigore del decreto legislativo 19 giugno 1999, n. 229, addetti a tali attivita', i quali al 31 dicembre 1998 risultavano titolari di un incarico a tempo indeterminato da almeno cinque anni, o comunque al compimento del quinto anno di incarico a tempo indeterminato, sono inquadrati a domanda nel ruolo sanitario, nei limiti dei posti delle dotazioni organiche definite ed approvate nel rispetto dei principi di cui all'articolo 6 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, e previo giudizio di idoneita' secondo le procedure di cui al decreto del Presidente del Consiglio dei ministri 12 dicembre 1997, n.502. Nelle more del passaggio alla dipendenza, le regioni possono prevedere adeguate forme di integrazione dei medici convenzionati addetti alla emergenza sanitaria territoriale con attivita' dei servizi del sistema di emergenza-urgenza secondo criteri di flessibilita' operativa, incluse forme di mobilita' interaziendale.
+
+2.
+                        
+                            
+                                Il rapporto con le farmacie pubbliche e private e' disciplinato da convenzioni di durata triennale conformi agli accordi collettivi nazionali stipulati a norma dell'art. 4, comma 9, della legge 30 dicembre 1991, n. 412, con le organizzazioni sindacali di categoria maggiormente rappresentative in campo nazionale. Detti accordi devono tener conto dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le farmacie pubbliche e private erogano l'assistenza farmaceutica per conto delle unita' sanitarie locali del territorio regionale dispensando, su presentazione della ricetta del medico, specialita' medicinali, preparati galenici, prodotti dietetici, presidi medico-chirurgici e altri prodotti sanitari erogabili dal Servizio sanitario nazionale e svolgendo, nel rispetto di quanto previsto dai Piani socio-sanitari regionali e previa adesione del titolare della farmacia, da esprimere secondo le modalita' stabilite dalle singole Regioni e province autonome di Trento e di Bolzano, le ulteriori funzioni di cui alla lettera b-bis), fermo restando che l'adesione delle farmacie pubbliche e' subordinata all'osservanza dei criteri fissati con decreto del Ministro del lavoro, della salute e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, sentito il Ministro dell'interno, in base ai quali garantire il rispetto delle norme vigenti in materia di patto di stabilita' dirette agli enti locali, senza maggiori oneri per la finanza pubblica e senza incrementi di personale nei limiti previsti dai livelli di assistenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la dispensazione dei prodotti di cui alla lettera a) l'unita' sanitaria locale corrisponde alla farmacia il prezzo del prodotto erogato, al netto della eventuale quota di partecipazione alla spesa dovuta dall'assistito. Ai fini della liquidazione la farmacia e' tenuta alla presentazione della ricetta corredata del bollino o di altra documentazione comprovante l'avvenuta consegna all'assistito. Per il pagamento del dovuto oltre il termine fissato dagli accordi regionali di cui alla successiva lettera c) non possono essere riconosciuti interessi superiore a quelli legali; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    provvedere a disciplinare: 
+ 1) la partecipazione delle farmacie pubbliche e private operanti in convenzione con il Servizio sanitario nazionale, di seguito denominate farmacie, al servizio di assistenza domiciliare integrata a favore dei pazienti residenti o domiciliati nel territorio della sede di pertinenza di ciascuna farmacia, a supporto delle attivita' del medico di medicina generale o del pediatra di libera scelta. L'azienda unita' sanitaria locale individua la farmacia competente all'erogazione del sevizio per i pazienti che risiedono o hanno il proprio domicilio nel territorio in cui sussiste condizione di promiscuita' tra piu' sedi farmaceutiche, sulla base del criterio della farmacia piu' vicina, per la via pedonale, all'abitazione del paziente; nel caso in cui una farmacia decida di non partecipare all'erogazione del servizio di assistenza domiciliare integrata, per i pazienti residenti o domiciliati nella relativa sede, l'azienda unita' sanitaria locale individua la farmacia competente sulla base del criterio di cui al precedente periodo. La partecipazione al servizio puo' prevedere: 
+ 1.1) la dispensazione e la consegna domiciliare di farmaci e dispositivi medici necessari; 
+ 1.2) la preparazione, nonche' la dispensazione al domicilio delle miscele per la nutrizione artificiale e dei medicinali antidolorifici, nel rispetto delle relative norme di buona preparazione e di buona pratica di distribuzione dei medicinali e nel rispetto delle prescrizioni e delle limitazioni stabilite dalla vigente normativa; 
+ 1.3) la dispensazione per conto delle strutture sanitarie dei farmaci a distribuzione diretta; 
+ 1.4) la messa a disposizione di operatori socio-sanitari, di infermieri e di fisioterapisti, per la effettuazione, a domicilio, di specifiche prestazioni professionali richieste dal medico di famiglia o dal pediatra di libera scelta, fermo restando che le prestazioni infermieristiche o fisioterapiche che possono essere svolte presso la farmacia, sono limitate a quelle di cui al numero 4) e alle ulteriori prestazioni, necessarie allo svolgimento dei nuovi compiti delle farmacie, individuate con decreto del Ministro dei lavoro, della salute e delle politiche sociali, sentita la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le province autonome di Trento e di Bolzano; 
+ 2) la collaborazione delle farmacie alle iniziative finalizzate a garantire il corretto utilizzo dei medicinali prescritti e il relativo monitoraggio; a favorire l'aderenza dei malati alle terapie mediche, anche attraverso la partecipazione a specifici programmi di farmacovigilanza. Tale collaborazione avviene previa partecipazione dei farmacisti che vi operano ad appositi programmi di formazione; 
+ 3) la definizione di servizi di primo livello, attraverso i quali le farmacie partecipano alla realizzazione dei programmi di educazione sanitaria e di campagne di prevenzione delle principali patologie a forte impatto sociale, rivolti alla popolazione generale ed ai gruppi a rischio e realizzati a livello nazionale e regionale, ricorrendo a modalita' di informazione adeguate al tipo di struttura e, ove necessario, previa formazione dei farmacisti che vi operano; 
+ 4) la definizione di servizi di secondo livello rivolti ai singoli assistiti, in coerenza con le linee guida ed i percorsi diagnostico-terapeutici previsti per le specifiche patologie, su prescrizione dei medici di medicina generale e dei pediatri di libera scelta, anche avvalendosi di personale infermieristico. Gli accordi regionali definiscono le condizioni e le modalita' di partecipazione delle farmacie ai predetti servizi di secondo livello; la partecipazione alle campagne di prevenzione puo' prevedere l'inserimento delle farmacie tra i punti forniti di defibrillatori semiautomatici; 
+ 5) l'effettuazione, presso le farmacie, nell'ambito dei servizi di secondo livello di cui al numero 4, di prestazioni analitiche di prima istanza rientranti nell'ambito dell'autocontrollo, nei limiti e alle condizioni stabiliti con decreto, di natura non regolamentare, del Ministro del lavoro, della salute e delle politiche sociali, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, restando in ogni caso esclusa l'attivita' di prescrizione e diagnosi, nonche' il prelievo di sangue o di plasma mediante siringhe o dispositivi equivalenti; 
+ 6) le modalita' con cui nelle farmacie gli assistiti possano prenotare prestazioni di assistenza specialistica ambulatoriale presso le strutture sanitarie pubbliche e private accreditate, e provvedere al pagamento delle relative quote di partecipazione alla spesa a carico del cittadino, nonche' ritirare i referti relativi a prestazioni di assistenza specialistica ambulatoriale effettuate presso le strutture sanitarie pubbliche e private accreditate; le modalita' per il ritiro dei referti sono fissate, nel rispetto delle previsioni contenute nel decreto legislativo 23 giugno 2003, n. 196, recante il codice in materia protezione dei dati personali e in base a modalita', regole tecniche e misure di sicurezza, con decreto, di natura non regolamentare, del Ministro del lavoro, della salute e delle politiche sociali, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentito il Garante per la protezione dei dati personali; 
+ 7) i requisiti richiesti alle farmacie per la partecipazione alle attivita' di cui alla presente lettera; 
+ 8) la promozione della collaborazione interprofessionale dei farmacisti delle farmacie pubbliche e private operanti in convenzione con il Servizio sanitario nazionale con i medici di medicina generale e i pediatri di libera scelta, in riferimento alle attivita' di cui alla presente lettera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    demandare ad accordi di livello regionale la disciplina delle modalita' di presentazione delle ricette e i tempi dei pagamenti dei corrispettivi nonche' l'individuazione di modalita' differenziate di erogazione delle prestazioni finalizzate al miglioramento dell'assistenza definendo le relative condizioni economiche anche in deroga a quanto previsto alla precedente lettera b). 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((l'accordo collettivo nazionale definisce i principi e i criteri per la remunerazione, da parte del Servizio sanitario nazionale, delle prestazioni e delle funzioni assistenziali di cui all'articolo 11 della legge 18 giugno 2009, n. 69, e al decreto legislativo 3 ottobre 2009, n. 153, nei limiti delle risorse a tale scopo vincolate nell'ambito del fabbisogno sanitario nazionale standard)); 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    
+                                        ((fermi restando i limiti di spesa fissati dall'accordo nazionale ed entro un limite di spesa relativo alla singola regione e provincia autonoma di importo non superiore a quello a tale scopo vincolato nell'ambito del fabbisogno sanitario nazionale standard, gli accordi di livello regionale e provinciale disciplinano le modalita' e i tempi dei pagamenti per la remunerazione delle prestazioni e delle funzioni assistenziali di cui alla lettera c-bis); gli accordi regionali definiscono, altresi', le caratteristiche strutturali e organizzative e le dotazioni tecnologiche minime in base alle quali individuare le farmacie con le quali stipulare accordi contrattuali finalizzati alla fornitura dei servizi di secondo livello, entro il medesimo limite di spesa e fermo restando quanto previsto al comma 1; eventuali prestazioni e funzioni assistenziali al di fuori dei limiti di spesa indicati dagli accordi regionali sono a carico del cittadino che le ha richieste)).
+
+2-bis.
+                        
+                            
+                                Con atto di indirizzo e coordinamento, emanato ai sensi dell'articolo 8 della legge 15 marzo 1997, n. 59, sono individuati i criteri per la valutazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del servizio prestato in regime convenzionale dagli specialisti ambulatoriali medici e delle altre professionalita' sanitarie, al fine dell'attribuzione del trattamento giuridico ed economico ai soggetti inquadrati in ruolo ai sensi dell'articolo 34 della legge 27 dicembre 1997, n. 449; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per lo stesso fine, del servizio prestato in regime convenzionale dai medici della guardia medica, della emergenza territoriale e della medicina dei servizi nel caso le regioni abbiano proceduto o procedano ad instaurare il rapporto di impiego ai sensi del comma 1-bis del presente articolo sia nel testo modificato dal decreto legislativo 7 dicembre 1993, n. 517, sia nel testo introdotto dal decreto legislativo 19 giugno 1999, n. 229; a tali medici e' data facolta' di optare per il mantenimento della posizione assicurativa gia' costituita presso l'Ente nazionale previdenza ed assistenza medici (ENPAM); tale opzione deve essere esercitata al momento dell'inquadramento in ruolo. Il servizio di cui al presente comma e' valutato con riferimento all'orario settimanale svolto rapportato a quello dei medici e delle altre professionalita' sanitarie dipendenti dalla azienda sanitaria.
 
 Con decreto del Ministro della sanita' e' istituita, senza oneri a carico dello Stato, una commissione composta da rappresentanti dei Ministeri della sanita', del tesoro, del bilancio e della programmazione economica e del lavoro e della previdenza sociale e da rappresentanti regionali designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, al fine di individuare modalita' idonee ad assicurare che l'estensione al personale a rapporto convenzionale, di cui all'articolo 8 del decreto legislativo 30 dicembre 1992, n. 502, come modificato dal decreto legislativo 19 giugno 1999, n. 229, dei limiti di eta' previsti dal comma 1 dell'articolo 15-nonies dello stesso decreto avvenga senza oneri per il personale medesimo. L'efficacia della disposizione di cui all'articolo 15-nonies, comma 3, del decreto legislativo 30 dicembre 1992, n. 502, come introdotto dall'articolo 13 del decreto legislativo 19 giugno 1999, n. 229, e' sospesa fino alla attuazione dei provvedimenti collegati alle determinazioni della Commissione di cui al presente comma.
 
 Gli Ordini ed i Collegi professionali sono tenuti a valutare sotto il profilo deontologico i comportamenti degli iscritti agli Albi ed ai Collegi professionali che si siano resi inadempienti agli obblighi convenzionali. I ricorsi avverso le sanzioni comminate dagli Ordini o dai Collegi sono decisi dalla Commissione centrale per gli esercenti le professioni sanitarie.
+
+4.
+                        
+                            
+                                Ferma restando la competenza delle regioni in materia di autorizzazione e vigilanza sulle istituzioni sanitarie private, a norma dell'art. 43 della legge 23 dicembre 1978, n. 833, con atto di indirizzo e coordinamento, emanato d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, sentito il Consiglio superiore di sanita', sono definiti i requisiti strutturali, tecnologici e organizzativi minimi richiesti per l'esercizio delle attivita' sanitarie da parte delle strutture pubbliche e private e la periodicita' dei controlli sulla permanenza dei requisiti stessi. L'atto di indirizzo e coordinamento e' emanato entro il 31 dicembre 1993 nel rispetto dei seguenti criteri e principi direttivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire il perseguimento degli obiettivi fondamentali di prevenzione, cura e riabilitazione definiti dal Piano sanitario nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire il perseguimento degli obiettivi che ciascuna delle fondamentali funzioni assistenziali del Servizio sanitario nazionale deve conseguire, giusta quanto disposto dal decreto del Presidente della Repubblica 24 dicembre 1992, concernente la "Definizione dei livelli uniformi di assistenza sanitaria" ovvero dal Piano sanitario nazionale, ai sensi del precedente art. 1, comma 4, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurare l'adeguamento delle strutture e delle attrezzature al progresso scientifico e tecnologico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicurare l'applicazione delle disposizioni comunitarie in materia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    garantire l'osservanza delle norme nazionali in materia di: protezione antisismica, protezione antincendio, protezione acustica, sicurezza elettrica, continuita' elettrica, sicurezza antinfortunistica, igiene dei luoghi di lavoro, protezione dalle radiazioni ionizzanti, eliminazione delle barriere architettoniche, smaltimento dei rifiuti, condizioni microclimatiche, impianti di distribuzione dei gas, materiali esplodenti, anche al fine di assicurare condizioni di sicurezza agli operatori e agli utenti del servizio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    prevedere l'articolazione delle strutture sanitarie in classi differenziate in relazione alla tipologia delle prestazioni erogabili; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    prevedere l'obbligo di controllo della qualita' delle prestazioni erogate; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    definire i termini per l'adeguamento delle strutture e dei presidi gia' autorizzati e per l'aggiornamento dei requisiti minimi, al fine di garantire un adeguato livello di qualita' delle prestazioni compatibilmente con le risorse a disposizione.
 
 COMMA ABROGATO DAL D.LGS. 19 GIUGNO 1999, N. 229.
 
@@ -462,11 +1289,54 @@ La realizzazione di strutture sanitarie e l'esercizio di attivita' sanitarie, l'
 
 ## Art. 8-ter. — (Autorizzazioni alla realizzazione di strutture e all'esercizio di attivita' sanitarie e sociosanitarie)
 
+1.
+                        
+                            
+                                La realizzazione di strutture e l'esercizio di attivita' sanitarie e sociosanitarie sono subordinate ad autorizzazione. Tali autorizzazioni si applicano alla costruzione di nuove strutture, all'adattamento di strutture gia' esistenti e alla loro diversa utilizzazione, all'ampliamento o alla trasformazione nonche' al trasferimento in altra sede di strutture gia' autorizzate, con riferimento alle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    strutture che erogano prestazioni in regime di ricovero ospedaliero a ciclo continuativo o diurno per acuti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    strutture che erogano prestazioni di assistenza specialistica in regime ambulatoriale, ivi comprese quelle riabilitative, di diagnostica strumentale e di laboratorio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    strutture sanitarie e sociosanitarie che erogano prestazioni in regime residenziale, a ciclo continuativo o diurno.
+
 L'autorizzazione all'esercizio di attivita' sanitarie e', altresi', richiesta per gli studi odontoiatrici, medici e di altre professioni sanitarie, ove attrezzati per erogare prestazioni di chirurgia ambulatoriale, ovvero procedure diagnostiche e terapeutiche di particolare complessita' o che comportino un rischio per la sicurezza del paziente, individuati ai sensi del comma 4, nonche' per le strutture esclusivamente dedicate ad attivita' diagnostiche, svolte anche a favore di soggetti terzi, e per l'erogazione di cure domiciliari.
 
 Per la realizzazione di strutture sanitarie e sociosanitarie il Comune acquisisce, nell'esercizio delle proprie competenze in materia di autorizzazioni e concessioni di cui all'art. 4 del decreto-legge 5 ottobre 1993, n.398, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493 e successive modificazioni, la verifica di compatibilita' del progetto da parte della regione. Tale verifica e' effettuata in rapporto al fabbisogno complessivo e alla localizzazione territoriale delle strutture presenti in ambito regionale, anche al fine di meglio garantire l'accessibilita' ai servizi e valorizzare le aree di insediamento prioritario di nuove strutture.
 
 L'esercizio delle attivita' sanitarie e sociosanitarie da parte di strutture pubbliche e private presuppone il possesso dei requisiti minimi, strutturali, tecnologici e organizzativi stabiliti con atto di indirizzo e coordinamento ai sensi dell'articolo 8 della legge 15 marzo 1997, n. 59, sulla base dei principi e criteri direttivi previsti dall'articolo 8, comma 4, del presente decreto. In sede di modificazione del medesimo atto di indirizzo e coordinamento si individuano gli studi odontoiatrici, medici e di altre professioni sanitarie di cui al comma 2, nonche' i relativi requisiti minimi.
+
+5.
+                        
+                            
+                                Entro sessanta giorni dalla data di entrata in vigore del decreto legislativo 19 giugno 1999, n. 229, le regioni determinano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' e i termini per la richiesta e l'eventuale rilascio della autorizzazione alla realizzazione di strutture e della autorizzazione all'esercizio di attivita' sanitaria e sociosanitaria, prevedendo la possibilita' del riesame dell'istanza, in caso di esito negativo o di prescrizioni contestate dal soggetto richiedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli ambiti territoriali in cui si riscontrano carenze di strutture o di capacita' produttiva, definendo idonee procedure per selezionare i nuovi soggetti eventualmente interessati.
 
 ((Al fine di garantire il rispetto dei termini previsti dagli obiettivi del Piano nazionale di ripresa e resilienza (PNRR) per la missione 6, componente 1, investimento 1.1 'Case della Comunita' e presa in carico della persona' e investimento 1.3 'Rafforzamento dell'assistenza sanitaria intermedia e delle sue strutture (Ospedali di Comunita')' nonche' per la missione 6, componente 2, subinvestimento 1.1.1 'Digitalizzazione-rafforzamento strutturale SSN (Progetti in essere ex art. 2 DL 34/2020)', l'autorizzazione all'esercizio di cui al comma 1 del presente articolo relativa a nuove strutture, all'adattamento di strutture gia' esistenti e alla loro diversa utilizzazione nonche' all'ampliamento o alla trasformazione delle stesse si intende rilasciata contestualmente alla presentazione dell'istanza di autorizzazione da parte dell'azienda sanitaria interessata, fermo restando il rispetto delle disposizioni e dei criteri richiesti per la rendicontazione ai fini del PNRR. Entro dodici mesi dalla presentazione dell'istanza, le amministrazioni competenti provvedono, secondo quanto previsto dalla rispettiva normativa regionale, alla verifica della sussistenza dei requisiti minimi autorizzativi dichiarati nell'istanza ovvero della loro permanenza ai fini dell'adozione del provvedimento espresso)).
 
@@ -478,6 +1348,140 @@ La regione provvede al rilascio dell'accreditamento ai professionisti, nonche' a
 ((Per le medesime finalita' di cui all'articolo 8-ter, comma 5-bis, limitatamente agli interventi del PNRR ivi indicati, l'accreditamento si intende rilasciato contestualmente all'autorizzazione all'esercizio. Entro dodici mesi dalla presentazione dell'istanza di cui all'articolo 8-ter, comma 5-bis, le amministrazioni competenti provvedono, secondo quanto previsto dalla rispettiva normativa regionale, alla verifica della sussistenza dei requisiti ulteriori di qualificazione dichiarati ovvero della loro permanenza, ai fini dell'adozione del provvedimento espresso)).
 
 La qualita' di soggetto accreditato non costituisce vincolo per le aziende e gli enti del servizio sanitario nazionale a corrispondere la remunerazione delle prestazioni erogate, al di fuori degli accordi contrattuali di cui all'articolo 8- quinquies. I requisiti ulteriori costituiscono presupposto per l'accreditamento e vincolo per la definizione delle prestazioni previste nei programmi di attivita' delle strutture accreditate, cosi' come definiti dall'articolo 8- quinquies.
+
+3.
+                        
+                            
+                                Con atto di indirizzo e coordinamento emanato, ai sensi dell'articolo 8 della legge 15 marzo 1997, n. 59, entro centottanta giorni dalla data di entrata in vigore del decreto legislativo 19 giugno 1999, n. 229, sentiti l'Agenzia per i servizi sanitari regionali, il Consiglio superiore di sanita', e, limitatamente all'accreditamento dei professionisti, la Federazione nazionale dell'ordine dei medici chirurghi e degli odontoiatri, sono definiti i criteri generali uniformi per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la definizione dei requisiti ulteriori per l'esercizio delle attivita' sanitarie per conto del Servizio sanitario nazionale da parte delle strutture sanitarie e dei professionisti, nonche' la verifica periodica di tali attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la valutazione della rispondenza delle strutture al fabbisogno , tenendo conto anche del criterio della soglia minima di efficienza che, compatibilmente con le risorse regionali disponibili, deve esser conseguita da parte delle singole strutture sanitarie, e alla funzionalita' della programmazione regionale, inclusa la determinazione dei limiti entro i quali sia possibile accreditare quantita' di prestazioni in eccesso rispetto al fabbisogno programmato, in modo da assicurare un'efficace competizione tra le strutture accreditate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure ed i termini per l'accreditamento delle strutture che ne facciano richiesta, ivi compresa la possibilita' di un riesame dell'istanza, in caso di esito negativo e di prescrizioni contestate dal soggetto richiedente nonche' la verifica periodica dei requisiti ulteriori e le procedure da adottarsi in caso di verifica negativa.
+
+4.
+                        
+                            
+                                L'atto di indirizzo e coordinamento e' emanato nel rispetto dei seguenti criteri e principi direttivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire l'eguaglianza fra tutte le strutture relativamente ai requisiti ulteriori richiesti per il rilascio dell'accreditamento e per la sua verifica periodica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire il rispetto delle condizioni di incompatibilita' previste dalla vigente normativa nel rapporto di lavoro con il personale comunque impegnato in tutte le strutture; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurare che tutte le strutture accreditate garantiscano dotazioni strumentali e tecnologiche appropriate per quantita', qualita' e funzionalita' in relazione alla tipologia delle prestazioni erogabili ed alle necessita' assistenziali degli utilizzatori dei servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantire che tutte le strutture accreditate assicurino adeguate condizioni di organizzazione interna, con specifico riferimento alla dotazione quantitativa e alla qualificazione professionale del personale effettivamente impiegato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prevedere la partecipazione della struttura a programmi di accreditamento professionale tra pari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    prevedere la partecipazione degli operatori a programmi di valutazione sistematica e continuativa dell'appropriatezza delle prestazioni erogate e della loro qualita', interni alla struttura e interaziendali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    prevedere l'accettazione del sistema di controlli esterni sulla appropriatezza e sulla qualita' delle prestazioni erogate, definito dalla regione ai sensi dell'articolo 8-octies; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    prevedere forme di partecipazione dei cittadini e degli utilizzatori dei servizi alla verifica dell'attivita' svolta e alla formulazione di proposte rispetto all'accessibilita' dei servizi offerti, nonche' l'adozione e l'utilizzazione sistematica della carta dei servizi per la comunicazione con i cittadini, inclusa la diffusione degli esiti dei programmi di valutazione di cui alle lettere e) ed f); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    disciplinare l'esternalizzazione dei servizi sanitari direttamente connessi all'assistenza al paziente, prevedendola esclusivamente verso soggetti accreditati in applicazione dei medesimi criteri o di criteri comunque equivalenti a quelli adottati per i servizi interni alla struttura, secondo quanto previsto dal medesimo atto di indirizzo e coordinamento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    indicare i requisiti specifici per l'accreditamento di funzioni di particolare rilevanza, in relazione alla complessita' organizzativa e funzionale della struttura, alla competenza e alla esperienza del personale richieste, alle dotazioni tecnologiche necessarie o in relazione all'attuazione degli, obiettivi prioritari definiti dalla programmazione nazionale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    definire criteri per la selezione degli indicatori relativi all'attivita' svolta ed ai suoi risultati finali dalle strutture e dalle funzioni accreditate, in base alle evidenze scientifiche disponibili; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    definire i termini per l'adozione dei provvedimenti attuativi regionali e per l'adeguamento organizzativo delle strutture gia' autorizzate; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    indicare i requisiti per l'accreditamento istituzionale dei professionisti, anche in relazione alla specifica esperienza professionale maturata e ai crediti formativi acquisiti nell'ambito del programma di formazione continua di cui all'articolo 16-ter; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    individuare l'organizzazione dipartimentale minima e le unita' operative e le altre strutture complesse delle aziende di cui agli articoli 3 e 4, in base alla consistenza delle risorse umane, tecnologiche e finanziarie, al grado di autonomia finanziaria e alla complessita' dell'organizzazione interna; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    prevedere l'estensione delle norme di cui al presente comma alle attivita' e alle strutture sociosanitarie, ove compatibili.
 
 Entro sessanta giorni dalla data di entrata in vigore dell'atto di indirizzo e coordinamento di cui al comma 3, le regioni definiscono, in conformita' ai criteri generali uniformi ivi previsti, i requisiti per l'accreditamento, nonche' il procedimento per la loro verifica, prevedendo, per quanto riguarda l'accreditamento dei professionisti, adeguate forme di partecipazione degli Ordini e dei Collegi professionali interessati.
 
@@ -494,7 +1498,85 @@ In presenza di una capacita' produttiva superiore al fabbisogno determinato in b
 
 ## Art. 8-quinquies. — (Accordi contrattuali)
 
+1.
+                        
+                            
+                                Le regioni, entro sessanta giorni dalla data di entrata in vigore del decreto legislativo 19 giugno 1999, n. 229, definiscono l'ambito di applicazione degli accordi contrattuali ed individuano i soggetti interessati, con specifico riferimento ai seguenti aspetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuazione delle responsabilita' riservate alla regione e di quelle attribuite alle unita' sanitarie locali nella definizione degli accordi contrattuali e nella verifica del loro rispetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzi per la formulazione dei programmi di attivita' delle strutture interessate, con l'indicazione delle funzioni e delle attivita' da potenziare e da depotenziare, secondo le linee della programmazione regionale e nel rispetto delle priorita' indicate dal Piano sanitario nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    determinazione del piano delle attivita' relative alle alte specialita' ed alla rete dei servizi di emergenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    criteri per la determinazione della remunerazione delle strutture ove queste abbiano erogato volumi di prestazioni eccedenti il programma preventivo concordato, tenuto conto del volume complessivo di attivita' e del concorso allo stesso da parte di ciascuna struttura.
+
 I soggetti privati di cui al comma 1 sono individuati, ai fini della stipula degli accordi contrattuali, mediante procedure trasparenti, eque e non discriminatorie, previa pubblicazione da parte delle regioni di un avviso contenente criteri oggettivi di selezione, che valorizzino prioritariamente la qualita' delle specifiche prestazioni sanitarie da erogare. La selezione di tali soggetti deve essere effettuata periodicamente, tenuto conto della programmazione sanitaria regionale e sulla base di verifiche delle eventuali esigenze di razionalizzazione della rete in convenzionamento e, per i soggetti gia' titolari di accordi contrattuali, dell'attivita' svolta; a tali fini si tiene conto altresi' dell'effettiva alimentazione in maniera continuativa e tempestiva del fascicolo sanitario elettronico (FSE) ai sensi dell'articolo 12 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, secondo le modalita' definite ai sensi del comma 7 del medesimo articolo 12, nonche' degli esiti delle attivita' di controllo, vigilanza e monitoraggio per la valutazione delle attivita' erogate, le cui modalita' sono definite con il decreto di cui all'articolo 8-quater, comma 7. ((66))
+
+2.
+                        
+                            
+                                In attuazione di quanto previsto dal comma 1 e con le modalita' di cui al comma 1-bis, la regione e le unita' sanitarie locali, anche attraverso valutazioni comparative della qualita' e dei costi, definiscono accordi con le strutture pubbliche ed equiparate, comprese le aziende ospedaliero universitarie, e stipulano contratti con quelle private e con i professionisti accreditati, nonche' con le organizzazioni pubbliche e private accreditate per l'erogazione di cure domiciliari, anche mediante intese con le loro organizzazioni rappresentative a livello regionale, che indicano: (62) 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obiettivi di salute e i programmi di integrazione dei servizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il volume massimo di prestazioni che le strutture presenti nell'ambito territoriale della medesima unita' sanitaria locale, si impegnano ad assicurare, distinto per tipologia e per modalita' di assistenza. Le regioni possono individuare prestazioni o gruppi di prestazioni per i quali stabilire la preventiva autorizzazione, da parte dell'azienda sanitaria locale competente, alla fruizione presso le strutture o i professionisti accreditati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i requisiti del servizio da rendere, con particolare riguardo ad accessibilita', appropriatezza clinica ed organizzativa, tempi di attesa e continuita' assistenziale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il corrispettivo preventivato a fronte delle attivita' concordate, globalmente risultante dalla applicazione dei valori tariffari e della remunerazione extra-tariffaria delle funzioni incluse nell'accordo, da verificare a consuntivo sulla base dei risultati raggiunti e delle attivita' effettivamente svolte secondo le indicazioni regionali di cui al comma 1, lettera d); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il debito informativo delle strutture erogatrici per il monitoraggio degli accordi pattuiti e le procedure che dovranno essere seguite per il controllo esterno della appropriatezza e della qualita' della assistenza prestata e delle prestazioni rese, secondo quanto previsto dall'articolo 8-octies. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    la modalita' con cui viene comunque garantito il rispetto del limite di remunerazione delle strutture correlato ai volumi di prestazioni, concordato ai sensi della lettera d), prevedendo che in caso di incremento a seguito di modificazioni, comunque intervenute nel corso dell'anno, dei valori unitari dei tariffari regionali per la remunerazione delle prestazioni di assistenza ospedaliera, delle prestazioni di assistenza specialistica ambulatoriale, nonche' delle altre prestazioni comunque remunerate a tariffa, il volume massimo di prestazioni remunerate, di cui alla lettera b), si intende rideterminato nella misura necessaria al mantenimento dei limiti indicati alla lettera d), fatta salva la possibile stipula di accordi integrativi, nel rispetto dell'equilibrio economico finanziario programmato.
 
 COMMA ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66.
 
@@ -523,9 +1605,85 @@ Il valore complessivo della remunerazione delle funzioni non puo' in ogni caso s
 
 ))
 
+2.
+                        
+                            
+                                Le regioni definiscono le funzioni assistenziali nell'ambito delle attivita' che rispondono alle seguenti caratteristiche generali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    programmi a forte integrazione fra assistenza ospedaliera e territoriale, sanitaria e sociale, con particolare riferimento alla assistenza per patologie croniche di lunga durata o recidivanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    programmi di assistenza ad elevato grado di personalizzazione della prestazione o del servizio reso alla persona; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' svolte nell'ambito della partecipazione a programmi di prevenzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    programmi di assistenza a malattie rare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivita' con rilevanti costi di attesa, ivi compreso il sistema di allarme sanitario e di trasporto in emergenza, nonche' il funzionamento della centrale operativa, di cui all'atto di indirizzo e coordinamento approvato con decreto dei Presidente della Repubblica 27 marzo 1992, pubblicato nella Gazzetta Ufficiale n. 76 del 21 marzo 1992; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    programmi sperimentali di assistenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    programmi di trapianto di organo, di midollo osseo e di tessuto, ivi compresi il mantenimento e monitoraggio del donatore, l'espianto degli organi da cadavere, le attivita' di trasporto, il coordinamento e l'organizzazione della rete di prelievi e di trapianti, gli accertamenti preventivi sui donatori.
+
 I criteri generali per la definizione delle funzioni assistenziali e per la determinazione della loro remunerazione massima sono stabiliti con apposito decreto del Ministro della sanita', sentita l'Agenzia per i servizi sanitari regionali, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, sulla base di standard organizzativi e di costi unitari predefiniti dei fattori produttivi, tenendo conto, quando appropriato, del volume dell'attivita' svolta.
 
 La remunerazione delle attivita' assistenziali diverse da quelle di cui al comma 2 e' determinata in base a tariffe predefinite, limitatamente agli episodi di assistenza ospedaliera per acuti erogata in regime di degenza ordinaria e di day hospital, e alle prestazioni di assistenza specialistica ambulatoriale, fatta eccezione per le attivita' rientranti nelle funzioni di cui al comma 3.
+
+5.
+                        
+                            
+                                Il Ministro della sanita', sentita l'Agenzia per i servizi sanitari regionali, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ai sensi dell'articolo 120, comma 1, lettera g), del decreto legislativo 31 marzo 1998, n. 112, con apposito decreto individua i sistemi di classificazione che definiscono l'unita' di prestazione o di servizio da remunerare e determina le tariffe massime da corrispondere alle strutture accreditate, tenuto conto, nel rispetto dei principi di efficienza e di economicita' nell'uso delle risorse, anche in via alternativa, di: 
+                            
+                            
+                                a)
+                                
+                                    costi standard delle prestazioni calcolati in riferimento a strutture preventivamente selezionate secondo criteri di efficienza, appropriatezza e qualita' dell'assistenza come risultanti dai dati in possesso del Sistema informativo sanitario;
+                                
+                            
+                            
+                                b)
+                                
+                                    costi standard delle prestazioni gia' disponibili presso le regioni e le province autonome;
+                                
+                            
+                            
+                                c)
+                                
+                                    tariffari regionali e differenti modalita' di remunerazione delle funzioni assistenziali attuate nelle regioni e nelle province autonome. Lo stesso decreto stabilisce i criteri generali, nel rispetto del principio del perseguimento dell'efficienza e dei vincoli di bilancio derivanti dalle risorse programmate a livello nazionale e regionale, in base ai quali le regioni adottano il proprio sistema tariffario, articolando tali tariffe per classi di strutture secondo le loro caratteristiche organizzative e di attivita', verificate in sede di accreditamento delle strutture stesse. Le tariffe massime di cui al presente comma sono assunte come riferimento per la valutazione della congruita' delle risorse a carico del Servizio sanitario nazionale.
+Gli importi tariffari, fissati dalle singole regioni, superiori alle tariffe massime restano a carico dei bilanci regionali. A decorrere dalla data di entrata in vigore della presente disposizione e' abrogato il decreto del Ministro della sanita' 15 aprile 1994, recante "Determinazione dei criteri generali per la fissazione delle tariffe delle prestazioni di assistenza specialistica, riabilitativa ed ospedaliera", pubblicato nella Gazzetta Ufficiale n. 107 del 10 maggio 1994.
 
 Con la procedura di cui al comma 5, sono effettuati periodicamente la revisione del sistema di classificazione delle prestazioni e l'aggiornamento delle relative tariffe, tenendo conto della definizione dei livelli essenziali ed uniformi di assistenza e delle relative previsioni di spesa, dell'innovazione tecnologica e organizzativa, nonche' dell'andamento del costo dei principali fattori produttivi.
 
@@ -548,6 +1706,71 @@ La regione e le aziende unita' sanitarie locali attivano un sistema di monitorag
 
 Per quanto riguarda le strutture pubbliche del Servizio sanitario nazionale, la definizione degli accordi entro i termini stabiliti dalla regione e il rispetto dei programmi di attivita' previsti per ciascuna struttura rappresentano elemento di verifica per la conferma degli incarichi al direttore generale, ai direttori di dipartimento e del contratto previsto per i dirigenti responsabili di struttura complessa, nonche' per la corresponsione degli incentivi di risultato al personale con funzioni dirigenziali dipendente dalle aziende interessate.
 
+3.
+                        
+                            
+                                Con atto di indirizzo e coordinamento, emanato entro, centottanta giorni dalla data di entrata in vigore del decreto legislativo 19 giugno 1999, n. 229, sentita l'Agenzia per i servizi sanitari regionali, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti, sulla base dei criteri di cui all'articolo 8-quinquies, i principi in base ai quali la regione assicura la funzione di controllo esterno sulla appropriatezza e sulla qualita' della assistenza prestata dalle strutture interessate.
+Le regioni, in attuazione dell'atto di indirizzo e coordinamento, entro sessanta giorni determinano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le regole per l'esercizio della funzione di controllo esterno e per la risoluzione delle eventuali contestazioni, stabilendo le relative penalizzazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il debito informativo delle strutture accreditate interessate agli accordi e le modalita' per la verifica della adeguatezza del loro sistema informativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'organizzazione per la verifica del comportamento delle singole strutture; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i programmi per promuovere la formazione e l'aggiornamento degli operatori addetti alla gestione della documentazione clinica e alle attivita' di controllo.
+
+4.
+                        
+                            
+                                L'atto di indirizzo e coordinamento di cui al comma 3 individua altresi' i criteri per la verifica di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    validita' della documentazione amministrativa attestante l'avvenuta erogazione delle prestazioni e la sua rispondenza alle attivita' effettivamente svolte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    necessita' clinica e appropriatezza delle prestazioni e dei ricoveri effettuati, con particolare riguardo ai ricoveri di pazienti indirizzati o trasferiti ad altre strutture; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    appropriatezza delle forme e delle modalita' di erogazione della assistenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risultati finali della assistenza, incluso il gradimento degli utilizzatori dei servizi.
+
 ((4-bis. Salvo il disposto dei commi 2 e 3, il mancato adempimento degli obblighi di alimentazione del fascicolo sanitario elettronico (FSE), nei termini indicati dall'articolo 12, comma 1, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, e nel rispetto delle modalita' e delle misure tecniche individuate ai sensi del comma 7 del medesimo articolo 12, costituisce grave inadempimento degli obblighi assunti mediante la stipula dei contratti e degli accordi contrattuali di cui all'articolo 8-quinquies))
 
 ## Art. 9. — (Fondi integrativi del Servizio sanitario nazionale)
@@ -556,9 +1779,165 @@ Al fine di favorire l'erogazione di forme di assistenza sanitaria integrative ri
 
 La denominazione dei fondi di cui al, presente articolo deve contenere l'indicazione "fondo integrativo del Servizio sanitario nazionale". Tale denominazione non puo' essere utilizzata con riferimento a fondi istituiti per finalita' diverse.
 
+3.
+                        
+                            
+                                Tutti i soggetti pubblici e privati che istituiscono fondi integrativi del Servizio sanitario nazionale sono tenuti ad adottare politiche di non selezione dei rischi. Le fonti istitutive dei fondi integrativi del Servizio sanitario nazionale sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contratti e accordi collettivi, anche aziendali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accordi tra lavoratori autonomi o fra liberi professionisti, promossi dai loro sindacati o da associazioni di rilievo almeno provinciale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    regolamenti di regioni, enti territoriali ed enti locali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    deliberazioni assunte, nelle forme previste dai rispettivi ordinamenti, da organizzazioni non lucrative di cui all'articolo 1, comma 16, operanti nei settori dell'assistenza socio-sanitaria o dell'assistenza sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    deliberazioni assunte, nelle forme previste dai rispettivi ordinamenti, da societa' di mutuo soccorso riconosciute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    atti assunti da altri soggetti pubblici e privati, a condizione che contengano l'esplicita assunzione dell'obbligo di non adottare strategie e comportamenti di selezione dei rischi o di discriminazione nei confronti di particolari gruppi di soggetti.
+
+4.
+                        
+                            
+                                L'ambito di applicazione dei fondi integrativi del Servizio sanitario nazionale e' rappresentato da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prestazioni aggiuntive, non comprese nei livelli essenziali ed uniformi di assistenza e con questi comunque integrate, erogate da professionisti e da strutture accreditati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestazioni erogate dal Servizio sanitario nazionale comprese nei livelli uniformi ed essenziali di assistenza, per la sola quota posta a carico dell'assistito, inclusi gli oneri per l'accesso alle prestazioni erogate in regime di libera professione intramuraria e per la fruizione dei servizi alberghieri su richiesta dell'assistito di cui all'articolo 1 ,comma 15, della legge 23 dicembre 1996, n.662; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prestazioni sociosanitarie erogate in strutture accreditate residenziali e semiresidenziali o in forma domiciliare, per la quota posta a carico dell'assistito.
+
+5.
+                        
+                            
+                                Fra le prestazioni di cui al comma 4, lettera a), sono comprese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le prestazioni di medicina non convenzionale, ancorche' erogate da strutture non accreditate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le cure termali, limitatamente alle prestazioni non a carico del Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'assistenza odontoiatrica, limitatamente alle prestazioni non a carico del Servizio sanitario nazionale e comunque con l'esclusione dei programmi di tutela della salute odontoiatrica nell'eta' evolutiva e dell'assistenza, odontoiatrica e protesica a determinate categorie di soggetti in condizioni di particolare vulnerabilita'. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    le prestazioni di prevenzione primaria e secondaria che non siano a carico del Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    le prestazioni di long term care (LTC) che non siano a carico del Servizio sanitario nazionale;
+
 Con decreto del Ministro della sanita', previo parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997 n. 281, da adottare entro sessanta giorni dalla data di entrata in vigore della disciplina del trattamento fiscale ai sensi del comma 10, sono individuate le prestazioni relative alle lettere a), b) e c) del comma 5, nonche' quelle ricomprese nella lettera c) del comma 4, le quali, in via di prima applicazione, possono essere poste a carico dei fondi integrativi del Servizio sanitario nazionale.
 
 I fondi integrativi del Servizio sanitario nazionale sono autogestiti. Essi possono essere affidati in gestione mediante convenzione, da stipulare con istituzioni pubbliche e private che operano nel settore sanitario o sociosanitario da almeno cinque anni, secondo le modalita' stabilite con decreto del Ministro della sanita', da emanare entro novanta giorni dalla data di entrata in vigore del presente decreto. Le regioni, le province autonome e gli enti locali, in forma singola o associata, possono partecipare alla gestione dei fondi di cui al presente articolo.
+
+8.
+                        
+                            
+                                Entro centoventi giorni dalla data di entrata in vigore della disciplina del trattamento fiscale ai sensi del comma 10, e' emanato, su proposta del Ministro della sanita', ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, il regolamento contenente le disposizioni relative all'ordinamento dei fondi integrativi del Servizio sanitario nazionale. Detto regolamento disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di costituzione e di scioglimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la composizione degli organi di amministrazione e di controllo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le forme e le modalita' di contribuzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soggetti destinatari dell'assistenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il trattamento e le garanzie riservate al singolo sottoscrittore e al suo nucleo familiare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le cause di decadenza della qualificazione di fondo integrativo del Servizio sanitario nazionale.
 
 La vigilanza sull'attivita' dei fondi integrativi del Servizio sanitario nazionale e' disciplinata dall'articolo 122 del decreto legislativo 31 marzo 1998, n. 112. Presso il Ministero della sanita', senza oneri a carico dello Stato, sono istituiti: l'anagrafe dei fondi integrativi del servizio sanitario nazionale, alla quale debbono iscriversi sia i fondi vigilati dallo Stato che quelli sottoposti a vigilanza regionale; l'osservatorio dei fondi integrativi del Servizio sanitario nazionale, ((con finalita' di studio e ricerca sul complesso delle attivita' delle forme di assistenza complementare e sulle relative modalita' di funzionamento, la cui organizzazione e il cui funzionamento sono disciplinati con apposito decreto del Ministro della salute)).
 
@@ -570,6 +1949,52 @@ Le disposizioni del presente articolo acquistano efficacia al momento dell'entra
 ## Art. 9-bis. — (Sperimentazioni gestionali)
 
 ) programmi di sperimentazione aventi ad oggetto nuovi modelli gestionali che prevedano forme di collaborazione tra strutture del Servizio sanitario nazionale e soggetti privati, anche attraverso la costituzione di societa' miste a capitale pubblico e privato.
+
+2.
+                        
+                            
+                                Il programma di sperimentazione ((e' adottato dalla regione o dalla provincia autonoma interessata)), motivando le ragioni di convenienza economica del progetto gestionale, di miglioramento della qualita' dell'assistenza e di coerenza con le previsioni del Piano sanitario regionale ed evidenziando altresi' gli elementi di garanzia, con particolare riguardo ai seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    privilegiare nell'area del settore privato il coinvolgimento delle organizzazioni non lucrative di utilita' sociale individuate dall'articolo 10 del decreto legislativo 4 dicembre 1997, n. 460; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fissare limiti percentuali alla partecipazione di organismi privati in misura non superiore al quarantanove per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedere forme idonee di limitazione alla facolta' di cessione della propria quota sociale nei confronti dei soggetti privati che partecipano alle sperimentazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disciplinare le forme di risoluzione del rapporto contrattuale con privati che partecipano alla sperimentazione in caso di gravi inadempienze agli obblighi contrattuali o di accertate esposizioni debitorie nei confronti di terzi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    definire partitamente i compiti, le funzioni e i rispettivi obblighi di tutti i soggetti pubblici e privati che partecipano alla sperimentazione gestionale, avendo cura di escludere in particolare il ricorso a forme contrattuali, di appalto o subappalto, nei confronti di terzi estranei alla convenzione di sperimentazione, per la fornitura di opere e servizi direttamente connesse all'assistenza alla persona ; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    individuare forme e modalita' di pronta attuazione per la risoluzione della convenzione di sperimentazione e scioglimento degli organi societari in caso di mancato raggiungimento del risultato della avviata sperimentazione.
 
 La Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, avvalendosi dell'Agenzia per i servizi sanitari regionali, verifica annualmente i risultati conseguiti sia sul piano economico sia su quello della qualita' dei servizi, ivi comprese le forme di collaborazione in atto con soggetti privati per la gestione di compiti diretti di tutela della salute. Al termine del primo triennio di sperimentazione, sulla base dei risultati conseguiti, il Governo e le regioni adottano i provvedimenti' conseguenti.
 
@@ -637,6 +2062,61 @@ La partecipazione alla spesa sanitaria dei cittadini italiani, compresi i famili
 
 Il Fondo sanitario nazionale di parte corrente e in conto capitale e' alimentato interamente da stanziamenti a carico del bilancio dello Stato ed il suo importo e' annualmente determinato dalla legge finanziaria tenendo conto, limitatamente alla parte corrente, dell'importo complessivo presunto dei contributi di malattia attribuiti direttamente alle regioni.
 
+2.
+                        
+                            
+                                Una quota pari all'1% del Fondo sanitario nazionale complessivo di cui al comma precedente, prelevata dalla quota iscritta nel bilancio del Ministero del tesoro e del Ministero del bilancio per le parti di rispettiva competenza, e' trasferita nei capitoli da istituire nello stato di previsione del Ministero della sanita' ed utilizzata per il finanziamento di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di ricerca corrente e finalizzata svolta da: 
+ 1) Istituto superiore di sanita' per le tematiche di sua competenza; 
+ 2) Istituto superiore per la prevenzione e la sicurezza del lavoro per le tematiche di sua competenza; 
+ 3) istituti di ricovero e cura di diritto pubblico e privato il cui carattere scientifico sia riconosciuto a norma delle leggi vigenti; 
+ 4) istituti zooprofilattici sperimentali per le problematiche relative all'igiene e sanita' pubblica veterinaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    iniziative previste da leggi nazionali o dal Piano sanitario nazionale riguardanti programmi speciali di interesse e rilievo interregionale o nazionale per ricerche o sperimentazioni attinenti gli aspetti gestionali, la valutazione dei servizi, le tematiche della comunicazione e dei rapporti con i cittadini, le tecnologie e biotecnologie sanitarie e le attivita' del Registro nazionale italiano dei donatori di midollo osseo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rimborsi alle unita' sanitarie locali ed alle aziende ospedaliere, tramite le regioni, delle spese per prestazioni sanitarie erogate a cittadini stranieri che si trasferiscono per cure in Italia previa autorizzazione del Ministro della sanita' d'intesa con il Ministro degli affari esteri. 
+ A decorrere dal 1 gennaio 1995, la quota di cui al presente comma e' rideterminata ai sensi dell'art. 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468, e successive modificazioni. ((38))
+
+3.
+                        
+                            
+                                Il Fondo sanitario nazionale, al netto della quota individuata ai sensi del comma precedente, e' ripartito con riferimento al triennio successivo entro il 15 ottobre di ciascun anno, in coerenza con le previsioni del disegno di legge finanziaria per l'anno successivo, dal CIPE, su proposta del Ministro della sanita', sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome; la quota capitaria di finanziamento da assicurare alle regioni viene determinata sulla base di un sistema di coefficienti parametrici, in relazione ai livelli uniformi di prestazioni sanitarie in tutto il territorio nazionale, determinati ai sensi dell'art. 1, con riferimento ai seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    popolazione residente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mobilita' sanitaria per tipologia di prestazioni, da compensare, in sede di riparto, sulla base di contabilita' analitiche per singolo caso fornite dalle unita' sanitarie locali e dalle aziende ospedaliere attraverso le regioni e le province autonome; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consistenza e stato di conservazione delle strutture immobiliari, degli impianti tecnologici e delle dotazioni strumentali.
+
 Il Fondo sanitario nazionale in conto capitale assicura quote di finanziamento destinate al riequilibrio a favore delle regioni particolarmente svantaggiate sulla base di indicatori qualitativi e quantitativi di assistenza sanitaria, con particolare riguardo alla capacita' di soddisfare la domanda mediante strutture pubbliche.
 
 Il Fondo sanitario nazionale di parte corrente assicura altresi', nel corso del primo triennio di applicazione del presente decreto, quote di finanziamento destinate alle regioni che presentano servizi e prestazioni eccedenti quelli da garantire comunque a tutti i cittadini rapportati agli standard di riferimento.
@@ -658,6 +2138,52 @@ Il Piano sanitario nazionale definisce, con riferimento alle esigenze del Serviz
 Il Ministero della Sanita', sentita la Commissione nazionale per la ricerca sanitaria, di cui all'articolo 2, comma 7, del decreto legislativo 30 giugno 1993, n. 266, elabora il programma di ricerca sanitaria e propone iniziative da inserire nella programmazione della ricerca scientifica nazionale, di cui al decreto legislativo 5 giugno 1998, n. 204, e nei programmi di ricerca internazionali e comunitari.
 Il programma e' adottato dal Ministro della sanita', d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, entro sei mesi dalla data di entrata in vigore del Piano sanitario nazionale, ha validita' triennale ed e' finanziato dalla quota di cui all'articolo 12, comma 2.
 
+4.
+                        
+                            
+                                Il programma di ricerca sanitaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individua gli obiettivi prioritari per il miglioramento dello stato di salute della popolazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    favorisce la sperimentazione di modalita' di funzionamento, gestione e organizzazione dei servizi sanitari nonche' di pratiche cliniche e assistenziali e individua gli strumenti di verifica del loro impatto sullo stato di salute della popolazione e degli utilizzatori dei servizi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individua gli strumenti di valutazione dell'efficacia, dell'appropriatezza e della congruita' economica delle procedure e degli interventi, anche in considerazione di analoghe sperimentazioni avviate da agenzie internazionali e con particolare riferimento agli interventi e alle procedure prive di una adeguata valutazione di efficacia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    favorisce la ricerca e la sperimentazione volte a migliorare la integrazione multiprofessionale e la continuita' assistenziale, con particolare riferimento alle prestazioni sociosanitarie ad elevata integrazione sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    favorisce la ricerca e la sperimentazione volta a migliorare la comunicazione con i cittadini e con gli utilizzatori dei servizi sanitari, a promuovere l'informazione corretta e sistematica degli utenti e la loro partecipazione al miglioramento dei servizi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    favorisce la ricerca e la sperimentazione degli interventi appropriati per la implementazione delle linee guida e dei relativi percorsi diagnostico-terapeutici, per l'autovalutazione della attivita' degli operatori, la verifica ed il monitoraggio e il monitoraggio dei risultati conseguiti.
+
 Il programma di ricerca sanitaria si articola nelle attivita' di ricerca corrente e di ricerca finalizzata. La ricerca corrente e' attuata tramite i progetti istituzionali degli organismi di ricerca di cui al comma seguente nell'ambito degli indirizzi del programma nazionale, approvati dal Ministro della sanita'. La ricerca finalizzata attua gli obiettivi prioritari, biomedici e sanitari, del Piano sanitario nazionale. I progetti di ricerca biomedica finalizzata sono approvati dal Ministro della sanita', di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, allo scopo di favorire il loro coordinamento.
 
 Le attivita' di ricerca corrente e finalizzata sono svolte dalle regioni, dall'Istituto superiore di sanita', dall'Istituto superiore per la prevenzione e la sicurezza sul lavoro, dall'Agenzia per i servizi sanitari regionali, ((dall'Istituto nazionale per la promozione della salute delle popolazioni migranti ed il contrasto delle malattie della poverta',)) dagli Istituti di ricovero e cura a carattere scientifico pubblici e privati nonche' dagli Istituti zooprofilattici sperimentali. Alla realizzazione dei progetti possono concorrere, sulla. base di specifici accordi, contratti o convenzioni, le universita', il Consiglio nazionale delle ricerche e gli altri enti di ricerca pubblici e privati, nonche' imprese pubbliche e private.
@@ -667,6 +2193,38 @@ Per l'attuazione del programma il Ministero della sanita', anche su iniziativa d
 Il Ministero della sanita', nell'esercizio della funzione di vigilanza sull'attuazione del programma nazionale, si avvale della collaborazione tecnico-scientifica della Commissione nazionale per la ricerca sanitaria di cui all'articolo 2, comma 7, del decreto legislativo 30 giugno 1993, n. 266, degli organismi tecnico- scientifici del Servizio sanitario nazionale e delle regioni, sulla base di metodologie di accreditamento qualitativo.
 
 Anche ai fini di cui al comma 1 del presente articolo, le regioni e le province autonome di Trento e di Bolzano disciplinano l'organizzazione e il funzionamento dei Comitati etici istituiti presso ciascuna azienda sanitaria ai sensi dei decreti ministeriali 15 luglio 1997, pubblicato sulla Gazzetta Ufficiale 18 agosto 1997, n. 191, e 18 marzo 1998, pubblicato sulla Gazzetta Ufficiale 28 maggio 1998, n. 122, tenendo conto delle indicazioni e dei requisiti minimi di cui ai predetti decreti e istituendo un registro dei Comitati etici operanti nei propri ambiti territoriali.
+
+10.
+                        
+                            
+                                Presso il Ministero della sanita' e' istituito il Comitato etico nazionale per la ricerca e per le sperimentazioni cliniche. Il Comitato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    segnala, su richiesta della Commissione per la ricerca sanitaria ovvero di altri organi o strutture del Ministero della sanita' o di altre pubbliche amministrazioni, le conseguenze sotto il profilo etico dei progetti di ricerca biomedica e sanitaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunica a organi o strutture del Ministero della sanita' le priorita' di interesse dei progetti di ricerca biomedica e sanitaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordina le valutazioni etico-scientifiche di sperimentazioni cliniche multicentriche di rilevante interesse nazionale, relative a medicinali o a dispositivi medici, su specifica richiesta del Ministro della sanita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esprime parere su ogni questione tecnico-scientifica ed etica concernente la materia della ricerca di cui al comma 1 e della sperimentazione clinica dei medicinali e dei dispositivi medici che gli venga sottoposta dal Ministro della sanita'.
 
 Le regioni formulano proposte per le predisposizione del programma di ricerca sanitaria di cui al presente articolo, possono assumere la responsabilita' della realizzazione di singoli progetti finalizzati, e assicurano il monitoraggio sulla applicazione dei conseguenti risultati nell'ambito del Servizio sanitario regionale.
 
@@ -722,6 +2280,38 @@ I dirigenti medici e sanitari sono sottoposti a una verifica annuale correlata a
 Ai dirigenti con incarico di direzione di struttura complessa sono attribuite, oltre a quelle derivanti dalle specifiche competenze professionali, funzioni di direzione e organizzazione della struttura, da attuarsi, nell'ambito degli indirizzi operativi e gestionali del dipartimento di appartenenza, anche mediante direttive a tutto il personale operante nella stessa, e l'adozione delle rela- tive decisioni necessarie per il corretto espletamento del servizio e per realizzare l'appropriatezza degli interventi con finalita' pre- ventive, diagnostiche, terapeutiche e riabilitative, attuati nella struttura loro affidata. Il dirigente e' responsabile dell'efficace ed efficiente gestione delle risorse attribuite. I risultati della gestione sono sottoposti a verifica annuale tramite il nucleo di valutazione.
 
 Alla dirigenza sanitaria si accede mediante concorso pubblico per titoli ed esami, ((disciplinato con regolamento da adottare ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, su proposta del Ministro della salute)) ivi compresa la possibilita' di accesso con una specializzazione in disciplina affine. Gli incarichi di direzione di struttura complessa sono attribuiti a coloro che siano in possesso dei requisiti di cui al decreto del Presidente della Repubblica 10 dicembre 1997, n.484. PERIODO SOPPRESSO DAL D.L. 13 SETTEMBRE 2012, N. 158, CONVERTITO CON MODIFICAZIONI DALLA L. 8 NOVEMBRE 2012, N. 189.
+
+7-bis.
+                        
+                            
+                                Le regioni, nei limiti delle risorse finanziarie ordinarie e nei limiti del numero delle strutture complesse previste dall'atto aziendale di cui all'articolo 3, comma 1-bis, tenuto conto delle norme in materia stabilite dalla contrattazione collettiva, disciplinano i criteri e le procedure per il conferimento degli incarichi di direzione di struttura complessa, previo avviso cui l'azienda e' tenuta a dare adeguata pubblicita', sulla base dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la selezione e' effettuata da una commissione composta dal direttore sanitario dell'azienda interessata e da tre direttori di struttura complessa nella medesima disciplina dell'incarico da conferire, dei quali almeno due responsabili di strutture complesse in regioni diverse da quella ove ha sede l'azienda interessata alla copertura del posto. I direttori di struttura complessa sono individuati tramite sorteggio da un elenco nazionale nominativo costituito dall'insieme degli elenchi regionali dei direttori di struttura complessa appartenenti ai ruoli regionali del Servizio sanitario nazionale. Qualora fosse sorteggiato piu' di un direttore di struttura complessa della medesima regione ove ha sede l'azienda interessata alla copertura del posto, e' nominato componente della commissione il primo sorteggiato e si prosegue nel sorteggio fino a individuare almeno due componenti della commissione direttori di struttura complessa in regioni diverse da quella ove ha sede la predetta azienda. Se all'esito del sorteggio di cui al secondo o al terzo periodo la meta' dei direttori di struttura complessa non e' di genere diverso, si prosegue nel sorteggio fino ad assicurare ove possibile l'effettiva parita' di genere nella composizione della commissione, fermo restando il criterio territoriale di cui al terzo periodo. Assume le funzioni di presidente della commissione il componente con maggiore anzianita' di servizio tra i tre direttori sorteggiati. In caso di parita' nelle deliberazioni della commissione prevale il voto del presidente. In deroga alle disposizioni di cui al primo periodo, nella provincia autonoma di Bolzano la selezione per il conferimento degli incarichi di direzione di struttura complessa e' effettuata da una commissione composta dal direttore sanitario dell'azienda interessata e da tre direttori di struttura complessa nella medesima disciplina dell'incarico da conferire, dei quali almeno un responsabile di struttura complessa in regione diversa da quella ove ha sede l'azienda interessata alla copertura del posto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la commissione riceve dall'azienda il profilo professionale del dirigente da incaricare. Sulla base dell'analisi comparativa dei curricula, dei titoli professionali posseduti, avuto anche riguardo alle necessarie competenze organizzative e gestionali, dei volumi dell'attivita' svolta, dell'aderenza al profilo ricercato e degli esiti di un colloquio, la commissione attribuisce a ciascun candidato un punteggio complessivo secondo criteri fissati preventivamente e redige la graduatoria dei candidati. Il direttore generale dell'azienda sanitaria procede alla nomina del candidato che ha conseguito il miglior punteggio. A parita' di punteggio prevale il candidato piu' giovane di eta'. L'azienda sanitaria interessata puo' preventivamente stabilire che, nei due anni successivi alla data del conferimento dell'incarico, nel caso di dimissioni o decadenza del dirigente a cui e' stato conferito l'incarico, si procede alla sostituzione conferendo l'incarico mediante scorrimento della graduatoria dei candidati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la nomina dei responsabili di unita' operativa complessa a direzione universitaria e' effettuata dal direttore generale d'intesa con il rettore, sentito il dipartimento universitario competente ovvero, laddove costituita, la competente struttura di raccordo interdipartimentale, sulla base del curriculum scientifico e professionale del responsabile da nominare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il profilo professionale del dirigente da incaricare, i curricula dei candidati, i criteri di attribuzione del punteggio, la graduatoria dei candidati e la relazione della commissione sono pubblicati nel sito internet dell'azienda prima della nomina. I curricula dei candidati e l'atto motivato di nomina sono pubblicati nei siti internet istituzionali dell'ateneo e dell'azienda ospedaliero-universitaria interessati.
 
 L'incarico di direttore di struttura complessa e' soggetto a conferma al termine di un periodo di prova di sei mesi, prorogabile di altri sei, a decorrere dalla data di nomina a detto incarico, sulla base della valutazione di cui al comma 5.
 
@@ -785,6 +2375,38 @@ I contratti collettivi di lavoro stabiliscono il trattamento economico aggiuntiv
 ## Art. 15-quinquies. — (Caratteristiche del rapporto di lavoro esclusivo dei dirigenti sanitari)
 
 Il rapporto di lavoro esclusivo dei dirigenti sanitari comporta la totale disponibilita' nello svolgimento delle funzioni dirigenziali attribuite dall'azienda, nell'ambito della posizione ricoperta e della competenza professionale posseduta e della disciplina di appartenenza, con impegno orario contrattualmente definito.
+
+2.
+                        
+                            
+                                Il rapporto di lavoro esclusivo comporta l'esercizio dell'attivita' professionale nelle seguenti tipologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il diritto all'esercizio di attivita' libero professionale individuale, al di fuori dell'impegno di servizio, nell'ambito delle strutture aziendali individuate dal direttore generale d'intesa con il collegio di direzione; salvo quanto disposto dal comma 11 dell'articolo 72 della legge 23 dicembre 1998, n. 448; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la possibilita' di partecipazione ai proventi di attivita' a pagamento svolta in equipe, al di fuori dell'impegno di servizio, all'interno delle strutture aziendali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la possibilita' di partecipazione ai proventi di attivita', richiesta a pagamento da singoli utenti e svolta individualmente o in equipe, al di fuori dell'impegno di servizio, in strutture di altra azienda del Servizio sanitario nazionale o di altra struttura sanitaria non accreditata, previa convenzione dell'azienda con le predette aziende e strutture; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la possibilita' di partecipazione ai proventi di attivita' professionali, richieste a pagamento da terzi all'azienda, quando le predette attivita' siano svolte al di fuori dell'impegno di servizio e consentano la riduzione dei tempi di attesa, secondo programmi predisposti dall'azienda stessa, sentite le equipes dei servizi interessati. Le modalita' di svolgimento delle attivita' di cui al presente comma e i criteri per l'attribuzione dei relativi proventi ai dirigenti sanitari interessati nonche' al personale che presta la propria collaborazione sono stabiliti dal direttore generale in conformita' alle previsioni dei contratti collettivi nazionali di lavoro. L'azienda disciplina i casi in cui l'assistito puo' chiedere all'azienda medesima che la prestazione sanitaria sia resa direttamente dal dirigente scelto dall'assistito ed erogata al domicilio dell'assistito medesimo, in relazione alle particolari prestazioni sanitarie richieste o al carattere occasionale o straordinario delle prestazioni stesse o al rapporto fiduciario gia' esistente fra il medico e l'assistito con riferimento all'attivita' libero professionale intramuraria gia' svolta individualmente o in equipe nell'ambito dell'azienda, fuori dell'orario di lavoro.
 
 Per assicurare un corretto ed equilibrato rapporto tra attivita' istituzionale e corrispondente attivita' libero professionale e al fine anche di concorrere alla riduzione progressiva delle liste di attesa, l'attivita' libero professionale non puo' comportare, per ciascun dipendente, un volume di prestazioni superiore a quella assicurato per i compiti istituzionali. La disciplina contrattuale nazionale definisce il corretto equilibrio fra attivita' istituzionale e attivita' libero professionale nel rispetto dei seguenti principi: l'attivita' istituzionale e' prevalente rispetto a quella libero professionale, che viene esercitata nella salvaguardia delle esigenze del servizio e della prevalenza dei volumi orari di attivita' necessari per i compiti istituzionali; devono essere comunque rispettati i piani di attivita' previsti dalla programmazione regionale e aziendale e conseguentemente assicurati i relativi volumi prestazionali ed i tempi di attesa concordati con le equipe; l'attivita' libero professionale e' soggetta a verifica da parte di appositi organismi e sono individuate penalizzazioni consistenti anche nella sospensione del diritto all'attivita' stessa, in caso di violazione delle disposizioni di cui al presente comma o di quelle contrattuali.
 
@@ -997,7 +2619,79 @@ La regione disciplina la composizione e le funzioni del Comitato di dipartimento
 
 ## Art. 18. — Norme finali e transitorie
 
+1.
+                        
+                            
+                                Il Governo, con atto regolamentare, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, adegua la vigente disciplina concorsuale del personale del Servizio sanitario nazionale alle norme contenute nel presente decreto ed alle norme del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, in quanto applicabili, prevedendo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti specifici, compresi i limiti di eta', per l'ammissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i titoli valutabili ed i criteri di loro valutazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le prove di esame; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la composizione delle commissioni esaminatrici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le procedure concorsuali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di nomina dei vincitori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' ed i tempi di utilizzazione delle graduatorie degli idonei.
+
 Fino alla data di entrata in vigore del decreto di cui al comma 1 e salvo quanto previsto dal decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, i concorsi continuano ad essere espletati secondo la normativa del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, e successive modificazioni ed integrazioni ivi compreso l'art. 9 della legge 20 maggio 1985, n. 207.
+
+2-bis.
+                        
+                            
+                                In sede di prima applicazione del presente decreto il primo livello dirigenziale e' articolato in due fasce economiche nelle quali e' inquadrato rispettivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il personale della posizione funzionale corrispondente al decimo livello del ruolo sanitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il personale gia' ricompreso nella posizione funzionale corrispondente al nono livello del ruolo medesimo il quale mantiene il trattamento economico in godimento. 
+ Il personale di cui alla lettera b) in possesso dell'anzianita' di cinque anni nella posizione medesima e' inquadrato, a domanda, previo giudizio di idoneita', nella fascia economica superiore in relazione alla disponibilita' di posti vacanti in tale fascia. Con regolamento da adottarsi entro novanta giorni dalla data di entrata in vigore del decreto legislativo 7 dicembre 1993, n. 517, ai sensi dell'art. 17 della legge 23 agosto 1988, n. 400, dal Presidente del Consiglio dei Ministri, su proposta del Ministro della sanita' di concerto con i Ministri del tesoro e per la funzione pubblica, sono determinati i tempi, le procedure e le modalita' per lo svolgimento dei giudizi di idoneita'. Il personale inquadrato nella posizione funzionale corrispondente all'undicesimo livello del ruolo sanitario e' collocato nel secondo livello dirigenziale.
 
 A decorrere dal 1 gennaio 1994, i concorsi per la posizione funzionale iniziale di ciascun profilo professionale del personale laureato del ruolo sanitario di cui al decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, e successive modificazioni e integrazioni, per i quali non siano iniziate le prove di esame, sono revocati; a decorrere dalla stessa data non possono essere utilizzate le graduatorie esistenti per la copertura dei posti vacanti, salvo che per il conferimento di incarichi temporanei non rinnovabili della durata di otto mesi ((. . .)) per esigenze di carattere straordinario ((, cui non si possa in nessun caso far fronte con il personale esistente all'interno dell'azienda sanitaria)). In mancanza di graduatorie valide, si applica l'articolo 9, comma 17 e seguenti della legge 20 maggio 1985, n. 207.
 
@@ -1036,6 +2730,31 @@ Per le regioni a statuto speciale e per le province autonome di Trento e di Bolz
 
 E' istituita, presso l'Agenzia per i servizi sanitari regionali, la Commissione nazionale per l'accreditamento e la qualita' dei servizi sanitari. Con regolamento adottato su proposta del Ministro della sanita', ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, sono disciplinate le modalita' di organizzazione e funzionamento della Commissione, composta da dieci esperti di riconosciuta competenza a livello nazionale in materia di organizzazione e programmazione dei servizi, economia, edilizia e sicurezza nel settore della sanita'.
 
+2.
+                        
+                            
+                                La Commissione, in coerenza con gli obiettivi indicati dal Piano sanitario nazionale e avvalendosi del supporto tecnico dell'Agenzia per i servizi, sanitari regionali, svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definisce i requisiti in base ai quali le regioni individuano i soggetti abilitati alla verifica del possesso dei requisiti per l'accreditamento delle strutture pubbliche e private di cui all'art. 8-quater, comma 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valuta l'attuazione del modello di accreditamento per le strutture pubbliche e per le strutture private; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esamina i risultati delle attivita' di monitoraggio di cui al comma 3 e trasmette annualmente al Ministro della sanita' e alla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano una relazione sull'attivita' svolta.
+
 Le regioni individuano le modalita' e gli strumenti per la verifica della attuazione del modello di accreditamento, trasmettendo annualmente alla Commissione nazionale i risultati della attivita' di monitoraggio condotta sullo stato di attuazione delle procedure di accreditamento.
 
 ))
@@ -1047,6 +2766,39 @@ Le regioni individuano le modalita' e gli strumenti per la verifica della attuaz
 Anche sulla base degli indicatori e dei dati definiti ai sensi dell'articolo 28, comma 10, della legge 23 dicembre 1998, n.448, il Ministro della sanita', sentita l'Agenzia per i servizi sanitari regionali, determina i valori di riferimento relativi alla utilizzazione dei servizi, ai costi e alla qualita' dell'assistenza anche in relazione alle indicazioni della programmazione nazionale e con comparazioni a livello comunitario relativamente ai livelli di assistenza sanitaria, alle articolazioni per aree di offerta e ai parametri per la valutazione dell'efficienza, dell'economicita' e della funzionalita' della gestione dei servizi sanitari, segnalando alle regioni gli eventuali scostamenti osservati.
 
 Le regioni, anche avvalendosi del supporto tecnico dell'Agenzia per i servizi sanitari regionali, procedono ad una ricognizione delle cause di tali scostamenti ed elaborano programmi operativi di riorganizzazione, di riqualificazione o di potenziamento dei Servizi sanitari regionali, di durata non superiore al triennio.
+
+3.
+                        
+                            
+                                Il Ministro della sanita' e la regione interessata stipulano una convenzione redatta sulla, base di uno schema tipo approvato dal Ministro della sanita', d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, avente ad oggetto le misure di sostegno al programma operativo di cui al comma 2, i cui eventuali oneri sono posti a carico della quota parte del Fondo sanitario nazionale destinata al perseguimento degli obiettivi del Piano sanitario nazionale, ai sensi dell'articolo 1, comma 34-bis, della legge 23 dicembre 1996, n. 662.
+La convenzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    stabilisce le modalita' per l'erogazione dei finanziamenti per l'attuazione dei programmi operativi secondo stati di avanzamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definisce adeguate forme di monitoraggio degli obiettivi intermedi per ogni stato di avanzamento e le modalita' della loro verifica da parte dell'Agenzia per i servizi sanitari regionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individua forme di penalizzazione e di graduale e progressiva riduzione o dilazione dei finanziamenti per le regioni che non rispettino gli impegni convenzionalmente assunti per il raggiungimento degli obiettivi previsti nei programmi concordati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disciplina, nei casi di inerzia regionale nell'adozione nell'attuazione dei programmi concordati, le ipotesi e le forme di intervento del Consiglio dei ministri secondo le procedure e le garanzie di cui all'articolo 2, comma 2-octies.
 
 ))
 

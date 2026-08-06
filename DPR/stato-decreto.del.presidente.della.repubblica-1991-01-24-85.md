@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2003-07-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -115,6 +115,31 @@ Il direttore del Servizio fa parte del consiglio di amministrazione della Presid
 
 ## Art. 15. — Rapporti con altre istituzioni e collaborazioni esterne
 
+1.
+                        
+                            
+                                Per lo svolgimento dei compiti loro assegnati i Servizi tecnici nazionali, in conformita' con gli atti di indirizzo e coordinamento del Comitato di cui all'art. 4, comma 2, della legge: 
+ 
+                            
+                            
+                                a)
+                                
+                                    curano rapporti con i servizi tecnici o analoghe istituzioni di altri Stati e collaborano con organismi della Comunita' economica europea e di altre istituzioni internazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possono destinare proprio personale, in posizione di comando, presso soggetti pubblici le cui attivita' di servizio e di ricerca attengano ai settori di rispettiva competenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si avvalgono, mediante apposite convenzioni, della collaborazione, della consulenza e delle prestazioni tecniche di amministrazioni, autorita', enti ed organismi, pubblici e privati, anche stranieri, che operano nei settori di rispettiva competenza, anche allo scopo di svolgere in comune attivita' strumentali alle proprie funzioni istituzionali. Le convenzioni sono stipulate secondo schemi tipo proposti dal consiglio dei direttori ed approvati dalla Presidenza del Consiglio dei Ministri. Sugli schemi di convenzione con le universita' e gli enti pubblici di ricerca deve essere sentito il Ministro dell'universita' e della ricerca scientifica e tecnologica.
+
 I ricercatori ed il personale docente universitario che svolgono attivita' presso i Servizi, sulla base di apposite convenzioni, sono impiegati in progetti specifici di ricerca, ovvero nell'attivita' finalizzata al compimento di compiti istituzionali.
 
 Il personale dei Servizi comandato sulla base di apposite convenzioni presso gli istituti universitari e di ricerca potra' parimenti essere utilizzato in progetti di ricerca di comune interesse, ovvero in compiti comunque connessi con l'attivita' di studio e ricerca dell'istituto presso cui e' comandato.
@@ -156,7 +181,62 @@ Al personale dei ruoli dei servizi compete l'indennita' di cui all'art. 32, comm
 
 ## Art. 20. — Compiti del Servizio geologico nazionale
 
+1.
+                        
+                            
+                                Il Servizio geologico nazionale, fermo restando quanto disposto dall'art. 9, comma 3, della legge, esercita le competenze previste all'art. 2 del decreto del Presidente del Consiglio dei Ministri in data 28 ottobre 1988, pubblicato nella Gazzetta Ufficiale n. 4 del 5 gennaio 1989, ed in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rileva, aggiorna e pubblica la carta geologica d'Italia, utilizzando scale topografiche idonee alle diverse esigenze; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    rileva, aggiorna e pubblica carte geotematiche a varie scale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    armonizza le altre attivita' di cartografia geologica di enti ed organismi operanti a livello nazionale, regionale e locale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 5 APRILE 1993, N. 106)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 5 APRILE 1993, N. 106)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esegue ricerche, controlli e studi applicativi necessari per il corretto svolgimento delle proprie attribuzioni, per la conoscenza delle risorse dell'ambiente terrestre e marittimo nazionale e per la previsione dei rischi geologici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esprime pareri nel campo delle scienze della terra nei procedimenti relativi ad opere o ad attivita' di competenza di enti locali, amministrazioni dello Stato anche ad ordinamento autonomo, regioni ed enti pubblici, ovvero ad opere o attivita' di privati soggette ad autorizzazione o vigilanza.
+
+((COMMA ABROGATO DAL D.P.R. 5 APRILE 1993, N. 106)).
 
 ## Art. 21. — Organizzazione del Servizio geologico nazionale
 
@@ -189,9 +269,159 @@ I settori sono cosi' definiti:
 
 Il Servizio idrografico e mareografico nazionale, fatte salve le competenze delle regioni e delle province autonome di Trento e di Bolzano, provvede al rilevamento, validazione, archiviazione e pubblicazione delle grandezze climatiche, idrologiche e idrografiche interessanti il reticolo idrografico superficiale e sotterraneo, le lagune, il clima marittimo, i livelli marini ed i litorali. La finalita' e' quella di descrivere i fenomeni climatici, idrologici e marittimi in rapporto alle necessita' della difesa del suolo ed alle proposte di utilizzazione delle risorse idriche, in attuazione del disposto di cui all'art. 9, comma 3, della legge.
 
+2.
+                        
+                            
+                                Il Servizio idrografico e mareografico nazionale svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede al rilievo sistematico e alle elaborazioni delle grandezze relative al clima terrestre; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede al rilievo sistematico dei corsi d'acqua; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede al rilievo sistematico ed alle elaborazioni delle grandezze relative ai deflussi superficiali, al trasporto solido, ai deflussi sotterranei e delle sorgenti, nonche' all'osservazione e lo studio dell'erosione superficiale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    provvede al rilievo sistematico ed alla elaborazione delle grandezze relative al clima marittimo, allo stato dei litorali ed ai livelli marini; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 5 APRILE 1993, N. 106)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 5 APRILE 1993, N. 106)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    provvede alla pubblicazione sistematica degli elementi osservati ed elaborati; provvede inoltre alla pubblicazione di cartografie tematiche; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    esamina ed esprime parere sulle domande di grandi derivazioni e sui progetti di opere civili idrauliche e di bonifica di competenza statale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    collabora con le regioni, gli enti competenti e le amministrazioni locali, alla tutela delle acque dall'inquinamento mediante l'accertamento della misura della quantita' e della qualita' dei corpi idrici.
+
 Restano affidati al Servizio idrografico e mareografico nazionale tutti i compiti demandati dalle vigenti disposizioni di legge al servizio idrografico ed al servizio mareografico del Ministero dei lavori pubblici.
 
 ## Art. 23. — Organizzazione del Servizio idrografico e mareografico nazionale
+
+1.
+                        
+                            
+                                Il Servizio idrografico e mareografico nazionale e' organizzato secondo la seguente articolazione territoriale, comprendente la direzione centrale, dieci uffici compartimentali, sette sezioni staccate e l'officina di Stra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ufficio idrografico e mareografico centrale, con sede in Roma, con funzioni di vigilanza, direzione e coordinamento di tutti gli uffici, sezioni, officine e laboratori del servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ufficio idrografico e mareografico di Venezia, con sezioni staccate a Udine, Padova e l'officina di Stra, competente sui bacini sfocianti sul litorale alto-Adriatico, a nord del Po e sul tratto costiero compreso tra il confine italo-jugoslavo e Porto Levante compreso, incluse le superfici lagunari venete; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ufficio idrografico e mareografico di Parma, con sezioni staccate a Milano, Torino e Sondrio, competente sul bacino del Po e sul tratto costiero compreso tra la foce di Porto Levante e la foce del Porto Garibaldi compreso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ufficio idrografico e mareografico di Bologna, competente sui bacini con foce sul litorale adriatico dal Reno al Tronto e sul tratto costiero compreso tra Porto Garibaldi e la foce del Tronto compresa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ufficio idrografico e mareografico di Pescara, competente sui bacini con foce sul litorale adriatico, dal Salinello al Fortore e nel tratto costiero compreso tra la foce del Tronto e la foce del Fortore compresa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ufficio idrografico e mareografico di Bari, competente sui bacini con foce sul litorale adriatico e ionico, dal Candelaro al Lato e nel tratto costiero compreso tra la foce del Fortore e la foce del Lato compresa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ufficio idrografico e mareografico di Catanzaro, con sezione staccata a Potenza, competente sui bacini con foce sul litorale ionico e tirrenico, dal Bradano al Noce e nel tratto costiero compreso tra la foce del Lato e la foce del Noce compresa; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ufficio idrografico e mareografico di Napoli, competente sui bacini con foce sul litorale tirrenico dal Garigliano al Bussento e nel tratto compreso tra la foce del Noce e la foce del Garigliano compresa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ufficio idrografico e mareografico di Roma, competente sui bacini con foce sul litorale tirrenico dal Fiora al lago di Fondi e nel tratto costiero compreso tra la foce del Garigliano e la foce del Fiora compresa; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ufficio idrografico e mareografico di Pisa, con sezione staccata a Firenze, competente sui bacini con foce sul litorale tirrenico dal Serchio all'Albegna e nel tratto costiero compreso tra la foce del Fiora e la foce del Magra compresa; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    ufficio idrografico e mareografico di Genova, competente sui bacini con foce sul litorale ligure dal confine italo-francese al Magra e nel tratto costiero compreso tra la foce del Magra ed il confine italo-francese.
 
 Il Servizio idrografico e mareografico nazionale adotta indirizzi per gli uffici idrografici di Bolzano, Trento, Cagliari e Palermo al fine di assicurare il coordinamento fra l'attivita' del Servizio nazionale ed i suddetti uffici.
 
@@ -219,9 +449,165 @@ Agli uffici compartimentali sono preposti primi dirigenti tecnici, ad eccezione 
 
 ## Art. 24. — Compiti del Servizio nazionale dighe
 
+1.
+                        
+                            
+                                Il Servizio nazionale dighe, fermo restando quanto disposto dall'art. 9, comma 3, della legge, in conformita' a quanto previsto dal decreto del Presidente della Repubblica 1 novembre 1959, n. 1363, nel rispetto delle norme tecniche emanate in applicazione della legge 2 febbraio 1974, n. 64, ed in particolare del decreto del Ministro dei lavori pubblici 24 marzo 1982, pubblicato nella Gazzetta Ufficiale n. 44 del 4 agosto 1982, nonche' delle disposizioni contenute nella circolare 4 dicembre 1987, pubblicata nella Gazzetta Ufficiale n. 14 del 19 gennaio 1988, provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DAL D.L. 8 AGOSTO 1994, N. 507, CONVERTITO CON MODIFICAZIONI DALLA L. 21 OTTOBRE 1994, N. 584; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'esame dei progetti delle opere di sbarramento dei corsi d'acqua per la formazione di invasi e la regolazione dei deflussi, ivi comprese le opere di ritenuta destinate alla formazione di serbatoi idrici artificiali realizzati fuori alveo, anche con riferimento allo stato dei territori e degli insediamenti posti a monte ed a valle del serbatoio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'esame dei progetti di varianti se l'opera e' stata gia' approvata o in corso di costruzione e delle loro modifiche se gia' costruita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla vigilanza sulla costruzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla vigilanza sulle operazioni di controllo del comportamento delle dighe in esercizio fin dagli invasi sperimentali, essendo compresi, in tali attivita', i compiti che il decreto del Presidente della Repubblica 1 novembre 1959, n. 1363, attribuisce agli uffici del genio civile, salvo quelli di cui all'art. 1, comma 2, ed all'art. 7, comma 1, che restano attribuiti agli uffici periferici del Ministero dei lavori pubblici, alle regioni ed alle province autonome di Trento e Bolzano secondo le rispettive competenze.
+
+2.
+                        
+                            
+                                Il Servizio nazionale dighe altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DAL D.P.R. 5 APRILE 1993, N. 106; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    collabora con il Ministero dei lavori pubblici e con il Consiglio superiore dei lavori pubblici per l'aggiornamento delle norme tecniche per la progettazione e costruzione delle dighe di ritenuta.
+
+3.
+                        
+                            
+                                Per le opere di nuova costruzione o per modifiche, varianti ed adeguamenti di quelle esistenti, il Servizio nazionale dighe: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esamina ed esprime parere sul progetto di massima dello sbarramento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esamina il progetto esecutivo che invia successivamente, per esame e parere, al Consiglio superiore dei lavori pubblici, accompagnandolo con propria relazione e con lo schema del foglio di condizioni per la costruzione dello sbarramento e delle opere accessorie; nei casi di limitata importanza il Servizio nazionale dighe puo' procedere direttamente all'approvazione dei progetti esecutivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifica, prima dell'inizio della costruzione, l'adeguatezza degli impianti di cantiere per l'approvvigionamento dei materiali elementari e per la confezione e produzione di quelli composti e la loro posa in opera; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rilascia il nulla osta all'inizio della costruzione dello sbarramento, previo accertamento dello stato della superficie di fondazione con riferimento alle ipotesi progettuali, nonche' ai rilievi ed esplorazioni svolti durante la fase di progettazione; ordina eventuali ulteriori accertamenti per completare il quadro delle conoscenze; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    segue le fasi costruttive dell'opera di sbarramento e delle opere accessorie, raccogliendo ed ordinando, con la continua e sistematica sorveglianza e partecipazione dell'assistente governativo, osservazioni, misure e campioni dei materiali prodotti e posti in opera; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    autorizza, previo parere della commissione di collaudo, gli invasi sperimentali; puo' revocare l'autorizzazione o variare le modalita', rispettivamente, per manifestazioni che possano far dubitare della stabilita' delle opere o per riportare, in generale, il grado di sicurezza entro i limiti regolamentari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    approva, prima dell'inizio dei lavori di costruzione dello sbarramento, il relativo foglio di condizioni, nonche', successivamente, quello per l'esercizio e la manutenzione.
+
 COMMA ABROGATO DAL D.L. 8 AGOSTO 1994, N. 507, CONVERTITO CON MODIFICAZIONI DALLA L. 21 OTTOBRE 1994, N. 584.
 
 Il Servizio nazionale dighe provvede, durante la costruzione, le fasi di collaudo e l'esercizio dell'impianto, alla vigilanza sulle operazioni di controllo del comportamento delle opere di sbarramento ed accessorie e delle zone interessate dall'invaso, che i concessionari ed i gestori sono tenuti a svolgere.
+
+6.
+                        
+                            
+                                L'attivita' di vigilanza, da effettuare avvalendosi anche di esperti, si svolge con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    ispezioni per valutare lo stato delle opere (diga e manufatti accessori, serbatoio); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controllo sui sistemi di osservazione e misura, promuovendo l'installazione dei sistemi moderni per l'osservazione anche a distanza del comportamento statico e dinamico delle opere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    controllo delle analisi e delle elaborazioni degli elementi rilevati, svolte dal concessionario o gestore delle opere; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prescrizione di indagini specifiche, sperimentali e/o teoriche, per manifestazioni di eventi singolari o misurati che consentano di interpretare i fenomeni e di individuare eventuali provvedimenti atti a restituire il richiesto grado di sicurezza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promozione ed acquisizione degli studi sulle conseguenze sui territori di valle per manovre normali ed eccezionali degli organi di scarico della diga e per l'ipotetico crollo della diga stessa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    limitazione opportuna degli invasi in presenza di circostanze che facciano supporre una riduzione del grado di sicurezza dell'opera e segnalazione alla autorita' di protezione civile ove permanga la situazione di pericolo.
 
 Per gli studi e ricerche su argomenti specifici il Servizio nazionale dighe puo' avvalersi, per la parte propriamente idraulica, del Centro sperimentale per modelli idraulici di Voltabarozzo del Magistrato alle acque di Venezia. ((4))
 
@@ -247,6 +633,73 @@ Il Servizio nazionale dighe e' articolato, a livello centrale, in aree e settori
  Settore 8 - Sistemi di osservazione, misura e trasmissione dati. 
  Settore amministrativo.
 
+2.
+                        
+                            
+                                Il Servizio nazionale dighe e' articolato, a livello periferico, nei seguenti uffici aventi competenza territoriale in base ai bacini idrografici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ufficio di Venezia: bacini idrografici sfocianti nel litorale adriatico a nord del Po e fino al confine con la Jugoslavia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ufficio di Milano: bacino idrografico del Po a valle della confluenza con il fiume Ticino; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ufficio di Torino: bacino idrografico del Po, chiuso immediatamente a valle della confluenza con il fiume Ticino, nonche' sui bacini liguri dal confine francese al Magra escluso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ufficio di Firenze: bacini idrografici sfocianti nel mare Tirreno dal Magra incluso al Fiora escluso e quelli sfocianti nel mare Adriatico a sud del Po fino al Conca incluso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ufficio di Perugia: bacini idrografici sfocianti nel mare Tirreno dal Fiora incluso al Tevere incluso e quelli sfocianti nel mare Adriatico dal fiume Conca escluso al fiume Pescara incluso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ufficio di Napoli: bacini idrografici sfocianti nel mare Tirreno a sud del Tevere fino al Lao escluso e quelli sfocianti nel mare Adriatico a sud del fiume Pescara escluso e nel mare Ionio a nord del fiume Sinni incluso; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ufficio di Catanzaro: bacini idrografici della Calabria dal Lao incluso al Sinni escluso; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ufficio di Palermo: bacini idrografici della Sicilia; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ufficio di Cagliari: bacini idrografici della Sardegna.
+
 Agli uffici sono preposti primi dirigenti tecnici.
 
 COMMA ABROGATO DAL D.P.R. 5 APRILE 1993, N. 106. ((4))
@@ -259,6 +712,89 @@ COMMA ABROGATO DAL D.P.R. 5 APRILE 1993, N. 106. ((4))
 ## - CAPO II ORDINAMENTO DEI SERVIZI Sezione IV IL SERVIZIO SISMICO NAZIONALE
 
 ## Art. 26. — Compiti del Servizio sismico nazionale
+
+1.
+                        
+                            
+                                Al Servizio sismico nazionale, fermo restando quanto previsto dall'art. 9, comma 3, della legge, sono attribuite le seguenti competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la raccolta sistematica in occasione di eventi sismici di tutte le informazioni di carattere macrosismico; tale attivita' puo' essere svolta anche all'estero per eventi maggiormente significativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la raccolta di informazioni inerenti la sismicita' storica del territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo studio della propagazione delle onde sismiche in relazione alla natura geologica e geotecnica dei terreni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 5 APRILE 1993, N. 106)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 5 APRILE 1993, N. 106)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lo studio degli effetti dei sismi sui manufatti e gli studi teorico-sperimentali sui materiali, gli elementi costruttivi e le tecnologie delle costruzioni da realizzarsi in zona sismica, nonche' le tecniche di intervento sulle costruzioni esistenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    lo studio e la definizione di metodi per la valutazione della pericolosita' sismica del territorio, con particolare riguardo ai criteri di macrozonazione e di microzonazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    lo studio di metodi per la definizione e il rilievo della vulnerabilita' sismica del patrimonio edilizio costruito; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    lo studio di metodi per la valutazione del rischio sismico, nonche' di criteri, strategie e priorita' per interventi finalizzati alla sua riduzione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la formulazione di proposte al Ministero dei lavori pubblici per la definizione e/o l'aggiornamento delle norme tecniche per le costruzioni e per la classificazione, di cui all'art. 3, della legge 2 febbraio 1974, n. 64, nonche' la formulazione dei criteri per l'acquisizione degli elementi necessari per la prevenzione del rischio sismico ai sensi dell'art. 20, secondo comma, della legge 10 dicembre 1981, n. 741; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'attivita' di informazione ed educazione nel settore, nonche' di formazione e aggiornamento, rivolta ai tecnici operanti nel settore, con particolare riferimento all'evoluzione del quadro normativo.
 
 Sono fatti salvi i compiti che la normativa vigente assegna all'Istituto nazionale di geofisica, che concorre, ai sensi dell'art. 9, comma 3, della legge, all'organizzazione ed alla gestione della rete sismica nazionale.
 

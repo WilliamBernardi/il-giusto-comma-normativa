@@ -8,8 +8,8 @@ codice_redazionale: 007G0001
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,31 @@ Entrata in vigore del provvedimento: 25/1/2007
 Uditi i pareri resi dal Consiglio di Stato, espressi dalla Sezione consultiva per gli atti normativi nell'adunanza del 16 maggio 2005 e nell'adunanza dell'11 aprile 2006;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «decreto legislativo», il decreto legislativo 2 maggio 1994, n. 319, cosi' come modificato dal decreto legislativo 8 luglio 2003, n. 277, attuativo della direttiva 2001/19/CE;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «decreto ministeriale di riconoscimento», il decreto del Ministro della giustizia adottato ai sensi dell'articolo 14, comma 6, del decreto legislativo 2 maggio 1994, n. 319;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «richiedente», il cittadino comunitario che domanda, ai fini dell'esercizio della professione di giornalista professionista in Italia, il riconoscimento del titolo rilasciato dal Paese di appartenenza attestante una formazione professionale al cui possesso la legislazione del medesimo Stato subordina l'esercizio o l'accesso alla professione.
 
 ## Art. 2. — Contenuto della prova attitudinale
 
@@ -81,11 +106,96 @@ Il tirocinante e' tenuto all'osservanza delle norme di deontologia professionale
 
 Il Consiglio nazionale dell'Ordine dei giornalisti istituisce e tiene presso di se' il registro dei tirocinanti nel quale devono essere iscritti coloro che, muniti di decreto ministeriale di riconoscimento di titolo conseguito all'estero, intendono svolgere il tirocinio di adattamento.
 
+2.
+                    
+                        
+                            Nel registro dei tirocinanti sono riportati:
+ 
+                        
+                        
+                            a)
+                            
+                                numero d'ordine attribuito al tirocinante, cognome e nome, luogo e data di nascita, residenza, titolo di studio e numero di codice fiscale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                data di decorrenza dell'iscrizione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                indicazione dell'organo o degli organi di informazione per i quali e' svolto il tirocinio di adattamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                eventuali provvedimenti di sospensione del tirocinio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                data di compimento del periodo di effettivo tirocinio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                data dei rilascio del certificato di compiuto tirocinio;
+
+                            
+                        
+                        
+                            g)
+                            
+                                data della cancellazione con relativa motivazione.
+
 ## Art. 10. — Iscrizione
 
 L'iscrizione al registro dei tirocinanti si ottiene a seguito di istanza al Consiglio nazionale dell'Ordine dei giornalisti, redatta secondo lo schema allegato sub C) al presente regolamento.
 
 Nella domanda il richiedente deve dichiarare di impegnarsi ad effettuare il tirocinio di adattamento, indicando il relativo od i relativi organi di informazione.
+
+3.
+                    
+                        
+                            La domanda deve essere corredata dai seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                copia di un documento di identita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autenticata del decreto ministeriale di riconoscimento, ai sensi del decreto legislativo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attestazione di disponibilita' del direttore o dei direttori degli organi di informazione per i quali si svolge il tirocinio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                n. 2 fotografie autenticate formato tessera; in alternativa, a richiesta dell'interessato, le fotografie possono essere autenticate dall'ufficio ricevente.
 
 Nella domanda, sottoscritta dal richiedente, devono essere elencati i documenti allegati; deve altresi' essere espresso l'impegno a dare comunicazione delle eventuali sopravvenute variazioni entro trenta giorni dal verificarsi delle stesse.
 
@@ -128,6 +238,38 @@ Il Consiglio nazionale delibera la sospensione per un periodo comunque non super
 La sospensione e l'interruzione del tirocinio sono dichiarate dal Consiglio nazionale con provvedimento comunicato all'interessato e al direttore dell'organo di informazione presso cui si svolge il tirocinio entro quindici giorni con lettera raccomandata con avviso di ricevimento.
 
 ## Art. 14. — Cancellazione dal registro dei tirocinanti
+
+1.
+                    
+                        
+                            Il Consiglio nazionale delibera la cancellazione dal registro dei tirocinanti nei seguenti casi:
+ 
+                        
+                        
+                            a)
+                            
+                                rinuncia all'iscrizione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dichiarazione di interruzione del tirocinio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                condanna definitiva per un delitto contro la pubblica amministrazione, contro l'amministrazione della giustizia, contro la fede pubblica, contro l'economia pubblica, oppure per ogni altro delitto non colposo, per il quale la legge commini la pena della reclusione non inferiore nel minimo di due anni o nel massimo di cinque anni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                rilascio del certificato di iscrizione nell'elenco dei giornalisti professionisti.
 
 La delibera del Consiglio nazionale di cancellazione dell'iscrizione nel registro dei tirocinanti deve essere comunicata all'interessato e al direttore dell'organo di informazione presso cui e' stato svolto il tirocinio entro quindici giorni con lettera raccomandata con avviso di ricevimento, salvo che la delibera di cancellazione sia stata comunicata contestualmente a quella di interruzione del tirocinio.
 

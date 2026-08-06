@@ -7,8 +7,8 @@ urn: urn:nir:ministero.istruzione.universita.e.ricerca:decreto:2018-05-03;59
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,15 +28,167 @@ Il presente regolamento si applica alle scuole superiori per mediatori linguisti
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento, si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per Ministro, il Ministro dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Ministero, il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per Direzione, la Direzione generale per lo studente, lo sviluppo e l'internazionalizzazione della formazione superiore; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per Direttore generale, il Direttore della Direzione generale per lo studente, lo sviluppo e l'internazionalizzazione della formazione superiore; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per decreto, il decreto ministeriale 10 gennaio 2002, n. 38, recante «Riordino della disciplina delle scuole di cui alla legge 11 ottobre 1986, n. 697, adottato in attuazione dell'articolo 17, comma 96, lettera a), della legge 15 maggio 1997, n. 127»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per scuole superiori per mediatori linguistici, le scuole pubbliche e private aventi come finalita' la gestione di corsi per mediatori linguistici per i fini di cui alla legge 11 ottobre 1986, n. 697; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per corsi, i corsi di studio per mediatori linguistici di primo ciclo di durata triennale e di secondo ciclo di durata biennale istituiti presso le scuole riconosciute ai sensi rispettivamente del decreto ministeriale 10 gennaio 2002, n. 38, e del presente regolamento; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per Commissione, la Commissione consultiva e di valutazione di cui all'articolo 6 del presente regolamento; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per ANVUR, l'Agenzia nazionale di valutazione del sistema universitario e della ricerca istituita ai sensi dell'articolo 2, commi da 138 a 141 del decreto-legge 3 ottobre 2006, n. 262, convertito con modificazioni dalla legge 24 novembre 2006, n. 286; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per CUN, il Consiglio universitario nazionale quale organo elettivo di rappresentanza del sistema universitario ai sensi della legge 16 gennaio 2006, n. 18, recante «Riordino del Consiglio universitario nazionale».
+
 ## Art. 3. — Modifiche al decreto ministeriale 10 gennaio 2002, n. 38
 
 I richiami al decreto ministeriale 3 novembre 1999, n. 509, contenuti nel decreto, si intendono riferiti al decreto ministeriale 22 ottobre 2004, n. 270.
+
+2.
+                    
+                        
+                            Al decreto sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 2, le parole «classe delle "Lauree universitarie in scienze della mediazione linguistica", di cui al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 4 agosto 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 245 del 19 ottobre 2000» sono sostituite dalle seguenti: «alla classe delle lauree in mediazione linguistica L-12 di cui al decreto ministeriale 16 marzo 2007, pubblicato nella Gazzetta Ufficiale, Serie generale, n. 155, supplemento ordinario n. 153 del 6 luglio 2007, concernente la determinazione delle classi di laurea»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 9, le parole «classe n. 3 delle lauree universitarie - Scienze della mediazione linguistica di cui all'allegato 3 al decreto ministeriale 4 agosto 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 245 del 19 ottobre 2000» sono sostituite dalle seguenti: «alla classe delle lauree in mediazione linguistica L-12 di cui al decreto ministeriale 16 marzo 2007, pubblicato nella Gazzetta Ufficiale, Serie generale, n. 155, supplemento ordinario n. 153 del 6 luglio 2007, concernente la determinazione delle classi di laurea»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 7, comma 1, le parole «la classe delle "Lauree universitarie in scienze della mediazione linguistica" di cui all'allegato n. 3 al decreto ministeriale 4 agosto 2000» sono sostituite dalle seguenti: «la classe delle lauree in mediazione linguistica L-12 di cui al decreto ministeriale 16 marzo 2007, pubblicato nella Gazzetta Ufficiale, Serie generale, n. 155, supplemento ordinario n. 153 del 6 luglio 2007, concernente la determinazione delle classi di laurea»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 8, comma 1, le parole «specialistica appartenenti alle classi delle lauree universitarie specialistiche in "Interpretariato di conferenza" (n. 39/S) e in "Traduzione letteraria e traduzione tecnico-scientifica" (n. 104/S) di cui decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 28 novembre 2000 pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 18 del 23 gennaio 2001, con le modalita' di cui all'articolo 5 dello stesso decreto» sono sostituite dalle seguenti: «magistrale appartenenti alla classe delle lauree magistrali in traduzione specialistica e interpretariato (LM-94) di cui all'allegato al decreto ministeriale 16 marzo 2007, pubblicato nella Gazzetta Ufficiale, Serie generale, n. 157, supplemento ordinario n. 155 del 6 luglio 2007, relativo alle classi di laurea magistrale, con le modalita' di cui all'articolo 6 dello stesso decreto»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 13, comma 1, e nella rubrica, la parola: «specialistica» e' sostituita dalla seguente: «magistrale».
 
 ## Art. 4. — Istituzione dei corsi di secondo ciclo
 
 Fermo restando quanto previsto dal decreto per l'istituzione e attivazione di nuove scuole superiori per mediatori linguistici e di corsi di primo ciclo, le scuole superiori per mediatori linguistici gia' riconosciute ai sensi del decreto, e che hanno attivato corsi di studio di durata triennale da almeno sei anni, possono attivare previo accreditamento corsi di secondo ciclo di durata biennale.
 
 L'accreditamento dei corsi di secondo ciclo e' accordato dal Ministero previo parere obbligatorio e non vincolante della Commissione, secondo la procedura di cui all'articolo 7.
+
+3.
+                    
+                        
+                            La Commissione esprime il parere sulla sussistenza delle condizioni atte a garantire: 
+ 
+                        
+                        
+                            a)
+                            
+                                la qualita' formativa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                adeguate risorse finanziarie; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una congrua dotazione di aule, laboratori linguistici, ambienti multimediali, attrezzature e strumentazioni informatiche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la presenza di biblioteche e cabine di simultanea in proporzione al numero degli studenti ammissibili; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la continuita' e la stabilita' della didattica nel preminente interesse degli studenti e del corpo docente.
 
 Le scuole superiori per mediatori linguistici di cui al comma 1 devono disporre di qualificati docenti con comprovate competenze in ambito di didattica e ricerca nelle discipline linguistiche, comprese quelle professionalizzanti.
 
@@ -64,6 +216,38 @@ Con decreto del Ministro, da adottare entro 60 giorni dalla pubblicazione del pr
 
 La Commissione esprime il parere obbligatorio sulle istanze di riconoscimento delle scuole superiori per mediatori linguistici e di accreditamento dei corsi di studio di durata triennale e dei corsi di secondo ciclo.
 
+3.
+                    
+                        
+                            La Commissione e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                quattro docenti universitari di ruolo anche in quiescenza, designati dal CUN, afferenti ai settori scientifico-disciplinari di riferimento per le attivita' formative caratterizzanti della classe di laurea L-12 e della classe di laurea magistrale LM-94; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quattro esperti scelti dal Ministro tra persone di elevata qualificazione e con comprovata esperienza e capacita' relative ai settori delle lingue e dell'interpretariato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un esperto in valutazione e programmazione designato dall'ANVUR; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Ministero.
+
 Ai lavori della Commissione partecipa, con voto consultivo, il dirigente del competente Ufficio della direzione, responsabile del procedimento. Con il decreto di cui al comma 1 il Ministro designa, tra i componenti nominati, il Presidente, il cui voto prevale in caso di votazioni con esito di parita'.
 
 La Commissione dura in carica tre anni e i singoli componenti possono essere confermati una sola volta.
@@ -83,6 +267,38 @@ La Commissione tecnico-consultiva di cui all'articolo 3 del decreto resta in car
 ## Art. 7. — Procedura di accreditamento
 
 Le scuole superiori per mediatori linguistici che intendono attivare corsi di secondo ciclo ai sensi dell'articolo 4 devono presentare apposita istanza al Ministero.
+
+2.
+                    
+                        
+                            L'istanza, presentata esclusivamente secondo le modalita' di cui al decreto legislativo 7 marzo 2005, n. 82, deve essere corredata da: 
+ 
+                        
+                        
+                            a)
+                            
+                                proposta di modifica dello statuto della scuola adeguata alla proposta di attivazione del secondo ciclo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                regolamento didattico dei corsi di secondo ciclo proposti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione attestante i requisiti di qualificazione didattico-scientifica e di ricerca del personale docente, atti a garantire la copertura dell'intera offerta formativa e risultanti anche dal curriculum di studio e professionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                documentazione attestante il possesso dei seguenti requisiti adeguati all'ampliamento dell'offerta formativa e al potenziale numero di iscritti: dimensione delle aule, numerosita' delle classi, dotazione dei laboratori. Con provvedimento ministeriale, da adottarsi entro 90 giorni dall'entrata in vigore del presente regolamento, sono definiti i parametri relativi ai predetti requisiti.
 
 Entro 30 giorni dal ricevimento dell'istanza, il responsabile del procedimento del Ministero trasmette alla Commissione di cui all'articolo 6 copia dell'istanza e della relativa documentazione secondo le modalita' di cui al comma 2. Sono consentite integrazioni all'istanza stessa ove il procedimento di accreditamento non sia stato nel frattempo concluso.
 

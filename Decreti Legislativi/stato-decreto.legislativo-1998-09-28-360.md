@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2014-12-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,6 +46,24 @@ A decorrere dal primo anno di applicazione delle disposizioni del presente artic
 Fermo restando quanto previsto dall'articolo 44 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, ai fini dell'accertamento dell'addizionale, le province ed i comuni forniscono all'amministrazione finanziaria informazioni e notizie utili. Le province ed i comuni provvedono, altresi', agli eventuali rimborsi richiesti dagli interessati con le modalita' stabilite con decreto del Ministro delle finanze, di concerto con il Ministro dell'interno, sentita la Conferenza Stato-Citta' ed autonomie locali di cui all'articolo 8, comma 2, del decreto legislativo 28 agosto 1997, n. 281. Per quanto non disciplinato dal presente decreto, si applicano le disposizioni previste per l'imposta sul reddito delle persone fisiche.
 
 Al termine delle attivita' di liquidazione e di accertamento, le maggiori somme riscosse a titolo di addizionale e i relativi interessi sono versati alle province e ai comuni secondo le modalita' stabilite con il decreto di cui al comma 6.
+
+10.
+                    
+                        
+                            All'articolo 17, comma 2, del decreto legislativo 9 luglio 1997, n. 241, recante norme di semplificazione degli adempimenti dei contribuenti riguardanti la dichiarazione dei redditi e dell'imposta sul valore aggiunto e i relativi versamenti, nonche' norme di unificazione degli adempimenti fiscali e previdenziali, di modernizzazione del sistema di gestione delle dichiarazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella lettera a), dopo le parole: "alle imposte sui redditi" sono inserite le seguenti: ", alle relative addizionali"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera d-bis), introdotta dall'articolo 50, comma 7, del decreto legislativo 15 dicembre 1997, n. 446, concernente l'istituzione dell'addizionale regionale all'imposta sul reddito delle persone fisiche, e' soppressa.
 
 I decreti di cui ai commi 6 e 7 sono emanati sentita la Conferenza Stato-Citta' ed autonomie locali di cui all'articolo 8, comma 2, del decreto legislativo 28 agosto 1997, n. 281.
 

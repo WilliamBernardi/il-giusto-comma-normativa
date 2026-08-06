@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,59 @@ Sulla proposta dei Ministri per le politiche comunitarie e delle politiche agric
 
 Nell'ambito del sistema statistico nazionale, l'indagine statistica riguardante il potenziale di produzione delle piantagioni delle specie di alberi da frutto indicate al comma 2, stabilita, per l'anno 2002, sulla base del decreto legislativo 6 settembre 1989, n. 322, e del decreto del Presidente del Consiglio dei Ministri in data 27 dicembre 2001, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 1 del 2 gennaio 2002, e' effettuata, ai sensi del presente decreto, con cadenza quinquennale a decorrere da detto anno.
 
+2.
+                    
+                        
+                            Oggetto dell'indagine di cui al comma 1 sono le seguenti specie:
+ 
+                        
+                        
+                            a)
+                            
+                                mele da tavola;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pere da tavola;
+
+                            
+                        
+                        
+                            c)
+                            
+                                pesche;
+
+                            
+                        
+                        
+                            d)
+                            
+                                albicocche;
+
+                            
+                        
+                        
+                            e)
+                            
+                                arance;
+
+                            
+                        
+                        
+                            f)
+                            
+                                limoni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                agrumi a piccoli frutti.
+
 Il campo di applicazione dell'indagine di cui al comma 1 riguarda tutte le aziende con una superficie coltivata ad alberi da frutto a condizione che i frutti prodotti siano interamente o principalmente destinati al mercato.
 
 L'indagine di cui al comma 1 si estende alle colture pure e alle colture miste, ossia alle coltivazioni di alberi da frutta delle varie specie di cui al comma 2 o di una o piu' di esse in associazione con altre specie.
@@ -36,6 +89,31 @@ L'indagine di cui al comma 1 si estende alle colture pure e alle colture miste, 
 L'indagine di cui al comma 1 e' condotta per campione con campionamento casuale secondo i criteri fissati all'articolo 3.
 
 ## Art. 2. — Caratteristiche delle indagini
+
+1.
+                    
+                        
+                            L'indagine di cui all'articolo 1, comma 1, e' organizzata in modo tale che i risultati possono essere presentati combinando in modo differente le seguenti caratteristiche:
+ 
+                        
+                        
+                            a)
+                            
+                                varieta' frutticola: deve essere indicato, per ciascuna specie di frutta per ordine di importanza, un numero sufficiente di varieta' affinche' sia possibile riprendere in considerazione separatamente, per ciascuna varieta', almeno l'80 per cento della superficie totale coltivata ad alberi da frutto della specie in causa e, comunque, tutte le varieta' che rappresentano il 3 per cento o piu' della superficie complessiva coltivata ad alberi da frutto della specie in questione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                eta' degli alberi: viene calcolata a decorrere dal periodo di messa a dimora nel terreno. La stagione di messa a dimora, che si estende dall'autunno alla primavera, viene considerata un unico periodo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                superficie piantata, numero di alberi e densita' di impianto: la densita' di impianto puo' essere rilevata direttamente oppure mediante un calcolo effettuato sulla base della superficie coltivata.
 
 ## Art. 3. — Campione ed errori
 
@@ -48,6 +126,24 @@ Nell'effettuazione dell'indagine sono adottate le misure per limitare e, ove nec
 ## Art. 4. — Modalita' e tempi di trasmissione dei dati
 
 I risultati dell'indagine di cui all'articolo 1, non appena disponibili nell'ambito del Sistema statistico nazionale, e, comunque, entro il 1° ottobre dell'anno successivo all'anno cui si riferisce l'indagine, sono comunicati alla Commissione europea. Entro lo stesso termine e' trasmessa anche una relazione metodologica concernente l'esecuzione dell'indagine. Anteriormente alla medesima data sono, altresi', comunicati alla predetta Commissione, per zone di produzione, gli errori di osservazione constatati e gli errori di campionamento.
+
+2.
+                    
+                        
+                            Il Ministero delle politiche agricole e forestali comunica alla Commissione europea, entro il 31 ottobre dell'anno successivo all'anno di riferimento, le informazioni annuali di cui dispone o che sono disponibili nell'ambito del Sistema statistico nazionale:
+ 
+                        
+                        
+                            a)
+                            
+                                sulle superfici ad alberi da frutto estirpati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulle nuove piantagioni di alberi da frutto.
 
 ## Art. 5. — Disposizioni finanziarie
 

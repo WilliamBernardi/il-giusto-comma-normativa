@@ -8,8 +8,8 @@ codice_redazionale: 011G0002
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,11 +32,143 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la p
 ## Art. 1. — Modifiche all'articolo 1 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera b) e' sostituita dalla seguente: 
+ «b) autenticazione del documento informatico: la validazione del documento informatico attraverso l'associazione di dati informatici relativi all'autore o alle circostanze, anche temporali, della redazione;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera c) le parole: «di fotografia» sono sostituite dalle seguenti: «di elementi per l'identificazione fisica»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo la lettera i) sono inserite le seguenti: 
+ 1) «i-bis) copia informatica di documento analogico: il documento informatico avente contenuto identico a quello del documento analogico da cui e' tratto;»; 
+ 2) «i-ter) copia per immagine su supporto informatico di documento analogico: il documento informatico avente contenuto e forma identici a quelli del documento analogico da cui e' tratto;»; 
+ 3) «i-quater) copia informatica di documento informatico: il documento informatico avente contenuto identico a quello del documento da cui e' tratto su supporto informatico con diversa sequenza di valori binari;»; 
+ 4) «i-quinquies) duplicato informatico: il documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo la lettera p) e' inserita la seguente: 
+ «p-bis) documento analogico: la rappresentazione non informatica di atti, fatti o dati giuridicamente rilevanti;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo la lettera q) e' inserita la seguente: 
+ «q-bis) firma elettronica avanzata: insieme di dati in forma elettronica allegati oppure connessi a un documento informatico che consentono l'identificazione del firmatario del documento e garantiscono la connessione univoca al firmatario, creati con mezzi sui quali il firmatario puo' conservare un controllo esclusivo, collegati ai dati ai quali detta firma si riferisce in modo da consentire di rilevare se i dati stessi siano stati successivamente modificati;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la lettera r) e' sostituita dalla seguente: 
+ «r) firma elettronica qualificata: un particolare tipo di firma elettronica avanzata che sia basata su un certificato qualificato e realizzata mediante un dispositivo sicuro per la creazione della firma;»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la lettera s) e' sostituita dalla seguente: 
+ «s) firma digitale: un particolare tipo di firma elettronica avanzata basata su un certificato qualificato e su un sistema di chiavi crittografiche, una pubblica e una privata, correlate tra loro, che consente al titolare tramite la chiave privata e al destinatario tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrita' di un documento informatico o di un insieme di documenti informatici;»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                dopo la lettera u) sono inserite le seguenti: 
+ 1) «u-bis) gestore di posta elettronica certificata: il soggetto che presta servizi di trasmissione dei documenti informatici mediante la posta elettronica certificata;»; 
+ 2) «u-ter) identificazione informatica: la validazione dell'insieme di dati attribuiti in modo esclusivo ed univoco ad un soggetto, che ne consentono l'individuazione nei sistemi informativi, effettuata attraverso opportune tecnologie anche al fine di garantire la sicurezza dell'accesso;»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                dopo la lettera v) e' inserita la seguente: 
+ «v-bis) posta elettronica certificata: sistema di comunicazione in grado di attestare l'invio e l'avvenuta consegna di un messaggio di posta elettronica e di fornire ricevute opponibili ai terzi;».
+
 ## Art. 2. — Modifiche all'articolo 2 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Le disposizioni del presente codice si applicano alle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, nel rispetto del riparto di competenza di cui all'articolo 117 della Costituzione, nonche' alle societa', interamente partecipate da enti pubblici o con prevalente capitale pubblico inserite nel conto economico consolidato della pubblica amministrazione, come individuate dall'Istituto nazionale di statistica (ISTAT) ai sensi dell'articolo 1, comma 5, della legge 30 dicembre 2004, n. 311.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2-bis e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Le disposizioni di cui al capo II, agli articoli 40, 43 e 44 del capo III, nonche' al capo IV, si applicano ai privati ai sensi dell'articolo 3 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modificazioni.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6 e' aggiunto, in fine, il seguente periodo: 
+ «Con decreti del Presidente del Consiglio dei Ministri, tenuto conto delle esigenze derivanti dalla natura delle proprie particolari funzioni, sono stabiliti le modalita', i limiti ed i tempi di applicazione delle disposizioni del presente Codice alla Presidenza del Consiglio dei Ministri, nonche' all'Amministrazione economico-finanziaria.».
+
 ## Art. 3. — Modifiche all'articolo 3 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 3 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole da: «e con» fino alla fine sono sostituite dalle seguenti: «, con i soggetti di cui all'articolo 2, comma 2, e con i gestori di pubblici servizi ai sensi di quanto previsto dal presente codice»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1-bis e' abrogato.
 
 ## Art. 4. — Modifiche all'articolo 5 del decreto legislativo 
  7 marzo 2005, n. 82
@@ -57,6 +189,33 @@ Con le medesime modalita' le amministrazioni pubbliche adottano e comunicano att
 ## Art. 5. — Modifiche all'articolo 6 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 6 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Per le comunicazioni di cui all'articolo 48, comma 1, con i soggetti che hanno preventivamente dichiarato il proprio indirizzo ai sensi della vigente normativa tecnica, le pubbliche amministrazioni utilizzano la posta elettronica certificata. La dichiarazione dell'indirizzo vincola solo il dichiarante e rappresenta espressa accettazione dell'invio, tramite posta elettronica certificata, da parte delle pubbliche amministrazioni, degli atti e dei provvedimenti che lo riguardano.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: 
+ «1-bis. La consultazione degli indirizzi di posta elettronica certificata, di cui agli articoli 16, comma 10, e 16-bis, comma 5, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e l'estrazione di elenchi dei suddetti indirizzi, da parte delle pubbliche amministrazioni e' effettuata sulla base delle regole tecniche emanate da DigitPA, sentito il Garante per la protezione dei dati personali.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i commi 2 e 2-bis sono abrogati.
+
 ## Art. 6. — Modifica all'articolo 7 del decreto legislativo 
  7 marzo 2005, n. 82
 
@@ -70,8 +229,74 @@ All'articolo 9 del decreto legislativo 7 marzo 2005, n. 82, al comma 1 le parole
 ## Art. 8. — Modifiche all'articolo 10 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Sportello unico per le attivita' produttive»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Lo sportello unico per le attivita' produttive di cui all'articolo 38, comma 3, del decreto-legge 25 giugno 2008, n.112, convertito, con modificazioni, dalla legge 6 agosto 2008, n.133, eroga i propri servizi verso l'utenza in via telematica.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i commi 2 e 3 sono abrogati.
+
 ## Art. 9. — Modifiche all'articolo 12 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 12 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, in fine, sono aggiunte le seguenti parole: «, nonche' per la garanzia dei diritti dei cittadini e delle imprese di cui al capo I, sezione II, del presente decreto.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1-bis e' sostituito dal seguente: 
+ «1-bis. Gli organi di Governo nell'esercizio delle funzioni di indirizzo politico ed in particolare nell'emanazione delle direttive generali per l'attivita' amministrativa e per la gestione ai sensi del comma 1 dell'articolo 14 del decreto legislativo 30 marzo 2001, n. 165, e le amministrazioni pubbliche nella redazione del piano di performance di cui all'articolo 10 del decreto legislativo 27 ottobre 2009, n. 150, dettano disposizioni per l'attuazione delle disposizioni del presente decreto.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1-ter, e' aggiunto in fine, il seguente periodo: «L'attuazione delle disposizioni del presente decreto e' comunque rilevante ai fini della misurazione e valutazione della performance organizzativa ed individuale dei dirigenti.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, dopo le parole: «servizi informatici,» sono inserite le seguenti: «, ivi comprese le reti di telefonia fissa e mobile in tutte le loro articolazioni,»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5-bis, dopo le parole: «riguardanti l'erogazione», sono inserite le seguenti: «attraverso le tecnologie dell'informazione e della comunicazione.».
 
 ## Art. 10. — Modifiche all'articolo 14 del decreto legislativo 
  7 marzo 2005, n. 82
@@ -90,11 +315,115 @@ All'articolo 15 del decreto legislativo 7 marzo 2005, n. 82, dopo il comma 2, so
 ## Art. 12. — Modifiche all'articolo 17 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 17 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, l'alinea e' sostituita dal seguente: 
+ «1. Le pubbliche amministrazioni centrali garantiscono l'attuazione delle linee strategiche per la riorganizzazione e digitalizzazione dell'amministrazione definite dal Governo. A tale fine, le predette amministrazioni individuano un unico ufficio dirigenziale generale, fermo restando il numero complessivo di tali uffici, responsabile del coordinamento funzionale. Al predetto ufficio afferiscono i compiti relativi a:»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1: 
+ 1) alla lettera a), dopo le parole: «servizi informativi,» sono inserite le seguenti: «di telecomunicazione e fonia,»; 
+ 2) alla lettera b) dopo le parole: «servizi informativi,» sono inserite le seguenti: «di telecomunicazione e fonia»; 
+ 3) la lettera c) e' sostituita dalla seguente: 
+ «c) indirizzo, pianificazione, coordinamento e monitoraggio della sicurezza informatica relativamente ai dati, ai sistemi e alle infrastrutture anche in relazione al sistema pubblico di connettivita', nel rispetto delle regole tecniche di cui all'articolo 51, comma 1;»; 
+ 4) alla lettera g) sono aggiunte, in fine, le seguenti parole: «di telecomunicazione e fonia;»; 
+ 5) alla lettera j), la parola: «sicurezza,» e' soppressa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 1-bis e' sostituito dal seguente: 
+ «1-bis. Per lo svolgimento dei compiti di cui al comma 1, le Agenzie, le Forze armate, compresa l'Arma dei carabinieri e il Corpo delle capitanerie di porto, nonche' i Corpi di polizia hanno facolta' di individuare propri uffici senza incrementare il numero complessivo di quelli gia' previsti nei rispettivi assetti organizzativi.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 1-bis e' aggiunto il seguente: 
+ «1-ter. DigitPA assicura il coordinamento delle iniziative di cui al comma 1, lettera c), con le modalita' di cui all'articolo 51.».
+
 ## Art. 13. — Modifica all'articolo 20 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 20 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la parola: «registrazione» e' sostituita dalla seguente: «memorizzazione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1-bis e' sostituito dal seguente: 
+ «1-bis. L'idoneita' del documento informatico a soddisfare il requisito della forma scritta e il suo valore probatorio sono liberamente valutabili in giudizio, tenuto conto delle sue caratteristiche oggettive di qualita', sicurezza, integrita' ed immodificabilita', fermo restando quanto disposto dall'articolo 21.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Le regole tecniche per la formazione, per la trasmissione, la conservazione, la copia, la duplicazione, la riproduzione e la validazione temporale dei documenti informatici, nonche' quelle in materia di generazione, apposizione e verifica di qualsiasi tipo di firma elettronica avanzata, sono stabilite ai sensi dell'articolo 71.
+La data e l'ora di formazione del documento informatico sono opponibili ai terzi se apposte in conformita' alle regole tecniche sulla validazione temporale.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 5, e' aggiunto il seguente: 
+ «5-bis. Gli obblighi di conservazione e di esibizione di documenti previsti dalla legislazione vigente si intendono soddisfatti a tutti gli effetti di legge a mezzo di documenti informatici, se le procedure utilizzate sono conformi alle regole tecniche dettate ai sensi dell'articolo 71.».
+
 ## Art. 14. — Modifiche all'articolo 21 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 21 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Documento informatico sottoscritto con firma elettronica.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dai seguenti: 
+ «2. Il documento informatico sottoscritto con firma elettronica avanzata, qualificata o digitale, formato nel rispetto delle regole tecniche di cui all'articolo 20, comma 3, che garantiscano l'identificabilita' dell'autore, l'integrita' e l'immodificabilita' del documento, ha l'efficacia prevista dall'articolo 2702 del codice civile. L'utilizzo del dispositivo di firma si presume riconducibile al titolare, salvo che questi dia prova contraria. 
+ 2-bis). Salvo quanto previsto dall'articolo 25, le scritture private di cui all'articolo 1350, primo comma, numeri da 1 a 12, del codice civile, se fatte con documento informatico, sono sottoscritte, a pena di nullita', con firma elettronica qualificata o con firma digitale.».
 
 ## Art. 15. — Modifiche all'articolo 22 del decreto legislativo 
  7 marzo 2005, n. 82
@@ -113,6 +442,26 @@ L'articolo 22 del decreto legislativo 7 marzo 2005, n. 82, e' sostituito dal seg
 L'articolo 23 del decreto legislativo 7 marzo 2005, n. 82, e' sostituito dal seguente: 
  «Art. 23 (Copie analogiche di documenti informatici). - 1. Le copie su supporto analogico di documento informatico, anche sottoscritto con firma elettronica avanzata, qualificata o digitale, hanno la stessa efficacia probatoria dell'originale da cui sono tratte se la loro conformita' all'originale in tutte le sue componenti e' attestata da un pubblico ufficiale a cio' autorizzato. 
  2. Le copie e gli estratti su supporto analogico del documento informatico, conformi alle vigenti regole tecniche, hanno la stessa efficacia probatoria dell'originale se la loto conformita' non e' espressamente disconosciuta. Resta fermo, ove previsto l'obbligo di conservazione dell'originale informatico.».
+
+2.
+                    
+                        
+                            Dopo l'articolo 23 sono inseriti i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Art. 23-bis (Duplicati e copie informatiche di documenti informatici). - 1. I duplicati informatici hanno il medesimo valore giuridico, ad ogni effetto di legge, del documento informatico da cui sono tratti, se prodotti in conformita' alle regole tecniche di cui all'articolo 71. 
+ 2. Le copie e gli estratti informatici del documento informatico, se prodotti in conformita' alle vigenti regole tecniche di cui all'articolo 71, hanno la stessa efficacia probatoria dell'originale da cui sono tratte se la loro conformita' all'originale, in tutti le sue componenti, e' attestata da un pubblico ufficiale a cio' autorizzato o se la conformita' non e' espressamente disconosciuta.
+Resta fermo, ove previsto, l'obbligo di conservazione dell'originale informatico. 
+ Art. 23-ter (Documenti amministrativi informatici). - 1. Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonche' i dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui e' possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge. 
+ 2. I documenti costituenti atti amministrativi con rilevanza interna al procedimento amministrativo sottoscritti con firma elettronica avanzata hanno l'efficacia prevista dall'art. 2702 del codice civile. 
+ 3. Le copie su supporto informatico di documenti formati dalla pubblica amministrazione in origine su supporto analogico ovvero da essa detenuti, hanno il medesimo valore giuridico, ad ogni effetto di legge, degli originali da cui sono tratte, se la loro conformita' all'originale e' assicurata dal funzionario a cio' delegato nell'ambito dell'ordinamento proprio dell'amministrazione di appartenenza, mediante l'utilizzo della firma digitale o di altra firma elettronica qualificata e nel rispetto delle regole tecniche stabilite ai sensi dell'articolo 71; in tale caso l'obbligo di conservazione dell'originale del documento e' soddisfatto con la conservazione della copia su supporto informatico. 
+ 4. Le regole tecniche in materia di formazione e conservazione di documenti informatici delle pubbliche amministrazioni sono definite con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato per la pubblica amministrazione e l'innovazione, di concerto con il Ministro per i beni e le attivita' culturali, nonche' d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e sentiti DigitPA e il Garante per la protezione dei dati personali. 
+ 5. Al fine di assicurare la provenienza e la conformita' all'originale, sulle copie analogiche di documenti informatici, e' apposto a stampa, sulla base dei criteri definiti con linee guida emanate da DigitPA, un contrassegno generato elettronicamente, formato nel rispetto delle regole tecniche stabilite ai sensi dell'articolo 71 e tale da consentire la verifica automatica della conformita' del documento analogico a quello informatico. 
+ 6. Per quanto non previsto dal presente articolo si applicano gli articoli 21, 22 , 23 e 23-bis. 
+ Art. 23-quater (Riproduzioni informatiche). - 1. All'articolo 2712 del codice civile dopo le parole: "riproduzioni fotografiche" e' inserita la seguente: ", informatiche".».
 
 ## Art. 17. — Modifiche alla rubrica del capo II e all'articolo 25 del decreto legislativo 
  7 marzo 2005, n. 82
@@ -151,6 +500,25 @@ L'articolo 31 e' sostituito dal seguente:
 ## Art. 22. — Modifiche all'articolo 32 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 32, comma 3, del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera f) e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera m), e' inserita la seguente: 
+ «m-bis) garantire il corretto funzionamento e la continuita' del sistema e comunicare immediatamente a DigitPA e agli utenti eventuali malfunzionamenti che determinano disservizio, sospensione o interruzione del servizio stesso.».
+
 Dopo l'articolo 32 del decreto legislativo 7 marzo 2005, n. 82, e' inserito il seguente: 
  «Art. 32-bis (Sanzioni per i certificatori qualificati e per i gestori di posta elettronica certificata). - 1. Qualora si verifichi, salvi i casi di forza maggiore o caso fortuito, un malfunzionamento nel sistema che determini un disservizio, ovvero la mancata o intempestiva comunicazione dello stesso disservizio a DigitPA o agli utenti, ai sensi dell'articolo 32, comma 3, lettera m-bis), DigitPA diffida il certificatore qualificato o il gestore di posta elettronica certificata a ripristinare la regolarita' del servizio o ad effettuare le comunicazioni ivi previste. Se il disservizio ovvero la mancata o intempestiva comunicazione sono reiterati per due volte nel corso di un biennio, successivamente alla seconda diffida si applica la sanzione della cancellazione dall'elenco pubblico. 
  2. Qualora si verifichi, fatti salvi i casi di forza maggiore o di caso fortuito, un malfunzionamento nel sistema che determini l'interruzione del servizio, ovvero la mancata o intempestiva comunicazione dello stesso disservizio a DigitPA o agli utenti, ai sensi dell'articolo 32, comma 3, lettera m-bis), DigitPA diffida il certificatore qualificato o il gestore di posta elettronica certificata a ripristinare la regolarita' del servizio o ad effettuare le comunicazioni ivi previste. Se l'interruzione del servizio ovvero la mancata o intempestiva comunicazione sono reiterati nel corso di un biennio, successivamente alla prima diffida si applica la sanzione della cancellazione dall'elenco pubblico. 
@@ -164,6 +532,36 @@ All'articolo 33, comma 1, del decreto legislativo 7 marzo 2005, n. 82, le parole
 
 ## Art. 24. — Modifica all'articolo 35 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 35 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 3 e 4 sono sostituiti dai seguenti: 
+ «3. Il secondo periodo del comma 2 non si applica alle firme apposte con procedura automatica. La firma con procedura automatica e' valida se apposta previo consenso del titolare all'adozione della procedura medesima. 
+ 4. I dispositivi sicuri di firma devono essere dotati di certificazione di sicurezza ai sensi dello schema nazionale di cui al comma 5.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5: 
+ 1) al primo periodo, dopo le parole: «in Italia,» sono inserite le seguenti: «dall'Organismo di certificazione della sicurezza informatica»; 
+ 2) il secondo periodo e' sostituito dal seguente: «L'attuazione dello schema nazionale non deve determinare nuovi o maggiori oneri per il bilancio dello Stato.» ; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ «6. La conformita' di cui al comma 5 e' inoltre riconosciuta se accertata da un organismo all'uopo designato da un altro Stato membro e notificato ai sensi dell'articolo 11, paragrafo 1, lettera b), della direttiva 1999/93/CE.».
 
 ## Art. 25. — Modifica all'articolo 37 del decreto legislativo 7 marzo 2005, n. 82
 
@@ -180,17 +578,107 @@ All'articolo 38, la rubrica e' sostituita dalla seguente: «Trasferimenti di fon
 ## Art. 27. — Modifiche all'articolo 40 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 40 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «che dispongono di idonee risorse tecnologiche» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato.
+
 Dopo l'articolo 40, e' inserito il seguente: 
  «Art. 40-bis (Protocollo informatico). - 1. Formano comunque oggetto di registrazione di protocollo ai sensi dell'articolo 53 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, le comunicazioni che pervengono o sono inviate dalle caselle di posta elettronica di cui agli articoli 47, commi 1 e 3, 54, comma 2-ter e 57-bis, comma 1, nonche' le istanze e le dichiarazioni di cui all'articolo 65 in conformita' alle regole tecniche di cui all'articolo 71.».
 
 ## Art. 28. — Modifica all'articolo 41 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 41 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. La gestione dei procedimenti amministrativi e' attuata in modo da consentire, mediante strumenti automatici, il rispetto di quanto previsto all'articolo 54, commi 2-ter e 2-quater.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «puo' raccogliere» sono sostituite dalle seguenti: «raccoglie»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2-bis, dopo le parole: «per la costituzione» sono inserite le seguenti: «, l'identificazione»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2-ter, dopo la lettera e) e' aggiunta in fine a seguente: 
+ «e-bis) dell'identificativo del fascicolo medesimo.».
+
 ## Art. 29. — Modifica all'articolo 43 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 43 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «la riproduzione sia effettuata» sono sostituite dalle seguenti: «la riproduzione e la conservazione nel tempo sono effettuate» e le parole: «e la loro conservazione nel tempo» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 sono aggiunte, in fine, le seguenti parole: «, nel rispetto delle regole tecniche stabilite ai sensi dell'articolo 71.».
+
 ## Art. 30. — Modifica all'articolo 44 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 44 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea la parola: «garantisce» e' sostituita dalla seguente: «assicura»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 sono aggiunti in fine i seguenti: 
+ «1-bis. Il sistema di conservazione dei documenti informatici e' gestito da un responsabile che opera d'intesa con il responsabile del trattamento dei dati personali di cui all'articolo 29 del decreto legislativo 30 giugno 2003, n. 196, e, ove previsto, con il responsabile del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi di cui all'articolo 61 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, nella definizione e gestione delle attivita' di rispettiva competenza. 
+ 1-ter. Il responsabile della conservazione puo' chiedere la conservazione dei documenti informatici o la certificazione della conformita' del relativo processo di conservazione a quanto stabilito dall'articolo 43 e dalle regole tecniche ivi previste, nonche' dal comma 1 ad altri soggetti, pubblici o privati, che offrono idonee garanzie organizzative e tecnologiche.».
 
 Dopo l'articolo 44 del decreto legislativo 7 marzo 2005, n. 82, e' inserito il seguente: 
  «44-bis (Conservatori accreditati). - 1. I soggetti pubblici e privati che svolgono attivita' di conservazione dei documenti informatici e di certificazione dei relativi processi anche per conto di terzi ed intendono conseguire il riconoscimento del possesso dei requisiti del livello piu' elevato, in termini di qualita' e di sicurezza, chiedono l'accreditamento presso DigitPA. 
@@ -205,12 +693,56 @@ All'articolo 45 del decreto legislativo 7 marzo 2005, n. 82, al comma 1 le parol
 ## Art. 32. — Modifica all'articolo 47 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 47 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «di norma» sono soppresse e dopo le parole: «posta elettronica» sono inserite le seguenti: «o in cooperazione applicativa»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera b), le parole: «protocollo informatizzato» sono sostituite dalle seguenti: «segnatura di protocollo di cui all'articolo 55 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Le pubbliche amministrazioni e gli altri soggetti di cui all'articolo 2, comma 2, provvedono ad istituire e pubblicare nell'Indice PA almeno una casella di posta elettronica certificata per ciascun registro di protocollo. La pubbliche amministrazioni utilizzano per le comunicazioni tra l'amministrazione ed i propri dipendenti la posta elettronica o altri strumenti informatici di comunicazione nel rispetto delle norme in materia di protezione dei dati personali e previa informativa agli interessati in merito al grado di riservatezza degli strumenti utilizzati.».
+
 ## Art. 33. — Modifica all'articolo 48 del decreto legislativo 7 marzo 2005, n. 82, e all'articolo 3, comma 1, del decreto legislativo 20 dicembre 2009, n. 198
 
 L'articolo 48 del decreto legislativo 7 marzo 2005, n. 82, e' sostituito dal seguente: 
  «Art. 48 (Posta elettronica certificata). - 1. La trasmissione telematica di comunicazioni che necessitano di una ricevuta di invio e di una ricevuta di consegna avviene mediante la posta elettronica certificata ai sensi del decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, o mediante altre soluzioni tecnologiche individuate con decreto del Presidente del Consiglio dei Ministri, sentito DigitPA. 
  2. La trasmissione del documento informatico per via telematica, effettuata ai sensi del comma 1, equivale, salvo che la legge disponga diversamente, alla notificazione per mezzo della posta. 
  3. La data e l'ora di trasmissione e di ricezione di un documento informatico trasmesso ai sensi del comma 1 sono opponibili ai terzi se conformi alle disposizioni di cui al decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, ed alle relative regole tecniche, ovvero conformi al decreto del Presidente del Consiglio dei Ministri di cui al comma 1.».
+
+2.
+                    
+                        
+                            All'articolo 3, comma 1, del decreto legislativo 20 dicembre 2009, n. 198, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo periodo, dopo la parola: «preventivamente» sono inserite le seguenti: «, anche con le modalita' di cui all'articolo 48 del decreto legislativo 7 marzo 2005, n. 82»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in fine, e' aggiunto il seguente periodo: «La diffida e' altresi' comunicata dall'amministrazione pubblica o dal concessionario di servizi pubblici interessati al Ministro per la pubblica amministrazione e l'innovazione.».
 
 ## Art. 34. — Modifiche all'articolo 50 del decreto legislativo 
  7 marzo 2005, n. 82
@@ -229,22 +761,222 @@ DigitPA, sentito il Garante per la protezione dei dati personali, definisce le l
 ## Art. 35. — Modifiche all'articolo 51 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 51 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Sicurezza dei dati, dei sistemi e delle infrastrutture delle pubbliche amministrazioni»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Con le regole tecniche adottate ai sensi dell'articolo 71 sono individuate le modalita' che garantiscono l'esattezza, la disponibilita', l'accessibilita', l'integrita' e la riservatezza dei dati, dei sistemi e delle infrastrutture.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. DigitPA, ai fini dell'attuazione del comma 1: 
+ a) raccorda le iniziative di prevenzione e gestione degli incidenti di sicurezza informatici; 
+ b) promuove intese con le analoghe strutture internazionali; 
+ c) segnala al Ministro per la pubblica amministrazione e l'innovazione il mancato rispetto delle regole tecniche di cui al comma 1 da parte delle pubbliche amministrazioni.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2, e' aggiunto il seguente: 
+ «2-bis. Le amministrazioni hanno l'obbligo di aggiornare tempestivamente i dati nei propri archivi, non appena vengano a conoscenza dell'inesattezza degli stessi.».
+
 ## Art. 36. — Modifica all'articolo 52 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 52 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella rubrica, le parole: «Accesso telematico ai» sono sostituite dalle seguenti: «Accesso telematico e riutilizzazione dei»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Le pubbliche amministrazioni, al fine di valorizzare e rendere fruibili i dati pubblici di cui sono titolari, promuovono progetti di elaborazione e di diffusione degli stessi anche attraverso l'uso di strumenti di finanza di progetto, assicurando: 
+ a) il rispetto di quanto previsto dall'articolo 54, comma 3; 
+ b) la pubblicazione dei dati e dei documenti in formati aperti di cui all'articolo 68, commi 3 e 4.».
 
 ## Art. 37. — Modifiche all'articolo 54 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 54 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera f), le parole: «e di concorso» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo la lettera g) e' inserita la seguente: 
+ «g-bis) i bandi di concorso.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Le pubbliche amministrazioni centrali comunicano in via telematica alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica i dati di cui alle lettere b), c) , g) e g-bis) del comma 1, secondo i criteri e le modalita' di trasmissione e aggiornamento individuati con circolare del Ministro per la pubblica amministrazione e l'innovazione. I dati di cui al periodo precedente sono pubblicati sul sito istituzionale del Dipartimento della funzione pubblica. La mancata comunicazione o aggiornamento dei dati e' comunque rilevante ai fini della misurazione e valutazione della performance individuale dei dirigenti.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i commi 2 e 2-bis sono abrogati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 2-ter e' sostituito dal seguente: 
+ «2-ter. Le amministrazioni pubbliche pubblicano nei propri siti un indirizzo istituzionale di posta elettronica certificata a cui il cittadino possa rivolgersi per qualsiasi richiesta ai sensi del presente codice. Le amministrazioni devono altresi' assicurare un servizio che renda noti al pubblico i tempi di risposta.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 2-quater le parole: «Entro il 31 dicembre 2009» sono soppresse e, in fine, sono aggiunte le seguenti: «che lo riguardano.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 3, la parola «: autenticazione» e' sostituita dalla seguente: «identificazione».
+
 ## Art. 38. — Modifiche all'articolo 56 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 56 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «della rete Internet» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «della rete Internet» sono soppresse.
 
 ## Art. 39. — Modifiche all'articolo 57 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 57 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «rendere disponibili anche per via telematica» sono sostituite dalle seguenti: «rendere disponibili per via telematica»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Le pubbliche amministrazioni non possono richiedere l'uso di moduli e formulari che non siano stati pubblicati; in caso di omessa pubblicazione, i relativi procedimenti possono essere avviati anche in assenza dei suddetti moduli o formulari. La mancata pubblicazione e' altresi' rilevante ai fini della misurazione e valutazione della performance individuale dei dirigenti responsabili.».
+
 ## Art. 40. — Modifiche all'articolo 57-bis del decreto legislativo 7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 57-bis del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole da: «la struttura» fino a «utilizzo» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. La realizzazione e la gestione dell'indice sono affidate a DigitPA, che puo' utilizzare a tal fine elenchi e repertori gia' formati dalle amministrazioni pubbliche.».
 
 ## Art. 41. — Modifiche all'articolo 58 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 58 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Ai sensi dell'articolo 50, comma 2, nonche' al fine di agevolare l'acquisizione d'ufficio ed il controllo sulle dichiarazioni sostitutive riguardanti informazioni e dati relativi a stati, qualita' personali e fatti di cui agli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, le Amministrazioni titolari di banche dati accessibili per via telematica predispongono, sulla base delle linee guida redatte da DigitPA, sentito il Garante per la protezione dei dati personali, apposite convenzioni aperte all'adesione di tutte le amministrazioni interessate volte a disciplinare le modalita' di accesso ai dati da parte delle stesse amministrazioni procedenti, senza oneri a loro carico. Le convenzioni valgono anche quale autorizzazione ai sensi dell'articolo 43, comma 2, del citato decreto del Presidente della Repubblica n. 445 del 2000.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. DigitPA provvede al monitoraggio dell'attuazione del presente articolo, riferendo annualmente con apposita relazione al Ministro per la pubblica amministrazione e l'innovazione e alla Commissione per la valutazione, la trasparenza e l'integrita' delle amministrazione pubbliche di cui all'articolo 13 del decreto legislativo 27 ottobre 2009, n. 150.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3 sono aggiunti i seguenti: 
+ «3-bis. In caso di mancata predisposizione delle convenzioni di cui al comma 2, il Presidente del Consiglio dei Ministri stabilisce un termine entro il quale le amministrazioni interessate devono provvedere. Decorso inutilmente il termine, il Presidente del Consiglio dei Ministri puo' nominare un commissario ad acta incaricato di predisporre le predette convenzioni. Al Commissario non spettano compensi, indennita' o rimborsi. 
+ 3-ter. Resta ferma la speciale disciplina dettata in materia di dati territoriali.».
 
 ## Art. 42. — Modifiche all'articolo 59 del decreto legislativo 
  7 marzo 2005, n. 82
@@ -253,6 +985,45 @@ All'articolo 59, comma 5, del decreto legislativo 7 marzo 2005, n. 82, le parole
 
 ## Art. 43. — Modifiche all'articolo 60 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 60 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo le parole: «e' utilizzabile dalle pubbliche amministrazioni» sono inserite le seguenti: «, anche per fini statistici,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, secondo periodo, le parole: «di cui» fino alla fine, sono sostituite dalle seguenti: «di cui all'articolo 73 e secondo le vigenti regole del Sistema statistico nazionale di cui al decreto legislativo 6 settembre 1989, n. 322, e successive modificazioni.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole: «sentito il Garante per la protezione dei dati personali» sono sostituite dalle seguenti: «sentiti il Garante per la protezione dei dati personali e l'Istituto nazionale di statistica»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3 e' inserito il seguente: 
+ «3-bis. In sede di prima applicazione e fino all'adozione del decreto di cui al comma 3, sono individuate le seguenti basi di dati di interesse nazionale: 
+ a) repertorio nazionale dei dati territoriali; 
+ b) indice nazionale delle anagrafi; 
+ c) banca dati nazionale dei contratti pubblici di cui all'articolo 62-bis; 
+ d) casellario giudiziale; 
+ e) registro delle imprese; 
+ f) gli archivi automatizzati in materia di immigrazione e di asilo di cui all'articolo 2, comma 2, del decreto del Presidente della Repubblica 27 luglio 2004, n. 242.».
 
 ## Art. 44. — Modifiche all'articolo 62 del decreto legislativo 
  7 marzo 2005, n. 82
@@ -270,7 +1041,100 @@ All'articolo 63 del decreto legislativo 7 marzo 2005, n. 82, il comma 2 e' sosti
 ## Art. 46. — Modifiche all'articolo 64 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 64 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la parola: «autenticazione» e' sostituita con la seguente: «identificazione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, il primo periodo e' sostituito dal seguente: «2.
+Le pubbliche amministrazioni possono consentire l'accesso ai servizi in rete da esse erogati che richiedono l'identificazione informatica anche con strumenti diversi dalla carta d'identita' elettronica e dalla carta nazionale dei servizi, purche' tali strumenti consentano l'individuazione del soggetto che richiede il servizio.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' abrogato.
+
 ## Art. 47. — Modifiche all'articolo 65 del decreto legislativo 7 marzo 2005, n. 82, e all'articolo 38 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445
+
+1.
+                    
+                        
+                            All'articolo 65 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera c) le parole: «e fermo restando il disposto dell'articolo 64, comma 3» sono sostituite dalle seguenti: «nonche' quando le istanze e le dichiarazioni sono inviate con le modalita' di cui all'articolo 38, comma 3, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera c-bis) e' sostituita dalla seguente: 
+ «c-bis) ovvero se trasmesse dall'autore mediante la propria casella di posta elettronica certificata purche' le relative credenziali di accesso siano state rilasciate previa identificazione del titolare, anche per via telematica secondo modalita' definite con regole tecniche adottate ai sensi dell'articolo 71, e cio' sia attestato dal gestore del sistema nel messaggio o in un suo allegato. In tal caso, la trasmissione costituisce dichiarazione vincolante ai sensi dell'articolo 6, comma 1, secondo periodo. Sono fatte salve le disposizioni normative che prevedono l'uso di specifici sistemi di trasmissione telematica nel settore tributario;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Con decreto del Ministro per la pubblica amministrazione e l'innovazione e del Ministro per la semplificazione normativa, su proposta dei Ministri competenti per materia, possono essere individuati i casi in cui e' richiesta la sottoscrizione mediante firma digitale.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, le parole da «resta salva» fino alla fine, sono soppresse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 3 e' abrogato.
+
+2.
+                    
+                        
+                            All'articolo 38 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo le parole: «per via telematica» sono inserite le seguenti: «, ivi comprese le domande per la partecipazione a selezioni e concorsi per l'assunzione, a qualsiasi titolo, in tutte le pubbliche amministrazioni, o per l'iscrizione in albi, registri o elenchi tenuti presso le pubbliche amministrazioni,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, terzo periodo, le parole: «Le istanze e la copia fotostatica del» sono sostituite dalle seguenti: «La copia dell'istanza sottoscritta dall'interessato e la copia del»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3 e' aggiunto il seguente: 
+ «3-bis. Il potere di rappresentanza per la formazione e la presentazione di istanze, progetti, dichiarazioni e altre attestazioni nonche' per il ritiro di atti e documenti presso le pubbliche amministrazioni e i gestori o esercenti di pubblici servizi puo' essere validamente-conferito ad altro soggetto con le modalita' di cui al presente articolo».
 
 ## Art. 48. — Modifiche all'articolo 66 del decreto legislativo 
  7 marzo 2005, n. 82
@@ -280,14 +1144,104 @@ All'articolo 66, commi 1, 3 e 4, del decreto legislativo 7 marzo 2005, n. 82, le
 ## Art. 49. — Modifiche all'articolo 68 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 68 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera b), dopo le parole: «programmi informatici» sono inserite le seguenti: «,o parti di essi,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Le pubbliche amministrazioni nella predisposizione o nell'acquisizione dei programmi informatici, adottano soluzioni informatiche, quando possibile modulari, basate sui sistemi funzionali resi noti ai sensi dell'articolo 70, che assicurino l'interoperabilita' e la cooperazione applicativa e consentano la rappresentazione dei dati e documenti in piu' formati, di cui almeno uno di tipo aperto, salvo che ricorrano motivate ed eccezionali esigenze.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ «2-bis. Le amministrazioni pubbliche comunicano tempestivamente al DigitPA l'adozione delle applicazioni informatiche e delle pratiche tecnologiche, e organizzative,adottate, fornendo ogni utile informazione ai fini della piena conoscibilita' delle soluzioni adottate e dei risultati ottenuti, anche per favorire il riuso e la piu' ampia diffusione delle migliori pratiche.».
+
 ## Art. 50. — Modifiche all'articolo 69 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 69 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la parola: «applicativi» e' sostituita dalla seguente: «informatici»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, in fine, sono aggiunte le seguenti parole: «e conformi alla definizione e regolamentazione effettuata da DigitPA, ai sensi dell'articolo 68, comma 2»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, dopo le parole: «programmi informatici» sono inserite le seguenti: «o di singoli moduli»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, le parole: «riuso delle applicazioni» sono sostituite dalle seguenti: «riuso dei programmi o dei singoli moduli».
 
 ## Art. 51. — Modifiche all'articolo 70 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 70 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. DigitPA, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, valuta e rende note applicazioni tecnologiche realizzate dalle pubbliche amministrazioni, idonee al riuso da parte di altre pubbliche amministrazioni anche con riferimento a singoli moduli,segnalando quelle che, in base alla propria valutazione, si configurano quali migliori pratiche organizzative e tecnologiche.».
+
 ## Art. 52. — Modifiche all'articolo 71 del decreto legislativo 
  7 marzo 2005, n. 82
+
+1.
+                    
+                        
+                            All'articolo 71 del decreto legislativo 7 marzo 2005, n. 82, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Le regole tecniche previste nel presente codice sono dettate, con decreti del Presidente del Consiglio dei Ministri o del Ministro delegato per la pubblica amministrazione e l'innovazione, di concerto con i Ministri competenti, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, ed il Garante per la protezione dei dati personali nelle materie di competenza, previa acquisizione obbligatoria del parere tecnico di DigitPA.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1-bis e' abrogato.
 
 ## Art. 53. — Modifica all'articolo 73 del decreto legislativo 
  7 marzo 2005, n. 82
@@ -304,7 +1258,51 @@ All'articolo 75 del decreto legislativo 7 marzo 2005, n. 82, dopo il comma 3 e' 
 ## Art. 55. — Modifica all'articolo 78 del decreto legislativo 
  7 marzo 2005, n. 82
 
+1.
+                    
+                        
+                            All'articolo 78 del decreto legislativo 7 marzo 2005, n. 82, al comma 1, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «all'articolo 71, comma 1-bis» sono sostituite dalle seguenti: «all'articolo 73, comma 3-bis»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, in fine, e' inserito il seguente periodo: 
+ «Le stesse pubbliche amministrazioni, ove venga loro attribuito, per norma, il compito di gestire soluzioni infrastrutturali per l'erogazione di servizi comuni a piu' amministrazioni, adottano le medesime regole per garantire la compatibilita' con la cooperazione applicativa potendosi avvalere di modalita' atte a mantenere distinti gli ambiti di competenza.».
+
 ## Art. 56. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati : 
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 2 e 3 dell'articolo 4 del decreto del Presidente della Repubblica 11 febbraio 2005, n. 68; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 2, commi 582 e 583, della legge 24 dicembre 2007, n. 244; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 3 del decreto del Presidente del Consiglio dei Ministri in data 31 maggio 2005, recante: «Razionalizzazione in merito all'uso delle applicazioni informatiche e servizi ex articolo 1, commi 192, 193 e 194 della legge n. 311 del 2004», pubblicato nella Gazzetta Ufficiale n. 140 del 18 giugno 2005.
 
 ## Art. 57. — Norme transitorie e finali
 

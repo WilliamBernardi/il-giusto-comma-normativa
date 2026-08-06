@@ -8,8 +8,8 @@ codice_redazionale: 093G0440
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,6 +46,31 @@ Il decreto di abilitazione e' pubblicato nella Gazzetta Ufficiale della Repubbli
 L'abilitazione e' revocata in presenza di gravi inadempienze ovvero qualora siano venuti meno i requisiti in base ai quali e' stata rilasciata. Durante l'accertamento delle inadempienze l'abilitazione puo' essere sospesa con provvedimento motivato del Ministro.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            La vigilanza ed il controllo dell'Amministrazione metrica sui laboratori abilitati, previsti dall'art. 30, comma 2, della legge 30 gennaio 1968, n. 46, come sostituito dall'art. 1 della legge 4 giugno 1991, n. 188, sono volti, in particolare, a verificare l'osservanza da parte del personale delle seguenti prescrizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                divieto di esercitare, sia in proprio, direttamente o indirettamente, sia alle dipendenze di terzi o in collaborazione o societa' con terzi, qualsiasi attivita' di commercio o lavorazione nel settore dei metalli preziosi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                divieto di eseguire, in proprio, nel laboratorio al quale e' addetto, analisi e ricerche che non siano per conto del laboratorio stesso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                rispetto del segreto professionale.
 
 La Direzione generale del commercio interno e dei consumi industriali del Ministero dell'industria, del commercio e dell'artigianato puo', in qualunque tempo, disporre ispezioni e controlli straordinari per accertare il rispetto delle condizioni di cui al comma 1.
 

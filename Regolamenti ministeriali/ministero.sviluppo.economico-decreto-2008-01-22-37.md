@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2025-10-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,9 +33,135 @@ Udito il parere del Consiglio di Stato, Sezione Consultiva per gli Atti Normativ
 
 Il presente decreto si applica agli impianti posti al servizio degli edifici, indipendentemente dalla destinazione d'uso, collocati all'interno degli stessi o delle relative pertinenze. Se l'impianto e' connesso a reti di distribuzione si applica a partire dal punto di consegna della fornitura.
 
+2.
+                    
+                        
+                            Gli impianti di cui al comma 1 sono classificati come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                impianti di produzione, trasformazione, trasporto, distribuzione, utilizzazione dell'energia elettrica, impianti di protezione contro le scariche atmosferiche, nonche' gli impianti per l'automazione di porte, cancelli e barriere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                impianti radiotelevisivi, le antenne, gli impianti elettronici deputati alla gestione e distribuzione dei segnali tv, telefono e dati, anche relativi agli impianti di sicurezza compresi gli impianti in fibra ottica, nonche' le infrastrutture necessarie ad ospitare tali impianti;
+                            
+                        
+                        
+                            c)
+                            
+                                impianti di riscaldamento, di climatizzazione, di condizionamento e di refrigerazione di qualsiasi natura o specie, comprese le opere di evacuazione dei prodotti della combustione e delle condense, e di ventilazione ed aerazione dei locali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                impianti idrici e sanitari di qualsiasi natura o specie; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impianti per la distribuzione e l'utilizzazione di gas di qualsiasi tipo, comprese le opere di evacuazione dei prodotti della combustione e ventilazione ed aerazione dei locali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                impianti di sollevamento di persone o di cose per mezzo di ascensori, di montacarichi, di scale mobili e simili; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                impianti di protezione antincendio.
+
 Gli impianti o parti di impianto che sono soggetti a requisiti di sicurezza prescritti in attuazione della normativa comunitaria, ovvero di normativa specifica, non sono disciplinati, per tali aspetti, dalle disposizioni del presente decreto.
 
 ## Art. 2. — Definizioni relative agli impianti
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                punto di consegna delle forniture: il punto in cui l'azienda fornitrice o distributrice rende disponibile all'utente l'energia elettrica, il gas naturale o diverso, l'acqua, ovvero il punto di immissione del combustibile nel deposito collocato, anche mediante comodato, presso l'utente ovvero il punto terminale di rete come definito dall'articolo 2, comma 1, lettera oo), del ((codice delle comunicazioni elettroniche, di cui al decreto legislativo 1° agosto 2003, n. 259)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                potenza impegnata: il valore maggiore tra la potenza impegnata contrattualmente con l'eventuale fornitore di energia, e la potenza nominale complessiva degli impianti di autoproduzione eventualmente installati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                uffici tecnici interni: strutture costituite da risorse umane e strumentali preposte all'impiantistica, alla realizzazione degli impianti aziendali ed alla loro manutenzione i cui responsabili posseggono i requisiti tecnico-professionali previsti dall'articolo 4; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ordinaria manutenzione: gli interventi finalizzati a contenere il degrado normale d'uso, nonche' a far fronte ad eventi accidentali che comportano la necessita' di primi interventi, che comunque non modificano la struttura dell'impianto su cui si interviene o la sua destinazione d'uso secondo le prescrizioni previste dalla normativa tecnica vigente e dal libretto di uso e manutenzione del costruttore; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impianti di produzione, trasformazione, trasporto, distribuzione, utilizzazione dell'energia elettrica: i circuiti di alimentazione degli apparecchi utilizzatori e delle prese a spina con esclusione degli equipaggiamenti elettrici delle macchine, degli utensili, degli apparecchi elettrici in genere. Nell'ambito degli impianti elettrici rientrano anche quelli di autoproduzione di energia fino a 20 kw nominale, gli impianti per l'automazione di porte, cancelli e barriere, nonche' quelli posti all'esterno di edifici se gli stessi sono collegati, anche solo funzionalmente, agli edifici; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                impianti radiotelevisivi ed elettronici: le componenti impiantistiche necessarie alla trasmissione ed alla ricezione dei segnali tv, telefono e dati, anche relativi agli impianti di sicurezza, ad installazione fissa, comprese le infrastrutture destinate ad ospitare tali impianti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                impianti per la distribuzione e l'utilizzazione di gas: l'insieme delle tubazioni, dei serbatoi e dei loro accessori, dal punto di consegna del gas, anche in forma liquida, fino agli apparecchi utilizzatori, l'installazione ed i collegamenti dei medesimi, le predisposizioni edili e meccaniche per l'aerazione e la ventilazione dei locali in cui deve essere installato l'impianto, le predisposizioni edili e meccaniche per lo scarico all'esterno dei prodotti della combustione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                impianti di protezione antincendio: gli impianti di alimentazione di idranti, gli impianti di estinzione di tipo automatico e manuale nonche' gli impianti di rilevazione di gas, di fumo e d'incendio; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                CEI: Comitato Elettrotecnico Italiano;. 
+
+                            
+                        
+                        
+                            l)
+                            
+                                UNI: Ente Nazionale Italiano di Unificazione.
 
 ## Art. 3. — Imprese abilitate
 
@@ -53,11 +179,103 @@ Le imprese, di cui ai commi 1, 3, 4 e 5, alle quali sono stati riconosciuti i re
 
 ## Art. 4. — Requisiti tecnico-professionali
 
+1.
+                    
+                        
+                            I requisiti tecnico-professionali sono, in alternativa, uno dei seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                diploma di laurea in materia tecnica specifica conseguito presso una universita' statale o legalmente riconosciuta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma o qualifica conseguita al termine di scuola secondaria del secondo ciclo con specializzazione relativa al settore delle attivita' di cui all'articolo 1, presso un istituto statale o legalmente riconosciuto, seguiti da un periodo di inserimento, di almeno due anni continuativi, alle dirette dipendenze di una impresa del settore. Il periodo di inserimento per le attivita' di cui all'articolo 1, comma 2, lettera d) e' di un anno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                titolo o attestato conseguito ai sensi della legislazione vigente in materia di formazione professionale, previo un periodo di inserimento, di almeno quattro anni consecutivi, alle dirette dipendenze di una impresa del settore. Il periodo di inserimento per le attivita' di cui all'articolo 1, comma 2, lettera d) e' di due anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                prestazione lavorativa svolta, alle dirette dipendenze di una impresa abilitata nel ramo di attivita' cui si riferisce la prestazione dell'operaio installatore per un periodo non inferiore a tre anni, escluso quello computato ai fini dell'apprendistato e quello svolto come operaio qualificato, in qualita' di operaio installatore con qualifica di specializzato nelle attivita' di installazione, di trasformazione, di ampliamento e di manutenzione degli impianti di cui all'articolo 1.
+
 I periodi di inserimento di cui alle lettere b) e c) e le prestazioni lavorative di cui alla lettera d) del comma 1 possono svolgersi anche in forma di collaborazione tecnica continuativa nell'ambito dell'impresa da parte del titolare, dei soci e dei collaboratori familiari. Si considerano, altresi', in possesso dei requisiti tecnico-professionali ai sensi dell'articolo 4 il titolare dell'impresa, i soci ed i collaboratori familiari che hanno svolto attivita' di collaborazione tecnica continuativa nell'ambito di imprese abilitate del settore per un periodo non inferiore a sei anni. Per le attivita' di cui alla lettera d) dell'articolo 1, comma 2, tale periodo non puo' essere inferiore a quattro anni.
 
 ## Art. 5. — Progettazione degli impianti
 
 Per l'installazione, la trasformazione e l'ampliamento degli impianti di cui all'articolo 1, comma 2, lettere a), b), c), d), e), g), e' redatto un progetto. Fatta salva l'osservanza delle normative piu' rigorose in materia di progettazione, nei casi indicati al comma 2, il progetto e' redatto da un professionista iscritto negli albi professionali secondo la specifica competenza tecnica richiesta mentre, negli altri casi, il progetto, come specificato all'articolo 7, comma 2, e' redatto, in alternativa, dal responsabile tecnico dell'impresa installatrice.
+
+2.
+                    
+                        
+                            Il progetto per l'installazione, trasformazione e ampliamento, e' redatto da un professionista iscritto agli albi professionali secondo le specifiche competenze tecniche richieste, nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                impianti di cui all'articolo 1, comma 2, lettera a), per tutte le utenze condominiali e per utenze domestiche di singole unita' abitative aventi potenza impegnata superiore a 6 kw o per utenze domestiche di singole unita' abitative di superficie superiore a 400 mq; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                impianti elettrici realizzati con lampade fluorescenti a catodo freddo, collegati ad impianti elettrici, per i quali e' obbligatorio il progetto e in ogni caso per impianti di potenza complessiva maggiore di 1200 VA resa dagli alimentatori; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                impianti di cui all'articolo 1, comma 2, lettera a), relativi agli immobili adibiti ad attivita' produttive, al commercio, al terziario e ad altri usi, quando le utenze sono alimentate a tensione superiore a 1000 V, inclusa la parte in bassa tensione, o quando le utenze sono alimentate in bassa tensione aventi potenza impegnata superiore a 6 kw o qualora la superficie superi i 200 mq; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                impianti elettrici relativi ad unita' immobiliari provviste, anche solo parzialmente, di ambienti soggetti a normativa specifica del CEI, in caso di locali adibiti ad uso medico o per i quali sussista pericolo di esplosione o a maggior rischio di incendio, nonche' per gli impianti di protezione da scariche atmosferiche in edifici di volume superiore a 200 mc; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                impianti di cui all'articolo 1, comma 2, lettera b), relativi agli impianti elettronici ((...)) quando coesistono con impianti elettrici con obbligo di progettazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                impianti di cui all'articolo 1, comma 2, lettera c), dotati di canne fumarie collettive ramificate, nonche' impianti di climatizzazione per tutte le utilizzazioni aventi una potenzialita' frigorifera pari o superiore a 40.000 frigorie/ora; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                impianti di cui all'articolo 1, comma 2, lettera e), relativi alla distribuzione e l'utilizzazione di gas combustibili con portata termica superiore a 50 kw o dotati di canne fumarie collettive ramificate, o impianti relativi a gas medicali per uso ospedaliero e simili, compreso lo stoccaggio; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                impianti di cui all'articolo 1, comma 2, lettera g), se sono inseriti in un'attivita' soggetta al rilascio del certificato prevenzione incendi e, comunque, quando gli idranti sono in numero pari o superiore a 4 o gli apparecchi di rilevamento sono in numero pari o superiore a 10.
 
 I progetti degli impianti sono elaborati secondo la regola dell'arte. I progetti elaborati in conformita' alla vigente normativa e alle indicazioni delle guide e alle norme dell'UNI, del CEI o di altri Enti di normalizzazione appartenenti agli Stati membri dell'Unione europea o che sono parti contraenti dell'accordo sullo spazio economico europeo, si considerano redatti secondo la regola dell'arte.
 

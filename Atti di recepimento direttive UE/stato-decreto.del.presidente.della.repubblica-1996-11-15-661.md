@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2019-11-06
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -95,6 +95,31 @@ Il Ministero dello sviluppo economico informa la Commissione europea delle proce
 ((
 
 Per gli apparecchi che bruciano carburanti gassosi e per i relativi accessori, la vigilanza del mercato per il controllo degli apparecchi ed accessori che entrano nel mercato dell'Unione, e' svolta in conformita' all'articolo 15, paragrafo 3, e agli articoli da 16 a 29 del regolamento (CE) n. 765/2008, secondo le procedure e le prescrizioni di cui al capo V del regolamento (UE) n. 2016/426.
+
+2.
+                    
+                        
+                            I controlli di cui al comma 1 possono essere effettuati, anche con metodo a campione, presso gli operatori economici interessati e, a tal fine, le persone incaricate: 
+ 
+                        
+                        
+                            a)
+                            
+                                accedono ai luoghi di fabbricazione o di immagazzinamento o di vendita dei prodotti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisiscono tutte le informazioni necessarie all'accertamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prelevano campioni per l'esecuzione di esami e prove.
 
 Quando per i controlli ci si avvale di organismi o laboratori accreditati sono adottate modalita' che escludono la possibilita' di conflitto o sovrapposizione di interessi con l'attivita' di certificazione.
 

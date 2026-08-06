@@ -8,8 +8,8 @@ codice_redazionale: 097G0048
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,52 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 24 o
 ## Art. 1. — Esecuzione di spese
 
 La carta di credito e' uno strumento per il pagamento delle spese di cui al successivo comma 2, eseguite sul territorio nazionale ed all'estero, dai soggetti indicati dall'articolo 2.
+
+2.
+                    
+                        
+                            L'utilizzazione della carta di credito, nei limiti delle assegnazioni allo scopo disposte e con l'osservanza delle vigenti disposizioni in materia di assunzione di impegni, e' consentita, qualora non sia possibile o conveniente ricorrere alle procedure ordinarie, per l'esecuzione delle spese relative a:
+ 
+                        
+                        
+                            a)
+                            
+                                beni, lavori e servizi in economia disciplinati da speciali regolamenti ai sensi dell'articolo 8 del regio decreto 18 novembre 1923, n. 2440;
+
+                            
+                        
+                        
+                            b)
+                            
+                                rappresentanza delle amministrazioni in Italia ed all'estero;
+
+                            
+                        
+                        
+                            c)
+                            
+                                organizzazione e partecipazione a seminari ed a convegni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasporto, vitto e alloggio sostenute dal personale abilitato all'uso della carta di credito in occasione di missioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                espletamento di servizi per le esigenze di campagna, di bordo e di volo per le unita' dell'Esercito, della Marina militare e dell'Aeronautica militare;
+
+                            
+                        
+                        
+                            f)
+                            
+                                esercizio di funzioni di giustizia, di emergenza affidate a strutture della protezione civile, di tutela della sicurezza e dell'ordine pubblico.
 
 Il provvedimento di autorizzazione ad effettuare la missione in Italia ed all'estero e quello autorizzante l'uso della carta di credito devono essere comunicati, anche con messaggi informatici, all'ufficio competente per la liquidazione delle spese.
  AVVERTENZA:
@@ -64,11 +110,135 @@ L'uso delle tessere e dei supporti informatici per il pagamento dei transiti aut
 
 ## Art. 4. — Spese per il rilascio e l'utilizzo della carta di credito, delle tessere e dei supporti informatici per i transiti autostradali
 
+1.
+                    
+                        
+                            Le spese per il rilascio e l'utilizzo delle carte di credito e quelle accessorie sono imputate:
+ 
+                        
+                        
+                            a)
+                            
+                                ai capitoli delle spese destinate al funzionamento degli uffici, quelle di cui all'articolo 1, comma 2, lettere a), b), c);
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai capitoli delle spese di missione effettuate dal personale dipendente sul territorio nazionale ed all'estero, quelle di cui all'articolo 1, comma 2, lettera d).
+
 Le spese per il rilascio e l'utilizzo delle tessere di transito ed il canone d'uso dei supporti informatici per il pagamento dei pedaggi autostradali, sono imputati ai capitoli di cui al comma 1, lettera b).
 
 ## Art. 5. — Competenza del Provveditorato generale dello Stato
 
 Il Provveditorato generale dello Stato ha competenza a stipulare, ai sensi dell'articolo 1, comma 51, lettera b), della legge 28 dicembre 1995, n. 549, le convenzioni generali di cui ai successivi commi 2 e 3 alle quali le singole amministrazioni devono attenersi per la stipula dei contratti interessanti i rispettivi settori.
+
+2.
+                    
+                        
+                            La convenzione concernente le carte di credito deve, comunque, indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                la durata della convenzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'eventuale costo per il rilascio, per l'utilizzo e per il rinnovo della carta di credito;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il periodo di validita' della carta di credito;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la periodicita' dell'invio dell'estratto conto ed il termine di regolazione delle situazioni debitorie;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' relative alla sostituzione in caso di smarrimento o sottrazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' di regolazione dell'estratto conto periodico;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la responsabilita' del titolare della carta di credito anche per l'uso non autorizzato della stessa;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la determinazione di eventuali soglie massime di spesa.
+
+3.
+                    
+                        
+                            La convenzione generale concernente le condizioni di fornitura e di utilizzazione dei sistemi automatici di pagamento differito dei pedaggi autostradali, deve indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                la durata della convenzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il costo per il rilascio delle tessere a pagamento differito e per l'uso dei supporti informatici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i sistemi automatici in uso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di fatturazione perche' venga assicurata anche la correlazione tra il codice identificativo dell'utente ed i corrispettivi dovuti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la periodicita' dell'invio delle fatture e le modalita' di regolazione delle stesse;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' relative alla sostituzione in caso di smarrimento o sottrazione dei supporti magnetici o informatici.
 
 ## Art. 6. — Uso della carta di credito, delle tessere
  e dei supporti informatici per i transiti autostradali

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2008-12-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:58Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO

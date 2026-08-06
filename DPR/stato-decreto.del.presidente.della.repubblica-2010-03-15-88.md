@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-09-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -62,12 +62,98 @@ Agli istituti tecnici si riferiscono gli istituti tecnici superiori secondo quan
 
 ## Art. 3. — Istituti tecnici per il settore economico
 
+1.
+                    
+                        
+                            I percorsi degli istituti tecnici del settore economico di cui all'Allegato B) si riferiscono ai risultati di apprendimento e agli strumenti organizzativi e metodologici di cui ai punti 2.1 e 2.4 dell'Allegato A) comuni a tutti i percorsi degli istituti tecnici e al profilo culturale specifico e ai risultati di apprendimento di cui al punto 2.2 dell'allegato medesimo, in relazione ai seguenti indirizzi: 
+ 
+                        
+                        
+                            a)
+                            
+                                amministrazione, finanza e marketing (B1); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                turismo (B2). 
+ ((2))
+
 ---------------
                         AGGIORNAMENTO (2)
                         
  Il D.L. 23 settembre 2022, n. 144 ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel decreto del Presidente della Repubblica 15 marzo 2010, n. 88.
 
 ## Art. 4. — Istituti tecnici per il settore tecnologico
+
+1.
+                    
+                        
+                            I percorsi degli istituti tecnici del settore tecnologico di cui all'Allegato C) si riferiscono ai risultati di apprendimento e agli strumenti organizzativi e metodologici di cui ai punti 2.1 e 2.4 dell'Allegato A) comuni a tutti i percorsi degli istituti tecnici e al profilo culturale specifico e ai risultati di apprendimento di cui al punto 2.3 dell'allegato medesimo, in relazione ai seguenti indirizzi: 
+ 
+                        
+                        
+                            a)
+                            
+                                meccanica, meccatronica ed energia (C1); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                trasporti e logistica (C2); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                elettronica ed elettrotecnica (C3); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                informatica e telecomunicazioni (C4); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                grafica e comunicazione (C5); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                chimica, materiali e biotecnologie (C6); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                sistema moda (C7); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                agraria, agroalimentare e agroindustria (C8); 
+
+                            
+                        
+                        
+                            i)
+                            
+                                costruzioni, ambiente e territorio (C9).
 
 I percorsi di cui al comma 1 prevedono, nell'ambito delle attivita' e degli insegnamenti di cui all'articolo 5, comma 2, lettere a), b), c) e d) le seguenti ore di compresenza in laboratorio: 264 ore nel primo biennio, 891 ore nel triennio di cui 561 ore nel secondo biennio e 330 ore nel quinto anno.
 
@@ -81,6 +167,184 @@ Per i relativi posti, si fa riferimento a quelli gia' previsti, secondo il previ
  Il D.L. 23 settembre 2022, n. 144 ha disposto (con l'art. 26, comma 5) che con effetto dalla data di entrata in vigore dei regolamenti di cui al comma 1, sono abrogate le norme, anche di legge, individuate espressamente nei regolamenti, regolatrici degli ordinamenti e dei percorsi dell'istruzione tecnica, ivi comprese le disposizioni previste nel decreto del Presidente della Repubblica 15 marzo 2010, n. 88.
 
 ## Art. 5. — Organizzazione dei percorsi
+
+1.
+                    
+                        
+                            I percorsi degli istituti tecnici sono riordinati secondo i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                i risultati di apprendimento dei percorsi sono determinati in base a quanto previsto all'articolo 3, comma 1, e all'articolo 4, comma 1, in relazione agli insegnamenti di cui agli Allegati B) e C) del presente regolamento. La declinazione dei risultati di apprendimento in competenze, abilita' e conoscenze e' effettuata dalle istituzioni scolastiche, nella loro autonomia, sulla base delle linee guida di cui all'articolo 8, comma 3, anche in relazione alla Raccomandazione del Parlamento europeo e del Consiglio 23 aprile 2008 sulla costituzione del Quadro europeo delle qualifiche per l'apprendimento permanente (EQF), anche ai fini della mobilita' delle persone sul territorio dell'Unione europea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'orario complessivo annuale e' determinato in 1.056 ore, corrispondente a 32 ore settimanali di lezione, comprensive della quota riservata alle regioni e dell'insegnamento della religione cattolica e risponde ai criteri indicati nel comma 1-bis; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i percorsi attengono a due ampi settori: 1) economico; 2) tecnologico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'area di istruzione generale e' comune a tutti i percorsi e le aree di indirizzo, che possono essere ulteriormente specificate in opzioni secondo quanto previsto dall'articolo 8, comma 2, lettera d), si riferiscono a ciascuno dei due settori di cui alla lettera c); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' e insegnamenti relativi a «Cittadinanza e Costituzione», di cui all'articolo 1 del decreto-legge 1° settembre 2008, n. 137, convertito, con modificazioni, dalla legge 30 ottobre 2008, n. 169, sono previsti in tutti i percorsi secondo quanto indicato nell'Allegato A) del presente regolamento.
+
+1-bis.
+                    
+                        
+                            L'orario annuale complessivo, come determinato dal comma 1, lettera b), e' definito secondo i seguenti criteri; 
+ 
+                        
+                        
+                            a)
+                            
+                                superamento delle sperimentazioni didattiche gia' adottate in assenza di un quadro di riferimento organico, tenendo conto dei risultati con esse raggiunti, attraverso la stabilizzazione del sistema ordinamentale e l'introduzione della possibilita' di utilizzo delle quote di autonomia e degli spazi di flessibilita' di cui al comma 3, salvaguardando la coerenza tra i percorsi e i titoli di studio rilasciati mediante la riconduzione agli indirizzi, profili e quadri orari standard di cui agli allegati B e C; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ripartizione delle ore di laboratorio in maniera da assicurarne una prevalenza nel secondo biennio e nell'ultimo anno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conformazione dei piani di studio in base ad una quota oraria di 60 minuti, fatte salve le forme di flessibilita' adottate ai sensi dell'articolo 4, comma 2, lettera b), del decreto del Presidente della Repubblica 8 marzo 1999, n. 275, avuto riguardo in particolare all'utilizzazione, nell'ambito del curricolo obbligatorio, degli spazi orari residui al fine di meglio garantire l'integrale erogazione del curricolo stesso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ponderazione dei quadri orari tenuto conto, in particolare, della sostenibilita' dell'impegno orario richiesto agli studenti e dell'introduzione di metodologie didattiche innovative; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                definizione di piani di studio il cui impianto curriculare garantisca il raggiungimento dei risultati di apprendimento, declinati in competenze, conoscenze e abilita', attraverso la complementarita' tra le diverse discipline, valorizzando il legame tra il contributo educativo offerto dalla cultura scientifico-tecnologica e la cultura umanistica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                previsione di piani di studio con un numero di ore complessive per ogni disciplina adeguato al conseguimento dei risultati di apprendimento attesi in esito ai corrispondenti percorsi quinquennali, ponderando la quota oraria delle singole discipline in relazione alle caratteristiche e al profilo del diplomato di ciascun percorso e tenendo conto, laddove possibile, della struttura oraria del previgente ordinamento e dei contenuti innovativi del percorso, nonche' dei tempi di presenza in aula degli studenti e della necessita' di agevolare la concentrazione e partecipazione dei medesimi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                adeguata ripartizione tra le discipline dell'area di istruzione generale e dell'area di indirizzo, diversificata in relazione al primo biennio, secondo biennio e quinto anno. In particolare, la suddetta ripartizione deve considerare la funzione di ciascun segmento del percorso di istruzione che, per il primo biennio, si pone in relazione con l'assolvimento dell'obbligo di istruzione finalizzato all'acquisizione dei saperi e delle competenze chiave di cittadinanza e, per il secondo biennio e quinto anno, con l'introduzione progressiva e piu' incisiva delle discipline dell'area di indirizzo in relazione all'acquisizione degli apprendimenti piu' propriamente necessari ad assumere una adeguata competenza professionale di settore. Il rapporto tra ore/discipline da destinare all'area di istruzione generale e all'area di indirizzo e' modulato, di conseguenza, secondo una proporzione superiore nel primo biennio a favore dell'area di istruzione generale e, nel secondo biennio e quinto anno, a favore dell'area di indirizzo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                dimensionamento dell'orario complessivo annuale e dell'orario settimanale delle lezioni ad un livello tale da garantire un equilibrato assortimento delle discipline di studio in relazione agli obiettivi di apprendimento, al fine di assicurare, a regime, l'ottimale determinazione delle cattedre, salvaguardando la stabilita' dei docenti presenti nell'istituzione scolastica e la loro titolarita' in organico e tutelando la continuita' didattica nell'ambito dell'intero ciclo di studi ovvero, distintamente, nell'ambito del primo biennio e degli ultimi tre anni.
+
+2.
+                    
+                        
+                            I percorsi di cui al comma 1 hanno la seguente struttura: 
+ 
+                        
+                        
+                            a)
+                            
+                                un primo biennio articolato, per ciascun anno, in 660 ore di attivita' e insegnamenti di istruzione generale e in 396 ore di attivita' e insegnamenti obbligatori di indirizzo, ai fini dell'assolvimento dell'obbligo di istruzione di cui al regolamento adottato con decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139 e dell'acquisizione dei saperi e delle competenze di indirizzo in funzione orientativa, anche per favorire la reversibilita' delle scelte degli studenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un secondo biennio articolato, per ciascun anno, in 495 ore di attivita' e insegnamenti di istruzione generale e in 561 ore di attivita' e insegnamenti obbligatori di indirizzo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un quinto anno articolato in 495 ore di attivita' e insegnamenti di istruzione generale e in 561 ore di attivita' e insegnamenti obbligatori di indirizzo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il secondo biennio e il quinto anno costituiscono articolazioni, all'interno di un complessivo triennio nel quale, oltre all'area di istruzione generale comune a tutti i percorsi, i contenuti scientifici, economico-giuridici e tecnici delle aree di indirizzo di cui agli Allegati B) e C) vengono approfonditi e assumono connotazioni specifiche che consentono agli studenti di raggiungere, nel quinto anno, una adeguata competenza professionale di settore, idonea anche per la prosecuzione degli studi a livello di istruzione e formazione superiore con particolare riferimento all'esercizio delle professioni tecniche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                si realizzano attraverso metodologie finalizzate a sviluppare, con particolare riferimento alle attivita' e agli insegnamenti di indirizzo, competenze basate sulla didattica di laboratorio, l'analisi e la soluzione dei problemi, il lavoro per progetti; sono orientati alla gestione di processi in contesti organizzati e all'uso di modelli e linguaggi specifici; sono strutturati in modo da favorire un collegamento organico con il mondo del lavoro e delle professioni, compresi il volontariato ed il privato sociale. Stage, tirocini e alternanza scuola lavoro sono strumenti didattici per la realizzazione dei percorsi di studio.
+
+3.
+                    
+                        
+                            Ai fini di cui al comma 1, gli istituti tecnici: 
+ 
+                        
+                        
+                            a)
+                            
+                                possono utilizzare la quota di autonomia del 20% dei curricoli, nell'ambito degli indirizzi definiti dalle regioni e in coerenza con il profilo di cui all'Allegato A), sia per potenziare gli insegnamenti obbligatori per tutti gli studenti, con particolare riferimento alle attivita' di laboratorio, sia per attivare ulteriori insegnamenti, finalizzati al raggiungimento degli obiettivi previsti dal piano dell'offerta formativa. Nei limiti del contingente di organico ad esse annualmente assegnato, tale quota e' determinata, in base all'orario complessivo delle lezioni previsto per il primo biennio e per il complessivo triennio, tenuto conto delle richieste degli studenti e delle loro famiglie, fermo restando che ciascuna disciplina non puo' essere decurtata per piu' del 20% previsto dai quadri orario di cui agli Allegati B) e C). A tal fine, nell'ambito delle dotazioni organiche del personale docente determinate annualmente con il decreto adottato dal Ministero dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministero dell'economia e delle finanze puo' essere previsto un contingente di organico da assegnare alle singole istituzioni scolastiche e/o disponibile attraverso gli accordi di rete previsti dall'articolo 7 del decreto del Presidente della Repubblica 8 marzo 1999, n. 275, fermi restando il conseguimento, a regime, degli obiettivi finanziari di cui all'articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e subordinatamente alla preventiva verifica da parte del Ministero dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministero dell'economia e delle finanze circa la sussistenza di economie aggiuntive; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                utilizzano i seguenti spazi di flessibilita', intesi come possibilita' di articolare in opzioni le aree di indirizzo di cui agli Allegati B) e C) per corrispondere alle esigenze del territorio e ai fabbisogni formativi espressi dal mondo del lavoro e delle professioni, con riferimento all'orario annuale delle lezioni: entro il 30% nel secondo biennio e il 35% nell'ultimo anno. La citata flessibilita' e' utilizzata nei limiti delle dotazioni organiche assegnate senza determinare esuberi di personale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                possono costituire, nell'esercizio della loro autonomia didattica, organizzativa e di ricerca, senza nuovi e maggiori oneri per la finanza pubblica, dipartimenti, quali articolazioni funzionali del collegio dei docenti, per il sostegno alla didattica e alla progettazione formativa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                possono dotarsi, nell'esercizio della loro autonomia didattica e organizzativa, di un comitato tecnico-scientifico, senza nuovi e maggiori oneri per la finanza pubblica, composto da docenti e da esperti del mondo del lavoro, delle professioni e della ricerca scientifica e tecnologica, con funzioni consultive e di proposta per l'organizzazione delle aree di indirizzo e l'utilizzazione degli spazi di autonomia e flessibilita'; ai componenti del comitato non spettano compensi ad alcun titolo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                possono stipulare contratti d'opera con esperti del mondo del lavoro e delle professioni con una specifica e documentata esperienza professionale maturata nel settore di riferimento, ai fini dell'arricchimento dell'offerta formativa e per competenze specialistiche non presenti nell'istituto, nei limiti degli spazi di flessibilita' di cui alla lettera a) e delle risorse iscritte nel programma annuale di ciascuna istituzione scolastica. 
+ ((2))
 
 ---------------
                         AGGIORNAMENTO (2)
@@ -121,6 +385,38 @@ I risultati di apprendimento sono oggetto di valutazione periodica da parte dell
 
 Gli attuali istituti tecnici di ogni tipo e indirizzo confluiscono, a partire dall'anno scolastico 2010-2011, negli istituti tecnici di cui al presente regolamento secondo quanto previsto dalla tabella contenuta nell'Allegato D). Per la confluenza di percorsi sperimentali non indicati espressamente nell'Allegato D), si fa riferimento alla corrispondenza dei titoli finali prevista dai provvedimenti di autorizzazione alla sperimentazione adottati dal Ministero dell'istruzione, dell'universita' e della ricerca. Gli indirizzi sperimentali corrispondenti ai percorsi liceali funzionanti presso gli istituti tecnici, ivi compreso l'indirizzo scientifico-tecnologico, sono ricondotti nei nuovi ordinamenti dei licei definiti in applicazione dell'articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133. Negli istituti tecnici agrari specializzati per la viticoltura ed enologia, confluiti negli istituti tecnici del settore tecnologico ad indirizzo «Agraria, agroalimentare e agroindustria» come indicato nell'Allegato D), i percorsi si sviluppano in un ulteriore sesto anno, ai fini del conseguimento della specializzazione di «Enotecnico» gia' prevista dal previgente ordinamento. L'ulteriore sesto anno, definito con i decreti di cui al comma 2, lettera d), puo' essere attivato nei limiti delle dotazioni organiche del personale docente a tal fine previste per l'anno scolastico 2009/2010.
 
+2.
+                    
+                        
+                            Con successivi decreti del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze, sono definiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                l' articolazione delle cattedre, in relazione alle classi di concorso del personale docente, per ciascuno degli indirizzi di cui agli Allegati B) e C), da determinarsi anche con riferimento alla ridefinizione dell'orario complessivo annuale delle lezioni di cui all'articolo 1, comma 4, a partire dalle classi seconde, terze e quarte degli istituti tecnici funzionanti nell'anno scolastico 2010-2011. La ridefinizione, da realizzare in ogni caso nei limiti degli organici determinati a legislazione vigente, e' effettuata in modo da ridurre del 20% l'orario previsto dall'ordinamento previgente con riferimento alle classi di concorso le cui discipline hanno complessivamente un orario annuale pari o superiore a 99 ore, comprese le ore di compresenza degli insegnanti tecnico-pratici; le cattedre sono costituite, di norma, con non meno di 18 ore settimanali e comunque nel rispetto degli obiettivi finanziari di cui all'articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i criteri generali per l'insegnamento, in lingua inglese, di una disciplina non linguistica compresa nell'area di indirizzo del quinto anno, da attivare in ogni caso nei limiti degli organici determinati a legislazione vigente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli indicatori per la valutazione e l'autovalutazione degli istituti tecnici, anche con riferimento al quadro europeo per la garanzia della qualita' dei sistemi di istruzione e formazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la definizione, previo parere della Conferenza Stato, Regioni e Province autonome di cui al decreto legislativo 28 agosto 1997, n. 281, degli ambiti, dei criteri e delle modalita' per l'ulteriore articolazione delle aree di indirizzo di cui agli articoli 3 e 4, negli spazi di flessibilita' di cui all'articolo 5, comma 3, lettera b), in un numero contenuto di opzioni incluse in un apposito elenco nazionale, nonche' la ripartizione, per il secondo biennio e l'ultimo anno di ciascun indirizzo, delle ore di compresenza degli insegnanti tecnico pratici di cui agli Allegati B) e C), da realizzare in ogni caso nei limiti degli organici determinati a legislazione vigente.
+
 Il passaggio al nuovo ordinamento e' definito da linee guida a sostegno dell'autonomia organizzativa e didattica delle istituzioni scolastiche, anche per quanto concerne l'articolazione in competenze, abilita' e conoscenze dei risultati di apprendimento di cui agli Allegati B) e C), nonche' da misure nazionali di sistema per l'aggiornamento dei dirigenti, dei docenti e del personale amministrativo, tecnico e ausiliario degli istituti tecnici e per informare i giovani e le loro famiglie in relazione alle scelte degli studi da compiere per l'anno scolastico 2010-2011.
 
 I posti relativi all'Ufficio tecnico di cui all'articolo 4, comma 3, sono coperti prioritariamente con personale titolare nell'istituzione scolastica e, in mancanza, con personale appartenente a classe di concorso in esubero con modalita' da definire in sede di contrattazione collettiva nazionale integrativa sulla mobilita' e sulle utilizzazioni.
@@ -150,7 +446,23 @@ Il presente regolamento entra in vigore il giorno successivo a quello della sua 
 
 ## Art. 10. — Abrogazioni
 
+1.
+                    
+                        
+                            A decorrere dalla data di entrata in vigore del presente regolamento, all'articolo 191, comma 3, del decreto legislativo 16 aprile 1994, n. 297, e successive modificazioni, sono soppressi: 
+                        
+                        
+                            a)
+                            
+                                al primo periodo, le parole: «gli istituti tecnici hanno per fine precipuo quello di preparare all'esercizio di funzioni tecniche od amministrative, nonche' di alcune professioni, nei settori commerciale e dei servizi, industriale, delle costruzioni, agrario, nautico ed aeronautico»;
+                            
+                        
+                        
+                            b)
+                            
+                                l'ultimo periodo.
 
+((2))
 
 ---------------
                         AGGIORNAMENTO (2)

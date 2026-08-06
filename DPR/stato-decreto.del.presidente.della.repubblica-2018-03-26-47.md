@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-11-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -2298,6 +2298,24 @@ Il fondo di amministrazione di cui all'articolo 6 del decreto del Presidente del
 Per il personale appartenente ai ruoli speciali antincendio boschivo (AIB) a esaurimento, l'assegno ad personam di cui all'articolo 8, comma 1, lettera a), numero 2), ultimo periodo, della legge 7 agosto 2015, n. 124 viene riassorbito, sino a concorrenza, dai miglioramenti economici di cui al presente decreto.
 
 ## Art. 8. — Disposizioni finanziarie
+
+1.
+                    
+                        
+                            Alla copertura degli oneri derivanti dall'attuazione del presente accordo, pari ad € 143.195.529 per l'anno 2018 e ad € 85.233.387 a decorrere dall'anno 2019 si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto ad € 57.962.142 per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 15, comma 2, del decreto legislativo 29 maggio 2017, n. 97, che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto ad € 85.233.387 a decorrere dall'anno 2018, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 15, comma 2, del decreto legislativo 29 maggio 2017, n. 97.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare con proprio decreto le occorrenti variazioni di bilancio.
 

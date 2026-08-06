@@ -8,8 +8,8 @@ codice_redazionale: 012G0017
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -35,6 +35,49 @@ Di concerto con il Ministro del lavoro e delle politiche sociali e il Ministro d
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «datore di lavoro»: il dirigente al quale spettano i poteri di gestione, ovvero il funzionario non avente qualifica dirigenziale, nei soli casi in cui quest'ultimo sia preposto ad un ufficio avente autonomia gestionale, individuato dall'organo di vertice delle singole amministrazioni tenendo conto dell'ubicazione e dell'ambito funzionale degli uffici nei quali viene svolta l'attivita', e dotato di autonomi poteri decisionali e di spesa. In caso di omessa individuazione, o di individuazione non conforme ai criteri sopra indicati, il datore di lavoro coincide con l'organo di vertice medesimo. Nel caso di specie il datore di lavoro e' individuato nella figura del Capo del Dipartimento ai sensi del decreto del Presidente del Consiglio dei Ministri 23 luglio 2003; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «personale del Dipartimento della Protezione Civile»: 
+ le unita' inquadrate nel ruolo speciale della protezione civile di cui all'articolo 9-ter del decreto legislativo 30 luglio 1999, n. 303 e successive modificazioni ed integrazioni; 
+ il personale di ruolo della Presidenza del Consiglio dei Ministri, di cui all'articolo 9-bis del decreto legislativo n. 303 del 1999 e successive modificazioni ed integrazioni, in servizio presso il Dipartimento della protezione civile; 
+ il personale in posizione di distacco, comando o di fuori ruolo in servizio presso il Dipartimento medesimo; 
+ il personale in possesso di contratto a tempo determinato o di collaborazione coordinata e continuativa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «formazione»: processo educativo mediante il quale trasferire ai lavoratori conoscenze e procedure utili alla acquisizione di competenze per lo svolgimento in sicurezza dei rispettivi compiti all'interno del Dipartimento e alla identificazione, alla riduzione ed alla gestione dei rischi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «attivita' divulgativa e informativa» complesso delle attivita' dirette a fornire conoscenze utili alla identificazione, alla riduzione ed alla gestione dei rischi in ambiente di lavoro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «sorveglianza sanitaria» insieme degli atti medici, finalizzati alla tutela dello stato di salute e sicurezza dei lavoratori, in relazione all'ambiente di lavoro, ai fattori di rischio professionali ed alle modalita' di svolgimento dell'attivita' lavorativa.
+
 ## Art. 2. — Campo di applicazione
 
 Il presente regolamento si applica al personale cosi' come definito all'articolo 1, comma 1, lett. b), nei casi in cui lo stesso personale sia impegnato in attivita' di protezione civile ai sensi dell'articolo 3 della legge 24 febbraio 1992, n. 225 e successive modificazioni ed integrazioni, prestate fuori dall'ordinaria sede di servizio e poste in essere per fronteggiare eventi di cui all'articolo 2 della medesima legge ovvero di cui all'articolo 5-bis, comma 5, del decreto-legge 7 settembre 2001, n. 343, convertito, con modificazioni, dalla legge 9 novembre 2001, n. 401.
@@ -50,6 +93,45 @@ Le peculiarita' che caratterizzano le attivita' del personale del Dipartimento d
 ## Art. 4. — Misure generali di tutela
 
 Nei luoghi in cui il personale del Dipartimento della protezione civile svolge la propria attivita' di istituto, le norme e le prescrizioni in materia di sicurezza dei luoghi di lavoro, contenute nel decreto legislativo 9 aprile 2008 n. 81 e successive modificazioni ed integrazioni, sono applicate, ferma restando la necessita' di garantire la protezione e la tutela della salute e della sicurezza del personale stesso, in modo da assicurare la continuita' delle attivita' di protezione civile di cui all'articolo 3 della legge 24 febbraio 1992, n. 225, in particolare in occasione degli eventi di cui all'articolo 2 della medesima legge e all'articolo 5-bis, comma 5, del decreto-legge 7 settembre 2001, n. 343, convertito, con modificazioni, dalla legge 9 novembre 2001, n. 401.
+
+2.
+                    
+                        
+                            Fatte salve le misure generali di tutela di cui all'articolo 15 del decreto legislativo 9 aprile 2008, n. 81 e successive modificazioni ed integrazioni in relazione all'espletamento delle funzioni di cui all'articolo 3 della legge 24 febbraio 1992, n. 225, le finalita' di protezione e tutela della salute e della sicurezza del personale sono perseguite attraverso: 
+ 
+                        
+                        
+                            a)
+                            
+                                corsi di formazione impartiti da docenti in possesso dei requisiti previsti dalla normativa vigente, appartenenti ad enti, amministrazioni, istituti di formazione competenti in materia di sicurezza, scenari di rischio e comportamenti di autotutela e autoprotezione, affinche' sia assicurata la capacita' di iniziativa, consapevole della natura e quantita' dei pericoli connessi alla specificita' dell'attivita' svolta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' divulgativa e informativa sulle disposizioni interne, inerenti agli argomenti di cui alla precedente lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' addestrative periodiche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sorveglianza sanitaria ai sensi dell'articolo 6 del presente regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                utilizzo dei dispositivi di cui all'articolo 7.
 
 La formazione, l'informazione e l'addestramento ricevuti, l'ottemperanza alle disposizioni in materia di sorveglianza sanitaria nonche' l'utilizzo dei dispositivi di protezione individuale, ai sensi del comma 2 e nei modi contemplati negli articoli 5, 6 e 7, assicurano la piena capacita' operativa del personale del Dipartimento della protezione civile.
 

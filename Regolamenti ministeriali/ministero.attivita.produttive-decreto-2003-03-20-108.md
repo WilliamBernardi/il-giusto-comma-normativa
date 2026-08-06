@@ -8,8 +8,8 @@ codice_redazionale: 003G0131
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,9 +33,135 @@ Il personale destinatario del compenso e' individuato, tenuto conto dell'esigenz
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            Per progetti d'importo fino a 200.000,00 euro l'incentivo e' attribuito in ragione dell'1,5%, secondo la seguente ripartizione:
+ 
+                        
+                        
+                            a)
+                            
+                                responsabile unico del procedimento e collaboratori, dal 3% al 15%;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tecnici che assumono la responsabilita' della progettazione firmando i relativi elaborati e collaboratori:
+ 1) per la progettazione preliminare, dal 2% al 10%;
+ 2) per la progettazione definitiva, dal 3% al 15%;
+ 3) per la progettazione esecutiva, dal 6% al 30%;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tecnici incaricati della redazione del piano della sicurezza, ivi compreso l'eventuale coordinatore per la sicurezza in fase di progettazione, e collaboratori, dal 5% al 25%;
+
+                            
+                        
+                        
+                            d)
+                            
+                                incaricati della direzione dei lavori, ivi compreso l'eventuale coordinatore per la sicurezza in fase di esecuzione, e collaboratori, dal 7% al 35%;
+
+                            
+                        
+                        
+                            e)
+                            
+                                direttori dei lavori incaricati della regolare esecuzione e collaboratori, dal 4% al 20%.
+
 ## Art. 4.
 
+1.
+                    
+                        
+                            Per progetti d'importo compreso tra euro 200.000,01 ed euro 1.000.000,00 il fondo e' attribuito in ragione dell'1,4%, secondo la seguente ripartizione:
+ 
+                        
+                        
+                            a)
+                            
+                                responsabile unico del procedimento e collaboratori, dal 3% al 15%;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tecnici che assumono la responsabilita' della progettazione firmando i relativi elaborati e collaboratori:
+ 1) per la progettazione preliminare, dal 2% al 10%;
+ 2) per la progettazione definitiva, dal 3% al 15%;
+ 3) per la progettazione esecutiva, dal 6% al 30%;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tecnici incaricati della redazione del piano della sicurezza, ivi compreso l'eventuale coordinatore per la sicurezza in fase di progettazione, e collaboratori, dal 5% al 25%;
+
+                            
+                        
+                        
+                            d)
+                            
+                                incaricati della direzione dei lavori, ivi compreso l'eventuale coordinatore per la sicurezza in fase di esecuzione, e collaboratori, dal 7% al 35%;
+
+                            
+                        
+                        
+                            e)
+                            
+                                direttori dei lavori incaricati della regolare esecuzione ovvero personale incaricato del collaudo e collaboratori, dal 4% al 20%.
+
 ## Art. 5.
+
+1.
+                    
+                        
+                            Per progetti d'importo superiore a 1.000.000,00 euro il fondo e' attribuito in ragione del 1,2%, secondo la seguente ripartizione:
+ 
+                        
+                        
+                            a)
+                            
+                                responsabile unico del procedimento e collaboratori, dal 3% al 15%;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tecnici che assumono la responsabilita' della progettazione firmando i relativi elaborati e collaboratori:
+ 1) per la progettazione preliminare, dal 2% al 10%;
+ 2) per la progettazione definitiva, dal 3% al 15%;
+ 3) per la progettazione esecutiva, dal 6% al 30%;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tecnici incaricati della redazione del piano della sicurezza, ivi compreso l'eventuale coordinatore per la sicurezza in fase di progettazione, e collaboratori, dal 5% al 25%;
+
+                            
+                        
+                        
+                            d)
+                            
+                                incaricati della direzione dei lavori, ivi compreso l'eventuale coordinatore per la sicurezza in fase di esecuzione, e collaboratori, dal 7% al 35%;
+
+                            
+                        
+                        
+                            e)
+                            
+                                personale incaricato del collaudo e collaboratori, dal 4% al 20%.
 
 ## Art. 6.
 
@@ -44,6 +170,16 @@ Nel caso di elaborati progettuali redatti congiuntamente da piu' soggetti, la ri
 Nel caso che un soggetto svolga nell'ambito di un medesimo progetto una pluralita' di compiti la quota dell'incentivo da attribuire al singolo dipendente fa riferimento alla pluralita' delle prestazioni svolte.
 
 L'incentivo per la redazione del progetto non e' conferito quando l'attivita' di progettazione consiste in un'opera di mero assemblaggio di apporti progettuali esterni.
+
+4.
+                    
+                        
+                            La quota parte degli incentivi corrispondenti a prestazioni che non sono state svolte dai dipendenti per la scarsa complessita' dell'opera da realizzare, o in quanto affidate a personale esterno all'organico dell'amministrazione medesima, costituiscono economie; a tal fine la percentuale dell'incentivo che non viene assegnata non puo' essere inferiore al cinque per cento per ciascuna delle categorie funzionali indicate nelle lettere da 
+                        
+                        
+                            a)
+                            
+                                ad e) del comma 1 degli articoli 3, 4 e 5.
 
 L'incentivo per gli incaricati della progettazione e i loro collaboratori non e' conferito quando nel corso dei lavori si renda necessario apportare al progetto varianti dovute al manifestarsi di errori o di omissioni del progetto esecutivo, secondo quanto previsto dall'articolo 25, comma 1, lettera d), e comma 4 della legge n. 109/1994.
 

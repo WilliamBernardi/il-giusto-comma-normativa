@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-07-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,9 +37,227 @@ Alle apparecchiature radio che rientrano nell'ambito di applicazione del present
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «apparecchiatura radio»: un prodotto elettrico o elettronico che emette ovvero riceve intenzionalmente onde radio a fini di radiocomunicazione o radiodeterminazione o un prodotto elettrico o elettronico che deve essere completato con un accessorio, come un'antenna, per poter emettere ovvero ricevere intenzionalmente onde radio a fini di radiocomunicazione o radiodeterminazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «radio comunicazione»: comunicazione per mezzo di onde radio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «radiodeterminazione»: determinazione della posizione, della velocita' ovvero di altre caratteristiche di un oggetto o l'ottenimento di informazioni relative a tali parametri grazie alle proprieta' di propagazione delle onde radio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «onde radio»: onde elettromagnetiche di frequenza inferiore a 3000 GHz, propagate nello spazio senza guida artificiale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «interfaccia radio»: le specifiche dell'uso regolamentato dello spettro radio; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «classe di apparecchiatura radio»: classe che identifica particolari categorie di apparecchiature radio che, ai sensi del presente decreto, sono considerate simili e quelle interfacce radio per le quali l'apparecchiatura radio e' destinata; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «interferenze dannose»: interferenze dannose, quali definite all'articolo 2, lettera r), della direttiva 2002/21/CE del Parlamento europeo e del Consiglio attuata con il decreto legislativo 1° agosto 2003, n. 259, e successive modificazioni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «perturbazioni elettromagnetiche»: perturbazioni elettromagnetiche quali definite all'articolo 3, paragrafo 1, punto 5, della direttiva 2014/30/UE e la relativa normativa di attuazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «messa a disposizione sul mercato»: la fornitura di apparecchiature radio per la distribuzione, il consumo o l'uso sul mercato dell'Unione nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «immissione sul mercato»: la prima messa a disposizione di apparecchiature radio sul mercato dell'Unione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «messa in servizio»: il primo utilizzo di un'apparecchiatura radio nell'Unione da parte dell'utilizzatore finale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «fabbricante»: una persona fisica o giuridica che fabbrica apparecchiature radio o le fa progettare o fabbricare, e le commercializza apponendovi il proprio nome o marchio; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «rappresentante autorizzato»: la persona fisica o giuridica stabilita nell'Unione che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire a suo nome in relazione a determinati compiti; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «importatore»: la persona fisica o giuridica stabilita nell'Unione che immette sul mercato dell'Unione apparecchiature radio originarie di un Paese terzo; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «distributore»: la persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante e dall'importatore, che mette a disposizione apparecchiature radio sul mercato; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «operatori economici»: il fabbricante, il rappresentante autorizzato, l'importatore e il distributore; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «specifica tecnica»: un documento che prescrive i requisiti tecnici che l'apparecchiatura radio deve soddisfare; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «norma armonizzata»: la norma armonizzata di cui all'articolo 2, paragrafo 1, lettera c), del regolamento (UE) n. 1025/2012; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «accreditamento»: accreditamento quale definito all'articolo 2, punto 10, del regolamento (CE) n. 765/2008; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «organismo nazionale di accreditamento»: organismo nazionale di accreditamento di cui all'articolo 2, punto 11, del regolamento (CE) n. 765/2008; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «valutazione della conformita'»: il processo atto a dimostrare che i requisiti essenziali del presente decreto relativi alle apparecchiature radio siano stati soddisfatti; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «organismo di valutazione della conformita'»: un organismo che svolge attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «richiamo»: qualsiasi misura volta a ottenere la restituzione di un'apparecchiatura radio gia' messa a disposizione dell'utilizzatore finale; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «ritiro»: qualsiasi provvedimento volto a impedire la messa a disposizione sul mercato di apparecchiature radio presenti nella catena di fornitura; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «normativa di armonizzazione dell'Unione»: la normativa dell'Unione che armonizza le condizioni di commercializzazione dei prodotti; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    «marcatura CE»: una marcatura mediante la quale il fabbricante indica che l'apparecchiatura radio e' conforme ai requisiti applicabili stabiliti nella normativa di armonizzazione dell'Unione che ne prevede l'apposizione; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    «Ministero»: il Ministero dello sviluppo economico; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    «Commissione»: la Commissione europea.
+
 Il Ministero attua, conformemente alla normativa vigente, gli atti di esecuzione adottati dalla Commissione europea per stabilire se determinate categorie di prodotti elettrici o elettronici rientrino o meno nella definizione di cui al comma 1, lettera a), del presente articolo.
 
 ## Art. 3. — Requisiti essenziali
+
+1.
+                        
+                            
+                                Le apparecchiature radio sono fabbricate in modo da garantire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la protezione della salute e della sicurezza di persone e di animali domestici e beni, compresi gli obiettivi riguardanti i requisiti di sicurezza previsti dalla direttiva 2014/35/UE e la relativa normativa di attuazione, ma senza applicazione di limiti minimi di tensione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un adeguato livello di compatibilita' elettromagnetica ai sensi della direttiva 2014/30/UE e la relativa normativa di attuazione.
 
 Le apparecchiature radio sono fabbricate in modo da utilizzare efficacemente lo spettro radio e supportare l'uso efficiente dello spettro radio stesso al fine di evitare interferenze dannose.
 
@@ -54,6 +272,17 @@ Le apparecchiature radio di determinate categorie o classi sono fabbricate in mo
  g) supportare caratteristiche speciali che consentano l'accesso ai servizi d'emergenza; 
  h) supportare caratteristiche speciali che facilitino il loro uso da parte di utenti disabili; 
  i) supportare caratteristiche speciali che garantiscano che sia caricato un software nell'apparecchiatura radio, soltanto se e' stata dimostrata la conformita' della combinazione dell'apparecchiatura radio e del software.
+
+4.
+                        
+                            
+                                Il Ministero attua, conformemente alla normativa vigente, gli atti delegati, adottati dalla Commissione europea che specificano a quali categorie o classi di apparecchiature radio si applicano ciascuno dei requisiti di cui al precedente comma, lettere da 
+                            
+                            
+                                a)
+                                
+                                    ad i). ((Il Ministero attua altresi', conformemente alla normativa vigente, gli atti delegati adottati dalla Commissione europea che modificano la parte I dell'allegato I bis alla luce del progresso scientifico e tecnologico o degli sviluppi del mercato per garantire un'interoperabilita' minima comune tra le apparecchiature radio e i relativi dispositivi di ricarica, nonche' migliorare la convenienza dei consumatori, ridurre i rifiuti ambientali ed evitare la frammentazione del mercato, per quanto riguarda sia le apparecchiature radio che possono essere ricaricate mediante cavo sia le apparecchiature radio che possono essere ricaricate tramite mezzi diversi dal cavo.))
+                                        ((1))
 
 ((4-bis. Le apparecchiature radio che rientrano nelle categorie o nelle classi di cui all'allegato I bis, parte I, sono costruite in modo da essere conformi alle specifiche relative alle capacita' di ricarica di cui a tale allegato per la pertinente categoria o classe di apparecchiature radio.))
 
@@ -115,6 +344,24 @@ Sono consentiti la messa in servizio e l'uso delle apparecchiature radio se, ade
 ## Art. 8. — Notifica delle specifiche delle interfacce radio 
  e assegnazione delle classi di apparecchiature radio
 
+1.
+                        
+                            
+                                Conformemente alla procedura di cui alla direttiva (UE) 2015/1535 il Ministero notifica le interfacce radio che intende regolamentare, ad eccezione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle interfacce radio che sono pienamente conformi alle decisioni della Commissione sull'utilizzo armonizzato dello spettro radio adottate in applicazione della decisione n. 676/2002/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle interfacce radio che, in base agli atti di esecuzione adottati ai sensi del comma 2 del presente articolo, corrispondono ad apparecchiature radio che possono essere messe in servizio e utilizzate senza restrizioni all'interno dell'Unione.
+
 Il Ministero attua, conformemente alla normativa vigente, gli atti di esecuzione adottati dalla Commissione che stabiliscono l'equivalenza tra le interfacce radio notificate e assegnano una classe di apparecchiatura radio, i cui particolari sono pubblicati nella Gazzetta Ufficiale dell'Unione europea.
 
 ## Art. 9. — Libera circolazione delle apparecchiature radio
@@ -173,6 +420,31 @@ I fabbricanti, a seguito di una richiesta motivata di un'autorita' nazionale com
 ## Art. 11. — Rappresentanti autorizzati
 
 Il fabbricante puo' nominare, mediante mandato scritto, un rappresentante autorizzato. Gli obblighi di cui all'articolo 10, comma 1, e l'obbligo di redigere la documentazione tecnica di cui all'articolo 10, comma 3, non rientrano nel mandato del rappresentante autorizzato.
+
+2.
+                        
+                            
+                                Il rappresentante autorizzato esegue i compiti specificati nel mandato ricevuto dal fabbricante. Il mandato consente al rappresentante autorizzato di eseguire almeno i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantenere a disposizione delle autorita' nazionali di sorveglianza del mercato la dichiarazione di conformita' UE e la documentazione tecnica per un periodo di dieci anni dalla data in cui l'apparecchiatura radio e' stato immessa sul mercato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a seguito di una richiesta motivata di un'autorita' nazionale competente, fornire a tale autorita' tutte le informazioni e la documentazione necessarie per dimostrare la conformita' dell'apparecchiatura radio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cooperare con le autorita' nazionali competenti, su loro richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dall'apparecchiatura radio che rientra nel mandato del rappresentante autorizzato.
 
 ## Art. 12. — Obblighi degli importatori
 
@@ -238,6 +510,24 @@ Un importatore o distributore e' ritenuto un fabbricante ai fini del presente de
 
 ## Art. 15. — Identificazione degli operatori economici
 
+1.
+                        
+                            
+                                Gli operatori economici indicano alle autorita' di sorveglianza che ne facciano richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualsiasi operatore economico che abbia fornito loro apparecchiature radio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi operatore economico cui abbiano fornito apparecchiature radio.
+
 Gli operatori economici devono essere in grado di presentare le informazioni di cui al comma 1 per dieci anni dal momento in cui sia stato loro fornita un'apparecchiatura radio e per dieci anni dal momento in cui essi abbiano fornito un'apparecchiatura radio.
 
 ## - Capo III CONFORMITA' DELLE APPARECCHIATURE RADIO
@@ -253,6 +543,74 @@ Le apparecchiature radio che sono conformi alle norme armonizzate o a parti di e
 Procedure di valutazione della conformita'
 
 Il fabbricante effettua una valutazione di conformita' dell'apparecchiatura radio rispetto ai requisiti essenziali di cui all'articolo 3. Nella valutazione di conformita' sono prese in considerazione tutte le condizioni di funzionamento cui le apparecchiature sono destinate; per il requisito essenziale di cui all'articolo 3, comma 1, lettera a), la valutazione tiene altresi' conto delle condizioni ragionevolmente prevedibili. Per le apparecchiature radio che possono assumere diverse configurazioni, con la valutazione di conformita' si conferma altresi' che le apparecchiature radio soddisfano la conformita' ai requisiti essenziali di cui all'articolo 3 in tutte le possibili configurazioni.
+
+2.
+                        
+                            
+                                I fabbricanti dimostrano la conformita' dell'apparecchiatura radio ai requisiti essenziali di cui all'((articolo 3, commi 1 e 4-bis)), utilizzando una delle seguenti procedure di valutazione della conformita': ((1))
+                                
+                            
+                            
+                                a)
+                                
+                                    il controllo interno della produzione di cui all'allegato II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esame UE del tipo seguito dalla conformita' al tipo basata sul controllo interno della produzione di cui all'allegato III; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la conformita' basata sulla garanzia di qualita' totale di cui all'allegato IV.
+
+3.
+                        
+                            
+                                Se, per la valutazione della conformita' delle apparecchiature radio ai requisiti essenziali di cui all'articolo 3, commi 2 e 3, il fabbricante ha applicato norme armonizzate i cui riferimenti sono stati pubblicati nella Gazzetta Ufficiale dell'Unione europea, egli utilizza una delle procedure seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il controllo interno della produzione di cui all'allegato II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esame UE del tipo seguito dalla conformita' al tipo basata sul controllo interno della produzione di cui all'allegato III; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la conformita' basata sulla garanzia di qualita' totale di cui all'allegato IV.
+
+4.
+                        
+                            
+                                Se per la valutazione della conformita' delle apparecchiature radio ai requisiti essenziali di cui all'articolo 3, commi 2 e 3, il fabbricante non ha applicato o ha applicato solo in parte norme armonizzate i cui riferimenti sono stati pubblicati nella Gazzetta Ufficiale dell'Unione europea, o nel caso in cui non esistano norme armonizzate applicabili, le apparecchiature radio sono sottoposte, per verificarne la conformita' a tali requisiti essenziali, a una delle seguenti procedure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esame UE del tipo seguito dalla conformita' al tipo basata sul controllo interno della produzione di cui all'allegato III; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la conformita' basata sulla garanzia di qualita' totale di cui all'allegato IV.
 
 --------------
                             AGGIORNAMENTO (1)
@@ -322,6 +680,52 @@ Il Ministero dello sviluppo economico assume piena responsabilita' per i compiti
 
 Prescrizioni relative all'autorita' di notifica
 
+1.
+                        
+                            
+                                Il Ministero dello sviluppo economico, quale autorita' di notifica e ai fini dell'attivita' di autorizzazione, nonche' l'organismo nazionale di accreditamento, ai fini dell'attivita' di valutazione e controllo, organizzano e gestiscono le relative attivita' nel rispetto delle seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in modo che non sorgano conflitti d'interesse con gli organismi di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in modo che sia salvaguardata l'obiettivita' e l'imparzialita' delle attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in modo che ogni decisione relativa alla notifica di un organismo di valutazione della conformita' sia presa da persone competenti diverse da quelle che hanno effettuato la valutazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    evitando di offrire ed effettuare attivita' eseguite dagli organismi di valutazione della conformita' o servizi di consulenza commerciali o su base concorrenziale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    salvaguardando la riservatezza delle informazioni ottenute; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assegnando a tali attivita' un numero di dipendenti competenti sufficiente per l'adeguata esecuzione dei suoi compiti.
+
 ## Art. 25.
 
 Obbligo di informazione a carico dell'autorita' 
@@ -340,6 +744,64 @@ L'organismo di valutazione della conformita' e' un organismo terzo indipendente 
 L'organismo di valutazione della conformita', i suoi alti dirigenti e il personale addetto alla valutazione della conformita' non sono ne' il progettista, ne' il fabbricante, ne' il fornitore, ne' l'installatore, ne' l'acquirente, ne' il proprietario, ne' l'utilizzatore o il responsabile della manutenzione delle apparecchiature radio sottoposti alla sua valutazione, ne' il rappresentante di uno di questi soggetti. Cio' non preclude l'uso delle apparecchiature radio valutate che sono necessarie per il funzionamento dell'organismo di valutazione della conformita' o l'uso di tali apparecchiature radio per scopi privati. L'organismo di valutazione della conformita', i suoi alti dirigenti e il personale addetto alla valutazione della conformita' non intervengono direttamente nella progettazione, fabbricazione o costruzione, nella commercializzazione, nell'installazione, nell'utilizzo o nella manutenzione di tali apparecchiature radio, ne' rappresentano i soggetti impegnati in tali attivita'. Non intraprendono alcuna attivita' che possa essere in conflitto con la loro indipendenza di giudizio o la loro integrita' per quanto riguarda le attivita' di valutazione della conformita' per cui sono notificati. Cio' vale in particolare per i servizi di consulenza. Gli organismi di valutazione della conformita' garantiscono che le attivita' delle loro affiliate o dei loro subappaltatori non si ripercuotano sulla riservatezza, sull'obiettivita' o sull'imparzialita' delle loro attivita' di valutazione della conformita'.
 
 Gli organismi di valutazione della conformita' e il loro personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e competenza tecnica e sono liberi da qualsivoglia pressione e incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
+
+6.
+                        
+                            
+                                L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base agli allegati III e IV per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'.
+L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire in modo appropriato i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita'. In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di apparecchiatura radio per i quali e' stato notificato, l'organismo di valutazione della conformita' ha a sua disposizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il personale necessario con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le necessarie descrizioni delle procedure in conformita' delle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure; una politica e procedure appropriate che distinguano i compiti che svolge in qualita' di organismo notificato dalle altre attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le necessarie procedure per svolgere le attivita' che tengono debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia delle apparecchiature radio in questione e della natura di massa o seriale del processo produttivo.
+
+7.
+                        
+                            
+                                Il personale responsabile dell'esecuzione dei compiti di valutazione della conformita' dispone di quanto segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione tecnica e professionale solida che includa tutte le attivita' di valutazione della conformita' in relazione a cui l'organismo di valutazione della conformita' e' stato notificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una conoscenza e una comprensione adeguate dei requisiti essenziali di cui all'articolo 3, delle norme armonizzate applicabili e delle disposizioni pertinenti della normativa di armonizzazione dell'Unione e delle normative nazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di elaborare certificati di esame UE del tipo o approvazioni dei sistemi di qualita', registri e verbali atti a dimostrare che le valutazioni sono state eseguite.
 
 E' garantita l'imparzialita' degli organismi di valutazione della conformita', dei loro alti dirigenti e del personale addetto alla valutazione della conformita'. La remunerazione degli alti dirigenti e del personale addetto allo svolgimento di compiti di valutazione della conformita' di un organismo di valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -419,6 +881,38 @@ Avverso le decisioni degli organismi notificati puo' essere espletata l'apposita
 
 ## Art. 36. — Obbligo di informazione a carico degli organismi notificati
 
+1.
+                        
+                            
+                                Gli organismi notificati informano il Ministero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di qualunque rifiuto, limitazione, sospensione o ritiro di un certificato di esame UE del tipo o di un'approvazione del sistema di qualita' conformemente alle disposizioni degli allegati III e IV; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di qualunque circostanza che possa influire sull'ambito o sulle condizioni della notifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di eventuali richieste di informazioni che abbiano ricevuto dalle autorita' di sorveglianza del mercato in relazione alle attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su richiesta, delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
+
 Conformemente alle disposizioni degli allegati III e IV, gli organismi notificati forniscono agli altri organismi notificati a norma del presente decreto, le cui attivita' di valutazione della conformita' sono simili e coprono le stesse categorie di apparecchiature radio, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi delle valutazioni della conformita'.
 
 Gli organismi notificati adempiono agli obblighi di informazione di cui agli allegati III e IV.
@@ -445,6 +939,24 @@ Le verifiche di laboratorio di cui al comma 2 hanno lo scopo di accertare la ris
 I laboratori di prova accreditati non possono dipendere direttamente dall'organizzazione del fabbricante o di un operatore di rete ovvero di un fornitore di servizi di comunicazione elettronica; devono essere liberi da influenze esterne, possedere un'adeguata capacita' per quanto attiene alla competenza ed alle attrezzature ed essere forniti di tutte le apparecchiature di misura per l'esecuzione delle prove. L'istruttoria relativa all'accreditamento dei laboratori viene svolta con l'impegno di riservatezza verso terzi. La procedura di rilascio dell'accreditamento, dell'effettuazione della sorveglianza e del rinnovo dell'accreditamento stesso e' disciplinata dal decreto del Ministro delle comunicazioni 25 febbraio 2002, n. 84.
 Ai fini dell'accreditamento, della sorveglianza e del rinnovo si applica la normativa vigente per le prestazioni rese a terzi da parte del Ministero.
 
+5.
+                        
+                            
+                                L'accreditamento puo' essere sospeso dal Ministero sentita la commissione tecnica di cui al comma 3, per un periodo massimo di sei mesi nel caso di inosservanza da parte del laboratorio degli impegni assunti. L'accreditamento e' revocato dal Ministero stesso, sentita la commissione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui il laboratorio non ottempera, con le modalita' e nei tempi indicati, a quanto stabilito nell'atto di sospensione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso in cui sono venuti meno i requisiti accertati al momento del rilascio dell'accreditamento.
+
 Le misure di cui agli articoli da 40 a 43 sono adottate dal Ministero con provvedimento motivato e notificato all'operatore interessato con l'indicazione dei mezzi di impugnativa e del termine entro cui e' possibile ricorrere. Prima dell'adozione del provvedimento di cui al presente comma, il Ministero, sempre che tale consultazione non sia resa impossibile dall'urgenza della misura da adottare, giustificata dalle prescrizioni a tutela della salute, della sicurezza o da altri motivi connessi agli interessi pubblici oggetto della pertinente normativa comunitaria di armonizzazione, da' la possibilita' all'operatore interessato di essere ascoltato entro un periodo non inferiore ai dieci giorni. Se il provvedimento e' stato adottato senza sentire l'operatore, a quest'ultimo e' data l'opportunita' di essere sentito non appena possibile e la misura adottata e' tempestivamente riesaminata. Ogni misura di cui gli articoli da 40 a 43 adottata dal Ministero e' tempestivamente ritirata o modificata non appena l'operatore economico dimostri di aver risolto la non conformita'.
 
 Gli oneri derivanti dall'attuazione dei provvedimenti adottati dal Ministero ai sensi degli articoli da 40 a 43, sono a carico dei soggetti destinatari dei provvedimenti medesimi. Il fabbricante, il suo rappresentante autorizzato o l'importatore dell'apparecchiatura per la quale il Ministero ha rilevato difformita' a quanto previsto dal presente decreto, e' tenuto al pagamento delle spese connesse all'esecuzione delle prove, del deposito, del trasporto e ogni altro onere sostenuto ferma restando l'applicazione della sanzione prevista.
@@ -461,6 +973,25 @@ L'operatore economico prende tutte le opportune misure correttive nei confronti 
 
 Qualora l'operatore economico interessato non prenda le misure correttive adeguate entro il termine di cui al comma 1, secondo periodo, il Ministero adotta tutte le opportune misure provvisorie per proibire o limitare la messa a disposizione dell'apparecchiatura radio sul mercato nazionale, per ritirarla da tale mercato o per richiamarla. Il Ministero informa immediatamente la Commissione europea e gli altri Stati membri di tali misure.
 
+5.
+                        
+                            
+                                Le informazioni di cui al comma 4, ultimo periodo, includono tutti i particolari disponibili, soprattutto i dati necessari all'identificazione dell'apparecchiatura radio non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dall'operatore economico interessato.
+In particolare, il Ministero indica se l'inadempienza sia dovuta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla non conformita' dell'apparecchiatura radio ai pertinenti requisiti essenziali di cui all'articolo 3; oppure; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle carenze nelle norme armonizzate di cui all'articolo 16, che conferiscono la presunzione di conformita'.
+
 Quando la procedura a norma del presente articolo e' stata avviata dall'autorita' di un altro Stato membro, il Ministero informa tempestivamente la Commissione europea e gli altri Stati membri di tutti i provvedimenti adottati, di tutte le altre informazioni a sua disposizione sulla non conformita' dell'apparecchiatura radio interessata e, in caso di disaccordo con la misura nazionale adottata, delle proprie obiezioni.
 
 Qualora, entro tre mesi dal ricevimento delle informazioni di cui al comma 4, ultimo periodo, uno Stato membro o la Commissione europea non sollevino obiezioni contro la misura provvisoria presa dal Ministero, tale misura e' ritenuta giustificata. Il Ministero garantisce che siano adottate tempestivamente le opportune misure restrittive in relazione all'apparecchiatura radio in questione quali il suo ritiro dal mercato.
@@ -471,6 +1002,24 @@ Qualora, entro tre mesi dal ricevimento delle informazioni di cui al comma 4, ul
  Il D.Lgs. 9 luglio 2024, n. 100, ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f), g), h), i), e m) si applicano a decorrere dal 28 dicembre 2024 per le categorie o classi di apparecchiature radio di cui alla parte I, punti da 1.1. a 1.12. dell'allegato I bis di cui all'allegato A e dal 28 aprile 2026 per le categorie o classi di apparecchiature radio di cui alla parte I, punto 1.13. dell'allegato I bis di cui all'allegato A".
 
 ## Art. 41. — Procedura di salvaguardia dell'Unione
+
+1.
+                        
+                            
+                                Se, all'esito procedura di cui all'articolo 40, commi 3 e 4, sono sollevate obiezioni sulla misura provvisoria presa dal Ministero o da altra autorita' di sorveglianza di altro Stato membro e, a seguito della consultazione da essa avviata, la Commissione europea decide, mediante propri atti di esecuzione, che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le misure adottate dal Ministero non sono giustificate, il Ministero stesso adotta tutti i provvedimenti necessari per conformarsi a tale decisione, revocando la misura nazionale precedentemente adottata. I provvedimenti sono emanati all'atto del ricevimento della decisione della Commissione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le misure adottate dal Ministero o da altra autorita' di sorveglianza di altro Stato membro sono giustificate, il Ministero adotta tutti i provvedimenti necessari per conformarsi a tale decisione, adottando tutte le misure necessarie per garantire che l'apparecchiatura radio non conforme sia ritirata o richiamata dal mercato e ne informa la Commissione europea. I provvedimenti sono emanati all'atto del ricevimento della decisione della Commissione europea.
 
 ## Art. 42. — Apparecchiature radio conformi che presentano rischi
 
@@ -483,6 +1032,86 @@ Il Ministero informa immediatamente la Commissione europea e gli altri Stati mem
 Il Ministero adotta, conformemente alla normativa vigente, i provvedimenti necessari per attuare gli atti di esecuzione della Commissione europea previsti dall'articolo 42, paragrafo 4, della direttiva 2014/53/UE.
 
 ## Art. 43. — Procedura a livello nazionale per le apparecchiature radio non conformi
+
+1.
+                        
+                            
+                                Salvo quanto previsto dagli articoli 39 e 46, il Ministero ingiunge all'operatore economico interessato di porre fine, entro il termine perentorio di sei mesi, alla situazione di non conformita' quando, all'esito dei controlli di cui all'articolo 39, comma 2, verifica che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la marcatura CE e' stata apposta in violazione dell'articolo 30 del regolamento (CE) n. 765/2008 o dell'articolo 20 del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la marcatura CE non e' stata apposta secondo le prescrizioni dell'articolo 20, comma 1, del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero di identificazione dell'organismo notificato, quando si applica la procedura di valutazione della conformita' di cui all'allegato IV, e' stato apposto in violazione dell'articolo 20 o non e' stato apposto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non e' stata compilata la dichiarazione di conformita' UE; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non e' stata compilata correttamente la dichiarazione di conformita' UE; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la documentazione tecnica non e' disponibile o e' incompleta; 
+                                
+                            
+                            
+                                g)
+                                
+                                    le informazioni di cui agli articoli 10, commi 6 o 7, e 12, comma 3, sono assenti, false o incomplete; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    non sono soddisfatti i requisiti in materia di identificazione degli operatori economici di cui all'articolo 15; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'apparecchiatura radio non e' conforme ai requisiti essenziali di cui all'articolo 3 del presente decreto; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    per l'apparecchiatura radio non e' stata eseguita la relativa procedura di valutazione di conformita' di cui all'articolo 17; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'apparecchiatura non e' costruita in modo tale da poter essere utilizzate in almeno uno Stato Membro senza violare le prescrizioni applicabili sull'uso dello spettro radio.
 
 --------------
                             AGGIORNAMENTO (1)
@@ -506,6 +1135,27 @@ Il Ministero partecipa con propri rappresentanti alle attivita' del comitato per
 ## Art. 46. — Sanzioni
 
 Salvo che il fatto costituisca reato, il fabbricante o l'importatore che mette a disposizione sul mercato in qualunque forma apparecchiature radio non conformi ai requisiti essenziali di cui all'articolo 3, oppure apparecchiature per le quali non e' stata eseguita la relativa procedura di valutazione di conformita' di cui all'articolo 17, oppure apparecchiature non costruite in modo tale da poter essere utilizzate in almeno uno Stato membro senza violare le prescrizioni applicabili sull'uso dello spettro radio, e' assoggettato alla sanzione amministrativa del pagamento di una somma da euro 5.292 a euro 31.755 e del pagamento di una somma da euro 26 a euro 158 per ciascuna apparecchiatura. In ogni caso la sanzione amministrativa non puo' superare la somma complessiva di euro 132.316. Alla stessa sanzione e' assoggettato chiunque apporta modifiche alle apparecchiature dotate della prescritta marcatura che comportano mancata conformita' ai requisiti essenziali.
+
+2.
+                        
+                            
+                                Salvo che il fatto costituisca reato, il fabbricante o l'importatore che mette a disposizione sul mercato in qualunque forma apparecchiature radio che presentano almeno una delle non conformita' di cui all'articolo 43, comma 1, lettere da 
+                            
+                            
+                                a)
+                                
+                                    ad l), e' assoggettato alla sanzione amministrativa del pagamento di una somma da euro 1.322 a euro 15.877 e del pagamento di una somma da euro 13 a euro 78 per ciascuna apparecchiatura. In ogni caso la sanzione amministrativa non puo' superare la somma complessiva di euro 132.316.
+
+3.
+                        
+                            
+                                Salvo che il fatto costituisca reato, il distributore che mette a disposizione sul mercato in qualunque forma apparecchiature radio che presentano anche una soltanto delle non conformita' di cui all'articolo 43, comma 1, lettere da 
+                            
+                            
+                                a)
+                                
+                                    a d) e da g) ad l), e' assoggettato alla sanzione amministrativa del pagamento di una somma da euro 1.322 a euro 15.877 e del pagamento di una somma da euro 13 a euro 78 per ciascuna apparecchiatura. In ogni caso la sanzione amministrativa non puo' superare la somma complessiva di euro 132.316. ((E' altresi' assoggettato alla medesima sanzione il distributore che mette a disposizione dei consumatori e degli altri utenti finali apparecchiature radio di cui all'articolo 3, comma 4-bis, che presentano almeno una delle situazioni di non conformita' di cui all'articolo 43, comma 1, lettere f-bis), f-ter) e f-quater).))
+                                        ((1))
 
 Il rappresentante autorizzato ai sensi dell'articolo 11 del presente decreto che, in relazione agli obblighi ivi previsti abbia ricevuto dal fabbricante un mandato scritto che lo autorizza ad agire a suo nome e purche' specificato nel mandato, in presenza delle violazioni di cui all'articolo 43, comma 1, lettere da a), b), c), d), e), g), h), i), l), n) ed o), e' assoggettato alle sanzioni amministrative indicate nei commi 1 e 2. Il rappresentante autorizzato e' inoltre assoggettato alla sanzione amministrativa del pagamento di una somma da euro 5.292 a euro 31.755 se non ottempera all'obbligo di cui all'articolo 11, comma 2, lettera a), ovvero alla sanzione amministrativa del pagamento di una somma da euro 1.322 a euro 15.877 se non ottempera agli obblighi di cui all'articolo 11, comma 2, lettera b), ovvero alla sanzione amministrativa del pagamento di una somma da euro 1.322 a euro 7.938 se non ottempera all'obbligo di cui all'articolo 11, comma 2, lettera c). ((E' altresi' assoggettato alla sanzione amministrativa indicata nel comma 2 il rappresentante autorizzato che mette a disposizione dei consumatori e degli altri utenti finali apparecchiature radio di cui all'articolo 3, comma 4-bis, che presentano almeno una delle situazioni di non conformita' di cui all'articolo 43, comma 1, lettere f-bis), f-ter) e f-quater).))
                                 ((1))

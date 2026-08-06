@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1968-06-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,7 +26,58 @@ Sentito il Consiglio dei Ministri;
 
 ## Art. 1. — Lavoro ordinario
 
+1.
+                        
+                            
+                                L'orario normale di lavoro e' regolato come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per il personale direttivo e degli uffici la durata della settimana lavorativa rimane regolata dalle norme in vigore in relazione a quanto previsto dalle disposizioni valevoli per il personale civile delle altre Amministrazioni dello Stato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il personale dell'esercizio la durata della settimana lavorativa e' di 48 ore. Nei confronti del personale delle officine e del rimanente personale addetto ai servizi interessanti l'esercizio, nelle cui prestazioni non siano compresi periodi di attesa o di custodia di durata superiore a 4 ore settimanali, il numero delle ore di lavoro settimanali e' di 46 effettive.
+ Per il personale dell'esercizio utilizzato a turni rotativi in un periodo di quattro settimane, le predette 46 ore possono essere superate di due ore nelle prime tre settimane, a condizione che nella quarta siano recuperate le maggiori prestazioni rese accordando, anziche' uno, due riposi consecutivi di durata complessiva pari a quella del, normale riposo settimanale aumentato di 24 ore.
+
 Si computa come durata del lavoro effettivo il tempo durante il quale il dipendente viene tenuto a disposizione dell'Azienda.
+
+3.
+                        
+                            
+                                Non si computano come lavoro effettivo, quando il personale ha facolta' di allontanarsi dal posto di lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    le interruzioni fra le ore 5 e le 24 di durata pari o superiori ad un'ora; tali interruzioni, comprese quelle per refezione di cui al successivo punto d), non devono pero' eccedere in ciascun turno di servizio il numero di due, se di durata inferiore a due ore, ed il numero di una se di durata pari o superiore a due ore. Le due interruzioni suddette sono ammesse quando interessano, dipendenti che abitano non oltre 800 metri dal posto di lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le interruzioni notturne, cioe' fra le ore 0 e le ore 5, di durata pari o superiore a 2 ore, quando interessano dipendenti che abitano non oltre 800 metri dal posto di lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il tempo impiegato per recarsi dall'abitazione al posto di lavoro, anche se fuori residenza, quando l'assenza dalla residenza stessa dia titolo all'indennita' di missione, e ritornare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le interruzioni per le refezioni previste nei turni di lavoro del personale degli impianti fissi, che debbono avere durata non inferiore ad un'ora riducibili a non meno di mezz'ora per particolari situazioni di lavoro o ambientali.
 
 La durata settimanale del lavoro ordinario effettivo puo' essere elevata fino ad un massimo di 6 ore per il personale addetto alla manutenzione dell'armamento ed alla revisione di linee elettriche primarie in zone di alta montagna, in relazione alle stagioni ed alle localita', salvo compensazioni in altre stagioni.
 
@@ -80,7 +131,76 @@ In particolari ricorrenze, il direttore generale puo' lasciare libero nelle ore 
 
 ((
 
+1.
+                        
+                            
+                                Nell'ambito di quanto previsto dall'art. 1, nei turni di lavoro sono da comprendere:
+ 
+                            
+                            
+                                a)
+                                
+                                    il tempo di effettivo servizio di scorta o di condotta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il tempo relativo alle operazioni accessorie eventualmente ordinate in partenza e in arrivo e, per il solo personale di macchina, a quelle pure eventuali in deposito o per esigenze del servizio movimento in partenza e in arrivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le interruzioni del lavoro:
+ fra le ore 5 e le ore 24, di durata inferiore ad una ora in residenza e a due ore fuori residenza;
+ fra le ore 0 e le ore 5, di durata inferiore a tre ore;
+ fra le ore 0 e le ore 5, in impianto diverso da quello di appartenenza, di durata pari o superiore a tre ore quando il personale non abbia possibilita' di fruire di dormitorio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il tempo impiegato nei viaggi comandati fuori servizio per recarsi, anche per via ordinaria, da una localita' ad un'altra per prendere servizio o fare ritorno a servizio compiuto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il tempo in cui il dipendente e' comandato di riserva o disponibilita' senza facolta' di allontanarsi dall'impianto.
+ Il direttore generale stabilisce le operazioni di cui al punto 1 b) e i tempi occorrenti per eseguirle.
+
 La durata del lavoro fra due riposi giornalieri non deve superare 8 ore per il personale dei treni e per il personale di macchina dei treni omnibus e raccoglitori e 7 ore per il personale di macchina degli altri treni. Questi limiti possono essere aumentati fino a 20 minuti in sede di formazione dei turni.
+
+3.
+                        
+                            
+                                Fermi restando i limiti di lavoro settimanale ed i minimi di riposo stabiliti, la durata del lavoro giornaliero puo' raggiungere un massimo di 9 ore nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando vi siano interruzioni superiori a due ore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando il servizio comprenda un periodo di riserva o di disponibilita' oppure un viaggio comandato fuori servizio, anche per via ordinaria, di durata non inferiore a due ore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando vengano effettuati servizi di andata e ritorno senza riposo fuori residenza.
+ In sede di formazione dei turni il limite di 9 ore, nel caso di cui al presente punto lettera c), puo' essere elevato a 10 ore e 9 ore e 20 minuti rispettivamente per il personale dei treni e per quello di macchina.
 
 Ad eccezione dei servizi suburbani, dei treni omnibus e raccoglitori e di quelli effettuati con due macchinisti la durata della condotta continuativa non puo' eccedere le 4 ore e 30 minuti. A tal fine non sono da considerare le soste di orario aventi durata superiore a 30 minuti. Nei casi di cui al punto 3 c) la durata della condotta effettiva non deve superare 7 ore e 30 minuti e quella della scorta effettiva 8 ore e 30 minuti.
 

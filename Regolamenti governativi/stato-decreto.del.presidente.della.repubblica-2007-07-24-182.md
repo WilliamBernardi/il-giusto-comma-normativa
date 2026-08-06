@@ -8,8 +8,8 @@ codice_redazionale: 007G0197
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,31 @@ La Consulta costituisce centro di responsabilita' amministrativa secondo quanto 
 
 Gli stanziamenti destinati alla Consulta sono iscritti in apposita unita' previsionale di base dello stato di previsione del Ministero dei trasporti.
 
+3.
+                    
+                        
+                            Le risorse assegnate alla Consulta sono costituite:
+ 
+                        
+                        
+                            a)
+                            
+                                dagli stanziamenti di cui all'articolo 17, comma 3-ter, della legge 24 novembre 2003, n. 326, di conversione, con modificazioni, del decreto-legge 30 settembre 2003, n. 269;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalle entrate derivanti dagli eventuali proventi delle attivita' della Consulta come: vendita di pubblicazioni, cessione e vendita di oggetti e materiali fuori uso, contributi volontari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle entrate previste da eventuali ulteriori disposizioni di legge.
+
 Le risorse di cui al comma 3, lettere b) e c), sono versate in apposita unita' previsionale di base, da istituirsi nello stato di previsione dell'entrata del bilancio dello Stato per essere riassegnate, in via continuativa, all'unita' previsionale di base di cui al comma 2.
 
 Per le destinazioni delle risorse finanziarie, su proposta del Segretario generale, la Consulta si dota di un bilancio preventivo e consuntivo di spesa che devono essere approvati dall'Assemblea generale.
@@ -44,6 +69,38 @@ Nel limite di spesa previsto dagli stanziamenti per il funzionamento della Consu
 Per la partecipazione dei membri, titolari o supplenti, alle riunioni dell'Assemblea generale, del Comitato scientifico e dell'Osservatorio sulle attivita' di autotrasporto, e' previsto un gettone di presenza individuale.
 
 Per la partecipazione dei membri titolari o supplenti, estranei alla pubblica amministrazione, che non risiedono nel luogo ove si tengono le sedute, alle riunioni dell'Assemblea generale del Comitato scientifico e dell'Osservatorio sulle attivita' di autotrasporto, e' previsto il rimborso delle spese di viaggio e pernottamento secondo i criteri e le modalita' previste per i dipendenti statali con qualifica di dirigente generale.
+
+4.
+                    
+                        
+                            Ai soggetti che rivestono gli incarichi di seguito indicati e' attribuita un'indennita' annua lorda, secondo le modalita' stabilite con decreto del Ministro dei trasporti, di concerto con il Ministro dell'economia e delle finanze:
+ 
+                        
+                        
+                            a)
+                            
+                                Presidente della Consulta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Segretario Generale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Presidente del Comitato scientifico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Segretario del Comitato scientifico.
 
 Con il medesimo decreto di cui al comma 4 e nel limite massimo complessivo indicato nella tabella A allegata, e' disciplinata la determinazione analitica dell'ammontare dell'onere destinato alle spese per il personale della Consulta.
 

@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-01-01
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -29,11 +29,451 @@ Sulla proposta del Presidente del Consiglio dei ministri e dei Ministri per le d
 
 Il presente decreto stabilisce i requisiti di accessibilita' dei prodotti e dei servizi di cui ai commi 2 e 3 immessi sul mercato a far data dal 28 giugno 2025.
 
+2.
+                    
+                        
+                            Il presente decreto si applica ai seguenti prodotti immessi sul mercato: 
+ 
+                        
+                        
+                            a)
+                            
+                                sistemi hardware e sistemi operativi informatici generici per consumatori per tali sistemi hardware; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i terminali self-service di pagamento e quelli destinati alla fornitura dei servizi disciplinati dal presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                apparecchiature terminali con capacita' informatiche interattive per consumatori utilizzate per i servizi di comunicazione elettronica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                apparecchiature terminali con capacita' informatiche interattive per consumatori utilizzate per accedere a servizi di media audiovisivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                lettori di libri elettronici (e-reader).
+
+3.
+                    
+                        
+                            Fatto salvo quanto previsto dall'articolo 25, il presente decreto si applica ai seguenti servizi: 
+ 
+                        
+                        
+                            a)
+                            
+                                servizi di comunicazione elettronica, fatta esclusione di servizi di trasmissione utilizzati per la fornitura di servizi da macchina a macchina; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizi che forniscono accesso a servizi di media audiovisivi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli elementi seguenti relativi ai servizi di trasporto passeggeri aerei, con autobus, ferroviari e per vie navigabili, ivi compresi i servizi di trasporto urbani, extraurbani e regionali: 
+ 1) siti web; 
+ 2) servizi per dispositivi mobili, comprese le applicazioni mobili; 
+ 3) biglietti elettronici e servizi di biglietteria elettronica; 
+ 4) fornitura di informazioni relative ai servizi di trasporto, comprese le informazioni di viaggio in tempo reale; per quanto riguarda gli schermi informativi cio' si limita agli schermi interattivi situati nel territorio dell'Unione; 
+ 5) terminali self-service interattivi situati nel territorio dell'Unione, fatta esclusione di quelli installati come parti integranti su veicoli, aeromobili, navi e materiale rotabile utilizzati per la fornitura di una qualsiasi parte di tali servizi di trasporto passeggeri; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                servizi bancari per consumatori; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                libri elettronici (e-book) e software dedicati; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                servizi di commercio elettronico.
+
 Il presente decreto si applica alla raccolta delle comunicazioni di emergenza effettuate verso il numero unico di emergenza europeo «112».
+
+5.
+                    
+                        
+                            Il presente decreto non si applica ai contenuti di siti web e alle applicazioni mobili seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                media basati sul tempo preregistrati e pubblicati prima del 28 giugno 2025; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                formati di file per ufficio pubblicati prima del 28 giugno 2025; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                carte e servizi di cartografia online, qualora per le carte destinate alla navigazione le informazioni essenziali siano fornite in modalita' digitale accessibile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                contenuti di terzi che non sono ne' finanziati ne' sviluppati dall'operatore economico interessato ne' sottoposti al suo controllo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                contenuti di siti web e applicazioni mobili considerati archivi nel senso che contengono soltanto contenuti che non sono stati aggiornati o rielaborati dopo il 28 giugno 2025.
 
 Il presente decreto fa salve le disposizioni di cui all'articolo 15 della legge 3 maggio del 2019, n. 37.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le definizioni seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                «persone con disabilita'»: coloro che presentano minorazioni fisiche, psichiche o sensoriale ai sensi dell'articolo 3 della legge 5 febbraio 1992, n. 104; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «prodotto»: sostanza, preparato o merce fabbricati attraverso un processo di fabbricazione, diversi da alimenti, mangimi, piante e animali vivi, prodotti di origine umana e prodotti di piante ed animali collegati direttamente alla loro futura riproduzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «servizio»: un servizio quale definito all'articolo 8, comma 1, lettera a), del decreto legislativo 26 marzo 2010, n. 59; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «fornitore di servizi»: una persona fisica o giuridica che fornisce un servizio sul mercato dell'Unione o si offre di fornire tale servizio ai consumatori nell'Unione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «servizi di media audiovisivi»: i servizi definiti all'articolo 1, paragrafo 1, lettera a), della direttiva 2010/13/UE recepita con l'articolo 3, comma 1, lettera a), del decreto legislativo 8 novembre 2021, n. 208; 
+ ((ee-bis) 'ritiro': qualsiasi provvedimento volto a impedire la messa a disposizione sul mercato di un prodotto nella catena di fornitura)); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «servizi che forniscono accesso a servizi di media audiovisivi»: servizi trasmessi da reti di comunicazione elettronica utilizzati per individuare, selezionare, ricevere informazioni sui servizi di media audiovisivi e visualizzare tali servizi e tutte le caratteristiche correlate, quali sottotitoli per non udenti e ipoudenti, audiodescrizione, sottotitoli parlati e interpretazione in lingua dei segni, derivanti dall'attuazione di misure per rendere i servizi accessibili e includono guide elettroniche ai programmi (electronic programme guides - EPG) ai sensi dell'articolo 7 della direttiva 2010/13/UE, recepita con l'articolo 31, comma 2, del decreto legislativo 8 novembre 2021, n. 208; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «apparecchiature terminali con capacita' informatiche interattive per consumatori utilizzate per accedere a servizi di media audiovisivi»: apparecchiature il cui scopo principale e' fornire accesso ai servizi di media audiovisivi; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «servizio di comunicazione elettronica»: i servizi di comunicazione elettronica quali definiti all'articolo 2, punto 4, della direttiva (UE) 2018/1972, recepita con l'articolo 2, comma 1, lettera fff), del decreto legislativo 1° agosto 2003, n. 259; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «servizio di conversazione globale»: il servizio di conversazione globale quale definito all'articolo 2, punto 35, della direttiva (UE) 2018/1972, recepita dall'articolo 2, comma 1, lettera mmm), del decreto legislativo 1° agosto 2003, n. 259; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «centro di raccolta delle chiamate di emergenza» o «PSAP»: un centro di raccolta delle chiamate di emergenza o PSAP quale definito all'articolo 2, punto 36, della direttiva (UE) 2018/1972, recepita dall'articolo 2, comma 1, lettera n), del decreto legislativo 1° agosto 2003, n. 259; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «PSAP piu' idoneo»: uno PSAP piu' idoneo quale definito all'articolo 2, punto 37, della direttiva (UE) 2018/1972, recepita dall'articolo 2, comma 1, lettera mm), del decreto legislativo 1° agosto 2003, n. 259; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «comunicazione di emergenza»: la comunicazione di emergenza quale definita all'articolo 2, punto 38, della direttiva (UE) 2018/1972, recepita dall'articolo 2, comma 1, lettera q), del decreto legislativo 1° agosto 2003, n. 259; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «servizio di emergenza»: il servizio di emergenza quale definito all'articolo 2, punto 39, della direttiva (UE) 2018/1972, recepita dall'articolo 2, comma 1, lettera nnn), del decreto legislativo. 1° agosto 2003, n. 259; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «testo in tempo reale»: una forma di conversazione testuale in situazioni punto a punto o in conferenza tra piu' punti, in cui il testo introdotto e' inviato in modo tale che la comunicazione e' percepita dall'utente come continua, carattere per carattere; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «messa a disposizione sul mercato»: la fornitura sul mercato dell'Unione, nel corso di un'attivita' commerciale, a titolo oneroso o gratuito, di un prodotto destinato a essere distribuito, consumato o usato; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «immissione sul mercato»: la prima messa a disposizione di un prodotto sul mercato dell'Unione; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «fabbricante»: una persona fisica o giuridica che fabbrica un prodotto oppure lo fa progettare o fabbricare e lo commercializza apponendovi il proprio nome o marchio d'impresa; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «rappresentante autorizzato»: una persona fisica o giuridica stabilita nell'Unione che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire per suo conto in relazione a determinati compiti; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                «importatore»: una persona fisica o giuridica stabilita nell'Unione che immette sul mercato dell'Unione un prodotto originario di un paese terzo; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                «distributore»: una persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall'importatore, che mette un prodotto a disposizione sul mercato; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                «operatore economico»: il fabbricante, il rappresentante autorizzato, l'importatore, il distributore o il fornitore di servizi; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                «consumatore»: una persona fisica che acquista il prodotto in questione o e' destinatario del servizio in questione per fini che non rientrano nella sua attivita' commerciale, industriale, artigianale o professionale; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                «microimpresa»: un'impresa che occupa meno di 10 persone e realizza un fatturato annuo oppure un totale di bilancio annuo non superiore a 2 milioni di euro; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                «piccole e medie imprese» o «PMI»: la categoria di imprese che occupano meno di 250 persone, il cui fatturato annuo non supera i 50 milioni di euro o il cui totale di bilancio annuo non supera i 43 milioni di euro, ma che non comprende le microimprese; 
+
+                            
+                        
+                        
+                            dd)
+                            
+                                «norma armonizzata»: una norma armonizzata quale definita all'articolo 2, punto 1, lettera c), del regolamento (UE) n. 1025/2012; 
+
+                            
+                        
+                        
+                            ee)
+                            
+                                «specifiche tecniche»: una specifica tecnica quale definita all'articolo 2, punto 4), del regolamento (UE) n. 1025/2012, recepito con l'articolo 1, comma 1, lettera c), della legge n. 317 del 1986, che costituisce un mezzo per conformarsi ai requisiti di accessibilita' applicabili a un prodotto o servizio; 
+
+                            
+                        
+                        
+                            ff)
+                            
+                                «servizi bancari per consumatori»: la fornitura ai consumatori dei servizi bancari e finanziari seguenti: 
+ 1) i contratti di credito contemplati dalla direttiva 2008/48/CE del Parlamento europeo e del Consiglio, recepita con il decreto legislativo 13 agosto 2010, n. 141 o dalla direttiva 2014/17/UE del Parlamento europeo e del Consiglio recepita con il decreto legislativo 21 aprile 2016, n. 72; 
+ 2) i servizi definiti ai punti 1, 2, 4 e 5 della sezione A e ai punti 1, 2, 4 e 5 della sezione B dell'allegato I della direttiva 2014/65/UE del Parlamento europeo e del Consiglio recepita con decreto legislativo3 agosto 2017, n. 129; 
+ 3) i servizi di pagamento quali definiti all'articolo 4, punto 3), della direttiva (UE) 2015/2366 del Parlamento europeo e del Consiglio recepita con l'articolo 1, comma 2, lettera h-septies.1) del decreto legislativo n. 385 del 1993; 
+ 4) i servizi collegati al conto di pagamento quali definiti all'articolo 2, punto 3), della direttiva 2014/92/UE del Parlamento europeo e del Consiglio recepita con articolo 126-decies del decreto legislativo n. 385 del 1993; 
+ 5) la moneta elettronica quale definita all'articolo 2, punto 2), della direttiva 2009/110/CE del Parlamento europeo e del Consiglio, recepita con l'articolo 1, comma 2, lettera h-ter) del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            gg)
+                            
+                                «terminale di pagamento»: un dispositivo il cui scopo principale e' consentire di effettuare pagamenti tramite l'uso di strumenti di pagamento quali definiti all'articolo 4, punto 14, della direttiva (UE) 2015/2366, recepita con l'articolo 1, comma 1, lettera s), del decreto legislativo n. 11 del 2010, presso un punto vendita fisico e non in un contesto virtuale; 
+
+                            
+                        
+                        
+                            hh)
+                            
+                                «servizi di commercio elettronico»: i servizi forniti a distanza, tramite siti web e servizi per dispositivi mobili, per via elettronica e su richiesta individuale di un consumatore al fine di concludere un contratto di consumo; 
+
+                            
+                        
+                        
+                            ii)
+                            
+                                «servizi di trasporto passeggeri aerei»: i servizi aerei passeggeri commerciali quali definiti all'articolo 2, lettera l), del regolamento (CE) n. 1107/2006, in partenza, in transito o in arrivo presso un aeroporto, quando l'aeroporto e' situato nel territorio di uno Stato membro, inclusi i voli in partenza da un aeroporto situato in un paese terzo diretti verso un aeroporto situato nel territorio di uno Stato membro quando i servizi sono assicurati da vettori aerei dell'Unione; 
+
+                            
+                        
+                        
+                            ll)
+                            
+                                «servizi di trasporto passeggeri con autobus»: i servizi di cui all'articolo 2, paragrafi 1 e 2, del regolamento (UE) n. 181/2011; 
+
+                            
+                        
+                        
+                            mm)
+                            
+                                «servizi di trasporto passeggeri ferroviari»: tutti i servizi di trasporto ferroviario di passeggeri di cui all'articolo 2, paragrafo 1, del regolamento (CE) n. 1371/2007, a eccezione dei servizi di cui all'articolo 2, paragrafo 2, dello stesso regolamento; 
+
+                            
+                        
+                        
+                            nn)
+                            
+                                «servizi di trasporto passeggeri per vie navigabili»: i servizi di trasporto passeggeri di cui all'articolo 2, paragrafo 1, del regolamento (UE) n. 1177/2010, ad eccezione dei servizi di cui all'articolo 2, paragrafo 2, del medesimo regolamento; 
+
+                            
+                        
+                        
+                            oo)
+                            
+                                «servizi di trasporto urbani ed extraurbani»: i servizi urbani ed extraurbani quali definiti all'articolo 3, punto 6), della direttiva 2012/34/UE del Parlamento europeo e del Consiglio recepita con l'articolo 3, comma 1, lettera f), del decreto legislativo 15 luglio 2015, n. 112; ma ai fini del presente decreto tale definizione comprende solo i modi di trasporto seguenti: ferroviario, con autobus e pullman, metropolitana, tram e filobus; 
+
+                            
+                        
+                        
+                            pp)
+                            
+                                «servizi di trasporto regionali»: i servizi regionali di trasporto ferroviario, con autobus e pullman, metropolitana, tram e filobus quali definiti all'articolo 3, punto 7), della direttiva 2012/34/UE recepita con l'articolo 3, comma 1, lettera g), del decreto legislativo n. 112 del 2015; 
+
+                            
+                        
+                        
+                            qq)
+                            
+                                «tecnologia assistiva»: qualsiasi elemento, parte di apparecchiatura, servizio o sistema di prodotti, compresi i software, utilizzato per accrescere, mantenere, sostituire o migliorare le capacita' funzionali delle persone con disabilita' oppure per alleviare o compensare minorazioni, limitazioni dell'attivita' o restrizioni della partecipazione; 
+
+                            
+                        
+                        
+                            rr)
+                            
+                                «sistema operativo»: il software che, tra l'altro, gestisce l'interfaccia con l'hardware periferico, programma le operazioni, assegna la memoria e presenta all'utente un'interfaccia di default quando non vi sono applicazioni in esecuzione, compresa un'interfaccia grafica utente, indipendentemente dal fatto che tale software costituisca una parte integrante dell'hardware informatico generico per consumatori o sia un software a se' stante destinato a essere utilizzato per mezzo di un hardware informatico generico per consumatori; ma tale definizione esclude il boot loader, il basic input-output system o altri firmware necessari nella fase di avvio o al momento dell'installazione del sistema operativo; 
+
+                            
+                        
+                        
+                            ss)
+                            
+                                «sistema hardware informatico generico per consumatori»: la combinazione di hardware che forma un computer completo, caratterizzato dalla multifunzionalita' e dalla capacita' di eseguire, con il software adeguato, le operazioni informatiche piu' comuni richieste dai consumatori e destinato ad essere utilizzato dai consumatori; compresi personal computer, in particolare i computer da tavolo (desktop), i notebook, gli smartphone e i tablet; 
+
+                            
+                        
+                        
+                            tt)
+                            
+                                «capacita' informatica interattiva»: funzionalita' che sostiene l'interazione uomo-dispositivo consentendo il trattamento e la trasmissione di dati, voce o video o una qualsiasi combinazione dei predetti; 
+
+                            
+                        
+                        
+                            uu)
+                            
+                                «libro elettronico (e-book) e software dedicati»: il servizio consistente nella fornitura di file digitali che trasmettono la versione elettronica di un libro cosi' da potervi accedere e navigare e da renderne possibile la lettura e l'utilizzo, nonche' il software, ivi inclusi i servizi per dispositivi mobili comprese le applicazioni mobili, destinato a consentire le operazioni di accesso, navigazione, lettura e utilizzo di tali file digitali, ed esclude i software di cui alla definizione; 
+
+                            
+                        
+                        
+                            vv)
+                            
+                                «lettore di libro elettronico (e-reader)»: apparecchiatura dedicata, comprendente sia hardware che software, utilizzata ai fini dell'accesso ai file di libri elettronici, della navigazione al loro interno, della loro lettura e del loro utilizzo; 
+
+                            
+                        
+                        
+                            zz)
+                            
+                                «biglietti elettronici»: un sistema in cui un titolo di trasporto, sotto forma di biglietti singoli o multipli, abbonamenti o credito di viaggio, e' archiviato in forma elettronica in una tessera di trasporto fisica o in un altro dispositivo anziche' essere stampato su un biglietto cartaceo; 
+
+                            
+                        
+                        
+                            aaa)
+                            
+                                «servizi di biglietteria elettronica»: un sistema in cui i biglietti di trasporto dei passeggeri sono acquistati, incluso online, utilizzando un dispositivo dotato di capacita' informatica interattiva e forniti all'acquirente in forma elettronica, che consentano la loro stampa su carta o di essere visualizzati, al momento del viaggio, utilizzando un dispositivo mobile dotato di capacita' informatica interattiva.
 
 ## Art. 3.
 
@@ -78,6 +518,31 @@ Qualora il fabbricante accerti, ovvero abbia motivo di ritenere che il prodotto 
 Il fabbricante fornisce, su richiesta, al Ministero dello sviluppo economico ovvero alle autorita' nazionali competenti degli Stati membri in cui ha messo a disposizione il prodotto, le informazioni e la documentazione necessaria per dimostrarne la conformita' nella lingua italiana ovvero in inglese. Il fabbricante ha l'obbligo di cooperare, su richiesta, all'attuazione delle iniziative assunte dalle autorita' nazionali competenti degli Stati membri per rendere i prodotti conformi ai requisiti.
 
 ## Art. 7. — Rappresentante autorizzato
+
+1.
+                    
+                        
+                            Il fabbricante puo' nominare, mediante mandato scritto, un rappresentante autorizzato a eseguire i compiti specificati nel mandato stesso. Il mandato consente al rappresentante autorizzato di eseguire almeno i compiti seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                conservare la dichiarazione UE di conformita' e la documentazione tecnica per un periodo di cinque anni da quanto e' stato conferito il mandato, per consentire eventuali controlli da parte del Ministero dello sviluppo economico e delle autorita' di vigilanza dei mercati degli Stati membri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornire al Ministero dello sviluppo economico e alle autorita' di vigilanza dei mercati degli Stati membri, su richiesta motivata, le informazioni e la documentazione necessarie per dimostrare la conformita' del prodotto alle disposizioni di cui all'articolo 3; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                cooperare con il Ministero dello sviluppo economico e le autorita' di vigilanza dei mercati degli Stati membri, su loro richiesta, all'attuazione delle iniziative intraprese per rendere conformi ai requisiti di accessibilita' applicabili i prodotti che rientrano nel loro mandato.
 
 L'ottemperanza agli obblighi previsti dall'articolo 6 e l'elaborazione della documentazione tecnica di cui al medesimo articolo non possono rientrare nel mandato del rappresentante autorizzato.
 
@@ -138,11 +603,54 @@ Il fornitore di servizi, su richiesta motivata dell'Agenzia per l'Italia Digital
 
 ## Art. 13. — Modifica sostanziale e onere sproporzionato
 
+1.
+                    
+                        
+                            I requisiti di accessibilita' di cui all'articolo 3 si applicano soltanto nella misura in cui la conformita': 
+ 
+                        
+                        
+                            a)
+                            
+                                non richieda una modifica sostanziale di un prodotto o di un servizio tale da comportare la modifica sostanziale della sua stessa natura; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non comporti l'imposizione di un onere sproporzionato agli operatori economici interessati.
+
 Gli operatori economici valutano se ricorre una delle condizioni di cui al comma 1. La valutazione di cui al comma 1, lettera b), e' effettuata sulla base dei criteri di cui all'allegato V.
 
 Gli operatori economici documentano la valutazione di cui al comma 2 e ne conservano i risultati per un periodo non inferiore a cinque anni, a decorrere dall'ultima messa a disposizione di un prodotto sul mercato ovvero dall'ultima fornitura di un servizio. Su richiesta del Ministero dello sviluppo economico o delle autorita' competenti degli Stati membri in cui il prodotto e' stato messo a disposizione del mercato ovvero e' fornito il servizio, gli operatori economici forniscono copia della valutazione di cui al comma 2.
 
 In deroga al comma 3, le microimprese che trattano prodotti sono esenti dal requisito di documentare la valutazione. Se tuttavia il Ministero dello sviluppo economico lo richiede, le microimprese che trattano prodotti e che hanno scelto di invocare il comma 1 forniscono gli elementi di fatto relativi alla valutazione di cui al comma 2.
+
+5.
+                    
+                        
+                            Il fornitore di servizi che invoca il comma 1, lettera b), rinnova la valutazione di cui al comma 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando il servizio offerto e' modificato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                su richiesta delle autorita' responsabili del controllo della conformita' dei servizi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in ogni caso, almeno ogni cinque anni dall'ultima valutazione.
 
 Agli operatori economici che ricevono finanziamenti pubblici o privati, al fine di migliorare l'accessibilita', non si applica il comma 1, lettera b).
 
@@ -176,6 +684,31 @@ La marcatura CE e' soggetta ai principi generali di cui all'articolo 30 del rego
 
 Ai prodotti si applicano gli articoli 15, paragrafo 3, 16, 17, 18, 19, 21, 23, 24, 25, 26, 27, 28, 29, paragrafi 2 e 3, del Regolamento (CE) n. 765/2008.
 
+2.
+                    
+                        
+                            Il Ministero dello sviluppo economico, in qualita' di Autorita' di vigilanza del mercato dei prodotti di cui al presente decreto, nell'effettuare la sorveglianza del mercato dei prodotti nei casi di cui all'articolo 13, comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                verifica se la valutazione di cui all'articolo 13 e' stata effettuata dall'operatore economico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                riesamina la valutazione e i relativi risultati, compreso l'uso corretto dei criteri di cui all'allegato V; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                controlla la conformita' ai requisiti di accessibilita' applicabili.
+
 Le informazioni detenute dal Ministero dello sviluppo economico in merito alla conformita' degli operatori economici ai requisiti di accessibilita' applicabili e in merito alla valutazione di cui all'articolo 13 sono messe a disposizione dei consumatori su loro richiesta e in formato accessibile fatto salvo quanto disposto dall'articolo 19, paragrafo 5, del Regolamento CE 765/2008, relativamente al dovere di riservatezza per la tutela dei segreti commerciali e dei dati personali.
 
 ## Art. 18.
@@ -192,6 +725,25 @@ Qualora ritenga che la non conformita' non sia limitata al territorio nazionale,
 L'operatore economico garantisce che siano adottate le opportune misure correttive nei confronti dei prodotti non conformi che ha messo a disposizione sul mercato dell'Unione.
 
 Qualora l'operatore economico interessato non adotti le misure correttive adeguate entro il termine di cui al comma 1, ultimo periodo, il Ministero dello sviluppo economico adotta tutte le opportune misure provvisorie per vietare o limitare la messa a disposizione del prodotto sul mercato nazionale o per ritirarlo. Esso informa, senza ritardo, la Commissione e gli altri Stati membri di tali misure.
+
+6.
+                    
+                        
+                            Le informazioni di cui al comma 5 includono tutti gli elementi disponibili, in particolare i dati necessari all'identificazione del prodotto non conforme, la sua origine, la natura della presunta non conformita' e i requisiti di accessibilita' ai quali il prodotto non e' conforme, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dall'operatore economico interessato.
+In particolare, il Ministero dello sviluppo economico indica se la non conformita' sia dovuta: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla mancata rispondenza del prodotto ai requisiti di accessibilita' applicabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle carenze del prodotto con riferimento al rispetto delle norme armonizzate o delle specifiche tecniche di cui all'articolo 14 che conferiscono la presunzione di conformita'.
 
 ((6-bis. Nei casi di avvio della procedura ai sensi dell'articolo 20 della direttiva (UE) 2019/882 da parte dell'autorita' di un altro Stato membro, il Ministero delle imprese e del made in Italy comunica senza ritardo alla Commissione e agli altri Stati membri tutte le misure adottate, tutte le altre informazioni a sua disposizione sulla non conformita' del prodotto interessato e, in caso di disaccordo con la misura nazionale notificata, le sue obiezioni))
 
@@ -210,6 +762,59 @@ Se, all'esito della procedura di salvaguardia dell'Unione cui all'articolo 20, p
 
 Non conformita' formale
 
+1.
+                    
+                        
+                            Fatto salvo l'articolo 18, il Ministero dello sviluppo economico fissa un termine entro il quale l'operatore economico interessato pone fine alla non conformita' contestata, ove accerti che: 
+ 
+                        
+                        
+                            a)
+                            
+                                la marcatura CE e' stata apposta in violazione dell'articolo 30 del regolamento (CE) n. 765/2008 o dell'articolo 14 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il marchio CE non e' stato apposto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione UE di conformita' non e' stata compilata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la dichiarazione UE di conformita' non e' stata compilata correttamente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la documentazione tecnica non e' disponibile o e' incompleta; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le informazioni di cui all'articolo 6, comma 6, o all'articolo 8, comma 4, sono assenti, false o incomplete; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                qualsiasi altro requisito amministrativo di cui all'articolo 6 o all'articolo 8 non e' rispettato.
+
 Se alla scadenza del termine di cui al comma 1 la non conformita' permane, l'autorita' di vigilanza adotta tutte le misure opportune per limitare o proibire la messa a disposizione sul mercato del prodotto o garantisce che sia ritirato dal mercato.
 
 ## Art. 21.
@@ -220,6 +825,38 @@ L'Agenzia per l'Italia Digitale, in qualita' di Autorita' di vigilanza sui servi
 Tali misure sono adottate secondo i principi di proporzionalita' e ragionevolezza e sono, comunque, revocate se il fornitore si adegua al rispetto delle misure correttive. Qualora la mancata adozione delle misure correttive inerisca a servizi di trasporto, prima di adottare le misure inibitorie, l'Agenzia acquisisce il parere dell'Autorita' per la regolazione dei trasporti.
 
 L'Agenzia per l'Italia Digitale, entro centottanta giorni dalla data di entrata in vigore del presente decreto, acquisito il parere di Autorita' per le garanzie nelle comunicazioni per i servizi di cui all'articolo 1, comma 3, lettere a) e b), adotta apposite Linee guida per assicurare l'attuazione del presente articolo. Per i servizi di cui all'articolo 1, comma 3, lettera c), le linee guida sono adottate acquisito il parere dell'Autorita' per la regolazione dei trasporti.
+
+3.
+                    
+                        
+                            L'Agenzia per l'Italia Digitale: 
+ 
+                        
+                        
+                            a)
+                            
+                                esamina i reclami dell'utente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica la conformita' dei servizi ai requisiti del presente decreto, compresa la valutazione di cui all'articolo 13 alla quale si applica altresi' il comma 2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                verifica che il fornitore di servizi abbia adottato le necessarie misure correttive; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                procede all'accertamento degli illeciti di cui all'articolo 24 in relazione ai servizi.
 
 Il fornitore di servizi adotta le opportune misure correttive per adeguare i servizi non conformi.
 

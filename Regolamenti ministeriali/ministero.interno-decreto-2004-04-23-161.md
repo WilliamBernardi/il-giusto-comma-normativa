@@ -8,8 +8,8 @@ codice_redazionale: 004G0190
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,31 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Tipologie delle misure di protezione
 
+1.
+                    
+                        
+                            Il decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82 (d'ora in avanti, ai fini del presente decreto, legge 15 marzo 1991, n. 82) come modificato dalla legge 13 febbraio 2001, n. 45, prevede le seguenti misure di protezione:
+ 
+                        
+                        
+                            a)
+                            
+                                piano provvisorio di protezione, ai sensi dell'articolo 13, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                speciali misure di protezione, ai sensi dell'articolo 13, comma 4;
+
+                            
+                        
+                        
+                            c)
+                            
+                                speciali misure di protezione applicate mediante la definizione di un programma speciale di protezione, ai sensi dell'articolo 13, comma 5.
+
 Le misure di protezione di cui al comma 1 sono deliberate dalla Commissione centrale di cui all'articolo 10 della legge 15 marzo 1991, n. 82, denominata d'ora in avanti, ai fini del presente decreto, Commissione centrale.
 
 Per le misure di protezione di cui al comma 1 non si applicano, in relazione al carattere speciale delle disposizioni del Capo II e del Capo II-bis della legge 15 marzo 1991, n. 82, le disposizioni del decreto-legge 6 maggio 2002, n. 83, convertito, con modificazioni, nella legge 2 luglio 2002, n. 133.
@@ -54,6 +79,80 @@ La proposta di adozione delle speciali misure di protezione e del piano provviso
 ## Art. 3. — Contenuti della proposta di adozione delle speciali misure
  di protezione
 
+1.
+                    
+                        
+                            La proposta di adozione delle misure speciali di protezione contiene i seguenti elementi informativi:
+ 
+                        
+                        
+                            a)
+                            
+                                specificazione dei delitti e delle organizzazioni criminali, sui quali l'interessato rende le dichiarazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicazione degli elementi da cui si desume che le dichiarazioni hanno carattere di intrinseca attendibilita', nonche', con riferimento specifico ai collaboratori della giustizia, di novita' o di completezza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                specificazione dei motivi per i quali le dichiarazioni appaiono di notevole importanza per lo sviluppo delle indagini o ai fini del giudizio ovvero per le attivita' di investigazione, ai sensi dell'articolo 9, comma 3, della legge 15 marzo 1991, n. 82;
+
+                            
+                        
+                        
+                            d)
+                            
+                                indicazione dei provvedimenti, anche di carattere cautelare, ovvero relativi all'applicazione di una misura di prevenzione, eventualmente adottati sulla base delle dichiarazioni rese dal soggetto proposto, nonche' delle eventuali deposizioni rese dallo stesso in sede di udienza preliminare o dibattimentale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                notizie circa le informazioni rese dal collaboratore per la individuazione, il sequestro e la confisca del denaro, dei beni e di ogni altra utilita', dei quali egli stesso o altri appartenenti a gruppi criminali dispongono direttamente o indirettamente, nonche' l'indicazione di eventuali versamenti effettuati dal collaboratore, con conseguente sequestro da parte dell'Autorita' giudiziaria, di denaro frutto di attivita' illecite;
+
+                            
+                        
+                        
+                            f)
+                            
+                                specificazione dettagliata, anche ai fini della definizione delle misure di assistenza economica di cui all'articolo 13, comma 6, della legge 15 marzo 1991, n. 82, ivi compresa la determinazione dell'assegno di mantenimento, del denaro, dei beni e di ogni altra utilita' posseduti o controllati dal collaboratore o dei quali egli comunque disponga direttamente o indirettamente per interposta persona, nonche' l'indicazione degli accertamenti svolti e degli elementi acquisiti in ordine all'effettivo stato patrimoniale del collaboratore;
+
+                            
+                        
+                        
+                            g)
+                            
+                                indicazioni circa la sussistenza o meno di misure di prevenzione, ovvero di procedimenti di applicazione delle stesse, ai sensi della legge 31 maggio 1965, n. 575;
+
+                            
+                        
+                        
+                            h)
+                            
+                                specificazione delle circostanze da cui si desume la sussistenza di un grave e attuale pericolo, e se tale pericolo deriva dalla collaborazione o dalle dichiarazioni rese dall'interessato nell'ambito di un procedimento penale;
+
+                            
+                        
+                        
+                            i)
+                            
+                                indicazione delle misure ordinarie di protezione eventualmente adottate dalle competenti Autorita' di Pubblica sicurezza o, se si tratta di persone detenute o internate, dal Ministero della giustizia - Dipartimento dell'amministrazione penitenziaria;
+
+                            
+                        
+                        
+                            j)
+                            
+                                specificazione dei motivi che determinano l'inadeguatezza delle anzidette misure di tutela.
+
 Qualora l'Autorita' proponente ritenga che le misure speciali di protezione debbano essere applicate mediante la definizione di uno speciale programma di protezione, specifica dettagliatamente le situazioni di gravita' e attualita' del pericolo che inducono a ritenerlo necessario.
 
 L'Autorita' proponente deve altresi' comunicare, con la stessa proposta di adozione delle misure speciali di protezione, l'avvenuta redazione del verbale illustrativo dei contenuti della collaborazione di cui all'articolo 16-quater, della legge 15 marzo 1991, n. 82. Se la redazione del verbale illustrativo avviene in un momento successivo alla proposta di adozione delle misure speciali di protezione, ma comunque nei termini di cui all'articolo 16-quater, comma 1, l'Autorita' proponente ne da' pronta comunicazione alla Commissione centrale.
@@ -70,10 +169,95 @@ La Commissione puo' adottare misure diverse da quelle richieste dall'Autorita' p
 
 Le misure speciali di protezione gia' adottate possono essere estese anche ad altre persone, su richiesta dell'Autorita' proponente, osservate le disposizioni del presente articolo concernenti le modalita' della proposta.
 
+10.
+                    
+                        
+                            Nella richiesta di estensione delle misure speciali di protezione, l'Autorita' proponente specifica dettagliatamente:
+ 
+                        
+                        
+                            a)
+                            
+                                i motivi che determinano la necessita' di tale misura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli elementi da cui si desume la sussistenza di un grave, attuale e concreto pericolo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i motivi per cui le misure ordinarie di protezione sono insufficienti a tutelare l'incolumita' degli interessati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i motivi che hanno indotto a suo tempo l'Autorita' proponente a non includere gli interessati nella originaria proposta di adozione delle misure speciali di protezione e le circostanze che hanno determinato la necessita' di richiederle successivamente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le relazioni intrattenute tra le persone proposte per l'estensione delle misure e coloro che rendono le dichiarazioni.
+
 ## Art. 4. — Contenuto della proposta di adozione del piano provvisorio
  di protezione
 
 Nei confronti di un soggetto che ha manifestato la volonta' di collaborare o delle persone indicate negli articoli 9, comma 5, e 16-bis, comma 3, della legge 15 marzo 1991, n. 82, se vi sono situazioni di particolare gravita' o urgenza, puo' essere adottato un piano provvisorio di protezione.
+
+2.
+                    
+                        
+                            La richiesta di adozione di un piano provvisorio di protezione contiene i seguenti elementi informativi:
+ 
+                        
+                        
+                            a)
+                            
+                                notizie ed elementi utili per la valutazione sulla gravita' e attualita' del pericolo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elencazione delle eventuali misure di tutela adottate o fatte adottare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                motivi per i quali le misure in questione non appaiono adeguate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                indicazione quanto meno sommaria dei fatti sui quali il soggetto interessato ha manifestato la volonta' di collaborare;
+
+                            
+                        
+                        
+                            e)
+                            
+                                motivi per i quali la collaborazione e' ritenuta attendibile e di notevole importanza;
+
+                            
+                        
+                        
+                            f)
+                            
+                                motivi per i quali vi e' urgenza di provvedere.
 
 La richiesta di adozione di un piano provvisorio di protezione viene indirizzata alla Commissione centrale, che delibera entro la prima seduta successiva alla richiesta.
 
@@ -105,6 +289,59 @@ Nella definizione del piano provvisorio di protezione la Commissione tiene conto
 
 All'attuazione del piano provvisorio provvede il Servizio centrale di protezione di cui all'articolo 14 della legge 15 marzo 1991, n. 82, denominato d'ora in avanti, ai fini del presente decreto, Servizio centrale di protezione. Se la Commissione non ritiene necessario il trasferimento in luogo protetto, il soggetto responsabile della specificazione e dell'attuazione del piano provvisorio e' il Prefetto.
 
+4.
+                    
+                        
+                            In particolare, il piano provvisorio puo' prevedere:
+ 
+                        
+                        
+                            a)
+                            
+                                misure di vigilanza e di tutela da eseguire a cura degli organi di polizia territorialmente competenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accorgimenti tecnici di sicurezza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                misure necessarie per i trasferimenti in comuni diversi da quelli di residenza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasferimento in localita' segrete, in casi di particolare gravita';
+
+                            
+                        
+                        
+                            e)
+                            
+                                forme di assistenza economica, consistenti nelle spese alloggiative, nell'erogazione dell'assegno di mantenimento, secondo le modalita' e nei limiti previsti per i collaboratori ed i testimoni, rispettivamente dall'articolo 13, comma 6, e dall'articolo 16-ter, comma 1, lettera b), della legge 15 marzo 1991, n. 82 e nell'assistenza legale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                modalita' particolari di custodia in istituti penitenziari, ovvero di esecuzione di traduzioni e piantonamenti, secondo quanto stabilito dall'Amministrazione penitenziaria in attuazione delle disposizioni vigenti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ogni altra misura, anche di carattere economico, ritenuta necessaria.
+
 ## Art. 7. — Contenuti delle speciali misure di protezione
 
 Le speciali misure di protezione, quando non attuate mediante un programma speciale, sono disposte dalla Commissione centrale e sono determinate e attuate dal Prefetto del luogo di residenza del collaboratore o del testimone di giustizia.
@@ -113,6 +350,52 @@ La Commissione delibera l'adozione delle speciali misure di protezione qualora l
 
 La Commissione adotta le proprie determinazioni dopo aver acquisito elementi utili sull'esposizione a pericolo, acquisendo se necessario il parere del Prefetto competente.
 
+4.
+                    
+                        
+                            Le speciali misure di protezione possono prevedere:
+ 
+                        
+                        
+                            a)
+                            
+                                misure di vigilanza e di tutela da eseguire a cura degli organi di polizia territorialmente competenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accorgimenti tecnici di sicurezza per le abitazioni o per gli immobili di pertinenza degli interessati, consistenti anche in strumenti di video-sorveglianza e di teleallarme;
+
+                            
+                        
+                        
+                            c)
+                            
+                                misure necessarie per i trasferimenti in comuni diversi da quelli di residenza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                modalita' particolari di custodia in istituti penitenziari, ovvero di esecuzione di traduzioni e piantonamenti, secondo quanto stabilito dall'Amministrazione penitenziaria in attuazione delle disposizioni vigenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                interventi contingenti, anche di carattere economico, finalizzati ad agevolare il reinserimento sociale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ogni altra misura necessaria, nel rispetto delle direttive generali impartite dal Capo della Polizia - Direttore generale della pubblica sicurezza.
+
 ## Art. 8. — Contenuti del programma speciale di protezione
 
 Il programma speciale di protezione e' disposto dalla Commissione centrale ed e' attuato dal Servizio centrale di protezione.
@@ -120,6 +403,119 @@ Il programma speciale di protezione e' disposto dalla Commissione centrale ed e'
 La Commissione delibera l'adozione del programma speciale di protezione quando l'esposizione a pericolo degli interessati e' tale da rendere necessario il trasferimento in un luogo protetto, e, se si tratta di testimone, questi non si opponga al trasferimento stesso.
 
 La Commissione adotta le proprie determinazioni dopo aver acquisito ogni elemento utile circa l'esposizione a pericolo, richiedendo se necessario il parere del Prefetto competente.
+
+4.
+                    
+                        
+                            Il programma speciale di protezione comprende:
+ 
+                        
+                        
+                            a)
+                            
+                                trasferimento delle persone non detenute in luoghi protetti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                misure di vigilanza e di tutela da eseguire a cura degli organi di polizia territorialmente competenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accorgimenti tecnici di sicurezza per quanto riguarda le abitazioni o gli immobili di pertinenza degli interessati, che potranno consistere anche in strumenti di video-sorveglianza e di teleallarme;
+
+                            
+                        
+                        
+                            d)
+                            
+                                misure necessarie per i trasferimenti in comuni diversi da quelli sede della localita' protetta;
+
+                            
+                        
+                        
+                            e)
+                            
+                                modalita' particolari di custodia in istituti penitenziari ovvero di esecuzione di traduzioni e piantonamenti, secondo quanto stabilito dall'Amministrazione penitenziaria in attuazione delle disposizioni vigenti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                speciali modalita' di tenuta della documentazione e delle comunicazioni al servizio informatico;
+
+                            
+                        
+                        
+                            g)
+                            
+                                misure di assistenza personale ed economica;
+
+                            
+                        
+                        
+                            h)
+                            
+                                utilizzazione di documenti di copertura, per assicurare la sicurezza, la riservatezza e il reinserimento sociale degli interessati. Il Servizio centrale di protezione provvede, tramite dirette intese con il Centro elaborazione dati di cui all'articolo 8 della legge 1° aprile 1981, n. 121, ad attivare procedure di controllo sull'utilizzazione dei documenti di copertura rilasciati ai collaboratori di giustizia, salvaguardando la riservatezza delle informazioni;
+
+                            
+                        
+                        
+                            i)
+                            
+                                cambiamento delle generalita' a norma del decreto legislativo 29 marzo 1993, n. 119, e successive modificazioni;
+
+                            
+                        
+                        
+                            j)
+                            
+                                misure atte a favorire il reinserimento sociale del collaboratore o del testimone di giustizia e delle altre persone sottoposte a protezione;
+
+                            
+                        
+                        
+                            k)
+                            
+                                misure straordinarie, anche di carattere economico, eventualmente necessarie.
+
+5.
+                    
+                        
+                            Le misure di assistenza economica comprendono, sempre che a tutte o ad alcune non provveda direttamente il soggetto sottoposto al programma di protezione:
+ 
+                        
+                        
+                            a)
+                            
+                                sistemazione e spese alloggiative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                spese per i trasferimenti giustificati da motivi di sicurezza, sanitari o di reinserimento sociale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                spese per esigenze sanitarie quando non sia possibile avvalersi delle strutture pubbliche ordinarie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                assegno di mantenimento nel caso di impossibilita' di svolgere attivita' lavorativa, secondo le modalita' e nei limiti fissati dall'articolo 13, comma 6, della legge 15 marzo 1991, n. 82 e dalla Commissione centrale.
 
 Le misure di assistenza economica di cui al comma 5 prevedono altresi' l'assistenza legale per il collaboratore e il testimone di giustizia ammessi al programma speciale di protezione o al piano provvisorio di protezione.
 

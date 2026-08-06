@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2009-12-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,66 @@ Sentito il Consiglio dei Ministri;
 ## Art. 2.
 
 ((
+
+1.
+                    
+                        
+                            Il consiglio di amministrazione dell'Istituto nazionale per le conserve alimentari e' nominato con decreto del Ministro dell'industria, del commercio e dell'artigianato ed e' composto da:
+ 
+                        
+                        
+                            a)
+                            
+                                un funzionario del Ministero dell'industria, del commercio e dell'artigianato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un funzionario del Ministero dell'agricoltura e delle foreste;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un funzionario del Ministero della sanita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                un funzionario del Ministero del commercio con l'estero;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un funzionario dell'Istituto per il commercio con l'estero;
+
+                            
+                        
+                        
+                            f)
+                            
+                                due produttori di conserve alimentari animali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                tre produttori di conserve alimentari vegetali;
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante delle societa' cooperative produttrici di conserve alimentari.
 
 Il consiglio di amministrazione dura in carica tre anni.
 
@@ -63,6 +123,31 @@ Al Consiglio di amministrazione spetta:
 ## Art. 6.
 
 ((
+
+1.
+                    
+                        
+                            Il consiglio di amministrazione nomina nel suo seno un comitato esecutivo composto:
+ 
+                        
+                        
+                            a)
+                            
+                                dal presidente dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da due componenti del consiglio di amministrazione eletti tra i produttori di conserve alimentari ed il rappresentante delle coop- erative;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dai funzionari dei Ministeri dell'industria, del commercio e dell'artigianato e dell'agricoltura e foreste.
 
 ))
 

@@ -8,8 +8,8 @@ codice_redazionale: 092G0515
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,45 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del gior
 In attuazione dell'art. 1 della legge 29 dicembre 1988, n. 554, il trasferimento agli enti locali dei fondi relativi agli oneri concernenti il trattamento economico del personale dell'Ente ferrovie dello Stato sottoposto a mobilita' verso gli enti locali medesimi e' disciplinato dagli articoli seguenti.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Entro il mese di luglio 1992 l'Ente ferrovie dello Stato comunica al Ministero del tesoro - Ragioneria generale dello Stato, e al Ministero dell'interno il personale trasferito agli enti locali a tutto il 31 dicembre 1991 con apposito elenco nominativo, specificando:
+ 
+                        
+                        
+                            a)
+                            
+                                dati anagrafici di ciascun dipendente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualifica, categoria, profilo professionale, data di trasferimento di ogni singolo dipendente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il trattamento economico fondamentale annuo lordo (stipendio base, retribuzione di anzianita' o per classi e scatti, indennita' integrativa speciale, assegni famiglia, 13a mensilita');
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'amministrazione di destinazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'ammontare complessivo dei trattamenti economici fondamentali dovuti al personale sottoposto a mobilita' dalla data del trasferimento al 31 dicembre 1991, nonche' l'ammontare complessivo annuo dovuto a decorrere dall'anno 1992.
 
 ## Art. 3.
 

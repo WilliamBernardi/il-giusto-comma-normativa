@@ -8,8 +8,8 @@ codice_redazionale: 089G0375
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,52 @@ I concorsi di cui ai commi 1 e 2 sono indetti con decreto del Ministro dell'inte
 
 ## Art. 2. — Bandi di concorso
 
+1.
+                    
+                        
+                            Il decreto ministeriale che indice il concorso per la immissione nei ruoli del personale della Polizia di Stato che espleta attivita' tecnico-scientifica o tecnica indica:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso ed eventualmente, la distribuzione degli stessi nelle diverse regioni; per le qualifiche iniziali dei ruoli dei revisori e dei periti, il bando indica la ripartizione dei posti tra i vari settori tecnico-scientifici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i documenti prescritti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i termini per la presentazione delle domande di ammissione al concorso e dei documenti di cui alla precedente lettera c);
+
+                            
+                        
+                        
+                            e)
+                            
+                                il programma delle prove di esame;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ogni altra prescrizione e notizia ritenuta utile.
+
 La sede o le sedi nelle quali hanno luogo le prove scritte e la prova a carattere professionale, nonche' il diario delle prove d'esame sono stabiliti con lo stesso decreto che indice il concorso o con successiva comunicazione da pubblicarsi nella Gazzetta Ufficiale del giorno indicato nel bando di concorso. Tale pubblicazione ha valore di notifica a tutti gli effetti.
 
 ## Art. 3. — Domande di partecipazione al concorso
@@ -43,6 +89,80 @@ La sede o le sedi nelle quali hanno luogo le prove scritte e la prova a caratter
 Le domande di partecipazione al concorso, redatte su carta libera oppure, nei casi in cui l'amministrazione lo ritenga opportuno, compilate su modelli da essa predisposti e conformi a quello allegato al bando di concorso, devono essere presentate alla questura della provincia ove il candidato risiede entro il termine indicato nel bando stesso. Il termine decorre dalla data di pubblicazione del bando di concorso nella Gazzetta Ufficiale della Repubblica italiana.
 
 Le domande si considerano prodotte in tempo utile anche se spedite alla questura a mezzo di raccomandata con avviso di ricevimento entro lo stesso termine di cui al comma 1. A tal fine fa fede il timbro a data dell'ufficio postale accettante.
+
+3.
+                    
+                        
+                            Gli aspiranti devono dichiarare nella domanda:
+ 
+                        
+                        
+                            a)
+                            
+                                il cognome ed il nome;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data e il luogo di nascita;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il possesso della cittadinanza italiana;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comune ove sono iscritti nelle liste elettorali ovvero il motivo della non iscrizione o della cancellazione dalle liste medesime;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'immunita' da condanne penali o eventualmente le condanne penali riportate e i procedimenti penali pendenti a loro carico;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il titolo di studio, con l'indicazione dell'istituto o dell'universita' che lo ha rilasciato e della data in cui e' stato conseguito;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la lingua straniera nella quale intendono sostenere la prova se prevista dal bando di concorso;
+
+                            
+                        
+                        
+                            h)
+                            
+                                i servizi eventualmente prestati come dipendenti presso le pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubbligo impiego;
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'eventuale esistenza di titoli che legittimino l'elevazione del limite massimo di eta' prescritto per la partecipazione al concorso o che consentano di prescindere da tale limite;
+
+                            
+                        
+                        
+                            l)
+                            
+                                la posizione nei riguardi degli obblighi militari.
 
 Le domande devono inoltre contenere la precisa indicazione del recapito al quale vanno fatte le comunicazioni relative al concorso e l'impegno di far conoscere le successive eventuali variazioni del recapito stesso.
 
@@ -102,6 +222,31 @@ In relazione al numero dei candidati che hanno portato a termine le prove scritt
 
 ## Art. 8. — Categorie di titoli valutabili
 
+1.
+                    
+                        
+                            I titoli ammessi a valutazione nei concorsi di accesso alle qualifiche iniziali dei ruoli degli operatori e collaboratori tecnici e dei periti tecnici si suddividono nelle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                titoli di cultura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                titoli professionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                titoli vari.
+
 Rientrano fra i titoli di cultura i diplomi scolastici e quelli professionali, gli attestati di frequenza a corsi d'arte o mestieri ovvero a corsi professionali o di specializzazione purche' rilasciati da un istituto statale, da un ente pubblico o da un istituto riconosciuto dallo Stato; si intendono per titoli professionali quelli attinenti allo svolgimento di attivita' lavorativa o professionale.
 
 Tra i titoli vari vanno compresi quelli che, a giudizio della commissione esaminatrice, pur costituendo elementi di merito non rientrano nelle altre categorie.
@@ -116,6 +261,45 @@ La commissione esaminatrice stabilisce preventivamente i titoli che saranno pres
 
 Le prove d'esame del concorso per la nomina ad allievo operatore tecnico sono costituite da una prova scritta e da un colloquio.
 
+2.
+                    
+                        
+                            La prova scritta consiste in un tema di cultura generale. Il colloquio, svolto ad un livello adeguato al grado di cultura richiesto ai candidati, verte sulle seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                storia d'Italia dal 1815 al 1948;
+
+                            
+                        
+                        
+                            b)
+                            
+                                educazione civica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                geografia fisica e politica d'Italia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                aritmetica e geometria;
+
+                            
+                        
+                        
+                            e)
+                            
+                                norme sui diritti e doveri dei pubblici dipendenti.
+
 Al colloquio sono ammessi a partecipare i candidati che nella prova scritta hanno conseguito una votazione non inferiore a ventuno trentesimi.
 
 I candidati che nel colloquio hanno conseguito una votazione non inferiore a diciotto trentesimi sono dichiarati idonei e collocati nella graduatoria di merito secondo l'ordine determinato dalla somma dei punteggi conseguiti nelle prove d'esame e nei titoli.
@@ -128,6 +312,52 @@ La prova scritta e' costituita da un tema di cultura generale.
 
 La prova professionale consiste in un esperimento pratico diretto ad accertare la capacita' tecnica attraverso l'esecuzione di compiti attinenti alle mansioni del profilo professionale per il quale il candidato concorre.
 
+4.
+                    
+                        
+                            Il colloquio integrativo della prova a carattere professionale verte sulle seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                nozioni teoriche relative al settore tecnico nel quale si e' svolta la prova professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                storia d'Italia dal 1815 al 1948;
+
+                            
+                        
+                        
+                            c)
+                            
+                                educazione civica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                geografia fisica e politica d'Italia;
+
+                            
+                        
+                        
+                            e)
+                            
+                                aritmetica e geometria;
+
+                            
+                        
+                        
+                            f)
+                            
+                                norme sui diritti e doveri dei pubblici dipendenti.
+
 Alla prova professionale ed al colloquio integrativo sono ammessi i candidati che nella prova scritta hanno conseguito una votazione non inferiore a ventuno trentesimi.
 
 I candidati che nella prova professionale integrata dal colloquio hanno conseguito una votazione non inferiore a diciotto trentesimi sono dichiarati idonei e collocati nella graduatoria di merito secondo l'ordine determinato dalla somma dei punteggi conseguiti nella prova scritta e nella prova professionale integrata dal colloquio.
@@ -139,6 +369,38 @@ Le prove d'esame del concorso per la nomina a vice perito tecnico sono costituit
 La prima prova scritta consiste nella stesura di un elaborato teorico attinente alla specializzazione richiesta dal concorso.
 
 La seconda prova scritta, anch'essa attinente alla specializzazione, e' di carattere prevalentemente pratico ed e' intesa ad accertare la capacita' ad assolvere i compiti previsti dal profilo professionale.
+
+4.
+                    
+                        
+                            Il colloquio verte sulle materie delle prove scritte e sulle seguenti altre:
+ 
+                        
+                        
+                            a)
+                            
+                                elementi di diritto pubblico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elementi di diritto penale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                norme sullo stato giuridico dei pubblici dipendenti con particolare riferimento agli appartenenti alla Polizia di Stato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                prova facoltativa di una lingua straniera, a scelta del candidato tra francese, inglese e tedesco.
 
 La prova facoltativa, per la quale il punteggio massimo da attribuire e' nove, tende ad accertare la capacita' del candidato a tradurre un testo di natura tecnica attinente alla propria competenza professionale.
 

@@ -8,8 +8,8 @@ codice_redazionale: 090G0193
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,122 @@ D'intesa con il Ministro per il coordinamento delle politiche comunitarie;
 Il Dipartimento per il coordinamento delle politiche comunitarie, di seguito indicato Dipartimento, e' costituito secondo gli articoli che seguono.
 
 ## Art. 2. — Competenze
+
+1.
+                    
+                        
+                            Il Dipartimento provvede agli adempimenti riguardanti:
+ 
+                        
+                        
+                            a)
+                            
+                                la promozione ed il coordinamento dell'attivita' di Governo e delle pubbliche amministrazioni relativamente alle politiche comunitarie;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'istruttoria degli affari relativi a questioni comunitarie per le determinazioni del Consiglio dei Ministri, verificandone l'attuazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il coordinamento, per specifici settori di competenza, delle amministrazioni pubbliche e, d'intesa con esse, la consultazione degli operatori privati, nonche' delle parti sociali interessate, ai fini della formulazione di atti comunitari;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le attivita' connesse allo svolgimento della sessione comunitaria della Conferenza di cui all'art. 10 della legge 9 marzo 1989, n. 86, in coordinamento con l'ufficio di segreteria della predetta Conferenza, nonche' il coordinamento delle attivita' delle regioni in sede comunitaria, in collegamento con il Dipartimento per gli affari regionali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'attivita' relativa al mercato interno; il funzionamento del relativo Consiglio nazionale istituito con decreto del Presidente del Consiglio dei Ministri in data 9 dicembre 1988, del comitato interministeriale per i programmi integrati mediterranei, del comitato interministeriale per il coordinamento degli interventi dei fondi strutturali delle Comunita' europee, e delle relative segreterie tecniche, nonche' del comitato consultivo di cui all'art. 4, comma 1, della legge 16 aprile 1987, n. 183, e della segreteria permanente di cui al comma 3 del medesimo art. 4;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'attuazione della legge 16 aprile 1987, n. 183, e della legge 9 marzo 1989, n. 86;
+
+                            
+                        
+                        
+                            g)
+                            
+                                lo sviluppo, d'intesa con la Rappresentanza permanente d'Italia presso le Comunita' europee e nel quadro del coordinamento con le altre amministrazioni interessate, dei rapporti con gli uffici della Commissione delle Comunita' europee per la trattazione, a livello tecnico e istruttorio, degli affari comunitari di interesse dell'Italia, promuovendo, d'intesa con il Ministero degli affari esteri, le relative iniziative;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'armonizzazione tra legislazione nazionale e normative comunitarie, l'individuazione degli strumenti idonei a recepire nell'ordinamento interno gli atti comunitari, la predisposizione dei relativi provvedimenti e la verifica dell'esecuzione delle determinazioni assunte, in materia, dal Consiglio dei Ministri;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la vigilanza sulla corretta e tempestiva attuazione delle disposizioni comunitarie da parte delle amministrazioni pubbliche operanti nei settori oggetto di tali discipline, nonche' le iniziative per l'adeguamento e il coordinamento delle azioni, delle procedure e degli atti di competenza delle singole amministrazioni;
+
+                            
+                        
+                        
+                            l)
+                            
+                                la promozione delle azioni dirette ad adempiere tempestivamente alle pronunce della Corte di giustizia delle Comunita' europee;
+
+                            
+                        
+                        
+                            m)
+                            
+                                la verifica circa il tempestivo impiego dei finanziamenti comunitari da parte di amministrazioni, enti e soggetti destinatari e le iniziative che ne assicurino l'efficiente utilizzazione, nonche' l'immediata disponibilita' di risorse nazionali connesse, in collegamento con il Ministero del tesoro; l'attivazione degli interventi del fondo di rotazione istituito con la citata legge n. 183 del 1987;
+
+                            
+                        
+                        
+                            n)
+                            
+                                le attivita' connesse all'attuazione del regolamento del Consiglio delle Comunita' europee n. 2088/85 del 23 luglio 1985, relativo ai programmi integrati mediterranei, nonche' le attivita' di coordinamento connesse all'attuazione dei regolamenti del Consiglio delle Comunita' europee n. 2052/88 del 24 giugno 1988 e numeri 4253/88, 4254/88, 4255/88 e 4256/88 del 19 dicembre 1988, relative alla destinazione dei fondi comunitari a finalita' strutturali, il coordinamento in materia di aiuti di Stato e regionali;
+
+                            
+                        
+                        
+                            o)
+                            
+                                la formazione di personale e di operatori pubblici e privati con riferimento a temi e problemi comunitari;
+
+                            
+                        
+                        
+                            p)
+                            
+                                gli affari generali; i rapporti con gli organi dello Stato e gli enti territoriali; l'organizzazione e le attivita' strumentali al funzionamento del Dipartimento, nonche', con il coordinamento dei competenti uffici e dipartimenti del Segretariato generale, gli affari relativi a personale, beni e servizi per il funzionamento del Dipartimento, gli adempimenti in materia contabile e finanziaria attribuiti al Ministro per il coordinamento delle politiche comunitarie, nonche' l'introduzione, e l'utilizzazione di tecnologie informatiche per le attivita' del Dipartimento;
+
+                            
+                        
+                        
+                            q)
+                            
+                                la promozione e il coordinamento di iniziative idonee alla salvaguardia e all'affermazione dei diritti fondamentali dei cittadini; alla diffusa e corretta informazione sulle problematiche comunitarie, al rafforzamento dell'idea Europa;
+
+                            
+                        
+                        
+                            r)
+                            
+                                la verifica, d'intesa con le amministrazioni interessate, delle attivita' connesse alla realizzazione dei programmi comunitari nel campo delle nuove tecnologie, nonche' la gestione di sistemi di rilevazione automatizzata dei dati ai fini del monitoraggio dell'azione amministrativa connessa alla normativa comunitaria; l'automatizzazione degli uffici.
 
 ## Art. 3. — Organizzazione
 

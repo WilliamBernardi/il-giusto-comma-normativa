@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,52 @@ Il presente regolamento disciplina le modalita' di esenziohe dalla partecipazion
 Al fine di assicurare specifiche forme di tutela ai soggetti affetti da malattie rare e' istituita la Rete nazionale per la prevenzione, la sorveglianza, la diagnosi e la terapia delle malattie rare. La Rete e' costituita da presidi accreditati, appositamente individuati dalle regioni. Nell'ambito di tali presidi, preferibilmente ospedalieri, con decreto del Ministro della sanita', su proposta della regione interessata, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano e sulla base di criteri di individuazione e di aggiornamento concertati con la medesima Conferenza, sono individuati i Centri interregionali di riferimento per le malattie rare. Le regioni provvedono all'individuazione dei presidi ed alla formulazione delle proposte, per la prima volta, rispettivamente entro quarantacinque e sessanta giorni dalla data di entrata in vigore del presente regolamento. Nei successivi novanta giorni il Ministro della sanita' provvede all'individuazione dei Centri interregionali di riferimento.
 
 I presidi della Rete sono individuati tra quelli in possesso di documentata esperienza in attivita' diagnostica o terapeutica specifica per le malattie o per i gruppi di malattie rare, nonche' di idonea dotazione di strutture di supporto e di servizi complementari, ivi inclusi, per le malattie che lo richiedono, servizi per l'emergenza e per la diagnostica biochimica e genetico-molecolare.
+
+3.
+                    
+                        
+                            I Centri interregionali di riferimento assicurano, ciascuno per il bacino territoriale di competenza, lo svolgimento delle seguenti funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la gestione del Registro interregionale delle malattie rare, coordinata con i registri territoriali ed il Registro nazionale di cui all'articolo 3;
+
+                            
+                        
+                        
+                            b)
+                            
+                                lo scambio delle informazioni e della documentazione sulle malattie rare con gli altri Centri interregionali e con gli organismi internazionali competenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il coordinamento dei presidi della Rete, al fine di garantire la tempestiva diagnosi e l'appropriata terapia, qualora esistente, anche mediante l'adozione di specifici protocolli concordati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la consulenza ed il supporto ai medici del Servizio sanitario nazionale in ordine alle malattie rare ed alla disponibilita' dei farmaci appropriati per il loro trattamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la collaborazione alle attivita' formative degli operatori sanitari e del volontariato ed alle iniziative preventive;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'informazione ai cittadini ed alle associazioni dei malati e dei loro familiari in ordine alle malattie rare ed alla disponibilita' dei farmaci.
 
 I presidi inclusi nella Rete operano secondo protocolli clinici concordati con i Centri interregionali di riferimento e collaborano con i servizi territoriali e i medici di famiglia ai fini dell'individuazione e della gestione del trattamento.
 

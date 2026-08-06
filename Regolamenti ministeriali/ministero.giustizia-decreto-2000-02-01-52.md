@@ -8,8 +8,8 @@ codice_redazionale: 000G0087
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,59 @@ n. 246/99;
 Al concorso annuale, per titoli di servizio ed esami, per la promozione alla qualifica di ispettore superiore del Corpo di polizia penitenziaria, di cui all'articolo 30-bis,, comma 1, lettera b), del decreto legislativo 30 ottobre 1992, n. 443, e' ammesso a partecipare il personale che, alla data del 31 dicembre di ciascun anno, riveste la qualifica di ispettore capo ed e' in possesso del diploma di maturita' di scuola media superiore.
 
 ## Art. 2. — Bando di concorso
+
+1.
+                    
+                        
+                            Il concorso e' indetto con decreto del direttore generale dell'Amministrazione penitenziaria. Il bando di concorso deve indicare:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti complessivi messi a concorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di presentazione delle domande di partecipazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le categorie dei titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le materie oggetto delle prove d'esame;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la votazione minima da conseguire nella prova scritta e nel colloquio;
+
+                            
+                        
+                        
+                            g)
+                            
+                                ogni altra prescrizione o notizia utile all'espletamento del concorso.
 
 ## Art. 3. — Possesso dei requisiti ed esclusione dal concorso interno
 
@@ -68,6 +121,59 @@ L'ammissione al colloquio, con l'indicazione del punteggio riportato nella prova
 ## Art. 7. — Titoli di servizio
 
 Sono ammessi a valutazione i titoli di servizio posseduti nel triennio precedente la data di decorrenza della promozione ad eccezione di quelli previsti dalle lettere d) e g) del successivo comma, per i quali si prescinde da ogni limite di tempo.
+
+2.
+                    
+                        
+                            Le categorie dei titoli di servizio ammessi a valutazione ed il punteggio massimo da attribuire a ciascuna categoria di titoli, sono stabiliti come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                giudizi complessivi del triennio anteriore: fino a punti 15;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualita' delle funzioni svolte, come dedotte dai rapporti informativi, con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta anche in relazione alla sede di servizio: fino a punti 6;
+
+                            
+                        
+                        
+                            c)
+                            
+                                incarichi e servizi speciali conferiti con specifico provvedimento dell'Amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale: fino a punti 3;
+
+                            
+                        
+                        
+                            d)
+                            
+                                diploma di laurea: punti da 2 a 5;
+
+                            
+                        
+                        
+                            e)
+                            
+                                titoli attinenti alla formazione ed al perfezionamento professionale del candidato, con particolare riguardo al profitto tratto dai corsi professionali: fino a punti 3;
+
+                            
+                        
+                        
+                            f)
+                            
+                                speciali riconoscimenti: fino a punti 2;
+
+                            
+                        
+                        
+                            g)
+                            
+                                anzianita' nella qualifica di ispettore capo: punti 2 per ciascun anno. Si valuta come anno intero la frazione residua superiore a sei mesi.
 
 Nell'ambito delle suddette categorie la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi.
 Predetermina, altresi', i punteggi da attribuire ai giudizi complessivi presi in considerazione. Tali operazioni vengono riportate nei verbali del concorso.

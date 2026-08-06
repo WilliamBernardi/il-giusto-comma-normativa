@@ -2,241 +2,399 @@
   "zip_date": "2026-08-06",
   "entries": {
     "LEGGE_19910613_190/1991-06-28_091G0229_ORIGINALE_V0.xml": {
-      "sha256": "4baef4a6f6503a3792e5df69b4ab27379e0021a8c39e45a1a63aab5154dd60ec"
+      "sha256": "4baef4a6f6503a3792e5df69b4ab27379e0021a8c39e45a1a63aab5154dd60ec",
+      "out": "Leggi contenenti deleghe/stato-legge-1991-06-13-190.md",
+      "urn": "urn:nir:stato:legge:1991-06-13;190"
     },
     "LEGGE_19990625_205/1999-06-28_099G0276_ORIGINALE_V0.xml": {
-      "sha256": "1f504d76c4b7f905c6839e69984bd1bcb66caceb9c18bcbffdb629307c911d23"
+      "sha256": "1f504d76c4b7f905c6839e69984bd1bcb66caceb9c18bcbffdb629307c911d23",
+      "out": "Leggi contenenti deleghe/stato-legge-1999-06-25-205.md",
+      "urn": "urn:nir:stato:legge:1999-06-25;205"
     },
     "LEGGE_20010322_85/2001-03-31_001G0139_ORIGINALE_V0.xml": {
-      "sha256": "2a70e2ede107df2153e02592aedfddf07d583bcb930f7af633e6bfc38b293690"
+      "sha256": "2a70e2ede107df2153e02592aedfddf07d583bcb930f7af633e6bfc38b293690",
+      "out": "Leggi contenenti deleghe/stato-legge-2001-03-22-85.md",
+      "urn": "urn:nir:stato:legge:2001-03-22;85"
     },
     "LEGGE_20011003_366/2001-10-08_001G0426_ORIGINALE_V0.xml": {
-      "sha256": "f19f1ff444dd1ea6a1cc8bceb04e444ff0334b09a37a5b646cfad1a556c67f9f"
+      "sha256": "f19f1ff444dd1ea6a1cc8bceb04e444ff0334b09a37a5b646cfad1a556c67f9f",
+      "out": "Leggi contenenti deleghe/stato-legge-2001-10-03-366.md",
+      "urn": "urn:nir:stato:legge:2001-10-03;366"
     },
     "LEGGE_20030214_30/2003-02-26_003G0036_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "6a39ac40bea8b8f5254d43400f137aaa90853e239637aaeede57847ca50f1641"
+      "sha256": "6a39ac40bea8b8f5254d43400f137aaa90853e239637aaeede57847ca50f1641",
+      "out": "Leggi contenenti deleghe/stato-legge-2003-02-14-30.md",
+      "urn": "urn:nir:stato:legge:2003-02-14;30"
     },
     "LEGGE_20030328_53/2003-04-02_003G0065_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "0eff017fff4954f566408461a0e68d6a69512a39c5c584b13e8b3e6b1b056087"
+      "sha256": "0eff017fff4954f566408461a0e68d6a69512a39c5c584b13e8b3e6b1b056087",
+      "out": "Leggi contenenti deleghe/stato-legge-2003-03-28-53.md",
+      "urn": "urn:nir:stato:legge:2003-03-28;53"
     },
     "LEGGE_20030407_80/2003-04-18_003G0071_VIGENZA_2025-09-24_V0.xml": {
-      "sha256": "67902b5616bbec77d41f5e1ab4baf451780c495b4daa49698f92bf27bce1f007"
+      "sha256": "67902b5616bbec77d41f5e1ab4baf451780c495b4daa49698f92bf27bce1f007",
+      "out": "Leggi contenenti deleghe/stato-legge-2003-04-07-80.md",
+      "urn": "urn:nir:stato:legge:2003-04-07;80"
     },
     "LEGGE_20040503_112/2004-05-05_004G0153_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "181eb8adef1c6663250e0cfb195ca50b538282e803c9a822c0e7559c1a017826"
+      "sha256": "181eb8adef1c6663250e0cfb195ca50b538282e803c9a822c0e7559c1a017826",
+      "out": "Leggi contenenti deleghe/stato-legge-2004-05-03-112.md",
+      "urn": "urn:nir:stato:legge:2004-05-03;112"
     },
     "LEGGE_20040802_210/2004-08-13_004G0244_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "4720968e753a7d4a3294930daf0b8aaf3cd98b4f7c07b5a44bda461760fbb359"
+      "sha256": "4720968e753a7d4a3294930daf0b8aaf3cd98b4f7c07b5a44bda461760fbb359",
+      "out": "Leggi contenenti deleghe/stato-legge-2004-08-02-210.md",
+      "urn": "urn:nir:stato:legge:2004-08-02;210"
     },
     "LEGGE_20040823_239/2004-09-13_004G0259_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "791a33df632b50edd31e526da77793c3ab8e61a7f45030df64781c3ae2040f66"
+      "sha256": "791a33df632b50edd31e526da77793c3ab8e61a7f45030df64781c3ae2040f66",
+      "out": "Leggi contenenti deleghe/stato-legge-2004-08-23-239.md",
+      "urn": "urn:nir:stato:legge:2004-08-23;239"
     },
     "LEGGE_20040930_252/2004-10-12_004G0284_VIGENZA_2025-09-24_V0.xml": {
-      "sha256": "87e7021a56d5dc18585994cbeca0cabab6fd93fcdd0eb3a76fa2389cfca2f439"
+      "sha256": "87e7021a56d5dc18585994cbeca0cabab6fd93fcdd0eb3a76fa2389cfca2f439",
+      "out": "Leggi contenenti deleghe/stato-legge-2004-09-30-252.md",
+      "urn": "urn:nir:stato:legge:2004-09-30;252"
     },
     "LEGGE_20041109_265/2004-11-10_040G0302_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "831607d2a478f1096405699972acee65acf72e3cda080e1a83a2d145b56e86d3"
+      "sha256": "831607d2a478f1096405699972acee65acf72e3cda080e1a83a2d145b56e86d3",
+      "out": "Leggi contenenti deleghe/stato-legge-2004-11-09-265.md",
+      "urn": "urn:nir:stato:legge:2004-11-09;265"
     },
     "LEGGE_20041215_308/2004-12-27_004G0323_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "3f3af002e5bcf7894800335177cf4c9fc2679d899cf5f97e0686b12119422837"
+      "sha256": "3f3af002e5bcf7894800335177cf4c9fc2679d899cf5f97e0686b12119422837",
+      "out": "Leggi contenenti deleghe/stato-legge-2004-12-15-308.md",
+      "urn": "urn:nir:stato:legge:2004-12-15;308"
     },
     "LEGGE_20050224_34/2005-03-15_005G0057_ORIGINALE_V0.xml": {
-      "sha256": "d6a7e778c0b32a49f499b3d5bef1aa60d63da1e438b0e8e2a16d83f3f41fe145"
+      "sha256": "d6a7e778c0b32a49f499b3d5bef1aa60d63da1e438b0e8e2a16d83f3f41fe145",
+      "out": "Leggi contenenti deleghe/stato-legge-2005-02-24-34.md",
+      "urn": "urn:nir:stato:legge:2005-02-24;34"
     },
     "LEGGE_20050301_32/2005-03-10_005G0042_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "04b256605cc0a4a0723b7b364dcbe3701a8e1622700c797391273e08b34d86a5"
+      "sha256": "04b256605cc0a4a0723b7b364dcbe3701a8e1622700c797391273e08b34d86a5",
+      "out": "Leggi contenenti deleghe/stato-legge-2005-03-01-32.md",
+      "urn": "urn:nir:stato:legge:2005-03-01;32"
     },
     "LEGGE_20050613_118/2005-07-04_005G0147_ORIGINALE_V0.xml": {
-      "sha256": "42808a70e4b91551ef0fea33a37096bf948ca2510d9a5b8f927e64f6a4cf74bd"
+      "sha256": "42808a70e4b91551ef0fea33a37096bf948ca2510d9a5b8f927e64f6a4cf74bd",
+      "out": "Leggi contenenti deleghe/stato-legge-2005-06-13-118.md",
+      "urn": "urn:nir:stato:legge:2005-06-13;118"
     },
     "LEGGE_20050725_150/2005-07-29_005G0177_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "86c5214ba52686ce9e84a2029687612be101f8b7282bf7198cf40fa2864ce6ef"
+      "sha256": "86c5214ba52686ce9e84a2029687612be101f8b7282bf7198cf40fa2864ce6ef",
+      "out": "Leggi contenenti deleghe/stato-legge-2005-07-25-150.md",
+      "urn": "urn:nir:stato:legge:2005-07-25;150"
     },
     "LEGGE_20050727_154/2005-08-01_005G0180_ORIGINALE_V0.xml": {
-      "sha256": "3231ddda17c261bb053bf59f115a6fa25bd92709de82db61dfd1677a3be1a1ca"
+      "sha256": "3231ddda17c261bb053bf59f115a6fa25bd92709de82db61dfd1677a3be1a1ca",
+      "out": "Leggi contenenti deleghe/stato-legge-2005-07-27-154.md",
+      "urn": "urn:nir:stato:legge:2005-07-27;154"
     },
     "LEGGE_20050817_168/2005-08-22_005G0184_ORIGINALE_V0.xml": {
-      "sha256": "f53d45ed8cb5fc3210c9c628a48486ef64009e5d5b1878081000a80d3a368022"
+      "sha256": "f53d45ed8cb5fc3210c9c628a48486ef64009e5d5b1878081000a80d3a368022",
+      "out": "Leggi contenenti deleghe/stato-legge-2005-08-17-168.md",
+      "urn": "urn:nir:stato:legge:2005-08-17;168"
     },
     "LEGGE_20060201_43/2006-02-17_006G0050_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "90bc356896680edf7cf5318b5bc1fbf7dd4ac8b5c44e31588f6119b1038126dd"
+      "sha256": "90bc356896680edf7cf5318b5bc1fbf7dd4ac8b5c44e31588f6119b1038126dd",
+      "out": "Leggi contenenti deleghe/stato-legge-2006-02-01-43.md",
+      "urn": "urn:nir:stato:legge:2006-02-01;43"
     },
     "LEGGE_20060717_233/2006-07-17_006G0252_ORIGINALE_V0.xml": {
-      "sha256": "d4758cf60b707d5830806e62450616019060bdd29990240f2f96af6e23f57445"
+      "sha256": "d4758cf60b707d5830806e62450616019060bdd29990240f2f96af6e23f57445",
+      "out": "Leggi contenenti deleghe/stato-legge-2006-07-17-233.md",
+      "urn": "urn:nir:stato:legge:2006-07-17;233"
     },
     "LEGGE_20070111_1/2007-01-13_006G0315_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "86a2a1cb9553ff9d40fc010dcce15ab6ab6ec19cd85b5c079ea1f456ec8c08c0"
+      "sha256": "86a2a1cb9553ff9d40fc010dcce15ab6ab6ec19cd85b5c079ea1f456ec8c08c0",
+      "out": "Leggi contenenti deleghe/stato-legge-2007-01-11-1.md",
+      "urn": "urn:nir:stato:legge:2007-01-11;1"
     },
     "LEGGE_20070719_106/2007-07-25_007G0123_ORIGINALE_V0.xml": {
-      "sha256": "4aaf6653853b8df5811dc6e19506e966a2661716c5c94cf712d0a0402ae04714"
+      "sha256": "4aaf6653853b8df5811dc6e19506e966a2661716c5c94cf712d0a0402ae04714",
+      "out": "Leggi contenenti deleghe/stato-legge-2007-07-19-106.md",
+      "urn": "urn:nir:stato:legge:2007-07-19;106"
     },
     "LEGGE_20070803_123/2007-08-10_007G0138_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "255e887b83d231084c710dc9d3269fd6aa98a93ca6fbe1b356b23ef7b0ca99bf"
+      "sha256": "255e887b83d231084c710dc9d3269fd6aa98a93ca6fbe1b356b23ef7b0ca99bf",
+      "out": "Leggi contenenti deleghe/stato-legge-2007-08-03-123.md",
+      "urn": "urn:nir:stato:legge:2007-08-03;123"
     },
     "LEGGE_20070927_165/2007-10-10_007G0180_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "74499e2a5bd099093e7030d4735a4831d14ffff16d477642f260ee8d6173106b"
+      "sha256": "74499e2a5bd099093e7030d4735a4831d14ffff16d477642f260ee8d6173106b",
+      "out": "Leggi contenenti deleghe/stato-legge-2007-09-27-165.md",
+      "urn": "urn:nir:stato:legge:2007-09-27;165"
     },
     "LEGGE_20090304_15/2009-03-05_009G0023_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "79053d7f6da4ce36cc583bd09bb0ee118e6b5402d8d9c13b9a9587cfc20f747b"
+      "sha256": "79053d7f6da4ce36cc583bd09bb0ee118e6b5402d8d9c13b9a9587cfc20f747b",
+      "out": "Leggi contenenti deleghe/stato-legge-2009-03-04-15.md",
+      "urn": "urn:nir:stato:legge:2009-03-04;15"
     },
     "LEGGE_20090505_42/2009-05-06_009G0053_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "e1cc399ae1bd110e2f06acf8067a919f123dd68471b5662c5b5d8cd9aa88538a"
+      "sha256": "e1cc399ae1bd110e2f06acf8067a919f123dd68471b5662c5b5d8cd9aa88538a",
+      "out": "Leggi contenenti deleghe/stato-legge-2009-05-05-42.md",
+      "urn": "urn:nir:stato:legge:2009-05-05;42"
     },
     "LEGGE_20090630_85/2009-07-13_009G0092_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "24bd0f152828677597924a998706ff95746956bc3083dc42a81b3b67bc081f71"
+      "sha256": "24bd0f152828677597924a998706ff95746956bc3083dc42a81b3b67bc081f71",
+      "out": "Leggi contenenti deleghe/stato-legge-2009-06-30-85.md",
+      "urn": "urn:nir:stato:legge:2009-06-30;85"
     },
     "LEGGE_20091223_201/2010-01-13_010G0003_ORIGINALE_V0.xml": {
-      "sha256": "bc21de20bb403f4ed907b86923aa979efbc4c4bb9cc2df9a0eeb695b4fafd326"
+      "sha256": "bc21de20bb403f4ed907b86923aa979efbc4c4bb9cc2df9a0eeb695b4fafd326",
+      "out": "Leggi contenenti deleghe/stato-legge-2009-12-23-201.md",
+      "urn": "urn:nir:stato:legge:2009-12-23;201"
     },
     "LEGGE_20100813_136/2010-08-23_010G0162_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "5e922efe91caabaef6d653834ec36befb433b08da8ef31cf93e948a68dc9495d"
+      "sha256": "5e922efe91caabaef6d653834ec36befb433b08da8ef31cf93e948a68dc9495d",
+      "out": "Leggi contenenti deleghe/stato-legge-2010-08-13-136.md",
+      "urn": "urn:nir:stato:legge:2010-08-13;136"
     },
     "LEGGE_20101230_240/2011-01-14_011G0009_VIGENZA_2026-05-14_V0.xml": {
-      "sha256": "4139a4788bdc882bfb03677a9888c26bd0d88457cac8959ec34bb30041e64bde"
+      "sha256": "4139a4788bdc882bfb03677a9888c26bd0d88457cac8959ec34bb30041e64bde",
+      "out": "Leggi contenenti deleghe/stato-legge-2010-12-30-240.md",
+      "urn": "urn:nir:stato:legge:2010-12-30;240"
     },
     "LEGGE_20110914_148/2011-09-16_011G0190_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "eca4edba77d4a0e75cd9d4c743116c737eb8100f254d1e107dc180661c073c15"
+      "sha256": "eca4edba77d4a0e75cd9d4c743116c737eb8100f254d1e107dc180661c073c15",
+      "out": "Leggi contenenti deleghe/stato-legge-2011-09-14-148.md",
+      "urn": "urn:nir:stato:legge:2011-09-14;148"
     },
     "LEGGE_20120706_96/2012-07-09_012G0120_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "a34b1d1d3f05b73efb35de9f092c2a9f909fb4bdeedf746542c3d4e1c7627d90"
+      "sha256": "a34b1d1d3f05b73efb35de9f092c2a9f909fb4bdeedf746542c3d4e1c7627d90",
+      "out": "Leggi contenenti deleghe/stato-legge-2012-07-06-96.md",
+      "urn": "urn:nir:stato:legge:2012-07-06;96"
     },
     "LEGGE_20121231_244/2013-01-16_13G00013_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "3ffc3ea2f31a8d4482a1fa95f113c701f59e11d1552b7641c5f81b7d8c47fe40"
+      "sha256": "3ffc3ea2f31a8d4482a1fa95f113c701f59e11d1552b7641c5f81b7d8c47fe40",
+      "out": "Leggi contenenti deleghe/stato-legge-2012-12-31-244.md",
+      "urn": "urn:nir:stato:legge:2012-12-31;244"
     },
     "LEGGE_20130806_96/2013-08-20_13G00137_ORIGINALE_V0.xml": {
-      "sha256": "53bef08b7bb190444be0d9902db2fc886ab88ab83302224c02443579cba2e48a"
+      "sha256": "53bef08b7bb190444be0d9902db2fc886ab88ab83302224c02443579cba2e48a",
+      "out": "Leggi contenenti deleghe/stato-legge-2013-08-06-96.md",
+      "urn": "urn:nir:stato:legge:2013-08-06;96"
     },
     "LEGGE_20140311_23/2014-03-12_14G00030_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "b290bea04ade0fe4f70d33d506307bf1f795357cb12fced266d6e9dd669d0918"
+      "sha256": "b290bea04ade0fe4f70d33d506307bf1f795357cb12fced266d6e9dd669d0918",
+      "out": "Leggi contenenti deleghe/stato-legge-2014-03-11-23.md",
+      "urn": "urn:nir:stato:legge:2014-03-11;23"
     },
     "LEGGE_20141007_154/2014-10-28_14G00167_ORIGINALE_V0.xml": {
-      "sha256": "7f06c798ff708a8987e5a89eea1f09b3c712688bf2e6bba66d24ba9a45944a7e"
+      "sha256": "7f06c798ff708a8987e5a89eea1f09b3c712688bf2e6bba66d24ba9a45944a7e",
+      "out": "Leggi contenenti deleghe/stato-legge-2014-10-07-154.md",
+      "urn": "urn:nir:stato:legge:2014-10-07;154"
     },
     "LEGGE_20150709_114/2015-07-31_15G00127_ORIGINALE_V0.xml": {
-      "sha256": "40072a30981ed027a190bcca8f57281b870597e195a57e6839531b8ebac58e85"
+      "sha256": "40072a30981ed027a190bcca8f57281b870597e195a57e6839531b8ebac58e85",
+      "out": "Leggi contenenti deleghe/stato-legge-2015-07-09-114.md",
+      "urn": "urn:nir:stato:legge:2015-07-09;114"
     },
     "LEGGE_20151007_167/2015-10-21_15G00184_VIGENZA_2025-09-24_V0.xml": {
-      "sha256": "1f6097c16614f5d43dc9e5782829b78e9f95fe891528cb35f184f3eaa5e61ed1"
+      "sha256": "1f6097c16614f5d43dc9e5782829b78e9f95fe891528cb35f184f3eaa5e61ed1",
+      "out": "Leggi contenenti deleghe/stato-legge-2015-10-07-167.md",
+      "urn": "urn:nir:stato:legge:2015-10-07;167"
     },
     "LEGGE_20160428_57/2016-04-29_16G00069_ORIGINALE_V0.xml": {
-      "sha256": "1aeb9c270a993b8f7416a31ff15aa2add1fc82c831499138857999b2fdbc501a"
+      "sha256": "1aeb9c270a993b8f7416a31ff15aa2add1fc82c831499138857999b2fdbc501a",
+      "out": "Leggi contenenti deleghe/stato-legge-2016-04-28-57.md",
+      "urn": "urn:nir:stato:legge:2016-04-28;57"
     },
     "LEGGE_20160606_106/2016-06-18_16G00118_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "48ab097cc40443558f339f3a0d2222622a2a0167945c42de0c75fb315dc70f05"
+      "sha256": "48ab097cc40443558f339f3a0d2222622a2a0167945c42de0c75fb315dc70f05",
+      "out": "Leggi contenenti deleghe/stato-legge-2016-06-06-106.md",
+      "urn": "urn:nir:stato:legge:2016-06-06;106"
     },
     "LEGGE_20160713_150/2016-08-05_16G00162_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "7948ea0b1f9432058425cb09be1e142cd36b757aae44510832c5aafd9899918c"
+      "sha256": "7948ea0b1f9432058425cb09be1e142cd36b757aae44510832c5aafd9899918c",
+      "out": "Leggi contenenti deleghe/stato-legge-2016-07-13-150.md",
+      "urn": "urn:nir:stato:legge:2016-07-13;150"
     },
     "LEGGE_20160721_149/2016-08-04_16G00160_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "99a09ad5cf8708170b93572c50ee315483f0d0215b67ddfd5b006b46e8e9ac12"
+      "sha256": "99a09ad5cf8708170b93572c50ee315483f0d0215b67ddfd5b006b46e8e9ac12",
+      "out": "Leggi contenenti deleghe/stato-legge-2016-07-21-149.md",
+      "urn": "urn:nir:stato:legge:2016-07-21;149"
     },
     "LEGGE_20160812_170/2016-09-01_16G00181_ORIGINALE_V0.xml": {
-      "sha256": "1711e240412a42221c34d06e9b019ca78c48955e8319a6dd52bfff55377d9af8"
+      "sha256": "1711e240412a42221c34d06e9b019ca78c48955e8319a6dd52bfff55377d9af8",
+      "out": "Leggi contenenti deleghe/stato-legge-2016-08-12-170.md",
+      "urn": "urn:nir:stato:legge:2016-08-12;170"
     },
     "LEGGE_20170316_30/2017-03-20_17G00043_ORIGINALE_V0.xml": {
-      "sha256": "24c8fbb34d80a3bfc1eb8416db346d6a2b338356d87ce7a704217b7f55f7e83c"
+      "sha256": "24c8fbb34d80a3bfc1eb8416db346d6a2b338356d87ce7a704217b7f55f7e83c",
+      "out": "Leggi contenenti deleghe/stato-legge-2017-03-16-30.md",
+      "urn": "urn:nir:stato:legge:2017-03-16;30"
     },
     "LEGGE_20171017_161/2017-11-04_17G00176_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "c81d52a3e5f13046658e7b61cd716e2f869afd8327d2770a6f8914a4d2f04d5f"
+      "sha256": "c81d52a3e5f13046658e7b61cd716e2f869afd8327d2770a6f8914a4d2f04d5f",
+      "out": "Leggi contenenti deleghe/stato-legge-2017-10-17-161.md",
+      "urn": "urn:nir:stato:legge:2017-10-17;161"
     },
     "LEGGE_20171019_155/2017-10-30_17G00170_ORIGINALE_V0.xml": {
-      "sha256": "9c7694ef516307076d5751a5193775e0edc364b9ae6247accebf7c533e608e7c"
+      "sha256": "9c7694ef516307076d5751a5193775e0edc364b9ae6247accebf7c533e608e7c",
+      "out": "Leggi contenenti deleghe/stato-legge-2017-10-19-155.md",
+      "urn": "urn:nir:stato:legge:2017-10-19;155"
     },
     "LEGGE_20171025_163/2017-11-06_17G00177_ORIGINALE_V0.xml": {
-      "sha256": "c2303d8bc3ea98189d44b3aa94c384db3a1cf596fa08a801425f4f1e796a8129"
+      "sha256": "c2303d8bc3ea98189d44b3aa94c384db3a1cf596fa08a801425f4f1e796a8129",
+      "out": "Leggi contenenti deleghe/stato-legge-2017-10-25-163.md",
+      "urn": "urn:nir:stato:legge:2017-10-25;163"
     },
     "LEGGE_20171103_165/2017-11-11_17G00175_ORIGINALE_V0.xml": {
-      "sha256": "80c0597b1b60ef09080114deacd4a6df7e8ed05f7bafe4ac90d766c518320000"
+      "sha256": "80c0597b1b60ef09080114deacd4a6df7e8ed05f7bafe4ac90d766c518320000",
+      "out": "Leggi contenenti deleghe/stato-legge-2017-11-03-165.md",
+      "urn": "urn:nir:stato:legge:2017-11-03;165"
     },
     "LEGGE_20180111_3/2018-01-31_18G00019_VIGENZA_2026-03-13_V0.xml": {
-      "sha256": "14287c082be67061401abedde7f971be8e75433ead1f852e218b15ebe69b914e"
+      "sha256": "14287c082be67061401abedde7f971be8e75433ead1f852e218b15ebe69b914e",
+      "out": "Leggi contenenti deleghe/stato-legge-2018-01-11-3.md",
+      "urn": "urn:nir:stato:legge:2018-01-11;3"
     },
     "LEGGE_20181201_132/2018-12-03_18G00161_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "a4dd6a6987439740785c7eae93c9930645da1124d82ec900f6ddac59277f956b"
+      "sha256": "a4dd6a6987439740785c7eae93c9930645da1124d82ec900f6ddac59277f956b",
+      "out": "Leggi contenenti deleghe/stato-legge-2018-12-01-132.md",
+      "urn": "urn:nir:stato:legge:2018-12-01;132"
     },
     "LEGGE_20191004_117/2019-10-18_19G00123_ORIGINALE_V0.xml": {
-      "sha256": "f48af57770278b80bd4ea0e224b9e4d6940e2460f802513db94e0724a5bc9b67"
+      "sha256": "f48af57770278b80bd4ea0e224b9e4d6940e2460f802513db94e0724a5bc9b67",
+      "out": "Leggi contenenti deleghe/stato-legge-2019-10-04-117.md",
+      "urn": "urn:nir:stato:legge:2019-10-04;117"
     },
     "LEGGE_20210401_46/2021-04-06_21G00057_ORIGINALE_V0.xml": {
-      "sha256": "3e05eccdf6814631956ab1dc2a90caf0faf066e40fc8fa85ff02f20edbaeb826"
+      "sha256": "3e05eccdf6814631956ab1dc2a90caf0faf066e40fc8fa85ff02f20edbaeb826",
+      "out": "Leggi contenenti deleghe/stato-legge-2021-04-01-46.md",
+      "urn": "urn:nir:stato:legge:2021-04-01;46"
     },
     "LEGGE_20210422_53/2021-04-23_21G00063_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "e89f6a1dc64466d9655a0a89569325e4a2f8f336419137607394e92fed28e735"
+      "sha256": "e89f6a1dc64466d9655a0a89569325e4a2f8f336419137607394e92fed28e735",
+      "out": "Leggi contenenti deleghe/stato-legge-2021-04-22-53.md",
+      "urn": "urn:nir:stato:legge:2021-04-22;53"
     },
     "LEGGE_20210927_134/2021-10-04_21G00146_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "9f3bf22b73264ad156e39462d0bac2b6d9a1831116b488e354e522f85bec7c2e"
+      "sha256": "9f3bf22b73264ad156e39462d0bac2b6d9a1831116b488e354e522f85bec7c2e",
+      "out": "Leggi contenenti deleghe/stato-legge-2021-09-27-134.md",
+      "urn": "urn:nir:stato:legge:2021-09-27;134"
     },
     "LEGGE_20211126_206/2021-12-09_21G00229_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "2a4e32cf95862f76c802ba27220c674fdff17a722881e46ee7e610aa8f619339"
+      "sha256": "2a4e32cf95862f76c802ba27220c674fdff17a722881e46ee7e610aa8f619339",
+      "out": "Leggi contenenti deleghe/stato-legge-2021-11-26-206.md",
+      "urn": "urn:nir:stato:legge:2021-11-26;206"
     },
     "LEGGE_20211222_227/2021-12-30_21G00254_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "17bdf3815fb4267be16142844cb8c11065ec447aba02dcc0a28e6f66a714ae6a"
+      "sha256": "17bdf3815fb4267be16142844cb8c11065ec447aba02dcc0a28e6f66a714ae6a",
+      "out": "Leggi contenenti deleghe/stato-legge-2021-12-22-227.md",
+      "urn": "urn:nir:stato:legge:2021-12-22;227"
     },
     "LEGGE_20220428_46/2022-05-12_22G00055_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "299717bffa2aea1bdeed7e346212b595b67cdc90389012193e0ffdf1925bf297"
+      "sha256": "299717bffa2aea1bdeed7e346212b595b67cdc90389012193e0ffdf1925bf297",
+      "out": "Leggi contenenti deleghe/stato-legge-2022-04-28-46.md",
+      "urn": "urn:nir:stato:legge:2022-04-28;46"
     },
     "LEGGE_20220621_78/2022-06-24_22G00087_ORIGINALE_V0.xml": {
-      "sha256": "108d1c638f14996f4a9e8f57dc64a3808b41402bcb260057e1beb3b69c0602fd"
+      "sha256": "108d1c638f14996f4a9e8f57dc64a3808b41402bcb260057e1beb3b69c0602fd",
+      "out": "Leggi contenenti deleghe/stato-legge-2022-06-21-78.md",
+      "urn": "urn:nir:stato:legge:2022-06-21;78"
     },
     "LEGGE_20220715_106/2022-08-03_22G00116_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "84716796a9258b2182341c9924ebd3b8ed173ee099dd937780b3a9875f7a83b2"
+      "sha256": "84716796a9258b2182341c9924ebd3b8ed173ee099dd937780b3a9875f7a83b2",
+      "out": "Leggi contenenti deleghe/stato-legge-2022-07-15-106.md",
+      "urn": "urn:nir:stato:legge:2022-07-15;106"
     },
     "LEGGE_20220804_127/2022-08-26_22G00136_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "6266fb2871ce8f85709c100c10e6d44a93dfe40d104d487c44686fb1821feaa5"
+      "sha256": "6266fb2871ce8f85709c100c10e6d44a93dfe40d104d487c44686fb1821feaa5",
+      "out": "Leggi contenenti deleghe/stato-legge-2022-08-04-127.md",
+      "urn": "urn:nir:stato:legge:2022-08-04;127"
     },
     "LEGGE_20220805_119/2022-08-13_22G00131_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "e1882b6f888f66aaeba988fd19f02810a715088d94cac713bce9281c7d3b1292"
+      "sha256": "e1882b6f888f66aaeba988fd19f02810a715088d94cac713bce9281c7d3b1292",
+      "out": "Leggi contenenti deleghe/stato-legge-2022-08-05-119.md",
+      "urn": "urn:nir:stato:legge:2022-08-05;119"
     },
     "LEGGE_20230809_111/2023-08-14_23G00122_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "6bc67b7f2d1dc6190d6976d6127d7aaa81b30acea53fd8a6b4fb765b9ad17d27"
+      "sha256": "6bc67b7f2d1dc6190d6976d6127d7aaa81b30acea53fd8a6b4fb765b9ad17d27",
+      "out": "Leggi contenenti deleghe/stato-legge-2023-08-09-111.md",
+      "urn": "urn:nir:stato:legge:2023-08-09;111"
     },
     "LEGGE_20231027_160/2023-11-15_23G00167_VIGENZA_2026-02-14_V0.xml": {
-      "sha256": "91025f0c729b86211eb3a1e366d02059fc18e08cad1e8cc3dd52ac23940c66d8"
+      "sha256": "91025f0c729b86211eb3a1e366d02059fc18e08cad1e8cc3dd52ac23940c66d8",
+      "out": "Leggi contenenti deleghe/stato-legge-2023-10-27-160.md",
+      "urn": "urn:nir:stato:legge:2023-10-27;160"
     },
     "LEGGE_20231128_201/2023-12-22_23G00210_ORIGINALE_V0.xml": {
-      "sha256": "73614523787234e96fe1268063aa0e86832c9fa900f01a5b35b56ea1e92e8e71"
+      "sha256": "73614523787234e96fe1268063aa0e86832c9fa900f01a5b35b56ea1e92e8e71",
+      "out": "Leggi contenenti deleghe/stato-legge-2023-11-28-201.md",
+      "urn": "urn:nir:stato:legge:2023-11-28;201"
     },
     "LEGGE_20240221_15/2024-02-24_24G00027_VIGENZA_2025-06-16_V0.xml": {
-      "sha256": "02a71a6d7e15ce64c1ff6f42634f6a0cdbf5a40e92c8b326199cfa6c194c364d"
+      "sha256": "02a71a6d7e15ce64c1ff6f42634f6a0cdbf5a40e92c8b326199cfa6c194c364d",
+      "out": "Leggi contenenti deleghe/stato-legge-2024-02-21-15.md",
+      "urn": "urn:nir:stato:legge:2024-02-21;15"
     },
     "LEGGE_20240305_21/2024-03-12_24G00041_VIGENZA_2025-09-24_V0.xml": {
-      "sha256": "73b5780271829386eb078e531bb10d520e934df3d20efd71871091d65932070e"
+      "sha256": "73b5780271829386eb078e531bb10d520e934df3d20efd71871091d65932070e",
+      "out": "Leggi contenenti deleghe/stato-legge-2024-03-05-21.md",
+      "urn": "urn:nir:stato:legge:2024-03-05;21"
     },
     "LEGGE_20240517_70/2024-05-30_24G00086_ORIGINALE_V0.xml": {
-      "sha256": "900bf96e87255abe2e7918f7821b5fa020e35d831b44b8f753e1d4e1bf959b1f"
+      "sha256": "900bf96e87255abe2e7918f7821b5fa020e35d831b44b8f753e1d4e1bf959b1f",
+      "out": "Leggi contenenti deleghe/stato-legge-2024-05-17-70.md",
+      "urn": "urn:nir:stato:legge:2024-05-17;70"
     },
     "LEGGE_20240704_102/2024-07-15_24G00118_VIGENZA_2026-06-11_V0.xml": {
-      "sha256": "9cca4d8cdc1040ac805e07c34c5871ae1111ab5a43b4a5c0eacb888e57368c19"
+      "sha256": "9cca4d8cdc1040ac805e07c34c5871ae1111ab5a43b4a5c0eacb888e57368c19",
+      "out": "Leggi contenenti deleghe/stato-legge-2024-07-04-102.md",
+      "urn": "urn:nir:stato:legge:2024-07-04;102"
     },
     "LEGGE_20241007_152/2024-10-17_24G00169_ORIGINALE_V0.xml": {
-      "sha256": "3639c0e0902ec1f3ecc3a419d1a389d6e3718dba07c7bb03ae5c4a8c23c3b29e"
+      "sha256": "3639c0e0902ec1f3ecc3a419d1a389d6e3718dba07c7bb03ae5c4a8c23c3b29e",
+      "out": "Leggi contenenti deleghe/stato-legge-2024-10-07-152.md",
+      "urn": "urn:nir:stato:legge:2024-10-07;152"
     },
     "LEGGE_20241125_177/2024-11-29_24G00199_ORIGINALE_V0.xml": {
-      "sha256": "9d76c0bd8e654f8d30d6beaab534a537cf748588cc67e550462643ddf27d7e77"
+      "sha256": "9d76c0bd8e654f8d30d6beaab534a537cf748588cc67e550462643ddf27d7e77",
+      "out": "Leggi contenenti deleghe/stato-legge-2024-11-25-177.md",
+      "urn": "urn:nir:stato:legge:2024-11-25;177"
     },
     "LEGGE_20250311_28/2025-03-20_25G00040_ORIGINALE_V0.xml": {
-      "sha256": "db9b67e759af9c80e0669a191df557f1e820ea4534289465817ae3347de0472c"
+      "sha256": "db9b67e759af9c80e0669a191df557f1e820ea4534289465817ae3347de0472c",
+      "out": "Leggi contenenti deleghe/stato-legge-2025-03-11-28.md",
+      "urn": "urn:nir:stato:legge:2025-03-11;28"
     },
     "LEGGE_20250314_26/2025-03-18_25G00034_ORIGINALE_V0.xml": {
-      "sha256": "aeb66cf352a81e1ab23e5cb79ad84e26f8b512f7a3deff992a852acb15a1ad74"
+      "sha256": "aeb66cf352a81e1ab23e5cb79ad84e26f8b512f7a3deff992a852acb15a1ad74",
+      "out": "Leggi contenenti deleghe/stato-legge-2025-03-14-26.md",
+      "urn": "urn:nir:stato:legge:2025-03-14;26"
     },
     "LEGGE_20250613_91/2025-06-25_25G00097_ORIGINALE_V0.xml": {
-      "sha256": "cbc779ebdc8e5840fa2a61b19dfa8e52a79ea4377461d78d5b7f60270d1a592e"
+      "sha256": "cbc779ebdc8e5840fa2a61b19dfa8e52a79ea4377461d78d5b7f60270d1a592e",
+      "out": "Leggi contenenti deleghe/stato-legge-2025-06-13-91.md",
+      "urn": "urn:nir:stato:legge:2025-06-13;91"
     },
     "LEGGE_20260107_1/2026-01-07_25G00211_ORIGINALE_V0.xml": {
-      "sha256": "d93c6611ce05e0f2de9c757711a3391ac0e787f3e976d4adca64165d4e7c409f"
+      "sha256": "d93c6611ce05e0f2de9c757711a3391ac0e787f3e976d4adca64165d4e7c409f",
+      "out": "Leggi contenenti deleghe/stato-legge-2026-01-07-1.md",
+      "urn": "urn:nir:stato:legge:2026-01-07;1"
     },
     "LEGGE_20260317_36/2026-03-25_26G00053_ORIGINALE_V0.xml": {
-      "sha256": "7e0542a8e01564216eb1e36a229c41e208bbbf771d13f80cd59e8f7797207974"
+      "sha256": "7e0542a8e01564216eb1e36a229c41e208bbbf771d13f80cd59e8f7797207974",
+      "out": "Leggi contenenti deleghe/stato-legge-2026-03-17-36.md",
+      "urn": "urn:nir:stato:legge:2026-03-17;36"
     },
     "LEGGE_20260401_48/2026-04-15_26G00065_ORIGINALE_V0.xml": {
-      "sha256": "10545c4dca1ad86749b38872af3506c86d23f9b5079824d10ce18a55984af16c"
+      "sha256": "10545c4dca1ad86749b38872af3506c86d23f9b5079824d10ce18a55984af16c",
+      "out": "Leggi contenenti deleghe/stato-legge-2026-04-01-48.md",
+      "urn": "urn:nir:stato:legge:2026-04-01;48"
     },
     "LEGGE_20260723_135/2026-07-29_26G00154_ORIGINALE_V0.xml": {
-      "sha256": "b0aaeff694209ad29c762350b21c8efdd74a8f3bb672eef6822669192749b818"
+      "sha256": "b0aaeff694209ad29c762350b21c8efdd74a8f3bb672eef6822669192749b818",
+      "out": "Leggi contenenti deleghe/stato-legge-2026-07-23-135.md",
+      "urn": "urn:nir:stato:legge:2026-07-23;135"
     },
     "LEGGE_20260728_137/2026-08-01_26G00153_ORIGINALE_V0.xml": {
-      "sha256": "5d66bf01af2157c7f95233c486543dd262969e4730e09f1948e9ab854270ad89"
+      "sha256": "5d66bf01af2157c7f95233c486543dd262969e4730e09f1948e9ab854270ad89",
+      "out": "Leggi contenenti deleghe/stato-legge-2026-07-28-137.md",
+      "urn": "urn:nir:stato:legge:2026-07-28;137"
     }
   }
 }

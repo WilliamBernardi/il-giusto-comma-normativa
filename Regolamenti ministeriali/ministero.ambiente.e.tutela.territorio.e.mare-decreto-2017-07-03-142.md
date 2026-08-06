@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2017-07-03;14
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,7 +38,99 @@ Finalita', oggetto e ambito di applicazione
 
 Al fine di prevenire la produzione di rifiuti di imballaggio, favorendo il riutilizzo degli imballaggi usati, il presente regolamento disciplina le modalita' di attuazione della sperimentazione su base volontaria del sistema del vuoto a rendere su cauzione per gli imballaggi contenenti birra o acqua minerale serviti al pubblico da alberghi o residenze di villeggiatura, ristoranti, bar e altri punti di consumo, di cui all'articolo 219-bis del decreto legislativo 3 aprile 2006, n. 152, nonche' le forme di incentivazione, le loro modalita' di applicazione e i valori cauzionali per ogni singola tipologia di imballaggi.
 
+2.
+                    
+                        
+                            La sperimentazione del sistema del vuoto a rendere su cauzione si applica agli imballaggi con le seguenti caratteristiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                di tipo primario, ai sensi dell'articolo 218, comma 1, lettera b), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                riutilizzabili, ai sensi dell'articolo 218, comma 1, lettera e), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conformi ai requisiti stabiliti dal decreto del Ministro dell'ambiente e della tutela del territorio del 2 maggio 2006, pubblicato nella Gazzetta Ufficiale n. 108 dell' 11 maggio 2006, recante «Aggiornamento degli studi europei fissati dal Comitato europeo di normazione (CEN), in conformita' ai requisiti essenziali stabiliti all'articolo 9 della direttiva 94/62/CE sugli imballaggi e rifiuti di imballaggio»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                destinati all'uso alimentare e al contenimento di birra o acqua minerale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                serviti al pubblico nei punti di consumo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                di volume compreso tra 0,20 e 1,5 litri.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si applicano le definizioni di cui alla Parte IV del decreto legislativo 3 aprile 2006, n. 152, nonche' le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                punto di consumo: luogo in cui avviene la somministrazione e il consumo di birra o acqua minerale, quali alberghi e residenze di villeggiatura, ristoranti, bar e altri similari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esercente: soggetto che nell'esercizio della sua attivita' professionale somministra al pubblico birra o acqua minerale nel punto di consumo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                distributore: soggetto che nell'esercizio della sua attivita' professionale trasporta e distribuisce birra o acqua minerale dal produttore di bevande al punto di consumo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                produttore di bevande: soggetto che nell'esercizio della sua attivita' professionale produce, importa, imbottiglia e vende bevande di birra e acqua minerale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                filiera del vuoto a rendere, di seguito filiera: l'insieme degli operatori che a titolo professionale sono coinvolti nell'attuazione del sistema del vuoto a rendere. La filiera e' di tipo lungo se la consegna avviene indirettamente, tramite il distributore, viceversa e' di tipo corto se la consegna e' svolta direttamente dal produttore di bevande, in assenza del distributore; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                operatori: i produttori di imballaggi riutilizzabili ai sensi dell'articolo 218, comma 1, lettera r) del decreto legislativo 3 aprile 2006, n. 152, i produttori di bevande, i distributori e gli esercenti aderenti alla filiera.
 
 ## Art. 3. — Funzionamento della filiera del sistema del vuoto a rendere
 
@@ -69,6 +161,31 @@ Il Ministero concede agli operatori di cui al comma 2 un attestato di benemerenz
 ## Art. 6. — Sistema di monitoraggio
 
 Il Ministero predispone un sistema di monitoraggio del sistema del vuoto a rendere finalizzato alla raccolta, all'analisi e alla valutazione dei dati della sperimentazione.
+
+2.
+                    
+                        
+                            Per i fini di cui al comma 1, i distributori nel caso di filiera di tipo lungo, o i produttori di bevande nel caso di filiera di tipo corto, direttamente o tramite le associazioni di categoria, trasmettono, anche in forma aggregata, al Ministero dell'ambiente e della tutela del territorio e del mare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il modulo di cui all'allegato 1 per ciascun esercente entro 30 giorni dalla sua adesione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la scheda secondo il modulo di cui all'allegato 3 che costituisce parte integrante del presente decreto, ogni trimestre dall'avvio della sperimentazione del sistema del vuoto a rendere; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la scheda secondo il modulo di cui all'allegato 3, entro 30 giorni dalla conclusione del sistema del vuoto a rendere, relativa all'intero periodo riepilogativo della sperimentazione ed una relazione illustrativa dello stesso.
 
 I dati sono inviati per via telematica all'indirizzo vuotoarendere@minambiente.it o attraverso altre modalita' indicate sul sito web del Ministero.
 

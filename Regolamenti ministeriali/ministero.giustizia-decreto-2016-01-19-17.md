@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2016-01-19;17
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -21,6 +21,31 @@ Entrata in vigore del provvedimento: 27/02/2016
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 24 settembre 2015;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Conferenza»: la Conferenza dei capi dipartimento di cui all'articolo 3, comma 6, del decreto del Presidente del Consiglio dei ministri del 15 giugno 2015, n. 84; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Ministro»: il Ministro della giustizia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Ministero»: il Ministero della giustizia.
 
 ## Art. 2. — Convocazione e deliberazioni
 

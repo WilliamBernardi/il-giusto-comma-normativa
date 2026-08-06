@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2010-08-12
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -38,9 +38,217 @@ Ai fini dell'applicazione dei regolamenti (CE) 852/2004, 853/2004, 854/2004 e 88
 
 ## Art. 3. — Abrogazioni
 
+1.
+                    
+                        
+                            Sono abrogati i seguenti provvedimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    art. 2, secondo comma, lettera z), articoli 12, 15, 27, 28 e 29 del decreto del Presidente della Repubblica 10 settembre 1982, n. 889;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    decreto del Presidente della Repubblica del 17 maggio 1988, n. 194; restano abrogati i commi 1, 2, 3, 4, e 5 dell'articolo 55 del regio decreto 20 dicembre 1928, n. 3298;
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    decreto legislativo 30 dicembre 1992, n. 530, ad eccezione dell'articolo 20;
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    decreto legislativo 30 dicembre 1992, n. 531;
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    decreto legislativo 30 dicembre 1992, n. 537; restano abrogati gli articoli 50, 51, 52, 53, 54, 55, commi 6, 7 ed 8, 56, 57 e 58 del regio decreto 20 dicembre 1928, n. 3298;
+
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    decreto del Presidente della Repubblica 30 dicembre 1992, n. 558;
+
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    decreto del Presidente della Repubblica 30 dicembre 1992, n. 559; restano abrogati gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 13-bis e 14 e l'allegato A) del decreto del Presidente della Repubblica 10 agosto 1972, n. 967;
+
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    decreto legislativo 4 febbraio 1993, n. 65;
+
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    decreto legislativo 3 marzo 1993, n. 123, ad eccezione degli articoli 4 e 2, comma 3;
+
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    decreto legislativo 18 aprile 1994, n. 286; restano abrogati gli articoli da 4 a 6, da 8 a 12, da 14 a 16, da 18 a 28, 33, 34, 37 e da 39 a 49 del regio decreto 20 dicembre 1928, n. 3298; resta abrogato l'articolo 7 della legge 29 novembre 1971, n. 1073; restano abrogati gli articoli da 1 a 11 del decreto del Presidente della Repubblica, 10 settembre 1991, n. 312;
+
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    decreto del Presidente della Repubblica 17 ottobre 1996, n. 607;
+
+                            
+                        
+                        
+                            n)
+                            
+                                
+                                    decreto del Presidente della Repubblica 14 gennaio 1997, n. 54, ad eccezione degli articoli 19, 26 e dell'allegato C), capitolo I, lettera A), punti 4 e 7;
+
+                            
+                        
+                        
+                            o)
+                            
+                                
+                                    decreto legislativo 26 maggio 1997, n. 155;
+
+                            
+                        
+                        
+                            p)
+                            
+                                
+                                    decreto legislativo 26 maggio 1997, n. 156;
+
+                            
+                        
+                        
+                            q)
+                            
+                                
+                                    decreto del Presidente della Repubblica del 10 dicembre 1997, n. 495; restano abrogati gli articoli da 1 a 25 del decreto del Presidente della Repubblica 8 giugno 1982, n. 503, e gli allegati al decreto medesimo;
+
+                            
+                        
+                        
+                            r)
+                            
+                                
+                                    decreto del Presidente della Repubblica 3 agosto 1998, n. 309; rimane abrogato il decreto del Presidente della Repubblica, 1° marzo 1992, n. 227;
+
+                            
+                        
+                        
+                            s)
+                            
+                                
+                                    articolo 2 della legge 30 aprile 1962, n. 283.
+
 ## Art. 4. — Macellazioni d'urgenza al di fuori del macello
 
+1.
+                    
+                        
+                            Le carcasse, le mezzene, i quarti e le mezzene tagliate in massimo tre parti, ottenute da macellazioni d'urgenza di ungulati domestici al di fuori del macello, di cui all'allegato III, sezione I, capitolo VI del regolamento (CE) n. 853/2004, devono recare un bollo sanitario di forma rettangolare che misuri almeno 6 cm in larghezza e 4 cm in altezza recante le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nella parte superiore l'indicazione dell'unita' sanitaria locale nel cui territorio si trova il macello in cui le carni, ottenute da macellazione d'urgenza, vengono trasportate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al centro la sigla MSU seguita dal numero d'identificazione del macello;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella parte inferiore il nome della regione o provincia autonoma nel cui territorio si trova il macello.
+
+2.
+                    
+                        
+                            Le carni ottenute dalle carcasse, dalle mezzene, dai quarti e dalle mezzene tagliate in massimo tre parti di cui al comma 1, devono recare un marchio d'identificazione di forma rettangolare che misuri almeno 6 cm in larghezza e 4 cm in altezza recante le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nella parte superiore l'indicazione dell'unita' sanitaria locale nel cui territorio si trova il macello in cui le carni, ottenute da macellazione d'urgenza, vengono trasportate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al centro la sigla MSU seguita dal numero d'identificazione del macello;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella parte inferiore il nome della regione o provincia autonoma nel cui territorio si trova il macello.
+
 ## Art. 5. — Modifiche alla normativa in materia di scambi ed importazioni
+
+1.
+                    
+                        
+                            Al decreto legislativo 13 dicembre 1996, n. 674, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "allegato I e allegato II", ovunque ricorrenti, sono sostituite dalle seguenti: "allegato I";
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'allegato II e' abrogato.
 
 Tutte le disposizioni di cui alle direttive recepite con i provvedimenti indicati nell'articolo 3 e quelle indicate nell'allegato II del decreto legislativo 13 dicembre 1996, n. 674, come modificato al comma 1, sono riferite a quelle corrispondenti nei regolamenti (CE) n. 853/2004 e 854/2004 e nel decreto legislativo 27 maggio 2005, n. 117.
 

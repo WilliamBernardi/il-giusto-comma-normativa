@@ -8,8 +8,8 @@ codice_redazionale: 000G0312
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,38 @@ Il comma 2 dell'articolo 3 del decreto del Ministro di grazia e giustizia 1° gi
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            L'articolo 5 del decreto del Ministro di grazia e giustizia 1° giugno 1998, n. 228, e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, le parole "trenta per ciascuna materia" sono sostituite dalle parole "trentacinque per la materia civile e per la materia penale, e di venti per la materia amministrativa";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, dopo le parole "prolungamento del termine" sono inserite le parole "di cui al comma 3, secondo periodo";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, la lettera a) e' sostituita dalla seguente "a) per le materie civile e penale sono proposte domande facili in numero di undici, domande di media difficolta' in numero di diciassette e domande difficili in numero di sette; per la materia amministrativa, sono proposte domande facili in numero di sei, domande di media difficolta' in numero di dieci e domande difficili in numero di quattro";
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera d) e' sostituita dalla seguente "d) il questionario di diritto amministrativo contiene almeno due quesiti su ciascuna delle ripartizioni in cui e' suddiviso l'archivio, secondo l'elenco di provvedimenti legislativi pubblicato nella Gazzetta Ufficiale di cui all'articolo 8, comma 6".
+
 ## Art. 4.
 
 Dopo l'articolo 5 del decreto del Ministro di grazia e giustizia 1° giugno 1998, n. 228, e' aggiunto il seguente:
@@ -39,7 +71,93 @@ Dopo l'articolo 5 del decreto del Ministro di grazia e giustizia 1° giugno 1998
 
 ## Art. 5.
 
+1.
+                    
+                        
+                            L'articolo 6 del decreto del Ministro di grazia e giustizia 1° giugno 1998, n. 228, e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: "2-bis. Quando la prova preliminare abbia luogo in piu' sedi, i dati relativi alle prove sostenute dai candidati vengono inviati, con modalita' atte a garantirne la segretezza e l'immodificabilita', alla sede centrale per la formazione della graduatoria ai sensi del comma 2.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, primo periodo, dopo le parole "regio decreto 15 ottobre 1925, n. 1860" sono aggiunte le seguenti: "di tale adempimento e' data notizia mediante pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".
+
+                            
+                        
+                        
+                            c)
+                            
+                                il secondo periodo del comma 3 e' sostituito dai seguenti:
+ "L'ammissione dei candidati utilmente collocati in graduatoria ai sensi dell'articolo 123-bis, comma 4, del regio decreto 30 gennaio 1941, n. 12, aggiunto dall'articolo 2 del decreto legislativo 17 novembre 1997, n. 398, e' comunicata mediante pubblicazione nella Gazzetta Ufficiale della Repubblica italiana, almeno quindici giorni prima dello svolgimento della prova scritta.".
+
 ## Art. 6.
+
+1.
+                    
+                        
+                            L'articolo 8 del decreto del Ministro di grazia e giustizia 1° giugno 1998, n. 228, e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, primo periodo, sono soppresse le parole: "si riunisce, nella fase di predisposizione dell'archivio almeno una volta la settimana e";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, secondo periodo, prima delle parole: "Per le deliberazioni" sono inserite le parole: "La commissione puo' suddividersi in gruppi di lavoro di almeno cinque membri, componenti o aggregati, coordinati da uno di essi, designato dal Presidente";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, quarto periodo, dopo le parole "l'esonero" sono aggiunte le parole "totale ovvero";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, primo periodo, le parole "si riunisce con scadenza mensile per procedere" sono sostituite dalle parole "procede";
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 4, le parole ", entro la settimana successiva," sono sostituite dalle parole "tempestivamente";
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 6, la parola "trenta" e' sostituita dalla parola "novanta";
+
+                            
+                        
+                        
+                            g)
+                            
+                                il comma 7 e' sostituito dal seguente: "7. Per le necessita' di supporto amministrativo e tecnico della commissione sono distaccate almeno nove unita' di personale amministrativo di cui una di area C, due di area B3 e sei di area B2.";
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 9, le parole "il tempestivo completamento" sono sostituite dalle parole "la tempestiva formulazione e l'aggiornamento".
 
 ## Art. 7.
 

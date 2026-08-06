@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-01-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -102,9 +102,111 @@ Chi intende esercitare in giudizio un'azione relativa a una controversia in mate
 
 Nelle controversie di cui al comma 1 l'esperimento del procedimento di mediazione e' condizione di procedibilita' della domanda ((introduttiva del giudizio)). L'improcedibilita' e' eccepita dal convenuto, a pena di decadenza, o rilevata d'ufficio dal giudice non oltre la prima udienza. Il giudice, quando rileva che la mediazione non e' stata esperita o e' gia' iniziata, ma non si e' conclusa, fissa la successiva udienza dopo la scadenza del termine di cui all'articolo 6. A tale udienza, il giudice accerta se la condizione di procedibilita' e' stata soddisfatta e, in mancanza, dichiara l'improcedibilita' della domanda giudiziale.
 
+3.
+                        
+                            
+                                Per assolvere alla condizione di procedibilita' le parti possono anche esperire, per le materie e nei limiti ivi regolamentati, le procedure previste: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'articolo 128-bis del decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'articolo 32-ter del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dall'articolo 187.1 del decreto legislativo 7 settembre 2005, n. 209; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dall'articolo 2, comma 24, lettera b), della legge 14 novembre 1995, n. 481; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((dall'articolo 1, comma 11, della legge 31 luglio 1997, n. 249.))
+
 Quando l'esperimento del procedimento di mediazione e' condizione di procedibilita' della domanda giudiziale, la condizione si considera avverata se il primo incontro dinanzi al mediatore si conclude senza l'accordo di conciliazione.
 
 Lo svolgimento della mediazione non preclude in ogni caso la concessione dei provvedimenti urgenti e cautelari, ne' la trascrizione della domanda giudiziale.
+
+6.
+                        
+                            
+                                Il comma 1 e l'articolo 5-quater non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei procedimenti per ingiunzione, inclusa l'opposizione, fino alla pronuncia sulle istanze di concessione e sospensione della provvisoria esecuzione, secondo quanto previsto dall'articolo 5-bis; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei procedimenti per convalida di licenza o sfratto, fino al mutamento del rito di cui all'articolo 667 del codice di procedura civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei procedimenti di consulenza tecnica preventiva ai fini della composizione della lite, di cui all'articolo 696-bis del codice di procedura civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei procedimenti possessori, fino alla pronuncia dei provvedimenti di cui all'articolo 703, terzo comma, del codice di procedura civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nei procedimenti di opposizione o incidentali di cognizione relativi all'esecuzione forzata; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nei procedimenti in camera di consiglio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nell'azione civile esercitata nel processo penale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nell'azione inibitoria di cui agli articoli 37 e 140-octies del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206. (11) 
+ 
+ (9) (10)
 
 -------------
                             AGGIORNAMENTO (3)
@@ -472,6 +574,38 @@ Salvo diverso accordo, le disposizioni dei commi 1 e 2 non si applicano ai proce
 
 Al mediatore e ai suoi ausiliari e' fatto divieto di assumere diritti o obblighi connessi, direttamente o indirettamente, con gli affari trattati, fatta eccezione per quelli strettamente inerenti alla prestazione dell'opera o del servizio; e' fatto loro divieto di percepire compensi direttamente dalle parti.
 
+2.
+                        
+                            
+                                Al mediatore e' fatto, altresi', obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sottoscrivere, per ciascun affare per il quale e' designato, una dichiarazione di indipendenza e di imparzialita' secondo le formule previste dal regolamento di procedura applicabile, nonche' gli ulteriori impegni eventualmente previsti dal medesimo regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicare immediatamente al responsabile dell'organismo e alle parti tutte le circostanze, emerse durante la procedura, idonee ad incidere sulla sua indipendenza e imparzialita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    formulare le proposte di conciliazione nel rispetto del limite dell'ordine pubblico e delle norme imperative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    corrispondere immediatamente a ogni richiesta organizzativa del responsabile dell'organismo. (9) ((10))
+
 Su istanza di parte, il responsabile dell'organismo provvede alla eventuale sostituzione del mediatore. Il regolamento individua la diversa competenza a decidere sull'istanza, quando la mediazione e' svolta dal responsabile dell'organismo.
 
 -------------
@@ -692,6 +826,39 @@ All'onere derivante dall'attuazione delle disposizioni di cui al presente capo, 
 Gli enti pubblici o privati, che diano garanzie di serieta' ed efficienza, sono abilitati a costituire organismi deputati, su istanza della parte interessata, a gestire il procedimento di mediazione nelle materie di cui all'articolo 2 del presente decreto.
 Gli organismi devono essere iscritti nel registro.
 
+1-bis.
+                        
+                            
+                                Ai fini dell'abilitazione di cui al comma 1 e del suo mantenimento, costituiscono requisiti di serieta': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'onorabilita' dei soci, degli amministratori, dei responsabili e dei mediatori degli organismi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la previsione, ((per gli organismi costituiti da enti privati,)) nell'oggetto sociale o nello scopo associativo, dello svolgimento in via esclusiva di servizi di mediazione, conciliazione o risoluzione alternativa ((delle controversie o)) di formazione nei medesimi ambiti; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((per gli organismi costituiti da enti pubblici, compresi gli ordini professionali, anche sotto forma di fondazioni o associazioni, la dichiarazione di compatibilita' dell'attivita' istituzionale con lo svolgimento dei servizi di mediazione, conciliazione e risoluzione alternativa delle controversie o di formazione nei medesimi ambiti;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    l'impegno dell'organismo a non prestare i servizi di mediazione, conciliazione e risoluzione alternativa delle controversie quando ha un interesse nella lite. (9) (10)
+
 Ai fini di cui al comma 1 costituiscono requisiti di efficienza dell'organismo l'adeguatezza dell'organizzazione, la capacita' finanziaria, la qualita' del servizio, la trasparenza organizzativa, amministrativa e contabile, nonche' la qualificazione professionale del responsabile dell'organismo e quella dei mediatori. (9) (10)
 
 ((Il registro degli organismi e tutti gli elenchi sono tenuti e gestiti mediante piattaforma informatica del Ministero della giustizia.)) La formazione del registro e la sua revisione, l'iscrizione, la sospensione e la cancellazione degli iscritti, l'istituzione di separate sezioni del registro per la trattazione degli affari che richiedono specifiche competenze anche in materia di consumo e internazionali, nonche' la determinazione delle indennita' spettanti agli organismi sono disciplinati con appositi decreti del Ministro della giustizia, di concerto, relativamente alla materia del consumo, con il Ministro dello sviluppo economico. ((PERIODO SOPPRESSO DAL D.LGS. 27 DICEMBRE 2024, N. 216)). ((PERIODO SOPPRESSO DAL D.LGS. 27 DICEMBRE 2024, N. 216)).
@@ -749,11 +916,77 @@ Ciascuna parte, al momento della presentazione della domanda di mediazione o al 
 
 Il regolamento dell'organismo di mediazione indica le ulteriori spese di mediazione dovute dalle parti per la conclusione dell'accordo di conciliazione e per gli incontri successivi al primo.
 
+5.
+                        
+                            
+                                Con il decreto di cui all'articolo 16, comma 2, sono determinati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ammontare minimo e massimo delle indennita' spettanti agli organismi pubblici, il criterio di calcolo e le modalita' di ripartizione tra le parti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri per l'approvazione delle tabelle delle indennita' proposte dagli organismi costituiti da enti privati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli importi a titolo di indennita' per le spese di avvio e per le spese di mediazione per il primo incontro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le maggiorazioni massime dell'indennita' dovute, non superiori al 25 per cento, nell'ipotesi di successo della mediazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le riduzioni minime delle indennita' dovute nelle ipotesi in cui la mediazione e' condizione di procedibilita' ai sensi dell'articolo 5, comma 1, ovvero e' demandata dal giudice; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i criteri per la determinazione del valore dell'accordo di conciliazione ai sensi dell'articolo 11, comma 3.
+
 Quando la mediazione e' condizione di procedibilita' della domanda giudiziale ai sensi dell'articolo 5, comma 1, ovvero dell'articolo 5-quater, comma 2, all'organismo non e' dovuta alcuna indennita' dalla parte ammessa al patrocinio a spese dello Stato.
 
 Il Ministero della giustizia provvede, nell'ambito delle proprie attivita' istituzionali, al monitoraggio delle mediazioni concernenti i soggetti esonerati dal pagamento dell'indennita' di mediazione.
 
 L'ammontare dell'indennita' puo' essere rideterminato ogni tre anni in relazione alla variazione, accertata dall'Istituto nazionale di statistica, dell'indice dei prezzi al consumo per le famiglie di operai e impiegati, verificatasi nel triennio precedente.
+
+9.
+                        
+                            
+                                Agli oneri per l'attuazione delle disposizioni di cui ai commi 1 e 2, valutati in 5,9 milioni di euro per l'anno 2010, in 7,018 milioni di euro per gli anni dal 2011 al 2022 e in 13,098 milioni di euro a decorrere dall'anno 2023, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 5,9 milioni di euro per l'anno 2010 e 7,018 milioni di euro a decorrere dall'anno 2011 mediante corrispondente riduzione della quota delle risorse del «Fondo unico giustizia» di cui all'articolo 2, comma 7, lettera b) del decreto-legge 16 settembre 2008, n. 143, convertito, con modificazioni, dalla legge 13 novembre 2008, n. 181, che, a tale fine, resta acquisita all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 6,08 milioni di euro annui a decorrere dall'anno 2023, mediante corrispondente riduzione del Fondo per l'attuazione della delega per l'efficienza del processo civile di cui all'articolo 1, comma 39, della legge 26 novembre 2021, n. 206. 
+ 
+ (9) (10)
 
 -------------
                             AGGIORNAMENTO (3)

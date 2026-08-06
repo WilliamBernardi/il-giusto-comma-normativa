@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -104,6 +104,90 @@ Il concorso per esami consiste in una prova scritta, effettuata con le procedure
 
 La prova scritta ha la prevalente funzione di verificare la capacita' di inquadramento logico sistematico del candidato e consiste nello svolgimento di due elaborati teorici rispettivamente vertenti sul diritto tributario e sul diritto civile o commerciale, nonche' in una prova teorico-pratica consistente nella redazione di una sentenza in materia tributaria.
 
+4.
+                        
+                            
+                                La prova orale verte su: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto tributario e diritto processuale tributario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto civile e diritto processuale civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diritto penale tributario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diritto costituzionale e diritto amministrativo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diritto commerciale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA ABROGATA DAL D.L. 22 GIUGNO 2023, N. 75, CONVERTITO CON MODIFICAZIONI DALLA L. 10 AGOSTO 2023, N. 112; (30) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    contabilita' aziendale e bilancio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    elementi di informatica giuridica; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    colloquio in una lingua straniera, indicata dal candidato all'atto della domanda di partecipazione al concorso, scelta fra le seguenti: inglese, spagnolo, francese e tedesco.
+
+5.
+                        
+                            
+                                Sono ammessi alla prova orale i candidati che ottengono un punteggio non inferiore a dodici ventesimi in ciascun elaborato della prova scritta. Conseguono l'idoneita' i candidati che ottengono un punteggio non inferiore a sei decimi in ciascuna delle materie della prova orale di cui al comma 4, lettere da 
+                            
+                            
+                                a)
+                                
+                                    a i), e un giudizio di sufficienza nel colloquio nella lingua straniera prescelta, e comunque una votazione complessiva nelle due prove non inferiore a novanta punti. Non sono ammesse frazioni di punto. Agli effetti di cui all'articolo 3 della legge 7 agosto 1990, n. 241, il giudizio in ciascuna delle prove scritte e orali e' motivato con l'indicazione del solo punteggio numerico e il giudizio di insufficienza e' motivato con la sola formula "non idoneo".
+
 Con decreto del Ministro dell'economia e delle finanze, previa deliberazione conforme del Consiglio di presidenza della giustizia tributaria, terminata la valutazione degli elaborati scritti, sono nominati componenti della commissione esaminatrice docenti universitari delle lingue indicate dai candidati ammessi alla prova orale. I commissari cosi' nominati partecipano in soprannumero ai lavori della commissione, ovvero delle sottocommissioni, qualora formate, limitatamente alle prove orali relative alla lingua straniera della quale sono docenti.
 
 Per la copertura dei posti di magistrato tributario nella provincia di Bolzano si applicano gli specifici requisiti previsti dal decreto del Presidente della Repubblica 26 luglio 1976, n. 752, fermo restando, comunque, che il colloquio di cui al comma 4, lettera l), deve svolgersi in una lingua diversa rispetto a quella obbligatoria per il conseguimento dell'impiego.
@@ -116,6 +200,45 @@ Per la copertura dei posti di magistrato tributario nella provincia di Bolzano s
 ## Art. 4-bis. — (( (Requisiti per l'ammissione al concorso per esami). ))
 
 ((
+
+1.
+                        
+                            
+                                Al concorso per esami di cui all'articolo 4 sono ammessi i laureati che siano in possesso del diploma di laurea in giurisprudenza conseguito al termine di un corso universitario di durata non inferiore a quattro anni, ovvero del diploma di laurea magistrale in Scienze dell'economia (classe LM-56) o in Scienze economico-aziendali (classe LM-77) o di titoli degli ordinamenti previgenti a questi equiparati. E' necessaria, altresi', la sussistenza dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere cittadini italiani; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avere l'esercizio dei diritti civili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere di condotta incensurabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non essere stati dichiarati per tre volte non idonei nel concorso per esami di cui all'articolo 4, alla data di scadenza del termine per la presentazione della domanda; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli altri requisiti richiesti dalle leggi vigenti.
 
 ))
 
@@ -188,6 +311,59 @@ Il presidente della corte di giustizia tributaria di primo e secondo grado, col 
 ## - Capo II I COMPONENTI DELLE ((CORTI DI GIUSTIZIA TRIBUTARIA DI PRIMO E SECONDO GRADO))
 
 ## Art. 7. — Requisiti generali
+
+1.
+                        
+                            
+                                I componenti delle ((corti di giustizia tributaria di primo e secondo grado)) debbono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere cittadini italiani; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avere l'esercizio dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non aver riportato condanne per delitti comuni non colposi o per contravvenzioni a pena detentiva o per reati tributari e non essere stati sottoposti a misure di prevenzione o di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non avere superato, alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda di ammissione, ((sessantasette)) anni di eta'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    avere idoneita' fisica e psichica; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    essere muniti di laurea magistrale o quadriennale in materie giuridiche o economico-aziendalistiche; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA ABROGATA DALLA L. 12 NOVEMBRE 2011, N. 183.
 
 ## Art. 8. — Incompatibilita'
 
@@ -265,6 +441,49 @@ I componenti delle corti di giustizia tributaria di primo e secondo grado, indip
 
 Ferme restando le modalita' indicate nel comma 4-ter, l'assegnazione del medesimo incarico o di diverso incarico per trasferimento dei componenti delle corti di giustizia tributaria di primo e secondo grado in servizio e' disposta, salvo giudizio di demerito, sulla base dei punteggi stabiliti dalla tabella F allegata al presente decreto. Il Consiglio di presidenza, in caso di vacanza nei posti di presidente, di presidente di sezione, di vice presidente e di componente presso una sede giudiziaria di corte di giustizia tributaria, provvede a bandire, almeno una volta l'anno e con priorita' rispetto alle procedure concorsuali di cui all'articolo 4 e a quelle per diverso incarico, interpelli per il trasferimento di giudici che ricoprono la medesima funzione o una funzione superiore.
 
+4-ter.
+                        
+                            
+                                L'assegnazione degli incarichi e' disposta nel rispetto delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la vacanza nei posti di presidente, di presidente di sezione, di vice presidente delle corti di giustizia tributaria di primo e secondo grado e di componente delle corti di giustizia tributaria e' portata dal Consiglio di presidenza a conoscenza di tutti i componenti delle corti di giustizia tributaria in servizio, a prescindere dalle funzioni svolte, con indicazione del termine entro il quale chi aspira all'incarico deve presentare domanda; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla nomina per ciascuno degli incarichi di cui alla lettera a) si procede sulla base di elenchi formati relativamente ad ogni corte di giustizia tributaria e comprendenti tutti gli appartenenti alle categorie indicate negli articoli 3, 4 e 5 per il posto da conferire, che hanno comunicato la propria disponibilita' all'incarico e sono in possesso dei requisiti prescritti. Alla comunicazione di disponibilita' all'incarico deve essere allegata la documentazione circa l'appartenenza ad una delle categorie indicate negli articoli 3, 4 e 5 ed il possesso dei requisiti prescritti, nonche' la dichiarazione di non essere in alcuna delle situazioni di incompatibilita' indicate all'articolo 8. Le esclusioni dagli elenchi di coloro che hanno comunicato la propria disponibilita' all'incarico, senza essere in possesso dei requisiti prescritti, sono deliberate dal Consiglio di presidenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la scelta tra gli aspiranti e' adottata dal Consiglio di presidenza, salvo giudizio di demerito del candidato, secondo i criteri di valutazione ed i punteggi stabiliti dalla tabella F e, nel caso di parita' di punteggio, della maggiore anzianita' anagrafica.
+
+5.
+                        
+                            
+                                Il Consiglio di presidenza della giustizia tributaria esprime giudizio di demerito ove ricorra una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sanzione disciplinare irrogata al candidato nel quinquennio antecedente la data di scadenza della domanda per l'incarico per il quale concorre; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rapporto annuo pari o superiore al 60 per cento tra il numero dei provvedimenti depositati oltre il termine di trenta giorni a decorrere dalla data di deliberazione e il totale dei provvedimenti depositati dal singolo candidato.
+
 Nei casi di necessita' di servizio, il Ministro dell'economia e delle finanze puo' disporre, su richiesta del Consiglio di presidenza della Giustizia Tributaria, l'anticipazione nell'assunzione delle funzioni.
 
 ---------------
@@ -291,6 +510,45 @@ Nei casi di necessita' di servizio, il Ministro dell'economia e delle finanze pu
  b) il 1° gennaio 2028 qualora abbiano compiuto settantuno anni di eta' entro il 31 dicembre 2027, ovvero al compimento del settantunesimo anno di eta' nel corso dell'anno 2028".
 
 ## Art. 12. — Decadenza dall'incarico
+
+1.
+                        
+                            
+                                Decadono dall'incarico i componenti delle ((corti di giustizia tributaria di primo e secondo grado)) i quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    perdono uno dei requisiti di cui all'art. 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incorrono in uno dei motivi di incompatibilita' previsti dall'art. 8; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cessano, se magistrati o altri dipendenti dell'amministrazione pubblica in attivita' di servizio, dall'impiego per causa diversa dal collocamento a riposo o da dimissioni volontarie, secondo i rispettivi ordinamenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    omettono, senza giustificato motivo, di assumere l'incarico entro trenta giorni dalla comunicazione del decreto di nomina; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non partecipano, senza giustificato motivo, a tre sedute con- secutive.
 
 La decadenza e' dichiarata con decreto del Ministro delle finanze previa deliberazione del consiglio di presidenza.
 
@@ -338,6 +596,119 @@ Il presidente di ciascuna ((corte di giustizia tributaria di primo e secondo gra
 I componenti delle ((corti di giustizia tributaria di primo e secondo grado)), per comportamenti non conformi a doveri o alla dignita' del proprio ufficio, sono soggetti alle sanzioni individuate nei commi da 3 a 7.
 
 Si applica la sanzione dell'ammonimento per lievi trasgressioni.
+
+4.
+                        
+                            
+                                Si applica la sanzione non inferiore alla censura, per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i comportamenti che, violando i doveri di cui al comma 2, arrecano ingiusto danno o indebito vantaggio a una delle parti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la consapevole inosservanza dell'obbligo di astensione nei casi previsti dalla legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i comportamenti che, a causa dei rapporti comunque esistenti con i soggetti coinvolti nel procedimento ovvero a causa di avvenute interferenze, costituiscano violazione del dovere di imparzialita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i comportamenti abitualmente o gravemente scorretti nei confronti delle parti, dei loro difensori, o di chiunque abbia rapporti con il giudice nell'ambito della ((corte di giustizia tributaria di primo e secondo grado)), ovvero nei confronti di altri giudici o di collaboratori; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ingiustificata interferenza nell'attivita' giudiziaria di altro giudice; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'omessa comunicazione al Presidente della ((corte di giustizia tributaria di primo e secondo grado)) da parte del giudice destinatario delle avvenute interferenze; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il perseguimento di fini diversi da quelli di giustizia; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la scarsa laboriosita', se abituale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la grave o abituale violazione del dovere di riservatezza; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'uso della qualita' di giudice tributario al fine di conseguire vantaggi ingiusti; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la reiterata e grave inosservanza delle norme regolamentari o delle disposizioni sul servizio adottate dagli organi competenti.
+
+5.
+                        
+                            
+                                Si applica la sanzione non inferiore alla sospensione dalle funzioni per un periodo da un mese a due anni, per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il reiterato o grave ritardo nel compimento degli atti relativi all'esercizio delle funzioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i comportamenti che, violando i doveri di cui al comma 2, arrecano grave e ingiusto danno o indebito vantaggio a una delle parti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'uso della qualita' di giudice tributario al fine di conseguire vantaggi ingiusti, se abituale e grave; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il frequentare persona che consti essere stata dichiarata delinquente abituale, professionale o per tendenza o aver subito condanna per delitti non colposi alla pena della reclusione superiore a tre anni o essere sottoposta ad una misura di prevenzione, salvo che sia intervenuta la riabilitazione, ovvero l'intrattenere rapporti consapevoli di affari con una di tali persone.
 
 Si applica la sanzione dell'incapacita' a esercitare un incarico direttivo per l'interferenza, nell'attivita' di altro giudice tributario, da parte del presidente della commissione o della sezione, se ripetuta o grave. ((27))
 
@@ -473,6 +844,101 @@ Il Consiglio di Presidenza scade al termine del quadriennio e continua ad eserci
 ))
 
 ## Art. 24. — Attribuzioni
+
+1.
+                        
+                            
+                                Il consiglio di presidenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica i titoli di ammissione dei propri componenti e decide sui reclami attinenti alle elezioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disciplina con regolamento interno il proprio funzionamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delibera sulle nomine e su ogni altro provvedimento riguardante i componenti delle corti di giustizia tributaria di primo e secondo grado; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    formula al Ministro delle finanze proposte per l'adeguamento e l'ammodernamento delle strutture e dei servizi, sentiti i presidenti delle corti di giustizia tributaria di primo e secondo grado; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    predispone elementi per la redazione della relazione del Ministro delle finanze di cui all'art. 29, comma 2, anche in ordine alla produttivita' comparata delle commissioni; (27) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    stabilisce i criteri di massima per la formazione delle sezioni e dei collegi giudicanti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    stabilisce i criteri di massima per la ripartizione dei ricorsi nell'ambito delle corti di giustizia tributaria di primo e secondo grado divise in sezioni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    assicura l'aggiornamento professionale dei giudici tributari attraverso l'organizzazione di corsi di formazione permanente, in sede centrale e decentrata; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    esprime parere sugli schemi di regolamento e di convenzioni previsti dal presente decreto o che comunque riguardano il funzionamento delle corti di giustizia tributaria di primo e secondo grado; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    esprime parere sulla ripartizione fra le corti di giustizia tributaria di primo e secondo grado dei fondi stanziati nel bilancio del Ministero delle finanze per le spese di loro funzionamento; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    esprime parere sul decreto di cui all'articolo 13, comma 1; 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    dispone, in caso di necessita', l'applicazione ((di magistrati e di giudici tributari)) presso altra corte di giustizia tributaria di primo e secondo grado o sezione staccata, rientrante nello stesso ambito regionale, per la durata massima di un anno; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    delibera su ogni altra materia ad esso attribuita dalla legge.
 
 Il consiglio di presidenza vigila sul funzionamento dell'attivita' giurisdizionale delle corti di giustizia tributaria di primo e secondo grado e puo' disporre ispezioni nei confronti del personale giudicante. (27)
 

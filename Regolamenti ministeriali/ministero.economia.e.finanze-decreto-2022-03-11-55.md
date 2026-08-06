@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-07-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,9 +37,196 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Nel presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    decreto antiriciclaggio: indica il decreto legislativo 21 novembre 2007, n. 231; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    CAD: Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    TUDA: Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
+
+2.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunicazione unica d'impresa: la comunicazione telematica di cui all'articolo 9 del decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40, che, per le finalita' del presente decreto, e' diretta unicamente al registro delle imprese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controinteressati all'accesso: coloro che, ai sensi dell'articolo 21, comma 2, lettera f), secondo periodo, e comma 4, lettera d-bis), terzo periodo, del decreto antiriciclaggio indicano nella comunicazione relativa alle informazioni attinenti alla titolarita' effettiva, le circostanze eccezionali ai fini dell'esclusione dell'accesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dati identificativi dei soggetti cui e' riferita la titolarita' effettiva: il nome e il cognome, il luogo e la data di nascita, la residenza anagrafica e il domicilio, ove diverso dalla residenza anagrafica, e, ove assegnato, il codice fiscale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fiduciario di trust o di istituti giuridici affini: il fiduciario o i fiduciari di trust espressi e le persone che esercitano diritti, poteri, e facolta' equivalenti in istituti giuridici affini, stabiliti o residenti sul territorio della Repubblica italiana secondo l'articolo 22, comma 5 del decreto antiriciclaggio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gestore: InfoCamere S.C.p.A, che gestisce per conto delle Camere di commercio il sistema informativo nazionale ai sensi dell'articolo 8, comma 6, della legge 29 dicembre 1993, n. 580; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    imprese dotate di personalita' giuridica: le societa' a responsabilita' limitata, le societa' per azioni, le societa' in accomandita per azioni e le societa' cooperative; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    istituti giuridici affini al trust, tenuti all'iscrizione nella sezione speciale: gli enti e gli istituti che, per assetto e funzioni, determinano effetti giuridici equivalenti a quelli dei trust espressi, anche avuto riguardo alla destinazione dei beni ad uno scopo ed al controllo da parte di un soggetto diverso dal proprietario, nell'interesse di uno o piu' beneficiari o per il perseguimento di uno specifico fine, secondo l'articolo 22, comma 5-bis, del decreto antiriciclaggio; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    persone giuridiche private: le associazioni, le fondazioni e le altre istituzioni di carattere privato che acquistano la personalita' giuridica con l'iscrizione nel registro delle persone giuridiche, ai sensi del decreto del Presidente della Repubblica 10 febbraio 2000, n. 361; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    registro delle imprese: il registro delle imprese previsto dall'articolo 2188 del codice civile; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sezione autonoma: l'apposita sezione autonoma del registro delle imprese, contenente i dati e le informazioni sulla titolarita' effettiva di imprese dotate di personalita' giuridica e di persone giuridiche private; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    sezione speciale: l'apposita sezione speciale del registro delle imprese, recante le informazioni sulla titolarita' effettiva dei trust produttivi di effetti giuridici rilevanti a fini fiscali, nonche' degli istituti giuridici affini, stabiliti o residenti sul territorio della Repubblica italiana; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    soggetti obbligati: le categorie di soggetti individuati nell'articolo 3 del decreto antiriciclaggio; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    titolare effettivo delle imprese dotate di personalita' giuridica: la persona fisica o le persone fisiche cui e' riconducibile la proprieta' diretta o indiretta ai sensi dell'articolo 20, commi 2, 3 e 5, del decreto antiriciclaggio; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    titolare effettivo delle persone giuridiche private: i soggetti individuati dall'articolo 20, comma 4, del decreto antiriciclaggio; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    titolare effettivo di trust e istituti giuridici affini: i soggetti individuati dall'articolo 22, comma 5, primo periodo, del decreto antiriciclaggio; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    trust tenuti all'iscrizione nella sezione speciale: i trust produttivi di effetti giuridici rilevanti a fini fiscali, individuati dall'articolo 21, comma 3, primo periodo, del decreto antiriciclaggio; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    ufficio del registro imprese: l'ufficio del registro delle imprese istituito presso la Camera di commercio dall'articolo 8, comma 1, della legge 29 dicembre 1993 n. 580; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    Unioncamere: l'ente che cura e rappresenta gli interessi generali delle Camere di commercio e degli altri organismi del sistema camerale italiano ai sensi dell'articolo 7 della legge 29 dicembre 1993, n. 580.
+
 ## Art. 2.
 
 Oggetto e finalita'
+
+1.
+                        
+                            
+                                Il presente decreto, al fine di prevenire e contrastare l'uso del sistema economico e finanziario a scopo di riciclaggio e di finanziamento del terrorismo, detta disposizioni, da attuarsi con modalita' esclusivamente telematiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in materia di comunicazione all'ufficio del registro delle imprese dei dati e delle informazioni relativi alla titolarita' effettiva di imprese dotate di personalita' giuridica, di persone giuridiche private, di trust produttivi di effetti giuridici rilevanti a fini fiscali e istituti giuridici affini al trust per la loro iscrizione e conservazione nella sezione autonoma e nella sezione speciale del registro delle imprese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in materia di accesso ai dati e alle informazioni da parte delle Autorita', dei soggetti obbligati ((...)) e di qualunque persona fisica o giuridica, ivi compresa quella portatrice di interessi diffusi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per individuare e quantificare i diritti di segreteria rispetto ai soggetti diversi dalle Autorita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per garantire la sicurezza del trattamento dei dati e delle informazioni.
 
 ## Art. 3.
 
@@ -64,6 +251,59 @@ I termini previsti dai commi 3, 6 e 7 per le comunicazioni ivi disciplinate sono
 Tutti gli adempimenti previsti dal presente articolo sono effettuati con l'ausilio di idoneo sistema informatico predisposto dal gestore.
 
 ## Art. 4. — Dati e informazioni oggetto di comunicazione
+
+1.
+                        
+                            
+                                La comunicazione di cui all'articolo 3, avente ad oggetto dati e informazioni sulla titolarita' effettiva contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati identificativi e la cittadinanza delle persone fisiche indicate come titolare effettivo ai sensi dell'articolo 20, commi 2, 3 e 5, del decreto antiriciclaggio per le imprese dotate di personalita' giuridica, dell'articolo 20, comma 4, del decreto antiriciclaggio per le persone giuridiche private, dell'articolo 22, comma 5, decreto antiriciclaggio per i trust o istituti affini; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in aggiunta a quanto previsto dalla lettera a), per le imprese dotate di personalita' giuridica: 
+ 1) l'entita' della partecipazione al capitale dell'ente da parte della persona fisica indicata come titolare effettivo, ai sensi dell'articolo 20, comma 2, del decreto antiriciclaggio; 
+ 2) ove il titolare effettivo non sia individuato in forza dell'entita' della partecipazione di cui al punto 1), le modalita' di esercizio del controllo ovvero, in ultima istanza, i poteri di rappresentanza legale, amministrazione o direzione dell'ente, esercitati dalla persona fisica indicata come titolare effettivo, ai sensi dell'articolo 20, commi 3 e 5, del decreto antiriciclaggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in aggiunta a quanto previsto dalla lettera a), per le persone giuridiche private, il codice fiscale e, anche nel caso di eventuali successive variazioni: 
+ 1) la denominazione dell'ente; 
+ 2) la sede legale e, ove diversa da quella legale, la sede amministrativa dell'ente; 
+ 3) l'indirizzo di posta elettronica certificata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in aggiunta a quanto previsto dalla lettera a), relativamente ai trust e agli istituti giuridici affini, il codice fiscale e, anche nel caso di eventuali successive variazioni: 
+ 1) la denominazione del trust o dell'istituto giuridico affine; 
+ 2) la data, il luogo e gli estremi dell'atto di costituzione del trust o dell'istituto giuridico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'eventuale indicazione delle circostanze eccezionali, ai fini dell'esclusione dell'accesso alle informazioni sulla titolarita' effettiva, ai sensi dell'articolo 21, comma 2, lettera f), secondo periodo, e comma 4, lettera d-bis), terzo periodo, del decreto antiriciclaggio, nonche' l'indicazione di un indirizzo di posta elettronica per ricevere le comunicazioni di cui all'articolo 7, comma 3, nella qualita' di controinteressato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la dichiarazione, ai sensi dell'articolo 48 del TUDA, di responsabilita' e consapevolezza in ordine alle sanzioni previste dalla legislazione penale e dalle leggi speciali in materia di falsita' degli atti e delle dichiarazioni rese.
 
 La Camera di commercio territorialmente competente provvede all'accertamento e alla contestazione della violazione dell'obbligo di comunicazione dei dati e delle informazioni sulla titolarita' effettiva e all'irrogazione della relativa sanzione amministrativa, ai sensi dell'articolo 2630 del codice civile, secondo le disposizioni di cui alla legge 24 novembre 1981, n. 689. La Camera di commercio territorialmente competente, anche avvalendosi del sistema informatico del gestore, provvede ai controlli delle comunicazioni di cui all'articolo 3 rispetto alle regole tecniche e a quelle specifiche del formato elettronico, risultanti dal decreto dirigenziale di cui all'articolo 3, comma 5, nonche' ai controlli sulle autodichiarazioni, ai sensi del TUDA.
 

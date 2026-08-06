@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2013-04-26;82
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:56Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,70 @@ Sulla proposta del Presidente del Consiglio dei ministri, di concerto con il Min
 
 ## Art. 1. — Modifiche all'articolo 2 del decreto 
  del Presidente della Repubblica 10 marzo 1998, n. 76
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto del Presidente della Repubblica 10 marzo 1998, n. 76, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole da: «gli interventi straordinari per fame» a: «beni culturali.», sono sostituite dalle seguenti: «esclusivamente gli interventi straordinari per il contrasto alla fame nel mondo, in caso di calamita' naturali, per l'assistenza ai rifugiati e per la conservazione dei beni culturali. I predetti interventi sono definiti in coerenza con le priorita' ed i programmi definiti dalle amministrazioni statali interessate.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. Gli interventi per il contrasto alla fame nel mondo sono diretti alla realizzazione di progetti finalizzati all'obiettivo dell'autosufficienza alimentare nei Paesi in via di sviluppo, nonche' alla qualificazione di personale locale da destinare a compiti di contrasto delle situazioni di sottosviluppo e denutrizione ovvero di pandemie e di emergenze umanitarie che minacciano la sopravvivenza delle popolazioni ivi residenti.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Gli interventi in caso di calamita' naturali sono diretti all'attivita' di realizzazione di opere, lavori, studi, monitoraggi finalizzati alla tutela della pubblica incolumita' da fenomeni geomorfologici, idraulici, valanghivi, metereologici, di incendi boschivi e sismici, nonche' al ripristino di beni pubblici, ivi inclusi i beni culturali di cui all'articolo 10 del Codice dei beni culturali e del paesaggio di cui al decreto legislativo 22 gennaio 2004, n. 42, danneggiati o distrutti dalle medesime tipologie di fenomeni.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. Gli interventi di assistenza ai rifugiati sono diretti ad assicurare a coloro cui sono state riconosciute, secondo la normativa vigente, forme di protezione internazionale o umanitaria, l'accoglienza, la sistemazione, l'assistenza sanitaria e i sussidi previsti dalle disposizioni vigenti. Tale sistema di interventi e' assicurato anche a coloro che hanno fatto richiesta di protezione internazionale, purche' privi di mezzi di sussistenza e ospitalita' in Italia.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5 sono aggiunte, in fine, le seguenti parole: «, ai sensi del Codice dei beni culturali e del paesaggio di cui al decreto legislativo 22 gennaio 2004, n. 42, per i quali sia intervenuta la verifica ovvero la dichiarazione dell'interesse culturale ai sensi dello stesso Codice.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 5 e' inserito il seguente: 
+ «5-bis. Gli interventi di cui ai commi 2, 3, 4 e 5 devono essere coerenti con gli indirizzi e le priorita' eventualmente individuati dal Presidente del Consiglio dei ministri, dai Ministri competenti e dai Ministri delegati, ai sensi dell'articolo 9 della legge 23 agosto 1988, n. 400.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 6 le parole: «per tale ragione» sono soppresse; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                dopo il comma 6, e' aggiunto, in fine, il seguente: 
+ «6-bis. Gli interventi di cui ai commi 3, 4 e 5 devono essere eseguiti sul territorio italiano.».
 
 Dopo l'articolo 2 e' inserito il seguente: 
  «Art. 2-bis (Criteri di ripartizione). - 1. La quota dell'otto per mille dell'IRPEF devoluta alla diretta gestione statale e' ripartita di regola in considerazione delle finalita' perseguite dalla legge in quattro quote uguali per le quattro tipologie di interventi ammesse a contributo, di cui all'articolo 2, comma 1. 
@@ -58,6 +122,27 @@ L'articolo 3 del decreto del Presidente della Repubblica 10 marzo 1998, n. 76, e
 
 ## Art. 3. — Modifiche all'articolo 4 del decreto 
  del Presidente della Repubblica 10 marzo 1998, n. 76
+
+1.
+                    
+                        
+                            All'articolo 4 del decreto del Presidente della Repubblica 10 marzo 1998, n. 76, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. I requisiti oggettivi di cui al comma 1 devono risultare da una relazione tecnica redatta secondo l'Allegato B, che costituisce parte integrante del presente regolamento, corredata dalla documentazione ivi indicata e firmata dal legale rappresentante e dal responsabile tecnico della gestione dell'intervento.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 sono aggiunti, in fine, i seguenti: 
+ «2-bis. La domanda non puo' essere accolta ove la relazione tecnica indicata al comma 2 non sia allegata ovvero risulti priva delle voci indicate nell'Allegato B a pena di inammissibilita'. 
+ 2-ter. Al di fuori dell'ipotesi di cui al comma 2-bis, su proposta delle Commissioni di cui all'articolo 5, comma 2, possono essere chiesti chiarimenti e integrazioni della documentazione presentata, fissando un termine non superiore a dieci giorni decorrente dalla ricezione della comunicazione da parte del richiedente. Decorso inutilmente tale termine la domanda e' improcedibile.».
 
 ## Art. 4. — Modifiche all'articolo 5 del decreto 
  del Presidente della Repubblica 10 marzo 1998, n. 76

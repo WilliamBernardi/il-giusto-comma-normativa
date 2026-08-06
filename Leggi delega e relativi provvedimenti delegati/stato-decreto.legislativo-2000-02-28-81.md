@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2007-10-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,9 +34,74 @@ In caso di progetti originariamente promossi in concorso tra piu' enti in base a
 
 Le disposizioni del presente decreto si applicano, salvo quanto previsto dall'articolo 10, comma 1, ai soggetti impegnati in progetti di lavori socialmente utili e che abbiano effettivamente maturato dodici mesi di permanenza in tali attivita' nel periodo dal 1o gennaio 1998 al 31 dicembre 1999.
 
+2.
+                    
+                        
+                            Non rientrano tra i soggetti di cui il comma 1:
+
+                        
+                        
+                            a)
+                            
+                                i soggetti in possesso, alla data del 31 dicembre 1999, dei requisiti richiesti per fruire dei contributi previsti dall'articolo 12, comma 5, lettera a), del citato decreto legislativo n. 468 del 1997, e successive modificazioni;
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti fruitori del trattamento di cui all'articolo 7, commi 6 e 7, della legge 23 luglio 1991, n. 223, e successive modificazioni;
+                            
+                        
+                        
+                            c)
+                            
+                                i soggetti che abbiano conseguito, alla data di entrata in vigore del presente decreto, la ricollocazione lavorativa ai sensi dell'articolo 12 del citato decreto legislativo n. 468 del 1997, e successive modificazioni, e del decreto interministeriale del 21 maggio 1998, pubblicato nella Gazzetta Ufficiale del 19 luglio 1998, n. 141;
+                            
+                        
+                        
+                            d)
+                            
+                                i soggetti che, alla data di entrata in vigore del presente decreto, siano stati dichiarati decaduti o cancellati ai sensi dell'articolo 9 del citato decreto legislativo n. 468 del 1997, e successive modificazioni;
+                            
+                        
+                        
+                            e)
+                            
+                                i soggetti avviati sulla base di progetti finanziati dagli enti di cui all'articolo 11, comma 4, del citato decreto legislativo n. 468 del 1997, e successive modificazioni;
+                            
+                        
+                        
+                            f)
+                            
+                                i soggetti che non abbiano prodotto la dichiarazione di cui al comma 3.
+
 I soggetti di cui al comma 1, per continuare ad essere utilizzati in attivita' socialmente utili, devono produrre una dichiarazione resa ai sensi della legge 4 gennaio 1968, n. 15, e successive modificazioni, all'ente utilizzatore attestante l'indicazione dei progetti di lavori socialmente utili o di pubblica utilita' in cui sono stati impegnati, dell'ente attuatore responsabile del relativo progetto, nonche' dei periodi di effettivo impegno in ciascun progetto, qualora promossi da enti diversi dall'attuale ente utilizzatore.
 
 ## Art. 3. — Attivita' socialmente utili
+
+1.
+                    
+                        
+                            Le attivita' in cui sono impegnati i soggetti di cui all'articolo 2, comma 1, sono:
+
+                        
+                        
+                            a)
+                            
+                                quelle definite dall'articolo 1, commna 1, e dall'articolo 2, comma 1, del citato decreto legislativo n. 468 del 1997, e successive modificazioni;
+                            
+                        
+                        
+                            b)
+                            
+                                i servizi tecnici integrati della pubblica amministrazione;
+                            
+                        
+                        
+                            c)
+                            
+                                i trasporti e la connessa logistica.
+Le predette attivita', gia' oggetto di progetti da parte degli enti utilizzatori, costituiscono l'elenco generale. Gli enti utilizzatori comunicano, entro un mese dalla data di entrata in vigore del presente decreto, ai servizi per l'impiego competenti, l'elenco delle attivita' in cui sono impegnati i soggetti utilizzati.
 
 Le regioni possono individuare attivita' aggiuntive a quelle previste al comma 1 funzionali allo sbocco occupazionale territoriale dei soggetti di cui all'articolo 2, comma 1, in iniziative che comportano trasferimenti di risorse finanziarie pubbliche per opere infrastrutturali, ovvero siano finanziate da fondi strutturali europei ovvero siano oggetto di programmazione negoziata. A tal fine istituiscono ed aggiornano l'elenco regionale delle predette attivita'.
 
@@ -49,6 +114,77 @@ L'utilizzo nelle attivita' di cui all'articolo 3 non determina l'instaurazione d
 La durata della prestazione, a decorrere dal 1o maggio 2000, non puo' essere superiore a sei mesi, rinnovabile per un ulteriore periodo di sei mesi. In caso di rinnovo e limitatamente a detto periodo, il 50 per cento dell'ammontare dell'assegno di cui al comma 1 e' a carico del Fondo di cui all'articolo 1, comma 1, ed il restante 50 per cento e' corrisposto dall'ente utilizzatore.
 
 ## Art. 5. — Procedure di decisione, di comunicazione di trasformazione
+
+1.
+                    
+                        
+                            Al fine di proseguire le attivita', secondo le modalita' di cui all'articolo 4, gli organi competenti degli enti utilizzatori, preso atto delle dichiarazioni rese dai soggetti impegnati ai sensi dell'articolo 2, commna 3, deliberano:
+
+                        
+                        
+                            a)
+                            
+                                l'elenco nominativo dei soggetti impegnati;
+                            
+                        
+                        
+                            b)
+                            
+                                le attivita' espletate dall'ente utilizzatore nell'ambito di quelle indicate nell'articolo 3;
+                            
+                        
+                        
+                            c)
+                            
+                                le eventuali qualifiche professionali di ciascun soggetto e l'attivita' da svolgere;
+                            
+                        
+                        
+                            d)
+                            
+                                la localita' e la sede di svolgimento delle attivita';
+                            
+                        
+                        
+                            e)
+                            
+                                la durata dell'attivita' cosi' come disciplinata dall'articolo 4 del presente decreto;
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' organizzative delle attivita';
+                            
+                        
+                        
+                            g)
+                            
+                                l'eventuale quantita' di ore aggiuntive e il corrispettivo ammontare del trattamento economico;
+                            
+                        
+                        
+                            h)
+                            
+                                le forme assicurative attivate;
+                            
+                        
+                        
+                            i)
+                            
+                                il nome del dirigente responsabile della gestione della disciplina delle attivita' svolte dai soggetti di cui alla lettera a) del presente comma;
+                            
+                        
+                        
+                            l)
+                            
+                                l'indicazione espressa dello sbocco occupazionale nelle forme previste agli articoli 6 e 7;
+                            
+                        
+                        
+                            m)
+                            
+                                l'impegno alla comunicazione delle variazioni relative all'elenco dei soggetti di cui alla lettera a) del presente comma.
 
 La delibera di cui al comma 1 deve essere resa esecutiva dall'ente utilizzatore entro trenta giorni dalla data di entrata in vigore del presente decreto legislativo e copia della stessa deve essere inviata, entro il predetto termine, al servizio per l'impiego, alla direzione provinciale del lavoro e all'Istituto nazionale della previdenza sociale (I.N.P.S.) territorialmente competenti, ed agli altri organismi competenti al sensi del decreto legislativo 23 dicembre 1997, n. 469.
 
@@ -92,6 +228,24 @@ Gli oneri relativi alla erogazione del contributo di cui ai commi l, 2, 3 e 4, s
 
 Fino al 31 dicembre 2000, entro il limite delle risorse preordinate allo scopo nell'ambito del Fondo di cui all'articolo 1, comma 1, possono essere riconosciuti contributi per spese notarili relative alla costituzione di imprese o di cooperative fino al limite massimo di lire 20 milioni per ciascun atto costitutivo delle predette societa'.
 
+12.
+                    
+                        
+                            Per eventuali esigenze formative funzionali all'inserimento in attivita' lavorative dei soggetti di cui all'articolo 2, comma 1, puo' essere, per un periodo non superiore a sei mesi, corrisposto l'assegno di cui all'articolo 4, comma 1, nei casi:
+
+                        
+                        
+                            a)
+                            
+                                di assunzione con rapporto di lavoro a tempo indeterminato da parte di datori di lavoro privati che abbiano stipulato apposite convenzioni con l'ente utilizzatore. Tali convenzioni sono comunicate ai servizi per l'impiego e all'I.N.P.S.
+ territorialmente competenti;
+                            
+                        
+                        
+                            b)
+                            
+                                stages formativi seguiti da assunzione con rapporto di lavoro a tempo indeterminato.
+
 Alle agenzie di promozione e di lavoro di cui all'articolo 2, comma 4, del citato decreto legislativo n. 468 del 1997, e successive modificazioni, riconosciute alla data del 31 dicembre 1999, puo' essere concesso, nel limite delle risorse del Fondo di cui all'articolo 1, comma 1, ripartite ai sensi dell'articolo 8, comma 1, un contributo di lire 3 milioni per ogni soggetto di cui all'articolo 2, comma 1, in caso di assunzione con contratto di lavoro a tempo pieno e indeterminato.
 
 Alle societa' miste, alle cooperative e loro consorzi, costituiti successivamente alla data di entrata in vigore del presente decreto legislativo, puo' essere concesso nell'ambito delle risorse del fondo di cui all'articolo 1, comma 1, preordinate allo scopo, un contributo straordinario di lire 5 milioni per ciascun soggetto di cui all'articolo 2, comma 1, in caso di assunzione con contratto a tempo pieno e indeterminato da parte delle stesse societa' miste ovvero delle cooperative o consorzi di cooperative. Il predetto incentivo e' incompatibile con il contributo di cui all'articolo 7, commi 1, 2, 3 e 4.
@@ -105,6 +259,29 @@ Il Ministero del lavoro e della previdenza sociale, le regioni e gli enti utiliz
 Le risorse del fondo di cui al comma 1, qualora impegnate per attivita' socialmente utili, sono destinate al pagamento del 100 per cento degli assegni e dei sussidi per il periodo dal 1o gennaio 2000 al 31 ottobre 2000 e per l'ammontare del 50 per cento degli assegni e dei sussidi per i periodi dal 1o novembre 2000 al 30 aprile 2001.
 
 ## Art. 9. — Disciplina sanzionatoria
+
+1.
+                    
+                        
+                            I soggetti di cui all'articolo 2, comma 1, ivi compresi quelli che usufruiscono dei trattamenti previdenziali, vengono cancellati dagli elenchi di cui all'articolo 3, comma 1, decadono dai benefici previsti dal presente decreto legislativo e cessano di trovare applicazione nei loro confronti le disposizioni vigenti in materia di attivita' socialmente utili qualora:
+
+                        
+                        
+                            a)
+                            
+                                rifiutino l'assunzione, in luogo distante fino a 50 chilometri da quello di residenza, di cui all'articolo 7, commi 1, 2, 3, 4 e 6;
+                            
+                        
+                        
+                            b)
+                            
+                                rifiutino di partecipare ai corsi di formazione di cui all'articolo 7, comma 12, lettera a);
+                            
+                        
+                        
+                            c)
+                            
+                                rifiutino l'avviamento a selezione effettuato dai servizi per l'impiego competenti o da agenzie private convenzionate con il Ministero del lavoro e della previdenza sociale, o con le regioni o con le province, su richiesta dei datori di lavoro.
 
 Le disposizioni di cui al comma 1 non trovano applicazione nelle ipotesi di contratto a tempo determinato, di fornitura di lavoro temporaneo e di incarico di collaborazione coordinata e continuativa di durata inferiore a tre mesi.
 
@@ -128,6 +305,60 @@ I lavoratori rientranti nelle fattispecie di cui al comma 1, per potersi avvaler
 ))
 
 Con appositi decreti interministerali, possono essere individuate misure, nell'ambito di quelle previste dall'articolo 6, che prevedano l'utilizzo di risorse, ove previste dalla normativa vigente, delle amministrazioni statali di volta in volta interessate, finalizzate alla stabilizzazione occupazionale esterna dei soggetti di cui all'articolo 2, comma 1, i quali hanno svolto attivita' di lavori socialmente utili sulla base di apposite convenzioni stipulate dal Ministero del lavoro e della previdenza sociale con le amministrazioni pubbliche aventi competenze interregionali, ai sensi dell'articolo 5, comma 4, del decreto legislativo n. 468 del 1997.
+
+3.
+                    
+                        
+                            Restano confermate le disposizioni vigenti in materia di lavori socialmente utili di cui al decreto legislativo n. 468 del 1997, e successive modifiche, e al decreto interministeriale 21 maggio 1998 in quanto compatibili con le disposizioni del presente decreto legislativo. In particolare sono abrogate le seguenti disposizioni del decreto legislativo n. 468/1997:
+
+                        
+                        
+                            a)
+                            
+                                articolo 1, comma 2, lettere a),
+                            
+                        
+                        
+                            b)
+                            
+                                e c), comma 3, comma 4 e comma 6;
+b) articolo 2, commi 2, 4, 6, 7 e 8;
+                            
+                        
+                        
+                            c)
+                            
+                                articolo 3, commi 2 e 3;
+                            
+                        
+                        
+                            d)
+                            
+                                articolo 4;
+                            
+                        
+                        
+                            e)
+                            
+                                articolo 5;
+                            
+                        
+                        
+                            f)
+                            
+                                articolo 6;
+                            
+                        
+                        
+                            g)
+                            
+                                articolo 9;
+                            
+                        
+                        
+                            h)
+                            
+                                articolo 11.
 
 ---------------
                         AGGIORNAMENTO (1)

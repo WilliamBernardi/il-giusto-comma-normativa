@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-12-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,80 @@ Dalla data di cui al comma 1, gli adempimenti in materia di riscossione, contabi
                              Il D. Lgs. 18 dicembre 1997, n. 463, come modificato dall'Errata Corrige in G.U. 22/01/1998, n.17 ha disposto (con l'art. 3, comma 1) che "In deroga all'articolo 1 del decreto legislativo 9 luglio 1997, n. 237, i servizi di cassa degli uffici del dipartimento del territorio continuano ad operare fino alla predetta data."
 
 ## Art. 2. — Definizione di entrate
+
+1.
+                        
+                            
+                                Ai soli effetti del presente decreto, per entrate si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    le tasse e imposte indirette e relativi accessori e sanzioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i canoni, proventi e relativi accessori, derivanti dalla utilizzazione di beni del demanio pubblico e del patrimonio indisponibile dello Stato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le somme dovute per l'utilizzazione, anche senza titolo, dei beni demaniali e patrimoniali dello Stato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le entrate patrimoniali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le entrate del Tesoro e delle altre amministrazioni dello Stato per le quali singole disposizioni ne prevedono il versamento ad un ufficio finanziario;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le tasse e le entrate demaniali eventuali e diverse;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le sanzioni inflitte dalle autorita' giudiziarie ed amministrative;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le tasse ipotecarie di cui alla tabella A allegata al testo unico delle disposizioni concernenti le imposte ipotecaria e catastale, approvato con decreto legislativo 31 ottobre 1990, n. 347, come sostituita dall'articolo 10, comma 12, del decreto - legge 20 giugno 1996, n. 323, convertito, con modificazioni, dalla legge 8 agosto 1996, n. 425;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i tributi speciali di cui alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 648, come modificata dal comma 13 dell'articolo 10 del citato decreto - legge n. 323 del 1996;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    tutte le altre somme a qualsiasi titolo riscosse dagli uffici finanziari di cui all'articolo 1 ((, comma 2)).
 
 ## - Capo II Adempimenti in materia di riscossione
 

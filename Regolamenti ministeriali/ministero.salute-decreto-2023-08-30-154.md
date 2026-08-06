@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2023-08-30;154
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,4 +37,33 @@ Acquisito il parere del Consiglio di Stato, espresso dalla Sezione Consultiva pe
 ## Art. 1.
 
 Modifiche al decreto del Ministro della sanita' 20 luglio 1989, n. 298 - Definizione dei criteri e metodologie per il calcolo del valore di mercato delle galline ovaiole
+
+1.
+                    
+                        
+                            Al decreto del Ministro della sanita' 20 luglio 1989, n. 298, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    all'articolo 2, dopo il comma 2, e' aggiunto il seguente: 
+ «2-bis. Per il calcolo del valore di mercato degli animali della specie avicola del genere "Gallus" destinati alla produzione di uova da consumo si applicano i criteri, le metodologie e le tabelle riportati all'allegato 5, lettera A-bis).»:
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    all'articolo 6, dopo il comma 3, e' inserito il seguente: 
+ «3-bis. Ai fini della corresponsione dell'indennita' riservata agli allevamenti biologici, la regione competente verifica che il beneficiario sia inserito nell'elenco pubblico degli operatori dell'agricoltura e dell'acquacoltura biologiche, istituito ai sensi dell'articolo 7, comma 4, della legge 28 luglio 2016, n. 154, sulla base delle informazioni contenute nel Sistema informativo per il biologico (SIB).»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                all'allegato 5, dopo la lettera A), e' inserita la lettera A-bis), di cui all'allegato al presente decreto.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2013-04-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,31 @@ Destinatari degli interventi di cui al presente regolamento (di seguito: «benef
 
 ## Art. 2. — Requisiti e condizioni per l'accesso alle agevolazioni
 
+1.
+                    
+                        
+                            Per accedere alle agevolazioni i beneficiari devono essere in possesso, alla data di presentazione della domanda, dei seguenti requisiti soggettivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                titolo di proprieta' sull'immobile oggetto del contratto di mutuo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                titolarita' di un mutuo di importo erogato non superiore a 250 mila euro, in ammortamento da almeno un anno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                indicatore della situazione economica equivalente (ISEE) non superiore a 30 mila euro.
+
 L'immobile non deve rientrare nelle categorie catastali A/1, A/8 e A/9, non deve avere le caratteristiche di lusso indicate nel decreto del Ministero dei lavori pubblici in data 2 agosto 1969 e deve costituire l'abitazione principale del beneficiario alla data di presentazione della domanda.
 
 ((3. L'ammissione al beneficio e' subordinata esclusivamente all'accadimento di almeno uno dei seguenti eventi riferiti alla persona del beneficiario, intervenuti successivamente alla stipula del contratto di mutuo e verificatisi nei tre anni antecedenti alla richiesta di ammissione al beneficio:
@@ -42,6 +67,31 @@ c) morte o riconoscimento di handicap grave, ai sensi dell'articolo 3, comma 3 d
  In caso di mutuo cointestato, gli eventi di cui al presente comma possono riferirsi anche ad uno solo dei mutuatari))
 
 ((
+
+4.
+                    
+                        
+                            La sospensione del pagamento delle rate di mutuo si applica anche ai mutui: 
+ 
+                        
+                        
+                            a)
+                            
+                                oggetto di operazioni di emissione di obbligazioni bancarie garantite ovvero di cartolarizzazione ai sensi della legge 30 aprile 1999, n. 130; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                erogati per portabilita' tramite surroga ai sensi dell'articolo 120-quater del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385, che costituiscono mutui di nuova erogazione alla data di perfezionamento dell'operazione di surroga; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che hanno gia' fruito di altre misure di sospensione del pagamento delle rate purche' tali misure non determinino complessivamente una sospensione dell'ammortamento superiore a 18 mesi.
 
 ))
 
@@ -57,6 +107,57 @@ c) per i quali sia stata stipulata un'assicurazione a copertura del rischio che 
  Il Decreto 22 febbraio 2013, n. 37 ha disposto (con l'art. 3, comma 1) che "Le disposizioni contenute nel presente regolamento si applicano esclusivamente alla domande di accesso al Fondo presentate dopo l'entrata in vigore della legge 28 giugno 2012 n. 92".
 
 ## Art. 3. — Oggetto ed ammontare delle agevolazioni
+
+1.
+                    
+                        
+                            A fronte della sospensione del pagamento delle rate di mutuo sono rimborsati dal Fondo alle banche: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL DECRETO 22 FEBBRAIO 2013, N. 37)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli oneri finanziari pari alla quota interessi delle rate per le quali ha effetto la sospensione del pagamento da parte del mutuatario, corrispondente esclusivamente al parametro di riferimento del tasso di interesse applicato ai mutui e, pertanto, al netto della componente di maggiorazione (spread) sommata a tale parametro.
+
+2.
+                    
+                        
+                            Per parametro di riferimento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i mutui regolati a tasso variabile, l'Euribor di durata pari a quella usata nel contratto, ovvero in mancanza di parametrizzazione dei tassi all'Euribor, l'Euribor di durata pari alla periodicita' di pagamento delle rate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i mutui regolati a tasso fisso, il tasso IRS in euro riportato sulla pagina ISDAFIX 2 del circuito Reuters di durata pari alla durata residua del contratto di mutuo vigente al momento della sospensione dell'ammortamento ((ovvero, se non disponibile, la quotazione IRS riferita alla durata immediatamente superiore.)). 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i mutui con opzione di scelta di tasso tra fisso e variabile, il parametro di indicizzazione vigente al momento della presentazione della richiesta di sospensione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per i mutui con tassi con parametri in parte fissi ed in parte variabili, il parametro previsto dalla lettera a) per la quota regolata a tasso variabile ed il parametro previsto dalla lettera b) per la quota regolata a tasso fisso.
 
 ((
 
@@ -88,6 +189,56 @@ Alla domanda deve essere allegata, oltre all'attestazione ISEE rilasciata da un 
 Amministrazione responsabile dell'intervento pubblico e' il Ministero dell'economia e delle finanze, Dipartimento del tesoro (di seguito: «Dipartimento»), presso il quale viene attivato l'apposito sito internet denominato www.dt.tesoro.it/fondomutuiprimacasa, deputato a fornire informazioni per l'accesso al beneficio e a ricevere le comunicazioni delle banche circa le operazioni di sospensione effettuate.
 
 Il Fondo, dotato di personalita' giuridica, e' soggetto patrimoniale autonomo e separato.
+
+3.
+                    
+                        
+                            Il Dipartimento, per le operazioni relative alla gestione del Fondo, si avvale, ai sensi dell'articolo 19, comma 5, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, della prestazione di una societa' a capitale interamente pubblico (di seguito: «Gestore»), affidandole direttamente l'esecuzione delle seguenti attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                realizzazione e gestione del sito di cui al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esame della documentazione trasmessa dalle banche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rimborso alle banche dei costi e degli oneri finanziari di cui all'articolo 3; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esercizio dell'azione di recupero ai sensi dell'articolo 7.
+
+4.
+                    
+                        
+                            Per l'esecuzione delle attivita' di cui al comma 3 il Dipartimento emana un apposito disciplinare, da sottoscriversi per accettazione da parte del Gestore, con il quale vengono stabilite le modalita' di svolgimento del servizio e i relativi rapporti economici, nonche' le forme di vigilanza sull'attivita' del Gestore, tali da configurare un controllo analogo a quello che il Dipartimento esercita sui propri servizi. In particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Dipartimento esercita nei confronti del Gestore poteri di indirizzo, impartendo direttive ed istruzioni anche di carattere tecnico-operativo e puo' disporre ispezioni, anche al fine di verificare il corretto adempimento dei compiti demandati al Gestore medesimo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Gestore e' tenuto a fornire al Dipartimento tutti i dati e le informazioni concernenti la regolarita', la tempestivita', l'efficienza e l'efficacia del servizio, con la periodicita' richiesta dal Dipartimento.
 
 Alla copertura degli oneri finanziari derivanti dall'applicazione del predetto disciplinare si provvede a valere sulle risorse del Fondo, ai sensi dell'articolo 19, comma 5, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102.
 

@@ -8,8 +8,8 @@ codice_redazionale: 094G0011
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -90,6 +90,31 @@ Non sono soggetti ai limiti imposti dal presente regolamento i programmi promoss
 
 ## Art. 3. — Programmi sponsorizzati
 
+1.
+                    
+                        
+                            I programmi sponsorizzati devono rispondere ai seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                il contenuto e la programmazione di una trasmissione sponsorizzata non possono in nessun caso essere influenzati dallo sponsor in maniera tale da ledere la responsabilita' e l'autonomia editoriale dell'emittente nei confronti delle trasmissioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                essi devono essere chiaramente riconoscibili come programmi sponsorizzati e indicare il nome e/o il logotipo dello sponsor all'inizio e/o alla fine del programma;
+
+                            
+                        
+                        
+                            c)
+                            
+                                essi non devono stimolare all'acquisto o al noleggio dei prodotti o servizi dello sponsor o di un terzo, specialmente facendo riferimenti specifici di carattere promozionale a detti prodotti o servizi.
+
 ## Art. 4. — Forme della sponsorizzazione televisiva
 
 La sponsorizzazione di programmi televisivi puo' esprimersi esclusivamente negli inviti all'ascolto e nelle offerte di programma che precedono immediatamente il programma stesso nonche' nei ringraziamenti per l'ascolto o simili effettuati al termine del programma (c.d. "billboards"), accompagnati dalla sola citazione di nome e/o logotipo di una o piu' imprese, diverse dalla concessionaria, con esclusione di qualsiasi slogan pubblicitario e della presentazione di prodotti o servizi di queste.
@@ -115,6 +140,31 @@ Fatto salvo quanto precisato nell'art. 6, ogni forma di comunicazione promoziona
 
 ## Art. 6. — Coproduzioni; fornitori di beni e servizi
  avvenimenti, manifestazioni e spettacoli sponsorizzati
+
+1.
+                    
+                        
+                            Non si considera pubblicita':
+ 
+                        
+                        
+                            a)
+                            
+                                la semplice citazione visiva o acustica, nei titoli di testa e/o di coda di un programma, del nome o marchio delle imprese che abbiano contribuito alla realizzazione del programma stesso in veste di coproduttori, purche' a tale citazione non si accompagni, nell'ambito del programma, alcun tipo di comunicazione promozionale concernente il coproduttore e le imprese da esso rappresentate; si intende per coproduttore l'impresa, ancorche' non svolgente attivita' esclusiva o prevalente di produzione, distribuzione o diffusione di programmi audiovisivi o radiotelevisivi, che contribuisca al finanziamento di un programma radiofonico o televisivo a fronte della mera acquisizione di quote dei diritti di utilizzazione economica del programma coprodotto, dei diritti per particolari forme o aree geografiche di utilizzazione, ovvero della partecipazione ai relativi utili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la mera citazione visiva o acustica, nei titoli di testa o di coda di un programma, del nome o marchio delle imprese che, a titolo oneroso o gratuito, abbiano fornito beni o servizi utilizzati per la realizzazione del programma medesimo, purche' a tale citazione non si accompagni alcun tipo di comunicazione promozionale concernente i fornitori medesimi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la trasmissione di programmi di contenuto artistico, culturale, sportivo o comunque di intrattenimento o informazione, aventi ad oggetto la riproduzione di avvenimenti, manifestazioni o spettacoli, non dovuti ad iniziative della concessionaria e dei quali quest'ultima abbia acquisito i diritti di ripresa e/o trasmissione, ancorche' detti avvenimenti, manifestazioni o spettacoli risultino sponsorizzati in forza di accordi economici direttamente intercorsi fra i loro organizzatori ed una o piu' imprese ed a cui la concessionaria sia rimasta estranea; e' tuttavia considerata forma di pubblicita', ai fini dell'applicazione dell'art. 8 della legge 6 agosto 1990, n. 223, la citazione, in forma visiva o acustica, di nome, marchio, simboli attivita' o prodotti degli organizzatori e/o degli sponsor degli eventi anzidetti, nel corso della radiocronaca o telecronaca, ove tale citazione risulti ripetuta, non occasionale, tecnicamente non necessaria, e comunque evitabile senza pregiudizio per la regolare effettuazione della cronaca. Tale ultima regola trova applicazione anche nel caso in cui lo sponsor dell'evento sia il medesimo sponsor della trasmissione.
 
 ## Art. 7. — Telegiornali e notiziari politici
  economici e finanziari
@@ -156,6 +206,38 @@ Alle offerte fatte direttamente al pubblico tramite il mezzo radiofonico si appl
 
 ## Art. 12. — Spot, telepromozioni, citazioni; offerte fatte
  direttamente al pubblico: limiti di affollamento
+
+1.
+                    
+                        
+                            Ai fini dei commi 6, 7, 8 e 9 dell'art. 8 della legge 6 agosto 1990, n. 223, si intendono per messaggi pubblicitari:
+ 
+                        
+                        
+                            a)
+                            
+                                i messaggi trasmessi da un'impresa allo scopo di promuovere la fornitura, dietro compenso, di beni o servizi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fermo il rispetto di quanto previsto all'art. 13 del presente regolamento, l'esibizione di prodotti, la presentazione orale o visiva di beni, di servizi, del nome, del marchio o della attivita' di un produttore di beni o di un fornitore di servizi fatte dall'emittente (c.d. "telepromozioni"), allo scopo di cui alla lettera a), nell'ambito di un programma, anche se sponsorizzato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le citazioni non occasionali, non necessarie ed evitabili di cui alla lettera c) dell'art. 6 del presente regolamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ogni forma di comunicazione promozionale di cui al comma 5 dell'art. 4 ed al comma 4 dell'art. 5 del presente regolamento.
 
 Fermi restando i limiti di affollamento giornaliero e orario di cui al comma 7 dell'art. 8 della legge 6 agosto 1990, n. 223, il tempo dedicato dai concessionari privati per la radiodiffusione televisiva in ambito nazionale alle offerte di cui all'art. 10 del presente regolamento non deve superare il 5 per cento dell'orario giornaliero di programmazione nell'ambito del 20 per cento giornaliero previsto dal comma 9- bis dell'art. 8 della legge 6 agosto 1990, n. 223, aggiunto dal decreto-legge 19 ottobre 1992, n. 408, convertito dalla legge 17 dicembre 1992, n. 483.
 

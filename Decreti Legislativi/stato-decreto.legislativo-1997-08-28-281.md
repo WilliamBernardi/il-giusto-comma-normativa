@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2013-01-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -42,15 +42,132 @@ Ulteriori compiti e funzioni potranno essere attribuiti contestualmente alla def
 
 ## Art. 2. — C o m p i t i
 
+1.
+                        
+                            
+                                Al fine di garantire la partecipazione delle regioni e delle province autonome di Trento e di Bolzano a tutti i processi decisionali di interesse regionale, interregionale ed infraregionale, la Conferenza Stato - regioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    promuove e sancisce intese, ai sensi dell'articolo 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuove e sancisce accordi di cui all'articolo 4;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel rispetto delle competenze del Comitato interministeriale per la programmazione economica, promuove il coordinamento della programmazione statale e regionale ed il raccordo di quest'ultima con l'attivita' degli enti o soggetti, anche privati, che gestiscono funzioni o servizi di pubblico interesse aventi rilevanza nell'ambito territoriale delle regioni e delle province autonome di Trento e di Bolzano;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    acquisisce le designazioni dei rappresentanti delle regioni e delle province autonome di Trento e di Bolzano, nei casi previsti dalla legge;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicura lo scambio di dati ed informazioni tra il Governo, le regioni e le province autonome di Trento e di Bolzano secondo le modalita' di cui all'articolo 6;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fermo quanto previsto dagli statuti speciali e dalle relative norme di attuazione, determina, nei casi previsti dalla legge, i criteri di ripartizione delle risorse finanziarie che la legge assegna alle regioni e alle province autonome di Trento e di Bolzano, anche a fini di perequazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    adotta i provvedimenti che sono ad essa attribuiti dalla legge;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    formula inviti e proposte nei confronti di altri organi dello Stato, di enti pubblici o altri soggetti, anche privati, che gestiscono funzioni o servizi di pubblico interesse;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    nomina, nei casi previsti dalla legge, i responsabili di enti ed organismi che svolgono attivita' o prestano servizi strumentali all'esercizio di funzioni concorrenti tra Governo, regioni e province autonome di Trento e di Bolzano;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    approva gli schemi di convenzione tipo per l'utilizzo da parte dello Stato e delle regioni di uffici statali e regionali.
+
 Ferma la necessita' dell'assenso del Governo, l'assenso delle regioni e delle province autonome di Trento e di Bolzano per l'adozione degli atti di cui alle lettere f), g) ed i) del comma 1 e' espresso, quando non e' raggiunta l'unanimita', dalla maggioranza dei presidenti delle regioni e delle province autonome di Trento e di Bolzano, componenti la Conferenza Stato - regioni, o da assessori da essi delegati a rappresentarli nella singola seduta.
 
 La Conferenza Stato - regioni e' obbligatoriamente sentita in ordine agli schemi di disegni di legge e di decreto legislativo o di regolamento del Governo nelle materie di competenza delle regioni o delle province autonome di Trento e di Bolzano che si pronunzia entro venti giorni (( ;decorso tale termine, i provvedimenti recanti attuazione di direttive comunitarie sono emanati anche in mancanza di detto parere )). Resta fermo quanto previsto in ordine alle procedure di approvazione delle norme di attuazione degli statuti delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano.
 
 La Conferenza e' sentita su ogni oggetto di interesse regionale che il Presidente del Consiglio dei Ministri ritiene opportuno sottoporre al suo esame, anche su richiesta della Conferenza dei presidenti delle regioni e delle province autonome di Trento e di Bolzano.
 
+5.
+                        
+                            
+                                Quando il Presidente del Consiglio dei Ministri dichiara che ragioni di urgenza non consentono la consultazione preventiva, la Conferenza Stato - regioni e' consultata successivamente ed il Governo tiene conto dei suoi pareri:
+ 
+                            
+                            
+                                a)
+                                
+                                    in sede di esame parlamentare dei disegni di legge o delle leggi di conversione dei decretilegge;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in sede di esame definitivo degli schemi di decreto legislativo sottoposti al parere delle commissioni parlamentari.
+
 Quando il parere concerne provvedimenti gia' adottati in via definitiva, la Conferenza Stato - regioni puo' chiedere che il Governo lo valuti ai fini dell'eventuale revoca o riforma dei provvedimenti stessi.
 
 La Conferenza Stato - regioni valuta gli obiettivi conseguiti ed i risultati raggiunti, con riferimento agli atti di pianificazione e di programmazione in ordine ai quali si e' pronunciata.
+
+8.
+                        
+                            
+                                Con le modalita' di cui al comma 2 la Conferenza Stato - regioni delibera, altresi:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli indirizzi per l'uniforme applicazione dei percorsi diagnostici e terapeutici in ambito locale e le misure da adottare in caso di mancato rispetto dei protocolli relativi, ivi comprese le sanzioni a carico del sanitario che si discosti dal percorso diagnostico senza giustificato motivo, ai sensi dell'articolo 1, comma 28, della legge 23 dicembre 1996, n. 662;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i protocolli di intesa dei progetti di sperimentazione gestionali individuati, ai sensi dell'articolo 9-bis del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni ed integrazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti di competenza degli organismi a composizione mista Stato - regioni soppressi ai sensi dell'articolo 7.
 
 La Conferenza Stato - regioni esprime intesa sulla proposta, ai sensi dell'articolo 5, comma 3, del decreto legislativo 30 giugno 1993, n. 266, del Ministro della sanita' di nomina del direttore dell'Agenzia per i servizi sanitari regionali.
 
@@ -69,6 +186,17 @@ Governo, regioni e province autonome di Trento e di Bolzano, in attuazione del p
 Gli accordi si perfezionano con l'espressione dell'assenso del Governo e dei Presidenti delle regioni e delle province autonome di Trento e di Bolzano.
 
 ## Art. 5. — Rapporti tra regioni e Unione europea
+
+1.
+                        
+                            
+                                La Conferenza Stato - regioni, anche su richiesta delle regioni e delle province autonome di Trento e di Bolzano, si riunisce in apposita sessione almeno due volte all'anno al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    raccordare le linee della politica nazionale relativa all'elaborazione degli atti comunitari con le esigenze rappresentate dalle regioni e dalle province autonome di Trento e di Bolzano nelle materie di competenza di queste ultime;
 
 La Conferenza Stato - regioni designa i componenti regionali in seno alla rappresentanza permanente italiana presso l'Unione europea.
 Su richiesta dei Presidenti delle regioni e delle province autonome di Trento e di Bolzano e col consenso del Governo, la Conferenza Statoregioni esprime parere sugli schemi di atti amministrativi dello Stato che, nelle materie di competenza delle regioni o delle province autonome di Trento e di Bolzano, danno attuazione alle direttive comunitarie ed alle sentenze della Corte di giustizia delle comunita' europee.
@@ -106,9 +234,133 @@ La Conferenza unificata di cui al comma 1 e' convocata dal Presidente del Consig
 
 La Conferenza unificata assume deliberazioni, promuove e sancisce intese ed accordi, esprime pareri, designa rappresentanti in relazione alle materie ed ai compiti di interesse comune alle regioni, alle province, ai comuni e alle comunita' montane.
 
+2.
+                        
+                            
+                                La Conferenza unificata e' comunque competente in tutti i casi in cui regioni, province, comuni e comunita' montane ovvero la Conferenza Stato - regioni e la Conferenza Stato - citta' ed autonomie locali debbano esprimersi su un medesimo oggetto. In particolare la Conferenza unificata:
+ 
+                            
+                            
+                                a)
+                                
+                                    esprime parere:
+ 1) sul disegno di legge finanziaria e sui disegni di legge collegati;
+ 2) sul documento di programmazione economica e finanziaria;
+ 3) sugli schemi di decreto legislativo adottati in base all'articolo 1 della legge 15 marzo 1997, n. 59;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuove e sancisce intese tra Governo, regioni, province, comuni e comunita' montane. Nel caso di mancata intesa o di urgenza si applicano le disposizioni di cui all'articolo 3, commi 3 e 4;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuove e sancisce accordi tra Governo, regioni, province, comuni e comunita' montane, al fine di coordinare l'esercizio delle rispettive competenze e svolgere in collaborazione attivita' di interesse comune;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    acquisisce le designazioni dei rappresentanti delle autonomie locali indicati, rispettivamente, dai presidenti delle regioni e province autonome di Trento e di Bolzano, dall'ANCI, dall'UPI e dall'UNCEM nei casi previsti dalla legge;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicura lo scambio di dati e informazioni tra Governo, regioni, province, comuni e comunita' montane nei casi di sua competenza, anche attraverso l'approvazione di protocolli di intesa tra le amministrazioni centrali e locali secondo le modalita' di cui all'articolo 6;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' consultata sulle linee generali delle politiche del personale pubblico e sui processi di riorganizzazione e mobilita' del personale connessi al conferimento di funzioni e compiti alle regioni ed agli enti locali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esprime gli indirizzi per l'attivita' dell'Agenzia per i servizi sanitari regionali.
+
 Il Presidente del Consiglio dei Ministri puo' sottoporre alla Conferenza unificata, anche su richiesta delle autonomie regionali e locali, ogni altro oggetto di preminente interesse comune delle regioni, delle province, dei comuni e delle comunita' montane.
 
 Ferma restando la necessita' dell'assenso del Governo per l'adozione delle deliberazioni di competenza della Conferenza unificata, l'assenso delle regioni, delle province, dei comuni e delle comunita' montane e' assunto con il consenso distinto dei membri dei due gruppi delle autonomie che compongono, rispettivamente, la Conferenza Stato - regioni e la Conferenza Stato - citta' ed autonomie locali. L'assenso e' espresso di regola all'unanimita' dei membri dei due predetti gruppi. Ove questa non sia raggiunta l'assenso e' espresso dalla maggioranza dei rappresentanti di ciascuno dei due gruppi.
+
+5.
+                        
+                            
+                                La Conferenza Stato - citta' ed autonomie locali ha compiti di:
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinamento nei rapporti tra lo Stato e le autonomie locali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    studio, informazione e confronto nelle problematiche connesse agli indirizzi di politica generale che possono incidere sulle funzioni proprie o delegate di province e comuni e comunita' montane.
+
+6.
+                        
+                            
+                                La Conferenza Stato - citta' ed autonomie locali, in particolare, e' sede di discussione ed esame:
+ 
+                            
+                            
+                                a)
+                                
+                                    dei problemi relativi all'ordinamento ed al funzionamento degli enti locali, compresi gli aspetti relativi alle politiche finanziarie e di bilancio, alle risorse umane e strumentali, nonche' delle iniziative legislative e degli atti generali di governo a cio' attinenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei problemi relativi alle attivita' di gestione ed erogazione dei servizi pubblici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di ogni altro problema connesso con gli scopi di cui al presente comma che venga sottoposto, anche su richiesta del Presidente dell'ANCI, dell'UPI e dell'UNCEM, al parere della Conferenza dal Presidente del Consiglio dei Ministri o dal Presidente delegato.
+
+7.
+                        
+                            
+                                La Conferenza Stato - citta' ed autonomie locali ha inoltre il compito di favorire:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'informazione e le iniziative per il miglioramento dell'efficienza dei servizi pubblici locali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la promozione di accordi o contratti di programma ai sensi dell'articolo 12 della legge 23 dicembre 1992, n. 498;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le attivita' relative alla organizzazione di manifestazioni che coinvolgono piu' comuni o province da celebrare in ambito nazionale.
 
 ## Art. 10. — Segreteria
 

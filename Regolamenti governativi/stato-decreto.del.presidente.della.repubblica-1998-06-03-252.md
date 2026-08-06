@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2012-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,45 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 Le disposizioni del presente regolamento disciplinano le modalita' con le quali le pubbliche amministrazioni e gli enti pubblici, gli enti e le aziende vigilati dallo Stato o da altro ente pubblico e le societa' o imprese comunque controllate dallo Stato o da altro ente pubblico, nonche' i concessionari di opere pubbliche possono acquisire la prescritta documentazione circa la sussistenza di una delle cause di decadenza, di divieto o di sospensione di cui all'articolo 10 della legge 31 maggio 1965, n. 575, e dei tentativi di infiltrazione mafiosa di cui all'articolo 4 del decreto legislativo 8 agosto 1994, n. 490.
 
+2.
+                        
+                            
+                                La documentazione di cui al comma 1 non e' comunque richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i rapporti fra i soggetti pubblici di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i rapporti fra i soggetti pubblici di cui alla lettera a) ed altri soggetti, anche privati, i cui organi rappresentativi e quelli aventi funzioni di amministrazione e di controllo sono sottoposti, per disposizione di legge o di regolamento, alla verifica di particolari requisiti di onorabilita' tali da escludere la sussistenza di una delle cause di sospensione, di decadenza o di divieto previste dall'articolo 10 della legge 31 maggio 1965, n. 575; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il rilascio o rinnovo delle autorizzazioni o licenze di polizia di competenza delle autorita' nazionali e provinciali di pubblica sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la stipulazione o approvazione di contratti e per la concessione di erogazioni a favore di chi esercita attivita' agricole o professionali, non organizzate in forma di impresa, nonche' a favore di chi esercita attivita' artigiana in forma di impresa individuale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i provvedimenti gli atti, i contratti e le erogazioni il cui valore complessivo non supera i 300 milioni di lire. (2) ((4))
+
 ------------
                             AGGIORNAMENTO (2)
                             
@@ -51,6 +90,52 @@ Le disposizioni del presente regolamento disciplinano le modalita' con le quali 
 La documentazione prevista dal presente regolamento e' utilizzabile per un periodo di sei mesi dalla data del rilascio, anche per altri procedimenti riguardanti i medesimi soggetti. E' consentito all'interessato di utilizzare la comunicazione di cui all'articolo 3, in corso di validita' conseguita per altro procedimento, anche in copia autentica.
 
 I soggetti di cui all'articolo 1, comma 1, d'ora in avanti indicati come "amministrazioni", che acquisiscono la documentazione prevista dal presente regolamento, di data non anteriore a sei mesi, adottano ilprovvedimento richiesto e gli atti conseguenti o esecutivi, compresi i pagamenti, anche se il provvedimento o gli atti sono perfezionati o eseguiti in data successiva alla scadenza di validita' della predetta documentazione.
+
+3.
+                        
+                            
+                                Quando si tratta di associazioni, imprese, societa' e consorzi, la documentazione prevista dal presente regolamento deve riferirsi, oltre che all'interessato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle societa'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le societa' di capitali anche consortili ai sensi dell'articolo 2615-ter del codice civile, per le societa' cooperative, di consorzi cooperativi, per i consorzi di cui al libro V, titolo X, capo II, sezione II, del codice civile, al legale rappresentante e agli eventuali altri componenti l'organo di amministrazione, nonche' a ciascuno dei consorziati che nei consorzi e nelle societa' consortili detenga una partecipazione superiore al 10 per cento, ed ai soci o consorziati per conto dei quali le societa' consortili o i consorzi operino in modo esclusivo nei confronti della pubblica amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i consorzi di cui all'articolo 2602 del codice civile, a chi ne ha la rappresentanza e agli imprenditori o societa' consorziate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le societa' in nome collettivo, a tutti i soci; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le societa' in accomandita semplice, ai soci accomandatari; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per le societa' di cui all'articolo 2506 del codice civile, a coloro che le rappresentano stabilmente nel territorio dello Stato.
 
 Per le societa' di capitali di cui al comma 3, lettera b), concessionarie nel settore dei giochi pubblici, la documentazione prevista dal presente regolamento deve riferirsi, oltre ai soggetti indicati nello stesso comma 3, lett. b), anche ai soci persone fisiche che detengono, anche indirettamente, una partecipazione al capitale od al patrimonio superiore al 2 per cento, nonche' ai direttori generali e ai soggetti responsabili delle sedi secondarie o delle stabili organizzazioni in Italia di soggetti non residenti.
 Nell'ipotesi in cui i soci persone fisiche detengano la partecipazione superiore alla predetta soglia mediante altre societa' di capitali, la documentazione deve riferirsi anche al legale rappresentante e agli eventuali componenti dell'organo di amministrazione della societa' socia, alle persone fisiche che, direttamente o indirettamente, controllano tale societa', nonche' ai direttori generali e ai soggetti responsabili delle sedi secondarie o delle stabili organizzazioni in Italia di soggetti non residenti. La documentazione di cui al periodo precedente deve riferirsi anche al coniuge non separato. (1) (2) ((4))
@@ -75,6 +160,24 @@ Nell'ipotesi in cui i soci persone fisiche detengano la partecipazione superiore
 
 ## Art. 3. — Comunicazioni per iscritto
 
+1.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 1, la documentazione circa la sussistenza di una delle cause di decadenza, di sospensione o di divieto di cui all'articolo 10 della legge 31 maggio 1965, n. 575, su richiesta nominativa della stessa amministrazione, anche per elenchi, e' effettuata mediante comunicazione scritta della prefettura della provincia in cui l'amministrazione ha sede, ovvero, se richiesta dai soggetti privati interessati, dalla prefettura della provincia in cui gli stessi risiedono o hanno sede, soltanto quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i collegamenti informatici o telematici di cui all'articolo 4 non sono attivati o non sono comunque operanti, ovvero l'attestazione risultante richiede la conferma scritta della prefettura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il certificato rilasciato dalla camera di commercio, industria, artigianato e agricoltura, e' privo della dicitura antimafia di cui all'articolo 9.
+
 La richiesta da parte dei soggetti privati interessati, corredata della documentazione di cui all'articolo 10, comma 3, ancorche' priva della dicitura di cui all'articolo 9, ovvero della documentazione di cui all'articolo 10, comma 4, e' ammessa previa informativa all'amministrazione procedente e puo' essere effettuata da persona delegata. La delega puo' indicare anche la persona incaricata del ritiro ed e' sempre effettuata con atto recante sottoscrizione autenticata. La delega deve essere esibita, unitamente ad un documento di identificazione, sia all'atto della richiesta, che all'atto del ritiro. Nel caso di ritiro a mezzo di persona delegata, la comunicazione e' rilasciata in busta chiusa a nome del richiedente.
 
 La comunicazione e' rilasciata entro quindici giorni dal ricevimento della richiesta. (2) ((4))
@@ -93,6 +196,24 @@ La comunicazione e' rilasciata entro quindici giorni dal ricevimento della richi
 
 ## Art. 4. — Comunicazioni in via telematica
 
+1.
+                        
+                            
+                                La documentazione circa la sussistenza delle cause di sospensione, di divieto o di decadenza previste dall'articolo 10 della legge 31 maggio 1965, n. 575, puo' essere conseguita mediante l'utilizzazione di collegamenti informatici o telematici tra le amministrazioni interessate ed una o piu' prefetture dotate di specifico archivio automatizzato, attivati sulla base di convenzioni approvate dal Ministero dell'interno, in modo da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attestare con strumenti automatizzati l'inesistenza delle predette cause interdittive, allo scopo di conseguire risultati equivalenti alle comunicazioni di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rendere accessibili alle prefetture competenti le segnalazioni relative alle attestazioni prodotte.
+
 Nessun provvedimento di diniego o altrimenti sfavorevole all'interessato puo' essere adottato o eseguito sulla base delle segnalazioni trasmesse a norma del comma 1 senza specifica comunicazione di conferma da effettuarsi, a cura della prefettura competente, anche mediante elenchi cumulativi, entro quindici giorni dalla richiesta nominativa. (2) ((4))
 
 -------------
@@ -110,6 +231,24 @@ Nessun provvedimento di diniego o altrimenti sfavorevole all'interessato puo' es
 ## Art. 5. — Autocertificazione
 
 Fuori dei casi previsti dall'articolo 10, i contratti e subcontratti relativi a lavori o forniture dichiarati urgenti ed i provvedimenti di rinnovo conseguenti a provvedimenti gia' disposti, sono stipulati, autorizzati o adottati previa acquisizione di apposita dichiarazione con la quale l'interessato attesti che nei propri confronti non sussistono le cause di divieto, di decadenza o di sospensione di cui all'articolo 10 della legge 31 maggio 1965, n. 575. La sottoscrizione della dichiarazione deve essere autenticata con le modalita' dell'articolo 20 della legge 4 gennaio 1968, n. 15.
+
+2.
+                        
+                            
+                                La predetta dichiarazione e' resa dall'interessato anche quando gli atti e i provvedimenti della pubblica amministrazione riguardano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' private, sottoposte a regime autorizzatorio, che possono essere intraprese su denuncia di inizio da parte del privato alla pubblica amministrazione competente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' private sottoposte alla disciplina del silenzioassenso, indicate nella tabella C annessa al regolamento approvato con decreto del Presidente della Repubblica 26 aprile 1992, n. 300, e successive modificazioni e integrazioni. (2) ((4))
 
 -------------
                             AGGIORNAMENTO (2)
@@ -157,6 +296,45 @@ Il sistema informativo delle camere di commercio e' quello di cui agli articoli 
 
 Per le finalita' di cui al comma 1, il centro elaborazione dati di cui all'articolo 8 della legge 1 aprile 1981, n. 121, d'ora in avanti indicato come C.E.D., costituisce un apposito archivio informatico contenente l'elenco delle persone alle quali sono stati comminati i provvedimenti di cui all'articolo 10 della legge 31 maggio 1965, n. 575.
 
+4.
+                        
+                            
+                                Per ciascuna persona sono inseriti nell'archivio informatico i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome e nome; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    data e provincia di nascita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cittadinanza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comune di residenza.
+
 Il C.E.D. garantisce la completezza e l'aggiornamento costante dell'archivio.
 
 Il C.E.D. rende accessibile, con modalita' telematica, l'archivio di cui al comma 3 al sistema informativo messo a disposizione della prefettura di Roma e, per il tramite di questo, a quello delle camere di commercio per l'effettuazione di interrogazioni nominative o per l'acquisizione delle comunicazioni previste dagli articoli 3 e 4. (2) ((4))
@@ -178,6 +356,24 @@ Il C.E.D. rende accessibile, con modalita' telematica, l'archivio di cui al comm
 L'interrogazione nominativa di cui all'articolo 7, comma 6, e' effettuata da dipendenti delle camere di commercio addetti alle certificazioni e attestazioni previste dal presente regolamento, appositamente abilitati dal responsabile del procedimento individuato in base alle norme organizzative delle singole camere di commercio.
 
 Il sistema di collegamento deve garantire la individuazione del dipendente che effettua ciascuna interrogazione.
+
+3.
+                        
+                            
+                                Il sistema informativo delle camere di commercio garantisce che qualora l'interrogazione nominativa di cui all'articolo 7, comma 6, corrisponda ad una iscrizione presente nell'archivio informatico di cui all'articolo 7, comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia sospeso il rilascio del certificato relativo alle iscrizioni di cui all'articolo 10, comma 1, lettere d) ed e), della legge 31 maggio 1965, n. 575; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia consentito il rilascio del certificato relativo all'iscrizione nel registro delle imprese o ad altre iscrizioni diverse da quelle indicate nella lettera a), privo della dicitura di cui all'articolo 9.
 
 Il sistema informativo delle camere di commercio garantisce, altresi', qualora l'interrogazione nominativa di cui all'articolo 7, comma 6, risulti negativa, che venga automaticamente inserita nel testo della certificazione o attestazione richiesta la apposita dicitura di cui all'articolo 9. In ogni caso, le camere di commercio possono rilasciare le certificazioni e le attestazioni di cui al presente decreto prive della predetta dicitura quando l'interessato ne faccia espressa richiesta.
 
@@ -223,6 +419,31 @@ Con lo stesso decreto sono altresi' stabiliti i modelli di certificazione previs
 
 ## Art. 10. — Informazioni del prefetto
 
+1.
+                        
+                            
+                                Salvo quanto previsto dall'articolo 1, ed in deroga alle disposizioni dell'articolo 4 del decreto legislativo 8 agosto 1994, n. 490, fatto salvo il divieto di frazionamento di cui al comma 2 del predetto articolo, le pubbliche amministrazioni, gli enti pubblici e gli altri soggetti di cui all'articolo 1, devono acquisire le informazioni di cui al comma 2 del presente articolo, prima di stipulare, approvare o autorizzare i contratti e subcontratti, ovvero prima di rilasciare o consentire le concessioni o erogazioni indicati nell'articolo 10 della legge 31 maggio 1965, n. 575, il cui valore sia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pari o superiore a quello determinato dalla legge in attuazione delle direttive comunitarie in materia di opere e lavori pubblici, servizi pubblici e pubbliche forniture, indipendentemente dai casi di esclusione ivi indicati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    superiore a 300 milioni di lire per le concessioni di acque pubbliche o di beni demaniali per lo svolgimento di attivita' imprenditoriali, ovvero per la concessione di contributi, finanziamenti e agevolazioni su mutuo o altre erogazioni dello stesso tipo per lo svolgimento di attivita' imprenditoriali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    superiore a 300 milioni di lire per l'autorizzazione di subcontratti, cessioni o cottimi, concernenti la realizzazione di opere o lavori pubblici o la prestazione di servizi o forniture pubbliche.
+
 Quando, a seguito delle verifiche disposte dal prefetto, emergono elementi relativi a tentativi di infiltrazione mafiosa nelle societa' o imprese interessate, le amministrazioni cui sono fornite le relative informazioni, non possono stipulare, approvare o autorizzare i contratti o subcontratti, ne' autorizzare, rilasciare o comunque consentire le concessioni e le erogazioni.
 
 Le informazioni del prefetto, sono richieste dall'amministrazione interessata, indicando l'oggetto e il valore del contratto, subcontratto, concessione o erogazione ed allegando, esclusivamente, copia del certificato di iscrizione dell'impresa presso la camera di commercio, industria, artigianato e agricoltura corredato della apposita dicitura antimafia. Nel caso di societa' consortili o di consorzi, il certificato e' integrato con la indicazione dei consorziati che detengono una quota superiore al 10% del capitale o del fondo consortile, nonche' dei consorziati per conto dei quali la societa' consortile o il consorzio opera in modo esclusivo nei confronti della pubblica amministrazione. Per le imprese di costruzioni il certificato e' integrato con l'indicazione del direttore tecnico.
@@ -232,6 +453,31 @@ In luogo o ad integrazione del certificato di cui al comma 3 puo' essere allegat
 Ai fini di cui ai commi 1 e 2, la richiesta di informazioni e' inoltrata al prefetto della provincia nella quale hanno residenza o sede le persone fisiche, le imprese, le associazioni, le societa' o i consorzi interessati ai contratti e subcontratti di cui al comma 1, lettere a) e c), o che siano destinatari degli atti di concessione o erogazione di cui alla lettera b) dello stesso comma 1.
 
 La richiesta puo' essere effettuata anche dal soggetto privato interessato o da persona da questi specificamente delegata, previa comunicazione all'amministrazione destinataria di voler procedere direttamente a tale adempimento. La delega deve risultare da atto recante sottoscrizione autenticata e deve essere esibita unitamente ad un documento di identificazione personale. In ogni caso la prefettura fa pervenire le informazioni direttamente all'amministrazione indicata dal richiedente.
+
+7.
+                        
+                            
+                                Ai fini di cui al comma 2 le situazioni relative ai tentativi di infiltrazione mafiosa sono desunte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dai provvedimenti che dispongono una misura cautelare o il giudizio, ovvero che recano una condanna anche non definitiva per taluno dei delitti di cui agli articoli 629, 644, 648-bis, e 648-ter del codice penale, o dall'articolo 51, comma 3-bis, del codice di procedura penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla proposta o dal provvedimento di applicazione di taluna delle misure di cui agli articoli 2-bis, 2-ter, 3-bis e 3-quater della legge 31 maggio 1965, n. 575; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dagli accertamenti disposti dal prefetto anche avvalendosi dei poteri di accesso e di accertamento delegati dal Ministro dell'interno, ovvero richiesti ai prefetti competenti per quelli da effettuarsi in altra provincia.
 
 La prefettura competente estende gli accertamenti pure ai soggetti, residenti nel territorio dello Stato, che risultano poter determinare in qualsiasi modo le scelte o gli indirizzi dell'impresa e, anche sulla documentata richiesta dell'interessato, aggiorna l'esito delle informazioni al venir meno delle circostanze rilevanti ai fini dell'accertamento dei tentativi di infiltrazione mafiosa.
 
@@ -294,6 +540,31 @@ Il prefetto della provincia interessata all'esecuzione delle opere e dei lavori 
  - (con l'art. 120, comma 2, lettera b)) che a decorrere dalla data di cui all'articolo 119, comma 1 del medesimo decreto e' abrogato il D.lgs. 8 agosto 1994, n. 490.
 
 ## Art. 13. — Abrogazioni
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, e dell'articolo 17, comma 94, della legge 15 maggio 1997, n. 127, dalla data di entrata in vigore del presente regolamento si intendono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Ministro dell'interno, di concerto con il Ministro di grazia e giustizia e con il Ministro dell'industria, del commercio e dell'artigianato, 16 dicembre 1997, n. 486; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 2, 3 e 5 del decreto legislativo 8 agosto 1994, n. 490; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 5 della legge 17 gennaio 1994, n. 47. (2) ((4))
 
 -------------
                             AGGIORNAMENTO (2)

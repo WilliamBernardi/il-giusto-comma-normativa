@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-01-06
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -60,7 +60,68 @@ I prodotti di cui all'articolo 1, comma 1, possono essere sottoposti ai trattame
 
 ((4))
 
+2.
+                    
+                        
+                            Si applicano le seguenti particolari disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                LETTERA SOPPRESSA DAL D.LGS. 19 FEBBRAIO 2014, N. 20; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le diciture "da concentrato", "da concentrati", "parzialmente da concentrato" o "parzialmente da concentrati" devono figurare nell'etichettatura delle miscele di succo di frutta e di succo di frutta ottenuto da concentrato e di nettare di frutta ottenuto interamente o parzialmente da concentrato immediatamente accanto alla denominazione di vendita, in evidenza rispetto all'intero contesto e a caratteri chiaramente visibili; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                
+                                    ((fatto salvo l'articolo 22 del regolamento (UE) n. 1169/2011, nel caso di miscugli di succo di frutta da concentrato o succo di frutta da concentrato a tasso ridotto di zuccheri con succo di frutta o con succo di frutta a tasso ridotto di zuccheri, nonche' di nettare di frutta ottenuti interamente o parzialmente a partire da uno o piu' concentrati, nell'etichettatura figura la dicitura "da concentrato/i" o "parzialmente da concentrato/i", a seconda dei casi.
+Questa dicitura figura immediatamente accanto alla denominazione di vendita, bene in evidenza rispetto all'intero contesto e a caratteri chiaramente visibili;))
+                                    ((4))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                il contenuto minimo di succo di frutta, di purea di frutta o della miscela di tali ingredienti deve rispettare i contenuti minimi di frutta di cui all'allegato IV e deve figurare nell'etichettatura dei nettari di frutta con la dicitura «frutta...% minimo», nello stesso campo visivo della denominazione di vendita.
+
 La ricomposizione dello stato d'origine, mediante sostanze a cio' strettamente necessarie, dei prodotti definiti nell'allegato I, punti 1 e 2, non comporta l'obbligo di indicare dette sostanze nell'elenco degli ingredienti. L'aggiunta di polpa e cellule ai succhi di frutta di cui all'allegato I deve figurare nell'etichettatura.
+
+4.
+                    
+                        
+                            L'etichettatura del succo di frutta concentrato di cui all'allegato I, punto 2, non destinato al consumatore finale, contiene un riferimento indicante la presenza e la quantita' di succo di limone o di limetta o di sostanze acidificanti aggiunti consentiti dal regolamento (CE) n. 1333/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo agli additivi alimentari.
+Tale menzione e' riportata: 
+ 
+                        
+                        
+                            a)
+                            
+                                sull'imballaggio, oppure; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                su un'etichetta apposta sull'imballaggio, oppure; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                su un documento di accompagnamento.
 
 Le denominazioni di vendita indicate all'allegato I sono riservate ai prodotti definiti nel medesimo allegato e sono utilizzate nel commercio per designare i prodotti stessi; in alternativa, e con i medesimi effetti e obblighi, possono essere utilizzate le denominazioni di cui all'allegato III, alle condizioni e nelle lingue ivi indicate.
 

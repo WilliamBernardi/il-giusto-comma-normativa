@@ -8,8 +8,8 @@ codice_redazionale: 001G0392
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:53Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,6 +44,31 @@ Sentita la Conferenza unificata, che si e' espressa ai sensi dell'articolo 88, c
 La ripartizione dei fondi finalizzati al finanziamento degli interventi in materia di difesa del suolo per il quadriennio 1998-2001 di cui al decreto del Presidente della Repubblica del 27 luglio 1999 e' sostituita per l'anno 2001 dalla ripartizione di cui all'allegata tabella 1 costituente parte integrante del presente decreto, che ripartisce anche gli stanziamenti integrativi per l'anno 2000, di cui alla legge 23 dicembre 1999, n. 488, e gli stanziamenti per gli anni 2002 e 2003 di cui alla legge 23 dicembre 2000, n. 388.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            La somma di lire 542 miliardi, in conformita' al punto 1 della tabella 1 allegata, e' cosi' destinata:
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a lire 150 miliardi per l'anno 2001 agli interventi selezionati con delibera del 22 dicembre 2000 dal Comitato dei Ministri per i servizi tecnici nazionali e gli interventi nel settore della difesa del suolo ai sensi dell'articolo 1, comma 1, del decreto del Presidente della Repubblica 27 luglio 1999;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a lire 158 miliardi, di cui lire 25 miliardi per l'anno 2000, lire 63 miliardi per l'anno 2001 e lire 70 miliardi per l'anno 2002, agli interventi selezionati con il provvedimento citato riportati nella tabella 2 allegata, costituente parte integrante del presente decreto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a lire 234 miliardi, di cui 80 miliardi per l'anno 2002 e lire 154 miliardi per l'anno 2003 al finanziamento di ulteriori interventi inseriti in programmi che rilevino le criticita' del bacino idrografico nell'ambito dei settori della difesa delle coste e del dissesto idrogeologico o della rete idrografica, che interessino i centri urbani, elaborati dai comitati tecnici delle autorita' di bacino ed approvati dai comitati istituzionali, per i bacini di rilievo nazionale e interregionale, o dal competente organo regionale, per i rimanenti bacini.
 
 Le proposte di intervento di cui al comma 1, lettera c), di importo non inferiore a lire cinque miliardi, sono trasmesse dalle autorita' di bacino, per i bacini di rilievo nazionale e interregionale, o dalle regioni, per i rimanenti bacini, al Ministero dei lavori pubblici entro il termine di centoventi giorni dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale. Le proposte debbono essere presentate in conformita' ai modelli di cui alle allegate schede A, B e C, che costituiscono parte integrante del presente decreto.
 

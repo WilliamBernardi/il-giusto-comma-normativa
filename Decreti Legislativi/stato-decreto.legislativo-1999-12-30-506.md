@@ -8,8 +8,8 @@ codice_redazionale: 099G0582
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,87 @@ Acquisito il parere della Commissione parlamentare istituita a norma dell'artico
 Sulla proposta del Ministro delle finanze, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e dell'interno;
 
 ## Art. 1. — Modifiche al decreto legislativo 15 dicembre 1997, n. 446, in materia di imposta regionale sulle attivita' produttive, nonche' di disciplina dei tributi locali
+
+1.
+                    
+                        
+                            Al decreto legislativo 15 dicembre 1997, n. 446, concernente l'istituzione dell'imposta regionale sulle attivita' produttive, revisione degli scaglioni, delle aliquote e delle detrazioni dell'Irpef e l'istituzione di una addizionale regionale a tale imposta, nonche' riordino della disciplina dei tributi locali, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 3, comma 1, la lettera e) e' sostituita dalle seguenti: "e) gli enti privati di cui all'articolo 87, comma 1, lettera c), del citato testo unico n. 917 del 1986, nonche' le societa' e gli enti di cui alla lettera d) dello stesso comma; 
+ e-bis) le Amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 3 febbraio del 1993, n. 29, nonche' le amministrazioni della Camera dei Deputati, del Senato, della Corte costituzionale, della Presidenza della Repubblica e gli organi legislativi delle regioni a statuto speciale;"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 4, comma 2, dopo le parole: "ai depositi in denaro e in titoli" sono aggiunte le seguenti: "verso la clientela"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 5 e' sostituito dal seguente: "Articolo 5 (Determinazione del valore della produzione netta dei soggetti di cui all'articolo 3, comma 1, lettere a) e b) 1. Per i soggetti di cui all'articolo 3, comma 1, lettere a) e b), non esercenti le attivita' di cui agli articoli 6 e 7, la base imponibile e' determinata dalla differenza tra la somma delle voci classificabili nel valore della produzione di cui al primo comma, lettera A), dell'articolo 2425 del codice civile e la somma di quelle classificabili nei costi della produzione di cui alla lettera B) del medesimo comma, ad esclusione delle perdite su crediti e delle spese per il personale dipendente.
+Detta disposizione opera anche per i soggetti non tenuti all'applicazione del citato articolo 2425."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 6, sono apportate le seguenti modificazioni: 
+ 1) nel comma 1, lettera n), sono aggiunte le seguenti parole: "nonche' degli accantonamenti per rischi su crediti, compresi quelli per interessi di mora"; 
+ 2) nel comma 1-bis, le parole: "comma 1", sono soppresse; 
+ 3) dopo il comma 5, e' aggiunto il seguente: "5-bis. Per i soggetti di cui al presente articolo concorrono altresi' alla determinazione della base imponibile gli accantonamenti per la cessazione di rapporti di agenzia."; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nell'articolo 9, commi 2 e 3, le parole: "comma 2" sono soppresse; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'articolo 10, sono apportate le seguenti modificazioni: 
+ 1) nel comma 2, al primo periodo, le parole: "comma 2" sono soppresse e il secondo periodo e' sostituito dai seguenti: "La base imponibile relativa alle altre attivita' e' determinata a norma del precedente comma 1, ma l'ammontare degli emolumenti ivi indicati e' ridotto dell'importo di essi specificamente riferibile alle attivita' commerciali. Qualora gli emolumenti non siano specificamente riferibili alle attivita' commerciali, l'ammontare degli stessi e' ridotto di un importo imputabile alle attivita' commerciali in base al rapporto indicato nel primo periodo del presente comma."; 
+ 2) il comma 3 e' abrogato; 
+ 3) nel comma 4, la lettera c) e' abrogata; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo l'articolo 10 e' inserito il seguente: "Articolo 10-bis. (Determinazione del valore della produzione netta dei soggetti di cui all'articolo 3, comma 1, lettera e-bis) 1. Per i soggetti di cui all'articolo 3, comma 1, lettera e-bis), la base imponibile e' determinata in un importo pari all'ammontare delle retribuzioni erogate al personale dipendente, dei redditi assimilati a quelli di lavoro dipendente di cui all'articolo 47 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e dei compensi erogati per collaborazione coordinata e continuativa di cui all'articolo 49, comma 2, lettera a), nonche' per attivita' di lavoro autonomo non esercitate abitualmente di cui all'articolo 81, comma 1, lettera l), del citato testo unico. Sono escluse dalla base imponibile le somme di cui all'articolo 47, comma 1, lettera c), del medesimo testo unico esenti dall'imposta sul reddito delle persone fisiche attribuite fino al 31 dicembre 1999. Le disposizioni del presente articolo non si applicano ai soggetti indicati nel primo periodo qualificati ai fini delle imposte sui redditi quali enti commerciali in quanto aventi per oggetto esclusivo o principale l'esercizio di attivita' commerciale per i quali la base imponibile e' determinata secondo le disposizioni contenute negli articoli precedenti. 
+ 2. Se i soggetti di cui al comma 1 esercitano anche attivita' commerciali, gli stessi possono optare per la determinazione della base imponibile relativa a tali attivita' commerciali secondo le disposizioni dell'articolo 5, computando i costi deducibili ivi indicati non specificamente riferibili alle attivita' commerciali per un importo corrispondente al rapporto tra l'ammontare dei ricavi e degli altri proventi considerati dalla predetta disposizione e l'ammontare complessivo di tutte le entrate correnti. La base imponibile relativa alle altre attivita' e' determinata a norma del precedente comma 1, ma l'ammontare degli emolumenti ivi indicati e' ridotto dell'importo di essi specificamente riferibile alle attivita' commerciali. Qualora gli emolumenti non siano specificamente riferibili alle attivita' commerciali, l'ammontare degli stessi e' ridotto di un importo imputabile alle attivita' commerciali in base al rapporto indicato nel primo periodo del presente comma. Si considerano attivita' commerciali quelle rilevanti ai fini delle imposte sui redditi, ovvero, per i soggetti di cui all'articolo 88, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, esclusi dall'imposta sul reddito delle persone giuridiche, quelle rilevanti ai fini dell'imposta sul valore aggiunto."; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'articolo 11 e' sostituito dai seguenti: "Articolo 11 (Disposizioni comuni per la determinazione del valore della produzione netta) 1. Nella determinazione della base imponibile: 
+ a) sono ammessi in deduzione i contributi per le assicurazioni obbligatorie contro gli infortuni sul lavoro e le spese relative agli apprendisti, e, nei limiti del 70 per cento, le spese per il personale assunto con contratti di formazione lavoro; 
+ b) non sono ammessi in deduzione: 
+ 1) i costi relativi al personale classificabili nell'articolo 2425, primo comma, lettera B), numeri 9) e 14), del codice civile; 
+ 2) i compensi per prestazioni di lavoro autonomo non esercitate abitualmente di cui all'articolo 81, comma 1, lettera l), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e le indennita' e i rimborsi di cui alla lettera m) del predetto comma 1; 
+ 3) i costi per prestazioni di collaborazione coordinata e continuativa di cui all'articolo 49, commi 2, lettera a), e 3, del predetto testo unico delle imposte sui redditi; 
+ 4) i compensi per prestazioni di lavoro assimilato a quello dipendente ai sensi dell'articolo 47 dello stesso testo unico delle imposte sui redditi; 
+ 5) gli utili spettanti agli associati in partecipazione di cui alla lettera c) del predetto articolo 49, comma 2, del testo unico delle imposte sui redditi; 
+ 6) il canone relativo a contratti di locazione finanziaria limitatamente alla parte riferibile agli interessi passivi determinata secondo le modalita' di calcolo, anche forfetarie, stabilite con decreto del Ministro delle finanze. 
+ 2. Tra i costi di cui al comma 1, lettera b), vanno, in ogni caso, escluse le somme erogate a terzi per l'acquisizione di beni e di servizi destinati alla generalita' dei dipendenti e dei collaboratori e quelle erogate ai dipendenti e collaboratori medesimi a titolo di rimborso analitico di spese sostenute nel compimento delle loro mansioni lavorative. Gli importi spettanti a titolo di recupero di oneri di personale distaccato presso terzi non concorrono alla formazione della base imponibile. Nei confronti del soggetto che impiega il personale distaccato, tali importi si considerano costi relativi al personale non ammessi in deduzione ovvero concorrenti alla formazione della base imponibile ai sensi dell'articolo 10, comma 1, e dell'articolo 10-bis, comma 1. 
+ 3. Al fini della determinazione della base imponibile di cui agli articoli 5, 6 e 7 concorrono anche i proventi e gli oneri classificabili fra le voci diverse da quelle indicate in detti articoli, se correlati a componenti positivi e negativi del valore della produzione di periodi d'imposta precedenti o successivi e, in ogni caso, le plusvalenze e le minusvalenze relative a beni strumentali non derivanti da operazioni di trasferimento di azienda, nonche' i contributi erogati a norma di legge con esclusione di quelli correlati a componenti negativi non ammessi in deduzione. 
+ 4. Indipendentemente dalla collocazione nel conto economico, i componenti positivi e negativi sono accertati in ragione della loro corretta classificazione. 
+ Art. 11-bis. (Variazioni fiscali del valore della produzione netta): 1. I componenti positivi e negativi che concorrono alla formazione del valore della produzione, cosi' come determinati ai sensi degli articoli 5, 6, 7, 8 e 11, si assumono apportando ad essi le variazioni in aumento o in diminuzione previste ai fini delle imposte sui redditi. Tuttavia, non si applicano le disposizioni degli articoli 58, 63, e 75, commi 5, seconda parte, e 5-bis, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e dell'articolo 17, comma 4, del decreto legislativo 30 dicembre 1992, n. 504. Le erogazioni liberali, comprese quelle previste dall'articolo 65, comma 2, del predetto testo unico delle imposte sui redditi, non sono ammesse in deduzione.".
 
 Ai componenti indicati nel comma 1 vanno aggiunti i ricavi, le plusvalenze e gli altri componenti positivi di cui agli articoli 53, comma 2, 54, comma 1, lettera d), e 76, comma 5, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917."; 
  i) all'articolo 12, nel comma 1, le parole: "a 10", sono sostituite dalle seguenti: "a 10-bis"; 
@@ -66,4 +147,14 @@ Analoga riduzione, da operarsi sull'imposta indicata dalla tariffa approvata con
 All'articolo 13, comma 1, lettera c), del decreto legislativo 18 dicembre 1997, n. 472, le parole "trenta giorni" sono sostituite dalle seguenti: "novanta giorni".
 
 ## Art. 3. — Decorrenze particolari
+
+1.
+                    
+                        
+                            Le modificazioni apportate dall'articolo 1, comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto, ad eccezione di quelle recate dalla lettera l), numero 1), concernente l'articolo 16, comma 2, del decreto legislativo n. 446 del 1997, le quali si applicano a decorrere dal 1o gennaio 2000.
 

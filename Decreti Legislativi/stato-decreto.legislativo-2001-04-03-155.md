@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2008-05-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,30 @@ Sulla proposta del Ministro delle politiche agricole e forestali e del Ministro 
 
 ## Art. 1. — Istituzione del ruolo direttivo dei
  funzionari del Corpo forestale dello Stato
+
+1.
+                        
+                            
+                                Nell'ambito dei ruoli del personale del Corpo forestale dello Stato che espleta funzioni di polizia e' istituito, a decorrere dal 15 marzo 2001, quale articolazione della carriera dei funzionari del Corpo forestale dello Stato, il ruolo direttivo dei funzionari del Corpo forestale dello Stato corrispondente al ruolo dei commissari della Polizia di Stato articolato nelle seguenti qualifiche:
+
+                            
+                            
+                                a)
+                                
+                                    commissario forestale, limitatamente alla frequenza del corso di formazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    commissario capo forestale;
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        (( vice questore aggiunto forestale )).
 
 La relativa dotazione organica e' fissata nella tabella A allegata al presente decreto legislativo.
 
@@ -54,6 +78,46 @@ I commissari capo forestali ed i commissari superiori forestali provvedono, inol
 
 ## Art. 3. — (( Accesso alla carriera dei
  funzionari del Corpo forestale dello Stato ))
+
+1.
+                        
+                            
+                                
+                                    (( L'accesso alla carriera dei funzionari del Corpo forestale dello Stato, nella qualifica iniziale del ruolo direttivo dei funzionari del Corpo stesso )) avviene mediante concorso pubblico per esami, al quale possono partecipare i cittadini italiani che abbiano:
+
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore al limite stabilito con il regolamento
+ previsto
+dall'articolo 3, comma 6, della legge 15 maggio 1997, n. 127. Si prescinde da detto limite per il personale appartenente ad uno dei ruoli del Corpo forestale dello Stato;
+                                
+                            
+                            
+                                b)
+                                
+                                    il possesso di una delle lauree specialistiche conseguita sulla base di corsi di studio ad indirizzo giuridico-economico, tecnico e scientifico, da individuarsi, unitamente agli insegnamenti il cui superamento costituisce condizione per la partecipazione al concorso, con decreto del Ministro competente di concerto con il Ministro per la funzione pubblica e con il Ministro dell'istruzione, dell'universita' e della ricerca; 
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica ed attitudinale prevista dall'articolo 1, commi 2 e 4 della legge 7 giugno 1990, n. 149;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualita' morali e di condotta (( di cui all'articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165; ))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    gli altri requisiti generali per la partecipazione ai pubblici concorsi per l'accesso ai pubblici impieghi.
 
 Sono fatti salvi i diplomi di laurea in uno dei seguenti corsi: chimica, discipline statistiche, economia e commercio, giurisprudenza, ingegneria, medicina veterinaria, scienze agrarie, scienze biologiche, scienze forestali, scienze geologiche, scienze naturali e loro equipollenti rilasciati secondo l'ordinamento didattico vigente prima del suo adeguamento ai sensi dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127, e delle sue disposizioni attuative.
 
@@ -89,6 +153,45 @@ Ai frequentatori del corso si applicano le disposizioni di cui all'articolo 59, 
 
 ## Art. 5. — Dimissioni dal corso di formazione iniziale
 
+1.
+                        
+                            
+                                Sono dimessi dal corso di cui all'articolo 4 i commissari forestali che:
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarano di rinunciare al corso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengono il giudizio di idoneita' previsto al termine del primo ciclo del corso, nonche' il giudizio di idoneita' al servizio nel Corpo forestale dello Stato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non superano le prove, ovvero non conseguono, nei tempi stabiliti, tutti gli obiettivi formativi previsti per il primo ed il secondo ciclo del corso;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superano l'esame finale del corso;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono stati per qualsiasi motivo assenti dall'attivita' corsuale per piu' di novanta giorni anche se non consecutivi, ovvero di centottanta nel caso di assenza per infermita' contratta durante il corso, per infermita' dipendente da causa di servizio qualora si tratti di personale proveniente da altri ruoli del Corpo forestale dello Stato, ovvero per maternita'.
+
 I commissari forestali la cui assenza oltre i centottanta giorni e' stata determinata da infermita' contratta durante il corso, da infermita' dipendente da causa di servizio, ovvero da maternita', sono ammessi a partecipare al primo corso successivo al riconoscimento della loro idoneita' psico-fisica, ovvero successivo ai periodi di assenza previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 Sono espulsi dal corso i commissari forestali responsabili di infrazioni punibili con sanzioni disciplinari piu' gravi della riduzione dello stipendio per un periodo superiore ad un mese.
@@ -106,6 +209,29 @@ La promozione a ((vice questore aggiunto forestale)) si consegue, a ruolo aperto
 ## Art. 7. — Qualifiche del ruolo dei dirigenti
  del Corpo forestale dello Stato
 
+1.
+                        
+                            
+                                Il ruolo dei dirigenti del Corpo forestale dello Stato (( nell'ambito della carriera dei funzionari del Corpo forestale dello Stato )) e' articolato nelle seguenti qualifiche:
+
+                            
+                            
+                                a)
+                                
+                                    primo dirigente;
+                                
+                            
+                            
+                                b)
+                                
+                                    dirigente superiore;
+                                
+                            
+                            
+                                c)
+                                
+                                    dirigente generale capo del Corpo forestale dello Stato.
+
 La relativa dotazione organica e' fissata nella tabella B allegata al presente decreto in sostituzione del quadro D della tabella XI allegata al decreto del Presidente della Repubblica 30 giugno 1972, n. 748.
 
 La individuazione dell'unita' dirigenziale di livello generale del Corpo forestale dello Stato, che presiede anche all'amministrazione del relativo personale, e, nell'ambito della stessa, quella degli uffici di livello dirigenziale non generale centrali e periferici, nonche' la definizione dei relativi compiti e funzioni sono stabilite per la prima con regolamento e per le altre con decreti ministeriali di natura non regolamentare, ai sensi dell'articolo 17, comma 4-bis, rispettivamente lettera b) e lettera e), della legge 23 agosto 1988, n. 400, e successive modificazioni.
@@ -120,6 +246,23 @@ Il dirigente generale capo del Corpo forestale dello Stato e' nominato ai sensi 
 Al secondo periodo del secondo comma dell'articolo 18 della legge 1o aprile 1981, n. 121, sono aggiunte in fine le seguenti parole: "ed il dirigente generale capo del Corpo forestale dello Stato".
 
 ## Art. 8. — Nomina a primo dirigente
+
+1.
+                        
+                            
+                                L'accesso alla qualifica di primo dirigente del ruolo dei dirigenti del Corpo forestale dello Stato avviene:
+
+                            
+                            
+                                a)
+                                
+                                    nel limite dell'ottanta per cento dei posti disponibili al 31 dicembre di ogni anno, mediante scrutinio per merito comparativo e superamento del corso di formazione per l'accesso alla qualifica di primo dirigente della durata di tre mesi con esame finale. Allo scrutinio per merito comparativo e' ammesso il personale del ruolo direttivo dei funzionari del Corpo forestale dello Stato in possesso di qualifica non inferiore a quella di ((vice questore aggiunto forestale)) con almeno due anni di effettivo servizio nella qualifica;
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del restante venti per cento dei posti disponibili al 31 dicembre di ogni anno, mediante concorso per titoli ed esami riservato al personale del ruolo direttivo dei funzionari del Corpo forestale dello Stato, in possesso di una delle lauree indicate all'articolo 3, commi 1 e 2, che rivesta la qualifica non inferiore a quella di ((vice questore aggiunto forestale)) ovvero abbia maturato almeno cinque anni di effettivo servizio nella qualifica di commissario capo forestale.
 
 I posti non coperti del concorso di cui al comma 1, lettera b), sono portati in aumento a quelli riservati, nello stesso anno, per l'ammissione al corso di formazione per l'accesso alla qualifica di primo dirigente, di cui alla lettera a) del medesimo comma.
 
@@ -137,9 +280,55 @@ Gli appartenenti al ruolo direttivo dei funzionari del Corpo forestale dello Sta
 
 Il concorso per titoli ed esami di cui all'articolo 8, comma 1, lettera b), e' indetto annualmente con decreto del dirigente generale capo del Corpo forestale dello Stato da pubblicare nel bollettino ufficiale del Corpo forestale dello Stato.
 
+2.
+                        
+                            
+                                Gli esami sono diretti ad accertare l'attitudine del candidato a fornire soluzioni corrette sotto il profilo della legittimita', dell'efficacia, dell'efficienza e dell'economicita' dell'azione amministrativa e consistono in:
+
+                            
+                            
+                                a)
+                                
+                                    due prove scritte, di cui una di carattere professionale;
+                                
+                            
+                            
+                                b)
+                                
+                                    un colloquio volto a verificare, oltre al grado di preparazione professionale del candidato, anche la sua capacita' di sviluppo delle risorse umane ed organizzative assegnate agli uffici di livello dirigenziale.
+
 Il colloquio e le prove scritte non si intendono superati se il candidato abbia riportato una votazione inferiore a trentacinque cinquantesimi nel colloquio ed in ciascuna prova scritta.
 
 Il personale che per tre volte non sia stato compreso nella graduatoria degli idonei non e' ammesso a ripetere la prova concorsuale.
+
+5.
+                        
+                            
+                                Non e' ammesso al concorso il personale che, alla data del relativo bando, abbia riportato:
+
+                            
+                            
+                                a)
+                                
+                                    nei tre anni precedenti un giudizio complessivo inferiore a distinto;
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'anno precedente la sanzione disciplinare della riduzione dello stipendio fino ad un mese;
+                                
+                            
+                            
+                                c)
+                                
+                                    nei tre anni precedenti la sanzione disciplinare della riduzione dello stipendio per un periodo superiore ad un mese;
+                                
+                            
+                            
+                                d)
+                                
+                                    nei cinque anni precedenti la sanzione disciplinare della sospensione dalla qualifica.
 
 Le modalita' del concorso, le materie oggetto degli esami, le categorie dei titoli da ammettere a valutazione, il punteggio da attribuire a ciascuna categoria di titoli sono determinati con (( decreto del Ministro competente, di concerto con il Ministro per la funzione pubblica )), da emanare entro sei mesi dall'entrata in vigore del presente decreto.
 
@@ -176,6 +365,39 @@ Le disposizioni di cui al presente articolo si applicano a decorrere dall'anno 2
 ## Art. 12. — Istituzione del ruolo direttivo speciale
  del Corpo forestale dello Stato
 
+1.
+                        
+                            
+                                Nell'ambito dei ruoli del personale del Corpo forestale dello Stato, che espleta funzioni di polizia, e' istituito il ruolo direttivo speciale del Corpo forestale dello Stato corrispondente al ruolo direttivo speciale della Polizia di Stato articolato nelle seguenti qualifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    vice commissario forestale del ruolo direttivo speciale, limitatamente alla frequenza del corso di formazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    commissario forestale del ruolo direttivo speciale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    commissario capo forestale del ruolo direttivo speciale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((vice questore aggiunto forestale)) del ruolo direttivo speciale.
+
 La dotazione organica del ruolo di cui al comma 1 e' indicata nella tabella C allegata al presente decreto e determina la contestuale riduzione a 1392 unita' della dotazione organica del ruolo dei sovrintendenti del Corpo forestale dello Stato, di cui alla tabella A allegata al decreto legislativo 12 maggio 1995, n. 201.
 
 ## Art. 13. — Funzioni del personale del ruolo direttivo
@@ -191,6 +413,35 @@ I commissari capo forestali ed i commissari superiori forestali del ruolo dirett
  del Corpo forestale dello Stato
 
 Alla qualifica iniziale del ruolo direttivo speciale del Corpo forestale dello Stato si accede, nel limite dei posti disponibili nella relativa dotazione organica, mediante concorso interno, per titoli di servizio ed esami consistenti in due prove scritte e in un colloquio, riservato al personale del ruolo degli ispettori del Corpo forestale dello Stato con la qualifica di ispettore superiore in possesso del diploma di istruzione secondaria superiore (( che consente l'iscrizione ai corsi per il conseguimento del diploma universitario. ))
+
+2.
+                        
+                            
+                                Non e' ammesso al concorso il personale che alla data del relativo bando abbia riportato:
+
+                            
+                            
+                                a)
+                                
+                                    nei tre anni precedenti, un giudizio complessivo inferiore ad ottimo con punti 9;
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'anno precedente, la sanzione disciplinare della sospensione dallo stipendio fino ad un mese;
+                                
+                            
+                            
+                                c)
+                                
+                                    nei tre anni precedenti, la sanzione disciplinare piu' grave della sospensione dallo stipendio per un mese;
+                                
+                            
+                            
+                                d)
+                                
+                                    nei cinque anni precedenti, una sanzione disciplinare piu' grave di quella indicata alla lettera c).
 
 Le modalita' del concorso, la composizione delle commissioni esaminatrici, le eventuali forme di preselezione, le materie oggetto degli esami, le categorie dei titoli da ammettere a valutazione tra le quali assume particolare rilevanza l'anzianita' di servizio nel ruolo degli ispettori, il punteggio massimo da attribuire a ciascuna categoria di titoli, sono determinati con regolamento del Ministro competente, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, e successive modificazioni, da emanare entro sei mesi dalla data di entrata in vigore del presente decreto.
 
@@ -216,6 +467,45 @@ Ai frequentatori del corso si applicano le disposizioni di cui all'articolo 59, 
 L'anzianita' pregressa maturata nei ruoli sottostanti a quello del ruolo direttivo speciale del Corpo forestale dello Stato non concorre a determinare l'attribuzione del trattamento economico previsto dai commi ventiduesimo e ventitreesimo dell'articolo 43 della legge 1o aprile 1981, n. 121.
 
 ## Art. 16. — Dimissioni dal corso di formazione
+
+1.
+                        
+                            
+                                Sono dimessi dal corso di cui all'articolo 15 i vice commissari forestali del ruolo direttivo speciale che:
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarano di rinunciare al corso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengono il giudizio di idoneita' previsto al termine del primo ciclo del corso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non superano le prove, ovvero non conseguono, nei tempi stabiliti, tutti gli obiettivi formativi del corso;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superano l'esame finale del corso;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono stati per qualsiasi motivo assenti dall'attivita' corsuale per piu' di novanta giorni anche se non consecutivi e di centottanta nel caso di assenza per infermita' contratta durante il corso, ovvero per infermita' dipendente da causa di servizio o per maternita'.
 
 Si applicano le disposizioni di cui ai commi 2, 3 e 4 dell'articolo 5.
 
@@ -256,6 +546,23 @@ Ai fini di quanto previsto dal comma 1 i dirigenti precedono i funzionari della 
 
 ## Art. 22. — Inquadramento nel ruolo direttivo dei
  funzionari del Corpo forestale dello Stato
+
+1.
+                        
+                            
+                                Gli ufficiali del Corpo forestale dello Stato di VII, VIII e IX qualifica funzionale in servizio alla data di entrata in vigore del presente decreto sono inquadrati nelle sottoelencate qualifiche del ruolo direttivo dei funzionari del Corpo forestale dello Stato:
+
+                            
+                            
+                                a)
+                                
+                                    nella qualifica di ((vice questore aggiunto forestale)) gli appartenenti alle qualifiche funzionali IX ed VIII con una anzianita' di effettivo servizio non inferiore a sette anni e sei mesi dalla data di nomina;
+                                
+                            
+                            
+                                b)
+                                
+                                    nella qualifica di commissario capo forestale gli appartenenti alla VII qualifica funzionale con una anzianita' di effettivo servizio nella stessa superiore a due anni.
 
 Nelle more dell'attuazione dell'articolo 1, comma 4, gli inquadramenti di cui al comma 1 sono effettuati secondo l'ordine delle qualifiche funzionali di provenienza e, nell'ambito di queste, secondo l'ordine di ruolo delle distinte professionalita' di base possedute. Dopo la identificazione dei profili professionali si procedera' al successivo inquadramento del personale nel rispettivo profilo.
 

@@ -8,8 +8,8 @@ codice_redazionale: 000G0173
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -117,6 +117,23 @@ In tale fase, il personale di cui al comma 1 puo' chiedere il trasferimento ad a
  Nella domanda di trasferimento deve essere indicata in ogni caso la provincia in cui l'aspirante intende concorrere anche per l'assunzione con contratto di lavoro a tempo determinato.
 
 Nella medesima fase i punteggi di coloro che sono gia' iscritti nelle graduatorie base sono aggiornati, a domanda, con la valutazione di eventuali nuovi titoli, sulla base della tabella approvata con decreto ministeriale n. 292 del 7 maggio 1997 (allegato C).
+
+4.
+                        
+                            
+                                La prima integrazione della graduatoria base avviene con l'inclusione, in coda alla medesima graduatoria e nel seguente ordine di precedenza, di:
+
+                            
+                            
+                                a)
+                                
+                                    coloro che alla data di scadenza del termine per la presentazione della domanda di inclusione sono in possesso dei seguenti requisiti richiesti per partecipare ai soppressi concorsi per soli titoli: superamento delle prove di un concorso per titoli ed esami o di esami per l'accesso ai ruoli di responsabile amministrativo statale della scuola o a precorsi ruoli corrispondenti; trecentosessanta giorni di servizio di responsabile amministrativo prestati nel triennio scolastico antecedente, oppure cinque anni di servizio prestati nei ruoli della terza qualifica funzionale della scuola, immediatamente inferiore a quella cui si concorre;
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che alla data di scadenza per la presentazione delle domande d'inclusione nella graduatoria permanente hanno superato le prove di un concorso per titoli ed esami o di esami per l'accesso ai ruoli di responsabile amministrativo statale della scuola o a precorsi ruoli corrispondenti e siano inseriti, alla data del 25 maggio 1999, in una graduatoria provinciale o d'istituto per l'assunzione di personale non di ruolo. Sono da considerare in possesso del secondo requisito anche coloro che essendo stati inseriti nelle predette graduatorie risultavano temporaneamente depennati alla data di entrata in vigore della legge per i motivi previsti dall'articolo 12, comma 15, della ordinanza ministeriale n. 59 del 21 febbraio 1994 e avevano titolo a chiedere il reinserimento ai sensi del medesimo articolo della stessa ordinanza ministeriale. Il requisito della iscrizione nelle graduatorie per l'assunzione di personale non di ruolo non e' richiesto per coloro che hanno superato le prove del corrispondente concorso per titoli ed esami, conclusosi successivamente al 23 aprile 1994, data di scadenza del termine per la presentazione delle domande di inclusione nelle graduatorie di supplenza, fissato con l'ordinanza ministeriale n. 59 del 21 febbraio 1994.
 
 All'interno dei singoli scaglioni gli aspiranti sono inclusi con il punteggio loro spettante in base ai titoli posseduti, da valutare secondo la tabella di cui all'allegato C.
 

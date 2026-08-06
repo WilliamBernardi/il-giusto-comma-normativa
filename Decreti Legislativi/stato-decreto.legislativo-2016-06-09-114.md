@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-06-09;114
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -42,12 +42,55 @@ Le quote di gettito relative alle tasse automobilistiche spettanti alla Regione 
 ## Art. 4. — Disposizioni in materia di imposta 
  sul reddito delle persone fisiche
 
+1.
+                    
+                        
+                            La quota relativa alle imposte sul reddito delle persone fisiche, spettante alla Regione ai sensi del primo comma, lettera a), e del secondo comma dell'articolo 8 dello Statuto, e' convenzionalmente costituita: 
+ 
+                        
+                        
+                            a)
+                            
+                                dall'imposta netta risultante dalle dichiarazioni dei redditi e dei sostituti di imposta, nonche' dalle certificazioni sostitutive presentate dai contribuenti e per conto dei contribuenti aventi domicilio fiscale nel territorio regionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dall'imposta sui redditi a tassazione separata delle persone fisiche aventi domicilio fiscale nel territorio regionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle somme riscosse a seguito delle attivita' di accertamento e di controllo effettuate dalle amministrazioni finanziarie statali e regionali nei confronti dei contribuenti aventi domicilio fiscale nel territorio regionale.
+
 Le quote di spettanza regionale di cui al comma 1, lettere a) e b), sono determinate dal Dipartimento delle Finanze e devolute dal Dipartimento della Ragioneria Generale dello Stato. Le quote di spettanza regionale di cui al comma 1, lettera c), sono determinate dal Dipartimento delle Finanze, sentita l'Agenzia delle Entrate, e devolute dal Dipartimento della Ragioneria Generale dello Stato.
 
 ## Art. 5.
 
 Disposizioni in materia di imposta 
  sul reddito delle societa'
+
+1.
+                    
+                        
+                            La quota relativa all'imposta sul reddito delle societa' - IRES, spettante alla Regione ai sensi del primo comma, lettera a) e del secondo comma dell'articolo 8 dello Statuto, e' determinata dal Dipartimento delle Finanze prendendo in considerazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                il luogo di ubicazione degli impianti per le imprese mono-impianto che operano nella Regione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la distribuzione percentuale della base imponibile dell'imposta regionale sulle attivita' produttive, per le imprese multi-impianto, relativamente alla quota di produzione realizzata nel territorio della Regione.
 
 La quota spettante alla Regione e' determinata dal Dipartimento delle Finanze e devoluta dal Dipartimento della Ragioneria Generale dello Stato.
 
@@ -79,6 +122,66 @@ Il depositario autorizzato alla gestione dei depositi fiscali che effettua le im
 
 ## Art. 10. — Disposizioni in materia di entrate derivanti 
  dalla raccolta del gioco
+
+1.
+                    
+                        
+                            La compartecipazione regionale di cui all'articolo 8, primo comma, lettera m), e del secondo comma dello Statuto, fa riferimento alle entrate erariali derivanti dalla raccolta di tutti i giochi con vincita in denaro, sia di natura tributaria sia di natura non tributaria in quanto costituite, al netto delle vincite e degli aggi spettanti ai concessionari, da utile erariale. Le quote spettanti alla Sardegna sono calcolate mediante la contabilizzazione, per il gioco in rete fisica, delle giocate raccolte nel territorio della Regione, e, per il gioco a distanza, delle giocate effettuate mediante conti di gioco intestati a giocatori residenti nel territorio della Regione. In particolare, i giochi con vincita in denaro di cui al primo periodo sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                i giochi mediante apparecchi con vincite in denaro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le scommesse, a quota fissa e a totalizzazione, su eventi sportivi, anche simulati, inclusi quelli relativi alle corse dei cavalli, nonche' su altri eventi, anche simulati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i concorsi pronostici sportivi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i giochi numerici a quota fissa; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i giochi numerici a totalizzazione nazionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le lotterie ad estrazione istantanea e differita; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il bingo di sala; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i giochi raccolti a distanza.
 
 Le quote di spettanza regionale di cui al comma 1 sono quantificate dalla Agenzia delle dogane e dei monopoli e versate alla Regione dal Dipartimento della Ragioneria Generale dello Stato.
 

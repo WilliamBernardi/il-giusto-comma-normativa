@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2009-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -239,6 +239,25 @@ In deroga al primo comma, lettere a) e b), dell'articolo 107 del decreto del Pre
 
 In deroga a quanto previsto dagli articoli 102, primo comma, lettera b), e 107, primo comma, lettera a), del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, i funzionari diplomatici entrati in servizio ((dal 1° gennaio 1999 al 31 dicembre 2007)) possono essere promossi al grado di consigliere di legazione anche se non hanno frequentato il corso di aggiornamento di cui al medesimo articolo 102, primo comma, lettera b). I funzionari che sono stati promossi senza aver frequentato il corso sono tenuti a seguire, entro tre anni dalla promozione stessa, un apposito corso di aggiornamento di durata semestrale.
 
+8.
+                    
+                        
+                            Nei primi dieci anni successivi all'entrata in vigore del presente decreto non si applicano, per gli avanzamenti ai gradi superiori, i requisiti previsti dalle seguenti norme:
+
+                        
+                        
+                            a)
+                            
+                                
+                                    primo comma, lettera b), dell'articolo 108 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, come sostituito dall'articolo 9 del presente decreto, per quanto riguarda la promozione al grado di consigliere d'ambasciata;
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    primo comma, lettere b) e c), dell'articolo 109 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, come sostituito dall'art. 10 del presente decreto, per quanto riguarda la nomina al grado di Ministro plenipotenziario.
+
 Nei primi due anni successivi alla data di entrata in vigore del presente decreto le nomine al grado di ambasciatore sono effettuate fra i funzionari che alla predetta data rivestono il grado di Ministro plenipotenziario di prima classe.
 
 I funzionari diplomatici che alla data di entrata in vigore del presente decreto si trovano collocati a disposizione per lo svolgimento di un incarico speciale, ai sensi del secondo comma dell'articolo 111 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, quale vigeva anteriormente alla modifica introdotta dall'articolo 13 del presente decreto, permangono nella stessa posizione fino alla conclusione dell'incarico o fino alla revoca del collocamento a disposizione. Fintanto che permangano funzionari collocati a disposizione con incarico speciale, il numero massimo dei funzionari che possono essere collocati fuori ruolo ai sensi dell'articolo 274 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, come sostituito dall'articolo 15 del presente decreto, e' ridotto di tante unita' quanti sono i funzionari ancora collocati a disposizione.
@@ -255,6 +274,47 @@ Sono abrogati i seguenti articoli del decreto del Presidente della Repubblica 5 
  articolo 98 (Commissioni di avanzamento); 
  articolo 99, secondo comma; 
  articolo 104 (Periodo di servizio presso altre amministrazioni);  articolo 149 (Dotazioni organiche).
+
+2.
+                    
+                        
+                            Sono inoltre abrogati: 
+
+                        
+                        
+                            a)
+                            
+                                l'articolo 20 della legge 11 luglio 1980, n. 312; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 dell'articolo 16 della legge 26 febbraio 1987, n. 49, che prevede i collocamenti a disposizione presso la Direzione generale della cooperazione allo sviluppo; 
+                            
+                        
+                        
+                            c)
+                            
+                                la legge 4 agosto 1989, n. 285; 
+                            
+                        
+                        
+                            d)
+                            
+                                il decreto del Presidente della Repubblica 13 maggio 1970, n. 330, recante norme regolamentari del concorso per titoli di servizio per le promozioni a consigliere di legazione; 
+                            
+                        
+                        
+                            e)
+                            
+                                il decreto del Presidente della Repubblica 5 settembre 1977, n. 781, recante il regolamento che individua le sedi in cui i funzionari diplomatici possono svolgere funzioni proprie del grado superiore, a norma dell'articolo 101, quarto comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18; 
+                            
+                        
+                        
+                            f)
+                            
+                                il decreto del Presidente della Repubblica 27 luglio 1995, n. 377, recante il regolamento sulle procedure di avanzamento nella carriera diplomatica.
 
 Le disposizioni contenute nell'articolo 94 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18 (Accesso alle carriere, ai ruoli e alle qualifiche speciali) non si applicano per quanto riguarda l'accesso alla carriera diplomatica.
 

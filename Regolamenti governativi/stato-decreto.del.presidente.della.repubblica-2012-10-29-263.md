@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2013-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -61,7 +61,93 @@ Al fine di garantire agli iscritti, di cui ai commi 1, 2 e 3, organici intervent
 
 ## Art. 4. — Assetto didattico
 
+1.
+                    
+                        
+                            I percorsi di istruzione degli adulti sono riorganizzati in: 
+ 
+                        
+                        
+                            a)
+                            
+                                percorsi di primo livello: i percorsi di istruzione di primo livello realizzati dai Centri di cui all'articolo 2, sono finalizzati al conseguimento del titolo di studio conclusivo del primo ciclo di istruzione e della certificazione attestante l'acquisizione delle competenze di base connesse all'obbligo di istruzione di cui al decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139, relative alle attivita' e agli insegnamenti di cui al comma 2, lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                percorsi di secondo livello: i percorsi di istruzione di secondo livello, realizzati dalle istituzioni scolastiche di cui al comma 6, sono finalizzati al conseguimento del diploma di istruzione tecnica, professionale e artistica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                percorsi di alfabetizzazione e di apprendimento della lingua italiana: i percorsi di alfabetizzazione e di apprendimento della lingua italiana, realizzati dai Centri di cui all'articolo 2 e destinati agli adulti stranieri di cui all'articolo 3, nei limiti dell'organico assegnato, sono finalizzati al conseguimento di un titolo attestante il raggiungimento di un livello di conoscenza della lingua italiana non inferiore al livello A2 del Quadro comune europeo di riferimento per le lingue elaborato dal Consiglio d'Europa.
+
+2.
+                    
+                        
+                            I percorsi di primo livello di cui al comma 1, lettera a), sono articolati in due periodi didattici cosi' strutturati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il primo periodo didattico e' finalizzato al conseguimento del titolo di studio conclusivo del primo ciclo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo periodo didattico e' finalizzato al conseguimento della certificazione attestante l'acquisizione delle competenze di base connesse all'obbligo di istruzione di cui al citato decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139, relative alle attivita' e insegnamenti generali comuni a tutti gli indirizzi degli istituti professionali e degli istituti tecnici, di cui, rispettivamente, al decreto del Presidente della Repubblica 15 marzo 2010, n. 87, e al decreto del Presidente della Repubblica 15 marzo 2010, n. 88.
+
+3.
+                    
+                        
+                            I percorsi di secondo livello di istruzione tecnica e professionale di cui al comma 1, lettera b), sono articolati in tre periodi didattici, cosi' strutturati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il primo periodo didattico e' finalizzato all'acquisizione della certificazione necessaria per l'ammissione al secondo biennio dei percorsi degli istituti tecnici o professionali, in relazione all'indirizzo scelto dallo studente. Tale periodo si riferisce alle conoscenze, abilita' e competenze previste per il primo biennio dai corrispondenti ordinamenti degli istituti tecnici o professionali con riferimento alle singole aree di indirizzo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo periodo didattico e' finalizzato all'acquisizione della certificazione necessaria per l'ammissione all'ultimo anno dei percorsi degli istituti tecnici o professionali, in relazione all'indirizzo scelto dallo studente. Tale periodo si riferisce alle conoscenze, abilita' e competenze previste per il secondo biennio dai corrispondenti ordinamenti degli istituti tecnici o professionali con riferimento alle singole aree di indirizzo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il terzo periodo didattico e' finalizzato all'acquisizione del diploma di istruzione tecnica o professionale, in relazione all'indirizzo scelto dallo studente. Tale periodo si riferisce alle conoscenze, abilita' e competenze previste per l'ultimo anno dai corrispondenti ordinamenti degli istituti tecnici o professionali con riferimento alle singole aree di indirizzo.
+
 I percorsi di primo livello relativi al primo periodo didattico di cui al comma 2, lettera a), hanno un orario complessivo di 400 ore, articolato secondo le indicazioni contenute nelle linee guida di cui all'articolo 11, comma 10, destinato allo svolgimento di attivita' e insegnamenti obbligatori relativi ai saperi e alle competenze attesi in esito ai percorsi della scuola secondaria di primo grado. I percorsi sono organizzati anche con riferimento alle competenze chiave in materia di cittadinanza da acquisire al termine dell'istruzione obbligatoria di cui all'allegato al decreto del Ministro della pubblica istruzione 22 agosto 2007, n. 139. In assenza della certificazione conclusiva della scuola primaria, l'orario complessivo puo' essere incrementato fino ad un massimo di ulteriori 200 ore, in relazione ai saperi e alle competenze possedute dallo studente. Tale quota, articolata secondo le indicazioni contenute nelle linee guida di cui all'articolo 11, comma 10, puo' essere utilizzata anche ai fini dell'alfabetizzazione in lingua italiana degli adulti stranieri, di cui al comma 1, lettera c).
+
+5.
+                    
+                        
+                            L'orario complessivo obbligatorio dei percorsi di cui al presente articolo e' cosi' determinato: 
+ 
+                        
+                        
+                            a)
+                            
+                                i percorsi di primo livello, relativi al secondo periodo didattico di cui al comma 2, lettera b), hanno un orario complessivo pari al 70 per cento di quello previsto dai corrispondenti ordinamenti degli istituti tecnici o professionali per l'area di istruzione generale, articolato secondo le indicazioni contenute nelle linee guida di cui all'articolo 11, comma 10; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i percorsi di secondo livello di cui al comma 3, lettere a), b) e c), hanno, rispettivamente, un orario complessivo pari al 70 per cento di quello previsto dai corrispondenti ordinamenti degli istituti tecnici o professionali con riferimento all'area di istruzione generale e alle singole aree di indirizzo.
 
 I percorsi di secondo livello di cui al comma 1, lettera b), relativi agli istituti tecnici, agli istituti professionali e ai licei artistici, con riferimento ai periodi didattici di cui al comma 3, lettere a), b) e c), sono realizzati dalle istituzioni scolastiche presso le quali funzionano i percorsi di istruzione tecnica, professionale e artistica, rimanendo in esse incardinati, a tale fine individuate nell'ambito della competenza esclusiva delle regioni e delle province autonome di Trento e di Bolzano in materia di programmazione dell'offerta formativa, nel rispetto dei criteri e dei parametri definiti ai sensi della normativa vigente e con l'osservanza dei vincoli stabiliti per la finanza pubblica.
 
@@ -69,7 +155,78 @@ Nell'ambito dell'ampliamento dell'offerta formativa, le istituzioni scolastiche 
 
 I percorsi di istruzione artistica di cui al comma 1, lettera b), sono realizzati con riferimento alle conoscenze, abilita' e competenze previste dai corrispondenti ordinamenti del liceo artistico secondo i periodi didattici di cui al comma 3, l'orario complessivo di cui al comma 5 e i criteri generali di cui al comma 9, definiti secondo le indicazioni contenute nelle linee guida di cui all'articolo 11, comma 10.
 
+9.
+                    
+                        
+                            Ai fini di cui al presente articolo, con le linee guida di cui all'articolo 11, comma 10, approvate con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze avente natura non regolamentare sono definiti i criteri generali e le modalita' per rendere sostenibili, per lo studente, i carichi orari di cui ai commi 4 e 5, attraverso: 
+ 
+                        
+                        
+                            a)
+                            
+                                il riconoscimento dei crediti comunque acquisiti dallo studente per l'ammissione ai percorsi del tipo e del livello richiesto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la personalizzazione del percorso di studio relativo al livello richiesto, che lo studente puo' completare anche nell'anno scolastico successivo, secondo quanto previsto dal patto formativo individuale di cui all'articolo 5, comma 1, lettera e); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la fruizione a distanza di una parte del percorso previsto, di regola, per non piu' del 20 per cento del corrispondente monte ore complessivo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la realizzazione di attivita' di accoglienza e di orientamento, finalizzate alla definizione del Patto formativo individuale, per non piu' del 10 per cento del corrispondente monte ore complessivo del percorso.
+
 ## Art. 5. — Assetto organizzativo
+
+1.
+                    
+                        
+                            I percorsi di istruzione, di cui all'articolo 4 sono cosi' organizzati: 
+ 
+                        
+                        
+                            a)
+                            
+                                si riferiscono al profilo educativo, culturale e professionale dello studente a conclusione del primo ciclo e del secondo ciclo del sistema educativo di istruzione per gli istituti professionali, per gli istituti tecnici e per i licei artistici, come definiti dai regolamenti adottati rispettivamente con decreto del Presidente della Repubblica del 20 marzo 2009, n. 89, decreto del Presidente della Repubblica del 15 marzo 2010, n. 88, decreto del Presidente della Repubblica 15 marzo 2010, n. 87, e decreto del Presidente della Repubblica 15 marzo 2010, n. 89; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                si riferiscono alle indicazioni nazionali e ai risultati di apprendimento, declinati in termini di conoscenze, abilita' e competenze, relativi agli insegnamenti stabiliti secondo le modalita' previste dai regolamenti di cui alla lettera a), secondo i criteri contenuti nelle linee guida di cui all'articolo 11, comma 10; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono progettati per unita' di apprendimento, intese come insieme autonomamente significativo di conoscenze, abilita' e competenze, correlate ai livelli e ai periodi didattici di cui all'articolo 4, da erogare anche a distanza, secondo le modalita' stabilite nelle linee guida di cui all'articolo 11, comma 10. Tali unita' di apprendimento rappresentano il necessario riferimento per il riconoscimento dei crediti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono realizzati per gruppi di livello relativi ai periodi didattici di cui all'articolo 4, che costituiscono il riferimento organizzativo per la costituzione delle classi e possono essere fruiti per ciascun livello anche in due anni scolastici, come previsto dalle linee guida di cui all'articolo 11, comma 10; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sono organizzati in modo da consentire la personalizzazione del percorso, sulla base di un Patto formativo individuale definito previo riconoscimento dei saperi e delle competenze formali, informali e non formali posseduti dall'adulto secondo i criteri generali e le modalita' stabilite nelle linee guida di cui all'articolo 11, comma 10.
 
 Ai fini dell'ammissione al periodo didattico cui l'adulto chiede di accedere avendone titolo, i Centri costituiscono, nel quadro di specifici accordi di rete con le istituzioni scolastiche di cui all'articolo 4, comma 6, commissioni per la definizione del Patto formativo individuale di cui al comma 1, lettera e), composte dai docenti dei periodi didattici di cui alla lettera d) e, per gli adulti stranieri, eventualmente integrate da esperti e/o mediatori linguistici in relazione alla tipologia di utenti e di percorsi. La partecipazione alle suddette commissioni costituisce obbligo di servizio per il personale docente; per gli esperti esterni la partecipazione non deve comportare maggiori oneri a carico della finanza pubblica.
 
@@ -81,6 +238,31 @@ La valutazione e' definita sulla base del Patto formativo individuale di cui all
 
 Il primo periodo didattico dei percorsi di primo livello e il terzo periodo didattico dei percorsi di secondo livello si concludono entrambi con un esame di Stato, per il rilascio rispettivamente del titolo di studio conclusivo della scuola secondaria di primo grado, previo superamento delle prove di cui al comma 3, e del titolo di studio conclusivo dei percorsi di istruzione tecnica, professionale e artistica, previo superamento delle prove previste a conclusione dei percorsi del corrispondente ordine, tipo e indirizzo. I titoli di studio sono validi per il proseguimento degli studi e a tutti gli altri effetti.
 
+3.
+                    
+                        
+                            L'esame di Stato conclusivo dei percorsi di cui all'articolo 4, comma 2, lettera a), consiste nelle seguenti prove deliberate dalle commissioni d'esame, la cui partecipazione costituisce obbligo di servizio per il personale docente, formate secondo i criteri definiti con il decreto di cui al comma 7 adottato di concerto con il Ministro dell'economia e delle finanze: 
+ 
+                        
+                        
+                            a)
+                            
+                                tre prove scritte, di cui la prima in italiano riguardante i risultati di apprendimento relativi all'asse dei linguaggi ovvero all'asse storico-sociale; la seconda in una delle lingue straniere indicate nel Patto formativo individuale; la terza riguardante i risultati di apprendimento relativi all'asse matematico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la specifica prova scritta a carattere nazionale, di cui all'articolo 11, comma 4-ter, del decreto legislativo 19 febbraio 2004, n. 59, cosi' come modificato dall'articolo 1, comma 4, del decreto-legge 7 settembre 2007, n. 147, convertito, con modificazioni, dalla legge 25 ottobre 2007, n. 176; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un colloquio pluridisciplinare teso ad accertare le competenze relative ai risultati di apprendimento attesi in esito al percorso, tenuto conto del Patto formativo individuale, in modo da valorizzare le competenze comunque acquisite nei contesti formali, non formali ed informali.
+
 L'ammissione all'esame di Stato di cui al comma 3 e' disposta dai docenti del gruppo di livello di cui all'articolo 7, comma 1, lettera a), previo accertamento dell'effettivo svolgimento da parte dell'adulto del percorso personalizzato definito sulla base del Patto formativo individuale di cui all'articolo 5, comma 1, lettera e), fermo restando che non possono essere ammessi agli esami gli adulti che non hanno frequentato, per documentati motivi, almeno il 70 per cento del percorso ivi previsto.
 
 L'esame di Stato di cui al comma 3 si conclude con un motivato giudizio complessivo redatto dalle commissioni di esame ivi previste secondo i criteri determinati con il decreto di cui al comma 7.
@@ -90,6 +272,38 @@ Al termine di ciascun periodo didattico e' previsto il rilascio di apposita cert
 Con uno o piu' decreti del Ministro dell'istruzione, dell'universita' e della ricerca, avente natura non regolamentare, sono definiti i criteri di cui ai commi 3 e 5, nonche' le linee guida per la valutazione e la certificazione, ivi compresi i relativi modelli.
 
 ## Art. 7. — Organi collegiali dei Centri
+
+1.
+                    
+                        
+                            I Centri costituiscono i loro organi di governo e ne disciplinano il funzionamento secondo le disposizioni di cui al titolo I del decreto legislativo 16 aprile 1994, n. 297, e successive modificazioni, con gli specifici adattamenti di seguito indicati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il consiglio di classe e' composto dai docenti del gruppo di livello di cui all'articolo 5, comma 1, lettera d), e da tre studenti, eletti dal relativo gruppo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il collegio dei docenti puo' essere articolato in sezioni funzionali alla specificita' dell'assetto organizzativo e didattico dei Centri, senza nuovi e maggiori oneri per la finanza pubblica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la rappresentanza dei genitori nel consiglio di istituto e nella giunta esecutiva e' sostituita con la rappresentanza degli studenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei docenti elegge nel proprio ambito il comitato per la valutazione del servizio degli insegnanti di cui all'articolo 11 del citato decreto legislativo n. 297 del 1994, assicurando la rappresentanza di ciascuna delle due tipologie di docenti in servizio nei Centri.
 
 Fino alla costituzione del consiglio di istituto e della giunta esecutiva le relative funzioni sono svolte dal commissario straordinario nominato dal direttore generale dell'ufficio scolastico regionale senza maggiori oneri a carico della finanza pubblica.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2022-08-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -70,6 +70,73 @@ Tale obbligo non sussiste per il personale di cui all'articolo 3 del decreto leg
 Fermo restando quanto previsto dai commi 1 e 2, le Regioni possono prevedere che una quota delle assunzioni effettuate dai datori di lavoro privati e dagli enti pubblici economici sia riservata a particolari categorie di lavoratori a rischio di esclusione sociale.
 
 Le imprese fornitrici di lavoro temporaneo sono tenute a comunicare, entro il giorno venti del mese successivo alla data di assunzione, al servizio competente nel cui ambito territoriale e' ubicata la loro sede operativa, l'assunzione, la proroga e la cessazione dei lavoratori temporanei assunti nel corso del mese precedente. (2)
+
+5.
+                    
+                        
+                            I datori di lavoro privati e gli enti pubblici economici, per quanto di competenza, sono tenuti, anche in caso di trasformazione da rapporto di tirocinio e di altra esperienza professionale a rapporto di lavoro subordinato, a comunicare, entro cinque giorni, al servizio competente nel cui ambito territoriale e' ubicata la sede di lavoro le seguenti variazioni del rapporto di lavoro: 
+ 
+                        
+                        
+                            a)
+                            
+                                proroga del termine inizialmente fissato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                trasformazione da tempo determinato a tempo indeterminato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                trasformazione da tempo parziale a tempo pieno; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasformazione da contratto di apprendistato a contratto a tempo indeterminato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                trasformazione da contratto di formazione e lavoro a contratto a tempo indeterminato. (2) 
+
+                            
+                        
+                        
+                            e-bis)
+                            
+                                trasferimento del lavoratore; 
+
+                            
+                        
+                        
+                            e-ter)
+                            
+                                distacco del lavoratore; 
+
+                            
+                        
+                        
+                            e-quater)
+                            
+                                modifica della ragione sociale del datore di lavoro; 
+
+                            
+                        
+                        
+                            e-quinquies)
+                            
+                                trasferimento d'azienda o di ramo di essa.
 
 Le comunicazioni di assunzione, cessazione, trasformazione e proroga dei rapporti di lavoro autonomo, subordinato, associato, dei tirocini e di altre esperienze professionali, previste dalla normativa vigente, inviate al Servizio competente nel cui ambito territoriale e' ubicata la sede di lavoro, con i moduli di cui al comma 7, sono valide ai fini dell'assolvimento degli obblighi di comunicazione nei confronti delle direzioni regionali e provinciali del lavoro, dell'Istituto nazionale della previdenza sociale, dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, o di altre forme previdenziali sostitutive o esclusive, nonche' nei confronti della Prefettura - Ufficio territoriale del Governo e delle province, ai fini delle assunzioni Obbligatorie. (8)
 

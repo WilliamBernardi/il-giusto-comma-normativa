@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-12-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,26 @@ L'articolo 2, comma 2, del testo unico delle imposte sui redditi di cui al decre
 
 Residenza delle societa' e degli enti
 
+1.
+                        
+                            
+                                All'articolo 73 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica del 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        il comma 3 e' sostituito dal seguente: «3. Ai fini delle imposte sui redditi si considerano residenti le societa' e gli enti che per la maggior parte del periodo di imposta hanno nel territorio dello Stato la sede legale o la sede di direzione effettiva o la gestione ordinaria in via principale. Per sede di direzione effettiva si intende la continua e coordinata assunzione delle decisioni strategiche riguardanti la societa' o l'ente nel suo complesso. Per gestione ordinaria si intende il continuo e coordinato compimento degli atti della gestione corrente riguardanti la societa' o l'ente nel suo complesso. Gli organismi di investimento collettivo del risparmio si considerano residenti se istituiti in Italia. Si considerano altresi' residenti nel territorio dello Stato, salvo prova contraria, i trust e gli istituti aventi analogo contenuto istituiti in Stati o territori diversi da quelli di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239, in cui almeno uno dei disponenti e almeno uno dei beneficiari del trust sono fiscalmente residenti nel territorio dello Stato. Si considerano, inoltre, residenti nel territorio dello Stato, salvo prova contraria, i trust istituiti in uno Stato diverso da quelli di cui al decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239, quando, successivamente alla loro costituzione, un soggetto residente nel territorio dello Stato effettui in favore del trust un'attribuzione che importi il trasferimento di proprieta' di beni immobili o la costituzione o il trasferimento di diritti reali immobiliari, anche per quote, nonche' vincoli di destinazione sugli stessi.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        al comma 5-bis, alinea, le parole: «Salvo prova contraria, si considera esistente nel territorio dello Stato la sede dell'amministrazione di societa' ed enti che detengono partecipazioni di controllo, ai sensi dell'articolo 2359, primo comma, del codice civile, nei soggetti di cui alle lettere a) e b) del comma 1, se, in alternativa» sono sostituite dalle seguenti: «Salvo prova contraria, si considerano altresi' residenti nel territorio dello Stato le societa' ed enti che detengono partecipazioni di controllo, ai sensi dell'articolo 2359, primo comma, del codice civile, nei soggetti di cui alle lettere a) e b) del comma 1, se, in alternativa».
+
 All'articolo 5, comma 3, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica del 22 dicembre 1986, n. 917, la lettera d) e' sostituita dalla seguente:
 «d) si considerano residenti le societa' e le associazioni che per la maggior parte del periodo di imposta hanno nel territorio dello Stato la sede legale o la sede di direzione effettiva o la gestione ordinaria in via principale. Per sede di direzione effettiva si intende la continua e coordinata assunzione delle decisioni strategiche riguardanti la societa' o l'associazione nel suo complesso. Per gestione ordinaria si intende il continuo e coordinato compimento degli atti della gestione corrente riguardanti la societa' o l'associazione nel suo complesso».
 
@@ -49,7 +69,60 @@ All'articolo 5, comma 3, del testo unico delle imposte sui redditi di cui al dec
 Semplificazione della disciplina 
  delle societa' estere controllate
 
+1.
+                        
+                            
+                                All'articolo 167 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica del 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 4, la lettera a) e' sostituita dalla seguente: «a) sono assoggettati a tassazione effettiva inferiore al 15 per cento.
+La tassazione effettiva dei soggetti controllati non residenti e' pari al rapporto tra la somma delle imposte correnti dovute e delle imposte anticipate e differite iscritte nel proprio bilancio d'esercizio e l'utile ante imposte dell'esercizio risultante dal predetto bilancio. A tal fine, il bilancio d'esercizio dei soggetti controllati non residenti deve essere oggetto di revisione e certificazione da parte di operatori professionali a cio' autorizzati nello Stato estero di localizzazione dei soggetti controllati non residenti, i cui esiti sono utilizzati dal revisore del soggetto controllante ai fini del giudizio sul bilancio annuale o consolidato.
+Se la condizione di cui al periodo precedente non e' verificata o la tassazione effettiva e' inferiore al 15 per cento, i soggetti controllanti devono verificare che i soggetti controllati non residenti sono assoggettati ad una tassazione effettiva inferiore alla meta' di quella a cui sarebbero stati soggetti qualora residenti in Italia, determinata secondo le modalita' stabilite con provvedimento del direttore dell'Agenzia delle entrate;»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        dopo il comma 4 sono inseriti i seguenti: «4-bis. Ai fini del calcolo di cui al comma 4, lettera a), rileva anche l'imposta minima nazionale equivalente, definita nell'allegato A del decreto di recepimento della direttiva (UE) 2022/2523 del Consiglio, del 15 dicembre 2022, dovuta dal soggetto controllato non residente. Ai fini del precedente periodo, l'imposta minima nazionale equivalente dovuta nel Paese di localizzazione del soggetto controllato non residente, individuato ai sensi dell'articolo 12 del decreto di recepimento della direttiva (UE) 2022/2523 del Consiglio, del 15 dicembre 2022, rileva in misura corrispondente all'imposta minima nazionale equivalente moltiplicata per il rapporto tra il profitto eccedente relativo al soggetto controllato non residente e la somma di tutti i profitti eccedenti relativi alle imprese ed entita' del gruppo soggette all'imposta minima nazionale equivalente calcolata in maniera unitaria con il soggetto controllato non residente. 
+ 4-ter. In alternativa a quanto previsto al comma 4, lettera a), i soggetti controllanti di cui al comma 1, con riferimento ai soggetti controllati non residenti di cui ai commi 2 e 3, possono corrispondere, nel rispetto degli articoli 7 e 8 della direttiva (UE) 2016/1164 del Consiglio del 12 luglio 2016, un'imposta sostitutiva delle imposte sui redditi pari al 15 per cento dell'utile contabile netto dell'esercizio calcolato senza tenere in considerazione le imposte che hanno concorso a determinare detto valore, la svalutazione di attivi e gli accantonamenti a fondi rischi.
+Permanendo il requisito del controllo, l'opzione per l'imposta sostitutiva ha durata per tre esercizi del soggetto controllante ed e' irrevocabile. Al termine del triennio l'opzione si intende tacitamente rinnovata per il successivo triennio a meno che non e' revocata, secondo le modalita' e i termini previsti per la comunicazione dell'opzione. La disposizione di cui al periodo precedente si applica al termine di ciascun triennio. Con provvedimento del direttore dell'Agenzia delle entrate sono stabilite le modalita' di comunicazione dell'esercizio e revoca dell'opzione.
+Nel caso di esercizio dell'opzione, essa e' effettuata per tutti i soggetti controllati non residenti come definiti ai commi 2 e 3 e che integrano le condizioni di cui al comma 4, lettera b). 
+ 4-quater. Le disposizioni di cui al comma 4-ter si applicano a condizione che i bilanci di esercizio sono oggetto di revisione e certificazione da parte di operatori professionali a cio' autorizzati nello Stato estero di localizzazione dei soggetti controllati non residenti, i cui esiti sono utilizzati dal revisore del soggetto controllante ai fini del giudizio sul bilancio annuale o consolidato.».
+
 ## Art. 4. — Disposizione quadro per incentivi fiscali compatibili con i principi e le disposizioni europee in materia di aiuti di Stato
+
+1.
+                        
+                            
+                                
+                                    ((Nel rispetto dei principi di cui al Trattato sul funzionamento dell'Unione europea, ai soggetti titolari di reddito di lavoro autonomo e di impresa che abbiano una sede o una stabile organizzazione nel territorio dello Stato le misure di natura fiscale che presentano i requisiti di cui all'articolo 107 del medesimo Trattato sono riconosciute esclusivamente alle seguenti condizioni:))
+                                    ((13))
+                                
+                            
+                            
+                                a)
+                                
+                                    se autorizzati dalla Commissione europea ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se previsti nel rispetto delle condizioni di cui al capo I e II, nonche' delle condizioni delle specifiche categorie di aiuto di cui al capo III, del Regolamento (UE) n. 651/2014 della Commissione del 17 giugno 2014; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se previsti nel rispetto delle condizioni e dei limiti previsti dal regolamento (UE) 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti «de minimis», dal regolamento (UE) n. 1408/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti «de minimis» nel settore agricolo e dal regolamento (UE) n. 717/2014 della Commissione, del 27 giugno 2014, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti «de minimis» nel settore della pesca e dell'acquacoltura.
 
 Le disposizioni di cui al comma 1 si applicano anche ((alle misure fiscali previste)) alla data di entrata in vigore del presente decreto. ((13))
 
@@ -60,9 +133,61 @@ Le disposizioni di cui al comma 1 si applicano anche ((alle misure fiscali previ
 
 ## Art. 5. — Nuovo regime agevolativo a favore dei lavoratori impatriati
 
+1.
+                        
+                            
+                                I redditi di lavoro dipendente, i redditi assimilati a quelli di lavoro dipendente, i redditi di lavoro autonomo derivanti dall'esercizio di arti e professioni prodotti in Italia da lavoratori che trasferiscono la residenza nel territorio dello Stato ai sensi dell'articolo 2 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, entro il limite annuo di 600.000 euro concorrono alla formazione del reddito complessivo limitatamente al 50 per cento del loro ammontare al ricorrere delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i lavoratori si impegnano a risiedere fiscalmente in Italia per un periodo di tempo corrispondente a quello di cui al comma 3, secondo periodo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i lavoratori non sono stati fiscalmente residenti in Italia nei tre periodi d'imposta precedenti il loro trasferimento. Se il lavoratore presta l'attivita' lavorativa nel territorio dello Stato in favore dello stesso soggetto presso il quale e' stato impiegato all'estero prima del trasferimento oppure in favore di un soggetto appartenente al suo stesso gruppo, il requisito minimo di permanenza all'estero e' di: 
+ 1) sei periodi d'imposta, se il lavoratore non e' stato in precedenza impiegato in Italia in favore dello stesso soggetto oppure di un soggetto appartenente al suo stesso gruppo; 
+ 2) sette periodi d'imposta, se il lavoratore, prima del suo trasferimento all'estero, e' stato impiegato in Italia in favore dello stesso soggetto oppure di un soggetto appartenente al suo stesso gruppo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivita' lavorativa e' prestata per la maggior parte del periodo d'imposta nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i lavoratori sono in possesso dei requisiti di elevata qualificazione o specializzazione come definiti dal decreto legislativo 28 giugno 2012, n. 108 e dal decreto legislativo 9 novembre 2007, n. 206 ((, oppure hanno svolto un'attivita' di ricerca anche applicata nell'ambito delle tecnologie di intelligenza artificiale)).
+
 Ai fini del comma 1, lettera b), si considerano appartenenti allo stesso gruppo i soggetti tra i quali sussiste un rapporto di controllo diretto o indiretto ai sensi dell'articolo 2359, primo comma, numero 1), del codice civile ovvero che, ai sensi della stessa norma, sono sottoposti al comune controllo diretto o indiretto da parte di un altro soggetto.
 
 Le disposizioni del presente articolo si applicano a partire dal periodo di imposta in cui e' avvenuto il trasferimento della residenza fiscale in Italia e nei quattro periodi d'imposta successivi. Se la residenza fiscale in Italia non e' mantenuta per almeno quattro anni, il lavoratore decade dai benefici e si provvede al recupero di quelli gia' fruiti, con applicazione dei relativi interessi.
+
+4.
+                        
+                            
+                                La percentuale di cui al comma 1 e' ridotta al 40 per cento nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il lavoratore si trasferisce in Italia con un figlio minore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di nascita di un figlio ovvero di adozione di un minore di eta' durante il periodo di fruizione del regime di cui al presente articolo. In tale caso il beneficio di cui al presente comma e' fruito a partire dal periodo d'imposta in corso al momento della nascita o dell'adozione e per il tempo residuo di fruibilita' dell'agevolazione di cui al comma 3, primo periodo.
 
 La maggiore agevolazione di cui al comma 4 si applica a condizione che, durante il periodo di fruizione del regime da parte del lavoratore, il figlio minore di eta', ovvero il minore adottato, sia residente nel territorio dello Stato.
 
@@ -104,6 +229,31 @@ Ai fini del presente titolo si applicano le definizioni contenute nell'allegato 
 
 ## Art. 9. — Oggetto
 
+1.
+                        
+                            
+                                Al fine di garantire un livello impositivo minimo dei gruppi multinazionali o nazionali di imprese, secondo l'approccio comune condiviso a livello internazionale in base alle regole OCSE adottate il 14 dicembre 2021 «Tax Challenges Arising from the Digitalisation of the Economy - Global Anti-Base Erosion Model Rules (Pillar Two)» e alle disposizioni della direttiva (UE) 2022/2523 del Consiglio, del 15 dicembre 2022, e' istituita una imposizione integrativa prelevata attraverso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'imposta minima integrativa, dovuta da controllanti localizzate in Italia di gruppi multinazionali o nazionali in relazione alle imprese soggette ad una bassa imposizione facenti parte del gruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposta minima suppletiva, dovuta da una o piu' imprese di un gruppo multinazionale localizzate in Italia in relazione alle imprese facenti parte del gruppo soggette ad una bassa imposizione quando non e' stata applicata, in tutto o in parte, l'imposta minima integrativa equivalente in altri Paesi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imposta minima nazionale, dovuta in relazione alle imprese di un gruppo multinazionale o nazionale soggette ad una bassa imposizione localizzate in Italia.
+
 Ogni esercizio costituisce un autonomo periodo di imposta.
 
 Le disposizioni del presente titolo sono interpretate e applicate tenendo conto del ((Commentario alle regole OCSE approvato e pubblicato il 14 marzo 2022)) «Tax Challenges Arising from the Digitalisation of the Economy - Commentary to the Global Anti Base Erosion Model Rules (Pillar Two)», e successive modificazioni, e delle Guide Amministrative previste nell'articolo 8.3 delle suddette regole OCSE. Con decreto del Ministro dell'economia e delle finanze sono adottate le disposizioni attuative dei contenuti del Commentario, delle Guide Amministrative e del loro aggiornamento. Il Dipartimento delle finanze emana apposite direttive interpretative secondo quanto previsto all'articolo 11, comma 1, lettera f) del decreto del Presidente del Consiglio dei ministri 26 giugno 2019, n. 103. ((13))
@@ -131,6 +281,38 @@ Il tasso di cambio medio e' determinato in base alle quotazioni pubblicate dalla
 ## Art. 11.
 
 Entita' escluse
+
+1.
+                        
+                            
+                                L'imposizione integrativa non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'entita' che si qualifica come: 
+ 1) entita' statale; 
+ 2) organizzazione internazionale; 
+ 3) organizzazione senza scopo di lucro; 
+ 4) fondo pensione; 
+ 5) fondo di investimento che e' una controllante capogruppo o un veicolo di investimento immobiliare che e' una controllante capogruppo; ovvero 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'entita' il cui valore e' detenuto per almeno il 95 per cento da una o piu' entita' di cui alla lettera a), direttamente ovvero indirettamente, tenendo conto dell'effetto demoltiplicativo, attraverso uno o piu' entita' escluse, con l'eccezione delle entita' di servizi pensionistici, e che alternativamente o congiuntamente: 
+ 1) operi esclusivamente o quasi esclusivamente per detenere attivita' o investire fondi a beneficio di una o piu' entita' di cui alla lettera a); 
+ 2) svolga esclusivamente attivita' ausiliarie a quelle eseguite da una o piu' entita' di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'entita' il cui valore e' detenuto per almeno l'85 per cento da una o piu' entita' indicate alla lettera a), direttamente ovvero indirettamente, tenendo conto dell'effetto demoltiplicativo, attraverso una o piu' entita' escluse, con l'eccezione delle entita' di servizi pensionistici, a condizione che sostanzialmente tutto il suo reddito e' costituito da dividendi o da plusvalenze o minusvalenze esclusi dal calcolo del reddito o perdita rilevante ai sensi dell'articolo 23, comma 2, lettere b) e c).
 
 Ai fini del comma 1, lettere b) e c), le attivita' dell'entita' sono valutate tenendo conto anche di quelle svolte per il tramite di stabili organizzazioni. Se una entita' soddisfa la definizione di entita' esclusa ai sensi del comma 1, lettere b) e c), l'imposizione integrativa non si applica alla entita' nel suo complesso, incluse le sue stabili organizzazioni.
 
@@ -175,6 +357,24 @@ Una partecipante intermedia localizzata nel territorio dello Stato italiano e de
 
 Una partecipante intermedia localizzata nel territorio dello Stato italiano che, in un dato esercizio, e' un'impresa a bassa imposizione ed e' direttamente o indirettamente detenuta da una controllante capogruppo localizzata in un Paese terzo deve versare per quell'esercizio l'imposta minima integrativa ad essa riferibile e l'importo di imposizione integrativa ad essa attribuita relativa ad imprese a bassa imposizione localizzate nel territorio dello Stato italiano detenute in qualsiasi momento di tale esercizio.
 
+3.
+                        
+                            
+                                Le disposizioni dei commi 1 e 2 non trovano applicazione qualora con riferimento al medesimo esercizio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la controllante capogruppo e' soggetta ad una imposta minima integrativa equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una altra partecipante intermedia ovunque localizzata detiene una partecipazione di controllo, diretta o indiretta, nella partecipante intermedia localizzata nel territorio dello Stato italiano ed e' soggetta ad una imposta minima integrativa o ad un'imposta minima integrativa equivalente.
+
 Una partecipante intermedia localizzata nel territorio dello Stato italiano e detenuta da una controllante capogruppo che e' una entita' esclusa, che ha detenuto, in qualsiasi momento dell'esercizio, direttamente o indirettamente partecipazioni in imprese a bassa imposizione localizzate in un altro Paese o che sono entita' apolidi, deve versare per quell'esercizio l'imposta minima integrativa in misura pari all'importo di imposizione integrativa relativa a tali imprese a bassa imposizione. 
  5.Una partecipante intermedia localizzata nel territorio dello Stato italiano che, in un dato esercizio, e' un'impresa a bassa imposizione ed e' direttamente o indirettamente detenuta da una controllante capogruppo che e' una entita' esclusa deve versare per quell'esercizio l'imposta minima integrativa ad essa riferibile e l'importo di imposizione integrativa ad essa attribuita relativa ad imprese a bassa imposizione localizzate nel territorio dello Stato italiano detenute in qualsiasi momento di tale esercizio. 
  6. Le disposizioni dei commi 4 e 5 non trovano applicazione qualora per tale esercizio un'altra partecipante intermedia e' soggetta ad una imposta minima integrativa, o ad un'imposta minima integrativa equivalente, e detiene, direttamente o indirettamente, una partecipazione di controllo nella partecipante intermedia ivi indicata localizzata nel territorio dello Stato italiano.
@@ -193,6 +393,56 @@ L'imposta minima integrativa dovuta in un esercizio da una controllante per un'i
 
 La quota di attribuzione alla controllante dell'imposizione integrativa relativa ad un'impresa a bassa imposizione e' pari, in ogni esercizio, al reddito rilevante dell'impresa a bassa imposizione ridotto dell'importo di tale reddito attribuibile a partecipazioni detenute da altri soggetti non appartenenti al medesimo gruppo, diviso per il reddito rilevante dell'impresa a bassa imposizione.
 
+3.
+                        
+                            
+                                L'importo del reddito rilevante attribuibile alle partecipazioni in un'impresa a bassa imposizione detenute da altri soggetti non appartenenti al medesimo gruppo e' l'importo che sarebbe stato considerato come attribuibile a tali soggetti in base a principi contabili conformi utilizzati nel bilancio consolidato della controllante capogruppo se l'utile netto dell'impresa a bassa imposizione fosse uguale al suo reddito rilevante e: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la controllante avesse redatto il bilancio consolidato conformemente a tale principio contabile («bilancio consolidato ipotetico»); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la controllante detenesse una partecipazione di controllo nell'impresa a bassa imposizione di modo che tutte le componenti positive e negative di reddito dell'impresa a bassa imposizione dovrebbero essere consolidate voce per voce con quelle della controllante nel bilancio consolidato ipotetico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutti i redditi rilevanti dell'impresa a bassa imposizione fossero riferibili a operazioni con soggetti non appartenenti al gruppo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutte le partecipazioni non detenute direttamente o indirettamente dalla controllante fossero detenute da soggetti non appartenenti al gruppo.
+
+4.
+                        
+                            
+                                Nell'esercizio, in aggiunta agli importi attribuiti alla controllante ai sensi del comma 1, e' dovuta dalla controllante ai sensi dell'articolo 13, comma 2, dell'articolo 14, commi 2 e 5, dell'articolo 15, comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'imposta minima integrativa pari all'intero importo di imposizione integrativa ai sensi dell'articolo 34 relativa a tale controllante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposta minima integrativa relativa alle imprese a bassa imposizione, facenti parte del gruppo e localizzate nel territorio dello Stato italiano, corrispondente all'imposizione integrativa ad essa attribuita relativa ad ogni impresa a bassa imposizione determinata moltiplicando l'imposizione integrativa ai sensi dell'articolo 34 per la sua quota di attribuzione come definita nel comma 2.
+
 ## Art. 17. — Scomputo dell'imposta minima integrativa
 
 Se una controllante localizzata nel territorio dello Stato italiano detiene indirettamente una partecipazione in un'impresa a bassa imposizione attraverso una partecipante intermedia che, per l'esercizio, e' soggetta ad un'imposta minima integrativa o ad un'imposta minima integrativa equivalente rispetto a tale impresa a bassa imposizione, l'imposizione integrativa attribuita alla controllante relativa a tale impresa a bassa imposizione ai sensi degli articoli 13, 14 e 15 e' ridotta in misura pari alla porzione di detta imposizione integrativa che e' attribuita alla partecipante intermedia.
@@ -200,6 +450,32 @@ Se una controllante localizzata nel territorio dello Stato italiano detiene indi
 Se una controllante localizzata nel territorio dello Stato italiano detiene indirettamente una partecipazione in un'impresa a bassa imposizione attraverso una partecipante parzialmente posseduta che, per l'esercizio, e' soggetta ad un'imposta minima integrativa o ad un'imposta minima integrativa equivalente rispetto a tale impresa a bassa imposizione, l'imposizione integrativa attribuita alla controllante relativa a tale impresa a bassa imposizione ai sensi degli articoli 13, 14 e 15 e' ridotta in misura pari alla porzione di detta imposizione integrativa che e' attribuita alla partecipante parzialmente posseduta.
 
 ## Art. 18. — Imposta minima nazionale
+
+1.
+                        
+                            
+                                
+                                    ((Se in un esercizio l'aliquota di imposizione effettiva, relativa alle imprese e alle entita' a controllo congiunto localizzate nel territorio dello Stato italiano e alle entita' trasparenti apolidi costituite in base alla legge dello Stato italiano appartenenti a un gruppo multinazionale o nazionale, e' inferiore alla aliquota minima di imposta, e' dovuta una imposta minima nazionale pari all'imposizione integrativa relativa a tutte le suddette imprese ed entita'.)) Ai fini dell'imposta minima nazionale, da calcolare indipendentemente dalla quota di partecipazione detenuta nelle imprese localizzate nel territorio dello Stato italiano da parte di qualsiasi controllante del gruppo multinazionale o nazionale: ((13))
+                                
+                            
+                            
+                                a)
+                                
+                                    si applicano le diposizioni di cui al presente titolo, incluse quelle dell'articolo 36 e dell'articolo 39 e le definizioni contenute nell'allegato A, nel rispetto di quanto indicato nei commi che seguono e avuto riguardo ai soli valori relativi alle imprese ed entita' a controllo congiunto localizzate nel territorio dello Stato italiano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non si tiene conto, in relazione ai commi 1, 3, 4, 5 e 6 dell'articolo 31, delle imposte rilevanti dovute in altri Paesi da un'impresa proprietaria e da una casa madre ivi localizzate relativamente ad imprese o entita' a controllo congiunto localizzate nel territorio dello Stato italiano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imposizione integrativa relativa a tutte le imprese ed entita' localizzate nel territorio dello Stato italiano in un esercizio e' pari al prodotto tra il profitto eccedente del Paese e l'aliquota di imposizione integrativa, maggiorato dell'imposizione integrativa addizionale relativa al Paese, determinata ai sensi dell'articolo 36.
 
 Il profitto eccedente di tutte le imprese e di tutte le entita' a controllo congiunto localizzate nel territorio dello Stato italiano e l'importo dell'imposta minima nazionale sono calcolati sulla base dei bilanci o rendiconti redatti in conformita' ai principi contabili da queste adottati in ottemperanza alla normativa fiscale o societaria italiana oppure sulla base dei bilanci o rendiconti soggetti a revisione contabile esterna qualora questi siano redatti in conformita' a tali principi contabili sebbene la normativa fiscale o societaria italiana non le obblighi ad adottarli.
 
@@ -253,6 +529,70 @@ L'importo della imposta minima suppletiva relativa ad un'impresa a bassa imposiz
 
 Fuori dai casi previsti dal comma 3, l'importo dell'imposta minima suppletiva relativa ad un'impresa a bassa imposizione e' ridotto in misura pari all'importo dell'imposizione integrativa dovuta da una controllante che, con riferimento ad essa, applica un'imposta minima integrativa equivalente.
 
+5.
+                        
+                            
+                                La percentuale dell'imposta minima suppletiva imputabile allo Stato italiano calcolata con riferimento ad un dato esercizio e in relazione ad un gruppo multinazionale e' pari al 50 per cento della somma dei seguenti rapporti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    numero dei dipendenti impiegati da tutte le imprese del gruppo multinazionale localizzate nello Stato italiano diviso per il numero dei dipendenti complessivamente impiegati da tutte le imprese del gruppo multinazionale localizzate in Paesi in cui e' in vigore una imposta minima suppletiva equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il valore contabile netto dei beni tangibili di tutte le imprese del gruppo multinazionale localizzate nello Stato italiano diviso per il valore contabile netto dei beni tangibili di tutte le imprese del gruppo multinazionale localizzate in Paesi che applicano una imposta minima suppletiva equivalente.
+
+6.
+                        
+                            
+                                Ai fini del calcolo di cui al comma 5: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei dipendenti corrisponde al numero di dipendenti equivalenti a tempo pieno, calcolati su basa annua rispetto alle ore medie di un lavoratore a tempo pieno, impiegati da tutte le imprese localizzate nel Paese di pertinenza, comprensivi dei lavoratori che partecipano ordinariamente alle attivita' operative di queste ultime alle dipendenze di fornitori non appartenenti al gruppo multinazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad una stabile organizzazione sono attribuiti i lavoratori dipendenti il cui costo e' contabilizzato nel suo conto economico in conformita' alle disposizioni dell'articolo 25, comma 1 e comma 2. I dipendenti che sono attribuiti alla stabile organizzazione in conformita' al precedente periodo non rilevano ai fini del computo dei lavoratori dipendenti relativo al Paese di localizzazione della casa madre; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad una stabile organizzazione sono attribuiti i beni tangibili che sono rilevati nello stato patrimoniale ad essa relativo, in conformita' alle disposizioni dell'articolo 25, comma 1 e comma 2. I beni tangibili che sono attribuiti alla stabile organizzazione in conformita' al precedente periodo non rilevano ai fini del computo del valore contabile netto dei beni tangibili relativo al Paese di localizzazione della casa madre; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i beni tangibili comprendono quelli di tutte le imprese localizzate nel Paese di pertinenza ad eccezione delle disponibilita' liquide o attivi equivalenti e delle immobilizzazioni immateriali o finanziarie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il numero dei dipendenti e il valore contabile netto dei beni tangibili rispettivamente impiegati e detenute da una entita' di investimento non sono presi in considerazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero dei dipendenti e il valore contabile netto dei beni tangibili rispettivamente impiegati e detenute da una entita' trasparente sono irrilevanti salvo che essi sono attribuiti ad una stabile organizzazione ovvero, in assenza di una stabile organizzazione, alle imprese localizzate nel suo Paese di costituzione.
+
 In deroga a quanto previsto al comma 5, la percentuale dell'imposta minima suppletiva relativa a un gruppo multinazionale, imputabile ad un Paese e riferita ad un determinato esercizio e' pari a zero se in detto Paese l'imposta di sua pertinenza relativa ad un esercizio precedente non abbia generato, per il suo intero ammontare, un onere fiscale supplementare esigibile sulle imprese del gruppo ivi localizzate. In tal caso, il numero dei dipendenti e il valore contabile netto dei beni tangibili delle imprese del gruppo ivi localizzate sono esclusi ai fini del calcolo indicato al comma 5.
 
 Resta ferma l'applicazione delle disposizioni di cui al comma 5 se, conformemente alle disposizioni di cui al comma 7, in un esercizio, la percentuale di imposta suppletiva relativa a un gruppo multinazionale imputabile a tutti i Paesi in cui sono localizzate le sue imprese e' pari a zero.
@@ -264,6 +604,32 @@ Su opzione dell'impresa dichiarante, per gli esercizi di durata non superiore a 
 ## Art. 22. — Procedura di calcolo del reddito o perdita rilevante
 
 Il reddito o perdita rilevante di un'impresa si determina apportando all'utile o perdita contabile netta dell'esercizio le variazioni in aumento o in diminuzione conseguenti all'applicazione delle disposizioni contenute negli articoli da 23 a 26. Ai fini del primo periodo, l'utile o perdita contabile netta dell'esercizio corrisponde al risultato contabile netto dell'impresa di detto esercizio, calcolato in conformita' ai principi contabili utilizzati dalla controllante capogruppo ai fini del bilancio consolidato, prima delle rettifiche da consolidamento ((per eliminare le operazioni infragruppo)). ((13))
+
+2.
+                        
+                            
+                                Qualora non sia ragionevolmente possibile determinare in modo accurato l'utile o perdita contabile netta dell'esercizio dell'impresa secondo principi contabili conformi ovvero principi contabili autorizzati, utilizzati dalla controllante capogruppo ai fini della predisposizione del bilancio consolidato, l'utile o la perdita contabile netta dell'impresa nell'esercizio puo' essere determinata sulla base di altri principi contabili conformi ovvero principi contabili autorizzati a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il bilancio dell'impresa e' effettivamente predisposto in conformita' a tali altri principi contabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni riportate nel bilancio sono affidabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'uso di tali altri principi non determina differenze permanenti di valore superiore complessivamente ad un milione di euro rispetto ai valori che si sarebbero determinati se l'impresa avesse utilizzato i medesimi principi contabili della controllante capogruppo ai fini della preparazione del bilancio consolidato.
+Laddove le differenze permanenti risultino di valore superiore in aggregato ad 1 milione di euro, le operazioni di gestione o l'insieme delle operazioni di gestione che le hanno determinate debbono essere computate conformemente ai principi contabili adottati dalla controllante capogruppo ai fini della preparazione del bilancio consolidato.
 
 Se la controllante capogruppo non redige il bilancio consolidato sulla base dei principi contabili conformi, come indicato nell'allegato A, numero 3), lettera c), e' tenuta a rimuovere le distorsioni competitive rilevanti.
 
@@ -277,6 +643,152 @@ Se l'applicazione di un principio, o di una sua procedura specifica, nell'ambito
  Il D.Lgs. 18 dicembre 2025, n. 192 ha disposto (con l'art. 9, comma 2) che "Le disposizioni di cui al comma 1 si applicano dagli esercizi che decorrono a partire dal 31 dicembre 2023".
 
 ## Art. 23. — Variazioni per il calcolo del reddito o perdita rilevante
+
+1.
+                        
+                            
+                                Ai fini del presente articolo si applicano le definizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «onere fiscale netto» indica, per un dato esercizio, la somma algebrica dei seguenti addendi: 
+ 1) ogni imposta rilevante contabilizzata come onere dell'esercizio e ogni imposta rilevante corrente e differita contabilizzata nella voce "imposte dell'esercizio" o equivalente, compresa ogni imposta rilevante relativa ad elementi di reddito che sono esclusi dal reddito o dalla perdita rilevante; 
+ 2) ogni imposta anticipata relativa a perdite, ai fini delle imposte rilevanti, registrata nell'esercizio; 
+ 3) ogni imposta minima nazionale o imposta minima nazionale equivalente contabilizzata come onere dell'esercizio; 
+ 4) ogni imposta contabilizzata come onere dell'esercizio e che risulta dovuta ai sensi del presente titolo, della direttiva o di altre disposizioni normative, anche estere, finalizzate alla implementazione delle regole OCSE; 
+ 5) ogni imposta accreditabile non rilevante contabilizzata come onere dell'esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «dividendo escluso» indica il dividendo o altra distribuzione percepita o maturata in relazione a una partecipazione diversa da quella: 
+ 1) detenuta dal gruppo in un'entita' che attribuisce un diritto inferiore al 10 per cento degli utili, del capitale o delle riserve, o dei diritti di voto di tale entita' alla data della distribuzione o della cessione (ossia una «partecipazione di portafoglio») e in cui l'impresa che riceve o matura il dividendo o altra distribuzione detiene la proprieta' economica da meno di un anno rispetto alla data della distribuzione; 
+ 2) in un'entita' d'investimento o un'entita' assicurativa di investimento soggetta all'opzione prevista all'articolo 50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «plusvalenze o minusvalenze escluse su partecipazioni» indica gli utili e le perdite netti contabilizzati da un'impresa e relative a: 
+ 1) utili e perdite conseguenti alle variazioni del fair value di una partecipazione diversa da una partecipazione di portafoglio; 
+ 2) utili o perdite relative a partecipazioni contabilizzate con il metodo del patrimonio netto; 
+ 3) utili e perdite conseguenti all'alienazione di una partecipazione diversa da una partecipazione di portafoglio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «utile o perdita netta imponibile da rivalutazione» indica, per un dato esercizio, il valore netto positivo o negativo, aumentato o diminuito dalle relative imposte rilevanti, conseguente all'applicazione di un principio contabile che, con riferimento agli immobili, impianti e attrezzature: 
+ 1) prevede l'effettuazione di aggiustamenti periodici del loro valore contabile per adeguarlo al loro fair value; 
+ 2) prevede la registrazione delle variazioni di valore nel prospetto delle altre componenti di conto economico complessivo; 
+ 3) non prevede la successiva contabilizzazione a conto economico di un utile o di una perdita gia' registrata nel prospetto delle altre componenti di conto economico complessivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «utili o perdite asimmetrici su cambi esteri» indica gli utili o perdite su valute estere maturati o realizzati da un'impresa che ha una valuta fiscale funzionale differente dalla valuta contabile funzionale e che sono: 
+ 1) inclusi nella determinazione del reddito imponibile ai fini delle imposte rilevanti di una impresa ma non nel suo utile o perdita contabile netti dell'esercizio e che sono generati dalle fluttuazioni del tasso di cambio tra la valuta contabile funzionale e la valuta fiscale funzionale; 
+ 2) inclusi nella determinazione dell'utile o perdita contabile netta dell'esercizio di un'impresa ma non nel suo reddito imponibile ai fini delle imposte rilevanti e che e' generata dalle fluttuazioni del tasso di cambio tra la valuta contabile funzionale e la valuta fiscale funzionale; 
+ 3) incluse nella determinazione dell'utile o perdita contabile netta dell'esercizio di un'impresa ma non nel suo reddito imponibile ai fini delle imposte rilevanti e che e' generata dalle fluttuazioni del tasso di cambio tra una valuta terza e la valuta contabile funzionale; 
+ 4) relative alle fluttuazioni del tasso di cambio tra una valuta terza e la valuta fiscale funzionale a prescindere dalla circostanza che il relativo utile o perdita su cambi abbia concorso a formare il reddito imponibile ai fini delle imposte rilevanti di un'impresa. Ai fini dei precedenti numeri da 1) a 4), la valuta fiscale funzionale e' la valuta funzionale utilizzata per determinare il reddito imponibile o la perdita dell'impresa ai fini della determinazione di un'imposta rilevante nel Paese in cui la stessa e' localizzata; la valuta contabile funzionale e' la valuta funzionale utilizzata per determinare l'utile o perdita contabile netta dell'impresa; una valuta terza e' una valuta diversa dalla valuta fiscale funzionale e dalla valuta contabile funzionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «oneri illeciti e sanzioni non deducibili» indica le spese e i costi sostenuti da un'impresa di natura illecita di qualsiasi importo o riferibili a sanzioni di importo pari o superiore a cinquantamila euro ovvero ad una somma equivalente denominata nella valuta contabile funzionale, se diversa dall'euro; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «errori relativi ad esercizi precedenti e cambiamenti di principi contabili»: ogni variazione del patrimonio netto di un'impresa all'inizio dell'esercizio attribuibile a: 
+ 1) la correzione di un errore nella determinazione del risultato di un esercizio precedente che ha inciso su ricavi o costi che possono essere inclusi nel calcolo del reddito o perdita rilevante del medesimo periodo, salva l'applicazione dell'articolo 32 nella misura in cui la correzione di un errore abbia comportato una diminuzione significativa delle imposte rilevanti; 
+ 2) un cambiamento nei principi contabili o nelle scelte di politiche contabili che ha inciso sulla determinazione del reddito o perdita rilevante; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «oneri pensionistici maturati» indica la differenza tra l'importo degli oneri pensionistici di competenza che hanno concorso a formare l'utile o perdita contabile netta di un esercizio e l'importo degli oneri pensionistici effettivamente corrisposti ad un fondo pensione nel corso di tale esercizio.
+
+2.
+                        
+                            
+                                Il reddito o la perdita rilevante di un'impresa e' pari all'importo del suo utile o perdita contabile netta, rettificato per tener conto delle seguenti variazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    onere fiscale netto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dividendi esclusi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    plusvalenze o minusvalenze escluse su partecipazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utile o perdita netta imponibile da rivalutazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    plusvalenze e minusvalenze da trasferimento di attivita' e passivita' escluse ai sensi dell'articolo 42; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    utili o perdite asimmetrici su cambi esteri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    oneri illeciti e sanzioni non deducibili; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    errori e cambiamenti nei principi contabili; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    oneri pensionistici maturati.
 
 Al fine di determinare il reddito o la perdita rilevante, su opzione esercitata dall'impresa dichiarante, si utilizza il valore fiscale dell'onere per pagamenti basati su azioni in luogo del relativo valore contabile. L'opzione e' esercitata in conformita' a quanto previsto all'articolo 52, comma 1 ed e' efficace per tutte le imprese localizzate nel medesimo Paese e per cinque esercizi a partire da quello con riferimento al quale e' stata esercitata.
 Nell'esercizio in cui l'opzione e' revocata, limitatamente ai pagamenti basati su azioni non ancora effettuati, concorre alla formazione del reddito o perdita rilevante l'eccedenza positiva dell'importo complessivo del valore fiscale dell'onere per pagamenti basati su azioni che ha concorso alla formazione del reddito o perdita rilevante negli esercizi di vigenza dell'opzione rispetto al corrispondente importo complessivo del valore contabile di tale onere.
@@ -301,6 +813,31 @@ L'eventuale importo residuo della plusvalenza netta complessiva, non compensato 
 Le imposte rilevanti relative alle plusvalenze o minusvalenze nette da cessioni di beni immobili di cui ai commi da 9 a 11, realizzate nell'esercizio di validita' dell'opzione dalle imprese localizzate nel Paese, sono escluse dal calcolo delle imposte rilevanti rettificate.
 
 Ai fini della determinazione del reddito o perdita rilevante, su opzione esercitata dall'impresa dichiarante, si includono le plusvalenze e le minusvalenze su partecipazioni di cui al comma 2, lettera c) e si considerano le relative imposte correnti o differite ai sensi dell'articolo 28, comma 4, secondo periodo. L'opzione e' effettuata in relazione alle imprese localizzate in un dato Paese secondo quanto previsto all'articolo 52, comma 1.
+
+14.
+                        
+                            
+                                I costi relativi ad un accordo finanziario infragruppo sostenuti da un'impresa finanziata non concorrono alla formazione del suo reddito o perdita rilevante qualora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa finanziata risulti localizzata in un Paese a bassa imposizione o che sarebbe stata tale se non li avesse sostenuti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' ragionevole attendersi che, nel corso della durata attesa dell'accordo, tali componenti negative saranno incluse nel reddito o perdita rilevante dell'impresa finanziata senza tuttavia comportare un corrispondente incremento del reddito imponibile dell'impresa che ha concesso il finanziamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il soggetto finanziatore e' un'impresa localizzata in un Paese che non si considera a bassa imposizione o che non sarebbe stato tale laddove tale impresa non avesse registrato le componenti positive di reddito relativi all'accordo infragruppo.
 
 La controllante capogruppo puo' scegliere, in conformita' con le previsioni di cui all'articolo 52, comma 1, per l'applicazione del trattamento contabile consolidato, ai fini della determinazione dell'importo netto del reddito o perdita rilevante delle imprese localizzate nel medesimo Paese e ivi soggette ad un regime di tassazione di gruppo. L'opzione di cui al primo periodo comporta l'elisione di tutte le componenti positive e negative di reddito generate da operazioni intervenute tra le suddette imprese partecipanti nel Paese al regime di tassazione di gruppo.
 Nell'esercizio con riferimento al quale l'opzione di cui al primo periodo e' stata esercita e nell'esercizio con riferimento al quale essa e' revocata, devono essere apportate le opportune modifiche al reddito o perdita rilevante delle imprese interessate al fine di evitare l'insorgere di fenomeni di doppia inclusione ovvero di doppia non inclusione delle componenti reddituali da considerare ai fini della determinazione del reddito o perdita rilevante.
@@ -350,6 +887,24 @@ La perdita rilevante di una stabile organizzazione e' un onere che concorre escl
 Imputazione del reddito o della perdita 
  rilevante di una entita' trasparente
 
+1.
+                        
+                            
+                                L'importo dell'utile o perdita contabile netta di esercizio di un'impresa che e' una entita' trasparente e' ridotto in misura corrispondente alla partecipazione di pertinenza dei suoi proprietari non appartenenti al gruppo, detenuta direttamente ovvero indirettamente attraverso una o piu' entita' fiscalmente trasparenti ad eccezione delle ipotesi in cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'entita' trasparente e' la controllante capogruppo; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'entita' trasparente e' detenuta direttamente, ovvero indirettamente attraverso una o piu' entita' fiscalmente trasparenti, dalla controllante capogruppo di cui alla lettera a).
+
 L'importo dell'utile o perdita contabile netta di esercizio di un'impresa che e' una entita' trasparente e' ridotto in misura corrispondente alla porzione dello stesso che e' imputata ad altre imprese.
 
 Se una entita' trasparente esercita, in tutto o in parte, un'attivita' d'impresa attraverso una stabile organizzazione, l'importo dell'utile o perdita contabile netta di esercizio che residua dopo l'applicazione della disposizione del comma 1 e' imputato alla stabile organizzazione in conformita' a quanto previsto nell'articolo 25.
@@ -364,9 +919,197 @@ Le disposizioni di cui ai commi 3, 4 e 5 si applicano separatamente in relazione
 
 ## Art. 27. — Imposte rilevanti
 
+1.
+                        
+                            
+                                Le imposte rilevanti di un'impresa comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le imposte contabilizzate in bilancio come imposte sul reddito relativamente alle sue componenti reddituali e ai suoi profitti, nonche' alle componenti reddituali e ai profitti di un'altra impresa imputati alla prima in virtu' della partecipazione in essa detenuta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le imposte sugli utili distribuiti, sulle distribuzioni presunte e sugli oneri non inerenti, prelevate nell'ambito di un regime di imposizione sull'utile distribuito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le imposte applicate in sostituzione delle imposte di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le imposte applicate con riferimento al valore degli utili non distribuiti e del patrimonio netto della societa' o altra entita' nonche' quelle applicate su piu' componenti basate sul reddito e sul patrimonio netto.
+
+2.
+                        
+                            
+                                Sono escluse dalle imposte rilevanti di un'impresa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'imposta minima integrativa e l'imposta minima integrativa equivalente dovuta da una controllante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo dovuto da un'impresa a titolo di imposta minima nazionale e di imposta minima nazionale equivalente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo dovuto da un'impresa a titolo di imposta minima suppletiva e di imposta minima suppletiva equivalente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'imposta accreditabile non rilevante; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le imposte pagate da una compagnia assicurativa con riferimento ai rendimenti spettanti agli assicurati.
+
 Le imposte relative alle plusvalenze derivanti da cessioni di immobilizzazioni materiali locali prelevate ai sensi dell'articolo 23, comma 9, nell'esercizio con riferimento al quale la relativa opzione e' esercitata non concorrono al calcolo delle imposte rilevanti.
 
 ## Art. 28. — Imposte rilevanti rettificate
+
+1.
+                        
+                            
+                                Le imposte rilevanti rettificate di un'impresa in un dato esercizio sono pari all'importo delle imposte rilevanti correnti che hanno concorso a determinare l'utile o la perdita contabile netti dell'esercizio, aumentati o diminuiti in misura pari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'importo netto delle variazioni in aumento e in diminuzione ai sensi dei commi 2 e 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'importo totale netto delle variazioni delle imposte anticipate e differite come calcolato ai sensi dell'articolo 29; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'importo degli incrementi o delle riduzioni delle imposte rilevanti imputate direttamente al patrimonio netto o al prospetto delle altre componenti di conto economico complessivo, relative a componenti positive o negative incluse nel reddito o perdita rilevante e che concorrono alla base imponibile delle imposte rilevanti secondo le regole fiscali locali.
+
+2.
+                        
+                            
+                                Le variazioni in aumento delle imposte rilevanti relative ad un esercizio sono pari alla somma: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle imposte rilevanti che hanno concorso a determinare l'utile o perdita netta contabile dell'esercizio come onere ai fini del computo della voce "utile ante imposte" ovvero di una voce equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle imposte anticipate relative alla perdita rilevante utilizzate ai sensi dell'articolo 30, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle imposte rilevanti pagate nell'esercizio e relative ad un trattamento fiscale incerto che in precedenza ha dato luogo ad una variazione in diminuzione delle imposte rilevanti (( ai sensi del comma 3, lettera g) )); ((13))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    di ogni ammontare a credito o a rimborso in relazione ad un credito di imposta rimborsabile qualificato che e' stato contabilizzato a riduzione delle imposte rilevanti.
+
+3.
+                        
+                            
+                                Le variazioni in diminuzione delle imposte rilevanti relative ad un esercizio sono pari alla somma: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle imposte correnti relative a componenti reddituali positive che sono state escluse dal calcolo del reddito o perdita rilevante ai sensi del capo III; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di ogni ammontare a credito o a rimborso in relazione ad un credito di imposta rimborsabile non qualificato, ad un credito d'imposta non negoziabile che non e' stato contabilizzato a riduzione delle imposte correnti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di ogni ammontare di imposte rilevanti rimborsate o riconosciute a credito a favore di una impresa, diverso da un credito di imposta rimborsabile qualificato e da un credito d'imposta negoziabile, che non e' stato contabilizzato in bilancio a riduzione delle imposte correnti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di un importo pari a quello utilizzato per compensare imposte rilevanti dovute nel periodo d'imposta che termina durante tale esercizio, nonche' dell'importo ricevuto nel medesimo esercizio a seguito di cessione del credito, in caso di un credito d'imposta non negoziabile detenuto o ceduto dal primo beneficiario che non e' stato contabilizzato in bilancio a riduzione delle imposte correnti dell'esercizio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    di un importo pari alla differenza tra il valore nominale del credito e il prezzo di acquisto in caso di un credito d'imposta non negoziabile detenuto da un titolare successivo che non e' stato contabilizzato in bilancio a riduzione delle imposte correnti dell'esercizio. Tale importo rileva nella proporzione con cui il credito d'imposta e' utilizzato per compensare imposte rilevanti di cui all'articolo 27; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    di un importo pari all'eventuale utile conseguito, in caso di ulteriore cessione del credito non negoziabile da parte di un titolare successivo che non e' stato contabilizzato in bilancio a riduzione delle imposte correnti dell'esercizio. Nel caso in cui, il titolare successivo realizzi una perdita in seguito ad una cessione di un credito non negoziabile questa concorre unicamente alla formazione del reddito o perdita rilevante; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    delle imposte correnti che sono relative ad un trattamento fiscale incerto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    delle imposte correnti il cui pagamento non e' dovuto entro il terzo anno successivo all'ultimo giorno dell'esercizio.
 
 In nessun caso le imposte rilevanti possono essere considerate piu' di una volta ai fini di quanto previsto dai commi 1, 2 e 3. Se e' stata effettuata l'opzione di cui all'articolo 23, comma 13, non si applica la variazione in diminuzione di cui al comma 3, lettera a), in relazione alle imposte rilevanti riferite alle componenti reddituali che hanno formato oggetto della suddetta scelta.
 
@@ -386,9 +1129,110 @@ Ai fini del comma 7, nel caso in cui un gruppo multinazionale o nazionale ceda u
 ## Art. 29. — Modifiche ai valori delle imposte anticipate 
  e delle imposte differite
 
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «accantonamenti disconosciuti»: indica le variazioni delle imposte anticipate e differite che hanno concorso a determinare l'utile o perdita netta contabile dell'esercizio di un'impresa relative ad un trattamento fiscale incerto e alle distribuzioni da parte di un'impresa del gruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «accantonamenti irrilevanti»: indica ogni incremento delle imposte differite che hanno concorso a determinare l'utile o perdita netta contabile dell'esercizio, la cui debenza ci si attende non avvenga entro il termine indicato al comma 7 e con riferimento alle quali l'impresa dichiarante sceglie, ai sensi dell'articolo 52, comma 2, per la loro non inclusione nell'importo totale netto delle variazioni delle imposte anticipate e differite relative al medesimo esercizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «recupero delle imposte differite»: indica, per ogni esercizio, l'ammontare delle imposte differite che: 
+ 1) sono state contabilizzate nel quinto esercizio ad esso precedente concorrendo a formare per tale esercizio l'importo totale netto delle variazioni delle imposte anticipate e differite; 
+ 2) si riferiscono a differenze temporanee che non si sono ancora riversate e le cui corrispondenti imposte rilevanti non sono state pagate entro l'esercizio; 
+ 3) non ricadono nella categoria delle eccezioni al recupero delle imposte differite. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «eccezioni al recupero delle imposte differite»: indica le imposte differite relative: 
+ 1) a costi, ammortamenti accelerati o anticipati relativi a beni tangibili o del relativo diritto d'uso; 
+ 2) al costo di concessioni pubbliche per l'uso di beni immobili o per lo sfruttamento di risorse naturali che comporta investimenti significativi in beni tangibili; 
+ 3) a spese di ricerca e sviluppo; 
+ 4) a costi di dismissione, di disinquinamento o di remissione in pristino; 
+ 5) alla contabilizzazione secondo il criterio del fair value di utili netti maturati ma non ancora realizzati a condizione che l'impresa non abbia esercitato l'opzione di cui all'articolo 23, comma 7; 
+ 6) ad utili netti da conversione di voci in valuta estera; 
+ 7) a riserve tecniche assicurative nonche' ai costi di acquisizione differiti pluriennali; 
+ 8) a plusvalenze relative alla cessione di immobilizzazioni materiali ubicate nel Paese di localizzazione dell'impresa alienante i cui proventi sono reinvestiti nell'acquisto di altre immobilizzazioni materiali ivi ubicate; 
+ 9) ad importi aggiuntivi contabilizzati in conseguenza di modifiche dei principi contabili relativamente ad uno o piu' dei punti da 1) a 8).
+
 Se in un esercizio l'aliquota nominale utilizzata per calcolare le imposte anticipate e differite ai fini dell'utile o perdita netta contabile di un'impresa e' pari o inferiore alla aliquota di imposizione minima, l'importo totale netto delle variazioni delle imposte anticipate e differite e' pari all'importo netto delle stesse, aumentato e diminuito ai sensi dei commi 3, 4, 5 e 6. Se l'aliquota nominale utilizzata per calcolare le imposte anticipate e differite ai fini dell'utile o perdita netta contabile di un'impresa e' superiore alla aliquota di imposizione minima, l'importo totale netto delle variazioni delle imposte anticipate e differite e' pari all'importo netto delle stesse ricalcolato avendo a riferimento l'aliquota di imposizione minima, aumentato e diminuito ai sensi dei commi 3, 4, 5 e 6.
 
+3.
+                        
+                            
+                                L'importo totale netto delle variazioni delle imposte anticipate e differite deve essere aumentato in misura pari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'importo pagato nel corso dell'esercizio relativo agli accantonamenti disconosciuti e agli accantonamenti irrilevanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'importo del recupero delle imposte differite pagato nel corso dell'esercizio.
+
 Se in un esercizio le imposte anticipate relative ad una perdita non sono state contabilizzate in mancanza dei relativi presupposti contabili, l'importo totale netto delle variazioni delle imposte anticipate e differite deve essere comunque ridotto in misura pari all'importo dell'imposte anticipate che sarebbe stato rilevato assumendone la sussistenza.
+
+5.
+                        
+                            
+                                L'importo totale netto delle variazioni delle imposte anticipate e differite non include: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'importo netto delle variazioni delle imposte anticipate e differite relative a componenti reddituali che non concorrono alla formazione del reddito o perdita rilevante ai sensi dalle disposizioni del capo III; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo delle imposte anticipate e differite relative agli accantonamenti disconosciuti ed agli accantonamenti irrilevanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le iscrizioni o cancellazioni, totali o parziali, di imposte anticipate contabilizzate per effetto di modifiche dei loro presupposti di registrazione contabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'importo relativo alle modifiche delle imposte anticipate e differite conseguenti alla variazione dell'aliquota di imposizione nominale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'importo netto delle variazioni delle imposte anticipate e differite contabilizzate in conseguenza del riconoscimento e utilizzo di crediti di imposta.
 
 Se in un esercizio l'importo delle imposte anticipate contabilizzato da un'impresa e' stato determinato applicando una aliquota di imposizione nominale inferiore all'aliquota minima d'imposta e l'impresa e' in grado di dimostrare che tali imposte anticipate sono attribuibili ad una perdita rilevante, detto importo puo' essere ricalcolato nell'esercizio utilizzando l'aliquota minima d'imposta. Nelle ipotesi in cui l'importo delle imposte anticipate e' stato aumentato ai sensi del primo periodo, l'importo totale netto delle variazioni delle imposte differite e anticipate deve essere ridotto in misura corrispondente.
 
@@ -465,6 +1309,76 @@ L'aliquota di imposizione integrativa di un Paese, relativa ad un esercizio, e' 
 
 Nel caso in cui un gruppo multinazionale o nazionale ceda una o piu' imprese localizzate nel Paese, l'importo negativo di imposte rilevanti rettificate di cui al comma 2 rimane attribuito al gruppo cedente che deve tenere memoria del saldo residuo del suddetto riporto. Se residua un importo negativo di imposte rilevanti rettificate di cui al comma 2 e il gruppo multinazionale o nazionale non ha piu' imprese localizzate nel Paese ma, in un esercizio successivo, ne acquisisce o ne costituisce delle altre nel medesimo Paese, il suddetto importo negativo di imposte rilevanti rettificate residuo deve essere utilizzato per quel Paese, a partire da tale esercizio successivo, secondo quanto previsto al terzo periodo del comma 2.
 
+4.
+                        
+                            
+                                In un esercizio l'imposizione integrativa dovuta per un Paese e' pari al prodotto tra il profitto eccedente del Paese e l'aliquota di imposizione integrativa, maggiorato dell'imposizione integrativa addizionale relativa al Paese, determinata ai sensi dell'articolo 36, e ridotto dell'importo della imposta minima nazionale, determinata ai sensi dell'articolo 18, o della imposta minima nazionale equivalente fino a concorrenza del suo azzeramento. Affinche' l'imposizione integrativa sia ridotta dall'imposta minima nazionale o dall'imposta minima nazionale equivalente quest'ultime devono considerarsi dovute.
+A tal fine l'imposta minima nazionale o l'imposta minima nazionale equivalente non si considera dovuta quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il gruppo ne contesta direttamente o indirettamente la debenza nell'ambito di una procedura giudiziale o amministrativa, sulla base di ragioni di legittimita' dell'imposta quali quelle di ordine costituzionale ovvero derivanti da obblighi internazionali del Paese; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorita' fiscale del Paese ha stabilito che la propria imposta minima nazionale non e' prelevabile o accertabile in base a ragioni di legittimita' costituzionale ovvero derivanti da obblighi internazionali del Paese.
+
+5.
+                        
+                            
+                                In deroga al comma 4, su opzione dell'impresa dichiarante, l'imposizione integrativa dovuta per un Paese e' pari a zero se l'imposta minima nazionale o l'imposta minima nazionale equivalente ivi dovuta rispetta le condizioni previste da un accordo internazionale sui regimi semplificati di cui all'articolo 39, comma 2. Il primo periodo non si applica in relazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((alle imprese e alle entita' localizzate in un Paese che non applica l'imposta minima nazionale equivalente alle entita' trasparenti diverse dalle entita' apolidi)); ((13))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    alle entita' d'investimento localizzate in un Paese che non applica l'imposta minima nazionale equivalente a tali entita' soggette a disposizioni analoghe a quelle degli articoli 48, 49 e 50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle imprese e entita' localizzate in un Paese che non applica l'imposta minima nazionale equivalente per un periodo analogo a quello previsto nell'articolo 56; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle entita' a controllo congiunto o ai membri di un gruppo a controllo congiunto localizzati in un Paese che applica l'imposta minima nazionale equivalente con riferimento agli stessi ma impone la responsabilita' del pagamento dell'imposta alle imprese del gruppo multinazionale. 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((alle imprese e alle entita' localizzate in un Paese che non applica disposizioni analoghe a quelle previste nell'articolo 54, commi 4-bis, 4-ter, 4-quater e 4-quinquies, ai fini dell'imposta minima nazionale equivalente o ai fini del calcolo del valore delle imposte rilevanti semplificate previste da un accordo internazionale sui regimi transitori semplificati di cui all'articolo 39, comma 2;))
+                                        ((13))
+                                    
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    
+                                        ((alle imprese e alle entita' localizzate in un Paese che non applica l'imposta minima nazionale equivalente ai veicoli di cartolarizzazione.))
+                                        ((13))
+
 Il profitto eccedente di cui al comma 4, relativo ad un esercizio, corrisponde all'eventuale importo positivo dato dalla differenza tra il reddito netto rilevante per il Paese, calcolato ai sensi dell'articolo 33, comma 3, e la riduzione del reddito da attivita' economica sostanziale, determinata ai sensi dell'articolo 35 in relazione al medesimo Paese.
 
 Salvo quanto previsto nell'articolo 36, comma 3, in un esercizio l'imposizione integrativa relativa ad ogni impresa con un reddito rilevante localizzata in un Paese e' pari all'importo determinato ai sensi del comma 4 primo periodo moltiplicato per il rapporto tra il suo reddito rilevante e la somma dei redditi rilevanti di tutte le imprese localizzate nel medesimo Paese.
@@ -484,11 +1398,96 @@ Se l'importo della imposta minima nazionale equivalente, relativa ad un esercizi
 
 Riduzione da attivita' economica sostanziale
 
+1.
+                        
+                            
+                                Ai fini del presente articolo si applicano le definizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «dipendenti ammissibili»: i dipendenti impiegati a tempo pieno o a tempo parziale di un'impresa e i prestatori di lavoro indipendenti che partecipano alle attivita' operative ordinarie del gruppo multinazionale o nazionale sotto la direzione e il controllo dello stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((«spese salariali ammissibili»: le spese per le indennita' dei dipendenti, inclusi gli stipendi, i salari e le altre spese sostenute a beneficio personale diretto e distinto dei dipendenti, quali l'assicurazione sanitaria e i contributi pensionistici, le imposte sulle spese salariali e sull'occupazione nonche' i contributi previdenziali a carico del datore di lavoro;))
+                                        ((13))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    «immobilizzazioni materiali ammissibili»: 
+ 1) immobili, impianti e attrezzature localizzate nel Paese; 
+ 2) risorse naturali localizzate nel Paese; 
+ 3) il diritto del locatario o del locatore di utilizzare beni tangibili localizzati nel Paese; 
+ 4) licenza o accordo analogo da parte dell'amministrazione pubblica per l'uso di beni immobili o lo sfruttamento di risorse naturali che comportano un investimento significativo in beni tangibili.
+
 Il reddito netto rilevante per un dato Paese e' ridotto, ai fini del calcolo dell'imposizione integrativa, di un importo pari alla somma della riduzione per spese salariali di cui al comma 3 del presente articolo e della riduzione per immobilizzazioni materiali di cui al comma 4 del presente articolo, entrambe calcolate in relazione a ciascuna impresa localizzata nel Paese. Il primo periodo non si applica se l'impresa dichiarante di un gruppo multinazionale o nazionale sceglie, ai sensi dell'articolo 52, comma 2, di non avvalersi per l'esercizio della riduzione del reddito basata sullo svolgimento di una attivita' economica sostanziale.
+
+3.
+                        
+                            
+                                La riduzione basata sulle spese salariali di un'impresa localizzata in un Paese e' pari al 5 per cento delle sue spese salariali ammissibili per i dipendenti ammissibili che esercitano attivita' per il gruppo multinazionale o nazionale in detto Paese, fatta eccezione per le spese salariali ammissibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    capitalizzate e incluse nel valore contabile delle immobilizzazioni materiali ammissibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    imputabili a un reddito escluso a norma dell'articolo 24.
+
+4.
+                        
+                            
+                                La riduzione basata sulle immobilizzazioni materiali di un'impresa localizzata in un Paese e' pari al 5 per cento del valore contabile delle immobilizzazioni materiali ammissibili localizzate nel Paese, fatta eccezione per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il valore contabile degli immobili, compresi terreni ed edifici, posseduti per la vendita, la locazione o l'investimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il valore contabile delle immobilizzazioni materiali utilizzate per generare un reddito escluso a norma dell'articolo 24.
 
 Ai fini del comma 4, il valore contabile delle immobilizzazioni materiali ammissibili corrisponde alla media del valore contabile delle immobilizzazioni materiali ammissibili all'inizio e alla fine dell'esercizio, quale registrato ai fini della predisposizione del bilancio consolidato della controllante capogruppo, eventualmente ridotto di svalutazioni, ammortamenti, perdite per riduzioni di valore accumulate ed eventualmente incrementato dell'importo imputabile alla capitalizzazione delle spese salariali.
 
 Ai fini dei commi 3 e 4, le spese salariali ammissibili e le immobilizzazioni materiali ammissibili di un'impresa che e' una stabile organizzazione sono quelle incluse nella relativa contabilita' separata a norma dell'articolo 25, commi 1 e 2, a condizione che le spese salariali ammissibili e le immobilizzazioni materiali ammissibili sono localizzate nello stesso Paese in cui e' localizzata la stabile organizzazione. Le spese salariali ammissibili e le immobilizzazioni materiali ammissibili di una stabile organizzazione non sono prese in considerazione per le spese salariali ammissibili e le immobilizzazioni materiali ammissibili della casa madre. Nel caso in cui il reddito di una stabile organizzazione e' stato escluso, in tutto o in parte, ai sensi dell'articolo 26, comma 1, e dell'articolo 45, comma 5, le spese salariali ammissibili e le immobilizzazioni materiali ammissibili di tale stabile organizzazione sono escluse nella stessa proporzione dal calcolo di cui al presente articolo per il gruppo multinazionale o nazionale.
+
+7.
+                        
+                            
+                                Le spese salariali ammissibili dei dipendenti ammissibili sostenute da una entita' trasparente e le immobilizzazioni materiali ammissibili di sua proprieta' che non sono attribuite ai sensi del comma 6 sono attribuite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle imprese proprietarie dell'entita' trasparente, nella stessa proporzione indicata nell'articolo 26, comma 4, a condizione che i dipendenti ammissibili e le immobilizzazioni materiali ammissibili sono localizzati nel Paese delle imprese proprietarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'entita' trasparente se e' la controllante capogruppo, ridotte in proporzione al reddito escluso dal calcolo del reddito rilevante dell'entita' trasparente ai sensi dell'articolo 45, commi 1 e 2, a condizione che i dipendenti ammissibili e le immobilizzazioni materiali ammissibili sono localizzati nel Paese dell'entita' trasparente.
 
 Tutte le spese salariali ammissibili e le immobilizzazioni materiali ammissibili dell'entita' trasparente, non attribuite ai sensi dei commi 6 e 7, sono escluse dal calcolo della riduzione del reddito basata sullo svolgimento di una attivita' economica sostanziale del gruppo multinazionale o nazionale di imprese.
 
@@ -535,6 +1534,38 @@ L'esclusione de minimis di cui ai commi da 1 a 4 non e' applicabile alle imprese
 
 ## Art. 38. — Imprese partecipate in misura minoritaria
 
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «impresa partecipata in misura minoritaria»: indica un'impresa nella quale la controllante capogruppo detiene, direttamente o indirettamente, una partecipazione pari o inferiore al 30 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «impresa partecipante di minoranza»: indica un'impresa partecipata in misura minoritaria che detiene, direttamente o indirettamente, una partecipazione di controllo in un'altra impresa partecipata in misura minoritaria ad eccezione del caso in cui la partecipazione di controllo nella prima impresa e' detenuta, a sua volta, direttamente o indirettamente da un'impresa partecipata in misura minoritaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «sottogruppo di minoranza»: indica un'impresa partecipante di minoranza e le imprese partecipate di minoranza nei cui confronti la prima detiene una partecipazione di controllo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «impresa partecipata di minoranza»: indica un'impresa partecipata in misura minoritaria la cui partecipazione di controllo e' detenuta, direttamente o indirettamente, da una impresa partecipante di minoranza.
+
 Con riferimento alle imprese di un sottogruppo di minoranza, il calcolo dell'aliquota d'imposizione effettiva e della imposizione integrativa per un Paese, ai sensi delle disposizioni dei capi da III a VII, deve essere effettuato trattando tale sottogruppo di minoranza come se fosse un gruppo distinto.
 
 Le imposte rilevanti rettificate e il reddito o perdita rilevante delle imprese costituenti un sottogruppo di minoranza sono irrilevanti ai fini del calcolo, ai sensi dell'articolo 33, commi 1 e 3, dell'aliquota di imposizione effettiva e del reddito netto rilevante del gruppo in relazione ad un Paese.
@@ -569,6 +1600,40 @@ Le disposizioni attuative dei regimi semplificati di cui al comma 1 sono adottat
 
 ## Art. 40. — Calcolo della soglia rilevante di ricavi in caso di fusioni e scissioni di gruppi multinazionali e nazionali
 
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «fusione»: indica un'operazione per effetto della quale: 
+ 1) tutte o almeno il 90 per cento delle entita' appartenenti a due o piu' differenti gruppi multinazionali o nazionali sono poste sotto un unico controllo con l'effetto di formare un unico gruppo; o  2) una entita' che non era parte di alcun gruppo diventa parte di un gruppo multinazionale o nazionale; o 
+ 3) si verifica l'unificazione di due o piu' entita' in un solo gruppo multinazionale o nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «scissione»: indica un'operazione per effetto della quale le entita' di un gruppo multinazionale o nazionale si separano in due o piu' gruppi distinti che non sono piu' consolidati dalla medesima controllante capogruppo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «gruppo beneficiario»: indica un gruppo che origina dalla scissione di un gruppo multinazionale o nazionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «gruppo scisso»: indica il gruppo che residua a seguito della scissione di un gruppo multinazionale o nazionale e da cui origina uno o piu' gruppi beneficiari.
+
 Se due o piu' gruppi si sono fusi costituendo un unico gruppo in uno degli ultimi quattro esercizi consecutivi immediatamente precedenti a quello considerato, ((la soglia di ricavi di cui all'articolo 9)) negli esercizi anteriori alla fusione e rientranti nei quattro esercizi anteriori a quello considerato, e' verificata sommando i ricavi registrati nel bilancio consolidato di ciascuno di essi. ((13))
 
 Se in un esercizio un'entita' che non appartiene ad un gruppo si fonde con un'altra entita' appartenente o meno ad un gruppo e una di esse o entrambe non erano incluse in un bilancio consolidato relativo a ciascuno dei quattro esercizi ad esso anteriori, ((la soglia dei ricavi di cui all'articolo 10)), relativa a ciascun esercizio, e' verificata sommando i ricavi da esse contabilizzati nei propri bilanci, singoli o consolidati, relativo a ciascuno dei quattro esercizi anteriori a quello considerato. ((13))
@@ -576,6 +1641,24 @@ Se in un esercizio un'entita' che non appartiene ad un gruppo si fonde con un'al
 Nella ipotesi di cui al comma 2, se non vi e' corrispondenza tra il periodo temporale cui fanno riferimento i bilanci consolidati dei due o piu' gruppi partecipanti alla fusione, i valori dei ricavi di cui all'articolo 10 sono quelli ricompresi nei bilanci consolidati relativi ad esercizi che terminano con ovvero entro l'esercizio cui si riferisce il bilancio consolidato del gruppo risultante dalla fusione.
 
 Nelle ipotesi di cui al comma 3, se non vi e' corrispondenza tra il periodo temporale cui fanno riferimento il bilancio singolo e il bilancio consolidato delle imprese partecipanti alla fusione, ((i valori dei ricavi di cui all'articolo 10)) sono quelli ricompresi nel bilancio singolo e nel bilancio consolidato relativi ad esercizi che terminano con ovvero entro l'esercizio cui si riferisce il bilancio consolidato successivo all'operazione di fusione o acquisizione. ((13))
+
+6.
+                        
+                            
+                                Se in un esercizio un gruppo multinazionale o nazionale, rientrante nell'ambito di applicazione del presente titolo, si scinde in uno o piu' gruppi beneficiari neocostituiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento all'esercizio nel corso del quale l'operazione di scissione e' avvenuta, ((il requisito dimensionale richiesto all'articolo 10)) relativo ad un gruppo beneficiario e ad un gruppo scisso si considera verificato se e' raggiunta la soglia dei ricavi indicati nel suddetto articolo 10, riproporzionata avendo a riferimento la sua durata; ((13))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimento ai tre esercizi successivi a quello di cui alla lettera a), il requisito dimensionale richiesto all'articolo 10, relativo ad un gruppo beneficiario o ad un gruppo scisso, si considera verificato nel secondo esercizio, compreso quello di cui alla lettera a), in cui e' raggiunta la soglia dei ricavi indicati nel suddetto articolo 10.
 
 ------------
                             AGGIORNAMENTO (13)
@@ -606,7 +1689,92 @@ In deroga ai commi da 1 a 8, l'acquisizione o la cessione di una partecipazione 
 
 Trasferimento di attivita' e passivita'
 
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «riorganizzazione»: indica una operazione di trasformazione o di trasferimento di attivita' e passivita' a condizione che: 
+ 1) il corrispettivo dell'operazione e' costituito, in tutto o in via maggioritaria, da una partecipazione emessa dall'impresa acquirente o da una entita' ad essa connessa, o, nel caso di una liquidazione, e' annullata la partecipazione nell'entita' liquidata.
+In assenza di corrispettivo, rientrano tra le operazioni di riorganizzazione i trasferimenti di attivita' e passivita' a fronte dei quali non vi e' una emissione di partecipazioni in quanto tale emissione sarebbe priva di significato economico; 
+ 2) l'utile o perdita dell'operazione non concorre, in tutto o in parte, a formare il reddito imponibile della entita' trasferente ai fini delle imposte del Paese in cui questa e' localizzata; 
+ 3) il Paese di localizzazione della entita' acquirente impone a quest'ultima di subentrare nella posizione della entita' trasferente in ordine al valore degli elementi della attivita' e passivita' trasferite ai fini delle imposte rilevanti, tenendo conto dell'eventuale utile o perdita non qualificante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «utile o perdita non qualificante»: indica l'importo minore tra l'utile o la perdita dell'impresa cedente sorti in relazione a una riorganizzazione e assoggettati a imposizione nel luogo di localizzazione dell'impresa cedente e l'utile o la perdita contabile che sorge in relazione alla riorganizzazione.
+
+2.
+                        
+                            
+                                In caso di trasferimento di attivita' e passivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa trasferente include nel proprio reddito o perdita rilevante l'utile o perdita derivante dal trasferimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa acquirente determina il proprio reddito o perdita rilevante avendo a riferimento il valore contabile delle attivita' e passivita' ricevute determinato in base ai principi contabili adottati nel bilancio consolidato della propria controllante capogruppo.
+
 In deroga a quanto previsto al comma 2, se il trasferimento di attivita' e passivita' avviene nell'ambito di una riorganizzazione, l'utile o la perdita contabile da trasferimento realizzati dall'impresa trasferente non concorrono a formare il suo reddito o perdita rilevante e l'impresa acquirente determina il proprio reddito o perdita rilevante avendo a riferimento il valore contabile che le stesse attivita' e passivita' avevano in capo all'impresa trasferente al momento del trasferimento.
+
+4.
+                        
+                            
+                                In deroga a quanto previsto ai commi 2 e 3, se il trasferimento di attivita' e passivita' avviene nell'ambito di una riorganizzazione che determina per l'entita' trasferente l'emersione di un utile o perdita non qualificante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa trasferente include nel calcolo del proprio reddito o perdita rilevante un importo pari all'utile o perdita da trasferimento nei limiti dell'utile o perdita non qualificante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa acquirente determina il proprio reddito o perdita rilevante dopo l'acquisizione avendo a riferimento il valore contabile che le stesse attivita' e passivita' avevano in capo alla entita' trasferente al momento del trasferimento, rettificato coerentemente con le norme fiscali locali dell'impresa acquirente per tener conto dell'utile o perdita non qualificante.
+
+5.
+                        
+                            
+                                Su opzione dell'impresa dichiarante, se un'impresa e' tenuta o autorizzata ad allineare ai fini fiscali, nel Paese in cui e' localizzata, il valore delle sue attivita' e passivita' al corrispondente fair value, essa puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    includere nel calcolo del reddito o perdita rilevante un importo dell'utile o della perdita per ciascuna delle sue attivita' e passivita': 
+ 1) pari alla differenza, rispettivamente positiva o negativa, tra il fair value dell'attivita' o passivita' immediatamente dopo la data dell'evento che ha innescato l'aggiustamento fiscale «evento attivatore» e il valore contabile delle attivita' o passivita' immediatamente prima dell'evento attivatore; e 
+ 2) diminuita (o aumentata) dell'eventuale utile o perdita non qualificante sorta in relazione all'evento attivatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avvalersi del fair value delle attivita' o passivita' immediatamente dopo l'evento attivatore per determinare il reddito o la perdita rilevante negli esercizi che terminano dopo l'evento attivatore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    puo', a sua discrezione, far concorrere integralmente il valore complessivo netto calcolato ai sensi della lettera a) ai fini del calcolo del reddito o perdita rilevante dell'esercizio nel corso del quale si e' verificato l'evento attivatore ovvero far concorrere tale valore in quote costanti nell'esercizio stesso e nei successivi ma non oltre il quarto.
 
 Se in un esercizio compreso nel quinquennio di cui alla lettera c) del comma 5, un'impresa cessa di essere parte del gruppo multinazionale o nazionale, il valore complessivo netto calcolato ai sensi della lettera a) del comma 5 che non ha ancora concorso a determinare il reddito o perdita rilevante nei precedenti esercizi concorre integralmente a formare il reddito rilevante di tale esercizio.
 
@@ -621,6 +1789,38 @@ Il calcolo dell'imposizione integrativa, secondo le disposizioni dei capi da III
 L'imposizione integrativa dovuta con riferimento ad una entita' a controllo congiunto o ad un gruppo a controllo congiunto e' ridotta in misura pari all'importo di imposizione integrativa attribuibile ad ogni controllante ai sensi dei commi 1 e 2 relativa all'entita' a controllo congiunto o ad ogni entita' appartenente al gruppo a controllo congiunto. L'eventuale imposizione integrativa calcolata con riferimento ad una entita' a controllo congiunto o ad un gruppo a controllo congiunto che residua dopo l'applicazione del primo periodo deve essere aggiunta all''importo complessivo dell'imposta minima suppletiva ai sensi dell'articolo 21, comma 2.
 
 ## Art. 44. — Gruppi a controllante multipla
+
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «gruppo a controllante multipla»: indica due o piu' gruppi multinazionali o nazionali di imprese le cui controllanti capogruppo sottoscrivono un accordo che e' una struttura vincolata o un accordo tra gruppi quotati che include almeno una entita' o una stabile organizzazione di tale nuovo gruppo che e' localizzata in un Paese differente da quello di localizzazione delle altre entita' dello stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «struttura vincolata»: indica un accordo sottoscritto tra due o piu' controllanti capogruppo appartenenti a gruppi distinti in forza del quale: 
+ 1) una partecipazione non inferiore al 50 per cento nelle controllanti capogruppo e' vincolata, attraverso particolari forme di titolarita' o di restrizioni alla circolazione ovvero di altri termini e condizioni, in modo tale da non poter essere trasferita o compravenduta se non congiuntamente e, se quotata in un mercato di capitali, la relativa quotazione avviene in forma unitaria; 
+ 2) una delle controllanti capogruppo predispone un bilancio consolidato, sottoposto a revisione legale, in cui le attivita', le passivita', le componenti positive e negative di reddito e i flussi finanziari di tutte le entita' appartenenti ai gruppi interessati sono presentati congiuntamente come un unico gruppo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «accordo tra gruppi quotati»: indica un accordo sottoscritto tra due o piu' controllanti capogruppo appartenenti a gruppi distinti in forza del quale: 
+ 1) conducono le rispettive attivita' imprenditoriali in maniera unitaria esclusivamente su base contrattuale e non attraverso la loro soggezione ad un comune controllo; 
+ 2) ogni controllante capogruppo eroga dividendi o proventi da liquidazione a favore dei rispettivi proprietari in base ad accordi contrattuali che prevedono delle percentuali di ripartizione fisse; 
+ 3) le attivita' delle singole controllanti capogruppo sono gestite come se fossero articolazioni della medesima realta' economica in virtu' di specifici accordi pur rimanendo quest'ultime imprese giuridicamente autonome; 
+ 4) le partecipazioni delle singole controllanti capogruppo parte dell'accordo sono quotate, scambiate o trasferite in modo autonomo in differenti mercati di capitali; 
+ 5) le controllanti capogruppo predispongono il bilancio consolidato, sottoposto a revisione legale, nel quale sono riportate, come se fossero parte di un unico gruppo, le attivita', le passivita', le componenti positive e negative di reddito e i flussi finanziari di tutte le imprese interessate.
 
 Le entita' e le imprese appartenenti ad ogni gruppo di cui alla lettera a) del comma 1, sono trattate come imprese appartenenti ad un gruppo a controllante multipla.
 
@@ -643,12 +1843,143 @@ Le controllanti capogruppo di un gruppo a controllante multipla devono presentar
 Entita' trasparente con qualifica 
  di controllante capogruppo
 
+1.
+                        
+                            
+                                Il reddito rilevante di una entita' trasparente che assume la qualifica di controllante capogruppo e' ridotto, in un esercizio, in misura pari alla quota dello stesso che e' attribuibile a ciascuno dei suoi partecipanti a condizione che, con riferimento a tale quota, il titolare della partecipazione sia soggetto ad imposizione in un periodo d'imposta che termina entro i dodici mesi successivi a quello in cui termina l'esercizio in esame e: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il titolare della partecipazione sia assoggettato ad imposizione con una aliquota nominale pari o superiore alla aliquota minima d'imposta, o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo complessivo delle imposte rilevanti rettificate della controllante capogruppo e delle imposte dovute, su tale reddito, dal titolare della partecipazione sia pari o superiore all'importo corrispondente al prodotto tra la suddetta quota di reddito e l'aliquota minima d'imposta.
+
+2.
+                        
+                            
+                                In aggiunta a quanto previsto al comma 1, il reddito rilevante di una entita' trasparente che e' la controllante capogruppo e' ridotto in misura pari alla quota dello stesso che e' attribuibile al suo partecipante a condizione che quest'ultimo sia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una persona fisica che e' residente ai fini fiscali nel medesimo Paese di localizzazione della controllante capogruppo e detenga in essa una partecipazione il cui diritto agli utili e ai beni sia pari o inferiore al 5 per cento; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una entita' statale, una organizzazione internazionale, una organizzazione senza scopo di lucro o un fondo pensione, residente nel Paese di localizzazione della controllante capogruppo e detenga in essa una partecipazione il cui diritto agli utili e ai beni sia pari o inferiore al 5 per cento. Ai fini del precedente periodo, il Paese di residenza coincide con il Paese in cui il soggetto e' costituito e amministrato.
+
 La perdita rilevante di una entita' trasparente che e' la controllante capogruppo deve essere ridotta, in un esercizio, in misura pari alla quota della stessa che e' attribuibile al suo partecipante se e nella misura in cui quest'ultimo abbia il diritto ad utilizzare la perdita dell'entita' trasparente nel calcolo del suo reddito imponibile.
 
 Le imposte rilevanti di una entita' trasparente che e' la controllante capogruppo si riducono in misura corrispondente alla riduzione del reddito rilevante determinata ai sensi dei commi 1 e 2.
 
+5.
+                        
+                            
+                                Le disposizioni dei precedenti commi si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla stabile organizzazione attraverso la quale una entita' trasparente che e' la controllante capogruppo esercita in tutto o in parte la propria attivita' commerciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla stabile organizzazione attraverso la quale una entita' fiscalmente trasparente esercita in tutto o in parte la propria attivita' commerciale a condizione che la partecipazione in detta entita' sia direttamente detenuta dalla controllante capogruppo ovvero indirettamente detenuta attraverso una struttura fiscalmente trasparente.
+
 ## Art. 46. — Controllante capogruppo soggetta 
  al regime del dividendo deducibile
+
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «regime del dividendo deducibile»: indica un regime fiscale finalizzato a realizzare un unico livello di imposizione sul reddito in capo ai proprietari di una entita' ottenuto attraverso la deduzione degli utili ad essi distribuiti dalla base imponibile dell'entita'. A tale regime sono assimilati i regimi fiscali di esenzione delle cooperative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «dividendo deducibile»: indica, con riferimento ad un'impresa che e' soggetta al regime del dividendo deducibile: 
+ 1) una distribuzione di utili a favore di un suo proprietario che e' deducibile ai fini della determinazione della base imponibile dell'impresa nel suo Paese di localizzazione; 
+ 2) i ristorni o distribuzione di utili a favore di soci delle cooperative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «cooperativa»: indica una entita' che acquista o vende beni o servizi per conto dei suoi soci e che nel proprio Paese di localizzazione e' soggetta ad un regime fiscale volto a garantire la neutralita' fiscale dei beni o servizi da essa acquistati o venduti per conto dei suoi soci; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «cooperativa di consumo» o «supply cooperative»: indica una cooperativa che acquista beni e servizi sul mercato e li rivende ai propri soci.
+
+2.
+                        
+                            
+                                In un esercizio il reddito rilevante della controllante capogruppo che e' soggetta ad un regime del dividendo deducibile e' ridotto, fino alla sua concorrenza, in misura corrispondente ai dividendi deducibili da essa distribuiti nei dodici mesi successivi al termine dell'esercizio di riferimento, a condizione che i dividendi sono assoggettati ad imposizione in capo al loro percettore in un periodo d'imposta che termina entro i dodici mesi successivi all'esercizio di riferimento e: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'aliquota di imposizione e' pari o superiore all'aliquota minima d'imposta; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo complessivo delle imposte rilevanti rettificate della controllante capogruppo e delle imposte dovute dai percettori dei dividendi deducibili e' pari o superiore al prodotto tra il reddito rilevante della controllante capogruppo al lordo del dividendo deducibile distribuito e l'aliquota minima d'imposta; o 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il percettore del dividendo sia una persona fisica e il dividendo percepito rappresenti una distribuzione di utili o un ristorno a favore dei propri soci effettuata da una cooperativa di consumo.
+
+3.
+                        
+                            
+                                La riduzione del reddito rilevante di cui al comma 2 si applica ai dividendi distribuiti entro i dodici mesi successivi al termine dell'esercizio di riferimento anche quando il percettore e': 
+ 
+                            
+                            
+                                a)
+                                
+                                    una persona fisica fiscalmente residente nel Paese di localizzazione della controllante capogruppo e detiene in essa una partecipazione il cui diritto agli utili e ai beni e' pari o inferiore al 5 per cento; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    residente nel Paese di localizzazione della controllante capogruppo ed e' una entita' statale, una organizzazione internazionale, una organizzazione senza scopo di lucro o un fondo pensione diverso da una entita' di servizi pensionistici. Ai fini del precedente periodo, il Paese di residenza coincide con il Paese in cui il soggetto e' costituito e amministrato.
 
 La controllante capogruppo riduce le imposte rilevanti, diverse dalle imposte rilevanti la cui base imponibile e' stata ridotta per effetto dei dividendi distribuiti, in misura proporzionale al rapporto tra dividendo deducibile distribuito e l'utile dell'esercizio e riduce il reddito rilevante del medesimo importo.
 
@@ -657,6 +1988,36 @@ Se la controllante capogruppo detiene una partecipazione in un'impresa soggetta 
 Ai fini del comma 2, una distribuzione di utili o i ristorni a favore dei propri soci effettuati da una cooperativa di consumo deve considerarsi soggetta ad imposta in capo ad essi se e nella misura in cui tale distribuzione o ristorno riduce il valore degli oneri deducibili ai fini della determinazione del loro reddito imponibile.
 
 ## Art. 47. — Regime di imposizione sull'utile distribuito
+
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ammontare della «imposta sulle distribuzioni presunte» indica il minore tra: 
+ 1) l'importo necessario per aumentare l'aliquota d'imposizione effettiva, calcolata ai sensi dell'articolo 34, comma 2, fino all'aliquota minima d'imposta in relazione ad un Paese in un esercizio; 
+ 2) l'importo dell'imposta che sarebbe stata dovuta se le imprese localizzate nel Paese avessero distribuito, nel corso del suddetto esercizio, il loro intero utile assoggettato al regime opzionale di cui al presente articolo. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il «conto annuale dell'imposta sulle distribuzioni presunte»: indica un conto annuale acceso con riferimento a ciascun esercizio di validita' dell'opzione di cui al comma 2 e finalizzato alla misurazione e al monitoraggio dell'imposta sulle distribuzioni presunte il cui saldo iniziale, pari a zero, e' aumentato dell'imposta sulle distribuzioni presunte. Con applicazione a partire dal meno recente dei conti annuali dell'imposta sulle distribuzioni presunte e al termine di ognuno degli esercizi successivi al primo esercizio di istituzione, il valore del saldo iniziale rispetto a quell'esercizio precedente e' ridotto fino alla sua concorrenza: 
+ 1) in via prioritaria, in misura pari alle imposte pagate nell'esercizio dalle imprese in relazione a distribuzioni effettive o presunte; 
+ 2) successivamente, in misura pari all'importo della perdita netta rilevante moltiplicato per l'aliquota minima d'imposta; 
+ 3) successivamente, in misura pari all'importo del conto dell'imposta delle perdite riportabili relativo all'esercizio determinato ai sensi del comma 3. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il «conto dell'imposta delle perdite riportabili»: indica il conto istituito ai sensi del comma 3 e funzionante in conformita' alle regole ivi indicate.
 
 L'impresa dichiarante puo' scegliere, per se' stessa o altra impresa soggetta al regime di imposizione dell'utile distribuito, di includere l'importo dell'imposta sulle distribuzioni presunte, determinato secondo quanto stabilito al comma 1, nelle imposte rilevanti rettificate dell'impresa per un esercizio. L'opzione di cui al primo periodo, esercitata ai sensi dell'articolo 52, comma 2, ha validita' per un esercizio e si applica a tutte le imprese, soggette ad analogo regime, localizzate nel medesimo Paese.
 
@@ -702,6 +2063,31 @@ L'opzione di cui al comma 1 e' effettuata ai sensi dell'articolo 52, comma 1. Se
 ## Art. 50. — Opzione per il regime 
  della distribuzione imponibile
 
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «esercizio di verifica»: identifica il terzo esercizio precedente l'esercizio di riferimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «periodo di verifica»: identifica il periodo che inizia con il primo giorno dell'esercizio di verifica e termina con l'ultimo giorno dell'esercizio di riferimento in cui la partecipazione e' detenuta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «distribuzioni presunte»: identifica il reddito di una entita' di investimento relativo ad un esercizio che, sebbene da essa non effettivamente distribuito, secondo la normativa fiscale nazionale concorre per quell'esercizio a formare il reddito imponibile della sua impresa proprietaria.
+
 Su opzione dell'impresa dichiarante, l'impresa proprietaria di un'entita' d'investimento puo' applicare il regime della distribuzione imponibile in relazione alla sua partecipazione nell'entita' d'investimento, a condizione che l'impresa proprietaria e l'entita' d'investimento siano complessivamente assoggettate a imposizione sul reddito rispettivamente distribuito e conseguito dall'entita' d'investimento ad un'aliquota d'imposta pari o superiore all'aliquota minima d'imposta. Le disposizioni del primo periodo non si applicano alle imprese proprietarie che sono entita' d'investimento.
 
 In base al regime della distribuzione imponibile, le distribuzioni e le distribuzioni presunte del reddito rilevante di un'entita' d'investimento sono incluse nel reddito rilevante dell'impresa proprietaria che ha effettivamente percepito la distribuzione o virtualmente percepito la distribuzione presunta, a condizione che quest'ultima non sia un'entita' d'investimento.
@@ -710,6 +2096,38 @@ L'importo delle imposte rilevanti sostenute dall'entita' d'investimento che puo'
 Il reddito o perdita rilevante di un'entita' d'investimento e le imposte rilevanti rettificate attribuibili a tale reddito per l'esercizio sono esclusi dal calcolo dell'aliquota d'imposizione effettiva in conformita' del capo V e dell'articolo 48, ad eccezione dell'importo delle imposte rilevanti di cui al secondo periodo del comma 3.
 
 La quota dell'impresa proprietaria nel reddito netto rilevante non distribuito dell'entita' d'investimento di cui al comma 6, generato nell'esercizio di verifica, e' considerata reddito rilevante di tale entita' d'investimento per l'esercizio. L'importo pari a tale reddito rilevante moltiplicato per l'aliquota minima d'imposta e' considerato come imposizione integrativa di un'impresa a bassa imposizione per l'esercizio ai fini del capo II.
+
+6.
+                        
+                            
+                                Il reddito netto rilevante non distribuito di un'entita' d'investimento relativo all'esercizio di verifica corrisponde all'importo del reddito rilevante di tale entita' d'investimento per tale esercizio, ridotto fino a un minimo di zero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle imposte rilevanti dell'entita' d'investimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle distribuzioni e delle distribuzioni presunte ai soci che non sono entita' d'investimento intervenute nel periodo di verifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della perdita rilevante che si e' generata durante il periodo di verifica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'importo residuo della perdita rilevante che non e' gia' stata utilizzata per ridurre il reddito netto rilevante non distribuito di tale entita' d'investimento per un precedente esercizio di verifica.
 
 Il reddito netto rilevante non distribuito di un'entita' d'investimento non e' ridotto delle distribuzioni o delle distribuzioni presunte che hanno gia' ridotto il reddito netto rilevante non distribuito di tale entita' d'investimento per un precedente esercizio di verifica in applicazione del comma 6, lettera b). Il reddito netto rilevante non distribuito di un'entita' d'investimento non e' ridotto dell'importo della perdita rilevante che ha gia' ridotto il reddito netto rilevante non distribuito di tale entita' d'investimento per un precedente esercizio di verifica in applicazione del comma 6, lettera c).
 
@@ -723,9 +2141,120 @@ Le disposizioni del presente articolo si applicano anche in relazione alle entit
 
 ## Art. 51. — Obblighi informativi
 
+1.
+                        
+                            
+                                Ai fini del presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Accordo qualificato tra autorita' competenti»: identifica un accordo bilaterale o multilaterale in essere tra due o piu' autorita' fiscali al fine di consentire lo scambio automatico delle informazioni relative alle comunicazioni rilevanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «comunicazione rilevante»: identifica il modello di comunicazione contenente le informazioni di cui al comma 5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «impresa locale designata»: identifica l'impresa localizzata nel territorio dello Stato italiano designata dalle altre imprese del gruppo multinazionale o nazionale ivi localizzate a presentare per loro conto la comunicazione rilevante.
+
 Ogni impresa localizzata nel territorio dello Stato italiano o che e' un'entita' trasparente costituita secondo le leggi dello Stato presenta la comunicazione rilevante. In deroga a quanto riportato al primo periodo, la comunicazione rilevante di un'impresa puo' essere presentata dall'impresa locale designata.
 
+3.
+                        
+                            
+                                In deroga a quanto riportato al comma 2, un'impresa localizzata nel territorio dello Stato italiano non e' tenuta a presentare la comunicazione rilevante ad essa relativa se tale adempimento e' effettuato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalla controllante capogruppo localizzata in un Paese che, con riferimento all'esercizio oggetto della comunicazione, ha in essere un Accordo qualificato tra autorita' competenti con lo Stato italiano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'impresa designata localizzata in un Paese che, con riferimento all'esercizio oggetto di comunicazione, ha in essere un Accordo qualificato tra autorita' competenti con lo Stato italiano.
+
 Nei casi in cui i commi 2, secondo periodo e 3 trovano applicazione, ogni impresa localizzata nel territorio dello Stato italiano comunica all'Agenzia delle entrate i dati identificativi rispettivamente della impresa locale designata e della controllante capogruppo o dell'impresa designata di cui alle lettere a) e b) del comma 3 e il relativo Paese di localizzazione.
+
+5.
+                        
+                            
+                                La comunicazione rilevante deve contenere le seguenti informazioni relative al gruppo multinazionale o nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati identificativi delle imprese, compreso il loro codice di identificazione fiscale, il loro Paese di localizzazione e la loro qualificazione ai fini dell'applicazione del presente titolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni sulla struttura societaria del gruppo multinazionale o nazionale di appartenenza, comprese le partecipazioni di controllo che un'impresa detiene in un'altra impresa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le informazioni necessarie al fine di calcolare: 
+ 1) l'aliquota di imposizione effettiva di ogni Paese nel quale e' ubicata almeno un'impresa e l'importo della imposizione integrativa relativa a ciascuna impresa; 
+ 2) l'importo della imposizione integrativa relativa ad ogni membro di un gruppo a controllo congiunto; 
+ 3) l'allocazione dell'importo dell'imposta minima integrativa e della imposta minima suppletiva in relazione a ciascun Paese; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'elenco delle scelte previste dal decreto che sono state esercitate e revocate nell'esercizio a cui si riferisce la comunicazione rilevante nonche' l'elenco delle scelte previste dal decreto che sono in essere per tale esercizio.
+
+6.
+                        
+                            
+                                In deroga a quanto previsto al comma 5, se un'impresa localizzata nel territorio dello Stato italiano la cui controllante capogruppo e' localizzata in uno Stato terzo che applica disposizioni che sono state valutate equivalenti alle disposizioni della direttiva, secondo quanto ivi previsto all'articolo 52, la stessa ovvero l'impresa locale designata presenta una comunicazione rilevante contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tutte le informazioni necessarie ai fini dell'applicazione delle disposizioni ((dell'articolo 15)) e in particolare: ((13)) 
+ 1) l'identificazione di tutte le imprese nelle quali una entita' partecipante parzialmente posseduta localizzata nel territorio dello Stato italiano detiene, ovvero ha detenuto nel corso dell'esercizio, direttamente o indirettamente, partecipazioni nelle imprese del gruppo multinazionale o nazionale; 
+ 2) una descrizione della struttura societaria contenente i rapporti partecipativi che la entita' partecipante parzialmente posseduta di cui al numero 1) ha detenuto o detiene nelle imprese; 
+ 3) tutte le informazioni che sono necessarie per calcolare l'aliquota di imposizione effettiva e l'imposta minima integrativa dovuta in relazione ai Paesi di localizzazione delle imprese di cui al numero 1); 
+ 4) tutte le informazioni rilevanti ai fini della corretta e puntuale applicazione delle disposizioni di cui agli articoli 16, 17 o 18; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutte le informazioni necessarie ai fini dell'applicazione delle disposizioni dell'articolo 20 e in particolare: 
+ 1) l'identificazione di tutte le imprese localizzate nel medesimo Paese di localizzazione della controllante capogruppo; 
+ 2) una descrizione della struttura societaria contenente i rapporti partecipativi che la controllante capogruppo di cui al numero 1) ha detenuto o detiene nelle imprese ivi indicate; 
+ 3) tutte le informazioni che sono necessarie per calcolare l'aliquota di imposizione effettiva e l'imposta minima suppletiva in relazione al Paese di localizzazione della controllante capogruppo di cui al numero 1); 
+ 4) tutte le informazioni rilevanti ai fini della corretta e puntuale allocazione della imposta minima suppletiva ai sensi dell'articolo 21; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutte le informazioni necessarie ai fini dell'applicazione dell'imposta minima nazionale.
 
 La comunicazione rilevante contenente le informazioni di cui ai commi 5 e 6 nonche' le comunicazioni di esercizio o revoca delle opzioni previste dal presente Titolo riguardanti le imprese localizzate nel territorio dello Stato, sono presentate entro il quindicesimo mese successivo all'ultimo giorno dell'esercizio con riferimento al quale la comunicazione rilevante si riferisce.
 
@@ -782,6 +2311,35 @@ Ai fini del comma 2, le imposte anticipate e le imposte differite rilevano in mi
 
 Le imposte anticipate che originano da elementi reddituali che non concorrono alla formazione del reddito o perdita rilevante ai sensi delle disposizioni del capo III non rilevano ai fini del comma 2 se esse originano da transazioni poste in essere successivamente alla data del 30 novembre 2021. ((Ai fini del comma 2, non rilevano neanche le imposte anticipate che originano da perdite realizzate da piu' di cinque esercizi precedenti la data di entrata in vigore di una imposta sul reddito delle societa', emanata da un Paese che non aveva una preesistente imposta sul reddito delle societa')). ((13)).
 
+4-bis.
+                        
+                            
+                                
+                                    ((Ai fini del primo periodo del comma 4, nel calcolo dell'importo totale netto delle variazioni delle imposte anticipate e differite di cui all'articolo 29, non sono considerati gli utilizzi:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((delle imposte anticipate collegate a un accordo concluso o modificato dopo il 30 novembre 2021, attraverso cui un Paese attribuisce uno specifico diritto a fruire di un credito d'imposta o di altre agevolazioni fiscali sulla base della discrezionalita' esercitata dalle autorita' governative centrali o locali di tale Paese;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((delle imposte anticipate collegate a un'opzione esercitata o modificata dopo il 30 novembre 2021 che incide retroattivamente sul trattamento di una operazione, ai fini della determinazione del reddito imponibile, che e' stato gia' valutato dall'autorita' fiscale di un Paese o di cui si e' tenuto conto in una dichiarazione fiscale gia' presentata all'autorita' fiscale del suddetto Paese;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((delle imposte anticipate e delle imposte differite collegate alla differenza tra i valori contabili e i valori fiscali di attivita' e passivita' se questi valori fiscali sono stati stabiliti ai sensi della normativa riguardante l'imposta sul reddito delle societa' emanata da un Paese, in assenza di una preesistente imposta sul reddito delle societa', dopo il 30 novembre 2021 e prima dell'esercizio transitorio)). ((13)).
+
 ((In deroga al comma 4-bis, rilevano gli utilizzi delle imposte anticipate collegate agli accordi, conclusi o modificati entro il 18 novembre 2024, e alle opzioni, esercitate o modificate entro il 18 novembre 2024, indicati rispettivamente alle lettere a) o b) del citato comma 4-bis, negli esercizi che iniziano il 1° gennaio 2024 o dopo tale data e prima del 1° gennaio 2026, escludendo gli esercizi che terminano dopo il 30 giugno 2027. Sono, altresi', rilevanti gli utilizzi delle imposte anticipate collegate alle differenze tra i valori contabili e i valori fiscali, determinate ai sensi della normativa riguardante l'imposta sul reddito delle societa' emanata entro il 18 novembre 2024, indicate alla lettera c) del citato comma 4-bis, negli esercizi che iniziano il 1° gennaio 2025 o successivamente a tale data e prima del 1° gennaio 2027, escludendo gli esercizi che terminano dopo il 30 giugno 2028)). ((13)).
 
 ((L'importo massimo delle imposte anticipate che rilevano ai sensi del comma 4-ter e' pari al 20 per cento dell'importo delle imposte anticipate originariamente iscritte in bilancio e relative a ciascuna categoria indicata al comma 4-bis, lettere a), b) e c), ricalcolato alla piu' bassa tra l'aliquota minima d'imposta e l'aliquota d'imposta nazionale applicabile.)). ((13)).
@@ -804,7 +2362,43 @@ Ai fini dell'applicazione delle disposizioni dell'articolo 35, commi 3 e 4, l'al
 
 ## Art. 56. — Fase iniziale di esclusione dall'imposizione integrativa
 
+1.
+                        
+                            
+                                L'imposizione integrativa dovuta da una controllante capogruppo localizzata nel territorio dello Stato italiano ai sensi dell'articolo 13, comma 2, o da una partecipante intermedia localizzata nel territorio dello Stato italiano ai sensi dell'articolo 14, comma 5, quando la controllante capogruppo e' un'entita' esclusa, e' ridotta a zero: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei primi cinque anni della fase iniziale dell'attivita' internazionale del gruppo multinazionale di imprese, indipendentemente dai requisiti di cui al capo V; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei primi cinque anni a decorrere dal primo giorno dell'esercizio in cui il gruppo nazionale rientra per la prima volta nell'ambito di applicazione del presente titolo.
+
 Se la controllante capogruppo di un gruppo multinazionale di imprese e' localizzata in uno Stato terzo, l'imposizione integrativa dovuta da un'impresa localizzata nel territorio dello Stato italiano ai sensi dell'articolo 21, comma 2, e' ridotta a zero nei primi cinque anni della fase iniziale dell'attivita' internazionale del gruppo multinazionale di imprese, indipendentemente dai requisiti di cui al capo V.
+
+3.
+                        
+                            
+                                Un gruppo multinazionale di imprese e' considerato nella fase iniziale della sua attivita' internazionale se, per un esercizio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha imprese in non piu' di sei Paesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la somma del valore contabile netto dei beni tangibili di tutte le imprese appartenenti al gruppo localizzate in tutti Paesi diversi dal Paese di riferimento non supera 50 milioni di euro. Ai fini del primo periodo, per «Paese di riferimento» si intende il Paese in cui le imprese del gruppo multinazionale detengono il valore totale dei beni tangibili piu' elevato nell'esercizio in cui il gruppo multinazionale rientra per la prima volta nell'ambito di applicazione del presente Titolo. Il valore totale dei beni tangibili in un Paese corrisponde alla somma dei valori contabili netti di tutti i beni tangibili di tutte le imprese del gruppo multinazionale che sono localizzate in tale Paese.
 
 Il periodo di cinque anni di cui al comma 1, lettera a), e al comma 2, decorre dall'inizio dell'esercizio in cui il gruppo multinazionale di imprese rientra per la prima volta nell'ambito di applicazione del presente titolo. Per i gruppi multinazionali di imprese che soddisfano le condizioni di cui all'articolo 10, comma 1, al momento dell'entrata in vigore del presente decreto, il periodo di cinque anni di cui al comma 1, lettera a), decorre dal 31 dicembre 2023. Per i gruppi multinazionali di imprese che soddisfano le condizioni di cui all'articolo 10, comma 1, al momento dell'entrata in vigore del presente decreto, il periodo di cinque anni di cui al comma 2 decorre dal 31 dicembre 2024. Per i gruppi nazionali di imprese che soddisfano ((le condizioni di cui all'articolo 10, comma 1)), al momento dell'entrata in vigore del presente decreto, il periodo di cinque anni di cui al comma 1, lettera b), decorre dal 31 dicembre 2023. ((13))
 

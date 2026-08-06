@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2019-08-20;130
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -54,17 +54,362 @@ L'allegato II definisce, nel rispetto di quanto previsto dall'articolo 11, le ca
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Sistema informativo trapianti (SIT)»: sistema informativo di supporto per l'informatizzazione delle attivita' della Rete nazionale trapianti, di cui all'articolo 7, comma 2, della legge 1° aprile 1999, n 91; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Rete nazionale trapianti»: rete costituita dalle strutture di cui all'articolo 7, comma 1, della legge 1° aprile 1999, n. 91, e dalle strutture di cui articolo 3, comma 1, lettera q), del decreto legislativo 6 novembre 2007, n. 191, nonche' dalle strutture di cui all'articolo 2, comma 1, lettera l), del decreto legislativo 25 gennaio 2010, n. 16; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «organismo di reperimento»: struttura sanitaria di cui all'articolo 13 della legge 1° aprile 1999, n. 91, che effettua il reperimento degli organi e dei tessuti, o un centro regionale per i trapianti (CRT) o interregionale per i trapianti (CIRT) o un coordinatore locale di cui agli articoli 10, 11 e 12 della legge 1° aprile 1999, n 91, che coordina il reperimento di organi e tessuti nonche' le organizzazioni per l'approvvigionamento di cui all'articolo 2, comma 1, lettera l), del decreto legislativo 25 gennaio 2010, n. 16; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «centro per i trapianti»: struttura sanitaria di cui all'articolo 16 della legge 1° aprile 1999, n. 91, nella quale sia presente una equipe autorizzata dalla regione o dalle Province autonome di Trento e Bolzano ad effettuare trapianti di organi nonche' le unita' cliniche afferenti a un programma trapianti ove si effettuano trapianti di Cellule staminali emopoietiche (CSE) di cui all'Accordo tra il Ministro della salute, le regioni e le Provincie autonome di Trento e Bolzano sul documento recante: «Linee guida in tema di raccolta, manipolazione e impiego clinico delle Cellule staminali emopoietiche (CSE)» del 10 luglio 2003; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «strutture sanitarie autorizzate al prelievo e al trattamento di cellule riproduttive»: istituti dei tessuti di cui all'articolo 3, comma 1, lettera q), del decreto legislativo 6 novembre 2007, n. 191, deputate alle attivita' di cui all'articolo 1, comma 298, della legge 23 dicembre 2014, n. 190; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «soggetti deputati alla raccolta e registrazione delle dichiarazioni di volonta' in ordine alla donazione di organi, tessuti del proprio corpo successivamente alla morte»: i comuni, ai sensi dell'articolo 3, comma 3, del regio decreto 18 giugno 1931, n. 733, le aziende sanitarie locali (ASL), ai sensi della legge 1° aprile 1999, n. 91, e del decreto del Ministro della sanita' 8 aprile 2000 pubblicato nella Gazzetta Ufficiale n. 89 del 15 aprile 2000, i CRT, ai sensi del decreto del Ministro della salute 11 marzo 2008 pubblicato nella Gazzetta Ufficiale n. 80 del 4 aprile 2008, e le Associazioni dei donatori, che, in base ai propri statuti e regolamenti, provvedono alla raccolta della dichiarazioni di volonta' dei loro associati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Registro nazionale dei donatori di cellule riproduttive a scopi di procreazione medicalmente assistita di tipo eterologo (RND PMA)»: registro istituito ai sensi dell'articolo 1, comma 298, della legge 23 dicembre 2014, n. 190; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «evento avverso grave» e «reazione avversa grave»: evento di cui all'articolo 3, comma 1, lettera n) del decreto del Ministro della salute 19 novembre 2015 pubblicato nella Gazzetta Ufficiale n. 280 del 1° dicembre 2015 e di cui all'articolo 3, comma 1, lettera o), del decreto legislativo 6 novembre 2007, n. 191, e reazione di cui all'articolo 3, comma 1, lettera o), del decreto del Ministro della salute 19 novembre 2015 e di cui all'articolo 3, comma 1, lettera p), del decreto legislativo 6 novembre 2007, n. 191; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «numero identificativo nazionale della donazione, del donatore e del ricevente»: numero identificativo attribuito ad una donazione, a un donatore e a un ricevente, secondo il sistema di identificazione nazionale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «numero identificativo della donna»: codice univoco identificativo assegnato dalle regioni e dalle Province autonome di Trento e di Bolzano alla donna della coppia che effettua la fecondazione assistita di tipo eterologo; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «codice unico europeo» o Single european code (SEC)»: il codice unico d'identificazione applicato ai tessuti e alle cellule distribuiti nell'Unione europea di cui all'articolo 15 del decreto legislativo 25 gennaio 2010, n. 16; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «sequenza d'identificazione della donazione (SID)»: la prima parte del codice unico europeo di cui alla lettera m), costituita dal codice dell'istituto dei tessuti dell'Unione europea (UE) e dal numero identificativo nazionale della donazione; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «codice dell'istituto dei tessuti dell'UE»: il codice unico d'identificazione degli istituti dei tessuti autorizzati e accreditati; il codice d'identificazione degli istituti dei tessuti e' costituito dal codice ISO del Paese e dal numero dell'istituto dei tessuti figurante nel compendio degli istituti dei tessuti dell'UE, secondo quanto specificato nell'allegato XI di cui all'allegato I al decreto legislativo 16 dicembre 2016, n. 256; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «sequenza d'identificazione del prodotto (SIP)»: la seconda parte del codice unico europeo di cui alla lettera m), costituita dal codice del prodotto, dal numero specifico della sottopartita e dalla data di scadenza; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «codice del prodotto»: il codice d'identificazione per il tipo specifico di tessuti e di cellule, costituito dal codice d'identificazione del sistema di codifica del prodotto indicante il sistema di codifica utilizzato dall'istituto dei tessuti e il codice della tipologia di prodotto di tessuti e cellule previsto nel rispettivo sistema di codifica per il tipo di prodotto, secondo quanto specificato nell'allegato XI di cui all'allegato I al decreto legislativo 16 dicembre 2016, n. 256; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «numero specifico della sottopartita»: il numero che distingue le aliquote di tessuti e cellule e che identifica in maniera univoca i tessuti e le cellule aventi lo stesso numero identificativo nazionale della donazione e lo stesso codice del prodotto e provenienti dallo stesso istituto dei tessuti, secondo quanto specificato nell'allegato XI di cui all'allegato I al decreto legislativo 16 dicembre 2016, n. 256; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «data di scadenza»: la data entro la quale i tessuti e le cellule possono essere applicati, secondo quanto specificato nell'allegato XI di cui all'allegato I al decreto legislativo 16 dicembre 2016, n. 256; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «compendio degli istituti dei tessuti dell'UE»: il registro di tutti gli istituti dei tessuti titolari di licenza, autorizzati, designati o accreditati dall'autorita' competente o dalle autorita' competenti degli Stati membri, inclusi gli istituti autorizzati ed accreditati dalle regioni e province autonome, ai sensi degli articoli 6 e 7 del decreto legislativo 6 novembre 2007, n. 191, e che contiene le informazioni su tali istituti dei tessuti di cui all'allegato XI-bis di cui all'allegato II al decreto legislativo 16 dicembre 2016, n. 256; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                «Centro nazionale trapianti (CNT)»: Centro nazionale per i trapianti di cui all'articolo 8 della legge 1° aprile 1999, n. 91.
+
 ## Art. 3. — Funzioni del Sistema informativo trapianti
 
 Il SIT realizza le attivita' informatizzate della Rete nazionale dei trapianti volte a garantire la tracciabilita' e la trasparenza dei processi di donazione, prelievo, trapianto, segnalazione di reazioni ed eventi avversi gravi secondo le caratteristiche tecniche e le modalita' definite nel disciplinare tecnico di cui all'allegato I.
+
+2.
+                    
+                        
+                            Il SIT assolve alle seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                registrazione delle dichiarazioni di volonta' in ordine alla donazione di organi e tessuti successivamente alla morte; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                registrazione del flusso dei dati sull'attivita' di donazione, prelievo, trapianto e post trapianto di organi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                registrazione del flusso dei dati sull'attivita' di donazione, approvvigionamento, distribuzione, trapianto di tessuti e cellule; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                registrazione del flusso dei dati sull'attivita' di donazione, prelievo, trapianto e post trapianto di cellule staminali emopoietiche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gestione del registro dei donatori viventi di organi ai sensi dell'articolo 8, comma 6, lettera m-quater), della legge 1° aprile 1999, n. 91; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                tenuta delle liste delle persone in attesa di trapianto di organi, differenziate per tipologia di trapianto come risultanti dai dati trasmessi dai centri regionali e centri interregionali per i trapianti, ovvero dalle strutture per i trapianti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                gestione delle funzioni di cui all'articolo 8, comma 6, lettere f), l) e m-ter), della legge 1° aprile 1999, n. 91, nonche' di cui all'articolo 4, comma 6, lettera d), del decreto del Ministro della salute 19 novembre 2015; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                raccolta dei dati ai fini della verifica di qualita' e di risultato, di cui all'articolo 8, comma 6, lettera i), della legge 1° aprile 1999, n. 91, delle strutture di trapianto di organi e cellule staminali emopoietiche; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                tenuta del sistema di segnalazione e gestione degli eventi e reazioni avversi gravi riguardanti organi, tessuti e cellule; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                gestione del Registro nazionale dei donatori di cellule riproduttive a scopi di procreazione medicalmente assistita di tipo eterologo (RND PMA); 
+
+                            
+                        
+                        
+                            m)
+                            
+                                assegnazione del numero identificativo nazionale della donazione, del donatore e del ricevente di organi, tessuti e cellule previsti dall'articolo 11 del decreto del Ministro della salute 19 novembre 2015, dall'articolo 8, comma 2, del decreto legislativo 6 novembre 2007, n. 191 e dall'Accordo tra Ministro della salute, le regioni e le Provincie autonome di Trento e di Bolzano sul documento recante: «Linee guida in tema di raccolta, manipolazione, e impiego clinico delle Cellule staminali emopoietiche (CSE)» del 10 luglio 2003 (rep. atti n. 1770/CSR), nonche' del codice identificativo della donazione e del donatore ai sensi dell'articolo 1, comma 298, della legge 23 dicembre 2014, n. 190; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                assegnazione della sequenza d'identificazione della donazione ai fini dell'attribuzione del codice unico europeo di cui all'articolo 15 del decreto legislativo 25 gennaio 2010, n. 16; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                registrazione dei decessi con potenzialita' di donazione di organi avvenuti nelle strutture sanitarie.
 
 ## Art. 4. — Funzioni del RND PMA
 
 Il SIT, al fine di rendere operativo il RND PMA, realizza le attivita' informatizzate necessarie a garantire la registrazione dei donatori di cellule riproduttive a scopi di procreazione medicalmente assistita di tipo eterologo, la tracciabilita' del percorso delle cellule riproduttive dal donatore al nato e viceversa, il conteggio dei nati generati da un medesimo donatore, nonche' la segnalazione di reazioni ed eventi avversi gravi, secondo le caratteristiche tecniche e le modalita' definite nel disciplinare tecnico di cui all'allegato II.
 
+2.
+                    
+                        
+                            Il RND PMA assolve alle seguenti funzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                attribuisce il numero identificativo nazionale del donatore mediante registrazione centralizzata dei dati anagrafici dei soggetti ammessi alla donazione e la sequenza d'identificazione della donazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicura, ai fini della qualita' e della sicurezza, la tracciabilita' dei percorsi di donazioni eterologhe di gameti fino all'utilizzo e viceversa e cura il sistema di segnalazione e gestione degli eventi e reazioni avversi gravi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esegue il conteggio dei nati generati dalle cellule riproduttive di un medesimo donatore per garantire il blocco delle donazioni al realizzarsi di limiti massimi, ove previsti dalla disciplina vigente.
+
 ## Art. 5. — Flussi informativi
 
 I dati contenuti nel SIT sono costituiti da informazioni analitiche relative alle attivita' di donazione e trapianto di organi, tessuti e cellule raccolte a livello regionale e locale dalle strutture della Rete nazionale trapianti per gli ambiti di rispettiva competenza.
+
+2.
+                    
+                        
+                            I flussi informativi presenti nel SIT contengono informazioni relative ai seguenti ambiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                processo di donazione di organi, tessuti, cellule e cellule staminali emopoietiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                iscrizione in lista di attesa per trapianto di organi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                allocazione organi sui protocolli nazionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                trapianto di organi da donatore cadavere; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                distribuzione e trapianto di tessuti, cellule e cellule staminali emopoietiche; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                qualita' dei trapianti e post trapianto di organi, tessuti, cellule e cellule staminali emopoietiche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dichiarazioni di volonta' in ordine alla donazione di organi e tessuti successivamente alla morte; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                donazione e trapianto di organi da donatore vivente; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                scambio di organi con i paesi dell'Unione europea e Paesi terzi; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                eventi e reazioni avversi gravi inerenti alle fasi del processo che va dalla donazione al trapianto di organi, tessuti e cellule staminali emopoietiche; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                decessi con potenzialita' di donazione di organi avvenuti nelle strutture sanitarie; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                processo di donazione per tecniche di procreazione medicalmente assistita di tipo eterologo.
 
 Le strutture che compongono la Rete nazionale trapianti, le strutture sanitarie autorizzate al prelievo e al trattamento di cellule riproduttive e i comuni e le associazioni di donatori, limitatamente alle dichiarazioni di volonta', trasmettono al SIT, per i rispettivi ambiti di competenza e secondo le modalita' descritte nei disciplinari tecnici I e II, allegati al presente regolamento, le informazioni di cui al comma 2 del presente articolo.
 
@@ -75,6 +420,80 @@ Ai fini della cooperazione applicativa, le regioni e le Province autonome di Tre
 All'adeguamento dei sistemi informativi per l'attuazione di quanto previsto all'allegato II si provvede entro centottanta giorni dalla data di entrata in vigore del presente regolamento.
 
 ## Art. 6. — Accesso ai dati
+
+1.
+                    
+                        
+                            Al fine di consentire alla Rete nazionale trapianti di assolvere alle proprie funzioni istituzionali connesse alle finalita' di rilevante interesse pubblico di cui all'articolo 2-sexies, comma 2, lettera t), del decreto legislativo 30 giugno 2003, n. 196, riguardanti le attivita' di trapianto di organi, tessuti e cellule nonche' il coordinamento delle stesse nel rispetto delle norme di qualita' e sicurezza vigenti nel settore, il SIT consente la consultazione delle informazioni in esso contenute, di cui agli allegati I e II, limitatamente ai dati indispensabili allo svolgimento dei compiti di rispettiva competenza, ai seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                CNT, per lo svolgimento delle funzioni di cui alla legge 1° aprile 1999, n. 91, al decreto del Ministro della salute 19 novembre 2015, al decreto legislativo 6 novembre 2007, n. 191, al decreto legislativo 25 gennaio 2010, n. 16, all'articolo 1, comma 298, della legge 23 dicembre 2014, n. 190, nonche' all'articolo 8, comma 6, lettera m-quater), della legge 1° aprile 1999, n. 91; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                CRT e CIRT, per lo svolgimento delle funzioni di cui all'articolo 10 della legge 1° aprile 1999, n. 91, agli articoli 11 e 12 del decreto del Ministro della salute 19 novembre 2015, nonche' al decreto del Ministro della salute 11 marzo 2008; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                centri per i trapianti, per lo svolgimento delle funzioni di cui all'articolo 16 della legge 1° aprile 1999, n. 91, al decreto del Ministro della salute 19 novembre 2015, all'articolo 8, comma 6, lettera m-quater), della legge 1° aprile 1999, n. 91, nonche' all'articolo 9 del presente regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                aziende sanitarie locali, per lo svolgimento delle funzioni relative alla dichiarazione di volonta' di cui alla legge 1° aprile 1999, n. 91 e al decreto del Ministro della sanita' 8 aprile 2000; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                strutture sanitarie ospedaliere, di cui l'articolo 2, comma 1, lettera c), del presente regolamento per lo svolgimento delle funzioni di cui all'articolo 13 della legge 1° aprile 1999, n. 91, nonche' al decreto del Ministro della salute 19 novembre 2015; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                coordinatori locali, per lo svolgimento delle funzioni di cui all'articolo 12 della legge 1° aprile 1999, n. 91; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                istituti dei tessuti, per lo svolgimento delle funzioni di cui al decreto legislativo 6 novembre 2007, n. 191, al decreto legislativo 25 gennaio 2010, n. 16, nonche' al decreto del Ministro della salute 10 ottobre 2012, pubblicato nella Gazzetta Ufficiale n. 15 del 18 gennaio 2013; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                organizzazioni per l'approvvigionamento delle cellule staminali emopoietiche, per lo svolgimento delle funzioni di cui al decreto legislativo 6 novembre 2007, n. 191 e al decreto legislativo 25 gennaio 2010, n. 16; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                strutture sanitarie autorizzate al prelievo e al trattamento di cellule riproduttive, per lo svolgimento delle funzioni di cui all'articolo 1, comma 298, della legge 23 dicembre 2014, n. 190; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                regioni e Province autonome di Trento e di Bolzano, per lo svolgimento delle proprie funzioni istituzionali di programmazione, valutazione e controllo sull'attuazione dei requisiti di qualita' e di sicurezza per la donazione, l'approvvigionamento, il controllo, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule, mediante consultazione di dati aggregati e anonimi contenuti nel RND PMA.
 
 Il CNT e' titolare del trattamento dei dati contenuti nel SIT e del RND PMA. Tenuto conto delle competenze del Ministero della salute nell'ambito del Nuovo Sistema informativo del Servizio sanitario nazionale (NSIS), la Direzione generale competente in materia di digitalizzazione del sistema informativo sanitario e statistica del Ministero della salute e' responsabile del trattamento dei dati connessi alla gestione tecnica e informatica e agli altri compiti necessari a garantire il corretto funzionamento del SIT, ai sensi dell'articolo 28 del regolamento (UE) n. 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016, secondo le modalita' che verranno definite con l'accordo di cui al medesimo articolo 28.
 Ciascuno dei soggetti di cui al comma 1 garantisce la conformita' del trattamento dei dati contenuti nel SIT alle disposizioni di cui al regolamento (UE) n. 2016/679 e al decreto legislativo 30 giugno 2003, n. 196.

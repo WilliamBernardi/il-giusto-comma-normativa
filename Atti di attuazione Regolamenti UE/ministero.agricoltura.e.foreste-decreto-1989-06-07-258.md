@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 DECRETO
@@ -44,6 +44,29 @@ Il quantitativo totale di latte concernente i produttori non associati che abbia
  Il Ministero dell'agricoltura e foreste provvedera' a ripartire le riserve ai produttori di latte non associati attenendosi ai criteri prioritari suindicati.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            L'U.N.A.LAT. e ciascuna "associazione" tengono, con periodicita' semestrale, a decorrere dal 1 aprile di ciascun periodo, la contabilita' di magazzino prevista all'art. 14 del regolamento CEE n. 1546/88 contenente tutte le indicazioni prescritte al par. 1 del medesimo articolo relativamente ai produttori associati.
+ Trattandosi dell'U.N.A.LAT. e delle "associazioni", per quantitativi "acquistati" ai sensi del predetto art. 14, par. 1, lettera c), si intendono i quantitativi "ceduti" dai produttori associati agli "acquirenti".
+ Per i produttori non aderenti ad alcuna associazione, la contabilita' di magazzino, prevista al comma precedente, deve essere tenuta dagli "acquirenti".
+ Gli "acquirenti" dovranno considerare come produttori non aderenti ad alcuna associazione tutti i produttori di latte che non dimostrino, attraverso dichiarazione conforme all'allegato 1 del presente regolamento, che il latte ed i prodotti lattiero-caseari da loro ceduti sono contabilizzati dall'U.N.A.LAT. o dall'associazione di appartenenza non aderente all'U.N.A.LAT., riconosciuta ai sensi del regolamento CEE n. 1360/78.
+ Gli "acquirenti" dovranno altresi' tenere a disposizione degli organismi di controllo, che saranno all'uopo designati, una contabilita' dalla quale risultino per ciascun produttore:
+ 
+                        
+                        
+                            a)
+                            
+                                nome e indirizzo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i quantitativi in equivalente latte acquistati per semestre.
+ I quantitativi di latte o di equivalente latte riportati nella contabilita' di magazzino prevista al presente articolo devono trovare riscontro nella documentazione contabile quali fatture o apposite dichiarazioni rilasciate da parte degli "acquirenti".
 
 Ai sensi dell'art. 11 del regolamento CEE n. 1546/88 i quantitativi di prodotti lattiero-caseari diversi dal latte ceduti alle imprese dedite al trattamento o alla trasformazione del latte devono essere convertiti in equivalente latte utilizzando le equivalenze riportate nell'allegato 2 del presente regolamento.
  Per tutti i tipi di formaggio non compresi nell'allegato medesimo dovranno essere utilizzati i coefficienti normalmente praticati nella regione per i tipi di formaggio interessato.
@@ -108,6 +131,30 @@ Per i primi quattro periodi di dodici mesi le dichiarazioni previste ai preceden
  Gli importi relativi al prelievo supplementare per ciascuno dei primi quattro periodi di dodici mesi devono essere versati entro quarantacinque giorni successivi alla presentazione delle dichiarazioni.
 
 ## Art. 9.
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 7 del regolamento CEE n. 1546/88 e limitatamente ai produttori non associati, in caso di vendita, locazione o trasmissione per via ereditaria della totalita' dell'azienda, il quantitativo di riferimento corrispondente viene trasferito al produttore che rileva l'azienda.
+ Qualora il trasferimento intervenga nel corso di un periodo di dodici mesi di applicazione del superprelievo, il soggetto che rileva l'azienda e' considerato debitore del prelievo supplementare eventualmente dovuto per l'intero periodo, a meno che non sia diversamente stabilito dai soggetti contraenti.
+ In caso di vendita, locazione o trasmissione per via ereditaria di una o piu' parti dell'azienda, il quantitativo di riferimento corrispondente viene ripartito tra i produttori in funzione delle superfici utilizzate per la produzione lattiera e proporzionalmente al tempo di utilizzo di dette superfici all'interno di un periodo di dodici mesi.
+ In caso di trasferimento di terre all'autorita' pubblica e/o per motivi di pubblica utilita' da produttori non associati:
+ 
+                        
+                        
+                            a)
+                            
+                                i quantitativi di riferimento rimangono assegnati al produttore purche' il trasferimento della superficie utilizzata per la produzione lattiera sia inferiore al 50% della superficie totale al tal fine utilizzata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora il trasferimento riguardi una superficie pari o superiore al 50% della superficie totale utilizzata per la produzione lattiera il quantitativo di riferimento rimane a disposizione del produttore che intende continuare la produzione lattiera su un'altra superficie anche utilizzando un'azienda o parti di aziende che non dispongono di quantitativi di riferimento. Qualora il produttore non intenda continuare ad usufruire totalmente del quantitativo di riferimento assegnato, il quantitativo di riferimento e' ridotto proporzionalmente alla superficie utilizzata per la produzione lattiera trasferita all'autorita' pubblica e la differenza e' contabilizzata dal Ministero dell'agricoltura e foreste nelle rispettive riserve di cui agli articoli 5 e 6, par. 3 del regolamento CEE n. 857/84.
+ Ogni modifica territoriale dell'azienda o variazione nella proprieta' o gestione della medesima che comporti trasferimenti totali o parziali dei quantitativi di riferimento assegnati ai produttori non associati deve essere comunicata al Ministero dell'agricoltura e delle foreste - Direzione generale della tutela economica dei prodotti agricoli, accompagnata da copia dell'atto dal quale risulti il trasferimento della superficie. La dichiarazione deve essere redatta in conformita' al fac-simile allegato 4 al presente regolamento e deve essere effettuata esclusivamente dai produttori non aderenti ad associazioni.
+ In caso di trasferimento di terre all'autorita' pubblica e/o per motivi di pubblica utilita' da produttori associati, i quantitativi corrispondenti di latte e/o di prodotti lattiero-caseari rimangono assegnati all'U.N.A.LAT. o, se del caso alle "associazioni".
+ L'U.N.A.LAT. e le predette "associazioni" sono tenute a comunicare al Ministero i trasferimenti di terre esclusivamente in caso di vendita, locazione, trasmissione per via ereditaria dai propri soci a produttori non appartenenti ad alcuna "associazione". Dovranno tuttavia tenere a disposizione degli incaricati dei controlli la documentazione relativa ai trasferimenti di aziende o di parte di esse tra i produttori propri soci.
 
 ## Art. 10.
 

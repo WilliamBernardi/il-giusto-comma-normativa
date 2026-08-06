@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -496,6 +496,24 @@ AGGIORNAMENTO (4)
 Per il personale di cui all'art. 1, comma 1, il congedo 
  straordinario e' disciplinato dalla normativa prevista dall'art. 3 della legge 24 dicembre 1993, n. 537, come interpretato, modificato ed integrato dall'art. 22 della legge 23 dicembre 1994, n. 724.
 
+2.
+                        
+                            
+                                In occasione di trasferimento del personale, per le esigenze di  trasloco e di riorganizzazione familiare presso la nuova sede di servizio, l'Amministrazione concede un congedo straordinario speciale nelle durate di seguito specificate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasferimento in territorio nazionale: giorni 20 per il personale ammogliato o con famiglia a carico o con almeno 10 anni di servizio; giorni 10 per il personale senza famiglia a carico con meno di 10 anni di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasferimento per il personale destinato a prestare o che rientri dal servizio all'estero: giorni 30 al personale ammogliato o con famiglia a carico o con almeno 10 anni di servizio; giorni 20 al personale senza famiglia a carico con meno di 10 anni di servizio.
+
 Le disposizioni di cui all'art. 3, comma 39, della legge 24 
  dicembre 1993, n. 537, non si applicano quando l'assenza dal servizio sia dovuta ad infermita' o lesioni dipendenti da causa di servizio o comunque riportate per fatti di servizio.
 
@@ -604,6 +622,44 @@ Per garantire le attivita' formative del presente articolo  le Amministrazioni u
 
 ))
 
+4.
+                        
+                            
+                                Le giornate da destinare per tutto il personale alla formazione  e aggiornamento professionale sono finalizzate a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    addestramento al tiro ed alle tecniche operative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    aggiornamento professionale.
+
+5.
+                        
+                            
+                                Ogni anno ciascun dipendente sara' impegnato per la durata di 12 
+ giornate lavorative per l'addestramento e aggiornamento professionale, di norma cosi' distribuite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    6 giorni per l'addestramento al tiro ed alle tecniche 
+ operative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    6 giorni per l'aggiornamento professionale.
+
 ## Art. 23. — Specializzazione di conduttore di unita' cinofile, di elicotterista,  di sommozzatore, di tiratore scelto ed istruttore di tiro.
 
 Per il personale del Corpo della polizia penitenziaria e del 
@@ -618,6 +674,118 @@ Il personale della Polizia di Stato, del Corpo di polizia
  penitenziaria e del Corpo forestale dello Stato, inquadrato nei rispettivi gruppi sportivi "Fiamme Oro", "Fiamme Azzurre" e "Centro sportivo del Corpo forestale dello Stato" o riconosciuto atleta di interesse nazionale od olimpico dalle Federazioni sportive o dal CONI, potra' essere autorizzato a non presenziare alle attivita' di servizio ed a quelle previste dai corsi di formazione, su specifica e motivata richiesta da parte degli organismi sportivi sopra menzionati, sulla base di apposite convenzioni stipulate tra il CONI o le Federazioni Sportive e le rispettive Amministrazioni. Tale autorizzazione potra' essere rilasciata anche nei confronti del personale del Corpo di polizia penitenziaria appartenente al Gruppo sportivo "Astrea", limitatamente al periodo di svolgimento della attivita' calcistica organizzata dalla Federazione italiana gioco calcio.
 
 ## Art. 25. — Relazioni sindacali
+
+1.
+                        
+                            
+                                Il sistema di relazioni sindacali si articola nei seguenti 
+ modelli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contrattazione collettiva nazionale: 
+ si svolge a livello nazionale sulle materie, con i tempi e le 
+ procedure previste dall'art. 3, comma 1, e dall'art. 7 del decreto legislativo 12 maggio 1995, n. 195; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accordo nazionale quadro: 
+ b1) si svolge presso ogni sede centrale di ciascuna 
+ Amministrazione senza oneri finanziari aggiuntivi rispetto a quanto previsto dal presente decreto, con le procedure di cui all'art. 3, comma 7, del decreto legislativo 12 maggio 1995, n. 195, per la seguente materia: 
+ 1) principi generali per la definizione degli accordi decentrati 
+ di cui alla lettera c), unitamente alle procedure di perfezionamento in caso di mancata intesa ed alle modalita' di verifica di tali accordi, nonche' per le determinazioni dei periodi di validita'; 
+ b2) nell'ambito dell'accordo nazionale quadro sono definite, 
+ ferme restando le competenze gestionali delle Amministrazioni, le seguenti materie: 
+ 1) individuazione delle tipologie per l'articolazione dei turni  di servizio. 
+ 2) criteri relativi alla formazione ed all'aggiornamento 
+ professionale; 
+ 3) criteri generali per la programmazione di turni di lavoro 
+ straordinario diretti a consentire ai responsabili degli uffici di fronteggiare, per periodi predeterminati, particolari esigenze di servizio; 
+ 4) criteri generali per l'applicazione del riposo compensativo; 
+ 5) criteri generali per la programmazione di turni di 
+ reperibilita'; 
+ 6) indirizzi generali per le attivita' gestionali degli enti di  assistenza del personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contrattazione decentrata: 
+ si svolge presso ogni sede centrale e ufficio o istituto o 
+ reparto periferico di livello dirigenziale individuati da ciascuna Amministrazione, senza oneri finanziari aggiuntivi rispetto a quanto previsto dal presente decreto, con le procedure previste dall'art. 3, comma 7, del decreto legislativo 12 maggio 1995, n.195, e per le seguenti materie: 
+ 1) criteri applicativi relativi alla formazione ed 
+ all'aggiornamento professionale, con riferimento ai tempi ed alle modalita'; 
+ 2) criteri per la verifica della qualita' e della salubrita' dei 
+ servizi di mensa e degli spacci; 
+ 3) criteri per la verifica delle attivita' di protezione sociale 
+ e di benessere del personale; 
+ 4) misure dirette a favorire pari opportunita' nel lavoro e 
+ nello sviluppo professionale, ai fini anche delle azioni positive di cui alla legge 10 aprile 1991, n. l25; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informazione preventiva: 
+ d1) e' fornita da ciascuna Amministrazione, inviando con congruo  anticipo alle rispettive organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto la documentazione necessaria, relativamente ai criteri generali ed alle conseguenti iniziative concernenti: 
+ 1) l'articolazione dell'orario di lavoro obbligatorio 
+ giornaliero e settimanale e dei turni di servizio; 
+ 2) la mobilita' esterna del personale a domanda; 
+ 3) la programmazione di turni di lavoro straordinario diretti a  consentire ai responsabili degli uffici di fronteggiare, per periodi predeterminati, particolari esigenze di servizio; 
+ 4) l'applicazione del riposo compensativo; 
+ 5) la programmazione di turni di reperibilita'; 
+ d2) per le materie di cui ai punti 1), 3), 4) e 5) l'informazione 
+ e' fornita a livello centrale e periferico; per la materia di cui al punto 2) l'informazione e' fornita a livello centrale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esame: 
+ e1) si attua, a livello centrale e periferico, secondo le 
+ previsioni di cui al punto d2), relativamente alle materie oggetto di informazione preventiva. A tal fine, nell'ambito di ogni Amministrazione, ciascuna organizzazione sindacale firmataria dell'accordo sindacale recepito con il presente decreto, ricevuta l'informazione, puo' chiedere, in forma scritta, un incontro per l'esame delle suddette materie. Detto incontro - a cui sono invitate anche le altre organizzazioni sindacali non richiedenti - ha inizio entro le 48 ore dalla data di ricezione della richiesta e si conclude nel termine tassativo di quindici giorni dalla ricezione dell'informazione, ovvero entro un termine piu' breve per motivi di urgenza; decorsi tali termini le Amministrazioni assumono le proprie autonome determinazioni definitive. Dell'esito dell'esame e' redatto verbale dal quale risultano le posizioni delle parti; 
+ e2) durante il periodo in cui si svolge l'esame, le 
+ Amministrazioni non adottano provvedimenti unilaterali nelle materie in argomento e le organizzazioni sindacali che vi partecipano non assumono sulle stesse iniziative conflittuali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    consultazione: 
+ f1) si svolge relativamente ai criteri generali concernenti: 
+ 1) la definizione delle piante organiche; 
+ 2) la gestione del rapporto di impiego relativamente agli atti  normativi ed amministrativi di carattere generale concernenti lo stato giuridico, previdenziale ed assistenziale, ivi compresi i criteri di massima da seguirsi negli scrutini per le promozioni; 
+ 3) l'introduzione di nuove tecnologie e le conseguenti misure di 
+ massima riguardanti i processi generali di organizzazione degli uffici centrali e periferici aventi effetti generali sull'organizzazione del lavoro; 
+ f2) per le materie suddette, prima di assumere le relative 
+ determinazioni, le Amministrazioni della Polizia di Stato e del Corpo forestale dello Stato, previa adeguata informazione, acquisiscono senza particolari formalita' il parere delle rispettive organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto; 
+ f3) la consultazione si attua a livello centrale per le materie  di cui ai punti 1) e 2); per la materia di cui al punto 3) la consultazione si svolge a livello centrale nonche', nel caso di progetti di specifico rilievo locale, anche a livello periferico; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    informazione successiva: 
+ g1) si attua relativamente ai criteri generali concernenti: 
+ 1) le misure di massima riguardanti l'organizzazione degli 
+ uffici e l'organizzazione del lavoro; 
+ 2) la qualita' del servizio ed i rapporti con l'utenza, nonche'  le altre misure di massima volte a migliorare l'efficienza dei servizi; 
+ 3) l'attuazione di programmi di formazione del personale; 
+ 4) le misure in materia di igiene e sicurezza nei luoghi di 
+ lavoro; 
+ g2) per le materie suddette, le Amministrazioni della Polizia di  Stato e del Corpo forestale dello Stato forniscono le adeguate informazioni alle rispettive organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto in una apposita conferenza di rappresentanti di dette Amministrazioni ed organizzazioni sindacali, non avente alcuna natura negoziale, da riunirsi con cadenza semestrale; 
+ g3) l'informazione successiva si attua a livello centrale e 
+ periferico.
 
 Per il Corpo di polizia penitenziaria, l'Amministrazione, per 
  tutte le materie indicate al comma 1, lettere d), f) e g), procede, prima di assumere le relative determinazioni, all'esame previsto nel comma 1, lettera e), nel rispetto dei termini massimi ivi stabiliti, dopo aver fornito alle organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto operanti presso il Corpo di polizia penitenziaria le informazioni necessarie.
@@ -639,6 +807,38 @@ Allo scopo di rendere piu' trasparente e costruttivo il rapporto
 ## Art. 26. — Forme di partecipazione
 
 ((
+
+1.
+                        
+                            
+                                Oltre al Comitato in materia di pari opportunita', presso ciascuna Amministrazione sono costituite, per la verifica e la formulazione di proposte, le sottoindicate commissioni, a livello centrale e periferico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Commissione per il benessere del personale, con competenza in materia di qualita' e salubrita' dei servizi di mensa e degli spacci, attivita' di protezione sociale e di benessere del personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Commissione per le pari opportunita' nel lavoro e nello sviluppo professionale, solo a livello periferico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Commissione automezzi, tecnologia e informatica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Commissione per l'istruzione e lo sviluppo professionale del personale, con competenza sugli indirizzi generali per l'individuazione degli obiettivi formativi in materia di formazione e aggiornamento del personale.
 
 ))
 
@@ -1192,6 +1392,26 @@ Le norme di cui al presente articolo si applicano dal 1 gennaio
 Per il personale di cui all'art. 34, comma 1, la licenza 
  straordinaria e' disciplinata dalla normativa prevista dall'art. 3 della legge 24 dicembre 1993, n. 537, come interpretato, modificato ed integrato dall'art. 22, commi 22 e 23, della legge 23 dicembre 1994, n. 724.
 
+2.
+                        
+                            
+                                In occasione di trasferimento del personale, per le esigenze di  trasloco e di riorganizzazione familiare presso la nuova sede di servizio, l'Amministrazione concede una licenza straordinaria speciale nelle durate di seguito specificate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasferimento in territorio nazionale: giorni venti per il 
+ personale ammogliato o con famiglia a carico o con almeno dieci anni di servizio; giorni dieci per il personale senza famiglia a carico con meno di dieci anni di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasferimento per il personale destinato a prestare o che 
+ rientri dal servizio all'estero: giorni trenta al personale ammogliato o con famiglia a carico o con almeno dieci anni di servizio; giorni venti al personale senza famiglia a carico con meno di dieci anni di servizio.
+
 Per il personale di cui all'art. 34, comma 1, la licenza breve  e' soppressa.
 
 Le disposizioni di cui all'art. 3, comma 39, della legge 24 
@@ -1303,6 +1523,33 @@ Per l'espletamento delle attivita' di cui ai commi precedenti,  ai sensi dell'ar
  salubrita' dei servizi di mensa, e degli spacci, per lo sviluppo  delle attivita' di protezione sociale e di benessere del personale, ivi compresi l'elevazione e l'aggiornamento culturale del medesimo, nonche' la gestione degli enti di assistenza del personale.
 
 Entro sei mesi dall'entrata in vigore del presente decreto, con  decreto del Ministro competente saranno istituiti organi di verifica della qualita' e salubrita' dei servizi di mensa, e degli spacci, per lo sviluppo delle attivita' di protezione sociale e di benessere del personale, ivi compresi l'elevazione e l'aggiornamento culturale del medesimo, nonche' per la gestione degli enti di assistenza del personale.
+
+2.
+                        
+                            
+                                Tale decreto, nell'indicare le competenze dei suddetti organi,  dovra' prevedere che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la presidenza degli stessi sia attribuita al comandante di 
+ Corpo dell'ente o del reparto o ad un suo delegato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    venga consentita la partecipazione di rappresentanti di tutte  le categorie del personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno dei componenti sia indicato dagli organismi di 
+ rappresentanza di base (COBAR).
 
 ## Art. 60. — Tutela legale
 

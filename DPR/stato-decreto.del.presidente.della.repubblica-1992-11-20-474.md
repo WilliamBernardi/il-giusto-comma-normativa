@@ -8,8 +8,8 @@ codice_redazionale: 092G0514
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,55 @@ Sulla proposta del Ministro di grazia e giustizia;
 Ai fini delle disposizioni del presente regolamento, per "decreto legislativo" si intende il decreto legislativo 27 gennaio 1992, n. 88.
 
 ## Art. 2. — Domanda presentata da persona fisica
+
+1.
+                    
+                        
+                            Nella domanda di iscrizione nel registro dei revisori contabili o nell'elenco allegato l'interessato deve indicare il titolo in forza del quale chiede l'iscrizione e deve dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                il cognome, il nome, il sesso, il luogo e la data di nascita;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la residenza, anche all'estero, il domicilio in Italia e, se diverso, anche il domicilio fiscale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'attivita' esercitata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero di codice fiscale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                se del caso, la qualita' di dipendente dello Stato o di un ente pubblico e l'amministrazione o l'ente di appartenenza;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'assenza:
+ 1) di provvedimenti di interdizione temporanea o di sospensione dagli uffici direttivi delle persone giuridiche e delle imprese;
+ 2) di misure di prevenzione ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 21 maggio 1965, n. 575, e successive modificazioni ed integrazioni;
+ 3) di condanne alla reclusione, anche se con pena condizionalmente sospesa, per uno dei delitti indicati nei numeri 1), 2), 3) e 4) della lettera c) del comma 1 dell'art. 8 del decreto legislativo.
 
 La sottoscrizione in calce alla domanda deve essere autenticata ai sensi dell'art. 20 della legge 4 gennaio 1968, n. 15. Nei casi di cui al comma 1, lettera e), e' sufficiente il visto del capo dell'ufficio presso il quale gli interessati prestano servizio.
 
@@ -53,6 +102,59 @@ La sottoscrizione del legale rappresentante in calce alla dichiarazione prevista
 Coloro che sono iscritti nell'elenco allegato, ferme le prescrizioni di cui agli articoli 2 e 3, commi 2 e 3, devono allegare alla successiva domanda di iscrizione nel registro i documenti previsti dall'art. 3, commi 1 e 4, dai quali risulti che, per effetto della permanenza nella carica di sindaco ai sensi dell'art. 27 del decreto legislativo, hanno svolto tali funzioni per il periodo indicato dall'art. 12 del regio decreto-legge 24 luglio 1936, n. 1548, convertito, con modificazioni, dalla legge 3 aprile 1937, n. 517, o dalle lettere a), b) e c) del comma 2 dell'art. 11 del decreto legislativo.
 
 ## Art. 5. — Domanda presentata da societa' di revisione
+
+1.
+                    
+                        
+                            Nella domanda di iscrizione nel registro dei revisori contabili il legale rappresentante della societa' di revisione deve dichiarare:
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione o la ragione sociale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sede principale o secondaria con rappresentanza stabile in Italia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero di codice fiscale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli elementi di cui all'art. 2, comma 1, lettere a), b), c) e d), per gli amministratori in carica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'assenza in capo ai medesimi delle situazioni previste dall'art. 2, comma 1, lettera f);
+
+                            
+                        
+                        
+                            f)
+                            
+                                che la societa' e' autorizzata ai sensi dell'art. 2 della legge 23 novembre 1939, n. 1966, precisando gli estremi del decreto di autorizzazione e di eventuali decreti di modificazione, ovvero che la societa' ha presentato l'istanza per l'autorizzazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                che non sussistano decreti di sospensione o di revoca dell'autorizzazione ai sensi dell'art. 2 della legge 23 novembre 1939, n. 1966, e dell'art. 4 del regio decreto 22 aprile 1940, n. 531.
 
 Alla domanda e' allegata copia autentica dell'atto costitutivo con le eventuali modificazioni.
 

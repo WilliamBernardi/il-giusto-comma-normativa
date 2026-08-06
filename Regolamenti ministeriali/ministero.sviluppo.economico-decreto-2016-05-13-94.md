@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2016-05-13;94
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,7 +34,112 @@ Udito il parere del Garante per la protezione dei dati personali;
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «canone» si intende il canone di abbonamento alla televisione per uso privato di cui al regio decreto-legge 21 febbraio 1938, n. 246, convertito dalla legge 4 giugno 1938, n. 880; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «imprese elettriche» si intendono le imprese controparti dei contratti di vendita di energia elettrica, nel mercato libero o nell'ambito del servizio di maggior tutela, con i clienti finali domestici, tenute alla riscossione del canone mediante addebito sulla fattura e successivo riversamento in base all'articolo 1, comma 154, della legge 28 dicembre 2015, n. 208; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «tipologia clienti residenti» si intendono: 
+ i. i clienti domestici titolari di punti di prelievo cui si applica la tariffa D2 di cui al comma 30.1 del Testo integrato delle disposizioni per l'erogazione dei servizi di trasmissione e distribuzione dell'energia elettrica, Allegato A alla deliberazione 654/2015/R/EEL dell'Autorita' per l'energia elettrica, il gas e il sistema idrico (TIT) o per i quali si applica la sperimentazione tariffaria di cui alla deliberazione 205/2014/R/EEL dell'Autorita' per l'energia elettrica, il gas e il sistema idrico; 
+ ii. i clienti domestici titolari di punti di prelievo cui si applica la tariffa D3 di cui al comma 30.2 del TIT, a seguito di nuovi contratti conclusi a partire dal 1° gennaio 2016 che abbiano dichiarato all'impresa elettrica la propria residenza nel luogo di fornitura ai sensi dell'articolo 1, comma 159, lettera c), della legge 28 dicembre 2015, n. 208; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per «tipologia altri clienti domestici» si intendono i clienti domestici titolari di punti di prelievo cui si applica la tariffa D3 di cui al comma 30.2 del TIT attivi al 1° gennaio 2016; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per «Autorita'» si intende l'Autorita' per l'energia elettrica, il gas e il sistema idrico; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per «Sistema informativo integrato» si intende il sistema informativo integrato basato su una banca dati dei punti di prelievo di energia elettrica e di gas naturale e dei dati identificativi dei clienti finali di cui all'art.1-bis della legge n. 129/2010, ovvero l'insieme di strutture organizzative, infrastrutture tecnologiche e regole tecniche, per la condivisione, l'integrazione e lo scambio dei flussi di dati funzionali ai processi necessari per il funzionamento dei mercati dell'energia elettrica e il gas.
+
 ## Art. 2. — Allineamento banche dati
+
+1.
+                    
+                        
+                            Ai fini di quanto previsto dall'articolo 1, comma 156, della legge 28 dicembre 2015, n. 208, con riferimento ai contratti della tipologia altri clienti domestici attivi al 1° gennaio 2016: 
+ 
+                        
+                        
+                            a)
+                            
+                                Acquirente Unico S.p.a. trasmette all'Agenzia delle entrate, secondo modalita' e contenuti definiti d'intesa fra i succitati organi, sentito il Garante per la protezione dei dati personali, le informazioni relative ai contratti rese disponibili ai sensi della deliberazione dell'Autorita' n. 628/2015/R/EEL del 17 dicembre 2015; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'Agenzia delle entrate, sulla base delle informazioni disponibili nel sistema informativo dell'Anagrafe tributaria, individua i contratti della tipologia altri clienti domestici per i quali il luogo di fornitura corrisponde alla residenza dell'intestatario e ne comunica gli estremi all'Acquirente Unico S.p.a., secondo modalita' e contenuti definiti d'intesa fra i succitati organi, sentito il Garante per la protezione dei dati personali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro il 31 ottobre di ogni anno, l'Agenzia delle entrate trasmette ad Acquirente Unico S.p.a. le informazioni di cui alla lettera b) aggiornate sulla base delle variazioni di residenza intervenute nel periodo, con le modalita' e i contenuti definiti d'intesa fra i succitati organi, sentito il Garante per la protezione dei dati personali, ai sensi della stessa lettera b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Acquirente Unico S.p.a. rende disponibili alle imprese elettriche, tramite il Sistema informativo integrato, le informazioni di cui alla lettera c), entro il 7 novembre di ogni anno.
+
+2.
+                    
+                        
+                            L'Agenzia delle entrate trasmette ad Acquirente Unico S.p.a., secondo tempi, modalita' e contenuti definiti d'intesa fra i succitati organi, sentito il Garante per la protezione dei dati personali, entro 15 giorni dall'entrata in vigore del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                le informazioni sui soggetti che risultano aver presentato la dichiarazione di non detenzione di apparecchi televisivi di cui all'articolo 1, comma 153, della legge 28 dicembre 2015, n. 208, nonche' la dichiarazione della sussistenza di altra utenza elettrica per la quale uno dei componenti il nucleo familiare e' gia' tenuto al pagamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le informazioni relative ai soggetti appartenenti alla stessa famiglia anagrafica, come definita dall'articolo 4 del decreto del Presidente della Repubblica 30 maggio 1989, n. 223, individuati dall'Agenzia delle entrate - Direzione provinciale I di Torino - Ufficio territoriale di Torino I - Sportello SAT, nei cui confronti non si deve procedere all'addebito sulle fatture per energia elettrica, in quanto il pagamento e' stato effettuato con altre modalita', ovvero, in quanto almeno uno dei componenti della famiglia anagrafica risulta esente dal pagamento ai sensi dell'articolo 1, comma 132, della legge 24 dicembre 2007, n. 244, o per effetto di Convenzioni internazionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le variazioni intervenute nei dati di cui alle lettere a) e b).
 
 ## Art. 3. — Addebito del canone
 

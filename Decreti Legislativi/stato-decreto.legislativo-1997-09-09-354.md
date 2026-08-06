@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2005-07-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -249,6 +249,45 @@ I vincitori parteciperanno ad un corso di formazione tenuto in ambito locale ed 
 La pianta organica dei consiglieri della sezione distaccata della corte d'appello di Trento con sede in Bolzano, istituita con decreto legislativo 21 aprile 1993, n. 133, tabella 1, e' incrementata di due unita', ed e' costituita, quindi, di sette unita'.
 
 ## Art. 32. — Regolarizzazione di posizioni anomale
+
+1.
+                    
+                        
+                            E' assimilato al personale ad esaurimento, di cui all'articolo 9, primo comma, del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, il personale che alla data del 1 gennaio 1997 risulta in servizio in provincia di Bolzano, appartenente alle Amministrazioni dello Stato, comprese quelle ad ordinamento autonomo, all'INPS e all'INAIL, nonche' agli enti disciolti con propria sede in provincia di Bolzano e che, non appartenendo ai ruoli locali, si trovi in una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                sia stato assunto per effetto di concorso indetto o di provvedimento amministrativo emanato prima del 1 dicembre 1976 ed abbia preso effettivo servizio nella provincia stessa entro il 31 dicembre 1978;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia stato assunto in provincia di Bolzano entro il 1 gennaio 1986 in base alla legge 1 giugno 1977, n. 285;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sia stato inquadrato in ruolo prima del 1 luglio 1980 a seguito di servizio prestato in provincia di Bolzano, in qualita' di sostituto portalettere ai sensi dell'articolo 5, terzo comma, del decreto del Presidente della Repubblica 19 ottobre 1977, n. 846;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sia stato inquadrato in ruolo o destinato a prestare servizio in provincia di Bolzano dopo il 1 dicembre 1976 ed entro il 9 novembre 1989 a seguito di servizio prestato in provincia di Bolzano come precario ovvero a seguito di assunzione o riassunzione per provvedimento amministrativo o per concorso non locale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                abbia prestato servizio per piu' di sei anni in provincia di Bolzano per effetto dei provvedimenti previsti dall'articolo 14 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752.
 
 Il personale che ritenga di appartenere ad una delle summenzionate categorie dovra' inoltrare, per via gerarchica, al commissario del Governo se in servizio presso l'amministrazione statale ovvero al direttore delle sedi provinciali se in servizio presso l'INPS o all'INAIL, apposita domanda entro sessanta giorni dalla data di entrata in vigore del presente decreto, fornendo le notizie di cui all'allegato modello 1.
 

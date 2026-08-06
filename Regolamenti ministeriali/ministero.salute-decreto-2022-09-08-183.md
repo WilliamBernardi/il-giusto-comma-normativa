@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2022-09-08;183
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,276 @@ Acquisito il parere del Consiglio di Stato, espresso nell'adunanza di sezione de
  professione sanitaria di fisioterapista
 
 Sono istituiti gli ordini territoriali della professione sanitaria di fisioterapista, ai quali si applicano le disposizioni di cui agli articoli 1, 2, 3, 4, 5 e 6 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, come sostituiti dall'articolo 4, comma 1, della legge n. 3 del 2018.
+
+2.
+                    
+                        
+                            Alla data di entrata in vigore del presente decreto, gli ordini territoriali della professione sanitaria di fisioterapista sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                Ordine regionale della professione sanitaria di fisioterapista della Liguria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Ordine regionale della professione sanitaria di fisioterapista del Friuli Venezia Giulia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ordine regionale della professione sanitaria di fisioterapista delle Marche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Ordine regionale della professione sanitaria di fisioterapista dell'Umbria; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Ordine regionale della professione sanitaria di fisioterapista del Lazio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Ordine regionale della professione sanitaria di fisioterapista dell'Abruzzo; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Ordine regionale della professione sanitaria di fisioterapista del Molise; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Ordine regionale della professione sanitaria di fisioterapista della Basilicata; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                Ordine interregionale della professione sanitaria di fisioterapista del Piemonte e della Valle d'Aosta; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Milano, Como, Cremona, Lecco, Lodi, Monza Brianza, Sondrio e Varese; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Brescia e Mantova; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Venezia, Padova e Rovigo; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Belluno, Treviso, Vicenza e Verona; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Bologna e Ferrara; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Forli', Cesena, Ravenna e Rimini; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Modena e Reggio Emilia; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Parma e Piacenza; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Firenze, Arezzo, Lucca, Massa Carrara, Pistoia e Prato; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Pisa, Grosseto e Livorno; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Napoli, Avellino, Benevento e Caserta; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Bari, Barletta Andria Trani e Taranto; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Brindisi e Lecce; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Catanzaro, Crotone e Vibo Valentia; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Palermo e Trapani; 
+
+                            
+                        
+                        
+                            dd)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Catania, Ragusa e Siracusa; 
+
+                            
+                        
+                        
+                            ee)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Caltanissetta, Agrigento e Enna; 
+
+                            
+                        
+                        
+                            ff)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Cagliari, Medio Campidano, Nuoro, Ogliastra, Oristano, Sulcis Iglesiente; 
+
+                            
+                        
+                        
+                            gg)
+                            
+                                Ordine interprovinciale della professione sanitaria di fisioterapista di Sassari e del Nord-Est Sardegna; 
+
+                            
+                        
+                        
+                            hh)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Bergamo; 
+
+                            
+                        
+                        
+                            ii)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Pavia; 
+
+                            
+                        
+                        
+                            ll)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Bolzano; 
+
+                            
+                        
+                        
+                            mm)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Trento; 
+
+                            
+                        
+                        
+                            nn)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Siena; 
+
+                            
+                        
+                        
+                            oo)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Salerno; 
+
+                            
+                        
+                        
+                            pp)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Foggia; 
+
+                            
+                        
+                        
+                            qq)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Reggio Calabria; 
+
+                            
+                        
+                        
+                            rr)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Cosenza; 
+
+                            
+                        
+                        
+                            ss)
+                            
+                                Ordine provinciale della professione sanitaria di fisioterapista di Messina.
 
 Per le elezioni dei componenti del Consiglio direttivo e del Collegio dei revisori degli ordini della professione sanitaria di fisioterapista si applicano le procedure di cui al decreto del Ministro della salute 15 marzo 2018, salvo quanto previsto dall'articolo
 

@@ -8,8 +8,8 @@ codice_redazionale: 094G0348
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,42 @@ Udito il parere del Consiglio di Stato, reso nell'adunanza generale del 24 febbr
 ## Art. 1.
 
 Il presente regolamento disciplina la fabbricazione, l'impiego ed il controllo dei medicamenti veterinari ad azione immunizzante che rientrano nei vaccini stabulogeni e negli autovaccini.
+
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                vaccini stabulogeni, medicinali veterinari ad azione immunizzante preparati per microrganismi patogeni e/o antigeni isolati da soggetti colpiti dalla forma infettiva dominante in quel determinato allevamento ed impiegati per trattare tale allevamento ed allevamenti dello stesso territorio, qualora il veterinario lo ritenga opportuno per documentati motivi epidemiologici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                autovaccini, i medicinali veterinari ad azione immunizzante preparati con microrganismi patogeni e/o antigeni isolati da reperti morbosi dell'animale da trattare.
+
+3.
+                    
+                        
+                            I vaccini stabulogeni e gli autovaccini possono essere impiegati esclusivamente per motivi contingenti, limitatamente a particolari situazioni patologiche ed epidemiologiche accertate e di conduzione dei singoli allevamenti o animali; devono essere preparati su specifica richiesta del veterinario curante qualora questi ritenga necessario, dopo diagnosi clinica e di laboratorio, l'uso di vaccini monovalenti o polivalenti o associati, piu' idonei alle situazioni patologiche accertate, quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                vaccini preparati con le associazioni microbiche tipiche del focolaio o della forma morbosa diagnosticata in quell'allevamento o in quell'animale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                vaccini preparati con un particolare adiuvante che non interferisce con la destinazione dell'allevamento o dell'animale da trattare.
 
 ## Art. 2.
 
@@ -54,6 +90,38 @@ Il Ministero della sanita' effettua la revisione delle autorizzazioni specifiche
 ## Art. 4.
 
 I singoli vaccini stabulogeni ed autovaccini possono essere preparati da un istituto zooprofilattico sperimentale autorizzato alla loro produzione, dietro richiesta di preparazione effettuata dal veterinario con ricetta non ripetibile in semplice copia, con l'indicazione dell'allevamento o dell'animale a cui sono destinati.
+
+2.
+                    
+                        
+                            Ogni produzione di vaccini stabulogeni o autovaccini deve essere registrata in maniera dettagliata per quanto riguarda:
+ 
+                        
+                        
+                            a)
+                            
+                                l'allevamento o l'animale da cui sono stati isolati i microrganismi patogeni, o prelevati gli antigeni per la loro preparazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la richiesta di preparazione compilata dal veterinario d'intesa con il laboratorista dell'istituto zooprofilattico sperimentale che ha emesso la diagnosi di laboratorio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la composizione qualitativa e quantitativa del vaccino;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la durata e le modalita' del trattamento vaccinale utilizzato.
 
 Le registrazioni di cui al comma 2 vanno tenute a disposizione delle competenti autorita' sanitarie, ai fini d'ispezione, per almeno tre anni. L'elenco dettagliato dei vaccini stabulogeni e degli autovaccini prodotti, nonche' le relative quantita', vanno riportati nella relazione tecnica annuale inviata al Ministero della sanita'.
 

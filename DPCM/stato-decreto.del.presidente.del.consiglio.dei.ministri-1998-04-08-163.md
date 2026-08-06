@@ -8,8 +8,8 @@ codice_redazionale: 098G0211
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -58,12 +58,216 @@ L'iscrizione puo' essere richiesta dal produttore o dai suoi aventi causa, ovver
 
 L'ufficio del pubblico registro per la cinematografia trattiene l'esemplare in carta bollata della domanda unitamente all'attestazione e alla copia conforme della denuncia di cui al primo comma del presente articolo, e restituisce l'altro esemplare in carta semplice al richiedente con la menzione dell'avvenuta iscrizione, indicandone la data, la sezione in cui l'opera filmica e' stata iscritta ed il relativo numero d'ordine.
 
+4.
+                    
+                        
+                            Nel registro, sulla base dei dati riportati nella denuncia fatta alla Presidenza del Consiglio dei Ministri - Dipartimento dello spettacolo e presentata in copia conforme alla S.I.A.E., per ogni opera filmica iscritta, compatibilmente con le sue caratteristiche e a seconda della sezione attribuitagli, sono annotati quali dati di iscrizione:
+ 
+                        
+                        
+                            a)
+                            
+                                il nome del produttore o importatore e del distributore; se trattasi di societa', la ragione sociale e il nome del rappresentante legale, ed eventualmente quello del procuratore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il domicilio del produttore o importatore e distributore o la sede della societa' od eventualmente il domicilio del procuratore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare del capitale sociale se trattasi di societa';
+
+                            
+                        
+                        
+                            d)
+                            
+                                il titolo provvisorio ovvero definitivo dell'opera filmica e, se trattasi di opera straniera, tanto il titolo originario quanto il titolo in lingua italiana, anche se provvisorio, con il quale l'opera e' stata posta o e' destinata ad essere posta in circolazione in Italia;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la specificazione, per le sole opere filmiche nazionali di lungometraggio, se trattasi di film di produzione nazionale o di film di interesse culturale nazionale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la nazionalita' del film eventualmente distinta per paesi di appartenenza dell'impresa produttrice;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i nomi e la nazionalita' del regista e degli autori del soggetto, della sceneggiatura e del commento musicale ed eventuali pseudonimi, nonche' - per i film stranieri importati e distribuiti in Italia - il nome dell'autore della versione italiana dei dialoghi;
+
+                            
+                        
+                        
+                            h)
+                            
+                                per i soli film nazionali il nome e la nazionalita' del direttore della fotografia, dell'autore della scenografia e dell'autore del montaggio;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la data di inizio lavorazione per il film nazionale o quella di importazione per la distribuzione in Italia per il film non nazionale;
+
+                            
+                        
+                        
+                            l)
+                            
+                                gli estremi dell'attestazione rilasciata dalla Presidenza del Consiglio dei Ministri - Dipartimento dello spettacolo, relativa alla denuncia di inizio lavorazione o all'importazione dell'opera filmica;
+
+                            
+                        
+                        
+                            m)
+                            
+                                per i soli film riconosciuti nazionali ai sensi dell'articolo 4 della legge 4 novembre 1965, n. 1213, sulla cinematografia, gli estremi della nota con cui viene comunicato alla S.I.A.E., da parte della Presidenza del Consiglio dei Ministri - Dipartimento dello spettacolo, il provvedimento di riconoscimento della nazionalita' italiana;
+
+                            
+                        
+                        
+                            n)
+                            
+                                gli estremi del nullaosta per la circolazione in pubblico, non appena comunicati dall'autorita' competente;
+
+                            
+                        
+                        
+                            o)
+                            
+                                la data e il luogo di prima proiezione in pubblico, non appena rilevati ed accertati, anche per gli effetti di cui agli articoli 32 e 103, quinto comma, della legge 22 aprile 1941, n. 633. Ai fini delle previsioni contenute nella legge 4 novembre 1965, n. 1213, e nel decreto-legge 14 gennaio 1994, n. 26, convertito nella legge 1 marzo 1994, n. 153, viene altresi' annotata - se ed in quanto successiva alla precedente - la data della prima programmazione costituente avvio allo sfruttamento commerciale della pellicola nel territorio nazionale;
+
+                            
+                        
+                        
+                            p)
+                            
+                                altri dati relativi al film (prodotto per ragazzi, coproduzione o compartecipazione, ammissione ai benefici di legge, attribuzione degli attestati e dei premi di qualita', modificazioni della titolarita' e della consistenza patrimoniale dell'impresa e variazione negli elementi costitutivi della societa', indicazioni previste negli articoli 22, 23 e 24 della legge 4 novembre l965, n. 1213, eventuali altri dati) ed eventuali variazioni dei sopraelencati dati di iscrizione comunicati successivamente alla S.I.A.E. da parte del Dipartimento dello spettacolo o da altra autorita' competente.
+
 Una volta richiesta ed ottenuta l'iscrizione, ad ultimazione del film nazionale, il richiedente e' tenuto, ai sensi e per gli effetti di cui all'articolo 22, comma 3, del decreto-legge 14 gennaio 1994, n. 26, convertito nella legge 1 marzo 1994, n. 153, a presentare agli uffici del pubblico registro per la cinematografia la dichiarazione rilasciata dalla cineteca nazionale attestante l'avvenuto deposito presso quest'ultima di una copia positiva nuova conforme al negativo dell'opera filmica oppure - nel caso in cui l'iscrizione riguardi opere filmiche assistite dal fondo di garanzia - di un controtipo negativo dell'opera: gli estremi di tale dichiarazione rilasciata dalla cineteca nazionale sono quindi annotati sul registro, subito appresso ai dati di iscrizione. La mancata presentazione ed annotazione della suddetta dichiarazione, una volta rilasciato il nulla osta di circolazione, rende priva di efficacia l'iscrizione stessa ai fini dell'ammissione ai benefici e per la concessione dei premi previsti dalla legge 4 novembre 1965, n. 1213, e successive modificazioni, con conseguente conforme annotazione in calce ai dati di iscrizione e successiva comunicazione all'autorita' competente.
 L'iscrizione rimane comunque valida per gli altri effetti legislativamente previsti.
 
 Per ognuna delle cinque sezioni in cui e' articolato, il pubblico registro per la cinematografia cura la tenuta di un protocollo delle iscrizioni in cui giornalmente deve essere riportato, secondo l'ordine stesso di iscrizione, il numero d'ordine progressivo assegnato al film iscritto in quella sezione, il titolo provvisorio o definitivo del film medesimo e la data di iscrizione.
 
 ## Art. 3. — Atti soggetti a trascrizione nel P.R.C.
+
+1.
+                    
+                        
+                            Ai sensi e per gli effetti di cui all'articolo 22 del decreto-legge 14 gennaio 1994, n. 26, convertito nella legge 1 marzo 1994, n. 153, devono essere resi pubblici con il mezzo della trascrizione nel pubblico registro per la cinematografia:
+ 
+                        
+                        
+                            a)
+                            
+                                gli atti a titolo oneroso o gratuito stipulati sia per la costituzione e la cessione di diritti relativi allo sfruttamento economico delle opere filmiche, sia per il trasferimento totale o parziale dei diritti di proprieta' o di utilizzazione economica sulle opere filmiche medesime;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli atti e le convenzioni relativi ad opere filmiche straniere iscritte nel pubblico registro per la cinematografia, anche se conclusi all'estero e con persone di nazionalita' straniera, purche' riferentesi alla importazione, alla distribuzione o allo sfruttamento economico e commerciale delle opere stesse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli accordi contrattuali relativi alla distribuzione dell'opera filmica o concernenti la disponibilita' dei proventi presenti o futuri derivanti dallo sfruttamento economico dell'opera stessa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli acquisti a causa di morte soggetti a trascrizione a norma del codice civile, se riguardano la proprieta' ovvero i diritti di utilizzazione economica di opere filmiche;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli atti di divisione, fermo restando quanto disposto dall'articolo 115 della legge 22 aprile 1941, n. 633;
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli atti che costituiscono privilegi e garanzie sui diritti di utilizzazione economica dell'opera o sui relativi proventi o su entrambi gli atti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                gli atti cautelativi, gli atti relativi al pignoramento ed al sequestro conservativo o i proventi di utilizzazione economica dell'opera o di entrambi;
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli atti e i provvedimenti indicati nelle lettere precedenti che abbiano per oggetto crediti agevolati, contributi od altri benefici pecuniari spettanti ai produttori delle opere in base alla presente legge, ed in particolare gli atti di cessione a favore degli autori italiani dell'opera di cui all'articolo 23 del decreto-legge 14 gennaio 1994, n. 26, convertito nella legge 1 marzo 1994, n. 153;
+
+                            
+                        
+                        
+                            i)
+                            
+                                gli atti che modificano, precisano, postergano od estinguono in modo totale o parziale le obbligazioni derivanti dagli atti di cui alle precedenti lettere;
+
+                            
+                        
+                        
+                            l)
+                            
+                                gli atti di transazione, di conciliazione e di rinuncia, relativi ai diritti derivanti dagli atti menzionati alle lettere precedenti;
+
+                            
+                        
+                        
+                            m)
+                            
+                                gli atti pubblici relativi a verbali di assemblea straordinaria modificativi delle vicende sociali delle societa' che risultino parte di uno degli atti di cui alle lettere precedenti, se ed in quanto rilevino ai fini degli effetti giuridici dell'atto stesso;
+
+                            
+                        
+                        
+                            n)
+                            
+                                le sentenze e gli altri provvedimenti giudiziali concernenti il fallimento ovvero lo stato di insolvenza del produttore dell'opera o delle altre persone fisiche o giuridiche che risultino parte di uno degli atti di cui alle lettere precedenti;
+
+                            
+                        
+                        
+                            o)
+                            
+                                i provvedimenti od atti con i quali, per effetto dell'esecuzione forzata o delle procedure di fallimento, sono trasferiti diritti di utilizzazione economica sull'opera filmica;
+
+                            
+                        
+                        
+                            p)
+                            
+                                le domande giudiziali, le decisioni ed i provvedimenti dell'autorita' giudiziaria, nonche' le decisioni arbitrali relative all'accertamento, alla costituzione, al trasferimento, alla modificazione o all'estinzione di diritti oggetto di uno degli atti di cui alle lettere precedenti.
 
 ## Art. 4. — Requisiti per la trascrizione
 
@@ -79,6 +283,44 @@ Alla trascrizione sul pubblico registro per la cinematografia si applicano, in q
 
 ## Art. 5. — Nota di trascrizione
 
+1.
+                    
+                        
+                            Chi domanda la trascrizione di un atto tra vivi deve presentare al pubblico registro per la cinematografia, insieme ad una originale dell'atto stesso o ad una copia autenticata di esso, una nota di trascrizione in doppio originale, di cui uno in regola con l'imposta di bollo, redatta in lingua italiana su apposito modello reperibile presso gli uffici centrali e periferici della S.I.A.E. situati nei capoluoghi di provincia, munita in calce della sottoscrizione autografa della parte o delle parti interessate richiedenti e contenente i sottoindicati elementi essenziali dell'atto di cui e' richiesta la trascrizione, che devono essere poi riportati sul registro a cura dell'ufficio:
+ 
+                        
+                        
+                            a)
+                            
+                                elementi relativi all'opera filmica:
+ aa) titolo, anche se provvisorio, e per i film stranieri anche il titolo originario;
+ bb) categoria cui appartiene l'opera (lungometraggio, cortometraggio od attualita') ed eventuale specificazione qualora si tratti di "film d'animazione";
+ cc) nazionalita' ed eventuale specificazione di "film in coproduzione" o "compartecipazione";
+ dd) indicazione del produttore e del regista;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elementi relativi ai soggetti dell'atto:
+ aa) cognome, nome, numero di codice fiscale, luogo di residenza o domicilio per le persone fisiche;
+ bb) denominazione o ragione sociale, sede, legale rappresentante e il numero di codice fiscale delle persone giuridiche, delle societa' previste dai capi II, III e IV del titolo V del libro quinto del codice civile e delle associazioni non riconosciute, con l'indicazione, per quest'ultime e per le societa' semplici, anche delle generalita' delle persone che le rappresentano secondo l'atto costitutivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elementi relativi al titolo o qualificazione giuridica dell'atto di cui si chiede la trascrizione:
+ aa) forma del titolo (scrittura privata con sottoscrizione autenticata o accertata giudizialmente, atto pubblico o provvedimento giudiziale);
+ bb) data di stipulazione dell'atto, nonche' data ed estremi della sua registrazione presso un ufficio del registro;
+ cc) cognome e nome del pubblico ufficiale che ha ricevuto l'atto o autenticato le firme, od autorita' giudiziaria che ha pronunciato la sentenza;
+ dd) eventuali estremi di stipulazione, di registrazione e di trascrizione di altri atti cui si faccia riferimento;
+ ee) qualificazione dell'evento giuridico che si vuole rendere conoscibile ai terzi (es. cessione, contratto di distribuzione, costituzione di diritti reali di godimento, ecc.);
+ ff) contenuto dispositivo del suddetto evento giuridico, corrispondente alla natura ed alla quantita' dei diritti trasferiti, costituiti, modificati od estinti, nonche' ai relativi corrispettivi ricevuti;
+ gg) descrizione di particolari patti ovvero di altri aspetti dell'atto che si ritiene utile far conoscere ai terzi.
+
 Se l'acquisto, la rinunzia o la modificazione del diritto sono sottoposti a termine o a condizione, ne deve essere fatta menzione anche nella nota di trascrizione, osservando quanto previsto dall'ultimo comma dell'articolo 2659 del codice civile.
 
 Qualora un atto abbia per oggetto piu' opere filmiche, devono essere redatte e presentate altrettante distinte note di trascrizione, ognuna riportante il contenuto dispositivo relativo a ciascun film, in quanto ogni nota di trascrizione puo' riguardare una sola opera filmica. In ognuna delle distinte note deve esservi inoltre l'indicazione, da apporre ed aggiungere a quelle di cui al numero 1 del primo comma del presente articolo, relativa al numero totale delle opere filmiche oggetto dell'atto di cui si chiede la trascrizione.
@@ -90,6 +332,30 @@ Per quanto concerne le domande di trascrizione effettuate a mezzo del servizio p
 ## Art. 6. — Trascrizione degli acquisti a causa di morte
 
 Chi domanda la trascrizione di un acquisto a causa di morte, soggetto a trascrizione a norma del codice civile, riguardante la proprieta' ovvero i diritti di utilizzazione economica di opere filmiche, deve presentare oltre l'atto indicato dall'articolo 2648 del codice civile, il certificato di morte e una copia o un estratto autentico del testamento, se l'acquisto segue in base ad esso.
+
+2.
+                    
+                        
+                            Il richiedente deve inoltre presentare una nota di trascrizione in doppio originale, di cui uno in regola con l'imposta di bollo nell'importo vigente, redatta in lingua italiana su apposito modello per gli acquisti a causa di morte reperibile presso gli uffici centrali e periferici della S.I.A.E. situati nei capoluoghi di provincia, munita in calce della sottoscrizione autografa dell'erede o legatario e contenente i seguenti elementi essenziali:
+ 
+                        
+                        
+                            a)
+                            
+                                gli stessi elementi relativi all'opera filmica di cui al numero 1) del precedente articolo 5;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elementi relativi ai soggetti dell'atto e al titolo:
+ aa) il cognome e il nome, il numero di codice fiscale, il luogo di residenza o domicilio dell'erede o legatario e del defunto;
+ bb) la data di morte;
+ cc) se la successione e' devoluta per legge, il vincolo o rapporto di parentela che univa al dante causa il chiamato e la quota a questo spettante;
+ dd) se la successione e' devoluta per testamento, la forma e la data del medesimo, il nome del pubblico ufficiale che l'ha ricevuto o che l'ha in deposito;
+ ee) natura, qualita' e quantita' dei diritti (proprieta' ovvero altri diritti di utilizzazione economica di opera filmica) caduti in successione;
+ ff) la condizione o il termine, qualora siano apposti alla disposizione testamentaria, osservando quanto previsto dall'ultimo comma dell'articolo 2659 del codice civile, nonche' la sostituzione fidecommissaria, qualora sia stata disposta a norma dell'articolo 692 del codice civile.
 
 Qualora un acquisto a causa di morte abbia per oggetto piu' opere filmiche, si applica quanto disposto dal terzo comma dell'articolo 5.
 
@@ -147,6 +413,45 @@ La visura a mezzo terminalevideo consente la visualizzazione su schermo delle re
 
 La richiesta di visura, da compilare su appositi moduli predisposti dall'ufficio del pubblico registro per la cinematografia e debitamente sottoscritta, deve contenere l'indicazione delle generalita' della persona fisica richiedente ed eventualmente la denominazione o la ragione sociale e la sede delle persone giuridiche, delle associazioni non riconosciute e delle societa', anche semplici, per conto delle quali si esegue la visura; deve altresi' essere indicato il titolo o i titoli delle opere filmiche che si chiede di visionare.
 
+4.
+                    
+                        
+                            Possono essere rilasciate le seguenti certificazioni attinenti alle iscrizioni e alle trascrizioni effettuate:
+ 
+                        
+                        
+                            a)
+                            
+                                certificato estratto con attestato di conformita' alle risultanze del pubblico registro per la cinematografia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato estratto in carta semplice senza attestato di conformita' alle risultanze del pubblico registro per la cinematografia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificato di iscrizione nel pubblico registro per la cinematografia dell'opera filmica e certificato relativo al contributo dello 0,40% spettante ai coautori dell'opera stessa ai sensi dell'articolo 7 della legge 4 novembre 1965, n. 1213;
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificato di avvenuta prima proiezione in pubblico e certificato negativo di proiezione per gli effetti delle disposizioni contenute nella legge 4 novembre 1965, n. 1213, cosi' come modificata dal decreto-legge 14 gennaio 1994, n. 26, convertito nella legge 1 marzo 1994, n. 153;
+
+                            
+                        
+                        
+                            e)
+                            
+                                copia autentica degli atti originali e dei documenti allegati custoditi nell'archivio delle cartelle.
+
 Per ottenere una delle sopraelencate certificazioni, l'utente interessato deve presentare od inviare a mezzo posta apposita domanda in carta bollata con sottoscrizione autografa contenente le generalita' del richiedente specificando altresi' il tipo di certificazione che si intende ottenere e il titolo o i titoli delle opere filmiche per i quali la predetta certificazione e' richiesta.
 
 Il certificato potra' essere ritirato, direttamente o a mezzo incaricato, di norma entro sette giorni dalla presentazione o dal ricevimento tramite servizio postale della relativa domanda, ovvero spedito a mezzo posta, previo versamento anticipato delle conseguenti spese.
@@ -159,6 +464,73 @@ Al registro virtuale, al protocollo generale, nonche' agli atti e ai documenti o
  per la cinematografia e tariffe
 
 Il conservatore del pubblico registro per la cinematografia puo' accettare la presentazione di atti per la trascrizione, di domande di iscrizione o di certificazione e di richieste di visura solo nelle ore nelle quali il pubblico registro per la cinematografia stesso e' aperto al pubblico, nei giorni feriali dal lunedi' al venerdi' di ogni settimana.
+
+2.
+                    
+                        
+                            Le tariffe spettanti alla Societa' italiana degli autori ed editori (S.I.A.E.), secondo quanto previsto dall'articolo 22 del decreto-legge 14 gennaio 1994, n. 26, cosi' come convertito nella legge 1 marzo 1994, n. 153, e da corrispondere anticipatamente da parte di chi richiede l'adempimento, sono cosi' determinate:
+ 
+                        
+                        
+                            a)
+                            
+                                per ogni iscrizione di opera filmica di lungometraggio L. 350.000;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ogni iscrizione di opera filmica di cortometraggio o di attualita' L. 200.000;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per ogni trascrizione di atti sul registro L. 140.000; qualora un atto abbia per oggetto piu' opere filmiche, l'importo dovuto sara' corrispondente a quello ottenuto moltiplicando la predetta tariffa unitaria per il numero dei film in corrispondenza dei quali e' richiesta la trascrizione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per il rilascio di ogni certificato estratto in carta da bollo con attestato di conformita', di cui all'articolo 11, comma 4, lettera a), L. 20.000, piu' L. 2.000 per ogni facciata successiva alla quarta;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per il rilascio di ogni certificato estratto in carta semplice privo di attestato di conformita', di cui all'articolo 11, comma 4, lettera b), L. 1.000 per ogni pagina, con un importo minimo di L. 10.000;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per ogni certificato di iscrizione o per ogni certificato relativo allo 0,40%, di cui all'articolo 11, comma 4, lettera c), L. 20.000;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per ogni certificato di avvenuta prima proiezione in pubblico o per ogni certificato negativo di proiezione, di cui all'articolo 11, comma 4, lettera d), L. 20.000;
+
+                            
+                        
+                        
+                            h)
+                            
+                                per ogni copia autentica di atto o documento, di cui all'articolo 11, comma 4, lettera e), L. 2.000 a pagina, con un importo minimo di L. 20.000;
+
+                            
+                        
+                        
+                            i)
+                            
+                                per ogni visura di un'opera filmica a mezzo terminalevideo sul sistema informatizzato del pubblico registro per la cinematografia o dell'archivio delle cartelle, L. 5.000. Nel caso di richiesta di stampa delle note di trascrizione e' dovuto l'ulteriore importo di L. 1.000 per ogni formalita' stampata.
 
 A seguito della prima attuazione del pubblico registro per la cinematografia e trascorso un anno solare dalla sua effettiva operativita', le suddette tariffe saranno, ove necessario, soggette a verifica; in base alle risultanze operative del registro ed in relazione ai maggiori o minori costi che si dovessero evidenziare, saranno apportate le conseguenti variazioni, su proposta della S.I.A.E. approvata dall'autorita' competente in materia di spettacolo e con decreto del Presidente del Consiglio dei Ministri.
 

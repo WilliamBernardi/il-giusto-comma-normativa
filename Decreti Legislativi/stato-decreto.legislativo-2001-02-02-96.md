@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2017-12-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,6 +40,41 @@ Le disposizioni dei titoli I e III del presente decreto sono applicabili anche a
 
 ## Art. 3. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si considera:
+
+                            
+                            
+                                a)
+                                
+                                    Stato membro di origine, lo Stato membro dell'Unione europea nel quale il cittadino di uno degli Stati membri ha acquisito il titolo professionale che lo abilita all'esercizio della professione di avvocato in detto Stato;
+                                
+                            
+                            
+                                b)
+                                
+                                    titolo professionale di origine, uno dei titoli professionali di cui all'articolo 2, acquisito in uno degli Stati membri prima dell'esercizio in Italia della professione di avvocato;
+                                
+                            
+                            
+                                c)
+                                
+                                    titolo di avvocato, il titolo professionale acquisito in Italia, mediante iscrizione nell'albo degli avvocati;
+                                
+                            
+                            
+                                d)
+                                
+                                    avvocato stabilito, il cittadino di uno degli Stati membri dell'Unione europea che esercita stabilmente in Italia la professione di avvocato con il titolo professionale di origine e che e' iscritto nella sezione speciale dell'albo degli avvocati;
+                                
+                            
+                            
+                                e)
+                                
+                                    avvocato integrato, il cittadino di uno degli Stati membri dell'Unione europea che ha acquisito il diritto di utilizzare in Italia il titolo di avvocato.
+
 ## Art. 4. — Esercizio delle attivita' professionali
 
 L'avvocato stabilito ha diritto di esercitare la professione di avvocato di cui al regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, e ulteriormente modificato con legge 23 novembre 1939, n. 1949, e con legge 24 febbraio 1997, n. 27, utilizzando il titolo professionale di origine, alle condizioni e secondo le modalita' previste nel presente titolo.
@@ -63,6 +98,24 @@ L'avvocato stabilito e' tenuto a frequentare i corsi di formazione permanenti, a
 Per l'esercizio permanente in Italia della professione di avvocato, i cittadini degli Stati membri in possesso di uno dei titoli di cui all'articolo 2, sono tenuti ad iscriversi in una sezione speciale dell'albo costituito nella circoscrizione del tribunale in cui hanno fissato stabilmente la loro residenza o il loro domicilio professionale, nel rispetto della normativa relativa agli obblighi previdenziali.
 
 L'iscrizione nella sezione speciale dell'albo e' subordinata alla iscrizione dell'istante presso la competente organizzazione professionale dello Stato membro di origine.
+
+3.
+                        
+                            
+                                La domanda di iscrizione deve essere corredata dai seguenti documenti:
+
+                            
+                            
+                                a)
+                                
+                                    certificato di cittadinanza di uno Stato membro della Unione europea o dichiarazione sostitutiva;
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato di residenza o dichiarazione sostitutiva ovvero dichiarazione dell'istante con la indicazione del domicilio professionale;
+b) attestato di iscrizione alla organizzazione professionale dello Stato membro di origine, rilasciato in data non antecedente a tre mesi dalla data di presentazione, o dichiarazione sostitutiva.
 
 Se l'interessato fa parte di una societa' nello Stato membro di origine, e' tenuto ad indicare nella domanda la denominazione, la relativa forma giuridica e i nominativi dei membri che operano in Italia.
 
@@ -275,6 +328,23 @@ Le sedi secondarie con rappresentanza stabile sono iscritte presso il Consiglio 
 La societa' deve mantenere nella propria sede e nelle eventuali sedi secondarie un ufficio nel quale almeno uno dei soci svolga in tale qualita' l'attivita' professionale.
 
 ## Art. 28. — Procedimento di iscrizione
+
+1.
+                        
+                            
+                                La domanda di iscrizione nella sezione speciale dell'albo e' rivolta al Consiglio dell'ordine ed e' corredata dai seguenti documenti:
+
+                            
+                            
+                                a)
+                                
+                                    atto costitutivo in copia autentica;
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato di iscrizione nell'albo dei soci non iscritti presso il Consiglio dell'ordine cui e' rivolta la domanda o dichiarazione sostitutiva.
 
 Il Consiglio dell'ordine, verificata l'osservanza delle disposizioni di legge, nel termine di trenta giorni dalla domanda dispone l'iscrizione della societa' in una sezione speciale dell'albo, con la indicazione della ragione sociale, dell'oggetto, della sede legale e delle sedi secondarie eventualmente istituite, del nominativo dei soci che hanno la rappresentanza, dei soci iscritti nell'albo, nonche' dei soci iscritti in altro albo.
 

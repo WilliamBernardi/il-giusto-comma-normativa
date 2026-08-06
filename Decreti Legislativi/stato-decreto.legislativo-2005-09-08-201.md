@@ -8,8 +8,8 @@ codice_redazionale: 005G0228
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,4 +26,30 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro della difesa, di concerto con i Ministri dell'economia e delle finanze e per la funzione pubblica;
 
 ## Art. 1. — Modifiche all'articolo 2 del decreto legislativo 28 novembre 1997, n. 459
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 28 novembre 1997, n. 459, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, le parole: "secondo i relativi piani di spesa" sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ "4. Prima dell'inizio dell'esercizio finanziario, gli enti di cui al presente articolo ricevono il programma di lavoro annuale con l'indicazione delle risorse finanziarie stanziate sui pertinenti capitoli di bilancio.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' abrogato.
 

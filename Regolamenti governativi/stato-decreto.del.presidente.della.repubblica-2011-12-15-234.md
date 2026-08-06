@@ -8,8 +8,8 @@ codice_redazionale: 012G0028
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -81,6 +81,63 @@ Lo schema di bilancio di cui al comma 1 e' sottoposto, almeno quindici giorni pr
 Il bilancio di previsione annuale ha carattere autorizzativo, costituendo limite agli impegni di spesa.
 
 Entro dieci giorni dall'approvazione, il bilancio di previsione, comprensivo degli allegati, e' trasmesso al Ministro dell'interno e al Ministero dell'economia e delle finanze. Per le variazioni al bilancio di previsione si applica la stessa procedura.
+
+5.
+                        
+                            
+                                Il bilancio di previsione e' composto dai seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il preventivo finanziario, articolato nella versione decisionale e gestionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il quadro generale riassuntivo della gestione finanziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il preventivo economico.
+
+6.
+                        
+                            
+                                Costituiscono allegati al bilancio di previsione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la relazione programmatica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il bilancio pluriennale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la tabella dimostrativa del presunto risultato di amministrazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la relazione del Collegio dei revisori dei conti.
 
 L'Agenzia adotta un sistema di contabilita' analitica, unitamente alla contabilita' generale, in conformita' all'articolo 21 del decreto del Presidente della Repubblica 27 febbraio 2003, n. 97.
 
@@ -160,6 +217,63 @@ La gestione delle entrate si attua attraverso le fasi dell'accertamento, della r
 
 L'accertamento costituisce la prima fase di gestione dell'entrata con cui il dirigente competente, sulla base di idonea documentazione, verifica la ragione del credito e la sussistenza di un idoneo titolo giuridico, individua il debitore, quantifica la somma da incassare e fissa la relativa scadenza.
 
+2.
+                        
+                            
+                                L'accertamento presuppone: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la fondatezza del credito, ossia la sussistenza di obbligazioni giuridiche a carico di terzi verso l'Agenzia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la certezza del credito, ossia la non soggezione del medesimo a oneri o condizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la competenza finanziaria ed economica a favore dell'esercizio considerato.
+
+3.
+                        
+                            
+                                L'accertamento delle entrate avviene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le entrate provenienti da trasferimenti, sulla base delle leggi che li regolano o di altri atti aventi identico valore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le entrate patrimoniali, a seguito di acquisizione diretta o sulla base di appositi elenchi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le entrate relative a partite compensative delle spese, in corrispondenza dell'assunzione del relativo impegno di spesa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le altre entrate, anche di natura eventuale o variabile, mediante contratti, provvedimenti giudiziari o atti amministrativi specifici.
+
 Il dirigente competente trasmette al responsabile dell'ufficio competente per la gestione degli affari contabili e finanziari la documentazione di cui al comma 1, ai fini dell'annotazione nelle scritture contabili, secondo le procedure definite allo scopo.
 
 Quando si tratta di entrate proprie la cui acquisizione e' sottoposta ad oneri o condizioni, e' necessario che l'accertamento sia preceduto da apposita deliberazione di accettazione del Consiglio direttivo.
@@ -169,6 +283,66 @@ Quando si tratta di entrate proprie la cui acquisizione e' sottoposta ad oneri o
 La riscossione consiste nel materiale introito da parte dell'istituto cassiere, o di altri eventuali incaricati della riscossione, delle somme dovute all'Agenzia.
 
 La riscossione e' disposta a mezzo di ordinativo di incasso, fatto pervenire all'istituto cassiere nelle forme e nei tempi previsti dalla convenzione di cui all'articolo 36.
+
+3.
+                        
+                            
+                                L'ordinativo di incasso e' sottoscritto dal dirigente incaricato o da un suo delegato e contiene almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del debitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare della somma da riscuotere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la causale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli eventuali vincoli di destinazione delle somme; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del capitolo di bilancio cui e' riferita l'entrata distintamente per residui o competenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la codifica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il numero progressivo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'esercizio finanziario e la data di emissione.
 
 L'istituto cassiere accetta, senza pregiudizio per i diritti dell'Agenzia, la riscossione di ogni somma versata a suo favore, anche senza la preventiva emissione di ordinativo di incasso. In quest'ultima ipotesi, l'istituto cassiere da' immediata comunicazione all'Agenzia, richiedendo la regolarizzazione della riscossione.
 
@@ -190,15 +364,90 @@ Gli incaricati della riscossione, interni ed esterni, versano all'istituto cassi
 
 Sono fasi del procedimento di spesa l'impegno, la liquidazione, l'ordinazione e il pagamento, da effettuarsi nei tempi fissati con provvedimento del Direttore, in ossequio a quanto previsto dall'articolo 9 del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102.
 
+2.
+                        
+                            
+                                Fatte salve le eccezioni di legge, l'effettuazione di qualsiasi spesa, con esclusione di quelle minute e urgenti di cui all'articolo 38, e' subordinata alla sussistenza dei seguenti atti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determinazione che l'autorizza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attestazione di copertura finanziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impegno registrato sul competente capitolo del bilancio di previsione.
+
 ## Art. 20. — Impegno di spesa
 
 L'impegno costituisce autorizzazione ad impiegare le risorse finanziarie assegnate ad ogni centro di responsabilita', con cui, a seguito di obbligazione giuridicamente perfezionata, e' determinata la somma da pagare, il soggetto creditore e la ragione.
+
+2.
+                        
+                            
+                                Con l'approvazione del bilancio e le successive variazioni, e senza la necessita' di ulteriori atti, costituiscono impegno sui relativi stanziamenti le risorse impiegate per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il trattamento economico tabellare gia' attribuito al personale dipendente e per i relativi oneri riflessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le rate di ammortamento dei mutui e dei prestiti, gli interessi di preammortamento e gli ulteriori oneri accessori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le obbligazioni assunte in base a contratti o disposizioni di legge.
 
 Durante la gestione possono anche essere prenotati impegni relativi a procedure in via di espletamento. I relativi provvedimenti, per i quali entro il termine dell'esercizio non e' stata assunta dall'Agenzia l'obbligazione di spesa verso i terzi, decadono e costituiscono economia del bilancio cui erano riferiti, concorrendo alla determinazione del risultato finale di amministrazione di cui all'articolo 33, comma 1, lettera c). Quando la prenotazione di impegno e' riferita a procedure di gara bandite prima della fine dell'esercizio e non concluse entra tale termine, la prenotazione confluisce nella parte vincolata dell'avanzo di amministrazione.
 
 A fronte degli oneri connessi a obbligazioni negoziali pluriennali correlate a prestazioni a carico di terzi, puo' essere assunto un impegno globale, provvedendo ad annotarlo, con idonee evidenze anche informatiche, nel partitario di cui all'articolo 43, comma 1, lettera b). A carico del singolo esercizio e' assunto un impegno pari alle obbligazioni connesse alle prestazioni effettivamente rese.
 
 Costituiscono economie le minori spese sostenute rispetto all'impegno assunto nel corso dell'esercizio, verificate con la conclusione della fase della liquidazione.
+
+6.
+                        
+                            
+                                Gli impegni non possono in nessun caso superare i limiti consentiti dagli stanziamenti di bilancio programmati. Gli impegni si riferiscono all'esercizio finanziario in corso. Fanno eccezione quelli relativi a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    spese per i progetti e in conto capitale ripartite in piu' esercizi, per le quali l'impegno puo' estendersi a piu' anni, anche se i pagamenti devono essere contenuti nei limiti dei fondi assegnati ad ogni esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spese correnti per le quali sia indispensabile, allo scopo di assicurare la continuita' del servizio, assumere impegni a carico dell'esercizio successivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    spese per affitti e altre continuative e ricorrenti, per le quali l'impegno puo' estendersi a piu' esercizi, purche' cio' non sia contrario a disposizioni legislative o regolamentari e ne sia riconosciuta la necessita' o la convenienza.
 
 L'impegno di spesa da' luogo ad annotazioni nelle apposite scritture con imputazione ai capitoli di pertinenza.
 
@@ -217,6 +466,73 @@ All'atto di liquidazione e' allegata la documentazione relativa al collaudo o al
 Il pagamento delle spese liquidate e' ordinato con mandato firmato dal responsabile dell'ufficio competente per la gestione degli affari contabili e finanziari o da un suo sostituto e controfirmato da un operatore, il quale provvede altresi' a trasmetterlo all'istituto cassiere e a darne avviso al creditore.
 
 Il mandato di pagamento e' tratto in favore del creditore o, nei casi previsti dal presente regolamento, in favore dei cassiere economo sull'istituto incaricato del servizio di cassa.
+
+3.
+                        
+                            
+                                Il mandato di pagamento contiene le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esercizio finanziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero d'ordine progressivo e capitolo d'imputazione distintamente per residui o competenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nominativo del creditore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    causale del pagamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    somma da pagare in cifre e in lettere; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    modalita' di estinzione del titolo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    data di emissione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    codifica; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    estremi dell'atto esecutivo che legittima l'erogazione della spesa.
 
 L'inoltro all'istituto cassiere avviene a mezzo di elenco progressivo, numerato e datato, che e' restituito firmato per ricevuta.
 
@@ -238,6 +554,31 @@ Sotto la sua stretta responsabilita', il cassiere non eroga alcuna somma se i ma
 
 L'istituto cassiere effettua i pagamenti derivanti da obblighi tributari, da somme iscritte a ruolo e da delegazioni di pagamento, anche in assenza della preventiva emissione del relativo mandato di pagamento. Entro quindici giorni e comunque entro il termine del mese in corso, l'ufficio competente per la gestione degli affari contabili e finanziari emette il relativo mandato ai fini della regolarizzazione.
 
+4.
+                        
+                            
+                                L'Agenzia puo' disporre, su richiesta scritta dei creditori e con espressa annotazione sul titolo, che i mandati di pagamento siano estinti dall'istituto cassiere con una delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    accreditamento in conto corrente bancario o postale, intestato al creditore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    commutazione in assegno circolare non trasferibile a favore del creditore, da spedire al richiedente mediante lettera raccomandata con avviso di ricevimento e con spese a carico del destinatario: gli avvisi di ricevimento vanno allegati al mandato di pagamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    commutazione in vaglia postale ordinario o telegrafico ovvero in assegno postale localizzato, con tassa e spese a carico del richiedente.
+
 I mandati di pagamento, individuali o collettivi, rimasti interamente o parzialmente inestinti alla data del 31 dicembre, sono commutati d'ufficio in assegni postali localizzati.
 
 ## Art. 24. — Mutui e altre operazioni finanziarie
@@ -250,11 +591,126 @@ L'onere complessivo delle quote di ammortamento non deve compromettere in nessun
 
 ## Art. 25. — Rendiconto generale
 
+1.
+                        
+                            
+                                Il processo gestionale e' rappresentato nel bilancio di previsione e si conclude con l'illustrazione dei risultati conseguiti, contenuti nel rendiconto generale, costituito da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    conto del bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    conto economico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stato patrimoniale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nota integrativa.
+
+2.
+                        
+                            
+                                Al rendiconto generale sono allegati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la situazione amministrativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione sulla gestione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la relazione del Collegio dei revisori dei conti.
+
 Il Direttore sottopone al Consiglio direttivo lo schema del rendiconto generale unitamente alla relazione illustrativa, entro il mese di marzo dell'anno successivo a quello cui il rendiconto si riferisce. Tali atti sono, poi, sottoposti, a cura del Direttore, almeno quindici giorni prima del termine di cui al comma 4, all'esame del Collegio dei revisori dei conti, che redige apposita relazione da allegare a detto schema.
 
 Lo schema di rendiconto generale e' deliberato dal Consiglio direttivo entro il mese di aprile successivo alla chiusura di ogni esercizio finanziario, ed e' trasmesso, entro dieci giorni dalla data della deliberazione, al Ministro dell'interno e al Ministero dell'economia e delle finanze, corredato dai relativi allegati.
 
 ## Art. 26. — Conto del bilancio
+
+1.
+                        
+                            
+                                Il conto del bilancio, in relazione alla classificazione del preventivo finanziario, evidenzia le risultanze della gestione delle entrate e delle spese e si articola in due parti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rendiconto finanziario decisionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rendiconto finanziario gestionale.
+
+2.
+                        
+                            
+                                Il rendiconto finanziario decisionale si articola in unita' previsionali di base, al pari del preventivo finanziario decisionale.
+Analogamente il rendiconto finanziario gestionale si articola in capitoli, al pari del preventivo finanziario gestionale, evidenziando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le entrate di competenza dell'anno, accertate, riscosse o rimaste da riscuotere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese di competenza dell'anno, impegnate, pagate o rimaste da pagare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la gestione dei residui attivi e passivi degli esercizi precedenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le somme riscosse e quelle pagate in conto competenza e in conto residui; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il totale dei residui attivi e passivi che si tramandano all'esercizio successivo.
 
 ## Art. 27. — Riaccertamento dei residui 
  e inesigibilita' dei crediti
@@ -285,15 +741,122 @@ L'Agenzia tiene conto dei criteri di iscrizione e valutazione richiamati dall'ar
 ## Art. 31. — Punti di concordanza tra la gestione finanziaria 
  e patrimoniale
 
+1.
+                        
+                            
+                                Ai fini della redazione della situazione patrimoniale dell'Agenzia, il responsabile dell'ufficio competente per la gestione degli affari contabili e finanziari e il consegnatario, per quanto di rispettiva competenza, redigono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il prospetto dei punti di concordanza tra la gestione finanziaria dell'esercizio concluso e la consistenza dei beni mobili e immobili di proprieta' dell'Agenzia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il prospetto degli elementi di corrispondenza tra la gestione finanziaria dell'esercizio concluso e i lavori di manutenzione effettuati sui beni di cui alla lettera a) e su quelli comunque in uso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le eventuali sopravvenienze e insussistenze accertate nell'esercizio.
+
 Il prospetto dei punti di concordanza espone la quantita' e il prezzo dei beni mobili e immobili di proprieta', nonche' l'indicazione dei lavori effettuati con il relativo prezzo, con riferimento al capitolo di bilancio su cui e' imputata la spesa, distintamente per competenza e residui.
 
 ## Art. 32. — Nota integrativa
 
 La nota integrativa e' un documento illustrativo riguardante ogni eventuale informazione e schema utile ad una migliore comprensione dei dati contabili, contenente gli elementi richiesti dall'articolo 2427 e dagli altri articoli del codice civile, da altre norme di legge e dai documenti sui principi contabili applicabili.
 
+2.
+                        
+                            
+                                La nota integrativa si articola nelle seguenti parti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    criteri di valutazione utilizzati nella redazione del rendiconto generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    analisi delle voci del conto del bilancio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    analisi delle voci dello stato patrimoniale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    analisi delle voci del conto economico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altre notizie integrative.
+
 ## Art. 33. — Situazione amministrativa
 
+1.
+                        
+                            
+                                La situazione amministrativa, allegata al conto del bilancio, evidenzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la consistenza di cassa iniziale, gli incassi e i pagamenti complessivamente effettuati nell'esercizio, in conto competenza e in conto residui, il saldo alla chiusura dell'esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il totale complessivo dei residui attivi e dei residui passivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il risultato finale di amministrazione.
+
 La situazione amministrativa tiene distinti i fondi non vincolati da quelli vincolati e dai fondi destinati al finanziamento delle spese in conto capitale. Tale ripartizione e' illustrata in calce al prospetto dimostrativo della situazione amministrativa.
+
+3.
+                        
+                            
+                                L'avanzo di amministrazione puo' essere utilizzato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i provvedimenti necessari per la salvaguardia degli equilibri di bilancio, ove non possa provvedersi con mezzi ordinari, per il finanziamento delle spese di funzionamento non ripetitive in qualsiasi periodo dell'esercizio e per le altre spese correnti solo in sede di assestamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il finanziamento di spese di investimento.
 
 Nel corso dell'esercizio, al bilancio di previsione puo' essere applicato, con delibera di variazione, l'avanzo di amministrazione accertato in un ammontare superiore a quello presunto rinveniente dall'esercizio immediatamente precedente per la realizzazione delle finalita' di cui al comma 3. Tale utilizzazione puo' avvenire solo dopo l'approvazione del rendiconto generale dell'esercizio precedente.
 
@@ -306,6 +869,49 @@ Il rendiconto generale e' accompagnato da una relazione amministrativa sull'anda
 ## Art. 35. — Relazione del Collegio dei revisori dei conti
 
 La relazione del Collegio dei revisori dei conti contiene valutazioni e giudizi sulla regolarita' amministrativo-contabile della gestione e sulla realizzazione del programma e degli obiettivi fissati all'inizio dell'esercizio, evidenziando le cause che ne hanno impedito il raggiungimento.
+
+2.
+                        
+                            
+                                Il Collegio dei revisori dei conti, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attesta: 
+ 1) la corrispondenza dei dati del rendiconto generale a quelli analitici desunti dalla contabilita' generale dell'Agenzia; 
+ 2) l'esistenza delle attivita' e delle passivita' e la loro corretta esposizione in bilancio, nonche' l'attendibilita' delle valutazioni di bilancio; 
+ 3) la correttezza dei risultati finanziari, economici e patrimoniali della gestione; 
+ 4) l'esattezza e la chiarezza dei dati contabili presentati nei prospetti di bilancio e nei relativi allegati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettua analisi e fornisce informazioni in ordine alla stabilita' dell'equilibrio del bilancio e, in caso di disavanzo, fornisce informazioni sulla struttura dello stesso e sulle prospettive di riassorbimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprime valutazioni sull'adeguatezza della struttura organizzativa dell'Agenzia e sul rispetto dei principi di corretta amministrazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    verifica l'osservanza delle norme che presiedono alla formazione del rendiconto generale e dei suoi allegati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esprime motivato parere sull'approvazione, sull'approvazione con rilievi o sul rifiuto dell'approvazione del rendiconto generale da parte del Consiglio direttivo.
 
 Restano fermi i poteri e i compiti di controllo affidati al Collegio dei revisori dei conti ai sensi delle disposizioni del decreto legislativo 30 luglio 1999, n. 286, e, in quanto applicabili, del codice civile.
 
@@ -391,6 +997,38 @@ L'Agenzia adegua il processo di automazione alle finalita', ai criteri e ai vinc
 Ferme restando le disposizioni di cui all'articolo 58 del decreto legislativo 30 marzo 2001, n. 165, per i pagamenti e per la tenuta delle scritture finanziarie ed economico-patrimoniali, l'Agenzia puo' avvalersi, ai sensi degli articoli 38 e 39 del decreto legislativo 7 marzo 2005, n. 82, di sistemi di elaborazione automatica delle informazioni rispondenti alle disposizioni contabili contenute nel presente regolamento.
 
 ## Art. 43. — Rilevazioni finanziarie
+
+1.
+                        
+                            
+                                Le scritture finanziarie relative alla gestione del bilancio rilevano per ciascun capitolo, sia in conto competenza sia in conto residui, la situazione degli accertamenti e degli impegni a fronte degli stanziamenti, nonche' delle somme riscosse e pagate e delle somme rimaste da riscuotere e da pagare. A tal fine l'ufficio competente per la gestione degli affari contabili e finanziari cura la tenuta delle seguenti scritture: 
+ 
+                            
+                            
+                                a)
+                                
+                                    partitario degli accertamenti, contenente lo stanziamento iniziale e le variazioni successive, le somme accertate, quelle riscosse e quelle rimaste da riscuotere per ciascun capitolo di entrata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partitario degli impegni, contenente lo stanziamento iniziale e le variazioni successive, le somme impegnate, quelle pagate e quelle rimaste da pagare per ciascun capitolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    partitario dei residui contenente, per capitolo ed esercizio di provenienza, la consistenza dei residui all'inizio dell'esercizio, le somme riscosse o pagate, le variazioni positive o negative, le somme rimaste da riscuotere o da pagare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    giornale cronologico degli ordinativi di incasso e dei mandati, nonche' il giornale riassuntivo comprendente anche le reversali e i mandati emessi dagli uffici decentrati.
 
 ## Art. 44. — Rilevazioni economiche
 

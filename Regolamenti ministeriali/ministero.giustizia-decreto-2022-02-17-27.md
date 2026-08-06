@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2022-02-17;27
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,66 @@ Di concerto con il Ministro dello sviluppo economico;
 
 Il presente regolamento disciplina l'istituzione dell'elenco delle organizzazioni e associazioni legittimate a proporre l'azione di classe di cui all'articolo 840-bis del codice di procedura civile nonche' l'azione inibitoria collettiva ai sensi dell'articolo 840-sexiesdecies del codice di procedura civile, i requisiti e le modalita' per l'iscrizione, i criteri per la sospensione e la cancellazione, le modalita' di aggiornamento dell'elenco, nonche' il contributo dovuto ai fini dell'iscrizione e del mantenimento della stessa.
 
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «azione di classe»: l'azione a tutela di diritti individuali omogenei disciplinata dal Titolo VIII-bis del libro quarto del codice di procedura civile come introdotto dalla legge 12 aprile 2019, n. 31; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Ministero»: il Ministero della giustizia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «organizzazioni» e «associazioni»: gli enti individuati dall'articolo 4 del decreto legislativo 3 luglio 2017, n. 117, diversi dalle imprese sociali incluse le cooperative sociali, i cui obiettivi statutari comprendono la tutela di diritti individuali omogenei; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «elenco»: l'elenco delle organizzazioni e associazioni istituito presso il Ministero; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «contributo»: l'importo dovuto per l'iscrizione e per il mantenimento della medesima; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «responsabile»: il responsabile della tenuta dell'elenco e della vigilanza sul medesimo; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «iscritti»: i soggetti che hanno espressamente manifestato la volonta' di aderire all'organizzazione o associazione, mediante versamento di una quota associativa di importo non meramente simbolico, in forma tracciabile ed almeno una volta nel biennio anteriore alla relativa dichiarazione, ovvero, nel caso in cui tale versamento sia effettuato in contanti, confermato dalla corrispondenza con gli importi iscritti in bilancio e dalla sottoscrizione, almeno una volta nel corso del medesimo biennio, di un modulo di adesione o di conferma espressa dell'adesione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Direzione generale»: la direzione generale degli affari interni di cui all'articolo 4 del decreto del Presidente del Consiglio dei ministri 15 giugno 2015, n. 84, come modificato dal decreto del Presidente del Consiglio dei ministri 19 giugno 2019, n. 99.
+
 ## Art. 2. — Istituzione e tenuta dell'elenco
 
 E' istituito presso il Ministero l'elenco delle organizzazioni e associazioni che possono proporre l'azione di classe a norma dell'articolo 840-bis del codice di procedura civile nonche' l'azione inibitoria collettiva ai sensi dell'articolo 840-sexiesdecies del codice di procedura civile.
@@ -46,6 +106,70 @@ Il Ministero della giustizia e' titolare del trattamento dei dati personali. Il 
 
 ## Art. 3. — Requisiti per l'iscrizione
 
+1.
+                    
+                        
+                            Costituiscono requisiti per l'iscrizione delle organizzazioni e associazioni nell'elenco di cui all'articolo 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere state costituite almeno due anni prima della presentazione della domanda di iscrizione all'elenco; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere sede nella Repubblica italiana o in uno degli Stati membri dell'Unione europea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                avere come obiettivo statutario, anche non esclusivo, la tutela di diritti individuali omogenei, senza scopo di lucro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                avere un ordinamento a base democratica, con convocazione degli iscritti con cadenza almeno annuale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                svolgere in modo continuativo, adeguato e stabile le attivita' statutarie attraverso: 
+ 1) articolazioni territoriali; 
+ 2) disponibilita' di un sito internet aggiornato caratterizzato da contenuti informativi e dall'assenza di alcuna forma di pubblicita' anche indiretta, 
+ 3) attivita' costante di assistenza e consulenza per gli iscritti e per soggetti terzi; 
+ 4) adozione di iniziative pubbliche; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                operare la raccolta delle fonti di finanziamento con le modalita' stabilite dal decreto legislativo 3 luglio 2017, n. 117; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                prevedere requisiti di onorabilita' degli associati, amministratori o rappresentanti conformi a quelli fissati dall'articolo 13 del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                prevedere a livello statutario la trasparenza amministrativa e contabile, anche mediante la pubblicazione annuale del bilancio e la revisione del medesimo ad opera di soggetti terzi.
+
 I requisiti di cui al comma 1 devono essere posseduti alla data di presentazione della domanda.
 
 Per le organizzazioni o le associazioni costituite in forma di federazione o le analoghe aggregazioni di secondo livello, ivi comprese le federazioni nazionali di organizzazioni o associazioni territoriali, i requisiti devono essere posseduti sia dalla federazione che richiede l'iscrizione sia da tutte le organizzazioni o associazioni federate.
@@ -58,9 +182,109 @@ Le organizzazioni e le associazioni hanno l'obbligo di comunicare al responsabil
 
 Contenuto e modalita' di presentazione della domanda
 
+1.
+                    
+                        
+                            Le organizzazioni e associazioni che intendono iscriversi nell'elenco presentano domanda, utilizzando il modello a tal fine pubblicato sul sito internet istituzionale del Ministero. La domanda e' sottoscritta dal legale rappresentante con firma digitale o con firma elettronica qualificata, e contiene l'indicazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                della denominazione dell'organizzazione o associazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della sede legale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                del codice fiscale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dell'indirizzo di posta elettronica certificata (PEC) dell'organizzazione o associazione.
+
 La domanda reca altresi' l'attestazione, resa dal legale rappresentante dell'organizzazione o associazione, del possesso dei requisiti indicati dall'articolo 3, comma 1.
 
 La domanda di iscrizione e' redatta e presentata esclusivamente per via telematica mediante la casella di posta elettronica certificata (PEC) di cui l'organizzazione o associazione e' titolare, secondo le modalita' di cui all'articolo 65 del decreto legislativo 7 marzo 2005, n. 82. La domanda e' inviata all'indirizzo di posta elettronica certificata appositamente dedicato dalla direzione generale e indicato nel modulo di cui al comma 1. Quando le dimensioni dei documenti informatici sono superiori ai limiti di capienza della PEC, la trasmissione dei medesimi puo' avvenire con due o piu' messaggi separati di PEC.
+
+4.
+                    
+                        
+                            La domanda e' corredata dai seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                copia dell'atto costitutivo comprovante che la costituzione quale organizzazione o associazione avente come obiettivo statutario, anche non esclusivo, la tutela di diritti individuali omogenei, senza scopo di lucro, e' avvenuta almeno due anni prima della data di presentazione della domanda; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia dello statuto vigente alla data di presentazione della domanda di iscrizione e delle eventuali modifiche statutarie intervenute nell'ultimo biennio comprovanti, per l'intero biennio, un ordinamento a base democratica e, come scopo anche non esclusivo, la tutela dei diritti individuali omogenei, senza fini di lucro, nonche', con riferimento al medesimo periodo, copia dei verbali delle assemblee degli iscritti, dei regolamenti che disciplinano le elezioni e degli atti relativi alle elezioni dei rappresentanti e degli organi direttivi dell'organizzazione o associazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dichiarazione sostitutiva dell'atto di notorieta' resa dal legale rappresentante dell'associazione in conformita' al modulo a tal fine pubblicato sul sito internet istituzionale del Ministero e concernente la tenuta, presso la propria sede legale o altra sede espressamente indicata in tale dichiarazione, di un unico elenco nazionale degli iscritti, aggiornato annualmente, con l'indicazione delle quote versate dagli associati, la regolare tenuta dei libri contabili nonche' il numero totale degli iscritti alla data di presentazione della domanda e, in ogni caso, alla data del 31 dicembre anteriore a quella di presentazione della domanda, e la loro ripartizione per regioni e province autonome; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per ciascuno dei due anni anteriori a quello di iscrizione, copia autentica del bilancio annuale delle entrate e delle uscite contenente l'indicazione delle quote versate dagli associati o del rendiconto economico contenente l'indicazione delle quote versate dagli associati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                relazione sull'attivita' svolta dall'associazione nel biennio precedente, sottoscritta dal legale rappresentante, e ogni altra documentazione atta a comprovare la continuita' e rilevanza dell'attivita' e a fornire notizie sull'articolazione territoriale e sulle sedi operative, con l'indicazione dei responsabili delle principali sedi locali dell'organizzazione o dell'associazione e, anche nella forma di indicazioni negative, di dati e documenti relativamente ai seguenti indicatori: 
+ 1) disponibilita' di un sito internet aggiornato e con adeguati contenuti informativi sia relativamente all'organizzazione e funzionamento dell'organizzazione o associazione, sia relativamente alle tematiche di tutela dei diritti individuali omogenei; 
+ 2) tipologia e numero delle attivita' di comunicazione, quali le pubblicazioni sia in formato cartaceo che in formato digitale; 
+ 3) numero e articolazione territoriale degli sportelli di assistenza e consulenza ovvero tipologia, modalita' e numero di contatti relativamente alle forme di consulenza ed assistenza a distanza; 
+ 4) numero dei pareri e delle consulenze comunque fornite ai singoli componenti della classe; 
+ 5) numero dei ricorsi ai sensi dell'articolo 840-bis del codice di procedura civile e, per il periodo precedente all'entrata in vigore della legge 12 aprile 2019, n. 31, degli atti introduttivi di giudizi ai sensi dell'articolo 140-bis del decreto legislativo 6 settembre 2005, n. 206, presentati a tutela di diritti individuali omogenei o su mandato di singoli componenti della classe; 
+ 6) tipologia, numero ed esiti delle attivita' di assistenza connesse alla tutela giurisdizionale e stragiudiziale dei componenti della classe; 
+ 7) tipologia e numero delle iniziative pubbliche di interesse dei componenti della classe, quali convegni, seminari, manifestazioni, organizzati dall'organizzazione o associazione o cui l'organizzazione o l'associazione ha partecipato con relazioni o interventi; 
+ 8) tipologia e numero degli accordi, dei protocolli di intesa e di altre forme di partecipazione, nell'interesse dei componenti della classe, ad attivita' ovvero ad organi consultivi di pubbliche amministrazioni o gestori di pubblici servizi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dichiarazione sostitutiva di certificazione resa dai legali rappresentanti dell'organizzazione o associazione attestante che gli stessi rivestono tale carica, che non hanno subito alcuna condanna passata in giudicato, in relazione all'attivita' dell'organizzazione o associazione medesima, e che non rivestono la qualifica di imprenditori o di amministratori di imprese di produzione di beni ed erogazione di servizi in qualsiasi forma costituite; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dichiarazione sostitutiva dell'atto di notorieta' resa dal legale rappresentante attestante che l'organizzazione o associazione non svolge attivita' di promozione o pubblicita' commerciale avente per oggetto beni o servizi prodotti da terzi e non ha connessione di interessi con imprese di produzione o di distribuzione e si impegna a mantenere tali preclusioni; se l'organizzazione o associazione ha ricevuto nell'ultimo biennio eventuali contributi da imprese o associazioni di imprese o ha stipulato accordi o convenzioni con le stesse, nella dichiarazione tali contributi, accordi e convenzioni devono essere espressamente e dettagliatamente indicati, evidenziando per i contributi anche le relative informazioni contenute nei bilanci e rendiconti e fornendo ogni elemento utile a dimostrare che tali contributi, accordi e convenzioni non determinano connessioni di interessi incompatibili e sono finalizzati esclusivamente a esigenze di tutela dei diritti individuali omogenei e a favore degli iscritti, ivi compresi gli elementi circa la trasparenza e completezza dell'informazione in merito fornita agli iscritti ed alla generalita' dei componenti della classe; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                prova del versamento del contributo di cui all'articolo 5, mediante allegazione della ricevuta telematica del versamento.
 
 Il responsabile verifica la sussistenza dei requisiti e ha facolta' di accertare la veridicita' delle dichiarazioni rese dai richiedenti ai sensi dell'articolo 71 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
@@ -92,6 +316,38 @@ In caso di mancata adozione del provvedimento entro i termini di cui ai commi 2 
 
 ## Art. 7. — Mantenimento dei requisiti e dell'iscrizione
 
+1.
+                    
+                        
+                            Ai fini del mantenimento dell'iscrizione e dell'aggiornamento dell'elenco ai sensi dell'articolo 8, entro il 31 gennaio di ogni anno, le organizzazioni o le associazioni iscritte fanno pervenire alla Direzione generale, con le modalita' di cui all'articolo 4, comma 3, i seguenti documenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarazioni sostitutive dell'atto di notorieta' e sostitutive di certificazione rese dal legale rappresentante dell'organizzazione o associazione secondo la modulistica pubblicata sul sito istituzionale del Ministero, concernenti l'aggiornamento di tutte le dichiarazioni e dei documenti presentati nell'anno precedente in fase di iscrizione o in fase di aggiornamento annuale dell'elenco, con evidenziazione del numero degli iscritti alla data del 31 dicembre dell'anno precedente, nonche' di tutte le variazioni intervenute, e corredate di nuova copia autentica dello statuto e della relativa documentazione nel caso in cui siano intervenute modifiche anche in tali atti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia del bilancio annuale delle entrate e delle uscite dell'esercizio precedente, contenente l'indicazione delle quote versate dagli associati o, in relazione alle norme che regolano il tipo di organizzazione o associazione, del rendiconto economico contenente anch'esso l'indicazione delle quote versate dagli associati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                relazione sull'attivita' svolta dall'associazione nell'anno precedente, sottoscritta dal legale rappresentante, ed ogni altra documentazione atta a comprovare la continuita' dell'attivita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                prova del versamento del contributo annuale di cui all'articolo 5, mediante allegazione della ricevuta telematica del versamento.
+
 Per i controlli delle dichiarazioni sostitutive di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, prodotte in sede di aggiornamento annuale dell'elenco, fatte salve comunque le eventuali verifiche richieste o disposte dall'autorita' giudiziaria, il responsabile puo' effettuare accertamenti presso le sedi dell'associazione o dell'organizzazione o richiedere, mediante comunicazione via PEC, la trasmissione della necessaria documentazione.
 
 ## Art. 8. — Aggiornamento
@@ -114,6 +370,59 @@ Il responsabile nel caso in cui non debba adottare alcuno dei provvedimenti di c
 ## Art. 10. — Sospensione
 
 Il responsabile dispone la sospensione dell'iscrizione da un minimo di quattro fino ad un massimo di dodici mesi se rileva il sopravvenuto venir meno di uno dei requisiti necessari per l'iscrizione dell'elenco, nei casi di carenze lievi, qualora l'organizzazione o l'associazione, a fronte della comunicazione di cui all'articolo 9, comma 2, dichiari per iscritto, entro dieci giorni dalla ricezione della comunicazione, che provvedera' a recuperare il requisito.
+
+2.
+                    
+                        
+                            Costituiscono carenze lievi, ai fini di cui al comma 1, le carenze temporanee e parziali di un singolo requisito, quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                casi isolati, non rilevanti e non reiterati di connessioni di interesse con imprese; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                inadempienze parziali nella tenuta dell'elenco degli iscritti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ritardo nel deposito o approvazione del bilancio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                mancato deposito della relazione prevista dall'articolo 7, comma 1, lettera c); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                omesso tempestivo versamento del contributo annuale previsto dall'articolo 5, comma 3; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                limitati ritardi nella sostituzione del legale rappresentante che ha perduto i requisiti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                interruzioni o riduzioni dell'attivita' tali da farne venir meno solo temporaneamente la continuita'.
 
 L'organizzazione o l'associazione che ha provveduto a recuperare il requisito informa il responsabile con comunicazione via PEC cui allega ogni idonea documentazione. Il responsabile, entro quindici giorni dalla comunicazione, dispone la revoca della sospensione con decreto comunicato all'organizzazione o associazione con le modalita' previste dall'articolo 9, comma 1. Quando il responsabile ritiene che la documentazione inviata e' inadeguata a comprovare il recupero del requisito lo comunica entro quindici giorni dalla comunicazione all'organizzazione o associazione a mezzo PEC, confermando la sospensione. Se la sospensione non e' revocata entro un anno dalla sua adozione la Direzione generale dispone la cancellazione dell'organizzazione o associazione dall'elenco.
 

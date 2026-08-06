@@ -8,8 +8,8 @@ codice_redazionale: 099G0250
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -87,6 +87,25 @@ Se l'utente legittimo e' autorizzato ad effettuare l'estrazione o il reimpiego s
  4. Le clausole contrattuali pattuite in violazione dei commi 1, 2 e 3 sono nulle.".
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            L'articolo 171-bis della legge 22 aprile 1941, n. 633, e' cosi' modificato:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, e' aggiunto il seguente:
+ "1-bis. Chiunque, al fine di trarne profitto, riproduce, trasferisce su altro supporto, distribuisce, comunica, presenta o dimostra in pubblico il contenuto di una banca di dati in violazione delle disposizioni di cui agli articoli 64 -quinquies e 64-sexies, ovvero esegue l'estrazione o il reimpiego della banca di dati in violazione delle disposizioni di cui agli articoli 102-bis e 102- ter e' soggetto alla pena della reclusione da tre mesi a tre anni e della multa da lire un milione a lire dieci milioni. La pena non e' inferiore nel minimo a sei mesi di reclusione e a lire tre milioni di multa se il fatto e' di rilevante gravita' ovvero se la banca di dati oggetto delle abusive operazioni di riproduzione, trasferimento su altro supporto, distribuzione, comunicazione, presentazione o dimostrazione in pubblico, estrazione o reimpiego sia stata distribuita, venduta o concessa in locazione su supporti contrassegnati dalla Societa' italiana degli autori ed editori ai sensi della presente legge e del relativo regolamento di esecuzione approvato con R.D. 18 maggio 1942, n. 1369";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "al comma 1" sono sostituite dalle seguenti: "ai commi 1 e 1-bis".
 
 ## Art. 7. — Disposizioni finali e transitorie
 

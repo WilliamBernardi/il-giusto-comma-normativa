@@ -8,8 +8,8 @@ codice_redazionale: 006G0263
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,31 @@ Sulla proposta del Ministro dell'interno, di concerto con il Ministro della dife
 ## - Capo I Disposizioni generali
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento, si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    per benefici e provvidenze le misure di sostegno e tutela previste dalle leggi 13 agosto 1980, n. 466, 20 ottobre 1990, n. 302, 23 novembre 1998, n. 407, e loro successive modificazioni, e 3 agosto 2004, n. 206;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per missioni di qualunque natura, le missioni, quali che ne siano gli scopi, autorizzate dall'autorita' gerarchicamente o funzionalmente sopraordinata al dipendente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per particolari condizioni ambientali od operative, le condizioni comunque implicanti l'esistenza od anche il sopravvenire di circostanze straordinarie e fatti di servizio che hanno esposto il dipendente a maggiori rischi o fatiche, in rapporto alle ordinarie condizioni di svolgimento dei compiti di istituto.
 
 ## Art. 2. — Principi generali e ambito di applicazione
 
@@ -53,6 +78,39 @@ Le amministrazioni di appartenenza delle vittime segnalano al Ministero dell'eco
 Fermo restando quanto stabilito dal presente articolo, si osservano, in quanto compatibili, le disposizioni di cui al decreto del Presidente della Repubblica 28 luglio 1999, n. 510.
 
 ## Art. 4. — Ordine di corresponsione delle provvidenze
+
+1.
+                        
+                            
+                                A decorrere dal 2006, alle vittime del dovere ed alle categorie a queste equiparate ovvero ai familiari superstiti, le provvidenze di cui all'articolo 1, comma 1, lettera a), ove non gia' attribuite interamente ad altro titolo, sono corrisposte in ragione della successione temporale delle leggi vigenti in favore delle vittime della criminalita' e del terrorismo, fino ad esaurimento delle risorse annuali disponibili, secondo l'ordine di cui alle seguenti lettere:
+ 
+                            
+                            
+                                a)
+                                
+                                    in relazione alla legge 20 ottobre 1990, n. 302:
+ 1) liquidazione della speciale elargizione in favore degli invalidi, nella misura originaria prevista di 1,5 milioni di lire per punto percentuale di invalidita', pari ora a 774,69 euro, soggetta a rivalutazione ISTAT, di cui all'articolo 1, comma 1, nel numero di 32 casi per ciascun anno, riferiti ad eventi occorsi dal 1° gennaio 1961 al 31 dicembre 2005 e nel numero di 5 nuovi casi per ciascun anno, riferiti ad eventi occorsi dal 1° gennaio 2006. In mancanza di nuovi casi, si procede a corresponsione per quelli relativi a fatti anteriori alla data del 1° gennaio 2006, fino a concorrenza del numero dei casi mancanti;
+ 2) esenzione dal pagamento di ticket per ogni tipo di prestazione sanitaria, di cui all'articolo 15;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione alla legge 23 novembre 1998, n. 407:
+ 1) assegno vitalizio, nella misura originaria prevista di 500 mila lire, pari ora a 258,23 euro, soggetta a perequazione annua, di cui all'articolo 2, commi 1, 1-bis, 2 e 4. In mancanza di nuovi casi, si procede a corresponsione per quelli relativi a fatti anteriori alla data del 1° gennaio 2006, fino a concorrenza del numero dei casi mancanti;
+ 2) i benefici in materia di assunzioni dirette, con le prerogative e le modalita' di cui all'articolo 1, comma 2, come modificato dall'articolo 2 della legge 17 agosto 1999, n. 288;
+ 3) i benefici in materia di borse di studio, di cui all'articolo 4;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in relazione alla legge 3 agosto 2004, n. 206:
+ 1) possibilita' di rivalutazione delle percentuali di invalidita', gia' riconosciute ed indennizzate, di cui all'articolo 6, comma 1;
+ 2) il riconoscimento del diritto all'assistenza psicologica a carico dello Stato, di cui all'articolo 6, comma 2;
+ 3) il beneficio dell'esenzione dall'imposta di bollo, relativamente ai documenti e agli atti delle procedure di liquidazione dei benefici, nonche' quello dell'esenzione dell'erogazione delle indennita' da ogni tipo di imposta, di cui all'articolo 8.
 
 Ai fini della progressiva estensione dei benefici gia' previsti dalla vigente normativa in favore delle vittime della criminalita' e del terrorismo, alle integrazioni ed alla corresponsione delle ulteriori provvidenze di cui alle leggi indicate al comma 1, si potra' far luogo subordinatamente a nuova autorizzazione di spesa.
 

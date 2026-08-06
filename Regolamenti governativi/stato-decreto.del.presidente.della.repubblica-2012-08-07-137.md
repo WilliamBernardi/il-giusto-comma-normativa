@@ -8,8 +8,8 @@ codice_redazionale: 012G0159
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,24 @@ Sulla proposta del Ministro della giustizia;
 ## - Capo I Disposizioni generali
 
 ## Art. 1. — Definizione e ambito di applicazione
+
+1.
+                        
+                            
+                                Ai fini del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per «professione regolamentata» si intende l'attivita', o l'insieme delle attivita', riservate per espressa disposizione di legge o non riservate, il cui esercizio e' consentito solo a seguito d'iscrizione in ordini o collegi subordinatamente al possesso di qualifiche professionali o all'accertamento delle specifiche professionalita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «professionista» si intende l'esercente la professione regolamentata di cui alla lettera a).
 
 Il presente decreto si applica alle professioni regolamentate e ai relativi professionisti.
 
@@ -87,6 +105,38 @@ I praticanti osservano gli stessi doveri e norme deontologiche dei professionist
 
 Il tirocinio, oltre che nella pratica svolta presso un professionista, puo' consistere altresi' nella frequenza con profitto, per un periodo non superiore a sei mesi, di specifici corsi di formazione professionale organizzati da ordini o collegi. I corsi di formazione possono essere organizzati anche da associazioni di iscritti agli albi e da altri soggetti, autorizzati dai consigli nazionali degli ordini o collegi. Quando deliberano sulla domanda di autorizzazione di cui al periodo precedente, i consigli nazionali trasmettono motivata proposta di delibera al ministro vigilante al fine di acquisire il parere vincolante dello stesso.
 
+10.
+                        
+                            
+                                Il consiglio nazionale dell'ordine o collegio disciplina con regolamento, da emanarsi, previo parere favorevole del ministro vigilante, entro un anno dall'entrata in vigore del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' e le condizioni per l'istituzione dei corsi di formazione di cui al comma 9, in modo da garantire la liberta' e il pluralismo dell'offerta formativa e della relativa scelta individuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i contenuti formativi essenziali dei corsi di formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la durata minima dei corsi di formazione, prevedendo un carico didattico non inferiore a duecento ore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' e le condizioni per la frequenza dei corsi di formazione da parte del praticante nonche' quelle per le verifiche intermedie e finale del profitto, affidate a una commissione composta da professionisti e docenti universitari, in pari numero, e presieduta da un docente universitario, in modo da garantire omogeneita' di giudizio su tutto il territorio nazionale. Ai componenti della commissione non sono riconosciuti compensi, indennita' o gettoni di presenza.
+
 Il ministro vigilante, previa verifica, su indicazione del consiglio nazionale dell'ordine o collegio, dell'idoneita' dei corsi organizzati a norma del comma 9 sul territorio nazionale, dichiara la data a decorrere dalla quale la disposizione di cui al medesimo comma e' applicabile al tirocinio.
 
 Il consiglio dell'ordine o collegio presso il quale e' compiuto il tirocinio rilascia il relativo certificato. Il certificato perde efficacia decorsi cinque anni senza che segua il superamento dell'esame di Stato quando previsto. Quando il certificato perde efficacia il competente consiglio territoriale provvede alla cancellazione del soggetto dal registro dei praticanti di cui al comma 2.
@@ -100,6 +150,31 @@ Le disposizioni del presente articolo si applicano ai tirocini iniziati dal gior
 Al fine di garantire la qualita' ed efficienza della prestazione professionale, nel migliore interesse dell'utente e della collettivita', e per conseguire l'obiettivo dello sviluppo professionale, ogni professionista ha l'obbligo di curare il continuo e costante aggiornamento della propria competenza professionale secondo quanto previsto dal presente articolo. La violazione dell'obbligo di cui al periodo precedente costituisce illecito disciplinare.
 
 I corsi di formazione possono essere organizzati, ai fini del comma 1, oltre che da ordini e collegi, anche da associazioni di iscritti agli albi e da altri soggetti, autorizzati dai consigli nazionali degli ordini o collegi. Quando deliberano sulla domanda di autorizzazione di cui al periodo precedente, i consigli nazionali trasmettono motivata proposta di delibera al ministro vigilante al fine di acquisire il parere vincolante dello stesso.
+
+3.
+                        
+                            
+                                Il consiglio nazionale dell'ordine o collegio disciplina con regolamento, da emanarsi, previo parere favorevole del ministro vigilante, entro un anno dall'entrata in vigore del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' e le condizioni per l'assolvimento dell'obbligo di aggiornamento da parte degli iscritti e per la gestione e l'organizzazione dell'attivita' di aggiornamento a cura degli ordini o collegi territoriali, delle associazioni professionali e dei soggetti autorizzati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti minimi, uniformi su tutto il territorio nazionale, dei corsi di aggiornamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il valore del credito formativo professionale quale unita' di misura della formazione continua.
 
 Con apposite convenzioni stipulate tra i consigli nazionali e le universita' possono essere stabilite regole comuni di riconoscimento reciproco dei crediti formativi professionali e universitari. Con appositi regolamenti comuni, da approvarsi previo parere favorevole dei ministri vigilanti, i consigli nazionali possono individuare crediti formativi professionali interdisciplinari e stabilire il loro valore.
 

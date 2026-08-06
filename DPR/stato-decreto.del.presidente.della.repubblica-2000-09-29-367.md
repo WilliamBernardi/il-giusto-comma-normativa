@@ -8,8 +8,8 @@ codice_redazionale: 000G0416
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 Il presente regolamento disciplina i rilevamenti e le riprese aeree, fotografiche e cinematografiche, sul territorio nazionale e sulle acque territoriali, nonche' l'uso dei fotogrammi derivati dalle riprese e dai rilevamenti medesimi.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                rilevamenti: l'acquisizione di dati attraverso un qualunque sensore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                restituzioni cartografiche dai fotogrammi: la trasposizione, su qualunque supporto, di quanto rilevabile dal materiale fotografico acquisito.
 
 ## Art. 3. — Disciplina delle attivita' di ripresa aerea
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2003-02-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,59 @@ Sentito il Consiglio dei Ministri;
 
 ((
 
+1.
+                    
+                        
+                            Sono elettori del Consiglio provinciale di Trento i cittadini che hanno compiuto il diciottesimo anno di eta' entro il giorno stabilito per l'elezione, che non si trovano in alcuna delle condizioni previste nell'articolo 2 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223, recante testo unico delle leggi per la disciplina dell'elettorato attivo e per la tenuta e la revisione delle liste elettorali, e che alla data di pubblicazione del manifesto di convocazione dei comizi elettorali si trovano in una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                risiedono nella provincia di Trento ininterrottamente da almeno un anno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                risiedono nella regione Trentino-Alto Adige/Südtirol ininterrottamente da almeno quattro anni dei quali piu' di due, anche non continuativi, nella provincia di Trento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                risiedono nella provincia di Trento e ininterrottamente da almeno quattro anni nella regione Trentino-Alto Adige/Südtirol, avendo risieduto per un periodo di due anni, anche non continuativi, nella provincia di Trento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo aver risieduto ininterrottamente per almeno un anno nella provincia di Trento hanno di qui trasferito la propria residenza nella provincia di Bolzano, senza avervi maturato il diritto di voto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                risiedono nella regione Valle d'Aosta/Vallee d'Aoste senza avervi maturato il diritto di voto avendovi trasferito la residenza dalla provincia di Trento dove hanno maturato uno dei requisiti di cui alle lettere a), b), c) e d);
+
+                            
+                        
+                        
+                            f)
+                            
+                                risiedono nella provincia di Trento, avendovi nuovamente trasferito la residenza dalla regione Valle d'Aosta/Vallee d'Aoste, senza aver ivi acquisito il diritto elettorale attivo per il Consiglio regionale e prima del trasferimento avevano maturato uno dei requisiti previsti alle lettere a), b), c) e d);
+
+                            
+                        
+                        
+                            g)
+                            
+                                sono elettori residenti all'estero, secondo quanto previsto dall'articolo 4.
+
 I cittadini cancellati dall'anagrafe della popolazione residente per irreperibilita' accertata ai sensi dell'articolo 11, comma 1, lettera c), del decreto del Presidente della Repubblica 30 maggio 1989, n. 223, sono elettori del Consiglio provinciale di Trento purche' si rendano nuovamente reperibili e siano stati in possesso dei requisiti per l'esercizio del diritto elettorale attivo di cui al comma l alla data della cancellazione.
 
 ))
@@ -35,6 +88,24 @@ I cittadini cancellati dall'anagrafe della popolazione residente per irreperibil
  provincia di Trento) ))
 
 ((
+
+1.
+                    
+                        
+                            L'Ufficiale elettorale di ogni comune della provincia di Trento, entro dieci giorni dalla data di pubblicazione del manifesto di convocazione dei comizi per la elezione del consiglio provinciale, compila un elenco dei cittadini che, pur essendo compresi nelle liste elettorali:
+ 
+                        
+                        
+                            a)
+                            
+                                non hanno maturato i periodi residenziali prescritti dall'articolo 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                hanno maturato i periodi residenziali prescritti dall'articolo 1 ma non possono, in base alle certificazioni anagrafiche, esercitare il voto nel comune di residenza; per tali elettori deve essere indicato il comune nel quale hanno diritto di votare.
 
 Per i consequenziali provvedimenti della commissione elettorale circondariale, per la pubblicazione ed il deposito dell'elenco e per i ricorsi amministrativi, si applicano le disposizioni dell'articolo 33, commi secondo, terzo e quarto, del decreto del Presidente della Repubblica 20 marzo 1967, n. 223.
 

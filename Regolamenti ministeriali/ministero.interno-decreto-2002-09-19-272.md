@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2016-05-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,7 +38,113 @@ Data comunicazione al Presidente del Consiglio dei Ministri a norma dell'articol
 
 ## Art. 1. — Campo di applicazione
 
+1.
+                        
+                            
+                                Il presente decreto concerne l'immissione sul mercato degli esplosivi per uso civile che abbiano superato le procedure di valutazione di conformita' di cui agli articoli seguenti e provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    a disciplinare il procedimento di autorizzazione dell'Organismo notificato, di cui all'articolo 3 del decreto legislativo 2 gennaio 1997, n. 7, d'ora in avanti indicato come decreto legislativo n. 7;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a disciplinare, ai sensi dell'articolo 14, comma 2, del decreto legislativo n. 7, le modalita' di esecuzione delle verifiche tecniche e degli esami necessari all'accertamento da parte degli Organismi notificati della sussistenza dei requisiti essenziali di sicurezza di cui all'allegato II al predetto decreto legislativo n. 7;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ad individuare le modalita' di convocazione e di funzionamento del Comitato tecnico, di cui all'articolo 4 del decreto legislativo n. 7;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ad adeguare, ai soli fini del libero scambio in ambito europeo degli esplosivi per uso civile, le disposizioni regolamentari vigenti alle categorie di rischio, alle definizioni ed ai criteri di classificazione degli esplosivi previsti dalle raccomandazioni delle Nazioni Unite relative al trasporto di merci pericolose, fermo restando il regime autorizzatorio per la fabbricazione, il deposito, la detenzione, la cessione ed il trasporto dei medesimi esplosivi e le misure di sicurezza per le attivita' di fabbricazione e di deposito degli stessi, di cui al testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, e del relativo regolamento di esecuzione approvato con regio decreto 6 maggio 1940, n. 635;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a fissare principi e criteri direttivi per adeguare alle disposizioni internazionali, in conformita' a quanto previsto dall'allegato I al decreto legislativo n. 7, i manufatti pirotecnici riconosciuti e non classificati tra i prodotti esplodenti in applicazione del decreto del Ministro dell'interno 4 aprile 1973.
+
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    per allegato I, II, III, IV, V, i corrispondenti allegati al decreto legislativo n. 7;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per "Organismo notificato" i centri ed i laboratori appartenenti ad amministrazioni dello Stato, ad istituti universitari o di ricerca ovvero a privati, aventi i requisiti di cui all'allegato III, autorizzati ad espletare le procedure di valutazione di conformita' di cui all'articolo 2, comma 3, del decreto legislativo n. 7;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per "Comitato" (Comitato tecnico), il Comitato tecnico di vigilanza sull'attivita' degli "Organismi notificati", istituito presso il Ministero dell'interno ai sensi dell'articolo 4 del decreto legislativo n. 7;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per attestato di esame "CE del tipo" la certificazione rilasciata da un Organismo notificato dalla quale risulti l'accertamento della conformita' di un campione rappresentativo della produzione di un prodotto esplosivo, ai pertinenti requisiti essenziali di sicurezza indicati nell'allegato II al decreto legislativo n. 7;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per "verifica della conformita' al tipo" lo svolgimento delle procedure relative alla certificazione di conformita' degli esplosivi prodotti in serie al tipo oggetto dell'attestato di esame "CE del tipo" ed ai pertinenti requisiti essenziali di sicurezza indicati nell'allegato II al decreto legislativo n. 7;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per "garanzia di qualita' della tecnologia produttiva" lo svolgimento delle procedure relative alla certificazione della conformita' degli esplosivi prodotti in serie al tipo oggetto dell'attestato di esame "CE del tipo" ed ai pertinenti requisiti essenziali di sicurezza di cui all'allegato II al decreto legislativo n. 7, in base ad un sistema di controllo della qualita' della tecnologia produttiva, eseguito in relazione a quanto previsto dall'articolo 8 del presente decreto;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per "garanzia di qualita' del prodotto" la certificazione di conformita' dei prodotti esplosivi fabbricati in serie al tipo oggetto dell'attestato di esame "CE del tipo" ed ai pertinenti requisiti essenziali di sicurezza di cui all'allegato II al decreto legislativo n. 7, in base ad un sistema di controllo della qualita' del prodotto eseguita in relazione a quanto previsto dall'articolo 8 del presente decreto;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per "verifica sul prodotto" la certificazione di conformita' dei prodotti esplosivi fabbricati in serie al tipo oggetto dell'attestato di esame "CE del tipo" ed ai pertinenti requisiti essenziali di sicurezza di cui all'allegato II al decreto legislativo n. 7, mediante controllo e prova di ogni prodotto esplosivo, eseguito in relazione a quanto previsto dall'articolo 8 del presente decreto;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per "verifica di un unico prodotto" la certificazione di conformita' dei prodotti esplosivi fabbricati in un unico esemplare ai pertinenti requisiti essenziali di sicurezza di cui all'allegato II al decreto legislativo n. 7, eseguita in relazione a quanto previsto dall'articolo 8 del presente decreto.
 
 ## Art. 3. — Organismi notificati aventi sede in altro Paese
 
@@ -56,6 +162,45 @@ Il titolare dell'Organismo, se organizzato come ditta individuale, il legale rap
 
 L'istanza e' presentata a mano, a mezzo raccomandata postale, ovvero per via informatica o telematica al Ministero dell'interno - Dipartimento della pubblica sicurezza - Ufficio per gli affari della polizia amministrativa e sociale, che rilascia all'interessato una ricevuta, contenente le indicazioni di cui all'articolo 8 della legge 7 agosto 1990, n. 241, secondo quanto previsto dall'articolo 3 del decreto del Ministro dell'interno 2 febbraio 1993, n. 284. Per le istanze inviate a mezzo del servizio postale, mediante raccomandata con avviso di ricevimento, la ricevuta e' costituita dall'avviso di ricevimento; per le istanze inviate per via informatica si applicano le disposizioni contenute nel decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modificazioni.
 
+4.
+                        
+                            
+                                L'istanza, oltre all'esatta denominazione dell'ente, della ditta o della societa' ed all'oggetto sociale o all'oggetto dell'impresa, quali risultano dai pubblici registri, deve contenere o essere corredata da apposita documentazione concernente:
+ 
+                            
+                            
+                                a)
+                                
+                                    le indicazioni relative all'ubicazione ed alla sede dell'Organismo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' complete del direttore del centro e dei laboratori, nonche' quelle del responsabile o dei responsabili delle operazioni di verifica, del personale incaricato delle operazioni di verifica od impiegato in compiti tecnici connessi alla esecuzione delle verifiche sugli esplosivi con l'indicazione analitica, per ciascuno, delle qualifiche, dei titoli di studio e professionali delle abilitazioni all'esercizio della professione ove richieste, nonche' delle esperienze professionali maturate in materia di esplosivi nel settore pubblico o privato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le indicazioni relative all'ubicazione ed alla superficie dei laboratori, con l'illustrazione delle tecnologie impiegate, corredata da una relazione redatta da un professionista abilitato, nella quale vengono descritte le attrezzature e le apparecchiature disponibili per l'esame degli esplosivi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'idoneita' del centro o del laboratorio all'effettuazione delle procedure di valutazione per le quali viene chiesta l'autorizzazione; tale idoneita' deve essere certificata da apposito ente a cio' abilitato avente sede in un Paese appartenente all'Unione europea, come dall'allegato I al presente regolamento dove sono riportati quelli attualmente operanti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'avvenuto adempimento degli oneri di cui all'articolo 47, comma 2, della legge 6 febbraio 1996, n. 52, e successive modificazioni ed integrazioni.
+
 Gli Organismi che non dispongono di propri laboratori, oltre alla documentazione di cui al precedente comma 4, debbono fornire adeguata dimostrazione del rapporto esistente tra l'Organismo e la struttura ad esso esterna, la quale dovra' formalmente impegnarsi a corrispondere, con immediatezza e tempestivita', alle richieste di esecuzione delle procedure di esame sugli esplosivi che devono essere oggetto di valutazione di conformita'.
 
 Sono ammesse le dichiarazioni sostitutive previste dagli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445; sono, comunque, richieste la relazione prevista dalla lettera c), la certificazione prevista dalla lettera d) e la ricevuta dei pagamenti di cui alla lettera e) del comma 4 del presente articolo.
@@ -63,6 +208,53 @@ Sono ammesse le dichiarazioni sostitutive previste dagli articoli 46 e 47 del de
 Le istanze e la documentazione redatte in lingua diversa da quella italiana devono essere accompagnate da traduzione giurata.
 
 ## Art. 5. — Requisiti e presupposti per il rilascio dell'autorizzazione
+
+1.
+                        
+                            
+                                L'autorizzazione di cui all'articolo 3, comma 2, del decreto legislativo n. 7, puo' essere rilasciata agli Organismi che:
+ 
+                            
+                            
+                                a)
+                                
+                                    affidano la direzione a persona in possesso di laurea specialistica in ingegneria chimica, ingegneria civile, ingegneria dell'ambiente, chimica, chimica industriale, come determinate in attuazione del decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica del 28 novembre 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - serie generale - n. 18 del 23 gennaio 2001, ovvero della laurea in ingegneria chimica, ingegneria civile, ingegneria mineraria, ingegneria dell'ambiente e territorio, chimica e chimica industriale, rilasciate dagli atenei in applicazione degli ordinamenti didattici antecedenti al citato decreto 28 novembre 2000, con esperienza di almeno due anni nel campo della produzione o controllo di esplosivi e manufatti esplosivi civili o militari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    affidano la direzione dei laboratori chimici a personale in possesso di laurea in chimica, conseguita ai sensi del decreto del Ministro dell'universita' e della ricerca scientifica 4 agosto 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale - serie generale n. 245 del 19 ottobre 2000, ovvero di laurea in chimica o chimica industriale, rilasciata dagli atenei in applicazione degli ordinamenti didattici antecedenti al citato decreto 4 agosto 2000, che abbia svolto, per almeno due anni, l'incarico di direttore di laboratorio chimico o equivalente adibito prioritariamente agli esami su esplosivi e su manufatti esplosivi civili o militari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    affidano la direzione dei laboratori tecnologici a personale in possesso di laurea in chimica, ingegneria chimica o scienze e tecnologie fisiche, conseguita ai sensi del citato decreto 4 agosto 2000, ovvero di laurea in chimica, chimica industriale, ingegneria chimica, fisica, rilasciata dagli atenei in applicazione degli ordinamenti didattici antecedenti al citato decreto 4 agosto 2000, che abbia svolto, per almeno due anni, l'incarico di direttore di laboratorio per test tecnologici balistici su esplosivi e manufatti esplosivi civili o militari;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    affidano la direzione delle unita' organizzative preposte alla verifica ed alla conformita' dei sistemi di qualita' a laureati in una delle discipline di cui alle lettere precedenti che abbiano svolto, negli ultimi cinque anni, almeno due incarichi di responsabile dell'assicurazione di qualita' (QAR), secondo le procedure NATO AQAP, presso l'industria privata o uno stabilimento dell'area tecnico industriale del Ministero della difesa, o abbiano frequentato un corso di almeno quaranta ore presso l'Associazione italiana controllo qualita' (SINAL, UNI od altri enti equivalenti) relativo alla conduzione delle verifiche ispettive, portando a compimento almeno cinque verifiche ispettive documentate;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dispongono di personale addetto ai laboratori chimici e tecnologici, incaricato delle operazioni di verifica, in possesso di diploma di maturita' tecnica, e che abbia svolto, per almeno due anni, le mansioni di capo tecnico o equivalente nel settore degli accertamenti tecnici per la produzione di esplosivi e/o manufatti esplosivi civili o militari;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dispongono di personale impiegato come operatore a supporto delle attivita' connesse con le verifiche sugli esplosivi, in possesso di adeguata esperienza nello specifico settore, che deve essere comprovata da apposita certificazione, sottoscritta dal direttore dell'organismo notificato; di tale personale almeno una unita' deve essere in possesso della abilitazione per l'esercizio del mestiere di fochino, di cui all'articolo 27 del decreto del Presidente della Repubblica del 19 marzo 1956, n. 302, ovvero della qualifica professionale di artificiere.
+Sono ammessi i titoli di studio equipollenti, conseguiti in un altro Paese membro dell'Unione europea.
 
 In mancanza dei requisiti di cui al comma 1, l'autorizzazione puo' essere concessa, su motivata proposta del Comitato tecnico di vigilanza sull'attivita' degli Organismi notificati di cui all'articolo 9 del presente regolamento, qualora l'Organismo disponga, comunque, di personale di provata professionalita' acquisita nel campo della produzione, del controllo degli esami, o delle verifiche sugli esplosivi.
 
@@ -89,6 +281,31 @@ I termini di cui ai commi precedenti possono essere modificati con le modalita' 
 
 ## Art. 7. — Sospensione, revoca e ritiro dell'autorizzazione
  rilasciata all'Organismo notificato
+
+1.
+                        
+                            
+                                Ai fini dell'adozione dell'ordinanza di sospensione immediata di cui all'articolo 4, comma 5, del decreto legislativo n. 7, costituiscono, in ogni caso, ipotesi di particolare gravita':
+ 
+                            
+                            
+                                a)
+                                
+                                    il rilascio dell'attestato di esame "CE del tipo", ovvero delle altre certificazioni di conformita' di cui all'articolo 8 del presente regolamento in violazione delle procedure prescritte;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la violazione delle prescrizioni di cui ai punti 1 e 5 dell'allegato III al decreto legislativo n. 7;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il mancato adempimento degli obblighi di documentazione di cui all'articolo 4, comma 4, del medesimo decreto legislativo n. 7.
 
 Nei casi di cui al comma 1, lettere b) e c), non si procede al ritiro dell'autorizzazione qualora l'Organismo notificato abbia provveduto, durante il periodo di sospensione, a rimuovere le cause che l'hanno determinata.
 
@@ -125,6 +342,59 @@ Qualora i produttori o gli importatori che intendano immettere sul mercato inter
 
 ## Art. 9. — Comitato tecnico di vigilanza
  sull'attivita' degli Organismi notificati
+
+1.
+                        
+                            
+                                Il presidente del Comitato tecnico di vigilanza sull'attivita' degli Organismi notificati, di cui all'articolo 4 del decreto legislativo n. 7 ha il compito di:
+ 
+                            
+                            
+                                a)
+                                
+                                    formare il calendario delle riunioni e determinare l'ordine del giorno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    convocare il comitato e dirigerne i lavori;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    designare il componente delegato a sostituirlo come presidente nelle sedute in caso di assenza od impedimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottare ogni iniziativa ritenuta necessaria per il miglior andamento dei lavori del comitato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    designare delegazioni del Comitato per l'effettuazione di controlli presso gli Organismi notificati per verificare la regolarita' delle procedure e per svolgere ogni accertamento utile;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    richiedere ad ogni Organismo notificato copia della documentazione relativa agli accertamenti eseguiti ed ogni ulteriore notizia od informazione occorrente;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai fini dell'applicazione dell'articolo 4, comma 5, del decreto legislativo n. 7, comunicare al Ministro dell'interno i risultati degli accertamenti svolti dal Comitato a norma del comma 8, del presente articolo.
 
 Il Comitato e' convocato dal presidente mediante tempestivo avviso scritto ai componenti, recante l'indicazione degli argomenti iscritti all'ordine del giorno.
 
@@ -199,6 +469,27 @@ All'articolo 82 del regio decreto 6 maggio 1940, n. 635, e' aggiunto il seguente
  Il D.Lgs. 19 maggio 2016, n. 81 ha disposto (con l'art. 38, comma 2) che "Fino alla data di entrata in vigore dei decreti di cui al presente comma, continuano ad applicarsi l'articolo 8, comma 7, le disposizioni del Capo III e l'Allegato A del decreto del Ministro dell'interno 19 settembre 2002, n. 272".
 
 ## Art. 13. — Modifica dell'articolo 83 del regio decreto 6 maggio 1940, n. 635
+
+1.
+                        
+                            
+                                All'articolo 83 del regio decreto 6 maggio 1940, n. 635, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Il primo comma e' sostituito dal seguente: 
+ "I prodotti esplodenti riconosciuti e classificati ai sensi dell'articolo 53 della legge, nonche' i prodotti esplodenti muniti dell'attestato di esame "CE del tipo e della valutazione di conformita' di cui all'allegato V al decreto legislativo 2 gennaio 1997, n. 7, certificati dagli "Organismi notificati sono indicati nell'allegato A al presente regolamento. I prodotti esplodenti marcati CE sono classificati a seconda della loro tipologia nelle categorie di cui al precedente articolo 82 ed iscritti d'ufficio nell'allegato A al presente regolamento, ai soli fini dell'applicazione delle norme tecniche inerenti alla sicurezza nell'attivita' di fabbricazione e di deposito di esplosivi contenute nell'allegato B al presente regolamento.". 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Il terzo comma e' sostituito dal seguente: 
+ "L'allegato C determina le norme per il trasporto degli esplosivi e le modalita' per il rilascio delle relative licenze.". 
+ ((1))
 
 -------------------
                             AGGIORNAMENTO (1)
@@ -283,6 +574,26 @@ L'allegato A al presente regolamento contiene l'indicazione delle materie e degl
 L'allegato A al presente regolamento sostituisce l'allegato A al regolamento di esecuzione del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 6 maggio 1940, n. 635.
 L'adeguamento dell'allegato I al decreto legislativo n. 7 determina l'automatico adeguamento dell'allegato A al regolamento di esecuzione del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 6 maggio 1940, n. 635; per l'attribuzione delle categorie di classificazione si provvede ai sensi dell'articolo 83, comma 5, del citato regolamento di esecuzione al testo unico delle leggi di pubblica sicurezza.
 
+3.
+                        
+                            
+                                Dalla data di entrata in vigore del presente regolamento tutti i prodotti esplodenti devono essere iscritti nell'allegato A al regolamento di esecuzione del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 6 maggio 1940, n. 635: 
+ 
+                            
+                            
+                                a)
+                                
+                                    d'ufficio, successivamente alla comunicazione dell'Organismo notificato, dell'importatore o del fabbricante, per i prodotti esplodenti muniti dell'attestato "CE del tipo"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su domanda dell'interessato per i prodotti esplodenti esclusi dal campo di applicazione del decreto legislativo n. 7, a conclusione del procedimento di riconoscimento e classificazione, di cui all'art. 
+53 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773. 
+ ((1))
+
 -------------------
                             AGGIORNAMENTO (1)
                             
@@ -291,6 +602,24 @@ L'adeguamento dell'allegato I al decreto legislativo n. 7 determina l'automatico
 ## Art. 20. — Sostituzione del decreto del Ministro dell'interno 4 aprile 1973
 
 Con decreto del Ministro dell'interno, da adottarsi ai sensi dell'articolo 53 del regio decreto 18 giugno 1931, n. 773, entro sessanta giorni dalla data di entrata in vigore del presente regolamento, si provvede d'ufficio alla classificazione provvisoria nella categoria 5), gruppo D e gruppo E, dei manufatti pirotecnici gia' riconosciuti ai sensi del medesimo articolo 53, ma non classificati tra i prodotti esplodenti in applicazione del decreto del Ministro dell'interno 4 aprile 1973.
+
+2.
+                        
+                            
+                                Con lo stesso decreto di cui al comma 1 si provvede altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    a determinare le procedure e le modalita' per la classificazione definitiva dei manufatti pirotecnici di cui al comma 1, nonche' ad individuare le caratteristiche tecnico-costrittive, ai fini della sicurezza nell'impiego, da accertarsi anche mediante l'esecuzione di prove tecniche a cura del fabbricante o dell'importatore, che i manufatti pirotecnici devono possedere per la loro classificazione nella categoria 5), gruppo D e gruppo E; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a disporre che lo smaltimento delle giacenze dei manufatti pirotecnici gia' riconosciuti ai sensi del citato articolo 53 del regio decreto 18 giugno 1931, n. 773, ma non classificati tra i prodotti esplodenti in applicazione del decreto del Ministro dell'interno 4 aprile 1973 avvenga non oltre il 31 dicembre 2003, continuando ad applicare le disposizioni relative ai locali di minuta vendita di esplosivi, vigenti anteriormente all'entrata in vigore del presente regolamento. Le scorte non smaltite entro tale data, per essere reimmesse sul mercato, devono recare l'etichettatura relativa alla classificazione attribuita, apposta dal fabbricante o dall'importatore.
 
 Il decreto del Ministro dell'interno 4 aprile 1973, pubblicato nella Gazzetta Ufficiale della Repubblica - serie generale - n. 120 del 10 maggio 1973, cessa di avere efficacia dalla data di entrata in vigore del decreto del Ministro dell'interno di cui al comma 1. 
  ((1))

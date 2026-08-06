@@ -8,8 +8,8 @@ codice_redazionale: 012G0219
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -46,9 +46,75 @@ All'articolo 256, comma 2, lettera a), del decreto del Presidente della Repubbli
 
 ## Art. 3. — Modifiche all'articolo 258 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
+1.
+                    
+                        
+                            All'articolo 258, comma 1, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b): 
+ 1) dopo la parola: «autoveicoli», sono aggiunte, in fine, le seguenti: «e loro rimorchi»; 
+ 2) al numero 1), dopo la parola: «veicoli» sono inserite le seguenti: «e loro rimorchi»; 
+ 3) al numero 2), dopo la parola: «autoveicoli» sono inserite le seguenti: «e loro rimorchi»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera c), le parole: «veicoli trainati da autoveicoli» sono sostituite dalle seguenti: «carrelli appendice»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera d), le parole: «dei rimorchi degli autoveicoli,» e le parole: «III. 4/d,» e: «III. 4/t,» sono soppresse; dopo le parole: «targhe EE per autoveicoli e loro rimorchi comprese quelle ripetitrici» sono inserite le seguenti: «per carrelli appendice».
+
 ## Art. 4. — Modifiche all'articolo 259 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 
+1.
+                    
+                        
+                            All'articolo 259, comma 1, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a), le parole: «dei rimorchi,» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b), le parole: «dei rimorchi,» sono soppresse.
+
 ## Art. 5. — Modifiche all'articolo 260 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
+
+1.
+                    
+                        
+                            All'articolo 260 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) dopo le parole: «per autoveicoli» sono inserite le seguenti: «, loro rimorchi»; 
+ 2) alla lettera a), la parola: «scritte» e' sostituita dalla seguente: «scritta» e la parola: «RIMORCHIO,» e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, al secondo periodo, dopo la parola: «autoveicoli» sono inserite le seguenti: «, dei rimorchi».
 
 ## Art. 6. — Modifiche alle appendici al titolo III del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
 

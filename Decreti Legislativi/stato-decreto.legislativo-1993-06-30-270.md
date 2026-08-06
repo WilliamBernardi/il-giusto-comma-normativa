@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-08-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,59 @@ Gli istituti zooprofilattici sperimentali svolgono attivita' di ricerca scientif
 
 Gli istituti zooprofilattici sperimentali operano nell'ambito del Servizio sanitario nazionale, garantendo ai Servizi veterinari delle regioni e delle province autonome e delle unita' sanitarie locali le prestazioni e la collaborazione tecnico-scientifica necessarie all'espletamento delle funzioni in materia di igiene e sanita' pubblica veterinaria.
 
+4.
+                    
+                        
+                            Gli istituti zooprofilattici sperimentali provvedono: 
+ 
+                        
+                        
+                            a)
+                            
+                                a svolgere ricerche di base e finalizzate, per lo sviluppo delle conoscenze nell'igiene e sanita' veterinaria, secondo programmi e anche mediante convenzioni con universita' e istituti di ricerca italiani e stranieri, nonche' su richiesta dello Stato, di regioni ed enti pubblici e privati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ad assicurare il supporto tecnico e scientifico all'azione di farmaco-vigilanza veterinaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ad assicurare, anche mediante centri epidemiologici veterinari, la sorveglianza epidemiologica, espletando le relative funzioni di vigilanza e di controllo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla ricerca in materia di igiene degli allevamenti e delle produzioni zootecniche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                allo studio, sperimentazione e produzione di tecnologie e metodiche necessarie al controllo sulla salubrita' degli alimenti di origine animale e dell'alimentazione animale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'aggiornamento di veterinari ed alla formazione degli altri operatori; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                alla elaborazione ed applicazione di metodi alternativi all'impiego di modelli animali nella sperimentazione scientifica.
+
 Con regolamento adottato ai sensi dell'art. 17 della legge 23 agosto 1988, n. 400, il Ministro della sanita', d'intesa con la Conferenza permanente per i rapporti Stato, regioni e province autonome, coordina i compiti degli istituti con quelli previsti dalla legge 23 giugno 1970, n. 503, modificata dalla legge 11 marzo 1974, n. 101, e dalla legge 23 dicembre 1975, n. 745.
 
 Gli istituti zooprofilattici sperimentali possono stipulare convenzioni o contratti di consulenza per la fornitura di servizi e per l'erogazione di prestazioni ad enti, associazioni, organizzazioni pubbliche e private, sulla base di disposizioni regionali, fatte salve le competenze delle unita' sanitarie locali. Le prestazioni fornite alle unita' sanitarie locali sono gratuite. 
@@ -49,6 +102,83 @@ Gli istituti zooprofilattici sperimentali possono stipulare convenzioni o contra
 
 Con atto di indirizzo e coordinamento, il Ministro della sanita', d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, determina i requisiti minimi strutturali, tecnologici e stabilisce i criteri organizzativi uniformi ai quali gli istituti devono conformarsi. (2)
 
+2.
+                    
+                        
+                            Compete allo Stato il coordinamento tecnico-funzionale degli istituti e l'attribuzione agli stessi di compiti e funzioni di interesse nazionale e internazionale. Il Ministro della sanita', in particolare provvede a: 
+ 
+                        
+                        
+                            a)
+                            
+                                promuovere le attivita' di ricerca sperimentale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuovere lo sviluppo organizzativo e delle metodologie e tecnologie diagnostiche ed analitiche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere l'attuazione di programmi nazionali di sorveglianza epidemiologica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sottoporre a verifica tecnica l'attivita' di produzione di presidi diagnostici, profilattici e terapeutici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                affidare l'esecuzione di studi e ricerche sperimentali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                richiedere la produzione e la distribuzione di presidi diagnostici e profilattici per iniziative zoosanitarie di interesse nazionale e internazionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                affidare l'attuazione di iniziative nazionali di formazione e aggiornamento di veterinari ed altri operatori addetti alla sanita' pubblica; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                affidare compiti nell'ambito dei rapporti internazionali e della collaborazione tecnico-scientifica con istituti italiani e stranieri; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                stabilire criteri di valutazione dei costi e dei rendimenti e di verifica della utilizzazione delle risorse; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                istituire presso gli istituti zooprofilattici sperimentali centri specialistici di referenza nazionale, comunitaria ed internazionale, nonche' attribuire agli stessi compiti e funzioni di interesse nazionale, comunitario ed internazionale. 
+ 4. Il piano sanitario regionale definisce gli obiettivi e l'indirizzo per l'attivita' degli istituti zooprofilattici sperimentali. La programmazione regionale prevede le modalita' di raccordo tra gli istituti zooprofilattici sperimentali e i dipartimenti di prevenzione. 
+ 5. Le regioni, entro il 31 dicembre 1993, disciplinano le modalita' gestionali, organizzative e di funzionamento degli istituti, nel rispetto dei principi previsti dal presente decreto e dal decreto legislativo 30 dicembre 1992, n. 502, nonche' l'esercizio delle funzioni di vigilanza amministrativa, di indirizzo e verifica sugli istituti. Nel caso di istituti interregionali, le regioni provvedono di concerto. Le regioni inoltre, nell'esercizio delle proprie competenze sugli istituti zooprofilattici sperimentali, adottano criteri di valutazione dei costi, dei rendimenti e di verifica dell'utilizzazione delle risorse. 
+ ((4))
+
 -------------
                         AGGIORNAMENTO (2)
                         
@@ -60,6 +190,31 @@ Con atto di indirizzo e coordinamento, il Ministro della sanita', d'intesa con l
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 3. — Organizzazione
+
+1.
+                    
+                        
+                            Sono organi degli istituti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il consiglio di amministrazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore generale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il collegio dei revisori.
 
 Il consiglio di amministrazione e' composto da cinque membri, di cui uno nominato dal Ministro della sanita' e quattro dalle regioni e dalle province autonome territorialmente competenti. Per gli istituti interregionali, il consiglio di amministrazione e' designato dalla regione dove l'istituto ha sede legale, di concerto con le altre regioni o province autonome interessate. I membri del consiglio sono scelti tra esperti, anche di organizzazione e programmazione, in materia di sanita'. Il consiglio di amministrazione ha compiti di indirizzo, coordinamento e verifica delle attivita' dell'istituto.
 
@@ -113,6 +268,78 @@ Gli istituti, d'intesa con le regioni e le province autonome competenti, possono
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 6. — Finanziamento
+
+1.
+                    
+                        
+                            Il finanziamento degli istituti e' assicurato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dallo Stato, a carico del Fondo sanitario nazionale. La ripartizione e' fatta annualmente dal Comitato interministeriale per la programmazione economica, su proposta del Ministro della sanita', d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, tenendo conto dei requisiti strutturali, tecnologici e dei livelli di funzionamento in relazione alle esigenze del territorio di competenza e alle attivita' da svolgere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a carico del Ministero della sanita', per quanto previsto dall'art. 7, comma 4, e dall'art. 12, comma 2, lettera a), numero 4 del decreto legislativo 30 dicembre 1992, n. 502; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle regioni e dalle unita' sanitarie locali, per le prestazioni poste a carico delle stesse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dalle unita' sanitarie locali con le quote degli introiti derivanti dai contributi riscossi per le prestazioni di ispezione e controllo sanitario.
+
+2.
+                    
+                        
+                            Il finanziamento degli istituti e' inoltre assicurato: 
+ 
+                        
+                        
+                            a)
+                            
+                                da finanziamenti statali e regionali per l'erogazione, da parte degli istituti, di servizi e compiti aggiuntivi a quelli menzionati all'art. 1 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da contributi di enti pubblici e privati, organizzazioni ed associazioni interessati alla difesa sanitaria del patrimonio zootecnico ed al miglioramento e controllo delle produzioni zootecniche ed alimentari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dai redditi del proprio patrimonio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dagli utili derivanti dalle attivita' di produzione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dagli introiti per la fornitura di servizi e per l'erogazione di prestazioni a pagamento. 
+ ((4))
 
 -------------
                         AGGIORNAMENTO (4)

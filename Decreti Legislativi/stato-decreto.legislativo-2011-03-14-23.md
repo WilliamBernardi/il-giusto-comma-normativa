@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,6 +45,49 @@ COMMA ABROGATO DALLA L. 24 DICEMBRE 2012, N. 228, COME MODIFICATA DALLA L. 27 DI
 COMMA ABROGATO DALLA L. 24 DICEMBRE 2012, N. 228, COME MODIFICATA DALLA L. 27 DICEMBRE 2013, N. 147. (22)
 
 COMMA ABROGATO DALLA L. 24 DICEMBRE 2012, N. 228, COME MODIFICATA DALLA L. 27 DICEMBRE 2013, N. 147. (22)
+
+10.
+                    
+                        
+                            In ogni caso, al fine di rafforzare la capacita' di gestione delle entrate comunali e di incentivare la partecipazione dei comuni all'attivita' di accertamento tributario: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' assicurato al comune interessato il maggior gettito derivante dall'accatastamento degli immobili finora non dichiarati in catasto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' elevata al 50 per cento la quota dei tributi statali riconosciuta ai comuni ai sensi dell'articolo 1, comma 1, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, e successive modificazioni. La quota del 50 per cento e' attribuita ai comuni in via provvisoria anche in relazione alle somme riscosse a titolo non definitivo. Con decreto del Ministro dell'economia e delle finanze, sentita la Conferenza Stato-citta' ed autonomie locali, sono stabilite le modalita' di recupero delle somme attribuite ai comuni in via provvisoria e rimborsate ai contribuenti a qualunque titolo; (2) (18) (19) (21) ((27))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                i singoli comuni hanno accesso, secondo le modalita' stabilite con provvedimento del Direttore dell'Agenzia delle entrate, d'intesa con la Conferenza Stato-citta' ed autonomie locali, ai dati contenuti nell'anagrafe tributaria relativi: 
+ 1) ai contratti di locazione nonche' ad ogni altra informazione riguardante il possesso o la detenzione degli immobili ubicati nel proprio territorio; 
+ 2) alla somministrazione di energia elettrica, di servizi idrici e del gas relativi agli immobili ubicati nel proprio territorio; 
+ 3) ai soggetti che hanno il domicilio fiscale nel proprio territorio; 
+ 4) ai soggetti che esercitano nello stesso un'attivita' di lavoro autonomo o di impresa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i comuni hanno altresi' accesso, con le modalita' di cui alla lettera c), a qualsiasi altra banca dati pubblica, limitatamente ad immobili presenti ovvero a soggetti aventi domicilio fiscale nel comune, che possa essere rilevante per il controllo dell'evasione erariale o di tributi locali; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il sistema informativo della fiscalita' e' integrato, d'intesa con l'Associazione Nazionale Comuni Italiani, con i dati relativi alla fiscalita' locale, al fine di assicurare ai comuni i dati, le informazioni ed i servizi necessari per la gestione dei tributi di cui agli articoli 7 e 11 e per la formulazione delle previsioni di entrata.
 
 Il sistema informativo della fiscalita' assicura comunque l'interscambio dei dati relativi all'effettivo utilizzo degli immobili, con particolare riferimento alle risultanze catastali, alle dichiarazioni presentate dai contribuenti, ai contratti di locazione ed ai contratti di somministrazione di cui al comma 10, lettera c), n. 2).
 
@@ -104,6 +147,49 @@ Le disposizioni di cui ai commi 1, 2, 4 e 5 del presente articolo non si applica
 L'opzione di cui al comma 1 puo' essere esercitata anche per le unita' immobiliari abitative locate nei confronti di cooperative edilizie per la locazione o enti senza scopo di lucro di cui al libro I, titolo II del codice civile, purche' sublocate a studenti universitari e date a disposizione dei comuni con rinuncia all'aggiornamento del canone di locazione o assegnazione.
 
 Quando le vigenti disposizioni fanno riferimento, per il riconoscimento della spettanza o per la determinazione di deduzioni, detrazioni o benefici di qualsiasi titolo, anche di natura non tributaria, al possesso di requisiti reddituali, si tiene comunque conto anche del reddito assoggettato alla cedolare secca. Il predetto reddito rileva anche ai fini dell'indicatore della situazione economica equivalente (I.S.E.E.) di cui al decreto legislativo 31 marzo 1998, n. 109.
+
+8.
+                    
+                        
+                            Ai contratti di locazione degli immobili ad uso abitativo, comunque stipulati, che, ricorrendone i presupposti, non sono registrati entro il termine stabilito dalla legge, si applica la seguente disciplina: 
+ 
+                        
+                        
+                            a)
+                            
+                                la durata della locazione e' stabilita in quattro anni a decorrere dalla data della registrazione, volontaria o d'ufficio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al rinnovo si applica la disciplina di cui all'articolo 2, comma 1, della citata legge n. 431 del 1998; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a decorrere dalla registrazione il canone annuo di locazione e' fissato in misura pari al triplo della rendita catastale, oltre l'adeguamento, dal secondo anno, in base al 75 per cento dell'aumento degli indici ISTAT dei prezzi al consumo per le famiglie degli impiegati ed operai. Se il contratto prevede un canone inferiore, si applica comunque il canone stabilito dalle parti. (11)
+
+9.
+                    
+                        
+                            Le disposizioni di cui all'articolo 1, comma 346, della legge 30 dicembre 2004, n. 311, ed al comma 8 del presente articolo si applicano anche ai casi in cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel contratto di locazione registrato sia stato indicato un importo inferiore a quello effettivo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia stato registrato un contratto di comodato fittizio. (11)
 
 La disciplina di cui ai commi 8 e 9 non si applica ove la registrazione sia effettuata entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 
@@ -182,9 +268,52 @@ I comuni che hanno sede giuridica nelle isole minori e i comuni nel cui territor
 
 ## Art. 6. — Imposta di scopo
 
+1.
+                    
+                        
+                            Con regolamento da adottare ai sensi dell'articolo ((52 del decreto legislativo 15 dicembre 1997, n. 446, e successive modificazioni, i comuni, nella disciplina dell'imposta di scopo di cui all'articolo 1, comma 145, della legge 27 dicembre 2006, n. 296, possono anche)) prevedere: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'individuazione di opere pubbliche ulteriori rispetto a quelle indicate nell'articolo 1, comma 149, della citata legge n. 296 del 2006; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                l'aumento, sino a dieci anni, della durata massima di applicazione dell'imposta stabilita dall'articolo 1, comma 147, della citata legge n. 296 del 2006; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la possibilita' che il gettito dell'imposta finanzi l'intero ammontare della spesa per l'opera pubblica da realizzare.
+
+((2. A decorrere dall'applicazione dell'imposta municipale propria, in via sperimentale, di cui all'articolo 13 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e successive modificazioni, l'imposta di scopo si applica, o continua ad applicarsi se gia' istituita, con riferimento alla base imponibile e alla disciplina vigente per tale tributo. Il comune adotta i provvedimenti correttivi eventualmente necessari per assicurare il rispetto delle disposizioni di cui ai commi da 145 a 151 dell'articolo 1 della legge 27 dicembre 2006, n. 296))
 
 ## Art. 7. — Federalismo fiscale municipale
+
+1.
+                    
+                        
+                            In attuazione della citata legge n. 42 del 2009, e successive modificazioni, per il finanziamento dei comuni, in sostituzione dei tributi indicati rispettivamente negli articoli 8, comma 1, e 11, comma 1, ((...)) sono introdotte nell'ordinamento fiscale le seguenti due nuove forme di imposizione municipale: 
+ 
+                        
+                        
+                            a)
+                            
+                                una imposta municipale propria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una imposta municipale secondaria.
 
 A decorrere dall'anno 2014, ai comuni e' attribuita una compartecipazione al gettito dei tributi nell'ipotesi di trasferimento immobiliare di cui all'articolo 10, pari al trenta per cento.
 
@@ -242,6 +371,55 @@ Il reddito agrario di cui all'articolo 32 del citato testo unico di cui al decre
 
 ## Art. 10. — Applicazione dei tributi nell'ipotesi di trasferimento immobiliare
 
+1.
+                    
+                        
+                            All'articolo 1 della tariffa, parte prima, allegata al citato testo unico di cui al decreto del Presidente della Repubblica n. 131 del 1986, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ 
+
+«
+                                
+                                    
+                                        
+                                            1. Atti  traslativi  a  titolo  oneroso  della proprieta'  di  beni  immobili  in  genere  e atti traslativi o costitutivi  di diritti reali immobiliari  di godimento, compresi la rinuncia pura e semplice agli stessi, i provvedimenti di espropriazione per pubblica utilita' e i trasferi- menti coattivi 
+                                        
+                                        
+                                                  9 per cento 
+                                        
+                                    
+                                    
+                                        
+                                            Se il trasferimento ha per oggetto case di abitazione, ad eccezione di quelle di categoria  catastale  A1, A8  e A9 , ove ricorrano le condizioni di cui alla nota II-bis) 
+                                        
+                                        
+                                                2 per cento 
+                                        
+                                    
+                                
+                                
+»
+ 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono abrogate le note del predetto articolo 1, ad eccezione della nota II-bis); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella nota II-bis) dell'articolo 1, le parole: «dell'aliquota del 3 per cento», sono sostituite dalle seguenti: «dell'aliquota del 2 per cento».
+
 Nei casi di cui al comma 1, l'imposta, comunque, non puo' essere inferiore a 1.000 euro.
 
 Gli atti assoggettati all'imposta di cui ai commi 1 e 2 e tutti gli atti e le formalita' direttamente conseguenti posti in essere per effettuare gli adempimenti presso il catasto ed i registri immobiliari sono esenti dall'imposta di bollo, dai tributi speciali catastali e dalle tasse ipotecarie e sono soggetti a ciascuna delle imposte ipotecaria e catastale nella misura fissa di euro cinquanta.
@@ -269,6 +447,24 @@ Per il finanziamento delle spese dei comuni e delle province, successivo alla de
 ## Art. 14. — Ambito di applicazione del decreto legislativo, regolazioni finanziarie e norme transitorie
 
 L'imposta municipale propria relativa agli immobili strumentali e' deducibile ai fini della determinazione del reddito di impresa e del reddito derivante dall'esercizio di arti e professioni. La medesima imposta e' indeducibile ai fini dell'imposta regionale sulle attivita' produttive. Le disposizioni di cui al presente comma si applicano anche all'imposta municipale immobiliare (IMI) della provincia autonoma di Bolzano, istituita con legge provinciale 23 aprile 2014, n. 3, e all'imposta immobiliare semplice (IMIS) della provincia autonoma di Trento, istituita con legge provinciale 30 dicembre 2014, n. 14. (10) (20) (25) ((34))
+
+2.
+                    
+                        
+                            Al fine di assicurare la neutralita' finanziaria del presente decreto, nei confronti delle regioni a statuto speciale il presente decreto si applica nel rispetto dei rispettivi statuti e in conformita' con le procedure previste dall'articolo 27 della citata legge n. 42 del 2009, e in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                nei casi in cui, in base alla legislazione vigente, alle regioni a statuto speciale spetta una compartecipazione al gettito dell'imposta sul reddito delle persone fisiche ovvero al gettito degli altri tributi erariali, questa si intende riferita anche al gettito della cedolare secca di cui all'articolo 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono stabilite la decorrenza e le modalita' di applicazione delle disposizioni di cui all'articolo 2 nei confronti dei comuni ubicati nelle regioni a statuto speciale, nonche' le percentuali delle compartecipazioni di cui alla lettera a); con riferimento all'imposta municipale propria di cui all'articolo 8 si tiene conto anche dei tributi da essa sostituiti.
 
 Nelle regioni a statuto speciale e nelle province autonome che esercitano le funzioni in materia di finanza locale, le modalita' di applicazione delle disposizioni relative alle imposte comunali istituite con il presente decreto sono stabilite dalle predette autonomie speciali in conformita' con i rispettivi statuti e le relative norme di attuazione; per gli enti locali ubicati nelle medesime regioni e province autonome non trova applicazione quanto previsto dall'articolo 2, commi da 1 a 8; alle predette regioni e province autonome spettano le devoluzioni e le compartecipazioni al gettito delle entrate tributarie erariali previste dal presente decreto nelle misure e con le modalita' definite dai rispettivi statuti speciali e dalle relative norme di attuazione per i medesimi tributi erariali o per quelli da essi sostituiti.
 

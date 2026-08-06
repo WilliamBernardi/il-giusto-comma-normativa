@@ -7,8 +7,8 @@ urn: urn:nir:ministero.salute:decreto:2019-11-20;164
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -51,6 +51,52 @@ Il personale rientrante nel profilo professionale del ricercatore sanitario, a c
 
 Presso l'IRCCS e l'IZS, e' istituita, ai fini del comma 1, tenendo conto dell'equilibrio di genere, una commissione scientifica composta, per l'IRCCS, dal direttore scientifico o da un suo delegato e, per l'IZS, dal direttore generale o da un suo delegato, nonche' da due dirigenti dell'Istituto e da due esperti esterni, individuati rispettivamente dal direttore scientifico dell'IRCCS o dal direttore generale dell'IZS, in base alla specifica area di competenza del ricercatore.
 
+3.
+                    
+                        
+                            La commissione scientifica esprime una valutazione d'idoneita' sulla base dei seguenti elementi di giudizio: 
+ 
+                        
+                        
+                            a)
+                            
+                                esiti delle valutazioni annuali riportati nel corso del quinquennio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicatori bibliometrici previsti per la partecipazione come responsabile di progetto al bando per la ricerca finalizzata del Ministero della salute per la sezione «Giovane Ricercatore»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                report bibliometrico descrittivo (Report, SciVal e Incites), compreso m - Index; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                eventuali bandi di ricerca competitivi vinti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                relazione redatta dal valutato sull' attivita' di ricerca svolta, anche in ambito clinico e istituzionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                altre attivita' di ricerca, comprese quelle in ambito clinico e istituzionale.
+
 La relazione di cui al comma 3, lettera e), contiene anche il profilo personale del ricercatore (personal statement) ed eventuali periodi d'interruzione dell'attivita' di ricerca, con la relativa indicazione della causa. La relazione puo' anche contenere riferimenti alla personale evoluzione professionale e scientifica, alla direzione da intraprendere per migliorare ulteriormente la propria esperienza e competenza ovvero per acquisirne eventualmente di nuove, alla partecipazione a congressi internazionali, alle eventuali attivita' di trasferimento tecnologico, nonche' al grado d'indipendenza raggiunto e alla possibilita' di progressione professionale.
 
 La valutazione d'idoneita' non e' positiva se la commissione scientifica accerta che il ricercatore non ha raggiunto il livello parametrico minimo di cui all'Allegato A, paragrafo 2 al presente regolamento.
@@ -64,6 +110,52 @@ In caso di valutazione negativa, il ricercatore puo' presentare alla commissione
 
 Ai fini della valutazione per l'eventuale immissione nei ruoli del SSN al termine del secondo periodo contrattuale del personale rientrante nel profilo professionale ricercatore sanitario, ai sensi dell'articolo 1, comma 428, della legge n. 205 del 2017, e' istituita, tenendo conto dell'equilibrio di genere, una commissione scientifica, composta, per l'IRCCS, dal direttore scientifico o da un suo delegato e, per l'IZS, dal direttore generale o da un suo delegato, nonche' da due dirigenti dell'Istituto, individuati rispettivamente dal direttore scientifico dell'IRCCS o dal direttore generale dell'IZS, e da due esperti, di cui uno, con funzioni di presidente, designato dal Ministero della salute tra i ricercatori, ivi compresi quelli che svolgono attivita' presso istituzioni di ricerca internazionali, e uno designato dalla regione in cui ha sede l'Istituto, anche tra il personale esterno alla pubblica amministrazione.
 
+2.
+                    
+                        
+                            La commissione esprime una valutazione per l'eventuale immissione nei ruoli del SSN sulla base dei seguenti elementi di giudizio: 
+ 
+                        
+                        
+                            a)
+                            
+                                esiti delle valutazioni annuali riportati nel corso del secondo quinquennio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicatori bibliometrici previsti per la partecipazione come responsabile di progetto al bando per la ricerca finalizzata del Ministero della salute per la sezione «Progetti Ordinari clinico-assistenziali»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                report bibliometrico descrittivo (Report, SciVal e Incites), m - Index; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                aggiudicazione di due o piu' bandi di ricerca competitivi vinti in qualita' di responsabile di progetto o collaboratore principale di progetto di valore pari o superiore a 150.000 euro oppure aggiudicazione in qualita' di responsabile di progetto o corresponsabile di progetto di uno o piu' bandi di medesimo valore complessivo unitamente ad uno o piu' brevetti o unitamente all'attivazione di uno o piu' spin off/startup; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                relazione redatta dal valutato sulla propria attivita' di ricerca complessiva, sia in ambito clinico che sperimentale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                altre attivita' di ricerca, comprese quelle in ambito clinico e istituzionale.
+
 La relazione di cui al comma 2, lettera e), oltre a quanto gia' previsto all'articolo 3, comma 4, fa particolare riferimento al grado d'indipendenza raggiunto dal valutato.
 
 La valutazione non e' positiva se la commissione scientifica accerta che il ricercatore non ha raggiunto il livello parametrico minimo di cui all'Allegato A, paragrafo 3 al presente regolamento.
@@ -74,9 +166,73 @@ In caso di valutazione negativa, il ricercatore puo' presentare alla commissione
 
 ## Art. 5. — Ricercatore residente all'estero
 
+1.
+                    
+                        
+                            Il ricercatore residente all'estero di cui all'articolo 1, comma 430, della legge n. 205 del 2017, puo' essere assunto con contratto di lavoro subordinato a tempo determinato dagli Istituti, utilizzando la quota ivi determinata, qualora sia in possesso di una produzione scientifica che, secondo il giudizio della commissione di cui all'articolo 3, comma 2, espresso sulla base degli indicatori contenuti nell'allegato A, paragrafo 1, primo capoverso, soddisfi, anche in via alternativa, i seguenti parametri: 
+ 
+                        
+                        
+                            a)
+                            
+                                raggiungimento della media nazionale ridotta del 35% in almeno tre degli indicatori di cui al paragrafo 1, primo capoverso, dell'Allegato A; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                aggiudicazione di bandi di ricerca competitivi di importo pari o superiore a 150.000 euro come responsabile o collaboratore principale del gruppo proponente.
+
 Al ricercatore assunto ai sensi del comma 1 si applicano le disposizioni degli articoli 2, 3 e 4.
 
 ## Art. 6. — Personale di ricerca - Profilo di collaboratore professionale di ricerca sanitaria
+
+1.
+                    
+                        
+                            In relazione al profilo professionale di collaboratore professionale di ricerca sanitaria, come previsto nell'allegato 1 della sezione del personale del ruolo della ricerca sanitaria e delle attivita' di supporto alla ricerca sanitaria del CCNL del comparto sanita', sono identificate, ai fini della valutazione, le seguenti aree di attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                area gestione dei finanziamenti e dei progetti di ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                area per il trasferimento tecnologico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                area di supporto alla ricerca clinica e alle attivita' del comitato etico (CE); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                area delle tecnologie dell'informazione e della comunicazione (ICT); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                area per le attivita' di biblioteca, di documentazione, comunicazione e divulgazione scientifica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                area delle attivita' tecniche e di laboratorio.
 
 La descrizione delle attivita' di riferimento svolte dal collaboratore nell'ambito delle aree di cui al comma 1, e' contenuta nell'Allegato B.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2005-04-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -33,6 +33,34 @@ Su proposta dei Ministri dell'industria, del commercio e dell'artigianato, delle
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 26 settembre 1996;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Sono autorizzate la produzione, l'importazione e la commercializzazione di miscele di benzina con tenore di composti organici ossigenati piu' elevato di quelloindicato al punto II, colonna A dell'allegato al decreto legislativo 18 aprile 1994, n. 280, limitatamente ai seguenti composti ed entro i limiti quantitativi a fianco indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                M.T.B.E. ecc. eteri fino al 15% in volume
+ contenenti 5 o piu'
+ atomi di carbonio per
+ molecola
+
+                            
+                        
+                        
+                            b)
+                            
+                                Miscele di ossigenati fino al 2,8% in peso di
+ organici definiti al ossigeno senza superare
+ punto 1 dell'allegato i singoli valori limite
+ al decreto legislativo fissati nel punto II,
+ n. 280 del 1994, colonna A dell'allegato
+ contenenti i composti al decreto legislativo
+ ossigenati di cui alla n. 280/1994 cosi' come
+ lettera a) modificato dal presente decreto
 
 L'eccesso di ossigeno rispetto al valore del 2,5% in peso deve derivare esclusivamente dalla maggiore percentuale di ossigenati di cui al comma 1, lettera a).
 

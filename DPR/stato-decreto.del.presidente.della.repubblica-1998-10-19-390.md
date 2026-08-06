@@ -8,8 +8,8 @@ codice_redazionale: 098G0440
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,31 @@ Sulla proposta del Ministro della pubblica istruzione e dell'universita' e della
 
 Il presente regolamento disciplina le modalita' di espletamento, da parte delle universita', delle procedure di valutazione comparativa e la nomina in ruolo dei professori ordinari, associati e dei ricercatori.
 
+2.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per "Ministero" il Ministero dell'universita' e della ricerca scientifica e tecnologica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "universita'" le universita' e gli istituti di istruzione universitaria, statali e non statali, abilitati a rilasciare titoli di studio con valore legale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "rettore" i rettori delle universita' e i direttori degli istituti di istruzione universitaria.
+
 ## Art. 2. — Norme generali
 
 Ai fini della copertura dei posti di professore ordinario, associato e di ricercatore il rettore indice, con proprio decreto attestante la relativa copertura finanziaria ed il rispetto dei limiti di spesa di cui all'articolo 51, comma 4, della legge 27 dicembre 1997, n. 449, procedure di valutazione comparativa distinte per settori scientificodisciplinari, previa deliberazione degli organi accademici nell'ambito delle rispettive competenze. I relativi bandi sono pubblicati nella Gazzetta Ufficiale e sono adeguatamente pubblicizzati anche per via telematica.
@@ -43,9 +68,119 @@ Il decreto di cui al comma 1 indica la tipologia di impegno scientifico e didatt
 
 Le commissioni giudicatrici, per procedere alla valutazione comparativa dei candidati, predeterminano i criteri di massima e li consegnano, senza indugio, al responsabile del procedimento di cui al comma 14, il quale ne assicura la pubblicita' presso la sede del rettorato e delle facolta' che hanno richiesto il bando. I criteri sono pubblicizzati almeno sette giorni prima della prosecuzione dei lavori della commissione.
 
+7.
+                    
+                        
+                            Per valutare il curriculum complessivo del candidato e le pubblicazioni scientifiche la commissione tiene in considerazione i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                originalita' e innovativita' della produzione scientifica e rigore metodologico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                apporto individuale del candidato, analiticamente determinato nei lavori in collaborazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                congruenza dell'attivita' del candidato con le discipline ricomprese nel settore scientificodisciplinare per il quale e' bandita la procedura ovvero con tematiche interdisciplinari che le comprendano;
+
+                            
+                        
+                        
+                            d)
+                            
+                                rilevanza scientifica della collocazione editoriale delle pubblicazioni e loro diffusione all'interno della comunita' scientifica;
+
+                            
+                        
+                        
+                            e)
+                            
+                                continuita' temporale della produzione scientifica, anche in relazione alla evoluzione delle conoscenze nello specifico settore scientificodisciplinare.
+
 Per i fini di cui al comma 7 si fa anche ricorso, ove possibile, a parametri riconosciuti in ambito scientifico internazionale.
 
+9.
+                    
+                        
+                            Costituiscono, in ogni caso, titoli da valutare specificamente nelle valutazioni comparative:
+ 
+                        
+                        
+                            a)
+                            
+                                l'attivita' didattica svolta;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i servizi prestati negli atenei e negli enti di ricerca, italiani e stranieri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'attivita' di ricerca, comunque svolta, presso soggetti pubblici e privati, italiani e stranieri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i titoli di dottore di ricerca e la fruizione di borse di studio finalizzate ad attivita' di ricerca;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'attivita' in campo clinico relativamente ai settori scientificodisciplinari in cui sia richiesta tale specifica competenza;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'organizzazione, direzione e coordinamento di gruppi di ricerca;
+
+                            
+                        
+                        
+                            g)
+                            
+                                il coordinamento di iniziative in campo didattico e scientifico svolte in ambito nazionale ed internazionale.
+
 Le universita', con propri regolamenti emanati ai sensi dell'articolo 1, comma 2, della legge 3 luglio 1998, n. 210, possono adottare disposizioni modificative e integrative dei criteri di cui al comma 7.
+
+11.
+                    
+                        
+                            Al termine delle valutazioni dei titoli e delle pubblicazioni scientifiche la procedura prevede lo svolgimento delle seguenti prove:
+ 
+                        
+                        
+                            a)
+                            
+                                due prove scritte, una delle quali sostituibile con una prova pratica, ed una prova orale per la copertura di posti di ricercatore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una prova didattica e la discussione sui titoli scientifici presentati per la copertura di posti di professore associato.
 
 Nelle procedure a posti di professore ordinario i candidati che non rivestono la qualifica di professore associato sostengono una prova didattica che concorre alla valutazione complessiva.
 
@@ -60,6 +195,31 @@ Le commissioni giudicatrici per le valutazioni comparative finalizzate alla cope
 Possono essere componenti delle commissioni giudicatrici i professori che hanno conseguito la nomina a ordinario, i professori associati che hanno conseguito la conferma e i ricercatori confermati.
 
 Il componente designato e' scelto, prima dello svolgimento delle elezioni di cui al comma 4, con deliberazione del consiglio di facolta', nella composizione prevista dalla normativa vigente, fra i professori ordinari o associati per le valutazioni comparative ai fini della copertura di posti di ricercatore e professore associato e tra i professori ordinari per le valutazioni comparative ai fini della copertura di posti di professore ordinario. I predetti docenti devono afferire al settore scientificodisciplinare oggetto del bando ovvero, nel caso in cui ricorrano le condizioni di cui al comma 6, ultimo periodo, a settori affini indicati dal Consiglio universitario nazionale.
+
+4.
+                    
+                        
+                            I componenti elettivi sono cosi' individuati in relazione a ciascuna valutazione comparativa:
+ 
+                        
+                        
+                            a)
+                            
+                                per la copertura di posti di ricercatore, da un professore ordinario se la facolta' ha designato un professore associato ovvero da un professore associato se la facolta' ha designato un professore ordinario, nonche' da un ricercatore confermato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la copertura di posti di professore associato, da due professori ordinari e da due professori associati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la copertura di posti di professore ordinario, da quattro professori ordinari.
 
 I componenti di cui al comma 4 sono eletti, fra i professori e ricercatori non in servizio presso l'ateneo che ha emanato il bando, dalla corrispondente fascia dei professori di ruolo e dai ricercatori confermati. A parita' di voti prevale il piu' anziano nel ruolo di appartenenza. A parita' di anzianita' di ruolo prevale il piu' anziano di eta'.
 

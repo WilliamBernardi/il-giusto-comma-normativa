@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2025-02-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -68,6 +68,35 @@ Nel provvedimento di espulsione e nella sintesi di cui al comma 3, lo straniero 
 
 ## Art. 4. — Comunicazioni all'autorita' consolare
 
+1.
+                        
+                            
+                                L'informazione prevista dal comma 7 dell'articolo 2 del testo unico contiene:
+
+                            
+                            
+                                a)
+                                
+                                    l'indicazione dell'autorita' giudiziaria o amministrativa che effettua l'informazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' dello straniero e la sua nazionalita' nonche' ove possibile gli estremi del passaporto o di altro documento di riconoscimento, ovvero, in mancanza, le informazioni acquisite in merito alla sua identificazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione delle situazioni che comportano l'obbligo dell'informazione con specificazione della data di accertamento della stessa, nonche', ove sia stato emesso un provvedimento nei confronti dello straniero, gli estremi dello stesso;
+                                
+                            
+                            
+                                d)
+                                
+                                    il luogo in cui lo straniero si trova, nel caso di provvedimento restrittivo della liberta' personale, di decesso o di ricovero ospedaliero urgente.
+
 La comunicazione e' effettuata per iscritto, ovvero mediante Fonogramma, telegramma, o altri idonei mezzi di comunicazione. Nel caso in cui la rappresentanza diplomatica o consolare piu' vicina dello Stato di cui lo straniero e' cittadino si trovi all'estero, le comunicazioni verranno fatte al Ministero degli affari esteri che provvedera' ad interessare la rappresentanza competente.
 
 L'obbligo di informazione all'autorita' diplomatica o consolare non sussiste quando lo straniero, cui la specifica richiesta deve essere rivolta dai soggetti di cui all'articolo 2, comma 7, del testo unico, dichiari espressamente di non volersi avvalere degli interventi di tale autorita'. Per lo straniero di eta' inferiore ai quattordici anni, la rinuncia e' manifestata da chi esercita la potesta' sul minore.
@@ -88,6 +117,45 @@ Le rappresentanze diplomatiche e consolari italiane sono tenute ad assicurare, p
 
 Fermo restando quanto previsto dal comma 4, nella domanda per il rilascio del visto, lo straniero deve indicare le proprie generalita' complete e quelle degli eventuali familiari al seguito, gli estremi del passaporto o di altro documento di viaggio riconosciuto equivalente, il luogo dove e' diretto, il motivo e la durata del soggiorno.
 
+6.
+                        
+                            
+                                Alla domanda deve essere allegato il passaporto o altro documento di viaggio riconosciuto equivalente, nonche' la documentazione necessaria per il tipo di visto richiesto e, in ogni caso, quella concernente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la finalita' del viaggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione dei mezzi di trasporto utilizzati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la disponibilita' dei mezzi di sussistenza sufficienti per la durata del viaggio e del soggiorno, osservate le direttive di cui all'articolo 4, comma 3, del testo unico; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    il nullaosta di approvazione del progetto da parte del ((Ministero del lavoro e delle politiche sociali)), rilasciato previa acquisizione di quello della questura per i componenti del nucleo familiare che ospita il minore, con allegata la lista dei minori e degli accompagnatori, per il rilascio del visto per il soggiorno di cui all'articolo 10, comma 3-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le condizioni di alloggio.
+
 COMMA SOPPRESSO DAL D.P.R. 18 OTTOBRE 2004, N. 334.
 
 Valutata la ricevibilita' della domanda ed esperiti gli accertamenti richiesti in relazione al visto richiesto, ivi comprese le verifiche preventive di sicurezza, il visto e' rilasciato entro 90 giorni dalla richiesta, fatto salvo quanto diversamente previsto dal testo unico e dal presente regolamento.
@@ -100,6 +168,47 @@ Contestualmente al rilascio del visto d'ingresso, la rappresentanza diplomatica 
  e per familiari al seguito). ))
 
  ((
+
+1.
+                        
+                            
+                                La richiesta di nullaosta al ricongiungimento familiare, per i soggetti di cui all'articolo 29, comma 1, del testo unico, va presentata allo Sportello unico per l'immigrazione presso la Prefettura-Ufficio territoriale del Governo, competente per il luogo di dimora del richiedente. La domanda dell'interessato deve essere corredata dalla:
+
+                            
+                            
+                                a)
+                                
+                                    copia della carta di soggiorno o del permesso di soggiorno avente i requisiti di cui all'articolo 28, comma 1, del testo unico;
+                                
+                            
+                            
+                                b)
+                                
+                                    documentazione attestante la disponibilita' del reddito di cui all'articolo 29, comma 3, lettera b), del testo unico;
+                                
+                            
+                            
+                                c)
+                                
+                                    documentazione attestante la disponibilita' di un alloggio, a norma dell'articolo 29, comma 3, lettera a), del testo unico. A tale fine, l'interessato deve produrre l'attestazione dell'ufficio comunale circa la sussistenza dei requisiti di cui al predetto articolo del testo unico ovvero il certificato di idoneita' igienico-sanitaria rilasciato dall'Azienda unita' sanitaria locale competente per territorio;
+                                
+                            
+                            
+                                d)
+                                
+                                    documentazione attestante i rapporti di parentela, la minore eta' e lo stato di famiglia;
+                                
+                            
+                            
+                                e)
+                                
+                                    documentazione attestante l'invalidita' totale o i gravi motivi di salute previsti dall'articolo 29, comma 1, lettere c) e b-bis), del testo unico, rilasciata, a spese del richiedente, dal medico nominato con decreto della rappresentanza diplomatica o consolare;
+                                
+                            
+                            
+                                f)
+                                
+                                    documentazione concernente la condizione economica nel Paese di provenienza dei familiari a carico di cui all'articolo 29, comma 1, lettere b-bis) e c) del testo unico, prodotta dalle locali autorita' o da soggetti privati, valutata dall'autorita' consolare alla luce dei parametri locali.
 
 L'autorita' consolare italiana provvede, ove nulla osti, alla legalizzazione della documentazione di cui al comma 1, lettere d), e) e f), salvo che gli accordi internazionali vigenti per l'Italia prevedano diversamente, nonche' alla sua validazione ai fini del ricongiungimento familiare.
 
@@ -167,6 +276,74 @@ In caso di ricongiungimento familiare, lo straniero, entro otto giorni dall'ingr
 
 Lo sportello unico competente richiede l'annullamento dei codici fiscali non consegnati nel termine di diciotto mesi dal rilascio del nullaosta, ovveroconferma l'avvenuta consegna, con la contestuale comunicazione del dato relativo al domicilio fiscale dello straniero, secondo le modalita' determinate con il decreto del Ministro dell'interno di cui all'articolo 11, comma 2.
 
+2.
+                        
+                            
+                                Nella richiesta di cui al comma 1 lo straniero deve indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le proprie generalita' complete, nonche' quelle dei figli minori conviventi, per i quali sia prevista l'iscrizione nel permesso di soggiorno del genitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il luogo dove l'interessato dichiara di voler soggiornare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il motivo del soggiorno.
+
+3.
+                        
+                            
+                                Con la richiesta di cui al comma 1 devono essere esibiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il passaporto o altro documento equipollente da cui risultino la nazionalita', la data, anche solo con l'indicazione dell'anno, e il luogo di nascita degli interessati, nonche' il visto di ingresso, quando prescritto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la documentazione, attestante la disponibilita' dei mezzi per il ritorno nel Paese di provenienza, nei casi di soggiorno diversi da quelli per motivi di famiglia e di lavoro.
+
+4.
+                        
+                            
+                                L'ufficio trattiene copia della documentazione esibita e puo' richiedere, quando occorre verificare la sussistenza delle condizioni previste dal testo unico, l'esibizione della documentazione o di altri elementi occorrenti per comprovare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esigenza del soggiorno, per il tempo richiesto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la disponibilita' dei mezzi di sussistenza sufficienti commisurati ai motivi e alla durata del soggiorno, in relazione alle direttive di cui all'articolo 4, comma 3), del testo unico, rapportata al numero delle persone a carico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la disponibilita' di altre risorse o dell'alloggio, nei casi in cui tale documentazione sia richiesta dal testo unico o dal presente regolamento.
+
 Gli stranieri autorizzati al lavoro stagionale ai sensi dell'articolo 24 del testo unico per un periodo non superiore a trenta giorni sono esonerati dall'obbligo di cui all'articolo 5, comma 2-bis, del medesimo testo unico.
 
 La documentazione di cui ai commi 3 e 4 non e' necessaria per i richiedenti asilo e per gli stranieri ammessi al soggiorno per i motivi di cui agli articoli 18 e 20 del testo unico (( e agli articoli 11, comma 1, lettera c), e 28, comma 1, lettere a) e a-bis) )).
@@ -192,6 +369,66 @@ Gli stranieri che intendono soggiornare in Italia per un periodo non superiore a
 Negli alberghi, negli altri esercizi ricettivi e nei centri di accoglienza alle frontiere deve essere messa a disposizione dei viaggiatori stranieri una trascrizione nelle lingue italiana, francese, inglese, spagnola e araba delle disposizioni del testo unico e del presente regolamento concernenti l'ingresso e il soggiorno degli stranieri nel territorio dello Stato.
 
 ## Art. 11. — Rilascio del permesso di soggiorno
+
+1.
+                        
+                            
+                                Il permesso di soggiorno e' rilasciato, quando ne ricorrono i presupposti, per i motivi e la durata indicati nel visto d'ingresso o dal testo unico, ovvero per uno dei seguenti altri motivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per richiesta di asilo, per la durata della procedura occorrente, e per asilo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per emigrazione in un altro Paese, per la durata delle procedure occorrenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per acquisto della cittadinanza o dello stato di apolide, a favore dello straniero gia' in possesso, del permesso di soggiorno per altri motivi, per la durata del procedimento di concessione o di riconoscimento; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    per motivi di giustizia, su richiesta dell'Autorita' giudiziaria, per la durata massima di tre mesi prorogabili per lo stesso periodo, nei casi in cui la presenza dello straniero sul territorio nazionale sia indispensabile in relazione a procedimenti penali in corso per uno dei reati di cui all'articolo 380 del codice di procedura penale, nonche' per taluno dei delitti di cui all'articolo 3 della legge 20 febbraio 1958, n. 75; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    LETTERA ABROGATA DAL D.L. 4 OTTOBRE 2018, N. 113, CONVERTITO CON MODIFICAZIONI DALLA L. 1 DICEMBRE 2018, N. 132; 
+
+                                
+                            
+                            
+                                c-quater)
+                                
+                                    per residenza elettiva a favore dello straniero titolare di una pensione percepita in Italia; 
+
+                                
+                            
+                            
+                                c-quinquies)
+                                
+                                    per cure mediche a favore del genitore di minore che si trovi nelle condizioni di cui all'articolo 31, comma 3, del testo unico; 
+
+                                
+                            
+                            
+                                c-sexies)
+                                
+                                    per integrazione, previo decreto motivato del tribunale per i minorenni, nei casi di cui all'articolo 13, comma 2, della legge 7 aprile 2017, n. 47, per la durata fissata dall'autorita' giudiziaria e comunque non oltre il compimento del ventunesimo anno di eta'.
 
 COMMA ABROGATO DAL D.LGS. 29 OTTOBRE 2016, N. 203.
 
@@ -224,6 +461,44 @@ Il permesso di soggiorno non puo' essere rinnovato o prorogato quando risulta ch
 
 ## Art. 14. — Conversione del permesso di soggiorno
 
+1.
+                        
+                            
+                                Il permesso di soggiorno rilasciato per motivi di lavoro subordinato o di lavoro autonomo e per motivi familiari puo' essere utilizzato anche per le altre attivita' consentite allo straniero, anche senza conversione o rettifica del documento, per il periodo di validita' dello stesso. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il permesso di soggiorno rilasciato per lavoro subordinato non stagionale consente l'esercizio di lavoro autonomo, previa acquisizione del titolo abilitativo o autorizzatorio eventualmente prescritto e sempre che sussistano gli altri requisiti o condizioni previste dalla normativa vigente per l'esercizio dell'attivita' lavorativa in forma autonoma, nonche' l'esercizio di attivita' lavorativa in qualita' di socio lavoratore di cooperative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il permesso di soggiorno rilasciato per lavoro autonomo consente l'esercizio di lavoro subordinato, per il periodo di validita' dello stesso, previo inserimento nell'elenco anagrafico o, se il rapporto di lavoro e' in corso, previa comunicazione del datore di lavoro alla Direzione provinciale del lavoro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il permesso di soggiorno per ricongiungimento familiare o per ingresso al seguito del lavoratore ((...)) consente l'esercizio del lavoro subordinato e del lavoro autonomo alle condizioni di cui alle lettere a) e b); 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    i permessi di soggiorno di cui all'articolo 28, lettere a) e a-bis), consentono l'esercizio del lavoro autonomo e subordinato nonche' lo svolgimento di attivita' lavorativa e formativa finalizzata all'accesso al lavoro nel rispetto delle disposizioni in materia di lavoro minorile. Al compimento della maggiore eta' si applicano le disposizioni di cui all'articolo 32, commi 1 e 1-bis, del testo unico;
+                                
+                            
+                            
+                                d)
+                                
+                                    il permesso di soggiorno rilasciato per lavoro subordinato, autonomo e per motivi di famiglia puo' essere convertito in permesso di soggiorno per residenza elettiva di cui all'articolo 11, comma 1, lettera c-quater).
+
 ((
 
 Il permesso di soggiorno per richiesta asilo rilasciato al minore straniero non accompagnato ai sensi dell'articolo 4 del decreto legislativo 18 agosto 2015, n. 142, puo' essere convertito, ai sensi dell'articolo 32, commi 1 e 1-bis, del testo unico, in caso di diniego della protezione internazionale, anche dopo il raggiungimento della maggiore eta'. In tal caso, la richiesta e' presentata entro trenta giorni dalla scadenza del termine per l'impugnazione del diniego della Commissione territoriale per il riconoscimento della protezione internazionale ovvero entro trenta giorni dalla notifica del decreto non impugnabile con cui l'autorita' giudiziaria nega la sospensione del provvedimento impugnato, ovvero entro trenta giorni dalla comunicazione del decreto di rigetto del ricorso ai sensi dell'articolo 35-bis, commi 4 e 13, del decreto legislativo 28 gennaio 2008, n. 25.
@@ -246,6 +521,38 @@ In tali casi la conversione e' possibile soltanto dopo la conclusione del corso 
 ((
 
 Al raggiungimento della maggiore eta', al minore straniero non accompagnato titolare del permesso di soggiorno di cui all'articolo 28, comma 1, lettere a) e a-bis), puo' essere rilasciato un permesso di soggiorno per motivi di studio, di accesso al lavoro, di lavoro subordinato o autonomo, ai sensi dell'articolo 32, comma 1-bis, del testo unico. Per i minori stranieri non accompagnati affidati ai sensi dell'articolo 2 della legge 4 maggio 1983, n. 184, ovvero sottoposti a tutela, ai fini del rilascio del permesso di soggiorno di cui al primo periodo, e' richiesto il parere favorevole del Ministero del lavoro e delle politiche sociali.
+
+2.
+                        
+                            
+                                La richiesta del parere di cui al comma 1 e' presentata non prima di novanta giorni antecedenti il compimento della maggiore eta' e, comunque, non oltre sessanta giorni dalla scadenza del permesso di soggiorno, ed e' corredata da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    copia del passaporto o dell'attestato di identita' rilasciato o convalidato dalla rappresentanza diplomatico-consolare del Paese di origine; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copia del permesso di soggiorno o della ricevuta della richiesta di rilascio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    documentazione attestante il percorso di integrazione sociale svolto dall'interessato durante la minore eta' e quello eventualmente da realizzare successivamente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ogni altra documentazione utile ai fini dell'adozione del parere.
 
 Fatta salva la valutazione del caso concreto, ai fini dell'espressione del parere di cui al comma 1, si tiene conto della durata della permanenza del minore nel territorio nazionale e dell'avvio di un percorso di integrazione.
 
@@ -273,6 +580,70 @@ Con decreto del Ministro dell'interno, sentita l'Associazione nazionale dei comu
 ## Art. 16. — Richiesta della carta di soggiorno
 
 Per il rilascio della carta di soggiorno di cui all'articolo 9 del testo unico, l'interessato e' tenuto a farne richiesta per iscritto, su scheda conforme a quella approvata con decreto del Ministro dell'interno.
+
+2.
+                        
+                            
+                                All'atto della richiesta, da presentare alla questura del luogo in cui lo straniero risiede, questi deve indicare:
+
+                            
+                            
+                                a)
+                                
+                                    le proprie generalita' complete;
+                                
+                            
+                            
+                                b)
+                                
+                                    il luogo o i luoghi in cui l'interessato ha soggiornato in Italia nei cinque anni precedenti;
+                                
+                            
+                            
+                                c)
+                                
+                                    il luogo di residenza;
+                                
+                            
+                            
+                                d)
+                                
+                                    le fonti di reddito, derivanti anche dal riconoscimento del trattamento pensionistico per invalidita', specificandone l'ammontare.
+
+3.
+                        
+                            
+                                La domanda deve essere corredata da:
+
+                            
+                            
+                                a)
+                                
+                                    copia del passaporto o di documento equipollente o del documento di identificazione rilasciato dalla competente autorita' italiana da cui risultino la nazionalita', la data, anche solo con l'indicazione dell'anno e il luogo di nascita del richiedente;
+                                
+                            
+                            
+                                b)
+                                
+                                    copia della dichiarazione dei redditi o del modello CUD rilasciato dal datore di lavoro, relativi all'anno precedente, da cui risulti un reddito non inferiore all'importo annuo dell'assegno sociale;
+                                
+                            
+                            
+                                c)
+                                
+                                    certificato del casellario giudiziale e certificato delle iscrizioni relative ai procedimenti penali in corso;
+                                
+                            
+                            
+                                d)
+                                
+                                    fotografia della persona interessata, in formato tessera, in quattro esemplari salvo quanto previsto dall'articolo 9, comma 1; ((4.Salvo quanto previsto dagli articoli 9, comma 2, e 30, comma 4, del testo unico, nel caso di richiesta relativa ai familiari di cui all'articolo 9, comma 1, e all'articolo 29, comma 1, lettera b-bis), del medesimo testo unico, le indicazioni di cui al comma 2 e la documentazione di cui al comma 3 devono riguardare anche il coniuge ed i figli minori degli anni diciotto conviventi, per i quali pure sia richiesta la carta di soggiorno, e deve essere prodotta la documentazione comprovante:
+a) lo stato di coniuge o di figlio minore. A tale fine, i certificati rilasciati dalla competente autorita' dello Stato estero sono legalizzati dall'autorita' consolare italiana che attesta che la traduzione in lingua italiana dei documenti e' conforme agli originali, o sono validati dalla stessa nei casi in cui gli accordi internazionali vigenti per l'Italia prevedano diversamente. Tale documentazione non e' richiesta qualora il figlio minore abbia fatto ingresso sul territorio nazionale con visto di ingresso per ricongiungimento familiare;
+b) la disponibilita' di un alloggio, a norma dell'articolo 29, comma 3, lettera a), del testo unico. A tale fine l'interessato deve produrre l'attestazione dell'ufficio comunale circa la sussistenza dei requisiti di cui al medesimo articolo 29 del testo unico ovvero il certificato di idoneita' igienico-sanitaria rilasciato dall'Azienda unita' sanitaria locale competente per territorio;
+c) il reddito richiesto per le finalita' di cui all'articolo 29, comma 3, lettera b), del testo unico, tenuto conto di quello dei familiari e conviventi non a carico.))
+ 5. Se la carta di soggiorno e' richiesta nelle qualita' di coniuge straniero o genitore straniero convivente con cittadino italiano o con cittadino di uno Stato dell'Unione europea residente in Italia, di cui all'articolo 9, comma 2, del testo unico, il richiedente, oltre alle proprie generalita', deve indicare quelle dell'altro coniuge o del figlio con il quale convive. Per lo straniero che sia figlio minore convivente, nelle condizioni di cui all'articolo 9, comma 2, del testo unico, la carta di soggiorno e' richiesta da chi esercita la potesta' sul minore.
+ 6. Nei casi previsti dal comma 5 la domanda deve essere corredata ((...)) delle certificazioni comprovanti lo stato di coniuge o di figlio minore o di genitore di cittadino italiano o di uno Stato membro dell'Unione europea residente in Italia.
+ 7. L'addetto alla ricezione, esaminata la domanda e i documenti allegati ed accertata l'identita' dei richiedenti, ne rilascia ricevuta, indicando il giorno in cui potra' essere ritirato il documento richiesto. La ricevuta non sostituisce in alcun modo la carta di soggiorno.
 
 ## Art. 17. — Rilascio e rinnovo della caria di soggiorno
 
@@ -388,6 +759,35 @@ I programmi di assistenza ed integrazione sociale di cui all'articolo 18 del tes
 
 Presso la Presidenza del Consiglio dei Ministri, Dipartimento per le pari opportunita', e' istituita la Commissione interministeriale per l'attuazione dell'articolo 18 del testo unico, composta dai rappresentanti dei Ministri per le pari opportunita' per la solidarieta' sociale, dell'interno e di grazia e giustizia, i quali designano i rispettivi supplenti. La Commissione puo' avvalersi di consulenti ed esperti, designati dal Ministro per le pari opportunita', d'intesa con gli altri Ministri interessati.
 
+3.
+                        
+                            
+                                La Commissione svolge i compiti di indirizzo controllo e di programmazione delle risorse in ordine ai programmi previsti dal presente capo. In particolare provvede a:
+
+                            
+                            
+                                a)
+                                
+                                    esprimere il parere sulle richieste di iscrizione nell'apposita sezione del registro di cui all'articolo 52, comma 1, lettera c);
+                                
+                            
+                            
+                                b)
+                                
+                                    esprimere i pareri e le proposte sui progetti di convenzione dei comuni e degli enti locali con i soggetti che intendono realizzare i programmi di assistenza e di integrazione sociale di cui all'articolo 26;
+                                
+                            
+                            
+                                c)
+                                
+                                    selezionare i programmi di assistenza e di integrazione sociale da finanziare a valere sul Fondo di cui al comma 1, sulla base dei criteri e delle modalita' stabiliti con decreto del Ministro per le pari opportunita', di concerto con i Ministri per la solidarieta' sociale, dell'interno e di grazia e giustizia;
+                                
+                            
+                            
+                                d)
+                                
+                                    verificare lo stato di attuazione dei programmi e la loro efficacia. A tal fine gli enti locali interessati devono far pervenire alla Commissione ogni sei mesi una relazione sulla base dei rapporti di cui all'articolo 26, comma 4, lettera c). ((3))
+
 ---------------
                             AGGIORNAMENTO (3)
                              Il D.P.R. 14 maggio 2007, n. 102 ha disposto (con l'art. 1, comma 1) che "La Commissione interministeriale per l'attuazione dell'articolo 18 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, di seguito denominato: "testo unico", istituita presso la Presidenza del Consiglio dei Ministri - Dipartimento per i diritti e le pari opportunita', ai sensi dell'articolo 25 del decreto del Presidente della Repubblica 31 agosto 1999, n. 394, e' ridenominata: "Commissione interministeriale per il sostegno alle vittime di tratta, violenza e grave sfruttamento" di seguito denominata: "Commissione"".
@@ -396,10 +796,114 @@ Presso la Presidenza del Consiglio dei Ministri, Dipartimento per le pari opport
 
 I soggetti privati che intendono svolgere attivita' di assistenza ed integrazione sociale per le finalita' di cui all'articolo 18 del testo unico debbono essere iscritti nell'apposita sezione del registro di cui all'articolo 42, comma 2, del medesimo testo unico, a norma degli articoli 52 e seguenti del presente regolamento, e stipulare apposita convenzione con l'ente locale o con gli enti locali di riferimento.
 
+2.
+                        
+                            
+                                L'ente locale stipula la convenzione con uno o piu' soggetti privati di cui al comma 1 dopo aver verificato:
+
+                            
+                            
+                                a)
+                                
+                                    l'iscrizione nella apposita sezione del registro di cui all'articolo 42, comma 2, del testo unico;
+                                
+                            
+                            
+                                b)
+                                
+                                    la rispondenza del programma o dei programmi di assistenza e di integrazione sociale che il soggetto intende realizzare, ai criteri ed alle modalita' stabiliti con il decreto di cui all'articolo 25, comma 3, lettera c), tenuto conto dei servizi direttamente assicurati dall'ente locale;
+                                
+                            
+                            
+                                c)
+                                
+                                    la sussistenza dei requisiti professionali organizzativi e logistici occorrenti per la realizzazione dei programmi.
+
 L'ente locale dispone verifiche semestrali sullo stato di attuazione e sull'efficacia del programma ed eventualmente concorda modifiche che lo rendano piu' adeguato agli obiettivi fissati.
+
+4.
+                        
+                            
+                                I soggetti privati convenzionati con gli enti locali che attuano programmi di assistenza e di integrazione sociale sono tenuti a:
+
+                            
+                            
+                                a)
+                                
+                                    comunicare al sindaco del luogo in cui operano l'inizio del programma;
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuare tutte le operazioni di carattere amministrativo, anche per conto degli stranieri assistiti a norma dell'articolo 18, comma 3, del testo unico, qualora impossibilitati, per la richiesta del permesso di soggiorno, l'iscrizione al Servizio sanitario nazionale e ogni altro adempimento volto alla effettivita' dei diritti riconosciuti ai medesimi stranieri;
+                                
+                            
+                            
+                                c)
+                                
+                                    presentare all'ente locale convenzionato un rapporto semestrale sullo stato di attuazione del programma e sugli obiettivi intermedi raggiunti;
+                                
+                            
+                            
+                                d)
+                                
+                                    rispettare le norme in materia di protezione dei dati personali nonche' di riservatezza e sicurezza degli stranieri assistiti, anche dopo la conclusione del programma;
+                                
+                            
+                            
+                                e)
+                                
+                                    comunicare senza ritardo al sindaco e al questore che ha rilasciato il permesso di soggiorno l'eventuale interruzione, da parte dello straniero interessato della partecipazione al programma.
 
 ## Art. 27. — Rilascio del permesso di soggiorno
  per motivi di protezione sociale)
+
+1.
+                        
+                            
+                                Quando ricorrono le circostanze di cui all'articolo 18 del testo unico la proposta per il rilascio del permesso di soggiorno per motivi di protezione sociale e' effettuata:
+
+                            
+                            
+                                a)
+                                
+                                    dai servizi sociali degli enti locali, o dalle associazioni, enti ed altri organismi iscritti al registro di cui all'articolo 52, comma 1, lettera c), convenzionati con l'ente locale, che abbiano rilevato situazioni di violenza o di grave sfruttamento nei confronti dello straniero;
+                                
+                            
+                            
+                                b)
+                                
+                                    dal procuratore della Repubblica nei casi in cui sia iniziato un procedimento penale relativamente a fatti di violenza o di grave sfruttamento di cui alla lettera a), nel corso del quale lo straniero abbia reso dichiarazioni.
+
+2.
+                        
+                            
+                                Ricevuta la proposta di cui al comma 1 e verificata la sussistenza delle condizioni previste dal testo unico, il questore provvede al rilascio del permesso di soggiorno per motivi umanitari valido per le attivita' di cui all'articolo 18 comma 5, del testo unico acquisiti:
+
+                            
+                            
+                                a)
+                                
+                                    il parere del procuratore della Repubblica quando ricorrono le circostanze di cui al comma 1, lettera b), ed il procuratore abbia omesso di formulare la proposta o questa non dia indicazioni circa la gravita' ed attualita' del pericolo;
+                                
+                            
+                            
+                                b)
+                                
+                                    il programma di assistenza ed integrazione sociale relativo allo straniero conforme alle prescrizioni della Commissione interministeriale di cui all'articolo 25.
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adesione dello straniero al medesimo programma previa avvertenza delle conseguenze previste dal testo unico in caso di interruzione del programma o di condotti incompatibile con le finalita' dello stesso.
+                                
+                            
+                            
+                                d)
+                                
+                                    l'accettazione degli impegni connessi al programma da parte del responsabile della struttura presso cui il programma deve essere realizzato.
 
 Quando la proposta e' effettuata a norma del comma 1, lettera a), il questore valuta la gravita' ed attualita' del pericolo anche sulla base degli elementi in essa contenuti.
 
@@ -449,6 +953,64 @@ Lo Sportello si avvale anche del sistema informativo di cui all'articolo 2, comm
 ((
 
 Il datore di lavoro, italiano o straniero regolarmente soggiornante in Italia, presenta la documentazione necessaria per la concessione del nullaosta al lavoro subordinato allo Sportello unico, scegliendo, in alternativa, tra quello della provincia di residenza ovvero quello della provincia ove ha sede legale l'impresa o quello della provincia ove avra' luogo la prestazione lavorativa, con l'osservanza delle modalita' previste dall'articolo 22, comma 2, del testo unico.
+
+2.
+                        
+                            
+                                In particolare, la richiesta nominativa o numerica viene redatta su appositi moduli che facilitano l'acquisizione dei dati su supporti magnetici o ottici. Essa deve contenere i seguenti elementi essenziali:
+
+                            
+                            
+                                a)
+                                
+                                    complete generalita' del datore di lavoro, del titolare o legale rappresentante dell'impresa, la ragione sociale, la sede e l'indicazione del luogo di lavoro;
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di richiesta nominativa, le complete generalita' del lavoratore straniero che si intende assumere comprensive della residenza all'estero e, nel caso di richiesta numerica, il numero dei lavoratori da assumere;
+                                
+                            
+                            
+                                c)
+                                
+                                    il trattamento retributivo ed assicurativo, nel rispetto delle leggi vigenti e dei contratti collettivi nazionali di lavoro applicabili, riportato anche sulla proposta di contratto di soggiorno;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impegno di cui all'articolo 8-bis, comma 1, che deve risultare anche nella proposta di contratto di soggiorno per lavoro;
+                                
+                            
+                            
+                                e)
+                                
+                                    1'impegno a comunicare ogni variazione concernente il rapporto di lavoro.
+
+3.
+                        
+                            
+                                Alla domanda devono essere allegati:
+
+                            
+                            
+                                a)
+                                
+                                    autocertificazione dell'iscrizione dell'impresa alla Camera di commercio, industria ed artigianato, per le attivita' per le quali tale iscrizione e' richiesta;
+                                
+                            
+                            
+                                b)
+                                
+                                    autocertificazione della posizione previdenziale e fiscale atta a comprovare, secondo la tipologia di azienda, la capacita' occupazionale e reddituale del datore di lavoro;
+                                
+                            
+                            
+                                c)
+                                
+                                    la proposta di stipula di un contratto di soggiorno a tempo indeterminato, determinato o stagionale, con orario a tempo pieno o a tempo parziale e non inferiore a 20 ore settimanali e, nel caso di lavoro domestico, una retribuzione mensile non inferiore al minimo previsto per l'assegno sociale, ai sensi dell'articolo 3, comma 6, della legge 8 agosto 1995, n. 335.
 
 Qualora il datore di lavoro intenda rivalersi delle spese per la messa a disposizione dell'alloggio, trattenendo dalla retribuzione mensile una somma massima pari ad un terzo del suo importo, la decurtazione deve essere espressamente prevista nella proposta di contratto di soggiorno, che ne deve determinare la misura. Non si fa luogo alla decurtazione con riferimento ai rapporti di lavoro per i quali il corrispondente contratto collettivo nazionale di lavoro fissa il trattamento economico tenendo gia' conto che il lavoratore fruisce di un alloggio messo a disposizione dal datore.
 
@@ -534,6 +1096,59 @@ La rappresentanza diplomatica o consolare, alla quale sia pervenuta la documenta
 Le liste di lavoratori stranieri che chiedono di lavorare in Italia, formate in attuazione degli accordi di cui all'articolo 21, comma 5, del testo unico, sono compilate ed aggiornate per anno solare, distintamente per lavoratori a tempo indeterminato, a tempo determinato e per lavoro stagionale, e sono tenute nell'ordine di presentazione delle domande di iscrizione.
 
 ((
+
+2.
+                        
+                            
+                                Ciascuna lista consta di un elenco dei nominativi e delle schede di iscrizione che gli interessati sono tenuti a compilare e sottoscrivere, su modello definito con decreto del Ministro del lavoro e delle politiche sociali, adottato di concerto con il Ministro degli affari esteri e con il Ministro dell'interno e, per quanto concerne la fattispecie di cui all'articolo 32-bis, con il concerto del Ministro per gli italiani nel mondo, contenente:
+
+                            
+                            
+                                a)
+                                
+                                    Paese d'origine;
+                                
+                            
+                            
+                                b)
+                                
+                                    numero progressivo di presentazione della domanda;
+                                
+                            
+                            
+                                c)
+                                
+                                    complete generalita';
+                                
+                            
+                            
+                                d)
+                                
+                                    tipo del rapporto di lavoro preferito, stagionale, a tempo determinato, a tempo indeterminato;
+                                
+                            
+                            
+                                e)
+                                
+                                    capacita' professionali degli interessati o loro appartenenza ad una determinata categoria di lavoratori, qualifica o mansione;
+                                
+                            
+                            
+                                f)
+                                
+                                    conoscenza della lingua italiana, ovvero di una delle lingue francese, inglese o spagnola, o di altra lingua;
+                                
+                            
+                            
+                                g)
+                                
+                                    eventuali propensioni lavorative o precedenti esperienze di lavoro nel Paese d'origine o in altri Paesi;
+                                
+                            
+                            
+                                h)
+                                
+                                    l'eventuale diritto di priorita' per i lavoratori stagionali che si trovano nelle condizioni previste dall'articolo 24, comma 4, del testo unico, attestate dalla esibizione del passaporto o altro documento equivalente, da cui risulti la data di partenza dall'Italia al termine del precedente soggiorno per lavoro stagionale.
 
 Le liste di cui al comma 2 sono trasmesse, in via telematica, per il tramite della rappresentanza diplomatico-consolare, al Ministero del lavoro e delle politiche sociali che, previa verifica formale della rispondenza ai criteri stabiliti, provvede, entro 30 giorni dalla data di ricevimento, alla loro diffusione mediante l'inserimento nel sistema informativo delle Direzioni provinciali del lavoro. Le predette liste sono distinte per Paesi di provenienza.
 
@@ -690,6 +1305,25 @@ Per il personale di cui all'articolo 27, comma 1, lettera d), del testo unico, l
 
 Per i lavoratori di cui all'articolo 27, comma 1, lettera e), del testo unico, deve essere acquisito il contratto di lavoro autenticato dalla rappresentanza diplomatica o consolare. Il nullaosta al lavoro non puo' essere rilasciato a favore dei collaboratori familiari di cittadini stranieri.
 
+9.
+                        
+                            
+                                La lettera f) del comma 1 dell'articolo 27 del testo unico, si riferisce agli stranieri che, per finalita' formativa, debbono svolgere in unita' produttive del nostro Paese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' nell'ambito di un rapporto di tirocinio funzionale al completamento di un percorso ((di formazione professionale.))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 29 DICEMBRE 2016, N. 253)).
+
 Per le attivita' di cui alla lettera a) del comma 9 non e' richiesto il nullaosta al lavoro e il visto di ingresso per motivi di studio o formazione viene rilasciato su richie-sta dei soggetti di cui all'articolo 2, comma 1, del decreto del Ministro del lavoro e della previdenza sociale 25 marzo 1998, n. 142, nei limiti del contingente annuo determinato ai sensi del comma 6 dell'articolo 44-bis. Alla richiesta deve essere unito il progetto formativo, redatto ai sensi delle norme attuative dell'articolo 18 della legge 24 giugno 1997, n. 196, vistato dalla regione. ((PERIODO SOPPRESSO DAL D.LGS. 29 DICEMBRE 2016, N. 253)). ((PERIODO SOPPRESSO DAL D.LGS. 29 DICEMBRE 2016, N. 253)).
 
 ((COMMA SOPPRESSO DAL D.LGS. 29 DICEMBRE 2016, N. 253)).
@@ -767,6 +1401,38 @@ Le regioni individuano le modalita' piu' opportune per garantire che le cure ess
 
 ((
 
+1.
+                        
+                            
+                                Il cittadino straniero che intende effettuare, dietro pagamento dei relativi oneri, cure mediche in Italia, richiede il visto, alle condizioni stabilite dal decreto del Ministro degli affari esteri, di cui all'articolo 5, comma 3, alla competente rappresentanza diplomatica o consolare ed il relativo permesso di soggiorno alla questura, allegando la seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarazione della struttura sanitaria prescelta, pubblica o privata accreditata, che indichi il tipo di cura, la data di inizio e la durata presumibile della stessa, la durata dell'eventuale degenza prevista, osservate le disposizioni in vigore per la tutela dei dati personali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attestazione dell'avvenuto deposito di una somma a titolo cauzionale sulla base del costo presumibile delle prestazioni richieste. Il deposito cauzionale, in euro o in dollari statunitensi, dovra' corrispondere al 30 per cento del costo complessivo presumibile delle prestazioni richieste e dovra' essere versato alla struttura prescelta;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    documentazione comprovante la disponibilita' in Italia di risorse sufficienti per l'integrale pagamento delle spese sanitarie e di quelle di vitto e alloggio fuori dalla struttura sanitaria e il rimpatrio per l'assistito e per l'eventuale accompagnatore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    certificazione sanitaria, attestante la patologia del richiedente nel rispetto delle disposizioni in materia di tutela dei dati personali. La certificazione rilasciata all'estero deve essere corredata di traduzione in lingua italiana.
+
 ))
 
 Con l'autorizzazione di cui all'articolo 36, comma 2, del testo unico, sono stabilite le modalita' per il trasferimento per cure in Italia nei casi previsti dalla stessa disposizione e per quelli da effettuarsi nell'ambito dei programmi di cui all'articolo 32, comma 15, della legge 27 dicembre 1997, n. 449.
@@ -779,6 +1445,24 @@ Con l'autorizzazione di cui all'articolo 36, comma 2, del testo unico, sono stab
  ((
 
 E' consentito l'ingresso in territorio nazionale, per motivi di studio, ai cittadini stranieri che intendono seguire corsi universitari, con le modalita' definite dall'articolo 39 del testo unico e dall'articolo 46.
+
+2.
+                        
+                            
+                                E' ugualmente consentito l'ingresso nel territorio nazionale per motivi di studio, alle condizioni definite dal decreto del Ministro degli affari esteri, di cui all'articolo 5, comma 3, in favore dei cittadini stranieri:
+ 
+                            
+                            
+                                a)
+                                
+                                    maggiori di eta', che intendano seguire corsi superiori di studio o d'istruzione tecnico-professionale, a tempo pieno e di durata determinata, verificata la coerenza dei corsi da seguire in Italia con la formazione acquisita nel Paese di provenienza, accertate le disponibilita' economiche di cui all'articolo 5, comma 6, nonche' la validita' dell'iscrizione o pre-iscrizione al corso da seguire in Italia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    minori di eta', comunque, maggiori di anni quattordici, i cui genitori o tutori, residenti all'estero, intendano far seguire corsi di studio presso istituti e scuole secondarie nazionali statali o paritarie o presso istituzioni accademiche, nell'ambito di programmi di scambi e di iniziative culturali approvati dal Ministero degli affari esteri, dal Ministero dell'istruzione, dell'universita' e della ricerca o dal Ministero per i beni e le attivita' culturali. Al di fuori di tali fattispecie, l'ingresso dei minori per studio, limitatamente ai maggiori di anni quindici, e' consentito in presenza dei requisiti di cui alla lettera a), nonche' accertata l'esistenza di misure di adeguata tutela del minore e la rispondenza del programma scolastico da seguire in Italia alle effettive esigenze formative e culturali del beneficiario.
 
 E' consentito l'ingresso in Italia ai cittadini stranieri assegnatari di borse di studio accordate dalle amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, da Governi stranieri, da fondazioni ed istituzioni culturali italiane di chiara fama ovvero da organizzazioni internazionali, secondo le modalita' stabilite dal decreto di cui all'articolo 5, comma 3.
 
@@ -796,6 +1480,38 @@ Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con i
 
 I minori stranieri presenti sul territorio nazionale hanno diritto all'istruzione indipendentemente dalla regolarita' della posizione in ordine al loro soggiorno, nelle forme e nei modi previsti per i cittadini italiani. Essi sono soggetti all'obbligo scolastico secondo le disposizioni vigenti in materia. L'iscrizione dei minori stranieri nelle scuote italiane di ogni ordine e grado avviene nei modi e alle condizioni previsti per i minori italiani.
  Essa puo' essere richiesta in qualunque periodo dell'anno scolastico. I minori stranieri privi di documentazione anagrafica ovvero in possesso di documentazione irregolare o incompleta sono iscritti con riserva.
+
+2.
+                        
+                            
+                                L'iscrizione con riserva non pregiudica il conseguimento dei titoli conclusivi dei corsi di studio delle scuole di ogni ordine e grado. In mancanza di accertamenti negativi sull'identita' dichiarata dell'alunno, il titolo viene rilasciato all'interessato con i dati identificativi acquisiti al momento dell'iscrizione. I minori stranieri soggetti all'obbligo scolastico vengono iscritti alla classe corrispondente all'eta' anagrafica, salvo che il collegio dei docenti deliberi l'iscrizione ad una classe diversa, tenendo conto:
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'ordinamento degli studi del Paese di provenienza dell'alunno, che puo' determinare l'iscrizione ad una classe, immediatamente inferiore o superiore rispetto a quella corrispondente all'eta' anagrafica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'accertamento di competenze, abilita' e livelli di preparazione dell'alunno:
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del corso di studi eventualmente seguito dall'alunno nel Paese di provenienza:
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del titolo di studio eventualmente posseduto dall'alunno.
 
 Il collegio dei docenti formula proposte per la ripartizione degli alunni stranieri nelle classi: la ripartizione e' effettuata evitando comunque la costituzione di classi in cui risulti predominante la presenza di alunni stranieri.
 
@@ -905,6 +1621,24 @@ Articolo non ammesso al "Visto" della Corte dei conti
 
 ((
 
+1.
+                        
+                            
+                                Presso il Ministero del lavoro e delle politiche sociali, e' istituito il registro delle associazioni, degli enti e degli altri organismi privati che svolgono le attivita' a favore degli stranieri immigrati, previste dal testo unico. Il registro e' diviso in due sezioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nella prima sezione sono iscritti associazioni, enti e altri organismi privati che svolgono attivita' per favorire l'integrazione sociale degli stranieri, ai sensi dell'articolo 42 del testo unico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nella seconda sezione sono iscritti associazioni, enti ed altri organismi privati abilitati alla realizzazione dei programmi di assistenza e protezione sociale degli stranieri di cui all'articolo 18 del testo unico.
+
 ))
 
 L'iscrizione al registro di cui al comma 1, lettera a), e' condizione necessaria per accedere direttamente o attraverso convenzioni con gli enti locali o con le amministrazioni statati al contributo del Fondo nazionale per l'integrazione di cui all'articolo 45 del testo unico.
@@ -913,11 +1647,134 @@ Non possono essere iscritti nel registro le associazioni, enti o altri organismi
 
 ## Art. 53. — Condizioni per l'iscrizione nel Registro
 
+1.
+                        
+                            
+                                Possono iscriversi nella sezione del registro di cui all'articolo 52, comma 1, lettera a), gli organismi privati, gli enti e le associazioni che svolgono attivita' per l'integrazione di cui all'articolo 42, comma 1, del testo unico, che abbiano i seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    forma giuridica compatibile con i fini sociali e di solidarieta' desumibili dall'atto costitutivo o dallo statuto in cui devono essere espressamente previsti l'assenza di fini di lucro, il carattere democratico dell'ordinamento interno, l'elettivita' delle cariche associative, i criteri di ammissione degli aderenti, i loro obblighi e diritti. I predetti requisiti non sono richiesti per gli organismi aventi natura di organizzazione non lucrativa di utilita' sociale (ONLUS), ai sensi del decreto legisiativo 4 dicembre 1997, n. 460;
 
+                                
+                            
+                            
+                                b)
+                                
+                                    obbligo di formazione del bilancio o del rendiconto dal quale devono risultare i beni, i contributi o le donazioni, nonche' le modalita' di approvazione dello stesso da parte dell'assemblea degli aderenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sede legale in Italia e possibilita' di operativita' in Italia ed eventualmente all'estero qualunque sia la forma giuridica assunta;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esperienza almeno biennale nel settore dell'integrazione degli stranieri e dell'educazione interculturale; della valorizzazione delle diverse espressioni culturali, ricreative, sociali religiose ed artistiche: della formazione, dell'assistenza e dell'accoglienza degli stranieri.
+
+2.
+                        
+                            
+                                I soggetti di cui al comma 1, si iscrivono al registro su richiesta del rappresentante legale, con una domanda corredata da:
+ 
+                            
+                            
+                                a)
+                                
+                                    copia dell'atto costitutivo e dello statuto o degli accordi degli aderenti:
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dettagliata relazione sull'attivita' svolta negli ultimi due anni;
+                                
+                            
+                            
+                                c)
+                                
+                                    copia del bilancio o del rendiconto relativo agli ultimi due anni di attivita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuale iscrizione all'albo regionale delle associazioni del volontariato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ogni altra documentazione ritenuta utile per comprovare l'adeguatezza dell'associazione a svolgere attivita' nel settore dell'integrazione degli stranieri;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dichiarazione redatta e sottoscritta ai sensi delle vigenti disposizioni concernente l'assenza, nei confronti del legale rappresentante e di ciascuno dei componenti degli organi di amministrazione e di controllo dell'ente, delle condizioni interdittive di cui al comma 3, dell'articolo 52.
+
+((COMMA ABROGATO DAL D.P.R. 18 OTTOBRE 2004, N. 334)).
 
 ((COMMA ABROGATO DAL D.P.R. 18 OTTOBRE 2004, N. 334)).
 
 Nell'ambito del registro di cui all'articolo 52, comma 1, ((lettera b) )), possono iscriversi le associazioni, gli enti e gli organismi privati abilitati alla realizzazione dei programmi di assistenza e integrazione sociale di cui all'articolo 18, comma 3, del testo unico. Nella fase di prima applicazione possono richiedere l'iscrizione solo gli organismi privati che, indipendentemente dalla natura giuridica, abbiano gia' svolto attivita' di assistenza sociale e di prestazione dei servizi in materia di violenza contro le donne, prostituzione, tratta, violenza e abusi sui minori, assistenza ai lavoratori in condizione di grave sfruttamento, con particolare riferimento al lavoro minorile.
+
+6.
+                        
+                            
+                                Ai fini dell'iscrizione, i soggetti di cui al comma 5 presentano un curriculum attestante le precedenti esperienze, e una dichiarazione dalla quale risultino:
+ 
+                            
+                            
+                                a)
+                                
+                                    la disponibilita', a qualsiasi titolo, di operatori competenti nelle aree psicologica, sanitaria, educativa e dell'assistenza sociale, che assicurino prestazioni con carattere di continuita', ancorche' volontarie;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la disponibilita', a qualsiasi titolo, di strutture alloggiative adeguate all'accoglienza e alla realizzazione del programma di assistenza e di integrazione sociale, con la specificazione delle caratteristiche tipologiche e della ricettivita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i rapporti instaurati con enti locali, regioni o altre istituzioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la descrizione del programma di assistenza e integrazione sociale che intendano svolgere, articolato in differenti programmi personalizzati. Il programma indica finalita', metodologia di intervento, misure specifica di tutela fisica e psicologica, tempi costi e risorse umane impiegate: prevede le modalita' di prestazione di assistenza sanitaria e psicologica, e le attivita' di formazione, finalizzate ove necessario all'alfabetizzazione e all'apprendimento della lingua italiana, e comunque alla formazione professionale in relazione a specifici sbocchi lavorativi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'adozione di procedure per la tutela dei dati personali, ai sensi della legge 31 dicembre 1996, n. 675, anche relativi ai soggetti ospitati nelle strutture alloggiative;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'assenza, nei confronti del legale rappresentante e di ciascuno dei componenti degli organi di amministrazione e di controllo dell'ente, delle condizioni interdittive di cui al comma 3 dell'articolo 52.
 
 A decorrere dal sessantesimo giorno successivo alla data di entrata in vigore del presente regolamento possono richiedere l'iscrizione anche organismi privati che non abbiano svolto precedentemente attivita' di assistenza nei campi indicati dal comma 6, purche' stabiliscano un rapporto di partenariato con uno dei soggetti gia' iscritti nella sezione del registro di cui all'articolo 52, comma 1, ((lettera b) )). Tali organismi devono presentare una dichiarazione dalla quale risultino oltre ai requisiti indicati dal comma 6, lettere a), b) e d), il curriculum di ciascuno dei componenti ed il rapporto di partenariato.
 
@@ -961,6 +1818,66 @@ L'Organismo nazionale si avvale di una segreteria composta da funzionari del C.N
 
 ## Art. 57. — Istituzione del Consigli territoriali per l'immigrazione
 
+1.
+                        
+                            
+                                I Consigli territoriali per l'immigrazione di cui all'articolo 3, comma 6, del testo unico con compiti di analisi delle esigenze e di promozione degli interventi da attuare a livello locale sono istituiti, a livello provinciale, con decreto del Presidente del Consiglio dei Ministri, da adottarsi di concerto con il Ministro dell'interno. E' responsabilita' del prefetto assicurare la formazione e il funzionamento di detti Consigli. Essi sono cosi' composti:
+ 
+                            
+                            
+                                a)
+                                
+                                    dai rappresentanti dei competenti uffici periferici delle amministrazioni dello Stato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal Presidente della provincia;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da un rappresentante della regione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dal sindaco del comune capoluogo, o da un suo delegato nonche' dal sindaco, o da un suo delegato dei comuni della provincia di volta in volta interessati;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dal Presidente della camera di commercio, industria artigianato e agricoltura o da un suo delegato;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da almeno due rappresentanti delle organizzazioni sindacali dei lavoratori e dei datori di lavoro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    da almeno due rappresentanti delle associazioni piu' rappresentative degli stranieri extracomunitari operanti nel territorio;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    da almeno due rappresentanti degli enti e delle associazioni localmente attivi nel soccorso e nell'assistenza agli Immigrati.
+
 Possono essere invitati a partecipare alle riunioni dei Consigli i rappresentanti delle Aziende sanitarie locali, nonche' degli enti o altre istituzioni pubbliche interessati agli argomenti in trattazione.
 
 I Consigli territoriali per l'immigrazione operano, per la necessaria integrazione delle rispettive attivita', in collegamento con le Consulte regionali di cui all'articolo 42, comma 6, del testo unico, eventualmente costituite con legge regionale. Ai fini di una coordinata ed omogenea azione di monitoraggio ed analisi delle problematiche connesse al fenomeno dell'immigrazione e delle esigenze degli immigrati, nonche' di promozione dei relativi interventi, il prefetto assicura il raccordo dei Consigli territoriali con la Consulta per i problemi degli stranieri immigrati e delle loro famiglie, di cui all'articolo 42, comma 4, del testo unico.
@@ -969,15 +1886,97 @@ Nell'adozione del decreto di cui al comma 1, del presente articolo, il President
 
 ## Art. 58. — Fondo nazionale per le politiche migratorie
 
+1.
+                        
+                            
+                                Il Ministro per la solidarieta' sociale, con proprio decreto adottato di concerto con i Ministri interessati secondo quanto disposto dall'articolo 59, comma 46, della legge 27 dicembre 1997, n. 449, e dall'articolo 133, comma 3, del decreto legislativo 31 marzo 1998, n. 112, ripartisce i finanziamenti relativi al Fondo nazionale per le politiche migratorie di cui all'articolo 45 del testo unico, in base alle seguenti quote percentuali:
+ 
+                            
+                            
+                                a)
+                                
+                                    una quota pari all'80% dei Finanziamenti dell'intero Fondo e' destinata ad interventi annuali e pluriennali attivati dalle regioni e dalle province autonome di Trento e Bolzano, nonche' dagli enti locali, per straordinarie esigenze di integrazione sociale determinate dall'afflusso di immigrati:
 
+                                
+                            
+                            
+                                b)
+                                
+                                    una quota pari al 20% dei finanziamenti e' destinata ad interventi di carattere statale comprese le spese relative agli interventi previsti dagli articoli 20 e 46 del testo unico.
+
+((COMMA ABROGATO DALLA L. 11 AGOSTO 2003, N. 228)).
 
 Le regioni possono impiegare una quota delle risorse loro attribuite ai sensi del comma 1, lettera a), per la realizzazione di programmi interregionali di formazione e di scambio di esperienze in materia di servizi per l'integrazione degli immigrati.
 
 Le risorse attribuite alle regioni ai sensi del comma 1, lettera a), costituiscono quote di cofinanziamento dei programmi regionali relativi ad interventi nell'ambito delle politiche per l'immigrazione. A tal fine le regioni partecipano con risorse a carico dei propri bilanci per una quota non inferiore al 20% del totale di ciascun programma. Le risorse attribuite alle regioni possono altresi' essere utilizzate come quota nazionale di cofinanziamento per l'accesso ai fondi comunitari.
 
+5.
+                        
+                            
+                                Il decreto di ripartizione di cui al comma 1 tiene conto, sulla base dei dati rilevati dall'ISTAT e dal Ministero dell'interno:
+ 
+                            
+                            
+                                a)
+                                
+                                    della presenza degli immigrati sul territorio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della composizione demografica della popolazione immigrata e del rapporto tra immigrati e popolazione locale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle situazioni di particolare disagio nelle aree urbane e della condizione socioeconomica delle aree di riferimento.
+
 Per la realizzazione della base informativa statistica necessaria alla predisposizione del decreto di cui al comma 1, il Ministero dell'interno trasmette all'ISTAT, secondo modalita' concordate e nel rispetto della legge 31 dicembre 1996, n. 675, e successive modificazioni e integrazioni, le informazioni di interesse statistico sui cittadini stranieri, contenute nei propri archivi automatizzati, incluse quelle relative ai minorenni registrati sul permesso di soggiorno o carta di soggiorno dei genitori.
 
 Il decreto di cui al comma 1 tiene altresi' conto delle priorita' di intervento e delle linee guida indicate nel documento programmatico relativo alla politica dell'immigrazione e degli stranieri predisposto ogni tre anni ai sensi dell'articolo 3, comma 1, del testo unico.
+
+8.
+                        
+                            
+                                I programmi annuali e pluriennali predisposti dalle regioni sono Finalizzati allo svolgimento di attivita' volte a:
+ 
+                            
+                            
+                                a)
+                                
+                                    favorire il riconoscimento e l'esercizio, in condizione di parita' con i cittadini italiani, dei diritti fondamentali delle persone immigrate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere l'integrazione degli stranieri favorendone l'accesso al lavoro, all'abitazione, ai servizi sociali, alle istituzioni scolastiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevenire e rimuovere ogni forma di discriminazione basata sulla razza, il colore, l'ascendenza o l'origine nazionale o etnica o religiosa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutelare l'identita' culturale, religiosa e linguistica degli stranieri;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    consentire un positivo reinserimento nel Paese d'origine.
 
 Il Ministro per la solidarieta' sociale predispone, con proprio decreto, sentita la conferenza Unificata, un apposito modello uniforme per la comunicazione dei dati statistici e socioeconomici e degli altri parametri necessari ai fini della redazione dei programmi regionali e statali che devono essere trasmessi al Dipartimento per gli affari sociali ai sensi dell'articolo 59, comma 1, e dell'articolo 60, comma 2, e per la presentazione della relazione annuale ai sensi dell'articolo 59, comma 5) e dell'articolo 60, comma 4.
 

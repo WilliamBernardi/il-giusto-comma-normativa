@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2007-04-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,11 +28,68 @@ Sulla proposta del Ministro dei trasporti e della navigazione, di concerto con i
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono:
+ 
+                        
+                        
+                            a)
+                            
+                                per "soccorso marittimo", tutte le attivita' finalizzate alla ricerca e al salvataggio della vita umana in mare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "convenzione", la convenzione internazionale sulla ricerca e il salvataggio marittimo, adottata ad Amburgo il 27 aprile 1979, alla quale e' stata data adesione ed esecuzione con legge 3 aprile 1989, n. 147;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "allegato", l'annesso alla convenzione di cui alla lettera b), che e' parte integrante della convenzione medesima.
+
 ## Art. 2.
 
 L'autorita' nazionale responsabile dell'esecuzione della convenzione e' il Ministro dei trasporti e della navigazione.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Al fine dell'organizzazione prevista dal capitolo 2 e in conformita' della terminologia specificata nel capitolo 1 dell'allegato, si stabilisce che:
+ 
+                        
+                        
+                            a)
+                            
+                                il Comando generale del Corpo delle capitanerie di porto e' l'organismo nazionale che assicura il coordinamento generale dei servizi di soccorso marittimo (I.M.R.C.C. - Italian Maritime Rescue Coordination Center);
+
+                            
+                        
+                        
+                            b)
+                            
+                                le direzioni marittime costituiscono i centri secondari di soccorso marittimo (M.R.S.C. - Maritime Rescue Sub Center);
+
+                            
+                        
+                        
+                            c)
+                            
+                                i comandi di porto costituiscono le unita' costiere di guardia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le unita' navali e gli aeromobili del servizio di guardia costiera del Corpo delle capitanerie di porto, appositamente allestiti, costituiscono le unita' di soccorso marittimo.
 
 ## Art. 4.
 

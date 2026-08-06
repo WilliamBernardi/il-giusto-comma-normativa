@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2019-11-29
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -28,11 +28,110 @@ Sulla proposta del Ministro per le politiche europee e del Ministro della salute
 
 ## Art. 1. — Campo d'applicazione
 
+1.
+                    
+                        
+                            Il presente decreto disciplina determinate prescrizioni tecniche per la donazione, l'approvvigionamento e il controllo di tessuti e cellule umani, nonche' la codifica, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di: 
+ 
+                        
+                        
+                            a)
+                            
+                                tessuti e cellule umani, destinati ad applicazioni sull'uomo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prodotti fabbricati, derivati da tessuti e cellule umani destinati ad applicazioni sull'uomo, qualora tali prodotti non siano disciplinati da altre direttive.
+
 Le disposizioni degli articoli da 10 a 14 del presente decreto, relative alla rintracciabilita' e alla notifica di reazioni ed eventi avversi gravi, si applicano anche alla donazione, all'approvvigionamento e al controllo di tessuti e cellule umani.
 
 Ai fini dell'attuazione delle disposizioni recate in materia di cellule riproduttive dal decreto legislativo 6 novembre 2007, n. 191, e dal presente decreto, il Ministero della salute e le Regioni si avvalgono della collaborazione del Centro nazionale trapianti, in seguito indicato come «CNT». ((Sono fatte salve le competenze dell'Istituto superiore di sanita', di seguito: denominato: "ISS", di cui agli articoli 11 e 15 della legge 19 febbraio 2004, n. 40.))
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                cellule riproduttive: tutti i tessuti e le cellule destinati ad essere utilizzati ai fini della riproduzione assistita, nel rispetto delle disposizioni vigenti in materia di procreazione medicalmente assistita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                donazione da parte di un partner: la donazione di cellule riproduttive tra un uomo e una donna che rispettino i requisiti soggettivi di cui all'articolo 5 della legge 19 febbraio 2004, n. 40; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                impiego diretto: qualsiasi procedura in base alla quale le cellule donate vengono utilizzate senza essere conservate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sistema di qualita': la struttura organizzativa, le responsabilita', le procedure, i processi e le risorse destinati ad attuare la gestione della qualita', comprese tutte le attivita' che direttamente o indirettamente contribuiscono alla qualita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gestione della qualita': le attivita' coordinate per dirigere e controllare un'organizzazione sul piano della qualita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                procedure operative standard (POS): istruzioni scritte che descrivono le fasi di un determinato processo nonche' i materiali e i metodi da utilizzare e il prodotto finale previsto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                convalida, o qualifica in caso di attrezzature o ambienti: la produzione di prove documentate, in grado di garantire con un elevato livello di certezza che determinati procedimenti, attrezzature o ambienti diano luogo a un prodotto conforme alle specifiche e alle caratteristiche qualitative prestabilite; un procedimento e' convalidato al fine di valutare se il sistema funziona efficacemente in rapporto all'impiego previsto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                rintracciabilita': la possibilita' di ricostruire il percorso di tessuti o cellule in ogni fase dell'approvvigionamento, della lavorazione, del controllo e dello stoccaggio fino alla distribuzione al ricevente o allo smaltimento, compresa la possibilita' di risalire all'identificazione del donatore, dell'istituto dei tessuti o del centro di produzione che ricevono, o lavorano o stoccano i tessuti o le cellule, nonche', a livello delle strutture sanitarie, la possibilita' di individuare i responsabili che applicano i tessuti o le cellule sui riceventi. Tale rintracciabilita' riguarda anche la possibilita' di reperire e identificare tutti i dati pertinenti relativi ai prodotti e ai materiali che vengono a contatto con detti tessuti o cellule; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                critico: che ha potenzialmente effetto sulla qualita' e o la sicurezza di tessuti e cellule o e' a contatto con i predetti; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                organizzazione per l'approvvigionamento: una struttura sanitaria o un'unita' ospedaliera in cui si effettuano prelievi di tessuti e cellule umani, che puo' non essere autorizzata e accreditata come Istituto dei tessuti, fatto salvo quanto previsto dalla legge 12 agosto 1993, n. 301, recante norme in materia di prelievo ed innesti di cornea; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                organizzazione responsabile dell'applicazione sull'uomo: una struttura sanitaria o un'unita' ospedaliera che esegue applicazioni sull'uomo di tessuti e cellule;
 
 -----------
                         AGGIORNAMENTO (2)
@@ -48,6 +147,38 @@ Il prelievo di tessuti e cellule umani e' effettuato da personale qualificato e 
 L'istituto dei tessuti o l'organizzazione per l'approvvigionamento conclude con il personale qualificato o l'equipe clinica responsabile della selezione del donatore che non faccia parte dello stesso istituto o organizzazione, accordi scritti in ordine alle procedure da seguire per garantire la conformita' dei requisiti ai criteri di selezione dei donatori di cui all'allegato I.
 
 L'istituto dei tessuti o l'organizzazione per l'approvvigionamento conclude con il personale qualificato o l'equipe clinica responsabile della selezione del donatore che non faccia parte dello stesso istituto o organizzazione, accordi scritti in ordine al tipo di tessuti, di cellule o di campioni da prelevare nonche' ai protocolli da seguire.
+
+5.
+                    
+                        
+                            Il responsabile dell'istituto dei tessuti, in accordo con l'organizzazione per l'approvvigionamento definisce procedure operative standard, in seguito indicate come «POS», al fine di verificare: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'identita' del donatore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la documentazione relativa al consenso informato, o all'espressione di volonta' o all'autorizzazione alla donazione da parte del donatore o della sua famiglia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la valutazione dei criteri di selezione dei donatori di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la valutazione degli esami di laboratorio richiesti per i donatori di cui all'articolo 5.
 
 Il responsabile dell'istituto dei tessuti, in accordo con l'organizzazione per l'approvvigionamento definisce altresi' POS relative all'approvvigionamento, confezionamento, etichettatura e trasporto dei tessuti e delle cellule fino alla destinazione presso l'istituto dei tessuti o, in caso di distribuzione diretta di tali materiali, presso l'equipe clinica responsabile della loro applicazione, ovvero, in caso di campioni di tessuti e cellule, presso il laboratorio per il controllo, in conformita' all'articolo 5.
 
@@ -67,9 +198,64 @@ La documentazione relativa al donatore e' conservata conformemente a quanto prev
 
 ## Art. 4. — Criteri di selezione dei donatori
 
+1.
+                    
+                        
+                            Il responsabile dell'organizzazione per l'approvvigionamento o dell'istituto dei tessuti garantisce che la selezione dei donatori sia effettuata in conformita' ai criteri di selezione di cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'allegato I per i donatori di tessuti e cellule; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'allegato III per i donatori di cellule riproduttive.
+
 Per i donatori di cellule staminali emopoietiche midollari e periferiche, ivi incluse quelle da sangue cordonale, si applicano anche le disposizioni previste dalla normativa vigente in materia di attivita' trasfusionali e di trapianto di midollo.
 
 ## Art. 5. — Esami di laboratorio
+
+1.
+                    
+                        
+                            Il responsabile dell'organizzazione per l'approvvigionamento o dell'istituto dei tessuti garantisce che: 
+ 
+                        
+                        
+                            a)
+                            
+                                i donatori di tessuti e di cellule, ad eccezione dei donatori di cellule riproduttive, vengano sottoposti agli esami di cui all'allegato II, punto 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tali esami siano effettuati secondo le prescrizioni stabilite nell'allegato II, punto
+
+2.
+                    
+                        
+                            
+ 2. Il responsabile dell'organizzazione per l'approvvigionamento o dell'istituto dei tessuti garantisce che: 
+ 
+                        
+                        
+                            a)
+                            
+                                i donatori di cellule riproduttive siano sottoposti agli esami di cui all'allegato III, punti 1 e 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli esami di cui alla lettera a) siano effettuati secondo le prescrizioni stabilite nell'allegato III, punto
 
 3. Per i donatori di cellule staminali emopoietiche periferiche, ivi incluse quelle da sangue cordonale, si applicano anche le disposizioni previste dalla normativa vigente in materia di attivita' trasfusionali.
 
@@ -92,17 +278,160 @@ L'allegato VI al presente decreto riporta le indicazioni e le prescrizioni da so
 
 ## Art. 10. — Notifica di reazioni avverse gravi
 
+1.
+                    
+                        
+                            In conformita' ai disposti di cui all'articolo 11 del decreto legislativo 6 novembre 2007, n. 191: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'organizzazione per l'approvvigionamento predispone procedure per conservare le registrazioni dei dati relativi a tessuti e cellule prelevati e per notificare tempestivamente all'istituto dei tessuti di riferimento ogni reazione avversa grave nel donatore vivente che possa influire sulla qualita' e sicurezza di tessuti e cellule; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                l'organizzazione responsabile dell'applicazione sull'uomo di tessuti e cellule predispone procedure per conservare le registrazioni dei dati di tessuti e cellule applicati sull'uomo e per notificare tempestivamente all'istituto dei tessuti di riferimento ogni reazione avversa grave osservata nel corso o a seguito dell'applicazione clinica, che possa essere in rapporto con la qualita' e la sicurezza dei tessuti e delle cellule utilizzate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istituto dei tessuti che distribuisce tessuti e cellule per applicazioni sull'uomo fornisce all'organizzazione responsabile dell'applicazione sull'uomo di tessuti e cellule, coerentemente a quanto previsto alla lettera b), informazioni sulle modalita' per la notifica delle reazioni avverse gravi.
+
+2.
+                    
+                        
+                            In conformita' ai disposti di cui all'articolo 11 del decreto legislativo 6 novembre 2007, n. 191, l'istituto dei tessuti: 
+ 
+                        
+                        
+                            a)
+                            
+                                predispone procedure per comunicare tempestivamente alla rispettiva autorita' regionale e al CNT o al Centro nazionale sangue, in seguito indicato come «CNS», ((. . .)), secondo i rispettivi ambiti di competenza, tutte le informazioni disponibili attinenti alle presunte reazioni avverse gravi di cui al comma 1, lettere a) e b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone procedure per comunicare tempestivamente alla rispettiva autorita' regionale e al CNT o al CNS ((. . .)), secondo i rispettivi ambiti di competenza, le conclusioni dell'indagine per analizzare le cause e il conseguente esito.
+
+((2-bis. Nel caso di cellule riproduttive o embrioni il CNT deve trasmettere tempestivamente e comunque non oltre 48 ore le informazioni ricevute di cui al comma 2, lettere a) e b), al Registro dell'ISS di cui all'articolo 11 della legge 19 febbraio 2004, n. 40.))
+
+3.
+                    
+                        
+                            Conformemente ai disposti di cui all'articolo 11 del decreto legislativo 6 novembre 2007, n. 191: 
+ 
+                        
+                        
+                            a)
+                            
+                                la persona responsabile di cui all'articolo 17 dello stesso decreto legislativo, comunica alla rispettiva autorita' regionale e al CNT o al CNS, secondo i rispettivi ambiti di competenza, le informazioni incluse nel modello di notifica di cui alla parte A dell'allegato VII; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'istituto dei tessuti notifica alla rispettiva Autorita' regionale e al CNT o al CNS, secondo l'ambito di competenza, i provvedimenti adottati per quanto riguarda altri tessuti e cellule interessati, distribuiti a fini di applicazioni sull'uomo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istituto dei tessuti notifica alla rispettiva Autorita' regionale e al CNT o al CNS, secondo l'ambito di competenza, le conclusioni dell'indagine, fornendo almeno le informazioni di cui alla parte B dell'allegato VII.
 
 ## Art. 11. — Notifica di eventi avversi gravi
 
+1.
+                    
+                        
+                            In conformita' ai disposti di cui all'articolo 11 del decreto legislativo 6 novembre 2007, n. 191: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'organizzazione per l'approvvigionamento e l'istituto dei tessuti predispongono procedure per conservare le registrazioni dei dati e per notificare tempestivamente ogni evento avverso grave che si verifichi durante l'approvvigionamento e possa influire sulla qualita' e sicurezza dei tessuti e cellule; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'organizzazione responsabile dell'applicazione sull'uomo di tessuti e cellule predispone procedure per notificare tempestivamente all'istituto dei tessuti di riferimento ogni evento avverso grave che possa influire sulla qualita' e sicurezza dei tessuti e cellule; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istituto dei tessuti fornisce all'organizzazione responsabile dell'applicazione sull'uomo informazioni sulle modalita' per notificargli eventi avversi gravi che possano influire sulla qualita' e sicurezza dei tessuti e cellule.
+
 In materia di riproduzione assistita si considera evento avverso grave ogni tipo di errore d'identificazione o di scambio di gameti o embrioni. La persona interessata o l'organizzazione per l'approvvigionamento o l'organizzazione responsabile dell'applicazione sull'uomo riferiscono tali eventi all'istituto dei tessuti fornitore ai fini dell'indagine e notifica all'autorita' competente.
+
+3.
+                    
+                        
+                            In conformita' ai disposti di cui all'articolo 11 del decreto legislativo 6 novembre 2007, n. 191: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'istituto dei tessuti predispone procedure per comunicare tempestivamente alla rispettiva autorita' regionale e al CNT o al CNS ((. . .)), secondo l'ambito di competenza, tutte le informazioni disponibili attinenti ai presunti eventi avversi gravi di cui al comma 1, lettere a) e b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'istituto dei tessuti o le autorita' regionali valutano e comunicano al CNT o CNS, ((. . .)), secondo l'ambito di competenza, l'eventuale implicazione di altre cellule e tessuti, e gli eventuali provvedimenti intrapresi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istituto dei tessuti predispone procedure per comunicare tempestivamente alla rispettiva autorita' regionale e al CNT o al CNS ((. . .)), secondo l'ambito di competenza, le conclusioni dell'indagine per analizzare le cause e il conseguente esito;
 
 ((
 
 Nel caso di cellule riproduttive o embrioni il CNT deve trasmettere tempestivamente e comunque non oltre 48 ore le informazioni ricevute di cui al comma 3, lettere a), b) e c), al Registro dell'ISS, di cui all'articolo 11 della legge 19 febbraio 2004, n. 40.
 
 ))
+
+4.
+                    
+                        
+                            In conformita' ai disposti di cui all'articolo 11 del decreto legislativo 6 novembre 2007, n. 191: 
+ 
+                        
+                        
+                            a)
+                            
+                                il responsabile dell'istituto dei tessuti notifica alla rispettiva autorita' regionale e al CNT o al CNS, secondo l'ambito di competenza, le informazioni incluse nel modello di notifica di cui alla parte A dell'allegato VIII; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'istituto dei tessuti valuta gli eventi avversi gravi per individuarne le cause evitabili nell'ambito del procedimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istituto dei tessuti notifica alla rispettiva autorita' regionale e al CNT o al CNS, secondo l'ambito di competenza, le conclusioni dell'indagine, fornendo almeno le informazioni di cui alla parte B dell'allegato VIII.
 
 ## Art. 12. — Relazioni annuali
 
@@ -168,6 +497,126 @@ Il codice unico europeo, in formato leggibile all'occhio umano, e' preceduto dal
 ## Art. 15-ter. — (( (Prescrizioni relative all'applicazione del codice unico europeo).))
 
 ((
+
+1.
+                    
+                        
+                            Gli istituti dei tessuti, compresi gli istituti dei tessuti importatori (ITI), quali definiti dalla direttiva 2015/566 della Commissione, osservano le seguenti prescrizioni minime e provvedono a: 
+ 
+                        
+                        
+                            a)
+                            
+                                assegnare il codice unico europeo, costituito dalla SID, generata dal SIT, e dalla SIP, assegnata mediante sistemi locali degli Istituiti dei tessuti, a tutti i tessuti e a tutte le cellule per i quali e' richiesta l'applicazione di tale codice, al piu' tardi prima della loro distribuzione a fini di applicazioni sull'uomo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assegnare la SID, generata dal SIT, dopo l'approvvigionamento dei tessuti e delle cellule, o al momento del loro ricevimento da un'organizzazione di approvvigionamento o all'atto dell'importazione di tessuti e cellule da un Paese terzo; la SID comprende: 
+ 1) il pertinente codice dell'istituto dei tessuti italiano quale assegnato nel compendio degli istituti dei tessuti dell'UE, 
+ 2) il numero unico della donazione attribuito a livello nazionale dal SIT; in caso di pooling di tessuti e cellule, al prodotto finale e' assegnato un nuovo numero d'identificazione della donazione; la rintracciabilita' delle singole donazioni e' assicurata dall'istituto dei tessuti in cui e' effettuato il pooling; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non modificare la sequenza d'identificazione della donazione, una volta assegnata ai tessuti e alle cellule rilasciati per la circolazione, salvo che non sia necessario correggere un errore di codifica; qualsiasi rettifica va adeguatamente documentata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                utilizzare uno dei sistemi di codifica dei prodotti autorizzati e i relativi numeri del prodotto di tessuti e cellule inclusi nel compendio dei prodotti di tessuti e cellule dell'UE, al piu' tardi prima della loro distribuzione a fini di applicazioni sull'uomo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                utilizzare un numero specifico della sottopartita e una data di scadenza appropriati, al piu' tardi prima della loro distribuzione a fini di applicazioni sull'uomo; per i tessuti e le cellule per i quali non e' definita, la data di scadenza e' "00000000"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                applicare il SEC sull'etichetta del prodotto in questione in modo indelebile e permanente e menzionare detto codice nei pertinenti documenti di accompagnamento, al piu' tardi prima della sua distribuzione ai fini di applicazioni sull'uomo; nel caso in cui le dimensioni dell'etichetta non vi permettano l'apposizione del codice unico europeo, il codice e' collegato in modo univoco ai tessuti e alle cellule recanti tale etichetta tramite i documenti di accompagnamento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                notificare al CNT entro e non oltre 10 giorni lavorativi i casi in cui: 
+ 1) sia necessario procedere ad un aggiornamento o una correzione delle informazioni contenute nel compendio degli istituti dei tessuti dell'UE, 
+ 2) sia necessario un aggiornamento del compendio dei prodotti di tessuti e cellule dell'UE, 
+ 3) l'istituto dei tessuti rilevi una significativa inottemperanza alle prescrizioni relative al codice unico europeo per quanto riguarda i tessuti e le cellule ricevuti da altri istituti dei tessuti dell'UE; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                predisporre apposite procedure operative in caso di apposizione non corretta del codice unico europeo sull'etichetta.
+
+2.
+                    
+                        
+                            Il CNT provvede a: 
+ 
+                        
+                        
+                            a)
+                            
+                                assegnare il numero unico a tutti gli istituti dei tessuti autorizzati e accreditati in Italia; un istituto dei tessuti dislocato in piu' sedi puo' essere considerato un unico istituto dei tessuti in quanto si avvale di un unico sistema di assegnazione di numeri unici della donazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verificare l'assegnazione del numero della donazione, utilizzando il numero unico della donazione a livello nazionale, tramite il SIT; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                verificare e monitorare la piena applicazione del codice unico europeo in Italia; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                procedere alla convalida dei dati sugli istituti dei tessuti contenuti nel compendio degli istituti dei tessuti dell'UE per l'Italia e aggiornare, entro e non oltre dieci giorni lavorativi dalla scadenza del termine di cui al comma 3, il compendio medesimo, in particolare nei seguenti casi: 
+ 1) allorche' un nuovo istituto dei tessuti sia autorizzato e accreditato; 
+ 2) allorche' le informazioni sugli istituti dei tessuti siano modificate o non siano correttamente registrate nel compendio degli istituti dei tessuti dell'UE; 
+ 3) allorche' siano modificati i dati, di cui all'allegato XI-bis del presente decreto, in merito all'autorizzazione e all'accreditamento di un istituto dei tessuti, tra i quali: 
+ 3.1 l'autorizzazione e l'accreditamento per un nuovo tipo di tessuti o di cellule; 
+ 3.2 l'autorizzazione e l'accreditamento per una nuova attivita' prescritta; 
+ 3.3 le informazioni circa eventuali condizioni o deroghe aggiunte a una autorizzazione; 
+ 3.4 la sospensione, in tutto o in parte, di una autorizzazione o accreditamento specifici per un determinato tipo di attivita' o di tessuti o di cellule; 
+ 3.5 la revoca, in tutto o in parte, di una autorizzazione o accreditamento di un istituto dei tessuti; 
+ 3.6 la cessazione volontaria, in tutto o in parte, dell'attivita' o delle attivita' di un istituto dei tessuti, per le quali e' stato autorizzato e accreditato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                informare le autorita' competenti di un altro Stato membro nel caso in cui rilevi nel compendio degli istituti dei tessuti dell'UE informazioni inesatte relative all'altro Stato membro o riscontri una significativa inottemperanza alle prescrizioni relative al codice unico europeo riguardo all'altro Stato membro; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                informare la Commissione e le altre autorita' competenti nel caso in cui sia necessario a suo parere procedere ad un aggiornamento del compendio dei prodotti di tessuti e cellule dell'UE.
 
 Le regioni e le province autonome sono tenute a comunicare al CNT qualsiasi modifica che incida in misura sostanziale sull'autorizzazione, sull'accreditamento degli istituti dei tessuti in questione, al fine dell'aggiornamento del compendio dell'UE. La comunicazione al CNT deve avvenire entro e non oltre dieci giorni lavorativi, decorrenti dal momento in cui avviene la modifica.
 

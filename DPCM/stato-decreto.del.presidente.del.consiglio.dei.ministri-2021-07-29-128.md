@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2023-12-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -35,13 +35,95 @@ Il ((Ministro dell'ambiente e della sicurezza energetica)) e' di seguito denomin
 
 ## Art. 2. — Organizzazione
 
+1.
+                        
+                            
+                                Il Ministero, per l'espletamento dei compiti ad esso demandati, e' articolato in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre dipartimenti e ((dodici direzioni generali)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    uffici di diretta collaborazione del Ministro.
+
 I Dipartimenti assumono la denominazione di Dipartimento amministrazione generale, pianificazione e patrimonio naturale (DiAG), di Dipartimento sviluppo sostenibile (DiSS) e di Dipartimento energia (DiE).
 
 ((
 
+3.
+                        
+                            
+                                Il Dipartimento amministrazione generale, pianificazione e patrimonio naturale (DiAG) e' articolato nei seguenti quattro uffici di livello dirigenziale generale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    direzione generale comunicazione, risorse umane e contenzioso (CORUC); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direzione generale innovazione tecnologica (ITEC); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direzione generale affari europei, internazionali e finanza sostenibile (AEIF); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    direzione generale tutela della biodiversita' e del mare (TBM).
+
 ))
 
 ((
+
+4.
+                        
+                            
+                                Il Dipartimento sviluppo sostenibile (DiSS) e' articolato nei seguenti quattro uffici di livello dirigenziale generale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    direzione generale economia circolare e bonifiche (ECB); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    direzione generale uso sostenibile del suolo e delle acque (USSA); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direzione generale valutazioni ambientali (VA); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    direzione generale sostenibilita' dei prodotti e dei consumi (SPC).
 
 ))
 
@@ -49,9 +131,73 @@ I Dipartimenti assumono la denominazione di Dipartimento amministrazione general
 
 d) direzione generale programmi e incentivi finanziari (PIF) ))
 
+6.
+                        
+                            
+                                I Capi dei dipartimenti, dai quali dipendono funzionalmente i dirigenti titolari degli uffici di livello dirigenziale generale in cui si articola ciascun Dipartimento, svolgono compiti di coordinamento, direzione e controllo degli uffici di livello dirigenziale generale compresi nel dipartimento e sono responsabili, a norma dell'articolo 5, comma 3, del decreto legislativo 30 luglio 1999, n. 300, e dell'articolo 21 del decreto legislativo 30 marzo 2001, n. 165, dei risultati complessivamente raggiunti in attuazione degli indirizzi del Ministro. Essi svolgono i compiti previsti dall'articolo 5, comma 5, del citato decreto legislativo n. 300 del 1999, e provvedono, in particolare, all'assegnazione delle risorse umane, finanziarie e strumentali disponibili agli uffici di livello dirigenziale generale compresi nel Dipartimento. Ai fini del perseguimento dei risultati complessivi della gestione amministrativa, il Capo del dipartimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicura la stretta integrazione tra le attivita' degli uffici nello svolgimento delle funzioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rappresenta unitariamente il Dipartimento nelle relazioni con l'esterno, curando lo sviluppo della collaborazione operativa fra le strutture dipartimentali e le altre amministrazioni ed enti ((...)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornisce, per il tramite dell'Ufficio di Gabinetto, il supporto istituzionale alle funzioni del Ministro.
+
 I capi dei dipartimenti, ai sensi dell'articolo 5, commi 1 e 3, del decreto legislativo 30 luglio 1999, n. 300 e del combinato disposto dell'articolo 5, comma 6, del medesimo decreto legislativo e dell'articolo 16, comma 5, del decreto legislativo 30 marzo 2001, n. 165, esercitano un'azione di indirizzo, di coordinamento anche tecnico e di monitoraggio sull'attivita' degli uffici di livello dirigenziale generale del Dipartimento. A tal fine adottano direttive specifiche per l'espletamento dei poteri di direzione e di indirizzo, nonche' per individuare categorie di atti e di provvedimenti amministrativi di particolare rilevanza, anche di spesa, di cui all'articolo 16, comma 1, del decreto legislativo 30 marzo 2001, n. 165. Con riferimento a tali atti e provvedimenti e' previsto un potere sostitutivo in caso di inerzia, nonche' il rilascio di un preventivo nulla osta all'adozione, previa verifica di idoneita' al raggiungimento degli obiettivi e al rispetto delle priorita', dei piani, dei programmi e delle direttive, in attuazione degli indirizzi del Ministro. Il diniego del nulla osta e l'esercizio del potere sostitutivo in caso di inerzia sono comunicati al Ministro per il tramite dell'Ufficio di Gabinetto.
 
 I Capi dei dipartimenti assicurano il coordinamento dell'azione amministrativa anche mediante la ((...)) Conferenza dei dipartimenti e delle direzioni generali, nonche' attraverso l'istituzione e il coordinamento di gruppi di lavoro ((...)) per la trattazione di questioni specifiche o per il perseguimento di particolari obiettivi che necessitano del concorso di piu' dipartimenti o di piu' direzioni generali, anche per gli atti di pianificazione strategica.
+
+9.
+                        
+                            
+                                I dipartimenti e le direzioni generali svolgono le funzioni previste dal presente regolamento, nonche' ogni altra funzione attribuita al Ministero dalla vigente normativa, coordinandosi con gli uffici di diretta collaborazione del Ministro, ivi incluse: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attivita' istruttoria relativa al contenzioso, nelle materie di rispettiva competenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la formulazione di proposte, nelle materie di rispettiva competenza, per la partecipazione del Ministero alla programmazione e all'impiego dei fondi europei, le politiche di coesione, la programmazione regionale unitaria, nonche' la gestione dei piani e dei rispettivi fondi assegnati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la promozione di strategie di intervento idonee a governare gli effetti dei cambiamenti climatici sul piano della mitigazione e dell'adattamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la formulazione di proposte concernenti la ricerca in materia ambientale, nell'ambito delle rispettive competenze; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la cura del raccordo tra l'ordinamento italiano e i processi normativi dell'Unione europea (UE) attraverso la partecipazione alla formazione delle politiche e delle decisioni dell'UE e all'attuazione delle normative europee sul piano interno, ((in collaborazione con il DiAG e)) coordinandosi con gli uffici di diretta collaborazione.
 
 ((
 
@@ -147,6 +293,80 @@ Presso il Dipartimento opera la Segreteria tecnica di cui all'articolo 22, comma
 
 ## Art. 6. — ((Direzione generale comunicazione, risorse umane e contenzioso))
 
+1.
+                        
+                            
+                                La Direzione generale (( comunicazione, risorse umane e contenzioso (CORUC) )) svolge le funzioni di competenza del Ministero nei seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinamento dei processi partecipativi, comunque denominati, del Ministero e gestione delle attivita' in tema di accesso civico generalizzato; organizzazione e gestione dell'Ufficio per le relazioni con il pubblico; ((...)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    affari generali, reclutamento e concorsi, riqualificazione ed aggiornamento professionale del personale del Ministero; trattamento giuridico ed economico del personale e dei componenti degli organi collegiali operanti presso il Ministero, tenuta dei ruoli, della matricola e dei fascicoli personali della dirigenza e del personale non dirigenziale; ((...)); supporto al responsabile della prevenzione della corruzione e della trasparenza ai sensi dell'articolo 1 della legge 6 novembre 2012, n. 190; supporto agli uffici di diretta collaborazione del Ministro, ai Dipartimenti e alle direzioni generali per gli adempimenti in materia di trasparenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    politiche e azioni per il benessere organizzativo e la formazione attiva del personale; relazioni sindacali; politiche e azioni per le pari opportunita' nella gestione del personale; organizzazione e gestione dell'Ufficio per il «Comitato unico di garanzia» di cui all'articolo 57 del decreto legislativo 30 marzo 2001, n. 165 e dell'Organismo paritetico per l'innovazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    amministrazione e manutenzione degli spazi del Ministero e relativi impianti ((tecnici)); cura delle sedi del Ministero; ufficio cassa, gestione dei beni patrimoniali e ufficio del consegnatario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgimento, in qualita' di datore di lavoro, di tutte le funzioni connesse alla prevenzione, igiene e sicurezza dei luoghi di lavoro, nonche' alla tutela della salute dei lavoratori secondo quanto previsto dal decreto legislativo 9 aprile 2008, n. 81 e alle attivita' connesse; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gestione del contenzioso relativo al personale; cura dei procedimenti disciplinari per tramite dell'Ufficio per i procedimenti disciplinari di cui all'articolo 55-bis del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    gestione unitaria delle attivita' relative al contenzioso del Ministero nei giudizi civili, penali e amministrativi svolte dai dipartimenti e dalle altre direzioni generali ai sensi dell'articolo 2, comma 9, lettera a), fatto salvo quanto previsto all'articolo 10, comma 1, lettera l-septies) e all'articolo 23, comma 2;
+                                
+                            
+                            
+                                g)
+                                
+                                    gestione dei processi collegati al sistema di misurazione e valutazione della performance organizzativa e individuale e gestione del ciclo della performance, compresa la redazione dei relativi documenti, in funzione di supporto agli Uffici di diretta collaborazione del Ministro e all'Organismo Indipendente di valutazione ((, nonche' elaborazione del Piano integrato di attivita' e organizzazione della pubblica amministrazione (PIAO) di cui all'articolo 6 del decreto-legge 9 giugno 2021, n. 80, convertito, con modificazioni, dalla legge 6 agosto 2021, n. 113)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((fatta eccezione per quanto previsto all'articolo 7, comma 1, lettera g), individuazione del fabbisogno di beni e servizi e gestione unificata dei relativi processi di acquisito)); gestione delle procedure di acquisizione di beni e servizi e lavori, sulla base dei documenti tecnici predisposti dalle direzioni generali interessate che mantengono la competenza per gli atti contabili sui capitoli assegnati e assicurano la partecipazione nelle commissioni di gara. 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    comunicazione istituzionale ed elaborazione del programma delle iniziative di comunicazione ai sensi dell'articolo 11 della legge 7 giugno 2000, n. 150, in coordinamento con gli Uffici di diretta collaborazione del Ministro; promozione, diffusione e aggiornamento, in coordinamento con i dipartimenti e gli Uffici di diretta collaborazione del Ministro, delle informazioni relative alle politiche del Ministero; iniziative e progetti di comunicazione pubblica, anche a valere su fondi europei, tesi a promuovere le politiche, le buone prassi e la cultura ambientale ed energetica.
+
 ## Art. 7. — ((Direzione generale innovazione tecnologica))
 
 La Direzione generale (( innovazione tecnologica (ITEC) )) svolge le funzioni di competenza del Ministero nei seguenti ambiti:  ((a) promozione dell'innovazione tecnologica, digitalizzazione, informatizzazione dei sistemi, organizzazione unificata e condivisa del sistema informativo del Ministero e dei necessari strumenti a presidio della trasparenza amministrativa, della sicurezza informatica, ivi compresi gli aspetti di attuazione della normativa in materia di protezione dei dati personali, digitalizzazione e tracciabilita' dei flussi informativi interni al Ministero, riorganizzazione dei processi, promozione degli open data, coordinamento strategico, pianificazione, progettazione, sviluppo integrato e gestione dell'infrastruttura tecnologica, delle reti informatiche, dei dati e dei servizi web;)) 
@@ -165,7 +385,220 @@ La Direzione generale (( innovazione tecnologica (ITEC) )) svolge le funzioni di
 
 ## Art. 8. — (( Direzione generale affari europei, internazionali e finanza sostenibile (AEIF) ))
 
+1.
+                        
+                            
+                                La Direzione generale (( affari europei, internazionali e finanza sostenibile (AEIF) )) svolge le funzioni di competenza del Ministero nei seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((collaborazione con le competenti direzioni generali ai fini della)) partecipazione del Ministero ai processi di definizione delle politiche e della legislazione europea e collaborazione con le competenti direzioni generali nei processi di definizione e gestione degli accordi internazionali, in raccordo con l'Ufficio di gabinetto; monitoraggio sull'applicazione degli accordi internazionali e della normativa ambientale europea e sul reporting alle istituzioni e agli organismi internazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coordinamento delle attivita' di rilevanza europea delle direzioni generali dei dipartimenti nella partecipazione alla formazione delle politiche e delle decisioni dell'UE e monitoraggio dell'attuazione della normativa europea sul piano interno sulla base delle informative acquisite dagli altri dipartimenti, fatte salve le competenze dell'Ufficio legislativo di cui all'articolo 23, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura dei rapporti con gli organismi internazionali nelle materie di competenza delle direzioni generali afferenti al DiAG e acquisizione dell'informativa con riferimento agli altri organismi internazionali di settore; cura della Convenzione Quadro delle Nazioni Unite sui Cambiamenti Climatici, del Protocollo di Kyoto e della Convenzione sull'inquinamento atmosferico transfrontaliero di Oslo ((e dell'Accordo di Parigi sui cambiamenti climatici)) in raccordo con gli altri dipartimenti; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    coordinamento della partecipazione del Ministero ai processi trasversali G7 e G20, in raccordo con l'Ufficio di gabinetto e con l'Ufficio del Consigliere diplomatico;
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione dei rapporti del Ministero con gli organi istituzionali dell'Unione europea e con le organizzazioni internazionali, con particolare riguardo all'Organizzazione delle Nazioni Unite (ONU), al Consiglio d'Europa, all'Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura (UNESCO), all'Organizzazione per la cooperazione e lo sviluppo economico (OCSE), nonche' attuazione della Convenzione sull'accesso alle informazioni, la partecipazione del pubblico ai processi decisionali e l'accesso alla giustizia in materia ambientale, con due allegati, fatta ad Aarhus il 25 giugno 1998, ratificata e resa esecutiva ai sensi della legge 16 marzo 2001, n. 108; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    supporto al Ministro per la partecipazione al Consiglio dell'Unione europea dei Ministri dell'ambiente, al Comitato interministeriale per gli affari europei (CIAE), nonche', per quanto di competenza del Ministero, per la predisposizione del Programma Nazionale di Riforma (PNR); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    supporto tecnico per la predisposizione dell'allegato al Documento di economia e finanza (DEF) ai sensi dell'articolo 3, comma 5;
+                                
+                            
+                            
+                                g)
+                                
+                                    strategia per lo sviluppo sostenibile in sede nazionale, europea e internazionale, nonche' verifica dell'attuazione della medesima in coerenza con gli Obiettivi di sviluppo sostenibile dell'Agenda 2030 e degli altri strumenti internazionali;
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    programmi e progetti per lo sviluppo sostenibile e Forum per lo sviluppo sostenibile;
+                                
+                            
+                            
+                                h)
+                                
+                                    cura delle iniziative di cooperazione internazionale ambientale ((, ivi comprese quelle relative al Fondo italiano per il clima istituito ai sensi dell'articolo 1, comma 488, della legge 30 dicembre 2021, n. 234)); 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    sviluppo di strumenti per la finanza sostenibile e la green economy; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    promozione delle iniziative e degli interventi in materia di bioeconomia;
+                                
+                            
+                            
+                                i)
+                                
+                                    supporto all'Ufficio legislativo nelle attivita' relative alle procedure d'infrazione e alle fasi di precontenzioso sulla base del supporto istruttorio dei dipartimenti e delle direzioni generali competenti per materia. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    coordinamento della partecipazione del Ministero ai programmi europei a gestione diretta della Commissione europea, con particolare riferimento alla funzione di punto di contatto nazionale del programma europeo per l'ambiente e l'azione per il clima, in collaborazione con i dipartimenti e le direzioni generali competenti per materia.
+
 ## Art. 9. — ((Direzione generale tutela della biodiversita' e del mare))
+
+1.
+                        
+                            
+                                La Direzione generale (( tutela della biodiversita' e del mare (TBM) )) svolge le funzioni di competenza del Ministero nei seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aree protette terrestri, montane e marine, e Rete Natura 2000; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    procedimenti di riconoscimento delle associazioni di protezione ambientale ai sensi dell'articolo 13 della legge 8 luglio 1986, n. 349, verificando periodicamente il mantenimento dei requisiti previsti; 
+
+                                
+                            
+                            
+                                a-ter)
+                                
+                                    progetti e iniziative in materia di educazione ambientale, in collaborazione con la CORUC e la AEIF, rispettivamente per le funzioni di cui all'articolo 6, comma 1, lettera h-bis) e di cui all'articolo 8, comma 1, lettera g);
+                                
+                            
+                            
+                                b)
+                                
+                                    supporto nell'elaborazione delle politiche di tutela per la montagna e per il verde pubblico ai sensi della legge 14 gennaio 2013, n. 10, nonche', per i profili di competenza del Ministero, pianificazione paesaggistica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutela e promozione del capitale naturale, della diversita' bioculturale e della biodiversita' terrestre, montana e marina, anche per quanto concerne la predisposizione e l'aggiornamento della Strategia nazionale per la biodiversita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    salvaguardia degli ecosistemi e delle specie di flora e fauna terrestri e marine con particolare riguardo alla tutela delle foreste e alla gestione sostenibile degli ecosistemi forestali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    biosicurezza e biotecnologie, ed autorizzazioni all'emissione deliberata nell'ambiente di organismi geneticamente modificati (OGM) e all'immissione sul mercato di OGM rispetto agli effetti anche potenziali sugli ecosistemi naturali e sulla biodiversita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    attuazione, per i profili di competenza, delle Convenzioni UNESCO sul patrimonio naturalistico del 1972 e sul patrimonio immateriale del 2003, del Programma MAB (Uomo e Biosfera) e degli altri programmi e accordi internazionali per la tutela, promozione e valorizzazione dei patrimoni naturalistici e delle tradizioni connesse, anche mediante la realizzazione di iniziative di supporto ai territori; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    collaborazione con la ((AEIF)) nella partecipazione alla formazione delle politiche e delle decisioni dell'UE ((nelle materie di competenza; supporto all'Ufficio legislativo nell')); attuazione della normativa europea sul piano interno nelle materie di competenza; cura dei rapporti con gli organismi ((europei e)) internazionali nelle materie di competenza; attuazione della Convenzione sul commercio internazionale delle specie animali e vegetali in via di estinzione (CITES), della Convenzione sulla diversita' biologica (CBD), della Convenzione per la protezione del Mar Mediterraneo, dell'Accordo Pelagos, dell'Accordo per la conservazione dei cetacei nel Mediterraneo, della Convenzione sulla conservazione delle specie migratrici, dando informativa alla ((AEIF)); supporto all'Ufficio legislativo e alla ((AEIF)) nelle attivita' relative alle procedure d'infrazione e alle fasi di precontenzioso curando le attivita' istruttorie nelle materie di competenza; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    supporto nell'elaborazione delle politiche per il mare e le zone umide, gestione integrata della fascia costiera marina, e attuazione della Strategia marina; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    supporto tecnico per la partecipazione al CIPOM ai sensi dell'articolo 3, comma 5;
+                                
+                            
+                            
+                                l)
+                                
+                                    sicurezza in mare con particolare riferimento al rischio di rilascio di inquinanti in ambiente marino, e all'inquinamento marino prodotto dalle attivita' economico-marittime; valutazione degli effetti conseguenti all'esecuzione degli interventi; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    politiche per il contrasto all'inquinamento atmosferico prodotto dalle attivita' marittime e portuali e per la riduzione della CO2, in collaborazione con la ((PIF)); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    promozione della cultura del mare e del patrimonio naturalistico connesso; avvio e sviluppo della marittimita' e portualita' partecipata e sostenibile per i profili di competenza del Ministero; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    vigilanza del patrimonio naturalistico nazionale in ambito terrestre e marino.
 
 Presso la Direzione generale ha sede il Comitato per la sicurezza delle operazioni a mare di cui all'articolo 8, del decreto legislativo 18 agosto 2015, n. 145.
 
@@ -173,9 +606,305 @@ Presso la Direzione generale ha sede il Comitato per la sicurezza delle operazio
 
 Direzione generale economia circolare ((e bonifiche))
 
+1.
+                        
+                            
+                                La Direzione generale economia circolare (( e bonifiche (ECB) )) svolge le funzioni attribuite al Ministero nei seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promozione delle politiche per l'economia circolare ((, inclusa la responsabilita' estesa del produttore (EPR) e la cessazione della qualifica di rifiuto)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione integrata del ciclo dei rifiuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pianificazione, tracciabilita' e vigilanza sul ciclo integrato dei rifiuti, e monitoraggio e vigilanza sull'adozione e attuazione dei piani regionali di gestione dei rifiuti, anche avvalendosi dell'Albo nazionale dei gestori ambientali; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    aggiornamento e monitoraggio dell'attuazione del Piano nazionale di prevenzione dei rifiuti (PNPR) e del Programma nazionale di gestione dei rifiuti (PNGR); 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    vigilanza sui consorzi e sui sistemi autonomi di gestione dei rifiuti;
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    collaborazione con la ((AEIF)) nella partecipazione alla formazione delle politiche e delle decisioni dell'UE; attuazione della normativa europea sul piano interno nelle materie di competenza; cura dei rapporti con gli organismi ((europei e)) internazionali nelle materie di competenza, dando informativa ((AEIF)); supporto all'Ufficio legislativo e alla ((AEIF)) nelle attivita' relative alle procedure d'infrazione e alle fasi di precontenzioso curando le attivita' istruttorie nelle materie di competenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    attivita' inerenti alla protezione delle infrastrutture critiche da minacce fisiche e cibernetiche; nell'ambito delle proprie competenze, supporto alla ((ITEC)) relativamente all'applicazione del decreto legislativo 18 maggio 2018, n. 65, in attuazione della direttiva (UE) 2016/1148 del Parlamento europeo e del Consiglio, del 6 luglio 2016, recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi dell'unione, e successive modificazioni; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    supporto alla ((DEE)) nell'individuazione, per i profili di competenza, di misure per la corretta gestione dei rifiuti radioattivi e del combustile nucleare esaurito derivanti dalla passata stagione di produzione di energia elettrica da fonte nucleare; 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    gestione dei procedimenti di messa in sicurezza e bonifica dei siti di interesse nazionale, anche in coordinamento con le gestioni commissariali dei siti medesimi; gestione del relativo contenzioso, monitoraggio e controllo di interventi; 
+
+                                
+                            
+                            
+                                l-ter)
+                                
+                                    finanziamento degli interventi di messa in sicurezza e bonifica ambientale dei siti orfani; 
+
+                                
+                            
+                            
+                                l-quater)
+                                
+                                    programmazione, monitoraggio e controllo degli interventi di bonifica in materia di amianto; 
+
+                                
+                            
+                            
+                                l-quinquies)
+                                
+                                    definizione dei criteri per l'individuazione dei siti inquinati, per la messa in sicurezza, la caratterizzazione, la bonifica e la riqualificazione dei siti; 
+
+                                
+                            
+                            
+                                l-sexies)
+                                
+                                    titolarita' ed esercizio delle azioni e degli interventi, anche preventivi, in materia di danno ambientale, avvalendosi del supporto dell'ISPRA, nonche' delle informazioni trasmesse dagli uffici territoriali del Governo e dalle altre direzioni generali; 
+
+                                
+                            
+                            
+                                l-septies)
+                                
+                                    gestione dei contenziosi in tema di danno ambientale, monitoraggio sull'affidamento delle azioni di risarcimento e ripristino in sede civile e penale, anche mediante l'adozione di ordinanze per la riparazione; prevenzione e contrasto dei danni ambientali e adozione di programmi di sistemi di indagine e di contrasto a ecomafie in tutto il territorio nazionale; 
+ l-opties) cura degli aspetti connessi alla gestione del geoportale nazionale in termini di servizi all'utenza per le materie di competenza.
+
 ## Art. 11. — ((Direzione generale uso sostenibile del suolo e delle acque))
 
+1.
+                        
+                            
+                                La Direzione generale uso sostenibile del suolo (( e delle acque (USSA) )) svolge le funzioni attribuite al Ministero nei seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione e attuazione delle politiche di prevenzione e mitigazione del rischio idrogeologico, ((ivi incluse quelle di programmazione e finanziamento degli)) interventi diretti a rimuovere le situazioni a piu' elevato rischio idrogeologico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definizione e attuazione delle politiche per l'uso ((sostenibile)) del suolo e per il contrasto alla desertificazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definizione e attuazione delle politiche per l'uso sostenibile delle risorse idriche ((, anche al fine di contrastare gli effetti derivanti dai fenomeni siccitosi)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    supporto, per il tramite dell'Ufficio di Gabinetto, alla partecipazione del Ministro alle ((conferenze istituzionali permanenti delle))
+                                        ((autorita' di bacino distrettuale)); indirizzo e coordinamento dell'attivita' dei rappresentanti del Ministero negli organismi tecnici delle ((autorita' di bacino distrettuale)); monitoraggio e verifica delle attivita' delle ((autorita' di bacino distrettuale)) e delle misure di salvaguardia e dei piani da esse adottati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    definizione dei piani di gestione delle acque e prevenzione del rischio alluvioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' inerenti alla protezione delle infrastrutture critiche ((per la fornitura e la distribuzione dell'acqua potabile)) da minacce fisiche e cibernetiche; nell'ambito delle proprie competenze, supporto alla ((ITEC)) relativamente all'applicazione del decreto legislativo 18 maggio 2018, n. 65; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL. D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL. D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL. D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL. D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL. D.P.C.M. 30 OTTOBRE 2023, N. 180)); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    collaborazione con la ((AEIF)) nella partecipazione alla formazione delle politiche e delle decisioni dell'UE; ((supporto all'Ufficio legislativo nell')) attuazione della normativa europea sul piano interno nelle materie di competenza; cura dei rapporti con gli organismi ((europei e)) internazionali nelle materie di competenza; attuazione della Convenzione Quadro delle Nazioni Unite per lotta alla desertificazione e dei programmi intergovernativi idrogeologici nell'ambito dell'UNESCO e quelli relativi all'acqua, dando informativa alla ((AEIF)); supporto all'Ufficio legislativo e alla ((AEIF)) nelle attivita' relative alle procedure d'infrazione e alle fasi di precontenzioso curando le attivita' istruttorie nelle materie di competenza; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    esercizio delle funzioni di autorita' di gestione dei programmi operativi nazionali, finanziati con il contributo dei fondi strutturali e di investimento europei e nella titolarita' del Ministero, ((nelle materie di competenza)); 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    cura degli aspetti connessi alla gestione del geoportale nazionale in termini di servizi all'utenza ((per le materie di competenza)).
+
 ## Art. 12. — Direzione generale valutazioni ambientali
+
+1.
+                        
+                            
+                                La Direzione generale valutazioni ambientali (VA) svolge le funzioni attribuite al Ministero nei seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' connesse a situazioni a rischio di incidente rilevante, per quanto di competenza del Ministero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concertazione di piani e programmi di settore, di competenza di altre amministrazioni a carattere nazionale, regionale e locale, con rilevanza di impatto ambientale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gestione delle procedure di valutazione di impatto ambientale e di valutazione ambientale strategica, e autorizzazione integrata ambientale (VIA, VAS e AIA), avvalendosi delle rispettive commissioni; autorizzazioni alla movimentazione di fondali marini per attivita' ed opere sottoposte a VIA statale nonche' ((autorizzazioni)) agli scarichi in mare da piattaforma; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    collaborazione con la ((AEIF)) nella partecipazione alla formazione delle politiche e delle decisioni dell'UE; ((supporto all'Ufficio legislativo nell')) attuazione della normativa europea sul piano interno nelle materie di competenza; cura dei rapporti con gli organismi internazionali nelle materie di competenza, dando informativa alla ((AEIF)); supporto all'Ufficio legislativo e alla ((AEIF)) nelle attivita' relative alle procedure d'infrazione e alle fasi di precontenzioso curando le attivita' istruttorie nelle materie di competenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prevenzione e protezione dall'inquinamento acustico e da campi elettromagnetici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    prevenzione e protezione da radiazioni ionizzanti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.P.C.M. 30 OTTOBRE 2023, N. 180)).
 
 ## Art. 12-bis. — (( (Direzione generale sostenibilita' dei prodotti e dei consumi). ))
 
@@ -183,15 +912,398 @@ Direzione generale economia circolare ((e bonifiche))
 
 ((
 
+1.
+                        
+                            
+                                La Direzione generale fonti energetiche e titoli abilitativi (FTA) svolge le funzioni di competenza del Ministero nei seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione e attuazione del Piano nazionale integrato energia e clima (PNIEC), in coordinamento con la MIE, la DEE e la PIF, per gli aspetti relativi: 
+ 1) alla gestione e allo sviluppo delle fonti primarie di energia convenzionale, rinnovabile e nucleare; 
+ 2) alla diversificazione delle fonti e delle tecnologie energetiche e geominerarie; 
+ 3) alla tutela e alla promozione delle filiere tecnologiche nazionali o importate, con particolare riferimento alle filiere relative a materie prime critiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutela dell'integrita' delle filiere energetiche, nonche' sviluppo minerario nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autorizzazioni in materia di infrastrutture a mezzo di reti energetiche per la trasmissione, il trasporto e la distribuzione dell'energia di competenza statale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    autorizzazioni per impianti di produzione di energia da qualunque fonte primaria, anche rinnovabile, di competenza statale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    concessioni di trasmissione, trasporto, dispacciamento e distribuzione dell'energia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sicurezza degli approvvigionamenti con riferimento alla diversificazione delle fonti primarie di origine nazionale, anche off-shore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    scorte energetiche strategiche, piani di sicurezza energetica con altri Stati membri; piani di emergenza e di intervento in caso di crisi del sistema energetico, fermo restando quanto previsto all'articolo 5, comma 7; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    autorizzazioni relative agli stoccaggi di gas metano, alla cattura, al trasporto e allo stoccaggio di CO2 nel sottosuolo, nonche' alla adduzione del gas naturale liquefatto (GNL); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    impianti strategici di lavorazione e depositi dei prodotti petroliferi, ivi inclusa la logistica primaria dei prodotti medesimi, e dei carburanti alternativi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    relazioni, per le materie di competenza, con le associazioni e le imprese dei settori di competenza, i concessionari di servizio pubblico, l'Autorita' di regolazione per energia reti e ambiente, l'Autorita' garante della concorrenza e del mercato, il Gestore dei servizi energetici - GSE S.p.A., Acquirente Unico S.p.A., Ricerca sul sistema elettrico - RSE S.p.A., nonche' con le istituzioni e gli enti nazionali ed europei di settore; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    rapporti con le amministrazioni statali, le regioni e gli enti locali per assicurare sull'intero territorio nazionale l'esercizio omogeneo delle funzioni amministrative, la semplificazione amministrativa e l'omogeneita' nei livelli essenziali delle forniture, anche mediante la stipula di intese e accordi; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    statistiche, cartografie, analisi e previsioni sul settore energetico e delle risorse minerarie; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    collaborazione con la AEIF nella partecipazione alla formazione delle politiche e delle decisioni dell'UE; attuazione della normativa europea sul piano interno nelle materie di competenza; supporto all'Ufficio legislativo e alla AEIF nelle attivita' relative alle procedure d'infrazione e alle fasi di precontenzioso curando le attivita' istruttorie nelle materie di competenza; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    cura dei rapporti con le organizzazioni e gli organismi internazionali, nonche' con le amministrazioni di altri Stati nei propri settori di attivita', in coordinamento con la MIE, la DEE e la PIF, e rapporti multilaterali con organizzazioni internazionali e agenzie nel settore energetico e delle materie prime; promozione di tecnologie energetiche italiane all'estero; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    nuove tecnologie sostenibili nel settore minerario e per l'utilizzo e il riciclo delle materie prime; decommissioning degli impianti e riuso dei medesimi per tecnologie energetiche sostenibili; partecipazione, per gli aspetti di competenza, ai processi di pianificazione dell'uso del mare; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    funzioni e compiti di Ufficio nazionale minerario per gli idrocarburi e le georisorse nella sua articolazione centrale e periferica, nelle attivita' di prospezione, ricerca, coltivazione e stoccaggio di gas nel sottosuolo, in terraferma e in mare; programmazione, autorizzazione, verifica e controllo delle predette attivita' ai fini della sicurezza dei lavoratori e dell'ambiente; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    normativa tecnica per gli impianti di produzione, trasporto e stoccaggio degli idrocarburi e per la sicurezza mineraria; rilascio dei titoli minerari per le attivita' di prospezione, ricerca e coltivazione di idrocarburi; redazione e attuazione delle pianificazioni per la transizione energetica per la sostenibilita' delle attivita' di ricerca e produzione di idrocarburi; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    servizi tecnici di geomonitoraggio, di analisi e di sperimentazione; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    funzioni e compiti di ufficio unico per gli espropri in materia di energia; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    adempimenti ed elaborazione dati connessi ai versamenti delle aliquote di prodotto e accordi con le regioni per l'utilizzazione delle royalties a favore dei territori; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    supporto tecnico, per quanto di competenza, alle decisioni in materia di poteri speciali sugli assetti societari, nonche' per le attivita' di rilevanza strategica di cui al decreto-legge 15 marzo 2012, n. 21, convertito, con modificazioni, dalla legge 11 maggio 2012, n. 56.
+
 ## Art. 13-bis. — (( (Direzione generale mercati e infrastrutture energetiche). ))
 
 ((
+
+1.
+                        
+                            
+                                La Direzione generale mercati e infrastrutture energetiche (MIE) svolge le funzioni di competenza del Ministero, anche in materia di sviluppo e promozione non finanziaria degli investimenti in decarbonizzazione e in sicurezza energetica, nei seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione e attuazione del PNIEC, in coordinamento con la FTA, la DEE e la PIF, relativamente: 
+ 1) alla gestione e allo sviluppo di vettori energetici, ivi incluso il gas naturale; 
+ 2) al coordinamento dei vettori energetici di cui al numero 1) con le fonti primarie di energia; 
+ 3) alla diversificazione dei vettori energetici di cui al numero 1) e alla integrazione dei medesimi nel sistema energetico; 
+ 4) allo sviluppo delle infrastrutture nell'ottica della promozione di investimenti in decarbonizzazione, sicurezza ed economicita' dei prezzi delle energie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fatto salvo quanto previsto all'articolo 13, sviluppo delle reti energetiche di trasmissione, trasporto e distribuzione dell'energia, ivi inclusa la approvazione dei piani decennali di sviluppo delle reti e l'integrazione dei sistemi energetici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fatto salvo quanto previsto all'articolo 13, lettera f), sicurezza degli approvvigionamenti; diversificazione delle infrastrutture di approvvigionamento dall'estero di energia; attivita' inerenti la protezione delle infrastrutture critiche energetiche da minacce fisiche e cibernetiche; supporto alla ITEC relativamente all'applicazione del decreto legislativo 18 maggio 2018, n. 65; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    strumenti di mercato per la promozione delle fonti rinnovabili come vettori energetici; sviluppo dei sistemi energetici distribuiti, dell'autoproduzione e della partecipazione attiva della domanda al mercato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    produzione, trasporto e stoccaggio di idrogeno e relativi sistemi incentivanti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    produzione, trasporto e stoccaggio di gas verdi, incluso il biometano; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    mercato all'ingrosso dell'energia elettrica e del gas e mercato dei prodotti petroliferi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    misure per l'approvvigionamento, anche a termine, delle risorse funzionali alla sicurezza e all'adeguatezza dei sistemi energetici, ivi inclusi i sistemi di accumulo dell'energia; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    in collaborazione con la DEE, integrazione negli usi finali delle energie secondarie nell'ottica del conseguimento degli obiettivi di decarbonizzazione, anche con riferimento ai settori hard-to-abate e alla mobilita' pesante terrestre, marittima e dell'aviazione civile; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    monitoraggio dei prezzi all'ingrosso dell'energia elettrica e del gas e dei prezzi dei prodotti petroliferi; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    politiche e strumenti di riduzione della CO2, ivi compresa la disciplina delle attivita' di cattura, trasporto e stoccaggio della CO2; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    analisi, monitoraggio e studi nei settori di competenza; relazioni con organizzazioni, istituti ed enti di ricerca operanti nei settori di competenza; promozione e gestione di accordi con i medesimi soggetti, stipulati in coordinamento con il DiAG; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    relazioni, per le materie di competenza, con associazioni e imprese, i concessionari di servizio pubblico, l'Autorita' di regolazione per energia reti e ambiente, l'Autorita' garante della concorrenza e del mercato, nonche' con le istituzioni e gli enti europei di settore; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    rapporti con il Gestore dei servizi energetici - GSE S.p.A., il Gestore dei mercati energetici - GME S.p.A., Acquirente Unico S.p.A. e Ricerca sul sistema energetico - RSE S.p.A.; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    promozione, nelle materie di competenza, di intese e accordi con le amministrazioni statali, le regioni e gli enti locali per assicurare su tutto il territorio nazionale l'esercizio omogeneo delle funzioni amministrative negli ambiti di mercato, la semplificazione amministrativa e l'omogeneita' nei livelli essenziali delle forniture; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    relazioni con le organizzazioni europee e internazionali e con le amministrazioni di altri Stati nei propri settori di attivita' in coordinamento con la FTA, la DEE e la PIF; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    collaborazione con la AEIF nella partecipazione alla formazione delle politiche e delle decisioni dell'UE; attuazione della normativa europea sul piano interno nelle materie di competenza; supporto all'Ufficio legislativo e alla AEIF nelle attivita' relative alle procedure d'infrazione e alle fasi di precontenzioso curando le attivita' istruttorie nelle materie di competenza.
 
 2. Presso la direzione generale operano il Comitato di emergenza e monitoraggio del sistema del gas istituito ai sensi del decreto del Ministro delle attivita' produttive 26 settembre 2001, pubblicato nella Gazzetta Ufficiale n. 235 del 9 ottobre 2001, in qualita' di organo tecnico consultivo, il Comitato per l'emergenza petrolifera di cui al decreto legislativo 31 dicembre 2012, n. 249 e la Commissione per gli idrocarburi e le risorse minerarie istituita con decreto del Presidente della Repubblica 14 maggio 2007, n. 78))
 
 ## Art. 14. — (( (Direzione generale domanda ed efficienza energetica). ))
 
 ((
+
+1.
+                        
+                            
+                                La Direzione generale domanda ed efficienza energetica (DEE) svolge le funzioni di competenza del Ministero nei seguenti ambiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione e attuazione del PNIEC, in coordinamento con la FTA, la MIE e la PIF, relativamente alla gestione e allo sviluppo degli usi finali nei settori industriale, terziario, agricolo e civile e alla diversificazione delle tecnologie nei predetti settori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mobilita' sostenibile; mobilita' elettrica e carburanti alternativi, ivi compresi biocarburanti ed e-fuel; gas naturale liquefatto (GNL) nei trasporti marittimi e terrestri pesanti, rete di distribuzione dei carburanti in rapporto alle esigenze di mobilita' sostenibile, infrastrutture di ricarica elettrica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    efficienza energetica in tutti i settori di impiego e sistemi di qualificazione e normazione tecnica finalizzati all'uso efficiente dell'energia; incentivazione, anche di livello europeo, per il risparmio e l'efficienza energetica; etichettatura energetica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    misure di incentivazione per l'efficienza energetica a finanziamento statale e gestione del Fondo nazionale per l'efficienza energetica di cui all'articolo 15 del decreto legislativo 4 luglio 2014, n. 102; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mercato al dettaglio di energia elettrica e gas, nonche' monitoraggio e affordability dei relativi prezzi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    misure di tutela dei consumatori energetici, in collaborazione con le altre amministrazioni competenti, e misure di contrasto alla poverta' energetica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gestione e trasporto dei materiali radioattivi, indirizzi e monitoraggio sul programma di smantellamento degli impianti nucleari dismessi e deposito nazionale dei rifiuti nucleari; individuazione, in raccordo con le amministrazioni competenti e in collaborazione con la ECB, di misure per la corretta gestione dei rifiuti radioattivi e del combustile nucleare esaurito derivanti dalla passata stagione di produzione di energia elettrica da fonte nucleare, in attuazione del relativo Programma nazionale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    promozione e gestione di accordi e di intese per la partecipazione a progetti di cooperazione e di ricerca europei e internazionali finalizzati alla sicurezza, alla salvaguardia e alla non proliferazione nucleare e allo sviluppo tecnologico; osservatorio sulle tecnologie nucleari; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    analisi, monitoraggio e studi nei settori di competenza; relazioni con organizzazioni, istituti ed enti di ricerca operanti nei settori di competenza; promozione e gestione di accordi con i medesimi soggetti, stipulati in coordinamento con il DiAG; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    cura e sviluppo delle relazioni istituzionali, per le materie di competenza, con associazioni e imprese, con l'Autorita' di regolazione per energia reti e ambiente, l'Autorita' garante della concorrenza e del mercato, nonche' con le istituzioni e gli enti europei di settore; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    rapporti, per quanto di competenza, con il Gestore dei servizi energetici - GSE S.p.A., il Gestore dei mercati energetici - GME S.p.A., Acquirente Unico S.p.A., Ricerca sul sistema elettrico - RSE S.p.A., l'Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile - ENEA, nonche' con la Societa' gestione impianti nucleari - Sogin S.p.A.; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    promozione, nelle materie di competenza, di intese e accordi con le amministrazioni statali, le regioni e gli enti locali per assicurare su tutto il territorio nazionale l'esercizio omogeneo delle funzioni amministrative negli ambiti di mercato, la semplificazione amministrativa e l'omogeneita' dei livelli essenziali delle forniture; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    relazioni con le organizzazioni europee e internazionali e con le amministrazioni di altri Stati nei propri settori di attivita' in coordinamento con la FTA, la MIE e la PIF; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    collaborazione con la AEIF nella partecipazione alla formazione delle politiche e delle decisioni dell'UE; attuazione della normativa europea sul piano interno nelle materie di competenza; supporto all'Ufficio legislativo e alla AEIF nelle attivita' relative alle procedure d'infrazione e alle fasi di precontenzioso curando le attivita' istruttorie nelle materie di competenza.
 
 Presso la direzione generale operano il Comitato tecnico per la ristrutturazione della rete di distribuzione di carburanti di cui all'articolo 1, comma 100, della legge 4 agosto 2017, n. 124, e il Comitato tecnico consultivo biocarburanti istituito ai sensi dell'articolo 33, comma 5-sexies, del decreto legislativo 3 marzo 2011, n. 28.
 
@@ -278,6 +1390,66 @@ Agli oneri per il funzionamento dell'Organismo si provvede nei limiti delle riso
 ## Art. 21. — Uffici di diretta collaborazione del Ministro
 
 Gli Uffici di diretta collaborazione esercitano i compiti di supporto all'organo di direzione politica e di raccordo tra questo e le altre strutture dell'amministrazione, collaborando alla definizione degli obiettivi, alla elaborazione delle politiche pubbliche, alla relativa valutazione ed alle connesse attivita' di comunicazione, con particolare riguardo all'analisi di impatto normativo, all'analisi costi-benefici ed alla congruenza fra obiettivi e risultati.
+
+2.
+                        
+                            
+                                Sono Uffici di diretta collaborazione del Ministro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'Ufficio di gabinetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'Ufficio legislativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la Segreteria del Ministro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la Segreteria particolare del Ministro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la Segreteria tecnica del Ministro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'Ufficio del Consigliere diplomatico; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'Ufficio stampa e comunicazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le Segreterie del Vice Ministro, ove nominato, e dei Sottosegretari di Stato;
 
 Al fine di assicurare il coordinato svolgimento dei rispettivi compiti, e' istituito il Comitato di gabinetto, coordinato dal Capo di gabinetto e a cui prendono parte i responsabili degli Uffici di diretta collaborazione del Ministro di cui alle lettere da b) a g) del comma 2.
 

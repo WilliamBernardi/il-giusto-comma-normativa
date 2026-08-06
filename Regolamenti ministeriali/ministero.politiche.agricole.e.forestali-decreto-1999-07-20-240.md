@@ -8,8 +8,8 @@ codice_redazionale: 099G0316
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,11 +32,111 @@ In deroga a quanto previsto dal decreto del Ministro delle risorse agricole, ali
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Le piantine di fragole di cui all'articolo 1, da destinare solo alla produzione di frutta, sono:
+ 
+                        
+                        
+                            a)
+                            
+                                ottenute esclusivamente da piante madri certificate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                coltivate su superfici:
+ I) situate in una zona isolata da quelle di produzione delle fragole destinate alla vendita;
+ II) situate ad almeno 1 km dalla piu' vicina piantagione di fragole per la produzione di frutta o di stoloni e che non soddisfa le condizioni del presente regolamento;
+ III) situate ad almeno 200 m da qualsiasi altra piantagione del genere Fragaria che non soddisfa le condizioni del presente regolamento;
+ IV) che, prima dell'impianto e nel periodo successivo alla rimozione della coltura precedente, sono state analizzate con metodi appropriati o trattate per garantire che siano indenni da organismi nocivi del suolo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ufficialmente ispezionate dal servizio fitosanitario dell'Argentina almeno tre volte durante la stagione di crescita e prima dell'esportazione per individuare l'eventuale presenza di organismi nocivi elencati nella parte A degli allegati I e II del decreto ministeriale 31 gennaio 1996 e di qualsiasi altro organismo nocivo la cui presenza non e' nota nella Comunita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                risultate indenni, all'atto delle ispezioni, da organismi nocivi di cui alla lettera c);
+
+                            
+                        
+                        
+                            e)
+                            
+                                prive di qualsiasi residuo di terra o di vegetali, nonche' di fiori e di frutti.
+
 ## Art. 3.
 
 Le piantine sono accompagnate dal certificato fitosanitario, previe idonee ispezioni al fine di verificare il rispetto dei requisiti previsti dal presente regolamento e dal decreto ministeriale 31 gennaio 1996.
 
+2.
+                    
+                        
+                            Detto certificato contiene:
+ 
+                        
+                        
+                            a)
+                            
+                                le indicazioni dettagliate sull'ultimo o sugli ultimi trattamenti prima dell'esportazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la dichiarazione supplementare che "la partita di piantine di fragole e' conforme ai requisiti previsti dal presente regolamento";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il nome della varieta' e il programma di certificazione nel cui ambito le piante madri sono state certificate.
+
 ## Art. 4.
+
+1.
+                    
+                        
+                            L'importazione delle piantine di fragole e' soggetta all'autorizzazione del Ministero per le politiche agricole a seguito di apposita richiesta in cui sono specificati:
+ 
+                        
+                        
+                            a)
+                            
+                                il tipo di materiale e il quantitativo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data d'importazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il punto di entrata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i nomi e gli indirizzi delle aziende dove verranno messe a dimora le piantine.
 
 I servizi fitosanitari regionali effettuano le ispezioni dovute e verificano che le piantine sono piantate esclusivamente nelle aziende segnalate.
 
@@ -45,4 +145,29 @@ I servizi fitosanitari regionali effettuano le ispezioni dovute e verificano che
 Il Ministero per le politiche agricole, nell'autorizzare l'importazione delle piantine di fragole, provvede ad impartire ai servizi fitosanitari regionali competenti per territorio le istruzioni relative all'effettuazione delle analisi di laboratorio e delle ispezioni in campo.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            I servizi fitosanitari regionali inviano al servizio fitosanitario centrale entro il 1 ottobre di ogni anno:
+ 
+                        
+                        
+                            a)
+                            
+                                le informazioni relative ai quantitativi importati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una relazione tecnica dettagliata sui controlli ufficiali effettuati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                copia dei certificati fitosanitari rilasciati dalle autorita' fitosanitarie dell'Argentina.
 

@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -47,6 +47,41 @@ i) il trattamento termico adottato ai sensi del precedente art. 3 con la menzion
 Le indicazioni di cui alle lettere a), b), d) ed f) comma 1 devono figurare nello stesso campo visivo.
 
 Nel caso di prodotti di peso inferiore a 20 grammi per unita' confezionati in imballaggi globali e che non siano singolarmente commercializzati al dettaglio, le indicazioni di cui alle lettere da b) ad i) del comma 1 possono figurare solo sull'imballagio globale.
+
+4.
+                    
+                        
+                            I prodotti di cui al presente decreto, non destinati al consumatore finale, devono riportare sugli imballaggi, sui recipienti o sulle etichette apposte sui medesimi, le seguenti menzioni:
+
+                        
+                        
+                            a)
+                            
+                                la denominazione di vendita loro attribuita dall'allegato;
+                            
+                        
+                        
+                            b)
+                            
+                                la quantita' nominale;
+                            
+                        
+                        
+                            c)
+                            
+                                il nome o la ragione sociale o il marchio depositato e l'indirizzo o la sede sociale del fabbricante o del confezionatore o di un venditore stabilito nella Comunita' economica europea;
+                            
+                        
+                        
+                            d)
+                            
+                                la data di fabbricazione ovvero un'indicazione che consenta di identificare il loto;
+                            
+                        
+                        
+                            e)
+                            
+                                il paese d'origine per i prodotti provenienti dai paesi non facenti parte della Comunita' economica europea.
 
 Le menzioni di cui alle lettere b) ed e) del comma 4 possono figurare solo sui documenti di accompagnamento".
  2. Ai sensi dell'art. 1 della direttiva n. 83/635/CEE il primo comma dell'art. 9 del decreto del Presidente della Repubblica 10 maggio 1982, n. 514, e' sostituito dal seguente:

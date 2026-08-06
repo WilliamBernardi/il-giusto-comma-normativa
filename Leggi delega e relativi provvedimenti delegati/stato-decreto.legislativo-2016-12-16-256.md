@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-12-16;256
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -109,6 +109,33 @@ Al decreto legislativo 25 gennaio 2010, n. 16, come modificato dal presente decr
 ## Art. 6.
 
 Misure tecniche in materia di etichettatura, di notifica di reazioni ed eventi avversi gravi, di dati minimi da conservare ai fini della tracciabilita' e di struttura del codice unico europeo
+
+1.
+                    
+                        
+                            All'allegato VI, parte E, del decreto legislativo 25 gennaio 2010, n. 16, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 1, dopo la lettera f), e' inserita la seguente: 
+ «g) codice unico europeo applicabile ai tessuti e alle cellule distribuiti a fini di applicazioni sull'uomo o sequenza d'identificazione della donazione applicabile ai tessuti e alle cellule rilasciati per la circolazione, non distribuiti a fini di applicazioni sull'uomo»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 1, le parole da: «Se alcune» fino a: «restino uniti», sono sostituite dalle seguenti: «Se alcune delle informazioni di cui alle lettere d), e) e g) non possono essere incluse nell'etichetta del contenitore primario, sono tuttavia fornite su un foglio separato ad esso allegato. Tale foglio e' imballato insieme al contenitore primario in modo da garantire che restino uniti»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al punto 2, dopo la lettera i), e' inserita la seguente: 
+ «l) per i tessuti e le cellule importati, paese di approvvigionamento e paese esportatore (se differente dal paese di approvvigionamento).»;
 
 Gli allegati VII, VIII, X e XI al decreto legislativo 25 gennaio 2010, n. 16, e successive modificazioni, sono sostituti dagli allegati VII, VIII, X e XI di cui dall'allegato I al presente decreto.
 

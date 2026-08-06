@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2011-09-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,11 +26,121 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "Fondo", il Fondo nazionale di garanzia di cui all'articolo 62, comma 1, del decreto legislativo 23 luglio 1996, n. 415;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "decreto legislativo", il decreto legislativo 23 luglio 1996, n. 415;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "decreto ministeriale", il decreto ministeriale 30 settembre 1991, pubblicato nella Gazzetta Ufficiale n. 232 del 3 ottobre 1991, come modificato dal decreto ministeriale 25 marzo 1992, pubblicato nella Gazzetta Ufficiale n. 77 del 1 aprile 1992;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "regolamento", il regolamento previsto dall'articolo 35, comma 2, del decreto legislativo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "intermediari", le banche italiane, le societa' di intermediazione mobiliare, le societa' fiduciarie, gli agenti di cambio, gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 107 del testo unico bancario di cui al decreto legislativo 11 settembre 1993, n. 385, e successive modificazioni, le banche estere e le imprese di investimento comunitarie ed extracomunitarie definite dall'art. 1, comma 5, lettere e) ed f), del decreto legislativo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "insolvenze pregresse", le insolvenze di intermediari il cui stato passivo sia stato depositato e reso esecutivo prima dell'entrata in vigore del regolamento definito dalla lettera d).
+
 ## Art. 2. — Istituzione della gestione speciale
 
 La gestione speciale, istituita dall'articolo 62, comma 4, del decreto legislativo con lo scopo di assicurare la copertura finanziaria degli indennizzi dovuti dal Fondo relativi alle insolvenze pregresse, e' attribuita al Fondo medesimo.
 
 Ai fini degli adempimenti di cui al comma 1, il Fondo approva il rendiconto alla data del proprio adeguamento al regolamento e da tale data inizia la gestione speciale con contabilizzazione separata.
+
+3.
+                    
+                        
+                            Nella gestione speciale, alla data prevista dal comma 2, confluiscono:
+ 
+                        
+                        
+                            a)
+                            
+                                le somme imputate alla sezione A e B del Fondo di cui all'articolo 4 del decreto ministeriale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le somme imputate alla sezione D del Fondo, relative agli indennizzi pagati o impegnati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i crediti nei confronti delle procedure concorsuali per gli indennizzi pagati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i crediti del Fondo nei confronti dei propri aderenti per i contributi a loro carico maturati e non versati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le somme riscosse a seguito dell'esercizio del diritto di surroga relativo agli indennizzi pagati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le attivita' in cui sono investite le somme di cui alle lettere a), b) ed e).
+
+4.
+                    
+                        
+                            Confluiscono successivamente alla gestione speciale:
+ 
+                        
+                        
+                            a)
+                            
+                                le "quote variabili" del contributo annuale relative all'esercizio 1997 e precedenti, versate in applicazione dell'articolo 3 del decreto ministeriale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le somme successivamente riscosse a seguito dell'esercizio del diritto di surroga relativo agli indennizzi pagati.
 
 Le residue disponibilita' trasferite al Fondo ai sensi dell'articolo 2, comma 1, del decreto del Ministro del tesoro 25 marzo 1992, iscritte nella sezione B, sono utilizzate per la contribuzione prevista dall'articolo 4, comma 5, a carico delle societa' di intermediazione mobiliare titolari delle disponibilita' stesse.
 

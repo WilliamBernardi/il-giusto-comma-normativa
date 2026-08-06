@@ -8,8 +8,8 @@ codice_redazionale: 097G0454
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,9 +30,87 @@ L'autorizzazione a gestire gli speciali depositi I.V.A., di cui all'articolo 50-
 
 ## Art. 2. — Rilascio dell'autorizzazione
 
+1.
+                    
+                        
+                            L'autorizzazione a gestire speciali depositi I.V.A. di cui all'articolo 1 del presente regolamento puo' essere rilasciata ai soggetti interessati se questi:
+ 
+                        
+                        
+                            a)
+                            
+                                non sono sottoposti a procedimento penale per reati finanziari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non hanno riportato condanne per reati di cui alla precedente lettera a);
+
+                            
+                        
+                        
+                            c)
+                            
+                                non hanno commesso violazioni gravi e ripetute, per loro natura od entita', alle disposizioni che disciplinano l'imposta sul valore aggiunto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non sono sottoposti a procedure fallimentari, di concordato preventivo, di amministrazione controllata, ne' si trovano in stato di liquidazione.
+
 Per le societa' e gli enti i requisiti di cui al comma 1, lettere a), b) e c), del presente articolo, sussistono nei confronti dei legali rappresentanti degli stessi.
 
 Ai fini dell'ottenimento dell'autorizzazione le societa' e gli enti indicati nell'articolo 50-bis, comma 2, quarto periodo, del decreto-legge n. 331 del 1993, comprovano la disponibilita' di idonei locali per la custodia dei beni loro affidati.
+
+4.
+                    
+                        
+                            L'istanza e' corredata da:
+ 
+                        
+                        
+                            a)
+                            
+                                certificato di iscrizione nel registro delle camere di commercio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificato dei carichi pendenti rilasciato dai competenti organi dell'autorita' giudiziaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificato generale del casellario giudiziale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificato rilasciato dalla cancelleria del tribunale competente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                certificato dal quale risulta che non sono state applicate misure di prevenzione ai sensi della legge 31 maggio 1965, n. 575;
+
+                            
+                        
+                        
+                            f)
+                            
+                                certificazione antimafia di cui al decreto legislativo 8 agosto 1994, n. 490.
 
 Resta salva l'applicazione delle disposizioni relative alla semplificazione delle norme sulla documentazione amministrativa di cui all'articolo 1, della legge 15 maggio 1997, n. 127.
 
@@ -41,6 +119,45 @@ La determinazione e' adottata dalle competenti Direzioni delle entrate di cui al
 L'autorizzazione e' in ogni caso revocata dalla direzione delle entrate che ha provveduto al rilascio, se interviene condanna definitiva per reati finanziari ovvero sono accertate violazioni di cui alla lettera c) del comma 1 del presente articolo o gravi irregolarita' nella gestione del deposito.
 
 ## Art. 3. — Tenuta del registro
+
+1.
+                    
+                        
+                            Il registro relativo alla movimentazione dei beni custoditi nel deposito I.V.A., di cui all'articolo 50-bis, comma 3, del decreto-legge n. 331 del 1993, e' tenuto in conformita' all'articolo 39 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633. Dallo stesso registro devono risultare:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero e la specie dei colli;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la natura, la qualita' e la quantita' dei beni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il corrispettivo o, in mancanza, il valore normale dei beni stessi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il luogo di provenienza e di destinazione dei beni di volta in volta introdotti e di quelli usciti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il soggetto per conto del quale l'introduzione o l'estrazione dei beni e' effettuata.
 
 Il gestore del deposito puo' avvalersi, nella tenuta della contabilita', di sistemi informatici.
 

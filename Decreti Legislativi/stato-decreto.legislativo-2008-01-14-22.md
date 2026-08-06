@@ -8,8 +8,8 @@ codice_redazionale: 008G0031
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,9 +33,94 @@ Fermo restando quanto previsto per i percorsi in alternanza scuola-lavoro dal de
 
 ## Art. 2. — Criteri generali
 
+1.
+                    
+                        
+                            Le azioni di orientamento di cui all'articolo 1, che si realizzano soprattutto attraverso le iniziative di raccordo tra scuola e mondo delle professioni e del lavoro e un organico collegamento con gli enti territoriali, costituiscono indispensabili strumenti per contribuire alla costruzione di percorsi personalizzati, in vista della transizione verso il lavoro, basati sul collegamento sistematico tra la formazione in aula con quella in laboratorio e in contesti di lavoro. Tali interventi, progettati nell'ambito del Piano dell'offerta formativa di ogni singola istituzione scolastica, nel quadro complessivo della programmazione territoriale e dei piani di orientamento delle province sono definiti e gestiti in relazione ai seguenti criteri generali:
+ 
+                        
+                        
+                            a)
+                            
+                                si riferiscono agli obiettivi di apprendimento generali e specifici dei singoli curricula e concorrono a migliorare la preparazione degli studenti, con particolare riferimento all'ordine e all'indirizzo degli studi della scuola che frequentano;
+
+                            
+                        
+                        
+                            b)
+                            
+                                interessano gli studenti dell'ultimo anno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono sostenuti soprattutto da intese e convenzioni con associazioni, collegi professionali, enti ed imprese e sono progettati, sotto la responsabilita' delle istituzioni scolastiche, con il concorso dei predetti soggetti del mondo del lavoro e delle professioni; in fase di progettazione sono individuate le metodologie didattiche e le modalita' organizzative con particolare riferimento all'apprendimento in laboratorio e in contesti di lavoro, nonche' i criteri e gli strumenti di attuazione, di valutazione, di monitoraggio e di certificazione delle competenze con riferimento alle indicazioni nazionali in materia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tengono conto contestualmente delle vocazioni degli studenti e dei fabbisogni formativi del mondo del lavoro e delle professioni, coniugando le attitudini e le aspirazioni professionali degli studenti e le specifiche professionalita' richieste dal mercato del lavoro, tenendo conto anche della valorizzazione delle differenze di genere e delle pari opportunita';
+
+                            
+                        
+                        
+                            e)
+                            
+                                sono costruiti con particolare riferimento all'evoluzione dei settori produttivi e dei servizi, ivi compresi quelli delle pubbliche amministrazioni, a livello locale, nazionale e dell'Unione europea; a tale fine le istituzioni scolastiche individuano, mediante opportuni raccordi con le agenzie preposte, i fabbisogni formativi e occupazionali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                sono coerenti con una organizzazione didattica delle discipline di studio in grado di sollecitare lo studente a individuare interessi e predisposizioni specifiche, cosi' da favorire le sue scelte autonome e consapevoli per la costruzione e realizzazione del proprio progetto di vita personale e professionale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                valorizzano e diffondono azioni di orientamento ed esperienze di alternanza finalizzate alle professioni e al lavoro, di comprovata validita' metodologica, che abbiano dato risultati di qualita'; non costituiscono in alcun modo un rapporto di lavoro, anche se prevedono momenti di apprendimento in contesti di lavoro che abbiano sempre carattere formativo.
+
 I soggetti di cui all'articolo 3 che concorrono alla realizzazione delle azioni di cui al comma 1 in contesti di lavoro, d'intesa con le istituzioni scolastiche, assicurano il rispetto delle norme vigenti in materia di sicurezza nei luoghi di lavoro.
 
 ## Art. 3. — Soggetti coinvolti
+
+1.
+                    
+                        
+                            Nell'ambito della programmazione dell'offerta formativa delle regioni e dei servizi di orientamento degli enti locali, le istituzioni scolastiche predispongono azioni di orientamento in collaborazione con:
+ 
+                        
+                        
+                            a)
+                            
+                                i centri territoriali per l'impiego;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le strutture formative accreditate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le aziende, imprese, cooperative, amministrazioni pubbliche, comunita', enti ed associazioni di volontariato ecc;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli organismi competenti ai sensi dell'articolo 6 della legge 12 marzo 1999, n. 68, in materia di inserimento lavorativo delle persone con disabilita'.
 
 Ai fini di cui al comma 1, le istituzioni scolastiche tengono conto anche dei servizi offerti dalla Borsa continua nazionale del lavoro di cui all'articolo 15 del decreto legislativo 10 settembre 2003, n. 276.
 

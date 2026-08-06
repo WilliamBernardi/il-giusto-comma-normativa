@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2017-07-14;125
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,80 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, sono adottate le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Ministero»: il Ministero delle infrastrutture e dei trasporti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «soggetto gestore»: la Societa' Rete Autostrade Mediterranee S.p.A., soggetto incaricato delle attivita' di istruttoria, gestione operativa e monitoraggio dell'intervento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                trasporto intermodale: trasporto di merci nella stessa unita' di carico o sullo stesso veicolo stradale, che utilizza due o piu' modi di trasporto e che non implica l'handling della merce nelle fasi di scambio modale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasporto trasbordato: trasporto nel quale le merci effettuano la parte iniziale o terminale del tragitto su strada e l'altra parte per ferrovia, con rottura di carico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                nodo logistico: punto nodale per la raccolta, la separazione, il trasbordo e la redistribuzione delle merci, inclusi gli interporti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                interporto: complesso organico di strutture e servizi integrati e finalizzati allo scambio di merci tra le diverse modalita' di trasporto, comunque comprendenti uno scalo ferroviario idoneo a formare o ricevere treni completi e in collegamento con porti, aeroporti e viabilita' di grande comunicazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                imprese utenti di servizi ferroviari: imprese, cosi' come definite dall'articolo 2082 del codice civile, che commissionano treni completi a imprese ferroviarie, attraverso contratti di servizi ferroviari per trasporto intermodale e trasbordato; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                operatore del trasporto combinato (MTO): soggetto che conclude un contratto di trasporto multimodale per suo conto, che non agisce come preposto o mandatario del mittente o dei vettori partecipanti alle operazioni di trasporto multimodale e che assume la responsabilita' dell'esecuzione del contratto; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                impresa ferroviaria: qualsiasi impresa pubblica o privata titolare di licenza, ai sensi del decreto legislativo 15 luglio 2015, n. 112, la cui attivita' principale consiste nella prestazione di servizi per il trasporto di merci o persone per ferrovia e che ne garantisce la trazione; sono comprese anche le imprese che forniscono la sola trazione; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                treno completo: il treno acquistato in tutta la sua capacita' di prestazioni da un unico cliente.
+
 ## Art. 2. — Oggetto
 
 Il presente regolamento stabilisce, ai sensi di quanto previsto dall'articolo 1, comma 649, della legge 28 dicembre 2015, n. 208, i criteri e le modalita' per la concessione di contributi ai servizi di trasporto ferroviario intermodale e trasbordato in arrivo e in partenza da nodi logistici o portuali in Italia, al fine di sostenere il completo sviluppo del sistema di trasporto intermodale.
@@ -54,6 +128,45 @@ Nell'ipotesi di cui al comma 4, nonche' in caso di ulteriori stanziamenti statal
 
 Gli adempimenti tecnici e amministrativi riguardanti la gestione operativa, l'istruttoria delle domande, nonche' l'esecuzione dei monitoraggi e dei controlli di cui al presente regolamento sono svolti dal soggetto gestore, ai sensi dell'articolo 19, comma 5, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, con le modalita' e nei termini previsti da apposito accordo di servizio, stipulato tra il Ministero delle infrastrutture e dei trasporti ed il soggetto gestore.
 
+2.
+                    
+                        
+                            Le funzioni e le attivita' che il soggetto gestore deve svolgere, cosi' come regolamentate dal predetto accordo di servizio, sono quelle di seguito elencate: 
+ 
+                        
+                        
+                            a)
+                            
+                                collaborare con il Ministero delle infrastrutture e dei trasporti per la predisposizione delle procedure di accesso ai suddetti incentivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornire assistenza tecnica al Ministero delle infrastrutture e dei trasporti ed ai beneficiari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                realizzare la gestione operativa dei provvedimenti in oggetto, ivi comprese tutte le attivita' di informatizzazione/archiviazione dei dati, istruttoria, verifica, analisi e comunicazione operativa con i beneficiari, seguendo le indicazioni fornite dalla Direzione generale per il trasporto stradale e per l'intermodalita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fornire assistenza tecnica al Ministero delle infrastrutture e dei trasporti nella fase di chiusura delle attivita' relative a tali incentivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                monitorare l'andamento dei provvedimenti e svolgere le relative attivita' di controllo, sulla base delle specifiche fornite dalla Direzione generale competente.
+
 Gli oneri derivanti dall'accordo di servizio previsto dal comma 1 sono a carico delle risorse di cui all'articolo 3, nel limite massimo dell'1,5 per cento delle risorse destinate all'intervento di cui al presente regolamento e sono definiti in base ad uno specifico preventivo che tenga conto, per il personale impiegato, delle giornate/uomo impegnate e delle relative tariffe applicabili, debitamente suddivise nelle componenti di costo diretto, costo gestionale e costo aziendale, per i costi direttamente imputabili all'esecuzione delle attivita', della spesa da sostenere, per le componenti di costo indiretto, della percentuale riconoscibile e, per gli eventuali costi per viaggi e trasferte, delle spese preventivabili. Gli oneri effettivamente risultanti sono riconosciuti previa presentazione ed approvazione di apposita rendicontazione redatta secondo le specifiche contenute nell'accordo di servizio medesimo in conformita' al sopracitato preventivo.
 
 Il Ministero, in quanto amministrazione titolare dell'interesse primario, esercita le funzioni di iniziativa, di vigilanza, di controllo e decisorie in ordine alle attivita' espletate dal soggetto gestore. A tal riguardo il predetto soggetto assicura la massima collaborazione, tempestivita', diligenza e serieta' nell'adempimento delle richieste, degli ordini e delle sollecitazioni del Ministero delle infrastrutture e dei trasporti sulle attivita' tecniche e istruttorie relative alle procedure di cui e' responsabile.
@@ -62,13 +175,115 @@ Il Ministero, in quanto amministrazione titolare dell'interesse primario, eserci
 
 Possono beneficiare dei contributi di cui al presente regolamento le imprese, con sede nell'ambito dello Spazio Economico Europeo, di cui all'articolo 1, lettere g) ed h), costituite in forma di societa' di capitali, ivi incluse le societa' cooperative.
 
+2.
+                    
+                        
+                            Ai fini dell'accesso ai contributi di cui al presente regolamento, le imprese di cui al comma 1 devono: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere regolarmente costituite ed essere iscritte nel registro delle imprese o enti equivalenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere nel pieno e libero esercizio dei propri diritti e non trovarsi, per quanto applicabile, in una delle situazioni previste dall'articolo 80 del decreto legislativo 18 aprile 2016, n. 50; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non essere sottoposte a procedure concorsuali quali il fallimento, l'amministrazione straordinaria o liquidazione coatta amministrativa o a liquidazione, scioglimento della societa', o concordato preventivo senza continuita' aziendale o di piano di ristrutturazione dei debiti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                possedere una situazione di regolarita' contributiva e di regolarita' fiscale ai sensi dell'articolo 80, comma 4, del decreto legislativo 18 aprile 2016, n. 50; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                operare nel rispetto delle disposizioni in materia di contrattazione collettiva nazionale e territoriale del lavoro e degli obblighi contributivi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                essere in regola con la disciplina antiriciclaggio e antiterrorismo di cui al decreto legislativo 21 novembre 2007, n. 231; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                non trovarsi nelle condizioni che non consentono la concessione delle agevolazioni ai sensi della normativa antimafia di cui al decreto legislativo 6 settembre 2011, n. 159; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                aver restituito le agevolazioni pubbliche godute per le quali e' stata gia' disposta la restituzione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                non rientrare tra le imprese che hanno ricevuto e, successivamente, non rimborsato o depositato in un conto bloccato, aiuti individuati quali illegali o incompatibili dalla Commissione europea.
+
 Il possesso dei requisiti di cui ai commi 1 e 2, unitamente a quanto prescritto per l'accesso al contributo in fase di presentazione dell'istanza, deve essere dimostrato alla data di presentazione della domanda di ammissione al contributo.
+
+4.
+                    
+                        
+                            L'assenza dei requisiti di cui al comma 2, lettere da 
+                        
+                        
+                            a)
+                            
+                                a i), costituisce causa di revoca, determinando decadenza dal contributo ed eventuale recupero dello stesso secondo quanto disposto dall'articolo 14.
 
 Le imprese richiedenti il contributo sono obbligate, altresi', ad attenersi alle prescrizioni, comunitarie e nazionali, in particolare in materia di ambiente, aiuti di Stato, concorrenza tra imprese e sicurezza.
 
 Le imprese soggette ad influenza dominante da parte di un'impresa ferroviaria sono obbligate a tenere evidenza contabile separata in relazione alle attivita' oggetto di incentivazione, pena la non ammissibilita' al contributo.
 
 ## Art. 6. — Oggetto e destinazione dell'incentivo
+
+1.
+                    
+                        
+                            L'incentivo e' rivolto alle imprese utenti di servizi di trasporto ferroviario intermodale o trasbordato e operatori del trasporto combinato che commissionano alle imprese ferroviarie in regime di trazione elettrica treni completi e che si impegnano: 
+ 
+                        
+                        
+                            a)
+                            
+                                a mantenere in essere, per dodici mesi decorrenti dalla data di entrata in vigore del presente regolamento, un volume di traffico ferroviario intermodale o trasbordato, in termini di treni*km percorsi sulla rete nazionale italiana, non inferiore alla media del volume di traffico ferroviario merci intermodale o trasbordato effettuato nel corso del triennio 2012 - 2013 - 2014; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a incrementare, per successivi periodi di dodici mesi consecutivi, il volume di traffico ferroviario rispetto alla media del volume di traffico ferroviario merci intermodale o trasbordato effettuato nel corso del triennio 2012 - 2013 - 2014; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a mantenere, per ulteriori ventiquattro mesi, il volume di traffico ferroviario raggiunto nell'ultimo periodo di dodici mesi di erogazione del contributo.
 
 L'importo massimo del contributo per treno*km in ogni caso non puo' superare 2,50 euro per treno*km. Tale misura base puo' essere adeguata mediante revisioni annuali nei casi di cui all'articolo 3, commi 2, 3 e 4. In tali casi l'adeguamento della misura e' disposto con decreto del Direttore generale per il trasporto stradale e per l'intermodalita', su conforme parere del Ministero dell'economia e finanze, fermi restando i limiti di cui all'articolo 12.
 
@@ -127,15 +342,69 @@ Il ribaltamento del contributo e' praticato dal beneficiario del contributo, ope
 
 ## Art. 12. — Cumulo dell'incentivo
 
+1.
+                    
+                        
+                            Nel caso di coesistenza di altri interventi di natura pubblica, europei, statali, regionali ed enti locali, la contribuzione complessiva non puo' eccedere: 
+ 
+                        
+                        
+                            a)
+                            
+                                per ciascun beneficiario, il 30 per cento del costo medio del trasporto ferroviario su scala nazionale comprensivo degli oneri sottostanti accessori quali verifica, formazione treno e manovra; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ciascun servizio ferroviario, il 50 per cento del differenziale medio su base nazionale, fra il trasporto stradale e quello ferroviario, dei costi esterni per esternalita' negative per unita' di massa di merce trasportata.
+
 Il Ministero delle infrastrutture e dei trasporti, avvalendosi del soggetto gestore, sulla base delle rendicontazioni fornite dai beneficiari e della relativa documentazione, e' tenuto a verificare, per tutto il periodo di incentivazione e per singolo beneficiario, il rispetto dei limiti indicati nel comma 1.
 
 ## Art. 13. — Rendicontazione e monitoraggio
+
+1.
+                    
+                        
+                            Ai fini della rendicontazione dei periodi di cui all'articolo 6, comma 1, lettere a) e b), entro e non oltre sessanta giorni dalla scadenza di ciascun periodo di riferimento, l'impresa deve far pervenire al Ministero delle infrastrutture e dei trasporti, con le modalita' di cui all'articolo 9, comma 4: 
+ 
+                        
+                        
+                            a)
+                            
+                                il riepilogo dei treni*chilometro effettuati dalla data di entrata in vigore del presente regolamento fino alla scadenza del primo periodo di dodici mesi, articolato per relazione di traffico e contenente gli elementi utili ai fini del calcolo e della liquidazione del contributo (origine, destinazione, estremi lettera di vettura, chilometraggio), corredato delle dichiarazioni rese ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, sottoscritte dal legale rappresentante dell'impresa e dal rappresentante dell'impresa ferroviaria che ha effettuato i servizi, attestanti la veridicita' dei dati ivi riportati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia dei contratti con una o piu' imprese ferroviarie per servizi di trasporto intermodale o trasbordato con treni completi relativi ai trasporti effettuati.
 
 Il contributo e' quantificato a consuntivo dei singoli periodi di riferimento, ove siano rispettati i requisiti di cui all'articolo 6 e sulla base dei treni*chilometro effettivamente realizzati nel periodo incentivato.
 
 L'Amministrazione da' comunicazione ai singoli interessati in ordine all'ammontare del contributo agli stessi spettante tramite posta elettronica certificata e attiva successivamente i pagamenti, secondo la disponibilita' di cassa.
 
 Ai fini del monitoraggio, di quanto previsto dall'articolo 6, comma 1, lettera c), nel corso dei ventiquattro mesi decorrenti dalla scadenza dell'ultimo periodo incentivato, il Ministero delle infrastrutture e dei trasporti, anche tramite accesso diretto all'apposito sistema informativo del gestore dell'infrastruttura ferroviaria nazionale, verifica il mantenimento del volume di traffico ferroviario raggiunto nell'ultimo periodo di dodici mesi di erogazione del contributo.
+
+5.
+                    
+                        
+                            Ai fini di cui al comma 4, le imprese trasmettono al Ministero delle infrastrutture e dei trasporti, con le modalita' di cui all'articolo 9, comma 4, entro sessanta giorni dal termine di scadenza di ciascun periodo di dodici mesi successivi alla scadenza dell'ultimo periodo di dodici mesi di erogazione del contributo e per due periodi consecutivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'elenco dei treni*chilometro effettuati nel periodo di dodici mesi soggetto a monitoraggio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ulteriori dati che saranno richiesti dal Ministero ai fini del monitoraggio.
 
 Il Ministero delle infrastrutture e dei trasporti, anche per il tramite soggetto gestore incaricato delle attivita' di istruttoria, gestione e monitoraggio dell'intervento, rende disponibili in formato elettronico i modelli utili per la raccolta dei dati per il monitoraggio anche sul sito del Ministero medesimo.
 

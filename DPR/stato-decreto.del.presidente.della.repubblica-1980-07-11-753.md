@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-07-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -290,6 +290,24 @@ Il Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri del
 A condizione che non sia pregiudicata la sicurezza, il Ministero delle infrastrutture e dei trasporti, di concerto con i Ministeri dell'interno, della salute e dell'ambiente e della tutela del territorio e del mare, ((acquisito il parere dell'ANSFISA,)) rilascia autorizzazioni individuali per operazioni di trasporto di merci pericolose sul territorio nazionale che sono proibite o effettuate in condizioni diverse da quelle stabilite dalle disposizioni di cui al comma 2. Le autorizzazioni sono definite e limitate nel tempo e possono essere concesse solo quando ricorrono particolari esigenze di ordine tecnico ovvero di tutela della sicurezza pubblica. (3)
 
 Per il trasporto delle materie fissili o radioattive si applicano le norme dell'articolo 5 della legge 31 dicembre 1962, n. 1860, sostituito dall'articolo 2 del decreto del Presidente della Repubblica 30 dicembre 1965, n. 1704, e dell'articolo 21 del decreto legislativo 17 marzo 1995, n. 230, e successive modificazioni.
+
+7.
+                        
+                            
+                                A condizione che non sia pregiudicata la sicurezza e previa notifica alla Commissione europea, ai fini dell'autorizzazione, il Ministero delle infrastrutture e dei trasporti, di concerto con i Ministeri dell'interno, della salute e dell'ambiente e della tutela del territorio e del mare, ((acquisito il parere dell'ANSFISA,)) puo' derogare le condizioni poste dalle norme di cui al comma 2 per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il trasporto nazionale di piccole quantita' di merce, purche' non relative a materie a media o alta radioattivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    merci pericolose destinate al trasporto locale su tragitti debitamente designati del territorio nazionale, facenti parte di un processo industriale definito di carattere locale e rigorosamente controllato in condizioni chiaramente definite.
 
 Chiunque senza regolare autorizzazione, quando sia prescritta, trasporta o presenta al trasporto merci pericolose, ovvero non rispetta le condizioni imposte, a tutela della sicurezza, negli stessi provvedimenti di autorizzazione e' punito con l'ammenda da 5.000 euro a 15.000 euro e l'arresto fino a sei mesi. (3)
 

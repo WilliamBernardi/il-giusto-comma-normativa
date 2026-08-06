@@ -8,8 +8,8 @@ codice_redazionale: 003G0008
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,11 +35,185 @@ L'ISPESL svolge gli altri compiti e funzioni che gli sono attribuiti da apposite
 
 L'Istituto svolge, avvalendosi delle strutture centrali e periferiche, funzioni di ricerca, di sperimentazione, di controllo, di consulenza, di documentazione e di assistenza per quanto concerne la prevenzione degli infortuni, la sicurezza del lavoro e la tutela della salute negli ambienti di vita e di lavoro.
 
+2.
+                    
+                        
+                            In particolare, per quanto attiene ai settori della ricerca e della sperimentazione, l'ISPESL:
+ 
+                        
+                        
+                            a)
+                            
+                                svolge direttamente attivita' di ricerca scientifica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stipula convenzioni, contratti ed accordi di collaborazione con amministrazioni, enti, istituti, associazioni ed altre persone giuridiche pubbliche o private, nazionali, estere o internazionali, anche ricevendone contributi, per lo svolgimento di ricerche attinenti ai compiti istituzionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuove e svolge programmi di studio e ricerca e programmi di interesse nazionale nel campo della prevenzione degli infortuni, della sicurezza sul lavoro e della tutela della salute negli ambienti di vita e di lavoro, anche in collaborazione con le altre strutture del Servizio sanitario nazionale, con l'Istituto superiore di sanita' (ISS), con enti pubblici e privati di elevata rilevanza tecnico-scientifica, nonche' con gli Istituti di ricovero e di cura a carattere scientifico (IRCCS) e le aziende ospedaliere;
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipa a progetti di attivita' finalizzata alla prevenzione degli infortuni, la sicurezza sul lavoro e la tutela delle malattie negli ambienti di vita e di lavoro, ovvero a programmi di studio e ricerca di amministrazioni, enti, istituti, associazioni e organismi, anche internazionali, pubblici e privati.
+
+3.
+                    
+                        
+                            Per quanto attiene alle funzioni di controllo l'ISPESL:
+ 
+                        
+                        
+                            a)
+                            
+                                interviene nelle materie di competenza dell'Istituto, su richiesta del Ministro della salute o delle regioni, nell'ambito dei controlli che richiedono un'elevata competenza scientifica non disponibile a livello regionale, o di interesse nazionale, anche ai fini del controllo di qualita' delle prestazioni rese nel campo della sicurezza del lavoro e di tutela delle malattie professionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esegue, nei casi previsti dalla legge, o su richiesta del Ministro della salute, accertamenti sulla idoneita' dei luoghi di lavoro e sul rispetto delle disposizioni normative di prevenzione degli infortuni e tutela delle malattie professionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                compie accertamenti e indagini per la prevenzione degli infortuni e l'osservanza delle disposizioni igienico-sanitarie negli ambienti di lavoro e di vita;
+
+                            
+                        
+                        
+                            d)
+                            
+                                effettua, sulla base di apposita convenzione onerosa con il Ministero delle attivita' produttive, attivita' omologativa residuale, ai sensi della legge 12 agosto 1982, n. 597, e delle direttive comunitarie di "prodotto", nonche' attivita' di organismo notificato per la direttiva PED n. 97/23/CE del Parlamento e del Consiglio, del 29 maggio 1997, sugli apparecchi a pressione e per i compiti previsti dal titolo VII, protezione da agenti cancerogeni e mutagenesi, di cui al decreto legislativo 19 settembre 1994, n. 626, come modificato dal decreto legislativo 25 febbraio 2000, n. 66.
+
+4.
+                    
+                        
+                            Per quanto concerne le funzioni di consulenza, di formazione e di informazione, l'ISPESL:
+ 
+                        
+                        
+                            a)
+                            
+                                fornisce consulenza al Ministro della salute, agli altri Ministeri e alle regioni in materia di prevenzione degli infortuni, di sicurezza sul lavoro e di tutela della salute negli ambienti di vita e di lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collabora con il Ministro della salute all'elaborazione e all'attuazione della programmazione sanitaria e scientifica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                svolge attivita' di consulenza del Governo e delle regioni per la formazione dei rispettivi piani sanitari;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove convegni e dibattiti tecnico-scientifici a carattere nazionale e internazionale su temi attinenti ai propri compiti istituzionali; partecipa con propri esperti a convegni e dibattiti nazionali ed internazionali; rende noti, mediante pubblicazioni scientifiche, i risultati delle ricerche effettuate, i metodi di analisi elaborati e in generale la documentazione scientifica elaborata o raccolta nell'interesse della prevenzione degli infortuni, della sicurezza del lavoro e della tutela della salute negli ambienti di vita e di lavoro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                esplica attivita' di consulenza per la tutela della salute negli ambienti di vita e di lavoro, in collaborazione con l'Istituto superiore di sanita' (ISS) e con gli altri enti o amministrazioni, che si occupano di produzione e di impiego dell'energia termoelettrica, nucleare e delle sostanze radioattive, nonche' di qualunque forma di energia usata a scopi diagnostici e terapeutici;
+
+                            
+                        
+                        
+                            f)
+                            
+                                esercita, per organismi pubblici e privati, attivita' di formazione, perfezionamento e aggiornamento in materia di prevenzione degli infortuni, di sicurezza sul lavoro e di tutela della salute negli ambienti di vita e di lavoro, rivolte, in particolare, al personale del Servizio sanitario nazionale e degli altri organi ed enti di promozione e tutela della prevenzione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                promuove e coordina studi e ricerche nel settore didattico, atti a definire in termini standard di metodologie e contenuti, un sistema complessivo di qualita' della formazione nei settori di competenza, al fine di realizzare percorsi didattici ad elevata qualificazione professionale per la formazione e il perfezionamento dei formatori, degli specialisti in igiene e sicurezza, delle figure individuate dal decreto legislativo 19 settembre 1994, n. 626, nonche' dei lavoratori;
+
+                            
+                        
+                        
+                            h)
+                            
+                                esercita per conto dello Stato e delle regioni le attivita' di consulenza previste dal decreto del Presidente della Repubblica 17 agosto 1999, n. 334, relative agli impianti a rischio di incidente rilevante.
+
+5.
+                    
+                        
+                            L'ISPESL, inoltre, svolge le seguenti attivita':
+ 
+                        
+                        
+                            a)
+                            
+                                assicura la standardizzazione tecnico-scientifica delle metodiche e delle procedure per la valutazione dei rischi, con riguardo all'igiene negli ambienti di lavoro, alla sicurezza dei lavoratori, delle macchine, degli impianti, delle attrezzature di lavoro e all'esposizione ad agenti fisici, chimici e biologici, ivi comprese le radiazioni ionizzanti in campi elettromagnetici, nonche' delle linee guida e dei protocolli per la tutela della salute e sicurezza degli ambienti di vita e di lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collabora con le parti sociali ed in particolare con gli organismi previsti dal decreto legislativo 19 settembre 1994, n. 626, per la promozione della cultura e di buone pratiche in materia di prevenzione sui luoghi di lavoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                svolge attivita', quale focal point per l'Italia, dell'Agenzia europea per la sicurezza e la salute sui luoghi di lavoro, partecipando eventualmente ad organismi e comitati tecnici comunitari ed internazionali in materia di salute e sicurezza sui luoghi di lavoro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolge azioni di consulenza, di informazione, di formazione ed assistenza a pagamento alle imprese, con particolare riguardo a quelle piccole e medie, nonche' ai lavoratori ed agli organismi paritetici tra le Organizzazioni sindacali dei datori di lavoro e dei lavoratori.
+
 L'ISPESL, infine, esercita ogni altra attivita' di propria competenza ai sensi delle norme vigenti.
 
 ## Art. 3. — Strumenti
 
 Per l'esplicazione delle funzioni di cui all'articolo 2 e di ogni altra attivita' connessa, l'Istituto si organizza in strutture tecnico-scientifiche e amministrative ed in laboratori articolati sul territorio e realizza una propria rete operativa informatica per la diffusione delle informazioni, dei compiti istituzionali e delle esperienze nei settori di competenza, anche in relazione alle iniziative di formazione, perfezionamento e aggiornamento di cui all'articolo
+
+2.
+                    
+                        
+                            Secondo criteri e modalita' determinati con proprio regolamento ed anche attraverso l'utilizzo economico dei risultati della propria ricerca, puo':
+ 
+                        
+                        
+                            a)
+                            
+                                stipulare convenzioni, accordi e contratti con soggetti pubblici o privati, nazionali, esteri ed internazionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                partecipare a o costituire consorzi, fondazioni o societa' con soggetti pubblici e privati, nazionali, esteri ed internazionali, scelti con le procedure dell'evidenza pubblica, secondo le vigenti disposizioni in materia. La costituzione e la partecipazione in societa' sono assoggettate ad autorizzazione preventiva del Ministro della salute, volta tra l'altro ad accertare che non sussistano situazioni di incompatibilita' in relazione ai compiti istituzionali dell'Istituto. Decorsi sessanta giorni dalla ricezione della richiesta di autorizzazione senza comunicazione di osservazioni da parte del Ministro della salute, l'autorizzazione si intende concessa. In caso di costituzione di societa' o di partecipazione societaria deve essere inoltre acquisito, nel termine perentorio di quarantacinque giorni dalla data di ricezione della richiesta, il parere del Ministro dell'economia e delle finanze; qualora il parere non venga reso nel suddetto termine di quarantacinque giorni, il parere stesso si intende espresso favorevolmente.
 
 ## Art. 4. — Organi dell'Istituto superiore per la prevenzione
  e la sicurezza del lavoro (ISPESL)
@@ -59,11 +233,89 @@ Il Presidente dura in carica cinque anni e puo' essere confermato una sola volta
 
 Il Presidente ha la rappresentanza legale dell'ente, convoca e presiede il Consiglio di amministrazione, il Comitato scientifico e ne stabilisce l'ordine del giorno.
 
+4.
+                    
+                        
+                            Il Presidente inoltre:
+ 
+                        
+                        
+                            a)
+                            
+                                sovrintende all'andamento dell'Istituto e vigila sul corretto funzionamento delle strutture, assicurandone l'unita' operativa e di indirizzo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone, con la collaborazione degli uffici interessati e sentito il Comitato scientifico, il piano triennale da sottoporre per l'approvazione al Consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cura i rapporti istituzionali e la comunicazione esterna dell'Istituto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                valuta, su parere obbligatorio del Comitato scientifico, l'attivita' delle strutture tecniche dell'Istituto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                conferisce, sentito il Direttore generale, gli incarichi di livello dirigenziale generale e conferisce, sentito il Consiglio di amministrazione, gli incarichi di Direzione delle strutture tecnico-scientifiche.
+
 Al Presidente e' attribuita un'indennita' di carica determinata con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze.
 
 Il Presidente, se appartenente ad Amministrazioni dello Stato, ovvero ad altre istituzioni o enti pubblici, e' collocato in aspettativa per la durata dell'incarico, secondo le disposizioni dei rispettivi ordinamenti; se professore o ricercatore universitario, puo' essere collocato in aspettativa senza assegni a domanda, ai sensi dell'articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382.
 
 ## Art. 6. — Consiglio di amministrazione
+
+1.
+                    
+                        
+                            Il Consiglio di amministrazione, nominato dal Ministro della salute, e' composto dal Presidente e da otto componenti cosi' individuati:
+ 
+                        
+                        
+                            a)
+                            
+                                due esperti designati dal Ministro della salute;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un esperto designato dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un esperto designato dall'Associazione nazionale dei comuni italiani;
+
+                            
+                        
+                        
+                            d)
+                            
+                                quattro esperti designati rispettivamente dal Ministro dell'istruzione, dell'universita' e della ricerca scientifica, dal Ministro delle attivita' produttive, dal Ministro del lavoro e delle politiche sociali e dal Ministro dell'ambiente e della tutela del territorio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                esercita le funzioni di segretario un dirigente amministrativo.
 
 Gli esperti devono essere scelti tra persone particolarmente competenti, di documentata professionalita' nelle materie tecnico-scientifiche e giuridiche che rientrano nell'ambito dei compiti svolti dall'Istituto.
 
@@ -77,6 +329,45 @@ Con regolamento dell'Istituto saranno disciplinate le modalita' di funzionamento
 
 ## Art. 7. — Compiti del Consiglio di amministrazione
 
+1.
+                    
+                        
+                            Il Consiglio di amministrazione:
+ 
+                        
+                        
+                            a)
+                            
+                                ha compiti e poteri di programmazione e di indirizzo e adotta i necessari atti deliberativi, definendo le linee guida per la predisposizione del piano triennale, del bilancio e dei regolamenti, sulla base degli indirizzi strategici ricevuti dal Ministro della salute;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delibera il bilancio di previsione e le eventuali variazioni, nonche' il conto consuntivo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                su proposta del Presidente, delibera il piano triennale di attivita' dell'Istituto, la pianta organica e le eventuali variazioni dei fabbisogni di personale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera i regolamenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                delibera la eventuale partecipazione dell'Istituto in societa' private aventi scopi coincidenti con le attivita' istituzionali dell'Istituto, nel rispetto dei criteri e delle modalita' determinati con il regolamento di cui all'articolo 3, comma 1, salvo comunque, se del caso, l'utilizzo economico dei risultati della propria ricerca.
+
 Il Consiglio di amministrazione si riunisce di regola in seduta ordinaria una volta ogni due mesi, con avviso da comunicare a tutti i componenti, ai quali va contestualmente trasmesso l'ordine del giorno, almeno cinque giorni prima.
 
 In caso di urgenza o su richiesta della maggioranza dei componenti, il Consiglio puo' essere convocato in seduta straordinaria, con avviso da recapitare almeno quarantotto ore prima, con le stesse forme previste dal comma 2.
@@ -85,15 +376,167 @@ In caso di urgenza o su richiesta della maggioranza dei componenti, il Consiglio
 
 Il Direttore generale e' nominato con decreto del Ministro della salute, su proposta del Presidente, ed e' scelto tra persone laureate di larga, provata e documentata esperienza di direzione in materia di gestione ed amministrazione. Il rapporto di lavoro del Direttore generale e' regolato con contratto di diritto privato di durata massima quinquennale. Ai dipendenti di pubbliche amministrazioni si applica quanto previsto dall'articolo 5, comma 6.
 
+2.
+                    
+                        
+                            Il Direttore generale:
+ 
+                        
+                        
+                            a)
+                            
+                                partecipa con voto consultivo alle sedute del Consiglio di amministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attua i provvedimenti del Consiglio di amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cura la predisposizione del bilancio di previsione e del conto consuntivo, sulla scorta delle linee guida indicate dal Consiglio di amministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                elabora le proposte da sottoporre al Presidente relative alle risorse finanziarie da assegnare con l'indicazione degli obiettivi da conseguire;
+
+                            
+                        
+                        
+                            e)
+                            
+                                attua quanto previsto nel piano delle attivita', sovrintendendo e coordinando l'attivita' dei dirigenti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuove lo sviluppo organizzativo e la valorizzazione delle risorse umane; cura, con i dirigenti, la definizione e l'aggiornamento dell'assetto organizzativo dell'Istituto;
+
+                            
+                        
+                        
+                            g)
+                            
+                                vigila sistematicamente sull'andamento della gestione, con riferimento al piano triennale ed al budget, sviluppando ed utilizzando idonei strumenti di controllo;
+
+                            
+                        
+                        
+                            h)
+                            
+                                conferisce gli incarichi di livello dirigenziale non generale, ad esclusione di quelli relativi ai dirigenti assegnati agli uffici di livello dirigenziale generale;
+
+                            
+                        
+                        
+                            i)
+                            
+                                adotta gli atti relativi alla gestione dell'Istituto, non rientranti nella specifica competenza del Presidente o dei vari dirigenti;
+
+                            
+                        
+                        
+                            l)
+                            
+                                approva l'indizione delle procedure concorsuali in materia di servizi, lavori e forniture che superino la soglia comunitaria.
+
 Il Direttore generale, in quanto incluso tra gli organi dell'ente ai sensi dell'articolo 9 del decreto legislativo 29 ottobre 1999, n. 419, cessa dall'incarico nei casi di cessazione del Presidente o del Consiglio di amministrazione.
 
 ## Art. 9. — Comitato Scientifico
+
+1.
+                    
+                        
+                            Il Comitato Scientifico e' nominato, con decreto del Ministro della salute, tra persone esperte nelle materie di competenza dell'Istituto. Il Comitato dura in carica tre anni ed e' composto:
+ 
+                        
+                        
+                            a)
+                            
+                                dal Presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da otto esperti, anche stranieri, su proposta del Presidente dell'ISPESL;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da tre esperti designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da dieci esperti in rappresentanza rispettivamente: tre del Ministero della salute, uno del Ministero dell'istruzione, dell'universita' e della ricerca scientifica, uno del Ministero dell'ambiente e della tutela del territorio, uno del Ministero delle attivita' produttive, uno del Ministero degli affari esteri, uno del Ministero del lavoro e delle politiche sociali, uno del Ministero dell'interno e uno del Ministero delle politiche agricole e forestali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le funzioni di segretario sono svolte da un dirigente amministrativo.
 
 Alle riunioni del Comitato possono partecipare, altresi', su invito del Presidente e senza diritto di voto, dirigenti di ricerca, ricercatori e tecnologi dell'Istituto. Possono, altresi', essere chiamati a partecipare, senza diritto di voto, personalita' scientifiche esterne, in relazione alla particolare rilevanza della materia oggetto di valutazione.
 
 Il compenso per i componenti esterni del Comitato, nonche' il gettone di presenza e le spese di missione, sono fissati con decreto del Ministro della salute e del Ministro dell'economia e delle finanze.
 
 ## Art. 10. — Compiti del Comitato Scientifico
+
+1.
+                    
+                        
+                            Il Comitato Scientifico:
+ 
+                        
+                        
+                            a)
+                            
+                                esprime parere sui progetti di collaborazione e di ricerca con organismi nazionali ed internazionali sia pubblici che privati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolge, su richiesta del Presidente o del Consiglio di amministrazione, attivita' di consulenza in ordine a specifici piani e programmi di attivita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                esprime parere sulle materie di studio e ricerca per le quali assegnare le borse di studio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esprime annualmente pareri obbligatori sull'attivita' delle strutture tecnico-scientifiche nelle quali e' articolato l'ISPESL, sulla base di criteri fissati dal medesimo Comitato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                esprime parere sull'ordinamento delle strutture tecnico-scientifiche dell'Istituto.
 
 Il Comitato si riunisce di norma ogni tre mesi e tutte le volte che il Consiglio di amministrazione o il Presidente lo ritengano necessario.
 
@@ -112,6 +555,94 @@ Con provvedimento del Ministro della salute, di concerto con il Ministro dell'ec
 Per particolari motivate esigenze ed entro il limite massimo di dieci unita', nelle materie nelle quali non siano disponibili all'interno adeguate professionalita' tecnico-scientifiche, il Consiglio di amministrazione, su proposta del Presidente, puo' disporre il conferimento di incarichi a soggetti particolarmente esperti nelle materie di competenza dell'Istituto.
 
 ## Art. 13. — Regolamenti
+
+1.
+                    
+                        
+                            Entro centoventi giorni dal suo insediamento, il Consiglio di amministrazione, con uno o piu' regolamenti, disciplina:
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' per la gestione patrimoniale, economica, finanziaria e contabile interna, anche in deroga al decreto del Presidente della Repubblica 18 dicembre 1997, n. 696;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' per l'acquisto di beni, servizi o forniture;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' per la stipula di convenzioni, contratti ed accordi di collaborazione con amministrazioni, enti, organismi nazionali, esteri e internazionali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di conferimento degli incarichi temporanei di collaborazione per l'attuazione dei programmi di ricerca;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di conferimento delle borse di studio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la disciplina e le modalita' della attivita' brevettuale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'istituzione di centri di costo dell'Istituto;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'istituzione dell'ufficio stampa, ai sensi della legge 7 giugno 2000, n. 150, e del decreto del Presidente della Repubblica 21 settembre 2001, n. 422;
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'istituzione di un sistema di controlli interni, coerente con i principi fissati dalla normativa vigente;
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'istituzione di un ufficio per le relazioni con il pubblico, ai sensi dell'articolo 11 del decreto legislativo 30 marzo 2001, n. 165;
+
+                            
+                        
+                        
+                            m)
+                            
+                                l'istituzione di un ufficio per la gestione del contenzioso del lavoro, ai sensi dell'articolo 12 del decreto legislativo 30 marzo 2001, n. 165;
+
+                            
+                        
+                        
+                            n)
+                            
+                                l'organizzazione dell'Istituto a livello di strutture e personale, ivi compresa la determinazione degli uffici dirigenziali di cui all'articolo 19 del decreto legislativo 30 marzo 2001, n. 165, che viene determinata nel numero massimo di quindici uffici di livello dirigenziale e due uffici di livello dirigenziale generale.
 
 I regolamenti di cui alle lettere a) e b) del comma 1 sono soggetti all'approvazione del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze; i regolamenti concernenti l'organizzazione ed il personale sono soggetti all'approvazione del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la funzione pubblica; tutti gli altri regolamenti sono soggetti alla sola approvazione del Ministro della salute. Decorso il termine di sessanta giorni dalla data di ricezione, senza che sia intervenuta osservazione alcuna, i regolamenti si intendono approvati.
 

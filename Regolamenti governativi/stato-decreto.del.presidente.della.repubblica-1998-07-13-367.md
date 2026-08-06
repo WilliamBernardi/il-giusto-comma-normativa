@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2010-10-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -87,6 +87,38 @@ L'immobile in relazione al quale viene accertata la cessazione dell'uso governat
 ## Art. 8. — Aggiornamento nella consistenza dei beni
 
 Per consentire l'aggiornamento degli schedari descrittivi della proprieta' immobiliare dello Stato, le amministrazioni usuarie sono tenute a comunicare, anche con mezzi informatici, all'ufficio del territorio della provincia le variazioni sostanziali eventualmente intervenute per cause naturali o quelle che ritengono di apportare alle proprieta' loro concesse in uso.
+
+2.
+                    
+                        
+                            Le comunicazioni di cui al comma 1, contengono:
+ 
+                        
+                        
+                            a)
+                            
+                                tutti gli identificativi catastali e gli altri elementi utili a rendere immediatamente individuabile il bene;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la consistenza e l'ammontare dei lavori da eseguirsi in base ai relativi progetti approvati, la procedura di esecuzione dei lavori, nonche' i competenti organi tecnici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il termine per l'ultimazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tutte quelle notizie che, a maggior chiarimento, si ritengono opportune.
 
 Indipendentemente dalle segnalazioni di cui ai commi 1 e 2, tutte le variazioni in aumento o diminuizione che si verificano nella consistenza degli immobili in uso governativo, a cura dell'ufficio del territorio, sono riportate anche su supporto informatico negli schedari descrittivi della proprieta' immobiliare dello Stato entro trenta giorni dall'avvenuta conoscenza e sono comunicate alla ragioneria provinciale dello Stato competente per territorio.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-03-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,9 +29,220 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Nel presente regolamento s'intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Testo Unico della Finanza (TUF)»: il decreto legislativo 24 febbraio 1998, n. 58 e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Testo Unico Bancario (TUB)»: il decreto legislativo 1° settembre 1993, n. 385 e successive modificazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Oicr»: l'organismo di investimento collettivo del risparmio come definito dall'articolo 1, comma 1, lettera k), del TUF; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Oicr aperto»: l'Oicr di cui all'articolo 1, comma 1, lettera k-bis), del TUF; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «Oicr chiuso»: l'Oicr diverso da quello aperto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «Oicr italiani»: gli Oicr di cui all'articolo 1, comma 1, lettera l, del TUF; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «fondo»: il fondo comune di investimento come definito dall'articolo 1, comma 1, lettera j), del TUF; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «Sicav»: la societa' di investimento a capitale variabile come definita dall'articolo 1, comma 1, lettera i), del TUF; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «Sicaf»: la societa' di investimento a capitale fisso come definita dall'articolo 1, comma 1, lettera i-bis), del TUF; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «OICVM italiani»: gli Oicr di cui all'articolo 1, comma 1, lettera m), del TUF; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «FIA»: l'Oicr rientrante nell'ambito di applicazione della direttiva 2011/61/UE; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «FIA italiano»: l'Oicr di cui all'articolo 1, comma 1, lettera m-ter), del TUF; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «FIA italiano riservato»: l'Oicr di cui all'articolo 1, comma 1, lettera m-quater), del TUF; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «investitori professionali»: i clienti professionali privati, i clienti professionali pubblici, nonche' coloro che su richiesta possono essere trattati come clienti professionali, ai sensi dell'articolo 6, commi 2-quinquies e 2-sexies, del TUF; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «FIA italiani immobiliari»: i fondi e le Sicaf che investono in beni immobili, diritti reali immobiliari, ivi inclusi quelli derivanti da contratti di leasing immobiliare con natura traslativa e da rapporti concessori, partecipazioni in societa' immobiliari, parti di altri FIA immobiliari, anche esteri; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «partecipazioni in societa' immobiliari»: le partecipazioni in societa' di capitali che svolgono attivita' di costruzione, valorizzazione, acquisto, alienazione e gestione di immobili; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «mercato regolamentato»: il mercato regolamentato iscritto nell'elenco previsto dall'articolo 63, comma 2 o nell'apposita sezione prevista dall'articolo 67, comma 1, del TUF o altro mercato regolamentato regolarmente funzionante, riconosciuto e aperto al pubblico, specificato nel regolamento del fondo; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «sistema multilaterale di negoziazione»: il sistema multilaterale di negoziazione rientrante nell'ambito di applicazione della direttiva 2004/39/CE; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «gestore»: uno dei soggetti di cui all'articolo 1, comma 1, lettera q-bis), del TUF; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «Sgr»: la societa' di gestione del risparmio di cui all'articolo 1, comma 1, lettera o), del TUF; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «gestione di portafogli»: il servizio di investimento di cui all'articolo 1, comma 5-quinquies, del TUF. 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    "portafoglio finanziario": il valore complessivo del portafoglio costituito da depositi bancari, prodotti di investimento assicurativi e strumenti finanziari disponibili anche presso altri intermediari o gestori; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    "prodotti di investimento assicurativi": i prodotti di cui all'articolo 1, comma 1, lettera w-bis.3) del TUF; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    "strumento finanziario": qualsiasi strumento riportato nella Sezione C dell'Allegato I del TUF; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    personale: i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato.
+
 Le espressioni adoperate nel presente regolamento, ove non diversamente definite, hanno lo stesso significato indicato nel TUF.
 
 ## Art. 2. — Obblighi informativi per gli OICVM italiani
+
+1.
+                        
+                            
+                                In aggiunta alle scritture prescritte per le imprese commerciali dal codice civile, la Sgr, per ciascun fondo che gestisce, e la Sicav redigono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il libro giornale nel quale devono essere annotate, giorno per giorno, le operazioni relative alla gestione dell'OICVM e le operazioni di emissione e di rimborso delle quote o delle azioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione annuale, da pubblicare entro quattro mesi dalla chiusura dell'esercizio o del minor periodo in relazione al quale si procede alla distribuzione dei proventi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la relazione semestrale relativa ai primi sei mesi di ogni esercizio, da pubblicare entro due mesi dalla fine del periodo di riferimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un prospetto recante l'indicazione del valore unitario delle quote di partecipazione e del valore complessivo dell'OICVM, con periodicita' almeno pari all'emissione o rimborso delle quote.
 
 I documenti di cui al comma 1, lettere b), c) e d), sono pubblicati nelle forme indicate nel regolamento del fondo o nello statuto della Sicav e sono forniti gratuitamente agli investitori che ne fanno richiesta. Tali documenti devono essere tenuti a disposizione del pubblico nel sito internet e nella sede della societa'.
 
@@ -39,13 +250,116 @@ L'ultima relazione annuale e l'ultima relazione semestrale debbono inoltre esser
 
 ## Art. 3. — Obblighi informativi per i FIA italiani
 
+1.
+                        
+                            
+                                In aggiunta alle scritture prescritte per le imprese commerciali dal codice civile, la Sgr, la Sicav e la Sicaf redigono, per ciascun FIA gestito o commercializzato nell'Unione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il libro giornale nel quale devono essere annotate, giorno per giorno, le operazioni relative alla gestione del FIA e le operazioni di emissione e di rimborso delle quote o delle azioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione annuale da mettere a disposizione degli investitori entro sei mesi dalla chiusura dell'esercizio o del minor periodo in relazione al quale si procede alla distribuzione dei proventi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la relazione semestrale relativa ai primi sei mesi di ogni esercizio, da mettere a disposizione degli investitori entro due mesi dalla fine del periodo di riferimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un prospetto recante l'indicazione del valore unitario delle quote di partecipazione e del valore complessivo del FIA, con periodicita' almeno pari all'emissione o rimborso delle quote.
+
 I documenti di cui al comma 1, lettere b), c) e d), sono forniti gratuitamente agli investitori che ne fanno richiesta.
 
 Se il FIA e' tenuto a pubblicare una relazione finanziaria annuale ai sensi dell'articolo 154-ter del TUF, sono fornite agli investitori su richiesta solo le informazioni supplementari.
 
+4.
+                        
+                            
+                                Il regolamento o lo statuto dei FIA italiani immobiliari di cui all'articolo 12 prevede, in conformita' ai principi stabiliti dalla Consob in materia di pubblicita' per operazioni di offerta al pubblico, le forme di pubblicita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle relazioni di stima; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli atti di conferimento, acquisto ovvero cessione di beni dei soggetti conferenti, acquirenti o cedenti e del relativo gruppo di appartenenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dei prestiti stipulati per il finanziamento delle operazioni di rimborso previste dall'articolo 11, comma 3, lettera b).
+
 Gli atti e le informazioni di cui al comma 4, lettere b) e c), possono essere rese disponibili al pubblico anche per estratto.
 
 ## Art. 4. — Oggetto dell'investimento
+
+1.
+                        
+                            
+                                Il patrimonio dell'Oicr puo' essere investito in una o piu' delle categorie dei seguenti beni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    strumenti finanziari negoziati in un mercato regolamentato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    strumenti finanziari non negoziati in un mercato regolamentato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    depositi bancari di denaro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    beni immobili, diritti reali immobiliari, ivi compresi quelli derivanti da contratti di leasing immobiliare con natura traslativa e da rapporti concessori, e partecipazioni in societa' immobiliari, parti di altri FIA immobiliari, anche esteri; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    crediti e titoli rappresentativi di crediti, ivi inclusi i crediti erogati a valere sul patrimonio dell'Oicr; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    altri beni per i quali esiste un mercato e che abbiano un valore determinabile con certezza con una periodicita' almeno semestrale.
 
 Il patrimonio dell'Oicr e' investito nelle categorie di beni di cui al comma 1 nel rispetto delle disposizioni del presente regolamento nonche' dei criteri, dei divieti, e delle norme prudenziali di contenimento e di frazionamento del rischio, nonche' delle altre disposizioni stabilite dalla Banca d'Italia ai sensi dell'articolo 6, comma 1, lettera c), del TUF.
 
@@ -68,6 +382,24 @@ Il patrimonio degli OICVM italiani e' investito nei beni previsti dalla direttiv
 Gli OICVM italiani possono essere istituiti solamente nella forma di fondo comune di investimento aperto o di Sicav.
 
 ## Art. 8. — FIA italiani aperti
+
+1.
+                        
+                            
+                                I FIA italiani possono essere istituiti in forma aperta se il relativo patrimonio e' investito, nel rispetto dei limiti e dei criteri stabiliti dalla Banca d'Italia, ai sensi dell'articolo 6, comma 1, lettera c), del TUF: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei beni previsti dall'articolo 4, comma 1, lettere a) e c); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei beni indicati dall'articolo 4, comma 1, lettera b), in misura non superiore al 20 per cento.
 
 L'investimento del patrimonio dei FIA in quote o azioni di Oicr aperti non quotati non viene computato nel calcolo del limite del 20 per cento di cui al comma 1, lettera b).
 
@@ -112,6 +444,24 @@ Le quote o le azioni di FIA italiani chiusi sono rimborsate ai partecipanti seco
 
 Il regolamento o lo statuto del FIA puo' prevedere i casi in cui e' possibile una proroga del termine di durata del FIA non superiore a tre anni per il completamento della liquidazione degli investimenti. Nel caso in cui il gestore si avvale di tale proroga, ne da' tempestiva comunicazione alla Banca d'Italia e alla Consob, specificando le motivazioni poste a supporto della relativa decisione.
 
+3.
+                        
+                            
+                                Il regolamento o lo statuto del FIA puo' prevedere la possibilita' che le quote o le azioni siano rimborsate anticipatamente nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su iniziativa del gestore, a tutti i partecipanti, proporzionalmente alle quote o alle azioni da ciascuno possedute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su richiesta dei singoli partecipanti, per un ammontare non superiore alle somme acquisite attraverso nuove emissioni e, per i FIA per cui non sia prevista la quotazione in un mercato regolamentato o in un sistema multilaterale di negoziazione, per un ammontare non superiore ai prestiti contratti dal fondo, purche' non eccedenti il 10 per cento del valore del FIA. Nel caso in cui il fondo effettui nuove emissioni, i rimborsi anticipati hanno luogo con la medesima frequenza ed in coincidenza con le emissioni stesse e alla stessa data e' prevista la determinazione periodica del valore delle quote o delle azioni del FIA. Nel caso in cui le somme necessarie per effettuare i rimborsi eccedano quelle acquisite attraverso le nuove emissioni ed i prestiti consentiti, i rimborsi anticipati avvengono proporzionalmente secondo i criteri stabiliti nel regolamento o nello statuto del FIA al fine di assicurare la parita' di trattamento dei partecipanti.
+
 ## Art. 12. — FIA italiani immobiliari
 
 I FIA italiani immobiliari sono istituiti in forma chiusa.
@@ -138,6 +488,31 @@ Il gestore puo' istituire FIA italiani riservati a investitori professionali in 
 
 ((
 
+2.
+                        
+                            
+                                Il regolamento o lo statuto del FIA italiano riservato puo' prevedere la partecipazione anche dei seguenti soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    investitori non professionali che sottoscrivono ovvero acquistano quote o azioni del FIA per un importo complessivo non inferiore a cinquecentomila euro. Tale partecipazione minima iniziale non e' frazionabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    investitori non professionali che nell'ambito della prestazione del servizio di consulenza in materia di investimenti sottoscrivono ovvero acquistano quote o azioni del FIA per un importo iniziale non inferiore a centomila euro a condizione che, per effetto della sottoscrizione o dell'acquisto, l'ammontare complessivo degli investimenti in FIA riservati non superi il 10 per cento del proprio portafoglio finanziario. La partecipazione minima iniziale non e' frazionabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    soggetti abilitati alla prestazione del servizio di gestione di portafogli che nell'ambito dello svolgimento di detto servizio sottoscrivono ovvero acquistano quote o azioni del FIA per un importo iniziale non inferiore a centomila euro per conto di investitori non professionali.
+
 ))
 
 ((
@@ -153,6 +528,45 @@ I FIA immobiliari riservati possono essere commercializzati a enti pubblici, che
 I componenti dell'organo di amministrazione e ((il personale)) del gestore possono sottoscrivere quote o azioni di FIA italiani riservati da essi gestiti anche ((per importi inferiori a quelli indicati)) al comma 2.
 
 Il regolamento o lo statuto del FIA italiano riservato specifica le categorie di investitori alle quali il FIA e' riservato.
+
+6.
+                        
+                            
+                                Il regolamento o lo statuto del FIA italiano riservato, oltre a indicare in modo analitico ed esaustivo quanto previsto negli articoli 37, commi 1 e 2, 35-quater e 35-quinquies del TUF, indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la circostanza che il regolamento del fondo non e' soggetto all'approvazione della Banca d'Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la circostanza che non trovano applicazione le norme prudenziali di contenimento e frazionamento del rischio stabilite dalla Banca d'Italia per i FIA non riservati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'obiettivo, il profilo di rischio, lo stile di gestione e le tecniche di investimento del FIA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il livello massimo di leva finanziaria del FIA; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i limiti di investimento del FIA.
 
 Le quote o le azioni dei FIA italiani riservati non possono essere collocate, rimborsate o rivendute da parte di chi le possiede, ((...)) a soggetti diversi da quelli indicati nel regolamento o nello statuto del FIA.
 
@@ -187,7 +601,57 @@ Gli esperti indipendenti devono essere iscritti ininterrottamente da almeno cinq
 
 Nell'ipotesi in cui gli esperti indipendenti siano persone giuridiche, essi non possono far parte del gruppo del gestore, come definito dall'articolo 11, comma 1, lettera a), del TUF.
 
+9.
+                        
+                            
+                                Se gli esperti indipendenti sono persone giuridiche e' necessario che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'atto costitutivo preveda espressamente tra le attivita', che costituiscono l'oggetto sociale ai sensi dell'articolo 2328, secondo comma, numero 3, del codice civile, la valutazione dei beni oggetto dell'investimento dell'Oicr; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la struttura organizzativa sia adeguata rispetto all'incarico da assumere.
+
 ((10. L'esperto indipendente si astiene dalla valutazione se versa direttamente in una situazione di conflitto di interessi rilevante in relazione ai beni da valutare e provvede a darne tempestiva comunicazione al gestore. L'esperto indipendente adotta al riguardo presidi organizzativi e procedure interne idonei, nel rispetto del principio di proporzionalita', ad individuare, monitorare e gestire i potenziali conflitti di interessi e a garantire l'autonomia e l'indipendenza del processo di valutazione immobiliare. Di tali presidi e procedure e' data comunicazione dall'esperto indipendente al gestore prima del conferimento dell'incarico di valutazione ed ai fini della valutazione di cui al comma 2, nonche' in occasione di ogni loro aggiornamento o modifica))
+
+11.
+                        
+                            
+                                L'incarico di esperto indipendente non puo' essere conferito a soggetti che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono soci, amministratori o sindaci del gestore che conferisce l'incarico o di altre societa' od enti che lo controllano, o che sono controllati da questi ultimi o dal gestore, ovvero lo sono stati nel triennio antecedente al conferimento dell'incarico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono legati al gestore che conferisce l'incarico o ad altre societa' o enti che lo controllano, o che sono controllati da questi ultimi o dal gestore, da rapporti di lavoro subordinato o autonomo, ovvero lo sono stati nel triennio antecedente al conferimento dell'incarico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono parenti o affini entro il quarto grado dei soci, degli amministratori, dei sindaci o dei direttori generali del gestore che conferisce l'incarico o di altre societa' od enti che lo controllano o che sono controllati da questi ultimi o dal gestore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    si trovano in una situazione che puo' compromettere comunque l'indipendenza nei confronti del gestore che conferisce l'incarico.
 
 ((12. Il gestore verifica che l'affidamento di incarichi ulteriori non direttamente correlati a quello di valutazione dell'Oicr affidati all'esperto indipendente, ovvero alle societa' da esso controllate, collegate o soggette a comune controllo, alle societa' controllanti, nonche' ai loro amministratori e dipendenti, non pregiudichi l'indipendenza dell'incarico di valutazione conferito all'esperto medesimo e non comporti il sorgere di potenziali conflitti di interessi. A tal fine, l'esperto comunica al gestore, su richiesta di quest'ultimo, i presidi adottati per garantire l'oggettivita' e indipendenza della valutazione))
 

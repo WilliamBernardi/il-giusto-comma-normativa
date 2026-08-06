@@ -8,8 +8,8 @@ codice_redazionale: 001G0258
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,45 @@ Il venti per cento dei posti e' riservato al personale appartenente al Corpo di 
 
 ## Art. 2. — Requisiti di partecipazione
 
+1.
+                        
+                            
+                                Al concorso per la nomina alla qualifica iniziale del ruolo direttivo ordinario del Corpo di polizia penitenziaria sono ammessi a partecipare i cittadini italiani, di ambo i sessi, in possesso dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti civili e politici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio nel Corpo di polizia penitenziaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    requisiti morali e di condotta;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    laurea in giurisprudenza o in scienze politiche, ovvero in economia e commercio, purche' siano stati sostenuti gli esami di diritto penale e diritto processuale penale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eta' non superiore agli anni trentadue.
+
 Il personale del Corpo di polizia penitenziaria, in possesso dei prescritti requisiti previsti al comma 1, ad eccezione del limite d'eta', non deve aver riportato, nel precedente biennio, una sanzione disciplinare pari o piu' grave della deplorazione. Si applicano, altresi', le disposizioni contenute negli articoli 93 e 205 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
 
 Ai sensi dell'articolo 7, comma 3, del decreto legislativo n. 146 del 2000, se i posti riservati al personale appartenente al 'Corpo di polizia penitenziaria non vengono coperti, i posti resi disponibili sono assegnati ai candidati idonei, in base alla graduatoria del concorso.
@@ -38,6 +77,45 @@ Ai sensi dell'articolo 7, comma 3, del decreto legislativo n. 146 del 2000, se i
 Al concorso non sono ammessi coloro che sono stati espulsi dalle forze armate, dai corpi militarmente organizzati o destituiti da pubblici uffici, che hanno riportato, condanna a pena detentiva per reati non colposi o sono stati sottoposti a misura di prevenzione.
 
 ## Art. 3. — Bando di concorso
+
+1.
+                        
+                            
+                                Il concorso e' indetto con decreto del capo del Dipartimento dell'Amministrazione penitenziaria. Il bando di concorso deve indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti complessivi messi a concorso e dei posti riservati al personale appartenente al Corpo di polizia penitenziaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti richiesti per la partecipazione al concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il termine e le modalita' di presentazione delle domande di partecipazione, nonche' l'avviso relativo al diario ed alle sedi delle prove scritte ed orali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le materie oggetto delle prove d'esame e la votazione minima da conseguire nelle stesse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ogni altra prescrizione o notizia utile all'espletamento del concorso.
 
 ## Art. 4. — Esclusione dal concorso
 
@@ -68,6 +146,24 @@ La commissione e' nominata con decreto del capo del Dipartimento della Amministr
 ## Art. 7. — Prove d'esame
 
 Le prove d'esame del concorso consistono in due prove scritte ed una prova orale.
+
+2.
+                        
+                            
+                                Prove scritte:
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto penitenziario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto penale e diritto processuale penale, con particolare riferimento alle norme concernenti l'attivita' di polizia giudiziaria.
 
 Sono ammessi alla successiva fase del concorso i candidati che hanno riportato una votazione non inferiore a ventuno/trentesimi per ciascuna delle prove scritte.
 
@@ -151,6 +247,31 @@ I vice commissari penitenziari in prova che non superano l'esame finale possono 
 
 ## Art. 13. — Dimissioni dal corso
 
+1.
+                        
+                            
+                                E' dimesso dal corso di cui al precedente articolo 12 il personale che:
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera gli esami di fine corso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non e' dichiarato idoneo al servizio d'istituto per il numero e la gravita' delle sanzioni disciplinari riportate.
+
 Il personale che, per giustificato motivo, e' stato assente dal corso per piu' di trenta giorni e' ammesso a frequentare un corso successivo. Il personale di sesso femminile, la cui assenza oltre i trenta giorni e' stata determinata da maternita', e' ammesso a frequentare il corso successivo ai periodi d'assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
 E' espulso dal corso il personale resosi responsabile d'infrazioni punibili con sanzioni disciplinari piu' gravi della deplorazione.
@@ -174,6 +295,59 @@ E' escluso dal concorso il personale che, nel precedente biennio, ha riportato u
 L'esclusione dal concorso per difetto dei requisiti richiesti e' disposta, in qualunque momento, con decreto motivato del capo del Dipartimento dell'Amministrazione penitenziaria.
 
 ## Art. 16. — Bando di concorso
+
+1.
+                        
+                            
+                                Il concorso e' indetto con decreto del capo del Dipartimento dell'Amministrazione penitenziaria. Il bando di concorso deve indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti complessivi messi a concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti richiesti per la partecipazione al concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il termine e le modalita' di presentazione delle domande di partecipazione, nonche' l'avviso relativo al diario ed alle sedi delle prove scritte ed orali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le categorie dei titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le materie oggetto delle prove d'esame;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la votazione minima da conseguire nelle prove scritte e nel colloquio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile all'espletamento del concorso.
 
 ## Art. 17. — Commissione esaminatrice
 
@@ -205,6 +379,59 @@ I candidati possono, a domanda, integrare il colloquio con una prova facoltativa
 Ai candidati che superano le prove facoltative e' attribuito un punteggio fino ad un massimo di 1.50 per ciascuna prova, che va aggiunto a quello ottenuto al colloquio.
 
 ## Art. 19. — Titoli
+
+1.
+                        
+                            
+                                Le categorie dei titoli da ammettere a valutazione ed il punteggio massimo da attribuire a ciascuna categoria di titoli, sono stabiliti come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    giudizi complessivi del triennio anteriore: fino a punti 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' delle funzioni svolte, come dedotte dai rapporti informativi, con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta anche in relazione alla sede di servizio, fino a punti 6;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi speciali conferiti con specifico provvedimento dell'Amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale: fino a punti 6;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma di laurea: fino a punti 9;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    titoli attinenti alla formazione ed al perfezionamento professionale del candidato, con particolare riguardo al profitto tratto dai corsi professionali: fino a punti
+
+                                
+                            
+                            
+                                f)
+                                
+                                    incarichi e servizi di particolare rilievo svolti nel settore delle relazioni esterne, nonche' nel campo dell'informazione, tendenti alla divulgazione di notizie, atti e documenti utili riguardanti l'Amministrazione penitenziaria, sempre che cio' risulti da atti ufficiali: fino a punti 4;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    speciali riconoscimenti: fino a punti 2;
 
 Nell'ambito delle suddette categorie la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi.
 Predetermina, altresi', i punteggi da attribuire ai giudizi complessivi presi in considerazione. Tali operazioni vengono riportate nei verbali del concorso.
@@ -249,6 +476,24 @@ I provvedimenti di dimissione e di espulsione dal corso sono adottati con decret
 ## - CAPO II Norme transitorie e finali
 
 ## Art. 23. — Nomina a vice commissario penitenziario
+
+1.
+                        
+                            
+                                In prima attuazione, la nomina a vice commissario penitenziario del ruolo direttivo speciale del Corpo di polizia penitenziaria si consegue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per n. 65 posti mediante concorso per titoli ed esame, consistente in una prova scritta ed in un successivo colloquio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per n. 45 posti mediante selezione consistente nella valutazione di titoli ed in un successivo colloquio.
 
 ## Art. 24. — Requisiti per l'ammissione al concorso previsto dall'articolo 23, lett. a)
 
@@ -296,6 +541,24 @@ Si applicano, in quanto compatibili, le disposizioni del precedente articolo 22.
 
 ## Art. 29. — Requisiti per l'ammissione alla selezione prevista dall 'articolo 23, lett. b)
 
+1.
+                        
+                            
+                                La selezione prevista dall'articolo 23, lett. b) e' riservata:
+ 
+                            
+                            
+                                a)
+                                
+                                    per n. 35 posti, al personale del ruolo degli ispettori del Corpo di polizia penitenziaria, con qualifica non inferiore ad ispettore superiore, che abbia maturato un'anzianita' nel ruolo di almeno 10 anni e che abbia svolto, senza demerito, per almeno 5 anni le funzioni di comandante di reparto presso istituti penitenziari ai quali, nel periodo considerato, sia stato assegnato un contingente medio annuo di Polizia penitenziaria non inferiore a 100 unita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i restanti n. 10 posti, al personale appartenente al ruolo degli ispettori, con qualifica di ispettore superiore, in possesso almeno del diploma di scuola media e con almeno 30 anni di effettivo servizio alla data di entrata in vigore del decreto legislativo 21 maggio 2000, n. 146.
+
 Ai fini dell'esclusione dalla selezione e dell'eventuale ammissione con riserva si applicano le disposizioni previste dall'articolo 24, commi 2, 3 e 4.
 
 ## Art. 30. — Selezione
@@ -305,6 +568,161 @@ La selezione consiste nella valutazione di titoli ed un successivo colloquio.
 ## Art. 31. — Titoli
 
 Sono ammessi a valutazione i titoli di servizio acquisiti nel quinquennio precedente la data di pubblicazione del bando che indice la selezione, fatta eccezione per i titoli di studio e di abilitazione professionale.
+
+2.
+                        
+                            
+                                Le categorie dei titoli ammessi a valutazione ed i criteri di massima per la valutazione dei titoli, sono stabiliti come segue: 
+ A) CATEGORIA I - Rapporti informativi e giudizi complessivi: fino a punti 20. 
+ 
+Per il giudizio complessivo di OTTIMO con punti: 
+32 - punti 4,00 
+31 - punti 3,70 
+30 - punti 3,50 
+29 - punti 3,00 
+28 - punti 2,50 
+27 - punti 2,00 
+ 
+- Per il giudizio complessivo di DISTINTO con punti: 
+26 - punti 1,50 
+25 - punti 1,00 
+24 - punti 0,50 
+Non sono valutabili i giudizi complessivi inferiori a "DISTINTO". 
+ B) CATEGORIA II - Qualita' delle funzioni svolte con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta in relazione alla sede di servizio: fino a punti 11. 
+ 
+- Per i periodi inferiori ad un anno saranno valutabili soltanto le frazioni superiori a sei mesi. 
+Sottocategoria B1 : fino ad un massimo complessivo di punti 3,50. 
+- Funzioni di comandante di reparto svolte in sedi la cui capienza detenuti e' superiore alle 800 unita' : 
+ punti 0,70 per anno. 
+- Funzioni di comandante di reparto svolte in sedi la cui capienza detenuti e' compresa tra 601 e 800 unita': 
+ punti 0,60 per anno. 
+- Funzioni di comandante di reparto svolte in sedi la cui capienza detenuti e' compresa tra 451 e 600 unita': 
+ punti 0,50 per anno. 
+- Funzioni di comandante di reparto svolte in sedi la cui capienza detenuti e' compresa tra 301 e 450 unita': 
+ punti 0,35 per anno. 
+- Funzioni di comandante di reparto svolte in sedi la cui capienza detenuti e' compresa tra 201 e 300 unita': 
+ punti 0,20 per anno. 
+- Funzioni di comandante di reparto svolte in sedi la cui capienza detenuti e' compresa tra 100 e 200 unita': 
+ punti 0,10 per anno. 
+ 
+Sottocategoria B2: fino ad un massimo complessivo di punti 0,50: 
+- Funzioni di comandante di reparto svolte in sedi nelle quali sono istituite sezioni per detenuti sottoposti all'articolo 41 bis dell'Ordinamento penitenziario ovvero per collaboratori di giustizia: 
+punti 0,10 per anno 
+ 
+Sottocategoria B3: fino ad un massimo complessivo di punti 3,50: 
+- Funzioni di comandante di reparto in sedi alle quali sia stato assegnato un contingente medio annuo di Polizia penitenziaria superiore alle 800 unita': 
+ punti 0,70 per anno 
+- Funzioni di comandante di reparto in sedi alle quali sia stato assegnato un contingente medio annuo di Polizia penitenziaria compreso tra le 601 e 800 unita': 
+ punti 0,60 per anno 
+- Funzioni di comandante di reparto ,in sedi alle quali sia stato assegnato un contingente medio annuo di Polizia penitenziaria compreso tra le 451 e 600 unita': 
+ punti 0,50 per anno 
+- Funzioni di comandante di reparto in sedi alle, quali sia stato assegnato un contingente medio annuo di Polizia penitenziaria compreso tra le 301 e 450 unita': 
+ punti 0,35 per anno 
+- Funzioni di comandante di reparto in sedi alle quali sia stato assegnato un contingente medio annuo di Polizia penitenziaria compreso tra le 201 e 300 unita': 
+ punti 0,20 per anno 
+- Funzioni di comandante di reparto in sedi alle quali sia stato assegnato. un contingente medio annuo di Polizia penitenziaria compreso tra le 100 e 200 unita': 
+ punti 0,10 per anno 
+ 
+Sottocategoria B4: fino ad un massimo complessivo di punti 3,50. 
+E' valutata l' anzianita' nelle funzioni di comandante di reparto superiore a cinque anni. 
+ Si attribuiscono 0,40 punti per ogni 
+ anno oltre il quinto. 
+ C) CATEGORIA III - Incarichi svolti. 
+ Con particolare riferimento agli incarichi svolti e servizi speciali conferiti con specifico provvedimento dell'Amministrazione che comportino un rilevante aggravio di lavoro o presuppongano una particolare competenza professionale:fino a punti 6,00. 
+ Il punteggio massimo di punti 6,00 sara' ripartito nelle seguenti sottocategorie: 
+ Sottocategoria C1: fino ad un massimo complessivo di punti 2,00. 
+ Incarichi conferiti con provvedimento formale dell'Amministrazione di appartenenza o di quella presso cui l'impiegato presta servizio che non rientrino nelle normali mansioni di ufficio, ovvero, nel caso rientrino nelle normali mansioni di ufficio, determinino un rilevante aggravio di lavoro o presuppongano l'assunzione di particolari responsabilita', ovvero abbiano natura fiduciaria o carattere di riservatezza. 
+ Sottocategoria C2: fino ad un massimo complessivo di punti 2,00. 
+ Partecipazione a commissioni di concorso, a comitati e consigli, commissioni di studio, gruppi di lavoro o altri organi collegiali -costituiti con formali provvedimenti nell'ambito dell'Amministrazione della Giustizia ovvero costituiti al di fuori dell'Amministrazione di 'appartenenza ma con formale provvedimento di una pubblica Amministrazione. 
+ Sottocategoria C3: fino ad un massimo complessivo di punti 2,00. 
+ Incarichi di docenza in corsi o seminari di formazione, di aggiornamento ed equiparati che vertano su materie attinenti ai servizi dell'Amministrazione penitenziaria, tenuti da un'Amministrazione statale o ente pubblico territoriale. 
+ D) CATEGORIA IV - Formazione e perfezionamento professionale fino a punti 4.00. 
+ Sono valutabili i titoli attinenti alla formazione ed al perfezionamento professionale del candidato con particolare riguardo al profitto tratto dai corsi professionali. 
+ Per ciascuno di essi viene attribuito il punteggio di seguito indicato in relazione al particolare profitto riportato: 
+ 
+ 
+                                
+                                    
+                                        
+                                            - giudizio finale di 
+                                        
+                                        
+                                            "Ottimo" 
+                                        
+                                        
+                                            punti 1,00 
+                                        
+                                    
+                                    
+                                        
+                                            - giudizio finale di 
+                                        
+                                        
+                                            "Distinto" 
+                                        
+                                        
+                                            punti 0,75 
+                                        
+                                    
+                                    
+                                        
+                                            - giudizio finale di 
+                                        
+                                        
+                                            "Buono" 
+                                        
+                                        
+                                            punti 0,50 
+                                        
+                                    
+                                    
+                                        
+                                            - giudizio finale di    
+                                        
+                                        
+                                            "Sufficiente", "Con Profitto", "Esito Favorevole", "Idoneita'" e "Positivo"  
+                                        
+                                        
+                                               punti 0,15 
+                                        
+                                    
+                                
+                                
+    
+ 
+ E) CATEGORIA V - Lavori originali elaborati per il servizio: no a punti 4.50. 
+ Sono da considerare lavori originali elaborati per il servizio quelli che il candidato ha svolto nell'esercizio, delle proprie attribuzioni o per speciale incarico conferito dall'Amministrazione d'appartenenza o da quella presso cui presta servizio o che l'Amministrazione abbia utilizzato, sempre che cio' risulti da atti ufficiali, e che vertono su problemi giuridici, amministrativi, economici e tecnici o su questioni di particolare rilievo, attinenti ai servizi dell'Amministrazione. 
+ F) CATEGORIA VI -Pubblicazioni scientifiche: fino a punti 7,50. 
+ Sono valutabili le pubblicazioni scientifiche edite relative a discipline scientifiche, amministrative, economiche e tecniche attinenti all'attivita' ed ai servizi propri dell'Amministrazione di appartenenza e che costituiscano un contributo apprezzabile alla dottrina ovvero alla pratica professionale. 
+ Non saranno valutate le eventuali dispense o pubblicazioni inerenti alle docenze tenute nei corsi di aggiornamento o di perfezionamento, ne' articoli o note pubblicati su periodici e quotidiani, a meno che si tratti di riviste di carattere giuridico o scientifico. 
+ Per ciascun lavoro, il punteggio attribuibile variera' da un minimo di 1,50 ad un massimo di 2.50. 
+ G) CATEGORIA VII - Incarichi e servizi speciali nel settore delle relazioni esterne: fino a punti 2,50. 
+ Sono valutabili gli incarichi e servizi speciali di particolare rilievo nel settore delle relazioni esterne, nonche' nel campo dell'informazione, tendenti alla divulgazione di notizie, atti e documenti utili riguardanti l'Amministrazione penitenziaria, sempre che cio' risulti da atti ufficiali 
+ Si attribuiscono 0,50 punti per anno 
+ H) CATEGORIA VIII - Titoli di studio e di abilitazione professionale. 
+ 
+
+1) Diploma di laurea fino a punti 9,00 
+                            
+                            
+                                a)
+                                
+                                    corso di specializzazione post - laurea punti 1,50
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione all'esercizio della professione punti 1,50 2) Diploma di maturita' di scuola media superiore
+ di secondo grado punti 0,50 a) abilitazione all'esercizio della professione punti 0,30 
+ 
+ I) CATEGORIA IX - Speciali riconoscimenti: fino a punti 3,00. 
+ 
+Sono valutati i sotto indicati riconoscimenti: 
+ 
+
+1) Medaglia d'oro al valor militare o civile punti 1,50 2) Medaglia d'argento al valor militare o civile punti 1,00 3) Medaglia di bronzo al valor militare o civile punti 0,75 4) Attestato di pubblica benemerenza punti 0,20 5) Encomio solenne punti 0,70 6) Encomio punti 0,50 7) Lode ministeriale Ovvero Lode ex articolo 78 -
+D.P.R. 15.2.1999, punti 0,30
 
 Nell'ambito delle suddette categorie la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi; annotai titoli valutati ed il punteggio attribuito su apposite schede individuali, sottoscritte da tutti i componenti, che saranno allegate al fascicolo concorsuale di ciascun candidato.
 
@@ -333,6 +751,24 @@ I vincitori della selezione, ottenuta la nomina, frequentano, presso l'Istituto 
 Si applicano, in quanto compatibili, le disposizioni del precedente articolo 22.
 
 ## Art. 35. — Nomina alla qualifica di commissario penitenziario
+
+1.
+                        
+                            
+                                In prima attuazione, alla copertura di n. 40 posti di commissario penitenziario del ruolo direttivo speciale del Corpo di polizia penitenziaria si provvede, ai sensi del precedente articolo 23, lett. b), mediante una selezione alla quale e' ammesso il personale che riveste la qualifica di ispettore superiore, con una anzianita' di almeno 30 anni di effettivo servizio e di almeno 10 anni nel ruolo degli ispettori:
+ 
+                            
+                            
+                                a)
+                                
+                                    in possesso di diploma di laurea ;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ovvero in possesso di diploma di maturita' di scuola media superiore di secondo grado e che abbia svolto, senza demerito, per almeno 5 anni le funzioni di comandante di reparto presso istituti penitenziari ai quali sia stato assegnato, nel periodo considerato, un contingente medio annuo di Polizia Penitenziaria non inferiore alle 100 unita'.
 
 Ai fini dell'esclusione dalla selezione e dell'eventuale ammissione con riserva si applicano le disposizioni previste dall'articolo 24, commi 2, 3 e 4.
 

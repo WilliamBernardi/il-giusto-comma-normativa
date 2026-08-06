@@ -8,8 +8,8 @@ codice_redazionale: 092G0483
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,31 @@ L'Istituto superiore di studi penitenziari dipende dal Ministero di grazia e giu
 
 ## Art. 2. — (Attivita')
 
+1.
+                    
+                        
+                            L'Istituto superiore di studi penitenziari, oltre allo svolgimento dei corsi biennali di formazione per la nomina a direttore penitenziario, previsti dall'articolo 17, comma 1, lettera h), della legge 15 dicembre 1990, n. 395, attende allo svolgimento dei corsi di:
+ 
+                        
+                        
+                            a)
+                            
+                                formazione iniziale del personale direttivo dell'Amministrazione penitenziaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                aggiornamento e di specializzazione del personale direttivo dell'amministrazione penitenziaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                aggiornamento dei dirigenti dell'Amministrazione penitenziaria d'intesa con la Scuola Superiore della Pubblica Amministrazione.
+
 L'Istituto superiore di studi penitenziari svolge, altresi', attivita' di indagine sulle problematiche penitenziarie e predispone iniziative finalizzate alla valorizzazione delle esperienze nel settore e all'approfondimento della cultura giuridica penitenziaria del personale appartenente ai quadri direttivi dell'Amministrazione penitenziaria; sviluppo inoltre, nell'ambito dei compiti istituzionali, metodologie e modelli di organizzazione del trattamento dei detenuti e degli internati quali modelli operativi da proporre al Dipartimento dell'Amministrazione penitenziaria.
 
 ## Art. 3. — (Direttore)
@@ -44,6 +69,31 @@ Il direttore dell'Istituto superiore di studi penitenziari e' nominato, con decr
 Il direttore e' preposto alla organizzazione dei servizi e delle attivita' dell'istituto e si avvale della collaborazione di un servizio affari generali e organizzazione del personale dell'istituto, di un servizio amministrativo-contabile e di un servizio didattico per l'organizzazione dei corsi.
 
 ## Art. 4. — (Struttura dell'Istituto)
+
+1.
+                    
+                        
+                            L'Istituto superiore di studi penitenziari e' articolato nelle seguenti divisioni:
+ 
+                        
+                        
+                            a)
+                            
+                                Divisione I, competente per il corso biennale di formazione per la nomina a direttore penitenziario, e per le iniziative di formazione e aggiornamento dei dirigenti dell'Amministrazione penitenziaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Divisione II, competente per i corsi di specializzazione del personale direttivo dell'Amministrazione penitenziaria;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Divisione III, competente per i corsi di formazione del personale direttivo dell'Amministrazione penitenziaria.
 
 ## Art. 5. — (Organi collegiali)
 
@@ -68,7 +118,71 @@ Del Collegio, che e' presieduto dal direttore dell'Istituto, fanno parte tutti i
 
 Le funzioni di segretario sono svolte da un funzionario dell'Amministrazione penitenziaria, di qualifica non inferiore all'ottavo livello, in servizio presso l'Istituto.
 
+4.
+                    
+                        
+                            Il collegio dei docenti:
+ 
+                        
+                        
+                            a)
+                            
+                                da' pareri sullo svolgimento dei corsi, sull'attuazione del pi- ano di studi e sul contenuto dei programmi dei corsi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                formula proposte in ordine ai testi da adottare sull'aggiornamento dell'attivita' didattica e all'acquisizione alla biblioteca dell'Istituto di libri, riviste ed ogni altra pubblicazione ritenuta pertinente alle materie in oggetto di insegnamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                designa i propri rappresentanti in seno al consiglio di istituto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                sottopone al direttore le questioni eventualmente sollevate dai docenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                esprime parere su ogni altra questione che il direttore ritenga di sottoporre al collegio stesso.
+
 ## Art. 8. — (Consiglio di Istituto)
+
+1.
+                    
+                        
+                            Il consiglio d'istituto e' organo di collaborazione tra docenti e frequentatori dei corsi, e' presieduto dal direttore dell'Istituto ed e' composto:
+ 
+                        
+                        
+                            a)
+                            
+                                dai responsabili dei servizi e delle divisioni dell'Istituto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                da tre docenti dell'Istituto designati dal collegio dei docenti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dai tre funzionari piu' anziani partecipanti ai corsi di formazione e aggiornamento.
 
 Il consiglio d'istituto propone al direttore dell'Istituto le iniziative di sperimentazione sulla formazione didattica, sul funzionamento della biblioteca, sull'uso delle attrezzature didattiche, sul funzionamento dei servizi generali dell'Istituto, nonche' su ogni altra questione che il direttore ritenga di sottoporre al consiglio stesso.
 
@@ -124,6 +238,38 @@ A coloro che abbiano superato il corso biennale sono riconosciuti gli esami sost
 Gli interessati possono conseguire il diploma di laurea dopo aver superato gli esami integrativi indispensabili al completamento degli studi, conformemente ai piani di studio delle singole universita'.
 
 ## Art. 16. — (Dimissioni dal corso)
+
+1.
+                    
+                        
+                            Sono dimessi dal corso gli allievi che:
+ 
+                        
+                        
+                            a)
+                            
+                                dichiarino di rinunciare al corso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                non abbiano superato, al termine del primo anno, almeno meta' degli esami delle materie universitarie e tutte quelle professionali previste dal piano di studi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non abbiano superato l'esame finale;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non siano dichiarati idonei per il numero e la gravita' delle sanzioni riportate.
 
 E' consentita la ripetizione di una sessione per una sola volta nel biennio agli allievi che siano stati assenti dalle attivita' didattiche della stessa sessione per piu' di trenta giorni, anche se non consecutivi, o per piu' di 45 per infermita' comunque contratta.
 

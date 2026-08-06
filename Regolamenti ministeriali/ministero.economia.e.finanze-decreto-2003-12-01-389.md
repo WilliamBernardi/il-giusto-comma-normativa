@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-06-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,6 +50,52 @@ Le somme accantonate nel fondo di ammortamento potranno essere investite esclusi
 ## Art. 3. — Operazioni in strumenti derivati
 
 In caso di operazioni di indebitamento effettuate in valute diverse dall'euro, e' fatto obbligo di prevedere la copertura del rischio di cambio mediante «swap di tasso di cambio», inteso come un contratto tra due soggetti che assumono l'impegno di scambiarsi regolarmente flussi di interessi e capitale espressi in due diverse valute, secondo modalita', tempi e condizioni contrattualmente stabiliti.
+
+2.
+                    
+                        
+                            In aggiunta alle operazioni di cui al comma 1 del presente articolo e all'articolo 2 del presente decreto, sono inoltre consentite le seguenti operazioni derivate:
+ 
+                        
+                        
+                            a)
+                            
+                                «swap di tasso di interesse» tra due soggetti che assumono l'impegno di scambiarsi regolarmente flussi di interessi, collegati ai principali parametri del mercato finanziario, secondo modalita', tempi e condizioni contrattualmente stabiliti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisto di «forward rate agreement» in cui due parti concordano il tasso di interesse che l'acquirente del forward si impegna a pagare su un capitale stabilito ad una determinata data futura;
+
+                            
+                        
+                        
+                            c)
+                            
+                                acquisto di «cap» di tasso di interesse in cui l'acquirente viene garantito da aumenti del tasso di interesse da corrispondere oltre il livello stabilito;
+
+                            
+                        
+                        
+                            d)
+                            
+                                acquisto di «collar» di tasso di interesse in cui all'acquirente viene garantito un livello di tasso di interesse da corrispondere, oscillante all'interno di un minimo e un massimo prestabiliti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                altre operazioni derivate contenenti combinazioni di operazioni di cui ai punti precedenti, in grado di consentire il passaggio da tasso fisso a variabile e viceversa al raggiungimento di un valore soglia predefinito o passato un periodo di tempo predefinito;
+
+                            
+                        
+                        
+                            f)
+                            
+                                altre operazioni derivate finalizzate alla ristrutturazione del debito, solo qualora non prevedano una scadenza posteriore a quella associata alla sottostante passivita'. Dette operazioni sono consentite ove i flussi con esse ricevuti dagli enti interessati siano uguali a quelli pagati nella sottostante passivita' e non implichino, al momento del loro perfezionamento, un profilo crescente dei valori attuali dei singoli flussi di pagamento, ad eccezione di un eventuale sconto o premio da regolare al momento del perfezionamento delle operazioni non superiore a 1% del nozionale della sottostante passivita'.
 
 Le operazioni derivate sopra menzionate sono consentite esclusivamente in corrispondenza di passivita' effettivamente dovute e possono essere indicizzate esclusivamente a parametri monetari di riferimento nell'area dei Paesi appartenenti al Gruppo dei Sette piu' industrializzati.
 

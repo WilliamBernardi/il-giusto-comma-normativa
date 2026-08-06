@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -45,6 +45,25 @@ In caso di mescolanza, i tenori minimi fissati nell'allegato I per le diverse sp
 ## Art. 3. — Denominazioni di vendita e altre indicazioni
 
 Ai prodotti di cui all'articolo 1, comma 1, si applicano le disposizioni del regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio, del 25 ottobre 2011, e le disposizioni di cui al presente articolo. (1)
+
+2.
+                    
+                        
+                            Si applicano le seguenti particolari disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la dicitura concernente il contenuto di frutta: «frutta utilizzata: ... grammi (g) per 100 grammi (g)» di prodotto finito, se del caso previa detrazione del peso dell'acqua utilizzata per la preparazione degli estratti acquosi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 30 DICEMBRE 2025, N. 207)). ((1))
 
 Le indicazioni di cui al comma 2 figurano, a caratteri chiaramente leggibili, nello stesso campo visivo della denominazione del prodotto. (1)
 

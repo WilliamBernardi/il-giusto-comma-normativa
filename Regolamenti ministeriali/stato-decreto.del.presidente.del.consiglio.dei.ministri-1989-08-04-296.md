@@ -8,8 +8,8 @@ codice_redazionale: 089G0372
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -144,6 +144,24 @@ Alle operazioni connesse all'espletamento delle procedure semplificate provvede 
 Le funzioni di segretario sono svolte da un procuratore dello Stato.
 
 ## Art. 11. — Valutazione del servizio
+
+1.
+                        
+                            
+                                Decorso il termine di cui al precedente art. 9, l'avvocato distrettuale provvede a trasmettere le domande presentategli al segretario generale dell'Avvocatura dello Stato, unendo a ciascuna di esse una relazione sul servizio prestato dal dipendente, nella quale sia in particolare specificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli impiegati appartenenti alle qualifiche sesta e superiori: l'anzianita' di servizio nella qualifica posseduta; la qualita' del servizo prestato; la capacita' organizzativa; il rendimento, la cultura generale e la capacita' professionale; l'attitudine ad assumere maggiori responsabilita' e ad assolvere le funzioni della qualifica superiore; i lavori originali elaborati per il servizio; gli incarichi svolti; i corsi professionali superati; le pubblicazioni scientifiche; le qualita' morali e di carattere; la stima e il prestigio goduti in ufficio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli impiegati appartenenti alla quinta, quarta, terza e seconda qualifica: l'anzianita' di servizio nella qualifica posseduta; l'osservanza dell'orario e degli altri doveri d'ufficio; la qualita' del servizio prestato; il rendimento; la cultura generale e la capacita' professionale; l'attitudine ad assolvere le mansioni della qualifica superiore; i corsi professionali superati; le qualita' morali e di carattere.
 
 Per gli impiegati che a decorrere dal 1 gennaio 1980 hanno prestato servizio anche in sedi diverse dall'attuale, la relazione viene integrata dal segretario generale con gli elementi forniti dagli avvocati distrettuali delle sedi nelle quali e' stato prestato precedentemente servizio nel periodo anzidetto.
 

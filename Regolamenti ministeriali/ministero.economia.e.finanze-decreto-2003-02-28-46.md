@@ -8,8 +8,8 @@ codice_redazionale: 003G0062
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,24 @@ Ritenuta, pertanto, la necessita', al fine di razionalizzare e ottimizzare le sc
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 10 febbraio 2003;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al regolamento adottato con decreto del Ministro delle finanze 31 maggio 1999, n. 164, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 13, comma 1, lettera b), le parole "mese di maggio" sono sostituite dalle seguenti: "15 giugno";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 16, comma 1, lettere a) e b), le parole "20 giugno" sono sostituite dalle seguenti: "30 giugno".
 
 ## Art. 2.
 

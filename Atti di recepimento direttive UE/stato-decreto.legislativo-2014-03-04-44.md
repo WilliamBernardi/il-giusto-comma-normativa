@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2022-08-23
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,95 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 ## Art. 1. — Modifiche alla parte I del decreto legislativo 
  24 febbraio 1998, n. 58
 
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera d) e' sostituita dalla seguente: 
+ «d) 'IVASS': L'Istituto per la Vigilanza sulle Assicurazioni;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera i) e' sostituita dalla seguente: 
+ «i) 'societa' di investimento a capitale variabile'(Sicav): l'Oicr aperto costituito in forma di societa' per azioni a capitale variabile con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo la lettera i) e' inserita la seguente: 
+ «i-bis) 'societa' di investimento a capitale fisso' (Sicaf): l'Oicr chiuso costituito in forma di societa' per azioni a capitale fisso con sede legale e direzione generale in Italia avente per oggetto esclusivo l'investimento collettivo del patrimonio raccolto mediante l'offerta di proprie azioni e di altri strumenti finanziari partecipativi;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le lettere da j) a m-sexies) sono sostituite dalle seguenti: 
+ « j) 'fondo comune di investimento': l'Oicr costituito in forma di patrimonio autonomo, suddiviso in quote, istituito e gestito da un gestore; 
+ k) 'Organismo di investimento collettivo del risparmio' (Oicr): l'organismo istituito per la prestazione del servizio di gestione collettiva del risparmio, il cui patrimonio e' raccolto tra una pluralita' di investitori mediante l'emissione e l'offerta di quote o azioni, gestito in monte nell'interesse degli investitori e in autonomia dai medesimi nonche' investito in strumenti finanziari, crediti, partecipazioni o altri beni mobili o immobili, in base a una politica di investimento predeterminata; 
+ k-bis) 'Oicr aperto': l'Oicr i cui partecipanti hanno il diritto di chiedere il rimborso delle quote o azioni a valere sul patrimonio dello stesso, secondo le modalita' e con la frequenza previste dal regolamento, dallo statuto e dalla documentazione d'offerta dell'Oicr; 
+ k-ter)'Oicr chiuso': l'Oicr diverso da quello aperto; 
+ l) 'Oicr italiani': i fondi comuni d'investimento, le Sicav e le Sicaf; 
+ m) 'Organismi di investimento collettivo in valori mobiliari italiani' (OICVM italiani): il fondo comune di investimento e la Sicav rientranti nell'ambito di applicazione della direttiva 2009/65/CE; 
+ m-bis) 'Organismi di investimento collettivo in valori mobiliari UE' (OICVM UE): gli Oicr rientranti nell'ambito di applicazione della direttiva 2009/65/CE, costituiti in uno Stato dell'UE diverso dall'Italia; 
+ m-ter) 'Oicr alternativo italiano' (FIA italiano): il fondo comune di investimento, la Sicav e la Sicaf rientranti nell'ambito di applicazione della direttiva 2011/61/UE; 
+ m-quater)'FIA italiano riservato': il FIA italiano la cui partecipazione e' riservata a investitori professionali e alle categorie di investitori individuate dal regolamento di cui all'articolo 39; 
+ m-quinquies) 'Oicr alternativi UE (FIA UE)': gli Oicr rientranti nell'ambito di applicazione della direttiva 2011/61/UE, costituiti in uno Stato dell'UE diverso dall'Italia; 
+ m-sexies) 'Oicr alternativi non UE (FIA non UE)': gli Oicr rientranti nell'ambito di applicazione della direttiva 2011/61/UE, costituiti in uno Stato non appartenente all'UE;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo la lettera m-sexies) sono inserite le seguenti: 
+ «m-septies)'fondo europeo per il venture capital' (EuVECA): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 345/2013; 
+ m-octies) 'fondo europeo per l'imprenditoria sociale' (EuSEF); l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 346/2013; 
+ m-novies) 'Oicr feeder': l'Oicr che investe le proprie attivita' totalmente o in prevalenza nell'Oicr master; 
+ m-decies) 'Oicr master': l'Oicr nel quale uno o piu' Oicrfeeder investono totalmente o in prevalenza le proprie attivita'; 
+ m-undecies) 'investitori professionali': i clienti professionali ai sensi dell'articolo 6, commi 2-quinquies e 2-sexies; 
+ m-duodecies) 'investitori al dettaglio': gli investitori che non sono investitori professionali;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la lettera n) e' sostituita dalla seguente: 
+ «n) 'gestione collettiva del risparmio': il servizio che si realizza attraverso la gestione di Oicr e dei relativi rischi;»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le lettere da o-bis) a r) sono sostituite dalle seguenti: 
+ «o-bis) 'societa' di gestione UE': la societa' autorizzata ai sensi della direttiva 2009/65/CE in uno Stato dell'UE diverso dall'Italia, che esercita l'attivita' di gestione di uno o piu' OICVM; 
+ p) 'gestore di FIA UE' (GEFIA UE): la societa' autorizzata ai sensi della direttiva 2011/61/UE in uno Stato dell'UE diverso dall'Italia, che esercita l'attivita' di gestione di uno o piu' FIA; 
+ q) 'gestore di FIA non UE' (GEFIA non UE): la societa' autorizzata ai sensi della direttiva 2011/61/UE con sede legale in uno Stato non appartenente all'UE, che esercita l'attivita' di gestione di uno o piu' FIA; 
+ q-bis) 'gestore': la Sgr, la Sicav e la Sicaf che gestiscono direttamente i propri patrimoni, la societa' di gestione UE, il GEFIA UE, il GEFIA non UE, il gestore di EuVECA e il gestore di EuSEF. 
+ q-ter)'depositario di Oicr': il soggetto autorizzato nel paese di origine dell'Oicr ad assumere l'incarico di depositario; 
+ q-quater) 'depositario dell'Oicr master o dell'Oicrfeeder': il depositario dell'Oicr master o dell'Oicr feeder ovvero, se l'Oicr master o l'Oicr feeder e' unOicr UE o non UE, il soggetto autorizzato nello Stato di origine a svolgere i compiti di depositario; 
+ q-quinquies) 'quote e azioni di Oicr': le quote dei fondi comuni di investimento, le azioni di Sicav e le azioni e altri strumenti finanziari partecipativi di Sicaf; 
+ r) 'soggetti abilitati': le Sim, le imprese di investimento comunitarie con succursale in Italia, le imprese di investimento extracomunitarie, le Sgr, le societa' di gestione UE con succursale in Italia, le Sicav, le Sicaf, i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonche' gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 106 del Testo Unico bancario e le banche italiane, le banche comunitarie con succursale in Italia e le banche extracomunitarie, autorizzate all'esercizio dei servizi o delle attivita' di investimento;»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                alla lettera r-bis) le parole: «societa' di gestione armonizzata» sono sostituite dalle seguenti: «societa' di gestione UE».
+
 All'articolo 4, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, la parola: «Isvap» e' sostituita dalla seguente:
 «IVASS».
 
@@ -40,20 +129,152 @@ Dopo l'articolo 4-quater del decreto legislativo 24 febbraio 1998, n. 58, e' ins
 
 ## Art. 2. — Modifiche alla parte II, titolo I, del decreto legislativo 24 febbraio 1998, n. 58
 
+1.
+                    
+                        
+                            All'articolo 6 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera c) e' sostituita dalla seguente: 
+ «c) le regole applicabili agli Oicr italiani aventi a oggetto: 
+ 1) i criteri e i divieti relativi all'attivita' di investimento, avuto riguardo anche ai rapporti di gruppo; 
+ 2) le norme prudenziali di contenimento e frazionamento del rischio, limitatamente agli Oicr diversi dai FIA riservati. La Banca d'Italia puo' prevedere l'applicazione ai FIA italiani riservati di limiti di leva finanziaria massima e di norme prudenziali per assicurare la stabilita' e l'integrita' del mercato finanziario; 
+ 3) gli schemi tipo e le modalita' di redazione dei prospetti contabili che le societa' di gestione del risparmio, le Sicav e le Sicaf redigono periodicamente; 
+ 4) i metodi di calcolo del valore delle quote o azioni di Oicr; 
+ 5) i criteri e le modalita' da adottare per la valutazione dei beni e dei valori in cui e' investito il patrimonio e la periodicita' della valutazione. Per la valutazione di beni non negoziati in mercati regolamentati, la Banca d'Italia puo' prevedere il ricorso a esperti indipendenti e richiederne l'intervento anche in sede di acquisto e vendita dei beni da parte del gestore; 
+ 6) le condizioni per la delega a terzi della valutazione dei beni in cui e' investito il patrimonio dell'Oicr e del calcolo del valore delle relative quote o azioni.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera a), dopo il numero 3) e' inserito il seguente: 
+ «3-bis) gli obblighi informativi nei confronti degli investitori dei FIA italiani, dei FIA UE e dei FIA non UE;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2-quater, lettera d), il numero 1), e' sostituito dal seguente: 
+ «1) le imprese di investimento, le banche, le imprese di assicurazioni, gli Oicr, i gestori, i fondi pensione, gli intermediari finanziari iscritti negli elenchi previsti dagli articoli 106 e 113 del testo unico bancario, le societa' di cui all'articolo 18 del testo unico bancario, gli istituti di moneta elettronica, le fondazioni bancarie, i Governi nazionali e i loro corrispondenti uffici, compresi gli organismi pubblici incaricati di gestire il debito pubblico, le banche centrali e le organizzazioni sovranazionali a carattere pubblico;».
+
+2.
+                    
+                        
+                            All'articolo 8 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, primo e secondo periodo, le parole: «o delle Sicav» sono sostituite dalle seguenti: «, delle Sicav o delle Sicaf»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 le parole: «o delle Sicav» sono sostituite dalle seguenti: «, delle Sicav o delle Sicaf»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5 le parole: «o le Sicav» sono sostituite dalle seguenti: «, le Sicav o le Sicaf».
+
 All'articolo 9, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «e alle Sicav» sono sostituite dalle seguenti: «, alle Sicav e alle Sicaf».
 
 All'articolo 10, comma 4, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «di societa' di gestione armonizzate» sono sostituite dalle seguenti: «di societa' di gestione UE e di GEFIA UE».
 
 All'articolo 13, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, dopo la parola: «Sicav» sono inserite le seguenti: «e Sicaf».
 
+6.
+                    
+                        
+                            All'articolo 14 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo le parole: «delle Sicav» sono aggiunte le seguenti: «e delle Sicaf»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 dopo le parole: «le Sicav» sono inserite le seguenti: «e le Sicaf».
+
 All'articolo 15, comma 1, primo periodo, del decreto legislativo 24 febbraio 1998, n. 58, dopo la parola: «Sicav» sono inserite le seguenti: «o Sicaf».
 
 All'articolo 16, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «o in una Sicav» sono sostituite dalle seguenti: «, in una Sicav o in una Sicaf».
+
+9.
+                    
+                        
+                            All'articolo 17 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), le parole: «ed alle Sicav» sono sostituite dalle seguenti: «, alle Sicav e alle Sicaf»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera c), le parole: «e nelle Sicav» sono sostituite dalle seguenti: «, nelle Sicav e nelle Sicaf».
 
 All'articolo 18 del decreto legislativo 24 febbraio 1998, n. 58, il comma 2 e' sostituito dal seguente: 
  «2. Le Sgr possono prestare professionalmente nei confronti del pubblico i servizi previsti dall'articolo 1, comma 5, lettere d) ed f). Le Sgr possono, altresi', prestare professionalmente nei confronti del pubblico il servizio previsto dall'articolo 1, comma 5, lettera e), qualora autorizzate a prestare il servizio di gestione di FIA. Le societa' di gestione UE possono prestare professionalmente nei confronti del pubblico i servizi previsti dall'articolo 1, comma 5, lettere d) ed f), qualora autorizzate nello Stato membro d'origine.».
 
 ## Art. 3. — Modifiche alla parte II, titolo II, del decreto legislativo 24 febbraio 1998, n. 58
+
+1.
+                    
+                        
+                            All'articolo 22 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, primo periodo, le parole: «societa' di gestione armonizzata» sono sostituite dalle seguenti: «societa' di gestione UE»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, primo e secondo periodo, le parole: «societa' di gestione armonizzata» sono sostituite dalle seguenti: «societa' di gestione UE».
+
+2.
+                    
+                        
+                            All'articolo 30 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3 la lettera b) e' sostituita dalla seguente: 
+ «b) dalle Sgr, dalle societa' di gestione UE, dalle Sicav, dalle Sicaf, dai GEFIA UE e non UE, limitatamente alle quote o azioni di Oicr.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, primo periodo, le parole: «le societa' di gestione armonizzate» sono sostituite dalle seguenti: «le societa' di gestione UE e i GEFIA UE e non UE».
 
 L'articolo 31, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «1. Per l'offerta fuori sede, le imprese di investimento, le Sgr, le societa' di gestione UE, le Sicav, le Sicaf, i GEFIA UE e non UE, gli intermediari finanziari iscritti nell'elenco previsto dall'articolo 106 del testo unico bancario e le banche si avvalgono di promotori finanziari. I promotori finanziari di cui si avvalgono le imprese di investimento comunitarie ed extracomunitarie, le societa' di gestione UE, i GEFIA UE e non UE, le banche comunitarie ed extracomunitarie, sono equiparati, ai fini dell'applicazione delle regole di condotta, a una succursale costituita nel territorio della Repubblica.».
@@ -376,15 +597,252 @@ Nella parte II, titolo III del decreto legislativo 24 febbraio 1998, n. 58, i ca
 
 All'articolo 51, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, dopo le parole: «di Sicav» sono inserite le seguenti: «, di Sicaf, di GEFIA non UE autorizzati in Italia».
 
+2.
+                    
+                        
+                            All'articolo 52 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «di societa' di gestione armonizzate» sono sostituite dalle seguenti: «di societa' di gestione UE, di GEFIA UE e non UE autorizzati in uno Stato dell'UE diverso dall'Italia,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3-bis, primo periodo, le parole: «disposizioni comunitarie» sono sostituite dalle seguenti: «disposizioni dell'Unione europea»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3-ter le parole: «societa' di gestione armonizzate» sono sostituite dalle seguenti: «societa' di gestione UE, GEFIA UE e non UE autorizzati in uno Stato dell'UE diverso dall'Italia,»; e le parole: «disposizioni comunitarie» sono sostituite dalle seguenti: «disposizioni dell'Unione europea».
+
+3.
+                    
+                        
+                            All'articolo 54 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Provvedimenti ingiuntivi nei confronti degli OICVM UE, FIA UE e non UE con quote o azioni offerte in Italia)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, primo periodo, le parole: «degli Oicr comunitari ed extracomunitari» sono sostituite dalle seguenti: «degli OICVM UE, dei FIA UE e non UE»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1-bis, primo periodo, le parole: «un Oicr comunitario armonizzato» sono sostituite dalle seguenti: «un OICVM UE, un FIA UE e non UE»; e le parole: «disposizioni comunitarie» sono sostituite dalle seguenti: «disposizioni dell'Unione europea».
+
+4.
+                    
+                        
+                            All'articolo 56 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, primo alinea, le parole: «e delle Sicav» sono sostituite dalle seguenti: «, delle Sicav e delle Sicaf»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 dopo le parole: «imprese di investimento extracomunitarie» sono inserite le seguenti: «e di GEFIA non UE autorizzati in Italia»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, secondo periodo, le parole: «e alle Sicav» sono sostituite dalle seguenti: «, alle Sicav, alle Sicaf e ai GEFIA non UE autorizzati in Italia»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4 le parole: «e alle Sicav» sono sostituite dalle seguenti: «, alle Sicav e alle Sicaf».
+
+5.
+                    
+                        
+                            All'articolo 57 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «e delle Sicav» sono sostituite dalle seguenti: «, delle Sicav e delle Sicaf»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, secondo periodo, le parole: «e alle Sicav» sono sostituite dalle seguenti: «, alle Sicav, alle Sicaf»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4 le parole: «e la Sicav» sono sostituite dalle seguenti: «, la Sicav e la Sicaf»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6 dopo le parole: «una Sicav» sono inserite le seguenti: «o una Sicaf».
+
 L'articolo 58 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «Art. 58 (Succursali in Italia di imprese di investimento e di gestori esteri). - 1. Quando a una impresa di investimento comunitaria, a una societa' di gestione UE, a un GEFIA UE o a un GEFIA non UE autorizzato in uno Stato membro dell'UE diverso dall'Italia e' revocata l'autorizzazione all'attivita' da parte dell'autorita' competente, le succursali italiane possono essere sottoposte alla procedura di liquidazione coatta amministrativa secondo le disposizioni dell'articolo 57, in quanto compatibili. 
  2. Alle succursali italiane di imprese di investimento extracomunitarie e di GEFIA non UE autorizzati in Italia si applicano le disposizioni dell'articolo 57, in quanto compatibili.».
 
 All'articolo 60, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «di societa' di gestione armonizzate» sono sostituite dalle seguenti: «di societa' di gestione UE, di GEFIA UE e di GEFIA non UE autorizzati in uno Stato membro dell'UE diverso dall'Italia».
 
+8.
+                    
+                        
+                            All'articolo 60-bis del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Responsabilita' delle Sim, delle Sgr, delle Sicav e delle Sicaf per illecito amministrativo dipendente da reato)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, primo periodo, le parole: «o di una Sicav» sono sostituite dalle seguenti: «, di una Sicav o di una Sicaf»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 le parole: «o di una Sicav» sono sostituite dalle seguenti: «, di una Sicav, o di una Sicaf»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, primo periodo, le parole: «e Sicav» sono sostituite dalle seguenti: «, Sicav e Sicaf»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5 sono aggiunte, alla fine, le seguenti parole: «, di societa' di gestione UE, di GEFIA UE, di GEFIA non UE autorizzati in Italia e di GEFIA non UE autorizzati in uno Stato membro dell'UE diverso dall'Italia».
+
 ## Art. 6. — Modifiche alla parte IV, titolo II, del decreto legislativo 24 febbraio 1998, n. 58
 
+1.
+                    
+                        
+                            All'articolo 93-bis, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a) la parola: «fondi» e' sostituita dalla seguente: «Oicr»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera d) e' abrogata.
+
 All'articolo 94, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, e' aggiunto, alla fine, il seguente periodo:«Nel caso di offerta al pubblico di quote o azioni di Oicr chiusi per le quali l'Italia e' lo Stato membro d'origine, il prospetto e' pubblicato quando si e' conclusa la procedura prevista dall'articolo 43 o dall'articolo 44 e dalle relative disposizioni di attuazione.».
+
+3.
+                    
+                        
+                            All'articolo 98 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «disposizioni comunitarie» sono sostituite dalle seguenti: «disposizioni dell'Unione europea»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Ove l'offerta di strumenti finanziari comunitari sia prevista in Italia, quale Stato membro ospitante, il prospetto e gli eventuali supplementi approvati dall'autorita' dello Stato membro d'origine sono validi, purche' siano rispettate le procedure di notifica previste dalle disposizioni dell'Unione europea. Nel caso di offerta al pubblico di quote o azioni di FIA UE chiusi, il prospetto e' pubblicato quando si e' conclusa la procedura prevista dall'articolo 44 e dalle relative disposizioni di attuazione.».
+
+4.
+                    
+                        
+                            All'articolo 98-ter del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. L'offerta al pubblico di quote o azioni di Oicr aperti italiani, FIA UE e non UE e' preceduta da una comunicazione alla Consob. Nel caso di offerta di OICVM italiani, alla comunicazione sono allegati il documento contenente le informazioni chiave per gli investitori e il prospetto destinati alla pubblicazione. Nel caso di offerta di FIA italiani aperti, FIA UE e non UE, alla comunicazione e' allegata la documentazione d'offerta individuata dalla Consob ai sensi dell'articolo 98-quater, lettera a-bis).»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5 le parole: «Oicr comunitari armonizzati» sono sostituite dalla seguente: «OICVM comunitari»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 5 e' inserito il seguente: 
+ «5-bis. Nel caso di offerta al pubblico di quote o azioni di FIA italiani, di FIA UE e non UE aperti, la documentazione d'offerta e' pubblicata quando si e' conclusa la procedura prevista dall'articolo 43 o dall'articolo 44 e dalle relative disposizioni di attuazione.».
+
+5.
+                    
+                        
+                            All'articolo 98-quater, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo alinea le parole: «disposizioni comunitarie» sono sostituite dalle seguenti: «disposizioni dell'Unione europea»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le lettere a) e a-bis) sono sostituite dalle seguenti: 
+ «a) il contenuto della comunicazione alla Consob e del prospetto relativo all'offerta di quote o azioni di OICVM italiani, nonche' le modalita' e i termini di pubblicazione del documento contenente le informazioni chiave per gli investitori e del prospetto, il relativo regime di consegna ed il loro eventuale aggiornamento; 
+ a-bis) il contenuto della documentazione d'offerta di quote o azioni di FIA italiani, FIA UE e non UE, il relativo regime di consegna e di pubblicazione;».
 
 All'articolo 98-quinquies del decreto legislativo 24 febbraio 1998, n. 58, il comma 2 e' abrogato.
 
@@ -393,7 +851,77 @@ All'articolo 98-quinquies del decreto legislativo 24 febbraio 1998, n. 58, il co
 All'articolo 188 del decreto legislativo 24 febbraio 1998, n. 58, il comma 1 e' sostituito dal seguente: 
  «1. L'uso, nella denominazione o in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, delle parole: 'Sim' o 'societa' di intermediazione mobiliare' o 'impresa di investimento'; 'Sgr' o 'societa' di gestione del risparmio'; 'Sicav' o 'societa' di investimento a capitale variabile'; 'Sicaf' o 'societa' di investimento a capitale fisso'; 'EuVECA' o 'fondo europeo per il venture capital'; 'EuSEF' o 'fondo europeo per l'imprenditoria sociale'; ovvero di altre parole o locuzioni, anche in lingua straniera, idonee a trarre in inganno sulla legittimazione allo svolgimento dei servizi o delle attivita' di investimento o del servizio di gestione collettiva del risparmio e' vietato a soggetti diversi, rispettivamente, dalle imprese di investimento, dalle societa' di gestione del risparmio, dalle Sicav, dalle Sicaf, dai soggetti abilitati a tenore dei regolamenti (UE) n. 345/2013, relativo ai fondi europei per il venture capital (EuVECA), e n. 346/2013, relativo ai fondi europei per l'imprenditoria sociale (EuSEF). Chiunque contravviene al divieto previsto dal presente articolo e' punito con la sanzione amministrativa pecuniaria da euro cinquecentosedici a euro diecimilatrecentoventinove.».
 
+2.
+                    
+                        
+                            All'articolo 190 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. I soggetti che svolgono funzioni di amministrazione o di direzione e i dipendenti di societa' o enti abilitati, nonche' dei depositari, i quali non osservano le disposizioni previste dagli articoli 6; 7, commi 2 e 3; 8, comma 1; 9; 10; 12; 13, comma 2; 21; 22; 24, comma 1; 25; 25-bis, commi 1 e 2; 27, commi 3 e 4; 28, comma 3; 30, commi 3, 4 e 5; 31, commi 1, 2, 5, 6 e 7; 32, comma 2; 33, comma 4; 35-bis, comma 6; 35-novies; 35-decies; 36, commi 2, 3 e 4; 37, commi 1, 2 e 3; 39; 40, commi 2, 4 e 5; 40-bis, comma 4; 40-ter, comma 4; 41, commi 2, 3 e 4; 41-bis; 41-ter; 41-quater; 42, commi 1, 3 e 4; 43, commi 2, 3, 4, 7, 8 e 9; 44, commi 1, 2, 3 e 5; 45; 46, commi 1, 3 e 4; 47; 48; 49, commi 3 e 4; 65; 79-bis; 187-novies, ovvero le disposizioni generali o particolari emanate dalla Banca d'Italia o dalla Consob in base ai medesimi articoli, sono puniti con la sanzione amministrativa pecuniaria da euro duemilacinquecento a euro duecentocinquantamila. La stessa sanzione si applica nel caso di violazione dell'articolo 18, commi 1 e 2, e dell'articolo 32-quater, commi 1 e 3, ovvero in caso di esercizio dell'attivita' di consulente finanziario, di promotore finanziario o di gestore di portali in assenza dell'iscrizione negli albi o nel registro di cui, rispettivamente, agli articoli 18-bis, 31 e 50-quinquies.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Nelle materie a cui si riferiscono le disposizioni richiamate al comma 1, le sanzioni ivi previste si applicano anche in caso di inosservanza delle norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi degli articoli 10 e 15 del regolamento UE n. 1095/2010, ovvero in caso di inosservanza degli atti dell'AESFEM direttamente applicabili ai soggetti vigilati adottati ai sensi di quest'ultimo regolamento.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ «2-bis. La medesima sanzione prevista dal comma 1 si applica ai soggetti che svolgono funzioni di amministrazione o di direzione e ai dipendenti: 
+ a) dei gestori dei fondi europei per il venture capital (EuVECA), in caso di violazione delle disposizioni previste dagli articoli 2, 5, 6, 7, 8, 9, 10, 11, 12 e 13 del regolamento (UE) n. 345/2013 e delle relative disposizioni attuative; 
+ b) dei gestori dei fondi europei per l'imprenditoria sociale (EuSEF), in caso di violazione delle disposizioni previste dagli articoli 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, del regolamento (UE) n. 346/2013 e delle relative disposizioni attuative.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3 le parole: «commi 1 e 2» sono sostituite dalle seguenti: «commi 1, 2 e 2-bis».
+
 ## Art. 8. — Modifiche al decreto legislativo 5 dicembre 2005, n.252
+
+1.
+                    
+                        
+                            All'articolo 7 del decreto legislativo 5 dicembre 2005, n. 252, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Depositario»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 le parole: «una banca distinta» sono sostituite dalle seguenti: «un soggetto distinto»; e le parole:«di cui all'articolo 38» sono sostituite dalle seguenti:«di cui all'articolo 47»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2 le parole:«La banca depositaria» sono sostituite dalle seguenti:«Il depositario»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Si applicano, per quanto compatibili, le disposizioni relative ai depositari degli Oicr diversi dagli OICVM di cui agli articoli 47, 48 e 49 del decreto legislativo 24 febbraio 1998, n. 58, e relativa normativa di attuazione. Gli amministratori e i sindaci del depositario riferiscono senza ritardo alla COVIP sulle irregolarita' riscontrate nella gestione dei fondi pensione.».
 
 ## Art. 9. — Estensione alle SICAF immobiliari delle disposizioni riguardanti i fondi comuni di investimento immobiliare
 
@@ -405,15 +933,160 @@ Alle societa' di investimento a capitale fisso (SICAF) si applicano le disposizi
 
 ## Art. 10. — Modifiche al decreto del Presidente della Repubblica 29 settembre 1973, n. 600
 
+1.
+                    
+                        
+                            All'articolo 26-quinquies del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, il primo periodo e' sostituito dal seguente: 
+ «Sui proventi di cui alla lettera g) dell'articolo 44, comma 1, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, derivanti dalla partecipazione a organismi di investimento collettivo del risparmio (OICR) istituiti in Italia, diversi dagli OICR immobiliari, e a quelli istituiti in Lussemburgo, gia' autorizzati al collocamento nel territorio dello Stato, di cui all'articolo 11-bis del decreto-legge 30 settembre 1983, n. 512, convertito, con modificazioni, dalla legge 25 novembre 1983, n. 649, e successive modificazioni, limitatamente alle quote o azioni collocate nel territorio dello Stato, le societa' di gestione del risparmio, le SICAV, le SICAF, i soggetti incaricati del collocamento delle quote o azioni di cui al citato articolo 11-bis del decreto-legge 30 settembre 1983, n. 512, e quelli di cui all'articolo 23 del presente decreto incaricati della loro negoziazione, operano una ritenuta del 20 per cento.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. La ritenuta di cui al comma 1 si applica sui proventi distribuiti in costanza di partecipazione all'organismo di investimento e su quelli compresi nella differenza tra il valore di riscatto, di liquidazione o di cessione delle quote o azioni e il costo medio ponderato di sottoscrizione o acquisto delle quote o azioni medesime, al netto di una quota dei proventi riferibili alle obbligazioni e altri titoli di cui all'articolo 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, ed equiparati e alle obbligazioni emesse dagli Stati inclusi nella lista di cui al decreto emanato ai sensi dell'articolo 168-bis del testo unico delle imposte sui redditi approvato con il decreto del Presidente della Repubblica 22 dicembre 1986, n. 917. Con decreto del Ministro dell'economia e delle finanze sono stabilite le modalita' di individuazione della quota dei proventi di cui al periodo precedente.
+Il costo di acquisto deve essere documentato dal partecipante e, in mancanza della documentazione, il costo e' documentato con una dichiarazione sostitutiva.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, le parole: «questo caso» sono sostituite dalle seguenti: «questi casi»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6-bis sono apportate le seguenti modificazioni: 
+ 1) nel primo periodo la parola: «istituisce» e' sostituita dalle seguenti: «istituisce e gestisce»; 
+ 2) dopo il primo periodo e' inserito il seguente: 
+ «In caso di negoziazione la ritenuta e' applicata dai soggetti di cui al citato articolo 23 incaricati della loro negoziazione. Qualora le quote o azioni dei predetti organismi siano immesse in un sistema di deposito accentrato gestito da una societa' autorizzata ai sensi dell'articolo 80 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, la ritenuta e' applicata dai soggetti di cui all'articolo 23 del presente decreto presso i quali le quote o azioni sono state depositate, direttamente o indirettamente aderenti al suddetto sistema di deposito accentrato, nonche' dai soggetti non residenti aderenti a detto sistema di deposito accentrato ovvero a sistemi esteri di deposito accentrato aderenti al medesimo sistema.».
+
 ## Art. 11. — Modifiche alla legge 23 marzo 1983, n. 77
 
+1.
+                    
+                        
+                            All'articolo 10-ter della legge 23 marzo 1983, n. 77, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Disposizioni tributarie sui proventi delle quote o azioni di organismi di investimento collettivo del risparmio di diritto estero»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la parola: «12,50» e' sostituita dalla seguente: «20», la parola: «situati» e' sostituita dalla seguente: «istituiti» e l'ultimo periodo e' sostituito dal seguente: «Il costo di acquisto deve essere documentato dal partecipante e, in mancanza della documentazione, il costo e' documentato con una dichiarazione sostitutiva.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. La ritenuta del 20 per cento e' altresi' applicata dai medesimi soggetti di cui al comma 1 sui proventi di cui all'articolo 44, comma 1, lettera g), del citato testo unico delle imposte sui redditi derivanti dalla partecipazione a organismi di investimento collettivo del risparmio (OICR) di diritto estero, diversi dagli OICR immobiliari, non conformi alla direttiva 2009/65/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009, e il cui gestore sia soggetto a forme di vigilanza nel Paese estero nel quale e' istituito ai sensi della direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, istituiti negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto emanato ai sensi dell'articolo 168-bis del medesimo testo unico delle imposte sui redditi e le cui quote o azioni sono collocate nel territorio dello Stato ai sensi dell'articolo 42 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58. La ritenuta si applica sui proventi distribuiti in costanza di partecipazione all'organismo di investimento e su quelli compresi nella differenza tra il valore di riscatto, di cessione o di liquidazione delle quote o azioni e il costo medio ponderato di sottoscrizione o di acquisto delle quote o azioni medesime. Il costo di acquisto deve essere documentato dal partecipante e, in mancanza della documentazione, il costo e' documentato con una dichiarazione sostitutiva.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2-bis e' inserito il seguente: 
+ «2-ter. Nel caso di societa' di gestione del risparmio italiana che istituisce e gestisce all'estero organismi di investimento collettivo del risparmio, la ritenuta di cui ai commi 1 e 2 e' applicata direttamente dalla societa' di gestione italiana operante all'estero ai sensi delle direttive 2009/65/CE e 2011/61/UE. In caso di negoziazione, la ritenuta e' applicata dai soggetti indicati nell'articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, incaricati della loro negoziazione. Qualora le quote o azioni dei predetti organismi siano immesse in un sistema di deposito accentrato, la ritenuta e' applicata dai soggetti di cui all'articolo 23 del predetto decreto presso i quali le quote o azioni sono state depositate, direttamente o indirettamente aderenti al suddetto sistema di deposito accentrato, nonche' dai soggetti non residenti aderenti a detto sistema di deposito accentrato ovvero a sistemi esteri di deposito accentrato aderenti al medesimo sistema. I soggetti non residenti nominano quale loro rappresentante fiscale in Italia una banca o una societa' di intermediazione mobiliare, residente nel territorio dello Stato, una stabile organizzazione in Italia di banche o di imprese di investimento non residenti, ovvero una societa' di gestione accentrata di strumenti finanziari autorizzata ai sensi dell'articolo 80 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58. Il rappresentante fiscale risponde dell'adempimento dei propri compiti negli stessi termini e con le stesse responsabilita' previste per i soggetti di cui al comma 1 residenti in Italia e provvede a versare la ritenuta e a fornire, entro quindici giorni dalla richiesta dell'Amministrazione finanziaria, ogni notizia o documento utile per comprovare il corretto assolvimento degli obblighi riguardanti la suddetta ritenuta.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 3, le parole:«questo caso» sono sostituite dalle seguenti:«questi casi»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ «6. I proventi di cui all'articolo 44, comma 1, lettera g), del testo unico delle imposte sui redditi, derivanti dalla partecipazione a organismi di investimento collettivo del risparmio di diritto estero, diversi dagli OICR immobiliari e da quelli di cui ai commi 1 e 2, concorrono a formare il reddito imponibile dei partecipanti, sia che vengano percepiti sotto forma di proventi distribuiti sia che vengano percepiti quale differenza tra il valore di riscatto, cessione o liquidazione delle quote o azioni e il costo medio ponderato di sottoscrizione o acquisto. Il costo di acquisto deve essere documentato dal partecipante e, in mancanza della documentazione, il costo e' documentato con una dichiarazione sostitutiva.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 7, la parola: «12,50» e' sostituita dalla seguente: «20» e le parole: «al comma 3» sono sostituite dalle seguenti: «ai commi 3 e 5»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 8, le parole: «in valori mobiliari»sono sostituite dalle seguenti: «del risparmio».
+
 ## Art. 12. — Modifiche al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
+
+1.
+                    
+                        
+                            All'articolo 73 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 5-quater, le parole: «in quote di fondi di investimento immobiliare chiusi di cui all'articolo 37 del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58» sono sostituite dalle seguenti: «in quote o azioni di organismi di investimento collettivo del risparmio immobiliari»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5-quinquies, le parole: «dai fondi immobiliari» sono sostituite dalle seguenti: «dagli organismi di investimento collettivo del risparmio immobiliari».
 
 ## Art. 13. — Modifiche alla disciplina dei fondi immobiliari esteri
 
 All'articolo 8, comma 1, del decreto-legge 30 settembre 1983, n. 512, convertito, con modificazioni, dalla legge 25 novembre 1983, n. 649, le parole: «, nonche' per i titoli o certificati rappresentativi delle quote di partecipazione in organismi d'investimento collettivo immobiliari,» sono soppresse.
 
 Sui proventi di cui all'articolo 44, comma 1, lettera g), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, derivanti dalla partecipazione ad organismi di investimento collettivo del risparmio immobiliari di diritto estero, i soggetti residenti incaricati del pagamento dei proventi medesimi, del riacquisto o della negoziazione delle quote o azioni, operano una ritenuta del 20 per cento. La ritenuta si applica sui proventi distribuiti in costanza di partecipazione all'organismo di investimento e su quelli compresi nella differenza tra il valore di riscatto o di liquidazione delle quote o azioni ed il costo medio ponderato di sottoscrizione o di acquisto delle quote o azioni medesime. Il costo di sottoscrizione o di acquisto e' documentato dal partecipante. In mancanza della documentazione il costo e' documentato con una dichiarazione sostitutiva.
+
+3.
+                    
+                        
+                            La ritenuta e' applicata a titolo di acconto nei confronti di: 
+ 
+                        
+                        
+                            a)
+                            
+                                imprenditori individuali, se le partecipazioni sono relative all'impresa ai sensi dell'articolo 65 del citato testo unico delle imposte sui redditi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                societa' in nome collettivo, in accomandita semplice ed equiparate di cui all'articolo 5 del predetto testo unico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                societa' ed enti di cui alle lettere a) e b) del comma 1 dell'articolo 73 del medesimo testo unico e stabili organizzazioni nel territorio dello Stato delle societa' e degli enti di cui alla lettera d) del comma 1 del predetto articolo. 
+ Nei confronti di tutti gli altri soggetti, compresi quelli esenti o esclusi dall'imposta sul reddito delle societa', la ritenuta e' applicata a titolo d'imposta. La ritenuta non e' operata sui proventi percepiti dalle forme di previdenza complementare di cui al decreto legislativo 5 dicembre 2005, n. 252, ((dai prodotti pensionistici individuali paneuropei (PEPP) di cui al regolamento (UE) 2019/1238)) e dagli organismi di investimento collettivo del risparmio istituiti in Italia e disciplinati dal testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58.
 
 Nel caso in cui le quote o azioni siano collocate all'estero, o comunque i relativi proventi siano conseguiti all'estero, la ritenuta e' applicata dai soggetti di cui all'articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, che intervengono nella loro riscossione. PERIODO ABROGATO DAL D.L. 24 APRILE 2014, N. 66, CONVERTITO CON MODIFICAZIONI DALLA L. 23 GIUGNO 2014, N. 89. PERIODO ABROGATO DAL D.L. 24 APRILE 2014, N. 66, CONVERTITO CON MODIFICAZIONI DALLA L. 23 GIUGNO 2014, N. 89.
 
@@ -424,6 +1097,51 @@ I redditi degli organismi imputati ai sensi del comma 5 concorrono alla formazio
 Per i partecipanti, diversi da quelli indicati nel comma 3 dell'articolo 32 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, e successive modificazioni, che possiedono quote di partecipazione in misura superiore al 5 per cento del patrimonio dell'organismo, ai fini della determinazione dei redditi diversi di natura finanziaria si applicano le disposizioni dell'articolo 68, comma 3, del citato testo unico. In caso di cessione, il costo e' aumentato o diminuito, rispettivamente, dei redditi e delle perdite imputati ai partecipanti ed e' altresi' diminuito, fino a concorrenza dei risultati di gestione imputati, dei proventi distribuiti ai partecipanti. Le plusvalenze realizzate dai medesimi soggetti mediante la cessione di quote o azioni emesse da organismi di investimento collettivo del risparmio immobiliari non conformi alla direttiva 2011/61/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011 e il cui gestore non sia soggetto a forme di vigilanza, concorrono a formare il reddito per il loro intero ammontare.
 
 ## Art. 14. — Norme di coordinamento
+
+1.
+                    
+                        
+                            All'articolo 7 del decreto legislativo 21 novembre 1997, n. 461, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, dopo la lettera e), e' aggiunta la seguente: 
+ «e-bis) la ritenuta prevista dal comma 1 dell'articolo 7 del decreto-legge 25 settembre 2001, n. 351, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 410, e la ritenuta sui proventi derivanti dalla partecipazione ad organismi di investimento collettivo del risparmio immobiliari di diritto estero.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel comma 4 le parole: «i proventi derivanti dai fondi comuni di investimento immobiliare di cui alla legge 25 gennaio 1994, n. 86, il 60 per cento dei proventi derivanti dalla partecipazione ad organismi di investimento collettivo del risparmio di cui al quarto periodo, del comma 1, dell'articolo 10-ter, della legge 23 marzo 1983, n. 77,» sono soppresse.
+
+2.
+                    
+                        
+                            All'articolo 7 del decreto-legge 25 settembre 2001, n. 351, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 410, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, secondo periodo, dopo la parola:«costo»sono inserite le seguenti: «medio ponderato»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, ultimo periodo, le parole:«di cui al decreto legislativo 21 aprile 1993, n. 124» sono sostituite dalle seguenti: «di cui al decreto legislativo 5 dicembre 2005, n. 252»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2-ter e' aggiunto il seguente: 
+ «2-quater. Nel caso di societa' di gestione del risparmio estera che istituisce e gestisce in Italia organismi di investimento collettivo del risparmio immobiliari, la ritenuta di cui al comma 1 e' applicata direttamente dalla societa' di gestione estera operante nel territorio dello Stato in regime di libera prestazione di servizi ovvero da un rappresentante fiscale scelto tra i soggetti indicati nell'articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, che risponde in solido con l'impresa estera per gli obblighi di determinazione e versamento dell'imposta e provvede alla dichiarazione annuale delle somme. Il percipiente e' tenuto a comunicare, ove necessario, i dati e le informazioni utili per la determinazione dei redditi consegnando, anche in copia, la relativa documentazione o, in mancanza, una dichiarazione sostitutiva nella quale attesti i predetti dati e informazioni. Si applicano le disposizioni di cui ai commi 2-bis e 2-ter.».
 
 All'articolo 2, comma 71, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, le parole: «articolo 10-ter, comma 1» sono sostituite dalle seguenti: «articolo 10-ter, commi 1 e 2».
 
@@ -458,6 +1176,24 @@ Gli articoli 41, comma 2, lettera b), limitatamente all'operativita' negli Stati
 Ai fini del presente articolo, si applicano le definizioni previste dall'articolo 1 del decreto legislativo 24 febbraio 1998, n. 58, come modificato dal presente decreto.
 
 I gestori dei fondi chiusi non riservati esistenti alla data di entrata in vigore del presente decreto, i cui regolamenti prevedono che l'assemblea dei partecipanti si pronunci su materie diverse da quelle previste dall'articolo 37, comma 3, del decreto legislativo 24 febbraio 1998, n. 58, come modificato dal presente decreto, non sono tenuti a modificare i regolamenti anzidetti per adeguare le materie oggetto di delibera dell'assemblea a quanto previsto dal citato articolo 37, comma 3.
+
+16.
+                    
+                        
+                            I soggetti che alla data di entrata in vigore del presente decreto svolgono l'incarico di depositario adottano tutte le misure necessarie per rispettare gli articoli 48 e 49 del decreto legislativo 24 febbraio 1998, n. 58, come modificato dal presente decreto, e le relative disposizioni di attuazione, e ne danno comunicazione alla Banca d'Italia: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro il 22 luglio 2014, in relazione a ciascun FIA per il quale e' svolto l'incarico di depositario;((2))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                entro il 22 luglio 2015, in relazione a ciascun OICVM per il quale e' svolto l'incarico di depositario.
 
 Il depositario di ciascun fondo pensione si adegua alle disposizioni previste dall'articolo 7 del decreto legislativo 5 dicembre 2005, n. 252, come modificato dal presente decreto, entro il 22 luglio 2015.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2010-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,38 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                per "decreto legislativo" si intende il decreto legislativo 25 settembre 1999, n. 374;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per "testo unico bancario" si intende il decreto legislativo 1 settembre 1993, n. 385;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per "UIC" si intende l'Ufficio italiano dei cambi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per "intermediari finanziari" si intendono gli intermediari iscritti nell'elenco generale previsto dall'articolo 106 del testo unico bancario e gli intermediari iscritti nell'elenco speciale previsto dall'articolo 107 del testo unico bancario, operanti nei confronti del pubblico.(1)((2))
+
 ------------
                         AGGIORNAMENTO (1)
                          Il D.lgs. 13 agosto 2010, n. 141 ha disposto (con l'art. 28, comma 1, lettera a)) l'abrogazione dell'intero provvedimento a decorrere dalla data di entrata in vigore delle disposizioni di attuazione del titolo VI-bis del decreto legislativo 1° settembre 1993, n. 385 e del medesimo d.lgs. 141/2010.
@@ -38,6 +70,24 @@ a) l'articolo 3 del decreto legislativo 25 settembre 1999, n. 374, e il decreto 
 ## Art. 2. — Contenuto dell'attivita'
 
 Ai fini del decreto legislativo e del presente regolamento, esercita nei confronti del pubblico l'attivita' di agente in attivita' finanziaria chi viene stabilmente incaricato da uno o piu' intermediari finanziari di promuovere e concludere contratti riconducibili all'esercizio delle attivita' finanziarie previste dall'articolo 106, comma 1, del testo unico bancario, senza disporre di autonomia nella fissazione dei prezzi e delle altre condizioni contrattuali.
+
+2.
+                    
+                        
+                            Ai fini del presente regolamento, non integra esercizio di agenzia in attivita' finanziaria:
+ 
+                        
+                        
+                            a)
+                            
+                                la distribuzione di carte di pagamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la promozione e la conclusione, da parte di fornitori di beni e servizi, di contratti compresi nell'esercizio delle attivita' finanziarie previste dall'articolo 106, comma 1, del testo unico bancario unicamente per l'acquisto di propri beni e servizi sulla base di apposite convenzioni stipulate con intermediari finanziari.(1) ((2))
 
 ------------
                         AGGIORNAMENTO (1)
@@ -74,6 +124,31 @@ a) l'articolo 3 del decreto legislativo 25 settembre 1999, n. 374, e il decreto 
 
 L'esercizio nel territorio della Repubblica dell'agenzia in attivita' finanziaria da parte di soggetti aventi sede legale all'estero, diversi dalle persone fisiche, e' subordinato alla iscrizione nell'elenco previsto dall'articolo 3.
 
+2.
+                    
+                        
+                            L'UIC procede all'iscrizione nell'elenco dei soggetti diversi dalle persone fisiche aventi sede legale in uno Stato dell'Unione europea al ricorrere delle condizioni seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                previsione, nell'oggetto sociale, dello svolgimento dell'attivita' di agenzia in attivita' finanziaria o di attivita' di natura finanziaria:
+
+                            
+                        
+                        
+                            b)
+                            
+                                costituzione in Italia di una stabile organizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                possesso dei requisiti di onorabilita' previsti dall'articolo 109 del testo unico bancario in capo ai soggetti che svolgono funzioni di direzione dell'organizzazione operante in Italia.
+
 L'UIC procede all'iscrizione nell'elenco dei soggetti aventi sede legale in Paesi extracomunitari, previo riscontro della sussistenza delle condizioni indicate nel comma 2 e dell'adeguamento del Paese d'origine ai principi e alle cautele espressi nelle raccomandazioni emesse dal Gruppo di azione finanziaria internazionale (GAFI) in materia di riciclaggio di denaro proveniente da attivita' illecite.
 
 Con riferimento alle fattispecie disciplinate in tutto o in parte da ordinamenti stranieri, la verifica della sussistenza dei requisiti di onorabilita' e' effettuata sulla base di una valutazione di equivalenza sostanziale.(1) ((2))
@@ -90,6 +165,24 @@ a) l'articolo 3 del decreto legislativo 25 settembre 1999, n. 374, e il decreto 
 ## Art. 5. — Altre attivita' esercitabili
 
 I soggetti iscritti nell'elenco previsto dall'articolo 3 possono svolgere attivita' strumentali e connesse a quella di agenzia in attivita' finanziaria. E' strumentale l'attivita' che ha rilievo esclusivamente ausiliario a quella di agenzia; e' connessa l'attivita' accessoria che consente di sviluppare l'attivita' di agenzia.
+
+2.
+                    
+                        
+                            Sono compatibili con l'agenzia in attivita' finanziaria, svolta dai soggetti iscritti nell'elenco previsto dall'articolo 3, le attivita' seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                attivita' di agenzia per la promozione di contratti stipulati da banche nell'esercizio delle attivita' indicate nell'articolo 106, comma 1, del testo unico bancario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                altre attivita' professionali per le quali sia richiesta l'iscrizione in altri elenchi, ruoli o albi tenuti da pubbliche autorita', ordini o consigli professionali, secondo il regime proprio di ciascuna.
 
 Le disposizioni di cui ai commi 1 e 2 non si applicano agli agenti in attivita' finanziaria iscritti nell'elenco previsto dall'articolo 3 che offrono esclusivamente il servizio di pagamento consistente nel trasferimento di fondi attraverso la raccolta e la consegna delle disponibilita' da trasferire.(1)((2))
 

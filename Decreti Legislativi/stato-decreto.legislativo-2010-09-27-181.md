@@ -8,8 +8,8 @@ codice_redazionale: 010G0198
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,9 +29,136 @@ Sulla proposta del Ministro per le politiche europee e del Ministro della salute
 
 Il presente decreto si applica ai polli allevati per la produzione di carne, ivi inclusi i polli da carne detenuti in stabilimenti in cui siano allevati anche animali da riproduzione.
 
+2.
+                    
+                        
+                            Sono esclusi dall'ambito di applicazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli stabilimenti con meno di 500 polli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli stabilimenti in cui sono allevati esclusivamente polli da riproduzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli incubatoi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i polli allevati estensivamente al coperto e all'aperto, di cui alle lettere b), c), d) ed
+                            
+                        
+                        
+                            e)
+                            
+                                dell'allegato V del regolamento (CE) n. 543/2008 della Commissione, del 16 giugno 2008, recante modalita' di applicazione del regolamento (CE) n. 1234/2007 del Consiglio per quanto riguarda le norme di commercializzazione per le carni di pollame; 
+ e) i polli allevati con metodi biologici in conformita' del regolamento (CE) n. 834/2007 del Consiglio, del 28 giugno 2007 e relativo regolamento (CE) di applicazione n. 889/2008 della Commissione, del 5 settembre 2008.
+
 Il proprietario e il detentore, come definiti all'articolo 2, sono responsabili, ciascuno per quanto di competenza, del benessere degli animali e dell'applicazione delle disposizioni previste dal presente decreto.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                proprietario: la persona fisica o giuridica proprietaria dei polli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                detentore: la persona fisica o giuridica responsabile dei polli a titolo contrattuale o per legge, in modo temporaneo o permanente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                autorita' competente: le autorita' di cui all'articolo 2 del decreto legislativo 6 novembre 2007, n. 193; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                veterinario ufficiale: un veterinario qualificato, in conformita' dell'allegato I, sezione III, capo IV, (parte A), del regolamento (CE) n. 854/2004, ad assumere tale funzione e nominato dall'autorita' competente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                pollo: animale della specie Gallus gallus allevato per la produzione di carne; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                stabilimento: il luogo di produzione in cui si allevano polli; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                capannone: un edificio all'interno di uno stabilimento in cui e' allevato un gruppo di polli; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                area utilizzabile: un'area sempre accessibile ai polli e provvista di lettiera; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                densita' di allevamento: il peso vivo complessivo dei polli presenti contemporaneamente in un capannone per metro quadro di area utilizzabile; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                gruppo: un insieme di polli collocati e presenti contemporaneamente in un capannone di uno stabilimento; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                tasso di mortalita' giornaliera: il numero dei polli deceduti in un capannone lo stesso giorno, compresi quelli eliminati per malattia o per altri motivi, diviso per il numero di polli presenti in tale giorno nel capannone, moltiplicato per 100; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                tasso di mortalita' giornaliera cumulativo: la somma dei tassi di mortalita' giornaliera.
 
 ## Art. 3. — Norme per l'allevamento dei polli
 
@@ -56,6 +183,38 @@ I proprietari e i detentori debbono possedere conoscenze adeguate in materia di 
 
 I detentori devono partecipare ad appositi corsi di formazione ed essere in possesso di un certificato che attesta la formazione conseguita.
 
+3.
+                    
+                        
+                            Il Ministero della salute, con il decreto di cui all'articolo 3, comma 6, stabilisce i criteri e le modalita' per: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'organizzazione e lo svolgimento dei corsi di formazione di cui al comma 2, in conformita' ai contenuti riportati nell'allegato IV; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rilascio dei certificati attestanti la formazione conseguita; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il riconoscimento dell'esperienza acquisita anteriormente alla data del 30 giugno 2010; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il sistema di controllo e di approvazione dei corsi di formazione di cui al comma 2.
+
 I detentori forniscono istruzioni scritte e orientamenti sulle norme applicabili in materia di benessere degli animali, comprese quelle relative ai metodi di abbattimento praticati negli stabilimenti, al personale addetto ad accudire i polli, catturarli o caricarli.
 
 I proprietari che conferiscono i propri animali ad un detentore devono accertare che quest'ultimo sia in possesso del certificato di formazione previsto al comma 2.
@@ -65,6 +224,24 @@ I proprietari che conferiscono i propri animali ad un detentore devono accertare
 Le autorita' competenti effettuano ispezioni non discriminatorie presso gli stabilimenti, audit e controlli successivi, compresi quelli di cui all'allegato III, per verificare il rispetto delle disposizioni del presente decreto.
 
 Le ispezioni sono effettuate su una percentuale adeguata di animali allevati e di stabilimenti, conformemente alle disposizioni contenute nel piano nazionale sul benessere degli animali e possono essere condotte contemporaneamente a controlli effettuati per altri fini.
+
+3.
+                    
+                        
+                            Entro i termini previsti dal piano nazionale per il benessere animale: 
+ 
+                        
+                        
+                            a)
+                            
+                                i servizi veterinari delle aziende sanitarie locali trasmettono agli assessorati regionali competenti una relazione sulle ispezioni effettuate ai sensi del comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli Assessorati regionali competenti trasmettono al Ministero della salute una relazione riepilogativa delle ispezioni effettuate dalle autorita' sanitarie locali ai sensi del comma 1, elaborata sulla base delle relazioni ricevute ai sensi della lettera a).
 
 Il Ministero della salute, entro il 30 giugno di ogni anno, presenta alla Commissione europea una relazione annuale sulle ispezioni di cui al comma 1 effettuate nell'anno precedente. La relazione e' corredata di un elenco delle azioni piu' importanti intraprese dalle autorita' competenti per ovviare ai principali problemi di benessere riscontrati.
 

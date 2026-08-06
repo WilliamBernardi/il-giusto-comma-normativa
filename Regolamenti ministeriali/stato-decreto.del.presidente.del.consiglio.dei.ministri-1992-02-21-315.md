@@ -8,8 +8,8 @@ codice_redazionale: 092G0356
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -58,6 +58,41 @@ Il Segretariato si articola, oltre che nella struttura di supporto diretta al co
 Il coordinatore e' assistito da una segreteria per lo svolgimento degli affari correnti di sua competenza.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            Alla struttura di supporto, agli uffici e alla segreteria di cui agli articoli precedenti e' addetto il seguente personale, nel numero complessivo di cinquanta unita':
+ Unita' -
+ 
+                        
+                        
+                            a)
+                            
+                                personale dirigenziale.............................. 10
+
+                            
+                        
+                        
+                            b)
+                            
+                                personale qualifiche VII e superiore
+ o equiparate....................................... 10
+
+                            
+                        
+                        
+                            c)
+                            
+                                personale qualifiche inferiori alla VII
+ o equiparate........................................ 15
+
+                            
+                        
+                        
+                            d)
+                            
+                                esperti............................................. 15
 
 ## Art. 7.
 

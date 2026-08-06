@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-11-15;213
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,6 +38,68 @@ L'articolo 1 del decreto legislativo 15 marzo 2011, n. 35, e' sostituito dal seg
 ## Art. 2. — Modifiche all'articolo 2 del decreto legislativo 
  15 marzo 2011, n. 35
 
+1.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto legislativo 15 marzo 2011, n. 35, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera a) e' sostituita dalla seguente: «a) rete stradale transeuropea: la parte ricadente nel territorio nazionale della rete stradale definita nel regolamento UE n. 1315/2013 del Parlamento europeo e del Consiglio, dell'11 dicembre 2003;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera a), sono inserite le seguenti: 
+ «a-bis) autostrada: strada appositamente progettata e costruita per il traffico motorizzato che non serve le proprieta' che la costeggiano e che soddisfa i criteri seguenti: 
+ 1) dispone, salvo in punti particolari o provvisoriamente, di carreggiate distinte per le due direzioni di traffico, separate l'una dall'altra da una fascia divisoria non destinata alla circolazione o, eccezionalmente, da altri mezzi; 
+ 2) non presenta intersezioni a raso con alcuna altra strada, linea ferroviaria o sede tranviaria, pista ciclabile o cammino pedonale; 
+ 3) e' specificamente designata come autostrada; 
+ a-ter) strada principale: strada situata al di fuori dell'area urbana che collega importanti citta' o regioni, o entrambe, appartenente alla categoria di strade piu' elevata classificata di tipo "B-Strade extraurbane principali", ai sensi dell'articolo 2, comma 2, del decreto legislativo 30 aprile 1992, n. 285; 
+ a-quater) strade di interesse nazionale: le strade di competenza statale elencate dal decreto legislativo 29 ottobre 1999, n. 461;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera b) e' sostituita dalla seguente: «b) organo competente: qualsiasi organismo pubblico, istituito a livello nazionale, regionale o locale, che partecipa, in funzione delle proprie competenze, all'attuazione del presente decreto;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera e) e' abrogata; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le lettere f) e g) sono sostituite dalle seguenti: 
+ «f) classificazione della sicurezza: la classificazione di parti della rete stradale esistente in categorie, in base alla loro sicurezza intrinseca misurata oggettivamente; 
+ g) ispezione di sicurezza stradale mirata: indagine mirata per individuare condizioni pericolose, difetti e problemi che aumentano il rischio di incidenti e lesioni, sulla base di un sopralluogo di una strada o di un tratto di strada esistente;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo la lettera g) e' inserita la seguente: «g-bis) ispezione di sicurezza stradale periodica: la verifica ordinaria periodica delle caratteristiche e dei difetti che esigono un intervento di manutenzione per ragioni di sicurezza;»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                alla lettera i), il segno d'interpunzione "." e' sostituito dal seguente ";" e, dopo la lettera i), e' inserita la seguente:
+«i-bis) utenti della strada vulnerabili: utenti della strada non motorizzati, quali in particolare ciclisti e pedoni, disabili in carrozzella e utilizzatori di veicoli a motore a due ruote.».
+
 ## Art. 3. — Sostituzione dell'articolo 5 del decreto legislativo 15 marzo 2011, n. 35
 
 L'articolo 5 del decreto legislativo 15 marzo 2011, n. 35, e' sostituito dal seguente: 
@@ -52,6 +114,31 @@ L'articolo 5 del decreto legislativo 15 marzo 2011, n. 35, e' sostituito dal seg
 
 ## Art. 4. — Modifiche all'articolo 6 del decreto legislativo 
  15 marzo 2011, n. 35
+
+1.
+                    
+                        
+                            All'articolo 6 del decreto legislativo 15 marzo 2011, n. 35, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Ispezioni di sicurezza stradale periodiche)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, il primo periodo e' sostituito dal seguente: «L'organo competente esegue ispezioni di sicurezza stradale periodiche con frequenza sufficiente a garantire livelli adeguati di sicurezza per l'infrastruttura stradale oggetto di applicazione del presente decreto, comunque in ogni caso, almeno ogni cinque anni.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2, e' inserito il seguente: «2-bis. L'organo competente garantisce la sicurezza dei tratti della rete stradale contigui alle gallerie oggetto del decreto legislativo 5 ottobre 2006, n. 264, attraverso ispezioni di sicurezza stradale congiunte, con la partecipazione dei soggetti competenti coinvolti nell'attuazione del presente decreto e del decreto legislativo 5 ottobre 2006, n. 264. Le ispezioni di sicurezza stradale congiunte sono eseguite con una frequenza sufficiente a garantire livelli di sicurezza adeguati, e comunque, almeno ogni sei anni.».
 
 ## Art. 5. — Inserimento degli articoli 6-bis, 6-ter, 6-quater e 6-quinquies al decreto legislativo 15 marzo 2011, n. 35
 
@@ -85,10 +172,79 @@ Dopo l'articolo 9 del decreto legislativo 15 marzo 2011, n. 35, e' inserito il s
 ## Art. 9. — Modifiche all'articolo 10 del decreto legislativo 
  15 marzo 2011, n. 35
 
+1.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 15 marzo 2011, n. 35, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la parola: «classificazione» e' sostituita dalla seguente: «valutazione», le parole: «articoli 4, 5 e 6» sono sostituite dalle seguenti: «articoli 4, 5, 6 e 6-bis» e le parole: «il Ministero delle infrastrutture e dei trasporti provvede» sono sostituite dalle seguenti: «il Ministero delle infrastrutture e della mobilita' sostenibili e l'ANSFISA provvedono»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Su proposta dell'ANSFISA, le tariffe sono aggiornate almeno ogni tre anni secondo le modalita' di cui al comma 2.».
+
 ## Art. 10. — Modifiche all'allegato I del decreto legislativo 
  15 marzo 2011, n. 35
 
+1.
+                    
+                        
+                            All'allegato I del decreto legislativo 15 marzo 2011, n. 35, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il titolo e' sostituito dal seguente: «ALLEGATO I - COMPONENTI INDICATIVE DELLE VALUTAZIONI D'IMPATTO SULLA SICUREZZA STRADALE.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 2, la lettera e) e' sostituita dalla seguente: «e) traffico (per esempio volume di traffico, categorizzazione del traffico per tipo), compresi i flussi stimati di pedoni e biciclette determinati dalle caratteristiche dell'uso del suolo adiacente.».
+
 ## Art. 11. — Modifiche all'allegato II del decreto legislativo 15 marzo 2011, n. 35
+
+1.
+                    
+                        
+                            All'allegato II del decreto legislativo 15 marzo 2011, n. 35, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il titolo e' sostituito dal seguente: «ALLEGATO II - COMPONENTI INDICATIVE DEI CONTROLLI SULLA SICUREZZA STRADALE»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 1, le parole: «della progettazione preliminare» sono sostituite dalle seguenti: «della redazione del progetto di fattibilita' tecnica ed economica» ed e' aggiunta, in fine, la seguente lettera: 
+ «d-bis) disposizioni per gli utenti della strada vulnerabili: 
+ 1) disposizioni per i pedoni, 
+ 2) disposizioni per i ciclisti, compresa l'esistenza di percorsi alternativi o separazioni dal traffico automobilistico ad alta velocita', 
+ 3) disposizioni per gli utilizzatori dei veicoli a motore a due ruote, 
+ 4) densita' e ubicazione degli attraversamenti pedonali e ciclabili, 
+ 5) disposizioni per i pedoni e i ciclisti sulle strade interessate della zona, 
+ 6) separazione dei pedoni e dei ciclisti dal traffico automobilistico ad alta velocita' o esistenza di percorsi alternativi diretti su strade di classe inferiore.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al punto 2, alla lettera f), le parole: «utenti vulnerabili» sono sostituite dalle seguenti: «utenti della strada vulnerabili.».
 
 ## Art. 12. — Inserimento dell'allegato II-bis al decreto legislativo 15 marzo 2011, n. 35
 
@@ -230,6 +386,24 @@ L'allegato III del decreto legislativo 15 marzo 2011, n. 35, e' sostituito dal s
  e) sistemi per comunicare con servizi di soccorso.».
 
 ## Art. 14. — Modifiche all'allegato IV del decreto legislativo 15 marzo 2011, n. 35
+
+1.
+                    
+                        
+                            All'allegato IV del decreto legislativo 15 marzo 2011, n. 35, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il punto 1) e' sostituito dal seguente: «1) localizzazione dell'incidente piu' esatta possibile, comprendente le coordinate GNSS (global navigation satellite system);»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il punto 5) e' sostituito dal seguente: «5) gravita' dell'incidente;».
 
 ## Art. 15. — Clausola di invarianza finanziaria
 

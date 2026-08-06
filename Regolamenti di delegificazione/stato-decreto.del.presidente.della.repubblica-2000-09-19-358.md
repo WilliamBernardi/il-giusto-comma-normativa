@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2022-09-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,66 @@ Il presente regolamento, in attesa della riforma del regime giuridico degli auto
 Le procedure per la trasmissione dei dati attinenti alla verifica di adempimenti fiscali relativi all'immatricolazione dei veicoli nuovi e usati provenienti, attraverso circuiti non ufficiali di distribuzione dagli Stati membri dell'Unione europea e attraverso canali di importazione non ufficiali da Stati aderenti allo spazio economico europeo, sono definite con convenzione tra il Ministero delle infrastrutture e dei trasporti, l'Agenzia delle entrate e l'Agenzia delle dogane.
 
 ((
+
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                Ministero o Ministro: il Ministero o il Ministro delle infrastrutture e della mobilita' sostenibili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                CED: il Centro elaborazione dati della direzione generale per la motorizzazione, per i servizi ai cittadini e alle imprese in materia di trasporti e navigazione del Ministero delle infrastrutture e della mobilita' sostenibili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                UMC: l'Ufficio o gli Uffici motorizzazione civile e le relative sezioni coordinate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ACI: l'Automobile club d'Italia; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                PRA: il pubblico registro automobilistico; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Ufficio o Uffici PRA: l'Ufficio o gli Uffici provinciali dell'ACI che gestiscono il PRA; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                imprese di consulenza automobilistica: le imprese di cui alla legge 8 agosto 1991, n. 264; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                STA: lo "sportello telematico dell'automobilista" o gli "sportelli telematici dell'automobilista" presso cui e' possibile effettuare le operazioni previste al comma 1.
 
 ))
 
@@ -73,6 +133,45 @@ Gli UMC accertano il corretto funzionamento degli STA e dell'osservanza delle mo
 ## Art. 4. — (( (Procedure e adempimenti per il funzionamento dello STA). ))
 
 ((
+
+1.
+                    
+                        
+                            Le disposizioni del presente regolamento recano la disciplina relativa alle seguenti procedure: 
+ 
+                        
+                        
+                            a)
+                            
+                                immatricolazione, iscrizione della proprieta' e annotazione dell'usufrutto, della locazione con facolta' di acquisto, della vendita con patto di riservato dominio, di privilegi e di ipoteche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rinnovo e aggiornamento della carta di circolazione, trascrizione dei trasferimenti della proprieta' e di ogni altro mutamento delle annotazioni di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                reimmatricolazione a seguito di smarrimento, sottrazione, deterioramento e distruzione delle targhe; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                cessazione dalla circolazione del veicolo per esportazione o per demolizione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                consegna delle targhe, di cui all'articolo 100, commi 1, 2 e 3, del decreto legislativo 30 aprile 1992, n. 285.
 
 Gli STA operano nel rispetto di quanto previsto dall'articolo 1, comma 1-ter, della legge 7 agosto 1990, n. 241.
 

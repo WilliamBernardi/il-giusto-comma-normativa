@@ -8,8 +8,8 @@ codice_redazionale: 098G0205
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,22 @@ La nuova istituzione viene costituita ai sensi dell'articolo 1, comma 70, della 
 ## Art. 2. — Denominazione dell'Istituto
 
 Gli istituti facenti parte dell'unica istituzione scolastica conservano ciascuno la propria originaria identita' e denominazione.
+
+2.
+                    
+                        
+                            A tal fine l'istituzione costituita ai sensi dell'articolo 1 viene cosi' identificata: "Istituto statale di istruzione ...( a)... = ...( b)... =", precisando in ( 
+                        
+                        
+                            a)
+                            
+                                i diversi ordini di istruzione e in (
+                            
+                        
+                        
+                            b)
+                            
+                                la sede legale: comune, via o piazza, numero civico.
 
 La suddetta denominazione viene apposta su tutti gli atti dalla nuova istituzione scolastica, ivi compresi diplomi e attestati.
 

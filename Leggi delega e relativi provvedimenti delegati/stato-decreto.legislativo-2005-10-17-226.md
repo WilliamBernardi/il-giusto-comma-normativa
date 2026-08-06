@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-09-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -152,13 +152,95 @@ Le qualifiche professionali conseguite attraverso l'apprendistato di cui all'art
 
 ## Art. 16. — Livelli essenziali dell'offerta formativa
 
+1.
+                        
+                            
+                                Le Regioni assicurano, quali livelli essenziali riferiti all'offerta formativa:
+ 
+                            
+                            
+                                a)
+                                
+                                    il soddisfacimento della domanda di frequenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione di interventi di orientamento e tutorato, anche per favorire la continuita' del processo di apprendimento nei percorsi di istruzione e formazione tecnica superiore, nell'universita' o nell'alta formazione artistica, musicale e coreutica, nonche' per il recupero e lo sviluppo degli apprendimenti dello studente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione di misure che favoriscano la continuita' formativa anche attraverso la permanenza dei docenti di cui all'articolo 19 nella stessa sede per l'intera durata del percorso, ovvero per la durata di almeno un periodo didattico qualora il percorso stesso sia articolato in periodi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la realizzazione di tirocini formativi ed esperienze in alternanza, in relazione alle figure professionali caratterizzanti i percorsi formativi.
+
 Ai fini del soddisfacimento della domanda di frequenza di cui al comma 1 lettera a), e' considerata anche l'offerta formativa finalizzata al conseguimento di qualifiche professionali attraverso i percorsi in apprendistato di cui all'articolo 48 del decreto legislativo 10 settembre 2003, n. 276.
 
 ## Art. 17. — Livelli essenziali dell'orario minimo annuale e dell'articolazione dei percorsi formativi
 
+1.
+                        
+                            
+                                Le Regioni assicurano, quali livelli essenziali dell'orario minimo annuale e dell'articolazione dei percorsi formativi, un orario complessivo obbligatorio dei percorsi formativi di almeno 990 ore annue. Le Regioni assicurano inoltre, agli stessi fini, l'articolazione dei percorsi formativi nelle seguenti tipologie:
+ 
+                            
+                            
+                                a)
+                                
+                                    percorsi di durata triennale, che si concludono con il conseguimento di un titolo di qualifica professionale, che costituisce titolo per l'accesso al quarto anno del sistema dell'istruzione e formazione professionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    percorsi di durata almeno quadriennale, che si concludono con il conseguimento di un titolo di diploma professionale.
+
 Ai fini di cui al comma 1, anche per offrire allo studente una contestuale pluralita' di scelte, le Regioni assicurano l'adozione di misure che consentano l'avvio contemporaneo dei percorsi del sistema educativo di istruzione e formazione.
 
 ## Art. 18. — Livelli essenziali dei percorsi
+
+1.
+                        
+                            
+                                Allo scopo di realizzare il profilo educativo, culturale e professionale di cui all'articolo 1, comma 5, le Regioni assicurano, quali livelli essenziali dei percorsi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la personalizzazione, per fornire allo studente, attraverso l'esperienza reale e la riflessione sull'operare responsabile e produttivo, gli strumenti culturali e le competenze professionali per l'inserimento attivo nella societa', nel mondo del lavoro e nelle professioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'acquisizione, ai sensi dell'articolo 1, comma 5, ((di competenze civiche, linguistiche)), matematiche, scientifiche, tecnologiche, storico sociali ed economiche, destinando a tale fine quote dell'orario complessivo obbligatorio idonee al raggiungimento degli obiettivi indicati nel profilo educativo, culturale e professionale dello studente, nonche' di competenze professionali mirate in relazione al livello del titolo cui si riferiscono; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'insegnamento della religione cattolica come previsto dall'Accordo che apporta modifiche al Concordato lateranense e al relativo protocollo addizionale, reso esecutivo con la legge 25 marzo 1985, n. 121, e dalle conseguenti intese, e delle attivita' fisiche e motorie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il riferimento a figure di differente livello, relative ad aree professionali definite, sentite le parti sociali, mediante accordi in sede di Conferenza unificata, a norma del decreto legislativo 28 agosto 1997, n. 281, recepiti con decreti del Presidente della Repubblica su proposta del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro del lavoro e delle politiche sociali. Tali figure possono essere articolate in specifici profili professionali sulla base dei fabbisogni del territorio.
 
 Gli standard minimi formativi relativi alle competenze di cui al comma 1, lettera b) sono definiti con Accordo in sede di Conferenza Stato-Regioni di cui al decreto legislativo 28 agosto 1997, n. 281, ai fini della spendibilita' nazionale ed europea dei titoli e qualifiche professionali conseguiti all'esito dei percorsi.
 
@@ -168,9 +250,130 @@ Le Regioni assicurano, quali livelli essenziali dei requisiti dei docenti, che l
 
 ## Art. 20. — Livelli essenziali della valutazione e certificazione delle competenze
 
+1.
+                        
+                            
+                                Le Regioni assicurano, quali livelli essenziali riferiti alla valutazione e certificazione delle competenze:
+ 
+                            
+                            
+                                a)
+                                
+                                    che gli apprendimenti e il comportamento degli studenti siano oggetto di valutazione collegiale e di certificazione, periodica e
+ annuale, da parte dei docenti e degli esperti di cui all'articolo 19;
+                                
+                            
+                            
+                                b)
+                                
+                                    che a tutti gli studenti iscritti ai percorsi sia rilasciata
+certificazione periodica e annuale delle competenze, che documenti il livello di raggiungimento degli obiettivi formativi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che, previo superamento di appositi esami, lo studente consegua la qualifica di operatore professionale con riferimento alla relativa figura professionale, a conclusione dei percorsi di durata triennale, ovvero il diploma professionale di tecnico, a conclusione dei percorsi di durata almeno quadriennale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che, ai fini della continuita' dei percorsi, di cui all'articolo 1, comma 13, il titolo conclusivo dei percorsi di istruzione e formazione tecnica superiore (IFTS) assuma la denominazione di "diploma professionale di tecnico superiore";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    che nelle commissioni per gli esami di cui alla lettera c) sia assicurata la presenza dei docenti e degli esperti di cui all'articolo 19;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che le competenze certificate siano registrate sul "libretto formativo del cittadino" di cui all'articolo 2, comma 1, lettera i), del decreto legislativo 10 settembre 2003, n. 276.
+
 Ai fini della valutazione annuale e dell'ammissione agli esami e' necessaria la frequenza di almeno tre quarti della durata del percorso.
 
 ## Art. 21. — Livelli essenziali delle strutture e dei relativi servizi
+
+1.
+                        
+                            
+                                Le Regioni assicurano, relativamente ai livelli essenziali delle strutture e dei servizi delle istituzioni formative:
+ 
+                            
+                            
+                                a)
+                                
+                                    la previsione di organi di governo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adeguatezza delle capacita' gestionali e della situazione economica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rispetto dei contratti collettivi nazionali di lavoro del personale dipendente dalle medesime istituzioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la completezza dell'offerta formativa comprendente entrambe le tipologie di cui all'articolo 17, comma 1, lettere a) e b);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lo svolgimento del corso annuale integrativo di cui all'articolo 15, comma 6;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'adeguatezza dei locali, in relazione sia allo svolgimento delle attivita' didattiche e formative, sia al rispetto della normativa vigente in materia di sicurezza sui luoghi di lavoro, di prevenzione incendi e di infortunistica;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'adeguatezza didattica, con particolare riferimento alla disponibilita' di laboratori, con relativa strumentazione per gli indirizzi formativi nei quali la sede formativa intende operare;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'adeguatezza tecnologica, con particolare riferimento alla tipologia delle attrezzature e strumenti rispondenti all'evoluzione tecnologica;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la disponibilita' di attrezzature e strumenti ad uso sia collettivo che individuale;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la capacita' di progettazione e realizzazione di stage, tirocini ed esperienze formative, coerenti con gli indirizzi formativi attivati.
 
 Gli standard minimi relativi ai livelli di cui al presente articolo sono definiti con Accordo in sede di Conferenza unificata ai sensi del decreto legislativo 28 agosto 1997, n. 281.
 
@@ -201,6 +404,31 @@ Al fine di favorire la diffusione della cultura musicale e la valorizzazione dei
 ## Art. 27. — Passaggio al nuovo ordinamento
 
 
+
+2.
+                        
+                            
+                                Il primo anno dei percorsi di istruzione e formazione professionale di cui al Capo III e' avviato sulla base della disciplina specifica definita da ciascuna Regione nel rispetto dei livelli essenziali di cui al Capo III, previa definizione con accordi in Conferenza Stato-Regioni ai sensi del decreto legislativo 28 agosto 1997, n. 281, dei seguenti aspetti:
+ 
+                            
+                            
+                                a)
+                                
+                                    individuazione delle figure di differente livello, relative ad aree professionali, articolabili in specifici profili professionali sulla base dei fabbisogni del territorio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    standard minimi formativi relativi alle competenze di base linguistiche, matematiche, scientifiche, tecnologiche, storico-sociali ed economiche necessarie al conseguimento del profilo educativo, culturale e professionale dello studente, nonche' alle competenze professionali proprie di ciascuna specifica figura professionale di cui alla lettera a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    standard minimi relativi alle strutture delle istituzioni formative e dei relativi servizi.
 
 ((COMMA ABROGATO DAL D.P.R. 15 MARZO 2010, N. 89))
 

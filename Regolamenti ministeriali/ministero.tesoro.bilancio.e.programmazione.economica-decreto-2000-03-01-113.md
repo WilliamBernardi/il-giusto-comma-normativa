@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2016-08-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -75,6 +75,35 @@ Fermo restando quanto stabilito ai commi precedenti, il tasso d'interesse e le a
 Il controvalore in lire o in euro dei versamenti o apporti oggetto del finanziamento e' calcolato sulla base del tasso di cambio rilevato, ai sensi dell'articolo 2 della citata legge n. 312/1993 ed eventuali successive modificazioni, alla data in cui i versamenti o apporti sono effettuati. In caso di valute non ricomprese nell'elenco di cui al medesimo articolo 2, comma 1, il controvalore in lire o euro e' dato dai tassi di cambio indicativi rilevati periodicamente dall'Ufficio italiano dei cambi sulla base della quotazione del dollaro statunitense. Per i versamenti o apporti successivi al 31 dicembre 1998 si applicano, per le valute dei Paesi appartenenti all'Unione monetaria europea, i tassi di conversione fissi stabiliti dal Consiglio europeo in base all'articolo 109/L, paragrafo 4, prima frase, del Trattato istitutivo della Comunita' europea e, per le altre valute, i tassi di cambio rilevati secondo quanto previsto nella prima parte del presente comma, tenendo conto, ove necessario, del tasso di conversione euro/lira irrevocabilmente stabilito dal Consiglio europeo, in base al predetto articolo.
 
 ## Art. 5. — Cessazione dell'agevolazione
+
+1.
+                    
+                        
+                            L'intervento agevolativo cessa, a decorrere dalle date dei rispettivi eventi, in caso di:
+
+                        
+                        
+                            a)
+                            
+                                estinzione anticipata del finanziamento, decadenza dal beneficio del termine o risoluzione del relativo contratto per qualsiasi causa;
+                            
+                        
+                        
+                            b)
+                            
+                                cessazione dell'attivita' dell'operatore beneficiario o fallimento o altra procedura concorsuale che comporti la cessazione dell'attivita';
+                            
+                        
+                        
+                            c)
+                            
+                                disinvestimento della quota di partecipazione finanziata;
+                            
+                        
+                        
+                            d)
+                            
+                                cessazione della partecipazione della SIMEST nell'impresa o societa' estera nell'ipotesi di inadempimento da parte dell'operatore italiano dei relativi obblighi contrattuali assunti nei confronti della SIMEST stessa.
 
 ## Art. 6. — Revoca delle agevolazioni
 

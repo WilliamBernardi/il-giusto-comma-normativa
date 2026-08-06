@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
 vigenza_date: 2026-02-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE
@@ -339,6 +339,45 @@ La Regione ha una propria finanza, coordinata con quella dello Stato, in armonia
 ## Art. 49.
 
 ((
+
+1.
+                        
+                            
+                                Spettano alla Regione le seguenti quote di gettito delle sottoindicate entrate tributarie erariali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i 2,975 decimi del gettito dell'accisa sulla benzina e i 3,034 decimi del gettito dell'accisa sul gasolio erogati nella Regione per uso di autotrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i 5,91 decimi del gettito dell'accisa sull'energia elettrica consumata nella Regione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i 5,91 decimi del gettito dell'accisa sui tabacchi lavorati immessi in consumo nella Regione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i 5,91 decimi del gettito dell'imposta sul valore aggiunto (IVA) afferente all'ambito territoriale, esclusa l'IVA applicata alle importazioni, da determinare sulla base dei consumi regionali delle famiglie rilevati annualmente dall'Istituto nazionale di statistica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i 5,91 decimi del gettito di qualsiasi altro tributo erariale, comunque denominato, maturato nell'ambito del territorio regionale, ad eccezione: delle accise diverse da quelle indicate alle lettere a), b) e c); dell'imposta di consumo sugli oli lubrificanti, sui bitumi di petrolio e altri prodotti; delle entrate correlate alle accise; della tassa sulle emissioni di anidride solforosa e di ossidi di azoto; delle entrate derivanti dai giochi; delle tasse automobilistiche; dei canoni di abbonamento alle radioaudizioni e alla televisione. Per i tributi erariali per i quali non e' individuabile il gettito maturato, si fa riferimento al gettito riscosso nel territorio regionale.
 
 La devoluzione alla Regione delle quote di gettito dei tributi erariali indicati nel presente articolo e' effettuata al netto delle quote devolute ad altri enti pubblici e territoriali.
 

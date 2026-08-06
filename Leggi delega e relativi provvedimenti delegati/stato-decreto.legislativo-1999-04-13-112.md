@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-12-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,31 @@ Entrata in vigore del decreto: 1-7-1999
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "ufficio": la struttura dell'ente creditore incaricata della gestione delle attivita' connesse alla riscossione mediante ruolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "quota": l'importo complessivamente iscritto in uno stesso ruolo a carico di un debitore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "ambito": la circoscrizione territoriale nella quale il concessionario o il commissario governativo gestisce il servizio di riscossione.
+
 ## Art. 2. — Requisiti per l'affidamento del servizio
 
 Il Ministero delle finanze organizza il servizio nazionale della riscossione mediante ruolo articolato in ambiti territoriali affidati a concessionari di pubbliche funzioni.
@@ -35,6 +60,38 @@ I partecipanti al capitale delle societa' indicate al comma 1 ed i soggetti che 
 
 I trasferimenti, per atto tra vivi, delle azioni delle societa' concessionarie, nonche' le fusioni e le scissioni alle quali prendono parte tali societa' sono soggette, a pena di inefficacia, alla preventiva autorizzazione del Ministero delle finanze.
 
+5.
+                        
+                            
+                                Non possono essere rappresentanti legali, amministratori o sindaci delle societa' di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i membri del Parlamento e del Governo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i membri dei consigli o assemblee o giunte, e dei relativi comitati di controllo, regionali, provinciali e comunali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dipendenti in servizio attivo degli enti che riscuotono mediante ruolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i componenti dell'organo di revisione economica e finanziaria degli enti che riscuotono mediante ruolo.
+
 Le societa' di cui al comma 2 devono disporre di sistemi informativi automatizzati adeguati al volume delle operazioni da trattare e collegati telematicamente tra di loro e, con modalita' centralizzate, con la rete unitaria della pubblica amministrazione.
 Le specifiche tecniche dei sistemi e delle procedure, nonche' le misure di sicurezza dei dati e delle strutture, e le informazioni che i concessionari devono fornire ai fini di rilevazione e controllo sulla loro attivita', sono individuate con decreto del Ministero delle finanze, sentita l'autorita' per l'informatica nella pubblica amministrazione e il garante per la protezione dei dati personali.
 
@@ -43,6 +100,35 @@ Le specifiche tecniche dei sistemi e delle procedure, nonche' le misure di sicur
 Le concessioni del servizio nazionale della riscossione sono affidate, per ciascun ambito, mediante procedure di evidenza pubblica, nel rispetto delle norme nazionali e comunitarie.
 
 La scelta del metodo di gara viene effettuata tenendo conto del trasferimento di pubbliche funzioni disposto in concessione.
+
+3.
+                        
+                            
+                                Ai fini dell'affidamento della concessione vengono necessariamente valutati, con riferimento all'estensione dell'ambito, i seguenti elementi: 
+
+                            
+                            
+                                a)
+                                
+                                    capacita' finanziaria; 
+                                
+                            
+                            
+                                b)
+                                
+                                    capacita' tecnica ed organizzativa, anche in relazione alle attivita' affidabili a terzi; 
+                                
+                            
+                            
+                                c)
+                                
+                                    ubicazione, stato e consistenza dei locali da destinare al servizio; 
+                                
+                            
+                            
+                                d)
+                                
+                                    percentuali di ribasso dell'aggio di cui all'articolo 17, comma 1.
 
 La concessione viene affidata con decreto del Ministero delle finanze; con tale decreto viene fissato il termine entro il quale il concessionario stipula una convenzione accessoria all'atto di concessione nella quale si prevede necessariamente l'obbligo per i concessionari di accettare gli incarichi di svolgimento del servizio di riscossione coattiva mediante ruolo di cui al comma 6 su richiesta degli enti locali.
 
@@ -76,6 +162,41 @@ L'amministrazione finanziaria puo' effettuare controlli nei confronti dei conces
 
 ((
 
+1.
+                        
+                            
+                                La commissione consultiva per la riscossione di cui all'articolo 1, lettera h), della legge 4 ottobre 1986, n. 657, esprime pareri in materia: 
+
+                            
+                            
+                                a)
+                                
+                                    di individuazione e determinazione deg1i ambiti territoriali delle concessioni; 
+                                
+                            
+                            
+                                b)
+                                
+                                    di determinazione e revisione biennale della remunerazione del servizio; 
+                                
+                            
+                            
+                                c)
+                                
+                                    di procedure di conferimento delle concessioni; 
+                                
+                            
+                            
+                                d)
+                                
+                                    di criteri generali relativi al funzionamento del servizio nazionale della riscossione e all'attivita' degli intermediari della riscossione; 
+                                
+                            
+                            
+                                e)
+                                
+                                    di adozione di regolamenti e atti amministrativi generali.
+
 La commissione, altresi', a richiesta deg1i enti interessati, esprime pareri su atti e questioni attinenti al servizio della riscossione.
 
 ))
@@ -91,6 +212,31 @@ Le regole di funzionamento della commissione sono stabilite, su proposta della c
 ## Art. 7. — Segreteria tecnica
 
 La segreteria tecnica della commissione consultiva e' composta da personale dei ruoli dell'amministrazione finanziaria.
+
+2.
+                        
+                            
+                                La segreteria ha compiti di istruzione degli affari affidati alla commissione consultiva e cura in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la raccolta, l'analisi e l'istruzione del materiale documentale per lo svolgimento dell'attivita' della commissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rapporti della commissione con la Direzione centrale per la riscossione e con gli uffici ed enti interessati alle procedure della riscossione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la comunicazione ai membri della commissione dell'ordine del giorno dei lavori e la redazione dei verbali delle sedute.
 
 Per tutto quanto non previsto nel presente articolo, relativamente alla dotazione organizzativa e di personale della segreteria tecnica, si applicano le disposizioni del decreto legislativo 3 febbraio 1993, n. 29, in materia di razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, e dell'articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400.
 
@@ -123,6 +269,66 @@ La notificazione del decreto di decadenza priva il concessionario di qualsiasi p
 Il concessionario decaduto, sotto la vigilanza del competente ufficio dell'amministrazione finanziaria, che redige apposito processo verbale, consegna al commissario governativo, entro trenta giorni dalla data di notifica del provvedimento di decadenza, la documentazione riguardante la gestione. In caso di inerzia, alla consegna provvede la direzione regionale delle entrate a spese del concessionario decaduto.
 
 ## Art. 11. — R e v o c a
+
+1.
+                        
+                            
+                                Il concessionario incorre nella revoca se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non inizia il servizio alla data fissata nell'atto di concessione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non trasmette gli elementi di cui all'articolo 8, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    commette gravi o reiterate violazioni dei propri obblighi stabiliti in disposizioni normative o amministrative, nell'atto di concessione o nella relativa convenzione accessoria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risulta inadempiente agli obblighi derivanti dalle leggi in materia di lavoro e previdenza, nonche' per gravi e reiterate inadempienze agli obblighi derivanti dal contratto collettivo di lavoro applicabile agli addetti alla riscossione dei crediti e alle attivita' connesse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non presta la cauzione nei termini previsti dalla convenzione accessoria di cui all'articolo 3, comma 4, o nel maggior termine assegnato dal Ministero delle finanze al ricorrere di particolari circostanze; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non adegua la cauzione nei termini previsti dall'articolo 29, comma 1; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    utilizza ai fini dell'attivita' di recupero crediti di cui all'articolo 21 le informazioni acquisite nell'esercizio dell'attivita' di riscossione mediante ruolo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    viola gravemente o reiteratamente le disposizioni stabilite dall'articolo 21 o nel codice deontologico dei concessionari e degli ufficiali della riscossione, di cui all'articolo 8, comma 3.
 
 La revoca e' pronunciata, previa contestazione, con decreto del Ministero delle finanze, notificato al concessionario, e non attribuisce allo stesso concessionario il diritto ad alcun indennizzo.
 
@@ -175,6 +381,38 @@ Le modalita' di compilazione e trasmissione degli elenchi dei residui di gestion
 Al fine di assicurare il funzionamento del servizio nazionale della riscossione, per il progressivo innalzamento del tasso di adesione spontanea agli obblighi tributari e per il presidio della funzione di deterrenza e contrasto dell'evasione, l'agente della riscossione ha diritto alla copertura dei costi da sostenere per il servizio nazionale della riscossione a valere sulle risorse a tal fine stanziate sul bilancio dello Stato, in relazione a quanto previsto dall'articolo 1, comma 13, lettera b), del decreto-legge 22 ottobre 2016, n. 193, convertito, con modificazioni, dalla legge 1° dicembre 2016, n. 225.
 
 Resta fermo quanto previsto dall'articolo 1, comma 6-bis, del decreto-legge 22 ottobre 2016, n. 193, convertito, con modificazioni, dalla legge 1° dicembre 2016, n. 225.
+
+3.
+                        
+                            
+                                Sono riversate ed acquisite all'entrata del bilancio dello Stato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una quota, a carico del debitore, denominata "spese esecutive", correlata all'attivazione di procedure esecutive e cautelari da parte dell'agente della riscossione, nella misura fissata con decreto non regolamentare del Ministro dell'economia e delle finanze, che individua anche le tipologie di spese oggetto di rimborso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una quota, a carico del debitore, correlata alla notifica della cartella di pagamento e degli altri atti di riscossione, da determinare con il decreto di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una quota, a carico degli enti creditori, diversi dalle amministrazioni statali, dalle agenzie fiscali e dagli enti pubblici previdenziali, trattenuta all'atto dei riversamenti, a qualsiasi titolo, in favore di tali enti, in caso di emanazione da parte dell'ente medesimo di un provvedimento che riconosce in tutto o in parte non dovute le somme affidate, nella misura determinata con il decreto di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una quota, trattenuta all'atto del riversamento, pari all'1 per cento delle somme riscosse, a carico degli enti creditori, diversi dalle amministrazioni statali, dalle agenzie fiscali e dagli enti pubblici previdenziali, che si avvalgono dell'agente della riscossione. Tale quota puo' essere rimodulata fino alla meta', in aumento o in diminuzione, con decreto non regolamentare del Ministro dell'economia e delle finanze, tenuto conto dei carichi annui affidati e dell'andamento della riscossione.
 
 4. Le quote riscosse ai sensi del comma 3 sono riversate dall'agente della riscossione ad apposito capitolo di entrata del bilancio dello Stato entro il giorno quindici del mese successivo a quello in cui il medesimo agente della riscossione ha la disponibilita' delle somme e delle informazioni complete relative all'operazione di versamento effettuata dal debitore))
 
@@ -274,6 +512,24 @@ a ruolo riconosciute indebite
 
 Se le somme iscritte a ruolo, pagate dal debitore, sono riconosciute indebite, l'ente creditore incarica dell'effettuazione del rimborso il concessionario, che ((, entro trenta giorni dal ricevimento di tale incarico, invia apposita comunicazione all'avente diritto, invitandolo a presentarsi presso i propri sportelli per ritirare il rimborso ovvero ad indicare che intende riceverlo mediante bonifico in conto corrente bancario o postale.
 
+1-bis.
+                        
+                            
+                                L'agente della riscossione anticipa le somme di cui al comma 1, provvedendo al pagamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    immediatamente, in caso di presentazione dell'avente diritto presso i propri sportelli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro dieci giorni dal ricevimento della relativa richiesta, in caso di scelta del pagamento mediante bonifico; in tale caso le somme erogate sono diminuite dell'importo delle relative spese.
+
 L'ente creditore restituisce al concessionario le somme anticipate ai sensi del comma 1, corrispondendo sulle stesse gli interessi legali a decorrere dal giorno dell'effettuazione del rimborso al debitore.
 
 Le modalita' di esecuzione dei rimborsi e di restituzione al concessionario delle somme anticipate sono stabilite con decreto del Ministero delle finanze, di concerto con il Ministero del tesoro, del bilancio e della programmazione economica.
@@ -292,6 +548,24 @@ Gli enti creditori diversi dallo Stato possono, con proprio provvedimento, deter
  4. Se la cauzione risulta regolarmente prestata, il Ministero delle finanze ne dichiara l'idoneita' con apposito provvedimento, da comunicare al concessionario.
 
 ## Art. 28. — Modalita' di prestazione della cauzione
+
+1.
+                        
+                            
+                                La cauzione puo' essere prestata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante polizza fideiussoria rilasciata da istituti di assicurazione autorizzati con decreto del Ministero delle finanze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante fideiussione bancaria.
 
 La polizza e la fideiussione previste dal comma 1 sono redatte in conformita' allo schema tipo approvato con decreto ministeriale e la mora nel pagamento dei premi non libera l'istituto e la banca dalla garanzia assunta per tutto il periodo per cui e' stata prestata la garanzia stessa e fino all'emissione del decreto di svincolo.
 
@@ -386,6 +660,29 @@ Ai fini dello svolgimento del servizio previsto dal presente decreto la giornata
 Il legale rappresentante del concessionario puo' delegare uno o piu' dipendenti che lo rappresentano nel compimento degli atti inerenti il servizio di riscossione, dinanzi al giudice dell'esecuzione.
 
 ((
+
+2.
+                        
+                            
+                                L'agente della riscossione puo' essere rappresentato dai dipendenti delegati ai sensi del comma 1, che possono stare in giudizio personalmente, salvo che non debba procedersi all'istruzione della causa, nei procedimenti relativi: 
+
+                            
+                            
+                                a)
+                                
+                                    alla dichiarazione tardiva di credito di cui all'articolo 101 del regio decreto 16 marzo 1942, n. 267; 
+                                
+                            
+                            
+                                b)
+                                
+                                    al ricorso di cui all'articolo 499 del codice di procedura civile; 
+                                
+                            
+                            
+                                c)
+                                
+                                    alla citazione di cui all'articolo 543, secondo comma, numero 4, del codice di procedura civile.
 
 ))
 
@@ -553,6 +850,46 @@ Per le somme anticipate in forza dell'obbligo del non riscosso come riscosso, de
 
 (( COMMA ABROGATO DAL D.L. 30 SETTEMBRE 2005, N. 203, CONVERTITO CON MODIFICAZIONI DALLA L. 2 DICEMBRE 2005, N. 248 )).
 
+4-ter.
+                        
+                            
+                                Per i ruoli resi esecutivi prima del 30 settembre 1999: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i compensi spettanti ai concessionari sulla base delle disposizioni in vigore alla data del 30 giugno 1999 sono aumentati nella misura prevista dall'articolo 17, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non si applica l'articolo 19, comma 2, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il termine previsto dall'articolo 19, comma 2, lettera b), secondo periodo, decorre dalla data stabilita con decreto del Ministero delle finanze; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DAL D.L. 29 NOVEMBRE 2004, N. 282, CONVERTITO 
+CON MODIFICAZIONI DALLA L. 27 DICEMBRE 2004, N. 307 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le informazioni di cui all'articolo 36, comma 1, sono trasmesse con le modalita' e nei tempi stabiliti con il decreto di cui alla lettera c).
+
 ((
 
 Per i ruoli consegnati fino al 30 giugno 2003 la comunicazione di inesigibilita' di cui all'articolo 19, comma 2, lettera c), e' presentata entro il 30 giugno 2006.
@@ -570,17 +907,84 @@ dalla L. 27 dicembre 2004, n. 307, ha disposto (con l'art. 2, comma 1) che "In r
 
 ((
 
+1.
+                        
+                            
+                                In deroga all'articolo 19, comma 2, lettera a), costituisce causa di perdita del diritto al discarico la mancata notificazione della cartella di pagamento, se imputabile al concessionario: 
+
+                            
+                            
+                                a)
+                                
+                                    entro il 31 dicembre 2003, per i ruoli di cui all'articolo 25, comma 3-quater, del decreto legislativo 18 dicembre 1997, n. 472; 
+                                
+                            
+                            
+                                b)
+                                
+                                    entro il 31 dicembre 2002, per i ruoli diversi da quelli di cui alla lettera a), consegnati ai concessionari fino al 31 luglio 2002.
+
 ))
 
 ## Art. 60. — Definizione automatica delle domande di rimborso e di discarico dei ruoli erariali e rimborso delle relative anticipazioni.
 
 Relativamente alle quote non superiori a cinquecento milioni di lire, i concessionari possono definire automaticamente le domande di rimborso e di discarico per inesigibilita' da essi presentate fino al 31 dicembre 1997 e giacenti presso gli uffici e non ancora esaminate.
 
+2.
+                        
+                            
+                                Al fine di accedere alla definizione di cui al comma 1, i concessionari presentano entro il 31 luglio 1999 all'ufficio che ha effettuato l'iscrizione a ruolo una richiesta, nella quale dichiarano, in conformita' alle vigenti norme sull'autocertificazione e per le quote inserite nelle domande per le quali esercitano la facolta' di definizione automatica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sussistenza delle condizioni indicate nell'articolo 24, comma 13, lettere a) e c), della legge 27 dicembre 1997, n. 449 e l'assenza della condizione ostativa di cui alla lettera b) dello stesso articolo 24, comma 13, della legge n. 449 del 1997, nonche' di provvedimenti di sgravio per indebito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo delle quote inserite nelle domande e, limitatamente alle domande di rimborso, quello delle relative anticipazioni, calcolato al netto degli sgravi provvisoni e dei provvedimenti di dilazione.
+
 La somma da corrispondere a ciascun concessionario e' pari al 99 per cento dell'importo delle anticipazioni relative alle domande di rimborso definite automaticamente, calcolato al netto degli sgravi provvisori e dei provvedimenti di dilazione.
 
 L'importo globale da corrispondere ai concessionari, con le modalita' di cui al comma 5, non puo' superare 4.000 miliardi di lire complessive e 1.000 miliardi di lire annue. ((1a))
 
 Con decreto del Ministero delle finanze sono definite le modalita' ed i tempi di trattazione delle richieste presentate ai sensi del comma 1; in ogni caso, la definizione di tali richieste deve essere ultimata entro il 31 maggio 2000 e si procede comunque al rilascio dei titoli entro l'anno 1999. In conseguenza del completamento della definizione automatica, i provvedimenti di sgravio provvisorio relativi alle domande definite assumono il valore di provvedimenti di rimborso definitivi.
+
+6.
+                        
+                            
+                                Per le finalita' di cui al comma 4, e' autorizzata l'emissione di titoli di Stato per un importo massimo di lire 4.000 miliardi, con imputazione della relativa spesa ad apposita unita' previsionale di base dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica, cosi' ripartita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    miliardi 1.000 per l'anno 1999, con godimento dei titoli dal 1 gennaio 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    miliardi 1.000 per l'anno 2000, con godimento dei titoli dal 1 gennaio 2001; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    miliardi 1.000 per l'anno 2001, con godimento dei titoli dal 1 gennaio 2002; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    miliardi 1.000 per l'anno 2002, con godimento dei titoli dal 1 gennaio 2003.
 
 Con decreto del Ministro del tesoro, del bilancio e della programmazione economica sono stabilite le caratteristiche, le modalita' e le procedure di assegnazione dei titoli medesimi.
 

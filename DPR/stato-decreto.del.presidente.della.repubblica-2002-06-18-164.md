@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,171 @@ SAPAF - CISL/Corpo forestale dello Stato - UIL/Corpo forestale dello Stato - SAP
 ## - Titolo I GENERALITA'
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    per "Polizia ad ordinamento civile" si intende il personale della Polizia di Stato, del Corpo della polizia penitenziaria e del Corpo forestale dello Stato con esclusione dei rispettivi dirigenti e del personale di leva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per "Polizia ad ordinamento militare" si intende il personale dell'Arma dei carabinieri e del Corpo della guardia di finanza con esclusione dei rispettivi dirigenti e del personale di leva;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per "Forze Armate" (esclusa l'Arma dei carabinieri), si intende il personale militare dell'Esercito, della Marina, compreso il Corpo delle Capitanerie di porto e dell'Aeronautica, con esclusione dei rispettivi dirigenti e del personale di leva;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per "decreto sulle procedure" si intende il decreto legislativo 12 maggio 1995, n. 195, e successive modificazioni, recante: "Attuazione dell'art. 2 della legge 6 marzo 1992, n. 216, in materia di procedure per disciplinare i contenuti del rapporto di impiego del personale delle Forze di polizia e delle Forze armate";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per "primo quadriennio normativo Forze armate" si intende il decreto del Presidente della Repubblica del 31 luglio 1995, n. 394, di recepimento del provvedimento di concertazione sottoscritto in data 20 luglio 1995 riguardante il personale delle Forze armate, quadriennio normativo 1994-1997 e biennio economico 1994-1995;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per "primo quadriennio normativo Polizia" si intende il decreto del Presidente della Repubblica 31 luglio 1995, n. 395, di recepimento dell'accordo sindacale sottoscritto in data 20 luglio 1995 riguardante il personale delle Forze di polizia ad ordinamento civile e del provvedimento di concertazione del 20 luglio 1995 riguardante le Forze di polizia ad ordinamento militare, quadriennio normativo 1994-1997 e biennio economico 1994-1995;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per "biennio economico Forze armate 1996-1997" si intende il decreto del Presidente della Repubblica 10 maggio 1996, n. 360, di recepimento del provvedimento di concertazione sottoscritto in data 18 aprile 1996, riguardante il biennio 1996-1997, per gli aspetti retributivi per il personale non dirigente delle Forze armate, emanato a seguito del decreto del Presidente della Repubblica 31 luglio 1995, n. 394;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per "biennio economico Polizia 1996-1997" si intende il decreto del Presidente della Repubblica 10 maggio 1996, n. 359, di recepimento dell'accordo sindacale e del provvedimento di concertazione sottoscritto in data 18 aprile 1996, riguardante il biennio 1996-1997, per gli aspetti retributivi, per il personale non dirigente delle Forze di polizia ad ordinamento civile e delle Forze di polizia ad ordinamento militare, emanato a seguito del decreto del Presidente della Repubblica 31 luglio 1995, n. 395;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per "secondo quadriennio normativo Forze armate" si intende il decreto del Presidente della Repubblica 16 marzo 1999, n. 255, di recepimento del provvedimento di concertazione, sottoscritto in data 17 febbraio 1999, per le Forze armate relativo al quadriennio normativo 1998-2001 ed al biennio economico 1998-1999;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    per "secondo quadriennio normativo Polizia" si intende il decreto del Presidente della Repubblica 16 marzo 1999, n. 254, di recepimento dell'accordo sindacale per le Forze di polizia ad ordinamento civile e del provvedimento di concertazione delle Forze di polizia ad ordinamento militare sottoscritti in data 17 febbraio 1999, relativi al quadriennio normativo 1998-2001 ed al biennio economico 1998-1999;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    per "biennio economico Forze armate 2000-2001" si intende il decreto del Presidente della Repubblica 8 febbraio 2001, n. 139, di recepimento del provvedimento di concertazione, sottoscritto in data 24 gennaio 2001, per le Forze armate relativo al biennio economico 2000-2001, emanato a seguito del decreto del Presidente della Repubblica 16 marzo 1999, n. 255;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per "biennio economico Polizia 2000-2001", si intende il decreto del Presidente della Repubblica 9 febbraio 2001, n. 140, di recepimento dell'accordo sindacale per le Forze di polizia ad ordinamento civile e del provvedimento di concertazione delle Forze di polizia ad ordinamento militare, sottoscritti in data 24 gennaio 2001, relativi al biennio economico 2000-2001, emanato a seguito del decreto del Presidente della Repubblica 16 marzo 1999, n. 254;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    per "legge finanziaria 1994" si intende la legge 24 dicembre 1993, n. 537, recante "Interventi correttivi di finanza pubblica";
+
+                                
+                            
+                            
+                                n)
+                                
+                                    per "legge finanziaria 1998" si intende la legge 27 dicembre 1997, n. 449, recante "Misure per la stabilizzazione della finanza pubblica";
+
+                                
+                            
+                            
+                                o)
+                                
+                                    per "legge di bilancio 1999" si intende la legge 23 dicembre 1998, n. 449, recante "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato";
+
+                                
+                            
+                            
+                                p)
+                                
+                                    per "legge finanziaria 1999" si intende la legge 23 dicembre 1998, n. 448, recante "Misure di finanza pubblica per la stabilizzazione e lo sviluppo";
+
+                                
+                            
+                            
+                                q)
+                                
+                                    per "legge finanziaria 2002" si intende la legge 28 dicembre 2001, n. 448, recante "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato";
+
+                                
+                            
+                            
+                                r)
+                                
+                                    per "regolamento del 1990" si intende il decreto del Presidente della Repubblica 5 giugno 1990, n. 147, recante "Regolamento per il recepimento delle norme risultanti dalla disciplina prevista dall'accordo del 22 dicembre 1989 concernente il personale della Polizia di Stato";
+
+                                
+                            
+                            
+                                s)
+                                
+                                    per "legge sulle indennita'" si intende la legge 27 maggio 1977, n. 284 e successive modificazioni, recante "Adeguamento e riordinamento di indennita' alle Forze di polizia ed al personale civile degli istituti penitenziari";
+
+                                
+                            
+                            
+                                t)
+                                
+                                    per "Testo unico a tutela della maternita'" si intende il decreto legislativo 26 marzo 2001, n. 151, recante "Testo unico delle disposizioni legislative in materia di tutela e sostegno della maternita' e della paternita', a norma dell'articolo 15 della legge 8 marzo 2000, n. 53";
+
+                                
+                            
+                            
+                                u)
+                                
+                                    per "statuto degli impiegati civili dello Stato", si intende il decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni e integrazioni, recante "Testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato";
+
+                                
+                            
+                            
+                                v)
+                                
+                                    per "legge sulle missioni" si intende la legge 18 dicembre 1973, n. 836, e successive modificazioni e integrazioni, recante "Trattamento economico di missione e di trasferimento dei dipendenti statali";
+
+                                
+                            
+                            
+                                w)
+                                
+                                    per "legge sulle indennita' operative" si intende la legge 23 marzo 1983, n. 78, e successive modificazioni e integrazioni, recante "Aggiornamento della legge 5 maggio 1976, n. 187, relativa alle indennita' operative del personale militare".
 
 ## - Titolo II FORZE DI POLIZIA AD ORDINAMENTO CIVILE
 
@@ -538,6 +703,294 @@ Gli incrementi stipendiali di cui all'articolo 3 non hanno effetto sulla determi
                                         17,58
 
 ## Art. 5. — Indennita' pensionabile
+
+1.
+                        
+                            
+                                Le misure dell'indennita' mensile pensionabile stabilite dall'articolo 4 del biennio economico polizia 2000-2001 spettante al personale dei ruoli della Polizia ad ordinamento civile sono rideterminate, a decorrere dalle date di seguito indicate, nei seguenti importi mensili lordi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal 1 gennaio 2002: 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Qualifiche 
+                                            
+                                            
+                                                Euro 
+                                            
+                                        
+                                        
+                                            
+                                                Vice questore aggiunto e qualifiche equiparate ... 
+                                            
+                                            
+                                                677,60 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario capo e qualifiche equiparate ... 
+                                            
+                                            
+                                                665,00 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario e qualifiche equiparate ... 
+                                            
+                                            
+                                                659,00 
+                                            
+                                        
+                                        
+                                            
+                                                Vice commissario e qualifiche equiparate ... 
+                                            
+                                            
+                                                632,20 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore superiore s.U.P.S. e qualifiche equiparate ... 
+                                            
+                                            
+                                                643,70 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore capo e qualifiche equiparate ... 
+                                            
+                                            
+                                                614,70 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore e qualifiche equiparate ... 
+                                            
+                                            
+                                                595,60 
+                                            
+                                        
+                                        
+                                            
+                                                Vice ispettore e qualifiche equiparate ... 
+                                            
+                                            
+                                                577,00 
+                                            
+                                        
+                                        
+                                            
+                                                Sovrintendente capo e qualifiche equiparate ... 
+                                            
+                                            
+                                                592,90 
+                                            
+                                        
+                                        
+                                            
+                                                Sovrintendente e qualifiche equiparate ... 
+                                            
+                                            
+                                                557,90 
+                                            
+                                        
+                                        
+                                            
+                                                Vice sovrintendente e qualifiche equiparate ... 
+                                            
+                                            
+                                                555,20 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente capo e qualifiche equiparate ... 
+                                            
+                                            
+                                                499,40 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente e qualifiche equiparate ... 
+                                            
+                                            
+                                                454,60 
+                                            
+                                        
+                                        
+                                            
+                                                Agente scelto e qualifiche equiparate ... 
+                                            
+                                            
+                                                415,80 
+                                            
+                                        
+                                        
+                                            
+                                                Agente e qualifiche equiparate ... 
+                                            
+                                            
+                                                382,50 
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    dal 1 gennaio 2003:
+
+
+                                    
+                                        
+                                            
+                                                Qualifiche 
+                                            
+                                            
+                                                Euro 
+                                            
+                                        
+                                        
+                                            
+                                                Vice questore aggiunto e qualifiche equiparate ... 
+                                            
+                                            
+                                                716,00 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario capo e qualifiche equiparate ... 
+                                            
+                                            
+                                                702,70 
+                                            
+                                        
+                                        
+                                            
+                                                Commissario e qualifiche equiparate ... 
+                                            
+                                            
+                                                696,30 
+                                            
+                                        
+                                        
+                                            
+                                                Vice commissario e qualifiche equiparate ... 
+                                            
+                                            
+                                                668,10 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore superiore s.U.P.S e qualifiche equiparate ... 
+                                            
+                                            
+                                                680,20 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore capo e qualifiche equiparate ... 
+                                            
+                                            
+                                                649,60 
+                                            
+                                        
+                                        
+                                            
+                                                Ispettore e qualifiche equiparate ... 
+                                            
+                                            
+                                                629,40 
+                                            
+                                        
+                                        
+                                            
+                                                Vice ispettore e qualifiche equiparate ... 
+                                            
+                                            
+                                                609,70 
+                                            
+                                        
+                                        
+                                            
+                                                Sovrintendente capo e qualifiche equiparate ... 
+                                            
+                                            
+                                                626,50 
+                                            
+                                        
+                                        
+                                            
+                                                Sovrintendente e qualifiche equiparate ... 
+                                            
+                                            
+                                                589,50 
+                                            
+                                        
+                                        
+                                            
+                                                Vice sovrintendente e qualifiche equiparate ... 
+                                            
+                                            
+                                                586,60 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente capo e qualifiche equiparate ... 
+                                            
+                                            
+                                                527,70 
+                                            
+                                        
+                                        
+                                            
+                                                Assistente e qualifiche equiparate ... 
+                                            
+                                            
+                                                480,40 
+                                            
+                                        
+                                        
+                                            
+                                                Agente scelto e qualifiche equiparate ... 
+                                            
+                                            
+                                                439,40 
+                                            
+                                        
+                                        
+                                            
+                                                Agente e qualifiche equiparate ... 
+                                            
+                                            
+                                                404,20 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ 
+ (3) ((4))
 
 -------------
                             AGGIORNAMENTO (3)
@@ -1382,6 +1835,24 @@ Le misure mensili dell'indennita' di imbarco previste alle lettere a) e b) della
 
 ## Art. 14. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento civile il Fondo unico per l'efficienza dei servizi istituzionali, di cui all'articolo 14 del secondo quadriennio normativo Polizia e all'articolo 11 del biennio economico Polizia 2000-2001, e' ulteriormente incrementato, come da tabella "A" allegata al presente decreto, dalle seguenti risorse economiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli anni 2002 e 2003, dalle somme di cui all'articolo 16, comma 2, della legge finanziaria 2002, di pertinenza di ogni singola Amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli anni 2002 e 2003 dalle somme derivanti dall'applicazione dell'articolo 4, comma 4, del presente decreto.
+
 Le somme destinate al fondo e non utilizzate nell'esercizio di competenza sono riassegnate, per le medesime esigenze, nell'anno successivo. (2) (3) (4) (5) (6) ((8))
 
 -----------------
@@ -1467,6 +1938,45 @@ Le somme destinate al fondo e non utilizzate nell'esercizio di competenza sono r
 
 Il Fondo per l'efficienza dei servizi istituzionali e' finalizzato al raggiungimento di qualificati obiettivi ed a promuovere reali e significativi miglioramenti dell'efficienza dei servizi istituzionali.
 
+2.
+                        
+                            
+                                Il Fondo indicato al comma 1 e' utilizzato, con le modalita' di cui all'articolo 24, comma 5, lettera a), in particolare per attribuire compensi finalizzati a:
+ 
+                            
+                            
+                                a)
+                                
+                                    incentivare l'impiego del personale nelle attivita' operative;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fronteggiare particolari situazioni di servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compensare l'impiego in compiti od incarichi che comportino disagi o particolari responsabilita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compensare la presenza qualificata;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    compensare l'incentivazione della produttivita' collettiva per il miglioramento dei servizi.
+
 Le risorse del Fondo per l'efficienza dei servizi istituzionali di cui all'articolo 14 non possono comportare una distribuzione indistinta e generalizzata.
 
 ## Art. 16. — Orario di lavoro
@@ -1480,6 +1990,52 @@ Fermo restando il diritto al recupero, al personale che per sopravvenute inderog
 Al personale impiegato in turni continuativi, qualora il giorno di riposo settimanale o il giorno libero coincida con una festivita' infrasettimanale, e' concesso un ulteriore giorno di riposo da fruire entro le quattro settimane successive.
 
 ## Art. 17. — Tutela delle lavoratrici madri
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dal testo unico a tutela della maternita', al personale della Polizia ad ordinamento civile, si applicano le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    esonero dalla sovrapposizione dei turni, a richiesta degli interessati, tra coniugi dipendenti dalla stessa Amministrazione con figli fino a sei anni di eta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esonero, a domanda, per la madre o per le situazioni monoparentali dal turno notturno o da turni continuativi articolati sulle 24 ore sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    divieto di inviare in missione fuori sede o in servizio di ordine pubblico per piu' di una giornata, senza il consenso dell'interessato, il personale con figli di eta' inferiore a tre anni che ha proposto istanza per essere esonerato dai turni continuativi e notturni e dalla sovrapposizione dei turni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esonero, a domanda, dal turno notturno per i dipendenti che abbiano a proprio carico un soggetto disabile ai sensi della legge n. 104 del 5 febbraio 1992;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    possibilita' per le lavoratrici madri vincitrici di concorso interno, con figli fino al dodicesimo anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    divieto di impiegare la madre che fruisce dei riposi giornalieri, ai sensi dell'art. 39 del testo unico a tutela della maternita', in turni continuativi articolati sulle 24 ore.
 
 La disposizione di cui all'articolo 9, comma 1, del testo unico a tutela della maternita' si applica anche alle appartenenti al Corpo forestale dello Stato.
 
@@ -1539,6 +2095,54 @@ Le disposizioni di cui all'articolo 20, comma 1, del secondo quadriennio normati
 
 Il sistema di relazioni sindacali, nel rispetto delle distinzioni delle responsabilita' delle Amministrazioni e delle organizzazioni sindacali e' riordinato in modo coerente all'obiettivo di incrementare e mantenere elevata l'efficienza dei servizi istituzionali unitamente al miglioramento delle condizioni di lavoro e alla crescita professionale degli operatori della sicurezza. ((Al fine di realizzare un sistema di relazioni sindacali piu' snello ed efficace le organizzazioni sindacali, comunque costituite, sia in forma unitaria che aggregata, si rapportano con le rispettive amministrazioni esclusivamente attraverso il proprio legale rappresentante o un suo delegato)).
 
+2.
+                        
+                            
+                                Il sistema di relazioni sindacali si articola nei seguenti modelli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contrattazione collettiva: 
+ a1) la contrattazione collettiva si svolge a livello nazionale sulle materie, con i tempi e le procedure previste dall'articolo 3, comma 1, e dall'articolo 7 del decreto sulle procedure, individuando anche le risorse da destinare al fondo per il raggiungimento di qualificati obiettivi e il miglioramento dell'efficienza dei servizi; 
+a2) accordo nazionale quadro e contrattazione decentrata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazione, che si articola in preventiva e successiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esame; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    consultazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    forme di partecipazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    norme di garanzia.
+
 ## Art. 24. — Accordo nazionale quadro di amministrazione e contrattazione decentrata
 
 L'accordo nazionale quadro di amministrazione e' stipulato fra il Ministro competente, o un suo delegato, e una delegazione sindacale composta dai rappresentanti di ciascuna organizzazione sindacale firmataria dell'accordo nazionale di cui all'articolo 23, lettera a1).
@@ -1549,11 +2153,202 @@ L'accordo nazionale quadro di amministrazione ha durata ((triennale)) e le mater
 
 L'accordo non puo' essere in contrasto con i vincoli risultanti da quanto stabilito nel contratto collettivo nazionale ne' comportare oneri eccedenti le risorse confluite nel fondo di cui all'articolo 14.
 
+5.
+                        
+                            
+                                Le procedure per l'accordo nazionale quadro si svolgono per ciascuna amministrazione sulle seguenti materie di contrattazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuazione delle fattispecie, e delle misure da attribuire a ciascuna di esse, a cui destinare le risorse del fondo per l'efficienza dei servizi istituzionali di cui all'articolo 14; definizione delle modalita' per la loro destinazione, utilizzazione e attribuzione, nonche' le relative modalita' di verifica. L'accordo su tale punto avra' cadenza annuale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    principi generali per la definizione degli accordi decentrati di cui al comma 6, unitamente alle procedure di perfezionamento in caso di mancata intesa ed alle modalita' di verifica di tali accordi, nonche' per le determinazioni dei periodi di validita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuazione delle tipologie per l'articolazione dei turni di servizio, disciplinando, in ragione di specifiche esigenze locali, anche la possibilita' di accordi decentrati con articolazioni dei turni di servizio diverse rispetto a quelle stabilite con l'accordo quadro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    criteri per la valutazione dell'adeguatezza degli alloggi di servizio utilizzabili dal personale in missione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    criteri relativi alla formazione ed all'aggiornamento professionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    criteri generali, previa informazione dei dati necessari, per la programmazione di turni di lavoro straordinario diretti a consentire ai responsabili degli uffici di fronteggiare, per periodi predeterminati, particolari esigenze di servizio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    criteri generali per l'applicazione del riposo compensativo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    criteri generali per la programmazione di turni di reperibilita'; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    indirizzi generali per le attivita' gestionali degli enti di assistenza del personale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    criteri per l'impiego del personale con oltre cinquanta anni d'eta' o con piu' di trenta anni di servizio.
+
+6.
+                        
+                            
+                                La contrattazione decentrata si svolge presso ogni sede centrale e ufficio o istituto o reparto periferico di livello dirigenziale individuati da ciascuna Amministrazione, senza oneri finanziari aggiuntivi rispetto a quanto previsto dal presente decreto, con le procedure previste dall'articolo 3, comma 2, del decreto sulle procedure, e per le seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione ed applicazione, con cadenza annuale, di quanto previsto dal comma 5, lettera a), secondo le modalita' ivi definite ed entro trenta giorni dalla data dell'accordo stesso e dei successivi aggiornamenti. Nel caso non si pervenga, entro tale termine, ad un accordo, la commissione di cui all'articolo 29, comma 3, esprime parere vincolante nel merito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    criteri applicativi relativi alla formazione ed all'aggiornamento professionale, con riferimento alle materie, ai tempi ed alle modalita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    criteri per la verifica della qualita' e della salubrita' dei servizi di mensa e degli spacci; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    criteri per la verifica delle attivita' di protezione sociale e di benessere del personale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    misure dirette a favorire pari opportunita' nel lavoro e nello sviluppo professionale, ai fini anche delle azioni positive di cui alla legge 10 aprile 1991, n. 125.
+
 ## Art. 25. — Informazione
 
 L'informazione si articola in preventiva e successiva.
 
+2.
+                        
+                            
+                                L'informazione preventiva e' fornita da ciascuna amministrazione, inviando con congruo anticipo alle rispettive organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto la documentazione necessaria, relativamente ai criteri generali ed alle conseguenti iniziative concernenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolazione dell'orario di lavoro obbligatorio giornaliero e settimanale e dei turni di servizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la mobilita' esterna del personale a domanda e la mobilita' interna;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la programmazione di turni di lavoro straordinario diretti a consentire ai responsabili degli uffici di fronteggiare, per periodi predeterminati, particolari esigenze di servizio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'applicazione del riposo compensativo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la programmazione di turni di reperibilita';
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i provvedimenti di massima riguardanti l'organizzazione degli uffici e l'organizzazione del lavoro.
+
 Per le materie di cui al comma 2, lettere a), c), d), ed e), l'informazione e' fornita a livello centrale e periferico; per le materie di cui alle lettere b) e f) del medesimo comma 2, l'informazione e' fornita a livello di amministrazione centrale.
+
+4.
+                        
+                            
+                                L'informazione successiva si attua relativamente ai criteri generali concernenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la qualita' del servizio ed i rapporti con l'utenza, nonche' le altre misure di massima volte a migliorare l'efficienza dei servizi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attuazione di programmi di formazione del personale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le misure in materia di igiene e sicurezza nei luoghi di lavoro, anche in relazione all'attuazione della legge n. 626 del 1994;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'attuazione della mobilita' interna.
 
 Per le materie suddette, le amministrazioni della Polizia di Stato e del Corpo forestale dello Stato forniscono le adeguate informazioni alle rispettive organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto in un'apposita conferenza di rappresentanti di dette amministrazioni ed organizzazioni sindacali, non avente alcuna natura negoziale, da riunirsi con cadenza semestrale.
 
@@ -1570,6 +2365,31 @@ Durante il periodo in cui si svolge l'esame, le amministrazioni non adottano pro
 Per il Corpo di polizia penitenziaria, l'amministrazione, per tutte le materie indicate negli articoli 25 e 27, procede, prima di assumere le relative determinazioni, all'esame previsto nel comma 1, nel rispetto dei termini massimi ivi stabiliti, dopo aver fornito alle organizzazioni sindacali firmatarie dell'accordo sindacale recepito con il presente decreto operanti presso il Corpo di polizia penitenziaria le informazioni necessarie.
 
 ## Art. 27. — Consultazione
+
+1.
+                        
+                            
+                                La consultazione si svolge relativamente ai criteri generali ed ai provvedimenti concernenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la definizione delle piante organiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la gestione del rapporto di impiego relativamente agli atti normativi ed amministrativi di carattere generale concernenti lo stato giuridico, previdenziale ed assistenziale, ivi compresi i criteri di massima da seguirsi negli scrutini per le promozioni e i regolamenti recanti le modalita' di svolgimento dei concorsi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'introduzione di nuove tecnologie e le conseguenti misure di massima riguardanti i processi generali di organizzazione degli uffici centrali e periferici aventi effetti generali sull'organizzazione del lavoro.
 
 Per le materie suddette, prima di assumere le relative determinazioni, le amministrazioni della Polizia di Stato e del Corpo forestale dello Stato, previa adeguata informazione, acquisiscono senza particolari formalita' il parere delle rispettive organizzazioni sindacali firmatarie dell'accordo recepito con il presente decreto.
 
@@ -1728,6 +2548,24 @@ b) le quote di iscrizione siano attribuite all'organizzazione sindacale federata
 
 
 
+1.
+                        
+                            
+                                In conseguenza delle incertezze concernenti l'applicazione dell'articolo 35, nella versione risultante dalle modifiche introdotte dall'articolo 30 del decreto del Presidente della Repubblica 20 aprile 2022, n. 57, verificatesi anche a seguito di vicende contenziose, si applicano, per la Polizia di Stato, le seguenti disposizioni transitorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la misurazione della consistenza associativa delle federazioni sindacali, per gli anni 2022 e 2023, e' effettuata sommando le deleghe conferite a ciascuna delle organizzazioni sindacali federate che hanno adempiuto a quanto previsto dall'articolo 35, comma 8, nella versione determinata dal predetto decreto del Presidente della Repubblica n. 57 del 2022; ((12))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    ai fini dell'accertamento della rappresentativita' al 31 dicembre 2024, le deleghe conferite a ciascuna delle organizzazioni sindacali federate di cui alla lettera a), depositate presso gli uffici del trattamento economico fino alla data del 31 dicembre 2024, sono conteggiate, attraverso la procedura informatica di gestione dei codici di cui all'articolo 35, comma 2, lettere a) e b), in capo alle federazioni interessate.
+
 --------------
                             AGGIORNAMENTO (12)
                             
@@ -1767,6 +2605,31 @@ La ripartizione della somma indicata al comma 2 viene effettuata in proporzione 
  c) Corpo forestale dello stato: euro 126.715."
 
 ## Art. 39. — Tutela assicurativa
+
+1.
+                        
+                            
+                                A decorrere dal 1 gennaio 2002, ai fini della stipula di convenzioni da destinare alla copertura della responsabilita' civile ed amministrativa per gli eventi dannosi non dolosi causati a terzi dal personale delle forze di polizia nello svolgimento della propria attivita' istituzionale, la somma di cui all'articolo 16, comma 4, della legge finanziaria 2002 e' ripartita, per le Forze di polizia ad ordinamento civile, come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    Polizia di Stato, euro 330.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Polizia penitenziaria, euro 130.000,00;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Corpo forestale dello Stato, euro 20.000,00. ((2))
 
 -----------------
                             AGGIORNAMENTO (2)
@@ -2277,6 +3140,295 @@ Gli incrementi stipendiali di cui all'articolo 42 non hanno effetto sulla determ
                                         17,58
 
 ## Art. 44. — Indennita' pensionabile
+
+1.
+                        
+                            
+                                Le misure dell'indennita' mensile pensionabile stabilite dall'art. 16 del biennio economico Polizia 2000-2001 spettante al personale dei ruoli della Polizia ad ordinamento militare sono rideterminate, a decorrere dalle date di seguito indicate, nei 
+seguenti importi mensili lordi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal 1 gennaio 2002: 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Gradi 
+                                            
+                                            
+                                                Euro 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente colonnello e Maggiore ... 
+                                            
+                                            
+                                                677,60 
+                                            
+                                        
+                                        
+                                            
+                                                Capitano ... 
+                                            
+                                            
+                                                665,00 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente ... 
+                                            
+                                            
+                                                659,00 
+                                            
+                                        
+                                        
+                                            
+                                                Sottotenente ... 
+                                            
+                                            
+                                                632,20 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo aiutante s. U.P.S. e Maresciallo aiutante 
+                                            
+                                            
+                                                643,70 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo capo ... 
+                                            
+                                            
+                                                614,70 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo ordinario ... 
+                                            
+                                            
+                                                595,60 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo ... 
+                                            
+                                            
+                                                577,00 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere capo ... 
+                                            
+                                            
+                                                592,90 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere ... 
+                                            
+                                            
+                                                557,90 
+                                            
+                                        
+                                        
+                                            
+                                                Vice Brigadiere ... 
+                                            
+                                            
+                                                555,20 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato scelto ... 
+                                            
+                                            
+                                                499,40 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato ... 
+                                            
+                                            
+                                                454,60 
+                                            
+                                        
+                                        
+                                            
+                                                Carabiniere scelto e finanziere scelto ... 
+                                            
+                                            
+                                                415,80 
+                                            
+                                        
+                                        
+                                            
+                                                Carabiniere e finanziere ... 
+                                            
+                                            
+                                                382,50 
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    dal 1 gennaio 2003:
+
+
+                                    
+                                        
+                                            
+                                                Gradi 
+                                            
+                                            
+                                                Euro 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente colonnello e Maggiore ... 
+                                            
+                                            
+                                                716,00 
+                                            
+                                        
+                                        
+                                            
+                                                Capitano ... 
+                                            
+                                            
+                                                702,70 
+                                            
+                                        
+                                        
+                                            
+                                                Tenente ... 
+                                            
+                                            
+                                                696,30 
+                                            
+                                        
+                                        
+                                            
+                                                Sottotenente ... 
+                                            
+                                            
+                                                668,10 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo aiutante s. U.P.S. e Maresciallo aiutante 
+                                            
+                                            
+                                                680,20 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo capo ... 
+                                            
+                                            
+                                                649,60 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo ordinario ... 
+                                            
+                                            
+                                                629,40 
+                                            
+                                        
+                                        
+                                            
+                                                Maresciallo ... 
+                                            
+                                            
+                                                609,70 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere capo ... 
+                                            
+                                            
+                                                626,50 
+                                            
+                                        
+                                        
+                                            
+                                                Brigadiere ... 
+                                            
+                                            
+                                                589,50 
+                                            
+                                        
+                                        
+                                            
+                                                Vice Brigadiere ... 
+                                            
+                                            
+                                                586,60 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato scelto ... 
+                                            
+                                            
+                                                527,70 
+                                            
+                                        
+                                        
+                                            
+                                                Appuntato ... 
+                                            
+                                            
+                                                480,40 
+                                            
+                                        
+                                        
+                                            
+                                                Carabiniere scelto e finanziere scelto ... 
+                                            
+                                            
+                                                439,40 
+                                            
+                                        
+                                        
+                                            
+                                                Carabiniere e finanziere ... 
+                                            
+                                            
+                                                404,20 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ 
+ (3) ((4))
 
 -------------
                             AGGIORNAMENTO (3)
@@ -3171,7 +4323,71 @@ Le misure mensili dell'indennita' di imbarco previste alle lettere a) e b) della
 
 ## Art. 53. — Efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento militare, le risorse economiche per l'efficienza dei servizi istituzionali di cui all'articolo 53 del secondo quadriennio normativo Polizia e all'articolo 23 del biennio economico Polizia 2000-2001 sono ulteriormente incrementate, come da tabella "A" allegata al presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli anni 2002 e 2003, dalle somme di cui all'articolo 16, comma 2, della legge finanziaria 2002, di pertinenza di ogni singola Amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli anni 2002 e 2003 dalle somme derivanti dall'applicazione dell'articolo 43, comma 4, del presente decreto.
+
 Le somme assegnate e non utilizzate nell'esercizio di competenza sono riassegnate, per le medesime esigenze, nell'anno successivo.
+
+3.
+                        
+                            
+                                Le risorse indicate al comma 1 sono utilizzate per attribuire compensi finalizzati a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fronteggiare particolari situazioni di servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incentivare l'impegno del personale nelle attivita' operative e di funzionamento individuate dal Comandante generale dell'Arma dei carabinieri e dal Comandante generale del Corpo della guardia di finanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compensare l'impiego in compiti od incarichi che comportino l'assunzione di specifiche responsabilita' o disagio anche con particolare riguardo, per l'Arma dei carabinieri, al personale in forza al Gruppo intervento speciale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compensare la presenza qualificata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    compensare l'incentivazione della produttivita' collettiva al fine del miglioramento dei servizi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    compensare, per quanto riguarda il personale dell'Arma dei carabinieri, le specifiche funzioni investigative e di controllo del territorio, nonche', per quanto riguarda il personale del Corpo della guardia di finanza, le specifiche funzioni di Polizia economico-finanziaria.
 
 ((Con distinti decreti del Ministro della difesa e del Ministro dell'economia e delle finanze, su proposta dei rispettivi Comandanti Generali formulata all'esito delle procedure di cui ai commi 4-bis, 4-ter e 4-quater, sono annualmente determinati i criteri per la destinazione, l'utilizzazione delle risorse indicate al comma 1, disponibili al 31 dicembre di ciascun anno, e le modalita' applicative concernenti l'attribuzione dei compensi previsti dal presente articolo.))
 
@@ -3345,6 +4561,24 @@ La ripartizione della somma indicata al comma 2 viene effettuata in proporzione 
  b) Guardia di finanza: euro 503.720."
 
 ## Art. 62. — Tutela assicurativa
+
+1.
+                        
+                            
+                                A decorrere dal 1 gennaio 2002, ai fini della stipula di convenzioni da destinare alla copertura della responsabilita' civile ed amministrativa per gli eventi dannosi non dolosi causati a terzi dal personale delle forze di polizia nello svolgimento della propria attivita' istituzionale, la somma di cui all'articolo 16, comma 4, della legge finanziaria 2002, e' ripartita, per le Forze di polizia ad ordinamento militare, come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    Arma dei carabinieri, euro 320.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Guardia di finanza, euro 200.000,00. ((2))
 
 -----------------
                             AGGIORNAMENTO (2)

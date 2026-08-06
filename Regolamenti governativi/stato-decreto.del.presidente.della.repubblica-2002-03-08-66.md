@@ -8,8 +8,8 @@ codice_redazionale: 002G0091
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -59,4 +59,46 @@ Il pagamento dell'imposta e' effettuato con le modalita' di cui al Capo III del 
 I bollettari ed i documenti previsti dal presente decreto sono tenuti a norma dell'articolo 2219 del codice civile e conservati a norma dell'articolo 22, secondo e terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.
 
 ## Art. 6. — Disposizioni abrogate
+
+1.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                nel decreto del Presidente della Repubblica 18 aprile 1951, n. 581, gli articoli 56 e 60;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel decreto del Presidente della Repubblica 26 aprile 1998, n. 169, l'articolo 18, comma 1, l'articolo 19, comma 1, e l'articolo 21;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel decreto del Ministro delle finanze 2 giugno 1998, n. 174, l'articolo 13, comma 1, l'articolo 14, comma 1, e l'articolo 16;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nel decreto del Ministro delle finanze 2 agosto 1999, n. 278:
+ 1) l'articolo 8;
+ 2) all'articolo 23, comma 2, le parole: "dell'imposta unica e";
+ 3) all'articolo 3, comma 1, il numero: "16";
+
+                            
+                        
+                        
+                            e)
+                            
+                                nel decreto del Ministro delle finanze 31 gennaio 2000, n. 29, l'articolo 9, comma 2.
 

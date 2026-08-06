@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,13 +29,111 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della pu
 
 Nel sistema scolastico nazionale gli organi collegiali disciplinati dal presente decreto legislativo assicurano, a livello centrale, regionale e locale, rappresentanza e partecipazione alle componenti della scuola e ai diversi soggetti interessati alla sua vita, alle sue attivita' e ai suoi risultati.
 
+2.
+                    
+                        
+                            Gli organi collegiali di cui al comma 1 sono:
+ 
+                        
+                        
+                            a)
+                            
+                                a livello centrale, il consiglio superiore della pubblica istruzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a livello regionale, i consigli regionali dell'istruzione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                a livello locale, i consigli scolastici locali.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Competenze e composizione del Consiglio superiore della pubblica istruzione
 
 Il Consiglio superiore della pubblica istruzione e' organo di garanzia dell'unitarieta' del sistema nazionale dell'istruzione e di supporto tecnicoscientifico per l'esercizio delle funzioni di Governo nelle materie di cui all'articolo 1, comma 3, lettera q), della legge 15 marzo 1997, n. 59.
 
+2.
+                    
+                        
+                            Il Consiglio formula proposte ed esprime pareri obbligatori: 
+ 
+                        
+                        
+                            a)
+                            
+                                sugli indirizzi in materia di definizione delle politiche del personale della scuola; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sulle direttive del Ministro della pubblica istruzione, di seguito denominato "Ministro" in materia di valutazione del sistema dell'istruzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sugli obiettivi, indirizzi e standard del sistema di istruzione definiti a livello nazionale nonche' sulla quota nazionale dei curricoli dei diversi tipi e indirizzi di studio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sull'organizzazione generale dell'istruzione.
+
 Il consiglio si pronuncia inoltre sulle materie che il Ministro ritenga di sottoporgli.
 
 Il Consiglio esprime, anche di propria iniziativa, pareri facoltativi su proposte di legge e in genere in materia legislativa e normativa attinente all'istruzione e promuove indagini conoscitive sullo stato di settori specifici dell'istruzione, i cui risultati formano oggetto di relazioni al Ministro.
+
+5.
+                    
+                        
+                            Il Consiglio superiore della pubblica istruzione e' formato da trentanove componenti. Di tali componenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                quindici sono eletti dalla componente elettiva che rappresenta il personale delle scuole statali nei consigli scolastici locali; e' garantita la rappresentanza di almeno una unita' di personale per ciascun grado di istruzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quindici sono nominati dal Ministro tra esponenti significativi del mondo della cultura, dell'arte, della scuola, dell'universita', del lavoro, delle professioni e dell'industria, dell'associazionismo professionale, che assicurino il piu' ampio pluralismo culturale; di questi, tre sono esperti designati dalla Conferenza unificata Statoregioni citta' e autonomie locali e tre sono esperti designati dal CNEL; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tre sono eletti rispettivamente uno dalle scuole di lingua tedesca, uno dalle scuole di lingua slovena ed uno dalle scuole della Valle d'Aosta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tre sono nominati dal Ministro in rappresentanza delle scuole pareggiate, parificate e legalmente riconosciute e delle scuole dipendenti dagli enti locali, tra quelli designati dalle rispettive associazioni; 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                tre ((, di cui uno in rappresentanza delle associazioni attive nell'ambito delle tematiche riguardanti la condizione di disabilita',)) sono nominati dal Ministro ((tra quelli proposti dal)) Forum nazionale delle associazioni dei genitori, di cui all'articolo 5-ter, comma 1, del regolamento di cui al decreto del Presidente della Repubblica 10 ottobre 1996, n. 567.
 
 Il Consiglio superiore e' integrato da un rappresentante della provincia di Bolzano, a norma dell'articolo 9 del testo unificato dei decreti del Presidente della Repubblica 20 giugno 1973, n. 116, e 4 dicembre 1981, n. 761, approvato con decreto del Presidente della Repubblica 10 febbraio 1983, n. 89, o, rispettivamente, da un rappresentante della provincia di Trento, a norma dell'articolo 7 del decreto del Presidente della Repubblica 15 luglio 1988, n. 405, come modificato dal decreto legislativo 24 luglio 1996, n. 433, quando e' chiamato ad esprimere il parere sui progetti delle due province concernenti la modifica degli ordinamenti scolastici nelle materie di cui all'articolo 2, comma 2, lettera c).
 

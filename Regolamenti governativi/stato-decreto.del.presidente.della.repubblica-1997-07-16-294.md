@@ -8,8 +8,8 @@ codice_redazionale: 097G0326
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,7 +33,83 @@ La Direzione dei corsi speciali di insegnamento, istituiti ai sensi dell'articol
 
 ## Art. 2. — Compiti della Scuola
 
+1.
+                    
+                        
+                            La Scuola forma e aggiorna nel restauro dei beni culturali mediante corsi a carattere teorico - pratico.
+ I corsi sono finalizzati all'insegnamento:
+ 
+                        
+                        
+                            a)
+                            
+                                dei principi e delle cause dei processi di deterioramento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della caratterizzazione dei materiali costitutivi, naturali ed artificiali, dei manufatti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle metodologie di indagine diagnostica, di intervento, di controllo e di documentazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dei valori materici, storici e formali da rispettare negli interventi.
+
+2.
+                    
+                        
+                            E' restauratore dei beni culturali un operatore professionalmente qualificato capace di una:
+ 
+                        
+                        
+                            a)
+                            
+                                analisi e interpretazione dei dati obiettivi sullo stato di conservazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                abilita' manuale di intervento, coerente con gli insegnamenti impartiti, adeguata ad una valutazione critica degli effetti dell'intervento stesso.
+
 ## Art. 3. — Organi della Scuola
+
+1.
+                    
+                        
+                            Sono organi della Scuola:
+ 
+                        
+                        
+                            a)
+                            
+                                il soprintendente dell'Opificio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il direttore della Scuola;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio didattico.
 
 ## Art. 4. — Soprintendente dell'Opificio e direttore della Scuola
 
@@ -48,6 +124,31 @@ Il direttore della Scuola, per lo svolgimento dei propri compiti, si avvale di u
 ## Art. 5. — Consiglio didattico
 
 Il consiglio didattico e' presieduto dal soprintendente dell'Opificio ed e' composto dal direttore della Scuola e da tutti i docenti. Si articola in sezioni composte dai docenti dei singoli anni di corso.
+
+2.
+                    
+                        
+                            Il consiglio didattico:
+ 
+                        
+                        
+                            a)
+                            
+                                individua annualmente i settori ed il numero dei posti da mettere a concorso e formula proposte sulla designazione dei membri delle commissioni d'esame di cui agli articoli 10 e 14 del presente regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esprime pareri e formula proposte sui programmi, piani di studio e le modalita' di svolgimento dei corsi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera in materia disciplinare nei riguardi degli studenti.
 
 Il consiglio didattico si riunisce, di norma, ogni sei mesi nonche', in caso di motivata necessita' o urgenza, su richiesta del soprintendente dell'Opificio, del direttore della Scuola o di almeno un quinto dei componenti.
 
@@ -76,6 +177,38 @@ Le materie di insegnamento e il numero delle ore sono determinati nell'allegato 
 
 Alla Scuola si accede mediante concorso pubblico per esami, indetto dal Ministero per i beni culturali e ambientali, di norma entro il mese di aprile di ogni anno. Il bando e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
+2.
+                    
+                        
+                            I requisiti per l'ammissione al concorso sono:
+ 
+                        
+                        
+                            a)
+                            
+                                eta' non inferiore ai 18 e non superiore ai 30 anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di istruzione secondaria superiore;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cittadinanza italiana o comunitaria. Sono ammessi, alle stesse condizioni, anche cittadini di altri Stati, purche' in possesso dei requisiti e del titolo di studio equiparato a quello richiesto per i cittadini italiani;
+
+                            
+                        
+                        
+                            d)
+                            
+                                idoneita' fisica alle attivita' che il settore di studi prescelto comporta.
+
 Le pratiche per l'ammissione al concorso dei cittadini non comunitari devono essere svolte tramite le rappresentanze diplomatiche o consolari italiane che hanno sede nel Paese di residenza del candidato.
 
 I requisiti devono essere posseduti dal candidato alla data di scadenza dei termini di presentazione della domanda. I vincitori dovranno certificarne il possesso prima dell'inizio dei corsi.
@@ -103,6 +236,38 @@ I settori possono essere ampliati, modificati o aggregati per aree su proposta d
 
 La commissione giudicatrice e' nominata con decreto del Ministro per i beni culturali e ambientali.
 
+2.
+                    
+                        
+                            La commissione e' cosi' composta:
+ 
+                        
+                        
+                            a)
+                            
+                                dal soprintendente dell'Opificio con funzione di presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal direttore della Scuola;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da due funzionari tecnico - scientifici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                da almeno un restauratore per ogni settore messo a concorso.
+
 Per la prova attitudinale di cui all'articolo 11, comma 2, la commissione e' integrata da un membro aggiunto scelto fra i docenti di disegno della Scuola o designato tra quelli in servizio presso il Ministero per i beni culturali e ambientali.
 
 I componenti di cui alle lettere c) e d) del comma 2 non possono fare parte della commissione per due anni consecutivi, salvo il caso di comprovata necessita'.
@@ -112,6 +277,31 @@ Svolge le funzioni di segretario un funzionario amministrativo del Ministero per
 La commissione delibera a maggioranza dei componenti. In caso di parita' di voti, prevale quello del presidente.
 
 ## Art. 11. — Prove per l'ammissione ai corsi
+
+1.
+                    
+                        
+                            L'esame di ammissione consta delle seguenti prove:
+ 
+                        
+                        
+                            a)
+                            
+                                attitudinale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pratica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                orale.
 
 Nella prova attitudinale i candidati devono dimostrare la propria capacita' manuale di rappresentazione grafica di un manufatto di interesse storico - artistico.
 
@@ -172,6 +362,84 @@ Il diploma di restauratore dei beni culturali, rilasciato dall'Opificio, costitu
 Nel conferimento degli incarichi di cui agli articoli 5, 10 e 14 del presente regolamento trovano applicazione le disposizioni di cui all'articolo 10 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni.
 
 ## Art. 16. — Doveri dello studente e sanzioni disciplinari
+
+1.
+                    
+                        
+                            Lo studente deve in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                partecipare con diligenza alle attivita' didattiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                rispettare l'orario dei corsi e non assentarsi senza autorizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                durante l'orario dei corsi mantenere nei rapporti interpersonali una condotta corretta;
+
+                            
+                        
+                        
+                            d)
+                            
+                                avere cura dei locali, mobili, oggetti, macchinari, attrezzi e strumenti a lui affidati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                non valersi di quanto e' di proprieta' dell'Istituto per fini personali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                in caso di malattia dare tempestiva comunicazione alla Scuola, salvo comprovato impedimento.
+
+2.
+                    
+                        
+                            Le violazioni da parte degli studenti dei doveri di cui al comma 1 danno luogo, secondo la gravita' dell'infrazione, all'applicazione delle seguenti sanzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                ammonizione verbale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sospensione dal corso sino ad un massimo di dieci giorni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                interdizione temporanea dal corso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                espulsione dalla Scuola.
 
 Le sanzioni disciplinari di cui alle lettere a), b), c) e d) del comma 2 sono applicate secondo la gravita' dell'infrazione e, con esclusione dell'ammonizione, previa contestazione scritta e sentito lo studente.
 

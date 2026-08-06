@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-12-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -83,6 +83,24 @@ Resta fermo il diritto ad astenersi dalle attivita' lavorative in occasione di r
 
 ((
 
+1.
+                    
+                        
+                            Su base volontaria ed a titolo gratuito, i funzionari prefettizi possono cedere, in tutto o in parte, ad altra unita' di personale che abbia esigenza di prestare assistenza a figli minori che necessitino di cure costanti, per particolari condizioni di salute: 
+ 
+                        
+                        
+                            a)
+                            
+                                le giornate di ferie, nella propria disponibilita', eccedenti le quattro settimane annuali di cui il lavoratore deve necessariamente fruire; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le quattro giornate di riposo per le festivita' soppresse di cui all'articolo 5, comma 2.
+
 Il funzionario che si trovi nelle condizioni di necessita' considerate nel comma 1 puo' presentare specifica richiesta all'Amministrazione, reiterabile, di utilizzo di ferie e giornate di riposo per una misura massima di trenta giorni per ciascuna domanda, previa presentazione di adeguata certificazione, comprovante lo stato di necessita' delle cure in questione, rilasciata esclusivamente da idonea struttura sanitaria pubblica o convenzionata.
 
 Ricevuta la richiesta, l'Amministrazione rende tempestivamente nota a tutti i funzionari l'esigenza, garantendo l'anonimato del richiedente.
@@ -118,6 +136,31 @@ Superati i periodi di conservazione del posto di cui ai commi 1 e 2, o nel caso 
 I periodi di assenza di cui al comma 1, limitatamente ai primi 18 mesi, non interrompono la maturazione dell'anzianita' di servizio a tutti gli effetti.
 
 Sono fatte salve le vigenti norme di legge poste a tutela dei malati di TBC. In caso di donazione di organi, ivi compresa la donazione di midollo osseo, ovvero in caso di patologie gravi che richiedono terapie salvavita ed altre assimilabili, oppure terapie temporaneamente e/o parzialmente invalidanti, sono esclusi dal computo dei giorni di assenza per malattia i relativi giorni di ricovero ospedaliero o di day-hospital o day surgery, ed i giorni di assenza dovuti alle citate terapie. Rientrano nella medesima disciplina anche i giorni di assenza dovuti agli effetti collaterali delle citate terapie, comportanti incapacita' lavorativa per un periodo massimo di quattro mesi per ciascun anno solare. In tali giornate il funzionario della carriera prefettizia ha diritto, in ogni caso, alla retribuzione di cui al comma 7, lettera a). La certificazione relativa sia alla gravita' della patologia che al carattere invalidante della necessaria terapia e' rilasciata dalla struttura sanitaria pubblica, privata o convenzionata che ha effettuato la diagnosi o presso la quale e' stata effettuata la terapia.
+
+7.
+                    
+                        
+                            Ferme le disposizioni contenute nell'articolo 71, comma 1, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, il trattamento economico spettante al funzionario della carriera prefettizia nel periodo di conservazione del posto di cui al comma 1, e' il seguente: 
+ 
+                        
+                        
+                            a)
+                            
+                                retribuzione costituita dalla componente stipendiale di base e dalla retribuzione di posizione, parte fissa e parte variabile, per i primi 9 mesi di assenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                90 per cento della retribuzione di cui alla lettera a) per i successivi 3 mesi di assenza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                50 per cento della retribuzione di cui alla lettera a) per gli ulteriori 6 mesi di assenza.
 
 La retribuzione di cui al comma 7, lettera a), e' integralmente dovuta al funzionario in ogni caso di: ricovero ospedaliero, day hospital, day surgery, ricovero domiciliare certificato dalla Asl o da struttura sanitaria competente, purche' sostitutivo del ricovero ospedaliero, pre-ospedalizzazione e pre-ricovero e per il successivo periodo di convalescenza post ricovero.
 
@@ -198,6 +241,39 @@ Fino al compimento del terzo anno di eta' dei figli, il funzionario della carrie
 
 ## Art. 9. — Permessi per esigenze personali
 
+1.
+                    
+                        
+                            Il funzionario della carriera prefettizia ha diritto di assentarsi nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                partecipazione a concorsi od esami, limitatamente ai giorni di svolgimento delle prove ed al tempo strettamente necessario per il raggiungimento delle relative sedi di svolgimento delle stesse ovvero, previa intesa con il responsabile della struttura di appartenenza, a congressi, convegni, seminari e corsi di aggiornamento professionale facoltativo entro il limite complessivo di giorni otto per ciascun anno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                decesso o documentata grave infermita' del coniuge anche legalmente separato ((, dell'unito civilmente)) o del convivente stabile o di un parente entro il secondo grado, anche non convivente, o di un affine di primo grado o di un soggetto componente la famiglia anagrafica del funzionario, in ragione di tre giorni lavorativi all'anno, anche frazionati, per evento. Tali giorni devono essere utilizzati entro sette giorni dal decesso o dall'accertamento della insorgenza della grave infermita' o della necessita' di provvedere a conseguenti specifici interventi terapeutici. Nel caso di grave infermita' dei soggetti di cui al presente comma il funzionario della carriera prefettizia, entro sette giorni dall'evento predetto, puo' concordare con il responsabile della struttura, in alternativa ai giorni di permesso, diverse modalita' di espletamento della attivita' lavorativa, anche per periodi superiori a tre giorni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in occasione del matrimonio ((o dell'unione civile)) per quindici giorni consecutivi da fruire entro 45 giorni dall'evento. ((Il dipendente puo' fruirne anche in un momento successivo, compatibilmente con le esigenze organizzative dell'ufficio di appartenenza e comunque entro sei mesi dall'evento;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((...)) motivi personali entro il limite complessivo di tre giorni per ciascun anno.
+
 Le assenze di cui al comma 1 possono cumularsi nell'anno solare, sono valutate agli effetti dell'anzianita' di servizio e non riducono il periodo di ferie disciplinato dall'articolo 5 del presente decreto.
 
 I predetti periodi di assenza non producono effetti sul trattamento economico del funzionario della carriera prefettizia.
@@ -226,6 +302,24 @@ Per la concessione dei congedi di cui al comma 1, i funzionari interessati devon
 
 Le domande vengono accolte secondo l'ordine progressivo di presentazione, nei limiti di cui al comma 2 e secondo la disciplina dei commi 5 e 6.
 
+5.
+                    
+                        
+                            L'amministrazione puo' non accogliere la richiesta di congedo formativo di cui al comma 1 quando ricorrono le seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il periodo previsto di assenza superi la durata di 11 mesi consecutivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non sia oggettivamente possibile assicurare la regolarita' e la funzionalita' dei servizi.
+
 Al fine di contemperare le esigenze organizzative degli uffici con l'interesse formativo del funzionario, l'amministrazione puo' differire la fruizione del congedo fino ad un massimo di sei mesi qualora la concessione dello stesso possa determinare un grave pregiudizio alla funzionalita' del servizio, non risolvibile durante la fase di preavviso di cui al comma 3.
 
 Al funzionario della carriera prefettizia durante il periodo di congedo si applica l'articolo 5, comma 3, della legge n. 53 del 2000.
@@ -248,6 +342,73 @@ Reperibilita'
 In relazione alla necessita' di garantire la salvaguardia delle esigenze connesse alla tutela dell'ordine e della sicurezza pubblica, del sistema della protezione civile e della difesa civile e degli altri diritti civili e politici costituzionalmente garantiti, il funzionario della carriera prefettizia assicura la reperibilita' durante le ore eccedenti l'orario di servizio nell'ambito dei principi e dei criteri indicati nel presente articolo. Cio' nei casi in cui sia richiesto un intervento urgente ovvero in presenza di necessita' operative non preventivamente programmabili con il ricorso alle ordinarie prestazioni di lavoro, laddove sussista la necessita' di attivarsi prontamente al fine di garantire la salvaguardia delle esigenze indicate nel presente comma.
 
 La fissazione dell'orario per l'effettuazione dei turni di reperibilita' e l'individuazione delle modalita' applicative per lo svolgimento del servizio tengono conto delle concrete esigenze di ciascuna struttura e sono rimesse alla negoziazione in sede decentrata. In mancanza di tali accordi, ovvero laddove non espressamente previsto, il turno di reperibilita' si svolge nei giorni infrasettimanali lavorativi dalle ore 20:00 alle ore 08:00 del giorno successivo e nei giorni festivi ed in quelli non lavorativi per l'intera giornata.
+
+2.
+                    
+                        
+                            Gli uffici nei quali deve essere assicurata la reperibilita' sono individuati come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                Prefetture - Uffici territoriali del Governo, per le esigenze di cui al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Uffici di diretta collaborazione con il Ministro individuati nel decreto del Presidente della Repubblica 21 marzo 2002, n. 98, per le esigenze di: 
+ 1) Ufficio di Gabinetto; 
+ 2) Segreteria speciale; 
+ 3) Ufficio Relazioni con la stampa e comunicazione istituzionale; 
+ 4) Ufficio Affari legislativi e Relazioni parlamentari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Dipartimento per gli Affari interni e territoriali, per le esigenze di: 1) Ufficio I: Gabinetto del Capo Dipartimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Dipartimento della Pubblica sicurezza, per le esigenze di: 
+ 1) Segreteria del Dipartimento - Ufficio I: Ufficio analisi, coordinamento e documentazione; 
+ 2) Segreteria del Dipartimento - Ufficio II: Ufficio Affari generali e personale; 
+ 3) Direzione centrale della Polizia criminale - Ufficio II:
+Ufficio affari giuridici e del contenzioso; 
+ 4) Direzione centrale dell'Immigrazione e della Polizia di frontiera; 
+ 5) Direzione centrale per la Polizia stradale, ferroviaria, delle comunicazioni e per i reparti speciali della Polizia di Stato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Dipartimento per le Liberta' civili e l'immigrazione, per le esigenze di: 
+ 1) Ufficio I: Gabinetto del Capo Dipartimento; 
+ 2) Direzione centrale per i Servizi civili, per l'immigrazione e asilo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Dipartimento dei Vigili del fuoco, del Soccorso pubblico e della Difesa civile, per le esigenze di: 
+ 1) Ufficio I: Gabinetto del Capo Dipartimento; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Dipartimento per l'Amministrazione Generale, per le Politiche del personale dell'amministrazione civile e per le Risorse strumentali e finanziarie, per le esigenze di: 
+ 1) Ufficio I: Gabinetto del Capo Dipartimento.
 
 Salvo che nelle situazioni di emergenza, ciascun servizio di reperibilita' e' assicurato da un funzionario della carriera prefettizia attraverso la rotazione di tutti i funzionari in servizio presso i Dipartimenti e gli Uffici di cui al comma 2. ,garantendo l'alternanza degli stessi con riferimento ai giorni festivi ed a quelli non lavorativi ((Allo scopo di garantire le esigenze di riposo fisiologico e la sostenibilita' del servizio, la reperibilita' e' organizzata prevedendo la massima rotazione possibile, tenuto conto del personale in servizio e delle esigenze della sede.)) I titolari degli uffici provvedono, avvalendosi di funzionari appositamente designati, all'addestramento di tutto il personale interessato.
 
@@ -356,9 +517,120 @@ I dirigenti sindacali, nell'esercizio delle loro funzioni, non sono soggetti ai 
 
 Gli accordi decentrati sono stipulati ai sensi dell'articolo 29, comma 6, del decreto legislativo 19 maggio 2000, n. 139, a livello centrale e periferico.
 
+2.
+                    
+                        
+                            L'accordo decentrato, da stipularsi a livello centrale, senza comportare alcun onere aggiuntivo, riguarda: 
+ 
+                        
+                        
+                            a)
+                            
+                                individuazione di misure idonee a favorire la mobilita' di sede aggiuntive rispetto a quelle previste per i funzionari non assegnatari di alloggi da parte dell'amministrazione dell'interno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attuazione delle previsioni contenute nell'articolo 12, comma 5, in materia di reperibilita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                criteri generali per l'utilizzo delle somme afferenti al fondo di cui all'articolo 20 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, ferme restando le modificazioni previste dall'articolo 15 del decreto del Presidente della Repubblica 1° agosto 2003, n. 252, dall'articolo 5 del decreto del Presidente della Repubblica 28 novembre 2005, n. 293, e dall'articolo 2 del decreto del Presidente della Repubblica 3 aprile 2006, n. 179, nonche' criteri generali per la verifica della sussistenza delle risorse finanziarie da destinare all'ulteriore potenziamento dello stesso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                individuazione delle funzioni i cui titolari sono esonerati dallo sciopero, ai sensi della legge 12 giugno 1990, n. 146, e successive modifiche ed integrazioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                definizione della misura del trattamento accessorio, nell'ambito delle risorse finanziarie disponibili e senza oneri aggiuntivi, entro valori annui lordi per tredici mensilita' ricompresi negli importi minimi e massimi indicati rispettivamente all'articolo 23, comma 2, e all'articolo 24, comma 1, nei casi di variazione del decreto del Ministro dell'interno con il quale sono determinate le posizioni funzionali dei funzionari della carriera prefettizia; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                definizione della misura del trattamento accessorio, nell'ambito delle risorse finanziarie disponibili e senza oneri aggiuntivi, entro valori ricompresi negli importi minimi e massimi indicati rispettivamente all'articolo 23, comma 2, e all'articolo 24, comma 1, nelle fattispecie previste dall'articolo 23, comma 9; 
+
+                            
+                        
+                        
+                            f-bis)
+                            
+                                
+                                    ((definizione dei criteri per l'attribuzione degli incentivi per lo svolgimento di funzioni tecniche previste dall'articolo 45 del decreto legislativo 31 marzo 2023, n. 36 e successive modifiche e integrazioni)).
+
+3.
+                    
+                        
+                            Accordi decentrati, da stipularsi a livello di uffici centrali e periferici, senza comportare alcun onere aggiuntivo, riguardano: 
+ 
+                        
+                        
+                            a)
+                            
+                                verifica dell'applicazione dei criteri di valutazione ai fini dell'attribuzione della retribuzione di risultato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attuazione delle previsioni contenute nell'articolo 12, comma 6, in materia di reperibilita'.
+
 L'individuazione dei titolari degli uffici centrali e periferici componenti la delegazione di parte pubblica e' effettuata dall'Amministrazione dell'interno entro novanta giorni dalla data di entrata in vigore del presente decreto. L'Amministrazione dell'interno convoca le organizzazioni sindacali firmatarie dell'accordo di cui all'articolo 29, comma 1, del decreto legislativo 19 maggio 2000, n. 139, entro trenta giorni decorrenti dalla data di presentazione della richiesta.
 
 ## Art. 19. — Copertura assicurativa
+
+1.
+                    
+                        
+                            Ai fini della copertura assicurativa, di cui all'articolo 22, comma 3, del decreto legislativo 19 maggio 2000, n. 139, sono individuati i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                totale copertura a garanzia della responsabilita' civile, inerente le attivita' connesse a compiti istituzionali, derivante ai funzionari della carriera prefettizia per le perdite patrimoniali e/o danni involontariamente cagionati a terzi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                estensione della copertura anche alle ulteriori attivita' che possono essere svolte dai predetti funzionari connesse ad incarichi direttamente o indirettamente riferibili a compiti e doveri d'ufficio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                copertura degli oneri di patrocinio legale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                retroattivita' e ultrattivita' della copertura assicurativa; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                previsione della possibilita' per il dirigente di aumentare i massimali e «area dei rischi» coperta con il versamento di una quota individuale aggiuntiva.
 
 L'Amministrazione assume le iniziative necessarie per la copertura assicurativa della responsabilita' civile del funzionario della carriera prefettizia, ivi compreso il patrocinio legale, salvo le ipotesi di dolo e colpa grave. A tal fine, sono utilizzate le risorse finanziarie destinate a tale finalita', sulla base di quanto previsto dalle disposizioni di legge ((, facendo ricorso anche alle risorse annuali del fondo per la retribuzione di posizione e la retribuzione di risultato di cui all'articolo 22)).
 
@@ -369,6 +641,38 @@ Nel caso in cui l'Amministrazione non abbia sottoscritto la polizza assicurativa
 Resta fermo quanto previsto dall'articolo 18 del decreto-legge 25 marzo 1997, n. 67, convertito, con modificazioni, dalla legge 23 maggio 1997, n. 135.
 
 ## Art. 20. — Struttura del trattamento economico
+
+1.
+                    
+                        
+                            La struttura del trattamento economico onnicomprensivo dei funzionari appartenenti alla carriera prefettizia e' articolata nelle seguenti componenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                stipendio tabellare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                retribuzione individuale di anzianita' come risultante dall'articolo 19 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, nonche' quella gia' in godimento alla data del 16 giugno 2000 per i funzionari della carriera prefettizia di cui all'articolo 34, comma 1, lettera c), del decreto legislativo 19 maggio 2000, n. 139; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                retribuzione di posizione, parte fissa e parte variabile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                retribuzione di risultato, in relazione ai risultati conseguiti.
 
 Al personale nominato o inquadrato alla qualifica di prefetto proveniente dai ruoli dirigenziali della Polizia di Stato, al fine di assicurare omogeneita' di indirizzo, e' riconosciuta la retribuzione individuale di anzianita' con le modalita' di cui all'articolo 19 del decreto del Presidente della Repubblica 23 maggio 2001, n. 316, riferita alla progressione economica per classi e scatti biennali e relativi ratei maturati alla data del 16 giugno 2000.
 
@@ -399,7 +703,97 @@ Al personale nominato o inquadrato alla qualifica di prefetto proveniente dai ru
 
 ## Art. 23. — (( (Retribuzione di posizione). ))
 
+1.
+                    
+                        
+                            
+                                ((La retribuzione di posizione - parte fissa e' stabilita nei seguenti importi annui lordi per tredici mensilita' a decorrere dal 1° gennaio 2022:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((posizioni funzionali della qualifica di prefetto: €24.789,00;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((posizioni funzionali della qualifica di viceprefetto: €14.121,00;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((posizioni funzionali della qualifica di viceprefetto aggiunto: €7.399,00.))
 
+2.
+                    
+                        
+                            
+                                ((A decorrere dal 1° gennaio 2024 la retribuzione di posizione, correlata alle posizioni funzionali individuate con il decreto del Ministro dell'interno in data 27 marzo 2006 e successive modifiche ed integrazioni, e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita':))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((posizione funzionale di cui all'articolo 3, lettera a): €63.960,64;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((posizione funzionale di cui all'articolo 3, lettera b): €53.562,09;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((posizione funzionale di cui all'articolo 3, lettera c): €44.530,20;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((posizione funzionale di cui all'articolo 3, lettera d): €35.349,04;))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((posizione funzionale di cui all'articolo 3, lettera e): €29.155,88;))
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    ((posizione funzionale di cui all'articolo 3, lettera f): €23.333,83;))
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    ((posizione funzionale di cui all'articolo 3, lettera g): €17.852,87.))
+
+((A decorrere dal 31 dicembre 2024 a valere dal 1° gennaio 2025 la retribuzione di posizione correlata alla posizione funzionale di cui alla lettera g) del comma 2 e' rideterminata in €20.087,86 annui lordi per tredici mensilita'.))
 
 ((Per i funzionari che ricoprono incarichi di particolare rilevanza previsti dall'articolo 20, comma 2, del decreto legislativo 19 maggio 2000, n. 139, individuati nell'articolo 4 del decreto del Ministro dell'interno in data 27 marzo 2006 e successive modifiche e integrazioni e nell'articolo 5 del decreto del Ministro dell'interno in data 26 gennaio 2021, la retribuzione di posizione e' rideterminata, nelle componenti parte fissa e parte variabile, nei seguenti importi annui lordi per tredici mensilita': 
  a decorrere dal 1° gennaio 2024: incarichi ricompresi nella posizione funzionale a): €76.289,02; 
@@ -421,6 +815,31 @@ Qualora i predetti emolumenti vengano corrisposti in misura inferiore agli impor
 ((Al funzionario prefettizio, per l'espletamento degli incarichi individuati dai decreti del Ministro dell'interno in data 27 marzo 2006 e in data 26 gennaio 2021 e successive modificazioni, compete comunque un unico trattamento economico accessorio. Nei casi previsti dall'articolo 10, comma 1, del decreto legislativo 19 maggio 2000, n. 139, ovvero nei casi di provvisoria sostituzione del titolare in caso di assenza o impedimento, in tal caso per periodi non inferiori a tre mesi, e nei casi di temporanea attribuzione di un incarico ulteriore o diverso qualora il posto di funzione risulti vacante, le maggiori attivita' prestate dal funzionario prefettizio sono retribuite a valere sulle risorse disponibili del Fondo per la retribuzione di posizione e la retribuzione di risultato con l'attribuzione di una maggiorazione della retribuzione di risultato in una misura ricompresa tra il 15% e il 30% del valore economico della retribuzione di posizione prevista per l'incarico conferito in sostituzione o temporanea attribuzione, da definirsi in sede di accordi decentrati a livello centrale nell'ambito delle disponibilita' del fondo e senza oneri aggiuntivi, tenendo conto, tra l'altro, dei seguenti elementi: sede degli incarichi ricoperti, livello di responsabilita' attribuito e grado di conseguimento degli obiettivi.))
 
 ## Art. 24. — Retribuzione di risultato
+
+1.
+                    
+                        
+                            Il Ministro dell'interno, con proprio decreto, all'inizio di ogni anno determina gli importi spettanti come retribuzione di risultato da erogare, anche pro-quota tramite acconti, nell'ambito delle risorse di competenza dell'anno precedente con verifica conclusiva del raggiungimento degli obiettivi e salvo recupero a consuntivo in caso di mancato o parziale raggiungimento degli obiettivi. Ai funzionari prefettizi, ivi compresi quelli in servizio presso il Commissariato dello Stato della Regione siciliana, il Rappresentante dello Stato nella Regione Sardegna ed il Commissariato del Governo per la Regione Friuli-Venezia Giulia, per il triennio ((2022-2024)), la retribuzione di risultato viene determinata nel rispetto dei seguenti parametri: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i prefetti: fino a un massimo di 100; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i viceprefetti: fino a un massimo di 75; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i viceprefetti aggiunti: fino a un massimo di 50.
 
 La misura della retribuzione di risultato verra' definita in sede di accordi decentrati a livello centrale, tenuto conto del sistema di valutazione di cui all'articolo 21 del decreto legislativo 19 maggio 2000, n. 139, e, in caso di modifica del decreto del Ministro dell'interno in data 27 marzo 2006, e successive modificazioni, e in data 26 gennaio 2021 entro valori annui lordi per tredici mensilita' ricompresi negli importi minimo e massimo indicati nel decreto di cui al comma 1 del presente articolo, nell'ambito delle disponibilita' del fondo e senza oneri aggiuntivi.
 
@@ -447,6 +866,31 @@ Agli effetti dell'indennita' di fine rapporto, nonche' di quella prevista dall'a
 Al personale di cui all'articolo 1 continuano ad applicarsi, ove non in contrasto con il presente decreto, le norme stabilite dai precedenti decreti di recepimento degli accordi.
 
 ## Art. 28. — Copertura finanziaria
+
+1.
+                    
+                        
+                            All'onere derivante dall'attuazione del presente decreto, pari ad € 7.428.205 per l'anno 2018 e ad € 5.244.568 annui a decorrere dall'anno 2019, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a € 1.084.838 per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208, che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a € 1.098.799 per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 365, punto a), della legge 11 dicembre 2016, n. 232, che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a complessivi € 5.244.568 annui a decorrere dall'anno 2018 mediante riduzione, per € 542.419, dell'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208, per € 1.641.218, dell'autorizzazione di spesa di cui all'articolo 1, comma 365, lettera a), della legge 11 dicembre 2016, n. 232 e, per € 3.060.931, dell'autorizzazione di spesa di cui all'articolo 1, comma 679, della legge 27 dicembre 2017, n. 205.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2019-12-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,26 @@ Sono istituite per la regione siciliana, con sede in Palermo, una sezione di con
 2. La composizione e la competenza delle sezioni sono determinate dalle disposizioni della legge statale in materia))
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            La sezione di controllo, ferme restando le leggi dello Stato che disciplinano le funzioni della Corte dei conti e per quanto non diversamente disposto dal presente articolo: 
+ 
+                        
+                        
+                            a)
+                            
+                                esercita il controllo di legittimita': 
+ 1) sui regolamenti, emanati dal governo regionale, di cui agli articoli 12, terzo comma, e 13 dello statuto; 
+ ((2) sugli atti normativi a rilevanza esterna, sugli atti di programmazione comportanti spese e sugli atti generali attuativi di norme comunitarie.))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                verifica altresi' il rendiconto generale della regione.
 
 La sezione predetta e' delegata ad esercitare il controllo di legittimita' sugli atti che vengono emanati da organi dello Stato aventi sede nella regione, e che sono soggetti, secondo le norme vigenti, al controllo della Corte dei conti.
 

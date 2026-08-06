@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-08-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,6 +37,52 @@ Il presente regolamento detta disposizioni concernenti i criteri generali per l'
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «assistente bagnanti»: persona addetta al servizio di salvataggio e primo soccorso titolare di brevetto di salvamento mare, di brevetto di salvamento acque interne o di brevetto di salvamento piscine; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «ente formatore»: soggetto, avente personalita' giuridica, in possesso di autorizzazione rilasciata dal Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera per lo svolgimento di attivita' di addestramento e formazione per il conseguimento dei brevetti di salvamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Autorita' marittima»: la Direzione marittima territorialmente competente ai sensi del decreto del Presidente della Repubblica 18 aprile 2000, n. 135; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «brevetto di salvamento mare»: abilitazione all'esercizio dell'attivita' di assistente bagnanti in acque marittime, acque interne e piscine; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «brevetto di salvamento acque interne»: abilitazione all'esercizio dell'attivita' di assistente bagnanti in acque interne e piscine; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «brevetto di salvamento piscine»: abilitazione all'esercizio dell'attivita' di assistente bagnanti nelle piscine.
+
 ## Art. 3. — Addestramento e formazione
 
 L'attivita' di addestramento e formazione per il conseguimento dei brevetti di salvamento di cui all'articolo 2, comma 1, lettere d), e) e f) e' riservata agli enti formatori autorizzati ai sensi dell'articolo 5.
@@ -44,7 +90,122 @@ L'attivita' di addestramento e formazione per il conseguimento dei brevetti di s
 ## Art. 4. — Requisiti degli enti formatori 
  e delle singole articolazioni o affiliazioni locali
 
+1.
+                    
+                        
+                            L'autorizzazione all'attivita' di addestramento e formazione e' rilasciata secondo le modalita' di cui all'articolo 5 all'ente formatore richiedente in possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                avere personalita' giuridica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prevedere nello statuto o nell'atto costitutivo l'esercizio dell'attivita' di primo soccorso, dell'attivita' motoria in ambiente acquatico e dell'attivita' di addestramento e formazione per il conseguimento dei brevetti di assistente bagnanti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non avere scopo di lucro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                avere presenza diffusa nel territorio nazionale e operare con almeno ventisei articolazioni o affiliazioni locali stabilmente presenti sul territorio di almeno tredici regioni in cui poter svolgere l'attivita' di addestramento e formazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                possedere esperienza nell'attivita' di primo soccorso e nell'attivita' motoria nell'ambiente acquatico documentata, oltre che con l'atto costitutivo o lo statuto, con il certificato analitico di iscrizione nel registro delle persone giuridiche di cui al decreto del Presidente della Repubblica 10 febbraio 2000, n. 361 ovvero con il certificato di iscrizione nel Registro unico nazionale del Terzo settore di cui all'articolo 22 del decreto legislativo 3 luglio 2017, n. 117, nonche' con eventuale ulteriore documentazione integrativa ritenuta necessaria dal Comando generale del corpo delle Capitanerie di porto - Guardia Costiera dai quali risultino le predette attivita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                non essere stato destinatario, nell'ultimo quinquennio, di un provvedimento di decadenza dell'autorizzazione per l'esercizio dell'attivita' di addestramento e formazione per assistente bagnanti di cui all'articolo 9; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                avere adeguata capacita' finanziaria, stabilita in misura non inferiore a euro 250.000, dimostrata da un'attestazione rilasciata da un revisore legale, iscritto nel registro dei revisori legali di cui al decreto legislativo 27 gennaio 2010, n. 39, o, in alternativa, da un'attestazione di affidamento rilasciata da aziende o istituti di credito ovvero societa' finanziarie ai sensi dell'articolo 106 del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                avere stipulato, per l'intero periodo di durata dell'autorizzazione, una polizza assicurativa per i danni derivanti dalla responsabilita' civile dei docenti e dei partecipanti al corso con massimali pari ad almeno euro 500.000 e una polizza infortuni per i medesimi soggetti con massimali pari ad almeno euro 100.000 in caso di morte e invalidita' permanente; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                avere un archivio informatico idoneo a contenere, su base nazionale, le informazioni relative ai brevetti di salvamento rilasciati dall'ente formatore, ai corsi e alle sessioni di esami; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il legale rappresentante dell'ente richiedente e i responsabili delle singole articolazioni o affiliazioni locali di cui alla lettera d) devono trovarsi in una delle seguenti condizioni: 
+ 1) non essere stato dichiarato delinquente abituale, professionale o per tendenza, non essere stato sottoposto a misure di sicurezza personali o alle misure di prevenzione, non essere stato condannato ad una pena detentiva non inferiore a tre anni, salvo che non siano intervenuti provvedimenti di riabilitazione; 
+ 2) non essere stato interdetto o inabilitato o dichiarato debitore soggetto a liquidazione giudiziale, ovvero non avere in corso, nei propri confronti, un procedimento per dichiarazione di liquidazione giudiziale.
+
 I requisiti dei responsabili delle singole articolazioni o affiliazioni locali di cui al comma 1, lettera l), sono certificati in sede di presentazione dell'istanza ovvero successivamente al rilascio dell'autorizzazione nei casi in cui si chieda l'estensione della medesima autorizzazione ad altre articolazioni o affiliazioni locali e in tutti i casi in cui vi sia modificazione del rappresentante legale delle stesse.
+
+3.
+                    
+                        
+                            Ai fini del rilascio dell'autorizzazione all'esercizio dell'attivita' di addestramento e formazione per assistente bagnanti l'ente formatore richiedente deve dimostrare che ciascuna articolazione o affiliazione locale possiede i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                disponibilita', per lo svolgimento dell'attivita' addestrativa teorica e pratica, di una piscina e di locali conformi alle prescrizioni in materia di sicurezza e igiene previste a normativa vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                disponibilita' di almeno una unita' da diporto a remi conforme alle disposizioni vigenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                disponibilita' di adeguata attrezzatura tecnica, di arredamento e di materiale didattico per l'insegnamento teorico, indicata nell'Allegato I; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                disponibilita' di allenatori di nuoto per salvamento in possesso di abilitazione riconosciuta nel rispetto del Sistema nazionale di qualifiche dei tecnici sportivi (secondo o terzo livello SNaQ) del CONI, da impiegare quali docenti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                disponibilita' di medici specialisti in medicina e chirurgia d'urgenza o anestesia e rianimazione o medici abilitati alla formazione del soccorso con l'uso di defibrillatore (Basic Life Support Defibrillation o BLSD), da impiegare quali docenti.
 
 I requisiti di cui al presente articolo devono essere posseduti per tutta la durata dell'autorizzazione.
 
@@ -71,6 +232,38 @@ Nel caso in cui siano accertate irregolarita' nello svolgimento dell'attivita' d
 Sospensione dell'attivita' delle articolazioni 
  o affiliazioni locali
 
+1.
+                    
+                        
+                            Il Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera sospende l'autorizzazione all'esercizio dell'attivita' di formazione e addestramento di una singola articolazione o affiliazione locale quando: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ente formatore non ottempera, nei termini assegnati con la diffida di cui all'articolo 6, alle prescrizioni riferite alla singola articolazione o affiliazione locale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' riscontrata una carenza o irregolarita' del requisito previsto dall'articolo 4, comma 1, lettera l), con riferimento ai responsabili delle singole articolazioni o affiliazioni locali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' riscontrata una carenza o irregolarita' dei requisiti previsti dall'articolo 4, comma 3; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la singola articolazione o affiliazione locale svolge i corsi per assistente bagnanti in assenza o in difformita' del programma dei corsi di formazione approvato ai sensi dell'articolo 5, comma 3.
+
 Nei casi di cui al comma 1, il Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera dispone, in prima istanza, la sospensione dell'attivita' dell'articolazione o affiliazione locale per un periodo da uno a tre mesi, fatta salva l'ipotesi di decadenza di cui all'articolo 9, comma 2. La sospensione e', comunque, prorogata con successivo provvedimento sino alla definitiva eliminazione dell'irregolarita' riscontrata.
 
 Qualora il provvedimento di sospensione dell'attivita' di un'articolazione o affiliazione locale determini il venir meno del requisito di cui all'articolo 4, comma 1, lettera d), il Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera, decorso il termine di sospensione di cui al comma 2 senza che la singola articolazione o affiliazione locale abbia eliminato l'irregolarita' o la deficienza, procede ai sensi dell'articolo 9.
@@ -85,13 +278,273 @@ La sospensione dell'autorizzazione dell'ente formatore determina la sospensione 
 
 Il Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera dispone la decadenza dell'autorizzazione per l'esercizio dell'attivita' di formazione e addestramento dell'ente formatore qualora, alla scadenza del periodo di sospensione di cui all'articolo 8, non sono state eliminate le irregolarita' o le carenze contestate.
 
+2.
+                    
+                        
+                            Il Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera dispone, altresi', la decadenza dell'autorizzazione per l'esercizio dell'attivita' di formazione e addestramento quando l'ente formatore: 
+ 
+                        
+                        
+                            a)
+                            
+                                incorre in una delle fattispecie di cui all'articolo 7 e, nell'ultimo quinquennio, e' gia' stato destinatario di tre provvedimenti di sospensione ai sensi del medesimo articolo 7; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                incorre in una delle fattispecie di cui all'articolo 8 e, nell'ultimo quinquennio, e' gia' stato destinatario di due provvedimenti di sospensione ai sensi del medesimo articolo 8; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non adempie, previa diffida, agli obblighi informativi di cui all'articolo 4, comma 5.
+
 ## Art. 10. — Corsi di formazione
 
 I corsi di formazione per il conseguimento dei brevetti di cui all'articolo 2, comma 1, lettere d), e) e f), sono predisposti dagli enti formatori autorizzati ai sensi dell'articolo 5.
 
 Nell'ambito delle finalita' di cui all'articolo 1, il corso di formazione professionale per assistente bagnanti ha l'obiettivo di assicurare ai partecipanti la padronanza di metodi e contenuti generali orientati all'acquisizione delle specifiche conoscenze professionali nell'ambito del salvamento acquatico.
 
+3.
+                    
+                        
+                            Il corso di formazione per conseguire il brevetto di salvamento mare ha la durata minima di cento ore ed e' suddiviso: 
+ 
+                        
+                        
+                            a)
+                            
+                                in un modulo teorico di almeno trenta ore sulle materie di cui ai commi 10, 11 e 12; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un modulo pratico di quaranta ore, di cui almeno venti ore in piscina; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un tirocinio di trenta ore, presso piscine o stabilimenti balneari, diretto da soggetti abilitati all'esercizio dell'attivita' di assistente bagnanti in acque marittime da almeno due anni. 
+ La frequenza e' obbligatoria ed e' ammessa una percentuale di assenze non superiore al dieci per cento per ciascun modulo.
+
+4.
+                    
+                        
+                            Il corso di formazione per conseguire il brevetto di salvamento acque interne ha la durata minima di novanta ore ed e' suddiviso: 
+ 
+                        
+                        
+                            a)
+                            
+                                in un modulo teorico di almeno venticinque ore sulle materie di cui ai commi 10 e 11; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un modulo pratico di trentacinque ore, di cui almeno venti ore in piscina; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un tirocinio di trenta ore, presso piscine o stabilimenti balneari, diretto da soggetti abilitati all'esercizio dell'attivita' di assistente bagnanti in acque marittime o in acque interne da almeno due anni. 
+ La frequenza e' obbligatoria ed e' ammessa una percentuale di assenze non superiore al dieci per cento per ciascun modulo.
+
+5.
+                    
+                        
+                            Il corso di formazione per conseguire il brevetto di salvamento piscine ha la durata minima di settanta ore ed e' suddiviso: 
+ 
+                        
+                        
+                            a)
+                            
+                                in un modulo teorico di venti ore sulle materie di cui al comma 10; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un modulo pratico di venti ore, di cui almeno quindici ore in piscina; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un tirocinio di trenta ore, presso piscine, diretto da soggetti abilitati all'esercizio dell'attivita' di assistente bagnanti da almeno due anni. 
+ La frequenza e' obbligatoria ed e' ammessa una percentuale di assenze non superiore al dieci per cento per ciascun modulo.
+
+6.
+                    
+                        
+                            Coloro che conseguono il brevetto di salvamento piscine possono conseguire il brevetto di salvamento acque interne con la frequenza di un corso integrativo di venti ore e il superamento del relativo esame di cui all'articolo 13. Il corso integrativo e' suddiviso in: 
+ 
+                        
+                        
+                            a)
+                            
+                                un modulo teorico di cinque ore, per l'insegnamento delle materie di cui al comma 11; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un modulo pratico in piscina di quindici ore diretto da soggetti abilitati all'esercizio dell'attivita' di assistente bagnanti in acque marittime o interne da almeno due anni.
+
+7.
+                    
+                        
+                            Coloro che conseguono il brevetto di salvamento piscine possono conseguire il brevetto di salvamento mare con la frequenza di un corso integrativo di trenta ore e il superamento del relativo esame di cui all'articolo 13. Il corso integrativo e' suddiviso in: 
+ 
+                        
+                        
+                            a)
+                            
+                                un modulo teorico di dieci ore, per l'insegnamento delle materie di cui ai commi 11 e 12; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un modulo pratico di venti ore, presso stabilimenti balneari, diretto da soggetti abilitati all'esercizio dell'attivita' di assistente bagnanti in acque marittime da almeno due anni.
+
+8.
+                    
+                        
+                            Coloro che conseguono il brevetto di salvamento acque interne possono conseguire il brevetto di salvamento mare con la frequenza di un corso integrativo di dieci ore e il superamento del relativo esame di cui all'articolo 13. Il corso integrativo e' suddiviso in: 
+ 
+                        
+                        
+                            a)
+                            
+                                un modulo teorico di cinque ore, per l'insegnamento delle materie di cui al comma 12; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un modulo pratico di cinque ore presso stabilimenti balneari, diretto da soggetti abilitati all'esercizio dell'attivita' di assistente bagnanti in acque marittime da almeno due anni.
+
 Ciascun corso di formazione puo' prevedere prove intermedie di verifica dell'apprendimento delle conoscenze teoriche e pratiche. Al termine del corso, previo superamento di una prova finale teorica e pratica, e' rilasciato un attestato di regolare frequenza dall'ente formatore ai fini dell'ammissione del candidato all'esame finale di cui all'articolo 13.
+
+10.
+                    
+                        
+                            Il corso di formazione per assistente bagnanti prevede le seguenti materie comuni alle diverse abilitazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                nozioni fondamentali in materia di responsabilita' dell'assistente bagnanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                normativa e nozioni fondamentali in materia di sicurezza nelle acque interne e nelle piscine; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tecniche di primo soccorso e di rianimazione cardiopolmonare; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tecniche di recupero di soggetto in stato di pericolo in acqua; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                tecniche specifiche di nuoto per finalita' di salvamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                nozioni fondamentali di tutela ambientale e sanitaria delle acque di balneazione, comprese le piscine; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                linee guida dell'Organizzazione mondiale della sanita' per la sicurezza degli ambienti acquatici di balneazione, con particolare riferimento alla conoscenza dei fattori di rischio che possono essere presenti nelle acque di balneazione, gli eventi di interesse sanitario che possono verificarsi durante la stagione estiva, i comportamenti da adottare per prevenire esposizioni pericolose, l'accesso all'informazione sulla qualita' delle acque di balneazione.
+
+11.
+                    
+                        
+                            Il corso di formazione per il conseguimento del brevetto di salvamento acque interne, oltre alle materie di cui al comma 10, prevede le seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                nozioni di meteorologia e di tecnica marinaresca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tecniche specifiche di nuoto e di voga per finalita' di salvamento.
+
+12.
+                    
+                        
+                            Il corso di formazione per il conseguimento del brevetto di salvamento mare, oltre alle materie di cui ai commi 10 e 11, prevede le seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                nozioni fondamentali in materia di sicurezza balneare, con particolare riferimento all'ordinanza di sicurezza balneare del Capo del circondario marittimo e alle ordinanze balneari emanate dalle Regioni e dai Comuni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nozioni fondamentali in materia di ricerca e soccorso in mare; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nozioni fondamentali sulle correnti marine; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nozioni fondamentali sui fondali marini;
 
 I programmi dei corsi di formazione approvati ai sensi dell'articolo 5, comma 3, hanno validita' di cinque anni e possono essere rinnovati mediante un'istanza presentata almeno novanta giorni prima della scadenza di validita' degli stessi dall'ente formatore al Comando generale del Corpo delle Capitanerie di porto - Guardia Costiera.
 
@@ -101,9 +554,73 @@ L'ente formatore comunica, entro il 31 dicembre di ciascun anno, al Comando gene
 
 ## Art. 11. — Soggetti ammessi ai corsi di formazione
 
+1.
+                    
+                        
+                            Sono ammessi ai corsi di formazione di cui all'articolo 10 i soggetti in possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                eta' compresa tra il sedicesimo e il cinquantesimo anno di eta'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non essere stati dichiarati delinquenti abituali, professionali o per tendenza, non essere stati sottoposti a misure di sicurezza personali o alle misure di prevenzione, non essere stati condannati ad una pena detentiva non inferiore a tre anni, salvo che non siano intervenuti provvedimenti di riabilitazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                possesso del certificato di idoneita' fisica allo svolgimento dell'attivita' sportiva non agonistica di cui all'articolo 3 del decreto del Ministro della salute del 24 aprile 2013, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 169 del 20 luglio 2013, in corso di validita'. 
+
+                            
+                        
+                        
+                            d)
+                            
+                                avere assolto l'obbligo scolastico ed essere in possesso del diploma di scuola secondaria di primo grado; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                avere superato la prova pratica di cui all'articolo 1 dell'Allegato II, valutata da un allenatore abilitato di cui all'articolo 4, comma 3, lettera d).
+
 Durante lo svolgimento dei corsi di formazione di cui all'articolo 10, i soggetti ammessi, ove non ne siano gia' in possesso, conseguono il brevetto di abilitazione al soccorso con l'uso di defibrillatore (Basic Life Support Defibrillation o BLSD) rilasciato dagli enti accreditati ai sensi della normativa vigente.
 
 ## Art. 12. — Commissione d'esame per il rilascio delle abilitazioni
+
+1.
+                    
+                        
+                            Per il rilascio dell'abilitazione all'esercizio dell'attivita' di assistente bagnanti presso l'ente formatore e' costituita una commissione composta da tre membri, e precisamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                il rappresentante legale dell'ente formatore o il responsabile dell'articolazione o affiliazione locale, ovvero il soggetto da questi delegato, con funzioni di presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un medico specialista in medicina e chirurgia d'urgenza o in anestesia e rianimazione, o medico abilitato alla formazione del soccorso con l'uso di defibrillatore (Basic Life Support Defibrillation o BLSD); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un allenatore di nuoto per salvamento in possesso di abilitazione riconosciuta dal Sistema nazionale di qualifiche dei tecnici sportivi (secondo o terzo livello SNaQ) del CONI diverso dal docente del corso.
 
 Svolge le mansioni di segretario per la commissione di cui al comma 1 un rappresentante designato dall'ente formatore.
 
@@ -138,6 +655,31 @@ I brevetti di cui all'articolo 2, comma 1, lettere d), e) e f), sono rilasciati 
 ## Art. 15.
 
 Svolgimento dell'attivita' di assistente bagnanti
+
+1.
+                    
+                        
+                            Al fine dello svolgimento dell'attivita', l'assistente bagnanti deve aver compiuto i diciotto anni di eta' e possedere i seguenti certificati e brevetti in corso di validita': 
+ 
+                        
+                        
+                            a)
+                            
+                                il certificato di cui all'articolo 11, comma 1, lettera c); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                uno dei brevetti di salvamento di cui all'articolo 2, comma 1, lettere d), e) e f); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il brevetto di abilitazione al soccorso con l'uso di defibrillatore (Basic life support defiblillation o BLSD).
 
 I documenti di cui al comma 1 sono esibiti dall'assistente bagnanti su richiesta degli organi di vigilanza.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-11-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,24 @@ Il sistema dell'istruzione professionale ha la finalita' di formare la studentes
 
 Identita' dell'istruzione professionale
 
+1.
+                    
+                        
+                            Ai fini dell'assolvimento del diritto-dovere all'istruzione e alla formazione sino al conseguimento, entro il diciottesimo anno di eta', di almeno una qualifica professionale triennale, la studentessa e lo studente in possesso del titolo conclusivo del primo ciclo di istruzione puo' scegliere, all'atto dell'iscrizione ai percorsi del secondo ciclo del sistema educativo di istruzione e formazione, tra: 
+ 
+                        
+                        
+                            a)
+                            
+                                i percorsi di istruzione professionale per il conseguimento di diplomi quinquennali, realizzati da scuole statali o da scuole paritarie riconosciute ai sensi della legge 10 marzo 2000, n. 62; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i percorsi di istruzione e formazione professionale per il conseguimento di qualifiche triennali e di diplomi professionali quadriennali, realizzati dalle istituzioni formative accreditate dalle Regioni e dalle Province autonome di Trento e di Bolzano, ai sensi del decreto legislativo 17 ottobre 2005, n. 226.
+
 Al fine di assicurare alla studentessa e allo studente una solida base di istruzione generale e competenze tecnico-professionali in una dimensione operativa in relazione alle attivita' economiche e produttive cui si riferisce l'indirizzo di studio prescelto, i percorsi di istruzione professionale hanno un'identita' culturale, metodologica e organizzativa che e' definita nel profilo educativo, culturale e professionale di cui all'Allegato A, che costituisce parte integrante del presente decreto.
 
 Il profilo educativo, culturale e professionale di cui al comma 2 integra il profilo educativo, culturale e professionale della studentessa e dello studente di cui all'articolo 1, comma 5 del decreto legislativo 17 ottobre 2005, n. 226 ed e' comune a tutti i percorsi di istruzione professionale, nonche' ai profili di uscita degli indirizzi di studio di cui all'articolo 3.
@@ -54,6 +72,87 @@ Il profilo educativo, culturale e professionale si basa su uno stretto raccordo 
 I percorsi di istruzione professionale hanno una durata quinquennale e sono finalizzati al conseguimento di diplomi di istruzione secondaria di secondo grado, relativi agli indirizzi di studio di cui all'articolo 3, che danno accesso agli istituti tecnici superiori, all'universita' e alle istituzioni dell'alta formazione artistica, musicale e coreutica.
 
 ## Art. 3. — Indirizzi di studio
+
+1.
+                    
+                        
+                            Gli indirizzi di studio dei percorsi di istruzione professionale sono i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                Agricoltura, sviluppo rurale, valorizzazione dei prodotti del territorio e gestione delle risorse forestali e montane; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Pesca commerciale e produzioni ittiche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Industria e artigianato per il Made in Italy; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Manutenzione e assistenza tecnica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Gestione delle acque e risanamento ambientale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Servizi commerciali; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Enogastronomia e ospitalita' alberghiera; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Servizi culturali e dello spettacolo; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                Servizi per la sanita' e l'assistenza sociale; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                Arti ausiliarie delle professioni sanitarie: odontotecnico; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                Arti ausiliarie delle professioni sanitarie: ottico.
 
 I quadri orari relativi agli indirizzi di studio di cui al comma 1 sono riportati nell'Allegato B, che costituisce parte integrante del presente decreto. Gli indirizzi di studio dell'ordinamento, di cui al decreto del Presidente della Repubblica 15 marzo 2010, n. 87, confluiscono negli indirizzi di studio di cui al comma 1 come riportato nell'Allegato C, che costituisce parte integrante del presente decreto.
 
@@ -70,6 +169,45 @@ L'istruzione professionale e' caratterizzata da una struttura quinquennale dei p
 Il biennio dei percorsi dell'istruzione professionale comprende 2112 ore complessive, articolate in 1188 ore di attivita' e insegnamenti di istruzione generale e in 924 ore di attivita' e insegnamenti di indirizzo, comprensive del tempo da destinare al potenziamento dei laboratori. Le attivita' e gli insegnamenti di istruzione generale e di indirizzo sono aggregati in assi culturali.
 Le istituzioni scolastiche che offrono percorsi di istruzione professionale, nell'esercizio della propria autonomia organizzativa e didattica, e con riferimento al Progetto formativo individuale, possono organizzare le azioni didattiche, formative ed educative in periodi didattici. I periodi didattici possono essere collocati anche in due diversi anni scolastici ai fini dell'accesso al terzo anno dei percorsi. Nell'ambito delle 2112 ore, una quota, non superiore a 264 ore, e' destinata alla personalizzazione degli apprendimenti, alla realizzazione del progetto formativo individuale ed allo sviluppo della dimensione professionalizzate delle attivita' di alternanza scuola-lavoro, previste dall'articolo 5, comma 1, lettera e). Nel biennio le istituzioni scolastiche possono prevedere, per la realizzazione dei percorsi di cui al comma 4, specifiche attivita' finalizzate ad accompagnare e supportare le studentesse e gli studenti, anche facendo ricorso alla rimodulazione dei quadri orari e nei limiti delle risorse disponibili a legislazione vigente. Le disposizioni del presente comma si realizzano nei limiti degli assetti ordinamentali e delle consistenze di organico previste dalla normativa vigente.
 
+3.
+                    
+                        
+                            Il triennio dei percorsi dell'istruzione professionale e' articolato in un terzo, quarto e quinto anno. Per ciascun anno del triennio, l'orario scolastico e' di 1056 ore, articolate in 462 ore di attivita' e insegnamenti di istruzione generale e in 594 ore di attivita' e insegnamenti di indirizzo, al fine di consentire alla studentessa e allo studente di: 
+ 
+                        
+                        
+                            a)
+                            
+                                consolidare e innalzare progressivamente, soprattutto in contesti di laboratorio e di lavoro, i livelli di istruzione generale acquisiti nel biennio, anche attraverso spazi orari riservati nell'ambito della quota di autonomia, determinata a norma del successivo articolo 6, comma 1, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisire e approfondire, specializzandole progressivamente, le competenze, le abilita' e le conoscenze di indirizzo in funzione di un rapido accesso al lavoro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                partecipare alle attivita' di alternanza scuola-lavoro, previste dall'articolo 1, comma 33, della legge 13 luglio 2015, n. 107, anche in apprendistato ai sensi degli articoli 41, 42 e 43 del decreto legislativo 15 giugno 2015, n. 81; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                costruire il curriculum della studentessa e dello studente previsto dall'articolo 1, comma 28, della legge 13 luglio 2015, n. 107, in coerenza con il Progetto formativo individuale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                effettuare i passaggi tra i percorsi di istruzione professionale e quelli di istruzione e formazione professionale e viceversa, secondo le modalita' previste dall'articolo 8.
+
 Al fine di realizzare l'integrazione, l'ampliamento e la differenziazione dei percorsi e degli interventi in rapporto alle esigenze e specificita' territoriali, le istituzioni scolastiche che offrono percorsi di istruzione professionale possono attivare, in via sussidiaria, previo accreditamento regionale secondo modalita' da definirsi con gli accordi di cui all'articolo 7, comma 2, percorsi di istruzione e formazione professionale per il rilascio della qualifica e del diploma professionale quadriennale di cui all'articolo 17 del decreto legislativo 17 ottobre 2005, n. 226. Tali percorsi sono realizzati nel rispetto degli standard formativi definiti da ciascuna regione e secondo i criteri e le modalita' definiti ai sensi dell'articolo 7, commi 1 e 2.
 
 Il quinto anno dell'istruzione professionale e' strutturato dalle istituzioni scolastiche nell'ambito della loro autonomia, in modo da consentire il conseguimento del diploma di istruzione professionale previo superamento degli esami di Stato, nonche' di maturare i crediti per l'acquisizione del certificato di specializzazione tecnica superiore (IFTS), ove previsto dalla programmazione delle singole Regioni.
@@ -78,7 +216,114 @@ Le istituzioni scolastiche che offrono percorsi di istruzione professionale sono
 
 ## Art. 5. — Assetto didattico
 
+1.
+                    
+                        
+                            L'assetto didattico dell'istruzione professionale e' caratterizzato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dalla personalizzazione del percorso di apprendimento, che si avvale di una quota del monte ore non superiore a 264 nel biennio di cui all'articolo 4, comma 2 e dal Progetto formativo individuale che viene redatto dal consiglio di classe entro il 31 gennaio del primo anno di frequenza e aggiornato durante l'intero percorso scolastico.
+Il Progetto formativo individuale si basa su un bilancio personale che evidenzia i saperi e le competenze acquisiti da ciascuna studentessa e da ciascuno studente, anche in modo non formale e informale ed e' idoneo a rilevare le potenzialita' e le carenze riscontrate, al fine di motivare ed orientare nella progressiva costruzione del percorso formativo e lavorativo. Il dirigente scolastico, sentito il consiglio di classe, individua, all'interno di quest'ultimo, i docenti che assumono la funzione di tutor per sostenere le studentesse e gli studenti nell'attuazione e nello sviluppo del Progetto formativo individuale. L'attivita' di tutorato e' svolta dai docenti designati, fatto salvo lo svolgimento delle attivita' di cui all'articolo 1, comma 5, della legge n. 107 del 2015, nell'ambito delle risorse disponibili presso l'istituzione scolastica a legislazione vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dall'aggregazione, nel biennio, delle discipline all'interno degli assi culturali caratterizzanti l'obbligo di istruzione e dall'aggregazione, nel triennio, delle discipline di istruzione generale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalla progettazione interdisciplinare dei percorsi didattici caratterizzanti i diversi assi culturali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dall'utilizzo prevalente di metodologie didattiche per l'apprendimento di tipo induttivo, attraverso esperienze laboratoriali e in contesti operativi, analisi e soluzione dei problemi relativi alle attivita' economiche di riferimento, il lavoro cooperativo per progetti, nonche' la gestione di processi in contesti organizzati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dalla possibilita' di attivare percorsi di alternanza scuola-lavoro, gia' dalla seconda classe del biennio, e percorsi di apprendistato ai sensi dell'articolo 43 del decreto legislativo 15 giugno 2015, n. 81; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'organizzazione per unita' di apprendimento, che, partendo da obiettivi formativi adatti e significativi per le singole studentesse e i singoli studenti, sviluppano appositi percorsi di metodo e di contenuto, tramite i quali si valuta il livello delle conoscenze e delle abilita' acquisite e la misura in cui la studentessa e lo studente abbiano maturato le competenze attese. Le unita' di apprendimento rappresentano il necessario riferimento per il riconoscimento dei crediti posseduti dalla studentessa e dallo studente, soprattutto nel caso di passaggi ad altri percorsi di istruzione e formazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dalla certificazione delle competenze che e' effettuata, nel corso del biennio, con riferimento alle unita' di apprendimento, secondo un modello adottato con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, ferma restando la disciplina vigente in merito alla certificazione delle competenze per il triennio, nonche' per le qualifiche triennali e i diplomi quadriennali, nel rispetto delle disposizioni di cui al decreto legislativo 16 gennaio 2013, n. 13.
+
 ## Art. 6. — Strumenti per l'attuazione dell'Autonomia
+
+1.
+                    
+                        
+                            Le istituzioni scolastiche che offrono percorsi di istruzione professionale possono, senza nuovi o maggiori oneri a carico della finanza pubblica: 
+ 
+                        
+                        
+                            a)
+                            
+                                utilizzare la quota di autonomia del 20 per cento dell'orario complessivo del biennio, nonche' dell'orario complessivo del triennio, per il perseguimento degli obiettivi di apprendimento relativi al profilo di uscita di ciascun indirizzo di studio e per potenziare gli insegnamenti obbligatori per tutte le studentesse e tutti gli studenti, con particolare riferimento alle attivita' di laboratorio, sulla base dei criteri generali e delle indicazioni contenuti nel Profilo educativo, culturale e professionale, nell'ambito dell'organico dell'autonomia di cui all'articolo 1, comma 5, della legge n. 107 del 2015; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                utilizzare gli spazi di flessibilita', in coerenza con gli indirizzi attivati e con i profili di uscita di cui all'articolo 3, entro il 40 per cento dell'orario complessivo previsto per il terzo, quarto e quinto anno, nell'ambito dell'organico dell'autonomia di cui all'articolo 1, comma 5, della legge 13 luglio 2015, n. 107; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sviluppare le attivita' e i progetti di orientamento scolastico, nonche' di inserimento nel mercato del lavoro, anche attraverso l'apprendistato formativo di primo livello di cui al decreto legislativo 15 giugno 2015, n. 81; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                stipulare contratti d'opera con esperti del mondo del lavoro e delle professioni, in possesso di una specifica e documentata esperienza professionale maturata nell'ambito delle attivita' economiche di riferimento dell'indirizzo di studio e in possesso di competenze specialistiche non presenti nell'Istituto, ai fini dell'arricchimento dell'offerta formativa, nel rispetto dei vincoli di bilancio, ferma restando la possibilita' di ricevere finanziamenti da soggetti pubblici e privati. A riguardo, le istituzioni scolastiche provvedono nel limite delle risorse disponibili a legislazione vigente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivare partenariati territoriali per il miglioramento e l'ampliamento dell'offerta formativa, per il potenziamento dei laboratori, ivi comprese le dotazioni strumentali degli stessi, per la realizzazione dei percorsi in alternanza, comprese le esperienze di scuola-impresa e di bottega-scuola, nel rispetto dei vincoli di bilancio, ferma restando la possibilita' di ricevere finanziamenti da soggetti pubblici e privati; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                costituire, nell'esercizio della propria autonomia didattica, organizzativa e di ricerca, senza nuovi o maggiori oneri per la finanza pubblica, i dipartimenti quali articolazioni funzionali del collegio dei docenti, per il sostegno alla didattica e alla progettazione formativa; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dotarsi, nell'esercizio della propria autonomia didattica e organizzativa, di un comitato tecnico-scientifico, senza nuovi o maggiori oneri per la finanza pubblica, composto da docenti e da esperti del mondo del lavoro, delle professioni e della ricerca scientifica e tecnologica, con funzioni consultive e di proposta per l'organizzazione delle attivita' e degli insegnamenti di indirizzo e l'utilizzazione degli spazi di autonomia e flessibilita'. Ai componenti del comitato non spettano compensi, indennita', gettoni di presenza o altre utilita' comunque denominate.
 
 ## Art. 7. — Raccordo con il sistema di istruzione e formazione professionale e Rete Nazionale delle scuole professionali
 
@@ -103,6 +348,31 @@ Il passaggio prevede, da parte delle istituzioni scolastiche e formative interes
 Il passaggio e' effettuato esclusivamente a domanda della studentessa e dello studente nei limiti delle disponibilita' di posti nelle classi di riferimento delle istituzioni scolastiche e formative.
 
 Il passaggio tiene conto dei diversi risultati di apprendimento e dello specifico profilo di uscita dell'ordine di studi e dell'indirizzo, riferiti al percorso al quale si chiede di accedere anche nel caso in cui la studentessa e lo studente sia gia' in possesso di ammissione all'annualita' successiva del percorso di provenienza. La determinazione dell'annualita' di inserimento e' basata sul riconoscimento dei crediti posseduti, sulla comparazione tra il percorso di provenienza e quello cui la studentessa e lo studente chiede di accedere, nonche' sulle sue effettive potenzialita' di prosecuzione del percorso.
+
+6.
+                    
+                        
+                            Nel corso o al termine dei primi tre anni, le istituzioni scolastiche e le istituzioni formative accreditate tengono conto dei crediti maturati e certificati, secondo le seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                certificazione delle competenze acquisite nel precedente percorso formativo, con riferimento alle unita' di apprendimento di cui all'articolo 5, comma 1, lettera e); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                elaborazione, anche sulla base di eventuali verifiche in ingresso, di un bilancio di competenze da parte delle istituzioni che accolgono la studentessa e lo studente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                progettazione e realizzazione delle attivita' di inserimento e di accompagnamento nel nuovo percorso.
 
 La studentessa e lo studente, conseguita la qualifica triennale, possono chiedere di passare al quarto anno dei percorsi di istruzione professionale, secondo le modalita' previste dal presente articolo, oppure di proseguire il proprio percorso di studi con il quarto anno dei percorsi di istruzione e formazione professionale sia presso le istituzioni scolastiche sia presso le istituzioni formative accreditate per conseguire un diploma professionale di tecnico di cui all'articolo 17 del decreto legislativo 17 ottobre 2005, n. 226, compreso nel repertorio nazionale dell'offerta di istruzione e formazione professionale di cui agli accordi in Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e Bolzano del 29 aprile 2010, del 27 luglio 2011 e del 19 gennaio 2012.
 
@@ -148,6 +418,38 @@ A decorrere dall'anno scolastico 2022/2023 il decreto del Presidente della Repub
 A decorrere dall'entrata in vigore del presente decreto e' abrogato l'articolo 13, comma 1-quinquies, del decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40.
 
 ## Art. 14. — Disposizioni transitorie e finali
+
+1.
+                    
+                        
+                            Il decreto del Presidente della Repubblica 15 marzo 2010, n. 87, e successive modificazioni, continua ad applicarsi esclusivamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                per l'anno scolastico 2018/2019, per le classi dalla seconda alla quinta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'anno scolastico 2019/2020, per le classi dalla terza alla quinta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per l'anno scolastico 2020/2021, per le classi dalla quarta alla quinta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per l'anno scolastico 2021/2022, per le sole classi quinte.
 
 Le Regioni a statuto speciale e le province autonome di Trento e di Bolzano provvedono alle finalita' del presente decreto legislativo nell'ambito delle competenze ad esse spettanti ai sensi dello statuto speciale e delle relative norme di attuazione e secondo quanto disposto dai rispettivi ordinamenti.
 

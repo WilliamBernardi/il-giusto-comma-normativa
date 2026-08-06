@@ -8,8 +8,8 @@ codice_redazionale: 094G0154
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -66,9 +66,80 @@ Il capo del Dipartimento, nominato ai sensi degli articoli 21 e 28 della legge 2
 
 Le funzioni vicarie del capo del Dipartimento sono attribuite dal Ministro ad un dirigente generale.
 
+4.
+                    
+                        
+                            Alle dirette dipendenze del capo del Dipartimento operano:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ufficio per gli affari generali e per il personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ufficio per la formazione del personale delle pubbliche amministrazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ufficio di informazione statistica e per la gestione del sistema automatizzato delle informazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il nucleo per i progetti finalizzati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le segreterie della commissione per i flussi di spesa del personale pubblico, con funzioni di osservatorio del pubblico impiego, e della Conferenza permanente dei direttori generali preposti ai servizi del personale.
+
 Il Ministro o, in sua vece, il capo del Dipartimento convoca periodiche riunioni dei dirigenti gli organi del Dipartimento.
 
 ## Art. 6. — Organizzazione
+
+1.
+                    
+                        
+                            Il Dipartimento e' organizzato nelle seguenti ripartizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                organizzazione delle pubbliche amministrazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                personale delle pubbliche amministrazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                relazioni sindacali delle pubbliche amministrazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                procedimenti ed efficienza amministrativa.
 
 A seguito della individuazione degli uffici di livello dirigenziale ai sensi dell'art. 6 del decreto legislativo 3 febbraio 1993, n. 29, il Ministro provvede, con decreto, alla ripartizione delle competenze tra gli organi del Dipartimento e alla loro articolazione in uffici, nonche' alla preposizione dei responsabili agli organi. Provvede, inoltre, alla organizzazione delle strutture di segreteria, comprese quelle al servizio di comitati, commissioni, gruppi di lavoro e altri organi, anche a carattere temporaneo, operanti nell'ambito del Dipartimento.
 

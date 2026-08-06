@@ -8,8 +8,8 @@ codice_redazionale: 008G0021
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,24 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva degli 
 ## Art. 1.
 
 Al preambolo del decreto ministeriale 6 marzo 2006, n. 172, le parole "emana il seguente regolamento" sono sostituite dalle seguenti: "adotta il seguente regolamento".
+
+2.
+                    
+                        
+                            All'articolo 2 del decreto ministeriale 6 marzo 2006, n. 172, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, secondo periodo, le parole "prima della scadenza del termine per la presentazione delle domande di partecipazione al concorso medesimo", sono sostituite dalle seguenti: "entro il termine fissato per l'inizio delle attivita' didattiche delle scuole";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole "non meno di trenta giorni" sono sostituite dalle seguenti: "non meno di dieci giorni".
 
 All'articolo 6, comma 2, le parole "Ministro dell'universita' e della ricerca scientifica e tecnologica" sono sostituite dalle seguenti: "Ministro dell'istruzione, dell'universita' e della ricerca".
 

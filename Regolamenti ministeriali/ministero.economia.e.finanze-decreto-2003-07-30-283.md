@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-05-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -70,6 +70,38 @@ L'ammontare complessivo delle contribuzioni relative alle operazioni stipulate e
 
 Gli operatori che inoltrano domanda alla Sezione speciale per la concessione della fideiussione devono allegare, a pena di inammissibilita', la comunicazione della banca interessata che segnala l'insufficienza delle garanzie offerte dal richiedente.
 
+2.
+                    
+                        
+                            Le banche, contemporaneamente alla comunicazione agli operatori interessati, inoltrano direttamente alla Sezione speciale una circostanziata relazione a firma del funzionario che ha curato l'istruttoria e che e' responsabile anche ai sensi dell'articolo 137, comma 2, del decreto legislativo n. 385 del 1993. In tale relazione sono precisati:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare del finanziamento, compresi i relativi interessi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le garanzie offerte ed il relativo valore di stima attribuito dalla Banca;
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli elementi tecnico-economici che giustificano la richiesta della garanzia fideiussoria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                copia del provvedimento di approvazione della richiesta di investimento o di concessione dell'agevolazione pubblica, ove previsti.
+
 Nel caso di finanziamenti erogati in favore di soggetti con obbligo di bilancio, occorre trasmettere gli ultimi tre bilanci dell'organismo, corredati delle relazioni del Consiglio di amministrazione e del Collegio sindacale.
 
 Se i finanziamenti sono di importo superiore a euro duecentocinquantamila, i bilanci di cui al comma 3 devono essere stati sottoposti a revisione e certificazione da parte di una societa' iscritta nell'albo di cui all'articolo 161 del decreto legislativo 24 febbraio 1998, n. 58, ovvero nel registro di cui all'articolo 6 del decreto legislativo 27 gennaio 1992, n. 88. In caso di importo inferiore, il comitato direttivo della Sezione si riserva di richiedere una certificazione analoga o comunque idonea a documentare la congruita' dei dati espressi dal bilancio della ditta richiedente. ((1))
@@ -127,6 +159,31 @@ Il pagamento del capitale residuo, nell'ipotesi di risoluzione del contratto di 
 La Sezione speciale, in caso di procedure concorsuali e' tenuta a rimborsare quanto dovuto in forza della fideiussione prestata ad esibizione, rispettivamente, di copia della sentenza dichiarativa di fallimento o di copia del provvedimento dell'autorita' competente che ordina la liquidazione coatta amministrativa, nonche' dell'istanza di insinuazione nello stato passivo della procedura anzidetta.
 
 Nel caso di esecuzione ad istanza di terzi, la liquidazione della fideiussione avviene a seguito della esibizione dell'atto di intervento per il recupero dell'intero credito vantato.
+
+5.
+                    
+                        
+                            La richiesta di intervento deve essere inoltrata dalla banca, a pena di decadenza, entro un anno dalla data rispettivamente:
+ 
+                        
+                        
+                            a)
+                            
+                                di avvio delle procedure esecutive;
+
+                            
+                        
+                        
+                            b)
+                            
+                                della dichiarazione di fallimento o di messa in liquidazione coatta amministrativa della ditta affidata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                di intervento da parte della Banca nelle procedure avviate da terzi.
 
 Se nel corso dell'escussione delle garanzie contrattualmente acquisite ed all'inizio della quale e' gia' stata liquidata la fideiussione da parte della Sezione speciale, l'organismo escusso viene sottoposto a procedura esecutiva concorsuale, la banca e' tenuta ad intervenire, in nome e per conto della Sezione speciale, in detta nuova procedura per l'intero credito precedentemente liquidato, senza tenere conto pertanto del pagamento effettuato dalla Sezione stessa. ((1))
 

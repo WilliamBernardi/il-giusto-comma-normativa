@@ -8,8 +8,8 @@ codice_redazionale: 097G0506
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:02Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,38 @@ All'esame di Stato per l'abilitazione all'esercizio della professione di tecnolo
 Le commissioni giudicatrici degli esami di abilitazione all'esercizio della professione di tecnologo alimentare sono nominate con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica e sono composte dal presidente e da quattro membri.
 
 Il presidente viene scelto tra i professori universitari ordinari, straordinari, associati, fuori ruolo e a riposo di discipline afferenti alla scienza e alla tecnologia alimentare.
+
+3.
+                    
+                        
+                            I membri vengono prescelti tra quattro terne designate dal competente Consiglio dell'ordine professionale, composte da persone appartenenti alle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                professori universitari ordinari, straordinari, associati, fuori ruolo o a riposo di discipline afferenti alla scienza e alla tecnologia alimentare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                funzionari, con almeno dieci anni di anzianita' di servizio, con mansioni direttive in enti ed amministrazioni pubbliche con competenza nei settori di controllo e ispezione, ricerca, assistenza e formazione in campo alimentare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                liberi professionisti iscritti all'albo con non meno di dieci anni di esercizio professionale e che non abbiano subito sanzioni disciplinari;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dirigenti di industrie alimentari, industrie produttrici di macchine o prodotti per le industrie alimentari, servizi di ristorazione collettiva, organizzazioni commerciali per la distribuzione e la vendita di prodotti alimentari.
 
 Fino a quando nessun libero professionista abbia maturato almeno dieci anni di iscrizione all'albo, i Consigli degli ordini possono designare quali membri delle terne di cui alla lettera c) del comma 2, tecnologi alimentari iscritti all'albo da meno di dieci anni, ai quali non sia mai stata comminata alcuna sanzione disciplinare.
 

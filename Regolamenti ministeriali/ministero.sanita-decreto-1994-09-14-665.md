@@ -8,8 +8,8 @@ codice_redazionale: 094G0696
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,31 @@ Udito il parere del Consiglio di Stato espresso nella adunanza generale del 4 lu
 ## Art. 1.
 
 E' individuata la figura professionale del tecnico ortopedico con il seguente profilo: il tecnico ortopedico e' l'operatore sanitario che, in possesso del diploma universitario abilitante, su prescrizione medica e successivo collaudo, opera la costruzione e/o adattamento, applicazione e fornitura di protesi, ortesi e di ausili sostitutivi, correttivi e di sostegno dell'apparato locomotore, di natura funzionale ed estetica, di tipo meccanico o che utilizzano l'energia esterna o energia mista corporea ed esterna, mediante rilevamento diretto sul paziente di misure e modelli.
+
+2.
+                    
+                        
+                            Il tecnico ortopedico, nell'ambito delle proprie competenze:
+ 
+                        
+                        
+                            a)
+                            
+                                addestra il disabile all'uso delle protesi e delle ortesi applicate. Svolge, in collaborazione con il medico, assistenza tecnica per la fornitura, la sostituzione e la riparazione delle protesi e delle ortesi applicate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                collabora con altre figure professionali al trattamento multidisciplinare previsto nel piano di riabilitazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' responsabile dell'organizzazione, pianificazione e qualita' degli atti professionali svolti nell'ambito delle proprie mansioni.
 
 Il tecnico ortopedico esercita la sua attivita' professionale in strutture sanitarie, pubbliche o private, in regime di dipendenza o libero-professionale.
 

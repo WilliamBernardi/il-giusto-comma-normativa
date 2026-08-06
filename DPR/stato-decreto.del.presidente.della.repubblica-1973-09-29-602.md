@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-05-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -144,6 +144,24 @@ AGGIORNAMENTO (24)
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ''concessionario'': il soggetto cui e' affidato in concessione il servizio di riscossione o il commissario governativo che gestisce il servizio stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ''ruolo'': l'elenco dei debitori e delle somme da essi dovute formato dall'ufficio ai fini della riscossione a mezzo del concessionario.
+
 ))
 
 ## Art. 11. — (((Oggetto e specie dei ruoli). ))
@@ -240,6 +258,42 @@ In caso di rateazione ai sensi dell'articolo 3-bis del decreto legislativo 18 di
 
 In caso di rateazione ai sensi dell'articolo 8 del decreto legislativo 19 giugno 1997, n. 218, il mancato pagamento di una delle rate diverse dalla prima entro il termine di pagamento della rata successiva comporta la decadenza dal beneficio della rateazione e l'iscrizione a ruolo dei residui importi dovuti a titolo di imposta, interessi e sanzioni, nonche' della sanzione di cui all'articolo 13 del decreto legislativo 18 dicembre 1997, n. 471, aumentata della meta' e applicata sul residuo importo dovuto a titolo di imposta.
 
+3.
+                        
+                            
+                                E' esclusa la decadenza in caso di lieve inadempimento dovuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    insufficiente versamento della rata, per una frazione non superiore al 3 per cento e, in ogni caso, a diecimila euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tardivo versamento della prima rata, non superiore a sette giorni.
+
+4.
+                        
+                            
+                                La disposizione di cui al comma 3 si applica anche con riguardo a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    versamento in unica soluzione delle somme dovute ai sensi dell'articolo 2, comma 2, e dell'articolo 3, comma 1, del decreto legislativo 18 dicembre 1997, n. 462; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    versamento in unica soluzione o della prima rata delle somme dovute ai sensi dell'articolo 8, comma 1, del decreto legislativo 19 giugno 1997, n. 218.
+
 Nei casi previsti dal comma 3, nonche' in caso di tardivo pagamento di una rata diversa dalla prima entro il termine di pagamento della rata successiva, si procede all'iscrizione a ruolo dell'eventuale frazione non pagata, della sanzione di cui all'articolo 13 del decreto legislativo 18 dicembre 1997, n. 471, commisurata all'importo non pagato o pagato in ritardo, e dei relativi interessi.
 
 L'iscrizione a ruolo di cui al comma 5 non e' eseguita se il contribuente si avvale del ravvedimento di cui all'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472, entro il termine di pagamento della rata successiva ovvero, in caso di ultima rata o di versamento in unica soluzione, entro 90 giorni dalla scadenza. 
@@ -302,9 +356,61 @@ In caso di comprovato peggioramento della situazione di cui ((ai commi 1 e 1.1))
 
 Il debitore puo' chiedere che il piano di rateazione di cui ai commi 1 ((, 1.1)) e 1-bis preveda, in luogo di rate costanti, rate variabili di importo crescente per ciascun anno. ((131))
 
+1-quater.
+                        
+                            
+                                A seguito della presentazione della richiesta di cui ((ai commi 1 e 1.1)) e fino alla data dell'eventuale rigetto della stessa richiesta ovvero dell'eventuale decadenza dalla dilazione ai sensi del comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono sospesi i termini di prescrizione e decadenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non possono essere iscritti nuovi fermi amministrativi e ipoteche, fatti salvi quelli gia' iscritti alla data di presentazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non possono essere avviate nuove procedure esecutive. (105) ((131)) 
+ 1-quater.1. Non puo' in nessun caso essere concessa la dilazione delle somme oggetto di verifica effettuata, ai sensi dell'articolo 48-bis, in qualunque momento antecedente alla data di accoglimento della richiesta di cui ((ai commi 1 e 1.1)). (105) ((131)) 
+ 1-quater.2. Il pagamento della prima rata determina l'estinzione delle procedure esecutive precedentemente avviate, a condizione che non si sia ancora tenuto l'incanto con esito positivo o non sia stata presentata istanza di assegnazione, ovvero il terzo non abbia reso dichiarazione positiva o non sia stato gia' emesso provvedimento di assegnazione dei crediti pignorati. (105)
+
 ((COMMA ABROGATO DAL D.LGS. 29 LUGLIO 2024, N. 110)). ((131))
 
 COMMA ABROGATO DAL D.L. 31 DICEMBRE 2007, N. 248, CONVERTITO CON MODIFICAZIONI DALLA L. 28 FEBBRAIO 2008, N. 31.
+
+3.
+                        
+                            
+                                In caso di mancato pagamento, nel corso del periodo di rateazione, di otto rate, anche non consecutive: (121) 
+ 
+                            
+                            
+                                a)
+                                
+                                    il debitore decade automaticamente dal beneficio della rateazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'intero importo iscritto a ruolo ancora dovuto e' immediatamente ed automaticamente riscuotibile in unica soluzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il carico non puo' essere nuovamente rateizzato. (89) (121)
 
 In caso di provvedimento amministrativo o giudiziale di sospensione totale o parziale della riscossione, emesso in relazione alle somme che costituiscono oggetto della dilazione, il debitore e' autorizzato a non versare, limitatamente alle stesse, le successive rate del piano concesso. Allo scadere della sospensione, il debitore puo' richiedere il pagamento dilazionato del debito residuo, comprensivo degli interessi fissati dalla legge per il periodo di sospensione, nello stesso numero di rate non versate del piano originario, ovvero in altro numero, fino ((al massimo previsto dai commi 1 e 1.1, per ciascuna delle condizioni ivi previste)). (89) ((131))
 
@@ -450,6 +556,67 @@ Con lo stesso o con separato decreto sono individuati i compiti che possono esse
 ))
 
 ## Art. 25. — (Cartella di pagamento).
+
+1.
+                        
+                            
+                                Il concessionario notifica la cartella di pagamento, al debitore iscritto a ruolo o al coobbligato nei confronti dei quali procede , a pena di decadenza, entro il 31 dicembre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del terzo anno successivo a quello di presentazione della dichiarazione, ovvero a quello di scadenza del versamento dell'unica o ultima rata se il termine per il versamento delle somme risultanti dalla dichiarazione scade oltre il 31 dicembre dell'anno in cui la dichiarazione e' presentata, per le somme che risultano dovute a seguito dell'attivita' di liquidazione prevista dall'articolo 36-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, nonche' del quarto anno successivo a quello di presentazione della dichiarazione del sostituto d'imposta per le somme che risultano dovute ai sensi degli articoli 19 e 20 del testo unico di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; (64) (101) (108) (112) ((126))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    del quarto anno successivo a quello di presentazione della dichiarazione, per le somme che risultano dovute a seguito dell'attivita' di controllo formale prevista dall'articolo 36-ter del citato decreto del Presidente della Repubblica n. 600 del 1973; (101) (108) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del secondo anno successivo a quello in cui l'accertamento e' divenuto definitivo, per le somme dovute in base agli accertamenti dell'ufficio. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    del terzo anno successivo a quello di scadenza dell'ultima rata del piano di rateazione per le somme dovute a seguito degli inadempimenti di cui all'articolo 15-ter.
+
+1-bis.
+                        
+                            
+                                In deroga alle disposizioni del comma 1, il concessionario notifica la cartella di pagamento, a pena di decadenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i crediti anteriori alla data di pubblicazione del ricorso per l'ammissione al concordato preventivo nel registro delle imprese, non ancora iscritti a ruolo, entro il 31 dicembre del terzo anno successivo: 
+ 1) alla pubblicazione del decreto che revoca l'ammissione al concordato preventivo ovvero ne dichiara la mancata approvazione ai sensi degli articoli 173 e 179 del regio decreto 16 marzo 1942, n. 267; 
+ 2) alla pubblicazione della sentenza che dichiara la risoluzione o l'annullamento del concordato preventivo ai sensi del combinato disposto degli articoli 186, 137 e 138 del regio decreto 16 marzo 1942, n. 267; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i crediti rientranti nell'accordo di ristrutturazione dei debiti di cui all'articolo 182-bis del regio decreto 16 marzo 1942, n. 267, non ancora iscritti a ruolo alla data di presentazione della proposta di transazione fiscale di cui all'articolo 182-ter, sesto comma, del regio decreto 16 marzo 1942, n. 267, entro il 31 dicembre del terzo anno successivo alla scadenza del termine di cui al settimo comma dell'articolo 182-ter del regio decreto 16 marzo 1942, n. 267, ovvero alla pubblicazione della sentenza che dichiara l'annullamento dell'accordo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i crediti non ancora iscritti a ruolo, anteriori alla data di pubblicazione della proposta di accordo di composizione della crisi da sovraindebitamento o della proposta di piano del consumatore, entro il 31 dicembre del terzo anno successivo: 
+ 1) alla pubblicazione del decreto che dichiara la risoluzione o l'annullamento dell'accordo di composizione della crisi da sovraindebitamento, ai sensi dell'articolo 14 della legge 27 gennaio 2012, n. 3, ovvero la cessazione degli effetti dell'accordo, ai sensi dell'articolo 11, comma 5, o dell'articolo 12, comma 4, della medesima legge n. 3 del 2012; 
+ 2) alla pubblicazione del decreto che revoca o dichiara la cessazione degli effetti del piano del consumatore, ai sensi dell'articolo 11, comma 5, e dell'articolo 12-ter, comma 4, della legge n. 3 del 2012.
 
 Se successivamente alla chiusura delle procedure di cui alle lettere a) e b) del comma 1-bis viene dichiarato il fallimento del debitore, il concessionario procede all'insinuazione al passivo ai sensi dell'articolo 87, comma 2, senza necessita' di notificare la cartella di pagamento.
 
@@ -1019,6 +1186,24 @@ A decorrere dalla data di entrata in vigore del regolamento di cui al comma 2, l
 
 Limitatamente alle somme dovute a titolo di stipendio, di salario o di altre indennita' relative al rapporto di lavoro o di impiego, comprese quelle dovute a causa di licenziamento, le disposizioni di cui al comma 1 si applicano anche al pagamento di importi superiori a duemilacinquecento euro; in tal caso, i soggetti di cui al medesimo comma 1 verificano se il beneficiario e' inadempiente all'obbligo di versamento derivante dalla notifica di una o piu' cartelle di pagamento per un ammontare complessivo pari almeno a cinquemila euro. (133)
 
+1-ter.
+                        
+                            
+                                Relativamente alle somme di cui all'articolo 54 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dovute agli esercenti arti e professioni per l'attivita' professionale dai medesimi svolta, anche in favore di persone ammesse al patrocinio a spese dello Stato, le disposizioni di cui al comma 1 del presente articolo si applicano, a decorrere dal 15 giugno 2026, anche al pagamento di importi fino a 5.000 euro; in tal caso, i soggetti di cui allo stesso comma 1 verificano se il beneficiario e' inadempiente all'obbligo di versamento derivante dalla notifica di una o piu' cartelle di pagamento ((per un ammontare complessivo pari almeno a cinquemila euro)) e, in caso affermativo, sono tenuti a procedere, direttamente in base all'esito della verifica, al pagamento in favore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'agente della riscossione, fino a concorrenza del debito risultante dalla verifica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del beneficiario, nei limiti delle somme eventualmente eccedenti l'ammontare del predetto debito.
+
 Con regolamento del Ministro dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabilite le modalita' di attuazione delle disposizioni di cui al comma 1.
 
 Con decreto di natura non regolamentare del Ministro dell'economia e delle finanze, l'importo di cui al comma 1 puo' essere aumentato, in misura comunque non superiore al doppio, ovvero diminuito. 
@@ -1136,6 +1321,24 @@ Se nell'esecuzione non sono intervenuti altri creditori aventi diritto ad essere
 
 ## Art. 57. — (Opposizione all'esecuzione o agli atti esecutivi).
 
+1.
+                        
+                            
+                                Non sono ammesse: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le opposizioni regolate dall'articolo 615 del codice di procedura civile, fatta eccezione per quelle concernenti la pignorabilita' dei beni; ((97))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    le opposizioni regolate dall'articolo 617 del codice di procedura civile relative alla regolarita' formale ed alla notificazione del titolo esecutivo.
+
 Se e' proposta opposizione all'esecuzione o agli atti esecutivi, il giudice fissa l'udienza di comparizione delle parti avanti a se' con decreto steso in calce al ricorso, ordinando al concessionario di depositare in cancelleria, cinque giorni prima dell'udienza, l'estratto del ruolo e copia di tutti gli atti di esecuzione.
 
 ---------------
@@ -1148,6 +1351,31 @@ Se e' proposta opposizione all'esecuzione o agli atti esecutivi, il giudice fiss
 L'opposizione prevista dall'articolo 619 del codice di procedura civile deve essere promossa prima della data fissata per il primo incanto.
 
 L'opposizione non puo' essere proposta quando i mobili pignorati nella casa di abitazione o nell'azienda del debitore iscritto a ruolo o dei coobbligati, o in altri luoghi a ((loro)) appartenenti, hanno formato oggetto di una precedente vendita nell'ambito di una procedura di espropriazione forzata promossa dal concessionario a carico del medesimo debitore ((o dei medesimi coobbligati)).
+
+3.
+                        
+                            
+                                Il coniuge, i parenti e gli affini fino al terzo grado del debitore iscritto a ruolo e dei coobbligati, per quanto riguarda i beni mobili pignorati nella casa di abitazione o nell'azienda del debitore o del coobbligato, o in altri luoghi a loro appartenenti, possono dimostrare la proprieta' del bene esclusivamente con atti pubblici o scritture private di data certa anteriore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla presentazione della dichiarazione, se prevista e se presentata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al momento in cui si e' verificata la violazione che ha dato origine all'iscrizione a ruolo, se non e' prevista la presentazione della dichiarazione o se la dichiarazione non e' comunque stata presentata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al momento in cui si e' verificato il presupposto dell'iscrizione a ruolo, nei casi non rientranti nelle ipotesi di cui alle lettere a) e b).
 
 ## Art. 59. — (((Risarcimento dei danni). ))
 
@@ -1287,6 +1515,24 @@ Nel caso di inottemperanza all'ordine di pagamento si procede, previa citazione 
 
 ## Art. 72-bis. — (Pignoramento dei crediti verso terzi).
 
+1.
+                        
+                            
+                                Salvo che per i crediti pensionistici e fermo restando quanto previsto dall'articolo 545, commi quarto, quinto e sesto, del codice di procedura civile, e dall'articolo 72-ter del presente decreto l'atto di pignoramento dei crediti del debitore verso terzi puo' contenere, in luogo della citazione di cui all'articolo 543, secondo comma, numero 4, dello stesso codice di procedura civile, l'ordine al terzo di pagare il credito direttamente al concessionario, fino a concorrenza del credito per cui si procede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel termine di ((sessanta)) giorni dalla notifica dell'atto di pignoramento, per le somme per le quali il diritto alla percezione sia maturato anteriormente alla data di tale notifica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle rispettive scadenze, per le restanti somme.
+
 L'atto di cui al comma 1 puo' essere redatto anche da dipendenti dell'agente della riscossione procedente non abilitati all'esercizio delle funzioni di ufficiale della riscossione e, in tal caso, reca l'indicazione a stampa dello stesso agente della riscossione e non e' soggetto all'annotazione di cui all'articolo 44, comma 1, del decreto legislativo 13 aprile 1999, n. 112.
 
 Nel caso di inottemperanza all'ordine di pagamento, si applicano le disposizioni di cui all'articolo 72, comma 2.
@@ -1351,6 +1597,31 @@ In coerenza con le previsioni dell'articolo 18 della legge 9 agosto 2023, n. 111
 
 ## Art. 76. — (Espropriazione immobiliare).
 
+1.
+                        
+                            
+                                Ferma la facolta' di intervento ai sensi dell'articolo 499 del codice di procedura civile, l'agente della riscossione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non da' corso all'espropriazione se l'unico immobile di proprieta' del debitore, con esclusione delle abitazioni di lusso aventi le caratteristiche individuate dal decreto del Ministro per i lavori pubblici 2 agosto 1969, pubblicato nella Gazzetta Ufficiale n. 218 del 27 agosto 1969, e comunque dei fabbricati classificati nelle categorie catastali A/8 e A/9, e' adibito ad uso abitativo e lo stesso vi risiede anagraficamente; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    non da' corso all'espropriazione per uno specifico paniere di beni definiti "beni essenziali" individuato ai sensi dell'articolo 514 ((del codice di procedura civile)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi diversi da quello di cui alla lettera a), puo' procedere all'espropriazione immobiliare se l'importo complessivo del credito per cui procede supera centoventimila euro. L'espropriazione puo' essere avviata se e' stata iscritta l'ipoteca di cui all'articolo 77 e sono decorsi almeno sei mesi dall'iscrizione senza che il debito sia stato estinto.
+
 Il concessionario non procede all'espropriazione immobiliare se il valore dei beni, determinato a norma dell'articolo 79 e diminuito delle passivita' ipotecarie aventi priorita' sul credito per il quale si procede, e' inferiore all'importo indicato nel comma 1.
 
 -------------
@@ -1380,6 +1651,87 @@ L'agente della riscossione e' tenuto a notificare al proprietario dell'immobile 
  Il D.L. 2 marzo 2012, n. 16, convertito con modificazioni dalla L. 26 aprile 2012, n. 44 ha disposto (con l'art. 3, comma 6) che "La disposizione di cui al comma 1-bis dell'articolo 77 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, si applica a decorrere dalla data di entrata in vigore del presente decreto".
 
 ## Art. 78. — (Avviso di vendita).
+
+1.
+                        
+                            
+                                Il pignoramento immobiliare si esegue mediante la trascrizione, a norma dell'articolo 555, secondo comma, del codice di procedura civile, di un avviso contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' del soggetto nei confronti del quale si procede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la descrizione degli immobili con le indicazioni catastali e la precisazione dei confini; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione della destinazione urbanistica del terreno risultante dal certificato di cui all'articolo 18 della legge 28 febbraio 1985, n. 47; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il giorno, l'ora e il luogo del primo, del secondo e del terzo incanto, con intervallo minimo di venti giorni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'importo complessivo del credito per cui si procede, distinto per imposta, per periodo d'imposta, per interessi di mora e per spese di esecuzione gia' maturate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il prezzo base dell'incanto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la misura minima dell'aumento da apportare alle offerte; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'avvertenza che le spese di vendita e gli oneri tributari concernenti il trasferimento sono a carico dell'aggiudicatario; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'ammontare della cauzione ed il termine entro il quale deve essere prestata dagli offerenti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il termine di versamento del prezzo di cui all'articolo 82, comma 1; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'ingiunzione ad astenersi da qualunque atto diretto a sottrarre alla garanzia del credito i beni assoggettati all'espropriazione e i frutti di essi.
 
 Entro cinque giorni dalla trascrizione l'avviso di vendita e' notificato al soggetto nei confronti del quale si procede. In mancanza della notificazione non puo' procedersi alla vendita.
 
@@ -1413,6 +1765,25 @@ Entro il termine di cui al comma 1, l'avviso di vendita e' pubblicato sul sito i
 ))
 
 ((
+
+2.
+                        
+                            
+                                Su istanza del soggetto nei confronti del quale si procede o dell'agente della riscossione, il giudice puo' disporre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che degli incanti, ferma la data fissata per gli stessi, sia data notizia al pubblico a mezzo di giornali o con altre idonee forme di pubblicita' commerciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la vendita al valore stimato con l'ausilio di un esperto da lui nominato, nel caso in cui ritenga che il valore del bene, determinato ai sensi dell'articolo 79, sia manifestamente inadeguato.
+Se l'agente della riscossione lo richiede, il giudice puo' nominare un ausiliario che riferisca sulle caratteristiche e sulle condizioni del bene pignorato, e puo' assegnare ad esso la funzione di custode del bene.
 
 ))
 

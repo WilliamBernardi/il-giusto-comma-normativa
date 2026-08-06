@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2005-07-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -55,6 +55,16 @@ Sono trasferiti anche la documentazione corrente e i dati connessi alle funzioni
 ## Art. 5. — Norme finanziarie
 
 Al finanziamento delle funzioni trasferite si provvede, in via provvisoria, in conformita' a quanto previsto dai citati decreti del Presidente del Consiglio dei Ministri in data 26 maggio 2000 e in data 13 novembre 2000.
+
+2.
+                    
+                        
+                            Decorso il primo anno di esercizio delle funzioni, entro i successivi sei mesi la regione predispone per il Ministero dall'economia e delle finanze, un'apposita rendicontazione degli importi liquidati o accertati nell'esercizio delle funzioni di cui al punto 
+                        
+                        
+                            a)
+                            
+                                della tabella «A» allegata al citato decreto del Presidente del Consiglio dei Ministri in data 26 maggio 2000. Tale rendicontazione, con riferimento al primo anno di esercizio della funzione, viene effettuata sulla base della tabella allegata al presente decreto.
 
 Sulla base della rendicontazione di cui al comma 2, il Ministero dell'economia e delle finanze effettua l'eventuale conguaglio delle risorse da assegnare alla regione e procede, d'intesa con la medesima, alla rideterminazione delle risorse finanziarie per l'esercizio delle funzioni a regime, da effettuarsi ai sensi del comma 4. Fino a tale rideterminazione il finanziamento delle funzioni di cui al comma 2 viene effettuato, di anno in anno, con il procedimento di cui al medesimo comma.
 

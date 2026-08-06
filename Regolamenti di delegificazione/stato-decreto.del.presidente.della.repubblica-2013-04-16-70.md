@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2022-05-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -50,6 +50,66 @@ Il Comitato e' presieduto dal Presidente del Consiglio dei Ministri o dal Minist
 
 Il Comitato, con uno o piu' regolamenti, disciplina il proprio funzionamento in conformita' con le indicazioni generali contenute nel presente regolamento.
 
+3.
+                        
+                            
+                                Al Comitato spettano le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    programmazione delle attivita' di formazione, attraverso l'adozione di un programma triennale delle attivita' di formazione dei dirigenti e dei funzionari delle amministrazioni dello Stato, anche a ordinamento autonomo, e degli enti pubblici non economici, secondo la procedura di cui all'articolo 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definizione di linee guida contenenti standard metodologici, scientifici ed economici vincolanti per le amministrazioni, volti a regolare le modalita' di elaborazione dei piani di formazione di cui all'articolo 8, al fine di promuovere la qualita' dell'offerta formativa, evitare sprechi di risorse, fornire indicazioni utili per un'adeguata valutazione delle esigenze formative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordinamento della partecipazione delle Scuole alle attivita' di formazione dei dirigenti e funzionari delle amministrazioni dello Stato, anche a ordinamento autonomo, e degli enti pubblici non economici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coordinamento dell'offerta formativa, ripartendo attivita' e corsi tra le singole Scuole sulla base delle rispettive aree di competenza e nell'ambito delle rispettive disponibilita' di risorse umane, strumentali e finanziarie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    razionalizzazione della scelta delle sedi e dell'uso dei locali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    coordinamento nell'utilizzo delle risorse finanziarie delle Scuole; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    organizzazione dell'utilizzo e dello scambio dei docenti delle Scuole incaricati ai sensi dell'articolo 14; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    definizione delle linee guida per la stipula e la revisione delle convenzioni con le universita', con gli istituti di formazione e con gli enti territoriali.
+
 Le delibere del Comitato nell'esercizio delle funzioni di cui al comma 3 vincolano le Scuole all'attuazione dei conseguenti provvedimenti.
 
 L'istituzione del Comitato non comporta nuovi o maggiori oneri per la finanza pubblica; la partecipazione dei componenti a tale organismo e' a titolo gratuito e non da' diritto ad alcun emolumento, compenso, gettone di presenza o rimborso spese comunque denominati.
@@ -67,6 +127,38 @@ Le modalita' di reclutamento del personale della carriera diplomatica e della ca
 ## Art. 4. — Reclutamento dei funzionari nelle amministrazioni statali, anche ad ordinamento autonomo, e negli enti pubblici non economici
 
 L'accesso alle aree funzionali per le quali e' richiesto il possesso del diploma di laurea, nelle amministrazioni dello Stato, anche ad ordinamento autonomo, e negli enti pubblici non economici, nonche' alla qualifica di funzionario di amministrazione negli enti pubblici di ricerca, avviene, in misura non superiore al cinquanta per cento dei posti, tramite corso-concorso selettivo bandito dalla Scuola nazionale dell'amministrazione o dalle altre Scuole del Sistema unico del reclutamento e della formazione pubblica su delibera conforme del Comitato per il coordinamento delle scuole pubbliche di formazione. Per il comparto scuola, universita' ed AFAM continuano a trovare applicazione le specifiche discipline di settore. Per la quota del cinquanta per cento dei posti messa a concorso dalle singole amministrazioni restano ferme le disposizioni legislative speciali.
+
+2.
+                        
+                            
+                                I bandi di concorso per l'ammissione ai corsi-concorso indicano, tra l'altro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il titolo di studio di ammissione al concorso: i candidati non dipendenti pubblici devono essere in possesso almeno della laurea specialistica o magistrale oppure del diploma di laurea conseguito secondo gli ordinamenti didattici previgenti al decreto ministeriale 3 novembre 1999, n. 509; i candidati gia' dipendenti di amministrazioni pubbliche devono essere in possesso almeno della laurea triennale con esperienza professionale almeno triennale nell'ambito della pubblica amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero degli allievi da ammettere al corso-concorso selettivo, pari al numero dei posti da ricoprire, maggiorato del venti per cento, individuato con decreto del Presidente del Consiglio dei Ministri o del Ministro da lui delegato, di concerto con il Ministro dell'economia e delle finanze, adottato in base al Piano triennale previsionale di reclutamento di dirigenti e funzionari nelle amministrazioni dello Stato anche ad ordinamento autonomo e negli enti pubblici non economici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le diverse classi di concorso, determinate in funzione dei profili professionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri relativi alle prove concorsuali consistenti in due prove scritte, eventualmente precedute da una prova preselettiva, e una prova orale che comprende un colloquio diretto ad accertare la conoscenza di almeno una lingua straniera comunitaria tra le seguenti: inglese, francese, tedesco e spagnolo.
 
 Le commissioni esaminatrici dei concorsi di ammissione ai corsi-concorso selettivi, degli esami conclusivi della fase di formazione iniziale e degli esami finali sono nominate dalle Scuole del Sistema unico che bandiscono i concorsi.
 
@@ -111,6 +203,123 @@ Durante la partecipazione al corso e nel periodo di applicazione e' corrisposta 
 
 La percentuale sui posti di dirigente disponibili riservata al corso-concorso di cui al comma 2 non puo' essere inferiore al cinquanta per cento.
 
+5.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 24 settembre 2004, n. 272, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 2 e' abrogato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 3 sono apportate le seguenti modificazioni: 
+ 1) la rubrica e' sostituita dalla seguente: «Concorso pubblico per titoli ed esami»; 
+ 2) il comma 1 e' sostituito dal seguente: «1. L'accesso alla qualifica di dirigente nelle amministrazioni ed enti di cui all'articolo 1, comma 1, avviene per concorso pubblico per titoli ed esami, indetto dalle singole amministrazioni, nella percentuale massima del cinquanta per cento dei posti da ricoprire.»; 
+ 3) dopo il comma 2 e' aggiunto il seguente: «2-bis. Con decreto del Presidente del Consiglio dei Ministri sono stabiliti i titoli valutabili nell'ambito del concorso di cui al comma 1 ed il valore massimo assegnabile ad ognuno di essi nell'ambito della procedura concorsuale. Il valore complessivo dei titoli non puo' superare il quaranta per cento della votazione finale del candidato.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 5, comma 1, le parole: «Il concorso pubblico per esami» sono sostituite dalle seguenti: «Il concorso pubblico per titoli ed esami»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 5, comma 5, dopo le parole: «prova orale» sono aggiunte le seguenti: «, nonche' il punteggio conseguito all'esito della valutazione dei titoli»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 6, comma 1, dopo le parole: «dalla Scuola superiore della pubblica amministrazione» sono inserite le seguenti: «su delibera conforme del Comitato per il coordinamento delle scuole pubbliche di formazione»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 6, comma 2, dopo le parole: «dalla Scuola superiore della pubblica amministrazione» sono inserite le seguenti: «su delibera conforme del Comitato per il coordinamento delle scuole pubbliche di formazione»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 7 e' sostituito dal seguente: «Art. 7 (Corso-concorso selettivo di formazione dirigenziale). - 1. L'accesso alla qualifica di dirigente nelle amministrazioni di cui all'articolo 1, comma 1, per una percentuale non inferiore al cinquanta per cento dei posti da ricoprire, avviene per corso-concorso selettivo di formazione bandito dalla Scuola nazionale dell'amministrazione.»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 10 e' sostituito dal seguente: «Art. 10 (Graduatoria del concorso). - 1. Al corso-concorso di formazione dirigenziale sono ammessi i candidati utilmente inseriti nella graduatoria del concorso di ammissione entro il limite del numero dei posti disponibili di cui all'articolo 7, comma 1, maggiorato del venti per cento. 
+ 2. La graduatoria di merito del concorso di ammissione al corso-concorso e' predisposta dalla commissione esaminatrice in base al punteggio finale conseguito da ciascun candidato, costituito dalla somma dei voti di ciascuna delle prove scritte e dal voto della prova orale. A parita' di merito trovano applicazione le vigenti disposizioni in materia di titoli di preferenza. La graduatoria di merito e' approvata con decreto del Presidente della Scuola nazionale dell'amministrazione ed e' pubblicata sul sito internet della stessa Scuola. Della pubblicazione viene dato avviso nella Gazzetta Ufficiale della Repubblica italiana.»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 11 e' sostituito dal seguente: «Art. 11 (Commissioni esaminatrici). - 1. Le commissioni esaminatrici del concorso per l'ammissione al corso-concorso e degli esami di cui agli articoli 13 e 14, sono nominate con decreto del Presidente del Consiglio dei Ministri.»; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 12 e' sostituito dal seguente: «Art. 12 (Modalita' di svolgimento dei corsi). - 1. Con decreto del Presidente della Scuola nazionale dell'amministrazione, d'intesa con il Comitato per il coordinamento delle scuole pubbliche di formazione sono stabilite le modalita' di svolgimento della fase di formazione generale del corso-concorso della durata di otto mesi, della valutazione continua, dell'esame conclusivo della fase di formazione specialistica e dell'esame finale.»; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 13 e' sostituito dal seguente: «Art. 13 (Valutazione continua ed esame conclusivo della fase di formazione generale). - 1. Gli allievi che conseguono nella valutazione continua una media delle votazioni pari almeno a ottanta su cento accedono all'esame conclusivo della fase di formazione generale. Superano l'esame gli allievi che si collocano in graduatoria nel limite dei posti di dirigente in concorso.»; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'articolo 14 e' sostituito dal seguente: «Art. 14 (Formazione specialistica). - 1. Gli allievi che superano l'esame di cui all'articolo 13 vengono assegnati alle amministrazioni di destinazione, scelte sulla base delle preferenze espresse secondo l'ordine della graduatoria di merito, per svolgere un periodo di formazione specialistica di quattro mesi. Il Comitato per il coordinamento delle scuole pubbliche di formazione provvede all'organizzazione del periodo di formazione specialistica tramite le Scuole di riferimento per singolo Ministero o, in mancanza, tramite la Scuola nazionale dell'amministrazione. 
+ 2. A conclusione del periodo di formazione specialistica gli allievi sostengono un esame finale. Superano l'esame finale gli allievi che conseguono una votazione di almeno ottanta su cento.»; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'articolo 15 e' sostituito dal seguente: «Art. 15 (Graduatoria finale del corso-concorso). - 1. Le graduatorie dei vincitori sono approvate con decreto del Presidente del Consiglio dei Ministri che viene pubblicato sui siti internet delle scuole di formazione di cui all'articolo 14, comma 1, e della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica. Della pubblicazione viene dato avviso nella Gazzetta Ufficiale della Repubblica italiana. 
+ 2. La Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica provvede all'assegnazione dei vincitori alle amministrazioni di destinazione.»; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'articolo 16 e' sostituito dal seguente: «Art. 16 (Trattamento economico degli allievi). - 1. Agli allievi del corso-concorso selettivo non dipendenti pubblici la Scuola nazionale dell'amministrazione corrisponde una borsa di studio stabilita in millecinquecento euro mensili al netto degli oneri fiscali e previdenziali, rivalutata secondo l'indice ISTAT-FOI ad inizio di ciascun corso. L'importo della borsa di studio corrisposto dalla Scuola nazionale dell'amministrazione sara' rimborsato dall'amministrazione di destinazione finale. 
+ 2. Agli allievi del corso-concorso selettivo dipendenti pubblici e' corrisposto, a cura dell'amministrazione di appartenenza, il trattamento economico in godimento, senza alcun trattamento di missione. L'importo corrisposto sara' rimborsato dall'amministrazione di destinazione del dipendente all'amministrazione che lo ha anticipato. Qualora il trattamento economico del dipendente sia inferiore a millecinquecento euro mensili, la Scuola nazionale dell'amministrazione corrisponde un'integrazione. 
+ 3. Gli allievi del corso-concorso selettivo dipendenti pubblici sono collocati a disposizione della Scuola nazionale dell'amministrazione con il riconoscimento dell'anzianita' di servizio a tutti gli effetti di legge.»; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    le parole: «Scuola Superiore della Pubblica Amministrazione», ovunque ricorrano, sono sostituite dalle seguenti: «Scuola Nazionale dell'Amministrazione».
+
 ## Art. 8. — Programmazione della formazione 
  dei dirigenti e dei funzionari
 
@@ -119,6 +328,52 @@ La programmazione della formazione e' ispirata al criterio generale dell'effetti
 A tale fine, le amministrazioni statali anche a ordinamento autonomo e gli enti pubblici non economici adottano, entro e non oltre il 30 giugno di ogni anno, un Piano triennale di formazione del personale in cui sono rappresentate le esigenze formative delle singole amministrazioni. I Piani sono trasmessi al Dipartimento della funzione pubblica, al Ministero dell'economia e delle finanze e al Comitato di cui all'articolo 2 che redige il «Programma triennale delle attivita' di formazione dei dirigenti e funzionari pubblici», secondo il criterio della programmazione a scorrimento, entro il 31 ottobre di ogni anno.
 
 Gli enti territoriali possono aderire al programma di cui al comma 2, con oneri a proprio carico, comunicando al Comitato entro il 30 giugno le proprie esigenze formative.
+
+4.
+                        
+                            
+                                Il Programma triennale contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il quadro generale delle esigenze formative di ogni amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il prospetto delle risorse disponibili nell'ambito dei bilanci delle Scuole destinati alla formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la ripartizione dei corsi tra le scuole e la definizione generale della loro organizzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'individuazione delle ulteriori attivita' formative offerte dalle Scuole con costi a carico delle amministrazioni e delle relative modalita' di contribuzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la definizione delle modalita' e dell'estensione del coinvolgimento nelle attivita' di formazione delle universita' e degli istituti di formazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la definizione dei contenuti, delle modalita' di stipula e dell'estensione delle convenzioni con gli enti territoriali e con i soggetti privati.
 
 Le Scuole erogano l'attivita' formativa di competenza in conformita' con quanto stabilito dal Programma triennale.
 
@@ -165,6 +420,31 @@ La scelta delle universita' e degli istituti di formazione avviene nel rispetto 
 
 ## Art. 14. — Incarichi di docenza
 
+1.
+                        
+                            
+                                Le scuole di cui all'articolo 1 possono conferire le seguenti tipologie di incarichi di docenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    incarichi di docente a tempo pieno, di durata non superiore a tre anni rinnovabili, per lo svolgimento di attivita' di docenza, ricerca e coordinamento della didattica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incarichi di docente a tempo parziale, di durata non superiore ad un anno, per lo svolgimento di progetti formativi di particolare rilevanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi di docenza di breve durata per lo svolgimento di attivita' didattica in specifici moduli formativi.
+
 Le modalita' di conferimento dell'incarico di docente di cui alle lettere a) e b) del comma 1 e il relativo trattamento economico sono definiti dalle singole scuole in base alle procedure previste dai rispettivi ordinamenti, a seguito di valutazione delle professionalita' meglio rispondenti alle caratteristiche degli insegnamenti da coprire e nel rispetto del principio di trasparenza.
 Il trattamento economico dei docenti di cui al comma 1 e' definito nel rispetto delle linee di indirizzo stabilite dal Comitato di coordinamento delle scuole pubbliche di formazione. Gli incarichi sono conferiti utilizzando le risorse iscritte a legislazione vigente nei pertinenti capitoli di spesa delle scuole di formazione.
 
@@ -193,6 +473,80 @@ Resta fermo per il quinquennio 2010-2014 quanto previsto per il Ministero degli 
 Restano ferme altresi' le autorizzazioni alle assunzioni di personale gia' previste dalle leggi speciali vigenti in deroga alle disposizioni limitative delle assunzioni nel pubblico impiego.
 
 ## Art. 18. — Abrogazione di norme
+
+1.
+                        
+                            
+                                Sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 7-bis del decreto legislativo 30 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 28, comma 1, del decreto legislativo 30 marzo 2001, n. 165, le parole: «per esami»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 28 del decreto legislativo 30 marzo 2001, n. 165, i commi 2, 3, 4, 7 e 7-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 28, comma 5, del decreto legislativo 30 marzo 2001, n. 165, le parole: «e in misura non inferiore al 30 per cento»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 52 del decreto legislativo 30 marzo 2001, n. 165, il comma 1-ter; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 4 del decreto legislativo 1° dicembre 2009, n. 178, il comma 1, lettera a); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 5 del decreto legislativo 1° dicembre 2009, n. 178; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 10 del decreto legislativo 1° dicembre 2009, n. 178, il comma 4; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 12 del decreto legislativo 1° dicembre 2009, n. 178, i commi 3, 4 e 5; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    all'articolo 15, comma 3, del decreto legislativo 1° dicembre 2009, n. 178, le parole: «Il bilancio della Scuola e' predisposto dal dirigente amministrativo, deliberato dal Comitato di gestione, su proposta del Presidente, e approvato dal Presidente del Consiglio dei Ministri ovvero del Ministro per la pubblica amministrazione e l'innovazione, a tal fine delegato.».
 
 ## Art. 19. — Invarianza finanziaria
 

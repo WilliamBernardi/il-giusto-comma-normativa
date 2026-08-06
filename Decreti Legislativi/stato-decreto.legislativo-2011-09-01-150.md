@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-03-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,31 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro per la 
 ## - Capo I Disposizioni Generali
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Rito ordinario di cognizione: il procedimento regolato dalle norme del titolo I e del titolo III del libro secondo del codice di procedura civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Rito del lavoro: il procedimento regolato dalle norme della sezione II del capo I del titolo IV del libro secondo del codice di procedura civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Rito semplificato di cognizione: il procedimento regolato dalle norme del capo III-quater del titolo I del libro secondo del codice di procedura civile. (12) ((13))
 
 ---------------
                             AGGIORNAMENTO (12)
@@ -109,6 +134,77 @@ L'opposizione si propone davanti al giudice del luogo in cui e' stata commessa l
 
 Salvo quanto previsto dai commi 4 e 5, e salve le competenze stabilite da altre disposizioni di legge, l'opposizione si propone davanti al giudice di pace.
 
+4.
+                        
+                            
+                                L'opposizione si propone davanti al tribunale quando la sanzione e' stata applicata per una violazione concernente disposizioni in materia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di tutela del lavoro, di igiene sui luoghi di lavoro e di prevenzione degli infortuni sul lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di previdenza e assistenza obbligatoria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di tutela dell'ambiente dall'inquinamento, della flora, della fauna e delle aree protette; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di igiene degli alimenti e delle bevande; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    valutaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    di antiriciclaggio.
+
+5.
+                        
+                            
+                                L'opposizione si propone altresi' davanti al tribunale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se per la violazione e' prevista una sanzione pecuniaria superiore nel massimo a 15.493 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando, essendo la violazione punita con sanzione pecuniaria proporzionale senza previsione di un limite massimo, e' stata applicata una sanzione superiore a 15.493 euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando e' stata applicata una sanzione di natura diversa da quella pecuniaria, sola o congiunta a quest'ultima, fatta eccezione per le violazioni previste dal regio decreto 21 dicembre 1933, n. 1736, dalla legge 15 dicembre 1990, n. 386 e dal decreto legislativo 30 aprile 1992, n. 285.
+
 Il ricorso e' proposto, a pena di inammissibilita', entro trenta giorni dalla notificazione del provvedimento, ovvero entro sessanta giorni se il ricorrente risiede all'estero, e puo' essere depositato anche a mezzo del servizio postale.
 
 L'efficacia esecutiva del provvedimento impugnato puo' essere sospesa secondo quanto previsto dall'articolo 5.
@@ -117,6 +213,24 @@ Con il decreto di cui all'articolo 415, secondo comma, del codice di procedura c
 
 Nel giudizio di primo grado l'opponente e l'autorita' che ha emesso l'ordinanza possono stare in giudizio personalmente.
 L'autorita' che ha emesso l'ordinanza puo' avvalersi anche di funzionari appositamente delegati. Nel giudizio di opposizione all'ordinanza-ingiunzione di cui all'articolo 205 del decreto legislativo 30 aprile 1992, n. 285, il prefetto puo' farsi rappresentare in giudizio dall'amministrazione cui appartiene l'organo accertatore, la quale vi provvede a mezzo di propri funzionari appositamente delegati, laddove sia anche destinataria dei proventi della sanzione, ai sensi dell'articolo 208 del medesimo decreto.
+
+10.
+                        
+                            
+                                Alla prima udienza, il giudice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando il ricorso e' proposto oltre i termini di cui al comma 6, lo dichiara inammissibile con sentenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'opponente o il suo difensore non si presentano senza addurre alcun legittimo impedimento, convalida con ordinanza appellabile il provvedimento opposto e provvede sulle spese, salvo che l'illegittimita' del provvedimento risulti dalla documentazione allegata dall'opponente, ovvero l'autorita' che ha emesso l'ordinanza abbia omesso il deposito dei documenti di cui al comma 8.
 
 Il giudice accoglie l'opposizione quando non vi sono prove sufficienti della responsabilita' dell'opponente.
 
@@ -143,6 +257,24 @@ Con il decreto di cui all'articolo 415, secondo comma, del codice di procedura c
 
 Nel giudizio di primo grado le parti possono stare in giudizio personalmente. L'amministrazione resistente puo' avvalersi anche di funzionari appositamente delegati.
 
+9.
+                        
+                            
+                                Alla prima udienza, il giudice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi previsti dal comma 3 dichiara inammissibile il ricorso con sentenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'opponente o il suo difensore non si presentano senza addurre alcun legittimo impedimento, convalida con ordinanza appellabile il provvedimento opposto e provvede sulle spese, salvo che la illegittimita' del provvedimento risulti dalla documentazione allegata dall'opponente, ovvero l'autorita' che ha emesso il provvedimento impugnato abbia omesso il deposito dei documenti di cui al comma 7.
+
 Con la sentenza che accoglie l'opposizione il giudice puo' annullare in tutto o in parte il provvedimento opposto. Il giudice accoglie l'opposizione quando non vi sono prove sufficienti della responsabilita' dell'opponente. Non si applica l'articolo 113, secondo comma, del codice di procedura civile.
 
 Con la sentenza che rigetta l'opposizione il giudice determina l'importo della sanzione in una misura compresa tra il minimo e il massimo edittale stabilito dalla legge per la violazione accertata.
@@ -163,6 +295,24 @@ Sono competenti il giudice di pace, e nel caso di trasgressore minorenne, il tri
  di aiuti di Stato
 
 Ove non diversamente disposto dal presente articolo, le controversie in materia di recupero degli aiuti di Stato previste dall'articolo 1 del decreto-legge 8 aprile 2008, n. 59, convertito, con modificazioni, dalla legge 6 giugno 2008, n. 101, sono regolate dalle disposizioni contenute nell'articolo 6 del presente decreto, in quanto compatibili, ad eccezione dei commi 2, 3, 4, 5, 9 e 13.
+
+2.
+                        
+                            
+                                Nelle controversie di cui al comma 1, in deroga a quanto previsto dall'articolo 5, e nei giudizi civili aventi ad oggetto un titolo giudiziale di pagamento conseguente a una decisione di recupero, il giudice, su richiesta di parte, puo' sospendere l'efficacia esecutiva del titolo amministrativo o giudiziale di pagamento se ricorrono cumulativamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gravi motivi di illegittimita' della decisione di recupero, ovvero evidente errore nella individuazione del soggetto tenuto alla restituzione dell'aiuto di Stato o evidente errore nel calcolo della somma da recuperare e nei limiti di tale errore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pericolo di un pregiudizio imminente e irreparabile.
 
 Quando accoglie l'istanza di sospensione per motivi attinenti alla illegittimita' della decisione di recupero, il giudice provvede all'immediato rinvio pregiudiziale della questione alla Corte di giustizia dell'Unione europea, se ad essa non sia stata gia' deferita la questione di validita' dell'atto comunitario contestato. L'istanza di sospensione non puo' in ogni caso essere accolta per motivi attinenti alla legittimita' della decisione di recupero quando la parte istante, pur avendone facolta' perche' individuata o chiaramente individuabile, non abbia proposto impugnazione avverso la decisione di recupero ai sensi dell'articolo 263 del Trattato sul funzionamento dell'Unione europea, e successive modificazioni, ovvero quando, avendo proposto l'impugnazione, non abbia richiesto la sospensione della decisione di recupero ai sensi dell'articolo 278 del Trattato medesimo ovvero l'abbia richiesta e la sospensione non sia stata concessa.
 
@@ -817,6 +967,31 @@ La sentenza che definisce il giudizio e' comunicata, a cura della cancelleria, a
 
 ## Art. 34. — Modificazioni e abrogazioni
 
+1.
+                        
+                            
+                                Alla legge 24 novembre 1981, n. 689, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 22, il primo comma e' sostituito dal seguente: «Salvo quanto previsto dall'articolo 133 del decreto legislativo 2 luglio 2010, n. 104, e da altre disposizioni di legge, contro l'ordinanza-ingiunzione di pagamento e contro l'ordinanza che dispone la sola confisca gli interessati possono proporre opposizione dinanzi all'autorita' giudiziaria ordinaria. L'opposizione e' regolata dall'articolo 6 del decreto legislativo 1° settembre 2011, n. 150.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 22, i commi dal secondo al settimo sono abrogati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 22-bis e 23 sono abrogati.
+
 All'articolo 6, comma 5, della legge 13 agosto 2010, n. 136 le parole: «in deroga a quanto previsto dall'articolo 22, primo comma, della citata legge n. 689 del 1981» sono sostituite dalle seguenti: «in deroga a quanto previsto dall'articolo 6, comma 2, del decreto legislativo 1° settembre 2011, n. 150.».
 
 All'articolo 8 del decreto legislativo 19 novembre 2008, n. 195, il comma 7 e' sostituito dal seguente: «7. Contro il decreto puo' essere proposta opposizione ai sensi dell'articolo 22 della legge 24 novembre 1981, n. 689.».
@@ -824,6 +999,223 @@ All'articolo 8 del decreto legislativo 19 novembre 2008, n. 195, il comma 7 e' s
 All'articolo 262, comma 2, del decreto legislativo 3 aprile 2006, n. 152, le parole: «di cui all'articolo 23 della legge 24 novembre 1981, n. 689» sono sostituite dalle seguenti: «previsto dall'articolo 22 della legge 24 novembre 1981, n. 689».
 
 All'articolo 17 del decreto legislativo 23 aprile 2004, n. 124, il comma 3 e' sostituito dal seguente: «3. Il ricorso sospende i termini di cui agli articoli 14 e 18 della legge 24 novembre 1981, n. 689, ed all'articolo 6, comma 6, del decreto legislativo 1° settembre 2011, n.150, ed i termini di legge per i ricorsi giurisdizionali avverso verbali degli enti previdenziali.».
+
+6.
+                        
+                            
+                                Al decreto legislativo 30 aprile 1992, n. 285, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 204-bis e' sostituito dal seguente: 
+ 
+ «Art. 204-bis. 
+ 
+ 
+ (Ricorso in sede giurisdizionale). 
+ 
+ 1. Alternativamente alla proposizione del ricorso di cui all'articolo 203, il trasgressore o gli altri soggetti indicati nell'articolo 196, qualora non sia stato effettuato il pagamento in misura ridotta nei casi in cui e' consentito, possono proporre opposizione davanti all'autorita' giudiziaria ordinaria.
+L'opposizione e' regolata dall'articolo 7 del decreto legislativo 1° settembre 2011, n. 150.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 205 e' sostituito dal seguente: 
+ 
+ «Art. 205. 
+ 
+ 
+ (Opposizione all'ordinanza-ingiunzione). 
+ 
+ 1. Contro l'ordinanza-ingiunzione di pagamento di una sanzione amministrativa pecuniaria gli interessati possono proporre opposizione davanti all'autorita' giudiziaria ordinaria.
+L'opposizione e' regolata dall'articolo 6 del decreto legislativo 1° settembre 2011, n. 150.". 
+ 7. All'articolo 75 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, il comma 9 e' sostituito dal seguente: «9.
+Avverso il decreto con il quale il prefetto irroga le sanzioni di cui al comma 1 ed eventualmente formula l'invito di cui al comma 2, che ha effetto dal momento della notifica all'interessato, puo' essere fatta opposizione dinanzi all'autorita' giudiziaria ordinaria. Le controversie di cui al presente comma sono disciplinate dall'articolo 8 del decreto legislativo 1° settembre 2011, n. 150. Copia del decreto e' contestualmente inviata al questore di cui al comma 8.». 
+ 8. All'articolo 1 del decreto-legge 8 aprile 2008, n. 59, convertito, con modificazioni, dalla legge 6 giugno 2008, n. 101, sono apportate le seguenti modificazioni: 
+ a) il comma 1 e' sostituito dal seguente: «1. I giudizi civili concernenti gli atti e le procedure volti al recupero di aiuti di Stato in esecuzione di una decisione di recupero adottata dalla Commissione europea ai sensi dell'articolo 14 del regolamento (CE) n. 659/1999 del Consiglio del 22 marzo 1999 sono regolati dall'articolo 9 del decreto legislativo 1° settembre 2011, n. 150 .»; 
+ b) i commi da 2 a 6 sono abrogati. 
+ 9. All'articolo 152 del decreto legislativo 30 giugno 2003, n. 196, sono apportate le seguenti modificazioni: 
+ a) al comma 1, dopo le parole: «comprese quelle inerenti ai provvedimenti del Garante in materia di protezione dei dati personali o alla loro mancata adozione,» sono inserite le seguenti: «nonche' le controversie previste dall'articolo 10, comma 5, della legge 1° aprile 1981, n. 121, e successive modificazioni,»; 
+ b) dopo il comma 1 e' inserito il seguente: «1-bis. Le controversie di cui al comma 1 sono disciplinate dall'articolo 10 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) i commi da 2 a 14 sono abrogati. 
+ 10. Gli articoli 5, 6 e 7 della legge 2 marzo 1963, n. 320, sono abrogati. 
+ 11. L'articolo 26 della legge 11 febbraio 1971, n. 11, e' abrogato. 
+ 12. Gli articoli 46 e 47 della legge 3 maggio 1982, n. 203, sono abrogati. 
+ 13. L'articolo 9 della legge 14 febbraio 1990, n. 29, e' abrogato. 
+ 14. All'articolo 4, comma 4, della legge 12 febbraio 1955, n. 77, il secondo e il terzo periodo sono sostituiti dal seguente: «Le controversie di cui al presente comma sono disciplinate dall'articolo 12 del decreto legislativo 1° settembre 2011, n. 150.». 
+ 15. All'articolo 17 della legge 7 marzo 1996, n. 108, sono apportate le seguenti modificazioni: 
+ a) il comma 3 e' sostituito dal seguente: «3. Avverso il diniego di riabilitazione il debitore puo' proporre opposizione.
+L'opposizione e' disciplinata dall'articolo 13 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ b) al comma 4 la parola: «reclamabile» e' sostituita dalla seguente: «opponibile»; 
+ c) al comma 4 le parole: «entro dieci giorni dalla pubblicazione» sono abrogate; 
+ d) il comma 5 e' abrogato. 
+ 16. Alla legge 13 giugno 1942, n. 794, sono apportate le seguenti modificazioni: 
+ a) l'articolo 28 e' sostituito dal seguente: «28. Per la liquidazione delle spese, degli onorari e dei diritti nei confronti del proprio cliente l'avvocato, dopo la decisione della causa o l'estinzione della procura, se non intende seguire il procedimento di cui agli articoli 633 e seguenti del codice di procedura civile, procede ai sensi dell'articolo 14 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ b) gli articoli 29 e 30 sono abrogati. 
+ 17. All'articolo 170 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115, sono apportate le seguenti modificazioni: 
+ a) il comma 1 e' sostituito al seguente: «1. Avverso il decreto di pagamento emesso a favore dell'ausiliario del magistrato, del custode e delle imprese private cui e' affidato l'incarico di demolizione e riduzione in pristino, il beneficiario e le parti processuali, compreso il pubblico ministero, possono proporre opposizione. L'opposizione e' disciplinata dall'articolo 15 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ b) i commi 2 e 3 sono abrogati. 
+ 18. Al decreto legislativo 6 febbraio 2007, n. 30, sono apportate le seguenti modificazioni: 
+ a) l'articolo 8 e' sostituito dal seguente: 
+ 
+ «Art. 8. 
+ 
+ 
+ (Ricorsi avverso il mancato riconoscimento 
+ del diritto di soggiorno) 
+ 
+ 1. Avverso il provvedimento di rifiuto e revoca del diritto di cui agli articoli 6 e 7, e' ammesso ricorso all'autorita' giudiziaria ordinaria. Le controversie previste dal presente articolo sono disciplinate dall'articolo 16 del decreto legislativo 1° settembre 2011, n.150.»; 
+ b) all'articolo 22, il comma 2 e' sostituito dal seguente: «2.
+Avverso il provvedimento di allontanamento per motivi di pubblica sicurezza, per motivi imperativi di pubblica sicurezza e per i motivi di cui all'articolo 21 puo' essere presentato ricorso all'autorita' giudiziaria ordinaria. Le controversie di cui al presente comma sono disciplinate dall'articolo 17 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) all'articolo 22, ai commi 3 e 4, le parole: «ai commi 1 e 2», ovunque ricorrono, sono sostituite dalle seguenti: «al comma 1»; 
+ d) all'articolo 22, al comma 4, le parole: «o su motivi imperativi di pubblica sicurezza» sono soppresse; 
+ e) all'articolo 22, il comma 5 e' abrogato. 
+ 19. Al decreto legislativo 25 luglio 1998, n. 286, sono apportate le seguenti modificazioni: 
+ a) all'articolo 13, il comma 5-bis e' sostituito dal seguente:
+«5-bis. Nei casi previsti al comma 4 il questore comunica immediatamente e, comunque, entro quarantotto ore dalla sua adozione, al giudice di pace territorialmente competente il provvedimento con il quale e' disposto l'accompagnamento alla frontiera. L'esecuzione del provvedimento del questore di allontanamento dal territorio nazionale e' sospesa fino alla decisione sulla convalida. L'udienza per la convalida si svolge in camera di consiglio con la partecipazione necessaria di un difensore tempestivamente avvertito.
+L'interessato e' anch'esso tempestivamente informato e condotto nel luogo in cui il giudice tiene l'udienza. Lo straniero e' ammesso all'assistenza legale da parte di un difensore di fiducia munito di procura speciale. Lo straniero e' altresi' ammesso al gratuito patrocinio a spese dello Stato, e, qualora sia sprovvisto di un difensore, e' assistito da un difensore designato dal giudice nell'ambito dei soggetti iscritti nella tabella di cui all'articolo 29 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271, nonche', ove necessario, da un interprete. L'autorita' che ha adottato il provvedimento puo' stare in giudizio personalmente anche avvalendosi di funzionari appositamente delegati. Il giudice provvede alla convalida, con decreto motivato, entro le quarantotto ore successive, verificata l'osservanza dei termini, la sussistenza dei requisiti previsti dal presente articolo e sentito l'interessato, se comparso. In attesa della definizione del procedimento di convalida, lo straniero espulso e' trattenuto in uno dei centri di identificazione ed espulsione, di cui all'articolo 14, salvo che il procedimento possa essere definito nel luogo in cui e' stato adottato il provvedimento di allontanamento anche prima del trasferimento in uno dei centri disponibili. Quando la convalida e' concessa, il provvedimento di accompagnamento alla frontiera diventa esecutivo. Se la convalida non e' concessa ovvero non e' osservato il termine per la decisione, il provvedimento del questore perde ogni effetto.
+Avverso il decreto di convalida e' proponibile ricorso per cassazione. Il relativo ricorso non sospende l'esecuzione dell'allontanamento dal territorio nazionale. Il termine di quarantotto ore entro il quale il giudice di pace deve provvedere alla convalida decorre dal momento della comunicazione del provvedimento alla cancelleria.»; 
+ b) all'articolo 13, il comma 8 e' sostituito dal seguente: «8.
+Avverso il decreto di espulsione puo' essere presentato ricorso all'autorita' giudiziaria ordinaria. Le controversie di cui al presente comma sono disciplinate dall'articolo 18 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) l'articolo 13-bis e' abrogato; 
+ d) all'articolo 14, il comma 4 e' sostituito dal seguente: «4.
+L'udienza per la convalida si svolge in camera di consiglio con la partecipazione necessaria di un difensore tempestivamente avvertito.
+L'interessato e' anch'esso tempestivamente informato e condotto nel luogo in cui il giudice tiene l'udienza. Lo straniero e' ammesso all'assistenza legale da parte di un difensore di fiducia munito di procura speciale. Lo straniero e' altresi' ammesso al gratuito patrocinio a spese dello Stato, e, qualora sia sprovvisto di un difensore, e' assistito da un difensore designato dal giudice nell'ambito dei soggetti iscritti nella tabella di cui all'articolo 29 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271, nonche', ove necessario, da un interprete. L'autorita' che ha adottato il provvedimento puo' stare in giudizio personalmente anche avvalendosi di funzionari appositamente delegati. Il giudice provvede alla convalida, con decreto motivato, entro le quarantotto ore successive, verificata l'osservanza dei termini, la sussistenza dei requisiti previsti dall'articolo 13 e dal presente articolo, escluso il requisito della vicinanza del centro di identificazione e di espulsione di cui al comma 1, e sentito l'interessato, se comparso. Il provvedimento cessa di avere ogni effetto qualora non sia osservato il termine per la decisione. La convalida puo' essere disposta anche in occasione della convalida del decreto di accompagnamento alla frontiera, nonche' in sede di esame del ricorso avverso il provvedimento di espulsione.». 
+ 20. All'articolo 35 del decreto legislativo 28 gennaio 2008, n. 25, sono apportate le seguenti modificazioni: 
+ a) il comma 1 e' sostituito dal seguente: «1. Avverso la decisione della Commissione territoriale e la decisione della Commissione nazionale sulla revoca o sulla cessazione dello status di rifugiato o di persona cui e' accordata la protezione sussidiaria e' ammesso ricorso dinanzi all'autorita' giudiziaria ordinaria. Il ricorso e' ammesso anche nel caso in cui l'interessato abbia richiesto il riconoscimento dello status di rifugiato e sia stato ammesso esclusivamente alla protezione sussidiaria.»; 
+ b) il comma 2 e' sostituito dal seguente: «2. Le controversie di cui al comma 1 sono disciplinate dall'articolo 19 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) i commi da 3 a 14 sono abrogati. 
+ 21. All'articolo 30 del decreto legislativo 25 luglio 1998, n. 286, il comma 6 e' sostituito dal seguente: «6. Contro il diniego del nulla osta al ricongiungimento familiare e del permesso di soggiorno per motivi familiari, nonche' contro gli altri provvedimenti dell'autorita' amministrativa in materia di diritto all'unita' familiare, l'interessato puo' proporre opposizione all'autorita' giudiziaria ordinaria. L'opposizione e' disciplinata dall'articolo 20 del decreto legislativo 1° settembre 2011, n. 150.». 
+ 22. All'articolo 5 della legge 13 maggio 1978, n. 180, sono apportate le seguenti modificazioni: 
+ a) il primo comma e' sostituito dal seguente: «Chi e' sottoposto a trattamento sanitario obbligatorio, e chiunque vi abbia interesse, puo' proporre ricorso contro il provvedimento convalidato dal giudice tutelare.»; 
+ b) al secondo comma le parole: «Entro il termine di trenta giorni, decorrente dalla scadenza del termine di cui al secondo comma dell'articolo 3,» sono abrogate; 
+ c) il terzo comma e' sostituito dal seguente: «Alle controversie previste dal presente articolo si applica l'articolo 21 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ d) i commi dal quarto all'ottavo sono abrogati. 
+ 23. Al decreto del Presidente della Repubblica 16 maggio 1960, n. 570, sono apportate le seguenti modificazioni: 
+ a) all'articolo 82, il primo comma e' sostituito dal seguente: «Le deliberazioni adottate in materia di eleggibilita' dal Consiglio comunale possono essere impugnate da qualsiasi cittadino elettore del Comune, o da chiunque altro vi abbia diretto interesse, dinanzi all'autorita' giudiziaria ordinaria.»; 
+ b) all'articolo 82, secondo comma, le parole: «Il termine di trenta giorni, stabilito ai fini della impugnativa di cui al precedente comma, decorre dall'ultimo giorno dell'anzidetta pubblicazione.» sono abrogate; 
+ c) all'articolo 82, il terzo comma e' sostituito dal seguente: « Alle controversie previste dal presente articolo si applica l'articolo 22 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ d) all'articolo 82, i commi dal quarto all'ultimo sono abrogati; 
+ e) gli articoli 82/2, 82/3, 84 sono abrogati. 
+ 24. Alla legge 23 dicembre 1966, n. 1147, sono apportate le seguenti modificazioni: 
+ a) all'articolo 3, il primo comma e' abrogato; 
+ b) all'articolo 7, il secondo comma e' sostituito dal seguente: «Le azioni popolari e le impugnative consentite dal decreto del Presidente della Repubblica 16 maggio 1960, n. 570, e dall'articolo 70 del decreto legislativo 18 agosto 2000, n. 267, a qualsiasi elettore del Comune per quanto concerne elezioni comunali, sono consentite a qualsiasi cittadino elettore della Provincia per quanto concerne le elezioni provinciali. Le attribuzioni conferite da tali norme al Consiglio comunale, si intendono devolute al Consiglio provinciale; quelle devolute al sindaco si intendono devolute al presidente della Giunta provinciale. Alle controversie previste dal presente comma si applica l'articolo 22 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) all'articolo 7, il quarto comma e' abrogato. 
+ 25. All'articolo 19 della legge 17 febbraio 1968, n. 108, sono apportate le seguenti modificazioni: 
+ a) all'articolo 19, il primo comma e' abrogato; 
+ b) il secondo comma e' sostituito dal seguente: «Le azioni popolari e le impugnative previste per qualsiasi elettore del comune dal decreto del Presidente della Repubblica 16 maggio 1960, n. 570, e dall'articolo 70 del decreto legislativo 18 agosto 2000, n. 267, sono consentite a qualsiasi elettore della regione nonche' al Prefetto del capoluogo di Regione, in qualita' di rappresentante dello Stato per i rapporti con il sistema delle autonomie. Alle controversie previste dal presente comma si applica l'articolo 22 del decreto legislativo 1° settembre 2011, n.150.»; 
+ c) il terzo comma e' abrogato. 
+ 26. All'articolo 70 del decreto legislativo 18 agosto 2000, n. 267, sono apportate le seguenti modificazioni: 
+ a) al comma 1 le parole: «con ricorso da notificare all'amministratore ovvero agli amministratori interessati, nonche' al sindaco o al presidente della provincia.» sono abrogate; 
+ b) il comma 3 e' sostituito dal seguente: «3. Alle controversie previste dal presente articolo si applica l'articolo 22 del decreto legislativo 1° settembre 2011, n. 150."»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 4 e' abrogato. 
+ 27. Alla legge 24 gennaio 1979, n. 18, sono apportate le seguenti modificazioni: 
+ a) all'articolo 44, il primo comma e' sostituito dal seguente: «Fermo restando quanto disposto dall'articolo 66 della Costituzione, ai giudizi relativi alle condizioni di eleggibilita' e di compatibilita', stabilite dalla presente legge in relazione alla carica di membro del Parlamento europeo spettante all'Italia, si applica l'articolo 23 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ b) all'articolo 44, al secondo comma le parole: «con ricorso sul quale il presidente fissa, con decreto, l'udienza di discussione della causa in via di urgenza e provvede alla nomina del giudice relatore. Il ricorso deve essere depositato, a pena di decadenza, entro 60 giorni dalla pubblicazione nella Gazzetta Ufficiale dei nominativi degli eletti a norma dell'articolo 24 della presente legge.» sono abrogate; 
+ c) all'articolo 44, i commi dal terzo all'ultimo sono abrogati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 45 e 47 sono abrogati. 
+ 28. Al decreto del Presidente della Repubblica 20 marzo 1967, n. 223, sono apportate le seguenti modificazioni: 
+ a) all'articolo 42, il primo comma e' sostituito dal seguente: «Contro le decisioni della Commissione elettorale circondariale o delle sue Sottocommissioni, qualsiasi cittadino ed il procuratore della Repubblica presso il tribunale competente possono proporre impugnativa davanti all'autorita' giudiziaria ordinaria.»; 
+ b) all'articolo 42, il terzo comma, e' sostituito dal seguente: «Alle controversie previste dal presente articolo si applica l'articolo 24 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) l'articolo 44 e' sostituito dal seguente: 
+ 
+ «Art. 44. 
+ 
+ 
+ (Legge 7 ottobre 1947, n. 1058, art. 35) 
+ 
+ Il pubblico ministero, se riscontra nel fatto che ha dato origine al ricorso estremi di reato, promuove l'azione penale entro il medesimo termine previsto per la proposizione dell'impugnativa»; 
+ d) gli articoli 43, 45 e 46 sono abrogati. 
+ 29. All'articolo 4 del decreto-legge 22 settembre 2006, n. 259, convertito, con modificazioni, dalla legge 20 novembre 2006, n. 281, il comma 2, ultimo periodo, e' sostituito dal seguente: «Si applica l'articolo 25 del decreto legislativo 1° settembre 2011, n. 150.». 
+ 30. Alla legge 16 febbraio 1913, n. 89, sono apportate le seguenti modificazioni: 
+ a) all'articolo 158, comma 1, le parole: « , con reclamo alla corte di appello del distretto nel quale ha sede la Commissione, nel termine di trenta giorni dalla notificazione della decisione, a cura della parte interessata o, in difetto, nel termine di un anno dal suo deposito» sono abrogate; 
+ b) all'articolo 158, il comma 2 e' sostituito dal seguente: «2.
+Alle controversie previste dal presente articolo si applica l'articolo 26 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) all'articolo 158, al comma 3 le parole: « nei termini di cui al comma 1» sono sostituite dalle seguenti: «nei termini previsti dall'articolo 26 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ d) gli articoli 158-bis e 158-ter sono abrogati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 158-novies e' sostituito dal seguente: «158-novies.
+1. I provvedimenti cautelari pronunciati dalla Commissione e dalla corte di appello sono reclamabili nei modi previsti dall'articolo 26 del decreto legislativo 1° settembre 2011, n. 150.»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 158-decies, il comma 3 e' abrogato. 
+ 31. Alla legge 3 febbraio 1963, n. 69, sono apportate le seguenti modificazioni: 
+ a) all'articolo 63, il primo comma e' sostituito dal seguente: «Le deliberazioni indicate nell'articolo precedente possono essere impugnate dinanzi all'autorita' giudiziaria ordinaria.»; 
+ b) all'articolo 63, il secondo comma e' sostituito dal seguente: «Le controversie previste dal presente articolo sono disciplinate dall'articolo 27 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) all'articolo 63, il terzo comma e' abrogato; 
+ d) gli articoli 64 e 65 sono abrogati. 
+ 32. Al decreto legislativo 25 luglio 1998, n. 286, sono apportate le seguenti modificazioni: 
+ a) all'articolo 44, il comma 1 e' sostituito dal seguente: «1.
+Quando il comportamento di un privato o della pubblica amministrazione produce una discriminazione per motivi razziali, etnici, linguistici, nazionali, di provenienza geografica o religiosi, e' possibile ricorrere all'autorita' giudiziaria ordinaria per domandare la cessazione del comportamento pregiudizievole e la rimozione degli effetti della discriminazione.»; 
+ b) all'articolo 44, il comma 2 e' sostituito dal seguente: «2.
+Alle controversie previste dal presente articolo si applica l'articolo 28 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) all'articolo 44, il comma 8 e' sostituito dal seguente: «8.
+Chiunque elude l'esecuzione di provvedimenti, diversi dalla condanna al risarcimento del danno, resi dal giudice nelle controversie previste dal presente articolo e' punito ai sensi dell'articolo 388, primo comma, del codice penale.»; 
+ d) all'articolo 44, al comma 10 le parole: «Il giudice, nella sentenza che accerta le discriminazioni sulla base del ricorso presentato ai sensi del presente articolo, ordina al datore di lavoro di definire, sentiti i predetti soggetti e organismi, un piano di rimozione delle discriminazioni accertate» sono soppresse; 
+ e) all'articolo 44, i commi da 3 a 7 e il comma 9 sono abrogati. 
+ 33. Al decreto legislativo 9 luglio 2003, n. 215, sono apportate le seguenti modificazioni: 
+ a) all'articolo 4, il comma 1 e' sostituito dal seguente: «1. I giudizi civili avverso gli atti e i comportamenti di cui all'articolo 2 sono regolati dall'articolo 28 del decreto legislativo 1° settembre 2011, n.150. In caso di accertamento di atti o comportamenti discriminatori, come definiti dall'articolo 2 del presente decreto, si applica, altresi', l'articolo 44, comma 11, del decreto legislativo 25 luglio 1998, n. 286.»; 
+ b) all'articolo 4, i commi da 3 a 6 sono abrogati. 
+ 34. Al decreto legislativo 9 luglio 2003, n. 216, sono apportate le seguenti modificazioni: 
+ a) all'articolo 4, il comma 2 e' sostituito dal seguente: «2. I giudizi civili avverso gli atti e i comportamenti di cui all'articolo 2 sono regolati dall'articolo 28 del decreto legislativo 1° settembre 2011, n. 150. In caso di accertamento di atti o comportamenti discriminatori, come definiti dall'articolo 2 del presente decreto, si applica, altresi', l'articolo 44, comma 11, del decreto legislativo 25 luglio 1998, n. 286.»; 
+ b) all'articolo 4, i commi da 4 a 7 sono abrogati. 
+ 35. Alla legge 1° marzo 2006, n. 67, sono apportate le seguenti modificazioni: 
+ a) all'articolo 3, il comma 1 e' sostituito dal seguente: «1. I giudizi civili avverso gli atti e i comportamenti di cui all'articolo 2 sono regolati dall'articolo 28 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ b) all'articolo 3, i commi da 2 a 4 sono abrogati. 
+ 36. Al decreto legislativo 11 aprile 2006, n. 198, sono apportate le seguenti modificazioni: 
+ a) all'articolo 55-quinquies, il comma 1 e' sostituito dal seguente: «1. In caso di violazione dei divieti di cui all'articolo 55-ter, e' possibile ricorrere all'autorita' giudiziaria ordinaria per domandare la cessazione del comportamento pregiudizievole e la rimozione degli effetti della discriminazione.»; 
+ b) all'articolo 55-quinquies, il comma 2 e' sostituito dal seguente: «2. Alle controversie previste dal presente articolo si applica l'articolo 28 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ c) all'articolo 55-quinquies, il comma 9 e' sostituito dal seguente: «9. Chiunque non ottempera o elude l'esecuzione di provvedimenti, diversi dalla condanna al risarcimento del danno, resi dal giudice nelle controversie previste dal presente articolo e' punito con l'ammenda fino a 50.000 euro o l'arresto fino a tre anni.»; 
+ d) all'articolo 55-quinquies, i commi da 3 a 7 sono abrogati; 
+ e) l'articolo 55-sexies e' abrogato. 
+ 37. All'articolo 54 del decreto legislativo 8 giugno 2001, n. 327, sono apportate le seguenti modificazioni: 
+ a) il comma 1 e' sostituito dal seguente: « 1. Decorsi trenta giorni dalla comunicazione prevista dall'articolo 27, comma 2, il proprietario espropriato, il promotore dell'espropriazione o il terzo che ne abbia interesse puo' impugnare innanzi all'autorita' giudiziaria gli atti dei procedimenti di nomina dei periti e di determinazione dell'indennita', la stima fatta dai tecnici, la liquidazione delle spese di stima e comunque puo' chiedere la determinazione giudiziale dell'indennita'. Le controversie di cui al presente comma sono disciplinate dall'articolo 29 del decreto legislativo 1° settembre 2011, n. 150.»; 
+ b) i commi dal 2 al 4 sono abrogati. 
+ 38. All'articolo 67 della legge 31 maggio 1995, n. 218, sono apportate le seguenti modificazioni: 
+ a) al comma 1 le parole: «alla corte di appello del luogo di attuazione» sono sostituite dalle seguenti: «all'autorita' giudiziaria ordinaria»; 
+ b) dopo il comma 1 e' inserito il seguente: «1-bis. Le controversie di cui al comma 1 sono disciplinate dall'articolo 30 del decreto legislativo 1° settembre 2011, n. 150.». 
+ 39. Alla legge 14 aprile 1982, n. 164, sono apportate le seguenti modificazioni: 
+ a) all'articolo 1, dopo il primo comma e' inserito il seguente: «Le controversie di cui al primo comma sono disciplinate dall'articolo 31 del decreto legislativo 1° settembre 2011, n.150.»; 
+ b) all'articolo 6, primo comma, le parole: «il ricorso di cui al primo comma dell'articolo 2 deve essere proposto» sono sostituite dalle seguenti: «la domanda di rettificazione di attribuzione di sesso deve essere proposta»; 
+ c) gli articoli 2 e 3 e l'articolo 6, secondo comma, sono abrogati. 
+ 40. L'articolo 3 delle disposizioni di legge relative alla riscossione delle entrate patrimoniali dello Stato e degli altri enti pubblici approvato con regio decreto 14 aprile 1910, n. 639, e' sostituito dal seguente: 
+ 
+ «Art. 3. 
+ 
+ 
+ (Art. 3, legge 24 dicembre 1908, n. 797). 
+ 
+ Avverso l'ingiunzione prevista dal comma 2 si puo' proporre opposizione davanti all'autorita' giudiziaria ordinaria.
+L'opposizione e' disciplinata dall'articolo 32 del decreto legislativo 1° settembre 2011, n. 150, .». 
+ 41. All'articolo 32 della legge 16 giugno 1927, n. 1766, sono apportate le seguenti modificazioni: 
+ a) al primo comma le parole: «il reclamo alle Corti di appello, aventi giurisdizione nei territori ove sono situati i terreni in controversia, o la loro maggior parte» sono sostituite dalle seguenti: «reclamo dinanzi all'autorita' giudiziaria ordinaria. Le controversie previste dal presente comma sono disciplinate dall'articolo 33 del decreto legislativo 1°settembre 2011, n. 150.»; 
+ b) i commi dal secondo al quinto sono abrogati. 
+ 42. Alla legge 10 luglio 1930, n. 1078, sono abrogati gli articoli dal 2 all'8.
 
 ## Art. 35. — Clausola di invarianza finanziaria
 

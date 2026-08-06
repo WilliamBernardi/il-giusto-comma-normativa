@@ -8,8 +8,8 @@ codice_redazionale: 046U0606
 vigente: true
 source: normattiva-opendata
 collection: Regi decreti legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:48Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 REGIO DECRETO LEGISLATIVO

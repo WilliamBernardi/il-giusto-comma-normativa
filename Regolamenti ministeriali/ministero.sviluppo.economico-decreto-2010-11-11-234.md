@@ -8,8 +8,8 @@ codice_redazionale: 010G0253
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,4 +26,22 @@ Ravvisata la necessita' di apportare modificazioni al citato regolamento, al fin
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 20 settembre 2010;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            All'articolo 5 del decreto del Ministro dello sviluppo economico del 27 marzo 2008, n. 87, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera c), e' aggiunta la seguente lettera: «d) finanziamenti agevolati;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 e' aggiunto infine il seguente periodo: «Per i contributi in conto interessi di cui al comma 1, lettera c) e per i finanziamenti agevolati di cui al comma 1, lettera d), la misura del contributo interessi e del tasso agevolato e' fissata, con i decreti di cui all'articolo 8, come percentuale del tasso di riferimento di cui al comma 3».
 

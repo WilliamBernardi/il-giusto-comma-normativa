@@ -8,8 +8,8 @@ codice_redazionale: 005G0056
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,80 @@ Il presente regolamento disciplina i criteri e le modalita' di incentivazione de
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «legge»: la legge 1° agosto 2002, n. 166;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «agevolazione tariffaria»: l'obbligo dell'impresa ferroviaria a rendere un servizio di trasporto a favore di determinate categorie di viaggiatori a condizioni tariffarie agevolate o gratuite;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «impresa ferroviaria»: qualsiasi impresa privata o pubblica avente sede legale in uno degli Stati membri dell'Unione europea ed avente titolo ad accedere all'infrastruttura ferroviaria nazionale, la cui attivita' principale consiste nell'espletamento di servizi di trasporto di merci o di persone per ferrovia e che garantisce obbligatoriamente la trazione, ai sensi dell'articolo 3 del decreto legislativo 8 luglio 2003, n. 188;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «impresa»: impresa individuale, o in forma societaria, o loro consorzi, costituiti ai sensi dell'articolo 2602 del codice civile, regolarmente costituiti ed aventi sede legale in uno degli Stati membri dell'Unione europea, che commissiona treni per il trasporto di merci ai sensi del comma 5 dell'articolo 38 della legge, in conto proprio o di terzi. Ai sensi della decisione della Commissione europea C(2003) 4358 del 10 dicembre 2003 sono incluse, su base di reciprocita', anche le imprese svizzere che operano sul territorio italiano;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «trasporto combinato»: trasporto merci per cui l'autocarro, il rimorchio, il semirimorchio con o senza veicolo trattore, la cassa mobile o il contenitore effettuano la parte iniziale o terminale del tragitto su strada e l'altra parte per ferrovia senza rottura di carico;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «trasporto ferroviario di merci pericolose»: il trasporto di merci, anche in carri tradizionali, classificate dal regolamento internazionale per il trasporto di merci pericolose (RID);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «trasporto accompagnato»: trasporto di merci, caricate su veicoli adibiti al trasporto di merci su strada, mediante carri ferroviari speciali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «treno completo»: treno commissionato ad un'impresa ferroviaria da un'unica impresa, la cui composizione di carri ferroviari carichi o di carri cisterna per il trasporto di merci pericolose raggiunga almeno il trenta per cento della massima lunghezza ammessa dalla linea origine/destinazione ovvero il trenta per cento della massa trainabile ammessa dal locomotore;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «utente del trasporto»: impresa, come definita ai sensi del presente articolo, per il cui conto viene svolto il trasporto di merci per ferrovia in quanto titolare della proprieta' della merce per la quale il trasporto e' effettuato;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «grado di bilanciamento del traffico»: il rapporto, su una determinata relazione, valutato su base annua ed espresso in percentuale, fra le unita' intermodali ed i carri cisterna per il trasporto di merci pericolose trasportate da ciascuna impresa nel verso di percorrenza meno carico di unita' e le unita' trasportate nel verso maggiormente carico.
+
 ## Art. 3. — Regolazione del mercato del trasporto ferroviario
 
 Il Ministro delle infrastrutture e dei trasporti, con propri decreti, disciplinera' l'accesso dei veicoli stradali, nei giorni festivi e prefestivi, ai terminal ferroviari intermodali, al fine di favorire il trasporto combinato delle merci e il trasporto delle merci pericolose per ferrovia.
@@ -42,6 +116,24 @@ Il Ministro delle infrastrutture e dei trasporti, con propri decreti, discipline
 ## Art. 4. — Agevolazioni tariffarie in materia di trasporto ferroviario passeggeri
 
 A decorrere dal sessantesimo giorno successivo alla data di emanazione della deliberazione del Comitato interministeriale per la programmazione economica (CIPE) ai sensi del comma 3, le agevolazioni tariffarie per il trasporto ferroviario di passeggeri previste dall'articolo 2 del decreto del Ministro dei trasporti n. 1-T del 3 gennaio 1990 sono soppresse.
+
+2.
+                        
+                            
+                                A decorrere dalla medesima data le Amministrazioni statali competenti regolano direttamente, mediante convenzioni da stipulare con le imprese ferroviarie, le agevolazioni tariffarie da applicare in relazione a:
+ 
+                            
+                            
+                                a)
+                                
+                                    categorie sociali meritevoli di tutela, in attuazione dell'articolo 117 della Costituzione ed in conformita' con i principi di solidarieta' e di sostegno sanciti nella Costituzione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    funzioni o istituzioni di utilita' collettiva che rientrano nella competenza dello Stato a norma dell'articolo 117 della Costituzione.
 
 Entro novanta giorni dalla data di entrata in vigore del presente regolamento il CIPE, su proposta del Ministero delle infrastrutture e dei trasporti, previo parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano di cui all'articolo 1 del decreto legislativo 28 agosto 1997, n. 281, ed in conformita' ai principi di cui agli articoli 73 e 87 del Trattato sull'Unione europea del 7 febbraio 1992, procede ad individuare le categorie dei soggetti beneficiari e l'elenco delle amministrazioni tenute all'applicazione.
 In sede di prima applicazione puo' procedere mediante revisione delle previsioni di cui all'articolo 2 del decreto del Ministro dei trasporti n. 1-T del 3 gennaio 1990, di cui al comma 1. Il CIPE provvede altresi' a quantificare le risorse da destinare alle Amministrazioni competenti, a valere sul capitolo 1542 (U.P.B. 3.1.2.8 - Ministero economia e finanze) del bilancio di previsione annuale dello Stato.
@@ -64,6 +156,31 @@ Il Ministero delle infrastrutture e dei trasporti procede ad elaborare il Piano 
 
 I sistemi di incentivazione di cui al presente articolo rispondono a criteri di non discriminatorieta', equita', trasparenza.
 La misura dell'incentivazione non puo' essere superiore alla differenza del valore monetario dei costi esterni imputabili al trasporto di merci su strada e dei costi esterni imputabili al trasporto di merci su ferro, ed entro questi limiti e' articolata in modo da massimizzare l'efficacia del sistema di incentivazione che consiste nell'aumento ovvero nel contenimento della riduzione della quota di merci trasportate per ferrovia.
+
+3.
+                        
+                            
+                                I sistemi di incentivazione di cui al comma 1 incidono su una o piu' delle seguenti variabili:
+ 
+                            
+                            
+                                a)
+                                
+                                    tariffe applicate all'utente del trasporto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    livello della qualita' dei servizi offerti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dotazione di beni durevoli utilizzati per la produzione di servizi di trasporto di merci per ferrovia.
 
 Il Piano di cui al comma 1 e' sottoposto alla valutazione della Commissione europea, ai sensi del regolamento (CE) n. 659/1999 del Consiglio, del 22 marzo 1999.
 
@@ -102,6 +219,80 @@ Alle imprese che si impegnano contrattualmente con il Ministero delle infrastrut
 
 L'impegno di cui al comma 1 nei confronti del Ministero delle infrastrutture e dei trasporti dovra' risultare da apposito atto d'obbligo, in forza del quale l'impresa dichiara l'entita' del quantitativo minimo, per il triennio di riferimento e distinto per ciascun anno, sia di treni completi di trasporto combinato o di merci pericolose che l'impresa stessa si impegna ad effettuare, sia delle corrispondenti quantita' complessive di treni-chilometro. L'atto d'obbligo regola i rapporti tra il Ministero delle infrastrutture e dei trasporti e l'impresa, specificando gli obblighi che l'impresa e' tenuta a rispettare e disciplinando le modalita' di dimostrazione e verifica dei predetti obblighi, nonche' le condizioni e modalita' di erogazione degli incentivi e i casi di decadenza dal diritto di attribuzione degli incentivi stessi.
 
+3.
+                        
+                            
+                                La sottoscrizione dell'atto d'obbligo dovra' essere preceduta da apposita istanza di ammissione all'incentivo, redatta in lingua italiana ed a firma del legale rappresentante dell'impresa da presentarsi entro sessanta giorni dalla data di entrata in vigore del decreto ministeriale di cui all'articolo 8, contenente l'indicazione della tipologia di trasporto e corredata dalla seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    certificato di iscrizione dell'impresa presso la Camera di commercio, rilasciato anche ai sensi della legge 19 marzo 1990, n. 55, e successive modificazioni, ovvero presso organismi equivalenti degli Stati membri dell'Unione europea;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione di non trovarsi nelle condizioni di cui all'articolo 11, comma 1, del decreto legislativo 24 luglio 1992, n. 358. Alle imprese aventi sede legale in uno degli altri Paesi dell'Unione europea, si applica l'articolo 11, comma 3, dello stesso decreto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione firmata dal legale rappresentante dell'impresa circa il rispetto dei contratti di lavoro e delle norme riguardanti la sicurezza sul lavoro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazione del quantitativo di treni completi e dei corrispondenti treni-chilometro per i quali l'impresa intende impegnarsi per ciascuno degli anni del triennio, nonche' descrizione dettagliata dei servizi per i quali l'impresa intende accedere all'erogazione degli incentivi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    copia del contratto stipulato con le imprese ferroviarie, contenente anche gli impegni delle imprese ferroviarie in termini di standard minimi di qualita', con particolare riferimento alla regolarita', alla puntualita' e all'affidabilita', che vengono garantiti al contraente, nonche' i correlati sistemi risarcitori da applicare in caso di mancato raggiungimento degli standard;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dichiarazione di aver proceduto alla stipulazione del contratto di cui alla lettera e) previo espletamento di indagine di mercato tra le imprese ferroviarie operative sul mercato;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dichiarazione di non beneficiare di altre forme di incentivazione ai sensi dell'articolo 8;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    se l'impresa non e' utente del trasporto: dichiarazione dello schema tariffario applicato, con contestuale individuazione delle riduzioni tariffarie che l'impresa si obbliga ad applicare alla clientela quale effetto degli incentivi. Ciascuna impresa e' tenuta a destinare a favore dei suoi clienti una riduzione delle tariffe applicate almeno pari all'ammontare degli incentivi percepibili, relativi alla componente dell'incentivo base non legata al grado di bilanciamento, tenendo conto della variazione delle componenti di costo;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dichiarazione con cui l'impresa si obbliga ad attenersi alle prescrizioni, comunitarie e nazionali, previste dalla normativa vigente, in particolare in materia di concorrenza tra imprese; le imprese che siano soggette a un'influenza dominante da parte di un'impresa ferroviaria si obbligano a tenere evidenza contabile separata in relazione alle attivita' oggetto di incentivazione;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    descrizione degli effetti derivanti dall'erogazione degli incentivi, in termini di utilizzo del trasporto per ferrovia in relazione alle quantita' di treni completi e di treni-chilometro effettuati negli anni 2002 e 2003 per le tipologie di trasporto incentivate.
+
 Il contratto con le imprese ferroviarie puo' prevedere anche la facolta' di risoluzione anticipata del rapporto. Tale facolta' potra' essere esercitata, purche' il beneficiario costituisca un nuovo contratto, per il periodo residuo, con altra impresa ferroviaria per la realizzazione del medesimo quantitativo minimo annuo di treni completi e di treni-chilometro di trasporto combinato o di merci pericolose, e previo espletamento dell'indagine di mercato ai sensi del comma 3, lettera f).
 
 ## Art. 10. — Criteri e modalita' per la corresponsione dell'incentivo di cui al comma 5 dell'articolo 38 della legge e decadenza dal diritto di percepire l'incentivo
@@ -134,7 +325,57 @@ Ai contributi di cui al presente articolo possono accedere le imprese e gli uten
 
 I beni per i quali siano stati ottenuti i contributi di cui al presente articolo non possono essere sottratti all'uso previsto ai fini dello sviluppo del trasporto di merci su ferrovia e non possono essere alienati per il numero di anni, a decorrere dalla data di acquisto, indicato nel decreto ministeriale di cui al comma 1.
 
+4.
+                        
+                            
+                                Nel caso di acquisizione mediante operazione di leasing finanziario:
+ 
+                            
+                            
+                                a)
+                                
+                                    la durata del leasing dovra' estendersi per l'intero periodo di non alienabilita' del bene, indicato nel decreto di cui al comma 1. Tuttavia potra' prevedersi anche durata inferiore qualora il soggetto beneficiario del contributo si impegni al rinnovo dell'operazione finanziaria, alla scadenza, per il periodo residuo ovvero al riscatto del bene;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'entita' dei canoni anticipati, al netto della quota interessi, non potra' essere inferiore all'importo del contributo.
+
 Non e' ammesso il cumulo, per gli stessi beni, dei contributi concessi ai sensi del presente articolo con i contributi previsti da altre disposizioni vigenti in Italia, fatte salve le agevolazioni fiscali di tipo generale.
+
+6.
+                        
+                            
+                                Entro sessanta giorni dalla data di entrata in vigore del decreto di cui al comma 1, i soggetti che intendono accedere ai contributi di cui al presente articolo presentano istanza al Ministero delle infrastrutture e dei trasporti, redatta in lingua italiana ed a firma del legale rappresentante del soggetto imprenditoriale. L'istanza e' corredata di:
+ 
+                            
+                            
+                                a)
+                                
+                                    certificato di iscrizione dell'impresa presso la Camera di commercio, rilasciato anche ai sensi della legge 19 marzo 1990, n. 55, e successive modificazioni, ovvero presso organismi equivalenti degli Stati membri dell'Unione europea, nonche' idonea documentazione da cui risulti l'espletamento di una delle attivita' di cui al comma 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione di non trovarsi nelle condizioni di cui all'articolo 11 del decreto legislativo 24 luglio 1992, n. 358. Alle imprese aventi sede legale in uno degli altri Paesi dell'Unione europea, si applica l'articolo 11, comma 3, dello stesso decreto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    piano pluriennale di attivita', contenente altresi' l'indicazione dettagliata degli investimenti programmati per i quali e' richiesta la contribuzione ai sensi del presente articolo, nonche' le previsioni di utilizzo e di efficacia dei medesimi investimenti ai fini del riequilibrio modale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazione dei costi di acquisizione dei beni per i quali e' richiesta la contribuzione, corredata da opportune indagini di mercato.
 
 I contributi di cui al presente articolo sono assegnati a tutti i soggetti che ne facciano richiesta, alle condizioni e nei limiti stabiliti nel presente articolo. Se le richieste di contributi, per una categoria di beni, risultano superiori alla disponibilita' di risorse, i contributi stessi vengono ripartiti tra le singole imprese proporzionalmente alle quantita' che sarebbero state assegnate in presenza delle intere somme necessarie. Prima del riparto, le eventuali eccedenze di somme relative alle categorie di beni per le quali le richieste non saturano le disponibilita' verranno distribuite alle categorie di beni di cui al periodo precedente, mediante l'emanazione di un decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze. La ripartizione delle somme recuperate e' effettuata incrementando, per le singole categorie per le quali si sia verificata mancata capienza, il limite massimo per categoria di bene, di quantita' proporzionali all'ammontare degli stessi limiti definiti con il decreto di cui al comma 1.
 
@@ -150,9 +391,154 @@ Le risorse di cui al comma 7 dell'articolo 38 della legge sono destinate alla co
 
 Gli accordi di programma di cui al presente articolo hanno per oggetto progetti di sviluppo del trasporto combinato accompagnato o non accompagnato finalizzati a ridurre la congestione stradale, a migliorare le prestazioni ambientali del sistema di trasporti e a potenziare il trasporto combinato, contribuendo ad un sistema di trasporti efficace, efficiente e sostenibile.
 
+3.
+                        
+                            
+                                Puo' essere ammesso alla stipulazione di un accordo di programma un progetto che risponda a una delle seguenti tipologie:
+ 
+                            
+                            
+                                a)
+                                
+                                    azione di trasferimento modale, finalizzata al trasferimento di merci dal trasporto interamente su gomma al trasporto combinato mediante l'attivazione di nuovi servizi ovvero mediante lo sviluppo di servizi gia' esistenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    azione innovativa mirante a superare le barriere strutturali presenti nel mercato nazionale del trasporto combinato e ad aumentare l'efficienza della catena del medesimo trasporto, in riferimento ad uno o piu' dei seguenti aspetti: logistica, tecnologia, metodi, attrezzature, prodotti o servizi forniti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    azione innovativa volta a migliorare la cooperazione al fine di ottimizzare in modo strutturale i metodi e le procedure di lavoro nella catena del trasporto combinato, tenuto conto delle esigenze logistiche.
+
+4.
+                        
+                            
+                                I progetti di cui al presente articolo possono accedere alla stipulazione dell'accordo di programma purche':
+ 
+                            
+                            
+                                a)
+                                
+                                    non comportino distorsioni di concorrenza fra servizi di trasporto alternativi al solo trasporto su strada, in misura contraria all'interesse generale sia nazionale sia comunitario. A tale fine, l'intensita' dell'aiuto deve essere proporzionale all'obiettivo da conseguire mediante il progetto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano finalizzati ad un trasferimento tra modi reale, misurabile, sostenibile;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consistano in azioni che, sulla base di previsioni realistiche, risultino economicamente valide successivamente al periodo di validita' dell'accordo di programma.
+
 La selezione dei progetti e' effettuata, previa pubblicazione nella Gazzetta Ufficiale della Repubblica italiana di un invito a presentare offerte ai fini di quanto previsto dall'articolo 12 della legge 7 agosto 1990, n. 241, da una Commissione nominata dal Ministero delle infrastrutture e dei trasporti, costituita da rappresentanti dei Ministeri competenti ai sensi del comma 1.
 L'invito a presentare offerte indica i casi di esclusione dalla partecipazione alla selezione previsti dalla normativa vigente e contiene ulteriori specificazioni di quanto disposto dal presente articolo, ai fini del procedimento di selezione dei progetti. La selezione tiene conto dei benefici ambientali previsti in conseguenza dei progetti proposti, nonche' del contributo dei progetti stessi alla riduzione della congestione stradale e allo sviluppo del trasporto combinato. Nel procedimento di selezione dei progetti, la Commissione di cui al presente comma puo' avvalersi dell'assistenza di uno o piu' soggetti esterni alle Amministrazioni procedenti.
 L'avvenuta selezione degli accordi e' oggetto di pubblicita' notizia nella Gazzetta Ufficiale delle Comunita' europee.
+
+6.
+                        
+                            
+                                Ciascuna impresa ferroviaria interessata presentera' un fascicolo di descrizione del progetto, contenente almeno le seguenti informazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    obiettivo del progetto e individuazione delle imprese coinvolte;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione dell'attivita' nella quale il progetto consiste, con l'indicazione, anche, delle caratteristiche qualitative del servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    descrizione del segmento di mercato di riferimento; indicazione dell'utenza potenziale del servizio e dei prezzi che saranno applicati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    previsioni economico-finanziarie del progetto: introiti, costi, redditivita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dimostrazione della necessita' di co-finanziamento pubblico e indicazioni relative alle altre fonti di finanziamento;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    descrizione degli effetti previsti dal punto di vista:
+ 1) trasportistico, con l'indicazione degli effetti in termini di sviluppo del trasporto combinato anche in rapporto alla concorrenza tra i diversi modi, ai sensi di quanto previsto dal comma 4, lettera a);
+ 2) ambientale, con particolare riferimento alla riduzione della congestione stradale in conseguenza della realizzazione del progetto;
+ 3) eventuali ulteriori effetti che possano derivare dalla realizzazione del progetto.
+
+7.
+                        
+                            
+                                I fondi per gli accordi di programma selezionati ai sensi del comma 5 sono assegnati in funzione dei treni-chilometro prodotti sul territorio nazionale dall'impresa ferroviaria sottoscrivente, nel triennio di riferimento. Il contributo finanziario complessivo nazionale e comunitario per i servizi oggetto dei predetti accordi non puo' comunque essere superiore al trenta per cento per il primo anno, al venticinque per cento per il secondo e al venti per cento per il terzo, in rapporto all'importo totale delle spese necessarie alla realizzazione dei progetti, che possono comprendere tra l'altro:
+ 
+                            
+                            
+                                a)
+                                
+                                    i costi di locazione, leasing o ammortamento delle unita' di trasporto combinato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i costi di locazione, leasing o ammortamento e dell'adeguamento necessario per realizzare il progetto, in riferimento al materiale rotabile;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le spese di investimento e i costi di locazione, leasing o ammortamento del materiale atto a consentire il trasbordo tra la ferrovia e gli altri modi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i costi di utilizzo delle infrastrutture ferroviarie;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le spese relative all'applicazione commerciale di tecniche, tecnologie o materiali preventivamente testati e approvati, in particolare la tecnologia dell'informazione dei trasporti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i costi relativi alla formazione del personale e alla diffusione dei risultati del progetto, nonche' i costi delle misure d'informazione e di comunicazione adottate per rendere noti all'industria dei trasporti interessata i nuovi servizi di trasporto combinato predisposti.
 
 Le imprese ferroviarie che sottoscrivono un accordo di programma ai sensi del presente articolo si obbligano a tenere evidenza contabile separata in relazione alle attivita' oggetto dell'accordo.
 Le medesime imprese provvedono, qualora ai fini dell'erogazione dei servizi oggetto dell'accordo abbiano necessita' di avvalersi di servizi prodotti da soggetti terzi, ad individuare i fornitori dei predetti servizi mediante procedura di selezione ovvero mediante idonea indagine di mercato.

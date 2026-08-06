@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-03-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,157 @@ Il presente decreto, nel rispetto dell'articolo 117 della Costituzione ed in coe
 
 
 ## Art. 3. — Commissione consultiva centrale per la pesca e l'acquacoltura
+
+1.
+                    
+                        
+                            La Commissione consultiva centrale per la pesca e l'acquacoltura, presieduta dal Ministro delle politiche agricole e forestali o dal Sottosegretario di Stato delegato, e' composta dal Direttore generale per la pesca e l'acquacoltura e dai seguenti membri:
+ 
+                        
+                        
+                            a)
+                            
+                                due dirigenti della Direzione generale per la pesca e l'acquacoltura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un dirigente del Dipartimento economico della Presidenza del Consiglio dei Ministri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un dirigente del Ministero del lavoro e delle politiche sociali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un dirigente del Ministero della salute;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un dirigente del Ministero dell'ambiente e della tutela del territorio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                un dirigente del Ministero dell'economia e delle finanze;
+
+                            
+                        
+                        
+                            g)
+                            
+                                un dirigente del Ministero delle attivita' produttive;
+
+                            
+                        
+                        
+                            h)
+                            
+                                un dirigente del Ministero della difesa;
+
+                            
+                        
+                        
+                            i)
+                            
+                                un dirigente del Ministero dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            j)
+                            
+                                un ufficiale del Comando generale del Corpo delle capitanerie di porto, di grado non inferiore a Capitano di Vascello;
+
+                            
+                        
+                        
+                            k)
+                            
+                                quindici dirigenti del settore pesca e acquacoltura delle regioni designati dalla Conferenza permanente per i rapporti tra lo Stato e le regioni e province autonome di Trento e di Bolzano;
+
+                            
+                        
+                        
+                            l)
+                            
+                                nove rappresentanti della cooperazione designati dalle associazioni nazionali delle cooperative della pesca comparativamente piu' rappresentative;
+
+                            
+                        
+                        
+                            m)
+                            
+                                quattro rappresentanti designati dalle associazioni nazionali delle imprese di pesca comparativamente piu' rappresentative;
+
+                            
+                        
+                        
+                            n)
+                            
+                                due rappresentanti designati dalle associazioni nazionali delle imprese di acquacoltura comparativamente piu' rappresentative;
+
+                            
+                        
+                        
+                            o)
+                            
+                                un rappresentante della pesca sportiva designato dalle organizzazioni nazionali della pesca sportiva comparativamente piu' rappresentative;
+
+                            
+                        
+                        
+                            p)
+                            
+                                sei rappresentanti designati dalle organizzazioni sindacali maggiormente rappresentative a livello nazionale;
+
+                            
+                        
+                        
+                            q)
+                            
+                                un rappresentante delle associazioni nazionali di organizzazioni di produttori costituite ai sensi del regolamento (CE) n. 104/2000 del Consiglio, del 17 dicembre 1999;
+
+                            
+                        
+                        
+                            r)
+                            
+                                due rappresentanti della ricerca scientifica applicata alla pesca e all'acquacoltura designati dal Ministro delle politiche agricole e forestali;
+
+                            
+                        
+                        
+                            s)
+                            
+                                un rappresentante della ricerca scientifica applicata alla pesca e all'acquacoltura designato dal Ministro dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            t)
+                            
+                                due rappresentanti della ricerca scientifica applicata alla pesca e all'acquacoltura designati dal Ministro dell'ambiente e della tutela del territorio, di cui uno dell'Istituto centrale per la ricerca scientifica applicata al mare (ICRAM);
+
+                            
+                        
+                        
+                            u)
+                            
+                                due rappresentanti della ricerca scientifica applicata alla pesca e all'acquacoltura delle regioni designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
 
 La Commissione e' chiamata a dare pareri sui decreti del Ministro delle politiche agricole e forestali, o del Sottosegretario di Stato delegato, finalizzati alla tutela e gestione delle risorse ittiche ed in relazione ad ogni argomento per il quale il presidente ne ravvisi l'opportunita'.
 
@@ -86,6 +237,101 @@ Per le attivita' di ricerca e studio finalizzate alla realizzazione del Programm
 
 I risultati delle ricerche eseguite sono esaminati dal Comitato di cui al comma 4 che riferisce, con le proprie valutazioni, al Ministro delle politiche agricole e forestali, al quale ne puo' proporre la pubblicazione.
 
+4.
+                    
+                        
+                            Il Comitato per la ricerca applicata alla pesca e all'acquacoltura e' presieduto dal direttore generale per la pesca e 1'acquacoltura ed e' composto da:
+ 
+                        
+                        
+                            a)
+                            
+                                due dirigenti della Direzione generale per la pesca e l'acquacoltura, di cui uno responsabile del settore ricerca;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tre esperti in ricerche applicate al settore, designati dal Ministro delle politiche agricole e forestali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un esperto in ricerche applicate al settore, designato dal Ministro dell'istruzione, dell'universita' e della ricerca;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un esperto in sanita' veterinaria e degli alimenti, designato dal Ministro della salute;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un esperto in ricerche applicate al settore, designato dal Ministro delle attivita' produttive;
+
+                            
+                        
+                        
+                            f)
+                            
+                                tre esperti dell'Istituto centrale per la ricerca scientifica applicata al mare (ICRAM);
+
+                            
+                        
+                        
+                            g)
+                            
+                                un esperto in ricerche applicate al settore dell'Istituto per la nutrizione, designato dal Ministro delle politiche agricole e forestali;
+
+                            
+                        
+                        
+                            h)
+                            
+                                due esperti in ricerche applicate al settore, designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, di cui uno per le regioni a statuto speciale e uno per le regioni a statuto ordinario;
+
+                            
+                        
+                        
+                            i)
+                            
+                                un esperto in ricerche applicate al settore, scelto tra una terna designata dal Consiglio nazionale delle ricerche tra propri ricercatori;
+
+                            
+                        
+                        
+                            j)
+                            
+                                un esperto in ricerca applicata al settore per ciascuna associazione nazionale delle cooperative della pesca;
+
+                            
+                        
+                        
+                            k)
+                            
+                                un esperto in ricerche applicate al settore, designato dall'associazione nazionale delle imprese di pesca comparativamente piu' rappresentativa;
+
+                            
+                        
+                        
+                            l)
+                            
+                                un esperto in ricerca applicata al settore, designato dalle associazioni delle imprese di acquacoltura comparativamente piu' rappresentative a livello nazionale;
+
+                            
+                        
+                        
+                            m)
+                            
+                                un esperto in ricerche applicate al settore, designato dalle organizzazioni sindacali dei lavoratori comparativamente piu' rappresentative a livello nazionale.
+
 Il Comitato e' chiamato, inoltre, ad esprimersi su ogni questione relativa a studi, ricerche e indagini che abbiano importanza scientifica di rilievo nazionale e interregionale per la pesca o siano funzionali alla disciplina giuridica del settore.
 
 Il Comitato ha durata triennale ed e' nominato con decreto del Ministro delle politiche agricole e forestali.
@@ -133,6 +379,28 @@ Le regioni possono promuovere, nell'ambito della propria autonomia e nel rispett
 
 Presso il Ministero delle politiche agricole e forestali - Direzione generale per la pesca e l'acquacoltura, e' istituito il Fondo di solidarieta' nazionale della pesca e dell'acquacoltura (FSNPA). Il Fondo ha l'obiettivo di promuovere principalmente interventi di prevenzione per far fronte ai danni alla produzione e alle strutture produttive nel settore della pesca e dell'acquacoltura, a causa di calamita' naturali, avversita' meteorologiche e meteomarine di carattere eccezionale.
 
+2.
+                    
+                        
+                            Per le finalita' di cui al comma 1, il FSNPA prevede le seguenti tipologie di intervento: 
+                        
+                        
+                            a)
+                            
+                                misure volte a incentivare la stipula di contratti assicurativi da parte degli imprenditori ittici e dell'acquacoltura finalizzati alla copertura dei rischi relativi a gravi danni alle strutture, ivi compreso l'affondamento del natante, al valore della produzione, conseguenti a calamita' naturali, avversita' meteorologiche e meteomarine di carattere eccezionale ed a fluttuazioni dei prezzi delle materie prime;
+                            
+                        
+                        
+                            b)
+                            
+                                misure in favore di eredi diretti dei marittimi imbarcati sulle navi da pesca o di addetti agli impianti di acquacoltura in mare, deceduti per cause di servizio o a seguito di affondamento, per avversita' meteomarine, delle unita' da pesca o asservite ad impianti;
+                            
+                        
+                        
+                            c)
+                            
+                                interventi compensativi, esclusivamente nel caso di danni a produzioni e strutture non inserite nel Programma assicurativo annuale, di cui all'articolo 14-bis, finalizzati alla ripresa economica e produttiva delle imprese di pesca che hanno subito danni dagli eventi di cui al comma 1.
+
 La dotazione del Fondo e' stabilita dal Programma nazionale nell'ambito della ripartizione delle relative risorse, tenendo conto di quanto previsto dal Programma assicurativo annuale di cui all'articolo 14-bis.
 
 Su richiesta di una o piu' regioni o di una o piu' associazioni nazionali delle cooperative della pesca, delle imprese di pesca e delle imprese di acquacoltura, il Ministro delle politiche agricole e forestali dispone, per il tramite degli Istituti scientifici operanti nel Consiglio nazionale delle ricerche (CNR) o dell'Istituto centrale per la ricerca applicata al mare (ICRAM), l'accertamento delle condizioni per gli interventi di cui al comma 2 al fine della dichiarazione, con proprio decreto, dello stato di calamita' o di avversita' meteomarine.
@@ -161,6 +429,63 @@ L'entita' del contributo pubblico sui premi assicurativi e' determinata, attrave
 
 Il Programma assicurativo e' elaborato sulla base delle informazioni e dei dati di carattere statistico-assicurativo rilevati dagli enti vigilati dal Ministero delle politiche agricole e forestali, ed e' approvato, entro il 30 novembre di ogni anno, con decreto del Ministro delle politiche agricole e forestali o del Sottosegretario di Stato delegato, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentito il Tavolo azzurro di cui all'articolo 2, e sentite le proposte di una commissione tecnica. La composizione ed il regolamento di funzionamento della commissione tecnica e' stabilito con decreto del Ministro delle politiche agricole e forestali o dal Sottosegretario delegato alla pesca. Ai componenti della commissione tecnica non compete alcuna indennita' o compenso, ne' rimborso spese.
 
+7.
+                    
+                        
+                            Nel Programma assicurativo sono stabiliti i parametri per il calcolo del contributo pubblico sui premi assicurativi distinti per:
+ 
+                        
+                        
+                            a)
+                            
+                                tipologia di polizza assicurativa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                area territoriale d'intervento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                evento climatico avverso o altro tipo di garanzia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tipo di produzione e/o di strutture;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fattori e mezzi della produzione e loro prezzi.
+
+8.
+                    
+                        
+                            Nel Programma assicurativo possono essere disposti anche:
+ 
+                        
+                        
+                            a)
+                            
+                                i termini massimi di sottoscrizione delle polizze per le diverse produzioni e aree;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualsiasi altro elemento ritenuto necessario per garantire un impiego efficace ed efficiente delle risorse pubbliche.
+
 ))
 
 ## Art. 15. — Comunicazione istituzionale
@@ -170,6 +495,31 @@ Nel Programma nazionale e' dato riconoscimento al ruolo strategico della comunic
 L'insieme delle azioni di cui al comma 1, predisposto anche tenendo conto delle indicazioni e dei dati forniti dalle associazioni nazionali delle imprese di pesca, delle imprese di acquacoltura e delle cooperative della pesca, deve garantire la pari possibilita' di accesso alle informazioni da parte di tutti gli operatori nazionali per l'acquisizione delle medesime opportunita' di sviluppo produttivo e per la salvaguardia della libera concorrenza in coerenza con le norme comunitarie discendenti dall'articolo 3, comma 1, lettera g), del Trattato istitutivo della Comunita' economica europea, ratificato con legge 14 ottobre 1957, n. 1203, e successive modificazioni, ed informare il consumatore ai fini di una scelta responsabile.
 
 ## Art. 16. — Promozione della cooperazione
+
+1.
+                    
+                        
+                            Allo scopo di favorire lo sviluppo della pesca e dell'acquacoltura nazionali in forma cooperativa, nonche' delle attivita' connesse, il Programma nazionale prevede il finanziamento di:
+ 
+                        
+                        
+                            a)
+                            
+                                corsi di aggiornamento e riqualificazione per i soci e per i dipendenti delle cooperative della pesca e dell'acquacoltura e loro consorzi, organizzati dalle associazioni nazionali delle cooperative della pesca e dell'acquacoltura, riconosciute ai sensi delle leggi vigenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                iniziative volte a favorire la cooperazione tra i pescatori, gli acquacoltori, i consorzi tra cooperative della pesca e dell'acquacoltura;
+
+                            
+                        
+                        
+                            c)
+                            
+                                contratti di programma, progetti sperimentali e convenzioni per la fornitura di servizi al settore, finalizzati al rafforzamento del ruolo della cooperazione nel piu' ampio contesto del processo di sviluppo dell'economia ittica.
 
 Le iniziative di cui al comma 1 sono effettuate sulla base di programmi annuali o pluriennali predisposti dalle associazioni nazionali riconosciute delle cooperative della pesca e dell'acquacoltura.
 
@@ -186,6 +536,24 @@ Allo scopo di favorire lo sviluppo delle opportunita' occupazionali e delle tute
 
 
 ## Art. 20. — Tutela dell'occupazione e sostenibilita' sociale
+
+1.
+                    
+                        
+                            Nel Programma nazionale, con particolare riferimento all'articolo 18, e' data priorita' ai seguenti obiettivi di tutela dell'occupazione e sostenibilita' sociale nel settore della pesca e dell'acquacoltura:
+ 
+                        
+                        
+                            a)
+                            
+                                promuovere studi di settore, di monitoraggio, adeguamento professionale e sicurezza del lavoro, nonche' progetti per l'introduzione coerentemente con le politiche del lavoro, di opportune forme di tutela in favore dei lavoratori della pesca marittima;
+
+                            
+                        
+                        
+                            b)
+                            
+                                semplificare le procedure inerenti alla comunicazione di imbarco in sostituzione di un marittimo arruolato che risulti temporaneamente assente per uno dei motivi previsti dall'articolo 2110 del codice civile.
 
 ## Art. 21. — Intesa tra Stato e regioni
 

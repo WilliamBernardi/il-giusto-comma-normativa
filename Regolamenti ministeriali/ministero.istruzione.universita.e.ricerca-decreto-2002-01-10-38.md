@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2018-06-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -86,6 +86,59 @@ Il presente regolamento, adottato in attuazione dell'articolo 17, comma 96, lett
 
 Le scuole superiori per interpreti e traduttori di cui alla legge 11 ottobre 1986, n. 697, assumono la denominazione di Scuole superiori per mediatori linguistici e rilasciano, ove istituite e attivate ai sensi del presente regolamento, titoli di studio, conseguibili al termine di corsi di studi superiori di durata triennale, equipollenti a tutti gli effetti ai diplomi di laurea rilasciati dalle universita' al termine dei corsi afferenti alla ((alla classe delle lauree in mediazione linguistica L-12 di cui al decreto ministeriale 16 marzo 2007, pubblicato nella Gazzetta Ufficiale, Serie generale, n. 155, supplemento ordinario n. 153 del 6 luglio 2007, concernente la determinazione delle classi di laurea)).
 
+3.
+                        
+                            
+                                Ai sensi del presente regolamento si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per Ministro, il Ministro dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per Ministero, il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per Servizio, il Servizio per l'autonomia universitaria e gli studenti del Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per legge, la legge 11 ottobre 1986, n. 697; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per scuole di cui all'articolo 1 della legge, le scuole pubbliche e private aventi come finalita' la gestione di corsi per mediatori linguistici per i fini di cui alla legge stessa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per corsi, i corsi di diploma per mediatori linguistici istituiti presso le scuole riconosciute ai sensi del presente regolamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per Commissione, la Commissione tecnico-consultiva di cui all'articolo 3.
+
 ## Art. 2. — Istanza di riconoscimento
 
 I soggetti pubblici e privati, gestori di scuole che intendono ottenere il riconoscimento per i fini di cui al presente regolamento, devono produrre apposita documentata istanza al Ministero. La documentazione deve comprendere lo statuto della scuola di cui all'articolo 4, il regolamento didattico dei corsi di studio di cui all'articolo 7, nonche' i requisiti di qualificazione didattica e di adeguatezza delle dotazioni di personale, finanziarie e delle strutture di cui al comma 2. Sono consentite integrazioni all'istanza stessa ove il procedimento di riconoscimento non sia stato nel frattempo concluso.
@@ -109,6 +162,31 @@ Il decreto di riconoscimento indica la sede nella quale la scuola e' abilitata, 
 ## Art. 3. — Commissione tecnico-consultiva
 
 Con decreto del Ministro e' costituita una Commissione tecnico-consultiva con il compito di esprimere parere obbligatorio in ordine all'istanza di riconoscimento delle scuole ai sensi del presente regolamento.
+
+2.
+                        
+                            
+                                La Commissione e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quattro docenti scelti dal Ministro in una rosa di otto professori universitari designati dal Consiglio universitario nazionale, inquadrati nei settori scientifico-disciplinari di riferimento per le attivita' formative caratterizzanti individuate nel prospetto allegato n. 3, di cui al decreto ministeriale 4 agosto 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quattro esperti designati, in ragione rispettivamente di due per ciascuna, dall'Associazione italiana traduttori e interpreti e dall'Associazione internazionale interpreti di conferenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un esperto in valutazione e programmazione designato dal Comitato nazionale per la valutazione del sistema universitario.
 
 Ai lavori della Commissione partecipa, con voto consultivo, il dirigente del competente Ufficio del servizio, responsabile del procedimento. Con il decreto di cui al comma 1 e' nominato il Presidente, il cui voto prevale in caso di votazioni con esito di parita'.
 

@@ -8,8 +8,8 @@ codice_redazionale: 000G0146
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -23,6 +23,18 @@ Sulla proposta del Ministro delle finanze;
 
 ## Art. 1. — Modifiche al decreto del Presidente della Repubblica
  22 luglio 1998, n. 322
+
+1.
+                    
+                        
+                            Nel decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                nell'articolo 1, il comma 2 e' sostituito dal seguente: "2. I modelli di dichiarazione sono resi disponibili in formato elettronico dall'amministrazione finanziaria in via telematica. I modelli cartacei necessari per la redazione delle dichiarazioni presentate dalle persone fisiche non obbligate alla tenuta delle scritture contabili possono essere gratuitamente ritirati presso gli uffici comunali. Con decreto dirigenziale possono essere stabilite altre modalita' di distribuzione o di invio al contribuente dei modelli di dichiarazione e di altri stampati;
+b) nell'articolo 8, comma 6, le parole: "all'articolo 1, commi 3 e 4" sono sostituite dalle seguenti: "all'articolo 1, commi 2, 3 e 4".
 
 ## Art. 2. — Questionari per l'elaborazione degli studi di settore
 

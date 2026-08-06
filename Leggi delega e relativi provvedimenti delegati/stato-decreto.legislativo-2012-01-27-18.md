@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2014-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,38 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, d
 ## Art. 1. — Contabilita' economico-patrimoniale nelle universita'
 
 Al fine di garantire trasparenza e omogeneita' dei sistemi e delle procedure contabili, di consentire l'individuazione della situazione patrimoniale e la valutazione dell'andamento complessivo della gestione, le universita' adottano un sistema di contabilita' economico-patrimoniale e analitica.
+
+2.
+                    
+                        
+                            Il quadro informativo economico-patrimoniale delle universita' e' rappresentato da: 
+ 
+                        
+                        
+                            a)
+                            
+                                bilancio unico d'ateneo di previsione annuale autorizzatorio, composto da budget economico e budget degli investimenti unico di ateneo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                bilancio unico d'ateneo di previsione triennale, composto da budget economico e budget degli investimenti, al fine di garantire la sostenibilita' di tutte le attivita' nel medio periodo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                bilancio unico d'ateneo d'esercizio, redatto con riferimento all'anno solare, composto da stato patrimoniale, conto economico, rendiconto finanziario, nota integrativa e corredato da una relazione sulla gestione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                bilancio consolidato con le proprie aziende, societa' o gli altri enti controllati, con o senza titoli partecipativi, qualunque sia la loro forma giuridica, composto da stato patrimoniale, conto economico e nota integrativa.
 
 Al fine di consentire il consolidamento e il monitoraggio dei conti delle amministrazioni pubbliche, le universita' considerate amministrazioni pubbliche ai sensi dell'art. 1, comma 2, della legge 31 dicembre 2009, n. 196, predispongono il bilancio preventivo unico d'ateneo non autorizzatorio e il rendiconto unico d'ateneo in contabilita' finanziaria.
 
@@ -66,9 +98,59 @@ Il decreto di cui all'articolo 2 definisce le modalita' e i criteri contabili co
 
 Nella nota integrativa del bilancio unico d'ateneo di esercizio viene riportato l'elenco delle societa' e degli enti partecipati a qualsiasi titolo.
 
+7.
+                    
+                        
+                            I documenti di bilancio di cui all'articolo 1, comma 2, sono approvati: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le universita' statali: dal consiglio di amministrazione, su proposta del rettore, previo parere del senato accademico per gli aspetti di competenza, ai sensi dell'articolo 2, comma 1, lettera h), della legge 30 dicembre 2010, n. 240; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le universita' non statali: sulla base delle procedure e modalita' definite dai propri statuti e regolamenti.
+
 ## Art. 6. — Bilancio consolidato
 
 Le universita' considerate amministrazioni pubbliche ai sensi dell'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196, sono tenute alla predisposizione di un bilancio consolidato in conformita' alle disposizioni contenute nel decreto legislativo 31 maggio 2011, n. 91.
+
+2.
+                    
+                        
+                            L'area di consolidamento e' costituita dai seguenti enti e societa', anche se non definiti amministrazioni pubbliche ai sensi dell'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196: 
+ 
+                        
+                        
+                            a)
+                            
+                                fondazioni universitarie istituite ai sensi dell'articolo 59, comma 3, della legge 23 dicembre 2000, n. 388, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                societa' di capitali controllate dalle universita' ai sensi del codice civile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                altri enti nei quali le universita' hanno il potere di esercitare la maggioranza dei voti nell'assemblea dei soci; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                altri enti nei quali le universita' possono nominare la maggioranza dei componenti degli organi di amministrazione.
 
 I principi contabili di consolidamento sono stabiliti e aggiornati con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze, sentita la CRUI, in conformita' alle disposizioni contenute nel decreto legislativo 31 maggio 2011, n. 91. Con le medesime modalita' e' aggiornata l'area di consolidamento di cui al comma 2.
 
@@ -110,6 +192,24 @@ Il decreto di cui al comma 1 e' adottato entro tre mesi dalla data di entrata in
 Ai fini conoscitivi previsti dall'articolo 2, comma 2, lettera d), della legge 31 dicembre 2009, n. 196, nel periodo transitorio sino all'adozione della contabilita' economico-patrimoniale e del bilancio unico d'ateneo, le universita' predispongono lo stato patrimoniale al 31 dicembre 2013, sulla base dei principi contabili e degli schemi di bilancio individuati ai sensi dell'articolo 2.
 
 ## Art. 11. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il secondo, terzo, quarto, quinto e ottavo comma dell'articolo 86 e l'articolo 87, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 4 e 9 dell'articolo 7 della legge 9 maggio 1989, n. 168.
 
 Il secondo periodo dell'articolo 7, comma 5, della legge 9 maggio 1989, n. 168, e' sostituito dal seguente: "In tale caso il relativo onere complessivo di ammortamento annuo non puo' comunque superare il 15 per cento dei finanziamenti a ciascuna universita' per contributi per il funzionamento, al netto delle spese per assegni fissi al personale di ruolo, ivi comprese le spese per investimento e per l'edilizia universitaria.".
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-04-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,11 +30,125 @@ Sulla proposta dei Ministri per le politiche europee e delle infrastrutture e de
 
 Il presente decreto si applica al trasporto di merci pericolose effettuato su strada, per ferrovia o per via navigabile interna, sia all'interno dello Stato nazionale che tra gli Stati della Comunita' europea, alle operazioni di carico e scarico, al trasferimento da un modo di trasporto ad un altro ed alle soste rese necessarie dalle condizioni di trasporto.
 
+2.
+                    
+                        
+                            Il presente decreto non si applica al trasporto di merci pericolose effettuato: 
+ 
+                        
+                        
+                            a)
+                            
+                                mediante veicoli, vagoni o unita' navali che appartengono alle forze armate o che si trovano sotto la responsabilita' di queste ultime ovvero mediante navi in servizio governativo non commerciale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                mediante unita' navali adibite alla navigazione marittima su vie navigabili marittime che si estendono nelle vie navigabili interne; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                mediante traghetti che effettuano soltanto l'attraversamento di una via navigabile interna o di un porto; 
+ oppure 
+
+                            
+                        
+                        
+                            d)
+                            
+                                interamente all'interno del perimetro di un'area chiusa.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                ADR: l'accordo europeo relativo al trasporto internazionale delle merci pericolose su strada, concluso a Ginevra il 30 settembre 1957, e successive modificazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                RID: il regolamento relativo al trasporto internazionale delle merci pericolose per ferrovia, che figura come appendice C alla convenzione sul trasporto internazionale per ferrovia (COTIF), conclusa a Vilnius il 3 giugno 1999, e successive modificazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ADN: l'accordo europeo relativo al trasporto internazionale delle merci pericolose per vie navigabili interne, concluso a Ginevra il 26 maggio 2000, e successive modificazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                veicolo: qualsiasi veicolo a motore destinato a circolare su strada, provvisto di almeno quattro ruote ed avente una velocita' massima per costruzione superiore a 25 km/h, nonche' i relativi rimorchi, eccettuati i veicoli che si muovono su rotaie, le macchine mobili ed i trattori agricoli e forestali, purche' non viaggino ad una velocita' superiore a 40 km/h quando trasportano merci pericolose; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                vagone: qualsiasi veicolo ferroviario privo di mezzo di propulsione e dotato di ruote che circola su binari ferroviari ed e' utilizzato per il trasporto di merci; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                unita' navale: qualsiasi nave o galleggiante atta alla navigazione marittima o alla navigazione interna, ivi compreso il traghetto quale definito dall'articolo 1, comma 1, numero 34), del decreto del Presidente della Repubblica 8 novembre 1991, n. 435, recante approvazione del regolamento per la sicurezza della navigazione e della vita umana in mare; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Amministrazione: il Ministero delle infrastrutture e dei trasporti.
 
 ## Art. 3. — Disposizioni generali
 
 Fatte salve le norme generali relative all'accesso al mercato o le norme applicabili in maniera generale al trasporto di merci pericolose, il trasporto di merci pericolose e' autorizzato a condizione che siano rispettate le disposizioni stabilite negli allegati di cui alle lettere a), b) e c) del comma 2.
+
+2.
+                    
+                        
+                            Fatte salve le eventuali deroghe adottate ai sensi dell'articolo 168 del decreto legislativo 30 aprile 1992, n. 285, e dell'articolo 35, commi 5 e 7, del decreto del Presidente della Repubblica 11 luglio 1980, n. 753, come modificati rispettivamente dagli articoli 6, comma 1, lettere c) e d), e 7 del presente decreto, nonche' ai sensi dell'articolo 8, commi 5 e 7, le merci pericolose non sono oggetto di trasporto nella misura in cui ne e' fatto divieto: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((negli allegati A e B dell'ADR, come applicabili a decorrere dal 1° gennaio 2025, restando inteso che i termini "parte contraente" sono sostituiti dai termini "Stato membro", ove opportuno;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((nell'allegato del RID, che figura come appendice C della COTIF, applicabile con effetto dal 1° gennaio 2025, restando inteso che i termini "Stato contraente del RID" sono sostituiti dai termini "Stato membro", ove opportuno;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((nei regolamenti allegati all'ADN, applicabili con effetto a decorrere dal 1° gennaio 2025, cosi' come l'art. 3, lettere f) ed h) e l'art. 8, paragrafi 1 e 3 dell'ADN, nei quali "parte contraente" e' sostituito con "Stato membro", ove opportuno)).
 
 ## Art. 4. — Paesi terzi
 
@@ -42,7 +156,80 @@ Il trasporto di merci pericolose tra lo Stato nazionale ed i Paesi terzi rispett
 
 ## Art. 5. — Recepimento modifiche all'ADR, al RID ed all'ADN
 
+1.
+                    
+                        
+                            Con provvedimento dell'amministrazione, sono recepite le direttive comunitarie concernenti adeguamento al progresso scientifico e tecnico della materia del trasporto di merci pericolose su strada, per ferrovia o per via navigabile interna recanti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                degli allegati A e B dell'ADR; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dell'allegato del RID, che figura come appendice C della COTIF; e 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dei regolamenti allegati all'ADN.
+
 ## Art. 6. — Modifiche all'articolo 168 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, in materia di disciplina del trasporto su strada dei materiali pericolosi
+
+1.
+                    
+                        
+                            All'articolo 168 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. La circolazione dei veicoli che trasportano merci pericolose ammesse al trasporto su strada, nonche' le prescrizioni relative all'etichettaggio, all'imballaggio, al carico, allo scarico ed allo stivaggio sui veicoli stradali e' regolata dagli allegati all'accordo di cui al comma 1 recepiti nell'ordinamento in conformita' alle norme vigenti.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: «4. Il Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri dell'interno, dell'ambiente e della tutela del territorio e del mare e dello sviluppo economico, con decreti previamente notificati alla commissione europea ai fini dell'autorizzazione, puo' prescrivere, esclusivamente per motivi inerenti alla sicurezza durante il trasporto, disposizioni piu' rigorose per la disciplina del trasporto nazionale di merci pericolose effettuato da veicoli, purche' non relative alla costruzione degli stessi. Con decreti del Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri dell'interno, dello sviluppo economico e della salute, possono essere altresi' classificate merci pericolose, ai fini del trasporto su strada, materie ed oggetti non compresi tra quelli di cui al comma 1, ma che siano ad essi assimilabili. Negli stessi decreti sono indicate le condizioni nel rispetto delle quali le singole merci elencate possono essere ammesse al trasporto; per le merci assimilabili puo' altresi' essere imposto l'obbligo della autorizzazione del singolo trasporto, precisando l'autorita' competente, nonche' i criteri e le modalita' da seguire.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 4 e' inserito il seguente: «4-bis. A condizione che non sia pregiudicata la sicurezza, il Ministero delle infrastrutture e dei trasporti, di concerto con i Ministeri dell'interno, della salute e dell'ambiente e della tutela del territorio e del mare, rilascia autorizzazioni individuali per operazioni di trasporto di merci pericolose sul territorio nazionale che sono proibite o effettuate in condizioni diverse da quelle stabilite dalle disposizioni di cui al comma 2. Le autorizzazioni sono definite e limitate nel tempo e possono essere concesse solo quando ricorrono particolari esigenze di ordine tecnico ovvero di tutela della sicurezza pubblica.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 6 e' sostituito dal seguente: «6. A condizione che non sia pregiudicata la sicurezza e previa notifica alla Commissione europea, ai fini dell'autorizzazione, il Ministero delle infrastrutture e dei trasporti, di concerto con i Ministeri dell'interno, della salute, dell'ambiente e della tutela del territorio e del mare e dello sviluppo economico, puo' derogare le condizioni poste dalle norme di cui al comma 2 per: 
+ a) il trasporto nazionale di piccole quantita' di merce, purche' non relative a materie a media o alta radioattivita'; 
+ b) merci pericolose destinate al trasporto locale su brevi distanze.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai commi 9, 9-bis e 9-ter le parole: «Chiunque viola le prescrizioni fissate o recepite con i decreti ministeriali di cui al comma 2» sono sostituite, ovunque ricorrano, dalle seguenti: «Chiunque viola le prescrizioni fissate dal comma 2»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 9, l'ultimo periodo e' sostituito dai seguenti: «A tali violazioni, qualora riconducibili alle responsabilita' del trasportatore, cosi' come definite nell'accordo di cui al comma 1, ovvero del conducente, consegue la sanzione amministrativa accessoria della sospensione della patente di guida del conducente e della carta di circolazione del veicolo con il quale e' stata commessa la violazione per un periodo da due a sei mesi, a norma del capo I, sezione II, del titolo VI. A chiunque violi le disposizioni del comma 4, primo periodo, si applicano la sanzione amministrativa pecuniaria di cui al comma 8, nonche' le disposizioni del periodo precedente.».
 
 All'espletamento delle attivita' autorizzative di cui all'articolo 168 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, comma 4-bis, quale introdotto dal comma 1, si provvede nell'ambito delle risorse umane, strumentali e finanziarie previste a legislazione vigente.
 
@@ -83,6 +270,24 @@ Il Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri del
 A condizione che non sia pregiudicata la sicurezza, il Ministero delle infrastrutture e dei trasporti, di concerto con i Ministeri dell'interno, della salute e dell'ambiente e della tutela del territorio e del mare, rilascia autorizzazioni individuali per operazioni di trasporto di merci pericolose sul territorio nazionale che sono proibite o effettuate in condizioni diverse da quelle stabilite dalle disposizioni di cui al comma 2. Le autorizzazioni sono definite e limitate nel tempo e possono essere concesse solo quando ricorrono particolari esigenze di ordine tecnico ovvero di tutela della sicurezza pubblica.
 
 Per il trasporto delle materie fissili o radioattive si applicano le norme dell'articolo 5 della legge 31 dicembre 1962, n. 1860, sostituito dall'articolo 2 del decreto del Presidente della Repubblica 30 dicembre 1965, n. 1704, e dell'articolo 21 del decreto legislativo 17 marzo 1995, n. 230, e successive modificazioni.
+
+7.
+                    
+                        
+                            A condizione che non sia pregiudicata la sicurezza e previa notifica alla Commissione europea ai fini dell'autorizzazione, il Ministero delle infrastrutture e dei trasporti, di concerto con i Ministeri dell'interno, della salute e dell'ambiente e della tutela del territorio e del mare, puo' derogare le condizioni poste dalle norme di cui al comma 2 per: 
+ 
+                        
+                        
+                            a)
+                            
+                                il trasporto nazionale di piccole quantita' di merce, purche' non relative a materie a media o alta radioattivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                merci pericolose destinate al trasporto locale su brevi distanze.
 
 Chiunque senza regolare autorizzazione, quando sia prescritta, trasporta o presenta al trasporto merci pericolose, ovvero non rispetta le condizioni imposte, a tutela della sicurezza, negli stessi provvedimenti di autorizzazione e' punito con l'ammenda da 5.000 euro a 15.000 euro e l'arresto fino a sei mesi.
 
@@ -170,6 +375,33 @@ Le disposizioni del presente articolo relative al trasporto delle merci pericolo
 ((5-bis. Le commissioni di cui ai commi 1, 2 e 3 sono integrate con rappresentanti dell'ANSFISA))
 
 ## Art. 14. — Abrogazione di norme precedentemente in vigore
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto, sono abrogate le norme derivanti dal recepimento delle direttive 94/55/CE, 96/49/CE, 96/35/CE e 2000/18/CE trasposte nell'ordinamento interno con i sotto elencati decreti: 
+ 
+                        
+                        
+                            a)
+                            
+                                decreto del Ministro dei trasporti e della navigazione in data 4 settembre 1996, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 282 del 2 dicembre 1996, di recepimento della direttiva 94/55/CE relativa al trasporto di merci pericolose su strada, e successive modificazioni, per quanto in esso predisposto e' incompatibile con le disposizioni del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    decreto legislativo 13 gennaio 1999, n. 41, di attuazione delle direttive 96/49/CE e 96/87/CE relative al trasporto di merci pericolose per ferrovia, e successive modificazioni, per quanto in esso predisposto e' incompatibile con le disposizioni del presente decreto e, comunque, ad esclusione degli articoli 1, comma 1, lettera d), e 2, comma 5; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    decreto legislativo 4 febbraio 2000, n. 40, di attuazione della direttiva 96/35/CE relativa alla designazione ed alla qualificazione professionale dei consulenti per la sicurezza dei trasporti su strada, per ferrovia o per via navigabile di merci pericolose, e successive modificazioni, per quanto in esso predisposto e' incompatibile con le disposizioni del presente decreto.
 
 Fatto salvo quanto previsto dall'articolo 11, comma 13, sono inoltre abrogate tutte le disposizioni comunque contrarie o incompatibili con le norme del presente decreto.
 

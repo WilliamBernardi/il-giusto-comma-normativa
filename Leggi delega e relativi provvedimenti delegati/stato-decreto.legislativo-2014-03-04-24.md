@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,28 @@ Nell'attuazione delle disposizioni del presente decreto legislativo, si tiene co
 Il presente decreto legislativo non pregiudica i diritti, gli obblighi e le responsabilita' dello Stato e degli individui, ai sensi del diritto internazionale, compresi il diritto internazionale umanitario e il diritto internazionale dei diritti umani e, in particolare, laddove applicabili, la Convenzione relativa allo statuto dei rifugiati, di cui alla legge 24 luglio 1954, n. 722, e il Protocollo relativo allo statuto dei rifugiati di cui alla legge 14 febbraio 1970, n. 95, relativi allo stato dei rifugiati e al principio di non respingimento.
 
 ## Art. 2. — Modifiche al codice penale
+
+1.
+                    
+                        
+                            Al regio decreto 19 ottobre 1930, n. 1398, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 600: 
+ 1) al primo comma, dopo le parole: «all'accattonaggio o comunque» le parole: «a prestazioni» sono sostituite dalle seguenti parole: «al compimento di attivita' illecite» e dopo la parola «sfruttamento» sono inserite le seguenti parole: «ovvero a sottoporsi al prelievo di organi»; 
+ 2) al secondo comma, dopo le parole: «approfittamento di una situazione» sono aggiunte le seguenti parole: «di vulnerabilita',»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 601 e' sostituito dal seguente: 
+ «E' punito con la reclusione da otto a venti anni chiunque recluta, introduce nel territorio dello Stato, trasferisce anche al di fuori di esso, trasporta, cede l'autorita' sulla persona, ospita una o piu' persone che si trovano nelle condizioni di cui all'articolo 600, ovvero, realizza le stesse condotte su una o piu' persone, mediante inganno, violenza, minaccia, abuso di autorita' o approfittamento di una situazione di vulnerabilita', di inferiorita' fisica, psichica o di necessita', o mediante promessa o dazione di denaro o di altri vantaggi alla persona che su di essa ha autorita', al fine di indurle o costringerle a prestazioni lavorative, sessuali ovvero all'accattonaggio o comunque al compimento di attivita' illecite che ne comportano lo sfruttamento o a sottoporsi al prelievo di organi. 
+ Alla stessa pena soggiace chiunque, anche al di fuori delle modalita' di cui al primo comma, realizza le condotte ivi previste nei confronti di persona minore di eta'».
 
 ## Art. 3. — Modifica al codice di procedura penale
 
@@ -67,7 +89,36 @@ All'articolo 12 della legge 11 agosto 2003, n. 228, sono apportate le seguenti m
 
 ## Art. 7. — (( (Coordinatore nazionale anti-tratta).))
 
+1.
+                    
+                        
+                            
+                                ((Il Dipartimento per le pari opportunita' della Presidenza del Consiglio dei ministri, nell'ambito delle competenze ad esso devolute, e' l'organismo deputato a svolgere le funzioni di coordinatore nazionale anti-tratta e come tale:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((svolge compiti di indirizzo e coordinamento con riguardo agli interventi di prevenzione sociale del fenomeno della tratta degli esseri umani e di assistenza delle relative vittime, nonche' di programmazione delle risorse finanziarie in ordine ai programmi di assistenza ed integrazione sociale concernenti tale fenomeno e coordina gli interventi delle amministrazioni, gli enti e le organizzazioni coinvolti nella prevenzione e nel contrasto della tratta degli esseri umani nonche' nella protezione e assistenza delle vittime;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((valuta le tendenze della tratta degli esseri umani, avvalendosi di un adeguato sistema di monitoraggio posto in essere, coordinando la raccolta di dati statistici effettuata con il supporto dell'Istituto nazionale di statistica (ISTAT) e in collaborazione con le altre amministrazioni competenti e con il servizio nazionale gratuito di pronta assistenza alle vittime di tratta di esseri umani e di grave sfruttamento di cui al comma 4;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((presenta al coordinatore anti-tratta dell'Unione europea una relazione biennale contenente i risultati del monitoraggio sulla base dei dati forniti ai sensi della lettera b).))
 
+((Al fine di definire un sistema strutturato di governance tra tutti i livelli di governo, sono istituiti presso il Dipartimento di cui al comma 1, senza ulteriori oneri a carico della finanza pubblica, una Cabina di regia interistituzionale e un Comitato tecnico anti-tratta, composto dai rappresentanti delle amministrazioni competenti in materia, degli enti, associazioni e organizzazioni internazionali e nazionali che operano nell'assistenza e protezione delle vittime di tratta e grave fruttamento.))
 
 ((Con uno o piu' decreti del Presidente del Consiglio dei ministri o dell'Autorita' politica delegata in materia di pari opportunita', sono disciplinati la composizione, il funzionamento e i compiti della Cabina di regia interistituzionale e del Comitato tecnico anti-tratta di cui al comma 2. Ai componenti della Cabina di regia e del Comitato tecnico non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.))
 

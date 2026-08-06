@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 1999-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,16 @@ Sentite le organizzazioni sindacali;
 Uditi i pareri del Consiglio di Stato espressi nelle adunanze generali del 7 febbraio 1991 e del 25 luglio 1991;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Le corrispondenze tra le qualifiche funzionali con i relativi profili professionali ed i posti all'estero sono stabilite in base alla tabella 
+                        
+                        
+                            a)
+                            
+                                allegata al presente regolamento.
 
 ## Art. 2.
 

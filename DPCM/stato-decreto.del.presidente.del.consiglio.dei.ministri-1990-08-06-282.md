@@ -8,8 +8,8 @@ codice_redazionale: 090G0299
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -33,15 +33,81 @@ Su proposta del Ministro dell'universita' e della ricerca scientifica e tecnolog
 
 ## Art. 1.
 
+1.
+                        
+                            
+                                In attuazione dell'art. 11, comma 6, della legge 9 maggio 1989, n. 168, e ai fini di cui all'art. 16, comma 2, lettera b), della stessa legge, sono individuate le seguenti aree scientifico-disciplinari:
+ 1) scienze matematiche e informatiche;
+ 2) scienze fisiche;
+ 3) scienze chimiche;
+ 4) scienze: 
+                            
+                            
+                                a)
+                                
+                                    agrarie;
+                                
+                            
+                            
+                                b)
+                                
+                                    della terra;
+ 5) scienze biologiche;
+ 6) scienze mediche sperimentali, cliniche e veterinarie;
+ 7) scienze dell'ingegneria civile e scienze dell'architettura;
+ 8) scienze dell'ingegneria industriale e dell'informazione;
+ 9) scienze dell'antichita', filologico-letterarie e storico-artistiche;
+ 10) scienze storiche e filosofiche e scienze pedagogiche e psicologiche;
+ 11) scienze giuridiche;
+ 12) scienze economiche e statistiche e scienze politiche e sociologiche.
+
 ## - Titolo II ELEZIONI DEI RAPPRESENTANTI DELLE AREE SCIENTIFICO-DISCIPLINARI NEL CNST
 
 ## Art. 2.
 
 L'elezione dei ventiquattro membri del Consiglio nazionale della scienza e della tecnologia di cui all'art. 11, comma 3, lettera a), della legge 9 maggio 1989, n. 168, e' disciplinata dalle disposizioni seguenti.
 
+2.
+                        
+                            
+                                Al fine di assicurare l'equilibrata rappresentanza delle categorie di cui all'art. 11, comma 6, lettera a), della stessa legge, i ventiquattro posti sono cosi assegnati:
+ 
+                            
+                            
+                                a)
+                                
+                                    sedici posti ai docenti e ai ricercatori delle Universita', di cui sette posti ai professori ordinari e straordinari, sei posti ai professori associati, tre posti ai ricercatori universitari e agli assistenti universitari del ruolo ad esaurimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    otto posti ai ricercatori degli enti pubblici di ricerca.
+
 Ogni area scientifico-disciplinare elegge due rappresentanti. Le aree scientifico-disciplinari di cui ai punti 4), 7), 10) e 12) dell'art. 1 sono divise in due distinti collegi, riservati, per l'area 4), rispettivamente alle scienze agrarie e alle scienze della terra; per l'area 7), rispettivamente alle scienze dell'ingegneria civile e alle scienze dell'architettura, per l'area 10), rispettivamente alle scienze storiche e filosofiche e alle scienze pedagogiche e psicologiche; per l'area 12), rispettivamente alle scienze economiche e statistiche e alle scienze politiche e sociologiche. Ciascun collegio elegge un proprio rappresentante.
 
 Ogni elettore dispone di un voto e vota per la rispettiva area scientifico-disciplinare, o il rispettivo distinto collegio, ove esistente, secondo le tabelle di corrispondenza con i raggruppamenti disciplinari di appartenenza, allegate al presente regolamento. Il voto puo' essere attribuito anche ad appartenenti a categorie diverse dalla propria.
+
+5.
+                        
+                            
+                                In sede di scrutinio i ventiquattro posti di cui al comma 2 sono cosi attribuiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    viene compilata una unica graduatoria nella quale sono inseriti in ordine decrescente i candidati, indipendentemente dalla categoria di appartenenza, in base alla percentuale di voti riportati sul totale degli aventi diritto nella rispettiva area scientifico-disciplinare o nel distinto collegio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono dichiarati eletti i primi ventiquattro candidati, qualora siano assicurate le rappresentanze delle diverse categorie di cui al precedente comma 2, nonche' quelle delle aree scientifico-disciplinari di cui all'art. 1 o dei collegi di cui al precedente comma 3.
+ In ogni caso, sono dichiarati eletti i rappresentanti di ciascuna categoria nei limiti dei posti ripartiti in base al precedente comma 2.
+ Qualora una o piu' categorie non abbiano raggiunto il prescritto numero dei rappresentanti, ovvero per una o piu' aree o per uno o piu' collegi non siano stati eletti i rispettivi rappresentanti, sono dichiarati eletti gli appartenenti alle rispettive categorie e i rappresentanti delle aree o dei collegi, che seguono nell'ordine della graduatoria.
 
 Nessun candidato puo' essere eletto se non riporta almeno il 10% dei voti degli aventi diritto della propria area scientifico-disciplinare o del proprio collegio.
 
@@ -68,6 +134,24 @@ Ai fini della formazione degli elenchi degli aventi diritto al voto per la categ
 
 Ai fini della formazione degli elenchi degli aventi diritto al voto per la categoria dei ricercatori degli enti pubblici di ricerca, le amministrazioni interessate invitano gli enti e le istituzioni pubbliche di ricerca da esse vigilati a trasmettere gli elenchi alla commissione elettorale, ripartiti per le aree scientifico-disciplinari di cui a1l'art.1 o per i distinti collegi di cui all'art. 2, comma 3.
 
+4.
+                        
+                            
+                                Gli elenchi di cui al precedente comma sono formati nel rispetto dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    sono inclusi i ricercatori pubblici dipendenti operanti presso enti ed istituzioni pubbliche di ricerca;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli enti compresi nel comparto della ricerca, di cui all'art. 7 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68, sono inseriti negli elenchi esclusivamente gli appartenenti al profilo di ricercatore.
+
 ## Art. 5.
 
 Le elezioni sono indette almeno quattro mesi prima della data di scadenza della durata in carica dei membri del CNST.
@@ -90,6 +174,31 @@ I componenti dei seggi elettorali sono nominati dal Ministro, su designazione de
 
 ## Art. 8.
 
+1.
+                        
+                            
+                                La commissione elettorale provvede ad inviare a ciascuno degli aventi diritto al voto, presso la rispettiva sede di lavoro, un certificato dal quale risultano:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'area scientifico-disciplinare o il distinto collegio per il quale l'elettore e' chiamato a votare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il seggio al quale l'elettore e' assegnato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la data e l'orario della votazione.
+
 La commissione provvede altresi' ad inviare ad ogni seggio elettorale l'elenco degli elettori assegnati al seggio stesso.
 
 ## Art. 9.
@@ -106,11 +215,101 @@ Il voto e' individuale e segreto. Ogni segno di identificazione dell'elettore co
 
 Terminate le operazioni di voto, il presidente del seggio procede al controllo del numero dei votanti, accertandone la rispondenza con il numero delle schede votate.
 
+2.
+                        
+                            
+                                Il presidente del seggio redige quindi un verbale contenente le seguenti notizie:
+ 
+                            
+                            
+                                a)
+                                
+                                    numero delle schede ricevute dal Ministero per ogni singola area scientifico-disciplinare o distinto collegio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero delle schede votate per ogni singola area scientifico-disciplinare e per ogni distinto collegio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero delle schede non utilizzate per ogni singola area scientifico-disciplinare e per ogni distinto collegio.
+
+3.
+                        
+                            
+                                Il presidente del seggio predispone quindi un plico contenente:
+ 
+                            
+                            
+                                a)
+                                
+                                    le schede votate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le schede non utilizzate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il verbale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'elenco dei votanti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la lista degli elettori iscritti al seggio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i certificati consegnati da coloro che hanno votato.
+
 Il presidente del seggio, infine, sigillato il plico, lo affida al segretario che ne rilascia apposita ricevuta e ne cura personalmente la consegna alla commissione di cui all'art.3.
 
 Pervenuti i plichi relativi a tutti i seggi elettorali, la commissione elettorale inizia le operazioni di scrutinio, che dovranno essere svolte senza soluzione di continuita'.
 
 ## Art. 11.
+
+1.
+                        
+                            
+                                In caso di morte, oppure di dimissioni o di perdita dei requisiti di eleggibilita' di uno dei membri del CNST di cui all'art. 11, comma 3, lettera a), della legge 9 maggio 1989, n. 168, si procede alla sua sostituzione, in base alle seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    viene chiamata a far parte del CNST la persona che, nella stessa area scientifico-disciplinare o distinto collegio e nella stessa categoria, ha riportato, dopo il membro da sostituire, la piu' alta percentuale di voti, purche' sia rispettato il criterio di cui al comma 6 dell'art. 2;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora non sia stato possibile operare la sostituzione ai sensi delle disposizioni di cui alla lettera precedente, si procede ad elezioni suppletive.
+ In tal caso l'elettorato passivo resta riservato alla categoria cui apparteneva il membro da sostituire.
 
 In ogni caso, la sostituzione comporta che il nuovo membro cessa dalla carica nella stessa data in cui sarebbe cessato il membro sostituito.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2021-05-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,73 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 ## Art. 1. — Oggetto e definizioni
 
 Il presente regolamento disciplina, ai sensi dell'articolo 36, comma 1, del decreto legislativo 17 agosto 1999, n. 368, e successive modificazioni, le modalita' di ammissione dei medici alle scuole di specializzazione disciplinate agli articoli da 34 a 46 del decreto legislativo n. 368/1999 e successive modificazioni. Restano ferme le disposizioni che consentono l'accesso dei laureati non medici ad alcune delle predette scuole.
+
+2.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «universita'», gli atenei e gli istituti di istruzione universitaria, statali e non statali che rilasciano titoli di studio aventi valore legale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «scuola», la specifica scuola di specializzazione di una specifica universita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «Ministro», il ((Ministro dell'universita' e della ricerca)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per «Ministero», il ((Ministero dell'universita' e della ricerca)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per «area», ciascuna delle aree, medica, chirurgica e dei servizi clinici in cui sono raggruppate le classi e le tipologie di scuola ai sensi del decreto del Ministero dell'istruzione, dell'universita' e della ricerca e Ministero della salute 4 febbraio 2015, emanato ai sensi dell'articolo 20, comma 3-bis, del decreto legislativo n. 368 del 1999 e successive modificazioni, pubblicato nella Gazzetta Ufficiale 3 giugno 2015, n. 126, supplemento ordinario n. 25; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per «tipologia di scuola», lo specifico tipo di corso di specializzazione, compreso nelle classi e nelle tre aree medica, chirurgica e dei servizi di cui al decreto 4 febbraio 2015, pubblicato nella Gazzetta Ufficiale 3 giugno 2015, n. 126, supplemento ordinario n. 25; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per «settori scientifico-disciplinari di riferimento della tipologia di scuola», uno o piu' settori scientifico-disciplinari specifici della figura professionale propria del corso di specializzazione, come individuati negli ambiti disciplinari sotto la voce «discipline specifiche della tipologia della scuola» nel decreto 4 febbraio 2015, pubblicato nella Gazzetta Ufficiale 3 giugno 2015, n. 126, supplemento ordinario n. 25; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per «bando», il bando di cui all'articolo 2, comma 1; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per «Commissione», la Commissione nazionale di cui all'articolo 4.
 
 ## Art. 2. — Ammissione alla scuola
 
@@ -68,6 +135,44 @@ Con decreto del Ministro e' costituita, presso il Ministero, un'unica Commission
 Nel caso in cui, in attuazione dell'articolo 3, comma 4, la predisposizione dei quesiti sia affidata dal Ministero ad una unica Commissione nazionale composta da professori universitari, anche in quiescenza, le funzioni della Commissione nazionale di cui al presente articolo, elencate al successivo articolo 5, sono assorbite dalla Commissione preposta alla predisposizione dei quesiti.
 
 ## Art. 5. — Valutazione dei titoli di studio e graduatoria
+
+1.
+                    
+                        
+                            La Commissione di cui all'articolo 4 attribuisce ai titoli fino ad un massimo di 7 punti. I punti che il singolo candidato puo' ottenere in base ai titoli sono determinati secondo i seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                voto di laurea fino a 2 punti, attribuiti secondo la seguente scala valutativa: 
+ voto 110 e lode = 2 punti; 
+ voto 110 = 1,5 punti; 
+ voto da 108 a 109 = 1 punto; 
+ voto da 105 a 107 = 0,5 punti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                curriculum-media ponderata complessiva dei voti degli esami sostenuti fino a 3 punti, attribuiti secondo la seguente scala valutativa: 
+ media dei voti ≥ 29,5 = 3 punti; 
+ media dei voti ≥ 29 = 2,5 punti; 
+ media dei voti ≥ 28,5 = 2 punti; 
+ media dei voti ≥ 28 = 1,5 punti; 
+ media dei voti ≥ 27,5 = 1 punto; 
+ media dei voti ≥ 27 = 0,5 punti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                altri titoli fino a 2 punti determinati secondo i seguenti criteri: 
+ 0,5 punti per tesi di carattere sperimentale debitamente documentato secondo quanto indicato nel bando; 
+ 1,5 punti per il titolo di dottore di ricerca in una disciplina di ambito medico-sanitario debitamente documentata secondo quanto indicato nel bando. 
+ Tali titoli non sono riconoscibili e computabili ai concorrenti gia' in possesso di diploma di specializzazione, ne' ai concorrenti gia' titolari di contratto di specializzazione.
 
 Espletata la prova d'esame il Ministero redige un'unica graduatoria nazionale di merito, recante il punteggio complessivo conseguito da ciascun candidato per i titoli e nella prova d'esame.
 In caso di parita' di punteggio, prevale il candidato che ha ottenuto il maggior punteggio nella prova di esame, in caso di ulteriore parita', il candidato con minore eta' anagrafica. La graduatoria e' resa pubblica dal Ministero entro venti giorni dallo svolgimento della prova d'esame.

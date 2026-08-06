@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2002-08-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -58,6 +58,80 @@ Nella seconda fascia del ruolo unico sono inseriti in ordine alfabetico gli altr
 ## Art. 3. — Responsabile del ruolo unico dei dirigenti
 
 L'incarico di responsabile della tenuta del ruolo unico e' conferito ai sensi dell'articolo 19, comma 4, del decreto legislativo n. 29 del 1993. In sede di prima applicazione del presente regolamento l'incarico viene conferito nell'ambito della dotazione organica dei dirigenti generali in servizio presso la Presidenza del Consiglio dei Ministri.
+
+2.
+                        
+                            
+                                Al responsabile del ruolo unico dei dirigenti sono affidati i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    assicurare l'acquisizione presso le amministrazioni dei dati per la costituzione e la tenuta del ruolo unico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurare, tramite un puntuale monitoraggio, la completezza e l'aggiornamento continuo dei dati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sovraintendere alla iscrizione ed elaborazione dei dati secondo modalita' e processi anche informatizzati che consentano, nell'ambito di ciascuna fascia del ruolo unico, la rilevazione immediata della posizione, delle situazioni individuali, delle professionalita' e degli incarichi ricoperti per ciascun dirigente nell'ambito della fascia di appartenenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantire la corrispondenza delle distinte sezioni del ruolo unico alle specificita' tecniche dei dirigenti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigilare che il trattamento dei dati sia effettuato nel rispetto delle disposizioni della legge 31 dicembre 1996, n. 675, e successive modificazioni e integrazioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    organizzare ed assicurare, in collegamento con le amministrazioni interessate, gli adempimenti, connessi alla tenuta del ruolo unico, necessari alla determinazione delle unita' occorrenti nel rispetto della programmazione di cui all'articolo 39 della legge 27 dicembre 1997, n. 449, e all'articolo 6 del decreto legislativo n. 29 del 1993, alla mobilita' dei dirigenti ed al conferimento agli stessi degli incarichi dirigenziali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    assumere iniziative idonee ad assicurare la periodicita' dei concorsi per l'accesso alla qualifica di dirigente di cui all'articolo 28 del decreto legislativo n. 29 del 1993, in modo da soddisfare alle esigenze funzionali delle amministrazioni interessate;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    dettare i criteri e assicurare gli adempimenti per la tenuta aggiornata della banca dati informatica di cui all'articolo 23, comma 4, del decreto legislativo n. 29 del 1993, utilizzando i collegamenti della rete unitaria delle pubbliche amministrazioni nonche' fornire, nel rispetto delle regole di cui alla legge n. 675 del 1996, alle amministrazioni direttamente interessate alla mobilita' che lo richiedano, le informazioni risultanti dalla banca dati informatica;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    assicurare ogni utile collaborazione anche attraverso il collegamento informatico con il Ministero del tesoro, del bilancio e della programmazione economica - Ragioneria generale dello Stato, per il tempestivo adeguamento del trattamento economico accessorio dei dirigenti agli incarichi contrattualmente definiti;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    riferire semestralmente, ai fini della programmazione degli accessi alla dirigenza, al Presidente del Consiglio dei Ministri o, per sua delega, al Ministro per la funzione pubblica, sulla situazione complessiva del ruolo unico e della banca dati informatica.
 
 Per lo svolgimento e nei limiti dei propri compiti il responsabile della tenuta del ruolo unico puo' accedere ai dati in possesso del Ministero del tesoro, del bilancio e della programmazione economica - Ragioneria generale dello Stato e puo' richiedere alle amministrazioni dello Stato, anche ad ordinamento autonomo, ogni utile informazione.
 

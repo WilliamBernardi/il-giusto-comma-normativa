@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-08-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,46 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente regolamento si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Albo»: l'albo delle persone fisiche consulenti finanziari di cui all'articolo 18-bis, comma 2, del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «consulenti finanziari»: le persone fisiche di cui all'articolo 18-bis, comma 1, del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «consulenza in materia di investimenti»: il servizio di investimento di cui all'articolo 1, comma 5-septies, del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «emittenti e intermediari»: gli emittenti prodotti finanziari, i soggetti abilitati di cui all'articolo 1, comma 1, lettera r), del decreto legislativo 24 febbraio 1998, n. 58, le imprese di assicurazione, gli agenti di cambio, le societa' di cui all'articolo 60, comma 4, del decreto legislativo 23 luglio 1996, n. 415, la societa' Poste Italiane autorizzata alla prestazione di servizi di investimento ai sensi degli articoli 2 e 12 del decreto del Presidente della Repubblica 14 marzo 2001, n. 144, e ogni altro soggetto che intermedia risorse finanziarie attraverso prodotti finanziari, qualunque sia il Paese in cui tali soggetti hanno la propria sede; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Organismo»: l'organismo di cui all'articolo 18-bis, comma 2, del decreto legislativo 24 febbraio 1998, n. 58. 
+ ((2))
+
 --------------
                         AGGIORNAMENTO (2)
                         
@@ -43,11 +83,86 @@ Per l'iscrizione all'Albo e' necessario un titolo di studio non inferiore al dip
 
 Ai fini dell'iscrizione all'Albo occorre, altresi', possedere un'adeguata conoscenza specialistica in materie giuridiche, economiche, finanziarie e tecniche, rilevanti nella prestazione del servizio di consulenza in materia di investimenti, e individuate dall'Organismo. La conoscenza adeguata e' accertata tramite una prova valutativa indetta dall'Organismo, secondo le modalita' da questo stabilite.
 
+3.
+                    
+                        
+                            Sono esonerati dalla prova valutativa di cui al comma 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                i promotori finanziari regolarmente iscritti al relativo albo che, per uno o piu' periodi di tempo complessivamente pari a due anni nei tre anni precedenti la richiesta di iscrizione all'Albo, hanno esercitato la propria attivita' professionale per conto di soggetti abilitati che nei medesimi periodi hanno svolto attivita' di consulenza in materia di investimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i quadri direttivi di terzo e quarto livello di soggetti abilitati che, per uno o piu' periodi di tempo complessivamente pari a due anni nei tre anni precedenti la richiesta di iscrizione all'Albo, sono stati addetti al servizio di consulenza in materia di investimenti ovvero il personale preposto ad una dipendenza o ad un'altra unita' operativa di un soggetto abilitato, o comunque responsabile della stessa, addetto al servizio di consulenza in materia di investimenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli agenti di cambio.
+
 Ai fini dell'esonero dalla prova valutativa, i soggetti di cui al comma 3 producono la documentazione attestante l'esercizio dell'attivita' professionale. La documentazione da produrre per l'attestazione del possesso dei requisiti professionali di cui alle lettere a) e b) del comma 3 deve includere la dichiarazione di un rappresentante del soggetto abilitato attestante l'ufficio al quale il richiedente l'iscrizione all'Albo e' stato addetto, le mansioni ricoperte e il relativo periodo di svolgimento.
 
 Per il mantenimento dell'iscrizione all'Albo, i consulenti finanziari sono tenuti all'aggiornamento professionale nelle materie di cui al comma 2, nella misura e secondo le modalita' stabilite dalla Consob con regolamento ai sensi dell'articolo 18-bis, comma 5, lettera g), del decreto legislativo 24 febbraio 1998, n. 58.
 
 ## Art. 3. — Situazioni impeditive
+
+1.
+                    
+                        
+                            Non possono essere iscritti all'Albo coloro che per almeno i due esercizi precedenti l'adozione dei relativi provvedimenti hanno svolto funzioni di amministrazione, direzione o controllo: 
+ 
+                        
+                        
+                            a)
+                            
+                                in imprese sottoposte a fallimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in imprese operanti nel settore creditizio, finanziario, mobiliare o assicurativo sottoposte alla procedura di amministrazione straordinaria o di liquidazione coatta amministrativa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in intermediari finanziari nei cui confronti sia stata disposta la cancellazione dall'elenco generale o da quello speciale ai sensi dell'articolo 111, comma 1, lettera c), del decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                in imprese nei cui confronti sono state irrogate, in relazione a reati da loro commessi, le sanzioni interdittive indicate nell'articolo 9, comma 2, lettere a) e b), del decreto legislativo 8 giugno 2001, n. 231.
+
+2.
+                    
+                        
+                            Non possono altresi' essere iscritti all'Albo: 
+ 
+                        
+                        
+                            a)
+                            
+                                coloro che nell'esercizio della professione di agente di cambio non hanno fatto fronte agli impegni previsti dalla legge o si trovano in stato di esclusione dalle negoziazioni in un mercato regolamentato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i promotori finanziari radiati dal relativo albo ai sensi dell'articolo 196, comma 1, lettera d), del decreto legislativo 24 febbraio 1998, n. 58,
 
 Ai fini del comma 1, le frazioni di un esercizio superiori a sei mesi equivalgono a un esercizio intero.
 
@@ -65,6 +180,35 @@ Gli impedimenti di cui ai commi 1 e 2 hanno la durata di tre anni decorrenti dal
 L'impedimento di cui al comma 2, lettera b), ha in ogni caso la durata di tre anni.
 
 ## Art. 4. — Requisiti di onorabilita'
+
+1.
+                    
+                        
+                            Non possono essere iscritti all'Albo coloro che: 
+ 
+                        
+                        
+                            a)
+                            
+                                si trovano in una delle condizioni di ineleggibilita' o decadenza previste dall'articolo 2382 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della legge 27 dicembre 1956, n. 1423 o della legge 31 maggio 1965, n. 575, salvi gli effetti della riabilitazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione: 
+ 1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento; 
+ 2) alla reclusione per uno dei delitti previsti nel titolo XI del libro V del codice civile e nel regio decreto del 16 marzo 1942, n. 267; 
+ 3) alla reclusione per un tempo non inferiore a un anno per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per delitto in materia tributaria; 
+ 4) alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo.
 
 Non possono essere iscritti all'Albo coloro nei confronti dei quali sia stata applicata su richiesta delle parti una delle pene previste dal comma 1, lettera c), salvo il caso dell'estinzione del reato. Nel caso in cui siano state applicate su richiesta delle parti, le pene previste dal comma 1, lettera c), numeri 1) e 2), non rilevano se inferiori a un anno.
 
@@ -84,10 +228,46 @@ L'iscrizione all'Albo e' consentita previa sottoscrizione di un'assicurazione a 
 
 ## Art. 7. — Disposizioni finali e transitorie
 
+1.
+                    
+                        
+                            Fermo restando il possesso del titolo di studio di cui all'articolo 2, comma 1, sono esonerati dalla prova valutativa di cui all'articolo 2, comma 2, a condizione che l'iscrizione all'Albo sia richiesta dagli interessati entro sei mesi dall'avvio dell'operativita' dell'((Albo)): 
+ 
+                        
+                        
+                            a)
+                            
+                                le persone fisiche che, alla data della richiesta dell'iscrizione all'Albo, hanno svolto consulenza in materia di investimenti per un periodo complessivamente non inferiore a due anni nell'ultimo triennio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le persone fisiche che, alla data della richiesta dell'iscrizione all'Albo, hanno ricoperto, per un periodo complessivamente non inferiore a due anni nell'ultimo triennio, l'incarico di amministratori di societa' di persone o di capitali operanti unicamente nella prestazione del servizio di consulenza in materia di investimenti.
+
 Ai fini dell'esonero di cui al comma 1, la di consulenza in materia di investimenti deve essere stata svolta in misura significativa dalla persona fisica o dalla societa'. Per misura significativa si intende un livello di attivita' tale da rendere presumibile l'acquisizione di una qualificazione professionale almeno equivalente a quella necessaria al superamento della prova valutativa di cui all'articolo 2, comma 2.
 
 Ai fini dell'esonero di cui al comma 1, l'Organismo valuta gli elementi probatori dello svolgimento di consulenza in materia di investimenti e della misura dello stesso, nonche' la congruita' di quest'ultima per l'acquisizione della qualificazione professionale di cui al comma 2. 
  Tra gli elementi di valutazione della congruita', l'Organismo tiene conto del volume d'affari e del numero dei clienti.
+
+4.
+                    
+                        
+                            Fermo restando il possesso del titolo di studio di cui all'articolo 2, comma 1, sono esonerati dalla prova valutativa di cui all'articolo 2, comma 2, a condizione che l'iscrizione all'Albo sia richiesta dagli interessati entro ((sei mesi dalla data di avvio dell'operativita' dell'Albo)): 
+ 
+                        
+                        
+                            a)
+                            
+                                i promotori finanziari regolarmente iscritti al relativo albo che, per uno o piu' periodi di tempo complessivamente pari a due anni nei tre anni precedenti la richiesta di iscrizione all'Albo, hanno esercitato la propria attivita' professionale per conto di soggetti abilitati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i quadri direttivi di terzo e quarto livello di soggetti abilitati che, per uno o piu' periodi di tempo complessivamente pari a due anni nei tre anni precedenti la richiesta di iscrizione all'Albo, siano stati addetti ad uno dei servizi di investimento previsti dal decreto legislativo 24 febbraio 1998, n. 58, o al settore della commercializzazione di prodotti finanziari del soggetto abilitato ovvero il personale preposto ad una dipendenza o ad un'altra unita' operativa di un soggetto abilitato, o comunque responsabile della stessa, addetto ad uno dei predetti servizi di investimento.
 
 Ai fini dell'esonero dalla prova valutativa, i soggetti di cui al comma 4 producono la documentazione attestante l'esercizio dell'attivita' professionale, che comprende la dichiarazione di un rappresentante del soggetto abilitato attestante l'ufficio al quale il richiedente l'iscrizione all'Albo e' stato addetto, le mansioni ricoperte e il relativo periodo di svolgimento.
 

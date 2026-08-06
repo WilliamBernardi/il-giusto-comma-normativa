@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2013-10-09;139
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,45 @@ Data comunicazione al Presidente del Consiglio dei Ministri, ai sensi dell'art. 
 
 ## Art. 1. — Ambito di applicazione e definizioni
 
+1.
+                    
+                        
+                            Le disposizioni del presente decreto si applicano alle bioraffinerie di seconda e di terza generazione sulla base delle seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                bioraffinazione : attivita' che consiste nell'integrazione di processi di conversione della biomassa di natura chimica, fisica o microbiologica al fine di produrre biocarburanti, prodotti biochimici ad alto valore aggiunto e bioenergia. Gli impianti ricadenti in unico sito dedicati alle lavorazioni e alle trasformazioni necessarie ai predetti processi compongono una fattispecie impiantistica denominata bioraffineria. Nell'ambito della attivita' di bioraffinazione rientrano differenti tipologie di materie prime in ingresso e di processi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                bioraffinerie di prima generazione: sistemi con capacita' di processo fissa e privi di flessibilita' con una filiera di produzione a partire da biomassa e prodotti di origine agricola o forestale e anche della filiera agricola convenzionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                bioraffinerie di seconda generazione: sistemi che possono produrre diversi materiali per una pluralita' di possibili utilizzazioni a partire da biomassa e prodotti di origine agricola o forestale, scarti dell'industria agroalimentare e alimentare (es. grassi animali), oli esausti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                bioraffinerie di terza generazione: sistemi che possono produrre diversi materiali per una pluralita' di possibili utilizzazioni a partire da biomasse ottenute mediante valorizzazioni di terreni marginali o non agricoli o in mare; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per biomassa a filiera corta si intende la materia prima approvvigionata secondo modalita' eco-sostenibili sotto il profilo dell'emissione di CO2.
+
 Ai fini del presente decreto si applicano, altresi', le definizioni di cui all'art. 2 del decreto legislativo 3 marzo 2011, n. 28.
 
 ## Art. 2. — Procedure di autorizzazione
@@ -49,6 +88,31 @@ Al fine dell'attuazione di quanto stabilito al comma 2 e con le modalita' indivi
 Nell'ambito dei procedimenti autorizzatori, per gli impianti con caratteristiche di processo analoghe rispetto a quelle di impianti gia' realizzati della stessa tipologia ed in esercizio in altro sito, l'autorizzazione alla loro costruzione e al loro esercizio non prevede una valutazione del processo, ma ne individua gli ingressi di materia prima e le uscite di prodotti e altre emissioni inquinanti per determinarne gli impatti ambientali e verificare il rispetto dei limiti di emissione. Ai fini della dimostrazione dell'analogia del processo, il richiedente presenta l'autorizzazione gia' acquisita dall'impianto similare, effettua le valutazioni ambientali e adotta tutte le misure impiantistiche allo scopo di ottenere un impatto ambientale nel nuovo sito equivalente a quello gia' autorizzato.
 
 ## Art. 3. — Piano di approvvigionamento
+
+1.
+                    
+                        
+                            Il piano di approvvigionamento deve riportare le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                disponibilita' territoriale presente o stimata delle biomasse agricole e forestali da utilizzare quali materie prime; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                modalita' di produzione, raccolta, trasporto e stoccaggio delle biomasse di cui alla lettera a), indicando, per ciascuna fase, i consumi energetici e le emissioni di CO2-equivalente che discendono; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                indicazioni precise su come garantire il rispetto della tracciabilita' del processo di approvvigionamento delle materie prime, nonche' della sostenibilita', nel caso di produzione di biocarburanti, cosi' come individuate dalla vigente normativa comunitaria e nazionale e dal presente decreto.
 
 Il piano di cui al comma 1 puo' prevedere un sistema di approvvigionamento che si avvalga di intese di filiera nonche' di contratti quadro per la fornitura di materia prima dai Paesi dell'area euro-mediterranea con i quali l'Italia ha attivato intese nell'ambito dei programmi di cooperazione e sviluppo. Tale sistema deve comunque garantire la tracciabilita' e la sostenibilita' di cui alla lettera c).
 

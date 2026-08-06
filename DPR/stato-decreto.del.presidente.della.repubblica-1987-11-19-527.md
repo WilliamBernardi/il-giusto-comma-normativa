@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-06-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -45,6 +45,31 @@ Per garantire comunque un buon livello di servizio pubblico provinciale, il Mini
 Nella determinazione del corrispettivo per il complesso delle prestazioni fornite dal gestore dell'infrastruttura ferroviaria, ivi compresa la fruizione dell'infrastruttura medesima, insistente sul territorio delle province di Trento e di Bolzano, alle imprese esercenti i servizi ferroviari di cui al comma 1, si tiene conto degli oneri assunti per il miglioramento dell'infrastruttura stessa dalle province autonome di Trento e di Bolzano mediante convenzione.
 
 I servizi ferroviari di cui al comma 1 comprendono quelli in concessione, alla data di entrata in vigore del presente articolo, alla Trenitalia S.p.a., espressamente indicati nell'accordo di programma tra il Ministro dei trasporti e della navigazione e le province di Trento e di Bolzano, nel quale saranno altresi' recepite, relativamente ai servizi che interessano il territorio di piu' regioni o province autonome, le intese di cui al comma 7.
+
+7.
+                    
+                        
+                            Ai fini dell'accordo di programma di cui al comma 6, le province autonome, attraverso intese con le regioni interessate, individuano:
+ 
+                        
+                        
+                            a)
+                            
+                                i servizi ferroviari che riguardano il territorio delle stesse province autonome e altre regioni viciniori.
+
+                            
+                        
+                        
+                            b)
+                            
+                                la provincia autonoma o regione che provvede, anche per conto degli altri enti o regioni, alla stipula e alla gestione dei contratti di servizio relativi ai servizi di cui alla lettera a);
+
+                            
+                        
+                        
+                            c)
+                            
+                                i criteri che regolano i rapporti programmatori, tecnico-organizzativi, economici e tariffari in relazione ai detti servizi ferroviari.
 
 Relativamente ai servizi di cui al comma 6, le province autonome di Trento e di Bolzano subentrano allo Stato nel rapporto con Trenitalia S.p.a., e stipulano con la stessa societa' il relativo contratto di servizio con scadenza al 31 dicembre 2003, nel quale Trenitalia S.p.a., si impegnera' ad assicurare la consistenza e il livello di servizio in essere. Rimangono a carico dello Stato gli oneri finanziari derivanti da obbligazioni assunte con le Ferrovie dello Stato S.p.a. nel periodo antecedente al predetto subentro, o comunque alle stesse conseguenti.
 
@@ -172,6 +197,24 @@ Sono esercitate dalle province le funzioni amministrative, ivi comprese quelle d
 (( 1-bis. E' delegata alle Province la definizione dei ricorsi amministrativi concernenti atti e provvedimenti delle province medesime, relativi alle funzioni ad esse trasferite o delegate ai sensi del presente decreto ))
 
 ((
+
+1-ter.
+                    
+                        
+                            E' delegata altresi' alle medesime province la definizione dei ricorsi previsti dal Codice della Strada:
+ 
+                        
+                        
+                            a)
+                            
+                                avverso il giudizio delle commissioni mediche locali istituite dalle province, concernente l'accertamento del possesso dei requisiti fisici e psichici previsti per il conseguimento della patente di guida o in relazione alla sua revisione, revoca o sospensione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                avverso i provvedimenti di sospensione o di revoca della patente di guida adottati dagli uffici delle province.
 
 ))
 

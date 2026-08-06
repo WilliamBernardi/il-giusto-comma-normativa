@@ -8,8 +8,8 @@ codice_redazionale: 011G0177
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,38 @@ La formazione all'estero e' disciplinata dal presente regolamento come pratica t
 Non sono tenuti a compiere la formazione di cui al presente regolamento i dirigenti che sono stati ammessi al concorso di cui all'articolo 28-bis del decreto legislativo n. 165 del 2001 in quanto appartenenti all'organico dell'Unione europea secondo i requisiti di accesso indicati dal decreto del Presidente del Consiglio dei Ministri previsto dal comma 1 del citato articolo 28-bis, nonche' i dirigenti assunti in esito ai concorsi pubblici a tempo determinato di cui al comma 2 del citato articolo 28-bis.
 
 ## Art. 2. — Obiettivi della formazione
+
+1.
+                    
+                        
+                            La formazione all'estero si fonda sull'esperienza comparata e mira a: 
+ 
+                        
+                        
+                            a)
+                            
+                                far acquisire ai dirigenti competenze e strumenti tipici delle scienze manageriali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornire ai dirigenti gli strumenti e le tecniche proprie del processo decisionale riferiti prioritariamente alle aree di organizzazione e gestione degli uffici pubblici, agli indicatori di qualita', alla gestione delle risorse umane, ai criteri di finanziamento e agli elementi di bilancio e controllo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                incrementare il livello delle competenze dei dirigenti per assicurarne il miglior contributo alla performance generale dell'organizzazione statale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sviluppare la capacita' di interagire con amministrazioni e organismi internazionali.
 
 La formazione si svolge essenzialmente su metodologie funzionali alla razionale impostazione dei processi, in correlazione alla efficacia, efficienza, trasparenza ed economicita' dell'azione amministrativa.
 

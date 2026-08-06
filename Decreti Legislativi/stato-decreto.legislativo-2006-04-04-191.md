@@ -8,8 +8,8 @@ codice_redazionale: 006G0210
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,9 +29,80 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro della sa
 
 Lo scopo del presente decreto e' quello di garantire una adeguata sorveglianza delle zoonosi, degli agenti zoonotici e della resistenza agli antimicrobici ad essi correlata e un'adeguata indagine epidemiologica dei focolai di tossinfezione alimentare, per consentire di raccogliere le informazioni necessarie ad una valutazione delle relative tendenze e fonti.
 
+2.
+                    
+                        
+                            Il presente decreto disciplina:
+ 
+                        
+                        
+                            a)
+                            
+                                la sorveglianza delle zoonosi e degli agenti zoonotici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sorveglianza della resistenza agli antimicrobici ad essi correlata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indagine epidemiologica dei focolai di tossinfezione alimentare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                lo scambio di informazioni relative alle zoonosi e agli agenti zoonotici.
+
 Sono fatte salve le vigenti disposizioni in materia di sanita' animale, alimentazione animale, igiene dei prodotti alimentari, malattie umane trasmissibili, salute e sicurezza sul posto di lavoro, ingegneria genetica ed encefalopatie spongiformi trasmissibili.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano, oltre alle definizioni di cui al regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                zoonosi: qualsiasi malattia o infezione che possa essere trasmessa naturalmente, direttamente o indirettamente, tra gli animali e l'uomo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                agente zoonotico: qualsiasi virus, batterio, fungo, parassita o altra entita' biologica che possa causare una zoonosi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                resistenza agli antimicrobici: la capacita' di determinate specie di microrganismi di sopravvivere, se non addirittura di crescere, in presenza di una data concentrazione di un agente antimicrobico sufficiente di solito ad inibire la crescita o ad uccidere microrganismi della stessa specie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                focolaio di tossinfezione alimentare: un'incidenza, osservata in determinate circostanze, di due o piu' casi di persone colpite dalla stessa malattia o infezione, oppure la situazione in cui il numero di casi di malattia osservato sia superiore al numero prevedibile e i casi abbiano una correlazione od una correlazione probabile con la stessa fonte alimentare;
+
+                            
+                        
+                        
+                            e)
+                            
+                                sorveglianza: un sistema di raccolta, analisi e diffusione dei dati sull'incidenza di zoonosi, di agenti zoonotici e di resistenza agli antimicrobici ad essi correlata.
 
 ## Art. 3. — Obblighi generali
 
@@ -53,6 +124,24 @@ La sorveglianza e' effettuata dall'azienda unita' sanitaria locale competente pe
 La sorveglianza di cui al comma 2 riguarda le zoonosi e gli agenti zoonotici elencati nell'allegato I, parte A. In funzione della situazione epidemiologica del loro territorio, le regioni e province autonome possono porre sotto sorveglianza anche le zoonosi e gli agenti zoonotici elencati nell'allegato I, parte B.
 
 ## Art. 5. — Obblighi degli operatori del settore alimentare
+
+1.
+                    
+                        
+                            Gli operatori del settore alimentare in caso di riscontro di zoonosi e agenti zoonotici che sono oggetto di sorveglianza ai sensi dell'articolo 4, comma 2, devono, in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                conservare i risultati, nonche' i pertinenti isolati per un periodo di due anni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                comunicare i risultati, fornendo gli isolati su richiesta della competente autorita'.
 
 ## Art. 6. — Sorveglianza della resistenza agli antimicrobici
 

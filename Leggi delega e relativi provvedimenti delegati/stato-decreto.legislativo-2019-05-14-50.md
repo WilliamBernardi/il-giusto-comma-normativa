@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2023-06-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,45 @@ Il presente decreto si applica all'intero sistema ferroviario, che e' suddiviso 
 
 Restano ferme le specifiche competenze del Ministero dell'interno in materia di soccorso pubblico, difesa civile, prevenzione incendi e altre attivita' assegnate al Corpo nazionale dei vigili del fuoco, del Ministero delle infrastrutture e dei trasporti in materia di norme tecniche costruttive delle opere civili ed i compiti del Ministero del lavoro e delle politiche sociali e del Ministero della salute, con particolare riferimento alle condizioni all'interno delle aree di cantiere.
 
+3.
+                        
+                            
+                                Il presente decreto non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle metropolitane; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai tram e ai veicoli leggeri su rotaia, nonche' alle infrastrutture utilizzate soltanto da tali veicoli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle infrastrutture ferroviarie private, ivi compresi i binari di raccordo privati, utilizzate per fini non commerciali dal proprietario o da un operatore per le loro rispettive attivita' di trasporto merci o per il trasporto di persone, nonche' ai veicoli utilizzati esclusivamente su tali infrastrutture; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle infrastrutture per il trasporto leggero su rotaia, utilizzate occasionalmente da veicoli ferroviari nelle condizioni operative del sistema di trasporto leggero su rotaia, ove e' necessario il transito di quei veicoli soltanto a fini di connettivita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai veicoli utilizzati principalmente sulle infrastrutture per il trasporto leggero su rotaia, ma attrezzati con alcuni componenti ferroviari necessari per consentire il transito a tali veicoli su una sezione confinata e limitata di infrastruttura ferroviaria soltanto a fini di connettivita'.
+
 Le reti ferroviarie isolate dal punto di vista funzionale dal resto del sistema ferroviario sono quelle concesse dallo Stato e quelle per le quali sono attribuite alle regioni le funzioni e i compiti di programmazione e di amministrazione ai sensi del decreto legislativo 19 novembre 1997, n. 422, adibite a servizi ferroviari locali ordinariamente espletati con distanziamento regolato da segnali, individuate con decreto del Ministro delle infrastrutture e dei trasporti entro sessanta giorni dalla data di entrata in vigore del presente decreto, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e Bolzano.
 Nelle more dell'adozione del decreto di cui al primo periodo, sono da considerarsi isolate le reti che non figurano nell'Allegato A di cui al decreto del Ministro delle infrastrutture e dei trasporti 5 agosto 2016, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 216 del 15 settembre 2016. A tali reti e ai soggetti che operano su di esse, non si applicano le disposizioni di cui agli articoli 7, 9, 10 e 11. Le modalita' applicative degli articoli 6, 8, 13 e 17 sono disciplinate dall'ANSFISA, ai sensi dell'articolo 16, comma 2, lettera bb). Sulle reti in cui esiste un solo soggetto integrato che gestisce l'infrastruttura ed effettua il servizio di trasporto in esclusiva sulla propria rete, i compiti e le responsabilita' che il presente decreto attribuisce ai gestori dell'infrastruttura e alle imprese ferroviarie sono da considerarsi attribuiti al soggetto integrato esercente. Le disposizioni di cui al presente comma sono applicabili nelle regioni a statuto speciale e nelle Province autonome di Trento e Bolzano compatibilmente con le norme dei rispettivi statuti e delle relative norme di attuazione.
 
@@ -46,10 +85,422 @@ Per le infrastrutture ferroviarie di cui alla legge 9 agosto 2017, n. 128, nonch
 
 ## Art. 3. — Definizioni
 
+1.
+                        
+                            
+                                Ai soli fini dell'applicazione del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «sistema ferroviario»: gli elementi della rete ferroviaria e i veicoli elencati all'Allegato I del decreto legislativo Interoperabilita' ferroviaria, facenti parte di tutte le reti ferroviarie sul territorio nazionale o che operano su di esse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «gestore dell'infrastruttura»: il soggetto definito ai sensi dell'articolo 3, comma 1, lettera b), del decreto legislativo 15 luglio 2015, n. 112, recante recepimento della direttiva 2012/34/UE del Parlamento europeo e del Consiglio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «impresa ferroviaria»: il soggetto definito ai sensi dell'articolo 3, comma 1, lettera a), del decreto legislativo n. 112 del 2015 e qualsiasi altra impresa pubblica o privata la cui attivita' consiste nella prestazione di servizi di trasporto di merci ovvero passeggeri per ferrovia e che garantisce obbligatoriamente la trazione, incluse le imprese che forniscono solo la trazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Specifica tecnica di interoperabilita' - STI» (Technical specification for interoperability - TSI): una regola tecnica adottata ai sensi della direttiva (UE) 2016/797, avente ad oggetto ciascun sottosistema o parte di un sottosistema, allo scopo di soddisfare i requisiti essenziali e garantire l'interoperabilita' del sistema ferroviario dell'Unione europea; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «obiettivi comuni di sicurezza» (Common safety target di seguito - CST): i livelli minimi di sicurezza che devono almeno essere raggiunti dal sistema nel suo insieme e, ove possibile, dalle diverse parti del sistema ferroviario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «metodi comuni di sicurezza» (Common safety method di seguito - CSM): i metodi che descrivono la valutazione dei livelli di sicurezza, il raggiungimento degli obiettivi di sicurezza e la conformita' con altri requisiti in materia di sicurezza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «Agenzia nazionale per la sicurezza delle ferrovie e delle infrastrutture stradali e autostradali» (ANSFISA): l'organismo nazionale, istituito dal decreto-legge 28 settembre 2018, n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130, operante come autorita' nazionale preposta alla sicurezza con riferimento ai compiti previsti dal presente decreto riguardanti la sicurezza ferroviaria e che sostituisce l'Agenzia nazionale per la sicurezza delle ferrovie (ANSF), quale precedente organismo nazionale istituito come autorita' nazionale preposta alla sicurezza dal decreto legislativo 10 agosto 2007, n. 162; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «norme nazionali»: tutte le norme e le altre disposizioni vincolanti, emanate dalle competenti Autorita', che contengono requisiti in materia di sicurezza ferroviaria o requisiti tecnici diversi da quelli stabiliti dalle norme dell'Unione europea o internazionali, e che sono applicabili alle imprese ferroviarie, ai gestori dell'infrastruttura o a terzi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «sistema di gestione della sicurezza»: l'organizzazione, i provvedimenti e le procedure messi in atto da un gestore dell'infrastruttura o da un'impresa ferroviaria per assicurare la gestione sicura delle proprie operazioni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «investigatore incaricato»: persona preposta all'organizzazione, allo svolgimento e al controllo di un'indagine; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «incidente»: un evento improvviso indesiderato o non intenzionale oppure una specifica catena di siffatti eventi, avente conseguenze dannose; gli incidenti si dividono nelle seguenti categorie: collisioni, deragliamenti, incidenti ai passaggi a livello, incidenti a persone in cui e' coinvolto materiale rotabile in movimento, incendi e altro; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «incidente grave»: qualsiasi collisione ferroviaria o deragliamento di treni che causa la morte di almeno una persona oppure il ferimento grave di cinque o piu' persone oppure seri danni al materiale rotabile, all'infrastruttura o all'ambiente, nonche' qualsiasi altro incidente con le stesse conseguenze avente un evidente impatto sulla regolamentazione della sicurezza ferroviaria o sulla gestione della stessa; per «seri danni» si intendono i danni il cui costo totale puo' essere stimato immediatamente dall'organismo investigativo in almeno 2 milioni di euro; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «inconveniente»: qualsiasi evento diverso da un incidente o da un incidente grave, avente un'incidenza sulla sicurezza dell'esercizio ferroviario; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «indagine»: una procedura finalizzata alla prevenzione di incidenti ed inconvenienti che comprende la raccolta e l'analisi di informazioni, la formulazione di conclusioni, tra cui la determinazione delle cause e, se del caso, la formulazione di raccomandazioni in materia di sicurezza; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «cause»: ogni azione, omissione, evento o condizione oppure una combinazione di questi elementi, il cui risultato sia un incidente o un inconveniente; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «trasporto leggero su rotaia»: un sistema di trasporto ferroviario urbano ovvero suburbano con una resistenza alla collisione di C-III o C-IV (conformemente alla norma EN 15227:2011) e una resistenza massima del veicolo di 800 kN (sforzo longitudinale di compressione nella zona di accoppiamento); i sistemi di trasporto leggero su rotaia possono disporre di un tracciato proprio o condividerlo con il traffico stradale ed in generale non effettuano scambi di veicoli con traffico merci o passeggeri di lunga distanza; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «organismo di valutazione della conformita'»: un organismo che e' stato notificato o designato dallo Stato membro ai sensi del decreto legislativo Interoperabilita' ferroviaria quale responsabile delle attivita' di valutazione della conformita' rispettivamente alle norme dell'Unione europea o alle norme nazionali, fra cui taratura, prove, certificazione e ispezione; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «componenti di interoperabilita'»: quelli definiti nel decreto legislativo Interoperabilita' ferroviaria; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «detentore»: persona fisica o giuridica che, essendo il proprietario del veicolo o avendo il diritto ad utilizzarlo, lo sfrutta in quanto mezzo di trasporto ed e' registrato come tale nel registro dei veicoli di cui all'articolo 47 della direttiva (UE) 2016/797; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «soggetto responsabile della manutenzione» (Entity in charge of maintenance - ECM): soggetto responsabile della manutenzione di un veicolo, registrato in quanto tale nel registro dei veicoli di cui all'articolo 47 della direttiva (UE) 2016/797; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «veicolo»: veicolo ferroviario idoneo a circolare con ruote sulle linee ferroviarie, con o senza trazione; un veicolo si compone di uno o piu' sottosistemi strutturali e funzionali; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «fabbricante»: qualsiasi persona fisica o giuridica che fabbrica un prodotto nella forma di componenti di interoperabilita', sottosistemi o veicoli, oppure lo fa progettare o fabbricare e lo commercializza con il proprio nome o marchio; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «speditore»: impresa che spedisce le merci per proprio conto o per conto terzi; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «consegnatario»: qualsiasi persona fisica o giuridica che riceve i beni ai sensi di un contratto di trasporto; se l'operazione di trasporto ha luogo senza un contratto di trasporto, il consegnatario e' la persona fisica o giuridica che prende in consegna le merci all'arrivo; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «caricatore»: impresa che carica merci imballate, piccoli contenitori o cisterne mobili in o su un carro o un contenitore o che carica su un carro un contenitore, un contenitore per il trasporto alla rinfusa, un contenitore per gas a elementi multipli, un contenitore-cisterna o una cisterna mobile; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    «scaricatore»: impresa che rimuove un contenitore, un contenitore per il trasporto alla rinfusa, un contenitore per gas a elementi multipli, un contenitore-cisterna o una cisterna mobile da un carro, oppure qualsiasi impresa che scarica merci imballate, piccoli contenitori o cisterne mobili da un carro o da contenitore, oppure qualsiasi impresa che scarica merci da una cisterna (carro-cisterna, cisterna amovibile, cisterna mobile o contenitore cisterna) o da un carrobatteria o un contenitore per gas a elementi multipli o da un carro, un grande contenitore o un piccolo contenitore per il trasporto alla rinfusa o un contenitore per il trasporto alla rinfusa; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    «riempitore»: impresa che riempie con merci una cisterna (inclusi un carro-cisterna, un carro con cisterne amovibili, una cisterna mobile o un contenitore-cisterna), un carro, un grande contenitore o un piccolo contenitore per il trasporto alla rinfusa, oppure un carro-batteria o un contenitore per gas a elementi multipli; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    «svuotatore»: impresa che rimuove merci da una cisterna (inclusi un carro-cisterna, un carro con cisterne amovibili, una cisterna mobile o un contenitore-cisterna), un carro, un grande contenitore o un piccolo contenitore per il trasporto alla rinfusa, oppure da un carro-batteria o un contenitore per gas a elementi multipli; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    «trasportatore»: impresa che effettua un'operazione di trasporto, con o senza contratto di trasporto; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    «ente appaltante»: ente, pubblico o privato, che ordina la progettazione ovvero la costruzione, il rinnovo o la ristrutturazione di un sottosistema; 
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    «tipo di attivita'»: la tipologia di servizio svolto, inerente il trasporto di passeggeri, inclusi i servizi ad alta velocita', il trasporto di merci, incluso il trasporto di merci pericolose, e i servizi di sola manovra; 
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    «portata dell'attivita'»: il rilievo dell'attivita' svolta caratterizzato dal numero di passeggeri ovvero volume delle merci e dalla dimensione stimata di un'impresa ferroviaria in termini di numero di dipendenti occupati nel settore ferroviario (vale a dire una micro, piccola, media o grande impresa); 
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    «area di esercizio»: la rete o le reti all'interno di uno o piu' Stati membri nel cui ambito un'impresa ferroviaria intende fare esercizio; 
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    «decreto legislativo Interoperabilita' ferroviaria»: il decreto legislativo di recepimento della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio dell'11 maggio 2016, relativa all'interoperabilita' del sistema ferroviario dell'Unione europea; 
+
+                                
+                            
+                            
+                                pp)
+                                
+                                    «Agenzia dell'Unione europea per le ferrovie (European union agency for railways - ERA)»: l'organismo di cui al regolamento (UE) 2016/796 del Parlamento europeo e del Consiglio, dell'11 maggio 2016; 
+
+                                
+                            
+                            
+                                qq)
+                                
+                                    «binari di raccordo privati»: binari ferroviari che collegano una infrastruttura ferroviaria privata con la rete del sistema ferroviario fino alla barriera tecnica atta ad evitare l'interferenza tra i movimenti effettuati all'interno del raccordo e quelli sulla rete ferroviaria stessa; sui binari di detto raccordo vengono effettuate movimentazioni di veicoli unicamente per gli scopi indicati all'articolo 2, comma 3, lettera c); 
+
+                                
+                            
+                            
+                                rr)
+                                
+                                    «Organismo indipendente ferroviario (OIF)»: organismo di terza parte riconosciuto dall'ANSFISA per lo svolgimento di compiti afferenti alla sicurezza ferroviaria, quali l'effettuazione di valutazioni di conformita' e di processo, qualifiche di laboratori, esecuzione di prove, nei relativi processi autorizzativi sulla base di norme nazionali non soggette a notifica, anche attraverso la stipula di specifici accordi con l'Ente unico nazionale di accreditamento di cui all'articolo 4 della legge 23 luglio 2009, n. 99; 
+
+                                
+                            
+                            
+                                ss)
+                                
+                                    «disposizioni e prescrizioni di esercizio»: provvedimenti emanati dalle imprese ferroviarie e dai gestori infrastruttura nell'ambito delle competenze previste dai rispettivi sistemi di gestione della sicurezza e conformi alle norme nazionali, per disciplinare i processi interni e l'operativita' del personale; le disposizioni di esercizio hanno carattere di generalita', mentre le prescrizioni di esercizio riguardano fattispecie particolari, riferibili a casi specifici. 
+
+                                
+                            
+                            
+                                tt)
+                                
+                                    «Organismo investigativo nazionale (National investigating body - NIB)»: l'Organismo investigativo nazionale, istituito presso il Ministero delle infrastrutture e dei trasporti ai sensi del decreto legislativo 10 agosto 2007, n. 162.
+
 ## - Capo II Sviluppo e gestione della sicurezza ferroviaria
 
 ## Art. 4. — Ruolo dei soggetti del sistema ferroviario nello sviluppo 
  e miglioramento della sicurezza ferroviaria
+
+1.
+                        
+                            
+                                Il Ministero delle infrastrutture e dei trasporti e l'ANSFISA, nell'ambito delle rispettive competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantiscono il generale mantenimento e, ove ragionevolmente praticabile, il costante miglioramento della sicurezza ferroviaria, tenendo conto dell'evoluzione del diritto dell'Unione europea e delle norme internazionali, del progresso tecnico e scientifico e dando la priorita' alla prevenzione degli incidenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvedono affinche' l'applicazione della normativa di riferimento avvenga in maniera trasparente e non discriminatoria, incoraggiando lo sviluppo di un sistema di trasporto ferroviario europeo unico.
+
+2.
+                        
+                            
+                                L'ANSFISA provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    affinche' le disposizioni relative allo sviluppo e al miglioramento della sicurezza ferroviaria tengano conto dell'esigenza di un approccio sistemico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    affinche' la responsabilita' del funzionamento sicuro del sistema ferroviario e del controllo dei rischi che ne derivano, incomba sui gestori dell'infrastruttura e sulle imprese ferroviarie, ciascuno per la propria parte di sistema, inducendoli a: 
+ 1) mettere in atto le necessarie misure di controllo del rischio di cui all'articolo 6, comma 1, lettera a), della direttiva (UE) 2016/798, ove appropriato cooperando con i soggetti coinvolti; 
+ 2) applicare le norme dell'Unione europea e le norme nazionali; 
+ 3) istituire sistemi di gestione della sicurezza ai sensi dell'articolo 8; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    affinche' ciascun gestore dell'infrastruttura e ciascuna impresa ferroviaria siano responsabili della propria parte di sistema e del relativo funzionamento in sicurezza, compresa la fornitura di materiali e l'appalto di servizi, nei confronti di utenti, clienti, lavoratori interessati e altri soggetti ai sensi del successivo comma 4, fatta salva la responsabilita' civile ai sensi delle disposizioni giuridiche nazionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a elaborare e pubblicare sul proprio sito istituzionale i piani annuali di sicurezza che stabiliscono le misure al fine di conseguire gli obiettivi comuni di sicurezza (CST), indicando inoltre le aree di miglioramento in materia di sicurezza ferroviaria che i gestori dell'infrastruttura e le imprese ferroviarie sono tenuti a conseguire; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a supportare l'ERA nelle sue attivita' di monitoraggio dell'evoluzione della sicurezza ferroviaria a livello dell'Unione europea.
+
+3.
+                        
+                            
+                                Le imprese ferroviarie e i gestori dell'infrastruttura, ciascuno per la propria parte di sistema, sono responsabili del funzionamento sicuro del sistema ferroviario e del controllo dei rischi che ne derivano, compresa la fornitura di materiale e l'appalto di servizi nei confronti di utenti, clienti, lavoratori interessati e terzi, e a tale fine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mettono in atto le necessarie misure di controllo del rischio di cui all'articolo 6, comma 1, lettera a), della direttiva (UE) 2016/798, ove appropriato cooperando reciprocamente e con gli altri soggetti coinvolti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tengono conto, nei loro sistemi di gestione della sicurezza, dei rischi associati alle attivita' di altri soggetti e di terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    obbligano per contratto, ove necessario, gli altri soggetti di cui al comma 4, che hanno un potenziale impatto sul funzionamento sicuro del sistema ferroviario, a mettere in atto misure di controllo del rischio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    provvedono affinche' le proprie imprese appaltatrici attuino misure di controllo del rischio attraverso l'applicazione dei CSM relativi ai processi di monitoraggio, definiti nel CSM per il monitoraggio di cui all'articolo 6, comma 1, lettera c), della direttiva (UE) 2016/798, ed affinche' cio' sia stabilito in accordi contrattuali da fornire su richiesta dell'ERA o dell'ANSFISA; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    emettono prescrizioni e disposizioni di esercizio necessarie ai fini di cui alle lettere a) e b) del comma 2 dell'articolo 16.
+
+4.
+                        
+                            
+                                Fatte salve le responsabilita' delle imprese ferroviarie e dei gestori dell'infrastruttura di cui al comma 3, i soggetti responsabili della manutenzione (ECM) e tutti gli altri soggetti la cui azione ha un potenziale impatto sul funzionamento sicuro del sistema ferroviario, tra cui fabbricanti, fornitori di servizi di manutenzione, detentori, fornitori di servizi, enti appaltanti, trasportatori, speditori, consegnatari, caricatori, scaricatori, riempitori e svuotatori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mettono in atto le necessarie misure di controllo del rischio, ove appropriato cooperando con altri soggetti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurano che i sottosistemi, gli accessori, i materiali, le attrezzature e i servizi da loro forniti siano conformi ai requisiti e alle condizioni di impiego richiesti, affinche' possano essere utilizzati in modo sicuro dall'impresa ferroviaria e dal gestore dell'infrastruttura interessati.
+
+5.
+                        
+                            
+                                Le imprese ferroviarie, i gestori dell'infrastruttura e qualsiasi soggetto di cui al comma 4 che individui o sia informato di un rischio di sicurezza dovuto a difetti, non conformita' nella costruzione o funzionamento difettoso di attrezzature tecniche, incluse quelle dei sottosistemi strutturali, nei limiti delle rispettive competenze: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adottano le misure correttive necessarie per far fronte al rischio di sicurezza individuato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    segnalano tali rischi alle pertinenti parti interessate, nonche' all'ANSFISA e all'Organismo investigativo nazionale, per consentire loro di adottare le necessarie ulteriori misure correttive, in modo da garantire costantemente il funzionamento sicuro del sistema ferroviario. Lo scambio di informazioni tra i soggetti interessati, e' attuato attraverso lo strumento informatico messo a disposizione dall'ERA a tale scopo, quando disponibile, oppure attraverso opportuni protocolli di relazione tra i vari soggetti interessati, stabiliti nei contratti o accordi tra le parti.
 
 Nel caso di scambio di veicoli tra imprese ferroviarie, i soggetti interessati condividono tutte le informazioni pertinenti per lo svolgimento sicuro dell'esercizio, compresi, almeno, la situazione e la storia del veicolo interessato, elementi dei dossier di manutenzione ai fini della tracciabilita', la tracciabilita' delle operazioni di carico e le lettere di vettura. I protocolli di relazione per lo scambio di informazioni tra i vari soggetti interessati sono stabiliti nei contratti o accordi tra le parti.
 
@@ -65,6 +516,88 @@ Il Ministero delle infrastrutture e dei trasporti, l'ANSFISA e le altre autorita
 L'ANSFISA notifica alla Commissione europea le norme di cui al comma 1, ai sensi dell'articolo 7.
 
 ## Art. 7. — Norme nazionali in materia di sicurezza
+
+1.
+                        
+                            
+                                Il Ministero delle infrastrutture e dei trasporti, sentita l'ANSFISA per quanto di competenza, riesamina, anche ai fini di quanto previsto dall'articolo 19, comma 2, lettera b), le norme nazionali gia' notificate entro il 15 giugno 2016 ai sensi della direttiva 2004/49/CE e, con apposito provvedimento, indica conseguentemente le norme nazionali, diverse da quelle emanate con regolamento governativo o atto legislativo, che continuano ad applicarsi qualora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rientrano in una delle tipologie di cui all'allegato II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono conformi al diritto dell'Unione europea, compresi in particolare le STI, i CST e i CSM; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non danno luogo a discriminazione arbitraria o a una dissimulata restrizione delle operazioni di trasporto ferroviario tra Stati membri.
+
+2.
+                        
+                            
+                                In esito al riesame di cui al comma 1, il Ministero delle infrastrutture e dei trasporti, sentita l'ANSFISA, con il provvedimento di cui al comma 1, e salvo quanto previsto dall'articolo 19, comma 2, lettera b), abroga o dichiara inefficaci le norme nazionali diverse da quelle emanate con regolamento governativo o atto legislativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che non sono state notificate o che non soddisfano le condizioni specificate al comma 1. A tal fine, puo' avvalersi dello strumento di gestione delle norme di cui all'articolo 27, comma 4, del regolamento (UE) 2016/796 e puo' chiedere all'ERA di esaminare norme specifiche sulla base delle condizioni specificate al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rese superflue dal diritto dell'Unione europea, comprese in particolare le STI, i CST e i CSM. A tal fine, puo' avvalersi dello strumento di gestione delle norme di cui all'articolo 27, comma 4, del regolamento (UE) 2016/796 e puo' chiedere all'ERA di esaminare norme specifiche sulla base delle condizioni specificate al comma 1.
+
+3.
+                        
+                            
+                                Il Ministero delle infrastrutture e dei trasporti e l'ANSFISA, nelle materie di competenza, e salvo quanto previsto dall'articolo 19, comma 2, lettera b), possono stabilire nuove norme nazionali nei casi seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando norme relative ai metodi di sicurezza esistenti non sono contemplate dai CSM; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando norme di esercizio della rete ferroviaria non sono ancora oggetto di una STI; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    come misura preventiva d'urgenza, in particolare a seguito di un incidente o inconveniente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando e' necessario rivedere una norma gia' notificata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quando norme relative ai requisiti del personale addetto a compiti di sicurezza essenziali, tra cui criteri di selezione, idoneita' sotto il profilo fisico e psicologico e formazione non sono ancora coperte da una STI o dal decreto legislativo 30 dicembre 2010, n. 247.
 
 Prima della prevista introduzione nel sistema giuridico di una nuova norma, i soggetti di cui al comma 3 presentano il relativo progetto alla Commissione europea e all'ERA affinche' lo esaminino, motivandone l'introduzione, tramite il sistema informatico appropriato, in conformita' all'articolo 27 del regolamento (UE) 2016/796, entro i termini di cui all'articolo 25, comma 1, di detto regolamento. Inoltre provvedono affinche' il progetto di norma sia sufficientemente sviluppato per consentire all'ERA di svolgere il suo esame a norma dell'articolo 25, comma 2, del regolamento (UE) 2016/796.
 
@@ -86,6 +619,87 @@ I gestori dell'infrastruttura e le imprese ferroviarie elaborano i propri sistem
 
 Il sistema di gestione della sicurezza (SGS) e' documentato in tutti i suoi elementi pertinenti e descrive, in particolare, la ripartizione delle responsabilita' in seno all'organizzazione del gestore dell'infrastruttura o dell'impresa ferroviaria. L'SGS indica come il controllo e' garantito da parte della direzione a diversi livelli, come sono coinvolti il personale e i rispettivi rappresentanti a tutti i livelli e in che modo e' promosso il miglioramento costante del sistema di gestione della sicurezza stesso. Inoltre, e' necessario un chiaro impegno ad applicare in modo coerente le conoscenze e i metodi per la valutazione del rischio derivante dal fattore umano. Tramite il sistema di gestione della sicurezza, i gestori dell'infrastruttura e le imprese ferroviarie promuovono una cultura di reciproca fiducia e apprendimento, nella quale il personale e' incoraggiato a contribuire allo sviluppo della sicurezza e, allo stesso tempo, e' garantita la riservatezza.
 
+3.
+                        
+                            
+                                Il sistema di gestione della sicurezza si compone dei seguenti elementi essenziali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una politica sulla sicurezza, approvata esclusivamente dall'organo amministrativo di vertice dell'organizzazione e comunicata a tutto il personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    obiettivi di tipo qualitativo e quantitativo dell'organizzazione per il mantenimento e il miglioramento della sicurezza, nonche' piani e procedure per conseguire tali obiettivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedure atte a soddisfare gli standard tecnici e operativi in vigore, nonche' altre condizioni prescrittive cosi' come previste nelle STI, nelle norme nazionali e all'Allegato II, in altre norme pertinenti o in decisioni dell'ANSFISA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedure volte ad assicurare la conformita' agli standard e alle altre prescrizioni durante le operazioni e durante il ciclo di vita delle attrezzature; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    procedure e metodi per l'individuazione e la valutazione dei rischi e l'attuazione delle misure di controllo del rischio quando un cambiamento nelle condizioni di esercizio oppure l'introduzione di nuovo materiale comporti nuovi rischi per l'infrastruttura o per l'interfaccia uomo-macchina-organizzazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    pianificazione dell'attivita' formativa del personale e di sistemi atti a garantire che il personale mantenga le proprie competenze e che i compiti siano svolti conformemente ad esse, incluse disposizioni con riguardo all'idoneita' fisica e psicologica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    disposizioni atte a garantire un livello sufficiente di informazione all'interno dell'organizzazione e fra differenti organizzazioni del sistema ferroviario; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    procedure e modelli per la documentazione delle informazioni in materia di sicurezza e procedura per il controllo delle informazioni essenziali in materia di sicurezza; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    procedure volte a garantire che gli incidenti, gli inconvenienti, i «quasi incidenti» e altri eventi pericolosi siano segnalati, indagati e analizzati, e che siano adottate le necessarie misure preventive; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    piani di intervento, di allarme e informazione in caso di emergenza, concordati con le autorita' pubbliche competenti; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    pianificazione di audit interni regolari del sistema di gestione della sicurezza.
+
 I gestori dell'infrastruttura e le imprese ferroviarie includono nel sistema di gestione della sicurezza qualsiasi altro elemento necessario a coprire i rischi per la sicurezza, in conformita' alla valutazione dei rischi derivanti dalla loro attivita'.
 
 Il sistema di gestione della sicurezza e' adattato in funzione del tipo, delle dimensioni, dell'area di esercizio e delle altre condizioni dell'attivita' svolta.
@@ -98,6 +712,45 @@ Il sistema di gestione della sicurezza di ogni gestore dell'infrastruttura tiene
 
 I sistemi di gestione della sicurezza sono concepiti in modo tale da garantire il coordinamento delle procedure di emergenza del gestore dell'infrastruttura con tutte le imprese ferroviarie che operano sulla sua infrastruttura e con i servizi di emergenza, in modo da facilitare l'intervento rapido dei servizi di soccorso, e con qualsiasi altro soggetto che possa essere coinvolto in una situazione di emergenza, ivi compresi altri gestori dell'infrastruttura in caso di infrastrutture interconnesse. Per le infrastrutture transfrontaliere, la cooperazione tra i gestori dell'infrastruttura pertinenti facilita il coordinamento e la preparazione necessari dei servizi di emergenza competenti sui due lati della frontiera. A seguito di un incidente grave, l'impresa ferroviaria coinvolta fornisce assistenza alle vittime in particolare nell'espletamento delle procedure di ricorso ai sensi del diritto dell'Unione europea, in particolare del regolamento (CE) n. 1371/2007 del Parlamento europeo e del Consiglio, del 23 ottobre 2007, fatti salvi gli obblighi di altre parti. Tale assistenza utilizza canali di comunicazione con i familiari delle vittime e comprende il sostegno psicologico alle vittime di incidenti e ai loro familiari.
 
+10.
+                        
+                            
+                                Entro il 31 maggio di ogni anno, i gestori dell'infrastruttura e le imprese ferroviarie trasmettono all'ANSFISA una relazione annuale sulla sicurezza relativa all'anno solare precedente. Salvo il potere di ANSFISA, qualora lo ritenga necessario, di richiedere ulteriori elementi e chiarimenti, detta relazione contiene almeno: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati relativi alle modalita' di conseguimento degli obiettivi di sicurezza interni dell'organizzazione e i risultati dei piani di sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un resoconto dello sviluppo degli indicatori nazionali di sicurezza e dei CSI di cui all'articolo 5, se pertinente per il soggetto che trasmette la relazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i risultati degli audit di sicurezza interni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le osservazioni in merito alle carenze e al malfunzionamento dell'esercizio ferroviario e della gestione dell'infrastruttura che rivestono un interesse per l'ANSFISA, compresa una sintesi delle informazioni fornite dai soggetti interessati ai sensi dell'articolo 4, comma 5, lettera b); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una relazione sull'applicazione dei pertinenti CSM.
+
 ## - Capo III Certificato e autorizzazione di sicurezza
 
 ## Art. 9. — Certificato di sicurezza unico
@@ -106,7 +759,43 @@ L'accesso all'infrastruttura ferroviaria e' consentito solo alle imprese ferrovi
 
 Lo scopo del certificato di sicurezza unico e' di fornire la prova che l'impresa ferroviaria interessata ha posto in essere un proprio sistema di gestione della sicurezza ed e' in grado di operare in modo sicuro nell'area di esercizio prevista. Il certificato specifica il tipo e la portata delle attivita' ferroviarie in oggetto e l'area di esercizio.
 
+3.
+                        
+                            
+                                Nella domanda di certificato di sicurezza unico, l'impresa ferroviaria precisa il tipo e la portata delle attivita' ferroviarie in oggetto e l'area di esercizio prevista. Tale domanda e' accompagnata da un fascicolo contenente le prove documentali del fatto che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa ferroviaria abbia elaborato un proprio sistema di gestione della sicurezza a norma dell'articolo 8 e soddisfi i requisiti previsti da STI, CSM, CST e da altre pertinenti disposizioni normative, nonche' accordi internazionali laddove esistenti, ai fini del controllo dei rischi e della prestazione di servizi di trasporto sulla rete in condizioni di sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impresa ferroviaria soddisfi i requisiti previsti dalle pertinenti norme nazionali notificate a norma dell'articolo 7.
+
 Tutte le domande e le relative informazioni, le fasi delle pertinenti procedure e i rispettivi risultati, nonche' le richieste e le decisioni della commissione di ricorso di cui all'articolo 55 del regolamento (EU) 2016/796, sono veicolate attraverso lo sportello unico (One stop shop - OSS) di cui all'articolo 12 di detto regolamento.
+
+5.
+                        
+                            
+                                Al fine di rilasciare un certificato di sicurezza unico alle imprese ferroviarie che hanno un'area di esercizio in uno o piu' Stati membri, l'ERA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valuta gli elementi di cui al comma 3, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    laddove l'area d'esercizio comprenda anche il territorio italiano, trasmette senza indugio l'intero fascicolo dell'impresa ferroviaria all'ANSFISA, per una valutazione degli elementi di cui al comma 3, lettera b). A tal fine, l'ANSFISA e' autorizzata a procedere a visite e ispezioni sui siti dell'impresa ferroviaria, nonche' ad audit e puo' chiedere pertinenti informazioni complementari. L'ERA e l'ANSFISA si coordinano per l'organizzazione di tali visite, audit e ispezioni.
 
 Per la parte relativa all'area di esercizio in territorio italiano, quando l'ERA non sia d'accordo con una valutazione svolta dall'ANSFISA ai sensi del comma 5, lettera b), ne informa la stessa, motivando il suo disaccordo. L'ERA e l'ANSFISA cooperano al fine di raggiungere una valutazione mutuamente accettabile e, se necessario, possono decidere di coinvolgere il richiedente. Se non e' possibile trovare un accordo entro un mese dalla data in cui l'ERA ha informato l'ANSFISA in merito al suo disaccordo, l'ERA prende una decisione definitiva, a meno che, nel solo caso di disaccordo su una valutazione negativa dell'ANSFISA, questa abbia presentato richiesta di arbitrato alla commissione di ricorso prevista all'articolo 55 del regolamento (UE) 2016/796. In tal caso, la commissione di ricorso decide se confermare il progetto di decisione dell'ERA entro un mese dalla richiesta dell'ANSFISA. Qualora la commissione di ricorso concordi con l'ERA, quest'ultima prende una decisione senza indugio.
 Qualora la commissione di ricorso concordi, invece, con la valutazione negativa dell'ANSFISA, l'ERA rilascia un certificato di sicurezza unico con un'area di esercizio che esclude le parti della rete che hanno ricevuto una valutazione negativa.
@@ -116,6 +805,31 @@ Entro un mese dal ricevimento da parte dell'ERA di una domanda di certificato di
 Qualora l'area di esercizio sia limitata al solo sistema ferroviario italiano, l'ANSFISA puo' rilasciare, sotto la propria responsabilita' e su istanza del richiedente, un certificato di sicurezza unico. Le richieste di certificato e la relativa documentazione allegata sono redatte in lingua italiana. Per rilasciare tali certificati l'ANSFISA valuta il fascicolo in relazione a tutti gli elementi specificati al comma 3 e applica le modalita' pratiche di cui agli atti di esecuzione specificati all'articolo 10, comma 10, della direttiva (UE) 2016/798. Nell'ambito delle valutazioni, l'ANSFISA e' autorizzata a procedere a visite e ispezioni sui siti dell'impresa ferroviaria, nonche' ad audit. Entro un mese dal ricevimento della domanda, l'ANSFISA informa il richiedente che il fascicolo e' completo oppure chiede le pertinenti informazioni complementari. Il certificato rilasciato dall'ANSFISA e' altresi' valido senza un'estensione dell'area di esercizio per le imprese ferroviarie che viaggiano verso le stazioni degli Stati membri confinanti con caratteristiche di rete e norme di esercizio omogenee rispetto alla rete di provenienza, quando tali stazioni sono vicine alla frontiera, a seguito della consultazione delle competenti autorita' nazionali preposte alla sicurezza. Tale consultazione puo' essere effettuata caso per caso o stabilita in un accordo transfrontaliero tra Stati membri o autorita' nazionali preposte alla sicurezza. L'ANSFISA si assume la piena responsabilita' dei certificati di sicurezza unici che rilascia. Un certificato rilasciato dall'ANSFISA a norma del presente articolo e' rinnovato su richiesta dell'impresa ferroviaria a intervalli non superiori a cinque anni. Esso e' aggiornato integralmente o parzialmente ogniqualvolta il tipo o la portata delle attivita' cambi in modo sostanziale. A tal fine il titolare del certificato informa senza indugio l'ANSFISA in merito ad ogni modifica rilevante delle condizioni che ne hanno consentito il rilascio. Il titolare notifica inoltre all'ANSFISA l'assunzione di nuove categorie di personale o l'acquisizione di nuove tipologie di veicoli. Per il rilascio del certificato di sicurezza l'ANSFISA applica diritti commisurati ai costi sostenuti per l'istruttoria, per le verifiche, per i controlli e per le procedure di certificazione.
 
 L'ERA o, nei casi di cui al comma 8, l'ANSFISA rilascia il certificato di sicurezza unico, o informa il richiedente della sua decisione negativa, entro un termine ragionevole e prestabilito e, comunque, non oltre quattro mesi dalla presentazione da parte del richiedente di tutte le informazioni obbligatorie e di eventuali informazioni supplementari richieste. L'ANSFISA applica le modalita' pratiche sulla procedura di certificazione di cui all'atto di esecuzione specificato all'articolo 10, comma 10, della direttiva (UE) 2016/798. Qualunque decisione negativa riguardo al rilascio di un certificato o all'esclusione di una parte della rete sulla base della valutazione negativa di cui al comma 6 e' adeguatamente motivata. Entro un mese dal ricevimento della decisione, il richiedente puo' presentare all'ERA o, nei casi di cui al comma 8, all'ANSFISA, una domanda di riesame della loro decisione. L'ERA o l'ANSFISA dispongono di un termine di due mesi dalla data di ricevimento della domanda di riesame per confermare o revocare la propria decisione. Se la decisione negativa dell'ERA e' confermata, il richiedente puo' presentare ricorso, ai sensi dell'articolo 10, comma 12, della direttiva (UE) 2016/798, dinanzi alla commissione di ricorso designata a norma dell'articolo 55 del regolamento (UE) 2016/796. Se la decisione negativa dell'ANSFISA e' confermata, il richiedente puo' presentare ricorso dinanzi all'autorita' giudiziaria competente.
+
+10.
+                        
+                            
+                                Ai fini del rilascio di un certificato di sicurezza unico aggiornato che copra l'estensione dell'area di esercizio, il richiedente presenta il fascicolo all'ERA integrato con i pertinenti documenti di cui al comma 3, concernenti l'area aggiuntiva di esercizio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora sia gia' in possesso di un certificato di sicurezza unico rilasciato dall'ERA a norma dei commi da 5 a 7, dell'articolo 10, della direttiva (UE) 2016/798 e desideri estendere la propria area di esercizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora sia gia' in possesso di un certificato di sicurezza unico rilasciato da ANSFISA a norma del comma 8 del presente articolo e desideri estendere la propria area di esercizio ad un altro Stato membro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora sia gia' in possesso di un certificato di sicurezza unico rilasciato a norma del comma 8, dell'articolo 10, della direttiva (UE) 2016/798 e desideri estendere la propria area di esercizio in Italia. Per la valutazione di cui al comma 3, lettera b), e' consultata unicamente l'ANSFISA.
 
 Se l'impresa ferroviaria riceve un certificato di sicurezza unico dall'ANSFISA, e desidera estendere l'area di esercizio all'interno del territorio nazionale, integra il fascicolo con i pertinenti documenti di cui al comma 3 concernenti l'area aggiuntiva di esercizio. Attraverso lo sportello unico di cui all'articolo 12 del regolamento (UE) 2016/796, presenta il fascicolo all'ANSFISA, che rilascia un certificato di sicurezza unico aggiornato che copre l'area di esercizio estesa dopo aver seguito le procedure di cui al comma 8.
 
@@ -166,9 +880,105 @@ Ogni impresa ferroviaria e ogni gestore dell'infrastruttura e' responsabile del 
 
 A ciascun veicolo, prima dell'utilizzo sulla rete, e' assegnato dal detentore un soggetto responsabile della manutenzione (Entity in charge of maintenance - ECM) e tale soggetto e' registrato nel registro dei veicoli conformemente all'articolo 47 della direttiva (UE) 2016/797.
 
+2.
+                        
+                            
+                                Fatta salva la responsabilita' delle imprese ferroviarie e dei gestori dell'infrastruttura per il funzionamento sicuro di un treno quale prevista nell'articolo 4, il soggetto responsabile della manutenzione assicura che i veicoli della cui manutenzione e' responsabile siano in condizioni sicure per la circolazione. A tal fine, l'ECM pone in essere un sistema di manutenzione per tali veicoli, mediante il quale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicura che i veicoli siano mantenuti in conformita' al dossier di manutenzione di ciascun veicolo e ai requisiti in vigore, incluse le norme in materia di manutenzione e le disposizioni delle STI pertinenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mette in atto i necessari metodi di valutazione del rischio definiti nei pertinenti CSM, ove appropriato cooperando con altri soggetti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvede affinche' le proprie imprese appaltatrici attuino misure di controllo del rischio attraverso l'applicazione dei CSM per il monitoraggio di cui all'articolo 6, comma 1, lettera c), della direttiva (UE) 2016/798 e affinche' cio' sia stabilito in accordi contrattuali di cui e' data comunicazione su richiesta dell'ERA o dell'ANSFISA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicura la tracciabilita' delle attivita' di manutenzione.
+
+3.
+                        
+                            
+                                Il sistema di manutenzione e' composto dalle seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la funzione di «gestione», per supervisionare e coordinare le funzioni di manutenzione di cui alle lettere da
+                                
+                            
+                            
+                                b)
+                                
+                                    a d) e assicurare lo stato di sicurezza del veicolo nel sistema ferroviario; 
+ b) la funzione di «sviluppo della manutenzione», per gestire la documentazione relativa alla manutenzione, inclusa la gestione della configurazione, sulla base dei dati di progetto e di esercizio, cosi' come delle prestazioni e dell'esperienza maturata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la funzione di «gestione della manutenzione della flotta», per gestire la rimozione dall'esercizio del veicolo che e' sottoposto a manutenzione e il suo ritorno in esercizio dopo la manutenzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la funzione di «esecuzione della manutenzione», per eseguire la necessaria manutenzione tecnica di un veicolo o di parti di esso, inclusa la documentazione relativa alla re-immissione in servizio.
+
 Il soggetto responsabile della manutenzione assicura che tutte le funzioni di cui al comma 3 siano conformi ai requisiti e ai criteri di valutazione di cui all'allegato III ed effettua esso stesso la funzione di gestione, fatta salva la possibilita' di esternalizzare le funzioni di manutenzione di cui alle lettere da b) a d) del medesimo comma, o loro parti, ad altri enti appaltanti, tra cui le officine di manutenzione.
 
 Le officine di manutenzione applicano le sezioni pertinenti dell'allegato III, identificate negli atti di esecuzione adottati a norma dell'articolo 14, comma 8, lettera a), della direttiva (UE) 2016/798, che corrispondono a funzioni e attivita' che dovranno essere certificate.
+
+6.
+                        
+                            
+                                Nel caso di carri merci, e, dopo l'adozione degli atti di esecuzione di cui all'articolo 14, comma 8, lettera b), della direttiva (UE) 2016/798, nel caso di altri veicoli, ciascun soggetto responsabile della manutenzione svolge la propria attivita' a seguito del rilascio di apposito certificato (certificato ECM), valido in tutta l'Unione europea, da parte di un organismo accreditato o riconosciuto o da un'autorita' nazionale preposta alla sicurezza, nel rispetto delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i processi di accreditamento e di riconoscimento dei processi di certificazione si basano su criteri di indipendenza, competenza e imparzialita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il sistema di certificazione fornisce la prova che il soggetto responsabile della manutenzione ha posto in essere il sistema di manutenzione per assicurare la circolazione in condizioni di sicurezza dei veicoli della cui manutenzione e' responsabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la certificazione del soggetto responsabile della manutenzione e' basata su una valutazione della capacita' dello stesso di soddisfare i pertinenti requisiti e criteri di valutazione di cui all'allegato III e di applicarli in modo coerente. Esso comprende un sistema di supervisione per garantire l'ininterrotta conformita' ai requisiti e ai criteri di valutazione summenzionati dopo il rilascio del certificato ECM; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la certificazione delle officine di manutenzione si basa sul rispetto delle pertinenti sezioni dell'allegato III applicate alle corrispondenti funzioni e attivita' che dovranno essere certificate.
 
 Ove il soggetto responsabile della manutenzione sia un'impresa ferroviaria o un gestore dell'infrastruttura, il rispetto delle condizioni di cui al comma 6 puo' essere verificato dall'ANSFISA nel corso dei procedimenti di cui agli articoli 9 o 11 e annotato sui certificati rilasciati in base ai medesimi articoli.
 
@@ -180,6 +990,38 @@ Gli oneri derivanti dall'espletamento delle suddette attivita' sono a carico deg
 
 ## Art. 14. — Deroghe al sistema di certificazione 
  dei soggetti responsabili della manutenzione
+
+1.
+                        
+                            
+                                L'ANSFISA puo' identificare il soggetto responsabile della manutenzione, mediante misure alternative in deroga a quanto previsto dall'articolo 13 nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    veicoli registrati in un Paese terzo e manutenuti a norma del diritto di tale Paese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    veicoli utilizzati su reti o linee il cui scartamento sia differente da quello utilizzato sulla rete ferroviaria principale dell'Unione europea e per il quale il soddisfacimento dei requisiti di cui all'articolo 13, comma 2, e' garantito da accordi internazionali con Paesi terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    carri merci e carrozze passeggeri in uso condiviso con Paesi terzi il cui scartamento sia differente da quello utilizzato sulla rete ferroviaria principale dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attrezzature militari e trasporti speciali che necessitano di un'autorizzazione specifica dell'ANSFISA prima della loro messa in servizio. In tal caso sono concesse deroghe per periodi non superiori ai cinque anni.
 
 Le misure alternative di cui al comma 1 sono attuate mediante specifiche deroghe concesse dall'ANSFISA o dall'ERA all'atto della registrazione dei veicoli a norma dell'articolo 47 della direttiva (UE) 2016/797, per quanto riguarda l'identificazione del soggetto responsabile della manutenzione, ovvero al momento del rilascio di certificati di sicurezza unici e di autorizzazioni di sicurezza a imprese ferroviarie e gestori dell'infrastruttura a norma degli articoli 9 e 11, per quanto riguarda l'identificazione o la certificazione del soggetto responsabile della manutenzione.
 
@@ -194,9 +1036,243 @@ Principi che regolano l'attivita'
 
 Nei limiti della propria dotazione organica, il funzionamento dell'ANSFISA, per le funzioni in ambito ferroviario e' assicurato anche con l'utilizzazione di un numero non superiore a dodici unita' di personale proveniente dai ruoli del Ministero delle infrastrutture e dei trasporti, in regime di comando, in possesso delle competenze e dei requisiti di professionalita' ed esperienza necessari per l'espletamento delle funzioni assegnate.
 
+2.
+                        
+                            
+                                L'ANSFISA utilizza anche gli immobili precedentemente in uso da parte di ANSF, con contratti, convenzioni e accordi stipulati ai sensi del decreto legislativo n. 162 del 2007. Al funzionamento dell'ANSFISA si provvede anche nei limiti delle seguenti risorse: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le entrate proprie, costituite dai proventi derivanti dall'esercizio delle attivita' dirette di servizio previste dal presente decreto e dagli introiti previsti nel proprio regolamento.
+Tali entrate sono riscosse direttamente dall'ANSFISA e vengono destinate all'implementazione delle attivita' e delle dotazioni istituzionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'incremento dell'1 per cento dei canoni di accesso alla rete ferroviaria, corrisposti dalle imprese ferroviarie ai gestori dell'infrastruttura, dalla data di entrata in vigore del presente decreto. I gestori delle infrastrutture erogano all'ANSFISA l'importo corrispondente al suddetto incremento dei canoni in due rate semestrali, nei mesi di maggio e novembre, sulla base della programmazione annuale dei traffici. Con la prima rata dell'anno successivo viene conguagliato l'importo relativo all'esatto consuntivo dell'anno precedente. Entro il 28 febbraio di ciascun anno, i gestori presentano ad ANSFISA la dichiarazione dei pagamenti previsti per l'anno corrente e per i due anni successivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le reti per le quali non e' previsto un canone di accesso, ANSFISA fissa i criteri in base ai quali gli esercenti corrispondono gli importi alla medesima a copertura degli oneri per i servizi resi.
+Tali oneri sono determinati in relazione alla natura della rete interessata e rispondono a criteri di trasparenza, equita', pertinenza ed efficienza. Inoltre, nella determinazione degli oneri medesimi, l'ANSFISA consulta gli enti pubblici territoriali competenti e, per gli aspetti di competenza, l'Autorita' di regolazione dei trasporti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    uno stanziamento pari a euro 5.686.476 per l'anno 2019 e euro 7.686.476 a decorrere dall'anno 2020, iscritto su apposito capitolo dello stato di previsione del Ministero delle infrastrutture e dei trasporti.
+
 ## Art. 16. — Compiti in ambito ferroviario dell'ANSFISA
 
 L'ANSFISA, coerentemente con quanto previsto dall'articolo 12 del decreto-legge 28 settembre 2018, n. 109, convertito, con modificazioni, dalla legge 16 novembre 2018, n. 130, e' preposta alla sicurezza del sistema ferroviario italiano, ha poteri di regolamentazione tecnica di settore e detta, in conformita' con le disposizioni dell'Unione europea e con quelle assunte dall'ERA, i principi e i criteri per la sicurezza del sistema ferroviario, operando con indipendenza di giudizio e di valutazione, nel rispetto della normativa dell'Unione europea e nazionale in materia. L'ANSFISA e' indipendente sul piano organizzativo, giuridico e decisionale da qualsiasi impresa ferroviaria, gestore dell'infrastruttura, soggetto richiedente o appaltante e qualsiasi soggetto che aggiudica appalti pubblici di servizi e promuove il miglioramento della sicurezza del sistema ferroviario tenendo conto in modo organico dell'integrazione di tutti i sottosistemi coinvolti nella realizzazione e nella gestione della sicurezza ferroviaria.
+
+2.
+                        
+                            
+                                Con specifico riferimento al settore ferroviario, l'ANSFISA, tenuto conto di quanto stabilito dall'articolo 7, comma 3, e' incaricata di svolgere i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere il riordino e sovrintendere all'emanazione di norme tecniche e standard anche con riguardo al trasporto di merci e passeggeri, anche su proposta motivata dei soggetti di cui all'articolo 4, nonche' vigilare sulla relativa applicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controllare, promuovere e, se necessario disporre, che i gestori delle infrastrutture e le imprese ferroviarie emanino disposizioni e prescrizioni di esercizio, in coerenza con il quadro normativo nazionale di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stabilire i principi e la ripartizione delle competenze degli operatori ferroviari in ordine all'emanazione delle disposizioni di cui alla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    autorizzare la messa in servizio dei sottosistemi infrastruttura, energia e controllo-comando e segnalamento a terra, costitutivi del sistema ferroviario, a norma del decreto legislativo Interoperabilita' ferroviaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rilasciare, rinnovare, modificare e revocare le autorizzazioni d'immissione sul mercato del veicolo a norma del decreto legislativo Interoperabilita' ferroviaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    coadiuvare l'ERA nel rilascio, nel rinnovo, nella modifica e nella revoca delle autorizzazioni d'immissione sul mercato del veicolo a norma dell'articolo 21, comma 5, della direttiva (UE) 2016/797 e delle autorizzazioni del tipo di veicoli a norma dell'articolo 24 della medesima direttiva; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    supervisionare che sul territorio nazionale i componenti di interoperabilita' siano conformi ai requisiti essenziali fissati nel decreto legislativo Interoperabilita' ferroviaria; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    assicurare che la numerazione dei veicoli sia stata assegnata a norma del decreto legislativo Interoperabilita' ferroviaria; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    coadiuvare l'ERA nel rilascio, nel rinnovo, nella modifica e nella revoca dei certificati di sicurezza unici rilasciati a norma dell'articolo 10, comma 5, della direttiva (UE) 2016/798; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    rinnovare, modificare e revocare i certificati di sicurezza unici da essa rilasciati a norma dell'articolo 9, comma 8; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    rinnovare, modificare e revocare le autorizzazioni di sicurezza rilasciate a norma dell'articolo 11; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    garantire la supervisione delle imprese ferroviarie e dei gestori dell'infrastruttura a norma dell'articolo 17; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    rilasciare, rinnovare, modificare e revocare le licenze di conduzione treni a norma del decreto legislativo 30 dicembre 2010, n. 247; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    adottare senza ritardo le necessarie decisioni, qualora abbia un valido motivo per ritenere che un soggetto responsabile della manutenzione non soddisfi i requisiti previsti dalla normativa vigente, dandone comunicazione a tutti i soggetti interessati; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    verificare che l'applicazione delle disposizioni e delle prescrizioni tecniche relative al funzionamento e alla manutenzione dei sottosistemi costitutivi del sistema ferroviario avvenga conformemente ai pertinenti requisiti essenziali; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    rilasciare, su richiesta dell'interessato, l'autorizzazione all'utilizzo di un'applicazione generica dopo aver verificato le attivita' effettuate dall'organismo indipendente ferroviario prescelto dal fabbricante o dal suo mandatario stabilito nell'Unione europea, dall'ente appaltante, dall'impresa ferroviaria o dal gestore dell'infrastruttura interessato; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    verificare che i veicoli siano debitamente immatricolati e che le informazioni in materia di sicurezza contenute nei registri dei veicoli e dell'infrastruttura, istituiti a norma degli articoli 47 e 49 della direttiva (UE) 2016/797, siano complete e aggiornate; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    tenere e aggiornare il registro nazionale dei veicoli di cui al decreto legislativo Interoperabilita' ferroviaria; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    compiere attivita' di studio, ricerca e approfondimento in materia di sicurezza del trasporto ferroviario, anche recependo indicazioni emergenti dalle indagini e dalle procedure svolte dall'organismo investigativo nazionale sugli incidenti e gli inconvenienti ferroviari per il miglioramento della sicurezza; svolgere attivita' di consultazione in materia di sicurezza ferroviaria a favore di pubbliche amministrazioni e attivita' propositiva anche nei confronti del Parlamento in vista della approvazione di norme di legge atte a promuovere livelli piu' elevati di sicurezza delle ferrovie; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    formulare proposte e osservazioni relative a problemi della sicurezza ferroviaria ad ogni soggetto o autorita' competente; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    impartire, ai gestori delle infrastrutture, alle imprese ferroviarie, e se del caso agli altri soggetti di cui all'articolo 4, direttive e raccomandazioni in materia di sicurezza, nonche' in ordine ad accorgimenti e procedure necessarie ovvero utili al perseguimento della sicurezza ferroviaria; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    svolgere i compiti di cui alla legge 9 agosto 2017, n. 128, per le ferrovie turistiche e vigilare sulla sicurezza nel rispetto di quanto da essa stessa stabilito ai sensi degli articoli 6 e 7 della medesima legge e del presente decreto; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    svolgere i compiti derivanti dall'articolo 15-ter del decreto-legge 16 ottobre 2017, n. 148, per le reti funzionalmente isolate e rilasciare i certificati e le autorizzazioni di cui al Capo VI. A tal fine, l'ANSFISA valuta le misure mitigative o compensative proposte dai richiedenti sulla base di una analisi del rischio che tenga conto delle caratteristiche della tratta ferroviaria, dei veicoli e del tipo di esercizio. Inoltre, con atti propri da emanare entro il 30 giugno 2019, l'ANSFISA disciplina per tali reti: 
+ 1) le modalita' per ottenere da parte dei soggetti che operano sull'infrastruttura il necessario certificato di cui al Capo VI per lo svolgimento delle proprie funzioni; 
+ 2) le modalita' applicative degli articoli 6, 8, 13 e 17, tenendo conto dei soggetti che vi operano, delle caratteristiche delle tratte ferroviarie, dei veicoli e del tipo di esercizio; 
+ 3) le modalita' applicative dei pertinenti CSM di cui all'articolo 6 della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio, dell'11 maggio 2016; 
+ 4) tutti gli aspetti legati all'ottenimento dell'autorizzazione di messa in servizio dei sottosistemi strutturali e dei veicoli di cui al Capo VI; 
+ 5) le abilitazioni del personale con mansioni di sicurezza; 
+ 6) i principi di sicurezza e gli standard tecnici applicabili su tali reti; 
+ 7) le modalita' di registrazione dei veicoli in un apposito registro informatico; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    riconoscere gli Organismi indipendenti ferroviari (OIF) definiti all'articolo 3, lettera rr); 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    svolgere le attivita' di cui al decreto legislativo Interoperabilita' ferroviaria con riguardo agli organismi di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    partecipare alle attivita' che si svolgono nell'ambito dell'Unione europea e internazionale, nelle materie di competenza, e fornire qualificato supporto tecnico alle strutture del Ministero delle infrastrutture e dei trasporti con competenze nei medesimi ambiti; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    disciplinare le modalita' di circolazione di particolari categorie di veicoli che circolano sull'infrastruttura ricadente nell'ambito di applicazione del presente decreto, compresi i veicoli storici;
 
 Per lo svolgimento dei compiti di cui al comma 2, che comunque non possono essere trasferiti o appaltati ad alcun gestore dell'infrastruttura, impresa ferroviaria o soggetto appaltante, l'ANSFISA puo' chiedere in qualsiasi momento l'assistenza tecnica di gestori delle infrastrutture e imprese ferroviarie o altri organismi qualificati. Gli eventuali costi derivanti rientrano nelle spese di funzionamento dell'ANSFISA.
 
@@ -248,6 +1324,52 @@ L'ANSFISA avvia e promuove attivita' di cooperazione con le omologhe autorita' n
 
 L'ANSFISA pubblica annualmente una relazione sulle attivita' svolte nell'anno precedente sulle reti interconnesse del sistema ferroviario italiano e la trasmette, entro il 30 settembre, al Ministero delle infrastrutture e dei trasporti e all'ERA.
 
+2.
+                        
+                            
+                                La relazione di cui al comma 1 rende conto dei seguenti aspetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    evoluzione della sicurezza ferroviaria, compresa una sintesi a livello nazionale dei CSI, a norma dell'articolo 5, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modifiche sostanziali intervenute nella legislazione e nella regolamentazione nazionale in materia di sicurezza ferroviaria, rappresentando, nel rispetto delle norme sulla produzione delle fonti, l'eventuale esigenza di apportare modifiche legislative e regolamentari nel settore di competenza, ulteriori rispetto all'ambito di cui all'articolo 7 commi 1 e 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    evoluzione della certificazione di sicurezza e dell'autorizzazione di sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    risultati ed esperienza acquisita in relazione alla supervisione dell'attivita' dei gestori dell'infrastruttura e delle imprese ferroviarie, compresi il numero e l'esito delle ispezioni e degli audit; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    deroghe decise a norma dell'articolo 14; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esperienza acquisita dalle imprese ferroviarie e dai gestori dell'infrastruttura nell'applicare i pertinenti CSM.
+
 Con riferimento alle reti isolate dal punto di vista funzionale di cui all'articolo 2, comma 4, l'ANSFISA pubblica annualmente una relazione sulle attivita' svolte nell'anno precedente, e la trasmette, entro il 30 settembre, al Ministero delle infrastrutture e dei trasporti. Tale relazione contiene quantomeno informazioni circa l'evoluzione della sicurezza ferroviaria, delle certificazioni e delle autorizzazioni di cui al Capo VI, nonche' i risultati e l'esperienza acquisita in relazione alla supervisione dell'attivita' dei soggetti che operano su tali reti, compresi il numero e l'esito delle ispezioni e degli audit.
 
 Il Ministro delle infrastrutture e dei trasporti, entro il 30 novembre di ogni anno, trasmette al Presidente del Consiglio dei ministri e al Parlamento la relazione sull'attivita' svolta dall'ANSFISA, relativamente all'anno precedente.
@@ -278,6 +1400,39 @@ L'Organismo investigativo procede con gli organismi analoghi degli altri Stati m
 
 L'Organismo investigativo, a seguito di incidenti gravi, svolge indagini con l'obiettivo di migliorare la sicurezza ferroviaria e la prevenzione di incidenti nel sistema ferroviario italiano.
 
+2.
+                        
+                            
+                                Oltre che sugli incidenti gravi, l'Organismo investigativo puo' indagare sugli incidenti e sugli inconvenienti che, in simili circostanze, avrebbero potuto determinare incidenti gravi, tra cui in particolare guasti tecnici ai sottosistemi di natura strutturale o ai componenti di interoperabilita' del sistema ferroviario italiano.
+L'Organismo investigativo decide se indagare in merito ad un siffatto incidente o inconveniente tenendo conto dei seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gravita' dell'incidente o inconveniente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riconducibilita' ad una serie di altri incidenti o inconvenienti pertinenti al sistema nel suo complesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impatto dell'evento sulla sicurezza ferroviaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    richieste dei gestori dell'infrastruttura, delle imprese ferroviarie, dell'ANSFISA o delle competenti strutture del Ministero delle infrastrutture e dei trasporti.
+
 La portata delle indagini e le procedure da seguire sono stabilite dall'Organismo investigativo, tenendo conto degli articoli 22 e 23 ed in funzione delle conclusioni che esso intende trarre dall'incidente o dall'inconveniente ai fini del miglioramento della sicurezza.
 
 L'indagine non e' sostitutiva di quelle che potrebbero essere svolte in merito dall'Autorita' giudiziaria e non mira in alcun caso a stabilire colpe o responsabilita'.
@@ -285,6 +1440,59 @@ L'indagine non e' sostitutiva di quelle che potrebbero essere svolte in merito d
 ## Art. 22. — Disciplina del procedimento dell'indagine
 
 Gli investigatori incaricati di un'indagine svolgono il proprio compito nel modo piu' efficiente e nel piu' breve tempo possibile e agiscono, nei limiti del proprio mandato, in qualita' di pubblici ufficiali, conducendo l'indagine in modo indipendente rispetto ad ogni eventuale inchiesta relativa a procedimenti penali pendenti sui medesimi fatti. L'attivita' degli investigatori e' svolta in collaborazione con quella della polizia giudiziaria per acquisire la notizia di reato e assicurare le fonti di prova, secondo quanto stabilito dal codice di procedura penale. Ferme restando le disposizioni di cui al comma 2, ai soli fini dell'indagine, gli investigatori possono accedere a tutta la documentazione pertinente, ai locali, agli impianti e alle attrezzature dei gestori dell'infrastruttura e delle imprese ferroviarie, nonche', ove necessario, dei soggetti di cui all'articolo 4. Con successivo atto dell'Organismo investigativo e' disciplinato il rilascio agli investigatori incaricati di un documento che garantisce ad essi l'accesso all'infrastruttura, agli impianti e ai veicoli, specificandone le modalita'.
+
+2.
+                        
+                            
+                                Nei casi in cui l'Autorita' giudiziaria avvia un procedimento a seguito di un evento nel quale si ravvisino ipotesi di reato, la stessa Autorita' autorizza gli investigatori incaricati a svolgere i compiti di cui al presente comma, assicurando la piena collaborazione tra gli investigatori incaricati dall'Organismo e le Autorita' responsabili delle inchieste giudiziarie. Gli investigatori possono, previa espressa autorizzazione dell'Autorita' giudiziaria procedente, accedere tempestivamente alle informazioni e alle prove pertinenti per l'indagine nelle modalita' e nei limiti indicati dalla stessa Autorita' giudiziaria. In particolare, nel rispetto di quanto previsto dalla normativa vigente, e' consentito agli investigatori autorizzati di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accedere immediatamente al luogo dell'incidente o dell'inconveniente nonche' al materiale rotabile coinvolto, alla relativa infrastruttura e agli impianti di segnalamento e di controllo del traffico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ottenere immediatamente un elenco degli indizi e la rimozione sotto controllo di rottami, impianti o componenti dell'infrastruttura a fini di esame o di analisi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisire senza limitazioni, e utilizzare, il contenuto dei registratori di bordo e delle apparecchiature di registrazione dei messaggi verbali e la registrazione dei dati di funzionamento del sistema di segnalamento e controllo del traffico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accedere ai risultati dell'esame dei corpi delle vittime; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    accedere ai risultati dell'esame del personale viaggiante e di ogni altro componente del personale ferroviario coinvolto nell'incidente o nell'inconveniente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sentire il personale ferroviario coinvolto nell'incidente o nell'inconveniente e altri testimoni, garantendo la riservatezza dell'identita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    accedere a qualsiasi informazione o registrazione pertinente in possesso del gestore dell'infrastruttura, delle imprese ferroviarie e dei soggetti responsabili della manutenzione interessati, nonche' dell'ANSFISA.
 
 Ove l'Autorita' giudiziaria abbia sequestrato eventuali prove, gli investigatori incaricati possono accedere a tali prove e possono utilizzarle nel rispetto degli obblighi di riservatezza previsti dal diritto nazionale e dell'Unione europea. A tal fine, l'autorizzazione di cui al comma 2 e' rilasciata dal pubblico ministero nel corso delle indagini preliminari e dal giudice procedente, al termine delle stesse indagini. L'esercizio delle attivita' e dei poteri degli investigatori incaricati non ostacola l'indagine giudiziaria. Se l'esame o l'analisi di alcuni elementi di prova materiale rischia di modificare, alterare o distruggere tali elementi probatori, per essi e' richiesto il preventivo accordo tra l'Autorita' giudiziaria competente e gli investigatori incaricati. A tale fine, specifici accordi possono essere conclusi tra l'Organismo investigativo e l'Autorita' giudiziaria per disciplinare gli aspetti riguardanti l'utilizzo e lo scambio di informazioni nonche' le attivita' di cui al comma 2, nel rispetto della reciproca indipendenza.
 
@@ -388,6 +1596,52 @@ Laddove necessario, alle modifiche e all'aggiornamento degli allegati tecnici al
 Il comma 3 dell'articolo 12, del decreto-legge 28 settembre 2018, n. 109, convertito con modificazioni dalla legge 16 novembre 2018, n. 130, e' sostituito dal seguente: «3. Con riferimento al settore ferroviario, l'Agenzia svolge i compiti e le funzioni, anche di regolamentazione tecnica, per essa previsti dai decreti legislativi recanti attuazione della direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio dell'11 maggio 2016 sulla sicurezza delle ferrovie e della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio dell'11 maggio 2016 relativa all'interoperabilita' del sistema ferroviario dell'Unione europea ed ha competenza per l'intero sistema ferroviario nazionale, secondo quanto previsto dai medesimi decreti. Per le infrastrutture transfrontaliere specializzate, i compiti di autorita' nazionale preposta alla sicurezza di cui al Capo IV della direttiva (UE) 2016/798 sono affidati, a seguito di apposite convenzioni, all'Agenzia o all'Autorita' per la sicurezza ferroviaria del Paese limitrofo».
 
 ## Art. 32. — Abrogazione
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 18 della legge 7 luglio 2016, n. 122 recante «Disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - legge europea 2015-2016»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto legislativo 10 agosto 2007, n. 162, di recepimento delle direttive 2004/49/CE e 2004/51/CE; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto legislativo 24 marzo 2011, n. 43, di recepimento della direttiva 2008/110/CE; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Ministro delle infrastrutture e dei trasporti 26 giugno 2015, di recepimento della direttiva 2014/88/UE pubblicato nella Gazzetta Ufficiale n. 170 del 24 luglio 2015; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto 21 dicembre 2012 del Ministro delle infrastrutture e dei trasporti di attuazione dell'articolo 3, comma 1, del decreto legislativo 24 marzo 2011, n. 43, per l'adozione di un sistema provvisorio per la certificazione dei soggetti responsabili della manutenzione di carri ferroviari adibiti al trasporto di merci - pubblicato nella Gazzetta Ufficiale n. 60 del 12 marzo 2013; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le parole: «o ad apposito organismo binazionale», all'art. 12, comma 3, secondo periodo, del decreto-legge 28 settembre 2018, n. 109, convertito con legge 16 novembre 2018, n. 130.
 
 Continuano ad applicarsi le norme tecniche adottate in attuazione dei decreti di cui al comma 1 e restano efficaci, fino alla loro scadenza, tutti i negozi giuridici attivi e passivi posti in essere sia dall'ANSF sia dall'ANSFISA prima della data di entrata in vigore del presente decreto.
 

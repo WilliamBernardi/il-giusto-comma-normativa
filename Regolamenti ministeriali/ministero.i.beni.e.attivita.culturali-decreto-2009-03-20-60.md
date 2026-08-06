@@ -8,8 +8,8 @@ codice_redazionale: 009G0074
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,59 @@ L'elenco si compone di due sezioni. Nella prima sezione sono inseriti i dipartim
 
 ## Art. 2. — Dipartimenti o istituti archeologici universitari
 
+1.
+                    
+                        
+                            Agli effetti del presente decreto e per le finalita' di cui all'articolo 1 per «istituto» o «dipartimento archeologico universitario» si intende il dipartimento o l'istituto universitario cui afferiscono almeno tre docenti di ruolo, compresi i ricercatori confermati, nei seguenti settori scientifico-disciplinari di ambito archeologico, come definiti dal decreto ministeriale 4 ottobre 2000, pubblicato nella Gazzetta Ufficiale n. 249 del 24 ottobre 2000, modificato dal decreto ministeriale 18 marzo 2005, pubblicato nella Gazzetta Ufficiale n. 78 del 5 aprile 2005, che si occupano di antichita' diffuse sul territorio nazionale, comprese cronologicamente fra la preistoria e l'archeologia post-medievale:
+ 
+                        
+                        
+                            a)
+                            
+                                L-ANT/01: Preistoria e protostoria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                L-ANT/06: Etruscologia e antichita' italiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                L-ANT/07: Archeologia classica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                L-ANT/08: Archeologia cristiana e medievale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                L-ANT/09: Topografia antica;
+
+                            
+                        
+                        
+                            f)
+                            
+                                L-ANT/10: Metodologie della ricerca archeologica;
+
+                            
+                        
+                        
+                            g)
+                            
+                                L-OR/06: Archeologia fenicio-punica.
+
 Agli effetti del comma 1 sono considerati dipartimenti o istituti archeologici gli istituti universitari stranieri, comunque denominati, che presentino e documentino il possesso di strutture scientifico-didattiche equivalenti a quelle di cui al comma 1.
 L'equivalenza e' verificata dalla Direzione, sentiti il Comitato tecnico scientifico per i beni archeologici e il Ministero dell'istruzione, dell'universita' e della ricerca, sulla base degli elementi informativi forniti dall'istituto universitario straniero secondo lo schema predisposto, anche in formato elettronico, dalla Direzione e dalla Direzione generale per l'innovazione tecnologica e la promozione. Ai medesimi effetti e' equiparata ai dipartimenti o istituti archeologici, di cui al comma 1, la Scuola archeologica italiana di Atene.
 
@@ -59,6 +112,24 @@ Non possono essere iscritti nella seconda sezione dell'elenco, come singoli, il 
 Ai fini dell'iscrizione nella seconda sezione dell'elenco di cui all'articolo 1, i soggetti diversi dagli istituti e dipartimenti di cui all'articolo 2 devono essere in possesso di diploma di laurea e specializzazione in archeologia ai sensi del seguente articolo 4, o di dottorato di ricerca in archeologia, ai sensi del successivo articolo 5, ovvero di uno dei titoli di studio esteri riconosciuti equipollenti, ai sensi e per gli effetti di cui al successivo articolo 6.
 
 ## Art. 4. — Diploma di laurea e scuola di specializzazione in archeologia
+
+1.
+                    
+                        
+                            Agli effetti del presente decreto e per le finalita' di cui all'articolo 3, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «diploma di laurea»: la laurea magistrale o il titolo equivalente alla laurea magistrale o specialistica nell'ambito dell'ordinamento previgente al decreto ministeriale 3 novembre 1999, n. 509, come modificato dal decreto ministeriale 22 ottobre 2004, n. 270;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «scuola di specializzazione in archeologia»: la scuola di cui all'allegato n. 1 al decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro per i beni e le attivita' culturali, di riassetto delle scuole di specializzazione nel settore della tutela, gestione e valorizzazione del patrimonio culturale, del 31 gennaio 2006, pubblicato nella Gazzetta Ufficiale n. 137 del 15 giugno 2006, nonche' le scuole elencate nella tabella di equiparazione relativa ai beni archeologici di cui all'articolo 5 del medesimo decreto.
 
 ## Art. 5. — Dottorato di ricerca in archeologia
 

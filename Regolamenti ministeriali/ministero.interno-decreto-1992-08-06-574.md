@@ -8,8 +8,8 @@ codice_redazionale: 093G0159
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,24 @@ A D O T T A
 
 ## Art. 1. — Classificazione degli alloggi
  e impiego degli alloggi disponibili
+
+1.
+                    
+                        
+                            Gli alloggi di servizio del personale appartenente ai ruoli della Polizia di Stato sono classificati nelle seguenti categorie:
+ 
+                        
+                        
+                            a)
+                            
+                                alloggi di servizio gratuiti connessi all'incarico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alloggi di servizio in temporanea concessione.
 
 La concessione degli alloggi di servizio di cui al comma 1, lettera a), e' effettuata secondo i criteri e le modalita' stabilite con apposito regolamento.
 
@@ -107,6 +125,41 @@ Trascorso inutilmente tale periodo, la domanda non sara' valutata.
 
 ## Art. 6. — Modalita' e criteri di assegnazioni
 
+1.
+                    
+                        
+                            La commissione per la concessione degli alloggi individuali for- mula la graduatoria dei richiedenti, assegnando i punteggi relativi ai seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                attinenti al servizio svolto:
+ - necessita' del dipendente di dimorare in strutture particolarmente protette in relazione alla natura del servizio che lo esponga a pericoli e/o rappresaglie: punti 15;
+ - necessita' che il dipendente, in relazione alla natura del servizio, assicuri, nell'interesse dell'amministrazione una pronta reperibilita': fino a punti 5;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attinenti a situazioni di disagio abitativo:
+ - sfratto giudiziario in atto: punti 2;
+ - trasferimento da altra sede: punti 1,50;
+ - alloggio in abitazione malsana: punti 1,00;
+ - alloggio in coabitazione: punti 0,50;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attinenti a situazioni familiari, per un massimo di punti 6:
+ - coniuge convivente a carico: punti 1,50;
+ - per ogni figlio convivente a carico: punti 1,00;
+ - per genitore convivente a carico: punti 0,50;
+ - reddito familiare inferiore a 40 milioni annui: punti 1.
+
 A partita' di punteggio, saranno preferiti nell'ordine, i richiedenti con reddito familiare meno favorevole, i richiedenti con maggiore anzianita' di servizio, i richiedenti provenienti da altra sede ove gia' beneficiavano di alloggio di servizio.
 
 L'alloggio disponibile e' offerto al richiedente che occupa il posto piu' elevato in graduatoria; in caso di rinuncia, l'alloggio e' offerto al richiedente che occupa il posto successivo.
@@ -124,6 +177,52 @@ In caso di collocamento a riposo o di trasferimento in comune non limitrofo al c
 In caso di trasferimento del concessionario con prole in eta' scolare, la cessazione della concessione e' prorogata, a domanda, fino al termine dell'anno scolastico in corso.
 
 ## Art. 8. — Cessazione delle concessioni
+
+1.
+                    
+                        
+                            La concessione cessa, oltre che nei casi di sostituzione, di scadenza e di decadenza rispettivamente previsti dagli articoli 2, comma 3, 5, comma 4, 7 e 9, quando si verificano le seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                cessazione dal servizio attivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                decesso del concessionario;
+
+                            
+                        
+                        
+                            c)
+                            
+                                assegnazione al concessionario o ad un familiare convivente di alloggi di edilizia pubblica convenzionata nell'ambito del comune ove il concessionario presta servizio o in un comune limitrofo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                avvenuta acquisizione, sotto forma di proprieta' o usufrutto, da parte del concessionario o di familiare convivente, di una abitazione ubicata nell'ambito del comune ove lo stesso presta servizio o in un comune limitrofo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                trasferimento in altra sede;
+
+                            
+                        
+                        
+                            f)
+                            
+                                rinuncia.
 
 Nel caso indicato al comma 1, lettera b), quando vi siano familiari gia' conviventi con il concessionario, il rilascio dell'alloggio deve avvenire entro il termine di trecentosessantacinque giorni dal decesso del concessionario.
 
@@ -195,6 +294,24 @@ Le concessioni di alloggi a qualsiasi titolo antecedentemente disposte, decadono
 Le autorita' competenti provvedono:
  - al recupero degli alloggi secondo le modalita' di cui agli articoli 10 e 12, qualora sia stata gia' disposta la revoca della concessione;
  - al recupero graduale degli alloggi occupati secondo le modalita' di cui al successivo comma negli altri casi.
+
+3.
+                    
+                        
+                            Alla data di entrata in vigore del presente regolamento, il recupero degli alloggi sara' effettuato:
+ 
+                        
+                        
+                            a)
+                            
+                                immediatamente, se il concessionario, in base alle norme precedentemente in vigore, non ha titolo per la concessione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gradualmente, e comunque entro tre mesi, qualora l'alloggio risulti a diverso titolo occupato.
 
 ## Art. 16. — Abrograzione di norme
 

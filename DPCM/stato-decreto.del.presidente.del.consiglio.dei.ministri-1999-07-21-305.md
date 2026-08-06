@@ -8,8 +8,8 @@ codice_redazionale: 099G0382
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,6 +32,59 @@ Sulla proposta del Ministro per la solidarieta' sociale, di concerto con il Mini
 L'ente erogatore al quale e' richiesta la prima prestazione sociale agevolata, sulla base della dichiarazione sostitutiva di cui all'articolo 4 del decreto legislativo 31 marzo 1998, n. 109, determina l'indicatore della situazione economica equivalente ai sensi dell'articolo 2, comma 3, del decreto del Presidente del Consiglio dei Ministri 7 maggio 1999, n.221, ovvero in applicazione degli specifici criteri di calcolo stabiliti dall'ente stesso ai sensi dell'articolo 2, commi 4, 5 e 6 dello stesso decreto.
 
 L'ente erogatore, a domanda del richiedente, rilascia la certificazione dell'indicatore calcolato. La validita' della certificazione scade allo scadere della validita' dell'attestazione provvisoria di cui all'articolo 4, comma 4, del decreto legislativo n.109 del 1998, relativa alla dichiarazione sostitutiva sulla base della quale la certificazione medesima e' rilasciata. Ai fini del presente regolamento, l'attestazione provvisoria ha validita' 24 mesi dalla data del suo rilascio, e comunque non oltre il periodo di sperimentazione determinato, al sensi dell'articolo 1 del decreto legislativo n. 109 del 1998, dal decreto del Presidente del Consiglio dei Ministri 7 maggio 1999, n. 221.
+
+3.
+                    
+                        
+                            La certificazione deve contenere, oltre all'indicazione dell'ente certificante: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione della persona che ha presentato la dichiarazione sostitutiva, concernente le informazioni necessarie per la determinazione della situazione economica equivalente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la data della dichiarazione sostitutiva, l'ente che ha effettuato l'attestazione provvisoria, il numero e la data di questa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione del numero delle persone facenti parte del nucleo familiare dichiarato; l'attestazione che il nucleo dichiarato e' composto dal richiedente, dalla famiglia anagrafica e dai soggetti a carico IRPEF, ovvero che il nucleo e' composto diversamente, secondo le indicazioni dell'ente erogatore, con la specificazione della tipologia dei componenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il valore della situazione economica equivalente del nucleo; in caso di richiesta delle prestazioni di cui agli articoli 65 e 66 della legge 23 dicembre 1998, n. 448, il valore della situazione economica del nucleo a tal fine specificamente determinato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i criteri adottati per l'eventuale valutazione del patrimonio del nucleo familiare; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il procedimento utilizzato per il calcolo della situazione reddituale e di quella patrimoniale, nonche' per il calcolo dell'indicatore della situazione economica equivalente; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'indicazione del periodo di validita' della certificazione.
 
 La certificazione e' valevole ai fini dell'accesso a tutte le prestazioni agevolate richieste presso gli enti erogatori che, ai fini della determinazione dell'indicatore, applicano i medesimi criteri di calcolo risultanti dalla certificazione stessa. L'ente erogatore al quale viene presentata la certificazione, qualora debba applicare, per la prestazione sociale agevolata di propria competenza, un diverso criterio di calcolo, provvede ad effettuare una specifica determinazione dell'indicatore sulla base dei dati risultanti dalla certificazione presentata; ove questi siano insufficienti, si applica la disposizione di cui al comma 5.
 

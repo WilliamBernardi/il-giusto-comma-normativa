@@ -8,8 +8,8 @@ codice_redazionale: 008G0235
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,11 +31,82 @@ Le disposizioni del presente decreto disciplinano le procedure per la nomina ad 
 
 ## Art. 2. — Bando della procedura
 
+1.
+                    
+                        
+                            Nel bando di avvio della procedura riservata, indetta con decreto del capo del Corpo forestale dello Stato, sono riportati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero complessivo dei posti messi a disposizione per la procedura relativa alla singola qualifica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' e la data di scadenza per la presentazione delle domande di assunzione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i requisiti di partecipazione e i termini entro i quali devono essere posseduti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i casi di esclusione dalla procedura;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la tipologia e le modalita' di svolgimento degli accertamenti di idoneita';
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' di attribuzione dei punteggi e di formazione degli elenchi degli idonei.
+
 ## Art. 3. — Requisiti di partecipazione
 
 Per la partecipazione alla procedura sono richiesti, oltre all'appartenenza alla categoria alla quale e' riservata, i requisiti per la nomina ad allievo agente o allievo operatore previsti dalla normativa vigente.
 
 ## Art. 4. — Domande di assunzione
+
+1.
+                    
+                        
+                            Per l'individuazione dell'appartenenza alla categoria alla quale e' riservata la procedura, l'istante dichiara nella domanda di assunzione:
+ 
+                        
+                        
+                            a)
+                            
+                                il nome e cognome, il luogo e la data di nascita dell'appartenente ad una forza di polizia dello Stato, deceduto o divenuto permanentemente invalido al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa accertata dalla competente commissione dell'Azienda sanitaria locale o dalla commissione medica ospedaliera di cui al decreto del Presidente della Repubblica 29 ottobre 2001, n. 461, specificando altresi' la forza di polizia, la qualifica rivestita ed il rapporto di parentela. Nel caso di fratello o sorella occorre altresi' dichiarare l'assenza di coniugi o figli dell'appartenente alla forza di polizia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decesso, o l'invalidita' permanente al servizio non inferiore all'ottanta per cento della capacita' lavorativa, del familiare appartenente ad una forza di polizia dello Stato, indicando in maniera esaustiva i fatti e le circostanze che hanno determinato il decesso o l'invalidita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                se gli e' stato o meno riconosciuto ufficialmente lo status di vittima del terrorismo, vittima della criminalita' organizzata o altro status in conseguenza della morte o invalidita' dello stesso familiare, specificando gli estremi dell'eventuale provvedimento.
 
 L'istante allega documentazione comprovante i fatti e gli stati dichiarati ai sensi del comma 1, salvo che dichiari che gli stessi sono attestati in documenti gia' in possesso del Corpo forestale dello Stato o di altra pubblica amministrazione.
 

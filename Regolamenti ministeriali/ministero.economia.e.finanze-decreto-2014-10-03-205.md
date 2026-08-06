@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2014-10-03;205
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,6 +23,59 @@ E DELLE FINANZE
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 21 novembre 2013;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Nel presente regolamento, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "legge assegni": il regio decreto 21 dicembre 1933, n. 1736; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "CAD": il decreto legislativo 7 marzo 2005, n. 82 e successive modifiche e integrazioni recante il Codice dell'amministrazione digitale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "regolamento della Banca d'Italia": il regolamento di cui all'articolo 8, comma 7, lett. e), del decreto-legge 13 maggio 2011, n. 70, convertito, con modificazioni, dalla legge 12 luglio 2011, n. 106; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "negoziatore": la banca, o altro soggetto abilitato alla negoziazione, a cui l'assegno e' girato per l'incasso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "trattario": la banca, o altro soggetto abilitato, presso cui e' detenuto il conto di traenza dell'assegno; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "emittente": la banca, o altro soggetto abilitato, che ha emesso l'assegno circolare per una somma disponibile presso la banca stessa al momento dell'emissione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "immagine dell'assegno": copia per immagine dell'assegno, su supporto informatico, di cui all'articolo 1, comma 1, lettera i-ter) del CAD, conforme all'originale cartaceo ai sensi di quanto previsto dall'articolo 66 della legge assegni.
 
 ## Art. 2. — Presentazione in forma elettronica dell'assegno
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-08-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,45 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 4 lug
 ## - Capo I Disposizioni generali
 
 ## Art. 1. — Obblighi di informazione
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 1, comma 1 della legge 10 aprile 1991, n. 126, di seguito denominata legge, il presente regolamento disciplina l'apposizione, sui prodotti o sulle confezioni dei prodotti destinati al consumatore commercializzati sul territorio nazionale, di indicazioni chiaramente visibili e leggibili, relative:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla denominazione legale o merceologica del prodotto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al nome o ragione sociale o marchio e alla sede del produttore o di un importatore stabilito nell'Unione europea;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'eventuale presenza di materiali o sostanze che possono arrecare danno all'uomo, alle cose o all'ambiente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai materiali impiegati e ai metodi di lavorazione, ove questi siano determinanti per la qualita' o le caratteristiche merceologiche del prodotto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle istruzioni, alle eventuali precauzioni e alla destinazione d'uso ove utili a fini di fruizione o sicurezza del prodotto.
 
 ## Art. 2. — Ambito di applicazione
 
@@ -93,6 +132,24 @@ Le indicazioni di cui al presente articolo, in mancanza di specifiche disposizio
 
 ## Art. 10. — Indicazioni dei materiali impiegati
  e dei metodi di lavorazione
+
+1.
+                        
+                            
+                                Devono essere dichiarati i materiali impiegati ed i metodi di lavorazione che assumono rilevanza in relazione al prodotto che:
+ 
+                            
+                            
+                                a)
+                                
+                                    per il suo aspetto esteriore ovvero per le modalita' di presentazione o di pubblicizzazione, puo' essere ragionevolmente confuso con altri prodotti in commercio per i quali sono impiegati materiali o metodi di lavorazione che attribuiscono caratteristiche d'impiego o di durata ovvero valore economico superiori o comunque diversi rispetto al prodotto stesso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in ragione dei materiali impiegati e dei metodi di lavorazione, impone limitazioni o cautele particolari nell'uso cui sara' ragionevolmente destinato dal consumatore, diverse da quelle relative ad uno o piu' prodotti in commercio con i quali puo' essere confuso per il suo aspetto esteriore ovvero per le modalita' di presentazione o di pubblicizzazione.
 
 E' fatta salva la facolta' di dichiarare comunque i materiali impiegati ed i metodi di lavorazione.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-07-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,15 +32,248 @@ Sulla proposta del Ministro per le politiche europee e del Ministro dello svilup
 
 ## Art. 1. — Finalita' e ambito di applicazione
 
+1.
+                        
+                            
+                                Il presente decreto, al fine di contribuire al miglioramento della sicurezza dell'approvvigionamento energetico e alla tutela dell'ambiente attraverso la riduzione delle emissioni di gas a effetto serra, stabilisce un quadro di misure volte al miglioramento dell'efficienza degli usi finali dell'energia sotto il profilo costi e benefici. Per tali finalita', il presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    definisce gli obiettivi indicativi, i meccanismi, gli incentivi e il quadro istituzionale, finanziario e giuridico necessari ad eliminare le barriere e le imperfezioni esistenti sul mercato che ostacolano un efficiente uso finale dell'energia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    crea le condizioni per lo sviluppo e la promozione di un mercato dei servizi energetici e la fornitura di altre misure di miglioramento dell'efficienza energetica agli utenti finali.
+
+2.
+                        
+                            
+                                Il presente decreto si applica:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai fornitori di misure di miglioramento dell'efficienza energetica, ai distributori di energia, ai gestori dei sistemi di distribuzione e alle societa' di vendita di energia al dettaglio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai clienti finali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle Forze armate ed alla Guardia di finanza, limitatamente al capo IV del Titolo II e solamente nella misura in cui l'applicazione del presente decreto legislativo non e' in contrasto con la natura e l'obiettivo primario delle attivita' delle Forze armate e della Guardia di finanza e ad eccezione dei materiali utilizzati esclusivamente a fini militari.
+
 Il presente decreto non si applica tuttavia alle imprese operanti nelle categorie di attivita' di cui all'allegato I della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, che istituisce un sistema per lo scambio di quote di emissione dei gas a effetto serra nella Comunita'.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Esclusivamente ai fini del presente decreto, si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 4 LUGLIO 2014, N. 102; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "efficienza energetica": il rapporto tra i risultati in termini di rendimento, servizi, merci o energia, da intendersi come prestazione fornita, e l'immissione di energia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "miglioramento dell'efficienza energetica": un incremento dell'efficienza degli usi finali dell'energia, risultante da cambiamenti tecnologici, comportamentali o economici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "risparmio energetico": la quantita' di energia risparmiata, determinata mediante una misurazione o una stima del consumo prima e dopo l'attuazione di una o piu' misure di miglioramento dell'efficienza energetica, assicurando nel contempo la normalizzazione delle condizioni esterne che influiscono sul consumo energetico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 4 LUGLIO 2014, N. 102; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "meccanismo di efficienza energetica": strumento generale adottato dallo Stato o da autorita' pubbliche per creare un regime di sostegno o di incentivazione agli operatori del mercato ai fini della fornitura e dell'acquisto di servizi energetici e altre misure di miglioramento dell'efficienza energetica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "programma di miglioramento dell'efficienza energetica": attivita' incentrate su gruppi di clienti finali e che di norma si traducono in miglioramenti dell'efficienza energetica verificabili e misurabili o stimabili; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "misura di miglioramento dell'efficienza energetica": qualsiasi azione che di norma si traduce in miglioramenti dell'efficienza energetica verificabili e misurabili o stimabili; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "ESCO": persona fisica o giuridica che fornisce servizi energetici ovvero altre misure di miglioramento dell'efficienza energetica nelle installazioni o nei locali dell'utente e, cio' facendo, accetta un certo margine di rischio finanziario. Il pagamento dei servizi forniti si basa, totalmente o parzialmente, sul miglioramento dell'efficienza energetica conseguito e sul raggiungimento degli altri criteri di rendimento stabiliti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 4 LUGLIO 2014, N. 102; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "finanziamento tramite terzi": accordo contrattuale che comprende un terzo, oltre al fornitore di energia e al beneficiario della misura di miglioramento dell'efficienza energetica, che fornisce i capitali per tale misura e addebita al beneficiario un canone pari a una parte del risparmio energetico conseguito avvalendosi della misura stessa. Il terzo puo' essere una ESCO; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 4 LUGLIO 2014, N. 102; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    "strumento finanziario per i risparmi energetici": qualsiasi strumento finanziario, reso disponibile sul mercato da organismi pubblici o privati per coprire parzialmente o integralmente i costi del progetto iniziale per l'attuazione delle misure di miglioramento dell'efficienza energetica; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    "cliente finale": persona fisica o giuridica che acquista energia per proprio uso finale; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    "distributore di energia", ovvero "distributore di forme di energia diverse dall'elettricita' e dal gas": persona fisica o giuridica responsabile del trasporto di energia al fine della sua fornitura a clienti finali e a stazioni di distribuzione che vendono energia a clienti finali. Da questa definizione sono esclusi i gestori dei sistemi di distribuzione del gas e dell'elettricita', i quali rientrano nella definizione di cui alla lettera r); 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    "gestore del sistema di distribuzione" ovvero "impresa di distribuzione": persona fisica o giuridica responsabile della gestione, della manutenzione e, se necessario, dello sviluppo del sistema di distribuzione dell'energia elettrica o del gas naturale in una data zona e, se del caso, delle relative interconnessioni con altri sistemi, e di assicurare la capacita' a lungo termine del sistema di soddisfare richieste ragionevoli di distribuzione di energia elettrica o gas naturale; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    "societa' di vendita di energia al dettaglio": persona fisica o giuridica che vende energia a clienti finali; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    "sistema efficiente di utenza": sistema in cui un impianto di produzione di energia elettrica ((...)) alimentato da fonti rinnovabili ovvero in assetto cogenerativo ad alto rendimento, anche nella titolarita' di un soggetto diverso dal cliente finale, e' direttamente connesso, per il tramite di un collegamento privato senza obbligo di connessione di terzi, all'impianto per il consumo di un solo cliente finale ed e' realizzato all'interno dell'area di proprieta' o nella piena disponibilita' del medesimo cliente; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    "certificato bianco": titolo di efficienza energetica attestante il conseguimento di risparmi di energia grazie a misure di miglioramento dell'efficienza energetica e utilizzabile ai fini dell'adempimento agli obblighi di cui all'articolo 9, comma 1, del decreto legislativo 16 marzo 1999, n. 79, e successive modificazioni, e all'articolo 16, comma 4, del decreto legislativo 23 maggio 2000, n. 164; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 4 LUGLIO 2014, N. 102; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    "esperto in gestione dell'energia": soggetto che ha le conoscenze, l'esperienza e la capacita' necessarie per gestire l'uso dell'energia in modo efficiente; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    "ESPCo": soggetto fisico o giuridico, ivi incluse le imprese artigiane e le loro forme consortili, che ha come scopo l'offerta di servizi energetici atti al miglioramento dell'efficienza nell'uso dell'energia; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    "fornitore di servizi energetici": soggetto che fornisce servizi energetici, che puo' essere uno dei soggetti di cui alle lettere i), q), r), s), z) ed aa); 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    "Unita' per l'efficienza energetica": e' la struttura dell'ENEA di cui all'articolo 4, che svolge le funzioni previste dall'articolo 4, paragrafo 4, della direttiva 2006/32/CE.
 
 Continuano a valere, ove applicabili, le definizioni di cui al decreto legislativo 16 marzo 1999, n. 79, e al decreto legislativo 23 maggio 2000, n. 164.
 
 ## Art. 3. — Obiettivi di risparmio energetico
 
 Gli obiettivi nazionali indicativi di risparmio energetico sono individuati con i Piani di azione sull'efficienza energetica, PAEE, di cui all'articolo 14 della direttiva 2006/32/CE, predisposti secondo le modalita' di cui all'articolo 5, comma 2.
+
+2.
+                        
+                            
+                                Fatto salvo quanto previsto dall'articolo 7, ai fini della misurazione del contributo delle diverse misure di risparmio energetico agli obiettivi nazionali di cui al comma 1, si applicano:
+ 
+                            
+                            
+                                a)
+                                
+                                    per la conversione delle unita' di misura, i fattori di cui all'allegato I;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la misurazione e la verifica del risparmio energetico, i metodi approvati con decreti del Ministro dello sviluppo economico ((, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare,)), su proposta dell'Agenzia di cui all'articolo 4, secondo le modalita' di cui all'allegato IV della direttiva 2006/32/CE. Tali metodi sono aggiornati sulla base delle regole armonizzate che la Commissione mettera' a disposizione.
 
 ## - Titolo II STRUMENTI PER L'EFFICIENZA ENERGETICA Capo I Coordinamento e monitoraggio
 
@@ -56,9 +289,154 @@ L'ENEA provvede alla redazione di tale piano di attivita' sulla base di specific
 
 Entro centottanta giorni dalla data di entrata in vigore del presente decreto, con decreto del Ministro dello sviluppo economico, ((, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare,)) su proposta del Consiglio di amministrazione dell'ENEA e previo parere per i profili di rispettiva competenza del Ministro per la pubblica amministrazione e l'innovazione e del Ministro dell'economia e delle finanze, sono stabilite le modalita' con cui si procede alla riorganizzazione delle strutture, utilizzando il solo personale in servizio alla data di entrata in vigore del presente decreto, al fine di consentire l'effettivita' delle funzioni dell'((Unita' per l'efficienza energetica)).
 
+4.
+                        
+                            
+                                L'((Unita' per l'efficienza energetica)) svolge le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    supporta il Ministero dello sviluppo economico e le regioni ai fini del controllo generale e della supervisione dell'attuazione del quadro istituito ai sensi del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede alla verifica e al monitoraggio dei progetti realizzati e delle misure adottate, raccogliendo e coordinando le informazioni necessarie ai fini delle specifiche attivita' di cui all'articolo 5;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    predispone, in conformita' a quanto previsto dalla direttiva 2006/32/CE, proposte tecniche per la definizione dei metodi per la misurazione e la verifica del risparmio energetico ai fini della verifica del conseguimento degli obiettivi indicativi nazionali, da approvarsi secondo quanto previsto dall'articolo 3, comma 2. In tale ambito, definisce altresi' metodologie specifiche per l'attuazione del meccanismo dei certificati bianchi, ((approvate con le modalita' di cui all'articolo 3, comma 2,)) con particolare riguardo allo sviluppo di procedure standardizzate che consentano la quantificazione dei risparmi senza fare ricorso a misurazioni dirette;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolge supporto tecnico-scientifico e consulenza per lo Stato, le regioni e gli enti locali anche ai fini della predisposizione degli strumenti attuativi necessari al conseguimento degli obiettivi indicativi nazionali di risparmio energetico di cui al presente decreto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicura, anche in coerenza con i programmi di intervento delle regioni, l'informazione a cittadini, alle imprese, alla pubblica amministrazione e agli operatori economici, sugli strumenti per il risparmio energetico, nonche' sui meccanismi e sul quadro finanziario e giuridico predisposto per la diffusione e la promozione dell'efficienza energetica, provvedendo inoltre a fornire sistemi di diagnosi energetiche in conformita' a quanto previsto dall'articolo 18.
+
 ## Art. 5. — Strumenti di programmazione e monitoraggio
 
+1.
+                        
+                            
+                                Al fine di provvedere al monitoraggio e al coordinamento degli strumenti di cui al presente decreto legislativo, entro il 30 maggio di ciascun anno a decorrere dall'anno 2009, l'Unita' per l'efficienza energetica provvede alla redazione del Rapporto annuale per l'efficienza energetica, di seguito denominato: "Rapporto". Il Rapporto contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'analisi del raggiungimento degli obiettivi indicativi nazionali di cui all'articolo 3; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    l'analisi e il monitoraggio degli strumenti di incentivazione di cui al presente decreto e degli ulteriori strumenti attivati a livello regionale e locale in conformita' a quanto previsto dall'articolo 6; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'analisi dei risultati conseguiti nell'ambito del quadro regolatorio per la semplificazione delle procedure autorizzative, per la definizione degli obblighi e degli standard minimi di efficienza energetica, per l'accesso alla rete dei sistemi efficienti di utenza, individuato dalle disposizioni di cui al presente decreto legislativo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'analisi dei miglioramenti e dei risultati conseguiti nei diversi settori e per le diverse tecnologie, comprensiva di valutazioni economiche sulla redditivita' dei diversi investimenti e servizi energetici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'analisi e la mappatura dei livelli di efficienza energetica presenti nelle diverse aree del territorio nazionale utilizzando anche i risultati ottenuti dalle azioni messe in atto dalle regioni e dalle province autonome; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'individuazione delle eventuali misure aggiuntive necessarie anche in riferimento a quanto emerso dall'analisi di cui alla lettera e), ivi inclusi eventuali ulteriori provvedimenti economici e fiscali, per favorire il perseguimento degli obiettivi di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le ulteriori valutazioni necessarie all'attuazione dei commi 2 e 3; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il rapporto riportera' altresi' un'analisi sui consumi e i risparmi ottenuti a livello regionale e sara' messo a disposizione del pubblico in formato elettronico.
+
+((COMMA ABROGATO DAL D.LGS. 4 LUGLIO 2014, N. 102)).
+
+3.
+                        
+                            
+                                Il secondo e il terzo Piano d'azione nazionale per l'efficienza energetica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    includono un'analisi e una valutazione approfondite del precedente Piano d'azione nazionale per l'efficienza energetica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    includono i risultati definitivi riguardo al conseguimento degli obiettivi di risparmio energetico di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si basano sui dati disponibili, integrati da stime; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    includono piani relativi a misure addizionali e informazioni sugli effetti previsti dalle stesse intesi ad ovviare alle carenze constatate o previste rispetto agli obiettivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prevedono il ricorso ai fattori e ai metodi di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sono predisposti su iniziativa e proposta dell'Unita' per l'efficienza energetica in collaborazione con un gruppo di lavoro istituito ai sensi dell'articolo 7, comma 2, del decreto legislativo 28 agosto 1997, n. 281, senza nuovi o maggiori oneri, ne' minori entrate, a carico della finanza pubblica.
 
 ## Art. 6. — Armonizzazione delle funzioni dello Stato e delle regioni in materia di efficienza energetica
 
@@ -85,6 +463,45 @@ AGGIORNAMENTO (2)
 
 ## Art. 7. — Certificati bianchi
 
+1.
+                        
+                            
+                                Fatto salvo quanto stabilito dall'articolo 6 del decreto legislativo 8 febbraio 2007, n. 20, con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, sentito, per i profili di competenza, il Ministro delle politiche agricole alimentari e forestali e d'intesa con la Conferenza unificata:
+ 
+                            
+                            
+                                a)
+                                
+                                    sono stabilite le modalita' con cui gli obblighi in capo alle imprese di distribuzione di cui all'articolo 9, comma 1, del decreto legislativo 16 marzo 1999, n. 79, e all'articolo 16, comma 4, del decreto legislativo 23 maggio 2000, n. 164, si raccordano agli obiettivi nazionali di cui all'articolo 3, comma 1, tenuto conto di quanto stabilito dalla lettera b);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono gradualmente introdotti, tenendo conto dello stato di sviluppo del mercato della vendita di energia, in congruenza con gli obiettivi di cui all'articolo 3, comma 1, e agli obblighi di cui alla lettera a), obblighi di risparmio energetico in capo alle societa' di vendita di energia al dettaglio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stabilite le modalita' con cui i soggetti di cui alle lettere a) e b) assolvono ai rispettivi obblighi acquistando in tutto o in parte l'equivalente quota di certificati bianchi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono approvate le modalita' con cui l'((Unita' per l'efficienza energetica)) provvede a quanto disposto dall'articolo 4, comma 4, lettera c);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono aggiornati i requisiti dei soggetti ai quali possono essere rilasciati i certificati bianchi, nonche', in conformita' a quanto previsto dall'allegato III alla direttiva 2006/32/CE, l'elenco delle tipologie di misure ed interventi ammissibili ai fini dell'ottenimento dei certificati bianchi.
+
 Nelle more dell'adozione dei provvedimenti di cui al comma 1, nonche' dei provvedimenti di cui all'articolo 4, comma 3, si applicano i provvedimenti normativi e regolatori emanati in attuazione dell'articolo 9, comma 1, del decreto legislativo 16 marzo 1999, n. 79, e dell'articolo 16, comma 4, del decreto legislativo 23 maggio 2000, n. 164.
 
 Ai fini dell'applicazione del meccanismo di cui al presente articolo, il risparmio di forme di energia diverse dall'elettricita' e dal gas naturale non destinate all'impiego per autotrazione e' equiparato al risparmio di gas naturale.
@@ -104,6 +521,24 @@ Con accordi volontari con gli operatori di settore, ivi inclusi i soggetti che i
 ## Art. 10. — Disciplina dei servizi energetici e dei sistemi efficienti di utenza
 
 Ferma restando l'attuazione dell'articolo 28 della direttiva 2009/72/CE del Parlamento europeo e del Consiglio del 13 luglio 2009 per quanto attiene i sistemi di distribuzione chiusi, entro novanta giorni dalla data di entrata in vigore del presente decreto, l'Autorita' per l'energia elettrica e il gas definisce le modalita' per la regolazione dei sistemi efficienti di utenza, nonche' le modalita' e i tempi per la gestione dei rapporti contrattuali ai fini dell'erogazione dei servizi di trasmissione, distribuzione e dispacciamento ,tenendo conto dei principi di corretto funzionamento del mercato elettrico e assicurando che non si producano disparita' di trattamento sul territorio nazionale. Salvo che il fatto costituisca reato, l'Autorita' per l'energia elettrica e il gas, nel caso di inosservanza dei propri provvedimenti, applica l'articolo 2, comma 20, lettera c), della legge 14 novembre 1995, n. 481.
+
+2.
+                        
+                            
+                                PERIODO ABROGATO DAL D.L. 24 GIUGNO 2014, N. 91, CONVERTITO, CON MODIFICAZIONI, DALLA L. 11 AGOSTO 2014, N. 116. In tale ambito, l'Autorita' prevede meccanismi di salvaguardia per le realizzazioni avviate in data antecedente alla data di entrata in vigore del presente decreto, in particolare estendendo il regime di regolazione dell'accesso al sistema elettrico di cui al precedente periodo almeno ai sistemi il cui assetto e' conforme a tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono sistemi esistenti alla data di entrata in vigore del suddetto regime di regolazione, ovvero sono sistemi di cui, alla medesima data, sono stati avviati i lavori di realizzazione ovvero sono state ottenute tutte le autorizzazioni previste dalla normativa vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    hanno una configurazione conforme alla definizione di cui all'articolo 2, comma 1, lettera t) o, in alternativa, connettono, per il tramite di un collegamento privato senza obbligo di connessione di terzi, esclusivamente unita' di produzione e di consumo di energia elettrica ((nella titolarita' di societa' riconducibili al medesimo gruppo societario ai sensi dell'articolo 2359 del codice civile)). (5)
 
 ((2-bis. Ai sistemi di autoproduzione di energia elettrica con ciclo ORC (Organic Rankine Cycle) alimentati dal recupero di calore prodotto dai cicli industriali e da processi di combustione spettano i titoli di efficienza energetica di cui ai decreti attuativi dell'articolo 9, comma 1, del decreto legislativo 16 marzo 1999, n. 79, e dell'articolo 16, comma 4, del decreto legislativo 23 maggio 2000, n. 164, alle condizioni, con le modalita' e nella misura definite in una specifica scheda adottata dal Ministro dello sviluppo economico entro novanta giorni dalla data di entrata in vigore della presente disposizione))
 
@@ -143,6 +578,31 @@ La responsabilita' amministrativa, gestionale ed esecutiva dell'adozione degli o
 Ai fini del monitoraggio e della comunicazione ai cittadini del ruolo e dell'azione della pubblica amministrazione, i soggetti responsabili di cui al comma 2, trasmettono all'((Unita' per l'efficienza energetica)) di cui all'articolo 4 una scheda informativa degli interventi e delle azioni di promozione dell'efficienza energetica intraprese.
 
 ## Art. 13. — Edilizia pubblica
+
+1.
+                        
+                            
+                                In relazione agli usi efficienti dell'energia nel settore degli edifici, gli obblighi della pubblica amministrazione comprendono di norma:
+ 
+                            
+                            
+                                a)
+                                
+                                    il ricorso, anche in presenza di esternalizzazione di competenze, agli strumenti finanziari per il risparmio energetico per la realizzazione degli interventi di riqualificazione, compresi i contratti di rendimento energetico, che prevedono una riduzione dei consumi di energia misurabile e predeterminata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le diagnosi energetiche degli edifici pubblici o ad uso pubblico, in caso di interventi di ristrutturazione degli impianti termici, compresa la sostituzione dei generatori, o di ristrutturazioni edilizie che riguardino almeno il 15 per cento della superficie esterna dell'involucro edilizio che racchiude il volume lordo riscaldato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la certificazione energetica degli edifici pubblici od ad uso pubblico, nel caso in cui la metratura utile totale supera i 1000 metri quadrati, e l'affissione dell'attestato di certificazione in un luogo, dello stesso edificio, facilmente accessibile al pubblico, ai sensi dell'articolo 6, comma 7, del decreto legislativo 19 agosto 2005, n. 192.
 
 Nel caso di nuova costruzione o ristrutturazione degli edifici pubblici od ad uso pubblico le amministrazioni pubbliche si attengono a quanto stabilito dal decreto legislativo 19 agosto 2005, n. 192, e successive modificazioni.
 

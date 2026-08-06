@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2012-11-11
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,56 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di
 
 ## Art. 1. — Campo di applicazione
 
+1.
+                    
+                        
+                            I prodotti alimentari destinati ad una alimentazione particolare sono prodotti alimentari che, per la loro particolare composizione o per il particolare processo di fabbricazione, presentano le seguenti caratteristiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                si distinguono nettamente dagli alimenti di consumo corrente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono adatti all'obiettivo nutrizionale indicato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                vengono commercializzati in modo da indicare che sono conformi a tale obiettivo.
+
+2.
+                    
+                        
+                            I prodotti alimentari di cui al comma 1 devono rispondere alle esigenze nutrizionali particolari delle seguenti categorie di persone: 
+ 
+                        
+                        
+                            a)
+                            
+                                le persone il cui processo di assimilazione o il cui metabolismo e' perturbato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le persone che si trovano in condizioni fisiologiche particolari per cui possono trarre benefici particolari dall'assunzione controllata di talune sostanze negli alimenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i lattanti o i bambini nella prima infanzia, in buona sa- lute.
+
 I soli prodotti alimentari di cui al comma 2, lettere a) e b) possono essere caratterizzati dall'indicazione "dietetico" o "di re- gime".
 
 ## Art. 2. — Norme generali
@@ -35,9 +85,116 @@ I prodotti alimentari destinati ad una alimentazione particolare devono, comunqu
 
 ## Art. 3. — Alimenti di uso corrente
 
+1.
+                    
+                        
+                            Nell'etichettatura, presentazione e pubblicita' dei prodotti alimentari destinati al consumo corrente e' vietato impiegare: 
+ 
+                        
+                        
+                            a)
+                            
+                                la qualifica "dietetico" o "di regime" sia da sola che insieme ad altri termini; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ogni altra espressione o qualsiasi presentazione che possa far credere che si tratti di uno dei prodotti di cui all'art. 1.
+
 Il Ministro della sanita', con decreto da adottarsi di concerto con il Ministro dell'industria, del commercio e dell'artigianato, indica, in attuazione di disposizioni comunitarie, i prodotti alimentari di consumo corrente adatti ad una alimentazione particolare per il quali e' consentito menzionare tali proprieta' e le relative modalita' di indicazione.
 
 ## Art. 4. — Etichettatura
+
+1.
+                    
+                        
+                            I prodotti alimentari di cui all'art. 1, destinati al consumatore finale devono riportare in lingua italiana sulle confezioni le seguenti indicazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione di vendita, accompagnata dalla indicazione delle caratteristiche nutrizionali particolari; per i prodotti di cui all'art. 1, comma 2, lettera c) la denominazione di vendita e' invece accompagnata dall'indicazione della loro destinazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elenco degli ingredienti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli elementi particolari della composizione qualitativa e quantitativa o il processo speciale di fabbricazione che conferiscano al prodotto le sue caratteristiche nutrizionali particolari; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il quantitativo netto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il termine minimo di conservazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' di conservazione e di utilizzazione qualora sia necessaria l'adozione di particolari accorgimenti in funzione della natura del prodotto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le istruzioni per l'uso, quando la loro omissione non consente all'acquirente di fare un uso appropriato del prodotto alimentare; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il tenore di glucidi, protidi e lipidi per 100 gr o 100 ml di prodotto commercializzato e per quantita' proposta da consumare se il prodotto e' cosi' presentato; ((2))
+                                
+                            
+                        
+                        
+                            i)
+                            
+                                l'indicazione in ((kilocalorie (kcal) e in kilojoules (kj))) del valore energetico per 100 g o 100 ml di prodotto e, se il prodotto e' cosi' presentato, per quantita' proposta da consumare.
+Tale indicazione puo' essere sostituita dalle dizioni valore energetico inferiore a 50 kj (12 kcal) per 100 g ovvero valore energetico inferiore a 50 kj (12 kcal) per 100 ml quando il prodotto contenga dei valori energetici inferiori a 50 kj (12 kcal); 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il nome o la ragione sociale o il marchio depositato e la sede del fabbricante o del confezionatore o di un venditore stabilito nella comunita' europea; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                la sede dello stabilimento di fabbricazione o di confezionamento per i prodotti fabbricati o confezionati in Italia per la vendita sul territorio nazionale; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                il luogo di origine o di provenienza qualora l'omissione di tale indicazione possa indurre in errore il consumatore finale circa l'origine e la provenienza effettiva del prodotto alimentare.
 
 Per i prodotti di cui all'allegato 1 sulla confezione vanno riportati anche la composizione analitica centesimale e gli estremi del provvedimento di autorizzazione.
 
@@ -104,6 +261,24 @@ Con la stessa procedura di cui al comma 1 vengono indicati, in attuazione delle 
 ((
 
 Ai sensi dell'articolo 2 del decreto legislativo 6 novembre 2007, n. 193, gli stabilimenti di produzione e confezionamento dei prodotti di cui all'articolo 1 sono riconosciuti dalle regioni, dalle province autonome di Trento e di Bolzano e dalle aziende sanitarie locali.
+
+2.
+                    
+                        
+                            Il riconoscimento di cui al comma 1 avviene previa verifica in loco: 
+ 
+                        
+                        
+                            a)
+                            
+                                del rispetto dei pertinenti requisiti di cui al regolamento (CE) n. 852 /2004 e al regolamento (CE) n. 853/ 2004 e degli altri specifici requisiti previsti dalla legislazione alimentare vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della disponibilita' di un laboratorio accreditato per il controllo dei prodotti.
 
 Il riconoscimento viene sospeso o revocato quando vengono meno i presupposti di cui al comma 2.
 

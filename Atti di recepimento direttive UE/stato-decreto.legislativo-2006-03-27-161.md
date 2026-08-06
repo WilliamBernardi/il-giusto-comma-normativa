@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2013-02-02
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -37,6 +37,129 @@ Restano ferme, per i prodotti di cui al comma 1, le disposizioni vigenti in mate
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                Sostanze: qualsiasi elemento chimico ed i relativi composti, allo stato naturale o prodotti da attivita' industriali, in forma solida, liquida o gassosa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                miscela: qualsiasi miscela o soluzione composta da due o piu' sostanze; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Composto organico: qualsiasi composto contenente almeno l'elemento carbonio ed uno o piu' tra gli elementi idrogeno, ossigeno, zolfo, fosforo, silicio, azoto, cloro, bromo e fluoro, ad eccezione degli ossidi di carbonio e dei carbonati e bicarbonati inorganici; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Composto organico volatile (COV): qualsiasi composto organico avente un punto di ebollizione iniziale pari o inferiore a 250°C misurato ad una pressione standard di 101,3 kPa; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Contenuto di COV: la massa di composti organici volatili espressa in grammi/litro (g/l), nella formulazione del prodotto pronto all'uso. Non e' considerata come parte del contenuto di COV la massa di composti organici volatili presente in un dato prodotto che, in fase di essiccamento, reagisce chimicamente formando parte del rivestimento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Solvente organico: qualsiasi COV usato da solo o in combinazione con altri agenti per dissolvere o diluire materie prime, prodotti o rifiuti, oppure usato come agente di pulizia per dissolvere contaminanti o come mezzo di dispersione, correttore di viscosita', correttore di tensione superficiale, plastificante o conservante; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Rivestimento: qualsiasi miscela, inclusi tutti i solventi organici o le miscele contenenti i solventi organici necessari per una corretta applicazione, usato per ottenere una pellicola da applicare a scopo decorativo, funzionale o protettivo su una determinata superficie; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Pitture e vernici: i rivestimenti elencati nell'allegato I, paragrafo 1, esclusi gli aerosol, applicati a scopo decorativo, funzionale o protettivo sui manufatti edilizi e sulle relative finiture o sugli impianti e sulle strutture connessi a tali manufatti; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                Pellicola: uno strato continuo risultante dall'applicazione di uno o piu' rivestimenti su un supporto; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                Rivestimento a base acquosa (BA): rivestimento la cui viscosita' e' regolata mediante l'uso di acqua; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                Rivestimento a base solvente (BS): rivestimento la cui viscosita' e' regolata mediante l'uso di solventi organici; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                Prodotti per carrozzeria: i rivestimenti elencati nell'allegato I, paragrafo 2, usati a fini di riparazione, manutenzione o decorazione dei veicoli stradali, come definiti nella direttiva 70/156/CEE, o di parti degli stessi, ove tali attivita' siano effettuate al di fuori del luogo di produzione; gli aerosol sono inclusi soltanto nei casi espressamente previsti; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                Immissione sul mercato: qualsiasi atto di messa a disposizione del prodotto per i terzi, a titolo oneroso o a titolo gratuito; rientrano nella presente definizione anche la messa a disposizione del prodotto per gli intermediari, per i grossisti, per i rivenditori finali ((. . .)) e l'importazione del prodotto nel territorio doganale comunitario; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                Produttore: colui che produce i prodotti elencati nell'allegato I, pronti all'uso o non pronti all'uso, o che importa tali prodotti nel territorio doganale comunitario; chi effettua, su tali prodotti, operazioni di miscelazione si considera come produttore solo se dall'operazione deriva un prodotto di tipo diverso secondo le definizioni contenute nell'allegato I; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                Prodotto: le pitture, le vernici e i prodotti per carrozzeria elencati nell'allegato I; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                Prodotto pronto all'uso: prodotto che non necessita di operazioni di miscelazione per essere utilizzato; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                Miscelazione: l'aggiunta, ad un prodotto elencato nell'allegato I gia' immesso sul mercato, di altri prodotti, quali solventi o miscele contenenti solventi, anche diversi da quelli elencati nell'allegato I; si considera come miscelazione anche l'aggiunta prevista dall'articolo 3, comma 2.
+
 ## Art. 3. — Immissione sul mercato
 
 A decorrere dalla data di applicazione dei valori limite previsti nell'allegato II i prodotti elencati nell'allegato I possono essere immessi sul mercato solo se hanno un contenuto di COV uguale o inferiore a tali valori limite e se sono etichettati in conformita' all'articolo 4.
@@ -53,6 +176,24 @@ Le autorita' competenti al rilascio delle autorizzazioni di cui al comma 5 invia
 
 ## Art. 4. — Etichettatura
 
+1.
+                    
+                        
+                            I prodotti elencati nell'allegato I, inclusi quelli non pronti all'uso, possono essere immessi sul mercato soltanto se provvisti di un'etichetta, nella quale sono indicati, in modo chiaro e leggibile:
+ 
+                        
+                        
+                            a)
+                            
+                                il tipo di prodotto, secondo le definizioni contenute nell'allegato I, ed il relativo valore limite, previsto dall'allegato II, espresso in g/l;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il contenuto massimo di COV, espresso in g/l, nel prodotto pronto all'uso.
+
 All'etichettatura di cui al comma 1 provvedono il produttore e chi trasferisce il prodotto da una confezione ad una o piu' confezioni differenti.
 
 ## Art. 5. — Raccolta e trasmissione dei dati
@@ -66,6 +207,31 @@ I soggetti che effettuano i controlli relativi al rispetto del presente decreto,
 Il Ministero dell'ambiente e della tutela del territorio ((e del mare, in qualita' di autorita' competente ai sensi dell'articolo 5 della direttiva 2004/42/CE,)) invia alla Commissione europea entro il 1° luglio 2008, entro il 1° luglio 2011 e, successivamente, ogni cinque anni una relazione circa l'applicazione del presente decreto, elaborata sulla base delle informazioni di cui al comma 1 e di cui all'articolo 3, comma 6. A tal fine e' utilizzato, ove disponibile, il formato predisposto dalla Commissione europea. Il Ministero comunica inoltre annualmente tali informazioni alla Commissione europea, su apposita richiesta.
 
 ## Art. 6. — Sanzioni
+
+1.
+                    
+                        
+                            Salvo che il fatto costituisca piu' grave reato, in caso di immissione sul mercato di prodotti elencati nell'allegato I, aventi un contenuto di COV superiore ai valori limite stabiliti dall'allegato II, e' punito con l'arresto fino a due anni o con l'ammenda da diecimila euro a cinquantamila euro:
+ 
+                        
+                        
+                            a)
+                            
+                                il produttore se il prodotto non ha subito operazioni di miscelazione o se tali operazioni sono state effettuate in modo conforme alle istruzioni per l'uso da costui fornite;
+
+                            
+                        
+                        
+                            b)
+                            
+                                chi ha effettuato operazioni di miscelazione se il superamento dei valori limite e' stato determinato da successive operazioni di miscelazione effettuate in modo conforme alle istruzioni per l'uso da costui fornite;
+
+                            
+                        
+                        
+                            c)
+                            
+                                chi ha effettuato operazioni di miscelazione in modo difforme dalle istruzioni per l'uso fornitegli o in assenza di tali istruzioni.
 
 La sanzione di cui al comma 1 non si applica se il prodotto, secondo le istruzioni per l'uso che lo accompagnano, non e' pronto all'uso. Tale sanzione si applica in caso di immissione sul mercato di prodotti che, secondo le istruzioni per l'uso che li accompagnano, e indipendentemente dal proprio contenuto di COV, non sono pronti all'uso e che, a seguito dell'aggiunta prevista dall'articolo 3, comma 2, effettuata in modo conforme alle istruzioni stesse, presentano un contenuto di COV superiore ai valori limite stabiliti dall'allegato II.
 

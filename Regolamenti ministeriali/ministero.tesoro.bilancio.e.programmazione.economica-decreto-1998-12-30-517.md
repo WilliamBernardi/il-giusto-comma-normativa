@@ -8,8 +8,8 @@ codice_redazionale: 099G0148
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,35 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 
 ## Art. 1. — Onorabilita' dei partecipanti al capitale
  di intermediari finanziari
+
+1.
+                    
+                        
+                            Chiunque partecipa in un intermediario finanziario in misura superiore al 5 per cento del capitale rappresentato da azioni con diritto di voto non puo' esercitare il diritto di voto, inerente alle azioni o quote eccedenti, qualora:
+ 
+                        
+                        
+                            a)
+                            
+                                sia stato sottoposto a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della legge 27 dicembre 1956, n. 1423 o della legge 31 maggio 1965, n. 575, e successive modificazioni ed integrazioni, salvi gli effetti della riabilitazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia stato condannato con sentenza irrevocabile, salvi gli effetti della riabilitazione:
+ 1) a pena detentiva per un tempo non inferiore a sei mesi per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento;
+ 2) alla reclusione per un tempo non inferiore a sei mesi per uno dei delitti previsti nel titolo XI del libro V del codice civile e nel regio decreto del 16 marzo 1942, n. 267;
+ 3) alla reclusione per un tempo non inferiore ad un anno per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria;
+ 4) alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sia stato condannato con sentenza che applica la pena su richiesta delle parti, salvo il caso di estinzione del reato, ad una delle pene indicate alla lettera b). Le pene di cui alla lettera b), n. 1) e n. 2), non rilevano se inferiori ad un anno.
 
 La disposizione di cui al comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla l'intermediario finanziario ai sensi dell'articolo 23 del testo unico. In tal caso la sospensione del diritto di voto interessa l'intera partecipazione.
 

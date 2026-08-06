@@ -8,8 +8,8 @@ codice_redazionale: 099G0423
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,38 @@ Per l'individuazione dei prodotti agroalimentari tradizionali le regioni e le pr
  dei prodotti agroalimentari tradizionali
 
 Le regioni e le province autonome di Trento e di Bolzano, entro sei mesi dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale, predispongono gli elenchi regionali o provinciali dei propri prodotti agroalimentari tradizionali.
+
+2.
+                    
+                        
+                            Negli elenchi di cui al comma 1 devono essere indicate, per ogni prodotto, le seguenti informazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nome del prodotto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                caratteristiche del prodotto e metodiche di lavorazione, conservazione e stagionatura consolidate nel tempo in base agli usi locali, uniformi e costanti, anche raccolti presso le camere di commercio, industria, artigianato e agricoltura competenti per territorio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                materiali e attrezzature specifiche utilizzati per la preparazione, il condizionamento o l'imballaggio dei prodotti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                descrizione dei locali di lavorazione, conservazione e stagionatura.
 
 Le regioni e le province autonome inviano gli elenchi ed i successivi aggiornamenti al Ministero per le politiche agricole che provvede al loro inserimento nell'elenco nazionale di cui all'articolo 3.
 

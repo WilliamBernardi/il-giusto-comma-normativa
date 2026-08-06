@@ -7,8 +7,8 @@ urn: urn:nir:ministero.difesa:decreto:2012-12-19;258
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,7 +26,99 @@ Udito il parere del Consiglio di Stato n. 7670/2012, espresso dalla Sezione cons
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, s'intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                aeroporti militari: gli aeroporti di Amendola, Aviano, Cameri, Cervia, Decimomannu, Dobbiaco, Frosinone, Furbara, Galatina, Ghedi, Gioia del Colle, Grazzanise, Grosseto, Guidonia, Istrana, Latina, Luni - Sarzana, Piacenza - San Damiano, Pantelleria, Pisa, Pratica di Mare, Rivolto, Sigonella, Trapani - Birgi, Varese - Venegono e Viterbo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                annesso ICAO: l'allegato numero 14 alla Convenzione relativa all'aviazione civile internazionale, citato in premessa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                codice: il codice della navigazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                installazioni aeronautiche militari: gli aeroporti militari e ogni altra installazione militare permanentemente adibita al decollo e all'atterraggio di aeromobili; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                recinzione perimetrale: la recinzione che delimita il perimetro delle installazioni aeronautiche militari; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                superficie di avvicinamento: la «approach surface», cosi' come definita dall'annesso ICAO; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                superficie di salita al decollo: la «take off climb surface» (T.O.C.S.), cosi' come definita dall'annesso ICAO; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                superficie orizzontale esterna: la «outer horizontal surface» (O.H.S.), cosi' come definita dall'annesso ICAO; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                impronta della superficie orizzontale esterna: la proiezione sul terreno della superficie orizzontale esterna; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                zona di traffico dell'aeroporto: la «aerodrome traffic zone» (A.T.Z.), cosi' come individuata, in conformita' alla definizione adottata dall'Organizzazione internazionale dell'aviazione civile, nella Pubblicazione militare di informazioni aeronautiche, edita dal Centro informazioni geotopografiche aeronautiche dell'Aeronautica militare.
+
 ## Art. 2. — Sicurezza della navigazione aerea
+
+1.
+                    
+                        
+                            Il Capo di stato maggiore dell'Aeronautica militare, nel rispetto delle direttive del Capo di stato maggiore della difesa: 
+ 
+                        
+                        
+                            a)
+                            
+                                rilascia l'autorizzazione allo svolgimento dell'attivita' di volo militare sulle installazioni aeronautiche militari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esercita le competenze attribuitegli dalla legge in materia di regolazione tecnica, certificazione e vigilanza sulle installazioni aeronautiche militari.
 
 Nell'esercizio delle competenze di cui al comma 1, il Capo di stato maggiore dell'Aeronautica militare si avvale, per l'alta consulenza tecnica e per gli adempimenti di specifica competenza, dei comandi dell'Aeronautica militare e delle strutture dell'area tecnico-amministrativa del Ministero della difesa competenti per materia.
 
@@ -46,6 +138,31 @@ Nelle zone limitrofe alle altre installazioni aeronautiche militari, possono ess
 Nelle zone limitrofe alle installazioni aeronautiche militari, la realizzazione di impianti fotovoltaici in aree distanti meno di un chilometro dalla recinzione perimetrale e' subordinata all'autorizzazione del Ministero della difesa.
 
 ## Art. 4. — Competenze degli organi del Ministero della difesa
+
+1.
+                    
+                        
+                            Le competenze attribuite al Ministero della difesa dall'articolo 710 del codice sono cosi' suddivise, in attuazione delle disposizioni di cui all'articolo 106, comma 1 lettera o), del decreto del Presidente della Repubblica 15 marzo 2010, n. 90: 
+ 
+                        
+                        
+                            a)
+                            
+                                la Direzione dei lavori e del demanio: 
+ 1) provvede alla pubblicazione delle mappe aeronautiche mediante deposito nell'ufficio del comune interessato, in conformita' alle procedure stabilite dall'articolo 707 del codice; 
+ 2) impone i vincoli sulla proprieta' privata e le limitazioni alla costituzione degli ostacoli nelle vicinanze delle installazioni aeronautiche militari, in applicazione dei criteri stabiliti dall'articolo 3, ed ordina con provvedimento motivato, su richiesta degli organi tecnico-operativi dell'Aeronautica militare, l'abbattimento degli ostacoli e l'eliminazione dei pericoli per la navigazione aerea; 
+ 3) concede le autorizzazioni di competenza del Ministero della difesa previste dall'articolo 3 del presente regolamento, previa acquisizione del nulla osta tecnico-operativo degli organi tecnico-operativi dell'Aeronautica militare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'Aeronautica militare, per il tramite dei propri organi tecnico-operativi: 
+ 1) predispone le mappe aeronautiche con l'indicazione delle zone soggette a vincoli; 
+ 2) ordina, con provvedimento motivato, il collocamento di segnali sulle costruzioni, sui rilievi orografici e, in genere, sulle opere che richiedono maggiore visibilita' e l'adozione di altre misure necessarie per la sicurezza della navigazione aerea e provvede alla verifica dell'efficienza dei segnali stessi; 
+ 3) rilascia ai fini della sicurezza della navigazione aerea e dell'incolumita' pubblica il nulla osta tecnico-operativo previsto dalla lettera a) numero 3), tenendo anche conto dei rischi di abbagliamento e dell'impatto elettromagnetico; 
+ 4) rende disponibile in consultazione gratuita, anche presso gli aeroporti militari, a richiesta degli interessati, il testo vigente dell'annesso ICAO.
 
 Gli oneri derivanti dall'abbattimento degli ostacoli e dall'eliminazione dei pericoli, di cui al comma 1, lettera a), numero 2), nonche' dal collocamento di segnali e dall'adozione di altre misure necessarie per la sicurezza della navigazione aerea, di cui al comma 1, lettera b), numero 2), sono posti a carico del proprietario ai sensi degli articoli 712 e 714 del codice.
 

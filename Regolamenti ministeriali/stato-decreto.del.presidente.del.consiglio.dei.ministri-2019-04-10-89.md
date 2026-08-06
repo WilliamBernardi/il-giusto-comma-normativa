@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2019-04-10;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -23,6 +23,31 @@ DEL CONSIGLIO DEI MINISTRI
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 31 gennaio 2019;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Garante»: il Garante nazionale dei diritti delle persone detenute o private della liberta' personale, istituito ai sensi dell'articolo 7 del decreto-legge 23 dicembre 2013, n. 146, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 10; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Ufficio»: l'ufficio del Garante nazionale dei diritti delle persone detenute o private della liberta' personale, istituito ai sensi dell'articolo 7 del decreto-legge 23 dicembre 2013, n. 146, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 10; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Protocollo Onu»: protocollo opzionale alla Convenzione delle Nazioni Unite contro la tortura e altri trattamenti o pene crudeli, inumane o degradanti, fatto a New York il 18 dicembre 2002, ratificato dalla legge 9 novembre 2012, n. 195.
 
 ## Art. 2. — Composizione dell'ufficio
 
@@ -40,9 +65,66 @@ Il Garante puo' avvalersi dell'opera di consulenti ed esperti in possesso di ade
 
 L'organizzazione dell'ufficio e' ispirata ai principi di efficienza, efficacia e trasparenza dell'attivita' amministrativa.
 
+2.
+                    
+                        
+                            Il Garante, nel rispetto delle competenze di cui all'articolo 7 del decreto-legge 23 dicembre 2013, n. 146, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 10: 
+ 
+                        
+                        
+                            a)
+                            
+                                con propria delibera, stabilisce le modalita' di organizzazione e articolazione interna dell'ufficio, nel rispetto dei principi contenuti nel decreto legislativo 30 marzo 2001, n. 165; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                determina gli indirizzi e i criteri generali ai quali si informa l'attivita' dell'ufficio e definisce gli obiettivi da realizzare, verificandone l'attuazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                adotta il regolamento interno delle attivita' dell'ufficio, recante la disciplina del funzionamento, nonche' il codice di comportamento del personale dell'ufficio e di tutti i soggetti che, a qualsiasi titolo, collaborano con il Garante, in conformita' ai principi di cui al protocollo ONU.
+
 Il dirigente di seconda fascia di cui alla tabella A, preposto alla direzione dell'ufficio, e' scelto tra i dirigenti di ruolo del Ministero della giustizia.
 
 ## Art. 4. — Il direttore dell'ufficio
+
+1.
+                    
+                        
+                            Il direttore dell'ufficio: 
+ 
+                        
+                        
+                            a)
+                            
+                                cura l'esecuzione delle disposizioni del Garante e l'attuazione dei programmi e degli obiettivi, coordinando e indirizzando l'attivita' del personale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                esercita i poteri di cui agli articoli 5 e 17 del decreto legislativo 30 marzo 2001, n. 165, provvedendo alla gestione e alla valutazione del personale assegnato all'ufficio nel rispetto degli indirizzi e dei criteri determinati dal Garante ai sensi dell'articolo 3, comma 2, lettera b); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esercita i compiti delegati dal Garante e, in particolare, e' funzionario delegato alla gestione delle risorse di cui all'articolo 7, comma 5-bis, del decreto-legge 23 dicembre 2013, n. 146, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 10; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assicura al Garante una completa e tempestiva informazione sulla complessiva attivita' dell'ufficio.
 
 ## Art. 5. — Sede e beni strumentali dell'ufficio
 

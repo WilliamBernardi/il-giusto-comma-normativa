@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-07-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,9 +29,111 @@ Sulla proposta del Ministro della salute, di concerto con i Ministri della giust
 
 ## Art. 1. — Modifiche al decreto legislativo 6 novembre 2007, n. 200
 
+1.
+                        
+                            
+                                Al decreto legislativo 6 novembre 2007, n. 200, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, comma 1: 
+ 1) alla lettera r) dopo le parole «a fini commerciali» sono inserite le seguenti: «ovvero senza scopo di lucro»; 
+ 2) dopo la lettera s) e' aggiunta, in fine, la seguente: 
+ «s-bis) approccio metodologico di medicina di genere nelle sperimentazioni cliniche: modalita' innovativa e multidisciplinare nella conduzione degli studi clinici che tiene conto dell'influenza che le differenze biologiche, incluse quelle relative al sesso e all'eta', hanno sullo stato di salute e di malattia di ogni persona.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 3, dopo il comma 13, e' aggiunto, in fine, il seguente: 
+ «13-bis. Le strutture presso le quali si svolgono le sperimentazioni cliniche favoriscono l'utilizzo a scopo di ricerca clinica di materiale biologico o clinico residuo da precedenti attivita' diagnostiche o terapeutiche o a qualunque altro titolo detenuto. L'Istituto superiore di sanita', con il supporto anche dell'Infrastruttura di ricerca europea delle biobanche e delle risorse biomolecolari - BBMRI, previo parere del Centro di coordinamento nazionale dei comitati etici territoriali e del Garante per la protezione dei dati personali, con appositi atti di indirizzo, nel rispetto del principio del consenso informato e della disciplina in materia di protezione dei dati personali e assicurando elevati standard qualitativi, individua criteri omogenei per l'utilizzo dei campioni biologici, tenendo conto delle modalita' di accesso e di acquisizione del consenso del paziente sull'uso successivo del campione prelevato.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 6, dopo il comma 6, sono aggiunti, in fine, i seguenti: 
+ «6-bis. Al fine di valorizzare le sperimentazioni cliniche senza scopo di lucro, anche a basso livello di intervento, e' consentita la cessione dei relativi dati nonche' dei risultati della sperimentazione a fini registrativi. In tali casi e' fatto obbligo al promotore o al cessionario di sostenere e rimborsare le spese dirette e indirette connesse alla sperimentazione, nonche' corrispondere, a seguito dell'eventuale riqualificazione dello studio stesso come attivita' con scopo di lucro, le relative tariffe, ivi comprese le potenziali entrate derivanti dalla valorizzazione della proprieta' intellettuale. 
+ 6-ter. Con decreto del Ministro della salute, da emanarsi entro il 31 ottobre 2019, sentito il Centro di coordinamento nazionale dei comitati etici territoriali per le sperimentazioni cliniche sui medicinali per uso umano e sui dispositivi medici, sono stabilite misure volte a facilitare e sostenere la realizzazione degli studi clinici senza scopo di lucro e degli studi osservazionali e a individuare le modalita' di coordinamento tra i promotori, pubblici e privati, nell'ambito della medesima sperimentazione clinica o studio clinico, anche al fine di acquisire informazioni a seguito dell'immissione in commercio dei medicinali. Con il medesimo decreto sono introdotti criteri per identificare le tipologie e i requisiti delle sperimentazioni senza scopo di lucro e le sperimentazioni con collaborazione tra promotori pubblici e privati, nonche' per disciplinare le modalita' di cessione dei dati relativi alla sperimentazione al promotore e la loro utilizzazione a fini di registrazione.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo l'articolo 21, e' inserito il seguente: 
+ «Art. 21-bis (Sistemi informativi di supporto alle sperimentazioni cliniche). - 1. Nell'impiego dei sistemi informativi di supporto alle sperimentazioni cliniche, i centri di sperimentazione, conformemente alle buone pratiche cliniche, utilizzano figure professionali competenti nella gestione dei dati e nel coordinamento della ricerca. 
+ 2. I dati dei sistemi informativi sono utilizzati nel rispetto del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e del decreto legislativo 30 giugno 2003, n. 196, recante "Codice in materia di protezione dei dati personali"»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 26: 
+ 1) al comma 3, le parole «di cui al punto 4 dell'allegato 3 al decreto del Ministro della salute in data 24 maggio 2004» sono sostituite dalle seguenti: «di cui all'allegato 1 del decreto del Ministro della salute 6 dicembre 2016»; 
+ 2) dopo il comma 3, e' inserito il seguente: «3-bis. Con decreto del Ministro della salute da adottarsi, di concerto con il Ministro dell'economia e delle finanze per gli aspetti finanziari, entro il 31 ottobre 2019 e' stabilita un'agevolazione tariffaria, per le ispezioni di buona pratica clinica sugli studi di fase I, condotte presso i centri clinici dedicati agli studi clinici di fase I, sia su pazienti che su volontari sani, che documentano di condurre gli studi con un approccio metodologico a favore della medicina di genere, ove applicabile, anche attraverso l'utilizzo di adeguati sistemi informativi di supporto alle sperimentazioni cliniche. Alle minori entrate derivanti dalle agevolazioni tariffarie di cui al precedente periodo si provvede mediante corrispondente adeguamento delle altre tariffe di cui al decreto del Ministro della salute 6 dicembre 2016.»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 42 e' sostituito dal seguente: 
+ «Art. 42 (Procedure sanzionatorie). - 1. Le sanzioni amministrative di cui all'articolo 41 sono irrogate dall'Agenzia italiana del farmaco, quale autorita' competente in materia di sperimentazione clinica dei medicinali, ai sensi dell'articolo 12, comma 9, del decreto-legge 13 settembre 2012, n. 158, convertito, con modificazioni, dalla legge 8 novembre 2012, n. 189; le stesse sono versate all'entrata del bilancio dello Stato. 
+ 2. L'Agenzia italiana del farmaco, con cadenza annuale, in relazione alle previsioni di cui al comma 1, trasmette al Ministero della salute una relazione sull'attivita' sanzionatoria espletata, contenente anche un'analisi della tipologia e della frequenza delle violazioni rilevate.».
+
 ## Art. 2. — Modifiche al decreto legislativo 24 giugno 2003, n. 211
 
+1.
+                        
+                            
+                                Al decreto legislativo 24 giugno 2003, n. 211, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 8, comma 1, e' aggiunto, in fine, il seguente periodo: «In allegato al medesimo decreto e' definita la modulistica nazionale unica di cui al primo periodo, ai fini della presentazione della domanda per il parere del comitato etico.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 11, dopo il comma 4, e' aggiunto, in fine, il seguente: 
+ «4-bis. L'AIFA, acquisiti i dati di cui al comma 1, provvede, a pubblicare l'elenco delle strutture autorizzate nel proprio portale informatico attraverso il collegamento al sito istituzionale di ciascuna struttura, che dovra' essere dotato di una sezione appositamente dedicata alla trasparenza in cui, nel rispetto del decreto legislativo 14 marzo 2013, n. 33, nonche' della normativa vigente in materia di protezione dei dati personali, siano resi pubblici i nominativi e i curricula di tutti i soggetti coinvolti nella conduzione di una sperimentazione oltre che tutte le sperimentazioni attivate, in corso o concluse, e quelle autorizzate, nonche' i correlati finanziamenti e i programmi di spesa con i relativi contratti.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 22, dopo il comma 13 e' aggiunto, in fine, il seguente: «13-bis. Le sanzioni previste dal presente articolo sono irrogate con le modalita' previste dall'articolo 42.»
+
 ## Art. 3. — Modifiche al decreto legislativo 30 dicembre 1992, n. 502
+
+1.
+                        
+                            
+                                Al decreto legislativo 30 dicembre 1992, n. 502, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 16-bis, comma 1, e' aggiunto, in fine, il seguente periodo: «L'aggiornamento periodico del personale operante presso le strutture sanitarie e socio-sanitarie impegnato nella sperimentazione clinica dei medicinali e' realizzato attraverso il conseguimento di appositi crediti formativi su percorsi assistenziali multidisciplinari, nei quali sia data rilevanza anche alla medicina di genere e all'eta' pediatrica, e multiprofessionali nonche' su percorsi formativi di partecipazione diretta a programmi di ricerca clinica multicentrici.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 16-ter, comma 2, dopo il secondo periodo, e' inserito il seguente «La Commissione, in conformita' agli accordi e alle intese sancite in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e Bolzano in relazione alla durata della sperimentazione, individua i crediti formativi da riconoscere ai professionisti sanitari che presso le strutture sanitarie e socio-sanitarie sono impegnati nella sperimentazione clinica dei medicinali.».
 
 ## - Capo II Disposizioni di coordinamento con il regolamento (UE) n. 536/2014
 

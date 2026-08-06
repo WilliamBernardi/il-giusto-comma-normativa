@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2017-12-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -168,6 +168,25 @@ Dalla data di entrata in vigore della legge di conversione del presente decreto 
 
 Sulla base delle linee guida e dei principi stabiliti dal Ministro delle politiche agricole e forestali, l'UNIRE organizza e gestisce l'anagrafe equina nell'ambito del Sistema informativo agricolo nazionale (SIAN) di cui all'articolo 15 del decreto legislativo 30 aprile 1998, n. 173, articolandola per razza, tipologia d'uso e diffusione territoriale. L'UNIRE si avvale anche dell'AIA, attraverso le sue strutture provinciali (APA), per raccogliere i dati e tenerli aggiornati mediante un monitoraggio costante. Dall'attuazione delle disposizioni di cui al presente comma non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. ((11))
 
+16.
+                    
+                        
+                            All'articolo 1 della legge 4 agosto 1955, n. 722, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4, le parole: "31 ottobre" sono sostituite dalle seguenti: "15 dicembre"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 5 e' aggiunto il seguente: 
+ "5-bis. Non costituiscono lotterie rientranti nell'ambito di applicazione del comma 1 quelle istituite e regolate, anche al fine di consentire la partecipazione mediante connessione telefonica o telematica, con decreto del Ministro dell'economia e delle finanze senza il collegamento con fatti e con rievocazioni storica-artisticoculturali e con avvenimenti sportivi".
+
 Il primo decreto adottato in attuazione del comma 5-bis dell'articolo 1 della legge 4 agosto 1955, n. 722, introdotto dal comma 16, lettera b), del presente articolo, e' emanato entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto.
 
 Il Ministero dell'economia e delle finanze, sulla base di indirizzi strategici deliberati dal Comitato generale per i giochi di cui al comma 12, provvede ad individuare, nel rispetto della disciplina comunitaria e nazionale, operatori specializzati nella gestione di reti di partecipazione a distanza, con modalita' elettroniche e telematiche, anche combinate al segnale telefonico, a giochi, a scommesse, a concorsi, istituiti o da istituire, anche connessi a manifestazioni sportive organizzate dagli enti pubblici competenti, assicurando, in ogni caso, il rispetto dei principi della certezza giuridica del rapporto tra giocatore, reti di partecipazione al gioco tradizionali ed operatore selezionato ai sensi del presente comma, nonche' della sicurezza e trasparenza del gioco, della tutela della buona fede degli utenti, delle rispettive responsabilita' dei diversi operatori coinvolti.
@@ -177,6 +196,26 @@ Il Governo trasmette al Parlamento, entro il 31 marzo di ciascun anno, una relaz
 Al maggiore onere derivante dall'attuazione dei commi 2 e 10, pari a 12,4 milioni di euro annui, nonche' dall'attuazione dei commi 5 e 6, pari a 3 milioni di euro annui, a decorrere dal 1° gennaio 2003, si provvede mediante le maggiori entrate derivanti dall'indizione di nuove lotterie ad estrazione istantanea e di quelle previste dall'articolo 1, comma 5-bis, della legge 4 agosto 1955, n. 722, introdotto dal comma 16, lettera b), del presente articolo.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+22.
+                    
+                        
+                            Al decreto legislativo 29 ottobre 1999, n. 449, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dell'articolo 1 dopo le parole: "diritto pubblico" sono aggiunte le seguenti: "di primo livello"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 6, dopo il comma 2, sono inseriti i seguenti: 
+ "2-bis. Lo statuto dell'UNIRE prevede la costituzione di tre consulte tecniche (trotto, galoppo e sella) nominate dalle stesse categorie. Nelle materie indicate dal medesimo statuto, il consiglio di amministrazione acquisisce preventivamente il parere consultivo delle predette consulte. 
+ 2-ter. Entro quattro mesi dalla data di entrata in vigore della presente disposizione, il consiglio di amministrazione dell'UNIRE adotta il regolamento recante disposizioni relative all'elezione dei componenti delle consulte tecniche ed al loro funzionamento. Il regolamento, il quale si informa al principio secondo cui le deibere dell'UNIRE in materia di programmazione tecnica delle corse e delle manifestazioni e di piani e programmi allevatori sono emanate sentito il parere delle consulte, e' sottoposto all'approvazione del Ministro delle politiche agricole e forestali".
 
 Dall'attuazione delle disposizioni di cui al comma 22 non devono derivare nuovi o maggiori oneri a carico della finanza pubblica e la partecipazione alle consulte tecniche non comporta la corresponsione di alcuna indennita' o compenso ne' rimborso spese.
 

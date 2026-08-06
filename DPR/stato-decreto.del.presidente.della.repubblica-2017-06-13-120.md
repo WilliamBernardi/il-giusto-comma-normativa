@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2023-04-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,38 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'amb
 
 Oggetto e finalita'
 
+1.
+                        
+                            
+                                Con il presente regolamento sono adottate, ai sensi dell'articolo 8 del decreto-legge 12 settembre 2014, n. 133, convertito, con modificazioni, dalla legge 11 novembre 2014, n. 164, disposizioni di riordino e di semplificazione della disciplina inerente la gestione delle terre e rocce da scavo, con particolare riferimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla gestione delle terre e rocce da scavo qualificate come sottoprodotti, ai sensi dell'articolo 184-bis, del decreto legislativo 3 aprile 2006, n. 152, provenienti da cantieri di piccole dimensioni, di grandi dimensioni e di grandi dimensioni non assoggettati a VIA o a AIA, compresi quelli finalizzati alla costruzione o alla manutenzione di reti e infrastrutture; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla disciplina del deposito temporaneo delle terre e rocce da scavo qualificate rifiuti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'utilizzo nel sito di produzione delle terre e rocce da scavo escluse dalla disciplina dei rifiuti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla gestione delle terre e rocce da scavo nei siti oggetto di bonifica.
+
 Il presente regolamento, in attuazione dei principi e delle disposizioni della direttiva 2008/98/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008, disciplina le attivita' di gestione delle terre e rocce da scavo, assicurando adeguati livelli di tutela ambientale e sanitaria e garantendo controlli efficaci, al fine di razionalizzare e semplificare le modalita' di utilizzo delle stesse.  
  ((1))
 
@@ -42,6 +74,166 @@ Il presente regolamento, in attuazione dei principi e delle disposizioni della d
  Il D.L. 24 febbraio 2023, n. 13 ha disposto (con l'art. 48, comma 3) che, a partire dalla data di entrata in vigore del decreto di cui al comma 1 del medesimo D.L., sono abrogati l'articolo 8 del decreto-legge 12 settembre 2014, n. 133, convertito, con modificazioni, dalla legge 11 novembre 2014, n. 164, e il regolamento di cui al decreto del Presidente della Repubblica 13 giugno 2017, n. 120.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si applicano le definizioni di cui agli articoli 183, comma 1, e 240 del decreto legislativo 3 aprile 2006, n. 152, nonche' le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «lavori»: comprendono le attivita' di costruzione, scavo, demolizione, recupero, ristrutturazione, restauro e manutenzione di opere ((inclusi gli invasi)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «suolo»: lo strato piu' superficiale della crosta terrestre situato tra il substrato roccioso e la superficie. Il suolo e' costituito da componenti minerali, materia organica, acqua, aria e organismi viventi, comprese le matrici materiali di riporto ai sensi dell'articolo 3, comma 1, del decreto-legge 25 gennaio 2012, n. 2, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 28; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «terre e rocce da scavo»: il suolo escavato derivante da attivita' finalizzate alla realizzazione di un'opera, tra le quali: scavi in genere (sbancamento, fondazioni, trincee); perforazione, trivellazione, palificazione, consolidamento; opere infrastrutturali (gallerie, strade); rimozione e livellamento di opere in terra ((; i sedimenti derivanti da operazioni di svaso, sfangamento e sghiaiamento)). Le terre e rocce da scavo possono contenere anche i seguenti materiali: calcestruzzo, bentonite, polivinilcloruro (PVC), vetroresina, miscele cementizie e additivi per scavo meccanizzato, ((nonche' fitofarmaci,)) purche' le terre e rocce contenenti tali materiali non presentino concentrazioni di inquinanti superiori ai limiti di cui alle colonne A e B, Tabella 1, Allegato 5, al Titolo V, della Parte IV, del decreto legislativo 3 aprile 2006, n. 152, per la specifica destinazione d'uso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «autorita' competente»: l'autorita' che autorizza la realizzazione dell'opera nel cui ambito sono generate le terre e rocce da scavo e, nel caso di opere soggette a procedimenti di valutazione di impatto ambientale o ad autorizzazione integrata ambientale, l'autorita' competente di cui all'articolo 5, comma 1, lettera o), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «caratterizzazione ambientale delle terre e rocce da scavo»: attivita' svolta per accertare la sussistenza dei requisiti di qualita' ambientale delle terre e rocce da scavo in conformita' a quanto stabilito dal presente regolamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «piano di utilizzo»: il documento nel quale il proponente attesta, ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, il rispetto delle condizioni e dei requisiti previsti dall'articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152, e dall'articolo 4 del presente regolamento, ai fini dell'utilizzo come sottoprodotti delle terre e rocce da scavo generate in cantieri di grandi dimensioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «dichiarazione di avvenuto utilizzo»: la dichiarazione con la quale il proponente o l'esecutore o il produttore attesta, ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, l'avvenuto utilizzo delle terre e rocce da scavo qualificate sottoprodotti in conformita' al piano di utilizzo o alla dichiarazione di cui all'articolo 21; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «ambito territoriale con fondo naturale»: porzione di territorio geograficamente individuabile in cui puo' essere dimostrato che un valore di concentrazione di una o piu' sostanze nel suolo, superiore alle concentrazioni soglia di contaminazione di cui alle colonne A e B, Tabella 1, Allegato 5, al Titolo V, della Parte IV del decreto legislativo 3 aprile 2006, n. 152, sia ascrivibile a fenomeni naturali legati alla specifica pedogenesi del territorio stesso, alle sue caratteristiche litologiche e alle condizioni chimico-fisiche presenti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «sito»: area o porzione di territorio geograficamente definita e perimetrata, intesa nelle sue matrici ambientali (suolo e acque sotterranee); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «sito di produzione»: il sito in cui sono generate le terre e rocce da scavo; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «sito di destinazione»: il sito, come indicato dal piano di utilizzo o nella dichiarazione di cui all'articolo 21, in cui le terre e rocce da scavo qualificate sottoprodotto sono utilizzate; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «sito di deposito intermedio»: il sito in cui le terre e rocce da scavo qualificate sottoprodotto sono temporaneamente depositate in attesa del loro utilizzo finale e che soddisfa i requisiti di cui all'articolo 5; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «normale pratica industriale»: costituiscono un trattamento di normale pratica industriale quelle operazioni, anche condotte non singolarmente, alle quali possono essere sottoposte le terre e rocce da scavo, finalizzate al miglioramento delle loro caratteristiche merceologiche per renderne l'utilizzo maggiormente produttivo e tecnicamente efficace. Fermo il rispetto dei requisiti previsti per i sottoprodotti e dei requisiti di qualita' ambientale, il trattamento di normale pratica industriale garantisce l'utilizzo delle terre e rocce da scavo conformemente ai criteri tecnici stabiliti dal progetto. L'allegato 3 elenca alcune delle operazioni piu' comunemente effettuate, che rientrano tra le operazioni di normale pratica industriale; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «proponente»: il soggetto che presenta il piano di utilizzo; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «esecutore»: il soggetto che attua il piano di utilizzo ai sensi dell'articolo 17; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «produttore»: il soggetto la cui attivita' materiale produce le terre e rocce da scavo e che predispone e trasmette la dichiarazione di cui all'articolo 21; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «ciclo produttivo di destinazione»: il processo produttivo nel quale le terre e rocce da scavo sono utilizzate come sottoprodotti in sostituzione del materiale di cava; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «cantiere di piccole dimensioni»: cantiere in cui sono prodotte terre e rocce da scavo in quantita' non superiori a seimila metri cubi, calcolati dalle sezioni di progetto, nel corso di attivita' e interventi autorizzati in base alle norme vigenti, comprese quelle prodotte nel corso di attivita' o opere soggette a valutazione d'impatto ambientale o ad autorizzazione integrata ambientale di cui alla Parte II del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «cantiere di grandi dimensioni»: cantiere in cui sono prodotte terre e rocce da scavo in quantita' superiori a seimila metri cubi, calcolati dalle sezioni di progetto, nel corso di attivita' o di opere soggette a procedure di valutazione di impatto ambientale o ad autorizzazione integrata ambientale di cui alla Parte II del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «cantiere di grandi dimensioni non sottoposto a VIA o AIA»: cantiere in cui sono prodotte terre e rocce da scavo in quantita' superiori a seimila metri cubi, calcolati dalle sezioni di progetto, nel corso di attivita' o di opere non soggette a procedure di valutazione di impatto ambientale o ad autorizzazione integrata ambientale di cui alla Parte II del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «sito oggetto di bonifica»: sito nel quale sono state attivate le procedure di cui al Titolo V, della Parte IV, del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «opera»: il risultato di un insieme di lavori che di per se' esplichi una funzione economica o tecnica. Le opere comprendono sia quelle che sono il risultato di un insieme di lavori edilizi o di genio civile, sia quelle di difesa e di presidio ambientale e di ingegneria naturalistica. 
+ 
+ (1)
 
 -------------
                             AGGIORNAMENTO (1)
@@ -67,6 +259,40 @@ Sono esclusi dall'ambito di applicazione del presente regolamento i rifiuti prov
 
 In attuazione dell'articolo 184-bis, comma 1, del decreto legislativo 3 aprile 2006, n. 152, il presente Capo stabilisce i requisiti generali da soddisfare affinche' le terre e rocce da scavo generate in cantieri di piccole dimensioni, in cantieri di grandi dimensioni e in cantieri di grandi dimensioni non sottoposti a VIA e AIA, siano qualificati come sottoprodotti e non come rifiuti, nonche' le disposizioni comuni ad esse applicabili. Il presente Capo definisce, altresi', le procedure per garantire che la gestione e l'utilizzo delle terre e rocce da scavo come sottoprodotti avvenga senza pericolo per la salute dell'uomo e senza recare pregiudizio all'ambiente.
 
+2.
+                        
+                            
+                                Ai fini del comma 1 e ai sensi dell'articolo 183, comma 1, lettera qq), del decreto legislativo 3 aprile 2006, n. 152, le terre e rocce da scavo per essere qualificate sottoprodotti devono soddisfare i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono generate durante la realizzazione di un'opera, di cui costituiscono parte integrante e il cui scopo primario non e' la produzione di tale materiale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il loro utilizzo e' conforme alle disposizioni del piano di utilizzo di cui all'articolo 9 o della dichiarazione di cui all'articolo 21, e si realizza: 
+ 1) nel corso dell'esecuzione della stessa opera nella quale e' stato generato o di un'opera diversa, per la realizzazione di reinterri, riempimenti, rimodellazioni, rilevati, miglioramenti fondiari o viari, recuperi ambientali oppure altre forme di ripristini e miglioramenti ambientali; 
+ 2) in processi produttivi, in sostituzione di materiali di cava; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono idonee ad essere utilizzate direttamente, ossia senza alcun ulteriore trattamento diverso dalla normale pratica industriale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    soddisfano i requisiti di qualita' ambientale espressamente previsti dal Capo II o dal Capo III o dal Capo IV del presente regolamento, per le modalita' di utilizzo specifico di cui alla lettera b).
+
 Nei casi in cui le terre e rocce da scavo contengano materiali di riporto, la componente di materiali di origine antropica frammisti ai materiali di origine naturale non puo' superare la quantita' massima del 20% in peso, da quantificarsi secondo la metodologia di cui all'allegato 10. Oltre al rispetto dei requisiti di qualita' ambientale di cui al comma 2, lettera d), le matrici materiali di riporto sono sottoposte al test di cessione, effettuato secondo le metodiche di cui al decreto del Ministro dell'ambiente del 5 febbraio 1998, recante «Individuazione dei rifiuti non pericolosi sottoposti alle procedure semplificate di recupero», pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 88 del 16 aprile 1998, per i parametri pertinenti, ad esclusione del parametro amianto, al fine di accertare il rispetto delle concentrazioni soglia di contaminazione delle acque sotterranee, di cui alla Tabella 2, Allegato 5, al Titolo 5, della Parte IV, del decreto legislativo 3 aprile 2006, n. 152, o, comunque, dei valori di fondo naturale stabiliti per il sito e approvati dagli enti di controllo.
 
 Fatto salvo quanto previsto dall'articolo 24, comma 2, sull'utilizzo nel sito di produzione delle terre e rocce da scavo contenenti amianto presente negli affioramenti geologici naturali, alle terre e rocce da scavo, ai fini del loro utilizzo quali sottoprodotti, si applica per il parametro amianto la Tabella 1, Allegato 5, al Titolo V, della Parte IV, del decreto legislativo n. 152 del 2006, secondo quanto previsto dall'allegato 4 al presente regolamento. Il parametro amianto e' escluso dall'applicazione del test di cessione.
@@ -81,6 +307,45 @@ La sussistenza delle condizioni di cui ai commi 2, 3 e 4 e' attestata tramite la
  Il D.L. 24 febbraio 2023, n. 13 ha disposto (con l'art. 48, comma 3) che, a partire dalla data di entrata in vigore del decreto di cui al comma 1 del medesimo D.L., sono abrogati l'articolo 8 del decreto-legge 12 settembre 2014, n. 133, convertito, con modificazioni, dalla legge 11 novembre 2014, n. 164, e il regolamento di cui al decreto del Presidente della Repubblica 13 giugno 2017, n. 120.
 
 ## Art. 5. — Deposito intermedio
+
+1.
+                        
+                            
+                                Il deposito intermedio delle terre e rocce da scavo puo' essere effettuato nel sito di produzione, nel sito di destinazione o in altro sito a condizione che siano rispettati i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il sito rientra nella medesima classe di destinazione d'uso urbanistica del sito di produzione, nel caso di sito di produzione i cui valori di soglia di contaminazione rientrano nei valori di cui alla colonna B, Tabella 1, Allegato 5, al Titolo V, della Parte IV, del decreto legislativo 3 aprile 2006, n. 152, oppure in tutte le classi di destinazioni urbanistiche, nel caso in cui il sito di produzione rientri nei valori di cui alla colonna A, Tabella 1, Allegato 5, al Titolo V, della Parte IV, del medesimo decreto legislativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ubicazione e la durata del deposito sono indicate nel piano di utilizzo o nella dichiarazione di cui all'articolo 21; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la durata del deposito non puo' superare il termine di validita' del piano di utilizzo o della dichiarazione di cui all'articolo 21; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il deposito delle terre e rocce da scavo e' fisicamente separato e gestito in modo autonomo anche rispetto ad altri depositi di terre e rocce da scavo oggetto di differenti piani di utilizzo o dichiarazioni di cui all'articolo 21, e a eventuali rifiuti presenti nel sito in deposito temporaneo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il deposito delle terre e rocce da scavo e' conforme alle previsioni del piano di utilizzo o della dichiarazione di cui all'articolo 21 e si identifica tramite segnaletica posizionata in modo visibile, nella quale sono riportate le informazioni relative al sito di produzione, alle quantita' del materiale depositato, nonche' i dati amministrativi del piano di utilizzo o della dichiarazione di cui all'articolo 21.
 
 Il proponente o il produttore puo' individuare nel piano di utilizzo o nella dichiarazione di cui all'articolo 21, uno o piu' di siti di deposito intermedio idonei. In caso di variazione del sito di deposito intermedio indicato nel piano di utilizzo o nella dichiarazione di cui all'articolo 21, il proponente o il produttore aggiorna il piano o la dichiarazione in conformita' alle procedure previste dal presente regolamento.
 
@@ -240,6 +505,39 @@ Il piano di utilizzo e' conservato presso il sito di produzione delle terre e ro
 
 In caso di modifica sostanziale dei requisiti di cui all'articolo 4, indicati nel piano di utilizzo, il proponente o l'esecutore aggiorna il piano di utilizzo e lo trasmette in via telematica ai soggetti di cui all'articolo 9, comma 1, corredato da idonea documentazione, anche di natura tecnica, recante le motivazioni a sostegno delle modifiche apportate. L'autorita' competente verifica d'ufficio la completezza e la correttezza amministrativa della documentazione presentata e, entro trenta giorni dalla presentazione del piano di utilizzo aggiornato, puo' chiedere, in un'unica soluzione, integrazioni della documentazione. Decorso tale termine la documentazione si intende comunque completa.
 
+2.
+                        
+                            
+                                Costituisce modifica sostanziale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'aumento del volume in banco in misura superiore al 20% delle terre e rocce da scavo oggetto del piano di utilizzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la destinazione delle terre e rocce da scavo ad un sito di destinazione o ad un utilizzo diversi da quelli indicati nel piano di utilizzo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la destinazione delle terre e rocce da scavo ad un sito di deposito intermedio diverso da quello indicato nel piano di utilizzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la modifica delle tecnologie di scavo. 
+ Gli effetti delle modifiche sostanziali del piano di utilizzo sulla procedura di VIA sono definiti dalle disposizioni del Titolo III, della Parte II, del decreto legislativo 3 aprile 2006, n. 152.
+
 Nel caso previsto dal comma 2, lettera a), il piano di utilizzo e' aggiornato entro 15 giorni dal momento in cui e' intervenuta la variazione. Decorso tale termine cessa, con effetto immediato, la qualifica come sottoprodotto della quota parte delle terre e rocce da scavo eccedenti le previsioni del piano di utilizzo. Decorsi sessanta giorni dalla trasmissione del piano di utilizzo aggiornato, senza che sia intervenuta richiesta di integrazione documentale da parte dell'autorita' competente, le terre e rocce da scavo eccedenti il volume del piano originario sono gestite in conformita' al piano di utilizzo aggiornato.
 
 Nei casi previsti dal comma 2, lettere b) e c), decorsi 60 giorni dalla trasmissione del piano di utilizzo aggiornato, senza che sia intervenuta richiesta di integrazione documentale da parte dell'autorita' competente, le terre e rocce da scavo possono essere utilizzate e gestite in modo conforme al piano di utilizzo aggiornato.
@@ -367,6 +665,40 @@ Le terre e rocce da scavo generate in cantieri di grandi dimensioni non sottopos
 
 ## Art. 23. — Disciplina del deposito temporaneo delle terre e rocce da scavo qualificate rifiuti
 
+1.
+                        
+                            
+                                Per le terre e rocce da scavo qualificate con i codici dell'elenco europeo dei rifiuti 17.05.04 o 17.05.03* il deposito temporaneo di cui all'articolo 183, comma 1, lettera bb), del decreto legislativo 3 aprile 2006, n. 152, si effettua, attraverso il raggruppamento e il deposito preliminare alla raccolta realizzati presso il sito di produzione, nel rispetto delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le terre e rocce da scavo qualificate come rifiuti contenenti inquinanti organici persistenti di cui al regolamento (CE) 850/2004 sono depositate nel rispetto delle norme tecniche che regolano lo stoccaggio dei rifiuti contenenti sostanze pericolose e sono gestite conformemente al predetto regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le terre e rocce da scavo sono raccolte e avviate a operazioni di recupero o di smaltimento secondo una delle seguenti modalita' alternative: 1) con cadenza almeno trimestrale, indipendentemente dalle quantita' in deposito; 2) quando il quantitativo in deposito raggiunga complessivamente i 4000 metri cubi, di cui non oltre 800 metri cubi di rifiuti classificati come pericolosi. In ogni caso il deposito temporaneo non puo' avere durata superiore ad un anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il deposito e' effettuato nel rispetto delle relative norme tecniche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di rifiuti pericolosi, il deposito e' realizzato nel rispetto delle norme che disciplinano il deposito delle sostanze pericolose in essi contenute e in maniera tale da evitare la contaminazione delle matrici ambientali, garantendo in particolare un idoneo isolamento dal suolo, nonche' la protezione dall'azione del vento e dalle acque meteoriche, anche con il convogliamento delle acque stesse. 
+ 
+ ((1))
+
 -------------
                             AGGIORNAMENTO (1)
                             
@@ -379,6 +711,70 @@ Le terre e rocce da scavo generate in cantieri di grandi dimensioni non sottopos
 Ai fini dell'esclusione dall'ambito di applicazione della normativa sui rifiuti, le terre e rocce da scavo devono essere conformi ai requisiti di cui all'articolo 185, comma 1, lettera c), del decreto legislativo 3 aprile 2006, n. 152, e in particolare devono essere utilizzate nel sito di produzione. Fermo restando quanto previsto dall'articolo 3, comma 2, del decreto-legge 25 gennaio 2012, n. 2, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 28, la non contaminazione e' verificata ai sensi dell'allegato 4 del presente regolamento.
 
 Ferma restando l'applicazione dell'articolo 11, comma 1, ai fini del presente articolo, le terre e rocce da scavo provenienti da affioramenti geologici naturali contenenti amianto in misura superiore al valore determinato ai sensi dell'articolo 4, comma 4, possono essere riutilizzate esclusivamente nel sito di produzione sotto diretto controllo delle autorita' competenti. A tal fine il produttore ne da' immediata comunicazione all'Agenzia di protezione ambientale e all'Azienda sanitaria territorialmente competenti, presentando apposito progetto di riutilizzo. Gli organismi di controllo sopra individuati effettuano le necessarie verifiche e assicurano il rispetto delle condizioni di cui al primo periodo.
+
+3.
+                        
+                            
+                                Nel caso in cui la produzione di terre e rocce da scavo avvenga nell'ambito della realizzazione di opere o attivita' sottoposte a valutazione di impatto ambientale, la sussistenza delle condizioni e dei requisiti di cui all'articolo 185, comma 1, lettera c), del decreto legislativo 3 aprile 2006, n. 152, e' effettuata in via preliminare, in funzione del livello di progettazione e in fase di stesura dello studio di impatto ambientale (SIA), attraverso la presentazione di un «Piano preliminare di utilizzo in sito delle terre e rocce da scavo escluse dalla disciplina dei rifiuti» che contenga: 
+ 
+                            
+                            
+                                a)
+                                
+                                    descrizione dettagliata delle opere da realizzare, comprese le modalita' di scavo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inquadramento ambientale del sito (geografico, geomorfologico, geologico, idrogeologico, destinazione d'uso delle aree attraversate, ricognizione dei siti a rischio potenziale di inquinamento); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proposta del piano di caratterizzazione delle terre e rocce da scavo da eseguire nella fase di progettazione esecutiva o comunque prima dell'inizio dei lavori, che contenga almeno: 
+ 1. numero e caratteristiche dei punti di indagine; 
+ 2. numero e modalita' dei campionamenti da effettuare; 
+ 3. parametri da determinare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    volumetrie previste delle terre e rocce da scavo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    modalita' e volumetrie previste delle terre e rocce da scavo da riutilizzare in sito.
+
+4.
+                        
+                            
+                                In fase di progettazione esecutiva o comunque prima dell'inizio dei lavori, in conformita' alle previsioni del «Piano preliminare di utilizzo in sito delle terre e rocce da scavo escluse dalla disciplina dei rifiuti» di cui al comma 2, il proponente o l'esecutore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettua il campionamento dei terreni, nell'area interessata dai lavori, per la loro caratterizzazione al fine di accertarne la non contaminazione ai fini dell'utilizzo allo stato naturale, in conformita' con quanto pianificato in fase di autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    redige, accertata l'idoneita' delle terre e rocce scavo all'utilizzo ai sensi e per gli effetti dell'articolo 185, comma 1, lettera c), del decreto legislativo 3 aprile 2006, n. 152, un apposito progetto in cui sono definite: 
+ 1. le volumetrie definitive di scavo delle terre e rocce; 
+ 2. la quantita' delle terre e rocce da riutilizzare; 
+ 3. la collocazione e durata dei depositi delle terre e rocce da scavo; 
+ 4. la collocazione definitiva delle terre e rocce da scavo.
 
 Gli esiti delle attivita' eseguite ai sensi del comma 3 sono trasmessi all'autorita' competente e all'Agenzia di protezione ambientale territorialmente competente, prima dell'avvio dei lavori.
 
@@ -397,6 +793,26 @@ Qualora in fase di progettazione esecutiva o comunque prima dell'inizio dei lavo
 
 Attivita' di scavo
 
+1.
+                        
+                            
+                                Fatto salvo quanto disposto dall'articolo 34, comma 7, del decreto-legge 12 settembre 2014, n. 133, convertito con modificazioni, dalla legge 11 novembre 2014, n. 164, per le attivita' di scavo da realizzare nei siti oggetto di bonifica gia' caratterizzati ai sensi dell'articolo 242 del decreto legislativo 3 aprile 2006, n. 152, si applicano le seguenti procedure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella realizzazione degli scavi e' analizzato un numero significativo di campioni di suolo insaturo prelevati da stazioni di misura rappresentative dell'estensione dell'opera e del quadro ambientale conoscitivo. Il piano di dettaglio, comprensivo della lista degli analiti da ricercare e' concordato con l'Agenzia di protezione ambientale territorialmente competente che si pronuncia entro e non oltre il termine di trenta giorni dalla richiesta del proponente, eventualmente stabilendo particolari prescrizioni in relazione alla specificita' del sito e dell'intervento. Il proponente, trenta giorni prima dell'avvio dei lavori, trasmette agli Enti interessati il piano operativo degli interventi previsti e un dettagliato cronoprogramma con l'indicazione della data di inizio dei lavori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le attivita' di scavo sono effettuate senza creare pregiudizio agli interventi e alle opere di prevenzione, messa in sicurezza, bonifica e ripristino necessarie ai sensi del Titolo V, della Parte IV, e della Parte VI del decreto legislativo 3 aprile 2006, n. 152, e nel rispetto della normativa vigente in tema di salute e sicurezza dei lavoratori. Sono, altresi', adottate le precauzioni necessarie a non aumentare i livelli di inquinamento delle matrici ambientali interessate e, in particolare, delle acque sotterranee soprattutto in presenza di falde idriche superficiali. Le eventuali fonti attive di contaminazione, quali rifiuti o prodotto libero, rilevate nel corso delle attivita' di scavo, sono rimosse e gestite nel rispetto delle norme in materia di gestione dei rifiuti. 
+ 
+ ((1))
+
 -------------
                             AGGIORNAMENTO (1)
                             
@@ -405,6 +821,26 @@ Attivita' di scavo
 ## Art. 26. — Utilizzo nel sito
 
 L'utilizzo delle terre e rocce prodotte dalle attivita' di scavo di cui all'articolo 25 all'interno di un sito oggetto di bonifica e' sempre consentito a condizione che sia garantita la conformita' alle concentrazioni soglia di contaminazione per la specifica destinazione d'uso o ai valori di fondo naturale. Nel caso in cui l'utilizzo delle terre e rocce da scavo sia inserito all'interno di un progetto di bonifica approvato, si applica quanto previsto dall'articolo 242, comma 7, del decreto legislativo 3 aprile 2006, n. 152.
+
+2.
+                        
+                            
+                                Le terre e rocce da scavo non conformi alle concentrazioni soglia di contaminazione o ai valori di fondo, ma inferiori alle concentrazioni soglia di rischio, possono essere utilizzate nello stesso sito alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le concentrazioni soglia di rischio, all'esito dell'analisi di rischio, sono preventivamente approvate dall'autorita' ordinariamente competente, nell'ambito del procedimento di cui agli articoli 242 o 252 del decreto legislativo 3 aprile 2006, n. 152, mediante convocazione di apposita conferenza di servizi. Le terre e rocce da scavo conformi alle concentrazioni soglia di rischio sono riutilizzate nella medesima area assoggettata all'analisi di rischio e nel rispetto del modello concettuale preso come riferimento per l'elaborazione dell'analisi di rischio. Non e' consentito l'impiego di terre e rocce da scavo conformi alle concentrazioni soglia di rischio in sub-aree nelle quali e' stato accertato il rispetto delle concentrazioni soglia di contaminazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora ai fini del calcolo delle concentrazioni soglia di rischio non sia stato preso in considerazione il percorso di lisciviazione in falda, l'utilizzo delle terre e rocce da scavo e' consentito solo nel rispetto delle condizioni e delle limitazioni d'uso indicate all'atto dell'approvazione dell'analisi di rischio da parte dell'autorita' competente. 
+ 
+ ((1))
 
 -------------
                             AGGIORNAMENTO (1)
@@ -476,6 +912,26 @@ Le amministrazioni interessate provvedono all'attuazione delle disposizioni del 
 ## Art. 31. — Abrogazioni
 
 Dalla data di entrata in vigore del presente decreto e' abrogato il decreto del Ministro dell'ambiente e della tutela e del territorio e del mare 10 agosto 2012, n. 161.
+
+2.
+                        
+                            
+                                Sono altresi' abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 184-bis, comma 2-bis, del decreto legislativo 3 aprile 2006, n. 152; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 41, comma 2 e 41-bis del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98. 
+ 
+ ((1))
 
 -------------
                             AGGIORNAMENTO (1)

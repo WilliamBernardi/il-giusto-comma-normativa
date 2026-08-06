@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2015-07-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,6 +39,130 @@ I requisiti professionali e i criteri di accreditamento per assicurare la qualif
 
 ## Art. 2. — Riconoscimento e disciplina dei requisiti dei soggetti abilitati alla certificazione energetica degli edifici
 
+1.
+                    
+                        
+                            Ai sensi dell'articolo 4, comma 1, lettera c), del decreto legislativo, sono abilitati ai fini dell'attivita' di certificazione energetica, e quindi riconosciuti come soggetti certificatori: 
+ 
+                        
+                        
+                            a)
+                            
+                                i tecnici abilitati, la cui disciplina dei requisiti e' riportata al comma 2, lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli Enti pubblici e gli organismi di diritto pubblico operanti nel settore dell'energia e dell'edilizia, che esplicano l'attivita' con un tecnico, o con un gruppo di tecnici abilitati, in organico e la cui disciplina dei requisiti e' riportata al comma 2, lettera b); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli organismi pubblici e privati qualificati a effettuare attivita' di ispezione nel settore delle costruzioni edili, opere di ingegneria civile in generale e impiantistica connessa, accreditati presso l'organismo nazionale italiano di accreditamento di cui all'articolo 4, comma 2, della legge 23 luglio 2009, n. 99, o altro soggetto equivalente in ambito europeo, sulla base delle norme UNI CEI EN ISO/IEC 17020, criteri generali per il funzionamento dei vari tipi di organismi che effettuano attivita' di ispezione, sempre che svolgano l'attivita' con un tecnico, o con un gruppo di tecnici abilitati, in organico e la cui disciplina dei requisiti e' riportata al comma 2, lettera b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le societa' di servizi energetici (ESCO) di cui al comma 2, lettera a), che operano conformemente alle disposizioni di recepimento e attuazione della direttiva 2006/32/CE del Parlamento europeo e del Consiglio, del 5 aprile 2006, concernente l'efficienza degli usi finali dell'energia e i servizi energetici sempre che svolgano l'attivita' con un tecnico, o con un gruppo di tecnici abilitati, in organico e la cui disciplina dei requisiti e' riportata al comma 2, lettera b).
+
+2.
+                    
+                        
+                            Ai fini del presente decreto sono disciplinati i seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                societa' di servizi energetici (ESCO), persona fisica o giuridica che fornisce servizi energetici ovvero altre misure di miglioramento dell'efficienza energetica nelle installazioni o nei locali dell'utente e, cio' facendo, accetta un margine di rischio finanziario. Il pagamento dei servizi forniti si basa, totalmente o parzialmente, sui risparmi di spesa derivanti dal miglioramento dell'efficienza energetica conseguito e sul raggiungimento degli altri criteri di rendimento stabiliti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tecnico abilitato, un tecnico operante sia in veste di dipendente di enti e organismi pubblici o di societa' di servizi pubbliche o private, comprese le societa' di ingegneria, che di professionista libero od associato. I tecnici abilitati devono rispondere almeno a uno dei requisiti di cui ai commi 3 e 4 del presente articolo.
+
+3.
+                    
+                        
+                            Il tecnico abilitato di cui alla lettera b) del comma 2, deve essere in possesso di uno dei titoli di cui alle lettere da 
+                        
+                        
+                            a)
+                            
+                                ad e) del presente comma, iscritto ai relativi ordini e collegi professionali, ove esistenti, e abilitato all'esercizio della professione relativa alla progettazione di edifici e impianti asserviti agli edifici stessi, nell'ambito delle specifiche competenze a esso attribuite dalla legislazione vigente. Il tecnico abilitato opera quindi all'interno delle proprie competenze. Ove il tecnico non sia competente in tutti i campi sopra citati o nel caso che alcuni di essi esulino dal proprio ambito di competenza, egli deve operare in collaborazione con altro tecnico abilitato in modo che il gruppo costituito copra tutti gli ambiti professionali su cui e' richiesta la competenza. I titoli richiesti sono: 
+ a) laurea magistrale conseguita in una delle seguenti classi:
+LM-4, da LM-20 a LM-35, LM-48, LM-53, LM-69, LM-71, LM-73, di cui al decreto del Ministro dell'universita' e della ricerca in data 16 marzo 2007, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 157 del 9 luglio 2007, ovvero laurea specialistica conseguita nelle seguenti classi: 4/S, da 25/S a 38/S, 54/S, 61/S, 74/S, 77/S, 81/S, di cui al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica in data 28 novembre 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 18 del 23 gennaio 2001, ovvero corrispondente diploma di laurea ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca in data 5 maggio 2004, pubblicato nella Gazzetta Ufficiale n. 196 del 21 agosto 2004; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                laurea conseguita nelle seguenti classi: L7, L9, L17, L23, L25, di cui al decreto ministeriale in data 16 marzo 2007, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 155 del 6 luglio 2007, ovvero laurea conseguita nelle classi: 4, 8, 10, 20, di cui al decreto ministeriale in data 4 agosto 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 245 del 19 ottobre 2000; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                diploma di istruzione tecnica, settore tecnologico, in uno dei seguenti indirizzi e articolazioni: indirizzo C1 'meccanica, meccatronica ed energia' articolazione 'energia', indirizzo C3 'elettronica ed elettrotecnica' articolazione 'elettrotecnica', di cui al decreto del Presidente della Repubblica 15 marzo 2010, n. 88, ovvero, diploma di perito industriale in uno dei seguenti indirizzi specializzati: edilizia, elettrotecnica, meccanica, termotecnica, aeronautica, energia nucleare, metallurgia, navalmeccanica, metalmeccanica, di cui al decreto del Presidente della Repubblica 30 settembre 1961, n. 1222, e successive modificazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                diploma di istruzione tecnica, settore tecnologico indirizzo C9 'costruzioni, ambiente e territorio', di cui al decreto del Presidente della Repubblica 15 marzo 2010, n. 88, ovvero diploma di geometra; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                diploma di istruzione tecnica, settore tecnologico indirizzo C8 'agraria, agroalimentare e agroindustria' articolazione 'gestione dell'ambiente e del territorio', di cui al decreto del Presidente della Repubblica 15 marzo 2010, n. 88, ovvero diploma di perito agrario o agrotecnico.
+
+4.
+                    
+                        
+                            Il tecnico abilitato di cui alla lettera b) del comma 2, deve essere in possesso di uno dei titoli di cui alle lettere da 
+                        
+                        
+                            a)
+                            
+                                a d) del presente comma, e di un attestato di frequenza, con superamento dell'esame finale, relativo a specifici corsi di formazione per la certificazione energetica degli edifici, di cui al comma 5. Il soggetto in possesso di detti requisiti e' tecnico abilitato esclusivamente in materia di certificazione energetica degli edifici.
+I titoli richiesti sono: 
+ a) titoli di cui al comma 3, ove non corredati della abilitazione professionale in tutti i campi concernenti la progettazione di edifici e impianti asserviti agli edifici stessi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                laurea magistrale conseguita in una delle seguenti classi:
+LM-17, LM-40, LM-44, LM-54, LM-60, LM-74, LM-75, LM-79, di cui al decreto del Ministro dell'universita' e della ricerca in data 16 marzo 2007, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 157 del 9 luglio 2007, ovvero laurea specialistica conseguita nelle seguenti classi: 20/S, 45/S, 50/S, 62/S, 68/S, 82/S, 85/S, 86/S, di cui al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica in data 28 novembre 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 18 del 23 gennaio 2001, ovvero corrispondente diploma di laurea ai sensi del Ministro dell'universita' e della ricerca in data 5 maggio 2004, pubblicato nella Gazzetta Ufficiale n. 196 del 21 agosto 2004; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                laurea conseguita nelle seguenti classi: L8, L30, L21, L27, L32, L34, L35, di cui al decreto ministeriale in data 16 marzo 2007, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 155 del 6 luglio 2007, ovvero laurea conseguita nelle classi: 7, 9, 16, 21, 25, 27, 32, di cui al decreto ministeriale in data 4 agosto 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 245 del 19 ottobre 2000; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                diploma di istruzione tecnica, settore tecnologico, di cui al decreto del Presidente della Repubblica 15 marzo 2010, n. 88, con indirizzi e articolazioni diversi da quelli indicati al comma 3, lettere c), d) ed e), ovvero diploma di perito industriale di cui al decreto del Presidente della Repubblica 30 settembre 1961, n. 1222, e successive modificazioni, con indirizzi specializzati diversi da quelli indicati al comma 3, lettera c).
+
 I corsi di formazione per la certificazione energetica degli edifici e i relativi esami sono svolti, a livello nazionale, da universita', da organismi ed enti di ricerca, e da consigli, ordini e collegi professionali, ((istituti tecnici superiori dell'area efficienza energetica,)) autorizzati dal Ministero dello sviluppo economico di intesa con il Ministero delle infrastrutture e dei trasporti ed il Ministero dell'ambiente e della tutela del territorio e del mare; a livello regionale, i medesimi corsi sono svolti direttamente da regioni e province autonome, e da altri soggetti di ambito regionale con competenza in materia di certificazione energetica autorizzati dalle predette regioni e province autonome.
 Per le finalita' di cui all'articolo 1, comma 1, i corsi sono svolti in base ai contenuti minimi definiti nell'Allegato 1. L'attestato di frequenza con superamento di esame finale e' rilasciato dai soggetti erogatori dei corsi e degli esami.
 
@@ -48,11 +172,75 @@ Ai fini del presente decreto, si applicano le definizioni di cui all'articolo 2,
 
 Requisiti di indipendenza e imparzialita' dei soggetti abilitati alla certificazione energetica degli edifici
 
+1.
+                    
+                        
+                            Ai fini di assicurare indipendenza e imparzialita' di giudizio dei soggetti di cui al comma 1 dell'articolo 2, i tecnici abilitati, all'atto di sottoscrizione dell'attestato di certificazione energetica, dichiarano: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di certificazione di edifici di nuova costruzione, l'assenza di conflitto di interessi, tra l'altro espressa attraverso il non coinvolgimento diretto o indiretto nel processo di progettazione e realizzazione dell'edificio da certificare o con i produttori dei materiali e dei componenti in esso incorporati nonche' rispetto ai vantaggi che possano derivarne al richiedente, che in ogni caso non deve essere ne' il coniuge ne' un parente fino al quarto grado; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di certificazione di edifici esistenti, l'assenza di conflitto di interessi, ovvero di non coinvolgimento diretto o indiretto con i produttori dei materiali e dei componenti in esso incorporati nonche' rispetto ai vantaggi che possano derivarne al richiedente, che in ogni caso non deve essere ne' coniuge ne' parente fino al quarto grado.
+
 ((1-bis. Qualora il tecnico abilitato sia dipendente e operi per conto di enti pubblici ovvero di organismi di diritto pubblico operanti nel settore dell'energia e dell'edilizia, il requisito di indipendenza di cui al comma 1 si intende superato dalle finalita' istituzionali di perseguimento di obiettivi di interesse pubblico proprie di tali enti e organismi))
 
 ## Art. 4. — Funzioni delle Regioni e Province autonome
 
 Ai sensi dell'articolo 17 del decreto legislativo, fermo restando quanto disposto dal comma 3, le disposizioni del presente decreto si applicano per le regioni e province autonome che non abbiano ancora provveduto ad adottare propri provvedimenti in applicazione della direttiva 2002/91/CE e comunque sino alla data di entrata in vigore dei predetti provvedimenti regionali.
+
+2.
+                    
+                        
+                            Ai sensi dell'articolo 9, comma 1, del decreto legislativo, per promuovere la tutela degli interessi degli utenti attraverso una applicazione omogenea della predetta norma sull'intero territorio nazionale, nel disciplinare la materia le regioni e le province autonome nel rispetto dei vincoli derivanti dall'ordinamento comunitario nonche' dei principi fondamentali della direttiva 2002/91/CE e desumibili dal decreto legislativo, possono: 
+ 
+                        
+                        
+                            a)
+                            
+                                adottare un sistema di riconoscimento dei soggetti abilitati di cui all'articolo 2 a svolgere le attivita' di certificazione energetica degli edifici, nel rispetto delle norme comunitarie in materia di libera circolazione dei servizi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuovere iniziative di informazione e orientamento dei soggetti certificatori e degli utenti finali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere attivita' di formazione e aggiornamento dei soggetti certificatori; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                monitorare l'impatto del sistema di certificazione degli edifici in termini di adempimenti burocratici, oneri e benefici per i cittadini; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                predisporre, nell'ambito delle funzioni delle regioni e degli enti locali di cui all'articolo 9 del decreto legislativo, un sistema di accertamento della correttezza e qualita' dei servizi di certificazione di cui all'articolo 5, direttamente o attraverso enti pubblici ovvero organismi pubblici o privati di cui sia garantita la qualificazione e indipendenza, e assicurare che la copertura dei costi avvenga con una equa ripartizione tra tutti gli utenti interessati al servizio; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                promuovere la conclusione di accordi volontari ovvero di altri strumenti al fine di assicurare agli utenti prezzi equi di accesso a qualificati servizi di certificazione energetica degli edifici.
 
 Ai fini del comma 2, le regioni e le province autonome che alla data di entrata in vigore del presente decreto abbiano gia' provveduto al recepimento della direttiva 2002/91/CE del Parlamento europeo e del Consiglio, del 16 dicembre 2002, adottano misure atte a favorire un graduale ravvicinamento dei propri provvedimenti anche nell'ambito delle azioni di coordinamento tra lo Stato le regioni e le province autonome, di cui al decreto ai sensi dell'articolo 6, comma 9, del decreto legislativo. Le regioni e le province autonome provvedono affinche' sia assicurata la coerenza dei loro provvedimenti con i contenuti del presente decreto.
 
@@ -62,6 +250,31 @@ Criteri di controllo della qualita'
  del servizio di certificazione energetica
 
 Le regioni e le province autonome di Trento e di Bolzano procedono ai controlli della qualita' del servizio di certificazione energetica reso dai Soggetti certificatori attraverso l'attuazione di una procedura di controllo congruente con gli obiettivi del decreto legislativo e le finalita' della certificazione energetica, coerentemente agli indirizzi di cui all'articolo 4, comma 2, lettera e). Ove non diversamente disposto da norme regionali i predetti controlli sono svolti dalle stesse autorita' competenti a cui sono demandati gli accertamenti e le ispezioni necessari all'osservanza delle norme relative al contenimento dei consumi di energia nell'esercizio e manutenzione degli impianti di climatizzazione, ai sensi dell'articolo 9, comma 2, del decreto legislativo.
+
+2.
+                    
+                        
+                            Ai fini del comma 1, i controlli sono prioritariamente orientati alle classi energetiche piu' efficienti e comprendono tipicamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'accertamento documentale degli attestati di certificazione includendo in esso anche la verifica del rispetto delle procedure; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le valutazioni di congruita' e coerenza dei dati di progetto o di diagnosi con la metodologia di calcolo e i risultati espressi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le ispezioni delle opere o dell'edificio.
 
 ## Art. 6. — Disposizioni finali
 

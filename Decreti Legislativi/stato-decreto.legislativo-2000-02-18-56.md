@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,41 @@ Acquisito il parere delle competenti Commissioni parlamentari permanenti;
 Sulla proposta del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri delle finanze, della sanita' e per gli affari regionali;
 
 ## Art. 1. — Soppressione trasferimenti erariali
+
+1.
+                    
+                        
+                            A decorrere dall'anno 2001 cessano i trasferimenti erariali in favore delle regioni a statuto ordinario previsti dalle seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                articolo 1, comma 2, ultimo periodo, della legge 7 gennaio 1999, n. 2, relativo alla compensazione della perdita di entrata realizzata in conseguenza della soppressione dell'addizionale regionale dell'imposta erariale di trascrizione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    articolo 34, comma 4, del decreto legislativo 30 aprile 1992, n. 285, e articolo 72, comma 3, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, concernenti gli indennizzi di usura derivanti dall'uso dei mezzi d'opera;
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    articolo 8, comma 10, lettera b), della legge 23 dicembre 1998, n. 448, e articolo 2, comma 2, del decreto del Presidente della Repubblica 22 febbraio 1999, n. 54, concernenti la compensazione del minor gettito derivante dalla riduzione della sovrattassa di cui all'articolo 8 del decreto-legge 8 ottobre 1976, n. 691, convertito, con modificazioni, dalla legge 30 novembre 1976, n. 786;
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    articolo 12, comma 1, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni e integrazioni, relativo al finanziamento della spesa sanitaria corrente e in conto capitale.
 
 La spesa sanitaria corrente di cui alla lettera d) del comma 1 e' computata al netto delle somme vincolate da accordi internazionali vigenti all'entrata in vigore del presente decreto, di quelle spettanti agli Istituti di ricovero e cura a carattere scientifico per le prestazioni e funzioni assistenziali rese nell'anno 2000 strettamente connesse all'attivita' di ricerca corrente e finalizzata di cui al programma di ricerca sanitaria previsto dall'articolo 12-bis, comma 3, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni e integrazioni, di quelle destinate al finanziamento degli Istituti zooprofilattici sperimentali nell'anno 2000, di quelle destinate dal Comitato interministeriale per la programmazione economica (CIPE) al finanziamento della Croce Rossa Italiana nel 2000, di quelle destinate nel 2000 al finanziamento dei progetti di cui all'articolo 1, comma 34-bis, della legge 23 dicembre 1996, n. 662, e successive modificazioni ed integrazioni, nonche' di quelle previste dalle seguenti norme:
  legge 5 giugno 1990, n. 135;
@@ -56,6 +91,35 @@ E' istituita una compartecipazione delle regioni a statuto ordinario all'IVA.
 A decorrere dall'anno 2001, la compartecipazione regionale all'IVA per ciascun anno e' fissata nella misura del 25,7 per cento del gettito IVA complessivo realizzato nel penultimo anno precedente a quello in considerazione, al netto di quanto devoluto alle regioni a statuto speciale e delle risorse UE. (3) (10) (11) (12) (14) (15) (17) (18) (19) (20) (21) (22) (23) (24) (25) (26) (27) (28) (29) ((30))
 
 L'importo della compartecipazione regionale all'IVA di cui al comma 2 e' attribuito alle regioni utilizzando come indicatore di base imponibile la media dei consumi finali delle famiglie rilevati dall'ISTAT a livello regionale negli ultimi tre anni disponibili.
+
+4.
+                    
+                        
+                            Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro del tesoro, del bilancio e della programmazione economica, sentito il Ministero della sanita', d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano sono stabilite annualmente entro il 30 settembre di ciascun anno per il triennio successivo, per ciascuna regione sulla base dei criteri previsti dall'articolo 7: 
+
+                        
+                        
+                            a)
+                            
+                                la quota di compartecipazione all'IVA di cui al comma 3; 
+                            
+                        
+                        
+                            b)
+                            
+                                la quota di concorso alla solidarieta' interregionale; 
+                            
+                        
+                        
+                            c)
+                            
+                                la quota da assegnare a titolo di fondo perequativo nazionale; 
+                            
+                        
+                        
+                            d)
+                            
+                                le somme da erogare a ciascuna regione da parte del Ministero del tesoro, del bilancio e della programmazione economica.
 
 -------------
                         AGGIORNAMENTO (3)
@@ -198,6 +262,29 @@ Gli eventuali risparmi di spesa sanitaria rimangono attribuiti alla regione che 
 ## Art. 9. — Procedure di monitoraggio dell'assistenza sanitaria
 
 Al fine di consentire la tempestiva attivazione di procedure di monitoraggio dell'assistenza sanitaria effettivamente erogata in ogni regione, nonche' di permettere la verifica del rispetto delle garanzie di cui all'articolo 1, comma 2, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, e delle compatibilita' finanziarie di cui all'articolo 1, comma 3, del citato decreto legislativo n. 502 del 1992, il Ministro della sanita', di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, definisce con uno o piu' decreti, entro centottanta giorni dalla data di entrata in vigore del presente decreto, un sistema di garanzia del raggiungimento in ciascuna regione degli obiettivi di tutela della salute perseguiti dal Servizio sanitario nazionale.
+
+2.
+                    
+                        
+                            Il sistema di garanzia di cui al comma 1 comprende: 
+
+                        
+                        
+                            a)
+                            
+                                un insieme minimo di indicatori e parametri di riferimento, relativi a elementi rilevanti ai fini del monitoraggio del rispetto, in ciascuna regione, dei livelli essenziali ed uniformi di assistenza, nonche' dei vincoli di bilancio delle regioni a statuto ordinario, anche tenuto conto di quanto previsto dall'articolo 28, comma 10, della legge 23 dicembre 1998, n. 448; 
+                            
+                        
+                        
+                            b)
+                            
+                                le regole e le convenzioni per la rilevazione, la validazione e l'elaborazione delle informazioni e dei dati statistici necessari per l'applicazione del sistema di cui alla lettera a); 
+                            
+                        
+                        
+                            c)
+                            
+                                le procedure per la pubblicizzazione periodica dei risultati dell'attivita' di monitoraggio e per l'individuazione delle regioni che non rispettano o non convergono verso i parametri di cui alla lettera a), anche prevedendo limiti di accettabilita' entro intervalli di oscillazione dei valori di riferimento.
 
 Il Governo, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, adotta le raccomandazioni al fine di correggere le anomalie riscontrate attraverso il sistema di monitoraggio di cui al presente articolo e per la individuazione di forme di sostegno alle regioni, anche attraverso la sottoscrizione di convenzioni ai sensi dell'articolo 19-ter, comma 3, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni.
 

@@ -8,8 +8,8 @@ codice_redazionale: 098G0077
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,31 @@ Sentiti la commissione consultiva centrale della pesca marittima ed il Comitato 
 Udito il parere del Consiglio di Stato n. 128/1997 espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 6 ottobre 1997;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione delle norme previste dai regolamenti (CEE) del Consiglio n. 2080/93 del 20 luglio 1993 e n. 3699/93 del 21 dicembre 1993 ai proprietari di navi adibite alla pesca marittima e' concesso il premio per l'arresto definitivo dall'attivita' di pesca conseguente a: 
+ 
+                        
+                        
+                            a)
+                            
+                                demolizione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                destinazione definitiva ad attivita' diversa dalla pesca; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                trasferimento definitivo (dismissione di bandiera) in un Paese non appartenente all'Unione europea, purche' tale trasferimento non sia in contrasto con il diritto internazionale e non arrechi pregiudizio alla gestione delle risorse ittiche.
 
 Il trasferimento di cui al comma 1, lettera c), non e' consentito nei Paesi non comunitari del Mediterraneo, le cui navi insistono sulle stesse risorse ittiche oggetto di attivita' di pesca da parte della flotta italiana.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2019-06-28;94
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,31 @@ Le tre prove scritte sono valutate in ventesimi. Ai fini dell'attribuzione dei q
 
 ## Art. 3. — Accertamento della conoscenza 
  della lingua francese
+
+1.
+                    
+                        
+                            Ai fini di cui all'articolo 10 della legge regionale 17 dicembre 2018, n. 11, la commissione d'esame: 
+ 
+                        
+                        
+                            a)
+                            
+                                ridetermina il punteggio attribuito alla prova scritta di francese sulla base della tabella A allegata alla predetta legge regionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                formula, dopo aver attribuito il punteggio al colloquio, una valutazione, espressa in decimi anche con frazioni di mezzo punto, della competenza dimostrata in lingua francese; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                determina la votazione complessiva da assegnare al candidato tramite la media tra i punteggi di cui alle lettere a) e b), arrotondando per eccesso nel caso in cui il punteggio non esprima una votazione per numero intero o per frazioni di mezzo punto.
 
 ## Art. 4. — Disposizioni finali e abrogazioni
 

@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -82,6 +82,42 @@ All'articolo 37 del decreto legislativo n. 626 del 1994, dopo il comma 1, e' ins
  "1-bis. Il datore di lavoro provvede altresi' a informare i lavoratori sui rischi cui sono esposti durante l'uso delle attrezzature di lavoro, sulle attrezzature di lavoro presenti nell'ambiente immediatamente circostante, anche se da essi non usate direttamente, nonche' sui cambiamenti di tali attrezzature.".
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            All'articolo 89, comma 2, lettera a), del decreto legislativo n. 626 del 1994, sono introdotte le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole: "35, commi 1, 2, 4" sono aggiunte le seguenti: "4-bis, 4-ter, 4-quater.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                prima della parola: "38" sono inserite le seguenti parole: "36, comma 8-ter".
+
+2.
+                    
+                        
+                            All'articolo 90, comma 1, lettera a), del decreto legislativo n. 626 del 1994, sono introdotte le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo le parole: "35, commi 1, 2, 4" sono aggiunte le seguenti: "4-bis, 4-ter, 4-quater,";
+
+                            
+                        
+                        
+                            b)
+                            
+                                prima della parola: "38" sono inserite le seguenti parole: "36, comma 8-ter".
 
 ## Art. 7.
 

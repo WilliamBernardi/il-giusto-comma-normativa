@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2026-05-12;118
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,25 @@ Sulla proposta del Ministro per lo sport e i giovani;
 ## Art. 1.
 
 Modifiche allo Statuto dell'Agenzia italiana per la gioventu'
+
+1.
+                    
+                        
+                            All'allegato al decreto del Presidente della Repubblica 24 gennaio 2024, n. 23, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 5, comma 1, alla lettera a) premettere la seguente: 
+ «0a) il Presidente;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 6, alla rubrica, le parole: «del Consiglio di amministrazione» sono soppresse.
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1995-06-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,6 +40,42 @@ La Societa' esercita le attribuzioni previste dalla legge 22 aprile 1941, n. 633
 
 La Societa' ha per oggetto la tutela giuridica ed economica delle opere dell'ingegno e dei diritti connessi, in Italia e all'estero.
 
+3.
+                    
+                        
+                            Rientrano in particolare nelle sue funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la concessione, per conto e nell'interesse dei propri soci e iscritti, di licenze e autorizzazioni per l'utilizzazione economica di opere protette dalla legge;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la riscossione e la ripartizione dei proventi che comunque derivano dall'utilizzazione delle opere stesse.
+
+4.
+                    
+                        
+                            Sono compresi negli scopi della Societa':
+ 
+                        
+                        
+                            a)
+                            
+                                lo studio dei problemi relativi al diritto di autore e ai diritti connessi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli studi e le iniziative relativi alla promozione, specialmente all'estero, allo sviluppo e alla diffusione del patrimonio letterario e artistico italiano.
+
 ## Art. 3.
 
 La Societa' puo' assumere per conto dello Stato, di enti o privati, servizi comunque collegati con la diffusione delle opere dell'ingegno, nonche' servizi di accertamento e di riscossione di tasse, imposte, contributi e diritti.
@@ -52,6 +88,55 @@ La Societa' puo' delegare l'esercizio generale o parziale della propria attivita
 
 ## Art. 5.
 
+1.
+                        
+                            
+                                Per l'adempimento degli scopi indicati nell'articolo precedente, le opere dell'ingegno sono assegnate alle sezioni appresso elencate.
+ 
+                            
+                            
+                                a)
+                                
+                                    SEZIONE LIRICA
+ 1) Opere assegnate: le opere liriche, i balletti, gli oratori e le opere analoghe.
+ 2) Diritti tutelati: quelli relativi all'esercizio delle facolta' di rappresentazione pubblica, di pubblica utilizzazione a mezzo riproduzione cinematografica o con qualsiasi altro procedimento tecnico di riproduzione realizzata, di radiodiffusione, di televisione e di diffusione a mezzo di procedimenti analoghi.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    SEZIONE MUSICA
+ 1) Opere assegnate: i brani staccati di opere liriche, di balletti, di oratori, di operette, di riviste e di opere analoghe, le composizioni sinfoniche e le composizioni musicali varie, compresi i relativi eventuali testi letterari.
+ 2) Diritti tutelati: quelli relativi all'esercizio delle facolta' di pubblica esecuzione, compresa la pubblica esecuzione cinematografica o con qualsiasi altro procedimento tecnico di riproduzione realizzata, di radiodiffusione, di televisione e di diffusione a mezzo di procedimenti analoghi.
+
+                                
+                            
+                            
+                                c)
+                                
+                                    SEZIONE DRAMMATICA, OPERETTE E RIVISTE (D.O.R.)
+ 1) Opere assegnate: le opere drammatiche, le operette, le riviste e le opere analoghe comprese quelle create appositamente per la radiodiffusione, la televisione o per altri mezzi di diffusione a distanza.
+ 2) Diritti tutelati: quelli relativi all'esercizio delle facolta' di rappresentazione pubblica, di pubblica utilizzazione a mezzo riproduzione cinematografica o con qualsiasi altro procedimento tecnico di riproduzione realizzata, di radiodiffusione, di televisione e di diffusione a mezzo di procedimenti analoghi.
+
+                                
+                            
+                            
+                                d)
+                                
+                                    SEZIONE OPERE LETTERARIE E ARTI FIGURATIVE (O.L.A.F.)
+ 1) Opere assegnate: le opere scritte e orali nel campo letterario e scientifico, le opere dell'arte figurativa e le opere fotografiche.
+ 2) Diritti tutelati: quelli relativi all'esercizio delle facolta' di riproduzione, di recitazione in pubblico, di pubblica utilizzazione a mezzo riproduzione cinematografica o con qualsiasi altro procedimento tecnico di riproduzione realizzata, di radiodiffusione, di televisione e di diffusione a mezzo di procedimenti analoghi.
+
+                                
+                            
+                            
+                                e)
+                                
+                                    SEZIONE CINEMA
+ 1) Opere assegnate: le opere cinematografiche e le opere a queste assimilate.
+ 2) Diritti tutelati: quelli relativi alla proiezione pubblica e alla televisione.
+
 Le opere create appositamente per la radiodiffusione o la televisione sono assegnate alle varie sezioni secondo il genere delle opere stesse.
 
 Rientrano fra i diritti tutelati dalle varie sezioni, per le opere rispettivamente loro assegnate, quelli relativi alla facolta' di riproduzione meccanica e quelli relativi alla comunicazione pubblica, a mezzo di apparecchi radio o telericeventi, dell'opera radiodiffusa o telediffusa.
@@ -63,6 +148,67 @@ La tutela dei diritti connessi al diritto di autore e' esercitata dalla Societa'
 ## - TITOLO III - DEGLI ISCRITTI E SOCI Capo I - Degli iscritti ordinari.
 
 ## Art. 7.
+
+1.
+                        
+                            
+                                Possono essere iscritti alla Societa', in qualita' di iscritti ordinari, le persone fisiche o giuridiche italiane che siano titolari, in via originaria o derivata, di diritti di autore o di diritti connessi e siano:
+ 
+                            
+                            
+                                a)
+                                
+                                    autori,
+
+                                
+                            
+                            
+                                b)
+                                
+                                    editori,
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concessionari di diritti di rappresentazione,
+
+                                
+                            
+                            
+                                d)
+                                
+                                    produttori o concessionari di opere cinematografiche,
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fotografi,
+
+                                
+                            
+                            
+                                f)
+                                
+                                    interpreti o artisti esecutori,
+
+                                
+                            
+                            
+                                g)
+                                
+                                    produttori di dischi grammofonici o strumenti analoghi,
+
+                                
+                            
+                            
+                                h)
+                                
+                                    imprese di radiodiffusione e di televisione
+ e i loro eredi o aventi causa.
 
 Gli italiani non appartenenti alla Repubblica sono parificati ai cittadini italiani. Le persone fisiche e le persone giuridiche che hanno, rispettivamente, la cittadinanza o la nazionalita' di uno Stato membro della Comunita' economica europea, istituita con il trattato firmato a Roma il 25 marzo 1957 e reso esecutivo con legge 14 ottobre 1957, n. 1303, sono equiparate alle persone fisiche e giuridiche di cittadinanza o nazionalita' italiana.
 
@@ -134,6 +280,52 @@ L'attribuzione agli iscritti delle somme derivanti dalla ripartizione ha luogo p
 
 ## Art. 14.
 
+1.
+                        
+                            
+                                L'iscrizione si perde:
+ 
+                            
+                            
+                                a)
+                                
+                                    allorche' viene meno il requisito della cittadinanza o della nazionalita' previsto dall'art. 7;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per dimissioni, ai sensi e con effetti dell'art. 11;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per decadenza, ai sensi dell'art. 12;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per radiazione, ai sensi dell'art. 25, secondo comma, lett. c);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per morte;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nel caso previsto dall'art. 11, ultimo comma.
+
 ## - TITOLO III - DEGLI ISCRITTI E SOCI Capo II - Degli iscritti straordinari - Dei mandanti.
 
 ## Art. 15.
@@ -145,6 +337,24 @@ Ad essi si applicano gli artt. 7, ultimo comma, 8, 9, 10, 11, 13 e 14.
 Gli iscritti straordinari non sono tenuti al pagamento delle quote annue di associazione, ma debbono corrispondere, oltre a quella normale, una provvigione aggiuntiva ovvero un contributo predeterminato.
 
 ## Art. 16.
+
+1.
+                        
+                            
+                                La Societa' ha la facolta' di accettare mandati:
+ 
+                            
+                            
+                                a)
+                                
+                                    da coloro che intendono affidarle la protezione in esclusiva di opere o diritti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da coloro che intendono affidarle la protezione in esclusiva di opere in manifestazioni di carattere occasionale e saltuario, purche' non si tratti di persone gia' iscritte e radiate per fatti che abbiano causato alla Societa' grave pregiudizio materiale o morale, o che comunque abbiano reso incompatibili i rapporti di queste con la Societa'.
 
 Le categorie di titolari di diritti di autore o di diritti connessi, nonche' di opere o di diritti per le quali possono essere accettati mandati, saranno determinate con norme regolamentari.
 
@@ -159,6 +369,77 @@ La Societa' ha la facolta' di assumere la rappresentanza di enti stranieri simil
 ## - TITOLO III - DEGLI ISCRITTI E SOCI Capo III - Dei soci.
 
 ## Art. 18.
+
+1.
+                        
+                            
+                                La qualita' di socio puo' essere attribuita, su domanda, solamente agli iscritti ordinari che abbiano una anzianita' di iscrizione alla Societa' di almeno cinque anni e appartengono alle seguenti categorie:
+ 
+                            
+                            
+                                a)
+                                
+                                    autori,
+
+                                
+                            
+                            
+                                b)
+                                
+                                    editori,
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concessionari di diritti di rappresentazione di opere drammatiche,
+
+                                
+                            
+                            
+                                d)
+                                
+                                    produttori o concessionari di opere cinematografiche o di opere a queste assimilate.
+
+2.
+                        
+                            
+                                I richiedenti debbono essere in possesso dei seguenti requisiti particolari:
+ 
+                            
+                            
+                                a)
+                                
+                                    non aver riportato condanne penali, passate in giudicato, e tali che appaiano incompatibili con la qualita' di socio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non aver compiuto, nel decennio precedente la domanda, atti rivelatori di particolare disconoscimento dei doveri sociali e non essere stati colpiti da sanzioni disciplinari previste dallo statuto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    avere riscosso dalla Societa' - a seconda delle varie categorie e qualifiche - somme non inferiori a quelle indicate in apposita tabella, deliberata nei modi fissati dall'art. 20, e nei periodi in essa stabiliti, salvo le eccezioni previste nella tabella medesima, sia per la determinazione dei proventi computabili, sia per il genere delle opere da cui debbono derivare, sia per il numero e la qualita' di determinate opere con riferimento anche ai modi di creazione e alle forme di collaborazione creativa dell'opera;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se editori di opere liriche, o di musica, o di operette, o di riviste, o di opere analoghe, avere depositato presso la Societa', prima della presentazione della domanda, un numero di edizioni musicali a stampa di opere di compositori italiani nella forma grafica abituale e definitiva, stabilito con altra apposita tabella, pure deliberata nei modi fissati dall'art. 20. Non concorrono a costituire il numero minimo di composizioni stampate, richiesto come sopra, quelle composizioni l'autore della cui musica sia il titolare o il legale rappresentante dell'impresa. Le commissioni delle sezioni alle quali sono assegnate le opere di cui sopra giudicano sulla eventuale equivalenza degli esemplari stampati depositati, ove questi non siano tutti della stessa specie;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se concessionari di diritti di rappresentazione di opere drammatiche, aver dichiarato alla Societa', prima della presentazione della domanda, un numero di opere assegnate alla tutela della sezione D.O.R. non inferiore a quello stabilito con altra apposita tabella, pure deliberata nei modi fissati dall'art. 20. La qualita' di socio nella categoria dei concessionari di diritti di rappresentazione di opere drammatiche puo' essere altresi' attribuita all'erede titolare di diritti di autore di opere assegnate alla tutela della sezione D.O.R. che non siano dichiarate alla Societa' da un concessionario e sempreche', nel quinquennio precedente la domanda, abbia riscosso dalla Societa', per le opere predette, somme non inferiori ad un terzo di quelle fissate per i detti concessionari. La qualita' di socio non puo' essere conferita che a uno solo dei coeredi; qualora, quindi, gli eredi siano piu' di uno, essi debbono provvedere alla necessaria designazione.
 
 Le disposizioni di questo articolo e di quelli successivi si osservano, in quanto applicabili, anche nei riguardi delle persone giuridiche e, per quanto concerne le lettere a) e b) del secondo comma, di chi ne abbia la legale rappresentanza.
 
@@ -218,6 +499,31 @@ L'attribuzione della qualita' di socio onorario non preclude il riconoscimento d
 
 All'iscritto ordinario o al socio e all'iscritto straordinario, i quali contravvengono a disposizioni statutarie o regolamentari o comunque vengano meno ai propri doveri, sono inflitte le sanzioni contemplate nel comma seguente, salvo eventuali provvedimenti amministrativi e ogni altra azione civile o penale.
 
+2.
+                        
+                            
+                                Le sanzioni sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    il richiamo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la pena pecuniaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la radiazione.
+
 L'ammontare minimo e massimo della pena pecuniaria e' fissato dall'assemblea delle commissioni di sezione, con le stesse modalita' di cui all'art. 20 di questo statuto e tenuto conto delle variazioni dell'indice ISTAT del costo della vita.
 
 Nei confronti dei soci, la pena pecuniaria puo' essere accompagnata dalla sospensione dall'elettorato attivo e passivo per un periodo da cinque a dieci anni.
@@ -227,6 +533,31 @@ La radiazione comporta la cessazione dell'amministrazione e della tutela, da par
 ## Art. 26.
 
 Il richiamo e' inflitto per lievi infrazioni ai propri doveri di socio o di iscritto.
+
+2.
+                        
+                            
+                                La pena pecuniaria e' inflitta:
+ 
+                            
+                            
+                                a)
+                                
+                                    per recidiva nei fatti che dettero in precedenza motivo al richiamo o per maggiore gravita' di essi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per dichiarazioni non rispondenti a verita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per atti comunque rivolti a menomare la veridicita' dei programmi o di altri documenti relativi all'esercizio dei diritti di utilizzazione economica oggetto dell'attivita' della Societa'.
 
 Nei casi di particolare gravita' derivanti da inosservanza dei principi e dei doveri sociali, sia nei confronti di altri soci o iscritti, sia nei confronti della Societa' stessa, alla sanzione della pena pecuniaria e' accompagnata la sospensione dall'elettorato attivo e passivo per un periodo da cinque a dieci anni.
 
@@ -276,6 +607,38 @@ Le norme da seguire nei procedimenti previsti dal presente titolo sono dettate d
 
 Il presidente e' nominato con decreto del Capo dello Stato, su proposta del Presidente del Consiglio dei Ministri, previa designazione dell'assemblea delle commissioni di sezione. Egli ha la rappresentanza legale della Societa'.
 
+2.
+                        
+                            
+                                Il presidente:
+ 
+                            
+                            
+                                a)
+                                
+                                    presiede, se non sia diversamente stabilito, gli organi collegiali della Societa';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    autorizza le spese di gestione subordinatamente alle disponibilita' di bilancio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    designa i funzionari e i pubblici ufficiali autorizzati a compiere le attestazioni e a ricevere gli atti previsti dagli artt. 635 e 642 del codice di procedura civile, ai sensi e per gli effetti dell'art 164 della legge 22 aprile 1941, n. 633; puo' altresi' delegare, nelle forme di legge e per determinati periodi, il direttore generale e i funzionari della Societa' per l'espletamento di alcune funzioni connesse anche con la sua qualita' di rappresentante legale dell'ente, quali dichiarazioni di terzo ai sensi dell'art. 547 del codice di procedura civile, richieste di ingiunzione a norma dell'art. 638 del codice di procedura civile e sottoscrizione di atti e ricorsi nelle procedure per controversie di lavoro a norma della legge 11 agosto 1973, n. 533, nonche' in materia fiscale e di assicurazione obbligatoria;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adempie tutte le funzioni che gli sono attribuite da questo statuto e dai regolamenti della Societa'.
+
 In caso di urgenza il presidente adotta i provvedimenti di competenza del consiglio di amministrazione, al quale deve sottoporli per la ratifica nella sua prima riunione.
 
 Il presidente puo' nominare, con le modalita' indicate nel regolamento generale e con compiti consultivi, comitati intersezionali per l'esame di questioni che interessino piu' sezioni e commissioni tecniche.
@@ -288,11 +651,100 @@ In caso di assenza o impedimento, il presidente e' sostituito da un membro elett
 
 Il consiglio di amministrazione e' composto dal presidente della Societa', che lo presiede, e da nove membri, in possesso del diritto di elettorato attivo e passivo, cosi' distinti: quattro membri autori, eletti dall'assemblea delle commissioni di sezione, di cui uno socio ed uno iscritto per la sezione Musica, uno socio ed uno iscritto per la sezione Drammatica Operette e Riviste (D.O.R.); cinque membri editori o produttori, eletti dall'assemblea delle commissioni di sezione, di cui due soci e uno iscritto editori di musica, uno socio ed uno iscritto editori di opere letterarie o produttori di opere cinematografiche.
 
+2.
+                        
+                            
+                                Ne fanno altresi' parte:
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante della Presidenza del Consiglio dei Ministri;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante del Ministero delle Finanze.
+
 Il consiglio di amministrazione nomina il proprio segretario.
 
 ## Art. 34.
 
 Al consiglio di amministrazione e' affidata l'amministrazione della Societa'.
+
+2.
+                        
+                            
+                                Esso inoltre delibera:
+ 
+                            
+                            
+                                a)
+                                
+                                    sul regolamento del personale e sui regolamenti interni di amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su ogni altra materia attribuitagli, per competenza, da questo statuto e dai regolamenti.
+
+3.
+                        
+                            
+                                Esso, infine, propone all'approvazione dell'assemblea delle commissioni di sezione:
+ 
+                            
+                            
+                                a)
+                                
+                                    le eventuali modifiche del presente statuto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il regolamento generale e le sue eventuali modifiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la misura delle quote sociali, delle provvigioni e di ogni altro contributo dovuto dagli iscritti, di cui ai precedenti artt. 12 e 15;
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    la misura della deduzione prevista dall'art. 13;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il bilancio preventivo e il conto consuntivo annuale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'assunzione dei servizi indicati nell'art. 3;
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    il regolamento del Fondo di solidarieta' fra soci e fra iscritti della S.I.A.E. e le sue eventuali modifiche.
 
 Il consiglio adotta, in caso di urgenza, i provvedimenti di competenza dell'assemblea delle commissioni di sezione, alla quale deve sottoporli per la ratifica nella sua prima riunione.
 
@@ -306,6 +758,45 @@ Per la validita' delle riunioni occorre la presenza di almeno sei dei suoi compo
 
 ## Art. 36.
 
+1.
+                        
+                            
+                                Le commissioni sono presiedute dal presidente della Societa' e composte di commissari nel numero e con le qualifiche di seguito riportate:
+ 
+                            
+                            
+                                a)
+                                
+                                    per la sezione Lirica cinque commissari soci ed uno iscritto, dei quali: due soci ed uno iscritto autori della parte musicale ovvero della parte letteraria di opere liriche, balletti, oratori ed opere analoghe; tre soci editori di dette opere e congiuntamente concessionari di diritti di rappresentazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la sezione Musica, undici commissari soci e otto iscritti, dei quali: sei autori di musica ripartiti in due soci ed uno iscritto autori di brani staccati di opere liriche, balletti, oratori e opere analoghe e di composizioni sinfoniche; due soci e uno iscritto autori di composizioni varie; due soci ed uno iscritto autori della parte letteraria di composizioni varie; cinque soci e cinque iscritti editori di musica e congiuntamente concessionari di diritti di esecuzione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la sezione Drammatica, Operette e Riviste, sei commissari soci e quattro iscritti dei quali: due soci e uno iscritto autori di opere drammatiche o di genere affine ovvero della parte letteraria di operette, riviste ed opere analoghe; uno socio ed uno iscritto autori della parte musicale; due soci ed uno iscritto autori di opere create appositamente per la radiodiffusione e la televisione; uno socio ed uno iscritto concessionari o cessionari di diritti di rappresentazione ovvero editori e congiuntamente concessionari di diritti di rappresentazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la sezione Opere Letterarie e Arti Figurative, due commissari soci e quattro iscritti dei quali: uno socio e due iscritti autori, uno socio e due iscritti editori di opere letterarie o figurative;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per la sezione Cinema, due commissari soci e due iscritti dei quali: uno socio ed uno iscritto autori di opere cinematografiche o di opere a queste assimilate (autori di soggetti o sceneggiature di opere cinematografiche o a queste assimilate ovvero direttori artistici), uno socio e uno iscritto produttori o concessionari di opere cinematografiche o di opere a queste assimilate.
+
 Ogni commissione di sezione provvede alla nomina del vice presidente, scegliendolo nel proprio seno.
 
 Le commissioni di sezione sono convocate, su iniziativa del presidente, normalmente tre volte l'anno. Possono anche convocarsi su richiesta di almeno la meta' dei propri componenti incluso il vice presidente.
@@ -318,9 +809,65 @@ Quando sono trattate le questioni di cui al penultimo comma dell'art. 10, soci e
 
 I commissari di sezione sono eletti con votazione separata tra soci e iscritti, nell'ambito delle rispettive categorie, con voto diretto e segreto.
 
+2.
+                        
+                            
+                                Hanno diritto di essere votati:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli iscritti ordinari, con esclusione degli eredi, che:
+ 1) abbiano, alla scadenza dell'anno solare precedente quello delle elezioni, una anzianita' di iscrizione di almeno cinque anni;
+ 2) abbiano incassato nel quinquennio precedente l'anno delle elezioni, separatamente per la categoria autori e per la categoria editori, concessionari e produttori, importi pari o superiori alla somma degli incassi medi effettuati dalla sezione di appartenenza per ognuno degli anni considerati. L'incasso medio annuale della sezione e' determinato, con separato riferimento alla categoria autori ed alla categoria editori, concessionari e produttori, dividendo l'ammontare complessivo annuo dei proventi liquidati dalla sezione ai propri soci e iscritti ordinari per il numero dei propri soci e iscritti ordinari che abbiano incassato proventi nell'anno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soci che rivestano tale qualita' alla data in cui sono indette le elezioni e la conservino alla data della votazione.
+
+3.
+                        
+                            
+                                "Hanno diritto di voto, con esclusione degli eredi:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli iscritti ordinari, che hanno diritto di essere votati a norma del n. 1 del comma precedente, nonche' tutti gli altri iscritti ordinari;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i soci che rivestano tale qualita' alla data in cui sono indette le elezioni e la conservino alla data della votazione.
+
 Qualora nell'ambito di una sezione, in applicazione dei criteri di accesso all'elettorato di cui ai due commi precedenti, non si pervenga ad un numero di iscritti ordinari aventi diritto di essere votati pari ad almeno dieci volte il numero dei seggi disponibili o di iscritti ordinari aventi diritto di voto pari ad almeno venti volte il numero dei seggi disponibili, le corrispondenti medie di incasso relative alla categoria interessata, ferme restando le anzianita' di iscrizione indicate, vengono ridotte sino al raggiungimento dei suddetti numeri minimi. Ove i numeri minimi richiesti non potessero essere raggiunti, accederanno all'elettorato gli iscritti ordinari della categoria considerata, con esclusione degli eredi, che presentino i sopra indicati periodi di anzianita' ed in essi abbiano conseguito incassi.
 
 Il socio che sia anche iscritto ordinario per altre qualifiche o sezioni non e' ammesso all'elettorato attivo o passivo per l'elezione dei commissari iscritti.
+
+6.
+                        
+                            
+                                I soci e gli iscritti ordinari sono raggruppati, agli effetti delle elezioni, e delle separate votazioni per categoria, come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    categoria autori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    categoria editori, concessionari e produttori. Rientrano in tale categoria: 1) editori di opere liriche, di musica, di opere drammatiche o di operette, riviste e opere analoghe, di opere letterarie o figurative; 2) concessionari o cessionari di diritti di rappresentazione; 3) produttori o concessionari di opere cinematografiche o di opere a queste assimilate.
 
 A commissari di sezione sono eleggibili i soci e gli iscritti ordinari che non abbiano riportato nel decennio precedente condanne penali passate in giudicato, che appaiano incompatibili con la qualita' e non siano stati sospesi dall'elettorato ai sensi del terzo comma dell'art. 26.
 
@@ -366,6 +913,87 @@ Il direttore della sezione partecipa alle riunioni con voto consultivo e ha funz
 
 L'assemblea delle commissioni di sezione e' composta dei membri delle commissioni di sezione.
 
+2.
+                        
+                            
+                                L'assemblea:
+ 
+                            
+                            
+                                a)
+                                
+                                    delibera, su proposta del consiglio di amministrazione, le eventuali modifiche del presente statuto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    approva il regolamento generale della societa', sottopostole dal consiglio di amministrazione, e le eventuali modifiche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    designa il presidente della societa';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nomina i membri elettivi del consiglio di amministrazione, della consulta legale, della commissione dei ricorsi e designa i membri elettivi del collegio dei revisori;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    determina il compenso dei membri del consiglio di amministrazione e del collegio dei revisori e le indennita' per i membri della consulta legale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    determina, su proposta del consiglio di amministrazione, la misura delle quote sociali, delle provvigioni e di ogni altro contributo dovuto dagli iscritti, di cui ai precedenti articoli 12 e 15;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    determina, su proposta del consiglio di amministrazione, ai sensi e per gli effetti del primo e del secondo comma dell'art.13, la misura della deduzione dagli incassi ivi prevista;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    approva, su proposta del consiglio di amministrazione, il bilancio preventivo e il conto consuntivo annuale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    approva, su proposta del consiglio di amministrazione, l'assunzione dei servizi di cui all'art.3;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    approva, su proposta del consiglio di amministrazione, il regolamento del Fondo di solidarieta' fra i soci e fra iscritti della S.I.A.E. e le sue eventuali modifiche;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    delibera su ogni altra materia attribuita, per competenza, da questo statuto e dai regolamenti.
+
 Il segretario del consiglio di amministrazione funge da segretario dell'assemblea.
 
 ## Art. 42.
@@ -381,6 +1009,59 @@ Le votazioni in seno all'assemblea per la nomina dei membri elettivi del consigl
 Le deliberazioni dell'assemblea sono prese a maggioranza assoluta. Per la deliberazione concernente la designazione del presidente della Societa' occorre la maggioranza dei tre quarti dei votanti. Tuttavia, in terza votazione, tale elezione ha luogo con deliberazione adottata a maggioranza assoluta. Le deliberazioni di cui alle lettere a), b) e l) del secondo comma dell'art. 41 sono adottate dall'assemblea con la maggioranza di due terzi dei votanti.
 
 ## Art. 43.
+
+1.
+                        
+                            
+                                La consulta legale e' composta:
+ 
+                            
+                            
+                                a)
+                                
+                                    del presidente della Societa', che la presiede;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di sei membri, nominati dall'assemblea delle commissioni di sezione tra giuristi particolarmente competenti nella materia del diritto d'autore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di un rappresentante del Ministero di Grazia e Giustizia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del rappresentante del Ministero delle Finanze indicato nell'art.33;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    di un rappresentante del Ministero per i Beni Culturali e Ambientali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    del capo dell'Ufficio della Proprieta' Letteraria, Artistica e Scientifica, istituito presso la Presidenza del Consiglio dei Ministri;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    del consigliere giuridico della Societa' che ha anche funzioni di segretario.
 
 La consulta nella sua prima adunanza provvede alla nomina del vice presidente, scegliendolo nel proprio seno.
 
@@ -426,6 +1107,52 @@ Alle riunioni degli organi collegiali della Societa' possono partecipare, senza 
 
 Il direttore generale e' nominato e revocato dal consiglio di amministrazione, secondo le norme stabilite dal regolamento del personale di cui al precedente art. 34.
 
+2.
+                        
+                            
+                                Il direttore generale:
+ 
+                            
+                            
+                                a)
+                                
+                                    dirige gli uffici e i servizi centrali e periferici della Societa';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede a porre in esecuzione le deliberazioni degli organi della Societa' e sovrintende alla gestione della Societa';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adotta nei modi e nelle forme stabiliti dai regolamenti della Societa' la nomina, la revoca e ogni altro provvedimento nei riguardi del personale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nomina e revoca gli agenti della Societa', a norma di regolamento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    interviene con voto consultivo alle adunanze degli organi collegiali della Societa';
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esercita, infine, tutte le funzioni che gli sono delegate o commesse dal presidente e dal consiglio di amministrazione.
+
 ## Art. 50.
 
 Il consigliere giuridico assiste la presidenza e la direzione generale per quanto riguarda, in particolare, la protezione delle opere e la tutela dei diritti disciplinati dalla legge, affidate alla gestione della Societa', i rapporti internazionali, la tenuta dei registri di pubblicita' e i compiti indicati alla lettera a) dell'ultimo comma dell'art. 2.
@@ -446,11 +1173,75 @@ La circoscrizione delle dirette rappresentanze all'estero e le modalita' del lor
 
 ## Art. 52.
 
+1.
+                        
+                            
+                                Il patrimonio della Societa' e' costituito:
+ 
+                            
+                            
+                                a)
+                                
+                                    dai beni immobili e mobili di proprieta' della Societa';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dai beni e dai valori che per acquisti, lasciti, donazioni o comunque vengano in possesso della Societa';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da quella parte degli avanzi di gestione che sia stata destinata dal consiglio di amministrazione ad incremento del patrimonio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dai beni immobili e mobili, dai titoli e dai valori derivanti da investimenti effettuati a fronte delle riserve permanente e straordinaria, costituite a norma del successivo art. 57.
+
 ## Art. 53.
 
 L'esercizio finanziario si inizia il 1 gennaio e si chiude il 31 dicembre di ogni anno.
 
 ## Art. 54.
+
+1.
+                        
+                            
+                                I proventi della Societa' sono costituiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    dai contributi dovuti dagli iscritti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle provvigioni sui servizi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalle rendite;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dagli eventuali contributi di enti o di singoli e da qualunque altra somma che a qualsivoglia titolo ad essa pervenga o spetti in relazione alla propria attivita'.
 
 ## Art. 55.
 
@@ -515,6 +1306,24 @@ Il regolamento del Fondo stabilisce i limiti e le condizioni per la concessione 
 La Societa', gli iscritti ed i soci contribuiscono al finanziamento del Fondo, con le modalita' e nelle misure indicate nel presente statuto e nel regolamento del Fondo.
 
 ## Art. 60-bis.
+
+1.
+                        
+                            
+                                Per la sezione Cinema, fermi restando i criteri previsti dal secondo, terzo, quarto e quinto comma dell'art. 37 in ordine all'elettorato attivo e passivo dei soci tutti e degli iscritti ordinari appartenenti alla categoria autori e sino a quando non verranno effettuati incassi per corrispondenti diritti amministrativi:
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno diritto i essere votati gli iscritti ordinari produttori e concessionari, con esclusione degli eredi, che abbiano un'anzianita' di iscrizione di almeno cinque anni e abbiano, nel quinquennio precedente l'anno di indizione delle elezioni, se produttori, realizzato almeno quattro opere cinematografiche o assimilate, ovvero, se concessionari, utilizzato servizi forniti dalla Societa' per almeno venticinque opere cinematografiche o assimilate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    hanno diritto di voto, con esclusione degli eredi, gli iscritti ordinari produttori e concessionari, che abbiano diritto di essere votati a norma della precedente lettera a), nonche' tutti gli altri iscritti.
 
 ## Art. 61.
 

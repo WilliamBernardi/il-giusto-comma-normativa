@@ -8,8 +8,8 @@ codice_redazionale: 004G0262
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -59,7 +59,59 @@ L'articolo 28 del decreto del Ministro delle infrastrutture e dei trasporti 5 ag
  a) stazione radiotelefonica ad onde metriche (VHF);
  b) un EPIRB satellitare (406 Mhz).».
 
+2.
+                    
+                        
+                            Fino al 31 dicembre 2004, le navi da pesca di stazza lorda uguale o superiore a 30 tonnellate devono essere dotate di:
+ 
+                        
+                        
+                            a)
+                            
+                                stazione radiotelefonica ad onde metriche (VHF);
+
+                            
+                        
+                        
+                            b)
+                            
+                                un EPIRB satellitare (406 Mhz);
+
+                            
+                        
+                        
+                            c)
+                            
+                                stazione radiotelefonica ad onde ettometriche, se effettuano navigazione oltre 20 miglia dalla costa.
+
 Gli apparati previsti dai commi precedenti devono essere di tipo idoneo secondo la normativa vigente.
+
+4.
+                    
+                        
+                            A decorrere dal 1° gennaio 2005 le unita' da pesca che effettuano navigazione oltre tre miglia dalla costa devono essere dotate degli apparati radio prescritti al capitolo IX dell'allegato al decreto legislativo 18 dicembre 1999, n. 541, in relazione al tipo di navigazione effettuata nelle diverse aree di mare individuate da tale capitolo. In alternativa:
+ 
+                        
+                        
+                            a)
+                            
+                                le unita' da pesca che effettuano navigazione nell'area di mare A1, come individuata dal capitolo IX dell'allegato al decreto legislativo 18 dicembre 1999, n. 541, devono essere dotate di un apparato radio VHF in grado di trasmettere e ricevere:
+ «1) in DSC "classe D" sulla frequenza di 156,525 MHz (canale 70). Deve essere possibile avviare la trasmissione dell'allarme di soccorso sul canale 70 dalla posizione dalla quale la nave viene normalmente comandata;»;
+ «2) in radiotelefonia sulle frequenze di 156,300 MHz (canale 6), 156,650 MHz (canale 13) e 156,800 MHz (canale 16);»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le unita' da pesca che effettuano navigazione nell'area di mare A2, come individuata dal capitolo IX dell'allegato al decreto legislativo 18 dicembre 1999, n. 541, devono essere dotate, in aggiunta agli apparati di cui alla lettera a), almeno di una installazione radio in MF in grado di trasmettere e ricevere, ai fini del soccorso e della sicurezza, sulle frequenze 2187.5 kHz impiegando il DSC «classe E» e 2182 kHz impiegando la radiotelefonia. La nave deve, inoltre, essere in grado di trasmettere e ricevere radiocomunicazioni di carattere generale impiegando la radiotelefonia almeno sulle frequenze di lavoro nelle bande comprese fra 1605 kHz e 4000 kHz;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le unita' da pesca alle quali si applicano le lettere a) e b), qualora abilitate alla navigazione oltre sei miglia dalla costa, devono essere dotate anche di un EPIRB 406 Mhz.
 
 Le unita' da pesca esistenti di cui alla presente Sezione possono essere dotate, in relazione all'area di navigazione in cui operano, delle dotazioni elencate al comma 4, anche prima della data del 1° gennaio 2005.
 

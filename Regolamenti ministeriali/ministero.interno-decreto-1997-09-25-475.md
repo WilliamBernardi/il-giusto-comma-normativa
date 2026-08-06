@@ -8,8 +8,8 @@ codice_redazionale: 098G0001
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,24 @@ Sentiti il Ministro di grazia e giustizia, l'Associazione nazionale dei comuni i
 Udito il parere del Consiglio di Stato, sezione consultiva per gli atti normativi, reso nell'adunanza del 9 giugno 1997;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Il limite massimo del compenso base annuo lordo spettante ad ogni componente degli organi di revisione economicofinanziaria dei comuni e delle province epari all'importo indicato nella tabella A, allegata al presente regolamento, con riferimento al tipo di ente ed alla fascia demografica. L'importo risultante dalla tabella e' maggiorato:
+ 
+                        
+                        
+                            a)
+                            
+                                sino ad un massimo del 10 per cento per gli enti locali la cui spesa corrente procapite, desumibile dall'ultimo bilancio preventivo approvato, sia superiore alla media nazionale per fascia demografica di cui alla tabella B, allegata al presente regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sino ad un massimo del l0 per cento per gli enti locali la cui spesa per investimento procapite, desumibile dall'ultimo bilancio preventivo approvato, sia superiore alla media nazionale per fascia demografica di cui alla tabella C, allegata al presente regolamento.
 
 Le maggiorazioni di cui al comma l, lettere a) e b), sono cumulabili tra loro.
  Avvertenza:

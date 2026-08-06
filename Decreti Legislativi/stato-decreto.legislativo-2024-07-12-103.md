@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2024-07-12;103
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,38 @@ Sulla proposta del Ministro per la pubblica amministrazione, del Ministro delle 
 
 Le disposizioni del presente decreto si applicano ai controlli amministrativi sulle attivita' economiche svolti dalle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165.
 
+2.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «attivita' economica»: l'attivita' che consiste nella produzione e nell'offerta di beni e servizi sul mercato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «controlli»: le attivita' di natura amministrativa, comunque denominate, svolte dalle amministrazioni di cui al comma 1, per la verifica del rispetto di regole poste a tutela di un interesse pubblico da parte di operatori che svolgono un'attivita' economica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «soggetto controllato»: l'operatore che svolge l'attivita' economica soggetta a controllo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «diffida amministrativa»: invito, contenuto nel verbale di ispezione, rivolto dall'accertatore al trasgressore e agli altri soggetti di cui all'articolo 6 della legge 24 novembre 1981, n. 689, prima della contestazione della violazione, a sanare la stessa.
+
 Non rientrano nell'ambito di applicazione del presente decreto i controlli in materia fiscale, gli accertamenti e gli accessi ispettivi disposti per la documentazione antimafia di cui al decreto legislativo 6 giugno 2011, n. 159, i controlli di polizia economico finanziaria, nonche' i controlli disposti per esigenze di sicurezza e difesa nazionale, ivi inclusi i controlli di cui alla legge 9 luglio 1990, n. 185 e al decreto legislativo 15 dicembre 2017, n. 221.
 
 Resta fermo il rispetto dei vincoli derivanti dall'ordinamento europeo e dal diritto internazionale.
@@ -46,12 +78,111 @@ All'esito dell'attivita' di analisi, valutazione e verifica di cui ai precedenti
 
 Al fine di garantire il costante aggiornamento dello stato dei controlli, la procedura di cui ai commi 2 e 3 e' ripetuta con cadenza triennale.
 
+5.
+                    
+                        
+                            Per gli effetti di cui al comma 1, al decreto legislativo 14 marzo 2013, n. 33, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo l'articolo 23 e' inserito il seguente: 
+ «23-bis (Obblighi di pubblicazione concernenti i controlli sulle attivita' economiche). - 1. Le pubbliche amministrazioni pubblicano nel proprio sito istituzionale nella sottosezione «Controlli sulle attivita' economiche» della sezione «Amministrazione trasparente» l'elenco degli obblighi e degli adempimenti oggetto delle attivita' di controllo che gli operatori sono tenuti a rispettare nello svolgimento di attivita' economiche per ottemperare alle disposizioni normative, secondo uno schema standardizzato elaborato dalla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica indicando altresi' quelli eliminati. 
+ 2. L'elenco di cui al comma precedente e' aggiornato almeno a cadenza triennale.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                all'allegato A le parole: «controlli sulle imprese» sono sostituite dalle seguenti: «controlli sulle attivita' economiche».
+
 ## Art. 3.
 
 Sistema di identificazione e valutazione 
  del livello di rischio «basso»
 
+1.
+                    
+                        
+                            Ai fini della programmazione dei controlli di cui all'articolo 5, e' istituito un sistema di identificazione e gestione del rischio su base volontaria, riferito ai seguenti ambiti omogenei: 
+ 
+                        
+                        
+                            a)
+                            
+                                protezione ambientale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                igiene e salute pubblica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sicurezza pubblica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tutela della fede pubblica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sicurezza dei lavoratori.
+
 L'Ente nazionale italiano di unificazione (UNI) di cui all'articolo 4 della legge 21 giugno 1986, n. 317, elabora, per ciascun ambito omogeneo, anche alla luce dei parametri di cui al comma 3, consultate le amministrazioni di riferimento, norme tecniche o prassi di riferimento idonee a definire un livello di rischio basso al quale e' associabile un Report certificativo. Le norme tecniche o prassi di riferimento elaborate da UNI sono approvate con decreto del Ministro delle imprese e del made in Italy, da adottarsi ai sensi dell'articolo 17 comma 3 della legge 400 del 1988, sentite le amministrazioni interessate. Il medesimo decreto indica altresi' gli elementi essenziali e il periodo di validita' del Report certificativo, i casi di decadenza e le altre norme procedurali ritenute necessarie.
+
+3.
+                    
+                        
+                            Nella determinazione del livello di rischio basso sono presi in considerazione diversi parametri, tra cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                il possesso di almeno una certificazione del sistema di gestione, rilasciata da un organismo di certificazione accreditato ai sensi del regolamento n. 765/2008 del 9 luglio 2008; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                altre certificazioni, analogamente rilasciate sotto accreditamento, riconducibili ai principi ESG (Environmental, Social, Governance); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'esito dei controlli subiti nei precedenti tre anni di attivita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il settore economico in cui opera il soggetto controllato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le caratteristiche e la dimensione dell'attivita' economica svolta dal soggetto controllato.
 
 Il Report certificativo e' rilasciato da organismi di certificazione, ispezione, validazione o verifica, accreditati presso l'Organismo nazionale di accreditamento riconosciuto e firmatario degli accordi di mutuo riconoscimento (MLA) dell'Associazione di cooperazione europea per l'accreditamento (EA).
 
@@ -131,6 +262,38 @@ Utilizzo di soluzioni tecnologiche
  nelle attivita' di controllo
 
 Le amministrazioni cui sono attribuite funzioni di controllo, diverse da quelle in materia di controllo fiscale, in attuazione delle disposizioni del decreto legislativo 7 marzo 2005, n. 82, adottano misure volte ad automatizzare progressivamente le proprie attivita', nell'ambito delle risorse disponibili a legislazione vigente, ricorrendo a soluzioni tecnologiche, ivi incluse quelle di intelligenza artificiale in coerenza con il principio di proporzionalita' al rischio secondo le regole tecniche finalizzate alla realizzazione degli obiettivi dell'Agenda digitale italiana. Le soluzioni tecnologiche garantiscono la sicurezza e l'interoperabilita' dei sistemi informatici e dei flussi informativi per la circolazione e lo scambio dei dati e per l'accesso ai servizi erogati in rete dalle amministrazioni che effettuano i controlli.
+
+2.
+                    
+                        
+                            Le decisioni concernenti la conformita' agli obblighi e adempimenti imposti alle imprese controllate assunte mediante soluzioni tecnologiche rispettano le disposizioni di cui all'articolo 22 del regolamento (UE) 2016/679, nonche' i principi di: 
+ 
+                        
+                        
+                            a)
+                            
+                                comprensibilita', conoscibilita', significativita' e rilevanza delle informazioni che devono essere fornite, per cui ogni soggetto controllato ha diritto a conoscere l'esistenza di processi decisionali automatizzati che lo riguardano e, in tal caso, a ricevere informazioni sulla logica utilizzata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non esclusivita' della decisione algoritmica, per cui comunque esiste nel processo decisionale un contributo umano capace di controllare, validare ovvero smentire la decisione automatizzata, con diritto del soggetto controllato di esprimere la propria opinione e contestare la decisione assunta, secondo quanto previsto dall'articolo 22 del regolamento (UE) 2016/679; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non discriminazione algoritmica, per cui le amministrazioni mettono in atto misure tecniche e organizzative adeguate al fine di impedire effetti discriminatori nei confronti dei soggetti controllati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                efficace ed efficiente gestione dei dati, da attuarsi con apposita regolamentazione riguardante le fasi che attengono alla loro formazione, raccolta, accesso sicuro, monitoraggio, aggiornamento, riutilizzo, conservazione e comunicazione.
 
 ## Art. 10. — Trattamento dei dati personali
 

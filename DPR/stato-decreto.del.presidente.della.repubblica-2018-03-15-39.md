@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1744,6 +1744,27 @@ Nel caso in cui il recupero non venga effettuato, la retribuzione viene proporzi
 Per le visite, terapie, prestazioni specialistiche o esami diagnostici di cui al comma 1, in caso di gravi motivi debitamente documentati, qualora l'esigenza comporti un'assenza di durata superiore alla meta' dell'orario di lavoro giornaliero, il dipendente puo' essere posto in congedo straordinario ai sensi dell'articolo 15 del decreto del Presidente della Repubblica 31 luglio 1995, n. 395.
 
 ## Art. 8. — Congedo parentale
+
+1.
+                        
+                            
+                                
+                                    ((Al personale con figli minori di dodici anni che intende avvalersi del congedo parentale di cui dall'articolo 32 del decreto legislativo 26 marzo 2001, n. 151, sono concessi, alternativamente, a richiesta del dipendente e comunque per un periodo complessivamente non superiore a quello previsto dall'articolo 34, comma 1, primo periodo, del medesimo decreto:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((il congedo straordinario di cui all'articolo 15 del decreto del Presidente della Repubblica 31 luglio 1995, n. 395, sino alla misura complessiva di quarantacinque giorni, anche frazionati, nell'arco di dodici anni e comunque entro il limite massimo annuale previsto per il medesimo istituto;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((il congedo parentale determinato ai sensi del citato articolo 34, comma 1, primo periodo)).
 
 Ai fini dell'esercizio del diritto di cui al comma 1, il personale e' tenuto, salvo casi di oggettiva impossibilita', a preavvisare l'ufficio di appartenenza almeno cinque giorni prima della data di inizio del congedo.
 
@@ -3584,6 +3605,27 @@ Per le visite, terapie, prestazioni specialistiche o esami diagnostici di cui al
 
 ## Art. 25. — Licenza straordinaria per congedo parentale
 
+1.
+                        
+                            
+                                
+                                    ((Al personale con figli minori di dodici anni che intende avvalersi del congedo parentale di cui articolo 32 del decreto legislativo 26 marzo 2001, n. 151, sono concessi, alternativamente a richiesta del militare e comunque per un periodo complessivamente non superiore a quello previsto dall'articolo 34, comma 1, primo periodo, del medesimo decreto:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la licenza straordinaria di cui all'articolo 48 del decreto del Presidente della Repubblica 31 luglio 1995, n. 395, sino alla misura complessiva di quarantacinque giorni, anche frazionati, nell'arco di dodici anni e comunque entro il limite massimo annuale previsto per il medesimo istituto;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((il congedo parentale determinato ai sensi del citato articolo 34, comma 1, primo periodo)).
+
 Ai fini dell'esercizio del diritto di cui al comma 1, il personale e' tenuto, salvo casi di oggettiva impossibilita', a preavvisare l'ufficio di appartenenza almeno cinque giorni prima della data di inizio della licenza.
 
 In caso di malattia del figlio di eta' non superiore a tre anni i periodi di congedo di cui all'articolo 47 del decreto legislativo 16 marzo 2001, n. 151, non comportano riduzione del trattamento economico, fino ad un massimo di cinque giorni lavorativi nell'arco di ciascun anno, oltre il limite dei quarantacinque giorni di cui al comma 1.
@@ -3656,6 +3698,27 @@ La richiesta di rimborso, fermi restando i limiti riconosciuti congrui dall'Avvo
 
 ## Art. 30. — Efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 16 marzo 1999, n. 254, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 53, comma 1, dopo la lettera e), e' aggiunta la seguente: «f) provvedimenti che dispongono stanziamenti in relazione a quanto previsto dall'articolo 19, comma 1, della legge 4 novembre 2010, n. 183, limitatamente alla quota destinata alle finalita' di cui al presente comma.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 59: 
+ 1) la rubrica e' sostituita dalla seguente: «Procedure di informazione, pareri e rapporti con le Amministrazioni»; 
+ 2) al comma 2, la parola «20» e' sostituita dalla seguente:
+«30».
+
 Al decreto del Presidente della Repubblica 18 giugno 2002, n. 164, il comma 4 dell'articolo 53 e' sostituito dal seguente: «4. Con distinti decreti del Ministro della difesa e del Ministro dell'economia e delle finanze, su proposta dei rispettivi Comandanti Generali, acquisito il parere delle rappresentanze militari centrali ai sensi dell'articolo 59 del decreto del Presidente della Repubblica 16 marzo 1999, n. 254, sono annualmente determinati i criteri per la destinazione, l'utilizzazione delle risorse indicate al comma 1, disponibili al 31 dicembre di ciascun anno, e le modalita' applicative concernenti l'attribuzione dei compensi previsti dal presente articolo.».
 
 ## Art. 31.
@@ -3710,6 +3773,31 @@ Qualora entro il 31 dicembre 2018 non si provveda alla definizione dell'accordo 
 Al personale di cui ai Titoli I e II continuano ad applicarsi, ove non in contrasto con il presente decreto, le norme previste dai precedenti provvedimenti di accordo e concertazione.
 
 ## Art. 36. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione del presente decreto e all'onere indiretto rilevato ai sensi dell'articolo 17, comma 7, della legge 31 dicembre 2009, n. 196, complessivamente pari a euro 775.927.078 per l'anno 2018 e a euro 546.003.230 annui a decorrere dall'anno 2019, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 114.162.536 euro per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208, che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 115.761.312 euro per l'anno 2018 mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 365, punto a), della legge 11 dicembre 2016, n. 232, che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a complessivi 546.003.230 euro annui a decorrere dall'anno 2018 mediante riduzione, per euro 57.081.268, dell'autorizzazione di spesa di cui all'articolo 1, comma 466, della legge 28 dicembre 2015, n. 208, per euro 115.761.312, dell'autorizzazione di spesa di cui all'articolo 1, comma 365, punto a), della legge 11 dicembre 2016, n. 232 e, per euro 373.160.650, dell'autorizzazione di spesa di cui all'articolo 1, comma 679, della legge 27 dicembre 2017, n. 205.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2014-12-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,95 @@ Ai fini del presente decreto valgono le definizioni di cui all'articolo 148 del 
 
 ## Art. 2. — Attribuzioni del Ministero
 
+1.
+                    
+                        
+                            Al Ministero sono devolute:
+ 
+                        
+                        
+                            a)
+                            
+                                le attribuzioni spettanti al Ministero per i beni culturali e ambientali, salve quelle di competenza delle regioni anche a statuto speciale, delle province autonome e degli enti locali ai sensi della legislazione vigente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le attribuzioni in materia di spettacolo, di sport e di impiantistica sportiva spettanti alla Presidenza del Consiglio dei Ministri ai sensi dell'articolo 2 del decreto-legge 29 marzo 1995, n. 97, convertito, con modificazioni, dalla legge 30 maggio 1995, n. 203, e di cui agli articoli 156 e 157 del decreto legislativo 31 marzo 1998, n. 112.
+
+2.
+                    
+                        
+                            Il Ministero esercita, in particolare, le funzioni amministrative statali nelle seguenti materie:
+ 
+                        
+                        
+                            a)
+                            
+                                tutela, gestione e valorizzazione dei beni culturali e dei beni ambientali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                promozione delle attivita' culturali in tutte le loro manifestazioni con riferimento particolare alle attivita' teatrali, musicali, cinematografiche, alla danza e ad altre forme di spettacolo, inclusi i circhi e spettacoli viaggianti, alla fotografia, alle arti plastiche e figurative, al design industriale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promozione del libro, della lettura e delle attivita' editoriali di elevato valore culturale; sviluppo dei servizi bibliografici e bibliotecari nazionali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promozione della cultura urbanistica e architettonica, inclusa l'ideazione e, d'intesa con le amministrazioni competenti, la progettazione di opere di rilevante interesse architettonico destinate ad attivita' culturali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                studio, ricerca, innovazione e alta formazione nelle materie di competenza, anche mediante sostegno delle attivita' degli istituti culturali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                diffusione dell'arte e della cultura italiana all'estero, salve le attribuzioni del Ministero degli affari esteri e d'intesa con lo stesso;
+
+                            
+                        
+                        
+                            g)
+                            
+                                vigilanza sul CONI e sull'Istituto per il credito sportivo.
+
+3.
+                    
+                        
+                            Sono trasferiti al Ministero:
+ 
+                        
+                        
+                            a)
+                            
+                                gli uffici del Ministero per i beni culturali e ambientali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il dipartimento dello spettacolo, l'ufficio per i rapporti con gli organismi sportivi, la ripartizione dell'impiantistica sportiva, tutti presso la Presidenza del Consiglio dei Ministri.
+
 Sono attribuiti al Ministero i beni, le risorse finanziarie e il personale assegnati alle amministrazioni trasferite, fermo restando quanto previsto dall'articolo 11, commi 2 e 3. Sono soppressi il Ministero per i beni culturali e ambientali e, presso la Presidenza del Consiglio dei Ministri, il dipartimento e gli uffici di cui al comma 3, lettera b).
 
 ## Art. 3. — Il Ministro
@@ -51,6 +140,38 @@ Il programma e' aggiornato annualmente con le medesime procedure.
 ## Art. 4. — (( (Organi consultivi). ))
 
 ((
+
+1.
+                    
+                        
+                            Sono organi consultivi del Ministero:
+ 
+                        
+                        
+                            a)
+                            
+                                Il Consiglio superiore per i beni culturali e paesaggistici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i Comitati tecnico-scientifici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i Comitati regionali di coordinamento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli altri organi istituiti in attuazione delle vigenti disposizioni di legge.
 
 La composizione, i compiti e le incompatibilita' dei membri degli organi consultivi sono stabiliti ai sensi dell'articolo 11, comma 1.
 

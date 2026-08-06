@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2020-06-23;105
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,7 +40,57 @@ L'identificazione informatica dei candidati che partecipano alla procedura conco
 
 Le prove di esame sono costituite da una prova scritta e da una prova orale. La prova scritta consiste nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, nelle materie indicate al comma 2.
 
+2.
+                        
+                            
+                                La prova scritta verte sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    scienza delle costruzioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tecnica delle costruzioni.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie di cui al comma 2, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    idraulica ed elementi di costruzioni idrauliche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi di elettrotecnica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    normativa tecnica e procedurale di prevenzione incendi e di sicurezza nei luoghi di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, anche con riguardo all'ordinamento del personale del Corpo nazionale.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
@@ -49,6 +99,52 @@ La prova orale si intende superata se il candidato ottiene una votazione non inf
 Titoli e anzianita' di servizio
 
 La commissione esaminatrice valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i seguenti titoli: titoli di studio, abilitazioni professionali e corsi di formazione e aggiornamento professionale; valuta, altresi', secondo i punteggi di cui al comma 6, l'anzianita' di effettivo servizio.
+
+2.
+                        
+                            
+                                I titoli di studio ammessi a valutazione, con i relativi punteggi, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree universitarie: punti 1,50; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lauree magistrali: punti 2,50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    master universitario di I livello: punti 0,30; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    master universitario di II livello: punti 0,50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma di specializzazione conseguito al termine di un corso di specializzazione istituito dalle universita': punti 0,75; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dottorato di ricerca: punti 1,00.
 
 Sono ammesse a valutazione le abilitazioni professionali non correlate alle lauree di cui all'articolo 143, comma 1, lettera d), del decreto legislativo 13 ottobre 2005, n. 217, con l'attribuzione di un punteggio pari a punti 0,50; in caso di possesso di piu' abilitazioni tale punteggio non e' cumulabile.
 
@@ -78,13 +174,95 @@ L'identificazione informatica dei candidati che partecipano alla procedura conco
 
 ## Art. 5. — Classi di laurea magistrale
 
+1.
+                        
+                            
+                                Le classi di laurea magistrale richieste per la partecipazione al concorso straordinario di cui all'articolo 4 sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    giurisprudenza (LMG/01); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    scienze dell'economia (LM-56); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    scienze della politica (LM-62); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    scienze delle pubbliche amministrazioni (LM-63); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    scienze economico-aziendali (LM-77).
+
 Ai fini dell'ammissione al concorso, sono fatte salve le lauree universitarie conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 9 luglio 2009 di equiparazione tra diplomi di lauree di vecchio ordinamento, lauree specialistiche (LS) ex decreto n. 509/1999 e lauree magistrali (LM) ex decreto n. 270/2004.
 
 ## Art. 6. — Prove di esame
 
 Le prove di esame sono costituite da una prova scritta e da una prova orale. La prova scritta consiste nella stesura di un elaborato ovvero nella risposta sintetica a quesiti, senza l'ausilio di strumenti informatici, nelle materie indicate al comma 2.
 
+2.
+                        
+                            
+                                La prova scritta verte sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto amministrativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contabilita' di stato.
+
 Sono ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
+
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie di cui al comma 2, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto costituzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinamento del personale del Corpo nazionale, con particolare riferimento ai principali istituti disciplinati negli accordi sindacali e nei contratti collettivi nazionali di lavoro.
 
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
@@ -93,6 +271,52 @@ La prova orale si intende superata se il candidato ottiene una votazione non inf
 Titoli e anzianita' di servizio
 
 La commissione esaminatrice valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i seguenti titoli: titoli di studio, abilitazioni professionali e corsi di formazione e aggiornamento professionale; valuta, altresi', secondo i punteggi di cui al comma 6, l'anzianita' di effettivo servizio.
+
+2.
+                        
+                            
+                                I titoli di studio ammessi a valutazione, con i relativi punteggi, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree universitarie: punti 1,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lauree magistrali: punti 1,50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    master universitario di I livello: punti 0,30; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    master universitario di II livello: punti 0,50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma di specializzazione conseguito al termine di un corso di specializzazione istituito dalle Universita': punti 0,75; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dottorato di ricerca: punti 1,00.
 
 Non e' valutabile, fra le classi di laurea magistrale, il titolo di studio indicato dal candidato quale requisito per la partecipazione al concorso. I punteggi dei titoli di studio di cui al comma 2 sono fra loro cumulabili, ad eccezione di quelli di cui alle lettere a) e b) afferenti al medesimo corso di laurea. Il punteggio complessivo attribuibile ai titoli di studio e' pari ad un massimo di punti 2,50.
 
@@ -122,6 +346,66 @@ L'identificazione informatica dei candidati che partecipano alla procedura conco
 
 ## Art. 9. — Classi di laurea magistrale
 
+1.
+                        
+                            
+                                Le classi di laurea magistrale richieste per la partecipazione al concorso straordinario di cui all'articolo 8 sono le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fisica (LM-17); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informatica (LM-18); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ingegneria dell'automazione (LM-25); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ingegneria delle telecomunicazioni (LM-27); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ingegneria informatica (LM-32); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    matematica (LM-40); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sicurezza informatica (LM-66); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    tecniche e metodi per la societa' dell'informazione (LM-91).
+
 Ai fini dell'ammissione al concorso, sono fatte salve le lauree universitarie conseguite secondo gli ordinamenti didattici previgenti ed equiparate ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca del 9 luglio 2009 di equiparazione tra diplomi di lauree di vecchio ordinamento, lauree specialistiche (LS) ex decreto n. 509/1999 e lauree magistrali (LM) ex decreto n. 270/2004.
 
 ## Art. 10. — Prove di esame
@@ -132,6 +416,45 @@ La prova scritta verte nelle materie concernenti architettura, sviluppo e verifi
 
 Sono ammessi alla prova orale i candidati che abbiano riportato nella prova scritta una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
+4.
+                        
+                            
+                                La prova orale verte, oltre che sulle materie di cui al comma 2, sulle seguenti materie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione dei sistemi di elaborazione dati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    utilizzo dei database management system (D.B.M.S.); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sicurezza informatica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informatizzazione della pubblica amministrazione, con particolare riferimento al codice dell'amministrazione digitale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ordinamento del Ministero dell'interno, con particolare riferimento al Dipartimento, anche con riguardo all'ordinamento del personale del Corpo nazionale.
+
 La prova orale si intende superata se il candidato ottiene una votazione non inferiore a 21/30 (ventuno/trentesimi).
 
 ## Art. 11.
@@ -139,6 +462,52 @@ La prova orale si intende superata se il candidato ottiene una votazione non inf
 Titoli e anzianita' di servizio
 
 La commissione esaminatrice valuta, in base alle categorie e ai punteggi indicati nel presente articolo, i seguenti titoli: titoli di studio, abilitazioni professionali e corsi di formazione e aggiornamento professionale; valuta, altresi', secondo i punteggi di cui al comma 6, l'anzianita' di effettivo servizio.
+
+2.
+                        
+                            
+                                I titoli di studio ammessi a valutazione, con i relativi punteggi, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lauree universitarie: punti 1,00; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lauree magistrali: punti 1,50; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    master universitario di I livello: punti 0,30; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    master universitario di II livello: punti 0,50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diploma di specializzazione conseguito al termine di un corso di specializzazione istituito dalle Universita': punti 0,75; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dottorato di ricerca: punti 1,00.
 
 Non e' valutabile, fra le classi di laurea magistrale, il titolo di studio indicato dal candidato quale requisito per la partecipazione al concorso. I punteggi dei titoli di studio di cui al comma 2 sono fra loro cumulabili, ad eccezione di quelli di cui alle lettere a) e b) afferenti al medesimo corso di laurea. Il punteggio complessivo attribuibile ai titoli di studio e' pari ad un massimo di punti 2,50.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,49 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 Le agenzie fiscali procedono alla riorganizzazione delle proprie strutture in funzione del contenimento delle spese di funzionamento ai sensi dell'articolo 23-quater del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, e del riassetto dei servizi di assistenza, consulenza e controllo con l'obiettivo di facilitare gli adempimenti tributari anche grazie all'impiego di nuove e piu' avanzate forme di comunicazione con il contribuente, contribuendo a una maggiore competitivita' delle imprese italiane e favorendo l'attrattivita' degli investimenti in Italia per le imprese estere che intendono operare nel territorio nazionale. Nei programmi di riorganizzazione le agenzie, nell'ambito dello svolgimento delle funzioni loro assegnate, perseguono, inoltre, la riduzione della invasivita' dei controlli e dei connessi adempimenti secondo il principio del controllo amministrativo unico, sviluppando ulteriormente tecniche di analisi dei rischi. Le agenzie orientano, in funzione degli obiettivi istituzionali e della missione prioritaria di facilitare e promuovere l'assolvimento degli obblighi tributari, i programmi di formazione e sviluppo del personale, nonche' i criteri di determinazione dei compensi incentivanti, nel quadro della revisione del sistema delle convenzioni fra Ministro dell'economia e delle finanze e agenzie fiscali di cui all'articolo 59, comma 2, del decreto legislativo 30 luglio 1999, n. 300.
 
 Al fine di potenziare l'efficienza dell'azione amministrativa e favorire l'emersione delle basi imponibili, le convenzioni stipulate ai sensi del citato articolo 59, comma 2, stabiliscono per le agenzie fiscali specifici obiettivi di incremento del livello di adempimento spontaneo degli obblighi tributari, del livello di efficacia dell'azione di prevenzione e contrasto dell'evasione fiscale, delle frodi e degli illeciti tributari, anche mediante l'attuazione delle disposizioni dell'articolo 1, commi 634, 635 e 636, della legge 23 dicembre 2014, n. 190, e dei nuovi istituti introdotti in attuazione della legge 11 marzo 2014, n. 23.
+
+3.
+                    
+                        
+                            Per la misurazione degli obiettivi di cui al comma 2, le convenzioni di cui al comma 1 definiscono, per ciascuna agenzia fiscale: 
+ 
+                        
+                        
+                            a)
+                            
+                                indicatori della produttivita', qualita' e tempestivita' dell'attivita' svolta nelle aree di operativita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indicatori della complessiva efficacia e efficienza gestionale.
+
+4.
+                    
+                        
+                            Gli indicatori di cui al comma 3 sono definiti in base ai seguenti criteri generali: 
+ 
+                        
+                        
+                            a)
+                            
+                                rispetto dei principi di cui alla legge 27 luglio 2000, n. 212, anche con riguardo alla richiesta di documentazione gia' in possesso dell'amministrazione finanziaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                preponderanza di peso degli indicatori espressione delle attivita' volte a facilitare gli adempimenti tributari, a contribuire a una maggiore competitivita' delle imprese italiane e a favorire l'attrattivita' degli investimenti in Italia per le imprese estere che intendono operare nel territorio nazionale, nonche' delle attivita' di prevenzione e contrasto all'evasione e all'elusione fiscale, di erogazione dei servizi al contribuente e di tempestiva esecuzione dei provvedimenti di rimborso e di sgravio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tempestivita' delle direttive adottate a seguito di mutamenti legislativi e della giurisprudenza di legittimita' che possano incidere sui rapporti pendenti ai fini dell'autotutela, acquiescenza a sentenze, adesioni, mediazioni e conciliazioni giudiziali.
 
 Le convenzioni di cui al comma 1 definiscono i criteri per la redazione della mappa dei rischi operativi e per la definizione degli indicatori di rischio di non conformita' di ciascuna agenzia fiscale.
 

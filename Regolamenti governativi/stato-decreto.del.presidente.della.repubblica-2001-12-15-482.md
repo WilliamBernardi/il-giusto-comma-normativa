@@ -8,8 +8,8 @@ codice_redazionale: 002G0028
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -44,6 +44,24 @@ Le amministrazioni dello Stato emettono, nell'ambito del sistema di tesoreria de
 L'importo dei titoli di cui al comma 2 rappresenta il controvalore in euro della somma da riconoscere al creditore ed e' calcolato, dalle amministrazioni dello Stato, sulla base del cambio di riferimento noto all'atto di emissione del titolo di spesa ovvero del cambio di riferimento fisso per le amministrazioni che adottano i cambi di finanziamento.
 
 ## Art. 4. — Differenze di cambio
+
+1.
+                    
+                        
+                            Il competente Dipartimento del Ministero dell'economia e delle finanze, previe compensazioni complessive di differenze positive e negative, regola l'eventuale differenza tra i cambi utilizzati dall'amministrazione ordinante e il cambio definitivo dell'operazione:
+ 
+                        
+                        
+                            a)
+                            
+                                mediante utilizzo delle risorse assegnate nell'ambito dell'apposita unita' previsionale di base dello stato di previsione della spesa del Ministero dell'economia e delle finanze;
+
+                            
+                        
+                        
+                            b)
+                            
+                                mediante versamento all'apposita unita' previsionale di base dello stato di previsione dell'entrata del bilancio dello Stato.
 
 Ai fini dell'integrazione delle risorse da utilizzare ai sensi del comma 1, lettera a), si applica l'articolo 7, comma 2, punto 2), della legge 5 agosto 1978, n. 468.
 
@@ -82,4 +100,78 @@ In sede di prima attuazione, le misure di cui all'articolo 7, sulla definizione 
 ## Art. 9. — Abrogazioni
 
 Sono soppressi nelle disposizioni normative i riferimenti al contabile del portafoglio.
+
+2.
+                    
+                        
+                            Fatto salvo quanto previsto dall'articolo 8 sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli dal 352 al 355, l'articolo 532, terzo comma, e gli articoli dal 533 al 544 del regio decreto 23 maggio 1924, n. 827;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 1 della legge 9 dicembre 1928, n. 2783;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la legge 3 marzo 1951, n. 193, salvo l'articolo 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la legge 6 agosto 1966, n. 639;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la legge 27 dicembre 1977, n. 990;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'articolo 54, commi terzo, quarto, quinto e sesto, della legge 21 dicembre 1978, n. 843;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'articolo 1 della legge 6 febbraio 1985, n. 15, come modificato dall'articolo 1 della legge 13 luglio 1995, n. 295;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'articolo 7, comma 2, del decreto del Presidente della Repubblica 31 marzo 1988, n. 148;
+
+                            
+                        
+                        
+                            i)
+                            
+                                la legge 13 luglio 1993, n. 229;
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'articolo 21 del decreto del Presidente della Repubblica 20 aprile 1994, n. 367.
 

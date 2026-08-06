@@ -8,8 +8,8 @@ codice_redazionale: 011G0248
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -48,6 +48,24 @@ Il Fondo non puo' effettuare operazioni finanziarie finalizzate al consolidament
 ## Art. 3. — Natura dell'intervento
 
 Le operazioni finanziarie effettuate dal Fondo possono essere di natura diretta ed indiretta.
+
+2.
+                    
+                        
+                            Le operazioni finanziarie dirette consistono in: 
+ 
+                        
+                        
+                            a)
+                            
+                                assunzioni di partecipazione minoritarie; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prestiti partecipativi.
 
 Le operazioni finanziarie indirette consistono nell'acquisizione di quote di partecipazione minoritarie di altri fondi privati che investono nel capitale di rischio delle imprese di cui al successivo articolo 4.
 

@@ -8,8 +8,8 @@ codice_redazionale: 002G0106
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,11 +29,61 @@ L'atto costitutivo e lo statuto delle fondazioni si conformano alle disposizioni
 
 Il Ministero puo' partecipare al patrimonio delle fondazioni anche con il conferimento in uso dei beni culturali che ha in consegna.
 
+2.
+                    
+                        
+                            Il conferimento in uso di beni culturali e' finalizzato a conseguire almeno uno dei seguenti obiettivi:
+ 
+                        
+                        
+                            a)
+                            
+                                acquisizione di risorse finanziarie sufficienti a garantire un'adeguata conservazione dei beni culturali conferiti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                miglioramento della fruizione pubblica dei beni culturali conferiti, garantendone nel contempo l'adeguata conservazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                integrazione delle attivita' di gestione e valorizzazione dei beni culturali conferiti con quelle riguardanti i beni conferiti dagli altri partecipanti alla fondazione, incrementando nel territorio di riferimento i servizi offerti al pubblico, migliorandone la qualita' e realizzando economie di gestione.
+
 In caso di estinzione della fondazione, i beni culturali concessi in uso dal Ministero ritornano nella disponibilita' di quest'ultimo. Per la definizione di ogni altro rapporto giuridico con le fondazioni, si applicano le disposizioni di legge e del codice civile.
 
 Fermo quanto disposto al comma 3, l'atto costitutivo o lo statuto indicano i criteri di devoluzione del patrimonio residuo dopo la liquidazione.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Il patrimonio della fondazione e' costituito da:
+ 
+                        
+                        
+                            a)
+                            
+                                i beni mobili ed immobili di cui e' proprietaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i diritti d'uso sui beni mobili ed immobili concessi dal Ministero;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i lasciti, le donazioni e le erogazioni di qualsiasi genere, destinati dal disponente ad incremento del patrimonio stesso.
 
 Il patrimonio della fondazione e' totalmente vincolato al perseguimento degli scopi statutari.
 
@@ -57,6 +107,31 @@ L'organo con funzioni di indirizzo determina, in conformita' agli scopi statutar
 
 Lo statuto prevede che tale organo sia sempre competente in materia di approvazione del bilancio, di modificazione dello statuto e dei regolamenti interni, di nomina e revoca degli organi di amministrazione e di consulenza scientifica.
 
+3.
+                    
+                        
+                            Lo statuto determina la composizione di tale organo:
+ 
+                        
+                        
+                            a)
+                            
+                                assicurando l'apporto di personalita' che, per professionalita', competenza ed esperienza, in particolare nei settori di attivita' della fondazione, possano efficacemente contribuire al perseguimento dei fini istituzionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                prevedendo un numero di componenti idoneo ad assicurare l'efficace esercizio dei relativi compiti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                stabilendo modalita' di designazione e di nomina dirette a consentire un'equilibrata rappresentanza di ciascuno dei soggetti che partecipano alla fondazione, anche in funzione dell'entita' dei rispettivi conferimenti.
+
 ## Art. 7.
 
 L'organo con funzioni di amministrazione svolge i compiti di gestione della fondazione, nonche' di proposta e di impulso in merito agli obiettivi e programmi di attivita' della fondazione.
@@ -72,6 +147,24 @@ L'organo con funzioni di consulenza scientifica si pronuncia in ordine ai progra
 L'organo di consulenza scientifica segnala al Ministero le attivita' della fondazione difformi rispetto al conseguimento degli obiettivi indicati all'articolo 2, proponendo nei casi piu' gravi la revoca della concessione d'uso dei beni culturali conferiti.
 
 Le funzioni di consulenza scientifica sono svolte dal Comitato scientifico, salvo che lo statuto non preveda anche ulteriori organi.
+
+4.
+                    
+                        
+                            Lo statuto determina la composizione del Comitato scientifico:
+ 
+                        
+                        
+                            a)
+                            
+                                assicurando l'apporto di personalita' di riconosciuto prestigio nel campo della cultura e dell'arte che, per professionalita', competenza ed esperienza, in particolare nei settori di attivita' della fondazione, possano efficacemente contribuire al perseguimento dei fini istituzionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                prevedendo un numero di componenti idoneo ad assicurare l'efficace esercizio dei relativi compiti.
 
 ## Art. 9.
 
@@ -89,6 +182,38 @@ Lo statuto determina la composizione dell'organo di controllo, prevedendo in ogn
 
 ## Art. 11.
 
+1.
+                    
+                        
+                            La fondazione provvede ai suoi compiti con:
+ 
+                        
+                        
+                            a)
+                            
+                                i redditi del patrimonio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contributi ed assegnazioni, anche a titolo di sponsorizzazione, di soggetti privati, italiani e stranieri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i proventi di gestione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                altre entrate, derivanti dall'esercizio delle attivita' indicate nei commi 2 e 3.
+
 La fondazione puo' svolgere direttamente i servizi previsti dall'articolo 112 del decreto legislativo 29 ottobre 1999, n. 490.
 
 La fondazione non puo' in alcun caso distribuire o assegnare quote di utili, di patrimonio ovvero qualsiasi altra forma di utilita' economica.
@@ -100,6 +225,62 @@ Il bilancio delle fondazioni e' costituito dai documenti previsti dall'articolo 
 Le fondazioni predispongono contabilita' separate con riguardo all'attivita' di impresa esercitata direttamente a norma dell'articolo 11.
 
 ## Art. 13.
+
+1.
+                    
+                        
+                            Il Ministero esercita la vigilanza sulle fondazioni oggetto del presente regolamento. In particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                approva le modificazioni statutarie, con provvedimento da emanarsi entro sessanta giorni dal ricevimento della relativa documentazione; decorso tale termine le modificazioni si intendono approvate. Qualora siano formulate osservazioni il termine e' interrotto e ricomincia a decorrere dalla data di ricevimento della risposta da parte della fondazione interessata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                adotta atti di indirizzo di carattere generale aventi ad oggetto, tra l'altro:
+ 1) i criteri ed i requisiti relativi alla partecipazione di soggetti privati alla fondazione;
+ 2) i requisiti di professionalita' e onorabilita', le ipotesi di incompatibilita' e le cause che determinano la sospensione temporanea dalla carica dei componenti degli organi delle fondazioni, nonche' la disciplina del conflitto di interessi;
+ 3) i parametri di adeguatezza delle spese di funzionamento in base a criteri di efficienza e di sana e prudente gestione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                puo' effettuare ispezioni e chiedere la comunicazione di dati e notizie ovvero l'esibizione dei documenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esercita il potere di annullamento previsto dall'articolo 25 del codice civile;
+
+                            
+                        
+                        
+                            e)
+                            
+                                puo' disporre, anche limitatamente a determinate tipologie o categorie di fondazioni di maggiore rilevanza, che i bilanci siano sottoposti a revisione e certificazione ai sensi delle disposizioni di cui al decreto legislativo 24 febbraio 1998, n. 58;
+
+                            
+                        
+                        
+                            f)
+                            
+                                puo' sospendere temporaneamente gli organi di amministrazione e di controllo e nominare un commissario per il compimento di atti specifici necessari per il rispetto delle norme di legge, dello statuto e delle disposizioni ed atti di indirizzo di carattere generale emanati dallo stesso Ministero, al fine di assicurare il regolare andamento dell'attivita' della fondazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                puo' disporre, su indicazione dell'organo di controllo o del comitato scientifico, la revoca della concessione d'uso dei beni culturali conferiti.
 
 ## Art. 14.
 

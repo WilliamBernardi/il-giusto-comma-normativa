@@ -8,8 +8,8 @@ codice_redazionale: 092G0446
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,9 +27,88 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 23 lu
 
 Entro il 20 ottobre 1992 i concessionari del servizio di riscossione dei tributi devono trasmettere, ai rispettivi uffici finanziari od ai diversi enti impositori che hanno fatto loro pervenire, con apposito verbale di consegna, le domande di cui alle lettere a) e b) del comma 2 dell'art. 17 della legge 30 dicembre 1991, n. 413, un elenco con gli elementi identificativi degli atti con i quali i contribuenti il cui debito d'imposta risulta iscritto a ruolo entro il 31 dicembre 1989, dichiarano di avvalersi della procedura di definizione automatica per l'estinzione del proprio debito, nonche' gli elementi identificativi dei versamenti effettuati dai contribuenti stessi.
 
+2.
+                    
+                        
+                            Gli elenchi di cui al comma 1, dovranno contenere, per ciascun contribuente che si avvale della procedura di definizione automatica, i sottoelencati elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                dati anagrafici, residenza e numero di codice fiscale del contribuente o del suo rappresentante;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero e data di presentazione delle domande di rimborso o di discarico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                data di emissione del ruolo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli importi iscritti a ruolo ancora dovuti al
+1 gennaio 1992, con l'indicazione sia del debito d'imposta che dell'importo complessivo dovuto per interessi, sopratasse, pene pecuniarie ed altre competenze accessorie;
+
+                            
+                        
+                        
+                            e)
+                            
+                                importi determinati sulla base delle percentuali previste dalla procedura di definizione automatica;
+
+                            
+                        
+                        
+                            f)
+                            
+                                data e importo dei versamenti effettuati.
+
 ## Art. 2.
 
 I concessionari del servizio di riscossione dei tributi devono trasmettere, entro il 20 ottobre 1992, in duplice copia, alle intendenze di finanza territorialmente competenti un elenco delle quote per le quali e' prevista la ripresa degli atti esecutivi.
+
+2.
+                    
+                        
+                            Gli elenchi di cui al precedente comma 1 devono indicare i sottoelencati elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                dati anagrafici, residenza e numero di codice fiscale del contribuente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero e data di presentazione delle domande di rimborso o di discarico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                data di emissione del ruolo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'importo iscritto a ruolo ancora dovuto per il quale e' prevista la ripresa degli atti esecutivi.
 
 Un esemplare dell'elenco di cui al comma 1, deve essere restituito, debitamente vistato dalla competente intendenza di finanza, al concessionario cui compete l'espletamento degli adempimenti previsti al successivo art. 8.
 

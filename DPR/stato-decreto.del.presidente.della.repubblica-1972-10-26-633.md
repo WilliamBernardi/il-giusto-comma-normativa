@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-05-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -103,6 +103,24 @@ Costituiscono cessioni di beni gli atti a titolo oneroso che importano trasferim
 ## Art. 2-bis. — (( (Cessioni di beni facilitate dalle interfacce elettroniche). ))
 
 ((
+
+1.
+                        
+                            
+                                Le seguenti cessioni di beni si considerano effettuate dal soggetto passivo che facilita le stesse tramite l'uso di un'interfaccia elettronica, quale un mercato virtuale, una piattaforma, un portale o mezzi analoghi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le vendite a distanza intracomunitarie di beni di cui all'articolo 38-bis, commi 1 e 3, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, e le cessioni di beni con partenza e arrivo della spedizione o del trasporto nel territorio dello stesso Stato membro a destinazione di non soggetti passivi, effettuate da soggetti passivi non stabiliti nell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le vendite a distanza di beni importati da territori terzi o da paesi terzi, di cui all'articolo 38-bis, commi 2 e 3, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, in spedizioni di valore intrinseco non superiore a 150 euro.
 
 2. Il soggetto passivo che facilita tramite l'uso di un'interfaccia elettronica le cessioni di beni di cui al comma 1 si considera cessionario e rivenditore di detti beni.))
 
@@ -386,6 +404,66 @@ La cessione di beni o la prestazione di servizi a cui il buono-corrispettivo mul
 
 ## Art. 7. — (Territorialita' dell'imposta - Definizioni).
 
+1.
+                        
+                            
+                                Agli effetti del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per "Stato" o "territorio dello Stato" si intende il territorio della Repubblica italiana, con esclusione dei comuni di Livigno e Campione d'Italia e delle acque italiane del Lago di Lugano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per "Comunita'" o "territorio della Comunita'" si intende il territorio corrispondente al campo di applicazione del Trattato sul funzionamento dell'Unione europea con le seguenti esclusioni oltre quella indicata nella lettera a): (139) 
+ 1) per la Repubblica ellenica, il Monte Athos; 
+ 2) per la Repubblica federale di Germania, l'isola di Helgoland ed il territorio di Büsingen; 
+ ((3) per la Repubblica francese, i territori francesi di cui all'articolo 349 e all'articolo 355, paragrafo 1, del Trattato sul funzionamento dell'Unione europea;)) 
+ 4) per il Regno di Spagna, Ceuta, Melilla e le isole Canarie; 
+ 5) per la Repubblica di Finlandia, le isole Åland; 
+ 6) le isole Anglo-Normanne; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Principato di Monaco, l'isola di Man e le zone di sovranita' del Regno Unito di Akrotiri e Dhekelia si intendono compresi nel territorio rispettivamente della Repubblica francese, del Regno Unito di Gran Bretagna e Irlanda del Nord e della Repubblica di Cipro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per "soggetto passivo stabilito nel territorio dello Stato" si intende un soggetto passivo domiciliato nel territorio dello Stato o ivi residente che non abbia stabilito il domicilio all'estero, ovvero una stabile organizzazione nel territorio dello Stato di soggetto domiciliato e residente all'estero, limitatamente alle operazioni da essa rese o ricevute. Per i soggetti diversi dalle persone fisiche si considera domicilio il luogo in cui si trova la sede legale e residenza quello in cui si trova la sede effettiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per "parte di un trasporto di passeggeri effettuata all'interno della Comunita'", si intende la parte di trasporto che non prevede uno scalo fuori della Comunita' tra il luogo di partenza e quello di arrivo del trasporto passeggeri; "luogo di partenza di un trasporto passeggeri", e' il primo punto di imbarco di passeggeri previsto nella Comunita', eventualmente dopo uno scalo fuori della Comunita'; "luogo di arrivo di un trasporto passeggeri", e' l'ultimo punto di sbarco previsto nella Comunita', per passeggeri imbarcati nella Comunita', eventualmente prima di uno scalo fuori della Comunita'; per il trasporto andata e ritorno, il percorso di ritorno e' considerato come un trasporto distinto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per "trasporto intracomunitario di beni" si intende il trasporto di beni il cui luogo di partenza e il cui luogo di arrivo sono situati nel territorio di due Stati membri diversi. "Luogo di partenza" e' il luogo in cui inizia effettivamente il trasporto dei beni, senza tener conto dei tragitti compiuti per recarsi nel luogo in cui si trovano i beni; "luogo di arrivo" e' il luogo in cui il trasporto dei beni si conclude effettivamente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per "locazione, anche finanziaria, noleggio e simili, a breve termine di mezzi di trasporto" si intende il possesso o l'uso ininterrotto del mezzo di trasporto per un periodo non superiore a trenta giorni ovvero a novanta giorni per i natanti. 
+ (149)
+
 ---------------
                             AGGIORNAMENTO (149)
                             
@@ -401,6 +479,26 @@ Le cessioni di beni, diverse da quelle di cui ai commi 2 e 3, si considerano eff
 
 Le cessioni di beni a bordo di una nave, di un aereo o di un treno nel corso della parte di un trasporto di passeggeri effettuata all'interno della Comunita', si considerano effettuate nel territorio dello Stato se il luogo di partenza del trasporto e' ivi situato.
 
+3.
+                        
+                            
+                                
+                                    ((Le cessioni di gas attraverso un sistema di gas naturale situato nel territorio dell'Unione o una rete connessa a tale sistema, le cessioni di energia elettrica e le cessioni di calore o di freddo mediante le reti di riscaldamento o di raffreddamento)) si considerano effettuate nel territorio dello Stato: ((139))
+                                
+                            
+                            
+                                a)
+                                
+                                    quando il cessionario e' un soggetto passivo-rivenditore stabilito nel territorio dello Stato. Per soggetto passivo-rivenditore si intende un soggetto passivo la cui principale attivita' in relazione all'acquisto ((di gas, di energia elettrica, di calore o di freddo)) e' costituita dalla rivendita di detti beni ed il cui consumo personale di detti prodotti e' trascurabile; ((139))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    quando il cessionario e' un soggetto diverso dal rivenditore, se i beni sono usati o consumati nel territorio dello Stato. Se la totalita' o parte dei beni non e' di fatto utilizzata dal cessionario, limitatamente alla parte non usata o non consumata, le cessioni anzidette si considerano comunque effettuate nel territorio dello Stato quando sono poste in essere nei confronti di soggetti, compresi quelli che non agiscono nell'esercizio di impresa, arte o professioni, stabiliti nel territorio dello Stato; non si considerano effettuate nel territorio dello Stato le cessioni poste in essere nei confronti di stabili organizzazioni all'estero, per le quali sono effettuati gli acquisti da parte di soggetti domiciliati o residenti in Italia. 
+ (129)
+
 ---------------
                             AGGIORNAMENTO (129)
                             
@@ -414,6 +512,24 @@ Le cessioni di beni a bordo di una nave, di un aereo o di un treno nel corso del
 ## Art. 7-ter. — (( (Territorialita' - Prestazioni di servizi). ))
 
 ((
+
+1.
+                        
+                            
+                                Le prestazioni di servizi si considerano effettuate nel territorio dello Stato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando sono rese a soggetti passivi stabiliti nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando sono rese a committenti non soggetti passivi da soggetti passivi stabiliti nel territorio dello Stato.
 
 2. Ai fini dell'applicazione delle disposizioni relative al luogo di effettuazione delle prestazioni di servizi, si considerano soggetti passivi per le prestazioni di servizi ad essi rese:
 
@@ -432,6 +548,45 @@ c) gli enti, le associazioni e le altre organizzazioni, non soggetti passivi, id
 
 ## Art. 7-quater. — Territorialita' - Disposizioni relative a particolari prestazioni di servizi).
 
+1.
+                        
+                            
+                                In deroga a quanto stabilito dall'articolo 7-ter, comma 1, si considerano effettuate nel territorio dello Stato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le prestazioni di servizi relativi a beni immobili, comprese le perizie, le prestazioni di agenzia, la fornitura di alloggio nel settore alberghiero o in settori con funzioni analoghe, ivi inclusa quella di alloggi in campi di vacanza o in terreni attrezzati per il campeggio, la concessione di diritti di utilizzazione di beni immobili e le prestazioni inerenti alla preparazione e al coordinamento dell'esecuzione dei lavori immobiliari, quando l'immobile e' situato nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le prestazioni di trasporto di passeggeri, in proporzione alla distanza percorsa nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le prestazioni di servizi di ristorazione e di catering diverse da quelle di cui alla successiva lettera d), quando sono materialmente eseguite nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le prestazioni di ristorazione e di catering materialmente rese a bordo di una nave, di un aereo o di un treno nel corso della parte di un trasporto di passeggeri effettuata all'interno della Comunita', se il luogo di partenza del trasporto e' situato nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le prestazioni di servizi di locazione, anche finanziaria, noleggio e simili, a breve termine, di mezzi di trasporto quando gli stessi sono messi a disposizione del destinatario nel territorio dello Stato e sempre che siano utilizzate all'interno del territorio della Comunita'. Le medesime prestazioni si considerano effettuate nel territorio dello Stato quando i mezzi di trasporto sono messi a disposizione del destinatario al di fuori del territorio della Comunita' e sono utilizzati nel territorio dello Stato. (129) (201) ((204))
+
 --------------
                             AGGIORNAMENTO (129)
                             
@@ -448,12 +603,95 @@ c) gli enti, le associazioni e le altre organizzazioni, non soggetti passivi, id
 
 ## Art. 7-quinquies. — Territorialita' - Disposizioni relative alle prestazioni di servizi culturali, artistici, sportivi, scientifici, educativi, ricreativi e simili).
 
+1.
+                        
+                            
+                                In deroga a quanto stabilito dall'articolo 7-ter, comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le prestazioni di servizi relativi ad attivita' culturali, artistiche, sportive, scientifiche, educative, ricreative e simili, ivi comprese fiere ed esposizioni, le prestazioni di servizi degli organizzatori di dette attivita', nonche' le prestazioni di servizi accessorie alle precedenti rese a committenti non soggetti passivi, si considerano effettuate nel territorio dello Stato quando le medesime attivita' sono ivi materialmente svolte. La disposizione del periodo precedente si applica anche alle prestazioni di servizi per l'accesso alle manifestazioni culturali, artistiche, sportive, scientifiche, educative, ricreative e simili, nonche' alle relative ((prestazioni accessorie. Se i servizi e i servizi accessori si riferiscono ad attivita' che sono trasmesse in streaming o altrimenti rese virtualmente disponibili, le prestazioni si considerano effettuate nel territorio dello Stato se il committente e' domiciliato nel territorio dello Stato o e' ivi residente senza domicilio all'estero;))
+                                        ((237))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    le prestazioni di servizi per l'accesso a manifestazioni culturali, artistiche, sportive, scientifiche, educative, ricreative e simili, ivi comprese fiere ed esposizioni, nonche' le prestazioni di servizi accessorie connesse con l'accesso, rese a committenti soggetti passivi si considerano effettuate nel territorio dello Stato quando ivi si svolgono le manifestazioni stesse. ((La disposizione del primo periodo non si applica all'ammissione agli eventi se la presenza e' virtuale.))
+                                        ((237))
+
 -------------
                             AGGIORNAMENTO (237)
                             
  Il D.Lgs. 13 novembre 2024, n. 180, ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 1° gennaio 2025".
 
 ## Art. 7-sexies. — Territorialita' - Disposizioni speciali relative a talune prestazioni di servizi rese a committenti non soggetti passivi).
+
+1.
+                        
+                            
+                                In deroga a quanto stabilito dall'articolo 7-ter, comma 1, lettera b), si considerano effettuate nel territorio dello Stato se rese a committenti non soggetti passivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le prestazioni di intermediazione in nome e per conto del cliente, quando le operazioni oggetto dell'intermediazione si considerano effettuate nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le prestazioni di trasporto di beni diverse dal trasporto intracomunitario, in proporzione alla distanza percorsa nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le prestazioni di trasporto intracomunitario di beni, quando la relativa esecuzione ha inizio nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le prestazioni di lavorazione, nonche' le perizie, relative a beni mobili materiali e le operazioni rese in attivita' accessorie ai trasporti, quali quelle di carico, scarico, movimentazione e simili, quando sono eseguite nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le prestazioni di servizi di locazione, anche finanziaria, noleggio e simili, non a breve termine, di mezzi di trasporto diversi dalle imbarcazioni da diporto, quando il committente e' domiciliato nel territorio dello Stato o ivi residente senza domicilio all'estero e sempre che siano utilizzate nel territorio della Comunita'. Le medesime prestazioni se rese ad un soggetto domiciliato e residente al di fuori del territorio della Comunita' si considerano effettuate nel territorio dello Stato quando sono ivi utilizzate; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    le prestazioni di cui alla lettera e) relative ad imbarcazioni da diporto, sempre che l'imbarcazione sia effettivamente messa a disposizione nel territorio dello Stato e la prestazione sia resa da soggetti passivi ivi stabiliti e sia utilizzata nel territorio della Comunita'. Le medesime prestazioni, se l'imbarcazione da diporto e' messa a disposizione in uno Stato estero fuori della Comunita' ed il prestatore e' stabilito in quello stesso Stato, si considerano effettuate nel territorio dello Stato quando sono ivi utilizzate. Alle medesime prestazioni, quando l'imbarcazione da diporto e' messa a disposizione in uno Stato diverso da quello di stabilimento del prestatore, si applica la lettera e); ((204))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 1 GIUGNO 2020, N. 45; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 1 GIUGNO 2020, N. 45. 
+ 
+ 
+ (129)
 
 -------------
                             AGGIORNAMENTO (129)
@@ -471,6 +709,89 @@ c) gli enti, le associazioni e le altre organizzazioni, non soggetti passivi, id
 
 ## Art. 7-septies. — Territorialita' - Disposizioni relative a talune prestazioni di servizi rese a non soggetti passivi stabiliti fuori della Comunita').
 
+1.
+                        
+                            
+                                In deroga a quanto stabilito dall'articolo 7-ter, comma 1, lettera b), non si considerano effettuate nel territorio dello Stato le seguenti prestazioni di servizi, quando sono rese a committenti non soggetti passivi domiciliati e residenti fuori della Comunita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    le prestazioni di servizi di cui all'articolo 3, secondo comma, numero 2); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le prestazioni pubblicitarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le prestazioni di consulenza e assistenza tecnica o legale nonche' quelle di elaborazione e fornitura di dati e simili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le operazioni bancarie, finanziarie ed assicurative, comprese le operazioni di riassicurazione ed escluse le locazioni di casseforti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la messa a disposizione del personale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le prestazioni derivanti da contratti di locazione, anche finanziaria, noleggio e simili di beni mobili materiali diversi dai mezzi di trasporto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la concessione dell'accesso a un sistema di gas naturale situato nel territorio dell'Unione o a una rete connessa a un tale sistema, al sistema dell'energia elettrica, alle reti di riscaldamento o di raffreddamento, il servizio di trasmissione o distribuzione mediante tali sistemi o reti e la prestazione di altri servizi direttamente collegati; (139) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 31 MARZO 2015, N. 42)); ((154))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 31 MARZO 2015, N. 42)); ((154))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    le prestazioni di servizi inerenti all'obbligo di non esercitare interamente o parzialmente un'attivita' o un diritto di cui alle lettere precedenti. 
+ 
+ (129) 
+ 
+----------------
+ 
+AGGIORNAMENTO (129) 
+ Il D.Lgs. 11 febbraio 2010, n. 18 ha disposto con (l'art. 5, comma 1) che "Le disposizioni di cui all'articolo 1, con esclusione di quelle di cui al comma 1, lettere t) ed u), quelle di cui all'articolo 2 e all'articolo 4 si applicano alle operazioni effettuate dal 1° gennaio 2010".
+
 -------------
                             AGGIORNAMENTO (139)
                             
@@ -481,6 +802,74 @@ c) gli enti, le associazioni e le altre organizzazioni, non soggetti passivi, id
  Il D.Lgs. 31 marzo 2015, n. 42 ha disposto (con l'art. 8, comma 1) che "Le disposizioni del presente decreto si applicano alle operazioni effettuate a partire dal 1° gennaio 2015".
 
 ## Art. 7-octies. — (Territorialita' - Disposizioni relative alle prestazioni di servizi di telecomunicazione, di teleradiodiffusione ed elettronici rese a committenti non soggetti passivi)
+
+1.
+                        
+                            
+                                In deroga a quanto stabilito dall'articolo 7-ter, comma 1, lettera b), si considerano effettuate nel territorio dello Stato se rese a committenti non soggetti passivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le prestazioni di servizi rese tramite mezzi elettronici, quando il committente e' domiciliato nel territorio dello Stato o ivi residente senza domicilio all'estero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le prestazioni di telecomunicazione e di teleradiodiffusione, quando il committente e' domiciliato nel territorio dello Stato o ivi residente senza domicilio all'estero e sempre che siano utilizzate nel territorio dell'Unione europea.
+
+2.
+                        
+                            
+                                Qualora il prestatore sia un soggetto passivo stabilito in un altro Stato membro dell'Unione europea, la disposizione di cui al comma 1 non si applica, per i servizi resi a committenti stabiliti nel territorio dello Stato, ove concorrano unitariamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il prestatore non e' stabilito anche in un altro Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare complessivo, al netto dell'imposta sul valore aggiunto, delle prestazioni di servizi nei confronti di committenti non soggetti passivi stabiliti in Stati membri dell'Unione europea diversi da quello di stabilimento del prestatore ((e delle vendite a distanza intracomunitarie di beni nell'Unione europea, di cui all'articolo 38-bis, commi 1 e 3, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427)), effettuate nell'anno solare precedente, non ha superato 10.000 euro e fino a quando, nell'anno in corso, tale limite non e' superato; ((209))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    il prestatore non ha optato per l'applicazione dell'imposta nel territorio dello Stato.
+
+3.
+                        
+                            
+                                Qualora il prestatore sia un soggetto passivo stabilito nel territorio dello Stato, la disposizione di cui al comma 1 non si applica, per i servizi resi a committenti stabiliti in un altro Stato membro dell'Unione europea, ove concorrano unitariamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il prestatore non e' stabilito anche in un altro Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare complessivo, al netto dell'imposta sul valore aggiunto, delle prestazioni di servizi nei confronti di committenti non soggetti passivi stabiliti in Stati membri dell'Unione europea diversi dall'Italia ((e delle vendite a distanza intracomunitarie di beni nell'Unione europea di cui all'articolo 38-bis, commi 1 e 3, del decreto-legge 30 agosto 1993, n. 331, convertito dalla legge 29 ottobre 1993, n. 427)), effettuate nell'anno solare precedente, non ha superato 10.000 euro e fino a quando, nell'anno in corso, tale limite non e' superato; ((209))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    il prestatore non ha optato per l'applicazione dell'imposta nell'altro Stato membro.
 
 L'opzione di cui al comma 3 e' comunicata all'ufficio nella dichiarazione relativa all'anno in cui la medesima e' stata esercitata e ha effetto fino a quando non sia revocata e comunque per almeno due anni.
 
@@ -840,6 +1229,79 @@ Il trasporto, la posa in opera, l'imballaggio, il confezionamento, la fornitura 
 
 La base imponibile delle cessioni di beni e delle prestazioni di servizi e` costituita dall'ammontare complessivo dei corrispettivi dovuti al cedente o prestatore secondo le condizioni contrattuali, compresi gli oneri e le spese inerenti all'esecuzione e i debiti o altri oneri verso terzi accollati al cessionario o al committente, aumentato delle integrazioni direttamente connesse con i corrispettivi dovuti da altri soggetti.
 
+2.
+                        
+                            
+                                Agli effetti del comma 1 i corrispettivi sono costituiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le cessioni di beni e le prestazioni di servizi dipendenti da atto della pubblica autorita`, dall'indennizzo comunque denominato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i passaggi di beni dal committente al commissionario o dal commissionario al committente, di cui al numero 3) del secondo comma dell'articolo 2, rispettivamente dal prezzo di vendita pattuito dal commissionario, diminuito della provvigione, e dal prezzo di acquisto pattuito dal commissionario, aumentato della provvigione; per le prestazioni di servizi rese o ricevute dai mandatari senza rappresentanza, di cui al terzo periodo del terzo comma dell'articolo 3, rispettivamente dal prezzo di fornitura del servizio pattuito dal mandatario, diminuito della provvigione, e dal prezzo di acquisto del servizio ricevuto dal mandatario, aumentato della provvigione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le cessioni indicate ai numeri 4), 5) e 6) del secondo comma dell'articolo 2, dal prezzo di acquisto o, in mancanza, dal prezzo di costo dei beni o di beni simili, determinati nel momento in cui si effettuano tali operazioni; per le prestazioni di servizi di cui al primo e al secondo periodo del terzo comma dell'articolo 3 nonche' per quelle di cui al terzo periodo del sesto comma dell'articolo 6, dalle spese sostenute dal soggetto passivo per l'esecuzione dei servizi medesimi; (139) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((per le cessioni e le prestazioni di servizi di cui all'articolo 11, dal valore monetario dei beni e dei servizi che formano oggetto di ciascuna di esse, come determinato dal contratto.
+In ogni caso, tale valore non puo' essere inferiore all'ammontare complessivo dei costi riferibili alle cessioni effettuate e alle prestazioni rese da ciascuna delle parti, determinato nel momento in cui si effettuano dette operazioni)). (256) (257) ((260))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    per le cessioni di beni vincolati al regime della temporanea importazione, dal corrispettivo della cessione diminuito del valore accertato dall'ufficio doganale all'atto della temporanea importazione.
+
+3.
+                        
+                            
+                                In deroga al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le operazioni imponibili effettuate nei confronti di un soggetto per il quale l'esercizio del diritto alla detrazione e` limitato a norma del comma 5 dell'articolo 19, anche per effetto dell'opzione di cui all'articolo 36-bis, la base imponibile e` costituita dal valore normale dei beni e dei servizi se e` dovuto un corrispettivo inferiore a tale valore e se le operazioni sono effettuate da societa` che direttamente o indirettamente controllano tale soggetto, ne sono controllate o sono controllate dalla stessa societa` che controlla il predetto soggetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le operazioni esenti effettuate da un soggetto per il quale l'esercizio del diritto alla detrazione e` limitato a norma del comma 5 dell'articolo 19, la base imponibile e` costituita dal valore normale dei beni e dei servizi se e` dovuto un corrispettivo inferiore a tale valore e se le operazioni sono effettuate nei confronti di societa` che direttamente o indirettamente controllano tale soggetto, ne sono controllate o sono controllate dalla stessa societa` che controlla il predetto soggetto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le operazioni imponibili, nonche´ per quelle assimilate agli effetti del diritto alla detrazione, effettuate da un soggetto per il quale l'esercizio del diritto alla detrazione e` limitato a norma del comma 5 dell'articolo 19, la base imponibile e` costituita dal valore normale dei beni e dei servizi se e` dovuto un corrispettivo superiore a tale valore e se le operazioni sono effettuate nei confronti di societa` che direttamente o indirettamente controllano tale soggetto, ne sono controllate o sono controllate dalla stessa societa` che controlla il predetto soggetto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la messa a disposizione di veicoli stradali a motore nonche´ delle apparecchiature terminali per il servizio radiomobile pubblico terrestre di telecomunicazioni e delle relative prestazioni di gestione effettuata dal datore di lavoro nei confronti del proprio personale dipendente la base imponibile e` costituita dal valore normale dei servizi se e` dovuto un corrispettivo inferiore a tale valore.
+
 Ai fini della determinazione della base imponibile i corrispettivi dovuti e le spese e gli oneri sostenuti in valuta estera sono computati secondo il cambio del giorno di effettuazione dell'operazione o, in mancanza di tale indicazione nella fattura, del giorno di emissione della fattura. In mancanza, il computo e' effettuato sulla base della quotazione del giorno antecedente piu' prossimo. La conversione in euro, per tutte le operazioni effettuate nell'anno solare, puo' essere fatta sulla base del tasso di cambio pubblicato dalla Banca centrale europea. (144)
 
 Per le cessioni che hanno per oggetto beni per il cui acquisto o importazione la detrazione e` stata ridotta ai sensi dell'articolo 19-bis.1 o di altre disposizioni di indetraibilita` oggettiva, la base imponibile e` determinata moltiplicando per la percentuale detraibile ai sensi di tali disposizioni l'importo determinato ai sensi dei commi precedenti.
@@ -885,6 +1347,24 @@ Non si fa luogo, in ogni caso, a rimborsi d'imposta o a variazioni rispetto all'
 ((
 
 Per valore normale si intende l'intero importo che il cessionario o il committente, al medesimo stadio di commercializzazione di quello in cui avviene la cessione di beni o la prestazione di servizi, dovrebbe pagare, in condizioni di libera concorrenza, ad un cedente o prestatore indipendente per ottenere i beni o servizi in questione nel tempo e nel luogo di tale cessione o prestazione.
+
+2.
+                        
+                            
+                                Qualora non siano accertabili cessioni di beni o prestazioni di servizi analoghe, per valore normale si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le cessioni di beni, il prezzo di acquisto dei beni o di beni simili o, in mancanza, il prezzo di costo, determinati nel momento in cui si effettuano tali operazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le prestazioni di servizi, le spese sostenute dal soggetto passivo per l'esecuzione dei servizi medesimi.
 
 3. Per le operazioni indicate nell'articolo 13, comma 3, lettera d), con decreto del Ministro dell'economia e delle finanze sono stabiliti appositi criteri per l'individuazione del valore normale))
 
@@ -1008,6 +1488,41 @@ I soggetti passivi che intendano acquistare servizi di pubblicita' e link sponso
 
 Per le cessioni di beni e per le prestazioni di servizi effettuate nei confronti di amministrazioni pubbliche, come definite dall'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196, e successive modificazioni e integrazioni, per le quali i cessionari o committenti non sono debitori d'imposta ai sensi delle disposizioni in materia d'imposta sul valore aggiunto, l'imposta e' in ogni caso versata dai medesimi secondo modalita' e termini fissati con decreto del Ministro dell'economia e delle finanze.
 
+1-bis.
+                        
+                            
+                                Le disposizioni di cui al comma 1 si applicano anche alle operazioni effettuate nei confronti dei seguenti soggetti: 
+ 0a) enti pubblici economici nazionali, regionali e locali, comprese le aziende speciali e le aziende pubbliche di servizi alla persona; 
+ 0b) fondazioni partecipate da amministrazioni pubbliche di cui al comma 1 per una percentuale complessiva del fondo di dotazione non inferiore al 70 per cento; 
+ 
+                            
+                            
+                                a)
+                                
+                                    societa' controllate, ai sensi dell'articolo 2359, primo comma, n. 2), del codice civile, direttamente dalla Presidenza del Consiglio dei ministri e dai Ministeri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    societa' controllate direttamente o indirettamente, ai sensi dell'articolo 2359, primo comma, n. 1), del codice civile, da amministrazioni pubbliche di cui al comma 1 o da enti e societa' di cui alle lettere 0a), 0b), a) e c); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    societa' partecipate, per una percentuale complessiva del capitale non inferiore al 70 per cento, da amministrazioni pubbliche di cui al comma 1 o da enti e societa' di cui alle lettere 0a), 0b), a) e b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.L. 17 GIUGNO 2025, N. 84)). (182) ((247))
+
 Le disposizioni del presente articolo si applicano fino al termine di scadenza della misura speciale di deroga rilasciata dal Consiglio dell'Unione europea ai sensi dell'articolo 395 della direttiva 2006/112/CE.
 
 A richiesta dei cedenti o prestatori, i cessionari o i committenti di cui ai commi 1 e 1-bis devono rilasciare un documento attestante la loro riconducibilita' a soggetti per i quali si applicano le disposizioni del presente articolo. I cedenti e prestatori in possesso di tale attestazione sono tenuti all'applicazione del regime di cui al presente articolo.
@@ -1061,6 +1576,66 @@ che le presenti modifiche hanno effetto dal 1 gennaio 1975.
 Per la determinazione dell'imposta dovuta a norma del primo comma dell'articolo 17 o dell'eccedenza di cui al secondo comma dell'articolo 30, e' detraibile dall'ammontare dell'imposta relativa alle operazioni effettuate, quello dell'imposta assolta o dovuta dal soggetto passivo o a lui addebitata a titolo di rivalsa in relazione ai beni ed ai servizi importati o acquistati nell'esercizio dell'impresa, arte o professione. Il diritto alla detrazione dell'imposta relativa ai beni e servizi acquistati o importati sorge nel momento in cui l'imposta diviene esigibile ed e' esercitato al piu' tardi con la dichiarazione relativa all' anno in cui il diritto alla detrazione e' sorto ed alle condizioni esistenti al momento della nascita del diritto medesimo. (186a)
 
 Non e' detraibile l'imposta relativa all'acquisto o all'mportazione di beni e servizi afferenti operazioni esenti o comunque non soggette all'imposta, salvo il disposto dell'articolo 19-bis2. In nessun caso e' detraibile l'imposta relativa all'acquisto o all'importazione di beni o servizi utilizzati per l'effettuazione di manifestazioni a premio.(106a) (181a)
+
+3.
+                        
+                            
+                                La indetraibilita' di cui al comma 2 non si applica se le operazioni ivi indicate sono costituite da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    operazioni di cui agli articoli 8, 8-bis e 9 o a queste assim- ilate dalla legge, ivi comprese quelle di cui agli articoli 40 e 41 del decreto-legge 31 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    le operazioni di cui ai numeri da 1) a 4) dell'articolo 10, effettuate nei confronti di soggetti stabiliti fuori della Comunita' o relative a beni destinati ad essere esportati fuori della Comunita' stessa; (152a) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operazioni ((, diverse da quelle in regime transfrontaliero di franchigia IVA di cui al titolo V-ter,)) effettuate fuori dal territorio dello Stato le quali, se effettuate nel territorio dello Stato, darebbero diritto alla detrazione dell'imposta; ((237))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    operazioni di cui all'articolo 2, terzo comma, lettere a), b),
+                                
+                            
+                            
+                                d)
+                                
+                                    ed f); 
+ d) cessioni di cui all'articolo 10, numero 11), effettuate da soggetti che producono oro da investimento o trasformano oro in oro da investimento; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    le cessioni di beni di cui all'articolo 10, terzo comma; (209) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    operazioni non soggette all'imposta per effetto delle disposizioni di cui al primo comma dell'articolo 74, concernente disposizioni relative a particolari settori; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    le operazioni inerenti e connesse all'organizzazione ed all' esercizio delle attivita' di cui all'articolo 10, numeri 6) e 7), e le prestazioni di mandato, mediazione e intermediazione relative a dette operazioni.(137a)
 
 Per i beni ed i servizi in parte utilizzati per operazioni non soggette all'imposta la detrazione non e' ammessa per la quota imputabile a tali utilizzazioni e l'ammontare indetraibile e' determinato secondo criteri oggettivi, coerenti con la natura dei beni e servizi acquistati. Gli stessi criteri si applicano per determinare la quota di imposta indetraibile relativa ai beni e servizi in parte utilizzati per fini privati o comunque estranei all'esercizio dell'impresa, arte e professione ((, nonche' per determinare la quota di imposta indetraibile per i beni e i servizi in parte utilizzati per operazioni in regime transfrontaliero di franchigia di cui al titolo V-ter)). ((237))
 
@@ -1162,6 +1737,74 @@ La percentuale di detrazione di cui all'articolo 19, comma 5, e' determinata in 
 
 ## Art. 19-bis.1. — Esclusione o riduzione della detrazione per alcuni beni e servizi).
 
+1.
+                        
+                            
+                                In deroga alle disposizioni di cui all'articolo 19: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'imposta relativa all'acquisto o all'importazione di aeromobili e dei relativi componenti e ricambi e' ammessa in detrazione se i beni formano oggetto dell'attivita' propria dell'impresa o sono destinati ad essere esclusivamente utilizzati come strumentali nell'attivita' propria dell'impresa ed e' in ogni caso esclusa per gli esercenti arti e professioni;(146) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'imposta relativa all'acquisto o all'importazione dei beni elencati nell'allegata tabella B e delle navi e imbarcazioni da diporto nonche' dei relativi componenti e ricambi e' ammessa in detrazione soltanto se i beni formano oggetto dell'attivita' propria dell'impresa ed e' in ogni caso esclusa per gli esercenti arti e professioni; (146) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'imposta relativa all'acquisto o all'importazione di veicoli stradali a motore, diversi da quelli di cui alla lettera f) dell'allegata tabella B, e dei relativi componenti e ricambi e' ammessa in detrazione nella misura del 40 per cento se tali veicoli non sono utilizzati esclusivamente nell'esercizio dell'impresa, dell'arte o della professione. La disposizione non si applica, in ogni caso, quando i predetti veicoli formano oggetto dell'attivita' propria dell'impresa nonche' per gli agenti e rappresentanti di commercio. Per veicoli stradali a motore si intendono tutti i veicoli a motore, diversi dai trattori agricoli o forestali, normalmente adibiti al trasporto stradale di persone o beni la cui massa massima autorizzata non supera 3.500 kg e il cui numero di posti a sedere, escluso quello del conducente, non e' superiore a otto;(146) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'imposta relativa all'acquisto o all'importazione di carburanti e lubrificanti destinati ad aeromobili, natanti da diporto e veicoli stradali a motore, nonche' alle prestazioni di cui al terzo comma dell'articolo 16 e alle prestazioni di custodia, manutenzione, riparazione e impiego, compreso il transito stradale, dei beni stessi, e' ammessa in detrazione nella stessa misura in cui e' ammessa in detrazione l'imposta relativa all'acquisto o all'importazione di detti aeromobili, natanti e veicoli stradali a motore. L'avvenuta effettuazione dell'operazione deve essere provata dal pagamento mediante carte di credito, carte di debito o carte prepagate emesse da operatori finanziari soggetti all'obbligo di comunicazione previsto dall'articolo 7, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605, o da altro mezzo ritenuto parimenti idoneo individuato con provvedimento del direttore dell'Agenzia delle entrate;(146)(184)((186))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    salvo che formino oggetto dell'attivita' propria dell'impresa, non e' ammessa in detrazione l'imposta relativa, a prestazioni di trasporto di persone;(144)(146)(147) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non e' ammessa in detrazione l'imposta relativa all'acquisto o all'importazione di alimenti e bevande ad eccezione di quelli che formano oggetto dell'attivita' propria dell'impresa o di somministrazione in mense scolastiche, aziendali o interaziendali o mediante distributori automatici collocati nei locali dell'impresa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA ABROGATA DALLA L. 24 DICEMBRE 2007, N. 244;(146) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    non e' ammessa in detrazione l'imposta relativa alle spese di rappresentanza, come definite ai fini delle imposte sul reddito,tranne quelle sostenute per l'acquisto di beni di costo unitario non superiore ad euro cinquanta; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    non e' ammessa in detrazione l'imposta relativa all'acquisto di fabbricati, o di porzione di fabbricato, a destinazione abitativa ne' quella relativa alla locazione o alla manutenzione, recupero o gestione degli stessi, salvo che per le imprese che hanno per oggetto esclusivo o principale dell'attivita' esercitata la costruzione dei predetti fabbricati o delle predette porzioni. La disposizione non si applica per i soggetti che esercitano attivita' che danno luogo ad operazioni esenti di cui al numero 8) dell'articolo 10 che comportano la riduzione della percentuale di detrazione a norma dell'articolo 19, comma 5, e dell'articolo 19-bis.(104) 
+ (91)
+
 -----------------
                             AGGIORNAMENTO (91)
                             Il D.Lgs. 2 settembre 1997, n. 313 ha disposto (con l'art. 11,
@@ -1223,6 +1866,27 @@ Le rettifiche delle detrazioni di cui ai commi precedenti sono effettuate nella 
 
 
 
+2.
+                        
+                            
+                                
+                                    ((Gli enti pubblici e privati e le societa' rientranti tra i soggetti di cui al comma 1, ai fini del diritto alla detrazione dell'imposta relativa agli acquisti, anche intracomunitari, e alle importazioni di beni e servizi utilizzati, anche in parte, per l'attivita' economica, gestiscono con contabilita' separata:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((le attivita' per cui sono soggetti passivi;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le attivita' per cui non sono soggetti passivi.))
+
 ((Per le regioni, province, comuni e loro consorzi, universita' ed enti di ricerca, la contabilita' separata di cui al comma 2 e' realizzata nell'ambito e con l'osservanza delle modalita' previste per la contabilita' pubblica obbligatoria a norma di legge o di statuto. Le disposizioni del comma 2 si applicano anche agli enti pubblici di assistenza e beneficenza e a quelli di previdenza nonche' all'Automobile Club d'Italia e agli automobile clubs.))
 
 ## Art. 20. — Volume d'affari
@@ -1265,9 +1929,179 @@ La L. 24 dicembre 2012, n. 228 ha disposto (con l'art. 1, comma
 
 Per ciascuna operazione imponibile il soggetto che effettua la cessione del bene o la prestazione del servizio emette fattura, anche sotto forma di nota, conto, parcella e simili o, ferma restando la sua responsabilita', assicura che la stessa sia emessa, per suo conto, dal cessionario o dal committente ovvero da un terzo. Per fattura elettronica si intende la fattura che e' stata emessa e ricevuta in un qualunque formato elettronico; il ricorso alla fattura elettronica e' subordinato all'accettazione da parte del destinatario. L'emissione della fattura, cartacea o elettronica, da parte del cliente o del terzo residente in un Paese con il quale non esiste alcuno strumento giuridico che disciplini la reciproca assistenza e' consentita a condizione che ne sia data preventiva comunicazione all'Agenzia delle entrate e purche' il soggetto passivo nazionale abbia iniziato l'attivita' da almeno cinque anni e nei suoi confronti non siano stati notificati, nei cinque anni precedenti, atti impositivi o di contestazione di violazioni sostanziali in materia di imposta sul valore aggiunto. Con provvedimento del direttore dell'Agenzia delle entrate sono determinate le modalita', i contenuti e le procedure telematiche della comunicazione. La fattura, cartacea o elettronica, si ha per emessa all'atto della sua consegna, spedizione, trasmissione o messa a disposizione del cessionario o committente.
 
+2.
+                        
+                            
+                                La fattura contiene le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    data di emissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero progressivo che la identifichi in modo univoco; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ditta, denominazione o ragione sociale, nome e cognome, residenza o domicilio del soggetto cedente o prestatore, del rappresentante fiscale nonche' ubicazione della stabile organizzazione per i soggetti non residenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    numero di partita IVA del soggetto cedente o prestatore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ditta, denominazione o ragione sociale, nome e cognome, residenza o domicilio del soggetto cessionario o committente, del rappresentante fiscale nonche' ubicazione della stabile organizzazione per i soggetti non residenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    numero di partita IVA del soggetto cessionario o committente ovvero, in caso di soggetto passivo stabilito in un altro Stato membro dell'Unione europea, numero di identificazione IVA attribuito dallo Stato membro di stabilimento; nel caso in cui il cessionario o committente residente o domiciliato nel territorio dello Stato non agisce nell'esercizio d'impresa, arte o professione, codice fiscale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    natura, qualita' e quantita' dei beni e dei servizi formanti oggetto dell'operazione; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    data in cui e' effettuata la cessione di beni o la prestazione di servizi ovvero data in cui e' corrisposto in tutto o in parte il corrispettivo, sempreche' tale data sia diversa dalla data di emissione della fattura; (192) 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    corrispettivi ed altri dati necessari per la determinazione della base imponibile, compresi quelli relativi ai beni ceduti a titolo di sconto, premio o abbuono di cui all'articolo 15, primo comma, n. 2; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    corrispettivi relativi agli altri beni ceduti a titolo di sconto, premio o abbuono; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    aliquota, ammontare dell'imposta e dell'imponibile con arrotondamento al centesimo di euro; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    data della prima immatricolazione o iscrizione in pubblici registri e numero dei chilometri percorsi, delle ore navigate o delle ore volate, se trattasi di cessione intracomunitaria di mezzi di trasporto nuovi, di cui all'articolo 38, comma 4, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    annotazione che la stessa. e' emessa, per conto del cedente o prestatore, dal cessionario o committente ovvero da un terzo.
+
 Se l'operazione o le operazioni cui si riferisce la fattura comprendono beni o servizi soggetti all'imposta con aliquote diverse, gli elementi e i dati di cui al comma 2, lettere g), h) ed l), sono indicati distintamente secondo l'aliquota applicabile. Per le operazioni effettuate nello stesso giorno nei confronti di un medesimo soggetto puo' essere emessa una sola fattura. Nel caso di piu' fatture elettroniche trasmesse in unico lotto allo stesso destinatario da parte dello stesso cedente o prestatore le indicazioni comuni alle diverse fatture possono essere inserite una sola volta, purche' per ogni fattura sia accessibile la totalita' delle informazioni. Il soggetto passivo assicura l'autenticita' dell'origine, l'integrita' del contenuto e la leggibilita' della fattura dal momento della sua emissione fino al termine del suo periodo di conservazione; autenticita' dell'origine ed integrita' del contenuto possono essere garantite mediante sistemi di controllo di gestione che assicurino un collegamento affidabile tra la fattura e la cessione di beni o la prestazione di servizi ad essa riferibile, ovvero mediante l'apposizione della firma elettronica qualificata o digitale dell'emittente o mediante sistemi EDI di trasmissione elettronica dei dati o altre tecnologie in grado di garantire l'autenticita' dell'origine e l'integrita' dei dati. Le fatture redatte in lingua straniera sono tradotte in lingua nazionale, a fini di controllo, a richiesta dell'amministrazione finanziaria.
 
+4.
+                        
+                            
+                                La fattura e' emessa entro dodici giorni dall'effettuazione dell'operazione determinata ai sensi dell'articolo 6. La fattura cartacea e' compilata in duplice esemplare di cui uno e' consegnato o spedito all'altra parte. In deroga a quanto previsto nel primo periodo: (192) 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le cessioni di beni la cui consegna o spedizione risulta da documento di trasporto o da altro documento idoneo a identificare i soggetti tra i quali e' effettuata l'operazione ed avente le caratteristiche determinate con decreto del Presidente della Repubblica 14 agosto 1996, n. 472, nonche' per le prestazioni di servizi individuabili attraverso idonea documentazione, effettuate nello stesso mese solare nei confronti del medesimo soggetto, ((ivi comprese le cessioni di beni e le prestazioni di servizi oggetto di fatturazione in nome e per conto delle singole imprese di un raggruppamento temporaneo da parte dell'impresa mandataria ai sensi del comma 2, lettera n),)) puo' essere emessa una sola fattura, recante il dettaglio delle operazioni, entro il giorno 15 del mese successivo a quello di effettuazione delle medesime; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le cessioni di beni effettuate dal cessionario nei confronti di un soggetto terzo per il tramite del proprio cedente la fattura e' emessa entro il mese successivo a quello della consegna o spedizione dei beni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le prestazioni di servizi rese a soggetti passivi stabiliti nel territorio di un altro Stato membro dell'Unione europea non soggette all'imposta ai sensi dell'articolo 7-ter, la fattura e' emessa entro il giorno 15 del mese successivo a quello di effettuazione dell'operazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le prestazioni di servizi di cui all'articolo 6, sesto comma, primo periodo, rese o ricevute da un soggetto passivo stabilito fuori dell'Unione europea, la fattura e' emessa entro il giorno 15 del mese successivo a quello di effettuazione dell'operazione.
+
 Nelle ipotesi di cui all'articolo 17, secondo comma, primo periodo, il cessionario o il committente emette la fattura in unico esemplare, ovvero, ferma restando la sua responsabilita', si assicura che la stessa sia emessa, per suo conto, da un terzo.
+
+6.
+                        
+                            
+                                La fattura e' emessa anche per le tipologie di operazioni sottoelencate e contiene, in luogo dell'ammontare dell'imposta, le seguenti annotazioni con l'eventuale indicazione della relativa norma comunitaria o nazionale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cessioni relative a beni in transito o depositati in luoghi soggetti a vigilanza doganale, non soggette all'imposta a norma dell'articolo 7 -bis comma 1, con l'annotazione «operazione non soggetta»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operazioni non imponibili di cui agli articoli 8, 8-bis, 9 e 38-quater, con l'annotazione «operazione non imponibile»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    operazioni esenti di cui all'articolo 10, eccetto quelle indicate al n. 6), con l'annotazione «operazione esente»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    operazioni soggette al regime del margine previsto dal decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85, con l'annotazione, a seconda dei casi, «regime del margine - beni usati», «regime del margine - oggetti d'arte» o «regime del margine - oggetti di antiquariato o da collezione»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    operazioni effettuate dalle agenzie di viaggio e turismo soggette al regime del margine previsto dall'articolo 74-ter, con l'annotazione «regime del margine - agenzie di viaggio. (144) 
+ 6-bis. I soggetti passivi stabiliti nel territorio dello Stato emettono la fattura anche per le tipologie di operazioni sotto elencate quando non sono soggette all'imposta ai sensi degli articoli da 7 a 7-septies e indicano, in luogo dell'ammontare dell'imposta, le seguenti annotazioni con l'eventuale specificazione della relativa norma comunitaria o nazionale: 
+ a) cessioni di beni e prestazioni di servizi, diverse da quelle di cui all'articolo 10, nn. da 1) a 4) e 9), effettuate nei confronti di un soggetto passivo che e' debitore dell'imposta in un altro Stato membro dell'Unione europea, con l'annotazione «inversione contabile»; 
+ b) cessioni di beni e prestazioni di servizi che si considerano effettuate fuori dell'Unione europea, con l'annotazione "operazione non soggetta". 
+ 6-ter. Le fatture emesse dal cessionario di un bene o dal committente di un servizio in virtu' di un obbligo proprio recano l'annotazione «autofatturazione». (144)
 
 Se il cedente o prestatore emette fattura per operazioni inesistenti, ovvero se indica nella fattura i corrispettivi delle operazioni o le imposte relative in misura superiore a quella reale, l'imposta e' dovuta per l'intero ammontare indicato o corrispondente alle indicazioni della fattura. (170) (171)
 
@@ -1291,6 +2125,84 @@ Le spese di emissione della fattura e dei conseguenti adempimenti e formalita' n
  Il D.L. 23 ottobre 2018, n. 119, convertito con modificazioni dalla L. 17 dicembre 2018, n. 136, ha disposto (con l'art. 11, comma 2) che le presenti modifiche si applicano a decorrere dal 1° luglio 2019.
 
 ## Art. 21-bis. — (Fattura semplificata).
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 21, la fattura di ammontare complessivo non superiore a cento euro, nonche' la fattura rettificativa di cui all'articolo 26, puo' essere emessa in modalita' semplificata recando, in luogo di quanto previsto dall'articolo 21, almeno le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    data di emissione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero progressivo che la identifichi in modo univoco; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ditta, denominazione o ragione sociale, nome e cognome, residenza o domicilio del soggetto cedente o prestatore, del rappresentante fiscale nonche' ubicazione della stabile organizzazione per i soggetti non residenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    numero di partita IVA del soggetto cedente o prestatore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ditta, denominazione o ragione sociale, nome e cognome, residenza o domicilio del soggetto cessionario o committente, del rappresentante fiscale nonche' ubicazione della stabile organizzazione per i soggetti non residenti; in alternativa, in caso di soggetto stabilito nel territorio dello Stato puo' essere indicato il solo codice fiscale o il numero di partita IVA, ovvero, in caso di soggetto passivo stabilito in un altro Stato membro dell'Unione europea, il solo numero di identificazione IVA attribuito dallo Stato membro di stabilimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    descrizione dei beni ceduti e dei servizi resi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ammontare del corrispettivo complessivo e dell'imposta incorporata, ovvero dei dati che permettono di calcolarla; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per le fatture emesse ai sensi dell'articolo 26, il riferimento alla fattura rettificata e le indicazioni specifiche che vengono modificate.
+
+2.
+                        
+                            
+                                La fattura semplificata non puo' essere emessa per le seguenti tipologie di operazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cessioni intracomunitarie di cui all'articolo 41 del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operazioni di cui all'articolo 21, comma 6-bis, lettera a).
 
 Con decreto di natura non regolamentare il Ministro dell'economia e delle finanze puo' innalzare fino a quattrocento euro il limite di cui al comma 1, ovvero consentire l'emissione di fatture semplificate anche senza limiti di importo per le operazioni effettuate nell'ambito di specifici settori di attivita' o da specifiche tipologie di soggetti per i quali le pratiche commerciali o amministrative ovvero le condizioni tecniche di emissione delle fatture rendono particolarmente difficoltoso il rispetto degli obblighi di cui agli articoli 13, comma 4, e 21, comma 2. 
  (144) ((196))
@@ -1464,6 +2376,24 @@ Se un'operazione per la quale sia stata emessa fattura, successivamente alla reg
 
 La disposizione di cui al comma 2 non puo' essere applicata dopo il decorso di un anno dall'effettuazione dell'operazione imponibile qualora gli eventi ivi indicati si verifichino in dipendenza di sopravvenuto accordo fra le parti e puo' essere applicata, entro lo stesso termine, anche in caso di rettifica di inesattezze della fatturazione che abbiano dato luogo all'applicazione dell'articolo 21, comma 7.
 
+3-bis.
+                        
+                            
+                                La disposizione di cui al comma 2 si applica anche in caso di mancato pagamento del corrispettivo, in tutto o in parte, da parte del cessionario o committente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a partire dalla data in cui quest'ultimo e` assoggettato a una procedura concorsuale o dalla data del decreto che omologa un accordo di ristrutturazione dei debiti di cui all'articolo 182-bis del Regio Decreto 16 marzo 1942, n. 267, o dalla data di pubblicazione nel registro delle imprese di un piano attestato ai sensi dell'articolo 67, terzo comma, lettera d), del regio decreto 16 marzo 1942, n. 267; (208) (213) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a causa di procedure esecutive individuali rimaste infruttuose. (222)
+
 COMMA ABROGATO DALLA L. 11 DICEMBRE 2016, N. 232.
 
 Ove il cedente o prestatore si avvalga della facolta' di cui al comma 2, il cessionario o committente, che abbia gia' registrato l'operazione ai sensi dell'articolo 25, deve in tal caso registrare la variazione a norma dell'articolo 23 o dell'articolo 24, nei limiti della detrazione operata, salvo il suo diritto alla restituzione dell'importo pagato al cedente o prestatore a titolo di rivalsa.
@@ -1482,6 +2412,33 @@ Nel caso di risoluzione contrattuale, relativa a contratti a esecuzione continua
 La facolta' di cui al comma 2 puo' essere esercitata, ricorrendo i presupposti di cui a tale disposizione, anche dai cessionari e committenti debitori dell'imposta ai sensi dell'articolo 17 o dell'articolo 74 del presente decreto ovvero dell'articolo 44 del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, e successive modificazioni. In tal caso, si applica ai cessionari o committenti la disposizione di cui al comma 5.
 
 Ai fini del comma 3-bis, lettera a), il debitore si considera assoggettato a procedura concorsuale dalla data della sentenza dichiarativa del fallimento o del provvedimento che ordina la liquidazione coatta amministrativa o del decreto di ammissione alla procedura di concordato preventivo o del decreto che dispone la procedura di amministrazione straordinaria delle grandi imprese in crisi.
+
+11.
+                        
+                            
+                                COMMA ABROGATO DALLA L. 11 DICEMBRE 2016, N. 232. 
+ 12. ai fini del comma 3-bis, lettera b), una procedura esecutiva individuale si considera in ogni caso infruttuosa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'ipotesi di pignoramento presso terzi, quando dal verbale di pignoramento redatto dall'ufficiale giudiziario risulti che presso il terzo pignorato non vi sono beni o crediti da pignorare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'ipotesi di pignoramento di beni mobili, quando dal verbale di pignoramento redatto dall'ufficiale giudiziario risulti la mancanza di beni da pignorare ovvero l'impossibilita' di accesso al domicilio del debitore ovvero la sua irreperibilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'ipotesi in cui, dopo che per tre volte l'asta per la vendita del bene pignorato sia andata deserta, si decida di interrompere la procedura esecutiva per eccessiva onerosita'. 
+ (174)
 
 ------------
                             AGGIORNAMENTO (20)
@@ -1668,6 +2625,31 @@ Il Ministro delle finanze, con propri decreti, puo' determinare le caratteristic
 
 Per le cessioni di prodotti agricoli e ittici compresi nella prima parte dell'allegata tabella A) effettuate dai produttori agricoli, la detrazione prevista nell'articolo 19 e' forfettizzata in misura pari all'importo risultante dall'applicazione, all'ammontare imponibile delle operazioni stesse, delle percentuali di compensazione stabilite, per gruppi di prodotti, con decreto del Ministro delle finanze di concerto con il Ministro per le politiche agricole. L'imposta si applica con le aliquote proprie dei singoli prodotti, salva l'applicazione delle aliquote corrispondenti alle percentuali di compensazione per i passaggi di prodotti ai soggetti di cui al comma 2, lettera c), che applicano il regime speciale e per le cessioni effettuate dai soggetti di cui al comma 6, primo e secondo periodo.
 
+2.
+                        
+                            
+                                Si considerano produttori agricoli: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti che esercitano le attivita' indicate nell'articolo 2135 del codice civile e quelli che esercitano attivita' di pesca in acque dolci, di piscicoltura, di mitilicoltura, di ostricoltura e di coltura di altri molluschi e crostacei, nonche' di allevamento di rane; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli organismi agricoli di intervento, o altri soggetti per loro conto, che effettuano cessioni di prodotti in applicazione di regolamenti della Unione europea concernenti l'organizzazione comune dei mercati dei prodotti stessi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le cooperative e loro consorzi di cui all'articolo 1, comma 2, del decreto legislativo 18 maggio 2001, n. 228; le associazioni e loro unioni costituite e riconosciute ai sensi della legislazione vigente, che effettuano cessioni di beni prodotti prevalentemente dai soci, associati o partecipanti, nello stato originario o previa manipolazione o trasformazione, nonche' gli enti che provvedono per legge, anche previa manipolazione o trasformazione, alla vendita collettiva per conto dei produttori soci.
+
 COMMA ABROGATO DAL D.L. 14 MARZO 2005, N.35, CONVERTITO CON MODIFICAZIONI DALLA L. 14 MAGGIO 2005, N. 80.
 
 La detrazione forfettizzata non compete per le cessioni dei prodotti indicati nel comma 1 il cui acquisto derivi da atto non assoggettato ad imposta, sempre che il cedente, il donante o il conferente, sia soggetto al regime ordinario. (79)
@@ -1712,6 +2694,59 @@ Per le attivita' dirette alla produzione di beni ed alla fornitura di servizi di
 ## Art. 35. — Disposizione regolamentare concernente le dichiarazioni di inizio, variazione e cessazione attivita).
 
 I soggetti che intraprendono l'esercizio di un'impresa, arte o professione nel territorio dello Stato, o vi istituiscono una stabile organizzazione, devono farne dichiarazione entro trenta giorni ad uno degli uffici locali dell'Agenzia delle entrate ovvero ad un ufficio provinciale dell'imposta sul valore aggiunto della medesima Agenzia; la dichiarazione e' redatta, a pena di nullita', su modelli conformi a quelli approvati con provvedimento del direttore dell'Agenzia delle entrate. L'ufficio attribuisce al contribuente un numero di partita I.V.A. che restera' invariato anche nelle ipotesi di variazioni di domicilio fiscale fino al momento della cessazione dell'attivita' e che deve essere indicato nelle dichiarazioni, nella home-page dell'eventuale sito web e in ogni altro documento ove richiesto.
+
+2.
+                        
+                            
+                                Dalla dichiarazione di inizio attivita' devono risultare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le persone fisiche, il cognome e nome, il luogo e la data di nascita, il codice fiscale, la residenza, il domicilio fiscale e l'eventuale ditta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i soggetti diversi dalle persone fisiche, la natura giuridica, la denominazione, ragione sociale o ditta, la sede legale, o in mancanza quella amministrativa, e il domicilio fiscale e deve essere inoltre indicato il codice fiscale per almeno una delle persone che ne hanno la rappresentanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i soggetti residenti all'estero, anche l'ubicazione della stabile organizzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il tipo e l'oggetto dell'attivita' e il luogo o i luoghi in cui viene esercitata anche a mezzo di sedi secondarie, filiali, stabilimenti, succursali, negozi, depositi e simili, il luogo o i luoghi in cui sono tenuti e conservati i libri, i registri, le scritture e i documenti prescritti dal presente decreto e da altre disposizioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i soggetti che svolgono attivita' di commercio elettronico, l'indirizzo del sito web ed i dati identificativi dell'internet service provider; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    per i soggetti che intendono effettuare operazioni intracomunitarie di cui al Titolo II, Capo II del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, la volonta' di effettuare dette operazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ogni altro elemento richiesto dal modello ad esclusione dei dati che l'Agenzia delle entrate e' in grado di acquisire autonomamente.
 
 In caso di variazione di alcuno degli elementi di cui al comma 2 o di cessazione dell'attivita', il contribuente deve entro trenta giorni farne dichiarazione ad uno degli uffici indicati dal comma 1, utilizzando modelli conformi a quelli approvati con provvedimento del direttore dell'Agenzia delle entrate. Se la variazione comporta il trasferimento del domicilio fiscale essa ha effetto dal sessantesimo giorno successivo alla data in cui si e' verificata. In caso di fusione, scissione, conferimenti di aziende o di altre trasformazioni sostanziali che comportano l'estinzione del soggetto d'imposta, la dichiarazione e' presentata unicamente dal soggetto risultante dalla trasformazione.
 
@@ -1758,6 +2793,24 @@ Gli Uffici, avvalendosi dei poteri di cui al presente decreto, verificano che i 
  15-bis.2. Ferma restando la disciplina applicabile nelle ipotesi in cui la cessazione della partita IVA comporti l'esclusione della stessa dalla banca dati dei soggetti che effettuano operazioni intracomunitarie, in caso di cessazione ai sensi dei commi 15-bis e 15-bis.1, la partita IVA puo' essere successivamente richiesta dal medesimo soggetto, come imprenditore individuale, lavoratore autonomo o rappresentante legale di societa', associazione o ente, con o senza personalita' giuridica, costituiti successivamente al provvedimento di cessazione della partita IVA, solo previo rilascio di polizza fideiussoria o fideiussione bancaria per la durata di tre anni dalla data del rilascio e per un importo non inferiore a 50.000 euro. In caso di eventuali violazioni fiscali commesse antecedentemente all'emanazione del provvedimento di cessazione, l'importo della fideiussione deve essere pari alle somme, se superiori a 50.000 euro, dovute a seguito di dette violazioni fiscali, sempreche' non sia intervenuto il versamento delle stesse. 
  15-bis.3. I medesimi effetti di cui al comma 15-bis.2 si producono anche in conseguenza della notifica da parte dell'ufficio di un provvedimento che accerta la sussistenza dei presupposti per la cessazione della partita IVA, in relazione al periodo di attivita', ai sensi dei commi 15-bis e 15-bis.1, nei confronti dei contribuenti che nei dodici mesi precedenti abbiano comunicato la cessazione dell'attivita' ai sensi del comma 3. Si applica in ogni caso la sanzione di cui all'articolo 11, comma 7-quater, del decreto legislativo 18 dicembre 1997, n. 471.
 
+15-ter.
+                        
+                            
+                                Con provvedimento del Direttore dell'Agenzia delle entrate sono individuate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    specifiche informazioni da richiedere all'atto della dichiarazione di inizio di attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipologie di contribuenti per i quali l'attribuzione del numero di partita IVA determina la possibilita' di effettuare gli acquisti di cui all'articolo 38 del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, e successive modificazioni, a condizione che sia rilasciata polizza fideiussoria o fideiussione bancaria per la durata di tre anni dalla data del rilascio e per un importo rapportato al volume d'affari presunto e comunque non inferiore a 50.000 euro.
+
 COMMA ABROGATO DAL D.LGS. 21 NOVEMBRE 2014, N. 175.
 
 L'Agenzia delle entrate procede d'ufficio alla chiusura delle partite IVA dei soggetti che, sulla base dei dati e degli elementi in suo possesso, risultano non aver esercitato nelle tre annualita' precedenti attivita' di impresa ovvero attivita' artistiche o professionali. Sono fatti salvi i poteri di controllo e accertamento dell'amministrazione finanziaria. Con provvedimento del direttore dell'Agenzia delle entrate sono stabiliti i criteri e le modalita' di applicazione del presente comma, prevedendo forme di comunicazione preventiva al contribuente.
@@ -1780,6 +2833,52 @@ che le modifiche al presente articolo hanno effetto dal 1 aprile
 ## Art. 35-ter. — Identificazione ai fini I.V.A. ed obblighi contabili del soggetto non residente).
 
 I soggetti non residenti nel territorio dello Stato, che, ai sensi dell'articolo 17, ((terzo comma)), intendono assolvere gli obblighi ed esercitare i diritti in materia di imposta sul valore aggiunto direttamente, devono farne dichiarazione all'Ufficio competente, prima dell'effettuazione delle operazioni per le quali si vuole adottare il suddetto sistema.
+
+2.
+                        
+                            
+                                La dichiarazione deve contenere le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le persone fisiche, il cognome, il nome e la eventuale ditta, il luogo e la data di nascita, il domicilio fiscale nello Stato estero in cui l'attivita' e' esercitata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i soggetti diversi dalle persone fisiche, la denominazione, ragione sociale o ditta, la sede legale o, in mancanza, amministrativa, nello Stato estero in cui l'attivita' e' esercitata; gli elementi di cui alla lettera a) per almeno una delle persone che ne hanno la rappresentanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ufficio dell'amministrazione dello Stato estero competente ad effettuare i controlli sull'attivita' del dichiarante, nonche' il numero di identificazione all'imposta sul valore aggiunto ovvero, in mancanza, il codice identificativo fiscale attribuito dal medesimo Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il tipo e l'oggetto dell'attivita' esercitata nello Stato estero di stabilimento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'impegno ad esibire le scritture contabili entro i termini stabiliti dall'amministrazione richiedente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ogni altro elemento richiesto dal modello di dichiarazione.
 
 L'ufficio attribuisce al richiedente un numero di partita I.V.A., in cui sia evidenziata anche la natura di soggetto non residente identificato in Italia. Il predetto numero deve essere riportato nelle dichiarazioni e in ogni altro atto, ove richiesto.
 
@@ -1870,6 +2969,66 @@ I rimborsi previsti nell'articolo 30 sono eseguiti, su richiesta fatta in sede d
 
 Il contribuente puo' ottenere il rimborso in relazione a periodi inferiori all'anno nelle ipotesi di cui alle lettere a), b) ed e) del secondo comma dell'articolo 30, nonche' nelle ipotesi di cui alla lettera c) del medesimo secondo comma quando effettua acquisti ed importazioni di beni ammortizzabili per un ammontare superiore ai due terzi dell'ammontare complessivo degli acquisti e delle importazioni di beni e servizi imponibili ai fini dell'imposta sul valore aggiunto, e nelle ipotesi di cui alla lettera d) del secondo comma del citato articolo 30 quando effettua, nei confronti di soggetti passivi non stabiliti nel territorio dello Stato, per un importo superiore al 50 per cento dell'ammontare di tutte le operazioni effettuate, prestazioni di lavorazione relative a beni mobili materiali, prestazioni di trasporto di beni e relative prestazioni di intermediazione, prestazioni di servizi accessorie ai trasporti di beni e relative prestazioni di intermediazione, ovvero prestazioni di servizi di cui all'articolo 19, comma 3, lettera a-bis).
 
+3.
+                        
+                            
+                                Fatto salvo quanto previsto dal comma 4, i rimborsi di ammontare superiore a ((30.000 euro)) sono eseguiti previa presentazione della relativa dichiarazione o istanza da cui emerge il credito richiesto a rimborso recante il visto di conformita' o la sottoscrizione alternativa di cui all'articolo 10, comma 7, primo e secondo periodo, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102. Alla dichiarazione o istanza e' allegata una dichiarazione sostitutiva di atto di notorieta', a norma dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, che attesti la sussistenza delle seguenti condizioni in relazione alle caratteristiche soggettive del contribuente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il patrimonio netto non e' diminuito, rispetto alle risultanze contabili dell'ultimo periodo d'imposta, di oltre il 40 per cento; la consistenza degli immobili non si e' ridotta, rispetto alle risultanze contabili dell'ultimo periodo d'imposta, di oltre il 40 per cento per cessioni non effettuate nella normale gestione dell'attivita' esercitata; l'attivita' stessa non e' cessata ne' si e' ridotta per effetto di cessioni di aziende o rami di aziende compresi nelle suddette risultanze contabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non risultano cedute, se la richiesta di rimborso e' presentata da societa' di capitali non quotate nei mercati regolamentati, nell'anno precedente la richiesta, azioni o quote della societa' stessa per un ammontare superiore al 50 per cento del capitale sociale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati eseguiti i versamenti dei contributi previdenziali e assicurativi.
+
+4.
+                        
+                            
+                                Sono eseguiti previa prestazione della garanzia di cui al comma 5 i rimborsi di ammontare superiore a ((30.000 euro)) quando richiesti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da soggetti passivi che esercitano un'attivita' d'impresa da meno di due anni diversi dalle imprese start-up innovative di cui all'articolo 25 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da soggetti passivi ai quali, nei due anni antecedenti la richiesta di rimborso, sono stati notificati avvisi di accertamento o di rettifica da cui risulti, per ciascun anno, una differenza tra gli importi accertati e quelli dell'imposta dovuta o del credito dichiarato superiore: 
+ 1) al 10 per cento degli importi dichiarati se questi non superano 150.000 euro; 
+ 2) al 5 per cento degli importi dichiarati se questi superano 150.000 euro ma non superano 1.500.000 euro; 
+ 3) all'1 per cento degli importi dichiarati, o comunque a 150.000 euro, se gli importi dichiarati superano 1.500.000 euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da soggetti passivi che nelle ipotesi di cui al comma 3, presentano la dichiarazione o istanza da cui emerge il credito richiesto a rimborso priva del visto di conformita' o della sottoscrizione alternativa, o non presentano la dichiarazione sostitutiva di atto di notorieta'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da soggetti passivi che richiedono il rimborso dell'eccedenza detraibile risultante all'atto della cessazione dell'attivita'.
+
 La garanzia di cui al comma 4 e' prestata per una durata pari a tre anni dall'esecuzione del rimborso, ovvero, se inferiore, al periodo mancante al termine di decadenza dell'accertamento, sotto forma di cauzione in titoli di Stato o garantiti dallo Stato, al valore di borsa, ovvero di fideiussione rilasciata da una banca o da una impresa commerciale che a giudizio dell'Amministrazione finanziaria offra adeguate garanzie di solvibilita' ovvero di polizza fideiussoria rilasciata da un'impresa di assicurazione. Per le piccole e medie imprese, definite secondo i criteri stabiliti dal decreto del 18 aprile 2005 del Ministro delle attivita' produttive, pubblicato nella Gazzetta Ufficiale 12 ottobre 2005, n. 238, dette garanzie possono essere prestate anche dai consorzi o cooperative di garanzia collettiva fidi di cui all'articolo 29 della legge 5 ottobre 1991, n. 317, iscritti nell'albo previsto dall'articolo 106 del decreto legislativo 1° settembre 1993, n. 385. Per i gruppi di societa', con patrimonio risultante dal bilancio consolidato superiore a 250 milioni di euro, la garanzia puo' essere prestata mediante la diretta assunzione da parte della societa' capogruppo o controllante di cui all'articolo 2359 del codice civile della obbligazione di integrale restituzione della somma da rimborsare, comprensiva dei relativi interessi, all'Amministrazione finanziaria, anche in caso di cessione della partecipazione nella societa' controllata o collegata. In ogni caso la societa' capogruppo o controllante deve comunicare in anticipo all'Amministrazione finanziaria l'intendimento di cedere la partecipazione nella societa' controllata o collegata. La garanzia concerne anche crediti relativi ad annualita' precedenti maturati nel periodo di validita' della garanzia stessa.
 
 Relativamente alla dichiarazione da cui emerge il credito richiesto a rimborso non e' obbligatoria l'apposizione del visto di conformita' o la sottoscrizione alternativa previsti dal comma 3 quando e' prestata la garanzia di cui al comma 5.
@@ -1909,6 +3068,38 @@ AGGIORNAMENTO (79)
 ((
 
 I soggetti passivi stabiliti nel territorio dello Stato che hanno assolto l'imposta in un altro Stato membro in relazione a beni e servizi ivi acquistati o importati, possono chiederne il rimborso a detto Stato membro presentando un'istanza all'Agenzia delle entrate tramite apposito portale elettronico.
+
+2.
+                        
+                            
+                                L'Agenzia delle entrate provvede ad inoltrare tale richiesta allo Stato membro del rimborso, eccetto i casi in cui, durante il periodo di riferimento del rimborso, il richiedente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non ha svolto un'attivita' d'impresa, arte o professione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha effettuato unicamente operazioni esenti o non soggette che non danno diritto alla detrazione dell'imposta ai sensi degli articoli 19 e seguenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si e' avvalso del regime dei contribuenti minimi di cui ai commi da 96 a 117 dell'articolo 1 della legge 24 dicembre 2007, n. 244; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    si e' avvalso del regime speciale per i produttori agricoli.
 
 Nei casi indicati al comma 2 l'Agenzia delle entrate notifica al richiedente il mancato inoltro della richiesta di rimborso. Avverso il provvedimento motivato di rifiuto dell'inoltro e' ammesso ricorso secondo le disposizioni relative al contenzioso tributario.
 
@@ -2080,6 +3271,84 @@ Competente a ricevere le dichiarazioni e i versamenti di cui ai precedenti artic
 
 ## Art. 40-bis. — (Definizioni)
 
+1.
+                        
+                            
+                                Ai fini del presente titolo si applicano le definizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "prestatore di servizi di pagamento": una delle categorie di prestatori di servizi di pagamento di cui all'articolo 1, comma 1, lettera g), del decreto legislativo 27 gennaio 2010, n. 11 ((, escluse la Banca centrale europea e le banche centrali nazionali anche quando non agiscono in veste di autorita' monetarie, altre autorita' pubbliche, le pubbliche amministrazioni statali, regionali o locali anche quando non agiscono in veste di autorita' pubbliche.
+Sono considerati prestatori di servizi di pagamento, altresi', i soggetti indicati all'articolo 114-sexiesdecies del decreto legislativo 1° settembre 1993 n. 385)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((servizio di pagamento: una delle attivita' commerciali di cui all'articolo 1, comma 2, lettera h-septies.1), numeri 3), 4), 5) e 6), del decreto legislativo del 1° settembre 1993 n. 385;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((operazione di pagamento: l'attivita', fatte salve le esclusioni di cui all'articolo 2, comma 2, del decreto legislativo 27 gennaio 2010, n. 11, posta in essere dal pagatore o dal beneficiario, di versare, trasferire o prelevare fondi, indipendentemente da eventuali obblighi sottostanti tra pagatore e beneficiario, di cui all'articolo 1, comma 1, lettera c), del citato decreto legislativo n. 11 del 2010, o una rimessa di denaro come definita dall'articolo 1, comma 1, lettera n), del suddetto decreto legislativo n. 11 del 2010;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    "pagatore": il soggetto titolare di un conto di pagamento a valere sul quale viene impartito un ordine di pagamento ovvero, in mancanza di un conto di pagamento, il soggetto che impartisce un ordine di pagamento, di cui all'articolo 1, comma 1, lettera e), del decreto legislativo 27 gennaio 2010, n. 11; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "beneficiario": il soggetto destinatario dei fondi oggetto dell'operazione di pagamento, di cui all'articolo 1, comma 1, lettera f), del decreto legislativo 27 gennaio 2010, n. 11; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "Stato membro di origine": lo Stato membro di origine come definito dall'articolo 1, comma 1, lettera g-bis), del decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "Stato membro ospitante": lo Stato membro ospitante come definito dall'articolo 1, comma 1, lettera g-ter), del decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "conto di pagamento": un conto di pagamento quale definito dall'articolo 1, comma 1, lettera l), del decreto legislativo 27 gennaio 2010, n. 11; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "IBAN": l'IBAN quale definito all'articolo 2, punto 15, del regolamento (UE) n. 260/2012 del Parlamento europeo e del Consiglio, del 14 marzo 2012, che stabilisce i requisiti tecnici e commerciali per i bonifici e gli addebiti diretti in euro e che modifica il regolamento (CE) n. 924/2009; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "BIC": il BIC quale definito all'articolo 2, punto 16, del citato regolamento (UE) n. 260/2012. 
+ (224)
+
 ---------------
                             AGGIORNAMENTO (224)
                             
@@ -2137,6 +3406,66 @@ I prestatori di servizi di pagamento per i quali l'Italia e' Stato membro di ori
 ## Art. 40-sexies. — (( (Dati da conservare). ))
 
 ((
+
+1.
+                        
+                            
+                                La documentazione conservata ai sensi dell'articolo 40-ter contiene le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il BIC o altro codice identificativo d'azienda che individui, senza ambiguita', il prestatore di servizi di pagamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome o la denominazione commerciale del beneficiario del pagamento che figura nella documentazione del prestatore di servizi di pagamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se disponibile, qualsiasi numero di identificazione IVA o altro numero di codice fiscale nazionale del beneficiario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'IBAN o, se l'IBAN non e' disponibile, altro identificativo che individui, senza ambiguita', il beneficiario e ne fornisce la localizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se il beneficiario riceve fondi senza disporre di un conto di pagamento, il BIC o altro codice identificativo d'azienda che individui, senza ambiguita', il prestatore di servizi di pagamento che agisce per conto del beneficiario e ne fornisca la localizzazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    se disponibile, l'indirizzo del beneficiario che figura nella documentazione del prestatore di servizi di pagamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i dettagli dei pagamenti transfrontalieri di cui all'articolo 40-ter; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i dettagli dei rimborsi di pagamenti relativi ai pagamenti transfrontalieri di cui alla lettera g).
 
 2. Le informazioni di cui al comma 1, lettere g) e h), contengono i dati seguenti:
 
@@ -2307,6 +3636,31 @@ L'infedelta' della dichiarazione, qualora non emerga o direttamente dal contenut
  alle dichiarazioni)
 
 Avvalendosi di procedure automatizzate l'amministrazione finanziaria procede, entro l'inizio del periodo di presentazione delle dichiarazioni relative all'anno successivo, alla liquidazione dell'imposta dovuta in base alle dichiarazioni presentate dai contribuenti.
+
+2.
+                        
+                            
+                                Sulla base dei dati e degli elementi direttamente desumibili dalle dichiarazioni presentate e di quelli in possesso dell'anagrafe tributaria, l'amministrazione finanziaria provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    correggere gli errori materiali e di calcolo commessi dai contribuenti nella determinazione del volume d'affari e delle imposte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    correggere gli errori materiali commessi dai contribuenti nel riporto delle eccedenze di imposta risultanti dalle precedenti dichiarazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    controllare la rispondenza con la dichiarazione e la tempestivita' dei versamenti dell'imposta risultante dalla dichiarazione annuale a titolo di acconto e di conguaglio nonche' dalle liquidazioni periodiche di cui agli articoli 27, 33, comma 1, lettera a), e 74, quarto comma.
 
 Se vi e' pericolo per la riscossione, l'ufficio puo' provvedere, anche prima della presentazione della dichiarazione annuale, a controllare la tempestiva effettuazione dei versamenti dell'imposta, da eseguirsi ai sensi dell'articolo 1, comma 4, del decreto del Presidente della Repubblica 23 marzo 1998, n. 100, degli articoli 6 e 7 del decreto del Presidente della Repubblica 14 ottobre 1999, n. 542, nonche' dell'articolo 6 della legge 29 dicembre 1990, n. 405.
 
@@ -2578,6 +3932,45 @@ Il Ministro delle finanze dispone annualmente la pubblicazione di elenchi di con
 
 ## Art. 67. — Importazioni
 
+1.
+                        
+                            
+                                Costituiscono importazioni le seguenti operazioni aventi per oggetto beni introdotti nel territorio dello Stato, che siano originari da Paesi o territori non compresi nel territorio della Comunita' e che non siano stati gia' immessi in libera pratica in altro Paese membro della Comunita' medesima, ovvero che siano provenienti dai territori da considerarsi esclusi dalla Comunita' a norma dell'articolo 7: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le operazioni di immissione in libera pratica; (139) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le operazioni di perfezionamento attivo di cui all'articolo 2, lettera b), del regolamento CEE n. 1999/85 del Consiglio del 16 luglio 1985; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le operazioni di ammissione temporanea aventi per oggetto beni, destinati ad essere riesportati tal quali, che, in ottemperanza alle disposizioni della Comunita' economica europea, non fruiscano della esenzione totale dai dazi di importazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le operazioni di immissione in consumo relative a beni provenienti dal Monte Athos, dalle isole Canarie, dai Dipartimenti francesi d'oltremare, dal comune di Campione d'Italia e dalle acque italiane del Lago di Lugano; (201) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DALLA L. 18 FEBBRAIO 1997, N.28
+
 Sono altresi' soggette all'imposta le operazioni di reimportazione a scarico di esportazione temporanea fuori della Comunita' economica europea e quelle di reintroduzione di beni precedentemente esportati fuori della Comunita' medesima.
 
 Per le importazioni di cui al comma 1, lettera a), il pagamento dell'imposta e' sospeso qualora si tratti di beni destinati a essere trasferiti in un altro Stato membro dell'Unione europea, eventualmente dopo l'esecuzione di manipolazioni di cui ((all'allegato 71-03 del regolamento delegato (UE) 2015/2446 della Commissione, del 28 luglio 2015)), previamente autorizzate dall'autorita' doganale. (139)
@@ -2718,7 +4111,50 @@ che la presente modifica si applica dal 1º gennaio 2018.
 
 ## Art. 70-ter. — (Vincolo finanziario, vincolo economico e vincolo organizzativo)
 
+1.
+                        
+                            
+                                Si considera sussistente un vincolo finanziario tra soggetti passivi stabiliti nel territorio dello Stato quando, ai sensi dell'articolo 2359, primo comma, numero 1), del codice civile e almeno dal 1º luglio dell'anno solare precedente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tra detti soggetti esiste, direttamente o indirettamente, un rapporto di controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    detti soggetti sono controllati, direttamente o indirettamente, dal medesimo soggetto, purche' residente nel territorio dello Stato ovvero in uno Stato con il quale l'Italia ha stipulato un accordo che assicura un effettivo scambio di informazioni.
+
 Il vincolo finanziario si considera altresi' sussistente tra i soggetti passivi, stabiliti nel territorio dello Stato, partecipanti ad un Gruppo Bancario di cui all'articolo 37-bis del testo unico di cui al decreto legislativo 1° settembre 1993, n. 385.
+
+2.
+                        
+                            
+                                Si considera sussistente un vincolo economico tra soggetti passivi stabiliti nel territorio dello Stato sulla base dell'esistenza di almeno una delle seguenti forme di cooperazione economica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolgimento di un'attivita' principale dello stesso genere; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolgimento di attivita' complementari o interdipendenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgimento di attivita' che avvantaggiano, pienamente o sostanzialmente, uno o piu' di essi.
 
 Si considera sussistente un vincolo organizzativo tra soggetti passivi stabiliti nel territorio dello Stato quando tra detti soggetti esiste un coordinamento, in via di diritto, ai sensi delle disposizioni di cui al libro quinto, titolo V, capo IX, del codice civile, o in via di fatto, tra gli organi decisionali degli stessi, ancorche' tale coordinamento sia svolto da un altro soggetto.
 
@@ -2737,6 +4173,70 @@ Il vincolo economico si considera in ogni caso insussistente per i soggetti per 
 ## Art. 70-quater. — (( (Costituzione del gruppo IVA). ))
 
 ((
+
+1.
+                        
+                            
+                                Il gruppo IVA e' costituito a seguito di un'opzione esercitata da tutti i soggetti passivi stabiliti nel territorio dello Stato per i quali ricorrano congiuntamente i vincoli finanziario, economico e organizzativo di cui all'articolo 70-ter. In caso di mancato esercizio dell'opzione da parte di uno o piu' dei soggetti di cui al periodo precedente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' recuperato a carico del gruppo IVA l'effettivo vantaggio fiscale conseguito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il gruppo IVA cessa a partire dall'anno successivo rispetto a quello in cui viene accertato il mancato esercizio dell'opzione, a meno che i predetti soggetti non esercitino l'opzione per partecipare al gruppo medesimo.
+
+2.
+                        
+                            
+                                L'opzione di cui al comma 1 e' esercitata mediante la presentazione, in via telematica, da parte del rappresentante del gruppo, della dichiarazione di cui all'articolo 70-duodecies, comma 5, nella quale sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione del gruppo IVA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati identificativi del rappresentante del gruppo IVA, di seguito denominato "rappresentante di gruppo", e dei soggetti partecipanti al gruppo medesimo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attestazione della sussistenza, tra i soggetti partecipanti al gruppo, dei vincoli di cui all'articolo 70-ter; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'attivita' o le attivita' che saranno svolte dal gruppo IVA; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'elezione di domicilio presso il rappresentante di gruppo da parte di ciascun soggetto partecipante al gruppo medesimo, ai fini della notifica degli atti e dei provvedimenti relativi ai periodi d'imposta per i quali e' esercitata l'opzione; l'elezione di domicilio e' irrevocabile fino al termine del periodo di decadenza dell'azione di accertamento o di irrogazione delle sanzioni relative all'ultimo anno di validita' dell'opzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la sottoscrizione del rappresentante di gruppo, che presenta la dichiarazione, e degli altri soggetti di cui al presente comma.
 
 Se la dichiarazione di cui al comma 2 e' presentata dal 1º gennaio al 30 settembre, l'opzione di cui al comma 1 ha effetto a decorrere dall'anno successivo. Se la dichiarazione di cui al comma 2 e' presentata dal 1º ottobre al 31 dicembre, l'opzione di cui al comma 1 ha effetto a decorrere dal secondo anno successivo.
 
@@ -2862,6 +4362,45 @@ che la presente modifica si applica dal 1º gennaio 2018.
 
 L'opzione di cui all'articolo 70-quater, comma 1, da parte di un soggetto, per il quale non sussistono i requisiti di cui all'articolo 70-bis, e' priva di effetti limitatamente a tale soggetto.
 
+2.
+                        
+                            
+                                Ciascun soggetto partecipante a un gruppo IVA cessa di partecipare al gruppo medesimo se si verifica uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    viene meno il vincolo finanziario nei riguardi di tale soggetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' riconosciuto, ai sensi dell'articolo 70-ter, comma 5, il venir meno del vincolo economico od organizzativo nei riguardi di tale soggetto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tale soggetto subisce il sequestro giudiziario dell'azienda ai sensi dell'articolo 670 del codice di procedura civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tale soggetto e' sottoposto a una procedura concorsuale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tale soggetto e' posto in liquidazione ordinaria.
+
 La partecipazione al gruppo IVA cessa a decorrere dalla data in cui si verificano gli eventi previsti nel comma 2, lettere a), c), d) o e), e ha effetto per le operazioni compiute e per gli acquisti e le importazioni annotati a partire da tale data. Nell'ipotesi di cui al comma 2, lettera b), la partecipazione al gruppo IVA cessa a decorrere dall'anno successivo a quello in cui e' riconosciuto il venir meno del vincolo. Per l'individuazione della data in cui si verifica l'evento, nelle ipotesi di cui alle lettere c), d) o e) del comma 2, si fa riferimento alla data di efficacia del provvedimento che dispone il sequestro giudiziario, alla data della sentenza dichiarativa del fallimento, alla data del decreto di ammissione al concordato preventivo, alla data del provvedimento che ordina la liquidazione coatta amministrativa, alla data del decreto che dispone la procedura di amministrazione straordinaria delle grandi imprese in crisi o alla data di assunzione della delibera assembleare della liquidazione ordinaria.
 
 Il gruppo IVA cessa quando viene meno la pluralita' dei soggetti partecipanti. In tal caso, l'eccedenza detraibile risultante dalla dichiarazione del gruppo IVA non chiesta a rimborso e' computata in detrazione dal soggetto partecipante che agiva in qualita' di rappresentante di gruppo nelle proprie liquidazioni o nella propria dichiarazione annuale.
@@ -2880,6 +4419,45 @@ che la presente modifica si applica dal 1º gennaio 2018.
 ((
 
 Per le annualita' di validita' dell'opzione, l'esercizio dei poteri previsti dagli articoli 51 e seguenti nei confronti del gruppo IVA e' demandato alle strutture, gia' esistenti, individuate con il regolamento di amministrazione dell'Agenzia delle entrate, di cui all'articolo 71, comma 3, del decreto legislativo 30 luglio 1999, n. 300, nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
+
+2.
+                        
+                            
+                                Alle strutture di cui al comma 1 sono demandate le attivita' di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    liquidazione prevista dall'articolo 54-bis; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controllo sostanziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    recupero dei crediti inesistenti utilizzati in compensazione ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione del contenzioso relativo a tutti gli atti di competenza delle strutture stesse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rimborso in materia di imposta sul valore aggiunto.
 
 Ai fini delle attivita' di controllo, nell'ipotesi di disconoscimento della validita' dell'opzione il recupero dell'imposta avviene nei limiti dell'effettivo vantaggio fiscale conseguito.
 
@@ -2919,6 +4497,59 @@ Con decreto del Ministro dell'economia e delle finanze sono stabilite le disposi
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente titolo si applicano le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Regime di franchigia: il regime applicabile dai soggetti passivi stabiliti nell'Unione europea che hanno un volume d'affari non superiore a determinate soglie, in base al quale non esercitano la rivalsa e non hanno diritto alla detrazione dell'imposta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Volume d'affari annuo dell'Unione europea: il valore totale annuo delle cessioni di beni e delle prestazioni di servizi, al netto dell'IVA, effettuate nel territorio dell'Unione europea nel corso di un anno civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Volume d'affari annuo dello Stato membro: il valore totale annuo delle cessioni di beni e delle prestazioni di servizi, al netto dell'IVA, effettuate in uno Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Soggetto stabilito: soggetto passivo che ha stabilito la sede della propria attivita' economica in uno Stato membro dell'Unione europea. Ai fini della presente definizione non rilevano le eventuali stabili organizzazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Stato di stabilimento: lo Stato membro dell'Unione europea in cui il soggetto passivo ha stabilito la sede della propria attivita' economica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Stato di esenzione: lo Stato membro dell'Unione europea diverso da quello di stabilimento, in cui il soggetto passivo chiede di essere ammesso al regime di franchigia ivi previsto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Numero di identificazione EX: il numero di identificazione individuale preceduto o seguito dal suffisso EX fornito dallo Stato membro di stabilimento ai fini dell'applicazione del regime di franchigia nello Stato di esenzione.
+
 Il regime di franchigia non si applica alle cessioni di mezzi di trasporto nuovi trasportati o spediti in un altro stato membro e alle altre cessioni di beni e prestazioni di servizi escluse dallo Stato di esenzione.
 
 Per la determinazione del volume d'affari non sono prese in considerazione le cessioni di beni d'investimento materiali o immateriali e le operazioni esenti di cui all'articolo 10 escluse quelle di cui ai numeri da 1 a 4, 8, 8-bis, 9, salvo che non abbiano carattere accessorio, e le operazioni di cui al numero 11 del medesimo articolo 10.
@@ -2940,6 +4571,45 @@ stabiliti in altri Stati membri dell'Unione europea))
 ## Art. 70-quaterdecies. — (( (Condizioni di ammissione).))
 
 ((
+
+1.
+                        
+                            
+                                Un soggetto passivo persona fisica stabilito in un altro Stato membro dell'Unione europea puo' applicare il regime di franchigia nel territorio dello Stato se ricorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'anno civile precedente, il volume d'affari annuo dell'Unione europea non e' stato superiore a 100.000 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'anno civile precedente, il volume d'affari annuo realizzato nel territorio dello Stato non e' stato superiore a 85.000 euro o alla minor soglia stabilita dall'articolo 1, comma 54, della legge 23 dicembre 2014, n. 190; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel periodo dell'anno civile in corso precedente alla notifica di cui alla lettera d), il volume d'affari nell'Unione europea non e' superiore a 100.000 euro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ha previamente comunicato al proprio Stato di stabilimento l'intenzione di avvalersi del regime di franchigia nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' identificato, ai fini dell'applicazione del regime di franchigia, dal numero di identificazione EX esclusivamente nello Stato membro di stabilimento.
 
 2. Il soggetto passivo non puo' comunque avvalersi del regime di franchigia IVA se, nel territorio dello Stato:
 
@@ -2988,6 +4658,38 @@ Il soggetto passivo ammesso al regime di franchigia ai sensi dell'articolo 70-qu
 
 ((
 
+1.
+                        
+                            
+                                Un soggetto passivo non stabilito cessa di applicare il regime di franchigia nello Stato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se ha comunicato allo Stato di stabilimento di non avvalersi del regime di franchigia nel territorio dello Stato, a partire dal primo giorno del trimestre civile successivo a quello in cui lo Stato di stabilimento ha ricevuto tale comunicazione o, se tale comunicazione e' stata ricevuta nel corso dell'ultimo mese del trimestre civile, a partire dal primo giorno del secondo mese del trimestre civile successivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se sono venute meno le condizioni di cui all'articolo 70-quaterdecies, comma 1, lettera b), e comma 2, a partire dall'anno civile successivo a quello in cui tali condizioni sono venute meno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se e' superata la soglia di 100.000 euro di volume d'affari dello Stato, a partire dall'anno civile nel corso del quale la soglia e' stata superata. In tale caso l'imposta e' dovuta a partire dall'effettuazione dell'operazione che comporta il superamento di tale soglia e dalla medesima data il soggetto passivo e' tenuto a identificarsi ai fini IVA nello Stato e a effettuare gli adempimenti previsti ai fini dell'imposta sul valore aggiunto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    negli altri casi in cui e' disattivato il numero di identificazione EX, dal momento in cui tale identificazione e' venuta meno.
+
 2. L'Agenzia delle entrate, sulla base delle informazioni ricevute dallo Stato di stabilimento nonche' di quelle eventualmente a sua disposizione, comunica tempestivamente con mezzi elettronici allo Stato di stabilimento la data in cui il regime di franchigia ha cessato di applicarsi nel territorio dello Stato.))
 
 ((237))
@@ -3003,6 +4705,91 @@ dell'Unione europea da parte di soggetti stabiliti nello Stato))
 ## Art. 70-octiesdecies. — (( (Condizioni di ammissione).))
 
 ((
+
+1.
+                        
+                            
+                                Un soggetto passivo stabilito nel territorio dello Stato puo' essere ammesso al regime di franchigia nel territorio di altri Stati membri dell'Unione europea che hanno adottato tale regime se ricorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'anno civile precedente alla comunicazione, il volume d'affari annuo dell'Unione europea non e' stato superiore a 100.000 euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel periodo dell'anno civile in corso precedente alla comunicazione, il volume d'affari annuo dell'Unione europea non e' stato superiore a 100.000 euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il volume d'affari annuo realizzato nel territorio dello Stato di esenzione non e' superiore a quello previsto da tale Stato per l'applicazione del regime di franchigia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ha comunicato preventivamente all'Agenzia delle entrate l'intenzione di avvalersi del regime di franchigia nel territorio di altri Stati di esenzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    e' identificato ai fini dell'applicazione della franchigia nel solo territorio dello Stato.
+
+2.
+                        
+                            
+                                Nella comunicazione di cui alla lettera d) del comma 1 sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il nome e cognome ovvero la denominazione o ragione sociale, l'attivita', la forma giuridica, la residenza anagrafica o, se diverso, il domicilio fiscale del soggetto passivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero di partita IVA, il codice fiscale e altri eventuali numeri identificativi assegnati al soggetto passivo da altri Stati di esenzione ai fini dell'imposta sul valore aggiunto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo Stato o gli Stati di esenzione in cui il soggetto passivo intende avvalersi del regime di franchigia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il valore totale delle cessioni di beni e delle prestazioni di servizi effettuate, nei due anni civili precedenti la comunicazione, nel territorio dello Stato e in ciascuno degli altri Stati membri, compresi gli Stati diversi da quelli di esenzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il valore totale delle cessioni di beni e delle prestazioni di servizi effettuate, nel periodo dell'anno civile in corso precedente la comunicazione, nel territorio dello Stato e in ciascuno degli altri Stati membri, compresi gli Stati diversi da quelli di esenzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le ulteriori informazioni individuate con il provvedimento del direttore dell'Agenzia delle entrate di cui all'articolo 70-terdecies, comma 5.
 
 Le informazioni di cui alle lettere d) ed e) del comma 2, per gli Stati di esenzione che hanno fissato soglie di franchigia differenziate per settori di attivita', sono fornite distintamente per ciascun settore di attivita' esercitata.
 
@@ -3043,6 +4830,24 @@ L'Agenzia delle entrate assegna al soggetto passivo il suffisso EX, aggiungendol
 
 ((
 
+1.
+                        
+                            
+                                Il soggetto passivo ammesso al regime di franchigia in uno Stato di esenzione comunica all'Agenzia delle entrate, entro l'ultimo giorno del mese successivo a ogni trimestre civile, le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il valore totale delle cessioni e delle prestazioni effettuate nel corso del trimestre civile nel territorio dello Stato, oppure l'assenza di operazioni qualora non ne siano state effettuate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il valore totale espresso in euro delle cessioni e prestazioni effettuate nel corso del trimestre civile in ciascuno altro Stato membro, compresi gli Stati diversi da quelli di esenzione, oppure l'assenza di operazioni qualora non ne siano state effettuate.
+
 Le informazioni di cui alle lettere a) e b) del comma 1, per gli Stati di esenzione che hanno fissato soglie di franchigia differenziate per settori di attivita', sono fornite distintamente per ciascun settore di attivita' esercitata.
 
 3. Il soggetto passivo che si avvale del regime di franchigia in uno o piu' Stati di esenzione comunica all'Agenzia delle entrate il superamento della soglia di 100.000 euro di volume d'affari annuo nell'Unione europea, nonche' la data in cui si e' verificato tale evento, entro 15 giorni lavorativi da tale superamento e, contestualmente, comunica il valore delle cessioni e prestazioni effettuate dall'inizio del trimestre civile in corso fino alla data di superamento della soglia.))
@@ -3057,6 +4862,24 @@ Le informazioni di cui alle lettere a) e b) del comma 1, per gli Stati di esenzi
 ## Art. 70-duovicies. — (( (Cessazione del regime di franchigia).))
 
 ((
+
+1.
+                        
+                            
+                                Il soggetto passivo cessa di applicare il regime di franchigia nello Stato di esenzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se ha comunicato di non volersi piu' avvalere del regime di franchigia in tale Stato, a partire dal primo giorno del trimestre civile successivo a quello in cui l'Agenzia delle entrate ha ricevuto la comunicazione o, se la comunicazione e' presentata nel corso dell'ultimo mese del trimestre civile, a partire dal primo giorno del secondo mese del trimestre successivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se e' superata la soglia di volume d'affari annuo prevista da tale Stato per l'applicazione della franchigia o se tale Stato ha comunicato che nel suo territorio sono venute meno le condizioni per l'applicazione del regime di franchigia, a partire dalla data di esclusione comunicata da tale Stato.
 
 Se, nel corso dell'anno civile, e' superata la soglia di 100.000 euro di volume d'affari nell'Unione europea, il soggetto passivo cessa di applicare il regime di franchigia in tutti gli Stati di esenzione a partire da tale momento.
 
@@ -3083,6 +4906,59 @@ Le disposizioni degli articoli 8 e 9 si applicano alle cessioni eseguite mediant
  Il D.P.R. 23 dicembre 1974, n. 687, ha disposto (con l'art. 3) che le presenti modifiche hanno effetto dal 1 gennaio 1975.
 
 ## Art. 72. — (Operazioni non imponibili)
+
+1.
+                        
+                            
+                                Agli effetti dell'imposta, le seguenti operazioni sono non imponibili e sono equiparate a quelle di cui agli articoli 8, 8-bis e 9: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le cessioni di beni e le prestazioni di servizi effettuate nei confronti delle sedi e dei rappresentanti diplomatici e consolari, compreso il personale tecnico-amministrativo, appartenenti a Stati che in via di reciprocita' riconoscono analoghi benefici alle sedi e ai rappresentanti diplomatici e consolari italiani; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le cessioni di beni e le prestazioni di servizi effettuate nei confronti dei comandi militari degli Stati membri, dei quartieri generali militari internazionali e degli organismi sussidiari, installati in esecuzione del Trattato del Nord Atlantico, nell'esercizio delle proprie funzioni istituzionali, nonche' all'amministrazione della difesa qualora agisca per conto dell'organizzazione istituita con il medesimo Trattato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le cessioni di beni e le prestazioni di servizi effettuate nei confronti dell'Unione europea, della Comunita' europea dell'energia atomica, della Banca centrale europea, della Banca europea per gli investimenti e degli organismi istituiti dall'Unione cui si applica il protocollo sui privilegi e sulle immunita' delle Comunita' europee, firmato a Bruxelles l'8 aprile 1965, reso esecutivo con legge 3 maggio 1966, n. 437, alle condizioni e nei limiti fissati da detto protocollo e dagli accordi per la sua attuazione o dagli accordi di sede e sempre che cio' non comporti distorsioni della concorrenza, anche se effettuate nei confronti di imprese o enti per l'esecuzione di contratti di ricerca e di associazione conclusi con l'Unione, nei limiti, per questi ultimi, della partecipazione dell'Unione stessa; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    le cessioni di beni effettuate nei confronti della Commissione europea o di un'agenzia o di un organismo istituito a norma del diritto dell'Unione europea, qualora la Commissione o tale agenzia od organismo acquisti tali beni o servizi nell'ambito dell'esecuzione dei compiti conferiti dal diritto dell'Unione europea al fine di rispondere alla pandemia di COVID-19, tranne nel caso in cui i beni e i servizi acquistati siano utilizzati, immediatamente o in seguito, ai fini di ulteriori cessioni o prestazioni effettuate a titolo oneroso dalla Commissione o da tale agenzia od organismo.
+Qualora vengano meno le condizioni previste dal periodo precedente, la Commissione, l'agenzia interessata o l'organismo interessato informa l'amministrazione finanziaria e la cessione di tali beni e' soggetta all'IVA alle condizioni applicabili in quel momento; (211) 
+                                
+                            
+                            
+                                d)
+                                
+                                    le cessioni di beni e le prestazioni di servizi effettuate nei confronti dell'Organizzazione delle Nazioni Unite e delle sue istituzioni specializzate nell'esercizio delle proprie funzioni istituzionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le cessioni di beni e le prestazioni di servizi effettuate nei confronti dell'Istituto universitario europeo e della Scuola europea di Varese nell'esercizio delle proprie funzioni istituzionali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le cessioni di beni e le prestazioni di servizi effettuate nei confronti degli organismi internazionali riconosciuti, diversi da quelli di cui alla lettera c), nonche' dei membri di tali organismi, alle condizioni e nei limiti fissati dalle convenzioni internazionali che istituiscono tali organismi o dagli accordi di sede.
 
 Le disposizioni di cui al comma 1 trovano applicazione per gli enti ivi indicati alle lettere a), c), d) ed e) se le cessioni di beni e le prestazioni di servizi sono di importo superiore ad euro 300; per gli enti indicati nella lettera a) le disposizioni non si applicano alle operazioni per le quali risulta beneficiario un soggetto diverso, ancorche' il relativo onere sia a carico degli enti e dei soggetti ivi indicati. Il predetto limite di euro 300 non si applica alle cessioni di prodotti soggetti ad accisa, per le quali la non imponibilita' relativamente all'imposta opera alle stesse condizioni e negli stessi limiti in cui viene concessa l'esenzione dai diritti di accisa.
 
@@ -3297,7 +5173,103 @@ I soggetti passivi domiciliati o residenti fuori dell'Unione europea, non stabil
 I soggetti che si avvalgono del regime previsto dal presente articolo sono dispensati dagli obblighi di cui ((al titolo II; qualora sia emessa fattura si applicano le disposizioni di cui agli articoli 21 e seguenti.))
                                 ((209))
 
+3.
+                        
+                            
+                                La richiesta di cui al comma 1 contiene almeno le seguenti indicazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le persone fisiche, il cognome e nome ed eventualmente la ditta; per i soggetti diversi dalle persone fisiche, la ragione sociale, la denominazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indirizzo postale, indirizzi elettronici, inclusi i siti web; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero di codice fiscale attribuito dallo Stato di residenza o domicilio, se previsto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione di non essere stabiliti ai fini dell'imposta sul valore aggiunto all'interno dell'Unione europea.
+
 In caso di variazione dei dati presentati, i soggetti di cui al comma 1 ne danno comunicazione all'Agenzia delle entrate. Gli stessi soggetti presentano un'analoga comunicazione se non intendono piu' fornire servizi ((di cui al comma 1)) o non soddisfano piu' i requisiti per avvalersi del regime speciale previsto dal presente articolo. ((209))
+
+5.
+                        
+                            
+                                I soggetti identificati ai sensi del presente articolo sono esclusi dal regime speciale se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comunicano di non fornire piu' servizi ((di cui al comma 1)); ((209))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    si puo' altrimenti presumere che le loro attivita' di fornitura di servizi ((di cui al comma 1)) siano cessate; ((209))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    non soddisfano piu' i requisiti necessari per avvalersi del regime speciale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    persistono a non osservare le norme relative al presente regime speciale.
+
+6.
+                        
+                            
+                                I soggetti di cui al comma 1 presentano, per ciascun trimestre dell'anno solare ed entro ((la fine)) del mese successivo al trimestre di riferimento, anche in mancanza di operazioni, una dichiarazione dalla quale risultano: ((209))
+                                
+                            
+                            
+                                a)
+                                
+                                    il numero di identificazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare delle prestazioni di servizi ((di servizi di cui al comma 1 effettuate nel periodo di riferimento, distintamente per ciascuno Stato membro in cui la prestazione di servizi si considera effettuata)) e suddiviso per aliquote, al netto dell'imposta sul valore aggiunto;((209))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    le aliquote applicate in relazione allo Stato membro ((in cui la prestazione di servizi si considera effettuata));((209))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ammontare dell'imposta sul valore aggiunto, suddiviso per aliquote, spettante a ciascuno Stato membro ((in cui la prestazione di servizi si considera effettuata)).((209))
 
 ((6-bis. La dichiarazione puo' essere modificata entro tre anni dalla data in cui doveva essere presentata la dichiarazione iniziale con una dichiarazione relativa a periodi d'imposta successivi, indicando il pertinente Stato membro in cui la prestazione di servizi si considera effettuata, il periodo di imposta e l'importo dell'imposta in relazione ai quali sono richieste le modifiche.))
 

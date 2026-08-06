@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2014-02-19;20
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -56,6 +56,44 @@ Il comma 1 dell'articolo 3 e' sostituito dal seguente:
 Modifiche all'articolo 4 «Denominazioni di vendita 
  ed altre indicazioni» del decreto legislativo 
  21 maggio 2004, n. 151
+
+1.
+                    
+                        
+                            All'articolo 4 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, la lettera a) e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. L'etichettatura del succo di frutta concentrato di cui all'allegato I, punto 2, non destinato al consumatore finale, contiene un riferimento indicante la presenza e la quantita' di succo di limone o di limetta o di sostanze acidificanti aggiunti consentiti dal regolamento (CE) n. 1333/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo agli additivi alimentari.
+Tale menzione e' riportata: 
+ a) sull'imballaggio, oppure; 
+ b) su un'etichetta apposta sull'imballaggio, oppure; 
+ c) su un documento di accompagnamento.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, le parole: «se il prodotto e' fabbricato con due o piu' specie, salvo quando viene utilizzato il succo di limone alle condizioni stabilite dall'articolo 2, la denominazione di vendita e' completata dall'indicazione della frutta utilizzata, in ordine decrescente di volume dei succhi o delle puree di frutta; tuttavia nel caso di prodotti fabbricati con almeno tre frutti, l'indicazione della frutta utilizzata puo' essere sostituita dalla dicitura "piu' specie di frutta" o "piu' frutti", da un'indicazione simile o dal numero delle specie di frutta utilizzate.» sono sostituite dalle seguenti: «se il prodotto e' fabbricato con due o piu' specie di frutta, salvo quando viene utilizzato succo di limone e/o di limetta, alle condizioni stabilite nell'allegato I, parte II, punto 2, la denominazione di vendita e' costituita dall'indicazione della frutta utilizzata, in ordine decrescente di volume dei succhi o delle puree di frutta, come riportata nell'elenco degli ingredienti. Tuttavia, nel caso di prodotti fabbricati con tre o piu' specie di frutta, l'indicazione della frutta utilizzata puo' essere sostituita dalla dicitura 'piu' specie di frutta', da un'indicazione simile o da quella relativa al numero delle specie utilizzate.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 6, e' aggiunto il seguente: 
+ «6-bis. Ai fini della preparazione e della denominazione di succhi di frutta, purea di frutta e nettari di frutta, si applica quanto disposto nell'allegato I, parte II, punto 1.».
 
 ## Art. 5.
 

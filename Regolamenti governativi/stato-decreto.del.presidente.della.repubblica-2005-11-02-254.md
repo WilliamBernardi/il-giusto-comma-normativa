@@ -8,8 +8,8 @@ codice_redazionale: 005G0279
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,38 @@ Sulla proposta del Ministro delle attivita' produttive, di concerto con il Minis
 ## Art. 1. — Principi generali
 
 La gestione delle camere di commercio, industria, artigianato e agricoltura, di seguito denominate: «camere di commercio», e' informata ai principi generali della contabilita' economica e patrimoniale e risponde ai requisiti della veridicita', universalita', continuita', prudenza, chiarezza.
+
+2.
+                        
+                            
+                                Agli effetti del presente regolamento si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    consiglio: il consiglio definito ai sensi dell'articolo 10 della legge 29 dicembre 1993, n. 580;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    giunta: la giunta definita ai sensi dell'articolo 14 della legge 29 dicembre 1993, n. 580;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segretario generale: il segretario generale nominato ai sensi dell'articolo 20 della legge 29 dicembre 1993, n. 580;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    organo di valutazione strategica: l'organo di valutazione strategica definito ai sensi dell'articolo 6 del decreto legislativo 30 luglio 1999, n. 286.
 
 ## Art. 2. — Disposizioni di carattere generale
 
@@ -93,6 +125,31 @@ Gli oneri comuni di cui al comma 2 sono assegnati in sede di budget direzionale 
 
 ## Art. 10. — Formazione del budget direzionale
 
+1.
+                        
+                            
+                                La formazione del budget direzionale avviene sulla base dei seguenti principi:
+ 
+                            
+                            
+                                a)
+                                
+                                    le previsioni di oneri, di proventi e di acquisti di beni di investimento per i progetti e le attivita' delle singole aree organizzative sono determinate in coerenza con quanto disposto nella relazione previsionale e programmatica e sulla base dei programmi operativi proposti dal segretario generale, anche su indicazione dei responsabili di area;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i progetti di cui alla lettera a) sono preceduti da una valutazione dell'impatto organizzativo, dei benefici attesi e tengono conto anche delle eventuali fonti di finanziamento esterne;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la previsione delle singole voci di onere e di investimento e' formulata in relazione alle previste esigenze funzionali e agli obiettivi concretamente perseguibili dalle singole aree e non sul calcolo della spesa storica.
+
 ## - Capo II Gestione del bilancio - Spese
 
 ## Art. 11. — Gestione provvisoria
@@ -117,6 +174,59 @@ L'effettivo utilizzo delle somme di cui al comma 1 e' disposto con provvedimento
 
 Nei limiti previsti dallo stesso budget direzionale e con riferimento agli interventi di promozione non espressamente definiti in sede di relazione al preventivo di cui all'articolo 7, l'utilizzo e' disposto dal dirigente, previa approvazione della giunta, su proposta del segretario generale.
 
+4.
+                        
+                            
+                                Il dirigente dell'area economico-finanziaria provvede direttamente a liquidare, secondo le modalita' indicate nell'articolo 15, e, senza necessita' di emanare specifici provvedimenti, i seguenti oneri:
+ 
+                            
+                            
+                                a)
+                                
+                                    trattamento economico fondamentale ed accessorio del personale dipendente e relativi oneri riflessi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trattamento di quiescenza e previdenza del personale cessato dal servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    emolumenti e rimborsi previsti per i componenti degli organi collegiali e per i membri delle commissioni o comitati previsti dalla legge o dai regolamenti camerali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    canoni derivanti da contratti di utenza;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quote associative, nei limiti di quanto indicato nel budget direzionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quote di ammortamento e di preammortamento dei mutui e prestiti contratti;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    obblighi derivanti da contratti in essere di competenza dell'area economico-finanziaria o da disposizioni di legge o regolamentari.
+
 ## Art. 14. — Assunzione di mutui, partecipazioni a consorzi, societa' e associazioni, acquisto e alienazione di immobili
 
 L'assunzione di mutui e' disposta dalla giunta, previo parere del dirigente dell'area economico-finanziaria, in merito alla sostenibilita' finanziaria per l'esercizio di riferimento e per gli esercizi successivi.
@@ -135,7 +245,92 @@ L'ordinazione della spesa consiste nella disposizione impartita, mediante il man
 
 L'istituto cassiere effettua i pagamenti derivanti da obblighi tributari, da somme iscritte a ruolo e da delegazioni di pagamento, anche in assenza della preventiva emissione del relativo mandato di pagamento, che e' comunque emesso entro i quindici giorni dalla comunicazione dell'operazione.
 
+3.
+                        
+                            
+                                I mandati di pagamento contengono le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome o ragione sociale del creditore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice fiscale del creditore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    causale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    importo in cifre e in lettere;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    modalita' di estinzione del titolo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    data di emissione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    eventuale data di scadenza.
+
 I pagamenti di spese non possono essere disposti con i fondi dei conti correnti postali, ovvero con quelli pervenuti direttamente alla camera di commercio.
+
+5.
+                        
+                            
+                                I mandati di pagamento sono estinti, su richiesta espressa del creditore e con espressa annotazione sui titoli, mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    accreditamento in conto corrente postale a favore del creditore, nonche' mediante vaglia postale, la cui ricevuta di versamento, rilasciata dall'ufficio postale, deve essere allegata al titolo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    commutazione in vaglia cambiario o in assegno circolare, non trasferibile all'ordine del creditore da spedire a cura dell'istituto cassiere;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assegno bancario a copertura garantita con firma di traenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    bonifico bancario.
 
 La dichiarazione di accreditamento o di commutazione, che sostituisce la quietanza del creditore, risulta nel mandato di pagamento da annotazione recante gli estremi relativi all'operazione e la sottoscrizione dell'istituto cassiere.
 
@@ -158,6 +353,45 @@ Le entrate incassate tramite il servizio dei conti correnti postali affluiscono 
 Le reversali d'incasso sono sottoscritte dal dirigente dell'area economico-finanziaria e dal responsabile dell'ufficio ragioneria o dai rispettivi delegati.
 
 Le reversali di incasso, non riscosse entro il termine dell'esercizio, sono restituite dal cassiere alla camera di commercio per l'annullamento.
+
+6.
+                        
+                            
+                                Le reversali contengono le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome o ragione sociale del debitore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice fiscale del debitore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    causale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    importo in cifre e in lettere;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    data di emissione.
 
 Le reversali di incasso contengono, inoltre, l'indicazione di eventuali vincoli di destinazione e dell'imputazione alla contabilita' speciale fruttifera o infruttifera in cui le entrate incassate affluiscono.
 
@@ -199,6 +433,87 @@ Ai fini dell'iscrizione nello stato patrimoniale degli elementi patrimoniali e d
 
 ## Art. 23. — Nota integrativa
 
+1.
+                        
+                            
+                                Oltre a quanto stabilito dall'articolo 26, commi 6 e 7, e dall'articolo 39, comma 13, la nota integrativa indica:
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri di valutazione delle voci di bilancio, nonche', per le poste soggette ad ammortamento, i relativi criteri di ammortamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le variazioni intervenute nella consistenza delle voci dell'attivo e del passivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la consistenza delle immobilizzazioni, specificando per ciascuna voce il costo iniziale, le eventuali rivalutazioni e svalutazioni, le acquisizioni, le alienazioni e qualsiasi altra variazione che influisce sull'ammontare iscritto alla fine dell'esercizio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ammontare totale dei crediti, distinguendo quelli relativi al diritto annuale dagli altri e, nell'ambito di questi ultimi, quelli di durata residua superiore ai tre anni con la specificazione delle relative garanzie;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le variazioni intervenute nei crediti e nei debiti ai sensi dell'articolo 26, comma 10;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli utilizzi e gli accantonamenti dei fondi iscritti in bilancio e del trattamento di fine rapporto;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'elenco delle partecipazioni possedute direttamente o tramite societa' controllate o collegate, di cui all'articolo 2359, primo comma, numero 1), e terzo comma, del codice civile, evidenziando, per ciascuna di loro, il numero, il capitale sociale, il valore sottoscritto e versato, l'importo del patrimonio netto risultante dall'ultimo bilancio approvato ed il valore attribuito in bilancio;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la composizione delle voci ratei e risconti attivi e ratei e risconti passivi;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la composizione e le variazioni intervenute nei conti d'ordine;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la composizione degli oneri e proventi finanziari e degli oneri e proventi straordinari;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    i fatti di rilievo intervenuti dopo la data di chiusura del bilancio d'esercizio e fino alla sua approvazione.
+
 ## Art. 24. — Relazione sui risultati
 
 Il bilancio d'esercizio e' corredato da una relazione della giunta sull'andamento della gestione, nella quale sono individuati i risultati conseguiti rispetto agli obiettivi e ai programmi prefissati dal consiglio con la relazione previsionale e programmatica.
@@ -206,6 +521,59 @@ Il bilancio d'esercizio e' corredato da una relazione della giunta sull'andament
 Alla relazione di cui al comma 1 e' allegato il consuntivo dei proventi, degli oneri e degli investimenti, relativamente alle funzioni istituzionali, indicati nel preventivo di cui all'articolo 6.
 
 ## Art. 25. — Determinazione del risultato economico dell'esercizio
+
+1.
+                        
+                            
+                                Ai fini della determinazione del risultato economico dell'esercizio si considerano anche i seguenti proventi ed oneri:
+ 
+                            
+                            
+                                a)
+                                
+                                    le quote di ammortamento relative ai beni di cui ai commi 1, 2 e 3, dell'articolo 26;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la quota di accantonamento al fondo per il trattamento di fine rapporto di competenza dell'esercizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le eventuali quote di accantonamento ai fondi rischi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le perdite su crediti e gli accantonamenti al fondo svalutazione crediti, anche ai sensi di quanto disposto dal comma 10 dell'articolo 26;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le quote di costo o di ricavo corrispondenti ai ratei e risconti attivi e passivi di competenza dell'esercizio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i rischi e le perdite di competenza dell'esercizio anche se conosciuti dopo la chiusura dell'esercizio fino alla data di approvazione della delibera di bilancio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le variazioni patrimoniali relative agli esercizi pregressi che si sono tradotte in oneri e proventi nel corso dell'esercizio, nonche' ogni altro componente di reddito da contabilizzare nel rispetto del principio della competenza economica.
 
 ## - Capo II Criteri di valutazione
 
@@ -243,6 +611,52 @@ Per la rilevazione dei fatti di gestione secondo i principi generali enunciati a
 
 ## Art. 28. — Sistema informativo
 
+1.
+                        
+                            
+                                La valutazione e il controllo strategico e la struttura incaricata del servizio per il controllo di gestione di cui agli articoli 35 e 36 utilizzano, per le proprie finalita' i seguenti sistemi automatizzati e procedure manuali:
+ 
+                            
+                            
+                                a)
+                                
+                                    sistemi e procedure relativi alle rendicontazioni contabili per funzioni e aree organizzative (reports periodici);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sistemi e procedure relativi alla gestione del personale (di tipo economico, finanziario e di attivita' - presenze, assenze, attribuzione a centro di responsabilita);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sistemi e procedure relativi al fabbisogno e al dimensionamento del personale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sistemi e procedure di rilevazione quantitativa e qualitativa delle unita' di misurazione dei servizi e delle attivita' svolti dalla camera di commercio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sistemi e procedure relativi alla analisi delle spese di funzionamento (personale, beni e servizi);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sistemi e procedure di contabilita' analitica.
+
 ## - Titolo V SISTEMA DEI CONTROLLI  Capo I Controlli amministrativi contabili
 
 ## Art. 29. — Compiti del collegio dei revisori dei conti
@@ -254,6 +668,52 @@ Il collegio dei revisori dei conti svolge i compiti stabiliti dall'articolo 17 d
 Il collegio di revisori dei conti esprime, collegialmente, il parere sugli atti deliberativi della giunta concernenti il preventivo e il suo aggiornamento, il bilancio d'esercizio, nonche' sugli schemi di delibere di giunta, concernenti la contrazione dei mutui e l'assunzione di partecipazioni societarie.
 
 La relazione al preventivo contiene il parere sull'attendibilita' dei proventi, degli oneri e degli investimenti.
+
+3.
+                        
+                            
+                                La relazione al bilancio d'esercizio attesta:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esistenza delle attivita' e passivita' e la loro corretta esposizione in bilancio, nonche' l'attendibilita' delle valutazioni di bilancio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la correttezza dei risultati finanziari, economici e patrimoniali della gestione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esattezza e la chiarezza dei dati contabili presentati nei prospetti di bilancio e nei relativi allegati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la corrispondenza dei dati di bilancio con le scritture contabili;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la corretta applicazione delle norme di amministrazione e contabilita' e di quelle fiscali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la relazione del collegio dei revisori si conclude con un giudizio esplicito circa l'approvazione del documento contabile.
 
 A tale fine la giunta fa pervenire al collegio dei revisori dei conti i documenti necessari almeno quindici giorni prima del giorno fissato per l'adozione dei provvedimenti da parte del consiglio per quanto concerne il preventivo e suo aggiornamento ed il bilancio d'esercizio e tre giorni per gli altri provvedimenti.
 
@@ -313,9 +773,207 @@ Entro il termine di due mesi dalla chiusura dell'esercizio l'istituto cassiere e
 
 ## Art. 38. — Provveditorato
 
+1.
+                        
+                            
+                                Il provveditorato cura:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli adempimenti connessi all'espletamento dei procedimenti riguardanti le gare, gli affidamenti a trattativa privata ed in economia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli adempimenti connessi alla stipulazione ed all'esecuzione dei contratti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la custodia dei contratti e la tenuta del relativo registro, segnalando al segretario generale i contratti in scadenza, con congruo anticipo rispetto al termine della scadenza medesima;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la gestione dei beni mobili ed immobili, comprese, per i beni immobili, la manutenzione e conservazione correnti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'acquisto delle forniture, dei beni e dei servizi necessari al funzionamento degli uffici, con la tenuta dei relativi registri di carico e scarico;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli ordinativi per la fornitura dei beni e dei servizi in economia secondo quanto disposto dal decreto del Ministro delle attivita' produttive, adottato di concerto con il Ministro dell'economia e delle finanze, in data 3 dicembre 2004, pubblicato nella Gazzetta Ufficiale n. 293 del 15 dicembre 2004;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la realizzazione dei lavori secondo quanto disposto dal decreto del Ministro delle attivita' produttive, adottato di concerto con il Ministro dell'economia e delle finanze, in data 3 dicembre 2004, pubblicato nella Gazzetta Ufficiale n. 293 del 15 dicembre 2004;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la tenuta dei libri degli inventari di beni mobili ed immobili secondo le modalita' previste nell'articolo 39;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la gestione del servizio di cassa interna ai sensi dell'articolo 43;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la custodia delle somme e dei valori che pervengono alla camera di commercio effettuando, di norma giornalmente, il versamento all'istituto cassiere o sul conto corrente postale;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la registrazione del movimento di numerario nel quale sono gestiti tutti i valori che comunque pervengono alla camera di commercio;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il controllo dell'utilizzo degli autoveicoli camerali.
+
 ## Art. 39. — Gestione patrimoniale
 
 Il patrimonio della camera di commercio si distingue in beni materiali e immateriali.
+
+2.
+                        
+                            
+                                I beni immobili sono inventariati con le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    numero d'inventario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione, ubicazione ed uso cui sono destinati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    estremi catastali: partita catastale, classificazione, rendita catastale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli di acquisizione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    valore iniziale e successive variazioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    servitu', pesi, oneri, di cui siano gravati;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli eventuali redditi.
+
+3.
+                        
+                            
+                                Gli altri beni materiali sono inventariati con le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    numero d'inventario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    denominazione secondo la natura e la specie, quantita' o numero;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prezzo e data di acquisto, ditta fornitrice ed estremi della fattura di pagamento, ovvero valore;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    locale di ubicazione.
+
+4.
+                        
+                            
+                                I beni immateriali sono inventariati in apposita sezione con le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    numero d'inventario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione delle specifiche tecniche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prezzo e data di acquisto, ditta fornitrice ed estremi della fattura di pagamento, ovvero valore.
 
 Per i programmi e le licenze d'uso occorre indicare le attrezzature sulle quali gli stessi sono installati.
 
@@ -437,6 +1095,24 @@ L'aggiudicazione e' disposta con provvedimento del segretario generale.
 
 ## Art. 50. — Criteri di aggiudicazione della licitazione privata
 
+1.
+                        
+                            
+                                Le gare a licitazione privata sono aggiudicate in base ai seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    al prezzo piu' basso, se la fornitura dei beni e dei servizi che formano oggetto della licitazione debbono essere conformi ad appositi capitolati o disciplinari tecnici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a favore dell'offerta economicamente piu' vantaggiosa, valutabile in base ad elementi diversi, variabili a seconda della natura della prestazione, quali il prezzo, il termine di esecuzione o di consegna, il costo di utilizzazione, il rendimento, la qualita', il carattere estetico e funzionale, il valore tecnico, il servizio successivo alla vendita e l'assistenza tecnica; in questo caso i criteri da applicare per l'aggiudicazione della gara sono menzionati nei capitolati di oneri, con precisazione dei coefficienti attribuiti a ciascun elemento.
+
 Nei casi di cui alla lettera a), l'ente camerale ha facolta' di rigettare con provvedimento motivato, escludendole dalle gare, le offerte che risultano inferiori per oltre il 50 per cento alla media delle offerte pervenute.
 
 ## Art. 51. — Appalto-concorso
@@ -452,6 +1128,59 @@ Se nessuno dei progetti presentati risulta rispondente alle esigenze dell'ente c
 L'aggiudicazione e' disposta con provvedimento del segretario generale.
 
 ## Art. 52. — Trattativa privata
+
+1.
+                        
+                            
+                                La procedura della trattativa privata e' consentita nell'ambito della disciplina generale vigente:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso in cui l'asta o la licitazione e' andata deserta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di acquisto di beni, prestazione di servizi che una sola impresa puo' eseguire o fornire con i requisiti tecnici e il grado di perfezione richiesti; quando l'acquisto riguarda beni la cui produzione e' garantita da privativa industriale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando l'urgenza degli acquisti, delle vendite, delle forniture e dei servizi non consente l'indugio dovuto allo svolgimento di gare per licitazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di fornitura di servizi complementari non considerati nei contratti originari e che sono resi necessari da circostanze impreviste per l'esecuzione delle medesime forniture, a condizione che siano affidati alla stessa impresa contraente e che non possano essere separati dalla prestazione principale, ovvero, benche' separabili, sono strettamente necessari per il completamento delle originarie forniture e il loro ammontare non superi il 50 per cento dell'importo del contratto originario;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nel caso di affidamento, alla stessa impresa fornitrice, di forniture destinate al rinnovo parziale o all'ampliamento di quelle esistenti, in quanto il ricorso ad altri fornitori comporterebbe l'acquisto di prodotti differenti il cui impiego o la cui manutenzione creerebbe incompatibilita' tecniche o difficolta';
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per l'acquisto, la permuta e la locazione attiva o passiva di immobili;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per l'acquisto di beni e servizi o l'affidamento di incarichi specialistici o di studio a societa', organismi e strutture del sistema camerale.
 
 Se ricorrono i casi indicati nelle lettere a), c) e d), la trattativa privata e' preceduta da indagini di mercato, attraverso interpellanze a piu' imprese, comunque in numero non inferiore a tre; la gara ufficiosa e' valida anche con la presentazione di una sola offerta, ritenuta congrua.
 
@@ -535,6 +1264,38 @@ Sono da considerarsi spese di rappresentanza quelle eseguite in correlazione all
 
 Esse sono finalizzate, nella vita di relazione dell'ente, a suscitare su di esso, sulla sua attivita' e i suoi scopi, l'interesse e l'attenzione sia di ambienti e di soggetti qualificati, sia dell'opinione pubblica in genere, allo scopo di ottenere gli innegabili vantaggi che una istituzione pubblica puo' conseguire dal fatto di essere conosciuta, apprezzata e seguita nella esplicitazione della propria azione istituzionale.
 
+3.
+                        
+                            
+                                In relazione a cio', l'ente puo' assumere a carico del proprio bilancio oneri connessi a:
+ 
+                            
+                            
+                                a)
+                                
+                                    colazioni e piccole consumazioni in occasione di incontri di lavoro del presidente, o suoi incaricati, oppure del segretario generale, o suoi incaricati, con personalita' o autorita' estranee all'ente o di riunioni prolungate, ad adeguati livelli di rappresentanza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consumazioni, eventuali colazioni di lavoro e spese di ospitalita' in occasione di visite presso l'ente di autorita' e componenti di missioni italiani o stranieri;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    erogazione di spese per omaggi floreali e necrologi che riguardino personalita' esterne all'ente, componenti degli organi collegiali o i dipendenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    piccoli doni quali targhe, medaglie, libri, coppe, nonche' oggetti simbolici o recanti il logo dell'ente, oggetti illustrativi dell'attivita' dell'ente e simili a personalita' italiane o straniere o a membri di delegazioni straniere in visita all'ente oppure in occasione di manifestazioni o di visite compiute all'estero dal presidente, dal segretario generale o loro rappresentanti.
+
 Gli oneri di cui al comma 3 sono disposti con provvedimento del segretario generale.
 
 ## Art. 64. — Spese di ospitalita'
@@ -614,6 +1375,38 @@ Il collegio dei revisori dei conti e' composto da tre membri effettivi e due sup
 Il collegio dura in carica quanto l'organo di amministrazione.
 
 I revisori partecipano di diritto alle riunioni dell'organo di amministrazione.
+
+4.
+                        
+                            
+                                I revisori esercitano il controllo sulla gestione dell'azienda ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuano, almeno ogni trimestre, controlli e riscontri sulla consistenza di cassa, sull'esistenza dei valori di titoli di proprieta', sui depositi ed i titoli a custodia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificano la regolarita' della gestione e la conformita' della stessa alle norme di legge, di statuto e regolamentari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigilano sulla regolarita' delle scritture contabili;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    esaminano il preventivo economico e il bilancio d'esercizio, esprimendosi sugli stessi con apposite relazioni ed uniformandosi, per le stesse, a quanto previsto all'articolo 30, commi 3 e 4.
 
 ## - Titolo XI DISPOSIZIONI TRANSITORIE E FINALI
 

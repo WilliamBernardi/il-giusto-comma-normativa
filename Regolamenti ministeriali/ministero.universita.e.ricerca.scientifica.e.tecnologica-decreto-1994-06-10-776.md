@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2003-02-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -56,6 +56,38 @@ Dopo la scadenza del termine di cui al comma precedente, la domanda deve essere 
 
 ## Art. 4. — Iscrizione sulla base di titolo riconosciuto in via transitoria
 
+1.
+                        
+                            
+                                Coloro i quali siano in possesso di un diploma, certificato o titolo riconosciuto in via transitoria, ai sensi dell'art. 11 del decreto legislativo, presentano, con la domanda di iscrizione, i seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il titolo medesimo in originale o in copia autenticata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il certificato, attestato o dichiarazione solenne di cui all'art. 4, comma 2, lettera b), del decreto legislativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il certificato di cittadinanza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il certificato di residenza o la dichiarazione sostitutiva attestante il proprio domicilio in Italia.
+
 Nel caso di fondato dubbio sull'autenticita' del titolo presentato, o nel caso che l'Ordine venga a conoscenza di fatti gravi e specifici avvenuti fuori del territorio nazionale che potrebbero avere conseguenze sulla ammissione all'esercizio della professione o sulla libera prestazione dei servizi, il Consiglio dell'Ordine chiede informazioni al riguardo, per il tramite del Ministero dell'universita' e della ricerca scientifica e tecnologica, alla competente autorita' dello Stato membro di origine o di provenienza del pofessionista.
 
 ## Art. 5. — Iscrizione all'albo delle persone distintesi
@@ -71,6 +103,31 @@ Presso gli ordini provinciali degli architetti e presso il Consiglio nazionale d
 
 ## Art. 7. — Iscrizione nel registro
 
+1.
+                        
+                            
+                                Ai fini dell'iscrizione nel registro, in occasione della prima prestazione di servizi, da parte dell'interessato e' presentata domanda, redatta in lingua italiana e in carta da bollo, all'Ordine degli architetti nella cui circoscrizione sara' svolta la prestazione. Alla domanda sono allegati:
+ 
+                            
+                            
+                                a)
+                                
+                                    un attestato comprovante il possesso dei requisiti che lo abilitano alla professione di architetto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un certificato, di data non anteriore a dodici mesi, rilasciato dall'autorita' competente dello Stato membro d'origine o di provenienza dal quale risulti che l'interessato esercita legalmente l'attivita' nel settore dell'architettura nello Stato medesimo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una dichiarazione relativa alla prestazione da effettuare, nella quale deve indicare la natura e la presumibile durata dell'attivita' da svolgere e la eventuale sede temporanea in cui sara' svolta.
+
 Per essere ammesso alle prestazioni dei servizi successive alla prima, nella circoscrizione dell'ordine provinciale nel cui registro e' iscritto, l'interessato deve presentare all'ordine medesimo la dichiarazione preliminare di cui alla lettera c) del comma 1. Il Consiglio dell'Ordine, qualora venga a conoscenza di fatti gravi e specifici sopravvenuti, rilevanti ai fini dell'ammissione all'esercizio della professione o della libera prestazione dei servizi, ne informa al riguardo, per il tramite del Ministero dell'universita' e della ricerca scientifica e tecnologica, la competente autorita' dello Stato membro in cui il professionista e' stabilito.
 
 ## Art. 8. — ((ARTICOLO ABROGATO DALLA L. 3 FEBBRAIO 2003, N. 14))
@@ -78,6 +135,45 @@ Per essere ammesso alle prestazioni dei servizi successive alla prima, nella cir
 
 
 ## Art. 9. — Tenuta dei registri
+
+1.
+                        
+                            
+                                Nel registro delle prestazioni dei servizi, tenuto dal consiglio dell'ordine provinciale degli architetti, per ciascun iscritto, sono annotati:
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' complete;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la cittadinanza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo Stato di origine o provenienza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il titolo che lo abilita all'attivita' nel settore dell'architettura e gli eventuali estremi del decreto di riconoscimento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le prestazioni di servizi effettuate.
 
 Nel registro tenuto dal Consiglio nazionale degli architetti sono annotati, per ciascun professionista, il nome e cognome, lo Stato di origine o provenienza e gli estremi della deliberazione del competente Consiglio dell'Ordine che lo iscrive nel registro provinciale.
 

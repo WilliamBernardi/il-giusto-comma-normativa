@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2024-05-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 17 ottobre 2023 167 Regolamento recante modifiche al regolamento di organizzazione del Ministero della cultura di cui al decreto del Presidente del Consiglio dei ministri 2 dicembre 2019, n. 169. (23G00177)

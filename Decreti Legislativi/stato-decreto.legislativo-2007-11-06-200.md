@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2019-06-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,7 +30,162 @@ Sulla proposta del Ministro per le politiche europee e del Ministro della salute
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto valgono le seguenti definizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    AIC: autorizzazione all'immissione in commercio a norma del decreto legislativo 24 aprile 2006, n. 219; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    AIFA: Agenzia italiana del farmaco, istituita dall'articolo 48, comma 2, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    buona pratica clinica (Good Clinical Practice o GCP) (o norme di buona pratica clinica): insieme di requisiti in materia di qualita' in campo etico e scientifico, riconosciuti a livello internazionale, che devono essere osservati ai fini del disegno, della conduzione, della registrazione e della comunicazione degli esiti della sperimentazione clinica con la partecipazione di esseri umani; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Comitato etico: un organismo indipendente, composto da personale sanitario e non, che ha la responsabilita' di garantire la tutela dei diritti e del benessere dei soggetti in sperimentazione e di fornire pubblica garanzia di tale tutela, esprimendo, ad esempio, un parere sul protocollo di sperimentazione, sull'idoneita' degli sperimentatori, sulla adeguatezza delle strutture e sui metodi e documenti che verranno impiegati per informare i soggetti e per ottenerne il consenso informato; che svolga i compiti di cui al decreto legislativo 24 giugno 2003, n. 211, alle norme di buona pratica clinica definite nell'allegato 1 al decreto del Ministro della sanita' in data 15 luglio 1997, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 191 del 18 agosto 1997 e al decreto del Ministro della salute in data 12 maggio 2006, pubblicato nella Gazzetta Ufficiale n. 194 del 22 agosto 2006; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dossier per lo sperimentatore: raccolta di dati clinici e non clinici sul medicinale o sui medicinali in fase di sperimentazione che sono pertinenti per lo studio dei medesimi nell'essere umano; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Ispettorato GCP: Ispettorato di cui all'articolo 15, comma 8, del decreto legislativo 24 giugno 2003, n. 211, che svolge i compiti richiamati al medesimo articolo 15 e che si identifica con l'«Ufficio attivita' ispettive di buona pratica clinica (GCP) sulle sperimentazioni dei medicinali, follow up delle ispezioni, promozione di norme e linee guida di buona pratica clinica, mutuo riconoscimento nel settore; ispezioni di farmacovigilanza», di cui alla delibera dell'Agenzia italiana del farmaco 19 maggio 2005, n. 13, recante regolamento di organizzazione, di amministrazione e dell'ordinamento del personale dell'Agenzia italiana del farmaco, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 149 del 29 giugno 2005; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ispezioni: svolgimento da parte degli Uffici Ispettivi dell'AIFA o di autorita' regolatorie di altri Stati di un controllo ufficiale dei documenti, delle strutture, delle registrazioni, dei sistemi per la garanzia di qualita' e di qualsiasi altra risorsa che le predette autorita' giudicano pertinenti ai fini della verifica della conformita' al presente decreto, alle norme di buona pratica clinica e alle altre norme vigenti nel settore delle sperimentazioni cliniche dei medicinali. L'ispezione puo' svolgersi presso il centro di sperimentazione, presso le strutture del promotore della sperimentazione o presso le strutture di organizzazione di ricerca a contratto, oppure in altri luoghi ritenuti appropriati dall'AIFA e dalle altre autorita' sopra richiamate; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    medicinale sperimentale: 1) una forma farmaceutica di un principio attivo o di un placebo saggiato come medicinale sperimentale o come controllo in una sperimentazione clinica, compresi i prodotti che hanno gia' ottenuto un'autorizzazione di commercializzazione, ma che sono utilizzati o preparati (secondo formula magistrale o confezionati) in forme diverse da quella autorizzata, o quando sono utilizzati per indicazioni non autorizzate o per ottenere ulteriori informazioni sulla forma autorizzata o comunque utilizzati come controllo; 2) i medicinali non oggetto dello studio sperimentale, ma comunque utilizzati nell'ambito di una sperimentazione, quando essi non sono autorizzati al commercio in Italia o sono autorizzati ma utilizzati in maniera difforme all'autorizzazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    Paesi terzi: Paesi non appartenenti all'Unione europea; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    paziente: soggetto affetto da patologia o che comunque si trovi, anche solo temporaneamente, in uno stato di sofferenza fisica o psichica o di modificazione dei normali parametri fisiologici tale da determinare sofferenza fisica o psichica o rischi per la salute; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    promotore: una societa', istituzione oppure un organismo che si assume la responsabilita' di avviare, gestire ed eventualmente finanziare una sperimentazione clinica; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    sperimentatore: un medico o un odontoiatra qualificato ai fini delle sperimentazioni, responsabile dell'esecuzione della sperimentazione clinica in un dato centro; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    sperimentazione clinica: qualsiasi studio sull'essere umano finalizzato a scoprire o verificare gli effetti clinici, farmacologici o altri effetti farmacodinamici di uno o piu' medicinali sperimentali, o a individuare qualsiasi reazione avversa ad uno o piu' medicinali sperimentali, o a studiarne l'assorbimento, la distribuzione, il metabolismo e l'eliminazione, con l'obiettivo di accertarne la sicurezza o l'efficacia, nonche' altri elementi di carattere scientifico e non, effettuata in un unico centro o in piu' centri, in Italia o anche in altri Stati membri dell'Unione europea o in Paesi terzi; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    sperimentazione non interventistica: uno studio nel quale i medicinali sono prescritti secondo le indicazioni dell'autorizzazione all'immissione in commercio ove l'assegnazione del paziente ad una determinata strategia terapeutica non e' decisa in anticipo da un protocollo di sperimentazione, rientra nella normale pratica clinica e la decisione di prescrivere il medicinale e' del tutto indipendente da quella di includere il paziente nello studio, e nella quale ai pazienti non si applica nessuna procedura supplementare di diagnosi o monitoraggio; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    sperimentazioni a fini industriali o a fini commerciali: sperimentazioni promosse da industrie o societa' farmaceutiche o comunque da strutture private a fini di lucro, fatta eccezione per gli Istituti di ricovero e cura a carattere scientifico privati, i cui risultati possono essere utilizzati nello sviluppo industriale del farmaco o a fini regolatori o a fini commerciali; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    sperimentazioni non a fini industriali o non a fini commerciali ((ovvero senza scopo di lucro)): sperimentazioni cliniche che presentino i requisiti di cui all'articolo 1, comma 2, lettere a), b), c) e d) del decreto del Ministro della salute in data 17 dicembre 2004, pubblicato nella Gazzetta Ufficiale n. 43 del 22 febbraio 2005; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    uffici ispettivi: l'Ispettorato di cui alla lettera f), nonche' «l'Ufficio attivita' ispettive di buona pratica di fabbricazione (GMP) sulla produzione dei medicinali, dei gas medicinali e coordinamento con l'ISS per gli adempimenti ispettivi sui centri ematologici, mutuo riconoscimento nel settore» e «l'Unita' dirigenziale con funzioni ispettive sulla produzione delle materie prime finalizzate alla produzione dei medicinali» di cui alla citata delibera dell'Agenzia italiana del farmaco 19 maggio 2005, n. 13. 
+
+                                
+                            
+                            
+                                s-bis)
+                                
+                                    approccio metodologico di medicina di genere nelle sperimentazioni cliniche: modalita' innovativa e multidisciplinare nella conduzione degli studi clinici che tiene conto dell'influenza che le differenze biologiche, incluse quelle relative al sesso e all'eta', hanno sullo stato di salute e di malattia di ogni persona.
+
 ## Art. 2. — Campo di applicazione
+
+1.
+                        
+                            
+                                Il presente decreto legislativo, con riferimento ai medicinali per uso umano in fase di sperimentazione, stabilisce:
+ 
+                            
+                            
+                                a)
+                                
+                                    i principi di buona pratica clinica e le linee guida dettagliate conformi a tali principi, previsti dall'articolo 1, comma 3, del decreto legislativo 24 giugno 2003, n. 211, per la progettazione, la conduzione, la registrazione e la comunicazione degli esiti di sperimentazioni cliniche sull'essere umano di tali medicinali, al fine di assicurare la tutela dei diritti, della sicurezza e del benessere dei soggetti e la credibilita' dei dati concernenti la sperimentazione clinica stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti per l'autorizzazione alla fabbricazione o all'importazione di tali medicinali, previsti dall'articolo 13, comma 1, del decreto legislativo 24 giugno 2003, n. 211;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le indicazioni dettagliate sulla documentazione relativa alla sperimentazione clinica, sull'archiviazione, sulla idoneita' degli ispettori e sulle procedure di ispezione previste dall'articolo 15, comma 6, del decreto legislativo 24 giugno 2003, n. 211.
 
 Il presente decreto legislativo non si applica alle sperimentazioni non interventistiche.
 
@@ -133,9 +288,73 @@ L'autorizzazione di cui all'articolo 13, comma 1, del decreto legislativo 24 giu
 
 L'autorizzazione deve essere richiesta anche per l'importazione in Italia da Paesi terzi.
 
+3.
+                        
+                            
+                                L'autorizzazione di cui al primo periodo del comma 1, non e' richiesta per le attivita' di seguito elencate quando vengono effettuate nelle strutture autorizzate alla sperimentazione e sempre che i medicinali in fase di sperimentazione siano destinati ad essere utilizzati esclusivamente in tali strutture:
+ 
+                            
+                            
+                                a)
+                                
+                                    ricostituzione prima dell'uso, se effettuata da farmacisti o da personale autorizzato a tale operazione nell'ambito della normale attivita' clinica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operazioni di confezionamento primario, secondario, e di presentazione se effettuate da farmacisti nel rispetto delle norme di buona preparazione in farmacia secondo la vigente edizione della Farmacopea ufficiale della Repubblica italiana;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    operazioni di preparazione di medicinali, effettuate da farmacisti nel rispetto delle norme di buona preparazione in farmacia secondo la vigente Farmacopea ufficiale della Repubblica italiana che non richiedano particolari procedimenti di fabbricazione o imballaggio, che siano realizzate con specialita' medicinali provviste di AIC, fabbricate o importate in conformita' alle disposizioni del decreto legislativo 24 aprile 2006, n. 219, che siano condotte su pazienti aventi le medesime caratteristiche di quelle previste dall'indicazione specificata nell'AIC.
+
 Nei casi di cui al comma 3, lettere b) e c), il farmacista provvede a redigere il rendiconto di preparazione per ciascun lotto.
 
 ## Art. 9. — Domanda di autorizzazione
+
+1.
+                        
+                            
+                                Per ottenere l'autorizzazione alla fabbricazione o all'importazione, il richiedente deve presentare domanda all'AIFA, allegando i relativi documenti e specificando:
+ 
+                            
+                            
+                                a)
+                                
+                                    le tipologie di medicinali e le forme farmaceutiche che si intendono fabbricare o importare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le operazioni di fabbricazione o importazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il procedimento di fabbricazione, quando necessario, ed in particolare nel caso di inattivazione di agenti virali o non convenzionali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il luogo in cui i prodotti saranno fabbricati ovvero i locali adatti e sufficienti di cui dispone per la loro fabbricazione o per le attivita' connesse all'importazione, nonche' le attrezzature tecniche, gli impianti di controllo e le modalita' di produzione di cui si avvale, in conformita' alle disposizioni del decreto legislativo 24 aprile 2006, n. 219 relative alla fabbricazione, al controllo e all'immagazzinamento dei prodotti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il nominativo di almeno una persona qualificata di cui dispone in modo permanente e continuativo a norma dell'articolo 13, comma 2, del decreto legislativo 24 giugno 2003, n. 211, e i riferimenti del relativo decreto di idoneita'.
 
 Ai sensi della lettera a) del comma 1 per «tipologie di medicinali» si intendono: prodotti derivati dal sangue o dal plasma umano, prodotti immunologici, prodotti per la terapia genica e cellulare somatica, prodotti di biotecnologia, prodotti estratti dall'uomo o da animali, prodotti vegetali, prodotti omeopatici, prodotti radiofarmaceutici e prodotti contenenti principi attivi di origine chimica.
 
@@ -153,6 +372,59 @@ L'autorizzazione si applica soltanto ai locali indicati nella domanda e alle tip
 
 ## Art. 12. — Obblighi del titolare dell'autorizzazione
 
+1.
+                        
+                            
+                                Il titolare dell'autorizzazione e' tenuto a:
+ 
+                            
+                            
+                                a)
+                                
+                                    disporre di personale addetto alla fabbricazione e ai controlli che risponda ai requisiti di cui al decreto legislativo 24 aprile 2006, n. 219;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non cedere medicinali in fase di sperimentazione o autorizzati al commercio, se non in conformita' con la legislazione vigente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    informare previamente l'AIFA di qualsiasi modifica che intenda apportare ai dati forniti a norma dell'articolo 9, comma 1;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informare immediatamente l'AIFA, allorche' sia stato improvvisamente necessario procedere alla sostituzione della persona qualificata di cui all'articolo 13, comma 2, del decreto legislativo 24 giugno 2003, n. 211;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    consentire in qualsiasi momento al personale ispettivo dell'AIFA l'accesso ai suoi locali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mettere a disposizione della persona qualificata tutti i mezzi necessari per permetterle di espletare le sue funzioni;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    conformarsi ai principi e alle linee direttrici fissati dal diritto comunitario per la buona pratica di fabbricazione.
+
 ## Art. 13. — Modifiche dell'autorizzazione
 
 Qualora il titolare dell'autorizzazione alla fabbricazione chieda la modifica dei dati di cui all'articolo 9, comma 1, la durata del relativo procedimento non deve superare i trenta giorni. In casi di rilevanza dei dati modificati tale termine puo' essere prorogato fino a novanta giorni.
@@ -163,12 +435,147 @@ L'AIFA sospende o revoca, in tutto o in parte, l'autorizzazione alla fabbricazio
 
 ## Art. 15. — Farmacie ospedaliere autorizzate alla produzione
 
+1.
+                        
+                            
+                                Ai sensi dell'articolo 13, comma 1, del decreto legislativo 24 giugno 2003, n. 211, le farmacie operanti in strutture ospedaliere pubbliche o ad esse equiparate, nonche' in Istituti di ricovero e cura a carattere scientifico privati, sono autorizzate, con il presente decreto, anche in assenza di quanto previsto dall'articolo 13, comma 2, del medesimo decreto legislativo, alla produzione di medicinali sperimentali, con esclusione di medicinali per terapia genica, cellulare o contenenti organismi geneticamente modificati e con l'esclusione dei radiofarmaci di cui al successivo articolo 16, purche':
+ 
+                            
+                            
+                                a)
+                                
+                                    il farmacista responsabile della produzione abbia svolto attivita' pratica di preparazione di medicinali per almeno 2 anni in farmacia ospedaliera e si assuma la responsabilita' della produzione di cui al presente articolo, nonche' dello svolgimento dei compiti attribuiti alla persona qualificata ai sensi dell'articolo 13, commi 3, lettera a), e 4, escluso il secondo periodo, del decreto legislativo 24 giugno 2003, n. 211;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    detti medicinali siano utilizzati esclusivamente per sperimentazioni non a fini industriali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    detti medicinali siano utilizzati esclusivamente per soggetti in trattamento nella struttura di appartenenza o presso altre strutture partecipanti alla stessa sperimentazione multicentrica in Italia e, in tale caso, ceduti senza fini di lucro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    detti medicinali siano prodotti in conformita' alle norme di buona preparazione in farmacia, secondo la vigente edizione della Farmacopea ufficiale della Repubblica italiana;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il responsabile legale delle istituzioni ove operano le suddette farmacie, trasmetta all'AIFA una dichiarazione attestante il possesso dei requisiti di cui al presente comma, almeno 60 giorni prima dell'avvio di tale produzione.
+
+2.
+                        
+                            
+                                L'autorizzazione di cui al comma 1 si applica anche all'importazione di medicinali, purche', per le parti applicabili, siano rispettati i requisiti di cui al comma 1 medesimo, e purche' il farmacista responsabile della produzione di cui al comma 1, lettera a), si assuma la responsabilita':
+ 
+                            
+                            
+                                a)
+                                
+                                    dei compiti previsti dall'articolo 13, commi 3, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e c), e 4, del decreto legislativo 24 giugno 2003, n. 211, per le parti applicabili;
+ b) dei compiti previsti dall'articolo 68, comma 3, secondo periodo, del decreto legislativo 24 aprile 2006, n. 219;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di ottenere da struttura specificatamente autorizzata ai sensi dell'articolo 13, comma 1, del decreto legislativo 24 giugno 2003, n. 211, un rilascio di lotto a seguito di tutte le analisi, prove o verifiche pertinenti e necessarie per confermare la qualita' di quanto importato, nei casi in cui lo stesso farmacista responsabile non abbia ottenuto la documentazione attestante che i medicinali importati siano stati prodotti e controllati secondo i requisiti almeno equivalenti a quelli previsti dalle normative comunitarie.
+
 L'AIFA puo' disporre le ispezioni di cui all'articolo 15 del decreto legislativo 24 giugno 2003, n. 211 al fine di verificare il possesso dei requisiti di cui al presente articolo ed il mantenimento di detti requisiti. In caso di farmacia ospedaliera che non possegga uno o piu' dei suddetti requisiti, l'AIFA sospende per dette farmacie l'autorizzazione di cui al presente articolo, per un periodo di tempo da 6 mesi a 12 mesi, fatta salva la necessita' di conformarsi ai richiamati requisiti.
 
 Nessuna spesa o tariffa e' dovuta dalle strutture pubbliche o ad esse equiparate di cui al presente articolo per le eventuali ispezioni o autorizzazioni di cui al presente decreto.
 
 ## Art. 16. — Laboratori pubblici per la preparazione di radiofarmaci
  per medicina nucleare autorizzati alla produzione
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 13, comma 1, del decreto legislativo 24 giugno 2003, n. 211, i laboratori per la preparazione di radiofarmaci per medicina nucleare operanti in strutture ospedaliere pubbliche o ad esse equiparate, nonche' in Istituti di ricovero e cura a carattere scientifico privati, sono autorizzati, con il presente decreto, anche in assenza di quanto previsto dall'articolo 13, comma 2, del medesimo richiamato decreto legislativo, alla produzione di radiofarmaci sperimentali, purche':
+ 
+                            
+                            
+                                a)
+                                
+                                    il responsabile della produzione sia in possesso dei requisiti previsti dalle norme vigenti per la preparazione dei radiofarmaci e si assuma la responsabilita' della produzione di cui al presente articolo, nonche' dello svolgimento dei compiti attribuiti alla persona qualificata ai sensi dell'articolo 13, commi 3, lettera a), e 4, escluso il secondo periodo, del decreto legislativo 24 giugno 2003, n. 211;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il laboratorio per la produzione di radiofarmaci sia autorizzato conformemente alle norme vigenti per la preparazione di radiofarmaci non sperimentali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i radiofarmaci sperimentali siano utilizzati esclusivamente per sperimentazioni non a fini industriali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    detti radiofarmaci sperimentali siano utilizzati esclusivamente per soggetti in trattamento nella struttura di appartenenza o presso altre strutture partecipanti alla stessa sperimentazione multicentrica in Italia e, in tal caso, ceduti senza fini di lucro;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    detti radiofarmaci sperimentali siano prodotti in conformita' alle norme vigenti per la preparazione di radiofarmaci;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il responsabile legale delle istituzioni ove operano i suddetti laboratori trasmetta all'AIFA una dichiarazione attestante il possesso dei requisiti di cui al presente comma almeno 60 giorni prima dell'avvio di tali produzioni.
+
+2.
+                        
+                            
+                                L'autorizzazione di cui al comma 1 si applica anche all'importazione di radiofarmaci sperimentali, purche', per le parti applicabili, siano rispettati i requisiti di cui al comma 1 medesimo ed il responsabile di cui al comma 1, lettera a), si assuma la responsabilita':
+ 
+                            
+                            
+                                a)
+                                
+                                    dei compiti previsti dall'articolo 13, commi 3, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e c), e 4 del decreto legislativo 24 giugno 2003, n. 211, per le parti applicabili;
+ b) dei compiti previsti dall'articolo 68, comma 3, secondo periodo, del decreto legislativo 24 aprile 2006, n. 219;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di ottenere da struttura specificatamente autorizzata ai sensi dell'articolo 13, comma 1, del decreto legislativo 24 giugno 2003, n. 211, un rilascio di lotto a seguito di tutte le analisi, prove o verifiche pertinenti e necessarie per confermare la qualita' di quanto importato, nei casi in cui lo stesso responsabile non abbia ottenuto la documentazione attestante che i medicinali importati siano stati prodotti e controllati secondo i requisiti almeno equivalenti a quelli previsti dalle normative comunitarie.
 
 Fatta salva la vigilanza sui laboratori di preparazione di radiofarmaci, attribuita dalle norme vigenti agli organi del Servizio sanitario nazionale competenti per territorio, potranno anche essere disposte ispezioni da parte dell'AIFA ai sensi dell'articolo 15 del decreto legislativo 24 giugno 2003, n. 211, al fine di verificare il possesso dei requisiti di cui al presente articolo ed il mantenimento di detti requisiti. In caso di laboratorio che non possegga uno o piu' dei suddetti requisiti, l'AIFA sospende per detti laboratori l'autorizzazione di cui al presente articolo, per un periodo di tempo da 6 mesi a 12 mesi, fatta salva la necessita' di conformarsi ai richiamati requisiti.
 
@@ -258,6 +665,31 @@ Il Gruppo ispettivo e' coordinato da un ispettore in possesso di esperienza spec
 
 ## Art. 24. — Tipologia d'ispezione
 
+1.
+                        
+                            
+                                Le ispezioni relative alla buona pratica clinica possono svolgersi in una delle seguenti situazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    prima, durante o dopo la realizzazione delle sperimentazioni cliniche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'ambito della verifica delle domande di autorizzazione alla commercializzazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'ambito delle verifiche successive alle autorizzazioni alla commercializzazione.
+
 In conformita' all'articolo 15, comma 2, del decreto legislativo 24 giugno 2003, n. 211, le ispezioni possono essere richieste e coordinate dall'Agenzia europea per i medicinali nell'ambito dell'applicazione del regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio, del 31 marzo 2004, con particolare riguardo alle sperimentazioni relative alle domande presentate mediante la procedura stabilita da detto regolamento.
 
 Le ispezioni sono realizzate in conformita' alle linee guida sulle ispezioni, elaborate in ambito comunitario a sostegno del riconoscimento reciproco delle risultanze delle ispezioni in medesimo ambito comunitario.
@@ -284,9 +716,60 @@ Con decreto del Ministro della salute da adottarsi, di concerto con il Ministro 
 
 ))
 
+4.
+                        
+                            
+                                Il mancato versamento delle tariffe e dei rimborsi di cui al presente articolo entro 15 giorni dal ricevimento della relativa richiesta, fatte salve le altre misure di cui puo' avvalersi l'AIFA per il recupero delle somme, determina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi in cui inadempiente sia un'azienda farmaceutica, l'interruzione da parte dell'AIFA dei procedimenti per il rilascio delle autorizzazioni inerenti alla medesima azienda; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi in cui inadempiente sia una organizzazione di cui all'articolo 15, comma 10, del decreto legislativo 24 giugno 2003, n. 
+211, la sospensione dell'esercizio delle funzioni che i promotori possono delegare a tali strutture.
+
 L'interruzione dei procedimenti per il rilascio delle autorizzazioni di cui al comma 4, lettera a), nonche' la sospensione all'esercizio delle funzioni di cui al medesimo comma 4, lettera b), saranno revocate al momento del ricevimento da parte dell'AIFA degli importi dovuti.
 
 ## Art. 27. — Procedure ispettive
+
+1.
+                        
+                            
+                                L'Ispettorato stabilisce le procedure per:
+ 
+                            
+                            
+                                a)
+                                
+                                    la verifica dell'osservanza della buona pratica clinica, tra cui le modalita' che l'ispettore deve seguire nell'esaminare le procedure di gestione delle sperimentazioni da parte del promotore, nell'esaminare le procedure secondo cui vengono programmate, realizzate, controllate e registrate le sperimentazioni cliniche, nonche' nel controllare le misure messe in atto, a seguito di quanto disposto dall'Ispettorato successivamente all'ispezione, dal promotore, dagli sperimentatori e dai responsabili delle strutture comunque coinvolte nella gestione delle sperimentazioni e nell'iter che ne consente la realizzazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la designazione di esperti che accompagneranno gli ispettori in caso di necessita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la richiesta di ispezioni o di assistenza da altri Stati membri, in conformita' all'articolo 15, commi 2, 4, 5 e 8 del decreto legislativo 24 giugno 2003, n. 211, e per cooperare nei centri di ispezione di un altro Stato membro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'organizzazione di ispezioni in Paesi terzi.
 
 ## Art. 28. — Archivio dell'Ispettorato
 
@@ -342,6 +825,24 @@ All'articolo 2, comma 1, lettera t), del decreto legislativo 24 giugno 2003, n. 
 All'articolo 2, comma 1, lettera t), numero 3), del decreto legislativo 24 giugno 2003, n. 211, il numero: «43» e' sostituito dalle seguenti parole: «439, e comunque per tutte le sperimentazioni di fase I».
 
 ## Art. 34. — Modifiche all'articolo 3 del decreto legislativo n. 211 del 2003
+
+1.
+                        
+                            
+                                All'articolo 3, comma 1, del decreto legislativo 24 giugno 2003, n. 211, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera c) le parole: «di cui alla legge 31 dicembre 1996, n. 675» sono sostituite dalle seguenti: «di cui al decreto legislativo 30 giugno 2003, n. 196»;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera g) le parole : «una persona di riferimento dalla quale» sono sostituite dalle seguenti: «un medico di riferimento operante nella struttura ove si svolge la sperimentazione dal quale».
 
 ## Art. 35. — Modifiche all'articolo 9 del decreto legislativo n. 211 del 2003
 

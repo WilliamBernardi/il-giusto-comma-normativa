@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-04-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -34,6 +34,53 @@ Il Ministro della salute, di seguito denominato «Ministro», e' l'organo di dir
 ((Il Vice Ministro e i Sottosegretari di Stato coadiuvano il Ministro e svolgono le funzioni e i compiti loro delegati dal Ministro, ai sensi dell'articolo 10 della legge 23 agosto 1988, n. 400.))
 
 Gli uffici di diretta collaborazione esplicano funzioni di supporto alla azione del Ministro e di raccordo tra questa e quella delle strutture della Amministrazione, in conformita' a quanto previsto dall'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165.
+
+4.
+                        
+                            
+                                Sono uffici di diretta collaborazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ufficio di Gabinetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la segreteria del Ministro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la segreteria tecnica del Ministro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'ufficio legislativo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ufficio stampa; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((le segreterie del Vice Ministro e dei Sottosegretari di Stato, ove nominati.))
 
 Alle dirette dipendenze del Ministro possono operare, nell'ambito del contingente di cui all'articolo 8, comma 1, primo periodo, e nei limiti degli ordinari stanziamenti di bilancio, i ((sei consiglieri giuridici)) di cui all'articolo 8, comma 1, secondo periodo, i quindici consulenti ed esperti di cui all'articolo 8, comma 2, primo periodo, ((e il consigliere di cui al comma 7)).
 Possono, inoltre, essere nominati fino a dieci esperti e consulenti a titolo gratuito, come previsto dall'articolo 8, comma 2, secondo periodo.
@@ -75,6 +122,66 @@ Il capo della segreteria tecnica e' scelto tra soggetti, anche estranei alla pub
 
 ## Art. 5. — Ufficio legislativo
 
+1.
+                        
+                            
+                                L'ufficio legislativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cura l'attivita' di definizione delle iniziative legislative e regolamentari nelle materie di competenza del Ministero, avvalendosi anche della collaborazione dei competenti dipartimenti e uffici dirigenziali generali ai fini dello studio, della progettazione normativa e della valutazione dei costi della regolazione, anche con riguardo alla qualita' del linguaggio normativo, all'applicabilita' delle norme introdotte e all'analisi dell'impatto e della fattibilita' della regolamentazione, allo snellimento e alla semplificazione normativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esamina i provvedimenti sottoposti al Consiglio dei ministri e quelli di iniziativa parlamentare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura il raccordo permanente con l'attivita' normativa del Parlamento, compresi tutti gli atti di sindacato ispettivo, i conseguenti rapporti con la Presidenza del Consiglio dei ministri, con i Ministeri e con le altre amministrazioni interessate, anche per quanto riguarda l'attuazione normativa degli atti dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cura, in raccordo con l'ufficio di Gabinetto, i rapporti di natura tecnico-giuridica con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, con l'Avvocatura generale dello Stato e con le Autorita' amministrative indipendenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    segue la legislazione regionale per le materie di interesse del Ministero; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sovraintende al contenzioso internazionale, comunitario e costituzionale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    cura gli adempimenti relativi al contenzioso sugli atti del Ministro per i profili di sua competenza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    svolge attivita' di consulenza giuridica per il Ministro e, sulle questioni di particolare rilevanza, per il Ministero.
+
 Il capo dell'ufficio legislativo e' scelto fra magistrati ordinari, amministrativi o contabili, avvocati dello Stato, consiglieri parlamentari e di altri organi costituzionali, dirigenti delle pubbliche amministrazioni, professori universitari di ruolo nell'area delle scienze giuridiche, avvocati e altri operatori professionali del diritto, anche estranei alla pubblica amministrazione, in possesso di adeguata capacita' ed esperienza nel campo della consulenza giuridica e legislativa e della progettazione e produzione normativa.
 
 Il Ministro puo' nominare, con proprio decreto, un vice capo dell'ufficio legislativo scelto tra i consiglieri ed esperti giuridici di cui all'articolo 8, commi 1 e 2, ovvero fra i dirigenti di cui all'articolo 8, comma 3.
@@ -93,6 +200,27 @@ Ai sensi dell'articolo 7 della legge 7 giugno 2000, n. 150, il Ministro, con ris
 
 
 
+2.
+                        
+                            
+                                
+                                    ((A ciascuna segreteria del Vice Ministro e dei Sottosegretari di Stato e' assegnato:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((alla segreteria dei Sottosegretari di Stato, oltre al capo della segreteria, un contingente di personale, al di fuori del contingente complessivo di cui all'articolo 8, comma 1, fino a un massimo di otto unita' di personale, compreso il segretario particolare se individuato dal Sottosegretario, scelte tra dipendenti del Ministero ovvero di altre pubbliche amministrazioni, in posizione di aspettativa, comando, fuori ruolo o in altre analoghe posizioni previste nei rispettivi ordinamenti. In caso di collocamento fuori ruolo e' reso indisponibile, nella dotazione organica dell'amministrazione di provenienza, per tutta la durata del collocamento fuori ruolo, un numero di posti equivalente dal punto di vista finanziario. A tale personale, incluso il segretario particolare, si applica l'articolo 9, comma 5;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((alla segreteria del Vice Ministro, un contingente di personale, compreso nel contingente complessivo di cui all'articolo 8, comma 1, in numero pari a quello previsto per la segreteria di ciascuno dei Sottosegretario di Stato, compreso il segretario particolare se individuato dal Vice Ministro.))
+
 ## Art. 8. — Personale degli uffici di diretta collaborazione
 
 
@@ -106,6 +234,45 @@ Le posizioni relative ai responsabili degli uffici di diretta collaborazione, co
 Ai servizi di supporto a carattere generale necessari per l'attivita' degli uffici di diretta collaborazione provvede il Dipartimento dell'amministrazione generale, delle risorse umane, del bilancio e della sanita' digitale, assegnando unita' di personale in numero non superiore al quindici per cento del contingente complessivo di cui al comma 1. Per l'espletamento di tali servizi puo' operare, in posizione di distacco presso gli Uffici di diretta collaborazione, personale appartenente al Comando Carabinieri per la tutela della salute in numero non superiore a otto unita'. Al personale di cui al presente comma non compete il trattamento accessorio previsto dall'articolo 9, comma 5. Il citato Dipartimento fornisce le risorse strumentali necessarie al funzionamento degli uffici di diretta collaborazione.
 
 ## Art. 9. — Trattamento economico
+
+1.
+                        
+                            
+                                Ai responsabili degli uffici di diretta collaborazione, ferme restando le vigenti disposizioni in materia di contenimento dei trattamenti economici, spetta un trattamento economico onnicomprensivo determinato con le modalita' di cui all'articolo 14, comma 2, del decreto legislativo n. 165 del 2001, come di seguito articolato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al capo di Gabinetto: una voce retributiva non superiore alla misura massima del trattamento economico fondamentale spettante ai capi dipartimento del Ministero incaricati ai sensi dell'articolo 19, comma 3, del decreto legislativo n. 165 del 2001 e un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai medesimi capi dipartimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al capo dell'ufficio legislativo, al capo della segreteria tecnica del Ministro e al capo della segreteria del Ministro: una voce retributiva di importo non superiore alla misura massima del trattamento economico fondamentale spettante ai dirigenti preposti a un ufficio dirigenziale generale del Ministero incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo n. 165 del 2001 e un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai medesimi dirigenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al segretario particolare del Ministro e ai capi delle segreterie dei Sottosegretari di Stato: una voce retributiva di importo non superiore alla misura massima del trattamento economico fondamentale dei dirigenti preposti a ufficio dirigenziale di livello non generale del Ministero e un emolumento accessorio determinato in un importo non superiore alla misura massima del trattamento accessorio spettante ai medesimi dirigenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al capo dell'ufficio stampa: trattamento conforme a quello previsto dal contratto collettivo nazionale per i giornalisti con la qualifica di redattore capo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai vice capi di Gabinetto e dell'ufficio legislativo estranei al Ministero e ai consiglieri giuridici di cui all'articolo 8, comma 1: un emolumento onnicomprensivo determinato con le modalita' di cui all'articolo 14 comma 2, del decreto legislativo n. 165 del 2001. Per i consiglieri giuridici tale emolumento non puo' superare la misura massima dell'importo determinato per l'indennita' accessoria di diretta collaborazione di cui al comma 5 del presente articolo.
 
 Per i dipendenti pubblici il trattamento di cui al comma 1, se piu' favorevole, integra, per la differenza, il trattamento economico in godimento. Ai responsabili degli uffici di cui al comma 1 dipendenti da pubbliche amministrazioni, che optino per il mantenimento del proprio trattamento economico, e' corrisposto un emolumento accessorio correlato ai compiti di diretta collaborazione nella misura determinata con decreto del Ministro, di concerto con il Ministro dell'economia e delle finanze, in un importo non superiore alla misura massima del trattamento accessorio spettante, rispettivamente, ai capi dipartimento, ai dirigenti di uffici dirigenziali generali e ai dirigenti di uffici dirigenziali non generali del Ministero.
 

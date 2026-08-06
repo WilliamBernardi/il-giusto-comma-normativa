@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2018-09-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,106 @@ Ai sensi degli articoli 3, comma 4, 31, comma 4 e 46 comma 2-bis del decreto leg
 
 ## Art. 2. — Requisiti di partecipazione ed esclusione dai concorsi
 
+1.
+                        
+                            
+                                I requisiti per la partecipazione ai concorsi per l'accesso ai ruoli dei commissari, dei direttori tecnici e dei direttivi medici della Polizia di Stato sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    godimento dei diritti politici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualita' morali e di condotta previste dall'articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165.
+
+2.
+                        
+                            
+                                Per la partecipazione ai concorsi per l'accesso al ruolo dei commissari, oltre ai requisiti di cui al comma 1, sono previsti i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    limite di eta' stabilito dal decreto del Ministro dell'interno 6 aprile 1999, n. 115, adottato ai sensi dell'articolo 3, comma 6, della legge 15 maggio 1997, n. 127;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    titolo di studio indicato nel decreto interministeriale previsto dall'articolo 3, comma 2, del decreto legislativo 5 ottobre 2000, n. 334, e successive modificazioni; sono fatti salvi i diplomi di laurea in giurisprudenza e in scienze politiche rilasciati secondo l'ordinamento didattico vigente prima del suo adeguamento ai sensi dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127, e delle sue disposizioni attuative;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale al servizio di polizia.
+
+3.
+                        
+                            
+                                Per la partecipazione ai concorsi per l'accesso ai ruoli dei direttori tecnici, oltre ai requisiti di cui al comma 1, sono previsti i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    titolo di studio indicato nel decreto interministeriale previsto dall'articolo 3, comma 2, del decreto legislativo 5 ottobre 2000, n. 334, e successive modificazioni; sono fatti salvi i diplomi di laurea previsti dalle disposizioni vigenti rilasciati secondo l'ordinamento didattico vigente prima del suo adeguamento ai sensi dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127, e delle sue disposizioni attuative;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione all'esercizio professionale ove prevista dal decreto di cui alla lettera a);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale all'espletamento dei compiti professionali.
+
+4.
+                        
+                            
+                                Per la partecipazione ai concorsi per l'accesso al ruolo dei direttivi medici, oltre ai requisiti di cui al comma 1, sono previsti i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    laurea in medicina e chirurgia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione all'esercizio della professione medica ed iscrizione al relativo albo professionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale all'espletamento dei compiti professionali.
+
 I requisiti devono essere posseduti alla data di scadenza del termine utile per la presentazione delle domande di partecipazione al concorso.
 
 Ai concorsi non sono ammessi coloro che sono stati espulsi dalle Forze armate, dai Corpi militarmente organizzati o destituiti da pubblici uffici, dispensati dall'impiego per persistente insufficiente rendimento, ovvero decaduti da un impiego statale, ai sensi dell'articolo 127, primo comma, lettera d), del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, nonche' coloro che hanno riportato condanna a pena detentiva per reati non colposi o sono stati sottoposti a misura di prevenzione.
@@ -45,6 +145,98 @@ L'esclusione dal concorso e' disposta con decreto motivato del capo della Polizi
 
 ## Art. 3. — Bando di concorso
 
+1.
+                        
+                            
+                                I concorsi sono indetti su base nazionale, con decreto del capo della Polizia - Direttore generale della pubblica sicurezza da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana, nel quale sono indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero dei posti riservati dalla legge a favore di determinate categorie;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i requisiti per la partecipazione al concorso;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i documenti prescritti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il termine e le modalita' di presentazione delle domande di partecipazione al concorso e dei documenti di cui alla precedente lettera d);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il giorno, l'ora ed il luogo di svolgimento delle prove scritte, ovvero la data della Gazzetta Ufficiale nella quale sara' pubblicato il diario delle prove. La pubblicazione ha valore di notifica a tutti gli effetti;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le materie oggetto delle prove d'esame e la votazione minima da conseguire;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il riferimento alla legge 10 aprile 1991, n. 125, che garantisce pari opportunita' tra uomini e donne per l'accesso al lavoro;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    titoli di preferenza di cui all'articolo 5, comma 4, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487, e successive modificazioni, nonche' i termini e le modalita' della loro presentazione;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
+
+2.
+                        
+                            
+                                Nei concorsi per l'accesso ai ruoli dei direttori tecnici, il bando di concorso, oltre a quanto previsto dal comma 1, deve indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso per ciascun ruolo, con la ripartizione tra i profili professionali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le categorie di titoli valutabili, il punteggio massimo attribuibile a ciascuna di esse, le modalita' ed i termini di presentazione della relativa documentazione.
+
 Nei concorsi per l'accesso al ruolo dei direttivi medici, il bando di concorso, oltre a quanto previsto dal comma 1, deve indicare le categorie di titoli valutabili, il punteggio massimo attribuibile a ciascuna di esse, le modalita' ed i termini di presentazione della relativa documentazione.
 
 ## Art. 4. — Domande di partecipazione ai concorsi
@@ -52,6 +244,130 @@ Nei concorsi per l'accesso al ruolo dei direttivi medici, il bando di concorso, 
 Le domande di partecipazione ai concorsi, compilate su modelli cartacei o telematici predisposti a cura dell'Amministrazione, devono essere presentate, entro il termine perentorio di trenta giorni a decorrere dalla data di pubblicazione del bando, alla questura della provincia ove il candidato risiede o agli altri enti indicati nel bando di concorso, secondo le modalita' stabilite nel bando stesso.
 
 Ai fini della verifica del rispetto del termine previsto dal comma 1, per le domande trasmesse a mezzo posta fa fede il timbro a data dell'ufficio postale accettante a mezzo di raccomandata con avviso di ricevimento, per quelle trasmesse con le altre modalita' stabilite nel bando, il bando medesimo indica gli strumenti idonei a comprovarne la data di trasmissione.
+
+3.
+                        
+                            
+                                I candidati devono dichiarare nella domanda:
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome ed il nome;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il luogo e la data di nascita;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il possesso della cittadinanza italiana;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comune ove sono iscritti nelle liste elettorali, ovvero il motivo della non iscrizione o cancellazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'immunita' da condanne penali o, eventualmente, le condanne penali riportate e i procedimenti penali pendenti;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il titolo di studio richiesto, con l'indicazione dell'universita' che lo ha rilasciato e della data in cui e' stato conseguito;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i servizi eventualmente prestati come dipendenti presso le pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la lingua straniera, tra quelle indicate nel bando di concorso, sulla quale intendono sostenere la prova orale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'eventuale possesso di titoli di preferenza di cui all'articolo 5, comma 4, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487, e successive modificazioni;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ogni altra indicazione richiesta dal bando di concorso.
+
+4.
+                        
+                            
+                                Nei concorsi per l'accesso ai ruoli dei direttori tecnici, i candidati, oltre a quanto previsto dal comma 3, devono indicare nella domanda:
+ 
+                            
+                            
+                                a)
+                                
+                                    il settore ed il profilo per il quale concorrono. La partecipazione al concorso e' limitata al settore ed al profilo indicato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il possesso dell'abilitazione all'esercizio della professione, ove richiesto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i titoli valutabili.
+
+5.
+                        
+                            
+                                Nei concorsi per l'accesso al ruolo dei direttivi medici, i candidati, oltre a quanto previsto dal comma 3, devono indicare nella domanda:
+ 
+                            
+                            
+                                a)
+                                
+                                    il possesso dell'abilitazione all'esercizio della professione di medico chirurgo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ordine professionale al quale sono iscritti e la data di iscrizione all'albo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i titoli valutabili.
 
 Le domande devono inoltre contenere l'indicazione del recapito al quale inviare le comunicazioni relative al concorso e l'impegno di comunicare le eventuali, successive variazioni.
 
@@ -71,11 +387,46 @@ A parita' di merito si applicano i titoli di preferenza di cui all'articolo 5 de
 
 ## Art. 6. — Prova preselettiva
 
+1.
+                        
+                            
+                                Nel caso in cui il numero delle domande di partecipazione siano superiori a cinquanta volte il numero dei posti messi a concorso e non siano inferiori a cinquemila, viene effettuata una prova preselettiva per determinare i candidati da ammettere alle successive prove scritte. Il test preselettivo e' articolato in quesiti a risposta a scelta multipla riguardanti l'accertamento della conoscenza delle materie come di seguito stabilito:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'accesso al ruolo dei commissari: diritto penale, diritto processuale penale, diritto civile, diritto costituzionale e diritto amministrativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'accesso al ruolo dei direttori tecnici: discipline d'esame indicate per ciascun settore nella tabella 1 allegata al presente regolamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'accesso al ruolo dei direttivi medici: patologia speciale medica, patologia speciale chirurgica, semeiotica e clinica medica, semeiotica e clinica chirurgica, elementi di medicina del lavoro e protezione antinfortunistica.
+
 La prova, il cui superamento costituisce requisito essenziale di ammissione al concorso, puo' essere svolta per gruppi predeterminati di candidati, in una o piu' sedi ed in giorni diversi.
 
 Sulla base dei risultati della prova preselettiva e' ammesso a sostenere le prove scritte del concorso un numero di candidati pari a cinque volte il numero dei posti messi a concorso, nonche', in soprannumero, i candidati che abbiano riportato un punteggio pari all'ultimo degli ammessi entro i limiti dell'aliquota predetta. La votazione conseguita non concorre alla formazione del punteggio finale di merito.
 
 ## Art. 7. — Modalita' di predisposizione dei quesiti e di attribuzione dei relativi punteggi
+
+1.
+                        
+                            
+                                Nell'archivio informatico, previsto dal successivo articolo, viene inserito un numero di quesiti vertenti nelle materie sulle quali si svolge la preselezione, in ragione di 1000 per ciascuna delle discipline indicate all'articolo 6, comma 1, punti 
+                            
+                            
+                                a)
+                                
+                                    e c). Per le materie d'esame indicate all'articolo 6, comma 1, punto b), viene inserito un numero di quesiti in ragione, complessivamente, di 5000 per ciascun settore specificato nella tabella 1 allegata al presente regolamento e per il settore polizia scientifica in ragione, complessivamente, di 5000 per ciascuno dei profili professionali ivi specificati.
 
 La formulazione dei quesiti e' curata dal Ministero dell'interno per il tramite dell'Istituto Superiore di Polizia, avvalendosi di societa' specializzate e di istituti di ricerca, operanti nel settore della selezione e della formazione del personale.
 
@@ -100,6 +451,16 @@ Il calendario di svolgimento della prova preliminare, nonche' le sedi in cui ess
 La prova preselettiva e' effettuata per gruppi di candidati secondo l'ordine alfabetico del loro cognome, in base al calendario che verra' pubblicato nella Gazzetta Ufficiale.
 
 Dopo l'ingresso dei candidati nei locali dove si svolge la prova, la commissione giudicatrice provvede alla distribuzione dei questionari dopo averne disposto la selezione automatica tra quelli contenuti nell'archivio di cui all'articolo 8. I questionari sono contenuti in confezioni individualmente sigillati, la cui apertura contestuale da parte dei candidati e' autorizzata dalla commissione.
+
+4.
+                        
+                            
+                                Per le prove preselettive per l'accesso al ruolo dei commissari ed al ruolo dei direttivi medici, a ciascun candidato sono assegnati n. 40 quesiti per ciascuna delle discipline indicate nell'articolo 6 rispettivamente al punto 
+                            
+                            
+                                a)
+                                
+                                    ed al punto c), con tempo massimo complessivo per la risposta di 210 minuti. Per la prova preselettiva per l'accesso al ruolo dei direttori tecnici a ciascun candidato sono assegnati n. 200 quesiti sulle materie d'esame indicate nella tabella 1, con tempo massimo complessivo per la risposta di 210 minuti. I quesiti da sottoporre ai candidati sono individuati mediante procedura automatizzata tenendo conto dell'esigenza di ripartire egualmente l'incidenza del grado di difficolta' della domanda. A tal fine le domande facili costituiscono il 30% del totale, quelle di media difficolta' il 50%, e quelle difficili il 20%. I candidati non possono avvalersi, durante la prova preselettiva, di codici, di raccolte normative, testi, appunti di qualsiasi natura e di strumenti idonei alla memorizzazione di informazioni o alla trasmissione di dati.
 
 ## Art. 10. — Formazione della graduatoria
 
@@ -155,6 +516,24 @@ I vincitori dei concorsi conseguono la nomina alla qualifica iniziale del ruolo 
 
 ## Art. 14. — Commissione esaminatrice
 
+1.
+                        
+                            
+                                La commissione esaminatrice dei concorsi per l'accesso al ruolo dei commissari, nominata con decreto del capo della Polizia - Direttore generale della pubblica sicurezza, e' presieduta da un consigliere di Stato, da un magistrato o da un avvocato dello Stato di qualifica corrispondente a consigliere di Stato, ovvero da un prefetto, ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    due funzionari dei ruoli del personale della Polizia di Stato che espleta funzioni di polizia con qualifica non inferiore a primo dirigente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due docenti universitari esperti in una o piu' delle materie su cui vertono le prove d'esame.
+
 Almeno un terzo del numero dei componenti della commissione di concorso, salva motivata impossibilita', e' riservato alle donne.
 
 Per le prove relative alle lingue straniere indicate nel bando di concorso e all'informatica, la commissione esaminatrice, limitatamente all'espletamento delle predette prove, e' integrata da un esperto nelle lingue straniere e un dirigente tecnico della Polizia di Stato esperto in informatica.
@@ -164,6 +543,84 @@ Svolge le funzioni di segretario un funzionario direttivo.
 Per gli adempimenti preliminari della commissione esaminatrice si applicano gli articoli 11 e 12 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487.
 
 ## Art. 15. — Prove d'esame
+
+1.
+                        
+                            
+                                Il concorso per l'accesso al ruolo dei commissari consiste in due prove scritte ed una orale. Le due prove scritte, della durata massima di otto ore ciascuna, vertono sulle seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto costituzionale congiuntamente o disgiuntamente a diritto amministrativo con eventuale riferimento alla legislazione speciale in materia di pubblica sicurezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto penale congiuntamente o disgiuntamente a diritto processuale penale.
+
+2.
+                        
+                            
+                                La prova orale, oltre che sulle materie oggetto delle prove scritte, verte sulle seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto civile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto del lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diritto della navigazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ordinamento dell'amministrazione della pubblica sicurezza;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nozioni di medicina legale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nozioni di diritto internazionale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    lingua straniera prescelta dal candidato tra quelle indicate nel bando di concorso;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    informatica.
 
 L'accertamento della conoscenza della lingua straniera consiste in una traduzione (senza ausilio del dizionario) di un testo ed in una conversazione.
 
@@ -178,6 +635,24 @@ La prova orale e' superata se il candidato riporta la votazione di almeno diciot
 ## - Capo III Concorsi per l'accesso ai ruoli dei direttori tecnici
 
 ## Art. 16. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice dei concorsi per l'accesso ai ruoli dei direttori tecnici, nominata con decreto del capo della Polizia - Direttore generale della pubblica sicurezza, e' presieduta da un consigliere di Stato o da un magistrato o da un avvocato dello Stato di qualifica corrispondente a consigliere di Stato, ovvero da un prefetto, ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    due dirigenti dei ruoli del personale della Polizia di Stato che espleta attivita' tecnico-scientifica o tecnica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due docenti universitari esperti in una o piu' delle materie su cui vertono le prove d'esame.
 
 Almeno un terzo del numero dei componenti della commissione di concorso, salva motivata impossibilita', e' riservato alle donne.
 
@@ -226,6 +701,24 @@ Le somme dei punti assegnati per ciascuna categoria di titoli sono divise per il
 
 ## Art. 19. — Commissione esaminatrice
 
+1.
+                        
+                            
+                                La commissione esaminatrice dei concorsi per l'accesso al ruolo dei direttivi medici, nominata con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, e' presieduta da un consigliere di Stato o da un magistrato o da un avvocato dello Stato di qualifica corrispondente a consigliere di Stato, ovvero da un prefetto, ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    due appartenenti al ruolo dei dirigenti medici della Polizia di Stato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due docenti universitari esperti in una o piu' delle materie su cui vertono le prove d'esame.
+
 Almeno un terzo del numero dei componenti della commissione di concorso, salva motivata impossibilita', e' riservato alle donne.
 
 Per le prove relative alle lingue straniere indicate nel bando di concorso e all'informatica, la commissione esaminatrice, limitatamente all'espletamento delle predette prove, e' integrata da un esperto nelle lingue straniere e da un dirigente tecnico della Polizia di Stato esperto in informatica.
@@ -235,6 +728,77 @@ Svolge le funzioni di segretario un funzionario direttivo.
 Per gli adempimenti preliminari della commissione esaminatrice si applicano gli articoli 11 e 12 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487.
 
 ## Art. 20. — Prove d'esame
+
+1.
+                        
+                            
+                                Il concorso per l'accesso al ruolo dei direttivi medici consiste in due prove scritte ed una orale. Le due prove scritte, della durata massima di otto ore ciascuna, vertono sulle seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    patologia speciale medica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    patologia speciale chirurgica.
+
+2.
+                        
+                            
+                                La prova orale, oltre che sulle materie oggetto delle prove scritte, verte sulle seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    semeiotica e clinica medica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    semeiotica e clinica chirurgica con nozioni di chirurgia d'urgenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elementi di medicina legale e di antropologia criminale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elementi di medicina del lavoro e protezione antinfortunistica;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    elementi di igiene;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lingua straniera prescelta dal candidato tra quelle indicate nel bando di concorso;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    informatica.
 
 L'accertamento della conoscenza della lingua straniera consiste in una traduzione (senza ausilio del vocabolario) di un testo ed in una conversazione.
 
@@ -248,7 +812,128 @@ La prova orale non s'intende superata se il candidato non abbia riportato la vot
 
 ## Art. 21. — Titoli valutabili
 
+1.
+                        
+                            
+                                Nei concorsi per l'accesso al ruolo dei direttivi medici, le categorie di titoli da ammettere a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    laurea in medicina e chirurgia:
+da 91 a 110 ......................... punti 0,25 per ogni punto;
+((110 con lode ........................ punti 6,00));
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione all'esercizio della professione di medico chirurgo in relazione al punteggio conseguito:
+((da 80/110 a 95/110....................... punti 0,90;))
+                                        ((da 95,01/110 a 110/110...................... punti 3;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi prestati presso Amministrazioni pubbliche (Stato, regioni, province, comuni, istituzioni pubbliche di assistenza e beneficenza, enti assicurativi di diritto pubblico), sino ad un massimo di punti 1,50;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    incarichi di docenza di livello universitario, fino a punti 4,50;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    specializzazioni conseguite con punteggio rapportato in centesimi, sino ad un massimo di punti 4,50;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    superamento di concorsi sanitari presso enti pubblici, fino a punti 1,60;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    corsi di aggiornamento e di qualificazione fino a punti 1,90;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    pubblicazioni, fino a punti 7.
+
 La valutazione dei titoli viene effettuata nei confronti dei candidati che hanno superato le prove scritte e il relativo risultato viene reso noto agli interessati prima dell'effettuazione della prova orale. La valutazione e' limitata ai titoli posseduti alla data di scadenza del termine utile per la presentazione delle domande di ammissione al concorso.
+
+3.
+                        
+                            
+                                Ai fini della valutazione dei titoli di servizio si applicano i seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    i servizi della stessa natura ai fini del punteggio si sommano tra loro, purche' non siano contemporanei;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le frazioni di un anno sono valutate al semestre compiuto, escludendo da ogni punteggio la frazione inferiore al semestre;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tra due o piu' servizi contemporanei verra' valutato soltanto quello piu' favorevole al candidato.
+
+4.
+                        
+                            
+                                Non e' assegnato alcun punteggio:
+ 
+                            
+                            
+                                a)
+                                
+                                    ai servizi e titoli anteriori alla laurea e per l'espletamento o il conseguimento dei quali non sia necessariamente richiesta la laurea;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle attestazioni di buon servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle attivita' svolte in istituti sanitari non dipendenti da enti pubblici ed a quelle inerenti all'esercizio della libera professione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai titoli attestanti il conferimento di incarichi quando non risulti che siano stati effettivamente disimpegnati.
 
 Nell'ambito delle categorie di cui al comma 1, la commissione esaminatrice, nella riunione precedente l'inizio della correzione degli elaborati, determina i titoli valutabili ed i criteri di valutazione degli stessi e di attribuzione dei relativi punteggi.
 
@@ -257,6 +942,74 @@ Le somme dei punti assegnati per ciascuna categoria di titoli sono divise per il
 ## - Titolo II CONCORSI INTERNI PER L'ACCESSO AI RUOLI DEI COMMISSARI, DEI DIRETTORI TECNICI E DEI DIRETTIVI MEDICI DELLA POLIZIA DI STATO Capo I Disposizioni di carattere generale
 
 ## Art. 22. — Bando di concorso interno
+
+1.
+                        
+                            
+                                I concorsi interni sono indetti con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, da pubblicarsi nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti per la partecipazione al concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i termini e le modalita' di presentazione delle domande di partecipazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il giorno, l'ora ed il luogo di svolgimento delle prove scritte, ovvero la data del Bollettino ufficiale del personale del Ministero dell'interno nel quale sara' pubblicato il diario delle prove;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le materie oggetto delle prove d'esame e la votazione minima da conseguire;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la riserva di posti per il personale bilingue ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il riferimento alla legge 10 aprile 1991, n. 125, che garantisce pari opportunita' tra uomini e donne nel rapporto di lavoro;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
+ Nei concorsi per l'accesso ai ruoli dei direttori tecnici, il bando di concorso, oltre a quanto previsto dal comma 1, deve indicare il numero dei posti messi a concorso per ciascun profilo professionale.
 
 ## Art. 23. — Requisiti di partecipazione ai concorsi interni
 
@@ -374,6 +1127,38 @@ I requisiti devono essere posseduti alla data di scadenza del termine utile per 
 
 Costituisce causa ostativa alla partecipazione ai concorsi l'espulsione da uno dei corsi di formazione finalizzati all'immissione nel ruolo per il quale si concorre.
 
+4.
+                        
+                            
+                                Sono esclusi dal concorso coloro che hanno riportato:
+ 
+                            
+                            
+                                a)
+                                
+                                    nei tre anni precedenti la data del bando, un giudizio complessivo inferiore a "distinto";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'anno precedente la data del bando, la sanzione disciplinare della pena pecuniaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei tre anni precedenti la data del bando, la sanzione disciplinare della deplorazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei cinque anni precedenti la data del bando, la sanzione disciplinare della sospensione dal servizio.
+
 E' inoltre escluso dal concorso, a norma dell'articolo 93 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, il personale sospeso cautelarmente dal servizio; resta ferma la previsione contenuta nell'articolo 94 del medesimo decreto del Presidente della Repubblica.
 
 L'esclusione dal concorso e' disposta con decreto motivato del Capo della polizia - Direttore generale della pubblica sicurezza.
@@ -381,6 +1166,73 @@ L'esclusione dal concorso e' disposta con decreto motivato del Capo della polizi
 Ai partecipanti ai concorsi si applicano le disposizioni di cui all'articolo 24 della legge 1 febbraio 1989, n. 53.
 
 ## Art. 31. — Bando di concorso
+
+1.
+                        
+                            
+                                I concorsi sono indetti con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, da pubblicarsi nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso e le sedi di servizio disponibili;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti per la partecipazione al concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i termini e le modalita' di presentazione delle domande di partecipazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il giorno, l'ora ed il luogo di svolgimento delle prove scritte, ovvero la data del Bollettino ufficiale del personale del Ministero dell'interno nel quale sara' pubblicato il diario delle prove;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le materie oggetto delle prove d'esame e la votazione minima da conseguire;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la riserva di posti per il personale bilingue ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il riferimento alla legge 10 aprile 1991, n. 125, che garantisce pari opportunita' tra uomini e donne nel rapporto di lavoro;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
 
 Nei concorsi per l'accesso al ruolo speciale ad esaurimento dei direttori tecnici, il bando di concorso, oltre a quanto previsto dal comma 1, deve indicare il numero dei posti messi a concorso per ciascun profilo professionale.
 
@@ -434,6 +1286,24 @@ I vincitori del concorso conseguono la nomina alla qualifica iniziale del ruolo 
 
 ## Art. 36. — Commissione esaminatrice
 
+1.
+                        
+                            
+                                La commissione esaminatrice dei concorsi per l'accesso al ruolo direttivo speciale, nominata con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, e' presieduta da un consigliere di Stato, da un magistrato o da un avvocato dello Stato di qualifica corrispondente a consigliere di Stato, ovvero da un prefetto, ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    due funzionari dei ruoli del personale della Polizia di Stato che espleta funzioni di polizia con qualifica non inferiore a primo dirigente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due docenti universitari esperti in una o piu' delle materie su cui vertono le prove d'esame.
+
 Almeno un terzo del numero dei componenti della commissione di concorso, salva motivata impossibilita', e' riservato alle donne.
 
 Per le prove facoltative la commissione esaminatrice, limitatamente all'espletamento delle predette prove, e' integrata da esperti nelle lingue straniere e da un dirigente tecnico della Polizia di Stato esperto in informatica.
@@ -443,6 +1313,49 @@ Svolge le funzioni di segretario un funzionario direttivo.
 Per gli adempimenti preliminari della commissione esaminatrice si applicano gli articoli 11 e 12 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487.
 
 ## Art. 37. — Prove d'esame
+
+1.
+                        
+                            
+                                Il concorso per l'accesso al ruolo direttivo speciale consiste in due prove scritte e un colloquio. Le due prove scritte, della durata massima di otto ore ciascuna, vertono sulle seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto penale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto processuale penale.
+
+2.
+                        
+                            
+                                Il colloquio, oltre che sulle materie oggetto delle prove scritte, verte sulle seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto amministrativo, con particolare riguardo alla legislazione speciale in materia di pubblica sicurezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto costituzionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nozioni di diritto del lavoro.
 
 Al colloquio sono ammessi i candidati che hanno riportato in media una votazione non inferiore a diciotto trentesimi in ciascuna delle prove scritte. La commissione qualora abbia attribuito ad uno dei due elaborati un punteggio inferiore a quello minimo prescritto, non procede all'esame dell'altro.
 
@@ -479,6 +1392,31 @@ Le somme dei punti assegnati dal presidente e dai componenti della commissione e
 ## - Capo III Concorsi per l'accesso al ruolo speciale ad esaurimento dei direttori tecnici
 
 ## Art. 39. — Commissione esaminatrice
+
+1.
+                        
+                            
+                                La commissione esaminatrice dei concorsi per l'accesso al ruolo speciale ad esaurimento, nominata con decreto del Capo della polizia - Direttore generale della pubblica sicurezza, e' presieduta da un consigliere di Stato, da un magistrato o da un avvocato dello Stato di qualifica corrispondente a consigliere di Stato, ovvero da un prefetto, ed e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    un funzionario dei ruoli del personale della Polizia di Stato che espleta funzioni di polizia con qualifica non inferiore a primo dirigente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due docenti universitari esperti in una o piu' delle materie su cui vertono le prove d'esame;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un dirigente tecnico della Polizia di Stato, per ciascun settore per il quale e' bandito il concorso, esperto nel settore medesimo e, per il settore sanitario, da un dirigente medico della Polizia di Stato.
 
 Almeno un terzo del numero dei componenti della commissione di concorso, salva motivata impossibilita', e' riservato alle donne.
 
@@ -612,6 +1550,31 @@ Per la partecipazione ai concorsi per l'accesso al ruolo direttivo speciale di c
 Ai concorsi di cui al comma 1 si applicano le disposizioni degli articoli 37 e 38 del presente regolamento, fatta eccezione per quanto stabilito dai seguenti commi.
 
 La prova scritta, della durata massima di otto ore, consiste in un elaborato in materia di diritto penale o di diritto processuale penale.
+
+4.
+                        
+                            
+                                Il colloquio, oltre che sulle materie oggetto della prova scritta, verte sulle seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto amministrativo con particolare riguardo alla legislazione speciale in materia di pubblica sicurezza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diritto costituzionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nozioni di diritto del lavoro.
 
 ## Art. 51. — Disposizioni finali e di rinvio
 

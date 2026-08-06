@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-08-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -39,6 +39,32 @@ Il rapporto di lavoro del direttore generale e' esclusivo ed e' regolato da cont
 Il direttore generale e' tenuto ad esercitare le funzioni stabilite dal decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, nonche' ogni altra funzione connessa all'attivita' di gestione disciplinata da norme di legge e di regolamento e da leggi e atti di programmazione regionale.
 
 Con la sottoscrizione del contratto di lavoro il direttore generale si impegna a prestare la propria attivita' a tempo pieno e con impegno esclusivo a favore dell'ente cui e' stato preposto.
+
+5.
+                    
+                        
+                            Al direttore generale e' attribuito il trattamento economico omnicomprensivo individuato dalla regione in relazione ai seguenti parametri:
+ 
+                        
+                        
+                            a)
+                            
+                                volume delle entrate di parte corrente della unita' sanitaria locale o dell'azienda ospedaliera;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero di assistiti e di posti letto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                numero di dipendenti.
+ (( Il trattamento annuo, determinato sulla base delle lettere a), b) e c), non puo' essere superiore a lire trecentomilioni. Il trattamento economico puo' essere integrato di una ulteriore quota, fino al 20 per cento dello stesso, previa valutazione, sulla base dei criteri determinati ai sensi del comma 5 dell'articolo 3-bis del decreto legislativo n. 502 del 1992 e successive modificazioni, dei risultati di gestione ottenuti e della realizzazione degli obiettivi di salute e di funzionamento dei servizi, assegnati al direttore generale annualmente dalla regione. )) Il trattamento economico e' comprensivo delle spese sostenute per gli spostamenti dal luogo di residenza al luogo di svolgimento delle funzioni. Al direttore generale, per lo svolgimento delle attivita' inerenti le sue funzioni, spetta il rimborso delle spese di viaggio, vitto ed alloggio effettivamente sostenute e documentate, nei limiti e secondo le modalita' stabilite per i dirigenti generali dello Stato di livello C.
 
 ((
 

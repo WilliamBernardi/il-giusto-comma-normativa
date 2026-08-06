@@ -8,8 +8,8 @@ codice_redazionale: 001G0408
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,4 +26,24 @@ Constatato che il decreto del Presidente della Repubblica 22 maggio 2001, presen
 Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 8 marzo 1999, n. 275, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 4 dell'articolo 12 e' sostituito dal seguente:
+ "4. Le istruzioni generali di cui all'articolo 21, commi 1 e 14, della legge 15 marzo 1997, n. 59, adottate con decreto del Ministro della pubblica istruzione, 1 febbraio 2001, n. 44, si applicano a decorrere dal 1 settembre 2001. Per le sole rilevazioni contabili relative alla gestione delle entrate e delle spese concernenti l'esercizio finanziario 2001, e fino al termine del medesimo esercizio, continuano ad applicarsi le disposizioni amministrativo-contabili previgenti.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 14, dopo il comma 7 e' aggiunto, in fine, il seguente:
+ "7-bis. L'Avvocatura dello Stato continua ad assumere la rappresentanza e la difesa nei giudizi attivi e passivi davanti le autorita' giudiziarie, i collegi arbitrali e le giurisdizioni amministrative e speciali di tutte le istituzioni scolastiche cui e' stata attribuita l'autonomia e la personalita' giuridica a norma dell'articolo 21 della legge 15 marzo 1997, n. 59.".
 

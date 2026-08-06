@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -42,6 +42,59 @@ L'indennita' di cui al comma 1 e' riconosciuta anche ai lavoratori intermittenti
 ## Art. 2.
 
 Requisiti per il riconoscimento dell'indennita' di discontinuita'
+
+1.
+                    
+                        
+                            L'indennita' di discontinuita' e' riconosciuta, previa domanda, ai lavoratori di cui all'articolo 1 iscritti al Fondo pensione lavoratori dello spettacolo in possesso, al momento della presentazione della domanda, dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere cittadino di uno Stato membro dell'Unione europea ovvero cittadino straniero regolarmente soggiornante nel territorio italiano; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere residente in Italia da almeno un anno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere in possesso di un reddito ai fini dell'imposta sul reddito delle persone fisiche (IRPEF), determinato in sede di dichiarazione quale reddito di riferimento per le agevolazioni fiscali, non superiore a euro ((35.000)) nell'anno di imposta precedente alla presentazione della domanda; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                aver maturato, nell'anno precedente a quello di presentazione della domanda, almeno cinquantuno giornate di contribuzione accreditata al Fondo pensione lavoratori dello spettacolo. ((Per i soli attori cinematografici o di audiovisivi, il requisito di cui al primo periodo si intende soddisfatto anche qualora il lavoratore abbia maturato almeno quindici giornate di contribuzione accreditata al Fondo pensione lavoratori dello spettacolo nell'anno precedente ovvero almeno trenta giornate complessive nei due anni precedenti a quello di presentazione della domanda)). Ai fini del calcolo delle giornate non si computano le giornate eventualmente riconosciute a titolo di indennita' di discontinuita', di indennita' di disoccupazione per i lavoratori autonomi dello spettacolo (ALAS) e di indennita' della nuova assicurazione sociale per l'impiego (NASpI) ((nell'anno o negli anni considerati ai fini della presente lettera)); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                avere, nell'anno precedente a quello di presentazione della domanda, un reddito da lavoro derivante in via prevalente dall'esercizio delle attivita' lavorative per le quali e' richiesta l'iscrizione obbligatoria al Fondo pensione lavoratori dello spettacolo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                non essere stato titolare di rapporto di lavoro subordinato a tempo indeterminato nell'anno precedente a quello di presentazione della domanda, fatta eccezione per i rapporti di lavoro intermittente a tempo indeterminato, per i quali non sia prevista l'indennita' di disponibilita' di cui all'articolo 16 del decreto legislativo 15 giugno 2015, n. 81; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                non essere titolare di trattamento pensionistico diretto.
 
 ## Art. 3.
 
@@ -96,6 +149,28 @@ In aggiunta a quanto stabilito dall'articolo 6, l'indennita' di discontinuita' n
 Le prestazioni per l'indennita' di discontinuita' di cui al presente decreto sono riconosciute nel limite massimo di 90,6 milioni di euro per l'anno 2023, 39,6 milioni di euro per l'anno 2024, 40,7 milioni di euro per l'anno 2025, 41,6 milioni di euro per l'anno 2026, 42,4 milioni di euro per l'anno 2027, 43,2 milioni di euro per l'anno 2028, 44,1 milioni di euro per l'anno 2029, 45 milioni di euro per l'anno 2030, 45,9 milioni di euro per l'anno 2031, 46,8 milioni di euro per l'anno 2032 e 47,7 milioni di euro annui a decorrere dall'anno 2033.
 
 L'INPS provvede al monitoraggio del limite di spesa di cui al comma 1 e invia la relativa rendicontazione al Ministero del lavoro e delle politiche sociali, al Ministero della cultura e al Ministero dell'economia e delle finanze. Se l'ammontare complessivo delle risorse finanziarie non consente di soddisfare il numero delle domande ammesse all'indennita' di discontinuita', l'INPS, entro trenta giorni dalla scadenza del termine di valutazione delle domande di cui all'articolo 3, comma 3, stabilisce la quota dell'indennita' da erogare, riparametrata in misura proporzionale in base alla dotazione finanziaria e all'ammontare complessivo delle indennita' liquidabili agli aventi diritto, nel rispetto del limite di spesa di cui al comma 1.
+
+3.
+                    
+                        
+                            Agli oneri derivanti dal comma 1 e dall'articolo 8, comma 3, nonche' alle minori entrate derivanti dall'articolo 7 valutate in 4,8 milioni di euro per l'anno 2025, 2,9 milioni di euro per l'anno 2026, 3 milioni di euro per ciascuno degli anni 2027 e 2028, 3,1 milioni di euro per ciascuno degli anni 2029 e 2030, 3,2 milioni di euro per l'anno 2031, 3,3 milioni di euro annui a decorrere dall'anno 2032, per un importo complessivo di 90,6 milioni di euro per l'anno 2023, 45,2 milioni per l'anno 2024, 51,1 milioni di euro per l'anno 2025, 49,9 milioni di euro per l'anno 2026, 50,6 milioni di euro per l'anno 2027, 51,5 milioni di euro per l'anno 2028, 52,6 milioni di euro per l'anno 2029, 53,6 milioni di euro per l'anno 2030, 54,7 milioni di euro per l'anno 2031, 55,8 milioni di euro per l'anno 2032 e 56,8 milioni di euro annui a decorrere dall'anno 2033 si provvede: 
+                        
+                        
+                            a)
+                            
+                                quanto a 12,2 milioni di euro per l'anno 2024, 12,4 milioni di euro per l'anno 2025, 12,7 milioni di euro per l'anno 2026, 12,9 milioni di euro per l'anno 2027, 13,2 milioni di euro per l'anno 2028, 13,4 milioni di euro per l'anno 2029, 13,7 milioni di euro per l'anno 2030, 14 milioni di euro per l'anno 2031, 14,3 milioni di euro per l'anno 2032 e a 14,5 milioni di euro annui a decorrere dall'anno 2033 mediante le complessive maggiori entrate contributive derivanti dall'articolo 7;
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a 3,7 milioni di euro per l'anno 2025, 2,2 milioni di euro per ciascuno degli anni 2026- 2028, 2,4 milioni di euro per ciascuno degli anni 2029-2031, 2,5 milioni di euro annui a decorrere dall'anno 2032 mediante le maggiori entrate derivanti dall'articolo 8, comma 2;
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a 90,6 milioni di euro per l'anno 2023, 33 milioni di euro per l'anno 2024, 35 milioni di euro per ciascuno degli anni 2025 e 2026, 35,5 milioni di euro per l'anno 2027, 36,1 milioni di euro per l'anno 2028, 36,8 milioni di euro per l'anno 2029, 37,5 milioni di euro per l'anno 2030, 38,3 milioni di euro per l'anno 2031, 39 milioni di euro per l'anno 2032 e 39,8 milioni di euro annui a decorrere dall'anno 2033 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 352, della legge della legge 30 dicembre 2021, n. 234; quanto a 29,6 milioni di euro per l'anno 2024, in termini di fabbisogno e di indebitamento netto, mediante corrispondente riduzione del fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dallalegge 4 dicembre 2008, n. 189.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

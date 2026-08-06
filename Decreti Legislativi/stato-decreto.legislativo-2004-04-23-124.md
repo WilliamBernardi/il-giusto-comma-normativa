@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -128,6 +128,53 @@ Le funzioni ispettive in materia di previdenza ed assistenza sociale sono svolte
 
 ## Art. 7. — Vigilanza
 
+1.
+                        
+                            
+                                Il personale ispettivo ha compiti di:
+
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilare sull'esecuzione di tutte le leggi in materia di livelli essenziali delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale, di tutela dei rapporti di lavoro e di legislazione sociale ovunque sia prestata attivita' di lavoro a prescindere dallo schema contrattuale, tipico o atipico, di volta in volta utilizzato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilare sulla corretta applicazione dei contratti e accordi collettivi di lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire tutti i chiarimenti che vengano richiesti intorno alle leggi sulla cui applicazione esso deve vigilare, anche ai sensi dell'articolo 8;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigilare sul funzionamento delle attivita' previdenziali e assistenziali a favore dei prestatori d'opera compiute dalle associazioni professionali, da altri enti pubblici e da privati, escluse le istituzioni esercitate direttamente dallo Stato, dalle province e dai comuni per il personale da essi dipendente;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    effettuare inchieste, indagini e rilevazioni, su richiesta del Ministero del lavoro e delle politiche sociali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    compiere le funzioni che a esso vengono demandate da disposizioni legislative o regolamentari o delegate dal Ministro del lavoro e delle politiche sociali.
+
 ## Art. 8. — Prevenzione e promozione
 
 Le direzioni regionali e provinciali del lavoro organizzano, mediante il proprio personale ispettivo, eventualmente anche in concorso con i CLES e con le Commissioni regionali e provinciali per la emersione del lavoro non regolare, attivita' di prevenzione e promozione, su questioni di ordine generale, presso i datori di lavoro, finalizzata al rispetto della normativa in materia lavoristica e previdenziale, con particolare riferimento alle questioni di maggior rilevanza sociale, nonche' alle novita' legislative e interpretative. Durante lo svolgimento di tali attivita' il personale ispettivo non esercita le funzioni di cui all'articolo 6, commi 1 e 2.
@@ -210,9 +257,80 @@ Decorso inutilmente il termine di cui al comma 2 o in caso di mancato raggiungim
 
 ## Art. 13. — (Accesso ispettivo, potere di diffida e verbalizzazione unica)
 
+1.
+                        
+                            
+                                Il personale ispettivo accede presso i luoghi di lavoro nei modi e nei tempi consentiti dalla legge. Alla conclusione delle attivita' di verifica compiute nel corso del primo accesso ispettivo, viene rilasciato al datore di lavoro o alla persona presente all'ispezione, con l'obbligo alla tempestiva consegna al datore di lavoro, il verbale di primo accesso ispettivo contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'identificazione dei lavoratori trovati intenti al lavoro e la descrizione delle modalita' del loro impiego; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la specificazione delle attivita' compiute dal personale ispettivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le eventuali dichiarazioni rese dal datore di lavoro o da chi lo assiste, o dalla persona presente all'ispezione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ogni richiesta, anche documentale, utile al proseguimento dell'istruttoria finalizzata all'accertamento degli illeciti, fermo restando quanto previsto dall'articolo 4, settimo comma, della legge 22 luglio 1961, n. 628.
+
 In caso di constatata inosservanza delle norme di legge o del contratto collettivo in materia di lavoro e legislazione sociale e qualora il personale ispettivo rilevi inadempimenti dai quali derivino sanzioni amministrative, questi provvede a diffidare il trasgressore e l'eventuale obbligato in solido, ai sensi dell'articolo 6 della legge 24 novembre 1981, n. 689, alla regolarizzazione delle inosservanze comunque materialmente sanabili, entro il termine di trenta giorni dalla data di notificazione del verbale di cui al comma 4.
 
 In caso di ottemperanza alla diffida, il trasgressore o l'eventuale obbligato in solido e' ammesso al pagamento di una somma pari all'importo della sanzione nella misura del minimo previsto dalla legge ovvero nella misura pari ad un quarto della sanzione stabilita in misura fissa, entro il termine di quindici giorni dalla scadenza del termine di cui al comma 2. Il pagamento dell'importo della predetta somma estingue il procedimento sanzionatorio limitatamente alle inosservanze oggetto di diffida e a condizione dell'effettiva ottemperanza alla diffida stessa.
+
+4.
+                        
+                            
+                                All'ammissione alla procedura di regolarizzazione di cui ai commi 2 e 3, nonche' alla contestazione delle violazioni amministrative di cui all'articolo 14 della legge 24 novembre 1981, n. 689, si provvede da parte del personale ispettivo esclusivamente con la notifica di un unico verbale di accertamento e notificazione, notificato al trasgressore e all'eventuale obbligato in solido. Il verbale di accertamento e notificazione deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli esiti dettagliati dell'accertamento, con indicazione puntuale delle fonti di prova degli illeciti rilevati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la diffida a regolarizzare gli inadempimenti sanabili ai sensi del comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la possibilita' di estinguere gli illeciti ottemperando alla diffida e provvedendo al pagamento della somma di cui al comma 3 ovvero pagando la medesima somma nei casi di illeciti gia' oggetto di regolarizzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la possibilita' di estinguere gli illeciti non diffidabili, ovvero quelli oggetto di diffida nei casi di cui al comma 5, attraverso il pagamento della sanzione in misura ridotta ai sensi dell'articolo 16 della legge 24 novembre 1981, n. 689; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione degli strumenti di difesa e degli organi ai quali proporre ricorso, con specificazione dei termini di impugnazione.
 
 ((L'adozione della diffida interrompe i termini per la presentazione dei ricorsi di cui agli articoli 16 e 17 del presente decreto, fino alla scadenza del termine per compiere gli adempimenti di cui ai commi 2 e 3)). Ove da parte del trasgressore o dell'obbligato in solido non sia stata fornita prova al personale ispettivo dell'avvenuta regolarizzazione e del pagamento delle somme previste, il verbale unico di cui al comma 4 produce gli effetti della contestazione e notificazione degli addebiti accertati nei confronti del trasgressore e della persona obbligata in solido ai quali sia stato notificato.((7))
 

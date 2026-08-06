@@ -8,8 +8,8 @@ codice_redazionale: 092G0468
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,91 @@ Considerata l'esigenza di disciplinare unitariamente la materia, in relazione al
 Udito il parere del Consiglio di Stato espresso nella adunanza generale del 19 dicembre 1991;
 
 ## Art. 1. — R e q u i s i t i
+
+1.
+                    
+                        
+                            Ai fini della concessione del contributo di cui all'art. 3 della legge 28 giugno 1991, n. 208, il programma da predisporre ai sensi dell'art. 2 della medesima legge indica:
+ 
+                        
+                        
+                            a)
+                            
+                                le tipologie dell'intervento, ai sensi dell'art. 2 del presente regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione degli itinerari, le localizzazioni, i tracciati plano-altimetrici del percorso, le condizioni orografiche del territorio, gli eventuali passaggi sotterranei o sopraelevati ed i raccordi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le opere di protezione atte a garantire la sicurezza degli utenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli impianti di illuminazione e quelli per lo smaltimento delle acque meteoriche nei recapiti esistenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i tempi previsti per la progettazione esecutiva e per la realizzazione dell'intervento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i piani economico-finanziari, con l'analisi costi-benefici;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le modalita' per la verifica dello stato di attuazione e per il collaudo delle opere;
+
+                            
+                        
+                        
+                            h)
+                            
+                                le misure organizzative ed eventualmente quelle di coordinamento necessarie per l'attuazione dell'intervento, anche ai sensi dell'art. 4 della legge.
+
+2.
+                    
+                        
+                            Ai fini della ammissione ai contributi sono presi in considerazione, ai sensi dell'art. 2 della legge, soltanto gli interventi che presentano congiuntamente le seguenti caratteristiche:
+ 
+                        
+                        
+                            a)
+                            
+                                interventi urgenti che abbiano influenza nella decongestione di aree urbane ad alta intensita' di traffico veicolare a motore, anche mediante interscambio con sistemi di trasporto collettivo; ovvero interventi di carattere intercomunale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                interventi il cui rapporto tra i costi preventivati ed i benefici stimati (sommatoria di ricavi, risparmi, costi cessanti piu' altri elementi valutabili ai fini ambientali, paesaggistici e di disinquinamento) segni il piu' alto risultato dell'investimento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                itinerari oggettivamente fruibili in relazione alle favorevoli caratteristiche orografiche del territorio, con particolare riferimento alle condizioni plano-altimetriche (pendenze non superiori al 5% e comunque per tratti complessivamente non superiori al 5% della lunghezza dell'intero itinerario).
 
 ## Art. 2. — P r i o r i t a'
 
@@ -48,6 +133,38 @@ La misura del contributo di cui all'art. 3 della legge si ottiene applicando al 
  50% per interventi rientranti nella tipologia E) prevista nel precedente art. 2.
 
 ## Art. 4. — Costi standard
+
+1.
+                    
+                        
+                            Ai fini dell'ammissione al contributo previsto dall'art. 3 della legge i costi valutabili non possono eccedere i seguenti costi stand- ard:
+ 
+                        
+                        
+                            a)
+                            
+                                interventi relativi ad itinerari ciclabili mono o bidirezionali, su carreggiate stradale o marciapiede, ricavabili mediante opere di adeguamento, segnaletica orizzontale e verticale, illuminazione ed idonea protezione: L./Km 50.000.000;
+
+                            
+                        
+                        
+                            b)
+                            
+                                interventi di ampliamento, ristrutturazione e completamento di itinerari mono o bidirezionali ciclabili in sede propria, compresa segnaletica orizzontale e verticale, illuminazione ed idonee opere di protezione: L./Km 100.000.000;
+
+                            
+                        
+                        
+                            c)
+                            
+                                interventi per itinerari ciclabili bidirezionali, in sede propria, comprese segnaletica orizzontale e verticale, illuminazione ed idonee opere di protezione: L./Km 200.000.000;
+
+                            
+                        
+                        
+                            d)
+                            
+                                interventi per itinerari ciclo-pedonali bidirezionali con le caratteristiche di cui alla voce precedente: L./Km 250.000.000.
 
 ## Art. 5. — Concessione contributo
 

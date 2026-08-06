@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2002-01-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,29 @@ Il Fondo costituito presso l'Istituto nazionale della previdenza sociale, ai sen
 
 ## Art. 2. — Composizione del comitato
 
+1.
+                    
+                        
+                            Il comitato e' nominato, per un quadriennio, con decreto del Ministro del lavoro e della previdenza sociale ed e' composto di tredici membri di cui:
+
+                        
+                        
+                            a)
+                            
+                                due designati dal Ministro del lavoro e della previdenza sociale, con qualifica non inferiore a quella di dirigente;
+                            
+                        
+                        
+                            b)
+                            
+                                cinque designati dalle associazioni datoriali e del lavoro autonomo, in rappresentanza dell'industria, della piccola impresa, dell'artigianato, del commercio, dell'agricoltura;
+                            
+                        
+                        
+                            c)
+                            
+                                sei eletti dagli iscritti al Fondo secondo le procedure previste dal regolamento elettorale di cui all'articolo 58 della legge 17 maggio 1999, n. 144.
+
 Il presidente del comitato e' eletto tra i componenti eletti dagli iscritti al Fondo. In caso di assenza o impossibilita' del presidente, le funzioni vicarie sono assunte dal membro del comitato delegato dal presidente stesso.
 
 Ai componenti del comitato amministratore e' corrisposto un gettone di presenza, nei limiti finanziari complessivi annui di cui all'articolo 58, comma 6, della legge n. 144 del 1999, il cui ammontare e' determinato con decreto del Presidente del Consiglio dei Ministri su proposta del Ministro del lavoro e della previdenza sociale d'intesa con il Ministro del tesoro, del bilancio e della programmazione economica.
@@ -39,4 +62,40 @@ Il comitato amministratore opera avvalendosi della struttura e di personale dell
 Per la validita' delle sedute del comitato e' richiesta la presenza della maggioranza dei componenti e le relative deliberazioni sono assunte con il voto favorevole della maggioranza dei partecipanti alle sedute stesse. In caso di parita' di voti prevale il voto del presidente.
 
 ## Art. 3. — Funzioni del comitato
+
+1.
+                    
+                        
+                            Il comitato amministratore ha i seguenti compiti:
+
+                        
+                        
+                            a)
+                            
+                                predisporre, in conformita' dei criteri ed indirizzi stabiliti dal consiglio di indirizzo e vigilanza dell'INPS, i bilanci annuali preventivo e consuntivo della gestione, corredati da una relazione da trasmettere, unitamente ai bilanci stessi, al consiglio d'amministrazione per i successivi adempimenti di cui al decreto legislativo 30 giugno 1994, n. 479;
+                            
+                        
+                        
+                            b)
+                            
+                                adottare le iniziative necessarie per garantire l'equilibrio finanziario della gestione;
+                            
+                        
+                        
+                            c)
+                            
+                                vigilare sull'affluenza dei contributi, sull'erogazione delle prestazioni, nonche' sull'andamento della gestione, proponendo le iniziative necessarie per assicurarne l'equilibrio;
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((decidere, in unica istanza, i ricorsi in materia di contributi e di prestazioni a carico del Fondo));
+                            
+                        
+                        
+                            e)
+                            
+                                vigilare sulla tenuta e sull'aggiornamento dell'elenco degli iscritti alla gestione.
 

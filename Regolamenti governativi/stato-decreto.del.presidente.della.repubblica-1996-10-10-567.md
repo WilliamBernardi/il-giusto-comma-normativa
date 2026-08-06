@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2008-02-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -116,6 +116,23 @@ Il Forum e' composto dai rappresentanti di associazioni o di confederazioni di a
 
 In prima applicazione sono riconosciute quali maggiormente rappresentative a livello nazionale e ammesse al Forum le associazioni studentesche individuate con il citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca 11 luglio 2002, n. 79, di seguito denominate: Alternativa studentesca, Azione studentesca, Confederazione degli studenti, Gioventu' studentesca, Liste per la liberta' della scuola, Movimento studenti di Azione cattolica, Movimento studenti cattolici, Studenti.net, Unione degli studenti.
 
+4.
+                    
+                        
+                            Possono essere altresi' accreditate al Forum, con le procedure di cui al comma 5, le associazioni o le confederazioni di associazioni di studenti in possesso delle caratteristiche di maggiore rappresentativita' a livello nazionale, da accertare in base ad entrambi i seguenti criteri:
+
+                        
+                        
+                            a)
+                            
+                                numero di associati non inferiore a 3000 unita', o di rappresentanti nei consigli di istituto non inferiore a 200 unita', o di rappresentanti nelle consulte provinciali di cui all'articolo 6 non inferiore a 100 unita', o anche numero di progetti realizzati a norma dell'articolo 4 non inferiore a 100 unita'. Sono anche considerate maggiormente rappresentative le associazioni o le confederazioni di associazioni di studenti le quali, pur non conseguendo i valori minimi sopra indicati, in due dei predetti requisiti presentano percentuali che, sommate tra di loro, diano il risultato di 100 per cento sui medesimi valori numerici;
+                            
+                        
+                        
+                            b)
+                            
+                                presenza nel territorio nazionale in non meno di quattro regioni.
+
 Le associazioni o le confederazioni di associazioni presentano la domanda di accreditamento, completa della documentazione, al Ministero dell'istruzione, dell'universita' e della ricerca - Dipartimento per l'istruzione - Direzione generale per lo studente. I requisiti di rappresentativita' descritti nel comma 4 possono essere comprovati ai sensi degli articoli 19, 19-bis, 38, 45, 46, 47 e 48 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modificazioni, anche con dichiarazione sostitutiva resa da un responsabile nazionale dell'associazione o della confederazione di associazioni, in possesso di maggiore eta'; in tale caso, il Ministero dell'istruzione, dell'universita' e della ricerca si riserva di procedere ad idonei controlli, anche a campione, sulla veridicita' delle dichiarazioni rese, a norma dell'articolo 71 del citato decreto del Presidente della Repubblica n. 445 del 2000. La Direzione generale per lo studente, esperite le istruttorie del caso sulle istanze e sulle documentazioni prodotte, accredita le associazioni o le confederazioni di associazioni al Forum. E' demandata alla stessa Direzione generale per lo studente la verifica, con periodicita' annuale, della persistenza dei requisiti previsti per la permanenza nel Forum, anche in contraddittorio con l'associazione o la confederazione di associazioni interessata, secondo le modalita' stabilite dal Forum medesimo.
 
 Le attivita' del Forum, cosi' come risultanti dai verbali, sono adeguatamente pubblicizzate dal Ministero dell'istruzione, dell'universita' e della ricerca a mezzo stampa e sul proprio sito internet.
@@ -134,6 +151,38 @@ Il Forum e' composto dai rappresentanti di associazioni o di confederazioni di a
 
 In prima applicazione sono riconosciute quali maggiormente rappresentative a livello nazionale e ammesse al Forum le associazioni dei genitori, individuate con il citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca 18 febbraio 2002, n. 14, di seguito denominate: Associazione italiana genitori, Associazione genitori scuole cattoliche, Coordinamento genitori democratici.
 
+4.
+                    
+                        
+                            Possono essere altresi' accreditate al Forum, con le procedure di cui al comma 5, le associazioni o le confederazioni di associazioni di genitori di alunni in possesso delle caratteristiche di maggiore rappresentativita' a livello nazionale, da accertare in base ad almeno tre dei seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                presenza nel territorio nazionale in non meno di quattro regioni, con una media di cinquecento associati per regione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                costituzione da almeno due anni alla data della domanda di ammissione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                numero di associati non inferiore a cinquemila genitori;
+
+                            
+                        
+                        
+                            d)
+                            
+                                adesione all'Associazione europea dei genitori (EPA).
+
 Le associazioni o le confederazioni di associazioni presentano la domanda di accreditamento, completa della documentazione, al Ministero dell'istruzione, dell'universita' e della ricerca - Dipartimento per l'istruzione - Direzione generale per lo studente. I requisiti di rappresentativita' descritti nel comma 4 possono essere comprovati ai sensi degli articoli 19, 19-bis, 38, 45, 46, 47 e 48 del citato decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modificazioni, anche con dichiarazione sostitutiva resa da un responsabile nazionale dell'associazione o della confederazione di associazioni; in tale caso il Ministero dell'istruzione, dell'universita' e della ricerca si riserva di procedere ad idonei controlli, anche a campione, sulla veridicita' delle dichiarazioni emesse, a norma dell'articolo 71 del citato decreto del Presidente della Repubblica n. 445 del 2000. La Direzione generale per lo studente, esperite le istruttorie del caso sulle istanze e sulle documentazioni prodotte, accredita le associazioni o le confederazioni di associazioni al Forum. E demandata alla stessa Direzione generale per lo studente, la verifica con periodicita' triennale della persistenza dei requisiti previsti per la permanenza nel Forum, anche in contraddittorio con l'associazione o la confederazione di associazioni interessata, secondo le modalita' stabilite dal Forum medesimo.
 
 Le attivita' del Forum, cosi' come risultanti dai verbali, sono adeguatamente pubblicizzate dal Ministero dell'istruzione, dell'universita' e della ricerca a mezzo stampa e sul proprio sito internet.
@@ -150,6 +199,53 @@ Due rappresentanti degli studenti per ciascun istituto o scuola di istruzione se
 
 ))
 
+2.
+                    
+                        
+                            La consulta provinciale degli studenti ha il compito di:
+
+                        
+                        
+                            a)
+                            
+                                assicurare il piu' ampio confronto fra gli studenti di tutte le istituzioni di istruzione secondaria superiore della provincia, anche al fine di ottimizzare ed integrare in rete le iniziative di cui al presente regolamento e di formulare proposte di intervento che superino la dimensione del singolo istituto, anche sulla base di accordi di rete previsti dall'articolo 7, del decreto del Presidente della Repubblica 8 marzo 1999, n. 275, nonche' di accordi quadro da stipularsi tra la competente autorita' scolastica periferica , gli enti locali, la regione, le associazioni degli studenti e degli ex studenti, dell'utenza e del volontariato, le organizzazioni del mondo del lavoro e della produzione;
+                            
+                        
+                        
+                            b)
+                            
+                                formulare proposte ed esprimere pareri agli uffici scolastici, agli enti locali competenti e agli organi collegiali territoriali;
+                            
+                        
+                        
+                            b-bis)
+                            
+                                collaborare con gli organi dell'amministrazione scolastica e con i centri di informazione e consulenza di cui all'articolo 326, commi 17 e 18, del decreto legislativo 16 aprile 1994, n. 297, per la realizzazione di progetti di attivita' informativa e di consulenza intesi alla prevenzione e cura delle tossicodipendenze, nonche' alla lotta contro l'abuso di farmaci e di sostanze per l'incremento artificiale delle prestazioni sportive. Le relative iniziative previste dai commi 19, 20 e 21 del citato articolo 326, sono disciplinate dal presente regolamento;
+                            
+                        
+                        
+                            c)
+                            
+                                istituire, in collaborazione con l'ufficio scolastico locale , uno sportello informativo per gli studenti con particolare riferimento all'attuazione del presente regolamento e dello statuto delle studentesse e degli studenti e alle attivita' di orientamento;
+                            
+                        
+                        
+                            d)
+                            
+                                promuovere iniziative di carattere trasnazionale;
+                            
+                        
+                        
+                            d-bis)
+                            
+                                designare i rappresentanti degli studenti nei consigli scolastici locali;
+                            
+                        
+                        
+                            e)
+                            
+                                designare i rappresentanti degli studenti nell'organo di garanzia previsto dall'articolo 5, comma 4, del decreto del Presidente della Repubblica 24 giugno 1998, n. 249.
+
 La consulta si dota di un proprio regolamento, a norma del quale elegge un presidente ed un consiglio di presidenza ((e puo' articolarsi in commissioni di lavoro, territoriali e/o tematiche.))
  4. al fine di assicurare continuita' di indirizzo nella gestione e favorire il pieno inserimento dei neo eletti, i componenti del consiglio di presidenza della consulta che hanno terminato il curriculo scolastico o non sono stati rieletti dal proprio istituto, possono, a richiesta e a titolo gratuito, essere nominati dalla consulta consulenti per non piu' di un anno scolastico. Per quel periodo transitorio ad essi si applica il trattamento previsto per i membri della consulta.
  5. Le consulte appartenenti ad una stessa regione danno vita ad un coordinamento regionale rappresentativo, il quale viene insediato dal dirigente del competente ufficio scolastico regionale. Detto ufficio assicura al coordinamento il supporto tecnico-organizzativo. Il coordinamento regionale adotta un proprio regolamento interno con il quale sono disciplinate la composizione e le modalita' organizzative.
@@ -162,6 +258,45 @@ La consulta si dota di un proprio regolamento, a norma del quale elegge un presi
 La Conferenza nazionale di cui all'articolo 1, comma 1, lettera g) del decreto del Presidente della Repubblica 28 marzo 2007, n. 75, assume la denominazione di Consiglio nazionale dei presidenti delle consulte provinciali degli studenti; esso e' organo consultivo del Ministero ed assicura una sede permanente di confronto e di rappresentanza degli studenti a livello nazionale.
 
 E' composto da tutti i presidenti eletti in ciascuna consulta.
+
+3.
+                    
+                        
+                            Il Consiglio svolge le seguenti funzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                coordina e cura lo scambio di informazioni relativamente alle attivita' delle consulte provinciali degli studenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove 1'ideazione e realizzazione di attivita' progettuali di rilevanza nazionale, comunitaria ed internazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esprime, su richiesta del Ministro o di propria iniziativa, pareri su azioni attinenti la partecipazione degli studenti e la progettualita' delle consulte;
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove indagini conoscitive sulla condizione studentesca i cui risultati formano oggetto di relazioni al Ministro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                elabora proposte ed indicazioni progettuali con particolare attenzione al funzionamento del sistema di partecipazione e rappresentanza degli studenti.
 
 Il Consiglio nazionale dei presidenti si dota di un regolamento interno che ne fissa le modalita' organizzativo-gestionali, nonche' la pianificazione delle adunanze, che, comunque, possono essere convocate anche dal Ministro.
 

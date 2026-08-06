@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-05-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -166,6 +166,24 @@ All'articolo 25, comma 3, del decreto legislativo 15 febbraio 2010, n. 31, dopo 
 
 
 
+2.
+                    
+                        
+                            All'articolo 27, comma 2, del decreto legislativo 15 febbraio 2010, n. 31, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea, le parole: "di massima" sono soppresse e la parola: "indicati" e' sostituita dalla seguente: "indicata"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera b), sono aggiunte in fine le seguenti parole: ", e determinazione del fattore di riempimento".
+
 All'articolo 27, comma 3, primo periodo, le parole: "di massima" sono soppresse.
 
 All'articolo 27, comma 4, le parole: "alle misure compensative" sono sostituite dalle seguenti: "ai benefici economici".
@@ -197,12 +215,61 @@ L'autorizzazione unica costituisce variante agli strumenti urbanistici e sostitu
 ## Art. 27. — Modifiche all'articolo 28 del decreto legislativo n. 31 
  del 2010
 
+1.
+                    
+                        
+                            All'articolo 28, comma 1 del decreto legislativo 15 febbraio 2010, n. 31, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera c) e' sostituita dalla seguente: "c) rapporto preliminare di sicurezza;"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera d) e' sostituita dalla seguente: 
+ "d) documentazione da cui risulta il modello operativo per l'esercizio del Deposito nazionale, in particolare: 
+ 1) schema di regolamento di esercizio; 
+ 2) schema di manuale operativo; 
+ 3) programma generale di prove per la movimentazione e lo stoccaggio dei rifiuti radioattivi; 
+ 4) organigramma previsionale del personale preposto ed addetto all'esercizio tecnico dell'impianto, che svolga funzioni rilevanti agli effetti della sicurezza nucleare o della protezione sanitaria e relative patenti di idoneita';".
+
 ## Art. 28.
 
 ((ARTICOLO ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO 
  CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
 ## Art. 29. — Modifiche all'articolo 30 del decreto legislativo n. 31 del 2010
+
+1.
+                    
+                        
+                            All'articolo 30 del decreto legislativo 15 febbraio 2010, n. 31, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, le parole: "in un ambito territoriale di 20 chilometri" sono sostituite dalle seguenti: "localizzate all'interno di un'area compresa entro i 20 chilometri dal centro dell'edificio Deposito"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la rubrica e' sostituita dalla seguente: "Benefici economici";
 
 ## Art. 30.
 
@@ -215,4 +282,37 @@ L'autorizzazione unica costituisce variante agli strumenti urbanistici e sostitu
  CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75))
 
 ## Art. 32. — Ulteriori modifiche al decreto legislativo n. 31 del 2010
+
+1.
+                    
+                        
+                            Al decreto legislativo n. 31 del 2010 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la parola:"art.", ovunque ricorra, e' sostituita dalla seguente: "articolo"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la parola: "disattivazione", ovunque ricorra, e' sostituita dalla seguente: "decommissioning"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nel titolo, le parole "misure compensative" sono sostituite dalle seguenti: "benefici economici".
 

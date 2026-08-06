@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2008-02-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,6 +39,38 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto co
 ## Art. 1. — Organizzazione centrale e decentrata
 
 Il Ministero delle infrastrutture e dei trasporti, di seguito denominato: "Ministero", esercita le funzioni di cui all'articolo 42 del decreto legislativo 30 luglio 1999, n. 300, come modificato dall'articolo 2 del decreto legislativo 12 giugno 2003, n. 152.
+
+2.
+                        
+                            
+                                Il Ministero, per l'espletamento dei compiti ad esso demandati, e' articolato, a livello centrale, in 16 direzioni generali e 4 uffici di livello dirigenziale generale incardinati nei seguenti quattro Dipartimenti di cui si compone la struttura:
+ 
+                            
+                            
+                                a)
+                                
+                                    Dipartimento per il coordinamento dello sviluppo del territorio, per il personale ed i servizi generali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Dipartimento per le infrastrutture stradali, l'edilizia e la regolazione dei lavori pubblici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Dipartimento per la navigazione e il trasporto marittimo ed aereo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Dipartimento per i trasporti terrestri.
 
 Nell'ambito degli uffici di diretta collaborazione di cui al decreto del Presidente della Repubblica 24 aprile 2001, n. 320, sono, inoltre conferiti, nel quadro della dotazione organica di cui alla allegata Tabella A, sei incarichi con funzioni ispettive, di consulenza, studio e ricerca o altri incarichi di diretta collaborazione ai sensi dell'articolo 19, comma 10, del decreto legislativo 30 marzo 2001, n. 165, di cui uno finalizzato al monitoraggio e sviluppo delle politiche sulla sicurezza dei trasporti e delle infrastrutture ed uno finalizzato alle politiche culturali connesse alla realizzazione delle infrastrutture.
 
@@ -77,6 +109,38 @@ Il Comandante generale del Corpo delle Capitanerie di porto partecipa alla Confe
 
 ## Art. 3. — Aree funzionali
 
+1.
+                        
+                            
+                                I Dipartimenti del Ministero assicurano l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'articolo 42 del decreto legislativo 30 luglio 1999, n. 300, come modificato dal decreto legislativo 12 giugno 2003, n. 152, secondo la seguente ripartizione:
+ 
+                            
+                            
+                                a)
+                                
+                                    Dipartimento per il coordinamento dello sviluppo del territorio, il personale ed i servizi generali - identificazione delle linee fondamentali dell'assetto del territorio nazionale con particolare riferimento all'articolazione territoriale delle reti infrastrutturali e delle opere di competenza statale, nonche' al sistema delle citta' e delle aree metropolitane; rapporti con gli organismi nazionali ed internazionali e coordinamento con l'Unione europea in materia di governo del territorio e politica urbana; monitoraggio dei progetti internazionali e comunitari; profili comuni ed interdipartimentali del rapporto di lavoro, formazione e politiche del personale, bilancio, risorse strumentali; gestione del contenzioso del lavoro; gestione dei beni mobili ed immobili e della Cassa di previdenza assistenza; edilizia e impianti per gli immobili dell'Amministrazione decentrata; gestione dei sistemi informativi e statistici; nucleo di valutazione e verifica degli investimenti pubblici; attivita' per la salvaguardia di Venezia; indirizzo, coordinamento, monitoraggio e verifica dell'attivita' dei SIIT per le materie di competenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Dipartimento per le infrastrutture stradali, l'edilizia e la regolazione dei lavori pubblici - vigilanza sui gestori delle reti di trasporto viario; rete nazionale stradale e autostradale; edilizia residenziale; edilizia demaniale; realizzazione delle opere corrispondenti alle reti e i nodi infrastrutturali viari di interesse nazionale e valutazione dei relativi interventi; attuazione delle politiche abitative e dell'edilizia concernenti anche il sistema delle citta' e delle aree metropolitane; programmi di riqualificazione urbana; repressione dell'abusivismo; regolazione dei lavori pubblici; rapporti con gli organismi nazionali ed internazionali in materia di appalti pubblici; realizzazione di programmi speciali; grandi eventi; indirizzo, coordinamento, monitoraggio e verifica dell'attivita' dei SIIT per le materie di competenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Dipartimento per la navigazione ed il trasporto marittimo ed aereo - indirizzo, programmazione e regolazione in materia di navigazione, trasporto marittimo e trasporto intermodale; infrastrutture portuali; vigilanza sui porti; demanio marittimo; programmazione, previa intesa con le regioni interessate, del sistema idroviario padano-veneto; sicurezza della navigazione; aviazione civile e trasporto aereo; rapporti con organismi nazionali e internazionali e coordinamento con l'Unione europea in materia di navigazione e trasporto marittimo ed aereo; indirizzo, coordinamento, monitoraggio e verifica dell'attivita' dei SIIT per le materie di competenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Dipartimento per i trasporti terrestri - programmazione, indirizzo e regolazione in materia di trasporto terrestre ed intermodale; trasporto su strada: veicoli, conducenti, autotrasporto persone e cose; sistemi di trasporto a impianti fissi; rapporti con organismi nazionali ed internazionali e armonizzazione e coordinamento con l'Unione europea sulle materie di competenza; sicurezza e regolazione tecnica dei trasporti; indirizzo, coordinamento, monitoraggio e verifica dell'attivita' dei SIIT per le materie di competenza;
+
 I Dipartimenti costituiscono centro di responsabilita' amministrativa ai sensi dell'articolo 3 del decreto legislativo 7 agosto 1997, n. 279.
 
 Con successivo decreto ministeriale di natura non regolamentare da adottarsi ai sensi dell'articolo 17, comma 4-bis, lettera e), della legge 23 agosto 1988, n. 400, entro tre mesi dalla data di entrata in vigore del presente regolamento, si provvede all'individuazione, a livello centrale, degli uffici dirigenziali di livello non generale ed alla definizione dei relativi compiti.(2)((3))
@@ -92,6 +156,378 @@ Con successivo decreto ministeriale di natura non regolamentare da adottarsi ai 
 
 ## Art. 4. — Dipartimento per il coordinamento dello sviluppo del territorio, il personale ed i servizi generali
 
+1.
+                        
+                            
+                                Il Dipartimento per il coordinamento dello sviluppo del territorio, il personale ed i servizi generali e' cosi' articolato:
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione generale per il personale, il bilancio ed i servizi generali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione generale per la programmazione e i programmi europei;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Direzione generale per le politiche di sviluppo del territorio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Direzione generale per le reti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Direzione generale per i sistemi informativi e statistici;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Ufficio generale del Dipartimento.
+
+2.
+                        
+                            
+                                La Direzione generale per il personale, il bilancio ed i servizi generali svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    redazione del bilancio e sua gestione relativamente a variazioni ed assestamenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    redazione delle proposte per la legge finanziaria, attivita' di rendicontazione al Parlamento e agli organi di controllo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rapporto di lavoro, reclutamento e formazione del personale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coordinamento funzionale e supporto nell'attivita' di valutazione dei carichi di lavoro, di semplificazione delle procedure, di organizzazione funzionale e logistica degli uffici;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivita' di contrattazione sindacale, gestione del contenzioso del lavoro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gestione dei beni patrimoniali, approvvigionamento dei beni, economato e cassa, ufficio contratti, manutenzione dei beni immobili dell'Amministrazione centrale; opere civili, impianti a corredo e relative attrezzature tecniche per gli immobili dell'Amministrazione decentrata;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    supporto tecnico-organizzativo all'attivita' del responsabile dei servizi di prevenzione e sicurezza del lavoro;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    relazioni con il pubblico;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    Cassa di previdenza e assistenza.
+
+3.
+                        
+                            
+                                La Direzione generale per la programmazione ed i programmi europei svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    predisposizione del Piano generale dei trasporti e della logistica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    programmazione fondi strutturali - PON trasporti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pianificazione pluriennale della viabilita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    programmazione di interventi infrastrutturali, anche attraverso la finanza di progetto, sulla rete stradale e attivita' di supporto ai fini dell'intesa con la Direzione generale per le strade e autostrade, sulla rete autostradale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promozione, nell'ambito delle intese istituzionali di programma degli accordi tra lo Stato e le regioni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gestione dei programmi di iniziativa comunitaria Interreg, Interreg II, Interreg III;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esercizio dei compiti relativi ai segretariati tecnici dei programmi Interreg affidati all'Italia ed alla conseguente attivita' di gestione e pagamento;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    programmi di iniziativa comunitaria di cui all'articolo 10 del regolamento FERS: coordinamento, regolamentazione e monitoraggio;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    partecipazione ai gruppi di lavoro internazionali ONU-ECE, CEMIT-OCSE, CDS-CSRR, CETMO, OTIF e attivita' correlate per le materie di competenza del Dipartimento;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    monitoraggio delle iniziative, dei programmi e degli interventi comunitari nelle materie di competenza del Dipartimento;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    programmi comunitari per la mobilita' sostenibile;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    programmi URBAN.
+
+4.
+                        
+                            
+                                La Direzione generale per le politiche di sviluppo del territorio svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    programmi di sviluppo del territorio e del sistema delle citta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adempimenti tecnici e amministrativi relativi all'espletamento delle procedure di localizzazione di opere infrastrutturali di rilievo nazionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    osservatorio e monitoraggio delle trasformazioni del territorio con riferimento alle reti infrastrutturali e al sistema delle citta' e delle aree metropolitane;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    piani regolatori portuali e aeroportuali e nodi di interscambio;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    individuazione di standars di sicurezza nelle zone interessate da stabilimenti a rischio di incidente rilevante e in altre aree sensibili: attuazione direttiva "Seveso II" - decreto ministeriale 9 maggio 2001.
+
+5.
+                        
+                            
+                                La Direzione generale per le reti svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    programmazione, finanziamento, realizzazione e gestione delle reti elettriche, fatto comunque salvo quanto disposto con il decreto legislativo 16 marzo 1999, n. 79, delle reti idriche, idrauliche ed acquedottistiche nelle aree depresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    azione di supporto e assistenza alle regioni e agli enti locali e rapporti con la Sogesid;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    monitoraggio delle reti elettriche, idriche, idrauliche ed acquedottistiche e relativo coordinamento tecnico;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigilanza sul registro italiano dighe;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    determinazione delle tariffe dell'acqua erogata tramite le reti idriche;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    opere necessarie e consequenziali al rilascio delle concessioni di grande derivazione delle acque.
+
+6.
+                        
+                            
+                                La Direzione generale per i sistemi informativi e statistici svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    gestione e sviluppo dei sistemi informativi del Ministero;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione e sviluppo dell'informatizzazione, di cui alla direttiva del Ministro per l'innovazione e la tecnologia del 21 dicembre 2001, ivi inclusi i rapporti con l'Autorita' informatica per la pubblica amministrazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordinamento e sviluppo integrato degli archivi informatici e delle banche dati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gestione della sicurezza dei sistemi informatici;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinamento e sviluppo integrato dei Portali del Ministero;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    monitoraggio, controllo ed elaborazione dei dati statistici relativi all'attivita' amministrativa, tecnica ed economica del Ministero.
+
+7.
+                        
+                            
+                                L'ufficio generale del Dipartimento svolge funzioni di supporto al capo Dipartimento nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    approfondimento delle tematiche innovative di settore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rapporti con la Direzione generale per i sistemi informativi e statistici per l'attuazione delle strategie di informatizzazione del Dipartimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relazioni sindacali del Dipartimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di comunicazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altri compiti temporanei assegnati dal capo Dipartimento.
+(2)((3))
+
 --------------------
                             AGGIORNAMENTO (2)
                             Il D.P.R. 19 novembre 2007, n. 254, ha disposto (con l'art. 8, comma 1) che " Il decreto del Presidente della Repubblica 2 luglio 2004, n. 184, e' abrogato a decorrere dalla data di entrata in vigore dei provvedimenti di organizzazione dei Ministeri interessati al citato decreto n. 184 del 2004, come individuati ai sensi del decreto-legge n. 181 del 2006, adottati ai sensi dell'articolo 1, commi 404, e seguenti della legge 27 dicembre 2006, n. 296."
@@ -101,6 +537,325 @@ Con successivo decreto ministeriale di natura non regolamentare da adottarsi ai 
 
 ## Art. 5. — Dipartimento per le infrastrutture stradali, l'edilizia e la regolazione dei lavori pubblici
 
+1.
+                        
+                            
+                                Il Dipartimento per le infrastrutture stradali, l'edilizia e la regolazione dei lavori pubblici e' cosi' articolato:
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione generale per le strade e autostrade;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione generale per l'edilizia statale e gli interventi speciali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Direzione generale per l'edilizia residenziale e le politiche urbane e abitative;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Direzione generale per la regolazione dei lavori pubblici;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Ufficio generale del Dipartimento.
+
+2.
+                        
+                            
+                                La Direzione generale per le strade e autostrade svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di supporto per l'esercizio dell'alta vigilanza sull'ANAS e sui gestori delle infrastrutture viarie appartenenti alla rete nazionale; approvazione contratto di programma e piano di investimenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazioni e accordi internazionali nel settore delle reti di trasporto viario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    regolamentazione dei servizi stradali ed autostradali riferiti agli enti ed organismi gestori delle strade e autostrade;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    archivio nazionale delle strade;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    affidamento di concessioni di costruzione e gestione di infrastrutture viarie di interesse nazionale - programmazione della rete autostradale d'intesa con la Direzione generale per la programmazione ed i programmi europei ed attivita' di supporto alla detta Direzione ai fini dell'intesa sulla programmazione della rete stradale di interesse nazionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    individuazione di standard e predisposizione di normative tecniche attinenti alle caratteristiche costruttive tecniche e funzionali delle strade ed autostrade; classificazione e declassificazione delle strade di competenza statale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    attuazione del Piano nazionale della sicurezza stradale e dei programmi operativi;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    interventi sulla rete stradale di interesse locale previsti da norme di legge.
+
+3.
+                        
+                            
+                                La Direzione generale per l'edilizia statale e gli interventi speciali svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    opere pubbliche di competenza statale, ivi compresi gli interventi di edilizia giudiziaria, di edilizia penitenziaria, di edilizia demaniale di competenza statale, di edilizia per le Forze armate, le Forze di polizia e i Vigili del fuoco;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' tecnico-amministrativa per l'espletamento delle funzioni statali di competenza del Ministero funzionali alla definizione dei criteri per l'individuazione delle zone sismiche e delle relative norme tecniche per le costruzioni, su proposta del Consiglio superiore dei lavori pubblici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    interventi per la ricostruzione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    interventi di competenza statale per la citta' di Roma-Capitale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    interventi previsti da leggi speciali e grandi eventi.
+
+4.
+                        
+                            
+                                La Direzione generale per l'edilizia residenziale e le politiche urbane e abitative svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    compiti di edilizia sovvenzionata ed agevolata di spettanza statale, ivi compresa l'edilizia per le Forze armate e di polizia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disciplina delle cooperative edilizie;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    misure dirette a far fronte al disagio abitativo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    locazioni ed equo canone;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    iniziative sociali e comunitarie in materia di accesso all'abitazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mutui edilizi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    programmi gia' di pertinenza del Segretariato generale CER.
+
+                                
+                            
+                            
+                                h)
+                                
+                                    attuazione dei programmi di riqualificazione urbana: recupero del patrimonio edilizio e relative politiche di incentivazione, societa' di trasformazione urbana, Prusst;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    monitoraggio del fenomeno dell'abusivismo edilizio, anche sulla base dei dati forniti dai comuni;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    supporto agli enti locali e alle regioni nella individuazione e repressione dell'abusivismo edilizio;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    repressione delle violazioni urbanistiche e coordinamento dell'attivita' delle commissioni per l'uso della forza pubblica;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    raccolta delle segnalazioni dei soggetti pubblici e privati in ordine ai manufatti abusivi ed esercizio dei poteri sostitutivi in materia;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    promozione di accordi di programma quadro contro l'abusivismo su beni demaniali da stipularsi nell'ambito delle intese istituzionali di programma.
+
+5.
+                        
+                            
+                                La Direzione generale per la regolazione dei lavori pubblici svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    indirizzo e regolazione delle procedure di appalto di lavori pubblici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definizione delle normative tecniche di settore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rapporti con l'Autorita' di vigilanza e con l'Osservatorio dei lavori pubblici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    supporto all'attuazione della legge quadro in materia di lavori pubblici;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    predisposizione degli schemi contrattuali e dei capitolati;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gestione stralcio del soppresso Albo nazionale dei costruttori e della Commissione ministeriale per la revisione dei prezzi.
+
+6.
+                        
+                            
+                                L'ufficio generale del Dipartimento svolge funzioni di supporto al capo Dipartimento nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    approfondimento delle tematiche innovative di settore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rapporti con la Direzione generale per i sistemi informativi e statistici per l'attuazione delle strategie di informatizzazione del Dipartimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relazioni sindacali del Dipartimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di comunicazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altri compiti temporanei assegnati dal capo Dipartimento.
+(2)((3))
+
 --------------------
                             AGGIORNAMENTO (2)
                             Il D.P.R. 19 novembre 2007, n. 254, ha disposto (con l'art. 8, comma 1) che " Il decreto del Presidente della Repubblica 2 luglio 2004, n. 184, e' abrogato a decorrere dalla data di entrata in vigore dei provvedimenti di organizzazione dei Ministeri interessati al citato decreto n. 184 del 2004, come individuati ai sensi del decreto-legge n. 181 del 2006, adottati ai sensi dell'articolo 1, commi 404, e seguenti della legge 27 dicembre 2006, n. 296."
@@ -109,6 +864,236 @@ Con successivo decreto ministeriale di natura non regolamentare da adottarsi ai 
                             Il D.P.R. 8 dicembre 2007, n. 271, ha disposto (con l'art. 13, comma 1) che " Il decreto del Presidente della Repubblica 2 luglio 2004, n. 184, e' abrogato, ad eccezione dell'articolo 16, commi 4 e 6, a decorrere dalla data di entrata in vigore dei provvedimenti di organizzazione dei Ministeri interessati al citato decreto n. 184 del 2004, come individuati ai sensi del decreto-legge n. 181 del 2006, adottati ai sensi dell'articolo 1, commi 404, e seguenti della legge 27 dicembre 2006, n. 296".
 
 ## Art. 6. — Dipartimento per la navigazione ed il trasporto marittimo ed aereo
+
+1.
+                        
+                            
+                                Il Dipartimento per la navigazione ed il trasporto marittimo ed aereo e' cosi' articolato:
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione generale per la navigazione e il trasporto marittimo e interno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione generale per le infrastrutture della navigazione marittima;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Direzione generale per la navigazione aerea;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Ufficio generale del Dipartimento.
+
+2.
+                        
+                            
+                                La Direzione generale per la navigazione e il trasporto marittimo e interno svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    disciplina della navigazione marittima;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disciplina internazionale dei trasporti marittimi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sicurezza della navigazione in acque marittime e interne, disciplina in materia di sicurezza delle navi e delle strutture portuali, sinistri in acque marittime;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    servizi di trasporto sovvenzionato con le isole e sui laghi Maggiore, di Garda e di Como;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    formazione, aggiornamento e rapporto di lavoro del personale della navigazione marittima;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    proprieta' navale e regime amministrativo delle navi;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    interventi a sostegno della flotta e delle costruzioni navali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    disciplina della nautica da diporto e per finalita' private;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    vigilanza sugli enti di settore e sull'Istituto nazionale di architettura navale;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    predisposizione della normativa tecnica di settore.
+
+3.
+                        
+                            
+                                La Direzione generale per le infrastrutture della navigazione marittima e interna svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    infrastrutture portuali di rilievo nazionale ed internazionale, nonche' interventi di edilizia per le Capitanerie di porto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigilanza e regolazione delle attivita' e servizi portuali e del lavoro nei porti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutela del demanio marittimo e gestione del demanio marittimo non di competenza regionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sistema idroviario padano-veneto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigilanza sulle Autorita' portuali e sugli altri enti di settore;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    predisposizione della normativa tecnica di settore.
+
+4.
+                        
+                            
+                                La Direzione generale della navigazione aerea svolge le funzioni di competenza del Ministero negli ambiti che seguono, ferme restando le funzioni attribuite all'Ente nazionale aviazione civile dal decreto legislativo 25 luglio 1997, n. 250:
+ 
+                            
+                            
+                                a)
+                                
+                                    indirizzo, vigilanza e controllo in materia aeronautica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promozione di accordi comunitari ed internazionali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    programmazione ed elaborazione dei rapporti convenzionali da stipulare con gli enti vigilati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    valutazione dei piani di investimento nel settore aeroportuale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    monitoraggio e statistiche sull'attivita' di trasporto aereo.
+
+5.
+                        
+                            
+                                L'Ufficio generale del Dipartimento svolge funzioni di supporto al Capo Dipartimento nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    approfondimento delle tematiche innovative di settore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rapporti con la Direzione generale per i sistemi informativi e statistici per l'attuazione delle strategie di informatizzazione del Dipartimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relazioni sindacali del Dipartimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di comunicazione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    altri compiti temporanei assegnati dal Capo Dipartimento.
 
 Il Dipartimento per l'esercizio in sede decentrata delle funzioni di cui ai commi 2 e 3 si avvale del Corpo delle Capitanerie di porto.(2)((3))
 
@@ -121,6 +1106,295 @@ Il Dipartimento per l'esercizio in sede decentrata delle funzioni di cui ai comm
 
 ## Art. 7. — Dipartimento per i trasporti terrestri
 
+1.
+                        
+                            
+                                Il Dipartimento per i trasporti terrestri e' cosi' articolato:
+ 
+                            
+                            
+                                a)
+                                
+                                    Direzione generale per la motorizzazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Direzione generale per l'autotrasporto di persone e cose;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Direzione generale del trasporto ferroviario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Direzione generale dei sistemi di trasporto ad impianti fissi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Ufficio generale del Dipartimento.
+
+2.
+                        
+                            
+                                La Direzione generale per la motorizzazione svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    omologazione nazionale, CEE ed ECE/ONU di veicoli, dispositivi ed unita' tecnico indipendenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasporto merci pericolose su strada; normativa e omologazione e approvazione dei veicoli e dei recipienti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sicurezza del trasporto di merci pericolose;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    parco circolante e conducenti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    archivio nazionale veicoli e conducenti; Centro elaborazione dati motorizzazione;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    normativa di settore nazionale ed internazionale; armonizzazione e coordinamento con l'Unione europea;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    omologazione dei dispositivi di regolazione della circolazione e di controllo delle infrazioni e della segnaletica stradale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    prevenzione degli incidenti e sicurezza stradale, campagne informative ed educative, adozione del Piano nazionale della sicurezza stradale d'intesa con le Direzioni generali competenti ed informazioni sulla viabilita';
+
+                                
+                            
+                            
+                                i)
+                                
+                                    relazione al Parlamento sullo stato della sicurezza stradale;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    Centro di documentazione sui problemi della circolazione e sicurezza stradale.
+
+3.
+                        
+                            
+                                La Direzione generale per l'autotrasporto di persone e cose svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    trasporti nazionali ed internazionali di persone e cose;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interventi finanziari nel settore e a favore dell'intermodalita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    normativa di settore nazionale ed internazionale; armonizzazione e coordinamento con l'Unione europea;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    monitoraggio, controllo e statistiche sull'attivita' di trasporto di persone e cose;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    relazioni ed accordi internazionali anche al di fuori dello spazio economico comunitario nel settore del trasporto su strada;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    regolamentazione dei servizi di trasporto di persone e cose di competenza statale.
+
+4.
+                        
+                            
+                                La Direzione generale del trasporto ferroviario svolge le funzioni di competenza del Ministero nei seguenti ambiti di attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinamento e vigilanza sui concessionari di reti infrastrutturali e sui titolari di licenze di esercizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' di vigilanza sui progetti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    analisi economiche;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contratti di programma;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigilanza sulle linee ferroviarie;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    definizione di standards e norme di sicurezza;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    interoperabilita' ferroviaria.
+
+5.
+                        
+                            
+                                La Direzione generale dei sistemi di trasporto ad impianti fissi svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    sicurezza tecnica dei sistemi di trasporto ad impianti fissi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    normativa di settore nazionale ed internazionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    programmi di investimento per la realizzazione dei sistemi di trasporto ad impianti fissi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coordinamento e monitoraggio sulle funzioni delegate in materia di trasporto ferroviario locale e gestione dei servizi locali non trasferiti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    programmi di investimenti nel settore degli interporti e dei centri merci.
+
+6.
+                        
+                            
+                                L'Ufficio generale del Dipartimento svolge funzioni di supporto al Capo Dipartimento nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    approfondimento delle tematiche innovative di settore;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rapporti con la Direzione generale per i sistemi informativi e statistici per l'attuazione delle strategie di informatizzazione del Dipartimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relazioni sindacali del Dipartimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di comunicazione;
+                                
+                            
+                            
+                                e)
+                                
+                                    altri compiti temporanei assegnati dal Capo Dipartimento.(2)((3))
+
 --------------------
                             AGGIORNAMENTO (2)
                             Il D.P.R. 19 novembre 2007, n. 254, ha disposto (con l'art. 8, comma 1) che " Il decreto del Presidente della Repubblica 2 luglio 2004, n. 184, e' abrogato a decorrere dalla data di entrata in vigore dei provvedimenti di organizzazione dei Ministeri interessati al citato decreto n. 184 del 2004, come individuati ai sensi del decreto-legge n. 181 del 2006, adottati ai sensi dell'articolo 1, commi 404, e seguenti della legge 27 dicembre 2006, n. 296."
@@ -129,6 +1403,66 @@ Il Dipartimento per l'esercizio in sede decentrata delle funzioni di cui ai comm
                             Il D.P.R. 8 dicembre 2007, n. 271, ha disposto (con l'art. 13, comma 1) che " Il decreto del Presidente della Repubblica 2 luglio 2004, n. 184, e' abrogato, ad eccezione dell'articolo 16, commi 4 e 6, a decorrere dalla data di entrata in vigore dei provvedimenti di organizzazione dei Ministeri interessati al citato decreto n. 184 del 2004, come individuati ai sensi del decreto-legge n. 181 del 2006, adottati ai sensi dell'articolo 1, commi 404, e seguenti della legge 27 dicembre 2006, n. 296".
 
 ## Art. 8. — Comando generale del Corpo delle capitanerie di porto
+
+1.
+                        
+                            
+                                Il Comando generale del Corpo delle capitanerie di porto svolge le funzioni di competenza del Ministero nei seguenti ambiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    ricerca e soccorso in mare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione operativa, a livello centrale, del sistema di controllo del traffico marittimo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esercizio delle competenze tecniche in materia di sicurezza della navigazione marittima e indagini sulle cause e circostanze dei sinistri marittimi a navi da carico o da passeggeri;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rapporti con organismi nazionali ed internazionali per gli aspetti tecnici della sicurezza della navigazione marittima;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    coordinamento delle attivita', organizzazione e ispezioni relative ai servizi delle capitanerie di porto;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    impiego del personale delle capitanerie di porto;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    predisposizione della normativa tecnica di settore;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    vigilanza e controllo operativi in materia di sicurezza delle navi e delle strutture portuali nei confronti di minacce.
 
 Il Corpo delle capitanerie di porto continua a svolgere gli ulteriori compiti previsti dalla normativa vigente secondo le direttive dei Ministri competenti.(2)((3))
 
@@ -160,6 +1494,45 @@ A ciascun Settore e' preposto un dirigente di livello dirigenziale generale, nom
 
 Il Direttore del Settore infrastrutture del SIIT per il Veneto - Trentino-Alto Adige e Friuli Venezia-Giulia svolge le funzioni di Presidente del Magistrato alle Acque di Venezia in materia di salvaguardia di Venezia e della sua laguna con i relativi interventi, nonche' le residuali attivita' di competenza statale in materia di demanio idrico ed opere idrauliche.
 
+5.
+                        
+                            
+                                Fermo restando quanto disposto dal comma 2, al SIIT per il Lazio, l'Abruzzo e la Sardegna e' preposto un dirigente generale, nominato ai sensi dell'articolo 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165, denominato Direttore generale, con funzioni di direzione, coordinamento e controllo delle attivita' nell'ambito di detta struttura. In particolare, il Direttore generale:
+ 
+                            
+                            
+                                a)
+                                
+                                    alloca le risorse umane, finanziarie e strumentali disponibili per l'attuazione dei programmi secondo i principi di economicita', efficacia ed efficienza nonche' di rispondenza del servizio al pubblico interesse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta gli atti per l'utilizzazione ottimale del personale secondo criteri di efficienza disponendo gli opportuni trasferimenti di personale all'interno del SIIT;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    persegue gli obiettivi conferiti annualmente con la direttiva ministeriale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolge funzioni di coordinamento di bilancio in relazione alle risorse assegnate al SIIT e di controllo di gestione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promuove e mantiene le relazioni con gli Organi istituzionali, con le regioni, le province e gli enti locali, nonche' le relazioni sindacali.(2)((3))
+
 --------------------
                             AGGIORNAMENTO (2)
                             Il D.P.R. 19 novembre 2007, n. 254, ha disposto (con l'art. 8, comma 1) che " Il decreto del Presidente della Repubblica 2 luglio 2004, n. 184, e' abrogato a decorrere dalla data di entrata in vigore dei provvedimenti di organizzazione dei Ministeri interessati al citato decreto n. 184 del 2004, come individuati ai sensi del decreto-legge n. 181 del 2006, adottati ai sensi dell'articolo 1, commi 404, e seguenti della legge 27 dicembre 2006, n. 296."
@@ -170,6 +1543,219 @@ Il Direttore del Settore infrastrutture del SIIT per il Veneto - Trentino-Alto A
 ## Art. 10. — Competenze dei SIIT
 
 Ferme restando le competenze in materia infrastrutturale e trasportistica delle regioni, anche a statuto speciale, e delle province autonome di Trento e Bolzano, i SIIT assicurano, in sede decentrata, l'esercizio delle funzioni e dei compiti di spettanza statale nelle aree funzionali di cui all'articolo 42 del decreto legislativo 30 luglio 1999, n. 300, come modificato dal decreto legislativo 12 giugno 2003, n. 152. In particolare, i SIIT svolgono, anche su base convenzionale, le funzioni di carattere amministrativo, operativo, gestionale ed i connessi servizi sulle materie della progettazione e realizzazione di opere pubbliche, repressione dell'abusivismo edilizio, vigilanza sugli enti gestori, demanio marittimo statale, navigazione, trasporto terrestre, sicurezza dei trasporti ad impianti fissi, circolazione e sicurezza stradale, espletamento del servizio di polizia stradale nonche' altre attivita' tecnico-amministrative su base convenzionale.
+
+2.
+                        
+                            
+                                Fatto salvo quanto disposto dal decreto legislativo 31 marzo 1998, n. 112 e dai conseguenti provvedimenti di attuazione, il Settore infrastrutture svolge le funzioni di competenza del SIIT nei seguenti ambiti di attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    opere pubbliche di competenza del Ministero delle infrastrutture e trasporti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' di vigilanza sulle opere pubbliche finanziate anche in parte dal Ministero;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' di supporto, su base convenzionale nella programmazione, progettazione ed esecuzione di opere anche di competenza di Amministrazioni non statali, anche ad ordinamento autonomo, economico e non, nonche' di Enti ed organismi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compiti di supporto tecnico e logistico per la realizzazione delle infrastrutture di preminente interesse nazionale di cui alla legge 21 dicembre 2001, n. 443;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gestione e tutela del demanio marittimo statale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' di competenza statale di supporto alla repressione dell'abusivismo edilizio;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    supporto alla attivita' di vigilanza sull'Anas e sui gestori delle infrastrutture autostradali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    supporto alla attivita' di vigilanza sulle dighe ricadenti nel bacino territoriale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    supporto alla attivita' di gestione dei programmi di iniziativa comunitaria;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    attivita' di vigilanza per l'edilizia economica e popolare;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    rapporti istituzionali con le Regioni, le Province e gli enti locali;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    supporto alla gestione del contenzioso nelle materie di competenza;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    espletamento del servizio di polizia stradale di cui all'articolo 12 del decreto legislativo 30 aprile 1992, n. 285.
+
+3.
+                        
+                            
+                                Fatto salvo quanto disposto dal decreto legislativo 31 marzo 1998, n. 112 e dai conseguenti provvedimenti di attuazione, il Settore trasporti svolge le funzioni di competenza del SIIT nei seguenti ambiti di attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' in materia di omologazione dei veicoli a motore, loro rimorchi, componenti ed unita' tecniche indipendenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' in materia di collaudi e revisione dei veicoli in circolazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' in materia di conducenti: rilascio di patenti, certificati di abilitazione professionale, ecc.;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' in materia di sicurezza dei sistemi di trasporto ad impianto fisso di competenza statale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    compiti di supporto tecnico e amministrativo per la realizzazione dei sistemi di trasporto ad impianti fissi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' in materia di navigazione interna di competenza statale;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    attivita' in materia di immatricolazioni veicoli;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    circolazione e sicurezza stradale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    rapporti istituzionali con le regioni, le province e con gli enti locali;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    funzioni di certificazione di qualita', ispezione e controllo tecnico;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    gestione del contenzioso nelle materie di competenza;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    coordinamento dell'interoperabilita' dei sistemi di trasporto;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    espletamento del servizio di polizia stradale di cui
+all'articolo 12 del decreto legislativo 30 aprile 1992, n. 285;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    consulenza, assistenza, servizio, su base convenzionale, a pubbliche Amministrazioni ed enti pubblici anche ad ordinamento autonomo nelle materie di competenza;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    attivita' in materia di autotrasporto;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    attivita' di formazione, aggiornamento e ricerca.
+(2)((3))
 
 --------------------
                             AGGIORNAMENTO (2)
@@ -184,9 +1770,137 @@ L'organizzazione dei SIIT e' ispirata al criterio dell'efficiente dimensionament
 
 Con decreto ministeriale di natura non regolamentare, da adottarsi ai sensi dell'articolo 17, comma 4-bis, lettera e), della legge 23 agosto 1988, n. 400, entro tre mesi dalla data di entrata in vigore del presente regolamento, si provvede alla individuazione degli uffici dirigenziali di livello non generale in cui si articolano i settori organici dei SIIT ed alla definizione dei relativi compiti, prevedendo, per ciascun SIIT, l'istituzione di almeno due uffici con funzioni di natura amministrativa ed almeno quattro con funzioni di natura tecnica.
 
+3.
+                        
+                            
+                                Presso ciascun Settore infrastrutture del SIIT e' istituito il Comitato tecnico amministrativo, di seguito definito Comitato. Il Comitato e' costituito, per la durata di un triennio, con decreto ministeriale da adottarsi entro trenta giorni dalla data di entrata in vigore del presente regolamento ed e' cosi' composto:
+ 
+                            
+                            
+                                a)
+                                
+                                    Direttore del Settore infrastrutture del SIIT con funzioni di Presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Dirigenti degli Uffici di livello dirigenziale non generale del Settore infrastrutture;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un Avvocato dello Stato designato dalle Avvocature distrettuali rientranti nella competenza territoriale del SIIT;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante della Ragioneria provinciale dello Stato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante del Ministero dell'interno;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante del Ministero dell'economia e delle finanze;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un rappresentante del Ministero delle politiche agricole e
+forestali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante del Ministero della salute;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    un rappresentante del Ministero della giustizia;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    un rappresentante del Ministero per i beni e le attivita' culturali.
+
 Al Comitato di cui al comma 3 possono partecipare, in qualita' di esperti per la trattazione di speciali problemi, studiosi e tecnici anche non appartenenti alle Amministrazioni dello Stato. Nel SIIT per il Lazio, l'Abruzzo e la Sardegna il Comitato e' presieduto dal Direttore generale.
 
 Il decreto ministeriale di cui al comma 3 stabilisce modalita' uniformi di convocazione e deliberazione del Comitato, nonche' criteri di articolazione territoriale per assicurare il rispetto del principio di rappresentativita'. Lo stesso decreto prevede, altresi', la possibilita' di integrare la composizione del Comitato con ulteriori rappresentanti eventualmente necessari in ragione di specifiche esigenze dell'ambito territoriale interessato.
+
+6.
+                        
+                            
+                                Il Comitato e' competente a pronunciarsi:
+ 
+                            
+                            
+                                a)
+                                
+                                    sui progetti preliminari, definitivi ed esecutivi di opere attribuite alla competenza dei SIIT - Settore infrastrutture, da eseguire a cura dello Stato a totale suo carico, nonche' sui progetti definitivi da eseguire da enti pubblici o da privati, quando siano finanziati dallo Stato per almeno il 50 per cento e comunque per opere per le quali le disposizioni di legge richiedano il parere degli organi consultivi del Ministero, quando l'importo non ecceda i 25 milioni di euro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulle vertenze relative ai lavori attribuiti alla competenza dei SIIT per maggiori oneri o per esonero di penalita' contrattuali e per somme non eccedenti i 50.000 euro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sulle proposte di risoluzione o rescissione di contratti, nonche' sulle determinazioni di nuovi prezzi per opere di importi eccedenti i limiti di competenza del responsabile del procedimento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sulle perizie di manutenzione annuali e pluriennali di importo eccedenti i limiti di competenza del responsabile del procedimento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sulla concessione di proroghe superiori a trenta giorni dei termini contrattuali fissati per l'ultimazione dei lavori;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sugli affari di competenza degli organi locali dell'Amministrazione dello Stato e degli enti locali per le quali le disposizioni vigenti richiedano il parere del Comitato;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sugli affari per i quali il Direttore del Settore infrastrutture ritenga opportuno richiedere il parere del Comitato.
 
 Fino all'adozione del decreto di cui al comma 2, i Direttori dei Settori organici dei SIIT assicurano lo svolgimento delle attivita' di competenza.
 
@@ -240,6 +1954,24 @@ Ogni due anni l'organizzazione del Ministero e' sottoposta a verifica, ai sensi 
                             Il D.P.R. 8 dicembre 2007, n. 271, ha disposto (con l'art. 13, comma 1) che " Il decreto del Presidente della Repubblica 2 luglio 2004, n. 184, e' abrogato, ad eccezione dell'articolo 16, commi 4 e 6, a decorrere dalla data di entrata in vigore dei provvedimenti di organizzazione dei Ministeri interessati al citato decreto n. 184 del 2004, come individuati ai sensi del decreto-legge n. 181 del 2006, adottati ai sensi dell'articolo 1, commi 404, e seguenti della legge 27 dicembre 2006, n. 296".
 
 ## Art. 15. — Abrogazioni e modificazioni di norme
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente regolamento sono abrogati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto del Presidente della Repubblica 26 marzo 2001, n. 177;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Presidente della Repubblica 30 giugno 1955, n. 1534.
 
 Nel testo del decreto del Presidente della Repubblica 26 settembre 1985, n. 950, e nel relativo allegato la dizione: "Ministero dei trasporti e della navigazione" e' sostituita dalla seguente: "Ministero delle infrastrutture e dei trasporti" e la dizione: "Ministro dei trasporti e della navigazione" e' sostituita dalla seguente: "Ministro delle infrastrutture e dei trasporti".(2)((3))
 

@@ -7,8 +7,8 @@ urn: urn:nir:infrastrutture.ministero.mobilita.sostenibili:decreto:2022-07-26;14
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,10 +32,96 @@ Il presente regolamento disciplina le procedure per l'approvazione nazionale, ai
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «sistema di riqualificazione elettrica»: il sistema che consente di trasformare un veicolo delle categorie indicate all'articolo 1, con motore endotermico, in un veicolo con esclusiva trazione elettrica costituito almeno da: 
+ 1) un motopropulsore, con cui si intende una macchina elettrica e relativo convertitore di potenza montato a monte degli organi di trasmissione; 
+ 2) un pacco batterie, comprensivo di sistema di gestione elettrica e termica degli accumulatori e di sistema di sezionamento e protezione, che fornisce, in modo esclusivo, l'energia e la potenza di trazione; 
+ 3) un'interfaccia con la rete per la ricarica del pacco batterie; 
+ 4) eventuali ulteriori sottosistemi necessari al corretto funzionamento del veicolo trasformato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «pacco batterie»: un gruppo di accumulatori elettrochimici collegati tra loro o racchiusi, come un'unita' singola e a se' stante, in un involucro esterno non destinato ad essere lacerato o aperto dall'utilizzatore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «tipo di veicolo»: 
+ 1) nel caso di veicoli appartenenti alla categoria L, l'insieme dei veicoli come definiti dall'articolo 3, numero 73), del regolamento (UE) n. 168/2013 del Parlamento europeo e del Consiglio del 15 gennaio 2013; 
+ 2) nel caso di veicoli appartenenti alle categorie M1, M1G, M2, M2G, M3, M3G, N1 e N1G, l'insieme dei veicoli come definiti dall'articolo 3, numero 32), del regolamento (UE) 2018/858 del Parlamento europeo e del Consiglio del 30 maggio 2018; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «famiglia di veicoli»: 
+ 1) nel caso di veicoli appartenenti alla categoria L, sottoinsieme di versioni di varianti, quali definite all'articolo 3 del richiamato regolamento (UE) n. 168/2013, appartenenti allo stesso tipo di veicolo, che non differiscano per caratteristiche dimensionali e di prestazioni funzionalmente connesse con il sistema di riqualificazione elettrica; 
+ 2) nel caso di veicoli appartenenti alle categorie M1, M1G, M2, M2G, M3, M3G, N1 e N1G, sottoinsieme di versioni di varianti, quali definite all'articolo 3 del richiamato regolamento (UE) n. 2018/858, appartenenti allo stesso tipo di veicolo, che non differiscano per caratteristiche dimensionali e di prestazioni funzionalmente connesse con il sistema di riqualificazione elettrica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «campo d'impiego»: le famiglie di veicoli sulle quali il sistema di riqualificazione elettrica puo' essere installato, secondo i criteri tecnici indicati negli allegati D ed E al presente regolamento, che ne costituiscono parte integrante; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «servizio tecnico»: un Centro prova autoveicoli delle Direzioni generali territoriali e la Divisione 3 della Direzione generale per la motorizzazione e per i servizi ai cittadini e alle imprese in materia di trasporti e navigazione del Dipartimento per la mobilita' sostenibile, del Ministero delle infrastrutture e della mobilita' sostenibili; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «costruttore»: la persona fisica o giuridica, come definita dall'articolo 3, numero 47), del regolamento (UE) n. 168/2013, per i veicoli di categoria L, e dall'articolo 3, numero 40), del regolamento (UE) n. 2018/858, per i veicoli di categoria M1, M2, M3, M1G, M2G, M3G, N1 e N1G; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «installatore»: un'impresa esercente l'attivita' di autoriparazione, ai sensi dell'articolo 1 della legge 5 febbraio 1992, n. 122.
+
 ## Art. 3. — Caratteristiche generali del sistema di 
  riqualificazione elettrica richieste per l'omologazione
 
 Ciascun sistema di riqualificazione elettrica e' progettato, costruito e montato in modo che, in condizioni normali di impiego e malgrado le sollecitazioni cui puo' essere sottoposto, non siano alterate le originarie caratteristiche del veicolo in termini di prestazioni e sicurezza, nonche' in modo da resistere agli agenti di corrosione e di invecchiamento cui e' esposto.
+
+2.
+                    
+                        
+                            Non e' richiesto il nulla osta del costruttore del veicolo: 
+ 
+                        
+                        
+                            a)
+                            
+                                in caso di sostituzione o modifica del sistema di propulsione o del software per la gestione dei sistemi antibloccaggio, del controllo della trazione e della stabilita' del veicolo, con altri di caratteristiche diverse da quelli previsti dal costruttore del veicolo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le modifiche e le sostituzioni di tutti gli organi appartenenti alla catena cinematica che trasmette il moto tra l'albero motore e le ruote di trazione quali il cambio, il differenziale, i semiassi, se i valori di potenza massima e coppia massima sono compresi nell'intervallo chiuso di cui agli allegati D ed E, al presente regolamento, che ne costituiscono parte integrante.
 
 E' richiesto il nulla osta del costruttore del veicolo nel caso in cui il sistema di riqualificazione elettrica necessiti di sostituzioni o modifiche di parti del veicolo riguardanti uno degli elementi elencati all'articolo 236, comma 2, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, non ricompresi tra quelli previsti al comma 2.
 

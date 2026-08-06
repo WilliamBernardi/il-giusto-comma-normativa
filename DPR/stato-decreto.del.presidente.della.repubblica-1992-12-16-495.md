@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-03-11
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -75,6 +75,25 @@ Le altre definizioni stradali e di traffico di specifico rilievo tecnico di cui 
 Le definizioni di barriere architettoniche e di accessibilita' anche per persone con ridotta o impedita capacita' motoria o sensoriale sono quelle contenute nel decreto del Ministro dei lavori pubblici 14 giugno 1989, n. 236.
 
 ((
+
+3.
+                        
+                            
+                                La delimitazione del centro abitato, come definito all'articolo 3, comma 1, punto 8, del codice, e' finalizzata ad individuare l'ambito territoriale in cui, per le interrelazioni esistenti tra le strade e l'ambiente circostante, e' necessaria da parte dell'utente della strada, una particolare cautela nella guida, e sono imposte particolari norme di comportamento. La delimitazione del centro abitato individua pertanto i limiti territoriali di applicazione delle diverse discipline previste dal codice e dal presente regolamento all'interno ed all'esterno del centro abitato.
+La delimitazione del centro abitato individua altresi', lungo le strade statali, regionali e provinciali, che attraversano i centri medesimi, i tratti di strada che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i centri con popolazione non superiore a diecimila abitanti costituiscono "i tratti interni"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i centri con popolazione superiore a diecimila abitanti costituiscono "strade comunali", ed individua, pertanto, i limiti territoriali di competenza e di responsabilita' tra il comune e gli altri enti proprietari di strade.
 
 Nel caso in cui l'intervallo tra due contigui insediamenti abitativi, aventi ciascuno le caratteristiche di centro abitato, risulti, anche in relazione all'andamento planoaltimetrico della strada, insufficiente per un duplice cambiamento di comportamento da parte dell'utente della strada, si provvede alla delimitazione di un unico centro abitato, individuando ciascun insediamento abitativo con il segnale di localita'. Nel caso in cui i due insediamenti ricadano nell'ambito di comuni diversi si provvede a delimitazioni separate, anche se contigue, apponendo sulla stessa sezione stradale il segnale di fine del primo centro abitato e di inizio del successivo centro abitato.
 
@@ -230,11 +249,74 @@ Le domande per ottenere l'autorizzazione alla circolazione per i veicoli eccezio
 La domanda deve essere presentata almeno quindici giorni prima della data fissata per il viaggio o della data di decorrenza del periodo di autorizzazione richiesto. L'autorizzazione deve essere rilasciata entro quindici giorni dalla presentazione della domanda.
 Il divieto di autorizzazione o la necessita' di procrastinare il rilascio a date successive a quelle richieste nella domanda, deve essere espressamente motivato. I termini di rilascio e quelli di presentazione possono essere ridotti per ragioni di pubblico interesse dichiarate dalle competenti autorita', ovvero per esigenze di esportazione o trasferimento, o per documentati motivi d'urgenza; possono essere, altresi', ridotti, per veicoli gia' in possesso di autorizzazione, in caso di trasferimento presso officine di riparazione su percorsi diversi da quelli gia' autorizzati, ovvero in caso di soccorso o rimozione con i veicoli di cui all'articolo 12. La richiesta di riduzione dei termini deve essere motivata; se, su istanza, la domanda e' evasa nel termine massimo di tre giorni lavorativi, l'ente rilasciante ha facolta' di richiedere i diritti d'urgenza.
 
+3.
+                        
+                            
+                                Nelle domande relative alle autorizzazioni di tipo singolo o multiplo, possono essere indicati, con annotazione a parte, sia per il veicolo trainante che per quello trainato, ammettendo tutte le loro possibili combinazioni, anche incrociate, fino ad un massimo di cinque veicoli, costituenti riserva di quelli scelti per il trasporto, a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia documentata l'abbinabilita' di ciascuno dei complessi di veicoli eccezionali scelti per il trasporto, ai sensi dell'articolo 219, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di veicoli o trasporti eccezionali per massa, rimangano invariati i carichi massimi trasmessi a terra da ciascun asse, in relazione alle condizioni di carico autorizzate e gli interassi varino entro una tolleranza del 20% e che, comunque, si determini una differenza non superiore a 0,50 m; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la massa complessiva a pieno carico di ciascun veicolo o complesso di veicoli di riserva non sia superiore a quella del primo veicolo o complesso di veicoli.
+
 Nelle domande relative alle autorizzazioni di tipo periodico, deve essere indicato un unico veicolo trattore, mentre per i rimorchi ed i semirimorchi possono essere indicati fino ad un massimo di cinque veicoli di riserva, purche' di documentata abbinabilita', ai sensi dell'articolo 219, comma 3, e tali da rispettare in ogni combinazione tutti i limiti di massa ed i limiti dimensionali fissati dall'autorizzazione.
 
 Il veicolo o trasporto eccezionale con altezza superiore a 4,30 m, che debba attraversare passaggi a livello su linee ferroviarie elettrificate, deve ottenere anche l'autorizzazione del gestore della rete ferroviaria, cui deve essere inoltrata istanza. Detta autorizzazione contiene le prescrizioni a garanzia della continuita' del servizio ferroviario e della sicurezza dell'attraversamento.
 
 Fermo restando l'obbligo di verifica da parte dell'ente rilasciante l'autorizzazione, per i veicoli o i trasporti eccedenti in altezza i richiedenti devono, altresi', dichiarare di aver verificato che sull'intero percorso non esistono linee elettriche che determinano un franco inferiore a 0,40 m ed opere d'arte con franco inferiore a 0,20 m rispetto all'intradosso. Ove non sussistano tali condizioni, l'ente proprietario ha la facolta' di rilasciare l'autorizzazione, previa adozione di specifiche misure prescrittive e di controllo.
+
+7.
+                        
+                            
+                                Nella domanda di autorizzazione, oltre a tutti i dati necessari ad identificare il richiedente, il veicolo o complesso di veicoli e la dotazione dei mezzi tecnici di supporto eventualmente necessari per effettuare il trasporto, devono essere di norma indicati: 
+ A) per le autorizzazioni di tipo periodico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una descrizione del carico, compresa la natura del materiale in cui e' realizzato e la tipologia degli elementi che lo costituiscono, nonche' dell'eventuale imballaggio, per i trasporti eccezionali di cui all'articolo 13, comma 2, punto B); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo schema grafico longitudinale, trasversale e planimetrico, riportante: il veicolo o complesso di veicoli compresi quelli eventuali di riserva, con carico nella configurazione prevista di massimo ingombro; i limiti dimensionali massimi per i quali si richiede l'autorizzazione, rientranti comunque entro i limiti consentiti dall'ente proprietario o concessionario della strada; la massa totale e la distribuzione del carico sugli assi a pieno carico nella configurazione di massimo ingombro prevista nonche' i limiti di massa complessiva e per asse ammissibili ai sensi dell'articolo 62 del codice; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i percorsi o gli elenchi di strade interessate al transito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il periodo di tempo per il quale si richiede l'autorizzazione; 
+ B) per le autorizzazioni di tipo multiplo o singolo: 
+ a) una precisa descrizione del carico e del suo eventuale imballaggio; 
+ b) lo schema grafico longitudinale, trasversale e planimetrico riportante: la configurazione del veicolo o complesso di veicoli, compresi quelli eventuali di riserva, con il suo carico; il limite superiore delle dimensioni, della massa totale e la distribuzione del carico sugli assi sia a vuoto che a pieno carico nella configurazione corrispondente al limite superiore di dimensioni e di massa. Qualora ci sia eccedenza rispetto a quanto previsto dall'articolo 62 del codice, devono essere indicati la pressione di gonfiaggio dei pneumatici e il baricentro del carico complessivo, allegando dichiarazione sostitutiva di atto di notorieta', sottoscritta dal committente ai sensi delle vigenti norme in materia, attestante la massa del carico; 
+ c) il percorso interessato al transito; 
+ d) la data del viaggio o dei viaggi con cui si realizza il trasporto o il periodo di tempo nel quale si effettuano il viaggio o i viaggi.
 
 La domanda di autorizzazione deve essere corredata da copia del documento di circolazione o del documento sostitutivo rilasciato dalla Direzione generale per la motorizzazione, dal quale risultino le dimensioni e le masse massime riconosciute ammissibili e, nel caso di complessi, l'abbinabilita' della motrice con il rimorchio o semirimorchio ove prevista. Qualora non risultino dai documenti citati i carichi massimi per asse, questi devono essere certificati da un documento della casa costruttrice o della Direzione generale per la motorizzazione. Deve, inoltre, essere presentata la ricevuta attestante il pagamento, ove previsto, dell'indennizzo di cui all'articolo 18 e delle spese di cui all'articolo 19, ad eccezione delle voci di spesa che possono essere contabilizzate ed addebitate soltanto a consuntivo. Tale ricevuta deve essere consegnata, in originale o in copia, secondo i casi, all'ente rilasciante prima del ritiro dell'autorizzazione, salvo che l'ente stesso non acquisisca altrimenti l'informazione dell'avvenuto pagamento, purche' tale modalita' sia uniforme per tutta la rete viaria dell'ente rilasciante ovvero degli enti consorziati o operanti in regime di convenzione ai sensi del comma 1. Alla domanda di autorizzazione devono, altresi', essere allegati: copia dell'autorizzazione di cui al comma 5, ove prevista; la dichiarazione sulla verifica delle linee elettriche di cui al comma 6, ove prevista; la dichiarazione di cui all'articolo 13, comma 6, ove prevista; una dichiarazione sulla percorribilita', da parte del veicolo o complesso, dei percorsi o elenchi di strade richiesti, a firma del titolare o legale rappresentante della ditta, con particolare riferimento all'inscrivibilita' in curva, in caso di eccedenza rispetto a quanto previsto dall'articolo 61 del codice. E' ammessa la facolta' di formulare le dichiarazioni previste in calce alla domanda di autorizzazione.
 
@@ -257,6 +339,38 @@ La copia del documento di circolazione o del documento sostitutivo di cui ai com
 
 Le autorizzazioni in scadenza o scadute sono rinnovabili su domanda, per non piu' di tre volte, per un periodo di validita' complessiva dell'autorizzazione non superiore a tre anni, quando tutti i dati, riferiti sia al veicolo o complesso di veicoli che al suo carico, e il percorso stradale sono rimasti invariati.
 
+2.
+                        
+                            
+                                La domanda per il rinnovo delle autorizzazioni, da presentarsi in carta semplice entro i trenta giorni antecedenti o successivi alla scadenza, deve essere sottoscritta da uno dei soggetti di cui all'articolo 14, commi 10 e 11, e corredata da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    estremi identificativi del provvedimento di autorizzazione rilasciato e da rinnovare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione sottoscritta, nelle forme di legge, dal legale rappresentante della ditta che esegue il trasporto, attestante il permanere di tutti i requisiti che hanno determinato il rilascio dell'autorizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricevuta, in originale o in copia secondo i casi, salvo che non sia altrimenti acquisita dall'ente stesso, attestante il pagamento dell'indennizzo di cui all'articolo 18, ove previsto, e delle spese di cui all'articolo 19, aggiornati all'anno in cui avviene il rinnovo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    copia del documento di circolazione o del documento sostitutivo, presentata con le modalita' previste all'articolo 14, comma 13.
+
 Le autorizzazioni di tipo singolo o multiplo, non ancora scadute, possono a domanda dell'interessato essere prorogate una sola volta per un periodo di validita' non superiore a quello originariamente concesso. La domanda di proroga, da presentarsi in carta semplice prima della scadenza, e da evadere entro sette giorni lavorativi dalla presentazione, deve essere corredata da una dichiarazione attestante la necessita' della proroga, dalla dichiarazione sottoscritta dal legale rappresentante che il trasporto o i trasporti per i quali si chiede la proroga non sono stati effettuati e dalla dichiarazione del permanere di tutti i requisiti che hanno determinato il rilascio della autorizzazione stessa.
 
 All'atto del rinnovo o della proroga dell'autorizzazione l'ente proprietario o concessionario delle strade ha facolta' di integrare o modificare le prescrizioni contenute nell'autorizzazione originaria.
@@ -276,7 +390,104 @@ Nel provvedimento di autorizzazione sono stabilite le prescrizioni ritenute oppo
 
 Sulle strade, anche temporaneamente ad una corsia per senso di marcia, nel caso di trasporto o veicolo eccezionale avente larghezza superiore a quella della corsia, nonche' sui tratti di strada in curva, ove il trasporto con il suo ingombro superi la larghezza della corsia, deve essere prescritta la circolazione a senso unico alternato per brevi tratti di strada regolamentata con specifiche segnalazioni, con il pilotaggio del traffico ovvero con altri interventi di regolazione del traffico da effettuarsi a cura dei soggetti di cui all'articolo 12, commi 1 o 3-bis, del codice.
 
+3.
+                        
+                            
+                                La scorta e' prescritta, qualora si verifichi anche una sola delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la larghezza della corsia sia inferiore a 3,50 m per i veicoli o i trasporti che sono eccezionali anche in larghezza ed a 3,00 m per i veicoli o i trasporti che non sono eccezionali in larghezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la fascia di ingombro del veicolo o del trasporto eccezionale sia superiore alla larghezza della corsia di marcia, decurtata di 20 cm in relazione all'andamento planimetrico del percorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il veicolo o trasporto eccezionale abbia larghezza superiore a 3 m o a 3,20 m, nel caso di veicoli classificati o utilizzati come sgombraneve o in caso di trasporto di carri ferroviari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il veicolo o trasporto eccezionale abbia lunghezza superiore a 25 m; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la velocita' consentita sia inferiore a 40 km/h sulle strade di tipo A e B, a 30 km/h sulle altre strade; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il carico presenti una sporgenza posteriore superiore ai 4/10 della lunghezza del veicolo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il carico presenti una sporgenza anteriore superiore a 2,50 m rispetto al limite anteriore del veicolo. Per i veicoli ed i trasporti eccezionali che rispettano tutti i limiti dell'articolo 61 del codice, le condizioni di cui sopra si intendono soddisfatte, fatta salva la verifica della condizione di cui alla lettera e).
+
 ((
+
+4.
+                        
+                            
+                                Ferme restando le condizioni di cui al comma 3 e le facolta' di cui all'articolo 13, commi 5 e 7, se nel provvedimento di autorizzazione e' prescritta la scorta tecnica a cura del personale abilitato di cui all'articolo 12, comma 3-bis, del codice, il capo-scorta dovra' attenersi alle indicazioni del disciplinare di cui al comma 6, e alle eventuali indicazioni fornite, ai sensi del comma 5, dagli organi di polizia stradale di cui all'articolo 12, comma 1, del codice. Prima dell'inizio del viaggio il capo-scorta deve darne comunicazione agli organi di polizia stradale competenti per territorio di cui all'articolo 12, comma 1, del codice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con preavviso di ventiquattro ore, quando il viaggio deve essere effettuato sulle strade o tratti di strade di tipo A e B, ai sensi dell'articolo 2, comma 2, del codice, e sulle altre strade extraurbane con almeno due corsie per senso di marcia, per veicoli o trasporti eccezionali di larghezza superiore a 4,5 m o di lunghezza superiore a 38 m; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con preavviso di tre giorni, quando il viaggio deve essere effettuato sulle altre strade o tratti di strade diverse da quelle indicate alla lettera a) per i veicoli o trasporti eccezionali di larghezza superiore a 4 m o lunghezza superiore a 35 m, ai fini dell'eventuale intervento, prima della partenza, di una pattuglia di Polizia stradale, per il controllo tecnico documentale sul trasporto da eseguire; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con preavviso di cinque giorni, quando e' necessaria l'adozione di provvedimenti di chiusura completa al transito della strada con deviazione del traffico su itinerari alternativi, ai sensi dell'articolo 10, comma 9, del codice, ovvero la chiusura del tratto stradale interessato ha durata prevedibile superiore ad un'ora. 
+ La comunicazione, che deve essere fornita con le modalita' indicate con direttive del Ministero dell'interno, deve precisare la data e l'ora d'inizio del viaggio e le generalita' del capo-scorta designato.
+
+5.
+                        
+                            
+                                Gli organi di polizia stradale competenti per territorio di cui all'articolo 12, comma 1, del codice, secondo le direttive fornite dal Ministero dell'interno, e conformemente alle disposizioni del disciplinare tecnico di cui al comma 6, possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei casi indicati dal comma 4, lettere a) e b), se le circostanze lo richiedono, imporre all'impresa autorizzata o ai soggetti di cui al comma 6-bis, che effettuano la scorta tecnica, ulteriori modalita' operative ovvero fornire indicazioni sul numero di ulteriori veicoli o persone abilitate di scorta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso indicato dal comma 4, lettera c), se le circostanze lo consentono, autorizzare il personale della scorta tecnica a coadiuvare il personale di polizia o ad eseguire direttamente, in luogo di esso, le necessarie operazioni.
 
 La scorta tecnica puo' essere svolta direttamente da una delle imprese interessate al trasporto con autoveicoli di cui abbia la disponibilita' o puo' essere affidata a imprese specializzate. In entrambi i casi le imprese devono essere munite di autorizzazione allo svolgimento del servizio di scorta tecnica e le persone incaricate della scorta tecnica devono essere munite di apposita abilitazione. Con disciplinare tecnico approvato con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno, da pubblicare nella Gazzetta Ufficiale della Repubblica, sono stabiliti i requisiti e le modalita' per l'autorizzazione delle imprese allo svolgimento del servizio di scorta tecnica e per l'abilitazione delle persone atte ad eseguire la scorta tecnica. Con lo stesso disciplinare tecnico sono stabiliti i dispositivi supplementari di cui devono essere dotati gli autoveicoli adibiti al servizio di scorta tecnica, le modalita' di svolgimento della stessa, nonche' le eventuali ulteriori comunicazioni.
 L'autorizzazione allo svolgimento del servizio di scorta tecnica da parte dell'impresa e l'abilitazione del personale incaricato sono rilasciati da parte del Ministero dell' interno.
@@ -453,7 +664,68 @@ Per la massa superiore a 70 t, gli importi aumentano di euro 25,31 per ogni t in
 
 ((
 
+1.
+                        
+                            
+                                Le distanze dal confine stradale all'interno dei centri abitati, da rispettare nelle nuove costruzioni, nelle demolizioni integrali e conseguenti ricostruzioni o negli ampliamenti fronteggianti le strade, non possono essere inferiori a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    30 m per le strade di tipo A; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    20 m per le strade di tipo D.
+
 Per le strade di tipo E ed F, nei casi di cui al comma 1, non sono stabilite distanze minime dal confine stradale ai fini della sicurezza della circolazione.
+
+3.
+                        
+                            
+                                In assenza di strumento urbanistico vigente, le distanze dal confine stradale da rispettare nei centri abitati non possono essere inferiori a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    30 m per le strade di tipo A; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    20 m per le strade di tipo D ed E; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    10 m per le strade di tipo F.
+
+4.
+                        
+                            
+                                Le distanze dal confine stradale, all'interno dei centri abitati, da rispettare nella costruzione o ricostruzione dei muri di cinta, di qualsiasi natura o consistenza, lateralmente alle strade, non possono essere inferiori a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    m 3 per le strade di tipo A; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    m 2 per le strade di tipo D.
 
 Per le altre strade, nei casi di cui al comma 4, non sono stabilite, distanze minime dal confine stradale ai fini della sicurezza della circolazione.
 
@@ -1919,6 +2191,45 @@ II.377) indica un'area attrezzata riservata alla sosta e al parcheggio delle aut
 
 Le strisce longitudinali servono per separare i sensi di marcia o le corsie di marcia, per delimitare la carreggiata ovvero per incanalare i veicoli verso determinate direzioni; la larghezza minima della strisce longitudinali, escluse quelle di margine, e' di 15 cm per le autostrade e per le strade extraurbane principali, di 12 cm ((per le strade extraurbane secondarie, urbane di scorrimento ed urbane di quartiere e 10 cm per le strade locali)).
 
+2.
+                        
+                            
+                                Le strisce longitudinali si suddividono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    strisce di separazione dei sensi di marcia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    strisce di corsia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    strisce di margine della carreggiata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    strisce di raccordo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    strisce di guida sulle intersezioni.
+
 Le strisce longitudinali possono essere continue o discontinue (fig. II.415); le lunghezze dei tratti e degli intervalli delle strisce discontinue, nei rettilinei, sono stabilite nella seguente tabella: 
  
 
@@ -3155,6 +3466,41 @@ Le imprese devono essere altresi' permanentemente dotate delle attrezzature e st
 
 ))
 
+4.
+                        
+                            
+                                La concessione di cui all'art. 80, comma 8, del codice, puo' altresi' essere rilasciata ai consorzi e alle societa' consortili, anche in forma di cooperativa, di seguito denominati consorzi, appositamente costituiti tra imprese di autoriparazione: A tale scopo, ciascuna impresa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    deve avere la propria officina nel territorio del comune in cui hanno sede le altre imprese con cui forma il raggruppamento di cui alla successiva lettera b). Detta officina puo' essere situata in comune diverso, anche se di diversa provincia, da quello, o da quelli, in cui hanno sede le altre imprese costituenti il raggruppamento purche' tutti detti comuni siano tra loro limitrofi ed almeno uno sia compreso nell'ambito della provincia per cui il consorzio ha ottenuto la concessione. Qualora si avvalgano di un unico centro attrezzato per le revisioni, questo deve essere situato in uno dei comuni predetti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    deve essere iscritta nel registro o nell'albo di cui all'articolo 10 del decreto del Presidente della Repubblica 14 dicembre 1999, n. 558, ed esercitare effettivamente almeno una delle attivita' previste dall'articolo 1, comma 3, della legge 5 febbraio 1992, n. 122. Qualora eserciti piu' di una delle predette attivita', puo' partecipare a raggruppamenti individuati nell'ambito di un consorzio esclusivamente per il numero di attivita' effettivamente svolte strettamente necessario a garantire a ciascun raggruppamento la copertura di tutte le attivita' previste dall'articolo 1, comma 3, della citata legge n. 122 del 1992, senza cioe' determinare duplicazioni di competenze tra le imprese di autoriparazione partecipanti al raggruppamento stesso;
+                                
+                            
+                            
+                                c)
+                                
+                                    puo' partecipare ad altri consorzi solo se titolare di piu' officine autorizzate. Ciascuna officina puo' fare parte di un solo consorzio. Le sedi operative delle imprese di cui ai commi 1 e 2 non possono partecipare, neanche limitatamente ad alcune sezioni, a consorzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    deve avere una o piu' officine ubicate in locali aventi le caratteristiche seguenti: 
+ d.1) superficie non inferiore ad 80 m2; 
+ d.2) larghezza, lato ingresso, non inferiore a 4 m; 
+ d.3) ingresso avente larghezza ed altezza rispettivamente non inferiori a 2,50 m e 3,50 m; 
+ ((...))
+
 ((
 
 Le imprese, anche se aderenti a consorzi, titolari di concessione concernente esclusivamente il servizio di revisione dei motocicli e dei ciclomotori a due ruote, oltre a possedere le prescritte autorizzazioni amministrative, devono avere la disponibilita' di un locale adibito ad officina con superficie non inferiore a 80 metri quadrati, larghezza non inferiore a 4 metri, ingresso con larghezza ed altezza non inferiori, rispettivamente, a 2 e 2,5 metri. Esse devono altresi' essere permanentemente dotate delle attrezzature e strumentazioni indicate al comma 1-ter dell'appendice X al presente titolo.
@@ -3247,6 +3593,45 @@ Il Ministero dei trasporti e della navigazione - Direzione generale della M.C.T.
 ((
 
 In caso di variazione della denominazione dell'ente intestatario della carta di circolazione relativa a veicoli, motoveicoli e rimorchi, anche derivante da atti di trasformazione o di fusione societaria, che non danno luogo alla creazione di un nuovo soggetto giuridico distinto da quello originario e non necessitano, in forza della disciplina vigente in materia, di annotazione nel pubblico registro automobilistico, gli interessati chiedono al competente ufficio del Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici l'aggiornamento della carta di circolazione. Le medesime disposizioni si applicano nel caso di variazione delle generalita' della persona fisica intestataria della carta di circolazione.
+
+2.
+                        
+                            
+                                Gli uffici di cui al comma 1, procedono, a richiesta degli interessati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'aggiornamento della carta di circolazione, intestata ad altro soggetto, relativa agli autoveicoli, ai motoveicoli ed ai rimorchi dei quali gli interessati hanno la temporanea disponibilita', per periodi superiori a trenta giorni, a titolo di comodato ovvero in forza di un provvedimento di affidamento in custodia giudiziale; sulla carta di circolazione e' annotato il nominativo del comodatario e la scadenza del relativo contratto, ovvero il nominativo dell'affidatario; nel caso di comodato, sono esentati dall'obbligo di aggiornamento della carta di circolazione i componenti del nucleo familiare, purche' conviventi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'aggiornamento dell'archivio nazionale dei veicoli, di cui agli articoli 225, comma 1, lettera b), e 226, comma 5, del decreto legislativo 30 aprile 1992, n. 285, rilasciando apposita ricevuta, nel caso di locazione senza conducente di autoveicoli, motoveicoli e rimorchi per periodi superiori ai trenta giorni; nel predetto archivio e' annotato il nominativo del locatario e la scadenza del relativo contratto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla nuova immatricolazione di autoveicoli e motoveicoli destinati esclusivamente ai servizi di polizia stradale, assegnando la speciale targa di cui all'articolo 246, comma 2, in dotazione dei Corpi di polizia provinciale e municipale a titolo di locazione senza conducente per periodi superiori ai trenta giorni; sulla carta di circolazione, intestata a nome del locatore, e' annotato il Corpo di polizia provinciale o municipale locatario e la durata del relativo contratto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'aggiornamento della carta di circolazione di autoveicoli, motoveicoli e rimorchi immatricolati a nome di soggetti incapaci, mediante annotazione dei dati anagrafici del genitore o del tutore responsabile della circolazione del veicolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al di fuori dei casi precedenti, all'aggiornamento della carta di circolazione di autoveicoli, motoveicoli e rimorchi, che siano in disponibilita' di soggetto diverso dall'intestatario per periodi superiori ai trenta giorni, in forza di contratti o atti unilaterali che, in conformita' alle norme dell'ordinamento civilistico, comunque determinino tale disponibilita'.
 
 ))
 
@@ -3477,6 +3862,39 @@ L'angolo tra due zone di mascheramento non deve risultare inferiore a 20°. Piu'
 ## Art. 268. — (( (Art. 104 Codice della strada) ))
 
 ((
+
+1.
+                        
+                            
+                                La domanda per ottenere l'autorizzazione di cui all'articolo 104, comma 8, del codice, per la circolazione di macchine agricole eccezionali, deve essere presentata all'ente competente per la localita' di inizio del viaggio dai soggetti di cui all'articolo 110, comma 2, del codice e deve essere corredata da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    copia della carta di circolazione ovvero del certificato di idoneita' tecnica del veicolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicazione dei comuni nel cui ambito territoriale avviene la circolazione del veicolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rappresentazione della macchina nella sua massima configurazione dimensionale e ponderale, nel rispetto dei limiti imposti dai documenti di circolazione e dagli enti proprietari delle strade interessate al transito, in caso di eccezionalita' dovuta al montaggio di attrezzi portati o semiportati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione sulla percorribilita' delle strade entro gli ambiti territoriali richiesti, con particolare riferimento all'inscrivibilita' in curva, nel caso di sagome eccedenti quelle previste dall'articolo 61 del codice. 
+ La domanda deve essere sottoscritta, ai sensi delle vigenti norme in materia di dichiarazioni sostitutive di atto di notorieta', dal proprietario del veicolo o dal legale rappresentante dell'impresa agricola per conto della quale il veicolo e' utilizzato; per le modalita' di presentazione si seguono le disposizioni dell'articolo 14, commi 1 e 13, in quanto applicabili. Le regioni possono delegare alle province le competenze relative alla autorizzazione alla circolazione, di cui all'articolo 104, comma 8, del codice. In tal caso ciascuna provincia ha competenza a rilasciare l'autorizzazione sull'intero itinerario per il quale e' richiesta, previo nulla osta degli altri enti interessati. La durata massima dell'autorizzazione non puo' essere superiore a due anni, la minima non puo' essere inferiore a quattro mesi.
 
 L'ente competente, entro dieci giorni dalla data di presentazione della domanda, rilascia l'autorizzazione al transito, prescrivendone condizioni e cautele. Qualora per il rilascio dell'autorizzazione debba essere acquisito il nulla osta da parte di altri enti, gli stessi rispondono entro dieci giorni dalla richiesta del medesimo. Il tempo che intercorre tra tale richiesta ed il rilascio del nulla osta, costituisce interruzione del termine previsto per l'ente presso il quale e' stata presentata la domanda di autorizzazione. I termini di rilascio dell'autorizzazione e del nulla osta possono essere ridotti per ragioni di pubblico interesse dichiarate dalle competenti autorita', ovvero per esigenze di esportazione o trasferimento; possono essere, altresi', ridotti, per veicoli gia' in possesso di autorizzazione, in caso di trasferimento presso officine di riparazione su itinerari diversi da quelli gia' autorizzati.
 

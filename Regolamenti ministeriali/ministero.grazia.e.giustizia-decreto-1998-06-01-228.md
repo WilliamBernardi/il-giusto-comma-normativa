@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2000-10-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -105,6 +105,45 @@ La graduatoria e' resa pubblica mediante la procedura di cui all'articolo 13 del
 ## Art. 7. — Sistema informatico
 
 Il sistema informatico per lo svolgimento della prova preliminare comprende il software applicativo specifico per la gestione della prova preliminare, l'archivio dei quesiti, le risposte con il punteggio relativo al grado di difficolta', il numero identificativo di ciascun candidato e quant'altro occorre per il corretto funzionamento della prova preliminare.
+
+2.
+                        
+                            
+                                Il software applicativo deve, in particolare, consentire lo svolgimento delle seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la miscelazione delle domande con relative risposte da assegnare a ciascun candidato, secondo i criteri di cui all'articolo 5, comma 6, rispettando le condizioni di parita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la automatica assegnazione delle domande e gli algoritmi di calcolo dei punteggi delle risposte;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la distribuzione in rete dei singoli questionari;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la stampa del promemoria delle domande e delle risposte da consegnare al candidato;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le stampe di servizio per la gestione della prova.
 
 Con decreto del Ministro di grazia e giustizia sono stabilite le modalita' tecniche per il concreto svolgimento della prova preliminare di cui all'articolo 4 e delle stesse viene fatta menzione nel bando di concorso pubblicato nella Gazzetta Ufficiale della Repubblica. Al bando di concorso, oltre allo schema di domanda di partecipazione, e' allegata una scheda esplicativa in ordine allo svolgimento della prova relativamente alla presentazione dei quesiti ed alla indicazione delle risposte scelte dal candidato.
 

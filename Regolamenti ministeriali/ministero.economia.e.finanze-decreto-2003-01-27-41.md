@@ -8,8 +8,8 @@ codice_redazionale: 003G0058
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,24 @@ Considerata la previsione di tempi lunghi per la chiusura dei giudizi in corso e
 Considerata inoltre l'opportunita' di modificare il regolamento n. 238/1998 al fine di prevedere una differente periodicita' dell'aggiornamento sia del piano triennale per la copertura finanziaria della gestione speciale sia del piano triennale, ad esso correlato, per i versamenti delle risorse finanziarie previste dal comma 3 dell'articolo 4 del decreto ministeriale n. 238/1998 in quanto la periodicita' annuale appare meglio rispondente alle attuali caratteristiche operative del fondo;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            All'articolo 4 del regolamento n. 238/1998 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, la parola "semestrale" e' sostituita dalla parola "annuale";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, la parola "semestralmente" e' sostituita dalla parola "annualmente".
 
 ## Art. 2.
 

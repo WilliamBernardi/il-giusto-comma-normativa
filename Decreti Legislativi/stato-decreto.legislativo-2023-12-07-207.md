@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2023-12-07;207
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,7 +32,78 @@ Il Comitato adotta le sue regole di funzionamento. Le decisioni e i verbali del 
 
 Il Comitato delibera con il voto favorevole della maggioranza dei partecipanti.
 
+4.
+                    
+                        
+                            Il Comitato: 
+ 
+                        
+                        
+                            a)
+                            
+                                identifica, analizza, classifica, sorveglia e valuta i rischi per la stabilita' del sistema finanziario nel suo complesso; condivide con le autorita' i dati e le informazioni necessari all'esercizio delle loro funzioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce indicatori per il monitoraggio del rischio sistemico e per l'uso degli strumenti macroprudenziali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce e persegue strategie e obiettivi intermedi rispetto alle finalita' di cui al comma 1 e li rivede periodicamente in considerazione dei rischi per la stabilita' finanziaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                puo' effettuare, in materia di rischio sistemico, segnalazioni da rendere pubbliche, o da comunicare in via riservata al Governo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                puo' indirizzare raccomandazioni alla Banca d'Italia, alla CONSOB, all'IVASS e alla COVIP, che sono tenute a motivare l'eventuale mancata attuazione delle raccomandazioni stesse; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                puo' formulare segnalazioni al Parlamento, al Governo, ad altre autorita', enti pubblici e organismi dello Stato aventi a oggetto l'opportunita' di adottare misure, anche normative, nonche' esprimere pareri, ove richiesto o di propria iniziativa, sugli schemi di atti normativi rilevanti per i suoi obiettivi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                puo' elaborare metodologie e procedure per identificare le istituzioni e le strutture finanziarie aventi rilevanza sistemica e puo' provvedere alla loro identificazione, fatti salvi i poteri in materia attribuiti a singole autorita' partecipanti al Comitato dalle rispettive normative di settore.
+
 Nell'esercizio delle funzioni di cui al comma 4, lettera a), il Comitato ha il potere di richiedere tutti i dati e le informazioni necessari a soggetti privati e pubblici che svolgono, singolarmente o in aggregato, attivita' economiche rilevanti ai fini della stabilita' finanziaria. Il Comitato acquisisce le informazioni di cui al primo periodo nei confronti dei soggetti vigilati da Banca d'Italia, CONSOB, IVASS e COVIP avvalendosi di tali autorita'. Quando il Comitato intende acquisire informazioni nei confronti di soggetti non vigilati ne fa richiesta motivata alla Banca d'Italia che dispone procedersi alla loro acquisizione.
+
+6.
+                    
+                        
+                            Salve le sanzioni penali quando il fatto costituisce reato, in caso di inottemperanza all'obbligo di fornire le informazioni richieste ai sensi del comma 5, si applicano le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai soggetti sottoposti alla vigilanza della Banca d'Italia, della CONSOB, dell'IVASS e della COVIP, che non ottemperano all'obbligo di fornire le informazioni richieste ai sensi del comma 5, secondo periodo, e in conformita' delle rispettive legislazioni di settore, si applicano le sanzioni amministrative pecuniarie previste, rispettivamente, dall'articolo 144, comma 1, del Testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1° settembre 1993, n. 385, dall'articolo 190, comma 1, del Testo unico delle disposizioni in materia di intermediazione finanziaria di cui al decreto legislativo 24 febbraio 1998, n. 58, dall'articolo 310, comma 1, del Codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209, dall'articolo 19-quater, comma 2, lettera a), del decreto legislativo 5 dicembre 2005, n. 252, recante disciplina delle forme pensionistiche complementari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai soggetti non sottoposti a vigilanza che non ottemperano all'obbligo di fornire le informazioni richieste ai sensi del comma 5, terzo periodo, la Banca d'Italia applica una sanzione amministrativa pecuniaria da euro 5.000 a euro 5 milioni. Alle violazioni delle richieste di informazioni della Banca d'Italia si applicano gli articoli 144-quater e 145 del decreto legislativo n. 385 del 1993 e l'articolo 145-quater del medesimo decreto, in conformita' alle disposizioni di attuazione adottate dalla Banca d'Italia.
 
 Il Comitato coopera con il Comitato europeo per il rischio sistemico, con la Banca centrale europea nell'esercizio dei suoi compiti macroprudenziali e con le autorita' macroprudenziali di altri Stati membri dell'Unione europea, anche mediante lo scambio di informazioni, al fine di agevolare le rispettive funzioni.
 
@@ -42,8 +113,100 @@ Il Comitato presenta annualmente al Governo e alle Camere, entro il 31 marzo del
 
 ## Art. 2. — Modifiche al decreto legislativo 7 settembre 2005, n. 209
 
+1.
+                    
+                        
+                            All'articolo 188 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 3-bis, e' sostituito dal seguente: «3-bis. L'IVASS, nell'esercizio delle funzioni indicate al comma 1, ove la situazione lo richieda, anche a seguito del processo di controllo prudenziale di cui all'articolo 47-quinquies, adotta misure preventive o correttive nei confronti delle singole imprese di assicurazione o riassicurazione, ivi inclusi i provvedimenti specifici riguardanti: 
+ a) la restrizione dell'attivita', ivi incluso il potere di vietare l'ulteriore commercializzazione dei prodotti assicurativi; 
+ b) il divieto di effettuare determinate operazioni anche di natura societaria o l'imposizione, per un periodo non superiore a tre mesi prorogabile al massimo per ulteriori tre mesi, di limitazioni, restrizioni o differimenti relativi ai diritti di riscatto esercitabili dai contraenti; 
+ c) il divieto di distribuzione di utili o di altri elementi del patrimonio, nonche' la fissazione di limiti all'importo totale della parte variabile delle remunerazioni dell'impresa; 
+ d) il rafforzamento dei sistemi di governo societario, ivi incluso il contenimento dei rischi; 
+ e) l'ordine di rimozione di uno o piu' esponenti aziendali o dei titolari di funzioni fondamentali qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione dell'impresa di assicurazione o di riassicurazione o per gli interessi degli assicurati e degli aventi diritto alle prestazioni assicurative. La rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 76, salvo che sussista urgenza di provvedere.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 3-ter, e' aggiunto il seguente: «3-quater. Ai fini della salvaguardia della stabilita' del sistema finanziario nel suo complesso e del contrasto di rischi sistemici l'IVASS puo' adottare, sulla base delle raccomandazioni del Comitato per le politiche macroprudenziali, le misure preventive o correttive di cui al comma 3-bis, lettere a), b), c) e d), nei confronti di tutte o di singole imprese di assicurazione o riassicurazione.».
+
 ## Art. 3. — Modifiche al decreto legislativo 
  del 1° settembre 1993, n. 385
+
+1.
+                    
+                        
+                            Al decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo l'articolo 118 e' inserito il seguente: 
+ «Articolo 118-bis (Variazione sostanziale o cessazione di un indice di riferimento). - 1. Le banche e gli intermediari finanziari pubblicano, anche per estratto, e mantengono costantemente aggiornati sul proprio sito internet i piani previsti dall'articolo 28, paragrafo 2, del regolamento (UE) 2016/1011. Gli aggiornamenti dei piani sono portati a conoscenza della clientela almeno una volta all'anno o alla prima occasione utile, secondo le modalita' previste dall'articolo 119. 
+ 2. Le clausole contrattuali aventi a oggetto i tassi di interesse consentono di individuare, anche per rinvio ai piani di cui al comma 1, le modifiche all'indice di riferimento o l'indice sostitutivo per le ipotesi di variazione sostanziale o di cessazione dell'indice di riferimento applicato al contratto. 
+ 3. Al verificarsi di una variazione sostanziale o della cessazione dell'indice di riferimento, sono comunicati al cliente entro trenta giorni, in forma scritta o mediante altro supporto durevole preventivamente accettato dal cliente, le modifiche o l'indice sostitutivo individuati in conformita' al comma 2. La modifica si intende approvata ove il cliente non receda, senza spese, dal contratto entro due mesi dalla ricezione della comunicazione. In caso di recesso il cliente ha diritto, in sede di liquidazione del rapporto, all'applicazione delle condizioni precedentemente praticate, anche con riferimento al tasso di interesse e tenendo conto, ove necessario, dell'ultimo valore disponibile dell'indice di riferimento. 
+ 4. Le modifiche o la sostituzione dell'indice di riferimento per le quali non siano state osservate le prescrizioni del presente articolo sono inefficaci. In caso di inefficacia, si applica l'indice sostitutivo definito ai sensi del regolamento (UE) 2016/1011. Ove non sia definito tale indice, si applica il tasso previsto dall'articolo 117, comma 7, lettera a), o, per i contratti di credito di cui al Capo II, dall'articolo 125-bis, comma 7, lettera a). 
+ 5. I commi 2, 3 e 4 si applicano ai contratti aventi a oggetto operazioni e servizi disciplinati ai sensi del presente Titolo, anche ove diversi da quelli di cui all'articolo 3, paragrafo 1, numero 18), del regolamento (UE) 2016/1011. Non si applica l'articolo 118.».
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    all'articolo 120-noviesdecies, comma 1, dopo le parole: «118,» sono inserite le seguenti: «118-bis,»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    all'articolo 125-bis, comma 2, dopo le parole: «118,» sono inserite le seguenti: «118-bis,»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    all'articolo 126-quinquies, comma 1, dopo le parole: «e 7» sono inserite le seguenti: «, e l'articolo 118-bis, commi 2, 3 e 4»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    all'articolo 127-bis, comma 1, dopo le parole: «articolo 118» sono inserite le seguenti: «e dell'articolo 118-bis».
+
+2.
+                    
+                        
+                            Entro un anno dalla data di entrata in vigore delle disposizioni di cui al comma 1, le banche e gli intermediari finanziari: 
+ 
+                        
+                        
+                            a)
+                            
+                                rendono nota alla clientela la pubblicazione dei piani secondo quanto previsto dall'articolo 118-bis, comma 1, secondo periodo, del decreto legislativo n. 385 del 1993; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                comunicano ai clienti, in forma scritta o mediante altro supporto durevole preventivamente accettato dal cliente contenente in modo evidenziato la formula «Proposta di modifica unilaterale del contratto», le variazioni contrattuali necessarie per introdurre le clausole previste dall'articolo 118-bis, comma 2, del decreto legislativo n. 385 del 1993. La modifica si intende approvata ove il cliente non receda, senza spese, dal contratto entro due mesi dalla ricezione della comunicazione. In caso di recesso, il cliente ha diritto, in sede di liquidazione del rapporto, all'applicazione delle condizioni precedentemente praticate.
 
 Le variazioni contrattuali per le quali non siano state osservate le prescrizioni del comma 2 sono inefficaci. In caso di inefficacia della modifica e di successiva variazione sostanziale o cessazione dell'indice di riferimento applicato al contratto, si applicano il secondo e il terzo periodo dell'articolo 118-bis, comma 4, del decreto legislativo n. 385 del 1993.
 

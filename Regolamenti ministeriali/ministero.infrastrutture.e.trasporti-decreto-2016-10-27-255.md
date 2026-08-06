@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2016-10-27;255
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,108 @@ Acquisito, altresi', in data 10 giugno 2016, l'assenso all'ulteriore corso del p
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini delle regole tecniche stabilite con il presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «trasporto pubblico di passeggeri»: i servizi di trasporto di passeggeri di interesse economico generale offerti al pubblico senza discriminazione e in maniera continuativa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «trasporto pubblico locale»: i servizi di trasporto di persone, come definiti dall'articolo 1, comma 2, del decreto legislativo 19 novembre 1997, n. 422, con esclusione dei servizi non assoggettati ad obblighi di servizio pubblico e svolti in regime di libera concorrenza e senza l'attribuzione di diritti di esclusiva; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «azienda di trasporto pubblico locale»: un'impresa o un gruppo di imprese di diritto pubblico o privato o qualsiasi ente pubblico che fornisce o presta i servizi di trasporto pubblico locale di persone come definiti nella lettera b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «titolo di viaggio»: documento in forma materiale o immateriale o supporto elettronico attestante il diritto alla fruizione di un servizio di trasporto pubblico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «titolo di viaggio integrato»: titolo di viaggio indifferentemente utilizzabile su vettori di trasporto diversi che aderiscono ad uno specifico accordo tariffario; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «supporto del titolo di viaggio»: ogni dispositivo portatile basato anche su carta senza contatto o su terminale abilitato alla comunicazione di prossimita', atto ad ospitare o disporre il pagamento del titolo di viaggio, consentendone il caricamento, la validazione ed il controllo; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «emissione di titolo di viaggio»: operazione tramite la quale viene prodotto il titolo di viaggio necessario per la fruizione di un dato servizio di trasporto pubblico, normalmente eseguita a seguito dell'avvenuta disposizione o completamento della transazione finanziaria di acquisto da parte dell'utente; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «caricamento di titolo di viaggio»: operazione tramite la quale il titolo di viaggio emesso viene reso disponibile all'utente mediante caricamento sul relativo supporto o ai sistemi di back-office dell'azienda ; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «validazione di titolo di viaggio»: operazione di riconoscimento della validita' di un titolo di viaggio presente, o disposto, sui supporti di cui alla lettera e), normalmente eseguita prima dell'inizio del viaggio, mediante interazione tra il supporto ed una apparecchiatura o dispositivo di controllo, anche di tipo mobile, presente sull'infrastruttura o a bordo del veicolo; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «controllo di titolo di viaggio»: operazione di verifica dell'idoneita' del titolo di viaggio alla fruizione del servizio di trasporto pubblico, eseguita anche mediante interazione tra il supporto di cui alla lettera e) ed un opportuno dispositivo di controllo; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «sistema di bigliettazione elettronica - SBE»: insieme coordinato e integrato dei sistemi, sottosistemi e dispositivi, di terra e di bordo, periferici e centrali, fissi e portatili, hardware e software, atto a gestire e regolare, in forma automatizzata e secondo date scelte architetturali e tecnologiche, tutte le interazioni tra l'azienda di trasporto e l'utenza, volte all'accesso ed alla fruizione dei servizi di trasporto pubblico locale; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «interoperabilita'»: capacita' dei sistemi e dei processi industriali e commerciali che li sottendono di scambiare dati e di condividere informazioni e conoscenze; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «autorita' competente»: un'amministrazione pubblica o un gruppo di amministrazioni pubbliche di uno Stato membro, o di Stati membri, che ha il potere di intervenire nei trasporti pubblici di passeggeri in una zona geografica determinata, o qualsiasi altro organismo investito di tale potere; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «autorita' competente a livello locale»: qualsiasi autorita' competente la cui zona di competenza geografica non e' estesa al territorio nazionale.
+
 ## Art. 2.
 
 Oggetto e finalita'
@@ -53,6 +155,45 @@ Sono esclusi dall'applicazione del presente decreto i sistemi di bigliettazione 
 Sono altresi' esclusi dall'applicazione del presente decreto i sistemi di bigliettazione elettronica delle aziende operanti nelle regioni e provincie autonome per cui siano gia' state definite delle direttive tecniche ed i mezzi attrezzati abbiano superato il 50% della flotta necessaria per lo svolgimento dei servizi di trasporto pubblico locale di competenza delle regioni e delle provincie autonome.
 
 ## Art. 4. — Requisiti tecnici per SBE di nuova realizzazione
+
+1.
+                    
+                        
+                            I sistemi di bigliettazione elettronica «SBE» di nuova realizzazione soddisfano i seguenti requisiti minimi: 
+ 
+                        
+                        
+                            a)
+                            
+                                consentire o essere predisposti per l'utilizzo dei diversi titoli di viaggio e relativi supporti, secondo le norme e gli standard di riferimento di cui all'allegato A, che costituisce parte integrante del presente decreto, garantendo l'interoperabilita' dei processi di emissione, caricamento, rinnovo, ricarica, validazione e controllo dei titoli di viaggio stessi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                consentire, tramite il medesimo supporto, il caricamento, la validazione e il controllo di titoli di viaggio, anche integrati, utilizzabili per servizi di mobilita' diversi, ivi inclusi servizi automobilistici, auto filoviari, tramviari, metropolitani, ferroviari, a fune, servizi di mobilita' collettiva, ivi inclusi, car-sharing e bike-sharing e servizi di sosta, anche afferenti ad ambiti territoriali differenziati, quali urbani, extra-urbani, regionali, interregionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prevedere, mediante idonee soluzioni tecniche e organizzative, in concomitanza con l'inizio di ciascun viaggio ovvero trasbordo, l'obbligo di validazione del relativo titolo di viaggio, anche in maniera automatica, mediante le apparecchiature di terra e di bordo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                consentire, attraverso dispositivi portatili abilitati alla comunicazione di prossimita' il caricamento dei titoli di viaggio, attraverso trasmissione dati, nonche' la validazione e il controllo degli stessi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                consentire l'identificazione univoca dei differenti titoli di viaggio presenti sul medesimo oggetto portatile o sui sistemi di back-office dell'azienda.
 
 ## Art. 5. — Comunicazioni all'utenza tramite sito internet
 

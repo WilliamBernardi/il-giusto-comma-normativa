@@ -8,8 +8,8 @@ codice_redazionale: 098G0393
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,45 @@ Sentita la conferenza permanente per i rapporti fra lo Stato, le regioni e le pr
 Udito il parere n. 183/96 del Consiglio di Stato espresso nell'adunanza generale del giorno 19 dicembre 1996, ai sensi dell'articolo 17, comma 4, della citata legge n. 400/1988;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            I canoni annui per le concessioni di aree, pertinenze demaniali marittime e specchi acquei rilasciate con decorrenza successiva al 31 dicembre 1997, per finalita' turisticoricreative sono determinati secondo i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                il territorio costiero nazionale e' suddiviso, sulla base dell'alta, normale e minore valenza turistica, in tre categorie denominate "categoria A", "categoria B" e "categoria C";
+
+                            
+                        
+                        
+                            b)
+                            
+                                la "categoria D" e' costituita dalle pertinenze demaniali marittime cosi' come definite dall'articolo 29 del codice della navigazione, approvato con regio decreto 30 marzo 1942, n. 327;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nell'ambito di ciascuna delle categorie di cui alle lettere a) e b), si applicano canoni differenziati a seconda che la concessione sia rilasciata per l'uso di aree scoperte, di impianti di facile rimozione, di impianti di difficile rimozione e di pertinenze demaniali marittime, nelle misure indicate nella allegata "tabella A";
+
+                            
+                        
+                        
+                            d)
+                            
+                                i canoni annui unitari relativi alle concessioni di specchi acquei, sono determinati in relazione alla loro distanza dalla costa, nelle misure indicate nella allegata "tabella B";
+
+                            
+                        
+                        
+                            e)
+                            
+                                per gli specchi acquei utilizzati per il posizionamento di campi boa e simili per l'ancoraggio delle navi al di fuori degli specchi acquei delimitati da opere che riguardano i porti cosi' come definiti dall'articolo 5 del testo unico approvato con regio decreto 2 aprile 1885, n. 3095, si applica il canone annuo di Lit. 400 al metro quadrato.
 
 ## Art. 2.
 
@@ -66,6 +105,45 @@ Per le determinazioni dei canoni afferenti fattispecie concessorie per le quali 
 Dette tabelle sono aggiornate annualmente nei modi previsti dall'articolo 04 della legge 4 dicembre 1993, n. 494.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            Ai fini dell'applicazione del presente decreto le regioni individuano le aree del proprio territorio da classificare nelle categorie A, B e C, effettuati gli accertamenti - sulla base dei criteri armonizzati sul piano nazionale ai sensi dell'articolo 4 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616 - dei requisiti di alta, normale e minore valenza turistica, tenuto conto, fra l'altro, dei seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                caratteristiche fisiche, ambientali e paesaggistiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                grado di sviluppo turistico esistente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                stato delle acque con riferimento alla balneabilita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                ubicazione ed accessibilita' agli esercizi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                caratteristiche delle strutture, delle attrezzature e dei servizi.
 
 La conseguente delibera regionale e' adottata entro centottanta giorni dalla data di pubblicazione del presente decreto e trasmessa per conoscenza alla Presidenza del Consiglio dei Ministri - Dipartimento del turismo, ed al Ministero dei trasporti e della navigazione.
 

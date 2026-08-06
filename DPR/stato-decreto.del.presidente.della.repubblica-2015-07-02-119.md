@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2015-07-02;119
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -56,6 +56,38 @@ Il CTV si riunisce presso il Dipartimento per le politiche europee che assicura,
 
 Alle riunioni del CTV partecipano i rappresentanti del Ministero degli affari esteri e della cooperazione internazionale, del Ministero dell'economia e delle finanze, del Dipartimento per gli affari regionali, le autonomie e lo sport, del Dipartimento per le politiche di coesione e delle altre Amministrazioni interessate ai dossier all'ordine del giorno, assistiti, ove necessario, dai responsabili dei Nuclei di valutazione di cui all'articolo 20 della legge nonche' da esperti dell'Amministrazione e da funzionari del Senato della Repubblica e della Camera dei deputati, designati dalle rispettive amministrazioni in qualita' di osservatori.
 
+4.
+                    
+                        
+                            Alle riunioni del CTV possono essere invitati a partecipare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il Rappresentante permanente d'Italia presso l'Unione europea o un suo delegato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i rappresentanti delle Regioni e delle Province autonome secondo le modalita' di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i rappresentanti delle associazioni rappresentative degli enti locali secondo le modalita' di cui all'articolo 4; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i rappresentanti delle Autorita' di regolamentazione o vigilanza, quando si trattano questioni che rientrano nelle rispettive competenze.
+
 Il CTV puo' acquisire dati ed elementi necessari ai fini della formazione della posizione italiana sui progetti di atti dell'Unione europea anche attraverso audizioni di esperti e consultazione dei soggetti portatori di interessi in relazione alle specifiche materie trattate, tenuto conto, per l'analisi degli impatti sull'ordinamento nazionale, delle indicazioni metodologiche e procedurali definite dal Dipartimento per gli affari giuridici e legislativi.
 
 Il CTV puo' sottoporre all'esame del CIAE questioni rilevanti ai fini della definizione unitaria della posizione del Governo sui progetti di atti dell'Unione europea.
@@ -77,6 +109,45 @@ Il CTV in composizione integrata opera ai sensi dell'articolo 3.
 ## Art. 5. — Segreteria del CIAE
 
 Il Dipartimento per le politiche europee istituito presso la Presidenza del Consiglio dei ministri espleta le funzioni necessarie allo svolgimento delle attivita' istruttorie, e di sostegno al funzionamento del CTV e provvede agli adempimenti preliminari e conseguenti alle riunioni del Comitato, assicurandone il raccordo con le deliberazioni del CIAE. Per lo svolgimento delle attivita' istruttorie di cui all'articolo 3, comma 5, il Dipartimento opera in raccordo con il Dipartimento per gli affari giuridici e legislativi.
+
+2.
+                    
+                        
+                            La Segreteria del CIAE cura in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                la conservazione e l'aggiornamento dell'elenco dei rappresentanti del CTV; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'istruttoria delle questioni all'ordine del giorno delle riunioni del CTV e dei gruppi tecnici di lavoro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la redazione dei verbali delle riunioni e la loro conservazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la trasmissione delle decisioni assunte in seno al CTV o ai gruppi tecnici di lavoro ai rappresentanti italiani incaricati di rappresentarle in tutte le sedi negoziali europee; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la pubblicita' delle riunioni nelle forme e nei modi di volta in volta stabiliti dal CTV o dai gruppi tecnici di lavoro.
 
 La Segreteria del CIAE puo' inoltre formulare proposte specifiche ed elaborare documenti di posizione sui dossier sottoposti all'esame del CTV.
 

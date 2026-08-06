@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2016-05-26
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -73,7 +73,82 @@ Al decreto legislativo 9 aprile 2008, n. 81, sono apportate le seguenti modifica
 
 ## Art. 2. — Modifiche al decreto legislativo 26 marzo 2001, n. 151
 
+1.
+                    
+                        
+                            Al decreto legislativo 26 marzo 2001, n. 151, allegato C, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla sezione A: 
+ 1) il punto 2 e' sostituito dal seguente: 
+ "2. Agenti biologici 
+ Agenti biologici dei gruppi di rischio 2, 3 e 4 ai sensi dell'articolo 268, nonche' dell'Allegato XLVI del decreto legislativo 9 aprile 2008, n. 81, nella misura in cui sia noto che tali agenti o le terapie che essi rendono necessarie mettono in pericolo la salute delle gestanti e del nascituro, sempreche' non figurino nell'Allegato B della presente legge."; 
+ 2) al punto 3 sono apportate le seguenti modificazioni: 
+ 2.1) la lettera a) e' sostituita dalla seguente: 
+ "a) sostanze e miscele che soddisfano i criteri di classificazione del regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio in una o piu' delle seguenti classi di pericolo e categorie di pericolo con una o piu' delle seguenti indicazioni di pericolo, sempreche' non figurino ancora nell'Allegato B della presente legge: 
+ - mutagenicita' sulle cellule germinali, categorie 1 A, 1 B o 2 (H340, H341), 
+ - cancerogenicita', categorie 1 A, 1 B o 2 (H350, H350i, H351), 
+ - tossicita' per la riproduzione, categorie 1 A, 1 B o 2 o la categoria aggiuntiva per gli effetti sull'allattamento o attraverso di essa (H360, H360D, H360FD, H360Fd, H360Df, H361, H361d, H361fd, H362), 
+ - tossicita' specifica per organi bersaglio dopo esposizione singola, categorie 1 o 2 (H370, H371)"; 
+ 2.2) la lettera b) e' sostituita dalla seguente: 
+ "b) agenti chimici che figurano nell'allegato XLII del decreto legislativo 9 aprile 2008, n. 81;"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sezione B e' sostituita dalla seguente: 
+ "B. Processi 
+ Processi industriali che figurano nell'allegato XLII del decreto legislativo 9 aprile 2008, n. 81.".
+
 ## Art. 3. — Modifiche alla legge 17 ottobre 1967, n. 977
+
+1.
+                    
+                        
+                            Alla legge 17 ottobre 1967, n. 977, allegato I, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla sezione I sono apportate le seguenti modificazioni: 
+ 1) il punto 2 e' sostituito dal seguente: 
+ "2. Agenti biologici: 
+ a) agenti biologici dei gruppi di rischio 3 e 4 ai sensi dell'articolo 268 del decreto legislativo 9 aprile 2008, n. 81."; 
+ 2) il punto 3 e' sostituito dal seguente: 
+ "3. Agenti chimici: 
+ a) sostanze e miscele che soddisfano i criteri di classificazione del regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio in una o piu' delle seguenti classi di pericolo e categorie di pericolo con una o piu' delle seguenti indicazioni di pericolo: 
+ - tossicita' acuta, categorie 1, 2 o 3 (H300, H310, H330, H301, H311, H331); 
+ - corrosione della pelle, categorie 1 A, 1 B o 1C (H314); 
+ - gas infiammabile, categorie 1 o 2 (H220, H221); 
+ - aerosol infiammabili, categoria 1 (H222); 
+ - liquido infiammabile, categorie 1 o 2 (H224, H225); 
+ - esplosivi, categoria "esplosivo instabile", o esplosivi delle divisioni 1.1, 1.2, 1.3, 1.4, 1.5 (H200, H201, H202, H203, H204, H205); 
+ - sostanze e miscele autoreattive, di tipo A, B, C o D (H240, H241, H242); 
+ - perossidi organici, di tipo A o B (H240, H241); 
+ - tossicita' specifica per organi bersaglio dopo esposizione singola, categorie 1 o 2 (H370, H371); 
+ - tossicita' specifica per organi bersaglio dopo esposizione ripetuta, categorie 1 o 2 (H372, H373); 
+ - sensibilizzazione delle vie respiratorie, categoria 1, sottocategorie 1 A o 1 B (H334); 
+ - sensibilizzazione della pelle, categoria 1, sottocategorie 1 A o 1B (H317); 
+ - cancerogenicita', categorie 1 A, 1 B o 2 (H350, H350i, H351); 
+ - mutagenicita' sulle cellule germinali, categorie 1 A, 1 B o 2 (H340, H341); 
+ - tossicita' per la riproduzione, categorie 1 A o 1 B (H360, H360F, H360FD, H360Fd, H360D, H360Df). 
+ b) sostanze e miscele di cui al Titolo IX, Capo II, del decreto legislativo 9 aprile 2008, n. 81; 
+ c) piombo e composti; 
+ d) amianto."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla sezione II, il punto 1) e' sostituito dal seguente: 
+ "1) Processi e lavori di cui all'allegato XLII del decreto legislativo 9 aprile 2008, n. 81.".
 
 ## Art. 4. — Clausola di invarianza finanziaria
 

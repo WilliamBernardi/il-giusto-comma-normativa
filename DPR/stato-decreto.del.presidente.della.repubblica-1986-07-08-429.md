@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2002-07-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -197,6 +197,32 @@ Nei confronti dei beneficiari di trattamenti pensionistici a carico delle casse 
 
 I titolari di pensioni e di trattamenti congeneri di cui al comma 1 possono chiedere - ferma restando l'esigenza degli accertamenti in ordine alla cittadinanza italiana per la categoria citata al comma 2 - di riscuotere i propri assegni in valuta estera nel Paese di residenza. In tale caso le relative partite sono assunte in carico dall'apposito ufficio istituito presso la direzione provinciale del tesoro di Roma, il quale segnala i necessari dati al sistema informativo con le modalita' previste dall'art.
 
+4.
+                        
+                            
+                                In base ai dati stessi, previamente elaborati sia in sede locale che presso il Centro nazionale di calcolo e contabilita', il competente centro interregionale di elaborazione, alle scadenze stabilite, emette - distintamente per capitolo o per amministrazione o azienda autonoma di Stato o per ente convenzionato, nonche' per localita' di pagamento - assegni di serie speciale collettivi in funzione di postagiro, per l'accreditamento dei relativi fondi al contabile del portafoglio dello Stato, da convertire in valuta estera tramite l'Ufficio italiano dei cambi, ai fini dei pagamenti da effettuarsi con le modalita' previste nel comma 4. Detti assegni vanno integrati da elenchi in piu' esemplari, allestiti con sistema automatizzato, contenenti gli elementi occorrenti per l'identificazione dei singoli creditori e degli importi spettanti a ciascuno di essi. ((6)) 
+ 4. I pagamenti, da effettuarsi sulla base degli elenchi di cui al comma 3, hanno luogo con una delle seguenti procedure, previ i necessari accertamenti circa l'esistenza in vita e, per la categoria di cui al comma 2, circa la cittadinanza italiana dei beneficiari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a mezzo della dipendenza estera di un istituto di credito incaricato dal Tesoro, al quale viene fatta pervenire la necessaria valuta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante assegni in divisa estera, emessi tramite l'Ufficio italiano dei cambi e consegnati o trasmessi agli interessati a cura delle competenti autorita' consolari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attraverso aperture di credito a favore delle rappresentanze consolari, effettuate tramite l'Ufficio italiano dei cambi, nei Paesi che intrattengono con l'Italia conti di compensazione, sui quali e' ammesso il pagamento delle pensioni.
+
 Copie dei supporti magnetici occorsi per l'allestimento degli elenchi di cui al comma 3 sono rese disponibili, previa intesa con la Direzione generale dei servizi periferici del Ministero del tesoro, per gli uffici che intervengono nelle procedure di pagamento.
 
 Le procedure da seguire per l'attuazione di quanto disposto dal presente articolo sono stabilite con decreto del Ministro del tesoro.
@@ -237,6 +263,31 @@ Il Centro nazionale di calcolo e contabilita', dopo avere acquisito nei propri a
 Il Centro nazionale di calcolo e contabilita' trasmette una copia degli elenchi degli assegni pagati, unitamente ai titoli stessi, ai competenti organi di controllo. Una seconda copia viene invece rimessa alla direzione provinciale del tesoro interessata, alla quale e' anche destinato l'elenco degli assegni scaduti di validita'.
 
 Le modalita' degli addebiti e le procedure di regolarizzazione degli assegni stralciati in sede di contabilizzazione, perche' non regolarmente pagati, sono concordate tra l'Amministrazione postale e il Ministero del tesoro.
+
+7.
+                        
+                            
+                                In sede di contabilizzazione, al postagiro collettivi emessi in applicazione delle disposizioni contenute negli articoli 14, 21 e 22 vanno rispettivamente unite:
+ 
+                            
+                            
+                                a)
+                                
+                                    le copie degli elenchi nominativi dei pensionati soggetti a ritenute extra-erariali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le copie degli elenchi nominativi dei pensionati che riscuotono con accreditamento in conto corrente bancario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le copie degli elenchi nominativi dei pensionati che riscuotono in valuta estera.
 
 Ad avvenuta contabilizzazione degli assegni emessi per il pagamento agli aventi diritto dei ratei successori, le direzioni provinciali del tesoro trasmettono ai competenti organi di controllo i documenti occorsi per la liquidazione dei ratei stessi, facendo riferimento alle contabilita' in cui sono stati compresi i relativi assegni.
 
@@ -386,6 +437,31 @@ In ogni caso vanno osservate le disposizioni d'ordine generale inerenti alla ges
 
 ## Art. 41. — Servizio analisi e programmazione
 
+1.
+                        
+                            
+                                In base a quanto previsto dall'art. 2 del decreto del Presidente della Repubblica 26 settembre 1985, pubblicato nella Gazzetta Ufficiale n. 237 dell'8 ottobre 1985, emanato in attuazione dell'art. 4 della legge 7 agosto 1985, n. 428, il servizio analisi e programmazione della Direzione generale dei servizi periferici del Ministero del tesoro provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'analisi amministrativa e tecnica nelle materie di competenza della Direzione generale medesima e delle direzioni provinciali del tesoro, ai fini dell'automazione delle relative procedure;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla realizzazione, manutenzione, aggiornamento e prova, sulla base della documentazione predisposta in sede di analisi, dei programmi elaborativi sia per i sistemi in esercizio presso i centri, sia per quelli in dotazione alla Direzione generale dei servizi periferici del Ministero del tesoro e alle direzioni provinciali del tesoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'invio di detti programmi al centro o all'ufficio che li deve utilizzare, unitamente alle necessarie istruzioni di carattere operativo destinate ai responsabili della conduzione degli elaboratori e al personale addetto al funzionamento degli stessi.
+
 Non e' consentito ai centri, agli altri uffici della Direzione generale dei servizi periferici del Ministero del tesoro e alle direzioni provinciali del tesoro modificare i programmi elaborativi in dotazione ovvero utilizzare programmi che non siano stati loro trasmessi dal servizio di cui al comma 1. Parimenti non e' consentito, sia pure con l'impiego di programmi in dotazione, eseguire lavorazioni che non rientrino tra quelle previste dalle disposizioni vigenti o che non siano state esplicitamente autorizzate. E' altresi' rigorosamente vietato consegnare a chiunque, senza autorizzazione, gli originali o le copie dei supporti e delle specifiche relative ai programmi in dotazione, ancorche' non piu' utilizzati.
 
 La Direzione generale dei servizi periferici del Ministero del tesoro puo' disporre, in via eccezionale, la fornitura alle direzioni provinciali del tesoro di programmi standard esistenti in commercio, realizzati da ditte specializzate.
@@ -426,6 +502,39 @@ Qualora uno dei funzionari di cui al comma 1 abbia delegato parte delle proprie 
 I soggetti indicati nei commi 1, 2 e 3, nonche' i funzionari preposti alle ripartizioni a livello non dirigenziale e gli altri impiegati sono responsabili degli adempimenti posti in essere, in relazione al rilievo dell'intervento di ciascuno nell'espletamento del servizio.
 
 ## Art. 47. — Responsabilita' dei dirigenti nelle sedi ripartite in divisioni o circoscrizioni a livello dirigenziale
+
+1.
+                        
+                            
+                                Nelle direzioni provinciali del tesoro rette da dirigenti superiori e ripartite in divisioni o circoscrizioni rette da primi dirigenti - fermo quanto stabilito dal decreto del Presidente della Repubblica 30 giugno 1972, n. 748 - le rispettive responsabilita' sono connesse all'esercizio, da parte di ciascuno di essi, delle seguenti attribuzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    Dirigente superiore:
+ 1) rappresentanza dell'amministrazione, quale capo dell'ufficio periferico provinciale e firma dei contratti che a qualsiasi titolo impegnano l'amministrazione stessa;
+ 2) nomina dell'ufficiale rogante, dell'economo e del consegnatario dei beni mobili;
+ 3) indirizzo, coordinamento, vigilanza e controllo dell'attivita' dei dipendenti uffici, al fine di assicurarne la legalita', l'imparzialita', l'economicita', la speditezza e la rispondenza al pubblico interesse;
+ 4) adozione degli atti obbligatori di competenza degli organi inferiori, qualora siano stati da questi indebitamente omessi o ritardati, previa diffida ad adempierli entro un congruo termine e comunicazione alla Direzione generale dei servizi periferici del Ministero del tesoro;
+ 5) assegnazione alle divisioni o circoscrizioni del personale di nuova nomina e di quello trasferito da altre sedi;
+ 6) movimento tra le divisioni o circoscrizioni del personale in servizio, esclusi i dirigenti;
+ 7) firma degli atti concernenti l'amministrazione del personale, la concessione dei permessi e congedi ordinari ai primi dirigenti, l'irrogazione della sanzione della censura al personale dipendente escluso quello dirigente e l'attivazione dei procedimenti disciplinari per eventuali piu' gravi sanzioni;
+ 8) firma degli atti relativi alla gestione di fondi accreditati nella qualita' di funzionario delegato;
+ 9) firma delle deliberazioni in materia di depositi di pertinenza della Cassa depositi e prestiti nonche' degli atti relativi alle pratiche per sequestri, pignoramenti e opposizioni o altri atti di natura contenziosa concernenti i depositi suddetti;
+ 10) adempimenti non attribuiti alla specifica competenza dei primi dirigenti preposti alle divisioni o alle circoscrizioni.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Primo dirigente:
+ 1) emanazione degli atti e cura degli adempimenti concernenti i servizi cui e' preposto - compresa l'ordinazione primaria e secondaria della spesa - con la sola esclusione di quelli riservati al dirigente superiore;
+ 2) adozione degli atti preliminari ed istruttori negli affari di competenza dell'organo superiore;
+ 3) vigilanza sull'esatto adempimento degli obblighi di servizio da parte dei dipendenti;
+ 4) destinazione e avvicendamento del personale nell'ambito delle minori ripartizioni in cui e' articolato l'ufficio alle proprie dipendenze;
+ 5) concessione di permessi e congedi ordinari al personale dipendente.
 
 ## Art. 48. — Responsabilita' dei soggetti che intervengano nelle diverse fasi di
 ordinazione e pagamento, con procedimenti automatizzati, di pensioni, stipendi e altre spese fisse

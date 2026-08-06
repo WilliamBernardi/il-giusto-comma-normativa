@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-06-16;106
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,12 +34,139 @@ Restano ferme le disposizioni nazionali che stabiliscono regole tecniche inerent
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Organismo unico nazionale di accreditamento, l'organismo designato ai sensi dell'articolo 4, comma 2, della legge 23 luglio 2009, n. 99; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accreditamento, attestazione da parte dell'Organismo unico nazionale di accreditamento che certifica che un determinato organismo di valutazione e verifica della costanza delle prestazioni di prodotti da costruzione soddisfa quanto stabilito dall'articolo 43 e, ove applicabili, dagli articoli 45 e 46, del regolamento (UE) n. 305/2011, anche sulla base del rispetto di criteri stabiliti da norme armonizzate o parti di esse secondo quanto indicato nell'articolo 44 del predetto regolamento, nonche' rispetta le ulteriori prescrizioni contenute nelle pertinenti parti del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    schema di accreditamento, insieme di regole e procedure definite che disciplinano le attivita' svolte dall'Organismo unico nazionale di accreditamento per la concessione, l'estensione ed il mantenimento degli accreditamenti per le diverse categorie di attivita' coperte da accreditamento e contraddistinte da differenziazioni significative ai fini delle procedure di accreditamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    certificato di accreditamento, documento attestante l'accreditamento di un organismo di valutazione e verifica della costanza delle prestazioni di prodotti da costruzione, di cui alla lettera b); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prima autorizzazione, autorizzazione rilasciata ad un organismo che intende essere notificato ai sensi del regolamento (UE) n. 305/2011; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ulteriore autorizzazione, autorizzazione rilasciata ad un organismo, gia' autorizzato ai sensi del regolamento (UE) n. 305/2011, che intenda essere notificato per specifiche tecniche, attivita' o requisiti base delle opere per le quali siano necessarie competenze tecniche o attrezzature differenti da quelle per cui esso e' stato gia' autorizzato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    estensione di autorizzazione, autorizzazione rilasciata ad un organismo, gia' autorizzato ai sensi del regolamento (UE) n. 305/2011, che intenda essere notificato per specifiche tecniche per le quali siano necessarie competenze tecniche o attrezzature analoghe o affini a quelle per cui esso e' stato gia' autorizzato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    aggiornamento di notifica, aggiornamento di una o piu' notifiche di un organismo, gia' autorizzato e notificato ai sensi del regolamento (UE) n. 305/2011, che intenda essere notificato per specifiche tecniche che siano state aggiornate o revisionate successivamente alla notifica gia' effettuata per l'organismo, per le quali gli aggiornamenti o revisioni delle specifiche tecniche non siano tali da ricadere in uno dei casi di cui alle lettere f) o g); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    materiali e prodotti per uso strutturale, materiali e prodotti che prioritariamente assicurano o contribuiscono alla sicurezza strutturale ovvero geotecnica delle opere stesse e che consentono ad un'opera ove questi sono incorporati permanentemente di soddisfare in maniera prioritaria il requisito di base delle opere n.1 «Resistenza meccanica e stabilita'», di cui all'Allegato I del regolamento (UE) n. 305/2011; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    materiali e prodotti per uso antincendio, materiali e prodotti che prioritariamente assicurano o contribuiscono alla protezione passiva o attiva contro l'incendio, e che consentono ad un'opera ove questi sono incorporati permanentemente di soddisfare in maniera prioritaria il requisito di base delle opere n. 2 «Sicurezza in caso d'incendio», di cui all'Allegato I del regolamento (UE) n. 305/2011; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    Amministrazioni competenti, il Consiglio superiore dei lavori pubblici presso il Ministero delle infrastrutture e dei trasporti, per il requisito di base delle opere n. 1, di cui alla lettera i), il Ministero dell'interno per il requisito di base delle opere n. 2, di cui alla lettera l) e il Ministero dello sviluppo economico per i requisiti di base delle opere numeri 3, 4, 5, 6 e 7 di cui all'Allegato I del regolamento (UE) n. 305/2011; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    organismi notificati, organismi autorizzati dalle Amministrazioni competenti a svolgere compiti di parte terza secondo i sistemi di valutazione e verifica della costanza della prestazione previsti nell'allegato V del regolamento (UE) n. 305/2011 ed a tal fine notificati ai sensi del Capo VII dello stesso regolamento; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    operatori economici, i soggetti indicati all'articolo 2, paragrafo 1, numero 18), del regolamento (UE) n. 305/2011; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    valutazione tecnica europea, la valutazione documentata della prestazione di un prodotto da costruzione, in relazione alle sue caratteristiche essenziali, conformemente al rispettivo documento per la valutazione europea.
+
 Si applicano, altresi', le ulteriori definizioni di cui all'articolo 2 del regolamento (UE) n. 305/2011.
 
 ## Art. 3. — Comitato nazionale di coordinamento 
  per i prodotti da costruzione
 
 E' costituito presso il Consiglio superiore dei lavori pubblici, senza nuovi o maggiori oneri a carico della finanza pubblica, un Comitato nazionale di coordinamento per i prodotti da costruzione, di seguito Comitato, composto dai rappresentanti di cui all'articolo 26 e presieduto dal Presidente del Consiglio superiore dei lavori pubblici o da un suo supplente dallo stesso designato.
+
+2.
+                        
+                            
+                                Il Comitato di cui al comma 1 e' altresi' composto dai seguenti rappresentanti designati dalle Amministrazioni competenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino a un massimo di tre, per il rilascio degli ETA e per la partecipazione all'Organismo italiano di valutazione tecnica, ITAB, di cui all'articolo 7; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino a un massimo di tre, per la valutazione, autorizzazione, notifica e controllo degli Organismi notificati, di cui all'articolo 8; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fino a un massimo di tre, per la vigilanza sul mercato e nei cantieri sui prodotti da costruzione, di cui all'articolo 17.
 
 Nel caso in cui vengano trattati argomenti o questioni inerenti prodotti per i quali risulti rilevante il requisito dell'uso sostenibile delle risorse naturali, e' prevista, con funzione consultiva, la presenza di un rappresentante del Ministero dell'ambiente e della tutela del territorio e del mare. Al Comitato possono essere altresi' invitati, con funzioni consultive in relazione agli argomenti trattati, rappresentanti di altre Pubbliche Amministrazioni, dell'Organismo italiano di valutazione tecnica di cui all'articolo 7, degli Enti nazionali di normazione, dell'Organismo di accreditamento, delle associazioni di categoria rappresentative del settore delle costruzioni e degli organismi notificati.
 
@@ -163,15 +290,104 @@ Ai fini del rinnovo dell'autorizzazione si applicano le corrispondenti procedure
 
 Entro il 31 gennaio di ogni anno, gli organismi notificati trasmettono a ciascuna delle Amministrazioni competenti una relazione sintetica con indicazione dell'attivita' svolta nell'anno precedente nel settore dei prodotti da costruzione.
 
+2.
+                        
+                            
+                                Nella relazione devono essere almeno specificati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero complessivo di certificati e di rapporti di prova emessi, modificati, sospesi, ritirati. Nel caso di sospensione o ritiro e' necessario indicare la motivazione di tali provvedimenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la partecipazione ai lavori del coordinamento degli organismi notificati di cui all'articolo 55 del regolamento (UE) n. 305/2011; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni modifica o revisione della struttura dell'organismo intercorsa nel periodo di riferimento, solo nel caso di notifica non basata su certificato di accreditamento, di cui all'articolo 12.
+
 ## - Capo IV Proventi e tariffe
 
 ## Art. 15. — Tariffe
+
+1.
+                        
+                            
+                                Sono a carico dei richiedenti le spese relative all'espletamento delle seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilascio di valutazione tecnica europea (ETA) di cui all'articolo 7, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valutazione, autorizzazione, notifica e controllo degli Organismi di cui agli articoli 8, 11, 12, 13 e 16; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigilanza sul mercato e nei cantieri per i materiali e prodotti da costruzione di cui all'articolo 17.
 
 Con uno o piu' decreti del Ministro dello sviluppo economico, del Ministro dell'interno e del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le tariffe per le attivita' di cui al comma 1, ad esclusione di quelle relative alle attivita' svolte dall'Organismo unico nazionale italiano di accreditamento, nonche' i termini, i criteri di riparto e le modalita' di versamento delle medesime tariffe ad appositi capitoli dell'entrata per la successiva riassegnazione. Le predette tariffe, determinate sulla base del costo effettivo del servizio, sono aggiornate almeno ogni tre anni.
 
 ## - Capo V Controllo, vigilanza e sanzioni
 
 ## Art. 16. — Controllo sugli organismi notificati
+
+1.
+                        
+                            
+                                Le Amministrazioni competenti assicurano il controllo sugli organismi notificati, al fine di accertare la permanenza dei requisiti posti a base dell'autorizzazione. Il controllo, con o senza preavviso, si effettua mediante una o piu' delle modalita' di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    verifica documentale e controllo su fascicoli e documenti tecnici, certificazioni, registri, siti web; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prelievo di campioni ed esecuzione di analisi, prove e misurazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    visite o sopralluoghi presso uffici e laboratori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    audizioni del personale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    supervisione delle attivita' degli organismi notificati presso i siti produttivi.
 
 Il personale che effettua il controllo puo' accedere a qualsiasi locale in cui si svolge l'attivita' dell'organismo notificato, inclusi i siti produttivi dei fabbricanti richiedenti i servizi di valutazione, nonche' chiedere ogni informazione ritenuta utile ed acquisire i documenti ritenuti necessari.
 
@@ -192,9 +408,73 @@ Le sospensioni, le limitazioni, le revoche delle autorizzazioni e le notifiche a
 
 Le Amministrazioni competenti sono autorita' di vigilanza sul mercato e nei cantieri per i materiali e prodotti da costruzione per i quali risulta rilevante il requisito base per le opere di rispettiva competenza.
 
+2.
+                        
+                            
+                                La vigilanza si attua attraverso ispezioni, analisi, prove, misurazioni, verifiche e controlli tesi a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire che i prodotti da costruzione, anche provenienti da altri Stati membri dello spazio economico europeo con medesime garanzie di prestazione, siano conformi ai requisiti stabiliti nel regolamento (UE) n. 305/2011 e nelle pertinenti disposizioni nazionali adottate ai fini dell'impiego dei prodotti nelle opere e non pregiudichino la salute, la sicurezza o qualsiasi altro aspetto della protezione del pubblico interesse, anche mediante verifiche sul rispetto delle procedure di immissione sul mercato e dei prescritti controlli di produzione, eventualmente effettuate con il ricorso ad ispezioni all'ingresso del territorio nazionale nonche' nei luoghi di fabbricazione, trasformazione, deposito, vendita o nei cantieri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esigere dalle parti interessate l'acquisizione delle informazioni e dei documenti necessari all'accertamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prelevare, con le modalita' di cui all'articolo 47 della legge 6 febbraio 1996, n. 52, e successive modificazioni, campioni di prodotti da costruzione da sottoporre a prove ed esami volti ad accertarne le prestazioni e la rispondenza ai requisiti tecnici applicabili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ritirare o sospendere la commercializzazione di prodotti da costruzione che siano suscettibili di mettere in pericolo la sicurezza delle persone, a seguito degli accertamenti svolti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ordinare e coordinare o, se del caso, organizzare con gli operatori economici il richiamo dal mercato dei prodotti suscettibili di mettere in pericolo la sicurezza delle persone.
+
 Le funzioni di controllo alle frontiere esterne sono svolte dall'Agenzia delle dogane e dei monopoli conformemente agli articoli da 27 a 29 del regolamento (CE) n. 765/2008.
 
 Per le finalita' di cui al presente articolo e senza nuovi o maggiori oneri per la finanza pubblica, le Amministrazioni competenti possono avvalersi della collaborazione dell'Agenzia delle dogane e dei monopoli e, in attuazione dell'articolo 36 della legge 12 dicembre 2002, n. 273, del Corpo della Guardia di Finanza, le quali hanno accesso al sistema di scambio rapido delle informazioni gestite dal sistema RAPEX, di cui all'allegato II del decreto legislativo 6 settembre 2005, n. 206, e agiscono secondo le norme e le facolta' ad esse attribuite dall'ordinamento e secondo appositi atti di indirizzo.
+
+5.
+                        
+                            
+                                Per lo svolgimento, in ambito territoriale, delle attivita' di cui al presente articolo, senza nuovi o maggiori oneri per la finanza pubblica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Consiglio superiore dei lavori pubblici, presso il Ministero delle infrastrutture e dei trasporti, puo' avvalersi anche dei Provveditorati interregionali per le opere pubbliche, del medesimo Ministero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Ministero dell'interno puo' avvalersi anche delle strutture territoriali del Corpo nazionale dei vigili del fuoco; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Ministero dello sviluppo economico puo' avvalersi anche delle Camere di commercio, industria, artigianato e agricoltura.
 
 ## Art. 18. — Disposizioni procedurali
 
@@ -288,7 +568,65 @@ All'aggiornamento e alla modifica degli allegati al presente decreto che conteng
 
 ## Art. 29. — Disposizioni transitorie
 
+1.
+                        
+                            
+                                Restano efficaci fino alla data di scadenza e si considerano effettuate in ottemperanza al presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la designazione del punto di contatto nazionale prodotti, PCP-Italia, gia' istituito in attuazione del regolamento (UE) n. 764/2008, alla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino alla piena efficacia della notifica, come organismo di valutazione tecnica, dell'Organismo nazionale per la valutazione tecnica europea ITAB di cui all'articolo 7, le designazioni degli organismi di valutazione tecnica gia' effettuate, ai sensi dell'articolo 29 del regolamento (UE) n. 305/2011, alla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le autorizzazioni e le notifiche di organismi di valutazione e verifica della costanza della prestazione dei prodotti da costruzione, gia' rilasciate ed effettuate, ai sensi dell'articolo 39 del regolamento (UE) n. 305/2011, alla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le designazioni dei rappresentanti in seno al gruppo di coordinamento degli Organismi notificati, gia' effettuate, ai sensi dell'articolo 55 del regolamento (UE) n. 305/2011, alla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le designazioni dei rappresentanti in seno al Comitato permanente per le costruzioni, gia' effettuate, ai sensi dell'articolo 64 del regolamento (UE) n. 305/2011, alla data di entrata in vigore del presente decreto.
+
 Dalla data di piena efficacia della notifica dell'Organismo nazionale per la valutazione tecnica europea ITAB, di cui all'articolo 7, lo stesso subentra in tutte le funzioni, le competenze, i poteri e in tutti i rapporti inerenti la valutazione tecnica europea, intrapresi dagli organismi di cui al comma 1 dell'articolo 7.
+
+3.
+                        
+                            
+                                Nelle more dell'emanazione del decreto di cui al comma 2 dell'articolo 15, per le attivita' di cui al comma 1 svolte dal Consiglio superiore dei lavori pubblici, presso il Ministero delle infrastrutture e dei trasporti, si applicano le disposizioni di cui al decreto del Ministro delle infrastrutture e dei trasporti 26 novembre 2012, n. 267, e in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le attivita' di cui all'articolo 15, comma 1, lettera a), si applicano le disposizioni e le tariffe per lo svolgimento delle attivita' di rilascio di benestare tecnico europeo di cui all'articolo 1, comma 1, lettera n), ed allegato I, lettera N.d) del citato decreto del Ministro delle infrastrutture e dei trasporti, 26 novembre 2012, n. 267; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le attivita' di cui all'articolo 15, comma 1, lettera b), le relative tariffe sono determinate sulla base dell'effettiva attivita' svolta e quantificate per mezzo delle tariffe orarie di cui all'allegato II del suddetto decreto del Ministro delle infrastrutture e dei trasporti, 26 novembre 2012 n. 267. 
+ 3. Nelle more dell'emanazione del decreto di cui al comma 2 dell'articolo 15, per le attivita' di cui al comma 1 del medesimo articolo svolte dal Ministero dell'interno si applicano le disposizioni di cui al decreto del Ministro dell'interno 2 marzo 2012, concernente l'aggiornamento delle tariffe dovute per i servizi a pagamento resi dal Corpo nazionale dei vigili del fuoco.
 
 ## Art. 30. — Clausola di invarianza finanziaria
 

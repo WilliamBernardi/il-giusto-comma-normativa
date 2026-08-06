@@ -8,8 +8,8 @@ codice_redazionale: 012G0050
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,35 @@ Sentito il Consiglio superiore di sanita' che si e' espresso nella seduta del 14
 Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 22 dicembre 2011;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Gli allegati I e II del decreto 5 aprile 1988, n. 151 sono modificati come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'allegato I SOSTANZE CONSENTITE NELLA FABBRICAZIONE DI BASE GOMMOSA, parte II SOSTANZE AGGIUNTIVE, alla voce A) Resine e' aggiunta, dopo la voce di cui al n. 5s, la voce: «6) "Terpolimero acetato di vinile-alcool vinilico-versatato di vinile"»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'allegato II REQUISITI DI PUREZZA DELLE SOSTANZE CONSENTITE NELLA FABBRICAZIONE DI BASE GOMMOSA, parte II SOSTANZE AGGIUNTIVE, A) Resine e' aggiunto dopo gli alinea di cui al n. 5s, la voce: 
+ «6) Terpolimero acetato di vinile-alcool vinilico-versatato di vinile. 
+ Descrizione: Copolimero termoplastico inodore, insapore e incolore. 
+ Descrizione chimica: Prodotto ottenuto per copolimerizzazione di vinile acetato e vinile versatato seguita da parziale idrolisi (CH 2 -CH-COOCH3 )m (CH2 -CH-COOCCH3 R1 R2 )n (CH2 -CHOH)p . 
+ Peso molecolare: Superiore a 10000 u.m.a. (Mw). 
+ Requisiti di purezza: 
+ Piombo: 3 ppm; 
+ Arsenico: 3 ppm; 
+ Mercurio: 0,5 ppm; 
+ Cadmio: 1 ppm; 
+ Sostanze volatili: max 1% (4 h a 105 C°); 
+ Ceneri: max 0,1% (a 450 C°)».
 
 ## Art. 2.
 

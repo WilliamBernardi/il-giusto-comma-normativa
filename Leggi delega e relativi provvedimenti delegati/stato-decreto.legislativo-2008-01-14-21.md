@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2023-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -58,6 +58,59 @@ Il Ministero dell'universita' e della ricerca e il Ministero della pubblica istr
  Il D.L. 12 settembre 2013, n. 104, convertito con modificazioni dalla L. 8 novembre 2013, n. 128, ha disposto (con l'art. 8, comma 1, alinea) che le modifiche apportate al presente articolo decorrono dall'anno scolastico 2013-2014.
 
 ## Art. 3. — Percorsi di orientamento
+
+1.
+                    
+                        
+                            I percorsi di orientamento mirano prioritariamente a dare allo studente opportunita' di: 
+ 
+                        
+                        
+                            a)
+                            
+                                conoscere temi, problemi e procedimenti caratteristici in diversi campi del sapere, al fine di individuare interessi e predisposizioni specifiche e favorire scelte consapevoli in relazione ad un proprio progetto personale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                conoscere i settori del lavoro e il collegamento fra questi e le tipologie dei corsi di studio universitari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conoscere anche aree disciplinari, ambiti professionali, settori emergenti che non rientrano direttamente nei curricoli scolastici o che non sono adeguatamente conosciuti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                disporre di adeguata documentazione sui percorsi e le sedi di studio, nonche' sui servizi agli studenti nella formazione post-secondaria; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                autovalutare, verificare e consolidare le proprie conoscenze in relazione alla preparazione richiesta per i diversi corsi di studio ai quali e' interessato, a partire almeno dal penultimo anno di scuola secondaria; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                partecipare a laboratori finalizzati a valorizzare, anche con esperienze sul campo, le discipline tecnico-scientifiche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                fare esperienza di momenti significativi di vita universitaria e di misurarsi, con un diverso contesto di studio e di lavoro, anche attraverso iniziative speciali presso universita' in Italia e in Europa.
 
 I percorsi di orientamento si inseriscono strutturalmente ((nel primo biennio e)) negli ultimi tre anni di corso della scuola secondaria di secondo grado e ((nelle classi prime, seconde e terze)) della scuola secondaria di primo grado, anche utilizzando gli strumenti di flessibilita' didattica e organizzativa previsti dal decreto del Presidente della Repubblica 8 marzo 1999, n. 275 ((, dal decreto legislativo 13 aprile 2017, n. 61, e dai regolamenti di cui ai decreti del Presidente della Repubblica 15 marzo 2010, n. 88 e n. 89, nonche' specifici strumenti di supporto all'orientamento, individuati dalle linee guida adottate con decreto del Ministro dell'istruzione e del merito per potenziare le azioni nell'ambito del Piano nazionale di ripresa e resilienza. A partire dall'anno scolastico 2023/2024, nelle classi terze, quarte e quinte delle scuole secondarie di secondo grado, le attivita' di orientamento consistono in moduli curricolari anche superiori a trenta ore, nel limite delle risorse disponibili a legislazione vigente e nell'ambito del piano triennale dell'offerta formativa, da inserire anche nei percorsi per le competenze trasversali e per l'orientamento. Nel primo biennio delle scuole secondarie di secondo grado e in tutte le classi della scuola secondaria di primo grado, le attivita' di cui al secondo periodo consistono in moduli di trenta ore da svolgere in orario curricolare o extracurricolare, anche all'interno di progetti gia' in essere nell'istituzione scolastica)). (5)
 

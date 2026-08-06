@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2024-09-04;186
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -49,6 +49,31 @@ L'ISPRA e le Agenzie nominano, secondo le modalita' definite dai propri regolame
 Il responsabile svolge compiti di coordinamento delle attivita' del personale ispettivo e ogni altra funzione individuata dal presente regolamento secondo le modalita' definite dall'ISPRA e dalle Agenzie con propri regolamenti interni.
 
 ## Art. 2. — Titoli di studio del personale ispettivo
+
+1.
+                    
+                        
+                            Per l'ammissione alla selezione di cui all'articolo 1, comma 3, e' richiesto il possesso di uno dei seguenti titoli di studio: 
+ 
+                        
+                        
+                            a)
+                            
+                                diploma di laurea in materie scientifico-tecnologiche ovvero giuridiche, conseguito ai sensi degli ordinamenti didattici previgenti al decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 3 novembre 1999, n. 509; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                laurea specialistica, magistrale o triennale, in materie scientifico-tecnologiche ovvero giuridiche, conseguita presso un'universita' statale o presso un'universita' non statale abilitata a rilasciare titoli accademici aventi valore legale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                diploma di istruzione secondaria di secondo grado conseguito presso un istituto tecnico.
 
 Per coloro che abbiano conseguito il titolo di studio all'estero e' richiesto il possesso di un titolo di studio riconosciuto equipollente o equivalente a quelli di cui al comma 1, secondo la vigente normativa.
 
@@ -117,6 +142,91 @@ Modalita' per la segnalazione di illeciti ambientali
 Chiunque, in forma singola o associata, puo' segnalare all'ISPRA e alle Agenzie illeciti ambientali.
 
 Le segnalazioni sono effettuate anche mediante il modulo disponibile sui siti istituzionali dell'ISPRA e delle Agenzie.
+
+3.
+                    
+                        
+                            La segnalazione contiene, di regola e, ove possibile, i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita' del soggetto che effettua la segnalazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione dei fatti oggetto di segnalazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se conosciuti, tempo e luogo degli accadimenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                se conosciute, le generalita' o altri elementi che consentano di identificare il soggetto che ha posto in essere i fatti segnalati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indicazione di eventuali altri soggetti che possono riferire sui fatti oggetto della segnalazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'indicazione di eventuali documenti e di ogni altra informazione che possono confermare la fondatezza dei fatti segnalati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'eventuale documentazione fotografica.
+
+4.
+                    
+                        
+                            Fermo restando l'obbligo per l'ISPRA e le Agenzie di approfondire gli elementi ritenuti rilevanti, l'archiviazione delle segnalazioni puo' essere effettuata nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                manifesta infondatezza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contenuto generico e non circostanziato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                richieste genericamente riferite a interi ambiti dell'attivita' di controllo del SNPA; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                manifesta incompetenza dell'ente ricevente a provvedere sulle questioni segnalate. In tal caso, l'ente ricevente trasmette senza indugio la segnalazione all'amministrazione ritenuta competente.
 
 Anche nel caso in cui le segnalazioni siano presentate in forma anonima, e' fatto obbligo per l'ISPRA ovvero per le Agenzie di avviare le attivita' di verifica ritenute necessarie sulla base dei fatti rappresentati e le conseguenti attivita' ispettive.
 

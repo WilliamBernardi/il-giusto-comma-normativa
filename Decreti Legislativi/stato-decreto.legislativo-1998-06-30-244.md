@@ -8,8 +8,8 @@ codice_redazionale: 098G0292
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,4 +32,29 @@ IL PRESIDENTE DELLA REPUBBLICA
  1. Le funzioni di rifornimento idrico delle isole minori ricadenti nel territorio delle regioni a statuto speciale, assegnate al Ministero della difesa dall'articolo 4 della legge 21 dicembre 1978, n. 861, sono trasferite, a decorrere dall'entrata in vigore del presente decreto legislativo, alle regioni a statuto speciale.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Il Ministero della difesa, concorre al rifornimento idrico delle isole di cui all'articolo 1, comma 1, secondo le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                i presidenti delle regioni interessate promuovono accordi di programma con il Ministero della difesa per definire le condizioni di particolare necessita' idrica poste alla base del concorso, nonche' le modalita' di espletamento del relativo servizio sulla base della capacita' operativa delle apposite navi cisterna costruite ai sensi dell'articolo 1 della citata legge 21 dicembre 1978, n. 861, e dei relativi stanziamenti di bilancio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'accordo di programma e' definito con apposita conferenza di servizi convocata dalla regione, cui partecipano rappresentanti del dipartimento militare marittimo e delle province e comuni interessati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al verificarsi delle condizioni previste dall'accordo di programma i prefetti interessati chiedono al comando militare competente per territorio l'effettuazione dei rifornimenti idrici di cui all'accordo di programma stesso.
 

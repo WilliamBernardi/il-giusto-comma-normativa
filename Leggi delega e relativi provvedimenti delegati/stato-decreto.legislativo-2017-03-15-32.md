@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-03-15;32
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -50,6 +50,24 @@ All'articolo 5, dopo il comma 1, sono aggiunti i seguenti:
  1-sexies. Le informazioni che devono essere comunicate ai sensi del comma 1-bis sono trasmesse al registro centrale di cui alla lettera h-quinquies) del comma 1 dell'articolo 2.».
 
 ## Art. 2. — Modifiche al decreto del Presidente della Repubblica 29 settembre 1973, n. 600
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 31-bis, terzo comma, le parole: «7, 8 e 10» sono sostituite dalle seguenti: «7, 8, 8-bis e 10»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 31-ter, il comma 4 e' abrogato.
 
 ## Art. 3. — Clausola di invarianza finanziaria
 

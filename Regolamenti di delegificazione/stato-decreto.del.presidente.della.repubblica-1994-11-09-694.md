@@ -8,8 +8,8 @@ codice_redazionale: 094G0735
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,39 @@ Nulla e' innovato in ordine ai trapianti di cornea disciplinati dalla legge 12 a
 ## Art. 2. — Presentazione delle domande
 
 I presidi ospedalieri pubblici, gli istituti di ricovero e cura a carattere scientifico e gli istituti universitari possono presentare domanda per ottenere l'autorizzazione al trapianto di parti di cadavere prelevate in Italia o importate gratuitamente dall'estero.
+
+2.
+                    
+                        
+                            La domanda deve contenere i seguenti elementi:
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione delle parti od organi che si intende trapiantare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione delle attrezzature esistenti per l'intervento chirurgico e le attivita' precedenti e successive al trapianto, nonche' i parametri della struttura e del bacino di utenza. Per il trapianto del rene e' necessario disporre anche di attrezzature idonee per l'emodialisi, ai fini dell'assistenza ai pazienti e
+ dell'osservazione e preparazione dei soggetti in attesa di trapianto;
+                            
+                        
+                        
+                            c)
+                            
+                                la descrizione del laboratorio o dei laboratori incaricati
+della ricerca immunologica per l'istocompatibilita' fra soggetto donante e soggetto ricevente, dell'esecuzione delle prove necessarie per lo studio immunologico del soggetto ricevente sia prima che dopo il trapianto. In particolare, dovra' essere specificata la dotazione delle attrezzature esistenti e la competenza immunologica specifica del personale tecnico e scientifico;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'elenco dei sanitari responsabili dell'esecuzione diretta del trapianto e per ciascuno di essi, in relazione agli specifici compiti assegnati o svolti, la documentazione che attesti la competenza medico-chirurgica e biologica in relazione alle parti od organi da trapiantare.
 
 La domanda deve essere presentata od inviata al Ministero della sanita', di seguito denominato "Ministero".
 

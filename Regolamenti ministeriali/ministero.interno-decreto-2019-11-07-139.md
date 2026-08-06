@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-08-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,9 +41,92 @@ Il presente regolamento disciplina, in attuazione dell'articolo 5, comma 5-ter, 
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aree a rischio pirateria o acque internazionali a rischio pirateria: le aree individuate con decreto del Ministro della difesa, adottato ai sensi dell'articolo 5, comma 4, del decreto-legge 12 luglio 2011, n. 107, convertito, con modificazioni, dalla legge 2 agosto 2011, n. 130, come modificato dal decreto-legge 18 febbraio 2015, n.7, convertito, con modificazioni, dalla legge 17 aprile 2015, n. 43; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    autorita' competente: il Comando generale del Corpo delle capitanerie di porto - Guardia costiera quale autorita' competente ad attuare, coordinare e controllare le misure di sicurezza marittima, individuata con decreto del Ministro delle infrastrutture e dei trasporti del 18 giugno 2004, in attuazione del regolamento (CE) 31 marzo 2004 n. 725/2004 del Parlamento europeo e del Consiglio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    CINCNAV: il Comando in Capo della Squadra navale, di cui all'articolo 112 del decreto legislativo 15 marzo 2010, n. 66, dipendente direttamente dal Capo di Stato maggiore della Marina; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    guardie giurate: il personale, munito dell'autorizzazione di cui all'articolo 138 T.U.L.P.S., che svolge, ai sensi degli articoli 133 o 134 T.U.L.P.S., i servizi di protezione del naviglio mercantile di cui all'articolo 5, comma 4, del decreto-legge n. 107 del 2011, convertito, con modificazioni, dalla legge n. 130 del 2011; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    IMO: Organizzazione marittima internazionale, istituzione specializzata delle Nazioni Unite incaricata di assicurare la sicurezza dei trasporti marittimi, la prevenzione dell'inquinamento dei mari e dell'ambiente da parte delle navi, che ha individuato le «best management practices» di autoprotezione del naviglio mercantile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ISPS Code: il codice Internazionale per la Sicurezza delle navi e delle strutture portuali (International Ship and Port Facilities Security Code), di cui alla convenzione internazionale per la salvaguardia della vita umana in mare, fatta a Londra il 1° novembre 1974, resa esecutiva con legge 23 maggio 1980, n. 313; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    navi: le navi mercantili battenti bandiera italiana che transitano nelle acque internazionali a rischio pirateria individuate dal decreto del Ministro della difesa adottato ai sensi dell'articolo 5, comma 4, del decreto-legge n.107 del 2011, convertito, con modificazioni, dalla legge n. 130 del 2011; 
+ l) procedure tecnico-amministrative relative all'imbarco delle guardie giurate: procedure tecnico-amministrative individuate dal comandante generale del Corpo delle capitanerie di porto in relazione all'imbarco delle guardie giurate a bordo delle navi mercantili nazionali, in conformita' alle linee guida sviluppate dall'IMO ed alla normativa nazionale, comunitaria ed internazionale di settore, con decreto 23 marzo 2015, n. 307; 
+ m) regolamento per l'esecuzione del T.U.L.P.S.: il regio decreto 6 maggio 1940, n. 635, recante «Approvazione del regolamento per l'esecuzione del testo unico 18 giugno 1931, n. 773, delle leggi di pubblica sicurezza»; 
+ n) servizi di protezione del naviglio mercantile: servizi, svolti dalle guardie giurate, ai sensi dell'articolo 5, comma 4, del decreto-legge n. 107 del 2011, convertito, con modificazioni dalla legge n. 130 del 2011, a tutela delle navi mercantili, nonche' delle merci e dei valori sulle stesse trasportati, battenti bandiera italiana che transitano in acque internazionali a rischio pirateria; 
+ o) T.U.L.P.S.: il testo unico delle leggi di pubblica sicurezza di cui al regio decreto 18 giugno 1931, n. 773; 
+ p) UAMA: l'unita' per le autorizzazioni dei materiali d'armamento del Ministero degli affari esteri e della cooperazione internazionale, di cui alla legge 9 luglio 1990, n. 185 e successive modificazioni, competente per il rilascio delle autorizzazioni per l'interscambio dei materiali di armamento e per il rilascio delle certificazioni per le imprese e per gli adempimenti connessi alla materia.
+
 ## - Capo II Caratteristiche delle navi, requisiti delle guardie giurate, modalità di svolgimento dei servizi di protezione del naviglio mercantile
 
 ## Art. 3. — Caratteristiche delle navi per lo svolgimento dei servizi di protezione
+
+1.
+                        
+                            
+                                I servizi di protezione del naviglio mercantile sono svolti a bordo delle navi che hanno le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere predisposte per la difesa da atti di pirateria, mediante l'attuazione di almeno una delle vigenti «best management practices» di autoprotezione del naviglio definite dall'IMO; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere conformi ai requisiti previsti dalle disposizioni del comandante generale del Corpo delle capitanerie di porto - Guardia costiera in materia di sicurezza della navigazione (safety) e sicurezza marittima (maritime security), adottate in relazione alle competenze in materia di sicurezza della navigazione attribuite dall'articolo 3 della legge 28 gennaio 1994, n. 84; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere predisposte per la custodia delle armi e delle munizioni secondo le previsioni di cui all'articolo 13, comma 1.
 
 ## Art. 4. — Requisiti delle guardie giurate
 
@@ -54,6 +137,24 @@ I servizi di protezione del naviglio mercantile sono svolti dalle guardie giurat
 
 ## Art. 5. — Armi utilizzabili nei servizi di protezione del naviglio mercantile
 
+1.
+                        
+                            
+                                Le guardie giurate dipendenti dall'armatore ovvero dall'istituto di vigilanza privata, nominate rispettivamente ai sensi degli articoli 133 e 134 T.U.L.P.S., nei servizi di protezione del naviglio mercantile possono utilizzare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le armi comuni da sparo, nonche' le armi, anche a funzionamento automatico, in dotazione delle navi, detenute dall'armatore previo rilascio di apposita autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le armi comuni da sparo detenute dal titolare dell'istituto di vigilanza privata previo rilascio di apposita autorizzazione.
+
 Le armi, comprese quelle a funzionamento automatico, non possono essere di calibro superiore a 308 Win. (7,62 x 51 mm).
 
 ## Art. 6.
@@ -61,6 +162,31 @@ Le armi, comprese quelle a funzionamento automatico, non possono essere di calib
 Modalita' di svolgimento dei servizi di protezione del naviglio mercantile
 
 Le modalita' di svolgimento dei servizi di protezione del naviglio mercantile sono stabilite dal regolamento di servizio redatto secondo quanto previsto dall'allegato D del decreto del Ministro dell'interno 1° dicembre 2010, n. 269, approvato dal Questore della provincia ove ha sede l'istituto di vigilanza privata, ovvero, per le guardie giurate dipendenti dagli armatori, dal Questore della provincia in cui ha sede la societa' di armamento.
+
+2.
+                        
+                            
+                                Il regolamento di servizio di cui al comma 1, deve comunque prevedere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che il numero delle guardie giurate impiegate a bordo delle navi deve essere sempre adeguato in rapporto alle esigenze di difesa e rapportato alla tipologia di nave, alle merci ed ai valori trasportati ed al numero ed alla tipologia dei sistemi di autoprotezione attivati a bordo, ai sensi dell'articolo 5, comma 5, del decreto-legge 12 luglio 2011, n. 107, convertito, con modificazioni, dalla legge 2 agosto 2011, n. 130 e comunque, tenuto conto anche dei limiti di utilizzo delle armi di cui al successivo comma 4, non inferiore a tre. Il numero delle guardie giurate impiegate a bordo deve altresi' essere idoneo a garantire il rispetto della vigente normativa in tema di orario di lavoro, riposo, lavoro straordinario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che per ogni nucleo di guardie giurate impiegato a bordo della nave deve essere nominato un responsabile (team leader), individuato nella guardia avente maggiore esperienza, cui e' affidata l'organizzazione operativa del nucleo stesso, nel rispetto di quanto previsto dal regolamento di servizio e secondo le direttive del comandante della nave al quale lo stesso si deve sempre rapportare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un esplicito rinvio alle procedure tecnico-amministrative relative all'imbarco delle guardie giurate individuate dal comandante generale del Corpo delle capitanerie di porto - Guardia costiera, ai sensi del decreto dirigenziale 23 marzo 2015, n. 307;
 
 Il titolare dell'istituto di vigilanza, nell'ipotesi di cui all'articolo 134 T.U.L.P.S., ovvero l'armatore, nell'ipotesi di cui all'articolo 133 del medesimo Testo unico, quando le guardie giurate sono imbarcate direttamente nei porti degli Stati confinanti con le aree a rischio pirateria, comunicano al Questore che ha approvato il regolamento di servizio, le generalita' delle guardie giurate che debbono svolgere il servizio, la nave sulla quale operano, la durata del servizio, i porti di imbarco e sbarco.
 
@@ -84,9 +210,59 @@ Il titolare dell'istituto di vigilanza privata puo' altresi' acquistare il muniz
 
 Ai fini del rilascio delle autorizzazioni di cui agli articoli 7 e 8, l'armatore o il titolare dell'istituto di vigilanza privata presentano la relativa istanza all'Autorita' di pubblica sicurezza competente ai sensi dei predetti articoli 7, comma 1, e 8, comma 1, utilizzando il modello di cui all'allegato A, che e' parte integrante del presente regolamento.
 
+2.
+                        
+                            
+                                Ottenute le autorizzazioni di cui agli articoli 7 o 8, l'armatore o il titolare dell'istituto di vigilanza privata comunicano, utilizzando il modello di cui all'allegato B, che e' parte integrante del presente regolamento, per via telematica a mezzo di posta elettronica certificata inviata almeno quarantotto ore prima dell'imbarco, all'autorita' competente ed al Questore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'inizio del servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'itinerario della nave in cui sono imbarcate le guardie giurate, con l'indicazione dei porti di imbarco e sbarco; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la dichiarazione di conformita' della nave, resa conformemente al modello di dichiarazione di cui al predetto allegato B.
+
 ## Art. 10. — Registrazione e custodia delle armi e delle munizioni nel territorio nazionale
 
 L'armatore o il titolare dell'istituto di vigilanza privata, muniti delle autorizzazioni di cui agli articoli 7 o 8, possono detenere sul territorio nazionale le armi e le munizioni di cui all'articolo 5 previo rilascio della licenza per la custodia, ai sensi degli articoli 31 e 47 T.U.L.P.S., fermi restando gli obblighi di registrazione di cui agli articoli 35 e 55 del medesimo testo unico. L'autorizzazione oltre ad indicare il numero, il tipo, la marca e la matricola delle armi, stabilisce il tipo ed il quantitativo massimo di munizioni che possono essere detenute in custodia, ai sensi delle vigenti disposizioni in materia. Il titolare dell'autorizzazione e' responsabile della custodia delle armi e delle munizioni.
+
+2.
+                        
+                            
+                                I locali per la custodia delle armi e del relativo munizionamento devono avere le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere sistemati in locali interni, ubicati in modo da consentire il controllo degli accessi, muniti di porte blindate e di aperture ugualmente blindate, oppure dotati di inferriate e grate metalliche di sicurezza e disporre di adeguati congegni di allarme e di videosorveglianza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le porte devono essere munite di finestrelle con cristalli blindati o grata per i controlli dall'esterno; l'impianto di illuminazione artificiale deve essere permanentemente in funzione ed essere corredato di interruttore esterno e di dispositivi di illuminazione d'emergenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le attrezzature e le misure antincendio, conformi alle prescrizioni degli organi competenti, sono sistemate all'interno ed all'esterno del locale.
 
 Per la custodia delle munizioni si applicano le disposizioni di cui all'articolo 2 dell'allegato B, capitolo VI, al regolamento per l'esecuzione del T.U.L.P.S., nei limiti di cui agli articoli 1 e 3 del medesimo capitolo VI.
 
@@ -119,6 +295,31 @@ Si applicano, in quanto compatibili, le disposizioni di cui agli articoli 10 e 1
 Con le autorizzazioni di cui agli articoli 7 e 8 possono essere autorizzati anche l'imbarco e lo sbarco delle armi e delle munizioni a bordo delle navi nei porti degli Stati le cui acque territoriali sono confinanti con le aree a rischio pirateria.
 
 Per le armi imbarcate ai sensi del comma 1, si applicano gli obblighi di registrazione di cui all'articolo 11, comma 2.
+
+3.
+                        
+                            
+                                Il Comandante ovvero l'armatore, secondo le disposizioni normative degli Stati dei porti di imbarco e sbarco delle guardie giurate e la disciplina delle acque interne di transito o di sosta della nave, devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    munirsi dei permessi e delle autorizzazioni necessarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assolvere ad ogni altro adempimento previsto dalla legislazione degli Stati dei porti d'imbarco e sbarco, inclusi quelli relativi all'imbarco ed allo sbarco delle armi e delle munizioni a bordo della nave; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inviare, con congruo anticipo, alle autorita' competenti degli Stati nelle cui acque interne la nave programma il transito, una comunicazione relativa al quantitativo e alla tipologia delle armi imbarcate ai sensi del presente decreto, con la precisa indicazione della rotta programmata nelle acque interne dello Stato.
 
 Il Comandante ovvero l'armatore sono altresi' tenuti a comunicare al CINCNAV, all'UAMA, nonche' all'Autorita' diplomatico-consolare territorialmente competente, con congruo anticipo, i movimenti della nave previsti nelle aree a rischio pirateria, comprese le direttrici di transito e i porti di sosta, il numero di armi, con le relative descrizioni, e delle guardie giurate imbarcate, la loro nazionalita' e ogni altro elemento utile al fine di consentire una piena conoscenza del traffico nazionale nell'area.
 

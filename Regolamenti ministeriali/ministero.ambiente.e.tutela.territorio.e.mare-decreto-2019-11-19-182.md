@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2019-11-19;18
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,7 +34,113 @@ Ai sensi e per gli effetti dell'articolo 228 del decreto legislativo 3 aprile 20
 
 Le disposizioni di cui al Capo II del presente decreto si applicano ai produttori e agli importatori che immettono pneumatici nel mercato del ricambio, come definito all'articolo 2, comma 1, lettera e). Le disposizioni di cui al Capo III si applicano agli pneumatici montati su veicoli ricadenti nel campo di applicazione del decreto legislativo 24 giugno 2003, n. 209 o dell'articolo 231 del decreto legislativo 3 aprile 2006, n. 152.
 
+3.
+                        
+                            
+                                Sono esclusi dagli obblighi previsti dal presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli pneumatici per bicicletta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le camere d'aria, i relativi protettori (flap) e le guarnizioni in gomma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli pneumatici per aeroplani e aeromobili in genere.
+
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si applicano le definizioni di cui all'articolo 183 del decreto legislativo 3 aprile 2006, n. 152, nonche' le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pneumatici: componenti delle ruote dei veicoli costituiti da un involucro elastico di gomma, rinforzato da tele, reti metalliche o altri materiali, destinato a contenere fluidi in pressione ovvero camere d'aria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pneumatici fuori uso (PFU): gli pneumatici, rimossi dal loro impiego a qualunque punto della loro vita, dei quali il detentore si disfi, abbia deciso o abbia l'obbligo di disfarsi, e che non sono fatti oggetto di ricostruzione o di successivo riutilizzo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    immesso sul mercato: il quantitativo di pneumatici introdotti sul territorio nazionale a mezzo di produzione o importazione, ai fini della vendita con qualunque modalita', compresa la comunicazione a distanza con modalita' anche telematiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    mercato: il mercato, riferito al territorio nazionale, comprensivo del mercato del ricambio e del mercato di primo equipaggiamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mercato del ricambio: mercato in cui vengono commercializzati pneumatici nuovi, usati o ricostruiti diversi da quelli di cui alla lettera f), destinati all'installazione sui veicoli; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    mercato di primo equipaggiamento: mercato in cui vengono ceduti ai costruttori di veicoli gli pneumatici destinati all'installazione su veicoli nuovi o montati su veicoli importati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    produttore o importatore degli pneumatici: la persona fisica o giuridica che produce o importa pneumatici, immettendoli sul mercato ai fini della vendita; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    produttore o importatore neo operante: il produttore o importatore degli pneumatici che inizia l'attivita' nell'anno solare in cui il contributo ambientale viene determinato e applicato per la prima volta; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    generatore degli PFU: la persona fisica o giuridica che, nell'esercizio della propria attivita' imprenditoriale, genera PFU; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    veicoli: mezzi, sia con motore che senza, che necessitano degli pneumatici per muoversi o controllare il movimento, anche operanti sul suolo privato; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    rappresentante autorizzato: la persona fisica, domiciliata nel territorio nazionale, o la persona giuridica, stabilita sul territorio nazionale, alla quale il produttore o l'importatore di pneumatici, anche neo operante, non avente sede legale in Italia conferisce mandato con rappresentanza per l'adempimento degli obblighi di cui all'articolo 228 del decreto legislativo 3 aprile 2006, n. 152.
 
 ## - Capo II Disposizioni relative al mercato del ricambio
 

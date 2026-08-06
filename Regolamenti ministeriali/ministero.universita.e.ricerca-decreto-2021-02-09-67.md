@@ -7,8 +7,8 @@ urn: urn:nir:ministero.universita.e.ricerca:decreto:2021-02-09;67
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,6 +27,52 @@ Acquisiti i pareri della VII Commissione del Senato della Repubblica reso in dat
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «Ministro», il Ministro dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Legge», la legge 21 dicembre 1999, n. 508, concernente la riforma delle Accademie di belle arti, dell'Accademia nazionale di danza, dell'Accademia nazionale di arte drammatica, degli Istituti superiori per le industrie artistiche, dei Conservatori di musica e degli Istituti musicali pareggiati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Istituzioni», l'Accademia nazionale di arte drammatica, l'Accademia nazionale di danza, le Accademie di belle arti statali, gli Istituti superiori per le industrie artistiche (ISIA) e gli Istituti superiori di studi musicali (ISSM); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Istituti autorizzati a rilasciare titoli ai sensi dell'articolo 11 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212», le Accademie legalmente riconosciute e le Istituzioni non statali che annoverano singoli corsi accreditati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «CNAM», il Consiglio nazionale per l'alta formazione artistica e musicale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «CUN», il Consiglio universitario nazionale.
+
 ## Art. 2. — Competenze
 
 Il CNAM e' organo consultivo del Sistema dell'alta formazione e specializzazione artistica e musicale. Esso esercita le attribuzioni di cui agli articoli 2 e 3 della Legge e ogni altra attribuzione prevista dalla normativa di riferimento.
@@ -34,6 +80,94 @@ Il CNAM e' organo consultivo del Sistema dell'alta formazione e specializzazione
 ## Art. 3. — Composizione
 
 Il CNAM e' composto da 27 membri, di cui 25 eletti in rappresentanza del personale docente e non docente e degli studenti e due designati dal Ministro. I componenti sono nominati con decreto del Ministro, durano in carica quattro anni e possono essere confermati solo per un altro mandato consecutivo. In caso di assenze ingiustificate per due sedute consecutive il componente decade dall'incarico.
+
+2.
+                    
+                        
+                            Le rappresentanze elettive del CNAM sono cosi' individuate: 
+ 
+                        
+                        
+                            a)
+                            
+                                cinque rappresentanti del personale docente delle Accademie di belle arti statali, ivi incluse le Accademie non statali di belle arti di cui all'articolo 19, commi 4 e 5-bis, del decreto-legge 12 settembre 2013, n. 104, convertito, con modificazioni, dalla legge 8 novembre 2013, n. 128; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                due rappresentanti dei direttori degli Istituti autorizzati a rilasciare titoli ai sensi dell'articolo 11 del decreto del Presidente della Repubblica 8 luglio 2005, n. 212, di cui uno per il settore delle arti visive e del design e uno per il settore musicale, coreutico e dello spettacolo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante del personale docente degli ISIA; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del personale docente dell'Accademia nazionale di arte drammatica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante del personale docente dell'Accademia nazionale di danza nelle discipline attinenti all'arte coreutica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                nove rappresentanti del personale docente degli Istituti superiori di studi musicali, dei pianisti e dei percussionisti accompagnatori dell'Accademia nazionale di danza; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante del personale amministrativo e tecnico dell'area EP delle predette Istituzioni che applicano il contratto collettivo di comparto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante degli studenti delle Accademie di belle arti statali; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                un rappresentante degli studenti degli Istituti superiori di studi musicali; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                un rappresentante degli studenti degli Istituti superiori per le industrie artistiche; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                un rappresentante degli studenti dell'Accademia nazionale di arte drammatica; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                un rappresentante degli studenti dell'Accademia nazionale di danza.
 
 La nomina a componente del CNAM e' incompatibile con incarichi sindacali, con incarichi presso il Ministero dell'universita' e della ricerca, e con incarichi presso l'Agenzia nazionale di valutazione del sistema universitario e della ricerca. A tal fine la presentazione di candidature di rappresentanti sindacali, o di titolari di incarichi presso il MUR o presso l'ANVUR, e' corredata da una dichiarazione di opzione per la nomina a componente CNAM in caso di elezione.
 

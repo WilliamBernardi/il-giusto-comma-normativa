@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2007-12-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,11 +28,197 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'eco
 
 ## Art. 1. — Finalita'
 
+1.
+                    
+                        
+                            Il presente decreto assicura la trasparenza delle relazioni finanziarie tra i poteri pubblici e le imprese pubbliche mediante la documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                delle assegnazioni di risorse pubbliche operate dai poteri pubblici direttamente alle imprese pubbliche interessate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle assegnazioni di risorse pubbliche effettuate da parte dei poteri pubblici tramite imprese pubbliche od enti finanziari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                della utilizzazione effettiva di tali risorse pubbliche.
+
+2.
+                    
+                        
+                            Fatte salve le norme comunitarie specifiche, il presente decreto assicura altresi' che la struttura finanziaria ed organizzativa delle imprese soggette all'obbligo di tenere una contabilita' separata risulti correttamente documentata da tale contabilita', in modo che emergano chiaramente:
+ 
+                        
+                        
+                            a)
+                            
+                                i costi e i ricavi relativi alle distinte attivita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                i metodi dettagliati con i quali detti costi e ricavi sono imputati o attribuiti alle distinte attivita'.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                "poteri pubblici", le amministrazioni dello Stato, le regioni, comprese le regioni a statuto speciale, e le province autonome di Trento e di Bolzano, gli enti locali e gli altri enti pubblici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "impresa pubblica", ogni impresa nei confronti della quale i poteri pubblici possono esercitare, direttamente o indirettamente, un'influenza dominante per ragioni di proprieta', di partecipazione finanziaria o della normativa che la disciplina;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "imprese pubbliche attive nel settore manifatturiero", tutte le imprese la cui principale area di attivita', corrispondente almeno al 50 per cento del fatturato annuo totale, rientra nel settore manifatturiero. Si tratta delle imprese le cui operazioni rientrano nell'allegato sezione D - attivita' manifatturiere, da sottosezione DA a sottosezione DN compresa, della classificazione NACE (Rev 1), annesso al regolamento (CEE) n. 3037/90 del Consiglio, del 9 ottobre 1990, relativo alla classificazione statistica delle attivita' economiche nelle Comunita' europee, e successive modifiche;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "impresa soggetta all'obbligo di tenere una contabilita' separata", ogni impresa che fruisce di diritti speciali o esclusivi riconosciuti da uno Stato membro a norma dell'articolo 86, paragrafo 1, del trattato o e' incaricata della gestione di servizi di interesse economico generale a norma dell'articolo 86, paragrafo 2, del trattato, che riceve compensazioni in qualsiasi forma per prestazioni di servizio pubblico in relazione a tali servizi e che esercita anche altre attivita'; 
+                            
+                        
+                        
+                            e)
+                            
+                                "attivita' distinte", da un lato, le attivita' relative ai prodotti o servizi per i quali ad un'impresa sono stati riconosciuti diritti speciali o esclusivi ovvero relative ai servizi di interesse economico generale della cui gestione l'impresa e' stata incaricata e, dall'altro, le attivita' relative a ogni altro prodotto o servizio svolte dall'impresa medesima;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "diritti esclusivi", i diritti riconosciuti ad un'impresa mediante qualsiasi disposizione legislativa, regolamentare o amministrativa che riserva alla stessa, con riferimento ad una determinata area geografica, la facolta' di prestare un servizio o esercitare un'attivita';
+
+                            
+                        
+                        
+                            g)
+                            
+                                "diritti speciali", i diritti riconosciuti ad un numero limitato di imprese mediante qualsiasi disposizione legislativa, regolamentare o amministrativa che, con riferimento ad una determinata area geografica, congiuntamente o disgiuntamente:
+ 1) limita a due o piu', senza osservare criteri di
+ oggettivita', proporzionalita' e non discriminazione, il numero delle
+imprese autorizzate a prestare un dato servizio o una data attivita';
+2) designa, senza osservare detti criteri, varie imprese
+concorrenti come soggetti autorizzati a prestare un dato servizio o esercitare una data attivita';
+ 3) conferisce, senza osservare detti criteri, ad una o piu' imprese determinati vantaggi, previsti da leggi o regolamenti, che pregiudicano in modo sostanziale la capacita' di ogni altra impresa di prestare il medesimo servizio o esercitare la medesima attivita' nella stessa area geografica a condizioni sostanzialmente equivalenti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                "direttiva", la direttiva 80/723/CEE, come modificata da ultimo dalla direttiva 2000/52/CE, relativa alla trasparenza delle relazioni finanziarie tra gli Stati membri e le loro imprese pubbliche e alla trasparenza finanziaria all'interno di talune imprese;
+
+                            
+                        
+                        
+                            i)
+                            
+                                "trattato" e' il trattato istitutivo della Comunita' europea.
 
 ## Art. 3. — Influenza dominante
 
+1.
+                    
+                        
+                            L'influenza che i poteri pubblici possono esercitare su un'impresa pubblica si presume dominante qualora i poteri pubblici si trovino nei riguardi dell'impresa, direttamente o indirettamente, almeno in una delle seguenti situazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                detengano la maggioranza del capitale sottoscritto dell'impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dispongano della maggioranza dei voti attribuiti alle quote emesse dall'impresa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                possano designare piu' della meta' dei membri dell'organo di amministrazione, di direzione o di vigilanza dell'impresa.
+
 ## Art. 4. — Assegnazione di risorse
+
+1.
+                    
+                        
+                            Ai fini della trasparenza delle relazioni finanziarie costituiscono assegnazioni di risorse:
+ 
+                        
+                        
+                            a)
+                            
+                                il ripiano di perdite di esercizio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i conferimenti in capitale sociale o dotazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i conferimenti a fondo perduto od i prestiti a condizioni privilegiate;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la concessione di vantaggi finanziari sotto forma di non percezione dei benefici o di non restituzione dei crediti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la rinuncia ad una remunerazione normale delle risorse pubbliche impiegate;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la compensazione di oneri imposti dai poteri pubblici.
 
 Le assegnazioni di risorse debbono risultare con le modalita' previste all'articolo 5.
 
@@ -45,6 +231,31 @@ Le imprese pubbliche destinatarie iscrivono le assegnazioni di risorse in apposi
 Le assegnazioni di risorse pubbliche erogate tramite imprese pubbliche ovvero tramite enti finanziatori sono registrate sia dai poteri pubblici, sia dal soggetto intermediario, sia dal soggetto ultimo beneficiario, nello stesso termine di cui ai commi 1 e 2.
 
 ## Art. 6. — Contabilita' separata
+
+1.
+                    
+                        
+                            Le imprese soggette all'obbligo di tenere una contabilita' separata sono tenute altresi':
+ 
+                        
+                        
+                            a)
+                            
+                                alla separazione dei conti interni corrispondenti alle attivita' distinte;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla corretta imputazione o attribuzione dei costi e dei ricavi, sulla base di principi di contabilita' dei costi applicati in modo coerente e obiettivamente giustificati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla chiara definizione dei principi di contabilita' dei costi, in base ai quali sono tenuti i conti separati.
 
 Le imprese soggette all'obbligo di tenere una contabilita' separata predispongono una relazione sui sistemi di contabilita' dei costi applicati, da tenere a disposizione della Commissione europea.
 
@@ -62,6 +273,60 @@ I dati di cui ai commi 1 e 2, nonche' i relativi elementi di valutazione eventua
 
 Per le imprese pubbliche attive nel settore manifatturiero le informazioni di carattere finanziario di cui al comma 2 sono fornite alla Commissione su base annua e nei termini di cui al comma 4.
 
+2.
+                    
+                        
+                            Le informazioni di carattere finanziario richieste per ciascuna impresa pubblica attiva nel settore manifatturiero e secondo le modalita' specificate nel comma 3 sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                la relazione sulla gestione e i conti annuali, ai sensi della quarta direttiva 78/660/CEE del Consiglio, del 25 luglio 1978, relativa ai conti annuali di taluni tipi di societa'. I conti annuali e la relazione sulla gestione comprendono lo stato patrimoniale, il conto economico e la nota integrativa, unitamente alla prassi contabile, alle dichiarazioni degli amministratori, alle relazioni settoriali e sull'attivita', nonche' le comunicazioni in merito alle riunioni degli azionisti ed eventuali altre informazioni salienti.
+Sono inoltre forniti i dati indicati nelle lettere seguenti, se e in quanto essi non sono stati inseriti nella relazione sulla gestione e nei conti annuali delle singole imprese pubbliche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la disponibilita' di capitale azionario o di fondi assimilabili al capitale sociale, con la specificazione delle forme in cui si configura tale disponibilita', avendo riguardo tra l'altro alle azioni ordinarie, privilegiate, postergate o convertibili, nonche' ai relativi tassi d'interesse, dividendi e diritti di conversione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le sovvenzioni non rimborsabili o rimborsabili solo a certe condizioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la concessione all'impresa di prestiti, compresi scoperti, nonche' anticipi su apporti di capitale, precisando i tassi d'interesse e le condizioni del prestito, nonche' l'eventuale garanzia fornita al mutuante dall'impresa beneficiaria;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le garanzie fornite all'impresa dai poteri pubblici per i prestiti, con la specificazione delle condizioni e degli oneri a carico delle imprese per tali garanzie;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i dividendi versati e gli utili trattenuti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le eventuali altre forme di intervento pubblico, compresa la rinuncia alla percezione di somme dovute ai poteri pubblici da un'impresa pubblica per il rimborso di prestiti e sussidi, il pagamento di imposte sulle societa', di oneri sociali o altri oneri analoghi.
+
 Le informazioni richieste al comma 2 sono fornite per tutte le imprese, il cui fatturato per l'anno finanziario piu' recente e' risultato superiore a 250 milioni di euro. Le informazioni sopra richieste vengono fornite separatamente per le singole imprese, comprese quelle situate in altri Stati membri, e comprendono all'occorrenza i particolari relativi a tutte le operazioni intra ed intergruppo tra diverse imprese pubbliche, nonche' quelle svoltesi direttamente tra le imprese e i poteri pubblici. Il capitale azionario di cui al comma 2, lettera b), comprende il capitale azionario proveniente direttamente dai poteri pubblici e quello eventualmente fornito da una holding o altre imprese pubbliche, compresi gli istituti finanziari, esterne o interne allo stesso gruppo ad una determinata impresa pubblica. Va sempre specificato il rapporto tra la fonte dei finanziamenti e il beneficiario.
 Analogamente le informazioni di cui al comma 2 sono fornite separatamente per le singole imprese, nonche' per la societa' holding, o sub-holding, che raggruppa varie imprese, se le vendite consolidate di tale societa' inducono a classificarla nella categoria delle imprese manifatturiere sopra definita. Per le imprese che dividono le proprie attivita' tra varie societa' giuridicamente distinte e' ammessa un'unica relazione consolidata. Il consolidamento dovra' riflettere la realta' economica di un gruppo di imprese che svolgono la propria attivita' nello stesso settore o in settori strettamente collegati. Non sono sufficienti le relazioni consolidate provenienti da diverse societa' holding aventi natura puramente finanziaria.
 
@@ -72,4 +337,61 @@ Sono fornite alla Commissione le eventuali altre informazioni che essa ritenga n
 Per gli adempimenti previsti dal presente articolo continuano ad applicarsi le modalita' vigenti.
 
 ## Art. 9. — Esclusioni
+
+1.
+                    
+                        
+                            Sono escluse dagli obblighi di trasparenza di cui agli articoli 5 e 7, comma 1, le assegnazioni di risorse effettuate dai poteri pubblici nei confronti degli enti di seguito indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                la Banca d'Italia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli enti creditizi pubblici, in relazione ai depositi di fondi pubblici effettuati dai poteri pubblici alle normali condizioni di mercato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le imprese pubbliche, per quanto riguarda la prestazione di servizi che non sono atti ad incidere sensibilmente sugli scambi fra gli Stati membri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le imprese pubbliche il cui fatturato netto totale annuo non ha raggiunto 40 milioni di euro negli ultimi due esercizi finanziari precedenti quello dell'assegnazione o dell'utilizzazione delle risorse. Per gli enti creditizi pubblici, questa soglia corrisponde ad un bilancio totale pari a 800 milioni di euro.
+
+2.
+                    
+                        
+                            Sono escluse dagli obblighi di trasparenza di cui agli articoli 6 e 7, comma 2, le imprese di seguito indicate:
+ 
+                        
+                        
+                            a)
+                            
+                                le imprese la cui prestazione di servizi non e' atta ad incidere sensibilmente sugli scambi tra gli Stati membri;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le imprese il cui fatturato netto totale annuo e' stato inferiore a 40 milioni di euro negli ultimi due esercizi finanziari precedenti l'esercizio in cui fruiscono di un diritto speciale o esclusivo riconosciuto ai sensi dell'articolo 86, paragrafo 1, del trattato CE, o in cui sono incaricate della gestione di un servizio di interesse economico generale ai sensi dell'articolo 86, paragrafo 2, del trattato CE. Per gli enti creditizi pubblici questa soglia corrisponde ad un bilancio totale di 800 milioni di euro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le imprese che sono state incaricate della gestione di servizi d'interesse economico generale a norma dell'articolo 86, paragrafo 2, del trattato CE se gli aiuti di Stato che ricevono in qualsivoglia forma, sia contributi, sia sussidi, sia indennizzi, sono stati fissati per un periodo appropriato con una procedura pubblica, trasparente e non discriminatoria.
 

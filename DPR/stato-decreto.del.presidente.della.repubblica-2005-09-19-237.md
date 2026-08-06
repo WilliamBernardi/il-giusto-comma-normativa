@@ -8,8 +8,8 @@ codice_redazionale: 005G0262
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,31 @@ Il programma di assistenza di cui all'articolo 13 della legge 11 agosto 2003, n.
 
 Il programma di cui al comma 1 e' realizzato, a cura delle regioni, dagli enti locali o dai soggetti privati con questi convenzionati, dietro presentazione alla Commissione di cui all'articolo 3 di progetti di fattibilita' indicanti i tempi, le modalita' e gli obiettivi che si intendono conseguire, nonche' le strutture organizzative e logistiche specificamente destinate.
 
+3.
+                    
+                        
+                            I progetti di cui al comma 2, che tengono altresi' conto delle eventuali esigenze collegate alla tipologia delle vittime, alla loro eta' e al tipo di sfruttamento subito, devono prevedere in ogni caso:
+ 
+                        
+                        
+                            a)
+                            
+                                fornitura alle vittime di alloggio e ricovero in strutture ad indirizzo segreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                disponibilita' per le vittime di servizi socio-sanitari di pronto intervento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                convenzioni con gli enti impegnati in programmi di assistenza e integrazione sociale ai sensi dell'articolo 18 del decreto legislativo 25 luglio 1998, n. 286, in programmi di rientro volontario assistito e comunque con i servizi sociali degli enti locali.
+
 I progetti attivati a norma del presente articolo hanno una durata di tre mesi e sono prorogabili per un ulteriore periodo di pari durata da parte della Commissione di cui all'articolo 3.
 
 I soggetti privati che intendono svolgere attivita' di assistenza per le finalita' di cui all'articolo 13 della legge n. 228 del 2003 devono essere iscritti nel registro di cui all'articolo 52, comma 1, lettera b), del decreto del Presidente della Repubblica 31 agosto 1999, n. 394, e successive modificazioni, e stipulare apposita convenzione con le regioni o gli enti locali di riferimento.
@@ -48,7 +73,104 @@ Il programma di assistenza e' finanziato, previa valutazione dei progetti di fat
 
 I progetti di fattibilita' sono valutati, ai fini dell'ammissione al finanziamento di cui all'articolo 2, dalla Commissione di cui all'articolo 25, comma 2, del decreto del Presidente della Repubblica 31 agosto 1999, n. 394, integrata allo scopo da due rappresentanti designati dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, sulla base dei criteri di cui al presente regolamento.
 
+2.
+                    
+                        
+                            La Commissione di cui al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                esprime parere sugli schemi tipo di convenzioni stipulate tra le regioni o gli enti locali e gli enti privati che intendono realizzare i progetti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica lo stato di attuazione degli stessi sulla base di una relazione trasmessa con cadenza semestrale dalle regioni o dagli enti locali di riferimento alla Commissione e avvalendosi di una scheda di monitoraggio predisposta dalla Commissione medesima.
+
 ## Art. 4. — Indicatori per la valutazione dei progetti di fattibilita'
+
+1.
+                    
+                        
+                            La presentazione dei progetti di fattibilita' di cui all'articolo 1, comma 2, deve essere corredata da:
+ 
+                        
+                        
+                            a)
+                            
+                                una relazione illustrativa sulla tipologia e la natura degli interventi con le indicazioni circa:
+ 1) gli obiettivi da conseguire, i tempi di realizzazione e le varie fasi in cui si articola il progetto;
+ 2) le metodologie utilizzate e la tipologia delle azioni;
+ 3) i destinatari dei progetti e la rete dei soggetti pubblici e privati coinvolti;
+ 4) le risorse umane utilizzate e le strutture, gli immobili e le attrezzature occorrenti, i costi previsti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                una analisi costi-benefici relativa alla finalita' da perseguire indirizzata verso i seguenti indicatori:
+ 1) numero di persone destinatarie;
+ 2) effetto moltiplicatore;
+ 3) trasferibilita' dei risultati;
+ 4) promozione delle buone pratiche;
+
+                            
+                        
+                        
+                            c)
+                            
+                                una scheda contenente tutti i dati relativi alla natura ed alle caratteristiche del soggetto attuatore se diverso dal proponente, con l'indicazione delle esperienze maturate.
+
+2.
+                    
+                        
+                            La Commissione, tenuto conto dei criteri generali di cui all'articolo 1, comma 3, valuta i progetti mediante i seguenti indicatori:
+ 
+                        
+                        
+                            a)
+                            
+                                esperienza e capacita' organizzativa del proponente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                articolazione e consistenza delle strutture logistiche di accoglienza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                previsione di forme di partenariato o di collaborazione istituzionale con altri soggetti che operano nella materia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                localizzazione del progetto in zone a piu' alta diffusione del fenomeno;
+
+                            
+                        
+                        
+                            e)
+                            
+                                carattere innovativo del progetto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ottimale rapporto costi/benefici.
 
 La Commissione provvede alla valutazione dei progetti entro novanta giorni dalla scadenza del termine per la loro presentazione.
 

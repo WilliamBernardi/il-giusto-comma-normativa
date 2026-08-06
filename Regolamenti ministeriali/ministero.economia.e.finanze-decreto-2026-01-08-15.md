@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2026-01-08;15
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -64,6 +64,52 @@ La Banca d'Italia ha facolta', informandone il Ministero dell'economia e delle f
 
 Modalita' di versamento in tesoreria di somme in euro
 
+1.
+                        
+                            
+                                Il versamento delle somme in euro destinate al bilancio dello Stato o ai conti di tesoreria e' effettuato mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    bonifico bancario o postale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    versamento su conto corrente postale intestato alla tesoreria dello Stato gestito per il tramite di procedure informatiche, secondo quanto stabilito con decreto del Ministro dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    versamento unitario delle imposte, dei contributi e delle altre somme mediante delega di pagamento ai sensi del decreto legislativo 9 luglio 1997, n. 241; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la piattaforma tecnologica di cui all'articolo 5, comma 2, del decreto legislativo 7 marzo 2005, n. 82; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    operazioni di girofondi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ogni altro strumento previsto da legge o regolamento, secondo la relativa disciplina e salvo buon fine.
+
 I soggetti versanti possono provvedere al pagamento in contanti agli intermediari abilitati, esclusivamente nelle casistiche di cui alle lettere b), c) e d) del comma 1.
 
 Per i versamenti effettuati tramite conto corrente postale, bonifico e altri strumenti che utilizzano le tecnologie dell'informazione e della comunicazione, le ricevute di versamento hanno efficacia liberatoria per i debitori, fatto salvo il caso di cui all'articolo 7. Per i versamenti effettuati mediante girofondi viene emessa ricevuta di quietanza informatica, ai sensi dell'articolo 8, avente medesima efficacia liberatoria per i debitori.
@@ -115,6 +161,66 @@ Per i versamenti finalizzati al bilancio dello Stato, alle contabilita' speciali
 
 ## Art. 9. — Contenuto delle quietanze di entrata
 
+1.
+                        
+                            
+                                Le quietanze informatiche sono contraddistinte da un numero identificativo univoco e riportano, secondo regole definite con decreto del Ministro dell'economia e delle finanze, almeno i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome, nome, denominazione o ragione sociale del versante, qualita' della persona e denominazione dell'ente o soggetto per conto del quale e' fatto il versamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    importo versato in cifre; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    causale del versamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    estremi di imputazione al bilancio dello Stato o alle contabilita' speciali e conti correnti di tesoreria, nonche' ai conti correnti di tesoreria unica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    limitatamente alle quietanze relative ai versamenti al bilancio dello Stato, l'imputazione in conto competenza o residui; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    data di emissione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    codice fiscale del debitore, se posseduto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    codice versante, se previsto.
+
 ## Art. 10. — Variazioni alle quietanze di entrata
 
 Le richieste di rettifiche di imputazione dei documenti di entrata per versamenti al bilancio dello Stato sono presentate dagli interessati al competente ufficio del sistema delle Ragionerie, che, effettuate le necessarie verifiche, invia le variazioni alla Banca d'Italia con disposizioni informatiche.
@@ -158,6 +264,38 @@ Gli ordini recanti data di esigibilita' 31 dicembre sono eseguiti l'ultimo giorn
 ## Art. 15.
 
 Modalita' di estinzione delle disposizioni di pagamento
+
+1.
+                        
+                            
+                                Le disposizioni di pagamento di cui all'articolo 54 del regio decreto 18 novembre 1923, n. 2440, si estinguono a seguito dell'esecuzione degli ordinativi informatici trasmessi alla Banca d'Italia, in una delle seguenti modalita' di riconoscimento delle somme dovute agli aventi diritto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accredito su conto di pagamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contanti presso gli sportelli di Poste Italiane S.p.A. e degli altri soggetti abilitati, nei limiti previsti dalla legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    girofondi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assegni a copertura garantita.
 
 ## Art. 16. — Accredito su conto di pagamento
 
@@ -219,9 +357,66 @@ Ogni altra spesa di importo e scadenza fissi e accertati, ove previsto dalla nor
 
 ## Art. 23. — Presupposti dell'emissione degli assegni a copertura garantita
 
+1.
+                        
+                            
+                                L'estinzione delle disposizioni di pagamento con assegni a copertura garantita, ai sensi dell'articolo 55, comma 2, del regio decreto 18 novembre 1923, n. 2440, e' ammessa al ricorrere di entrambe le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disposizione di pagamento emessa in esecuzione di un provvedimento giurisdizionale di condanna al pagamento di una somma di denaro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impossibilita' di acquisire i dati del conto di pagamento del creditore.
+
 ## Art. 24. — Notifica dell'emissione degli assegni a copertura garantita
 
 L'amministrazione che emette la disposizione di pagamento di cui all'articolo 23, notifica al creditore e al procuratore costituito nel procedimento giurisdizionale presupposto, con modalita' che garantiscano la prova certa della ricezione, di avere emesso una disposizione di pagamento da estinguersi con assegno a copertura garantita. Qualora non si conosca il domicilio del creditore, la notifica al creditore e' validamente effettuata presso il procuratore costituito nel procedimento giurisdizionale presupposto, come risultante agli atti di causa.
+
+2.
+                        
+                            
+                                Nella notifica di cui al comma 1 sono indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la giacenza delle somme riportate sull'assegno presso gli sportelli del prestatore dei servizi di pagamento incaricato dove e' possibile ritirare l'assegno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' per l'estinzione dell'assegno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esatta indicazione del termine di prescrizione del diritto per il quale l'assegno viene emesso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'avvertenza che i fondi a copertura dell'assegno saranno garantiti fino al verificarsi della prescrizione del diritto per il quale l'assegno viene emesso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il codice univoco da presentare allo sportello del prestatore dei servizi di pagamento per la consegna dell'assegno.
 
 La notifica di cui al comma 1 ha valore di offerta reale ai sensi dell'articolo 68 del regio decreto 18 novembre 1923, n. 2440, e produce l'effetto di messa in mora del creditore, sollevando l'amministrazione da qualsiasi responsabilita' per il mancato incasso.
 

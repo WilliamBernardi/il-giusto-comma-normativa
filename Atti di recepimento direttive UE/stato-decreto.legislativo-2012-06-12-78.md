@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -27,9 +27,233 @@ Sulla proposta del Ministro per gli affari europei e del Ministro delle infrastr
 
 ## Art. 1. — Oggetto e ambito di applicazione
 
+1.
+                        
+                            
+                                Il presente decreto disciplina le attrezzature a pressione trasportabili, al fine di migliorare la sicurezza e garantire la libera circolazione di tali attrezzature nell'Unione europea e si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle nuove attrezzature a pressione trasportabili di nuova fabbricazione, definite nell'articolo 2, comma 1, che non recano i marchi di conformita' di cui alle direttive 84/525/CEE, 84/526/CEE e 84/527/CEE, recepite con il decreto del Ministro dei trasporti 7 aprile 1986, o alla direttiva 1999/36/CE, attuata con decreto legislativo 2 febbraio 2002, n. 23, per quanto riguarda la messa a disposizione sul mercato di tali attrezzature; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle attrezzature a pressione trasportabili definite nell'articolo 2, comma 1, che recano i marchi di conformita' alla direttiva 2010/35/UE, o alle direttive 84/525/CEE, 84/526/CEE e 84/527/CEE, recepite con il decreto del Ministro dei trasporti 7 aprile 1986, o alla direttiva 1999/36/CE, attuata con decreto legislativo 2 febbraio 2002, n. 23, per quanto riguarda le ispezioni periodiche, le ispezioni intermedie, le verifiche straordinarie e l'uso di tali attrezzature; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle attrezzature a pressione trasportabili definite nell'articolo 2, comma 1, che non recano i marchi di conformita' di cui alla direttiva 1999/36/CE, attuata con decreto legislativo 2 febbraio 2002, n. 23, per quanto riguarda la rivalutazione della conformita'.
+
 Il presente decreto non si applica alle attrezzature a pressione trasportabili immesse sul mercato in data antecedente al 9 marzo 2002 o alle date antecedenti a quelle previste dall'articolo 15 del decreto legislativo 2 febbraio 2002, n. 23, che non sono state sottoposte ad una rivalutazione della conformita' e a quelle utilizzate esclusivamente per operazioni di trasporto di merci pericolose tra gli Stati membri dell'Unione europea e Paesi terzi, effettuate ai sensi dell'articolo 4 del decreto legislativo 27 gennaio 2010, n. 35, di attuazione della direttiva 2008/68/CE.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attrezzature a pressione trasportabili: 
+ 1) tutti i recipienti a pressione, i loro rubinetti e gli altri accessori, se presenti, di cui al punto 6.2 degli allegati alla direttiva 2008/68/CE, definiti alla lettera b) del presente comma, se utilizzati conformemente a tali allegati per il trasporto di gas della classe 2, esclusi i gas o gli oggetti con codici di classificazione contenenti le cifre 6 e 7, nonche' per il trasporto delle sostanze pericolose di altre classi indicate nell'allegato I del presente decreto; 
+ 2) le cisterne, i veicoli e vagoni batteria, i contenitori per gas a elementi multipli (MEGC), i loro rubinetti e altri accessori, se presenti, di cui al punto 6.8 degli allegati alla direttiva 2008/68/CE, definiti alla lettera b) del presente comma, se utilizzati conformemente a tali allegati per il trasporto di gas della classe 2, esclusi i gas o gli oggetti con codici di classificazione contenenti le cifre 6 e 7, nonche' per il trasporto delle sostanze pericolose di altre classi indicate nell'allegato I al presente decreto; 
+ 3) le cartucce di gas (n. ONU 2037), esclusi i diffusori di aerosol (n. ONU 1950), i recipienti criogenici aperti, le bombole per gas per apparecchi di respirazione, gli estintori (n. ONU 1044), le attrezzature a pressione trasportabili soggette a esenzione a norma del punto 1.1.3.2. degli allegati alla direttiva 2008/68/CE, definiti alla lettera b) del presente comma e le attrezzature a pressione trasportabili soggette a esenzione dalle prescrizioni per la costruzione e il collaudo degli imballaggi, secondo le disposizioni speciali di cui al punto 3.3. dei citati allegati alla direttiva 2008/68/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    allegati alla direttiva 2008/68/CE, limitatamente a: 
+ 1) allegato I capo I. 1.: allegati A e B all'ADR come applicabili a decorrere dal 1° gennaio 2011, restando inteso che i termini «parte contraente» sono sostituiti dai termini «Stato membro»; 
+ 2) allegato II capo II. 1.: allegato al RID che figura come appendice C alla Convenzione relativa ai trasporti internazionali per ferrovia, applicabile con effetto dal 1° gennaio 2011, restando inteso che «Stato contraente del RID» e' sostituito da «Stato membro»; 
+ 3) allegato III capo III. 1.: i regolamenti allegati all'ADN, applicabili con effetto a decorrere dal 1° gennaio 2011, cosi' come l'articolo 3, lettere f) e b), e l'articolo 8, paragrafi 1 e 3, dell'ADN, nei quali «parte contraente» e' sostituito da «Stato membro»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    immissione sul mercato: la prima messa a disposizione di attrezzature a pressione trasportabili sul mercato dell'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    messa a disposizione sul mercato: qualsiasi fornitura di attrezzature a pressione trasportabili per la distribuzione o l'uso sul mercato dell'Unione europea nel corso di un'attivita' commerciale o di servizio pubblico, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    uso: il riempimento, lo stoccaggio temporaneo legato al trasporto, lo svuotamento e il nuovo riempimento di attrezzature a pressione trasportabili; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ritiro: qualsiasi provvedimento volto ad impedire la messa a disposizione sul mercato o l'uso di attrezzature a pressione trasportabili; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    richiamo: qualsiasi provvedimento volto ad ottenere la restituzione di attrezzature a pressione trasportabili che sono state gia' rese disponibili all'utilizzatore finale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    fabbricante: ogni persona fisica o giuridica che fabbrica attrezzature a pressione trasportabili o parti di esse, oppure che le fa progettare o fabbricare, e le commercializza apponendovi il proprio nome o marchio; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    rappresentante autorizzato: ogni persona fisica o giuridica stabilita nell'Unione europea che ha ricevuto dal fabbricante un mandato scritto che la autorizza ad agire per suo conto in relazione a determinati compiti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    importatore: ogni persona fisica o giuridica stabilita nell'Unione europea che immette sul mercato dell'Unione europea attrezzature a pressione trasportabili o parti di esse provenienti da un Paese terzo; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    distributore: ogni persona fisica o giuridica stabilita nell'Unione europea, diversa dal fabbricante o dall'importatore, che mette a disposizione sul mercato attrezzature a pressione trasportabili; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    proprietario: ogni persona fisica o giuridica stabilita nell'Unione europea che ha piena disponibilita' delle attrezzature a pressione trasportabili; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    operatore: ogni persona fisica o giuridica stabilita nell'Unione europea che utilizza attrezzature a pressione trasportabili; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    operatore economico: il fabbricante, il rappresentante autorizzato, l'importatore, il distributore, il proprietario o l'operatore che intervengono nel corso di un'attivita' commerciale o di servizio pubblico a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    valutazione della conformita': la valutazione e la procedura di valutazione della conformita' stabilite negli allegati alla direttiva 2008/68/CE; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    marchio Pi: un marchio che indica che le attrezzature a pressione trasportabili sono conformi ai requisiti applicabili in materia di valutazione della conformita' stabiliti negli allegati alla direttiva 2008/68/CE e al presente decreto; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    rivalutazione della conformita': la procedura avviata, su richiesta del proprietario o dell'operatore, per valutare a posteriori la conformita' delle attrezzature a pressione trasportabili fabbricate e immesse sul mercato anteriormente alla data di applicazione alla direttiva 1999/36/CE; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    ispezione periodica: l'ispezione periodica e le procedure che disciplinano le ispezioni periodiche previste dagli allegati alla direttiva 2008/68/CE; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    ispezione intermedia: l'ispezione intermedia e le procedure che disciplinano le ispezioni intermedie previste dagli allegati alla direttiva 2008/68/CE; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    verifica straordinaria: la verifica straordinaria e le procedure che disciplinano le verifiche straordinarie previste dagli allegati alla direttiva 2008/68/CE; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    organismo nazionale di accreditamento: l'organismo autorizzato in Italia a svolgere attivita' di accreditamento, individuato con decreto del Ministero dello sviluppo economico del 22 dicembre 2009 (ACCREDIA); 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    accreditamento: attestazione da parte dell'organismo nazionale di accreditamento, che certifica che un determinato organismo notificato soddisfa i criteri stabiliti al punto 1.8.6.8, secondo comma, degli allegati alla direttiva 2008/68/CE; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    autorita' di notifica: il Ministero delle infrastrutture e dei trasporti, secondo quanto disposto all'articolo 17, comma 1, del presente decreto; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    organismo notificato: un organismo di ispezione che soddisfa i criteri degli allegati della direttiva 2008/68/CE e le condizioni di cui agli articoli 20 e 26 del presente decreto e che sia notificato ai sensi dell'articolo 22; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    notifica: la procedura che conferisce ad un organismo di ispezione la qualifica di organismo notificato, compresa la comunicazione di tale informazione alla Commissione europea e agli Stati membri dell'Unione europea; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    vigilanza del mercato: le attivita' svolte ed i provvedimenti adottati dalle autorita' pubbliche per garantire che le attrezzature a pressione trasportabili, durante il loro ciclo di vita, siano conformi ai requisiti stabiliti nella direttiva 2008/68/CE e nel presente decreto e non pregiudichino la salute, la sicurezza o qualsiasi altro aspetto della protezione del pubblico interesse; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    autorita' di vigilanza del mercato: il Ministero delle infrastrutture e dei trasporti.
 
 ## Art. 3. — Requisiti a livello locale
 
@@ -56,6 +280,31 @@ I fabbricanti forniscono informazioni soltanto agli operatori che soddisfano i r
 ## Art. 5. — Rappresentanti autorizzati
 
 I fabbricanti possono conferire mandato, in forma scritta, ad un rappresentante autorizzato, secondo quanto previsto al comma 2. Non possono costituire oggetto di mandato gli obblighi di cui all'articolo 4, commi 1 e 2, del presente decreto e la stesura della prescritta documentazione tecnica.
+
+2.
+                        
+                            
+                                Il rappresentante autorizzato esegue i compiti specificati nel mandato ricevuto dal fabbricante. Il mandato consente al rappresentante autorizzato di eseguire almeno i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantenere a disposizione dell'autorita' di vigilanza la documentazione tecnica almeno per il periodo specificato negli allegati alla direttiva 2008/68/CE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a seguito di una richiesta motivata dell'autorita' competente, fornire a tale autorita' tutte le informazioni e la documentazione necessarie a dimostrare la conformita' delle attrezzature a pressione trasportabili in lingua italiana; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cooperare con l'autorita' competente, su richiesta della medesima, a qualsiasi azione intrapresa per eliminare i rischi presentati dalle attrezzature a pressione trasportabili che rientrano nel mandato.
 
 L'identita' e l'indirizzo del rappresentante autorizzato figurano nel certificato di conformita' di cui agli allegati alla direttiva 2008/68/CE.
 
@@ -114,6 +363,24 @@ Un importatore o distributore e' ritenuto un fabbricante ai fini del presente de
 
 ## Art. 11. — Identificazione degli operatori economici
 
+1.
+                        
+                            
+                                Gli operatori economici, su richiesta dell'autorita' di vigilanza del mercato, per un periodo di almeno dieci anni, identificano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualsiasi operatore economico che abbia fornito loro attrezzature a pressione trasportabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi operatore economico al quale abbiano fornito attrezzature a pressione trasportabili.
+
 ## - Capo III Conformita' delle attrezzature a pressione trasportabili
 
 ## Art. 12. — Conformita' delle attrezzature a pressione trasportabili 
@@ -136,6 +403,24 @@ Il marchio Pi e' apposto in conformita' a quanto prescritto nell'allegato III al
 ## Art. 14. — Principi generali del marchio Pi
 
 Il marchio Pi e' apposto solo dal fabbricante o, nei casi di rivalutazione della conformita', secondo le indicazioni di cui all'allegato III. Per le bombole per gas precedentemente conformi alle direttive 84/525/CEE, 84/526/ o 84/527/CEE, recepite con il decreto del Ministro dei trasporti 7 aprile 1986, il marchio Pi e' apposto dall'organismo notificato o sotto la sua sorveglianza.
+
+2.
+                        
+                            
+                                Il marchio Pi e' apposto esclusivamente sulle attrezzature a pressione trasportabili che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    soddisfano i requisiti di valutazione della conformita' di cui agli allegati alla direttiva 2008/68/CE e al presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfano i requisiti di rivalutazione della conformita' di cui all'articolo 13.
 
 Apponendo o facendo apporre il marchio Pi, il fabbricante si assume la responsabilita' della conformita' delle attrezzature a pressione trasportabili a tutti i requisiti stabiliti negli allegati alla direttiva 2008/68/CE e nel presente decreto.
 
@@ -198,6 +483,38 @@ L'organismo notificato partecipa alle attivita' di standardizzazione pertinenti 
 
 L'organismo di ispezione presenta una domanda di notifica all'autorita' di notifica nazionale.
 
+2.
+                        
+                            
+                                Tale domanda e' accompagnata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalla descrizione delle attivita' di valutazione della conformita', d'ispezione periodica, d'ispezione intermedia, di verifica straordinaria e di rivalutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla descrizione delle procedure relative alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalla descrizione delle attrezzature a pressione trasportabili, per le quali l'organismo dichiara di essere competente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del certificato di accreditamento, rilasciato dall'organismo di accreditamento, ai sensi del regolamento (CE) n. 765/2008, che attesti che l'organismo di ispezione e' conforme ai requisiti stabiliti nell'articolo 20 del presente decreto.
+
 ## Art. 22. — Procedura di notifica
 
 L'autorita' di notifica provvede alla notifica esclusivamente per organismi che siano conformi ai requisiti stabiliti nell'articolo 20 del presente decreto.
@@ -240,6 +557,38 @@ Gli organismi notificati da uno Stato membro dell'Unione europea sono autorizzat
 
 ## Art. 27. — Obblighi di informazione degli organismi notificati
 
+1.
+                        
+                            
+                                Gli organismi notificati comunicano all'autorita' di notifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualunque rifiuto, limitazione, sospensione o ritiro di un certificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualunque circostanza che incida sull'ambito e sulle condizioni della notifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali richieste di informazioni sulle attivita' eseguite, che abbiano ricevuto dalle autorita' di vigilanza del mercato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su richiesta, le attivita' eseguite nell'ambito della loro notifica e qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
+
 Gli organismi notificati forniscono agli altri organismi notificati a norma del presente decreto, che eseguono simili attivita' di valutazione della conformita', di ispezione periodica, di ispezione intermedia e di verifica straordinaria, che riguardano le stesse attrezzature a pressione trasportabili, pertinenti informazioni sulle questioni relative ai risultati negativi e, su richiesta, ai risultati positivi della valutazione della conformita'.
 
 ## Art. 28. — Coordinamento degli organismi notificati
@@ -257,6 +606,24 @@ L'autorita' di vigilanza del mercato, se ritiene che la non conformita' non sia 
 L'operatore economico garantisce l'adozione di tutte le opportune misure correttive nei confronti delle attrezzature a pressione trasportabili che ha messo a disposizione sul mercato dell'Unione europea.
 
 Qualora l'operatore economico interessato non adotti le misure correttive adeguate nel termine assegnato dall'autorita' di vigilanza del mercato, l'autorita' stessa adotta tutte le opportune misure provvisorie per inibire o limitare la messa a disposizione delle attrezzature a pressione trasportabili sul mercato, per ritirarle dal mercato o richiamarle, senza oneri a carico dell'Amministrazione interessata. L'autorita' informa tempestivamente la Commissione europea e gli altri Stati dell'Unione europea dei provvedimenti adottati.
+
+5.
+                        
+                            
+                                Le informazioni di cui al comma 4 includono tutti i particolari disponibili, soprattutto i dati necessari all'identificazione delle attrezzature a pressione trasportabili non conformi, l'origine di tali attrezzature, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure adottate, nonche' le motivazioni formulate dall'operatore economico interessato. In particolare, l'autorita' di vigilanza del mercato indica se la non conformita' sia dovuta a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancato rispetto delle attrezzature a pressione trasportabili dei requisiti relativi alla salute o alla sicurezza delle persone o ad altri aspetti della protezione del pubblico interesse, stabiliti negli allegati alla direttiva 2008/68/CE e nel presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    carenze nelle norme o nei codici tecnici di cui agli allegati alla direttiva 2008/68/CE o ad altre disposizioni di detta direttiva.
 
 ## Art. 30. — Procedura di salvaguardia dell'Unione
 
@@ -276,6 +643,38 @@ L'operatore economico garantisce l'adozione di misure correttive nei confronti d
 L'autorita' competente informa immediatamente la Commissione europea e gli altri Stati membri dell'Unione europea. Tali informazioni includono, in particolare, i dati necessari all'identificazione delle attrezzature a pressione trasportabili interessate, l'origine e la catena di fornitura delle attrezzature, la natura del rischio connesso, nonche' la natura e la durata delle misure adottate.
 
 ## Art. 32. — Non conformita' formale
+
+1.
+                        
+                            
+                                Fatto salvo quanto disposto dall'articolo 29, l'autorita' di vigilanza del mercato chiede all'operatore interessato di porre fine allo stato di non conformita' in questione, qualora giunga ad una delle seguenti conclusioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il marchio Pi e' stato apposto in violazione di quanto previsto dagli articoli 12, 13, 14 e 15 del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il marchio Pi non e' stato apposto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione tecnica non e' disponibile o e' incompleta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i requisiti degli allegati alla direttiva 2008/68/CE e del presente decreto non sono stati rispettati.
 
 Se la non conformita' di cui al comma 1 permane, l'autorita' di vigilanza del mercato adotta tutte le misure appropriate per limitare o proibire le messa a disposizione sul mercato delle attrezzature a pressione trasportabili o garantisce che siano richiamate o ritirate dal mercato.
 
@@ -305,6 +704,99 @@ Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con i
 Le tariffe sono determinate in base al principio di copertura del costo effettivo del servizio e sono aggiornate almeno ogni tre anni.
 
 ## Art. 37. — Sanzioni
+
+1.
+                        
+                            
+                                L'operatore economico, di cui all'articolo 2, comma 1, lettera p), del presente decreto che produce, immette sul mercato o immette in servizio attrezzature a pressione trasportabili, rientranti nell'ambito di applicazione del presente decreto, che non rispettano i requisiti di sicurezza stabiliti dalla normativa vigente in materia ovvero che non siano state sottoposte alle valutazioni di conformita' o di idoneita' previste dal presente decreto ovvero che siano equipaggiate con rubinetti ed altri accessori non rispondenti alle prescrizioni di sicurezza previste per tali accessori, e' soggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se trattasi di recipienti in cui il prodotto della pressione di prova per la capacita' e' inferiore o pari a 30 MPa × litro (300 bar × litro), alla sanzione amministrativa del pagamento di una somma da cinquemila euro a trentamila euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se trattasi di recipienti in cui il prodotto della pressione di prova per la capacita' e' superiore a 30 e inferiore o pari a 150 MPa × litro (rispettivamente 300 e 1.500 bar × litro), alla sanzione amministrativa del pagamento di una somma da settemilacinquecento euro a quarantacinquemila euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se trattasi di recipienti in cui il prodotto della pressione di prova per la capacita' e' superiore a 150 MPa × litro (1.500 bar × litro), nonche' le cisterne, alla sanzione amministrativa del pagamento di una somma da diecimila euro a sessantamila euro.
+
+2.
+                        
+                            
+                                Le sanzioni di cui al comma 1 sono determinate tenendo conto del numero degli esemplari delle attrezzature, come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se trattasi di bombole od incastellature di bombole, si applicano in misura intera per lotto, o gruppo, costituito da duecento esemplari; per lotto o gruppo costituito da un numero inferiore a duecento esemplari, sono ridotte dello zerotrepercento (0,3%) per ciascun esemplare mancante al raggiungimento di duecento esemplari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se trattasi di tubi, fusti in pressione o recipienti criogenici, si applicano in misura intera per gruppo costituito da venti esemplari; per gruppo costituito da un numero inferiore a venti esemplari sono ridotte del tre per cento (3%) per ciascun esemplare mancante al raggiungimento di venti esemplari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se trattasi di cisterne, si applicano in misura intera per ciascun esemplare.
+
+3.
+                        
+                            
+                                I totali delle somme delle sanzioni derivanti dall'applicazione dei commi 1 e 2 sono determinati inoltre in funzione delle caratteristiche di pericolosita' dei gas che sono destinati ad essere contenuti nei recipienti stessi, come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono aumentati della meta' se i recipienti sono destinati a contenere gas assegnati ad uno dei gruppi T, TF, TC, TO, TFC, TOC di cui agli allegati della direttiva 2008/68/CE, ovvero delle seguenti sostanze pericolose: cianuro d'idrogeno stabilizzato (ONU 1051), fluoruro d'idrogeno anidro (ONU 1052) e acido fluoridrico (ONU 1790); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono ridotti della meta' se i recipienti sono destinati a contenere gas assegnati al gruppo A di cui agli allegati alla direttiva 2008/68/CE.
+
+4.
+                        
+                            
+                                Chiunque appone indebitamente od in maniera difforme, da quanto prescritto dal presente decreto, il marchio Pi di cui all'articolo 14, e' soggetto, ferme restando le sanzioni penali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se trattasi di recipienti di cui al comma 1, lettera a), alla sanzione amministrativa del pagamento di una somma da mille euro a seimila euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se trattasi di recipienti di cui al comma 1, lettera b), alla sanzione amministrativa del pagamento di una somma da millecinquecento euro a novemila euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se trattasi di recipienti di cui al comma 1, lettera c), alla sanzione amministrativa del pagamento di una somma da duemila euro a dodicimila euro.
 
 Le sanzioni di cui al comma 4 sono determinate tenendo conto delle disposizioni di cui ai commi 1 e 2.
 

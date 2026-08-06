@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -38,11 +38,270 @@ Le forme pensionistiche complementari di cui al presente decreto limitano le pro
 
 L'adesione alle forme pensionistiche complementari disciplinate dal presente decreto e' libera e volontaria.
 
+3.
+                    
+                        
+                            Ai fini del presente decreto s'intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "forme pensionistiche complementari collettive": le forme di cui agli articoli 3, comma 1, lettere da a) a h), e 12, che hanno ottenuto l'autorizzazione all'esercizio dell'attivita' da parte della COVIP, e di cui all'articolo 20, iscritte all'apposito albo, alle quali e' possibile aderire collettivamente o individualmente e con l'apporto di quote del trattamento di fine rapporto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "forme pensionistiche complementari individuali": le forme di cui all'articolo 13, che hanno ottenuto l'approvazione del regolamento da parte della COVIP alle quali e' possibile destinare quote del trattamento di fine rapporto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "COVIP": la Commissione di vigilanza sui fondi pensione, istituita ai sensi dell'articolo 18, di seguito denominata: "COVIP"; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
+ 1) "AEAP" ((o "EIOPA")): Autorita' europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 2) "ABE" ((o "EBA")): Autorita' bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 3) "AESFEM" ((o "ESMA")): Autorita' europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
+ 4) "Comitato congiunto": il Comitato congiunto delle Autorita' europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
+ 5) "CERS" ((o "ESRB")): Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
+ 6) "Autorita' di vigilanza degli Stati membri": le autorita' competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010; 
+
+                            
+                        
+                        
+                            c-ter)
+                            
+                                "aderenti" o "iscritti": le persone, diverse dai beneficiari, che hanno aderito a una forma pensionistica complementare; 
+
+                            
+                        
+                        
+                            c-quater)
+                            
+                                "beneficiari": le persone che percepiscono le prestazioni pensionistiche; 
+
+                            
+                        
+                        
+                            c-quinquies)
+                            
+                                "funzione fondamentale": nell'ambito del sistema di governo di una forma pensionistica complementare una capacita' interna di svolgere compiti pratici: un sistema di governo comprende, tra le funzioni fondamentali, la funzione di gestione dei rischi, la funzione di revisione interna e la funzione attuariale; 
+
+                            
+                        
+                        
+                            c-sexies)
+                            
+                                "impresa promotrice": un'impresa o un altro organismo, a prescindere dal fatto che comprenda o sia composto da una o piu' persone giuridiche o fisiche, che agisce in qualita' di datore di lavoro o di lavoratore autonomo, oppure una loro combinazione, e che offre una forma pensionistica o versa contributi a una forma; 
+
+                            
+                        
+                        
+                            c-septies)
+                            
+                                "potenziali aderenti": le persone che hanno diritto ad aderire a una forma pensionistica complementare; 
+
+                            
+                        
+                        
+                            c-octies)
+                            
+                                "rischi biometrici": rischi relativi a morte, invalidita' e longevita'; 
+
+                            
+                        
+                        
+                            c-nonies)
+                            
+                                "rischio operativo": il rischio di perdite derivanti dall'inadeguatezza o dalla disfunzione di procedure interne, risorse umane o sistemi oppure da eventi esogeni; 
+
+                            
+                        
+                        
+                            c-decies)
+                            
+                                "Stato membro": uno Stato membro dell'Unione europea o uno Stato aderente allo Spazio economico europeo, come tale equiparato allo Stato membro dell'Unione europea; 
+
+                            
+                        
+                        
+                            c-undecies)
+                            
+                                "Stato membro di origine": lo Stato membro in cui la forma pensionistica e' stata registrata o autorizzata e in cui e' situata la sua amministrazione principale e, cioe', il luogo in cui sono adottate le principali decisioni strategiche; 
+
+                            
+                        
+                        
+                            c-duodecies)
+                            
+                                "Stato membro ospitante": lo Stato membro il cui diritto della sicurezza sociale e del lavoro pertinente in materia di schemi pensionistici aziendali o professionali si applica al rapporto tra l'impresa promotrice e gli aderenti o i beneficiari; 
+
+                            
+                        
+                        
+                            c-terdecies)
+                            
+                                "Stato aderente allo Spazio economico europeo": uno Stato aderente all'accordo di estensione della normativa dell'Unione europea in materia, fra l'altro, di circolazione delle merci, dei servizi e dei capitali agli Stati appartenenti all'Associazione europea di libero scambio firmato ad Oporto il 2 maggio 1992 e ratificato con legge 28 luglio 1993, n. 300; 
+
+                            
+                        
+                        
+                            c-quaterdecies)
+                            
+                                "attivita' transfrontaliera": l'attivita' che comporta la gestione di uno schema pensionistico in cui il rapporto tra impresa promotrice e gli aderenti e i beneficiari e' disciplinato dal diritto della sicurezza sociale e del lavoro pertinente in materia di schemi pensionistici aziendali o professionali di uno Stato membro diverso dallo Stato membro di origine; 
+
+                            
+                        
+                        
+                            c-quinquiesdecies)
+                            
+                                "supporto durevole": uno strumento che permetta ai potenziali aderenti, aderenti o beneficiari di conservare le informazioni a loro fornite in modo che possano essere accessibili per la futura consultazione e per un periodo di tempo adeguato ai fini cui sono destinate le informazioni, e che consenta la riproduzione senza modifiche delle informazioni conservate;
+                            
+                        
+                        
+                            d)
+                            
+                                "TFR": il trattamento di fine rapporto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "TUIR": il testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
+
 Le forme pensionistiche complementari sono attuate mediante la costituzione, ai sensi dell'articolo 4, di appositi fondi o di patrimoni separati, la cui denominazione deve contenere l'indicazione di "fondo pensione", la quale non puo' essere utilizzata da altri soggetti.
 
 ## Art. 2. — Destinatari
 
+1.
+                    
+                        
+                            Alle forme pensionistiche complementari possono aderire in modo individuale o collettivo: 
+ 
+                        
+                        
+                            a)
+                            
+                                i lavoratori dipendenti, sia privati sia pubblici, anche secondo il criterio di appartenenza alla medesima impresa, ente, gruppo di imprese, categoria, comparto o raggruppamento, anche territorialmente delimitato, o diversa organizzazione di lavoro e produttiva, ivi compresi i lavoratori assunti in base alle tipologie contrattuali previste dal decreto legislativo ((15 giugno 2015, n. 81)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i lavoratori autonomi e i liberi professionisti, anche organizzati per aree professionali e per territorio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i soci lavoratori di cooperative, anche unitamente ai lavoratori dipendenti dalle cooperative interessate; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i soggetti destinatari del decreto legislativo 16 settembre 1996, n. 565, anche se non iscritti al fondo ivi previsto.
+
+2.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto possono essere istituite: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i soggetti di cui al comma 1, lettere a), c) e d), esclusivamente forme pensionistiche complementari in regime di contribuzione definita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i soggetti di cui al comma 1, lettera b), anche forme pensionistiche complementari in regime di prestazioni definite, volte ad assicurare una prestazione determinata con riferimento al livello del reddito ovvero a quello del trattamento pensionistico obbligatorio.
+
 ## Art. 3. — Istituzione delle forme pensionistiche complementari
+
+1.
+                    
+                        
+                            Le forme pensionistiche complementari possono essere istituite da: 
+ 
+                        
+                        
+                            a)
+                            
+                                contratti e accordi collettivi, anche aziendali, limitatamente, per questi ultimi, anche ai soli soggetti o lavoratori firmatari degli stessi, ovvero, in mancanza, accordi fra lavoratori, promossi da sindacati firmatari di contratti collettivi nazionali di lavoro; accordi, anche interaziendali per gli appartenenti alla categoria dei quadri, promossi dalle organizzazioni sindacali nazionali rappresentative della categoria, membri del Consiglio nazionale dell'economia e del lavoro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                accordi fra lavoratori autonomi o fra liberi professionisti, promossi da loro sindacati o da associazioni di rilievo almeno regionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                regolamenti di enti o aziende, i cui rapporti di lavoro non siano disciplinati da contratti o accordi collettivi, anche aziendali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le regioni, le quali disciplinano il funzionamento di tali forme pensionistiche complementari con legge regionale nel rispetto della normativa nazionale in materia; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                accordi fra soci lavoratori di cooperative, promossi da associazioni nazionali di rappresentanza del movimento cooperativo legalmente riconosciute; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                accordi tra soggetti destinatari del decreto legislativo 16 settembre 1996, n. 565, promossi anche da loro sindacati o da associazioni di rilievo almeno regionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                gli enti di diritto privato di cui ai decreti legislativi 30 giugno 1994, n. 509, e 10 febbraio 1996, n. 103, con l'obbligo della gestione separata, sia direttamente sia secondo le disposizioni di cui alle lettere a) e b); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i soggetti di cui all'articolo ((1, comma 1, lettere e) e o), del decreto legislativo 24 febbraio 1998, n. 58, all'articolo 1, comma 2, lettere a) e c), del decreto legislativo 1° settembre 1993, n. 385, aventi sede legale o succursale in Italia, e all'articolo 1, comma 1, lettera u), del decreto legislativo 7 settembre 2005, n. 209, operanti mediante ricorso alle gestioni di cui al ramo VI dei rami vita,)) limitatamente ai fondi pensione aperti di cui all'articolo 12; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                i soggetti di cui all'articolo 13, limitatamente alle forme pensionistiche complementari individuali.
 
 Per il personale dipendente dalle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, le forme pensionistiche complementari possono essere istituite mediante i contratti collettivi di cui al titolo III del medesimo decreto legislativo. Per il personale dipendente di cui all'articolo 3, comma 1, del medesimo decreto legislativo, le forme pensionistiche complementari possono essere istituite secondo le norme dei rispettivi ordinamenti ovvero, in mancanza, mediante accordi tra i dipendenti stessi promossi da loro associazioni.
 
@@ -50,7 +309,35 @@ Le fonti istitutive delle forme pensionistiche complementari stabiliscono le mod
 
 ## Art. 4. — Costituzione dei fondi pensione ed autorizzazione all'esercizio
 
+1.
+                    
+                        
+                            I fondi pensione sono costituiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                come soggetti giuridici di natura associativa, ai sensi dell'articolo 36 del codice civile, distinti dai soggetti promotori dell'iniziativa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                come soggetti dotati di personalita' giuridica; in tale caso, in deroga alle disposizioni del decreto del Presidente della Repubblica 10 febbraio 2000, n. 361, il riconoscimento della personalita' giuridica consegue al provvedimento di autorizzazione all'esercizio dell'attivita' adottato dalla COVIP; per tali fondi pensione, la COVIP cura la tenuta del registro delle persone giuridiche e provvede ai relativi adempimenti.
+
 I fondi pensione istituiti ai sensi dell'articolo 3, comma 1, lettere g), h) e i), possono essere costituiti altresi' nell'ambito della singola societa' o del singolo ente attraverso la formazione, con apposita deliberazione, di un patrimonio di destinazione, separato ed autonomo, nell'ambito della medesima societa' od ente, con gli effetti di cui all'articolo 2117 del codice civile.
+
+3.
+                    
+                        
+                            L'esercizio dell'attivita' dei fondi pensione di cui all'articolo 3, comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                a h), e' subordinato alla preventiva autorizzazione da parte della COVIP, la quale trasmette al Ministro del lavoro e delle politiche sociali e al Ministro dell'economia e delle finanze l'esito del procedimento amministrativo relativo a ciascuna istanza di autorizzazione; i termini per il rilascio del provvedimento che concede o nega l'autorizzazione sono fissati in sessanta giorni dalla data di ricevimento da parte della COVIP dell'istanza e della prescritta documentazione ovvero in trenta giorni dalla data di ricevimento dell'ulteriore documentazione eventualmente richiesta entro trenta giorni dalla data di ricevimento dell'istanza; la COVIP puo' determinare con proprio regolamento le modalita' di presentazione dell'istanza, i documenti da allegare alla stessa ed eventuali diversi termini per il rilascio dell'autorizzazione comunque non superiori ad ulteriori trenta giorni. ((PERIODO ABROGATO DAL D.LGS. 13 DICEMBRE 2018, N. 147)).
 
 COMMA ABROGATO DAL D.LGS. 6 FEBBRAIO 2007, N. 28.
 
@@ -92,6 +379,59 @@ Le societa' istitutrici delle forme di cui agli articoli 12 e 13 nominano un res
 ))
 
 ((
+
+3.
+                    
+                        
+                            Al fine di garantire la maggiore tutela degli aderenti e dei beneficiari, il responsabile della forma pensionistica verifica che la gestione della stessa sia svolta nel loro esclusivo interesse, nonche' nel rispetto della normativa vigente e delle previsioni stabilite nei regolamenti e nei contratti. In particolare vigila su: 
+ 
+                        
+                        
+                            a)
+                            
+                                la gestione finanziaria della forma pensionistica complementare, anche controllando il rispetto della normativa e delle regole interne della stessa circa i limiti di investimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la gestione amministrativa della forma, in particolare controllando la separatezza amministrativa e contabile delle operazioni poste in essere per conto della forma pensionistica e del patrimonio della stessa rispetto a quanto afferente alle altre attivita' della societa' e la regolare tenuta dei libri e delle scritture contabili riguardanti la forma pensionistica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le misure di trasparenza adottate nei confronti degli aderenti e beneficiari; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'adeguatezza della procedura di gestione dei reclami; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la tempestiva e corretta erogazione delle prestazioni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le situazioni in conflitto di interesse; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il rispetto delle buone pratiche e dei principi di corretta amministrazione.
 
 ))
 
@@ -149,6 +489,22 @@ La singola persona o unita' organizzativa cui e' affidata la funzione fondamenta
 
 Fermo restando quanto previsto dall'articolo 5-quater, comma 3, i titolari di una funzione fondamentale comunicano le risultanze e le raccomandazioni rilevanti nel proprio ambito di responsabilita' all'organo di amministrazione o al direttore generale, secondo quanto disposto dall'ordinamento interno del fondo, che stabilisce quali azioni intraprendere.
 
+5.
+                    
+                        
+                            Fatto salvo il privilegio contro l'autoincriminazione, il titolare di una funzione fondamentale comunica alla COVIP se l'organo al quale ha trasmesso le risultanze e le raccomandazioni rilevanti nel proprio ambito di attivita' non intraprende azioni correttive adeguate e tempestive nei seguenti casi: 
+                        
+                        
+                            a)
+                            
+                                quando la persona o l'unita' organizzativa che svolge la funzione fondamentale ha rilevato il rischio sostanziale che il fondo pensione non soddisfi un requisito legale significativo e l'ha comunicato all'organo del fondo pensione al quale trasmette le risultanze e le raccomandazioni rilevanti nel proprio ambito di attivita' del fondo pensione e cio' possa avere un impatto significativo sugli interessi degli aderenti e dei beneficiari;
+                            
+                        
+                        
+                            b)
+                            
+                                quando la persona o l'unita' organizzativa che svolge la funzione fondamentale ha notato una violazione significativa della legislazione, dei regolamenti o delle disposizioni amministrative applicabili al fondo pensione e alle sue attivita' nell'ambito della funzione fondamentale di quella persona o unita' organizzativa e l'ha comunicato all'organo del fondo pensione al quale trasmette le risultanze e le raccomandazioni rilevanti nel proprio ambito di attivita'.
+
 La COVIP tutela, nei limiti consentiti dall'ordinamento giuridico, la riservatezza dei dati personali dei soggetti che effettuano comunicazioni ai sensi del comma 5. In particolare, fermo restando il segreto d'ufficio di cui all'articolo 15-quater, comma 1, l'identita' del soggetto che ha effettuato la comunicazione puo' essere rivelata solo con il suo consenso o quando la conoscenza sia indispensabile per la difesa del soggetto a cui la comunicazione si riferisce.
 
 I fondi pensione di cui al comma 1 adottano procedure volte a garantire che i soggetti che effettuano comunicazioni ai sensi del comma 5 siano tutelati contro condotte ritorsive, discriminatorie o comunque sleali, conseguenti a tali comunicazioni.
@@ -166,6 +522,59 @@ I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti a
 Un efficace sistema di gestione dei rischi prevede la definizione delle strategie, dei processi e delle procedure di segnalazione necessarie a individuare, misurare, monitorare, gestire e segnalare periodicamente all'organo individuato dall'ordinamento interno i rischi a livello individuale ed aggregato ai quali il fondo e' o potrebbe essere esposto, nonche' le relative interdipendenze.
 
 Il sistema di gestione dei rischi e' integrato nella struttura organizzativa e nei processi decisionali del fondo pensione, tenendo in adeguata considerazione il ruolo dei soggetti che svolgono funzioni di amministrazione, direzione e controllo del fondo o altre funzioni fondamentali.
+
+4.
+                    
+                        
+                            Il sistema di gestione dei rischi considera i rischi che possono verificarsi nei fondi pensione o nelle imprese cui sono stati esternalizzati loro compiti o attivita', almeno nelle seguenti aree, ove pertinenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                gestione delle attivita' e delle passivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                investimenti, in particolare in derivati, cartolarizzazioni e impegni simili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gestione dei rischi di liquidita' e di concentrazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gestione dei rischi operativi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gestione dei rischi correlati alle riserve; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                assicurazione e altre tecniche di mitigazione del rischio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                rischi ambientali, sociali e di governo societario connessi al portafoglio di investimenti e alla relativa gestione.
 
 Con riferimento ai rischi che gravano sugli aderenti e beneficiari, il sistema di gestione dei rischi ne tiene conto nella prospettiva dell'interesse degli stessi.
 
@@ -189,6 +598,66 @@ La funzione di revisione interna riferisce all'organo di amministrazione.
 
 ((
 
+1.
+                    
+                        
+                            I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della legge 23 ottobre 1992, n. 421, aventi soggettivita' giuridica, che direttamente coprono rischi biometrici o garantiscono un rendimento degli investimenti o un determinato livello di prestazioni nominano almeno una persona indipendente, interna o esterna, titolare della funzione attuariale che in modo efficace: 
+ 
+                        
+                        
+                            a)
+                            
+                                coordina e supervisiona il calcolo delle riserve tecniche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                verifica l'adeguatezza delle metodologie e dei modelli sottostanti utilizzati per il calcolo delle riserve tecniche e le ipotesi fatte a tal fine; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                verifica la sufficienza e la qualita' dei dati utilizzati nel calcolo delle riserve tecniche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                confronta le ipotesi sottese al calcolo delle riserve tecniche con i dati desunti dall'esperienza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                attesta l'affidabilita' e l'adeguatezza del calcolo delle riserve tecniche; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                formula un parere sulla politica assicurativa di sottoscrizione globale, nel caso in cui il fondo pensione disponga di tale politica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                formula un parere sull'adeguatezza degli accordi di assicurazione nel caso in cui il fondo pensione disponga di tali accordi; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                contribuisce all'attuazione efficace del sistema di gestione dei rischi.
+
 La funzione attuariale e' esercitata da un attuario iscritto nell'albo professionale di cui alla legge 9 febbraio 1942, n. 194, ovvero da soggetti che dispongono di adeguate conoscenze ed esperienze professionali secondo quanto definito nel decreto di cui all'articolo 5-sexies.
 
 ))
@@ -196,6 +665,31 @@ La funzione attuariale e' esercitata da un attuario iscritto nell'albo professio
 ## Art. 5-sexies. — (( (Requisiti di professionalita' e onorabilita', cause di ineleggibilita' e di incompatibilita' e situazioni impeditive). ))
 
 ((
+
+1.
+                    
+                        
+                            Con decreto adottato dal Ministro del lavoro e delle politiche sociali, sentita la COVIP, sono definiti i requisiti di professionalita', complessivamente funzionali a garantire una gestione sana e prudente del fondo pensione, i requisiti di onorabilita', le cause di ineleggibilita' e di incompatibilita', le situazioni impeditive e le cause di sospensione riguardanti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il rappresentante legale, il direttore generale e i componenti degli organi di amministrazione e di controllo delle forme pensionistiche complementari di cui all'articolo 3, comma 1, lettere da a) a g), e comma 2, e dell'articolo 20, dotate di soggettivita' giuridica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                coloro che svolgono funzioni fondamentali e, se del caso, le persone o le entita' esterne impiegate per svolgere le funzioni fondamentali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il responsabile delle forme di cui agli articoli 12 e 13.
 
 I componenti dell'organismo di rappresentanza di cui all'articolo 5, comma 5, e i componenti degli organismi, comunque denominati di rappresentanza degli iscritti, nelle forme di cui all'articolo 20 costituite nell'ambito del patrimonio separato di una singola societa' o ente, possiedono i requisiti di onorabilita' previsti dal decreto di cui al comma 1.
 
@@ -208,6 +702,38 @@ Gli organi di amministrazione dei fondi pensione di cui all'articolo 4, comma 1,
 ((
 
 I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della legge 23 ottobre 1992, n. 421, aventi soggettivita' giuridica, possono esternalizzare funzioni o altre attivita', comprese le funzioni fondamentali. La responsabilita' finale delle attivita' e delle funzioni esternalizzate rimane in capo all'organo di amministrazione del fondo pensione, inclusa quella relativa all'osservanza degli obblighi derivanti da disposizioni normative nazionali, nonche' di quelli derivanti da disposizioni dell'Unione europea direttamente applicabili.
+
+2.
+                    
+                        
+                            I fondi pensione di cui al comma 1, che esternalizzano funzioni fondamentali o altre attivita' garantiscono che le relative modalita' siano tali da non determinare anche uno solo dei seguenti effetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                arrecare un pregiudizio alla qualita' del sistema di governo del fondo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                determinare un indebito incremento del rischio operativo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                compromettere la capacita' della COVIP di verificare l'osservanza degli obblighi gravanti sul fondo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                compromettere la capacita' del fondo di fornire un servizio continuo e soddisfacente agli aderenti e ai beneficiari.
 
 Ai fini del comma 2 i fondi pensione adottano idonee procedure di selezione del fornitore di servizi, stipulano un accordo scritto con il fornitore di servizi che chiarisca i diritti e i doveri del fondo pensione e del fornitore di servizi e provvedono al monitoraggio delle attivita' fornite.
 
@@ -228,6 +754,59 @@ I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti a
 I fondi pensione di cui al comma 1 sono responsabili dell'attuazione della politica di remunerazione.
 
 Salvo quanto diversamente disposto dal regolamento (UE) n. 2016/679, i fondi di cui al comma 1 rendono pubblicamente note con regolarita' le informazioni essenziali e pertinenti relative alla loro politica di remunerazione.
+
+4.
+                    
+                        
+                            Al momento di stabilire e applicare la politica di remunerazione, i fondi di cui al comma 1 rispettano i seguenti principi: 
+ 
+                        
+                        
+                            a)
+                            
+                                la politica di remunerazione deve essere definita, attuata e mantenuta in linea con le attivita', il profilo di rischio, gli obiettivi e l'interesse a lungo termine, la stabilita' finanziaria, la performance del fondo nel suo complesso e deve sostenere una gestione sana, prudente ed efficace del fondo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la politica di remunerazione deve essere in linea con il profilo di rischio e gli interessi a lungo termine degli aderenti e dei beneficiari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la politica di remunerazione deve prevedere misure volte a evitare i conflitti di interesse; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la politica di remunerazione deve essere coerente con una gestione sana ed efficace del rischio e non incoraggiare un'assunzione di rischi che non sia congrua con i profili di rischio e le regole del fondo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la politica di remunerazione si applica al fondo e ai fornitori di servizi di cui all'articolo 5-septies, comma 1, a meno che tali fornitori di servizi non siano disciplinati dalle direttive 2009/65/CE, 2009/138/CE, 2011/61/UE, 2013/36/UE e 2014/65/UE; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la politica di remunerazione e' riesaminata almeno ogni tre anni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la politica di remunerazione e la sorveglianza sulla stessa sono definite e gestite in modo chiaro, trasparente ed efficace.
 
 ))
 
@@ -256,6 +835,46 @@ Le societa' e gli enti che gestiscono fondi pensione costituiti nella forma di p
 
 ## Art. 6. — Regime delle prestazioni e modelli gestionali
 
+1.
+                    
+                        
+                            I fondi pensione di cui all'articolo 3, comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                a h), gestiscono le risorse mediante: 
+ a) convenzioni con soggetti autorizzati all'esercizio dell'attivita' di cui all'articolo 1, comma 5, lettera d), del decreto legislativo 24 febbraio 1998, n. 58, ovvero con soggetti che svolgono la medesima attivita', con sede statutaria in uno dei Paesi aderenti all'Unione europea, che abbiano ottenuto il mutuo riconoscimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                convenzioni con imprese assicurative di cui all'articolo 2 del decreto legislativo 7 settembre 2005, n. 209, mediante ricorso alle gestioni di cui al ramo VI dei rami vita, ovvero con imprese svolgenti la medesima attivita', con sede in uno dei Paesi aderenti all'Unione europea, operanti in Italia in regime di stabilimento o di prestazione di servizi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                convenzioni con societa' di gestione del risparmio, di cui al decreto legislativo 24 febbraio 1998, n. 58 e successive modificazioni, ovvero con imprese svolgenti la medesima attivita', con sede in uno dei Paesi aderenti all'Unione europea, operanti in Italia in regime di stabilimento o di prestazione di servizi; 
+ c-bis.) convenzioni con soggetti autorizzati alla gestione di fondi di cui all'articolo 1, comma 1, lettere m-ter) ed m-quinquies), del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sottoscrizione o acquisizione di azioni o quote di societa' immobiliari nelle quali il fondo pensione puo' detenere partecipazioni anche superiori ai limiti di cui al comma 13, lettera a), nonche' di quote di fondi comuni di investimento immobiliare chiusi nei limiti di cui alla lettera e); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                sottoscrizione e acquisizione di quote di fondi comuni di investimento mobiliare chiusi secondo le disposizioni contenute nel decreto di cui al comma 11, ma comunque non superiori al 20 per cento del proprio patrimonio e al 25 per cento del capitale del fondo chiuso.
+
 Gli enti gestori di forme pensionistiche obbligatorie, sentita l'Autorita' garante della concorrenza e del mercato, possono stipulare con i fondi pensione convenzioni per l'utilizzazione del servizio di raccolta dei contributi da versare ai fondi pensione e di erogazione delle prestazioni e delle attivita' connesse e strumentali anche attraverso la costituzione di societa' di capitali di cui debbono conservare in ogni caso la maggioranza del capitale sociale; detto servizio deve essere organizzato secondo criteri di separatezza contabile dalle attivita' istituzionali del medesimo ente.
 
 Alle prestazioni di cui all'articolo 11 erogate sotto forma di rendita i fondi pensione provvedono mediante convenzioni con una o piu' imprese assicurative di cui all'articolo 2 del decreto legislativo 7 settembre 2005, n. 209, ovvero direttamente, ove sussistano mezzi patrimoniali adeguati, in conformita' con le disposizioni di cui all'articolo 7-bis. I fondi pensione sono autorizzati dalla COVIP all'erogazione diretta delle rendite, avuto riguardo all'adeguatezza dei mezzi patrimoniali costituiti e alla dimensione del fondo per numero di iscritti.
@@ -264,6 +883,47 @@ COMMA ABROGATO DAL D.LGS. 6 FEBBRAIO 2007, N. 28.
 
 Per le forme pensionistiche in regime di prestazione definita e per le eventuali prestazioni per invalidita' e premorienza, sono in ogni caso stipulate apposite convenzioni con imprese assicurative.
 Nell'esecuzione di tali convenzioni non si applica l'articolo 7.
+
+5-bis.
+                    
+                        
+                            Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro del lavoro e della previdenza sociale, sentita la COVIP, sono individuati: 
+ 
+                        
+                        
+                            a)
+                            
+                                le attivita' nelle quali i fondi pensione possono investire le proprie disponibilita', avendo presente il perseguimento dell'interesse degli iscritti, eventualmente fissando limiti massimi di investimento qualora siano giustificati da un punto di vista prudenziale; 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                
+                                    ((i limiti massimi di investimento, anche in via indiretta tramite organismi di investimento collettivo del risparmio o tramite titoli emessi nell'ambito di operazioni di cartolarizzazione di cui all'articolo 5, comma 2-bis, della legge 30 aprile 1999, n. 130, in strumenti finanziari emessi da societa' ed enti operanti prevalentemente nell'elaborazione o nella realizzazione di progetti relativi a settori infrastrutturali turistici, culturali, ambientali, idrici, stradali, ferroviari, portuali, aeroportuali, sanitari, immobiliari pubblici non residenziali, delle telecomunicazioni, incluse quelle digitali, e della produzione e trasporto di energia)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i criteri di investimento nelle varie categorie di valori mobiliari; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                
+                                    ((i procedimenti e le condotte che i fondi pensione sono tenuti ad adottare in caso di superamento temporaneo dei limiti massimi di investimento definiti ai sensi della lettera a-bis), ivi compresi i termini per il rientro, gli obblighi di informativa alla COVIP e le misure correttive)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le regole da osservare in materia di conflitti di interesse tenendo conto delle specificita' dei fondi pensione e dei principi di cui alla direttiva 2014/65/UE, alla normativa comunitaria di esecuzione e a quella nazionale di recepimento.
 
 I fondi pensione definiscono gli obiettivi e i criteri della propria politica di investimento, anche in riferimento ai singoli comparti eventualmente previsti, e provvedono periodicamente, almeno con cadenza triennale, alla verifica della rispondenza degli stessi agli interessi degli iscritti.
 
@@ -275,6 +935,31 @@ Per la stipula delle convenzioni di cui ai commi 1, 3 e 5, e all'articolo 7, i c
 
 Con deliberazione delle rispettive autorita' di vigilanza sui soggetti gestori, che conservano tutti i poteri di controllo su di essi, sono determinati i requisiti patrimoniali minimi, differenziati per tipologia di prestazione offerta, richiesti ai soggetti di cui al comma 1 ai fini della stipula delle convenzioni previste nel presente articolo.
 
+8.
+                    
+                        
+                            Il processo di selezione dei gestori deve essere condotto secondo le istruzioni adottate dalla COVIP e comunque in modo da garantire la trasparenza del procedimento e la coerenza tra obiettivi e modalita' gestionali, decisi preventivamente dagli amministratori, e i criteri di scelta dei gestori. Le convenzioni possono essere stipulate, nell'ambito dei rispettivi regimi, anche congiuntamente fra loro e devono in ogni caso: 
+ 
+                        
+                        
+                            a)
+                            
+                                contenere le linee di indirizzo dell'attivita' dei soggetti convenzionati nell'ambito dei criteri di individuazione e di ripartizione del rischio di cui al comma 11 e le modalita' con le quali possono essere modificate le linee di indirizzo medesime; nel definire le linee di indirizzo della gestione, i fondi pensione possono prevedere linee di investimento che consentano di garantire rendimenti comparabili al tasso di rivalutazione del TFR; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prevedere i termini e le modalita' attraverso cui i fondi pensione esercitano la facolta' di recesso, contemplando anche la possibilita' per il fondo pensione di rientrare in possesso del proprio patrimonio attraverso la restituzione delle attivita' finanziarie nelle quali risultano investite le risorse del fondo all'atto della comunicazione al gestore della volonta' di recesso dalla convenzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prevedere l'attribuzione in ogni caso al fondo pensione della titolarita' dei diritti di voto inerenti ai valori mobiliari nei quali risultano investite le disponibilita' del fondo medesimo.
+
 I fondi pensione sono titolari dei valori e delle disponibilita' conferiti in gestione, restando peraltro in facolta' degli stessi di concludere, in tema di titolarita', diversi accordi con i gestori a cio' abilitati nel caso di gestione accompagnata dalla garanzia di restituzione del capitale. I valori e le disponibilita' affidati ai gestori di cui al comma 1 secondo le modalita' ed i criteri stabiliti nelle convenzioni costituiscono in ogni caso patrimonio separato ed autonomo, devono essere contabilizzati a valori correnti e non possono essere distratti dal fine al quale sono stati destinati, ne' formare oggetto di esecuzione sia da parte dei creditori dei soggetti gestori, sia da parte di rappresentanti dei creditori stessi, ne' possono essere coinvolti nelle procedure concorsuali che riguardano il gestore. Il fondo pensione e' legittimato a proporre la domanda di rivendicazione di cui all'articolo 103 del regio decreto 16 marzo 1942, n. 267. Possono essere rivendicati tutti i valori conferiti in gestione, anche se non individualmente determinati o individuati ed anche se depositati presso terzi, diversi dal soggetto gestore. Per l'accertamento dei valori oggetto della domanda e' ammessa ogni prova documentale, ivi compresi i rendiconti redatti dal gestore o dai terzi depositari.
 
 Con delibera della COVIP, assunta previo parere dell'autorita' di vigilanza sui soggetti convenzionati, sono fissati criteri e modalita' omogenee per la comunicazione ai fondi dei risultati conseguiti nell'esecuzione delle convenzioni in modo da assicurare la piena comparabilita' delle diverse convenzioni.
@@ -282,6 +967,40 @@ Con delibera della COVIP, assunta previo parere dell'autorita' di vigilanza sui 
 COMMA ABROGATO DAL D.LGS. 6 FEBBRAIO 2007, N. 28.
 
 I fondi pensione, costituiti nell'ambito delle autorita' di vigilanza sui soggetti gestori a favore dei dipendenti delle stesse, possono gestire direttamente le proprie risorse.
+
+13.
+                    
+                        
+                            I fondi non possono comunque assumere o concedere prestiti, prestare garanzie in favore di terzi, ne' investire le disponibilita' di competenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                in azioni o quote con diritto di voto, emesse da una stessa societa', per un valore nominale superiore al cinque per cento del valore nominale complessivo di tutte le azioni o quote con diritto di voto emesse dalla societa' medesima se quotata, ovvero al dieci per cento se non quotata, ne' comunque, azioni o quote con diritto di voto per un ammontare tale da determinare in via diretta un'influenza dominante sulla societa' emittente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in azioni o quote emesse da soggetti tenuti alla contribuzione o da questi controllati direttamente o indirettamente, per interposta persona o tramite societa' fiduciaria, o agli stessi legati da rapporti di controllo ai sensi dell'articolo 23 del decreto legislativo 1° settembre 1993, n. 385, in misura complessiva superiore al venti per cento delle risorse del fondo e, se trattasi di fondo pensione di categoria, in misura complessiva superiore al trenta per cento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fermi restando i limiti generali indicati alla lettera b), i fondi pensione aventi come destinatari i lavoratori di una determinata impresa non possono investire le proprie disponibilita' in strumenti finanziari emessi dalla predetta impresa, o, allorche' l'impresa appartenga a un gruppo, dalle imprese appartenenti al gruppo medesimo, in misura complessivamente superiore, rispettivamente, al cinque e al dieci per cento del patrimonio complessivo del fondo. Per la nozione di gruppo si fa riferimento all'articolo 23 del decreto legislativo 1° settembre 1993, n. 385. 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                
+                                    ((il patrimonio del fondo pensione e' investito in misura prevalente in strumenti finanziari negoziati su mercati regolamentati, nonche' su sistemi multilaterali di negoziazione aventi i requisiti informativi e organizzativi definiti con decreto del Ministro dell'economia e delle finanze, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione.
+Resta ferma la disciplina dei mercati recata dal testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58. Gli investimenti in attivita' che non sono ammesse allo scambio in un mercato regolamentato sono in ogni caso mantenuti a livelli prudenziali)).
 
 Le forme pensionistiche complementari possono tener conto del potenziale impatto a lungo termine delle loro decisioni di investimento sui fattori ambientali, sociali e di governo societario.
 
@@ -299,9 +1018,72 @@ La COVIP detta disposizioni di attuazione del comma 1, in conformita' a quanto p
 
 ((
 
+1.
+                    
+                        
+                            Le risorse dei fondi di cui all'articolo 3, comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                ad h), in gestione sono depositate presso un unico soggetto, distinto dal gestore, che presenti i requisiti di cui all'articolo 47 del decreto legislativo 24 febbraio 1998, n. 58.
+
 ))
 
 ((
+
+2.
+                    
+                        
+                            Il soggetto nominato quale depositario: 
+ 
+                        
+                        
+                            a)
+                            
+                                mantiene in custodia tutti gli strumenti finanziari del fondo pensione che possono essere registrati in un conto di strumenti finanziari aperto nei propri libri contabili e tutti gli strumenti finanziari che possono essergli fisicamente consegnati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                garantisce che tutti gli strumenti finanziari siano registrati in conti separati, aperti a nome del fondo pensione, in modo tale che possano essere chiaramente identificati come appartenenti allo stesso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per tutte le altre risorse diverse dagli strumenti finanziari di cui alla lettera a) il depositario verifica la proprieta' da parte del fondo pensione di tali risorse, in base a informazioni o documenti forniti dal fondo pensione e, se disponibili, in base a prove esterne. Il depositario conserva e mantiene aggiornato un registro relativo a tali attivi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esegue le istruzioni impartite dal fondo pensione o dal soggetto gestore del patrimonio del fondo, se non siano contrarie alla legge, alle norme statutarie e regolamentari del fondo stesso e ai criteri stabiliti nel decreto del Ministro dell'economia e delle finanze di cui all'articolo 6, comma 5-bis; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                accerta che nelle operazioni che coinvolgano le attivita' del fondo pensione il controvalore sia rimesso al fondo pensione nei termini d'uso; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                accerta che i redditi prodotti dagli attivi ricevano una destinazione conforme alle regole del fondo pensione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per quanto compatibili, svolge ogni altro compito previsto dall'articolo 48 del decreto legislativo 24 febbraio 1998, n. 58, e relativa normativa di attuazione, per gli OICR.
 
 ))
 
@@ -349,6 +1131,17 @@ Le determinazioni di cui al comma 2-bis considerano l'obiettivo di avere un'equa
 ## Art. 8. — Finanziamento
 
 Il finanziamento delle forme pensionistiche complementari puo' essere attuato mediante il versamento di contributi a carico del lavoratore, del datore di lavoro o del committente e attraverso il conferimento del TFR maturando. Nel caso di lavoratori autonomi e di liberi professionisti il finanziamento delle forme pensionistiche complementari e' attuato mediante contribuzioni a carico dei soggetti stessi. Nel caso di soggetti diversi dai titolari di reddito di lavoro o d'impresa e di soggetti fiscalmente a carico di altri, il finanziamento alle citate forme e' attuato dagli stessi o dai soggetti nei confronti dei quali sono a carico.
+
+2.
+                    
+                        
+                            Ferma restando la facolta' per tutti i lavoratori di determinare liberamente l'entita' della contribuzione a proprio carico, relativamente ai lavoratori dipendenti che aderiscono ((, in modo automatico o esplicito,)) ai fondi di cui all'articolo 3, comma 1, lettere da 
+                        
+                        
+                            a)
+                            
+                                a g) e di cui all'articolo 12, con adesione su base collettiva, le modalita' e la misura minima della contribuzione a carico del datore di lavoro e del lavoratore stesso possono essere fissati dai contratti e dagli accordi collettivi, anche aziendali; gli accordi fra soli lavoratori determinano il livello minimo della contribuzione a carico degli stessi. Il contributo da destinare alle forme pensionistiche complementari e' stabilito in cifra fissa oppure: per i lavoratori dipendenti, in percentuale della retribuzione assunta per il calcolo del TFR o con riferimento ad elementi particolari della retribuzione stessa; per i lavoratori autonomi e i liberi professionisti, in percentuale del reddito d'impresa o di lavoro autonomo dichiarato ai fini IRPEF, relativo al periodo d'imposta precedente; per i soci lavoratori di societa' cooperative, secondo la tipologia del rapporto di lavoro, in percentuale della retribuzione assunta per il calcolo del TFR ovvero degli imponibili considerati ai fini dei contributi previdenziali obbligatori ovvero in percentuale del reddito di lavoro autonomo dichiarato ai fini IRPEF relativo al periodo d'imposta precedente.
+Gli accordi possono anche stabilire la percentuale minima di TFR maturando da destinare a previdenza complementare. In assenza di tale indicazione il conferimento e' totale. ((26))
 
 Nel caso di forme pensionistiche complementari di cui siano destinatari i dipendenti della pubblica amministrazione, i contributi alle forme pensionistiche debbono essere definiti in sede di determinazione del trattamento economico, secondo procedure coerenti alla natura del rapporto.
 
@@ -467,6 +1260,39 @@ Alle prestazioni in forma di rendita a durata definita o di prelievi di cui al c
 
 Le prestazioni erogate in forma frazionata ai sensi del comma 3-bis sono imponibili per il loro ammontare complessivo al netto della parte corrispondente ai redditi gia' assoggettati ad imposta. Sulla parte imponibile delle prestazioni pensionistiche di cui al primo periodo e' operata una ritenuta a titolo d'imposta con l'aliquota del 20 per cento ridotta di una quota pari a 0,25 punti percentuali per ogni anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche complementari con un limite massimo di riduzione di 5 punti percentuali. La ritenuta di cui al secondo periodo e' applicata dalla forma pensionistica a cui risulta iscritto il lavoratore. (26)
 
+7.
+                    
+                        
+                            Gli aderenti alle forme pensionistiche complementari possono richiedere un'anticipazione della posizione individuale maturata: 
+ 
+                        
+                        
+                            a)
+                            
+                                in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie a seguito di gravissime situazioni relative a se', al coniuge e ai figli per terapie e interventi straordinari riconosciuti dalle competenti strutture pubbliche.
+Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, e' applicata una ritenuta a titolo d'imposta con l'aliquota del 15 per cento ridotta di una quota pari a 0,30 punti percentuali per ogni anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche complementari con un limite massimo di riduzione di 6 punti percentuali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                decorsi otto anni di iscrizione, per un importo non superiore al 75 per cento, per l'acquisto della prima casa di abitazione per se' o per i figli, documentato con atto notarile, o per la realizzazione degli interventi di cui alle lettere a), b), c), e d) del comma 1 dell'articolo 3 del testo unico delle disposizioni legislative e regolamentari in materia edilizia di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, relativamente alla prima casa di abitazione, documentati come previsto dalla normativa stabilita ai sensi dell'articolo 1, comma 3, della legge 27 dicembre 1997, n. 449. Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, si applica una ritenuta a titolo di imposta del 23 per cento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                decorsi otto anni di iscrizione, per un importo non superiore al 30 per cento, per ulteriori esigenze degli aderenti. Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, si applica una ritenuta a titolo di imposta del 23 per cento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le ritenute di cui alle lettere a), b) e c) sono applicate dalla forma pensionistica che eroga le anticipazioni.
+
 Le somme percepite a titolo di anticipazione non possono mai eccedere, complessivamente, il 75 per cento del totale dei versamenti, comprese le quote del TFR, maggiorati delle plusvalenze tempo per tempo realizzate, effettuati alle forme pensionistiche complementari a decorrere dal primo momento di iscrizione alle predette forme. Le anticipazioni possono essere reintegrate, a scelta dell'aderente, in qualsiasi momento anche mediante contribuzioni annuali eccedenti il limite di 5.300 euro. Sulle somme eccedenti il predetto limite, corrispondenti alle anticipazioni reintegrate, e' riconosciuto al contribuente un credito d'imposta pari all'imposta pagata al momento della fruizione dell'anticipazione, proporzionalmente riferibile all'importo reintegrato. (26)
 
 Ai fini della determinazione dell'anzianita' necessaria per la richiesta delle anticipazioni e delle prestazioni pensionistiche sono considerati utili tutti i periodi di partecipazione alle forme pensionistiche complementari maturati dall'aderente per i quali lo stesso non abbia esercitato il riscatto totale della posizione individuale.
@@ -494,6 +1320,24 @@ I regolamenti dei fondi pensione aperti, redatti in base alle direttive impartit
 
 ## Art. 13. — Forme pensionistiche individuali
 
+1.
+                    
+                        
+                            Ferma restando l'applicazione delle norme del presente decreto legislativo in tema di finanziamento, prestazioni e trattamento tributario, le forme pensionistiche individuali sono attuate mediante: 
+ 
+                        
+                        
+                            a)
+                            
+                                adesione ai fondi pensione di cui all'articolo 12; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contratti di assicurazione sulla vita, stipulati con imprese di assicurazioni autorizzate dall'Istituto per la vigilanza sulle assicurazioni private (ISVAP) ad operare nel territorio dello Stato o quivi operanti in regime di stabilimento o di prestazioni di servizi.
+
 L'adesione avviene, su base individuale, anche da parte di soggetti diversi da quelli di cui all'articolo 2.
 
 I contratti di assicurazione di cui al comma 1, lettera b), sono corredati da un regolamento, redatto in base alle direttive impartite dalla COVIP e dalla stessa preventivamente approvato nei termini temporali di cui all'articolo 4, comma 3, recante disposizioni circa le modalita' di partecipazione, il trasferimento delle posizioni individuali verso altre forme pensionistiche, la comparabilita' dei costi e dei risultati di gestione e la trasparenza dei costi e delle condizioni contrattuali nonche' le modalita' di comunicazione, agli iscritti e alla COVIP, delle attivita' della forma pensionistica e della posizione individuale. Il suddetto regolamento e' parte integrante dei contratti medesimi. Le condizioni generali dei contratti devono essere comunicate dalle imprese assicuratrici alla COVIP, prima della loro applicazione. Le risorse delle forme pensionistiche individuali ((di cui al comma 1, lettera b),)) costituiscono patrimonio autonomo e separato con gli effetti di cui all'articolo 4, comma 2 ((, e la gestione delle stesse)), avviene secondo le regole d'investimento di cui al decreto legislativo 7 settembre 2005, n. 209, e nel rispetto dei principi di cui all'articolo 6, comma 5-bis, lettera c).
@@ -506,6 +1350,80 @@ Per i soggetti non titolari di reddito di lavoro o d'impresa si considera eta' p
 
 ((
 
+1.
+                    
+                        
+                            Gli aderenti e i beneficiari sono adeguatamente informati sulle condizioni della rispettiva forma pensionistica complementare, in particolare per quanto riguarda: 
+ 
+                        
+                        
+                            a)
+                            
+                                il nome della forma pensionistica complementare, lo Stato membro in cui la forma e' stata istituita e iscritta all'Albo e il nome della competente autorita' di vigilanza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i diritti e gli obblighi delle parti coinvolte nella forma pensionistica complementare; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le informazioni sul profilo di investimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la natura dei rischi finanziari a carico degli aderenti e dei beneficiari; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le condizioni relative alle garanzie integrali o parziali previste dallo schema pensionistico o a un determinato livello di prestazioni, o qualora non sia fornita alcuna garanzia, una dichiarazione a tal fine; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i meccanismi di protezione dei diritti maturati o i meccanismi di riduzione delle prestazioni, se presenti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                se gli aderenti assumono il rischio di investimento o possono decidere in merito agli investimenti, le informazioni relative ai risultati passati degli investimenti relativi alla forma pensionistica concernenti almeno gli ultimi cinque anni o tutti gli anni di attivita' della forma se tale periodo e' inferiore a cinque anni; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la struttura dei costi sostenuti dagli aderenti e dai beneficiari, per le forme che non garantiscono un determinato livello di prestazioni; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                le opzioni per la riscossione della rendita a disposizione degli aderenti e dei beneficiari; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                qualora l'aderente abbia il diritto di trasferire i diritti pensionistici, le informazioni sulle modalita' relative a tale trasferimento.
+
 Per le forme pensionistiche complementari che offrono piu' di un'opzione con diversi profili di investimento e in cui gli aderenti assumono il rischio di investimento, gli aderenti sono informati delle condizioni relative alla gamma delle opzioni di investimento disponibili e, se presente, dell'opzione di investimento di default e, della regola della forma pensionistica in base al quale un determinato aderente e' destinato a una data opzione di investimento.
 
 Gli aderenti e i beneficiari o i loro rappresentanti ricevono entro un termine ragionevole tutte le informazioni rilevanti relative a modificazioni delle regole della forma pensionistica. Inoltre, in caso di modifiche significative alle riserve tecniche, e' fornita indicazione del relativo impatto sugli aderenti e sui beneficiari.
@@ -515,6 +1433,38 @@ Gli aderenti e i beneficiari o i loro rappresentanti ricevono entro un termine r
 ## Art. 13-ter. — (( (Informazioni ai potenziali aderenti). ))
 
 ((
+
+1.
+                    
+                        
+                            I potenziali aderenti a una forma pensionistica complementare sono informati, prima della loro adesione, circa: 
+ 
+                        
+                        
+                            a)
+                            
+                                le pertinenti caratteristiche della forma pensionistica, compresi i tipi di prestazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le pertinenti opzioni a loro disposizione, comprese le opzioni di investimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le informazioni sul se e sul come sono tenuti in conto i fattori ambientali, climatici, sociali e di governo societario nella strategia di investimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dove sono disponibili ulteriori informazioni.
 
 Se il rischio di investimento ricade sugli aderenti ovvero se essi possono decidere in merito agli investimenti, oltre alle informazioni di cui al comma 1 sono fornite le informazioni relative ai risultati passati degli investimenti relativi alla forma pensionistica complementare concernenti almeno gli ultimi cinque anni o riguardanti tutti gli anni di attivita' della forma se tale periodo e' inferiore a cinque anni, nonche' le informazioni sulla struttura dei costi sostenuti dagli aderenti e dai beneficiari.
 
@@ -528,7 +1478,99 @@ Le informazioni di cui ai commi 1 e 2 sono fornite tempestivamente, dopo la loro
 
 Agli aderenti e' trasmesso, con cadenza annuale, un documento conciso contenente le informazioni relative alla posizione individuale dell'aderente alla fine dell'anno precedente. Il titolo del documento contiene la locuzione «Prospetto delle prestazioni pensionistiche».
 
+2.
+                    
+                        
+                            Tenendo conto della natura del regime della forma pensionistica complementare, il documento di cui al comma 1 include almeno le seguenti informazioni chiave per gli aderenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati personali dell'aderente compresa, se del caso, una indicazione della data di pensionamento prevista dalla legge in vigore al momento della comunicazione, dell'eta' di pensionamento stabilita dalla forma pensionistica complementare o dalla stessa stimata, o della data di pensionamento indicata dall'aderente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il nome della forma pensionistica complementare, l'indirizzo di contatto e l'identificazione del comparto a cui e' iscritto l'aderente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                se del caso, le informazioni sulle garanzie totali o parziali previste dalla forma pensionistica complementare e, se pertinente, il luogo in cui e' possibile reperire maggiori informazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le informazioni sui diritti maturati o sul capitale accumulato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le informazioni sui contributi versati alla forma pensionistica complementare dall'impresa promotrice e dall'aderente, nel corso degli ultimi dodici mesi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                una suddivisione dei costi dedotti nel corso degli ultimi dodici mesi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le informazioni relative al livello di finanziamento della forma pensionistica complementare nel suo complesso; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le informazioni sul se e sul come sono tenuti in conto i fattori ambientali, climatici, sociali e di governo societario nella strategia di investimento.
+
 Con il documento di cui al comma 1 sono anche fornite informazioni sulle proiezioni delle prestazioni pensionistiche basate sull'eta' di pensionamento di cui al comma 1 lettera a), nonche' una clausola di esclusione della responsabilita' secondo cui tali proiezioni potrebbero differire dal valore finale delle prestazioni ricevute.
+
+4.
+                    
+                        
+                            Il documento di cui al comma 1 precisa dove e come ottenere informazioni aggiuntive, tra cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                le ulteriori informazioni sulle opzioni per gli aderenti previste dalla forma pensionistica complementare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le informazioni sui bilanci, i rendiconti e sul documento illustrante i principi della politica di investimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le informazioni sulle ipotesi prese a riferimento per le proiezioni delle prestazioni pensionistiche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le informazioni circa il livello delle prestazioni in caso di cessazione del rapporto di lavoro.
 
 Per le forme pensionistiche complementari in cui gli aderenti assumono il rischio di investimento e in cui un'opzione di investimento sia imposta a un aderente da una specifica regola dello schema pensionistico, il documento indica dove sono disponibili ulteriori informazioni.
 
@@ -562,11 +1604,83 @@ I beneficiari ricevono periodicamente informazioni adeguate nel caso in cui gli 
 
 ((
 
+1.
+                    
+                        
+                            Le informazioni di cui agli articoli 13-bis, 13-ter, 13-quater, 13-quinquies e 13-sexies: 
+                        
+                        
+                            a)
+                            
+                                sono accurate ed aggiornate;
+                            
+                        
+                        
+                            b)
+                            
+                                sono formulate in modo chiaro, comprensibile e succinto, evitando l'uso di espressioni gergali e di termini tecnici laddove si possono comunque usare termini di uso comune;
+                            
+                        
+                        
+                            c)
+                            
+                                non sono fuorvianti e ne e' garantita la coerenza nel vocabolario e nei contenuti;
+                            
+                        
+                        
+                            d)
+                            
+                                sono presentate in modo da agevolarne la lettura;
+                            
+                        
+                        
+                            e)
+                            
+                                sono redatte in lingua italiana;
+                            
+                        
+                        
+                            f)
+                            
+                                sono messe a disposizione dei potenziali aderenti, degli aderenti e dei beneficiari a titolo gratuito mediante mezzi elettronici, anche su supporto durevole o tramite un sito web, oppure su carta.
+
 ))
 
 ## Art. 14. — Permanenza nella forma pensionistica complementare e cessazione dei requisiti di partecipazione e portabilita'
 
 Gli statuti e i regolamenti delle forme pensionistiche complementari stabiliscono le modalita' di esercizio relative alla partecipazione alle forme medesime, alla portabilita' delle posizioni individuali e della contribuzione, nonche' al riscatto parziale o totale delle posizioni individuali, secondo quanto disposto dal presente articolo.
+
+2.
+                    
+                        
+                            Ove vengano meno i requisiti di partecipazione alla forma pensionistica complementare gli statuti e i regolamenti stabiliscono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il trasferimento ad altra forma pensionistica complementare alla quale il lavoratore acceda in relazione alla nuova attivita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il riscatto parziale, nella misura del 50 per cento della posizione individuale maturata, nei casi di cessazione dell'attivita' lavorativa che comporti l'inoccupazione per un periodo di tempo non inferiore a 12 mesi e non superiore a 48 mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di mobilita', cassa integrazione guadagni ordinaria o straordinaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il riscatto totale della posizione individuale maturata per i casi di invalidita' permanente che comporti la riduzione della capacita' di lavoro a meno di un terzo e a seguito di cessazione dell'attivita' lavorativa che comporti l'inoccupazione per un periodo di tempo superiore a 48 mesi. PERIODO SOPPRESSO DALLA L. 27 DICEMBRE 2017, N. 205. 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                il mantenimento della posizione individuale in gestione presso la forma pensionistica complementare anche in assenza di ulteriore contribuzione. Tale opzione trova automatica applicazione in difetto di diversa scelta da parte dell'iscritto e fatta salva l'ipotesi di valore della posizione individuale maturata, non superiore all'importo di una mensilita' dell'assegno sociale di cui all'articolo 3, comma 6, della legge 8 agosto 1995, n. 335; in questo caso le forme pensionistiche complementari informano l'iscritto, conformemente alle istruzioni impartite dalla COVIP, della facolta' di esercitare il trasferimento ad altra forma pensionistica complementare ovvero di richiedere il riscatto con le modalita' di cui al comma 5.
 
 In caso di morte dell'aderente ad una forma pensionistica complementare prima della maturazione del diritto alla prestazione pensionistica l'intera posizione individuale maturata e' riscattata dagli eredi ovvero dai diversi soggetti dallo stesso designati, siano essi persone fisiche o giuridiche. In mancanza di tali soggetti, la posizione, limitatamente alle forme pensionistiche complementari individuali, viene devoluta a finalita' sociali secondo le modalita' stabilite con decreto del Ministro del lavoro e delle politiche sociali. Nelle forme pensionistiche complementari collettive, la suddetta posizione resta acquisita al fondo pensione.
 
@@ -593,6 +1707,56 @@ Gli adempimenti a carico delle forme pensionistiche complementari conseguenti al
 
 I fondi pensione di cui all'articolo 4, comma 1, i fondi pensione aperti, nonche' quelli gia' istituiti alla data di entrata in vigore della legge 23 ottobre 1992, n. 421, aventi soggettivita' giuridica ed operanti secondo il principio della capitalizzazione, che risultino iscritti all'Albo tenuto a cura della COVIP possono trasferire tutte o parte delle passivita', delle riserve tecniche e delle altre obbligazioni e diritti, nonche' le attivita' corrispondenti o il relativo equivalente in contanti di uno schema pensionistico a un fondo pensione ricevente registrato o autorizzato in un altro Stato membro dell'Unione europea e rientrante nell'ambito di applicazione della direttiva (UE) 2016/2341.
 
+2.
+                    
+                        
+                            Il trasferimento di cui al comma 1 e' soggetto all'approvazione preventiva: 
+ 
+                        
+                        
+                            a)
+                            
+                                della maggioranza degli aderenti e la maggioranza dei beneficiari coinvolti nel trasferimento o, se del caso, la maggioranza dei loro rappresentanti. Le informazioni relative alle condizioni del trasferimento sono messe a disposizione degli aderenti e dei beneficiari coinvolti o, se del caso, dei loro rappresentanti in modo tempestivo da parte del fondo pensione trasferente prima che il fondo ricevente presenti istanza di autorizzazione alla propria Autorita' di vigilanza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dell'impresa promotrice.
+
+3.
+                    
+                        
+                            Il trasferimento di cui al comma 1 e' inoltre soggetto all'autorizzazione da parte dell'autorita' competente dello Stato membro di origine del fondo pensione ricevente previo consenso della COVIP. A tal fine la COVIP valuta se: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di un trasferimento parziale delle passivita', delle riserve tecniche, delle altre obbligazioni e altri diritti nonche' delle attivita' corrispondenti o del relativo equivalente in contanti, gli interessi a lungo termine degli aderenti e dei beneficiari della parte restante dello schema sono adeguatamente protetti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i diritti individuali degli aderenti e dei beneficiari sono almeno gli stessi dopo il trasferimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le attivita' corrispondenti allo schema pensionistico da trasferire sono sufficienti e adeguate a coprire la passivita', le riserve tecniche e le altre obbligazioni e diritti da trasferire, conformemente alle norme applicabili nello Stato membro di origine del fondo pensione trasferente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i costi del trasferimento non sono sostenuti dagli aderenti e dai beneficiari restanti del fondo pensione trasferente.
+
 La COVIP comunica i risultati della valutazione di cui al comma 3 all'autorita' competente dello Stato membro d'origine del fondo pensione ricevente entro otto settimane dal ricevimento della richiesta da parte dell'autorita' competente dello Stato membro d'origine del fondo pensione ricevente. La COVIP ne da altresi' comunicazione al fondo trasferente.
 
 Quando il trasferimento comporta lo svolgimento da parte del fondo ricevente di un'attivita' transfrontaliera nel territorio della Repubblica italiana, la COVIP informa l'autorita' competente dello Stato membro di origine del fondo pensione ricevente delle disposizioni di diritto della sicurezza sociale e del lavoro in materia di schemi pensionistici aziendali e professionali in base alle quali lo schema pensionistico deve essere gestito nonche' delle norme dello Stato membro ospitante relative alle informazioni da fornire ai potenziali aderenti, aderenti e beneficiari che si applicano all'attivita' transfrontaliera. Tali informazioni sono comunicate entro un termine di ulteriori quattro settimane e sono aggiornate tempestivamente a ogni modifica significativa.
@@ -609,7 +1773,107 @@ I fondi pensione di cui all'articolo 4, comma 1, i fondi pensione aperti, nonche
 
 Il trasferimento di cui al comma 1 e' soggetto all'autorizzazione preventiva da parte della COVIP previo consenso dell'autorita' competente dello Stato membro d'origine del fondo trasferente. La richiesta di autorizzazione al trasferimento e' presentata dal fondo ricevente alla COVIP. La COVIP concede o nega l'autorizzazione e comunica la sua decisione al fondo ricevente entro tre mesi dal ricevimento della richiesta.
 
+3.
+                    
+                        
+                            La richiesta di autorizzazione al trasferimento di cui al comma 2 contiene le seguenti informazioni e dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'accordo scritto concluso tra il fondo trasferente e il fondo ricevente che stabilisce le condizioni del trasferimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una descrizione delle principali caratteristiche dello schema pensionistico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una descrizione delle passivita' o delle riserve tecniche da trasferire, e di altre obbligazioni e di altri diritti, nonche' delle attivita' corrispondenti, o del relativo equivalente in contanti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i nomi e le ubicazioni delle amministrazioni principali dei fondi trasferenti e riceventi nonche' l'indicazione dello Stato membro in cui ciascun fondo e' registrato o autorizzato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'ubicazione dell'amministrazione principale dell'impresa promotrice e il nome di quest'ultima; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                una prova della preventiva approvazione del trasferimento da parte della maggioranza degli aderenti e della maggioranza dei beneficiari coinvolti o, se del caso, la maggioranza dei loro rappresentanti e dell'impresa promotrice; 
+ f) una prova della preventiva approvazione del trasferimento da parte della maggioranza degli aderenti e della maggioranza dei beneficiari coinvolti o, se del caso, la maggioranza dei loro rappresentanti e dell'impresa promotrice; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                se del caso, i nomi degli Stati membri il cui diritto della sicurezza sociale e diritto del lavoro pertinente in materia di schemi pensionistici aziendali e professionali e' applicabile allo schema pensionistico interessato.
+
 La COVIP, senza indugio trasmette la richiesta di cui al comma 3 all'autorita' competente del fondo trasferente, dopo il suo ricevimento.
+
+5.
+                    
+                        
+                            Ai fini del rilascio dell'autorizzazione, la COVIP valuta se: 
+ 
+                        
+                        
+                            a)
+                            
+                                tutte le informazioni di cui al comma 3 sono state fornite dal fondo ricevente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la struttura amministrativa, la situazione finanziaria del fondo ricevente e la buona reputazione, le qualifiche professionali o l'esperienza dei soggetti che gestiscono il fondo ricevente sono compatibili con il trasferimento proposto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli interessi a lungo termine degli aderenti e dei beneficiari del fondo ricevente e la parte trasferita dello schema sono adeguatamente protetti durante e dopo il trasferimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le riserve tecniche del fondo ricevente sono integralmente coperte alla data del trasferimento, quando il trasferimento comporta lo svolgimento di un'attivita' transfrontaliera; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le attivita' da trasferire sono sufficienti e adeguate a coprire la passivita', le riserve tecniche e le altre obbligazioni e gli altri diritti da trasferire, conformemente alle norme applicabili nella Repubblica italiana; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i costi del trasferimento non sono sostenuti dagli aderenti e beneficiari attuali del fondo ricevente.
 
 In caso di rifiuto dell'autorizzazione, la COVIP motiva tale rifiuto entro il periodo di tre mesi dal ricevimento della richiesta.
 
@@ -711,6 +1975,24 @@ Ai fini indicati al comma 1-sexies, la COVIP puo' concludere con le autorita' di
 
 ((
 
+1-octies.
+                    
+                        
+                            La COVIP, secondo le modalita' e alle condizioni previste dalle disposizioni dell'Unione europea, collabora, anche mediante scambio di informazioni, con: 
+ 
+                        
+                        
+                            a)
+                            
+                                le banche centrali del Sistema europeo di banche centrali (SEBC), compresa la Banca centrale europea (BCE) e altri organismi con responsabilita' analoghe in quanto autorita' monetarie; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'occorrenza, altre autorita' pubbliche incaricate della vigilanza sui sistemi di pagamento.
+
 ))
 
 ((
@@ -723,6 +2005,31 @@ La COVIP e' l'unica Autorita' italiana competente ad effettuare e a ricevere, si
 
 ((
 
+2-bis.
+                    
+                        
+                            Gli scambi e le comunicazioni di informazioni previsti dal presente articolo avvengono nel rispetto delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le informazioni sono scambiate o comunicate nell'esercizio delle funzioni di controllo o di vigilanza dei soggetti interessati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le informazioni ricevute dai soggetti interessati sono soggette all'obbligo del segreto d'ufficio di cui al presente articolo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le informazioni ricevute dalla COVIP provenienti dalle istituzioni dell'Unione europea, nonche' dalle autorita' e dai comitati che compongono il SEVIF possono essere trasmesse ad altre autorita' italiane o a terzi soltanto con il consenso del soggetto che le ha fornite e unicamente per i fini per cui il consenso e' stato accordato.
+
 ))
 
 ## Art. 15-quinquies. — (Forme pensionistiche complementari con meno di cento aderenti)
@@ -734,6 +2041,24 @@ Fermo restando quanto previsto dal comma 1, l'attivita' transfrontaliera puo' es
 ## Art. 16. — Contributo di solidarieta'
 
 Fermo restando l'assoggettamento a contribuzione ordinaria nel regime obbligatorio di appartenenza di tutte le quote ed elementi retributivi di cui all'articolo 12 della legge 30 aprile 1969, n. 153, e successive modificazioni, anche se destinate a previdenza complementare, a carico del lavoratore, sulle contribuzioni o somme a carico del datore di lavoro, diverse da quella costituita dalla quota di accantonamento al TFR, destinate a realizzare le finalita' di previdenza pensionistica complementare di cui all'articolo 1, e' applicato il contributo di solidarieta' previsto nella misura del 10 per cento dall'articolo 9-bis del decreto-legge 29 marzo 1991, n. 103, convertito, con modificazioni, dalla legge 1° giugno 1991, n. 166.
+
+2.
+                    
+                        
+                            A valere sul gettito del contributo di solidarieta' di cui al comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' finanziato, attraverso l'applicazione di una aliquota pari all'1 per cento, l'apposito fondo di garanzia istituito, mediante evidenza contabile nell'ambito della gestione delle prestazioni temporanee dell'INPS, contro il rischio derivante dall'omesso o insufficiente versamento da parte dei datori di lavoro sottoposti a procedura di fallimento, di concordato preventivo, di liquidazione coatta amministrativa ovvero di amministrazione controllata, come previsto ai sensi dell'articolo 5 del decreto legislativo 27 gennaio 1992, n. 80; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' destinato al finanziamento della COVIP l'importo di ulteriori 3 milioni di euro annui a decorrere dall'anno 2005, a incremento dell'importo previsto dall'articolo 13, comma 2, della legge 8 agosto 1995, n. 335, come integrato dall'articolo 59, comma 39, della legge 27 dicembre 1997, n. 449; a tale fine e' autorizzata, a decorrere dall'anno 2005, la spesa di 3 milioni di euro annui a favore dell'INPS.
 
 ## Art. 17. — Regime tributario delle forme pensionistiche complementari
 
@@ -832,7 +2157,203 @@ Le forme pensionistiche complementari di cui al presente decreto, ivi comprese q
 
 La COVIP fornisce informativa all'AEAP, secondo le modalita' dalla stessa definite, in merito ai fondi iscritti all'Albo e alle eventuali cancellazioni effettuate.
 
+2.
+                    
+                        
+                            In conformita' agli indirizzi generali del Ministero del lavoro e delle politiche sociali, di concerto con il Ministero dell'economia e delle finanze, e ferma restando la vigilanza di stabilita' esercitata dalle rispettive autorita' di controllo sui soggetti abilitati di cui all'articolo 6, comma 1, la COVIP esercita, anche mediante l'emanazione di istruzioni di carattere generale e particolare, la vigilanza su tutte le forme pensionistiche complementari con approccio prospettico e basato sul rischio. I poteri di vigilanza sono esercitati in modo tempestivo e proporzionato alle dimensioni, alla natura, alla portata e alla complessita' delle attivita' della forma pensionistica complementare.
+In tale ambito: 
+ 
+                        
+                        
+                            a)
+                            
+                                definisce le condizioni che, al fine di garantire il rispetto dei principi di trasparenza, comparabilita' e portabilita', le forme pensionistiche complementari devono soddisfare per poter essere ricondotte nell'ambito di applicazione del presente decreto ed essere iscritte all'albo di cui al comma 1; 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                elabora gli schemi degli statuti e dei regolamenti delle forme pensionistiche complementari; 
+
+                            
+                        
+                        
+                            a-ter)
+                            
+                                detta disposizioni di dettaglio, anche attraverso gli schemi degli statuti e dei regolamenti, in materia di sistema di governo delle forme pensionistiche complementari, con esclusione dei fondi pensione costituiti nella forma di patrimoni separati ai sensi dell'articolo 3, comma 1, lettera i), incluse le funzioni fondamentali, nonche' relativamente al documento sulla politica di remunerazione e al documento sulla valutazione interna del rischio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                approva gli statuti e i regolamenti delle forme pensionistiche complementari, verificando la ricorrenza delle condizioni richieste dal presente decreto e valutandone anche la compatibilita' rispetto ai provvedimenti di carattere generale da essa emanati; nel disciplinare, con propri regolamenti, le procedure per l'autorizzazione dei fondi pensione all'esercizio dell'attivita' e per l'approvazione degli statuti e dei regolamenti dei fondi, nonche' delle relative modifiche, la COVIP individua procedimenti di autorizzazione semplificati, prevedendo anche l'utilizzo del silenzio-assenso e l'esclusione di forme di approvazione preventiva.
+Tali procedimenti semplificati devono in particolar modo essere utilizzati nelle ipotesi di modifiche statutarie e regolamentari conseguenti a sopravvenute disposizioni normative. Ai fini di sana e prudente gestione, la COVIP puo' richiedere di apportare modifiche agli statuti e ai regolamenti delle forme pensionistiche complementari, fissando un termine per l'adozione delle relative delibere; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                verifica la coerenza della politica di investimento e dei criteri di individuazione e ripartizione del rischio della forma pensionistica complementare, illustrati nel documento di cui all'articolo 6, comma 5-quater, con le previsioni di cui all'articolo 6 e relative disposizioni di attuazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                definisce, sentite le autorita' di vigilanza sui soggetti abilitati a gestire le risorse delle forme pensionistiche complementari, i criteri di redazione delle convenzioni per la gestione delle risorse, cui devono attenersi le medesime forme pensionistiche e i gestori nella stipula dei relativi contratti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                vigila sulla corrispondenza delle convenzioni per la gestione delle risorse ai criteri di cui alla lettera d); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                indica criteri omogenei per la determinazione del valore del patrimonio delle forme pensionistiche complementari, della loro redditivita', nonche' per la determinazione della consistenza patrimoniale delle posizioni individuali accese presso le forme stesse; detta disposizioni volte all'applicazione di regole comuni a tutte le forme pensionistiche circa la definizione del termine massimo entro il quale le contribuzioni versate devono essere rese disponibili per la valorizzazione; detta disposizioni per la redazione dei bilanci, dei rendiconti e delle relazioni ai predetti documenti, nonche' circa le modalita' attraverso le quali tali documenti sono resi pubblici e resi disponibili agli aderenti; detta disposizioni per la tenuta delle scritture contabili, prevedendo: il modello di libro giornale, nel quale annotare cronologicamente le operazioni di incasso dei contributi e di pagamento delle prestazioni, nonche' ogni altra operazione, gli eventuali altri libri contabili, il prospetto della composizione e del valore del patrimonio della forma pensionistica complementare attraverso la contabilizzazione secondo i criteri definiti in base al decreto legislativo 24 febbraio 1998, n. 58, evidenziando le posizioni individuali degli iscritti; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                detta disposizioni volte a garantire la trasparenza delle condizioni contrattuali di tutte le forme pensionistiche complementari, al fine di tutelare l'adesione consapevole dei soggetti destinatari e garantire il diritto alla portabilita' della posizione individuale tra le varie forme pensionistiche complementari, avendo anche riguardo all'esigenza di garantire la comparabilita' dei costi; garantisce che gli iscritti attivi possano ottenere, a richiesta, informazioni in merito alle conseguenze della cessazione del rapporto di lavoro sui loro diritti pensionistici complementari e, in particolare, relative: 1) alle condizioni che disciplinano l'acquisizione di diritti pensionistici complementari e alle conseguenze della loro applicazione in caso di cessazione del rapporto di lavoro; 2) al valore dei diritti pensionistici maturati o ad una valutazione dei diritti pensionistici maturati effettuata al massimo nei dodici mesi precedenti la data della richiesta; 3) alle condizioni che disciplinano il trattamento futuro dei diritti pensionistici in sospeso; garantisce, altresi', che gli iscritti di cui all'articolo 14, comma 2, lettera c-bis), nonche' gli eredi e beneficiari di cui all'articolo 14, comma 3, possano ottenere, su richiesta, informazioni relative al valore dei loro diritti pensionistici in sospeso, o a una valutazione dei diritti pensionistici in sospeso effettuata al massimo nei dodici mesi precedenti la data della richiesta, e alle condizioni che disciplinano il trattamento dei diritti pensionistici in sospeso; disciplina, tenendo presenti le disposizioni in materia di sollecitazione del pubblico risparmio, le modalita' di offerta al pubblico di tutte le predette forme pensionistiche, dettando disposizioni volte all'applicazione di regole comuni per tutte le forme pensionistiche complementari, relativamente alle informazioni generali sulla forma pensionistica complementare, alle informazioni ai potenziali aderenti, alle informazioni periodiche agli aderenti, alle informazioni agli aderenti durante la fase di prepensionamento e alle informazioni ai beneficiari durante la fase di erogazione delle rendite. A tale fine elabora schemi per le informative da indirizzare ai potenziali aderenti, agli aderenti e ai beneficiari di tutte le forme pensionistiche complementari. Detta disposizioni sulle modalita' di pubblicita'; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                vigila sull'osservanza delle disposizioni del presente decreto e delle disposizioni secondarie di attuazione dello stesso, nonche' delle disposizioni dell'Unione europea direttamente applicabili alle forme pensionistiche complementari, con facolta' di sospendere o vietare la raccolta delle adesioni in caso di violazione delle disposizioni stesse; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                esercita il controllo sulla gestione tecnica, finanziaria, patrimoniale, contabile delle forme pensionistiche complementari, anche mediante ispezioni presso le stesse, , ivi comprese le attivita' esternalizzate e su quelle oggetto di riesternalizzazione, richiedendo l'esibizione dei documenti e degli atti che ritenga necessari; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                riferisce periodicamente al Ministro del lavoro e delle politiche sociali, formulando anche proposte di modifiche legislative in materia di previdenza complementare; 
+
+                            
+                        
+                        
+                            l-bis)
+                            
+                                diffonde regolarmente informazioni relative all'andamento della previdenza complementare; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                diffonde informazioni utili alla conoscenza dei temi previdenziali; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                programma ed organizza ricerche e rilevazioni nel settore della previdenza complementare anche in rapporto alla previdenza di base; a tale fine, le forme pensionistiche complementari sono tenute a fornire i dati e le informazioni richiesti, per la cui acquisizione la COVIP puo' avvalersi anche dell'Ispettorato del lavoro. 
+
+                            
+                        
+                        
+                            n-bis)
+                            
+                                
+                                    ((definisce la periodicita' e il numero minimo di rate in cui e' frazionabile il montante accumulato con riferimento alle prestazioni pensionistiche complementari in forma di erogazione frazionata di cui all'articolo 11, comma 3-bis;))
+                                    ((26))
+                                
+                            
+                        
+                        
+                            n-ter)
+                            
+                                
+                                    ((definisce i criteri minimi che devono soddisfare i percorsi e le linee di investimento di cui all'articolo 8, comma 9)). ((26))
+
+3.
+                    
+                        
+                            Per l'esercizio della vigilanza, la COVIP puo' richiedere in qualsiasi momento che l'organo di amministrazione e di controllo, il direttore generale, il responsabile e i titolari delle funzioni fondamentali forniscano alla stessa, per quanto di rispettiva competenza, informazioni e valutazioni su qualsiasi questione relativa alla forma pensionistica complementare e trasmettano ogni dato e documento richiesto. Con le modalita' e nei termini da essa stessa stabiliti, la COVIP puo' disporre l'invio sistematico: 
+ 
+                        
+                        
+                            a)
+                            
+                                delle segnalazioni statistiche e di vigilanza, comprese quelle a livello di singolo iscritto, nonche' di ogni altro dato e documento, anche per finalita' di monitoraggio del funzionamento complessivo del sistema di previdenza complementare in attuazione delle lettere l), l-bis), m) e n) del comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei verbali delle riunioni e degli accertamenti degli organi di controllo delle forme pensionistiche complementari.
+
+4.
+                    
+                        
+                            La COVIP puo' altresi': 
+ 
+                        
+                        
+                            a)
+                            
+                                convocare presso di se' i componenti degli organi di amministrazione e di controllo, i direttori generali, i responsabili delle forme pensionistiche complementari e i titolari delle funzioni fondamentali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ordinare la convocazione degli organi di amministrazione e di controllo delle forme pensionistiche complementari, fissandone l'ordine del giorno; in caso di inottemperanza puo' procedere direttamente alla convocazione degli organi di amministrazione e di controllo delle forme pensionistiche complementari; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                inibire con provvedimento motivato, in tutto o in parte, per un periodo massimo di 60 giorni, l'attivita' della forma pensionistica complementare ove vi sia il fondato sospetto di grave violazione delle norme del presente decreto e vi sia urgenza di provvedere.
+
 Nell'esercizio della vigilanza la COVIP ha diritto di ottenere le notizie e le informazioni richieste alle pubbliche amministrazioni.
+
+5-bis.
+                    
+                        
+                            Tenuto conto della dimensione, della natura, della portata e della complessita' delle attivita' delle forme pensionistiche complementari, la COVIP esamina periodicamente le strategie, i processi e le procedure di segnalazione stabiliti dalle forme pensionistiche complementari per rispettare le disposizioni del presente decreto e della normativa secondaria adottata in attuazione dello stesso. Il riesame tiene conto delle circostanze in cui le forme pensionistiche complementari operano e, ove opportuno, dei soggetti che eseguono per loro conto funzioni fondamentali o qualsiasi altra attivita' esternalizzata. Tale esame comprende: 
+ 
+                        
+                        
+                            a)
+                            
+                                una valutazione dei requisiti qualitativi relativi al sistema di governo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una valutazione dei rischi cui la forma pensionistica e' esposta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una valutazione della capacita' della forma di valutare e gestire tali rischi.
 
 La COVIP puo' adottare ogni strumento di monitoraggio ritenuto opportuno, incluse le prove di stress, che consenta di rilevare il deterioramento delle condizioni finanziarie di una forma pensionistica complementare e di monitorare come vi sia posto rimedio.
 
@@ -865,6 +2386,56 @@ I componenti degli organi di amministrazione e di controllo, ((i direttori gener
 
 Chiunque adotti, in qualsiasi documento o comunicazione al pubblico, la denominazione "fondo pensione" senza essere iscritto, ai sensi dell'articolo 19, comma 1, del presente decreto, all'Albo tenuto a cura della COVIP e' punito con la sanzione amministrativa pecuniaria da euro 500 ((a euro 500.000)), con provvedimento motivato del Ministero del lavoro e della previdenza sociale, sentita la COVIP.
 
+2.
+                    
+                        
+                            I componenti degli organi di amministrazione e di controllo, i direttori generali, i titolari delle funzioni fondamentali i responsabili delle forme pensionistiche complementari, i liquidatori e i commissari nominati ai sensi dell'articolo 15 che in relazione alle rispettive competenze: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel termine prescritto non ottemperano, anche in parte, alle richieste della COVIP, ovvero ritardano l'esercizio delle sue funzioni, sono puniti con la sanzione amministrativa del pagamento di una somma da euro 5.000 ((a euro 500.000)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non osservano le disposizioni previste negli articoli 1, commi 1-bis e 4, 4-bis, 5, 5-bis, 5-ter, 5-quater, 5-quinquies, 5-sexies, 5-septies, 5-octies, 5-nonies, 6, 7, 11, 13-bis, 13-ter, 13-quater, 13-quinquies, 13-sexies, 13-septies, 14, 14-bis, 15, 15-bis, 17-bis, e 20 ovvero le disposizioni generali o particolari emanate dalla COVIP in base ai medesimi articoli nonche' in base all'articolo 19 del presente decreto, sono puniti con la sanzione amministrativa pecuniaria da euro 500 ((a euro 500.000)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non osservano le disposizioni sui requisiti di onorabilita' e professionalita' e sulle cause di ineleggibilita' e di incompatibilita' e sulle situazioni impeditive previste dal decreto del Ministro del lavoro e della previdenza sociale di cui all'articolo 5-sexies, ovvero le disposizioni sui limiti agli investimenti e ai conflitti di interessi previste dal decreto del Ministro dell'economia e delle finanze di cui all'articolo 6, comma 5-bis, ovvero le disposizioni previste nel decreto adottato dal Ministro dell'economia e delle finanze, di concerto con il Ministro del lavoro e della previdenza sociale, di cui all'articolo 20, comma 2, del presente decreto, sono puniti con una sanzione amministrativa da euro 500 ((a euro 500.000)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non effettuano le comunicazioni relative alla sopravvenuta variazione delle condizioni di onorabilita' di cui all'articolo 5-sexies, lettera b), nel termine di quindici giorni dal momento in cui sono venuti a conoscenza degli eventi e delle situazioni relative, sono puniti con la sanzione amministrativa del pagamento di una somma da 2.600 euro ((a euro 500.000)).
+
+2-bis.
+                    
+                        
+                            I soggetti di cui al comma 2 che, in relazione alle rispettive competenze: 
+ 
+                        
+                        
+                            a)
+                            
+                                non osservano le disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 7, 8, 9, 10, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 12, 13, 14, 16, paragrafi 1 e 2, 17, 18, paragrafi 1 e 2, 19, paragrafi 1, 3 e 4, 24, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, sono puniti con la sanzione amministrativa pecuniaria di cui al comma 2, lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                omettono di collaborare o di dare seguito nell'ambito di un'indagine, di un'ispezione o di una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, sono puniti con la sanzione amministrativa di cui al comma 2, lettera a).
+
 Alle sanzioni di cui al comma 2-bis si applicano i commi 3, 4, a eccezione del secondo periodo, e 4-bis dell'articolo 19-quater del decreto legislativo 5 dicembre 2005, n. 252.
 
 Nelle ipotesi di cui al comma 2, nei casi di maggiore gravita', la COVIP puo' dichiarare decaduti dall'incarico i componenti degli organi collegiali, il direttore generale, il responsabile della forma pensionistica e i titolari delle funzioni fondamentali.
@@ -884,6 +2455,24 @@ Entro il termine di sessanta giorni dalla notifica della contestazione di cui al
 Tenuto conto degli atti di contestazione, delle deduzioni scritte presentate dagli interessati e delle dichiarazioni rese in audizione, l'organo di vertice della COVIP decide in ordine all'applicazione delle sanzioni o dispone l'archiviazione del procedimento con provvedimento motivato.
 
 Il provvedimento di applicazione delle sanzioni contro il quale non e' stato presentato alcun ricorso in tempo utile e' pubblicato senza ritardo e per estratto sul sito web della COVIP, fornendo informazioni sul tipo e la natura della violazione e l'identita' delle persone responsabili. Nel caso in cui avverso il provvedimento di applicazione della sanzione sia stato presentato ricorso, la COVIP ne da' menzione nel proprio sito web a margine della pubblicazione, annotando successivamente anche l'esito dello stesso. Tenuto conto della natura della violazione e degli interessi coinvolti, nel provvedimento di applicazione della sanzione possono essere stabilite modalita' ulteriori per dare pubblicita' al provvedimento, ponendo le relative spese a carico dell'autore della violazione.
+
+5.
+                    
+                        
+                            Nel provvedimento di applicazione della sanzione puo' essere deciso di pubblicare le sanzioni in forma anonima qualora: 
+ 
+                        
+                        
+                            a)
+                            
+                                la pubblicazione dell'identita' delle persone giuridiche o dell'identita' o dei dati personali delle persone fisiche possa causare un pregiudizio sproporzionato ai soggetti coinvolti, purche' tale pregiudizio sia determinabile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora la pubblicazione comprometta la stabilita' dei mercati finanziari o un'indagine in corso.
 
 Quando le situazioni descritte nel comma 5 hanno carattere temporaneo, la pubblicazione dei nomi dei soggetti sanzionati e' effettuata quando queste sono venute meno.
 
@@ -938,6 +2527,38 @@ La lettera d) del comma 1 dell'articolo 52 del TUIR e' sostituita dalla seguente
 ((2. La lettera e-bis) del comma 1 dell'articolo 10 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e' sostituita dalla seguente: 
  "e-bis) i contributi versati alle forme pensionistiche complementari di cui al decreto legislativo 5 dicembre 2005, n. 252, alle condizioni e nei limiti previsti dall'articolo 8 del medesimo decreto. Alle medesime condizioni ed entro gli stessi limiti sono deducibili i contributi versati alle forme pensionistiche complementari istituite negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto del Ministro delle finanze 4 settembre 1996, pubblicato nella Gazzetta Ufficiale n. 220 del 19 settembre 1996, e successive modificazioni, emanato in attuazione dell'articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239"))
 
+3.
+                    
+                        
+                            Sono abrogate le seguenti disposizioni del TUIR e successive modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ultimo periodo del comma 2 dell'articolo 10; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera a-bis) del comma 1 dell'articolo 17; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 20; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera d-ter) del comma 1 dell'articolo 52.
+
 Il comma 3 dell'articolo 105 del TUIR e' sostituito dal seguente: "3. L'ammontare del TFR annualmente destinato a forme pensionistiche complementari e' deducibile nella misura prevista dall'articolo 10, comma 1, del decreto legislativo 5 dicembre 2005, n. 252".
 
 All'articolo 24 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e' aggiunto, in fine, il seguente comma: 
@@ -961,6 +2582,26 @@ Il presente decreto legislativo entra in vigore il 1° gennaio 2007, salvo per q
 
 Le norme di cui all'articolo 8, comma 7, relative alle modalita' tacite di conferimento del TFR alle forme pensionistiche complementari, non si applicano ai lavoratori le cui aziende non sono in possesso dei requisiti di accesso al Fondo di garanzia di cui all'articolo 10, comma 3, limitatamente al periodo in cui sussista tale situazione e comunque non oltre un anno dall'entrata in vigore del presente decreto legislativo; i lavoratori delle medesime aziende possono tuttavia conferire il TFR secondo le modalita' esplicite di cui all'art. 8, comma 7, e in questo caso l'azienda beneficia delle agevolazioni previste al predetto articolo 10, con esclusione dell'accesso al predetto Fondo di garanzia.
 
+3.
+                    
+                        
+                            Entro sei mesi dalla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana dal presente decreto legislativo, la COVIP emana le direttive, a tutte le forme pensionistiche, sulla base dei contenuti del presente decreto legislativo. Per ricevere nuove adesioni, anche con riferimento al finanziamento tramite conferimento del TFR: 
+ 
+                        
+                        
+                            a)
+                            
+                                tutte le forme pensionistiche devono adeguarsi, sulla base delle citate direttive, alle norme del presente decreto legislativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le imprese di assicurazione, per le forme pensionistiche individuali attuate prima della predetta data mediante contratti di assicurazione sulla vita, provvedono: 
+ 1) alla costituzione, entro il 31 marzo 2007, del patrimonio autonomo e separato di cui all'articolo 13, comma 3, con l'individuazione degli attivi posti a copertura dei relativi impegni secondo criteri di proporzionalita' dei valori e delle tipologie degli attivi stessi; 
+ 2) alla predisposizione del regolamento di cui all'articolo 13, comma 3.
+
 Per le forme pensionistiche complementari di cui agli articoli 12 e 13, le disposizioni previste agli articoli 4 e 5 in materia di responsabile della forma pensionistica e dell'organismo di sorveglianza si applicano a decorrere dal 1° luglio 2007.
 
 A decorrere dal l° gennaio 2007, le forme pensionistiche complementari che hanno provveduto agli adeguamenti di cui alle lettere a) e b), n. 2), del comma 3, dandone comunicazione alla COVIP secondo le istruzioni impartite dalla stessa, possono ricevere nuove adesioni anche con riferimento al finanziamento tramite conferimento del TFR. Relativamente a tali adesioni, le forme pensionistiche complementari che entro il 30 giugno 2007 abbiano ricevuto da parte della COVIP, anche tramite procedura di silenzio-assenso ai sensi dell'articolo 19, comma 2, lettera b), l'autorizzazione o l'approvazione in ordine ai predetti adeguamenti ed abbiano altresi' provveduto, per quanto di competenza, agli ulteriori adeguamenti di cui al comma 3, lettera b), n. l), ricevono, a decorrere dal 1° luglio 2007, il versamento del TFR e dei contributi eventualmente previsti, anche con riferimento al periodo compreso tra il l° gennaio 2007 e il 30 giugno 2007. Con riguardo ai lavoratori di cui all'articolo 8, comma 7, lettera c), n. 1), il predetto differimento si applica relativamente al versamento del residuo TFR. Qualora la forma pensionistica complementare non abbia ricevuto entro il 30 giugno 2007 la predetta autorizzazione o approvazione, all'aderente e' consentito trasferire l'intera posizione individuale maturata ad altra forma pensionistica complementare, anche in mancanza del periodo minimo di partecipazione di due anni di cui all'articolo 14, comma 6.
@@ -970,6 +2611,31 @@ Le forme pensionistiche complementari istituite alla data di entrata in vigore d
 Per i soggetti che risultino iscritti a forme pensionistiche complementari alla data di entrata in vigore del presente decreto legislativo le disposizioni concernenti la deducibilita' dei premi e contributi versati e il regime di tassazione delle prestazioni si rendono applicabili a decorrere dal 1° gennaio 2007. Per i medesimi soggetti, relativamente ai montanti delle prestazioni accumulate fino a tale data, continuano ad applicarsi le disposizioni previgenti ad eccezione dell'articolo 20, comma 1, secondo periodo, del TUIR. Per le prestazioni erogate anteriormente alla suddetta data per le quali gli uffici finanziari non hanno provveduto a tale data, all'iscrizione a ruolo per le maggiori imposte dovute ai sensi dell'articolo 20, comma 1, secondo periodo, del predetto testo unico, non si da' luogo all'attivita' di riliquidazione prevista dal medesimo secondo periodo del comma 1 dell'articolo 20 del medesimo testo unico.
 
 Fino all'emanazione del decreto legislativo di attuazione dell'articolo 1, comma 2, lettera p), della legge 23 agosto 2004, n. 243, ai dipendenti delle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, si applica esclusivamente ed integralmente la previgente normativa.((23))
+
+7.
+                    
+                        
+                            Per i lavoratori assunti antecedentemente al 29 aprile 1993 e che entro tale data risultino iscritti a forme pensionistiche complementari istituite alla data di entrata in vigore dalla legge 23 ottobre 1992, n. 421: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle contribuzioni versate dalla data di entrata in vigore del presente decreto si applicano le disposizioni di cui ai commi 4 e 5 dell'articolo 8; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai montanti delle prestazioni entro il 31 dicembre 2006 si applica il regime tributario vigente alla predetta data; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai montanti delle prestazioni a decorrere dalla data di entrata in vigore del presente decreto legislativo, ferma restando la possibilita' di richiedere la liquidazione della intera prestazione pensionistica complementare in capitale secondo il valore attuale con applicazione del regime tributario vigente alla data del 31 dicembre 2006 sul montante accumulato a partire dalla data di entrata in vigore del presente decreto, e' concessa la facolta' al singolo iscritto di optare per l'applicazione del regime di cui all'articolo 11.
 
 Nel caso di conferimento alla forma pensionistica complementare di quote di TFR maturate entro il 31 dicembre 2006 resta ferma, in occasione dell'erogazione delle prestazioni, l'applicazione delle disposizioni del comma 5. A tal fine le somme versate concorrono a incrementare convenzionalmente la posizione individuale in corrispondenza dei periodi di formazione del TFR conferito. Con provvedimento del direttore dell'Agenzia delle entrate sono stabiliti i criteri e le modalita' per lo scambio delle informazioni tra le forme pensionistiche e i datori di lavoro presso i quali sono maturate le quote di TFR. Le disposizioni del presente comma si applicano per i conferimenti effettuati a partire dal 1° gennaio 2007.
 

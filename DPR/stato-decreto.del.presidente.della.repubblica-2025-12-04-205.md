@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2025-12-04;205
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -59,6 +59,24 @@ USIF
 Ai sensi dell'articolo 46, comma 1, del decreto legislativo 29 maggio 2017, n. 95, e successive modificazioni, il presente decreto si applica, per il periodo dal 1° gennaio 2021 al 31 dicembre 2023, al personale dirigente della Polizia di Stato e del Corpo di polizia penitenziaria, a tal fine anche impiegando le risorse non utilizzate derivanti dall'accordo per il triennio 2018-2020.
 
 ## Art. 2. — Estensione degli istituti economici
+
+1.
+                        
+                            
+                                A decorrere dal 1° gennaio 2022, al personale con qualifica dirigenziale sono applicate, cosi' come vigenti alla data di entrata in vigore del presente decreto e in quanto compatibili in relazione all'ordinamento di ciascuna Forza di polizia ad ordinamento civile, le disposizioni di cui ai seguenti articoli del decreto del Presidente della Repubblica 20 aprile 2022, n. 57: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 9, nel rispetto degli incrementi percentuali previsti per le singole qualifiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articoli 10, 11, 12, 14, 15, 16, 17, 19, 20 e 21.
 
 A decorrere dal 1° gennaio 2022, l'indennita' mensile di impiego per il personale del Nucleo operativo centrale di sicurezza (NOCS) della Polizia di Stato di cui all'articolo 9 del decreto del Presidente della Repubblica 16 aprile 2009, n. 51, e' estesa al personale dirigente in relazione alla qualifica e all'anzianita' di servizio, nella misura e con la decorrenza indicate nelle seguenti tabelle: 
 dal 1° gennaio 2022 
@@ -486,6 +504,24 @@ L'elemento retributivo di cui al comma 1 viene corrisposto in relazione ai mesi 
 
 ## Art. 5. — Risorse non utilizzate con riferimento al triennio 2018 - 2020
 
+1.
+                        
+                            
+                                Per le Forze di polizia a ordinamento civile le risorse non utilizzate derivanti dall'applicazione del presente decreto sono oggetto di successivo accordo e sono pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la Polizia di Stato: euro 209.807 per il 2018, euro 728.464 per il 2019, euro 902.446 per il 2020, euro 1.064.189 per il 2021, euro 1.018.500 per il 2022, euro 1.028.817 per il 2023 e euro 2.127.769 a decorrere dal 2024; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il Corpo di polizia penitenziaria: euro 33.490 per il 2018, euro 122.767 per il 2019, euro 74.831 per il 2020, euro 93.533 per il 2021, euro 83.492 per il 2022, euro 80.766 per il 2023 e euro 285.562 a decorrere dal 2024.
+
 Le risorse di cui al comma 1 sono al netto di quelle utilizzate in applicazione dell'articolo 12-bis, comma 2, del decreto-legge 14 giugno 2019, n. 53, convertito con modificazioni dalla legge 8 agosto 2019, n. 77.
 
 Le risorse di cui al presente articolo non comprendono gli oneri contributivi a carico dello Stato e l'imposta regionale sulle attivita' produttive.
@@ -507,6 +543,24 @@ In via transitoria e fino alla definizione della disciplina relativa alle prerog
 Ai sensi dell'articolo 46, comma 1-bis, del decreto legislativo 29 maggio 2017, n. 95, e successive modificazioni, il presente decreto si applica, per il periodo dal 1° gennaio 2021 al 31 dicembre 2023, al personale dirigente dell'Arma dei carabinieri e del Corpo della guardia di finanza, a tal fine anche impiegando le risorse non utilizzate derivanti dall'accordo per il triennio 2018-2020.
 
 ## Art. 9. — Estensione degli istituti economici
+
+1.
+                        
+                            
+                                A decorrere dal 1° gennaio 2022, al personale dirigente sono applicate, cosi' come vigenti alla data di entrata in vigore del presente decreto e in quanto compatibili in relazione all'ordinamento di ciascuna Forza di polizia ad ordinamento militare, le disposizioni di cui ai seguenti articoli del decreto del Presidente della Repubblica 20 aprile 2022, n. 57: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 40, nel rispetto degli incrementi percentuali previsti per i singoli gradi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articoli 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51 e 52.
 
 ## Art. 10. — Estensione degli istituti normativi
 
@@ -719,6 +773,24 @@ L'elemento retributivo di cui al comma 1 viene corrisposto in relazione ai mesi 
 
 ## Art. 12. — Risorse non utilizzate con riferimento al triennio 2018 - 2020
 
+1.
+                        
+                            
+                                Per le Forze di polizia ad ordinamento militare le risorse non utilizzate derivanti dall'applicazione del presente decreto sono oggetto di successivo accordo e sono pari a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'Arma dei carabinieri: euro 149.670 per il 2018, euro 802.563 per il 2019, euro 1.155.835 per il 2020, euro 1.279.348 per il 2021, euro 906.802 per il 2022, euro 923.446 per il 2023 e euro 2.341.309 a decorrere dal 2024; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la Guardia di finanza: euro 71.718 per il 2018, euro 423.385 per il 2019, euro 618.718 per il 2020, euro 701.661 per il 2021, euro 71.526 per il 2022, euro 34.374 per il 2023 e euro 1.367.041 a decorrere dal 2024.
+
 Le risorse di cui al comma 1 sono al netto di quelle utilizzate in applicazione dell'articolo 12-bis, comma 2, del decreto-legge 14 giugno 2019, n. 53, convertito con modificazioni dalla legge 8 agosto 2019, n. 77.
 
 Le risorse di cui al presente articolo non comprendono gli oneri contributivi a carico dello Stato e l'imposta regionale sulle attivita' produttive.
@@ -734,4 +806,51 @@ Le risorse di cui al presente articolo non comprendono gli oneri contributivi a 
 Al personale di cui ai Titoli I e II continuano ad applicarsi le disposizioni normative, negoziali e quelle dei provvedimenti di concertazione vigenti gia' estese alla data di entrata in vigore del presente decreto.
 
 ## Art. 15. — Copertura finanziaria
+
+1.
+                        
+                            
+                                In coerenza con quanto disposto dall'articolo 46 del decreto legislativo 29 maggio 2017, n. 95, al fine di escludere maggiori oneri per la finanza pubblica non coperti con le risorse previste a legislazione vigente, i miglioramenti economici di cui al presente decreto rimangono fissati negli importi ivi stabiliti e, per gli emolumenti correlati all'indennita' operativa di base, negli importi determinati sulla base dei valori di detta indennita' in vigore fino al 31 dicembre 2025, fatti salvi gli eventuali adeguamenti da parte dei successivi accordi nell'ambito delle risorse disponibili sulla base della legislazione vigente. 
+ Agli oneri derivanti dall'attuazione del presente decreto, pari a euro 6.406.928 per l'anno 2021, euro 13.903.735 per l'anno 2022, euro 13.974.274 per l'anno 2023, euro 3.732.063 per l'anno 2024 e euro 3.732.731 a decorrere dall'anno 2025 si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a euro 4.056.298 per ciascuno degli anni 2021, 2022 e 2023 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 680, della legge 27 dicembre 2017, n. 205 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a euro 23.965, per l'anno 2021, a euro 1.471.441 per l'anno 2022 e euro 1.541.980 per l'anno 2023 mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 442, della legge 30 dicembre 2018, n. 145 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a euro 2.326.665 per l'anno 2021, euro 3.722.666 per ciascuno degli anni 2022, 2023 e 2024, mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 20, comma 1, del 30 dicembre 2019, n. 162 convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quanto a euro 3.722.666 a decorrere dall'anno 2025, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 20, comma 1, del 30 dicembre 2019, n. 162 convertito, con modificazioni, dalla legge 28 febbraio 2020, n. 8; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quanto a euro 4.653.330 per ciascuno degli anni 2022 e 2023 e euro 9.397 per l'anno 2024, mediante corrispondente utilizzo delle disponibilita' in conto residui di cui all'articolo 1, comma 619, della legge 30 dicembre 2021, n. 234 che sono versate all'entrata del bilancio dello Stato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quanto a euro 10.065 a decorrere dall'anno 2025 mediante corrispondente riduzione dell'autorizzazione di cui all'articolo 1, comma 619, della legge 30 dicembre 2021, n. 234.
 

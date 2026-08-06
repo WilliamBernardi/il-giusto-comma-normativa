@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,67 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'eco
 Ai fini dell'applicazione del presente decreto, per «principi contabili internazionali» si intendono i principi contabili internazionali e le relative interpretazioni adottati secondo la procedura di cui all'articolo 6 del regolamento (CE) n. 1606/2002 del Parlamento europeo e del Consiglio, del 19 luglio 2002.
 
 ## Art. 2. — Ambito di applicazione
+
+1.
+                    
+                        
+                            Il presente decreto si applica a: 
+ 
+                        
+                        
+                            a)
+                            
+                                le societa' emittenti strumenti finanziari ammessi alla negoziazione in mercati regolamentati di qualsiasi Stato membro dell'Unione europea, diverse da quelle di cui alla lettera d); 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                le societa' emittenti strumenti finanziari ammessi alla negoziazione in un sistema multilaterale di negoziazione di cui all'articolo 1, comma 5-octies, lettera a), del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 27 MARZO 2026, N. 47)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le banche italiane di cui all'articolo 1 del decreto legislativo 1° settembre 1993, n. 385; le societa' finanziarie italiane di cui all'articolo 59, comma 1), lettera b), del decreto legislativo 1° settembre 1993, n. 385, che controllano banche o gruppi bancari iscritti nell'albo di cui all'articolo 64 del decreto legislativo 1° settembre 1993, n. 385, ad eccezione delle imprese di cui alla lettera d); le societa' di partecipazione finanziaria mista italiane di cui all'articolo 59 comma 1), lettera b-bis), del decreto legislativo 1° settembre 1993, n. 385, che controllano una o piu' banche o societa' finanziarie ovunque costituite qualora il settore di maggiore dimensione all'interno del conglomerato finanziario sia quello bancario determinato ai sensi del decreto legislativo 30 maggio 2005, n. 142; le societa' di intermediazione mobiliare di cui all'articolo 1, comma 1, lettera e), del decreto legislativo 24 febbraio 1998, n. 58 (SIM); le societa' finanziarie italiane che controllano SIM o gruppi di SIM iscritti nell'albo di cui all'articolo 11, comma 1-bis, del decreto legislativo 24 febbraio 1998, n. 58; le societa' di gestione del risparmio di cui all'articolo 1, comma 1, lettera o), del decreto legislativo 24 febbraio 1998, n. 58; ((, a eccezione di quelle sotto soglia registrate di cui al medesimo articolo 1, comma 1, lettera o.2), del decreto legislativo n. 58 del 1998,)) le societa' finanziarie iscritte nell'albo di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385; le societa' finanziarie che controllano societa' finanziarie iscritte nell'albo di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, o gruppi finanziari iscritti nell'albo di cui all'articolo 110 del decreto legislativo 1° settembre 1993, n. 385; le agenzie di prestito su pegno di cui all'articolo 112 del decreto legislativo 1° settembre 1993, n. 385; gli istituti di moneta elettronica di cui al titolo V-bis del decreto legislativo 1° settembre 1993, n. 385; gli istituti di pagamento di cui al titolo V-ter del decreto legislativo 1° settembre 1993, n. 385, gli emittenti di token collegati ad attivita' autorizzati ai sensi dell'articolo 21 del regolamento (UE) 2023/1114, del Parlamento europeo e del Consiglio, del 31 maggio 2023; i prestatori di servizi per le cripto-attivita' autorizzati ai sensi dell'articolo 63 del regolamento (UE) 2023/1114; (6) 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le societa' che esercitano le imprese incluse nell'ambito di applicazione dell' articolo 88, commi 1 e 2, e quelle di cui all' articolo 95, commi 2 e 2-bis), del codice delle assicurazioni private; (6) 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le societa' incluse, secondo i metodi di consolidamento integrale, proporzionale e del patrimonio netto, nel bilancio consolidato redatto dalle societa' indicate alle lettere da a) a d), diverse da quelle che possono redigere il bilancio in forma abbreviata, ai sensi dell'articolo 2435-bis del codice civile, e diverse da quelle indicate alle lettere da a) a d); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le societa' diverse da quelle indicate alle lettere da a) ad e) e diverse da quelle che possono redigere il bilancio in forma abbreviata, ai sensi dell'articolo 2435-bis del codice civile, che redigono il bilancio consolidato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le societa' diverse da quelle indicate alle lettere da a) ad f) e diverse da quelle che possono redigere il bilancio in forma abbreviata, ai sensi dell'articolo 2435-bis del codice civile.
 
 ---------------
                         AGGIORNAMENTO (6)
@@ -81,6 +142,24 @@ Il bilancio di esercizio e il bilancio consolidato secondo i principi contabili 
 
 ## Art. 6. — Distribuzione di utili e riserve
 
+1.
+                    
+                        
+                            Le societa' che redigono il bilancio di esercizio secondo i principi contabili internazionali non possono distribuire: 
+ 
+                        
+                        
+                            a)
+                            
+                                utili d'esercizio in misura corrispondente alle plusvalenze iscritte nel conto economico, al netto del relativo onere fiscale e diverse da quelle riferibili agli strumenti finanziari di negoziazione ((se risultanti dal bilancio)) e all'operativita' in cambi e di copertura, che discendono dall'applicazione del criterio del valore equo (fair value) o del patrimonio netto;((9))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                riserve del patrimonio netto costituite e movimentate ((a seguito della valutazione delle attivita' e passivita' al valore equo (fair value) rilevata nelle altre componenti del prospetto della redditivita' complessiva)).((9))
+
 Gli utili corrispondenti alle plusvalenze di cui al comma 1, lettera a), sono iscritti in una riserva indisponibile. In caso di utili di esercizio di importo inferiore a quello delle plusvalenze, la riserva e' integrata, per la differenza, utilizzando le riserve di utili disponibili o, in mancanza, accantonando gli utili degli esercizi successivi.
 
 La riserva di cui al comma 2 si riduce in misura corrispondente all'importo delle plusvalenze realizzate, anche attraverso l'ammortamento, o divenute insussistenti per effetto della svalutazione.
@@ -127,6 +206,32 @@ Il saldo delle differenze positive e negative di valore sulle attivita' e passiv
 
 Agli effetti contabili connessi con il passaggio dai principi contabili internazionali alla normativa nazionale, rilevati dai soggetti indicati nell'articolo 2-bis, si applicano le disposizioni dei commi seguenti.
 
+2.
+                    
+                        
+                            Se il saldo degli effetti contabili connessi con il passaggio dai principi contabili internazionali alla normativa nazionale e' positivo, il saldo e' iscritto in una riserva indisponibile.
+Quest'ultima: 
+ 
+                        
+                        
+                            a)
+                            
+                                si riduce in misura corrispondente all'importo delle plusvalenze realizzate, anche attraverso l'ammortamento, o divenute insussistenti per effetto della svalutazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' indisponibile anche ai fini dell'imputazione a capitale e degli utilizzi previsti dagli articoli 2350, terzo comma, 2357, primo comma, 2358, sesto comma, 2359-bis, primo comma, 2432 e 2478-bis, quarto comma, del codice civile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                puo' essere utilizzata per la copertura delle perdite di esercizio solo dopo l'utilizzo delle riserve di utili disponibili e della riserva legale. In tale caso essa deve essere reintegrata accantonando gli utili degli esercizi successivi.
+
 Alle fattispecie di cui al presente articolo si applicano, in quanto compatibili, le disposizioni di cui all'articolo 13 del presente decreto e quelle di cui all'articolo 15, comma 1, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. (14) ((16)) 
  
  (9)
@@ -169,6 +274,33 @@ La Commissione nazionale per le societa' e la borsa predispone gli schemi di bil
 
 ## Art. 9-bis. — (Ruolo e funzioni dell' Organismo Italiano di Contabilita')
 
+1.
+                    
+                        
+                            L 'organismo Italiano di Contabilita', istituto nazionale per i principi contabili: 
+ 
+                        
+                        
+                            a)
+                            
+                                emana i principi contabili nazionali, ispirati alla migliore prassi operativa, per la redazione dei bilanci secondo le disposizioni del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fornisce supporto all'attivita' del Parlamento e degli Organi Governativi in materia di normativa contabile cd esprime pareri, quando cio' e' previsto da specifiche disposizioni di legge o dietro richiesta di altre istituzioni pubbliche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((partecipa al processo di elaborazione di principi e standard in materia di informativa contabile e di sostenibilita' a livello europeo e internazionale, intrattenendo rapporti con la International Financial Reporting Standards Foundation (IFRS Foundation), con l'European Financial Reporting Advisory Group (EFRAG) e con gli organismi di altri Paesi preposti alle medesime attivita')). 
+ Con riferimento alle attivita' di cui alle a), b) e c), si coordina con le Autorita' nazionali che hanno competenze in materia contabile.
+
 Nell'esercizio delle proprie funzioni l'Organismo Italiano di Contabilita' persegue finalita' di interesse pubblico, agisce in modo indipendente e adegua il proprio statuto ai canoni di efficienza e di economicita'. Esso riferisce annualmente al Ministero dell'economia e delle finanze sull 'attivita' svolta.
 
 ## Art. 9-ter. — (Finanziamento dell'Organismo Italiano di Contabilita')
@@ -181,9 +313,94 @@ Il Collegio dei fondatori dell'Organismo Italiano di Contabilita' stabilisce ann
 
 ## Art. 10. — Modifiche al decreto legislativo 27 gennaio 1992, n. 87
 
+1.
+                    
+                        
+                            Al decreto legislativo 27 gennaio 1992, n. 87, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 1, lettera e), le parole «operanti nel settore finanziario previsti dal titolo V» sono sostituite dalle seguenti: «di cui ai titoli V e V-bis»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 25, comma 1, dopo la lettera a) e' inserita la seguente: «a-bis) la banca, non ricompresa in un gruppo bancario, che controlla altre imprese;».
+
 ## Art. 11. — Disposizioni tributarie
 
+1.
+                    
+                        
+                            Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 83, comma 1, dopo le parole: "d'imposta,", sono inserite le seguenti: "aumentato o diminuito dei componenti che per effetto dei principi contabili internazionali sono imputati direttamente a patrimonio";
 
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 102, comma 7, il primo periodo e' sostituito dal seguente: "Per i beni concessi in locazione finanziaria l'impresa concedente che imputa a conto economico i relativi canoni deduce quote di ammortamento determinate in ciascun esercizio nella misura risultante dal relativo piano di ammortamento finanziario e non e' ammesso l'ammortamento anticipato; indipendentemente dai criteri di contabilizzazione, per l'impresa utilizzatrice e' ammessa la deduzione dei canoni di locazione a condizione che la durata del contratto non sia inferiore a otto anni, se questo ha per oggetto beni immobili, e alla meta' del periodo di ammortamento corrispondente al coefficiente stabilito a norma del comma 2, in relazione all'attivita' esercitata dall'impresa stessa, se il contratto ha per oggetto beni mobili.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nell'articolo 108, comma 3, e' aggiunto in fine il seguente periodo: "Le medesime spese, non capitalizzabili per effetto dei principi contabili internazionali, sono deducibili in quote costanti nell'esercizio in cui sono state sostenute e nei quattro successivi.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'articolo 109, comma 4, sono apportate le seguenti modificazioni:
+ 1) nell'alinea, dopo il primo periodo, e' inserito il seguente: "Si considerano imputati a conto economico i componenti imputati direttamente a patrimonio per effetto dei principi contabili internazionali.";
+ 2) nella lettera b) il secondo periodo e' sostituito dal seguente: "Gli ammortamenti dei beni materiali e immateriali, le altre rettifiche di valore, gli accantonamenti e le differenze tra i canoni di locazione finanziaria di cui all'articolo 102, comma 7, e la somma degli ammortamenti dei beni acquisiti in locazione finanziaria e degli interessi passivi che derivano dai relativi contratti imputati a conto economico sono deducibili se in apposito prospetto della dichiarazione dei redditi e' indicato il loro importo complessivo, i valori civili e fiscali dei beni e quelli dei fondi.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 110, sono apportate le seguenti modificazioni:
+ 1) al comma 1:
+ a) alla lettera b), il secondo periodo e' sostituito dal seguente: "Tuttavia per i beni materiali e immateriali strumentali per l'esercizio dell'impresa si comprendono nel costo gli interessi passivi iscritti in bilancio ad aumento del costo stesso per effetto di disposizioni di legge.";
+ b) la lettera c) e' sostituita dalla seguente: "c) Il costo dei beni rivalutati, diversi da quelli di cui all'articolo 85, comma 1, lettere a), b) ed e), non si intende comprensivo delle plusvalenze iscritte, ad esclusione di quelle che per disposizione di legge non concorrono a formare il reddito. Per i beni indicati nella citata lettera e) che costituiscono immobilizzazioni finanziarie le plusvalenze iscritte non concorrono a formare il reddito per la parte eccedente le minusvalenze dedotte;";
+ 2) il comma 3 e' sostituito dal seguente: "3. La valutazione secondo il cambio alla data di chiusura dell'esercizio dei crediti e debiti in valuta, anche sotto forma di obbligazioni, di titoli cui si applica la disciplina delle obbligazioni ai sensi del codice civile o di altre leggi o di titoli assimilati, non assume rilevanza. Si tiene conto della valutazione al cambio della data di chiusura dell'esercizio delle attivita' e delle passivita' per le quali il rischio di cambio e' coperto, qualora i contratti di copertura siano anche essi valutati in modo coerente secondo il cambio di chiusura dell'esercizio.";
+ 3) il comma 4 e' abrogato;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'articolo 112 e' sostituito dal seguente:
+ "Art. 112 (Operazioni fuori bilancio). - 1. Si considerano operazioni "fuori bilancio":
+ a) i contratti di compravendita non ancora regolati, a pronti o a termine, di titoli e valute;
+ b) i contratti derivati con titolo sottostante;
+ c) i contratti derivati su valute;
+ d) i contratti derivati senza titolo sottostante collegati a tassi di interesse, a indici o ad altre attivita'.
+ 2. Alla formazione del reddito concorrono i componenti positivi e negativi che risultano dalla valutazione delle operazioni "fuori bilancio" in corso alla data di chiusura dell'esercizio.
+ 3. I componenti negativi di cui al comma 2 non possono essere superiori alla differenza tra il valore del contratto o della prestazione alla data della stipula o a quella di chiusura dell'esercizio precedente e il corrispondente valore alla data di chiusura dell'esercizio. Per la determinazione di quest'ultimo valore, si assume:
+ a) per i contratti uniformi a termine negoziati in mercati regolamentari italiani o esteri, l'ultima quotazione rilevata entro la chiusura dell'esercizio;
+ b) per i contratti di compravendita di titoli il valore determinato ai sensi delle lettere a) e b) del comma 4 dell'articolo 94;
+ c) per i contratti di compravendita di valute, il tasso di cambio a pronti, corrente alla data di chiusura dell'esercizio, se si tratta di operazioni a pronti non ancora regolate, il tasso di cambio a termine corrente alla suddetta data per scadenze corrispondenti a quelle delle operazioni oggetto di valutazione, se si tratta di operazioni a termine;
+ d) in tutti gli altri casi, il valore determinato secondo i criteri di cui alla lettera c) del comma 4 dell'articolo 9.
+ 4. Se le operazioni di cui al comma 1 sono poste in essere con finalita' di copertura di attivita' o passivita', ovvero sono coperte da attivita' o passivita', i relativi componenti positivi e negativi derivanti da valutazione o da realizzo concorrono a formare il reddito secondo le medesime disposizioni che disciplinano i componenti positivi e negativi, derivanti da valutazione o da realizzo, delle attivita' o passivita' rispettivamente coperte o di copertura.
+ 5. Se le operazioni di cui al comma 2 sono poste in essere con finalita' di copertura dei rischi relativi ad attivita' e passivita' produttive di interessi, i relativi componenti positivi e negativi concorrono a formare il reddito, secondo lo stesso criterio di imputazione degli interessi, se le operazioni hanno finalita' di copertura di rischi connessi a specifiche attivita' e passivita', ovvero secondo la durata del contratto, se le operazioni hanno finalita' di copertura di rischi connessi ad insiemi di attivita' e passivita'.
+ 6. Salvo quanto previsto dai principi contabili internazionali, ai fini del presente articolo l'operazione si considera con finalita' di copertura quando ha lo scopo di proteggere dal rischio di avverse variazioni dei tassi di interesse, dei tassi di cambio o dei prezzi di mercato il valore di singole attivita' o passivita' in bilancio o "fuori bilancio" o di insiemi di attivita' o passivita' in bilancio o "fuori bilancio".".
+
+((COMMA ABROGATO DALLA L. 24 DICEMBRE 2007, N. 244)).
 
 ## Art. 12. — Determinazione dell'Irap
 

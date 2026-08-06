@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-07-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:35Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,12 +32,73 @@ Su proposta del Presidente del Consiglio dei Ministri e del Ministro per la funz
 ## Art. 1. — Finalita' ed ambito di applicazione 
 (Art. 1 del d.lgs. n. 29 del 1993, come modificato dall'art. 1 del d.lgs. n. 80 del 1998)
 
+1.
+                        
+                            
+                                Le disposizioni del presente decreto disciplinano l'organizzazione degli uffici e i rapporti di lavoro e di impiego alle dipendenze delle amministrazioni pubbliche, tenuto conto delle autonomie locali e di quelle delle regioni e delle province autonome, nel rispetto dell'articolo 97, comma primo, della Costituzione, al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accrescere l'efficienza delle amministrazioni in relazione a quella dei corrispondenti uffici e servizi dei Paesi dell'Unione europea, anche mediante il coordinato sviluppo di sistemi informativi pubblici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    razionalizzare il costo del lavoro pubblico, contenendo la spesa complessiva per il personale, diretta e indiretta, entro i vincoli di finanza pubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    realizzare la migliore utilizzazione delle risorse umane nelle pubbliche amministrazioni, assicurando la formazione e lo sviluppo professionale dei dipendenti, applicando condizioni uniformi rispetto a quelle del lavoro privato, garantendo pari opportunita' alle lavoratrici ed ai lavoratori nonche' l'assenza di qualunque forma di discriminazione e di violenza morale o psichica.
+
 Per amministrazioni pubbliche si intendono tutte le amministrazioni dello Stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello Stato ad ordinamento autonomo, le Regioni, le Province, i Comuni, le Comunita' montane, e loro consorzi e associazioni, le istituzioni universitarie, gli Istituti autonomi case popolari, le Camere di commercio, industria, artigianato e agricoltura e loro associazioni, tutti gli enti pubblici non economici nazionali, regionali e locali, le amministrazioni, le aziende e gli enti del Servizio sanitario nazionale l'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN) e le Agenzie di cui al decreto legislativo 30 luglio 1999, n. 300. ((Fino alla revisione organica della disciplina di settore, le disposizioni di cui al presente decreto continuano ad applicarsi anche al CONI)).
 
 Le disposizioni del presente decreto costituiscono principi fondamentali ai sensi dell'articolo 117 della Costituzione. Le Regioni a statuto ordinario si attengono ad esse tenendo conto delle peculiarita' dei rispettivi ordinamenti. I principi desumibili dall'articolo 2 della legge 23 ottobre 1992, n. 421, e successive modificazioni, e dall'articolo 11, comma 4, della legge 15 marzo 1997, n. 59, e successive modificazioni ed integrazioni, costituiscono altresi', per le Regioni a statuto speciale e per le province autonome di Trento e di Bolzano, norme fondamentali di riforma economico-sociale della Repubblica.
 
 ## Art. 2. — Fonti 
 (Art. 2, commi da 1 a 3 del d.lgs. n. 29 del 1993, come sostituiti prima dall'art. 2 del d.lgs. n. 546 del 1993 e poi dall'art. 2 del d.lgs. n. 80 del 1998)
+
+1.
+                        
+                            
+                                Le amministrazioni pubbliche definiscono, secondo principi generali fissati da disposizioni di legge e, sulla base dei medesimi, mediante atti organizzativi secondo i rispettivi ordinamenti, le linee fondamentali di organizzazione degli uffici; individuano gli uffici di maggiore rilevanza e i modi di conferimento della titolarita' dei medesimi; determinano le dotazioni organiche complessive. Esse ispirano la loro organizzazione ai seguenti criteri: 
+
+                            
+                            
+                                a)
+                                
+                                    funzionalita' rispetto ai compiti e ai programmi di attivita', nel perseguimento degli obiettivi di efficienza, efficacia ed economicita'. A tal fine, periodicamente e comunque all'atto della definizione dei programmi operativi e dell'assegnazione delle risorse, si procede a specifica verifica e ad eventuale revisione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ampia flessibilita', garantendo adeguati margini alle determinazioni operative e gestionali da assumersi ai sensi dell'articolo 5, comma 2; 
+                                
+                            
+                            
+                                c)
+                                
+                                    collegamento delle attivita' degli uffici, adeguandosi al dovere di comunicazione interna ed esterna, ed interconnessione mediante sistemi informatici e statistici pubblici; 
+                                
+                            
+                            
+                                d)
+                                
+                                    garanzia dell'imparzialita' e della trasparenza dell'azione amministrativa, anche attraverso l'istituzione di apposite strutture per l'informazione ai cittadini e attribuzione ad un unico ufficio, per ciascun procedimento, della responsabilita' complessiva dello stesso; 
+                                
+                            
+                            
+                                e)
+                                
+                                    armonizzazione degli orari di servizio e di apertura degli uffici con le esigenze dell'utenza e con gli orari delle amministrazioni pubbliche dei Paesi dell'Unione europea.
 
 I criteri di organizzazione di cui al presente articolo sono attuati nel rispetto della disciplina in materia di trattamento dei dati personali.
 
@@ -66,6 +127,53 @@ Il periodo di dodici mesi di differimento e' utile anche ai fini della maturazio
 
 ## Art. 4. — Indirizzo politico-amministrativo. Funzioni e responsabilita'
  (Art. 3 del d.lgs n. 29 del 1993, come sostituito prima dall'art. 2 del d.lgs n. 470 del 1993 poi dall'art. 3 del d.lgs n. 80 del 1998 e successivamente modificato dall'art. 1 del d.lgs n.387 del 1998)
+
+1.
+                        
+                            
+                                Gli organi di governo esercitano le funzioni di indirizzo politico-amministrativo, definendo gli obiettivi ed i programmi da attuare ed adottando gli altri atti rientranti nello svolgimento ditali funzioni, e verificano la rispondenza dei risultati dell'attivita' amministrativa e della gestione agli indirizzi impartiti. Ad essi spettano, in particolare:
+
+                            
+                            
+                                a)
+                                
+                                    le decisioni in materia di atti normativi e l'adozione dei relativi atti di indirizzo interpretativo ed applicativo;
+                                
+                            
+                            
+                                b)
+                                
+                                    la definizione di obiettivi, priorita', piani, programmi e direttive generali per l'azione amministrativa e per la gestione;
+                                
+                            
+                            
+                                c)
+                                
+                                    la individuazione delle risorse umane, materiali ed economico-finanziarie da destinare alle diverse finalita' e la loro ripartizione tra gli uffici di livello dirigenziale generale;
+                                
+                            
+                            
+                                d)
+                                
+                                    la definizione dei criteri generali in materia di ausili finanziari a terzi e di determinazione di tariffe, canoni e analoghi oneri a carico di terzi;
+                                
+                            
+                            
+                                e)
+                                
+                                    le nomine, designazioni ed atti analoghi ad essi attribuiti da specifiche disposizioni;
+                                
+                            
+                            
+                                f)
+                                
+                                    le richieste di pareri alle autorita' amministrative indipendenti ed al Consiglio di Stato;
+                                
+                            
+                            
+                                g)
+                                
+                                    gli altri atti indicati dal presente decreto.
 
 Ai dirigenti spetta l'adozione degli atti e provvedimenti amministrativi, compresi tutti gli atti che impegnano l'amministrazione verso l'esterno, nonche' la gestione finanziaria, tecnica e amministrativa mediante autonomi poteri di spesa di organizzazione delle risorse umane, strumentali e di controllo. Essi sono responsabili in via esclusiva dell'attivita' amministrativa, della gestione e dei relativi risultati.
 
@@ -168,6 +276,40 @@ Le amministrazioni pubbliche non possono erogare trattamenti economici accessori
 E' fatto divieto alle amministrazioni pubbliche di stipulare contratti di collaborazione che si concretano in prestazioni di lavoro esclusivamente personali, continuative e le cui modalita' di esecuzione siano organizzate dal committente anche con riferimento ai tempi e al luogo di lavoro. I contratti posti in essere in violazione del presente comma sono nulli e determinano responsabilita' erariale.
 I dirigenti che operano in violazione delle disposizioni del presente comma sono, altresi', responsabili ai sensi dell'articolo 21 e ad essi non puo' essere erogata la retribuzione di risultato. Resta fermo che la disposizione di cui all'articolo 2, comma 1, del decreto legislativo 15 giugno 2015, n. 81, non si applica alle pubbliche amministrazioni. (71) (76) (80) (89)
 
+6.
+                        
+                            
+                                Fermo restando quanto previsto dal comma 5-bis, per specifiche esigenze cui non possono far fronte con personale in servizio, le amministrazioni pubbliche possono conferire esclusivamente incarichi individuali, con contratti di lavoro autonomo, ad esperti di particolare e comprovata specializzazione anche universitaria, in presenza dei seguenti presupposti di legittimita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'oggetto della prestazione deve corrispondere alle competenze attribuite dall'ordinamento all'amministrazione conferente, ad obiettivi e progetti specifici e determinati e deve risultare coerente con le esigenze di funzionalita' dell'amministrazione conferente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'amministrazione deve avere preliminarmente accertato l'impossibilita' oggettiva di utilizzare le risorse umane disponibili al suo interno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la prestazione deve essere di natura temporanea e altamente qualificata; non e' ammesso il rinnovo; l'eventuale proroga dell'incarico originario e' consentita, in via eccezionale, al solo fine di completare il progetto e per ritardi non imputabili al collaboratore, ferma restando la misura del compenso pattuito in sede di affidamento dell'incarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    devono essere preventivamente determinati durata, oggetto e compenso della collaborazione. 
+ Si prescinde dal requisito della comprovata specializzazione universitaria in caso di stipulazione di contratti di collaborazione per attivita' che debbano essere svolte da professionisti iscritti in ordini o albi o con soggetti che operino nel campo dell'arte, dello spettacolo , dei mestieri artigianali o dell'attivita' informatica nonche' a supporto dell'attivita' didattica e di ricerca, per i servizi di orientamento, compreso il collocamento, e di certificazione dei contratti di lavoro di cui al decreto legislativo 10 settembre 2003, n. 276, purche' senza nuovi o maggiori oneri a carico della finanza pubblica , ferma restando la necessita' di accertare la maturata esperienza nel settore. 
+ Il ricorso ai contratti di cui al presente comma per lo svolgimento di funzioni ordinarie o l'utilizzo dei soggetti incaricati ai sensi del medesimo comma come lavoratori subordinati e' causa di responsabilita' amministrativa per il dirigente che ha stipulato i contratti. Il secondo periodo dell'articolo 1, comma 9, del decreto-legge 12 luglio 2004, n. 168, convertito, con modificazioni, dalla legge 30 luglio 2004, n. 191, e' soppresso. Si applicano le disposizioni previste dall'articolo 36, comma 3, del presente decreto e, in caso di violazione delle disposizioni di cui al presente comma, fermo restando il divieto di costituzione di rapporti di lavoro a tempo indeterminato, si applica quanto previsto dal citato articolo 36, comma 5-quater.
+
 Le amministrazioni pubbliche disciplinano e rendono pubbliche, secondo i propri ordinamenti, procedure comparative per il conferimento degli incarichi di collaborazione.
 
 I regolamenti di cui all'articolo 110, comma 6, del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, si adeguano ai principi di cui al comma 6.
@@ -246,6 +388,29 @@ dall'art.3 del decreto legge n.163 del 1995, convertito con modificazioni dalla 
 
 Le amministrazioni pubbliche, al fine di garantire la piena attuazione della legge 7 agosto 1990, n. 241, e successive modificazioni ed integrazioni, individuano, nell'ambito della propria struttura uffici per le relazioni con il pubblico.
 
+2.
+                        
+                            
+                                Gli uffici per le relazioni con il pubblico provvedono, anche mediante l'utilizzo di tecnologie informatiche:
+
+                            
+                            
+                                a)
+                                
+                                    al servizio all'utenza per i diritti di partecipazione di cui al capo III della legge 7 agosto 1990, n. 241, e successive modificazioni ed integrazioni;
+                                
+                            
+                            
+                                b)
+                                
+                                    all'informazione all'utenza relativa agli atti e allo stato dei procedimenti;
+                                
+                            
+                            
+                                c)
+                                
+                                    alla ricerca ed analisi finalizzate alla formulazione di proposte alla propria amministrazione sugli aspetti organizzativi e logistici del rapporto con l'utenza.
+
 Agli uffici per le relazioni con il pubblico viene assegnato, nell'ambito delle attuali dotazioni organiche delle singole amministrazioni, personale con idonea qualificazione e con elevata capacita' di avere contatti con il pubblico, eventualmente assicurato da apposita formazione.
 
 Al fine di assicurare la conoscenza di normative, servizi e strutture, le amministrazioni pubbliche programmano ed attuano iniziative di comunicazione di pubblica utilita'; in particolare, le amministrazioni dello Stato, per l'attuazione delle iniziative individuate nell'ambito delle proprie competenze, si avvalgono del Dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei ministri quale struttura centrale di servizio, secondo un piano annuale di coordinamento del fabbisogno di prodotti e servizi, da sottopone all'approvazione del Presidente del Consiglio dei ministri.
@@ -270,6 +435,25 @@ Le disposizioni del presente capo si applicano alle amministrazioni dello Stato,
 
 ## Art. 14. — Indirizzo politico-amministrativo 
 (Art. 14 del d.lgs n. 29 del 1993, come sostituito prima dall'art. 8 del d.lgs n. 546 del 1993 e poi dall'art. 9 del d.lgs n.80 del 1998)
+
+1.
+                        
+                            
+                                Il Ministro esercita le funzioni di cui all'articolo 4, comma 1.
+A tal fine periodicamente, e comunque ogni anno entro dieci giorni dalla pubblicazione della legge di bilancio, anche sulla base delle proposte dei dirigenti di cui all'articolo 16: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definisce obiettivi, priorita', piani e programmi da attuare ed emana le conseguenti direttive generali per l'attivita' amministrativa e per la gestione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettua, ai fini' dell'adempimento dei compiti definiti ai sensi della lettera a), l'assegnazione ai dirigenti preposti ai centri di responsabilita' delle rispettive amministrazioni delle risorse di cui all'articolo 4, comma 1, lettera c), del presente decreto, ivi comprese quelle di cui all'articolo 3 del decreto legislativo 7 agosto 1997, n. 279, e successive modificazioni ed integrazioni, ad esclusione delle risorse necessarie per il funzionamento degli uffici di cui al comma 2; provvede alle variazioni delle assegnazioni con le modalita' previste dal medesimo decreto legislativo 7 agosto 1997, n. 279, tenendo altresi' conto dei procedimenti e subprocedimenti attribuiti ed adotta gli altri provvedimenti ivi previsti.
 
 Per l'esercizio delle funzioni di cui al comma 1 il Ministro si avvale di uffici di diretta collaborazione, aventi esclusive competenze di supporto e di raccordo con l'amministrazione, istituiti e disciplinati con regolamento adottato ai sensi dell'articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400. A tali uffici sono assegnati, nei limiti stabiliti dallo stesso regolamento: dipendenti pubblici anche in posizione di aspettativa, fuori ruolo o comando; collaboratori assunti con contratti a tempo determinato disciplinati dalle norme di diritto privato; esperti e consulenti per particolari professionalita' e specializzazioni con incarichi di collaborazione coordinata e continuativa. All'atto del giuramento del Ministro, tutte le assegnazioni di personale, ivi compresi gli incarichi anche di livello dirigenziale e le consulenze e i contratti, anche a termine, conferiti nell'ambito degli uffici di cui al presente comma, decadono automaticamente ove non confermati entro trenta giorni dal giuramento del nuovo Ministro. Per i dipendenti pubblici si applica la disposizione di cui all'articolo 17, comma 14, della legge 15 maggio 1997, n. 127. Con lo stesso regolamento si provvede al riordino delle segreterie particolari dei Sottosegretari di Stato.
 Con decreto adottato dall'autorita' di governo competente, di concerto con il Ministro ((dell'economia e delle finanze)), e' determinato, in attuazione dell'articolo 12, comma 1, lettera n) della legge 15 marzo 1997, n.59, senza aggravi di spesa e, per il personale disciplinato dai contratti collettivi nazionali di lavoro, fino ad una specifica disciplina contrattuale, il trattamento economico accessorio, da corrispondere mensilmente, a fronte delle responsabilita', degli obblighi di reperibilita' e di disponibilita' ad orari disagevoli, ai dipendenti assegnati agli uffici dei Ministri e dei Sottosegretari di Stato. Tale trattamento, consistente in un unico emolumento, e' sostitutivo dei compensi per il lavoro straordinario, per la produttivita' collettiva e per la qualita' della prestazione individuale. Con effetto dall'entrata in vigore del regolamento di cui al presente comma sono abrogate le norme del regio decreto legge 10 luglio 1924, n. 1100, e successive modificazioni ed integrazioni, ed ogni altra norma riguardante la costituzione e la disciplina dei gabinetti dei Ministri e delle segreterie particolari dei Ministri e dei Sottosegretari di Stato. (23)
@@ -297,6 +481,114 @@ Per il Consiglio di Stato e per i tribunali amministrativi regionali, per la Cor
 ## Art. 16. — Funzioni dei dirigenti di uffici dirigenziali generali 
 (Art.16 del d.lgs n.29 del 1993, come sostituito prima dall'art.9 del d.lgs n.546 del 1993 e poi dall'art.11 del d.lgs n. 80 del 1998 e successivamente modificato dall'art.4 del d.lgs n.387 del 1998)
 
+1.
+                        
+                            
+                                I dirigenti di uffici dirigenziali generali, comunque denominati, nell'ambito di quanto stabilito dall'articolo 4 esercitano, fra gli altri, i seguenti compiti e poteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formulano proposte ed esprimono pareri al Ministro, nelle materie di sua competenza; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    propongono le risorse e i profili professionali necessari allo svolgimento dei compiti dell'ufficio cui sono preposti anche al fine dell'elaborazione del documento di programmazione triennale del fabbisogno di personale di cui all'articolo 6, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    curano l'attuazione dei piani, programmi e direttive generali definite dal Ministro e attribuiscono ai dirigenti gli incarichi e la responsabilita' di specifici progetti e gestioni; definiscono gli obiettivi che i dirigenti devono perseguire e attribuiscono le conseguenti risorse umane, finanziarie e materiali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adottano gli atti relativi all'organizzazione degli uffici di livello dirigenziale non generale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottano gli atti e i provvedimenti amministrativi ed esercitano i poteri di spesa e quelli di acquisizione delle entrate rientranti nella competenza dei propri uffici, salvo quelli delegati ai dirigenti; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    adottano i provvedimenti previsti dall'articolo 17, comma 2, del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dirigono, coordinano e controllano l'attivita' dei dirigenti e dei responsabili dei procedimenti amministrativi, anche con potere sostitutivo in caso di inerzia, e propongono l'adozione, nei confronti dei dirigenti, delle misure previste dall'articolo 21; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promuovono e resistono alle liti ed hanno il potere di conciliare e di transigere, fermo restando quanto disposto dall'articolo 12, comma 1, della legge 3 aprile 1979, n.103; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    richiedono direttamente pareri agli organi consultivi dell'amministrazione e rispondono ai rilievi degli organi di controllo sugli atti di competenza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    svolgono le attivita' di organizzazione e gestione del personale e di gestione dei rapporti sindacali e di lavoro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    decidono sui ricorsi gerarchici contro gli atti e i provvedimenti amministrativi non definitivi dei dirigenti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    curano i rapporti con gli uffici dell'Unione europea e degli organismi internazionali nelle materie di competenza secondo le specifiche direttive dell'organo di direzione politica, sempreche' tali rapporti non siano espressamente affidati ad apposito ufficio o organo. 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    concorrono alla definizione di misure idonee a prevenire e contrastare i fenomeni di corruzione e a controllarne il rispetto da parte dei dipendenti dell'ufficio cui sono preposti. 
+
+                                
+                            
+                            
+                                l-ter)
+                                
+                                    forniscono le informazioni richieste dal soggetto competente per l'individuazione delle attivita' nell'ambito delle quali e' piu' elevato il rischio corruzione e formulano specifiche proposte volte alla prevenzione del rischio medesimo.
+                                
+                            
+                            
+                                l-quater)
+                                
+                                    provvedono al monitoraggio delle attivita' nell'ambito delle quali e' piu' elevato il rischio corruzione svolte nell'ufficio a cui sono preposti, disponendo, con provvedimento motivato, la rotazione del personale nei casi di avvio di procedimenti penali o disciplinari per condotte di natura corruttiva.
+
 I dirigenti di uffici dirigenziali generali riferiscono al Ministro sull'attivita' da essi svolta correntemente e in tutti i casi in cui il Ministro lo richieda o lo ritenga opportuno.
 
 L'esercizio dei compiti e dei poteri di cui al comma 1 puo' essere conferito anche a dirigenti preposti a strutture organizzative comuni a piu' amministrazioni pubbliche, ovvero alla attuazione di particolari programmi, progetti e gestioni.
@@ -309,6 +601,53 @@ Gli ordinamenti delle amministrazioni pubbliche al cui vertice e' preposto un se
  (Art. 17 del d.lgs. n. 29 del 1993, come sostituito
  prima dall'art. 10 del d.lgs. n. 546 del 1993 e
  poi dall'art.12 del d.lgs n.80 del 1998)
+
+1.
+                        
+                            
+                                I dirigenti, nell'ambito di quanto stabilito dall'articolo 4, esercitano, fra gli altri, i seguenti compiti e poteri:
+
+                            
+                            
+                                a)
+                                
+                                    formulano proposte ed esprimono pareri ai dirigenti degli uffici dirigenziali generali;
+                                
+                            
+                            
+                                b)
+                                
+                                    curano l'attuazione dei progetti e delle gestioni ad essi assegnati dai dirigenti degli uffici dirigenziali generali, adottando i relativi atti e provvedimenti amministrativi ed esercitando i poteri di spesa e di acquisizione delle entrate;
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgono tutti gli altri compiti ad essi delegati dai dirigenti degli uffici dirigenziali generali;
+                                
+                            
+                            
+                                d)
+                                
+                                    dirigono, coordinano e controllano l'attivita' degli uffici che da essi dipendono e dei responsabili dei procedimenti amministrativi, anche con poteri sostitutivi in caso di inerzia;
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    concorrono all'individuazione delle risorse e dei profili professionali necessari allo svolgimento dei compiti dell'ufficio cui sono preposti anche al fine dell'elaborazione del documento di programmazione triennale del fabbisogno di personale di cui all'articolo 6, comma 4;
+                                
+                            
+                            
+                                e)
+                                
+                                    provvedono alla gestione del personale e delle risorse finanziarie e strumentali assegnate ai propri uffici ((, anche ai sensi di quanto previsto all'articolo 16, comma 1, lettera l-bis)).
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    effettuano la valutazione del personale assegnato ai propri uffici, nel rispetto del principio del merito, ai fini della progressione economica e tra le aree, nonche' della corresponsione di indennita' e premi incentivanti.
 
 I dirigenti, per specifiche e comprovate ragioni di servizio, possono delegare per un periodo di tempo determinato, con atto scritto e motivato, alcune delle competenze comprese nelle funzioni di cui alle lettere b), d) ed e) del comma 1 a dipendenti che ricoprano le posizioni funzionali piu' elevate nell'ambito degli uffici ad essi affidati. Non si applica in ogni caso l'articolo 2103 del codice civile.
 
@@ -531,6 +870,24 @@ Per i magistrati ordinari, amministrativi e contabili, e per gli avvocati e proc
 
 Nel caso di svolgimento di attivita' presso soggetti diversi dalle amministrazioni pubbliche, il periodo di collocamento in aspettativa di cui al comma 1 non puo' superare i cinque anni ((, e' rinnovabile per una sola volta)) e non e' computabile ai fini del trattamento di quiescenza e previdenza.
 
+5.
+                        
+                            
+                                L'aspettativa per lo svolgimento di attivita' o incarichi presso soggetti privati o pubblici da parte del personale di cui al comma 1 non puo' comunque essere disposta se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il personale, nei due anni precedenti, e' stato addetto a funzioni di vigilanza, di controllo ovvero, nel medesimo periodo di tempo, ha stipulato contratti o formulato pareri o avvisi su contratti o concesso autorizzazioni a favore di soggetti presso i quali intende svolgere l'attivita'. Ove l'attivita' che si intende svolgere sia presso una impresa, il divieto si estende anche al caso in cui le predette attivita' istituzionali abbiano interessato imprese che, anche indirettamente, la controllano o ne sono controllate, ai sensi dell'articolo 2359 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il personale intende svolgere attivita' in organismi e imprese private che, per la loro natura o la loro attivita', in relazione alle funzioni precedentemente esercitate, possa cagionare nocumento all'immagine dell'amministrazione o comprometterne il normale funzionamento o l'imparzialita'.
+
 ((6. Il personale di cui al comma 1, nei successivi due anni, non puo' essere destinatario di incarichi ne' essere impiegato nello svolgimento di attivita' che comportino l'esercizio delle funzioni individuate alla lettera a) del comma 5))
 
 Sulla base di appositi protocolli di intesa tra le parti, le amministrazioni di cui all'articolo 1, comma 2, possono disporre, per singoli progetti di interesse specifico dell'amministrazione e con il consenso dell'interessato, l'assegnazione temporanea di personale presso altre pubbliche amministrazioni o imprese private. I protocolli disciplinano le funzioni, le modalita' di inserimento, l'onere per la corresponsione del trattamento economico da porre a carico delle imprese destinatarie. Nel caso di assegnazione temporanea presso imprese private i predetti protocolli possono prevedere l'eventuale attribuzione di un compenso aggiuntivo, con oneri a carico delle imprese medesime.
@@ -631,7 +988,59 @@ L'accesso alla qualifica di dirigente di seconda fascia nelle amministrazioni st
 
 Nelle procedure concorsuali per l'accesso alla dirigenza in aggiunta all'accertamento delle conoscenze delle materie disciplinate dal decreto del Presidente della Repubblica 9 maggio 1994, n. 487, i bandi definiscono gli ambiti di competenza da valutare e prevedono la valutazione delle capacita', attitudini e motivazioni individuali, anche attraverso prove, scritte e orali, finalizzate alla loro osservazione e valutazione comparativa, definite secondo metodologie e standard riconosciuti.
 
+1-ter.
+                        
+                            
+                                
+                                    ((L'accesso alla qualifica di dirigente della seconda fascia nelle amministrazioni statali, anche ad ordinamento autonomo, e negli enti pubblici non economici avviene:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((per il 50 per cento dei posti disponibili, sulla base delle facolta' assunzionali autorizzate, attraverso il corso-concorso selettivo di formazione bandito dalla Scuola nazionale dell'amministrazione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((per il 20 per cento dei posti disponibili, sulla base delle facolta' assunzionali autorizzate, per concorso pubblico indetto dalla Commissione per l'attuazione del progetto di riqualificazione delle pubbliche amministrazioni (RIPAM) o dalle singole amministrazioni, rivolto ai soggetti in possesso dei titoli di studio e dei requisiti previsti dalla normativa vigente per l'accesso alla dirigenza;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((per il 30 per cento dei posti disponibili, sulla base delle facolta' assunzionali autorizzate, mediante sviluppo di carriera del personale non dirigenziale in servizio presso l'amministrazione che bandisce la procedura e appartenente ai ruoli delle amministrazioni di cui al presente comma, che abbia maturato, complessivamente, almeno cinque anni di servizio a tempo indeterminato nell'area dei funzionari o almeno due anni di servizio a tempo indeterminato nell'area del personale di elevata qualificazione, fermo restando il possesso dei titoli di studio previsti dalla normativa vigente per l'accesso alla dirigenza)).
+
 ((Le disposizioni del comma 1-ter non si applicano agli enti di cui all'articolo 2, commi 2 e 2-bis, del decreto-legge 31 agosto 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125.))
+
+1-quinquies.
+                        
+                            
+                                
+                                    ((Le procedure di sviluppo di carriera destinate al personale di cui al comma 1-ter, lettera c), sono bandite e svolte dalle singole amministrazioni nel rispetto dei principi di imparzialita', pubblicita' e trasparenza e si articolano:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((in una prima fase selettiva e comparativa, finalizzata a individuare, sui posti disponibili, i soggetti ai quali conferire un incarico dirigenziale non generale temporaneo. Tale selezione e' basata: 
+ 1) sulla valutazione comparativa dei titoli professionali, di studio o di specializzazione ulteriori rispetto a quelli previsti per l'accesso alla qualifica dirigenziale, anche con riferimento alla valorizzazione del titolo di dottore di ricerca, ove conferenti con l'oggetto dell'incarico, della performance individuale, delle capacita' organizzative e delle attitudini evidenziate nei cinque anni precedenti, per il personale dell'area dei funzionari, o nei due anni precedenti, per quello dell'area del personale di elevata qualificazione, secondo le modalita' di cui al comma 1-sexies; 
+ 2) sullo svolgimento di una prova scritta e orale;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((in una seconda fase di osservazione e valutazione dello svolgimento dell'incarico temporaneo per un periodo di almeno quattro anni, nel corso dei quali il dirigente incaricato e' valutato in ordine ai risultati conseguiti, sotto i profili della performance sia individuale sia organizzativa, al raggiungimento degli obiettivi, anche assegnati ai dipendenti dell'ufficio presso cui ha svolto l'incarico temporaneo, e alle capacita' manageriali possedute.))
 
 ((La selezione per il conferimento temporaneo degli incarichi di cui al comma 1-quinquies, lettera a), e' affidata ad una commissione indipendente costituita da sette componenti, di cui quattro dirigenti di livello generale appartenenti ai ruoli o in servizio presso l'amministrazione che ha indetto la procedura o personale di livello dirigenziale in servizio presso la stessa amministrazione, anche se appartenente a ruoli o carriere pubblicistiche diversi, o, in mancanza, di altra amministrazione, e due professionisti qualificati nella valutazione e selezione del personale (assessor), provenienti da un'amministrazione diversa da quella procedente o dal settore privato, e presieduta da un dirigente generale di ruolo proveniente da un'altra amministrazione ovvero da personale di livello dirigenziale appartenente a ruoli o carriere pubblicistiche diversi. Le funzioni di segretario sono svolte da un dirigente di livello non generale della stessa amministrazione che ha bandito la procedura. Non possono in ogni caso fare parte della commissione dirigenti in servizio presso gli uffici di diretta collaborazione. Restano fermi i casi di incompatibilita' previsti per la partecipazione alle commissioni di concorso. I componenti della commissione sono estratti a sorte attraverso il Portale unico del reclutamento, di cui all'articolo 35-ter, e non possono far parte della commissione per due volte consecutive. Ai lavori della commissione partecipano, senza diritto di voto, il dirigente gerarchicamente sovraordinato a ciascun candidato, con funzioni di relatore, e un componente dell'organismo indipendente di valutazione, con funzioni di supporto. Ai fini della valutazione di cui al comma 1-quinquies, lettera a), la commissione tiene conto di un colloquio di esclusivo carattere esperienziale-attitudinale e motivazionale, della valutazione di performance conseguita dal candidato nei cinque anni precedenti o nei due anni di servizio nell'area del personale di elevata qualificazione, della complessita' degli obiettivi assegnati e di quelli conseguiti, di una relazione dettagliata, sottoscritta dal dirigente sovraordinato al candidato, dalla quale devono emergere anche indicatori di carattere comportamentale concernenti le capacita' di leadership e le attitudini manageriali del singolo candidato, nonche' dei risultati della prova di cui al comma 1-quinquies, lettera a), numero 2). Ai componenti della commissione non spettano compensi, gettoni di presenza, indennita', rimborsi di spese o altri emolumenti comunque denominati.))
 
@@ -646,6 +1055,75 @@ COMMA ABROGATO DAL D.P.R. 16 APRILE 2013, N. 70.
 COMMA ABROGATO DAL D.P.R. 16 APRILE 2013, N. 70.
 
 COMMA ABROGATO DAL D.P.R. 16 APRILE 2013, N. 70.
+
+5.
+                        
+                            
+                                
+                                    ((Con regolamento emanato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro per la pubblica amministrazione, sono definiti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((i criteri per la composizione e la nomina delle commissioni esaminatrici;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le modalita' di svolgimento delle selezioni, prevedendo anche la valutazione delle esperienze professionali di servizio maturate in Italia o all'estero presso istituzioni dell'Unione europea o presso organizzazioni internazionali;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((l'ammontare delle borse di studio per i partecipanti al corso-concorso;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((le modalita' di svolgimento della fase selettiva della procedura di sviluppo di carriera di cui al comma 1-quinquies, in particolare definendo la struttura e i contenuti minimi della prova nonche' le capacita' teoriche e pratiche oggetto di verifica e i titoli di studio e professionali valutabili;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((il termine di durata delle attivita' di selezione;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((i criteri per l'assegnazione degli obiettivi individuali ai soggetti titolari dell'incarico dirigenziale temporaneo di cui al comma 1-quinquies nella fase di osservazione e valutazione;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((i criteri e le modalita' di valutazione dello svolgimento dell'incarico ai sensi dei commi da 1-quinquies a 1-octies;))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((i criteri, i requisiti per l'iscrizione e le modalita' di funzionamento di un albo, istituito presso il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, per l'individuazione dei professionisti, pubblici o privati, esperti nella valutazione del personale, da utilizzare quali componenti esterni e assessor per le procedure di cui ai commi 1-sexies, 1-septies e 1-octies)).
 
 I vincitori ((dei corsi-concorsi di cui al comma 1-ter, lettera a) )), anteriormente al conferimento del primo incarico dirigenziale, frequentano un ciclo di attivita' formative organizzato dalla Scuola nazionale dell'amministrazione e disciplinato ai sensi del decreto legislativo 30 luglio 1999, n. 287. Tale ciclo puo' comprendere anche l'applicazione presso amministrazioni italiane e straniere, enti o organismi internazionali, istituti o aziende pubbliche o private. Il medesimo ciclo formativo, di durata non superiore a dodici mesi, puo' svolgersi anche in collaborazione con istituti universitari italiani o stranieri, ovvero primarie istituzioni formative pubbliche o private. ((L'esercizio della funzione dirigenziale da parte del predetto personale e' preceduto dallo svolgimento di un periodo di tirocinio e dal tutoraggio da parte di dirigenti con maggiore anzianita' di servizio, da svolgere presso l'amministrazione di destinazione, commisurato alla concreta esperienza lavorativa pregressa e comunque di durata non inferiore a sei mesi e non superiore a un anno)).
 
@@ -817,6 +1295,56 @@ Fatte salve le disposizioni speciali, nel caso di trasferimento o conferimento d
 
 ## Art. 32. — Collegamento con le istituzioni internazionali, dell'Unione europea e di altri Stati. Esperti nazionali distaccati).
 
+1.
+                        
+                            
+                                Le amministrazioni pubbliche favoriscono e incentivano le esperienze del proprio personale presso le istituzioni europee, le organizzazioni internazionali nonche' gli Stati membri dell'Unione europea, gli Stati candidati all'adesione all'Unione e gli altri Stati con i quali l'Italia intrattiene rapporti di collaborazione, ai sensi della lettera c), al fine di favorire lo scambio internazionale di esperienze amministrative e di rafforzare il collegamento tra le amministrazioni di provenienza e quelle di destinazione. I dipendenti delle amministrazioni pubbliche possono essere destinati a prestare temporaneamente servizio presso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Parlamento europeo, il Consiglio dell'Unione europea, la Commissione europea, le altre istituzioni e gli altri organi dell'Unione europea, incluse le agenzie, prioritariamente in qualita' di esperti nazionali distaccati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le organizzazioni e gli enti internazionali ai quali l'Italia aderisce; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le amministrazioni pubbliche degli Stati membri dell'Unione europea, degli Stati candidati all'adesione all'Unione e di altri Stati con i quali l'Italia intrattiene rapporti di collaborazione, a seguito di appositi accordi di reciprocita' stipulati tra le amministrazioni interessate, d'intesa con il Ministero degli affari esteri e con la Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica.
+
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, la Presidenza del Consiglio dei Ministri - Dipartimenti della funzione pubblica e per le politiche europee e il Ministero degli affari esteri, d'intesa tra loro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinano la costituzione di una banca dati di potenziali candidati qualificati dal punto di vista delle competenze in materia europea o internazionale e delle conoscenze linguistiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definiscono, d'intesa con le amministrazioni interessate, le aree di impiego prioritarie del personale da distaccare, con specifico riguardo agli esperti nazionali presso le istituzioni dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promuovono la sensibilizzazione dei centri decisionali, le informazioni relative ai posti vacanti nelle istituzioni internazionali e dell'Unione europea e la formazione del personale, con specifico riguardo agli esperti nazionali presso le istituzioni dell'Unione.
+
 Il trattamento economico degli esperti nazionali distaccati puo' essere a carico delle amministrazioni di provenienza, di quelle di destinazione o essere suddiviso tra esse, ovvero essere rimborsato in tutto o in parte allo Stato italiano dall'Unione europea o da un'organizzazione o ente internazionale.
 
 Le pubbliche amministrazioni, nei casi in cui alle proprie unita' di personale impiegate come esperti nazionali distaccati presso l'Unione europea non sono corrisposte dalle istituzioni, organi o agenzie europei interessati, sulla base di intese con gli stessi, le indennita' di soggiorno, comunque denominate, previste dalla disciplina dell'Unione europea, possono corrispondere al predetto personale, per il periodo di effettiva assegnazione come esperti nazionali distaccati, una indennita' forfettaria e omnicomprensiva, non pensionabile, destinata a sostenere le spese di soggiorno, di entita' non superiore a quelle corrisposte dall'Unione europea per le medesime posizioni. A tal fine e' autorizzata la spesa di 400.000 euro per l'anno 2022 e di 1.000.000 di euro a decorrere dall'anno 2023 che costituisce il limite di spesa per l'erogazione della indennita' di cui al presente comma.
@@ -917,7 +1445,96 @@ Per il completo raggiungimento dei traguardi e degli obiettivi relativi alla mis
 
 ## Art. 35. — Reclutamento del personale (Art. 36, commi da 1 a 6 del d.lgs n. 29 del 1993, come sostituiti prima dall'art. 17 del d.lgs n. 546 del 1993 e poi dall'art. 22 del d.lgs. n. 80 del 1998, successivamente modificati dall'art. 2, comma 2-ter del decreto legge 17 giugno 1999, n. 180 convertito con modificazioni dalla legge n. 269 del 1999; Art. 36-bis del d.lgs. n. 29 del 1993, aggiunto dall'art. 23 del d.lgs n. 80 del 1998 e successivamente modificato dall'art. 274, comma 1, lett. aa) del d.lgs n. 267 del 2000)
 
+1.
+                        
+                            
+                                L'assunzione nelle amministrazioni pubbliche avviene con contratto individuale di lavoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tramite procedure selettive, conformi ai principi del comma 3, volte all'accertamento della professionalita' richiesta, che garantiscano in misura adeguata l'accesso dall'esterno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante avviamento degli iscritti nelle liste di collocamento ai sensi della legislazione vigente per le qualifiche e profili per i quali e' richiesto il solo requisito della scuola dell'obbligo, facendo salvi gli eventuali ulteriori requisiti per specifiche professionalita'.
+
 Le assunzioni obbligatorie da parte delle amministrazioni pubbliche, aziende ed enti pubblici dei soggetti di cui alla legge 12 marzo 1999, n.68, avvengono per chiamata numerica degli iscritti nelle liste di collocamento ai sensi della vigente normativa, previa verifica della compatibilita' della invalidita' con le mansioni da svolgere. Per il coniuge superstite e per i figli del personale delle Forze armate, delle Forze dell'ordine, del Corpo nazionale dei vigili del fuoco e del personale della Polizia municipale deceduto nell'espletamento del servizio, nonche' delle vittime del terrorismo e della criminalita' organizzata di cui alla legge 13 agosto 1980, n. 466, e successive modificazioni ed integrazioni, tali assunzioni avvengono per chiamata diretta nominativa.
+
+3.
+                        
+                            
+                                Le procedure di reclutamento nelle pubbliche amministrazioni si conformano ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguata pubblicita' della selezione e modalita' di svolgimento che garantiscano l'imparzialita' e assicurino economicita' e celerita' di espletamento, ricorrendo, ove e' opportuno, all'ausilio di sistemi automatizzati, diretti anche a realizzare forme di preselezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adozione di meccanismi oggettivi e trasparenti, idonei a verificare il possesso dei requisiti attitudinali e professionali richiesti in relazione alla posizione da ricoprire; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rispetto delle pari opportunita' tra lavoratrici e lavoratori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    decentramento delle procedure di reclutamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    composizione delle commissioni esclusivamente con esperti di provata competenza nelle materie di concorso, scelti tra funzionari delle amministrazioni, docenti ed estranei alle medesime, che non siano componenti dell'organo di direzione politica dell'amministrazione, che non ricoprano cariche politiche e che non siano rappresentanti sindacali o designati dalle confederazioni ed organizzazioni sindacali o dalle associazioni professionali; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    LETTERA ABROGATA DALLA L. 30 DICEMBRE 2018, N. 145; (81) (80) (84) 
+
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    possibilita' di richiedere, tra i requisiti previsti per specifici profili o livelli di inquadramento di alta specializzazione, il possesso del titolo di dottore di ricerca o del master universitario di secondo livello o l'essere stati titolari per almeno due anni di contratti di ricerca di cui all'articolo 22 della legge 30 dicembre 2010, n. 240. In tali casi, nelle procedure sono individuate, tra le aree dei settori scientifico-disciplinari definite ai sensi dell'articolo 17, comma 99, della legge 15 maggio 1997, n. 127, afferenti al titolo di dottore di ricerca o al master universitario di secondo livello o al contratto di ricerca, quelle pertinenti alla tipologia del profilo o livello di inquadramento.
+
+3-bis.
+                        
+                            
+                                Le amministrazioni pubbliche, nel rispetto della programmazione triennale del fabbisogno, nonche' del limite massimo complessivo del 50 per cento delle risorse finanziarie disponibili ai sensi della normativa vigente in materia di assunzioni ovvero di contenimento della spesa di personale, secondo i rispettivi regimi limitativi fissati dai documenti di finanza pubblica e, per le amministrazioni interessate, previo espletamento della procedura di cui al comma 4, possono avviare procedure di reclutamento mediante concorso pubblico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con riserva dei posti, nel limite massimo del 40 per cento di quelli banditi, a favore dei titolari di rapporto di lavoro subordinato a tempo determinato che, alla data di pubblicazione dei bandi, hanno maturato almeno tre anni di servizio alle dipendenze dell'amministrazione che emana il bando nonche' con una riserva pari al 10 per cento dei posti messi a concorso in favore delle persone con disabilita' di cui alla legge 12 marzo 1999, n. 68. Restano ferme le tutele gia' stabilite dalla citata legge n. 68 del 1999 in materia di assunzioni obbligatorie e relative riserve; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per titoli ed esami, finalizzati a valorizzare, con apposito punteggio, l'esperienza professionale maturata dal personale di cui alla lettera a) e di coloro che, alla data di emanazione del bando, hanno maturato almeno tre anni di contratto di lavoro flessibile nell'amministrazione che emana il bando.
 
 Con decreto del Presidente del Consiglio dei Ministri di concerto con il Ministro dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro il 31 gennaio 2013, sono dettati modalita' e criteri applicativi del comma 3-bis e la disciplina della riserva dei posti di cui alla lettera a) del medesimo comma in rapporto ad altre categorie riservatarie. Le disposizioni normative del comma 3-bis costituiscono principi generali a cui devono conformarsi tutte le amministrazioni pubbliche.
 
@@ -936,7 +1553,75 @@ Le amministrazioni pubbliche diverse da quelle di cui al comma 4-ter e la Presid
 
 Il Dipartimento della funzione pubblica, mediante la Commissione RIPAM, organizza i concorsi anche per il reclutamento di un'unica figura professionale e per una singola amministrazione. (136)
 
+4-septies.
+                        
+                            
+                                Al fine di rafforzare l'attrattivita' della pubblica amministrazione e i processi di reclutamento del personale, la Commissione RIPAM, per le amministrazioni di cui al comma 4-ter: 
+ 
+                            
+                            
+                                a)
+                                
+                                    organizza i concorsi di cui ai commi da 4-ter a 4-sexies; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    organizza i concorsi unici applicando una riserva del 10 per cento dei posti messi a concorso in favore delle persone con disabilita' di cui alla legge 12 marzo 1999, n. 68. Restano ferme le tutele previste dalla legge n. 68 del 1999 in materia di assunzioni obbligatorie e relative riserve; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizza concorsi unici per il reclutamento di personale per la transizione digitale e la sicurezza informatica delle pubbliche amministrazioni di cui all'articolo 6, comma 2, lettera c-bis), del decreto-legge 9 giugno 2021, n. 80, convertito, con modificazioni, dalla legge 6 agosto 2021, n. 113; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pubblica, attraverso il Portale unico del reclutamento di cui all'articolo 35-ter, avvisi per l'individuazione di valutatori, specialisti in psicologia del lavoro e risorse umane ed esperti in valutazione delle competenze e selezione del personale per lo svolgimento dei concorsi unici nel rispetto di quanto previsto dall'articolo 35-quater. (136)
+
 Il Dipartimento della funzione pubblica, anche tramite la Commissione RIPAM, trasmette al Parlamento e al Governo una relazione annuale sullo stato del reclutamento mediante concorsi unici entro il 31 maggio dell'anno successivo a quello di riferimento. (136)
+
+5.
+                        
+                            
+                                PERIODO SOPPRESSO DAL D.L. 14 MARZO 2025, N. 25, CONVERTITO, CON MODIFICAZIONI, DALLA L. 9 MAGGIO 2025, N. 69. La Commissione RIPAM e' nominata con decreto del Ministro per la pubblica amministrazione ed e' composta dal Capo del Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, che la presiede, dall'Ispettore generale capo dell'Ispettorato generale per gli ordinamenti del personale e l'analisi dei costi del lavoro pubblico del Dipartimento della Ragioneria generale dello Stato del Ministero dell'economia e delle finanze e dal Capo del Dipartimento per le politiche del personale dell'amministrazione civile e per le risorse strumentali e finanziarie del Ministero dell'interno, o loro delegati. La Commissione: 
+                            
+                            
+                                a)
+                                
+                                    approva i bandi di concorso per il reclutamento di personale a tempo indeterminato;
+                                
+                            
+                            
+                                b)
+                                
+                                    indice i bandi di concorso e nomina le commissioni esaminatrici;
+                                
+                            
+                            
+                                c)
+                                
+                                    valida le graduatorie finali di merito delle procedure concorsuali trasmesse dalle commissioni esaminatrici;
+                                
+                            
+                            
+                                d)
+                                
+                                    assegna i vincitori e gli idonei delle procedure concorsuali alle amministrazioni pubbliche interessate;
+                                
+                            
+                            
+                                e)
+                                
+                                    adotta ogni ulteriore eventuale atto connesso alle procedure concorsuali, fatte salve le competenze proprie delle commissioni esaminatrici. A tali fini, la Commissione RIPAM si avvale di personale messo a disposizione dall'Associazione Formez PA, che puo' essere utilizzato anche per la costituzione dei comitati di vigilanza dei concorsi di cui al presente comma. 
+ 5.1. Nell'ipotesi di cui al comma 5, il bando di concorso puo' fissare un contributo di ammissione, ai sensi dell'articolo 4, comma 3-septies del decreto-legge 31 agosto 2013, n. 101, convertito con modificazioni nella legge 31 ottobre 2013, n. 125. 
+ 5.2. Il Dipartimento della funzione pubblica, anche avvalendosi dell'Associazione Formez PA e della Commissione RIPAM, elabora, previo accordo in sede di Conferenza Unificata ai sensi dell'articolo 4 del decreto legislativo n. 281 del 1997, linee guida di indirizzo amministrativo sullo svolgimento delle prove concorsuali e sulla valutazione dei titoli, ispirate alle migliori pratiche a livello nazionale e internazionale in materia di reclutamento del personale, nel rispetto della normativa, anche regolamentare, vigente in materia. Le linee guida per le prove concorsuali e la valutazione dei titoli del personale sanitario, tecnico e professionale, anche dirigente, del Servizio sanitario nazionale sono adottate di concerto con il Ministero della salute.
 
 I vincitori dei concorsi devono permanere nella sede di prima destinazione per un periodo non inferiore a cinque anni, ad eccezione dei direttori dei servizi generali e amministrativi delle istituzioni scolastiche ed educative che permangono nella sede di prima destinazione per un periodo non inferiore a tre anni. La presente disposizione costituisce norma non derogabile dai contratti collettivi. (60) (68)
 
@@ -1018,6 +1703,31 @@ I concorsi unici possono essere organizzati su base territoriale. In tali casi i
 
 ((
 
+1.
+                        
+                            
+                                Coloro che sono stati condannati, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del codice penale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non possono fare parte, anche con compiti di segreteria, di commissioni per l'accesso o la selezione a pubblici impieghi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non possono essere assegnati, anche con funzioni direttive, agli uffici preposti alla gestione delle risorse finanziarie, all'acquisizione di beni, servizi e forniture, nonche' alla concessione o all'erogazione di sovvenzioni, contributi, sussidi, ausili finanziari o attribuzioni di vantaggi economici a soggetti pubblici e privati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non possono fare parte delle commissioni per la scelta del contraente per l'affidamento di lavori, forniture e servizi, per la concessione o l'erogazione di sovvenzioni, contributi, sussidi, ausili finanziari, nonche' per l'attribuzione di vantaggi economici di qualunque genere.
+
 2. La disposizione prevista al comma 1 integra le leggi e regolamenti che disciplinano la formazione di commissioni e la nomina dei relativi segretari))
 
 ## Art. 35-ter. — (Portale unico del reclutamento)
@@ -1049,6 +1759,52 @@ All'attuazione delle disposizioni del presente articolo si provvede nell'ambito 
  Il D.L. 24 febbraio 2023, n. 13, convertito con modificazioni dalla L. 21 aprile 2023, n. 41, ha disposto (con l'art. 12, comma 2) che "Fino alla data di entrata in vigore del decreto del Ministro per la pubblica amministrazione previsto dall'articolo 35-ter, comma 2, del decreto legislativo 30 marzo 2001, n. 165, come modificato dal comma 1, continua ad applicarsi la disciplina contenuta nei protocolli adottati d'intesa tra il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri e ciascuna amministrazione ai sensi dell'articolo 35-ter, comma 3, del decreto legislativo n. 165 del 2001 nel testo vigente prima della data di entrata in vigore del presente decreto.".
 
 ## Art. 35-quater. — (Procedimento per l'assunzione del personale non dirigenziale)
+
+1.
+                        
+                            
+                                I concorsi per l'assunzione del personale non dirigenziale delle amministrazioni di cui all'articolo 1, comma 2, ivi inclusi quelli indetti dalla Commissione per l'attuazione del progetto di riqualificazione delle pubbliche amministrazioni (RIPAM) di cui all'articolo 35, comma 5, ed esclusi quelli relativi al personale di cui all'articolo 3, prevedono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'espletamento di almeno una prova scritta, anche a contenuto teorico-pratico, e di una prova orale, comprendente l'accertamento della conoscenza di almeno una lingua straniera ai sensi dell'articolo 37. Le prove di esame sono finalizzate ad accertare il possesso delle competenze, intese come insieme delle conoscenze e delle capacita' logico-tecniche, comportamentali nonche' manageriali, per i profili che svolgono tali compiti, che devono essere specificate nel bando e definite in maniera coerente con la natura dell'impiego, ovvero delle abilita' residue nel caso dei soggetti di cui all'articolo 1, comma 1, della legge 12 marzo 1999, n. 68. Per profili iniziali e non specializzati, le prove di esame danno particolare rilievo all'accertamento delle capacita' comportamentali, incluse quelle relazionali, e delle attitudini. Il numero delle prove d'esame e le relative modalita' di svolgimento e correzione devono contemperare l'ampiezza e la profondita' della valutazione delle competenze definite nel bando con l'esigenza di assicurare tempi rapidi e certi di svolgimento del concorso orientati ai principi espressi nel comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'utilizzo di strumenti informatici e digitali e, facoltativamente, lo svolgimento in videoconferenza della prova orale, garantendo comunque l'adozione di soluzioni tecniche che ne assicurino la pubblicita', l'identificazione dei partecipanti, la sicurezza delle comunicazioni e la loro tracciabilita', nel rispetto della normativa in materia di protezione dei dati personali e nel limite delle pertinenti risorse disponibili a legislazione vigente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che le prove di esame possano essere precedute da forme di preselezione con test predisposti anche da imprese e soggetti specializzati in selezione di personale, nei limiti delle risorse disponibili a legislazione vigente, e possano riguardare l'accertamento delle conoscenze o il possesso delle competenze di cui alla lettera a), indicate nel bando; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che i contenuti di ciascuna prova siano disciplinati dalle singole amministrazioni responsabili dello svolgimento delle procedure di cui al presente articolo, le quali adottano la tipologia selettiva piu' conferente con la tipologia dei posti messi a concorso, prevedendo che per l'assunzione di profili specializzati, oltre alle competenze, siano valutate le esperienze lavorative pregresse e pertinenti, anche presso la stessa amministrazione, ovvero le abilita' residue nel caso dei soggetti di cui all'articolo 1, comma 1, della legge 12 marzo 1999, n. 68. Le predette amministrazioni possono prevedere che nella predisposizione delle prove le commissioni siano integrate da esperti in valutazione delle competenze e selezione del personale, senza nuovi o maggiori oneri a carico della finanza pubblica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i profili qualificati dalle amministrazioni, in sede di bando, ad elevata specializzazione tecnica, una fase di valutazione dei titoli legalmente riconosciuti e strettamente correlati alla natura e alle caratteristiche delle posizioni bandite, ai fini dell'ammissione a successive fasi concorsuali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che i titoli e l'eventuale esperienza professionale, inclusi i titoli di servizio, possano concorrere, in misura non superiore a un terzo, alla formazione del punteggio finale.
 
 Le procedure di reclutamento di cui al comma 1 si svolgono con modalita' che ne garantiscano l'imparzialita', l'efficienza, l'efficacia e la celerita' di espletamento, che assicurino l'integrita' delle prove, la sicurezza e la tracciabilita' delle comunicazioni, ricorrendo all'utilizzo di sistemi digitali diretti anche a realizzare forme di preselezione ed a selezioni decentrate, anche non contestuali, in relazione a specifiche esigenze o per scelta organizzativa dell'amministrazione procedente, nel rispetto dell'eventuale adozione di misure compensative per lo svolgimento delle prove da parte dei candidati con disabilita' accertata ai sensi dell'articolo 4, comma 1, della legge 5 febbraio 1992, n. 104, o con disturbi specifici di apprendimento accertati ai sensi della legge 8 ottobre 2010, n. 170. Nelle selezioni non contestuali le amministrazioni assicurano comunque la trasparenza e l'omogeneita' delle prove somministrate in modo da garantire il medesimo grado di selettivita' tra tutti i partecipanti.
 
@@ -1116,6 +1872,45 @@ Presso il Dipartimento della funzione pubblica della Presidenza del Consiglio de
 
 La Consulta e' composta da un rappresentante del Dipartimento della funzione pubblica, ((un rappresentante del Presidente del Consiglio dei ministri ovvero del Ministro delegato per la famiglia e le disabilita',)) un rappresentante del Dipartimento per le pari opportunita', un rappresentante del Ministero del lavoro e delle politiche sociali, un rappresentante del Ministero della salute, un rappresentante dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL), un rappresentante dell'Agenzia nazionale politiche attive del lavoro (ANPAL), due rappresentanti designati dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, due rappresentanti delle organizzazioni sindacali maggiormente rappresentative sul piano nazionale e due rappresentanti delle associazioni del mondo della disabilita' indicati dall'osservatorio nazionale di cui all'articolo 3 della legge 3 marzo 2009, n. 18. Ai componenti della Consulta non spettano gettoni di presenza, compensi, indennita' ed emolumenti comunque denominati, ad eccezione del rimborso delle spese effettivamente sostenute previsto dalla normativa vigente.
 
+3.
+                        
+                            
+                                La Consulta svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    elabora piani, programmi e linee di indirizzo per ottemperare agli obblighi di cui alla legge 12 marzo 1999, n. 68; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettua il monitoraggio sul rispetto degli obblighi di comunicazione di cui all'articolo 39-quater; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    propone alle amministrazioni pubbliche iniziative e misure innovative finalizzate al miglioramento dei livelli di occupazione e alla valorizzazione delle capacita' e delle competenze dei lavoratori disabili nelle pubbliche amministrazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevede interventi straordinari per l'adozione degli accomodamenti ragionevoli nei luoghi di lavoro previsti dall'articolo 3, comma 3-bis, del decreto legislativo 9 luglio 2003, n. 216; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verifica lo stato di attuazione e la corretta applicazione delle disposizioni in materia di tutela e sostegno della disabilita' da parte delle amministrazioni, con particolare riferimento alle forme di agevolazione previste dalla legge e alla complessiva disciplina delle quote di riserva.
+
 ## Art. 39-ter. — (Responsabile dei processi di inserimento delle persone con disabilita')
 
 
@@ -1125,6 +1920,31 @@ La Consulta e' composta da un rappresentante del Dipartimento della funzione pub
 Il responsabile di cui al comma 1 e' individuato tra i dirigenti di ruolo ovvero tra gli altri dipendenti ed e' scelto prioritariamente tra coloro i quali abbiano esperienza sui temi dell'inclusione sociale e dell'accessibilita' delle persone con disabilita' anche comprovata da specifica formazione.
 
 ))
+
+2.
+                        
+                            
+                                Il responsabile dei processi di inserimento svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cura i rapporti con il centro per l'impiego territorialmente competente per l'inserimento lavorativo dei disabili, nonche' con i servizi territoriali per l'inserimento mirato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone, sentito il medico competente della propria amministrazione ed eventualmente il comitato tecnico di cui alla legge 12 marzo 1999, n. 68, gli accorgimenti organizzativi e propone, ove necessario, le soluzioni tecnologiche per facilitare l'integrazione al lavoro anche ai fini dei necessari accomodamenti ragionevoli di cui all'articolo 3, comma 3-bis, del decreto legislativo 9 luglio 2003, n. 216; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verifica l'attuazione del processo di inserimento, recependo e segnalando ai servizi competenti eventuali situazioni di disagio e di difficolta' di integrazione.
 
 ## Art. 39-quater. — (( (Monitoraggio sull'applicazione della legge 12 marzo 1999, n. 68). ))
 
@@ -1296,6 +2116,31 @@ Le amministrazioni pubbliche garantiscono ai propri dipendenti di cui all'artico
 
 ((
 
+3.
+                        
+                            
+                                I contratti collettivi definiscono, in coerenza con le disposizioni legislative vigenti, trattamenti economici accessori collegati:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla performance individuale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla performance organizzativa con riferimento all'amministrazione nel suo complesso e alle unita' organizzative o aree di responsabilita' in cui si articola l'amministrazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'effettivo svolgimento di attivita' particolarmente disagiate ovvero pericolose o dannose per la salute.
+
 ))
 
 ((
@@ -1320,12 +2165,66 @@ A tale fine l'ARAN si avvale della collaborazione dell'ISTAT per l'acquisizione 
 
 L'ARAN effettua il monitoraggio sull'applicazione dei contratti collettivi nazionali e sulla contrattazione collettiva integrativa e presenta annualmente al Dipartimento della funzione pubblica, al Ministero dell'economia e delle finanze nonche' ai comitati di settore, un rapporto in cui verifica l'effettivita' e la congruenza della ripartizione fra le materie regolate dalla legge, quelle di competenza della contrattazione nazionale e quelle di competenza dei contratti integrativi nonche' le principali criticita' emerse in sede di contrattazione collettiva nazionale ed integrativa.
 
+5.
+                        
+                            
+                                Sono organi dell'ARAN: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Collegio di indirizzo e controllo. (33)
+
 Il Presidente dell'ARAN e' nominato con decreto del Presidente della Repubblica, su proposta del Ministro per la pubblica amministrazione e l'innovazione previo parere della Conferenza unificata. Il Presidente rappresenta l'agenzia ed e' scelto fra esperti in materia di economia del lavoro, diritto del lavoro, politiche del personale e strategia aziendale, anche estranei alla pubblica amministrazione, nel rispetto delle disposizioni riguardanti le incompatibilita' di cui al comma 7-bis. Il Presidente dura in carica quattro anni e puo' essere riconfermato per una sola volta. La carica di Presidente e' incompatibile con qualsiasi altra attivita' professionale a carattere continuativo, se dipendente pubblico, e' collocato in aspettativa o in posizione di fuori ruolo secondo l'ordinamento dell'amministrazione di appartenenza.
 
 Il collegio di indirizzo e controllo e' costituito da quattro componenti scelti tra esperti di riconosciuta competenza in materia di relazioni sindacali e di gestione del personale, anche estranei alla pubblica amministrazione e dal presidente dell'Agenzia che lo presiede; due di essi sono designati con decreto del Presidente del Consiglio dei Ministri, su proposta, rispettivamente, del Ministro per la pubblica amministrazione e l'innovazione e del Ministro dell'economia e delle finanze e gli altri due, rispettivamente, dall'ANCI e dall'UPI e dalla Conferenza delle Regioni e delle province autonome. Il collegio coordina la strategia negoziale e ne assicura l'omogeneita', assumendo la responsabilita' per la contrattazione collettiva e verificando che le trattative si svolgano in coerenza con le direttive contenute negli atti di indirizzo.
 Nell'esercizio delle sue funzioni il collegio delibera a maggioranza, su proposta del presidente. Il collegio dura in carica quattro anni e i suoi componenti possono essere riconfermati per una sola volta.
 
 Non possono far parte del collegio di indirizzo e controllo ne' ricoprire funzioni di presidente, persone che rivestano incarichi pubblici elettivi o cariche in partiti politici ovvero che ricoprano o abbiano ricoperto nei cinque anni precedenti alla nomina cariche in organizzazioni sindacali. L'incompatibilita' si intende estesa a qualsiasi rapporto di carattere professionale o di consulenza con le predette organizzazioni sindacali o politiche. L'assenza delle predette cause di incompatibilita' costituisce presupposto necessario per l'affidamento degli incarichi dirigenziali nell'agenzia.
+
+8.
+                        
+                            
+                                Per la sua attivita', l'ARAN si avvale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle risorse derivanti da contributi posti a carico delle singole amministrazioni dei vari comparti, corrisposti in misura fissa per dipendente in servizio. La misura annua del contributo individuale e' definita, sentita l'ARAN, con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro della pubblica amministrazione e l'innovazione, d'intesa con la Conferenza unificata ed e' riferita a ciascun triennio contrattuale;)) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di quote per l'assistenza alla contrattazione integrativa e per le altre prestazioni eventualmente richieste, poste a carico dei soggetti che se ne avvalgano.
+
+9.
+                        
+                            
+                                La riscossione dei contributi di cui al comma 8 e' effettuata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le amministrazioni dello Stato mediante l'assegnazione di risorse pari all'ammontare dei contributi che si prevedono dovuti nell'esercizio di riferimento. L'assegnazione e' effettuata annualmente sulla base della quota definita al comma 8, lettera a), con la legge annuale di bilancio, con imputazione alla pertinente unita' previsionale di base dello stato di previsione del ministero dell'economia e finanze; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le amministrazioni diverse dal]o Stato, mediante un sistema di trasferimenti da definirsi tramite decreti del Ministro per la funzione pubblica di concerto con il Ministro ((dell'economia e delle finanze)) e, a seconda del comparto, dei Ministri competenti, nonche', per gli aspetti di interesse regionale e locale, previa intesa espressa dalla Conferenza unificata Stato-regioni e Stato-citta'.
 
 L'ARAN ha personalita' giuridica di diritto pubblico. Ha autonomia organizzativa e contabile nei limiti del proprio bilancio.
 Affluiscono direttamente al bilancio dell'ARAN i contributi di cui al comma 8. L'ARAN definisce con propri regolamenti le norme concernenti l'organizzazione interna, il funzionamento e la gestione finanziaria.
@@ -1450,6 +2349,24 @@ All'attuazione del presente comma si provvede nei limiti delle risorse destinate
 
 COMMA ABROGATO DAL D.P.R. 16 APRILE 2013, N. 70.
 
+2.
+                        
+                            
+                                Per obiettive esigenze di servizio il prestatore di lavoro puo' essere adibito a mansioni proprie della qualifica immediatamente superiore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di vacanza di posto in organico. per non piu' di sei mesi, prorogabili fino a dodici qualora siano state avviate le procedure per la copertura dei posti vacanti come previsto al comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di sostituzione di altro dipendente assente con diritto alla conservazione del posto, con esclusione dell'assenza per ferie, per la durata dell'assenza.
+
 Si considera svolgimento di mansioni sUperiori, ai fini del presente articolo, soltanto l'attribuzione in modo prevalente, sotto il profilo qualitativo, quantitativo e temporale, dei compiti propri di dette mansioni.
 
 Nei casi di cui al comma 2, per il periodo di effettiva prestazione, il lavoratore ha diritto al trattamento previsto per la qualifica superiore. Qualora l'utilizzazione del dipendente sia disposta per sopperire a vacanze dei posti in organico, immediatamente, e comunque nel termine massimo di novanta giorni dalla data in cui il dipendente e' assegnato alle predette mansioni, devono essere avviate le procedure per la copertura dei posti vacanti.
@@ -1474,6 +2391,68 @@ Ai fini previsti dal comma 2, con appositi regolamenti emanati su proposta del M
 Nel caso in cui i regolamenti di cui al comma 3 non siano emanati, l'attribuzione degli incarichi e' consentita nei soli casi espressamente previsti dalla legge o da altre fonti normative.
 
 In ogni caso, il conferimento operato direttamente dall'amministrazione, nonche' l'autorizzazione all'esercizio di incarichi che provengano da amministrazione pubblica diversa da quella di appartenenza, ovvero da societa' o persone fisiche, che svolgano attivita' d'impresa o commerciale, sono disposti dai rispettivi organi competenti secondo criteri oggettivi e predeterminati, che tengano conto della specifica professionalita', tali da escludere casi di incompatibilita', sia di diritto che di fatto, nell'interesse del buon andamento della pubblica amministrazione o situazioni di conflitto, anche potenziale, di interessi, che pregiudichino l'esercizio imparziale delle funzioni attribuite al dipendente.
+
+6.
+                        
+                            
+                                I commi da 7 a 13 del presente articolo si applicano ai dipendenti delle amministrazioni pubbliche di cui all'articolo 1, comma 2, compresi quelli di cui all'articolo 3, con esclusione dei dipendenti con rapporto di lavoro a tempo parziale con prestazione lavorativa non superiore al cinquanta per cento di quella a tempo pieno, dei docenti universitari a tempo definito e delle altre categorie di dipendenti pubblici ai quali e' consentito da disposizioni speciali lo svolgimento di attivita' libero-professionali. Sono nulli tutti gli atti e provvedimenti comunque denominati, regolamentari e amministrativi, adottati dalle amministrazioni di appartenenza in contrasto con il presente comma.
+Gli incarichi retribuiti, di cui ai commi seguenti, sono tutti gli incarichi, anche occasionali, non compresi nei compiti e doveri di ufficio, per i quali e' previsto, sotto qualsiasi forma, un compenso.
+Sono esclusi i compensi e le prestazioni derivanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalla collaborazione a giornali, riviste, enciclopedie e simili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla utilizzazione economica da parte dell'autore o inventore di opere dell'ingegno e di invenzioni industriali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalla partecipazione a convegni e seminari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da incarichi per i quali e' corrisposto solo il rimborso delle spese documentate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da incarichi per lo svolgimento dei quali il dipendente e' posto in posizione di aspettativa, di comando o di fuori ruolo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da incarichi conferiti dalle organizzazioni sindacali a dipendenti presso le stesse distaccati o in aspettativa non retribuita. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    da attivita' di formazione diretta ai dipendenti della pubblica amministrazione nonche' di docenza e di ricerca scientifica. 
+
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    dalle prestazioni di lavoro sportivo, fino ((all'importo complessivo)) di 5.000 euro annui, per le quali e' sufficiente la comunicazione preventiva.
 
 I dipendenti pubblici non possono svolgere incarichi retribuiti che non siano stati conferiti o previamente autorizzati dall'amministrazione di appartenenza. Ai fini dell'autorizzazione, l'amministrazione verifica l'insussistenza di situazioni, anche potenziali, di conflitto di interessi. Con riferimento ai professori universitari a tempo pieno, gli statuti o i regolamenti degli atenei disciplinano i criteri e le procedure per il rilascio dell'autorizzazione nei casi previsti dal presente decreto. In caso di inosservanza del divieto, salve le piu' gravi sanzioni e ferma restando la responsabilita' disciplinare, il compenso dovuto per le prestazioni eventualmente svolte deve essere versato, a cura dell'erogante o, in difetto, del percettore, nel conto dell'entrata del bilancio dell'amministrazione di appartenenza del dipendente per essere destinato ad incremento del fondo di produttivita' o di fondi equivalenti.
 
@@ -1622,6 +2601,80 @@ Ai fini delle determinazioni conclusive, l'ufficio procedente, nel procedimento 
 
 ## Art. 55-quater. — (Licenziamento disciplinare).
 
+1.
+                        
+                            
+                                Ferma la disciplina in tema di licenziamento per giusta causa o per giustificato motivo e salve ulteriori ipotesi previste dal contratto collettivo, si applica comunque la sanzione disciplinare del licenziamento nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    falsa attestazione della presenza in servizio, mediante l'alterazione dei sistemi di rilevamento della presenza o con altre modalita' fraudolente, ovvero giustificazione dell'assenza dal servizio mediante una certificazione medica falsa o che attesta falsamente uno stato di malattia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assenza priva di valida giustificazione per un numero di giorni, anche non continuativi, superiore a tre nell'arco di un biennio o comunque per piu' di sette giorni nel corso degli ultimi dieci anni ovvero mancata ripresa del servizio, in caso di assenza ingiustificata, entro il termine fissato dall'amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ingiustificato rifiuto del trasferimento disposto dall'amministrazione per motivate esigenze di servizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    falsita' documentali o dichiarative commesse ai fini o in occasione dell'instaurazione del rapporto di lavoro ovvero di progressioni di carriera; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    reiterazione nell'ambiente di lavoro di gravi condotte aggressive o moleste o minacciose o ingiuriose o comunque lesive dell'onore e della dignita' personale altrui; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    condanna penale definitiva, in relazione alla quale e' prevista l'interdizione perpetua dai pubblici uffici ovvero l'estinzione, comunque denominata, del rapporto di lavoro. 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    gravi o reiterate violazioni dei codici di comportamento, ai sensi dell'articolo 54, comma 3; (71) 
+
+                                
+                            
+                            
+                                f-ter)
+                                
+                                    commissione dolosa, o gravemente colposa, dell'infrazione di cui all'articolo 55-sexies, comma 3; (71) 
+
+                                
+                            
+                            
+                                f-quater)
+                                
+                                    la reiterata violazione di obblighi concernenti la prestazione lavorativa, che abbia determinato l'applicazione, in sede disciplinare, della sospensione dal servizio per un periodo complessivo superiore a un anno nell'arco di un biennio; (71) 
+
+                                
+                            
+                            
+                                f-quinquies)
+                                
+                                    insufficiente rendimento, dovuto alla reiterata violazione degli obblighi concernenti la prestazione lavorativa, stabiliti da norme legislative o regolamentari, dal contratto collettivo o individuale, da atti e provvedimenti dell'amministrazione di appartenenza, e rilevato dalla costante valutazione negativa della performance del dipendente per ciascun anno dell'ultimo triennio, resa a tali specifici fini ai sensi dell'articolo 3, comma 5-bis, del decreto legislativo n. 150 del 2009. (71)
+
 Costituisce falsa attestazione della presenza in servizio qualunque modalita' fraudolenta posta in essere, anche avvalendosi di terzi, per far risultare il dipendente in servizio o trarre in inganno l'amministrazione presso la quale il dipendente presta attivita' lavorativa circa il rispetto dell'orario di lavoro dello stesso. Della violazione risponde anche chi abbia agevolato con la propria condotta attiva o omissiva la condotta fraudolenta. (67)
 
 COMMA ABROGATO DAL D.LGS. 25 MAGGIO 2017, N. 75. (71)
@@ -1729,6 +2782,38 @@ Il responsabile della struttura in cui il dipendente lavora nonche' il dirigente
 
 ((
 
+1.
+                        
+                            
+                                Nel caso di accertata permanente inidoneita' psicofisica al servizio dei dipendenti delle amministrazioni pubbliche, di cui all'articolo 2, comma 2, l'amministrazione puo' risolvere il rapporto di lavoro. Con regolamento da emanarsi, ai sensi dell'articolo 17, comma 1, lettera b), della legge 23 agosto 1988, n. 400, sono disciplinati, per il personale delle amministrazioni statali, anche ad ordinamento autonomo, nonche' degli enti pubblici non economici:
+ 
+                            
+                            
+                                a)
+                                
+                                    la procedura da adottare per la verifica dell'idoneita' al servizio, anche ad iniziativa dell'Amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la possibilita' per l'amministrazione, nei casi di pericolo per l'incolumita' del dipendente interessato nonche' per la sicurezza degli altri dipendenti e degli utenti, di adottare provvedimenti di sospensione cautelare dal servizio, in attesa dell'effettuazione della visita di idoneita', nonche' nel caso di mancata presentazione del dipendente alla visita di idoneita', in assenza di giustificato motivo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli effetti sul trattamento giuridico ed economico della sospensione di cui alla lettera b), nonche' il contenuto e gli effetti dei provvedimenti definitivi adottati dall'amministrazione in seguito all'effettuazione della visita di idoneita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la possibilita', per l'amministrazione, di risolvere il rapporto di lavoro nel caso di reiterato rifiuto, da parte del dipendente, di sottoporsi alla visita di idoneita'.
+
 ))
 
 ## Art. 55-novies. — (( (Identificazione del personale a contatto con il pubblico). ))
@@ -1760,6 +2845,38 @@ Il Comitato unico di garanzia, all'interno dell'amministrazione pubblica, ha com
 Le modalita' di funzionamento dei Comitati unici di garanzia sono disciplinate da linee guida contenute in una direttiva emanata di concerto dal Dipartimento della funzione pubblica e dal Dipartimento per le pari opportunita' della Presidenza del Consiglio dei ministri entro novanta giorni dalla data di entrata in vigore della presente disposizione.
 
 La mancata costituzione del Comitato unico di garanzia comporta responsabilita' dei dirigenti incaricati della gestione del personale, da valutare anche al fine del raggiungimento degli obiettivi.
+
+1.
+                        
+                            
+                                Le pubbliche amministrazioni, al fine di garantire pari opportunita' tra uomini e donne per l'accesso al lavoro ed il trattamento sul lavoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riservano alle donne, salva motivata impossibilita', almeno un terzo dei posti di componente delle commissioni di concorso, fermo restando il principio di cui all'articolo 35, comma 3, lettera e) ((; in caso di quoziente frazionario si procede all'arrotondamento all'unita' superiore qualora la cifra decimale sia pari o superiore a 0,5 e all'unita' inferiore qualora la cifra decimale sia inferiore a 0,5)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adottano propri atti regolamentari per assicurare pari opportunita' fra uomini e donne sul lavoro, conformemente alle direttive impartite dalla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantiscono la partecipazione delle proprie dipendenti ai corsi di formazione e di aggiornamento professionale in rapporto proporzionale alla loro presenza nelle amministrazioni interessate ai corsi medesimi, adottando modalita' organizzative atte a favorirne la partecipazione, consentendo la conciliazione fra vita professionale e vita familiare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    possono finanziare programmi di azioni positive e l'attivita' dei Comitati unici di garanzia per le pari opportunita', per la valorizzazione del benessere di chi lavora e contro le discriminazioni, nell'ambito delle proprie disponibilita' di bilancio.
 
 ((1-bis. L'atto di nomina della commissione di concorso e' inviato, entro tre giorni, alla consigliera o al consigliere di parita' nazionale ovvero regionale, in base all'ambito territoriale dell'amministrazione che ha bandito il concorso, che, qualora ravvisi la violazione delle disposizioni contenute nel comma 1, lettera a), diffida l'amministrazione a rimuoverla entro il termine massimo di trenta giorni. In caso di inottemperanza alla diffida, la consigliera o il consigliere di parita' procedente propone, entro i successivi quindici giorni, ricorso ai sensi dell'articolo 37, comma 4, del codice delle pari opportunita' tra uomo e donna, di cui al decreto legislativo 11 aprile 2006, n. 198, e successive modificazioni; si applica il comma 5 del citato articolo 37 del codice di cui al decreto legislativo n. 198 del 2006, e successive modificazioni. Il mancato invio dell'atto di nomina della commissione di concorso alla consigliera o al consigliere di parita' comporta responsabilita' del dirigente responsabile del procedimento, da valutare anche al fine del raggiungimento degli obiettivi))
 
@@ -1813,6 +2930,32 @@ Gli ispettori, nell'esercizio delle loro funzioni, hanno piena autonomia funzion
 
 Ferme le competenze dell'Ispettorato di cui all'articolo 60, comma 6, e dell'Unita' per la semplificazione e la qualita' della regolazione di cui all'articolo 1, comma 22-bis, del decreto-legge 18 maggio 2006, n. 181, convertito, con modificazioni, dalla legge 17 luglio 2006, n. 233, e' istituito, presso il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri, il Nucleo delle azioni concrete di miglioramento dell'efficienza amministrativa, denominato "Nucleo della Concretezza".
 
+2.
+                        
+                            
+                                Con decreto del Ministro per la pubblica amministrazione, di concerto con il Ministro dell'interno, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, per la parte relativa alle azioni da effettuare nelle regioni, negli enti strumentali regionali, negli enti del Servizio sanitario regionale e negli enti locali, e' approvato il Piano triennale delle azioni concrete per l'efficienza delle pubbliche amministrazioni, predisposto annualmente dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri.
+Il Piano contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le azioni dirette a garantire la corretta applicazione delle disposizioni in materia di organizzazione, funzionamento, trasparenza e digitalizzazione delle pubbliche amministrazioni e la conformita' dell'attivita' amministrativa ai principi di imparzialita' e buon andamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le tipologie di azioni dirette a incrementare l'efficienza delle pubbliche amministrazioni, anche con riferimento all'impiego delle risorse dei fondi strutturali e di investimento europei; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione delle modalita' di svolgimento delle attivita' del Nucleo della Concretezza nei confronti delle regioni, degli enti strumentali regionali, degli enti del Servizio sanitario regionale e degli enti locali.
+
 Il Nucleo della Concretezza assicura la concreta realizzazione delle misure indicate nel Piano di cui al comma 2. A tal fine, in collaborazione con l'Ispettorato di cui all'articolo 60, comma 6, effettua sopralluoghi e visite finalizzati a rilevare lo stato di attuazione delle disposizioni da parte delle pubbliche amministrazioni, nonche' le modalita' di organizzazione e di gestione dell'attivita' amministrativa alla luce dei criteri di efficienza, efficacia ed economicita', proponendo eventuali misure correttive. Le amministrazioni dello Stato, anche ad ordinamento autonomo, le agenzie e gli enti pubblici non economici nazionali realizzano le misure correttive entro tempi definiti e comunque nei limiti di quelli indicati nel Piano di cui al comma 2.
 
 Di ogni sopralluogo e visita e' redatto processo verbale, sottoscritto dal rappresentante dell'amministrazione o da un suo delegato, da cui risultano le visite e le rilevazioni eseguite, le richieste avanzate, la documentazione visionata o acquisita, nonche' le risposte e i chiarimenti ricevuti. Il verbale contiene anche l'indicazione delle eventuali misure correttive e, per le amministrazioni di cui al terzo periodo del comma 3, del termine entro il quale le stesse devono essere attuate. L'amministrazione, nei tre giorni successivi, puo' formulare osservazioni e fornire ulteriori documenti.
@@ -1846,6 +2989,24 @@ Il prefetto puo' segnalare al Nucleo della Concretezza di cui all'articolo 60-bi
 ((
 
 .
+
+1.
+                        
+                            
+                                Per lo svolgimento delle attivita' di cui agli articoli 60-bis e 60-ter, il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri si avvale di cinquantatre' unita' di personale, di cui una con qualifica dirigenziale di livello generale e due con qualifica dirigenziale di livello non generale, reclutate come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ventitre' unita', ivi comprese quelle di livello dirigenziale in deroga alle percentuali di cui all'articolo 19, comma 5-bis, individuate anche tra il personale delle altre amministrazioni pubbliche di cui all'articolo 1, comma 2, che e' collocato in posizione di comando o fuori ruolo o altro analogo istituto previsto dai rispettivi ordinamenti, per il quale si applicano l'articolo 17, comma 14, della legge 15 maggio 1997, n. 127, e l'articolo 56, settimo comma, del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3. Il trattamento economico e' corrisposto secondo le modalita' previste dall'articolo 9, comma 5-ter, del decreto legislativo 30 luglio 1999, n. 303; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trenta unita', di cui venti da inquadrare nel livello iniziale della categoria A e dieci da inquadrare nel livello iniziale della categoria B, reclutate a seguito di concorso pubblico per titoli ed esami, espletato ai sensi dell'articolo 35, comma 5.
 
 Agli oneri derivanti dall'attuazione delle disposizioni di cui al comma 1, pari a euro 4.153.160 annui a decorrere dal 2019, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
@@ -2044,6 +3205,223 @@ Alla fine della tornata contrattuale 1998-2001 per tutti i comparti ed aree di c
 art. 43, commi 1, 3, 4, 5, 6 e 7 del d.lgs n. 80 del 1998, come
 modificati dall'art. 22, commi da 1 a 3 del d.lgs n. 387 del 1998;
  art. 28, comma 2 del d.lgs n. 80 del 1998)
+
+1.
+                        
+                            
+                                Sono abrogate o rimangono abrogate le seguenti norme:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articolo 32 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capo I, titolo I, del decreto del Presidente della Repubblica 30 giugno 1972, n. 748, e successive modificazioni ed integrazioni, ad eccezione delle disposizioni di cui agli articoli da 4 a 12, nonche' 15, 19, 21, 24 e 25, che, nei limiti di rispettiva applicazione, continuano ad applicarsi al personale dirigenziale delle carriere previste dall'articolo 15, comma 1, secondo periodo del presente decreto, nonche' le altre disposizioni del medesimo decreto n. 748 del 1972 incompatibili con quelle del presente decreto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        articolo 5, commi secondo e terzo della legge 11 agosto 1973, n. 533;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articoli 4, commi decimo, undicesimo, dodicesimo e tredicesimo e 6 della legge 11 luglio 1980, n. 312;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        articolo 2 del decreto legge 6 giugno 1981, n. 283, convertito, con modificazioni, dalla legge 6 agosto 1981, n. 432;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articoli da 2 a 15, da 17 a 21, 22, a far data dalla stipulazione dei contratti collettivi per il quadriennio 1994-1997; 23, 26, comma quarto, 27, comma primo, n. 5, 28 e 30, comma terzo della legge 29 marzo 1983, n. 93;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        legge 10 luglio 1984, n. 301, ad esclusione delle disposizioni che riguardano l'accesso alla qualifica di primo dirigente del Corpo forestale dello Stato;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        articolo 2 della legge 8 marzo 1985, n. 72;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        articoli 27 e 28 del decreto del Presidente della Repubblica 8 maggio 1987, n. 266, come integrato dall'articolo 10 del decreto del Presidente della Repubblica 17 settembre 1987, n. 494;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 5 dicembre 1987, n. 551;
+
+                                
+                            
+                            
+                                k)
+                                
+                                    
+                                        articoli 4, commi 3 e 4, e articolo 5 della legge 8 luglio 1988, n. 254;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        articolo 17, comma 1, lettera e), della legge 23 agosto 1988, n. 400;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        articolo 9 della legge 9 maggio 1989, n. 168;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    articoli 4, comma 9, limitatamente alla disciplina sui contratti di lavoro riguardanti i dipendenti delle amministrazioni, aziende ed enti del Servizio sanitario nazionale; e 10, comma 2 della legge 30 dicembre 1991, n. 412;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    
+                                        articolo 2, comma 8, del decreto-legge 11 luglio 1992, n. 333, convertito, con modificazioni, dalla legge 8 agosto 1992, n. 359, limitatamente al personale disciplinato dalla legge 4 giugno 1985, n. 281;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    
+                                        articolo 7, comma 1, del decreto-legge 19 settembre 1992, n. 384, convertito, con modificazioni, dalla legge 14 novembre 1992, n. 438, limitatamente al personale disciplinato dalle leggi 4 giugno 1985, n. 281 e 10 ottobre 1990, n. 287;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    
+                                        articolo 10, comma 3, del decreto legislativo 30 dicembre 1992, n. 533;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    
+                                        articolo 10 del decreto legislativo 30 dicembre 1992, n. 534;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    
+                                        articolo 6-bis del decreto legge 18 gennaio 1993, n. 9, convertito, con modificazioni, dalla legge 18 marzo 1993, n. 67;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    
+                                        decreto legislativo 3 febbraio 1993, n. 29;
+
+                                
+                            
+                            
+                                u)
+                                
+                                    articolo 3, commi 5, 6, 23, 27, 31 ultimo periodo e da 47 a 52 della legge 24 dicembre 1993, n. 537;
+
+                                
+                            
+                            
+                                v)
+                                
+                                    
+                                        articolo 3, comma 1, lettera e), della legge 14 gennaio 1994, n. 20;
+
+                                
+                            
+                            
+                                w)
+                                
+                                    
+                                        decreto del Presidente del Consiglio dei ministri 16 settembre 1994, n. 716;
+
+                                
+                            
+                            
+                                x)
+                                
+                                    
+                                        articolo 2, lettere b), d) ed e) del decreto del Presidente del Consiglio dei ministri 18 ottobre 1994, n. 692, a decorrere dalla data di attuazione delle disposizioni di cui all'articolo 19 del presente decreto;
+
+                                
+                            
+                            
+                                y)
+                                
+                                    
+                                        articolo 22, comma 15, della legge 23 dicembre 1994, n. 724;
+
+                                
+                            
+                            
+                                z)
+                                
+                                    
+                                        decreto del Ministro per la funzione pubblica 27 febbraio 1995, n. 112;
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    
+                                        decreto legislativo 4 novembre 1997, n. 396;
+ bb)decreto legislativo 31 marzo 1998, n. 80 ad eccezione degli articoli da 33 a 42 e 45, comma 18;
+ cc) decreto legislativo 29 ottobre 1998, n. 387 ad eccezione degli articoli 19, commi da 8 a 18 e 23.
 
 Agli adempimenti e alle procedure gia' previsti dall'articolo 31 del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni e integrazioni, continuano ad essere tenute le amministrazioni che non vi hanno ancora provveduto alla data di entrata in vigore del presente decreto.
 

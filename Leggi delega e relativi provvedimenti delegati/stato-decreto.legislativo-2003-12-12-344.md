@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2015-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -1345,6 +1345,82 @@ Fusioni, scissioni conferimenti di attivo scambi di azioni concernenti societa' 
 
 ## Art. 2. — Norme di coordinamento
 
+1.
+                    
+                        
+                            Nel decreto del Presidente della Repubblica 29 settembre 1973, n. 600, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 26-bis, il comma 2 e' sostituito dal seguente:
+ "2. Qualora i rapporti di cui all'articolo 44, comma 1, lettere g-bis) e g-ter), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, abbiano ad oggetto azioni o strumenti finanziari similari alle azioni di cui allo stesso articolo 44, l'esenzione di cui al comma 1 non si applica sulla quota del provento corrispondente all'ammontare degli utili messi in pagamento nel periodo di durata del contratto.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 27, i commi da 1 a 5 sono sostituiti dai seguenti:
+ "1. Le societa' e gli enti indicati nelle lettere a) e b) del comma 1 dell'articolo 73 del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, operano con obbligo di rivalsa, una ritenuta del 12,50 per cento a titolo d'imposta sugli utili in qualunque forma corrisposti, anche nei casi di cui all'articolo 47, comma 7, del predetto testo unico, a persone fisiche residenti in relazione a partecipazioni non qualificate ai sensi della lettera c-bis) del comma 1 dell'articolo 67 del citato testo unico n. 917 del 1986, non relative all'impresa ai sensi dell'articolo 65 del medesimo testo unico. La ritenuta di cui al periodo precedente si applica alle condizioni ivi previste agli utili derivanti dagli strumenti finanziari di cui all'articolo 44, comma 2, lettera a) e dai contratti di associazione in partecipazione di cui all'articolo 109, comma 9, lettera b), del predetto testo unico qualora il valore dell'apporto non sia superiore al 5 per cento o al 25 per cento del valore del patrimonio netto contabile risultante dall'ultimo bilancio approvato prima della data di stipula del contratto nel caso in cui si tratti rispettivamente di societa' i cui titoli sono negoziati in mercati regolamentati o di altre partecipazioni, ovvero non sia superiore al 25 per cento del valore individuato nel secondo periodo del comma 2 dell'articolo 47 del citato testo unico qualora l'associante determini il reddito di impresa ai sensi dell'articolo 66 del medesimo testo unico.
+ 1-bis. Nei casi di cui all'articolo 47, comma 7, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, la ritenuta prevista al comma 1 si applica sull'intero ammontare delle somme o dei valori corrisposti, qualora il percettore non comunichi il valore fiscalmente riconosciuto della partecipazione.
+ 2. In caso di distribuzione di utili in natura i singoli soci o partecipanti, per conseguirne il pagamento, sono tenuti a versare alle societa' ed altri enti di cui alle lettere a) e b) del comma 1 dell'articolo 73 del predetto testo unico, l'importo corrispondente all'ammontare della ritenuta di cui al comma 1, determinato in relazione al valore normale dei beni ad essi attribuiti, quale risulta dalla valutazione operata dalla societa' emittente alla data individuata dalla lettera a) del comma 2 dell'articolo 109 del citato testo unico.
+ 3. La ritenuta e' operata a titolo d'imposta e con l'aliquota del 27 per cento sugli utili corrisposti a soggetti non residenti nel territorio dello Stato in relazione alle partecipazioni, agli strumenti finanziari di cui all'articolo 44, comma 2, lettera a) e ai contratti di associazione in partecipazione di cui all'articolo 109, comma 9, lettera b), non relative a stabili organizzazioni nel territorio dello Stato. L'aliquota della ritenuta e' ridotta al 12,50 per cento per gli utili pagati ad azionisti di risparmio. I soggetti non residenti, diversi dagli azionisti di risparmio, hanno diritto al rimborso, fino a concorrenza dei quattro noni della ritenuta, dell'imposta che dimostrino di aver pagato all'estero in via definitiva sugli stessi utili mediante certificazione del competente ufficio fiscale dello Stato estero.
+ 4. Sugli utili corrisposti dalle societa' ed enti indicati nella lettera d) del comma 1 dell'articolo 73 del citato testo unico a persone fisiche residenti in relazione a partecipazioni e agli associati dei contratti di cui all'articolo 109, comma 9, lettera b), non qualificate ai sensi della lettera c-bis) del comma 1 dell'articolo 67 del medesimo testo unico, non relative all'impresa ai sensi dell'articolo 65 dello stesso testo unico, e' operata una ritenuta, del 12,50 per cento a titolo d'imposta dai soggetti di cui al primo comma dell'articolo 23, che intervengono nella loro riscossione. La ritenuta operata sulla quota imponibile degli utili corrisposti e' a titolo d'acconto in relazione a partecipazioni e ai contratti di cui alla lettera c) del comma 1 dell'articolo 67 del citato testo unico non relative all'impresa ai sensi dell'articolo 65. La ritenuta dei periodi precedenti e' operata al netto delle ritenute applicate dallo Stato estero. In caso di distribuzione di utili in natura si applicano le disposizioni di cui al comma 2.
+ 5. Le ritenute di cui ai commi 1 e 4, primo periodo, non sono operate qualora le persone fisiche residenti e gli associati in partecipazione dichiarino all'atto della percezione che gli utili riscossi sono relativi all'attivita' di impresa o ad una partecipazione qualificata ai sensi della lettera c) del comma 1 dell'articolo 67 del citato testo unico. Le ritenute di cui ai commi 1 e 4, sono operate con l'aliquota del 27 per cento ed a titolo d'imposta nei confronti dei soggetti esenti dall'imposta sul reddito delle societa'.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 27-bis i commi 1 e 2 sono sostituiti dai seguenti:
+ "1. Le societa' che detengono una partecipazione diretta non inferiore al 25 per cento del capitale della societa' che distribuisce gli utili, hanno diritto, a richiesta, al rimborso della ritenuta di cui al terzo comma dell'articolo 27, se:
+ a) rivestono una delle forme previste nell'allegato della direttiva n. 435/90/CEE del Consiglio del 23 luglio 1990;
+ b) risiedono, ai fini fiscali, in uno Stato membro dell'Unione europea;
+ c) sono soggette, nello Stato di residenza, senza possibilita' di fruire di regimi di opzione o di esonero che non siano territorialmente o temporalmente limitati, ad una delle imposte indicate nell'allegato della predetta direttiva;
+ d) la partecipazione sia detenuta ininterrottamente per almeno un anno.
+ 2. Ai fini dell'applicazione del comma 1, deve essere prodotta una certificazione, rilasciata dalle competenti autorita' fiscali dello Stato estero, che attesti che la societa' non residente possiede i requisiti indicati nel comma 1 nonche' la documentazione attestante la sussistenza delle condizioni indicate al medesimo comma 1.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 27-ter, il comma 1 e' sostituito dal seguente:
+ "1. Sugli utili derivanti dalle azioni e dagli strumenti finanziari similari alle azioni di cui all'articolo 4428/11/031 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, immessi nel sistema di deposito accentrato gestito dalla Monte Titoli S.p.A. ai sensi della legge 19 giugno 1986, n. 289, e' applicata, in luogo della ritenuta di cui ai commi 1 e 3 dell'articolo 27, un'imposta sostitutiva delle imposte sui redditi con le stesse aliquote ed alle medesime condizioni previste dal predetto articolo.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 37-bis, comma 3:
+ 1) alla lettera f) dopo le parole "incluse le valutazioni" sono inserite le seguenti: "e le classificazioni di bilancio";
+ 2) dopo la lettera f) e' aggiunta la seguente: "f-bis) cessioni di beni effettuate tra i soggetti ammessi al regime della tassazione di gruppo di cui all'articolo 117 del testo unico delle imposte sui redditi.".
+
+2.
+                    
+                        
+                            Nel decreto legislativo 21 novembre 1997, n. 461, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 5:
+ 1) il comma 1 e' abrogato;
+ 2) al comma 3, il primo periodo e' sostituito dal seguente: "Le plusvalenze e gli altri redditi soggetti all'imposta sostitutiva di cui al comma 2 e quelle di cui alla lettera c) dell'articolo 67 del testo unico delle imposte sui redditi determinate secondo i criteri di cui all'articolo 68 sono distintamente indicati nella dichiarazione annuale dei redditi.";
+ 3) al comma 4, nel primo periodo le parole: "Le imposte sostitutive di cui ai commi 1 e 2 sono corrisposte" sono sostituite dalle seguenti: "L'imposta sostituiva di cui al comma 2 e' corrisposta";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 7, comma 3, lettera d), le parole: "non negoziate in mercati regolamentati" sono sostituite dalle seguenti: "qualificate ai sensi della lettera c) del comma 1 dell'articolo 67 del testo unico delle imposte sui redditi".
+
 Nelle disposizioni del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, non modificate in conseguenza del presente decreto, i riferimenti a disposizioni contenute in articoli del medesimo testo unico recanti la numerazione vigente prima della data di entrata in vigore del presente decreto si intendono effettuati alle corrispondenti disposizioni contenute negli articoli che recano la numerazione disposta con il medesimo decreto.
 
 Quando leggi, regolamenti, decreti, od altre norme o provvedimenti, fanno riferimento a disposizioni contenute in articoli del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, vigenti alla data di entrata in vigore del presente decreto, il riferimento, salvo che tali disposizioni non risultino abrogate per effetto della entrata in vigore del medesimo decreto, si intende alle corrispondenti disposizioni contenute negli articoli che recano la numerazione disposta con il presente decreto.
@@ -1364,6 +1440,124 @@ Per i proventi derivanti da depositi di denaro, di valori mobiliari e di altri t
                          Il D.Lgs. 18 novembre 2005,n. 247 ha disposto (con l'art. 18, comma 6) che le disposizioni del presente articolo, comma 2,primo periodo,si applicano alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
 ## Art. 4. — Disposizioni transitorie ed entrata in vigore
+
+1.
+                    
+                        
+                            Il presente decreto entra in vigore il 1° gennaio 2004. Le disposizioni di cui agli articoli 1 e 2, commi 3 e 4, e 3, commi 1 e 3, hanno effetto per i periodi di imposta che hanno inizio a decorrere da tale data; tuttavia: 
+ 
+                        
+                        
+                            a)
+                            
+                                resta ferma l'applicazione dell'articolo 6, comma 2, del decreto legislativo 8 ottobre 1997, n. 358, relativamente alle operazioni di fusione e scissione deliberate dalle assemblee delle societa' partecipanti fino al 30 aprile 2004; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il primo periodo di imposta che inizia a decorrere dal 1° gennaio 2004, ai fini dell'applicazione della disciplina di contrasto della sottocapitalizzazione di cui all'articolo 98 del citato testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, il rapporto di cui al comma 1 del medesimo articolo e' fissato nella misura di cinque a uno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non rientrano nell'esenzione di cui all'articolo 87 ed all'articolo 58 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, cosi' come modificato dal presente decreto legislativo, le plusvalenze relative alle azioni o quote realizzate entro il secondo periodo d'imposta successivo a quello in corso al 31 dicembre 2003 fino a concorrenza delle svalutazioni dedotte nello stesso periodo d'imposta in corso al 31 dicembre 2003 e nel precedente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                corrispondentemente le svalutazioni delle stesse azioni o quote di cui al periodo precedente, riprese a tassazione nel periodo d'imposta in corso al 31 dicembre 2003 e nel precedente sono deducibili se realizzate entro il secondo periodo d'imposta successivo a quello in corso al 31 dicembre 2003; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le norme di cui al capo VI del titolo II del citato testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, si applicano ai periodi di imposta che iniziano successivamente all'ottenimento dell'autorizzazione dell'Unione europea al regime di determinazione dell'imponibile ivi previsto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'eventuale eccedenza delle minusvalenze di cui all'articolo 68, comma 3, del citato testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, ancora non utilizzate alla fine del periodo d'imposta in corso al 2003 puo' essere portata in deduzione delle future plusvalenze nella stessa percentuale di cui al medesimo comma; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per le partecipazioni, gli strumenti finanziari ed i contratti di cui all'articolo 87, commi 1 e 3, del testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, gia' posseduti o in essere all'inizio del primo periodo d'imposta cui si applicano le disposizioni del citato testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, il requisito di cui allo stesso articolo 87, comma 1, lettera b), sussiste se le partecipazioni, gli strumenti finanziari e gli apporti dei contratti risultano classificati nella categoria delle immobilizzazioni finanziarie nel bilancio relativo al secondo periodo d'imposta precedente a quello cui si applicano per la prima volta le disposizioni del citato testo unico; per quelli acquisiti nel periodo d'imposta anteriore a quello di entrata in vigore delle disposizioni del testo unico, come modificate dal presente decreto, il medesimo requisito sussiste se ne e' effettuata la classificazione nella medesima categoria nel bilancio relativo al predetto periodo d'imposta; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le disposizioni dell'articolo 109, comma 4, del citato testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, si applicano anche agli ammortamenti, alle altre rettifiche di valore e agli accantonamenti operati: 
+ 1) in esercizi precedenti a quello di entrata in vigore del decreto legislativo 17 gennaio 2003, n. 6 per effetto dell'abrogato articolo 2426, secondo comma, del codice civile ed eliminati dal bilancio in applicazione delle disposizioni di tale decreto; 
+ 2) nell'esercizio in corso al 31 dicembre 2003 che termina successivamente alla medesima data; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                in deroga alle disposizioni di cui all'articolo 3 della legge 27 luglio 2000, n. 212, l'articolo 109, comma 7, del citato testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, si applica a decorrere dal periodo d'imposta in corso all'8 agosto 2002. Dalla predetta data e fino alla data di entrata in vigore del presente decreto sono fatti salvi i comportamenti tenuti sulla base delle disposizioni del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, vigenti fino alla data di entrata in vigore del presente decreto; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per il periodo d'imposta in corso alla data di entrata in vigore delle disposizioni del testo unico delle imposte sui redditi, come modificate dal presente decreto, l'acconto dell'imposta sul reddito delle societa' dovuto dall'ente o societa' controllante secondo le disposizioni di cui alle sezioni II e III del capo II del titolo II, del citato testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, e' effettuato assumendo come imposta del periodo precedente quella indicata nella dichiarazione dei redditi presentata per il periodo stesso dalle societa' singolarmente considerate; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                LETTERA SOPPRESSA DAL D.LGS. 18 NOVEMBRE 2005, N. 247. 
+
+                            
+                        
+                        
+                            n)
+                            
+                                per il periodo d'imposta in corso al 31 dicembre 2005, ai soli fini dell'imposta sul reddito delle societa', la misura dell'acconto e' aumentata dal 99 al 102,5 per cento; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                il limitato concorso alla formazione del reddito imponibile dell'associato delle remunerazioni dei contratti di cui all'articolo 109, comma 9, lettera b), del citato testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, e l'applicabilita' delle ritenute previste dall'articolo 27 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, non si applica alle remunerazioni dedotte nella determinazione del reddito imponibile dell'associante in base alle norme del citato testo unico delle imposte sui redditi prima delle modifiche recate dal presente decreto per le quali rimane il previgente regime fiscale; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                per le svalutazioni delle azioni o quote operate fino al periodo di imposta antecedente a quello cui si applicano le disposizioni dell'articolo 1 continuano ad applicarsi anche successivamente i criteri di deduzione pro quota stabiliti dall'articolo 1, comma 1, lettera b), del decreto-legge 24 settembre 2002, n. 209, convertito dalla legge 22 novembre 2002, n. 265; ai fini dell'applicazione delle lettere c) e d), le stesse si considerano integralmente dedotte nel periodo di imposta in corso al 31 dicembre 2003; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                fino a quando, ai sensi dell'articolo 3, comma 1, lettera a), della legge 7 aprile 2003, n. 80, non verra' attuata l'inclusione, tra i soggetti passivi dell'imposta sul reddito, degli enti non commerciali di cui all'articolo 73, comma 1, lettera c), del citato testo unico delle imposte sui redditi, cosi' come modificato dal presente decreto legislativo, gli utili percepiti ((...)) dagli enti stessi non concorrono alla formazione del reddito imponibile, in quanto esclusi, nella misura del ((22,26 per cento)) del loro ammontare; sull'ammontare imponibile degli utili, in qualunque forma corrisposti nel primo periodo d'imposta che inizia a decorrere dal 1° gennaio 2004, le societa' e gli enti indicati nel comma 1 dell'articolo 23 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600 operano, con obbligo di rivalsa, una ritenuta del 12,50 per cento a titolo di acconto. ((2))
+                                
+                            
+                        
+                        
+                            q-bis)
+                            
+                                alla cessione delle partecipazioni ricevute a seguito del conferimento effettuato ai sensi dell'articolo 3, comma 3, del decreto legislativo 8 ottobre 1997, n. 358, abrogato dall'articolo 3, comma 2, del decreto legislativo 12 dicembre 2003, n. 344, si applicano le disposizioni dell'articolo 175, comma 4, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917. (1)
 
 Con la legge finanziaria si provvede al rimborso integrale agli enti locali delle minori entrate derivanti dall'abrogazione dell'articolo 14, comma 1-bis, del testo unico delle imposte sui redditi.
 

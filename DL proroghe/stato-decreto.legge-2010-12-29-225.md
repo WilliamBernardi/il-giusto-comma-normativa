@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -38,6 +38,38 @@ Le proroghe di termini di cui al comma 2 sono disposte previo parere della Commi
 
 Al comma 1 dell'articolo 245 del decreto legislativo 19 febbraio 1998, n. 51, e successive modificazioni, le parole: "non oltre il 31 dicembre 2010" sono sostituite dalle seguenti: "non oltre il 31 dicembre 2011".
 
+2-quater.
+                    
+                        
+                            Al comma 2 dell'articolo 1 del decreto-legge 29 dicembre 2009, n. 193, convertito, con modificazioni, dalla legge 22 febbraio 2010, n. 24, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: "il cui mandato e' scaduto il 31 dicembre 2009" sono sostituite dalle seguenti: "il cui mandato e' scaduto il 31 dicembre 2010";
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: "il cui mandato scade entro il 31 dicembre 2010" sono sostituite dalle seguenti: "il cui mandato scade entro il 31 dicembre 2011";
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole: "a far data dal 1° gennaio 2010" sono sostituite dalle seguenti: "a far data dal 1° gennaio 2011";
+
+                            
+                        
+                        
+                            d)
+                            
+                                le parole: "non oltre il 31 dicembre 2010" sono sostituite dalle seguenti: "non oltre il 31 dicembre 2011".
+
 I termini e i regimi giuridici indicati nella tabella 1, allegata al presente decreto, la cui scadenza e' fissata in data successiva al 31 marzo 2011, sono prorogati al 30 aprile 2012. La disposizione di cui al presente comma non si applica ai termini e ai regimi giuridici di cui all'articolo 4, comma 9, del decreto-legge 3 giugno 2008, n. 97, convertito, con modificazioni, dalla legge 2 agosto 2008, n. 129, e a quelli di cui all'articolo 1, comma 1, secondo periodo, del decreto del Presidente della Repubblica 31 maggio 1999, n. 195, per i quali resta ferma la previsione di cui al comma 2 del presente articolo, nonche' a quelli di cui all'articolo 12, comma 7, della legge 31 dicembre 2009, n. 196, per i quali resta fermo quanto previsto dal citato articolo 12, comma 7, come modificato dall'articolo 2, comma 17-sexies, del presente decreto.
 
 Il termine di proroga, riferito alla "FONTE NORMATIVA. articolo 17, comma 19, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102", di cui alla tabella 1, si intende riferito anche agli idonei nei concorsi pubblici di cui alle medesime disposizioni.
@@ -57,11 +89,61 @@ Ai sensi e per gli effetti di cui all'articolo 1, comma 1, e alla tabella 1, con
 
 Il termine di cui all'articolo 15, comma 1, della legge 19 febbraio 2004, n. 40, e' prorogato al 30 aprile 2011. Fatte salve le disposizioni di cui all'articolo 11 della legge 19 febbraio 2004, n. 40, nonche' le disposizioni di cui all'articolo 8 del decreto legislativo 6 novembre 2007, n. 191, tutte le strutture autorizzate all'applicazione delle tecniche di procreazione medicalmente assistita inviano i dati richiesti al Ministero della salute, che cura il successivo inoltro, nell'ambito delle rispettive competenze, all'Istituto superiore di sanita' e al Centro nazionale trapianti. Con decreto del Ministero della salute, di natura non regolamentare, sono disciplinate le modalita' di comunicazione dei dati di cui al presente comma da parte delle strutture autorizzate all'applicazione delle tecniche di procreazione medicalmente assistita, ai fini del successivo inoltro, sia in forma aggregata che disaggregata, rispettivamente all'Istituto superiore di sanita' e al Centro nazionale trapianti. Le amministrazioni interessate provvedono all'attuazione del presente comma nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
+1-sexies.
+                    
+                        
+                            In attuazione dell'articolo 40, comma 2, della legge 4 giugno 2010, n. 96, e con efficacia protratta fino alla data di entrata in vigore delle disposizioni conseguenti all'Accordo concernente i "requisiti minimi organizzativi, strutturali e tecnologici delle attivita' sanitarie dei servizi trasfusionali e delle unita' di raccolta e sul modello per le visite di verifica", sancito in data 16 dicembre 2010 tra il Governo e le regioni e province autonome di Trento e di Bolzano, in conformita' allo stesso Accordo, il Ministro della salute, con propri decreti da emanare entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                istituisce l'elenco nazionale dei valutatori per il sistema trasfusionale, affidandone la tenuta al Centro nazionale sangue, per lo svolgimento dei compiti previsti dall'articolo 5 del decreto legislativo 20 dicembre 2007, n. 261; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce, ai fini dell'emanazione del decreto ministeriale previsto dall'articolo 40, comma 4, della citata legge n. 96 del 2010, le modalita' per la presentazione da parte degli interessati e per la valutazione, da parte dell'Agenzia italiana del farmaco, delle istanze volte a ottenere l'inserimento fra i centri e le aziende autorizzati alla stipula delle convenzioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                disciplina, nelle more della compiuta attuazione di quanto previsto dal citato Accordo del 16 dicembre 2010, che comunque dovra' avvenire entro il 30 giugno 2015, le modalita' attraverso le quali l'Agenzia italiana del farmaco assicura l'immissione in commercio dei medicinali emoderivati prodotti da plasma raccolto sul territorio nazionale nonche' l'esportazione del medesimo per la lavorazione in Paesi comunitari e l'Istituto superiore di sanita' assicura il relativo controllo di stato.
+
 Dall'attuazione delle disposizioni del comma 1-sexies non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Alle attivita' disposte dal comma 1-sexies si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 Il Comitato per la verifica delle cause di servizio di cui al regolamento di cui al decreto del Presidente della Repubblica 29 ottobre 2001, n. 461, e' prorogato, fino al 31 dicembre 2015, nella composizione in atto alla data di entrata in vigore della legge di conversione del presente decreto, senza nuovi o maggiori oneri a carico della finanza pubblica.
 
 Il termine del 20 dicembre 2010, previsto dal decreto del Ministro dell'economia e delle finanze in data 1° dicembre 2010, pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale n. 293 del 16 dicembre 2010, relativo al versamento dei tributi, nonche' dei contributi previdenziali ed assistenziali e dei premi per l'assicurazione obbligatoria contro gli infortuni e le malattie professionali, sospesi in relazione agli eccezionali eventi alluvionali verificatisi nel Veneto, e' differito alla data del 30 giugno 2011. Alle minori entrate derivanti dal periodo precedente, pari a 93 milioni di euro per l'anno 2010, si provvede ai sensi dell'articolo 3 .
+
+2-bis.
+                    
+                        
+                            Nelle more della completa attuazione delle disposizioni di carattere finanziario in materia di ciclo di gestione dei rifiuti, comprese le disposizioni contenute negli articoli 11 e 12 del decreto-legge 30 dicembre 2009, n. 195, convertito, con modificazioni, dalla legge 26 febbraio 2010, n. 26, la copertura integrale dei costi diretti e indiretti dell'intero ciclo di gestione dei rifiuti puo' essere assicurata, anche in assenza di una dichiarazione dello stato di emergenza e anche in deroga alle vigenti disposizioni in materia di sospensione, sino all'attuazione del federalismo fiscale, del potere di deliberare aumenti dei tributi, delle addizionali, delle aliquote ovvero delle maggiorazioni di aliquote attribuiti agli enti territoriali, con le seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                possono essere applicate nella regione interessata le disposizioni di cui all'articolo 5, comma 5-quater, della legge 24 febbraio 1992, n. 225, introdotto dal comma 2-quater del presente articolo, con limite di incremento dell'imposta raddoppiato rispetto a quello ivi previsto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i comuni possono deliberare un'apposita maggiorazione dell'addizionale all'accisa sull'energia elettrica di cui all'articolo 6, comma 1, lettere a) e b), del decreto-legge 28 novembre 1988, n. 511, convertito, con modificazioni, dalla legge 27 gennaio 1989, n. 20, con maggiorazione non superiore al vigente importo della predetta addizionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le province possono deliberare un'apposita maggiorazione dell'addizionale all'accisa sull'energia elettrica di cui all'articolo 6, comma 1, lettera c), del decreto-legge 28 novembre 1988, n. 511, convertito, con modificazioni, dalla legge 27 gennaio 1989, n. 20, con maggiorazione non superiore al vigente importo della predetta addizionale.
 
 I comuni della regione Campania destinatari della riduzione dei trasferimenti disposta in attuazione dell'articolo 12 del decreto-legge 30 dicembre 2009, n. 195, convertito, con modificazioni, dalla legge 26 febbraio 2010, n. 26, ferma la facolta' prevista dal comma 2-bis, lettera b), del presente articolo, deliberano, a decorrere dall'anno 2011, anche in assenza di una dichiarazione dello stato di emergenza, un'apposita maggiorazione dell'addizionale all'accisa sull'energia elettrica di cui all'articolo 6, comma 1, lettere a) e b), del decreto-legge 28 novembre 1988, n. 511, convertito, con modificazioni, dalla legge 27 gennaio 1989, n. 20, con un'aliquota indifferenziata e un gettito non inferiore all'importo annuale dei trasferimenti ridotti, incrementato fino al 10 per cento.
 
@@ -70,12 +152,57 @@ All'articolo 5 della legge 24 febbraio 1992, n. 225, dopo il comma 5-ter sono in
  5-quinquies. Qualora le misure adottate ai sensi del comma 5-quater non siano sufficienti, ovvero in tutti gli altri casi di eventi di cui al comma 5-quater di rilevanza nazionale, puo' essere disposto l'utilizzo delle risorse del Fondo nazionale di protezione civile. Qualora sia utilizzato il fondo di cui all'articolo 28 della legge 31 dicembre 2009, n. 196, il fondo e' corrispondentemente e obbligatoriamente reintegrato in pari misura con le maggiori entrate derivanti dall'aumento dell'aliquota dell'accisa sulla benzina e sulla benzina senza piombo, nonche' dell'aliquota dell'accisa sul gasolio usato come carburante di cui all'allegato I del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504, e successive modificazioni. La misura dell'aumento, comunque non superiore a cinque centesimi al litro, e' stabilita con provvedimento del direttore dell'Agenzia delle dogane in misura tale da determinare maggiori entrate corrispondenti all'importo prelevato dal fondo di riserva. La disposizione del terzo periodo del presente comma si applica anche per la copertura degli oneri derivanti dal differimento dei termini per i versamenti tributari e contributivi ai sensi del comma 5-ter. (10) (39) 
  5-sexies. Il Fondo di cui all'articolo 28 del decreto-legge 18 novembre 1966, n. 976, convertito, con modificazioni, dalla legge 23 dicembre 1966, n. 1142, puo' intervenire anche nei territori per i quali e' stato deliberato lo stato di emergenza ai sensi del comma 1 del presente articolo. A tal fine sono conferite al predetto Fondo le disponibilita' rivenienti dal Fondo di cui all'articolo 5 della legge 31 luglio 1997, n. 261. Con uno o piu' decreti di natura non regolamentare del Ministro dell'economia e delle finanze, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, nel rispetto della disciplina comunitaria, sono individuate le aree di intervento, stabilite le condizioni e le modalita' per la concessione delle garanzie, nonche' le misure per il contenimento dei termini per la determinazione della perdita finale e dei tassi di interesse da applicare ai procedimenti in corso".
 
+2-quinquies.
+                    
+                        
+                            Alla legge 24 febbraio 1992, n. 225, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 5, comma 2, e' aggiunto, in fine, il seguente periodo: "Le ordinanze sono emanate di concerto, relativamente agli aspetti di carattere finanziario, con il Ministro dell'economia e delle finanze"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 5, comma 5-bis: 
+ 1) al penultimo periodo, le parole: "e all'ISTAT" sono sostituite dalle seguenti: ", all'ISTAT e alla competente sezione regionale della Corte dei conti"; 
+ 2) e' aggiunto, in fine, il seguente periodo: "Al fine di garantire la trasparenza dei flussi finanziari e della rendicontazione di cui al presente comma sono vietati girofondi tra le contabilita' speciali".
+
 All'articolo 3, comma 1, della legge 14 gennaio 1994, n. 20, dopo la lettera c), e' inserita la seguente: 
  "c-bis) i provvedimenti commissariali adottati in attuazione delle ordinanze del Presidente del Consiglio dei ministri emanate ai sensi dell'articolo 5, comma 2, della legge 24 febbraio 1992, n. 225;".
 
 All'articolo 27, comma 1, della legge 24 novembre 2000, n. 340, dopo il primo periodo e' inserito il seguente: "Per i provvedimenti di cui all'articolo 3, comma 1, lettera c-bis), della legge 14 gennaio 1994, n. 20, il termine di cui al primo periodo, incluso quello per la risposta ad eventuali richieste istruttorie, e' ridotto a complessivi sette giorni; in ogni caso l'organo emanante ha facolta', con motivazione espressa, di dichiararli provvisoriamente efficaci. Qualora la Corte dei Conti non si esprima nei sette giorni i provvedimenti si considerano efficaci.".
 
 I funzionari e commissari delegati, commissari di Governo o in qualunque modo denominati, nominati dalla Presidenza del Consiglio dei Ministri, autorizzati alla gestione di fondi statali, titolari di contabilita' speciali per la realizzazione di interventi, programmi e progetti o per lo svolgimento di particolari attivita', rendicontano nei termini e secondo le modalita' di cui all'articolo 5, comma 5-bis, della legge 24 febbraio 1992, n. 225. I rendiconti sono trasmessi al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, per il controllo di regolarita' contabile esercitato, attraverso il sistema delle ragionerie ai sensi dell'articolo 3 del decreto legislativo 30 giugno 2011, n. 123, nelle modalita' stabilite con decreto del Ministro dell'economia e delle finanze, e per il successivo inoltro alla Presidenza del Consiglio dei ministri, all'ISTAT e alla competente sezione regionale della Corte dei conti. Le amministrazioni interessate provvedono agli adempimenti di cui al presente comma nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
+
+2-novies.
+                    
+                        
+                            Entro il termine del 15 marzo 2011 sono revocati i fondi statali trasferiti o assegnati alle Autorita' portuali per la realizzazione di opere infrastrutturali, a fronte dei quali non sia stato pubblicato il bando di gara per l'assegnazione dei lavori entro il quinto anno dal trasferimento o dall'assegnazione. Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, si provvede alla ricognizione dei finanziamenti revocati e all'individuazione della quota, per l'anno 2011, nel limite di 250 milioni di euro, che deve essere destinata alle seguenti finalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                nel limite di 150 milioni di euro alle Autorita' portuali che hanno attivato investimenti con contratti gia' sottoscritti o con bandi di gara pubblicati alla data del 30 settembre 2010 in attuazione delle disposizioni di cui all'articolo 1, comma 991, della legge 27 dicembre 2006, n. 296; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel limite di 20 milioni di euro alle Autorita' i cui porti sono interessati da prevalente attivita' di transhipment al fine di garantire l'attuazione delle disposizioni di cui all'articolo 5, comma 7-duodecies, del decreto-legge 30 dicembre 2009, n. 194, convertito, con modificazioni, dalla legge 26 febbraio 2010, n. 25; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per le disponibilita' residuali alle Autorita' portuali che presentano progetti cantierabili.
 
 Con il decreto di cui al comma 2-novies si provvede altresi' all'individuazione delle somme che devono essere versate ad apposito capitolo dello stato di previsione dell'entrata del bilancio dello Stato, nell'anno 2011, dalle Autorita' portuali interessate dalla revoca dei finanziamenti per essere riassegnate ai pertinenti capitoli dello stato di previsione del Ministero delle infrastrutture e dei trasporti e delle somme di cui al comma 2-undecies. Con successivi decreti del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, per gli anni 2012 e 2013 si provvede ad individuare le quote dei finanziamenti revocati ai sensi del comma 2-novies e ad assegnarle alle Autorita' portuali, secondo criteri di priorita' individuati nei medesimi decreti, per progetti cantierabili, compatibilmente con i vincoli di finanza pubblica. In caso di mancato avvio dell'opera, decorsi centottanta giorni dall'aggiudicazione definitiva del bando di gara, il finanziamento si intende revocato ed e' riassegnato ad altri interventi con le medesime modalita' dei finanziamenti revocati ai sensi del comma 2-novies.
 
@@ -98,6 +225,24 @@ E' sospesa la riscossione delle rate in scadenza tra il 1° gennaio 2011 e il 31
 
 All'attuazione delle disposizioni di cui al comma 3-bis si provvede nei limiti delle risorse di cui all'articolo 8, comma 3, della legge 23 marzo 2001, n. 93, allo scopo appostate.
 
+3-quater.
+                    
+                        
+                            All'articolo 39 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3-bis, le parole: "entro lo stesso mese di gennaio 2011 con le modalita' stabilite" sono sostituite dalle seguenti: "entro il mese di dicembre 2011 con le modalita' e i termini stabiliti"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3-ter, le parole: "entro lo stesso mese di gennaio 2011 con le modalita' stabilite" sono sostituite dalle seguenti: "entro il mese di dicembre 2011 con le modalita' e i termini stabiliti".
+
 All'articolo 4 del decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39, dopo il comma 4-ter.1, e' inserito il seguente: 
  "4-ter.2. Nel caso in cui al termine di scadenza il programma non risulti completato, in ragione del protrarsi delle conseguenze di ordine economico e produttivo determinate dagli eventi sismici del 2009 nella regione Abruzzo che continuano a generare complessita' nelle operazioni attinenti alla ristrutturazione o alla cessione a terzi dei complessi aziendali, il Ministro dello sviluppo economico, su istanza del Commissario straordinario, sentito il Comitato di sorveglianza, puo' disporre la proroga del termine di esecuzione del programma per i gruppi industriali con imprese o unita' locali nella regione Abruzzo, fino al 30 giugno 2011. Agli oneri derivanti dall'attuazione delle disposizioni di cui al presente comma, nel limite massimo di 2.500.000 euro per l'anno 2011, si provvede a valere sulle risorse di cui all'articolo 14, comma 1, del decreto-legge 28 aprile 2009, n. 39, convertito, con modificazioni, dalla legge 24 giugno 2009, n. 77".
 
@@ -117,6 +262,24 @@ Il limite di cui all'articolo 1, comma 53, della legge 24 dicembre 2007, n. 244,
 
 COMMA ABROGATO DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75.
 
+4-quater.
+                    
+                        
+                            All'onere derivante dai commi 4 e 4-bis si provvede, entro il limite di spesa di euro 90.000.000 per ciascuno degli anni 2011, 2012 e 2013: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a euro 45.000.000 per l'anno 2011, con le modalita' e nell'ambito delle risorse indicate all'articolo 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                LETTERA ABROGATA DAL D.L. 31 MARZO 2011, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 26 MAGGIO 2011, N. 75.
+
 Le disposizioni di cui all'articolo 3, comma 2-ter, della legge 7 agosto 1990, n. 250, e successive modificazioni, in materia di concessione di contributi alle emittenti radiotelevisive, comunque costituite, che trasmettano programmi in lingua francese, ladina, slovena e tedesca nelle regioni autonome Valle d'Aosta, Friuli-Venezia Giulia e Trentino-Alto Adige, si applicano anche per l'anno finanziario 2011. All'onere derivante dal presente comma, nel limite di 1 milione di euro per l'anno 2011, si provvede a valere sulle risorse di cui all'articolo 1, comma 61, della legge 13 dicembre 2010, n. 220.
 
 Fatti salvi gli investimenti a reddito da effettuare in via indiretta in Abruzzo ai sensi dell'articolo 14, comma 3, del decreto-legge, 28 aprile 2009, n. 39, convertito, con modificazioni, dalla legge 24 giugno 2009, n. 77, nell'ambito delle risorse finanziarie disponibili di cui all'articolo 8, comma 4, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, gli enti di previdenza pubblici possono proseguire l'attuazione dei piani di investimento deliberati dai competenti organi dei predetti enti alla data del 31 dicembre 2007 e approvati dai Ministeri vigilanti, subordinatamente all'adozione da parte dei medesimi organi, entro il 31 dicembre 2011, di provvedimenti confermativi delle singole iniziative di investimento inserite nei piani.
@@ -128,6 +291,24 @@ Sono prorogati per l'anno 2011 gli interventi di cui all'articolo 1, commi 927, 
 COMMA ABROGATO DAL D.LGS. 13 APRILE 2017, N. 64.
 
 Previa autorizzazione dell'Unione europea, la garanzia richiesta ai sensi del decreto del Ministro delle infrastrutture e dei trasporti 21 settembre 2010, pubblicato nella Gazzetta Ufficiale n. 257 del 3 novembre 2010, e' concessa, entro il termine del 31 dicembre 2011, quale aiuto sotto forma di garanzia, nei limiti ed alle condizioni di cui all'articolo 4 della direttiva del Presidente del Consiglio dei Ministri del 23 dicembre 2010, recante le modalita' di applicazione della comunicazione della Commissione europea "Quadro temporaneo dell'Unione per le misure di aiuto di Stato a sostegno dell'accesso al finanziamento nell'attuale situazione di crisi economica e finanziaria", pubblicata nella Gazzetta Ufficiale n. 13 del 18 gennaio 2011.
+
+4-undecies.
+                    
+                        
+                            All'articolo 83-bis del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 14 la parola: "6," e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 15 e' aggiunto, in fine, il seguente periodo: "Un elenco contenente le sole informazioni necessarie per l'identificazione dei destinatari delle sanzioni e per l'individuazione del periodo di decorrenza delle stesse puo' essere pubblicato nel sito internet della suddetta autorita' competente ai fini della relativa conoscenza e per l'adozione degli eventuali specifici provvedimenti da parte degli enti e delle amministrazioni preposti alla verifica del rispetto delle sanzioni stesse".
 
 Per l'anno 2011, il termine di cui all'articolo 55, comma 5, della legge 17 maggio 1999, n. 144, e successive modificazioni, per il versamento dei premi assicurativi da parte delle imprese di autotrasporto di merci in conto terzi, e' fissato al 16 giugno. Per l'anno finanziario 2011 una quota delle risorse, pari ad euro 246 milioni, del Fondo per il proseguimento degli interventi a favore dell'autotrasporto di merci, iscritto nello stato di previsione del Ministero delle infrastrutture e dei trasporti, e' ripartita tra i pertinenti programmi degli stati di previsione delle Amministrazioni interessate e destinata agli interventi a sostegno del settore dell'autotrasporto con le modalita' di cui all'articolo 1, comma 40, ultimo periodo, della legge 13 dicembre 2010, n. 220.
 
@@ -144,9 +325,52 @@ Fino al 31 agosto 2012 e' prorogato il Commissario straordinario attualmente in 
 
 Al fine di definire il sistema nazionale di valutazione in tutte le sue componenti, con regolamento da emanare, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, e' riorganizzata, all'interno del Ministero dell'istruzione, dell'universita' e della ricerca, la funzione ispettiva, secondo parametri che ne assicurino l'autonomia e l'indipendenza, finalizzata alla valutazione esterna della scuola, da effettuare periodicamente, secondo modalita' e protocolli standard definiti dallo stesso regolamento. La relativa pianta organica rimane quella gia' prevista dal regolamento di cui al decreto del Presidente della Repubblica 20 gennaio 2009, n. 17. La riorganizzazione non comporta alcun onere a carico della finanza pubblica.
 
+4-undevicies.
+                    
+                        
+                            Con regolamento da emanare, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, e' individuato il sistema nazionale di valutazione definendone l'apparato che si articola: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'Istituto nazionale di documentazione, innovazione e ricerca educativa, con compiti di sostegno ai processi di miglioramento e innovazione educativa, di formazione in servizio del personale della scuola e di documentazione e ricerca didattica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'Istituto nazionale per la valutazione del sistema di istruzione e formazione, con compiti di predisposizione di prove di valutazione degli apprendimenti per le scuole di ogni ordine e grado, di partecipazione alle indagini internazionali, oltre alla prosecuzione delle indagini nazionali periodiche sugli standard nazionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel corpo ispettivo, autonomo e indipendente, con il compito di valutare le scuole e i dirigenti scolastici secondo quanto previsto dal decreto legislativo 27 ottobre 2009, n. 150.
+
 Le disposizioni di cui al comma 1 dell'articolo 21 della legge 23 dicembre 1998, n. 448, in materia di deduzione forfetaria in favore degli esercenti impianti di distribuzione di carburanti, sono prorogate per il periodo di imposta 2011. I soggetti di cui al primo periodo nella determinazione dell'acconto dovuto per il periodo di imposta 2012 assumono quale imposta del periodo precedente quella che si sarebbe determinata senza tenere conto della deduzione forfetaria di cui al primo periodo.
 
 Il termine del 31 dicembre 2010 previsto dall'articolo 19, commi 8, 9 e 10, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, e' differito al 30 aprile 2011. Conseguentemente, in considerazione della massa delle operazioni di attribuzione della rendita presunta, l'Agenzia del territorio notifica gli atti di attribuzione della predetta rendita mediante affissione all'albo pretorio dei comuni dove sono ubicati gli immobili. Dell'avvenuta affissione e' data notizia con comunicato da pubblicare nella Gazzetta Ufficiale, nel sito internet dell'Agenzia del territorio, nonche' presso gli uffici provinciali ed i comuni interessati. Trascorsi sessanta giorni dalla data di pubblicazione del comunicato nella Gazzetta Ufficiale, decorrono i termini per la proposizione del ricorso dinanzi alla commissione tributaria provinciale competente. In deroga alle vigenti disposizioni, la rendita catastale presunta e quella successivamente dichiarata come rendita proposta o attribuita come rendita catastale definitiva producono effetti fiscali fin dalla loro iscrizione in catasto, con decorrenza dal 1° gennaio 2007, salva la prova contraria volta a dimostrare, in sede di autotutela, una diversa decorrenza. I tributi, erariali e locali, commisurati alla base imponibile determinata con riferimento alla rendita catastale presunta, sono corrisposti a titolo di acconto e salvo conguaglio. Le procedure previste per l'attribuzione della rendita presunta si applicano anche agli immobili non dichiarati in catasto, individuati ai sensi dell'articolo 19, comma 7, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, a far data dal 2 maggio 2011.
+
+5-ter.
+                    
+                        
+                            All'articolo 14 del regolamento di cui al decreto del Presidente della Repubblica 29 ottobre 2010, n. 222, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "entro tre mesi" sono sostituite dalle seguenti: "entro sei mesi"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "entro sei mesi" sono sostituite dalle seguenti: "entro nove mesi".
 
 COMMA ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35.
 
@@ -180,6 +404,24 @@ In deroga a quanto previsto dall'articolo 57, comma 5, del decreto legislativo 5
 
 A decorrere dal termine di proroga fissato dall'articolo 1, comma 1, del presente decreto, il Fondo di solidarieta' per le vittime delle richieste estorsive e dell'usura previsto dall'articolo 4, comma 1, del regolamento di cui al decreto del Presidente della Repubblica 16 agosto 1999, n. 455, e il Fondo di rotazione per la solidarieta' alle vittime dei reati di tipo mafioso di cui all'articolo 1, comma 1, della lege 22 dicembre 1999, n. 512, sono unificati nel "Fondo di rotazione per la solidarieta' alle vittime dei reati di tipo mafioso, delle richieste estorsive e dell'usura", costituito presso il Ministero dell'interno, che e' surrogato nei diritti delle vittime negli stessi termini e alle stesse condizioni gia' previsti per i predetti fondi unificati e subentra in tutti i rapporti giuridici gia' instaurati alla data di entrata in vigore della legge di conversione del presente decreto. Per l'alimentazione del Fondo di cui al presente comma si applicano le disposizioni previste dall'articolo 14, comma 11, della legge 7 marzo 1996, n. 108, dall'articolo 18, comma 1, della legge 23 febbraio 1999, n. 44, e dall'articolo 1, comma 1, della legge 22 dicembre 1999, n. 512. E' abrogato l'articolo 1-bis della legge 22 dicembre 1999, n. 512. Entro il termine di tre mesi dalla data di entrata in vigore della legge di conversione del presente decreto, con regolamento adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, e successive modificazioni, il Governo provvede ad adeguare, armonizzare e coordinare le disposizioni dei regolamenti di cui al decreto del Presidente della Repubblica 16 agosto 1999, n. 455, e al decreto del Presidente della Repubblica 28 maggio 2001, n. 284.(29)(30)(34) (35)
 
+6-septies.
+                    
+                        
+                            Ferma restando l'aliquota massima di 17 posti fissata dall'articolo 42 della legge 1° aprile 1981, n. 121, all'articolo 2, comma 93, della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo periodo, le parole: "con almeno quattro anni di servizio nella qualifica" sono sostituite dalle seguenti: "con almeno due anni di servizio nella qualifica"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo periodo, le parole: "Ai dirigenti in possesso della predetta anzianita' di servizio nella qualifica rivestita" sono sostituite dalle seguenti: "Ai dirigenti in possesso di almeno quattro anni di servizio nella qualifica rivestita".
+
 La disposizione di cui al comma 6-septies non deve in ogni caso comportare nuovi o maggiori oneri per la finanza pubblica, ne' dalla nomina dei dirigenti generali di pubblica sicurezza a prefetto deve conseguire un incremento delle dotazioni organiche dei dirigenti generali di pubblica sicurezza e delle qualifiche dirigenziali sottostanti.
 
 Al fine di assicurare la piena operativita' delle nuove prefetture di Monza e della Brianza, di Fermo e di Barletta-Andria-Trani, il termine per il conferimento degli incarichi ai rispettivi prefetti e' differito fino al quindicesimo giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto. Conseguentemente, e' ridotta da 9 a 6 l'aliquota di prefetti stabilita dall'articolo 237, comma 3, del testo unico di cui al decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, ed e' incrementata di tre unita' la dotazione organica della qualifica di prefetto di cui alla tabella B allegata al decreto legislativo 19 maggio 2000, n. 139.
@@ -195,11 +437,84 @@ Esso e' equivalente, a tutti gli effetti, ai periodi di direzione o comando, nel
 
 All'onere derivante dall'attuazione dei commi da 6-decies a 6-terdecies si provvede nei limiti delle disponibilita' di cui all'articolo 11, comma 5, del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, nonche' attraverso lo stanziamento di 5 milioni di euro a decorrere dall'anno 2011 a valere sul fondo di cui all'articolo 3, comma 151, della legge 24 dicembre 2003, n. 350. Le disposizioni di cui ai commi 553, 554, 555 e 556 dell'articolo 1 della legge 30 dicembre 2004, n. 311, cessano di avere efficacia a seguito dell'attuazione delle disposizioni contenute nei commi da 6-decies a 6-terdecies del presente articolo.
 
+6-quinquiesdecies.
+                    
+                        
+                            All'articolo 11 del testo unico di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "al Servizio centrale antidroga" sono sostituite dalle seguenti: "alla Direzione centrale per i servizi antidroga" e dopo le parole: "in qualita' di esperti" sono inserite le seguenti: "per la sicurezza"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: "riservata agli esperti del Servizio centrale antidroga" sono sostituite dalle seguenti: "riservata agli esperti per la sicurezza della Direzione centrale per i servizi antidroga"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole: "il Servizio centrale antidroga" sono sostituite dalle seguenti: "la Direzione centrale per i servizi antidroga"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, le parole: "del Servizio centrale antidroga" sono sostituite dalle seguenti: "della Direzione centrale per i servizi antidroga".
+
 Dopo il comma 196 dell'articolo 2 della legge 23 dicembre 2009, n. 191, sono inseriti i seguenti: 
  "196-bis. Il termine per la conclusione delle operazioni di dismissione immobiliare di cui al comma 196 e' fissato al 31 dicembre 2011, fermo restando quanto previsto dal comma 195, nonche' dal comma 2 dell'articolo 314 del codice dell'ordinamento militare di cui al decreto legislativo 15 marzo 2010, n. 66, al fine di agevolare il raggiungimento degli obiettivi di finanza pubblica. Nell'ambito di tale procedura e' considerata urgente l'alienazione degli immobili militari oggetto di valorizzazione di cui ai numeri 1, 2, 3 e 4 dell'articolo 3 del protocollo d'intesa sottoscritto in data 4 giugno 2010 tra il Ministero della difesa e il comune di Roma, assicurando in ogni caso la congruita' del valore degli stessi con le finalizzazioni ivi previste. A tale fine i predetti immobili sono alienati in tutto o in parte dall'Agenzia del demanio con le procedure di cui all'articolo 1, comma 436, della legge 30 dicembre 2004, n. 311, e secondo criteri e valori di mercato. Non trovano applicazione alle alienazioni di cui al presente comma le disposizioni contenute nell'articolo 1, comma 437, della citata legge n. 311 del 2004. I proventi derivanti dalla vendita degli immobili sono destinati: a) ad essere versati, unitamente ai proventi realizzati a qualsiasi titolo con riferimento all'intero territorio nazionale con i fondi di cui al comma 2 dell'articolo 314 del decreto legislativo 15 marzo 2010, n. 66, al bilancio dello Stato per essere riassegnati alla contabilita' speciale 1778 Agenzia delle entrate Fondi di Bilancio, fino a concorrenza dell'importo utilizzato ai sensi del comma 196-ter, piu' gli interessi legali maturati; b) a reperire, per la quota eccedente gli importi di cui al punto a), le risorse necessarie al Ministero della difesa per le attivita' di riallocazione delle funzioni svolte negli immobili alienati. Gli eventuali maggiori proventi rivenienti dalla vendita dei beni sono acquisiti all'entrata del bilancio dello Stato per essere destinati al Fondo ammortamento dei titoli di Stato. Con provvedimenti predisposti dal Commissario straordinario del Governo del comune di Roma, nominato ai sensi dell'articolo 4, comma 8-bis del decreto-legge 25 gennaio 2010, n. 2, convertito, con modificazioni, dalla legge 26 marzo 2010, n. 42, che deve essere in possesso di comprovati requisiti di elevata professionalita' nella gestione economico-finanziaria, acquisiti nel settore privato, necessari per gestire la fase operativa di attuazione del piano di rientro, sono accertate le eventuali ulteriori partite creditorie e debitorie rispetto al documento predisposto ai sensi dell'articolo 14, comma 13-bis, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, dal medesimo Commissario, concernente l'accertamento del debito del comune di Roma alla data del 30 luglio 2010, che e' approvato con effetti a decorrere dal 29 dicembre 2010. 
  196-ter. Agli oneri derivanti dal comma 196 si provvede mediante corrispondente versamento al bilancio dello Stato per 500 milioni per l'anno 2010 di una quota delle risorse complessivamente disponibili relative a rimborsi e compensazioni di crediti di imposta, esistenti presso la contabilita' speciale 1778 "Agenzia delle entrate - Fondi di Bilancio", da riassegnare ad apposito programma dello stato di previsione del Ministero dell'economia e delle finanze, per essere destinata all'estinzione dell'anticipazione di tesoreria complessivamente concessa ai sensi del medesimo comma 196.". (22)
 
 Il secondo periodo del comma 196 dell'articolo 2 della legge 23 dicembre 2009, n. 191, e' sostituito dal seguente: "L'anticipazione e' accreditata sulla contabilita' speciale aperta ai sensi dell'articolo 78, comma 4, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, per 200 milioni di euro, entro il mese di gennaio 2010 e, per la parte residua, entro il 31 dicembre 2010, da estinguere con oneri a carico del bilancio dello Stato entro il 31 dicembre 2010.".
+
+9.
+                    
+                        
+                            All'articolo 14 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 13-bis e' sostituito dal seguente: "13-bis. Per l'attuazione del piano di rientro dall'indebitamento pregresso, previsto dall'articolo 78 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e dall'articolo 4, comma 8-bis, del decreto-legge 25 gennaio 2010, n. 2, convertito, con modificazioni, dalla legge 26 marzo 2010, n. 42, il Commissario straordinario del Governo e' autorizzato a stipulare il contratto di servizio di cui all'articolo 5 del decreto del Presidente del Consiglio dei Ministri in data 5 dicembre 2008, sotto qualsiasi forma tecnica, per i finanziamenti occorrenti per la relativa copertura di spesa. Si applica l'articolo 4, commi 177 e 177-bis, della legge 24 dicembre 2003, n. 350. Il Commissario straordinario del Governo procede all'accertamento definitivo del debito e ne da' immediata comunicazione al Ministero dell'economia e delle finanze congiuntamente alle modalita' di attuazione del piano di rientro di cui al primo periodo del presente comma. Fermi restando la titolarita' del debito in capo all'emittente e l'ammortamento dello stesso a carico della gestione commissariale, il Commissario straordinario del Governo e' altresi' autorizzato, anche in deroga alla normativa vigente in materia di operazioni di ammortamento del debito degli enti territoriali con rimborso unico a scadenza, a rinegoziare i prestiti della specie anche al fine dell'eventuale eliminazione del vincolo di accantonamento, recuperando, ove possibile, gli accantonamenti gia' effettuati."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 13-bis e' inserito il seguente: 
+ "13-ter. Si applicano le disposizioni di cui all'articolo 253 del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267. Le spese di funzionamento della gestione commissariale, ivi inclusi il compenso per il Commissario straordinario, sono a carico del fondo di cui al comma 14 del presente articolo. Le predette spese di funzionamento, su base annua, non possono superare i 2,5 milioni di euro. Con decreto del Presidente del Consiglio dei Ministri, e' stabilito, in misura non superiore al costo complessivo annuo del personale dell'amministrazione di Roma Capitale incaricato della gestione di analoghe funzioni transattive, il compenso annuo per il Commissario straordinario. I subcommissari percepiscono un'indennita', a valere sul predetto fondo, non superiore al 50 per cento del trattamento spettante, in base alla normativa vigente, ai soggetti chiamati a svolgere le funzioni di Commissario presso un comune in dissesto ai sensi della Tabella A allegata al regolamento di cui al decreto del Ministro dell'interno 4 aprile 2000, n. 119. Gli importi di cui al quarto e al quinto periodo, per le attivita' svolte fino al 30 luglio 2010, sono ridotti del 50 per cento. Le risorse destinabili per nuove assunzioni del comune di Roma sono ridotte in misura pari all'importo del trattamento retributivo corrisposto al Commissario straordinario.
+La gestione commissariale ha comunque termine, allorche' risultino esaurite le attivita' di carattere gestionale di natura straordinaria e residui un'attivita' meramente esecutiva e adempimentale alla quale provvedono gli uffici di Roma Capitale."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 14-quater, il quarto periodo e' sostituito dai seguenti: "Le entrate derivanti dalle addizionali di cui ai periodi precedenti, ovvero dalle misure compensative di riduzione delle stesse eventualmente previste, sono versate all'entrata del bilancio del comune di Roma. Il comune di Roma, entro il 31 dicembre dell'anno di riferimento, provvede a versare all'entrata del bilancio dello Stato la somma di 200 milioni di euro annui. A tale fine, lo stesso Comune rilascia apposita delegazione di pagamento, di cui all'articolo 206 del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 15, il primo periodo e' soppresso; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 17, le parole "L'accesso al fondo di cui al comma 14 e' consentito a condizione della verifica positiva da parte del Ministero dell'economia e delle finanze" sono sostituite dalle seguenti: "Il Commissario straordinario del Governo puo' estinguere i debiti della gestione commissariale verso Roma Capitale, diversi dalle anticipazioni di cassa ricevute, a condizione della verifica positiva da parte del Ministero dell'interno di concerto con il Ministero dell'economia e delle finanze"; l'ultimo periodo, in fine, e' soppresso.
 
 All'articolo 5, comma 4, del decreto legislativo 17 settembre 2010, n. 156, e' aggiunto, in fine, il seguente periodo: "In nessun caso gli oneri a carico di Roma Capitale per i permessi retribuiti dei lavoratori dipendenti da privati o da enti pubblici economici possono mensilmente superare, per ciascun consigliere, l'importo pari alla meta' dell'indennita' di rispettiva spettanza".
 
@@ -212,6 +527,24 @@ All'articolo 307, comma 10, del codice dell'ordinamento militare, di cui al decr
  fino al 42,5 per cento, al Ministero della difesa, mediante riassegnazione in deroga ai limiti previsti per le riassegnazioni agli stati di previsione dei Ministeri, previo versamento all'entrata del bilancio dello Stato, per confluire nei fondi di cui all'articolo 619, per le spese di riallocazione di funzioni, ivi incluse quelle relative agli eventuali trasferimenti di personale, e per la razionalizzazione del settore infrastrutturale della difesa, nonche', fino alla misura del 10 per cento, nel fondo casa di cui all'articolo 1836. Alla ripartizione delle quote riassegnate dei citati fondi si provvede con decreti del Ministro della difesa, da comunicare, anche con mezzi di evidenza informatica, al Ministero dell'economia e delle finanze; 
  in misura non inferiore al 42,5 per cento, all'entrata del bilancio dello Stato per la successiva riassegnazione al fondo di ammortamento dei titoli di Stato; 
  in una misura compresa tra il 5 ed il 15 per cento proporzionata alla complessita' ed ai tempi di valorizzazione, agli enti locali interessati, secondo la ripartizione stabilita con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze. Ove non sia assegnata la percentuale massima, la differenza viene distribuita in parti uguali alle percentuali di cui ai primi due punti;".
+
+11.
+                    
+                        
+                            All'articolo 314 del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 4 e' sostituito dal seguente: "4. Il Ministero della difesa individua, attraverso procedura competitiva, la societa' di gestione del risparmio (SGR) per il funzionamento dei fondi e le cessioni delle relative quote, fermo restando che gli immobili conferiti che sono ancora in uso al Ministero della difesa possono continuare a essere da esso utilizzati a titolo gratuito fino alla riallocazione delle funzioni, da realizzare sulla base del crono-programma stabilito con il decreto di conferimento degli immobili al fondo.". PERIODO SOPPRESSO DALLA L. 26 FEBBRAIO 2011, N. 10; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 6 e' sostituito dal seguente: "6. i proventi monetari derivanti dalla cessione delle quote dei fondi, ovvero dal trasferimento degli immobili ai fondi, sono destinate secondo le percentuali e le modalita' previste dall'articolo 307, comma 10, lettera d). A tale fine possono essere destinate alle finalita' del fondo casa di cui all'articolo 1836 fino al 5 per cento delle risorse di pertinenza del Ministero della difesa.".
 
 Nel caso in cui le procedure di cui all'articolo 314, comma 4, del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, come modificato dal comma 11 del presente articolo, non siano avviate entro dodici mesi dalla data di entrata in vigore del presente decreto, si procede secondo quanto previsto dagli articoli 3 e 4 del decreto-legge 25 settembre 2001, n. 351, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 410.
 
@@ -239,6 +572,39 @@ Al fine di fare fronte alla grave crisi in cui versa il settore lattiero-caseari
 Agli oneri conseguenti, valutati in 5 milioni di euro per l'anno 2011, si provvede a valere sulle disponibilita' di cui all'articolo 1, comma 40, quarto periodo, della legge 13 dicembre 2010, n. 220, come incrementate ai sensi del presente provvedimento.
 
 All'articolo 44-bis, comma 1, del decreto-legge 30 dicembre 2008, n. 207, convertito, con modificazioni, dalla legge 27 febbraio 2009, n. 14, le parole: "31 dicembre 2010" sono sostituite dalle seguenti: "31 dicembre 2011".
+
+13.
+                    
+                        
+                            Al fine di fronteggiare la crisi finanziaria e in attuazione degli impegni internazionali assunti in occasione del Vertice G20 di Londra 2009, del Consiglio europeo di giugno 2009 e del Vertice G20 di Seul di novembre 2010, le disposizioni urgenti per la partecipazione dell'Italia agli interventi del Fondo monetario internazionale per fronteggiare gravi crisi finanziarie dei Paesi aderenti di cui al decreto-legge 25 gennaio 1999, n. 7, convertito con modificazioni dalla legge 25 marzo 1999, n. 74, sono prorogate e si provvede all'estensione della linea di credito gia' esistente.
+Conseguentemente: 
+ 
+                        
+                        
+                            a)
+                            
+                                la Banca d'Italia e' autorizzata a svolgere le trattative con il Fondo monetario internazionale (FMI), per la conclusione di un accordo di prestito con lo stesso FMI di cui all'allegato 1 del presente decreto, per un ammontare pari a 8,11 miliardi di euro. Tale accordo diventa esecutivo a decorrere dalla data di entrata in vigore del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la Banca d'Italia e' altresi' autorizzata, qualora si richiedano risorse finanziarie aggiuntive rispetto all'ammontare di cui alla lettera a), a contribuire nel limite massimo complessivo di 13,53 miliardi di euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                una volta completata la riforma del New Arrangements to Borrow (NAB) e' autorizzata la confluenza dei suddetti prestiti nello strumento di prestito NAB in aggiunta alla linea di credito gia' esistente pari a 1,753 miliardi di diritti speciali di prelievo (DSP); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i rapporti derivanti dai predetti prestiti saranno regolati mediante convenzione tra il Ministero dell'economia e delle finanze e la Banca d'Italia.
 
 E' altresi' prorogata l'autorizzazione alla Banca d'Italia per la concessione di prestiti garantiti dallo Stato a favore dei Paesi piu' poveri di cui alla legge 18 giugno 2003, n. 146. A tal fine la Banca d'Italia e' autorizzata a concedere un prestito pari a 800 milioni di diritti speciali di prelievo (DSP) da erogare a tassi di mercato tramite l'Extended credit facility del Poverty reduction and growth trust, secondo le modalita' concordate tra il Fondo monetario internazionale, il Ministero dell'economia e delle finanze e la Banca d'Italia. Il Ministero dell'economia e delle finanze e' autorizzato a concedere un sussidio tramite l'Extended credit facility del Poverty reduction and growth trust, per un ammontare pari a 22,1 milioni di diritti speciali di prelievo (DSP). Per il sussidio saranno utilizzate le risorse gia' a disposizione presso il Fondo monetario internazionale. (27)
 
@@ -296,6 +662,24 @@ Il termine di un anno per l'adempimento del dovere di alienazione di cui all'art
 
 Per l'anno 2011 il termine di approvazione dei bilanci e delle convenzioni delle Agenzie fiscali e' differito al 30 giugno dello stesso anno e sono corrispondentemente differiti tutti i termini per l'adozione dei relativi atti presupposti.
 
+19.
+                    
+                        
+                            All'articolo 7 del decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "fino al 31 dicembre 2010, chiunque" sono sostituite dalle seguenti: "fino al 31 dicembre 2011, chiunque, quale attivita' principale,"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 4 e 5 sono abrogati.
+
 Le dilazioni concesse, fino alla data di entrata in vigore della legge di conversione del presente decreto, ai sensi dell'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, interessate dal mancato pagamento della prima rata o, successivamente, di due rate, possono essere prorogate per un ulteriore periodo e fino a settantadue mesi a condizione che il debitore comprovi un temporaneo peggioramento della situazione di difficolta' posta a base della concessione della prima dilazione.
 
 All'articolo 2 del decreto-legge 16 settembre 2008, n. 143, convertito, con modificazioni, dalla legge 13 novembre 2008, n. 181, dopo il comma 6, e' inserito il seguente: 
@@ -326,6 +710,67 @@ All'articolo 3, comma 57, della legge 24 dicembre 2003, n. 350, le parole: "e, c
 All'articolo 2, comma 1, del decreto-legge 16 marzo 2004, n. 66, convertito, con modificazioni, dalla legge 11 maggio 2004, n. 126, le parole: "dalla data di entrata in vigore della legge di conversione del presente decreto" sono sostituite dalle seguenti: "dalla data della sentenza definitiva di proscioglimento o del decreto di archiviazione per infondatezza della notizia di reato".
 
 Per i provvedimenti di proscioglimento di cui all'articolo 3, commi 57 e 57-bis, della legge 24 dicembre 2003, n. 350, pronunciati in data antecedente a quella di entrata in vigore della legge di conversione del presente decreto, il termine di cui all'articolo 2, comma 1, del citato decreto-legge 16 marzo 2004, n. 66, convertito, con modificazioni, dalla legge 11 maggio 2004, n. 126, decorre dalla data di entrata in vigore della legge di conversione del presente decreto. Dall'applicazione delle norme dei commi da 30 al presente comma, primo periodo, del presente articolo non puo' derivare una permanenza in servizio superiore di oltre cinque anni ai limiti massimi previsti dai rispettivi ordinamenti.
+
+33.
+                    
+                        
+                            All'articolo 1 della legge 13 dicembre 2010, n. 220, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 129, dopo la lettera g), e' inserita la seguente: 
+ "g-bis) delle spese finanziate con le risorse di cui ai commi 6, 7 e 38. L'esclusione delle spese di cui al comma 38 opera nel limite di 200 milioni di euro"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 130 e' inserito il seguente: 
+ "130-bis. Ai fini della determinazione degli obiettivi di ciascuna regione, le spese sono valutate considerando le spese correnti riclassificate secondo la qualifica funzionale 'Ordinamento degli uffici. Amministrazione generale ed organi istituzionali' ponderate con un coefficiente inferiore a 1 e le spese in conto capitale ponderate con un coefficiente superiore a 1. La ponderazione di cui al presente comma e' determinata con decreto del Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, assumendo a riferimento i dati comunicati in attuazione dell'articolo 19-bis del decreto-legge 25 settembre 2009, n. 135, convertito, con modificazioni, dalla legge 20 novembre 2009, n. 166, valutati su base omogenea. Le disposizioni del presente comma si applicano nell'anno successivo a quello di emanazione del decreto del Ministro dell'economia e delle finanze di cui al presente comma"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 135, dopo le parole: "alla spesa di personale," sono inserite le seguenti: "ai trasferimenti correnti e continuativi a imprese pubbliche e private, a famiglie e a istituzioni sociali private,"; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 138 e' inserito il seguente: 
+ "138-bis. Ai fini dell'applicazione del comma 138, le regioni definiscono criteri di virtuosita' e modalita' operative previo confronto in sede di Consiglio delle autonomie locali e, ove non istituito, con i rappresentanti regionali delle autonomie locali"; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 140 e' sostituito dal seguente: 
+ "140. Ai fini dell'applicazione dei commi 138 e 139, gli enti locali dichiarano all'ANCI, all'UPI, alle regioni e alle province autonome, entro il 15 settembre di ciascun anno, l'entita' dei pagamenti che possono effettuare nel corso dell'anno. Entro il termine del 31 ottobre, le regioni e le province autonome di Trento e di Bolzano comunicano al Ministero dell'economia e delle finanze, con riferimento a ciascun ente beneficiario, gli elementi informativi occorrenti per la verifica del mantenimento dell'equilibrio dei saldi di finanza pubblica"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 143, nel primo periodo, la parola: "doppio" e' sostituita dalla seguente: "triplo"; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo il comma 148, e' inserito il seguente: 
+ "148-bis. Le regioni che si trovano nelle condizioni di cui al comma 148 si considerano adempienti al patto di stabilita' interno a tutti gli effetti se, nell'anno successivo, procedono ad applicare le seguenti prescrizioni: 
+ a) impegnare le spese correnti, al netto delle spese per la sanita', in misura non superiore all'importo annuale minimo dei corrispondenti impegni effettuati nell'ultimo triennio. A tal fine riducono l'ammontare complessivo degli stanziamenti relativi alle spese correnti, al netto delle spese per la sanita', ad un importo non superiore a quello annuale minimo dei corrispondenti impegni dell'ultimo triennio; 
+ b) non ricorrere all'indebitamento per gli investimenti; 
+ c) non procedere ad assunzioni di personale a qualsiasi titolo con qualsivoglia tipologia contrattuale, ivi compresi i rapporti di collaborazione continuata e di somministrazione, anche con riferimento ai processi di stabilizzazione in atto. E' fatto altresi' divieto di stipulare contratti di servizio che si configurino come elusivi della presente disposizione. A tal fine, il rappresentante legale e il responsabile del servizio finanziario certificano trimestralmente il rispetto delle condizioni di cui alle lettere a) e b) e di cui alla presente lettera. La certificazione e' trasmessa, entro i dieci giorni successivi al termine di ciascun trimestre, al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato. In caso di mancata trasmissione della certificazione le regioni si considerano inadempienti a tutti gli effetti. Lo stato di inadempienza e le sanzioni previste, ivi compresa quella di cui all'articolo 14, comma 4, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, hanno effetto decorso il termine perentorio previsto per l'invio della certificazione".
 
 I piani di stabilizzazione finanziaria di cui all'articolo 14, comma 22, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, sono completati entro il 30 giugno 2011. L'attuazione degli atti indicati nei piani deve avvenire entro il 31 dicembre 2012, fermo restando il termine di cui all'articolo 7, comma 1, del decreto-legge 30 dicembre 2009, n. 195, convertito, con modificazioni, dalla legge 26 febbraio 2010, n. 26.
 
@@ -369,10 +814,47 @@ All'articolo 3, comma 2, secondo periodo, del decreto legislativo 9 aprile 2008,
 L'Agenzia per le erogazioni in agricoltura (AGEA), nelle more dell'espletamento delle nuove procedure concorsuali di cui al decreto del Presidente del Consiglio dei Ministri 30 novembre 2010, pubblicato nella Gazzetta Ufficiale n. 30 del 7 febbraio 2011, per l'assunzione di dirigenti, e' autorizzata a prorogare, per il tempo necessario, e comunque non oltre il 31 dicembre 2011, fino all'entrata in servizio dei vincitori dell'anzidetto concorso, gli incarichi dirigenziali conferiti ai sensi dell'articolo 6, comma 5, del decreto legislativo 27 maggio 1999, n. 165, come modificato dall'articolo 7 del decreto legislativo 15 giugno 2000, n. 188, in scadenza il 31 dicembre 2010, nel limite massimo di 3 unita'.
 All'onere derivante dal presente comma, pari a 400.000 euro, si provvede a valere sulla dotazione finanziaria di cui all'articolo 1, comma 40, quarto periodo, della legge 13 dicembre 2010, n. 220.
 
+53.
+                    
+                        
+                            All'articolo 72 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: "2009, 2010 e 2011" sono inserite le seguenti: ", 2012, 2013 e 2014"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: 
+ "1-bis. I posti resisi vacanti ai sensi del comma 1 non sono reintegrabili negli anni nei quali puo' essere presentata la richiesta di esonero ai sensi del primo periodo del medesimo comma 1".
+
 All'articolo 32 della legge 4 novembre 2010, n. 183, dopo il comma 1 e' aggiunto il seguente: 
  "1-bis. In sede di prima applicazione, le disposizioni di cui all'articolo 6, primo comma, della legge 15 luglio 1966, n. 604, come modificato dal comma 1 del presente articolo, relative al termine di sessanta giorni per l'impugnazione del licenziamento, acquistano efficacia a decorrere dal 31 dicembre 2011".
 
 In funzione anche della prossima entrata in vigore del nuovo accordo di Basilea, le attivita' per imposte anticipate iscritte in bilancio, relative a svalutazioni e perdite su crediti non ancora dedotte dal reddito imponibile ai sensi del comma 3 dell'articolo 106 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, ovvero alle rettifiche di valore nette per deterioramento dei crediti non ancora dedotte dalla base imponibile dell'imposta regionale sulle attivita' produttive ai sensi degli articoli 6, comma 1, lettera c-bis), e 7, comma 1, lettera b-bis), del decreto legislativo 15 dicembre 1997, n. 446, nonche' quelle relative al valore dell'avviamento e delle altre attivita' immateriali, i cui componenti negativi sono deducibili in piu' periodi d'imposta ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive, sono trasformate in crediti d'imposta qualora nel bilancio individuale della societa' venga rilevata una perdita d'esercizio. (20) (24)
+
+56.
+                    
+                        
+                            La trasformazione di cui al comma 55 decorre dalla data di approvazione del bilancio da parte dell'assemblea dei soci, o dei diversi organi competenti per legge, ed opera per un importo pari al prodotto, da effettuarsi sulla base dei dati del medesimo bilancio approvato, tra: 
+ 
+                        
+                        
+                            a)
+                            
+                                la perdita d'esercizio, e 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rapporto fra le attivita' per imposte anticipate indicate al comma 55 e la somma del capitale sociale e delle riserve. Con decorrenza dal periodo d'imposta in corso alla data di approvazione del bilancio, non sono deducibili i componenti negativi corrispondenti alle attivita' per imposte anticipate trasformate in credito d'imposta ai sensi del presente comma;
 
 La quota delle attivita' per imposte anticipate iscritte in bilancio relativa alle perdite di cui all'articolo 84 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e derivante dalla deduzione dei componenti negativi di reddito di cui al comma 55, e' trasformata per intero in crediti d'imposta. La trasformazione decorre dalla data di presentazione della dichiarazione dei redditi in cui viene rilevata la perdita di cui al presente comma. La perdita del periodo d'imposta rilevata nella dichiarazione dei redditi di cui al periodo precedente e' computata in diminuzione del reddito dei periodi d'imposta successivi per un ammontare pari alla perdita del periodo d'imposta rilevata nella dichiarazione dei redditi di cui al periodo precedente ridotta dei componenti negativi di reddito che hanno dato luogo alla quota di attivita' per imposte anticipate trasformata in crediti d'imposta ai sensi del presente comma. (24) 
  56-bis.1. Qualora dalla dichiarazione ai fini dell'imposta regionale sulle attivita' produttive emerga un valore della produzione netta negativo, la quota delle attivita' per imposte anticipate di cui al comma 55 che si riferisce ai componenti negativi di cui al medesimo comma che hanno concorso alla formazione del valore della produzione netta negativo, e' trasformata per intero in crediti d'imposta. La trasformazione decorre dalla data di presentazione della dichiarazione ai fini dell'imposta regionale sulle attivita' produttive in cui viene rilevato il valore della produzione netta negativo di cui al presente comma. (20) (24)
@@ -405,6 +887,24 @@ Sui proventi di cui alla lettera g) dell'articolo 44, comma 1, del testo unico d
  5. Non sono soggetti ad imposizione i proventi di cui al comma 1 percepiti da soggetti non residenti come indicati nell'articolo 6 del decreto legislativo 1° aprile 1996, n. 239. 
  6. Ai fini dell'applicazione della ritenuta di cui al comma 1 si considera cessione anche il trasferimento di quote o azioni a rapporti di custodia, amministrazione o gestione intestati a soggetti diversi dagli intestatari dei rapporti di provenienza, salvo che il trasferimento sia avvenuto per successione o donazione. In questo caso, il contribuente fornisce al soggetto tenuto all'applicazione della ritenuta la necessaria provvista".
 
+64.
+                    
+                        
+                            All'articolo 6 del decreto legislativo 21 novembre 1997, n. 461, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel quarto periodo del comma 2, dopo le parole: "Per i soggetti non residenti" sono inserite le seguenti: "nonche' per le plusvalenze realizzate mediante cessione a titolo oneroso o rimborso di quote o azioni di organismi di investimento collettivo del risparmio"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel secondo periodo del comma 5, dopo le parole: "Qualora sia revocata l'opzione o sia chiuso il rapporto di custodia, amministrazione o deposito" sono inserite le seguenti: "o siano rimborsate anche parzialmente le quote o azioni di organismi di investimento collettivo del risparmio,".
+
 Nella lettera c) del comma 3 dell'articolo 7 del decreto legislativo 21 novembre 1997, n. 461, dopo le parole: "dai commi 3 e 3-bis dell'articolo 26" sono inserite le seguenti: "e la ritenuta del 12,50 per cento di cui all'articolo 26-quinquies".
 
 Nel comma 3 dell'articolo 17 del decreto legislativo 5 dicembre 2005, n. 252, le parole: "nonche' la ritenuta prevista, nella misura del 12,50 per cento, dal comma 3-bis dell'articolo 26 del predetto decreto legislativo n. 600 del 1973" sono sostituite dalle seguenti: "le ritenute del 12,50 per cento previste dagli articoli 26, comma 3-bis, e 26-quinquies del predetto decreto n. 600 del 1973".
@@ -433,6 +933,52 @@ Sui proventi realizzati attraverso la distribuzione o il rimborso di quote o azi
 Sui proventi derivanti da quote o azioni degli OICVM di cui al comma 73 possedute alla data del 30 giugno 2011, il credito d'imposta di cui all'articolo 17, comma 2, secondo periodo, del decreto legislativo 5 dicembre 2005, n. 252, e' riconosciuto nella misura del 15 per cento sui proventi percepiti o iscritti nel rendiconto del fondo pensione dal 1° luglio 2011 fino a concorrenza della differenza positiva eventualmente esistente fra il valore delle predette quote o azioni rilevato dai prospetti periodici alla data del 30 giugno 2011 e quello rilevato dai medesimi prospetti alla data di sottoscrizione o acquisto ovvero quello iscritto nel rendiconto del fondo pensione alla data del 31 dicembre 2010, ove le quote o azioni sono state sottoscritte o acquistate prima del 1° gennaio 2011. Il credito d'imposta concorre a formare il risultato della gestione del fondo pensione ed e' detratto dall'imposta sostitutiva dovuta.
 
 Per i rapporti di custodia o amministrazione, nonche' per quelli per i quali sussista uno stabile rapporto con l'intermediario anche in assenza di un formale contratto di custodia o amministrazione, aventi ad oggetto quote o azioni di organismi di investimento collettivo del risparmio, intrattenuti alla data del 30 giugno 2011 con gli intermediari di cui all'articolo 6, comma 1, del decreto legislativo 21 novembre 1997, n. 461, l'imposta sostitutiva di cui al medesimo articolo e' applicata, anche in mancanza di opzione, salva la facolta' del contribuente di rinunciare a tale regime con apposita comunicazione da effettuare entro il 30 settembre 2011, con effetto dal 1° luglio 2011. A tal fine il contribuente fornisce all'intermediario gli elementi e la documentazione necessari alla determinazione delle plusvalenze o minusvalenze costituendo, se necessario, apposita provvista per far fronte al pagamento dell'imposta.
+
+79.
+                    
+                        
+                            Sono abrogati con effetto dal 1° luglio 2011: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 9 della legge 23 marzo 1983, n. 77, l'articolo 11 della legge 14 agosto 1993, n. 344, i commi da 1 a 5 dell'articolo 11-bis del decreto-legge 30 settembre 1983, n. 512, convertito, con modificazioni, dalla legge 25 novembre 1983, n. 649, e il comma 1 nonche' il primo periodo del comma 2 dell'articolo 14 del decreto legislativo 14 gennaio 1992, n. 84; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 9 del decreto legislativo 21 novembre 1997, n. 461; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 8 del decreto legislativo 23 dicembre 1999, n. 505; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4-bis dell'articolo 45 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il secondo e il terzo periodo del comma 2 dell'articolo 17 del decreto legislativo 5 dicembre 2005, n. 252; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le parole: "da quote di organismi di investimento collettivo mobiliare soggetti all'imposta sostitutiva di cui al successivo articolo 8, nonche'" del comma 4 dell'articolo 7 del decreto legislativo 21 novembre 1997, n. 461.
 
 L'articolo 10-ter della legge 23 marzo 1983, n. 77, e' sostituito dal seguente: 
  "Art. 10-ter. - (Disposizioni tributarie sui proventi delle quote di organismi di investimento collettivo in valori mobiliari di diritto estero). - 1. Sui proventi di cui all'articolo 44, comma 1, lettera g), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, derivanti dalla partecipazione a organismi di investimento collettivo in valori mobiliari di diritto estero conformi alla direttiva 2009/65/CE del Parlamento europeo e del Consiglio, del 13 luglio 2009, situati negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto emanato ai sensi dell'articolo 168-bis del medesimo testo unico e le cui quote o azioni sono collocate nel territorio dello Stato ai sensi dell'articolo 42 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, i soggetti residenti incaricati del pagamento dei proventi medesimi, del riacquisto o della negoziazione delle quote o azioni, operano una ritenuta del 12,50 per cento. La ritenuta si applica sui proventi distribuiti in costanza di partecipazione all'organismo di investimento e su quelli compresi nella differenza tra il valore di riscatto, di cessione o di liquidazione delle quote o azioni e il valore medio ponderato di sottoscrizione o di acquisto delle quote o azioni medesime. In ogni caso come valore di sottoscrizione o acquisto si assume il valore delle quote o azioni rilevato dai prospetti periodici relativi alla data di acquisto delle quote o azioni medesime. 
@@ -536,7 +1082,64 @@ Alle minori entrate derivanti dai commi da 62 a 83, pari a 6,7 milioni di euro p
 
 ## Art. 3. — Copertura finanziaria
 
+1.
+                    
+                        
+                            Agli oneri derivanti dall'articolo 2, commi da 1 a 6, pari a 93 milioni di euro per l'anno 2010, 264,1 milioni di euro per l'anno 2011 e 24 milioni per l'anno 2012, si provvede rispettivamente:
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a 93 milioni per l'anno 2010 mediante corrispondente versamento al bilancio dello Stato per 93 milioni per l'anno 2010, di una quota delle risorse complessivamente disponibili relative a rimborsi e compensazioni di crediti di imposta, esistenti presso la contabilita' speciale 1778 "Agenzia delle entrate - Fondi di Bilancio";
 
+                            
+                        
+                        
+                            c)
+                            
+                                quanto a euro 73 milioni per l'anno 2011 mediante versamento, entro il 30 gennaio 2011, all'entrata del bilancio dello Stato di quota parte delle disponibilita' dei conti di tesoreria accesi per gli interventi del Fondo per la finanza d'impresa ai sensi del comma 847 dell'articolo 2 della citata legge 27 dicembre 2006, n. 296, e successive modificazioni; il versamento e' effettuato a valere sulle risorse destinate alle imprese innovative ai sensi dell'articolo 106 della legge 23 dicembre 2000, n. 388, e successive modificazioni, gestita da Mediocredito centrale sul conto di tesoreria n. 23514;
+
+                            
+                        
+                        
+                            d)
+                            
+                                quanto ad euro 50 milioni per l'anno 2011 e a 24 milioni di euro per l'anno 2012, mediante riduzione dell'autorizzazione di spesa di cui all'articolo 14, comma 14-bis, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122;
+
+                            
+                        
+                        
+                            e)
+                            
+                                quanto a euro 83 milioni per l'anno 2011, mediante utilizzo delle somme versate entro il 30 novembre 2010 all'entrata del bilancio dello Stato ai sensi delle disposizioni indicate nell'Allegato 2 al presente decreto, che, alla data di entrata in vigore del presente decreto, non sono state riassegnate ai pertinenti programmi, e che sono riassegnate ad apposito fondo per essere destinate alle finalita' di cui all'articolo 2, comma 1. Le predette somme, iscritte in bilancio per l'esercizio finanziario 2010, non impegnate al 31 dicembre 2010, sono mantenute in bilancio nel conto residui, per essere utilizzate nell'esercizio finanziario 2011;
+
+                            
+                        
+                        
+                            f)
+                            
+                                quanto a 8,1 milioni di euro per l'anno 2011, mediante riduzione dell'autorizzazione di spesa recata dall'articolo 3, comma 151, della legge 24 dicembre 2003, n. 350.
+
+2.
+                    
+                        
+                            Alla compensazione degli effetti finanziari in termini di fabbisogno e indebitamento netto, si provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a 93 milioni di euro per l'anno 2010, mediante accantonamento delle disponibilita' di competenza relative alla categoria di spesa dei consumi intermedi in maniera lineare per ciascun Ministero. Le risorse medesime, rese indisponibili, costituiscono economia di bilancio al termine dell'esercizio. Per effettive, motivate e documentate esigenze, su proposta delle Amministrazioni interessate, con decreto del Ministro dell'economia e delle finanze possono essere disposte variazioni degli accantonamenti di cui al secondo periodo, con invarianza degli effetti sull'indebitamento netto delle pubbliche amministrazioni, anche interessando diverse categorie di spesa, restando precluso l'utilizzo degli stanziamenti di conto capitale per finanziare spese correnti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                mediante corrispondente utilizzo, per euro 107 milioni per l'anno 2011 in termini di sola cassa, del fondo di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189.
+
+((2-bis. Le disponibilita' di bilancio di cui all'articolo 1, comma 1, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, relative all'anno 2010, in deroga a quanto previsto dal medesimo articolo, sono riassegnate per le medesime finalita' al Fondo di cui all'articolo 7-quinquies, comma 1, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33. Alla compensazione degli effetti in termini di fabbisogno e indebitamento netto derivanti dall'applicazione del precedente periodo, si provvede mediante corrispondente utilizzo, per euro 49,5 milioni per l'anno 2011 in termini di sola cassa, del fondo di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189))
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

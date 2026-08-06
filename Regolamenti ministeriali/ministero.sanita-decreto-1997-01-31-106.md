@@ -8,8 +8,8 @@ codice_redazionale: 097G0141
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,6 +41,43 @@ Il sale di altre origini, in particolare il sale ottenuto come sottoprodotto da 
 
 ## Art. 3. — R e q u i s i t i
 
+1.
+                    
+                        
+                            Il sale alimentare deve corrispondere ai seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                contenere non meno del 97%, calcolato sulla sostanza secca, di cloruro di sodio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contenere non piu' dello 0,5%, calcolato sulla sostanza secca, di sostanze insolubili in acqua;
+
+                            
+                        
+                        
+                            c)
+                            
+                                contenere non piu' dello 0,3%, calcolato sulla sostanza secca, di sostanze insolubili in acido clori-drico 0,1 M;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non contenere contaminanti in quantita' tali da costituire pericolo per la salute del consumatore. In particolare per i seguenti contaminanti non possono essere superate le quantita' sotto riportate:
+ arsenico: non piu' di 0,5 mg/kg, espresso come As;
+ rame: non piu' di 2 mg/kg, espresso come Cu;
+ piombo: non piu' di 2 mg/kg, espresso come Pb;
+ cadmio: non piu' di 0,5 mg/kg, espresso come Cd;
+ mercurio: non piu' di 0,1 mg/kg, espresso come Hg.
+
 Il sale alimentare puo' contenere come costituenti secondari naturali, in quantita' variabili in funzione, dell'origine e del metodo di produzione, solfati, carbonati e bromuri di calcio, di potassio di magnesio e di sodio, nonche' cloruri di calcio, potassio e magnesio.
 
 Nella produzione di sale alimentare possono essere impiegati gli additivi previsti dal decreto ministeriale 27 febbraio 1996, n. 209.
@@ -54,6 +91,31 @@ Il prelevamento dei campioni di sale alimentare e le determinazioni analitiche d
 Il sale alimentare destinato al consumo diretto deve essere posto in vendita esclusivamente preconfezionato.
 
 ## Art. 5. — Etichettatura
+
+1.
+                    
+                        
+                            Ferme restando le disposizioni in materia di etichettatura, di presentazione e di pubblicita' dei prodotti alimentari disciplinate dal decreto legislativo 27 gennaio 1992, n. 109, sull'imballaggio o sulla etichetta appostavi del sale alimentare destinato al consumo diretto devono essere riportate le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                denominazione di vendita "sale" integrata dalla specificazione "alimentare" oppure "per uso alimentare" oppure "da cucina" oppure "da tavola";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il tipo di estrazione dal quale il sale proviene (acqua di mare, giacimenti sotterranei, salamoia naturale);
+
+                            
+                        
+                        
+                            c)
+                            
+                                la specificazione relativa alla forma di presentazione (fino, grosso) e all'eventuale processo di lavorazione.
 
 ## Art. 6. — Importazione
 

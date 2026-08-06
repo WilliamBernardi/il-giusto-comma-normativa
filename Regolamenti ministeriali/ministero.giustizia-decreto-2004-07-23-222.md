@@ -8,8 +8,8 @@ codice_redazionale: 004G0253
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,80 @@ Entrata in vigore del provvedimento: 24/8/2004
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 5 aprile 2004;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «ministero»: il Ministero della giustizia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «decreto»: il decreto legislativo 17 gennaio 2003, n. 5;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «registro»: il registro degli organismi costituiti da enti pubblici o privati, deputati a gestire i tentativi di conciliazione a norma dell'articolo 38 del decreto legislativo 17 gennaio 2003, n. 5;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «conciliazione»: il servizio reso da uno o piu' soggetti, diversi dal giudice o dall'arbitro, in condizioni di imparzialita' rispetto agli interessi in conflitto e avente lo scopo di dirimere una lite gia' insorta o che puo' insorgere tra le parti, attraverso modalita' che comunque ne favoriscono la composizione autonoma;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «conciliatore»: le persone fisiche che, individualmente o collegialmente, svolgono la prestazione del servizio di conciliazione rimanendo prive, in ogni caso, del potere di rendere giudizi o decisioni vincolanti per i destinatari del servizio medesimo;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «organismo»: l'organizzazione di persone e mezzi che, anche in via non esclusiva, e' stabilmente destinata all'erogazione del servizio di conciliazione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «ente pubblico»: la persona giuridica di diritto pubblico interno, comunitario, internazionale o straniero;
+
+                            
+                        
+                        
+                            h)
+                            
+                                «ente privato»: qualsiasi soggetto, diverso dalla persona fisica, di diritto privato;
+
+                            
+                        
+                        
+                            i)
+                            
+                                «responsabile»: il responsabile della tenuta del registro nominato ai sensi dell'articolo 3 del presente regolamento;
+
+                            
+                        
+                        
+                            l)
+                            
+                                CCIAA: le camere di commercio, industria, artigianato e agricoltura.
 
 ## Art. 2. — Oggetto
 
@@ -37,6 +111,27 @@ Il registro e' tenuto presso il Ministero nell'ambito delle risorse umane e stru
 
 Per la tenuta del registro, il responsabile puo' avvalersi con compiti consultivi di un comitato di tre giuristi esperti nella materia della risoluzione alternativa delle controversie (ADR), designati dal Capo del Dipartimento per un periodo non superiore a due anni; ai componenti del comitato non spettano compensi, ne' rimborsi spese a qualsiasi titolo dovuti.
 
+4.
+                    
+                        
+                            Il registro e' articolato in modo da contenere almeno le seguenti annotazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                parte I: enti pubblici;
+ i) sezione A: elenco dei conciliatori;
+
+                            
+                        
+                        
+                            b)
+                            
+                                parte II: enti privati;
+ i) sezione A: elenco dei conciliatori;
+ ii) sezione B: elenco dei soci, associati, dipendenti, amministratori, rappresentanti.
+
 Il responsabile cura il continuo aggiornamento dei dati e puo' prevedere ulteriori integrazioni delle annotazioni in conformita' alle previsioni del presente regolamento.
 
 La gestione del registro avviene con modalita' informatiche che assicurino la possibilita' di rapida elaborazione di dati con finalita' statistica e ispettiva o, comunque, connessa ai compiti di tenuta di cui al presente regolamento.
@@ -48,6 +143,82 @@ Gli elenchi dei conciliatori sono pubblici; l'accesso alle altre annotazioni e' 
 Nel registro sono iscritti, a domanda, gli organismi di conciliazione costituiti da enti pubblici e privati o che costituiscono autonomi soggetti di diritto pubblico o di diritto privato.
 
 Gli organismi di conciliazione costituiti, anche in forma associata dalle CCIAA sono iscritti su semplice domanda.
+
+3.
+                    
+                        
+                            Il responsabile verifica la professionalita' e l'efficienza dei richiedenti diversi da quelli indicati al comma 2 e, in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                la forma giuridica dell'ente o dell'organismo, il suo grado di autonomia, nonche' la compatibilita' della sua attivita' con l'oggetto sociale o lo scopo associativo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la consistenza dell'organizzazione di persone e mezzi, e il suo grado di adeguatezza, anche sotto il profilo patrimoniale; l'istante, in ogni caso, deve produrre polizza assicurativa di importo non inferiore a 500.000 euro per le conseguenze patrimoniali comunque derivanti dallo svolgimento del servizio di conciliazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i requisiti di onorabilita' dei soci, associati, amministratori o rappresentanti dei predetti enti, non inferiori a quelli fissati a norma dell'articolo 13 del decreto legislativo 24 febbraio 1998, n. 58;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la trasparenza amministrativa e contabile dell'ente, ivi compreso il rapporto giuridico ed economico tra l'ente e i singoli conciliatori;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le garanzie di indipendenza, imparzialita' e riservatezza nello svolgimento del servizio, nonche' la conformita' del regolamento di procedura di conciliazione alla legge e della tabella delle indennita' ai criteri stabiliti dal regolamento emanato a norma dell'articolo 39 del decreto;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il numero dei conciliatori, non inferiore a sette, che abbiano dichiarato la disponibilita' a svolgere le funzioni di conciliazione in via esclusiva per il richiedente;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la sede dell'organismo di conciliazione.
+
+4.
+                    
+                        
+                            Il responsabile verifica in ogni caso:
+ 
+                        
+                        
+                            a)
+                            
+                                i requisiti di qualificazione professionale dei conciliatori per i quali, ove non siano professori universitari in discipline economiche o giuridiche, o professionisti iscritti ad albi professionali nelle medesime materie con anzianita' di iscrizione di almeno quindici anni, ovvero magistrati in quiescenza, deve risultare provato il possesso di una specifica formazione acquisita tramite la partecipazione a corsi di formazione tenuti da enti pubblici, universita' o enti privati accreditati presso il responsabile in base ai criteri fissati a norma dell'articolo 10, comma 5;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il possesso, da parte dei conciliatori, dei seguenti requisiti di onorabilita':
+ 1. non avere riportato condanne definitive per delitti non colposi o a pena detentiva, anche per contravvenzione;
+ 2. non avere riportato condanne a pena detentiva, applicata su richiesta delle parti, non inferiore a sei mesi;
+ 3. non essere incorso nell'interdizione perpetua o temporanea dai pubblici uffici;
+ 4. non essere stato sottoposto a misure di prevenzione o di sicurezza;
+ 5. non avere riportato sanzioni disciplinari diverse dall'avvertimento.
 
 Qualora l'ente sia un'associazione tra professionisti o una societa' tra avvocati, all'organismo devono essere destinati, anche in via non esclusiva, almeno due prestatori di lavoro subordinato, con prevalenti compiti di segreteria, ai quali risulti applicato il trattamento retributivo e previdenziale previsto dal rispettivo contratto collettivo nazionale di lavoro; in ogni altro caso, i compiti suddetti devono essere svolti da almeno due persone nominativamente indicate con riferimento anche al tipo di trattamento giuridico ed economico applicato.
 
@@ -144,6 +315,31 @@ Il conciliatore designato deve eseguire personalmente la sua prestazione; della 
 Chiunque presti la propria opera o il proprio servizio nell'organismo di conciliazione e' tenuto all'obbligo di riservatezza su tutto quanto appreso per ragioni dell'opera o del servizio.
 
 Al conciliatore e ai suoi ausiliari e' fatto divieto di assumere diritti o obblighi connessi, direttamente o indirettamente, con gli affari trattati, ad eccezione di quelli strettamente inerenti alla prestazione dell'opera o del servizio; e' fatto loro divieto di percepire compensi direttamente dalle parti.
+
+3.
+                    
+                        
+                            Al conciliatore e' fatto, altresi', obbligo di:
+ 
+                        
+                        
+                            a)
+                            
+                                sottoscrivere per ciascun affare per il quale e' designato una dichiarazione di imparzialita' secondo le formule previste dal regolamento di procedura applicabile, nonche' gli ulteriori impegni eventualmente previsti dal medesimo regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                informare immediatamente l'ente o l'organismo, ed eventualmente le parti dell'affare in corso di trattazione, delle vicende soggettive che possono avere rilevanza agli effetti delle prestazioni conciliative e dei requisiti individuali richiesti ai fini dell'imparzialita' dell'opera;
+
+                            
+                        
+                        
+                            c)
+                            
+                                corrispondere immediatamente a ogni richiesta del responsabile in relazione alle previsioni contenute nel presente regolamento.
 
 La violazione degli obblighi di cui al presente articolo determina il venire meno dei requisiti di onorabilita' di cui all'articolo 4, comma 4, lettere a) e b).
 

@@ -8,8 +8,8 @@ codice_redazionale: 099G0517
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,7 +44,57 @@ Ai sensi della legge, le disponibilita' del Fondo, nel limite complessivo di cin
 
 ## Art. 3. — Massimali dei finanziamenti
 
+1.
+                    
+                        
+                            Il limite massimo dell'importo del finanziamento e' determinato in rapporto al valore della commessa sulla base dei seguenti parametri:
+ 
+                        
+                        
+                            a)
+                            
+                                1,00% per i primi 50 miliardi di lire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                0,70% per i successivi 50 miliardi di lire;
+
+                            
+                        
+                        
+                            c)
+                            
+                                0,50% per i successivi 100 miliardi di lire;
+
+                            
+                        
+                        
+                            d)
+                            
+                                0,25% per l'eccedenza.
+
 Nel caso in cui l'impresa partecipi ad una gara in cui il valore della commessa sia suddiviso in porzioni o lotti, ai fini del calcolo dell'importo del finanziamento verra' considerato solo il valore del lotto o porzione della commessa per il quale l'impresa presenti la propria offerta, a condizione che esso figuri nel bando di gara o altro documento ufficiale probante.
+
+3.
+                    
+                        
+                            Nei casi di gare per servizi di ingegneria e/o consulenza tecnicoeconomica, il limite massimo dell'importo del finanziamento e' determinato in rapporto al valore della commessa sulla base dei seguenti parametri:
+ 
+                        
+                        
+                            a)
+                            
+                                5,00% per i primi 10 miliardi di lire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                1,00% per l'eccedenza.
 
 Qualora il valore della commessa sia espresso in valuta estera, il tasso di cambio da applicare per la conversione in lire e' quello del giorno della presentazione della domanda o della presentazione della prima domanda al soggetto gestore nel caso di piu' domande di diverse imprese partecipanti alla stessa gara.
 
@@ -67,6 +117,31 @@ Per garantire il rimborso del capitale, dei relativi interessi e di altri oneri 
 ## Art. 5. — Costi finanziabili
 
 Sono ammesse al finanziamento le spese di partecipazione alla gara sostenute posteriormente alla data di arrivo al soggetto gestore della domanda di finanziamento e fino al termine di scadenza per la presentazione dell'offerta definitiva.
+
+2.
+                    
+                        
+                            Le fasi temporali dell'offerta in cui possono essere effettuate le spese sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                fase della prequalifica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fase dell'offerta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fase della negoziazione dell'offerta.
 
 Qualora l'impresa richieda il finanziamento delle spese relative alla fase di prequalifica - fermo restando che il termine iniziale per il riconoscimento di tali spese resta comunque la data di arrivo della domanda -, l'esame della richiesta ha luogo dopo che l'impresa abbia comunicato l'esito della fase di pre- qualifica. Il finanziamento di dette spese e' ammesso solo qualora la prequalifica sia prevista dal bando di gara o da altra idonea documentazione. Le relative spese devono essere inoltre inerenti alla partecipazione alla gara, costituendo parte dei costi da sostenere per la presentazione dell'offerta. Nel caso in cui l'impresa non abbia superato la fase di prequalifica, il comitato delibera riguardo alle spese sostenute ed il relativo finanziamento e' erogato per intero dopo la stipula del contratto.
 
@@ -109,6 +184,24 @@ Un'ulteriore quota, pari al trenta per cento del finanziamento, viene erogata en
 Il restante venti per cento e' erogato dietro presentazione della prova che l'impresa sia stata chiamata alla fase di discussione dell'offerta. A tal fine, costituisce prova della chiamata alla fase di discussione dell'offerta anche la richiesta del committente.
 L'impresa e' tenuta a documentare tale richiesta producendo la relativa lettera del committente.
 
+4.
+                    
+                        
+                            Qualora la fase della discussione dell'offerta non sia provabile, il comitato, su richiesta dell'impresa, puo' autorizzare l'erogazione dell'ultimo venti per cento del finanziamento. Nel caso in cui l'impresa abbia gia' presentato il consuntivo delle spese sostenute e queste risultino inferiori all'ottanta per cento del finanziamento concesso sulla base del preventivo, l'erogazione sara' pari all'importo del consuntivo. Qualora la fase di discussione dell'offerta non sia prevista dal bando di gara, il finanziamento concesso sulla base del preventivo e' interamente erogato secondo le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                50% dopo la stipula del contratto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                50% dietro attestazione di avvenuta presentazione dell'offerta.
+
 Il periodo di utilizzo del finanziamento dura diciotto mesi a partire dalla data della stipula del contratto di finanziamento.
 
 ## Art. 10. — Rimborso del finanziamento
@@ -125,6 +218,40 @@ Il tasso agevolato e' pari al quaranta per cento del tasso di riferimento applic
 
 Il tasso applicabile per il computo degli interessi e' quello vigente alla data di stipula del contratto di finanziamento e rimane fisso per tutta la durata del finanziamento.
 
+7.
+                    
+                        
+                            Le somme riscosse sono rimborsate, in relazione alla situazione del beneficiario rispetto all'esito della gara, secondo le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                aggiudicatari della gara, firmatari di un contratto: la restituzione deve essere, effettuata a tasso agevolato nei trenta giorni successivi alla data di incasso dell'anticipo contrattuale concesso dal committente, considerando come data di incasso quella in cui sia pervenuto all'impresa almeno l'80% di tale anticipo. I beneficiari devono comunicare al soggetto gestore l'avvenuto incasso dell'anticipo entro i quindici giorni lavorativi successivi. Il ritardo nella comunicazione comporta l'applicazione della penale nella misura stabilita al comma 3 del presente articolo. In relazione alla peculiarita' di taluni contratti, che non prevedono il versamento di un anticipo alla ditta aggiudicataria, ma soltanto un primo pagamento, successivo alla stipula, tale pagamento e' considerato equivalente al versamento dell'anticipo contrattuale ai fini della decorrenza dell'obbligo di restituzione del finanziamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                aggiudicatari della gara non firmatari di contratto, ovvero casi in cui non sia previsto un anticipo: il rimborso delle somme riscosse deve essere effettuato secondo le modalita' previste nel comma 4 del presente articolo. Qualora gli aggiudicatari firmino successivamente i contratti e riscuotano il relativo anticipo contrattuale, essi restituiscono il finanziamento residuo secondo le modalita' previste alla precedente lettera a);
+
+                            
+                        
+                        
+                            c)
+                            
+                                non aggiudicatari che, per comportamento a loro non imputabile, si siano ritirati dalla gara o siano stati esclusi, nonche' non aggiudicatari a causa dell'annullamento della gara da parte dell'appaltante: la restituzione delle somme riscosse deve avvenire secondo le modalita' previste al comma 4 del presente articolo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                non aggiudicatari che, per comportamento a loro imputabile, si siano deliberatamente ritirati dalla gara o siano stati esclusi:
+ 1) qualora non sia stata presentata l'offerta, i beneficiari sono tenuti a restituire, a tasso di riferimento, le somme riscosse nei trenta giorni successivi al termine fissato per la presentazione delle offerte;
+ 2) qualora i beneficiari si siano ritirati o siano stati esclusi successivamente alla presentazione dell'offerta, sono tenuti alla restituzione, a tasso di riferimento, degli importi ottenuti nei trenta giorni successivi alla data di conclusione della gara.
+
 Il comitato valuta le cause invocate dai beneficiari del finanziamento per giustificare il proprio ritiro o esclusione dalla gara sulla base di criteri di massima adottati preventivamente ed in via generale con apposita deliberazione.
 
 In caso di ritardo nel rimborso del finanziamento alle scadenze stabilite o di altre somme comunque dovute al Fondo, sono corrisposti interessi di mora calcolati ad un tasso pari a quello legale, vigente al momento dell'inadempimento, maggiorato di cinque punti.
@@ -132,6 +259,31 @@ In caso di ritardo nel rimborso del finanziamento alle scadenze stabilite o di a
 Per il recupero delle somme dovute dalle imprese al fondo, il soggetto gestore e' autorizzato ad avvalersi della procedura di cui al regio decreto 14 aprile 1910, n. 639.
 
 ## Art. 11. — Consuntivo
+
+1.
+                    
+                        
+                            Entro sei mesi dalla ricezione della distinta delle spese effettivamente sostenute, il soggetto gestore predispone per l'esame del comitato una relazione che:
+ 
+                        
+                        
+                            a)
+                            
+                                metta a confronto le spese a consuntivo con quelle a preventivo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                informi sulla conclusione della gara e sulle modalita' adottate per il rimborso del finanziamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                fornisca gli elementi per la valutazione delle cause dell'eventuale ritiro o esclusione dalla gara dell'impresa beneficiaria.
 
 Qualora il Ministero abbia effettuato controlli diretti sulla realizzazione delle iniziative, alle relazioni predisposte dal soggetto gestore sono allegate anche le relazioni redatte dal Ministero.
 

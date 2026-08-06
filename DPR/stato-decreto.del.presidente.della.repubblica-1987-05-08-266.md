@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -52,6 +52,31 @@ Per la formulazione di proposte per la determinazione degli organici, da attuare
 
 ))
 
+9.
+                        
+                            
+                                Tali proposte saranno valutate in sede di negoziazione decentrata a livello nazionale e potranno costituire la base per proposte finalizzate a:
+ 
+                            
+                            
+                                a)
+                                
+                                    modificare le piante organiche di ufficio. Tali modifiche saranno effettuate con provvedimento dell'amministrazione sentito il consiglio di amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    modificare i contingenti dei profili insistenti sulla stessa qualifica funzionale, cui si provvedera', su proposta del Ministro competente al Dipartimento per la funzione pubblica, con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro, previo parere del Consiglio superiore della pubblica amministrazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modificare i contingenti di profili insistenti su qualifiche funzionali differenti cui si provvedera', dopo aver attuato i processi di mobilita' previsti nell'art. 3, con iniziative dei Ministri competenti, utilizzando le procedure consentite dalla vigente normativa, sentito il Consiglio superiore della pubblica amministrazione.
+
 ## Art. 3. — Mobilita'
 
 Alla copertura dei posti che, a seguito della rideterminazione attuata in applicazione dell'art. 2, risultino disponibili in ogni singolo ufficio e di quelli resisi vacanti nell'anno di effettuazione della verifica, si provvede con processi di mobilita' del personale con l'osservanza delle modalita' di cui agli articoli 4, 5 e 6 del presente decreto.
@@ -63,6 +88,46 @@ Sara' cura delle amministrazioni di portare a conoscenza del personale la situaz
 Gli avvisi di disponibilita' dei posti sono pubblicati nel Bollettino ufficiale, almeno una volta all'anno.
 
 Le amministrazioni provvederanno all'espletamento della formalita' di trasferimento entro sei mesi dalla pubblicazione dell'avviso.
+
+4.
+                        
+                            
+                                La graduatoria degli aspiranti sara' formata da una commissione paritetica, composta da rappresentanti dell'amministrazione e da un numero di rappresentanti delle organizzazioni sindacali maggiormente rappresentative nell'amministrazione compreso tra cinque e sette in proporzione ai suffragi conseguiti nelle elezioni per la rappresentanza nei consigli di amministrazione, tenuto conto dei seguenti requisiti: 
+                            
+                            
+                                a)
+                                
+                                    condizioni di famiglia;
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali necessita' di studio del dipendente, del coniuge e dei figli;
+                                
+                            
+                            
+                                c)
+                                
+                                    servizio gia' prestato in sedi disagiate;
+                                
+                            
+                            
+                                d)
+                                
+                                    anzianita' di servizio;
+                                
+                            
+                            
+                                e)
+                                
+                                    anzianita' di sede di provenienza;
+                                
+                            
+                            
+                                f)
+                                
+                                    motivi di salute.
 
 In sede di contrattazione decentrata per amministrazione a livello centrale saranno definiti i punteggi da attribuire a ciascuno dei suddetti requisiti, che saranno recepiti con decreto del Ministro competente da pubblicarsi nel Bollettino ufficiale.
 
@@ -112,6 +177,87 @@ Per la copertura dei posti disponibili alla data di entrata in vigore del presen
 
 ## Art. 8. — Piano occupazionale
 
+1.
+                        
+                            
+                                Le amministrazioni, di intesa con le organizzazioni sindacali firmatarie dell'accordo recepito con il presente decreto, predispongono progetti speciali occupazionali che dovranno interessare, preferibilmente, i seguenti settori:
+ 
+                            
+                            
+                                a)
+                                
+                                    lotta all'evasione fiscale e contributiva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    potenziamento del catasto statale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutela del patrimonio culturale ed ambientale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    difesa del suolo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ecologia e protezione civile;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    difesa del patrimonio idrico, boschivo e floro faunistico;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    difesa del litorale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    servizi di assistenza agli anziani e portatori di handicaps;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    formazione lavoro;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    motorizzazione civile;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    repressione delle sofisticazioni e frodi alimentari.
+
 I progetti occupazionali prevedono gli obiettivi da conseguire; le professionalita' occorrenti distinte per profilo professionale; la quantita' di ore necessarie per la realizzazione del progetto occupazionale nonche' il tipo di contratto utilizzato per l'assunzione.
 
 Tali progetti sono trasmessi al Dipartimento della funzione pubblica entro il 30 settembre di ciascun anno e costituiranno le indicazioni richieste dall'art. 2 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, per la predisposizione del piano occupazionale da parte del Governo.
@@ -119,6 +265,45 @@ Tali progetti sono trasmessi al Dipartimento della funzione pubblica entro il 30
 Per il trattamento economico del personale utilizzato, si fa riferimento al disposto di cui al comma 4 dell'art. 3 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13.
 
 ## Art. 9. — Orario di lavoro
+
+1.
+                        
+                            
+                                Nel rispetto dell'orario massimo giornaliero stabilito per legge, la programmazione dell'orario di servizio e l'articolazione dell'orario di lavoro saranno regolamentate, in sede di accordi decentrati secondo i seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    migliore efficienza e produttivita' dell'amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    piu' efficace erogazione dei servizi a favore dei cittadini;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rispetto dei carichi di lavoro e dei riflessi sugli organici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ampliamento dell'arco temporale della fruibilita' dei servizi con il ricorso preferenziale ad articolazioni degli orari connesse con la natura delle prestazioni e con le caratteristiche funzionali dei servizi che possono richiedere orari diversi e anche piu' prolungati;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    possibilita' di procedere ad una riduzione progressiva del ricorso al lavoro straordinario.
 
 Pertanto l'orario settimanale di lavoro, distribuito su sei o cinque giornate lavorative, puo' essere articolato, in termini di flessibilita', turnazione, frazionamento, tempo parziale in modo da assicurare la fruibilita' giornaliera dei servizi da parte dei cittadini utenti anche nelle ore pomeridiane, estendendo l'apertura degli uffici fino alle ore diciotto.
 
@@ -131,6 +316,38 @@ Fatta salva la possibilita' di una migliore specificazione dei criteri indicati 
 ))
 
 Gli istituti riguardanti la flessibilita' dell'orario di lavoro, la turnazione e il tempo parziale possono anche coesistere al fine di rendere concreta la gestione flessibile e mirata dell'organizzazione dei servizi, della dinamica degli organici e dei carichi di lavoro.
+
+6.
+                        
+                            
+                                A tal fine gli accordi decentrati utilizzeranno, quali parametri principali per l'articolazione dell'orario di lavoro, i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    il grado di intensificazione dei rapporti con l'utente che deve essere posto in condizione di accedere piu' facilmente e con maggior frequenza agli uffici, sportelli e servizi dell'amministrazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il grado di miglioramento dell'organizzazione del lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il miglioramento, in termini di coordinamento, del rapporto funzionale tra unita' organiche appartenenti alla medesima struttura complessa, ovvero tra loro correlate sul piano dell'attivita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il grado di fruibilita' dei servizi sociali sul territorio, in relazione alle caratteristiche socio economiche.
 
 Ove necessario, qualora con le predette modalita' di articolazione dell'orario di lavoro non siano perseguibili le finalita' connesse alla piu' proficua efficienza degli uffici, e in relazione a necessita' esattamente prevedibili quali scadenze legislative o amministrative che comportino maggiori carichi di lavoro, e' consentita la programmazione plurisettimanale dell'orario di lavoro, purche' sia assicurata la presenza quotidiana in servizio contemporaneamente per quattro ore di tutte le unita' addette ad ogni singolo ufficio.
 
@@ -166,6 +383,52 @@ Non potranno essere comprese nei turni di flessibilita' quelle aliquote di perso
 
 Qualora l'orario ordinario e l'orario flessibile non siano sufficienti ad assicurare l'effettuazione di determinate lavorazioni, ovvero lo svolgimento di attivita' particolarmente articolate o diluite nel tempo o che per essere concluse devono attenersi a tempi tecnici non comprimibili o modificabili, l'organizzazione del lavoro puo' essere articolata su due o piu' turni.
 
+2.
+                        
+                            
+                                I criteri direttivi che devono essere osservati per l'adozione dell'orario di lavoro su turni sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    prima di ricorrere all'organizzazione del lavoro su turni necessita valutare se i risultati da conseguire non possano essere raggiunti mediante la contemporanea adozione dell'orario ordinario e dell'orario flessibile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione del lavoro su turni deve corrispondere ad esigenze non sopprimibili o comprimibili in quanto imposte dall'osservanza di particolari prescrizioni o dalla sequenza di operazioni tecniche collegate od interdipendenti, ovvero dalla necessita' di rispettare tempi tecnici di attesa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione di turni puo' essere altresi' correlata, e quindi limitata nel tempo, allo svolgimento di determinati compiti a stretto tempo di adempimento, ovvero a scadenze periodiche che, ancorche' conosciute, non consentano una programmazione di tipo ordinario per le fasi finali o di completamento di specifici processi, specie tecnici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'adozione dei turni puo' anche prevedere, per limitate aliquote di personale del turno subentrante, una sovrapposizione, da definirsi in sede di negoziazione decentrata, con il turno precedente ai fini dello scambio di consegne, di materiali specifici e di istruzioni, ovvero di affiancamento per esecuzione di lavorazioni particolarmente delicate o pericolose, nonche' per il controllo dei sistemi sussidiari di sicurezza, in senso generale e di allarme;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il ricorso al lavoro su turni presuppone, specie quando non connessi a particolari fasi del processo produttivo, la distribuzione del personale, nei vari turni, ripartito sulla base delle professionalita' che devono essere presenti in ciascun turno, con assoluta preminenza, quindi, dell'interesse dell'amministrazione su ogni altro;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero dei turni pomeridiani e/o notturni effettuabili nell'arco del mese da ciascun operatore non puo' essere superiore a dieci, facendo comunque salve le esigenze imprevedibili ed eccezionali o quelle derivanti da calamita' o eventi naturali.
+
 ## Art. 13. — Permessi e ritardi - Recuperi
 
 Al dipendente possono essere concessi, per particolari esigenze personali, ed a domanda, brevi permessi di durata non superiore alla meta' dell'orario giornaliero.
@@ -194,7 +457,127 @@ Le amministrazioni, il cui personale e' interessato alla riduzione dell'orario d
 
 ## Art. 15. — Accordi decentrati
 
+1.
+                        
+                            
+                                Nell'ambito, nei limiti e sulla base dei criteri stabiliti dal presente decreto, sono demandate alla negoziazione decentrata le seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'organizzazione del lavoro e la concessione in appalto di attivita' proprie dell'amministrazione nell'ambito della disciplina fissata dalla legge;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la determinazione dei tempi e dei carichi funzionali di lavoro ed altre eventuali misure volte ad assicurare l'efficienza degli uffici;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le proposte per la determinazione degli organici del personale nonche' la predisposizione dei progetti speciali occupazionali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la programmazione dell'orario di servizio, l'articolazione dell'orario di lavoro nonche' le modalita' di accertamento del suo rispetto;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la individuazione dei soggetti destinatari delle maggiorazioni del compenso incentivante e dell'indennita' di reperibilita', ove prevista;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le proposte per la formazione, l'addestramento e l'aggiornamento professionale, tenendo conto dei programmi e delle modalita' di svolgimento stabiliti dalla Scuola superiore della pubblica amministrazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le proposte per la determinazione del fabbisogno e l'utilizzazione del lavoro straordinario;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'individuazione delle misure per la sicurezza, la salubrita' e l'igiene dell'ambiente di lavoro, nonche' per l'utilizzazione delle strutture, dei locali e delle attrezzature;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la mobilita' del personale;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le proposte di programmi per l'introduzione di nuove tecnologie, intese ad ottenere un migliore rendimento dei servizi ed una migliore organizzazione del lavoro;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la predisposizione dei progetti di produttivita' e l'individuazione dei destinatari dei relativi incentivi;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    i programmi per la realizzazione di servizi sociali da mettere a disposizione del personale;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    i criteri per la ripartizione dei benefici assistenziali nelle singole amministrazioni;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    proposte per l'attuazione di pari opportunita' attraverso piani di azioni positive in favore delle lavoratrici.
+
 ## Art. 16. — Titolari del potere di negoziazione decentrata
+
+1.
+                        
+                            
+                                I titolari del potere di negoziazione decentrata sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    per la parte pubblica una delegazione composta dal Ministro competente, che la presiede, o da un suo delegato, ovvero dal commissario di Governo, nei casi previsti dal secondo comma dell'art. 14 della legge 29 marzo 1983, n. 93, e da una rappresentanza dei titolari degli uffici direttamente interessati alle questioni oggetto della trattativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la parte sindacale una delegazione composta da rappresentanti di ciascuna organizzazione sindacale maggiormente rappresentativa nel settore interessato che abbia adottato il codice di autoregolamentazione dell'esercizio del diritto di sciopero uguale a quelli adottati dalle organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto e delle confederazioni maggiormente rappresentative su base nazionale.
 
 ((
 
@@ -238,6 +621,31 @@ Le organizzazioni sindacali dissenzienti, o che non abbiano partecipato alla tra
 
 L'accordo e' recepito con decreto del Ministro, oppure con altri atti, a firma del competente dirigente, anche quale delegato del Ministro, entro trenta giorni dalla scadenza del termine di cui al comma 2.
 
+4.
+                        
+                            
+                                Il decreto del Ministro e' comunque necessario:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando l'accordo ha efficacia in tutto il territorio nazionale o comunque investe tutti gli uffici dell'amministrazione interessata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'accordo ha efficacia per gli uffici periferici non ricompresi nell'ambito di competenza territoriale di un unico organo amministrativo periferico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se le norme, introdotte dall'accordo, innovano altre norme previste da un precedente decreto ministeriale, a meno che il Ministro non abbia previsto esplicitamente tale possibilita' nel provvedimento di delega relativo a quell'accordo decentrato.
+
 Gli accordi decentrati, riguardanti una pluralita' di uffici locali dello Stato aventi sede nella medesima regione, sono recepiti, con decreto del commissario di Governo e, ove necessario, con decreto del Presidente del Consiglio dei Ministri.
 
 ((
@@ -249,6 +657,52 @@ Agli accordi concernenti il personale in servizio presso gli uffici dei commissa
 ## - Capo IV ORDINAMENTO DEL PERSONALE
 
 ## Art. 20. — Nona qualifica funzionale
+
+1.
+                        
+                            
+                                Il personale appartenente alla nona qualifica funzionale, istituita dall'art. 2 del decreto-legge 28 gennaio 1986, n. 9, convertito, con modificazioni, dalla legge 24 marzo 1986, n. 78, espleta le seguenti funzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    sostituzione del dirigente in caso di assenza o impedimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    reggenza dell'ufficio in attesa della destinazione del dirigente titolare;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    collaborazione diretta alla attivita' di direzione espletata dal dirigente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    direzione di uffici, istituti o servizi di particolare rilevanza o di stabilimenti di notevole complessita' non riservati a qualifiche dirigenziali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prestazioni per elaborazione, studio e ricerca altamente qualificata, richiedenti capacita' professionali di livello universitario nei campi amministrativo, tecnico o scientifico, convalidate da documentate esperienze nel settore, ed ove necessario, da abilitazione all'esercizio della professione, ovvero da specializzazione postuniversitaria;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' ispettive di particolare importanza, anche sulla gestione di progetti-obiettivo e di attivita' programmate, in funzione del conseguimento dei risultati e verifica degli stessi.
 
 ## Art. 21. — Dotazioni organiche
 

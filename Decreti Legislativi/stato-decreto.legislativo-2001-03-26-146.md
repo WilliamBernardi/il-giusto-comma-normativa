@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2008-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,8 +30,83 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro della sa
 
 Il presente decreto stabilisce le misure minime da osservare negli allevamenti per la protezione degli animali, ferme restando quelle di cui al decreto del Presidente della Repubblica 24 maggio 1988, n. 233, al decreto legislativo 30 dicembre 1992, n. 533, e al decreto legislativo 30 dicembre 1992, n. 534.
 
+2.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                animale: qualsiasi animale, inclusi pesci, rettili e anfibi, allevato o custodito per la produzione di derrate alimentari, lana, pelli, pellicce o per altri scopi agricoli;
+
+                            
+                        
+                        
+                            b)
+                            
+                                proprietario o custode ovvero detentore: qualsiasi persona fisica o giuridica che, anche temporaneamente, e' responsabile o si occupa degli animali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                autorita' competente: il Ministero della sanita' e le autorita' sanitarie territorialmente competenti, ai sensi del decreto legislativo 31 marzo 1998, n. 112, e successive modifiche.
+
+3.
+                    
+                        
+                            Il presente decreto non si applica agli animali:
+ 
+                        
+                        
+                            a)
+                            
+                                che vivono in ambiente selvatico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                destinati a partecipare a gare, esposizioni, manifestazioni, ad attivita' culturali o sportive;
+
+                            
+                        
+                        
+                            c)
+                            
+                                da sperimentazione o da laboratorio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                invertebrati.
+
 ## Art. 2. — Obblighi dei proprietari, dei custodi
  dei detentori degli animali
+
+1.
+                    
+                        
+                            Il proprietario o il custode ovvero il detentore deve:
+ 
+                        
+                        
+                            a)
+                            
+                                adottare misure adeguate per garantire il benessere dei propri animali e affinche' non vengano loro provocati dolore, sofferenze o lesioni inutili;
+
+                            
+                        
+                        
+                            b)
+                            
+                                allevare e custodire gli animali diversi dai pesci, rettili e anfibi, in conformita' alle disposizioni di cui all'allegato.
 
 Per favorire una migliore conoscenza degli animali domestici da allevamento, entro un anno dalla data di entrata in vigore del presente decreto legislativo, le regioni e le provincie autonome di Trento e Bolzano possono organizzare periodicamente, per il tramite dei servizi veterinari delle aziende sanitarie locali, corsi di qualificazione professionale con frequenza obbligatoria per gli operatori del settore, allo scopo di favorire la piu' ampia conoscenza in materia di etologia animale applicata, fisiologia, zootecnia e giurisprudenza.
 
@@ -44,9 +119,45 @@ L'allevamento di animali con il solo e principale scopo di macellarli per il val
 
 ## Art. 4. — Controlli
 
+1.
+                    
+                        
+                            Le autorita' sanitarie territorialmente competenti:
+ 
+                        
+                        
+                            a)
+                            
+                                dispongono ispezioni per la verifica del rispetto delle disposizioni di cui al presente decreto, da effettuare anche in occasione di altri controlli; in tale attivita', la conformita' delle modalita' di allevamento e custodia degli animali alle disposizioni di cui all'allegato deve essere valutata tenuto conto della specie, del grado di sviluppo, adattamento e addomesticamento, nonche' delle loro esigenze fisiologiche ed etologiche secondo l'esperienza acquisita e le conoscenze scientifiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                trasmettono al Ministero della sanita', nei termini da esso stabiliti e utilizzando il modello appositamente predisposto, una relazione sulle ispezioni di cui alla lettera a) anche ai fini del successivo comma 2.
+
 Il Ministero della sanita' presenta alla Commissione europea, secondo le modalita' da essa stabilite, una relazione complessiva sui risultati delle ispezioni di cui al comma 1.
 
 ## Art. 5. — Controlli veterinari comunitari
+
+1.
+                    
+                        
+                            Gli esperti veterinari della Commissione europea ed il Ministero della sanita', anche al fine di garantire l'applicazione uniforme all'interno del territorio nazionale, possono procedere a controlli per:
+ 
+                        
+                        
+                            a)
+                            
+                                verificare che siano rispettati i requisiti stabiliti dal presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accertare che le ispezioni di cui all'articolo 4, comma 1, lettera a), vengano effettuate secondo le modalita' stabilite in sede nazionale e comunitaria.
 
 L'autorita' competente fornisce assistenza agli esperti veterinari della Commissione europea nell'espletamento degli incarichi di cui al comma 1.
 

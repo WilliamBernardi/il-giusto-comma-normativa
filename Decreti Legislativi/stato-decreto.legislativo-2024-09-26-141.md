@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,11 +32,322 @@ Sono approvate le disposizioni contenute nell'allegato 1, che forma parte integr
 
 ## Art. 2. — Disposizioni in materia di spedizionieri doganali
 
+1.
+                    
+                        
+                            Alla legge 25 luglio 2000 n. 213, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 1 e' sostituito dal seguente: 
+ «Art. 1 (Esercizio della professione di spedizioniere doganale). - 1. L'esercizio della professione di spedizioniere doganale sul territorio nazionale e' subordinato al rilascio di apposita patente, con validita' illimitata, da parte dell'Agenzia delle dogane e dei monopoli, di seguito denominata «Agenzia», sentito il Consiglio nazionale degli spedizionieri doganali. 
+ 2 . Gli spedizionieri doganali, o doganalisti, sono iscritti al relativo albo professionale di cui alla legge 22 dicembre 1960, n. 1612, quali esperti negli adempimenti connessi con gli scambi internazionali. 
+ 3 . In relazione alle professionalita' di cui al comma 2, gli spedizionieri doganali iscritti all'albo sono altresi' abilitati a svolgere i compiti che lo Stato, le regioni, le province, i comuni e gli enti locali, per effetto di norme nazionali o unionali, possono affidare ai privati. 
+ 4 . La patente di spedizioniere doganale e' rilasciata alle persone fisiche in possesso dei seguenti requisiti: 
+ a) cittadinanza italiana, di uno Stato dell'Unione europea o di un Paese terzo che accorda in materia uguale trattamento ai cittadini italiani; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                maggiore eta'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                assenza di condanne penali, passate in giudicato per i delitti non colposi di cui all'articolo 33, comma 1, lettere c) e d), delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assenza di violazioni gravi o ripetute della normativa doganale e fiscale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                superamento dell'esame di stato per l'esercizio della professione di spedizioniere doganale. 
+ 5 . La patente non puo' essere rilasciata a coloro che siano esclusi dall'elettorato attivo o che siano stati destituiti dall'impiego presso una pubblica amministrazione. 
+ 6 . La patente e' sospesa o revocata nei casi di cui agli articoli 32 e 33 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111.»; 
+ b) dopo l'articolo 1, sono inseriti i seguenti: 
+ «Art. 1-bis (Esami di Stato per il conseguimento della patente di spedizioniere doganale). - 1. Gli esami di Stato per il conseguimento della patente di spedizioniere doganale sono indetti, con provvedimento dell'Agenzia, con cadenza annuale. Il bando di indizione degli esami e' pubblicato con avviso nella Gazzetta Ufficiale della Repubblica italiana. 
+ 2. La commissione esaminatrice, nominata con provvedimento del direttore dell'Agenzia, e' presieduta dal predetto direttore o da altro dirigente di prima fascia dell'Agenzia medesima ed e' composta da: 
+ a) due dirigenti di seconda fascia appartenenti, rispettivamente, al ruolo dell'Agenzia e al ruolo dell'Agenzia delle entrate; 
+ b) due spedizionieri doganali designati dal Consiglio nazionale degli spedizionieri doganali, di cui uno con funzioni di vicepresidente; 
+ c) un professore universitario titolare dell'insegnamento di diritto doganale o di diritto tributario. 
+ 3. La commissione opera senza oneri a carico della finanza pubblica e ai componenti della stessa non spettano compensi, indennita', gettoni di presenza, rimborsi spese o altri emolumenti comunque denominati, salvo quanto previsto dall'articolo 1-ter, comma 8. 
+ Art. 1-ter (Ammissione agli esami di Stato e loro svolgimento).
+- 1. Per l'ammissione agli esami di Stato di cui all'articolo 1-bis, comma 1, gli aspiranti, entro il termine stabilito nel bando, devono: 
+ a) inoltrare l'istanza di partecipazione; 
+ b) aver conseguito il diploma di istruzione secondaria di secondo grado ovvero la laurea in discipline economiche, giuridiche o equipollenti; 
+ c) essere in possesso del certificato rilasciato dal competente Consiglio territoriale degli spedizionieri doganali attestante il compiuto svolgimento del tirocinio, di cui al decreto del Presidente della Repubblica 7 agosto 2012, n. 137. 
+ 2. Su istanza dell'interessato, il direttore dell'Agenzia puo' esonerare dal sostenere l'esame di Stato i dirigenti e funzionari della medesima Agenzia e gli ufficiali del Corpo della Guardia di finanza, cessati dal rapporto di impiego dopo aver prestato almeno venti anni di effettivo servizio in tali posizioni, avuto riguardo ai precedenti di carriera e alle specifiche mansioni svolte nel settore dei servizi doganali. Per gli ufficiali del Corpo della Guardia di finanza, l'istanza e' corredata da idonea attestazione dell'Amministrazione di appartenenza. 
+ 3. Per i candidati in possesso di diploma di istruzione secondaria di secondo grado, l'esame di Stato per il conseguimento della patente di spedizioniere doganale consiste in una prova scritta, in una prova pratica e in un colloquio. 
+ 4. La prova scritta verte su: 
+ a) istituzioni di diritto privato; 
+ b) nozioni di diritto tributario; 
+ c) diritto doganale; 
+ d) nozioni di diritto dell'Unione europea e di diritto internazionale. 
+ 5. La prova pratica consiste nell'analisi e nella risoluzione argomentata di un caso pratico in materia di tecnica doganale. 
+ 6. Il colloquio verte sulle materie oggetto della prova scritta e di quella pratica nonche' sulle seguenti materie: 
+ a) nozioni di diritto amministrativo, penale e della navigazione; 
+ b) nozioni di merceologia, di geografia economica e commerciale; 
+ c) lingua inglese; 
+ d) nozioni di contabilita' di Stato e sulle risorse proprie tradizionali, sul sistema sanzionatorio e sul contenzioso in materia doganale. 
+ 7. Per i candidati in possesso di laurea in discipline economiche, giuridiche ed equipollenti, l'esame di Stato consiste in un colloquio su tutte le materie di cui ai commi 4, 5 e 6. 
+ 8. Le indennita' spettanti agli spedizionieri doganali e ai professori universitari chiamati a far parte della commissione esaminatrice sono a carico del Consiglio nazionale degli spedizionieri doganali. 
+ 9. L'elenco dei candidati idonei, formato dalla commissione esaminatrice, e' approvato con determinazione dell'Agenzia e pubblicato sul sito istituzionale della medesima Agenzia. 
+ 10. L'attestato di compiuto svolgimento del tirocinio di cui al comma 1, lettera c), non e' richiesto agli aspiranti che, per almeno un anno, abbiano prestato servizio in qualita' di dirigenti o funzionari presso l'Agenzia o di ufficiali, ispettori o sovrintendenti del Corpo della Guardia di finanza. 
+ 11. L'esclusione dagli esami di Stato per difetto dei requisiti e' disposta con provvedimento del direttore dell'Agenzia.»; 
+ c) l'articolo 3 e' sostituito dal seguente: 
+ «Art. 3 (Centri di assistenza doganale). - 1. I Centri di assistenza doganale (CAD), di cui al decreto-legge 30 dicembre 1991, n. 417, convertito, con modificazioni, dalla legge 6 febbraio 1992, n. 66, sono autorizzati a riscuotere i diritti portuali secondo le modalita' fissate dalle amministrazioni competenti nonche' a svolgere i compiti di cui all'articolo 1, comma 3. 
+ 2. I CAD autorizzati sono ammessi alle semplificazioni previste dalle disposizioni unionali in materia doganale. 
+ 3. I CAD sono abilitati a svolgere attivita' quali enti per le ispezioni di cui al regolamento (CE) n. 3287/94 del Consiglio, del 22 dicembre 1994.».
+
 ## Art. 3. — Modificazioni al decreto legislativo 26 ottobre 1995, n. 504 e al decreto legislativo 12 gennaio 2016, n. 6
+
+1.
+                    
+                        
+                            Al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative di cui al decreto legislativo 26 ottobre 1995, n. 504, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 40: 
+ 1) al comma 3: 
+ 1.1) secondo periodo, dopo le parole: «di prodotti soggetti ad accisa», sono inserite le seguenti: «mediante operazioni effettuate, senza giustificato motivo,»
+                                    e le parole: «, salvo che venga fornita prova contraria» sono soppresse; 
+ 1.2) il terzo periodo e' sostituito dal seguente: «Si configura altresi' come tentativo di sottrazione del prodotto all'accertamento, la circolazione dei prodotti di cui all'articolo 7-bis che avvenga, senza giustificato motivo, in assenza della preventiva emissione del codice di riscontro amministrativo di cui al medesimo articolo 7-bis o sulla base dei dati di cui al comma 3 del medesimo articolo 7-bis risultanti non veritieri o senza che sia stata eseguita, da parte dell'Ufficio dell'Agenzia, la validazione del predetto codice a causa della mancata presentazione dei prodotti presso il medesimo Ufficio.»; 
+ 2) al comma 4, le parole «2.000 chilogrammi» sono sostituite dalle seguenti: «10.000 chilogrammi»; 
+ 3) i commi 5 e 6 sono sostituiti dai seguenti: 
+ «5. Se la quantita' dei prodotti energetici, a eccezione del gas naturale, sottratti all'accertamento o al pagamento dell'accisa e' inferiore a 1.000 chilogrammi, si applica la sanzione amministrativa del pagamento di una somma di denaro dal doppio al decuplo dell'imposta evasa. 
+ 6. Se la quantita' di gas naturale sottratto all'accertamento o al pagamento dell'accisa e' inferiore a 10.000 metri cubi si applica la sanzione amministrativa del pagamento di una somma di denaro dal doppio al decuplo dell'imposta evasa, in ogni caso non inferiore a euro 5.000.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo l'articolo 40 sono inseriti i seguenti: 
+ «Art. 40-bis. (Sottrazione all'accertamento o al pagamento dell'accisa sui tabacchi lavorati). - 1. Fuori dai casi di cui all'articolo 84 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20¸ commi 2 e 3, della legge 9 agosto 2023, n. 111, chiunque sottrae, con qualsiasi mezzo e modalita', all'accertamento o al pagamento dell'accisa i tabacchi lavorati di cui al titolo I, capo III-bis, del presente testo unico e' punito con la reclusione da due a cinque anni. 
+ 2. Il tentativo e' punito con la stessa pena prevista per il reato consumato. 
+ 3. Quando le condotte di cui al comma 1 hanno ad oggetto un quantitativo di tabacco lavorato fino a 15 chilogrammi convenzionali e qualora non ricorrano le circostanze aggravanti di cui all'articolo 40-ter, si applica la sanzione amministrativa del pagamento di una somma di denaro di euro 5 per ogni grammo convenzionale di prodotto, come definito dall'articolo 39-quinquies. La sanzione amministrativa, salvo quanto previsto dal comma 4, non puo' comunque essere inferiore a euro 5.000. 
+ 4. Se il quantitativo di tabacchi lavorati sottratto all'accertamento o al pagamento dell'accisa risulta: 
+ a) non superiore a 200 grammi convenzionali, la sanzione amministrativa e' di 500 euro; 
+ b) superiore a 200 grammi convenzionali e fino a 400 grammi convenzionali, la sanzione amministrativa e' di 1.000 euro. 
+ 5. Qualora il quantitativo di tabacchi lavorati sottratti, con qualsiasi mezzo e modalita', all'accertamento o al pagamento dell'accisa non sia determinato, si applica la sanzione amministrativa da un minimo di euro 3.000 a un massimo di euro 30.000, tenuto conto delle modalita' della condotta e della gravita' del fatto. 
+ Art. 40-ter (Circostanze aggravanti del delitto di sottrazione all'accertamento o al pagamento dell'accisa sui tabacchi). - 1. Se i fatti previsti dall'articolo 40-bis sono commessi adoperando mezzi di trasporto appartenenti a persone estranee al reato, la pena e' aumentata. 
+ 2. Nelle ipotesi previste dall'articolo 40-bis, commi 1 e 2, si applica la multa di euro 25 per ogni grammo convenzionale di prodotto e la reclusione da tre a sette anni, quando: 
+ a) nel commettere il reato o nei comportamenti diretti ad assicurare il prezzo, il prodotto, il profitto o l'impunita' del reato, l'autore faccia uso delle armi o si accerti averle possedute nell'esecuzione del reato; 
+ b) nel commettere il reato o immediatamente dopo, l'autore e' sorpreso insieme a due o piu' persone in condizioni tali da frapporre ostacolo agli organi di polizia; 
+ c) il fatto e' connesso con altro reato contro la fede pubblica o contro la pubblica amministrazione; 
+ d) nel commettere il reato, l'autore ha utilizzato mezzi di trasporto, che, rispetto alle caratteristiche omologate, presentano alterazioni o modifiche idonee ad ostacolare l'intervento degli organi di polizia ovvero a provocare pericolo per la pubblica incolumita'; 
+ e) nel commettere il reato l'autore ha utilizzato societa' di persone o di capitali ovvero si e' avvalso di disponibilita' finanziarie in qualsiasi modo costituite in Stati che non hanno ratificato la Convenzione sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato, fatta a Strasburgo l'8 novembre 1990, ratificata e resa esecutiva ai sensi della legge 9 agosto 1993, n. 328, e che comunque non hanno stipulato e ratificato convenzioni di assistenza giudiziaria con l'Italia aventi ad oggetto il delitto di contrabbando. 
+ Art. 40-quater (Circostanze attenuanti). - 1. Le pene previste dall'articolo 40-bis, commi 1 e 2, sono diminuite da un terzo alla meta' nei confronti dell'autore che si adopera per evitare che l'attivita' delittuosa sia portata ad ulteriori conseguenze anche aiutando concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di elementi decisivi per la ricostruzione dei fatti e per l'individuazione o la cattura degli autori del reato o per la individuazione di risorse rilevanti per la commissione dei delitti. 
+ Art. 40-quinquies (Vendita di tabacchi lavorati senza autorizzazione o acquisto da persone non autorizzate alla vendita). - 1. Chiunque senza autorizzazione dell'Agenzia delle dogane e dei monopoli vende o pone in vendita tabacchi lavorati e' punito con la sanzione amministrativa pecuniaria da euro 5.000 a euro 10.000. La sanzione e' ridotta da un terzo alla meta', se il quantitativo di tabacco lavorato non supera i grammi 250. 
+ 2. Chiunque acquista tabacchi lavorati da persona non autorizzata alla vendita e' punito con la sanzione amministrativa pecuniaria da euro 5.000 a euro 10.000. La sanzione e' ridotta da un terzo alla meta', se il quantitativo di tabacco lavorato non supera i grammi 500. 
+ 3. Quando le condotte di cui ai commi 1 e 2 hanno ad oggetto un quantitativo di tabacco lavorato rispettivamente superiore a chilogrammi 5 o superiore a chilogrammi 10, si applica la pena dell'arresto fino a un anno e dell'ammenda da euro 25 a euro 64. 
+ Art. 40-sexies (Ulteriori disposizioni in materia di vendita di tabacchi lavorati). - 1. Ove, all'interno di esercizi commerciali o di esercizi pubblici, sia contestata nei confronti dei titolari o di loro coadiuvanti o dipendenti la detenzione o la cessione di tabacchi lavorati in violazione delle disposizioni del presente testo unico, nonche' delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111, o di altre leggi speciali in materia, ovvero la cessione abusiva di tabacchi lavorati in violazione della legge 22 dicembre 1957, n. 1293, in aggiunta alle specifiche sanzioni previste e' disposta, dal competente organo dell'Amministrazione finanziaria, la chiusura dell'esercizio presso il quale e' stata riscontrata la violazione ovvero la sospensione della licenza o dell'autorizzazione dell'esercizio stesso per un periodo non inferiore a cinque giorni e non superiore a un mese. 
+ 2. Nel caso di successiva violazione, la chiusura o la sospensione e' disposta per un periodo non inferiore a un mese e non superiore a due mesi. 
+ 3. Ove la contestazione di cui al comma 1 avvenga piu' di due volte, puo' essere disposta la chiusura definitiva dell'esercizio. 
+ 4. Contro i provvedimenti di cui ai commi 1, 2 e 3 e' ammesso ricorso amministrativo. 
+ 5. L'inosservanza dei provvedimenti di sospensione della licenza o dell'autorizzazione all'esercizio o del provvedimento di chiusura, di cui ai commi 1, 2 e 3, e' punita con la sanzione amministrativa pecuniaria da euro 10.000 a euro 50.000.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 43: 
+ 1) al comma 2, dopo le parole: «soggetti ad accisa», sono inserite le seguenti: «, mediante operazioni effettuate, senza giustificato motivo,»
+                                    e le parole «, salvo che venga fornita prova contraria» sono soppresse; 
+ 2) il comma 4 e' sostituito dal seguente: «4. Fuori dai casi previsti dal comma 1, lettera b), chiunque detiene l'alcole e i prodotti alcolici in condizioni diverse da quelle prescritte e' punito con la sanzione amministrativa pecuniaria dal doppio al decuplo dell'imposta evasa, in ogni caso non inferiore a euro 5.000 ne' superiore a euro 50.000.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 44: 
+ 1) al comma 1, dopo le parole: «articoli 40,» sono inserite le seguenti: «40-bis,»; 
+ 2) al comma 1-bis, le parole «costituiscono il profitto o il prezzo, salvo che appartengano a persona estranea al reato, ovvero, quando essa non e' possibile, la confisca di beni, di cui il reo ha la disponibilita', per un valore corrispondente a tale prezzo o profitto» sono sostituite dalle seguenti: «costituiscono il prodotto, il profitto o il prezzo, salvo che appartengano a persona estranea al reato.»
+                                    ed e' aggiunto, in fine, il seguente periodo: «Quando non e' possibile procedere alla confisca di cui al primo periodo, il giudice ordina la confisca delle somme di denaro, dei beni o delle altre utilita' delle quali il condannato ha la disponibilita', anche per interposta persona, per un valore equivalente al prodotto, profitto o prezzo del reato»; 
+ 3) dopo il comma 1-ter, e' aggiunto, in fine, il seguente: 
+ «1-quater. Nei casi di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale per taluno dei delitti previsti dal presente testo unico, puniti con pena detentiva non inferiore, nel massimo, a cinque anni, si applica l'articolo 240-bis del codice penale.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    dopo l'articolo 44, sono inseriti i seguenti: 
+ «Art. 44-bis (Destinazione di beni sequestrati o confiscati).
+- 1. I beni mobili, compresi quelli iscritti in pubblici registri, le navi, le imbarcazioni, i natanti e gli aeromobili sequestrati nel corso di operazioni di polizia di contrasto alle violazioni di cui agli articoli 40-bis e 40-ter, sono affidati dalle autorita' competenti in custodia giudiziale agli organi di polizia che ne facciano richiesta per l'impiego in attivita' di polizia ovvero possono essere affidati ad altri organi dello Stato o ad altri enti pubblici non economici, per finalita' di giustizia, di protezione civile o di tutela ambientale. 
+ 2. Gli oneri relativi alla gestione dei beni e all'assicurazione obbligatoria dei veicoli, dei natanti e degli aeromobili sono a carico dell'ufficio o comando usuario. 
+ 3. I beni mobili di cui al comma 1, acquisiti dallo Stato a seguito di provvedimento definitivo di confisca, sono assegnati, a richiesta, agli organi o enti che ne hanno avuto l'uso. 
+ 4. Si applicano le disposizioni di cui all'articolo 95, commi 3, 4, 6, 7 e 8, delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111. Nel caso di violazioni punite con la sanzione amministrativa, i provvedimenti per i quali, in base al predetto articolo 95, e' competente l'autorita' giudiziaria sono adottati dall'Ufficio dell'Agenzia territorialmente competente in relazione al luogo in cui la violazione e' stata accertata. 
+ Art. 44-ter (Custodia, distruzione, vendita e campionatura delle cose sequestrate o confiscate). - 1. Fermo quanto previsto dall'articolo 44-bis, nei casi di violazioni di cui agli articoli 40-bis e 40-ter, si applicano, in quanto compatibili, le disposizioni di cui all'articolo 118 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111.»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    all'articolo 45, il comma 3 e' abrogato;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 47: 
+ 1) al comma 1, le parole: «la multa fino a 2.582 euro» sono sostituite dalle seguenti: «la sanzione amministrativa pecuniaria da euro 5.000 a euro 10.000»; 
+ 2) al comma 5, le parole «prevista dall'art. 304 del testo unico delle disposizioni legislative in materia doganale, approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43, e successive modificazioni» sono sostituite dalle seguenti: «prevista dall'articolo 96, commi 1 e 2, delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20¸commi 2 e 3, della legge 9 agosto 2023, n. 111, calcolata sulla somma indebitamente restituita o richiesta in restituzione.»;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                all'articolo 61: 
+ 1) al comma 4, le parole: «all'obbligo del» sono sostituite dalle seguenti: «che costituiscono sottrazione al», le parole: «dagli articoli 40 e 44» sono sostituite dalle seguenti: «dall'articolo 40, commi 1, 2, 3 e 4 nonche' la confisca di cui all'articolo 44» e le parole: «100 chilogrammi» sono sostituite dalle seguenti: «200 chilogrammi»; 
+ 2) dopo il comma 4, e' inserito il seguente: «4-bis. Le disposizioni di cui al comma 4 non si applicano alle violazioni relative ai prodotti di cui agli articoli 62-quater, 62-quater.1, 62-quater.2 e 62-quinquies.»;
+                                
+                            
+                        
+                        
+                            i)
+                            
+                                all'articolo 62-quater: 
+ 1) al comma 7-bis, le parole: «degli articoli 291-bis, 291-ter e 291-quater del testo unico delle disposizioni legislative in materia doganale, di cui al decreto del Presidente della Repubblica 23 gennaio 1973, n. 43» sono sostituite dalle seguenti: «dell'articolo 84 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111» e le parole: «comma 1-bis del presente articolo, ad eccezione dei dispositivi meccanici ed elettronici e delle parti di ricambio, secondo il meccanismo di equivalenza di cui al comma 1-bis. Si applicano altresi' ai medesimi prodotti di cui ai commi 5 e 5-bis le disposizioni degli articoli 96 della legge 17 luglio 1942, n. 907, e 5 della legge 18 gennaio 1994, n. 50» sono sostituite dalle seguenti: «comma 1-bis, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, rispettivamente a 0,2 millilitri per i prodotti contenenti nicotina e a un millilitro per i prodotti non contenenti nicotina. Per i prodotti di cui al comma 1-bis, sia che contengano nicotina sia che non la contengano, trovano altresi' applicazione le disposizioni di cui all'articolo 85 delle predette disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale a 0,2 millilitri di prodotto»; 
+ 2) dopo il comma 7-bis, sono inseriti i seguenti: 
+ «7-bis.1. Fuori dai casi di cui al comma 7-bis, per le violazioni costituenti fattispecie di sottrazione dei prodotti di cui al comma 1-bis all'accertamento o al pagamento dell'imposta di consumo, si applicano le disposizioni di cui all'articolo 40-bis, commi 1, 2, 3 e 4, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, rispettivamente, a 0,2 millilitri per i prodotti contenenti nicotina e a un millilitro per i prodotti non contenenti nicotina. Si applicano, altresi', le disposizioni di cui all'articolo 40-ter, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale a 0,2 millilitri di prodotto di cui al comma 1-bis sia che contenga nicotina sia che non la contenga, e le disposizioni di cui all'articolo 40-quater. 
+ 7-bis.2. Si applicano le disposizioni di cui all'articolo 40-quinquies, quando le condotte ivi descritte hanno ad oggetto i prodotti previsti dal comma 1-bis del presente articolo, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, rispettivamente a 0,2 millilitri per i prodotti contenenti nicotina e a un millilitro per i prodotti non contenenti nicotina. 
+ 7-bis.3. Ai prodotti di cui al comma 1-bis si applicano, inoltre, le disposizioni di cui agli articoli 40-sexies, 44, 44-bis e 44-ter.»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'articolo 62-quater.1: 
+ 1) al comma 15, le parole: «degli articoli 291-bis, 291-ter e 291-quater del testo unico delle disposizioni legislative in materia doganale, di cui al decreto del Presidente della Repubblica 23 gennaio 1973, n. 43» sono sostituite dalle seguenti: «degli articoli 84 e 85 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111», le parole: «un grammo di tabacco lavorato convenzionale equivale» sono sostituite dalle seguenti: «un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento,»
+                                    e il secondo periodo e' soppresso; 
+ 2) dopo il comma 15, sono inseriti i seguenti: 
+ «15-bis. Fuori dai casi di cui al comma 15, per le violazioni costituenti fattispecie di sottrazione dei prodotti di cui al comma 1 all'accertamento o al pagamento dell'imposta di consumo, si applicano le disposizioni di cui all'articolo 40-bis, commi 1, 2, 3 e 4, e all'articolo 40-ter, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 10 grammi di prodotti di cui al comma 1 determinati al lordo del peso di eventuali involucri funzionali al consumo degli stessi prodotti. Si applica la disciplina di cui all'articolo 40-quater. 
+ 15-ter. Si applicano le disposizioni di cui all'articolo 40-quinquies, quando le condotte ivi descritte hanno ad oggetto i prodotti previsti dal comma 1, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 10 grammi di prodotti di cui al comma 1 determinati al lordo del peso di eventuali involucri funzionali al consumo degli stessi prodotti. 
+ 15-quater. Si applicano, altresi', ai medesimi prodotti di cui al comma 1, le disposizioni di cui agli articoli 40-sexies, 44, 44-bis, 44-ter e 50.»;
+                                
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    all'articolo 62-quinquies, il comma 7 e' sostituito dai seguenti: 
+ «7. Le disposizioni previste dagli articoli 84 e 85 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111, si applicano anche ai prodotti di cui al comma 1 secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 5 grammi di prodotti di cui al comma 1. 
+ 7-bis. Fuori dai casi di cui al comma 7, per le violazioni costituenti fattispecie di sottrazione dei prodotti di cui al comma 1 all'accertamento o al pagamento dell'imposta di consumo, si applicano le disposizioni di cui all'articolo 40-bis, commi 1, 2, 3 e 4, e 40-ter, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 5 grammi di prodotti di cui al comma 1. Per le medesime violazioni trova altresi' applicazione l'articolo 40-quater. 
+ 7-ter. Si applicano le disposizioni di cui all'articolo 40-quinquies, quando le condotte ivi descritte hanno a oggetto i prodotti previsti dal comma 1, secondo il criterio in base al quale un grammo convenzionale di tabacco lavorato equivale, sia ai fini dell'applicazione delle sanzioni che ai fini della determinazione delle soglie quantitative di riferimento, a 5 grammi di prodotti di cui al comma 1. 
+ 7-quater. Ai prodotti di cui al comma 1 si applicano, inoltre, le disposizioni di cui agli articoli 40-sexies, 44, 44-bis e 44-ter.».
 
 A decorrere dal 1° gennaio 2025, all'articolo 21, comma 11, secondo periodo, del decreto legislativo 12 gennaio 2016, n. 6, dopo le parole «La vendita a distanza dei prodotti» sono inserite le seguenti: «non contenenti nicotina».
 
+3.
+                    
+                        
+                            Al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative di cui al decreto legislativo 26 ottobre 1995, n. 504, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    all'articolo 39-ter, comma 2-bis, le parole: «esclusivamente o», sono soppresse;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo l'articolo 62-quater.1 e' inserito il seguente: 
+ «Art. 62-quater.2 (Prodotti da inalazione senza combustione costituiti da sostanze solide diverse dal tabacco). - 1. I prodotti da inalazione senza combustione, costituiti da sostanze solide diverse dal tabacco, contenenti o meno nicotina, con esclusione di quelli autorizzati all'immissione in commercio come medicinali ai sensi del decreto legislativo 24 aprile 2006, n. 219, sono assoggettati a imposta di consumo nella stessa misura prevista dall'articolo 39-terdecies, comma 3, per i prodotti di cui all'articolo 39-bis, comma 1, lettera e-bis), nel rispetto del criterio di equivalenza ivi previsto. Con provvedimento dell'Agenzia delle dogane e dei monopoli e' indicata la misura dell'imposta di consumo, determinata ai sensi del presente comma. Entro il 1° marzo di ogni anno, con provvedimento dell'Agenzia delle dogane e dei monopoli e' rideterminata, per i prodotti di cui al presente comma, la misura dell'imposta di consumo in riferimento alla variazione del prezzo medio ponderato delle sigarette. 
+ 2. Sono obbligati al pagamento dell'imposta di cui al comma 1: 
+ a) il fabbricante, per i prodotti ottenuti nel territorio nazionale; 
+ b) il soggetto cedente che adempie al medesimo pagamento e agli obblighi previsti dal presente articolo: 
+ 1) per i prodotti provenienti da uno Stato dell'Unione europea, direttamente, se il medesimo soggetto cedente ha sede nel territorio nazionale; 
+ 2) per i prodotti provenienti da un altro Stato dell'Unione europea, per il tramite di un rappresentante fiscale, se il medesimo soggetto cedente non ha sede nel territorio nazionale; 
+ c) l'importatore, per i prodotti provenienti da Paesi terzi. 
+ 3. I soggetti di cui al comma 2, lettere a) e b), numero 1), sono preventivamente autorizzati dall'Agenzia delle dogane e dei monopoli all'istituzione e alla gestione di un deposito in cui, rispettivamente, sono realizzati o introdotti i prodotti di cui al comma 1. A tal fine, i medesimi soggetti presentano all'Agenzia, esclusivamente in forma telematica, un'istanza in cui indicano, oltre ai propri dati identificativi, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al decreto del Ministro delle finanze 22 febbraio 1999, n. 67, l'ubicazione del deposito in cui si intende fabbricare o introdurre i prodotti di cui al comma 1, la denominazione e il contenuto dei prodotti di cui al medesimo comma 1 che si intende realizzare o immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'articolo 6 del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206. 
+ 4. Il rappresentante fiscale di cui al comma 2, lettera b), numero 2), designato dal soggetto cedente di cui al medesimo comma 2, lettera b), numero 2), e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli. A tale fine il medesimo rappresentante presenta all'Agenzia un'istanza, in forma telematica, in cui indica i propri dati identificativi e quelli del predetto soggetto cedente, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al decreto del Ministro delle finanze 22 febbraio 1999, n. 67, la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da altri Stati dell'Unione europea che si intende immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'articolo 6 del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206. 
+ 5. Il soggetto di cui al comma 2, lettera c), e' preventivamente autorizzato dall'Agenzia delle dogane e dei monopoli.
+A tale fine, il medesimo soggetto presenta all'Agenzia un'istanza, in forma telematica, in cui indica i propri dati identificativi, il possesso dei requisiti per la gestione dei depositi fiscali di tabacchi lavorati stabiliti dall'articolo 3 del regolamento di cui al decreto del Ministro delle finanze 22 febbraio 1999, n. 67, la denominazione e il contenuto dei prodotti di cui al comma 1 provenienti da Paesi terzi che si intende immettere in consumo nel territorio nazionale, la quantita' di prodotto presente in ciascuna confezione destinata alla vendita al pubblico nonche' gli altri elementi informativi previsti dall'articolo 6 del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206. 
+ 6. I soggetti obbligati di cui al comma 2, lettere a) e b), numero 1), prestano una cauzione nella misura del 10 per cento dell'imposta dovuta sul prodotto mediamente in giacenza nei dodici mesi solari precedenti e comunque non inferiore alla media dell'imposta dovuta in relazione a ciascuno dei dodici mesi solari precedenti. Il rappresentante fiscale di cui al comma 2, lettera b), numero 2), presta una cauzione in misura non inferiore alla media dell'imposta dovuta in relazione a ciascuno dei dodici mesi solari precedenti. Le cauzioni di cui al presente comma sono prestate con le modalita' di cui alla legge 10 giugno 1982, n. 348. 
+ 7. L'Agenzia delle dogane e dei monopoli, verificata l'idoneita' della cauzione prestata, rilascia ai soggetti di cui ai commi 3, 4 e 5, entro sessanta giorni dalla data di ricevimento dell'istanza e qualora ricorrano le condizioni, l'autorizzazione richiesta attribuendo al soggetto istante un codice d'imposta. 
+ 8. L'autorizzazione rilasciata dall'Agenzia delle dogane e dei monopoli di cui al comma 7 e' revocata in caso di violazione delle disposizioni in materia di liquidazione e versamento dell'imposta di consumo di cui al comma 1. La medesima autorizzazione decade nel caso in cui i soggetti autorizzati perdano il possesso dei requisiti soggettivi di cui ai commi 3, 4 e 5 o qualora venga meno la cauzione di cui al comma 6. 
+ 9. Per i soggetti obbligati di cui al comma 2, lettere a) e b), l'imposta dovuta e' determinata sulla base degli elementi indicati nella dichiarazione mensile che il soggetto medesimo deve presentare, ai fini dell'accertamento, entro il mese successivo a quello cui la dichiarazione si riferisce. Entro lo stesso termine e' effettuato il versamento dell'imposta dovuta. 
+ 10. Per i prodotti di cui al comma 1 provenienti da Paesi terzi, l'imposta di cui al comma 1 e' accertata e riscossa dall'Agenzia delle dogane e dei monopoli con le modalita' previste per i diritti di confine. 
+ 11. I prodotti di cui al comma 1 destinati a essere immessi in consumo nel territorio nazionale sono inseriti, su istanza dei soggetti di cui al comma 2, in una specifica tabella di commercializzazione; nella medesima istanza e' indicata la denominazione e il contenuto dei medesimi prodotti. L'inserimento dei prodotti di cui al presente comma nella tabella di commercializzazione e' effettuato solo per i prodotti di cui e' consentita la vendita per il consumo nel territorio nazionale. 
+ 12. L'immissione in consumo per i prodotti di cui al comma 1 si verifica: 
+ a) all'atto della cessione degli stessi alle rivendite di cui al comma 16; 
+ b) all'atto della definitiva importazione per i prodotti di cui al comma 1 provenienti da Stati non appartenenti all'Unione europea. 
+ 13. Per i prodotti di cui al comma 1 si applicano, per la presentazione e la vendita, i requisiti di cui all'articolo 21, comma 6, lettera c), del decreto legislativo 12 gennaio 2016, n. 6, nonche' le disposizioni di cui ai commi 9 e 10 dell'articolo 21 del medesimo decreto; trovano altresi' applicazione, per la riduzione dell'offerta e la tutela dei minori, le disposizioni di cui all'articolo 24 del medesimo decreto legislativo. La commercializzazione dei prodotti di cui al comma 1 e' soggetta alla vigilanza dell'Agenzia delle dogane e dei monopoli ai sensi delle disposizioni di cui all'articolo 18, per quanto applicabili. 
+ 14. Il trasferimento dei prodotti di cui al comma 1 nella fase antecedente alla loro immissione in consumo e' consentito esclusivamente dal deposito del soggetto di cui al comma 2, lettera a), al deposito del soggetto di cui al comma 2, lettera b), numero 1). 
+ 15. La circolazione e la vendita dei prodotti di cui al comma 1 e' legittimata mediante applicazione di appositi contrassegni sui singoli condizionamenti. 
+ 16. La vendita dei prodotti di cui al comma 1 ai consumatori finali e' effettuata in via esclusiva per il tramite delle rivendite di cui all'articolo 16 della legge 22 dicembre 1957, n. 1293. E' vietata la vendita a distanza, anche transfrontaliera, dei prodotti di cui al comma 1. 
+ 17. Le disposizioni di cui all'articolo 62-quater, commi 7-bis, 7-bis.1, 7-bis.2 e 7-bis.3, trovano applicazione anche per i prodotti di cui al comma 1 utilizzando i medesimi criteri di equivalenza ivi previsti. 
+ 18. Con determinazioni del direttore dell'Agenzia delle dogane e dei monopoli, adottate entro novanta giorni dalla data di entrata in vigore delle previsioni di cui al presente articolo, sono stabiliti: 
+ a) il contenuto e le modalita' di presentazione dell'istanza ai fini dell'autorizzazione di cui ai commi 3, 4 e 5; 
+ b) il contenuto e le modalita' di presentazione della richiesta di inserimento dei prodotti di cui al comma 1 nella tabella di commercializzazione di cui al comma 11; 
+ c) le modalita' per l'approvvigionamento dei contrassegni di legittimazione di cui al comma 15; 
+ d) le modalita' di tenuta dei registri e documenti contabili; 
+ e) le modalita' attuative delle disposizioni in materia di prestazione delle cauzioni di cui al comma 6; 
+ f) la documentazione di accompagnamento e le modalita' per la circolazione dei prodotti di cui al comma 1 nella fase antecedente alla loro immissione in consumo.».
+
 ## Art. 4. — Modifiche al decreto legislativo 8 giugno 2001, n. 231
+
+1.
+                    
+                        
+                            All'articolo 25-sexiesdecies del decreto legislativo 8 giugno 2001, n. 231, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «dal decreto del Presidente della Repubblica 23 gennaio 1973, n. 43
+                                        » sono sostituite dalle seguenti: «dalle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111, e dal testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504
+                                        »;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole: «i diritti di confine» sono sostituite dalle seguenti: «le imposte o i diritti di confine»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, sono aggiunte, in fine, le seguenti parole: «e, nel solo caso previsto dal comma 2, anche le sanzioni interdittive previste dall'articolo 9, comma 2, lettere a) e b)».
 
 ## Art. 5. — Modifiche al codice di procedura penale
 
@@ -45,6 +356,28 @@ All'articolo 51, comma 3-bis, del codice di procedura penale, le parole: «dall'
                                 ».
 
 ## Art. 6. — Modifiche in materia di Iva all'importazione
+
+1.
+                    
+                        
+                            All'articolo 67 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2-bis, le parole: «all'allegato 72 del regolamento (CEE) n. 2454/93 della Commissione, del 2 luglio 1993, e successive modificazioni» sono sostituite dalle seguenti: «all'allegato 71-03 del regolamento delegato (UE) 2015/2446 della Commissione, del 28 luglio 2015»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 2-ter, e' aggiunto il seguente: 
+ «2-quater. Nell'ambito dell'analisi dei rischi effettuata secondo i principi stabili dal Codice doganale dell'Unione, di cui al regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, qualora venga richiesta la documentazione indicata al comma 2-ter, l'autorita' doganale puo' esigere la costituzione di una cauzione pari all'importo dell'imposta sospesa.
+L'autorita' doganale procede all'incameramento della cauzione se, entro quarantacinque giorni dallo svincolo delle merci, non pervenga la predetta documentazione. L'autorita' doganale provvede, altresi', all'incameramento della cauzione, qualora tale documentazione non sia ritenuta comprovante l'effettivo trasferimento dei beni oggetto dell'importazione in un altro Stato membro dell'Unione europea. La cauzione non e' richiesta ai soggetti in possesso dell'autorizzazione prevista dall'articolo 38 del regolamento (UE) n. 952/2013 e a quelli esonerati ai sensi dell'articolo 51 delle disposizioni nazionali complementari al codice doganale dell'Unione, di cui al decreto legislativo emanato ai sensi degli articoli 11 e 20, commi 2 e 3, della legge 9 agosto 2023, n. 111.».
 
 ## Art. 7. — Disposizioni finali e di coordinamento
 
@@ -55,6 +388,121 @@ Sono fatte salve le procedure di revisione delle dichiarazioni previste dal test
 Le sanzioni amministrative di cui all'allegato 1 e all'articolo 3 si applicano alle violazioni commesse a partire dalla data di entrata in vigore del presente decreto.
 
 ## Art. 8. — Abrogazioni
+
+1.
+                    
+                        
+                            A decorrere dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il regio decreto 13 febbraio 1896, n. 65;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    gli articoli 64, 65, 66, 73, 75 e 96 della legge 17 luglio 1942, n. 907;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    gli articoli 2, 3, 4 e 8 della legge 3 gennaio 1951, n. 27;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    il decreto del Presidente della Repubblica 2 febbraio 1970, n. 62;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    gli articoli 125, 126, 127 e 128 del decreto del Presidente della Repubblica 18 febbraio 1971, n. 18;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    il decreto del Presidente della Repubblica 23 gennaio 1973, n. 43;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    il decreto legislativo 8 novembre 1990, n. 374;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    gli articoli 3, 4, 5 e 6 del decreto legislativo 9 novembre 1990, n. 375;
+                                
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    l'articolo 5 della legge 18 gennaio 1994, n. 50;
+                                
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    l'articolo 20 della legge 27 dicembre 1997, n. 449;
+                                
+                            
+                        
+                        
+                            m)
+                            
+                                
+                                    gli articoli 2, 4, 6, 7, 8, commi 1 e 4, e 9 della legge 25 luglio 2000, n. 213;
+                                
+                            
+                        
+                        
+                            n)
+                            
+                                
+                                    gli articoli 2, 3 e 7, comma 2, della legge 19 marzo 2001, n. 92;
+                                
+                            
+                        
+                        
+                            o)
+                            
+                                
+                                    l'articolo 35, comma 35, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248;
+                                
+                            
+                        
+                        
+                            p)
+                            
+                                il decreto del Ministero delle finanze 2 luglio 1941, pubblicato nella Gazzetta Ufficiale n. 166 del 16 luglio 1941.
 
 ## Art. 9. — Disposizioni finanziarie
 

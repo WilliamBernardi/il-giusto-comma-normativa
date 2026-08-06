@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-11-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -76,11 +76,89 @@ Nell'ambito del Piano sanitario nazionale di cui all'articolo 1 del decreto legi
 
 Il Progetto obiettivo di cui al comma 1 ha durata triennale ed e' approvato con decreto di natura non regolamentare del Ministro della sanita' e del Ministro di grazia e giustizia, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica d'intesa con la Conferenza unificata di cui all'articolo 8 dei decreto legislativo 28 agosto 1997, n. 281. In sede di prima applicazione, il Progetto obiettivo e' approvato entro sessanta giorni dalla data di entrata in vigore del presente decreto legislativo.
 
+3.
+                    
+                        
+                            Nel Progetto obiettivo di cui al comma 1 sono definiti gli indirizzi alle regioni, volti a garantire gli obiettivi di salute dei detenuti e degli internati. Il Progetto obiettivo indica, in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                gli indirizzi specifici finalizzati ad orientare il Servizio sanitario nazionale verso il miglioramento continuo dell'assistenza negli istituti penitenziari;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i modelli organizzativi dei servizi sanitari penitenziari anche di tipo dipartimentale differenziati secondo la tipologia di istituto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le esigenze relative alla formazione specifica dell'assistenza sanitaria in ambito penitenziario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le linee-guida finalizzate a favorire all'interno degli istituti penitenziari lo sviluppo delle modalita' sistematiche di revisione e valutazione dell'assistenza erogata ad assicurare l'applicazione dei livelli uniformi, essenziali e appropriati di assistenza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli obiettivi di salute da raggiungere nel triennio nell' ambito degli istituti penitenziari.
+
 Nella determinazione dei criteri generali di valutazione dell'attivita' dei direttori generali le regioni tengono conto anche del raggiungimento degli obiettivi di salute e di funzionamento dei servizi sanitari negli istituti penitenziari, con riferimento alle risorse disponibili e alle caratteristiche degli istituti penitenziari medesimi.
 
 Le regioni danno attuazione, nell'ambito dei propri piani sanitari regionali, agli indirizzi contenuti nel Piano sanitario nazionale, sentiti i provveditorati regionali dell'Amministrazione penitenziaria, anche prevedendo specifici, progetti di intervento in materia di assistenza sanitaria nei confronti dei detenuti e degli internati. La mancanza del Piano sanitario regionale comporta l'applicazione del Progetto obiettivo per la tutela della salute in ambito penitenziario di cui al comma 1.
 
 Trascorso un anno dalla data di entrata in vigore del Progetto obiettivo di cui al comma 1 senza che la regione abbia provveduto a dare attuazione a quanto previsto dal comma 5, il Ministero delle sanita' sentita la regione interessata, fissa un termine non inferiore a tre mesi per provvedervi. Decorso tale termine il Consiglio dei Ministri, su proposta del Ministro della sanita' e del Ministro di grazia e giustizia, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, adotta gli atti necessari per dare attuazione nella regione al Progetto obiettivo per la tutela della salute in ambito penitenziario, anche mediante la nomina di commissari ad acta.
+
+7.
+                    
+                        
+                            La Relazione sullo stato sanitario del Paese, predisposta annualmente dal Ministro della sanita', e' integrata con un apposito capitolo sull'assistenza sanitaria negli istituti penitenziari, redatto d'intesa con il Ministero di grazia e giustizia, nel quale sono:
+ 
+                        
+                        
+                            a)
+                            
+                                illustrate le condizioni di salute della popolazione detenuta e internata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                descritte le risorse impiegate e le attivita' svolte dal Servizio sanitario nazionale negli istituti penitenziari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esposti i risultati conseguiti rispetto agli obiettivi finali stabiliti nel Progetto obiettivo per la tutela della salute in ambito penitenziario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                illustrati i risultati conseguiti dalle regioni rispetto all'attuazione di piani sanitari regionali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fornite indicazioni per l'elaborazione delle politiche sanitarie e per la programmazione degli interventi in ambito penitenziario
 
 ## Art. 6. — Personale e strutture
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2018-05-18;61
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,43 @@ Acquisiti i pareri delle competenti Commissioni speciali per l'esame degli atti 
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro del lavoro e delle politiche sociali, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia, dell'economia e delle finanze e delle infrastrutture e dei trasporti;
 
 ## Art. 1. — Modifiche al decreto legislativo 22 giugno 2012, n. 113
+
+1.
+                    
+                        
+                            Al decreto legislativo 22 giugno 2012, n. 113, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, il comma 5 e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, comma 1, sono apportate le seguenti modificazioni: 
+ 1) le lettere a) e b), sono sostituite dalle seguenti: 
+ «a) stabilimento, l'unita' produttiva o la nave; 
+ b) impresa di dimensioni comunitarie, un'impresa che impiega almeno 1.000 lavoratori negli Stati membri e almeno 150 lavoratori per Stato membro in almeno due Stati membri ovvero un'impresa marittima che impiega almeno 1000 lavoratori marittimi su navi battenti bandiere comunitarie e che impiega almeno 150 lavoratori marittimi su almeno due navi battenti bandiera comunitaria;»; 
+ 2) la lettera d) e' sostituita dalla seguente: 
+ «d) gruppo di imprese di dimensioni comunitarie, un gruppo di imprese, anche marittime, che soddisfa le condizioni seguenti: 
+ 1) il gruppo impiega almeno 1000 lavoratori negli Stati membri o impiega almeno 1000 lavoratori marittimi su navi battenti bandiere comunitarie; 
+ 2) almeno due imprese del gruppo si trovano in Stati membri diversi; 
+ 3) almeno un'impresa del gruppo impiega non meno di 150 lavoratori in uno Stato membro e almeno un'altra impresa del gruppo impiega non meno di 150 lavoratori in un altro Stato membro ovvero, nel caso di imprese marittime, almeno un'impresa marittima del gruppo impiega non meno di 150 lavoratori marittimi su navi battenti una bandiera comunitaria e almeno un'altra impresa marittima del gruppo impiega non meno di 150 lavoratori su navi battenti un'altra bandiera comunitaria;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 12 sono apportate le seguenti modificazioni: 
+ 1) al comma 1 e' aggiunto, in fine, il seguente periodo: «In caso di lavoratori marittimi resta fermo quanto previsto dall'articolo 35, terzo comma, della legge 20 maggio 1970, n. 300.»; 
+ 2) dopo il comma 4, e' aggiunto il seguente: 
+ «4-bis. Un membro della delegazione speciale di negoziazione o del Cae, o il suo supplente, che siano componenti dell'equipaggio di una nave marittima, sono autorizzati a partecipare a una riunione della delegazione speciale di negoziazione o del Cae o a qualsiasi altra riunione tenuta nell'ambito delle procedure per l'informazione e la consultazione, se, quando la riunione ha luogo, tali membri o i rispettivi supplenti non sono in mare ne' si trovano in un porto di un Paese diverso da quello in cui ha sede la societa' di navigazione.
+Ove possibile, le riunioni sono fissate in modo da facilitare la partecipazione dei membri, o dei loro supplenti, che sono componenti dell'equipaggio di navi marittime. Nel caso in cui un membro di una delegazione speciale di negoziazione o di un Cae o il suo supplente, che siano componenti dell'equipaggio di una nave marittima, non siano in grado di presenziare a una riunione, si considera l'eventualita' di fare ricorso, ove possibile, alle nuove tecnologie d'informazione e di comunicazione.».
 
 ## Art. 2. — Modifiche alla legge 23 luglio 1991, n. 223
 

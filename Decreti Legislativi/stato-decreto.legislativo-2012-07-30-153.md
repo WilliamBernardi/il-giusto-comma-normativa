@@ -8,8 +8,8 @@ codice_redazionale: 012G0174
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,6 +36,38 @@ Lo Sportello costituisce l'ufficio in cui unitariamente le amministrazioni coinv
 Attivita' di coordinamento
 
 Al fine di valutare particolari problematiche emergenti dai procedimenti trattati e di assicurare il raccordo operativo delle attivita' svolte dalle amministrazioni coinvolte, con decreto del prefetto e' istituito presso ogni prefettura - ufficio territoriale del Governo un Tavolo tecnico provinciale di coordinamento, composto, oltre che dal presidente, coordinatore dello Sportello per l'immigrazione, da quattro componenti.
+
+2.
+                    
+                        
+                            La designazione dei componenti dei Tavoli tecnici di cui al comma 1 avviene come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                un componente designato dalla prefettura - ufficio territoriale del Governo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un componente designato dalla questura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un componente designato dalla regione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un componente designato dalla provincia.
 
 Al fine di assicurare omogenee linee di indirizzo, il coordinamento ed il monitoraggio relativo all'attivita' degli Sportelli per l'immigrazione sul territorio regionale, e' istituito con decreto del Commissario del Governo della regione Friuli-Venezia Giulia il Tavolo tecnico regionale, composto dai Tavoli tecnici provinciali di cui al comma 1 e presieduto dal Commissario di Governo della regione o da suo delegato.
 

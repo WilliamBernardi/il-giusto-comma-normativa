@@ -8,8 +8,8 @@ codice_redazionale: 010G0019
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -33,6 +33,24 @@ Sulla proposta dell'Avvocato generale;
 Al fondo perequativo dei proventi derivanti agli avvocati e procuratori dello Stato da incarichi arbitrali, istituito presso l'Avvocatura generale dello Stato dall'articolo 43, comma 3, della legge 18 giugno 2009, n. 69, affluiscono i relativi importi riassegnati dall'amministrazione finanziaria dello Stato ai sensi dell'articolo 61, comma 9, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133.
 
 ## Art. 2. — Modalita' di gestione e di ripartizione delle somme
+
+1.
+                    
+                        
+                            Le somme versate nel fondo sono ripartite fra gli avvocati e procuratori in servizio, in proporzione allo stipendio determinato in base alle tabelle di cui alla legge 2 aprile 1979, n. 97 e alla legge 19 febbraio 1981, n. 27, maggiorato degli aumenti derivanti dalla progressione economica relativa alla sola anzianita' di servizio effettivamente prestato nella qualifica e classe di appartenenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                per il cinquanta per cento fra gli avvocati e procuratori di ciascun ufficio cui appartiene l'avvocato o procuratore che ha espletato la funzione di arbitro alla quale inerisce la quota di compenso versata al fondo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il restante cinquanta per cento fra tutti gli avvocati e procuratori dello Stato in servizio.
 
 La ripartizione viene effettuata quadrimestralmente, secondo le modalita' di cui agli articoli 3, 10, 11, 12 commi secondo, terzo, quarto e quinto, 14, 15 e 16 del decreto del Presidente del Consiglio dei Ministri 29 febbraio 1972, recante «regolamento per la riscossione, da parte dell'avvocatura dello Stato, degli onorari e delle competenze di spettanza e per la relativa ripartizione», e successive modificazioni.
 

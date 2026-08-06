@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-12-15;233
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,25 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 
 ## Art. 1. — Modifiche alla parte I del decreto legislativo 
  24 febbraio 1998, n. 58
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo la lettera m-octies) e' inserita la seguente: 
+ «m-octies.1) "fondo di investimento europeo a lungo termine" (ELTIF): l'Oicr rientrante nell'ambito di applicazione del regolamento (UE) n. 2015/760;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera q-bis) le parole: «e il gestore di EuSEF» sono sostituite dalle seguenti: «, il gestore di EuSEF e il gestore di ELTIF».
 
 All'articolo 4-quinquies, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, dopo le parole: «sentita la Consob» sono inserite le seguenti: «per i soggetti non iscritti agli albi previsti dagli articoli 35 e 35-ter».
 
@@ -44,6 +63,25 @@ Dopo l'articolo 4-quinquies, del decreto legislativo 24 febbraio 1998, n. 58, e'
 ## Art. 2. — Modifiche alla parte V, titolo II, del decreto legislativo 24 febbraio 1998, n. 58
 
 All'articolo 188, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, dopo le parole: «"fondo europeo per l'imprenditoria sociale";» sono inserite le seguenti: «"ELTIF" o "fondo di investimento europeo a lungo termine";», e le parole: «e n. 346/2013, relativo ai fondi europei per l'imprenditoria sociale (EuSEF)» sono sostituite dalle seguenti: «n. 346/2013, relativo ai fondi europei per l'imprenditoria sociale (EuSEF) e n. 2015/760, relativo ai fondi di investimento europei a lungo termine.».
+
+2.
+                    
+                        
+                            All'articolo 190 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2-bis, lettera b-bis), dopo le parole: «della Commissione» sono inserite le seguenti: «, del regolamento (UE) n. 2015/760,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2-bis e' inserito il seguente: 
+ «2-bis.1. La medesima sanzione prevista dal comma 1 si applica anche in caso di inosservanza delle norme tecniche di regolamentazione e di attuazione relative ai regolamenti di cui al comma 2-bis, lettere a), b), b-bis) e b-ter), emanate dalla Commissione europea ai sensi degli articoli 10 e 15 del regolamento (CE) n. 1095/2010.».
 
 ## Art. 3. — Clausola di invarianza finanziaria
 

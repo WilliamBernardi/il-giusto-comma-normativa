@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-12-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,7 +30,43 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro per la 
 
 ## Art. 1. — Modifiche all'articolo 5 della legge 16 febbraio 1913, n. 89
 
+1.
+                    
+                        
+                            All'articolo 5, primo comma, della legge 16 febbraio 1913, n. 89, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i numeri 4° e 5° sono sostituiti dai seguenti:
+ «4° essere fornito della laurea in giurisprudenza o della laurea specialistica o magistrale in giurisprudenza date o confermate da una universita' italiana o di titolo riconosciuto equipollente ai sensi della legge 11 luglio 2002, n. 148;
+ 5° avere ottenuto l'iscrizione fra i praticanti presso un Consiglio notarile ed aver fatto la pratica per diciotto mesi, di cui almeno per un anno continuativamente dopo la laurea. La pratica si effettua, dopo l'iscrizione nel registro dei praticanti, presso un notaro del distretto, designato dal praticante, col consenso del notaro stesso e con l'approvazione del Consiglio. Su richiesta dell'interessato spetta al consiglio notarile la designazione del notaio presso cui effettuare la pratica. L'iscrizione nel registro dei praticanti puo' essere ottenuta dopo l'iscrizione all'ultimo anno del corso di laurea o di laurea specialistica o magistrale in giurisprudenza. Il periodo di pratica si deve comunque completare entro trenta mesi dall'iscrizione nel suddetto registro. In caso di scadenza del suddetto termine il periodo effettuato prima del conseguimento della laurea non e' computato. Il periodo anteriore al conseguimento della laurea puo' essere computato, ai fini del raggiungimento dei diciotto mesi di pratica, per un massimo di sei mesi, indipendentemente dalla sua effettiva durata. Per coloro che sono stati funzionari dell'ordine giudiziario almeno per un anno, per gli avvocati in esercizio da almeno un anno, e' richiesta la pratica per un periodo continuativo di otto mesi;».
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il numero 6° e' aggiunto, in fine, il seguente:
+ «6°-bis aver espletato per almeno centoventi giorni, dopo l'avvenuto superamento della prova orale, un periodo di tirocinio obbligatorio presso uno o piu' notai, che devono certificarne la durata. Tale periodo deve essere registrato presso i consigli notarili dei distretti in cui viene effettuato. Il candidato notaio puo' richiedere la designazione del notaio al presidente del consiglio notarile del distretto nel quale e' stato ultimato il periodo di pratica ovvero puo' espletarlo presso notai dello stesso o di altri distretti, i quali lo abbiano designato direttamente.
+L'eventuale periodo di coadiutorato e' computato quale tirocinio obbligatorio.».
+
 ## Art. 2. — Modifiche all'articolo 5-bis della legge 16 febbraio 1913, n. 89
+
+1.
+                    
+                        
+                            All'articolo 5-bis della legge 16 febbraio 1913, n. 89, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 5 e' sostituito dai seguenti:
+ «5. Sono comunque esonerati dalla prova di preselezione informatica coloro che hanno conseguito l'idoneita' in un precedente concorso.
+ 5-bis. Il superamento della prova di preselezione informatica da' diritto all'espletamento delle prove scritte del concorso al quale si riferisce la prova e dei due successivi.
+ 5-ter. Prima dell'inizio di ciascuna sessione il candidato puo' ritirare dei fogli bianchi messi a disposizione dalla commissione per prendere appunti. I fogli non devono essere restituiti.».
 
 ## Art. 3. — Modifiche all'articolo 5-ter della legge 16 febbraio 1913, n. 89
 
@@ -49,7 +85,49 @@ L'articolo 45 della legge 16 febbraio 1913, n. 89, e' sostituito dal seguente:
 
 ## Art. 5. — Composizione della commissione esaminatrice
 
+1.
+                    
+                        
+                            La commissione esaminatrice del concorso per notaio di cui all'articolo 1, primo comma, della legge 6 agosto 1926, n. 1365, da nominarsi almeno dieci giorni prima dell'inizio della prova con decreto del Ministro della giustizia, e' unica ed e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                un magistrato di cassazione dichiarato idoneo ad essere ulteriormente valutato ai fini della nomina alle funzioni direttive superiori, con funzioni di legittimita', che la presiede; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                un magistrato di qualifica non inferiore a quella di magistrato dichiarato idoneo ad essere ulteriormente valutato ai fini della nomina a magistrato di cassazione con funzioni di vice presidente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((sette)) magistrati con qualifica di magistrato di appello; ((2))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((sei)) professori universitari, ordinari o associati, che insegnino materie giuridiche; ((2))
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((nove)) notai, ((...)), che abbiano almeno dieci anni di anzianita' nella professione. ((2))
+
+((1-bis. I componenti della commissione, aventi le qualifiche di cui al comma 1, possono anche essere in pensione da non piu' di cinque anni))
 
 ((2))
 
@@ -75,6 +153,31 @@ L'esame scritto del concorso per notaio consta di tre distinte prove teorico-pra
 In ciascun tema sono richiesti la compilazione dell'atto e lo svolgimento dei principi attinenti agli istituti giuridici relativi all'atto stesso.
 
 ## Art. 7. — Prove orali
+
+1.
+                    
+                        
+                            L'esame orale del concorso per notaio consta di tre distinte prove sui seguenti gruppi di materie:
+ 
+                        
+                        
+                            a)
+                            
+                                diritto civile, commerciale e volontaria giurisdizione, con particolare riguardo agli istituti giuridici in rapporto ai quali si esplica l'ufficio di notaio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                disposizioni sull'ordinamento del notariato e degli archivi notarili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                disposizioni concernenti i tributi sugli affari.
 
 ## Art. 8. — Svolgimento delle prove scritte
 
@@ -157,9 +260,65 @@ Il segretario annota la votazione o la motivazione per ciascun gruppo di materie
 
 ## Art. 13. — Modifiche alla legge 6 agosto 1926, n. 1365
 
+1.
+                    
+                        
+                            Alla legge 6 agosto 1926, n. 1365, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, terzo comma, come modificato dall'articolo 1, comma 2, della legge 26 luglio 1995, n. 328, la lettera b) e' sostituita dalla seguente:
+ «b) non aver compiuto gli anni cinquanta alla data del bando di concorso;»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo l'articolo 2, e' inserito il seguente:
+ «Art. 2-bis. - 1. I vincitori del concorso, collocati in graduatoria dopo l'adozione del decreto con il quale sono state conferite le nomine agli altri vincitori del medesimo concorso, conseguono la nomina a notaio in base alla scelta che sara' esercitata nell'ambito dei posti disponibili al momento della loro collocazione in graduatoria, in quanto non assegnati nei concorsi per trasferimento.».
+
 ## Art. 14. — Modifiche alla legge 30 aprile 1976, n. 197
 
+1.
+                    
+                        
+                            Dopo l'articolo 1 della legge 30 aprile 1976, n. 197, e' inserito il seguente:
+ 
+                        
+                        
+                            a)
+                            
+                                «Art. 1-bis (Trasferimento dei notai perdenti posto). - 1. I notai perdenti posto a seguito di sentenza irrevocabile che determina l'attribuzione del posto ad altro concorrente sono trasferiti in soprannumero nel capoluogo.».
+
 ## Art. 15. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogate le seguenti norme:
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 1 del regio decreto 22 dicembre 1932, n. 1728;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli articoli 13, 14, primo comma, 15, 16, 17, 19, ottavo comma, 22, 24 e 25 del regio decreto 14 novembre 1926, n. 1953;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero 22 dell'allegato A della legge 24 novembre 2000, n. 340.
 
 ## Art. 16. — Disposizione transitoria
 

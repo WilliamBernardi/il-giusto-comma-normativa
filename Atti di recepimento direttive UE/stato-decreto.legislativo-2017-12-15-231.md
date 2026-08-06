@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2026-05-29
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:51Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -160,6 +160,48 @@ Per i prodotti alimentari preimballati l'indicazione del lotto figura sull'imbal
 
 Per i prodotti alimentari non preimballati l'indicazione del lotto figura sull'imballaggio o sul recipiente o, in mancanza, sui relativi documenti commerciali di vendita.
 
+7.
+                        
+                            
+                                L'indicazione del lotto non e' richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando il termine minimo di conservazione o la data di scadenza figurano con la menzione almeno del giorno e del mese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i gelati monodose, venduti tal quali, e sempre che essa figuri sull'imballaggio globale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i prodotti agricoli, all'uscita dall'azienda agricola, nei seguenti casi: 
+ 1) venduti o consegnati a centri di deposito, di condizionamento o di imballaggio; 
+ 2) avviati verso organizzazioni di produttori; 
+ 3) raccolti per essere immediatamente integrati in un sistema operativo di preparazione o trasformazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i prodotti alimentari non preimballati di cui all'articolo 44 del regolamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le confezioni ed i recipienti il cui lato piu' grande abbia una superficie inferiore a 10 cm².
+
 ## Art. 18. — Distributori automatici
 
 Fatte salve le ulteriori indicazioni obbligatorie prescritte da norme nazionali e dell'Unione europea per tipi o categorie specifici di alimenti, nel caso di distribuzione di alimenti non preimballati messi in vendita tramite distributori automatici o locali commerciali automatizzati, devono essere riportate sui distributori e per ciascun prodotto le indicazioni di cui all'articolo 9, paragrafo 1, lettere a), b) e c), del regolamento, nonche' il nome o la ragione sociale o il marchio depositato e la sede dell'impresa responsabile della gestione dell'impianto.
@@ -169,6 +211,59 @@ Le indicazioni di cui al comma 1 devono essere riportate in lingua italiana ed e
 ## Art. 19. — Vendita di prodotti non preimballati
 
 I prodotti alimentari offerti in vendita al consumatore finale o alle collettivita' senza preimballaggio, i prodotti imballati sui luoghi di vendita su richiesta del consumatore, i prodotti preimballati ai fini della vendita diretta, nonche' i prodotti non costituenti unita' di vendita ai sensi dell'articolo 2, paragrafo 2, lettera e), del regolamento in quanto generalmente venduti previo frazionamento ancorche' posti in confezione o involucro protettivo, esclusi gli alimenti di cui al comma 8 forniti dalle collettivita', devono essere muniti di apposito cartello applicato ai recipienti che li contengono oppure di altro sistema equivalente, anche digitale, facilmente accessibile e riconoscibile, presente nei comparti in cui sono esposti. Sono fatte salve le prescrizioni stabilite in materia dai disciplinari di produzione per i prodotti DOP e IGP. Le fascette e le legature, anche se piombate, non sono considerate imballaggio.
+
+2.
+                        
+                            
+                                Fatte salve le ulteriori indicazioni obbligatorie prescritte per i prodotti non preimballati da norme nazionali e dell'Unione europea, sul cartello devono essere riportate almeno le seguenti indicazioni, che, nel caso di fornitura diretta alle collettivita', possono essere riportate su un documento commerciale, anche in modalita' telematica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione dell'alimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco degli ingredienti salvo i casi di esenzione disposti dal regolamento. Nell'elenco ingredienti devono figurare le indicazioni delle sostanze o prodotti di cui all'Allegato II del regolamento, con le modalita' e le esenzioni prescritte dall'articolo 21 del medesimo regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di conservazione per i prodotti alimentari rapidamente deperibili, ove necessario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la data di scadenza per le paste fresche e le paste fresche con ripieno di cui al decreto del Presidente della Repubblica 9 febbraio 2001, n. 187; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il titolo alcolometrico volumico effettivo per le bevande con contenuto alcolico superiore a 1,2 per cento in volume; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la percentuale di glassatura, considerata tara, per i prodotti congelati glassati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la designazione «decongelato» di cui all'Allegato VI, punto 2, del regolamento, fatti salvi i casi di deroga previsti.
 
 Per i prodotti della gelateria, della pasticceria, della panetteria, della pasta fresca e della gastronomia, ivi comprese le preparazioni alimentari, l'elenco degli ingredienti puo' essere riportato su un unico e apposito cartello tenuto ben in vista oppure, per singoli prodotti, su apposito registro o altro sistema equivalente, anche digitale, da tenere bene in vista, a disposizione dell'acquirente, in prossimita' dei banchi di esposizione dei prodotti stessi purche' le indicazioni relative alle sostanze o prodotti di cui all'Allegato II del regolamento siano riconducibili ai singoli alimenti posti in vendita.
 
@@ -272,6 +367,49 @@ Le amministrazioni pubbliche interessate all'attuazione delle disposizioni di cu
 ## Art. 30. — Abrogazioni
 
 E' abrogato il decreto legislativo 27 gennaio 1992, n. 109. Il richiamo agli articoli 13, 15, 16 e 17 del decreto legislativo 27 gennaio 1992, n. 109, contenuto in altre disposizioni normative, deve intendersi riferito rispettivamente agli articoli 17, 18, 19 e 20 del presente decreto. I richiami all'articolo 18 del decreto legislativo 27 gennaio 1992, n. 109, contenuti nelle vigenti disposizioni, si intendono effettuati ai corrispondenti articoli del presente decreto.
+
+2.
+                        
+                            
+                                Sono altresi' abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 7 del decreto del Presidente della Repubblica 26 maggio 1980, n. 391; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto legislativo 16 febbraio 1993, n. 77.
+
+3.
+                        
+                            
+                                Alla legge 3 maggio 1989 n. 169, sono soppressi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 5, comma 3, ultimo periodo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 6, comma 1, lettera a), limitatamente alle parole: «, con data di riferimento di 180 giorni dal confezionamento»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 6, comma 1, lettera b), limitatamente alle parole: «, con data di riferimento di 90 giorni dal confezionamento».
 
 ## Art. 31. — Entrata in vigore
 

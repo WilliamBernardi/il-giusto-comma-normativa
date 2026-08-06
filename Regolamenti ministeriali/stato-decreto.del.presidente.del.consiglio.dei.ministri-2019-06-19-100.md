@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2026-01-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -33,6 +33,52 @@ Il presente regolamento ha ad oggetto l'organizzazione degli uffici di diretta c
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per «Ministro», il Ministro della giustizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «Ministero», il Ministero della giustizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «Sottosegretari di Stato», i sottosegretari di Stato presso il Ministero della giustizia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per «Oiv», l'Organismo indipendente di valutazione della performance di cui all'articolo 14 del decreto legislativo 27 ottobre 2009, n. 150; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per «Struttura tecnica», la struttura tecnica permanente per la misurazione della performance di cui all'articolo 14, comma 9, del decreto legislativo 27 ottobre 2009, n. 150; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per «decreto legislativo», il decreto legislativo 30 luglio 1999, n. 300.
+
 ## - Capo II Uffici di diretta collaborazione
 
 ## Art. 3. — Indirizzo politico-amministrativo
@@ -42,6 +88,52 @@ Il Ministro e' l'organo di direzione politica del Ministero ed esercita i compit
 I Sottosegretari di Stato coadiuvano il Ministro e svolgono le funzioni ed i compiti ad essi delegati. Il Sottosegretario di Stato delegato dal Ministro presiede il Consiglio di amministrazione di cui all'articolo 146 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3. I Sottosegretari di Stato, nello svolgimento delle loro funzioni e compiti, si avvalgono dell'Ufficio di Gabinetto e dell'Ufficio legislativo in relazione alle rispettive competenze.
 
 ## Art. 4. — Uffici di diretta collaborazione
+
+1.
+                        
+                            
+                                Per l'espletamento delle funzioni del Ministero sono istituiti i seguenti uffici di diretta collaborazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Segreteria del Ministro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Segreterie dei Sottosegretari di Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Gabinetto del Ministro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Ufficio legislativo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Ispettorato generale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Ufficio comunicazione e stampa.
 
 ## Art. 5. — Principi generali
 
@@ -70,6 +162,40 @@ Alle segreterie dei Sottosegretari di Stato si applicano le disposizioni del pre
 ## Art. 7. — Gabinetto del Ministro
 
 Per l'esercizio delle funzioni di cui all'articolo 3, comma 1, il Ministro si avvale dell'Ufficio di Gabinetto, salve le specifiche competenze della segreteria del Ministro, delle segreterie dei Sottosegretari di Stato, dell'Ufficio legislativo e dell'Ispettorato generale. Per lo svolgimento delle sue funzioni, l'Ufficio di Gabinetto, servendosi delle informazioni trasmesse dagli altri uffici e dipartimenti del Ministero, assicura i rapporti con l'Ufficio legislativo e l'Ispettorato generale e il coordinamento degli altri uffici di diretta collaborazione, nonche' il raccordo tra le funzioni di indirizzo del Ministro e le attivita' dei dipartimenti del Ministero. L'Ufficio di Gabinetto tiene altresi' i rapporti con gli organi istituzionali e con enti e organizzazioni pubblici e privati.
+
+2.
+                        
+                            
+                                L'Ufficio di Gabinetto cura specificamente: 
+                            
+                            
+                                a)
+                                
+                                    i rapporti con il Parlamento, per quanto concerne il sindacato ispettivo;
+                                
+                            
+                            
+                                b)
+                                
+                                    i rapporti con il Consiglio superiore della magistratura, per quanto concerne le attribuzioni proprie del Ministro in ordine ai magistrati;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivita' di supporto per la definizione degli obiettivi e per la ripartizione delle risorse;
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    la formulazione di pareri in ordine alle proposte finalizzate alle assegnazioni di personale nell'ambito delle articolazioni dell'amministrazione centrale;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esame degli atti ai fini dell'inoltro alla firma del Ministro e dei Sottosegretari di Stato.
 
 L'Ufficio di Gabinetto, avvalendosi di specifiche professionalita', cura l'attivita' di coordinamento tra i diversi centri di responsabilita' per la formazione dei documenti di bilancio e per i rapporti con gli organi di controllo e l'attivita' connessa alla presentazione dei principali documenti di finanza pubblica e della legge di bilancio, nonche' la predisposizione, in raccordo con l'Ufficio legislativo, delle relazioni tecniche e delle norme di copertura di provvedimenti normativi di iniziativa dell'amministrazione.
 
@@ -108,6 +234,31 @@ Entro il contingente complessivo di cui ai commi 1 e 2, possono essere assegnati
 Nei limiti di cui al comma 3, secondo periodo, e nel rispetto del criterio di invarianza della spesa di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, il Ministro puo' nominare, tra soggetti aventi specifica esperienza professionale o scientifica, fino a tre consiglieri.
 
 Nell'ambito del contingente complessivo stabilito dai commi 1, 2 e 3, e tenendo conto delle disposizioni del decreto legislativo concernenti la presenza dei magistrati al Ministero, e' individuato, per lo svolgimento di funzioni attinenti ai compiti di diretta collaborazione, un numero di specifici incarichi di livello dirigenziale ((non generale non superiore a quaranta, nonche' un incarico dirigenziale di livello generale per le funzioni di cui al comma 3-bis dell'articolo 7)), ai sensi e per gli effetti di cui all'articolo 19, comma 10, del decreto legislativo 30 marzo 2001, n. 165.
+
+6.
+                        
+                            
+                                Ai responsabili degli uffici di diretta collaborazione spetta un trattamento economico onnicomprensivo, determinato con le modalita' di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e determinato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il Capo di Gabinetto, per il Capo dell'ufficio legislativo e per il Capo dell'Ispettorato generale, in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti ad ufficio dirigenziale generale incaricati ai sensi dell'articolo 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165, ed in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai capi dei dipartimenti del Ministero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i vice capi degli uffici di cui all'articolo 4, comma 1, lettere c) e d), e per il vice capo con funzioni vicarie dell'ufficio di cui all'articolo 4, comma 1, lettera e), in una voce retributiva d'importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti ad ufficio di livello dirigenziale generale del Ministero, incaricati ai sensi dell'articolo 19, comma 4, del decreto legislativo 30 marzo 2001, n. 165, ed in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti di uffici dirigenziali generali del Ministero; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il Capo della segreteria del Ministro, per il segretario particolare del Ministro, per i capi delle segreterie dei Sottosegretari di Stato e per i segretari particolari dei Sottosegretari di Stato ((nonche' per il capo della segreteria del Capo di Gabinetto,)), in una voce retributiva di importo non superiore alla misura massima del trattamento economico fondamentale dei dirigenti preposti ad uffici dirigenziali di livello non generale ed in un emolumento accessorio di importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti titolari di uffici dirigenziali non generali del Ministero. Per i dipendenti pubblici tale trattamento, se piu' favorevole, integra, per la differenza, il trattamento economico in godimento. Ai capi dei predetti uffici, ai vice capi degli uffici di cui all'articolo 4, comma 1, lettere c) e d), ed al vice capo con funzioni vicarie dell'ufficio di cui all'articolo 4, comma 1, lettera e), dipendenti da pubbliche amministrazioni, che optino per il mantenimento del proprio trattamento economico, e' corrisposto un emolumento accessorio determinato con le modalita' di cui all'articolo 14, comma 2, del decreto legislativo 30 marzo 2001, n. 165, di importo non superiore alla misura massima del trattamento economico accessorio spettante, rispettivamente, ai capi dei dipartimenti del Ministero, ai dirigenti degli uffici dirigenziali di livello generale ed ai dirigenti degli uffici di livello dirigenziale non generale del Ministero.
 
 Al Capo dell'ufficio comunicazione e stampa e' corrisposto un trattamento economico non superiore a quello previsto dal contratto collettivo nazionale per i giornalisti con la qualifica di redattore capo.
 

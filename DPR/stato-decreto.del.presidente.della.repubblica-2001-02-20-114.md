@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2010-12-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -161,6 +161,31 @@ Superati i periodi di conservazione del posto di cui al comma 1, nel caso in cui
 
 I periodi di assenza di cui al comma 1, limitatamente ai primi 18 mesi, non interrompono la maturazione dell'anzianita' di servizio a tutti gli effetti.
 
+4.
+                        
+                            
+                                Il trattamento economico spettante al funzionario diplomatico nel periodo di conservazione del posto e' il seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    la retribuzione costituita dalla componente stipendiale di base e da quella correlata alla posizione funzionale, per i primi nove mesi di assenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    90 per cento della retribuzione di cui alla lettera a), per i successivi tre mesi di assenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    50 per cento della retribuzione di cui alla lettera a), per gli ulteriori sei mesi di assenza.
+
 Restano ferme le vigenti norme di legge poste a tutela dei malati di Tbc.
 
 Nel caso in cui l'infermita' derivante da infortunio non dipendente da causa di servizio sia ascrivibile a responsabilita' di terzi, il funzionario diplomatico e' tenuto a dare comunicazione di tale circostanza all'Amministrazione, ai fini della rivalsa da parte di quest'ultima verso il terzo responsabile per la parte corrispondente alle retribuzioni erogate durante il periodo di assenza ai sensi del comma 4, e agli oneri riflessi relativi.
@@ -207,6 +232,31 @@ Le eventuali festivita' cadenti nel periodo di assenza sono computate ai fini de
 Al funzionario diplomatico, dopo il rientro al lavoro a seguito della fruizione dei congedi parentali, si applica quanto previsto dall'articolo 17 della legge 8 marzo 2000, n. 53.
 
 ## Art. 8. — Permessi per esigenze personali
+
+1.
+                        
+                            
+                                Il funzionario diplomatico ha diritto di assentarsi nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipazione a concorsi od esami, limitatamente ai giorni di svolgimento delle prove ed al tempo strettamente necessario per il raggiungimento delle relative sedi di svolgimento delle stesse, ovvero, previa intesa con il responsabile della struttura di appartenenza, a congressi, convegni, seminari e corsi di aggiornamento professionale facoltativo entro il limite complessivo di otto giorni per ciascun anno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decesso o documentata grave infermita' del coniuge, o del convivente stabile, o di un parente entro il secondo grado o di un affine di primo grado, in ragione di tre giorni lavorativi, anche frazionati, per evento. I giorni di permesso devono essere utilizzati entro sette giorni dal decesso o dall'accertamento dell'insorgenza della grave infermita' o dalla necessita' di provvedere a conseguenti specifici interventi terapeutici. Nel caso di grave infermita' dei soggetti di cui alla presente lettera b), il funzionario diplomatico, entro sette giorni dall'evento predetto, puo' concordare con il responsabile della struttura presso cui presta servizio, in alternativa ai giorni di permesso, diverse modalita' di espletamento dell'attivita' lavorativa, anche per periodi superiori a tre giorni.
+
+                                
+                            
+                            
+                                c)
+                                
+                                    documentati motivi personali, entro il limite complessivo di tre giorni per ciascun anno.
 
 Il funzionario diplomatico ha inoltre il diritto di assentarsi per quindici giorni consecutivi in occasione del matrimonio.
 
@@ -288,6 +338,29 @@ Le norme del presente articolo si applicano dalla data di entrata in vigore del 
 ## - Titolo III TRATTAMENTO ECONOMICO
 
 ## Art. 13. — Struttura del trattamento economico
+
+1.
+                        
+                            
+                                Il trattamento economico dei funzionari appartenenti alla carriera diplomatica e' articolato nelle seguenti componenti: 
+
+                            
+                            
+                                a)
+                                
+                                    componente stipendiale di base, che comprende lo stipendio tabellare, l'indennita' integrativa speciale e la retribuzione individuale di anzianita', ove acquisita e spettante; 
+                                
+                            
+                            
+                                b)
+                                
+                                    retribuzione di posizione, correlata alle posizioni funzionali ricoperte; 
+                                
+                            
+                            
+                                c)
+                                
+                                    retribuzione di risultato, correlata ai risultati conseguiti rispetto agli obbiettivi assegnati. ((1))
 
 Il trattamento economico di cui al comma 1 e' onnicomprensivo e remunera tutte le funzioni, i compiti e gli incarichi svolti dai funzionari diplomatici.
 
@@ -375,6 +448,65 @@ A decorrere dall'esercizio successivo alla cessazione del rapporto di lavoro res
 ## Art. 17. — Fondo per la retribuzione di posizione
  e la retribuzione di risultato
 
+1.
+                        
+                            
+                                A decorrere dal 1 gennaio 2001 e' istituito il fondo per la retribuzione di posizione e la retribuzione di risultato, al cui finanziamento si provvede mediante utilizzo delle seguenti risorse finanziarie:
+
+                            
+                            
+                                a)
+                                
+                                    ammontare delle risorse destinate al compenso incentivante di cui all'articolo 4 della legge 17 aprile 1984, n. 79;
+                                
+                            
+                            
+                                b)
+                                
+                                    risorse destinate al pagamento dei compensi per lavoro straordinario nell'anno 2000;
+                                
+                            
+                            
+                                c)
+                                
+                                    risparmi di gestione riferiti alla spesa del personale della carriera diplomatica, escluse le quote che disposizioni di legge riservano a risparmio del fabbisogno complessivo;
+                                
+                            
+                            
+                                d)
+                                
+                                    somme derivanti dall'attuazione dell'articolo 43 della legge 27 dicembre 1997, n. 449;
+                                
+                            
+                            
+                                e)
+                                
+                                    somme derivanti da disposizioni di leggi, regolamenti o atti amministrativi, che comportano incrementi retributivi per il personale della carriera diplomatica;
+                                
+                            
+                            
+                                f)
+                                
+                                    retribuzione individuale di anzianita' del personale della carriera diplomatica cessato dal servizio con le modalita' indicate nell'articolo 16;
+                                
+                            
+                            
+                                g)
+                                
+                                    un importo pari a L. 311.990 mensili pro-capite per tredici mensilita', alla cui copertura si provvede con l'utilizzo delle somme accantonate in sede di applicazione della legge 2 ottobre 1997, n. 334;
+                                
+                            
+                            
+                                h)
+                                
+                                    un importo pari a L. 1.435.152 mensili pro-capite, per tredici mensilita', alla cui copertura si provvede con le somme previste dall'articolo 19 della legge 23 dicembre 1999, n. 488;
+                                
+                            
+                            
+                                i)
+                                
+                                    un importo pari a L. 1.166.841 mensili pro-capite per tredici mensilita', alla cui copertura si provvede con l'utilizzo delle risorse previste per la categoria dall'articolo 50 della legge 23 dicembre 2000, n. 388.
+
 Le risorse di cui alle lettere g), h) ed i) del comma 1, sono determinate con riferimento al personale della carriera diplomatica in servizio alla data del 1 luglio 2000.
 
 Nell'ambito del fondo di cui al comma 1, una quota pari al 30 per cento viene destinata al finanziamento della retribuzione di risultato.
@@ -405,6 +537,52 @@ Le risorse del fondo di cui al comma 1, eventualmente non utilizzate alla fine d
 
 ## Art. 18. — Retribuzione di posizione
 
+1.
+                        
+                            
+                                A decorrere dal 1o gennaio 2001, la retribuzione di posizione, correlata alle posizioni funzionali che sono state individuate nell'articolo 1 del decreto del Ministro degli affari esteri 5 luglio 2000, n. 2069 e successive modificazioni e integrazioni, e' determinata nei seguenti valori annui lordi per tredici mensilita':
+ 
+                            
+                            
+                                a)
+                                
+                                    Segretario generale L. 35.286.000;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Capo di gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera b), del decreto n. 2069 L. 29.993.000;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Vice capo di gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c) del decreto n. 2069 L. 25.406.000;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Capi degli uffici di livello dirigenziale e rimanenti posizioni funzionali di cui all'articolo 1, lettera d) del decreto n. 2069 L. 21.877.000;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    funzionari di cui all'articolo 1, lettera e) del decreto n. 2069 L. 14.114.000;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    funzionari addetti agli uffici L. 12.350.000.
+
 Per i funzionari diplomatici collocati alle dirette dipendenze dei capi degli uffici di livello dirigenziale generale con un incarico di consulenza, ricerca e studio o di trattazione di particolari materie, di cui all'articolo 2 del decreto del Ministro degli affari esteri 5 luglio 2000, n. 2069 e successive integrazioni e modificazioni, la retribuzione di posizione e' fissata in base al livello delle funzioni svolte, secondo quanto previsto nel predetto decreto, nelle misure di cui alle lettere c), d) ed e) del comma 1.
 
 Ai funzionari diplomatici comandati o collocati fuori ruolo presso amministrazioni dello Stato, organi costituzionali o enti territoriali italiani, di cui all'articolo 3 del decreto del Ministro degli affari esteri 5 luglio 2000, n. 2069, ed ai quali da parte di tali amministrazioni, organi o enti non vengano corrisposti emolumenti accessori a qualsiasi titolo, spetta la retribuzione di posizione in una delle misure previste dalle lettere c), d) ed e) del comma 1, da individuare tramite decreto del Direttore generale per il personale sulla base degli elementi acquisiti in merito ai livelli di responsabilita' e rilevanza degli incarichi affidati. Qualora i predetti emolumenti vengano corrisposti ma in misura inferiore agli importi a titolo di retribuzione di posizione individuati nel modo sovraindicato, il Ministero degli affari esteri eroga la differenza.
@@ -419,11 +597,103 @@ Le misure minime della retribuzione di posizione per ciascun grado della carrier
 
 ## Art. 19. — Retribuzione di risultato
 
+1.
+                        
+                            
+                                Sulla base di quanto previsto dal decreto del Ministro degli affari esteri 5 luglio 2000, n. 2070, all'inizio di ogni anno gli importi spettanti come retribuzione di risultato, da erogare mensilmente per tredici mensilita', vengono determinati con decreto del Ministro degli affari esteri, tenendo conto delle risorse disponibili e degli obiettivi raggiunti nell'anno precedente, nel rispetto dei seguenti parametri in relazione alle diverse posizioni funzionali individuate nell'articolo 1 del decreto 5 luglio 2000, n. 2069 e successive integrazioni e modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    Segretario generale: 100;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera b) del decreto n. 2069: 85;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Vice capo di gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c) del decreto n. 2069: 72;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    capi degli uffici di livello dirigenziale e rimanenti posizioni funzionali di cui all'articolo 1, lettera d) del decreto n. 2069: 62;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    funzionari di cui all'articolo 1, lettera e) del decreto n. 2069: 40;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    funzionari addetti agli uffici: 35.
+
 Per i funzionari diplomatici collocati alle dirette dipendenze dei capi degli uffici di livello dirigenziale generale con un incarico di consulenza, ricerca e studio o di trattazione di particolari materie, di cui all'articolo 2 del decreto del Ministro degli affari esteri 5 luglio 2000, n. 2069, la retribuzione di risultato e' determinata in relazione alle posizioni funzionali ad essi attribuite, nelle misure di cui al comma 1.
 
 Qualora i risultati conseguiti siano stati particolarmente elevati, e di cio' sia stato dato atto nella valutazione, gli importi spettanti come retribuzione di risultato determinati ai sensi del comma 1, possono essere incrementati fino ad un massimo del 50 per cento, nei limiti di un quarto delle risorse disponibili.
 
 ## Art. 20. — Norme di prima applicazione
+
+1.
+                        
+                            
+                                Per il periodo dal 26 aprile 2000 al 31 dicembre 2000, tenuto conto della mancata corresponsione della retribuzione di posizione e della retribuzione di risultato, ai funzionari diplomatici che ricoprono le posizioni funzionali individuate nell'articolo 1 del decreto del Ministro degli affari esteri 5 luglio 2000, n. 2069, e successive modificazioni e integrazioni, sono corrisposte le seguenti somme lorde:
+ 
+                            
+                            
+                                a)
+                                
+                                    Segretario generale L. 40.444.000;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Capo di gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera b) del decreto n. 2069, L. 34.378.000;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Vice capo di gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c) del decreto n. 2069, L. 29.120.000;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    capi degli uffici di livello dirigenziale e rimanenti posizioni funzionali di cui all'articolo 1, lettera d) del decreto n. 2069, L. 25.075.000;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    funzionari di cui all'articolo 1, lettera e) del decreto n. 2069, L. 16.177.000;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    funzionari addetti agli uffici, L. 14.155.000.
 
 Ai funzionari diplomatici collocati alle dipendenze dei capi degli uffici di livello dirigenziale generale con un incarico di consulenza, ricerca e studio o di trattazione di particolari materie, di cui all'articolo 2 del decreto del Ministro degli affari esteri 5 luglio 2000, n. 2069 e successive modificazioni e integrazioni, spettano somme corrispondenti alle posizioni funzionali che sono state loro attribuite.
 
@@ -460,6 +730,59 @@ Presso il Ministero degli affari esteri e' istituita, entro tre mesi dalla data 
 Qualora non si raggiunga ai sensi del comma 1, un'intesa su questioni interpretative di rilevanza generale, l'Amministrazione e le organizzazioni sindacali firmatarie dell'accordo recepito nel presente decreto possono ricorrere al Ministro per la funzione pubblica, avanzando formale richiesta motivata di esame della questione controversa. Il Ministro per la funzione pubblica entro trenta giorni dalla richiesta, dopo aver acquisito le risultanze emesse dal procedimento di cui al comma 1, puo' consultare le delegazioni trattanti l'accordo di cui all'articolo 112 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, come sostituito dall'articolo 14 del decreto legislativo 24 marzo 2000, n. 85. L'esame della questione controversa deve espletarsi nel termine di trenta giorni dal primo incontro. Il Ministro per la funzione pubblica, tenendo conto anche delle valutazioni espresse dalle suddette delegazioni, provvede quindi, ai sensi dell'articolo 27, primo comma, n. 2), della legge 29 marzo 1983, n. 93, e dell'articolo 5, comma 2, lettera e), della legge 23 agosto 1988, n. 400, ad emanare le direttive necessarie per risolvere la questione controversa.
 
 ## Art. 23. — Disapplicazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto, non si applicano nei confronti dei funzionari appartenenti alla carriera diplomatica le disposizioni di legge e regolamentari che siano in contrasto con quelle contenute nel decreto medesimo. In particolare, non si applicano le norme seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento all'articolo 3 (Tempo di lavoro): articolo 14 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3, e articolo 30 della legge 29 marzo 1983, n. 93;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimento all'articolo 4 (Congedo ordinario e festivita'): articoli 36, 39 e 40 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3, e articolo 18 del decreto del Presidente della Repubblica del 3 maggio 1957, n. 686;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con riferimento all'articolo 5 (Assenze per malattia e motivi di salute): articoli 37, 40, 68 commi da 1 a 8, 70 e 71 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3; articoli 30, 31, 32, 33 e 34 del decreto del Presidente della Repubblica del 3 maggio 1957, n. 686;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con riferimento all'articolo 6 (Aspettativa per motivi personali e di famiglia): articoli 69 e 70 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    con riferimento all'articolo 7 (Congedi parentali): articolo 41 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    con riferimento all'articolo 8 (Permessi per esigenze personali): articoli 37, 39 e 40 del decreto del Presidente della Repubblica del 10 gennaio 1957, n. 3; articolo 3, commi da 37 a 41, della legge 24 dicembre 1993, n. 537; articolo 22, commi 22, 23, 24 e 26, della legge 23 dicembre 1994, n. 724;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    con riferimento al titolo III (Trattamento economico): decreto del Presidente della Repubblica del 22 luglio 1977, n. 422; articolo 3 del decreto-legge 11 gennaio 1985, n. 2, convertito, con modificazioni, dalla legge 8 marzo 1985, n. 72; articolo 4 della legge 17 aprile 1984, n. 79; legge 20 novembre 1982, n. 869; articolo 1, comma 2, della legge 2 ottobre 1997, n. 334, e articolo 24 della legge 23 dicembre 1998, n. 448.
 
 ## Art. 24. — Copertura finanziaria
 

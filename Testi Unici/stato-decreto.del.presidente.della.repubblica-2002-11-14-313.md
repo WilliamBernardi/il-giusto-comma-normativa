@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2024-05-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,10 +40,333 @@ Le norme del presente testo unico disciplinano il casellario giudiziale, ((il ca
 
 
 
+1.
+                        
+                            
+                                Ai fini del presente testo unico, se non diversamente ed espressamente indicato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "casellario giudiziale" e' la base dati di interesse nazionale ai sensi dell'articolo 60 del ((codice dell'amministrazione digitale, di cui al)) decreto legislativo 7 marzo 2005, n. 82, che contiene l'insieme dei dati relativi a provvedimenti giudiziari e amministrativi riferiti a soggetti determinati; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    «casellario giudiziale europeo» e' ((la base di dati ai sensi dell'articolo 50-ter del codice dell'amministrazione digitale, di cui al decreto)) legislativo 7 marzo 2005, n. 82, che contiene i provvedimenti giudiziari di condanna adottati negli Stati membri dell'Unione europea nei confronti di cittadini italiani; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "casellario dei carichi pendenti" e' ((la base di dati ai sensi dell'articolo 50-ter del codice dell'amministrazione digitale, di cui al decreto)) legislativo 7 marzo 2005, n. 82, che contiene i provvedimenti giudiziari riferiti a soggetti determinati che hanno la qualita' di imputato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "anagrafe delle sanzioni amministrative dipendenti da reato" e' ((la base di dati ai sensi dell'articolo 50-ter del codice dell'amministrazione digitale, di cui al decreto)) legislativo 7 marzo 2005, n. 82, che contiene i provvedimenti giudiziari che applicano, agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, le sanzioni amministrative dipendenti da reato, ai sensi del decreto legislativo 8 giugno 2001, n. 231; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato" e' ((la base di dati ai sensi dell'articolo 50-ter del codice dell'amministrazione digitale, di cui al decreto)) legislativo 7 marzo 2005, n. 82, che contiene i provvedimenti giudiziari riferiti agli enti con personalita' giuridica e alle societa' e associazioni anche prive di personalita' giuridica, cui e' stato contestato l'illecito amministrativo dipendente da reato, ai sensi del decreto legislativo 8 giugno 2001, n. 231; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "ente" e' l'ente fornito di personalita' giuridica, la societa' e l'associazione, anche priva di personalita' giuridica, ai sensi del decreto legislativo 8 giugno 2001, n. 231; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    «procedimento penale» e' il procedimento, sia nella fase delle indagini preliminari che nelle fasi successive all'esercizio dell'azione penale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "provvedimento giudiziario" e' la sentenza, il decreto penale e ogni altro provvedimento emesso dall'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "provvedimento giudiziario definitivo" e' il provvedimento divenuto irrevocabile, passato in giudicato o, comunque, non piu' soggetto a impugnazione cori strumenti diversi dalla revocazione; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    «condanna» e' ogni decisione definitiva di condanna adottata dalla autorita' giudiziaria penale nei confronti di una persona fisica in relazione a un reato e riportata nel casellario giudiziale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "codice identificativo" e' il codice fiscale o il codice individuato ai sensi dell'articolo 43; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    «impronte digitali» sono le impressioni piatte e rollate delle impronte digitali di ciascun dito; 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    «immagine del volto» e' l'insieme delle immagini digitalizzate del volto di una persona; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "numero identificativo del procedimento" e' il numero del procedimento assegnato dal sistema al momento dell'iscrizione nel registro di cui all'articolo 335 del codice di procedura penale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "estratto" e' l'insieme dei dati del provvedimento giudiziario o amministrativo da inserire nel sistema; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "ufficio iscrizione" e' l'ufficio presso l'autorita' giudiziaria che ha emesso il provvedimento giudiziario soggetto a iscrizione o a eliminazione, che ha competenze nella materia del presente testo unico; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "ufficio territoriale" e' l'ufficio presso il giudice di pace, che ha competenze nella materia del presente testo unico; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    "ufficio locale" e' l'ufficio presso il tribunale e presso il tribunale per i minorenni, che ha competenze nella materia del presente testo unico; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    "ufficio centrale" e' l'ufficio presso la direzione generale degli affari interni del dipartimento per gli affari di giustizia del Ministero della giustizia; 
+
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    «autorita' centrali» sono gli enti competenti per lo scambio di informazioni sulle sentenze penali di condanna designati dagli Stati membri dell'Unione europea; 
+
+                                
+                            
+                            
+                                p-ter)
+                                
+                                    «DGSIA» e' la Direzione generale per i sistemi informativi automatizzati del Dipartimento per la transizione digitale, l'analisi statistica e le politiche di coesione del Ministero della giustizia; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    "sistema" e' il sistema informativo automatizzato del casellario giudiziale, del casellario giudiziale europeo, del casellario dei carichi pendenti, dell'anagrafe delle sanzioni amministrative dipendenti da reato, dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato; 
+
+                                
+                            
+                            
+                                q-bis)
+                                
+                                    «PDND» e' la Piattaforma Digitale Nazionale Dati, di cui all'articolo 50-ter del ((codice dell'amministrazione digitale, di cui al)) decreto legislativo 7 marzo 2005, n. 82, che assicura la condivisione della base dati tra i soggetti che hanno diritto ad accedervi.
+
 ## - Titolo II Casellario giudiziale
 
 ## Art. 3. — (L) 
  Provvedimenti iscrivibili
+
+1.
+                        
+                            
+                                Nel casellario giudiziale si iscrivono per estratto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti giudiziari penali di condanna definitivi, anche pronunciati da autorita' giudiziarie straniere se riconosciuti ai sensi degli articoli 730 e seguenti del codice di procedura penale, salvo quelli concernenti contravvenzioni per le quali la legge ammette la definizione in via amministrativa, o l'oblazione limitatamente alle ipotesi di cui all'articolo 162 del codice penale, sempre che per quelli esclusi non sia stata concessa la sospensione condizionale della pena; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i provvedimenti giudiziari definitivi concernenti le pene, compresa la sospensione condizionale e la non menzione, le misure di sicurezza personali e patrimoniali, gli effetti penali della condanna, l'amnistia, l'indulto, la grazia, la dichiarazione di abitualita', di professionalita' nel reato, di tendenza a delinquere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i provvedimenti giudiziari concernenti le pene accessorie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i provvedimenti giudiziari concernenti le misure alternative alla detenzione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i provvedimenti giudiziari concernenti la liberazione condizionale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i provvedimenti giudiziari definitivi che hanno prosciolto l'imputato o dichiarato non luogo a procedere per difetto di imputabilita', o disposto una misura di sicurezza , nonche' quelli che hanno dichiarato la non punibilita' ai sensi dell'articolo 131-bis del codice penale.; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i provvedimenti giudiziari definitivi di condanna alle pene sostitutive e i provvedimenti di conversione di cui agli articoli 66, terzo comma, e 72, quarto comma, della legge 24 novembre 1981, n. 689;
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    i provvedimenti di conversione di cui agli articoli 71, 102, 103 e 108 della legge 24 novembre 1981, n. 689, e di cui all'articolo 55 del decreto legislativo 28 agosto 2000, n. 274;
+                                
+                            
+                            
+                                h)
+                                
+                                    i provvedimenti giudiziari del pubblico ministero previsti dagli articoli 656, comma 5, 657 e 663 del codice di procedura penale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i provvedimenti giudiziari di conversione delle pene pecuniarie; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    l'ordinanza che ai sensi dell'articolo 464-quater del codice di procedura penale dispone la sospensione del procedimento con messa alla prova, nonche' le sentenze che dichiarano estinto il reato per esito positivo della messa alla prova ai sensi dell'articolo 464-septies del codice di procedura penale.; (11) 
+
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    i provvedimenti con cui il giudice dispone la sospensione del procedimento ai sensi dell'articolo 420-quater del codice di procedura penale; (7) 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    i provvedimenti giudiziari definitivi concernenti le misure di prevenzione della sorveglianza speciale semplice o con divieto o obbligo di soggiorno; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    i provvedimenti giudiziari concernenti la riabilitazione; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    i provvedimenti giudiziari di riabilitazione, di cui all'articolo 15 della legge 3 agosto 1988, n. 327; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    i provvedimenti giudiziari di riabilitazione speciale relativi ai minori, di cui all'articolo 24 del regio decreto-legge 20 luglio 1934, 1404, convertito, con modificazioni, dalla legge 27 maggio 1935, n. 835, e successive modificazioni; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    i provvedimenti giudiziari definitivi di interdizione e inabilitazione e quelli di revoca, nonche' i decreti che istituiscono, modificano o revocano l'amministrazione di sostegno; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 12 SETTEMBRE 2007, N. 169. 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    i provvedimenti giudiziari relativi all'espulsione a titolo di sanzione sostitutiva o alternativa alla detenzione, ai sensi dell'articolo 16 del decreto legislativo 25 luglio 1998, n. 286, come sostituito dall'art. 15 della legge 30 luglio 2002, n. 189; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    i provvedimenti amministrativi di espulsione e i provvedimenti giudiziari che decidono il ricorso avverso i primi, ai sensi dell'articolo 13 del decreto legislativo 25 luglio 1998, n. 286, come modificato dall'art. 12 della legge 30 luglio 2002, n. 189; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    i provvedimenti di correzione, a norma di legge, dei provvedimenti gia' iscritti; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    qualsiasi altro provvedimento che concerne a norma di legge i provvedimenti gia' iscritti, come individuato con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia. 
+ 
+ (art. 686 c.p.p; art. 194 att. c.p.p; artt. 4 e 14, r.d. n. 778/1931; art. 24, parte del sesto comma, r.d.l. 1404/1934, convertito, con modificazioni, l. n. 835/1935; art. 58-bis, l. n. 354/1975; art. 73, l. n. 689/1981)
 
 -------------
                             AGGIORNAMENTO (7)
@@ -59,16 +382,163 @@ Le norme del presente testo unico disciplinano il casellario giudiziale, ((il ca
 
 
 
+1.
+                        
+                            
+                                Ogni provvedimento giudiziario e amministrativo e' iscritto per estratto contenente i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cognome, nome, luogo e data di nascita ((cittadinanza,)), codice identificativo della persona cui si riferisce il provvedimento; codice identificativo e' il codice fiscale per il cittadino italiano e per il cittadino di Stato dell'Unione europea che abbia il domicilio fiscale in Italia, nonche' il codice individuato ai sensi dell'articolo 43 per il cittadino di Stato dell'Unione europea che non abbia il codice fiscale ((, per il cittadino di Stato non appartenente all'Unione europea, per la persona di cui non e' nota la cittadinanza e per l'apolide)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    numero identificativo del procedimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autorita' che ha emesso il provvedimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    data, dispositivo del provvedimento e norme applicate.
+
 ((
 
 Quando le informazioni sulla cittadinanza della persona condannata non sono note, o quando la persona condannata e' un apolide, nell'estratto ne e' fatta specifica menzione.
 
 ))
 
+2.
+                        
+                            
+                                L'estratto del provvedimento giudiziario penale contiene, inoltre, secondo il tipo di provvedimento, i seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    luogo, data dell'infrazione e norme applicate, con riferimento a ciascun reato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, misure alternative alla detenzione, con riferimento a ciascun reato, anche nelle ipotesi di cui all'articolo 81 del codice penale e dell'articolo 6, del decreto legislativo 28 agosto 2000, n. 274; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    misura di sicurezza, dichiarazione di abitualita' o professionalita', dichiarazione di tendenza a delinquere. 
+ 
+(artt. 6 e 7, r.d. n. 778/1931)
+
 ## Art. 5. — (L) 
  Eliminazione delle iscrizioni
 
 ((11))
+
+2.
+                        
+                            
+                                Sono, inoltre, eliminate le iscrizioni relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai provvedimenti giudiziari revocati a seguito di revisione ((ovvero di rescissione del giudicato)), o ((a norma degli articoli 669 e 673)) del codice di procedura penale; ((11))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    ai provvedimenti giudiziari dichiarati mancanti o non esecutivi o dei quali e' stata sospesa l'esecuzione o disposta la restituzione nel termine, ai sensi dell'articolo 670 del codice di procedura penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai provvedimenti giudiziari di proscioglimento o di non luogo a procedere per difetto di imputabilita', trascorsi dieci anni in caso di delitto o tre anni in caso di contravvenzione dal giorno in cui il provvedimento e' divenuto irrevocabile o, nel caso di non luogo a procedere, dal giorno in cui e' scaduto il termine per l'impugnazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai provvedimenti giudiziari di condanna per contravvenzioni per le quali e' stata inflitta la pena dell'ammenda, salvo che sia stato concesso alcuno dei benefici di cui agli articoli 163 e 175 del codice penale, trascorsi dieci anni dal giorno in cui la pena e' stata eseguita ovvero si e' in altro modo estinta;(4) 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    ai provvedimenti giudiziari che hanno dichiarato la non punibilita' ai sensi dell'articolo 131-bis del codice penale, trascorsi dieci anni dalla pronuncia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai provvedimenti giudiziari di proscioglimento per difetto di imputabilita' emessi dal giudice di pace, trascorsi tre anni dal giorno in cui il provvedimento e' divenuto irrevocabile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai provvedimenti giudiziari di proscioglimento per difetto di imputabilita' relativi ai reati di competenza del giudice di pace, emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati, trascorsi tre anni dal giorno in cui il provvedimento e' divenuto irrevocabile; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai provvedimenti giudiziari di condanna emessi dal giudice di pace, trascorsi cinque anni dal giorno in cui la sanzione e' stata eseguita se e' stata inflitta la pena pecuniaria, o dieci anni se e' stata inflitta una pena diversa, se nei periodi indicati non e' stato commesso un ulteriore reato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ai provvedimenti giudiziari di condanna relativi ai reati di competenza del giudice di pace emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati, trascorsi cinque anni dal giorno in cui la sanzione e' stata eseguita se e' stata inflitta la pena pecuniaria, o dieci anni se e' stata inflitta una pena diversa, se nei periodi indicati non e' stato commesso un ulteriore reato; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 12 SETTEMBRE 2007, N. 169; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ai provvedimenti amministrativi di espulsione, quando sono annullati con provvedimento giudiziario o amministrativo definitivo; 
+
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    ai provvedimenti con cui il giudice dispone la sospensione del procedimento ai sensi dell'articolo 420-quater del codice di procedura penale, quando il provvedimento e' revocato. (7)
 
 Se sono state applicate misure di sicurezza, i termini previsti dal comma 2 decorrono dalla data della revoca della misura di sicurezza e, se questa e' stata applicata o sostituita con provvedimento giudiziario di esecuzione, e' eliminata anche l'iscrizione relativa a quest'ultimo.
 
@@ -97,9 +567,64 @@ art. 15 d.P.R. n. 448/1988; artt. 46 e 63 c. 2, d.lgs. n. 274/2000)
 
 ((
 
+1.
+                        
+                            
+                                Nel casellario giudiziale europeo si iscrivono per estratto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le condanne pronunciate in un altro Stato membro dell'Unione europea nei confronti di cittadini italiani trasmesse all'Ufficio centrale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le successive decisioni concernenti l'esecuzione della pena o che modificano o eliminano le condanne iscritte.
+
 ))
 
 ## Art. 5-ter. — (Estratto del provvedimento iscrivibile)
+
+1.
+                        
+                            
+                                Ogni estratto di condanna ricevuto e' conservato integralmente attraverso l'iscrizione dei seguenti dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informazioni obbligatorie necessariamente trasmesse dallo Stato di condanna: 
+ 1) nome completo (cognome, nome, eventuale secondo cognome, eventuale secondo nome), data di nascita, luogo di nascita, composto di citta' e Stato, sesso, cittadinanza ed eventuali nomi precedenti; 
+ 2) data della condanna, nome dell'organo giurisdizionale, data in cui la decisione e' diventata definitiva; 
+ 3) data del reato, qualificazione giuridica del fatto, riferimento alle disposizioni giuridiche applicabili; 
+ 4) pena, principale ed accessoria, misure di sicurezza e decisioni successive che modificano l'esecuzione della pena; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informazioni facoltative trasmesse se iscritte nel casellario giudiziale dello Stato di condanna: 
+ 1) nome dei genitori della persona condannata; 
+ 2) numero di riferimento della condanna; 
+ 3) luogo del reato; 
+ 4) interdizioni derivanti dalla condanna; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    informazioni supplementari che devono essere trasmesse se sono a disposizione dell'autorita' centrale dello Stato di condanna: 
+ 1) numero di identita' o tipo e numero del documento di identificazione della persona condannata; 
+ 2) impronte digitali della persona condannata, conservate ai sensi dell'articolo 43; 
+ ((2-bis) immagine del volto della persona condannata;)) 
+ 3) eventuali pseudonimi della persona condannata.
 
 ## Art. 5-quater. — (( (Eliminazione delle iscrizioni).))
 
@@ -115,9 +640,80 @@ Le iscrizioni nel casellario giudiziale europeo sono eliminate a seguito di iden
 
 
 
+1.
+                        
+                            
+                                Nel casellario dei carichi pendenti si iscrivono per estratto:
+
+
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti giudiziari di cui all'articolo 60, comma 1, del codice di procedura penale, il provvedimento di revoca della sentenza di non luogo a procedere, il decreto di citazione di cui all'articolo 636, comma 1, del codice di procedura penale, i provvedimenti giudiziari di cui all'articolo 3 del decreto legislativo 28 agosto 2000, n. 274;
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni altro provvedimento giudiziario che decide sull'imputazione, emesso nelle fasi e nei gradi successivi.
+
+(art. 110, c. 1, lett. c), d.lgs. n. 271/1989, e raccordo con l'art. 60, c. 3, c.p.p)
+
 ## Art. 7. — Estratto del provvedimento iscrivibile
 
 
+
+1.
+                        
+                            
+                                Ogni provvedimento giudiziario e' iscritto per estratto contenente, secondo il tipo di provvedimento, i seguenti dati:
+
+
+                            
+                            
+                                a)
+                                
+                                    cognome, nome, luogo e data di nascita, codice identificativo della persona cui si riferisce il provvedimento giudiziario;
+ codice identificativo e' il codice fiscale per il cittadino italiano e per il cittadino di Stato dell'Unione europea che abbia il domicilio fiscale in Italia, nonche' il codice individuato ai sensi dell'articolo 43 per il cittadino di Stato dell'Unione europea che non abbia il codice fiscale e per il cittadino di Stato non appartenente all'Unione europea;
+                                
+                            
+                            
+                                b)
+                                
+                                    numero identificativo del procedimento;
+                                
+                            
+                            
+                                c)
+                                
+                                    autorita' che ha emesso il provvedimento giudiziario;
+                                
+                            
+                            
+                                d)
+                                
+                                    data, dispositivo del provvedimento giudiziario e norme applicate;
+                                
+                            
+                            
+                                e)
+                                
+                                    luogo, data dell'infrazione e norme applicate, con riferimento a ciascun reato;
+                                
+                            
+                            
+                                f)
+                                
+                                    pena principale e pena accessoria, circostanze, sanzione sostitutiva, sospensione condizionale della pena e non menzione della condanna nel certificato del casellario giudiziale, anche nelle ipotesi di cui all'articolo 81 del codice penale e dell'articolo 6 del decreto legislativo 28 agosto 2000, n. 274;
+                                
+                            
+                            
+                                g)
+                                
+                                    misura di sicurezza, dichiarazione di abitualita' o professionalita', dichiarazione di tendenza a delinquere.
+
+(estensione art. 6 e 7 r.d. n. 778/1931)
 
 ## Art. 8. — Eliminazioni delle iscrizioni
 
@@ -140,9 +736,87 @@ Le iscrizioni nel casellario dei carichi pendenti sono eliminate:
 
 
 
+1.
+                        
+                            
+                                Nell'anagrafe delle sanzioni amministrative dipendenti da reato si iscrivono per estratto:
+
+ 
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti giudiziari definitivi che applicano agli enti le sanzioni amministrative di cui al decreto legislativo 8 giugno 2001, n. 231;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i provvedimenti giudiziari definitivi relativi all'esecuzione delle stesse sanzioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualsiasi altro provvedimento che concerne a norma di legge i provvedimenti gia' iscritti, come individuato con decreto del Presidente della Repubblica, ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro della giustizia.
+
+(art. 80, c. 2, d.lgs. n. 231/2001)
+
 ## Art. 10. — Estratto del provvedimento iscrivibile
 
 
+
+1.
+                        
+                            
+                                Ogni provvedimento giudiziario e' iscritto per estratto contenente i seguenti dati:
+
+
+                            
+                            
+                                a)
+                                
+                                    denominazione e codice identificativo dell'ente cui si riferisce il provvedimento giudiziario; codice identificativo e il codice fiscale dell'ente;
+                                
+                            
+                            
+                                b)
+                                
+                                    rappresentante e sede legale dell'ente;
+                                
+                            
+                            
+                                c)
+                                
+                                    numero identificativo del procedimento;
+                                
+                            
+                            
+                                d)
+                                
+                                    autorita' che ha emesso il provvedimento giudiziario;
+                                
+                            
+                            
+                                e)
+                                
+                                    data, dispositivo del provvedimento giudiziario e norme applicate;
+                                
+                            
+                            
+                                f)
+                                
+                                    luogo, data dell'infrazione e norme applicate, con riferimento a ciascun illecito amministrativo dipendente da reato;
+                                
+                            
+                            
+                                g)
+                                
+                                    sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'articolo 21 del decreto legislativo 8 giugno 2001, n. 231.
+
+(estensione artt. 6 e 7 r.d. n. 778/1931)
 
 ## Art. 11. — Eliminazione delle iscrizioni
 
@@ -157,9 +831,79 @@ Le iscrizioni nell'anagrafe delle sanzioni amministrative sono eliminate trascor
 
 
 
+1.
+                        
+                            
+                                Nell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato si iscrivono per estratto:
+
+
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti giudiziari con i quali viene contestato all'ente l'illecito amministrativo dipendente da reato;
+                                
+                            
+                            
+                                b)
+                                
+                                    ogni altro provvedimento giudiziario che decide sulla contestazione dell'illecito amministrativo emesso nelle fasi e nei gradi successivi.
+
+(art. 110, c. 1, lett. c), d.lgs. n. 271/1989, e raccordo con gli artt. 36 e 59 d.lgs. n. 231/2001)
+
 ## Art. 13. — Estratto del provvedimento iscrivibile
 
 
+
+1.
+                        
+                            
+                                Ogni provvedimento giudiziario e' iscritto per estratto contenente, secondo il tipo di provvedimento, i seguenti dati:
+
+
+                            
+                            
+                                a)
+                                
+                                    denominazione e codice identificativo dell'ente cui si riferisce il provvedimento giudiziario; codice identificativo e' il codice fiscale dell'ente;
+                                
+                            
+                            
+                                b)
+                                
+                                    rappresentante e sede legale dell'ente;
+                                
+                            
+                            
+                                c)
+                                
+                                    numero identificativo del procedimento;
+                                
+                            
+                            
+                                d)
+                                
+                                    autorita' che ha emesso il provvedimento giudiziario;
+                                
+                            
+                            
+                                e)
+                                
+                                    data, dispositivo del provvedimento giudiziario e norme applicate;
+                                
+                            
+                            
+                                f)
+                                
+                                    luogo, data dell'infrazione e norme applicate, con riferimento a ciascun illecito amministrativo dipendente da reato;
+                                
+                            
+                            
+                                g)
+                                
+                                    sanzione amministrativa applicata, con riferimento a ciascun illecito amministrativo dipendente da reato, anche nelle ipotesi di cui all'articolo 21 del decreto legislativo 8 giugno 2001, n. 231.
+
+(estensione artt. 6 e 7 r.d. n. 778/1931)
 
 ## Art. 14. — Eliminazione delle iscrizioni
 
@@ -220,6 +964,59 @@ L'ufficio locale rilascia i certificati, compresi quelli richiesti da autorita' 
 
 
 
+1.
+                        
+                            
+                                L'ufficio centrale svolge i seguenti compiti: 
+ 
+ 
+                            
+                            
+                                a)
+                                
+                                    raccoglie e conserva i dati immessi nel sistema del casellario giudiziale e dei carichi pendenti, trattando separatamente quelli delle iscrizioni relative ai minorenni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    raccoglie e conserva i dati immessi nell'anagrafe delle sanzioni amministrative dipendenti da reato e nell'anagrafe dei carichi pendenti delle sanzioni amministrative dipendenti da reato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conserva i dati suddetti adottando le piu' idonee modalita' tecniche al fine di consentirne l'immediato utilizzo per la reintegrazione di quelli eventualmente andati persi e per la compilazione dei certificati di emergenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    conserva a fini statistici, in modo anonimo, i dati eliminati;
+                                
+                            
+                            
+                                e)
+                                
+                                    concorre ad elaborare le modalita' tecniche di funzionamento del sistema di cui all'articolo 42, relative all'iscrizione, eliminazione, scambio, trasmissione e conservazione dei dati nelle procedure degli e tra gli uffici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigila sull'attivita' degli uffici, adottando le misure necessarie per prevenire o rimuovere eventuali irregolarita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    adotta le iniziative necessarie e promuove gli interventi opportuni per garantire il pieno svolgimento delle funzioni del casellario giudiziale, del casellario dei carichi pendenti, dell'anagrafe delle sanzioni amministrative dipendenti da reato, dell'anagrafe dei carichi pendenti delle sanzioni amministrative dipendenti da reato.
+
 L'ufficio centrale iscrive nel sistema l'estratto ed elimina dal sistema le iscrizioni dei provvedimenti amministrativi di espulsione e dei provvedimenti giudiziari che decidono il ricorso avverso questi.
 
 L'ufficio centrale iscrive nel sistema l'estratto delle decisioni definitive adottate dalla Corte europea dei diritti dell'uomo nei confronti dello Stato italiano, concernenti i provvedimenti giudiziali ed amministrativi definitivi delle autorita' nazionali gia' iscritti, di seguito alla preesistente iscrizione cui esse si riferiscono, su richiesta del Dipartimento per gli affari di giustizia del Ministero della giustizia.
@@ -231,6 +1028,92 @@ L'ufficio centrale iscrive nel sistema l'estratto del decreto di grazia.
 Si applicano i commi 4, 5 e 6 dell'articolo 15.
 
 L'ufficio centrale elimina dal sistema le iscrizioni relative alle persone decorsi quindici anni dalla morte della persona alla quale si riferiscono e, comunque, decorsi cento anni dalla sua nascita, nonche' le iscrizioni dei provvedimenti giudiziari relativi a minori ai sensi dell'articolo 5, comma 4 (L).(11)
+
+5-bis.
+                        
+                            
+                                L'Ufficio centrale svolge, altresi', i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    raccoglie e conserva i dati immessi nel sistema del casellario giudiziale europeo, ricevuti dalle autorita' centrali degli altri Stati membri di condanna; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasmette le informazioni relative alle condanne pronunciate nel proprio territorio nei confronti di cittadini di altro Stato membro dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rivolge all'autorita' centrale degli altri Stati membri richiesta di estrazione di informazioni sulle condanne in ordine a cittadini di tali Stati, a cittadini di Paesi terzi ((, a persone di cui non e' nota la cittadinanza)) e ad apolidi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    riceve dall'autorita' centrale degli altri Stati membri le risposte alle richieste di estrazione di informazioni sulle condanne da esso formulate in ordine a cittadini di tali Stati, a cittadini di Paesi terzi ((, a persone di cui non e' nota la cittadinanza)) e ad apolidi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    risponde alle richieste di informazioni sulle condanne degli organi della giurisdizione penale italiana relative a cittadini italiani, cittadini di Paesi terzi ((, persone di cui non e' nota la cittadinanza)) e apolidi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    risponde alle richieste di informazioni sul casellario giudiziale europeo formulate da un cittadino italiano ovvero risponde alla richiesta di informazioni sulle condanne presentata da un cittadino di altro Stato membro rivolgendo istanza all'autorita' centrale dello Stato membro di cittadinanza di quest'ultimo; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    risponde alle richieste di informazioni sul casellario giudiziale formulate da un cittadino di Paese terzo, da una persona di cui non e' nota la cittadinanza e da un apolide alle condizioni e secondo le modalita' previste dagli articoli 6 e 7 del decreto legislativo 12 maggio 2016, n. 74;
+                                
+                            
+                            
+                                g)
+                                
+                                    risponde alle richieste di informazioni sulle condanne formulate dalle autorita' centrali di altri Stati membri, per fini diversi da un procedimento penale.
+
+6.
+                        
+                            
+                                L'ufficio centrale, infine, svolge le seguenti attivita' di supporto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce al Ministero della giustizia i dati relativi all'esecuzione dei provvedimenti giudiziari in materia penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce all'autorita' giudiziaria e alla pubblica amministrazione, in modo anonimo a fini statistici, dati in ordine all'andamento dei fenomeni criminali, utilizzando anche le informazioni relative alle iscrizioni eliminate, fatte salve le norme a tutela del trattamento dei dati personali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in applicazione di convenzioni internazionali o per ragioni di reciprocita' e, in quest'ultimo caso, nei limiti ed alle condizioni di legge, fornisce alle competenti autorita' straniere i dati relativi a decisioni riguardanti cittadini stranieri. 
+ 
+ (art. 3 r.d. n. 778/1931)
 
 ---------------
                             AGGIORNAMENTO (11)
@@ -264,6 +1147,24 @@ Previa autorizzazione del giudice procedente, il pubblico ministero acquisisce d
 
 ((
 
+1.
+                        
+                            
+                                Per ragioni di giustizia, gli uffici che esercitano la giurisdizione penale in uno Stato membro dell'Unione europea richiedono e acquisiscono, tramite la propria autorita' centrale competente, dall'Ufficio centrale le informazioni sulle condanne relative a un cittadino italiano con riferimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai provvedimenti giudiziari iscritti nel casellario giudiziale italiano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle condanne iscritte nel casellario giudiziale europeo.
+
 ))
 
 ## Art. 22. — Certificato del casellario giudiziale ((, del casellario giudiziale europeo)) e del casellario dei carichi pendenti richiesto dal difensore
@@ -282,6 +1183,115 @@ Previa autorizzazione del giudice procedente, il difensore ha diritto di ottener
 
 
 L'interessato ha il diritto di ottenere il certificato senza motivare la richiesta. (11)
+
+1.
+                        
+                            
+                                Nel certificato sono riportate le iscrizioni esistenti nel casellario giudiziale ad eccezione di quelle relative: (11) 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'articolo 175 del codice penale, purche' il beneficio non sia stato revocato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle condanne per contravvenzioni punibili con la sola ammenda e alle condanne per reati estinti a norma dell'articolo 167, primo comma, del codice penale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'articolo 556 del codice penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle condanne in relazione alle quali e' stata definitivamente applicata l'amnistia e a quelle per le quali e' stata dichiarata la riabilitazione, senza che questa sia stata in seguito revocata; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai provvedimenti previsti dall'articolo 445 del codice di procedura penale, quando la pena irrogata non superi i due anni di pena detentiva soli o congiunti a pena pecuniaria, e ai decreti penali; (11) 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle condanne per fatti che la legge ha cessato di considerare come reati, quando la relativa iscrizione non e' stata eliminata; 
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    ai provvedimenti giudiziari che hanno dichiarato la non punibilita' ai sensi dell'articolo 131-bis del codice penale, quando la relativa iscrizione non e' stata eliminata; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ai provvedimenti riguardanti misure di sicurezza conseguenti a sentenze di proscioglimento o di non luogo a procedere, quando le misure sono state revocate; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ai provvedimenti che riguardano l'applicazione delle misure di prevenzione della sorveglianza speciale semplice o con divieto o obbligo di soggiorno; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    ai provvedimenti giudiziari emessi dal giudice di pace; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    ai provvedimenti giudiziari relativi ai reati di competenza del giudice di pace emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    ai provvedimenti di interdizione, di inabilitazione e relativi all'amministrazione di sostegno, quando esse sono state revocate; 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    ai provvedimenti che ai sensi dell'articolo 464-quater del codice di procedura penale dispongono la sospensione del procedimento con messa alla prova; (11) 
+
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    alle sentenze che ai sensi dell'articolo 464-septies del codice di procedura penale dichiarano estinto il reato per esito positivo della messa alla prova; (11) 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 12 SETTEMBRE 2007, N. 169. (3) (11a)
 
 Il certificato riguardante un cittadino italiano contiene anche l'attestazione relativa alla sussistenza o non di iscrizioni nel casellario giudiziale europeo. (11)
 
@@ -352,6 +1362,52 @@ Il cittadino di altro Stato membro dell'Unione europea che rivolge richiesta di 
 
 L'interessato ha il diritto di ottenere il certificato senza motivare la richiesta.
 
+2.
+                        
+                            
+                                Nel certificato sono riportate le iscrizioni esistenti nel casellario dei carichi pendenti ad accezione di quelle relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle condanne delle quali e' stato ordinato che non si faccia menzione nel certificato a norma dell'articolo 175 del codice penale, purche' il beneficio non sia stato revocato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle condanne per contravvenzioni punibili con la sola ammenda; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle condanne per i reati per i quali si e' verificata la causa speciale di estinzione prevista dall'articolo 556 del codice penale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai provvedimenti previsti dall'articolo 445 del codice di procedura penale e ai decreti penali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ai provvedimenti giudiziari emessi dal giudice di pace; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ai provvedimenti giudiziari relativi ai reati di competenza del giudice di pace emessi da un giudice diverso, limitatamente alle iscrizioni concernenti questi reati.
+
 ---------------
                             AGGIORNAMENTO (11)
                             
@@ -370,6 +1426,57 @@ Il certificato generale riporta tutte le iscrizioni esistenti nel casellario giu
 I dati acquisiti dalle amministrazioni pubbliche e dai gestori di pubblici servizi sono trattati nel rispetto delle norme in materia di protezione dei dati personali e solo ai fini del procedimento amministrativo cui si riferisce la richiesta.
 
 Il certificato selettivo e' rilasciato dall'ufficio locale del casellario di cui all'articolo 18 quando motivi tecnici ne impediscono temporaneamente il rilascio secondo le modalita' di cui all'articolo 39.
+
+6.
+                        
+                            
+                                Il certificato generale e' rilasciato dall'ufficio locale del casellario di cui all'articolo 18: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando motivi tecnici ne impediscono temporaneamente il rilascio secondo le modalita' di cui all'articolo 39; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle more ((dell'accreditamento alla PDND,)) della stipula o della modifica della convenzione di cui all'articolo 39 e della realizzazione delle procedure informatiche finalizzate all'accesso selettivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di motivate richieste relative a procedimenti amministrativi ulteriori rispetto a quelli indicati in convenzione.
+
+7.
+                        
+                            
+                                
+                                    ((Fuori dei casi di cui al comma 7-bis, nei certificati)) di cui ai commi 2 e 3 non sono, in ogni caso, riportate le iscrizioni relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle condanne per contravvenzioni punibili con la sola ammenda e alle condanne per reati estinti a norma dell'articolo 167, primo comma, del codice penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai provvedimenti che ai sensi dell'articolo 464-quater del codice di procedura penale, dispongono la sospensione del procedimento con messa alla prova, nonche' alle sentenze che ai sensi dell'articolo 464-septies del codice di procedura penale dichiarano estinto il reato per esito positivo della messa alla prova; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai provvedimenti giudiziari che hanno dichiarato la non punibilita' ai sensi dell'articolo 131-bis del codice penale.
 
 ((7-bis. Per le richieste relative a procedimenti amministrativi finalizzati al rilascio del passaporto o di altro documento valido per l'espatrio, il certificato generale riporta, oltre a tutte le iscrizioni di cui al comma 3, anche le condanne di cui al comma 7, lettera a), limitatamente alle contravvenzioni punibili con la sola ammenda. Per le richieste relative ai procedimenti amministrativi riguardanti autorizzazioni in materia di armi, munizioni ed esplosivi il certificato generale contiene tutte le iscrizioni a carico di un determinato soggetto, comprese quelle indicate al comma 7))
 
@@ -398,6 +1505,24 @@ Nella risposta alla richiesta di informazioni da parte della pubblica amministra
 Nella risposta alla richiesta di informazioni da parte della pubblica amministrazione in ordine ad un cittadino di Paese terzo, ad una persona di cui non e' nota la cittadinanza e ad un apolide sono riportate le informazioni sulle condanne acquisite alle condizioni e secondo le modalita' previste dagli articoli 6 e 7 del decreto legislativo 12 maggio 2016, n. 74.
 
 ))
+
+3.
+                        
+                            
+                                La pubblica amministrazione di altro Stato membro dell'Unione europea che rivolge richiesta di informazioni all'Ufficio centrale nei confronti di un cittadino italiano acquisisce da esso le informazioni relative alle condanne iscritte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel casellario giudiziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel casellario giudiziale europeo, nella misura in cui il diritto dello Stato membro di condanna ne preveda la menzione.
 
 ((3-bis. La pubblica amministrazione di altro Stato membro dell'Unione europea che rivolge richiesta di informazioni all'Ufficio centrale nei confronti di un cittadino di Paese terzo, di una persona di cui non e' nota la cittadinanza e di un apolide cittadino italiano acquisisce da esso le informazioni relative alle condanne acquisite alle condizioni e secondo le modalita' previste dagli articoli 6 e 7 del decreto legislativo 12 maggio 2016, n. 74.))
 
@@ -574,6 +1699,59 @@ Le tecnologie informatiche sono finalizzate a prevenire e correggere eventuali e
 
 Il sistema informatico e' gestito dalla DGSIA.
 
+2.
+                        
+                            
+                                Ferme restando le competenze dell'Ufficio del casellario centrale, la DGSIA: 
+ 
+                            
+                            
+                                a)
+                                
+                                    raccoglie e conserva i dati immessi nel sistema del casellario giudiziale e dei carichi pendenti, trattando separatamente quelli delle iscrizioni relative ai minorenni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    raccoglie e conserva i dati immessi nell'anagrafe delle sanzioni amministrative dipendenti da reato e nell'anagrafe dei carichi pendenti delle sanzioni amministrative dipendenti da reato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conserva i dati raccolti adottando le piu' idonee modalita' tecniche al fine di consentirne l'immediato utilizzo per la reintegrazione di quelli eventualmente andati persi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    conserva a fini statistici, in modo anonimo, i dati eliminati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gestisce le modalita' tecniche di funzionamento del sistema di cui all'articolo 42, relative all'iscrizione, eliminazione, scambio, trasmissione e conservazione dei dati nelle procedure degli e tra gli uffici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adotta le iniziative tecniche necessarie per garantire il pieno svolgimento delle funzioni del casellario giudiziale, del casellario dei carichi pendenti, dell'anagrafe delle sanzioni amministrative dipendenti da reato, dell'anagrafe dei carichi pendenti delle sanzioni amministrative dipendenti da reato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    assicura l'accreditamento alla PDND della base dati del casellario giudiziale, dei carichi pendenti, dell'anagrafe delle sanzioni amministrative dipendenti da reato, dell'anagrafe dei carichi pendenti delle sanzioni amministrative dipendenti da reato.
+
 ))
 
 ## Art. 43. — Codice identificativo sulla base delle impronte digitali
@@ -642,6 +1820,24 @@ Fino alla data di entrata in vigore del regolamento di cui all'articolo 40 del d
 ## Art. 49. — Modifica dell'articolo 46, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445
 
 
+
+1.
+                        
+                            
+                                All'articolo 46, comma 1, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, sono apportate le seguenti modificazioni:
+
+
+                            
+                            
+                                a)
+                                
+                                    alla lettera aa) dopo le parole: "che riguardano l'applicazione" sono aggiunte le seguenti: "di misure di sicurezza e";
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo la lettera bb) e' inserita la seguente: "bb-bis) di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al decreto legislativo 8 giugno 2001,n. 231;".
 
 ## Art. 50. — Termine per l'emanazione dei decreti dirigenziali
 

@@ -8,8 +8,8 @@ codice_redazionale: 010G0252
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,11 +31,54 @@ L'Accademia nazionale dei Lincei, di seguito denominata «Accademia», e' riordi
 
 ## Art. 2. — Il Collegio dei revisori dei conti
 
+1.
+                    
+                        
+                            Il Collegio dei revisori dei conti e' nominato con decreto del Ministro per i beni e le attivita' culturali ed e' composto da tre membri effettivi e tre supplenti cosi' designati: 
+ 
+                        
+                        
+                            a)
+                            
+                                un revisore effettivo con funzioni di Presidente ed uno supplente, designati dal Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un revisore effettivo ed uno supplente, designati dal Ministero per i beni e le attivita' culturali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un revisore effettivo ed uno supplente, eletti dall'Assemblea delle Classi Riunite, scelti tra i Soci nazionali o tra persone in possesso dell'iscrizione al registro dei revisori legali.
+
 I membri del Collegio dei revisori durano in carica tre anni e possono essere confermati una sola volta.
 
 Ai revisori di cui alle lettere a), b) e c) del comma 1 non spettano compensi, indennita' o gettoni di presenza.
 
 ## Art. 3. — Organizzazione interna e Uffici dirigenziali
+
+1.
+                    
+                        
+                            Al fine di assicurare la realizzazione degli obiettivi di cui all'articolo 2, comma 634, lettera h), della legge 24 dicembre 2007, n. 244, entro centottanta giorni dalla data di entrata in vigore del presente regolamento e' adottato, con deliberazione del Consiglio di Presidenza, il regolamento interno dell'Accademia per l'assetto organizzativo degli uffici dirigenziali, nonche' per la determinazione e la distribuzione dei compiti operativi e delle dotazioni organiche, nel rispetto dei seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                individuazione degli uffici dirigenziali, con esclusione di quello del Cancelliere, in numero non superiore a due; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ridefinizione della pianta organica del personale non dirigenziale apportando una riduzione non inferiore al dieci per cento della spesa complessiva relativa al numero dei posti di organico di tale personale.
 
 ## Art. 4. — Disposizioni transitorie e finali
 

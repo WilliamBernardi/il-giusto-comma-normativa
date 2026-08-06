@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-03-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,29 @@ Ritenuta, altresi', la necessita' di stabilire i termini e le modalita' per la p
 Udito il parere del Consiglio di Stato reso dalla sezione consultiva per gli atti normativi in data 23 febbraio 1998;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Per l'individuazione delle associazioni combattentistiche e d'arma e delle associazioni sportive dilettantistiche, alle quali si applicano le disposizioni di cui all'articolo 1, comma 1, della legge 11 luglio 1986, n. 390, riguardanti la facolta' dell'amministrazione finanziaria di dare in concessione o in locazione a canone ricognitorio, per la durata di non oltre diciannove anni, beni demaniali o patrimoniali dello Stato non suscettibili, anche temporaneamente, di uso governativo attuale, si osservano i seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                per le associazioni combattentistiche e d'arma:
+ 1) assenza di fini di lucro;
+ 2) sottoposizione alla vigilanza del Ministero della difesa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le associazioni sportive dilettantistiche:
+ 1) assenza di fini di lucro;
+ 2) affiliazione alle federazioni sportive nazionali o agli enti nazionali di promozione sportiva riconosciuti ai sensi delle leggi vigenti;
+ 3) svolgimento di attivita' sportiva dilettantistica, come definita dalla normativa regolamentare degli organismi affilianti.
 
 ## Art. 2. — ((ARTICOLO ABROGATO DAL D.P.R. 8 GENNAIO 2001, N. 41))
 

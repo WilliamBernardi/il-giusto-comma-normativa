@@ -7,8 +7,8 @@ urn: urn:nir:presidenza.consiglio.ministri.dipartimento.funzione.pubblica:decret
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,6 +43,108 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 ## - Capo I Principi generali
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si applicano le definizioni di cui all'articolo 3, comma 1, del decreto legislativo 18 aprile 2016, n. 50, recante codice dei contratti pubblici, di seguito «codice». Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    CAD: il Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    regolamento eIDAS: il regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Banca dati nazionale dei contratti pubblici (BDNCP): la Banca Dati Nazionale gestita dall'Autorita' Nazionale Anticorruzione (ANAC), di cui all'articolo 213 del codice, nella quale confluiscono, oltre alle informazioni acquisite dalla stessa Autorita' tramite i propri sistemi informatizzati, tutte le informazioni contenute nelle banche dati esistenti, anche a livello territoriale, onde garantire accessibilita' unificata, trasparenza, pubblicita' e tracciabilita' delle procedure di gara e delle fasi a essa prodromiche e successive; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sistema telematico: il sistema costituito da soluzioni informatiche e di telecomunicazione che consentono lo svolgimento in modalita' telematica delle procedure di affidamento disciplinate dal codice; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    utente: persona fisica, che agisce per se' o per un soggetto giuridico pubblico o privato, autorizzata dal responsabile del sistema telematico all'accesso e all'utilizzo del sistema telematico, identificata e autenticata secondo quanto previsto dal presente regolamento e dalle regole tecniche di cui all'articolo 2, comma 2; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gestore del sistema telematico: soggetto pubblico o privato che garantisce il corretto funzionamento e la sicurezza del sistema telematico, individuato con le procedure di affidamento disciplinate dal codice; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    responsabile del sistema telematico: persona individuata tra il personale della stazione appaltante provvisto di adeguata professionalita' che si avvale del sistema telematico che assicura l'operativita' del sistema medesimo, garantendone l'utilizzo da parte dei soggetti autenticati, in ragione delle regole di utilizzo definite dalla stazione appaltante; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sistema di ripristino (disaster recovery): insieme delle misure tecniche e organizzative adottate per assicurare il funzionamento del sistema, delle procedure e applicazioni informatiche, in siti alternativi a quelli primari ovvero di produzione, a fronte di eventi che provocano o possono provocare indisponibilita' prolungate; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gestione della continuita' operativa (Business Impact Analysis - BIA): metodologia utilizzata per determinare le conseguenze di un evento e per valutarne l'impatto sull'operativita' del sistema o dell'organizzazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    gestione della vulnerabilita': insieme delle misure tecniche e organizzative adottate per la valutazione, la gestione e la prevenzione di eventi indesiderati che possono comportare danni o perdite per il sistema o per l'organizzazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    gestione degli aggiornamenti: processo di acquisizione, verifica, test e installazione degli aggiornamenti dei sistemi operativi e delle applicazioni informatiche finalizzato a risolverne le vulnerabilita' eventualmente individuate e di mantenere la sicurezza e l'efficienza operativa del sistema; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    gestione degli incidenti di sicurezza (security incident management): insieme delle misure tecniche e organizzative adottate per la prevenzione e gestione degli incidenti di sicurezza informatica; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    caratterizzazione: l'attribuzione all'utente di un profilo, da parte del responsabile del sistema telematico, sulla base delle informazioni fornite, al termine della procedura di identificazione, coerente con il ruolo o la funzione svolta nella procedura a cui sono legate specifiche autorizzazioni operative; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    Sistema pubblico d'identita' digitale (SPID): l'insieme aperto di soggetti pubblici e privati di cui all'articolo 64 del CAD che, previo accreditamento da parte dell'Agenzia per l'Italia digitale (AgID), identificano gli utenti per consentire loro il compimento di attivita' e l'accesso ai servizi in rete.
 
 ## Art. 2. — Oggetto e ambito di applicazione
 
@@ -258,6 +360,59 @@ Il sistema telematico consente alla stazione appaltante di assolvere all'obbligo
 Il sistema telematico consente la redazione del contratto nel rispetto di quanto previsto dall'articolo 32, comma 14, del codice e, comunque, l'acquisizione del contratto e il suo inserimento nel fascicolo informatico di cui all'articolo 7.
 
 ## Art. 28. — Migliori pratiche
+
+1.
+                        
+                            
+                                Al fine di rendere piu' efficiente ed efficace l'azione della stazione appaltante nello svolgimento delle attivita' connesse alle procedure di acquisto e di negoziazione, il sistema telematico e' realizzato tenendo conto delle migliori pratiche riguardanti metodologie organizzative e di lavoro, metodologie di programmazione e pianificazione, riferite anche all'individuazione dei dati rilevanti, alla loro raccolta, gestione ed elaborazione, nonche' alle soluzioni informatiche, telematiche e tecnologiche di supporto, tra le quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    redazione in modalita' informatica della documentazione utile nell'espletamento delle procedure di gara; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    integrazione con i sistemi di gestione dei documenti informatici e di conservazione degli archivi digitali dei fascicoli di gara; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    scambio di dati in interoperabilita' sia con i sistemi contabili delle stazioni appaltanti sia con i sistemi rilevanti ai fini della semplificazione delle procedure per gli operatori economici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzo di strumenti per la comunicazione, il coordinamento e la collaborazione anche per la gestione di scadenzari per il rispetto degli obblighi e degli adempimenti normativi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adozione di strumenti innovativi per lo scambio di comunicazioni da e verso gli operatori economici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adozione di procedure di gestione della vulnerabilita' e degli aggiornamenti, nonche' di gestione degli incidenti di sicurezza (security incident management), formalizzati in conformita' agli standard internazionali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    integrazione degli strumenti per la pianificazione degli acquisti e la raccolta dei requisiti utili all'indizione delle gare.
 
 L'AgID, ai sensi dell'articolo 71 del CAD, detta, con proprie linee guida, le regole tecniche per la definizione delle migliori pratiche di cui al comma 1.
 

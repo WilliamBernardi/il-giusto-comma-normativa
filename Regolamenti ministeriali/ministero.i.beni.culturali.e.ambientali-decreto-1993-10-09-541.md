@@ -8,8 +8,8 @@ codice_redazionale: 093G0620
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,87 @@ Sara' indetto un concorso interno, per titoli di servizio e prova pratica, per l
 Al concorso potranno partecipare coloro i quali, rivestendo ex qualifiche operaie o di operatore tecnico o altre, abbiano esercitato l'insegnamento presso l'opificio delle pietre dure, a seguito di formale ordine di servizio, svolgendo attivita' didattica in via diretta e continuativa negli anni scolastici antecedenti l'anno scolastico 1991-1992.
 
 L'esclusione dal concorso per difetto dei requisiti prescritti potra' essere disposta dall'Amministrazione in ogni momento, con decreto motivato del Ministro.
+
+3.
+                    
+                        
+                            I settori di specializzazione del restauro o di intervento tecnico di laboratorio ai quali l'attivita' didattica rilevante ai fini dell'ammissione al concorso dovra' essere stata indirizzata sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                opere mobili di pittura;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pitture murarie e stucchi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                opere e manufatti lignei;
+
+                            
+                        
+                        
+                            d)
+                            
+                                opere e manufatti lapidei;
+
+                            
+                        
+                        
+                            e)
+                            
+                                opere e manufatti in commesso e musivi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                opere e manufatti metallici, armi antiche;
+
+                            
+                        
+                        
+                            g)
+                            
+                                oreficeria e glittica;
+
+                            
+                        
+                        
+                            h)
+                            
+                                disegni e stampe;
+
+                            
+                        
+                        
+                            i)
+                            
+                                fotografia;
+
+                            
+                        
+                        
+                            l)
+                            
+                                climatologia;
+
+                            
+                        
+                        
+                            m)
+                            
+                                biologia.
 
 ## Art. 3.
 
@@ -63,11 +144,77 @@ La commissione esaminatrice di cui al precedente articolo disporra' complessivam
  30 punti per la prova pratica.
  La valutazione dei titoli precedera' la prova pratica.
 
+2.
+                    
+                        
+                            La commissione esaminatrice determinera' i criteri per la valutazione dei titoli prima di aver preso visione della documentazione relativa ai titoli stessi.
+ I titoli valutabili ed i punteggi ad essi attribuibili sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                titoli di studio: fino a un massimo di punti 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' didattica: fino a un massimo di punti 6;
+
+                            
+                        
+                        
+                            c)
+                            
+                                qualificazione professionale: fino a un massimo
+di punti 3;
+
+                            
+                        
+                        
+                            d)
+                            
+                                pubblicazioni scientifiche: fino a un massimo di punti 4.
+
 I titoli dovranno essere posseduti alla data di scadenza del termine stabilito per l'inoltro delle domande di ammissione al concorso e dovranno essere documentati, a cura degli interessati, pena l'esclusione della loro valutabilita', con le modalita' di cui al successivo art. 6.
 
 Di detti titoli e della relativa documentazione dovra' essere redatto un elenco da allegare alla domanda di ammissione al concorso, unitamente alla documentazione stessa.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            Ai fini della valutazione dei titoli di cui al precedente art. 5, le domande di ammissione al concorso dovranno essere corredate di:
+ 
+                        
+                        
+                            a)
+                            
+                                documentazione relativa al titolo o ai titoli di studio posseduti: detti titoli dovranno essere prodotti in originale o in fotocopia autenticata a norma delle vigenti disposizioni ovvero mediante certificati in carta semplice rilasciati dalle competenti autorita' scolastiche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                certificazione in carta semplice rilasciata dal direttore dell'opificio delle pietre dure di Firenze, dalla quale risultino i periodi di insegnamento svolti presso l'istituto, la materia dell'insegnamento e l'incarico in base al quale l'insegnamento e' stato svolto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione attestante il possesso di diplomi di qualificazione professionale o la partecipazione a corsi di qualificazione professionale: detti titoli dovranno essere prodotti in originale o in fotocopia autenticata a norma delle vigenti disposizioni ovvero mediante certificati in carta semplice rilasciati dalle autorita' che hanno conferito i diplomi ed organizzato i corsi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                pubblicazioni scientifiche in originale o fotocopia autenticata a norma delle vigenti disposizioni.
 
 ## Art. 7.
 
@@ -99,6 +246,66 @@ La votazione complessiva risultera' dalla somma dei punteggi riportati nella val
 La prova pratica si terra' presso i locali dell'opificio delle pietre dure in Firenze.
 
 I candidati riceveranno, con un preavviso non inferiore a venti giorni, la comunicazione della data in cui la prova stessa avra' luogo.
+
+3.
+                    
+                        
+                            Non possono essere ammessi a sostenere la prova pratica i candidati privi di uno dei documenti di riconoscimento non scaduti di validita', tassativamente di seguito indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                tessera postale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                patente automobilistica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                passaporto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                carta d'identita';
+
+                            
+                        
+                        
+                            e)
+                            
+                                porto d'armi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                tessera modello AT rilasciata dal Ministero per i beni culturali e ambientali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                tessera militare con fotografia;
+
+                            
+                        
+                        
+                            h)
+                            
+                                foto su carta legale autenticata da un notaio o dal sindaco del comune di residenza.
 
 ## Art. 9.
 

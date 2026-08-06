@@ -8,8 +8,8 @@ codice_redazionale: 004G0108
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,24 @@ Sulla proposta del Ministro dell'interno, di concerto con il Ministro per la fun
 
 Le disposizioni del presente regolamento si applicano al personale volontario del Corpo nazionale dei vigili del fuoco.
 
+2.
+                        
+                            
+                                Il personale volontario del Corpo nazionale dei vigili del fuoco e' costituito da:
+ 
+                            
+                            
+                                a)
+                                
+                                    vigili volontari iscritti, a domanda, negli elenchi dei comandi provinciali, ai sensi dell'articolo 13 della legge 8 dicembre 1970, n. 996;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ex vigili volontari ausiliari di leva iscritti d'ufficio negli elenchi dei comandi provinciali ai sensi dell'articolo 12 della legge 8 dicembre 1970, n. 996.
+
 Il personale volontario non e' vincolato da rapporto di impiego con l'amministrazione ed e' chiamato a svolgere temporaneamente i propri compiti ogni qualvolta se ne manifesti il bisogno, in conformita' a quanto disposto dagli articoli 14 e 70 della legge 13 maggio 1961, n. 469.
 
 ## Art. 2. — Elenco del personale volontario
@@ -37,21 +55,237 @@ In ogni comando provinciale e' istituito un unico elenco del personale volontari
 
 ## Art. 3. — Qualifiche
 
+1.
+                        
+                            
+                                Le qualifiche del personale volontario sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    funzionario tecnico antincendi volontario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capo reparto volontario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capo squadra volontario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vigile volontario.
+
 Al personale volontario si applicano, in quanto compatibili, le vigenti disposizioni in materia di doveri, compiti e responsabilita', previste per il personale permanente di pari qualifica, limitatamente alle attivita' inerenti al soccorso.
 
 I funzionari tecnici antincendi volontari sono equiparati, ai fini della determinazione di doveri, compiti e responsabilita', ai collaboratori tecnici antincendi del Corpo nazionale dei vigili del fuoco.
 
 ## Art. 4. — Contingente del personale volontario utilizzato presso i distaccamenti volontari e i comandi provinciali
 
+1.
+                        
+                            
+                                Presso ciascun distaccamento volontario il contingente del personale volontario di cui all'articolo 3, comma 1, con l'eccezione dei funzionari tecnici antincendi, e' determinato come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    un capo reparto volontario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quattro capi squadra volontari, cui si aggiunge un capo squadra ogni cinque vigili volontari, fino ad un massimo di dodici capi squadra volontari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    almeno dieci vigili volontari.
+
+2.
+                        
+                            
+                                Per le esigenze dei comandi provinciali il contingente del personale volontario di cui all'articolo 3, comma 1, con l'eccezione dei vigili volontari e dei funzionari tecnici antincendi e' determinato come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    un capo reparto volontario ogni 100 capi squadra che abbiano prestato servizio con tale qualifica per almeno ottanta giorni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un capo squadra volontario ogni 500 vigili volontari che abbiano prestato servizio per almeno ottanta giorni.
+
 ## - Capo II RECLUTAMENTO
 
 ## Art. 5. — Reclutamento ed iscrizione dei funzionari tecnici antincendi volontari
+
+1.
+                        
+                            
+                                I funzionari tecnici antincendi volontari vengono iscritti nell'elenco di cui all'articolo 2 e sono reclutati tra coloro che ne facciano domanda e siano in possesso dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    laurea in ingegneria, architettura, geologia; diploma di geometra o di perito industriale ed equipollenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    patente di abilitazione alla guida di autoveicoli;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    idoneita' psicofisica ed attitudinale da accertarsi, secondo i criteri stabiliti dalla tabella I allegata al presente regolamento, a cura dei competenti comandi provinciali, che possono avvalersi anche delle strutture del Servizio sanitario nazionale o di altre apposite strutture convenzionate;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eta' non inferiore agli anni ventidue e non superiore agli anni quaranta;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    residenza in un comune della provincia sede del comando per il quale si richiede l'iscrizione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    godimento dei diritti politici;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    non essere stati destituiti, dispensati o licenziati dall'impiego presso una pubblica amministrazione;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    possesso del requisito delle qualita' morali e di condotta di cui all'articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    posizione regolare nei confronti degli obblighi di leva.
 
 Il personale volontario appartenente alle qualifiche di vigile, capo squadra e capo reparto e in possesso del titolo di studio di cui al comma 1, lettera b), puo' presentare domanda per il reclutamento e l'iscrizione quale funzionario tecnico antincendi volontario; in tal caso non trova applicazione il limite massimo di eta' previsto dal comma 1, lettera e).
 
 I funzionari tecnici antincendi volontari di cui al comma 1 presentano l'istanza di iscrizione esclusivamente tramite il comando provinciale di residenza e successivamente all'iscrizione svolgono un tirocinio di cinque anni presso un distaccamento volontario, secondo modalita' e tempi fissati con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile del Ministero dell'interno. Il periodo di tirocinio non e' considerato richiamo in servizio.
 
 ## Art. 6. — Reclutamento ed iscrizione dei vigili volontari
+
+1.
+                        
+                            
+                                I vigili volontari a domanda sono reclutati fra coloro che ne facciano domanda e risultino in possesso dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    cittadinanza italiana;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma di istruzione secondaria di primo grado;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' psicofisica ed attitudinale da accertarsi, secondo i criteri stabiliti dalla tabella I, allegata al presente regolamento, a cura dei competenti comandi provinciali, che possono avvalersi anche delle strutture del Servizio sanitario nazionale o di altre apposite strutture convenzionate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eta' non inferiore a diciotto e non superiore a quarantacinque anni;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    residenza in un comune della provincia sede del comando per il quale si richiede l'iscrizione; si prescinde da tale requisito esclusivamente per il personale volontario che chiede di essere impiegato presso un distaccamento situato in una provincia limitrofa a quella di residenza;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    godimento dei diritti politici;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    non essere stati destituiti, dispensati o licenziati dall'impiego presso una pubblica amministrazione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    possesso del requisito delle qualita' morali e di condotta, di cui all'articolo 35, comma 6, del decreto legislativo 30 marzo 2001, n. 165;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    posizione regolare nei confronti degli obblighi di leva.
 
 I vigili volontari ex ausiliari di leva, in deroga a quanto previsto dalla lettera d) del comma 1, entro sei mesi dalla cancellazione d'ufficio dall'elenco del personale volontario, per raggiungimento dei limiti di eta', possono essere nuovamente iscritti a domanda nel medesimo elenco, conservando l'anzianita' conseguita.
 
@@ -72,6 +306,31 @@ Per il reclutamento del personale di cui ai commi 1 e 2, non trova applicazione 
 Per il personale di cui ai commi 1 e 2 non vige l'obbligo di frequentare il corso di cui al comma 1, dell'articolo 9.
 
 ## Art. 8. — Incompatibilita'
+
+1.
+                        
+                            
+                                Non e' consentita l'iscrizione nell'elenco del personale volontario:
+ 
+                            
+                            
+                                a)
+                                
+                                    del personale permanente in servizio nel Corpo nazionale dei vigili del fuoco;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del personale delle Forze armate, delle Forze di polizia e delle altre istituzioni pubbliche preposte all'ordine ed alla sicurezza pubblica, con eccezione degli appartenenti ai Corpi di polizia degli enti locali, previo nulla osta delle amministrazioni competenti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    degli amministratori di societa' e dei titolari di impresa che producono, installano, commercializzano impianti, dispositivi e attrezzature antincendio e dei titolari di istituti, enti e studi professionali che esercitano attivita' di formazione, vigilanza, consulenza e servizi nel settore antincendio.
 
 ## Art. 9. — Corsi di formazione del personale volontario
 
@@ -157,6 +416,26 @@ Le domande di partecipazione alle singole procedure di avanzamento devono essere
 
 Il personale volontario e' richiamato in servizio per le ipotesi previste dall'articolo 70 della legge 13 maggio 1961, n. 469, e successive modificazioni. Il richiamo viene disposto a cura e sotto la diretta responsabilita' del competente comandante provinciale dei vigili del fuoco, previa autorizzazione del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, a rotazione e sulla base dei criteri dell'anzianita' d'iscrizione nell'elenco, dell'eventuale stato di disoccupazione, nonche' del carico familiare degli interessati. Sentite le organizzazioni sindacali, il richiamo viene disposto dal competente direttore regionale qualora il servizio debba essere espletato in una provincia diversa da quella di residenza e dal Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, qualora il servizio debba essere espletato in una regione diversa da quella di residenza.
 
+2.
+                        
+                            
+                                Il personale volontario, ad eccezione del funzionario tecnico antincendi, viene impiegato presso i distaccamenti volontari con le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'ambito della circoscrizione territoriale di competenza del distaccamento volontario:
+ 1) su segnalazione o richiesta diretta di intervento con contestuale informazione della sala operativa del comando provinciale;
+ 2) su richiesta di soccorso pervenuta direttamente al comando provinciale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al di fuori della circoscrizione territoriale di competenza, su disposizione del comando provinciale.
+
 Il personale volontario in forza presso i posti di vigilanza viene impiegato analogamente con le modalita' indicate nei commi 1 e 2.
 
 Nei casi di cui al comma 2 il comando provinciale deve essere costantemente informato sulla natura e sviluppo del servizio di istituto svolto dalla sede volontaria.
@@ -172,6 +451,66 @@ Il personale volontario in servizio negli appositi distaccamenti del Corpo nazio
 L'interessato puo' presentare domanda per lo svolgimento delle mansioni di cui al comma 1 entro trenta giorni dalla notifica del giudizio di inidoneita' al servizio di soccorso.
 
 ## Art. 20. — Cancellazione dagli elenchi del personale volontario
+
+1.
+                        
+                            
+                                La cancellazione dall'elenco del personale volontario e' prevista per:
+ 
+                            
+                            
+                                a)
+                                
+                                    decesso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dimissioni volontarie presentate al comando provinciale di appartenenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    raggiungimento dei limiti di eta', salvo quanto previsto dall'articolo 6, comma 3;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    incapacita', insufficiente rendimento ed assenza ingiustificata da turni ed esercitazioni, ai sensi dell'articolo 73 della legge 13 maggio 1961, n. 469;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mancata partecipazione o mancato superamento del corso di formazione di cui all'articolo 9;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le ipotesi di cui all'articolo 35, commi 1, lettera c), e 2, della legge 5 dicembre 1988, n. 521;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sopravvenuta inidoneita' psicofisica permanente e assoluta al servizio nel Corpo nazionale dei vigili del fuoco, come prevista dal decreto ministeriale in data 5 febbraio 2002, e successive modificazioni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sopravvenuta incompatibilita', ai sensi dell'articolo 8.
 
 ## Art. 21. — Ordinamento gerarchico del personale volontario
 

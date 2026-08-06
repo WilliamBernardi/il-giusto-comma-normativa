@@ -8,8 +8,8 @@ codice_redazionale: 096G0069
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,52 @@ Il presente regolamento individua, in conformita' all'art. 24, comma 4, della le
 
 ## Art. 2. — Categorie di documenti inaccessibili per motivi
  di riservatezza di terzi, persone, gruppi ed imprese
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 8, comma 5, lettera d), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare la riservatezza di terzi, persone, gruppi ed imprese, garantendo peraltro ai medesimi la visione degli atti relativi ai procedimenti amministrativi, la cui conoscenza sia necessaria per curare o per difendere i loro interessi giuridici, sono sottratte all'accesso le seguenti categorie di documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti informativi sul personale dipendente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                documenti concernenti informazioni di carattere psico-attitudinale di determinati soggetti, con esclusione di quelli concernenti i criteri generali fissati, in funzione autolimitativa, dall'amministrazione per le procedure stesse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                documenti rappresentativi di accertamenti e di dichiarazioni medico-legali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                documenti relativi alla salute delle persone;
+
+                            
+                        
+                        
+                            e)
+                            
+                                documenti rappresentativi di interventi dell'autorita' giudiziaria o della procura generale e delle procure regionali presso la Corte dei conti, relativi a soggetti per i quali si appalesa la sussistenza di responsabilita' penale, civile o amministrativa;
+
+                            
+                        
+                        
+                            f)
+                            
+                                relazioni alla procura generale e alle procure regionali presso la Corte dei conti nei confronti dei soggetti suindicati, nonche' atti di promovimento di azioni di responsabilita' davanti alla autorita' giudiziaria.
 
 ## Art. 3. — Differimento
 

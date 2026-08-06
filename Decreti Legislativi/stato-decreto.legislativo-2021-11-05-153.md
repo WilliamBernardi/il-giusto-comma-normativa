@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-11-05;153
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,7 +40,252 @@ L'obiettivo dell'interoperabilita' dei sistemi di telepedaggio stradale nell'Uni
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «servizio europeo di telepedaggio (SET)»: il servizio di pedaggio fornito in esecuzione di un contratto in uno o piu' settori del SET da un fornitore del SET a un utente del SET; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «servizio di pedaggio»: il servizio che consente agli utenti di utilizzare un veicolo in uno o piu' settori del SET in esecuzione di un unico contratto e, se necessario, con un'apparecchiatura di bordo, e che include: 
+ 1) se necessario, la fornitura agli utenti di apparecchiature di bordo personalizzate e il mantenimento della loro funzionalita'; 
+ 2) la garanzia che all'esattore di pedaggi sia corrisposto il pedaggio dovuto dall'utente; 
+ 3) la fornitura all'utente di mezzi con cui effettuare il pagamento o l'accettazione di quelli gia' esistenti; 
+ 4) la riscossione del pedaggio dall'utente; 
+ 5) la gestione dei rapporti di clientela con l'utente; 
+ 6) l'attuazione e il rispetto delle politiche in materia di sicurezza e riservatezza applicabili ai sistemi di pedaggio stradale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «fornitore di servizi di pedaggio»: un soggetto giuridico che fornisce servizi di pedaggio in uno o piu' settori del SET per una o piu' classi di veicoli; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «esattore di pedaggi»: un soggetto pubblico o privato che riscuote pedaggi per la circolazione di veicoli in un settore del SET; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «esattore di pedaggi designato»: un soggetto pubblico o privato individuato come esattore di pedaggi di un futuro settore del SET; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «fornitore del SET»: un soggetto che, in esecuzione di contratti distinti, concede l'accesso al SET a un utente del SET, trasferisce i pedaggi al pertinente esattore di pedaggi ed e' registrato nello Stato membro in cui ha sede legale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «utente del SET»: una persona fisica o giuridica che ha sottoscritto un contratto con un fornitore del SET per avere accesso al SET; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «settore del SET»: una strada, una rete stradale o strutture, come ponti o tunnel, o traghetti, per le quali e' riscosso un pedaggio utilizzando un sistema di telepedaggio stradale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «sistema conforme al SET»: l'insieme degli elementi di un sistema di telepedaggio che sono specificamente necessari per l'integrazione dei fornitori del SET nel sistema e per il funzionamento del SET; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «sistema di telepedaggio stradale»: un sistema di riscossione dei pedaggi in cui e' previsto l'obbligo per l'utente di pagare il pedaggio esclusivamente in correlazione al rilevamento automatico della presenza del veicolo in un determinato luogo attraverso la comunicazione remota con l'apparecchiatura di bordo all'interno del veicolo o il riconoscimento automatico delle targhe; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «apparecchiatura di bordo»: l'insieme completo dei componenti hardware e software da utilizzare nel quadro del servizio di pedaggio, installato o trasportato a bordo di un veicolo per raccogliere, memorizzare, trattare e ricevere o trasmettere dati a distanza, sia essa costituita da un dispositivo distinto oppure integrata nel veicolo; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «fornitore di servizi principale»: un fornitore di servizi di pedaggio con obblighi specifici, quale l'obbligo di sottoscrivere contratti con tutti gli utenti interessati, o con diritti specifici, quale una particolare remunerazione o un contratto a lungo termine garantito, diversi dai diritti e dagli obblighi di altri fornitori di servizi; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «componente di interoperabilita'»: qualsiasi componente elementare, gruppo di componenti, sottoinsieme o insieme completo di materiali incorporati o destinati a essere incorporati nel SET, da cui dipende direttamente o indirettamente l'interoperabilita' del servizio, compresi oggetti tangibili e intangibili quali, a titolo esemplificativo, il software; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «idoneita' all'uso»: la capacita' di un componente di interoperabilita' di conseguire e mantenere una prestazione specifica quando e' in funzione, integrata in maniera rappresentativa nel SET in relazione al sistema di un esattore di pedaggi; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «dati contestuali di pedaggio»: le informazioni definite dall'esattore di pedaggi competente necessarie per stabilire il pedaggio dovuto per far circolare un veicolo in un particolare settore sottoposto a pedaggio e concludere la transazione di pedaggio; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «rapporto di pedaggio»: attestazione di conferma a un esattore di pedaggi della presenza di un veicolo in un settore del SET in un formato concordato tra il fornitore del servizio di pedaggio e l'esattore di pedaggi; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «parametri di classificazione dei veicoli»: informazioni relative ai veicoli secondo le quali si calcolano i pedaggi sulla base dei dati contestuali di pedaggio; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «back-office»: il sistema elettronico centrale usato dall'esattore di pedaggi, da un gruppo di esattori di pedaggi che ha creato un hub di interoperabilita' o da un fornitore del SET per raccogliere, trattare e inviare informazioni nel quadro di un sistema di telepedaggio stradale; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «sistema modificato sostanzialmente»: un sistema esistente di telepedaggio stradale che e' o e' stato oggetto di un cambiamento che impone ai fornitori del SET di apportare modifiche ai componenti di interoperabilita' in uso, come riprogrammare o adattare le interfacce del loro back-office, in misura tale da richiedere un riaccreditamento; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «accreditamento»: il processo definito e gestito dall'esattore di pedaggi cui deve essere sottoposto un fornitore del SET prima di essere autorizzato a fornire il SET in un settore del SET; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «pedaggio» o «pedaggio stradale»: corrispettivo dovuto dall'utente della strada per circolare su una determinata strada, una rete stradale, su infrastrutture come ponti e tunnel, o traghetti; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «mancato pagamento di un pedaggio stradale»: un'infrazione consistente nella mancata corresponsione di un pedaggio stradale da parte di un utente della strada in uno Stato membro, come definita dalle pertinenti disposizioni nazionali di tale Stato membro; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «Stato membro di immatricolazione»: lo Stato membro in cui e' immatricolato il veicolo soggetto al pagamento del pedaggio stradale; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «punto di contatto nazionale»: la Direzione generale del Ministero delle infrastrutture e della mobilita' sostenibili, designata ai sensi dell'articolo 21 per lo scambio transfrontaliero dei dati di immatricolazione dei veicoli; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «ricerca automatizzata»: una procedura di accesso online per la consultazione delle banche dati degli Stati membri; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    «veicolo»: un veicolo a motore o un insieme di autoarticolati adibito o destinato al trasporto su strada di passeggeri o di merci; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    «intestatario del veicolo»: la persona a nome della quale e' immatricolato il veicolo, quale definita nella normativa nazionale dello Stato membro di immatricolazione; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    «veicolo pesante»: un veicolo avente una massa massima ammissibile superiore a 3,5 tonnellate; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    «veicolo leggero»: un veicolo avente una massa massima ammissibile non superiore a 3,5 tonnellate; 
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    «sistemi di pedaggio piccoli e strettamente locali»: sistemi di pedaggio operati da soggetti pubblici o privati su infrastrutture diverse dalla rete stradale di interesse nazionale e dalla rete autostradale.
+
 ## Art. 3. — Soluzioni tecnologiche
+
+1.
+                        
+                            
+                                Tutti i nuovi sistemi di telepedaggio stradale, che richiedono l'installazione o l'uso di apparecchiature di bordo, messi in servizio, a decorrere dal 19 ottobre 2021, per effettuare le operazioni di pagamento elettronico dei pedaggi, si basano sull'uso di almeno una delle seguenti tecnologie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    posizionamento satellitare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tecnologie di comunicazione radiomobile GSM, UMTS, LTE, 5G New Radio (ETSI TR 121 900 V16. 4.0); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tecnologia a microonde a 5,8 GHz.
 
 I sistemi di telepedaggio stradale esistenti, che richiedono l'installazione o l'uso di apparecchiature di bordo e utilizzano tecnologie diverse da quelle indicate nel comma 1, si conformano alle prescrizioni di cui al medesimo comma 1, qualora siano apportati miglioramenti tecnologici sostanziali.
 
@@ -53,6 +298,91 @@ Fino al 31 dicembre 2027, i fornitori del SET possono fornire agli utenti di vei
 ## - Capo II Principi generali del SET
 
 ## Art. 4. — Registrazione dei fornitori del SET
+
+1.
+                        
+                            
+                                I soggetti con sede legale nel territorio nazionale, ai fini dell'iscrizione nel registro dei fornitori del SET, devono dimostrare il possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    certificazione EN ISO 9001 o una certificazione equivalente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    apparecchiature tecniche e dichiarazione CE o certificato che attesta la conformita' dei componenti di interoperabilita' alle specifiche di cui all'allegato III del regolamento di esecuzione (UE) 2020/204 della Commissione, del 28 novembre 2019; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    competenza nella fornitura di servizi di telepedaggio o in altri settori pertinenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adeguata capacita' finanziaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sussistenza di un piano per la gestione globale dei rischi sottoposto a verifica almeno ogni due anni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esistenza dei requisiti di onorabilita' di cui al comma 2.
+
+2.
+                        
+                            
+                                Ai fini dell'iscrizione nel registro dei fornitori del SET, i soggetti di cui al comma 1 presentano apposita domanda alla competente Direzione generale del Ministero delle infrastrutture e della mobilita' sostenibili, fornendo la documentazione idonea a comprovare il possesso dei requisiti di cui al comma 1. Per quanto riguarda il possesso dei requisiti di onorabilita', il richiedente rende, ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, una dichiarazione da cui risulta di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non essere destinatario di comunicazione interdittiva antimafia o di informazione interdittiva antimafia, ai sensi del decreto legislativo 6 settembre 2011, n. 159; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non essere destinatario della sanzione interdittiva di cui all'articolo 9, comma 2, lettera a), del decreto legislativo 8 giugno 2001, n. 231; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non essere sottoposto a liquidazione giudiziale, a procedura fallimentare, di concordato fallimentare, di liquidazione coatta amministrativa o di concordato preventivo, ne' a procedimenti finalizzati alla dichiarazione di fallimento, di liquidazione coatta amministrativa o di dichiarazione giudiziale ovvero di ammissione alle procedure di concordato fallimentare o di concordato preventivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non versare in una delle condizioni di cui all'articolo 80, comma 1, del decreto legislativo 18 aprile 2016, n. 50; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    aver ottemperato agli obblighi relativi al pagamento delle imposte e tasse o dei contributi previdenziali.
 
 Fermo quanto previsto dalla legge 7 agosto 1990, n. 241, l'ufficio responsabile della tenuta dei registri elettronici nazionali di cui all'articolo 19 del presente decreto, verificata l'esistenza dei requisiti per l'iscrizione nel registro dei fornitori del SET, adotta il relativo provvedimento entro trenta giorni decorrenti dalla data di ricezione della domanda e procede all'inserimento dei dati del fornitore nel registro di pertinenza. In caso di esito negativo dell'istruttoria, entro il medesimo termine di cui al primo periodo e' adottato il provvedimento di rigetto.
 
@@ -108,6 +438,24 @@ I fornitori del SET hanno diritto a una remunerazione da parte dell'esattore di 
 
 La metodologia per la definizione della remunerazione dei fornitori del SET deve essere trasparente, non discriminatoria e identica per tutti i fornitori del SET accreditati ad un determinato settore del SET e deve essere pubblicata, fra le condizioni commerciali, nella dichiarazione relativa ai settori del SET.
 
+3.
+                        
+                            
+                                Nei settori del SET con un fornitore di servizi principale, la metodologia per il calcolo della remunerazione dei fornitori del SET riproduce la struttura della remunerazione per servizi analoghi prestati dal fornitore di servizi principale. L'importo della remunerazione dei fornitori del SET puo' differire dalla remunerazione del fornitore di servizi principale, se cio' e' giustificato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal costo di specifici requisiti e obblighi del fornitore di servizi principale e non dei fornitori del SET; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla necessita' di detrarre, dalla remunerazione dei fornitori del SET, gli oneri fissi imposti dall'esattore di pedaggi sulla base dei costi da questo sostenuti per fornire, gestire e tenere aggiornato un sistema conforme al SET nel settore di propria competenza, compresi i costi di accreditamento, se tali costi non sono compresi nel pedaggio.
+
 ## Art. 8. — Pedaggi
 
 Fermo restando quanto previsto in ordine alla classificazione dei veicoli dall'articolo 2 del regolamento delegato (UE) 2020/203 della Commissione, del 28 novembre 2019, se ai fini della determinazione del regime tariffario applicabile a un determinato veicolo, risulta una discrepanza tra la classificazione dei veicoli usata dal fornitore del SET e quella applicata dall'esattore di pedaggi, prevale la classificazione di quest'ultimo, qualora non ne venga dimostrata l'erroneita'.
@@ -148,6 +496,24 @@ L'organismo di conciliazione, nella propria organizzazione e struttura giuridica
 
 ## Art. 12. — Servizio continuo unico
 
+1.
+                        
+                            
+                                Il SET deve essere fornito agli utenti come servizio continuo unico, erogato secondo le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    una volta memorizzati o dichiarati, o in entrambi i casi, i parametri di classificazione di un veicolo, compresi quelli variabili, non e' richiesto alcun altro intervento umano all'interno del veicolo durante un tragitto, se non in caso di modifiche alle caratteristiche del veicolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'interazione tra l'utente e un elemento specifico dell'apparecchiatura di bordo resta identica a prescindere dal settore del SET interessato.
+
 ## Art. 13. — Elementi aggiuntivi riguardanti il SET
 
 Fermo restando quanto previsto dall'articolo 4 del regolamento di esecuzione 2020/204 della Commissione, del 28 novembre 2019, l'interazione tra gli utenti del SET e gli esattori di pedaggi nell'ambito del SET e' limitata, ove applicabile, al processo di fatturazione in conformita' dell'articolo 6, comma 5, e ai processi di riscossione coercitiva. Le interazioni tra gli utenti del SET e i fornitori del SET, o la loro apparecchiatura di bordo, possono essere specifiche per ciascun fornitore del SET, a condizione che esse non compromettano l'interoperabilita' del SET.
@@ -171,6 +537,24 @@ La conformita' alle specifiche e l'idoneita' all'uso dei componenti di interoper
 ## - Capo V Clausole di salvaguardia
 
 ## Art. 15. — Procedure di salvaguardia
+
+1.
+                        
+                            
+                                Se i componenti di interoperabilita' recanti una marcatura CE, immessi in commercio e utilizzati conformemente alla loro destinazione, non soddisfano le prescrizioni pertinenti, il Ministero delle infrastrutture e della mobilita' sostenibili adotta tutte le misure occorrenti per limitarne l'ambito di applicazione, per vietarne l'uso o per ritirarli dal commercio. Il Ministero informa immediatamente la Commissione delle misure adottate, illustrando i contenuti delle stesse e la relativa motivazione e precisando in particolare se la non conformita' deriva da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    errata applicazione delle specifiche tecniche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inadeguatezza delle specifiche tecniche.
 
 Se i componenti di interoperabilita' muniti della marcatura CE risultano non conformi alle prescrizioni di interoperabilita', il Ministero delle infrastrutture e della mobilita' sostenibili chiede al produttore o al suo mandatario stabilito nell'Unione europea di riportare il componente di interoperabilita' a uno stato di conformita' alle specifiche o di idoneita' all'impiego, o a entrambi, secondo le condizioni stabilite dall'allegato II del regolamento delegato (UE) 2020/203 della Commissione, del 28 novembre 2019, e dall'allegato III del regolamento di esecuzione (UE) 2020/204 della Commissione, del 28 novembre 2019, informando la Commissione e gli altri Stati membri.
 
@@ -203,6 +587,37 @@ L'ufficio di contatto unico e' responsabile della tenuta dei registri elettronic
 
 ## Art. 19. — Registri
 
+1.
+                        
+                            
+                                Presso l'Ufficio di contatto unico individuato ai sensi dell'articolo 18, sono tenuti i tre seguenti registri elettronici nazionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    registro dei settori del SET situati nel territorio nazionale, contenente informazioni concernenti: 
+ 1) gli esattori di pedaggi corrispondenti; 
+ 2) le tecnologie di pedaggio impiegate; 
+ 3) i dati contestuali di pedaggio; 
+ 4) la dichiarazione relativa al settore del SET; 
+ 5) i fornitori del SET che hanno contratti di SET con gli esattori di pedaggi attivi nel settore del SET; 
+ 6) gli esattori di pedaggi designati e le relative dichiarazioni di settore di cui all'articolo 6, comma 2. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    registro dei fornitori del SET cui e' stata concessa la registrazione ai sensi dell'articolo 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    registro Ufficio di contatto unico per il SET, contenente i riferimenti dell'ufficio di cui all'articolo 18, ivi compresi l'indirizzo di posta elettronica di contatto e i recapiti telefonici.
+
 In relazione al registro dei fornitori del SET di cui alla lettera b) del comma 1, l'ufficio di contatto verifica, almeno una volta l'anno, la sussistenza dei requisiti di cui all'articolo 4, comma 1, lettere a), d), e) e f), e provvede al relativo aggiornamento. In detto registro sono altresi' riportate le conclusioni delle verifiche previste dall'articolo 4, comma 1, lettera e). La verifica dell'insussistenza sopravvenuta dei requisiti richiesti per l'iscrizione nel registro dei fornitori del SET determina la cancellazione dal registro stesso. Il Ministero delle infrastrutture e della mobilita' sostenibili non e' responsabile delle azioni dei fornitori del SET iscritti nel registro elettronico nazionale.
 
 L'ufficio di cui al comma 1 cura l'aggiornamento dei registri sulla base dei dati comunicati dagli esattori di pedaggio in esercizio sui settori del SET inseriti nel registro, nonche' dai fornitori del SET iscritti nel registro, utilizzando la modulistica di cui agli allegati I e II del presente decreto.
@@ -232,6 +647,24 @@ Prima di avviare un sistema pilota di pedaggio, il Ministro delle infrastrutture
 ## Art. 21. — Procedura per lo scambio di informazioni 
  fra Stati membri
 
+1.
+                        
+                            
+                                Per consentire l'identificazione del veicolo e del relativo proprietario o intestatario in merito al quale e' stato accertato il mancato pagamento di un pedaggio stradale, soltanto i punti di contatto nazionali degli altri Stati membri dell'Unione europea sono autorizzati ad accedere ai seguenti dati nazionali di immatricolazione dei veicoli, con la facolta' di effettuare ricerche automatizzate su: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati relativi ai veicoli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati relativi ai proprietari o agli intestatari dei veicoli.
+
 I dati di cui alle lettere a) e b) del comma 1, necessari per effettuare una ricerca automatizzata, devono essere conformi a quanto previsto dall'allegato III del presente decreto.
 
 Ai fini dello scambio dei dati di cui al comma 1, con decreto del Ministro delle infrastrutture e della mobilita' sostenibili e' individuata la struttura dirigenziale di livello generale cui sono attribuite le funzioni di punto di contatto nazionale.
@@ -256,6 +689,31 @@ Al fine di assicurare il rispetto dei diritti fondamentali, la lettera d'informa
 Procedimenti di follow-up da parte delle entita' responsabili 
  della riscossione
 
+1.
+                        
+                            
+                                Il punto di contatto nazionale inoltra all'esattore di pedaggi i dati ottenuti mediante la procedura di cui all'articolo 21, solo se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati trasferiti sono limitati a quanto necessario all'esattore di pedaggi per ottenere il pedaggio stradale dovuto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la procedura per l'ottenimento del pedaggio stradale dovuto e' conforme alla procedura di cui all'articolo 22, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rispetto dell'ordine di pagamento emesso dall'esattore di pedaggi che riceve i dati determina la conclusione di un procedimento avviato per il mancato pagamento di un pedaggio stradale.
+
 I dati forniti all'esattore di pedaggi sono utilizzati al solo scopo di ottenere il pagamento del pedaggio stradale dovuto e sono immediatamente cancellati, in caso di riscossione della somma richiesta e comunque entro un termine di trenta giorni a far data dall'esecuzione del trasferimento dei dati, da tracciare e conservare secondo le prescrizioni di legge in materia di protezione dei dati personali.
 
 ## Art. 24. — Relazione degli Stati membri alla Commissione
@@ -265,6 +723,56 @@ Il punto di contatto nazionale trasmette alla Commissione europea, entro il 19 a
 ## Art. 25. — Protezione dei dati
 
 Ai dati personali trattati a norma del presente decreto si applicano il decreto legislativo 10 agosto 2018, n. 101, il decreto legislativo 30 giugno 2003, n. 196, e il decreto legislativo 18 maggio 2018, n. 51, nonche' il regolamento (UE) 2016/679, del Parlamento europeo e del Consiglio, del 27 aprile 2016.
+
+2.
+                        
+                            
+                                In particolare, in materia di protezione dei dati, e' garantito che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il trattamento dei dati personali a norma degli articoli 21, 22 e 23 e' limitato ai tipi di dati di cui all'allegato III del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i dati personali sono precisi e aggiornati e le richieste di rettifica o cancellazione sono trattate senza indebito ritardo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stabilito un termine per la conservazione dei dati.
+
+3.
+                        
+                            
+                                I dati personali trattati a norma del presente decreto sono utilizzati soltanto al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    identificare presunti trasgressori tenuto conto dell'obbligo di pagamento dei pedaggi stradali nel quadro fissato dall'articolo 5, comma 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurare che l'esattore di pedaggi ottemperi ai propri obblighi nei confronti delle autorita' fiscali nel quadro fissato dall'articolo 5, comma 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    identificare il veicolo e il relativo proprietario o intestatario con riferimento al quale sia stato accertato il mancato pagamento di un pedaggio stradale, secondo quanto previsto dagli articoli 21 e 22.
 
 I soggetti interessati godono dei diritti di informazione, accesso, rettifica, cancellazione e limitazione del trattamento, nonche' di presentazione di denuncia al Garante per la protezione dei dati personali, al risarcimento e ricorso giurisdizionale secondo quanto stabilito dalla legge.
 

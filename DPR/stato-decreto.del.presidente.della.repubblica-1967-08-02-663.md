@@ -8,8 +8,8 @@ codice_redazionale: 067U0663
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:01Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -253,6 +253,59 @@ fissa................................................. L. 600
 - Telegrammi per vaglia telegrafici urgenti, tassa
 fissa................................................. L. 1.200
  per ogni parola aggiunta dal mittente............ L. 50
+
+5.
+                    
+                        
+                            - Fonotelegrammi privati e di Stato a pagamento, con
+un massimo di 16 parole, accettati dai posti telefonici
+pubblici espressamente autorizzati.................... L. 600
+
+7. - Telegrammi-lettere-notturni, con un minimo di 30
+parole................................................ L. 700
+ per ogni parola in piu'........................... L. 10
+
+12.- Fonodettatura telegrammi:
+ 1) per ciascun telegramma dettato dal domicilio
+dell'abbonato:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'ambito della rete urbana e settoriale..... L. 200
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'ambito della rete distrettuale............ L. 250
+ 2) per ciascun telegramma dettato al domicilio
+dell'abbonato, a sua esplicita richiesta, nell'ambito
+della rete urbana..................................... L. 100
+
+ La soprattassa di cui al n. 1, lettera a) e' cosi' ripartita:
+ nelle localita' in cui esiste apposito ufficio di dettatura telegrammi gestito dalla Societa' telefonica concessionaria:
+ L. 180 in favore della Societa' telefonica concessionaria;
+ L. 20 in favore dell'Amministrazione delle poste e delle telecomunicazioni;
+ nelle localita' in cui, non esistendo apposito ufficio di dettatura fonica dei telegrammi gestito dalla Societa' telefonica concessionaria, il servizio e' svolto dall'Amministrazione delle poste e delle telecomunicazioni:
+ L. 40 in favore della Societa' telefonica concessionaria;
+ L. 160 in favore dell'Amministrazione delle poste e delle telecomunicazioni.
+ La soprattassa di cui al n. 1), lettera b) e' cosi' ripartita:
+ nelle localita' in cui esiste apposito ufficio di dettatura fonica dei telegrammi gestito dalla Societa' telefonica concessionaria:
+ L. 230 in favore della Societa' telefonica concessionaria;
+ L. 20 in favore dell'Amministrazione delle poste e delle telecomunicazioni;
+ nelle localita' in cui, non esistendo apposito ufficio di dettatura fonica dei telegrammi gestito dalla Societa' telefonica concessionaria, il servizio e' svolto dall'Amministrazione delle poste e delle telecomunicazioni:
+ L. 100 in favore della Societa' telefonica concessionaria;
+ L. 150 in favore dell'Amministrazione delle poste e delle telecomunicazioni.
+ La soprattassa di cui al n. 2) e' cosi' ripartita:
+ nelle localita' in cui esiste apposito ufficio di dettatura fonica dei telegrammi gestito dalla Societa' telefonica concessionaria:
+ L. 90 in favore della Societa' telefonica concessionaria;
+ L. 10 in favore dell'Amministrazione delle poste e delle telecomunicazioni;
+ nelle localita' in cui, non esistendo apposito ufficio di dettatura fonica dei telegrammi gestito dalla Societa' telefonica concessionaria, il servizio e' svolto dall'Amministrazione delle poste e delle telecomunicazioni:
+ L. 30 in favore della Societa' telefonica concessionaria;
+ L. 70 in favore dell'Amministrazione delle poste e delle telecomunicazioni.
 
 ## Art. 7.
 

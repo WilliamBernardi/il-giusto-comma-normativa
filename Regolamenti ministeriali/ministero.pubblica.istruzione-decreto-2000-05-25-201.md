@@ -8,8 +8,8 @@ codice_redazionale: 000G0220
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -20,6 +20,29 @@ DECRETO
 Udito il parere del Consiglio di Stato, espresso nella sezione consultiva per gli atti normativi nell'adunanza del 4 maggio 2000;
 
 ## Art. 1. — Disponibilita' di posti e tipologia di supplenze
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 4, commi 1, 2 e 3, della legge 3 maggio 1999, n. 124, di seguito denominata "legge", nei casi in cui non sia stato possibile assegnare alle cattedre e ai posti disponibili personale di ruolo delle dotazioni organiche provinciali, personale soprannumerario in utilizzazione o, comunque, a qualsiasi titolo, personale di ruolo, si provvede con:
+
+                        
+                        
+                            a)
+                            
+                                supplenze annuali per la copertura delle cattedre e posti d'insegnamento vacanti e disponibili entro la data del 31 dicembre e che rimangano presumibilmente tali per tutto l'anno scolastico.
+                            
+                        
+                        
+                            b)
+                            
+                                supplenze temporanee sino al termine delle attivita' didattiche per la copertura di cattedre e posti d'insegnamento non vacanti, di fatto disponibili entro la data del 31 dicembre e fino al termine dell'anno scolastico e per le ore di insegnamento che non concorrano a costituire cattedre o posti orario.
+                            
+                        
+                        
+                            c)
+                            
+                                supplenze temporanee per ogni altra necessita' di supplenza diversa dai casi precedenti, secondo quanto specificato all'articolo 7.
 
 Per l'attribuzione delle supplenze annuali e delle supplenze temporanee fino al termine delle attivita' didattiche, si utilizzano le graduatorie permanenti di cui all'articolo 2; per l'attribuzione delle supplenze temporanee si utilizzano le graduatorie di circolo e di istituto di cui all'articolo 5.
 
@@ -47,6 +70,29 @@ Nei confronti del personale che sia gia' di ruolo per altro grado di scuola o al
 Nello scorrimento delle graduatorie permanenti ai fini dell'attribuzione delle supplenze non vengono presi in considerazione i candidati inclusi le cui posizioni non siano utili a tal fine ai sensi delle disposizioni di cui ai commi 2, 3 e 4.
 
 ## Art. 3. — Conferimento delle supplenze a livello provinciale
+
+1.
+                    
+                        
+                            Al fine di garantire il regolare inizio delle lezioni e di evitare che il conferimento di piu' supplenze allo stesso docente comporti interruzioni dell'attivita' didattica, le operazioni di conferimento delle supplenze annuali e delle supplenze temporanee fino al termine delle attivita' didattiche sono annualmente disposte mediante un piano di individuazione dei destinatari delle proposte di assunzione che, nel rispetto delle posizioni di graduatoria, tenga conto dell'ordine di priorita' indicato dagli aspiranti complessivamente per tutte le graduatorie in cui figurano utilmente inclusi relativamente ai seguenti elementi:
+
+                        
+                        
+                            a)
+                            
+                                rilevanza economica del contratto;
+                            
+                        
+                        
+                            b)
+                            
+                                sede;
+                            
+                        
+                        
+                            c)
+                            
+                                graduatorie di insegnamento preferenziali.
 
 Gli aspiranti hanno facolta', ogni triennio scolastico, di variare l'ordine di priorita' di cui al comma 1. Nel primo triennio di applicazione del presente regolamento tale facolta' puo' essere esercitata annualmente. I candidati utilmente inclusi nelle graduatorie permanenti in relazione al numero dei posti disponibili sono destinatari di una proposta di assunzione con contratto a tempo determinato coerente con la posizione in graduatoria e con l'ordine di priorita' indicato.
 
@@ -86,6 +132,35 @@ Coloro che hanno titolo ad essere inclusi nelle graduatorie permanenti di una so
 
 Durante il periodo di validita' delle graduatorie, per ogni anno scolastico successivo al primo, ciascuna scuola puo' acquisire ulteriori domande di supplenza da parte di aspiranti che abbiano titolo ad essere inseriti in una delle fasce di cui al comma 3.
 
+10.
+                    
+                        
+                            Le domande di cui al comma 9 possono essere presentate, per una sola provincia e sempre nel limite massimo complessivo di cui al comma 6, da:
+
+                        
+                        
+                            a)
+                            
+                                coloro che gia' figurano nelle graduatorie della medesima provincia e che intendono integrare le precedenti domande fino al massimo di scuole previsto;
+                            
+                        
+                        
+                            b)
+                            
+                                coloro che gia' figurano nelle graduatorie della medesima provincia e che intendono sostituire, fino a un massimo di tre scuole per ciascun anno scolastico, alcune opzioni precedentemente espresse;
+                            
+                        
+                        
+                            c)
+                            
+                                coloro che gia' figurano nelle graduatorie di altra provincia, con conseguente cancellazione da tutte le graduatorie della provincia di provenienza;
+                            
+                        
+                        
+                            d)
+                            
+                                coloro che non risultano inclusi in graduatorie di supplenza in nessuna provincia.
+
 Il personale di cui al comma 10 si inserisce, in ciascun anno scolastico, nelle graduatorie di istituto in coda all'ultimo incluso della fascia cui ha titolo secondo i requisiti posseduti, ai sensi di quanto previsto al comma 3.
 
 Gli aspiranti di cui alle lettere a), b) e c) del comma 10 sono graduati fra loro secondo l'automatica trasposizione degli elementi gia' determinanti la loro posizione nelle graduatorie di precedente inclusione e precedono gli aspiranti di cui alla lettera d), graduati tra loro secondo il punteggio spettante in base alla tabella di valutazione dei titoli annessa al presente regolamento (allegato A).
@@ -110,6 +185,23 @@ Per quanto non previsto nel presente articolo si applicano le disposizioni dell'
 ## Art. 7. — Supplenze conferite utilizzando
  le graduatorie di circolo e di istituto
 
+1.
+                    
+                        
+                            I dirigenti scolastici possono conferire supplenze utilizzando le rispettive graduatorie di circolo e di istituto in relazione alle seguenti situazioni e secondo le correlate tipologie:
+
+                        
+                        
+                            a)
+                            
+                                supplenze annuali e temporanee fino al termine delle attivita' didattiche per posti che non sia possibile coprire con il personale incluso nelle graduatorie permanenti, ai sensi dell'articolo 1, comma 3;
+                            
+                        
+                        
+                            b)
+                            
+                                supplenze temporanee per la sostituzione del personale temporaneamente assente e per la copertura di posti resisi disponibili, per qualsiasi causa, dopo il 31 dicembre di ciascun anno.
+
 Per la sostituzione dei docenti temporaneamente assenti il dirigente scolastico provvede al conferimento delle relative supplenze nel rispetto dei criteri e principi contenuti nell'articolo 1, commi 72 e 78, della legge 23 dicembre 1996, n. 662, e, comunque, nei limiti previsti dalle disposizioni vigenti alla data della stipula del contratto.
 
 Per ragioni di continuita' didattica, ove al primo periodo di assenza del titolare ne consegua un altro, o piu' altri, senza soluzione di continuita' o interrotto solo da giorno festivo o da giorno libero dall'insegnamento, ovvero da entrambi, la supplenza temporanea viene prorogata nei riguardi del medesimo supplente gia' in servizio, a decorrere dal giorno successivo a quello di scadenza del precedente contratto.
@@ -126,6 +218,25 @@ Nel caso di esaurimento della graduatoria di circolo e di istituto il dirigente 
 
 ## Art. 8. — Effetti del mancato perfezionamento
  e risoluzione anticipata del rapporto di lavoro
+
+1.
+                    
+                        
+                            L'esito negativo di una proposta di assunzione a tempo determinato comporta i seguenti effetti:
+A) Per supplenze conferite sulla base delle graduatorie permanenti:
+ 
+                        
+                        
+                            a)
+                            
+                                la rinuncia ad una proposta di assunzione o la mancata assunzione di servizio comportano la perdita della possibilita' di conseguire analoghi rapporti sulla base delle graduatorie permanenti per l'anno scolastico successivo;
+                            
+                        
+                        
+                            b)
+                            
+                                l'abbandono del servizio comporta sia l'effetto di cui al punto a) sia la perdita della possibilita' di conseguire qualsiasi tipologia di supplenza, conferita sia sulla base delle graduatorie permanenti che delle graduatorie di istituto, per l'anno scolastico in corso.
+B) Per supplenze conferite sulla base delle graduatorie di circolo e di istituto: a) la rinuncia ad una proposta contrattuale o alla sua proroga o conferma non comporta alcun effetto; b) l'abbandono della supplenza comporta la perdita della possibilita' di conseguire qualsiasi tipologia di supplenza conferita sia sulla base delle graduatorie permanenti che delle graduatorie di istituto, per l'anno scolastico in corso.
 
 Per il personale con contratto a tempo indeterminato che abbia dichiarato di essere interessato al conseguimento di supplenze, secondo quanto previsto al comma 4 dell'articolo 2, la mancata accettazione, ripetuta per due anni scolastici, di una proposta di assunzione per supplenza conferita sulla base delle graduatorie permanenti, comporta, in via definitiva, la perdita della possibilita' di conseguire supplenze.
 

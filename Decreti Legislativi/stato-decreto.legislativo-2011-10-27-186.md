@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2017-12-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,24 @@ Il presente decreto reca la disciplina sanzionatoria per la violazione delle dis
 Ai fini dell'attuazione del presente decreto si applicano le definizioni di cui all'articolo 2 del regolamento.
 
 Nelle more delle designazioni dell'autorita' competente o delle autorita' competenti di cui all'articolo 43 del regolamento, si intende «Autorita' competente nazionale» il Ministero della salute - Direzione generale della prevenzione sanitaria e si intendono «Autorita' competente locali» quelle che le regioni e le province autonome di Trento e di Bolzano, hanno individuato, nell'ambito della propria legislazione e organizzazione, in applicazione a quanto previsto all'allegato A, punto 3.3, dell'Accordo Stato-regioni del 29 ottobre 2009 (Rep. Atti n. 181/CSR).
+
+3.
+                    
+                        
+                            Ai fini dell'applicazione del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                etichetta trasporto: l'etichetta utilizzata secondo le disposizioni per il trasporto di merci pericolose; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                etichetta: l'etichetta utilizzata secondo le disposizioni del regolamento.
 
 ## Art. 3. — Violazione dell'obbligo derivante dagli articoli 4, 11 e 61 del regolamento in materia di classificazione, etichettatura e imballaggio.
 
@@ -116,6 +134,24 @@ Salvo che il fatto costituisca reato, chiunque utilizza imballaggi contenenti un
 
 Salvo che il fatto costituisca reato, il fabbricante e l'importatore che, nelle ipotesi previste dall'articolo 16, paragrafo 1, del regolamento, non ottempera all'obbligo di comunicazione ivi previsto, e' soggetto alla sanzione amministrativa pecuniaria del pagamento di una somma da 5.000 euro a 30.000 euro.
 
+2.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria del pagamento di una somma da 5.000 euro a 30.000 euro il fabbricante, l'importatore o il gruppo di fabbricanti o importatori che: 
+ 
+                        
+                        
+                            a)
+                            
+                                nelle ipotesi previste dall'articolo 40, paragrafo 1, del regolamento, non ottempera all'obbligo di notifica ivi contemplato, ovvero vi ottempera oltre il termine previsto dall'articolo 40, paragrafo 3, del medesimo regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nelle ipotesi previste dall'articolo 40, paragrafo 2, del regolamento, non ottempera all'obbligo di aggiornamento ivi contemplato.
+
 ## Art. 10. — Violazione agli obblighi derivanti dall'articolo 45 del regolamento in materia di comunicazione all'Archivio dell'Istituto superiore di sanita'.
 
 Salvo che il fatto costituisca reato, l'importatore o l'utilizzatore a valle responsabile della commercializzazione di miscele sul mercato nazionale, che non ottempera all'obbligo di comunicazione delle informazioni di cui all'articolo 15 e all'allegato XI del decreto legislativo 14 marzo 2003, n. 65, all'organismo designato ai sensi dell'articolo 45, paragrafo 3, del regolamento e' soggetto alla sanzione amministrativa pecuniaria del pagamento di una somma da 3.000 euro a 18.000 euro.
@@ -152,6 +188,24 @@ I proventi delle sanzioni amministrative pecuniarie previste per le violazioni d
 ## Art. 14. — Disposizioni finali
 
 Non e' ammesso il pagamento in misura ridotta delle sanzioni previste nel presente decreto.
+
+2.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 18, comma 5, del decreto legislativo 14 marzo 2003, n. 65; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 17 del decreto legislativo 14 settembre 2009, n. 133.
 
 Le regioni e le province autonome di Trento e di Bolzano provvedono, nell'ambito delle proprie competenze, alla irrogazione delle relative sanzioni, dandone comunicazione al Ministero della salute.
 

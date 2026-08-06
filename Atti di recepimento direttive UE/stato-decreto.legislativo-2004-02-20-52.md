@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,24 @@ In deroga a quanto disposto nel terzo periodo la fattura puo' essere emessa entr
  8. Le spese di emissione della fattura e dei conseguenti adempimenti e formalita' non possono formare oggetto di addebito a qualsiasi titolo.».
 
 ## Art. 2. — Disposizioni normative di coordinamento
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                all'art. 39, terzo comma, sono aggiunti i seguenti periodi: «Le fatture elettroniche trasmesse o ricevute in forma elettronica sono archiviate nella stessa forma. Le fatture elettroniche consegnate o spedite in copia sotto forma cartacea possono essere archiviate in forma elettronica. Il luogo di archiviazione delle stesse puo' essere situato in un altro Stato, a condizione che con lo stesso esista uno strumento giuridico che disciplini la reciproca assistenza. Il soggetto passivo, residente o domiciliato nel territorio dello Stato assicura, per finalita' di controllo, l'accesso automatizzato all'archivio e che tutti i documenti ed i dati in esso contenuti, ivi compresi i certificati destinati a garantire l'autenticita' dell'origine e l'integrita' delle fatture emesse in formato elettronico, di cui all'art. 21, comma 3, siano stampabili e trasferibili su altro supporto informatico.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'art. 52, il quarto comma e' sostituito dal seguente: «L'ispezione documentale si estende a tutti i libri, registri, documenti e scritture, compresi quelli la cui tenuta e conservazione non sono obbligatorie, che si trovano nei locali in cui l'accesso viene eseguito, o che sono comunque accessibili tramite apparecchiature informatiche installate in detti locali.».
 
 ## Art. 3. — Provvedimento del direttore dell'Agenzia delle entrate
 

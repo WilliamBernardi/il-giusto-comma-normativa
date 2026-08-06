@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2024-03-28;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -66,6 +66,78 @@ E' ammessa a finanziamento la redazione del progetto esecutivo previsto per l'av
 
 ## Art. 4. — Spese ammissibili
 
+1.
+                    
+                        
+                            Sono ammesse a finanziamento le spese relative alle attivita' previste dall'articolo 41 del decreto legislativo 31 marzo 2023, n. 36, connesse alle progettazioni di cui all'articolo 3, quali, a titolo esemplificativo: 
+ 
+                        
+                        
+                            a)
+                            
+                                indagini geologiche, idrogeologiche, idrologiche, idrauliche, geotecniche, sismiche, storiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                indagini di verifica preventiva dell'interesse archeologico, ove necessarie; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                indagini di bonifica da ordigni bellici, ove necessario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rilievi e accertamenti tecnici connessi alla progettazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                verifiche preventive alla progettazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                analisi di laboratorio finalizzate della diagnostica strutturale e infrastrutturale propedeutica alla progettazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                spese di supporto al responsabile unico del procedimento (RUP).
+
+2.
+                    
+                        
+                            In ogni caso, non sono ammesse a finanziamento le spese inerenti a: 
+ 
+                        
+                        
+                            a)
+                            
+                                affidamenti delle prestazioni di cui al comma 1, qualora effettuati anteriormente alla data di pubblicazione del presente regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                elaborazione del documento preliminare alla progettazione o di elaborati equivalenti. 
+ L'esclusione della remunerabilita' di tali spese discende dall'esigenza che tali atti risultino gia' in possesso dei soggetti beneficiari all'atto di presentazione della domanda di finanziamento.
+
 ## Art. 5. — Procedimento di approvazione 
  della graduatoria delle progettazioni
 
@@ -100,6 +172,24 @@ Ai fini del trasferimento delle risorse previste alla lettera a) del comma 5, i 
 
 Ai fini del trasferimento delle risorse previste alla lettera b) del comma 4, i soggetti attuatori trasmettono la relativa domanda alla Presidenza del Consiglio dei ministri - Dipartimento Casa Italia, corredata dalla documentazione che attesti la liquidazione, da parte degli stessi, delle spese sostenute per le progettazioni in misura non inferiore all'80 per cento delle risorse gia' erogate.
 
+4.
+                    
+                        
+                            La Presidenza del Consiglio dei ministri - Dipartimento Casa Italia trasferisce le risorse, per ciascuna annualita', mediante versamento sulle contabilita' speciali dei soggetti attuatori e, per le province autonome di Trento e Bolzano, con vincolo di destinazione, sul conto intestato a ciascuna provincia autonoma istituito presso la tesoreria provinciale dello Stato, secondo la seguente scansione temporale e secondo le seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                70 per cento dell'importo annuale complessivo finanziato, entro sessanta giorni dalla ricezione della domanda di cui al comma 2, previa verifica della presenza dei CUP identificativi, anche attraverso il sistema della Banca Dati delle Amministrazione Pubbliche (BDAP), nonche' della presenza degli ulteriori elementi della relazione tecnica di cui all'allegato 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                30 per cento dell'importo annuale complessivo finanziato residuo, entro sessanta giorni dalla ricezione della domanda di cui al comma 3, previa verifica della documentazione che attesti la liquidazione, da parte degli stessi, delle spese sostenute per i rispettivi progetti in misura non inferiore all'80 per cento della precedente anticipazione di cui alla lettera a), anche attraverso il sistema BDAP.
+
 Ai soggetti attuatori e' consentito, a valere sulle risorse trasferite, utilizzare le economie accertate sulle progettazioni concluse, attraverso lo scorrimento delle graduatorie delle progettazioni, previa comunicazione alla Presidenza del Consiglio dei ministri - Dipartimento Casa Italia, secondo le medesime modalita' di cui all'articolo 5. Le eventuali economie sono accertate tramite la BDAP. Le eventuali risorse derivanti dal mancato riutilizzo delle economie sono versate in favore del bilancio autonomo della Presidenza del Consiglio dei ministri, ferma restando la finalita' originaria prevista dalla norma.
 
 ## Art. 8. — Monitoraggio
@@ -107,6 +197,31 @@ Ai soggetti attuatori e' consentito, a valere sulle risorse trasferite, utilizza
 La Presidenza del Consiglio dei ministri - Dipartimento Casa Italia trasmette gli elenchi delle progettazioni approvati da ciascuna regione e provincia autonoma al Ministero dell'economia e delle finanze - Ragioneria Generale dello Stato ai fini delle attivita' di competenza connesse alla gestione della BDAP.
 
 Il monitoraggio degli interventi avviene attraverso il sistema di monitoraggio previsto dal decreto legislativo 29 dicembre 2011, n. 229. I soggetti attuatori ovvero, se diversi, i soggetti titolari dei CUP, alimentano la BDAP. La Presidenza del Consiglio dei ministri - Dipartimento Casa Italia monitora l'avanzamento degli interventi progettuali tramite la BDAP, comunicando il riscontro di eventuali difformita' ai soggetti attuatori che provvedono, in coordinamento con gli eventuali soggetti titolari dei CUP, all'aggiornamento della BDAP.
+
+3.
+                    
+                        
+                            Entro il 31 gennaio di ciascun anno, i soggetti attuatori inviano una relazione alla Presidenza del Consiglio dei ministri - Dipartimento Casa Italia sullo stato di avanzamento delle progettazioni approvate ai sensi dell'articolo 5, ammesse al finanziamento e finanziate nei limiti delle risorse di cui all'allegato 1, fino all'esaurimento delle stesse, contenente: 
+ 
+                        
+                        
+                            a)
+                            
+                                il quadro complessivo dello stato di avanzamento degli interventi progettuali previsti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                lo stato di avanzamento di ogni singolo intervento di progettazione, in relazione al cronoprogramma elaborato in sede di approvazione degli elenchi, corredato di un prospetto delle risorse gia' utilizzate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la descrizione delle eventuali criticita' riscontrate nella realizzazione delle progettazioni nonche' delle iniziative intraprese al fine del superamento delle medesime criticita'.
 
 I dati e le informazioni contenuti nella relazione di cui al comma 3 devono essere coerenti con le risultanze della BDAP. La Presidenza del Consiglio dei ministri - Dipartimento Casa Italia, nell'ambito del monitoraggio di cui al presente articolo, puo' richiedere ai soggetti attuatori riscontri, integrazioni e chiarimenti sullo stato di attuazione degli interventi. In ogni caso, i soggetti attuatori si impegnano a fornire al medesimo Dipartimento tutti i dati e le informazioni necessarie all'espletamento del monitoraggio.
 

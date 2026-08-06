@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2016-05-02;10
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,12 +36,87 @@ Gli interventi di ricarica controllata di cui al comma 1 costituiscono misura su
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                corpo idrico donatore: corpo idrico da cui provengono le acque con le quali viene effettuato l'intervento di ricarica controllata del corpo idrico sotterraneo ricevente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                corpo idrico sotterraneo ricevente: corpo idrico sotterraneo sottoposto ad intervento di ricarica controllata con acque ritenute idonee ai sensi del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ricarica controllata: intervento finalizzato al ravvenamento del corpo idrico sotterraneo, attraverso l'immissione diretta o indiretta di acque provenienti da corpi idrici donatori, allo scopo di innalzare il livello piezometrico dell'acquifero e di concorrere al raggiungimento dell'obiettivo di qualita' ambientale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                immissione diretta: immissione di acque nel corpo idrico sotterraneo ricevente senza processi di filtrazione attraverso gli strati superficiali del suolo e del sottosuolo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                immissione indiretta: immissione di acque nel corpo idrico sotterraneo ricevente mediante processi di filtrazione attraverso gli strati superficiali del suolo e del sottosuolo.
+
 ## Art. 3. — Criteri generali per la ricarica controllata 
  dei corpi idrici sotterranei
 
 Ai fini del perseguimento degli obiettivi ambientali di cui agli articoli 76 e 77 del decreto legislativo 3 aprile 2006, n. 152, puo' essere autorizzata la ricarica controllata dei corpi idrici sotterranei in stato non «buono» e dei corpi idrici sotterranei in stato «buono», che tuttavia presentano una tendenza significativa e duratura all'aumento delle concentrazioni di inquinanti, valutata in base all'allegato 6 al decreto legislativo 16 marzo 2009, n. 30, e/o particolari criticita' dal punto di vista quantitativo.
 
+2.
+                    
+                        
+                            Per la ricarica controllata dei corpi idrici sotterranei, purche' il prelievo non comprometta il raggiungimento degli obiettivi di qualita' ambientale o non peggiori lo stato dei corpi idrici donatori, puo' essere ammesso: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'utilizzo delle acque prelevate dai corpi idrici superficiali classificati in buono stato chimico e nel rispetto dei parametri chimici e chimico-fisici compresi nella definizione dello stato ecologico, con specifico riferimento ai parametri e relativi standard di qualita' ambientale di cui, rispettivamente, alla tabella 1/A del paragrafo A.2.6 dell'allegato 1 alla Parte Terza del decreto legislativo 3 aprile 2006, n. 152, alla tabella 1/B del paragrafo A.2.7 del medesimo allegato, selezionati secondo i criteri indicati ai punti A.3.2.5 e A.3.3.4 dell'allegato 1 allo stesso decreto, nonche' alla tabella 4.1.2/a del paragrafo A.4.1 e alla tabella 4.2.2/a del paragrafo A.4.2 del medesimo allegato. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'utilizzo delle acque prelevate dai corpi idrici sotterranei in buono stato chimico sulla base dei parametri e valori limite di cui alla tabella 3 dell'Allegato 3 al decreto legislativo 16 marzo 2009, n. 30, nonche' sulla base dei limiti relativi alle sostanze attive nei pesticidi, compresi i loro pertinenti metaboliti, prodotti di degradazione e di reazione di cui alla tabella 2 del medesimo allegato.
+
 ## Art. 4. — Criteri per il rilascio dell'autorizzazione alla ricarica controllata dei corpi idrici sotterranei
+
+1.
+                    
+                        
+                            Le Regioni e le Province autonome: 
+ 
+                        
+                        
+                            a)
+                            
+                                individuano, sulla base dei criteri di cui all'articolo 3, comma 1, e all'Allegato 1, che costituisce parte integrante del presente regolamento, i corpi idrici sotterranei potenzialmente idonei a ricevere interventi di ricarica controllata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                individuano i corpi idrici superficiali e sotterranei idonei al prelievo delle acque per interventi di ricarica controllata.
 
 Le Regioni e le Province autonome trasmettono gli elenchi dei corpi idrici, di cui al comma 1, alle Autorita' di Bacino distrettuali territorialmente competenti, le quali provvedono, coerentemente con la pianificazione di bacino, ad inserire i predetti elenchi nei piani di gestione dei distretti idrografici, predisposti ai sensi dell'articolo 117, comma 2-bis, del decreto legislativo 3 aprile 2006, n. 152.
 

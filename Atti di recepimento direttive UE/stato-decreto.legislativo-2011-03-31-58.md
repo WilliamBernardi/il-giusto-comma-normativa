@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2011-05-02
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,87 @@ Acquisito il parere delle competenti commissioni della Camera dei deputati e del
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dello sviluppo economico, di concerto con i Ministri degli affari esteri, della giustizia e dell'economia e delle finanze;
 
 ## Art. 1. — Modifiche al decreto legislativo 22 luglio 1999, n. 261, recante attuazione della direttiva 97/67/CE concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari e per il miglioramento della qualita' del servizio
+
+1.
+                    
+                        
+                            All'articolo 1, comma 2, del decreto legislativo 22 luglio 1999, n. 261, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b) la parola: «pubblica» e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera c) e' sostituita dalla seguente: «c) "punti di accesso": ubicazioni fisiche comprendenti in particolare gli uffici postali e le cassette postali messe a disposizione del pubblico, o sulla via pubblica o nei locali del fornitore del servizio universale o dei fornitori dei servizi postali dove gli invii postali possono essere depositati dai mittenti nella rete postale;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la lettera d) e' sostituita dalla seguente: «d) "raccolta": l'operazione di raccolta degli invii postali da parte di un fornitore di servizi postali;»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la lettera f) e' sostituita dalla seguente: «f) "invio postale": l'invio, nella forma definitiva al momento in cui viene preso in consegna dal fornitore di servizi postali; si tratta, oltre agli invii di corrispondenza, di libri, cataloghi, giornali, periodici e similari nonche' di pacchi postali contenenti merci con o senza valore commerciale;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla lettera h), le parole da: «definito» a: «lettera p),» sono soppresse; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la lettera o) e' sostituita dalla seguente: «o) "fornitore del servizio universale": il fornitore di un servizio postale, pubblico o privato, che fornisce un servizio postale universale sul territorio nazionale e la cui identita' e' stata notificata alla Commissione;»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la lettera p) e' soppressa; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la lettera q) e' sostituita dalla seguente: 
+ «q) "autorizzazioni": ogni titolo abilitativo che stabilisce i diritti e gli obblighi specifici nel settore postale e che consente alle imprese di fornire servizi postali e, se del caso, creare ovvero gestire le proprie reti per la fornitura di tali servizi, sotto forma di "autorizzazione generale" oppure di "licenza individuale", definite come segue: 
+ 1) "autorizzazione generale": ogni autorizzazione che non richiede al fornitore di un servizio postale interessato di ottenere una esplicita decisione da parte dell'amministrazione competente prima dell'esercizio dei diritti derivanti dall'autorizzazione, indipendentemente dal fatto che questa sia regolata da una "licenza per categoria" o da norme di legge generali e che sia prevista o meno per essa una procedura di registrazione o di dichiarazione; 
+ 2) "licenza individuale": ogni autorizzazione concessa dall'amministrazione competente, la quale conferisce diritti specifici ad un fornitore di servizi postali ovvero che assoggetta le operazioni di tale impresa ad obblighi specifici che integrano l'autorizzazione generale, qualora detto fornitore non possa esercitare i diritti di cui trattasi in assenza di previa decisione dell'amministrazione competente;»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la lettera u) e' sostituita dalla seguente: «u) "esigenze essenziali": i motivi di interesse generale e di natura non economica che possono portare ad imporre condizioni in materia di fornitura di servizi postali, quali la riservatezza della corrispondenza, la sicurezza del funzionamento della rete in materia di trasporto di sostanze pericolose, il rispetto delle condizioni di lavoro e dei sistemi di sicurezza sociale previsti dalla legge, dai regolamenti o dalle disposizioni amministrative ovvero dagli accordi collettivi negoziati tra le parti sociali nazionali in conformita' al diritto comunitario e nazionale e, nei casi in cui sia giustificato, la protezione dei dati, la tutela dell'ambiente e l'assetto territoriale; la protezione dei dati puo' comprendere la protezione dei dati personali, la riservatezza delle informazioni trasmesse o conservate, nonche' la tutela della vita privata;»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                dopo la lettera u), sono aggiunte, in fine, le seguenti: 
+ «u-bis) "fornitore di un servizio postale": l'impresa che fornisce uno o piu' servizi postali; 
+ u-ter) "invii di posta massiva": invii non raccomandati o assicurati diversi dalla pubblicita' diretta per corrispondenza consegnati in grandi quantita' ai fornitori di servizi postali presso i punti di accesso individuati dai fornitori stessi; 
+ u-quater) "Autorita' nazionale di regolamentazione": l'organismo designato a svolgere le funzioni di regolamentazione del settore postale di cui alla direttiva 2008/6/CE, di seguito anche "autorita' di regolamentazione"; 
+ u-quinquies) "servizi forniti a tariffa unitaria": servizi postali la cui tariffa e' fissata per invii postali singoli.».
 
 L'articolo 2 del decreto legislativo 22 luglio 1999, n. 261, e' sostituito dal seguente: 
  «Art. 2 (Autorita' nazionale di regolamentazione del settore postale). - 1. E' istituita l'Agenzia nazionale di regolamentazione del settore postale, di seguito denominata "Agenzia", la quale e' designata autorita' nazionale di regolamentazione per il settore postale ai sensi dell'articolo 22 della direttiva 97/67/CEE e successive modificazioni. 
@@ -104,7 +185,196 @@ L'articolo 4 del decreto legislativo 22 luglio 1999, n. 261, e' sostituito dal s
  a) i servizi inerenti le notificazioni di atti a mezzo posta e di comunicazioni a mezzo posta connesse con la notificazione di atti giudiziari di cui alla legge 20 novembre 1982, n. 890, e successive modificazioni; 
  b) i servizi inerenti le notificazioni a mezzo posta di cui all'articolo 201 del decreto legislativo 30 aprile 1992, n. 285.».
 
+5.
+                    
+                        
+                            All'articolo 5 del decreto legislativo 22 luglio 1999, n. 261, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «licenza individuale», sono aggiunte, in fine, le seguenti: «da parte del Ministero dello sviluppo economico»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «servizi in questione» sono aggiunte, in fine, le seguenti: «ovvero a obblighi di contribuzione finanziaria ai meccanismi di condivisione dei costi di cui all'articolo 10 del presente decreto.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, sono apportate le seguenti modificazioni: 
+ 1) le parole: «regolamento del Ministro delle comunicazioni, da emanarsi entro novanta giorni» sono sostituite dalle seguenti: «provvedimento dell'autorita' di regolamentazione da emanarsi entro centottanta giorni»; 
+ 2) dopo le parole: «gli obblighi a carico dei titolari delle licenze stesse,» sono inserite le seguenti: «compresi gli obblighi in materia di condizioni di lavoro di cui all'articolo 18-bis,».
+
+6.
+                    
+                        
+                            All'articolo 6 del decreto legislativo 22 luglio 1999, n. 261, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «dell'autorita' di regolamentazione» sono sostituite dalle seguenti: «del Ministero dello sviluppo economico»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, e' inserito il seguente: 
+ «1-bis. Il rilascio dell'autorizzazione generale, anche per il fornitore del servizio universale, tenuto conto della situazione del mercato e dell'organizzazione dei servizi postali, puo' essere subordinato a specifici obblighi del servizio universale con riguardo anche alla qualita', alla disponibilita' e all'esecuzione dei servizi in questione, ovvero a obblighi di contribuzione finanziaria ai meccanismi di condivisione dei costi di cui all'articolo 10 del presente decreto. Detti obblighi sono determinati con provvedimento dell'autorita' di regolamentazione.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Con provvedimento dell'autorita' di regolamentazione, da emanarsi entro centottanta giorni dalla data di entrata in vigore del decreto legislativo di attuazione della direttiva 2008/6/CE, sono individuati i casi in cui l'attivita' puo' essere avviata contestualmente all'invio al Ministero dello sviluppo economico, mediante posta elettronica certificata o raccomandata con avviso di ricevimento, della segnalazione certificata di inizio attivita' e i casi nei quali l'attivita' puo' avere inizio dopo quarantacinque giorni dal ricevimento della relativa comunicazione, salvo che sia comunicato il diniego da parte del Ministero; in caso di richiesta di chiarimenti o di documenti, il predetto termine e' sospeso fino alla ricezione di questi ultimi. L'atto di assenso, se illegittimamente formato, e' annullato, salvo che l'interessato provveda, ove possibile, a sanare il vizio entro il termine assegnatogli.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, sono apportate le seguenti modificazioni: 
+ 1) le parole: «Con il regolamento» sono sostituite dalle seguenti: «Con il provvedimento»; 
+ 2) dopo le parole: «autorizzazione generale,», sono inserite le seguenti: «compresi gli obblighi in materia di condizioni di lavoro di cui all'articolo 18-bis,».
+
+7.
+                    
+                        
+                            All'articolo 7 del decreto legislativo 22 luglio 1999, n. 261, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Il fornitore del servizio universale e' tenuto ad istituire la separazione contabile sulla base di principi di contabilita' dei costi applicati coerentemente e obiettivamente giustificabili, distinguendo chiaramente tra i singoli servizi ed i prodotti che fanno parte del servizio universale e quelli che ne sono esclusi.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, sono apportate le seguenti modificazioni: 
+ 1) nell'alinea, le parole: «riservati e non riservati» sono soppresse; 
+ 2) alla lettera a) la parola: «particolare» e' sostituita dalle seguenti: «o prodotto particolare»; 
+ 3) alla lettera b), le parole: «particolare servizio» sono sostituite dalle seguenti: «servizio o prodotto particolare»; 
+ 4) alla lettera b), numero 3), la parola: «riservati» e' sostituita dalla seguente: «universali»; 
+ 5) alla lettera b), dopo il numero 3), e' aggiunto, in fine, il seguente: 
+ «3-bis) I costi comuni necessari per la prestazione di servizi universali e di servizi non universali sono imputati in modo appropriato; ai servizi universali e ai servizi non universali devono essere applicati gli stessi fattori di costo.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, il primo periodo e' sostituito dal seguente: «La conformita' del sistema di separazione contabile e' verificata da un organismo competente indipendente dal fornitore del servizio universale ed incaricato di certificare il bilancio del fornitore del servizio universale.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3, sono aggiunti, in fine, i seguenti: 
+ «3-bis. L'autorita' di regolamentazione puo' adottare altri sistemi di contabilita' dei costi, compatibili con le previsioni di cui al comma 2. Di tale adozione l'autorita' informa la Commissione europea prima della relativa applicazione. 
+ 3-ter. L'autorita' di regolamentazione tiene a disposizione informazioni, sufficientemente dettagliate, circa i sistemi di contabilita' dei costi applicati dal fornitore del servizio universale e trasmette dette informazioni alla Commissione europea, su richiesta. 
+ 3-quater. Su richiesta dell'autorita' di regolamentazione e della Commissione europea, i fornitori di servizi postali mettono a disposizione, in via riservata, le informazioni dettagliate in materia di contabilita' risultanti dai sistemi di cui al presente articolo. 
+ 3-quinquies. I fornitori di servizi postali che contribuiscono al fondo di compensazione di cui all'articolo 10 del presente decreto assicurano la separazione della contabilita' al fine di garantire il funzionamento del fondo stesso.».
+
+8.
+                    
+                        
+                            All'articolo 10 del decreto legislativo 22 luglio 1999, n. 261, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) le parole da: «e nella misura» fino a: «non procurano al» sono sostituite dalle seguenti: «in cui il»; 
+ 2) dopo le parole: «predetto servizio» sono inserite le seguenti: «non ricava dalla fornitura del servizio universale e dai servizi in esclusiva di cui all'articolo 4»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «licenze individuali», sono inserite le seguenti: «e di autorizzazione generale»; dopo le parole: «introiti lordi» sono inserite le seguenti: «, relative a servizi sostitutivi di quelli compresi nel servizio universale,»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, le parole da: « - con riferimento» fino alla fine del comma sono soppresse.
+
 All'articolo 11, comma 1, del decreto legislativo 22 luglio 1999, n. 261, le parole da: «delle comunicazioni» a: «della navigazione e» sono sostituite dalle seguenti: «dello sviluppo economico, di concerto, per quanto di rispettiva competenza, con i Ministri del lavoro e delle politiche sociali, della salute, dell'ambiente e della tutela del territorio e del mare, delle infrastrutture e dei trasporti,».
+
+10.
+                    
+                        
+                            All'articolo 13 del decreto legislativo 22 luglio 1999, n. 261, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica dell'articolo 13 e' sostituita dalla seguente: «Tariffe delle prestazioni rientranti nell'ambito del servizio universale»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' soppresso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Le tariffe delle prestazioni rientranti nel servizio universale sono determinate, nella misura massima, dall'autorita' di regolamentazione, tenuto conto dei costi del servizio e del recupero di efficienza. In sede di prima applicazione si fa riferimento alle linee guida di cui alla deliberazione CIPE n. 77 del 29 settembre 2003»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3 sono apportate le seguenti modificazioni: 
+ 1) nell'alinea, le parole: «Le tariffe ed i prezzi di cui ai commi 1 e 2» sono sostituite dalle seguenti: «Le tariffe di cui al comma 2» e la parola: «fissati» e' sostituita dalla seguente: «fissate»; 
+ 2) alla lettera b), la parola: «correlati» e' sostituita dalla seguente: «correlate»; 
+ 3) alla lettera c), la parola: «fissati» e' sostituita dalla seguente: «fissate»; 
+ 4) alla lettera e), la parola: «discriminatori» e' sostituita dalla seguente: «discriminatorie»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 3-bis e' sostituito dal seguente: 
+ «3-bis. Qualora il fornitore del servizio universale applichi prezzi speciali, ad esempio per servizi prestati ad utenti che esercitano attivita' commerciali, utenti all'ingrosso o consolidatori postali per utenti diversi, si applicano i principi di trasparenza e non discriminazione per quanto riguarda sia i prezzi sia le condizioni associate. I prezzi, unitamente alle condizioni associate, si applicano sia fra i terzi sia fra i terzi e i fornitori del servizio universale che forniscono servizi equivalenti. Simili prezzi devono inoltre essere disponibili per gli utenti, in particolare singoli utenti e piccole e medie imprese, a condizioni simili.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dopo il comma 3-bis, e' aggiunto, in fine, il seguente: 
+ «3-ter. In caso di accordi sulle spese terminali per la posta transfrontaliera intracomunitaria, il fornitore del servizio universale rispetta i seguenti principi: 
+ a) fissazione delle spese terminali in relazione ai costi di trattamento e di distribuzione della posta transfrontaliera in entrata; 
+ b) collegamento dei livelli di remunerazione con la qualita' di servizio fornita; 
+ c) garanzia di spese terminali trasparenti e non discriminatorie.».
 
 L'articolo 14 del decreto legislativo 22 luglio 1999, n. 261, e' sostituito dal seguente: 
  «Art. 14 (Reclami). - 1. Il fornitore del servizio postale e' tenuto ad adottare procedure trasparenti, semplici e poco onerose per la gestione dei reclami degli utenti, in particolare in caso di smarrimento, furto, danneggiamento o mancato rispetto delle norme di qualita' del servizio, ivi comprese le procedure per determinare di chi sia la responsabilita', qualora sia coinvolto piu' di un operatore, nonche' le procedure conciliative in sede locale uniformate ai principi comunitari. E' altresi' fissato il termine per la trattazione dei reclami medesimi e per la comunicazione del relativo esito all'utente. 
@@ -129,6 +399,102 @@ Dopo l'articolo 18 del decreto legislativo 22 luglio 1999, n. 261, e' inserito i
 L'articolo 19 del decreto legislativo 22 luglio 1999, n. 261, e' sostituito dal seguente: 
  «Art. 19 (Responsabilita'). - 1. La responsabilita' per la fornitura dei servizi postali e' disciplinata, per quanto non stabilito dal presente decreto o da disposizioni speciali, dalle norme del codice civile.».
 
+16.
+                    
+                        
+                            All'articolo 21 del decreto legislativo 22 luglio 1999, n. 261, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) le parole: «e dei servizi riservati» sono soppresse; 
+ 2) le parole: «da euro cinquemilacentosessantaquattro a euro cinquantunomilaseicentoquarantacinque» sono sostituite dalle seguenti: «da cinquemila euro a centocinquantamila euro»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole: «l'autorita' di regolamentazione» sono sostituite dalle seguenti: «il Ministero dello sviluppo economico, su proposta dell'Autorita' di regolamentazione,»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Chiunque espleti il servizio di cui all'articolo 4 del presente decreto, attribuito in via esclusiva al fornitore del servizio universale, e' punito con sanzione pecuniaria amministrativa da cinquemila euro a centocinquantamila euro.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, le parole: «da euro duemilacinquecentottandadue a euro venticinquemilaottocentoventidue» sono sostituite dalle seguenti: «da cinquemila euro a centocinquantamila euro»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, le parole: «da euro cinquecentosedici a euro cinquemilacentosessantaquattro» sono sostituite dalle seguenti: «da cinquemila euro a centocinquantamila euro»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 6, le parole: «da euro millecinquecentoquarantanove a euro quindicimilaquattrocentonovantatre» sono sostituite dalle seguenti: «da cinquemila euro a centomila euro»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 7, le parole: «da euro cinquecentosedici a euro cinquemilacentosessantaquattro» sono sostituite dalle seguenti: «da cinquemila euro a centomila euro»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                dopo il comma 7, sono inseriti i seguenti: 
+ «7-bis. Gli operatori postali che non provvedono, nei termini e con le modalita' prescritti, alla comunicazione dei documenti, dei dati e delle notizie richiesti dall'autorita' di regolamentazione sono puniti con sanzione pecuniaria amministrativa da mille euro a centocinquantamila euro. 
+ 7-ter. I soggetti che non ottemperano agli ordini e alle diffide dell'autorita' di regolazione, impartiti ai sensi del presente decreto, sono puniti con la sanzione pecuniaria amministrativa da diecimila euro a centocinquantamila euro. 
+ 7-quater. In caso di reiterate violazioni degli obblighi inerenti alle licenze individuali o alle autorizzazioni generali il Ministero dello sviluppo economico, su proposta dell'autorita' di regolamentazione, puo' disporre, previa diffida, la sospensione ovvero la revoca dell'affidamento del servizio. 
+ 7-quinquies. Le somme derivanti dall'applicazione delle sanzioni di cui ai commi 3, 7-bis e 7-ter sono versate all'entrata del bilancio dello Stato per essere riassegnate al fondo di cui all'articolo 2, comma 14, lettera a).»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 8, le parole: «agli organi del Ministero delle comunicazioni» sono sostituite dalle seguenti: «all'autorita', che puo', nell'esercizio di tale potere, avvalersi degli organi territoriali del Ministero dello sviluppo economico, con modalita' da stabilire nel regolamento di cui all'articolo 2, comma 16».
+
+17.
+                    
+                        
+                            All'articolo 22 del decreto legislativo 22 luglio 1999, n. 261, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2: 
+ 1) la parola: «fissate» e' sostituita dalla seguente: «predisposte»; 
+ 2) le parole: «dal Ministro delle comunicazioni» sono sostituite dalle seguenti: «dall'autorita' di regolamentazione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2, sono aggiunti, in fine, i seguenti: 
+ «2-bis. All'aggiornamento e alla modifica delle disposizioni dell'allegato al presente decreto legislativo derivanti da aggiornamenti e modifiche della direttiva 97/67/CE si provvede con decreto del Ministro dello sviluppo economico ai sensi dell'articolo 11, comma 5, della legge 4 febbraio 2005, n. 11. 
+ 2-ter. Le disposizioni di cui al presente decreto prevalgono sulle disposizioni di cui al decreto legislativo 26 marzo 2010, n. 59, recante attuazione della direttiva 2006/123/CE relativa ai servizi nel mercato interno.».
+
 L'articolo 23 del decreto legislativo 22 luglio 1999, n. 261 e' sostituito dal seguente: 
  «Art. 23 (Norme transitorie). - 1. Fino alla piena operativita' dell'Agenzia di cui all'articolo 2, e comunque non oltre due mesi dalla data di adozione del decreto di cui al comma 18 del medesimo articolo 2, il Ministero dello sviluppo economico continua ad esercitare le funzioni di regolamentazione del settore postale. 
  2. Sulla base dei criteri di cui al comma 11 dell'articolo 3, il servizio universale e' affidato a Poste Italiane S.p.A. per un periodo di quindici anni, a decorrere dalla data di entrata in vigore del decreto legislativo di attuazione della direttiva 2008/6/CE. Ogni cinque anni il Ministero dello sviluppo economico verifica, sulla base di un'analisi effettuata dall'autorita' di regolamentazione, che l'affidamento del servizio universale a Poste Italiane S.p.A. sia conforme ai criteri di cui alle lettere da a) ad f) del comma 11 dell'articolo 3 e che nello svolgimento dello stesso si registri un miglioramento di efficienza, sulla base di indicatori definiti e quantificati dall'autorita'. In caso di esito negativo della verifica di cui al periodo precedente, il Ministero dello sviluppo economico dispone la revoca dell'affidamento. 
@@ -137,6 +503,44 @@ L'articolo 23 del decreto legislativo 22 luglio 1999, n. 261 e' sostituito dal s
  5. Nelle more di eventuali modifiche alle disposizioni regolatorie di settore, restano efficaci, purche' non incompatibili, le discipline vigenti al momento della pubblicazione del decreto legislativo di attuazione della direttiva 2008/6/CE.».
 
 ## Art. 2. — Disposizioni di coordinamento
+
+1.
+                    
+                        
+                            Al comma 2 dell'articolo 211 del decreto legislativo 12 aprile 2006, n. 163, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera a) e' sostituita dalla seguente: 
+ «a) "invio postale": l'invio, nella forma definitiva al momento in cui viene preso in consegna dal fornitore di servizi postali; si tratta, oltre agli invii di corrispondenza, di libri, cataloghi, giornali, periodici e similari nonche' di pacchi postali contenenti merci con o senza valore commerciale;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera b) e' sostituita dalla seguente: 
+ «b) "servizi postali": servizi che includono la raccolta, lo smistamento il trasporto e la distribuzione degli invii postali;».
+
+2.
+                    
+                        
+                            Al codice del processo amministrativo di cui al decreto legislativo 2 luglio 2010, n. 104, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 119, comma 1, dopo la lettera m) e' aggiunta, in fine, la seguente: «m-bis) le controversie aventi per oggetto i provvedimenti dell' Agenzia nazionale di regolamentazione del settore postale di cui alla lettera h) del comma 2 dell'articolo 37 della legge 4 giugno 2010, n. 96, compresi quelli sanzionatori ed esclusi quelli inerenti ai rapporti di impiego,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 133, comma 1, dopo la lettera z) e' aggiunta, in fine, la seguente: «z-bis) le controversie aventi ad oggetto tutti i provvedimenti, compresi quelli sanzionatori ed esclusi quelli inerenti i rapporti di impiego, adottati dall'Agenzia nazionale di regolamentazione del settore postale di cui alla lettera h) del comma 2 dell'articolo 37 della legge 4 giugno 2010, n. 96.».
 
 Con regolamento, da emanare, ai sensi dell'articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400, e successive modificazioni, entro quattro mesi dalla data di entrata in vigore del presente decreto, si provvede, senza nuovi o maggiori oneri a carico del bilancio dello Stato, alla modifica del regolamento di riorganizzazione del Ministero dello sviluppo economico, di cui al decreto del Presidente della Repubblica 28 novembre 2008, n. 197, tenuto conto del trasferimento di funzioni all'Agenzia di cui all'articolo 2 del decreto legislativo 22 luglio 1999, n. 261, come modificato dal presente decreto.
 

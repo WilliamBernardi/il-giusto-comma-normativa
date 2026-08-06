@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2017-03-06;58
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,52 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Oggetto, ambito di applicazione e definizioni
 
+1.
+                    
+                        
+                            Il presente decreto disciplina le modalita', anche contabili, e le tariffe da applicare ai procedimenti previsti dal decreto legislativo 3 aprile 2006, n. 152 in relazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'istruttoria necessaria allo svolgimento da parte dell'autorita' competente delle attivita' previste dagli articoli 29-bis, comma 2, 29-ter, 29-quater, 29-sexies e 29-septies, del decreto legislativo 3 aprile 2006, n. 152, per il primo rilascio dell'autorizzazione integrata ambientale (nel seguito AIA) relativa a impianti nuovi o ad impianti esistenti, comprese le eventuali attivita' di aggiornamento dell'autorizzazione previste dall'articolo 29-sexies, comma 8, del decreto legislativo 3 aprile 2006, n. 152, in caso di conclusione del procedimento ai sensi dell'articolo 17 del decreto legislativo 26 giugno 2015, n. 105, successiva alla conclusione del procedimento di rilascio di autorizzazione integrata ambientale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'istruttoria necessaria allo svolgimento da parte dell'autorita' competente delle attivita' previste dagli articoli 29-bis, comma 2, 29-ter, 29-quater, 29-sexies e 29-septies, del decreto legislativo 3 aprile 2006, n. 152, per il riesame, con valenza di rinnovo dell'AIA, gia' rilasciata, disposto ai sensi dall'articolo 29-octies, comma 3, del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'istruttoria necessaria allo svolgimento da parte dell'autorita' competente delle attivita' previste in caso di domanda, presentata ai sensi dell'articolo 29-nonies, comma 2, del decreto legislativo 3 aprile 2006, n. 152, di autorizzazione ad esercire modifiche sostanziali in una istallazione gia' dotata di AIA, ovvero in caso di riesame dell'AIA gia' rilasciata, o avviato su istanza del gestore, o disposto con autonomo provvedimento, ai sensi dell'articolo 29-octies, comma 4, dello stesso decreto legislativo 3 aprile 2006, n. 152 o disposto nella stessa AIA, alla luce di lacune nell'istanza che non si e' ritenuto tecnicamente possibile superare nei tempi fissati per la conclusione del procedimento, e non tali da poter giustificare un diniego; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'istruttoria necessaria alla valutazione della comunicazione di cui all'articolo 29-nonies, comma 1, del decreto legislativo 3 aprile 2006, n. 152, e all'eventuale conseguente aggiornamento dell'AIA gia' rilasciata in caso di modifica non sostanziale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                alle attivita' di controllo previste ai sensi dell'articolo 29-decies, comma 3, del decreto legislativo 3 aprile 2006, n. 152, basate sia sulla verifica della documentazione trasmessa dal gestore, sia sulle visite ispettive effettuate presso l'installazione, programmate sulla base di quanto previsto dall'articolo 29-decies comma 11-bis e comma 11-ter del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                alle visite di verifica presso l'installazione da effettuarsi, ai sensi dell'articolo 29-decies, comma 11-ter, del decreto legislativo 3 aprile 2006, n. 152, entro sei mesi per le installazioni per le quali la precedente ispezione ha evidenziato una grave inosservanza delle condizioni di autorizzazione.
+
 Sono escluse dal campo di applicazione del presente decreto le ispezioni straordinarie di cui all'articolo 29-decies, comma 4, del decreto legislativo 3 aprile 2006, n. 152.
 
 Il presente decreto definisce, inoltre, i compensi relativi alla Commissione istruttoria per l'AIA - IPPC (di seguito Commissione AIA-IPPC) di cui all'articolo 10 del decreto del Presidente della Repubblica del 14 maggio 2007, n. 90.
@@ -51,6 +97,101 @@ Il presente decreto definisce, inoltre, i compensi relativi alla Commissione ist
 Ai fini dell'applicazione del presente decreto valgono le definizioni di cui all'articolo 5 del decreto legislativo 3 aprile 2006, n. 152.
 
 ## Art. 2. — Tariffe relative all'istruttoria
+
+1.
+                    
+                        
+                            Ai fini della determinazione della tariffa relativa alle attivita' istruttorie di cui all'articolo 1, comma 1, lettere a) e b), il gestore assevera, con dichiarazione allegata alla domanda di autorizzazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'elenco delle attivita' di cui all'allegato VIII alla Parte II del decreto legislativo 3 aprile 2006, n. 152, condotte nell'installazione (nel seguito indicate come attivita' IPPC) e, nel caso di domanda presentata al Ministero dell'ambiente e della tutela del territorio e del mare, il tipo di impianto di cui all'allegato XII, alla Parte II del medesimo decreto legislativo, specificando se alcune di tali attivita' IPPC sono gestite da diversi soggetti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la presenza di ulteriori attivita' o impianti soggetti ad autorizzazione integrata ambientale localizzati nel medesimo sito e funzionalmente connessi ad una o piu' attivita' di cui alla lettera a) (nel seguito indicati come attivita' non IPPC connesse), specificando se si tratta di impianti gestiti dal medesimo gestore o da diversi soggetti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero di fonti (puntuali, lineari o areali, a regime e non) di emissione significativa in aria di sostanze inquinanti oggetto della richiesta di autorizzazione e l'associazione di ognuna di tali fonti ad una o piu' attivita' di cui alle lettere a) e b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero di fonti di emissione liquida significativa di sostanze inquinanti (nel seguito indicate come scarichi) oggetto della richiesta di autorizzazione e l'associazione di ognuna di tali fonti ad una o piu' attivita' di cui alle lettere a) e b); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la presenza di emissioni in aria, non contenenti in maniera significativa sostanze inquinanti, soggette ad autorizzazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il numero di fonti di emissione di acqua, non contenente in maniera significativa sostanze inquinanti, oggetto della richiesta di autorizzazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la quantita' giornaliera in tonnellate di rifiuti pericolosi la cui gestione e' oggetto della richiesta dell'autorizzazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la quantita' giornaliera in tonnellate di rifiuti non pericolosi la cui gestione e' oggetto della richiesta dell'autorizzazione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la presenza di un sistema di gestione ambientale registrato o certificato per l'intera installazione oggetto dell'autorizzazione, segnalando la eventuale certificazione di tale sistema secondo la norma UNI EN ISO 14001 o la sua registrazione ai sensi del regolamento (CE) n. 1221/2009 (EMAS); 
+
+                            
+                        
+                        
+                            l)
+                            
+                                se l'installazione e' soggetta alle disposizioni della normativa in materia di rischi da incidente rilevante (di cui al decreto legislativo n. 105/2015) o ricade in un'area ad elevata concentrazione di stabilimenti ai sensi della medesima normativa; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                se l'installazione e' collocata in un sito dichiarato di interesse nazionale ai sensi della normativa vigente in materia di bonifiche, nonche' se e' soggetto alla presentazione della relazione di riferimento di cui all'articolo 29-ter, comma 1, lettera m), del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                se nell'istanza e' richiesta l'applicazione di deroghe al rispetto dei BAT-AEL, in applicazione dell'articolo 29-quater, comma 9-bis, del decreto legislativo 3 aprile 2006, n. 152, specificando in tal caso quali punti di emissione e quali scarichi sono interessati dalla richiesta; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                se l'installazione rientra nelle categorie cui sono applicabili i requisiti generali di cui all'articolo 29-bis, comma 2, del decreto legislativo 3 aprile 2006, n. 152.
 
 La tariffa dell'istruttoria di cui all'articolo 1, comma 1, lettera a), e' pari alla tariffa cosi' come calcolata nel punto 7 dell'allegato I, adottando nel caso di applicazione dei requisiti generali di cui all'articolo 29-bis, comma 2, del decreto legislativo 3 aprile 2006, n. 152, le specifiche riduzioni espressamente indicate.
 
@@ -74,6 +215,31 @@ Le eventuali attivita' previste durante la visita in loco consistenti in preliev
 
 Nel caso in cui il piano di monitoraggio e controllo prevede prelievi ed analisi da parte dell'autorita' di controllo non previste nell'allegato V, nel provvedimento di AIA, su proposta dell'autorita' di controllo, l'autorita' competente, salvo quanto diversamente previsto nei provvedimenti emanati ai sensi dell'articolo 10, comma 3, introduce indicazioni su quali prelievi ed analisi previsti nell'allegato V devono essere considerati equivalenti ai fini della determinazione della tariffa di cui al comma 2 del presente articolo, dandone segnalazione al Ministero dell'ambiente e della tutela del territorio e del mare al fine del successivo aggiornamento dell'Allegato V.
 
+4.
+                    
+                        
+                            Salvo quanto diversamente previsto nei provvedimenti emanati ai sensi dell'articolo 10, comma 3, la tariffa annua relativa ai controlli di cui all'articolo 1, comma 1, lettera e) e' determinata facendo riferimento alla programmazione delle attivita' di cui all'articolo 1, comma 1, lettera e), come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                se la programmazione non prevede nell'anno visite presso l'installazione e' dovuta la tariffa di cui al comma 1, ovvero, ove cosi' disposto nei provvedimenti emanati ai sensi dell'articolo 10, comma 3, una tariffa opportunamente ridotta o ricompresa nella tariffa di cui alla successiva lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se la programmazione prevede una o piu' visite presso l'installazione nell'anno e' dovuta una tariffa annua pari alla tariffa di cui al comma 1 moltiplicata per il numero di visite programmate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ove la programmazione preveda, nel corso delle visite presso l'installazione, l'esecuzione di prelievi ed analisi, ad integrazione della tariffa di cui alla lettera b), e' dovuta anche la tariffa di cui al comma 2, determinata con riferimento al numero e al tipo di prelievi ed analisi programmati durante le visite presso l'installazione.
+
 La tariffa relativa alle visite presso l'installazione di cui all'articolo 1, comma 1, lettera f), e' determinata sommando la tariffa, calcolata come indicato al comma 1, considerando solo le sostanze ed i parametri monitorati, i tipi di rifiuto e le ulteriori componenti del controllo interessati da precedente grave inosservanza, con la tariffa di cui al comma 2 relativa alla ripetizione dei soli controlli per le quali la precedente esecuzione di prelievi ed analisi ha evidenziato una grave inosservanza delle condizioni di autorizzazione.
 
 ## Art. 4. — Rimborsi spese
@@ -94,6 +260,31 @@ In caso di istanze presentate prima dell'entrata in vigore del presente decreto 
 
 Modalita' di versamento 
  delle tariffe dei controlli
+
+1.
+                    
+                        
+                            Salvo quanto diversamente previsto nei provvedimenti emanati ai sensi dell'articolo 10, comma 3, le tariffe relative alle attivita' di controllo di cui all'articolo 3 devono essere versate dai gestori come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                prima della comunicazione prevista dall'articolo 29-decies, comma 1, del decreto legislativo 3 aprile 2006, n. 152, allegando la relativa quietanza a tale comunicazione, per le attivita' di controllo relative al periodo che va dalla data di attuazione di quanto previsto nell'autorizzazione integrata ambientale al termine del relativo anno solare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro il 31 gennaio di ciascun anno successivo a quanto previsto alla lettera a), per le attivita' di controllo del relativo anno solare, dandone immediata comunicazione all'autorita' di controllo individuata dall'articolo 29-decies, comma 3, del decreto legislativo 3 aprile 2006, n. 152; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro 60 giorni dalla notifica della relazione di cui all'articolo 29-decies, comma 5, del decreto legislativo 3 aprile 2006, n. 152, per le visite in loco di cui all'articolo 1, comma 1, lettera f), dandone immediata comunicazione all'autorita' di controllo individuata dall'articolo 29-decies, comma 3, del decreto legislativo 3 aprile 2006, n. 152.
 
 Al fine di garantire l'espletamento dei controlli di cui all'articolo 1, comma 1, lettera e), e lettera f), le somme di cui al comma 1 sono versate e riassegnate con le modalita' di cui all'articolo 5, comma 2, del presente decreto per poi essere trasferite agli enti di controllo.
 

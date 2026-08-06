@@ -8,8 +8,8 @@ codice_redazionale: 000G0355
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -83,6 +83,38 @@ Laddove l'alloggio in residence sottenda un contratto e non dia luogo a fatturaz
 Per il pagamento di canoni anticipati, il capo della rappresentanza o dell'ufficio consolare trasmette la richiesta del dipendente allegando una dichiarazione attestante la prassi costante del mercato locale di pretendere pagamenti anticipati del canone per uno o piu' anni. L'amministrazione potra' concedere al dipendente, a titolo di anticipo, una somma pari al primo anno di canone, provvedendo al recupero mediante trattenute mensili sull'indennita' personale.
 
 ## Art. 10. — Cessazione del contributo
+
+1.
+                    
+                        
+                            La concessione del contributo termina automaticamente al verificarsi di una delle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                cessazione di funzioni dalla sede;
+
+                            
+                        
+                        
+                            b)
+                            
+                                scadenza naturale del contratto qualora non sia stata presentata la documentazione di rinnovo o proroga;
+
+                            
+                        
+                        
+                            c)
+                            
+                                aumento dell'indennita' personale (per variazione del coefficiente di sede, della maggiorazione per rischio e disagio, della maggiorazione di famiglia, progressione di carriera, ecc.) che riconduca il canone di locazione al di sotto della soglia di diritto;
+                            
+                        
+                        
+                            d)
+                            
+                                diminuzione del canone di locazione al di sotto della soglia
+di diritto.
 
 ## Art. 11. — V a l u t a
 

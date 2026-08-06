@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-01-09;8
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,35 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro per gli 
 
 ## Art. 1. — Modifiche all'articolo 2 del decreto legislativo 
  1° aprile 2004, n. 111
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 1° aprile 2004, n. 111 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 3, la lettera f) le parole «all'intesa con la Regione sulla» sono sostituite dalle seguenti: «alla»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, dopo la lettera f) e' inserita la seguente: 
+ «f-bis) all'esecuzione, manutenzione e gestione di nuove opere di interesse statale, definendo termini, modalita', forme di attuazione, finanziamenti e oneri»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. Ai sensi dell'articolo 47, primo comma, dello Statuto, le funzioni di cui al comma 3, lettere e), f) e f-bis), sono esercitate previa intesa con la Regione.».
 
 ## Art. 2.
 

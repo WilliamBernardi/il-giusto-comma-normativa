@@ -8,8 +8,8 @@ codice_redazionale: 099G0397
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,11 +31,54 @@ Al fine di dare immediata attuazione all'articolo 14 del regolamento (CEE) n. 20
 
 L'attivita' di controllo di cui al comma 1 comprende sia l'attivita' di verifica di conformita' svolta da organismi pubblici o privati autorizzati, sia l'attivita' di vigilanza svolta dal Ministero per le politiche agricole e dalle regioni e province autonome di Trento e Bolzano.
 
+3.
+                    
+                        
+                            Le autorizzazioni di cui al comma 1 agli organismi di controllo privati sono rilasciate previa valutazione dei requisiti relativi a:
+ 
+                        
+                        
+                            a)
+                            
+                                conformita' alle norme EN45011;
+
+                            
+                        
+                        
+                            b)
+                            
+                                disponibilita' di personale qualificato e di mezzi per lo svolgimento dell'attivita' di controllo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                adeguatezza delle relative procedure.
+
 Nel caso in cui gli organismi privati si avvalgano, per taluni controlli, di un organismo terzo, quest'ultimo deve soddisfare i requisiti di cui alle lettere a) , b) e c) del comma 3.
 
 La designazione delle autorita' pubbliche avviene a seguito di valutazione della disponibilita' di personale qualificato e di mezzi per lo svolgimento dell'attivita' di controllo e della adeguatezza delle relative procedure.
 
 La valutazione dei requisiti di cui ai commi 3 e 5 e' effettuata dal predetto gruppo tecnico di valutazione, tenuto anche conto dei criteri utilizzati dalle strutture di controllo, private o pubbliche, per stabilire l'entita' degli oneri a carico dei produttori.
+
+7.
+                    
+                        
+                            Le autorizzazioni possono essere sospese o revocate in caso di:
+ 
+                        
+                        
+                            a)
+                            
+                                perdita dei requisiti di cui ai commi 3 e 5, sia da parte rispettivamente degli organismi privati autorizzati e delle autorita' pubbliche designate, sia da parte di organismi terzi dei quali essi si siano eventualmente avvalsi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                violazione della normativa comunitaria in materia.
 
 Gli organismi privati che intendano proporsi per il controllo di ogni singola attestazione di specificita' ai sensi del regolamento (CEE) n. 2082/92 devono presentare apposita richiesta al Ministero per le politiche agricole. Tale richiesta deve essere corredata da documentazione idonea a comprovare la sussistenza dei requisiti di cui al comma 3, in base alle indicazioni riportate all'allegato A del decreto ministeriale 29 maggio 1998, pubblicato nella Gazzetta Ufficiale n. 162 del 14 luglio 1998, relativamente alle caratteristiche degli organismi stessi e alle modalita' di attuazione del disciplinare di produzione.
  Avvertenza:

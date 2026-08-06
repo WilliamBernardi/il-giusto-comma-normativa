@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2001-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,45 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 
 ## Art. 1. — Ambito di applicazione e soggetti beneficiari
 
+1.
+                    
+                        
+                            L'agevolazione prevista al punto 5 della tabella A allegata al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con decreto legislativo 26 ottobre 1995, n. 504, d'ora in avanti denominato "testo unico" e quella prevista dall'articolo 2, comma 127, della legge 23 dicembre 1996, n. 662, spettano per un importo pari alle accise non dovute sui prodotti petroliferi da utilizzare per lo svolgimento, con l'impiego delle macchine adibite a lavori agricoli come definite nel comma 3 del presente articolo, delle attivita' indicate nel medesimo punto 5, ai seguenti soggetti:
+ 
+                        
+                        
+                            a)
+                            
+                                esercenti le suddette attivita' iscritti ai sensi dell'articolo 1, comma 1, del decreto legislativo 30 aprile 1998, n. 173, nel registro delle imprese di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, e nell'anagrafe delle aziende agricole di cui al decreto del Presidente della Repubblica 1o dicembre 1999, n. 503;
+
+                            
+                        
+                        
+                            b)
+                            
+                                cooperative, parimenti iscritte nel registro delle imprese, costituite tra i soggetti di cui alla lettera a), per lo svolgimento in comune delle medesime attivita' connesse all'esercizio delle singole imprese;
+
+                            
+                        
+                        
+                            c)
+                            
+                                aziende agricole delle istituzioni pubbliche;
+
+                            
+                        
+                        
+                            d)
+                            
+                                consorzi di bonifica e di irrigazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                imprese agromeccaniche iscritte nel registro delle imprese.
+
 Per i soggetti indicati al comma 1, lettere a), b) e c), le agevolazioni competono per lo svolgimento delle attivita' agricole di cui all'articolo 29 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, nei limiti ivi stabiliti, compresi gli interventi di manutenzione dei fondi e le lavorazioni agricole preparatorie di base; per i soggetti indicati alla lettera d), spettano per i lavori eseguiti nell'ambito dei propri comprensori e delle rispettive attivita' istituzionali; per le imprese agromeccaniche competono in relazione alle prestazioni, rese in favore delle imprese agricole iscritte nel registro delle imprese e registrate nell'anagrafe delle aziende agricole, in relazione alle attivita' agricole di cui all'articolo 29 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni.
 
 Ai fini del presente regolamento, si considerano macchine adibite a lavori agricoli le macchine agricole previste dall'articolo 57 del nuovo codice della strada, approvato con decreto legislativo 30 aprile 1992, n. 285, e successive modifiche, i motori per l'azionamento delle attrezzature agricole, destinati ad essere impiegati nelle attivita' agricole e forestali, le macchine utilizzate per la irrigazione dei fondi, per l'essiccazione, per la prima trasformazione dei prodotti agricoli, nonche' gli impianti di riscaldamento delle serre e dei locali adibiti ad attivita' di produzione.
@@ -44,6 +83,53 @@ Sono esclusi dalla disciplina del presente regolamento i consumi di prodotti pet
 
 ## Art. 2. — Adempimenti dei beneficiari
  per l'ammissione all'agevolazione
+
+1.
+                    
+                        
+                            Per usufruire delle agevolazioni, entro il 31 gennaio di ciascun anno e, comunque, prima dell'inizio dell'attivita' stagionale dell'azienda, i soggetti indicati all'articolo 1, comma 1, lettera a) presentano, anche per il tramite delle organizzazioni di categoria, all'ufficio incaricato dalla regione o dalle provincie autonome di Trento e Bolzano del servizio relativo all'impiego di carburanti agevolati per l'agricoltura, d'ora in avanti denominato "ufficio regionale o provinciale", competente in base all'ubicazione dei terreni, una richiesta contenente i seguenti dati:
+
+                        
+                        
+                            a)
+                            
+                                le proprie generalita' ed il relativo domicilio o, se trattasi di persona giuridica, la denominazione o ragione sociale, la sede legale di essa, nonche' le generalita' del rappresentante legale;
+                            
+                        
+                        
+                            b)
+                            
+                                il codice fiscale e la partita I.V.A.;
+                            
+                        
+                        
+                            c)
+                            
+                                gli estremi di iscrizione nel registro delle imprese e nell'anagrafe delle aziende agricole;
+                            
+                        
+                        
+                            d)
+                            
+                                le macchine adibite a lavori agricoli e relative attrezzature che intendono utilizzare specificandone, per quelle soggette ad immatricolazione, il numero della targa e, per quelle non soggette ad immatricolazione, il numero del telaio o del motore e, nel caso in cui esse non siano di proprieta' dell'azienda, anche le generalita' del proprietario delle stesse;
+                            
+                        
+                        
+                            e)
+                            
+                                le macchine operatrici di cui all'articolo 1, comma 4, che si intendono utilizzare per lavori agricoli indicando, oltre ai dati di cui alla lettera d), anche il tipo di lavorazione per la quale se ne chiede l'utilizzo;
+                            
+                        
+                        
+                            f)
+                            
+                                l'ubicazione e l'estensione dell'azienda, nonche' la ripartizione delle colture su di essa praticate;
+                            
+                        
+                        
+                            g)
+                            
+                                la dichiarazione dei lavori connessi alle attivita' di cui all'articolo 1, comma 2, che si intendono eseguire nel corso dell'anno, riferiti a colture, superfici o quantita' su cui intervenire con distinta indicazione di quelli che si intendono affidare ad imprese agromeccaniche specificandone generalita' del titolare, ragione sociale e sede legale; nelle richieste di cui al comma 1, successive alla prima presentata a norma del presente regolamento, le attivita' da eseguire nel corso dell'anno sono oggetto della dichiarazione solo se variate rispetto all'anno precedente. ((1))
 
 Nella richiesta di cui al comma 1, possono essere omessi i dati di cui alla lettera f), risultanti dal repertorio notizie economiche ed amministrative (REA) previsto dall'articolo 9 del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581, facendo ad esso riferimento. Nella medesima richiesta sono altresi' indicate eventuali macchine ed attrezzature, impiegate per le stesse attivita' dichiarate, alimentate con energia elettrica o con combustibili diversi da quelli agevolati di cui al presente regolamento.
 
@@ -82,6 +168,38 @@ Il libretto di cui al comma 3 puo' essere sostituito dalla carta dell'agricoltor
 
 Le agevolazioni di cui all'articolo 1 sono concesse mediante accredito d'imposta, ai sensi dell'articolo 14, comma 4, del testo unico, commisurato alla differenza tra l'aliquota di accisa stabilita, in via generale, rispettivamente per la benzina e il gasolio e quella ridotta applicata ai medesimi prodotti ai sensi del punto 5 della tabella A allegata al testo unico e dell'articolo 2, comma 127, della legge 23 dicembre 1996, n. 662.
 
+2.
+                    
+                        
+                            Gli esercenti i depositi commerciali di oli minerali assoggettati ad accisa ad aliquota intera, tenuti a fornire ai soggetti ammessi al beneficio prodotti petroliferi da impiegare nelle lavorazioni agevolate ad un prezzo ridotto dell'accisa non dovuta e dell'IVA alla stessa afferente, osservano i seguenti adempimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                all'atto della vendita dei prodotti, annotano sul libretto di controllo esibito dai soggetti ammessi al beneficio, distintamente per prodotto, le quantita' di oli minerali vendute e la data in cui viene effettuata la cessione, verificando che i rifornimenti non superino i limiti dell'assegnazione determinata dall'ufficio regionale o provinciale ed emettono fatture con separata indicazione dell'accisa assolta e non addebitata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per ciascun soggetto beneficiario riportano nel registro di carico e scarico a norma dell'articolo 11, comma 1, lettera a), del decreto del Ministro delle finanze 25 marzo 1996, n. 210, e successive modificazioni, distintamente dagli altri, i quantitativi consegnati ed effettuano il totale giornaliero dei prodotti forniti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                presentano periodicamente al titolare del deposito fiscale fornitore una dichiarazione sostitutiva di atto di notorieta' resa ai sensi dell'articolo 4 della legge 4 gennaio 1968, n. 15, e successive modificazioni, recante per ciascun beneficiario l'indicazione dei quantitativi di prodotti petroliferi fatturati nel periodo di riferimento e dell'importo del credito d'imposta maturato, determinato tenuto conto dell'aliquota di accisa stabilita in via generale e di quella ridotta prevista per ciascun tipo di prodotto e che viene trasferito al titolare del deposito fiscale fornitore di cui sopra, a conguaglio dei corrispettivi dei prodotti ritirati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                prestano cauzione, secondo le modalita' stabilite dalle disposizioni sulla contabilita' generale dello Stato, commisurata all'importo massimo del credito d'imposta maturato in un semestre solare, prendendo a base per il computo la differenza tra l'aliquota normale e quella ridotta di accisa.
+
 Il titolare del deposito fiscale espone il credito cedutogli dagli esercenti depositi commerciali nelle proprie contabilita' e lo denuncia all'atto della dichiarazione periodica delle partite immesse in consumo, utilizzandolo a scomputo dei versamenti di accisa che sia tenuto ad effettuare. La dichiarazione sostitutiva di cui alla lettera c) del comma 2 e' posta a corredo delle registrazioni fiscali.
 
 ## Art. 5. — Rifornimenti presso depositi fiscali
@@ -100,6 +218,23 @@ Le imprese agromeccaniche indicano nel libretto di controllo in loro possesso en
 Il libretto di controllo e' tenuto nel rispetto delle norme generali che sottendono ad una ordinata contabilita', secondo i principi fissati dall'articolo 2219 del codice civile, ed e' custodito presso la sede dell'impresa, unitamente ai documenti fiscali a corredo, per un periodo di cinque anni dalla data dell'ultima scritturazione.
 
 Entro il 31 gennaio dell'anno successivo, i soggetti titolari del libretto di controllo presentano all'ufficio regionale o provinciale, anche per il tramite delle organizzazioni di categoria, una dichiarazione di avvenuto impiego di oli minerali nell'uso agevolato in cui indicano, complessivamente, i quantitativi dei prodotti utilizzati nei suddetti impieghi e quelli acquistati ma non utilizzati e di cui si tiene conto in sede di assegnazione nell'anno solare successivo, ai sensi dell'articolo 3, comma 1, nonche' le lavorazioni eseguite in loro favore dalle imprese agromeccaniche, indicandone le generalita' dei titolari, la ragione sociale e la sede legale. Devono altresi' risultare distintamente le lavorazioni, anche stagionali, eseguite con l'impiego di energia elettrica e con l'impiego di altri combustibili diversi dagli oli minerali agevolati di cui all'articolo 1, comma 1. ((1))
+
+6.
+                    
+                        
+                            Alla dichiarazione prevista dal comma precedente sono allegate:
+
+                        
+                        
+                            a)
+                            
+                                copia del libretto di controllo con le debite annotazioni;
+                            
+                        
+                        
+                            b)
+                            
+                                dichiarazione sostitutiva di atto di notorieta' da cui risulti la qualita' e la quantita' dei prodotti acquistati, la data di acquisto e la minore accisa assolta in conformita' a quanto riportato nelle fatture.
 
 In aggiunta alla documentazione di cui al comma precedente, le cooperative allegano un elenco nominativo contenente, distintamente per ciascun socio, le generalita' dello stesso, le lavorazioni effettuate ed i relativi consumi di oli minerali, nonche' gli elementi identificativi dei terreni ai quali le lavorazioni si riferiscono; le imprese agromeccaniche allegano un elenco nominativo, per provincia, degli esercenti imprese agricole in favore delle quali sono state eseguite le lavorazioni indicando, per ciascun soggetto, i lavori eseguiti ed i quantitativi di prodotti consumati, nonche' copia delle fatture relative ai lavori eseguiti con l'indicazione dei destinatari delle prestazioni.
 

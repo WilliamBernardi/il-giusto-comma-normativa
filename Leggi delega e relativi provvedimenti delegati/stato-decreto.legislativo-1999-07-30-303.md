@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-11-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,9 +31,143 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 
 ## Art. 1. — Denominazioni
 
+1.
+                        
+                            
+                                Nel presente decreto legislativo sono denominati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "Presidente" il Presidente del Consiglio dei Ministri e "Presidenza" la Presidenza del Consiglio dei Ministri; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "Segretariato generale", "Segretario generale" e "Vicesegretario generale": rispettivamente, il Segretariato generale della Presidenza del Consiglio dei Ministri, il Segretario generale della Presidenza del Consiglio dei Ministri, il Vicesegretario generale della Presidenza del Consiglio dei Ministri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "Dipartimenti": le strutture di livello dirigenziale generale in cui si articola il Segretariato generale della Presidenza del Consiglio dei Ministri, comprensive di una pluralita' di uffici accomunati da omogeneita' funzionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "uffici": strutture di livello dirigenziale generale collocate all'interno di strutture dipartimentali ovvero in posizione di autonomia funzionale, equiparabile a quella dei Dipartimenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "servizi": unita' operative di base di livello dirigenziale.
+
 ## Art. 2. — Finalita' e funzioni
 
 Il presente decreto legislativo disciplina l'ordinamento, l'organizzazione e le funzioni della Presidenza, della cui attivita' il Presidente si avvale per l'esercizio delle autonome funzioni di impulso, indirizzo e coordinamento attribuitegli dalla Costituzione e dalle leggi della Repubblica. L'organizzazione della Presidenza tiene conto, in particolare, della esigenza di assicurare, anche attraverso il collegamento funzionale con le altre amministrazioni interessate, l'unita' di indirizzo politico ed amministrativo del Governo, ai sensi dell'articolo 95 della Costituzione.
+
+2.
+                        
+                            
+                                Il Presidente si avvale della Presidenza, in particolare, per l'esercizio, in forma organica e integrata, delle seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la direzione ed i rapporti con l'organo collegiale di governo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rapporti del Governo con il Parlamento e con altri organi costituzionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i rapporti del Governo con le istituzioni europee; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i rapporti del Governo con il sistema delle autonomie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i rapporti del Governo con le confessioni religiose, ai sensi degli articoli 7 e 8, ultimo comma, della Costituzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la progettazione delle politiche generali e le decisioni di indirizzo politico generale; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il coordinamento dell'attivita' normativa del Governo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il coordinamento dell'attivita' amministrativa del Governo e della funzionalita' dei sistemi di controllo interno; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la promozione e il coordinamento delle politiche di pari opportunita' e delle azioni di Governo volte a prevenire e rimuovere le discriminazioni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    il coordinamento delle attivita' di comunicazione istituzionale ((, di informazione, nonche' relative all'editoria ed ai prodotti editoriali)); 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    la promozione e verifica dell'innovazione nel settore pubblico ed il coordinamento in materia di lavoro pubblico; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il coordinamento di particolari politiche di settore considerate strategiche dal programma di Governo; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    il monitoraggio dello stato di attuazione del programma di Governo e delle politiche settoriali.
 
 ## Art. 3. — Partecipazione all'Unione europea
 
@@ -155,6 +289,45 @@ In fase di prima attuazione, le dotazioni organiche di cui al comma 2 sono deter
 
 In fase di prima attuazione, nel ruolo organico del personale dirigenziale di cui al comma 1 sono inseriti, anche in soprannumero con riassorbimento delle posizioni in relazione alle vacanze dei posti, i dirigenti di prima e seconda fascia secondo le disposizioni del regolamento previsto dall'articolo 10, comma 2, della legge 15 luglio 2002, n. 145, fatto salvo il diritto di opzione previsto dallo stesso comma 2, nonche' i titolari, in servizio presso la Presidenza alla data di entrata in vigore del decreto del Presidente della Repubblica 26 febbraio 1999, n. 150, di incarichi dirigenziali che furono conferiti ai sensi dell'articolo 19, comma 6, del decreto legislativo 3 febbraio 1993, n. 29. Le qualifiche di consigliere e di referendario sono attribuite ai dirigenti di prima e di seconda fascia successivamente al riassorbimento, nell'ambito di ciascuna fascia, delle eventuali posizioni soprannumerarie. Sono prioritariamente inseriti nel ruolo di cui al comma 1 i dirigenti gia' inquadrati nelle soppresse tabelle allegate alla legge 23 agosto 1988, n. 400, i dirigenti vincitori di concorso presso la Presidenza e i dirigenti con incarico di prima fascia. La collocazione dei dirigenti nella posizione soprannumeraria non comporta alcun pregiudizio giuridico, economico e di carriera.
 
+8.
+                        
+                            
+                                Successivamente alle operazioni di inquadramento effettuate ai sensi del comma 7, in prima applicazione e fino al 31 dicembre 2005, i posti di seconda fascia nel ruolo del personale dirigenziale sono ricoperti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il trenta per cento tramite concorso pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il venticinque per cento tramite concorso riservato, per titoli ed esame colloquio, ai dipendenti della pubblica amministrazione, muniti di laurea, con almeno cinque anni di servizio svolti in posizioni funzionali per l'accesso alle quali e' richiesto il possesso del diploma di laurea, o, in alternativa ai predetti cinque anni di servizio, muniti sia del diploma di laurea che del diploma di specializzazione o del dottorato di ricerca o altro titolo post-universitario, rilasciati da istituti universitari italiani o stranieri, e che, nel periodo compreso tra la data di entrata in vigore della legge 6 luglio 2002, n. 137, ed il 1° gennaio 2003, erano incaricati, ai sensi dell'articolo 19 del decreto legislativo 30 marzo 2001, n. 165, di funzioni dirigenziali o equiparate presso strutture della Presidenza, ivi comprese quelle di cui all'articolo 14 del medesimo decreto legislativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il venticinque per cento tramite concorso riservato, per titoli ed esame colloquio, ai dipendenti di ruolo della pubblica amministrazione, muniti di laurea, che abbiano compiuto almeno cinque anni di servizio svolti in posizioni funzionali per l'accesso alle quali e' richiesto il possesso del diploma di laurea e che, alla data del 1° gennaio 2003, erano in servizio in strutture collocate presso la Presidenza, ivi comprese quelle di cui all'articolo 14 del decreto legislativo 30 marzo 2001, n. 165, nonche' al personale di ruolo della Presidenza, in possesso dei medesimi requisiti, che, alla predetta data del 1° gennaio 2003, si trovava in posizione di comando, fuori ruolo o aspettativa presso altre pubbliche amministrazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per il dieci per cento tramite concorso riservato, per titoli ed esame colloquio, al personale di cui all'articolo 5 della legge 15 luglio 2002, n. 145, purche' in possesso del diploma di laurea, in servizio alla data del 1° gennaio 2003 presso la Presidenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per il restante dieci per cento tramite concorso riservato, per titoli ed esame colloquio, agli idonei a concorsi pubblici banditi ed espletati dalla Presidenza, ai sensi dell'articolo 39, comma 15, della legge 27 dicembre 1997, n. 449, e dell'articolo 29 della legge 8 novembre 2000, n. 328, per il reclutamento di dirigenti dotati di alta professionalita' e che, alla data del 1° gennaio 2003, erano in servizio a qualunque titolo in strutture collocate presso la Presidenza, ivi comprese quelle di cui all'articolo 14 del decreto legislativo 30 marzo 2001, n. 165.
+
 I vincitori dei concorsi previsti dal comma 8 sono collocati nel ruolo in posizione successiva, anche soprannumeraria, ai dirigenti inseriti ai sensi e per gli effetti del comma 7.
 
 E' rimessa alla contrattazione collettiva di comparto autonomo del personale dirigenziale della Presidenza appartenente al ruolo di cui al comma 1 l'articolazione delle posizioni organizzative, delle funzioni e delle connesse responsabilita' ai fini della retribuzione di posizione dei dirigenti.
@@ -192,6 +365,45 @@ A decorrere dalla data di entrata in vigore del presente articolo, l'articolo 10
 ## - Capo II Norme di prima applicazione, transitorie e finali
 
 ## Art. 10. — Riordino dei compiti operativi e gestionali
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 12, comma 1, lettere a) e b), della legge 15 marzo 1997, n. 59, sono trasferiti ai Ministeri di seguito individuati i compiti relativi alle seguenti aree funzionali, in quanto non riconducibili alle autonome funzioni di impulso indirizzo e coordinamento del Presidente. Ai Ministeri interessati sono contestualmente trasferite le corrispondenti strutture e le relative risorse finanziarie, materiali ed umane: 
+ 
+                            
+                            
+                                a)
+                                
+                                    turismo al Ministero dell'industria, commercio e artigianato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    italiani nel mondo al Ministero degli affari esteri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segreteria del comitato per la liquidazione delle pensioni privilegiate ordinarie, di cui all'articolo 19, comma 1, lettera s), della legge 23 agosto 1988, n. 400, al Ministero del tesoro, bilancio e programmazione economica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aree urbane, fatto salvo quanto previsto al comma 5, nonche' Commissione Reggio Calabria, di cui all'articolo 7 della legge 5 luglio 1989, n. 246, e Commissione per il risanamento della Torre di Pisa, al Ministero dei lavori pubblici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    diritto d'autore e disciplina della proprieta' letteraria, nonche' promozione delle attivita' culturali, nell'ambito dell'attivita' del Dipartimento per l'informazione ed editoria, al Ministero per i beni e le attivita' culturali, come previsto dall'articolo 52, comma 2, del decreto legislativo sul riordino dei Ministeri.
 
 Fatte salve le successive modifiche ordinamentali di cui agli articoli 12, lettere f) e seguenti, e 13 della legge 15 marzo 1997, n. 59, le amministrazioni destinatarie dei compiti e delle strutture trasferite ai sensi del comma 1 ne assumono la responsabilita' a decorrere dalla entrata in vigore del presente decreto quando si tratti di strutture in atto affidate a Ministri con portafoglio mediante delega del Presidente del Consiglio. In caso diverso, l'assunzione di responsabilita' decorre dalla individuazione, mediante apposito decreto del Presidente del Consiglio, delle risorse da trasferire.
 
@@ -267,6 +479,94 @@ All'articolo 5, secondo comma, della legge 23 agosto 1988, n. 400, e' aggiunta, 
  "c-bis) puo' deferire al Consiglio dei Ministri, ai fini di una complessiva valutazione ed armonizzazione degli interessi pubblici coinvolti, la decisione di questioni sulle quali siano emerse valutazioni contrastanti tra amministrazioni a diverso titolo competenti in ordine alla definizione di atti e provvedimenti.".
 
 Le norme che attribuiscono funzioni o compiti a Ministri senza portafoglio ovvero a specifici uffici o dipartimenti della Presidenza si intendono modificate nel senso che le relative funzioni e compiti, salvo che per le strutture interessate ai trasferimenti di cui all'articolo 10, sono attribuite al Presidente e, rispettivamente, alla Presidenza. In sede di prima applicazione del presente decreto legislativo, le funzioni e i compiti si intendono delegate al corrispondente Ministro senza portafoglio, se nominato, ovvero si intendono attribuite all'ufficio interessato sino a diversa determinazione organizzativa del Presidente.
+
+4.
+                        
+                            
+                                Sono abrogate tutte le disposizioni incompatibili con quelle del presente decreto e, in particolare, le seguenti disposizioni della legge 23 agosto 1988, n. 400: 
+ 
+                            
+                            
+                                a)
+                                
+                                    articolo 18, comma 1, comma 2, secondo periodo, e comma 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolo 19, comma 1, lettere s), per quanto riguarda il riferimento al comitato per la liquidazione delle pensioni privilegiate ordinarie, v), z), cc); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    articolo 21, commi 1, 3, 4, e 5; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    articolo 22; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    articolo 23, comma 1; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articolo 27; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    articolo 29, comma 3; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    articolo 30; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    articolo 31, commi 1, 2, 3, e 5; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    articolo 35; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    articolo 37; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    articolo 39.
 
 L'abrogazione degli articoli 29, comma 3, 31, commi 1, 2, 3 e 5 e 37, comma 2, ha effetto dalla data di emanazione degli atti del Presidente che fissano i criteri e limiti di cui all'articolo 9, comma 2, ed il contingente di cui al comma 5 del medesimo articolo 9.
 

@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -43,6 +43,24 @@ La conformita' ai requisiti di cui al comma 1 e' certificata anche in lingua ing
 
 L'ENAC puo' concedere deroghe al disposto dell'articolo 3, comma 1, nel caso di aerei di interesse storico, informandone le autorita' competenti degli altri Stati membri, nonche' la Commissione europea e motivando la decisione.
 
+2.
+                    
+                        
+                            Oltre che nel caso previsto al comma 1, l'ENAC puo' autorizzare il singolo uso temporaneo di aerei altrimenti interdetti alla navigazione aerea dalla disciplina del presente decreto, esclusivamente nel caso di:
+ 
+                        
+                        
+                            a)
+                            
+                                aerei la cui utilizzazione ha carattere tanto eccezionale da rendere ingiustificato il rifiuto alla deroga;
+
+                            
+                        
+                        
+                            b)
+                            
+                                aerei che effettuano voli non commerciali a scopo di modifica, riparazione o manutenzione.
+
 Le deroghe previste al comma 1 hanno efficacia nel territorio della Repubblica italiana, anche se concesse dalle autorita' competenti di un altro Stato membro dell'Unione europea, per i velivoli immatricolati nel registro di detto Stato.
 
 ## Art. 5. — Sanzioni
@@ -62,6 +80,24 @@ I proventi derivanti dall'applicazione delle sanzioni previste dal presente decr
 Con decreto del Ministro dell'economia e delle finanze, di concerto con i Ministri delle infrastrutture e dei trasporti e dell'ambiente e della tutela del territorio e del mare, sono definite le modalita' di impiego delle risorse iscritte nel fondo di cui al comma 1.
 
 ## Art. 8. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                decreto del Ministro dei trasporti e della navigazione e del Ministro dell'ambiente in data 28 marzo 1995, di attuazione della direttiva 92/14/CEE in tema di limitazione delle emissioni sonore dei velivoli subsonici a reazione, pubblicato nella Gazzetta Ufficiale n. 130 del 6 giugno 1995;
+
+                            
+                        
+                        
+                            b)
+                            
+                                decreto del Ministro dei trasporti e della navigazione e del Ministro dell'ambiente in data 29 ottobre 1999, di attuazione delle direttive del Consiglio CE/98/20 del 30 marzo 1998 e 1999/28/CE del 21 aprile 1999 che modificano la direttiva 92/14/CEE sulla limitazione dell'utilizzazione degli aerei disciplinati dall'allegato 16 della Convenzione sull'aviazione civile internazionale, volume 1, parte II, capitolo 2, seconda edizione, pubblicato nella Gazzetta Ufficiale n. 264 del 10 novembre 1999.
 
 ## Art. 9. — Disposizioni finali
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2014-04-14;77
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,6 +23,27 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 ## Art. 1.
 
 I colonnelli, i tenenti colonnelli, i maggiori e i capitani in servizio permanente effettivo del ruolo normale del Corpo della guardia di finanza, in possesso dei requisiti previsti al comma 2, possono presentare, entro trenta giorni dall'entrata in vigore del presente decreto, domanda irrevocabile di transito nel ruolo aeronavale del medesimo Corpo secondo le modalita' stabilite dal Comando Generale della Guardia di finanza.
+
+2.
+                    
+                        
+                            Fermo restando quanto previsto dall'articolo 61, comma 2, del decreto legislativo 19 marzo 2001, n. 69, gli ufficiali di cui al comma 1, alla data di scadenza per la presentazione della domanda di cui al comma 1 devono essere: 
+ 
+                        
+                        
+                            a)
+                            
+                                in possesso di almeno uno dei seguenti brevetti o specializzazioni: 
+ 1) specializzazione di comandante di stazione navale o di comandante di unita' navale; 
+ 2) brevetto di pilota militare o brevetto militare di pilota di elicottero; 
+ 3) specialista di elicottero o di aeroplano; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stati impiegati per almeno otto anni nell'arco della carriera o, in alternativa, per almeno un biennio negli ultimi quattro anni, in un incarico nel comparto aeronavale del Corpo della guardia di finanza.
 
 ## Art. 2.
 

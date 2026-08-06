@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2023-12-01;228
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1557,6 +1557,41 @@ In favore del personale di cui al comma 4, in possesso dell'abilitazione di Istr
 
 La disponibilita' all'impiego operativo professionalizzato, necessario ad assicurare la gestione e l'operativita' del settore di appartenenza, e' considerata equivalente all'effettivo svolgimento delle funzioni specialistiche. Qualora non sia raggiunta l'attivita' minima di volo di cui ai commi 4, 5, 6, 8 e 9 per motivi non imputabili al dipendente, le indennita' ivi previste sono attribuite previa dichiarazione del dirigente responsabile della sede di servizio, sentito il responsabile del reparto volo.
 
+11.
+                    
+                        
+                            L'indennita' di cui ai commi 8 e 9 non sono attribuite laddove, per frazioni di mese pari o superiori a quindici giorni (o equivalente numero di turni), ricorrano le seguenti fattispecie: 
+ 
+                        
+                        
+                            a)
+                            
+                                fruizione di congedi straordinari e aspettative ai sensi della normativa vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assenza dal servizio per infermita' e inidoneita' all'esercizio delle funzioni specialistiche, salvo quanto previsto dall'articolo 6, comma 1 del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sospensione del brevetto e/o dei titoli abilitativi all'esercizio dell'attivita' specialistica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fruizione di permessi e distacchi sindacali. 
+ Le disposizioni di cui al presente comma non si applicano: 
+ a) in caso di assenze per congedo ordinario e per riposo compensativo; 
+ b) nei casi di attivita' di volo per soccorso pubblico aereo in almeno uno dei giorni di effettiva presenza.
+
 I successivi accordi integrativi nazionali per il personale non direttivo e non dirigente del Corpo Nazionale dei Vigili del Fuoco, nei limiti delle risorse di cui all'articolo 5 certificate dai competenti organi di controllo, possono definire, in funzione del grado di responsabilita' e dell'esperienza professionale maturata, l'attribuzione di incentivi al predetto personale anche tenendo conto dell'attivita' specialistica, con particolare riferimento alle funzioni di gestione operativa e tecnica del settore di appartenenza, ai collaudi, all'attivita' istruzionale, compresi i casi in cui il capo equipaggio possieda qualifica inferiore al copilota e quest'ultimo non sia in possesso di analoga abilitazione aeronautica.
 
 Le indennita' di cui ai commi 4 e 5 del presente articolo, sostituiscono, a decorrere dal 1° gennaio 2023, tutte le specifiche indennita' di cui all'articolo 2, comma 3.
@@ -2891,6 +2926,41 @@ In favore del personale di cui ai commi 3 e 4 che abbia assicurato la presenza i
 
 La disponibilita' all'impiego operativo professionalizzato, necessario ad assicurare la gestione e l'operativita' del settore di appartenenza, e' considerata equivalente all'effettivo svolgimento delle funzioni specialistiche. Qualora non sia raggiunta l'attivita' minima di navigazione o di immersione di cui ai commi 3, 4 e 6 per motivi non imputabili al dipendente, le indennita' ivi previste sono attribuite previa dichiarazione del dirigente responsabile della sede di servizio, sentiti i rispettivi responsabili.
 
+8.
+                    
+                        
+                            Le indennita' di cui al comma 6 non sono attribuite laddove, per frazioni di mese pari o superiori a quindici di giorni (o equivalente numero di turni), ricorrano le seguenti fattispecie: 
+ 
+                        
+                        
+                            a)
+                            
+                                fruizione di congedi straordinari e aspettative ai sensi della normativa vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assenza dal servizio per infermita' e inidoneita' all'esercizio delle funzioni specialistiche, salvo quanto previsto dall'articolo 6, comma 1, del presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sospensione del brevetto e/o dei titoli abilitativi all'esercizio dell'attivita' specialistica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                fruizione di permessi e distacchi sindacali. 
+ Le disposizioni di cui al presente comma non si applicano: 
+ a) in caso di assenze per congedo ordinario o di riposo compensativo; 
+ b) nei casi di attivita' di navigazione o di immersione per soccorso pubblico in almeno uno dei giorni di effettiva presenza.
+
 I successivi accordi integrativi nazionali per il personale non direttivo e non dirigente del Corpo Nazionale dei Vigili del Fuoco, nei limiti delle risorse di cui all'articolo 5 certificate dai competenti organi di controllo, possono definire in funzione del grado di responsabilita' e dell'esperienza professionale maturata, l'attribuzione di incentivi al predetto personale anche tenendo conto dell'attivita' specialistica, con particolare riferimento alle funzioni di gestione operativa e tecnica del settore di appartenenza, ai collaudi, all'attivita' istruzionale, al servizio antincendi lagunare, compresa la valorizzazione della funzione di comandante dell'unita' navale, di direttore di macchina e di direttore di immersione.
 
 Le indennita' di cui ai commi 3 e 4 del presente articolo, sostituiscono, a decorrere dal 1° gennaio 2023, le specifiche indennita' di cui all'articolo 2, comma 3.
@@ -2920,6 +2990,24 @@ Nei casi di cui al comma 1, laddove l'indisponibilita' temporanea dal servizio d
 Al personale di cui all'articolo 2 del presente decreto che, a decorrere dall'entrata in vigore del decreto legislativo 6 ottobre 2018, n. 127 e fino al 31 dicembre 2022, si sia trovato nei casi di cui ai commi 1 e 3, per i quali siano attivabili i procedimenti di cui all'articolo 2 ovvero all'articolo 3 del decreto del Presidente della Repubblica 29 ottobre 2001, n. 461, compete a decorrere dal 1° gennaio 2019 il beneficio di cui al comma 7, ferma restando la successiva attribuzione del beneficio di cui al comma 3 ricorrendo gli altri requisiti ivi rispettivamente indicati e tenendo conto degli esiti dei citati procedimenti, a condizione che in base alla disciplina vigente nel suddetto periodo risulti aver seguitato a percepire l'indennita' specialistica di settore per aver comunque svolto compiti necessari ad assicurarne gestione e operativita' secondo le esigenze dell'Amministrazione.
 
 ## Art. 7. — Copertura finanziaria
+
+1.
+                    
+                        
+                            All'onere derivante dall'attuazione del presente decreto, pari a euro 28.485.891 per l'anno 2023, a euro 11.303.504 per l'anno 2024, a euro 11.333.719 per l'anno 2025, a euro 11.363.935 per l'anno 2026, a euro 11.394.151 per l'anno 2027, a euro 11.424.366 per l'anno 2028, a euro 11.454.582 per l'anno 2029, a euro 11.484.797 per l'anno 2030, a euro 11.515.013 per l'anno 2031, a euro 11.545.229 a decorrere dall'anno 2032, si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto a euro 28.455.675 per l'anno 2023 ed euro 11.243.072 a decorrere dall'anno 2024 a valere sulle risorse del Fondo di amministrazione di cui all'articolo 6, del decreto del Presidente della Repubblica 29 novembre 2007; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto a euro 30.216 per l'anno 2023, a euro 60.432 per l'anno 2024, a euro 90.647 per l'anno 2025, a euro 120.863 per l'anno 2026, a euro 151.079 per l'anno 2027, a euro 181.294 per l'anno 2028, a euro 211.510 per l'anno 2029, a euro 241.725 per l'anno 2030, a euro 271.941 per l'anno 2031, a euro 302.157 a decorrere dall'anno 2032, mediante corrispondente riduzione delle risorse del Fondo di amministrazione di cui all'articolo 6, del decreto del Presidente della Repubblica 29 novembre 2007.
 
 Il Ministero dell'Economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

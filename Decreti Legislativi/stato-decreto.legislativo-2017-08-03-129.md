@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,8 +37,342 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'eco
 ## Art. 1. — Modifiche alla parte I del decreto legislativo 
  24 febbraio 1998, n. 58
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera d-bis), sono inserite le seguenti: 
+ «d-ter) "UE": l'Unione europea; 
+ d-quater) "impresa di investimento": l'impresa la cui occupazione o attivita' abituale consiste nel prestare uno o piu' servizi di investimento a terzi e/o nell'effettuare una o piu' attivita' di investimento a titolo professionale; 
+ d-quinquies) "banca": la banca come definita dall'articolo 1, comma 1, lettera b), del Testo unico bancario; 
+ d-sexies) "banca dell'Unione europea" o "banca UE": la banca avente sede legale e amministrazione centrale in un medesimo Stato dell'Unione europea diverso dall'Italia;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, le lettere da e) a g) sono sostituite dalle seguenti: 
+ «e) "societa' di intermediazione mobiliare" (Sim): l'impresa di investimento avente forma di persona giuridica con sede legale e direzione generale in Italia, diversa dalle banche e dagli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, autorizzata a svolgere servizi o attivita' di investimento; 
+ f) "impresa di investimento dell'Unione europea" o "impresa di investimento UE": l'impresa di investimento, diversa dalla banca, autorizzata a svolgere servizi o attivita' di investimento, avente sede legale e direzione generale in un medesimo Stato dell'Unione europea, diverso dall'Italia; 
+ g) "impresa di paesi terzi": l'impresa che non ha la propria sede legale o direzione generale nell'Unione europea, la cui attivita' e' corrispondente a quella di un'impresa di investimento UE o di una banca UE che presta servizi o attivita' di investimento;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, la lettera h) e' abrogata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, lettera m-undecies), prima delle parole: "investitori professionali" sono inserite le seguenti: «clienti professionali o»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 1, la lettera m-duodecies), e' sostituita dalla seguente: 
+ «m-duodecies) "clienti al dettaglio o investitori al dettaglio": i clienti o gli investitori che non sono clienti professionali o investitori professionali;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 1, la lettera r) e' sostituita dalla seguente: 
+ «r) "soggetti abilitati": le Sim, le imprese di investimento UE con succursale in Italia, le imprese di paesi terzi autorizzate in Italia, le Sgr, le societa' di gestione UE con succursale in Italia, le Sicav, le Sicaf, i GEFIA UE con succursale in Italia, i GEFIA non UE autorizzati in Italia, i GEFIA non UE autorizzati in uno Stato dell'UE diverso dall'Italia con succursale in Italia, nonche' gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, le banche italiane e le banche UE con succursale in Italia autorizzate all'esercizio dei servizi o delle attivita' di investimento;»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 1, lettera s), le parole: «della tabella allegata» sono sostituite dalle seguenti: «dell'Allegato I» e le parole: «Stato comunitario» sono sostituite dalle seguenti: «Stato dell'UE»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 1, dopo la lettera w-bis.6) e' inserita la seguente: 
+ «w-bis.7) "gestore del mercato": il soggetto che gestisce e/o amministra l'attivita' di un mercato regolamentato e puo' coincidere con il mercato regolamentato stesso;»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 1, la lettera w-ter) e' sostituita dalla seguente: 
+ «w-ter) "mercato regolamentato": sistema multilaterale amministrato e/o gestito da un gestore del mercato, che consente o facilita l'incontro, al suo interno e in base alle sue regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti relativi a strumenti finanziari ammessi alla negoziazione conformemente alle sue regole e/o ai suoi sistemi, e che e' autorizzato e funziona regolarmente e conformemente alla parte III;»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                al comma 1, lettera w-sexies), numero 3), le parole: «Stati comunitari» sono sostituite dalle seguenti: «Stati dell'Unione europea»; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                al comma 1, lettera w-septies), la definizione: «"depositari centrali di titoli"» e' sostituita dalla seguente: «"depositari centrali di titoli o depositari centrali"»; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                il comma 1-bis e' sostituito dal seguente: 
+ «1-bis. Per "valori mobiliari" si intendono categorie di valori che possono essere negoziati nel mercato dei capitali, quali ad esempio: 
+ a) azioni di societa' e altri titoli equivalenti ad azioni di societa', di partnership o di altri soggetti e ricevute di deposito azionario; 
+ b) obbligazioni e altri titoli di debito, comprese le ricevute di deposito relative a tali titoli; 
+ c) qualsiasi altro valore mobiliare che permetta di acquisire o di vendere i valori mobiliari indicati alle lettere a) e b) o che comporti un regolamento a pronti determinato con riferimento a valori mobiliari, valute, tassi di interesse o rendimenti, merci o altri indici o misure.»; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                dopo il comma 1-ter e' inserito il seguente: 
+ «1-quater. Per "ricevute di deposito" si intendono titoli negoziabili sul mercato dei capitali, rappresentanti la proprieta' dei titoli di un emittente non domiciliato, ammissibili alla negoziazione in un mercato regolamentato e negoziati indipendentemente dai titoli dell'emittente non domiciliato.»; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                i commi 2 e 2-bis sono sostituiti dai seguenti: 
+ «2. Per "strumento finanziario" si intende qualsiasi strumento riportato nella Sezione C dell'Allegato I. Gli strumenti di pagamento non sono strumenti finanziari. 
+ 2-bis. Il Ministro dell'economia e delle finanze, con il regolamento di cui all'articolo 18, comma 5, puo' individuare: 
+ a) gli altri contratti derivati di cui al punto 7, sezione C, dell'Allegato I aventi le caratteristiche di altri strumenti finanziari derivati; 
+ b) gli altri contratti derivati di cui al punto 10, sezione C, dell'Allegato I aventi le caratteristiche di altri strumenti finanziari derivati, negoziati in un mercato regolamentato, in un sistema multilaterale di negoziazione o in un sistema organizzato di negoziazione.»; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                dopo il comma 2-bis e' inserito il seguente: 
+ «2-ter. Nel presente decreto legislativo si intendono per: 
+ a) "strumenti derivati": gli strumenti finanziari citati nell'Allegato I, sezione C, punti da 4 a 10, nonche' gli strumenti finanziari previsti dal comma 1-bis, lettera c ); 
+ b) "derivati su merci": gli strumenti finanziari che fanno riferimento a merci o attivita' sottostanti di cui all'Allegato I, sezione C, punti 5), 6), 7) e 10), nonche' gli strumenti finanziari previsti dal comma 1-bis, lettera c), quando fanno riferimento a merci o attivita' sottostanti menzionati all'Allegato I, sezione C, punto 10); 
+ c) "contratti derivati su prodotti energetici C6": i contratti di opzione, i contratti finanziari a termine standardizzati (future), gli swap e tutti gli altri contratti derivati concernenti carbone o petrolio menzionati nella Sezione C, punto 6, dell'Allegato I che sono negoziati in un sistema organizzato di negoziazione e devono essere regolati con consegna fisica del sottostante.»; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                i commi 3 e 4 sono abrogati; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                al comma 5 sono apportate le seguenti modificazioni: 
+ 1) la lettera c) e' sostituita dalla seguente: 
+ «c) assunzione a fermo e/o collocamento sulla base di un impegno irrevocabile nei confronti dell'emittente;»; 
+ 2) alla lettera c-bis) le parole: «assunzione a fermo ne' assunzione di garanzia» sono sostituite dalle seguenti: «impegno irrevocabile»; 
+ 3) dopo la lettera g) e' aggiunta la seguente: 
+ «g-bis) gestione di sistemi organizzati di negoziazione.»; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                al comma 5-bis le parole: «e in relazione a ordini dei clienti, nonche' l'attivita' di market maker» sono soppresse; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                dopo il comma 5-bis e' inserito il seguente: 
+ «5-bis.1. Per "sistema multilaterale" si intende un sistema che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari.»; 
+
+                            
+                        
+                        
+                            v)
+                            
+                                i commi 5-ter e 5-quater sono sostituiti dai seguenti: 
+ «5-ter. Per "internalizzatore sistematico" si intende l'impresa di investimento che in modo organizzato, frequente, sistematico e sostanziale negozia per conto proprio eseguendo gli ordini dei clienti al di fuori di un mercato regolamentato, di un sistema multilaterale di negoziazione o di un sistema organizzato di negoziazione senza gestire un sistema multilaterale. Il modo frequente e sistematico si misura per numero di negoziazioni fuori listino (OTC) su strumenti finanziari effettuate per conto proprio eseguendo gli ordini dei clienti. Il modo sostanziale si misura per dimensioni delle negoziazioni OTC effettuate dal soggetto su uno specifico strumento finanziario in relazione al totale delle negoziazioni effettuate sullo strumento finanziario dal soggetto medesimo o all'interno dell'Unione europea. 
+ 5-quater. Per "market maker" si intende una persona che si propone, nelle sedi di negoziazione e/o al di fuori delle stesse, su base continuativa, come disposta a negoziare per conto proprio acquistando e vendendo strumenti finanziari in contropartita diretta ai prezzi dalla medesima definiti.»; 
+
+                            
+                        
+                        
+                            z)
+                            
+                                il comma 5-septies e' sostituito dal seguente: 
+ «5-septies. Per "consulenza in materia di investimenti" si intende la prestazione di raccomandazioni personalizzate a un cliente, dietro sua richiesta o per iniziativa del prestatore del servizio, riguardo a una o piu' operazioni relative a strumenti finanziari»; 
+
+                            
+                        
+                        
+                            aa)
+                            
+                                dopo il comma 5-septies sono inseriti i seguenti: 
+ «5-septies.1. Per "esecuzione di ordini per conto dei clienti" si intende la conclusione di accordi di acquisto o di vendita di uno o piu' strumenti finanziari per conto dei clienti, compresa la conclusione di accordi per la sottoscrizione o la compravendita di strumenti finanziari emessi da un'impresa di investimento o da una banca al momento della loro emissione. 
+ 5-septies.2. Per "agente collegato" si intende la persona fisica o giuridica che, sotto la piena e incondizionata responsabilita' di una sola impresa di investimento per conto della quale opera, promuove servizi di investimento e/o servizi accessori presso clienti o potenziali clienti, riceve e trasmette le istruzioni o gli ordini dei clienti riguardanti servizi di investimento o strumenti finanziari, colloca strumenti finanziari o presta consulenza ai clienti o potenziali clienti rispetto a detti strumenti o servizi finanziari. 
+ 5-septies.3. Per "consulente finanziario abilitato all'offerta fuori sede" si intende la persona fisica iscritta nell'apposita sezione dell'albo previsto dall'articolo 31, comma 4, del presente decreto che, in qualita' di agente collegato, esercita professionalmente l'offerta fuori sede come dipendente, agente o mandatario.»; 
+
+                            
+                        
+                        
+                            bb)
+                            
+                                il comma 5-octies e' sostituito dal seguente: 
+ «5-octies. Nel presente decreto legislativo si intendono per: 
+ a) "sistema multilaterale di negoziazione": un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, al suo interno e in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti conformemente alla parte II e alla parte III; 
+ b) "sistema organizzato di negoziazione": un sistema multilaterale diverso da un mercato regolamentato o da un sistema multilaterale di negoziazione che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissioni e strumenti derivati, in modo da dare luogo a contratti conformemente alla parte II e alla parte III; 
+ c) "sede di negoziazione": un mercato regolamentato, un sistema multilaterale di negoziazione o un sistema organizzato di negoziazione.»; 
+
+                            
+                        
+                        
+                            cc)
+                            
+                                dopo il comma 5-octies e' inserito il seguente: 
+ «5-octies.1. Per "ordine con limite di prezzo" si intende un ordine di acquisto o di vendita di uno strumento finanziario al prezzo limite fissato o a un prezzo piu' vantaggioso e per un quantitativo fissato.»; 
+
+                            
+                        
+                        
+                            dd)
+                            
+                                il comma 5-novies e' sostituito dal seguente: 
+ «5-novies. Per "portale per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali" si intende una piattaforma on line che abbia come finalita' esclusiva la facilitazione della raccolta di capitale di rischio da parte delle piccole e medie imprese, come definite dall'articolo 2, paragrafo 1, lettera (f), primo alinea, del regolamento (UE) 2017/1129, delle imprese sociali e degli organismi di investimento collettivo del risparmio o di altre societa' che investono prevalentemente in piccole e medie imprese.»; 
+
+                            
+                        
+                        
+                            ee)
+                            
+                                i commi 5-decies e 5-undecies sono abrogati; 
+
+                            
+                        
+                        
+                            ff)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ «6. Per "servizio accessorio" si intende qualsiasi servizio riportato nella sezione B dell'Allegato I.»; 
+
+                            
+                        
+                        
+                            gg)
+                            
+                                dopo il comma 6-bis sono inseriti i seguenti: 
+ «6-bis.1. Per "controllante" si intende un'impresa controllante ai sensi degli articoli 2, paragrafo 9, e 22 della direttiva 2013/34/UE. 
+ 6-bis.2. Per "controllata" si intende un'impresa controllata ai sensi degli articoli 2, paragrafo 10, e 22 della direttiva 2013/34/UE; l'impresa controllata di un'impresa controllata e' parimenti considerata impresa controllata dell'impresa controllante che e' a capo di tali imprese. 
+ 6-bis.3. Per "stretti legami" si intende la situazione nella quale due o piu' persone fisiche o giuridiche sono legate: 
+ a) da una «partecipazione», ossia dal fatto di detenere, direttamente o tramite un legame di controllo, il 20 per cento o piu' dei diritti di voto o del capitale di un'impresa; 
+ b) da un legame di «controllo», ossia dalla relazione esistente tra un'impresa controllante e un'impresa controllata, in tutti i casi di cui all'articolo 22, paragrafi 1 e 2, della direttiva 2013/34/UE, o relazione analoga esistente tra persone fisiche e giuridiche e un'impresa, nel qual caso ogni impresa controllata di un'impresa controllata e' considerata impresa controllata dell'impresa controllante che e' a capo di tali imprese; 
+ c) da un legame duraturo tra due o tutte le suddette persone e uno stesso soggetto che sia una relazione di controllo.»; 
+
+                            
+                        
+                        
+                            hh)
+                            
+                                dopo il comma 6-quater sono aggiunti i seguenti: 
+ «6-quinquies. Per "negoziazione algoritmica" si intende la negoziazione di strumenti finanziari in cui un algoritmo informatizzato determina automaticamente i parametri individuali degli ordini, come ad esempio l'avvio dell'ordine, la relativa tempistica, il prezzo, la quantita' o le modalita' di gestione dell'ordine dopo l'invio, con intervento umano minimo o assente, ad esclusione dei sistemi utilizzati unicamente per trasmettere ordini a una o piu' sedi di negoziazione, per trattare ordini che non comportano la determinazione di parametri di negoziazione, per confermare ordini o per eseguire il regolamento delle operazioni. 
+ 6-sexies. Per "accesso elettronico diretto" si intende un accordo in base al quale un membro o un partecipante o un cliente di una sede di negoziazione consente a un terzo l'utilizzo del proprio codice identificativo di negoziazione per la trasmissione in via elettronica direttamente alla sede di negoziazione di ordini relativi a uno strumento finanziario, sia nel caso in cui l'accordo comporti l'utilizzo da parte del terzo dell'infrastruttura del membro, del partecipante o del cliente, o di qualsiasi sistema di collegamento fornito dal membro, partecipante o cliente per trasmettere gli ordini (accesso diretto al mercato) sia nel caso in cui non vi sia tale utilizzo (accesso sponsorizzato). 
+ 6-septies. Per "tecnica di negoziazione algoritmica ad alta frequenza" si intende qualsiasi tecnica di negoziazione algoritmica caratterizzata da: 
+ a) infrastrutture volte a ridurre al minimo le latenze di rete e di altro genere, compresa almeno una delle strutture per l'inserimento algoritmico dell'ordine: co-ubicazione, hosting di prossimita' o accesso elettronico diretto a velocita' elevata; 
+ b) determinazione da parte del sistema dell'inizializzazione, generazione, trasmissione o esecuzione dell'ordine senza intervento umano per il singolo ordine o negoziazione, e 
+ c) elevato traffico infra-giornaliero di messaggi consistenti in ordini, quotazioni o cancellazioni. 
+ 6-octies. Per "negoziazione matched principal" si intende una negoziazione in cui il soggetto che si interpone tra l'acquirente e il venditore non e' mai esposto al rischio di mercato durante l'intera esecuzione dell'operazione, con l'acquisto e la vendita eseguiti simultaneamente ad un prezzo che non permette a tale soggetto di realizzare utili o perdite, fatta eccezione per le commissioni, gli onorari o le spese dell'operazione previamente comunicati. 
+ 6-novies. Per "pratica di vendita abbinata" si intende l'offerta di un servizio di investimento insieme a un altro servizio o prodotto come parte di un pacchetto o come condizione per l'ottenimento dello stesso accordo o pacchetto. 
+ 6-decies. Per "deposito strutturato" si intende un deposito quale definito all'articolo 69-bis, comma 1, lettera c), del T.U. bancario che e' pienamente rimborsabile alla scadenza in base a termini secondo i quali qualsiasi interesse o premio sara' rimborsato (o e' a rischio) secondo una formula comprendente fattori quali: 
+ a) un indice o una combinazione di indici, eccetto i depositi a tasso variabile il cui rendimento e' direttamente legato a un tasso di interesse quale l'Euribor o il Libor; 
+ b) uno strumento finanziario o una combinazione degli strumenti finanziari; 
+ c) una merce o combinazione di merci o di altri beni infungibili, materiali o immateriali; o 
+ d) un tasso di cambio o una combinazione di tassi di cambio. 
+ 6-undecies. Nel presente decreto legislativo si intendono per: 
+ a) "dispositivo di pubblicazione autorizzato" o "APA": un soggetto autorizzato ai sensi della direttiva 2014/65/UE a pubblicare i report delle operazioni concluse per conto di imprese di investimento ai sensi degli articoli 20 e 21 del regolamento (UE) n. 600/2014; 
+ b) "fornitore di un sistema consolidato di pubblicazione" o "CTP": un soggetto autorizzato ai sensi della direttiva 2014/65/UE a fornire il servizio di raccolta presso mercati regolamentati, sistemi multilaterali di negoziazione, sistemi organizzati di negoziazione e APA dei report delle operazioni concluse per gli strumenti finanziari di cui agli articoli 6, 7, 10, 12, 13, 20 e 21 del regolamento (UE) n 600/2014 e di consolidamento delle suddette informazioni in un flusso elettronico di dati attualizzati in continuo, in grado di fornire informazioni sui prezzi e sul volume per ciascuno strumento finanziario; 
+ c) "meccanismo di segnalazione autorizzato" o "ARM": un soggetto autorizzato ai sensi della direttiva 2014/65/UE a segnalare le informazioni di dettaglio sulle operazioni concluse alle autorita' competenti o all'AESFEM per conto delle imprese di investimento; 
+ d) "servizi di comunicazione dati": la gestione di un dispositivo di pubblicazione autorizzato (APA) o di un sistema consolidato di pubblicazione (CTP) o di un meccanismo di segnalazione autorizzato (ARM); 
+ e) "fornitore di servizi di comunicazione dati": un APA, un CTP o un ARM. 
+ 6-duodecies. Nel presente decreto legislativo si intendono per: 
+ a) "Stato membro d'origine dell'impresa di investimento": 
+ 1) se l'impresa di investimento e' una persona fisica, lo Stato membro in cui tale persona ha la propria sede principale; 
+ 2) se l'impresa di investimento e' una persona giuridica, lo Stato membro in cui si trova la sua sede legale; 
+ 3) se, in base al diritto nazionale cui e' soggetta, l'impresa di investimento non ha una sede legale, lo Stato membro in cui e' situata la sua direzione generale; 
+ b) "Stato membro d'origine del mercato regolamentato": lo Stato membro in cui e' registrato il mercato regolamentato o se, in base al diritto nazionale di tale Stato membro detto mercato non ha una sede legale, lo Stato membro in cui e' situata la propria direzione generale; 
+ c) "Stato membro d'origine di un APA, di un sistema consolidato di pubblicazione o di meccanismo di segnalazione autorizzato": 
+ 1) se il dispositivo di pubblicazione autorizzato, il meccanismo di segnalazione autorizzato o il sistema consolidato di pubblicazione e' una persona fisica, lo Stato membro in cui tale persona ha la propria direzione generale; 
+ 2) se il dispositivo di pubblicazione autorizzato, il meccanismo di segnalazione autorizzato o il sistema consolidato di pubblicazione e' una persona giuridica, lo Stato membro in cui si trova la sua sede legale; 
+ 3) se, in base al diritto nazionale cui e' soggetto, il dispositivo di pubblicazione autorizzato, il meccanismo di segnalazione autorizzato o il sistema consolidato di pubblicazione non ha una sede legale, lo Stato membro in cui e' situata la sua direzione generale. 
+ 6-terdecies. Nel presente decreto legislativo si intendono per: 
+ a) "Stato membro ospitante l'impresa di investimento": lo Stato membro, diverso dallo Stato membro d'origine, in cui un'impresa di investimento ha una succursale o presta servizi di investimento e/o esercita attivita' di investimento; 
+ b) "Stato membro ospitante il mercato regolamentato": lo Stato membro in cui un mercato regolamentato adotta opportune misure in modo da facilitare l'accesso alla negoziazione a distanza nel suo sistema da parte di membri o partecipanti stabiliti in tale Stato membro. 
+ 6-quaterdecies. Per "prodotto energetico all'ingrosso" si intende un prodotto energetico all'ingrosso quale definito all'articolo 2, punto 4, del regolamento (UE) n. 1227/2011. 
+ 6-quinquiesdecies. Per "derivati su merci agricole" si intendono i contratti derivati connessi a prodotti di cui all'articolo 1 e all'allegato I, parti da I a XXIV/1 del regolamento (UE) n. 1308/2013. 
+ 6-sexiesdecies. Per "emittente sovrano" si intende uno dei seguenti emittenti di titoli di debito: 
+ a) l'Unione europea; 
+ b) uno Stato membro, ivi inclusi un ministero, un'agenzia o una societa' veicolo di tale Stato membro; 
+ c) in caso di Stato membro federale, un membro della federazione; 
+ d) una societa' veicolo per conto di diversi Stati membri; 
+ e) un ente finanziario internazionale costituito da due o piu' Stati membri con l'obiettivo di mobilitare risorse e fornire assistenza finanziaria a beneficio dei suoi membri che stanno affrontando o sono minacciati da gravi crisi finanziarie; o 
+ f) la Banca europea per gli investimenti. 
+ 6-septiesdecies. Per "debito sovrano" si intende un titolo di debito emesso da un emittente sovrano. 
+ 6-octiesdecies. Per "supporto durevole" si intende qualsiasi strumento che: 
+ a) permetta al cliente di memorizzare informazioni a lui personalmente dirette, in modo che possano essere agevolmente recuperate per un periodo di tempo adeguato ai fini cui sono destinate le informazioni stesse; e 
+ b) che consenta la riproduzione inalterata delle informazioni memorizzate.».
+
 All'articolo 3, del decreto legislativo 24 febbraio 1998, n. 58, il comma 3 e' sostituito dal seguente: 
  «3. I regolamenti e i provvedimenti di carattere generale della Banca d'Italia e della Consob sono pubblicati nella Gazzetta Ufficiale. Gli altri provvedimenti rilevanti relativi ai soggetti sottoposti a vigilanza sono pubblicati nel sito internet della Banca d'Italia o della Consob. Si applicano, in quanto compatibili, le disposizioni dell'articolo 195-bis.».
+
+3.
+                    
+                        
+                            All'articolo 4 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, primo periodo, dopo la parola: «SEVIF» sono inserite le seguenti: «e con la Banca Centrale Europea (BCE)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-bis, primo periodo, le parole: «e con l'AESFEM» sono sostituite dalle seguenti: «, con l'AESFEM e la BCE»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2-ter, primo periodo, le parole: «e di mercati regolamentati» sono sostituite dalle seguenti: «, di sedi di negoziazione e di servizi di comunicazione dati»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, la lettera d) e' sostituita dalla seguente: 
+ «d) con i gestori delle sedi di negoziazione, al fine di garantire il regolare funzionamento delle sedi da essi gestite.».
 
 All'articolo 4-septies, comma 1, lettera a), del decreto legislativo 24 febbraio 1998, n. 58, le parole: «lavorativi consecutivi» sono soppresse.
 
@@ -92,6 +426,136 @@ La rubrica del titolo I, della parte II, del decreto legislativo 24 febbraio 199
 
 All'articolo 5, comma 5-ter, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «ed e' allegato al regolamento di cui all'articolo 6, comma 2-bis» sono soppresse.
 
+3.
+                    
+                        
+                            All'articolo 6 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Poteri regolamentari»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 01 le parole: «delle funzioni di vigilanza regolamentare» sono sostituite dalle seguenti: «dei poteri regolamentari»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 02 e' sostituito dal seguente: 
+ «02. La Banca d'Italia e la Consob possono mantenere o imporre nei regolamenti obblighi aggiuntivi rispetto a quelli previsti dall'articolo 16, paragrafi 8, 9 e 10, della direttiva 2014/65/UE e dai relativi atti delegati, nonche' dall'articolo 24 della direttiva medesima, solo nei casi eccezionali in cui tali obblighi sono obiettivamente giustificati e proporzionati, tenuto conto della necessita' di fare fronte a rischi specifici per la protezione degli investitori o l'integrita' del mercato che presentano particolare rilevanza nel contesto della struttura del mercato italiano.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, la lettera b) e' sostituita dalla seguente: 
+ «b) gli obblighi delle Sim, delle imprese di paesi terzi, delle Sgr, nonche' degli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario, delle banche italiane autorizzate all'esercizio dei servizi o delle attivita' di investimento, in materia di modalita' di deposito e di sub-deposito degli strumenti finanziari e del denaro di pertinenza della clientela;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 1, dopo la lettera c) e' inserita la seguente: 
+ «c-bis) gli obblighi dei soggetti abilitati relativi alla prestazione dei servizi e delle attivita' di investimento e alla gestione collettiva del risparmio, in materia di: 
+ 1) governo societario e requisiti generali di organizzazione, compresa l'attuazione dell'articolo 4-undecies; 
+ 2) sistemi di remunerazione e di incentivazione; 
+ 3) continuita' dell'attivita'; 
+ 4) organizzazione amministrativa e contabile, compresa l'istituzione della funzione di controllo della conformita' alle norme; 
+ 5) gestione del rischio dell'impresa; 
+ 6) audit interno; 
+ 7) responsabilita' dell'alta dirigenza; 
+ 8) esternalizzazione di funzioni operative essenziali o importanti o di servizi o di attivita'.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 2, lettera a), numero 1), le parole: «e alle strategie di esecuzione degli ordini» sono sostituite dalle seguenti: «, alle strategie di esecuzione degli ordini e alle pratiche di vendita abbinata»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 2, lettera b), numero 1), sono aggiunte, in fine le seguenti parole: «, ivi inclusi i casi di pratiche di vendita abbinata»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 2, dopo la lettera b) e' inserita la seguente: 
+ «b-bis) prestazione dei servizi e delle attivita' di investimento e di gestione collettiva del risparmio, relativi: 
+ 1) alle procedure, anche di controllo interno, per la corretta e trasparente prestazione dei servizi e delle attivita' di investimento, ivi incluse quelle per: 
+ a) il governo degli strumenti finanziari e dei depositi strutturati; 
+ b) la percezione o la corresponsione di incentivi; 
+ 2) alle procedure, anche di controllo interno, per la corretta e trasparente prestazione della gestione collettiva del risparmio, ivi incluse quelle per la percezione o la corresponsione di incentivi; 
+ 3) alle modalita' di esercizio della funzione di controllo della conformita' alle norme; 
+ 4) al trattamento dei reclami; 
+ 5) alle operazioni personali; 
+ 6) alla gestione dei conflitti di interesse potenzialmente pregiudizievoli per i clienti, ivi inclusi quelli derivanti dai sistemi di remunerazione e di incentivazione; 
+ 7) alla conservazione delle registrazioni; 
+ 8) alla conoscenza e competenza delle persone fisiche che forniscono consulenza alla clientela in materia di investimenti o informazioni su strumenti finanziari, servizi di investimento o accessori per conto dei soggetti abilitati.»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il comma 2-bis e' sostituito dal seguente: 
+ «2-bis. Con riferimento alle materie indicate al comma 1, lettera c-bis), numeri 1), 2), 3), 7) e 8), la Banca d'Italia acquisisce l'intesa della Consob sugli aspetti di disciplina rilevanti per le finalita' di cui all'articolo 5, comma 3. Con riferimento alle materie indicate al comma 2, lettera b-bis), numero 6), la Consob acquisisce l'intesa della Banca d'Italia sugli aspetti di disciplina rilevanti per le finalita' di cui all'articolo 5, comma 2. Gli aspetti di disciplina rilevanti per le finalita' di competenza della Banca d'Italia e della Consob sono specificati nel protocollo previsto all'articolo 5, comma 5-bis. Per l'esercizio della vigilanza ai sensi della presente parte, sono competenti la Banca d'Italia per il rispetto delle disposizioni adottate ai sensi del comma 1, lettera c-bis), numeri 1), 2), 3), 7) e 8), e la Consob per il rispetto delle disposizioni adottate ai sensi del comma 2, lettera b-bis), numero 6); inoltre, la Banca d'Italia e la Consob, in relazione agli aspetti sui quali hanno fornito l'intesa e per le finalita' di cui all'articolo 5, commi 2 e 3, possono: 
+ a) esercitare i poteri di vigilanza informativa e di indagine loro attribuiti dal presente capo, anche al fine di adottare i provvedimenti di intervento di propria competenza, secondo le modalita' previste nel protocollo; 
+ b) comunicare le irregolarita' riscontrate all'altra Autorita' ai fini dell'adozione dei provvedimenti di competenza.»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                il comma 2-ter e' abrogato; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                al comma 2-quater, la lettera a) e' abrogata e la lettera d) e' sostituita dalla seguente: 
+ «d) le norme di condotta che non si applicano ai rapporti fra soggetti abilitati che prestano i servizi di cui all'articolo 1, comma 5, lettere a), b) ed e), e controparti qualificate, intendendosi per tali: 
+ 1) le Sim, le imprese di investimento UE, le banche, le imprese di assicurazione, gli Oicr, i gestori, i fondi pensione, gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario, le societa' di cui all'articolo 18 del Testo Unico bancario, gli istituti di moneta elettronica, le fondazioni bancarie, i Governi nazionali e i loro corrispondenti uffici, compresi gli organismi pubblici incaricati di gestire il debito pubblico, le banche centrali e le organizzazioni sovranazionali a carattere pubblico; 
+ 2) le altre categorie di soggetti privati individuati con regolamento dalla Consob, sentita Banca d'Italia, nel rispetto dei criteri di cui alla direttiva 2014/65/UE e alle relative misure di esecuzione; 
+ 3) le categorie corrispondenti a quelle dei numeri 1) e 2) di soggetti di paesi non appartenenti all'Unione europea.»; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                i commi 2-quinquies e 2-sexies sono sostituiti dai seguenti: 
+ «2-quinquies. La Consob, sentita la Banca d'Italia, individua con regolamento: 
+ a) i clienti professionali privati; 
+ b) i criteri di identificazione dei soggetti privati che su richiesta possono essere trattati come clienti professionali e la relativa procedura di richiesta. 
+ 2-sexies. Il Ministro dell'economia e delle finanze, sentite la Banca d'Italia e la Consob, individua con regolamento: 
+ a) i clienti professionali pubblici; 
+ b) i criteri di identificazione dei soggetti pubblici che su richiesta possono essere trattati come clienti professionali e la relativa procedura di richiesta.»; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                ai commi 2-septies e 2-octies le parole: «comma 2-bis, lettera a)» sono sostituite dalle seguenti: «comma 1, lettera c-bis), numero 2)».
+
 Dopo l'articolo 6 del decreto legislativo 24 febbraio 1998, n. 58, sono inseriti i seguenti: 
  «Art. 6-bis (Poteri informativi e di indagine). - 1. La Banca d'Italia puo' chiedere, nell'ambito delle sue competenze, ai soggetti abilitati la comunicazione di dati e notizie e la trasmissione di atti e documenti con le modalita' e nei termini dalla stessa stabiliti. La Banca d'Italia, nell'ambito delle sue competenze, puo' chiedere informazioni al personale dei soggetti abilitati, anche per il tramite di questi ultimi. 
  2. Gli obblighi previsti dal comma 1 si applicano anche a coloro ai quali i soggetti abilitati abbiano esternalizzato funzioni aziendali essenziali o importanti e al loro personale. 
@@ -124,6 +588,49 @@ Quando sussistono particolari necessita' e non sia possibile provvedere con riso
  6. La Banca d'Italia e la Consob possono chiedere alle autorita' competenti di uno Stato UE di effettuare accertamenti presso succursali di Sim, di Sgr e di banche stabilite sul territorio di detto Stato ovvero concordare altre modalita' per le verifiche. 
  7. Le autorita' competenti di uno Stato UE, dopo aver informato la Banca d'Italia e la Consob, possono ispezionare, anche tramite loro incaricati, le succursali di imprese di investimento UE, di banche UE, di societa' di gestione UE e di GEFIA UE dalle stesse autorizzate, stabilite nel territorio della Repubblica. Se le autorita' di uno Stato dell'Unione europea lo richiedono, la Banca d'Italia e la Consob, nell'ambito delle rispettive competenze, procedono direttamente agli accertamenti ovvero concordano altre modalita' per le verifiche. 
  8. La Banca d'Italia e la Consob possono concordare, nell'ambito delle rispettive competenze, con le autorita' competenti degli Stati non UE modalita' per l'ispezione di succursali di Sim, banche italiane, e imprese di paesi terzi insediate nei rispettivi territori.».
+
+5.
+                    
+                        
+                            All'articolo 7 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Poteri di intervento sui soggetti abilitati»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1-bis sono inseriti i seguenti: 
+ «1-ter. La Banca d'Italia e la Consob, nell'ambito delle rispettive competenze, possono pubblicare avvertimenti al pubblico. 
+ 1-quater. La Consob intima ai soggetti abilitati di non avvalersi, nell'esercizio della propria attivita' e per un periodo non superiore a tre anni, dell'attivita' professionale di un soggetto ove possa essere di pregiudizio per la trasparenza e la correttezza dei comportamenti.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2-bis dopo le parole: «la Banca d'Italia» sono inserite le seguenti: «, nell'ambito delle sue competenze,» e dopo le parole: «puo' disporre» sono inserite le seguenti: «, sentita la Consob,»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2-bis e' inserito il seguente: 
+ «2-ter. La Consob, nell'ambito delle sue competenze, dispone, sentita la Banca d'Italia, la rimozione di uno o piu' esponenti aziendali di Sim, banche italiane, societa' di gestione del risparmio, Sicav e Sicaf, qualora la loro permanenza in carica sia di pregiudizio alla trasparenza e correttezza dei comportamenti dei soggetti abilitati; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 13, salvo che sussista urgenza di provvedere.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 3 e' aggiunto il seguente: 
+ «3-bis. La Consob ordina la sospensione per un periodo non superiore a 60 giorni per ciascuna volta della commercializzazione o della vendita di strumenti finanziari in caso di violazione delle disposizioni di attuazione dell'articolo 6, comma 2, lettera b-bis), numero 1), lettera a), e di esistenza di un pregiudizio per la tutela degli investitori.».
 
 L'articolo 7-bis del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «Art. 7-bis (Poteri di intervento di cui al Titolo VII, Capo I, del regolamento (UE) n. 600/2014). - 1. La Banca d'Italia e la Consob sono le autorita' nazionali competenti ai fini dell'applicazione delle disposizioni di cui al Titolo VII, Capo I, del regolamento (UE) n. 600/2014. Esse esercitano i poteri e adottano le misure di vigilanza previsti dall'articolo 39, paragrafo 3, dall'articolo 42 e dall'articolo 43, paragrafo 3, del regolamento (UE) n. 600/2014, in conformita' anche a quanto stabilito dagli atti delegati emanati ai sensi dell'articolo 42, paragrafo 7, del predetto regolamento. 
@@ -171,14 +678,155 @@ L'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari, in 
  Art. 7-novies (Riserve di capitale). - 1. La Banca d'Italia adotta le misure sulle riserve di capitale previste dal Capo IV del Titolo VII della direttiva 2013/36/UE, nonche' quelle di natura macroprudenziale previste dal regolamento (UE) n. 575/2013, quale autorita' designata ai sensi di tali normative europee nei confronti delle Sim e delle succursali di imprese di paesi terzi diverse dalle banche. 
  Art. 7-decies (Vigilanza sul rispetto di disposizioni dell'Unione europea direttamente applicabili). - 1. La Banca d'Italia e la Consob vigilano, ciascuna per quanto di competenza, ai sensi della presente parte, sul rispetto delle disposizioni dettate dal regolamento (UE) n. 600/2014, nonche' dagli atti delegati e dalle norme tecniche di regolamentazione e di attuazione del citato regolamento e della direttiva 2014/65/UE.».
 
+8.
+                    
+                        
+                            All'articolo 8 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Doveri informativi»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 1, 1-ter, 2 e 5-bis sono abrogati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6 le parole: «e 5-bis» sono soppresse.
+
 Gli articoli 8-bis, 8-ter e 10 del decreto legislativo 24 febbraio 1998, n. 58, sono abrogati.
 
 All'articolo 12 del decreto legislativo 24 febbraio 1998, n. 58, il comma 1 e' sostituito dal seguente: 
  «1. La Banca d'Italia impartisce alla societa' posta al vertice del gruppo individuato ai sensi dell'articolo 11, comma 1, lettera b), disposizioni riferite al complesso dei soggetti individuati ai sensi del medesimo articolo, aventi ad oggetto le materie dell'articolo 6, comma 1, lettera a), e lettera c-bis), numeri 1), 2), 3), 4) e 6), e comma 1-bis. Ove lo richiedano esigenze di stabilita', la Banca d'Italia puo' emanare nelle stesse materie disposizioni di carattere particolare.»;
 
+11.
+                    
+                        
+                            All'articolo 18 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. L'esercizio professionale nei confronti del pubblico dei servizi e delle attivita' di investimento e' riservato alle Sim, alle imprese di investimento UE, alle banche italiane, alle banche UE e alle imprese di paesi terzi.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 le parole: «nell'elenco previsto dall'articolo 107» sono sostituite dalle seguenti: «nell'albo previsto dall'articolo 106»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3-bis e' abrogato; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, lettera b), la parola: «comunitarie» e' sostituita dalla seguente: «europee».
+
 L'articolo 18-bis del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «Art. 18-bis (Consulenti finanziari autonomi). - 1. La riserva di attivita' di cui all'articolo 18 non pregiudica la possibilita' per le persone fisiche, in possesso dei requisiti di professionalita', onorabilita', indipendenza e patrimoniali stabiliti con regolamento adottato dal Ministro dell'economia e delle finanze, sentita la Consob, ed iscritte in una sezione apposita dell'albo di cui all'articolo 31, comma 4, di prestare la consulenza in materia di investimenti, relativamente a valori mobiliari e a quote di organismi di investimento collettivo, senza detenere fondi o titoli appartenenti ai clienti. I requisiti di professionalita' per l'iscrizione nell'albo sono accertati sulla base di rigorosi criteri valutativi che tengono conto della pregressa esperienza professionale, validamente documentata, ovvero sulla base di prove valutative. 
  2. Ai consulenti finanziari autonomi si applicano le disposizioni stabilite dalla Consob con il regolamento di cui all'articolo 31, comma 6.».
+
+13.
+                    
+                        
+                            All'articolo 18-ter del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 1 e 2 sono sostituiti dai seguenti: 
+ «1. La riserva di attivita' di cui all'articolo 18 non pregiudica la possibilita' per le societa' costituite in forma di societa' per azioni o societa' a responsabilita' limitata, in possesso dei requisiti patrimoniali e di indipendenza stabiliti con regolamento adottato dal Ministro dell'economia e delle finanze, sentita la Consob, ed iscritte in una sezione apposita dell'albo di cui all'articolo 31, comma 4, di prestare la consulenza in materia di investimenti relativamente a valori mobiliari e a quote di organismi d'investimento collettivo, senza detenere fondi o titoli appartenenti ai clienti. 
+ 2. Il Ministro dell'economia e delle finanze, sentita la Consob, stabilisce con regolamento i requisiti di professionalita', onorabilita' e indipendenza che gli esponenti aziendali devono possedere.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3 sono aggiunti i seguenti: 
+ «3-bis. Alle societa' di consulenza finanziaria si applicano le disposizioni stabilite dalla Consob con il regolamento di cui all'articolo 31, comma 6. 
+ 3-ter. Le societa' di consulenza finanziaria rispondono in solido dei danni arrecati a terzi dai consulenti finanziari autonomi di cui esse si avvalgono nell'esercizio dell'attivita', anche se tali danni siano conseguenti a responsabilita' accertata in sede penale.».
+
+14.
+                    
+                        
+                            All'articolo 19 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. La Consob, sentita la Banca d'Italia, autorizza, entro sei mesi dalla presentazione della domanda completa, l'esercizio dei servizi e delle attivita' di investimento da parte delle Sim, quando, in conformita' a quanto specificato dalle pertinenti norme tecniche di regolamentazione e di attuazione emanate dalla Commissione europea ai sensi della direttiva 2014/65/UE, ricorrono le seguenti condizioni: 
+ a) sia adottata la forma di societa' per azioni; 
+ b) la denominazione sociale comprenda le parole "societa' di intermediazione mobiliare"; 
+ c) la sede legale e la direzione generale della societa' siano situate nel territorio della Repubblica; 
+ d) il capitale versato sia di ammontare non inferiore a quello determinato in via generale dalla Banca d'Italia; 
+ e) vengano fornite tutte le informazioni, compreso un programma di attivita', che indichi in particolare i tipi di operazioni previste e la struttura organizzativa; 
+ f) i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei ai sensi dell'articolo 13; 
+ g) i titolari delle partecipazioni indicate nell'articolo 15, comma 1, abbiano i requisiti e soddisfino i criteri stabiliti ai sensi dell'articolo 14 e non ricorrano le condizioni per il divieto previsto dall'articolo 15, comma 2; 
+ h) la struttura del gruppo di cui e' parte la societa' non sia tale da pregiudicare l'effettivo esercizio della vigilanza sulla societa' stessa e siano fornite almeno le informazioni richieste ai sensi dell'articolo 15, comma 5; 
+ i) siano rispettati, per la gestione di sistemi multilaterali di negoziazione o di sistemi organizzati di negoziazione, gli ulteriori requisiti dettati nella parte III.»: 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. La Consob disciplina la procedura di autorizzazione delle Sim.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3-bis e' inserito il seguente: 
+ «3-ter. La Consob, sentita la Banca d'Italia, disciplina le ipotesi di decadenza dall'autorizzazione di una Sim. La Consob, sentita la Banca d'Italia, pronuncia la decadenza dall'autorizzazione qualora la Sim non abbia iniziato lo svolgimento dei servizi e delle attivita' entro il termine di un anno dal rilascio dall'autorizzazione oppure vi rinunci espressamente.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. La Banca d'Italia, sentita la Consob, autorizza l'esercizio dei servizi e delle attivita' d'investimento da parte delle banche italiane e delle succursali italiane di banche di paesi terzi, nonche' l'esercizio dei servizi e delle attivita' indicati nell'articolo 18, comma 3, da parte di intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo unico bancario.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 4 sono aggiunti i seguenti: 
+ «4-bis. La Banca d'Italia, sentita la Consob, pronuncia la decadenza dall'autorizzazione qualora la banca non abbia iniziato lo svolgimento dei servizi e delle attivita' entro il termine di un anno dal rilascio dall'autorizzazione oppure vi rinunci espressamente. 
+ 4-ter. I commi 3-ter e 4-bis si applicano anche alle imprese di paesi terzi autorizzate ai sensi degli articoli 28 e 29-ter.».
 
 All'articolo 20 del decreto legislativo 24 febbraio 1998, n. 58, il comma 1 e' sostituito dal seguente: 
  «1. Ferme restando le disposizioni del Titolo VIII del regolamento (UE) n. 600/2014, la Consob iscrive in un apposito albo le Sim e le imprese di paesi terzi diverse dalle banche. Le imprese di investimento UE sono iscritte in un apposito elenco allegato all'albo.».
@@ -193,6 +841,124 @@ Dopo l'articolo 20 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito 
 Entro sessanta giorni dalla comunicazione del provvedimento di revoca, la Sim comunica alla Banca d'Italia e alla Consob il programma di liquidazione della societa'. La Consob, sentita la Banca d'Italia, puo' autorizzare, anche contestualmente alla revoca, l'esercizio provvisorio di attivita' ai sensi dell'articolo 2487 del codice civile. L'organo liquidatore trasmette riferimenti periodici sullo stato di avanzamento della liquidazione alla Banca d'Italia e, per il periodo di eventuale esercizio provvisorio di attivita', alla Consob. La Banca d'Italia vigila sul regolare svolgimento della procedura di liquidazione. Nei confronti delle societa' in liquidazione restano fermi i poteri del Ministero dell'economia e delle finanze, della Banca d'Italia e della Consob previsti nel presente decreto. 
  4. La revoca dell'autorizzazione all'esercizio dei servizi e delle attivita' d'investimento delle banche, nei casi previsti dal comma 2, e' disposta dalla Banca d'Italia, sentita la Consob. 
  5. Il presente articolo si applica anche alle imprese di paesi terzi autorizzate ai sensi degli articoli 28 e 29-ter.».
+
+17.
+                    
+                        
+                            All'articolo 21 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1-bis e' sostituito dal seguente: 
+ «1-bis. Nella prestazione dei servizi e delle attivita' di investimento e dei servizi accessori, le Sim, le imprese di paesi terzi autorizzate in Italia, le Sgr, i GEFIA non UE autorizzati in Italia, gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario e le banche italiane: 
+ a) adottano ogni misura idonea ad identificare e prevenire o gestire i conflitti di interesse che potrebbero insorgere tra tali soggetti, inclusi i dirigenti, i dipendenti e gli agenti collegati o le persone direttamente o indirettamente connesse e i loro clienti o tra due clienti al momento della prestazione di qualunque servizio di investimento o servizio accessorio o di una combinazione di tali servizi; 
+ b) mantengono e applicano disposizioni organizzative e amministrative efficaci al fine di adottare tutte le misure ragionevoli volte ad evitare che i conflitti di interesse incidano negativamente sugli interessi dei loro clienti; 
+ c) quando le disposizioni organizzative e amministrative adottate a norma della lettera b) non sono sufficienti ad assicurare, con ragionevole certezza, che il rischio di nuocere agli interessi dei clienti sia evitato, informano chiaramente i clienti, prima di agire per loro conto, della natura generale e/o delle fonti dei conflitti di interesse nonche' delle misure adottate per mitigare i rischi connessi; 
+ d) svolgono una gestione indipendente, sana e prudente e adottano misure idonee a salvaguardare i diritti dei clienti sui beni affidati.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1-bis e' inserito il seguente: 
+ «1-ter. Le disposizioni di cui alle lettere a), b) e c) del comma 1-bis si applicano anche ai conflitti di interesse determinati dalla percezione da parte di Sim, imprese di paesi terzi autorizzate in Italia, Sgr, GEFIA non UE autorizzati in Italia, intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario e banche italiane di incentivi corrisposti da soggetti terzi o determinati dalle politiche di remunerazione e dalle strutture di incentivazione da loro adottate.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Nello svolgimento dei servizi e delle attivita' di investimento e' possibile agire in nome proprio e per conto del cliente previo consenso scritto di quest'ultimo.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2 sono aggiunti i seguenti: 
+ «2-bis. Quando realizzano strumenti finanziari per la vendita alla clientela, i soggetti abilitati alla prestazione dei servizi e delle attivita' di investimento fanno si' che tali prodotti siano concepiti per soddisfare le esigenze di un determinato mercato di riferimento di clienti finali individuato all'interno della pertinente categoria di clienti e che la strategia di distribuzione degli strumenti finanziari sia compatibile con i clienti target. I soggetti di cui al presente comma adottano inoltre misure ragionevoli per assicurare che lo strumento finanziario sia distribuito ai clienti all'interno del mercato target. 
+ 2-ter. Il soggetto abilitato deve conoscere gli strumenti finanziari offerti o raccomandati, valutarne la compatibilita' con le esigenze della clientela cui fornisce servizi di investimento tenendo conto del mercato di riferimento di clienti finali di cui al comma 2-bis, e fare in modo che gli strumenti finanziari siano offerti o raccomandati solo quando cio' sia nell'interesse del cliente.».
+
+18.
+                    
+                        
+                            All'articolo 22 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, il primo periodo e' sostituito dal seguente: «Nella prestazione dei servizi di investimento e accessori, gli strumenti finanziari e le somme di denaro dei singoli clienti, a qualunque titolo detenuti dalla Sim, dall'impresa di investimento UE, dall'impresa di paesi terzi diversa dalla banca, dalla Sgr, dalla societa' di gestione UE, dai GEFIA UE o dagli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del T.U. bancario, nonche' gli strumenti finanziari dei singoli clienti a qualsiasi titolo detenuti dalla banca, costituiscono patrimonio distinto a tutti gli effetti da quello dell'intermediario e da quello degli altri clienti.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Salvo consenso scritto dei clienti, la Sim, l'impresa di investimento UE, l'impresa di paesi terzi diversa dalla banca, la Sgr, la societa' di gestione UE, il GEFIA UE, l'intermediario finanziario iscritto nell'albo previsto dall'articolo 106 del T.U. bancario e la banca non possono utilizzare, nell'interesse proprio o di terzi, gli strumenti finanziari di pertinenza dei clienti, da essi detenuti a qualsiasi titolo. La Sim, l'impresa di investimento UE, l'impresa di paesi terzi diversa dalla banca, l'intermediario finanziario iscritto nell'albo previsto dall'articolo 106 del T.U. bancario, la Sgr, la societa' di gestione UE e il GEFIA UE non possono utilizzare, nell'interesse proprio o di terzi, le disponibilita' liquide degli investitori, da esse detenute a qualsiasi titolo.».
+
+19.
+                    
+                        
+                            All'articolo 23 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. I contratti relativi alla prestazione dei servizi di investimento, e, se previsto, i contratti relativi alla prestazione dei servizi accessori, sono redatti per iscritto, in conformita' a quanto previsto dagli atti delegati della direttiva 2014/65/UE, e un esemplare e' consegnato ai clienti. La Consob, sentita la Banca d'Italia, puo' prevedere con regolamento che, per motivate ragioni o in relazione alla natura professionale dei contraenti, particolari tipi di contratto possano o debbano essere stipulati in altra forma, assicurando nei confronti dei clienti al dettaglio appropriato livello di garanzia. Nei casi di inosservanza della forma prescritta, il contratto e' nullo.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. Le disposizioni del titolo VI, del T.U. bancario non si applicano: 
+ a) ai servizi e attivita' di investimento; 
+ b) al collocamento di prodotti finanziari; 
+ c) alle operazioni e ai servizi che siano componenti di prodotti finanziari assoggettati alla disciplina degli articoli 25-bis e 25-ter ovvero della parte IV, titolo II, capo I. In ogni caso, alle operazioni di credito nonche' ai servizi e conti di pagamento disciplinati dai capi I-bis, II, II-bis e II-ter del T.U. bancario si applicano le pertinenti disposizioni del titolo VI del T.U. bancario.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 4 e' inserito il seguente: 
+ «4-bis. Nella prestazione dei servizi e delle attivita' di investimento e dei servizi accessori non vengono conclusi contratti di garanzia finanziaria con trasferimento del titolo di proprieta' con clienti al dettaglio al fine di assicurare o coprire obbligazioni presenti o future, effettive o condizionate o potenziali dei clienti.
+Sono nulli i contratti conclusi in violazione della presente disposizione. La Consob disciplina le modalita' di svolgimento dell'attivita' di cui al presente comma in caso di clienti professionali e di controparti qualificate.».
+
+20.
+                    
+                        
+                            All'articolo 24 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera b), le parole: «dell'impresa di investimento, della societa' di gestione del risparmio o della banca» sono sostituite dalle seguenti: «del prestatore del servizio»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera c), le parole: «all'impresa di investimento, alla banca o alla societa' di gestione del risparmio» sono sostituite dalle seguenti: «al prestatore del servizio»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. Nella prestazione del servizio di gestione di portafogli non devono essere accettati e trattenuti onorari, commissioni o altri benefici monetari o non monetari pagati o forniti da terzi o da una persona che agisce per conto di terzi, ad eccezione dei benefici non monetari di entita' minima che possono migliorare la qualita' del servizio offerto ai clienti e che, per la loro portata e natura, non possono essere considerati tali da pregiudicare il rispetto del dovere di agire nel migliore interesse dei clienti. Tali benefici non monetari di entita' minima devono essere chiaramente comunicati ai clienti.».
 
 Dopo l'articolo 24 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 24-bis (Consulenza in materia di investimenti). - 1. In caso di esercizio della consulenza in materia di investimenti, il cliente e' informato, in tempo utile prima della prestazione del servizio, anche di quanto segue: 
@@ -267,10 +1033,123 @@ Dopo l'articolo 29 del decreto legislativo 24 febbraio 1998, n. 58, sono inserit
 
 La rubrica del capo IV del titolo II del decreto legislativo 24 febbraio 1998, n. 58, e' sostituita dalla seguente: «Disciplina dell'offerta fuori sede e della vigilanza sui consulenti finanziari».
 
+28.
+                    
+                        
+                            All'articolo 30 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. Le Sim, le imprese di investimento UE, le imprese di paesi terzi, le banche, gli intermediari finanziari iscritti nell'albo previsto dall'articolo 106 del Testo Unico bancario, le Sgr, le societa' di gestione UE, i GEFIA UE e non UE possono effettuare l'offerta fuori sede dei propri servizi e attivita' di investimento.
+Ove l'offerta abbia per oggetto servizi e attivita' prestati da altri intermediari, le Sim, le imprese di investimento UE, le imprese di paesi terzi e le banche devono essere autorizzate allo svolgimento dei servizi previsti dall'articolo 1, comma 5, lettere c) o c-bis).»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5 le parole: «Le imprese di investimento» sono sostituite dalle seguenti: «Le Sim, le imprese di investimento UE, le imprese di paesi terzi diverse dalle banche»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 9, dopo le parole: «si applica anche» sono inserite le seguenti: «ai depositi strutturati e» e dopo le parole: «strumenti finanziari» sono inserite le seguenti: «emessi da banche».
+
 Dopo l'articolo 30 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 30-bis (Modalita' di prestazione del servizio di consulenza in materia di investimenti da parte dei consulenti finanziari autonomi e delle societa' di consulenza finanziaria). - 1. I consulenti finanziari autonomi, iscritti nell'albo di cui all'articolo 31, comma 4, possono promuovere e prestare il servizio di consulenza in materia di investimenti anche in luogo diverso dal domicilio eletto. Le societa' di consulenza finanziaria, iscritte nell'albo di cui all'articolo 31, comma 4, possono promuovere e prestare il servizio di consulenza in materia di investimenti anche in luogo diverso dalla sede legale mediante consulenti finanziari autonomi. 
  2. L'efficacia del contratto di consulenza concluso in luogo diverso dal domicilio eletto o dalla sede legale e' sospesa per la durata di sette giorni decorrenti dalla data di sottoscrizione da parte del cliente al dettaglio. Entro detto termine il cliente puo' comunicare il proprio recesso senza spese, ne' corrispettivo al consulente finanziario autonomo o alla societa' di consulenza finanziaria; tale facolta' e' indicata nei moduli o formulari consegnati al cliente al dettaglio. 
  3. L'omessa indicazione della facolta' di recesso nei moduli o formulari comporta la nullita' dei relativi contratti, che puo' essere fatta valere solo dal cliente dal dettaglio.».
+
+30.
+                    
+                        
+                            All'articolo 31 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «Consulenti finanziari abilitati all'offerta fuori sede e Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 1 e 2 sono sostituiti dai seguenti: 
+ «1. Per l'offerta fuori sede i soggetti abilitati si avvalgono di consulenti finanziari abilitati all'offerta fuori sede. I consulenti finanziari abilitati all'offerta fuori sede stabiliti sul territorio della Repubblica di cui si avvalgono le imprese di investimento UE e le banche UE sono equiparati, ai fini dell'applicazione delle regole di condotta, a una succursale costituita nel territorio della Repubblica. 
+ 2. L'attivita' di consulente finanziario abilitato all'offerta fuori sede e' svolta esclusivamente nell'interesse di un solo soggetto abilitato. Il consulente finanziario abilitato all'offerta fuori sede promuove e colloca i servizi d'investimento e/o i servizi accessori presso clienti o potenziali clienti, riceve e trasmette le istruzioni o gli ordini dei clienti riguardanti servizi d'investimento o prodotti finanziari, promuove e colloca prodotti finanziari, presta consulenza in materia di investimenti ai clienti o potenziali clienti rispetto a detti prodotti o servizi finanziari. Il consulente finanziario abilitato all'offerta fuori sede puo' promuovere e collocare contratti relativi alla concessione di finanziamenti o alla prestazione di servizi di pagamento per conto del soggetto abilitato nell'interesse del quale esercita l'attivita' di offerta fuori sede.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ «2-bis. I consulenti finanziari abilitati all'offerta fuori sede non possono detenere denaro e/o strumenti finanziari dei clienti o potenziali clienti del soggetto per cui operano.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3 e' inserito il seguente: 
+ «3-bis. I soggetti abilitati garantiscono che i consulenti finanziari abilitati all'offerta fuori sede comunichino immediatamente a qualsiasi cliente o potenziale cliente in che veste operano e quale soggetto abilitato rappresentano. I soggetti abilitati adottano tutti i necessari controlli sulle attivita' esercitate dai consulenti finanziari abilitati all'offerta fuori sede in modo che i soggetti abilitati stessi continuino a rispettare le disposizioni del presente decreto e delle relative norme di attuazione. I soggetti abilitati che si avvalgono di consulenti finanziari abilitati all'offerta fuori sede verificano che i medesimi possiedano le conoscenze e la competenza adeguate per essere in grado di prestare i servizi d'investimento o i servizi accessori e di comunicare accuratamente tutte le informazioni riguardanti i servizi proposti al cliente o potenziale cliente. I soggetti abilitati che nominano consulenti finanziari abilitati all'offerta fuori sede adottano misure adeguate per evitare qualsiasi eventuale impatto negativo delle attivita' di questi ultimi che non rientrano nell'ambito di applicazione della direttiva 2014/65/UE del Parlamento europeo e del Consiglio sulle attivita' esercitate dagli stessi per conto del soggetto abilitato.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ «4. E' istituito l'albo unico dei consulenti finanziari, nel quale sono iscritti in tre distinte sezioni i consulenti finanziari abilitati all'offerta fuori sede, i consulenti finanziari autonomi e le societa' di consulenza finanziaria. Alla tenuta dell'albo provvede l'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari che e' costituito dalle associazioni professionali rappresentative dei consulenti finanziari abilitati all'offerta fuori sede, dei consulenti finanziari autonomi, delle societa' di consulenza finanziaria e dei soggetti abilitati. Alle riunioni dell'assemblea dell'Organismo puo' assistere un rappresentante della Consob. L'Organismo ha personalita' giuridica ed e' ordinato in forma di associazione, con autonomia organizzativa e statutaria, nel rispetto del principio di articolazione territoriale delle proprie strutture e attivita'. L'Organismo esercita i poteri cautelari di cui all'articolo 7-septies e i poteri sanzionatori di cui all'articolo 196. I provvedimenti dell'Organismo sono pubblicati sul proprio sito internet. Lo statuto e il regolamento interno dell'Organismo, e le loro successive modifiche, sono trasmessi al Ministero dell'economia e delle finanze per l'approvazione, sentita la Consob. Il Ministero dell'economia e delle finanze nomina il Presidente del collegio sindacale dell'Organismo. Nell'ambito della propria autonomia finanziaria l'Organismo determina e riscuote i contributi e le altre somme dovute dagli iscritti, dai richiedenti l'iscrizione e da coloro che intendono sostenere la prova valutativa di cui al comma 5, nella misura necessaria per garantire lo svolgimento delle proprie attivita'. Il provvedimento con cui l'Organismo ingiunge il pagamento dei contributi dovuti ha efficacia di titolo esecutivo. Decorso inutilmente il termine fissato per il pagamento, l'Organismo procede alla esazione delle somme dovute in base alle norme previste per la riscossione, mediante ruolo, delle entrate dello Stato, degli enti territoriali, degli enti pubblici e previdenziali. Esso provvede all'iscrizione all'albo, previa verifica dei necessari requisiti, alla cancellazione dall'albo nelle ipotesi stabilite dalla Consob con il regolamento di cui al comma 6, e svolge ogni altra attivita' necessaria per la tenuta dell'albo. L'Organismo opera nel rispetto dei principi e dei criteri stabiliti con regolamento della Consob, e sotto la vigilanza della medesima. All'Organismo, nell'esercizio dell'attivita' di vigilanza sui soggetti iscritti all'albo, si applica il regime di responsabilita' previsto per l'esercizio delle funzioni di controllo da parte della Consob ai sensi dell'articolo 24, comma 6-bis, della legge 28 dicembre 2005, n. 262.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 5, primo periodo, dopo le parole: «per l'iscrizione» sono inserite le seguenti: «dei consulenti finanziari abilitati all'offerta fuori sede»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 6 sono apportate le seguenti modificazioni: 
+ 1) alla lettera b), dopo le parole: «fuori sede» sono inserite le seguenti: «, dei consulenti finanziari autonomi, delle societa' di consulenza finanziaria»; 
+ 2) la lettera c) e' sostituita dalla seguente: 
+ «c) all'iscrizione, alla cancellazione e alle cause di riammissione all'albo previsto dal comma 4;»; 
+ 3) dopo la lettera d) e' inserita la seguente: 
+ «d-bis) all'attivita' di vigilanza svolta dall'Organismo;»; 
+ 4) alla lettera e) la parola: «55» e' sostituita dalla seguente: «7-septies»; 
+ 5) alla lettera f) la parola: «organismo» e' sostituita dalla seguente: «Organismo»; 
+ 6) alla lettera g), dopo le parole: «fuori sede» sono inserite le seguenti: «, i consulenti finanziari autonomi e le societa' di consulenza finanziaria»; 
+ 7) alla lettera h), dopo le parole: «fuori sede» sono inserite le seguenti: «, dai consulenti finanziari autonomi e dalle societa' di consulenza finanziaria»; 
+ 8) le lettere i) ed l) sono sostituite dalle seguenti: 
+ «i) all'attivita' dell'Organismo di cui al comma 4; 
+ l) alle modalita' di aggiornamento professionale dei consulenti finanziari abilitati all'offerta fuori sede, dei consulenti finanziari autonomi e dei soggetti che svolgono, per conto delle societa' di cui all'articolo 18-ter, attivita' di consulenza in materia di investimenti nei confronti della clientela.»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                dopo il comma 6 e' inserito il seguente: 
+ «6-bis. Per le societa' di consulenza finanziaria di cui all'articolo 18-ter, la Consob adotta le disposizioni attuative dell'articolo 4-undecies.»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ «7. L'Organismo puo' chiedere ai consulenti finanziari abilitati all'offerta fuori sede o ai soggetti che si avvalgono dei medesimi, ai consulenti finanziari autonomi ed alle societa' di consulenza finanziaria la comunicazione di dati e notizie e la trasmissione di atti e documenti fissando i relativi termini. Esso puo' inoltre effettuare ispezioni e richiedere l'esibizione di documenti e il compimento degli atti ritenuti necessari nonche' procedere ad audizione personale. Nell'esercizio dell'attivita' ispettiva, l'Organismo puo' avvalersi, previa comunicazione alla Consob, della Guardia di Finanza che agisce con i poteri ad essa attribuiti per l'accertamento dell'imposta sul valore aggiunto e delle imposte sui redditi, utilizzando strutture e personale esistenti in modo da non determinare oneri aggiuntivi. I contenuti e le modalita' di collaborazione tra l'Organismo e la Guardia di finanza sono definite in apposito protocollo d'intesa.».
 
 Dopo l'articolo 31 del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 31-bis (Vigilanza della Consob sull'Organismo). - 1. La Consob vigila sull'Organismo secondo modalita', dalla stessa stabilite, improntate a criteri di proporzionalita' ed economicita' dell'azione di controllo e con la finalita' di verificare l'adeguatezza delle procedure interne adottate dall'Organismo per lo svolgimento dei compiti a questo affidati. 
@@ -289,6 +1168,24 @@ L'articolo 32-ter del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito
 Dopo l'articolo 32-ter del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 32-ter.1 (Fondo per la tutela stragiudiziale dei risparmiatori e degli investitori). - 1. Al fine di agevolare l'accesso dei risparmiatori e degli investitori alla piu' ampia tutela nell'ambito delle procedure di risoluzione stragiudiziale delle controversie di cui all'articolo 32-ter, la Consob istituisce presso il proprio bilancio il Fondo per la tutela stragiudiziale dei risparmiatori e degli investitori, di seguito denominato "Fondo". Il Fondo e' destinato a garantire ai risparmiatori e agli investitori, diversi dai clienti professionali di cui all'articolo 6, commi 2-quinquies e 2-sexies, del presente decreto, nei limiti delle disponibilita' del Fondo medesimo, la gratuita' dell'accesso alla procedura di risoluzione stragiudiziale delle controversie di cui all'articolo 32-ter del presente decreto, mediante esonero dal versamento della relativa quota concernente le spese amministrative per l'avvio della procedura, nonche', per l'eventuale parte residua, a consentire l'adozione di ulteriori misure a favore dei risparmiatori e degli investitori, da parte della Consob, anche con riguardo alla tematica dell'educazione finanziaria. 
  2. Il Fondo e' finanziato con il versamento della meta' degli importi delle sanzioni amministrative pecuniarie riscosse per la violazione delle norme che disciplinano le attivita' di cui alla parte II del presente decreto, nonche', nel limite di 250.000 euro annui a decorrere dall'anno 2016, con le risorse iscritte in un apposito capitolo dello stato di previsione del Ministero dell'economia e delle finanze in relazione ai versamenti effettuati all'entrata del bilancio dello Stato per il pagamento della tassa sulle concessioni governative di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641, per l'iscrizione nell'albo di cui all'articolo 31, comma 4, del presente decreto. L'impiego delle somme affluite al Fondo, con riguardo a quelle relative alla violazione delle norme che disciplinano le attivita' di cui alla parte II del presente decreto, e' condizionato all'accertamento, con sentenza passata in giudicato o con lodo arbitrale non piu' impugnabile, della violazione sanzionata. Nel caso di incapienza del Fondo resta fermo quanto previsto dal comma 3 dell'articolo 32-ter del presente decreto. La Consob adotta le occorrenti misure affinche' gli importi delle sanzioni amministrative pecuniarie di cui al primo periodo affluiscano, nella misura spettante, contestualmente al versamento da parte del soggetto obbligato, direttamente al bilancio della Consob, per essere destinate al Fondo.».
+
+34.
+                    
+                        
+                            All'articolo 33 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera d), le parole: «articolo 1, comma 6, lettera a)» sono sostituite dalle seguenti: «Allegato I, Sezione B, numero (1)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 le parole: «6, comma 2-bis» sono sostituite dalle seguenti: «6, comma 1, lettera c-bis), numero 8), e comma 2-bis)».
 
 All'articolo 41-bis del decreto legislativo 24 febbraio 1998, n. 58, il comma 6 e' sostituito dal seguente: 
  «6. Le societa' di gestione UE che svolgono le attivita' di cui ai commi 1 e 3 nel territorio della Repubblica, mediante stabilimento di succursali, sono tenute a rispettare le norme di condotta previste all'articolo 35-decies. La Banca d'Italia e la Consob possono chiedere, nell'ambito delle rispettive competenze, alle societa' di gestione UE la comunicazione di dati e notizie e la trasmissione di atti e documenti con le modalita' e nei termini dalle stesse stabiliti. La Banca d'Italia e la Consob, nell'ambito delle rispettive competenze, possono chiedere informazioni al personale delle societa' di gestione UE, anche per il tramite di queste ultime.».
@@ -313,11 +1210,201 @@ All'articolo 48, comma 3-bis, del decreto legislativo 24 febbraio 1998, n. 58, l
 
 La rubrica del capo III-quater del titolo III del decreto legislativo 24 febbraio 1998, n. 58, e' sostituita dalla seguente: «Gestione di portali per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali».
 
+43.
+                    
+                        
+                            All'articolo 50-quinquies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Gestione di portali per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 1 e 2 sono sostituiti dai seguenti: 
+ «1. E' gestore di portali il soggetto che esercita professionalmente il servizio di gestione di portali per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali ed e' iscritto nel registro di cui al comma 2. 
+ 2. L'attivita' di gestione di portali per la raccolta di capitali per le piccole e medie imprese e per le imprese sociali e' riservata alle Sim, alle imprese di investimento UE, alle imprese di paesi terzi diverse dalle banche autorizzate in Italia, ai gestori di cui all'articolo 1, comma 1, lettera q-bis), limitatamente all'offerta di quote o azioni di Oicr che investono prevalentemente in piccole e medie imprese e alle banche, autorizzati ai relativi servizi di investimento, nonche' ai soggetti iscritti in un apposito registro tenuto dalla Consob, a condizione che questi ultimi trasmettano gli ordini riguardanti la sottoscrizione e la compravendita di strumenti finanziari rappresentativi di capitale esclusivamente a banche, Sim, imprese di investimento UE e imprese di paesi terzi diverse dalla banche, e gli ordini riguardanti azioni o quote degli Oicr ai relativi gestori. Ai soggetti iscritti in tale registro non si applicano le disposizioni della parte II, titolo II, capo II e dell'articolo 32.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, dopo la lettera e), e' aggiunta la seguente: 
+ «e-bis) adesione a un sistema di indennizzo a tutela degli investitori o stipula di un'assicurazione di responsabilita' professionale che garantisca una protezione equivalente alla clientela, secondo i criteri stabiliti dalla Consob con regolamento.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6, secondo periodo, dopo le parole: «la Consob puo'» sono inserite le seguenti: «convocare gli amministratori, i sindaci e il personale dei gestori,»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 6 e' inserito il seguente: 
+ «6-bis. La Consob adotta le disposizioni attuative dell'articolo 4-undecies.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 7 e' abrogato.
+
 Il capo I del titolo IV del decreto legislativo 24 febbraio 1998, n. 58, e' abrogato.
 
 All'articolo 55-quinquies, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, il secondo periodo e' sostituito dal seguente: «A tal fine la Banca d'Italia esercita i poteri indicati dagli articoli 6-bis, commi 1, 2, 3, 11; 6-ter, commi 1, 5, 6, 7, 8; e 12, comma 5. Le misure sono adottate su proposta della Consob quando le violazioni riguardano disposizioni sul cui rispetto questa vigila.».
 
+46.
+                    
+                        
+                            All'articolo 56 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera c), le parole: «articolo 53» sono sostituite dalle seguenti: «articolo 7-sexies»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: «investimento extracomunitarie» sono sostituite dalle seguenti: «paesi terzi diverse dalle banche» e le parole: «dell'impresa di investimento» sono sostituite dalle seguenti: «dell'impresa»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 le parole: «investimento extracomunitarie» sono sostituite dalle seguenti: «paesi terzi diverse dalle banche».
+
 All'articolo 56-bis, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, dopo le parole: «la Banca d'Italia» sono inserite le seguenti: «, sentita la Consob».
+
+48.
+                    
+                        
+                            All'articolo 57 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, ultimo periodo, le parole: «decreto di recepimento della direttiva 2014/59/UE» sono sostituite dalle seguenti: «decreto legislativo 16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: «articolo 53» sono sostituite dalle seguenti: «articolo 7-sexies».
+
+49.
+                    
+                        
+                            All'articolo 58 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 la parola: «comunitaria» e' sostituita dalla seguente: «UE»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: «investimento extracomunitarie» sono sostituite dalle seguenti: «paesi terzi diverse dalle banche».
+
+50.
+                    
+                        
+                            All'articolo 58-bis del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Imprese di investimento operanti nell'Unione europea)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 le parole: «comunitarie» sono sostituite dalle seguenti: «UE»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, lettera a), le parole: «articolo 52» sono sostituite dalle seguenti: «articolo 7-quater».
+
+51.
+                    
+                        
+                            All'articolo 60 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo le parole: «imprese di investimento» e' inserita la seguente: «UE» e la parola: «comunitarie» e' sostituita dalla seguente: «UE»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, primo e secondo periodo, le parole: «investimento e di banche extracomunitarie» sono sostituite dalle seguenti: «paesi terzi».
+
+52.
+                    
+                        
+                            All'articolo 60-bis del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3 dopo le parole: «gli atti previsti» sono inserite le seguenti: «dagli articoli 7-ter, 7-quater, 7-quinquies, 7-sexies e»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5 le parole: «comunitarie o extracomunitarie» sono sostituite dalle seguenti: «UE o di imprese di paesi terzi diverse dalle banche».
+
+53.
+                    
+                        
+                            All'articolo 60-bis.1 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «investimento extracomunitarie» sono sostituite dalle seguenti: «paesi terzi diverse dalle banche» e le parole: «di recepimento della direttiva 2014/59/UE» sono sostituite dalle seguenti: «legislativo 16 novembre 2015, n. 180»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai commi 2, 3 e 4 le parole: «di recepimento della direttiva 2014/59/UE» sono sostituite dalle seguenti: «legislativo 16 novembre 2015, n. 180».
 
 ## Art. 3. — Modifiche alla parte III del decreto legislativo 24 febbraio 1998, n. 58
 
@@ -775,11 +1862,94 @@ L'articolo 98-sexies del decreto legislativo 24 febbraio 1998, n. 58, e' abrogat
 
 All'articolo 99, comma 1, lettere f) e g), del decreto legislativo 24 febbraio 1998, n. 58, le parole: «64, comma 1-bis, lettera c)» sono sostituite dalle seguenti: «66-quater, comma 1».
 
+3.
+                    
+                        
+                            All'articolo 100-ter del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Le offerte al pubblico condotte attraverso uno o piu' portali per la raccolta di capitali possono avere ad oggetto soltanto la sottoscrizione di strumenti finanziari emessi dalle piccole e medie imprese, dalle imprese sociali e dagli organismi di investimento collettivo del risparmio o altre societa' di capitali che investono prevalentemente in piccole e medie imprese. Le offerte relative a strumenti finanziari emessi da piccole e medie imprese devono avere un corrispettivo totale inferiore a quello determinato dalla Consob ai sensi dell'articolo 100, comma 1, lettera c).»; 
+ c) dopo il comma 1 e' inserito il seguente: 
+ «1-bis. In deroga a quanto previsto dall'articolo 2468, primo comma, del codice civile, le quote di partecipazione in piccole e medie imprese costituite in forma di societa' a responsabilita' limitata possono costituire oggetto di offerta al pubblico di prodotti finanziari, anche attraverso i portali per la raccolta di capitali, nei limiti previsti dal presente decreto.»; 
+ d) al comma 2 le parole: «comma precedente» sono sostituite dalle seguenti: «comma 1» e le parole: «della start up innovativa, della PMI innovativa o dell'impresa sociale» sono sostituite dalle seguenti: «della piccola e media impresa o dell'impresa sociale»; 
+ e) il comma 2-bis e' sostituito dal seguente: 
+ «2-bis. In alternativa a quanto stabilito dall'articolo 2470, secondo comma, del codice civile e dall'articolo 36, comma 1-bis, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni, per la sottoscrizione e per la successiva alienazione di quote rappresentative del capitale di piccole e medie imprese e di imprese sociali costituite in forma di societa' a responsabilita' limitata: 
+ a) la sottoscrizione puo' essere effettuata per il tramite di intermediari abilitati alla prestazione di uno o piu' dei servizi di investimento previsti dall'articolo 1, comma 5, lettere a), b), c), c-bis), ed e); gli intermediari abilitati effettuano la sottoscrizione delle quote in nome proprio e per conto dei sottoscrittori o degli acquirenti che abbiano aderito all'offerta tramite portale; 
+ b) entro i trenta giorni successivi alla chiusura dell'offerta, gli intermediari abilitati depositano al registro delle imprese una certificazione attestante la loro titolarita' di soci per conto di terzi, sopportandone il relativo costo; a tale fine, le condizioni di adesione pubblicate nel portale devono espressamente prevedere che l'adesione all'offerta, in caso di buon fine della stessa e qualora l'investitore decida di avvalersi del regime alternativo di cui al presente comma, comporta il contestuale e obbligatorio conferimento di mandato agli intermediari incaricati affinche' i medesimi: 
+ 1) effettuino l'intestazione delle quote in nome proprio e per conto dei sottoscrittori, tenendo adeguata evidenza dell'identita' degli stessi e delle quote possedute; 
+ 2) rilascino, a richiesta del sottoscrittore o del successivo acquirente, una certificazione comprovante la titolarita' delle quote; tale certificazione ha natura di puro titolo di legittimazione per l'esercizio dei diritti sociali, e' nominativamente riferita al sottoscrittore, non e' trasferibile, neppure in via temporanea ne' a qualsiasi titolo, a terzi e non costituisce valido strumento per il trasferimento della proprieta' delle quote; 
+ 3) consentano ai sottoscrittori che ne facciano richiesta di alienare le quote secondo quanto previsto alla lettera c) del presente comma; 
+ 4) accordino ai sottoscrittori e ai successivi acquirenti la facolta' di richiedere, in ogni momento, l'intestazione diretta a se stessi delle quote di loro pertinenza; 
+ c) l'alienazione delle quote da parte di un sottoscrittore o del successivo acquirente avviene mediante semplice annotazione del trasferimento nei registri tenuti dall'intermediario; la scritturazione e il trasferimento non comportano costi o oneri ne' per l'acquirente ne' per l'alienante; la successiva certificazione effettuata dall'intermediario, ai fini dell'esercizio dei diritti sociali, sostituisce ed esaurisce le formalita' di cui all'articolo 2470, secondo comma, del codice civile.»; 
+ f) al comma 2-ter le parole: «e' altresi' prevista apposita casella o altra idonea modalita' per» sono sostituite dalle seguenti: «sono altresi' predisposte apposite idonee modalita' per consentire all'investitore di»; 
+ g) al comma 2-quater il primo periodo e' sostituito dal seguente: «L'esecuzione di sottoscrizioni, acquisti e alienazioni di strumenti finanziari emessi da piccole e medie imprese e da imprese sociali ovvero di quote rappresentative del capitale delle medesime, effettuati secondo le modalita' previste alle lettere b) e c) del comma 2-bis del presente articolo, non necessita della stipulazione di un contratto scritto.»; 
+ h) il comma 2-quinquies e' abrogato.
+
 All'articolo 114, comma 1, secondo periodo del decreto legislativo 24 febbraio 1998, n. 58, le parole: «64, comma 1, lettera b)» sono sostituite dalle seguenti: «64, comma 2, lettera d)».
 
 ## Art. 5. — Modifiche alla parte V del decreto legislativo 24 febbraio 1998, n. 58
 
+1.
+                    
+                        
+                            All'articolo 166 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'alinea del comma 1 e' sostituito dal seguente: 
+ «E' punito con la reclusione da uno a otto anni e con la multa da euro quattromila a euro diecimila chiunque, senza esservi abilitato ai sensi del presente decreto:»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera c), dopo le parole: «a distanza,» sono inserite le seguenti: «prodotti finanziari o»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, dopo la lettera c) e' aggiunta la seguente: 
+ «c-bis) svolge servizi di comunicazione dati.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, primo periodo, dopo le parole: «del risparmio» sono inserite le seguenti: «o i servizi di comunicazione dati».
+
 All'articolo 169, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «61, comma 6,» sono sostituite dalle seguenti: «64-bis, comma 2,».
+
+3.
+                    
+                        
+                            L'articolo 187-quinquiesdecies del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Fuori dai casi previsti dall'articolo 2638 del codice civile, e' punito ai sensi del presente articolo chiunque non ottempera nei termini alle richieste della Banca d'Italia e della Consob, ovvero non coopera con le medesime autorita' al fine dell'espletamento delle relative funzioni di vigilanza, ovvero ritarda l'esercizio delle stesse.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 sono aggiunti i seguenti: 
+ 1-bis. Se la violazione e' commessa da una persona fisica, si applica nei confronti di quest'ultima la sanzione amministrativa pecuniaria da euro diecimila fino a euro cinque milioni. 
+ 1-ter. Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro diecimila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, si applica la sanzione amministrativa pecuniaria prevista dal comma 1-bis nei confronti degli esponenti aziendali e del personale della societa' o dell'ente nei casi previsti dall'articolo 190-bis, comma 1, lettera a). 
+ 1-quater. Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.».
 
 L'articolo 188 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «Art. 188 (Abuso di denominazione). - 1. L'uso, nella denominazione o in qualsivoglia segno distintivo o comunicazione rivolta al pubblico, delle parole: "Sim" o "societa' di intermediazione mobiliare" o "impresa di investimento"; "Sgr" o "societa' di gestione del risparmio"; "Sicav" o "societa' di investimento a capitale variabile"; "Sicaf" o "societa' di investimento a capitale fisso"; "EuVECA" o "fondo europeo per il venture capital"; "EuSEF" o "fondo europeo per l'imprenditoria sociale"; "APA" o "dispositivo di pubblicazione autorizzato"; "CTP" o "fornitore di un sistema consolidato di pubblicazione"; "ARM" o "meccanismo di segnalazione autorizzato"; "mercato regolamentato"; "mercato di crescita per le PMI"; ovvero di altre parole o locuzioni, anche in lingua straniera, idonee a trarre in inganno sulla legittimazione allo svolgimento dei servizi o delle attivita' di investimento o del servizio di gestione collettiva del risparmio o dei servizi di comunicazione dati o dell'attivita' di gestione di mercati regolamentati e' vietato a soggetti diversi, rispettivamente, dalle imprese di investimento, dalle societa' di gestione del risparmio, dalle Sicav, dalle Sicaf, dai soggetti abilitati a tenore dei regolamenti (UE) n. 345/2013, relativo ai fondi europei per il venture capital (EuVECA), e n. 346/2013, relativo ai fondi europei per l'imprenditoria sociale (EuSEF), dai fornitori autorizzati allo svolgimento dei servizi di comunicazione dati, dai mercati regolamentati e dai sistemi registrati come un mercato di crescita per le PMI, ai sensi del presente decreto. Chiunque contravviene al divieto previsto dal presente articolo e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. 
@@ -789,6 +1959,108 @@ L'articolo 189 del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito da
  «Art. 189 (Partecipazioni al capitale). - 1. La violazione degli obblighi di comunicazione previsti dagli articoli 15, commi 1 e 3, 64-bis, comma 2, e delle relative disposizioni attuative, e di quelli richiesti ai sensi dell'articolo 17, nonche' di quelli previsti dall'articolo 31, paragrafo 2, del regolamento (UE) n. 648/2012 e dall'articolo 27, paragrafo 7, secondo periodo, del regolamento (UE) n. 909/2014, e' punita con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis. 
  2. La stessa sanzione si applica in caso di violazione dei divieti di esercizio dei diritti e in caso di inadempimento degli obblighi di alienazione previsti dagli articoli 14, commi 4 e 7; 16, commi 1, 2 e 4; 64-bis, comma 5; 79-sexies, comma 9; e 79-noviesdecies, comma 1. 
  3. Si applica l'articolo 187-quinquiesdecies, comma 1-quater.».
+
+6.
+                    
+                        
+                            All'articolo 190 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Sanzioni amministrative pecuniarie in tema di disciplina degli intermediari)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Salvo che il fatto costituisca reato ai sensi dell'articolo 166, nei confronti dei soggetti abilitati, dei depositari e dei soggetti ai quali sono state esternalizzate funzioni operative essenziali o importanti si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis, per la mancata osservanza degli articoli 6; 6-bis; 6-ter; 7, commi 2, 2-bis, 2-ter, 3 e 3-bis; 7-bis, comma 5; 7-ter; 9; 12; 13, comma 3; 21; 22; 23, commi 1 e 4-bis; 24, commi 1 e 1-bis; 24-bis; 25; 25-bis; 25-ter, commi 1 e 2; 26, commi 1, 3 e 4; 27, commi 1 e 3; 28, comma 4; 29; 29-bis, comma 1; 29-ter, comma 4; 30, comma 5; 31, commi 1, 2, 2-bis, 3-bis, 5, 6 e 7; 32, comma 2; 33, comma 4; 35-bis, comma 6; 35-novies; 35-decies; 36, commi 2, 3 e 4; 37, commi 1, 2 e 3; 39; 40, commi 2, 4 e 5; 40-bis, comma 4; 40-ter, comma 4; 41, commi 2, 3 e 4; 41-bis; 41-ter; 41-quater; 42, commi 1, 3 e 4; 43, commi 2, 3, 4, 7, 8 e 9; 44, commi 1, 2, 3 e 5; 45; 46, commi 1, 3 e 4; 47; 48; 49, commi 3 e 4; 55-ter; 55-quater; 55-quinquies; ovvero delle disposizioni generali o particolari emanate in base ai medesimi articoli.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis.1 Chiunque eserciti l'attivita' di gestore di portale in assenza dell'iscrizione nel registro previsto dall'articolo 50-quinquies e' punito con la sanzione amministrativa pecuniaria da euro cinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, si applica nei confronti di questi ultimi la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. La stessa sanzione prevista dal comma 1 si applica: 
+ a) alle banche non autorizzate alla prestazione di servizi o di attivita' di investimento, nel caso in cui non osservino le disposizioni dell'articolo 25-bis e di quelle emanate in base ad esse; 
+ b) alle imprese di assicurazione, nel caso in cui non osservino le disposizioni previste dall'articolo 25-ter, commi 1 e 2, e quelle emanate in base ad esse; 
+ c) ai depositari centrali che prestano servizi o attivita' di investimento per la violazione delle disposizioni del presente decreto richiamate dall'articolo 79-noviesdecies.1.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 2-ter e' abrogato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 3 le parole: «188, comma 2-bis» sono sostituite dalle seguenti: «187-quinquiesdecies, comma 1-quater.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il comma 4 e' abrogato.
+
+7.
+                    
+                        
+                            All'articolo 190.1 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «disponibile e determinabile» sono sostituite dalle seguenti: «determinabile ai sensi dell'articolo 195, comma 1-bis»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 le parole: «188, commi 2 e 2-bis.» sono sostituite dalle seguenti: «187-quinquiesdecies, comma 1-quater.».
+
+8.
+                    
+                        
+                            All'articolo 190.2 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai commi 1 e 2 le parole: «disponibile e determinabile» sono sostituite dalle seguenti: «determinabile ai sensi dell'articolo 195, comma 1-bis»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 le parole: «188, commi 2 e 2-bis» sono sostituite dalle seguenti: «187-quinquiesdecies, comma 1-quater.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' abrogato.
 
 Dopo l'articolo 190.2 del decreto legislativo 24 febbraio 1998, n. 58, sono inseriti i seguenti: 
  «Art. 190.3 (Sanzioni amministrative in tema di disciplina dei mercati e dei servizi di comunicazione dati). - 1. Salvo che il fatto costituisca reato ai sensi dell'articolo 166, si applica la sanzione amministrativa pecuniaria da euro trentamila fino a euro cinque milioni ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis: 
@@ -812,14 +2084,309 @@ Dopo l'articolo 190.2 del decreto legislativo 24 febbraio 1998, n. 58, sono inse
  e) nei confronti degli emittenti o terzi collegati come definiti dall'articolo 3, paragrafo 1, lettera i), del regolamento di cui alla lettera a), in caso di violazione degli articoli 8-quater e 8-quinquies del predetto regolamento. 
  2. Si applica l'articolo 187-quinquiesdecies, comma 1-quater.».
 
+10.
+                    
+                        
+                            All'articolo 190-bis del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla rubrica sono aggiunte, in fine, le seguenti parole: «e dei servizi di comunicazione dati»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'alinea del comma 1 le parole: «e 190.2, commi 1 e 2» sono sostituite dalle seguenti: «, 190.2, commi 1 e 2, 190.3, 190.4, e 190.5» e le parole: «cinque milioni di euro» sono sostituite dalle seguenti: «euro cinque milioni»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera a), le parole: «o per l'integrita' ed» sono sostituite dalle seguenti: «o per la trasparenza, l'integrita' e»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2 le parole: «cinque milioni di euro» sono sostituite dalle seguenti: «euro cinque milioni»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 3 la parola: «intermediari» e' sostituita dalla seguente: «soggetti»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 3-bis la parola: «applicano» e' sostituita dalle seguenti: «possono applicare» e dopo le parole: «dieci anni,» sono inserite le seguenti: «sempre per le violazioni commesse con dolo o colpa grave,»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 4 le parole: «188, commi 2 e 2-bis» sono sostituite dalle seguenti: «187-quinquiesdecies, comma 1-quater.».
+
 L'articolo 190-ter del decreto legislativo 24 febbraio 1998, n. 58, e' abrogato.
 
 Dopo l'articolo 190-ter del decreto legislativo 24 febbraio 1998, n. 58, e' inserito il seguente: 
  «Art. 190-quater (Sanzioni amministrative in tema di gestione di portali). - 1. I gestori di portali per la raccolta di capitali per le piccole e medie imprese che violano le norme degli articoli 50-quinquies e 100-ter o le relative disposizioni attuative sono puniti con una sanzione amministrativa pecuniaria da euro cinquecento a euro venticinquemila. Per i soggetti iscritti nel registro di cui al comma 2 dell'articolo 50-quinquies, puo' altresi' essere disposta la sospensione da uno a quattro mesi o la radiazione dal registro.».
 
+13.
+                    
+                        
+                            All'articolo 191 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «cinque milioni di euro» sono sostituite dalle seguenti: «euro cinque milioni»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo le parole: «euro cinquemila» e' inserita la seguente: «fino»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Chiunque effettua un'offerta al pubblico in violazione dell'articolo 98-ter, comma 1, e' punito con la sanzione amministrativa pecuniaria da euro venticinquemila fino a euro cinque milioni. Se la violazione e' commessa da una societa' o un ente, e' applicata la sanzione amministrativa pecuniaria da euro venticinquemila fino a euro cinque milioni, ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4 le parole: «ovvero al dieci per cento del fatturato, quando tale importo e' superiore a 5 milioni di euro e il fatturato e' disponibile e determinabile.» sono sostituite dalle seguenti: «ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 6 le parole: «188, comma 2-bis» sono sostituite dalle seguenti: «187-quinquiesdecies, comma 1-quater»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 7 le parole: «per i promotori finanziari» sono sostituite dalle seguenti: «per i consulenti finanziari abilitati all'offerta fuori sede, per i consulenti finanziari autonomi e per gli esponenti aziendali delle societa' di consulenza finanziaria»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il comma 8 e' abrogato.
+
+14.
+                    
+                        
+                            All'articolo 192 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2-bis, ultimo periodo, le parole: «cinque milioni di euro» sono sostituite dalle seguenti: «euro cinque milioni»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2-ter, le parole: «188, commi 2 e 2-bis» sono sostituite dalle seguenti: «187-quinquiesdecies, comma 1-quater».
+
+15.
+                    
+                        
+                            All'articolo 192-bis del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea del comma 1 le parole: «si applicano le seguenti misure e sanzioni amministrative» sono sostituite dalle seguenti: «si applica una delle seguenti sanzioni amministrative»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera a), sono aggiunte, in fine, le seguenti parole: «, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera c), le parole: «se superiore, fino al cinque per cento del fatturato complessivo annuo.» sono sostituite dalle seguenti: «fino al cinque per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'alinea del comma 1-bis le parole: «si applicano le seguenti misure e sanzioni amministrative» sono sostituite dalle seguenti: «si applica una delle seguenti sanzioni amministrative»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 1-bis, lettera a), sono aggiunte, in fine, le seguenti parole: «, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 1-ter le parole: «188, commi 2 e 2-bis» sono sostituite dalle seguenti: «187-quinquiesdecies, comma 1-quater».
+
+16.
+                    
+                        
+                            All'articolo 192-ter del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2-bis la parola: «anche» e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3-bis le parole: «188, commi 2 e 2-bis» sono sostituite dalle seguenti: «187-quinquiesdecies, comma 1-quater».
+
+17.
+                    
+                        
+                            All'articolo 193 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'alinea del comma 1 le parole: «si applicano le seguenti misure e sanzioni amministrative» sono sostituite dalle seguenti: «si applica una delle seguenti sanzioni amministrative»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera a), sono aggiunte, in fine, le seguenti parole: «, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera c), le parole: «o se superiore fino al cinque per cento del fatturato complessivo annuo.» sono sostituite dalle seguenti: «ovvero fino al cinque per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'alinea del comma 1.1 le parole: «le seguenti misure e sanzioni amministrative» sono sostituite dalle seguenti: «una delle seguenti sanzioni amministrative»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 1.1, lettera a), sono aggiunte, in fine, le seguenti parole: «, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 1-quinquies e' abrogato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'alinea del comma 2 le parole: «si applicano le seguenti misure e sanzioni amministrative» sono sostituite dalle seguenti: «si applica una delle seguenti sanzioni amministrative»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 2, lettera a), sono aggiunte, in fine, le seguenti parole: «, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;»; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                al comma 2, lettera c), le parole: «o, se superiore, fino al cinque per cento del fatturato complessivo annuo» sono sostituite dalle seguenti: «ovvero fino al cinque per cento del fatturato quando tale importo e' superiore a euro dieci milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.»; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                all'alinea del comma 2.1 le parole: «si applicano le seguenti misure e sanzioni amministrative» sono sostituite dalle seguenti: «si applica una delle seguenti sanzioni amministrative»; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                al comma 2.1, lettera a), sono aggiunte, in fine, le seguenti parole: «, quando questa sia connotata da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata;»; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                il comma 3-ter e' abrogato.
+
 All'articolo 193-ter del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
  11. al comma 2, lettera a), la parola: «Regolamento» e' sostituita dalla seguente: «regolamento»; 
  12. il comma 5 e' abrogato.
+
+19.
+                    
+                        
+                            All'articolo 193-quater del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «sono punite» sono sostituite dalle seguenti: «sono puniti» e le parole: «ovvero al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' disponibile e determinabile.» sono sostituite dalle seguenti: «ovvero fino al dieci per cento del fatturato, quando tale importo e' superiore a euro cinque milioni e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4 le parole: «188, commi 2 e 2-bis» sono sostituite dalle seguenti: «187-quinquiesdecies, comma 1-quater».
 
 All'articolo 193-quinquies, comma 1, ultimo periodo, del decreto legislativo 24 febbraio 1998, n. 58, le parole: «totale annuo determinato in conformita' all'articolo 24 del regolamento (UE) n. 1286/2014» sono soppresse e sono aggiunte, in fine, le seguenti parole: «e il fatturato e' determinabile ai sensi dell'articolo 195, comma 1-bis.».
 
@@ -828,11 +2395,62 @@ Dopo l'articolo 193-quinquies del decreto legislativo 24 febbraio 1998, n. 58, e
 
 All'articolo 194 del decreto legislativo 24 febbraio 1998, n. 58, il comma 2-quater e' abrogato.
 
+23.
+                    
+                        
+                            All'articolo 194-ter del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Sanzioni amministrative pecuniarie relative alle violazioni delle disposizioni previste dal regolamento (UE) n. 575/2013 e delle relative norme tecniche di regolamentazione e di attuazione) »; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1 dopo la parola: «190» e' inserita la seguente: «, 190.3».
+
 All'articolo 194-quater, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
  c) la lettera a) e' sostituita dalla seguente: 
  «a) delle norme previste dagli articoli 4-undecies; 6; 12; 21; 33, comma 4; 35-decies; 67-ter; 68, commi 1 e 2; 68-quater, commi 2 e 3; 98-ter, commi 2 e 3, e delle relative disposizioni attuative;»; 
  d) dopo la lettera c) e' aggiunta la seguente: 
  «c-bis) delle norme del regolamento (UE) n. 600/2014 richiamate dall'articolo 70, paragrafo 3, lettera b), della direttiva 2014/65/UE e delle relative disposizioni attuative.».
+
+25.
+                    
+                        
+                            All'articolo 194-quinquies, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a) le parole: «adottate dalla Consob» sono soppresse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera a-bis) sono inserite le seguenti: 
+ «a-ter) dall'articolo 190.3, per la violazione degli articoli 64-ter, commi 2, 3 e 4, e 79-ter.1, e delle relative disposizioni attuative; 
+ a-quater) dall'articolo 190.4, per la violazione dell'articolo 3, paragrafo 1; dell'articolo 6, paragrafo 1; dell'articolo 8, paragrafo 1; dell'articolo 10, paragrafo 1; dell'articolo 12, paragrafo 1; dell'articolo 15, paragrafo 1, primo comma, paragrafo 2 e paragrafo 4, seconda frase; dell'articolo 18, paragrafo 6, primo comma; dell'articolo 20, paragrafi 1 e 2, prima frase; dell'articolo 21, paragrafi 1, 2 e 3; dell'articolo 26, paragrafo 1, primo comma, paragrafi da 2 a 5 e 6, primo comma, e paragrafo 7, commi dal primo al terzo, del regolamento (UE) n. 600/2014, e delle relative disposizioni attuative;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle lettere b) e
+                            
+                        
+                        
+                            d)
+                            
+                                sono aggiunte, in fine, le seguenti parole: «e delle relative disposizioni attuative».
 
 L'articolo 194-septies del decreto legislativo 24 febbraio 1998, n. 58, e' sostituito dal seguente: 
  «Art. 194-septies (Dichiarazione pubblica). - 1. Quando le violazioni sono connotate da scarsa offensivita' o pericolosita' e l'infrazione contestata sia cessata, puo' essere applicata, in alternativa alle sanzioni amministrative pecuniarie, una sanzione consistente nella dichiarazione pubblica avente ad oggetto la violazione commessa e il soggetto responsabile, nel caso di inosservanza: 
@@ -853,7 +2471,81 @@ Dopo l'articolo 195-quater del decreto legislativo 24 febbraio 1998, n. 58, e' i
  «Art. 195-quinquies (Inapplicabilita' di specifiche disposizioni della legge 24 novembre 1981, n. 689). - 1. Alle sanzioni amministrative pecuniarie previste dal presente titolo non si applicano gli articoli 6, 10, 11 e 16 della legge 24 novembre 1981, n. 689. 
  2. In deroga a quanto previsto dal comma 1, alle sanzioni amministrative previste dall'articolo 196 si applicano le disposizioni contenute nella legge 24 novembre 1981, n. 689, ad eccezione dell'articolo 16.».
 
+31.
+                    
+                        
+                            All'articolo 196 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: «(Sanzioni applicabili ai consulenti finanziari)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'alinea del comma 1 le parole: «consulenti finanziari abilitati all'offerta fuori sede» sono sostituite dalle seguenti: «soggetti iscritti all'albo di cui all'articolo 31, comma 4» e le parole: «dalla Consob» sono soppresse; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Il procedimento sanzionatorio e' retto dai principi del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie. Le sanzioni sono applicate dall'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari previsto dall'articolo 31, comma 4, con provvedimento motivato, previa contestazione degli addebiti agli interessati, da effettuarsi entro centottanta giorni dall'accertamento ovvero entro trecentossessanta giorni se l'interessato risiede o ha la sede all'estero, e valutate le deduzioni da essi presentate nei successivi trenta giorni. Nello stesso termine gli interessati possono altresi' chiedere di essere sentiti personalmente.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 3 e' abrogato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 4 e' aggiunto il seguente: 
+ «4-bis. Avverso le decisioni adottate ai sensi del comma 1 dall'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari e' ammesso ricorso dinanzi alla Corte d'Appello. Si applicano i commi 4, 5, 6, 7, 7-bis e 8 dell'articolo 195.».
+
 ## Art. 6. — Modifiche alla parte VI del decreto legislativo 24 febbraio 1998, n. 58)
+
+1.
+                    
+                        
+                            All'articolo 201 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 7, secondo periodo, le parole: «nell'articolo 1, comma 6, lettere c), limitatamente alla conclusione di contratti di riporto e altre operazioni in uso sui mercati, e g)» sono sostituite dalle seguenti: «nell'Allegato I, Sezione B, numero 2), limitatamente alla conclusione di contratti di riporto e altre operazioni in uso sui mercati, e numero 4)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 9 le parole: «negoziazione per conto terzi» sono sostituite dalle seguenti: «esecuzione di ordini per conto dei clienti»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 12 e' sostituito dal seguente: 
+ «12. Agli agenti di cambio iscritti nel ruolo unico nazionale si applicano gli articoli 6, commi 1, lettera b) e lettera c-bis), 2 e 2-bis; 6-bis e 6-ter, in quanto compatibili; 7-bis; 21; 22; 23; 24; 24-bis; 25; 25-bis; 31; 32; 167; 187-quinquiesdecies; 190; 190.4; 193-sexies; 194-bis; 194-quater; 194-septies; 195; 195-bis e 196-bis.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 14, ultimo periodo, la parola: «53» e' sostituita dalla seguente: «7-sexies».
 
 ## Art. 7. — Modifiche dell'Allegato al decreto legislativo 24 febbraio 1998, n. 58
 
@@ -868,6 +2560,24 @@ Allo svolgimento di servizi o attivita' di investimento, con o senza servizi acc
 
 ## Art. 9. — ((Disposizioni relative al decreto del Presidente della Repubblica 14 marzo 2001, n. 144, al decreto del Presidente della Repubblica 30 dicembre 2003, n. 398, e al decreto del Ministro dell'economia e delle finanze di concerto con il Ministro del lavoro e delle politiche sociali del 2 settembre 2014, n. 166))
 
+1.
+                    
+                        
+                            Entro 18 mesi dalla data di entrata in vigore del presente decreto, il Governo emana, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, apposito provvedimento di modificazione del decreto del Presidente della Repubblica 14 marzo 2001, n. 144, e successive modificazioni, volto a definire le modalita' di applicazione ai servizi di bancoposta delle disposizioni del testo unico finanza, come modificato dal presente decreto, fatti salvi i principi normativi che governano il risparmio postale nelle sue peculiari caratteristiche. Nelle more dell'adozione del predetto provvedimento: 
+ 
+                        
+                        
+                            a)
+                            
+                                i rinvii al testo unico finanza contenuti nell'articolo 2, comma 4, del citato decreto n. 144 del 2001 devono intendersi riferiti agli articoli 5; ((6, commi 1, lettere b) e c-bis);)) 2, 2-bis e 2-quater; 6-bis; 6-ter; 7, commi 1, 1-bis, 1-ter, 1-quater, 2, 2-bis, 2-ter e 3-bis; 7-bis; 7-ter; 7-decies; 8; da 21 a 23; 24-bis; 25; 25-bis; 25-ter; 30; 31, commi 1, 3, 3-bis e 7; da 32 a 32-ter; 59; 168; 190; commi 1 e 3; 190-bis; 190.4; 194-bis; 194-quater; 194-quinquies; 194-sexies; 194-septies; 195; 195-bis; 195-quinquies del medesimo testo unico finanza, come modificato dal presente decreto e alle relative disposizioni attuative; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Poste Italiane s.p.a. puo' svolgere nei confronti del pubblico i servizi e le attivita' di investimento e i servizi accessori previsti, rispettivamente, dall'articolo 1, comma 5, lettere b), c), c-bis), e), f) e dall'Allegato I, Sezione B, numeri (1), (3), (4), (5) e (6) del testo unico finanza, nonche' le attivita' connesse e strumentali ai servizi di investimento.
+
 ((
 
 Nelle more dell'adeguamento del decreto del Presidente della Repubblica 30 dicembre 2003, n. 398, e del decreto del Ministro dell'economia e delle finanze 2 settembre 2014, n. 166, pubblicato nella Gazzetta Ufficiale 13 novembre 2014, n. 264, si applica quanto previsto dai commi 2, 3 e 3-bis.
@@ -876,7 +2586,50 @@ Nelle more dell'adeguamento del decreto del Presidente della Repubblica 30 dicem
 
 La definizione di strumenti finanziari contenuta nell'articolo 2, comma 1, lettera a), del decreto del Presidente della Repubblica 30 dicembre 2003, n. 398, deve intendersi riferita agli strumenti finanziari elencati nell'Allegato I, Sezione C, numeri (2) e (4) del decreto legislativo 24 febbraio 1998, n. 58.
 
+3.
+                    
+                        
+                            All'articolo 24 del decreto del Presidente della Repubblica 30 dicembre 2003, n. 398, i rinvii agli articoli del decreto legislativo 24 febbraio 1998, n. 58, devono intendersi riferiti come segue: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, a vece di 80, comma 9, leggasi 82, e a vece di 82, leggasi parte III, titolo II-bis, capo II; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, a vece di «dall'articolo 80, commi 4 e 6, del decreto legislativo n. 58/1998», leggasi «dagli articoli 9 e 13 del regolamento delegato (UE) 2017/392 della Commissione, dell'11 novembre 2016» ; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, lettera e), a vece di 81, comma 3, leggasi 82, comma 3.
+
 ((
+
+3-bis.
+                    
+                        
+                            Al decreto ministeriale 2 settembre 2014, n. 166: 
+ 
+                        
+                        
+                            a)
+                            
+                                la definizione di "derivati" contenuta nell'articolo 1, comma 1, lettera u) deve intendersi riferita agli strumenti finanziari previsti dall'articolo 1, comma 2-ter) lettera a) del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la definizione di "strumenti finanziari" contenuta nell'articolo 1, comma 1, lettera v) deve intendersi riferita agli strumenti finanziari previsti dall'articolo 1, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, purche' diversi dai derivati e con esclusione degli strumenti finanziari previsti dall'Allegato I, Sezione C, numero (11) del medesimo decreto.
 
 ))
 
@@ -888,9 +2641,53 @@ Le disposizioni del decreto legislativo 24 febbraio 1998, n. 58, modificate dal 
 
 La data di avvio dell'operativita' dell'Albo unico dei consulenti finanziari e la data di avvio dell'operativita' dell'Organismo di vigilanza e tenuta dell'Albo unico dei consulenti finanziari, di cui all'articolo 31, comma 4, del decreto legislativo 24 febbraio 1998, n. 58, sono stabilite dalla Consob con proprie delibere ai sensi dell'articolo 1, comma 41, ultimo periodo, della legge 28 dicembre 2015, n. 208 (legge di stabilita' 2016).
 
+4.
+                    
+                        
+                            A decorrere dalla data di avvio di operativita' dell'Albo unico dei consulenti finanziari, stabilita ai sensi del comma 3: 
+ 
+                        
+                        
+                            a)
+                            
+                                nel decreto del Ministro del tesoro, del bilancio e della programmazione economica 11 novembre 1998, n. 472, per «Albo unico dei promotori finanziari» e per «Albo» deve intendersi la sezione dell'Albo di cui all'articolo 31, comma 4, del decreto legislativo 24 febbraio 1998, n. 58, dedicata ai consulenti finanziari abilitati all'offerta fuori sede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel decreto del Ministro dell'economia e delle finanze 24 dicembre 2008, n. 206, per «Albo» deve intendersi la sezione dell'Albo di cui all'articolo 31, comma 4, del decreto legislativo 24 febbraio 1998, n. 58, dedicata ai consulenti finanziari autonomi e per «Organismo» deve intendersi l'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari di cui all'articolo 31, comma 4, anzidetto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel decreto del Ministro dell'economia e delle finanze 5 aprile 2012, n. 66, per «Albo» deve intendersi la sezione dell'Albo di cui all'articolo 31, comma 4, del decreto legislativo 24 febbraio 1998, n. 58, dedicata alle societa' di consulenza finanziaria e per «Organismo» deve intendersi l'Organismo di vigilanza e tenuta dell'albo unico dei consulenti finanziari di cui all'articolo 31, comma 4, anzidetto.
+
 Fino dalla data di avvio di operativita' dell'Albo unico dei consulenti finanziari, stabilita ai sensi del comma 3 e in ogni caso non oltre centottanta giorni dalla data di presentazione della domanda di iscrizione, qualora questa sia stata presentata entro il 30 novembre 2018, o la data di decisione dell'Organismo sulla stessa domanda, la riserva di attivita' di cui all'articolo 18 del decreto legislativo 24 febbraio 1998, n. 58 non pregiudica la possibilita' per i soggetti che, alla data del 31 ottobre 2007, prestano la consulenza in materia di investimenti, di continuare a svolgere il servizio di cui all'articolo 1, comma 5, lettera f), del citato decreto legislativo, senza detenere somme di denaro o strumenti finanziari di pertinenza dei clienti.
 
 Ai fini dell'iscrizione all'Albo di cui all'articolo 31, comma 4, ai consulenti finanziari autonomi, alle societa' di consulenza finanziaria e al personale delle societa' di consulenza finanziaria che svolgono le attivita' previste dell'articolo 25, paragrafo 1, della direttiva 2014/65/UE si applicano i requisiti di esperienza professionale ivi stabiliti e le relative disposizioni attuative adottate anche dalla Consob.
+
+7.
+                    
+                        
+                            Si intendono autorizzate al servizio di cui all'articolo 1, comma 5, lettera b), del decreto legislativo 24 febbraio 1998, n. 58, limitatamente alla sottoscrizione e compravendita di strumenti finanziari di propria emissione, dal 3 gennaio 2018: 
+ 
+                        
+                        
+                            a)
+                            
+                                le banche italiane e le succursali italiane di banche di paesi terzi (gia' denominate banche extracomunitarie) iscritte nell'albo previsto dall'articolo 13 del decreto legislativo 1° settembre 1993, n. 385, al giorno dell'entrata in vigore del presente decreto legislativo; e 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le Sim e le imprese di paesi terzi (gia' denominate imprese di investimento extracomunitarie) con succursale in Italia iscritte nell'albo previsto dall'articolo 20 del decreto legislativo 24 febbraio 1998, n. 58, al giorno dell'entrata in vigore del presente decreto legislativo. 
+ I soggetti di cui alle lettere a) e b) comunicano, rispettivamente alla Banca d'Italia e alla Consob, entro il 30 novembre 2017, se non intendono avvalersi dell'autorizzazione al predetto servizio. La cancellazione dall'albo comporta la decadenza dell'autorizzazione.
 
 A partire dal 3 gennaio 2018, l'autorizzazione rilasciata per la prestazione del servizio di sottoscrizione e/o collocamento con assunzione a fermo, ovvero con assunzione di garanzia nei confronti dell'emittente, si intende riferita al servizio di cui all'articolo 1, comma 5, lettera c), del decreto legislativo 24 febbraio 1998, n. 58.
 

@@ -8,8 +8,8 @@ codice_redazionale: 070U0047
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:52Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -20,4 +20,24 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1.
 
 N.
+
+47.
+                    
+                        
+                            Decreto del Presidente della Repubblica 14 gennaio 1970, col quale, sulla proposta del Ministro per l'interno, vengono riconosciuti, agli effetti civili, i decreti dell'Ordinario diocesano di Ascoli Satriano e Cerignola in data 22 febbraio 1963 e 30 agosto 1968, con i quali viene disposta la soppressione della confraternita del Purgatorio, in Ascoli Satriano (Foggia), e devoluto a quel seminario interdiocesano il relativo patrimonio costituito da: 
+                        
+                        
+                            a)
+                            
+                                area della chiesa del Purgatorio, sita in Ascoli Satriano;
+                            
+                        
+                        
+                            b)
+                            
+                                un vano terraneo ed uno al primo piano, situati in Ascoli Satriano.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 25 febbraio 1970
+ Atti del Governo, registro n. 233, foglio n. 16. - CARUSO
 

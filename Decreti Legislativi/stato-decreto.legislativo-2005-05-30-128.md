@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-05-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,38 @@ Il presente decreto e' finalizzato a promuovere l'utilizzazione di biocarburanti
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                biocarburante: un carburante liquido o gassoso per i trasporti ricavato dalla biomassa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                biomassa: la parte biodegradabile dei prodotti, rifiuti e residui provenienti dall'agricoltura, comprendente sostanze vegetali e animali, dalla silvicoltura e dalle industrie connesse, nonche' la parte biodegradabile dei rifiuti industriali e urbani;
+
+                            
+                        
+                        
+                            c)
+                            
+                                altri carburanti rinnovabili: carburanti rinnovabili, diversi dai biocarburanti, originati da fonti energetiche rinnovabili come definite nel decreto legislativo 29 dicembre 2003, n. 387, e utilizzati per i trasporti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tenore energetico: il potere calorifico inferiore di un carburante.
+
 Sono considerati biocarburanti i prodotti di cui all'Allegato I.
 
 Ai fini del presente decreto, l'immissione in consumo ha luogo al verificarsi dei presupposti per il pagamento dell'accisa, anche per i prodotti destinati ad usi esenti.
@@ -35,6 +67,31 @@ Ai fini del presente decreto, l'immissione in consumo ha luogo al verificarsi de
 ## Art. 3. — ((Obiettivi indicativi nazionali))
 
 ((
+
+1.
+                    
+                        
+                            Sono fissati i seguenti obiettivi indicativi nazionali, calcolati sulla base del tenore energetico, di immissione in consumo di biocarburanti e altri carburanti rinnovabili, espressi come percentuale del totale del carburante diesel e di benzina nei trasporti immessi al consumo nel mercato nazionale:
+ 
+                        
+                        
+                            a)
+                            
+                                entro il 31 dicembre 2005: 1,0 per cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro il 31 dicembre 2008: 2,5 per cento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro il 31 dicembre 2010: 5,75 per cento.
 
 Ai fini del rispetto degli obiettivi indicativi di cui al comma 1, concorrono, nell'ambito dei rispettivi programmi di agevolazione di cui ai commi 1 e 5 dell'articolo 22-bis del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative di cui al decreto legislativo 26 ottobre 1995, n. 504, le immissioni in consumo di biodiesel e dei prodotti di cui al predetto comma 5.
 

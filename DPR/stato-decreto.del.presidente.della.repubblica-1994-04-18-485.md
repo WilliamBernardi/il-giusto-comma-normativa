@@ -8,8 +8,8 @@ codice_redazionale: 094G0367
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:06Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -130,6 +130,38 @@ La concessione di coltivazione e' rilasciata al titolare del permesso di ricerca
 ## Art. 12. — Domanda di concessione
 
 Il titolare del permesso di ricerca deve presentare la domanda di concessione di coltivazione al Ministero e all'ingegnere capo della sezione competente, entro sei mesi dalla pubblicazione del Bollettino ufficiale degli idrocarburi e della geotermia degli atti relativi al riconoscimento del carattere nazionale delle risorse rinvenute. Scaduto tale termine, la concessione puo' essere rilasciata a chiunque ne faccia richiesta purche' in possesso dei necessari requisiti di capacita' tecnica ed economica.
+
+2.
+                        
+                            
+                                Alla domanda di concessione di coltivazione e' allegata la seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    una relazione tecnica e il programma dei lavori di sviluppo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il progetto geotermico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo studio di valutazione delle modifiche ambientali che le attivita' programmate comportano o possono comportare nel corso del tempo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il programma delle opere di recupero ambientale previste.
 
 Non sono richiesti gli adempimenti in materia di comunicazione e certificazione antimafia previsiti dalla legge 31 maggio 1965, n. 575, cosi' come modificata dalla legge 19 marzo 1990, n. 55.
 

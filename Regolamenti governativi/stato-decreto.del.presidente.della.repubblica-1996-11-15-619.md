@@ -8,8 +8,8 @@ codice_redazionale: 096G0647
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,26 @@ Sulla proposta del Ministro delle finanze;
  degli uffici di segreteria delle commissioni tributarie
 
 Il centro informativo del Dipartimento delle entrate del Ministero delle finanze opera, per lo svolgimento dei compiti previsti dall'articolo 36, comma 1, del decreto legislativo 31 dicembre 1992, n. 545, sulla base del sistema informativo gia' attivo presso le commissioni tributarie di primo e secondo grado e presso la commissione tributaria centrale, le cui attivita' di segreteria sono state automatizzate secondo i piani tecnici di automazione del Ministero delle finanze.
+
+2.
+                        
+                            
+                                Il centro informativo di cui al comma 1:
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede al completamento dell'automazione degli uffici di segreteria delle commissioni tributarie provinciali e regionali istituite ai sensi dell'articolo 1 del decreto legislativo 31 dicembre 1992, n. 545, nonche' alla conduzione del sistema informativo operante presso la commissione tributaria centrale fino alla cessazione del suo funzionamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulla base delle direttive impartite dalla direzione centrale per gli affari giuridici e per il contenzioso tributario presso il Dipartimento delle entrate del Ministero delle finanze di cui all'articolo 37 del decreto legislativo n. 545 del 1992, cura l'evoluzione delle procedure e l'adeguamento delle stesse alle disposizioni sul processo tributario di cui al decreto legislativo 31 dicembre 1992, n. 546, collabora all'addestramento del personale di segreteria per l'utilizzo delle procedure ed all'aggiornamento dello stesso in materia informatica.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## - Capo II RILEVAZIONI STATISTICHE
 

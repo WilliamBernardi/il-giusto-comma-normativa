@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2024-12-30
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -29,9 +29,118 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'amb
 
 ## Art. 1. — Modifiche all'articolo 5 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
+1.
+                        
+                            
+                                All'articolo 5, comma 1, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le lettere i-quater), i-quinquies) e i-sexies), sono sostituite dalle seguenti: 
+ "i-quater) 'installazione': unita' tecnica permanente, in cui sono svolte una o piu' attivita' elencate all'allegato VIII alla Parte Seconda e qualsiasi altra attivita' accessoria, che sia tecnicamente connessa con le attivita' svolte nel luogo suddetto e possa influire sulle emissioni e sull'inquinamento. E' considerata accessoria l'attivita' tecnicamente connessa anche quando condotta da diverso gestore; 
+ i-quinquies) 'installazione esistente': ai fini dell'applicazione del Titolo III-bis alla Parte Seconda una installazione che, al 6 gennaio 2013, ha ottenuto tutte le autorizzazioni ambientali necessarie all'esercizio o il provvedimento positivo di compatibilita' ambientale o per la quale, a tale data, sono state presentate richieste complete per tutte le autorizzazioni ambientali necessarie per il suo esercizio, a condizione che essa entri in funzione entro il 6 gennaio 2014. Le installazioni esistenti si qualificano come 'non gia' soggette ad AIA' se in esse non si svolgono attivita' gia' ricomprese nelle categorie di cui all'Allegato VIII alla Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, come introdotto dal decreto legislativo 29 giugno 2010, n. 128; 
+ i-sexies) 'nuova installazione': una installazione che non ricade nella definizione di installazione esistente"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla lettera l-bis) le parole: "e' sostanziale una modifica che dia luogo ad un incremento del valore" sono sostituite dalle seguenti: "e' sostanziale una modifica all'installazione che dia luogo ad un incremento del valore"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lettera l-ter) e' sostituita dalla seguente: 
+ "l-ter) migliori tecniche disponibili (best available techniques - BAT): la piu' efficiente e avanzata fase di sviluppo di attivita' e relativi metodi di esercizio indicanti l'idoneita' pratica di determinate tecniche a costituire, in linea di massima, la base dei valori limite di emissione e delle altre condizioni di autorizzazione intesi ad evitare oppure, ove cio' si riveli impossibile, a ridurre in modo generale le emissioni e l'impatto sull'ambiente nel suo complesso. Nel determinare le migliori tecniche disponibili, occorre tenere conto in particolare degli elementi di cui all'allegato XI. Si intende per: 
+ 1) tecniche: sia le tecniche impiegate sia le modalita' di progettazione, costruzione, manutenzione, esercizio e chiusura dell'impianto; 
+ 2) disponibili: le tecniche sviluppate su una scala che ne consenta l'applicazione in condizioni economicamente e tecnicamente idonee nell'ambito del relativo comparto industriale, prendendo in considerazione i costi e i vantaggi, indipendentemente dal fatto che siano o meno applicate o prodotte in ambito nazionale, purche' il gestore possa utilizzarle a condizioni ragionevoli; 
+ 3) migliori: le tecniche piu' efficaci per ottenere un elevato livello di protezione dell'ambiente nel suo complesso; 
+ d) dopo la lettera l-ter) sono inserite le seguenti: 
+ "l-ter.1) 'documento di riferimento sulle BAT' o 'BREF': documento pubblicato dalla Commissione europea ai sensi dell'articolo 13, paragrafo 6, della direttiva 2010/75/UE ; 
+ l-ter.2) 'conclusioni sulle BAT': un documento adottato secondo quanto specificato all'articolo 13, paragrafo 5, della direttiva 2010/75/UE, e pubblicato in italiano nella Gazzetta Ufficiale dell'Unione europea, contenente le parti di un BREF riguardanti le conclusioni sulle migliori tecniche disponibili, la loro descrizione, le informazioni per valutarne l'applicabilita', i livelli di emissione associati alle migliori tecniche disponibili, il monitoraggio associato, i livelli di consumo associati e, se del caso, le pertinenti misure di bonifica del sito; 
+ l-ter.4) 'livelli di emissione associati alle migliori tecniche disponibili' o 'BAT-AEL': intervalli di livelli di emissione ottenuti in condizioni di esercizio normali utilizzando una migliore tecnica disponibile o una combinazione di migliori tecniche disponibili, come indicato nelle conclusioni sulle BAT, espressi come media in un determinato arco di tempo e nell'ambito di condizioni di riferimento specifiche; 
+ l-ter.5) 'tecnica emergente': una tecnica innovativa per un'attivita' industriale che, se sviluppata commercialmente, potrebbe assicurare un piu' elevato livello di protezione dell'ambiente nel suo complesso o almeno lo stesso livello di protezione dell'ambiente e maggiori risparmi di spesa rispetto alle migliori tecniche disponibili esistenti;"; 
+ e) la lettera o-bis) e' sostituita dalla seguente: 
+ "o-bis) autorizzazione integrata ambientale: il provvedimento che autorizza l'esercizio di una installazione rientrante fra quelle di cui all'articolo 4, comma 4, lettera c), o di parte di essa a determinate condizioni che devono garantire che l'installazione sia conforme ai requisiti di cui al Titolo III-bis ai fini dell'individuazione delle soluzioni piu' idonee al perseguimento degli obiettivi di cui all'articolo 4, comma 4, lettera c).
+Un'autorizzazione integrata ambientale puo' valere per una o piu' installazioni o parti di esse che siano localizzate sullo stesso sito e gestite dal medesimo gestore. Nel caso in cui diverse parti di una installazione siano gestite da gestori differenti, le relative autorizzazioni integrate ambientali sono opportunamente coordinate a livello istruttorio;"; 
+ f) alla lettera p) le parole: " il rilascio dell'autorizzazione integrata ambientale, nel caso di impianti;" sono sostituite dalle seguenti: "il rilascio dell'autorizzazione integrata ambientale o del provvedimento comunque denominato che autorizza l'esercizio;"; 
+ g) la lettera r-bis) e' sostituita dalla seguente: 
+ "r-bis) gestore: qualsiasi persona fisica o giuridica che detiene o gestisce, nella sua totalita' o in parte, l'installazione o l'impianto oppure che dispone di un potere economico determinante sull'esercizio tecnico dei medesimi;"; 
+ h) dopo la lettera v) sono aggiunte le seguenti: 
+ "v-bis) 'relazione di riferimento': informazioni sullo stato di qualita' del suolo e delle acque sotterranee, con riferimento alla presenza di sostanze pericolose pertinenti, necessarie al fine di effettuare un raffronto in termini quantitativi con lo stato al momento della cessazione definitiva delle attivita'. Tali informazioni riguardano almeno: l'uso attuale e, se possibile, gli usi passati del sito, nonche', se disponibili, le misurazioni effettuate sul suolo e sulle acque sotterranee che ne illustrino lo stato al momento dell'elaborazione della relazione o, in alternativa, relative a nuove misurazioni effettuate sul suolo e sulle acque sotterranee tenendo conto della possibilita' di una contaminazione del suolo e delle acque sotterranee da parte delle sostanze pericolose usate, prodotte o rilasciate dall'installazione interessata. Le informazioni definite in virtu' di altra normativa che soddisfano i requisiti di cui alla presente lettera possono essere incluse o allegate alla relazione di riferimento. Nella redazione della relazione di riferimento si terra' conto delle linee guida eventualmente emanate dalla Commissione europea ai sensi dell'articolo 22, paragrafo 2, della direttiva 2010/75/UE; 
+ v-ter) 'acque sotterranee': acque sotterranee quali definite all'articolo 74, comma 1, lettera l); 
+ v-quater) 'suolo': lo strato piu' superficiale della crosta terrestre situato tra il substrato roccioso e la superficie. Il suolo e' costituito da componenti minerali, materia organica, acqua, aria e organismi viventi. Ai soli fini dell'applicazione della Parte Terza, l'accezione del termine comprende, oltre al suolo come precedentemente definito, anche il territorio, il sottosuolo, gli abitati e le opere infrastrutturali; 
+ v-quinquies) 'ispezione ambientale': tutte le azioni, ivi compresi visite in loco, controllo delle emissioni e controlli delle relazioni interne e dei documenti di follow-up, verifica dell'autocontrollo, controllo delle tecniche utilizzate e adeguatezza della gestione ambientale dell'installazione, intraprese dall'autorita' competente o per suo conto al fine di verificare e promuovere il rispetto delle condizioni di autorizzazione da parte delle installazioni, nonche', se del caso, monitorare l'impatto ambientale di queste ultime; 
+ v-sexies) 'pollame': il pollame quale definito all'articolo 2, comma 2, lettera a), del decreto del Presidente della Repubblica 3 marzo 1993, n. 587; 
+ v-septies) 'combustibile': qualsiasi materia combustibile solida, liquida o gassosa, che la norma ammette possa essere combusta per utilizzare l'energia liberata dal processo; 
+ v-octies) 'sostanze pericolose': le sostanze o miscele, come definite all'articolo 2, punti 7 e 8, del regolamento (CE) n. 1272/2008, del Parlamento europeo e del Consiglio, del 16 dicembre 2008, pericolose ai sensi dell'articolo 3 del medesimo regolamento.
+Ai fini della Parte Terza si applica la definizione di cui all'articolo 74, comma 2, lettera ee)."; 
+ i) all'articolo 5, dopo il comma 1, e' aggiunto il seguente: 
+ "1-bis. Ai fini del della presente Parte Seconda si applicano inoltre le definizioni di 'impianto di incenerimento dei rifiuti' e di 'impianto di coincenerimento dei rifiuti' di cui alle lettere b) e c) del comma 1 dell'articolo 237-ter.".
+
 ## Art. 2. — Modifiche all'articolo 6 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
+1.
+                        
+                            
+                                All'articolo 6 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 13, la lettera a) e' sostituita dalla seguente: "a) le installazioni che svolgono attivita' di cui all'Allegato VIII alla Parte Seconda;"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 14 e 15 sono sostituiti dai seguenti: 
+ "14. Per le attivita' di smaltimento o di recupero di rifiuti svolte nelle installazioni di cui all'articolo 6, comma 13, anche qualora costituiscano solo una parte delle attivita' svolte nell'installazione, l'autorizzazione integrata ambientale, ai sensi di quanto disposto dall'articolo 29-quater, comma 11, costituisce anche autorizzazione alla realizzazione o alla modifica, come disciplinato dall'articolo 208. 
+ 15. Per le installazioni di cui alla lettera a) del comma 13, nonche' per le loro modifiche sostanziali, l'autorizzazione integrata ambientale e' rilasciata nel rispetto della disciplina di cui al presente decreto e dei termini di cui all'articolo 29-quater, comma 10."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 16 la lettera c) e' sostituita dalla seguente: 
+ "c) e' prevenuta la produzione dei rifiuti, a norma della parte quarta del presente decreto; i rifiuti la cui produzione non e' prevenibile sono in ordine di priorita' e conformemente alla parte quarta del presente decreto, riutilizzati, riciclati, ricuperati o, ove cio' sia tecnicamente ed economicamente impossibile, sono smaltiti evitando e riducendo ogni loro impatto sull'ambiente;"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 16 la lettera f) e' sostituita dalla seguente: 
+ "f) deve essere evitato qualsiasi rischio di inquinamento al momento della cessazione definitiva delle attivita' e il sito stesso deve essere ripristinato conformemente a quanto previsto all'articolo 29-sexies, comma 9-quinquies.".
+
 ## Art. 3. — Modifiche all'articolo 7 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
+
+1.
+                        
+                            
+                                All'articolo 7 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 5 e' sostituito dal seguente: 
+ "5. In sede statale, l'autorita' competente e' il Ministero dell'ambiente e della tutela del territorio e del mare. Il provvedimento di VIA e il parere motivato in sede di VAS sono espressi dal Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro per i beni e le attivita' culturali, che collabora alla relativa attivita' istruttoria. Il provvedimento di AIA e' rilasciato dal Ministro dell'ambiente e della tutela del territorio e del mare."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 7, lettera c), le parole: "da sottoporre a VAS, VIA ed AIA e per lo svolgimento della relativa consultazione" sono sostituite dalle seguenti: "o installazioni da sottoporre a VAS, VIA ed AIA e per lo svolgimento della relativa consultazione.".
 
 ## Art. 4. — Modifiche all'articolo 8 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -39,12 +148,59 @@ All'articolo 8, comma 2, del decreto legislativo 3 aprile 2006, n. 152, e succes
 
 ## Art. 5. — Modifiche all'articolo 10 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
+1.
+                        
+                            
+                                All'articolo 10 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole: "Allegato XII" sono inserite le seguenti: "alla Parte Seconda"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1-ter e' sostituito dal seguente: "1-ter. Le condizioni e le misure supplementari di cui al comma 1-bis sono rinnovate e riesaminate, controllate e sanzionate con le modalita' di cui agli articoli 29-octies, 29-decies e 29-quattuordecies.".
+
 ## Art. 6. — Modifiche all'articolo 20 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
 All'articolo 20, comma 1, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, la lettera b) e' sostituita dalla seguente: 
  "b) inerenti le modifiche o estensioni dei progetti elencati all'Allegato II la cui realizzazione potenzialmente puo' produrre effetti negativi e significativi sull'ambiente.".
 
 ## Art. 7. — Modifiche al Titolo III-bis, della Parte Seconda, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
+
+1.
+                        
+                            
+                                All'articolo 29-bis del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi 1 e 2 sono sostituiti dai seguenti: 
+ "1. L'autorizzazione integrata ambientale e' rilasciata tenendo conto di quanto indicato all'Allegato XI alla Parte Seconda e le relative condizioni sono definite avendo a riferimento le Conclusioni sulle BAT, salvo quanto previsto all'articolo 29-sexies, comma 9-bis, e all'articolo 29-octies. Nelle more della emanazione delle conclusioni sulle BAT l'autorita' competente utilizza quale riferimento per stabilire le condizioni dell'autorizzazione le pertinenti conclusioni sulle migliori tecniche disponibili, tratte dai documenti pubblicati dalla Commissione europea in attuazione dell'articolo 16, paragrafo 2, della direttiva 96/61/CE o dell'articolo 16, paragrafo 2, della direttiva 2008/01/CE. 
+ 2. Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico, il Ministro del lavoro e delle politiche sociali, il Ministro della salute e d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, previa consultazione delle associazioni maggiormente rappresentative a livello nazionale degli operatori delle installazioni interessate, possono essere determinati requisiti generali, per talune categorie di installazioni, che tengano luogo dei corrispondenti requisiti fissati per ogni singola autorizzazione, purche' siano garantiti un approccio integrato ed una elevata protezione equivalente dell'ambiente nel suo complesso. I requisiti generali si basano sulle migliori tecniche disponibili, senza prescrivere l'utilizzo di alcuna tecnica o tecnologia specifica, al fine di garantire la conformita' con l'articolo 29-sexies. Per le categorie interessate, salva l'applicazione dell'articolo 29-septies, l'autorita' competente rilascia l'autorizzazione in base ad una semplice verifica di conformita' dell'istanza con i requisiti generali."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 2 e' aggiunto il seguente: 
+ "2-bis. I decreti di cui al comma 2 sono aggiornati entro sei mesi dall'emanazione delle pertinenti conclusioni sulle BAT da parte della Commissione europea, al fine di tener conto dei progressi delle migliori tecniche disponibili e garantire la conformita' con l'articolo 29-octies, ed inoltre contengono un esplicito riferimento alla direttiva 2010/75/UE all'atto della pubblicazione ufficiale.
+Decorso inutilmente tale termine e fino al loro aggiornamento, i decreti gia' emanati ai sensi del comma 2 assumono, per installazioni pertinenti a tali conclusioni sulle BAT, una mera valenza informativa e conseguentemente non trova piu' applicazione l'ultimo periodo del comma 2."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, dopo le parole: "decreto legislativo 13 gennaio 2003, n. 36" sono aggiunte le seguenti: "fino all'emanazione delle relative conclusioni sulle BAT".
 
 All'articolo 29-ter del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, il comma 1 e' sostituito dal seguente: 
  "1. Ai fini dell'esercizio delle nuove installazioni di nuovi impianti, della modifica sostanziale e dell'adeguamento del funzionamento degli impianti delle installazioni esistenti alle disposizioni del presente decreto, si provvede al rilascio dell'autorizzazione integrata ambientale di cui all'articolo 29-sexies. Fatto salvo quanto disposto al comma 4 e ferme restando le informazioni richieste dalla normativa concernente aria, acqua, suolo e rumore, la domanda deve contenere le seguenti informazioni: 
@@ -60,11 +216,171 @@ All'articolo 29-ter del decreto legislativo 3 aprile 2006, n. 152, e successive 
  l) descrizione delle altre misure previste per ottemperare ai principi di cui all'articolo 6, comma 16; 
  m) se l'attivita' comporta l'utilizzo, la produzione o lo scarico di sostanze pericolose e, tenuto conto della possibilita' di contaminazione del suolo e delle acque sotterrane nel sito dell'installazione, una relazione di riferimento elaborata dal gestore prima della messa in esercizio dell'installazione o prima del primo aggiornamento dell'autorizzazione rilasciata, per la quale l'istanza costituisce richiesta di validazione. L'autorita' competente esamina la relazione disponendo nell'autorizzazione o nell'atto di aggiornamento, ove ritenuto necessario ai fini della sua validazione, ulteriori e specifici approfondimenti.".
 
+3.
+                        
+                            
+                                All'articolo 29-quater del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 1 le parole: "Per gli impianti" sono sostituite dalle seguenti: "Per le installazioni"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, e' aggiunto, in fine, il seguente periodo: "Tale consultazione e' garantita anche mediante pubblicazione sul sito internet dell'autorita' competente almeno per quanto riguarda il contenuto della decisione, compresa una copia dell'autorizzazione e degli eventuali successivi aggiornamenti, e gli elementi di cui alle lettere b), e), f) e g) del comma 13."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3 le parole da: "Entro il termine di quindici giorni" fino a: "e trasmettere le osservazioni." sono sostituite dalle seguenti : "Entro il termine di quindici giorni dalla data di avvio del procedimento, l'autorita' competente pubblica nel proprio sito web l'indicazione della localizzazione dell'installazione e il nominativo del gestore, nonche' gli uffici individuati ai sensi del comma 2 ove e' possibile prendere visione degli atti e trasmettere le osservazioni."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 5 e' sostituito dal seguente: 
+ "5. La convocazione da parte dell'autorita' competente, ai fini del rilascio dell'autorizzazione integrata ambientale, di apposita Conferenza di servizi, alla quale sono invitate le amministrazioni competenti in materia ambientale e comunque, nel caso di impianti di competenza statale, i Ministeri dell'interno, del lavoro e delle politiche sociali, della salute e dello sviluppo economico, oltre al soggetto richiedente l'autorizzazione, nonche', per le installazioni di competenza regionale, le altre amministrazioni competenti per il rilascio dei titoli abilitativi richiesti contestualmente al rilascio dell'AIA, ha luogo ai sensi degli articoli 14, 14-ter, commi da 1 a 3 e da 6 a 9, e 14-quater della legge 7 agosto 1990, n. 241, e successive modificazioni. Per le installazioni soggette alle disposizioni di cui al decreto legislativo 17 agosto 1999, n. 334, ferme restando le relative disposizioni, al fine di acquisire gli elementi di valutazione ai sensi dell'articolo 29-sexies, comma 8, e di concordare preliminarmente le condizioni di funzionamento dell'installazione, alla conferenza e' invitato un rappresentante della rispettiva autorita' competente."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 7 e' sostituito dai seguenti: 
+ "6. Nell'ambito della Conferenza dei servizi di cui al comma 5, vengono acquisite le prescrizioni del sindaco di cui agli articoli 216 e 217 del regio decreto 27 luglio 1934, n. 1265, nonche' la proposta dell'Istituto superiore per la protezione e la ricerca ambientale, per le installazioni di competenza statale, o il parere delle Agenzie regionali e provinciali per la protezione dell'ambiente, per le altre installazioni, per quanto riguarda le modalita' di monitoraggio e controllo degli impianti e delle emissioni nell'ambiente. 
+ 7. In presenza di circostanze intervenute successivamente al rilascio dell'autorizzazione di cui al presente titolo, il sindaco, qualora lo ritenga necessario nell'interesse della salute pubblica, puo', con proprio motivato provvedimento, corredato dalla relativa documentazione istruttoria e da puntuali proposte di modifica dell'autorizzazione, chiedere all'autorita' competente di riesaminare l'autorizzazione rilasciata ai sensi dell'articolo 29-octies."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 8 le parole: "il termine di cui al comma 9" sono sostituite dalle seguenti: "il termine di cui al comma 10"; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il comma 9 e' soppresso; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il comma 10 e' sostituito dal seguente: 
+ "10. L'autorita' competente esprime le proprie determinazioni sulla domanda di autorizzazione integrata ambientale entro centocinquanta giorni dalla presentazione della domanda."; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    i commi 11, 12 e 13 sono sostituiti dai seguenti: 
+ "11. Le autorizzazioni integrate ambientali rilasciate ai sensi del presente decreto, sostituiscono ad ogni effetto le autorizzazioni riportate nell'elenco dell'Allegato IX alla Parte Seconda del presente decreto. A tal fine il provvedimento di autorizzazione integrata ambientale richiama esplicitamente le eventuali condizioni, gia' definite nelle autorizzazioni sostituite, la cui necessita' permane. Inoltre le autorizzazioni integrate ambientali sostituiscono la comunicazione di cui all'articolo 216. 
+ 12. Ogni autorizzazione integrata ambientale deve includere le modalita' previste dal presente decreto per la protezione dell'ambiente, nonche', la data entro la quale le prescrizioni debbono essere attuate. 
+ 13. Copia dell'autorizzazione integrata ambientale e di qualsiasi suo successivo aggiornamento, e' messa tempestivamente a disposizione del pubblico, presso l'ufficio di cui al comma 2. Presso il medesimo ufficio sono inoltre rese disponibili: 
+ a) informazioni relative alla partecipazione del pubblico al procedimento; 
+ b) i motivi su cui e' basata la decisione; 
+ c) i risultati delle consultazioni condotte prima dell'adozione della decisione e una spiegazione della modalita' con cui se ne e' tenuto conto nella decisione; 
+ d) il titolo dei documenti di riferimento sulle BAT pertinenti per l'installazione o l'attivita' interessati; 
+ e) il metodo utilizzato per determinare le condizioni di autorizzazione di cui all'articolo 29-sexies, ivi compresi i valori limite di emissione, in relazione alle migliori tecniche disponibili e ai livelli di emissione ivi associati; 
+ f) se e' concessa una deroga ai sensi dell'articolo 29-sexies, comma 10, i motivi specifici della deroga sulla base dei criteri indicati in detto comma e le condizioni imposte; 
+ g) le informazioni pertinenti sulle misure adottate dal gestore, in applicazione dell'articolo 29-sexies, comma 13, al momento della cessazione definitiva delle attivita'; 
+ h) i risultati del controllo delle emissioni, richiesti dalle condizioni di autorizzazione e in possesso dell'autorita' competente.".
+
 L'articolo 29-quinquies del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, e' sostituito dal seguente: 
  "Art. 29-quinquies (Coordinamento per l'uniforme applicazione sul territorio nazionale). - 1. E' istituito, presso il Ministero dell'ambiente e della tutela del territorio e del mare, un Coordinamento tra i rappresentanti di tale Ministero, di ogni regione e provincia autonoma e dell'Unione delle province italiane (UPI).
 Partecipano al Coordinamento rappresentanti dell'ISPRA, nonche', su indicazione della regione o provincia autonoma di appartenenza, rappresentanti delle agenzie regionali e provinciali per la protezione dell'ambiente. Il Coordinamento opera attraverso l'indizione di riunioni periodiche e la creazione di una rete di referenti per lo scambio di dati e di informazioni. 
  2. Il Coordinamento previsto dal comma 1 assicura, anche mediante gruppi di lavoro, l'elaborazione di indirizzi e di linee guida in relazione ad aspetti di comune interesse e permette un esame congiunto di temi connessi all'applicazione del presente Titolo, anche al fine di garantire un'attuazione coordinata e omogenea delle nuove norme e di prevenire le situazioni di inadempimento e le relative conseguenze. 
  3. Ai soggetti che partecipano, a qualsiasi titolo, al Coordinamento previsto al comma 1 non sono corrisposti gettoni, compensi, rimborsi spese o altri emolumenti comunque denominati."
+
+5.
+                        
+                            
+                                All'articolo 29-sexies del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: "decreto deve includere tutte le misure necessarie a soddisfare i requisiti di cui agli articoli 6, comma 15, e 29-septies" sono sostituite dalle seguenti: "decreto, deve includere tutte le misure necessarie a soddisfare i requisiti di cui ai seguenti commi del presente articolo nonche' di cui agli articoli 6, comma 16, e 29-septies"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' soppresso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' sostituito dai seguenti: 
+ "3. L'autorizzazione integrata ambientale deve includere valori limite di emissione fissati per le sostanze inquinanti, in particolare quelle dell'allegato X alla Parte Seconda, che possono essere emesse dall'installazione interessata in quantita' significativa, in considerazione della loro natura e delle loro potenzialita' di trasferimento dell'inquinamento da un elemento ambientale all'altro, acqua, aria e suolo, nonche' i valori limite ai sensi della vigente normativa in materia di inquinamento acustico. I valori limite di emissione fissati nelle autorizzazioni integrate ambientali non possono comunque essere meno rigorosi di quelli fissati dalla normativa vigente nel territorio in cui e' ubicata l'installazione. Se del caso i valori limite di emissione possono essere integrati o sostituiti con parametri o misure tecniche equivalenti. 
+ 3-bis. L'autorizzazione integrata ambientale contiene le ulteriori disposizioni che garantiscono la protezione del suolo e delle acque sotterranee, le opportune disposizioni per la gestione dei rifiuti prodotti dall'impianto e per la riduzione dell'impatto acustico, nonche' disposizioni adeguate per la manutenzione e la verifica periodiche delle misure adottate per prevenire le emissioni nel suolo e nelle acque sotterranee e disposizioni adeguate relative al controllo periodico del suolo e delle acque sotterranee in relazione alle sostanze pericolose che possono essere presenti nel sito e tenuto conto della possibilita' di contaminazione del suolo e delle acque sotterranee presso il sito dell'installazione."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 4 sono inseriti i seguenti: 
+ "4-bis. L'autorita' competente fissa valori limite di emissione che garantiscono che, in condizioni di esercizio normali, le emissioni non superino i livelli di emissione associati alle migliori tecniche disponibili (BAT-AEL) di cui all'articolo 5, comma 1, lettera l-ter.4), attraverso una delle due opzioni seguenti: 
+ a) fissando valori limite di emissione, in condizioni di esercizio normali, che non superano i BAT-AEL, adottino le stesse condizioni di riferimento dei BAT-AEL e tempi di riferimento non maggiori di quelli dei BAT-AEL; 
+ b) fissando valori limite di emissione diversi da quelli di cui alla lettera a) in termini di valori, tempi di riferimento e condizioni, a patto che l'autorita' competente stessa valuti almeno annualmente i risultati del controllo delle emissioni al fine di verificare che le emissioni, in condizioni di esercizio normali, non superino i livelli di emissione associati alle migliori tecniche disponibili. 
+ 4-ter. L'autorita' competente puo' fissare valori limite di emissione piu' rigorosi di quelli di cui al comma 4-bis, se pertinenti, nei seguenti casi: 
+ a) quando previsto dall'articolo 29-septies; 
+ b) quando lo richiede il rispetto della normativa vigente nel territorio in cui e' ubicata l'installazione o il rispetto dei provvedimenti relativi all'installazione non sostituiti dall'autorizzazione integrata ambientale. 
+ 4-quater. I valori limite di emissione delle sostanze inquinanti si applicano nel punto di fuoriuscita delle emissioni dall'installazione e la determinazione di tali valori e' effettuata al netto di ogni eventuale diluizione che avvenga prima di quel punto, tenendo se del caso esplicitamente conto dell'eventuale presenza di fondo della sostanza nell'ambiente per motivi non antropici. Per quanto concerne gli scarichi indiretti di sostanze inquinanti nell'acqua, l'effetto di una stazione di depurazione puo' essere preso in considerazione nella determinazione dei valori limite di emissione dell'installazione interessata, a condizione di garantire un livello equivalente di protezione dell'ambiente nel suo insieme e di non portare a carichi inquinanti maggiori nell'ambiente."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i commi 5, 6, 7 ed 8 sono sostituiti dai seguenti: 
+ "5. L'autorita' competente rilascia l'autorizzazione integrata ambientale osservando quanto specificato nell'articolo 29-bis, commi 1, 2 e 3. In mancanza delle conclusioni sulle BAT l'autorita' competente rilascia comunque l'autorizzazione integrata ambientale secondo quanto indicato al comma 5-ter, tenendo conto di quanto previsto nell'Allegato XI alla Parte Seconda. 
+ 5-bis. Se l'autorita' competente stabilisce condizioni di autorizzazione sulla base di una migliore tecnica disponibile non descritta in alcuna delle pertinenti conclusioni sulle BAT, essa verifica che tale tecnica sia determinata prestando particolare attenzione ai criteri di cui all'Allegato XI alla Parte Seconda, e: 
+ a) qualora le conclusioni sulle BAT applicabili contengano BAT-AEL verifica il rispetto degli obblighi di cui ai commi 4-bis e 9-bis, ovvero 
+ b) qualora le conclusioni sulle BAT applicabili non contengano BAT-AEL verifica che la tecnica garantisca un livello di protezione dell'ambiente non inferiore a quello garantito dalle migliori tecniche disponibili descritte nelle conclusioni sulle BAT. 
+ 5-ter. Se un'attivita', o un tipo di processo di produzione svolto all'interno di un'installazione non e' previsto, ne' da alcuna delle conclusioni sulle BAT, ne' dalle conclusioni sulle migliori tecniche disponibili, tratte dai documenti pubblicati dalla Commissione europea in attuazione dell'articolo 16, paragrafo 2, della direttiva 96/61/CE o dell'articolo 16, paragrafo 2, della direttiva 2008/01/CE o, se queste conclusioni non prendono in considerazione tutti gli effetti potenziali dell'attivita' o del processo sull'ambiente, l'autorita' competente, consultato il gestore, stabilisce le condizioni dell'autorizzazione tenendo conto dei criteri di cui all'Allegato XI. 
+ 6. L'autorizzazione integrata ambientale contiene gli opportuni requisiti di controllo delle emissioni, che specificano, in conformita' a quanto disposto dalla vigente normativa in materia ambientale e basandosi sulle conclusioni sulle BAT applicabili, la metodologia e la frequenza di misurazione, le condizioni per valutare la conformita', la relativa procedura di valutazione, nonche' l'obbligo di comunicare all'autorita' competente periodicamente, ed almeno una volta all'anno, i dati necessari per verificarne la conformita' alle condizioni di autorizzazione ambientale integrata nonche', quando si applica il comma 4-bis, lettera b), una sintesi di detti risultati espressi in un formato che consenta un confronto con i livelli di emissione associati alle migliori tecniche disponibili, rendendo disponibili, a tal fine, anche i risultati del controllo delle emissioni per gli stessi periodi e alle stesse condizioni di riferimento dei livelli di emissione associati alle migliori tecniche disponibili. L'autorizzazione contiene altresi' l'obbligo di comunicare all'autorita' competente e ai comuni interessati, nonche' all'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, i dati relativi ai controlli delle emissioni richiesti dall'autorizzazione integrata ambientale. Tra i requisiti di controllo, l'autorizzazione stabilisce in particolare, nel rispetto del decreto di cui all'articolo 33, comma 3-bis, le modalita' e la frequenza dei controlli programmati di cui all'articolo 29-decies, comma 3. Per gli impianti di competenza statale le comunicazioni di cui al presente comma sono trasmesse per il tramite dell'Istituto superiore per la protezione e la ricerca ambientale. L'autorita' competente in sede di aggiornamento dell'autorizzazione, per fissare i nuovi requisiti di controllo delle emissioni, su richiesta del gestore, tiene conto dei dati di controllo sull'installazione trasmessi per verificarne la conformita' all'autorizzazione e dei dati relativi ai controlli delle emissioni, nonche' dei dati reperiti durante le attivita' di cui all'articolo 29-octies, commi 3 e 4. 
+ 6-bis. Fatto salvo quanto specificato nelle conclusioni sulle BAT applicabili, l'autorizzazione integrata ambientale programma specifici controlli almeno una volta ogni cinque anni per le acque sotterranee e almeno una volta ogni dieci anni per il suolo, a meno che sulla base di una valutazione sistematica del rischio di contaminazione non siano state fissate diverse modalita' o piu' ampie frequenze per tali controlli. 
+ 6-ter. Nell'ambito dei controlli di cui al comma 6 e' espressamente prevista un'attivita' ispettiva presso le installazioni svolta con oneri a carico del gestore dall'autorita' di controllo di cui all'articolo 29-decies, comma 3, e che preveda l'esame di tutta la gamma degli effetti ambientali indotti dalle installazioni interessate. Le Regioni possono prevedere il coordinamento delle attivita' ispettive in materia di autorizzazione integrata ambientale con quelle previste in materia di valutazione di impatto ambientale e in materia di incidenti rilevanti, nel rispetto delle relative normative. 
+ 7. L'autorizzazione integrata ambientale contiene le misure relative alle condizioni diverse da quelle di esercizio normali, in particolare per le fasi di avvio e di arresto dell'installazione, per le emissioni fuggitive, per i malfunzionamenti, e per l'arresto definitivo dell'installazione. L'autorizzazione puo', tra l'altro, ferme restando le diverse competenze in materia di autorizzazione alla demolizione e alla bonifica dei suoli, disciplinare la pulizia, la protezione passiva e la messa in sicurezza di parti dell'installazione per le quali il gestore dichiari non essere previsto il funzionamento o l'utilizzo durante la durata dell'autorizzazione stessa. Gli spazi liberabili con la rimozione di tali parti di impianto sono considerati disponibili alla realizzazione delle migliori tecniche disponibili negli stretti tempi tecnici e amministrativi necessari alla demolizione e, se del caso, alla bonifica. 
+ 7-bis. Fermo restando quanto prescritto agli articoli 237-sexies, comma 1, lettera e), e 237-octiedecies per gli impianti di incenerimento o coincenerimento, e' facolta' dell'autorita' competente, considerata la stabilita' d'esercizio delle tecniche adottate, l'affidabilita' dei controlli e la mancata contestazione al gestore, nel periodo di validita' della precedente autorizzazione, di violazioni relative agli obblighi di comunicazione, indicare preventivamente nell'autorizzazione il numero massimo, la massima durata e la massima intensita' (comunque non eccedente il 20 per cento) di superamenti dei valori limite di emissione di cui al comma 4-bis, dovuti ad una medesima causa, che possono essere considerati, nel corso di validita' dell'autorizzazione stessa, situazioni diverse dal normale esercizio e nel contempo non rientrare tra le situazioni di incidente o imprevisti, disciplinate dall'articolo 29-undecies. 
+ 8. Per le installazioni assoggettate al decreto legislativo del 17 agosto 1999, n. 334, l'autorita' competente ai sensi di tale decreto trasmette all'autorita' competente per il rilascio dell'autorizzazione integrata ambientale le piu' recenti valutazioni assunte e i provvedimenti adottati, alle cui prescrizioni ai fini della sicurezza e della prevenzione dei rischi di incidenti rilevanti, citate nella autorizzazione, sono armonizzate le condizioni dell'autorizzazione integrata ambientale."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comma 9 e' sostituito dai seguenti: 
+ "9. L'autorizzazione integrata ambientale puo' contenere ulteriori condizioni specifiche ai fini del presente decreto, giudicate opportune dell'autorita' competente. Ad esempio, fermo restando l'obbligo di immediato rispetto dei precedenti commi e in particolare del comma 4-bis, l'autorizzazione puo' disporre la redazione di progetti migliorativi, da presentare ai sensi del successivo articolo 29-nonies, ovvero il raggiungimento di determinate ulteriori prestazioni ambientali in tempi fissati, impegnando il gestore ad individuare le tecniche da implementare a tal fine. In tale ultimo caso, fermo restando l'obbligo di comunicare i miglioramenti progettati, le disposizioni di cui all'articolo 29-nonies non si applicano alle modifiche strettamente necessarie ad adeguare la funzionalita' degli impianti alle prescrizioni dell'autorizzazione integrata ambientale. 
+ 9-bis. In casi specifici l'autorita' competente puo' fissare valori limite di emissione meno severi di quelli discendenti dall'applicazione del comma 4-bis, a condizione che una valutazione dimostri che porre limiti di emissione corrispondenti ai 'livelli di emissione associati alle migliori tecniche disponibili' comporterebbe una maggiorazione sproporzionata dei costi rispetto ai benefici ambientali, in ragione dell'ubicazione geografica e delle condizioni ambientali locali dell'istallazione interessata e delle caratteristiche tecniche dell'istallazione interessata. In tali casi l'autorita' competente documenta, in uno specifico allegato all'autorizzazione, le ragioni di tali scelta, illustrando il risultato della valutazione e la giustificazione delle condizioni imposte. I valori limite di emissione cosi' fissati non superano, in ogni caso, i valori limite di emissione di cui agli allegati del presente decreto, laddove applicabili. Ai fini della predisposizione di tale allegato si fa riferimento alle linee guida di cui all'Allegato XII-bis alla Parte Seconda. Tale Allegato e' aggiornato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare entro sei mesi dall'emanazione, da parte della Commissione europea, di eventuali linee guida comunitarie in materia, per garantire la coerenza con tali linee guida comunitarie. L'autorita' competente verifica comunque l'applicazione dei principi di cui all'articolo 6, comma 16, e in particolare che non si verifichino eventi inquinanti di rilievo e che si realizzi nel complesso un elevato grado di tutela ambientale. L'applicazione del presente comma deve essere espressamente riverificata e riconfermata in occasione di ciascun pertinente riesame dell'autorizzazione. 
+ 9-ter. L'autorita' competente puo' accordare deroghe temporanee alle disposizioni del comma 4-bis e 5-bis e dell'articolo 6, comma 16, lettera a), in caso di sperimentazione e di utilizzo di tecniche emergenti per un periodo complessivo non superiore a nove mesi, a condizione che dopo il periodo specificato tale tecnica sia sospesa o che le emissioni dell'attivita' raggiungano almeno i livelli di emissione associati alle migliori tecniche disponibili. 
+ 9-quater. Nel caso delle installazioni di cui al punto 6.6 dell'Allegato VIII alla Parte Seconda, il presente articolo si applica fatta salva la normativa in materia di benessere degli animali. 
+ 9-quinquies. Fatto salvo quanto disposto alla Parte Terza ed al Titolo V della Parte Quarta del presente decreto, l'autorita' competente stabilisce condizioni di autorizzazione volte a garantire che il gestore: 
+ a) quando l'attivita' comporta l'utilizzo, la produzione o lo scarico di sostanze pericolose, tenuto conto della possibilita' di contaminazione del suolo e delle acque sotterranee nel sito dell'installazione, elabori e trasmetta per validazione all'autorita' competente la relazione di riferimento di cui all'articolo 5, comma 1, lettera v-bis), prima della messa in servizio della nuova installazione o prima dell'aggiornamento dell'autorizzazione rilasciata per l'installazione esistente; 
+ b) al momento della cessazione definitiva delle attivita', valuti lo stato di contaminazione del suolo e delle acque sotterranee da parte di sostanze pericolose pertinenti usate, prodotte o rilasciate dall'installazione; 
+ c) qualora dalla valutazione di cui alla lettera b) risulti che l'installazione ha provocato un inquinamento significativo del suolo o delle acque sotterranee con sostanze pericolose pertinenti, rispetto allo stato constatato nella relazione di riferimento di cui alla lettera a), adotti le misure necessarie per rimediare a tale inquinamento in modo da riportare il sito a tale stato, tenendo conto della fattibilita' tecnica di dette misure; 
+ d) fatta salva la lettera c), se, tenendo conto dello stato del sito indicato nell'istanza, al momento della cessazione definitiva delle attivita' la contaminazione del suolo e delle acque sotterranee nel sito comporta un rischio significativo per la salute umana o per l'ambiente in conseguenza delle attivita' autorizzate svolte dal gestore anteriormente al primo aggiornamento dell'autorizzazione per l'installazione esistente, esegua gli interventi necessari ad eliminare, controllare, contenere o ridurre le sostanze pericolose pertinenti in modo che il sito, tenuto conto dell'uso attuale o dell'uso futuro approvato, cessi di comportare detto rischio; 
+ e) se non e' tenuto ad elaborare la relazione di riferimento di cui alla lettera a), al momento della cessazione definitiva delle attivita' esegua gli interventi necessari ad eliminare, controllare, contenere o ridurre le sostanze pericolose pertinenti in modo che il sito, tenuto conto dell'uso attuale o dell'uso futuro approvato del medesimo non comporti un rischio significativo per la salute umana o per l'ambiente a causa della contaminazione del suolo o delle acque sotterranee in conseguenza delle attivita' autorizzate, tenendo conto dello stato del sito di ubicazione dell'installazione indicato nell'istanza. 
+ 9-sexies. Con uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio e del mare sono stabilite le modalita' per la redazione della relazione di riferimento di cui all'articolo 5, comma 1, lettera v-bis), con particolare riguardo alle metodiche di indagine ed alle sostanze pericolose da ricercare con riferimento alle attivita' di cui all'Allegato VIII alla Parte Seconda. 
+ 9-septies. A garanzia degli obblighi di cui alla lettera c del comma 9-quinquies, l'autorizzazione integrata ambientale prevede adeguate garanzie finanziarie, da prestare entro 12 mesi dal rilascio in favore della regione o della provincia autonoma territorialmente competente. Con uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio e del mare sono stabiliti criteri che l'autorita' competente dovra' tenere in conto nel determinare l'importo di tali garanzie finanziarie.".
 
 L'articolo 29-septies del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, e' sostituito dal seguente: 
  "Art. 29-septies (Migliori tecniche disponibili e norme di qualita' ambientale). - 1. Nel caso in cui uno strumento di programmazione o di pianificazione ambientale, quali ad esempio il piano di tutela delle acque, o la pianificazione in materia di emissioni in atmosfera, considerate tutte le sorgenti emissive coinvolte, riconosca la necessita' di applicare ad impianti, localizzati in una determinata area, misure piu' rigorose di quelle ottenibili con le migliori tecniche disponibili, al fine di assicurare in tale area il rispetto delle norme di qualita' ambientale, l'amministrazione ambientale competente, per installazioni di competenza statale, o la stessa autorita' competente, per le altre installazioni, lo rappresenta in sede di conferenza di servizi di cui all'articolo 29-quater, comma 5. 
@@ -91,6 +407,84 @@ L'articolo 29-octies del decreto legislativo 3 aprile 2006, n. 152, e successive
  9. Nel caso di un'installazione che, all'atto del rilascio dell'autorizzazione di cui all'articolo 29-quater, risulti certificato secondo la norma UNI EN ISO 14001, il termine di cui al comma 3, lettera b), e' esteso a dodici anni. Se la certificazione ai sensi della predetta norma e' successiva all'autorizzazione di cui all'articolo 29-quater, il riesame di detta autorizzazione e' effettuato almeno ogni dodici anni, a partire dal primo successivo riesame. 
  10. Il procedimento di riesame e' condotto con le modalita' di cui agli articoli 29-ter, comma 4, e 29-quater. In alternativa alle modalita' di cui all'articolo 29-quater, comma 3, la partecipazione del pubblico alle decisioni puo' essere assicurata attraverso la pubblicazione nel sito web istituzionale dell'autorita' competente. 
  11. Fino alla pronuncia dell'autorita' competente in merito al riesame, il gestore continua l'attivita' sulla base dell'autorizzazione in suo possesso.".
+
+8.
+                        
+                            
+                                All'articolo 29-nonies del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ "3. Il gestore, esclusi i casi disciplinati ai commi 1 e 2, informa l'autorita' competente e l'autorita' di controllo di cui all'articolo 29-decies, comma 3, in merito ad ogni nuova istanza presentata per l'installazione ai sensi della normativa in materia di prevenzione dai rischi di incidente rilevante, ai sensi della normativa in materia di valutazione di impatto ambientale o ai sensi della normativa in materia urbanistica. La comunicazione, da effettuare prima di realizzare gli interventi, specifica gli elementi in base ai quali il gestore ritiene che gli interventi previsti non comportino ne' effetti sull'ambiente, ne' contrasto con le prescrizioni esplicitamente gia' fissate nell'autorizzazione integrata ambientale."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4 dopo le parole: "anche nelle forme dell'autocertificazione" sono aggiunte, in fine, le seguenti: "ai fini della volturazione dell'autorizzazione integrata ambientale.".
+
+9.
+                        
+                            
+                                All'articolo 29-decies del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ "2. A far data dall'invio della comunicazione di cui al comma 1, il gestore trasmette all'autorita' competente e ai comuni interessati, nonche' all'ente responsabile degli accertamenti di cui al comma 3, i dati relativi ai controlli delle emissioni richiesti dall'autorizzazione integrata ambientale, secondo modalita' e frequenze stabilite nell'autorizzazione stessa. L'autorita' competente provvede a mettere tali dati a disposizione del pubblico tramite gli uffici individuati ai sensi dell'articolo 29-quater, comma 3, ovvero mediante pubblicazione sul sito internet dell'autorita' competente ai sensi dell'articolo 29-quater, comma 2.
+Il gestore provvede, altresi', ad informare immediatamente i medesimi soggetti in caso di violazione delle condizioni dell'autorizzazione, adottando nel contempo le misure necessarie a ripristinare nel piu' breve tempo possibile la conformita'."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3 le parole: ", o le agenzie regionali e provinciali per la protezione dell'ambiente, negli altri casi, accertano" sono sostituite dalle seguenti: " , o, negli altri casi, l'autorita' competente, avvalendosi delle agenzie regionali e provinciali per la protezione dell'ambiente, accertano"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 5 e' sostituito dal seguente: 
+ "5. Al fine di consentire le attivita' di cui ai commi 3 e 4, il gestore deve fornire tutta l'assistenza necessaria per lo svolgimento di qualsiasi verifica tecnica relativa all'impianto, per prelevare campioni e per raccogliere qualsiasi informazione necessaria ai fini del presente decreto. A tal fine, almeno dopo ogni visita in loco, il soggetto che effettua gli accertamenti redige una relazione che contiene i pertinenti riscontri in merito alla conformita' dell'installazione alle condizioni di autorizzazione e le conclusioni riguardanti eventuali azioni da intraprendere. La relazione e' notificata al gestore interessato e all'autorita' competente entro due mesi dalla visita in loco ed e' resa disponibile al pubblico, conformemente al comma 8, entro quattro mesi dalla visita in loco.
+Fatto salvo il comma 9, l'autorita' competente provvede affinche' il gestore, entro un termine ragionevole, adotti tutte le ulteriori misure che ritiene necessarie, tenendo in particolare considerazione quelle proposte nella relazione."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 9 e' sostituito dal seguente: 
+ "9. In caso di inosservanza delle prescrizioni autorizzatorie o di esercizio in assenza di autorizzazione, ferma restando l'applicazione delle sanzioni e delle misure di sicurezza di cui all'articolo 29-quattuordecies, l'autorita' competente procede secondo la gravita' delle infrazioni: 
+ a) alla diffida, assegnando un termine entro il quale devono essere eliminate le inosservanze, nonche' un termine entro cui, fermi restando gli obblighi del gestore in materia di autonoma adozione di misure di salvaguardia, devono essere applicate tutte le appropriate misure provvisorie o complementari che l'autorita' competente ritenga necessarie per ripristinare o garantire provvisoriamente la conformita'; 
+ b) alla diffida e contestuale sospensione dell'attivita' per un tempo determinato, ove si manifestino situazioni, o nel caso in cui le violazioni siano comunque reiterate piu' di due volte all'anno; 
+ c) alla revoca dell'autorizzazione e alla chiusura dell'installazione, in caso di mancato adeguamento alle prescrizioni imposte con la diffida e in caso di reiterate violazioni che determinino situazioni di pericolo o di danno per l'ambiente; 
+ d) alla chiusura dell'installazione, nel caso in cui l'infrazione abbia determinato esercizio in assenza di autorizzazione."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo il comma 11 sono aggiunti i seguenti: 
+ "11-bis. Le attivita' ispettive in sito di cui all'articolo 29-sexies, comma 6-ter, e di cui al comma 4 sono definite in un piano d'ispezione ambientale a livello regionale, periodicamente aggiornato a cura della Regione o della Provincia autonoma, sentito il Ministero dell'ambiente e della tutela del territorio e del mare, per garantire il coordinamento con quanto previsto nelle autorizzazioni integrate statali ricadenti nel territorio, e caratterizzato dai seguenti elementi: 
+ a) un'analisi generale dei principali problemi ambientali pertinenti; 
+ b) la identificazione della zona geografica coperta dal piano d'ispezione; 
+ c) un registro delle installazioni coperte dal piano; 
+ d) le procedure per l'elaborazione dei programmi per le ispezioni ambientali ordinarie; 
+ e) le procedure per le ispezioni straordinarie, effettuate per indagare nel piu' breve tempo possibile e, se necessario, prima del rilascio, del riesame o dell'aggiornamento di un'autorizzazione, le denunce ed i casi gravi di incidenti, di guasti e di infrazione in materia ambientale; 
+ f) se necessario, le disposizioni riguardanti la cooperazione tra le varie autorita' d'ispezione. 
+ 11-ter. Il periodo tra due visite in loco non supera un anno per le installazioni che presentano i rischi piu' elevati, tre anni per le installazioni che presentano i rischi meno elevati, sei mesi per installazioni per le quali la precedente ispezione ha evidenziato una grave inosservanza delle condizioni di autorizzazione. Tale periodo e' determinato, tenendo conto delle procedure di cui al comma 11-bis, lettera d), sulla base di una valutazione sistematica effettuata dalla Regione o dalla Provincia autonoma sui rischi ambientali delle installazioni interessate, che considera almeno: 
+ a) gli impatti potenziali e reali delle installazioni interessate sulla salute umana e sull'ambiente, tenendo conto dei livelli e dei tipi di emissioni, della sensibilita' dell'ambiente locale e del rischio di incidenti; 
+ b) il livello di osservanza delle condizioni di autorizzazione; 
+ c) la partecipazione del gestore al sistema dell'Unione di ecogestione e audit (EMAS) (a norma del regolamento (CE) n. 1221/2009).".
 
 L'articolo 29-undecies del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, e' sostituito dal seguente: 
  "Art. 29-undecies (Incidenti o imprevisti). - 1. Fatta salva la disciplina relativa alla responsabilita' ambientale in materia di prevenzione e riparazione del danno ambientale, in caso di incidenti o eventi imprevisti che incidano in modo significativo sull'ambiente, il gestore informa immediatamente l'autorita' competente e l'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, e adotta immediatamente le misure per limitare le conseguenze ambientali e a prevenire ulteriori eventuali incidenti o eventi imprevisti, informandone l'autorita' competente. 
@@ -135,6 +529,26 @@ All'articolo 30 del decreto legislativo 3 aprile 2006, n. 152, e successive modi
 
 ## Art. 9. — Modifiche all'articolo 33 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
+1.
+                        
+                            
+                                All'articolo 33 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 3-bis e' sostituito dal seguente: 
+ "3-bis. Le spese occorrenti per effettuare i rilievi, gli accertamenti ed i sopralluoghi necessari per l'istruttoria delle domande di autorizzazione integrata ambientale o delle domande di modifica di cui all'articolo 29-nonies o del riesame di cui all'articolo 29-octies e per i successivi controlli previsti dall'articolo 29-decies sono a carico del gestore. Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico e con il Ministro dell'economia e delle finanze, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono disciplinate le modalita', anche contabili, e le tariffe da applicare in relazione alle istruttorie e ai controlli previsti al Titolo III-bis della Parte Seconda, nonche' i compensi spettanti ai membri della Commissione istruttoria di cui all'articolo 8-bis. Il predetto decreto stabilisce altresi' le modalita' volte a garantire l'allineamento temporale tra gli introiti derivanti dalle tariffe e gli oneri derivanti dalle attivita' istruttorie e di controllo. Gli oneri per l'istruttoria e per i controlli sono quantificati in relazione alla complessita' delle attivita' svolte dall'autorita' competente e dall'ente responsabile degli accertamenti di cui all'articolo 29-decies, comma 3, sulla base delle categorie di attivita' condotte nell'installazione, del numero e della tipologia delle emissioni e delle componenti ambientali interessate, nonche' della eventuale presenza di sistemi di gestione ambientale registrati o certificati e delle spese di funzionamento della commissione di cui all'articolo 8-bis. Gli introiti derivanti dalle tariffe corrispondenti a tali oneri, posti a carico del gestore, sono utilizzati esclusivamente per le predette spese. A tale fine gli importi delle tariffe istruttorie vengono versati, per installazioni di cui all'Allegato XII alla Parte Seconda, all'entrata del bilancio dello Stato per essere integralmente riassegnati allo stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare. Con gli stessi criteri e modalita' di emanazione, le tariffe sono aggiornate almeno ogni due anni."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3-ter e' sostituito dal seguente: 
+ "3-ter. Nelle more del decreto di cui al comma 3-bis, resta fermo quanto stabilito dal decreto 24 aprile 2008, pubblicato nella Gazzetta Ufficiale del 22 settembre 2008.".
+
 ## Art. 10. — Modifiche all'articolo 35 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
 All'articolo 35, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, i commi 2-quater e 2-quinquies sono sostituiti dai seguenti: 
@@ -143,6 +557,64 @@ All'articolo 35, del decreto legislativo 3 aprile 2006, n. 152, e successive mod
 
 ## Art. 11. — Coordinamento delle previgenti norme sanzionatorie
 
+1.
+                        
+                            
+                                All'articolo 133 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole: "salvo che il fatto costituisca reato" sono inserite le seguenti: "e fuori dai casi sanzionati ai sensi dell'articolo 29-quattuordecies, commi 2 e 3,"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3, dopo le parole: "al di fuori delle ipotesi di cui al comma 1" sono inserite le seguenti: "e di cui all'articolo 29-quattuordecies, comma 2,".
+
+2.
+                        
+                            
+                                All'articolo 137 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'inizio del comma 1, sono inserite le seguenti parole: "Fuori dai casi sanzionati ai sensi dell'articolo 29-quattuordecies, comma 1,"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2 sono aggiunte, in fine, le seguenti parole: "e dell'ammenda da 5.000 euro a 52.000 euro"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, dopo le parole: "al di fuori delle ipotesi di cui al comma 5" sono inserite le seguenti: "o di cui all'articolo 29-quattuordecies, comma 3,"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'inizio del comma 5, sono inserite le seguenti parole: "Salvo che il fatto costituisca piu' grave reato. 
+ 3. All'articolo 256 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ a) all'inizio del comma 1, sono inserite le seguenti parole: "Fuori dai casi sanzionati ai sensi dell'articolo 29-quattuordecies, comma 1,"; 
+ b) all'inizio del comma 3, sono inserite le seguenti parole: "Fuori dai casi sanzionati ai sensi dell'articolo 29-quattuordecies, comma 1,": 
+ 4. All'articolo 279 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ a) all'inizio del comma 1, sono inserite le seguenti parole: "Fuori dai casi per cui trova applicazione l'articolo 6, comma 13, cui eventuali sanzioni sono applicate ai sensi dell'articolo 29-quattuordecies,"; 
+ b) all'inizio del comma 3, sono inserite le seguenti parole: "Fuori dai casi sanzionati ai sensi dell'articolo 29-quattuordecies, comma 7,"; 
+ c) all'inizio del comma 4, sono inserite le seguenti parole: "Fuori dai casi sanzionati ai sensi dell'articolo 29-quattuordecies, comma 8,". 
+ 5. All'articolo 296 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, all'inizio del comma 1 sono inserite le seguenti parole: "Fuori dai casi sanzionati ai sensi dell'articolo 29-quattuordecies, comma 4,".
+
 ## Art. 12. — Modifiche all'articolo 196 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
 All'articolo 196, comma 1, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, le lettere d) ed e) sono sostituite dalle seguenti: 
@@ -150,6 +622,40 @@ All'articolo 196, comma 1, del decreto legislativo 3 aprile 2006, n. 152, e succ
  e) l'autorizzazione all'esercizio delle operazioni di smaltimento e recupero di rifiuti, anche pericolosi, fatte salve le competenze statali di cui all'articolo 7, comma 4-bis;".
 
 ## Art. 13. — Modifiche all'articolo 208 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
+
+1.
+                        
+                            
+                                All'articolo 208 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ "2. Per le installazioni di cui all'articolo 6, comma 13, l'autorizzazione integrata ambientale sostituisce l'autorizzazione di cui al presente articolo. A tal fine, in relazione alle attivita' di smaltimento o di recupero dei rifiuti: 
+ a) ove un provvedimento di cui al presente articolo sia stato gia' emanato, la domanda di autorizzazione integrata ambientale ne riporta gli estremi; 
+ b) se l'istanza non riguarda esclusivamente il rinnovo o l'adeguamento dell'autorizzazione all'esercizio, prevedendo invece nuove realizzazioni o modifiche, la partecipazione alla conferenza di servizi di cui all'articolo 29-quater, comma 5, e' estesa a tutti i partecipanti alla conferenza di servizio di cui all'articolo 208, comma 3; 
+ c) la Regione, o l'autorita' da essa delegata, specifica in conferenza le garanzie finanziarie da richiedere ai sensi dell'articolo 208, comma 11, lettera g); 
+ d) i contenuti dell'AIA sono opportunamente integrati con gli elementi di cui all'articolo 208, comma 11; 
+ e) le garanzie finanziarie di cui all'articolo 208, comma 11, sono prestate a favore della Regione, o dell'autorita' da essa delegata alla gestione della materia; 
+ f) la comunicazione di cui all'articolo 208, comma 18, e' effettuata dall'amministrazione che rilascia l'autorizzazione integrata ambientale; 
+ g) la comunicazione di cui all'articolo 208, comma 19, e' effettuata dal soggetto pubblico che accerta l'evento incidente."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 208, comma 12, prima delle parole: "L'autorizzazione di cui al comma 1" sono inserite le seguenti: "Salva l'applicazione dell'articolo 29-octies per le installazioni di cui all'articolo 6, comma 13,"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 208, dopo il comma 12, e' inserito il seguente: 
+ "12-bis. Per impianti di smaltimento o di recupero di rifiuti ricompresi in un'installazione di cui all'articolo 6, comma 13, il rinnovo, l'aggiornamento e il riesame dell'autorizzazione di cui al presente articolo sono disciplinati dal Titolo III-bis della Parte Seconda, previa estensione delle garanzie finanziarie gia' prestate.".
 
 ## Art. 14. — Modifiche all'articolo 209 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -384,16 +890,215 @@ All'articolo 263 del decreto legislativo 3 aprile 2006, n. 152, dopo il comma 1 
 
 ## Art. 18. — Modifiche all'articolo 267 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
+1.
+                        
+                            
+                                All'articolo 267 del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2 le parole: "all'articolo 208. I valori limite e le prescrizioni sono stabiliti, per gli impianti di incenerimento e coincenerimento, sulla base del decreto legislativo 11 maggio 2005, n. 133, e dei piani regionali" sono sostituite dalle seguenti: "all'articolo 208 o nell'autorizzazione integrata ambientale di cui al Titolo III-bis alla Parte Seconda. I valori limite e le prescrizioni sono stabiliti, per gli impianti di incenerimento e coincenerimento sulla base del Titolo III-bis della Parte Quarta e dei piani regionali."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente: 
+ "3. Resta fermo, per le installazioni sottoposte ad autorizzazione integrata ambientale, quanto previsto al Titolo III-bis della Parte Seconda; per tali installazioni l'autorizzazione alle emissioni prevista dal presente Titolo non e' richiesta in quanto sostituita dall'autorizzazione integrata ambientale.".
+
 ## Art. 19. — Modifiche all'articolo 268 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
+1.
+                        
+                            
+                                All'articolo 268, comma 1, del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera b) e' sostituita dalla seguente: 
+ "b) emissione in atmosfera: qualsiasi sostanza solida, liquida o gassosa introdotta nell'atmosfera che possa causare inquinamento atmosferico e, per le attivita' di cui all'articolo 275, qualsiasi scarico, diretto o indiretto, di COV nell'ambiente;"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera m-bis) e' sostituita dalla seguente: 
+ "m-bis) modifica sostanziale: modifica che comporta un aumento o una variazione qualitativa delle emissioni o che altera le condizioni di convogliabilita' tecnica delle stesse e che possa produrre effetti negativi e significativi sull'ambiente; per gli impianti di cui all'articolo 273 si applica la definizione prevista dall'articolo 5, comma 1, lettera l-bis); per le attivita' di cui all'articolo 275 si applicano le definizioni previste ai commi 21e 22 di tale articolo;"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la lettera n) e' sostituita dalla seguente: 
+ "n) gestore: la persona fisica o giuridica che ha potere decisionale circa l'installazione o l'esercizio dello stabilimento e che e' responsabile dell'applicazione dei limiti e delle prescrizioni disciplinate nel presente decreto; per gli impianti di cui all'articolo 273 e per le attivita' di cui all'articolo 275 si applica la definizione prevista all'articolo 5, comma 1, lettera r-bis);"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la lettera o) e' sostituita dalla seguente: 
+ "o) autorita' competente: la regione o la provincia autonoma o la diversa autorita' indicata dalla legge regionale quale autorita' competente al rilascio dell'autorizzazione alle emissioni e all'adozione degli altri provvedimenti previsti dal presente titolo; per gli stabilimenti sottoposti ad autorizzazione integrata ambientale e per gli adempimenti a questa connessi, l'autorita' competente e' quella che rilascia tale autorizzazione;"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la lettera p) e' sostituita dalla seguente: 
+ "p) autorita' competente per il controllo: l'autorita' a cui la legge regionale attribuisce il compito di eseguire in via ordinaria i controlli circa il rispetto dell'autorizzazione e delle disposizioni del presente titolo, ferme restando le competenze degli organi di polizia giudiziaria; in caso di stabilimenti soggetti ad autorizzazione alle emissioni tale autorita' coincide, salvo diversa indicazione della legge regionale, con quella di cui alla lettera o); per stabilimenti sottoposti ad autorizzazione integrata ambientale e per i controlli a questa connessi, l'autorita' competente per il controllo e' quella prevista dalla normativa che disciplina tale autorizzazione;" 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alla lettera aa) e' aggiunto, in fine il seguente periodo: 
+ "Per gli impianti di cui all'articolo 273 e per le attivita' di cui all'articolo 275 si applica la definizione prevista all'articolo 5, comma 1, lettera l-ter)."; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    dopo la lettera aa) e' inserita la seguente: 
+ "aa-bis) ore operative: il tempo, espresso in ore, durante il quale un grande impianto di combustione e', in tutto o in parte, e' in esercizio e produce emissioni in atmosfera, esclusi i periodi di avviamento e di arresto."; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la lettera gg) e' sostituita dalla seguente: 
+ "gg) grande impianto di combustione: impianto di combustione di potenza termica nominale non inferiore a 50MW. Un grande impianto di combustione e' classificato come: 
+ 1) anteriore al 2013: il grande impianto di combustione che ha ottenuto un'autorizzazione prima del 7 gennaio 2013 o per cui e' stata presentata una domanda completa di autorizzazione entro tale data, a condizione che sia messo in servizio entro il 7 gennaio 2014; 
+ 2) anteriore al 2002: il grande impianto di combustione che ha ottenuto un'autorizzazione prima del 27 novembre 2002 o per cui e' stata presentata una domanda completa di autorizzazione prima di tale data, a condizione che sia stato messo in esercizio entro il 27 novembre 2003; 
+ 3) nuovo: il grande impianto di combustione che non ricade nella definizione di cui ai numeri 2) e 3);"; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alla lettera qq) le parole: "al fine di essere alla stessa destinati" sono soppresse.
+
 ## Art. 20. — Modifiche agli articoli 269 e 270 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
+
+1.
+                        
+                            
+                                All'articolo 269, del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 5 il secondo periodo e' soppresso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 8, le parole: "Per modifica sostanziale si intende quella che comporta un aumento o una variazione qualitativa delle emissioni o che altera le condizioni di convogliabilita' tecnica delle stesse." sono soppresse.
 
 All'articolo 270 del decreto legislativo 3 aprile 2006, n. 152, dopo il comma 8 e' aggiunto, in fine, il seguente: 
  "8-bis. Il presente articolo si applica anche ai grandi impianti di combustione, fermo restando quanto previsto all'articolo 273, commi 9 e 10.".
 
 ## Art. 21. — Modifiche all'articolo 271 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
+1.
+                        
+                            
+                                All'articolo 271 del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 16 le parole: "Per gli impianti sottoposti" sono sostituite dalle seguenti: "Per le installazioni sottoposte"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 17, le parole: "delle autorizzazioni integrate ambientali e" sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 18, le parole: "e delle autorizzazioni integrate ambientali" sono soppresse.
+
 ## Art. 22. — Modifiche all'articolo 273 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
+
+1.
+                        
+                            
+                                All'articolo 273 del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i commi 2, 3, 4, 5, 6 e 7 sono sostituiti dai seguenti: 
+ "2. Ai grandi impianti di combustione nuovi si applicano i pertinenti valori limite di emissione di cui alla Parte II, sezioni da 1 a 6, dell'Allegato II alla Parte Quinta. 
+ 3. Ai grandi impianti di combustione anteriori al 2013 i pertinenti valori limite di emissione di cui alla Parte II, sezioni da 1 a 6, dell'Allegato II alla Parte Quinta si applicano a partire dal 1° gennaio 2016. Ai grandi impianti di combustione che hanno ottenuto l'esenzione prevista all'Allegato II, Parte I, paragrafo 2, alla Parte Quinta si applicano, in caso di esercizio dal 1° gennaio 2016, i valori limite di emissione previsti dal comma 2 per gli impianti nuovi. Le vigenti autorizzazioni sono entro tale data adeguate alle disposizioni del presente articolo nell'ambito delle ordinarie procedure di rinnovo periodico ovvero, se nessun rinnovo periodico e' previsto entro tale data, a seguito di una richiesta di aggiornamento presentata dal gestore entro il 1° gennaio 2015 ai sensi dell'articolo 29-nonies. Fatto salvo quanto disposto dalla parte seconda del presente decreto, tali autorizzazioni continuano, nelle more del loro adeguamento, a costituire titolo all'esercizio fino al 1° gennaio 2016. Le autorizzazioni rilasciate in sede di rinnovo non possono stabilire valori limite meno severi di quelli previsti dalle autorizzazioni soggette al rinnovo, ferma restando l'istruttoria relativa alle domande di modifica degli impianti; 
+ 4. L'autorizzazione puo' consentire che, nel periodo compreso tra il 1° gennaio 2016 ed il 31 dicembre 2023, gli impianti di combustione di cui al comma 3 siano in esercizio per un numero di ore operative pari o inferiore a 17.500 senza rispettare i valori limite di emissione di cui al comma 3, ove ricorrano le seguenti condizioni: 
+ a) il gestore dell'impianto presenta all'autorita' competente, entro il 30 giugno 2014, nell'ambito delle ordinarie procedure di rinnovo periodico dell'autorizzazione ovvero, se nessun rinnovo periodico e' previsto entro tale data, nell'ambito di una richiesta di aggiornamento presentata ai sensi dell'articolo 29-nonies, una dichiarazione scritta contenente l'impegno a non far funzionare l'impianto per piu' di 17.500 ore operative tra il 1° gennaio 2016 ed il 31 dicembre 2023, informandone contestualmente il Ministero dell'ambiente e della tutela del territorio e del mare; 
+ b) entro il 31 maggio di ogni anno, a partire dal 2017, il gestore presenta all'autorita' competente e, comunque, al Ministero dell'ambiente e della tutela del territorio e del mare un documento in cui e' riportata la registrazione delle ore operative utilizzate dal 1° gennaio 2016; 
+ c) nel periodo compreso tra il 1° gennaio 2016 ed il 31 dicembre 2023 si applicano valori limite di emissione non meno severi di quelli che l'impianto deve rispettare alla data del 31 dicembre 2015 ai sensi dell'autorizzazione, del presente Titolo e del Titolo III-bis alla Parte Seconda; 
+ d) l'impianto non ha ottenuto l'esenzione prevista all'Allegato II, parte I, paragrafo 2, alla Parte Quinta. 
+ 4-bis. Se l'esenzione prevista dal comma 4 e' concessa ad impianti di combustione con potenza termica nominale totale superiore a 500 MW alimentati con combustibili solidi, autorizzati per la prima volta dopo il 1° luglio 1987, devono essere in tutti i casi rispettati, nel periodo compreso tra il 1° gennaio 2016 ed il 31 dicembre 2023, i valori limite previsti per gli ossidi azoto all'Allegato II, Parte II, alla Parte Quinta. 
+ 5. L'autorizzazione puo' consentire che, nel periodo compreso tra il 1° gennaio 2016 ed il 31 dicembre 2023, gli impianti di combustione anteriori al 2002 con potenza termica nominale totale non superiore a 200 MW siano in esercizio senza rispettare i valori limite di emissione di cui al comma 3, ove ricorrano le seguenti condizioni: 
+ a) almeno il 50 per cento della produzione di calore utile dell'impianto, calcolata come media mobile su ciascun periodo di cinque anni a partire dal quinto anno antecedente l'autorizzazione, e' fornito ad una rete pubblica di teleriscaldamento sotto forma di vapore o di acqua calda; il gestore e' tenuto a presentare all'autorita' competente e, comunque, al Ministero dell'ambiente e della tutela del territorio e del mare, entro il 31 maggio di ogni anno, a partire dal 2017, un documento in cui e' indicata la percentuale di produzione di calore utile dell'impianto destinata a tale fornitura; 
+ b) nel periodo compreso tra il 1° gennaio 2016 ed il 31 dicembre 2023 si applicano valori limite di emissione non meno severi di quelli che l'impianto deve rispettare alla data del 31 dicembre 2015 ai sensi dell'autorizzazione, del presente titolo e del Titolo III-bis della Parte Seconda. 
+ 6. Ai sensi dell'articolo 271, commi 5, 14 e 15, l'autorizzazione di tutti i grandi impianti di combustione deve prevedere valori limite di emissione non meno severi dei pertinenti valori di cui alla Parte II, sezioni da 1 a 7, dell'Allegato II e dei valori di cui all'Allegato I alla Parte Quinta. 
+ 7. Per i grandi impianti di combustione, ciascun camino, contenente una o piu' canne di scarico, corrisponde, anche ai fini dell'applicazione dell'articolo 270, ad un punto di emissione."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 11 e' sostituito dal seguente: 
+ "11. Nel caso in cui un grande impianto di combustione sia sottoposto a modifiche sostanziali, si applicano all'impianto i valori limite di emissione stabiliti alla Parte II, sezioni da 1 a 5, lettera B, e sezione 6 dell'Allegato II alla Parte Quinta."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 15, la lettera i), e' sostituita dalla seguente: 
+ "i) le turbine a gas e motori a gas usati su piattaforme off-shore e sugli impianti di rigassificazione di gas naturale liquefatto off-shore;"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 15, dopo la lettera m) e' aggiunta, in fine, la seguente: 
+ "m-bis) gli impianti che utilizzano come combustibile qualsiasi rifiuto solido o liquido non ricadente nella definizione di biomassa di cui all'Allegato II alla Parte Quinta."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 16-bis e' sostituito dal seguente: 
+ "16-bis. A partire dalla data di entrata in vigore del decreto legislativo 14 settembre 2011, n. 162, ai fini del rilascio dell'autorizzazione prevista per la costruzione degli di impianti di combustione con una potenza termica nominale pari o superiore a 300 MW, il gestore presenta una relazione che comprova la sussistenza delle seguenti condizioni: 
+ a) disponibilita' di appropriati siti di stoccaggio di cui all'articolo 3, comma 1, lettera c), del decreto legislativo 14 settembre 2011, n. 162; 
+ b) fattibilita' tecnica ed economica di strutture di trasporto di cui all'articolo 3, comma 1, lettera aa), del decreto legislativo 14 settembre 2011, n. 162; 
+ c) possibilita' tecnica ed economica di installare a posteriori le strutture per la cattura di CO2.".
 
 ## Art. 23. — Modifiche all'articolo 274 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -414,6 +1119,79 @@ Almeno due mesi prima della scadenza prevista dal comma 1 per la trasmissione de
  8. L'autorita' competente, se diversa dal Ministero dell'ambiente e della tutela del territorio, comunica a tale Ministero le deroghe di cui alle lettere a) e b) contestualmente all'applicazione delle stesse.".
 
 ## Art. 24. — Modifiche all'articolo 275 del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
+
+1.
+                        
+                            
+                                All'articolo 275, del decreto legislativo 3 aprile 2006, n. 152, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1 sono aggiunti, in fine, i seguenti periodi: "Le disposizioni previste dal presente articolo per gli stabilimenti si intendono riferite anche alle installazioni soggette ad autorizzazione integrata ambientale. L'Allegato III alla Parte Quinta indica i casi in cui le attivita' degli stabilimenti esistenti di cui al comma 8 sono soggette a valori limite e prescrizioni speciali."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4, le parole: "una domanda di autorizzazione dello stabilimento in conformita' all'articolo 269 e a quanto previsto al presente articolo e all'Allegato III alla Parte Quinta oppure, ricorrendone i presupposti, una domanda di adesione all'autorizzazione generale di cui all'articolo 272, comma 3." sono sostituite dalle seguenti: "una domanda di autorizzazione dello stabilimento ai sensi dell'articolo 269 o, ricorrendone i presupposti, una domanda di adesione ai sensi dell'articolo 272, comma 3, o una domanda di autorizzazione integrata ambientale ai sensi dell'articolo 29-ter, in conformita' a quanto previsto al presente articolo e all'Allegato III alla Parte Quinta."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 5 sono aggiunti, in fine, i seguenti periodi: "Sono inoltre previste le precauzioni necessarie per ridurre al minimo le emissioni di COV durante le operazioni di avviamento e di arresto. Le autorizzazioni, incluse quelle rilasciate in sede di rinnovo ai sensi dell'articolo 281, assicurano che tali valori limite e prescrizioni si applichino a tutte le attivita' di cui al comma 2 e che i valori limite e le prescrizioni di cui all'ultimo periodo del comma 2 si possano applicare soltanto alle attivita' degli stabilimenti esistenti."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 8 e' sostituito dal seguente: 
+ "8. Si considerano esistenti, ai fini del presente articolo, gli stabilimenti che al 1° aprile 2001 erano in esercizio in base agli atti autorizzativi all'epoca previsti o per i quali e' stata presentata una domanda completa di autorizzazione prima di tale data ove lo stabilimento sia stato messo in funzione entro il 1° aprile 2002. Si considerano nuovi gli altri stabilimenti. Ai fini dell'applicazione degli articoli 270, 271 e 281 gli stabilimenti previsti dal presente articolo, escluse le installazioni sottoposte ad autorizzazione integrata ambientale, si considerano anteriori al 1988, anteriori al 2006 e nuovi sulla base delle definizioni previste dall'articolo 268."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 11 e' sostituito dal seguente: 
+ "11. In caso di modifiche sostanziali di attivita' svolte negli stabilimenti esistenti l'autorizzazione dispone che le attivita' oggetto di modifica sostanziale: 
+ a) siano soggette alle prescrizioni relative alle attivita' degli stabilimenti nuovi; 
+ b) siano soggette alle prescrizioni relative alle attivita' degli stabilimenti esistenti se le emissioni totali di tutte le attivita' svolte nello stabilimento non superano quelle che si producono in caso di applicazione della lettera a)."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comma 12 e' sostituito dal seguente: 
+ "12. Se il gestore comprova all'autorita' competente che, pur utilizzando la migliore tecnica disponibile, non e' possibile, per uno specifico stabilimento, rispettare il valore limite per le emissioni diffuse, tale autorita' puo' autorizzare deroghe a detto valore limite, purche' cio' non comporti rischi per la salute umana o per l'ambiente e purche' le migliori tecniche disponibili siano comunque applicate."; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 15 la parola: "luogo" e' sostituita dalla seguente: "stabilimento"; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    al comma 18 le parole: "decisione 2007/531/CE del 26 luglio 2007 della Commissione europea." sono sostituite dalle seguenti: "decisione della Commissione europea 2010/681/UE del 9 novembre 2010."; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dopo il comma 18 e' inserito il seguente: 
+ "18-bis. Con apposito decreto, da adottare ai sensi dell'articolo 281, comma 6, si provvede ad inserire all'Allegato III alla Parte Quinta una specifica disciplina delle attivita' di relazione e di comunicazione alla Commissione europea in merito all'applicazione del presente articolo, in conformita' ai provvedimenti comunitari di attuazione dell'articolo 72 della direttiva 2010/75/UE. Il comma 18 non trova applicazione a decorrere dalla data prevista dal predetto decreto.".
 
 ## Art. 25. — Modifiche alla Parte Quinta del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -571,6 +1349,87 @@ L'Allegato IX alla Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, 
  5. Autorizzazione all'utilizzo dei fanghi derivanti dal processo di depurazione in agricoltura (decreto legislativo 27 gennaio 1992, n. 99, articolo 9) 
  6. Autorizzazione allo scarico rilasciata dal Magistrato alle Acque di Venezia, limitatamente alle condizioni di esercizio degli scarichi idrici e alle modalita' di controllo di tali condizioni (decreto-legge 29 marzo 1995, n. 96, convertito con modificazioni nella legge 31 maggio 1995, n. 206, articolo 2, comma 2).".
 
+3.
+                        
+                            
+                                All'Allegato X alla Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, nella sezione "Aria" al punto 6 dopo la parola: "Polveri, sono aggiunte le seguenti: ", comprese le particelle sottili" ed al punto 9 la parola: "fitofarmaceutici" e' sostituita dalla seguente: "fitosanitari". 
+ 4.All'Allegato X alla Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, nella sezione "Acqua" dopo il punto 12 e' aggiunto il seguente: "13 sostanze prioritarie di cui all'articolo 74, comma 2, lettera ff)". 
+ 5. All'Allegato XI alla Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, il punto 12 e' sostituito dal seguente: 
+ "12 Indicazioni dei documenti di riferimento sulle BAT (BREF) gia' pubblicati, informazioni diffuse ai sensi dell'articolo 29-tedecies, comma 4, nonche' altre informazioni pubblicate dalla Commissione europea ai sensi dell'articolo 16, paragrafo 2, della direttiva 96/61/CE, o da organizzazioni internazionali pubbliche". 
+ 6. Dopo l'Allegato XII alla Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, e' aggiunto il seguente: 
+ "ALLEGATO XII-bis ALLA PARTE SECONDA 
+ Linee guida sui criteri da tenere in considerazione per l'applicazione dell'articolo 29-sexies, comma 9-bis 
+ Le deroghe di cui all'articolo 29-sexies, comma 9-bis, sono tipicamente ammesse nei seguenti casi, resi evidenti da un'analisi costi-benefici allegata all'istanza e verificata dall'autorita' competente nel corso dell'istruttoria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il raggiungimento di limiti corrispondenti ai BAT-AEL non garantisce alcun effetto benefico nello specifico contesto ambientale, se confrontato alle prestazioni garantite con l'autorizzazione in corso di definizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il raggiungimento di limiti corrispondenti ai BAT-AEL non garantisce, rispetto alle prestazioni garantite con l'autorizzazione in corso di definizione, significativi effetti benefici nello specifico contesto ambientale, mentre di contro richiede notevoli investimenti da parte del gestore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il raggiungimento di limiti corrispondenti ai BAT-AEL permetterebbe di conseguire benefici effetti ambientali che, nello specifico contesto, possono essere garantiti negli stessi tempi e con investimenti notevolmente minori finanziando azioni di soggetti non sottoposti alla disciplina IPPC; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il particolare assetto impiantistico o i vincoli determinati dalla collocazione geografica dell'installazione (prescrizioni paesaggistiche di VIA ad es.) determinano un costo di implementazione delle migliori tecniche disponibili di riferimento sproporzionato rispetto a quello medio richiesto alle altre installazioni del settore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il particolare assetto impiantistico o la collocazione geografica fanno si' che il raggiungimento di limiti corrispondenti ai BAT-AEL non possa essere conseguito con la sola implementazione delle migliori tecniche disponibili di riferimento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    e' opportuno concedere al gestore una dilazione dei tempi per il raggiungimento di limiti corrispondenti ai BAT-AEL per consentirgli di raggiungere il punto di pareggio in relazione agli investimenti gia' effettuati, per l'adeguamento alle migliori tecniche disponibili, in attuazione della autorizzazione in corso di rinnovo o riesame; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    e' opportuno concedere al gestore una dilazione dei tempi per il raggiungimento di limiti corrispondenti ai BAT-AEL per consentirgli di raggiungere almeno il punto di pareggio in relazione agli investimenti gia' effettuati, in considerazione di particolari caratteristiche tecniche delle installazioni e dei processi produttivi che rendono possibile l'applicazione di talune BAT solo attraverso il completo rifacimento delle unita' tecniche interessate, e non solo delle parti oggetto delle BAT; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    degli impianti e dei processi produttivi che rendono possibile l'applicazione di talune BAT solo attraverso il completo rifacimento delle unita' produttive; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'installazione, o la parte di installazione, e' utilizzata per la ricerca, lo sviluppo e la sperimentazione di nuovi prodotti o processi 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    altri casi particolari legati ad assetto impiantistico, contesto ambientale e collocazione geografica, riconosciuti dall'autorita' competente".
+
 ## Art. 27. — Modifiche agli allegati alla Parte quarta del decreto legislativo 3 aprile 2006, n. 152
 
 Prima dell'Allegato A alla Parte Quarta del decreto legislativo 3 aprile 2006, n. 152, la pagina di riepilogo degli allegati alla parte quarta e' sostituita dalla seguente: 
@@ -588,6 +1447,2256 @@ All'Allegato L, Parte Quarta del decreto legislativo 3 aprile 2006, n. 152, dopo
  "7-bis Introduzione delle misure indicate nei documenti di riferimento sulle BAT per prevenire la produzione di rifiuti da installazioni soggette al Titolo III-bis alla Parte Seconda. Sono a tal fine pertinenti le operazioni di riutilizzo, riciclo, ricupero effettuate all'interno delle stesse installazioni in cui si generano i materiali".
 
 Dopo l'Allegato L alla Parte Quarta del decreto legislativo 3 aprile 2006, n. 152, nella pagina di riepilogo degli allegati al Titolo V, l'intestazione: "Allegati al Titolo V" e' sostituita dalla seguente: "ALLEGATI AL TITOLO V DELLA PARTE QUARTA".
+
+5.
+                        
+                            
+                                Dopo l'Allegato L alla Parte Quarta del decreto legislativo 3 aprile 2006, n. 152, prima della pagina di riepilogo degli allegati al Titolo V della Parte Quarta, son aggiunti i seguenti allegati: 
+ 
+ "Allegato 1 al Titolo III-bis alla Parte Quarta 
+ 
+ Norme tecniche e valori limite di emissione per gli impianti di incenerimento di rifiuti 
+ 
+ A. VALORI LIMITE DI EMISSIONE IN ATMOSFERA 
+ 
+ 1. Valori limite di emissione medi giornalieri espressi in mg/Nm3  
+ 
+                                
+                                    
+                                        
+                                            Polvere totale 
+                                        
+                                        
+                                            10 
+                                        
+                                    
+                                    
+                                        
+                                            Sostanze organiche sotto forma di gas e vapori espresse come carbonio organico totale (TOC) 
+                                        
+                                        
+                                             10 
+                                        
+                                    
+                                    
+                                        
+                                            Acido cloridrico (HCl) 
+                                        
+                                        
+                                            10 
+                                        
+                                    
+                                    
+                                        
+                                            Acido fluoridrico (HF) 
+                                        
+                                        
+                                            1 
+                                        
+                                    
+                                    
+                                        
+                                            Biossido di zolfo (SO2) 
+                                        
+                                        
+                                            50 
+                                        
+                                    
+                                    
+                                        
+                                            Monossido di azoto (NO) e biossido di azoto (NO2) espressi come NO2 per gli impianti di incenerimento dei rifiuti esistenti dotati di una capacita' nominale superiore a 6 t/ora e per i nuovi impianti di incenerimento dei rifiuti 
+                                        
+                                        
+                                               200 
+                                        
+                                    
+                                    
+                                        
+                                            Monossido di azoto (NO) e biossido di azoto (NO2) espressi come NO2 per gli impianti di incenerimento dei rifiuti esistenti con una capacita' nominale pari o inferiore a 6 t/ora 
+                                        
+                                        
+                                               400 
+                                        
+                                    
+                                    
+                                        
+                                            Ammoniaca (NH3) 
+                                        
+                                        
+                                            30 
+                                        
+                                    
+                                
+                                
+
+ 
+ 2. Valori limite di emissione medi su 30 minuti espressi in mg/Nm3 
+ 
+ 
+
+---------------------------------------------------------------------
+                                                     (100%)   (97%)
+ A B
+
+a) Polveri totali 30 10
+
+a) Sostanze organiche sotto forma di gas e vapori
+ espresse come carbonio organico totale (TOC) 20 10
+
+a) Acido cloridrico (HCl) 60 10
+
+a) Acido fluoridrico (HF) 4 2
+---------------------------------------------------------------------
+
+a) Biossido di zolfo (SO2) 200 50
+
+a) Monossido di azoto (NO) e biossido di azoto (NO2)
+ espressi come NO2 per gli impianti di incenerimento
+ dei rifiuti esistenti dotati di una capacita'
+ nominale superiore a 6 t/ora e per i nuovi impianti
+ di incenerimento dei rifiuti 400 200
+
+a) Ammoniaca (NH³) 60 30
+---------------------------------------------------------------------
+
+ 
+ 3. Valori limite di emissione medi ottenuti con periodo di campionamento minimo di 30 minuti e massimo di 8 ore espressi in mg/Nm3 
+ 
+ I valori medi di concentrazione degli inquinanti si ottengono secondo i metodi fissati ed aggiornati ai sensi della tabella di cui alla lettera C 
+ 
+ --------- 
+ 
+ 
+
+---------------------------------------------------------------------
+Cadmio e suoi composti, espressi come cadmio (Cd)
+ 0,05 in totale Tallio e suoi composti espressi come tallio (Tl)
+Mercurio e suoi composti espressi come mercurio (Hg) 0,05
+Antimonio e suoi composti espressi come antimonio (Sb)
+Arsenico e suoi composti espressi come arsenico (As)
+Piombo e suoi composti espressi come piombo (Pb)
+Cromo e suoi composti espressi come cromo (Cr)
+Cobalto e suoi composti espressi come cobalto (Co) 0,5 in totale Rame e suoi composti espressi come rame (Cu)
+Manganese e suoi composti espressi come manganese (Mn)
+Nickel e suoi composti espressi come nickel (Ni)
+Vanadio e suoi composti espressi come vanadio (V)
+---------------------------------------------------------------------
+
+ 
+ I suddetti valori medi comprendono anche le emissioni sotto forma di polveri, gas e vapori dei metalli presenti nei relativi composti. 
+ 
+ 4. Valori limite di emissione medi ottenuti con periodo di campionamento minimo di 6 ore e massimo di 8 ore. 
+ 
+ I valori medi di concentrazione degli inquinanti si ottengono secondo i metodi fissati ed aggiornati ai sensi della tabella di cui alla lettera C. 
+ 
+ a) Diossine e furani (PCDD + PCDF) (1) 0,1 ng/Nm3 
+ 
+ b) Idrocarburi policiclici aromatici (IPA) (2) 0,01 mg/Nm3 
+ 
+ c) PCB-DL (3) 0,1 ng/Nm3 
+ 
+ ----------- 
+ 
+ (1) I valori limite di emissione si riferiscono alla concentrazione totale di diossine e furani, calcolata come concentrazione "tossica equivalente". Per la determinazione della concentrazione "tossica equivalente", le concentrazioni di massa delle seguenti policloro-dibenzo-p-diossine e policloro-dibenzofurani misurate nell'effluente gassoso devono essere moltiplicate per i fattori di equivalenza tossica (FTE) di seguito riportati, prima di eseguire la somma. 
+ 
+ 
+                                
+                                    
+                                        
+                                            
+                                        
+                                        
+                                            FTE 
+                                        
+                                    
+                                    
+                                        
+                                            2, 3, 7, 8 Tetraclorodibenzodiossina (TCDD) 
+                                        
+                                        
+                                            1 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 7, 8 - Pentaclorodibenzodiossina (PeCDD) 
+                                        
+                                        
+                                            0,5 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 4, 7, 8 - Esaclorodibenzodiossina (HxCDD) 
+                                        
+                                        
+                                            0,1 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 7, 8, 9 - Esaclorodibenzodiossina (HxCDD) 
+                                        
+                                        
+                                            0,1 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 6, 7, 8 - Esaclorodibenzodiossina (HxCDD) 
+                                        
+                                        
+                                            0,1 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 4, 6, 7, 8 Eptaclorodibenzodiossina (HpCDD) 
+                                        
+                                        
+                                            0,01 
+                                        
+                                    
+                                    
+                                        
+                                            Octaclorodibenzodiossina (OCDD) 
+                                        
+                                        
+                                            0,001 
+                                        
+                                    
+                                    
+                                        
+                                            2, 3, 7, 8 - Tetraclorodibenzofurano (TCDF) 
+                                        
+                                        
+                                            0,1 
+                                        
+                                    
+                                    
+                                        
+                                            2, 3, 4, 7, 8 - Pentaclorodibenzofurano (PeCDF) 
+                                        
+                                        
+                                            0,5 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 7, 8 - Pentaclorodibenzofurano (PeCDF) 
+                                        
+                                        
+                                            0,05 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 4, 7, 8 - Esaclorodibenzofurano (HxCDF) 
+                                        
+                                        
+                                            0,1 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 7, 8, 9 - Esaclorodibenzofurano (HxCDF 
+                                        
+                                        
+                                            0,1 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 6, 7, 8 - Esaclorodibenzofurano (HxCDF) 
+                                        
+                                        
+                                            0,1 
+                                        
+                                    
+                                    
+                                        
+                                            2, 3, 4, 6, 7, 8 - Esaclorodibenzofurano (HxCDF) 
+                                        
+                                        
+                                            0,1 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 4, 6, 7, 8 - Eptaclorodibenzofurano (HpCDF) 
+                                        
+                                        
+                                            0,01 
+                                        
+                                    
+                                    
+                                        
+                                            1, 2, 3, 4, 7, 8, 9 - Eptaclorodibenzofurano (HpCDF) 
+                                        
+                                        
+                                            0,01 
+                                        
+                                    
+                                    
+                                        
+                                            Octaclorodibenzofurano (OCDF) 
+                                        
+                                        
+                                            0,001 
+                                        
+                                    
+                                
+                                
+
+ 
+ (2) Gli idrocarburi policiclici aromatici (IPA) sono determinati come somma di: 
+ 
+ 
+
+--------------------------
+Benz[a]antracene
+--------------------------
+Dibenz[a, h]antracene
+--------------------------
+Benzo[h]fluorantene
+--------------------------
+Benzo[j]fluorantene
+--------------------------
+Benzo[k]fluorantene
+--------------------------
+Benzo[a]pirene
+--------------------------
+Dibenzo[a, e]pirene
+--------------------------
+Dibenzo[a, h]pirene
+--------------------------
+Dibenzo[a, i]pirene
+--------------------------
+Dibenzo[a, l]pirene
+---------------------------
+Indeno [1,2,3 - cd] pirene
+---------------------------
+
+ 
+ (3) I valori limite di emissione si riferiscono alla concentrazione totale di PCB-Dl, calcolata come concentrazione "tossica equivalente". Per la determinazione della concentrazione "tossica equivalente", le concentrazioni di massa dei seguenti PCB misurati nell'effluente gassoso devono essere moltiplicati per i fattori di equivalenza tossica (FTE) di seguito riportati, prima di eseguire la somma. 
+ 
+ 
+ 
+                                
+                                    
+                                        
+                                             Congenere 
+                                        
+                                        
+                                            Nome IUPAC 
+                                        
+                                        
+                                             WHO-TEF 
+                                        
+                                    
+                                    
+                                        
+                                            3,3',4,4'-TetraCB 
+                                        
+                                        
+                                            PCB77 
+                                        
+                                        
+                                            0,0001 
+                                        
+                                    
+                                    
+                                        
+                                            3,4,4',5-TetraCB 
+                                        
+                                        
+                                            PCB81 
+                                        
+                                        
+                                            0,0003 
+                                        
+                                    
+                                    
+                                        
+                                            2,3,3'4,4'-PentaCB 
+                                        
+                                        
+                                            PCB 105 
+                                        
+                                        
+                                            0,00003 
+                                        
+                                    
+                                    
+                                        
+                                            2,3,4,4',5-PentaCB 
+                                        
+                                        
+                                            PCB 114 
+                                        
+                                        
+                                            0,00003 
+                                        
+                                    
+                                    
+                                        
+                                            2,3',4,4',5-PentaCB 
+                                        
+                                        
+                                            PCB 118 
+                                        
+                                        
+                                            0,00003 
+                                        
+                                    
+                                    
+                                        
+                                            2',3,4,4',5-PentaCB 
+                                        
+                                        
+                                            PCB 123 
+                                        
+                                        
+                                            0,00003 
+                                        
+                                    
+                                    
+                                        
+                                            3,3',4,4',5-PentaCB 
+                                        
+                                        
+                                            PCB 126 
+                                        
+                                        
+                                            0,1 
+                                        
+                                    
+                                    
+                                        
+                                            2,3,3',4,4',5-HexaCB 
+                                        
+                                        
+                                            PCB 156 
+                                        
+                                        
+                                            0,00003 
+                                        
+                                    
+                                    
+                                        
+                                            2,3,3',4,4',5'-HexaCB 
+                                        
+                                        
+                                            PCB 157 
+                                        
+                                        
+                                            0,00003 
+                                        
+                                    
+                                    
+                                        
+                                            2,3',4,4',5,5'-HexaCB 
+                                        
+                                        
+                                            PCB 167 
+                                        
+                                        
+                                            0,00003 
+                                        
+                                    
+                                    
+                                        
+                                            3,3',4,4',5,5'-HexaCB 
+                                        
+                                        
+                                            PCB 169 
+                                        
+                                        
+                                            0,03 
+                                        
+                                    
+                                    
+                                        
+                                            2,3,3',4,4',5,5'-HeptaCB 
+                                        
+                                        
+                                            PCB 189 
+                                        
+                                        
+                                            0,00003 
+                                        
+                                    
+                                
+                                
+
+
+ 
+ 
+ 5. Valori limite di emissione per il monossido di carbonio (CO) 
+ 
+ I seguenti valori limite di emissione per le concentrazioni di monossido di carbonio (CO) non devono essere superati nei gas di combustione (escluse le fasi di avviamento ed arresto): 
+ 
+ - 50 mg/Nm3 come valore medio giornaliero; 
+ 
+ - 100 mg/Nm3 come valore medio su 30 minuti; 
+ 
+ - il valore di 150 mg/Nm3 come valore medio su 10 minuti. 
+ 
+ L'autorita' competente puo' concedere deroghe per gli impianti di incenerimento che utilizzano la tecnologia del letto fluido, purche' l'autorizzazione preveda un valore limite di emissione per il monossido di carbonio (CO) non superiore a 100 mg/m³ come valore medio orario. 
+ 
+ B. NORMALIZZAZIONE 
+ 
+ Condizioni di cui all'articolo 237-nonies del Titolo III-bis della Parte IV: 
+ 
+ - pressione 101,3 kPa; 
+ 
+ - gas secco, 
+ 
+ nonche' un tenore di ossigeno di riferimento nell'effluente gassoso secco pari all'11% in volume, utilizzando la seguente formula 
+ 
+ 
+
+ 21 - Os
+Es. = ----------- x Em
+ 21 - Om
+
+ 
+ nella quale: 
+ 
+ Es = concentrazione di emissione calcolata al tenore di ossigeno di riferimento; 
+ 
+ Em = concentrazione di emissione misurata; 
+ 
+ Os = tenore di ossigeno di riferimento; 
+ 
+ Om = tenore di ossigeno misurato. 
+ 
+ Nel caso di incenerimento unicamente di oli usati, come definiti all'articolo 183, comma 1, lett. c), del decreto legislativo 3 aprile 2006, n. 152, l'ossigeno di riferimento negli effluenti gassosi secchi e' pari al 3%. 
+ 
+ Se i rifiuti sono inceneriti in una atmosfera arricchita di ossigeno, l'autorita' competente puo' fissare un tenore di ossigeno di riferimento diverso che rifletta le speciali caratteristiche dell'incenerimento. 
+ 
+ Nel caso di incenerimento di rifiuti pericolosi, la normalizzazione in base al tenore di ossigeno viene applicata soltanto se il tenore di ossigeno misurato supera il pertinente tenore di ossigeno di riferimento. 
+ 
+ C. VALUTAZIONE DELL'OSSERVANZA DEI VALORI LIMITE DI EMISSIONE IN ATMOSFERA 
+ 
+ 1. Valutazione dei risultati delle misurazioni 
+ 
+ Per le misurazioni in continuo i valori limite di emissione si intendono rispettati se: 
+ 
+ a) nessuno dei valori medi giornalieri supera uno qualsiasi dei valori limite di emissione stabiliti al paragrafo A, punto 1; 
+ 
+ b) per il monossido di carbonio (CO): 
+ 
+ - almeno il 97% dei valori medi giornalieri nel corso dell'anno non supera il valore limite di emissione di cui al paragrafo A, punto 5, primo trattino; 
+ 
+ - almeno il 95% di tutti i valori medi su 10 minuti in un qualsiasi periodo di 24 ore oppure tutti i valori medi su 30 minuti nello stesso periodo non superano i valori limite di emissione di cui al paragrafo A, punto 5, secondo e terzo trattino"; 
+ 
+ c) nessuno dei valori medi su 30 minuti supera uno qualsiasi dei valori limite di emissione di cui alla colonna A del paragrafo A, punto 2, oppure, in caso di non totale rispetto di tale limite per il parametro in esame, almeno il 97% dei valori medi su 30 minuti nel corso dell'anno non supera il relativo valore limite di emissione di cui alla colonna B del paragrafo A, punto 2; 
+ 
+ d) nessuno dei valori medi rilevati per i metalli pesanti, le diossine e i furani, gli idrocarburi policiclici aromatici, e i policlorobifenili (PCB-DL), durante il periodo di campionamento supera i pertinenti valori limite di emissione stabiliti al paragrafo A, punti 3 e 4; 
+ 
+ I valori medi su 30 minuti e i valori medi su 10 minuti sono determinati durante il periodo di effettivo funzionamento (esclusi i periodi di avvio e di arresto se non vengono inceneriti rifiuti) in base ai valori misurati, previa sottrazione del rispettivo valore dell'intervallo di confidenza al 95% riscontrato sperimentalmente. 
+ 
+ L'assicurazione di qualita' dei sistemi automatici di misurazione e la loro taratura in base ai metodi di misurazione di riferimento devono essere eseguiti in conformita' alla norma UNI EN 14181 
+ 
+ I valori degli intervalli di confidenza di ciascun risultato delle misurazioni effettuate, non possono eccedere le seguenti percentuali dei valori limite di emissione riferiti alla media giornaliera: 
+ 
+ 
+                                
+                                    
+                                        
+                                            Polveri totali 
+                                        
+                                        
+                                            30% 
+                                        
+                                    
+                                    
+                                        
+                                            Carbonio organico totale 
+                                        
+                                        
+                                            30% 
+                                        
+                                    
+                                    
+                                        
+                                            Acido cloridrico 
+                                        
+                                        
+                                            40% 
+                                        
+                                    
+                                    
+                                        
+                                            Acido fluoridrico 
+                                        
+                                        
+                                            40% 
+                                        
+                                    
+                                    
+                                        
+                                            Biossido di zolfo 
+                                        
+                                        
+                                            20% 
+                                        
+                                    
+                                    
+                                        
+                                            Biossido di azoto 
+                                        
+                                        
+                                            20% 
+                                        
+                                    
+                                    
+                                        
+                                            Monossido di carbonio 
+                                        
+                                        
+                                            10% 
+                                        
+                                    
+                                    
+                                        
+                                            Ammoniaca 
+                                        
+                                        
+                                            30% 
+                                        
+                                    
+                                
+                                
+
+ 
+ I valori medi giornalieri sono determinati in base ai valori medi convalidati. 
+ 
+ Per ottenere un valore medio giornaliero valido non possono essere scartati, a causa di disfunzioni o per ragioni di manutenzione del sistema di misurazione in continuo, piu' di 5 valori medi su 30 minuti in un giorno qualsiasi. Non piu' di 10 valori medi giornalieri all'anno possono essere scartati a causa di disfunzioni o per ragioni di manutenzione del sistema di misurazione in continuo. 
+ 
+ Per le misurazioni periodiche, la valutazione della rispondenza delle misurazioni ai valori limite di emissione si effettua sulla base di quanto previsto dalle norme tecniche di seguito riportate: 
+ 
+ 
+ 
+
+
+                                
+                                    
+                                        
+                                            Parametro 
+                                        
+                                        
+                                            Metodo 
+                                        
+                                    
+                                    
+                                        
+                                            Temperatura 
+                                        
+                                        
+                                            UNI EN ISO 16911:2013 
+                                        
+                                    
+                                    
+                                        
+                                            Pressione 
+                                        
+                                        
+                                            UNI EN ISO 16911:2013 
+                                        
+                                    
+                                    
+                                        
+                                            Velocita' 
+                                        
+                                        
+                                            UNI EN ISO 16911:2013 
+                                        
+                                    
+                                    
+                                        
+                                            Portata 
+                                        
+                                        
+                                            UNI EN ISO 16911:2013 
+                                        
+                                    
+                                    
+                                        
+                                            Umidita' 
+                                        
+                                        
+                                            UNI EN 14790:2006 
+                                        
+                                    
+                                    
+                                        
+                                            Ossigeno (O2) 
+                                        
+                                        
+                                            UNI EN 14789:2006 
+                                        
+                                    
+                                    
+                                        
+                                            Acido Cloridrico (HCl) 
+                                        
+                                        
+                                            UNI EN 1911:2010 
+                                        
+                                    
+                                    
+                                        
+                                            Acido Fluoridrico (HF) 
+                                        
+                                        
+                                            ISO15713 :2006 
+                                        
+                                    
+                                    
+                                        
+                                            Ossidi Di Azoto (NOx) Espressi Come NO2 
+                                        
+                                        
+                                             UNI EN 14792 : 2006 
+                                        
+                                    
+                                    
+                                        
+                                            Ammoniaca (NH3) 
+                                        
+                                        
+                                            EPA CTM-027 :1997 
+                                        
+                                    
+                                    
+                                        
+                                            Biossido Di Zolfo (SO2) 
+                                        
+                                        
+                                            UNI EN 14791:2006 
+                                        
+                                    
+                                    
+                                        
+                                            Monossido Di Carbonio (CO) 
+                                        
+                                        
+                                             UNI EN 15058:2006 
+                                        
+                                    
+                                    
+                                        
+                                            TOC Espresso Come C 
+                                        
+                                        
+                                            UNI EN 12619 : 2013 
+                                        
+                                    
+                                    
+                                        
+                                            PCDD/PCDF Come (Teq) 
+                                        
+                                        
+                                            UNI EN 1948-1,2,3 : 2006 
+                                        
+                                    
+                                    
+                                        
+                                            PCB-Dl come (Teq) 
+                                        
+                                        
+                                            UNI EN 1948-1,2,3,4 :2010 
+                                        
+                                    
+                                    
+                                        
+                                            IPA 
+                                        
+                                        
+                                            ISO 11338 -1 e 2 : 2003 
+                                        
+                                    
+                                    
+                                        
+                                            Polveri 
+                                        
+                                        
+                                            UNI EN 13284-1: 2003 
+                                        
+                                    
+                                    
+                                        
+                                            Mercurio (Hg) 
+                                        
+                                        
+                                            UNI EN 13211:2003 
+                                        
+                                    
+                                    
+                                        
+                                            Metalli Pesanti (As,Cd, Cr, Co, Cu, Mn, Ni, Pb, Sb, Tl, V) 
+                                        
+                                        
+                                              UNI EN 14385:2004 
+                                        
+                                    
+                                
+                                
+
+ 
+ 
+ In caso di misure discontinue, al fine di valutare la conformita' delle emissioni convogliate ai valori limite di emissioni, la concentrazione e' calcolata preferibilmente come media di almeno tre campionamenti consecutivi e riferiti ciascuno ai periodi di campionamento indicati all'Allegato 1, lettera A nelle condizioni di esercizio piu' gravose dell'impianto. 
+ D. ACQUE DI SCARICO DALL'IMPIANTO DI INCENERIMENTO 
+ 1. Valori limite di emissione negli scarichi di acque reflue derivanti dalla depurazione degli effluenti gassosi 
+ Sono di seguito riportati i valori limite di emissione di inquinanti negli scarichi di acque reflue derivanti dalla depurazione degli effluenti gassosi, espressi in concentrazioni di massa per campioni non filtrati. 
+ 
+ 
+                                
+                                    
+                                        
+                                            
+                                        
+                                        
+                                            95% 
+                                        
+                                        
+                                            100% 
+                                        
+                                    
+                                    
+                                        
+                                            a) Solidi sospesi totali 
+                                        
+                                        
+                                            30 mg/l 
+                                        
+                                        
+                                            45 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            b) Mercurio e suoi composti, espressi come mercurio (Hg) 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,03 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            c) Cadmio e suoi composti, espressi come cadmio (Cd) 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,05 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            d) Tallio e suoi composti, espressi come tallio (TI) 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,05 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            e) Arsenico e suoi composti, espressi come arsenico As 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,15 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            f) Piombo e suoi composti, espressi come piombo (Pb) 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,2 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            g) Cromo e suoi composti, espressi come cromo (Cr) 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,5 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            h) Rame e suoi composti, espressi come rame (Cu) 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,5 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            i) Nichel e suoi composti, espressi come nichel (Ni) 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,5 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            l) Zinco e suoi composti, espressi come zinco (Zn) 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             1,5 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            m) Diossine e furani (PCDD + PCDF) come Teq 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,3 ng/l 
+                                        
+                                    
+                                    
+                                        
+                                            n) Idrocarburi policiclici aromatici (IPA) 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,0002 mg/l 
+                                        
+                                    
+                                    
+                                        
+                                            o) Policlorobifenili (PCB-Dl) come Teq 
+                                        
+                                        
+                                            
+                                        
+                                        
+                                             0,3 ng/l 
+                                        
+                                    
+                                
+                                
+    
+ 
+ 
+ E. CAMPIONAMENTO, ANALISI E VALUTAZIONE DELLE EMISSIONI NELLE ACQUE DI SCARICO 1. Misurazioni 
+                            
+                            
+                                a)
+                                
+                                    misurazioni continue del pH, della temperatura e della portata;
+                                
+                            
+                            
+                                b)
+                                
+                                    misurazioni giornaliere dei solidi sospesi totali effettuate su campioni per sondaggio;
+                                
+                            
+                            
+                                c)
+                                
+                                    misurazioni almeno mensili, su di un campione rappresentativo proporzionale al flusso dello scarico su un periodo di 24 ore, degli inquinanti di cui al paragrafo D, punto 1, lettere da b) a l);
+                                
+                            
+                            
+                                d)
+                                
+                                    misurazioni almeno semestrali di diossine e furani e degli idrocarburi policiclici aromatici; per i primi dodici mesi di funzionamento dell'impianto, tali sostanze devono essere misurate almeno ogni tre mesi. 
+ 2. Valutazione dei risultati delle misurazioni I valori limite di emissione si intendono rispettati se: a) il 95% e il 100% dei valori misurati per i solidi sospesi totali non superano i rispettivi valori limite di emissione stabiliti al paragrafo D, punto 1, lett. a); b) non piu' di una misurazione all'anno per i metalli pesanti supera i valori limite di emissione stabiliti al paragrafo D, punto 1, lettere da b) a l); c) le misurazioni semestrali per le diossine e i furani e per gli idrocarburi policiclici aromatici non superano i valori limite di emissione stabiliti al paragrafo D, punto 1, lettere m) e n). Allegato 2 al Titolo III-bis alla Parte Quarta del decreto legislativo 3 aprile 2006, n. 152 Norme tecniche e valori limite di emissione per gli impianti di coincenerimento 
+ A. VALORI LIMITE DI EMISSIONE IN ATMOSFERA 
+ 1.Formula di miscelazione La seguente "formula di miscelazione" deve essere applicata ogniqualvolta non sia stato stabilito uno specifico valore limite totale di emissione "C" nel presente Allegato. Il valore limite per ciascun agente inquinante e per il monossido di carbonio presenti nell'effluente gassoso derivante dal coincenerimento dei rifiuti e' calcolato come segue: Vrifiuti x Crifiuti + Vprocesso x Cprocesso
+------------------------------------------------ = C Vrifiuti +
+Cprocesso  Vrifiuti  :  volume   dell'effluente   gassoso   derivante dall'incenerimento dei soli rifiuti, determinato in base ai rifiuti che hanno il piu' basso potere calorifico specificato nell'autorizzazione e normalizzato alle condizioni indicate al paragrafo B dell'Allegato 1. 
+ Qualora il calore liberato dall'incenerimento di rifiuti pericolosi sia inferiore al 10% del calore totale liberato nell'impianto, Vrifiuti deve essere calcolato in base ad un quantitativo (fittizio) di rifiuti che, se incenerito, libererebbe un calore pari al 10% del calore totale liberato nell'impianto. 
+ Crifiuti : valori limite di emissione per gli impianti di incenerimento stabiliti al paragrafo A dell'Allegato 1. 
+ Vprocesso : volume dell'effluente gassoso derivante dal processo dell'impianto, inclusa la combustione dei combustibili autorizzati normalmente utilizzati nell'impianto (esclusi i rifiuti), determinato sulla base dei tenori di ossigeno previsti dalla normativa ai fini della normalizzazione delle emissioni. In assenza di normativa per il pertinente tipo di impianto, si deve utilizzare il tenore reale di ossigeno dell'effluente gassoso non diluito con aggiunta di aria non indispensabile per il processo. La normalizzazione per le altre condizioni e' quella specificata al paragrafo B. 
+ Cprocesso : valori limite di emissione indicati nel presente Allegato per taluni settori industriali o, in caso di assenza di tali valori, valori limite di emissione degli inquinanti e del monossido di carbonio fissati dalla normativa statale o regionale per tali impianti quando vengono bruciati i combustibili normalmente autorizzati (rifiuti esclusi). In mancanza di tali disposizioni si applicano i valori limite di emissione che figurano nell'autorizzazione. Se in questa non sono menzionati tali valori, si ricorre alle concentrazioni reali in massa. 
+ C: valori limite totali di emissione e tenore di ossigeno individuati nel presente Allegato per taluni settori industriali e per taluni inquinanti o, in caso di assenza di tali valori, valori limite totali di emissione da rispettare per ciascun agente inquinante e per il monossido di carbonio. Il tenore totale di ossigeno di riferimento, che sostituisce il tenore di ossigeno di riferimento per la normalizzazione di cui al successivo paragrafo B, e' calcolato sulla base dei tenori di ossigeno sopraindicati per Vrifiuti e per Vprocesso , rispettando i volumi parziali. 
+ I valori limite totali di emissione (C) per gli inquinanti di cui all'Allegato 1, paragrafo A, punti 3 e 4, sono quelli fissati nei suddetti punti, e non sono soggetti alla applicazione della "formula di miscelazione". 
+ 2. Disposizioni speciali relative ai forni per cemento che coinceneriscono rifiuti 
+ 2.1. I valori limite di emissione di cui ai punti 2.2 e 2.3 si applicano come valori medi giornalieri di polveri totali, HC1, HF, NOx, SO2 , TOC, -NH3 barrato- (per misurazioni in continuo), come valori medi in un periodo di campionamento minimo di 30 minuti e massimo di 8 ore per i metalli pesanti e come valori medi in un periodi di campionamento minimo di 6 ore e massimo di 8 ore per diossine e furani. 
+ Tutti i valori sono normalizzati a ossigeno 10 %. 
+ I valori medi su 30 minuti sono necessari solo ai fini del calcolo dei valori medi giornalieri. 
+ 2.2. C - Valori limite totali di emissione (espressi in mg/Nm3 tranne che per diossine e furani, IPA e PCB-Dl) per le seguenti sostanze inquinanti 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Sostanza inquinante 
+                                            
+                                            
+                                                C 
+                                            
+                                        
+                                        
+                                            
+                                                Polveri totali 
+                                            
+                                            
+                                                30 
+                                            
+                                        
+                                        
+                                            
+                                                HCl 
+                                            
+                                            
+                                                10 
+                                            
+                                        
+                                        
+                                            
+                                                HF 
+                                            
+                                            
+                                                1 
+                                            
+                                        
+                                        
+                                            
+                                                NOx 
+                                            
+                                            
+                                                500 (1) 
+                                            
+                                        
+                                        
+                                            
+                                                Cd + Tl 
+                                            
+                                            
+                                                0,05 
+                                            
+                                        
+                                        
+                                            
+                                                Hg 
+                                            
+                                            
+                                                0,05 
+                                            
+                                        
+                                        
+                                            
+                                                Sb + As +Pb + Cr + Co + Cu + Mn + Ni + V 
+                                            
+                                            
+                                                0,5 
+                                            
+                                        
+                                        
+                                            
+                                                Diosine e furani (ng/Nm³) 
+                                            
+                                            
+                                                C 
+                                            
+                                        
+                                        
+                                            
+                                                IPA 
+                                            
+                                            
+                                                C 
+                                            
+                                        
+                                        
+                                            
+                                                PCB-Dl (ng/Nm³) 
+                                            
+                                            
+                                                C 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ (1) Fino al 1° gennaio 2016 l'autorita' competente puo' autorizzare dal valore limite per i NOx per i forni Lepol e per i forni rotativi lunghi purche' l'autorizzazione stabilisca un valore limite di emissione complessivo per i NOx inferiore o pari a 800 mg/Nm3 . 
+ 2.3. C - Valori limite totali di emissione (espressi in mg/Nm3 ) per SO2 e TOC 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Inquinanti 
+                                            
+                                            
+                                                C 
+                                            
+                                        
+                                        
+                                            
+                                                SO2 
+                                            
+                                            
+                                                50 
+                                            
+                                        
+                                        
+                                            
+                                                TOC 
+                                            
+                                            
+                                                10 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ L'autorita' competente puo' concedere deroghe rispetto ai valori limite di emissione di cui al presente punto nei casi in cui il coincenerimento di rifiuti non dia luogo a TOC e SO2 . 
+ 2.4. C - Valori limite di emissione complessivi per il CO L'autorita' competente puo' stabilire valori limite di emissione per il CO 
+ 3. Disposizioni speciali per impianti di combustione che coinceneriscono rifiuti 
+ 3.1. Cprocesso espresso come valori medi giornalieri (in mg/Nm3 ) valido fino alle seguenti date: 
+ a) 31 dicembre 2015 per gli impianti che hanno ottenuto un'autorizzazione prima del 7 gennaio 2013, o i cui gestori hanno presentato una domanda completa per un'autorizzazione entro tale data, a condizione che detti impianti siano messi in servizio al piu' tardi entro il 7 gennaio 2014; 
+ b) 7 gennaio 2013 per gli impianti di combustione non coperti dal comma precedente. 
+ Per determinare la potenza termica nominale totale degli impianti di combustione si applicano le norme sul cumulo delle emissioni di cui all'Allegato 4. I valori medi su 30 minuti sono necessari solo ai fini del calcolo dei valori medi giornalieri. 
+ Per determinare la potenza termica nominale totale degli impianti di combustione si applicano le norme sul cumulo delle emissioni. I valori medi su 30 minuti sono necessari solo ai fini del calcolo dei valori medi giornalieri. 
+ Cprocesso per combustibili solidi esclusa la biomassa (tenore di O2 6 %): 
+ 
+ 
+                                    
+                                        
+                                            
+                                                 Sostanza inquinante 
+                                            
+                                            
+                                                 50 MWth 
+                                            
+                                            
+                                                da 50 a 100 MWth 
+                                            
+                                            
+                                                da 100 a 300 MWth 
+                                            
+                                            
+                                                 300 MWth 
+                                            
+                                        
+                                        
+                                            
+                                                SO2 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                850 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                200 
+                                            
+                                        
+                                        
+                                            
+                                                NOx 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                400 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                200 
+                                            
+                                        
+                                        
+                                            
+                                                Polvere 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                30 
+                                            
+                                            
+                                                30 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ Cprocesso per la biomassa (tenore di O2 6 %): 
+ 
+ 
+                                    
+                                        
+                                            
+                                                 Sostanza inquinante 
+                                            
+                                            
+                                                 50 MWth 
+                                            
+                                            
+                                                da 50 a 100 MWth 
+                                            
+                                            
+                                                da 100 a 300 MWth 
+                                            
+                                            
+                                                 300 MWth 
+                                            
+                                        
+                                        
+                                            
+                                                SO2 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                200 
+                                            
+                                        
+                                        
+                                            
+                                                NOx 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                350 
+                                            
+                                            
+                                                300 
+                                            
+                                            
+                                                200 
+                                            
+                                        
+                                        
+                                            
+                                                Polvere 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                30 
+                                            
+                                            
+                                                30 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ Cprocesso per i combustibili liquidi (tenore di O2 3 %): 
+ 
+ 
+                                    
+                                        
+                                            
+                                                  Sostanza inquinante 
+                                            
+                                            
+                                                  50 MWth 
+                                            
+                                            
+                                                da 50 a 100 MWth 
+                                            
+                                            
+                                                  da 100 a 300 MWth 
+                                            
+                                            
+                                                 300 MWth 
+                                            
+                                        
+                                        
+                                            
+                                                  SO2 
+                                            
+                                            
+                                                  - 
+                                            
+                                            
+                                                  850 
+                                            
+                                            
+                                                da 400 a 200 (decremento lineare da 100 a 300 MWth) 
+                                            
+                                            
+                                                  200 
+                                            
+                                        
+                                        
+                                            
+                                                NOx 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                400 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                200 
+                                            
+                                        
+                                        
+                                            
+                                                Polvere 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                30 
+                                            
+                                            
+                                                30 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ 3.2. Cprocesso espresso in valori medi giornalieri (in mg/Nm³) valido fino alle seguenti date: 
+ a) 1° gennaio 2016 per gli impianti di combustione che hanno ottenuto l'autorizzazione prima del 7 gennaio 2013 o i cui gestori hanno presentato una domanda completa per un'autorizzazione entro tale data, a condizione che detti impianti siano messi in servizio entro il 7 gennaio 2014; 
+ b) 7 gennaio 2013 per gli impianti di combustione diversi da quelli di cui al punto a). 
+ Per determinare la potenza termica nominale totale degli impianti di combustione si applicano le norme sul cumulo delle emissioni. I valori medi su 30 minuti sono necessari solo ai fini del calcolo dei valori medi giornalieri. 
+ 3.2.1. Cprocesso per gli impianti di combustione che hanno ottenuto l'autorizzazione prima del 7 gennaio 2013 o i cui gestori hanno presentato una domanda completa per un'autorizzazione entro tale data, purche' siano messi in servizio entro il 7 gennaio 2014, ad eccezione delle turbine a gas e dei motori a gas 
+ Cprocesso per i combustibili solidi ad eccezione della biomassa (tenore di O2 6 %): 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Sostanza inquinante 
+                                            
+                                            
+                                                 50 MWth 
+                                            
+                                            
+                                                 da 50 a 100 MWth 
+                                            
+                                            
+                                                da 100 a 300 MWth 
+                                            
+                                            
+                                                300 MWth 
+                                            
+                                        
+                                        
+                                            
+                                                SO2  
+                                            
+                                            
+                                                -  
+                                            
+                                            
+                                                400 per la torba: 300 
+                                            
+                                            
+                                                200  
+                                            
+                                            
+                                                200  
+                                            
+                                        
+                                        
+                                            
+                                                  NOx 
+                                            
+                                            
+                                                  - 
+                                            
+                                            
+                                                300 per la polverizzata: 400 
+                                            
+                                            
+                                                200   
+                                            
+                                            
+                                                200   
+                                            
+                                        
+                                        
+                                            
+                                                 Polvere 
+                                            
+                                            
+                                                 50 
+                                            
+                                            
+                                                 30 
+                                            
+                                            
+                                                25 per la torba: 20 
+                                            
+                                            
+                                                 20 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ Cprocesso per la biomassa (tenore di O2 6 %): 
+ 
+ 
+                                    
+                                        
+                                            
+                                                 Sostanza inquinante 
+                                            
+                                            
+                                                 50 MWth 
+                                            
+                                            
+                                                da 50 a 100 MWth 
+                                            
+                                            
+                                                da 100 a 300 MWth 
+                                            
+                                            
+                                                 300 MWth 
+                                            
+                                        
+                                        
+                                            
+                                                SO2 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                200 
+                                            
+                                        
+                                        
+                                            
+                                                NOx 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                300 
+                                            
+                                            
+                                                250 
+                                            
+                                            
+                                                200 
+                                            
+                                        
+                                        
+                                            
+                                                Polvere 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                30 
+                                            
+                                            
+                                                20 
+                                            
+                                            
+                                                20 
+                                            
+                                        
+                                    
+                                    
+    
+ Cprocesso per i combustibili liquidi (tenore di O2 3 %): 
+ 
+ 
+                                    
+                                        
+                                            
+                                                 Sostanza inquinante 
+                                            
+                                            
+                                                 50 MWth 
+                                            
+                                            
+                                                da 50 a 100 MWth 
+                                            
+                                            
+                                                da 100 a 300 MWth 
+                                            
+                                            
+                                                 300 MWth 
+                                            
+                                        
+                                        
+                                            
+                                                SO2 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                350 
+                                            
+                                            
+                                                250 
+                                            
+                                            
+                                                200 
+                                            
+                                        
+                                        
+                                            
+                                                NOx 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                400 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                150 
+                                            
+                                        
+                                        
+                                            
+                                                Polvere 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                30 
+                                            
+                                            
+                                                25 
+                                            
+                                            
+                                                20 
+                                            
+                                        
+                                    
+                                    
+    
+ 3.2.2. Cprocesso per gli impianti di combustione diversi da quelli di cui al punto 3.2.1, ad eccezione delle turbine a gas e dei motori a gas 
+ Cprocesso per i combustibili solidi ad eccezione della biomassa (tenore di O2 6 %): 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Sostanza inquinante 
+                                            
+                                            
+                                                50 MWth 
+                                            
+                                            
+                                                da 50 a 100 MWth 
+                                            
+                                            
+                                                da 100 a 300 MWth 
+                                            
+                                            
+                                                 300 MWth 
+                                            
+                                        
+                                        
+                                            
+                                                          SO2 
+                                            
+                                            
+                                                          - 
+                                            
+                                            
+                                                        400 per la torba: 300 
+                                            
+                                            
+                                                     200 per la torba: 300, tranne nel caso di combustione a letto fluido: 250 
+                                            
+                                            
+                                                150 per combustione a letto fluido circolante o a letto fluido oppure, nel caso di combustione di torba, per tutti i tipi di combustione a letto fluido: 200 
+                                            
+                                        
+                                        
+                                            
+                                                   NOx 
+                                            
+                                            
+                                                   - 
+                                            
+                                            
+                                                 300 per la torba: 250 
+                                            
+                                            
+                                                   200 
+                                            
+                                            
+                                                150 per la combustione di lignite polverizzata: 200 
+                                            
+                                        
+                                        
+                                            
+                                                 Polvere 
+                                            
+                                            
+                                                 50 
+                                            
+                                            
+                                                 20 
+                                            
+                                            
+                                                 20 
+                                            
+                                            
+                                                10 per la torba: 20 
+                                            
+                                        
+                                    
+                                    
+    
+ Cprocesso per la biomassa (tenore di O2 6 %): 
+ 
+ 
+                                    
+                                        
+                                            
+                                                 Sostanza inquinante 
+                                            
+                                            
+                                                 50 MWth 
+                                            
+                                            
+                                                da 50 a 100 MWth 
+                                            
+                                            
+                                                da 100 a 300 MWth 
+                                            
+                                            
+                                                 300 MWth 
+                                            
+                                        
+                                        
+                                            
+                                                SO2 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                150 
+                                            
+                                        
+                                        
+                                            
+                                                NOx 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                250 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                150 
+                                            
+                                        
+                                        
+                                            
+                                                Polvere 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                20 
+                                            
+                                            
+                                                20 
+                                            
+                                            
+                                                20 
+                                            
+                                        
+                                    
+                                    
+
+ 
+ Cprocesso per i combustibili liquidi (tenore di O2 3 %): 
+ 
+ 
+                                    
+                                        
+                                            
+                                                 Sostanza inquinante 
+                                            
+                                            
+                                                 50 MWth 
+                                            
+                                            
+                                                da 50 a 100 MWth 
+                                            
+                                            
+                                                da 100 a 300 MWth 
+                                            
+                                            
+                                                 300 MWth 
+                                            
+                                        
+                                        
+                                            
+                                                SO2 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                350 
+                                            
+                                            
+                                                200 
+                                            
+                                            
+                                                150 
+                                            
+                                        
+                                        
+                                            
+                                                NOx 
+                                            
+                                            
+                                                - 
+                                            
+                                            
+                                                300 
+                                            
+                                            
+                                                150 
+                                            
+                                            
+                                                100 
+                                            
+                                        
+                                        
+                                            
+                                                Polvere 
+                                            
+                                            
+                                                50 
+                                            
+                                            
+                                                20 
+                                            
+                                            
+                                                20 
+                                            
+                                            
+                                                10 
+                                            
+                                        
+                                    
+                                    
+    
+ 3.3. C - Valori limite totali di emissione per metalli pesanti (in mg/Nm3 ) espresso come valori medi in un periodo di campionamento minimo di 30 minuti e massimo di 8 ore (tenore di O2 6 % per i combustibili solidi e 3 % per i combustibili liquidi). 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Sostanze inquinanti 
+                                            
+                                            
+                                                C 
+                                            
+                                        
+                                        
+                                            
+                                                Cd + Tl 
+                                            
+                                            
+                                                0,05 
+                                            
+                                        
+                                        
+                                            
+                                                Hg 
+                                            
+                                            
+                                                0,05 
+                                            
+                                        
+                                        
+                                            
+                                                Sb + As + Pb + Cr + Co + Cu + Mn + Ni + V 
+                                            
+                                            
+                                                0,5 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ a. C - valori limite totali di emissione per diossine e furani, IPA e PCB-Dl espresso come valore medio misurato in un periodo di campionamento minimo di 6 ore e massimo di 8 ore (tenore di O2 6 % per i combustibili solidi e 3 % per i combustibili liquidi). 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Sostanza inquinante 
+                                            
+                                            
+                                                C 
+                                            
+                                        
+                                        
+                                            
+                                                Diossine e furani (come Teq) 
+                                            
+                                            
+                                                0,1 ng/Nm³ 
+                                            
+                                        
+                                        
+                                            
+                                                IPA 
+                                            
+                                            
+                                                0,01 mg/Nm³ 
+                                            
+                                        
+                                        
+                                            
+                                                PCB-Dl (come Teq) 
+                                            
+                                            
+                                                0,1 ng/Nm³ 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ 4. Disposizioni speciali per gli impianti di coincenerimento di rifiuti nei settori industriali non contemplati nei punti 2 e 3 della presente parte 
+ 4.1. C - valore limite totale di emissione per diossine e furani, IPA e PCB DL espresso come valore medio misurato in un periodo di campionamento minimo di 6 ore e massimo di 8 ore: 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Sostanza inquinante 
+                                            
+                                            
+                                                C 
+                                            
+                                        
+                                        
+                                            
+                                                Diossine e furani (come Teq) 
+                                            
+                                            
+                                                0,1 ng/Nm³ 
+                                            
+                                        
+                                        
+                                            
+                                                IPA 
+                                            
+                                            
+                                                0,01 mg/Nm³ 
+                                            
+                                        
+                                        
+                                            
+                                                PCB-Dl (come Teq) 
+                                            
+                                            
+                                                0,1 ng/Nm³ 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ 4.2. C - valori limite totali di emissione (in mg/Nm3) per i metalli pesanti espresso come valori medi misurati in un periodo di campionamento minimo di 30 minuti e massimo di 8 ore: 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Sostanze inquinanti 
+                                            
+                                            
+                                                C 
+                                            
+                                        
+                                        
+                                            
+                                                Cd + Tl 
+                                            
+                                            
+                                                0,05 
+                                            
+                                        
+                                        
+                                            
+                                                Hg 
+                                            
+                                            
+                                                0,05 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ B. NORMALIZZAZIONE 
+ Condizioni di cui all'articolo 237 nonies del Titolo III-bis della Parte IV del presente decreto legislativo - temperatura 273,15 °K; - pressione 101,3 kPa. - gas secco. 
+ nonche' ad un tenore di ossigeno di riferimento nell'effluente gassoso secco stabilito o determinato in accordo a quanto previsto al precedente paragrafo A, utilizzando la seguente formula: 
+ 
+ 21 - Os 
+Es = -------------- x Em 
+ 21 - Om 
+ 
+ nella quale: 
+Es = concentrazione di emissione calcolata al tenore di ossigeno di riferimento; Em = concentrazione di emissione misurata; Os = tenore di ossigeno di riferimento; Om = tenore di ossigeno misurato. 
+ Se i rifiuti sono coinceneriti in una atmosfera arricchita di ossigeno, l'autorita' competente puo' fissare un tenore di ossigeno di riferimento diverso che rifletta le speciali caratteristiche dell'incenerimento. 
+ Nel caso di coincenerimento di rifiuti pericolosi, la normalizzazione in base al tenore di ossigeno e' applicata soltanto se il tenore di ossigeno misurato supera il pertinente tenore di ossigeno di riferimento. 
+ C. METODI DI CAMPIONAMENTO, ANALISI E VALUTAZIONE DELL'OSSERVANZA DEI VALORI LIMITE DELLE EMISSIONI IN ATMOSFERA 
+ 1. Valutazione dei risultati delle misurazioni Per le misurazioni in continuo i valori limite di emissione si intendono rispettati se:
+a) nessuno dei valori medi giornalieri supera uno qualsiasi dei pertinenti valori limite di emissione stabiliti nel presente Allegato; b) nessuno dei valori medi rilevati per i metalli pesanti, per le diossine e i furani e per gli idrocarburi policiclici aromatici e PCB-DL supera i pertinenti valori limite di emissione stabiliti nel presente Allegato. 
+ I valori medi su 30 minuti sono determinati durante il periodo di effettivo funzionamento (esclusi i periodi di avvio e di arresto se non vengono inceneriti rifiuti) in base ai valori misurati, previa sottrazione del rispettivo valore dell'intervallo di confidenza al 95% riscontrato sperimentalmente. 
+ L'assicurazione di qualita' dei sistemi automatici di misurazione e la loro taratura in base ai metodi di misurazione di riferimento devono essere eseguiti in conformita' alla norma UNI EN 14181 
+ I valori degli intervalli di confidenza di ciascun risultato delle misurazioni effettuate, non possono eccedere le seguenti percentuali dei valori limite di emissione riferiti alla media giornaliera: 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Polveri totali 
+                                            
+                                            
+                                                30% 
+                                            
+                                        
+                                        
+                                            
+                                                Carbonio organico totale 
+                                            
+                                            
+                                                30% 
+                                            
+                                        
+                                        
+                                            
+                                                Acido cloridrico 
+                                            
+                                            
+                                                40% 
+                                            
+                                        
+                                        
+                                            
+                                                Acido fluoridrico 
+                                            
+                                            
+                                                40% 
+                                            
+                                        
+                                        
+                                            
+                                                Biossido di zolfo 
+                                            
+                                            
+                                                20% 
+                                            
+                                        
+                                        
+                                            
+                                                Biossido di azoto 
+                                            
+                                            
+                                                20% 
+                                            
+                                        
+                                        
+                                            
+                                                Monossido di carbonio 
+                                            
+                                            
+                                                10% 
+                                            
+                                        
+                                        
+                                            
+                                                Ammoniaca 
+                                            
+                                            
+                                                30% 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ I valori medi giornalieri sono determinati in base ai valori medi convalidati. 
+ Per ottenere un valore medio giornaliero valido non possono essere scartati piu' di 5 valori medi su 30 minuti in un giorno qualsiasi a causa di disfunzioni o per ragioni di manutenzione del sistema di misurazione in continuo. Non piu' di 10 valori medi giornalieri all'anno possono essere scartati a causa di disfunzioni o per ragioni di manutenzione del sistema di misurazione in continuo. 
+ Per le misurazioni periodiche, la valutazione della rispondenza delle misurazioni ai valori limite di emissione si effettua secondo i seguenti metodi: 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Parametro 
+                                            
+                                            
+                                                Metodo 
+                                            
+                                        
+                                        
+                                            
+                                                Temperatura 
+                                            
+                                            
+                                                UNI EN ISO 16911:2013 
+                                            
+                                        
+                                        
+                                            
+                                                Pressione 
+                                            
+                                            
+                                                UNI EN ISO 16911:2013 
+                                            
+                                        
+                                        
+                                            
+                                                Velocita' 
+                                            
+                                            
+                                                UNI EN ISO 16911:2013 
+                                            
+                                        
+                                        
+                                            
+                                                Portata 
+                                            
+                                            
+                                                UNI EN ISO 16911:2013 
+                                            
+                                        
+                                        
+                                            
+                                                Umidita' 
+                                            
+                                            
+                                                UNI EN 14790:2006 
+                                            
+                                        
+                                        
+                                            
+                                                Ossigeno (O2) 
+                                            
+                                            
+                                                UNI EN 14789:2006 
+                                            
+                                        
+                                        
+                                            
+                                                Acido Cloridrico (HCl) 
+                                            
+                                            
+                                                UNI EN 1911:2010 
+                                            
+                                        
+                                        
+                                            
+                                                Acido Fluoridrico (HF) 
+                                            
+                                            
+                                                ISO15713 :2006 
+                                            
+                                        
+                                        
+                                            
+                                                Ossidi Di Azoto (NOx) Espressi Come NO2 
+                                            
+                                            
+                                                UNI EN 14792 : 2006 
+                                            
+                                        
+                                        
+                                            
+                                                Ammoniaca (NH³) 
+                                            
+                                            
+                                                EPA CTM-027 :1997 
+                                            
+                                        
+                                        
+                                            
+                                                Biossido Di Zolfo (SO2) 
+                                            
+                                            
+                                                UNI EN 14791:2006 
+                                            
+                                        
+                                        
+                                            
+                                                Monossido Di Carbonio (CO) 
+                                            
+                                            
+                                                UNI EN 15058:2006 
+                                            
+                                        
+                                        
+                                            
+                                                TOC Espresso Come C 
+                                            
+                                            
+                                                UNI EN 12619 : 2013 
+                                            
+                                        
+                                        
+                                            
+                                                PCDD/PCDF Come (Teq) 
+                                            
+                                            
+                                                UNI EN 1948-1,2,3 : 2006 
+                                            
+                                        
+                                        
+                                            
+                                                PCB-Dl come (Teq) 
+                                            
+                                            
+                                                UNI EN 1948-1,2,3,4 :2010 
+                                            
+                                        
+                                        
+                                            
+                                                IPA 
+                                            
+                                            
+                                                ISO 11338 -1 e 2:2003 
+                                            
+                                        
+                                        
+                                            
+                                                Polveri 
+                                            
+                                            
+                                                UNI EN 13284-1:2003 
+                                            
+                                        
+                                        
+                                            
+                                                Mercurio (Hg) 
+                                            
+                                            
+                                                UNI EN 13211:2003 
+                                            
+                                        
+                                        
+                                            
+                                                Metalli Pesanti (As,Cd, Cr, Co, Cu, Mn, Ni, Pb, Sb, Tl, V) 
+                                            
+                                            
+                                                 UNI EN 14385:2004 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ In caso di misure discontinue, al fine di valutare la conformita' delle emissioni convogliate ai valori limite di emissioni, la concentrazione e' calcolata preferibilmente come media di almeno tre campionamenti consecutivi e riferiti ciascuno ai periodi di campionamento indicati all'Allegato 1, lettera A nelle condizioni di esercizio piu' gravose dell'impianto. 
+ D. ACQUE DI SCARICO DALL'IMPIANTO DI COINCENERIMENTO E RELATIVE NORME SU CAMPIONAMENTO, ANALISI E VALUTAZIONE 
+ Per gli impianti di coincenerimento valgono le disposizioni dei paragrafi D ed E dell'Allegato 1, relative agli impianti di incenerimento. 
+ Allegato 3 al Titolo III-bis alla Parte Quarta NORME TECNICHE PER IL COINCENERIMENTO DEI PRODOTTI TRASFORMATI DERIVATI DA MATERIALI DI CATEGORIA 1, 2 E 3 DI CUI AL REGOLAMENTO (CE) 1069/2009. 
+ 1. Tipologia: Prodotti trasformati e derivati da materiali di categoria 1, 2 e 3, ivi compresi i grassi; partite di alimenti zootecnici' contenenti frazioni dei materiali predetti. 
+ 1.1 Provenienza: impianti di trasformazione riconosciuti ai sensi del regolamento (CE) 1069/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, per le partite di alimenti zootecnici contenenti frazioni dei materiali predetti e' ammessa qualsiasi provenienza 
+ 1.2 Caratteristiche: a) farina proteica animale e/o alimenti zootecnici aventi le seguenti caratteristiche: P.C.I. sul tal quale 12.000 kJ/kg min; umidita' 10% max; ceneri sul secco 40% max. b) grasso animale avente le seguenti caratteristiche: P.C.I. sul tal quale 30.000 kJ/kg min; umidita' 2% max; ceneri sul secco 2% max. 
+ I parametri di cui ai punti a) e b) devono essere documentati dal produttore in aggiunta alla documentazione sanitaria prevista dalla vigente normativa. 
+ 1.3 Il coincenerimento con recupero energetico, comprende anche la relativa messa in riserva presso l'impianto. Durante tutte le fasi dell'attivita' devono essere evitati il contatto diretto e la manipolazione dei rifiuti di cui al punto 1.2, nonche' qualsiasi forma di dispersione ambientale degli stessi."
 
 ## Art. 28. — Modifiche agli allegati alla Parte Quinta del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni
 
@@ -1409,7 +4518,46 @@ All'Allegato II, parte III, alla Parte Quinta, del decreto legislativo 3 aprile 
 
 All'Allegato II alla Parte Quinta del decreto legislativo 3 aprile 2006, n. 152, la parte V e' soppressa.
 
+15.
+                        
+                            
+                                All'Allegato III, parte I, paragrafo 2, alla Parte Quinta, del decreto legislativo 3 aprile 2006, n. 152: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il punto 2.3 e' sostituito dal seguente: 
+ "2.3. Agli effluenti gassosi che emettono COV ai quali sono state assegnate o sui quali devono essere apposte le indicazioni di pericolo H341 o H351 o ai quali sono state assegnate etichette con le frasi di rischio R40, R68, in una quantita' complessivamente uguale o superiore a 100 g/h, si applica un valore limite di emissione di 20 mg/Nm³, riferito alla somma delle masse dei singoli COV."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dal 1° giugno 2015 i punti 2.1 e 2.3 sono sostituiti dai seguenti: 
+ "2.1. Le sostanze e le miscele alle quali, a causa del loro tenore di COV classificati dal regolamento 1272/2008 come cancerogeni, mutageni o tossici per la riproduzione, sono state assegnate o sulle quali devono essere apposte le indicazioni di pericolo H340, H350, H350i, H360D o H360F sono sostituite quanto prima con sostanze e miscele meno nocive, tenendo conto delle linee guida della Commissione europea, ove emanate. 
+ 2.3. Agli effluenti gassosi che emettono COV ai quali sono state assegnate o sui quali devono essere apposte le indicazioni di pericolo H341 o H351 in una quantita' complessivamente uguale o superiore a 100 g/h, si applica un valore limite di emissione di 20 mg/Nm³, riferito alla somma delle masse dei singoli COV.".
+
 All'Allegato III, parte I, paragrafo 4, alla Parte Quinta, del decreto legislativo 3 aprile 2006, n. 152, e' aggiunto il seguente punto: "4.3-bis Nel determinare la concentrazione di massa dell'inquinante nell'effluente gassoso non sono presi in considerazione i volumi di gas che possono essere aggiunti, ove tecnicamente giustificato, per scopi di raffreddamento o di diluizione.".
+
+17.
+                        
+                            
+                                All'Allegato III, parte IV, alla Parte Quinta, del decreto legislativo 3 aprile 2006, n. 152: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel paragrafo 1 il periodo: "A tal fine i progetti di cui all'articolo 275, comma 8, e le richieste di autorizzazione di cui all'articolo 275, comma 9, indicano le emissioni bersaglio da rispettare e tutti gli elementi necessari a valutarne l'equivalenza." e' soppresso. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il paragrafo 3 e' soppresso.
 
 Dopo l'allegato X alla Parte Quinta del decreto legislativo 3 aprile 2006, n. 152, e' aggiunto il seguente allegato I alla parte quinta-bis: 
  "Allegato I 
@@ -1456,6 +4604,24 @@ Per gli impianti di cui all'articolo 268, comma 1, lettera gg), numero 3), del d
 Le modifiche previste al comma 15 dell'articolo 28, in caso di stabilimenti in esercizio alla data di entrata in vigore del presente decreto, sono applicate dalle autorizzazioni rilasciate in sede di rinnovo o riesame.
 
 ## Art. 30. — Ulteriori disposizioni per l'attuazione del regolamento (CE) n. 166 del 2006 relativo all'istituzione di un registro europeo delle emissioni e dei trasferimenti di sostanze inquinanti e che modifica le direttive 91/689/CEE e 96/61/CE
+
+1.
+                        
+                            
+                                Le autorita' competenti ad ottemperare agli obblighi di comunicazione e di valutazione della qualita' dei dati, di cui all'articolo 3, comma 2, del decreto del Presidente della Repubblica 11 luglio 2011, n. 157, sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per complessi in cui almeno una installazione svolge un'attivita' di cui all'Allegato VIII alla Parte Seconda del decreto legislativo 3 aprile 2006, n. 152, la o le autorita' competenti al rilascio dell'autorizzazione integrata ambientale, ai sensi delle norme vigenti al momento dell'avvio del procedimento di autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i complessi non compresi nella lettera a), la stessa autorita' competente prevista alla medesima lettera a) per un impianto di combustione che nella medesima localita' raggiungesse la potenza termica di 51 MW, salvo diversa indicazione della regione o della provincia autonoma in cui il complesso e' localizzato, che deve essere notificata, per ciascuna annualita' di rilevazione, al Ministero dell'ambiente e della tutela del territorio e del mare e all'Istituto superiore per la protezione e la ricerca ambientale entro il 30 marzo.
 
 Le comunicazioni annuali di cui all'articolo 14 del decreto 14 febbraio 2013, n. 22, sono effettuate con le modalita' previste dal decreto del Presidente della Repubblica 11 luglio 2011, n. 157.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2023-05-22;86
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -50,11 +50,61 @@ Resta fermo il rispetto degli standard di qualita' ambientale stabiliti dal decr
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si applicano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                autorita' competente: l'Autorita' per la Laguna di Venezia - Nuovo Magistrato alle Acque - di cui all'articolo 95 del decreto-legge n. 104 del 2020, convertito, con modificazioni, dalla legge n. 126 del 2020; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                movimentazione dei sedimenti: il complesso delle operazioni di scavo, prelievo e trasporto dei sedimenti provenienti dal contermine lagunare di Venezia e loro ricollocazione in aree ubicate all'interno del contermine stesso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                contermine lagunare di Venezia: l'area interna al tracciato risultante dalla planimetria allegata al decreto del Ministro dei lavori pubblici del 9 febbraio 1990, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 44 del 22 febbraio 1990.
+
 ## Art. 3.
 
 Procedimento per il rilascio dell'autorizzazione relativa all'attivita' di movimentazione
 
 Ai fini del rilascio dell'autorizzazione di cui al comma 2, il richiedente provvede, con oneri a proprio carico, alla caratterizzazione, alla classificazione e alla individuazione delle possibili opzioni di gestione dei sedimenti secondo le modalita' stabilite dall'Allegato I.
+
+2.
+                    
+                        
+                            Espletate le attivita' di caratterizzazione e classificazione di cui al comma 1, il richiedente presenta all'autorita' competente apposita istanza per l'autorizzazione alle operazioni di scavo, prelievo e trasporto dei sedimenti e loro ricollocazione in aree ubicate all'interno del contermine lagunare, trasmettendo alla medesima autorita': 
+ 
+                        
+                        
+                            a)
+                            
+                                i risultati analitici della caratterizzazione effettuata ai sensi dell'Allegato I, corredati da relazione tecnica che fornisca informazioni dettagliate sulle modalita' con cui e' stata effettuata la caratterizzazione dei sedimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di movimentazione e gestione dei sedimenti oggetto dell'istanza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il piano di monitoraggio, volto a prevenire e mitigare i possibili effetti dannosi per la salute e l'ambiente derivanti dalla movimentazione e gestione.
 
 L'autorizzazione di cui al comma 2 e' rilasciata nel rispetto delle indicazioni tecniche e operative relative alle operazioni di scavo, prelievo e trasporto dei sedimenti e loro ricollocazione in aree ubicate all'interno del contermine lagunare e alle attivita' di monitoraggio ambientale, di cui all'Allegato I e delle eventuali prescrizioni rilasciate dall'autorita' competente per la valutazione di incidenza ai sensi dell'articolo 5 del decreto del Presidente della Repubblica n. 357 del 1997.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2018-12-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,7 +26,63 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                «intermediari»:
+ 1) le banche italiane e le succursali in Italia di banche comunitarie ed extracomunitarie, come definite dal decreto legislativo 1° settembre 1993, n. 385;
+ 2) gli intermediari finanziari di cui agli articoli 106 e 107 del decreto legislativo 1° settembre 1993, n. 385;
+ 3) le imprese di assicurazione operanti in Italia di cui all'articolo 1 del decreto legislativo 7 settembre 2005, n. 209;
+ 4) le societa' di intermediazione mobiliare di cui all'articolo 1, comma 1, lettera e), del decreto legislativo 24 febbraio 1998, n. 58, e le succursali in Italia di imprese di investimento comunitarie ed extracomunitarie di cui al medesimo decreto;
+ 5) le societa' di gestione del risparmio di cui all'articolo 1, lettera o), del decreto legislativo 24 febbraio 1998, n. 58, e le succursali in Italia delle societa' di gestione armonizzate di cui al medesimo decreto;
+ 6) la societa' per azioni Poste italiane - Divisione Bancoposta di cui all'articolo 2, comma 1, del decreto del Presidente della Repubblica 14 marzo 2001, n. 144;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Dormienti», i rapporti contrattuali di cui all'articolo 2 in relazione ai quali non sia stata effettuata alcuna operazione o movimentazione ad iniziativa del titolare del rapporto o di terzi da questo delegati, escluso l'intermediario non specificatamente delegato in forma scritta, per il periodo di tempo di 10 anni decorrenti dalla data di libera disponibilita' delle somme e degli strumenti finanziari di cui all'articolo 2, comma 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «fondo», il fondo di cui all'articolo 1, comma 343, della legge 23 dicembre 2005, n. 266.
+
 ## Art. 2. — Campo di applicazione
+
+1.
+                    
+                        
+                            Rientrano nel campo di applicazione del presente regolamento i seguenti rapporti contrattuali:
+ 
+                        
+                        
+                            a)
+                            
+                                deposito di somme di denaro, effettuato presso l'intermediario con l'obbligo di rimborso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                deposito di strumenti finanziari in custodia ed amministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                contratto di assicurazione di cui all'articolo 2, comma 1, del decreto legislativo 7 settembre 2005, n. 209, in tutti i casi in cui l'assicuratore si impegna al pagamento di una rendita o di un capitale al beneficiario ad una data prefissata.
 
 L'applicazione del presente regolamento e' esclusa nei casi in cui il valore dei beni di cui al comma 1 non superi i cento euro.
 

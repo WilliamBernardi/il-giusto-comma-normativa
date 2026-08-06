@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-06-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,7 +28,141 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro della sa
 
 Il presente decreto legislativo disciplina le sostanze indesiderabili nei prodotti destinati all'alimentazione degli animali.
 
+2.
+                    
+                        
+                            Sono fatte salve le disposizioni relative:
+ 
+                        
+                        
+                            a)
+                            
+                                agli additivi nell'alimentazione degli animali, disciplinati dal decreto del Presidente della Repubblica 2 novembre 2001, n. 433;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla commercializzazione dei mangimi, disciplinati dalla legge 15 febbraio 1963, n. 281, e successive modificazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al decreto del Ministro della sanita' in data 19 maggio 2000, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 207 del 5 settembre 2000, e successive modificazioni, a condizione che i residui ivi previsti non siano menzionati nell'allegato I;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ai microrganismi nei mangimi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ai prodotti impiegati nell'alimentazione degli animali, di cui all'allegato B del decreto del Ministro della sanita' in data 13 novembre 1985, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 293 del 13 dicembre 1985;
+
+                            
+                        
+                        
+                            f)
+                            
+                                ai mangimi per animali disciplinati, dal decreto legislativo 24 febbraio 1997, n. 45, e successive modificazioni.
+
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «mangimi»: i prodotti di origine vegetale o animale, allo stato naturale, freschi o conservati, nonche' i derivati della loro trasformazione industriale, come pure le sostanze organiche o inorganiche, semplici o in miscela, comprendenti o no additivi, destinati all'alimentazione degli animali per via orale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «materie prime per mangimi»: i diversi prodotti di origine vegetale o animale, allo stato naturale, freschi o conservati, nonche' i derivati della loro trasformazione industriale, come pure le sostanze organiche o inorganiche, comprendenti o no additivi, destinati all'alimentazione degli animali per via orale, direttamente come tali o previa trasformazione, alla preparazione di mangimi composti oppure ad essere usati come supporto delle premiscele;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «additivo»: additivo quale definito dall'articolo 2, comma 1, lettera a), del decreto del Presidente della Repubblica 2 novembre 2001, n. 433;
+
+                            
+                        
+                        
+                            d)
+                            
+                                «premiscele»: le miscele di additivi o le miscele di uno o piu' additivi con sostanze usate come supporto, destinate alla fabbricazione di mangimi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «mangimi composti»: miscele di materie prime per mangimi, comprendenti o no additivi, destinati all'alimentazione animale per via orale, sotto forma di mangimi completi o di mangimi complementari;
+
+                            
+                        
+                        
+                            f)
+                            
+                                «mangimi complementari»: le miscele di mangimi che contengono tassi elevati di alcune sostanze e che, per la loro composizione, assicurano la razione giornaliera soltanto se sono associate ad altri alimenti per gli animali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «mangimi completi»: le miscele di mangimi che, per la loro composizione, sono sufficienti ad assicurare una razione giornaliera;
+
+                            
+                        
+                        
+                            h)
+                            
+                                «prodotti destinati all'alimentazione degli animali»: materie prime per mangimi, premiscele, additivi, mangimi ed ogni altro prodotto destinato ad essere utilizzato o gia' utilizzato per l'alimentazione degli animali;
+
+                            
+                        
+                        
+                            i)
+                            
+                                «razione giornaliera»: la quantita' totale di mangimi, sulla base di un tasso di umidita' del 12 per cento, necessaria in media al giorno ad un animale di una specie, di una categoria d'eta' e di un rendimento determinati, per soddisfare tutti i suoi bisogni;
+
+                            
+                        
+                        
+                            l)
+                            
+                                «animali»: gli animali appartenenti a specie normalmente nutrite e detenute o consumate dall'uomo, nonche', gli animali che vivono allo stato brado se sono nutriti con mangimi;
+
+                            
+                        
+                        
+                            m)
+                            
+                                «immissione in circolazione» o «circolazione»: la detenzione compresa l'offerta, di prodotti destinati all'alimentazione degli animali a fini di vendita, o altre forme di trasferimento a terzi, a titolo gratuito o oneroso, nonche' la vendita stessa o le altre forme di trasferimento;
+
+                            
+                        
+                        
+                            n)
+                            
+                                «sostanza indesiderabile»: qualsiasi sostanza o prodotto, ad eccezione dei microrganismi patogeni, presente nel prodotto o sul prodotto destinato all'alimentazione degli animali che costituisce un pericolo potenziale per la salute animale o umana, o per l'ambiente, o che puo' influire sfavorevolmente sull'allevamento.
 
 ## Art. 3. — Limiti di tolleranza
 

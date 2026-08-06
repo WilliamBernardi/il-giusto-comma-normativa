@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2022-09-13;172
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,73 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione Consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                OAM: l'organismo per la gestione degli elenchi degli agenti in attivita' finanziaria e dei mediatori creditizi, istituito ai sensi dell'articolo 128-undecies del testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1° settembre 1993, n. 385; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                TUB: il decreto legislativo 1° settembre 1993, n. 385 (Testo Unico Bancario); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ABE: l'autorita' bancaria europea di cui all'articolo 1, comma 1, lettera h-bis), n. 1), del TUB; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                intermediari del credito dell'Unione europea: i soggetti di cui all'articolo 128-novies.1, comma 2, del TUB, che svolgono nel territorio della Repubblica, anche senza stabilirvi succursali, una o piu' delle attivita' previste dall'articolo 120-quinquies, comma 1, lettera g), del TUB, iscritti nell'elenco di cui alla lettera f) del presente articolo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                succursale: una sede o un qualsivoglia punto operativo sul territorio nazionale, che costituisce una parte dell'intermediario del credito dell'Unione europea, sprovvista di personalita' giuridica, che effettua, in tutto o in parte, l'attivita' per cui il medesimo e' stato autorizzato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                elenco: l'elenco degli intermediari del credito dell'Unione europea tenuto dall'OAM, previsto dall'articolo 128-novies.1, comma 3, del TUB; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dipendenti e collaboratori: i soggetti di cui gli intermediari del credito dell'Unione europea si avvalgono per lo svolgimento, nel territorio della Repubblica, dell'attivita' a contatto con il pubblico; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Regolamento Interno: il regolamento, adottato con delibera del 3 maggio 2012 del comitato di gestione, e successive modifiche, che disciplina il funzionamento dell'Organismo e lo svolgimento delle principali attribuzioni dello stesso; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                Regolamento sanzionatorio OAM: il regolamento integrativo, adottato con delibera del 7 agosto 2013 del comitato di gestione, e successive modifiche, concernente la procedura sanzionatoria per le violazioni accertate dall'Organismo nell'esercizio dei propri compiti di controllo e la procedura di cancellazione ai sensi dell'articolo 128-duodecies, comma 3, del TUB.
+
 ## Art. 2. — Oggetto e ambito di applicazione
 
 Il presente decreto stabilisce le forme e le modalita' con le quali l'OAM esercita le attivita' e i poteri previsti dal comma 1-sexies dell'articolo 128-duodecies del TUB nei confronti degli intermediari del credito dell'Unione europea, al fine di tutelare i consumatori e presidiare la trasparenza e la competitivita' del mercato.
@@ -34,6 +101,31 @@ Gli intermediari del credito dell'Unione europea che intendono svolgere sul terr
 
 ## Art. 3. — Poteri dell'OAM nei confronti degli intermediari 
  del credito dell'Unione europea
+
+1.
+                    
+                        
+                            Per le finalita' di cui all'articolo 128-duodecies, comma 1-sexies, del TUB, l'OAM svolge nei confronti degli intermediari del credito dell'Unione europea attivita' di controllo: 
+ 
+                        
+                        
+                            a)
+                            
+                                a distanza, ossia mediante richieste periodiche o mirate di informazioni, dati, atti e documenti concernenti l'attivita' esercitata dagli intermediari del credito dell'Unione europea, dai dipendenti e dai collaboratori degli stessi, fissando i termini di riscontro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                mediante audizioni personali degli intermediari del credito dell'Unione europea, nonche' dei dipendenti e collaboratori degli stessi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                mediante accertamenti ispettivi presso le succursali, dopo aver informato l'autorita' competente dello Stato membro di origine.
 
 Le attivita' di controllo dell'OAM di cui al comma 1 sono effettuate sulla base di un programma periodico, definito dall'OAM a cadenza almeno annuale, comprensivo del piano delle verifiche ispettive, secondo quanto previsto nel proprio regolamento interno.
 

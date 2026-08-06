@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2023-04-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,15 +31,148 @@ Sulla proposta del Ministro per gli affari europei e dei Ministri della salute, 
 
 Finalita' e principi del sistema di radioprotezione ( ((Direttiva 2013/59/Euratom)), articoli 1 e 5)
 
+1.
+                        
+                            
+                                Il presente decreto stabilisce norme di sicurezza al fine di proteggere le persone dai pericoli derivanti dalle radiazioni ionizzanti, e disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la protezione sanitaria delle persone soggette a qualsiasi tipo di esposizione alle radiazioni ionizzanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il mantenimento e la promozione del continuo miglioramento della sicurezza nucleare degli impianti nucleari civili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la gestione responsabile e sicura del combustibile nucleare esaurito e dei rifiuti radioattivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sorveglianza e il controllo delle spedizioni di rifiuti radioattivi e di combustibile esaurito e materie radioattive.
+
 Le disposizioni del presente decreto fissano i requisiti e i regimi di controllo relativi alle diverse situazioni di esposizione.
 
 Il sistema di radioprotezione si basa sui principi di giustificazione, ottimizzazione e limitazione delle dosi.
+
+4.
+                        
+                            
+                                In attuazione dei principi di cui al comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli atti giuridici che consentono lo svolgimento di una pratica garantiscono che il beneficio per i singoli individui o per la collettivita' sia prevalente rispetto al detrimento sanitario che essa potrebbe causare. Le determinazioni che introducono o modificano una via di esposizione e le determinazioni per le situazioni di esposizione esistenti e di emergenza devono apportare piu' benefici che svantaggi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la radioprotezione di individui soggetti a esposizione professionale e del pubblico e' ottimizzata allo scopo di mantenere al minimo ragionevolmente ottenibile le dosi individuali, la probabilita' dell'esposizione e il numero di individui esposti, tenendo conto dello stato delle conoscenze tecniche e dei fattori economici e sociali. L'ottimizzazione della protezione di individui soggetti a esposizione medica e' riferita all'entita' delle singole dosi, compatibilmente con il fine medico dell'esposizione. Questo principio si applica non solo in termini di dose efficace ma, ove appropriato, anche in termini di dose equivalente, come misura precauzionale destinata a mantenere le incertezze relative al detrimento sanitario al di sotto della soglia per le reazioni tissutali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nelle situazioni di esposizione pianificata, la somma delle dosi cui e' esposto un individuo non puo' superare i limiti fissati per l'esposizione professionale o del pubblico. Le esposizioni mediche non sono soggette a limitazioni delle dosi.
 
 ## Art. 2.
 
 Ambito di applicazione ( ((Direttiva 2013/59/Euratom)), articolo 2; decreto legislativo 17 marzo 1995, n. 230, articolo 1, commi 1 e 2).
 
 Le disposizioni del presente decreto si applicano a qualsiasi situazione di esposizione pianificata, esistente o di emergenza che comporti un rischio da esposizione a radiazioni ionizzanti che non puo' essere trascurato sia dal punto di vista della radioprotezione sia per quanto riguarda l'ambiente ai fini della protezione della salute umana a lungo termine.
+
+2.
+                        
+                            
+                                In particolare le disposizioni del presente decreto si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle spedizioni di rifiuti radioattivi, di combustibile esaurito e di materie radioattive, escluse le spedizioni transfrontaliere di rifiuti che contengono soltanto materiale radioattivo di origine naturale non proveniente da pratiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla costruzione, all'esercizio e alla disattivazione degli impianti nucleari civili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla gestione del combustibile esaurito e dei rifiuti radioattivi dalla generazione fino allo smaltimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla fabbricazione, alla produzione, alla lavorazione, alla manipolazione, allo smaltimento, all'uso, allo stoccaggio, alla detenzione, al trasporto, all'importazione nell'Unione europea e all'esportazione dall'Unione Europea di materie, materiali e sorgenti radioattivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alla fabbricazione e al funzionamento di apparecchiature elettriche che emettono radiazioni ionizzanti e contengono componenti funzionanti con una differenza di potenziale superiore a 5 chilovolt (kV); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    alle attivita' umane che implicano la presenza di sorgenti di radiazioni naturali, che determinano un significativo aumento dell'esposizione dei lavoratori o di individui della popolazione, in particolare: 
+ 1) al funzionamento di aeromobili e veicoli spaziali, in relazione all'esposizione del personale navigante; 
+ 2) alla lavorazione di materiali contenenti radionuclidi naturali; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'esposizione dei lavoratori o di individui della popolazione al radon in ambienti chiusi, all'esposizione esterna dovuta ai materiali da costruzione e ai casi di esposizione prolungata dovuta agli effetti di un'emergenza o di un'attivita' umana del passato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    alla preparazione, alla pianificazione della risposta e alla gestione di situazioni di esposizione di emergenza che giustificano misure volte a tutelare la salute di individui della popolazione o di lavoratori; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alle esposizioni mediche; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    alle esposizioni con metodiche per immagini a scopo non medico.
 
 Le condizioni per l'applicazione delle disposizioni del presente decreto sono definite negli allegati I e II.
 
@@ -48,6 +181,31 @@ Per quanto non diversamente previsto dal presente decreto si applicano le dispos
 ## Art. 3.
 
 Esclusione dall'ambito di applicazione ( ((Direttiva 2013/59/Euratom)), articolo 3; decreto legislativo 17 marzo 1995, n. 230, articolo 1, comma 1-bis).
+
+1.
+                        
+                            
+                                Sono escluse dal campo di applicazione del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esposizione al livello di radiazione naturale, risultante dai radionuclidi presenti nell'organismo umano e dalla radiazione cosmica presente al livello del suolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le esposizioni alla radiazione cosmica durante attivita' di volo o missioni nello spazio a cui sono esposti gli individui della popolazione o lavoratori non facenti parte dell'equipaggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esposizione, al livello del suolo, ai radionuclidi presenti nella crosta terrestre non perturbata.
 
 Ulteriori limiti al campo di applicazione del presente decreto sono stabiliti nei successivi Titoli con specifico riferimento a disposizioni in essi contenute.
 
@@ -60,6 +218,24 @@ Nuovi tipi o nuove classi di pratiche che comportano un'esposizione alle radiazi
 I tipi o le classi di pratiche esistenti sono sottoposti a riesame per quanto concerne gli aspetti di giustificazione ogniqualvolta emergano nuove e importanti prove sulla loro efficacia o sulle loro potenziali conseguenze, ovvero nuove e importanti informazioni su altre tecniche e tecnologie; a tal fine il soggetto che svolge la pratica ne da' comunicazione all'autorita' titolare del relativo procedimento.
 
 I tipi o le classi di pratiche che comportano esposizioni professionali e del pubblico devono essere giustificati tenendo conto di entrambe le categorie di esposizione.
+
+4.
+                        
+                            
+                                Le pratiche che comportano esposizioni mediche devono essere giustificate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    come tipo o classe di pratiche, tenendo conto delle esposizioni mediche e, ove pertinente, delle associate esposizioni professionali e del pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a livello di ciascuna esposizione medica individuale, secondo quanto stabilito nel Titolo XIII.
 
 ## Art. 5.
 
@@ -321,6 +497,63 @@ Le autorita' competenti, ciascuna nell'ambito delle proprie funzioni, predispong
 
 Salvo quanto previsto al comma 3, le funzioni ispettive per l'osservanza del presente decreto nonche', per quanto attiene alla sicurezza nucleare e alla protezione sanitaria, della legge 31 dicembre 1962, n. 1860, del decreto legislativo 15 febbraio 2010, n. 31 e della legge 28 aprile 2015, n. 58, sono attribuite all'ISIN, che le esercita a mezzo dei propri ispettori nominati con provvedimento del direttore dell'ISIN.
 
+3.
+                        
+                            
+                                Restano ferme: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le competenze delle singole amministrazioni previste dalle disposizioni in vigore, nonche' quelle attribuite agli organi del Servizio sanitario nazionale (SSN), agli organismi dell'Amministrazione della Difesa e quelle stabilite nei Titoli V, XI, XII; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le funzioni ispettive per l'osservanza delle disposizioni del Titolo XIII, che sono attribuite in via esclusiva agli organi del SSN; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le funzioni ispettive inerenti alle sorgenti naturali di radiazioni ionizzanti di cui al Titolo IV attribuite alle autorita' individuate nell'articolo 18, comma 2.
+
+4.
+                        
+                            
+                                Gli ispettori dell'ISIN hanno diritto all'accesso ovunque sono svolte attivita' soggette alla loro vigilanza e possono procedere a tutti gli accertamenti che hanno rilevanza per la sicurezza nucleare e la protezione dei lavoratori, del pubblico e dell'ambiente. A tal fine, in particolare, possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere dati e informazioni al personale addetto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiedere tutte le informazioni, accedere a tutta la documentazione, anche se di carattere riservato e segreto, limitatamente alla sicurezza nucleare e alla radioprotezione e nel rispetto della legislazione vigente sulla tutela del segreto di stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiedere la dimostrazione di efficienza di macchine e apparecchiature; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedere agli accertamenti che si rendono necessari a loro giudizio ai fini di garantire l'osservanza delle norme tecniche e delle prescrizioni particolari formulate ai sensi del presente decreto, nonche' delle norme di cui al comma 1.
+
 L'esercente delle attivita' di cui al comma 4, o chi lo rappresenta sul posto, e' tenuto a fornire tutte le informazioni, i dati e i documenti richiesti dagli ispettori dell'ISIN necessari per l'espletamento delle loro funzioni, e a consentire l'accesso all'intero impianto o struttura. Il segreto industriale non puo' essere opposto agli ispettori ISIN, che sono, a loro volta, tenuti all'obbligo della riservatezza ai sensi della normativa vigente.
 
 Copia del verbale di ispezione e' rilasciata all'esercente o a chi lo rappresenta sul posto, che ha diritto di fare inserire proprie dichiarazioni. L'ispettore fa menzione nello stesso verbale delle ragioni dell'eventuale assenza della sottoscrizione da parte dell'esercente o del suo rappresentante.
@@ -341,6 +574,38 @@ Piano nazionale d'azione per il radon ( ((Direttiva 2013/59/Euratom)), articolo 
 
 Entro dodici mesi dalla data di entrata in vigore del presente decreto, con decreto del Presidente del Consiglio dei ministri, su proposta dei Ministri dell'ambiente e della tutela del territorio e del mare e della salute, di concerto con i Ministri dello sviluppo economico, del lavoro e delle politiche sociali e delle infrastrutture e dei trasporti, d'intesa con la Conferenza Stato-Regioni, sentito l'ISIN e l'Istituto superiore di sanita' (ISS), e' adottato il Piano nazionale d'azione per il radon, concernente i rischi di lungo termine dovuti all'esposizione al radon.
 
+2.
+                        
+                            
+                                Il Piano si basa sul principio di ottimizzazione di cui all'articolo 1, comma 3, del presente decreto e individua conformemente a quanto previsto all'allegato III: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le strategie, i criteri e le modalita' di intervento per prevenire e ridurre i rischi di lungo termine dovuti all'esposizione al radon nelle abitazioni, negli edifici pubblici e nei luoghi di lavoro, anche di nuova costruzione, per qualsiasi fonte di radon, sia essa il suolo, i materiali da costruzione o l'acqua; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri per la classificazione delle zone in cui si prevede che la concentrazione di radon come media annua superi il livello di riferimento nazionale in un numero significativo di edifici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le regole tecniche e i criteri di realizzazione di misure per prevenire l'ingresso del radon negli edifici di nuova costruzione nonche' degli interventi di ristrutturazione su edifici esistenti che coinvolgono l'attacco a terra, inclusi quelli di cui all'articolo 3, comma 1, lettere b), c) e
+                                
+                            
+                            
+                                d)
+                                
+                                    del decreto del Presidente della Repubblica 6 giugno 2001, n. 380; 
+ d) gli indicatori di efficacia delle azioni pianificate.
+
 Entro ventiquattro mesi dalla data di entrata in vigore del Piano nazionale d'azione per il radon le Regioni e le Province autonome di Trento e Bolzano, adeguano i rispettivi ordinamenti alle indicazioni del Piano.
 
 Il Piano di cui al comma 1 e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana ed e' aggiornato con cadenza almeno decennale.
@@ -349,6 +614,24 @@ Il Piano di cui al comma 1 e' pubblicato nella Gazzetta Ufficiale della Repubbli
 
 Individuazione delle aree prioritarie ( ((Direttiva 2013/59/Euratom)), articolo 103, commi 1 e 2 e Allegato XVIII; decreto legislativo 17 marzo 1995, n. 230, articolo 10-sexies).
 
+1.
+                        
+                            
+                                Le Regioni e le Province autonome di Trento e Bolzano, entro ventiquattro mesi dall'entrata in vigore del Piano di cui all'articolo 10, sulla base delle indicazioni e dei criteri tecnici ivi contenuti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuano le aree in cui si stima che la concentrazione media annua di attivita' di radon in aria superi il livello di riferimento in un numero significativo di edifici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definiscono le priorita' d'intervento per i programmi specifici di misurazione al fine della riduzione dei livelli di concentrazione al di sotto dei livelli di riferimento e ne prevedono le modalita' attuative e i tempi di realizzazione.
+
 L'elenco delle aree di cui al comma 1, lettera a), e' pubblicato da ciascuna regione e provincia autonoma sulla Gazzetta Ufficiale della Repubblica italiana ed e' aggiornato ogni volta che il risultato di nuove indagini o una modifica dei criteri lo renda necessario.
 
 Fino al termine di cui al comma 1, Regioni e le Province autonome di Trento e Bolzano, sulla base di metodologie documentate, effettuano le misurazioni di radon, acquisiscono i relativi dati e individuano le aree prioritarie nelle quali la stima della percentuale di edifici che supera il livello di 300 Bq m-3 e' pari o superiore al 15 per cento, procedendo alla pubblicazione dell'elenco con le modalita' di cui al comma 2. La percentuale degli edifici e' determinata con indagini o misure di radon effettuate o riferite o normalizzate al piano terra.
@@ -356,6 +639,38 @@ Fino al termine di cui al comma 1, Regioni e le Province autonome di Trento e Bo
 ## Art. 12.
 
 Livelli di riferimento radon ( ((Direttiva 2013/59/Euratom)), articolo 7, articolo 54, comma 1, 74, comma 1; decreto legislativo 17 marzo 1995, n. 230, allegato I-bis, punto 4 lettera a)).
+
+1.
+                        
+                            
+                                I livelli massimi di riferimento per le abitazioni e i luoghi di lavoro, espressi in termini di valore medio annuo della concentrazione di attivita' di radon in aria, sono di seguito indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    300 Bq m-3 in termini di concentrazione media annua di attivita' di radon in aria per le abitazioni esistenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    200 Bq m-3 in termini di concentrazione media annua di attivita' di radon in aria per abitazioni costruite dopo il 31 dicembre 2024; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    300 Bq m-3 in termini di concentrazione media annua di attivita' di radon in aria per i luoghi di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il livello di cui all'articolo 17, comma 4, e' fissato in 6 mSv in termini di dose efficace annua o del corrispondente valore di esposizione integrata annua riportato nell'Allegato II, sez. I, punto 1.
 
 Con decreto del Presidente del Consiglio dei ministri, su proposta dei Ministri dell'ambiente e della tutela del territorio e del mare e della salute, di concerto con i Ministri dello sviluppo economico, del lavoro e delle politiche sociali e delle infrastrutture e dei trasporti, d'intesa con la Conferenza Stato-Regioni, sentito l'ISIN e l'Istituto superiore di sanita' possono essere individuati livelli di riferimento inferiori a quelli di cui al comma 1, anche differenziati in relazione ai diversi usi degli edifici, sulla base delle determinazioni del Piano di cui all'articolo 10 e dell'evoluzione degli orientamenti europei e internazionali.
 
@@ -393,9 +708,73 @@ Le misure correttive per la riduzione della concentrazione di radon negli edific
 
 Campo di applicazione ( ((Direttiva 2013/59/Euratom)), articoli 23 e 54; decreto legislativo 17 marzo 1995, n. 230, articolo 10-bis).
 
+1.
+                        
+                            
+                                Le disposizioni di cui alla presente sezione si applicano a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    luoghi di lavoro sotterranei; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    luoghi di lavoro in locali semisotterranei o situati al piano terra, localizzati nelle aree di cui all'articolo 11; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specifiche tipologie di luoghi di lavoro identificate nel Piano nazionale d'azione per il radon di cui all'articolo 10; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    stabilimenti termali.
+
 ## Art. 17.
 
 Obblighi dell'esercente ( ((Direttiva 2013/59/Euratom)), articoli 9, 31 e 54; decreto legislativo 17 marzo 1995, n. 230, articoli 10 ter e 10-quinquies).
+
+1.
+                        
+                            
+                                Nei luoghi di lavoro di cui all'articolo 16 l'esercente e' tenuto a completare le misurazioni della concentrazione media annua di attivita' di radon in aria entro ventiquattro mesi decorrenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dall'inizio dell'attivita' nell'ipotesi di cui all'articolo 16 comma 1, lettere a) e d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla pubblicazione nella Gazzetta Ufficiale della Repubblica Italiana dell'elenco di cui all'articolo 11, comma 2, nell'ipotesi di cui all'articolo 16, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dalla pubblicazione nella Gazzetta Ufficiale della Repubblica Italiana del Piano di cui all'articolo 10 o delle sue successive modifiche, nell'ipotesi di cui all'articolo 16, comma 1, lettera c); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dall'inizio delle attivita' se questo e' successivo al momento indicato nelle lettere b) e c).
 
 ((
 
@@ -481,6 +860,52 @@ L'istanza di autorizzazione all'allontanamento e' corredata dalle informazioni e
 
 L'autorizzazione all'allontanamento e' rilasciata dalle Regioni o dalle Province autonome di Trento e Bolzano.
 
+5.
+                        
+                            
+                                L'autorizzazione all'allontanamento fissa apposite prescrizioni relative alle condizioni per l'allontanamento o per il rilascio e in particolare stabilisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i livelli di allontanamento per i materiali solidi che soddisfano quanto previsto nell'allegato II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di verifica dei livelli di allontanamento per i materiali solidi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specifici vincoli sull'attivita' totale allontanata in un determinato intervallo di tempo, anche in relazione alla compresenza di piu' fonti di allontanamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' per il controllo degli effluenti aeriformi e liquidi rilasciati nell'ambiente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    specifici requisiti e condizioni, anche in relazione ad altre caratteristiche di pericolosita' dei rifiuti, diverse da quelle di natura radiologica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di accompagnare ogni allontanamento con apposita documentazione idonea a dimostrare che il materiale rispetta le condizioni e i requisiti stabiliti nel provvedimento autorizzativo all'allontanamento e, nel caso di scarico in corpo ricettore, la disponibilita' della documentazione per gli organi di controllo.
+
 Copia dell'autorizzazione e' trasmessa all'ISIN con le modalita' dallo stesso stabilite.
 
 L'esercente, che svolge la pratica registra e conserva per almeno cinque anni i dati e le informazioni relativi a ogni allontanamento e trasmette con cadenza trimestrale le informazioni sui rifiuti solidi o liquidi oggetto di allontanamento, e sui soggetti ai quali sono conferiti, alle ARPA/APPA, alle ASL competenti per territorio e all'ISIN con le modalita' dallo stesso stabilite.
@@ -536,6 +961,38 @@ Attivita' di volo (direttiva 2013/59/((Euratom)), articoli 35 e 52; decreto legi
 
 Le attivita' lavorative di cui all'articolo 27, che possono comportare per il personale navigante significative esposizioni alle radiazioni ionizzanti sono individuate nell'allegato II.
 
+2.
+                        
+                            
+                                Nelle attivita' individuate ai sensi del comma 1, il datore di lavoro provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare la valutazione della dose efficace al personale navigante secondo le modalita' indicate nell'allegato II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    programmare opportunamente, quando possibile, i turni di lavoro, e ridurre l'esposizione dei lavoratori maggiormente esposti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire al personale pilota istruzioni, in conformita' a quanto stabilito a livello internazionale, sulle modalita' di comportamento in caso di aumentata attivita' solare, al fine di ridurre, per quanto ragionevolmente ottenibile, la dose ai lavoratori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    trasmettere al Ministero della salute, secondo le modalita' da questo indicate, le comunicazioni in cui e' indicato il tipo di attivita' lavorativa e la relazione di cui al comma 3. Il Ministero, a richiesta, fornisce tali dati alle autorita' di vigilanza e ai ministeri e agli enti interessati.
+
 Per gli adempimenti previsti al comma 2, lettera a), il datore di lavoro si avvale dell'esperto di radioprotezione, che comunica all'esercente, con relazione scritta, il risultato delle valutazioni effettuate, i livelli di esposizione dei lavoratori, le misure da adottare ai fini della sorveglianza delle esposizioni, le azioni di controllo e le eventuali azioni volte alla riduzione delle esposizioni medesime.
 
 All'esposizione del personale navigante nei veicoli spaziali si applicano le disposizioni stabilite per le esposizioni soggette ad autorizzazione speciale.
@@ -555,6 +1012,31 @@ Radiazioni gamma ( ((Direttiva 2013/59/Euratom)), articolo 75)
 Il livello di riferimento applicabile all'esposizione esterna alle radiazioni gamma emesse da materiali da costruzione in ambienti chiusi, in aggiunta all'esposizione esterna all'aperto, e' fissato in 1 mSv/anno.
 
 L'elenco dei materiali da costruzione individuati come oggetto di attenzione dal punto di vista della radioprotezione e' riportato nell'allegato II.
+
+3.
+                        
+                            
+                                Il soggetto responsabile dell'immissione sul mercato dei materiali di cui al comma 2, prima dell'immissione stessa, garantisce che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono determinate le concentrazioni di attivita' dei radionuclidi specificati nell'allegato II, seguendo le norme di buona tecnica o linee guida nazionali e internazionali, e che sia calcolato l'indice di concentrazione di attivita' come stabilito nell'allegato II; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su richiesta sono fornite ai Ministeri dello sviluppo economico, dell'ambiente e della tutela del territorio e del mare e della salute, le informazioni e i risultati delle misurazioni di concentrazione di attivita' e il corrispondente indice di concentrazione di attivita', nonche' gli altri fattori pertinenti come definiti nell'allegato II; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i risultati delle misurazioni e il corrispondente indice di concentrazione di attivita' costituiscono parte integrante della dichiarazione di prestazione di cui all'articolo 4, del regolamento (UE) n. 305/2011 del Parlamento europeo e del Consiglio, del 9 marzo 2011 che fissa condizioni armonizzate per la commercializzazione dei prodotti da costruzione e che abroga la direttiva 89/106/CEE del Consiglio.
 
 Restano fermi gli obblighi previsti dal regolamento (UE) n. 305/2011 per il fabbricante, il mandatario, il distributore e l'importatore.
 
@@ -594,6 +1076,45 @@ Le acque di miniera di cui al comma 1 devono essere convogliate all'esterno per 
 
 ## Art. 35. — Obblighi particolari del direttore responsabile (decreto legislativo 17 marzo 1995, n. 230, articolo 17)
 
+1.
+                        
+                            
+                                Oltre all'obbligo di cui all'articolo 34, comma 1, il direttore responsabile adotta le misure di riduzione, per quanto possibile, del rischio di esposizioni interne. In particolare, quando l'entita' del rischio lo richiede, provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eseguire la perforazione a umido; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    impedire ai lavoratori di consumare i pasti nel sotterraneo, salvo il caso di luoghi adeguatamente attrezzati e ubicati in gallerie di servizio in sterile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    far si' che i lavoratori abbiano a disposizione e, ove necessario, utilizzino guanti, maschere o indumenti contro il rischio di contaminazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    far si' che gli indumenti di lavoro siano sottoposti ad adeguati processi di lavatura e bonifica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    fare in modo che sul luogo della miniera siano predisposti locali adeguatamente attrezzati ove, al termine del turno di lavoro, i lavoratori possano lavarsi e cambiarsi d'abito.
+
 ## - Titolo VI REGIME GIURIDICO PER IMPORTAZIONE, PRODUZIONE, COMMERCIO, TRASPORTO E DETENZIONE
 
 ## Art. 36. — Autorizzazione al commercio di materiali radioattivi(legge 31 dicembre 1962, n. 1860, articolo 4)
@@ -605,6 +1126,32 @@ Con decreto del Ministro dello sviluppo economico, sentito l'ISIN, sono stabilit
 ((COMMA SOPPRESSO DAL D.LGS. 25 NOVEMBRE 2022, N. 203)).
 
 ## Art. 37. — Importazione e produzione a fini commerciali di sorgenti di radiazioni ionizzanti (decreto legislativo 17 marzo 1995, n. 230, articolo 18).
+
+1.
+                        
+                            
+                                Sono soggette a notifica preventiva ai sensi del comma 3 l'importazione e la produzione a fini commerciali delle seguenti sorgenti di radiazioni ionizzanti con esclusione dei generatori di radiazioni medico-radiologici che non siano sorgenti radioattive, per i quali si applicano le procedure di cui al decreto legislativo 24 febbraio 1997, n. 46
+                                    ((:))
+                                
+                            
+                            
+                                a)
+                                
+                                    le materie radioattive con valore massimo della concentrazione di attivita' per unita' di massa superiore ai valori indicati nell'allegato I; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le materie radioattive con attivita' totale riferita ad un anno solare di produzione o importazione superiore ai valori indicati nell'allegato I; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le altre sorgenti di radiazioni ionizzanti comunque soggette a obbligo di notifica ai sensi dell'articolo 46.
 
 La produzione comprende la manipolazione, il frazionamento, la diluizione o qualsiasi altra operazione, effettuati su sostanze o materiali radioattivi o sul dispositivo che li contiene, che ne modificano le caratteristiche originarie e comportano l'immissione sul mercato di un nuovo prodotto.
 
@@ -635,6 +1182,91 @@ Sono, in ogni caso, vietate la vendita e la messa a disposizione del pubblico di
 
 Divieto di pratiche (direttiva 2013/59/((Euratom)), articoli 20 e 21; decreto legislativo 17 marzo 1995, n. 230, articolo 98).
 
+1.
+                        
+                            
+                                E' vietata l'aggiunta intenzionale di sostanze radioattive, direttamente o mediante attivazione, nella produzione di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prodotti per l'igiene e cosmesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oggetti di uso domestico o personale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    giocattoli; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alimenti e bevande; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    mangimi per animali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dispositivi antifulmine.
+
+2.
+                        
+                            
+                                Sono altresi' vietati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'importazione, l'acquisizione tramite commercio elettronico, l'esportazione, il commercio, la distribuzione, l'impiego, la manipolazione dei prodotti di cui al comma 1 ai quali sono deliberatamente aggiunte materie radioattive, direttamente o mediante attivazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le pratiche implicanti l'attivazione di materiali che comportano un aumento dell'attivita' nei prodotti di consumo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le pratiche che comportano l'attivazione di materiali usati nei giocattoli e negli oggetti d'uso personale, nonche' l'importazione e l'esportazione di tali prodotti o materiali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'uso sulle persone di sorgenti di radiazioni ionizzanti che non e' effettuato a scopo diagnostico, terapeutico o di ricerca scientifica clinica, salvo quanto disposto dall'articolo 169; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la produzione, l'importazione, l'impiego o comunque l'immissione sul mercato di puntatori e mirini montati su armi destinate al commercio, o facsimili di armi usati a scopo ludico, che emettono radiazioni ionizzanti a livelli superiori a 0,1 microSv/ora alla distanza di 10 cm.
+
 ## Art. 40. — Deroghe (decreto legislativo 17 marzo 1995, n. 230, articolo 98, comma 5)
 
 In caso di comprovata giustificazione, con decreto del Ministro della salute, sentito il Ministro dell'ambiente e della tutela del territorio e del mare, possono essere concesse deroghe specifiche ai divieti di cui all'articolo 39, comma 1, lettera f), e al comma 2, lettera e), nel rispetto dei principi generali di cui all'articolo 1.
@@ -646,6 +1278,31 @@ La deroga di cui al comma 1 non esonera la pratica dagli obblighi previsti dal p
 Informazioni (direttiva 2013/59/((Euratom)), articolo 78; decreto legislativo 17 marzo 1995, n. 230, articolo 19)
 
 Chiunque produce, importa, o immette sul mercato sostanze radioattive, generatori di radiazioni ionizzanti, prodotti e apparecchiature in genere contenenti sostanze radioattive, o altre sorgenti di radiazioni, e' obbligato a fornire all'acquirente complete informazioni a corredo degli stessi.
+
+2.
+                        
+                            
+                                Le informazioni di cui al comma 1 sono fornite in forma scritta e devono contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le indicazioni sul corretto utilizzo, sul collaudo, sulla manutenzione, sulle modalita' di smaltimento o comunque di cessazione della detenzione e sui potenziali rischi radiologici associati all'utilizzo, incluse le precauzioni tecniche da adottare per prevenire eventuali esposizioni indebite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la certificazione che le caratteristiche progettuali dei medesimi prodotti consentono di limitare le esposizioni al livello piu' basso ragionevolmente ottenibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le indicazioni sul corretto uso da parte del consumatore finale.
 
 Chiunque produce, importa o immette sul mercato attrezzature medico-radiologiche e' obbligato a fornire all'acquirente a corredo delle stesse, informazioni scritte aggiuntive rispetto a quelle previste al comma 2 sulla valutazione del rischio per i pazienti e sugli elementi utili per la valutazione clinica.
 
@@ -662,6 +1319,77 @@ Le disposizioni di cui al comma 1 non si applicano all'importazione, alla produz
 Chiunque intende effettuare, in conto proprio o in conto terzi, con mezzi propri o con mezzi altrui, attivita' di trasporto di materiali radioattivi, deve essere autorizzato come vettore con decreto del Ministro dello sviluppo economico, di concerto con il Ministro delle infrastrutture e dei trasporti, sentiti il Ministro dell'interno e l'ISIN.
 
 L'autorizzazione di cui al comma 1, e' rilasciata previa istruttoria tecnica e verifica dei requisiti soggettivi, dell'idoneita' finanziaria, delle garanzie prestate, dell'idoneita' tecnica dei singoli mezzi utilizzati dal richiedente, e puo' stabilire particolari prescrizioni al fine di conformare il trasporto alle regolamentazioni tecniche internazionali di settore anche con riferimento alla quantita', tipologia e caratteristiche dei materiali radioattivi trasportati.
+
+3.
+                        
+                            
+                                Il soggetto che effettua o organizza la spedizione e' responsabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della corretta classificazione dei materiali radioattivi conferiti al vettore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'utilizzo di imballaggi adeguati ai materiali radioattivi trasportati e del rispetto del limite in quantita' di radioattivita' dei materiali radioattivi che l'imballaggio puo' contenere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del rispetto dei limiti dell'irraggiamento esterno e della contaminazione sulla superficie esterna del collo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della corretta marcatura ed etichettatura dell'imballaggio utilizzato per il trasporto del materiale radioattivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delle certificazioni richieste per il trasporto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    del corretto confezionamento del collo.
+
+4.
+                        
+                            
+                                Il vettore e' responsabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della verifica della presenza della marcatura ed etichettatura dell'imballaggio utilizzato per il trasporto del materiale radioattivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del rispetto delle distanze di sicurezza dell'imballaggio dai luoghi occupati dai lavoratori o dalle persone durante le operazioni di trasporto e immagazzinamento durante il transito, ove previste dai pertinenti regolamenti modali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della verifica delle certificazioni richieste per il trasporto.
 
 Il soggetto che effettua o organizza la spedizione, deve registrarsi e trasmettere al sito istituzionale dell'ISIN le informazioni relative ai materiali radioattivi prima dell'inizio della spedizione. Sono fatte salve le disposizioni previste da norme internazionali recepite nell'ordinamento nazionale che per specifiche tipologie di spedizioni stabiliscono tempi diversi di comunicazione.
 
@@ -702,11 +1430,73 @@ La notifica deve contenere gli elementi del processo di giustificazione e le alt
 
 Le ARPA/APPA trasmettono all'ISIN, su richiesta, i dati e le informazioni sulle notifiche di pratiche ricevute.
 
+5.
+                        
+                            
+                                Fatte salve le disposizioni di cui ai commi 2 e 3, con leggi delle Regioni e delle Province autonome di Trento e Bolzano, per quanto riguarda le pratiche di cui al comma 1 comportanti e/o connesse a esposizioni mediche, possono definirsi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' con cui la notifica deve essere effettuata, anche utilizzando le procedure di autorizzazione delle strutture sanitarie definite in ottemperanza al decreto del Presidente della Repubblica 14 gennaio 1997 «Approvazione dell'atto di indirizzo e coordinamento alle Regioni e alle Province autonome di Trento e di Bolzano, in materia di requisiti strutturali, tecnologici ed organizzativi minimi per l'esercizio delle attivita' sanitarie da parte delle strutture pubbliche e private»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' con cui garantire che le informazioni di cui al comma 3 vengano inviate ai soggetti di cui al comma 2.
+
 Nelle more dell'emanazione delle leggi di cui al comma 5, agli esercenti pratiche comportanti e/o connesse a esposizioni mediche si applicano le disposizioni previste dal comma 2.
 
 ## Art. 47.
 
 Esonero dall'obbligo di notifica di pratica (Direttiva 2013/59/((Euratom)), articolo 26, e allegato VII; decreto legislativo 17 marzo 1995, n. 230, articolo 22 e allegato VII).
+
+1.
+                        
+                            
+                                Le pratiche che impiegano sorgenti di radiazioni ionizzanti sono esenti dall'obbligo di notifica se ricorre almeno una delle seguenti condizioni stabilite tenendo conto del principio di giustificazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le quantita' di materie radioattive non superano in totale le soglie di esenzione stabilite nell'Allegato I; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la concentrazione di attivita' di materie radioattive per unita' di massa non supera le soglie stabilite nell'Allegato I; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli apparecchi contenenti materie radioattive anche al di sopra delle quantita' o delle concentrazioni di cui alle lettere a) o b) soddisfano tutti i seguenti requisiti: 
+ 1) sono registrati come sorgenti di tipo riconosciuto e il relativo provvedimento prevede le condizioni di eventuale smaltimento; 
+ 2) sono costruiti in forma di sorgenti sigillate; 
+ 3) in condizioni di funzionamento normale, non comportano, a una distanza di 0,1 m da un qualsiasi punto della superficie accessibile dell'apparecchio, un'intensita' di dose superiore a 1 µSv/h; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli apparecchi elettrici, soddisfano tutti i seguenti requisiti: 
+ 1) contengono un tubo catodico destinato a fornire immagini visive, operano con una differenza di potenziale non superiore a 30 kV, ovvero sono di tipo riconosciuto ai sensi dell'articolo 49; 
+ 2) in condizioni di funzionamento normale, non comportano, a una distanza di 0,1 m da un qualsiasi punto della superficie accessibile dell'apparecchio un'intensita' di dose superiore a 1 µSv/h; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le autorita' competenti che autorizzano lo smaltimento di materiali contaminati da materie radioattive dichiarano che gli stessi non sono soggetti a ulteriori controlli.
 
 ((
 
@@ -739,13 +1529,184 @@ I criteri e le modalita' per il conferimento di sorgente di tipo riconosciuto so
 
 Nulla osta per le pratiche con sorgenti di radiazioni ionizzanti (direttiva 2013/59/((Euratom)), articoli 24, 28, 29; decreto legislativo 17 marzo 1995, n. 230, articoli 27, 28 e 29).
 
+1.
+                        
+                            
+                                Sono soggette a nulla osta preventivo le pratiche giustificate con sorgenti di radiazioni ionizzanti che impiegano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    generatori di radiazioni con caratteristiche costruttive tali che l'energia massima delle particelle accelerate sia superiore a 200 keV; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sorgenti di radiazioni con produzione media nel tempo di neutroni su tutto l'angolo solido superiore a 104 al secondo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    materie radioattive con valore massimo della concentrazione di attivita' per unita' di massa superiore ai valori indicati ((nella Tabella I-1A dell'Allegato I)), se ricorre una delle seguenti condizioni: 
+ 1) l'attivita' totale presente nella installazione e' superiore per un fattore 103 ai valori indicati ((nella Tabella I-1A 
+dell'Allegato I)); 
+ 2) l'attivita' totale pervenuta o prodotta nell'installazione in ragione d'anno solare e' ((superiore per un fattore 50.000 ai valori indicati))
+                                        ((nella Tabella I-1A dell'Allegato I)).
+
 ((
 
+2.
+                        
+                            
+                                Sono inoltre soggette a nulla osta preventivo le seguenti pratiche con sorgenti di radiazioni ionizzanti che comportano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'aggiunta intenzionale, direttamente o mediante attivazione di materie radioattive nella produzione e manifattura di prodotti di consumo, indipendentemente dal verificarsi delle condizioni di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impiego di acceleratori, di generatori di radiazioni o di materie radioattive per radiografia industriale, per trattamento di prodotti e per ricerca, ferme restando le condizioni di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la somministrazione intenzionale di materie radioattive, a fini di diagnosi, terapia o ricerca medica o veterinaria, a persone e, per i riflessi concernenti la radioprotezione di persone, ad animali, indipendentemente dal verificarsi delle condizioni di cui al comma 1; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'impiego di acceleratori, di generatori di radiazioni o di materie radioattive per esposizione di persone a fini di terapia medica, indipendentemente dal verificarsi delle condizioni di cui al comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'impiego di sorgenti sigillate ad alta attivita' secondo le disposizioni di cui al Titolo VIII; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la somministrazione di sostanze radioattive a fini diagnostici, su mezzi mobili, ferme restando le condizioni di cui al comma 1; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'impiego di sorgenti di radiazioni mobili da parte dello stesso soggetto in uno o piu' siti, luoghi o localita' non determinabili a priori e presso soggetti differenti da quello che svolge la pratica, in relazione alle caratteristiche di sicurezza delle sorgenti e alle modalita' di impiego, ai sensi di quanto previsto nei provvedimenti applicativi, ferme restando le condizioni di cui al comma 1; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'impiego con mezzi mobili di apparati a raggi x a scopo medico-radiodiagnostico, inclusi gli apparati mobili usati nella radiologia domiciliare e nella diagnostica veterinaria, in uno o piu' siti, luoghi o localita' non determinabili a priori, con energia massima delle particelle accelerate maggiore o uguale a 200 keV, ferme restando le condizioni di cui al comma 1.
+
 ))
+
+3.
+                        
+                            
+                                Il nulla osta delle pratiche, a seconda del tipo o della entita' del rischio delle installazioni, comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esame e l'approvazione del sito proposto per l'installazione dal punto di vista della radioprotezione, tenendo conto delle pertinenti condizioni demografiche, meteoclimatiche, geologiche, idrologiche e ambientali, fatte salve le disposizioni in materia di valutazione di impatto ambientale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai fini dell'avvio all'esercizio dell'installazione, il collaudo dei sistemi dedicati a garantire un'adeguata protezione contro qualsiasi esposizione o contaminazione radioattiva che possa interessare le aree esterne all'installazione o contaminazione radioattiva che possa estendersi al suolo adiacente all'installazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esame e l'approvazione dei programmi per lo smaltimento degli effluenti radioattivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le misure tese a impedire l'accesso all'installazione di persone non autorizzate.
 
 Le pratiche soggette a nulla osta preventivo sono classificate in due categorie denominate, rispettivamente, A e B.
 
 Chiunque intenda intraprendere una pratica soggetta a nulla osta preventivo deve presentare apposita istanza che, in relazione alla natura della pratica e ai rischi radiologici implicati, deve contenere gli elementi del processo di giustificazione e tutte le altre informazioni pertinenti per la radioprotezione riportate nell'allegato XIV.
+
+6.
+                        
+                            
+                                Nell'allegato XIV sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le condizioni per la classificazione delle pratiche nelle categorie «A» e «B» in relazione ai rischi per la popolazione e i lavoratori connessi con tali attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di radioprotezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure di rilascio, modifica e revoca del nulla osta.
+
+7.
+                        
+                            
+                                Il nulla osta rilasciato ai sensi degli articoli 51 e 52, puo' prevedere particolari condizioni e requisiti di esercizio della pratica per conformare l'attivita' alle esigenze di tutela dei lavoratori e della popolazione, e stabilisce specifiche prescrizioni con riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vincoli di dose applicabili ai lavoratori e vincoli di dose applicabili all'individuo rappresentativo della popolazione interessata dalla pratica in conformita' all'articolo. 5, commi 2 e 3, e ai punti 3 e 4 dell'allegato XXV parte I; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    criteri, condizioni e requisiti, per l'allontanamento dall'installazione di materiali o di rifiuti, solidi, liquidi o aeriformi, lo smaltimento nell'ambiente o il loro conferimento a qualsiasi titolo a terzi, ai sensi dell'articolo 54; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aspetti connessi alla costruzione, alle prove, all'esercizio e all'eventuale disattivazione delle installazioni.
 
 ((
 
@@ -770,6 +1731,31 @@ Copia del nulla osta e' inviata dal Ministero dello sviluppo economico ai minist
 ## Art. 52.
 
 Nulla osta per le pratiche di categoria B (Direttiva 2013/59/((Euratom)), articoli 24, 28 e 29; decreto legislativo 17 marzo 1995, n. 230, articoli 27, 29).
+
+1.
+                        
+                            
+                                Il nulla osta di categoria B per le pratiche comportanti e connesse alle esposizioni a scopo medico e medico veterinario, e di ricerca scientifica in vivo e in vitro svolte presso strutture sanitarie e' rilasciato dalle autorita' titolari del procedimento di autorizzazione individuate con leggi delle Regioni e delle Province autonome di Trento e Bolzano che stabiliscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le autorita' competenti, per le attivita' comportanti e connesse alle esposizioni a scopo medico e medico veterinario, e per le attivita' di ricerca scientifica in vivo e in vitro svolte presso strutture sanitarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le procedure per il rilascio del nulla osta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli organismi tecnici territorialmente competenti per l'istruttoria tecnica e il rilascio del nulla osta, inclusi il Comando dei vigili del fuoco, l'Ispettorato Territoriale del lavoro e l'ARPA/APPA.
 
 Per le pratiche diverse da quelle disciplinate dal comma 1, il nulla osta e' rilasciato dal Prefetto, sentiti i competenti organismi tecnici, tra i quali il Comando dei vigili del fuoco, l'Ispettorato Territoriale del lavoro e l'ARPA/APPA secondo quanto stabilito nell'allegato XIV.
 
@@ -799,7 +1785,71 @@ L'autorizzazione all'allontanamento e' rilasciata dalle Regioni o delle Province
 
 L'autorizzazione all'allontanamento puo' essere rilasciata con il medesimo procedimento che autorizza la pratica nel quale sono inserite apposite prescrizioni.
 
+5.
+                        
+                            
+                                L'istanza di autorizzazione all'allontanamento deve essere corredata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle informazioni e dalla documentazione stabilite nell'allegato IX per le pratiche soggette a notifica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalle informazioni e dalla documentazione stabilite rispettivamente nell'allegato XIV per le pratiche soggette a nulla osta o a autorizzazione;
+
 Copia dell'autorizzazione deve essere trasmessa all'ISIN con le modalita' dallo stesso stabilite.
+
+7.
+                        
+                            
+                                L'autorizzazione all'allontanamento fissa apposite prescrizioni relative alle condizioni per l'allontanamento o per il rilascio e in particolare stabilisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i livelli di allontanamento per i materiali solidi o per lo scarico degli effluenti radioattivi liquidi e aeriformi che soddisfano quanto previsto dall'allegato I paragrafo 8; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di verifica dei livelli di allontanamento per i materiali solidi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    specifici vincoli sull'attivita' totale allontanata in un determinato intervallo di tempo, anche in relazione alla compresenza di piu' fonti di allontanamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' per il controllo degli effluenti aeriformi e liquidi rilasciati nell'ambiente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    specifici requisiti e condizioni, anche in relazione ad altre caratteristiche di pericolosita' dei rifiuti, diverse da quelle di natura radiologica; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di accompagnare ogni allontanamento con apposita documentazione idonea a dimostrare che il materiale rispetta le condizioni e i requisiti per l'allontanamento stabiliti nel provvedimento autorizzativo, e in caso di scarico in corpo ricettore la disponibilita' della documentazione per gli organi di controllo.
 
 L'esercente, che svolge la pratica, e' tenuto a registrarsi e a trasmettere prima di ogni allontanamento sul sito istituzionale dell'ISIN, con le modalita' da questo stabilite, le informazioni sulla tipologia e quantita' di materiali o rifiuti solidi, liquidi o effluenti liquidi o aeriformi oggetto dell'allontanamento medesimo.
 Tale disposizione non si applica ai materiali o rifiuti solidi o liquidi, agli effluenti liquidi o aeriformi derivanti da pratiche mediche comportanti la somministrazione di radiofarmaci a scopo diagnostico o terapeutico per le quali l'esercente inoltra all'autorita' che ha autorizzato l'allontanamento, agli organi del SSN e alle ARPA/APPA competenti per territorio nonche' all'ISIN , un riepilogo annuale relativo ai materiali o rifiuti solidi o liquidi allontanati e, a corredo della relazione prevista al punto 4 dell'allegato XIV, un riepilogo relativo agli effluenti liquidi immessi nel sistema fognario della struttura sanitaria sotto forma di escreti dei pazienti e, se del caso, agli effluenti gassosi.
@@ -828,6 +1878,77 @@ L'attivita' di raccolta e trasporto in conto proprio o in conto terzi, anche con
 
 L'autorizzazione di cui al comma 1, e' rilasciata previa istruttoria tecnica e verifica dei requisiti soggettivi, dell'idoneita' finanziaria, delle garanzie prestate, dell'idoneita' tecnica dei singoli mezzi utilizzati dal richiedente, e puo' stabilire particolari prescrizioni al fine di conformare il trasporto alle regolamentazioni tecniche internazionali di settore anche con riferimento alla quantita', tipologia e caratteristiche dei materiali radioattivi trasportati. I criteri, le procedure e le modalita' per il rilascio dell'autorizzazione sono stabilite nell'allegato XV; con decreto del Ministro dello sviluppo economico, sentito l'ISIN, possono essere stabilite modalita' procedurali nel rispetto dei criteri di cui all'allegato XV.
 
+3.
+                        
+                            
+                                Il detentore di rifiuti radioattivi che li conferisce per il trasporto a un vettore e' responsabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della corretta classificazione dei rifiuti radioattivi conferiti al vettore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'utilizzo di imballaggi adeguati ai rifiuti radioattivi trasportati e del rispetto del limite in quantita' di radioattivita' dei rifiuti radioattivi che l'imballaggio puo' contenere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del rispetto del limite della contaminazione sulla superficie esterna del collo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della corretta marcatura ed etichettatura dell'imballaggio utilizzato per il trasporto dei rifiuti radioattivi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    delle certificazioni richieste per il trasporto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    del corretto confezionamento del collo.
+
+4.
+                        
+                            
+                                Il vettore e' responsabile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della verifica della corretta marcatura ed etichettatura dell'imballaggio utilizzato per il trasporto dei rifiuti radioattivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del rispetto delle distanze di sicurezza dall'imballaggio durante le operazioni di trasporto e immagazzinamento durante il transito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della verifica delle certificazioni richieste per il trasporto.
+
 Fatte salve le disposizioni previste da norme internazionali recepite nell'ordinamento nazionale che per specifiche tipologie di spedizioni stabiliscono tempi diversi di notifica, il detentore, il vettore e il destinatario devono registrarsi e trasmettere al sito istituzionale dell'ISIN le informazioni relative ai rifiuti oggetto della raccolta e del trasporto.
 
 Il detentore deve trasmettere al sito istituzionale dell'ISIN le informazioni relative ai rifiuti prima dell'inizio della spedizione.
@@ -841,13 +1962,117 @@ Le modalita' di registrazione e le informazioni da trasmettere al sito istituzio
 
 Le spedizioni di rifiuti radioattivi e di combustibile nucleare esaurito provenienti da Stati membri dell'Unione europea o a essi destinate, le importazioni e le esportazioni di rifiuti e di combustibile nucleare esaurito da e verso altri Stati, nonche' il loro transito sul territorio italiano sono preventivamente autorizzati.
 
+2.
+                        
+                            
+                                L'autorizzazione di cui al comma 1 e' rilasciata da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autorita' preposta al rilascio del nulla osta di cui all'articolo 52 o dell'autorizzazione di cui all'articolo 54, sentiti i competenti organismi tecnici e le Regioni o le Province autonome di Trento e Bolzano territorialmente competenti, ove queste ultime non siano autorita' competenti al rilascio dell'autorizzazione stessa, nei casi di spedizioni, di importazioni o di esportazioni da effettuare nell'ambito delle attivita' soggette ai provvedimenti autorizzativi di cui agli stessi articoli 52 o 54 o nell'ambito di attivita' esenti da detti provvedimenti. Le Regioni e le Province autonome di Trento e Bolzano formulano eventuali osservazioni entro il termine di dieci giorni, trascorso il quale l'autorita' procede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Ministero dello sviluppo economico, sentiti l'ISIN, i Ministeri del lavoro e delle politiche sociali e della salute e la Regione o le Province autonome di Trento e Bolzano di destinazione o provenienza, nei casi di spedizioni, di importazioni o di esportazioni da effettuare nell'ambito degli altri provvedimenti autorizzativi di cui al presente decreto, nonche' nel caso di transito nel territorio italiano. Le Regioni e le Province autonome di Trento e Bolzano formulano eventuali osservazioni entro il termine di dieci giorni, trascorso il quale l'autorita' procede.
+
 Nei casi di spedizione verso Stati membri dell'Unione europea e nei casi di importazione o di esportazione da o verso altri Stati, l'autorizzazione e' soggetta all'approvazione da parte delle autorita' competenti degli Stati membri destinatari della spedizione o interessati dal transito sul loro territorio. L'approvazione e' richiesta dall'autorita' di cui al comma 2, competente al rilascio dell'autorizzazione, e si intende concessa in caso di mancata risposta entro due mesi dal ricevimento della richiesta stessa, salvo che lo Stato membro interessato non richieda una proroga, sino a un mese, di tale termine.
 
 Nell'Allegato XVI sono stabiliti i criteri, le modalita', le disposizioni procedurali per il rilascio dell'autorizzazione nonche' particolari esenzioni dagli obblighi e particolari divieti per l'importazione e l'esportazione di rifiuti e di combustibile nucleare esaurito, anche in relazione ai paesi di origine o di destinazione.
 
+5.
+                        
+                            
+                                Con apposite prescrizioni da inserire nell'autorizzazione di cui al comma 1, viene fatto obbligo agli operatori della restituzione al Paese di origine, dei rifiuti radioattivi derivanti da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    operazioni di trattamento su rifiuti radioattivi introdotti nel territorio italiano destinati a tali operazioni o su altri materiali ai fini del recupero di rifiuti radioattivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operazioni di ritrattamento sul combustibile nucleare esaurito introdotto nel territorio italiano destinato a tali operazioni.
+
+6.
+                        
+                            
+                                Le autorizzazioni di cui al comma 1 non possono essere rifiutate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il ritorno al Paese di origine di rifiuti radioattivi equivalenti a quelli che siano stati in precedenza spediti od esportati ai fini del loro trattamento, nel rispetto della normativa applicabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il ritorno al Paese di origine dei rifiuti radioattivi e degli altri materiali prodotti dal ritrattamento di combustibile esaurito che sia stato effettuato in un Paese diverso, nel rispetto della normativa applicabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il ritorno dei rifiuti radioattivi e del combustibile esaurito al detentore che ha effettuato la spedizione, nel caso in cui questa non possa essere ultimata nei casi di cui al comma 4, se la rispedizione e' effettuata nelle stesse condizioni e specifiche e nel rispetto della normativa applicabile.
+
 ## Art. 58. — Specifiche disposizioni sulle spedizioni di combustibile esaurito e di rifiuti radioattivi ai fini dello smaltimento (decreto legislativo 17 marzo 1995, n. 230, articolo 32-bis).
 
 I soggetti che esercitano pratiche comportanti la produzione di rifiuti radioattivi sono tenuti allo smaltimento dei rifiuti stessi in impianti autorizzati situati sul territorio nazionale. I rifiuti radioattivi possono essere spediti al di fuori del territorio nazionale a condizione che, all'epoca della spedizione, tra lo Stato italiano e lo Stato di destinazione sia vigente un accordo, per utilizzare un impianto di smaltimento situato in quest'ultimo Stato, che tenga conto dei criteri stabiliti dalla Commissione europea conformemente all'articolo 16, paragrafo 2, della direttiva 2006/117/Euratom.
+
+2.
+                        
+                            
+                                Prima di una spedizione a un paese terzo, il Ministero dello sviluppo economico, sentita l'autorita' di regolamentazione competente, informa la Commissione europea circa il contenuto dell'accordo di cui al comma 1 e si accerta che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Paese di destinazione abbia concluso un accordo con l'Unione europea in materia di gestione del combustibile esaurito e dei rifiuti radioattivi o e' parte della convenzione congiunta sulla sicurezza della gestione del combustibile esaurito e dei rifiuti radioattivi («convenzione congiunta»); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Paese di destinazione disponga di programmi per la gestione e lo smaltimento dei rifiuti radioattivi con obiettivi indicativi di un elevato livello di sicurezza, equivalenti a quelli stabiliti dalla direttiva 2011/70/Euratom; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai fini della spedizione di rifiuti radioattivi, l'impianto di smaltimento nel paese di destinazione sia autorizzato, sia gia' in esercizio prima della spedizione e sia gestito conformemente ai requisiti previsti nei programmi di gestione e smaltimento dei rifiuti radioattivi del paese di destinazione stesso.
+
+3.
+                        
+                            
+                                Le disposizioni di cui al comma 1 non si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al rimpatrio di sorgenti sigillate dismesse al fornitore o fabbricante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla spedizione del combustibile esaurito di reattori di ricerca a un Paese in cui i combustibili di reattori di ricerca sono forniti o fabbricati, tenendo conto degli accordi internazionali applicabili.
 
 ## Art. 59. — Nulla osta per installazioni di deposito temporaneo o di impianti di gestione di rifiuti radioattivi (decreto legislativo 17 marzo 1995, n. 230, articolo 33).
 
@@ -883,6 +2108,109 @@ Autorizzazioni (direttiva 2013/59/((Euratom)), articoli 87, 88; decreto legislat
 
 Le pratiche che impiegano sorgenti sigillate ad alta attivita' sono soggette a nulla osta ai sensi dell'articolo 50.
 
+2.
+                        
+                            
+                                L'istanza di nulla osta all'impiego di una nuova sorgente sigillata ad alta attivita' e' corredata dalla seguente documentazione con la quale l'esercente dimostra: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la sorgente e' stata prodotta in uno Stato appartenente all'Unione europea da un soggetto autorizzato, oppure e' stata prodotta in uno Stato non appartenente all'Unione Europea nel rispetto delle disposizioni ivi vigenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che le caratteristiche tecniche e le prove di tenuta della sorgente sono conformi a norme di buona tecnica di settore, nazionali o internazionali, o comunque a queste equivalenti sotto il profilo della sicurezza e della protezione dalle radiazioni ionizzanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di disporre di appositi locali, con adeguato grado di resistenza al fuoco e dotati di adeguato sistema di controllo degli accessi, ove immagazzinare e attuare la gestione e il controllo sicuri della sorgente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di avere adottato le misure per garantire la gestione in sicurezza della sorgente al termine della sua utilizzazione, anche nel caso di insolvenza o cessazione dell'attivita'.
+
+3.
+                        
+                            
+                                L'esercente adempie all'obbligo di cui al comma 2, lettera d), con una delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    fideiussione bancaria o assicurativa con clausola di pagamento a semplice richiesta, prestata a favore dell'autorita' che rilascia l'autorizzazione che puo' avvalersi, previa la stipula di apposite convenzioni, del Gestore del Servizio integrato o dell'Operatore nazionale, e a garanzia dell'integrale copertura dei costi necessari alla gestione della sorgente fino allo smaltimento, compreso il relativo condizionamento, da una compagnia di assicurazione o da un istituto finanziario, o da intermediari finanziari iscritti all'elenco speciale di cui al decreto legislativo 1° settembre 1993, n. 385, a cio' autorizzati dal Ministero dell'economia e delle finanze, a condizione che tali intermediari siano sottoposti a revisione contabile di una societa' di revisione iscritta nell'albo previsto dall'articolo 161 del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    accordo scritto con il quale il fabbricante assume l'obbligo, garantito da apposita fideiussione, di riprendere la sorgente non piu' utilizzata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accordo scritto con il Gestore del Servizio integrato o con l'Operatore nazionale che disciplina il trasferimento a quest'ultimo della proprieta' della sorgente e il pagamento dei fondi necessari per i relativi condizionamento, stoccaggio di lungo periodo e smaltimento a un deposito finale.
+
+4.
+                        
+                            
+                                Oltre a quanto previsto al comma 2, l'istanza di nulla osta deve contenere almeno i seguenti elementi e informazioni che devono essere verificati e valutati dall'autorita' procedente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'individuazione, sentito l'esperto di radioprotezione incaricato della sorveglianza fisica, del responsabile della gestione della sorgente sigillata ad alta attivita' fornito di adeguata e documentata competenza tecnica. Il responsabile della sorgente non puo' essere individuato nell'esperto di radioprotezione incaricato della sorveglianza fisica presso l'installazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le specifiche iniziative di informazione e formazione sulle caratteristiche tecniche e sull'impiego della sorgente sigillata ad alta attivita' e sugli aspetti di radioprotezione, organizzate, ai sensi degli articoli 110 e 111, per il responsabile della gestione della sorgente e per il personale addetto all'utilizzo della stessa in possesso delle competenze necessarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione del personale addestrato e fornito di adeguate competenze, delle procedure e dei mezzi di intervento disponibili per fare fronte a eventuali emergenze radiologiche in relazione alla tipologia delle sorgenti sigillate ad alta attivita' impiegate, ferme restando le disposizioni di cui al Titolo XIV; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un programma di prove periodiche e di manutenzione della sorgente sigillata ad alta attivita' e delle apparecchiature necessarie per l'utilizzo della sorgente stessa, ivi comprese le prove di tenuta, dirette o indirette, da effettuare nell'arco di tempo del relativo utilizzo, sulla base delle indicazioni fornite dal fabbricante e delle norme di buona tecnica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le specifiche procedure gestionali previste per il trasporto, lo stoccaggio, la detenzione e l'utilizzo della sorgente sigillata ad alta attivita' al fine di impedire, in relazione alle caratteristiche della sorgente, l'accesso non autorizzato, lo smarrimento, il furto o il danneggiamento della sorgente anche a seguito di incendi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' e i criteri di attuazione di quanto previsto nel comma 2, lettere c) e d).
+
 ## Art. 63.
 
 Trasferimento della detenzione di sorgenti sigillate ad alta attivita' nel territorio italiano e di Stati membri dell'Unione europea (direttiva 2013/59/((Euratom)), articoli 87 e 88; decreto legislativo 6 febbraio 2007, n. 52, articolo 4). 
@@ -900,13 +2228,132 @@ Esportazioni e importazioni di sorgenti sigillate ad alta attivita' (decreto leg
 
 Il soggetto che intende esportare una sorgente avente attivita' uguale o superiore alla Categoria 2 di cui all'allegato XIV, Sezione II, con trasferimento della detenzione a soggetto stabilito in uno Stato non appartenente all'Unione europea, deve essere preventivamente autorizzato per ciascuna operazione dal Ministero dello sviluppo economico, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare, sentito l'ISIN.
 
+2.
+                        
+                            
+                                Il soggetto che intende effettuare l'operazione di esportazione deve fornire, con la relativa istanza, le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi di identificazione del cessionario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la copia del contratto di cessione a qualsiasi titolo della sorgente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo Stato di destinazione, ubicazione e indirizzo del cessionario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il radionuclide e l'attivita' della sorgente, inclusi i dati di cui all'articolo 62, comma 2, lettere a) e b); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'uso cui il cessionario intende adibire la sorgente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la copia del provvedimento, in corso di validita', rilasciato dall'Autorita' competente dello Stato di destinazione, che abilita il cessionario a ricevere la sorgente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la dichiarazione del cessionario indicante che lo Stato di destinazione si e' conformato al «Code of conduct on the safety and securityof radioactive sources», allegato alla INFCIRC/663 del 29 dicembre 2005 dell'Agenzia internazionale dell'energia atomica (AIEA), vidimata dalla competente Autorita' dello Stato ricevente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli estremi del provvedimento o dei provvedimenti autorizzativi rilasciati all'esportatore ai sensi dell'articolo 62, comma 1, ovvero copia del provvedimento autorizzativo nel caso in cui sia stato rilasciato da soggetto diverso dal Ministero dello sviluppo economico.
+
 Se l'operazione di esportazione ha per oggetto una sorgente di attivita' uguale o superiore alla Categoria 1 di cui all'allegato XIV, Sezione II, il Ministero dello sviluppo economico acquisisce il preventivo consenso dell'Autorita' competente dello Stato di destinazione.
 
 Il Ministero dello sviluppo economico, anche avuto riguardo agli elementi di valutazione di cui alla «Guidance on import and export of radioactivesources», del maggio 2012 dell'AIEA, d'intesa con il Ministero degli affari esteri e della cooperazione internazionale, puo' rilasciare l'autorizzazione all'esportazione della sorgente, di Categoria 1 o di Categoria 2 di cui all'allegato XIV, Sezione II, e ne trasmette copia all'ISIN.
 
+5.
+                        
+                            
+                                Il soggetto autorizzato ai sensi del comma 4 a effettuare l'operazione di esportazione della sorgente comunica preventivamente alle competenti Autorita' dello Stato di destinazione della spedizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi di identificazione del soggetto che effettua l'operazione di esportazione della sorgente e del destinatario della spedizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data e il luogo previsti per la presentazione della sorgente all'Ufficio delle dogane di esportazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero, il tipo e l'attivita' delle sorgenti, di cui all'allegato XIV, Sezione II, oggetto dell'operazione di esportazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    copia dell'autorizzazione all'operazione di esportazione, di cui al comma 4.
+
 Il soggetto autorizzato a effettuare la spedizione comunica preventivamente al Ministero dello sviluppo economico, all'ISIN e alla regione territorialmente interessata gli elementi di cui al comma 5, lettera b) e presenta la relativa documentazione all'Ufficio delle dogane.
 
 Il soggetto che intende importare una sorgente con attivita' uguale o superiore alla Categoria 2 di cui all'allegato XIV, Sezione II, non appartenente all'Unione europea, deve essere preventivamente autorizzato per ciascuna operazione dal Ministero dello sviluppo economico, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare, sentito l'ISIN.
+
+8.
+                        
+                            
+                                Il soggetto che intende effettuare un'operazione di importazione deve fornire, con la relativa istanza, le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli estremi del provvedimento o dei provvedimenti autorizzativi di cui all'articolo 62, comma 1, ovvero copia del provvedimento autorizzativo nel caso in cui sia stato rilasciato da soggetto diverso dal Ministero dello sviluppo economico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il radionuclide e l'attivita' della sorgente, con indicazione del relativo impiego; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli elementi volti a documentare che la sorgente soddisfa i seguenti requisiti: 
+ 1) sono state rispettate le disposizioni vigenti nello Stato dove la sorgente e' stata prodotta; 
+ 2) sono state verificate le caratteristiche tecniche e le prove di tenuta della sorgente in conformita' a norme di buona tecnica nazionali o internazionali, o comunque a queste ultime equivalenti sotto il profilo della sicurezza e della protezione dalle radiazioni ionizzanti.
 
 Il soggetto autorizzato all'importazione di una sorgente con attivita' uguale o superiore alla Categoria 2 di cui all'allegato XIV, Sezione II, e' tenuto a fornire copia dell'autorizzazione alle competenti Autorita' dello stato di provenienza della spedizione che ne fanno richiesta.
 
@@ -925,6 +2372,45 @@ Conferimento di sorgenti sigillate ad alta attivita' dismesse a impianti di gest
 
 ## Art. 66. — Libretto di sorgente (decreto legislativo 6 febbraio 2007, n. 52, articolo 7)
 
+1.
+                        
+                            
+                                Il detentore di sorgente sigillata ad alta attivita' deve tenere apposito libretto di sorgente, nel quale, oltre i dati di cui all'allegato XIV, Sezione II, deve annotare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero univoco di identificazione della sorgente apposto dal fabbricante o dal fornitore. Se il numero univoco non esiste, non e' noto o non offre garanzie di univocita', lo stesso e' attribuito dall'ISIN e comunicato al detentore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' del radionuclide alla data di fabbricazione o, se non conosciuta, alla data di prima immissione sul mercato della sorgente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i risultati delle prove e delle manutenzioni periodiche effettuate sulla sorgente e sulle apparecchiature necessarie per l'utilizzo della stessa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli eventi anomali e i malfunzionamenti riscontrati relativamente alla sorgente e alle apparecchiature di cui alla lettera c); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i luoghi di impiego.
+
 Il libretto di sorgente accompagna la sorgente durante tutto il suo utilizzo ed e' aggiornato dal responsabile della gestione della sorgente.
 
 Il detentore che trasferisce la sorgente sigillata ad alta attivita' nel territorio italiano deve consegnare al soggetto che la prende in carico il libretto di sorgente sottoscritto in ogni pagina, trattenendone copia per almeno cinque anni.
@@ -932,6 +2418,31 @@ Il detentore che trasferisce la sorgente sigillata ad alta attivita' nel territo
 ## Art. 67.
 
 Registro nazionale delle sorgenti sigillate ad alta attivita' e dei detentori (direttiva 2013/59/((Euratom)), articoli 89, 90; decreto legislativo 6 febbraio 2007, n. 52, articoli 8, 9).
+
+1.
+                        
+                            
+                                L'esercente che detiene sorgenti sigillate ad alta attivita' o svolge pratiche o chi effettua attivita' di commercio e intermediazione di sorgenti sigillate ad alta attivita', deve registrarsi sul sito istituzionale dell'ISIN e trasmettere allo stesso, entro i dieci giorni successivi alla data di inizio della detenzione o dell'attivita' di commercio e intermediazione e prima della data di cessazione della detenzione o della conclusione del contratto di intermediazione e commercio, le informazioni di cui all'allegato XVIII e in ogni caso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tipo, caratteristiche e quantita' delle sorgenti detenute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' del radionuclide alla data di fabbricazione o, se non conosciuta, alla data di prima immissione sul mercato della sorgente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    numero univoco di identificazione della sorgente apposto dal fabbricante o dal fornitore. Se il numero univoco non esiste, non e' noto o non offre garanzie di univocita', lo stesso e' attribuito dall'ISIN e comunicato al detentore.
 
 Le modalita' di registrazione e le informazioni da trasmettere al sito istituzionale dell'ISIN sono stabilite nell'allegato XVIII.
 
@@ -944,6 +2455,45 @@ L'ISIN puo' chiedere al detentore chiarimenti e ulteriori informazioni in caso d
 ## Art. 68.
 
 Altri obblighi dei detentori (direttiva 2013/59/((Euratom)), articolo 91; decreto legislativo 6 febbraio 2007, n. 52, articolo 10).
+
+1.
+                        
+                            
+                                Il detentore della sorgente sigillata ad alta attivita' deve altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    verificare, a intervalli di tempo indicati dall'esperto di radioprotezione, la presenza e le buone condizioni apparenti della sorgente e, ove ritenuto necessario, degli impianti e delle apparecchiature che contengono la sorgente nel luogo di utilizzazione o di stoccaggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificare il rispetto delle procedure gestionali di cui all'articolo 62, comma 4, lettera e); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verificare, sulla base delle disposizioni di cui all'articolo 62, comma 4 lettera c), e ferma restando l'eventuale applicazione delle disposizioni di cui all'articolo 149, commi 1 e 2, l'integrita' della sorgente dopo ogni evento compreso l'incendio, che possa averla danneggiata, aggiornando adeguatamente il libretto di sorgente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    restituire tempestivamente, una volta terminato l'utilizzo, la sorgente al fabbricante o al fornitore o trasferirla a un altro utilizzatore o a un impianto di gestione dei rifiuti radioattivi o al Gestore del Servizio integrato o all'Operatore nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comunicare senza ritardo, ai sensi dell'articolo 142, gli eventi incidentali che abbiano comportato l'esposizione di un lavoratore o di un'altra persona, derivanti da sorgente o parte di essa rimasta bloccata in posizione non schermata, o da un malfunzionamento o da mancato funzionamento, anche dovuto ad azioni volontarie, dei sistemi di sicurezza e di controllo, o da perdita della tenuta della sorgente o da altri eventi riguardanti la sorgente, quali sollecitazioni meccaniche o termiche. Sono esclusi dal suddetto obbligo di comunicazione gli eventi incidentali che abbiano comportato esposizioni accidentali e indebite di pazienti di cui all'articolo 167.
 
 ## Art. 69.
 
@@ -961,6 +2511,38 @@ Identificazione e apposizione di un contrassegno sulla sorgente sigillata ad alt
 ## Art. 70.
 
 Formazione e informazione sulle sorgenti orfane (direttiva 2013/59/((Euratom)), articolo 92; decreto legislativo 6 febbraio 2007, n. 52, articolo 12).
+
+1.
+                        
+                            
+                                L'ENEA, senza nuovi o maggiori oneri per la finanza pubblica, provvede a organizzare appositi corsi di formazione per la direzione e per il personale degli impianti in cui e' piu' probabile che siano rinvenute o sottoposte a trasformazione sorgenti orfane, quali ad esempio, i grandi depositi e gli impianti di riciclaggio dei rottami metallici, e per la direzione e per il personale operante presso i punti di ingresso o di uscita dallo Stato e i nodi di transito, affinche' tali soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano informati della possibilita' di rinvenire sorgenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricevano consulenza e formazione sul riconoscimento visivo delle sorgenti e dei relativi contenitori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricevano le informazioni di base sulle radiazioni ionizzanti e sui loro effetti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    siano informati sulle misure da adottare in caso di ritrovamento o di sospetto ritrovamento di una sorgente.
 
 ## Art. 71.
 
@@ -1003,6 +2585,31 @@ L'ENEA, sulla base dai dati di cui al comma 1, di apposita stima e di previsioni
 
 Operatore nazionale e Gestore del servizio integrato (direttiva 2013/59/((Euratom)), articolo 95; decreto legislativo 6 febbraio 2007, n. 52, articolo 17).
 
+1.
+                        
+                            
+                                L'Operatore nazionale deve: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire la messa in sicurezza di lungo periodo delle sorgenti radioattive dismesse ai fini del loro futuro smaltimento, assicurando un immagazzinamento in sicurezza per un periodo di almeno cinquanta anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rispettare le stesse prescrizioni di sicurezza per l'immagazzinamento dei rifiuti radioattivi di origine energetica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mantenere contabilita' separata per l'attivita' di cui alla lettera a).
+
 L'Operatore nazionale e' la Societa' gestione impianti nucleari (Sogin S.p.a.).
 
 Il Servizio integrato garantisce tutte le fasi del ciclo di gestione delle sorgenti non piu' utilizzate quali la predisposizione al trasporto, il trasporto, la caratterizzazione, l'eventuale trattamento e condizionamento e il deposito provvisorio. Al Servizio integrato possono aderire tutti gli impianti di gestione dei rifiuti radioattivi che svolgono attivita' di raccolta ed eventuale deposito provvisorio di sorgenti radioattive destinate a non essere piu' utilizzate.
@@ -1021,6 +2628,77 @@ Il Ministero dello sviluppo economico e l'ISIN, per quanto attiene ai propri com
 
 ## Art. 76. — Documentazione di sicurezza nucleare e di protezione sanitaria per l'autorizzazione all'esercizio e alla modifica di impianti (decreto legislativo 17 marzo 1995, n.230, articolo 36).
 
+1.
+                        
+                            
+                                Ai fini dell'accertamento delle condizioni di sicurezza nucleare e di protezione sanitaria, il soggetto che, per gli impianti di cui all'articolo 7, comma 1, numeri 66), 67), 68), 69) e 116), richiede l'autorizzazione all'esercizio o alla modifica di cui all'articolo 6 e seguenti della legge 31 dicembre 1962, n. 1860, trasmette, al Ministero dello sviluppo economico e all'ISIN i seguenti documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    progetto di massima dell'impianto corredato dalla pianta topografica, dalla descrizione dello stato del sito di ubicazione dell'impianto stesso, dai piani esplicativi, dai disegni e descrizioni dell'impianto e da uno studio preliminare di smaltimento dei rifiuti radioattivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rapporto di sicurezza, con l'indicazione delle previste misure di sicurezza e protezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elaborati tecnici idonei a fornire dimostrazione della sicurezza nucleare, con un livello di dettaglio proporzionato all'entita' e alla natura dei pericoli inerenti all'impianto nucleare e al suo sito.
+
+2.
+                        
+                            
+                                Il rapporto di sicurezza di cui al comma 1, lettera b), e' corredato dai documenti tecnici contenenti le informazioni necessarie per l'analisi e la valutazione dell'impianto nucleare, dal punto di vista della sicurezza nucleare e della protezione sanitaria dei lavoratori e della popolazione contro i pericoli delle radiazioni ionizzanti, nonche' l'analisi e la valutazione di tali pericoli. Il rapporto fornisce le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ubicazione e caratteristiche fisiche, meteoclimatiche, demografiche, agronomiche e ambientali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    edifici ed eventuali strutture di contenimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    descrizione tecnica dell'impianto nel suo insieme e nei suoi sistemi componenti ausiliari, inclusa la strumentazione nucleare e non nucleare, i sistemi di controllo e i dispositivi di protezione e i sistemi di raccolta, allontanamento e smaltimento (trattamento e scarico) dei rifiuti radioattivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    studio analitico di possibili incidenti derivanti da mal funzionamento di apparecchiature o da errori di operazione, e delle conseguenze previste, in relazione alla sicurezza nucleare e alla protezione sanitaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    studio analitico delle conseguenze previste, in relazione alla protezione sanitaria, in presenza di scarichi radioattivi durante le fasi di normale esercizio e in caso di situazioni accidentali o di emergenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    misure previste ai fini della prevenzione e protezione antincendio.
+
 L'autorizzazione di cui all'articolo 6 della legge 31 dicembre 1962 n. 1860, e' rilasciata previo espletamento della procedura di cui al presente Titolo.
 
 ## Art. 77. — Nulla osta alla costruzione di impianti (decreto legislativo 17 marzo 1995, n.230, articolo 37)
@@ -1033,7 +2711,128 @@ Le disposizioni di cui ai commi 1 e 2 si applicano anche agli impianti di qualsi
 
 ## Art. 78. — Obiettivo di sicurezza nucleare degli impianti nucleari (decreto legislativo 17 marzo 1995, n.230, articolo 37-bis).
 
+1.
+                        
+                            
+                                Gli impianti nucleari sono progettati, ubicati, costruiti, messi in esercizio, utilizzati e disattivati con l'obiettivo di prevenire incidenti, di attenuare le conseguenze di eventi incidentali, e di evitare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilasci radioattivi iniziali che richiedono tempi di intervento insufficienti per poter adottare le necessarie misure di emergenza all'esterno del sito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    grandi rilasci radioattivi che richiedono misure di protezione che possono non essere limitate nello spazio o nel tempo.
+
+2.
+                        
+                            
+                                Gli obiettivi di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si applicano agli impianti nucleari per i quali e' rilasciata per la prima volta un'autorizzazione alla costruzione dopo il 14 agosto 2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono assunti a riferimento per gli impianti nucleari esistenti, ai fini della tempestiva attuazione di miglioramenti di sicurezza ragionevolmente possibili, anche nel quadro delle revisioni periodiche della sicurezza di cui all'articolo 80; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono assunti a riferimento per gli impianti nucleari di cui e' stata chiesta la disattivazione ai sensi dell'articolo 98, nel piano delle operazioni da eseguire.
+
 ## Art. 79. — Misure per conseguire l'obiettivo di sicurezza nucleare degli impianti nucleari (decreto legislativo 17 marzo 1995, n.230, articolo 37-ter).
+
+1.
+                        
+                            
+                                Il titolare dell'autorizzazione di cui all'articolo 76, comma 1, attua la difesa in profondita', ove applicabile, per conseguire l'obiettivo di cui all'articolo 78 e per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ridurre al minimo dell'impatto dei rischi esterni estremi di origine naturale o umana non intenzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevenire il funzionamento anomalo e i guasti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    controllare il funzionamento anomalo e l'individuazione dei guasti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assicurare il controllo degli incidenti base di progetto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicurare il controllo delle condizioni gravi, incluse la prevenzione dell'evoluzione degli incidenti e l'attenuazione delle conseguenze degli incidenti gravi, qualificati come tali dall'Agenzia internazionale per l'energia atomica delle Nazioni Unite; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    predisporre le misure organizzative a norma degli articoli 89, 90 e 91.
+
+2.
+                        
+                            
+                                Il titolare dell'autorizzazione, conformandosi alle indicazioni e sotto il controllo dell'ISIN, adotta misure intese a promuovere e rafforzare un'efficace cultura della sicurezza nucleare. Tali misure comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sistemi di gestione che attribuiscono la dovuta priorita' alla sicurezza nucleare e promuovono, a tutti i livelli del personale e dei dirigenti, le capacita' di mettere in discussione l'efficace attuazione dei principi e delle pertinenti prassi di sicurezza e di segnalare prontamente problemi di sicurezza, a norma dell'articolo 102; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disposizioni del titolare dell'autorizzazione per registrare, valutare e documentare l'esperienza operativa interna ed esterna maturata nel corso dell'esercizio, significativa per la sicurezza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    obbligo per il titolare dell'autorizzazione di segnalare all'ISIN eventi che possono incidere sulla sicurezza nucleare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disposizioni concernenti l'istruzione e la formazione, a norma dell'articolo 103.
 
 ## Art. 80. — Valutazione iniziale e revisioni periodiche della sicurezza (decreto legislativo 17 marzo 1995, n.230, articolo 37-quater).
 
@@ -1099,6 +2898,59 @@ Ultimate le prove antecedenti al caricamento del combustibile e, ove si tratti d
 
 Il titolare dell'autorizzazione o del nulla osta procede alla esecuzione di prove e di operazioni con combustibile nucleare, compreso il caricamento del combustibile, o, in caso di impianti di trattamento di combustibili irradiati, all'esecuzione di prove con combustibile irradiato, compresa l'immissione del combustibile nell'impianto, in conformita' a un programma generale di prove che deve essere approvato dall'ISIN, sulla base e all'esito positivo della verifica e delle validazione tecniche. Per ciascuna prova l'ISIN stabilisce le modalita' di esecuzione.
 
+2.
+                        
+                            
+                                Ai fini del comma 1, il titolare dell'autorizzazione o del nulla osta e' tenuto a presentare all'ISIN la seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporto di sicurezza, ai sensi dell'articolo 76, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    regolamento di esercizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    manuale di operazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    programma generale di prove con combustibile nucleare o con combustibile irradiato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    certificato di esito favorevole delle prove precedenti al caricamento del combustibile o alla immissione di combustibile irradiato comprese quelle relative a contenitori in pressione destinati a contenere comunque sostanze radioattive; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    organigramma del personale preposto e addetto all'esercizio tecnico dell'impianto, che svolga funzioni rilevanti agli effetti della sicurezza nucleare o della protezione sanitaria e relative patenti di idoneita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    proposte di prescrizioni tecniche.
+
 Il titolare dell'autorizzazione o del nulla osta presenta, a richiesta dell'ISIN, ogni altra documentazione ritenuta necessaria, concernente la sicurezza e la protezione sanitaria dell'impianto.
 
 L'ISIN, sulla base e all'esito positivo della verifica e validazione tecniche della documentazione esibita, approva il programma generale di prove nucleari previa approvazione, da parte del prefetto, del piano di emergenza esterna, con le modalita' previste dal Titolo XIV.
@@ -1152,6 +3004,52 @@ Per gli impianti di cui all'articolo 7, comma 1, numeri 66), 67), 68), 69) e 116
 
 Il titolare dell'autorizzazione o del nulla osta e' tenuto a sottoporre all'approvazione dell'ISIN la composizione di detto Collegio.
 
+3.
+                        
+                            
+                                Il Collegio e' composto da almeno quattro membri prescelti fra i tecnici che sovraintendono a servizi essenziali per il funzionamento dell'impianto, di esso fa parte l'esperto di radioprotezione di cui all'articolo 128. Il Collegio ha funzioni consultive, con i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esprimere parere preventivo su ogni progetto di modifica dell'impianto o di sue parti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esprimere parere preventivo su ogni proposta di modifica alle procedure di esercizio dell'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprimere parere preventivo su programmi di esperienze, prove e operazioni di carattere straordinario da eseguire sull'impianto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rivedere periodicamente lo svolgimento dell'esercizio dell'impianto, esprimendo il proprio parere unitamente a eventuali raccomandazioni relative alla sicurezza e protezione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    elaborare il piano di emergenza interna dell'impianto, incluso nel manuale di istruzioni per le situazioni eccezionali di cui all'articolo 90, e provvedere a sue eventuali modifiche successive, d'intesa col comando provinciale dei vigili del fuoco; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assistere il direttore responsabile di turno o il capo impianto nella adozione delle misure che si rendono necessarie per fronteggiare qualsiasi evento o anormalita' che possa far temere l'insorgere di un pericolo per la pubblica incolumita' o di danno alle cose.
+
 Nel caso previsto dalla lettera f), assiste alle riunioni del Collegio di sicurezza dell'impianto un esperto nucleare designato dall'ISIN, negli altri casi tale esperto ha la facolta' di intervenire alle riunioni. Alle riunioni del Collegio di sicurezza dell'impianto possono inoltre partecipare funzionari rappresentanti delle amministrazioni interessate.
 
 Tra i componenti del Collegio di sicurezza sono designati due tecnici incaricati di svolgere le funzioni di collegamento con le autorita' competenti per gli adempimenti relativi allo stato di emergenza nucleare di cui al Titolo XIV.
@@ -1203,6 +3101,73 @@ L'esecuzione delle operazioni di disattivazione di un impianto nucleare sono aut
 
 L'autorizzazione di cui al comma 1 e' rilasciata per singole fasi, se tale suddivisione e' necessaria ed e' giustificata nell'ambito di un piano globale di disattivazione, da allegare all'istanza di autorizzazione relativa alla prima fase.
 
+3.
+                        
+                            
+                                Per ciascuna fase, copia dell'istanza di autorizzazione e' inviata alle amministrazioni di cui al comma 1 e all'ISIN, corredata dalle seguenti documentazione e informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    piano delle operazioni da eseguire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    descrizione dello stato dell'impianto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inventario delle materie radioattive presenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazione dello stato dell'impianto stesso al termine della fase; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    analisi di sicurezza concernenti le operazioni da eseguire; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    stato dell'impianto a fine operazioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    indicazione della destinazione dei materiali radioattivi di risulta; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    stima degli effetti sull'ambiente esterno; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    programma di radioprotezione anche per l'eventualita' di un'emergenza.
+
 Nel piano di cui al comma 3, lettera a), il titolare della licenza di esercizio propone altresi' i momenti a partire dai quali vengono meno i presupposti tecnici per l'osservanza delle singole disposizioni del presente decreto e delle prescrizioni attinenti all'esercizio dell'impianto.
 
 ## Art. 99. — Procedura per il rilascio dell'autorizzazione alla disattivazione - Svolgimento delle operazioni (decreto legislativo 17 marzo 1995, n. 230, articolo 56).
@@ -1247,6 +3212,70 @@ Nei provvedimenti di diffida, di sospensione o di revoca sono stabilite, ove nec
 
 Il titolare di una autorizzazione deve essere in possesso delle capacita' tecniche e professionali previste dalla normativa vigente, con particolare riguardo alla sicurezza nucleare, e allo stesso compete la responsabilita' primaria per la sicurezza degli impianti nucleari e degli impianti di gestione del combustibile esaurito e dei rifiuti radioattivi. Tale responsabilita' non puo' essere delegata e comprende la responsabilita' per le attivita' degli appaltatori e dei subappaltatori le cui attivita' potrebbero incidere sulla sicurezza nucleare di un impianto nucleare.
 
+2.
+                        
+                            
+                                Il titolare dell'autorizzazione e' obbligato a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valutare e verificare periodicamente, nonche' a migliorare costantemente, nella misura ragionevolmente possibile, la sicurezza dei suoi impianti nucleari o dell'attivita' di gestione dei rifiuti radioattivi e del combustibile esaurito, in modo sistematico e verificabile. Cio' comprende la verifica che sono stati presi provvedimenti ai fini della prevenzione degli incidenti e dell'attenuazione delle loro conseguenze, compresa la verifica dell'applicazione della difesa in profondita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istituire e attuare sistemi di gestione che attribuiscono la dovuta priorita' alla sicurezza nucleare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stabilire procedure e misure di emergenza sul sito adeguate, comprese indicazioni per la gestione degli incidenti gravi o provvedimenti equivalenti, ai fini di un'efficace risposta agli incidenti volta a prevenire o attenuare le loro conseguenze; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prevedere e mantenere adeguate risorse finanziarie, nonche' risorse umane in possesso delle qualifiche e delle competenze adeguate e necessarie per adempiere ai propri obblighi attinenti alla sicurezza nucleare di un impianto nucleare e garantire, inoltre, che gli appaltatori e i subappaltatori, di cui e' responsabile e le cui attivita' potrebbero incidere sulla sicurezza nucleare di un impianto nucleare, dispongono delle necessarie risorse umane in possesso delle qualifiche e delle competenze adeguate per adempiere ai loro obblighi.
+
+3.
+                        
+                            
+                                Le procedure e le misure di cui al comma 2, lettera c) devono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere coerenti con le altre procedure operative, con la pianificazione di emergenza di cui al Titolo XIV, Capo I, ed essere oggetto di esercitazioni periodiche per verificarne l'attuabilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    riguardare incidenti e incidenti gravi, che potrebbero verificarsi in tutte le modalita' operative e quelli che coinvolgono o colpiscono contemporaneamente diverse unita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stabilire misure per ricevere assistenza esterna; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere riesaminate e aggiornate periodicamente tenendo conto delle esperienze acquisite dalle esercitazioni e dagli incidenti.
+
 ## Art. 103.
 
 Competenze e capacita' in materia di sicurezza nucleare (decreto legislativo 17 marzo 1995, n. 230, articolo 58- ter).
@@ -1279,6 +3308,45 @@ Entro il 23 agosto 2021 e, successivamente, ogni tre anni, sulla base dei dati f
 
 Il Ministero dell'ambiente e della tutela del territorio e del mare e il Ministero dello sviluppo economico, sentito l'ISIN, organizzano ogni dieci anni valutazioni del quadro nazionale, dell'attivita' dell'ISIN, del Programma nazionale di cui all'articolo 7, del decreto legislativo n. 45 del 2014 e richiedono su tali temi una verifica inter pares internazionale, al fine di garantire che siano raggiunti elevati standard di sicurezza nella gestione sicura del combustibile esaurito e dei rifiuti radioattivi. I risultati delle verifiche inter pares sono trasmessi alla Commissione europea e agli altri Stati membri e sono resi accessibili al pubblico qualora non confliggano con le informazioni proprietarie e di sicurezza.
 
+6.
+                        
+                            
+                                In aggiunta a quanto previsto al comma 3, l'ISIN, su base coordinata con gli altri Stati membri dell'Unione europea, provvede a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare una valutazione nazionale, basata su uno specifico tema correlato alla sicurezza nucleare dei pertinenti impianti nucleari presenti nel territorio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    invitare tutti gli altri Stati membri dell'Unione europea, e la Commissione europea in qualita' di osservatore, a effettuare un esame inter pares della valutazione nazionale di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proporre ai Ministeri dello sviluppo economico e dell'ambiente e della tutela del territorio e del mare appropriate misure per dar seguito alle pertinenti risultanze del processo di esame inter pares; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pubblicare le pertinenti relazioni riguardanti il processo di esame inter pares e i suoi principali risultati, quando disponibili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    trasmettere tempestivamente agli altri Stati membri, nonche' alla Commissione europea, i risultati della valutazione nazionale.
+
 Le attivita' di cui al comma 6, avviate nel 2017, e i successivi esami tematici inter pares sono effettuati almeno ogni sei anni.
 
 In caso di incidente all'origine di situazioni che richiedono misure di emergenza all'esterno del sito o misure di protezione della popolazione, l'esame inter pares di cui al comma 6 e' organizzato senza indebito ritardo.
@@ -1302,6 +3370,31 @@ E' vietato adibire alle attivita' disciplinate dal presente decreto i lavoratori
 ## Art. 108.
 
 Obblighi del datore di lavoro non delegabili (( (decreto legislativo 9 aprile 2008, n. 81, articolo 16) ))
+
+1.
+                        
+                            
+                                I datori di lavoro per i quali trovano applicazione le disposizioni del presente decreto non possono delegare le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    valutazione preventiva di cui all'articolo 109; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nomina dell'esperto di radioprotezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nomina del medico autorizzato.
 
 Qualora, fuori dai casi di cui al comma 1, si proceda a delega di funzioni, per la stessa trova applicazione quanto previsto dall'articolo 16 del decreto legislativo 9 aprile 2008, n. 81.
 
@@ -1338,6 +3431,38 @@ Obblighi dei datori di lavoro, dirigenti e preposti ( ((Direttiva 2013/59/Eurato
 
 Informazione e formazione dei dirigenti e dei preposti ( ((Direttiva 2013/59/Euratom)), articoli 14, 15; decreto legislativo 17 marzo 1995, n. 230, articolo 61, comma 3).
 
+1.
+                        
+                            
+                                Il datore di lavoro che svolge le attivita' disciplinate dal presente decreto, provvede affinche' i dirigenti e i preposti ricevano un'adeguata informazione, una specifica formazione e un aggiornamento ((almeno ogni cinque anni)) in relazione ai propri compiti in materia di radioprotezione. L'informazione e la formazione previste nel presente articolo sono svolte nell'ambito delle rispettive competenze dagli esperti di radioprotezione e dai medici autorizzati in possesso dei requisiti previsti dalla normativa vigente concernente il riconoscimento della figura del formatore in materia di salute e sicurezza. I contenuti dell'informazione e formazione comprendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    principali soggetti coinvolti e relativi obblighi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definizione e individuazione dei fattori di rischio derivanti dall'esposizione alle radiazioni ionizzanti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    modalita' di valutazione dei rischi derivanti dall'esposizione alle radiazioni ionizzanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individuazione delle misure tecniche, organizzative e procedurali di prevenzione e protezione dall'esposizione alle radiazioni ionizzanti.
+
 ((
 
 La formazione di cui al comma 1 integra quella prevista dall'articolo 37, comma 7, del decreto legislativo 9 aprile 2008, n. 81, per gli aspetti inerenti al rischio di esposizione alle radiazioni ionizzanti.
@@ -1347,6 +3472,162 @@ La formazione di cui al comma 1 integra quella prevista dall'articolo 37, comma 
 ## Art. 111.
 
 Informazione e formazione dei lavoratori ( ((Direttiva 2013/59/Euratom)), articoli 14, 15, 82 comma 2, lettera l); decreto legislativo 17 marzo 1995, n. 230, articolo 61, comma3).
+
+1.
+                        
+                            
+                                Il datore di lavoro che svolge le attivita' disciplinate dal presente decreto provvede affinche' ciascun lavoratore soggetto ai rischi derivanti dall'esposizione alle radiazioni ionizzanti riceva una adeguata informazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sui rischi per la salute e la sicurezza sul lavoro connessi all'attivita' svolta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sui nominativi del medico autorizzato e dell'esperto di radioprotezione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sui rischi specifici cui e' esposto in relazione all'attivita' svolta, sulle norme interne di protezione e sicurezza, sulle disposizioni aziendali in materia e sulle conseguenze legate al loro mancato rispetto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sulle misure e sulle attivita' di protezione e prevenzione adottate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sull'importanza dell'obbligo, per le lavoratrici esposte di comunicare tempestivamente il proprio stato di gravidanza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sull'importanza per le lavoratrici esposte di comunicare l'intenzione di allattare al seno un neonato.
+
+2.
+                        
+                            
+                                Il datore di lavoro assicura che ciascun lavoratore soggetto ai rischi derivanti dall'esposizione alle radiazioni ionizzanti, in relazione alle mansioni cui e' addetto, riceva una formazione sufficiente e adeguata in materia di radioprotezione anche con eventuale addestramento specifico. La formazione e, ove previsto, l'addestramento specifico, sono effettuati, ove possibile, sul luogo di lavoro e devono avvenire con periodicita' almeno ((quinquennale)), e comunque in occasione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della costituzione del rapporto di lavoro o dell'inizio dell'utilizzazione qualora si tratti di somministrazione di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del trasferimento o cambiamento di mansioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'introduzione di nuove attrezzature di lavoro o di nuove tecnologie che modifichino il rischio di esposizione alle radiazioni ionizzanti.
+
+3.
+                        
+                            
+                                I contenuti minimi dell'informazione e della formazione dei lavoratori soggetti ai rischi derivanti dall'esposizione alle radiazioni ionizzanti riguardano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i concetti di rischio, danno, prevenzione, protezione, organizzazione della radioprotezione aziendale, diritti e doveri dei vari soggetti aziendali, organi di vigilanza, sorveglianza e assistenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i rischi riferiti alle mansioni, ai possibili danni sanitari e alle conseguenti misure e procedure di prevenzione e protezione tipici delle pratiche in cui i lavoratori sono coinvolti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il significato dei limiti di dose nonche' i potenziali rischi associati al loro superamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le circostanze nelle quali sono richieste la sorveglianza fisica e sanitaria e gli obiettivi delle stesse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le procedure di lavoro da utilizzarsi in relazione alle mansioni svolte; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'uso corretto dei dispositivi di protezione individuale in dotazione, nonche' le modalita' del loro controllo e verifica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i comportamenti da tenere nell'attuazione dei piani e delle procedure di emergenza.
+
+4.
+                        
+                            
+                                Nel caso di pratiche con impiego di sorgenti sigillate ad alta attivita' il datore di lavoro organizza specifiche iniziative di informazione e formazione rivolte al responsabile della gestione della sorgente e al personale addetto all'utilizzo della sorgente, sulle caratteristiche tecniche della stessa e sugli aspetti di radioprotezione. L'informazione e la formazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    comprendono specifiche indicazioni sulle azioni da adottare e i comportamenti da tenere ai fini della gestione in sicurezza della sorgente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicano accorgimenti al fine di prevenire inconvenienti e incidenti dovuti alla mancanza di controlli adeguati sulla sorgente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    forniscono indicazioni sull'attuazione delle specifiche procedure gestionali per il trasporto, la detenzione e l'utilizzo della sorgente finalizzate a impedire, in relazione alle caratteristiche della stessa, l'accesso non autorizzato, lo smarrimento, il furto o il danneggiamento anche a seguito di incendi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono ripetute a intervalli quinquennali e documentate in modo che i lavoratori interessati siano adeguatamente preparati per gli eventi di cui alla lettera b).
 
 L'informazione e la formazione previste nel presente articolo sono svolte nell'ambito delle rispettive competenze dagli esperti di radioprotezione e dai medici autorizzati in possesso dei requisiti previsti dalla normativa vigente concernente il riconoscimento della figura del formatore in materia di salute e sicurezza.
 
@@ -1381,10 +3662,148 @@ Obblighi degli esercenti zone classificate che si avvalgono di lavoratori estern
 
 Gli esercenti una o piu' zone classificate, i quali si avvalgono di lavoratori esterni, sono tenuti ad assicurarne la tutela dai rischi derivanti dall'esposizione alle radiazioni ionizzanti, direttamente o mediante accordi contrattuali con il datore di lavoro da cui detti lavoratori dipendono, e rispondono degli aspetti della tutela che siano direttamente collegati con il tipo di zona classificata e di prestazione richiesta.
 
+2.
+                        
+                            
+                                Per ogni lavoratore esterno che effettua prestazioni in zona classificata, l'esercente di tale zona e' tenuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accertarsi, anche, laddove previsto, tramite il libretto personale di radioprotezione di cui all'articolo 112, comma 1, lettera i), che il lavoratore esterno, prima di effettuare la prestazione nella zona classificata, sia stato riconosciuto idoneo da un medico autorizzato al tipo di rischio connesso con la prestazione stessa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istituire, ove la normativa vigente nel paese di origine del lavoratore non lo preveda, il libretto personale di radioprotezione per i lavoratori esterni di categoria A provenienti da altri Paesi dell'Unione europea o da Paesi terzi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedere, nell'ambito degli accordi contrattuali di cui all'articolo 112, comma 1, lettera c) che il lavoratore esterno abbia ricevuto o comunque riceva, oltre all'informazione e alla formazione di cui all'articolo 112, comma 1, lettera e), una formazione specifica in rapporto alle caratteristiche particolari della zona classificata ove la prestazione va effettuata e assicurarsi che tali previsioni siano realizzate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornire specifiche informazioni e garantire una formazione in relazione alle attivita' da svolgere nella zona classificata ove la prestazione va effettuata e alle misure di prevenzione e di emergenza adottate in relazione alle attivita' nonche' istruzioni di lavoro adeguate all'entita' del rischio radiologico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicurarsi che il lavoratore esterno sia dotato dei dispositivi di protezione individuale, ove necessari, e accertarsi del loro utilizzo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    assicurarsi che il lavoratore esterno sia dotato dei mezzi di sorveglianza dosimetrica individuale adeguati al tipo di prestazione, al loro utilizzo e che il lavoratore fruisca della sorveglianza ambientale eventualmente necessaria; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    curare il rispetto, per quanto di propria competenza, dei principi generali di cui all'articolo 1 e dei limiti di dose di cui all'articolo 146; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    adottare le misure necessarie affinche', a cura dell'esperto di radioprotezione, le valutazioni di dose vengano registrate sul libretto individuale di radioprotezione per i lavoratori di categoria A e trasmesse al datore di lavoro del lavoratore esterno di categoria B; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    verificare, avvalendosi dell'esperto di radioprotezione, che la classificazione di radioprotezione del lavoratore esterno sia appropriata in relazione alle dosi che il lavoratore puo' ricevere; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    definire, nell'ambito degli accordi contrattuali di cui all'articolo 112, comma 1, lettera c), o con il lavoratore stesso, se autonomo, il vincolo di dose da adottarsi in relazione alle attivita' da svolgere.
+
+3.
+                        
+                            
+                                L'esercente la zona classificata e' altresi' tenuto a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cooperare con il datore di lavoro dei lavoratori esterni o con il lavoratore stesso, se autonomo, all'attuazione delle misure e degli interventi di radioprotezione e di prevenzione dai rischi cui sono esposti i lavoratori, anche al fine di eliminare gli eventuali rischi dovuti alle interferenze tra i lavori delle diverse imprese coinvolte nell'esecuzione dell'attivita' complessiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    integrare il documento di cui all'articolo 26, comma 3, del decreto legislativo 9 aprile 2008, n. 81.
+
 ## Art. 114. — Protezione dei lavoratori autonomi (decreto legislativo 17 marzo 1995, n. 230, articolo 64)
 
 I lavoratori autonomi che svolgono attivita' soggette alle disposizioni del presente decreto sono tenuti ad assolvere, ai fini della propria tutela, agli obblighi previsti dal presente decreto.
 Fermi restando gli obblighi di cui agli articoli 113 e 117, gli esercenti di installazioni presso cui i lavoratori autonomi sono esposti a rischio di radiazioni rispondono degli aspetti della tutela che siano direttamente collegati con il tipo di zona e di prestazione richiesta.
+
+2.
+                        
+                            
+                                I lavoratori autonomi sono tenuti nel rispetto delle disposizioni del presente Titolo a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisire dall'esperto di radioprotezione la relazione redatta ai sensi dell'articolo 109, comma 2, sulla base delle informazioni sulle attivita' da svolgere fornite dallo stesso lavoratore autonomo, nonche' il relativo aggiornamento ai sensi dell'articolo 131; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definire, d'intesa con l'esercente delle zone classificate, avvalendosi dell'esperto di radioprotezione incaricato, i vincoli di dose da adottare in relazione alla propria classificazione e alle attivita' da svolgere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    curare il rispetto, per quanto di propria competenza, dei principi generali di cui all'articolo 1 e dei limiti di dose di cui all'articolo 146; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    istituire, se chiamati a svolgere attivita' come lavoratori esterni di categoria A presso zone classificate gestite da esercenti terzi, prima di iniziare a svolgere la propria prestazione, il libretto personale di radioprotezione di cui all'articolo 112, comma 1, lettera i), e assicurarsi della sua compilazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    curare, avvalendosi dell'esperto di radioprotezione, che per ogni prestazione vengano effettuate e registrate nelle schede personali di cui all'articolo 132, comma 1, lettera d), le valutazioni della dose individuale e che vengano registrate sul libretto individuale di radioprotezione, ove previsto, le valutazioni di dose inerenti alla prestazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    trasmettere al Ministero del lavoro e delle politiche sociali i risultati delle valutazioni di dose effettuate dall'esperto di radioprotezione, con le modalita' di cui all'articolo 126, comma 2, e ai fini del loro inserimento nell'archivio di cui al comma 1 del medesimo articolo.
 
 Il lavoratore autonomo che svolge attivita' in qualita' di esperto di radioprotezione puo' provvedere personalmente all'adempimento degli obblighi di cui al comma 2, lettere a) e b) che lo riguardano direttamente.
 
@@ -1418,6 +3837,59 @@ E' vietato adibire i lavoratori di cui al comma 1 ad attivita' che li espongono 
 
 Ogni lavoratore si prende cura della propria salute e sicurezza e di quella delle altre persone presenti sul luogo di lavoro, su cui ricadono gli effetti delle sue azioni od omissioni, conformemente alla sua formazione, alle istruzioni e ai mezzi forniti dal datore di lavoro.
 
+2.
+                        
+                            
+                                I lavoratori: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contribuiscono, insieme al datore di lavoro, ai dirigenti e ai preposti, all'adempimento degli obblighi previsti a tutela della salute e sicurezza sui luoghi di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    osservano le disposizioni e le istruzioni impartite dal datore di lavoro, dai dirigenti e dai preposti, ai fini della protezione collettiva e individuale, a seconda delle mansioni alle quali sono addetti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    usano secondo le specifiche istruzioni ricevute i dispositivi di sicurezza, di protezione e di sorveglianza dosimetrica predisposti o forniti dal datore di lavoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    segnalano immediatamente al datore di lavoro, al dirigente o al preposto la mancanza, l'insufficienza o il mancato funzionamento dei dispositivi di sicurezza, di protezione e di sorveglianza dosimetrica, nonche' le eventuali condizioni di pericolo di cui vengono a conoscenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    si astengono dal compiere, di propria iniziativa, operazioni o manovre che non sono di loro competenza o che possono compromettere la protezione e la sicurezza propria o di altri lavoratori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    si sottopongono alla sorveglianza sanitaria ai sensi del presente decreto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    partecipano ai programmi di formazione e di addestramento organizzati dal datore di lavoro.
+
 I lavoratori esposti che svolgono per piu' datori di lavoro attivita' che li espongono al rischio da radiazioni ionizzanti, informano ciascun datore di lavoro delle attivita' che svolgono o hanno svolto in passato presso gli altri datori di lavoro, ai fini di quanto previsto dall'articolo 116.
 
 I lavoratori esterni di categoria A esibiscono il libretto personale di radioprotezione all'esercente le zone controllate prima di effettuare le prestazioni per le quali sono stati chiamati.
@@ -1435,6 +3907,38 @@ Nelle more dell'operativita' dell'archivio nazionale dei lavoratori esposti, le 
 ## Art. 120.
 
 Apprendisti e studenti (direttiva 2013/59/((Euratom)), articoli 33 e 52; decreto legislativo 17 marzo 1995, n. 230, articolo 70).
+
+1.
+                        
+                            
+                                Ai fini dell'applicazione delle disposizioni del presente decreto gli apprendisti e gli studenti esposti al rischio derivante dalle radiazioni ionizzanti, in ragione della attivita' di studio o di apprendistato, sono suddivisi nelle seguenti categorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    apprendisti e studenti, di eta' non inferiore a 18 anni, che si avviano ad una professione nel corso della quale saranno esposti alle radiazioni ionizzanti, o i cui studi implicano necessariamente l'impiego di sorgenti di radiazioni ionizzanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    apprendisti e studenti di eta' compresa tra 16 e 18 anni, che si trovino nelle condizioni di cui alla precedente lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    apprendisti e studenti di eta' non inferiore a 16 anni, che non si trovino nelle condizioni di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    apprendisti e studenti di eta' inferiore a 16 anni.
 
 ## Art. 121.
 
@@ -1469,6 +3973,59 @@ Provvedimenti e misure relativi al rispetto dei limiti di dose e alle condizioni
 
 ## Art. 124. — Esposizioni accidentali o di emergenza (decreto legislativo 17 marzo 1995, n. 230, articolo 74)
 
+1.
+                        
+                            
+                                Ferma restando la disciplina di cui all'articolo 175, i datori di lavoro, provvedono affinche' i lavoratori e il personale di intervento previsto nei piani di cui al Titolo XIV vengano preventivamente sottoposti a un programma di informazione e formazione riguardante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la disciplina della radioprotezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la possibilita' che, durante un intervento, siano sottoposti a esposizione di emergenza, i rischi connessi all'esposizione stessa e le precauzioni da adottare; tale informazione tiene conto delle possibili situazioni di emergenza e dei tipi di intervento ipotizzabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le procedure di emergenza da adottarsi e le istruzioni da seguire; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il significato dei livelli operativi di riferimento connessi alle esposizioni di emergenza a cui possono essere sottoposti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le misure e le attivita' di protezione e prevenzione da adottare; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il sistema di gestione delle emergenze previsto dal Titolo XIV; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli specifici dispositivi di protezione e i mezzi di sorveglianza dosimetrica da utilizzarsi in relazione alle funzioni svolte per ridurre al minimo i rischi derivanti dall'esposizione.
+
 I datori di lavoro provvedono affinche' l'informazione e la formazione specifica di cui al comma 1 vengono aggiornate con frequenza quinquennale.
 
 I datori di lavoro, i dirigenti e i preposti, nell'ambito delle rispettive attribuzioni e competenze, provvedono a dotare i lavoratori di mezzi di protezione adeguati durante gli interventi di emergenza.
@@ -1476,6 +4033,38 @@ I datori di lavoro, i dirigenti e i preposti, nell'ambito delle rispettive attri
 I lavoratori e il personale delle squadre speciali di emergenza che, in relazione all'attivita' cui sono adibiti, siano suscettibili di incorrere in esposizioni professionali di emergenza, comportanti il rischio di superare anche uno dei limiti di dose stabiliti per i lavoratori esposti, sono soggetti classificati in categoria A preventivamente indicati dal medico autorizzato sulla base dell'eta' e dello stato di salute.
 
 Ai soggetti di cui al comma 4 non si applicano i limiti di dose efficace e di dose equivalente stabiliti per i lavoratori esposti di cui all'articolo 146.
+
+6.
+                        
+                            
+                                Nella pianificazione e nell'attuazione dei piani di emergenza, vengono previste e adottate, per quanto ragionevolmente possibile tenuto conto delle circostanze reali dell'emergenza, dei vincoli tecnici e dei rischi di radioprotezione, le misure necessarie a contenere l'esposizione dei soggetti di cui al comma 4, al di sotto dei limiti stabiliti per i lavoratori esposti di cui all'articolo 146. In situazioni in cui la condizione suddetta non possa essere rispettata, le esposizioni devono essere mantenute al di sotto dei seguenti livelli di riferimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    100 mSv di dose efficace; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    300 mSv di dose equivalente al cristallino; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    1 Sv di dose equivalente alle estremita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    1 Sv di dose equivalente alla pelle.
 
 In via eccezionale, soltanto allo scopo di salvare vite umane, impedire gravi effetti sulla salute dovuti alle radiazioni o impedire il verificarsi di una catastrofe, le esposizioni possono superare il valore di 100mSv di dose efficace da irraggiamento esterno e non possono comunque superare il valore di 500 mSv di dose efficace da irraggiamento esterno.
 
@@ -1533,13 +4122,217 @@ In caso di cessazione dell'incarico di esperto di radioprotezione, il datore di 
 
 Presso il Ministero del Lavoro e delle Politiche Sociali e' istituito l'elenco degli esperti di radioprotezione. In detto elenco sono iscritti d'ufficio, con il medesimo grado di abilitazione, i soggetti che alla data di entrata in vigore del presente decreto sono iscritti nell'elenco degli esperti qualificati istituito ai sensi dell'articolo 78 del decreto legislativo 17 marzo 1995, n. 230.
 
+2.
+                        
+                            
+                                L'elenco degli esperti di radioprotezione e' ripartito secondo i seguenti gradi di abilitazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abilitazione di primo grado, per la sorveglianza fisica delle sorgenti costituite da apparecchi radiologici che accelerano elettroni con tensione massima, applicata al tubo, inferiore a 400 kV; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abilitazione di secondo grado, per la sorveglianza fisica delle sorgenti costituite da macchine radiogene con energia degli elettroni accelerati compresa tra 400 keV e 10 MeV, o da materie radioattive, incluse le sorgenti di neutroni la cui produzione media nel tempo, su tutto l'angolo solido, sia non superiore a 104 neutroni al secondo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    abilitazione di terzo grado sanitario, per la sorveglianza fisica delle sorgenti di radiazioni diverse da quelle di cui alle lettere a) e b), esclusi gli impianti di cui all'articolo 7, numeri 16), 63), 66), 67), 68), 69) e 116), che siano utilizzate esclusivamente a fini medici all'interno di strutture sanitarie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    abilitazione di terzo grado, per la sorveglianza fisica degli impianti come definiti all'articolo 7, numeri 16), 63), 66), 67), 68), 69) e 116) e delle altre sorgenti di radiazioni diverse da quelle di cui alle lettere a), b) e c).
+
 L'abilitazione di grado superiore comprende quelle di grado inferiore. ((L'abilitazione di terzo grado, di cui al comma 2, lettera d), comprende tutte le altre abilitazioni.))
+
+4.
+                        
+                            
+                                Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro della salute, sentiti il Ministro dell'universita' e della ricerca, l'ISIN, l'ISS e l'INAIL, da emanarsi entro 18 mesi dall'entrata in vigore del presente decreto, sono disciplinati i requisiti di iscrizione all'elenco, le modalita' di formazione, le modalita' di svolgimento dell'esame e l'aggiornamento professionale degli esperti di radioprotezione, nel rispetto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indicazione, per ciascun grado per il quale il candidato esperto in radioprotezione intende ottenere l'iscrizione, dei titoli di studio universitario occorrenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    previsione di una formazione post-universitaria corrispondente almeno al master di primo livello per il primo grado e almeno al master di secondo livello per il secondo grado, il terzo grado sanitario e il terzo grado ovvero ad una scuola di specializzazione per tutti i gradi, che contempli anche un tirocinio pratico della durata minima di 20, 40, 60 e 80 giorni lavorativi rispettivamente per il primo, il secondo, il terzo grado sanitario e il terzo grado;
+                                
+                            
+                            
+                                c)
+                                
+                                    previsione dei contenuti tecnico-scientifici della prova di esame fermo restando che la stessa dovra' contemplare anche la risoluzione di un caso pratico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aggiornamento professionale assicurato mediante corsi tenuti da universita', albi professionali, associazioni scientifiche o associazioni di categoria professionale che operano in ambito di radiazioni ionizzanti, della durata minima di 60 ore ogni tre anni o corrispondenti crediti formativi universitari;
+                                
+                            
+                            
+                                e)
+                                
+                                    previsione dell'impossibilita' dell'iscrizione nell'elenco per chi abbia riportata una condanna per reati contro la pubblica amministrazione e contro la fede pubblica, fermo restando che possono essere iscritti a detto elenco coloro che godono dei diritti politici e che non risultano interdetti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 25 NOVEMBRE 2022, N. 203)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    indicazione delle modalita' di presentazione della domanda di iscrizione nell'elenco e della modalita' secondo cui avviene l'iscrizione e delle cause di cancellazione dall'elenco; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    previsione della composizione della commissione di esame con designazione dei suoi componenti nelle seguenti proporzioni: 
+ 1) due componenti designati dal Ministero del lavoro e delle politiche sociali; 
+ 2) un componente designato dal Ministero della salute; 
+ 3) un componente designato dall'Istituto superiore di sanita'; 
+ 4) un componente designato dall'INAIL; 
+ 5) un componente designato dal Ministero dell'Universita'; 
+ 6) due componenti designati dall'ISIN; 
+ fermo il ruolo del presidente in capo ad uno dei componenti designati dal Ministero del lavoro e delle politiche sociali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    definizione dei compiti della commissione preposta a deliberare sull'iscrizione nell'elenco, fermo restando che alla stessa spetta di esprimere proposte e pareri in merito alla sospensione e alla cancellazione dagli elenchi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    individuazione nella sede del Ministero del lavoro e delle politiche sociali in Roma del luogo di svolgimento degli esami finalizzati ad ottenere l'iscrizione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    annualita' della sessione d'esami ed equiparazione a rinuncia della mancata presentazione del candidato all'esame nella data stabilita.
 
 Sino all'emanazione del decreto di cui al comma 4 si applica la disciplina di cui all'allegato XXI.
 
 ## Art. 130.
 
 Attribuzioni dell'esperto di radioprotezione (direttiva 2013/59/((Euratom)), articoli 34, 41, 43; decreto legislativo 17 marzo 1995, n. 230, articolo 79).
+
+1.
+                        
+                            
+                                L'esperto di radioprotezione, nell'esercizio della sorveglianza fisica per conto del datore di lavoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettua la valutazione di radioprotezione di cui all'articolo 109 e fornisce indicazioni al datore di lavoro sull'attuazione dei compiti di cui al comma 6 del predetto articolo a esclusione di quelli di cui alle lettere e) e g); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettua l'esame e la verifica delle attrezzature, dei dispositivi di protezione e dei mezzi di misura, e in particolare: 
+ 1) procede all'esame preventivo e rilascia il relativo benestare, dal punto di vista della sorveglianza fisica della radioprotezione, dei progetti di installazioni che comportano rischi di esposizione, dell'ubicazione delle medesime all'interno dello stabilimento in relazione a tali rischi, nonche' delle modifiche alle installazioni che implicano rilevanti trasformazioni delle condizioni, delle caratteristiche di sicurezza, dei dispositivi d'allarme, dell'uso o della tipologia delle sorgenti; 
+ 2) effettua la prima verifica, dal punto di vista della sorveglianza fisica, di nuove installazioni e delle eventuali modifiche apportate alle stesse; 
+ 3) esegue la verifica periodica dell'efficacia dei dispositivi e delle procedure di radioprotezione; 
+ 4) effettua la verifica periodica delle buone condizioni di funzionamento degli strumenti di misurazione; 
+ 5) effettua la verifica di conformita' degli strumenti di misura ai requisiti di cui all'articolo 155; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    effettua una sorveglianza ambientale di radioprotezione nelle zone controllate e sorvegliate, e, ove appropriato, nelle zone con esse confinanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procede alla valutazione delle dosi e delle introduzioni di radionuclidi relativamente ai lavoratori come previsto ai commi 2, 3, 4 e 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    verifica che il personale di cui all'articolo 128, comma 2, impieghi in maniera corretta gli strumenti e i mezzi di misura e svolga le attivita' delegate secondo le procedure definite; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    svolge l'attivita' di sorveglianza sullo smaltimento dei materiali che soddisfano le condizioni di allontanamento previste dal presente decreto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    assiste, nell'ambito delle proprie competenze, il datore di lavoro: 
+ 1) nella predisposizione dei programmi di sorveglianza individuale nonche' nella individuazione delle tecniche di dosimetria personale appropriate; 
+ 2) nella predisposizione del programma di garanzia della qualita' finalizzato alla radioprotezione dei lavoratori e degli individui della popolazione, attraverso la redazione di procedure e istruzioni di lavoro che rendano efficace ed efficiente l'organizzazione radioprotezionistica adottata; 
+ 3) nella predisposizione del programma di monitoraggio ambientale connesso all'esercizio della pratica; 
+ 4) nella predisposizione delle procedure per la gestione di rifiuti radioattivi; 
+ 5) nella predisposizione delle procedure di prevenzione di inconvenienti e di incidenti; 
+ 6) nella pianificazione e risposta nelle situazioni di emergenza; 
+ 7) nella definizione dei programmi di formazione e aggiornamento dei lavoratori; 
+ 8) nell'esame e nell'analisi degli infortuni, delle situazioni incidentali e nell'adozione delle azioni di rimedio appropriate; 
+ 9) nell'individuazione delle condizioni di lavoro delle lavoratrici in stato di gravidanza e in periodo di allattamento;
+
+2.
+                        
+                            
+                                Nel caso di pratiche che comportano esposizioni a scopo medico, l'esperto di radioprotezione, coordinandosi, laddove necessario, con lo specialista in fisica medica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge l'attivita' di sorveglianza fisica della radioprotezione dei lavoratori e degli individui della popolazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce indicazioni al datore di lavoro in merito all'ottimizzazione della protezione dei lavoratori.
 
 La valutazione delle dosi individuali da esposizioni esterne per i lavoratori esposti deve essere eseguita, a norma dell'articolo 125, mediante uno o piu' apparecchi di misura individuali nonche' in base ai risultati della sorveglianza ambientale di cui al comma 1, lettera c), anche tenuto conto delle norme di buona tecnica applicabili.
 
@@ -1563,13 +4356,130 @@ In caso di cessazione dall'incarico, l'esperto di radioprotezione e' comunque te
 
 Comunicazioni al datore di lavoro e relativi adempimenti (direttiva 2013/59/((Euratom)), articoli 32, 37; decreto legislativo 17 marzo 1995, n. 230, articolo 80).
 
+1.
+                        
+                            
+                                In base alle valutazioni relative all'entita' del rischio, l'esperto di radioprotezione indica, con apposita relazione scritta, trasmessa anche per via telematica al datore di lavoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'individuazione e la classificazione delle zone ove sussiste rischio da radiazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la classificazione dei lavoratori addetti, previa definizione da parte del datore di lavoro delle attivita' che questi devono svolgere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la frequenza delle valutazioni di cui all'articolo 130, che deve essere almeno annuale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tutti i provvedimenti di cui ritenga necessaria l'adozione, al fine di assicurare la sorveglianza fisica, di cui all'articolo 125, dei lavoratori esposti e della popolazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la valutazione delle dosi ricevute e impegnate, per tutti i lavoratori esposti e per ((l'individuo rappresentativo)), con la frequenza stabilita ai sensi della lettera c).
+
 Il datore di lavoro provvede ai necessari adempimenti sulla base delle indicazioni di cui al comma 1, si assicura altresi' che l'esperto di radioprotezione trasmetta al medico autorizzato i risultati delle valutazioni di cui alla lettera e) del comma 1 relative ai lavoratori esposti, con la periodicita' prevista all'articolo 130, comma 8.
 
 ## Art. 132.
 
 Documentazione relativa alla sorveglianza fisica della protezione (direttiva 2013/59/((Euratom)), articoli 42, 43; decreto legislativo 17 marzo 1995, n. 230, articolo 81).
 
+1.
+                        
+                            
+                                L'esperto di radioprotezione provvede, per conto del datore di lavoro, a istituire e tenere aggiornata la seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la relazione di cui all'articolo 109, comma 2 e all'articolo 131, comma 1, relativa all'esame preventivo dei progetti e delle eventuali modifiche, nonche' le valutazioni di cui all'articolo 130, comma 1, lettera b), numero 1), e comma 9; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le valutazioni di cui all'articolo 130, comma 1, lettera c), nonche' i verbali di controllo di cui al medesimo articolo 130, comma 1, lettera b), numeri 3) e 4); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i verbali dei controlli di cui all'articolo 130, comma 1, lettera b), numero 2), e dei provvedimenti di intervento da lui prescritti, nonche' copia delle prescrizioni e delle disposizioni formulate dagli organi di vigilanza divenute esecutive; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le schede personali dosimetriche sulle quali sono annotati i risultati delle valutazioni delle dosi individuali e delle introduzioni individuali; le dosi derivanti da eventuali esposizioni accidentali, di emergenza, da esposizioni soggette ad autorizzazione speciale o da altre modalita' di esposizione debbono essere annotati, separatamente, in ciascuna scheda; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le relazioni sulle circostanze e i motivi inerenti alle esposizioni accidentali o di emergenza di cui all'articolo 124, comma 1, nonche' alle altre modalita' di esposizione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i risultati della sorveglianza fisica dell'ambiente di lavoro che siano stati utilizzati per la valutazione delle dosi dei lavoratori esposti.
+
 Per i lavoratori di cui agli articoli 112 e 115 nelle schede personali devono essere annotati tutti i contributi alle esposizioni professionali individuali, con le modalita' stabilite nell'allegato di cui al comma 6.
+
+3.
+                        
+                            
+                                Il datore di lavoro conserva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per almeno cinque anni dalla data di compilazione la documentazione di cui al comma 1, lettera b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sino a cinque anni dalla cessazione dell'attivita' di impresa che comporta esposizioni alle radiazioni ionizzanti la documentazione di cui al comma 1, lettere a) e c); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sino alla cessazione del rapporto di lavoro, o dell'attivita' dell'impresa comportante esposizione alle radiazioni ionizzanti, mantenendone successivamente copia per almeno cinque anni, la documentazione di cui al comma 1, lettere d), e) e f); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per almeno cinque anni i risultati della sorveglianza dosimetrica individuale e ambientale e delle analisi radio tossicologiche utilizzate dall'esperto di radioprotezione ai fini delle valutazioni di competenza.
 
 Entro sei mesi dalla cessazione del rapporto di lavoro o dell'attivita' d'impresa comportante esposizione alle radiazioni ionizzanti la documentazione di cui al comma 1, lettere d), e) e f) e' consegnata al medico autorizzato che provvede alla sua trasmissione, unitamente al documento di cui all'articolo 140, all'INAIL, che assicura la loro conservazione nel rispetto dei termini previsti dall'articolo 140, comma 3.
 
@@ -1625,6 +4535,31 @@ Il datore di lavoro informa il medico autorizzato, all'atto della visita, della 
 
 La visita medica preventiva comprende un'anamnesi completa, dalla quale risultino anche le eventuali esposizioni precedenti, dovute sia alle mansioni esercitate sia a esami e trattamenti medici, e un esame obiettivo completato dalle indagini specialistiche e di laboratorio, ritenute necessarie dal medico autorizzato, ai fini della valutazione di cui al comma 1. A tal fine egli puo' avvalersi, per accertamenti diagnostici, della collaborazione di medici specialisti.
 
+4.
+                        
+                            
+                                In base alle risultanze della visita medica preventiva il medico autorizzato esprime per il lavoratore uno dei seguenti giudizi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    idoneo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneo a determinate condizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non idoneo.
+
 Il medico autorizzato comunica per iscritto al datore di lavoro o suo delegato, anche in modalita' telematica, il giudizio di idoneita' e i limiti di validita' del medesimo.
 
 Il medico autorizzato, nell'ambito della visita preventiva nonche' in occasione delle visite previste dall'articolo 136, illustra al lavoratore il significato delle dosi ricevute, delle introduzioni di radionuclidi, degli esami medici e radiotossicologici e gli comunica per iscritto anche in modalita' telematica i risultati dei giudizi di idoneita' che lo riguardano.
@@ -1640,6 +4575,38 @@ Il datore di lavoro provvede affinche' i lavoratori esposti e gli apprendisti e 
 Gli organi preposti alla vigilanza di cui all'articolo 106, comma 2, e i medici autorizzati possono disporre che dette visite siano ripetute con maggiore frequenza in tutti i casi in cui le condizioni di esposizione e lo stato di salute dei lavoratori lo esigano.
 
 La visita medica straordinaria e' eseguita su richiesta del lavoratore qualora la motivazione della richiesta stessa sia ritenuta dal medico autorizzato correlabile ai rischi professionali e, pertanto, suscettibile di modificare il giudizio di idoneita' alla mansione specifica.
+
+4.
+                        
+                            
+                                In base alle risultanze delle visite mediche di cui ai commi 1 e 2, il medico autorizzato esprime per i lavoratori uno dei seguenti giudizi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    idonei; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idonei a determinate condizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non idonei; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lavoratori sottoposti a sorveglianza sanitaria dopo la cessazione del lavoro che li ha esposti alle radiazioni ionizzanti.
 
 Il medico autorizzato comunica per iscritto, anche in modalita' telematica, al datore di lavoro il giudizio di cui al ((comma 4)) e i termini di validita' del medesimo.
 
@@ -1663,13 +4630,157 @@ Il medico autorizzato richiede al datore di lavoro l'allontanamento dal lavoro d
 
 Presso il Ministero del Lavoro e delle Politiche Sociali e' tenuto l'elenco dei medici autorizzati cui sono iscritti su domanda, i medici competenti ai sensi dell'articolo 2, comma 1, lettera h), del decreto legislativo 9 aprile 2008, n. 81 che abbiano i requisiti stabiliti dal successivo comma 2 e che dimostrino di essere in possesso della capacita' tecnica e professionale necessaria per lo svolgimento dei compiti inerenti alla sorveglianza sanitaria dei lavoratori esposti.
 
+2.
+                        
+                            
+                                Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro della salute e il Ministro dell'universita' e della ricerca, da emanarsi entro diciotto mesi dalla data di entrata in vigore del presente decreto, sono disciplinate le modalita' di iscrizione nell'elenco di cui al comma 1, i contenuti della formazione e dell'aggiornamento professionale dei medici autorizzati, nel rispetto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indicazione dei titoli di studio e professionali richiesti ai fini dell'iscrizione nell'elenco dei medici autorizzati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    previsione di una formazione post-universitaria corrispondente almeno al corso di perfezionamento universitario, con verifica dell'apprendimento, in materia di prevenzione dagli effetti delle radiazioni ionizzanti che comprenda una parte pratica corrispondente a 30 giorni lavorativi;
+                                
+                            
+                            
+                                c)
+                                
+                                    previsione dei contenuti tecnico-scientifici della prova di esame fermo restando che la stessa dovra' contemplare anche la risoluzione di un caso pratico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    aggiornamento professionale, nell'ambito del programma di educazione continua in medicina (ECM) di cui all'Accordo 2 febbraio 2017, concluso ai sensi dell'articolo 4 del decreto legislativo 28 agosto 1997, n. 281, tra il Governo, le Regioni e le Province autonome di Trento e di Bolzano sul documento "La formazione continua nel settore salute" e pubblicato nella Gazzetta Ufficiale n. 274 del 23 novembre 2017, assicurato mediante corsi tenuti da istituti universitari, dagli Albi professionali dei medici o dalle associazioni scientifiche o di categoria dei medici autorizzati con la previsione della percentuale non inferiore al 30% dei crediti ECM previsti al comma 3 dell'articolo 38 del decreto legislativo 9 aprile 2008 n. 81 in materia di prevenzione dagli effetti delle esposizioni alle radiazioni ionizzanti;
+                                
+                            
+                            
+                                e)
+                                
+                                    previsione dell'impossibilita' dell'iscrizione nell'elenco per chi abbia riportata una condanna per reati contro la pubblica amministrazione e contro la fede pubblica, fermo restando che possono essere iscritti a detto elenco coloro che godono dei diritti politici e che non risultano interdetti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 25 NOVEMBRE 2022, N. 203)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    indicazione delle modalita' di presentazione della domanda di iscrizione nell'elenco e della modalita' secondo cui avviene l'iscrizione e delle cause di cancellazione dall'elenco; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    previsione della composizione della commissione di esame con designazione dei suoi componenti nelle seguenti proporzioni: 
+ 1) due componenti designati dal Ministero del lavoro e delle politiche sociali; 
+ 2) un componente designato dal Ministero della salute; 
+ 3) un componente designato dall'Istituto superiore di sanita'; 
+ 4) un componente designato dall'INAIL; 
+ 5) un componente designato dal Ministero dell'Universita'; 
+ 6) due componenti designati dall'ISIN; 
+ fermo il ruolo del presidente in capo ad uno dei componenti designati dal Ministero del lavoro e delle politiche sociali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    definizione dei compiti della commissione preposta a deliberare sull'iscrizione nell'elenco, fermo restando che alla stessa spetta di esprimere proposte e pareri in merito alla sospensione e alla cancellazione dagli elenchi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    individuazione nella sede del Ministero del lavoro e delle politiche sociali in Roma del luogo di svolgimento degli esami finalizzati ad ottenere l'iscrizione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    annualita' della sessione d'esami ed equiparazione a rinuncia della mancata presentazione del candidato all'esame nella data stabilita.
+
 Sino all'emanazione del decreto di cui al comma 2 si applica la disciplina di cui all'allegato XXI.
 
 ## Art. 139. — Attribuzioni del medico autorizzato (decreto legislativo 17 marzo 1995, n. 230, articolo 89)
 
+1.
+                        
+                            
+                                Nell'esercizio delle proprie funzioni, il medico addetto alla sorveglianza sanitaria dei lavoratori esposti, fermi comunque restando gli altri compiti previsti nel presente Titolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettua l'analisi dei rischi individuali per la salute connessi alla destinazione lavorativa e alle mansioni ai fini della programmazione della sorveglianza sanitaria del lavoratore, anche attraverso accessi diretti negli ambienti di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istituisce e aggiorna i documenti sanitari personali e li consegna all'INAIL con le modalita' previste all'articolo 140 del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consegna al medico autorizzato subentrante i documenti sanitari personali di cui alla lettera b), nel caso di cessazione dall'incarico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornisce consulenza al datore di lavoro per la messa in atto di infrastrutture e procedure idonee a garantire la sorveglianza sanitaria dei lavoratori esposti, sia in condizioni di lavoro normale che in caso di esposizioni accidentali o di emergenza.
+
 ## Art. 140.
 
 Documento sanitario personale (direttiva 2013/59/((Euratom)), articolo 48; decreto legislativo 17 marzo 1995, n. 230, articolo 90).
+
+1.
+                        
+                            
+                                Per ogni lavoratore esposto il medico autorizzato istituisce, aggiorna e conserva un documento sanitario personale in cui sono compresi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati raccolti nella visita preventiva e nelle visite mediche periodiche, straordinarie e in occasione della sorveglianza sanitaria eccezionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la destinazione lavorativa, i rischi a essa connessi e i successivi mutamenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le dosi ricevute dal lavoratore, derivanti sia da esposizioni normali, sia da esposizioni accidentali o di emergenza ovvero soggette ad autorizzazione speciale, utilizzando i dati trasmessi dall'esperto di radioprotezione.
 
 I lavoratori hanno diritto ad accedere ai risultati delle valutazioni di dose, delle valutazioni delle introduzioni di radionuclidi e degli esami medici e radiotossicologici che li riguardano, e di ricevere, dietro loro richiesta, copia della relativa documentazione. Copia del documento sanitario personale e' consegnata dal medico autorizzato all'interessato su sua richiesta e, comunque, alla cessazione del rapporto di lavoro.
 
@@ -1727,11 +4838,145 @@ Decorsi trenta giorni dalla data di ricevimento del ricorso senza che il Ministe
 
 Limiti di dose (direttiva 2013/59/((Euratom)), articoli 9, 10, 11; decreto legislativo 17 marzo 1995, n. 230, articolo 96).
 
+1.
+                        
+                            
+                                I limiti di dose per i lavoratori esposti sono stabiliti in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    20 mSv dose efficace in un anno solare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fermo restando il rispetto del limite di dose efficace di cui alla lettera a), sono stabiliti i seguenti limiti di dose equivalente in un anno solare: 
+ 1) 20 mSv per il cristallino; 
+ 2) 500 mSv per la pelle; tale limite si applica alla dose media, su qualsiasi superficie di 1 cm², indipendentemente dalla superficie esposta; 
+ 3) 500 mSv per le estremita'.
+
+2.
+                        
+                            
+                                I limiti di dose per gli apprendisti e per gli studenti di cui all'articolo 120, comma 1, sono stabiliti, in relazione alla suddivisione dei medesimi in ragione dell'eta' e del tipo di attivita' lavorativa o di studio, nel modo seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli apprendisti e studenti di cui all'articolo 120, comma 1, lettera a) i limiti di dose efficace e di dose equivalente per particolari organi o tessuti, sono uguali ai limiti fissati per i lavoratori esposti di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli apprendisti e studenti di cui all'articolo 120, comma 1, lettera b), i limiti di esposizione sono stabiliti in: 
+ 1) 6 mSv di dose efficace per anno solare; 
+ 2) fermo restando il rispetto del limite di dose efficace di cui alla lettera a), sono stabiliti i seguenti limiti di dose equivalente in un anno solare: 
+ 2.1) 15 mSv per il cristallino; 
+ 2.2) 150 mSv per la pelle; tale limite si applica alla dose media, su qualsiasi superficie di 1 cm² indipendentemente dalla superficie esposta; 
+ 2.3) 150 mSv per le estremita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per gli apprendisti e gli studenti di cui all'articolo 120, comma 1, lettere c) e
+                                
+                            
+                            
+                                d)
+                                
+                                    i limiti annuali di dose efficace nonche' di dose equivalente per particolari organi o tessuti sono uguali alla meta' di quelli stabiliti al comma 7, per gli individui della popolazione; per detti soggetti, inoltre, la dose ricevuta per ogni singola esposizione correlata alla loro attivita' non puo' superare un ventesimo dei limiti annuali di cui allo stesso comma 7.
+
 Qualora per i lavoratori esposti e per gli apprendisti e gli studenti ad essi equiparati ai sensi del comma 2, lettera a), sia superato, anche a seguito di esposizioni accidentali, di emergenza o esposizioni soggette ad autorizzazione speciale di cui al paragrafo 5 dell'Allegato XXII stesso, il limite annuale di dose efficace di 20 mSv di cui al comma 1, le successive esposizioni devono essere limitate, per anno solare, a 10 mSv sino a quando la media annuale delle esposizioni stesse per tutti gli anni seguenti, compreso l'anno del superamento, risulti non superiore a 20 mSv.
+
+4.
+                        
+                            
+                                L'obbligo della sorveglianza sanitaria eccezionale previsto dall'articolo 141 sussiste per i lavoratori esposti, gli apprendisti e gli studenti che, nel corso delle loro attivita' lavorative o di studio, abbiano ricevuto, in un anno solare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una dose superiore al limite di 20 mSv fissato al comma 1, lettera a) per la dose efficace, determinata in base alle indicazioni di cui al comma 3, oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una dose maggiore di uno dei limiti fissati nel comma 1, lettera b) per particolari organi o tessuti.
 
 L'obbligo di comunicazione di cui all'articolo 142 sussiste ove si sia verificata anche una delle condizioni di cui al comma 4.
 
 I limiti di dose per i lavoratori che, in relazione alle proprie occupazioni, sono considerati, ai sensi dell'articolo 133, comma 2, lavoratori non esposti, nonche' per i lavoratori autonomi e dipendenti da terzi, di cui all'articolo 117, sono, con riferimento all'attivita' lavorativa di tali soggetti, pari ai corrispondenti limiti fissati nel comma 7, per gli individui della popolazione.
+
+7.
+                        
+                            
+                                I limiti di esposizione per gli individui della popolazione sono stabiliti in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    1 mSv di dose efficace per anno solare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fermo restando il rispetto del limite di dose efficace di cui alla lettera a), sono stabiliti i seguenti limiti di dose equivalente in un anno solare: 
+ 1) 15 mSv per il cristallino; 
+ 2) 50 mSv per la pelle, calcolato in media su 1 cm² di pelle, indipendentemente dalla superficie esposta.
+
+8.
+                        
+                            
+                                Con decreto del Presidente del Consiglio dei ministri, su proposta dei Ministri dell'ambiente e della tutela del territorio e del mare e della salute, di concerto con il Ministro del lavoro e delle politiche sociali e del Dipartimento della protezione civile della Presidenza del Consiglio dei ministri, sentiti l'ISIN, l'INL, l'ISS e l'INAIL, sono stabiliti, con riferimento alle diverse modalita' di classificazione di cui all'articolo 133: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le specifiche grandezze radioprotezionistiche, come mezzo per garantire l'osservanza dei limiti di dose, con i relativi criteri di utilizzo, anche per i casi di esposizione esterna e interna concomitante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    particolari casi per i quali non si applicano i limiti di dose; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    metodi di valutazione delle dosi per lavoratori, apprendisti, studenti e individui della popolazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i valori di concentrazione di radionuclidi nelle acque di miniera ai fini dell'articolo 23, comma 1. 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'aggiornamento dei coefficienti di dose efficace impegnata per unita' di introduzione secondo le indicazioni fornite dall'Unione europea.
 
 Nelle more dell'adozione del decreto di cui al comma 8, si applicano le disposizioni dell'Allegato XXIV.
 
@@ -1807,6 +5052,31 @@ La gestione delle reti uniche regionali e' effettuata dalle singole regioni, sec
 
 Le reti nazionali si avvalgono dei rilevamenti e delle misure effettuati da istituti, enti e organismi idoneamente attrezzati.
 
+4.
+                        
+                            
+                                Per assicurare l'omogeneita' dei criteri di rilevamento e delle modalita' di esecuzione dei prelievi e delle misure, relativi alle reti nazionali ai fini dell'interpretazione integrata dei dati rilevati, nonche' per gli effetti dell'articolo 35 del Trattato istitutivo della CEEA, sono affidate all'ISIN le funzioni di coordinamento tecnico. A tal fine l'ISIN, sulla base delle direttive in materia, emanate dal Ministero della salute e dal Ministero dell'ambiente e della tutela del territorio e del mare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordina le misure effettuate dagli istituti, enti o organismi di cui sopra, riguardanti la radioattivita' dell'atmosfera, delle acque, del suolo, delle sostanze alimentari e bevande e delle altre matrici rilevanti, seguendo le modalita' di esecuzione e promuovendo criteri di normalizzazione e di intercalibrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuove l'installazione di stazioni di prelevamento di campioni e l'effettuazione delle relative misure di radioattivita', quando cio' sia necessario per il completamento di un'organica rete di rilevamento su scala nazionale, eventualmente contribuendo con mezzi e risorse, anche finanziarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasmette, in ottemperanza all'articolo 36 del Trattato istitutivo della CEEA, le informazioni relative ai rilevamenti effettuati.
+
 Per quanto attiene alle reti nazionali, l'ISIN provvede inoltre alla diffusione dei risultati delle misure effettuate.
 
 La rete di allarme gestita dal Ministero dell'interno ai sensi del decreto legislativo 8 marzo 2006, n. 139, concorre autonomamente al sistema di reti nazionali.
@@ -1837,9 +5107,102 @@ Riconoscimento dei servizi di dosimetria individuale e degli organismi di misura
 
 La determinazione della dose o dei ratei di dose, delle altre grandezze tramite le quali possono essere valutati le dosi e i ratei di dose nonche' delle attivita' e concentrazioni di attivita', volumetriche o superficiali, di radionuclidi deve essere effettuata con mezzi di misura, adeguati ai diversi tipi e qualita' di radiazione, che siano muniti di certificati di taratura secondo la normativa vigente, ovvero conformi alle norme di buona tecnica applicabili.
 
+2.
+                        
+                            
+                                Le disposizioni di cui al comma 1 si applicano ai mezzi radiometrici impiegati per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la sorveglianza ambientale di radioprotezione nei luoghi di lavoro, di cui all'articolo 130, comma 1, lettera c); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sorveglianza ambientale di cui all'articolo 151, comma 2, lettere f) e g), ivi compresa quella dovuta ai sensi dell'articolo 130, comma 9; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il controllo sulla radioattivita' ambientale e sugli alimenti e bevande per consumo umano e animale, di cui all'articolo 152; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rilevamenti con apparecchi, diversi da quelli di cui al comma 3, a lettura diretta assegnati per la rilevazione di dosi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ove possibile, i rilevamenti con apparecchi impiegati per la sorveglianza radiometrica su rottami o altri materiali metallici, di cui all'articolo 72; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i rilevamenti previsti dai piani di emergenza di cui al Titolo XIV.
+
 ((
 
 I soggetti che svolgono attivita' di servizio di dosimetria individuale e quelli di cui agli articoli 17, comma 6, 19, comma 4, e 22, comma 6, devono essere riconosciuti idonei, nell'ambito delle norme di buona tecnica, tenendo anche conto delle decisioni, delle raccomandazioni e degli orientamenti tecnici forniti dalla Commissione europea o da organismi internazionali. Nel procedimento di riconoscimento si tiene conto dei tipi di apparecchi di misura e delle metodiche impiegate. Con uno o piu' decreti del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro della salute, sentiti i Ministri dell'ambiente e della sicurezza energetica e dell'interno, nonche' l'ISIN, l'Istituto di metrologia primaria delle radiazioni ionizzanti e l'INAIL, sono disciplinate, nel rispetto dei requisiti minimi di cui al comma 3-bis e dell'allegato II, le modalita' per il riconoscimento dei soggetti che svolgono attivita' di servizio di dosimetria e il riconoscimento degli organismi di misura. Ai fini del riconoscimento e' acquisito il parere tecnico dell'ISIN e dell'INAIL.
+
+3-bis.
+                        
+                            
+                                I servizi di dosimetria e gli organismi di misura riconosciuti idonei garantiscono i seguenti requisiti minimi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno una organizzazione conforme ai requisiti della norma tecnica UNI CEI EN ISO/IEC 17025 ovvero sono in possesso di un accreditamento in conformita' alla norma 17025 per il servizio di dosimetria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    operano con personale tecnico dipendente o con rapporto esclusivo di collaborazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    garantiscono l'effettuazione di test di interlaboratorio per verificare la correttezza della misura dosimetrica e radiometrica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzano un sistema di misurazione conforme allo stato della tecnica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assicurano la formazione e informazione e l'aggiornamento del personale addetto ai servizi di dosimetria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    stipulano una polizza assicurativa a copertura delle attivita' oggetto del servizio di dosimetria o dell'organismo di misura. 
+ I decreti di cui al comma 3 indicano i titoli di studio e professionali per il personale del servizio di dosimetria o dell'organismo di misura, che deve essere in numero sufficiente per poter svolgere il servizio.
 
 Nelle more dell'adozione dei decreti di cui al comma 3, i soggetti che svolgono il servizio di dosimetria assicurano il rispetto delle previsioni di cui al comma 3 dell'articolo 127, e sono attribuite le funzioni di servizio di dosimetria al laboratorio di difesa atomica del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, limitatamente ai servizi dedicati al personale operativo del Corpo nazionale dei vigili del fuoco e al Centro Interforze Studi per le Applicazioni Militari, limitatamente ai servizi dedicati all'Amministrazione della Difesa.
 
@@ -1852,6 +5215,45 @@ Nelle more dell'adozione dei decreti di cui al comma 3, i soggetti che svolgono 
 Ambito di applicazione ( ((Direttiva 2013/59/Euratom)), articolo 1, articolo. 2, c. 1; decreto legislativo 26 maggio 2000, n. 187, articolo 1).
 
 Il presente Titolo definisce i principi generali della radioprotezione delle persone per quanto riguarda le esposizioni di cui ai commi 2 e 3.
+
+2.
+                        
+                            
+                                Il presente Titolo si applica alle esposizioni di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pazienti nell'ambito della rispettiva diagnosi o trattamento medico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    persone nell'ambito della sorveglianza sanitaria di cui all'articolo 41 del decreto legislativo 9 aprile 2008, n. 81; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    persone nell'ambito di programmi di screening sanitario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individui asintomatici e pazienti che partecipano volontariamente a programmi di ricerca medica o biomedica, in campo diagnostico o terapeutico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    persone nell'ambito di procedure a scopo non medico condotte con attrezzature medico-radiologiche.
 
 Il presente Titolo si applica inoltre alle esposizioni di coloro che coscientemente e volontariamente, al di fuori della loro occupazione, assistono e confortano persone sottoposte a esposizioni mediche.
 
@@ -1923,6 +5325,77 @@ Specialista in fisica medica ( ((Direttiva 2013/59/Euratom)), articolo 83)
 
 Lo specialista in fisica medica fornisce consulenza specialistica, ove opportuno, sulle questioni riguardanti la fisica delle radiazioni in relazione al rispetto dei requisiti del presente Titolo, avendo in via esclusiva la responsabilita' della misura e della valutazione delle dosi assorbite dai pazienti nell'ambito delle esposizioni di cui all'articolo 156, commi 2 e 3, nonche' la responsabilita' della scelta della strumentazione da impiegarsi nell'ambito della dosimetria sul paziente e dei controlli di qualita' da effettuarsi sulle attrezzature medico-radiologiche.
 
+2.
+                        
+                            
+                                Le attivita' dello specialista in fisica medica, nello specifico campo di applicazione del presente Titolo, sono dirette prevalentemente a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare le prove di accettazione e di funzionamento delle attrezzature medico-radiologiche, rispettivamente ai fini del collaudo tecnico e dopo ogni rilevante intervento manutentivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contribuire a definire e mettere in atto i programmi di garanzia della qualita' finalizzati all'attuazione del principio di ottimizzazione, ivi compresi l'applicazione e l'impiego di livelli diagnostici di riferimento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contribuire a garantire la sorveglianza sulle apparecchiature medico-radiologiche anche attraverso un adeguato controllo della qualita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    definire i protocolli di effettuazione delle prove di funzionamento delle attrezzature medico-radiologiche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    effettuare la pianificazione fisico-dosimetrica nei trattamenti radioterapeutici sulla base delle prescrizioni terapeutiche del medico specialista e assicurare le necessarie verifiche dosimetriche; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    contribuire alla prevenzione e all'analisi delle esposizioni accidentali e indebite di cui all'articolo 167; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    contribuire alla formazione, finalizzata alla protezione del paziente, dei professionisti sanitari coinvolti nelle esposizioni mediche.
+
+3.
+                        
+                            
+                                L'esercente garantisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la collaborazione dello specialista in fisica medica con l'esperto di radioprotezione, in particolare nell'ambito delle procedure di radiologia interventistica e delle attivita' che comportano infissioni permanenti o somministrazione di sostanze radioattive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il coinvolgimento dello specialista in fisica medica e del responsabile dell'impianto radiologico nella definizione delle specifiche tecniche delle attrezzature medico-radiologiche, e nella progettazione e collaudo degli impianti nell'ambito dell'organizzazione della struttura sanitaria.
+
 Le stazioni appaltanti di cui al decreto legislativo 18 aprile 2016, n. 50 che provvedono all'acquisizione di beni o servizi relativi a tecnologie correlate all'impiego medico di radiazioni ionizzanti garantiscono il coinvolgimento di uno specialista in fisica medica e di un medico specialista di area radiologica.
 
 ## Art. 161.
@@ -1954,7 +5427,53 @@ Entro sei mesi dall'entrata in vigore del presente decreto, l'Agenzia Nazionale 
 
 Attrezzature medico-radiologiche ( ((Direttiva 2013/59/Euratom)), articolo 60; decreto legislativo 26 maggio 2000, n. 187, articoli 7, commi 4, 6, 13, articolo 8, e 9, comma 6).
 
+1.
+                        
+                            
+                                Le Regioni e le Province autonome, nell'ambito del sistema previsto dal decreto legislativo 30 dicembre 1992, n. 502, formulano indirizzi agli organi di vigilanza affinche' tutte le attrezzature radiologiche in uso siano tenute sotto stretta sorveglianza, per quanto riguarda la radioprotezione del paziente. Gli organi di vigilanza predispongono programmi di ispezione che tengono conto anche dell'entita' e della natura dei potenziali pericoli per il paziente associati alle pratiche mediche condotte presso le strutture sanitarie di competenza. Le Regioni e le Province autonome provvedono, altresi', affinche': 
+ 
+                            
+                            
+                                a)
+                                
+                                    solo strutture in possesso di autorizzazione sanitaria regionale e dei requisiti stabiliti ai sensi dell'articolo 8, comma 4, del decreto legislativo 30 dicembre 1992, n. 502, intraprendano pratiche mediche comportanti esposizioni a radiazioni ionizzanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'ambito della programmazione sanitaria si tenga conto anche della necessita' di evitare l'inutile proliferazione delle attrezzature radiologiche.
+
 L'esercente e' tenuto agli adempimenti di cui all'articolo 48.
+
+3.
+                        
+                            
+                                Il responsabile dell'impianto radiologico, tenendo conto delle indicazioni fornite dallo specialista in fisica medica, provvede affinche', sulle attrezzature medico-radiologiche, siano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    intrapresi e documentati adeguati programmi di garanzia della qualita', compreso il controllo della qualita'. Rientrano in tali programmi anche la valutazione della dose o dell'attivita' somministrata ai pazienti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuate e documentate, secondo le norme di buona tecnica applicabili e tenuto conto delle indicazioni fornite dal produttore, le seguenti prove: 
+ 1) accettazione prima dell'entrata in uso; 
+ 2) corretto funzionamento a intervalli regolari; 
+ 3) corretto funzionamento dopo ogni intervento rilevante di manutenzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    redatti protocolli di esecuzione di tutte le prove necessarie a esprimere il giudizio di idoneita' all'uso clinico.
 
 Il responsabile dell'impianto radiologico, provvede, altresi', affinche' i radiofarmaci impiegati in medicina nucleare siano preparati secondo le norme di buona preparazione di cui all'Accordo 28 ottobre 2010, tra il Governo, le Regioni e le Province autonome di Trento e di Bolzano sul documento relativo a «Linee guida per l'applicazione delle norme di buona preparazione dei radiofarmaci in medicina nucleare». Pubblicato nella Gazzetta Ufficiale n. 274 del 23 novembre 2010.
 
@@ -1990,9 +5509,69 @@ Le apparecchiature radiologiche impiegate in radiodiagnostica devono essere muni
 
 ## Art. 164. — Documentazione (decreto legislativo 26 maggio 2000, n. 187, articolo 8, comma 9)
 
+1.
+                        
+                            
+                                Il responsabile dell'impianto radiologico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede affinche', all'interno del manuale di qualita', siano inseriti almeno gli elementi contenuti nell'allegato XXVIII parte I, tenendo conto delle indicazioni fornite dallo specialista in fisica medica o, nei casi consentiti, dall'esperto di radioprotezione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede affinche' vengano registrati almeno i dati e le valutazioni, come indicato nell'allegato XXVIII parte II; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conserva le informazioni di cui alla lettera precedente, con le modalita' stabilite nell'allegato XXVIII parte II, ovvero su supporto informatico, nel rispetto delle linee guida dell'Agenzia per l'Italia digitale.
+
 ## Art. 165.
 
 Pratiche speciali ( ((Direttiva 2013/59/Euratom)), articoli. 57, comma 1, lettera d), 6, comma 1 ultimo capoverso; decreto legislativo 26 maggio 2000, n. 187, articolo 9).
+
+1.
+                        
+                            
+                                L'esercente e il responsabile dell'impianto radiologico, nell'ambito delle rispettive competenze, individuano gli interventi da attuarsi ai fini dell'applicazione del principio di giustificazione e di ottimizzazione alle pratiche che comportano, in particolare, esposizioni di soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in eta' pediatrica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esposti nell'ambito di programmi di screening; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esposti nell'ambito di pratiche radiologiche comportanti alte dosi per il paziente, come puo' avvenire nel caso delle seguenti procedure: 
+ 1) radiologia interventistica; 
+ 2) tomografia computerizzata; 
+ 3) medicina nucleare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sottoposti a trattamenti radioterapeutici.
 
 Per le attivita' di cui al comma 1, lettera c), punto 1), devono essere utilizzate apparecchiature radiologiche a cio' specificatamente dedicate.
 
@@ -2002,6 +5581,31 @@ Per le esposizioni di cui al comma 1, lettere a) e b), per le quali non siano di
 
 Per le esposizioni di cui al comma 1, lettera b), l'esercente garantisce la partecipazione agli audit clinici di cui all'articolo 168, comma 5.
 
+6.
+                        
+                            
+                                Per le esposizioni di cui al comma 1, lettera c), punto 1), il responsabile dell'impianto radiologico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indica, nell'ambito del programma di controllo e garanzia della qualita', i criteri e le modalita' di follow-up sul paziente di eventuali reazioni tissutali che interessino la cute e gli annessi cutanei; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prevede specifiche attivita' di formazione e addestramento, in collaborazione con lo specialista in fisica medica, in merito all'utilizzo dell'apparecchiatura radiologica e all'ottimizzazione del suo impiego; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definisce, in collaborazione con lo specialista in fisica medica, sulla base del monitoraggio di cui al comma 7 e delle indicazioni fornite dalle norme tecniche e linee guida applicabili, i livelli diagnostici di riferimento il cui superamento implichi la verifica delle procedure di ottimizzazione o la possibilita' di un particolare follow-up per il paziente.
+
 Per le esposizioni di cui al comma 1, lettera c), punto 1, il responsabile dell'impianto radiologico provvede affinche' lo specialista in fisica medica effettui, attraverso l'impiego degli indicatori dosimetrici forniti dall'apparecchiatura radiologica, le valutazioni dosimetriche e un monitoraggio periodico, almeno annuale, delle dosi assorbite dal paziente.
 
 Per le esposizioni di cui al comma 1, lettera c), punto 1, il medico specialista informa il paziente sui rischi radiologici connessi con la procedura e si assicura che il documento di consenso sia esplicito rispetto a tali rischi.
@@ -2009,6 +5613,38 @@ Per le esposizioni di cui al comma 1, lettera c), punto 1, il medico specialista
 Per le esposizioni di cui al comma 1, lettera c), punto 1, lo specialista in fisica medica, nell'ambito della predisposizione delle procedure del controllo della qualita', provvede alla verifica dei dispositivi di misura previsti all'articolo 163, commi 15 e 16. Il medico specialista tiene conto delle informazioni fornite dai suddetti dispositivi, al fine di adottare le eventuali misure correttive, compatibili con le finalita' cliniche.
 
 L'esercente e il responsabile dell'impianto radiologico, per quanto di rispettiva competenza, tengono conto delle verifiche effettuate dallo specialista in fisica medica per adottare misure correttive eventualmente necessarie.
+
+11.
+                        
+                            
+                                Nelle attivita' di radioterapia, l'esercente e il responsabile dell'impianto radiologico, nell'ambito delle rispettive competenze, garantiscono che lo specialista in fisica medica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettui la pianificazione dosimetrica sulla base delle prescrizioni del medico specialista; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    collabori all'ottimizzazione del processo terapeutico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    collabori alla prevenzione delle esposizioni accidentali o indebite; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predisponga le procedure per la valutazione delle dosi somministrate ai pazienti durante i trattamenti e ne verifichi la corretta applicazione.
 
 ## Art. 166.
 
@@ -2040,6 +5676,49 @@ Nelle pratiche radioterapeutiche, lo specialista in fisica medica definisce proc
 
 Sulla base delle indicazioni di cui al comma 4, il responsabile dell'impianto radiologico adotta tutte le misure ragionevolmente attuabili, tenendo conto dei fattori economici e sociali, per ridurre l'entita' e la probabilita' che dosi, accidentali o indebite, siano assorbite dai pazienti nel corso di pratiche radioterapeutiche.
 
+7.
+                        
+                            
+                                Nell'ambito della formazione continua prevista all'articolo 162, commi 2 e 3, per il personale coinvolto nelle procedure di radioterapia devono essere previsti percorsi formativi che comprendano, per quanto di competenza delle rispettive figure professionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la gestione del rischio clinico specifico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo sviluppo della sensibilita' e della capacita' di segnalare gli eventi avversi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo sviluppo della capacita' di implementare metodiche di prevenzione e di analisi proattiva del rischio.
+
+8.
+                        
+                            
+                                Il responsabile dell'impianto radiologico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    informa il medico prescrivente, il medico specialista e il paziente o un suo rappresentante su eventuali esposizioni indebite o accidentali clinicamente significative e sulle conseguenze da esse derivanti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di esposizioni indebite o accidentali avvenute nell'ambito di trattamenti radioterapeutici, informa la funzione aziendale deputata alla gestione del rischio clinico, cosi' come prevista dall'Intesa tra il Governo, le Regioni e le Province autonome di Trento e Bolzano del 20 marzo 2008 concernente la gestione del rischio clinico e la sicurezza dei pazienti e delle cure (Rep. atti n. 116/CSR), ai fini della comunicazione dell'evento al sistema informativo per il monitoraggio degli errori in sanita' (SIMES) istituito presso il Ministero della salute. I risultati delle indagini e le misure correttive adottate sono comunicati al Ministero della salute entro un anno dal verificarsi dell'evento.
+
 Il Ministero della salute provvede affinche' nell'ambito del sistema SIMES sia prevista la definizione di uno specifico evento sentinella relativo a esposizioni accidentali o indebite a radiazioni ionizzanti.
 
 ## Art. 168.
@@ -2063,6 +5742,77 @@ Il Ministero della salute con l'Istituto Superiore di Sanita', sentita la Confer
 ## Art. 169.
 
 Pratiche implicanti l'esposizione intenzionale delle persone a scopo non medico con attrezzature medico-radiologiche ( ((Direttiva 2013/59/Euratom)), articolo 22).
+
+1.
+                        
+                            
+                                Sono consentite, esclusivamente presso strutture sanitarie in possesso di autorizzazione sanitaria regionale e dei requisiti stabiliti ai sensi dell'articolo 8, comma 4, del decreto legislativo 30 dicembre 1992, n. 502, le seguenti pratiche implicanti l'esposizione intenzionale a radiazioni ionizzanti di persone con metodiche per immagini a scopo non medico mediante attrezzature medico-radiologiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tecniche diagnostiche ai fini dell'accertamento preventivo dei requisiti di idoneita' fisica al lavoro, su richiesta di un medico prescrivente recante la motivazione, ferme restando le disposizioni di cui al decreto legislativo 9 aprile 2008, n. 81 in materia di sorveglianza sanitaria dei lavoratori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tecniche diagnostiche nell'ambito di procedure medico-legali o assicurative che non presentano un beneficio diretto per la salute delle persone esposte, su richiesta di un medico prescrivente recante la motivazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tecniche diagnostiche ai fini della determinazione della minore eta', eseguite presso strutture sanitarie pubbliche possibilmente dotate di reparti pediatrici, su richiesta dell'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tecniche diagnostiche ai fini dell'identificazione di oggetti occultati all'interno del corpo umano, eseguite presso strutture sanitarie pubbliche su richiesta dell'autorita' giudiziaria.
+
+2.
+                        
+                            
+                                Nei casi di cui al comma 1, lettere a), b), c) e d): 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono generalmente accettate e giustificate le procedure che comportano esposizioni a basse dosi. Le pratiche comportanti alte dosi, in particolare la tomografia computerizzata, sono in generale da ritenersi non giustificate per scopi non medici, fatto salvo quanto previsto alla lettera c); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono da ritenersi generalmente accettate e giustificate le applicazioni specifiche su soggetti adulti e donne non in eta' fertile. Nei confronti dei minori sono da ritenersi giustificate esclusivamente le pratiche finalizzate alla tutela giuridica del minore medesimo, in particolare quelle di cui al comma 1), lettera c); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tutte le singole procedure che comportano esposizioni con metodiche per immagini a scopo non medico devono essere effettuate esclusivamente previa giustificazione individuale sotto la responsabilita' clinica di un medico specialista in radiodiagnostica, tenendo conto degli obiettivi specifici della procedura e delle caratteristiche della persona interessata. Nei casi di cui al comma 1, lettera a), e' vietata l'esecuzione di accertamenti radiografici in via routinaria e generalizzata in assenza di valutazioni individuali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    devono essere applicate le prescrizioni pertinenti l'esposizione medica di cui al presente Titolo, comprese quelle relative alle attrezzature, all'ottimizzazione, alle responsabilita', alla formazione e alla protezione particolare in caso di gravidanza, nonche' al coinvolgimento, se opportuno, dello specialista in fisica medica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    devono essere fornite dal medico specialista informazioni sulla pratica alla persona che sara' esposta, a cui deve essere richiesto il consenso, salvo che sia diversamente disposto dall'autorita' giudiziaria.
 
 Il Ministero della salute elabora, ove appropriato, ulteriori criteri e prescrizioni, inclusi eventuali specifici livelli diagnostici di riferimento nel caso di utilizzo di attrezzature medico-radiologiche, ai fini dell'applicazione del presente articolo, sentite le istituzioni e societa' scientifiche di riferimento.
 
@@ -2142,6 +5892,24 @@ Ai componenti del Comitato non spettano compensi, indennita', gettoni di presenz
 
 Attuazione dei piani di emergenza (direttiva 2013/59/((Euratom)), articolo 69; decreto legislativo 17 marzo 1995, n. 230, articolo 115-quinquies).
 
+1.
+                        
+                            
+                                Qualora nelle installazioni di cui all'articolo 174, comma 1, si verifichino eventi che possano comportare emissioni e dispersioni di radionuclidi all'esterno dell'installazione, che determinino rilevanti contaminazioni dell'aria, delle acque, del suolo e di altre matrici in zone esterne al perimetro dell'installazione, gli esercenti sono tenuti a informare immediatamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Prefetto, il Comando dei vigili del fuoco, gli organi del Servizio sanitario nazionale competenti per territorio, le ARPA/APPA e l'ISIN; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le amministrazioni di cui alla lettera a), nonche' il Capo del compartimento marittimo e l'ufficio di sanita' marittima quando gli eventi stessi interessino gli ambiti portuali e le altre zone di demanio marittimo e di mare territoriale.
+
 Gli esercenti le installazioni di cui al comma 1 in cui si verifichino gli eventi di cui allo stesso comma sono altresi' tenuti a prendere tutte le misure atte a ridurre la contaminazione radioattiva nelle zone esterne al perimetro dell'installazione in modo da limitare il rischio per la popolazione, nonche' a procedere, sulla base delle informazioni disponibili, ad una prima valutazione provvisoria delle circostanze e degli effetti dell'emergenza.
 
 Il Prefetto, ricevuta l'informazione di cui al comma 1, ne da' immediata comunicazione alla Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile e al Presidente della Regione o della Provincia autonoma e al Ministero dell'interno e attiva il piano di emergenza.
@@ -2157,6 +5925,24 @@ Il piano di emergenza esterna prevede l'insieme coordinato delle misure da prend
 ## Art. 178.
 
 Presupposti del piano di emergenza esterna (direttiva 2013/59/((Euratom)), articoli 69 e 98; decreto legislativo 17 marzo 1995, n. 230, articolo 117).
+
+1.
+                        
+                            
+                                Fermo restando quanto stabilito all'articolo 87, comma 4, ai fini della predisposizione del piano di emergenza esterna il titolare dell'autorizzazione dell'impianto nucleare deve fornire all'ISIN un rapporto tecnico contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esposizione analitica delle presumibili condizioni ambientali pericolose per la popolazione e per i beni, derivanti dai singoli incidenti nucleari ragionevolmente ipotizzabili, in relazione alle caratteristiche strutturali e di esercizio dell'impianto, e delle prevedibili loro localizzazioni ed evoluzioni nel tempo, nonche' dei conseguenti livelli di esposizione delle persone del pubblico, dei lavoratori e del personale impiegati per l'emergenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la descrizione dei mezzi predisposti per il rilevamento e la misurazione della radioattivita' nell'ambiente circostante l'impianto, in caso di incidente, e delle modalita' del loro impiego.
 
 Nel rapporto tecnico sono evidenziati gli scenari incidentali le cui conseguenze attese siano circoscrivibili nell'ambito provinciale o interprovinciale e quelli che possono invece richiedere misure protettive su un territorio piu' ampio.
 
@@ -2313,6 +6099,31 @@ Le norme del presente Capo disciplinano le attivita' e le procedure di informazi
 
 ## Art. 192. — Popolazione interessata e piani di emergenza (decreto legislativo 17 marzo 1995, n. 230, articolo 128)
 
+1.
+                        
+                            
+                                Ferme restando le definizioni di cui al Titolo II, ai fini dell'applicazione del presente Capo valgono le definizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    popolazione che rischia di essere interessata dall'emergenza radiologica: qualsiasi gruppo di popolazione per il quale e' stato stabilito un piano di emergenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    popolazione effettivamente interessata dall'emergenza: qualsiasi gruppo di popolazione per il quale sono previste misure specifiche di protezione qualora sopravvenga un caso di emergenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    piano di emergenza: i piani di cui al Capo I del presente Titolo.
+
 ## Art. 193.
 
 Obbligo di informazione. (direttiva 2013/59/((Euratom)), articoli 70 e 71; decreto legislativo 17 marzo 1995, n. 230, articolo 129).
@@ -2353,6 +6164,24 @@ Dette informazioni sono completate con notizie particolareggiate in funzione del
 
 Procedure di attuazione (direttiva 2013/59/((Euratom)), articoli 70 e 71; decreto legislativo 17 marzo 1995, n. 230, articoli 133 e 134).
 
+1.
+                        
+                            
+                                La Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile, anche sulla base dei contenuti di cui all'allegato XXXIV, avvalendosi di un comitato appositamente costituito e al quale prendono parte rappresentanti designati dal Ministero della Salute, dal Ministero dell'Interno, dal Ministero dell'ambiente e della tutela del territorio e del mare, dall'ISIN, dall'Istituto Superiore di Sanita', dalla Conferenza Unificata, nonche' da altre amministrazioni ed enti competenti, provvede entro centoventi giorni dall'istituzione del predetto Comitato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla definizione dei contenuti dell'informazione preventiva per le emergenze previste dal Piano Nazionale di cui all'articolo 182; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla definizione di direttive per l'informazione preventiva e in caso di emergenza per tutte le pianificazioni disciplinate nel presente Titolo, di competenza del Prefetto.
+
 La Presidenza del Consiglio dei ministri - Dipartimento della protezione civile in raccordo con i prefetti territorialmente competenti provvede alla diffusione dell'informazione di cui all'articolo 194. A tal fine la Presidenza del Consiglio dei ministri - Dipartimento della protezione civile in raccordo con i prefetti predispone e attua, ciascuno per le emergenze di propria competenza, sulla base di contenuti delle direttive di cui al comma 1, appositi programmi di comunicazione per la diffusione dell'informazione di cui all'articolo 194 che possono prevedere in funzione delle specifiche modalita' operative e dei destinatari dell'informazione stessa il concorso delle amministrazioni statali, delle Regioni e Province autonome di Trento e Bolzano, dei sindaci, nonche' delle strutture operative del Servizio nazionale della protezione civile e degli organi del Servizio sanitario nazionale.
 
 I prefetti, sulla base delle direttive di cui al comma 1, lettera b), e la Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile individuano, nell'ambito dei piani di emergenza di rispettiva competenza, le disposizioni e le procedure per la diffusione delle informazioni di cui all'articolo 195.
@@ -2382,6 +6211,38 @@ Campo di applicazione (direttiva 2013/59 ((Euratom)); decreto legislativo 17 mar
 
 Principi della radioprotezione per le misure correttive e protettive (direttiva 2013/59 ((Euratom)), articolo 100; decreto legislativo 17 marzo 1995, n. 230, articolo 126- bis).
 
+1.
+                        
+                            
+                                Ai fini delle decisioni in merito all'attuazione delle misure correttive e protettive nelle situazioni di esposizione esistente di cui all'articolo 198 sono rispettati i seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le decisioni che introducono o modificano una via di esposizione nelle situazioni di esposizione esistente, devono essere giustificate nel senso che devono apportare piu' benefici che danni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il tipo, l'ampiezza e la durata delle misure correttive e protettive sono ottimizzati allo scopo di mantenere l'entita' delle dosi individuali, la probabilita' dell'esposizione e il numero di individui esposti al minimo ragionevolmente possibile, tenendo conto di fattori economici e sociali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ottimizzazione della protezione si applica in via prioritaria alle esposizioni al di sopra dei livelli di riferimento di cui all'allegato XXXV e continua a essere messa in atto al di sotto di detti livelli, anche tenuto conto delle valutazioni e dell'efficacia delle misure correttive e protettive attuate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i livelli di riferimento in termini di dose, di cui all'allegato XXXV, sono utilizzati ai fini della programmazione e dell'eventuale attuazione delle misure correttive e protettive. Detti livelli non costituiscono limiti di dose.
+
 Nei casi previsti dall'articolo 36 della legge n. 234 del 2012 le disposizioni dell'allegato XXXV aventi contenuto tecnico possono essere modificate con decreto del Presidente del Consiglio dei ministri ((su proposta dei Ministri dell'ambiente e della sicurezza energetica e della salute, di concerto con il Ministro del lavoro e delle politiche sociali e il Dipartimento della protezione civile della Presidenza del Consiglio dei ministri, sentiti ISIN, INL, INAIL e ISS.))
 
 ## Art. 200.
@@ -2400,6 +6261,77 @@ Nella definizione delle strategie di gestione delle situazioni di esposizione es
 
 A tal fine il Prefetto si avvale di una commissione consultiva costituita da rappresentanti delle amministrazioni e degli organismi tecnici e sanitari locali, nonche' da rappresentanti delle realta' economiche e sociali interessate. La Commissione e' integrata, in relazione alla rilevanza della situazione, con rappresentanti dell'ISIN, del Ministero dell'Interno-Dipartimento dei vigili del fuoco, della Presidenza del Consiglio dei ministri-Dipartimento della protezione civile, dell'ISPRA e dell'ISS.
 
+3.
+                        
+                            
+                                Le strategie di cui al comma 1 includono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'individuazione degli obiettivi da perseguire, anche a lungo termine, e i livelli di riferimento corrispondenti, tenendo conto di quelli stabiliti nell'allegato XXXV; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la valutazione della necessita' di misure correttive e protettive da applicare nelle aree interessate, il beneficio agli individui della popolazione interessati e la determinazione della portata e dell'efficacia di tali misure; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'individuazione delle aree interessate e degli individui della popolazione interessati, la loro delimitazione e la regolamentazione dell'accesso a tali aree o agli edifici in esse ubicati, ovvero la necessita' di imporre limitazioni alle condizioni di vita in tali aree; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la valutazione dell'esposizione di gruppi diversi della popolazione e dei mezzi a disposizione dei singoli individui per verificare la propria esposizione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'istituzione di un dispositivo di sorveglianza delle esposizioni.
+
+4.
+                        
+                            
+                                Il Prefetto, autorizzato l'insediamento e la ripresa di attivita' sociali ed economiche in aree con una contaminazione residua di lunga durata, adotta accorgimenti per il controllo costante dell'esposizione per stabilire condizioni di vita che possono essere considerate normali, tra cui: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la definizione di livelli di riferimento adeguati, tenendo conto di quelli stabiliti nell'allegato XXXV; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'organizzazione di un sistema di gestione a sostegno del mantenimento delle misure di autoprotezione nelle aree interessate, comprese le informazioni e la consulenza agli individui della popolazione e la sorveglianza delle esposizioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuale adozione di misure di risanamento ambientale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuale delimitazione di aree.
+
 Ai componenti della commissione non spettano compensi, indennita', gettoni di presenza, rimborsi di spesa o altri emolumenti comunque denominati.
 
 ## Art. 202.
@@ -2408,6 +6340,31 @@ Attuazione delle misure correttive e protettive (direttiva 2013/59 ((Euratom)), 
 
 Nelle situazioni che comportano un'esposizione esistente di cui all'articolo 200, comma 1, il Prefetto assume il coordinamento delle attivita' spettanti ai soggetti tenuti all'attuazione delle misure correttive e protettive, di cui all'articolo 201, avvalendosi della commissione di cui all'articolo 201, comma 2.
 
+2.
+                        
+                            
+                                L'attuazione delle strategie correttive e protettive, prevede periodicamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di valutare le eventuali misure correttive e protettive disponibili per conseguire gli obiettivi e l'efficienza delle misure pianificate e realizzate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di fornire alle popolazioni esposte informazioni sui potenziali rischi sanitari e sui mezzi a disposizione per ridurre, se necessario, la relativa esposizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di fornire le indicazioni per la gestione delle esposizioni a livello individuale o locale.
+
 Alle situazioni di esposizione esistente per le quali e' superato il livello di riferimento di cui all'allegato XXXV ed e' possibile attribuire la responsabilita' giuridica a un determinato soggetto, si applicano le disposizioni di cui ai ((Titoli)) XI e XII e il soggetto responsabile e' tenuto a darne notifica al Prefetto.
 
 In ogni caso ai lavoratori impegnati nelle misure correttive e protettive relative alle esposizioni di cui al comma 1 si applicano le disposizioni di cui al Titolo XI.
@@ -2415,6 +6372,24 @@ In ogni caso ai lavoratori impegnati nelle misure correttive e protettive relati
 ## Art. 203.
 
 Disposizioni particolari per taluni tipi di beni di consumo (direttiva 2013/59 ((Euratom)), articolo 21; decreto legislativo 17 marzo 1995, n. 230, articolo 126-bis).
+
+1.
+                        
+                            
+                                E' vietato mettere in circolazione, produrre, impiegare, manipolare, importare o comunque detenere, quando tali attivita' sono svolte a fini commerciali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    beni di consumo che contengono radionuclidi naturali e derivano dalle attivita' di cui all'articolo 20, le cui concentrazioni di attivita' sono tali da determinare una dose annuale alla popolazione superiore al valore di cui all'allegato XXXV lettera d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    beni di consumo, a esclusione di alimenti, mangimi e acqua potabile, che contengono radionuclidi artificiali provenienti dalle aree contaminate di cui all'articolo 198, comma 1, lettera a) le cui concentrazione di attivita' sono tali da determinare una dose annuale alla popolazione superiore al valore di cui all'allegato XXXV lettera d).
 
 ((
 
@@ -2548,6 +6523,16 @@ Il titolare dell'autorizzazione di cui all'articolo 98 che mette in esecuzione i
 Chiunque viola le prescrizioni contenute nei titoli autorizzativi previsti dagli articoli 76, 77, 94, 95 e 98 o il regolamento di esercizio di cui all'articolo 89 oppure contravviene agli obblighi o alle prescrizioni di cui agli articoli 91, comma 1, 97, 100, comma 3, e 102, comma 2, e' punito con l'arresto da tre a nove mesi o con l'ammenda da euro 30.000,00 ad euro 90.000,00.
 
 Chiunque effettua le attivita' di cui all'articolo 87 in assenza dell'approvazione del programma generale di cui all'articolo 87, comma 4, o in mancanza del parere positivo di cui all'articolo 87, comma 5, ovvero in violazione delle prescrizioni previste dall'articolo 87, comma 6, e' punito con l'arresto da due a sei mesi o con l'ammenda da euro 20.000,00 ad euro 60.000,00.
+
+7.
+                        
+                            
+                                L'inottemperanza agli obblighi di cui agli articoli 79, comma 1, lettere da 
+                            
+                            
+                                a)
+                                
+                                    ad e), e 97, comma 1, e' punito con l'arresto da uno a tre mesi o con l'ammenda da euro 10.000,00 ad euro 30.000,00.
 
 Il personale incaricato ai sensi dell'articolo 91, comma 1, che abbandona il posto di lavoro senza preavviso e senza essere stato sostituito e' punito con l'arresto da quindici giorni a tre mesi o con l'ammenda da euro 1.000,00 ad euro 3.000,00.
 
@@ -2715,6 +6700,24 @@ L'adempimento in un tempo superiore a quello indicato dalla prescrizione, ma com
 
 ## Art. 229. — Sanzioni amministrative accessorie
 
+1.
+                        
+                            
+                                L'autorita' amministrativa con l'ordinanza-ingiunzione o il giudice con la sentenza di condanna nel caso previsto dall'articolo 24, della legge 24 novembre 1981, n. 689 possono applicare per gli illeciti amministrativi previsti dagli articoli da 215 a 224, tenuto conto della natura e della gravita' dei fatti, le seguenti sanzioni amministrative accessorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di reiterazione specifica delle violazioni, la sospensione dell'attivita' da un minimo di cinque giorni ad un massimo di tre mesi, ovvero la revoca della licenza, dell'autorizzazione o dell'analogo provvedimento amministrativo che consente l'esercizio dell'attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i fatti reiterati di particolare gravita' dai quali sia derivato un danno concreto, la definitiva cessazione dell'attivita' o la revoca della licenza, dell'autorizzazione o dell'analogo provvedimento amministrativo che consente l'esercizio dell'attivita'.
+
 ## Art. 230. — Effetti della depenalizzazione
 
 Le disposizioni del presente decreto che sostituiscono sanzioni penali con sanzioni amministrative si applicano anche alle violazioni commesse anteriormente alla data di entrata in vigore del decreto, sempre che il procedimento penale non sia stato definito con sentenza o con decreto divenuti irrevocabili.
@@ -2822,6 +6825,45 @@ Entro 120 giorni dall'entrata in vigore del presente decreto sono emanate le dis
 I rifiuti radioattivi, a bassa e media attivita', derivanti da attivita' industriali, di ricerca e medico-sanitarie e dalla pregressa gestione di impianti nucleari, dei comandi e degli enti dell'Amministrazione della difesa confluiscono, a titolo definitivo, nel deposito nazionale secondo le modalita' previste dalle norme vigenti. Le funzioni ispettive sul processo di trattamento, di condizionamento e di stoccaggio sono eseguite presso la dedicata area del Centro interforze per gli studi e le applicazioni militari (CISAM), dall'ISIN secondo le modalita' di cui all'articolo 9.
 
 ## Art. 243. — Abrogazioni
+
+1.
+                        
+                            
+                                Alla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 3, 4 e 5, della legge 31 dicembre 1962 n. 1860; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto legislativo 17 marzo 1995, n. 230 cosi' come modificato dal decreto legislativo n. 241 del 2000, dal decreto legislativo n. 23 del 2009, dal decreto legislativo n. 100 del 2011, dal decreto legislativo n. 185 del 2011, dall'articolo 3 del decreto legislativo n. 45 del 2014 e dall'articolo 2 del decreto legislativo n. 137 del 2017; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto legislativo 26 maggio 2000, n.187; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto legislativo 6 febbraio 2007, n.52; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il decreto del Ministro dello sviluppo economico 28 settembre 2011.
 
 ## Art. 244. — Modifiche
 

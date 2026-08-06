@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2007-08-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,66 @@ Entrata in vigore del decerto: 4-5-2003
 ## Art. 1.
 
 Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "autovettura", un veicolo a motore della categoria M1, come definito dal decreto del Ministro dei trasporti e dell'aviazione civile in data 29 marzo 1974 di attuazione della direttiva comunitaria 70/156/CEE, come modificato dal decreto del Ministro dei trasporti e della navigazione in data 13 maggio 1999 di attuazione della direttiva comunitaria 98/91/CE. Sono esclusi i veicoli che rientrano nell'ambito di applicazione del decreto del Ministro dei trasporti e della navigazione in data 5 aprile 1994 di attuazione della direttiva 92/61/CEE, ed i veicoli speciali di cui al decreto del Ministro dei trasporti e dell'aviazione civile in data 29 marzo 1974 di attuazione della direttiva comunitaria 70/156/CEE, come modificato dal decreto del Ministro dei trasporti e della navigazione in data 13 maggio 1999 di attuazione della direttiva comunitaria 98/91/CE;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "autovettura nuova", un'autovettura che non sia stata precedentemente venduta se non a fini di rivendita al dettaglio o di distribuzione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "certificato di conformita'" il certificato di cui al decreto del Ministro dei trasporti e dell'aviazione civile in data 29 marzo 1974 di attuazione della direttiva comunitaria 70/156/CEE, come modificato dal decreto del Ministro dei trasporti e della navigazione in data 13 maggio 1999 di attuazione della direttiva comunitaria 98/91/CE;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "punto vendita", una struttura, come una sala d'esposizione o uno spazio all'aperto, in cui le autovetture nuove sono esposte o offerte in vendita o in leasing ai clienti potenziali, ivi comprese, le fiere in cui le autovetture nuove sono presentate al pubblico;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "responsabile del punto vendita" qualsiasi persona fisica o giuridica che gestisce un punto vendita;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "costruttore" la persona fisica o giuridica responsabile, verso l'autorita' che rilascia l'omologazione, di tutti gli aspetti del procedimento di omologazione e della conformita' della produzione; non e' indispensabile che il costruttore partecipi direttamente a tutte le fasi di costruzione del veicolo, del sistema, del componente o dell'entita' tecnica soggette all'omologazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "consumo ufficiale di carburante", il consumo di carburante omologato dalle autorita' di omologazione ai sensi delle disposizioni di cui al decreto del Ministro dei trasporti in data 12 giugno 1981 di attuazione della direttiva 80/1268/CEE, come modificato dai decreto del Ministro dei trasporti e della navigazione in data 8 maggio 1995 di attuazione della dire 93/116/CEE, apposto sul certificato di omologazione CEE del veicolo o figurante nel certificato di conformita'. Se piu' varianti e versioni sono raggruppate in un unico modello, i valori da attribuire al consumo di carburante di tale modello si basano sulla variante e versione che presenta il piu' elevato consumo ufficiale nell'ambito del gruppo;
+ h} "emissioni specifiche ufficiali di C02 per una data autovettura", le emissioni misurate ai sensi delle disposizioni di cui al decreto del Ministro dei trasporti in data 12 giugno 1981 di attuazione della direttiva 80/1268/CEE, come modificato dal decreto del Ministro dei trasporti e della navigazione in data 8 maggio 1995 di attuazione della direttiva 93/116/CEE, e di cui al decreto del Ministro dei trasporti e dell'aviazione civile in data 29 marzo 1974 di attuazione della direttiva comunitaria 70/156/CEE, come modificato dal decreto del Ministro dei trasporti e della navigazione in data 13 maggio 1999 di attuazione della direttiva comunitaria 98/91/CEE, apposto sul certificato di omologazione CEE del veicolo o figurante nel certificato di conformita'. Se piu' varianti e versioni sono raggruppate in un unico modello, i valori da attribuire alle emissioni di C02 di tale modello si basano sulla variante e versione che presenti le piu' elevate emissioni ufficiali di C02 nell'ambito del gruppo;
+ i) "etichetta relativa al consumo di carburante", un'etichetta su cui, per informazione dei consumatori, fgurano i valori ufficiali relativi al consumo di carburante e alle emissioni specifiche di C02 della vettura su cui e' apposta l'etichetta;
+ l) "guida al risparmio di carburante", una raccolta di dati ufficiali sul consumo di carburante e sulle emissioni specifiche di C02 dei modelli disponibili sul mercato delle autovetture nuove;
+ m) "materiale promozionale", tutto il materiale a stampa utilizzato per la commercializzazione, pubblicizzazione e promozione al grande pubblico dei veicoli. Rientrano in questa definizione almeno i manuali tecnici, gli opuscoli, gli annunci pubblicitari su giornali e riviste, la stampa specializzata e i manifesti pubblicitari;
+ n) "marca", la denominazione commerciale dei costruttore, indicata nel certificato di conformita' e nei documenti di omologazione;
+ o) "modello", la descrizione commerciale della marca, del tipo e, se possibile e opportuno, della variante e versione di un'autovettura;
+ p) "tipo", "variante" e "versione", i distinti veicoli di una determinata marca dichiarati dal costruttore, come previsto dal decreto del Ministro dei trasporti e dell'aviazione civile in data 29 marzo 1974 di attuazione della direttiva comunitaria 70/156/CEE, come modificato dal decreto del Ministro dei trasporti e della navigazione in data 13 maggio 1999 di attuazione della direttiva comunitaria 98/91/CE, e identifcati esclusivamente in base ai caratteri alfanumerici relativi al tipo, alla variante ed alla versione.
 
 ## Art. 2. — Finalita' e Ambito di applicazione
 

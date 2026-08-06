@@ -8,8 +8,8 @@ codice_redazionale: 006G0173
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,38 @@ All'articolo 2, comma 1, del decreto del Presidente della Repubblica 7 settembre
  «d-bis) dipartimento per le politiche del personale dell'amministrazione civile e per le risorse strumentali e finanziarie.».
 
 ## Art. 2. — Modifica all'articolo 3 del decreto del Presidente della Repubblica 7 settembre 2001, n. 398
+
+1.
+                    
+                        
+                            All'articolo 3 del decreto del Presidente della Repubblica 7 settembre 2001, n. 398, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera c) e' soppressa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le lettere b), g) ed h) sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, il secondo capoverso e' soppresso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i commi 4, 5 e 6 sono soppressi.
 
 ## Art. 3. — Dipartimento per le politiche del personale dell'Amministrazione civile e per le risorse strumentali e finanziarie
 

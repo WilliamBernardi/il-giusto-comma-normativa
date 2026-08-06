@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2013-08-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,23 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'ec
 
 ## Art. 1. — Modificazioni all'organico dei magistrati
  addetti alla Corte suprema di cassazione
+
+1.
+                    
+                        
+                            All'organico della magistratura ordinaria sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                sono soppressi i trenta posti di magistrato di appello previsti in organico presso la Corte di cassazione; oltre a quanto previsto dal comma 2, sono istituiti quindici posti di consigliere di cassazione;
+                            
+                        
+                        
+                            b)
+                            
+                                sono soppressi i ventidue posti di magistrato di appello destinato alla Procura generale presso la Corte di cassazione; sono contestualmente istituiti ventidue posti di sostituto procuratore generale presso la Corte di cassazione.
 
 L'attribuzione dei posti di magistrato di cassazione di cui al comma 1, lettere a) e b), e' in ogni caso subordinata al contestuale riassorbimento delle posizioni soprannumerarie eventualmente determinatesi per effetto dell'applicazione dell'articolo 5.
 
@@ -51,6 +68,23 @@ All'articolo 117 ed alla relativa rubrica, dell'ordinamento giudiziario di cui a
 L'articolo 116 dell'ordinamento giudiziario di cui al regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, e' abrogato.
 
 ## Art. 5. — Magistrati di merito in servizio presso la Corte di cassazione
+
+1.
+                    
+                        
+                            Nei posti soppressi ai sensi dell'articolo 1, comma 1, lettere a) e b), sono trattenuti i magistrati in servizio alla data di acquisto di efficacia del presente decreto legislativo, ai quali il Consiglio superiore della magistratura puo' conferire, effettuate le valutazioni di competenza, nei limiti dei posti disponibili ed in ordine di anzianita' di servizio, le funzioni di legittimita', se in possesso dei seguenti requisiti:
+
+                        
+                        
+                            a)
+                            
+                                conseguimento, precedentemente alla predetta data, della qualifica di magistrato dichiarato idoneo ad essere ulteriormente valutato ai fini della nomina a magistrato di cassazione;
+                            
+                        
+                        
+                            b)
+                            
+                                svolgimento, nei sei mesi antecedenti alla data di acquisto di efficacia del presente decreto legislativo, delle funzioni di legittimita' per avere concorso a formare i collegi nelle sezioni ovvero per avere svolto le funzioni di pubblico ministero in udienza.
 
 I magistrati in servizio alla data di acquisto di efficacia del primo dei decreti legislativi emanati nell'esercizio della delega di cui all'articolo 1, comma 1, lettera e), della legge 25 luglio 2005, n. 150, per i quali non e' stato possibile il conferimento delle funzioni di legittimita' ai sensi del comma 1, sono trattenuti, in via transitoria, in servizio nei posti soppressi.
 

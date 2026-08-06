@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2002-02-27
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,6 +23,32 @@ Entrata in vigore del decreto: 24-4-1998
 ## Art. 1. — Oggetto e definizioni
 
 Con il presente decreto si provvede al riordino della disciplina per l'accesso alla professione di trasportatore su strada di cose per conto di terzi da parte delle imprese di cui all'articolo 1, comma 2, lettere c) ed e), della legge 23 dicembre 1997, n. 454, ovvero da parte delle aziende speciali o consorzi di cui alla legge 8 giugno 1990, n. 142.
+
+2.
+                    
+                        
+                            Ai sensi del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "professione di autotrasportatore di cose per conto di terzi", l'attivita' di un soggetto che esegue, mediante autoveicoli, il trasporto di merci per conto di terzi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "albo", l'albo delle persone fisiche e giuridiche che esercitano autotrasporto di cose per conto di terzi istituito con legge 6 giugno 1974, n 298; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "comitato centrale", "comitato regionale" e "comitato provinciale" gli organismi di cui agli articoli 3, 4 e 5 della citata legge n. 298 del 1974. 
+ (2) ((3))
 
 ---------------
                         AGGIORNAMENTO (2)
@@ -63,6 +89,38 @@ Il requisito dell'onorabilita' deve essere posseduto dal titolare dell'impresa e
 
 Il requisito della capacita' professionale deve essere posseduto da coloro i quali svolgono le funzioni di direzione dell'attivita' di trasporto.
 
+5.
+                    
+                        
+                            Possono assumere la direzione dell'attivita' di trasporto i seguenti soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                titolare dell'impresa individuale o familiare, ovvero collaboratore dell'impresa familiare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                soci illimitatamente responsabili nelle societa' di persone, o almeno uno di essi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                amministratori in ogni altro tipo di ente o di societa', ovvero aziende speciali e consorzi di cui alla legge n. 142 del 1990, o almeno uno di essi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dipendenti dell'impresa, cui siano attribuite le mansioni di direzione dell'attivita' di trasporto o l'inquadramento appositamente definito dal contratto collettivo nazionale di lavoro del settore.
+
 Le imprese debbono dimostrare il possesso dei requisiti di cui al presente decreto all'atto della presentazione, ai sensi dell'articolo 12 della citata legge n. 298 del 1974, della domanda di iscrizione all'albo degli autotrasportatori.
 
 Le imprese autorizzate prima del l gennaio 1978 all'esercizio della professione di autotrasportatore sono dispensate dall'obbligo di comprovare i requisiti previsti dal presente articolo. 
@@ -80,6 +138,24 @@ Le imprese autorizzate prima del l gennaio 1978 all'esercizio della professione 
  - Il regolamento di cui all'art. 20, comma 1, alinea del D.Lgs. 22 dicembre 2000, n. 395 e' stato emanato con Decreto 28 aprile 2005, n. 161, pubblicato in G.U. 16/08/2005, n. 189.
 
 ## Art. 4. — Onorabilita'
+
+1.
+                    
+                        
+                            Il requisito dell'onorabilita' non sussiste o cessa di sussistere allorche' la persona che debba possederlo: 
+ 
+                        
+                        
+                            a)
+                            
+                                sia stata dichiarata delinquente abituale, professionale o per tendenza, ovvero sia stata sottoposta a misure di sicurezza personali o a misure di prevenzione previste dalla legge 27 dicembre 1956, n. 1423, e successive modificazioni, oppure abbia riportato con sentenza definitiva una qualsiasi condanna a pena detentiva non inferiore a tre anni, ovvero non inferiore a due anni quando l'accesso alla professione possa agevolare la commissione di reati della stessa natura ed in ogni caso per gravi e ripetute infrazioni di cui all'articolo 26 della citata legge n. 298 del 1974; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia stata condannata per infrazioni gravi e ripetute alle normative che disciplinano le condizioni di retribuzione e di lavoro della professione, ovvero l'attivita' di trasporto su strada ed in particolare le norme concernenti il periodo di guida e di riposo dei conducenti, i pesi e le dimensioni dei veicoli commerciali, la sicurezza stradale e dei veicoli.
 
 Il requisito dell'onorabilita' cessa di sussistere anche nei confronti dei soggetti preposti all'attivita' di trasporto su strada di cose per conto di terzi, allorche' gli addetti dell'impresa sottoposti alla loro direzione abbiano subito sanzioni gravi e ripetute per le infrazioni di cui al comma 1, lettera b), ovvero per infrazioni al disposto di cui all'articolo 46 della citata legge n. 298 del 1974.
 
@@ -103,6 +179,45 @@ Il requisito della capacita' finanziaria si intende sussistente allorche' l'impr
 
 Con regolamento del Ministro dei trasporti e della navigazione e' determinato il requisito della capacita' finanziaria, in misura comunque non inferiore a quanto previsto dall'articolo 5 del decreto ministeriale 16 maggio 1991, n. 198, e nel rispetto della normativa comunitaria in materia. Resta comunque salva la facolta' di deroga prevista dall'articolo 2, comma 2.
 
+3.
+                    
+                        
+                            Ai fini dell'accertamento della capacita' finanziaria sono considerati: 
+ 
+                        
+                        
+                            a)
+                            
+                                i conti annuali dell'impresa, ove esistano; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i fondi disponibili, comprese le liquidita' bancarie e la possibilita' di scoperti e prestiti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tutti gli attivi, comprese le proprieta' disponibili come garanzia per l'impresa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i costi, compreso il prezzo di acquisto o i pagamenti iniziali per veicoli, edifici, impianti, attrezzature ed installazioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il capitale di esercizio.
+
 In alternativa alle modalita' di cui al comma 3, le imprese possono produrre una attestazione rilasciata da istituti bancari o istituti finanziari con capitale non inferiore a cinque miliardi; il contenuto dell'attestazione e le modalita' di rilascio sono determinati con decreto del Ministro dei trasporti e della navigazione, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, da emanarsi entro centoventi giorni dalla data di entrata in vigore del presente decreto.
 
 Le imprese autorizzate all'esercizio dell'autotrasporto prima del 1 gennaio 1990, sono dispensate dall'accertamento del requisito della capacita' finanziaria.
@@ -124,6 +239,31 @@ Sono considerate equivalenti alle attestazioni di cui al comma 4 le omologhe att
 ## Art. 6. — Capacita' professionale
 
 Il requisito della capacita' professionale consiste nella dimostrazione del possesso della conoscenza delle materie riportate nell'elenco allegato al presente decreto, accertata attraverso il superamento di un esame scritto anche nella forma di quesiti con risposta plurima a scelta del candidato.
+
+2.
+                    
+                        
+                            Possono partecipare all'esame coloro che si trovino in una delle seguenti situazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                i soggetti che comprovino di aver frequentato appositi corsi di preparazione all'esame e siano in possesso del relativo attestato di frequenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti in possesso del diploma di istruzione secondaria superiore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i soggetti che abbiano maturato un'esperienza di almeno un anno di diretta collaborazione con soggetti, titolari di attestato di capacita' professionale, che svolgono attivita' direzionale del trasporto in imprese iscritte all'albo degli autotrasportatori.
 
 Per i primi 5 anni dalla data di entrata in vigore del presente decreto sono esentati dall'esame di cui al comma 1 i candidati che comprovino un'esperienza pratica di almeno 5 anni a livello di direzione in un'impresa di trasporti.
 

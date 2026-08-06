@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -33,6 +33,112 @@ Acquisito il parere delle competenti Commissioni parlamentari;
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto valgono le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                «ISEE»: indicatore della situazione economica equivalente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «ISE»: indicatore della situazione economica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Scala di equivalenza»: la scala di cui all'allegato 1, che costituisce parte integrante del presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Prestazioni sociali»: si intendono, ai sensi dell'articolo 128, del decreto legislativo 31 marzo 1998, n. 112, nonche' dell'articolo 1, comma 2, della legge 8 novembre 2000, n. 328, tutte le attivita' relative alla predisposizione ed erogazione di servizi, gratuiti ed a pagamento, o di prestazioni economiche destinate a rimuovere e superare le situazioni di bisogno e di difficolta' che la persona umana incontra nel corso della sua vita, escluse soltanto quelle assicurate dal sistema previdenziale e da quello sanitario, nonche' quelle assicurate in sede di amministrazione della giustizia; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «Prestazioni sociali agevolate»: prestazioni sociali non destinate alla generalita' dei soggetti, ma limitate a coloro in possesso di particolari requisiti di natura economica, ovvero prestazioni sociali non limitate dal possesso di tali requisiti, ma comunque collegate nella misura o nel costo a determinate situazioni economiche, fermo restando il diritto ad usufruire delle prestazioni e dei servizi assicurati a tutti dalla Costituzione e dalle altre disposizioni vigenti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Prestazioni agevolate di natura sociosanitaria»: prestazioni sociali agevolate assicurate nell'ambito di percorsi assistenziali integrati di natura sociosanitaria rivolte a persone con disabilita' e limitazioni dell'autonomia, ovvero interventi in favore di tali soggetti: 
+ 1) di sostegno e di aiuto domestico familiare finalizzati a favorire l'autonomia e la permanenza nel proprio domicilio; 
+ 2) di ospitalita' alberghiera presso strutture residenziali e semiresidenziali, incluse le prestazioni strumentali ed accessorie alla loro fruizione, rivolte a persone non assistibili a domicilio; 
+ 3) atti a favorire l'inserimento sociale, inclusi gli interventi di natura economica o di buoni spendibili per l'acquisto di servizi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Prestazioni agevolate rivolte a minorenni»: prestazioni sociali agevolate rivolte a beneficiari minorenni, ovvero motivate dalla presenza nel nucleo familiare di componenti minorenni; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Richiedente»: il soggetto che, essendone titolato sulla base della disciplina vigente, effettua la richiesta della prestazione sociale agevolata; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «Beneficiario»: il soggetto al quale e' rivolta la prestazione sociale agevolata; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «Persone con disabilita' media, grave o non autosufficienti»: persone per le quali sia stata accertata una delle condizioni descritte nella tabella di cui all'allegato 3, parte integrante del presente decreto; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «Ente erogatore»: ente competente alla disciplina dell'erogazione della prestazione sociale agevolata; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «DSU»: dichiarazione sostitutiva unica, di cui all'articolo 10; 
+
+                            
+                        
+                        
+                            n-bis)
+                            
+                                
+                                    ((«DSU precompilata»: Dichiarazione sostitutiva unica resa disponibile al dichiarante ai sensi dell'articolo 10 del decreto legislativo del 15 settembre 2017, n. 147, finalizzata al rilascio dell'ISEE;))
+                                
+                            
+                        
+                        
+                            o)
+                            
+                                «Dichiarante»: il soggetto, richiedente ovvero appartenente al nucleo familiare del richiedente, che sottoscrive la DSU.
+
 ## Art. 2. — ISEE
 
 L'ISEE e' lo strumento di valutazione, attraverso criteri unificati, della situazione economica di coloro che richiedono prestazioni sociali agevolate. La determinazione e l'applicazione dell'indicatore ai fini dell'accesso alle prestazioni sociali agevolate, nonche' della definizione del livello di compartecipazione al costo delle medesime, costituisce livello essenziale delle prestazioni, ai sensi dell'articolo 117, secondo comma, lettera m), della Costituzione, fatte salve le competenze regionali in materia di normazione, programmazione e gestione delle politiche sociali e socio-sanitarie e ferme restando le prerogative dei comuni. In relazione a tipologie di prestazioni che per la loro natura lo rendano necessario e ove non diversamente disciplinato in sede di definizione dei livelli essenziali relativi alle medesime tipologie di prestazioni, gli enti erogatori possono prevedere, accanto all'ISEE, criteri ulteriori di selezione volti ad identificare specifiche platee di beneficiari, tenuto conto delle disposizioni regionali in materia e delle attribuzioni regionali specificamente dettate in tema di servizi sociali e socio-sanitari. E' comunque fatta salva la valutazione della condizione economica complessiva del nucleo familiare attraverso l'ISEE.
@@ -40,6 +146,31 @@ L'ISEE e' lo strumento di valutazione, attraverso criteri unificati, della situa
 L'ISEE e' calcolato, con riferimento al nucleo familiare di appartenenza del richiedente, di cui all'articolo 3, come rapporto tra l'ISE, di cui al comma 3, e il parametro della scala di equivalenza corrispondente alla specifica composizione del nucleo familiare.
 
 L'ISE e' la somma dell'indicatore della situazione reddituale, determinato ai sensi dell'articolo 4, e del venti per cento dell'indicatore della situazione patrimoniale, determinato ai sensi dell'articolo 5.
+
+4.
+                    
+                        
+                            L'ISEE differisce sulla base della tipologia di prestazione richiesta, secondo le modalita' stabilite agli articoli 6, 7 e 8, limitatamente alle seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                prestazioni agevolate di natura sociosanitaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prestazioni agevolate rivolte a minorenni, in presenza di genitori non conviventi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                prestazioni per il diritto allo studio universitario.
 
 L'ISEE puo' essere sostituito da analogo indicatore, definito «ISEE corrente» e calcolato con riferimento ad un periodo di tempo piu' ravvicinato al momento della richiesta della prestazione, quando ricorrano le condizioni di cui all'articolo 9 e secondo le modalita' ivi descritte.
 
@@ -50,6 +181,45 @@ L'ISEE e' calcolato sulla base delle informazioni raccolte con il modello di DSU
 Il nucleo familiare del richiedente e' costituito dai soggetti componenti la famiglia anagrafica alla data di presentazione della DSU, fatto salvo quanto stabilito dal presente articolo.
 
 I coniugi che hanno diversa residenza anagrafica fanno parte dello stesso nucleo familiare. A tal fine, identificata di comune accordo la residenza familiare, il coniuge con residenza anagrafica diversa e' attratto ai fini del presente decreto nel nucleo la cui residenza anagrafica coincide con quella familiare. In caso di mancato accordo, la residenza familiare e' individuata nell'ultima residenza comune ovvero, in assenza di una residenza comune, nella residenza del coniuge di maggior durata. Il coniuge iscritto nelle anagrafi dei cittadini italiani residenti all'estero (AIRE), ai sensi della legge 27 ottobre 1988, n. 470, e' attratto ai fini del presente decreto, nel nucleo anagrafico dell'altro coniuge.
+
+3.
+                    
+                        
+                            I coniugi che hanno diversa residenza anagrafica costituiscono nuclei familiari distinti esclusivamente nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando e' stata pronunciata separazione giudiziale o e' intervenuta l'omologazione della separazione consensuale ai sensi dell'articolo ((473-bis.51)) del codice di procedura civile, ovvero quando e' stata ordinata la separazione ai sensi dell'articolo 126 del codice civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando la diversa residenza e' consentita a seguito dei provvedimenti temporanei ed urgenti di cui all'articolo ((473-bis.22)) del codice di procedura civile; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando uno dei coniugi e' stato escluso dalla potesta' sui figli o e' stato adottato, ai sensi dell'aricolo 333 del codice civile, il provvedimento di allontanamento dalla residenza familiare; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quando si e' verificato uno dei casi di cui all'articolo 3 della legge 1° dicembre 1970, n. 898, e successive modificazioni, ed e' stata proposta domanda di scioglimento o cessazione degli effetti civili del matrimonio; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                quando sussiste abbandono del coniuge, accertato in sede giurisdizionale o dalla pubblica autorita' competente in materia di servizi sociali.
 
 Il figlio minore di anni 18 fa parte del nucleo familiare del genitore con il quale convive. Il minore che si trovi in affidamento preadottivo fa parte del nucleo familiare dell'affidatario, ancorche' risulti nella famiglia anagrafica del genitore. Il minore in affidamento temporaneo ai sensi dell'articolo 2 della legge 4 maggio 1983, n. 184, e successive modificazioni, e' considerato nucleo familiare a se' stante, fatta salva la facolta' del genitore affidatario di considerarlo parte del proprio nucleo familiare. Il minore in affidamento e collocato presso comunita' e' considerato nucleo familiare a se' stante.
 
@@ -62,6 +232,119 @@ Il soggetto che si trova in convivenza anagrafica ai sensi del decreto del Presi
 L'indicatore della situazione reddituale e' determinato sulla base dei redditi e delle spese e franchigie di cui ai commi seguenti, riferite a ciascun componente ovvero al nucleo familiare. Ai fini del calcolo dell'indicatore, il reddito di ciascun componente il nucleo familiare e' ottenuto sommando i redditi di cui al comma 2 al netto degli importi di cui al comma 3. Dalla somma dei redditi di cui al periodo precedente per l'insieme dei componenti sono detratte le spese o le franchigie riferite al nucleo familiare di cui al comma 4.
 I redditi e gli importi di cui ai commi 2 e 3 sono riferiti al secondo anno solare precedente la presentazione della DSU. Le spese o le franchigie di cui al comma 4 sono riferite all'anno solare precedente la presentazione della DSU.
 
+2.
+                    
+                        
+                            Il reddito di ciascun componente il nucleo familiare e' ottenuto sommando le seguenti componenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                reddito complessivo ai fini IRPEF; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                redditi soggetti a imposta sostitutiva o a ritenuta a titolo d'imposta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ogni altra componente reddituale esente da imposta, nonche' i redditi da lavoro dipendente prestato all'estero tassati esclusivamente nello stato estero in base alle vigenti convenzioni contro le doppie imposizioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i proventi derivanti da attivita' agricole, svolte anche in forma associata, per le quali sussiste l'obbligo alla presentazione della dichiarazione IVA; a tal fine va assunta la base imponibile determinata ai fini dell'IRAP, al netto dei costi del personale a qualunque titolo utilizzato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                assegni per il mantenimento di figli effettivamente percepiti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                trattamenti assistenziali, previdenziali e indennitari, incluse carte di debito, a qualunque titolo percepiti da amministrazioni pubbliche, laddove non siano gia' inclusi nel reddito complessivo di cui alla lettera a) ((, esclusi i trattamenti percepiti in ragione della condizione di disabilita', laddove non rientranti nel reddito complessivo ai fini dell'IRPEF, ai sensi dell'articolo 2-sexies, comma 1, lettera a) del decreto-legge 29 marzo 2016, n. 42 convertito con modificazioni dalla legge 26 maggio 2016, n. 89)); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                redditi fondiari relativi ai beni non locati soggetti alla disciplina dell'IMU, di cui all'articolo 13 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, nonche' agli articoli 8 e 9 del decreto legislativo 14 marzo 2011, n. 23, se compatibili con la predetta disciplina, non indicati nel reddito complessivo di cui alla lettera a), comma 1, del presente articolo. A tal fine i redditi dei fabbricati si assumono rivalutando la rendita catastale del 5 per cento e i redditi dei terreni si assumono rivalutando il reddito dominicale e il reddito agrario, rispettivamente, dell'80 per cento e del 70 per cento. Nell'importo devono essere considerati i redditi relativi agli immobili all'estero non locati soggetti alla disciplina dell'imposta sul valore degli immobili situati all'estero di cui al comma 15 dell'articolo 19 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, non indicati nel reddito complessivo di cui alla lettera a), comma 1, del presente articolo, assumendo la base imponibile determinata ai sensi dell'articolo 70, comma 2, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il reddito figurativo delle attivita' finanziarie, determinato applicando al patrimonio mobiliare complessivo del nucleo familiare, individuato secondo quanto indicato all'articolo 5 con la sola esclusione dei depositi e conti correnti bancari e postali, di cui al medesimo articolo 5, comma 4, lettera a), il tasso di rendimento medio annuo dei titoli decennali del Tesoro ovvero, ove inferiore, il tasso di interesse legale vigente al 1° gennaio maggiorato di un punto percentuale; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il reddito lordo dichiarato ai fini fiscali nel paese di residenza da parte degli appartenenti al nucleo, ai sensi dell'articolo 3, comma 2, iscritti nelle anagrafi dei cittadini italiani residenti all'estero (AIRE), convertito in euro al cambio vigente al 31 dicembre dell'anno di riferimento del reddito.
+
+3.
+                    
+                        
+                            All'ammontare del reddito di cui al comma 2, deve essere sottratto fino a concorrenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'importo degli assegni periodici effettivamente corrisposti al coniuge, anche se residente all'estero, in seguito alla separazione legale ed effettiva o allo scioglimento, annullamento o alla cessazione degli effetti civili del matrimonio come indicato nel provvedimento dell'autorita' giudiziaria. Nell'importo devono essere considerati gli assegni destinati al mantenimento dei figli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'importo degli assegni periodici effettivamente corrisposti per il mantenimento dei figli conviventi con l'altro genitore, nel caso in cui i genitori non siano coniugati, ne' legalmente ed effettivamente separati e non vi sia provvedimento dell'autorita' giudiziaria che ne stabilisce l'importo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fino ad un massimo di 5.000 euro, le spese sanitarie per disabili, le spese per l'acquisto di cani guida e le spese sostenute per servizi di interpretariato dai soggetti riconosciuti sordi, indicate in dichiarazione dei redditi tra le spese per le quali spetta la detrazione d'imposta, nonche' le spese mediche e di assistenza specifica per i disabili indicate in dichiarazione dei redditi tra le spese e gli oneri per i quali spetta la deduzione dal reddito complessivo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'importo dei redditi agrari relativi alle attivita' indicate dall'articolo 2135 del codice civile svolte, anche in forma associata, dai soggetti produttori agricoli titolari di partita IVA, obbligati alla presentazione della dichiarazione ai fini dell'IVA; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                fino ad un massimo di 3.000 euro, una quota dei redditi da lavoro dipendente, nonche' degli altri redditi da lavoro ad essi assimilati a fini fiscali, pari al 20 per cento dei redditi medesimi; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                fino ad un massimo di 1.000 euro e alternativamente a quanto previsto alla lettera e), una quota dei redditi da pensione inclusi nel reddito complessivo di cui al comma 2, lettera a), nonche' dei trattamenti di cui al comma 2, lettera f), pari al 20 per cento dei redditi ovvero dei trattamenti medesimi.
+
 ((Dalla somma dei redditi dei componenti il nucleo, come determinata ai sensi dei commi precedenti, si sottrae, fino a concorrenza, nel caso in cui il nucleo familiare risieda in abitazione in locazione, il valore del canone annuo previsto nel contratto di locazione, del quale sono dichiarati gli estremi di registrazione, per un ammontare massimo, fino a concorrenza, di 7.000 euro, incrementato di 500 euro per ogni figlio convivente successivo al secondo. La detrazione di cui al presente comma e' alternativa a quella per i nuclei residenti in abitazione di proprieta', di cui all'articolo 5, comma 2.))
 
 Nel caso colui per il quale viene richiesta la prestazione sia gia' beneficiario di uno dei trattamenti di cui al comma 2, lettera f), ed ai soli fini dell'accertamento dei requisiti per il mantenimento del trattamento stesso, al valore dell'ISEE e' sottratto dall'ente erogatore ((l'ammontare del trattamento percepito dal beneficiario eventualmente valorizzato nell'ISEE medesimo, rapportato al corrispondente parametro della scala di equivalenza, ai sensi dell'articolo 2-sexies, comma 2, secondo periodo, del decreto-legge 29 marzo 2016, n. 42 convertito con modificazioni dalla legge 26 maggio 2016, n. 89)).
@@ -73,6 +356,66 @@ L'indicatore della situazione patrimoniale e' determinato sommando, per ciascun 
 Il patrimonio immobiliare e' pari al valore dei fabbricati, delle aree fabbricabili e dei terreni, intestati a persone fisiche non esercenti attivita' d'impresa, quale definito ai fini IMU al 31 dicembre del secondo anno precedente a quello di presentazione della DSU, ai sensi dell'articolo 10, comma 4, del decreto legislativo 15 settembre 2017, n. 147, indipendentemente dal periodo di possesso nell'anno. Il valore e' cosi' determinato anche in caso di esenzione dal pagamento dell'imposta. Dal valore cosi' determinato di ciascun fabbricato, area o terreno, si detrae, fino a concorrenza, l'ammontare dell'eventuale debito residuo alla data del 31 dicembre del secondo anno precedente la presentazione della DSU per mutui contratti per l'acquisto dell'immobile o per la costruzione del fabbricato. Per i nuclei familiari residenti in abitazione di proprieta', il valore della casa di abitazione, come sopra determinato, al netto del mutuo residuo, non rileva ai fini del calcolo del patrimonio immobiliare se inferiore alla soglia di 52.500 euro, incrementata di 2.500 euro per ogni figlio convivente successivo al secondo. Se superiore alle predette soglie, il valore rileva in misura pari a due terzi della parte eccedente. ((4))
 
 Il patrimonio immobiliare all'estero e' pari a quello definito ai fini dell'imposta sul valore degli immobili situati all'estero di cui al comma 15 dell'articolo 19 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, riferito alla medesima data di cui al comma 2, indipendentemente dal periodo di possesso nell'anno. Dal valore cosi' determinato di ciascun immobile, si detrae, fino a concorrenza, l'ammontare dell'eventuale debito residuo alla data del 31 dicembre del secondo anno precedente la presentazione della DSU, ai sensi dell'articolo 10, comma 4, del decreto legislativo 15 settembre 2017, n. 147, per mutui contratti per l'acquisto dell'immobile o per la costruzione del fabbricato.
+
+4.
+                    
+                        
+                            Il patrimonio mobiliare e' costituito, tenuto conto di quanto previsto dal comma 4-bis, dalle componenti di seguito specificate, anche detenute all'estero, possedute alla data del 31 dicembre del secondo anno precedente a quello di presentazione della DSU, ai sensi dell'articolo 10, comma 4, del decreto legislativo 15 settembre 2017, n. 147, fatto salvo quanto diversamente disposto con riferimento a singole componenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                depositi e conti correnti bancari e postali, per i quali va assunto il valore del saldo contabile attivo, al lordo degli interessi, al 31 dicembre dell'anno precedente a quello di presentazione della DSU, ovvero, se superiore, il valore della consistenza media annua riferita al medesimo anno. Qualora nell'anno precedente si sia proceduto all'acquisto di componenti del patrimonio immobiliare, di cui ai commi 2 e 3, ovvero a variazioni ad incremento di altre componenti del patrimonio mobiliare, di cui al presente comma, per un ammontare superiore alla differenza tra il valore della consistenza media annua e del saldo al 31 dicembre, puo' essere assunto il valore del saldo contabile attivo al 31 dicembre dell'anno precedente, anche se inferiore alla consistenza media; ai soli fini di successivi controlli, nella DSU il valore della consistenza media annua va comunque indicato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                titoli di Stato ed equiparati, obbligazioni, certificati di deposito e credito, buoni fruttiferi ed assimilati, per i quali va assunto il valore nominale delle consistenze alla data del 31 dicembre dell'anno precedente a quello di presentazione della DSU; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                azioni o quote di organismi di investimento collettivo di risparmio (O.I.C.R.) italiani o esteri, per le quali va assunto il valore risultante dall'ultimo prospetto redatto dalla societa' di gestione alla data di cui alla lettera b); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipazioni azionarie in societa' italiane ed estere quotate in mercati regolamentati, per le quali va assunto il valore rilevato alla data di cui alla lettera b), ovvero, in mancanza, nel giorno antecedente piu' prossimo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                partecipazioni azionarie in societa' non quotate in mercati regolamentati e partecipazioni in societa' non azionarie, per le quali va assunto il valore della frazione del patrimonio netto, determinato sulla base delle risultanze dell'ultimo bilancio approvato anteriormente alla data di presentazione della DSU, ovvero, in caso di esonero dall'obbligo di redazione del bilancio, determinato dalla somma delle rimanenze finali e dal costo complessivo dei beni ammortizzabili, al netto dei relativi ammortamenti, nonche' degli altri cespiti o beni patrimoniali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                masse patrimoniali, costituite da somme di denaro o beni non relativi all'impresa, affidate in gestione ad un soggetto abilitato ai sensi del decreto legislativo 23 luglio 1996, n. 415, per le quali va assunto il valore delle consistenze risultanti dall'ultimo rendiconto predisposto, secondo i criteri stabiliti dai regolamenti emanati dalla Commissione nazionale per le societa' e la borsa, dal gestore del patrimonio anteriormente alla data di cui alla lettera b); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                altri strumenti e rapporti finanziari per i quali va assunto il valore corrente alla data di cui alla lettera b), nonche' contratti di assicurazione a capitalizzazione o mista sulla vita e di capitalizzazione per i quali va assunto l'importo dei premi complessivamente versati a tale ultima data, al netto degli eventuali riscatti, ivi comprese le polizze a premio unico anticipato per tutta la durata del contratto per le quali va assunto l'importo del premio versato; sono esclusi i contratti di assicurazione mista sulla vita per i quali alla medesima data non e' esercitabile il diritto di riscatto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il valore del patrimonio netto per le imprese individuali in contabilita' ordinaria, ovvero il valore delle rimanenze finali e del costo dei beni ammortizzabili per le imprese individuali in contabilita' semplificata, determinato con le stesse modalita' indicate alla lettera e).
 
 Dal patrimonio mobiliare di cui al comma 4 sono esclusi i titoli di Stato di cui all'articolo 3 del decreto del Presidente della Repubblica 30 dicembre 2003, n. 398, i buoni fruttiferi postali, ivi inclusi quelli trasferiti allo Stato, e i libretti di risparmio postale, nel limite complessivo di 50.000 euro, ai sensi dell'articolo 1, comma 184, della legge 30 dicembre 2023, n. 213.
 
@@ -91,7 +434,74 @@ Per le prestazioni agevolate di natura socio-sanitaria rivolte a persone di magg
 
 Esclusivamente ai fini delle prestazioni di cui al presente articolo e fatta comunque salva la possibilita' per il beneficiario di costituire il nucleo familiare secondo le regole ordinarie di cui all'articolo 3, il nucleo familiare del beneficiario e' composto dal coniuge, dai figli minori di anni 18, nonche' dai figli maggiorenni, secondo le regole di cui ai commi da 2 a 6 dell'articolo 3 .
 
+3.
+                    
+                        
+                            Per le sole prestazioni erogate in ambiente residenziale a ciclo continuativo, valgono le seguenti regole: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL D.P.C.M. 14 GENNAIO 2025, N. 13)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di presenza di figli del beneficiario non inclusi nel nucleo familiare ai sensi del comma 2, l'ISEE e' integrato di una componente aggiuntiva per ciascun figlio, calcolata sulla base della situazione economica dei figli medesimi, avuto riguardo alle necessita' del nucleo familiare di appartenenza, secondo le modalita' di cui all'allegato 2, comma 1, che costituisce parte integrante del presente decreto. La componente non e' calcolata: 
+ 1) quando al figlio ovvero ad un componente del suo nucleo sia stata accertata una delle condizioni di cui all'allegato 3; 
+ 2) quando risulti accertata in sede giurisdizionale o dalla pubblica autorita' competente in materia di servizi sociali la estraneita' del figlio in termini di rapporti affettivi ed economici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le donazioni di cespiti parte del patrimonio immobiliare del beneficiario avvenute successivamente alla prima richiesta delle prestazioni di cui al presente comma continuano ad essere valorizzate nel patrimonio del donante. Allo stesso modo sono valorizzate nel patrimonio del donante, le donazioni effettuate nei 3 anni precedenti la richiesta di cui al periodo precedente, se in favore di persone tenute agli alimenti ai sensi dell'articolo 433 del codice civile.
+
 ## Art. 7. — Prestazioni agevolate rivolte a minorenni
+
+1.
+                    
+                        
+                            Ai fini del calcolo dell'ISEE per le sole prestazioni sociali agevolate rivolte a minorenni, il genitore non convivente nel nucleo familiare, non coniugato con l'altro genitore, che abbia riconosciuto il figlio, fa parte del nucleo familiare del figlio, a meno che non ricorra uno dei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                quando il genitore risulti coniugato con persona diversa dall'altro genitore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quando il genitore risulti avere figli con persona diversa dall'altro genitore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quando con provvedimento dell'autorita' giudiziaria sia stato stabilito il versamento di assegni periodici destinato al mantenimento dei figli; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quando sussiste esclusione dalla potesta' sui figli o e' stato adottato, ai sensi dell'articolo 333 del codice civile, il provvedimento di allontanamento dalla residenza familiare; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                quando risulti accertato in sede giurisdizionale o dalla pubblica autorita' competente in materia di servizi sociali la estraneita' in termini di rapporti affettivi ed economici;
 
 Per le prestazioni sociali agevolate rivolte ai componenti minorenni, in presenza di genitori non conviventi, qualora ricorrano i casi di cui alle lettere a) ed b) del comma 1, l'ISEE e' integrato di una componente aggiuntiva, calcolata sulla base della situazione economica del genitore non convivente, secondo le modalita' di cui all'allegato 2, comma 2, che costituisce parte integrante del presente decreto.
 
@@ -156,11 +566,147 @@ E' lasciata facolta' al cittadino di presentare entro il periodo di validita' de
 
 Con provvedimento del Ministero del lavoro e delle politiche sociali, di concerto con il Ministero dell'economia e delle finanze, su proposta dell'INPS, sentita l'Agenzia delle entrate e il Garante per la protezione dei dati personali, e' approvato il modello tipo della DSU e dell'attestazione, nonche' delle relative istruzioni per la compilazione. Il modello contiene l'informativa di cui all'articolo 13 del decreto legislativo 30 giugno 2003, n. 196. Con il medesimo provvedimento si definiscono le modalita' con cui l'attestazione, il contenuto della DSU, nonche' gli altri elementi informativi necessari al calcolo dell'ISEE possono essere resi disponibili al dichiarante per il tramite dei soggetti incaricati della ricezione della DSU ai sensi dell'articolo 11, comma 4. In sede di prima applicazione, il provvedimento e' adottato entro 90 giorni dalla data di entrata in vigore del presente decreto e di esso viene data adeguata pubblicita' dagli enti locali anche attraverso i propri uffici di relazione con il pubblico e i propri siti internet.
 
+4.
+                    
+                        
+                            La DSU ha carattere modulare, componendosi di: 
+ 
+                        
+                        
+                            a)
+                            
+                                un modello base relativo al nucleo familiare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fogli allegati relativi ai singoli componenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                moduli aggiuntivi, di cui e' necessaria la compilazione qualora rilevino ai fini del computo dell'ISEE le componenti aggiuntive, di cui all'allegato 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                moduli sostitutivi, in caso di richiesta dell'ISEE corrente, di cui all'articolo 9; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                moduli integrativi, nel caso si verifichino le condizioni di cui all'articolo 11, commi 7 e 8, nonche' del comma 7, lettera e), primo periodo, del presente articolo. 
+ I moduli aggiuntivi, sostitutivi e integrativi possono essere compilati in via complementare successivamente alla presentazione della DSU. Nel caso le componenti autocertificate di cui ai commi 7 e 8 non siano variate rispetto ad una eventuale DSU precedente, il richiedente puo' presentare una dichiarazione semplificata.
+
 Ai soli fini dell'accesso alle prestazioni agevolate di natura socio sanitaria, il dichiarante puo' compilare la DSU riferita al nucleo familiare ristretto definito secondo le regole di cui all'articolo 6, comma 2. Qualora nel corso di validita' di tale DSU sia necessario reperire informazioni su altri soggetti ai fini del calcolo dell'ISEE per la richiesta di altre prestazioni sociali agevolate, il dichiarante integra la DSU in corso di validita' mediante la compilazione dei soli fogli allegati relativi ai componenti del nucleo non gia' inclusi.
 
 La DSU e' presentata ai comuni o ai centri di assistenza fiscale previsti dall'articolo 32 del decreto legislativo 9 luglio 1997, n. 241, o direttamente all'amministrazione pubblica in qualita' di ente erogatore al quale e' richiesta la prima prestazione o alla sede dell'INPS competente per territorio. E' comunque consentita la presentazione della DSU all'INPS, in via telematica, direttamente a cura del richiedente. A tal fine, l'INPS rende disponibili modalita' di compilazione telematica assistita della DSU.
 
 ((Ai sensi dell'articolo 10, comma 2-bis, terzo periodo, del decreto legislativo 15 settembre 2017, n. 147, la presentazione della DSU da parte del cittadino avviene prioritariamente in modalita' precompilata, secondo le modalita' di cui al decreto del Ministro del lavoro e delle politiche sociali 9 agosto 2019, pubblicato nella Gazzetta Ufficiale n. 233 del 4 ottobre 2019, emanato in attuazione dell'articolo 10, comma 2-bis, quarto periodo, del decreto legislativo 15 settembre 2017, n. 147, ferma restando la possibilita' di presentare la DSU nella modalita' ordinaria.))
+
+7.
+                    
+                        
+                            Ai fini della presentazione della DSU, sono autodichiarate dal dichiarante: 
+ 
+                        
+                        
+                            a)
+                            
+                                la composizione del nucleo familiare e le informazioni necessarie ai fini della determinazione del valore della scala di equivalenza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione di eventuali soggetti rilevanti ai fini del calcolo delle componenti aggiuntive di cui all'allegato 2, nonche' le informazioni di cui alle lettere successive del presente comma ad essi riferite; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la eventuale condizione di disabilita' e non autosufficienza, di cui all'allegato 3, dei componenti il nucleo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'identificazione della casa di abitazione del nucleo familiare, di cui all'articolo 5, comma 2; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il reddito complessivo di cui all'articolo 4, comma 2, lettera a), limitatamente ai casi di esonero dalla presentazione della dichiarazione ovvero di sospensione degli adempimenti tributari a causa di eventi eccezionali, nonche' le componenti reddituali di cui all'articolo 4, comma 2, lettera b), limitatamente ai redditi diversi da quelli prodotti con riferimento al regime dei contribuenti minimi, al regime di vantaggio per l'imprenditoria giovanile e lavoratori in mobilita' e al regime delle nuove iniziative imprenditoriali e di lavoro autonomo, nonche' dai redditi derivanti dalla locazione di immobili assoggettati all'imposta sostitutiva operata nella forma della cedolare secca; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le componenti reddituali di cui all'articolo 4, comma 2, lettere c), d), e), g), ed i); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le componenti reddituali di cui all'articolo 4, comma 2, lettera f), limitatamente alle prestazioni non erogate dall'INPS; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'importo degli assegni periodici effettivamente corrisposti di cui all'articolo 4, comma 3, lettere a) e b); 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il valore del canone di locazione annuo di cui all'articolo 4, comma 4 ((...)); 
+
+                            
+                        
+                        
+                            l)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL D.P.C.M. 14 GENNAIO 2025, N. 13)); 
+
+                            
+                        
+                        
+                            m)
+                            
+                                le componenti del patrimonio immobiliare di cui all'articolo 5, commi 2 e 3, nonche' per ciascun cespite l'ammontare dell'eventuale debito residuo; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                in caso di richiesta di prestazioni di cui all'articolo 6, comma 3, le donazioni di cespiti di cui alla lettera c) del medesimo comma; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                gli autoveicoli, ovvero i motoveicoli di cilindrata di 500 cc e superiore, nonche' le navi e imbarcazioni da diporto, per le finalita' di cui all'articolo 11, comma 12.
 
 Nelle more della piena e tempestiva disponibilita' delle informazioni comunicate ai sensi dell'articolo 7, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605, e del comma 2, dell'articolo 11, del citato decreto-legge 6 dicembre 2011, n. 201 e fermo restando l'utilizzo delle informazioni disponibili secondo le modalita' di cui all'articolo 11, sono altresi' autodichiarate dal dichiarante le componenti del patrimonio mobiliare di cui all'articolo 5, comma 4. Ai fini della semplificazione nella compilazione della DSU e alla luce della evoluzione della disponibilita' delle informazioni di cui al presente comma, con uno o piu' decreti del Ministero del lavoro e delle politiche sociali, il primo dei quali da adottare entro 12 mesi dall'entrata in vigore del presente decreto, sentita l'Agenzia delle entrate e il Garante per la protezione dei dati personali, sono identificate le componenti del patrimonio mobiliare per cui e' possibile acquisire il dato, sotto forma di valore sintetico, direttamente nell'apposita sezione dell'anagrafe tributaria prevista dall'articolo 7, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605, e conseguentemente sono riviste le componenti di cui e' prevista l'autodichiarazione.
 

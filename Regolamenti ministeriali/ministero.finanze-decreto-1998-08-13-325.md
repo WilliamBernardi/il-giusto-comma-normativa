@@ -8,8 +8,8 @@ codice_redazionale: 098G0377
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,24 @@ Restano ferme, ai sensi dell'articolo 23, comma 4, del decreto legislativo 19 se
 Nei luoghi e nelle aree delle infrastrutture della Guardia di finanza diversi da quelli soggetti alla competenza dei servizi sanitari e tecnici a norma del comma 2, l'attivita' di vigilanza sull'applicazione delle disposizioni dettate dal citato decreto legislativo n. 626 del 1994 deve essere effettuata dal personale indicato all'articolo 23, commi 1 e 2, del predetto decreto legislativo in possesso dell'abilitazione prevista dal regio decreto 11 luglio 1941, n. 1161, concessa con il rilascio dell'apposito nulla osta di segretezza.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            I rappresentanti per la sicurezza da nominare ai sensi dell'articolo 18 del citato decreto legislativo n. 626 del 1994, per il Corpo della guardia di finanza, sono individuati:
+ 
+                        
+                        
+                            a)
+                            
+                                di norma, tra i delegati eletti negli organi di rappresentanza militare, ai sensi del decreto del Presidente della Repubblica 4 novembre 1979, n. 691, relativamente alle infrastrutture ove essi abitualmente operano o che ospitano il reparto al quale gli stessi sono in forza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in assenza di delegati di cui alla lettera a), tra il personale in servizio presso il reparto o i reparti allocati nella singola infrastruttura, a seguito di designazione da parte del personale in servizio presso il o i reparti medesimi, da effettuarsi in apposita riunione indetta dal datore di lavoro competente per l'infrastruttura.
 
 Nella nomina di cui al comma 1 dovra' individuarsi un rappresentante per la sicurezza per ciascun settore tecnico o operativo nell'ambito del quale operano i reparti aventi sede nell'infrastruttura.
 

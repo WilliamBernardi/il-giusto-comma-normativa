@@ -8,8 +8,8 @@ codice_redazionale: 096G0217
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -200,6 +200,71 @@ Repubblica 27 aprile 1955, n. 547, come sostituito dall'art. 33, comma 13, del d
  5. Le disposizioni sulle vie di circolazione e zone di pericolo di 
 cui all'art. 8, commi 1, 2, 3, 4, 5, 6, 7 e 8, si applicano per analogia ai luoghi di lavoro esterni.".
 
+2.
+                    
+                        
+                            L'art. 13 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547, come sostituito dall'art. 33, comma 1, del decreto legislativo n. 626/1994, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo la lettera c), e' aggiunta, in fine la 
+seguente lettera: 
+ "c-bis) larghezza di una porta o luce netta di una porta: 
+larghezza di passaggio al netto dell'ingombro dell'anta mobile in posizione di massima apertura se scorrevole, in posizione di apertura a 90 gradi se incernierata (larghezza utile di passaggio)."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 6 e' aggiunto, in fine, il seguente periodo: 
+ "L'apertura della porte delle uscite di emergenza nel verso 
+dell'esodo non e' richiesta quando possa determinare pericoli per passaggio di mezzi o per altre cause, fatta salva l'adozione di altri accorgimenti adeguati specificamente autorizzati dal Comando provinciale dei vigili del fuoco competente per territorio."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 12 e' sostituito dal seguente: 
+ " 12. Gli edifici che sono costruiti o adattati interamente per le lavorazioni che presentano pericoli di esplosioni o specifici rischi di incendio alle quali sono adibiti piu' di cinque lavoratori devono avere almeno due scale distinte di facile accesso o rispondere a quanto prescritto dalla specifica normativa antincendio. Per gli edifici gia' costruiti si dovra' provvedere in conformita', quando non ne esista la impossibilita' accertata dall'organo di vigilanza: in quest'ultimo caso sono disposte le misure e cautele ritenute piu' efficienti. Le deroghe gia' concesse mantengono la loro validita' salvo diverso provvedimento dell'organo di vigilanza.".
+
+3.
+                    
+                        
+                            L'art. 14 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547, come sostituito dall'art. 33, comma 2, del decreto legislativo n. 626/1994, e' cosi modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 le parole: "rischi di esplosione e di incendio" 
+sono sostituite dalle seguenti: "pericoli di esplosione o specifici rischi di incendio"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, lettere a) e c), le parole: "larghezza minima di m. 0,90" sono sostituite dalle parole: "larghezza minima di m. 0,80"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, dopo le parole: "(cinque per cento)." e' aggiunto il seguente periodo: "Alle porte per le quali e' prevista una larghezza minima di m. 0,80 e applicabile una tolleranza in meno del 2% (due per cento)."; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 17 e' sostituito dal seguente: 
+ " 17. I luoghi di lavoro gia' utilizzati prima del 1 gennaio 1993 devono essere provvisti di porte di uscita che, per numero ed ubicazione, consentono la rapida uscita delle persone e che sono agevolmente apribili dall'interno durante il lavoro. Comunque, detti luoghi devono essere adeguati quanto meno alle disposizioni di cui ai precedenti commi 9 e 10. Per i luoghi di lavoro costruiti o utilizzati prima del 27 novembre 1994 non si applicano le disposizioni dei commi 2, 3, 4, 5 e 6 concernenti la larghezza delle porte. In ogni caso la larghezza delle porte di uscita di detti luoghi di lavoro deve essere conforme a quanto previsto dalla concessione edilizia ovvero dalla licenza di abitabilita'.".
+
 L'art. 6 del decreto del Presidente della Repubblica 19 marzo 
 1956, n. 303, come modificato dall'art. 33, comma 5, del decreto legislativo n. 626/1994, e' sostituito dal seguente: 
  "Art. 6 (Altezza, cubatura e superficie ). - 1. I limiti minimi per 
@@ -214,6 +279,35 @@ all'altezza media della copertura dei soffitti o delle volte.
 vigilanza competente per territorio puo' consentire altezze minime inferiori a quelle sopra indicate e prescrivere che siano adottati adeguati mezzi di ventilazione dell'ambiente. L'osservanza dei limiti stabiliti dal presente articolo circa l'altezza, la cubatura e la superficie dei locali chiusi di lavoro e' estesa anche alle aziende industriali che occupano meno di cinque lavoratori quando le lavorazioni che in esse si svolgono siano ritenute, a giudizio dell'organo di vigilanza, pregiudizievoli alla salute dei lavoratori occupati. 
  5. Per i locali destinati o da destinarsi ad uffici, 
 indipendentemente dal tipo di azienda, e per quelli delle aziende commerciali, i limiti di altezza sono quelli individuati dalla normativa urbanistica vigente.".
+
+5.
+                    
+                        
+                            L'art. 7 del decreto del Presidente della Repubblica 19 marzo 
+1956, n. 303, come sostituito dall'art. 33, comma 9, del decreto legislativo n. 626/1994, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: "locali chiusi", e' soppressa la: "i"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ " 6. Le pareti trasparenti o traslucide, in particolare le pareti completamente vetrate, nei locali o nelle vicinanze dei posti di lavoro e delle vie di circolazione, devono essere chiaramente segnalate e costituite da materiali di sicurezza fino all'altezza di 1 metro dal pavimento, ovvero essere separate dai posti di lavoro e dalle vie di circolazione succitati in modo tale che i lavoratori non possono entrare in contatto con le pareti ne' rimanere feriti qualora esse vadano in frantumi. Nel caso in cui vengono utilizzati materiali di sicurezza fino all'altezza di 1 metro dal pavimento, tale altezza e' elevata quando cio' e' necessario in relazione al rischio che i lavoratori rimangono feriti qualora esse vadano in frantumi."; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 13 e' aggiunto il seguente comma: 
+ "13-bis. le disposizioni di cui ai commi 10, 11, 12 e 13 sono 
+altresi' applicabili alle vie di circolazione principali sul terreno dell'impresa, alle vie di circolazione che portano a posti di lavoro fissi, alle vie di circolazione utilizzate per la regolare manutenzione e sorveglianza degli impianti dell'impresa, nonche' alle banchine di carico.".
 
 All'art. 9, comma 1, del decreto del Presidente della Repubblica 
 19 marzo 1956, n. 303, come sostituito dall'art. 33, comma 6 del decreto legislativo n. 626/1994, sono aggiunte, in fine, le seguenti parole: "anche ottenuta con impianti di areazione".
@@ -247,6 +341,25 @@ milione a lire cinque milioni per l'inosservanza delle norme di cui agli articol
  c) con l'arresto fino a tre mesi o con l'ammenda da lire 
 cinquecentomila a lire due milioni per l'inosservanza delle norme di cui agli articoli 4, comma 1, lettera d); 7, comma 5; 9, comma 3; 15; 
 31, secondo comma; 32; 42, primo e secondo comma; 54, primo, secondo, terzo, quarto e quinto comma; 56. Alle stesse penalita' soggiacciono i datori di lavoro ed i dirigenti che non osservano le prescrizioni rilasciate dall'organo di vigilanza ai sensi degli articoli 31, primo e secondo comma; 33, terzo comma.".
+
+13.
+                    
+                        
+                            L'art. 59 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303, come modificato dall'art. 26, comma 17, del decreto legisaltivo 19 dicembre 1994, n. 758, e' cosi' modificato: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella lettera a) le parole: "9, primo comma" sono sostituite dalle parole: "9, commi 1, 2 e 4"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella lettera b) le parole: "9, secondo comma" sono sostituite 
+dalle parole: "9, comma 3", e le parole: "37, primo comma" sono soppresse.
 
 Nella lettera b) dell'art. 60 del decreto del Presidente della Repubblica 19 marzo 1956, n. 303, come modificato dall'art. 26, comma 18, del decreto legislativo n.758/1994, le parole: "38, quinto comma" sono soppresse.
 
@@ -358,6 +471,39 @@ Dopo l'art. 96 del decreto legislativo n. 626/1994, e' inserito il seguente:
 ## Art. 26. — Modifiche all'allegato I
  del decreto legislativo n. 626/1994
 
+1.
+                    
+                        
+                            L'allegato I al decreto legislativo n. 626/1994, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 1, dopo la parola: "industriali" e' aggiunta la seguente espressione: "(1)";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 2, dopo la parola: "addetti" l'espressione "(1)" e' sostituita dalla seguente: "(2)";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al punto 4 i rinvii alle note sono soppressi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le note: "(1)" e "(2)" sono sostituite dalle seguenti:
+ "( 1) Escluse le aziende industriali di cui all'art. 1 del decreto del Presidente della Repubblica 17 maggio 1988, n. 175, e successive modifiche, soggette all'obbligo di dichiarazione o notifica ai sensi degli articoli 4 e 6 del decreto stesso, le centrali termoelettriche, gli impianti ed i laboratori nucleari, le aziende estrattive ed altre attivita' minerarie, le aziende per la fabbricazione ed il deposito separato di esplosivi, polveri e munizioni, le strutture di ricovero e cura sia pubbliche sia private. ( 2) Addetti assunti a tempo indeterminato.".
+
 ## Art. 27. — Integrazioni all'allegato IV
  del decreto legislativo n. 626/1994
 
@@ -406,6 +552,24 @@ All'allegato IV al decreto legislativo n. 626/1994, sono aggiunti, in fine, i se
 ## Art. 28. — Modifiche all'allegato V
  del decreto legislativo n. 626/1994
 
+1.
+                    
+                        
+                            L'allegato V al decreto legislativo n. 626/1994, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 1, le parole: "elementi di protezione" sono sostituite dalle seguenti: "elmetti di protezione";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 8, le parole: "lavori fosforescenti" sono sostituite dalle seguenti: "indumenti fosforescenti".
+
 ## Art. 29. — Integrazioni all'allegato VII
  del decreto legislativo n. 626/1994
 
@@ -440,6 +604,24 @@ g) Umidita'
 Entro sessanta giorni dalla data di entrata in vigore del presente decreto gli organi di direzione politica o, comunque, di vertice delle amministrazioni pubbliche di cui all'art. 1, comma 2, del decreto legislativo 3 febbraio 1993, n. 29, procedono all'individuazione dei soggetti di cui all'art. 2, comma 1, lettera b), secondo periodo, del presente decreto, tenendo conto dell'ubicazione e dell'ambito funzionale degli uffici nei quali viene svolta l'attivita'.
 
 I decreti di cui all'art. 1, comma 2, del decreto legislativo n. 626/1994, come modificato dall'art. 1 del presente decreto, sono emanati entro sei mesi dalla data di pubblicazione del presente decreto.
+
+3.
+                    
+                        
+                            Le disposizioni di cui all'art. 4, commi 1, 2, 4 e 11, del decreto legislativo n. 626/1994, come modificato dall'art. 3 del presente decreto, devono essere osservate:
+ 
+                        
+                        
+                            a)
+                            
+                                entro il 1 luglio 1996 dalle imprese di cui all'art. 8, comma 5, lettere a), b), c), d), e) ed f), del decreto legislativo n. 626/1994;
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro il 1 gennaio 1997 negli altri settori di attivita'.
 
 Sino al 31 dicembre 1997, per le contravvenzioni di cui al titolo IX del decreto legislativo n. 626/1994, come modificate dagli articoli 22, 23 e 24, relativamente alla violazione degli obblighi non ancora vigenti alla data di entrata in vigore del presente decreto, i termini previsti dall'art. 20, comma 1, del decreto legislativo 19 dicembre 1994, n. 758, sono raddoppiati e la somma di cui all'art. 21, comma 2, dello stesso decreto e' ridotta della meta'.
 

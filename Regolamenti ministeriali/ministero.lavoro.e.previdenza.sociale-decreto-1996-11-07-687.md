@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1999-10-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,13 +34,95 @@ Gli uffici dell'amministrazione periferica del Ministero del lavoro e della prev
 
 ## Art. 2. — Struttura degli uffici periferici
 
+1.
+                    
+                        
+                            Sono uffici periferici del Ministero:
+ 
+                        
+                        
+                            a)
+                            
+                                le direzioni regionali del lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le direzioni provinciali del lavoro.
+
 ## Art. 3. — Direzione regionale del lavoro
 
 La direzione regionale del lavoro e' istituita in ogni regione, ad eccezione della Sicilia e del Trentino-Alto Adige, con sede nelle citta' indicate nell'annessa tabella A, punti 1 e 2.
 
+2.
+                    
+                        
+                            La direzione regionale e' articolata nei seguenti uffici:
+ 
+                        
+                        
+                            a)
+                            
+                                settore politiche del lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                settore ispezione del lavoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ufficio per la gestione delle risorse e per gli affari generali.
+
 ## Art. 4. — Competenze della direzione regionale del lavoro
 
 La direzione regionale del lavoro svolge le funzioni gia' attribuite all'ufficio regionale del lavoro e della massima occupazione, nonche' all'ispettorato regionale del lavoro.
+
+2.
+                    
+                        
+                            In particolare, la direzione regionale:
+ 
+                        
+                        
+                            a)
+                            
+                                svolge funzioni di indirizzo, coordinamento e vigilanza sulla attivita' delle direzioni provinciali del lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                assicura le funzioni di segreteria amministrativa e tecnica della commissione regionale per l'impiego;
+
+                            
+                        
+                        
+                            c)
+                            
+                                provvede alla rilevazione, in collaborazione con gli osservatori regionali e con l'agenzia per l'impiego, degli andamenti del mercato del lavoro per tutti i settori di attivita', nonche' alla elaborazione delle statistiche in materia di lavoro, comprese quelle relative all'attivita' di vigilanza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                cura la promozione e il coordinamento degli uffici di relazioni con il pubblico;
+
+                            
+                        
+                        
+                            e)
+                            
+                                assicura il servizio di "prevenzione e protezione".
 
 ## Art. 5. — Direzione provinciale del lavoro
 
@@ -48,9 +130,66 @@ La direzione provinciale del lavoro e' istituita presso ciascun capoluogo di pro
 
 ((1-bis. Nella provincia del Verbano Cusio Ossola la direzione provinciale del lavoro ha sede ad Omegna))
 
+2.
+                    
+                        
+                            La direzione provinciale e' articolata nei seguenti uffici:
+ 
+                        
+                        
+                            a)
+                            
+                                servizio politiche del lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizio ispezione del lavoro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ufficio per la gestione delle risorse e per gli affari generali.
+
 ## Art. 6. — Competenze della direzione provinciale
 
 La direzione provinciale del lavoro svolge le funzioni gia' attribuite all'ufficio provinciale del lavoro e della massima occupazione, nonche' all'ispettorato provinciale del lavoro.
+
+2.
+                    
+                        
+                            In particolare, la direzione provinciale:
+ 
+                        
+                        
+                            a)
+                            
+                                dirige e verifica l'azione amministrativa in materia di politica attiva del lavoro e di vigilanza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                promuove, indirizza e verifica l'attivita' delle sezioni circoscrizionali per l'impiego e per il collocamento in agricoltura;
+
+                            
+                        
+                        
+                            c)
+                            
+                                svolge funzioni tecnico-legali connesse alle attivita' di ispezione del lavoro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                assicura il servizio di relazioni con il pubblico.
 
 ## Art. 7. — Dirigenza regionale
 

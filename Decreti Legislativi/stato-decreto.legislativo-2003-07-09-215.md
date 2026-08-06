@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,24 @@ Il presente decreto reca le disposizioni relative all'attuazione della parita' d
 
 ## Art. 2. — Nozione di discriminazione
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, per principio di parita' di trattamento si intende l'assenza di qualsiasi discriminazione diretta o indiretta a causa della razza o dell'origine etnica. Tale principio comporta che non sia praticata alcuna discriminazione diretta o indiretta, cosi' come di seguito definite:
+ 
+                        
+                        
+                            a)
+                            
+                                discriminazione diretta quando, per la razza o l'origine etnica, una persona e' trattata meno favorevolmente di quanto sia, sia stata o sarebbe trattata un'altra in situazione analoga;
+
+                            
+                        
+                        
+                            b)
+                            
+                                discriminazione indiretta quando una disposizione, un criterio, una prassi, un atto, un patto o un comportamento apparentemente neutri possono mettere le persone di una determinata razza od origine etnica in una posizione di particolare svantaggio rispetto ad altre persone.
+
 E' fatto salvo il disposto dell'articolo 43, commi 1 e 2, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con decreto legislativo 25 luglio 1998, n. 286, di seguito denominato: "testo unico".
 
 Sono, altresi', considerate come discriminazioni, ai sensi del comma 1, anche le molestie ovvero quei comportamenti indesiderati, posti in essere per motivi di razza o di origine etnica, aventi lo scopo o l'effetto di violare la dignita' di una persona e di creare un clima intimidatorio, ostile, degradante, ((umiliante od offensivo)).
@@ -37,6 +55,73 @@ Sono, altresi', considerate come discriminazioni, ai sensi del comma 1, anche le
 L'ordine di discriminare persone a causa della razza o dell'origine etnica e' considerato una discriminazione ai sensi del comma 1.
 
 ## Art. 3. — Ambito di applicazione
+
+1.
+                    
+                        
+                            Il principio di parita' di trattamento senza distinzione di razza ed origine etnica si applica a tutte le persone sia nel settore pubblico che privato ed e' suscettibile di tutela giurisdizionale, secondo le forme previste dall'articolo 4, con specifico riferimento alle seguenti aree:
+ 
+                        
+                        
+                            a)
+                            
+                                accesso all'occupazione e al lavoro, sia autonomo che dipendente, compresi i criteri di selezione e le condizioni di assunzione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                occupazione e condizioni di lavoro, compresi gli avanzamenti di carriera, la retribuzione e le condizioni del licenziamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accesso a tutti i tipi e livelli di orientamento e formazione professionale, perfezionamento e riqualificazione professionale, inclusi i tirocini professionali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                affiliazione e attivita' nell'ambito di organizzazioni di lavoratori, di datori di lavoro o di altre organizzazioni professionali e prestazioni erogate dalle medesime organizzazioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                protezione sociale, inclusa la sicurezza sociale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                assistenza sanitaria;
+
+                            
+                        
+                        
+                            g)
+                            
+                                prestazioni sociali;
+
+                            
+                        
+                        
+                            h)
+                            
+                                istruzione;
+
+                            
+                        
+                        
+                            i)
+                            
+                                accesso a beni e servizi, incluso l'alloggio.
 
 Il presente decreto legislativo non riguarda le differenze di trattamento basate sulla nazionalita' e non pregiudica le disposizioni nazionali e le condizioni relative all'ingresso, al soggiorno, all'accesso all'occupazione, all'assistenza e alla previdenza dei cittadini dei Paesi terzi e degli apolidi nel territorio dello Stato, ne' qualsiasi trattamento, adottato in base alla legge, derivante dalla condizione giuridica dei predetti soggetti.
 
@@ -86,6 +171,45 @@ Le associazioni e gli enti inseriti nell'elenco di cui al comma 1 sono, altresi'
 
 Presso la Presidenza del Consiglio dei Ministri - Dipartimento per le pari opportunita' e' istituito il registro delle associazioni e degli enti che svolgono attivita' nel campo della lotta alle discriminazioni e della promozione della parita' di trattamento.
 
+2.
+                    
+                        
+                            L'iscrizione nel registro e' subordinata al possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                avvenuta costituzione, per atto pubblico o per scrittura privata autenticata, da almeno un anno e possesso di uno statuto che sancisca un ordinamento a base democratica e preveda come scopo esclusivo o preminente il contrasto ai fenomeni di discriminazione e la promozione della parita' di trattamento, senza fine di lucro; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tenuta di un elenco degli iscritti, aggiornato annualmente con l'indicazione delle quote versate direttamente all'associazione per gli scopi statutari; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                elaborazione di un bilancio annuale delle entrate e delle uscite con indicazione delle quote versate dagli associati e tenuta dei libri contabili, conformemente alle norme vigenti in materia di contabilita' delle associazioni non riconosciute; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolgimento di un'attivita' continuativa nell'anno precedente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                non avere i suoi rappresentanti legali subito alcuna condanna, passata in giudicato, in relazione all'attivita' dell'associazione medesima, e non rivestire i medesimi rappresentanti la qualifica di imprenditori o di amministratori di imprese di produzione e servizi in qualsiasi forma costituite, per gli stessi settori in cui opera l'associazione.
+
 ((A decorrere dal 1° gennaio 2027, il registro di cui al comma 1 e' trasferito all'Organismo per la parita' istituito in recepimento della direttiva (UE) 2024/1499 del Consiglio, del 7 maggio 2024, che ne cura l'aggiornamento ogni due anni.))
                             ((5))
 
@@ -97,6 +221,59 @@ Presso la Presidenza del Consiglio dei Ministri - Dipartimento per le pari oppor
 ## Art. 7. — Ufficio per il contrasto delle discriminazioni
 
 E' istituito presso la Presidenza del Consiglio dei Ministri - Dipartimento per le pari opportunita' un ufficio per la promozione della parita' di trattamento e la rimozione delle discriminazioni fondate sulla razza o sull'origine etnica, con funzioni di controllo e garanzia delle parita' di trattamento e dell'operativita' degli strumenti di tutela, avente il compito di svolgere, in modo autonomo e imparziale, attivita' di promozione della parita' e di rimozione di qualsiasi forma di discriminazione fondata sulla razza o sull'origine etnica, anche in un'ottica che tenga conto del diverso impatto che le stesse discriminazioni possono avere su donne e uomini, nonche' dell'esistenza di forme di razzismo a carattere culturale e religioso.
+
+2.
+                    
+                        
+                            In particolare, i compiti dell'ufficio di cui al comma 1 sono i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                fornire assistenza, nei procedimenti giurisdizionali o amministrativi intrapresi, alle persone che si ritengono lese da comportamenti discriminatori, anche secondo le forme di cui all'articolo 425 del codice di procedura civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolgere, nel rispetto delle prerogative e delle funzioni dell'autorita' giudiziaria, inchieste al fine di verificare l'esistenza di fenomeni discriminatori; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere l'adozione, da parte di soggetti pubblici e privati, in particolare da parte delle associazioni e degli enti di cui all'articolo 6, di misure specifiche, ivi compresi progetti di azioni positive, dirette a evitare o compensare le situazioni di svantaggio connesse alla razza o all'origine etnica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                diffondere la massima conoscenza possibile degli strumenti di tutela vigenti anche mediante azioni di sensibilizzazione dell'opinione pubblica sul principio della parita' di trattamento e la realizzazione di campagne di informazione e comunicazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                formulare raccomandazioni e pareri su questioni connesse alle discriminazioni per razza e origine etnica, nonche' proposte di modifica della normativa vigente; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                redigere una relazione annuale per il Parlamento sull'effettiva applicazione del principio di parita' di trattamento e sull'efficacia dei meccanismi di tutela, nonche' una relazione annuale al Presidente del Consiglio dei Ministri sull'attivita' svolta; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                promuovere studi, ricerche, corsi di formazione e scambi di esperienze, in collaborazione anche con le associazioni e gli enti di cui all'articolo 6, con le altre organizzazioni non governative operanti nel settore e con gli istituti specializzati di rilevazione statistica, anche al fine di elaborare linee guida in materia di lotta alle discriminazioni. ((4))
 
 L'ufficio ha facolta' di richiedere ad enti, persone ed imprese che ne siano in possesso, di fornire le informazioni e di esibire i documenti utili ai fini dell'espletamento dei compiti di cui al comma 2.
 

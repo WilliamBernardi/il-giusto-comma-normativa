@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2021-05-12;110
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,31 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 ## Art. 1. — Ambito di applicazione
 
 Ai sensi dell'articolo 1, comma 484, della legge 27 dicembre 2019, n. 160, e' adottato il Regolamento di attuazione dell'articolo 1, comma 483, della legge 27 dicembre 2019, n. 160: «Adesione alla gestione unitaria delle prestazioni creditizie e sociali di cui all'articolo 1, comma 245, della legge 23 dicembre 1996, n. 662».
+
+2.
+                    
+                        
+                            Ai sensi dell'articolo 1, comma 483, della legge 27 dicembre 2019, n. 160, il presente regolamento si applica: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai pensionati, gia' dipendenti pubblici, che fruiscono di trattamento pensionistico a carico della Gestione speciale di previdenza dei dipendenti dell'amministrazione pubblica, amministrata dall'INPS a decorrere dal 1° gennaio 2012; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai pensionati di enti e amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, che non fruiscono di trattamento pensionistico a carico della Gestione speciale di previdenza dei dipendenti dell'amministrazione pubblica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai dipendenti di enti e amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, non iscritti alle casse pensionistiche o ai fondi per i trattamenti di fine servizio della Gestione speciale di previdenza dei dipendenti dell'amministrazione pubblica.
 
 ## Art. 2.
 

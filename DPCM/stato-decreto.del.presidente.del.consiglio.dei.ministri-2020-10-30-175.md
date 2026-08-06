@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2020-10-30;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -25,6 +25,84 @@ Sentite le organizzazioni sindacali di settore;
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 28 ottobre 2020;
 
 ## Art. 1. — Adeguamento delle competenze della Direzione generale delle risorse materiali e delle tecnologie del Dipartimento dell'organizzazione giudiziaria del personale e dei servizi e modifiche in materia di amministrazione periferica dell'organizzazione giudiziaria.
+
+1.
+                    
+                        
+                            Al decreto del Presidente del Consiglio dei ministri 15 giugno 2015, n. 84 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 1, comma 1, la lettera e) e' sostituita dalla seguente: «e) per "uffici periferici dell'organizzazione giudiziaria" gli uffici periferici dell'organizzazione giudiziaria di cui all'articolo 6 del decreto legislativo 25 luglio 2006, n. 240;» e la lettera f) e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 5, comma 2: 
+ 1) all'alinea, le parole: «, oltre alle direzioni generali regionali,» sono soppresse; 
+ 2) alla lettera a), le parole «tra le circoscrizioni delle singole Direzioni regionali e trasferimenti» sono soppresse; 
+ 3) alla lettera b), dopo le parole: «elaborazione degli indirizzi e delle linee di pianificazione strategica e adozione delle misure organizzative di cui all'articolo 6 del predetto decreto del Presidente della Repubblica n. 133 del 2015;» sono inserite le seguenti: «elaborazione dei programmi, degli indirizzi e delle direttive da impartire agli uffici periferici dell'organizzazione giudiziaria in materia di organizzazione e funzionamento dei servizi relativi alla giustizia di cui alla presente lettera;»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 8 e' sostituito dal seguente: 
+ «Art. 8 (Organi di decentramento amministrativo). - 1.
+Costituiscono organi periferici di livello dirigenziale generale del Ministero i provveditorati regionali dell'Amministrazione penitenziaria di cui all'articolo 32 della legge 15 dicembre 1990, n. 395, e relativa tabella E) come sostituita dalla tabella B) allegata al presente regolamento. 
+ 2. Costituiscono organi periferici di livello dirigenziale non generale del Ministero gli uffici periferici dell'organizzazione giudiziaria e i centri per la giustizia minorile di cui all'articolo 7 del decreto legislativo 28 luglio 1989, n. 272, e all'articolo 1, comma 5, del decreto legislativo 21 maggio 2000, n. 146.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 9 e' sostituito dal seguente: 
+ «Art. 9 (Funzioni degli uffici periferici dell'organizzazione giudiziaria). - 1. Sulla base di programmi, indirizzi e direttive impartite dalla direzione generale delle risorse materiali e delle tecnologie, ferma la facolta' di delega di cui all'articolo 6, comma 3, del decreto del Presidente della Repubblica 18 agosto 2015, n. 133, gli uffici periferici dell'organizzazione giudiziaria esercitano le seguenti attribuzioni nell'ambito territoriale di competenza: 
+ a) analisi comparativa dei costi relativi alle diverse tipologie di beni e servizi per il fabbisogno degli uffici giudiziari; 
+ b) acquisti di beni e servizi per il fabbisogno degli uffici giudiziari e gestione delle risorse materiali, dei beni e servizi dei medesimi uffici; 
+ c) attivita' connesse all'onere delle spese per la gestione degli uffici giudiziari a norma dell'articolo 1, secondo comma, della legge 24 aprile 1941, n. 392; 
+ d) supporto e ausilio all'attivita' delle conferenze permanenti di cui all'articolo 3 del decreto del Presidente della Repubblica 18 agosto 2015, n. 133, nella determinazione del fabbisogno di beni e servizi degli uffici giudiziari; 
+ e) predisposizione e attuazione dei programmi per l'acquisto, la costruzione, la permuta, la vendita, la ristrutturazione di beni immobili adibiti ad uffici giudiziari; 
+ f) attivita' di raccordo con il Ministero delle infrastrutture e dei trasporti e con l'Agenzia del demanio per la realizzazione di interventi in materia di edilizia giudiziaria.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'articolo 10 e' sostituito dal seguente: 
+ «Art. 10 (Risorse finanziarie degli uffici periferici dell'organizzazione giudiziaria). - 1. Il direttore generale delle risorse materiali e delle tecnologie assegna le risorse finanziarie e strumentali al dirigente preposto agli uffici periferici dell'organizzazione giudiziaria a norma dell'articolo 8 del decreto legislativo 25 luglio 2006, n. 240.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli articoli da 11 a 15 sono abrogati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'articolo 16: 
+ 1) al comma 2 i primi due periodi, nonche', al terzo periodo, le parole: «, ivi compreso il trasferimento alle direzioni regionali delle strutture e risorse degli uffici di coordinamento interdistrettuale per i sistemi informativi automatizzati», sono soppressi; 
+ 2) al comma 4 i primi tre periodi sono soppressi; 
+ 3) il comma 7 e' abrogato; 
+ 4) al comma 12, terzo periodo, le parole: «di livello generale e non generale» sono sostituite dalle seguenti: «di livello generale o non generale»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la tabella A e' soppressa e le tabelle C e D sono sostituite, rispettivamente, dagli allegati I e II, che costituiscono parte integrante del presente decreto.
 
 ## Art. 2.
 

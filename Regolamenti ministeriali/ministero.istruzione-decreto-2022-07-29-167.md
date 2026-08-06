@@ -7,8 +7,8 @@ urn: urn:nir:ministero.istruzione:decreto:2022-07-29;167
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,6 +27,73 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 Sentite le organizzazioni sindacali maggiormente rappresentative;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si adottano le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                ciclo di osservazione: S1-S3, per indicare i primi tre anni del ciclo secondario del curricolo europeo corrispondenti alla scuola secondaria di primo grado del sistema scolastico nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ciclo di pre-orientamento: S4-S5, per indicare il primo biennio del ciclo secondario del curricolo europeo corrispondente al primo biennio della scuola secondaria di secondo grado del sistema scolastico nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ciclo di orientamento: S6-S7, per indicare il secondo e ultimo biennio del ciclo secondario del curricolo europeo corrispondente agli ultimi tre anni della scuola secondaria di secondo grado del sistema scolastico nazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alunni senza sezione linguistica, o swals, per indicare gli alunni SWALS (Students Without A Language Section) per i quali, ai sensi dell'articolo 47, lettera e), del regolamento generale delle Scuole europee, approvato dal Board of Governors (General Rules of the European Schools - Ref.: 2014-03-D-14-en-10), non esiste la sezione linguistica corrispondente alla propria lingua madre/lingua dominante per cui tutti gli insegnamenti sono veicolati in una delle lingue veicolari (inglese, francese o tedesco), ma mantengono il diritto ad avere l'insegnamento della lingua 1 nella propria lingua madre/lingua dominante; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                insegnamento della Lingua 1, per indicare l'insegnamento della lingua madre o lingua dominante per tutti gli alunni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Consiglio superiore, Segretario generale, Consigli di ispezione, per indicare i tre organi delle Scuole europee previsti dall'articolo 7 della legge 6 marzo 1996, n. 151 di «Ratifica ed esecuzione della convenzione recante Statuto delle scuole europee, con allegati, fatta a Lussemburgo il 21 giugno 1994», e citati nel testo; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                Regolamento generale delle scuole europee, per indicare il regolamento generale delle scuole europee, approvato dal Board of Governors delle scuole europee (General Rules of the European Schools - Ref.: 2014-03-D-14-en-11); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                Regolamento sulle scuole europee accreditate, per indicare il regolamento sulle scuole europee accreditate, approvato dal Board of Governors delle scuole europee (Regulations on Accredited European Schools Ref.: 2019-12-D-12-en-1); 
+
+                            
+                        
+                        
+                            i)
+                            
+                                Regolamento per la Licenza liceale europea, per indicare il regolamento per la Licenza liceale europea (Baccalaureato europeo) (Regulations for the European Baccalaureate Ref.: 2014-11-D-11-en-9).
 
 ## Art. 2. — Oggetto
 
@@ -54,6 +121,38 @@ La Scuola, fatte salve le competenze in materia di autonomia scolastica, adotta 
 
 Gli organi della Scuola sono i medesimi previsti a legislazione vigente per le scuole statali, affiancati, per i soli profili ordinamentali delle scuole europee, da un comitato tecnico-scientifico.
 
+2.
+                    
+                        
+                            Il comitato tecnico-scientifico, nominato dal Capo Dipartimento per il sistema educativo di istruzione e formazione del Ministero dell'istruzione, denominato di seguito Ministero, e' composto: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal dirigente della Scuola, che lo presiede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da un dirigente del Ministero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un rappresentante eletto dai genitori degli alunni e studenti della Scuola; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dal rappresentante eletto dal personale docente della Scuola.
+
 Il comitato tecnico-scientifico e' validamente costituito quando sono presenti almeno il dirigente del Ministero piu' altri due componenti.
 
 Il presidente del comitato tecnico-scientifico, in base agli argomenti posti all'ordine del giorno, ha facolta' di invitare ai lavori del comitato, a titolo consultivo e senza oneri aggiuntivi a carico della Scuola, persone interne o esterne alla Scuola, le cui competenze ed esperienze siano utili per la trattazione e la soluzione di specifiche questioni.
@@ -69,6 +168,66 @@ Per la partecipazione ai lavori del comitato tecnico-scientifico non sono previs
 Il dirigente della Scuola e' il dirigente dell'istituzione scolastica a cui la Scuola afferisce. Il dirigente della Scuola ne e' il rappresentante legale, ne assicura la gestione unitaria e ha la responsabilita' dell'attivita' amministrativa, delle risorse strumentali, finanziarie e dei risultati del servizio.
 
 Nel rispetto delle competenze degli organi della Scuola, e' preposto al corretto, efficace ed efficiente funzionamento della Scuola; e' titolare di autonomi poteri di direzione, coordinamento e valorizzazione delle risorse umane; promuove e sviluppa l'autonomia sul piano organizzativo, gestionale e didattico; pone in essere gli interventi volti ad assicurare l'esercizio dei diritti costituzionalmente tutelati, quali il diritto all'apprendimento degli alunni, la liberta' di insegnamento dei docenti, la liberta' di scelta educativa da parte delle famiglie; attiva autonomamente i necessari rapporti con gli Enti locali e con le diverse realta' istituzionali, culturali, sociali ed economiche con le quali la Scuola, per il suo specifico ruolo, e' chiamata a rapportarsi, in ambito nazionale, europeo ed internazionale.
+
+3.
+                    
+                        
+                            Il dirigente della Scuola, inoltre: 
+ 
+                        
+                        
+                            a)
+                            
+                                procede, in base alle ordinarie disposizioni vigenti e all'organico definito, alla formazione delle classi, all'assegnazione dei docenti alle stesse, alla predisposizione dell'orario delle lezioni e garantisce lo svolgimento delle attivita' didattiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                forma le sezioni e le classi secondo la normativa nazionale vigente. Deroghe al numero massimo e/o minimo di alunni per classe, eventualmente necessarie secondo le previsioni del regolamento generale delle scuole europee, potranno essere disposte nel limite delle risorse umane e finanziarie disponibili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuove il miglioramento continuo della qualita' didattico-educativa della Scuola, rispondente al curricolo e agli aspetti pedagogici del sistema delle scuole europee; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                garantisce che l'offerta formativa sia conforme ai requisiti per mantenere l'accreditamento presso il sistema delle scuole europee; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                mette in atto iniziative per promuovere lo spirito europeo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                adotta le iniziative finalizzate al perseguimento dell'efficienza e dell'efficacia amministrativo-gestionale e funzionale della Scuola; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                vigila sull'attivita' di tutto il personale docente e non docente della Scuola; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                si raccorda con i Consigli di ispezione, con i due ispettori nazionali rispettivamente del ciclo della scuola dell'infanzia e primaria e del ciclo secondario delle Scuole europee e con il Segretario generale e il Consiglio superiore.
 
 ## Art. 7. — Alunni
 
@@ -91,6 +250,31 @@ Il personale della Scuola e' costituito dal personale scolastico ordinariamente 
 Il servizio prestato presso la Scuola e' equiparato a quello prestato presso le scuole nazionali statali.
 
 ## Art. 9. — Risorse finanziarie
+
+1.
+                    
+                        
+                            Per le spese di funzionamento amministrativo e didattico, la Scuola si avvale, oltre che delle risorse ordinariamente previste per l'istituzione scolastica a cui afferisce la Scuola e del contributo dello Stato di cui all'articolo 6 del decreto-legge 29 dicembre 2016, n. 243, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 18: 
+ 
+                        
+                        
+                            a)
+                            
+                                di eventuali proventi derivanti da contributi scolastici volontari a carico delle famiglie; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di eventuali contributi degli enti pubblici e privati con i quali la Scuola ha concluso accordi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di eventuali lasciti, donazioni ed elargizioni.
 
 Le risorse finanziarie sono gestite dalla Scuola senza vincolo di destinazione e dedicate prioritariamente all'assolvimento dei suoi compiti istituzionali.
 

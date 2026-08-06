@@ -8,8 +8,8 @@ codice_redazionale: 093G0097
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,45 @@ Le regole stabiliscono le prescrizioni minime cui debbono soddisfare le apparecc
 
 Le apparecchiature devono essere progettate per poter trasmettere e ricevere un segnale numerico a velocita' di cifra di: 704 kbit/s, o 2048 kbit/s, o 8448 kbit/s oppure 4 x 2048 kbit/s.
 
+2.
+                    
+                        
+                            Le apparecchiature devono essere corredate della seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                manuale d'istruzione con eventuali prescrizioni di sicurezza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                schemi circuitali ed a blocchi con relative indicazioni dei valori delle grandezze elettriche e dei livelli del segnale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                valori e caratteristiche dei componenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                descrizione dettagliata di funzionamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                caratteristiche di alimentazione.
+
 ## Art. 3. — Banda di radiofrequenze
 
 La banda di radiofrequenze utilizzata e' quella relativa ad un senso di trasmissione.
@@ -54,6 +93,66 @@ Il distanziamento in frequenza tra portanti in trasmissione e in ricezione dello
 La canalizzazione delle frequenze portanti e' riportata nella allegata figura 1.
 
 ## Art. 6. — Banda base
+
+1.
+                    
+                        
+                            Le caratteristiche all'ingresso e all'uscita della banda base, sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                velocita' di cifra:
+ 704 kbit/s (Piu' o Meno) 50 ppm (parte per milione);
+ 2048 kbit/s (Piu' o Meno) 50 ppm;
+ 4 x 2048 kbit/s (Piu' o Meno) 50 ppm;
+ 8448 kbit/s (Piu' o Meno) 30 ppm;
+
+                            
+                        
+                        
+                            b)
+                            
+                                codice: HDB3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                impedenza:
+ 120 ohm bilanciati o 75 ohm sbilanciati per 704 kbit/s, 2048 kbit/s e 4 x 2048 kbit/s;
+ 75 ohm sbilanciati per 8448 kbit/s;
+
+                            
+                        
+                        
+                            d)
+                            
+                                livelli: deve essere accettato un segnale numerico avente livello nominale di picco 3 V su 120 ohm o 2,37 V su 75 ohm. Tale segnale deve essere accettato anche se attenuato fino a 6 dB, alle frquenze di:
+ 352 kHz per 704 kbit/s;
+ 1024 kHz per 2048 kbit/s e per il 4 x 2048 kbit/s;
+ 4224 kHz per 8448 kbit/s,
+per la presenza dei cavi di interconnessione per i quali si assume una caratteristica attenuazione/frequenza secondo la radice quadrata di f;
+
+                            
+                        
+                        
+                            e)
+                            
+                                attenuazione di riflessione: per le velocita' di cifra 2048, 4 x 2048 e 8448 kbit/s deve rientrare nei valori sotto indicati:
+ 
+ Banda di frequenza corrispondente Attenuazione alla percentuale della velocita' di
+ di cifra nominale riflessione -- --
+da 2,5%al 5% della velocita' di cifra maggiore o uguale di 12 dB; da 5% al 100% della velocita' di cifra maggiore o uguale di 18 dB; da 100% al 150% della velocita' di cifra maggiore o uguale di 14 dB; per la velocita' di cifra 704 kbit/s tale attenuazione deve essere maggiore o ugale di 14 dB nella banda di frequenze 35,2 (compreso) 1160 kHz;
+
+                            
+                        
+                        
+                            f)
+                            
+                                impulsi positivi e negativi: debbono rispettare le maschere di cui alle allegate figure 2, 3, 4 valide per livello nominale di picco 3 V su 120 ohm o 2,37 V su 75 ohm.
 
 Le apparecchiature devono essere dotate di un dispositivo, operante sul segnale di banda base, che renda casuale la sequenza di bit in trasmissione e che ripristini la sequenza originaria di bit in ricezione (scrambler/descrambler).
 
@@ -78,7 +177,69 @@ Durante l'esecuzione delle prove, l'alimentazione delle apparecchiature deve ess
 
 Le prove devono essere eseguite dopo che gli apparati, sistemati nella camera climatica, alimentati e funzionanti, abbiano raggiunto l'equilibrio termico ed il prescritto tasso di umidita'.
 
+3.
+                    
+                        
+                            Durante l'esecuzione delle prove, in condizioni normali, i valori di temperatura ed umidita' devono essere:
+ 
+                        
+                        
+                            a)
+                            
+                                per apparecchiature da interno:
+ 
+ Ur
+ T (umidita' relativa) - -
++ 5 C . . . . . . . . . . . . . . . . . . . . 85%
++ 30 C . . . . . . . . . . . . . . . . . . . . 85%
++ 40 C . . . . . . . . . . . . . . . . . . . . 45%
+ 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per apparecchiature da esterno:
+ 
+ Ur
+ T (umidita' relativa) - -
+- 20 C . . . . . . . . . . . . . . . . . . . . -
++ 30 C . . . . . . . . . . . . . . . . . . . . 85%
++ 40 C . . . . . . . . . . . . . . . . . . . . 45%
+
 Le apparecchiature alimentate in corrente alternata devono sopportare una tensione di prova compresa in uno scarto di (Piu' o Meno) 10% dalla tensione nominale, mentre la frequenza di rete deve essere compresa tra 48 e 52 Hz. Se l'alimentazione e' in corrente continua le tensioni di prova devono poter variare entro lo 0,85 e l'1,20 della tensione nominale della batteria. Per apparecchiature che usano altre sorgenti di alimentazione, ovvero sono in grado di funzionare con piu' tipi di alimentazione, le tensioni di prova devono essere quelle indicate dal costruttore ed accettate dall'autorita' che procede all'esecuzione delle prove. Devono essere, inoltre, esplicitamente precisate nel resoconto delle misure.
+
+5.
+                    
+                        
+                            Durante l'esecuzione delle prove, in condizioni estreme, i valori di temperatura ed umidita' devono essere:
+ 
+                        
+                        
+                            a)
+                            
+                                per apparecchiature da interno:
+ 
+ Ur
+ T (umidita' relativa) - -
+- 5 C . . . . . . . . . . . . . . . . . . . . -
++ 30 C . . . . . . . . . . . . . . . . . . . . 90%
++ 45 C . . . . . . . . . . . . . . . . . . . . 50%
+ 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per apparecchiature da esterno:
+ 
+ Ur
+ T (umidita' relativa) - -
+- 30 C . . . . . . . . . . . . . . . . . . . . -
++ 30 C . . . . . . . . . . . . . . . . . . . . 90%
++ 50 C . . . . . . . . . . . . . . . . . . . . 50%
 
 ## Art. 10. — Trasmettitore
 
@@ -117,4 +278,14 @@ Le irradiazioni parassite sono espresse attraverso la potenza di ciascuna compon
  2. Il valore di attuazione del segnale a polarizzazione incrociata (XPD), nella direzione assiale dell'antenna, deve essere maggiore di 25 dB.
 
 ## Art. 13. — Circolazione delle apparecchiature
+
+1.
+                    
+                        
+                            Ai fini della libera circolazione delle apparecchiature, oggetto delle presenti regole tecniche, nell'ambito dei Paesi della Comunita' europea, vengono accettati i certificati di conformita' basati su specifiche nazionali di un altro Stato membro, o su parti di tali specifiche, per la parte compatibile con le presenti regole. Le prove di conformita' alle regole vengono riconosciute se effettuate in uno qualsiasi degli Stati membri della Comunita'. Le apparecchiature fabbricate o commercializzate legalmente negli altri Stati membri della Comunita' vanno considerate equivalenti a quelle nazionali se rispettano le presenti regole. Per le apparecchiature corredate da certificati di conformita' o di omologazione per prescrizioni difformi da quelle riportate nelle presenti regole, sono effettuate in Italia le sole prove non coperte da detti certificati. La documentazione a corredo delle apparecchiature puo' essere redatta in lingua italiana o in lingua francese, inglese, spagnola, eccetto che per il manuale di cui al punto 
+                        
+                        
+                            a)
+                            
+                                dell'art. 2, comma 2, per il quale si richiede la lingua italiana.
 

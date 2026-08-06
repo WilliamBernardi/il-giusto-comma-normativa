@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2018-06-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -40,6 +40,31 @@ I corsi preordinati al rilascio dei titoli di cui al comma 2 si concludono con u
 
 ## Art. 3. — Requisiti delle istituzioni formative pubbliche
  o private abilitate al rilascio
+
+1.
+                    
+                        
+                            Le istituzioni formative pubbliche o private, ai fini del riconoscimento dei titoli previsti dall'articolo 2, comma 2, devono essere in possesso dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                esperienza decennale in corsi di formazione manageriale e di scienza dell'amministrazione nonche' nel campo della formazione in generale. Tale esperienza deve essere comprensiva di almeno un quinquennio in materia di formazione del personale di pubbliche amministrazioni che preveda una verifica finale concernente argomenti e classi di materie oggetto delle prove di esame del corso-concorso di formazione dirigenziale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elevato livello professionale della docenza caratterizzata dalla presenza di professori universitari di discipline afferenti alle classi di materie oggetto delle prove di esame per l'ammissione al corso-concorso di formazione dirigenziale, ovvero di soggetti che abbiano svolto per almeno un quinquennio funzioni dirigenziali presso strutture pubbliche o private ed attivita' di docenza nelle materie oggetto del corso-concorso di selezione dirigenziale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                possesso di adeguate strutture edilizie, strumentali, didattico scientifiche, nonche' di adeguati servizi per gli studenti.
 
 Per il riconoscimento dei titoli rilasciati da istituzioni formative pubbliche o private straniere, oltre ai requisiti di cui al comma 1, si tiene conto anche della particolare rilevanza scientifica sul piano internazionale.
 

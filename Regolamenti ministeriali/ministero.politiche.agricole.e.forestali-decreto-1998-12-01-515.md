@@ -8,8 +8,8 @@ codice_redazionale: 099G0131
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,6 +38,59 @@ Le associazioni di cui al comma 2 presentano al Ministero per le politiche agric
  - Il comma 3 dell'art. 17 della legge n. 400/1988 prevede che con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Il consorzio, nei limiti della disciplina della pesca vigente in materia, propone al Ministero per le politiche agricole misure tecniche concernenti:
+ 
+                        
+                        
+                            a)
+                            
+                                i quantitativi massimi pescabili da ciascuna impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'uso degli attrezzi consentiti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i periodi di tempo per lo svolgimento di detta attivita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                modificazioni ai punti di sbarco autorizzati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                costituzione di aree di ripopolamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                criteri per l'assegnazione, a partire dal 1 gennaio 2009, di nuove autorizzazioni e per l'assegnazione delle autorizzazioni comunque disponibili, nonche' per la riduzione delle autorizzazioni in eccesso rispetto alle risorse biologiche disponibili;
+
+                            
+                        
+                        
+                            g)
+                            
+                                le altre misure ritenute idonee ad assicurare la gestione razionale delle risorse.
 
 Il consorzio, nei limiti previsti dalla vigente disciplina in materia, comunica alla capitaneria di porto competente per territorio le violazioni accertate e propone le sanzioni per i soci che abbiano violato le norme in materia.
 

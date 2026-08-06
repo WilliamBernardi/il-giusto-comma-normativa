@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2024-10-31;179
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,85 @@ Sulla proposta del Ministro per gli affari europei, il Sud, le politiche di coes
 
 ## Art. 1. — Modifiche all'articolo 1 del decreto 
  legislativo 14 marzo 2005, n. 65
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 14 marzo 2005, n. 65, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo la lettera f), sono inserite le seguenti: 
+ «f-bis) SOLAS 90: la convenzione internazionale per la salvaguardia della vita umana in mare del 1974, cosi' come modificata in ultimo dalla risoluzione MSC.117 (74); 
+ f-ter) SOLAS 2009: la convenzione internazionale per la salvaguardia della vita umana in mare del 1974, cosi' come modificata in ultimo dalla risoluzione MSC.216 (82); 
+ f-quater) SOLAS 2020: la convenzione internazionale per la salvaguardia della vita umana in mare del 1974, cosi' come modificata in ultimo dalla risoluzione MSC.421 (98);»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    la lettera g) e' sostituita dalla seguente: 
+ «g) organismo riconosciuto: l'organismo riconosciuto conformemente al regolamento (CE) n. 391/2009 del Parlamento europeo e del Consiglio, del 23 aprile 2009; per le navi da passeggeri nazionali, si intende l'ente tecnico di cui all'articolo 1, comma 1, lettera bb-sexies), del decreto legislativo 4 febbraio 2000, n. 45);»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    la lettera i) e' sostituita dalla seguente: 
+ «i) nave ro/ro da passeggeri nuova: una nave ro/ro da passeggeri che non sia una nave ro/ro da passeggeri esistente;»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    la lettera l) e' sostituita dalla seguente: 
+ «l) nave ro/ro da passeggeri esistente: una nave ro/ro da passeggeri la cui chiglia sia stata impostata o che si trovi a un equivalente stadio di costruzione prima del 5 dicembre 2024; per equivalente stadio di costruzione si intende lo stadio in cui: 
+ 1) ha avuto inizio la costruzione di una nave specifica ben identificabile; 
+ 2) l'assemblaggio di quella determinata nave comprende almeno 50 tonnellate o l'uno per cento della massa stimata del materiale strutturale, assumendo il minore di questi due valori;»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    dopo la lettera m), e' inserita la seguente: 
+ «m-bis) requisiti specifici di stabilita': i requisiti di stabilita' di cui all'articolo 5;»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    la lettera n) e' sostituita dalla seguente: 
+ «n) servizio di linea: una serie di collegamenti marittimi effettuati da navi ro-ro da passeggeri attraverso i quali si realizza un servizio tra gli stessi due o piu' porti, oppure una serie di viaggi da e verso lo stesso porto senza scali intermedi in base a un orario pubblicato oppure con collegamenti tanto regolari o frequenti da costituire una serie sistematica evidente;»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    la lettera o) e' sostituita dalla seguente: 
+ «o) societa': l'armatore della nave ro/ro da passeggeri o qualsiasi altra persona fisica o giuridica, quali il gestore o il noleggiatore a scafo nudo, che hanno assunto dall'armatore la responsabilita' dell'esercizio della nave;»;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    alla lettera p), le parole: «Stato ospite» sono sostituite dalle seguenti: «Stato di approdo».
 
 ## Art. 2. — Modifiche all'articolo 2 del decreto legislativo 14 marzo 2005, n. 65
 
@@ -64,6 +143,34 @@ L'articolo 7 del decreto legislativo 14 marzo 2005, n. 65, e' sostituito dal seg
 
 ## Art. 7. — Modifiche all'articolo 8 del decreto legislativo 14 marzo 2005, n. 65
 
+1.
+                    
+                        
+                            All'articolo 8 del decreto legislativo 14 marzo 2005, n. 65, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole: «L'armatore o l'esercente» sono sostituite dalle seguenti: «La societa'», le parole: «deve comunicare» sono sostituite dalle seguenti: «deve notificare» e le parole: «all'articolo 7, comma 2, del decreto legislativo 2 febbraio 2001, n. 28» sono sostituite dalle seguenti: «all'articolo 4, comma 4, del decreto legislativo 22 aprile 2020, n. 37 e all'allegato XV, punto 1.3, al decreto legislativo 24 marzo 2011, n. 53»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole: «L'armatore o l'esercente» sono sostituite dalle seguenti: «La societa'» e le parole: «deve informare la» sono sostituite dalle seguenti: «deve inoltrare notifica alla»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, le parole: «Qualora il servizio» sono sostituite dalle seguenti: «Per le navi ro/ro da passeggeri conformi ai requisiti specifici di cui all'allegato I, sezione A, qualora il servizio» e dopo le parole: «in applicazione dei requisiti specifici di stabilita' di cui all'allegato I» sono inserite le seguenti: «, sezione A».
+
 ## Art. 8. — Modifiche all'articolo 9 del decreto legislativo 14 marzo 2005, n. 65
 
 All'articolo 9, comma 1, del decreto legislativo 14 marzo 2005, n. 65, le parole: «adottate con la procedura di cui all'articolo 11 della direttiva 2003/25/CE
@@ -77,7 +184,106 @@ All'articolo 10, comma 1, del decreto legislativo 14 marzo 2005, n. 65, le parol
 
 ## Art. 10. — Modifiche all'allegato I al decreto legislativo 14 marzo 2005, n. 65
 
+1.
+                    
+                        
+                            All'allegato I al decreto legislativo 14 marzo 2005, n. 65, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il titolo, sono inserite le seguenti parole: 
+ «Sezione A 
+ Ai fini della presente sezione A, i riferimenti alle regole della convenzione SOLAS si intendono fatti a tali regole cosi' come applicate ai sensi della SOLAS 90.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al punto 1, le parole: «le navi ro/ro da passeggeri di cui all'articolo 2.1, devono rispettare i requisiti del presente allegato» sono sostituite dalle seguenti: «, devono essere rispettati i requisiti della presente sezione»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il punto 4, e' inserita la seguente sezione: 
+ «Sezione B 
+ I requisiti del capitolo II-1, parte B, della SOLAS 2020 devono essere rispettati. Tuttavia, in deroga alla regola II-1/B/6.2.3 della SOLAS 2020, l'indice di compartimentazione richiesto R deve essere determinato come segue: 
+ 
+                                
+                                    
+                                        
+                                            Persone a bordo (N)  
+                                        
+                                        
+                                             Indice di compartimentazione (R)  
+                                        
+                                    
+                                    
+                                        
+                                            N < 1 000  
+                                        
+                                        
+                                            R = 0,000088 * N + 0,7488  
+                                        
+                                    
+                                    
+                                        
+                                            1 000 ≤ N ≤ 1 350  
+                                        
+                                        
+                                             R = 0,0369 * ln (N + 89,048) + 0,579  
+                                        
+                                    
+                                
+                                
+ 
+ in cui: 
+ N = Numero totale di persone a bordo.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le parole: «ente tecnico», ovunque ricorrono, sono sostituite dalle seguenti: «organismo riconosciuto»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'appendice, punto 6.1, le parole: «per le navi straniere e l'ente tecnico della nave per le navi italiane» sono soppresse.
+
 ## Art. 11. — Modifiche all'allegato II al decreto legislativo 14 marzo 2005, n. 65
+
+1.
+                    
+                        
+                            All'allegato II al decreto legislativo 14 marzo 2005, n. 65, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «Allegato II (previsto dagli articoli 5, commi 3 e 7; comma 5)» sono sostituite dalle seguenti: «Allegato II (previsto dall'articolo 5, comma 5)»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella parte I, al primo capoverso, sono aggiunte, in fine, le seguenti parole: «, sezione A»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le parole: «ente tecnico», ovunque ricorrono, sono sostituite dalle seguenti: «organismo riconosciuto».
 
 ## Art. 12. — Allegato II-bis al decreto legislativo 14 marzo 2005, n. 65
 
@@ -85,6 +291,29 @@ Al decreto legislativo 14 marzo 2005, n. 65, dopo l'allegato II, e' aggiunto l'a
 
 ## Art. 13. — Modifiche all'articolo 4-bis 
  del decreto legislativo 4 febbraio 2000, n. 45
+
+1.
+                    
+                        
+                            All'articolo 4-bis del decreto legislativo 4 febbraio 2000, n. 45, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, sono aggiunte, in fine, le seguenti parole: «, come modificati dal decreto legislativo di recepimento della direttiva (UE) 2023/936 del Parlamento europeo e del Consiglio, del 10 maggio 2023
+                                        »;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 1, e' inserito il seguente: 
+ «1-bis. Nel corso delle ispezioni di cui all'articolo 3 del decreto legislativo 22 aprile 2020, n. 37, l'autorita' marittima accerta che le navi ro/ro da passeggeri battenti bandiera italiana, prima di essere adibite a viaggi nell'ambito di servizi di linea nel tratto di mare A di cui all'articolo 3, comma 1, lettera a), del presente decreto, siano pienamente conformi ai requisiti di cui all'articolo 5 del decreto legislativo 14 marzo 2005, n. 65.
+Nell'effettuare la verifica di cui al presente comma, l'autorita' marittima, riconosce i certificati rilasciati dall'amministrazione dello Stato di bandiera di altri Stati membri ai fini dell'applicazione dei requisiti specifici di stabilita' previsti dall'articolo 5 del decreto legislativo n. 65 del 2005 e dall'allegato I al medesimo decreto.».
 
 ## Art. 14. — Clausola di invarianza finanziaria
 

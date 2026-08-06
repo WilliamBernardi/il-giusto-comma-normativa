@@ -8,8 +8,8 @@ codice_redazionale: 089G0410
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,32 @@ Udito il parere del Consiglio di Stato reso nell'adunanza generale del 21 settem
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto i limiti massimi generali di velocita' sono cosi' stabiliti:
+ 
+                        
+                        
+                            a)
+                            
+                                sulle strade statali, provinciali o comunali esterne agli
+ abitati per tutti gli autoveicoli e motoveicoli: 90 chilometri orari;
+                            
+                        
+                        
+                            b)
+                            
+                                sulle autostrade per gli autoveicoli di cilindrata inferiore a
+1.100 centimetri cubici e per i motoveicoli con cilindrata compresa tra 150 centimetri cubici e 349 centimetri cubici: 110 chilometri orari;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sulle autostrade per gli autoveicoli di cilindrata uguale o superiore a 1.100 centimetri cubici e per i motoveicoli di cilindrata superiore a 349 centimetri cubici: 130 chilometri orari.
+
 ## Art. 2.
 
 Gli enti proprietari possono elevare il limite generale di velocita' fino ai valori massimi di 110 e 130 chilometri orari rispettivamente per i veicoli di cui all'art. 1, lettere b) e c), purche' il limite sia indicato mediante i prescritti segnali sulle strade e tratti di strade di cui all'art. 1, lettera a), che posseggano le seguenti caratteristiche:
@@ -44,6 +70,32 @@ Nelle strade interne agli abitati, ove l'ente proprietario si sia avvalso della 
 Restano valide tutte le altre limitazioni di velocita' piu' restrittive per particolari categorie di veicoli imposte da provvedimenti e disposizioni vigenti, e quelle indicate localmente o su tratti particolari mediante i prescritti segnali.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            I segnali indicativi dei limiti di velocita' sono contenuti in cartelli con fondo interamente rifrangente di forma rettangolare, di dimensioni normali di cm 200 x 380 e ridotte di cm 130 x 240 secondo il modello descritto nella figura 1 allegata al presente decreto.
+Tali cartelli devono essere disposti, a cura dei rispettivi enti proprietari, gestori o concessionari dei luoghi di impianto, nel modo seguente:
+ 
+                        
+                        
+                            a)
+                            
+                                posti di frontiera stradali: dimensioni normali, o ridotte in caso di necessita', rivolti verso i veicoli che entrano in Italia, collocati nel punto in cui, ultimate le formalita' di ingresso, inizia la strada o l'autostrada in territorio italiano;
+
+                            
+                        
+                        
+                            b)
+                            
+                                porti ed aeroporti: dimensioni normali, oppure ridotte in caso di necessita', collocati all'uscita dell'area portuale od aeroportuale, nel punto di ingresso nella viabilita' normale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                terminali Ferrovie dello Stato "auto al seguito", "auto + treno": dimensioni ridotte, posti all'uscita delle pertinenze ferroviarie e nel punto di immissione nella viabilita' urbana.
 
 Gli enti cui spetta l'apposizione dei segnali di cui sopra devono provvedervi entro quindici giorni dalla data di pubblicazione del presente decreto, sostituendo i cartelli installati in precedenza.
 

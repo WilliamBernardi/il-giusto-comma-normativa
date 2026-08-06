@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2003-09-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -65,6 +65,92 @@ Il biodiesel tal quale e le miscele gasoliobiodiesel con contenuto in biodiesel 
 
 ## Art. 3. — Procedura per la partecipazione al progetto pilota
 
+1.
+                    
+                        
+                            Sono ammesse a partecipare al progetto pilota, mediante l'assegnazione di quantitativi esenti dall'accisa entro il limite massimo annuale previsto dall'articolo 21, comma 6, del decreto legislativo 26 ottobre 1995, n. 504, ditte titolari di impianti nazionali o esteri che producono ed immettono in consumo biodiesel.
+Le ditte che intendono partecipare alla suddetta assegnazione devono presentare, entro il 5 giugno di ogni anno, al Ministero delle finanze - Dipartimento delle dogane e delle imposte indirette - Direzione centrale dell'imposizione indiretta sulla produzione e sui consumi, apposita istanza con le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                generalita' della ditta e del legale rappresentante, partita IVA, codice fiscale e codice accisa, localita' dell'impianto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                quantita' di biodiesel richiesta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                estremi del decreto di concessione rilasciato dal Ministero dell'industria, del commercio e dell'artigianato. Per gli impianti ubicati negli altri Paesi, estremi dei provvedimenti rilasciati dalle competenti autorita' ai fini dell'esercizio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                capacita' produttiva annua degli impianti quale risulta dal decreto di concessione o, per gli impianti in possesso della autorizzazione provvisoria all'esercizio, dalla verifica effettuata dall'ufficio tecnico di finanza, d'ora in avanti indicato con la sigla "UTF", competente per territorio. Per gli impianti situati negli altri Paesi, la capacita' produttiva e' quella risultante dai provvedimenti rilasciati ai fini dell'esercizio, anche provvisorio, delle competenti autorita' nazionali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                estremi della licenza di deposito fiscale e della denuncia di impiego del metanolo vidimata dall'UTF;
+
+                            
+                        
+                        
+                            f)
+                            
+                                dichiarazione di conformita' delle caratteristiche merceologiche del biodiesel a quelle previste dalle vigenti norme dell'Ente nazionale italiano di unificazione - UNI;
+
+                            
+                        
+                        
+                            g)
+                            
+                                dichiarazione delle quantita' di biodiesel immesse in consumo nell'annualita' precedente e in quella in corso fino al 31 maggio.
+
+2.
+                    
+                        
+                            All'istanza sono allegati:
+ 
+                        
+                        
+                            a)
+                            
+                                copia dei documenti indicati nelle lettere c) ed e) del comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia del verbale di verifica dell'UTF, per la capacita' produttiva che non risulta dal decreto di concessione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                certificato di analisi rilasciato dalla stazione sperimentale combustibili o dalla stazione sperimentale oli e grassi, relativo all'annualita' in corso, dal quale risulti la conformita' delle caratteristiche merceologiche di cui alla lettera f) del comma 1. Per gli impianti situati negli altri Paesi, tale certificato viene rilasciato dall'autorita' competente, preventivamente comunicata all'Italia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificazione del competente ufficio finanziario per le immissioni in consumo dichiarate. Tale certificazione puo' essere inviata anche successivamente alla presentazione della domanda ma comunque non oltre il decimo giorno.
+
 Le disposizioni del presente articolo si applicano anche alle imprese estere di produzione di biodiesel con obbligo di presentare documentazione equivalente a quella prescritta per le ditte nazionali.
 
 Entro il mese di luglio di ciascun anno le ditte assegnatarie presentano al Ministero delle finanze, al Ministero dell'industria, del commercio e dell'artigianato ed al Ministero per le politiche agricole, una relazione a consuntivo, dalla quale risultino la provenienza e la natura degli oli vegetali utilizzati, i quantitativi di biodiesel prodotti su base annua, la destinazione dei sottoprodotti di lavorazione, la destinazione d'uso del biodiesel ed i mercati di riferimento; per il biodiesel utilizzato per autotrazione, tal quale o in miscela con gasolio secondo le modalita' indicate nell'articolo 2, comma 4, sono fornite, a richiesta delle amministrazioni competenti, tutte le informazioni necessarie per l'accertamento della regolarita' di tale impiego.
@@ -72,6 +158,24 @@ Entro il mese di luglio di ciascun anno le ditte assegnatarie presentano al Mini
 Per l'anno 1998 il termine di cui al comma 1 scade il ventesimo giorno successivo a quello della pubblicazione, anche per estratto, delle presenti norme nella Gazzetta Ufficiale delle Comunita' europee.
 
 ## Art. 4. — Criteri di assegnazione
+
+1.
+                    
+                        
+                            Nel caso in cui i quantitativi complessivamente richiesti dai soggetti di cui all'articolo 3, comma 1, non superano il previsto limite annuo, si procede alla loro assegnazione integrale. Nel caso in cui i quantitativi richiesti eccedono il suddetto limite, l'assegnazione e' effettuata con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                nella prima annualita' di eccedenza, trasformando, per ciascun soggetto richiedente, i quantitativi di biodiesel di cui all'articolo 3, comma 1, lettera g), espressi in tonnellate, nonche' la capacita' produttiva di cui all'articolo 3, comma 1, lettera d), pure espressa in tonnellate, in percentuale sui valori totali e moltiplicandoli, rispettivamente, per 0,6 e 0,4. La somma dei valori ottenuti viene moltiplicata per un fattore pari al grado di utilizzo, nella annualita' precedente e in quella in corso fino al 31 maggio, delle quote assegnate nelle due annualita'. Per gli impianti di nuova installazione e per il primo anno di attivita', i suddetti coefficienti sono pari, rispettivamente, a zero e 0,1. Il valore ottenuto costituisce il peso con cui ogni richiedente partecipa all'assegnazione del contingente. Nel caso in cui con il suddetto calcolo sia determinata un'assegnazione superiore alla richiesta, il quantitativo eccedente la richiesta stessa verra' ripartito tra i restanti richiedenti, con il medesimo criterio.
+
+                            
+                        
+                        
+                            b)
+                            
+                                nelle annualita' successive, assegnando, a ciascuna ditta richiedente, un quantitativo pari alla media mensile dei quantitativi immessi in consumo nell'annualita' precedente e in quella in corso fino al 31 maggio, moltiplicata per il coefficiente 11,5. Le eventuali quote residue sono assegnate utilizzando i criteri di cui alla lettera a). Se sono presentate istanze di partecipazione da parte di ditte che non hanno avuto l'assegnazione per l'anno precedente, i quantitativi richiesti, eventualmente corretti applicando i criteri di cui alla lettera a), sono assegnati utilizzando, in via prioritaria, le predette quote residue e, se necessario, riducendo le assegnazioni in essere in misura proporzionale.
 
 L'assegnazione delle quantita' e' effettuata entro il mese di giugno di ogni anno; per la prima annualita' essa e' effettuata entro il trentesimo giorno successivo alla scadenza del termine di cui all'articolo 3, comma 5. Non sono prese in considerazione le istanze presentate o inoltrate dopo il termine stabilito. Sono escluse dall'assegnazione le ditte che, seppure invitate dall'amministrazione finanziaria, non hanno provveduto a regolarizzare eventuali istanze risultate incomplete o prive della prescritta documentazione. Le quantita' assegnate non possono essere cedute e quelle non utilizzate non possono essere riassegnate.
 

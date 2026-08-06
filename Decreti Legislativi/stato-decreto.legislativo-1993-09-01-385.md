@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,352 @@ Acquisito il parere delle competenti commissioni permanenti della Camera dei dep
 Sulla proposta del Ministro dell'economia e delle finanze, di concerto con i Ministri di grazia e giustizia, delle finanze, dell'industria, del commercio e dell'artigianato, per il coordinamento delle politiche agricole, alimentari e forestali e per il coordinamento delle politiche comunitarie e gli affari regionali;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Nel presente decreto legislativo l'espressione: 
+ 
+                        
+                        
+                            a)
+                            
+                                "autorita' creditizie" indica il Comitato interministeriale per il credito e il risparmio, il Ministro dell'economia e delle finanze e la Banca d'Italia; 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                «autorita' di risoluzione» indica la Banca d'Italia o il Comitato di Risoluzione Unico stabilito dal regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio, nell'ambito del riparto di competenze definite dal medesimo regolamento, nonche' un'autorita' non italiana deputata allo svolgimento delle funzioni di risoluzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "banca" indica l'impresa autorizzata all'esercizio dell'attivita' bancaria; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                «BCE» indica la Banca centrale europea; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "CICR" indica il Comitato interministeriale per il credito e il risparmio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "CONSOB" indica la Commissione nazionale per le societa' e la borsa; 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                "COVIP" indica la commissione di vigilanza sui fondi pensione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "IVASS" indica l'Istituto per la vigilanza sulle assicurazioni; 
+
+                            
+                        
+                        
+                            e-bis)
+                            
+                                "MVU" indica il Meccanismo di vigilanza unica, ossia il sistema di vigilanza finanziaria composto dalla BCE e dalle autorita' nazionali competenti degli Stati membri che vi partecipano; 
+
+                            
+                        
+                        
+                            e-ter)
+                            
+                                "Disposizioni del MVU" indica il regolamento (UE) n. 1024/2013 e le relative misure di esecuzione; 
+
+                            
+                        
+                        
+                            e-quater)
+                            
+                                «UIF» indica l'Unita' di informazione finanziaria per l'Italia di cui all'articolo 6 del decreto legislativo 21 novembre 2007, n. 231; 
+
+                            
+                        
+                        
+                            e-quinquies)
+                            
+                                «MRU»: indica il Meccanismo di risoluzione unico, ossia il sistema di risoluzione istituito ai sensi del regolamento (UE) n. 806/2014, del Parlamento europeo e del Consiglio, composto dal Comitato di Risoluzione Unico e dalle autorita' nazionali di risoluzione degli Stati membri che vi partecipano; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "Stato dell'Unione europea" indica lo Stato membro dell'Unione europea; 
+
+                            
+                        
+                        
+                            g-bis)
+                            
+                                "Stato di origine" indica lo Stato dell'Unione europea in cui la banca, l'IMEL o l'IP e' stato autorizzato all'esercizio dell'attivita'; 
+
+                            
+                        
+                        
+                            g-ter)
+                            
+                                "Stato ospitante" indica lo Stato dell'Unione europea nel quale la banca, l'IMEL o l'IP ha una succursale o presta servizi; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Stato terzo» indica lo Stato non membro dell'Unione europea; 
+
+                            
+                        
+                        
+                            h-bis)
+                            
+                                "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
+ 1) "ABE": Autorita' bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 2) "AEAP": Autorita' europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 3) "AESFEM": Autorita' europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
+ 4) "Comitato congiunto": il Comitato congiunto delle Autorita' europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
+ 5) "CERS": Comitato europeo per il rischio sistemico, istituito dal regolamento (UE) n. 1092/2010; 
+ 6) "Autorita' di vigilanza degli Stati membri": le autorita' competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010; 
+
+                            
+                        
+                        
+                            h-ter)
+                            
+                                "Stato partecipante al MVU" indica uno Stato dell'Unione europea la cui moneta e' l'euro o che abbia instaurato una cooperazione stretta con la BCE a norma delle disposizioni del MVU; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                "legge fallimentare" indica il regio decreto 16 marzo 1942, n. 267. 
+
+                            
+                        
+                        
+                            l)
+                            
+                                "autorita' competenti" indica, a seconda dei casi, uno o piu' fra le autorita' di vigilanza sulle banche, sulle imprese di investimento, sugli organismi di investimento collettivo del risparmio, sulle imprese di assicurazione e sui mercati finanziari. 
+
+                            
+                        
+                        
+                            l-bis)
+                            
+                                «autorita' antiriciclaggio» indica le autorita' responsabili della vigilanza sui soggetti obbligati di cui all'articolo 2, paragrafo 1, punti 1 e 2, della direttiva (UE) 2015/849, ai fini del rispetto degli obblighi previsti dalla medesima direttiva; 
+
+                            
+                        
+                        
+                            l-ter)
+                            
+                                «autorita' di vigilanza su base consolidata» indica l'autorita' di vigilanza su base consolidata come definita all'articolo 4, paragrafo 1, punto 41, del regolamento (UE) n. 575/2013; 
+ m)LETTERA SOPPRESSA DAL D.LGS. 12 MAGGIO 2015, N. 72.
+
+2.
+                    
+                        
+                            Nel presente decreto legislativo si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "banca italiana": la banca avente sede legale in Italia; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "banca dell'Unione europea": la banca avente sede legale e amministrazione centrale in un medesimo Stato dell'Unione europea diverso dall'Italia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    (("banca di Stato terzo": ogni impresa avente sede legale in uno Stato terzo in cui e' autorizzata a prestare una o piu' attivita' per le quali, se fosse stabilita in Italia, dovrebbe essere autorizzata ai sensi dell'articolo 14 o dell'articolo 20-bis.1 del decreto legislativo 24 febbraio 1998, n. 58;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                "soggetto significativo": i soggetti definiti dall'articolo 2, n. 16, del regolamento (UE) n. 468/2014, sui quali la BCE esercita la vigilanza diretta in conformita' delle disposizioni del MVU; 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                "soggetto meno significativo": i soggetti, sottoposti a vigilanza nell'ambito del MVU, diversi da quelli di cui alla lettera d); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "succursale": una sede che costituisce una parte, sprovvista di personalita' giuridica, di una banca, un istituto di moneta elettronica o un istituto di pagamento, e che effettua direttamente, in tutto o in parte, l'attivita' a cui la banca o l'istituto e' stato autorizzato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "attivita' ammesse al mutuo riconoscimento": le attivita' di: 
+ 1) raccolta di depositi o di altri fondi con obbligo di restituzione; 
+ 2) operazioni di prestito (compreso in particolare il credito al consumo, il credito con garanzia ipotecaria, il factoring, le cessioni di credito pro soluto e pro solvendo, il credito commerciale incluso il "forfaiting"); 
+ 3) leasing finanziario; 
+ 4) prestazione di servizi di pagamento. 
+ 5) emissione e gestione di mezzi di pagamento ("travellers cheques", lettere di credito), nella misura in cui quest'attivita' non rientra nel punto 4; 
+ 6) rilascio di garanzie e di impegni di firma; 
+ 7) operazioni per proprio conto o per conto della clientela in: 
+ - strumenti di mercato monetario (assegni, cambiali, certificati di deposito, ecc.); 
+ - cambi; 
+ - strumenti finanziari a termine e opzioni; 
+ - contratti su tassi di cambio e tassi d'interesse; 
+ - valori mobiliari; 
+ 8) partecipazione alle emissioni di titoli e prestazioni di servizi connessi; 
+ 9) consulenza alle imprese in materia di struttura finanziaria, di strategia industriale e di questioni connesse, nonche' consulenza e servizi nel campo delle concentrazioni e del rilievo di imprese; 
+ 10) servizi di intermediazione finanziaria del tipo "money broking"; 
+ 11) gestione o consulenza nella gestione di patrimoni; 
+ 12) custodia e amministrazione di valori mobiliari; 
+ 13) servizi di informazione commerciale; 
+ 14) locazione di cassette di sicurezza; 
+ 15) altre attivita' che, in virtu' delle misure di adattamento assunte dalle autorita' dell'Unione europea, sono aggiunte all'elenco allegato alla seconda direttiva in materia creditizia del Consiglio delle Comunita' europee n. 89/646/CEE del 15 dicembre 1989; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "intermediari finanziari": i soggetti iscritti nell'elenco previsto dall'art. 106. 
+
+                            
+                        
+                        
+                            h)
+                            
+                                "stretti legami": i rapporti tra una banca e un soggetto italiano o estero che: 
+ 1) controlla la banca; 
+ 2) e' controllato dalla banca; 
+ 3) e' controllato dallo stesso soggetto che controlla la banca; 
+ 4) partecipa al capitale della banca in misura pari almeno al 20% del capitale con diritto di voto; 
+ 5) e' partecipato dalla banca in misura pari almeno al 20% del capitale con diritto di voto. 
+
+                            
+                        
+                        
+                            h-bis)
+                            
+                                "istituti di moneta elettronica": le imprese, diverse dalle banche, che emettono moneta elettronica; 
+ h-bis.1) "istituti di moneta elettronica dell'Unione europea": gli istituti di moneta elettronica aventi sede legale e amministrazione centrale in uno stesso Stato dell'Unione europea diverso dall'Italia; 
+
+                            
+                        
+                        
+                            h-ter)
+                            
+                                'moneta elettronica': il valore monetario memorizzato elettronicamente, ivi inclusa la memorizzazione magnetica, rappresentato da un credito nei confronti dell'emittente che sia emesso per effettuare operazioni di pagamento come definite all'articolo 1, comma 1, lettera c), del decreto legislativo 27 gennaio 2010, n. 11, e che sia accettato da persone fisiche e giuridiche diverse dall'emittente. Non costituisce moneta elettronica: 
+ 1) il valore monetario memorizzato sugli strumenti previsti dall'articolo 2, comma 2, lettera m), del decreto legislativo 27 gennaio 2010, n. 11; 
+ 2) il valore monetario utilizzato per le operazioni di pagamento previste dall'articolo 2, comma 2, lettera n), del decreto legislativo 27 gennaio 2010, n. 11. 
+
+                            
+                        
+                        
+                            h-quater)
+                            
+                                'partecipazioni': le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque i diritti previsti dall'articolo 2351, ultimo comma, del codice civile; 
+
+                            
+                        
+                        
+                            h-quinquies)
+                            
+                                LETTERA SOPPRESSA DAL D.LGS. 27 GENNAIO 2010, N. 21. 
+
+                            
+                        
+                        
+                            h-sexies)
+                            
+                                'istituti di pagamento:' le imprese, diverse dalle banche e dagli istituti di moneta elettronica, autorizzate a prestare i servizi di pagamento; 
+
+                            
+                        
+                        
+                            h-septies)
+                            
+                                'istituti di pagamento dell'Unione europea': gli istituti di pagamento aventi sede legale e amministrazione centrale in uno stesso Stato dell'Unione europea diverso dall'Italia; 
+ h-septies.1) "servizi di pagamento": le seguenti attivita': 
+ 1) servizi che permettono di depositare il contante su un conto di pagamento nonche' tutte le operazioni richieste per la gestione di un conto di pagamento; 
+ 2) servizi che permettono prelievi in contante da un conto di pagamento nonche' tutte le operazioni richieste per la gestione di un conto di pagamento; 
+ 3) esecuzione di operazioni di pagamento, incluso il trasferimento di fondi su un conto di pagamento presso il prestatore di servizi di pagamento dell'utilizzatore o presso un altro prestatore di servizi di pagamento: 
+ 3.1) esecuzione di addebiti diretti, inclusi gli addebiti diretti una tantum; 
+ 3.2) esecuzione di operazioni di pagamento mediante carte di pagamento o dispositivi analoghi; 
+ 3.3) esecuzione di bonifici, inclusi gli ordini permanenti; 
+ 4) esecuzione di operazioni di pagamento quando i fondi rientrano in una linea di credito accordata ad un utilizzatore di servizi di pagamento: 
+ 4.1) esecuzione di addebiti diretti, inclusi gli addebiti diretti una tantum; 
+ 4.2) esecuzione di operazioni di pagamento mediante carte di pagamento o dispositivi analoghi; 
+ 4.3) esecuzione di bonifici, inclusi gli ordini permanenti; 
+ 5) emissione di strumenti di pagamento e/o convenzionamento di operazioni di pagamento; 
+ 6) rimessa di denaro; 
+ 7) servizi di disposizione di ordini di pagamento; 
+ 8) servizi di informazione sui conti; 
+
+                            
+                        
+                        
+                            h-octies)
+                            
+                                LETTERA ABROGATA DAL D.LGS. 15 DICEMBRE 2017, N. 218; 
+
+                            
+                        
+                        
+                            h-novies)
+                            
+                                "personale": i dipendenti e coloro che comunque operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione aziendale, anche in forma diversa dal rapporto di lavoro subordinato. 
+
+                            
+                        
+                        
+                            i)
+                            
+                                "punto di contatto centrale": il soggetto o la struttura designato dalle banche, dagli istituti di moneta elettronica o dagli istituti di pagamento dell'Unione europea che operano sul territorio della Repubblica in regime di diritto di stabilimento, senza succursale, tramite gli agenti di cui all'articolo 128-quater;
 
 La Banca d'Italia, puo' ulteriormente qualificare la definizione di stretti legami prevista dal comma 2, lettera h), al fine di evitare situazioni di ostacolo all'effettivo esercizio delle funzioni di vigilanza.
 
@@ -100,6 +446,52 @@ Nei casi e nei modi previsti dalle disposizioni dell'Unione europea, la Banca d'
 
 Nelle materie disciplinate dalle disposizioni del MVU, i poteri attribuiti alla Banca d'Italia dal presente decreto sono esercitati dalla Banca d'Italia stessa nei limiti e secondo le modalita' stabilite dalle disposizioni del MVU che disciplinano l'esercizio di compiti di vigilanza sulle banche prevedendo, tra l'altro, differenti modalita' di cooperazione tra la BCE e le autorita' nazionali per i soggetti significativi e per quelli meno significativi.
 
+2.
+                        
+                            
+                                Ai sensi del comma 1, la Banca d'Italia, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    formula alla BCE proposte per l'adozione dei provvedimenti di autorizzazione e revoca all'esercizio dell'attivita' bancaria ai sensi dell'articolo 14 e di autorizzazione all'acquisto di partecipazioni ai sensi dell'articolo 19; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce alla BCE tutte le informazioni necessarie per lo svolgimento dei compiti ad essa attribuiti dalle disposizioni del MVU, fermo restando il potere della BCE di ottenere le informazioni dai soggetti vigilati e di condurre ispezioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assiste la BCE nella preparazione e attuazione degli atti relativi ai compiti di vigilanza ad essa attribuiti dalle disposizioni del MVU; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informa la BCE dell'attivita' di vigilanza svolta e dei procedimenti amministrativi avviati, nei casi e secondo le modalita' previsti dalle disposizioni del MVU; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esercita i poteri, non attribuiti in via esclusiva alla BCE, previsti dal presente decreto nelle materie disciplinate dalle disposizioni del MVU, anche su richiesta o dietro istruzioni della BCE, informando quest'ultima delle attivita' svolte in esito alla richiesta; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    esercita i poteri ad essa attribuiti dal presente decreto che non siano attribuiti alla BCE dalle disposizioni del MVU.
+
 Nelle materie inerenti all'esercizio dei compiti attribuiti alla BCE dalle disposizioni del MVU, le sanzioni amministrative previste nel Titolo VIII sono applicate secondo quanto previsto dall'articolo 144-septies.
 
 Ai fini dell'articolo 4, paragrafo 3, del regolamento (UE) n. 1024/2013, si intendono per "legislazione nazionale di recepimento delle direttive europee" e "legislazione nazionale di esercizio delle opzioni previste dai regolamenti europei" le disposizioni nazionali di carattere generale nelle materie disciplinate dalle disposizioni del MVU, incluse quelle adottate, ove previsto dalla legislazione nazionale, dalla Banca d'Italia, per l'attuazione delle direttive dell'Unione europea e per l'esercizio di opzioni rimesse dai regolamenti dell'Unione europea agli Stati membri o alle autorita' competenti o designate negli Stati membri, quando non esercitate dalla BCE.
@@ -174,6 +566,38 @@ Non costituisce raccolta del risparmio tra il pubblico la ricezione di fondi da 
 
 Il CICR stabilisce limiti e criteri, anche con riguardo all'attivita' ed alla forma giuridica del soggetto che acquisisce fondi, in base ai quali non costituisce raccolta del risparmio tra il pubblico quella effettuata presso specifiche categorie individuate in ragione di rapporti societari o di lavoro.
 
+4.
+                        
+                            
+                                Il divieto di raccolta del risparmio tra il pubblico non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli Stati comunitari, agli organismi internazionali ai quali aderiscono uno o piu' Stati comunitari, agli enti pubblici territoriali ai quali la raccolta del risparmio e' consentita in base agli ordinamenti nazionali degli Stati comunitari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli Stati ((terzi)) ed ai soggetti esteri abilitati da speciali disposizioni del diritto italiano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle societa', per la raccolta effettuata ai sensi del codice civile mediante obbligazioni, titoli di debito od altri strumenti finanziari; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle altre ipotesi di raccolta espressamente consentite dalla legge, nel rispetto del principio di tutela del risparmio.
+
 Il CICR determina i criteri per l'individuazione degli strumenti finanziari, comunque denominati, la cui emissione costituisce raccolta del risparmio.
 
 Se non disciplinati dalla legge, il CICR fissa limiti all'emissione e, su proposta formulata dalla Banca d'Italia sentita la CONSOB, puo' determinare durata e taglio degli strumenti finanziari, diversi dalle obbligazioni, utilizzati per la raccolta tra il pubblico.
@@ -209,6 +633,31 @@ La Banca d'Italia disciplina le emissioni da parte delle banche di prestiti subo
 
 ## Art. 12-bis. — (Strumenti di debito chirografario di secondo livello)
 
+1.
+                        
+                            
+                                Sono strumenti di debito chirografario di secondo livello le obbligazioni e gli altri titoli di debito, emessi da una banca ((o da uno degli altri soggetti di cui all'articolo 2 del decreto legislativo 16 novembre 2015, n. 180)), aventi le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la durata originaria degli strumenti di debito e' pari ad almeno dodici mesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli strumenti di debito non sono strumenti finanziari derivati, come definiti dall'articolo 1, ((comma 2-ter)), del testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, non sono collegati a strumenti finanziari derivati, ne' includono caratteristiche ad essi proprie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione contrattuale e, se previsto, il prospetto di offerta o di ammissione a quotazione degli strumenti di debito indicano che il rimborso del capitale e il pagamento degli interessi e di eventuali altri importi dovuti ai titolari sono disciplinati secondo quanto previsto dall'articolo 91, comma 1-bis, lettera c-bis).
+
 L'applicazione dell'articolo 91, comma 1-bis, lettera c-bis), e' subordinata al rispetto delle condizioni di cui al comma 1. Le clausole che prevedono diversamente sono nulle e la loro nullita' non comporta la nullita' del contratto.
 
 Una volta emessi, gli strumenti di debito chirografario di secondo livello non possono essere modificati in maniera tale da far venire meno le caratteristiche indicate al comma 1. E' nulla ogni pattuizione difforme.
@@ -242,11 +691,99 @@ Le banche indicano negli atti e nella corrispondenza l'iscrizione nell'albo.
 
 ## Art. 14. — Autorizzazione all'attivita' bancaria
 
+1.
+                        
+                            
+                                L'autorizzazione all'attivita' bancaria e' rilasciata quando ricorrano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adottata la forma di societa' per azioni o di societa' cooperativa per azioni a responsabilita' limitata; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    la sede legale e la direzione generale siano situate nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il capitale versato sia di ammontare non inferiore a quello determinato dalla Banca d'Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    venga presentato un programma concernente l'attivita' iniziale, unitamente all'atto costitutivo, allo statuto, all'indicazione, se del caso, della capogruppo, delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista appartenenti al gruppo, nonche' alla descrizione dei dispositivi, dei processi e dei meccanismi relativi al governo societario, all'organizzazione amministrativa e contabile, ai controlli interni e ai sistemi di remunerazione e di incentivazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 19 per i titolari delle partecipazioni ivi indicate ovvero, in assenza di questi ultimi, siano comunicati i nomi dei primi venti azionisti e le relative quote di capitale e di diritti di voto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, ai sensi dell'articolo 26; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non sussistano, tra la banca o i soggetti del gruppo di appartenenza e altri soggetti, stretti legami che ostacolino l'effettivo esercizio delle funzioni di vigilanza.
+
 L'autorizzazione e' rilasciata dalla BCE, su proposta della Banca d'Italia; e' negata, dalla Banca d'Italia o dalla BCE, quando dalla verifica delle condizioni indicate nel comma 1 non risulti garantita la sana e prudente gestione.
 
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.
 
 Non si puo' dare corso al procedimento per l'iscrizione nel registro delle imprese se non consti l'autorizzazione del comma 1.
+
+3-bis.
+                        
+                            
+                                La revoca dell'autorizzazione e' disposta dalla BCE, sentita la Banca d'Italia o su proposta di questa, quando sussiste una o piu' delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono venute meno le condizioni in base alle quali l'autorizzazione e' stata rilasciata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorizzazione e' stata ottenuta presentando false dichiarazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' accertata l'interruzione dell'attivita' bancaria per un periodo continuativo superiore a sei mesi ((;))
+                                        ((118))
+                                    
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((e' disposta la liquidazione coatta amministrativa ai sensi dell'articolo 80.))
+                                        ((118))
 
 La revoca dell'autorizzazione e' inoltre disposta dalla BCE, su proposta della Banca d'Italia, nei casi di liquidazione coatta amministrativa ai sensi dell'articolo 80.
 
@@ -267,13 +804,193 @@ La Banca d'Italia emana disposizioni attuative del presente articolo.
 ((Fermo restando quanto previsto dall'articolo 29-ter, comma 6, del decreto legislativo n. 58 del 1998, l'esercizio nel territorio della Repubblica di una o piu' delle attivita' di cui all'articolo 1, comma 2, lettera f), numeri 1), 2) e 6), da parte di una banca di Stato terzo e' soggetto all'obbligo di stabilire una succursale ai sensi del presente articolo.))
                                 ((118))
 
+3.
+                        
+                            
+                                
+                                    ((In deroga al comma 2, le banche di Stato terzo possono esercitare le attivita' indicate al medesimo comma senza stabilimento di una succursale nei confronti di:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((banche;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((altre imprese appartenenti al gruppo cui appartengono le stesse banche di Stato terzo;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((clienti al dettaglio, clienti professionali o controparti qualificate, come rispettivamente definiti dall'articolo 1, comma 1, lettere m-duodecies) e m-undecies), e dall'articolo 6, comma 2-quater, lettera d), del decreto legislativo n. 58 del 1998, che si rivolgano di propria iniziativa esclusiva alle stesse banche di Stato terzo.))
+
 ((Nei casi di cui alle lettere a) e b) del comma 3, si applica l'articolo 16, comma 4.))
+
+5.
+                        
+                            
+                                
+                                    ((Lo stabilimento in Italia di una succursale di banca di Stato terzo e' autorizzato dalla Banca d'Italia quando ricorrano le seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la banca dello Stato terzo e' autorizzata nello Stato terzo in cui e' stabilita a esercitare le attivita' per le quali ha chiesto di essere autorizzata ai sensi del presente articolo e le stesse attivita' sono ivi sottoposte a vigilanza;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((e' presentato un programma contenente l'indicazione delle operazioni che si intendono effettuare, le attivita' da esercitare e la struttura dell'organizzazione e la gestione del rischio della succursale;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la competente autorita' di vigilanza nello Stato terzo ha ricevuto la notifica dell'istanza corredata dal programma di attivita' di cui alla lettera b);))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((la competente autorita' di vigilanza nello Stato terzo ha attestato che la banca dello Stato terzo e il suo gruppo soddisfano i requisiti applicabili a norma del diritto dello Stato terzo in ordine alla solidita' patrimoniale, all'adeguatezza delle strutture organizzative, amministrative e contabili;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((sono soddisfatti i requisiti di cui al titolo III, capo I-bis;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((ai fini dell'esercizio delle funzioni di vigilanza, non sussistono ostacoli allo scambio di informazioni tra la Banca d'Italia e la competente autorita' di vigilanza nello Stato terzo sulla banca dello Stato terzo e, se applicabile, sulle imprese madri intermedie o capogruppo;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((non vi sono fondati motivi per sospettare che la succursale sia utilizzata per commettere o facilitare il riciclaggio o il finanziamento del terrorismo.))
 
 ((L'autorizzazione e' rilasciata sentito il Ministero degli affari esteri e della cooperazione internazionale e tenuto anche conto della condizione di reciprocita'.))
 
 ((Le succursali di banche di Stato terzo autorizzate in Italia non possono operare al di fuori del territorio della Repubblica, eccetto per operazioni infragruppo di provvista concluse con succursali della stessa banca di Stato terzo stabilite in altri Stati membri dell'Unione europea e per operazioni effettuate nei confronti di clienti che si rivolgano di propria iniziativa esclusiva alle medesime succursali.))
 
 ((Prima che la succursale inizi le proprie attivita' nel territorio della Repubblica, la Banca d'Italia si adopera per concludere accordi di cooperazione con la competente autorita' di vigilanza nello Stato terzo. Il presente comma non si applica in caso di succursali non qualificate ai sensi dell'articolo 58-ter, comma 1.))
+
+9.
+                        
+                            
+                                
+                                    ((La decadenza dall'autorizzazione e' pronunciata dalla Banca d'Italia qualora:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((non si faccia uso dell'autorizzazione entro dodici mesi dal rilascio della stessa;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((l'autorizzazione sia oggetto di espressa rinuncia;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la succursale abbia cessato le attivita' per un periodo superiore a sei mesi.))
+
+10.
+                        
+                            
+                                
+                                    ((La revoca dell'autorizzazione e' disposta dalla Banca d'Italia quando sussistono una o piu' delle seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((sono venute meno le condizioni in base alle quali l'autorizzazione e' stata rilasciata;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((l'autorizzazione e' stata ottenuta presentando false dichiarazioni o con qualsiasi altro mezzo irregolare;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la banca dello Stato terzo o il suo gruppo non soddisfa i requisiti prudenziali applicabili in base al diritto dello Stato terzo o vi sono motivi ragionevoli per sospettare che non soddisfi tali requisiti o che li violera' entro i dodici mesi successivi;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((la succursale non offre piu' la garanzia di poter soddisfare le obbligazioni nei confronti dei creditori e, in particolare, non garantisce piu' la sicurezza delle attivita' a essa affidate dai depositanti;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((vi sono fondati motivi per sospettare che sia in corso o abbia avuto luogo un'operazione o un tentativo di riciclaggio o di finanziamento del terrorismo in relazione alla succursale, alla banca dello Stato terzo o al suo gruppo, o che sia aumentato il rischio che abbia luogo un'operazione o un tentativo di riciclaggio o di finanziamento del terrorismo in relazione alla succursale, alla banca dello Stato terzo o al suo gruppo;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((sia commessa una delle violazioni richiamate all'articolo 144, comma 1, lettera a);))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((nei casi di cui all'articolo 58-septies, comma 4, non sia presentata domanda di autorizzazione ai sensi dell'articolo 14 entro il termine indicato dalla Banca d'Italia ovvero l'autorizzazione sia negata.))
 
 ((Pronunciata la decadenza o disposta la revoca ai sensi dei commi 9 e 10, nei confronti della succursale restano fermi i poteri delle autorita' creditizie previsti dal presente decreto.))
 
@@ -350,6 +1067,40 @@ Alle societa' finanziarie ammesse al mutuo riconoscimento ai sensi del comma 2 s
 ## - Capo III ((PARTECIPAZIONI NELLE BANCHE))
 
 ## Art. 19. — Autorizzazioni
+
+1.
+                        
+                            
+                                Sono soggette ad autorizzazione preventiva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'acquisizione a qualsiasi titolo in una banca di partecipazioni che comportano la possibilita' di esercitare il controllo o un'influenza notevole sulla banca stessa o che attribuiscono una quota dei diritti di voto o del capitale almeno pari al 10 per cento, tenuto conto delle azioni o quote gia' possedute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le variazioni delle partecipazioni quando la quota dei diritti di voto o del capitale raggiunge o supera il 20 per cento, 30 per cento o 50 per cento e, in ogni caso, quando le variazioni comportano il controllo della banca stessa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'acquisizione in una societa' che detiene le partecipazioni indicate alla lettera a): 
+ 1) del controllo; 
+ 2) di una quota dei diritti di voto o del capitale, quando, per effetto dell'acquisizione, e' integrato uno dei casi indicati nell'articolo 22, comma 1, lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'acquisizione a qualsiasi titolo, in assenza di acquisti di partecipazioni, anche per il tramite di un contratto con la banca o di una clausola del suo statuto, del controllo o dell'influenza notevole sulla banca, o di una quota dei diritti di voto o del capitale almeno pari al 10 per cento, 20 per cento, 30 per cento o 50 per cento, tenuto conto delle azioni o quote gia' possedute.
 
 COMMA ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 182.
 
@@ -437,6 +1188,42 @@ La Banca d'Italia, al fine di verificare l'osservanza degli obblighi indicati ((
 
 Ai fini del presente capo il controllo sussiste, anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'articolo 2359, commi primo e secondo, del codice civile ((e in presenza di contratti o di clausole statutarie che abbiano per oggetto o per effetto il potere di esercitare l'attivita' di direzione e coordinamento.))
 
+2.
+                        
+                            
+                                Il controllo si considera esistente nella forma dell'influenza dominante, salvo prova contraria, allorche' ricorra una delle seguenti situazioni: 
+1) esistenza di un soggetto che, sulla base di accordi, ha il diritto di nominare o revocare la maggioranza degli amministratori o del consiglio di sorveglianza ovvero dispone da solo della maggioranza dei voti ai fini delle deliberazioni relative alle materie di cui agli articoli 2364 e 2364-bis del codice civile; 
+2) possesso di partecipazioni idonee a consentire la nomina o la revoca della maggioranza dei membri del consiglio di amministrazione o del consiglio di sorveglianza; 
+3) sussistenza di rapporti, anche tra soci, di carattere finanziario ed organizzativo idonei a conseguire uno dei seguenti effetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la trasmissione degli utili o delle perdite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il coordinamento della gestione dell'impresa con quella di altre imprese ai fini del perseguimento di uno scopo comune; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attribuzione di poteri maggiori rispetto a quelli derivanti dalle partecipazioni possedute; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'attribuzione, a soggetti diversi da quelli legittimati in base alla titolarita' delle partecipazioni, di poteri nella scelta degli amministratori o dei componenti del consiglio di sorveglianza o dei dirigenti delle imprese; 
+ 4) assoggettamento a direzione comune, in base alla composizione degli organi amministrativi o per altri concordanti elementi.
+
 ## Art. 24. — Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione
 
 Non possono essere esercitati i diritti di voto e gli altri diritti che consentono di influire sulla societa' inerenti alle partecipazioni per le quali le autorizzazioni previste dall'articolo 19 non siano state ottenute ovvero siano state sospese o revocate. I diritti di voto e gli altri diritti, che consentono di influire sulla societa', non possono essere altresi' esercitati per le partecipazioni per le quali siano state omesse le comunicazioni previste dall'articolo 20 ((, commi 1, 2 e 4)).
@@ -452,6 +1239,31 @@ Non possono essere esercitati i diritti derivanti dai contratti o dalle clausole
 ## Art. 25. — (Partecipanti al capitale)
 
 I titolari delle partecipazioni indicate all'articolo 19 devono possedere requisiti di onorabilita' e soddisfare criteri di competenza e correttezza in modo da garantire la sana e prudente gestione della banca.
+
+2.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, con decreto adottato sentita la Banca d'Italia, individua: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti di onorabilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di competenza, graduati in relazione all'influenza sulla gestione della banca che il titolare della partecipazione puo' esercitare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri di correttezza, con riguardo, tra l'altro, alle relazioni d'affari del titolare della partecipazione, alle condotte tenute nei confronti delle autorita' di vigilanza e alle sanzioni o misure correttive da queste irrogate, a provvedimenti restrittivi inerenti ad attivita' professionali svolte, nonche' a ogni altro elemento suscettibile di incidere sulla correttezza del titolare della partecipazione.
 
 Qualora non siano soddisfatti i requisiti e i criteri non possono essere esercitati i diritti di voto e gli altri diritti, che consentono di influire sulla societa', inerenti alle partecipazioni eccedenti le soglie indicate all'articolo 19, comma 1 (( , lettera a) )). In caso di inosservanza, si applica l'articolo 24, comma 2. Le partecipazioni eccedenti devono essere alienate entro i termini stabiliti dalla Banca d'Italia. 
  (64)
@@ -469,11 +1281,90 @@ I soggetti che svolgono funzioni di amministrazione, direzione e controllo press
 
 Ai fini del comma 1, gli esponenti devono possedere requisiti di professionalita', onorabilita' e indipendenza, ((soddisfare criteri di competenza, correttezza e indipendenza di giudizio)), dedicare il tempo necessario all'efficace espletamento dell'incarico, in modo da garantire la sana e prudente gestione della banca. ((118))
 
+3.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, con decreto adottato sentita la Banca d'Italia, individua: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti di onorabilita' omogenei per tutti gli esponenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti di professionalita' e indipendenza, graduati secondo principi di proporzionalita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri di competenza, coerenti con la carica da ricoprire e con le caratteristiche della banca, e di adeguata composizione dell'organo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri di correttezza, con riguardo, tra l'altro, alle relazioni d'affari dell'esponente, alle condotte tenute nei confronti delle autorita' di vigilanza e alle sanzioni o misure correttive da queste irrogate, a provvedimenti restrittivi inerenti ad attivita' professionali svolte, nonche' a ogni altro elemento suscettibile di incidere sulla correttezza dell'esponente; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((i criteri di indipendenza di giudizio degli esponenti;))
+                                        ((118))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    i limiti al cumulo di incarichi per gli esponenti delle banche, graduati secondo principi di proporzionalita' e tenendo conto delle dimensioni dell'intermediario ((, e i criteri di disponibilita' di tempo allo svolgimento degli incarichi)); ((118))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    le cause che comportano la sospensione temporanea dalla carica e la sua durata.
+
 ((Ai responsabili delle principali funzioni aziendali delle banche, come individuati dal decreto di cui al comma 3, si applicano i commi 1, 2 e 3, limitatamente ai requisiti di onorabilita' e ai criteri di competenza e correttezza.))
                                 ((118))
 
 ((Le banche valutano l'idoneita' dei propri esponenti e responsabili delle principali funzioni aziendali e l'adeguatezza complessiva degli organi di amministrazione e controllo, documentando il processo di analisi e motivando opportunamente l'esito della valutazione. La valutazione e' condotta dall'organo di appartenenza di ciascun esponente e, per i soggetti che non sono componenti di un organo, dall'organo che li ha nominati. In caso di specifiche e limitate carenze, i medesimi organi possono adottare misure necessarie a colmarle. In ogni altro caso il difetto di idoneita' o la violazione dei limiti al cumulo degli incarichi determina la decadenza dall'ufficio; questa e' pronunciata dall'organo di cui sopra entro trenta giorni dalla nomina o dalla conoscenza del difetto o della violazione sopravvenuti.))
                                 ((118))
+
+5-bis.
+                        
+                            
+                                
+                                    ((La valutazione di cui al comma 5 e' condotta:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((con riferimento ai componenti degli organi di amministrazione e controllo:)) 
+ 1) ((prima che essi assumano le funzioni, nel caso in cui non sia rinnovata la maggioranza dei componenti dell'organo. A questo fine, l'efficacia della nomina dei nuovi componenti e' sospesa fino alla conclusione della valutazione dell'idoneita'. Resta fermo quanto previsto dall'articolo 2383, secondo comma, del codice civile;)) 
+ 2) ((dopo che essi abbiano assunto le funzioni, nel caso di rinnovo della maggioranza dei componenti dell'organo. Fermo restando quanto previsto dal comma 5, in questo caso la nomina e' immediatamente efficace;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((con riferimento ai responsabili delle principali funzioni aziendali e ai soggetti che svolgono funzioni di direzione, prima che tali soggetti siano nominati.))
+                                        ((118))
 
 ((La Banca d'Italia, secondo modalita' e tempi da essa stabiliti, anche al fine di ridurre al minimo gli oneri gravanti sulle banche, valuta l'idoneita' degli esponenti e dei responsabili delle principali funzioni aziendali delle banche di maggiore rilevanza, come individuati dal decreto di cui al comma 3, e il rispetto dei limiti al cumulo degli incarichi, anche sulla base dell'analisi compiuta e delle eventuali misure adottate ai sensi del comma 5. A questo fine, la Banca d'Italia tiene conto anche delle informazioni acquisite sulla base della disciplina in materia di collaborazione tra autorita' o tramite accesso alla banca dati centrale AML/CFT di cui al regolamento (UE) 2024/1620, del Parlamento europeo e del Consiglio, del 31 maggio 2024. In caso di difetto o violazione pronuncia la decadenza dalla carica.))
                                 ((118))
@@ -594,6 +1485,24 @@ Coloro ai quali il consiglio di amministrazione abbia rifiutato l'ammissione a s
 
 ((
 
+1.
+                        
+                            
+                                Le trasformazioni di banche popolari in societa' per azioni o le fusioni a cui prendano parte banche popolari e da cui risultino societa' per azioni, le relative modifiche statutarie nonche' le diverse determinazioni di cui all'articolo 29, comma 2-ter, sono deliberate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in prima convocazione, con la maggioranza dei due terzi dei voti espressi, purche' all'assemblea sia rappresentato almeno un decimo dei soci della banca; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in seconda convocazione, con la maggioranza di due terzi dei voti espressi, qualunque sia il numero dei soci intervenuti all'assemblea.
+
 In caso di recesso resta fermo quanto previsto dall'articolo 28, comma 2-ter.
 
 Si applicano gli articoli 56 e 57.
@@ -698,13 +1607,103 @@ La quota di utili che non e' assegnata ai sensi dei commi precedenti e che non e
 
 ## Art. 37-bis. — Gruppo Bancario Cooperativo
 
+1.
+                        
+                            
+                                Il gruppo bancario cooperativo e' composto da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una societa' capogruppo costituita in forma di societa' per azioni e autorizzata all'esercizio dell'attivita' bancaria il cui capitale e' detenuto in misura pari ad almeno il sessanta per cento dalle banche di credito cooperativo appartenenti al gruppo, che esercita attivita' di direzione e coordinamento sulle societa' del gruppo sulla base di un contratto conforme a quanto previsto dal comma 3 del presente articolo. Il medesimo contratto assicura l'esistenza di una situazione di controllo come definito dai principi contabili internazionali adottati dall'Unione europea; il requisito minimo di patrimonio netto della societa' capogruppo e' di un miliardo di euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le banche di credito cooperativo che aderiscono al contratto e hanno adottato le connesse clausole statutarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((le societa' bancarie e finanziarie)) controllate dalla capogruppo, come definite dall'articolo 59. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    eventuali sottogruppi territoriali facenti capo a una banca costituita in forma di societa' per azioni sottoposta a direzione e coordinamento della capogruppo di cui alla lettera a) e composti dalle altre societa' di cui alle lettere b) e c).
+
 Le banche di credito cooperativo aventi sede legale nelle province autonome di Trento e di Bolzano possono rispettivamente costituire autonomi gruppi bancari cooperativi composti solo da banche aventi sede e operanti esclusivamente nella medesima provincia autonoma e che comunque non abbiano piu' di due sportelli siti in province limitrofe, tra cui la corrispondente banca capogruppo, la quale adotta una delle forme di cui all'articolo 14, comma 1, lettera a); il requisito minimo di patrimonio netto e' stabilito dalla Banca d'Italia ai sensi del comma 7-bis. Le medesime banche hanno la facolta' di adottare, in alternativa alla costituzione del gruppo bancario cooperativo, sistemi di tutela istituzionale, in coerenza con quanto previsto dall'articolo 113, paragrafo 7, del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 agosto 2013.
 
 Lo statuto della capogruppo indica il numero massimo delle azioni con diritto di voto che possono essere detenute da ciascun socio, direttamente o indirettamente, ai sensi dell'articolo 22, comma 1.
 
 Lo statuto della capogruppo stabilisce che i componenti dell'organo di amministrazione espressione delle banche di credito cooperativo aderenti al gruppo siano pari alla meta' piu' due del numero complessivo dei consiglieri di amministrazione.
 
+3.
+                        
+                            
+                                Il contratto di coesione che disciplina la direzione e il coordinamento della capogruppo sul gruppo indica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la banca capogruppo, cui sono attribuiti la direzione e il coordinamento del gruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i poteri della capogruppo che, nel rispetto delle finalita' mutualistiche e del carattere localistico delle banche di credito cooperativo, includono: 
+ 1) l'individuazione e l'attuazione degli indirizzi strategici ed obiettivi operativi del gruppo, tenendo conto di quanto previsto dal comma 3-bis, nonche' gli altri poteri necessari per l'attivita' di direzione e coordinamento, proporzionati alla rischiosita' delle banche aderenti, ivi compresi i controlli ed i poteri di influenza sulle banche aderenti volti ad assicurare il rispetto dei requisiti prudenziali e delle altre disposizioni in materia bancaria e finanziaria applicabili al gruppo e ai suoi componenti; 
+ 2) i casi, comunque motivati, in cui la capogruppo puo', rispettivamente, nominare, opporsi alla nomina o revocare uno o piu' componenti, fino a concorrenza della maggioranza, degli organi di amministrazione e controllo delle societa' aderenti al gruppo e le modalita' di esercizio di tali poteri; 
+ 3) l'esclusione di una banca dal gruppo in caso di gravi violazioni degli obblighi previsti dal contratto e le altre misure sanzionatorie graduate in relazione alla gravita' della violazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri di compensazione e l'equilibrio nella distribuzione dei vantaggi derivanti dall'attivita' comune; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri e le condizioni di adesione, di diniego dell'adesione e di recesso dal contratto, nonche' di esclusione dal gruppo, secondo criteri non discriminatori in linea con il principio di solidarieta' tra le banche cooperative a mutualita' prevalente.
+
 Con atto della capogruppo e' disciplinato il processo di consultazione delle banche di credito cooperativo aderenti al gruppo in materia di strategie, politiche commerciali, raccolta del risparmio ed erogazione del credito nonche' riguardo al perseguimento delle finalita' mutualistiche. Al fine di tener conto delle specificita' delle aree interessate, la consultazione avviene mediante assemblee territoriali delle banche di credito cooperativo, i cui pareri non sono vincolanti per la capogruppo.
+
+3-ter.
+                        
+                            
+                                Le banche del gruppo che, sulla base del sistema di classificazione del rischio adottato dalla capogruppo, si collocano nelle classi di rischio migliori: 
+                            
+                            
+                                a)
+                                
+                                    definiscono in autonomia i propri piani strategici e operativi, nel quadro degli indirizzi impartiti dalla capogruppo e sulla base delle metodologie da quest'ultima definite;
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicano tali piani alla capogruppo che ne verifica la coerenza con i citati indirizzi;
+                                
+                            
+                            
+                                c)
+                                
+                                    nominano i componenti dei propri organi di amministrazione e controllo e, in caso di mancato gradimento della capogruppo, sottopongono alla stessa, ai fini della sostituzione di ogni componente non gradito, una lista di tre candidati diversi da quelli gia' indicati nella medesima procedura di nomina, fermi restando i requisiti di cui al decreto del Ministro dell'economia e delle finanze adottato ai sensi dell'articolo 26. Ogni atto della capogruppo di specificazione del sistema di classificazione del rischio previsto nel contratto di coesione e' sottoposto all'approvazione preventiva della Banca d'Italia.
 
 Il contratto di cui al comma 3 prevede la garanzia in solido delle obbligazioni assunte dalla capogruppo e dalle altre banche aderenti, nel rispetto della disciplina prudenziale dei gruppi bancari e delle singole banche aderenti.
 
@@ -712,11 +1711,79 @@ L'adesione, il rigetto delle richieste di adesione, il recesso e l'esclusione di
 
 Alle partecipazioni al capitale della capogruppo delle banche di credito cooperativo e delle banche cui fanno capo i sottogruppi territoriali non si applicano gli articoli 2359-bis, 2359-ter, 2359-quater e 2359-quinquies del codice civile.
 
+7.
+                        
+                            
+                                Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze, sentita la Banca d'Italia, puo' essere stabilita una soglia di partecipazione delle banche di credito cooperativo al capitale della societa' capogruppo diversa da quella indicata al comma 1, lettera a), tenuto conto delle esigenze di stabilita' del gruppo. Il Ministro dell'economia e delle finanze, al fine di assicurare l'adeguatezza dimensionale e organizzativa del gruppo bancario cooperativo, puo' stabilire con proprio decreto, sentita la Banca d'Italia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero minimo di banche di credito cooperativo di un gruppo bancario cooperativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 25 LUGLIO 2018, N. 91, CONVERTITO CON MODIFICAZIONI DALLA L. 21 SETTEMBRE 2018, N. 108; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' e i criteri per assicurare il riconoscimento e la salvaguardia delle peculiarita' linguistiche e culturali delle banche di credito cooperativo aventi sede legale nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano.
+
+7-bis.
+                        
+                            
+                                La Banca d'Italia, al fine di assicurare la sana e prudente gestione, la competitivita' e l'efficienza del gruppo bancario cooperativo, nel rispetto della disciplina prudenziale applicabile e delle finalita' mutualistiche, detta disposizioni di attuazione del presente articolo e dell'articolo 37-ter, con particolare riferimento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai requisiti minimi organizzativi e operativi della capogruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al contenuto minimo del contratto di cui al comma 3, alle caratteristiche della garanzia di cui al comma 4, al procedimento per la costituzione del gruppo e all'adesione al medesimo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai requisiti specifici, compreso il requisito minimo di patrimonio netto della capogruppo, relativi ai gruppi bancari cooperativi previsti dal comma 1-bis.
+
 Al gruppo bancario cooperativo si applicano, in quanto compatibili, le disposizioni del Titolo III, Capo II.
 
 ## Art. 37-ter. — ((Costituzione del gruppo bancario cooperativo))
 
 ((
+
+1.
+                        
+                            
+                                La banca che intenda assumere il ruolo di capogruppo ai sensi dell'articolo 37-bis, comma 1, lettera a), trasmette alla Banca d'Italia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno schema di contratto conforme a quanto stabilito ai sensi dell'articolo 37-bis; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un elenco delle banche di credito cooperativo e delle altre societa' che intendono aderire al gruppo bancario cooperativo.
 
 La Banca d'Italia accerta la sussistenza delle condizioni previste ai sensi dell'articolo 37-bis e, in particolare, il grado di adeguatezza patrimoniale e finanziaria del gruppo e l'idoneita' del contratto a consentire la sana e prudente gestione del gruppo.
 
@@ -860,6 +1927,35 @@ a) frutti pendenti, prodotti finiti e in corso di lavorazione; b) bestiame, merc
 
 ## Art. 46. — Finanziamenti alle imprese: costituzione di privilegi
 
+1.
+                        
+                            
+                                La concessione di finanziamenti a medio e lungo termine da parte di banche alle imprese puo' essere garantita da privilegio speciale su beni mobili, comunque destinati all'esercizio dell'impresa, non iscritti nei pubblici registri. Il privilegio puo' avere a oggetto: 
+
+                            
+                            
+                                a)
+                                
+                                    impianti e opere esistenti e futuri, concessioni e beni strumentali; 
+                                
+                            
+                            
+                                b)
+                                
+                                    materie prime, prodotti in corso di lavorazione, scorte, prodotti finiti, frutti, bestiame e merci; 
+                                
+                            
+                            
+                                c)
+                                
+                                    beni comunque acquistati con il finanziamento concesso; 
+                                
+                            
+                            
+                                d)
+                                
+                                    crediti, anche futuri, derivanti dalla vendita dei beni indicati nelle lettere procedenti.
+
 ((
 
 Il privilegio previsto dal presente articolo puo' essere costituito anche per garantire obbligazioni e titoli similari emessi da societa' ai sensi degli articoli 2410 e seguenti o 2483 del codice civile, la cui sottoscrizione e circolazione e' riservata a investitori qualificati ai sensi dell'articolo 100 del decreto legislativo 24 febbraio 1998, n. 58.
@@ -951,6 +2047,38 @@ La Banca d'Italia e le banche possono chiedere il decreto d'ingiunzione previsto
 
 Le banche inviano alla Banca d'Italia, con le modalita' e nei termini da essa stabiliti, le segnalazioni periodiche nonche' ogni altro dato e documento richiesto. Esse trasmettono anche i bilanci con le modalita' e nei termini stabiliti dalla Banca d'Italia.
 
+1-bis.
+                        
+                            
+                                Le banche comunicano alla Banca d'Italia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la nomina e la mancata nomina del soggetto incaricato della revisione legale dei conti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le dimissioni del soggetto incaricato della revisione legale dei conti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la risoluzione consensuale del mandato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la revoca dell'incarico di revisione legale dei conti, fornendo adeguate spiegazioni in ordine alle ragioni che l'hanno determinata.
+
 La Banca d'Italia stabilisce modalita' e termini per l'invio delle comunicazioni di cui al comma 1-bis.
 
 La Banca d'Italia puo' chiedere informazioni al personale delle banche anche per il tramite di queste ultime.
@@ -994,6 +2122,31 @@ La Banca d'Italia trasmette alla BCE le informazioni ricevute ai sensi del prese
 
 Le banche e le relative capogruppo adottano procedure specifiche per la segnalazione al proprio interno da parte del personale di atti o fatti che possano costituire una violazione delle norme disciplinanti l'attivita' bancaria.
 
+2.
+                        
+                            
+                                Le procedure di cui al comma 1 sono idonee a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire la riservatezza dei dati personali del segnalante e del presunto responsabile della violazione, ferme restando le regole che disciplinano le indagini o i procedimenti avviati dall'autorita' giudiziaria in relazione ai fatti oggetto della segnalazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tutelare adeguatamente il soggetto segnalante contro condotte ritorsive, discriminatorie o comunque sleali conseguenti la segnalazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicurare per la segnalazione un canale specifico, indipendente e autonomo.
+
 La presentazione di una segnalazione non costituisce di per se' violazione degli obblighi derivanti dal rapporto di lavoro.
 
 La disposizione di cui all'articolo 7, comma 2, del decreto legislativo 30 giugno 2003, n. 196, non trova applicazione con riguardo all'identita' del segnalante, che puo' essere rivelata solo con il suo consenso o quando la conoscenza sia indispensabile per la difesa del segnalato.
@@ -1020,7 +2173,65 @@ La Banca d'Italia inoltra alla BCE le segnalazioni ricevute, quando esse riguard
 
 ## Art. 53. — Vigilanza regolamentare
 
+1.
+                        
+                            
+                                La Banca d'Italia emana disposizioni di carattere generale aventi a oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adeguatezza patrimoniale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contenimento del rischio nelle sue diverse configurazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 31 DICEMBRE 2025, N. 208)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il governo societario, l'organizzazione amministrativa e contabile, nonche' i controlli interni e i sistemi di remunerazione e di incentivazione; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    l'informativa da rendere al pubblico sulle materie di cui alle lettere da a) a d).
+
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.
+
+2-bis.
+                        
+                            
+                                Le disposizioni emanate ai sensi del comma 1, lettera a), prevedono che le banche possano utilizzare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le valutazioni del rischio di credito rilasciate da societa' o enti esterni; le disposizioni disciplinano i requisiti, anche di competenza tecnica e di indipendenza, che tali soggetti devono possedere e le relative modalita' di accertamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sistemi interni di misurazione dei rischi per la determinazione dei requisiti patrimoniali, previa autorizzazione della Banca d'Italia. Per le banche sottoposte alla vigilanza consolidata di un'autorita' di un altro Stato dell'Unione europea, la decisione e' di competenza della medesima autorita', qualora, entro sei mesi dalla presentazione della domanda di autorizzazione, non venga adottata una decisione congiunta con la Banca d'Italia, e sempre che, entro il medesimo termine, il caso non sia stato rinviato all'ABE ai fini della procedura per la risoluzione delle controversie con le autorita' di vigilanza degli altri Stati membri in situazioni transfrontaliere.
 
 Le societa' o enti esterni che, anche gestendo sistemi informativi creditizi, rilasciano alle banche valutazioni del rischio di credito o sviluppano modelli statistici per l'utilizzo ai fini di cui a1 comma 1, lettera a), conservano, per tale esclusiva finalita', anche in deroga alle altre vigenti disposizioni normative, i dati personali detenuti legittimamente per un periodo di tempo storico di osservazione che sia congruo rispetto a quanto richiesto dalle disposizioni emanate ai sensi del comma 2-bis. Le modalita' di attuazione e i criteri che assicurano la non identificabilita' sono individuati su conforme parere del Garante per la protezione dei dati personali.
 
@@ -1039,6 +2250,46 @@ Le disposizioni emanate ai sensi del presente articolo possono prevedere che det
 E' nullo qualunque patto o clausola non conforme alle disposizioni in materia di sistemi di remunerazione e di incentivazione emanate ai sensi del comma 1, lettera d), o contenute in atti dell'Unione europea direttamente applicabili. La nullita' della clausola non comporta la nullita' del contratto. Le previsioni contenute nelle clausole nulle sono sostituite di diritto, ove possibile, con i parametri indicati nelle disposizioni suddette nei valori piu' prossimi alla pattuizione originaria.
 
 ## Art. 53-bis. — Poteri di intervento
+
+1.
+                        
+                            
+                                La Banca d'Italia puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    convocare gli amministratori, i sindaci e il personale delle banche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare la convocazione degli organi collegiali delle banche, fissandone l'ordine del giorno, e proporre l'assunzione di determinate decisioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere direttamente alla convocazione degli organi collegiali delle banche quando gli organi competenti non abbiano ottemperato a quanto previsto dalla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((adottare per le materie indicate nell'articolo 53, comma 1, ove la situazione lo richieda, provvedimenti specifici nei confronti di una o piu' banche o dell'intero sistema bancario riguardanti anche: l'imposizione di un requisito di fondi propri aggiuntivi; la restrizione delle attivita', anche riguardo all'accettazione dei depositi, o della struttura territoriale; il divieto di effettuare determinate operazioni, anche di natura societaria, e di distribuire utili o altri elementi del patrimonio, nonche', con riferimento a strumenti finanziari computabili nel patrimonio a fini di vigilanza, il divieto di pagare interessi; la fissazione di limiti all'importo totale della parte variabile delle remunerazioni nella banca, quando sia necessario per il mantenimento di una solida base patrimoniale; per le banche che beneficiano di eccezionali interventi di sostegno pubblico, possono inoltre essere fissati limiti alla remunerazione complessiva degli esponenti aziendali; l'imposizione della riduzione dei rischi a breve, medio e lungo termine derivanti da fattori ambientali, sociali e di governance; l'imposizione di effettuare prove di stress o analisi degli scenari per valutare i rischi derivanti dalle esposizioni alle cripto-attivita' e dalla prestazione di servizi per le cripto-attivita';))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione della banca, la rimozione di uno o piu' esponenti aziendali; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 26, salvo che sussista urgenza di provvedere.
 
 La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci e il personale dei soggetti ai quali siano state esternalizzate funzioni aziendali.
 
@@ -1107,6 +2358,27 @@ I privilegi e le garanzie di qualsiasi tipo, da chiunque prestate o comunque esi
 
 
 
+2.
+                        
+                            
+                                
+                                    ((L'autorizzazione e' rilasciata quando ricorrono condizioni atte a garantire una gestione sana e prudente della banca acquirente, tenuto conto dei seguenti criteri:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la capacita' della banca acquirente di rispettare a seguito dell'acquisizione le disposizioni che ne regolano l'attivita';))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la mancanza di motivi ragionevoli per sospettare che, in relazione all'operazione proposta, sia in corso o abbia avuto luogo un'operazione o un tentativo di riciclaggio o di finanziamento del terrorismo o che l'operazione proposta possa aumentarne il rischio.))
+
 ((L'autorizzazione all'acquisizione della partecipazione rilevante e' negata quando dalla verifica delle condizioni indicate nel comma 2 non risulti garantita la sana e prudente gestione della banca.))
 
 ((L'autorizzazione e' rilasciata dalla Banca d'Italia congiuntamente all'autorita' dello Stato dell'Unione europea competente per la vigilanza su base consolidata, se diversa. Le banche si attengono alla decisione congiunta adottata ai sensi del presente comma.))
@@ -1167,7 +2439,37 @@ Le disposizioni del presente articolo si applicano anche alle cessioni in favore
 
 ## Art. 58-ter. — (( (Succursali qualificate e classificazione delle succursali di banche di Stato terzo).))
 
-((118))
+1.
+                        
+                            
+                                
+                                    ((Una succursale di banca di Stato terzo e' considerata succursale qualificata ai fini del presente capo se, in base a quanto risulta dall'apposito registro tenuto dall'ABE, sono soddisfatte, anche rispetto alla impresa madre intermedia e alla capogruppo, ove presenti, tutte le seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la banca di Stato terzo e' stabilita in uno Stato terzo che applica norme prudenziali e dispone di un sistema di vigilanza che sono almeno equivalenti a quanto previsto dalla direttiva 2013/36/UE del Parlamento europeo e del Consiglio, del 26 giugno 2013, e dal regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le autorita' di vigilanza della banca di Stato terzo sono soggette a obblighi di riservatezza almeno equivalenti a quelli di cui alla direttiva 2013/36/UE del Parlamento europeo e del Consiglio, del 26 giugno 2013;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la banca di Stato terzo e' stabilita in uno Stato terzo che non figura tra gli Stati terzi ad alto rischio che presentano carenze strategiche nel proprio regime di lotta al riciclaggio e al finanziamento del terrorismo, conformemente all'articolo 9 della direttiva 2015/849/UE del Parlamento europeo e del Consiglio, del 20 maggio 2015.))
+
+((Le succursali di banche di Stato terzo sono distinte in due classi secondo i criteri stabiliti dalla Banca d'Italia con disposizioni di carattere generale in conformita' alle pertinenti disposizioni dell'Unione europea.))
+                                ((118))
 
 --------------
                             AGGIORNAMENTO (118)
@@ -1251,7 +2553,89 @@ Le disposizioni del presente articolo si applicano anche alle cessioni in favore
 
 
 
+2.
+                        
+                            
+                                
+                                    ((Per i fini di cui al comma 1, la Banca d'Italia puo' imporre, tra l'altro, che le succursali:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((soddisfino ulteriori requisiti in materia di capitale e liquidita';))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((rafforzino i propri dispositivi di organizzazione interna, gestione del rischio e registrazione contabile;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((limitino l'ambito delle attivita' che esercitano e il numero delle relative controparti;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((riducano il rischio connesso alle attivita', ai prodotti e ai sistemi, comprese le attivita' esternalizzate, e cessino di esercitare tali attivita' o di offrire tali prodotti;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((rispettino ulteriori obblighi di segnalazione o aumentino la frequenza delle segnalazioni periodiche previste dall'articolo 58-quinquies, commi 1 e 2;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((pubblichino informazioni.))
+
 ((La Banca d'Italia puo' imporre alle succursali valutate come aventi rilevanza sistemica ai sensi delle disposizioni di cui all'articolo 58-quinquies, comma 4, requisiti prudenziali supplementari ovvero la ristrutturazione delle attivita' o la limitazione dell'operativita' in modo tale da comportare la cessazione della rilevanza sistemica della succursale o da rimuovere i rischi per la stabilita' finanziaria dell'Unione europea o dell'Italia.))
+
+4.
+                        
+                            
+                                
+                                    ((La Banca d'Italia, previa consultazione dell'ABE e delle autorita' competenti degli Stati membri in cui il gruppo di Stato terzo interessato, come definito all'articolo 69.3, comma 1, ha stabilito altre succursali o banche, puo' richiedere che venga presentata domanda di autorizzazione ai sensi dell'articolo 14 al ricorrere di una delle seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((la succursale ha svolto o svolge attivita' di cui all'articolo 1, comma 2, lettera f), numeri 1), 2) e 6), con clienti o controparti in altri Stati membri, salve le esenzioni di cui all'articolo 14-bis, comma 7;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la succursale soddisfa i criteri di rilevanza sistemica di cui all'articolo 131, paragrafo 3, della direttiva 2013/36/UE del Parlamento europeo e del Consiglio, del 26 giugno 2013 ovvero e' stata valutata dalla Banca d'Italia come avente rilevanza sistemica ai sensi delle disposizioni di cui all'articolo 58-quinquies, comma 4, e comporta rischi significativi per la stabilita' finanziaria dell'Unione europea o dell'Italia;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((l'importo aggregato delle attivita' di tutte le succursali nell'Unione europea appartenenti allo stesso gruppo della banca di Stato terzo e' pari o superiore a 40 miliardi di euro o l'importo delle attivita' della succursale di banca di Stato terzo in Italia e' pari o superiore a 10 miliardi di euro.))
 
 ((La Banca d'Italia esercita il potere di cui al comma 4 soltanto dopo avere applicato le misure di cui al comma 2 ovvero, con riferimento alle succursali aventi rilevanza sistemica, quelle di cui al comma 3, oppure qualora la Banca d'Italia ritenga che tali misure sarebbero comunque insufficienti a comportare la cessazione della rilevanza sistemica della succursale o a rimuovere i rischi per la stabilita' finanziaria dell'Unione europea o dell'Italia.))
 
@@ -1269,6 +2653,52 @@ Le disposizioni del presente articolo si applicano anche alle cessioni in favore
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente capo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il controllo sussiste nei casi previsti dall'articolo 23; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «societa' finanziarie» si intendono le societa' indicate nell'articolo 4, paragrafo 1, punto 26, del regolamento (UE) n. 575/2013; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    per «societa' di partecipazione finanziaria mista» si intendono le societa' di cui all'articolo 1, comma 1, lettera v), del decreto legislativo 30 maggio 2005, n. 142; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    per «societa' di partecipazione finanziaria» si intendono le societa' indicate nell'articolo 4, paragrafo 1, punto 20, del regolamento (UE) n. 575/2013; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «societa' strumentali» si intendono le societa' indicate nell'articolo 4, paragrafo 1, punto 18, del regolamento (UE) n. 575/2013; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per «coordinatore del conglomerato finanziario» si intende l'autorita' indicata nell'articolo 5 del decreto legislativo 30 maggio 2005, n. 142.
+
 ))
 
 COMMA ABROGATO DAL D.LGS. 16 APRILE 2012, N. 45.
@@ -1279,9 +2709,121 @@ COMMA ABROGATO DAL D.LGS. 16 APRILE 2012, N. 45.
 
 Il gruppo bancario e' composto dalla capogruppo e ((dalle societa' bancarie e finanziarie)) da questa controllate.
 
+2.
+                        
+                            
+                                Capogruppo del gruppo bancario e': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la banca italiana che non sia a sua volta controllata da un'altra banca italiana o da una societa' di partecipazione finanziaria o societa' di partecipazione finanziaria mista con sede legale in Italia o in un altro Stato dell'Unione europea che possa essere considerata capogruppo ai sensi del presente articolo; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista avente sede legale in Italia o in un altro Stato dell'Unione europea che non sia a sua volta controllata da una banca italiana o da un'altra societa' di partecipazione finanziaria o societa' di partecipazione finanziaria mista con sede legale in Italia o in un altro Stato dell'Unione europea che possa essere considerata capogruppo ai sensi del presente articolo, quando nell'insieme delle societa' controllate vi siano solo banche italiane oppure quando il totale dell'attivo delle banche italiane controllate sia maggiore di quello delle banche controllate in ciascuno Stato dell'Unione europea diverso dall'Italia oppure quando Banca d'Italia sia altrimenti nominata autorita' di vigilanza su base consolidata; o 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista con sede legale in Italia, ricompresa nella vigilanza su base consolidata di competenza delle autorita' di vigilanza di un altro Stato dell'Unione europea, che non sia a sua volta controllata da una banca italiana o da un'altra societa' di partecipazione finanziaria o societa' di partecipazione finanziaria mista con sede legale in Italia e che controlli almeno una banca italiana. 
+ 
+ (97) 
+ 
+----------------
+ 
+AGGIORNAMENTO (97) 
+ Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
+
 ## Art. 60-bis. — Autorizzazione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista capogruppo
 
 Le societa' di partecipazione finanziaria e le societa' di partecipazione finanziaria mista indicate nell'articolo 60, comma 2, lettere b) e c), richiedono l'autorizzazione ad assumere la qualifica di capogruppo, salvo che presentino istanza di esenzione ai sensi del comma 3. L'autorizzazione e' rilasciata e l'esenzione e' concessa dalla Banca d'Italia congiuntamente, a seconda dei casi, con la diversa autorita' competente per la vigilanza consolidata o con l'autorita' competente dello Stato dell'Unione europea in cui ha sede legale la societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista.
+
+2.
+                        
+                            
+                                L'autorizzazione e' rilasciata quando ricorrono tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli assetti organizzativi e di controllo e l'articolazione dei compiti nell'ambito del gruppo assicurano il coordinamento efficace dei soggetti del gruppo di appartenenza, la prevenzione e la gestione dei conflitti di interesse e il rispetto delle norme che disciplinano l'attivita' bancaria su base consolidata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la struttura del gruppo non ostacola l'effettivo esercizio della vigilanza su base individuale e consolidata delle banche del gruppo di appartenenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i soggetti che detengono nella societa' di partecipazione finanziaria o nella societa' di partecipazione finanziaria mista le partecipazioni indicate dall'articolo 19 soddisfano le condizioni ivi previste; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo nella societa' di partecipazione finanziaria o nella societa' di partecipazione finanziaria mista sono idonei ai sensi dell'articolo 26; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non sussistono, tra la societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista e i soggetti del gruppo di appartenenza e altri soggetti, stretti legami che ostacolino l'effettivo esercizio delle funzioni di vigilanza.
+
+3.
+                        
+                            
+                                
+                                    ((Le societa')) di partecipazione finanziaria o le societa' di partecipazione finanziaria mista indicate all'articolo 60, comma 2, lettere b) e c), possono presentare istanza di esenzione quando ricorrono tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la societa' di partecipazione finanziaria esercita in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni di controllo ovvero la societa' di partecipazione finanziaria mista esercita in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni di controllo in relazione a societa' bancarie e finanziarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista non e' stata designata come ente sottoposto a risoluzione ai sensi del decreto legislativo 16 novembre 2015, n. 180; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((e' designata una banca controllata avente sede legale in Italia, o una societa' di partecipazione finanziaria o societa' di partecipazione finanziaria mista controllata avente sede legale in Italia o in un altro Stato dell'Unione europea,)) per l'esercizio delle funzioni di direzione e coordinamento indicate all'articolo 61 e a questa sono assegnati i poteri e le risorse necessari per assicurare il rispetto delle norme che disciplinano l'attivita' bancaria su base consolidata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lo statuto prevede espressamente che alla societa' di partecipazione finanziaria o alla societa' di partecipazione finanziaria mista e' preclusa l'assunzione delle funzioni di direzione e coordinamento del gruppo bancario o la possibilita' di assumere decisioni su aspetti gestionali, operativi e finanziari che incidono sul gruppo o sulle societa' bancarie e finanziarie controllate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non vi sono ostacoli all'effettivo esercizio delle funzioni di vigilanza su base consolidata.
 
 ((La societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista designata ai sensi del comma 3, lettera c), chiede l'autorizzazione ad assumere la qualifica di capogruppo a norma del comma 1 del presente articolo. In tal caso, l'istanza di autorizzazione e' presentata contestualmente all'istanza di esenzione presentata ai sensi del comma 3.))
 
@@ -1289,6 +2831,31 @@ Le societa' di partecipazione finanziaria e le societa' di partecipazione finanz
                                 ((118))
 
 La societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista chiede l'autorizzazione a norma del presente articolo se vengono meno le condizioni per l'esenzione previste dal comma 3.
+
+5.
+                        
+                            
+                                La revoca dell'autorizzazione e' disposta nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono venute meno le condizioni in base alle quali l'autorizzazione e' stata rilasciata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'autorizzazione e' stata ottenuta presentando false dichiarazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' disposta la liquidazione coatta amministrativa ai sensi dell'articolo 99.
 
 Nei casi indicati all'articolo 60, comma 2, lettera b), la Banca d'Italia, in qualita' di autorita' di vigilanza consolidata sul gruppo bancario, rilascia e revoca l'autorizzazione indicata al comma 2 ovvero concede l'esenzione indicata al comma 3 congiuntamente con l'autorita' competente dello Stato dell'Unione europea in cui ha sede legale la societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista, se diverso dall'Italia.
 
@@ -1318,6 +2885,35 @@ AGGIORNAMENTO (97)
 
 n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013 e relative disposizioni attuative.
 L'autorizzazione e' rilasciata dalla Banca d'Italia congiuntamente, a seconda dei casi, con la diversa autorita' competente per la vigilanza consolidata o con l'autorita' competente dello Stato dell'Unione europea in cui ha sede legale la societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista.))
+
+2.
+                        
+                            
+                                
+                                    ((L'autorizzazione e' rilasciata quando ricorrono tutte le seguenti condizioni:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((l'esclusione non pregiudica l'esercizio efficace della vigilanza sulla banca controllata o su base consolidata;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la societa' di partecipazione finanziaria o di partecipazione finanziaria mista non detiene partecipazioni diverse da quelle nella banca controllata o nella societa' di partecipazione finanziaria o di partecipazione finanziaria mista che controlla la banca;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((la societa' di partecipazione finanziaria o di partecipazione finanziaria mista non ricorre in maniera sostanziale alla leva finanziaria e non ha esposizioni che non siano relative alla partecipazione nella banca controllata o nella societa' di partecipazione finanziaria o di partecipazione finanziaria mista che controlla la banca.))
 
 ((L'autorizzazione e' revocata quando vengono meno le condizioni in base alle quali questa e' stata rilasciata.))
 
@@ -1360,6 +2956,28 @@ AGGIORNAMENTO (97)
 
 ((La comunicazione di cui all'articolo 57-bis, comma 6, e' trasmessa alla Banca d'Italia e, a seconda dei casi, alla diversa autorita' competente per la vigilanza consolidata o con l'autorita' competente dello Stato dell'Unione europea in cui ha sede legale la societa' di partecipazione finanziaria o la societa' di partecipazione finanziaria mista.))
                                 ((118))
+
+4.
+                        
+                            
+                                
+                                    ((La Banca d'Italia autorizza:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((le fusioni nelle quali la societa' incorporante e' una societa' di partecipazione finanziaria o una societa' di partecipazione finanziaria mista capogruppo avente sede legale in Italia;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((le scissioni nelle quali la societa' scissa e' una societa' di partecipazione finanziaria o una societa' di partecipazione finanziaria mista capogruppo avente sede legale in Italia.))
+                                        ((118))
 
 ((Nei casi di cui al comma 4 si applica l'articolo 57, commi 1-bis, 1-ter e 1-quater.))
                                 ((118))
@@ -1404,6 +3022,88 @@ AGGIORNAMENTO (97)
 
 ## Art. 65. — ((Ambito della vigilanza su base consolidata))
 
+1.
+                        
+                            
+                                
+                                    ((Al fine dell'esercizio della vigilanza su base consolidata, la Banca d'Italia dispone dei poteri previsti dalla presente sezione)) nei confronti dei seguenti soggetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    societa' appartenenti a un gruppo bancario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    societa' ((bancarie e finanziarie)) partecipate almeno per il venti per cento dalle societa' appartenenti a un gruppo bancario o da una singola banca; (97) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    societa' ((bancarie e finanziarie)) non comprese in un gruppo bancario, ma controllate dalla persona fisica o giuridica che controlla un gruppo bancario ovvero una singola banca; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 27 DICEMBRE 2007, N. 297, CONVERTITO CON L. 23 FEBBRAIO 2007, N. 15 ; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 27 DICEMBRE 2007, N. 297, CONVERTITO CON L. 23 FEBBRAIO 2007, N. 15 ; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 27 DICEMBRE 2007, N. 297, CONVERTITO CON L. 23 FEBBRAIO 2007, N. 15 ; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 27 DICEMBRE 2007, N. 297, CONVERTITO CON L. 23 FEBBRAIO 2007, N. 15 ; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    societa' che controllano almeno una banca ((, incluse le societa' di partecipazione finanziaria o di partecipazione finanziaria mista escluse dal perimetro di consolidamento prudenziale ai sensi dell'articolo 60-ter)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    societa' diverse da quelle ((bancarie e finanziarie)) quando siano controllate da una singola banca ovvero quando societa' appartenenti a un gruppo bancario ovvero soggetti indicati nella lettera h) detengano, anche congiuntamente, una partecipazione di controllo. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    societa' di partecipazione finanziaria o societa' di partecipazione finanziaria mista esentate ai sensi dell'articolo 60-bis, comma 3 ((, salvo che non siano escluse dal perimetro di consolidamento prudenziale ai sensi dell'articolo 60-ter)); (97) 
+
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    societa', diverse da quelle indicate alle lettere precedenti, incluse nel perimetro di consolidamento prudenziale ai sensi dell'articolo 18 del regolamento (UE) n. 575/2013 e relative disposizioni attuative. (97)
+
 Nei confronti dei soggetti inclusi nell'ambito della vigilanza su base consolidata resta ferma l'applicazione di norme specifiche in tema di controlli e di vigilanza, secondo la disciplina vigente. (97)
 
 --------------
@@ -1434,7 +3134,65 @@ Gli obblighi previsti dai commi 1, 2 e 4 si applicano anche ai soggetti ai quali
 
 ## Art. 67. — Vigilanza regolamentare
 
+1.
+                        
+                            
+                                Al fine di esercitare la vigilanza su base consolidata, la Banca d'Italia impartisce alla capogruppo con sede legale in Italia e, ove cio' sia previsto dal regolamento (UE) n. 575/2013 e dalla direttiva 2013/36/UE per l'esercizio della vigilanza su base consolidata, alla societa' di partecipazione finanziaria capogruppo e alla societa' di partecipazione finanziaria mista capogruppo avente sede legale in uno Stato dell'Unione europea diverso dall'Italia, con provvedimenti di carattere generale, disposizioni concernenti il gruppo bancario complessivamente considerato o suoi componenti, aventi ad oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'adeguatezza patrimoniale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il contenimento del rischio nelle sue diverse configurazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 31 DICEMBRE 2025, N. 208)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il governo societario, l'organizzazione amministrativa e contabile, nonche' i controlli interni e i sistemi di remunerazione e di incentivazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'informativa da rendere al pubblico sulle materie indicate al presente comma. (97)
+
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.
+
+2-bis.
+                        
+                            
+                                Le disposizioni emanate ai sensi del comma 1, lettera a), prevedono la possibilita' di utilizzare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le valutazioni del rischio di credito rilasciate da societa' o enti esterni; le disposizioni disciplinano i requisiti che tali soggetti devono possedere e le relative modalita' di accertamento da parte della Banca d'Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sistemi interni di misurazione dei rischi per la determinazione dei requisiti patrimoniali, previa autorizzazione della Banca d'Italia. Per i gruppi sottoposti a vigilanza consolidata di un'autorita' di un altro Stato dell'Unione europea, la decisione e' di competenza della medesima autorita' qualora, entro sei mesi dalla presentazione della domanda di autorizzazione, non venga adottata una decisione congiunta con la Banca d'Italia e sempre che, entro il medesimo termine, il caso non sia stato rinviato all'ABE ai fini della procedura per la risoluzione delle controversie con le autorita' di vigilanza degli altri Stati membri in situazioni transfrontaliere. (97)
 
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.
 
@@ -1474,6 +3232,46 @@ I provvedimenti previsti dal Titolo IV, Capo II, nei confronti della societa' di
 
 ## Art. 67-ter. — (Poteri di intervento)
 
+1.
+                        
+                            
+                                La Banca d'Italia puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    convocare gli amministratori, i sindaci e il personale della capogruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare la convocazione degli organi collegiali della capogruppo, fissandone l'ordine del giorno, e proporre l'assunzione di determinate decisioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere direttamente alla convocazione degli organi collegiali della capogruppo quando gli organi competenti non abbiano ottemperato a quanto previsto dalla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((impartire le disposizioni previste dall'articolo 67 anche con provvedimenti di carattere particolare; questi possono essere indirizzati anche a piu' gruppi bancari o all'intero sistema bancario e riguardare anche: l'imposizione di un requisito di fondi propri aggiuntivi; la restrizione delle attivita', anche riguardo all'accettazione dei depositi, o della struttura territoriale del gruppo; il divieto di effettuare determinate operazioni e di distribuire utili o altri elementi del patrimonio, nonche', con riferimento a strumenti finanziari computabili nel patrimonio a fini di vigilanza, il divieto di pagare interessi; la fissazione di limiti all'importo totale della parte variabile delle remunerazioni nella capogruppo, quando sia necessario per il mantenimento di una solida base patrimoniale; per le capogruppo che beneficiano di eccezionali interventi di sostegno pubblico, possono inoltre essere fissati limiti alla remunerazione complessiva degli esponenti aziendali; l'imposizione della riduzione dei rischi a breve, medio e lungo termine derivanti da fattori ambientali, sociali e di governance; l'imposizione di effettuare prove di stress o analisi degli scenari per valutare i rischi derivanti dalle esposizioni alle cripto-attivita' e dalla prestazione di servizi per le cripto-attivita'; per le societa' di partecipazione finanziaria capogruppo o le societa' di partecipazione finanziaria mista capogruppo, la sospensione dei diritti di voto spettanti nelle banche controllate, il trasferimento a favore dei loro soci delle partecipazioni detenute nelle banche controllate, l'alienazione, in tutto in parte, delle partecipazioni detenute in societa' bancarie e finanziarie; la designazione temporanea di un'altra societa' di partecipazione finanziaria, societa' di partecipazione finanziaria mista o banca del gruppo per l'esercizio delle funzioni indicate nell'articolo 61;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione del gruppo, la rimozione di uno o piu' esponenti aziendali della capogruppo; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 26, salvo che sussista urgenza di provvedere.
+
 Per le societa' di partecipazione finanziaria o le societa' di partecipazione finanziaria mista indicate nell'articolo 60, comma 2, lettera b), i provvedimenti previsti al comma 1, lettera d), sono assunti dalla Banca d'Italia in qualita' di autorita' di vigilanza su base consolidata sul gruppo bancario, congiuntamente con l'autorita' competente per la vigilanza dello Stato dell'Unione europea in cui ha sede legale la societa' finanziaria o la societa' di partecipazione finanziaria mista, se diverso dall'Italia. Si applica l'articolo 60-bis, comma 8.(97)
 
 Per le societa' di partecipazione finanziaria o le societa' di partecipazione finanziaria mista indicate nell'articolo 60, comma 2, lettera c), i provvedimenti previsti al comma 1, lettera d), sono assunti dalla Banca d'Italia congiuntamente con l'autorita' dello Stato dell'Unione europea competente per la vigilanza su base consolidata. ((Si applica l'articolo 60-bis, commi 7-bis e 8.))
@@ -1504,6 +3302,31 @@ AGGIORNAMENTO (97)
 
 Al fine di agevolare l'esercizio della vigilanza su base consolidata nei confronti di gruppi operanti in piu' Stati dell'Unione europea la Banca d'Italia, sulla base di accordi con le autorita' competenti, definisce forme di collaborazione e coordinamento, istituisce collegi di supervisori e partecipa ai collegi istituiti da altre autorita'.
 
+1-bis.
+                        
+                            
+                                Nell'ambito degli accordi previsti al comma 1, la Banca d'Italia puo' concordare specifiche ripartizioni di compiti e deleghe di funzioni, anche per l'esercizio della vigilanza su base consolidata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sulle societa' di partecipazione finanziaria e sulle societa' di partecipazione finanziaria mista capogruppo, aventi sede legale in uno Stato dell'Unione europea diverso dall'Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulle societa' ((bancarie e finanziarie)) controllate dai soggetti indicati alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sulle societa' ((bancarie e finanziarie)) partecipate almeno per il venti per cento, anche congiuntamente, dai soggetti indicati nelle lettere a) e b).
+
 La Banca d'Italia, qualora nell'esercizio della vigilanza su base consolidata verifichi una situazione di emergenza potenzialmente lesiva della liquidita' e della stabilita' del sistema finanziario italiano o di un altro Stato dell'Unione europea in cui opera il gruppo bancario, informa tempestivamente l'ABE, il CERS, il Ministero dell'economia e delle finanze, nonche', in caso di gruppi operanti anche in altri Stati dell'Unione europea, le competenti autorita' monetarie.
 
 I commi 1 e 1-ter si applicano anche nell'esercizio della vigilanza su singole banche che operano con succursali aventi rilevanza sistemica negli Stati dell'Unione europea ospitanti.
@@ -1518,6 +3341,24 @@ Le autorita' creditizie, nei casi di crisi o di tensioni sui mercati finanziari,
  Il D.Lgs. 8 novembre 2021, n. 182 ha disposto (con l'art. 3, comma 6) che "Fino all'entrata in vigore delle disposizioni della Banca d'Italia di attuazione del Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385, come modificato dal presente decreto, continua ad applicarsi il Titolo III, Capo II, Sezioni I e II, del decreto legislativo 1° settembre 1993, n. 385 nella versione precedente alle modifiche apportate dal presente decreto, e la relativa disciplina attuativa."
 
 ## Art. 69.1. — Autorizzazione delle societa' di partecipazione finanziaria e delle societa' di partecipazione finanziaria mista diverse dalla capogruppo
+
+1.
+                        
+                            
+                                Le societa' di partecipazione finanziaria e le societa' di partecipazione finanziaria mista diverse dalle capogruppo presentano istanza di autorizzazione ai sensi del presente articolo quando ricorra una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbiano sede legale in Italia, non siano a loro volta controllate da una banca italiana o da un'altra societa' di partecipazione finanziaria o societa' di partecipazione finanziaria mista con sede legale in Italia, e nell'insieme delle societa' da esse controllate vi siano solo banche italiane oppure il totale dell'attivo delle banche italiane controllate sia maggiore di quello delle banche controllate aventi sede legale in Stati dell'Unione europea diversi dall'Italia oppure quando Banca d'Italia sia altrimenti nominata autorita' di vigilanza su base consolidata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbiano sede legale in Italia o in un altro Stato dell'Unione europea e siano tenute al rispetto su base sub-consolidata del regolamento (UE) n. 575/2013 e delle disposizioni di attuazione della direttiva 2013/36/UE.
 
 L'autorizzazione prevista al comma 1 e' rilasciata dalla Banca d'Italia, in qualita' di autorita' di vigilanza su base consolidata, congiuntamente con l'autorita' competente dello Stato dell'Unione europea in cui ha sede legale la societa' finanziaria o la societa' di partecipazione finanziaria mista, se diverso dall'Italia.
 
@@ -1555,11 +3396,46 @@ AGGIORNAMENTO (97)
 
 Ai fini del presente articolo, per «gruppo di Stato terzo» si intende un gruppo come definito all'articolo 4, paragrafo 1, punto 138, del regolamento (UE) n. 575/2013, la cui impresa madre, come definita all'articolo 4, paragrafo 1, punto 15, del medesimo regolamento, e' stabilita in uno Stato terzo.
 
+2.
+                        
+                            
+                                Una banca italiana che appartiene a un gruppo di Stato terzo e' tenuta ad avere una impresa madre UE intermedia in Italia o in altro Stato dell'Unione europea se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al gruppo di Stato terzo appartiene almeno un'altra banca o una societa' di partecipazione finanziaria o di partecipazione finanziaria mista stabilita nella Unione europea, oppure una Sim o un'impresa di investimento UE come definite all'articolo 1, comma 1, lettere e) ed f), del decreto legislativo 24 febbraio 1998, n. 58; e 
+                                
+                            
+                            
+                                b)
+                                
+                                    il valore totale delle attivita' detenute nell'Unione europea dal gruppo di Stato terzo e' pari o superiore a 40 miliardi di euro.
+
 Ai fini del comma 2 e' impresa madre UE intermedia una banca, o una societa' di partecipazione finanziaria o di partecipazione finanziaria mista autorizzata in conformita' a quanto previsto dall'articolo 60-bis, avente sede legale in Italia o in un altro Stato dell'Unione europea e appartenente al gruppo di Stato terzo, che a sua volta non sia controllata da una banca, una societa' di partecipazione finanziaria o di partecipazione finanziaria mista autorizzata in conformita' a quanto previsto dall'articolo 60-bis, avente sede legale in uno Stato dell'Unione europea e appartenente al gruppo di Stato terzo.
 
 L'obbligo previsto dal comma 2 e' rispettato anche quando una banca italiana e' essa stessa l'impresa madre UE intermedia.
 
 Nel caso in cui l'impresa madre UE intermedia sia una banca italiana o una societa' di partecipazione finanziaria o di partecipazione finanziaria mista autorizzata in conformita' a quanto previsto dall'articolo 60-bis, si applicano le sezioni I e II del presente Capo.
+
+6.
+                        
+                            
+                                La Banca d'Italia, quando e' autorita' di vigilanza su base consolidata, sentite le altre autorita' competenti per i soggetti di cui al comma 2, lettera a), puo' consentire che il gruppo di Stato terzo abbia due imprese madri UE intermedie nel caso in cui accerti che nel caso di una sola impresa madre UE intermedia sia verificata almeno una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vi sia incompatibilita' con un requisito di separazione delle attivita' applicabile all'impresa madre del gruppo di Stato terzo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la risolvibilita' sia resa meno efficiente in base alla valutazione effettuata dall'autorita' di risoluzione competente per la impresa madre UE intermedia.
 
 Nel caso di cui al comma 6, lettera a), la seconda impresa madre UE intermedia puo' essere una impresa di investimento di cui all'articolo 11-bis, comma 5, del decreto legislativo 24 febbraio 1998, n. 58. 
  8.. La Banca d'Italia emana disposizioni per l'attuazione del presente articolo, con particolare riguardo alle modalita' per il calcolo del valore totale delle attivita' del gruppo di Stato terzo nella Unione europea, ivi incluse quelle delle succursali, e al relativo monitoraggio, nonche' alla procedura per l'istituzione della impresa madre UE intermedia e, nei casi di cui al comma 6, per l'istituzione di due imprese madri UE intermedie.
@@ -1570,9 +3446,111 @@ Nel caso di cui al comma 6, lettera a), la seconda impresa madre UE intermedia p
 
 ## Art. 69-bis. — (Definizioni)
 
+1.
+                        
+                            
+                                Ai fini del presente titolo si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «alta dirigenza»: il direttore generale, i vice-direttori generali e le cariche ad esse assimilate, i responsabili delle principali aree di affari e coloro che rispondono direttamente all'organo amministrativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «autorita' di risoluzione a livello di gruppo»: l'autorita' di risoluzione dello Stato membro in cui si trova l'autorita' di vigilanza su base consolidata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «depositi»: i crediti relativi ai fondi acquisiti dalle banche con obbligo di rimborso; non costituiscono depositi i crediti relativi a fondi acquisiti dalla banca debitrice rappresentati da strumenti finanziari indicati dall'articolo 1, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, ovvero il cui capitale non e' rimborsabile alla pari, ovvero il cui capitale e' rimborsabile alla pari solo in forza di specifici accordi o garanzie concordati con la banca o terzi; costituiscono depositi i certificati di deposito purche' non rappresentati da valori mobiliari emessi in serie; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "depositi ammissibili al rimborso": i depositi che, ai sensi dell'articolo 96-bis.1, commi 1 e 2, sono astrattamente idonei a essere rimborsati da parte di un sistema di garanzia dei depositanti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "depositi protetti": i depositi ammissibili al rimborso che non superano il limite di rimborso da parte del sistema di garanzia dei depositanti previsto dall'articolo 96-bis.1, commi 3 e 4; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «provvedimenti di risanamento»: i provvedimenti con cui sono disposte: 
+ 1) l'amministrazione straordinaria, nonche' le misure adottate nel suo ambito; 
+ 2) le misure previste nei Capi II, III e IV del Titolo IV, del decreto legislativo((16 novembre 2015, n. 180)); 
+ 3) le misure, equivalenti a quelle indicate ai numeri 1) e 2), adottate da autorita' di altri Stati dell'Unione europea; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «risoluzione»: la procedura di cui all'articolo 1, comma 1, lettera uu) del decreto legislativo ((16 novembre 2015, n. 180, o all'articolo 18 del regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «sistema di tutela istituzionale»: un accordo riconosciuto dalla Banca d'Italia ai sensi dell'articolo 113, paragrafo 7, del regolamento (UE) n. 575/2013; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «sostegno finanziario pubblico straordinario»: gli aiuti di Stato e i sostegni finanziari pubblici di cui all'articolo 1, comma 1, lettera mmm), del decreto legislativo ((16 novembre 2015, n. 180 o all'articolo 1, paragrafo 1, punto (29), del regolamento (UE) n. 806/2014 del Parlamento europeo e del Consiglio)); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «succursale significativa»: una succursale di una banca in uno Stato dell'Unione europea considerata significativa dalla Banca d'Italia.
+
 ## - ((Capo 01-I PIANI DI RISANAMENTO))
 
 ## Art. 69-ter. — (Ambito di applicazione)
+
+1.
+                        
+                            
+                                Le disposizioni del presente capo si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle banche italiane e succursali italiane di banche extracomunitarie; ((97))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    alle societa' italiane capogruppo di un gruppo bancario e alle societa' componenti il gruppo ai sensi degli articoli 60 e 61; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle societa' incluse nell'ambito della vigilanza consolidata ai sensi dell'articolo 65, comma 1, (( lettere c), h), i-bis) e i-ter) )).
 
 Ai fini del presente capo, il controllo sussiste nei casi previsti dall'articolo 23.
 
@@ -1605,6 +3583,31 @@ Il piano di risanamento di gruppo contiene almeno le informazioni richieste da p
 
 Il piano di risanamento di gruppo e' approvato dall'organo amministrativo della capogruppo e sottoposto alla Banca d'Italia, in conformita' dell'articolo 69-septies se il gruppo ha articolazioni in altri Stati dell'Unione europea.
 
+6.
+                        
+                            
+                                La Banca d'Italia, nel rispetto degli articoli 5 e 6 del decreto legislativo 16 novembre 2015, n. 180 e dell'articolo 7, trasmette il piano di risanamento di gruppo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle autorita' competenti interessate rappresentate nei collegi delle autorita' di vigilanza o con le quali sia stato stipulato un accordo di coordinamento e cooperazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle autorita' competenti degli Stati dell'Unione europea in cui le banche incluse nel piano abbiano stabilito succursali significative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle autorita' di risoluzione delle societa' controllate incluse nel piano di risanamento di gruppo, nonche' all'autorita' di risoluzione a livello di gruppo.
+
 Il piano di risanamento di gruppo e' riesaminato e, se necessario, aggiornato almeno annualmente o con la maggiore frequenza richiesta dalla Banca d'Italia. Si procede comunque al riesame e all'eventuale aggiornamento del piano in caso di significativo mutamento della struttura giuridica o organizzativa del gruppo o della sua situazione patrimoniale o finanziaria.
 
 Le societa' indicate all'articolo 69.2 applicano i commi 1, 3, 4 e 5. Resta fermo l'articolo 69-novies, comma 2.
@@ -1616,6 +3619,31 @@ Il presente articolo si applica anche ai gruppi bancari cooperativi.
 La Banca d'Italia, entro sei mesi dalla presentazione del piano di risanamento e sentite, per le succursali significative, le autorita' competenti degli Stati ((dell'Unione europea)) in cui esse siano stabilite, verifica la completezza e adeguatezza del piano in conformita' dei criteri indicati nelle pertinenti disposizioni dell'Unione europea.
 
 Il piano di risanamento e' trasmesso all'autorita' di risoluzione per la formulazione di eventuali raccomandazioni sui profili rilevanti per la risoluzione della banca o del gruppo bancario.
+
+3.
+                        
+                            
+                                Se all'esito della verifica emergono carenze o impedimenti al conseguimento delle finalita' del piano, la Banca d'Italia puo', fissando i relativi termini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere alla banca o alla capogruppo di presentare un piano modificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indicare modifiche specifiche da apportare al piano; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinare modifiche da apportare all'attivita', alla struttura organizzativa o alla forma societaria della banca o del gruppo bancario o ordinare altre misure necessarie per conseguire le finalita' del piano.
 
 Resta ferma la possibilita' di adottare, ove le circostanze lo richiedano, una o piu' delle misure previste dagli articoli 53-bis e 67-ter.
 
@@ -1673,9 +3701,52 @@ La capogruppo di un gruppo bancario, le societa' italiane ed estere appartenenti
 
 ))
 
+2.
+                        
+                            
+                                Fermo restando quanto previsto dal capo IX del titolo V del libro V del codice civile, il presente capo non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle operazioni di finanziamento e di gestione della liquidita' eseguite tra societa' del gruppo bancario se per nessuna di esse sussistono i presupposti dell'intervento precoce; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla concessione di sostegno in qualsiasi forma, ivi incluso l'apporto di capitale, a un'altra societa' del gruppo al di fuori dei casi previsti dall'accordo, quando la societa' cui il sostegno e' concesso si trovi in difficolta' e il sostegno sia in linea con le politiche del gruppo e sia finalizzato a preservare la stabilita' del gruppo.
+
 Le societa' che aderiscono all'accordo di sostegno finanziario di gruppo si obbligano a fornirsi sostegno finanziario in conformita' dei termini dell'accordo. Possono essere previsti anche obblighi di sostegno reciproco.
 
 Il sostegno finanziario puo' essere concesso in forma di finanziamento, di prestazione di garanzia o mediante la messa a disposizione di beni o attivita' da utilizzare come garanzia reale o finanziaria, nonche' con qualsiasi combinazione di queste forme, mediante un'unica o piu' operazioni, anche tra il beneficiario del sostegno e soggetti terzi, anche esterni al gruppo e non partecipanti all'accordo.
+
+5.
+                        
+                            
+                                L'accordo e' conforme ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accordo e' sottoscritto da ciascuna parte nell'esercizio della propria autonomia negoziale e in coerenza con le eventuali direttive impartite dalla capogruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parti chiamate a fornire sostegno finanziario devono essere pienamente informate sulla situazione dei beneficiari prima della decisione di fornire il sostegno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'accordo indica i criteri di calcolo per determinare, al momento in cui il sostegno finanziario viene fornito, il corrispettivo dovuto per qualsiasi operazione effettuata in virtu' dell'accordo stesso; ove necessario per conseguire le finalita' dell'accordo, i criteri possono non tenere conto del prezzo di mercato, in particolare se esso e' influenzato da fattori anomali ed esterni al gruppo o se la parte che fornisce il sostegno dispone, in forza dell'appartenenza al gruppo del beneficiario, di informazioni non pubbliche rilevanti.
 
 L'accordo di sostegno finanziario di gruppo non puo' essere concluso se, al momento della sua conclusione, per una delle parti dell'accordo sussistono, a giudizio dell'autorita' competente, i presupposti dell'intervento precoce.
 
@@ -1706,6 +3777,66 @@ L'approvazione di un progetto di accordo di cui al comma 1 o la sua revoca non c
 6. La delibera di approvazione di un progetto di accordo di cui al comma 1 e' pubblicata con gli stessi mezzi previsti per la pubblicazione delle informazioni ai sensi dell'articolo 53, comma 1, lettera d), unitamente a una descrizione sommaria del contenuto dell'accordo. La Banca d'Italia puo' dettare disposizioni sull'informativa al pubblico dovuta dalle banche e dalle societa' capogruppo sugli accordi di sostegno finanziario di gruppo))
 
 ## Art. 69-quinquiesdecies. — (Condizioni per il sostegno)
+
+1.
+                        
+                            
+                                Il sostegno finanziario previsto dall'accordo e' concesso se sono soddisfatte tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si puo' ragionevolmente prospettare che il sostegno fornito ponga sostanziale rimedio alle difficolta' finanziarie del beneficiario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il sostegno finanziario e' diretto a preservare o ripristinare la stabilita' finanziaria del gruppo nel suo complesso o di una delle societa' del gruppo ed e' nell'interesse della societa' del gruppo che fornisce il sostegno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le condizioni del sostegno finanziario, ivi compreso il corrispettivo, sono determinate in conformita' dell'articolo 69-duodecies, comma 5, lettera c); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    vi e' la ragionevole aspettativa, sulla base delle informazioni a disposizione dell'organo amministrativo della societa' che fornisce il sostegno al momento dell'assunzione della relativa decisione, che sara' pagato un corrispettivo e rimborsato il prestito da parte della societa' beneficiaria, qualora il sostegno sia concesso sotto forma di prestito, ovvero che, nell'ipotesi in cui il sostegno sia fornito in forma garanzia reale o personale e questa sia escussa, sara' possibile recuperare per intero, anche in via di surroga o regresso, capitale, interessi e spese; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la concessione del sostegno finanziario non mette a repentaglio la liquidita' o solvibilita' della societa' del gruppo che lo fornisce; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la concessione del sostegno finanziario non minaccia la stabilita' del sistema finanziario, in particolare nello Stato ((dell'Unione europea)) in cui ha sede la societa' del gruppo che fornisce il sostegno; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la societa' del gruppo che fornisce il sostegno rispetta, nel momento in cui lo fornisce, i requisiti in materia di capitale, liquidita', grandi esposizioni e gli altri requisiti specifici eventualmente imposti in conformita' del Regolamento (UE) n. 575/2013 e delle disposizioni di attuazione della direttiva 2013/36/UE, e la concessione del sostegno finanziario non e' tale da determinare la violazione di questi requisiti da parte della societa', fatta eccezione per il caso in cui l'autorita' competente per la vigilanza sulla societa' abbia autorizzato una temporanea deroga a tali requisiti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la concessione del sostegno finanziario non pregiudica la risolvibilita' della societa' del gruppo che lo fornisce.
 
 ## Art. 69-sexiesdecies. — (Opposizione della Banca d'Italia e comunicazioni)
 
@@ -1738,11 +3869,47 @@ La Banca d'Italia puo' emanare disposizioni attuative del presente capo, anche p
 
 ## Art. 69-octiesdecies. — (Presupposti)
 
+1.
+                        
+                            
+                                La Banca d'Italia puo' disporre le seguenti misure nei confronti di una banca, una capogruppo italiana di un gruppo bancario o una delle societa' ((indicate agli articoli 69.1 e 69.2)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    le misure di cui all'articolo 69-noviesdecies, quando risultano violazioni dei requisiti del regolamento (UE) n. 575/2013, delle disposizioni di attuazione della direttiva 2013/36/UE e del titolo II della direttiva 2014/65/UE o di uno degli articoli da 3 a 7, da 14 a 17, e 24, 25 e 26 del regolamento (UE) n. 600/2014, oppure si preveda la violazione dei predetti requisiti anche a causa di un rapido deterioramento della situazione della banca o del gruppo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la rimozione degli esponenti di cui all'articolo 69-vicies-semel, quando risultano gravi violazioni di disposizioni legislative, regolamentari o statutarie o gravi irregolarita' nell'amministrazione ovvero quando il deterioramento della situazione della banca o del gruppo bancario sia particolarmente significativo, e sempre che gli interventi indicati nella lettera a) o quelli previsti negli articoli 53-bis e 67-ter non siano sufficienti per porre rimedio alla situazione.
+
 Le misure adottate ai sensi della presente Sezione sono comunicate al Comitato di Risoluzione Unico, quando riguardano i soggetti indicati all'articolo 7, paragrafi 2, 4, lettera b) e 5, del regolamento (UE) n. 806/2014.
 
 ## Art. 69-noviesdecies. — (Attuazione del piano di risanamento e altre misure)
 
 Fermi restando i poteri attribuiti dagli articoli 53-bis e 67-ter, la Banca d'Italia, al ricorrere dei presupposti di cui all'articolo 69-octiesdecies, comma 1, lettera a), puo' chiedere alla banca o alla capogruppo italiana di un gruppo bancario o a una delle ((societa' italiane indicate agli articoli 69.1 e 69.2)) di dare attuazione, anche parziale, al piano di risanamento adottato o di preparare un piano per negoziare la ristrutturazione del debito con tutti o alcuni creditori secondo il piano di risanamento, ove applicabile, o di modificare la propria forma societaria.
+
+2.
+                        
+                            
+                                La Banca d'Italia, nell'esercizio del potere di cui al comma 1 puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere l'aggiornamento del piano di risanamento quando le condizioni che hanno condotto all'intervento precoce divergono rispetto alle ipotesi contemplate nel piano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fissare un termine per l'attuazione del piano e l'eliminazione delle cause che formano presupposto dell'intervento precoce.
 
 ## Art. 69-vicies. — (Poteri di accertamento e flussi informativi)
 
@@ -1818,6 +3985,24 @@ Alle banche non si applica ((...)) l'articolo 2409 del codice civile. Se vi e' f
 
 
 ## Art. 71. — Organi della procedura
+
+1.
+                        
+                            
+                                Con il provvedimento di scioglimento degli organi la Banca d'Italia nomina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno o piu' commissari straordinari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un comitato di sorveglianza, composto da tre a cinque membri, che nomina a maggioranza di voti il proprio presidente.
 
 PERIODO SOPPRESSO DAL D.LGS. 16 NOVEMBRE 2015, N. 181. Entro quindici giorni dalla comunicazione della nomina, i commissari depositano in copia gli atti di nomina degli organi della procedura e del presidente del comitato di sorveglianza per l'iscrizione nel registro delle imprese.
 
@@ -1954,6 +4139,31 @@ Si applicano, in quanto compatibili, le disposizioni della presente sezione.
 
 In deroga ai termini previsti dagli articoli 2366 e 2369 del codice civile e 125-bis e 126 del decreto legislativo 24 febbraio 1998, n. 58, nelle banche nei confronti delle quali e' stata adottata una misura di intervento precoce o disposto l'avvio dell'amministrazione straordinaria, le assemblee chiamate a deliberare aumenti di capitale finalizzati a ripristinare l'adeguatezza patrimoniale possono essere convocate fino a dieci giorni prima di quello fissato per l'assemblea, se cosi' e' previsto dallo statuto.
 
+2.
+                        
+                            
+                                Nel caso previsto al comma 1, per le banche con azioni quotate nei mercati regolamentati italiani o di altri Stati ((dell'Unione europea)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    la comunicazione effettuata dall'intermediario ai sensi dell'articolo 83-sexies del decreto legislativo 24 febbraio 1998, n. 58, e' effettuata sulla base delle evidenze dei conti relative al termine della giornata contabile del terzo giorno di mercato aperto precedente la data fissata per l'assemblea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il termine di cui all'articolo 126-bis, comma 1, del decreto legislativo 24 febbraio 1998, n. 58, e' ridotto a cinque giorni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non trovano applicazione le modalita' di pubblicita' di cui all'articolo 126-bis, comma 2, del decreto legislativo 24 febbraio 1998, n. 58.
+
 Le previsioni di cui al comma 2, lettere b) e c), non si applicano alle banche nei confronti delle quali e' stata disposta l'amministrazione straordinaria.
 
 Il presente articolo si applica anche ((alle capogruppo italiane)). (65)
@@ -2022,6 +4232,24 @@ Le banche non sono soggette a procedure concorsuali diverse dalla liquidazione c
  Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 6 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
 
 ## Art. 81. — Organi della procedura
+
+1.
+                        
+                            
+                                La Banca d'Italia nomina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    uno o piu' commissari liquidatori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un comitato di sorveglianza composto da tre a cinque membri, che nomina a maggioranza di voti il proprio presidente.
 
 Possono essere nominati come liquidatori anche societa' o altri enti. (65)
 
@@ -2231,6 +4459,49 @@ Anche ai fini dell'eventuale esecuzione di riparti agli aventi diritto, i commis
 
 I commissari procedono alle restituzioni dei beni nonche' degli strumenti finanziari relativi ai servizi di cui al decreto legislativo 24 febbraio 1998, n. 58, e, secondo l'ordine stabilito dall'articolo 221 del codice della crisi e dell'insolvenza fatto salvo quanto previsto dal comma 1-bis, alla ripartizione dell'attivo liquidato. Le indennita' e i rimborsi spettanti agli organi della procedura di amministrazione straordinaria e ai commissari della gestione provvisoria che abbiano preceduto la liquidazione coatta amministrativa sono equiparate alle spese indicate nell'articolo 221, comma 1, lettera a), del codice della crisi e dell'insolvenza. Il pagamento dei crediti prededucibili e' effettuato previo parere favorevole del comitato di sorveglianza. (93) (96) (104)
 
+1-bis.
+                        
+                            
+                                In deroga a quanto previsto dall'articolo 2741 del codice civile e dall'articolo 221 del codice della crisi e dell'insolvenza, nella ripartizione dell'attivo liquidato ai sensi del comma 1: (93) (96) (104) 
+ 
+                            
+                            
+                                a)
+                                
+                                    i seguenti crediti sono soddisfatti con preferenza rispetto agli altri crediti chirografari: 
+ 1) la parte dei depositi di persone fisiche, microimprese, piccole e medie imprese ammissibili al rimborso e superiore all'importo previsto dall'articolo 96-bis.1, commi 3 e 4; 
+ 2) i medesimi depositi indicati al numero 1), effettuati presso succursali extracomunitarie di banche aventi sede legale in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono soddisfatti con preferenza rispetto ai crediti indicati alla lettera a): 
+ 1) i depositi protetti; 
+ 2) i crediti vantati dai sistemi di garanzia dei depositanti a seguito della surroga nei diritti e negli obblighi dei depositanti protetti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono soddisfatti con preferenza rispetto agli altri crediti chirografari ma dopo che siano stati soddisfatti i crediti indicati alle lettere a) e b), gli altri depositi presso la banca. (65) 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    i crediti per il rimborso del capitale e il pagamento degli interessi e di eventuali altri importi dovuti ai titolari degli strumenti di debito chirografario di secondo livello indicati dall'articolo 12-bis sono soddisfatti dopo tutti gli altri crediti chirografari e con preferenza rispetto ai crediti subordinati alla soddisfazione dei diritti di tutti i creditori non subordinati della societa'. 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    quando non sono computabili nei fondi propri come definiti dall'articolo 4, paragrafo 1, punto 118), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, i crediti subordinati alla soddisfazione dei diritti di tutti i creditori non subordinati della societa' sono soddisfatti, per il rimborso del capitale, il pagamento degli interessi e eventuali altri importi dovuti, dopo i crediti indicati alla lettera c-bis) e con preferenza rispetto ai crediti derivanti da elementi di fondi propri, anche per la parte non computata nei fondi propri. Lo stesso trattamento si applica anche ai crediti subordinati, quando questi hanno cessato di essere computabili nei fondi propri.
+
 Se risulta rispettata, ai sensi dell'articolo 22 del decreto legislativo 24 febbraio 1998, n. 58, la separazione del patrimonio della banca da quelli dei clienti iscritti nell'apposita sezione separata dello stato passivo, ma non sia rispettata la separazione dei patrimoni dei detti clienti tra di loro ovvero gli strumenti finanziari non risultino sufficienti per l'effettuazione di tutte le restituzioni, i commissari procedono, ove possibile, alle restituzioni ai sensi del comma 1 in proporzione dei diritti per i quali ciascuno dei clienti e' stato ammesso alla sezione separata dello stato passivo, ovvero alla liquidazione degli strumenti finanziari di pertinenza della clientela e alla ripartizione del ricavato secondo la medesima proporzione.
 
 I clienti iscritti nell'apposita sezione separata dello stato passivo concorrono con i creditori chirografari ai sensi dall'articolo 221, comma 1, lettera c) del codice della crisi e dell'insolvenza, per l'intero, nell'ipotesi in cui non risulti rispettata la separazione del patrimonio della banca da quelli dei clienti ovvero per la parte del diritto rimasto insoddisfatto, nei casi previsti dal comma 2. (93) (96) (104)
@@ -2303,6 +4574,31 @@ I commissari liquidatori sono estromessi, su propria istanza, dai giudizi relati
 Il presente articolo si applica quando la liquidazione coatta amministrativa e' priva di risorse liquide o queste sono stimate dai commissari insufficienti a soddisfare i crediti in prededuzione fino alla chiusura della procedura liquidatoria. Per clienti si intendono coloro che sono iscritti nella sezione separata dello stato passivo ai sensi dell'articolo 86, comma 6.
 
 L'autorita' di risoluzione italiana anticipa agli organi liquidatori, agli organi dell'amministrazione straordinaria e al commissario della gestione provvisoria che hanno preceduto la liquidazione coatta amministrativa le indennita' ad essi spettanti e, sulla base della relativa documentazione giustificativa, le spese per lo svolgimento dell'incarico. Le somme anticipate a questo titolo, comprensive degli interessi legali, sono recuperate sulle risorse finanziarie della procedura che si rendano successivamente disponibili, dopo l'eventuale rimborso dei clienti ai sensi del comma 4 e prima del pagamento degli altri crediti prededucibili.
+
+3.
+                        
+                            
+                                I commissari pagano, con priorita' rispetto a tutti gli altri crediti prededucibili, le spese necessarie per il funzionamento della procedura, per lo svolgimento delle attivita' di interesse dei clienti, per l'accertamento del passivo, per la conservazione e il realizzo dell'attivo, per l'esecuzione di riparti e restituzioni e per la chiusura della procedura. A questo fine, i commissari utilizzano, nel seguente ordine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le risorse liquide eventualmente disponibili della procedura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le risorse liquide o agevolmente liquidabili dei clienti, proporzionalmente al valore dei rispettivi patrimoni, fino ad un importo pari alla somma delle spese necessarie per lo svolgimento delle attivita' di interesse dei clienti medesimi e della quota parte ad essi riferibile delle altre spese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se le risorse dei clienti sono insufficienti, illiquide o di non agevole liquidazione, una somma che puo' essere anticipata dall'autorita' di risoluzione fino ad un importo massimo di euro 400.000 o, se superiore, fino al doppio delle indennita' degli organi liquidatori.
 
 Le somme anticipate ai sensi del comma 3, lettera c), comprensive degli interessi legali, sono recuperate sulle risorse liquide della procedura, con priorita' rispetto al pagamento degli altri crediti prededucibili, e poi su quelle dei clienti che si rendano successivamente disponibili, nei limiti stabiliti dal comma 3, lettera b). Le somme indicate al comma 3, lettera b), comprensive degli interessi legali, sono recuperate a beneficio dei clienti sulle risorse liquide della procedura che si rendano successivamente disponibili, prima del pagamento degli altri crediti prededucibili e dopo il rimborso di quanto anticipato dall'autorita' di risoluzione ai sensi del presente comma.
 
@@ -2406,6 +4702,81 @@ Quando e' esercitato un potere di risoluzione o applicata una misura di risoluzi
 
 ## Art. 95-ter. — Deroghe
 
+1.
+                        
+                            
+                                In deroga a quanto previsto dall'articolo 95-bis, gli effetti di un provvedimento di risanamento o dell'apertura di una procedura di liquidazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    su contratti e rapporti di lavoro, sono disciplinati dalla legge dello Stato comunitario applicabile al contratto di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su contratti che danno diritto al godimento di un bene immobile o al suo acquisto, sono disciplinati dalla legge dello Stato comunitario nel cui territorio e' situato l'immobile. Tale legge determina se un bene sia mobile o immobile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sui diritti relativi a un bene immobile, a una nave o a un aeromobile soggetti a iscrizione in un pubblico registro, sono disciplinati dalla legge dello Stato comunitario sotto la cui autorita' si tiene il registro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sull'esercizio dei diritti di proprieta' o altri diritti su strumenti finanziari la cui esistenza o il cui trasferimento presuppongano l'iscrizione in un registro, in un conto o in un sistema di deposito accentrato, sono disciplinati dalla legislazione dello Stato comunitario in cui si trova il registro, il conto o il sistema di deposito accentrato in cui sono iscritti tali diritti.
+
+2.
+                        
+                            
+                                In deroga a quanto previsto dall'articolo 95-bis, sono disciplinati dalla legge che regola il contratto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli accordi di compensazione, di netting e di novazione, fatto salvo quanto previsto agli articoli 65 e 68 del decreto legislativo ((16 novembre 2015, n. 180)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le cessioni con patto di riacquisto e le transazioni effettuate in un mercato regolamentato, fatto salvo quanto previsto agli articoli 65 e 68 del decreto legislativo ((16 novembre 2015, n. 180)), nonche' quanto previsto alla lettera d) del comma 1.
+
+3.
+                        
+                            
+                                Ferme restando le disposizioni dello Stato d'origine relative alle azioni di annullamento, di nullita' o di inopponibilita' degli atti compiuti in pregiudizio dei creditori, l'adozione di un provvedimento di risanamento o l'apertura di una procedura di liquidazione non pregiudica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il diritto reale del creditore o del terzo sui beni materiali o immateriali mobili o immobili, di proprieta' della banca, che al momento dell'adozione di un provvedimento di risanamento o dell'apertura di una procedura di liquidazione si trovano nel territorio di uno Stato comunitario diverso da quello di origine. Ai predetti fini e' assimilato a un diritto reale il diritto, iscritto in un pubblico registro e opponibile a terzi, che consente di ottenere un diritto reale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i diritti, nei confronti della banca, del venditore, basati sulla riserva di proprieta', e del compratore di beni che al momento dell'adozione del provvedimento o dell'apertura della procedura si trovano nel territorio di uno Stato comunitario diverso da quello di origine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il diritto del creditore di invocare la compensazione del proprio credito con il credito della banca, quando la compensazione sia consentita dalla legge applicabile al credito della banca.
+
 In deroga all'articolo 95-bis, la normativa dello Stato di origine non si applica alla nullita', all'annullamento o all'inopponibilita' degli atti compiuti in pregiudizio dei creditori, quando il beneficiario di tali atti prova che l'atto pregiudizievole e' disciplinato dalla legge di uno Stato comunitario che non consente, nella fattispecie, alcun tipo di impugnazione.
 
 Gli effetti dell'adozione di un provvedimento di risanamento o dell'apertura di una procedura di liquidazione sulle cause pendenti relative a un bene o a un diritto del quale la banca e' spossessata sono disciplinati dalla legge dello Stato comunitario in cui la causa e' pendente.
@@ -2470,6 +4841,24 @@ I sistemi di garanzia hanno una dotazione finanziaria proporzionata alle proprie
 
 In fase di prima applicazione, il livello-obiettivo indicato al comma 1 e' raggiunto, in modo graduale, entro il 3 luglio 2024. Il termine e' prorogato sino al 3 luglio 2028, se prima del 3 luglio 2024 il sistema ha impiegato le proprie risorse per un ammontare superiore allo 0,8 per cento dell'importo dei depositi protetti delle banche aderenti al 31 dicembre dell'anno precedente ad eccezione di quelli indicati all'articolo 96-bis.1, comma 4.
 
+3.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, puo' prevedere, previa approvazione della Commissione europea, una dotazione finanziaria inferiore a quella indicata al comma 1, e pari almeno allo 0,5 per cento dell'importo dei depositi protetti delle banche aderenti, ad eccezione di quelli indicati all'articolo 96-bis.1, comma 4, se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' improbabile che una quota rilevante della dotazione finanziaria venga utilizzata per misure diverse da quelle di cui all'articolo 96-bis, comma 1-bis, lettere b) e c); e 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il settore bancario in cui operano gli aderenti al sistema di garanzia e' altamente concentrato e una grande quantita' di attivita' e' detenuta da un ridotto numero di banche o di gruppi bancari che, data la loro dimensione, in caso di dissesto sarebbero probabilmente soggetti a risoluzione.
+
 Se, dopo la data indicata al comma 1, la dotazione finanziaria si riduce al di sotto del livello-obiettivo ivi indicato, o, se del caso, di quello stabilito ai sensi del comma 3, essa e' ripristinata mediante il versamento di contributi periodici ai sensi dell'articolo 96.2, comma 1. Il ripristino avviene entro sei anni, se la dotazione finanziaria si riduce a meno di due terzi del livello-obiettivo.
 
 La dotazione finanziaria costituisce un patrimonio autonomo, distinto a tutti gli effetti dal patrimonio del sistema di garanzia e da quello di ciascun aderente, nonche' da ogni altro fondo istituito presso lo stesso sistema di garanzia. Delle obbligazioni contratte in relazione agli interventi e ai finanziamenti disciplinati dalla presente Sezione il sistema di garanzia risponde esclusivamente con la dotazione finanziaria. Salvo quanto previsto dalla presente Sezione, su di essa non sono ammesse azioni dei creditori del sistema di garanzia o nell'interesse di quest'ultimo, ne' quelle dei creditori dei singoli aderenti o degli altri fondi eventualmente istituiti presso lo stesso sistema di garanzia.
@@ -2498,6 +4887,123 @@ Entro il 31 marzo di ciascun anno la Banca d'Italia informa l'ABE circa l'import
 
 ## Art. 96-bis. — Interventi
 
+1.
+                        
+                            
+                                I sistemi di garanzia tutelano i depositanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delle banche italiane aderenti, incluse le loro succursali comunitarie e, se previsto dallo statuto, le loro succursali ((di Stato terzo)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle succursali italiane delle banche ((di Stato terzo)) aderenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle succursali italiane delle banche comunitarie aderenti.
+
+1-bis.
+                        
+                            
+                                I sistemi di garanzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuano, nei limiti e secondo le modalita' indicati negli articoli 96-bis.1 e 96-bis.2, rimborsi in caso di provvedimento adottato ai sensi dell'articolo 96-bis.2, comma 01, o nei casi di liquidazione coatta amministrativa delle banche italiane e delle succursali italiane di banche ((di Stato terzo)); per le succursali di banche comunitarie operanti in Italia che abbiano aderito in via integrativa a un sistema di garanzia italiano, i rimborsi hanno luogo se e' intervenuto il sistema di garanzia dello Stato di appartenenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contribuiscono al finanziamento della risoluzione delle banche italiane e delle succursali italiane di banche ((di Stato terzo)) secondo le modalita' e nei limiti previsti dal decreto legislativo 16 novembre 2015, n. 180; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se previsto dallo statuto, possono intervenire in operazioni di cessione di attivita', passivita', aziende, rami d'azienda, beni e rapporti giuridici individuabili in blocco di cui all'articolo 90, comma 2, se, secondo quanto ragionevolmente prevedibile in base alle informazioni disponibili al momento dell'intervento, il costo di quest'ultimo non supera gli oneri che il sistema dovrebbe sostenere per il rimborso dei depositi al netto di quanto esso recupererebbe dalla banca in liquidazione per il credito di cui all'articolo 91, comma 1-bis, lettera b), numero 2) ; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se previsto dallo statuto, possono effettuare interventi nei confronti di banche italiane e succursali italiane di banche ((di Stato terzo)) per prevenire o superare lo stato di dissesto o di rischio di dissesto di cui all'articolo 17, comma 1, lettera a), del decreto legislativo 16 novembre 2015, n. 180.
+
+1-ter.
+                        
+                            
+                                Lo statuto del sistema di garanzia definisce modalita' e condizioni degli interventi di cui al comma 1-bis, lettera d), con particolare riguardo a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli impegni che la banca beneficiaria dell'intervento deve assumere per rafforzare i propri presidi dei rischi anche al fine di non pregiudicare l'accesso dei depositanti ai depositi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la verifica sul rispetto degli impegni assunti dalla banca ai sensi della lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il costo dell'intervento, che non supera il costo che il sistema, secondo quanto ragionevolmente prevedibile, dovrebbe sostenere per effettuare altri interventi nei casi previsti dalla legge o dallo statuto.
+
+1-quater.
+                        
+                            
+                                L'intervento di cui al comma 1-bis, lettera d), puo' essere effettuato, se la Banca d'Italia ha accertato che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non e' stata avviata un'azione di risoluzione ai sensi dell'articolo 1, comma 1, lettera f), del decreto legislativo 16 novembre 2015, n. 180] e comunque non ne sussistono le condizioni; e 
+                                
+                            
+                            
+                                b)
+                                
+                                    le banche aderenti al sistema di garanzia cui aderisce la banca beneficiaria dell'intervento sono in grado di versare i contributi straordinari ai sensi dell'articolo 96.2, comma 3.
+
+1-quinquies.
+                        
+                            
+                                Dopo che il sistema di garanzia ha effettuato un intervento ai sensi del comma 1-bis, lettera d), le banche aderenti gli forniscono senza indugio, se necessario sotto forma di contributi straordinari, risorse pari a quelle utilizzate per l'intervento, se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la dotazione finanziaria del sistema si e' ridotta a meno del 25 per cento del livello-obiettivo di cui all'articolo 96.1, comma 1, o, se del caso, del diverso livello stabilito dal Ministro dell'economia e delle finanze ai sensi dell'articolo 96.1, comma 3; oppure 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la dotazione finanziaria del sistema si e' ridotta a meno di due terzi del livello-obiettivo di cui all'articolo 96.1, comma 1, o, se del caso, del diverso livello stabilito dal Ministro dell'economia e delle finanze ai sensi dell'articolo 96.1, comma 3, ed emerge la necessita' di effettuare il rimborso di depositi protetti.
+
 Finche' il livello-obiettivo di cui all'articolo 96.1, comma 1, o, se del caso, del diverso livello stabilito dal Ministro dell'economia e delle finanze ai sensi dell'articolo 96.1, comma 3 non e' raggiunto, le soglie di cui al comma 1-quinquies sono riferite all'effettiva dotazione finanziaria disponibile.
 
 COMMA ABROGATO DAL D.LGS. 15 FEBBRAIO 2016, N. 30.
@@ -2518,13 +5024,141 @@ COMMA ABROGATO DAL D.LGS. 15 FEBBRAIO 2016, N. 30.
 
 Sono ammissibili al rimborso i crediti che possono essere fatti valere nei confronti della banca in liquidazione coatta amministrativa , secondo quanto previsto dalla Sezione III ((, o della banca per la quale e' stato adottato il provvedimento di cui all'articolo 96-bis.2, comma 01)), relativi ai fondi acquisiti dalla banca con obbligo di restituzione, sotto forma di depositi o sotto altra forma, nonche' agli assegni circolari e agli altri titoli di credito ad essi assimilabili.
 
+2.
+                        
+                            
+                                In deroga al comma 1, non sono ammissibili al rimborso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i depositi effettuati in nome e per conto proprio da banche, enti finanziari come definiti dall'articolo 4, paragrafo 1, punto 26), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio del 26 giugno 2013, imprese di investimento, imprese di assicurazione, imprese di riassicurazione, organismi di investimento collettivo del risparmio, fondi pensione, nonche' enti pubblici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i fondi propri come definiti dall'articolo 4, paragrafo 1, punto 118), del regolamento (UE) n. 575/2013 del Parlamento europeo o del Consiglio del 26 giugno 2013; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i depositi derivanti da transazioni in relazione alle quali sia intervenuta una condanna definitiva per i reati previsti dagli articoli 648-bis e 648-ter del codice penale; resta fermo quanto previsto dall'articolo 648-quater del codice penale. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i depositi i cui titolari, al momento dell'avvio della procedura di liquidazione coatta amministrativa, non risultano identificati ai sensi della disciplina in materia di prevenzione dell'utilizzo del sistema finanziario a scopo di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le obbligazioni e i crediti derivanti da accettazioni, paghero' cambiari e operazioni in titoli.
+
 L'ammontare massimo oggetto di rimborso ai sensi dell'articolo 96-bis, comma 1-bis, lettera a), e' pari a 100.000 euro per ciascun depositante. Il limite e' adeguato ai sensi dell'articolo 6, paragrafo 7, della direttiva 2014/49/UE.
+
+4.
+                        
+                            
+                                Il limite indicato al comma 3 non si applica, nei nove mesi successivi al loro accredito o al momento in cui divengono disponibili, ai depositi di persone fisiche aventi ad oggetto importi derivanti da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    operazioni relative al trasferimento o alla costituzione di diritti reali su unita' immobiliari adibite ad abitazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    divorzio, pensionamento, scioglimento del rapporto di lavoro, invalidita' o morte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il pagamento di prestazioni assicurative, di risarcimenti o di indennizzi in relazione a danni per fatti considerati dalla legge come reati contro la persona o per ingiusta detenzione.
+
+5.
+                        
+                            
+                                Ai fini del calcolo del limite di cui al comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i depositi presso un conto di cui due o piu' soggetti sono titolari come partecipanti di un ente senza personalita' giuridica sono trattati come se fossero effettuati da un unico depositante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se piu' soggetti hanno pieno diritto sulle somme depositate su un conto, la quota spettante a ciascuno di essi e' considerata nel calcolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si tiene conto della compensazione dell'ammontare complessivo del deposito con eventuali debiti del depositante nei confronti della banca, se esigibili alla data in cui si producono gli effetti del provvedimento di cui all'articolo 96-bis.2, comma 01, o di quello di liquidazione coatta amministrativa ai sensi dell'articolo 83, comma 1, nella misura in cui la compensazione e' possibile a norma delle disposizioni di legge o di previsioni contrattuali applicabili.
 
 ## Art. 96-bis.2. — (Modalita' del rimborso dei depositi)
 
 
 
 Il rimborso e' effettuato entro sette giorni lavorativi dalla data in cui si producono gli effetti del provvedimento di liquidazione coatta amministrativa ai sensi dell'articolo 83, comma 1 ((, ovvero del provvedimento di cui al comma 01)), senza che sia necessario presentare alcuna richiesta al sistema di garanzia. A tal fine, la banca aderente trasmette tempestivamente al sistema di garanzia le informazioni necessarie sui depositi e sui depositanti su richiesta del sistema stesso. Il rimborso e' effettuato in euro o nella valuta dello Stato dove risiede il titolare del deposito; se il conto e' denominato in una valuta diversa, il tasso di cambio utilizzato e' quello della data in cui si producono gli effetti del provvedimento di liquidazione coatta amministrativa ai sensi dell'articolo 83, comma 1 ((, ovvero del provvedimento di cui al comma 01)). (68)
+
+2.
+                        
+                            
+                                Il sistema di garanzia puo' differire il rimborso nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vi e' incertezza sul diritto del titolare a ricevere il rimborso o il deposito e' oggetto di una controversia in sede giudiziale o presso un organismo di risoluzione stragiudiziale delle controversie, la cui definizione incide su tale diritto o sull'ammontare del rimborso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il deposito e' soggetto a misure restrittive imposte da uno Stato o da un'organizzazione internazionale, finche' detta misura restrittiva e' efficace; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se non e' stata effettuata alcuna operazione relativa al deposito nei ventiquattro mesi precedenti la data di cui al comma 1; in questo caso il rimborso e' effettuato entro sei mesi dalla data di cui al comma 1, fermo restando che non e' dovuto alcun rimborso se il valore del deposito e' inferiore ai costi amministrativi che il sistema di garanzia sosterrebbe per effettuare il rimborso medesimo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'importo da rimborsare come definito dall'articolo 96-bis.1, comma 4, eccede 100.000 euro; il differimento opera per la sola eccedenza e il rimborso e' effettuato entro sei mesi dalla data prevista dal comma 1; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il rimborso va effettuato ai sensi dell'articolo 96-quater.2, comma 2; in tal caso, il termine di cui al comma 1 decorre dalla data in cui il sistema di garanzia riceve le risorse.
 
 In deroga al comma 1, se un depositante, o altra persona avente diritto o un interesse sulle somme depositate su un conto, e' sottoposto a un procedimento penale, a misura di prevenzione o a provvedimenti di sequestro connessi con il riciclaggio di proventi di attivita' illecite, il sistema di garanzia puo' sospendere i pagamenti relativi al depositante fino al passaggio in giudicato della sentenza di proscioglimento o assoluzione. Resta fermo quanto previsto dall'articolo 96-bis.1, comma 2, lettera c).
 
@@ -2541,6 +5175,45 @@ I sistemi di garanzia, quando effettuano i rimborsi ai sensi dell'articolo 96-bi
  c) 10 giorni lavorativi dal 1° gennaio 2021 al 31 dicembre 2023".
 
 ## Art. 96-bis.3. — (Obblighi dei sistemi di garanzia)
+
+1.
+                        
+                            
+                                I sistemi di garanzia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dispongono di assetti di governo, di strutture organizzative e di sistemi di controllo adeguati allo svolgimento della loro attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuano con regolarita', almeno ogni tre anni, prove di resistenza della propria capacita' di effettuare gli interventi di cui all'articolo 96-bis: a tal fine essi possono chiedere informazioni alla banche aderenti, che sono conservate per il tempo strettamente necessario allo svolgimento delle prove di resistenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    redigono la corrispondenza con i depositanti delle banche aderenti nella lingua o nelle lingue utilizzate dalla banca presso cui si trova il deposito protetto per le comunicazioni con i propri depositanti ai sensi del Titolo VI o in una delle lingue ufficiali dello Stato membro in cui e' stabilita la succursale presso cui e' costituito il deposito protetto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantiscono la riservatezza di notizie, informazioni e dati in loro possesso in ragione della propria attivita' istituzionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    redigono il proprio bilancio, soggetto a revisione legale dei conti.
 
 I componenti degli organi dei sistemi di garanzia e a coloro che prestano la loro attivita' per essi sono vincolati al segreto professionale in relazione alle notizie, le informazioni e i dati indicati al comma 1, lettera d).
 
@@ -2597,6 +5270,77 @@ Resta ferma la possibilita' di disporre la liquidazione coatta amministrativa ai
 
 ((
 
+1.
+                        
+                            
+                                Un sistema di garanzia puo' erogare prestiti su base volontaria a un altro sistema di garanzia, anche se istituito in uno altro Stato membro, se quest'ultimo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non e' in grado di adempiere i propri obblighi di rimborso a causa dell'insufficienza della propria dotazione finanziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha gia' fatto ricorso ai contributi straordinari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizza i fondi presi a prestito per il rimborso dei depositanti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non deve rimborsare un prestito ad altri sistemi di garanzia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    indica l'importo richiesto, comunque non superiore allo 0,5 per cento dei depositi da esso garantiti, ad eccezione di quelli indicati all'articolo 96-bis.1, comma 4; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    informa senza indugio l'ABE, dando comunicazione di quanto previsto alle lettere a), b), c), d), ed e).
+
+2.
+                        
+                            
+                                L'erogazione del prestito e' soggetta alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il prestito e' rimborsato entro cinque anni; gli interessi sono corrisposti solo al momento del rimborso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il tasso di interesse e' pari almeno al tasso per operazioni di rifinanziamento marginale della Banca centrale europea durante la durata del prestito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il sistema di garanzia mutuante informa l'ABE del tasso di interesse iniziale e della durata del prestito.
+
 Se un sistema di garanzia ha preso in prestito fondi ai sensi del presente articolo, i contributi da versare al sistema sono determinati in misura sufficiente a ripagare l'importo preso a prestito e ristabilire la dotazione finanziaria quanto prima.
 
 ))
@@ -2604,6 +5348,42 @@ Se un sistema di garanzia ha preso in prestito fondi ai sensi del presente artic
 ## Art. 96-quater.2. — (( (Cooperazione fra sistemi di garanzia dei depositanti).))
 
 ((
+
+1.
+                        
+                            
+                                Il rimborso dei depositanti delle succursali italiane di banche comunitarie e' effettuato dal sistema di garanzia italiano individuato dalla Banca d'Italia, per conto del sistema di garanzia dello Stato membro di origine e dopo che quest'ultimo gli ha fornito i fondi necessari. Il sistema di garanzia italiano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettua i rimborsi conformemente alle istruzioni del sistema di garanzia dello Stato membro di origine e a fronte di un indennizzo per le spese sostenute; il sistema di garanzia italiano che effettua il rimborso non e' responsabile degli atti compiuti conformemente alle istruzioni ricevute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    informa i depositanti interessati per conto del sistema di garanzia dello Stato membro di origine ed e' abilitato a ricevere la corrispondenza proveniente da questi depositanti e indirizzata al sistema dello Stato membro di origine.
+
+2.
+                        
+                            
+                                Quando si procede al rimborso dei depositi di una banca italiana con succursali stabilite in altri Stati membri, il sistema di garanzia cui la banca aderisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    impartisce istruzioni al sistema di garanzia dello Stato membro ai fini del rimborso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce senza indugio al sistema di garanzia dello Stato membro i fondi necessari ai fini del rimborso e lo indennizza dei costi sostenuti.
 
 I sistemi di garanzia istituiti in Italia scambiano con i sistemi di garanzia degli Stati membri in cui sono stabilite succursali di banche italiane le informazioni acquisite nell'ambito della propria attivita' istituzionale. Ai dati ricevuti si applica l'articolo 96-bis.3, commi 1, lettera d), e 2.
 
@@ -2684,6 +5464,24 @@ Il presente articolo si applica, in quanto compatibile, alle succursali italiane
 ## Art. 98. — Amministrazione straordinaria
 
 Salvo quanto previsto dal presente articolo, alla capogruppo italiana di un gruppo bancario si applicano le norme del presente titolo, capo I, sezione I.
+
+2.
+                        
+                            
+                                L'amministrazione straordinaria della capogruppo italiana, oltre che nei casi previsti dall'art. 70, puo' essere disposta quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultino gravi inadempienze nell'esercizio dell'attivita' prevista dall'art. 61, comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una delle societa' del gruppo bancario sia stata sottoposta alla procedura del fallimento, ((...)) del concordato preventivo, della liquidazione coatta amministrativa, della risoluzione dell'amministrazione straordinaria ovvero ad altra analoga procedura prevista da leggi speciali o da altro Stato dell'Unione europea, nonche' quando sia stato nominato l'amministratore giudiziario secondo le disposizioni del codice civile in materia di denuncia al tribunale di gravi irregolarita' nella gestione e possa essere alterato in modo grave l'equilibrio finanziario o gestionale del gruppo.
 
 L'amministrazione straordinaria dura un anno, salvo che il provvedimento con cui e' disposta non preveda un termine piu' breve o la Banca d'Italia ne autorizzi la chiusura anticipata. La procedura puo' essere prorogata per lo stesso periodo di un anno dalla Banca d'Italia, anche piu' di una volta, se sussistono i presupposti indicati nell'articolo 70 e nel comma 2 del presente articolo. In tal caso, la proroga puo' riguardare anche le procedure di amministrazione straordinaria relative alle societa' appartenenti al gruppo. Il provvedimento di proroga e' pubblicato per estratto nella Gazzetta Ufficiale della Repubblica italiana. (65)
 
@@ -2830,6 +5628,31 @@ Le disposizioni degli articoli precedenti si applicano anche nei confronti dei g
 
 ## Art. 105-bis. — (Cooperazione tra autorita')
 
+1.
+                        
+                            
+                                La Banca d'Italia informa l'ABE e consulta le altre autorita' competenti prima di applicare una misura di intervento precoce o disporre l'amministrazione straordinaria nei confronti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della capogruppo italiana di un gruppo bancario operante in altro Stato dell'Unione europea attraverso una banca controllata o una succursale significativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di una banca italiana soggetta a vigilanza consolidata dell'autorita' competente di un altro Stato dell'Unione europea; 
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((di una delle societa' italiane indicate agli articoli 69.1 e 69.2)).
+
 La Banca d'Italia, se consultata sull'adozione di una misura di intervento precoce o dell'amministrazione straordinaria da parte dell'autorita' competente per la vigilanza di una banca dell'Unione europea appartenente a un gruppo bancario, comunica le proprie valutazioni entro tre giorni dalla richiesta di consultazione.
 
 Le decisioni di cui al comma 1 sono adottate dalla Banca d'Italia tenendo conto degli impatti sulle entita' del gruppo insediate in altri Stati dell'Unione europea, secondo quanto emerga dalle procedure di cooperazione di cui al presente articolo, e sono notificate alla capogruppo, alle altre autorita' competenti e all'ABE.
@@ -2848,6 +5671,31 @@ Si applicano, in quanto compatibili, le disposizioni del presente capo.
 ## Art. 106. — Albo degli intermediari finanziari
 
 L'esercizio nei confronti del pubblico dell'attivita' di concessione di finanziamenti sotto qualsiasi forma e' riservato agli intermediari finanziari autorizzati, iscritti in un apposito albo tenuto dalla Banca d'Italia.
+
+2.
+                        
+                            
+                                Oltre alle attivita' di cui al comma 1 gli intermediari finanziari possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    emettere moneta elettronica e prestare servizi di pagamento a condizione che siano a cio' autorizzati ai sensi dell'articolo 114-quinquies, comma 4, e iscritti nel relativo albo, oppure prestare solo servizi di pagamento a condizione che siano a cio' autorizzati ai sensi dell'articolo 114-novies, comma 4, e iscritti nel relativo albo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestare servizi di investimento se autorizzati ai sensi dell'articolo 18, comma 3, del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esercitare le altre attivita' a loro eventualmente consentite dalla legge nonche' attivita' connesse o strumentali, nel rispetto delle disposizioni dettate dalla Banca d'Italia.
 
 Il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, specifica il contenuto delle attivita' indicate nel comma 1, nonche' in quali circostanze ricorra l'esercizio nei confronti del pubblico. 
 (37) (38)((54))
@@ -2870,6 +5718,64 @@ AGGIORNAMENTO (54)
 
 ## Art. 107. — Autorizzazione
 
+1.
+                        
+                            
+                                La Banca d'Italia autorizza gli intermediari finanziari ad esercitare la propria attivita' al ricorrere delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adottata la forma di societa' per azioni, in accomandita per azioni, a responsabilita' limitata e cooperativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede legale e la direzione generale siano situate nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il capitale versato sia di ammontare non inferiore a quello determinato dalla Banca d'Italia anche in relazione al tipo di operativita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    venga presentato un programma concernente l'attivita' iniziale e la struttura organizzativa, unitamente all'atto costitutivo e allo statuto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 19 per i titolari delle partecipazioni ivi indicate;
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, secondo quanto previsto ai sensi dell'articolo 110;
+                                
+                            
+                            
+                                f)
+                                
+                                    non sussistano, tra gli intermediari finanziari o i soggetti del gruppo di appartenenza e altri soggetti, stretti legami che ostacolino l'effettivo esercizio delle funzioni di vigilanza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'oggetto sociale sia limitato alle sole attivita' di cui ai commi 1 e 2 dell'articolo 106.
+
 La Banca d'Italia nega l'autorizzazione quando dalla verifica delle condizioni indicate nel comma 1 non risulti garantita la sana e prudente gestione.
 
 La Banca d'Italia disciplina la procedura di autorizzazione, i casi di revoca, nonche' di decadenza, quando l'intermediario autorizzato non abbia iniziato l'esercizio dell'attivita', e detta disposizioni attuative del presente articolo. 
@@ -2889,6 +5795,63 @@ La Banca d'Italia disciplina la procedura di autorizzazione, i casi di revoca, n
 
 La Banca d'Italia emana disposizioni di carattere generale aventi a oggetto: il governo societario, l'adeguatezza patrimoniale, il contenimento del rischio nelle sue diverse configurazioni, l'organizzazione amministrativa e contabile, i controlli interni e i sistemi di remunerazione e incentivazione nonche' l'informativa da rendere al pubblico sulle predette materie. La Banca d'Italia puo' adottare, ove la situazione lo richieda, provvedimenti specifici nei confronti di singoli intermediari per le materie in precedenza indicate. Con riferimento a determinati tipi di attivita' la Banca d'Italia puo' inoltre dettare disposizioni volte ad assicurarne il regolare esercizio.
 
+2.
+                        
+                            
+                                Le disposizioni emanate ai sensi del comma 1 prevedono che gli intermediari finanziari possano utilizzare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le valutazioni del rischio di credito rilasciate da societa' o enti esterni previsti dall'articolo 53, comma 2-bis, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sistemi interni di misurazione dei rischi per la determinazione dei requisiti patrimoniali, previa autorizzazione della Banca d'Italia.
+
+3.
+                        
+                            
+                                La Banca d'Italia puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    convocare gli amministratori, i sindaci e i dirigenti degli intermediari finanziari per esaminare la situazione degli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare la convocazione degli organi collegiali degli intermediari finanziari, fissandone l'ordine del giorno, e proporre l'assunzione di determinate decisioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere direttamente alla convocazione degli organi collegiali degli intermediari finanziari quando gli organi competenti non abbiano ottemperato a quanto previsto dalla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottare per le materie indicate nel comma 1, ove la situazione lo richieda, provvedimenti specifici nei confronti di singoli intermediari finanziari, riguardanti anche: la restrizione delle attivita' o della struttura territoriale; il divieto di effettuare determinate operazioni, anche di natura societaria, e di distribuire utili o altri elementi del patrimonio, nonche', con riferimento a strumenti finanziari computabili nel patrimonio a fini di vigilanza, il divieto di pagare interessi; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione dell'intermediario finanziario, la rimozione dalla carica di uno o piu' esponenti aziendali; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 26, salvo che sussista urgenza di provvedere.
+
 La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci, i dirigenti dei soggetti ai quali siano state esternalizzate funzioni aziendali ((...)).
 
 Gli intermediari finanziari inviano alla Banca d'Italia, con le modalita' e nei termini da essa stabiliti, le segnalazioni periodiche nonche' ogni altro dato e documento richiesto. Essi trasmettono anche i bilanci con le modalita' e nei termini stabiliti dalla Banca d'Italia.
@@ -2904,6 +5867,47 @@ Nell'esercizio dei poteri di cui al presente articolo la Banca d'Italia osserva 
 ## Art. 109. — Vigilanza consolidata
 
 La Banca d'Italia emana disposizioni volte a individuare, tra soggetti non sottoposti a vigilanza consolidata ai sensi del capo II, titolo III, ovvero del decreto legislativo 24 febbraio 1998, n. 58, il gruppo finanziario, composto da uno o piu' intermediari finanziari, delle banche di Stato terzo e dalle societa' finanziarie come definite dall'articolo 59, comma 1, lettera b). Societa' capogruppo e' l'intermediario finanziario o la societa' finanziaria che esercita il controllo diretto o indiretto sugli altri componenti del gruppo.
+
+2.
+                        
+                            
+                                La Banca d'Italia puo' esercitare ((i poteri previsti dal presente articolo)), oltre che nei confronti dei soggetti di cui al comma 1 inclusi nel gruppo finanziario, nei confronti di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    intermediari finanziari e societa' ((bancarie e finanziarie)) partecipate per almeno il venti per cento dalle societa' appartenenti a un gruppo finanziario o da un intermediario finanziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    intermediari finanziari e societa' ((bancarie e finanziarie)) non comprese in un gruppo finanziario, ma controllate dalla persona fisica o giuridica che controlla un gruppo finanziario o un intermediario finanziario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    societa' diverse dagli intermediari finanziari e da quelle ((bancarie e finanziarie)) quando siano controllate da un intermediario finanziario ovvero quando societa' appartenenti a un gruppo finanziario detengano, anche congiuntamente, una partecipazione di controllo. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((societa' che controllano almeno un intermediario finanziario e non appartengono al gruppo finanziario;))
+                                    
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    
+                                        ((societa', diverse da quelle indicate nelle lettere precedenti, incluse nel perimetro di consolidamento prudenziale come definito secondo le disposizioni attuative della Banca d'Italia;))
 
 ((Al fine dell'esercizio della vigilanza su base consolidata)), la Banca d'Italia: 
  a ) puo' impartire alla capogruppo, con provvedimenti di carattere generale o particolare, disposizioni concernenti il gruppo finanziario complessivamente considerato o i suoi componenti, sulle materie indicate nell'articolo 108, comma 1. L'articolo 108 si applica anche al gruppo finanziario. Le disposizioni emanate dalla Banca d'Italia per esercitare la vigilanza su base consolidata possono tenere conto, anche con riferimento al singolo intermediario finanziario, della situazione ((dei soggetti indicati nel comma 2, lettere a), b) e c-ter) )). La Banca d'Italia puo' impartire disposizioni anche nei confronti di un solo o di alcuni componenti il gruppo finanziario; 
@@ -2924,13 +5928,110 @@ Ai titolari delle partecipazioni indicate all'articolo 19 in intermediari finanz
 
 ## Art. 111. — Microcredito
 
+1.
+                        
+                            
+                                In deroga all'articolo 106, comma 1, i soggetti iscritti in un apposito elenco, possono concedere finanziamenti a persone fisiche o societa' di persone o societa' a responsabilita' limitata semplificata di cui all'articolo 2463-bis codice civile o associazioni o societa' cooperative, per l'avvio o l'esercizio di attivita' di lavoro autonomo o di microimpresa, a condizione che i finanziamenti concessi abbiano le seguenti caratteristiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    siano di ammontare non superiore a euro ((75.000,00)) e non siano assistiti da garanzie reali; (86) 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DALLA L. 30 DICEMBRE 2021, N. 234)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano accompagnati dalla prestazione di servizi ausiliari di assistenza e monitoraggio dei soggetti finanziati.
+
+((1-bis. I soggetti iscritti nell'apposito elenco di cui al comma 1 possono concedere finanziamenti a societa' a responsabilita' limitata senza le limitazioni indicate nel comma 1, lettera a), e comunque per un importo non superiore ad euro 100.000,00))
+
+2.
+                        
+                            
+                                L'iscrizione nell'elenco di cui al comma 1 e' subordinata al ricorrere delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    forma di societa' per azioni, in accomandita per azioni, a responsabilita' limitata e cooperativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    capitale versato di ammontare non inferiore a quello stabilito ai sensi del comma 5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    requisiti di onorabilita' dei soci di controllo o rilevanti, nonche' di onorabilita' e professionalita' degli esponenti aziendali, ai sensi del comma 5; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    oggetto sociale limitato alle sole attivita' di cui al comma 1, nonche' alle attivita' accessorie e strumentali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    presentazione di un programma di attivita'.
 
 I soggetti di cui al comma 1 possono erogare in via non prevalente finanziamenti anche a favore di persone fisiche in condizioni di particolare vulnerabilita' economica o sociale, purche' i finanziamenti concessi siano di importo massimo di euro 10.000, non siano assistiti da garanzie reali, siano accompagnati dalla prestazione di servizi ausiliari di bilancio familiare, abbiano lo scopo di consentire l'inclusione sociale e finanziaria del beneficiario e siano prestati a condizioni piu' favorevoli di quelle prevalenti sul mercato.
 
 Nel caso di esercizio dell'attivita' di cui al comma 3, questa attivita' e quella di cui al comma 1 devono essere esercitate congiuntamente.
 
 In deroga all'articolo 106, comma 1, i soggetti giuridici senza fini di lucro, in possesso delle caratteristiche individuate ai sensi del comma 5 nonche' dei requisiti previsti dal comma 2, lettera c), possono svolgere l'attivita' indicata al comma 3, a tassi adeguati a consentire il mero recupero delle spese sostenute dal creditore.
+
+5.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, emana disposizioni attuative del presente articolo, anche disciplinando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    requisiti concernenti i beneficiari e le forme tecniche dei finanziamenti ((, prevedendo comunque una durata dei finanziamenti fino a quindici anni)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    limiti oggettivi, riferiti al volume delle attivita', alle condizioni economiche applicate e all'ammontare massimo dei singoli finanziamenti, anche modificando i limiti stabiliti dal comma 1, lettera a) e dal comma 3 ((, escludendo comunque alcun tipo di limitazione riguardante i ricavi, il livello di indebitamento e l'attivo patrimoniale)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le caratteristiche dei soggetti che beneficiano della deroga prevista dal comma 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le informazioni da fornire alla clientela.
 
 L'utilizzo del sostantivo microcredito e' subordinato alla concessione di finanziamenti secondo le caratteristiche di cui ai commi 1 e 3. 
 (38)
@@ -2947,6 +6048,52 @@ L'utilizzo del sostantivo microcredito e' subordinato alla concessione di finanz
 ## Art. 111-bis. — (( (Finanza etica e sostenibile). ))
 
 ((
+
+1.
+                        
+                            
+                                Sono operatori bancari di finanza etica e sostenibile le banche che conformano la propria attivita' ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valutano i finanziamenti erogati a persone giuridiche secondo standard di rating etico internazionalmente riconosciuti, con particolare attenzione all'impatto sociale e ambientale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    danno evidenza pubblica, almeno annualmente, anche via web, dei finanziamenti erogati di cui alla lettera a), tenuto conto delle vigenti normative a tutela della riservatezza dei dati personali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    devolvono almeno il 20 per cento del proprio portafoglio di crediti a organizzazioni senza scopo di lucro o a imprese sociali con personalita' giuridica, come definite dalla normativa vigente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non distribuiscono profitti e li reinvestono nella propria attivita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    adottano un sistema di governance e un modello organizzativo a forte orientamento democratico e partecipativo, caratterizzato da un azionariato diffuso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adottano politiche retributive tese a contenere al massimo la differenza tra la remunerazione maggiore e quella media della banca, il cui rapporto comunque non puo' superare il valore di 5.
 
 Non concorre a formare il reddito imponibile ai sensi dell'articolo 81 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, degli operatori bancari di finanza etica e sostenibile una quota pari al 75 per cento delle somme destinate a incremento del capitale proprio.
 
@@ -2966,7 +6113,64 @@ Il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, determina 
 
 I confidi iscritti nell'albo esercitano in via prevalente l'attivita' di garanzia collettiva dei fidi.
 
+5.
+                        
+                            
+                                I confidi iscritti nell'albo possono svolgere, prevalentemente nei confronti delle imprese consorziate o socie, le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    prestazione di garanzie a favore dell'amministrazione finanziaria dello Stato, al fine dell'esecuzione dei rimborsi di imposte alle imprese consorziate o socie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione, ai sensi dell'articolo 47, comma 2, di fondi pubblici di agevolazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stipula, ai sensi dell'articolo 47, comma 3, di contratti con le banche assegnatarie di fondi pubblici di garanzia per disciplinare i rapporti con le imprese consorziate o socie, al fine di facilitarne la fruizione.
+
 Fermo restando l'esercizio prevalente dell'attivita' di garanzia, i confidi iscritti nell'albo possono concedere altre forme di finanziamento sotto qualsiasi forma, ai sensi dell'articolo 106, comma 1.
+
+7.
+                        
+                            
+                                I soggetti diversi dalle banche, gia' operanti alla data di entrata in vigore della presente disposizione i quali, senza fine di lucro, raccolgono tradizionalmente in ambito locale somme di modesto ammontare ed erogano piccoli prestiti possono continuare a svolgere la propria attivita', in considerazione del carattere marginale della stessa, nel rispetto delle modalita' operative e dei limiti quantitativi determinati dal CICR. Possono inoltre continuare a svolgere la propria attivita', senza obbligo di iscrizione nell'albo di cui all'articolo 106, gli enti e le societa' cooperative costituiti entro il 1° gennaio 1993 tra i dipendenti di una medesima amministrazione pubblica, gia' iscritti nell'elenco generale di cui all'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, vigente alla data del 4 settembre 2010, ove si verifichino le condizioni di cui all'articolo 2 del decreto del Ministro del tesoro del 29 marzo 1995.In attesa di un riordino complessivo degli strumenti di intermediazione finanziaria, e comunque non oltre il 31 dicembre 2014, possono continuare a svolgere la propria attivita', senza obbligo di iscrizione nell'albo di cui all'articolo 106, le societa' cooperative di cui al capo I del titolo VI del libro quinto del codice civile, esistenti alla data del 1° gennaio 1996 e le cui azioni non siano negoziate in mercati regolamentati, che concedono finanziamenti sotto qualsiasi forma esclusivamente nei confronti dei propri soci, a condizione che: (59) (81) (110) ((114))
+                                
+                            
+                            
+                                a)
+                                
+                                    non raccolgano risparmio sotto qualsivoglia forma tecnica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il volume complessivo dei finanziamenti a favore dei soci non sia superiore a quindici milioni di euro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo unitario del finanziamento sia di ammontare non superiore a 20.000 euro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i finanziamenti siano concessi a condizioni piu' favorevoli di quelli presenti sul mercato.
 
 Le agenzie di prestito su pegno previste dall'articolo 115 del reale decreto 18 giugno 1931, n. 773, sono sottoposte alle disposizioni dell'articolo 106. La Banca d'Italia puo' dettare disposizioni per escludere l'applicazione alle agenzie di prestito su pegno di alcune disposizioni previste dal presente capo. (112)
 
@@ -3000,6 +6204,38 @@ L'Organismo svolge ogni attivita' necessaria per la gestione dell'elenco, determ
 
 Per lo svolgimento dei propri compiti, l'Organismo puo' chiedere agli iscritti la comunicazione di dati e notizie e la trasmissione di atti e documenti, fissando i relativi termini, e puo' effettuare ispezioni.
 
+4.
+                        
+                            
+                                L'Organismo puo' disporre la cancellazione dall'elenco: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora vengano meno i requisiti per l'iscrizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora risultino gravi violazioni normative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il mancato pagamento del contributo ai sensi del comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per l'inattivita' dell'iscritto protrattasi per un periodo di tempo non inferiore a un anno.
+
 Fermo restando le disposizioni di cui al precedente comma, ((l'Organismo)), puo' imporre agli iscritti il divieto di intraprendere nuove operazioni o disporre la riduzione delle attivita' per violazioni di disposizioni legislative o amministrative che ne regolano l'attivita'.
 
 La Banca d'Italia vigila sull'Organismo secondo modalita', dalla stessa stabilite, improntate a criteri di proporzionalita' ed economicita' dell'azione di controllo e con la finalita' di verificare l'adeguatezza delle procedure interne adottate dall'Organismo per lo svolgimento della propria attivita'.
@@ -3009,6 +6245,24 @@ La Banca d'Italia vigila sull'Organismo secondo modalita', dalla stessa stabilit
 Su proposta della Banca d'Italia, il Ministro dell'economia e delle finanze puo' sciogliere gli organi di gestione e di controllo dell'Organismo qualora risultino gravi irregolarita' nell'amministrazione, ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie che regolano l'attivita' dello stesso. La Banca d'Italia provvede agli adempimenti necessari alla ricostituzione degli organi di gestione e controllo dell'Organismo, assicurandone la continuita' operativa, se necessario anche attraverso la nomina di un commissario. La Banca d'Italia puo' disporre la rimozione di uno o piu' componenti degli organi di gestione e controllo in caso di grave inosservanza dei doveri ad essi assegnati dalla legge, dallo statuto o dalle disposizioni di vigilanza, nonche' dei provvedimenti specifici e di altre istruzioni impartite dalla Banca d'Italia, ovvero in caso di comprovata inadeguatezza, accertata dalla Banca d'Italia, all'esercizio delle funzioni cui sono preposti.
 
 ))
+
+8.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, sentita la Banca d'Italia, disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la struttura, i poteri e le modalita' di funzionamento dell'Organismo necessari a garantirne funzionalita' ed efficienza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti, ivi compresi quelli di professionalita' e onorabilita', dei componenti degli organi di gestione e controllo dell'Organismo.
 
 ((8-bis. Le Autorita' di vigilanza e l'Organismo, nel rispetto delle proprie competenze, collaborano anche mediante lo scambio di informazioni necessarie per l'espletamento delle rispettive funzioni e in particolare per consentire all'Organismo l'esercizio dei poteri ad esso conferiti nei confronti dei soggetti iscritti nell'elenco. La trasmissione di informazioni all'Organismo per le suddette finalita' non costituisce violazione del segreto d'ufficio da parte delle Autorita' di vigilanza.))
 
@@ -3023,6 +6277,31 @@ Su proposta della Banca d'Italia, il Ministro dell'economia e delle finanze puo'
 ((
 
 La Banca d'Italia tiene l'elenco previsto dall'articolo 111 e vigila sul rispetto da parte degli iscritti della disciplina cui essi sono sottoposti anche ai sensi dell'articolo 111, comma 5; a tal fine puo' chiedere agli iscritti la comunicazione di dati e notizie e la trasmissione di atti e documenti, fissando i relativi termini, nonche' effettuare ispezioni.
+
+2.
+                        
+                            
+                                La Banca d'Italia puo' disporre la cancellazione dall'elenco: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora vengano meno i requisiti per l'iscrizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora risultino gravi violazioni di norme di legge e delle disposizioni emanate ai sensi del presente decreto legislativo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'inattivita' dell'iscritto protrattasi per un periodo di tempo non inferiore a un anno.
 
 Fermo restando quanto previsto al comma 2, la Banca d'Italia puo' imporre agli iscritti il divieto di intraprendere nuove operazioni o disporre la riduzione delle attivita' per violazioni di disposizioni legislative o amministrative che ne regolano l'attivita'.
 
@@ -3060,6 +6339,40 @@ La gestione provvisoria di cui al comma 1 ((dura sino a sei mesi, salvo che il p
 ((Agli intermediari finanziari non si applica l'articolo 2396-quater del codice civile. Se vi e' fondato sospetto che i soggetti con funzioni di amministrazione, in violazione dei propri doveri, abbiano compiuto gravi irregolarita' nella gestione che possono arrecare danno alla societa' o ad una o piu' societa' controllate, l'organo con funzioni di controllo o i soci che il codice civile o lo statuto abilitano a presentare denuncia al tribunale, possono denunciare i fatti alla Banca d'Italia, che decide con provvedimento motivato.))
 
 ## Art. 113-ter. — Revoca dell'autorizzazione e liquidazione
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 113-bis, la Banca d'Italia, puo' disporre la revoca dell'autorizzazione di cui all'articolo 107, comma 1, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultino irregolarita' eccezionalmente gravi nell'amministrazione, ovvero violazioni eccezionalmente gravi delle disposizioni legislative, amministrative o statutarie che regolano l'attivita' dell'intermediario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano previste perdite del patrimonio di eccezionale gravita'; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        ((la societa' non sia in grado di pagare i propri debiti alla scadenza;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    la revoca sia richiesta su istanza motivata degli organi 
+ amministrativi, dell'assemblea straordinaria, dei commissari di cui all'articolo 113-bis, comma 1 o dei liquidatori.
 
 Il provvedimento di revoca e' pubblicato per estratto nella Gazzetta Ufficiale della Repubblica Italiana; della intervenuta revoca l'intermediario finanziario deve dare idonea evidenza nelle comunicazioni alla clientela e in ogni altra opportuna sede.
 
@@ -3099,6 +6412,78 @@ E GESTORI DI CREDITI IN SOFFERENZA))
 
 ((
 
+1.
+                        
+                            
+                                Ai fini del presente capo, si definisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «crediti in sofferenza»: i crediti concessi da banche e altri soggetti abilitati alla concessione di finanziamenti e classificati in sofferenza secondo disposizioni attuative della Banca d'Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «gestione di crediti in sofferenza»: lo svolgimento di una o piu' delle seguenti attivita' in relazione a crediti in sofferenza: 
+ 1) la riscossione e il recupero dei pagamenti dovuti dal debitore; 
+ 2) la rinegoziazione dei termini e delle condizioni contrattuali con il debitore, in linea con le istruzioni impartite dall'acquirente di crediti in sofferenza, a condizione che non costituisca attivita' di concessione di finanziamenti ai sensi dell'articolo 106; a tali fini non costituisce attivita' di concessione di finanziamenti l'estinzione anticipata e la posticipazione dei termini di pagamento.
+Non rientra nel presente numero 2) l'attivita' svolta da intermediari del credito come definiti dagli articoli 120-quinquies, comma 1, lettera g), e 121, comma 1, lettera h); 
+ 3) la gestione dei reclami dei debitori riguardanti gli acquirenti di crediti in sofferenza, i gestori di crediti in sofferenza e i soggetti a cui sono state esternalizzate funzioni aziendali riguardanti la gestione dei crediti in sofferenza; 
+ 4) l'informativa al debitore relativa a ogni variazione dei tassi di interesse e degli oneri o a ogni pagamento dovuto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «gestori di crediti in sofferenza»: le societa' iscritte nell'albo di cui all'articolo 114.5 che svolgono l'attivita' di gestione di crediti in sofferenza per conto di acquirenti di crediti in sofferenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «gestori di crediti dell'Unione europea»: le imprese autorizzate ai sensi della direttiva (UE) 2021/2167 del Parlamento europeo e del Consiglio, del 24 novembre 2021, in uno Stato dell'Unione europea diverso dall'Italia all'esercizio dell'attivita' di gestione di crediti per conto di acquirenti di crediti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «acquirenti di crediti in sofferenza»: la persona fisica o giuridica, diversa da una banca, che nell'esercizio della propria attivita' commerciale o professionale acquista crediti in sofferenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «Stato di origine del gestore di crediti»: lo Stato dell'Unione europea in cui il gestore di crediti e' stato autorizzato all'esercizio dell'attivita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «Stato di origine dell'acquirente di crediti in sofferenza»: lo Stato dell'Unione europea in cui l'acquirente di crediti in sofferenza o, per gli acquirenti di crediti in sofferenza di Stati terzi, il rappresentante designato ai sensi dell'articolo 114.3, comma 3, ha la residenza, il domicilio o la sede legale oppure, qualora a norma del suo diritto nazionale esso non abbia una sede legale, lo Stato nel quale e' situata la sua sede principale; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «Stato ospitante del gestore di crediti in sofferenza»: lo Stato dell'Unione europea nel quale il gestore di crediti in sofferenza ha una succursale o presta attivita' di gestione di crediti in sofferenza e, in ogni caso, dove ha domicilio il debitore ceduto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «Stato in cui e' stato concesso il credito»: lo Stato dell'Unione europea nel quale il credito in sofferenza e' stato concesso.
+
 Se non diversamente disposto, le disposizioni del presente capo che fanno riferimento all'acquisto e alla gestione di crediti in sofferenza si applicano anche all'acquisto e alla gestione dei contratti sulla base dei quali il credito in sofferenza e' stato concesso.
 
 3. Le definizioni indicate al comma 1 si applicano anche ai fini dei titoli VI e VIII.))
@@ -3114,6 +6499,31 @@ Se non diversamente disposto, le disposizioni del presente capo che fanno riferi
 
 ((
 
+1.
+                        
+                            
+                                Le disposizioni del presente capo si applicano all'acquisto di crediti in sofferenza da parte di acquirenti di crediti in sofferenza e alla gestione di crediti in sofferenza, ad eccezione, e salvo ove diversamente disposto, dei casi in cui la gestione sia svolta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gestori, come definiti all'articolo 1, comma 1, lettera q-bis), del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58, per conto degli organismi di investimento collettivo del risparmio di cui all'articolo 1, comma 1, lettera k), del medesimo decreto da essi gestiti, con riferimento ai crediti concessi o acquistati dai predetti organismi di investimento collettivo del risparmio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    banche, anche con riferimento ai crediti dalle stesse concessi o acquistati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    intermediari iscritti nell'albo previsto dall'articolo 106, anche con riferimento ai crediti dagli stessi concessi o acquistati, se l'attivita' e' esercitata in Italia. Gli intermediari possono esercitare l'attivita' di gestione di crediti in sofferenza in Stati dell'Unione europea diversi dall'Italia se autorizzati ai sensi dell'articolo 114.6, comma 5.
+
 2. Fermo restando quanto previsto dall'articolo 114.10, le disposizioni del presente capo non si applicano alla gestione di crediti in sofferenza effettuata nell'ambito di operazioni di cartolarizzazione ai sensi della legge 30 aprile 1999, n. 130, quando l'acquirente di crediti in sofferenza e' una societa' veicolo per la cartolarizzazione di cui all'articolo 2, punto 2), del regolamento (UE) 2017/2402 del Parlamento europeo e del Consiglio, del 12 dicembre 2017.))
 
 ((112))
@@ -3127,15 +6537,83 @@ Se non diversamente disposto, le disposizioni del presente capo che fanno riferi
 
 ((
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 114.2, l'attivita' di gestione di crediti in sofferenza per conto di acquirenti di crediti in sofferenza e' riservata alle banche, agli intermediari iscritti nell'albo previsto dall'articolo 106, ai gestori di crediti in sofferenza autorizzati ai sensi dell'articolo 114.6 e ai gestori di crediti dell'Unione europea operanti nel territorio della Repubblica ai sensi dell'articolo 114.9. I gestori di crediti in sofferenza autorizzati ai sensi dell'articolo 114.6, nel rispetto delle disposizioni dettate dalla Banca d'Italia, possono svolgere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attivita' di recupero stragiudiziale di crediti diversi da quelli indicati dall'articolo 114.1, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' connesse o strumentali.
+
 L'acquirente di crediti in sofferenza nomina un gestore di crediti in sofferenza, una banca o un intermediario iscritto nell'albo previsto dall'articolo 106 per svolgere l'attivita' di gestione dei crediti in sofferenza acquistati. L'acquisto a titolo oneroso di crediti in sofferenza da parte di acquirenti di crediti in sofferenza non costituisce attivita' di concessione di finanziamenti ai sensi dell'articolo 106.
 
 L'acquirente di crediti in sofferenza avente sede in uno Stato terzo nomina un rappresentante avente residenza, domicilio o sede legale oppure, qualora a norma del suo diritto nazionale esso non abbia una sede legale, sede principale in Italia o in un altro Stato dell'Unione europea. Al rappresentante nominato si applicano le disposizioni del presente capo riferite all'acquirente di crediti in sofferenza.
 
 Il gestore di crediti in sofferenza, la banca o l'intermediario iscritto nell'albo previsto dall'articolo 106, nominato ai sensi del comma 2, presta i propri servizi nei confronti dell'acquirente di crediti in sofferenza sulla base di un contratto di gestione stipulato in forma scritta.
 
+5.
+                        
+                            
+                                Il gestore di crediti in sofferenza, la banca o l'intermediario iscritto nell'albo previsto dall'articolo 106 nominato ai sensi del comma 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assicura il rispetto delle disposizioni dell'Unione europea e nazionali applicabili al credito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunica all'atto della nomina alla Banca d'Italia le proprie generalita', il nominativo dell'acquirente di crediti in sofferenza e gli estremi dell'incarico assunto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di cessione dei crediti in sofferenza dallo stesso gestiti a un altro acquirente di crediti in sofferenza, comunica con periodicita' almeno semestrale alla Banca d'Italia con riferimento alle cessioni effettuate nel periodo i dati identificativi del nuovo acquirente di crediti in sofferenza e le caratteristiche dei crediti e dei contratti oggetto di cessione, inclusi l'importo dovuto aggregato, il numero e l'ammontare dei crediti ceduti, eventuali garanzie e se il debitore e' un consumatore. La Banca d'Italia puo' prevedere frequenze maggiori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assolve agli obblighi di informativa periodica previsti verso la Banca d'Italia.
+
 Il gestore di crediti in sofferenza puo' esternalizzare lo svolgimento di alcune attivita' di gestione di crediti in sofferenza a un soggetto terzo che fornisce servizi di gestione di crediti in sofferenza, nel rispetto delle condizioni stabilite nelle disposizioni attuative adottate dalla Banca d'Italia ai sensi del comma 9, ferma restando la responsabilita' del gestore di crediti in sofferenza per l'operato dei soggetti terzi cui ha esternalizzato le attivita'.
 
 Fermo restando quanto previsto dal comma 5, gli acquirenti di crediti in sofferenza partecipano alla centrale dei rischi della Banca d'Italia e assolvono l'obbligo di segnalazione per il tramite di banche, intermediari iscritti all'albo di cui all'articolo 106 o gestori di crediti in sofferenza iscritti all'albo di cui all'articolo 114.5.
+
+8.
+                        
+                            
+                                La Banca d'Italia trasmette tempestivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni ricevute ai sensi del comma 5, lettera b), alle autorita' dello Stato membro ospitante e alle autorita' dello Stato in cui e' stato concesso il credito, se diverse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni ricevute ai sensi del comma 5, lettera c), alle autorita' dello Stato membro ospitante e alle autorita' dello Stato membro di origine del nuovo acquirente di crediti in sofferenza, se diverse.
 
 9. La Banca d'Italia detta disposizioni attuative del presente articolo.))
 
@@ -3188,6 +6666,45 @@ I gestori di crediti in sofferenza indicano negli atti e nella corrispondenza l'
 
 ((
 
+1.
+                        
+                            
+                                La Banca d'Italia autorizza i gestori di crediti in sofferenza quando ricorrano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adottata la forma di societa' per azioni, di societa' in accomandita per azioni, di societa' a responsabilita' limitata o di societa' cooperativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede legale e la direzione generale siano situate nel territorio della Repubblica, ove e' svolta almeno una parte dell'attivita' di cui all'articolo 114.1, comma 1, lettera b), numero 1); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 19 per i titolari delle partecipazioni ivi indicate, secondo quanto previsto ai sensi dell'articolo 114.13, commi 1 e 3; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, secondo quanto previsto ai sensi dell'articolo 114.13, comma 2; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    venga presentato, unitamente all'atto costitutivo e allo statuto, un programma concernente l'attivita' iniziale e la struttura organizzativa, i dispositivi di governo societario, l'organizzazione amministrativa e contabile e i controlli interni, le politiche e le procedure per assicurare il rispetto delle disposizioni applicabili in materia di tutela dei debitori, incluse quelle per la gestione dei reclami, riservatezza, nonche' di quelle che disciplinano i diritti del creditore.
+
 La Banca d'Italia nega l'autorizzazione quando, dalla verifica delle condizioni indicate nel comma 1, non risulti assicurato il rispetto delle disposizioni previste dal presente capo e dalle relative disposizioni attuative, nonche' delle disposizioni applicabili in materia di tutela dei debitori.
 
 La Banca d'Italia disciplina la procedura di autorizzazione, i criteri di valutazione delle condizioni indicate nel comma 1, i casi di revoca e le ipotesi di decadenza quando il gestore di crediti in sofferenza autorizzato non abbia iniziato l'esercizio dell'attivita'.
@@ -3208,6 +6725,24 @@ Gli intermediari iscritti nell'albo di cui all'articolo 106 possono esercitare l
 ## Art. 114.7. — (( (Detenzione di fondi).))
 
 ((
+
+1.
+                        
+                            
+                                I gestori di crediti in sofferenza possono ricevere e detenere fondi dai debitori ai fini del trasferimento di tali fondi agli acquirenti di crediti in sofferenza quando ricorrano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le somme di denaro ricevute dai debitori di crediti in sofferenza gestiti per conto dei singoli acquirenti di crediti in sofferenza sono accreditate in un conto separato aperto presso una banca e ivi mantenute fino al loro trasferimento al rispettivo acquirente di crediti in sofferenza, secondo le condizioni con quest'ultimo concordate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le somme di denaro depositate ai sensi della lettera a) prima del trasferimento a ciascun acquirente di crediti in sofferenza costituiscono patrimoni distinti a tutti gli effetti da quello del gestore di crediti in sofferenza. Su tali patrimoni distinti non sono ammesse azioni dei creditori del gestore di crediti in sofferenza o nell'interesse degli stessi, ne' quelle dei creditori della banca presso la quale le somme sono depositate. Le azioni dei creditori dei singoli acquirenti di crediti in sofferenza sono ammesse nei limiti delle somme di spettanza di questi ultimi. In caso di avvio nei confronti del gestore di crediti in sofferenza di procedimenti concorsuali, le somme accreditate su tali conti, per un importo pari alle somme incassate e dovute agli acquirenti di crediti in sofferenza, vengono immediatamente e integralmente restituite a questi ultimi senza la necessita' di deposito della domanda di ammissione al passivo o di rivendica e al di fuori dei piani di riparto o di restituzione di somme. Sulle somme di denaro depositate presso la banca non operano le compensazioni legale e giudiziale e non puo' essere pattuita la compensazione convenzionale rispetto ai crediti vantati dalla banca nei confronti del gestore di crediti in sofferenza. In caso di avvio nei confronti della banca di procedimenti di cui al titolo IV, nonche' di procedure concorsuali, le somme accreditate sui conti correnti vengono immediatamente e integralmente restituite all'acquirente di crediti in sofferenza, senza la necessita' di deposito della domanda di ammissione al passivo o di rivendica e al di fuori dei piani di riparto o di restituzione delle somme.
 
 I pagamenti effettuati dal debitore al gestore di crediti in sofferenza liberano il debitore dai relativi obblighi di pagamento nei confronti dell'acquirente di crediti in sofferenza. Per ciascun pagamento, il gestore di crediti in sofferenza rilascia al debitore, su supporto cartaceo o altro supporto durevole, quietanza attestante l'importo ricevuto, la data di estinzione dell'obbligazione e i dati identificativi della stessa.
 
@@ -3290,6 +6825,38 @@ La Banca d'Italia puo' chiedere, per il tramite dei gestori di crediti in soffer
 Gli obblighi previsti dal comma 1 si applicano anche ai soggetti ai quali i gestori di crediti in sofferenza abbiano esternalizzato funzioni aziendali e al loro personale.
 
 La Banca d'Italia emana disposizioni di carattere generale sui gestori di crediti in sofferenza aventi a oggetto: il governo societario, il contenimento del rischio nelle sue diverse configurazioni, l'organizzazione amministrativa e contabile, e i controlli interni.
+
+6.
+                        
+                            
+                                La Banca d'Italia puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    convocare gli amministratori, i sindaci e i dirigenti dei gestori di crediti in sofferenza per esaminare la situazione degli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare la convocazione degli organi collegiali dei gestori di crediti in sofferenza, fissandone l'ordine del giorno, e proporre l'assunzione di determinate decisioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere direttamente alla convocazione degli organi collegiali dei gestori di crediti in sofferenza quando gli organi competenti non abbiano ottemperato a quanto previsto dalla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottare per le materie indicate al comma 5, ove la situazione lo richieda, provvedimenti specifici nei confronti di singoli gestori di crediti in sofferenza riguardanti anche: la restrizione delle attivita' o della struttura territoriale; il divieto di effettuare determinate operazioni, anche di natura societaria; le procedure per la gestione dei rapporti con i debitori.
 
 La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci o i dirigenti dei soggetti ai quali siano state esternalizzate funzioni aziendali.
 
@@ -3390,6 +6957,26 @@ Le banche aventi sede legale in uno Stato terzo possono avvalersi di soggetti co
 
 L'emittente di moneta elettronica rimborsa, su richiesta del detentore, la moneta elettronica in ogni momento e al valore nominale, secondo le modalita' e le condizioni indicate nel contratto di emissione in conformita' dell'articolo 126-novies. Il diritto al rimborso si estingue per prescrizione nei termini ordinari di cui all'articolo 2946 del codice civile.
 
+2.
+                        
+                            
+                                Il detentore puo' chiedere il rimborso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prima della scadenza del contratto, nella misura richiesta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla scadenza del contratto o successivamente: 
+ 1) per il valore monetario totale della moneta elettronica detenuta; 
+ 2) nella misura richiesta, se l'emittente e' un istituto di moneta elettronica autorizzato ai sensi dell'articolo 114-quinquies, comma 4, e i fondi di pertinenza del medesimo detentore possono essere impiegati per finalita' diverse dall'utilizzo di moneta elettronica, senza che sia predeterminata la quota utilizzabile come moneta elettronica.
+
 I soggetti, diversi da un consumatore, che accettino in pagamento moneta elettronica possono regolare in via contrattuale con l'emittente di moneta elettronica il diritto al rimborso loro spettante nei suoi confronti, anche in deroga al comma 2.
 
 ))
@@ -3402,7 +6989,85 @@ La Banca d'Italia comunica senza indugio all'ABE le informazioni iscritte nell'a
 
 Gli istituti di moneta elettronica trasformano immediatamente in moneta elettronica i fondi ricevuti dal richiedente.
 
+3.
+                        
+                            
+                                Gli istituti di moneta elettronica possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prestare servizi di pagamento e le relative attivita' accessorie ai sensi dell'articolo 114-octies senza necessita' di apposita autorizzazione ai sensi dell'articolo 114-novies; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestare servizi operativi e accessori strettamente connessi all'emissione di moneta elettronica. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    emettere token collegati ad attivita' ai sensi dell'articolo 21 del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, e prestare servizi per le cripto-attivita' diversi da quelli di cui all'articolo 60, paragrafo 4, del medesimo regolamento, nonche' le attivita' connesse e strumentali, secondo quanto previsto dal decreto legislativo di attuazione del regolamento (UE) 2023/1114, salvo che svolgano altre attivita' imprenditoriali ai sensi dell'articolo 114-quinquies, comma 4.
+
 ## Art. 114-quinquies. — Autorizzazione e operativita' transfrontaliera
+
+1.
+                        
+                            
+                                La Banca d'Italia autorizza gli istituti di moneta elettronica quando ricorrono le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adottata la forma di societa' per azioni, di societa' in accomandita per azioni, di societa' a responsabilita' limitata o di societa' cooperativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede legale e la direzione generale siano situate nel territorio della Repubblica ove e' svolta almeno una parte dell'attivita' soggetta ad autorizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il capitale versato sia di ammontare non inferiore a quello determinato dalla Banca d'Italia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    venga presentato un programma concernente l'attivita' iniziale e la struttura organizzativa, unitamente all'atto costitutivo e allo statuto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 19 per i titolari delle partecipazioni ivi indicate; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, secondo quanto previsto ai sensi dell'articolo 114-quinquies.3; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non sussistano, tra gli istituti di moneta elettronica o i soggetti del gruppo di appartenenza e altri soggetti, stretti legami che ostacolino l'effettivo esercizio delle funzioni di vigilanza.
 
 Fermo restando quanto previsto dal comma 1, agli istituti di moneta elettronica che intendono prestare il servizio di disposizione di ordini di pagamento si applica l'articolo 114-novies, comma 1-bis.
 
@@ -3410,7 +7075,50 @@ La Banca d'Italia nega l'autorizzazione quando dalla verifica delle condizioni i
 
 La Banca d'Italia disciplina la procedura di autorizzazione, i casi di revoca e le ipotesi di decadenza quando l'istituto autorizzato non abbia iniziato l'esercizio dell'attivita'.
 
+4.
+                        
+                            
+                                La Banca d'Italia autorizza all'emissione di moneta elettronica soggetti che esercitino anche altre attivita' imprenditoriali quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricorrano le condizioni indicate al comma 1, ad eccezione del possesso dei requisiti di professionalita' degli esponenti aziendali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'attivita' di emissione di moneta elettronica, la prestazione dei servizi di pagamento e per le relative attivita' accessorie e strumentali, nonche' per l'attivita' di emissione di token di moneta elettronica e per la prestazione di servizi per le cripto-attivita' di cui all'articolo 60, paragrafo 4, del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, sia costituito un unico patrimonio destinato con le modalita' e agli effetti stabiliti dagli articoli 114-quinquies.1, comma 5, e 114-terdecies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    siano individuati uno o piu' soggetti responsabili del patrimonio di cui alla lettera b); ((ad essi si applica l'articolo 114-quinquies.3, comma 1-bis, limitatamente ai requisiti di onorabilita' e professionalita' e ai criteri di correttezza e indipendenza di giudizio)).
+
 Se lo svolgimento delle attivita' imprenditoriali di cui al comma 4 rischia di danneggiare la solidita' finanziaria dell'istituto di moneta elettronica o l'esercizio effettivo della vigilanza, la Banca d'Italia puo' imporre la costituzione di una societa' che svolga esclusivamente l'attivita' di emissione di moneta elettronica.
+
+6.
+                        
+                            
+                                Gli istituti di moneta elettronica italiani possono operare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in un altro Stato comunitario, anche senza stabilirvi succursali, nel rispetto delle procedure fissate dalla Banca d'Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in uno Stato terzo, anche senza stabilirvi succursali, previa autorizzazione della Banca d'Italia.
 
 Gli istituti di moneta elettronica con sede legale in un altro Stato comunitario possono operare nel territorio della Repubblica anche senza stabilirvi succursali dopo che la Banca d'Italia sia stata informata dall'autorita' competente dello Stato di origine.
 
@@ -3440,6 +7148,45 @@ La Banca d'Italia puo' chiedere informazioni al personale degli istituti di mone
 Gli obblighi previsti dal comma 1 si applicano anche ai soggetti ai quali gli istituti di moneta elettronica abbiano esternalizzato funzioni aziendali essenziali o importanti e al loro personale.
 
 La Banca d'Italia emana disposizioni di carattere generale aventi a oggetto: il governo societario, l'adeguatezza patrimoniale, il contenimento del rischio nelle sue diverse configurazioni, l'organizzazione amministrativa e contabile, nonche' i controlli interni e i sistemi di remunerazione e incentivazione.
+
+3.
+                        
+                            
+                                La Banca d'Italia puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    convocare gli amministratori, i sindaci e i dirigenti degli istituti di moneta elettronica per esaminare la situazione degli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare la convocazione degli organi collegiali degli istituti di moneta elettronica, fissandone l'ordine del giorno, e proporre l'assunzione di determinate decisioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere direttamente alla convocazione degli organi collegiali degli istituti di moneta elettronica quando gli organi competenti non abbiano ottemperato a quanto previsto dalla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottare per le materie indicate nel comma 2, ove la situazione lo richieda, provvedimenti specifici nei confronti di singoli istituti di moneta elettronica riguardanti anche la restrizione delle attivita' o della struttura territoriale, il divieto di effettuare determinate operazioni anche di natura societaria e di distribuire utili o altri elementi del patrimonio nonche', con riferimento a strumenti finanziari computabili nel patrimonio a fini di vigilanza, il divieto di pagare interessi; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione dell'istituto di moneta elettronica, la rimozione dalla carica di uno o piu' esponenti; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 26, salvo che sussista urgenza di provvedere.
 
 La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci, i dirigenti dei soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti.
 
@@ -3478,6 +7225,24 @@ Agli istituti di moneta elettronica che non esercitano attivita' imprenditoriali
 La Banca d'Italia puo' dettare disposizioni attuative ai fini dell'applicazione delle norme di cui al presente articolo.
 
 ## Art. 114-quinquies.4. — Deroghe
+
+1.
+                        
+                            
+                                La Banca d'Italia puo' esentare gli istituti di moneta elettronica dall'applicazione di disposizioni previste dal presente titolo, quando ricorrono congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' complessive generano una moneta elettronica media in circolazione non superiore al limite stabilito dalla Banca d'Italia in base al piano aziendale dell'istituto di moneta elettronica; tale limite in ogni caso non supera i 5 milioni di euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che svolgono funzioni di amministrazione, direzione e controllo nell'istituto di moneta elettronica non hanno subito condanne per riciclaggio di denaro o finanziamento del terrorismo o altri reati finanziari.
 
 La Banca d'Italia puo' prevedere limiti di avvaloramento degli strumenti di moneta elettronica emessi dagli istituti di cui al comma 1.
 
@@ -3539,6 +7304,31 @@ COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 141. (37)
 
 
 
+1.
+                        
+                            
+                                Gli istituti di pagamento possono esercitare le seguenti attivita' accessorie alla prestazione di servizi di pagamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concedere crediti in stretta relazione ai servizi di pagamento prestati e nei limiti e con le modalita' stabilite dalla Banca d'Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prestare servizi operativi o strettamente connessi, come la prestazione di garanzie per l'esecuzione di operazioni di pagamento, servizi di cambio, attivita' di custodia e registrazione e trattamento di dati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gestire sistemi di pagamento.
+
 La Banca d'Italia detta specifiche disposizioni per la concessione di credito collegata all'emissione o alla gestione di carte di credito.
 
 ((
@@ -3549,11 +7339,90 @@ Gli istituti di pagamento possono emettere token collegati ad attivita' ai sensi
 
 ## Art. 114-novies. — (Autorizzazione)
 
+1.
+                        
+                            
+                                La Banca d'Italia autorizza gli istituti di pagamento quando ricorrano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adottata la forma di societa' per azioni, di societa' in accomandita per azioni, di societa' a responsabilita' limitata o di societa' cooperativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede legale e la direzione generale siano situate nel territorio della Repubblica ove e' svolta almeno una parte dell'attivita' avente a oggetto servizi di pagamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il capitale versato sia di ammontare non inferiore a quello determinato dalla Banca d'Italia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    venga presentato un programma concernente l'attivita' iniziale e la struttura organizzativa, unitamente all'atto costitutivo e allo statuto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sussistano i presupposti per il rilascio dell'autorizzazione prevista dall'articolo 19 per i titolari delle partecipazioni ivi indicate; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    i soggetti che svolgono funzioni di amministrazione, direzione e controllo siano idonei, secondo quanto previsto ai sensi dell'articolo 114-undecies; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    non sussistano, tra gli istituti di pagamento o i soggetti del gruppo di appartenenza e altri soggetti, stretti legami che ostacolino l'effettivo esercizio delle funzioni di vigilanza.
+
 Fermo restando quanto previsto dal comma 1, la Banca d'Italia autorizza gli istituti di pagamento alla prestazione del servizio di disposizione di ordini di pagamento a condizione che abbiano stipulato una polizza di assicurazione della responsabilita' civile o analoga forma di garanzia per i danni arrecati nell'esercizio dell'attivita' derivanti da condotte proprie o di terzi.
 
 La Banca d'Italia nega l'autorizzazione quando dalla verifica delle condizioni indicate nel comma 1 non risulti garantita la sana e prudente gestione ovvero il regolare funzionamento del sistema dei pagamenti.
 
 La Banca d'Italia disciplina la procedura di autorizzazione i criteri di valutazione delle condizioni del comma 1, i casi di revoca e le ipotesi di decadenza quando l'istituto autorizzato non abbia iniziato l'esercizio dell'attivita'.
+
+4.
+                        
+                            
+                                La Banca d'Italia, autorizza alla prestazione di servizi di pagamento soggetti che esercitino altre attivita' imprenditoriali quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricorrano le condizioni indicate al comma 1, ad eccezione del possesso dei requisiti di professionalita' degli esponenti aziendali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la prestazione dei servizi di pagamento e per le relative attivita' accessorie e strumentali sia costituito un patrimonio destinato con le modalita' e agli effetti stabiliti dall'articolo 114-terdecies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((siano individuati uno o piu' soggetti responsabili del patrimonio di cui alla lettera b); ad essi si applica l'articolo 114-undecies, comma 1-bis, limitatamente ai requisiti di onorabilita' e professionalita' e ai criteri di correttezza e indipendenza di giudizio)).
 
 Se lo svolgimento delle altre attivita' imprenditoriali rischia di danneggiare la solidita' finanziaria dell'istituto di pagamento o l'esercizio effettivo della vigilanza, la Banca d'Italia puo' imporre la costituzione di una societa' che svolga esclusivamente l'attivita' di prestazione dei servizi di pagamento.
 
@@ -3644,6 +7513,45 @@ Gli obblighi previsti dal comma 1 si applicano anche ai soggetti ai quali gli is
 
 La Banca d'Italia emana disposizioni di carattere generale aventi a oggetto: il governo societario, l'adeguatezza patrimoniale, il contenimento del rischio nelle sue diverse configurazioni, l'organizzazione amministrativa e contabile nonche' i controlli interni e i sistemi di remunerazione e incentivazione.
 
+3.
+                        
+                            
+                                La Banca d'Italia puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    convocare gli amministratori, i sindaci e i dirigenti degli istituti di pagamento per esaminare la situazione degli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordinare la convocazione degli organi collegiali degli istituti di pagamento, fissandone l'ordine del giorno, e proporre l'assunzione di determinate decisioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedere direttamente alla convocazione degli organi collegiali degli istituti di pagamento quando gli organi competenti non abbiano ottemperato a quanto previsto dalla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottare per le materie indicate nel comma 2, ove la situazione lo richieda, provvedimenti specifici nei confronti di singoli istituti di pagamento, riguardanti anche: la restrizione delle attivita' o della struttura territoriale; il divieto di effettuare determinate operazioni, anche di natura societaria, e di distribuire utili o altri elementi del patrimonio, nonche', con riferimento a strumenti finanziari computabili nel patrimonio a fini di vigilanza, il divieto di pagare interessi; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    disporre, qualora la loro permanenza in carica sia di pregiudizio per la sana e prudente gestione dell'istituto di pagamento, la rimozione dalla carica di uno o piu' esponenti aziendali; la rimozione non e' disposta ove ricorrano gli estremi per pronunciare la decadenza ai sensi dell'articolo 26, salvo che sussista urgenza di provvedere.
+
 La Banca d'Italia puo' altresi' convocare gli amministratori, i sindaci e i dirigenti dei soggetti ai quali siano state esternalizzate funzioni aziendali essenziali o importanti.
 
 ((
@@ -3661,9 +7569,45 @@ Nel confronti degli istituti di pagamento che svolgano anche attivita' imprendit
 
 ((
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto nell'articolo 7, la Banca d'Italia scambia informazioni con: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Banca centrale europea e le banche centrali nazionali degli Stati membri, in quanto autorita' monetarie e di sorveglianza sul sistema dei pagamenti, e, se opportuno, altre autorita' pubbliche responsabili della sorveglianza sui sistemi di pagamento e di regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altre autorita' competenti ai sensi di disposizioni comunitarie applicabili ai prestatori di servizi di pagamento.
+
 ))
 
 ## Art. 114-sexiesdecies. — (Deroghe)
+
+1.
+                        
+                            
+                                La Banca d'Italia puo' esentare i soggetti iscritti nell'albo degli istituti di pagamento dall'applicazione ((, in tutto o in parte,)) di alcune delle disposizioni previste dal presente titolo, quando ricorrono congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la media mensile, calcolata sui precedenti dodici mesi, dell'importo complessivo delle operazioni di pagamento eseguite dal soggetto interessato, compreso qualsiasi agente di cui e' responsabile, non superi i 3 milioni di euro; la Banca d'Italia valuta tale condizione in base al piano aziendale prodotto dal soggetto interessato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nessuna delle persone fisiche responsabili della gestione o del funzionamento dell'impresa abbia subito condanne per riciclaggio di denaro o finanziamento del terrorismo o altri reati finanziari.
 
 La Banca d'Italia stabilisce quali tra i servizi di pagamento di cui all'articolo 1, comma 2, ((lettera h-septies.1), numeri da 1) a 6) )), possono essere prestati dai soggetti di cui al comma 1.
 
@@ -3723,6 +7667,63 @@ Le banche e gli intermediari finanziari rendono noti gli indicatori che assicura
 
 ))
 
+2.
+                        
+                            
+                                Il Ministro dell'economia e delle finanze, sentite la CONSOB e la Banca d'Italia, stabilisce, con riguardo ai titoli di Stato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    criteri e parametri per la determinazione delle eventuali commissioni massime addebitabili alla clientela in occasione del collocamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    criteri e parametri volti a garantire la trasparente determinazione dei rendimenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli ulteriori obblighi di pubblicita', trasparenza e propaganda, da osservare nell'attivita' di collocamento.
+
+3.
+                        
+                            
+                                Il CICR: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individua le operazioni e i servizi da sottoporre a pubblicita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dette disposizioni relative alla forma, al contenuto, alle modalita' della pubblicita' e alla conservazione agli atti dei documenti comprovanti le informazioni pubblicizzate; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stabilisce criteri uniformi per l'indicazione dei tassi d'interesse e per il calcolo degli interessi e degli altri elementi che incidono sul contenuto economico dei rapporti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individua gli elementi essenziali, fra quelli previsti dal comma 1, che devono essere indicati negli annunci pubblicitari e nelle offerte, con qualsiasi mezzo effettuati, con cui i soggetti indicati nell'articolo 115 rendono nota la disponibilita' delle operazioni e dei servizi.
+
 Le informazioni pubblicizzate non costituiscono offerta al pubblico a norma dell'articolo 1336 del codice civile. (38)
 
 -------------
@@ -3743,6 +7744,28 @@ Il CICR puo' prevedere che, per motivate ragioni tecniche, particolari contratti
 Nel caso di inosservanza della forma prescritta il contratto e' nullo.
 
 I contratti indicano il tasso d'interesse e ogni altro prezzo e condizione praticati, inclusi, per i contratti di credito, gli eventuali maggiori oneri in caso di mora.
+
+5.
+                        
+                            
+                                
+                                    ((COMMA SOPPRESSO DAL D.LGS. 13 AGOSTO 2010, N. 141, COME MODIFICATO DAL D.LGS. 14 DICEMBRE 2010, N. 218)). 
+ ((6)). Sono nulle e si considerano non apposte le clausole contrattuali di rinvio agli usi per la determinazione dei tassi di interesse e di ogni altro prezzo e condizione praticati nonche' quelle che prevedono tassi, prezzi e condizioni piu' sfavorevoli per i clienti di quelli pubblicizzati. 
+ ((7)). In caso di inosservanza del comma 4 e nelle ipotesi di ((nullita' indicate nel comma 6)), si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il tasso nominale minimo e quello massimo, rispettivamente per le operazioni attive e per quelle passive, dei buoni ordinari del tesoro annuali o di altri titoli similari eventualmente indicati dal Ministro dell'economia e delle finanze, emessi nei dodici mesi precedenti la conclusione del contratto o, se piu' favorevoli per il cliente, emessi nei dodici mesi precedenti lo svolgimento dell'operazione. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli altri prezzi e condizioni pubblicizzati per le corrispondenti categorie di operazioni e servizi al momento della conclusione del contratto o, se piu' favorevoli per il cliente, al momento in cui l'operazione e' effettuata o il servizio viene reso; in mancanza di pubblicita' nulla e' dovuto. 
+ ((8)). La Banca d'Italia puo' prescrivere che determinati contratti, individuati attraverso una particolare denominazione o sulla base di specifici criteri qualificativi, abbiano un contenuto tipico determinato. I contratti difformi sono nulli. Resta ferma la responsabilita' della banca o dell'intermediario finanziario per la violazione delle prescrizioni della Banca d'Italia.((38))
 
 ---------------
                             AGGIORNAMENTO (38)
@@ -3827,6 +7850,24 @@ AGGIORNAMENTO (38)
 
 Il titolare del conto corrente ha la disponibilita' economica delle somme relative agli assegni circolari o bancari versati sul suo conto, rispettivamente emessi da o tratti su una banca insediata in Italia, entro i quattro giorni lavorativi successivi al versamento.
 
+1.
+                        
+                            
+                                Gli interessi sul versamento di assegni presso una banca sono conteggiati fino al giorno del prelevamento e con le seguenti valute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal giorno in cui e' effettuato il versamento, per gli assegni circolari emessi dalla stessa banca e per gli assegni bancari tratti sulla stessa banca presso la quale e' effettuato il versamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli assegni diversi da quelli di cui alla lettera a), dal giorno lavorativo successivo al versamento, se si tratta di assegni circolari emessi da una banca insediata in Italia, e dal terzo giorno lavorativo successivo al versamento, se si tratta di assegni bancari tratti su una banca insediata in Italia.
+
 Il CICR puo' stabilire termini inferiori a quelli previsti nei commi 1 e 1-bis in relazione all'evoluzione delle procedure telematiche disponibili per la gestione del servizio di incasso degli assegni.
 
 Il CICR stabilisce modalita' e criteri per la produzione di interessi nelle operazioni poste in essere nell'esercizio dell'attivita' bancaria, prevedendo in ogni caso che: 
@@ -3887,6 +7928,31 @@ La surrogazione di cui al comma 1 deve perfezionarsi entro il termine di ((trent
 
 La surrogazione per volonta' del debitore e la rinegoziazione di cui al presente articolo non comportano il venir meno dei benefici fiscali.
 
+9.
+                        
+                            
+                                Le disposizioni di cui al presente articolo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si applicano, nei casi e alle condizioni ivi previsti, anche ai finanziamenti concessi da enti di previdenza obbligatoria ai loro iscritti; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    si applicano ai soli contratti di finanziamento conclusi da intermediari bancari e finanziari con persone fisiche o micro-imprese, come definite dall'articolo 1, comma 1, lettera t), del decreto legislativo 27 gennaio 2010, n.11; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non si applicano ai contratti di locazione finanziaria.
+
 Sono fatti salvi i commi 4-bis, 4-ter e 4-quater dell'articolo 8 del decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40. (38)
 
 -------------
@@ -3897,6 +7963,96 @@ Sono fatti salvi i commi 4-bis, 4-ter e 4-quater dell'articolo 8 del decreto-leg
 ## - ((Capo I-bis CREDITO IMMOBILIARE AI CONSUMATORI))
 
 ## Art. 120-quinquies. — (Definizioni)
+
+1.
+                        
+                            
+                                Nel presente capo, l'espressione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Codice del consumo» indica il decreto legislativo 6 settembre 2005, n. 206; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «consumatore» indica una persona fisica che agisce per scopi estranei all'attivita' imprenditoriale, commerciale, artigianale o professionale eventualmente svolta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «contratto di credito» indica un contratto di credito con cui un finanziatore concede o si impegna a concedere a un consumatore un credito sotto forma di dilazione di pagamento, di prestito o di altra facilitazione finanziaria, quando il credito e' garantito da un'ipoteca sul diritto di proprieta' o su altro diritto reale avente a oggetto beni immobili residenziali o e' finalizzato all'acquisto o alla conservazione del diritto di proprieta' su un terreno o su un immobile edificato o progettato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «costo totale del credito» indica gli interessi e tutti gli altri costi, incluse le commissioni, le imposte e le altre spese, a eccezione di quelle notarili, che il consumatore deve pagare in relazione al contratto di credito e di cui il finanziatore e' a conoscenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «finanziatore» indica un soggetto che, essendo abilitato a erogare finanziamenti a titolo professionale nel territorio della Repubblica, offre o stipula contratti di credito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «importo totale del credito» indica il limite massimo o la somma totale degli importi messi a disposizione in virtu' di un contratto di credito; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «intermediario del credito» indica gli agenti in attivita' finanziaria, i mediatori creditizi o qualsiasi altro soggetto, diverso dal finanziatore, che nell'esercizio della propria attivita' commerciale o professionale ((, e salve le ipotesi descritte dagli articoli 128-quater, comma 1-bis, e 128-sexies, comma 1-bis,)) svolge, a fronte di un compenso in denaro o di altro vantaggio economico oggetto di pattuizione e nel rispetto delle riserve di attivita' previste dalla legislazione vigente, almeno una delle seguenti attivita': ((120)) 
+ 1) presentazione o proposta di contratti di credito ovvero altre attivita' preparatorie in vista della conclusione di tali contratti; 
+ 2) conclusione di contratti di credito per conto del finanziatore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «servizio accessorio connesso con il contratto di credito» indica un servizio offerto al consumatore in combinazione con il contratto di credito; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «servizio di consulenza» indica le raccomandazioni personalizzate fornite al consumatore ai sensi dell'articolo 120-terdecies in merito a una o piu' operazioni relative a contratti di credito; l'offerta di contratti di credito e le attivita' indicate negli articoli 120-octies, 120-novies, 120-decies, 120-undecies, ((120-undecies.1 e)) 120-duodecies non implicano un servizio di consulenza; ((120))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    «supporto durevole» indica ogni strumento che permetta al consumatore di conservare le informazioni che gli sono personalmente indirizzate in modo da potervi accedere in futuro per un periodo di tempo adeguato alle finalita' cui esse sono destinate e che permetta la riproduzione identica delle informazioni memorizzate; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «Tasso annuo effettivo globale» o «TAEG» indica il costo totale del credito per il consumatore espresso in percentuale annua dell'importo totale del credito; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «valuta estera» indica una valuta diversa da quella in cui, al momento della conclusione del contratto, il consumatore percepisce il proprio reddito o detiene le attivita' con le quali dovra' rimborsare il finanziamento ovvero una valuta diversa da quella avente corso legale nello Stato membro dell'Unione europea in cui il consumatore ha la residenza al momento della conclusione del contratto.
 
 Nel costo totale del credito sono inclusi anche i costi relativi a servizi accessori connessi con il contratto di credito, compresi i premi assicurativi, se la conclusione di un contratto avente ad oggetto tali servizi e' un requisito per ottenere il credito, o per ottenerlo alle condizioni offerte. Sono inoltre inclusi i costi della valutazione dei beni se essa e' necessaria per ottenere il credito.
 Sono esclusi i costi di connessi con la trascrizione dell'atto di compravendita del bene immobile e le eventuali penali pagabili dal consumatore per l'inadempimento degli obblighi stabiliti nel contratto di credito.
@@ -3954,6 +8110,87 @@ h) contratti di credito non garantiti finalizzati alla ristrutturazione di un be
 Fermo restando quanto previsto dalla parte II, titolo III, del Codice del consumo, gli annunci pubblicitari relativi a contratti di credito sono effettuati in forma corretta, chiara e non ingannevole.
 Essi non contengono formulazioni che possano indurre nel consumatore false aspettative sulla disponibilita' o il costo del credito.
 
+2.
+                        
+                            
+                                Gli annunci pubblicitari che riportano il tasso di interesse o altre cifre concernenti il costo del credito indicano le seguenti informazioni di base, in maniera chiara, precisa, evidenziata e, a seconda del mezzo usato, facilmente leggibile o udibile: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il finanziatore o, se del caso, l'intermediario del credito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se del caso, il fatto che il contratto di credito sara' garantito da un'ipoteca su beni immobili residenziali oppure su un diritto reale avente a oggetto beni immobili residenziali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il tasso d'interesse, precisando se fisso o variabile o una combinazione dei due tipi, corredato di informazioni dettagliate relative alle commissioni e agli altri oneri compresi nel costo totale del credito per il consumatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'importo totale del credito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il TAEG, che deve avere un'evidenza all'interno dell'annuncio almeno equivalente a quella di ogni tasso di interesse; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'esistenza di eventuali servizi accessori necessari per ottenere il credito o per ottenerlo alle condizioni pubblicizzate, qualora i costi relativi a tali servizi non siano inclusi nel TAEG in quanto non determinabili in anticipo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la durata del contratto di credito, se determinata; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    se del caso, l'importo delle rate; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    se del caso, l'importo totale che il consumatore e' tenuto a pagare; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    se del caso, il numero delle rate; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    in caso di finanziamenti in valuta estera, un'avvertenza relativa al fatto che eventuali fluttuazioni del tasso di cambio potrebbero incidere sull'importo che il consumatore e' tenuto a pagare.
+
 Le informazioni elencate al comma 2, lettere c), d), e), f), g), h), i), l), sono specificate con l'impiego di un esempio rappresentativo.
 
 4. Il CICR, su proposta della Banca d'Italia, precisa le caratteristiche delle informazioni da includere negli annunci pubblicitari, le modalita' per la loro divulgazione e i criteri per la definizione dell'esempio rappresentativo.))
@@ -3967,11 +8204,97 @@ Le informazioni elencate al comma 2, lettere c), d), e), f), g), h), i), l), son
 
 ## Art. 120-novies. — (Obblighi precontrattuali)
 
+1.
+                        
+                            
+                                Il finanziatore o l'intermediario del credito mette a disposizione del consumatore, in qualsiasi momento, un documento contenente informazioni generali chiare e comprensibili sui contratti di credito offerti, su supporto cartaceo o altro supporto durevole.
+Il documento precisa anche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le informazioni e le evidenze documentali che il consumatore deve fornire ai sensi dell'articolo 120-undecies, comma 1, e il termine entro il quale esse devono essere fornite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'avvertimento che il credito non puo' essere accordato se la valutazione del merito creditizio non puo' essere effettuata a causa della scelta del consumatore di non fornire le informazioni o gli elementi di verifica necessari alla valutazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((se verra' consultata una banca dati, in conformita' degli articoli 13 e 14 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016;))
+                                        ((119))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    se del caso, la possibilita' di ricevere servizi di consulenza.
+
 Il finanziatore o l'intermediario del credito fornisce al consumatore le informazioni personalizzate necessarie per consentire il confronto delle diverse offerte di credito sul mercato, valutarne le implicazioni e prendere una decisione informata in merito alla conclusione di un contratto di credito. Le informazioni personalizzate sono fornite su supporto cartaceo o su altro supporto durevole attraverso la consegna del modulo denominato «Prospetto informativo europeo standardizzato». Il modulo e' consegnato tempestivamente dopo che il consumatore ha fornito le informazioni necessarie circa le sue esigenze, la sua situazione finanziaria e le sue preferenze in conformita' all'articolo 120-undecies, comma 1, e comunque in tempo utile, prima che il consumatore sia vincolato da un contratto di credito o da un'offerta. Le informazioni aggiuntive che il finanziatore o l'intermediario del credito debba o voglia fornire al consumatore sono riportate in un documento distinto.
 
 Prima della conclusione del contratto di credito, il consumatore ha diritto a un periodo di riflessione di almeno sette giorni per confrontare le diverse offerte di credito sul mercato, valutarne le implicazioni e prendere una decisione informata. Durante il periodo di riflessione, l'offerta e' vincolante per il finanziatore e il consumatore puo' accettare l'offerta in qualunque momento.
 
+4.
+                        
+                            
+                                Quando al consumatore e' proposta un'offerta vincolante per il finanziatore, l'offerta e' fornita su supporto cartaceo o su altro supporto durevole e include la bozza del contratto di credito; essa e' accompagnata dalla consegna del modulo denominato «Prospetto informativo europeo standardizzato» se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il modulo non e' stato fornito in precedenza al consumatore; o 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le caratteristiche dell'offerta sono diverse dalle informazioni contenute nel modulo denominato «Prospetto informativo europeo standardizzato» precedentemente fornito.
+
 Il finanziatore o l'intermediario del credito fornisce al consumatore chiarimenti adeguati sui contratti di credito ed eventuali servizi accessori proposti, in modo che questi possa valutare se il contratto di credito e i servizi accessori proposti siano adatti alle sue esigenze e alla sua situazione finanziaria.
+
+6.
+                        
+                            
+                                Il CICR, su proposta della Banca d'Italia, detta disposizioni di attuazione del presente articolo, anche con riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto, i criteri di redazione, le modalita' di messa a disposizione delle informazioni precontrattuali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' e la portata dei chiarimenti da fornire al consumatore ai sensi del comma 5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli obblighi specifici da osservare nei casi di comunicazioni mediante telefonia vocale, anche prevedendo informazioni aggiuntive rispetto a quanto previsto dall'articolo ((59-quinquies, comma 2,)) del Codice del consumo; ((119))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    l'informazione da rendere al consumatore sul contenuto e sui possibili effetti dell'accordo previsto dall'articolo 120-quinquiesdecies, comma 3. 
+ (70)
 
 -------------
                             AGGIORNAMENTO (70)
@@ -3985,6 +8308,73 @@ Il finanziatore o l'intermediario del credito fornisce al consumatore chiariment
 ## Art. 120-decies. — (( (Obblighi di informazione relativi agli intermediari del credito).))
 
 ((
+
+1.
+                        
+                            
+                                L'intermediario del credito, in tempo utile prima dell'esercizio di una delle attivita' di intermediazione del credito, fornisce al consumatore almeno le seguenti informazioni, su supporto cartaceo o su altro supporto durevole: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione e la sede dell'intermediario del credito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il registro in cui e' iscritto, il numero di registrazione e i mezzi esperibili per verificare la registrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se l'intermediario del credito e' soggetto a vincolo di mandato o opera in via esclusiva con uno o piu' finanziatori; in questo caso, l'intermediario del credito indica la denominazione del finanziatore o dei finanziatori per i quali opera. L'intermediario del credito puo' dichiarare di essere indipendente se e' un consulente indipendente ai sensi dell'articolo 120-terdecies, comma 2; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se presta servizi di consulenza; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se previsto, il compenso che il consumatore deve versare all'intermediario del credito per i suoi servizi o, ove non sia determinato, il metodo per il calcolo di tale compenso; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le procedure attraverso le quali i consumatori o le altre parti interessate possono presentare reclami nei confronti dell'intermediario del credito e le modalita' di accesso a un meccanismo extragiudiziale di reclamo e di ricorso, ove esistente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'esistenza e, se noto, l'importo di eventuali commissioni o altre somme che il finanziatore o terzi dovranno versare all'intermediario del credito per i servizi dallo stesso prestati in relazione al contratto di credito. Se l'importo non e' noto al momento della comunicazione, l'intermediario del credito informa il consumatore che l'importo effettivo sara' comunicato in una fase successiva nel modulo denominato «Prospetto informativo europeo standardizzato»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    se l'intermediario del credito richiede il pagamento di un compenso da parte del consumatore e riceve anche una commissione da parte del finanziatore o da un terzo, la spiegazione circa l'eventuale detrazione della commissione, in tutto o in parte, dal compenso corrisposto dal consumatore stesso; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    se l'intermediario del credito riceve commissioni da uno o piu' finanziatori, il diritto del consumatore di chiedere e ottenere informazioni indicate al comma 2.
 
 ))
 
@@ -4085,6 +8475,38 @@ Il servizio di consulenza e' riservato ai finanziatori e agli intermediari del c
 
 Il servizio di consulenza puo' essere qualificato come indipendente solo se e' reso dai consulenti di cui all'articolo 128-sexies, comma 2-bis.
 
+3.
+                        
+                            
+                                Nello svolgimento del servizio di consulenza i finanziatori e gli intermediari del credito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agiscono nel migliore interesse del consumatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    acquisiscono informazioni aggiornate sulla situazione personale e finanziaria, sugli obiettivi e sulle preferenze del consumatore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    forniscono al consumatore una raccomandazione personalizzata in merito a una o piu' operazioni relative a contratti di credito, adeguata rispetto ai suoi bisogni e alla sua situazione personale e finanziaria; la raccomandazione, fornita in forma cartacea o su altro supporto durevole, riguarda anche eventuali servizi accessori connessi con il contratto di credito e tiene conto di ipotesi ragionevoli circa i rischi per la situazione del consumatore per tutta la durata del contratto di credito raccomandato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    prendono in considerazione, ai fini della raccomandazione, un numero sufficientemente ampio di contratti di credito nell'ambito della gamma di prodotti da essi stessi offerti o, nel caso dei mediatori creditizi, un numero sufficientemente ampio di contratti di credito disponibili sul mercato.
+
 4. Prima della prestazione di servizi di consulenza, il finanziatore o l'intermediario del credito fornisce al consumatore le seguenti informazioni su supporto cartaceo o su altro supporto durevole:
 
 a) la gamma di prodotti presi in considerazione ai fini della raccomandazione;
@@ -4103,6 +8525,42 @@ c) quando consentito, se percepiscono un compenso dai finanziatori in relazione 
 ## Art. 120-quaterdecies. — (( (Finanziamenti denominati in valuta estera).))
 
 ((
+
+1.
+                        
+                            
+                                Se il credito e' denominato in una valuta estera, il consumatore ha il diritto di convertire in qualsiasi momento la valuta in cui e' denominato il contratto in una delle seguenti valute: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la valuta in cui e' denominata la parte principale del suo reddito o in cui egli detiene le attivita' con le quali dovra' rimborsare il finanziamento, come indicato al momento della piu' recente valutazione del merito creditizio condotta in relazione al contratto di credito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la valuta avente corso legale nello Stato membro dell'Unione europea in cui il consumatore aveva la residenza al momento della conclusione del contratto o ha la residenza al momento della richiesta di conversione.
+
+2.
+                        
+                            
+                                Il CICR, su proposta della Banca d'Italia, puo' stabilire condizioni per il diritto alla conversione, con particolare riguardo a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la variazione minima del tasso di cambio che deve aver avuto luogo rispetto al momento della conclusione del contratto, comunque non superiore rispetto a quella indicata al comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il compenso onnicomprensivo che il consumatore puo' essere tenuto a corrispondere al finanziatore in base al contratto.
 
 Salvo che non sia diversamente previsto nel contratto, il tasso di cambio al quale avviene la conversione e' pari al tasso rilevato dalla Banca centrale europea nel giorno in cui e' stata presentata la domanda di conversione.
 
@@ -4226,6 +8684,145 @@ Le disposizioni del presente decreto che modificano il titolo VI, capi I-bis e I
 
 ## Art. 121. — Definizioni
 
+1.
+                        
+                            
+                                Nel presente capo, l'espressione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "Codice del consumo" indica il decreto legislativo 6 settembre 2005, n. 206; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "consumatore" indica una persona fisica che agisce per scopi estranei all'attivita' imprenditoriale, commerciale, artigianale o professionale eventualmente svolta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "contratto di credito" indica il contratto con cui un finanziatore concede o si impegna a concedere a un consumatore un credito sotto forma di dilazione di pagamento, di prestito o di altra facilitazione finanziaria; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        (("servizio accessorio" indica un servizio offerto al consumatore in combinazione con il contratto di credito;));((120))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    "contratto di credito collegato" indica un contratto di credito finalizzato esclusivamente a finanziare la fornitura di un bene o la prestazione di un servizio specifici se ricorre almeno una delle seguenti condizioni: 
+ 1) il finanziatore si avvale del fornitore del bene o del prestatore del servizio per ((presentare, proporre ovvero)) concludere il contratto di credito; ((120)) 
+ 2) il bene o il servizio specifici sono esplicitamente individuati nel contratto di credito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "costo totale del credito" indica gli interessi e tutti gli altri costi, incluse le commissioni, le imposte e le altre spese, a eccezione di quelle notarili, che il consumatore deve pagare in relazione al contratto di credito e di cui il finanziatore e' a conoscenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "finanziatore" indica un soggetto che, essendo abilitato a erogare finanziamenti a titolo professionale nel territorio della Repubblica, offre o stipula contratti di credito; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "importo totale del credito" indica il limite massimo o la somma totale degli importi messi a disposizione in virtu' di un contratto di credito; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        (("importo totale dovuto dal consumatore" indica la somma dell'importo totale del credito e del costo totale del credito;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    "intermediario del credito" indica gli agenti in attivita' finanziaria, i mediatori creditizi o qualsiasi altro soggetto, diverso dal finanziatore, che nell'esercizio della propria attivita' commerciale o professionale ((e salve le ipotesi descritte dagli articoli 128-quater, comma 1-bis, e 128-sexies, comma 1-bis,)) svolge, a fronte di un compenso in denaro o di altro vantaggio economico oggetto di pattuizione e nel rispetto delle riserve di attivita' previste ((dalla legislazione vigente)), almeno una delle seguenti attivita': ((120)) 
+ 1) presentazione o proposta di contratti di credito ovvero altre attivita' preparatorie in vista della conclusione di tali contratti; 
+ 2) conclusione di contratti di credito per conto del finanziatore; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "sconfinamento" indica l'utilizzo da parte del consumatore di fondi concessi dal finanziatore in eccedenza rispetto al saldo del conto corrente in assenza di apertura di credito ovvero rispetto all'importo dell'apertura di credito concessa; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "supporto durevole" indica ogni strumento che permetta al consumatore di conservare le informazioni che gli sono personalmente indirizzate in modo da potervi accedere in futuro per un periodo di tempo adeguato alle finalita' cui esse sono destinate e che permetta la riproduzione identica delle informazioni memorizzate; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "tasso annuo effettivo globale" o "TAEG" indica il costo totale del credito per il consumatore espresso in percentuale annua dell'importo totale del credito ((;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    
+                                        (("profilazione" indica l'attivita' definita all'articolo 4, punto 4), del regolamento (UE) 2016/679, del Parlamento europeo e del Consiglio, del 27 aprile 2016;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    
+                                        (("servizio di consulenza" indica le raccomandazioni personalizzate fornite al consumatore ai sensi dell'articolo 124.2 in merito a una o piu' operazioni relative a contratti di credito; l'offerta di contratti di credito e le attivita' indicate negli articoli 123, 123-bis, 124, 124-bis e 125-novies non implicano un servizio di consulenza;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                m-quater)
+                                
+                                    
+                                        (("servizio di consulenza sul debito" indica l'assistenza personalizzata di natura tecnica, giuridica o psicologica fornita da operatori professionali indipendenti che non sono, in particolare, finanziatori o intermediari del credito, o gestori di crediti in sofferenza o acquirenti di crediti in sofferenza quali definiti all'articolo 114.1, comma 1, lettere c) ed e), a consumatori che incontrano o potrebbero incontrare difficolta' nel rispettare i propri impegni finanziari;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                m-quinquies)
+                                
+                                    
+                                        (("trattamento" indica l'attivita' definita all'articolo 4, punto 2), del regolamento (UE) 2016/679.))
+                                        ((120))
+
 Nel costo totale del credito sono inclusi anche i costi relativi a servizi accessori connessi con il contratto di credito, compresi i premi assicurativi, se la conclusione di un contratto avente ad oggetto tali servizi e' un requisito per ottenere il credito, o per ottenerlo alle condizioni offerte.
 
 La Banca d'Italia, in conformita' alle deliberazioni del CICR, stabilisce le modalita' di calcolo del TAEG, ivi inclusa la specificazione dei casi in cui i costi di cui al comma 2 sono compresi nel costo totale del credito.
@@ -4237,6 +8834,147 @@ La Banca d'Italia, in conformita' alle deliberazioni del CICR, stabilisce le mod
  Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
 ## Art. 122. — Ambito di applicazione
+
+1.
+                        
+                            
+                                Le disposizioni del presente capo si applicano ai contratti di credito comunque denominati, a eccezione dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((finanziamenti di importo superiore a 100.000 euro;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    contratti di somministrazione previsti dagli articoli 1559, e seguenti, del codice civile e contratti di appalto di cui all'articolo 1677 del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 31 DICEMBRE 2025, N. 212)); ((120))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 31 DICEMBRE 2025, N. 212)); ((120))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    finanziamenti destinati all'acquisto o alla conservazione di un diritto di proprieta' su un terreno o su un immobile edificato o progettato ((, compresi i locali utilizzati a fini commerciali o professionali)); ((120))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    finanziamenti garantiti da ipoteca su beni immobili; (70) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    finanziamenti, concessi da banche o da imprese di investimento, finalizzati a effettuare un'operazione avente a oggetto strumenti finanziari quali definiti dall'articolo 1, comma 2, del decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni, purche' il finanziatore partecipi all'operazione; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    
+                                        ((i finanziamenti concessi da un datore di lavoro o da societa' del gruppo di appartenenza esclusivamente ai propri dipendenti o a coloro che operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione del datore di lavoro, anche in forma diversa dal rapporto di lavoro subordinato, al di fuori della propria attivita' principale, senza interessi o a tassi annui effettivi globali inferiori a quelli prevalenti sul mercato;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    finanziamenti concessi in base a un accordo raggiunto dinanzi all'autorita' giudiziaria o a un'altra autorita' prevista dalla legge; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    dilazioni del pagamento di un debito preesistente concesse gratuitamente dal finanziatore; 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    
+                                        ((dilazioni del pagamento in forza delle quali un fornitore di beni o un prestatore di servizi, senza offerta di credito da parte di terzi, concede al consumatore tempo non superiore a cinquanta giorni dalla consegna dei beni o dalla prestazione dei servizi per pagare i beni o i servizi da esso offerti, sempre che la dilazione sia offerta gratuitamente, senza interessi o altre spese, fatta eccezione per spese limitate eventualmente applicabili in caso di ritardi di pagamento;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    
+                                        ((dilazioni di pagamento offerte da parte di fornitori di beni o prestatori di servizi che non sono microimprese, piccole o medie imprese definite nella raccomandazione 2003/361/CE, della Commissione europea, del 6 maggio 2003, quando offrono servizi della societa' dell'informazione ai sensi dell'articolo 1, paragrafo 1, lettera b), della direttiva (UE) 2015/1535, del Parlamento europeo e del Consiglio, del 9 settembre 2015, consistenti nella conclusione di contratti a distanza con i consumatori per la vendita di beni o la prestazione di servizi ai sensi dell'articolo 2, punto 7), della direttiva 2011/83/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2011, per l'acquisto di beni o servizi da essi offerti a condizione che: 
+ 1) non vi sia offerta ne' acquisto di crediti da parte di un terzo; 
+ 2) il pagamento sia interamente eseguito entro quattordici giorni dalla consegna dei beni o dalla prestazione dei servizi; 
+ 3) il prezzo d'acquisto sia pagato senza interessi e senza altre spese, fatta eccezione per le spese limitate eventualmente applicabili in caso di ritardi di pagamento;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    finanziamenti garantiti da pegno su un bene mobile, se il consumatore non e' obbligato per un ammontare eccedente il valore del bene; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        ((contratti di locazione o di locazione finanziaria (leasing), che non prevedono obbligo od opzione di acquisto dell'oggetto del contratto ne' in virtu' del contratto stesso ne' di altri contratti distinti;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                n)
+                                
+                                    iniziative di microcredito ai sensi dell'articolo 111 e altri contratti di credito individuati con legge relativi a prestiti concessi a un pubblico ristretto, con finalita' di interesse generale, che non prevedono il pagamento di interessi o prevedono tassi inferiori a quelli prevalenti sul mercato oppure ad altre condizioni piu' favorevoli per il consumatore rispetto a quelle prevalenti sul mercato ((...)); ((120))
+                                    
+                                
+                            
+                            
+                                o)
+                                
+                                    contratti di credito sotto forma di sconfinamento del conto corrente, salvo quanto disposto dall'articolo 125-octies ((;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                o-bis)
+                                
+                                    
+                                        ((carte di debito differito, il cui credito deve essere rimborsato entro quaranta giorni, senza interessi e senza altre spese, fatta eccezione per spese limitate connesse alla prestazione del servizio di pagamento.))
+                                        ((120))
 
 In deroga a quanto previsto al comma 1, lettera a), il presente capo si applica ai contratti di credito non garantiti finalizzati alla ristrutturazione di un immobile residenziale, anche se il finanziamento ha un importo superiore a ((100.000 euro)). (70) ((120))
 
@@ -4252,6 +8990,36 @@ In deroga a quanto previsto al comma 1, lettera a), il presente capo si applica 
 
 ((Fermi restando i casi di esclusione di cui al comma 1, lettere i-bis) e i-ter), i fornitori di beni o i prestatori di servizi possono concludere contratti di credito, a titolo accessorio rispetto alla propria attivita' commerciale o professionale, nella sola forma della dilazione di pagamento gratuita per l'acquisto di beni o servizi da essi offerti, salve limitate spese per i ritardi nel rimborso.))
                                 ((120))
+
+5-bis.
+                        
+                            
+                                
+                                    ((La Banca d'Italia, in conformita' alle deliberazioni del CICR, individua le disposizioni che non si applicano ai seguenti contratti di credito, in conformita' all'articolo 2, paragrafo 8, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((contratti di credito per un importo totale del credito inferiore a 200 euro. Ai fini del computo della soglia minima si prendono in considerazione anche i crediti frazionati concessi attraverso piu' contratti, se questi sono riconducibili a una medesima operazione economica;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((contratti di credito nei quali e' escluso il pagamento di interessi o di altri oneri, fatta eccezione per spese limitate che il consumatore puo' essere tenuto a pagare in caso di ritardi di pagamento;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((contratti di credito a fronte dei quali il consumatore e' tenuto a corrispondere esclusivamente commissioni per un importo non significativo, qualora il rimborso del credito debba avvenire entro tre mesi dall'utilizzo delle somme.))
+                                        ((120))
 
 -------------
                             AGGIORNAMENTO (70)
@@ -4269,6 +9037,27 @@ In deroga a quanto previsto al comma 1, lettera a), il presente capo si applica 
 
 ((Il finanziatore e l'intermediario del credito si comportano con diligenza, correttezza e trasparenza, tenendo conto dei diritti e degli interessi dei consumatori.))
 
+2.
+                        
+                            
+                                
+                                    ((Nell'ambito delle attivita' disciplinate dal presente capo, il finanziatore e l'intermediario del credito:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((forniscono gratuitamente ai consumatori le informazioni, compresi i chiarimenti adeguati;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((si astengono dal praticare condizioni discriminatorie in relazione alla richiesta, alla conclusione o alla titolarita' di un contratto di credito da parte dei consumatori soggiornanti legalmente nell'Unione europea, per motivi inerenti la cittadinanza, il luogo di residenza o qualsiasi altra situazione menzionata all'articolo 21 della Carta dei diritti fondamentali dell'Unione europea; resta ferma la possibilita' di offrire condizioni differenti di accesso a un credito qualora siano debitamente giustificate da criteri oggettivi.))
+
 ((La Banca d'Italia, in conformita' alle deliberazioni del CICR, detta disposizioni di attuazione del presente articolo.))
                                 ((120))
 
@@ -4284,6 +9073,62 @@ In deroga a quanto previsto al comma 1, lettera a), il presente capo si applica 
 
 ((Gli annunci pubblicitari relativi ai contratti di credito includono un avvertimento chiaro ed evidenziato affinche' i consumatori siano consapevoli che prendere in prestito denaro comporta dei costi.))
                                 ((120))
+
+1.
+                        
+                            
+                                
+                                    ((Gli annunci pubblicitari che riportano il tasso d'interesse o altre cifre concernenti qualunque costo del credito indicano le seguenti informazioni di base precisate con l'impiego di un esempio rappresentativo ed espresse, in forma chiara, concisa, evidenziata, facilmente leggibile o chiaramente udibile, a seconda del caso, e adattata ai limiti tecnici del mezzo utilizzato per la pubblicita':))
+                                    ((120))
+                                
+                            
+                            
+                                a)
+                                
+                                    il tasso d'interesse, specificando se fisso o variabile ((ovvero una combinazione dei due tipi)), e le spese comprese nel costo totale del credito; ((120))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo totale del credito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il TAEG; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esistenza di eventuali servizi accessori necessari per ottenere il credito o per ottenerlo alle condizioni pubblicizzate, qualora i costi relativi a tali servizi non siano inclusi nel TAEG in quanto non determinabili in anticipo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la durata del contratto, se determinata; 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    
+                                        ((in caso di credito sotto forma di dilazione di pagamento per l'acquisto di beni o servizi specifici, il prezzo in contanti e l'importo degli eventuali pagamenti anticipati;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    se determinabile in anticipo, l'importo totale dovuto dal consumatore, nonche' l'ammontare delle singole rate.
 
 ---------------
                             AGGIORNAMENTO (38)
@@ -4331,6 +9176,34 @@ Le informazioni di cui al comma 1 sono fornite ((...)) su supporto cartaceo o su
 ((Fatto salvo quanto previsto dal regolamento (UE) 2016/679, del Parlamento europeo e del Consiglio, del 27 aprile 2016, i finanziatori e gli intermediari del credito informano i consumatori in modo chiaro e comprensibile quando presentano loro un'offerta personalizzata basata sul trattamento automatizzato di dati personali.))
                                 ((120))
 
+7.
+                        
+                            
+                                La Banca d'Italia, in conformita' alle deliberazioni del CICR, detta disposizioni di attuazione del presente articolo, con riferimento a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contenuto, i criteri di redazione, le modalita' di messa a disposizione delle informazioni precontrattuali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((il contenuto, le modalita' e la portata dei chiarimenti adeguati da fornire al consumatore ai sensi del comma 5, anche in caso di contratti conclusi congiuntamente;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((gli obblighi specifici o derogatori da osservare nei casi di: comunicazioni mediante telefonia vocale; dilazioni di pagamento e altre modalita' agevolate di rimborso di un credito preesistente, concordate tra le parti a seguito di un inadempimento o probabile inadempimento del consumatore; offerta attraverso intermediari del credito che operano a titolo accessorio.)) (38) ((120))
+
 -------------
                             AGGIORNAMENTO (38)
                             
@@ -4364,6 +9237,64 @@ Le informazioni di cui al comma 1 sono fornite ((...)) su supporto cartaceo o su
 
 ((Il servizio di consulenza puo' essere qualificato come indipendente solo se e' reso dai consulenti di cui all'articolo 128-sexies, comma 2-bis.))
 
+3.
+                        
+                            
+                                
+                                    ((Nello svolgimento del servizio di consulenza i finanziatori o gli intermediari del credito:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((agiscono nel migliore interesse del consumatore;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((acquisiscono informazioni aggiornate sulla situazione finanziaria, sugli obiettivi e sulle preferenze del consumatore;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((forniscono al consumatore una raccomandazione in merito a una o piu' operazioni relative a contratti di credito, adeguata rispetto ai suoi bisogni e alla sua situazione personale e finanziaria; la raccomandazione, fornita in forma cartacea o su altro supporto durevole scelto dal consumatore e specificato nel contratto per la prestazione di servizi di consulenza, tiene conto di ipotesi ragionevoli circa i rischi per la situazione finanziaria del consumatore per tutta la durata del contratto di credito raccomandato;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((prendono in considerazione, ai fini della raccomandazione, un numero sufficientemente ampio di contratti di credito nell'ambito della gamma di prodotti da essi offerti o, nel caso dei mediatori creditizi, un numero sufficientemente ampio di contratti di credito disponibili sul mercato.))
+
+4.
+                        
+                            
+                                
+                                    ((Prima della prestazione di servizi di consulenza, il finanziatore o l'intermediario del credito forniscono al consumatore le seguenti informazioni su supporto cartaceo o su altro supporto durevole scelto dal consumatore:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((l'indicazione se la raccomandazione sara' basata solo sulla propria gamma di prodotti o su un'ampia gamma di prodotti fra quelli reperibili sul mercato;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((se del caso, il compenso dovuto dal consumatore per i servizi di consulenza o, qualora al momento dell'informativa l'importo non possa essere definito, il metodo utilizzato per calcolarlo.))
+
 ((Le informazioni previste al comma 4 possono essere fornite al consumatore in un allegato al documento di cui all'articolo 124, comma 2.))
 
 ((Nella prestazione del servizio di consulenza, il finanziatore o l'intermediario del credito avvisano il consumatore quando, tenuto conto della sua situazione finanziaria, un contratto di credito puo' comportare un rischio specifico a suo carico.))
@@ -4393,6 +9324,36 @@ Le informazioni di cui al comma 1 sono fornite ((...)) su supporto cartaceo o su
 
 ((Se le parti convengono di modificare l'importo totale del credito dopo la conclusione del contratto di credito, il finanziatore svolge una nuova valutazione del merito creditizio del consumatore sulla base di informazioni aggiornate prima di procedere ad un aumento significativo dell'importo totale del credito.))
                                 ((120))
+
+2-bis.
+                        
+                            
+                                
+                                    ((Qualora la valutazione del merito creditizio si fondi, anche solo in parte, sul trattamento automatizzato di dati personali del consumatore, questi ha diritto di chiedere e ottenere dal finanziatore l'intervento umano, ossia:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((chiedere e ottenere dal finanziatore una spiegazione chiara e comprensibile della valutazione del merito creditizio, compresi la logica e i rischi derivanti dal trattamento automatizzato dei dati personali nonche' la rilevanza e gli effetti sulla decisione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((esprimere la propria opinione al finanziatore;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((chiedere un riesame della valutazione del merito creditizio e della decisione relativa alla concessione del credito da parte del finanziatore.))
+                                        ((120))
 
 ((Qualora la valutazione del merito creditizio si fondi, anche solo in parte, sul trattamento automatizzato di dati personali del consumatore ad opera di un terzo di cui si avvale il finanziatore, il finanziatore adotta le misure necessarie per acquisire dal terzo tutte le informazioni necessarie ai fini della spiegazione di cui al comma 2-bis, lettera a).))
                                 ((120))
@@ -4469,6 +9430,49 @@ Nessuna somma puo' essere richiesta o addebitata al consumatore se non sulla bas
 Sono nulle le clausole del contratto relative a costi a carico del consumatore che, contrariamente a quanto previsto ai sensi dell'articolo 121, comma 1, lettera e), non sono stati inclusi o sono stati inclusi in modo non corretto nel TAEG pubblicizzato nella documentazione predisposta secondo quanto previsto dall'articolo 124.
 La nullita' della clausola non comporta la nullita' del contratto.
 
+7.
+                        
+                            
+                                Nei casi di assenza o di nullita' delle relative clausole contrattuali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il TAEG equivale al tasso nominale minimo dei buoni del tesoro annuali o di altri titoli similari eventualmente indicati dal Ministro dell'economia e delle finanze, emessi nei dodici mesi precedenti la conclusione del contratto. Nessuna altra somma e' dovuta dal consumatore a titolo di tassi di interesse, commissioni o altre spese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la durata del credito e' di trentasei mesi.
+
+8.
+                        
+                            
+                                Il contratto e' nullo se non contiene le informazioni essenziali ai sensi del comma 1 su: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il tipo di contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parti del contratto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo totale del finanziamento e le condizioni di prelievo e di rimborso.
+
 In caso di nullita' del contratto, il consumatore non puo' essere tenuto a restituire piu' delle somme utilizzate e ha facolta' di pagare quanto dovuto a rate, con la stessa periodicita' prevista nel contratto o, in mancanza, in trentasei rate mensili.
 
 -------------
@@ -4492,6 +9496,24 @@ Il comma 1-bis non si applica se il consumatore non e' stato informato dell'esis
 
 Nel caso di un contratto di credito collegato per l'acquisto di beni in forza del quale al consumatore sia assicurato un rimborso completo entro un determinato periodo di tempo superiore a quattordici giorni di calendario, a fronte della restituzione dei beni, il diritto di recesso dal contratto di credito e' esercitabile entro tale piu' ampio periodo. (120)
 
+2.
+                        
+                            
+                                Il consumatore che recede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ne da' comunicazione al finanziatore inviandogli, prima della scadenza del termine previsto dal comma 1, una comunicazione su supporto cartaceo o altro supporto durevole, scelto dal consumatore e specificato nel contratto di credito, conformemente a quanto indicato nel contratto ai sensi dell'articolo 125-bis, comma 1. In caso di contratti a distanza conclusi mediante un'interfaccia online, si applica l'articolo 54-bis del decreto legislativo 6 settembre 2005, n. 206; (119) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il contratto ha avuto esecuzione in tutto o in parte, entro trenta giorni dall'invio della comunicazione prevista dalla lettera a), restituisce il capitale e paga gli interessi maturati fino al momento della restituzione, calcolati secondo quanto stabilito dal contratto. Inoltre, rimborsa al finanziatore le somme non ripetibili da questo corrisposte alla pubblica amministrazione.
+
 Il finanziatore non puo' pretendere somme ulteriori rispetto a quelle previste dal comma 2, lettera b).
 
 Il recesso disciplinato dal presente articolo si estende automaticamente, anche in deroga alle condizioni e ai termini eventualmente previsti dalla normativa di settore, ai contratti aventi a oggetto servizi accessori connessi col contratto di credito, se tali servizi sono resi dal finanziatore ovvero da un terzo sulla base di un accordo col finanziatore. L'esistenza dell'accordo e' presunta. E' ammessa, da parte del terzo, la prova contraria.
@@ -4513,6 +9535,24 @@ Il recesso disciplinato dal presente articolo si estende automaticamente, anche 
 ((
 
 Fermo restando quanto previsto dall'articolo 125-ter, nei contratti di credito a tempo indeterminato il consumatore ha il diritto di recedere in ogni momento senza penalita' e senza spese. Il contratto puo' prevedere un preavviso non superiore a un mese.
+
+2.
+                        
+                            
+                                I contratti di credito a tempo indeterminato possono prevedere il diritto del finanziatore a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    recedere dal contratto con un preavviso di almeno due mesi, comunicato al consumatore su supporto cartaceo o altro supporto durevole; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospendere, per una giusta causa, l'utilizzo del credito da parte del consumatore, dandogliene comunicazione su supporto cartaceo o altro supporto durevole in anticipo e, ove cio' non sia possibile, immediatamente dopo la sospensione.
 
 ))
 
@@ -4546,6 +9586,39 @@ I contratti di credito indicano in modo chiaro i criteri per la riduzione propor
 Salva diversa pattuizione tra il finanziatore e l'intermediario del credito, il finanziatore ha diritto di regresso nei confronti dell'intermediario del credito per la quota dell'importo rimborsato al consumatore relativa al compenso per l'attivita' di intermediazione del credito.
 
 In caso di rimborso anticipato, il finanziatore ha diritto a un indennizzo equo e oggettivamente giustificato per eventuali costi direttamente collegati al rimborso anticipato ((...)). L'indennizzo non puo' superare l'1 per cento ((dell'importo del credito oggetto del rimborso anticipato)), se la vita residua del contratto e' superiore a un anno, ovvero lo 0,5 per cento del medesimo importo, se la vita residua del contratto e' pari o inferiore a un anno. In ogni caso, l'indennizzo non puo' superare l'importo degli interessi che il consumatore avrebbe pagato per la vita residua del contratto. ((120))
+
+5.
+                        
+                            
+                                L'indennizzo di cui al comma 4 non e' dovuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il rimborso anticipato e' effettuato in esecuzione di un contratto di assicurazione destinato a garantire il credito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il rimborso anticipato riguarda un contratto di apertura di credito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se il rimborso anticipato ha luogo in un periodo in cui non si applica un tasso di interesse espresso da una percentuale specifica fissa predeterminata nel contratto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se l'importo rimborsato anticipatamente corrisponde all'intero debito residuo ed e' pari o inferiore a 10.000 euro. 
+ (94) (106) (107)
 
 ---------------
                             AGGIORNAMENTO (94)
@@ -4581,8 +9654,73 @@ Il consumatore e' informato della cessione del credito, a meno che il cedente, i
 Se un contratto di conto corrente prevede la possibilita' che al consumatore sia concesso uno sconfinamento, si applicano le disposizioni del capo I. ((Allo sconfinamento si applicano gli articoli 121, 122, 124.1, comma 1, 124-bis, 125, 125-septies, 125-octies.1, 125-decies, 125-terdecies.))
                                 ((120))
 
+2.
+                        
+                            
+                                In caso di sconfinamento consistente che si protragga per oltre un mese, il ((finanziatore)) comunica senza indugio al consumatore, su supporto cartaceo o altro supporto durevole: ((120))
+                                
+                            
+                            
+                                a)
+                                
+                                    lo sconfinamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo interessato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il tasso debitore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le penali, le spese o gli interessi di mora eventualmente applicabili ((;))
+                                        ((120))
+                                    
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((la data del rimborso.) ((120))
+
 ((In caso di sconfinamento regolare, il finanziatore offre al consumatore servizi di consulenza, laddove disponibili, e lo reindirizza gratuitamente verso servizi di consulenza sul debito.))
                                 ((120))
+
+3.
+                        
+                            
+                                
+                                    ((La Banca d'Italia, in conformita' alle deliberazioni del CICR, detta disposizioni di attuazione dei commi 2 e 2-bis, in particolare con riferimento:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((al termine di invio della comunicazione;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((ai criteri per la determinazione della consistenza e della regolarita' dello sconfinamento.)) (38) ((120)) 
+ 
+AGGIORNAMENTO (38) 
+ Il D.Lgs. 14 dicembre 2010, n. 218, nel modificare il D.Lgs. 13 agosto 2010, n. 141, ha disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
 
 ---------------
                             AGGIORNAMENTO (120)
@@ -4673,6 +9811,44 @@ Il finanziatore non puo' imporre al consumatore oneri, derivanti dall'inadempime
 
 ((I servizi di consulenza sul debito sono forniti gratuitamente salvo l'eventuale pagamento di una commissione coerente con le finalita' del servizio, secondo parametri pubblicati sul sito internet delle associazioni e fondazioni di cui al comma 1, in ogni caso limitata ai costi operativi effettivamente sostenuti e non gia' finanziati con risorse pubbliche.))
 
+4.
+                        
+                            
+                                
+                                    ((Il Ministro delle imprese e del made in Italy, di concerto con il Ministro dell'economia e delle finanze, il Ministro del lavoro e delle politiche sociali e il Ministro della giustizia, puo', con decreto, definire modalita', termini e condizioni per l'erogazione dei medesimi servizi anche da parte dei seguenti soggetti:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((gli enti del terzo settore iscritti nel registro unico nazionale dal codice del terzo settore di cui al decreto legislativo 3 luglio 2017, n. 117;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((gli operatori in servizi non finanziari ausiliari di assistenza e monitoraggio per il microcredito iscritti nell'elenco di cui all'articolo 13, commi 1-bis, del decreto-legge 22 ottobre 2016 n. 193, convertito, con modificazioni, dalla legge 1° dicembre 2016 n. 225;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((le associazioni dei consumatori e degli utenti iscritte nell'elenco previsto dall'articolo 137 del Codice del consumo;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((gli organismi di composizione della crisi da sovraindebitamento di cui all'articolo 15 della legge 27 gennaio 2012, n. 3.))
+                                        ((120))
+
 ---------------
                             AGGIORNAMENTO (120)
                             
@@ -4711,7 +9887,26 @@ Nell'esercizio dei poteri regolamentari previsti dal presente capo, la Banca d'I
 
 ## Art. 126-quater. — (Informazioni relative alle operazioni di pagamento e ai contratti)
 
-((119))
+1.
+                        
+                            
+                                La Banca d'Italia disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contenuti e modalita' delle informazioni e delle condizioni che il prestatore dei servizi di pagamento fornisce o rende disponibili all'utilizzatore di servizi di pagamento, al pagatore e al beneficiario. Le informazioni e le condizioni sono redatte in termini di facile comprensione e in forma chiara e leggibile. In particolare, l'utilizzatore dei servizi di pagamento e' informato di tutte le spese dovute al prestatore di servizi di pagamento e della loro suddivisione. Sono previsti obblighi di trasparenza semplificati nel caso di utilizzo di strumenti di pagamento che riguardino operazioni o presentino limiti di spesa o avvaloramento inferiori a soglie fissate dalla stessa Banca d'Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    casi, contenuti e modalita' delle comunicazioni periodiche sulle operazioni di pagamento, ivi incluse le operazioni di pagamento disposte tramite un prestatore di servizi di disposizione di ordine di pagamento.
+
+((Non si applica l'articolo 59-quater, comma 1, lettere a), b), d), e), f), g), s), t), v), z) e aa), del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206.))
+                                ((119))
 
 COMMA ABROGATO DAL D.LGS. 15 DICEMBRE 2017, N. 218.
 
@@ -4766,6 +9961,31 @@ Se al pagatore e' offerto, prima di disporre un'operazione di pagamento, un serv
 
 ((
 
+1.
+                        
+                            
+                                Il rimborso della moneta elettronica previsto dall'articolo 114-ter puo' essere soggetto al pagamento di una commissione adeguata e conforme ai costi effettivamente sostenuti dall'emittente, solo se previsto dal contratto e in uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rimborso e' chiesto prima della scadenza del contratto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il detentore di moneta elettronica recede dal contratto prima della sua scadenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rimborso e' chiesto piu' di un anno dopo la data di scadenza del contratto.
+
 I soggetti, diversi da un consumatore, che accettino in pagamento moneta elettronica possono regolare in via contrattuale con l'emittente di moneta elettronica le condizioni del rimborso loro spettante nei suoi confronti, anche in deroga al comma 1.
 
 L'emittente di moneta elettronica fornisce al detentore, prima che egli sia vincolato da un contratto o da un'offerta, le informazioni relative alle modalita' e alle condizioni del rimborso, secondo quanto stabilito dalla Banca d'Italia.
@@ -4783,6 +10003,59 @@ Il contratto tra l'emittente e il detentore di moneta elettronica indica chiaram
 Il presente capo reca disposizioni in materia di trasparenza e comparabilita' delle spese relative al conto di pagamento, trasferimento di taluni servizi connessi al conto di pagamento, accesso ai conti di pagamento con caratteristiche di base.
 
 Il presente capo si applica ai conti di pagamento offerti a o sottoscritti da consumatori, che consentono almeno l'esecuzione di tutte le seguenti operazioni: versamento di fondi; prelievo di contanti; esecuzione e ricezione di operazioni di pagamento.
+
+3.
+                        
+                            
+                                Ai fini del presente capo, l'espressione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "servizi collegati al conto" indica tutti i servizi connessi all'apertura, alla gestione e alla chiusura di un conto di pagamento, ivi compresi l'apertura di credito, lo sconfinamento e le operazioni indicate all'articolo 2, comma 2, lettera g), del decreto legislativo 27 gennaio 2010, n. 11; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "servizio di trasferimento" indica il trasferimento, su richiesta del consumatore, da un prestatore di servizi di pagamento ad un altro, delle informazioni su tutti o su alcuni ordini permanenti di bonifico, addebiti diretti ricorrenti e bonifici in entrata ricorrenti eseguiti sul conto di pagamento, o il trasferimento dell'eventuale saldo positivo da un conto di pagamento d'origine a un conto di pagamento di destinazione, o entrambi, con o senza la chiusura del conto di pagamento di origine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "operazioni in numero superiore" indica le operazioni, delle tipologie individuate ai sensi dell'articolo 126-vicies semel, comma 1, eseguite dal consumatore sul conto di base oltre i limiti numerici stabiliti ai sensi del medesimo articolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "operazioni aggiuntive" indica, in relazione al conto di base, i servizi e le operazioni, delle tipologie diverse da quelle individuate ai sensi dell'articolo 126-vicies semel, comma 1, che il consumatore puo' richiedere sul conto di base. Si applicano le definizioni previste dall'articolo 1 del decreto legislativo 27 gennaio 2010, n. 11, e dall'articolo 121, comma 1, lettera i); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "consumatore" indica una persona fisica che agisce per scopi estranei all'attivita' imprenditoriale, commerciale, artigianale o professionale eventualmente svolta; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "prestatori di servizi di pagamento" indica le banche, gli istituti di moneta elettronica, gli istituti di pagamento e Poste Italiane s.p.a., per le attivita' di bancoposta di cui al decreto del Presidente della Repubblica 14 marzo 2001, n. 144; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "conto di base" indica un conto di pagamento denominato in euro con le caratteristiche di cui alla sezione III.
 
 Fatto salvo quanto previsto dal comma 3, ai fini del presente capo si applicano inoltre le ulteriori definizioni di cui all'articolo 2 della direttiva 2014/92/UE.
 
@@ -4833,6 +10106,101 @@ I prestatori di servizi di pagamento mettono a disposizione dei consumatori un g
 
 I prestatori di servizi di pagamento che offrono conti di pagamento destinati ai consumatori partecipano a uno o piu' siti web, costituiti anche per il tramite delle associazioni di categoria degli intermediari o da associazioni di consumatori, per il confronto tra le offerte relative ai conti di pagamento, dandone indicazione sul proprio sito web, ove disponibile.
 
+2.
+                        
+                            
+                                I siti web previsti dal comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sono accessibili gratuitamente dai consumatori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consentono almeno il confronto delle spese applicabili per i servizi inclusi nell'elenco di cui all'articolo 126-undecies, comma 1, nonche' dell'indicatore sintetico di costo previsto dalle disposizioni della Banca d'Italia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono funzionalmente indipendenti e assicurano parita' di trattamento tra i prestatori di servizi di pagamento nella partecipazione al sito e nella visualizzazione dei risultati di ricerca; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contengono informazioni chiare e facilmente accessibili sull'identita' dei soggetti che costituiscono e gestiscono il sito, nonche' sui criteri utilizzati per il confronto tra le offerte, da definirsi in modo semplice e oggettivo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    impiegano un linguaggio facilmente comprensibile e, ove applicabile, la terminologia standardizzata europea di cui all'articolo 126-undecies; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    forniscono informazioni corrette e aggiornate, indicando la data dell'ultimo aggiornamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    comprendono un'ampia gamma di offerte di conti di pagamento rappresentative di una quota significativa del mercato e, nel caso in cui non forniscano un quadro completo del mercato, indicano chiaramente tale circostanza prima di mostrare i risultati della ricerca; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    prevedono adeguate procedure per la segnalazione di errori nelle informazioni pubblicate; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    non possono svolgere attivita' di mediazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    non possono rifiutare le richieste di adesione da parte dei prestatori di servizi di pagamento; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    escludono i prestatori di servizi di pagamento aderenti per i giustificati motivi previsti con il decreto del Ministro dell'economia e delle finanze, sentita la Banca d'Italia di cui al comma 3; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    pubblicano la lista dei prestatori di servizi di pagamento aderenti; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    dispongono della certificazione e di una verifica annuale positiva secondo quanto previsto dal comma 3.
+
 La sussistenza dei requisiti di cui al comma 2 e' certificata e annualmente verificata da un ente specializzato, con apposita relazione. I titolari dei siti web inviano la relazione dell'ente specializzato alla Banca d'Italia che ne da' notizia sul proprio sito web. Con decreto del Ministro dell'economia e delle finanze, sentita la Banca d'Italia, sono individuate le caratteristiche dell'ente certificatore, la procedura di accreditamento che dovra' garantire il rispetto dei principi di imparzialita', indipendenza, correttezza e competenza, e i casi di giustificati motivi di esclusione di cui al comma 2, lettera m).
 
 I prestatori di servizi di pagamento inviano al sito web i dati necessari per il confronto tra le offerte, secondo quanto stabilito dalla Banca d'Italia.
@@ -4865,6 +10233,38 @@ I prestatori di servizi di pagamento forniscono il servizio di trasferimento tra
 Il servizio di trasferimento e' avviato dal prestatore di servizi di pagamento ricevente su richiesta del consumatore. A tal fine, il consumatore rilascia al prestatore di servizi di pagamento ricevente una specifica autorizzazione all'esecuzione del servizio di trasferimento. Quando i conti hanno due o piu' titolari, l'autorizzazione all'esecuzione del servizio di trasferimento e' fornita da ciascuno di essi. Con riguardo alla forma dell'autorizzazione si applica l'articolo 117, commi 1 e 2. Il prestatore di servizi di pagamento ricevente trasmette copia dell'autorizzazione al prestatore di servizi di pagamento trasferente ove richiesto da quest'ultimo; la richiesta non interrompe ne' sospende il termine per l'esecuzione del servizio di trasferimento.
 
 Il servizio di trasferimento e' eseguito entro dodici giorni lavorativi dalla ricezione da parte del prestatore di servizi di pagamento ricevente dell'autorizzazione del consumatore completa di tutte le informazioni necessarie, in conformita' alla procedura stabilita dall'articolo 10 della direttiva 2014/92/UE. La Banca d'Italia puo' dettare disposizioni attuative del presente comma.
+
+4.
+                        
+                            
+                                Attraverso l'autorizzazione il consumatore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce al prestatore di servizi di pagamento trasferente e al prestatore di servizi di pagamento ricevente il consenso specifico a eseguire ciascuna delle operazioni relative al servizio di trasferimento, per quanto di rispettiva competenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando intende trasferire solo alcuni dei servizi collegati al conto di pagamento, identifica specificamente i bonifici ricorrenti in entrata, gli ordini permanenti di bonifico e gli ordini relativi ad addebiti diretti per l'addebito in conto che devono essere trasferiti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    indica la data a partire dalla quale gli ordini permanenti di bonifico e gli addebiti diretti devono essere eseguiti o addebitati a valere sul conto di pagamento di destinazione. Tale data e' fissata ad almeno sei giorni lavorativi a decorrere dal giorno in cui il prestatore di servizi di pagamento ricevente riceve i documenti trasmessi dal prestatore di servizi di pagamento trasferente; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indica se intende avvalersi della facolta' di ottenere il reindirizzamento automatico dei bonifici previsto dal comma 7.
 
 Il prestatore di servizi di pagamento ricevente e' responsabile dell'avvio e della gestione della procedura per conto del consumatore. Il consumatore puo' chiedere al prestatore di servizi di pagamento ricevente di effettuare il trasferimento di tutti o di alcuni bonifici in entrata, ordini permanenti di bonifico o ordini di addebito diretto. Il prestatore di servizi di pagamento trasferente fornisce al prestatore di servizi di pagamento ricevente tutte le informazioni necessarie per riattivare i pagamenti sul conto di pagamento di destinazione, in conformita' a quanto indicato nell'autorizzazione del consumatore, ivi compresi l'elenco degli ordini permanenti in essere relativi a bonifici e le informazioni disponibili sugli ordini di addebito diretto che vengono trasferiti, nonche' le informazioni disponibili sui bonifici ricorrenti in entrata e sugli addebiti diretti ordinati dal creditore eseguiti sul conto di pagamento del consumatore nei precedenti 13 mesi.
 
@@ -4923,6 +10323,31 @@ I prestatori di servizi di pagamento mettono a disposizione dei consumatori a ti
 ## Art. 126-octiesdecies. — ((Apertura di un conto di pagamento in altro Stato comunitario))
 
 ((
+
+1.
+                        
+                            
+                                Il consumatore titolare di un conto di pagamento che intenda aprire un conto di pagamento in un altro Stato comunitario puo' richiedere assistenza al prestatore di servizi di pagamento presso il quale detiene il conto. Se richiesto dal consumatore, il prestatore di servizi di pagamento di origine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce gratuitamente al consumatore le informazioni disponibili relative agli ordini permanenti di bonifico e agli addebiti diretti ordinati dal debitore attivi sul conto di pagamento, nonche' quelle relative ai bonifici in entrata ricorrenti e agli addebiti diretti ordinati dal creditore eseguiti sul conto del consumatore nei precedenti tredici mesi. Il prestatore di servizi di pagamento di origine informa altresi' il consumatore che tale elenco non comporta per il nuovo prestatore di servizi di pagamento alcun obbligo di attivare servizi che esso non offre; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasferisce l'eventuale saldo positivo del conto di origine verso il conto di pagamento aperto o detenuto dal consumatore presso il nuovo prestatore di servizi di pagamento, purche' la richiesta del consumatore identifichi con precisione il prestatore di servizi di pagamento e il conto di destinazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    chiude il conto di pagamento di origine.
 
 2. Salvi eventuali obblighi pendenti del consumatore che impediscono la chiusura del conto di pagamento, il prestatore di servizi di pagamento di origine esegue le operazioni previste dal comma 1 alla data specificata dal consumatore nella richiesta. La data e' fissata ad almeno sei giorni lavorativi dalla ricezione della richiesta da parte del prestatore di servizi di pagamento di origine, salvo diverso accordo con il consumatore. Il prestatore di servizi di pagamento di origine comunica immediatamente al consumatore l'eventuale esistenza di obblighi pendenti che impediscono la chiusura del conto di pagamento))
 
@@ -5130,6 +10555,39 @@ La Banca d'Italia, quando riceve un ((esposto)) da parte della clientela dei sog
 
 ## Art. 128-ter. — Misure inibitorie
 
+1.
+                        
+                            
+                                Qualora nell'esercizio dei controlli previsti dall'articolo 128 emergano irregolarita', la Banca d'Italia puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    inibire ai soggetti che prestano le operazioni e i servizi disciplinati dal presente titolo la continuazione dell'attivita', anche di singole aree o sedi secondarie, ((ordinare la restituzione)) delle somme indebitamente percepite e altri comportamenti conseguenti; ((120))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    inibire specifiche forme di offerta, promozione o conclusione di contratti disciplinati dal presente titolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre in via provvisoria la sospensione, per un periodo non superiore a novanta giorni, delle attivita' di cui alle lettere a) e b), laddove sussista particolare urgenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pubblicare i provvedimenti di cui al presente articolo sul sito web della Banca d'Italia e disporre altre forme di pubblicazione, eventualmente a cura e spese dell'intermediario. 
+ (38)
+
 -------------
                             AGGIORNAMENTO (38)
                             
@@ -5185,6 +10643,46 @@ COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 141, COME MODIFICATO DAL D.LGS. 19 
 
 ## Art. 128-quinquies. — Requisiti per l'iscrizione nell'elenco degli agenti in attivita' finanziaria
 
+1.
+                        
+                            
+                                L'iscrizione all'elenco di cui all'articolo 128-quater, comma 2, e' subordinata al ricorrere dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le persone fisiche: cittadinanza italiana o di uno Stato dell'Unione europea ovvero di Stato diverso secondo le disposizioni dell'articolo 2 del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, e domicilio nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i soggetti diversi dalle persone fisiche: sede legale e amministrativa o, per i soggetti comunitari, stabile organizzazione nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    requisiti di onorabilita' e professionalita', compreso il superamento di un apposito esame. Per i soggetti diversi dalle persone fisiche, i requisiti si applicano a coloro che svolgono funzioni di amministrazione, direzione e controllo e, limitatamente ai requisiti di onorabilita', anche a coloro che detengono il controllo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 13 AGOSTO 2010, N. 141, COME MODIFICATO DAL D.LGS. 19 SETTEMBRE 2012, N. 169)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i soggetti diversi dalle persone fisiche sono inoltre richiesti un oggetto sociale conforme con quanto disposto dall'articolo 128-quater, comma 1, ed il rispetto di requisiti patrimoniali, organizzativi e di forma giuridica.
+
 ((
 
 L'efficacia dell'iscrizione e' condizionata alla stipula di una polizza di assicurazione della responsabilita' civile per i danni arrecati nell'esercizio dell'attivita' derivanti da condotte proprie o di terzi del cui operato gli agenti rispondono a norma di legge.
@@ -5239,6 +10737,52 @@ Il mediatore creditizio ovvero il consulente di cui al comma 2-bis, svolge la pr
  Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
 
 ## Art. 128-septies. — Requisiti per l'iscrizione nell'elenco dei mediatori creditizi
+
+1.
+                        
+                            
+                                L'iscrizione nell'elenco di cui all'articolo 128-sexies, comma 2 ((, ovvero nella sezione speciale di cui all'articolo 128-sexies, comma 2-bis,)), e' subordinata al ricorrere dei seguenti requisiti: ((70))
+                                
+                            
+                            
+                                a)
+                                
+                                    forma di societa' per azioni, di societa' in accomandita per azioni, di societa' a responsabilita' limitata o di societa' cooperativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sede legale e amministrativa o, per i soggetti comunitari, stabile organizzazione nel territorio della Repubblica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oggetto sociale conforme con quanto previsto dall'articolo 128-sexies, comma 3, e rispetto dei requisiti di organizzazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    possesso da parte di coloro che detengono il controllo e dei soggetti che svolgono funzioni di amministrazione, direzione e controllo dei requisiti di onorabilita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    possesso da parte dei soggetti che svolgono funzioni di amministrazione, direzione e controllo, di requisiti di professionalita', compreso il superamento di un apposito esame; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 13 AGOSTO 2010, N. 141, COME MODIFICATO DAL D.LGS. 19 SETTEMBRE 2012, N. 169.
 
 La permanenza nell'elenco e' subordinata, in aggiunta ai requisiti indicati ai commi 1 e 1-ter, all'esercizio effettivo dell'attivita' e all'aggiornamento professionale.
 
@@ -5368,15 +10912,196 @@ L'Organismo collabora con le autorita' di altri Stati membri dell'Unione europea
 
 ## Art. 128-duodecies. — Disposizioni procedurali
 
+1.
+                        
+                            
+                                
+                                    ((Per l'inosservanza degli obblighi di aggiornamento professionale, la violazione di norme legislative o amministrative che regolano l'attivita' di agenzia in attivita' finanziaria o di mediazione creditizia, la mancata o tardiva comunicazione o trasmissione di informazioni o documenti richiesti ivi compreso l'elenco dei dipendenti e collaboratori di cui all'articolo 128-novies, comma 3, la mancata o tardiva vigilanza sui dipendenti e collaboratori di cui all'articolo 128-novies, comma 1, l'ostacolo alle attivita' ispettive o di controllo ovvero la mancata ottemperanza alle sanzioni irrogate ai sensi del presente comma, l'Organismo applica nei confronti degli iscritti:))
+                                    ((120))
+                                
+                            
+                            
+                                a)
+                                
+                                    il richiamo scritto; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    la sanzione pecuniaria da euro cinquecento a euro cinquemila nei confronti degli iscritti persone fisiche e la sanzione pecuniaria da euro mille fino al 10 per cento del fatturato nei confronti degli iscritti persone giuridiche. Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai massimali indicati alla presente lettera, le sanzioni pecuniarie sono elevate fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile. Chi con un'azione od omissione viola diverse disposizioni o commette piu' violazioni della stessa disposizione, soggiace alla sanzione prevista per la violazione piu' grave, aumentata sino al triplo. I proventi derivanti dalle sanzioni previste dalla presente lettera affluiscono al bilancio dello Stato. (75) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sospensione dall'esercizio dell'attivita' per un periodo non inferiore a dieci giorni e non superiore a un anno; (75) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la cancellazione dagli elenchi previsti dagli articoli 128-quater,comma 2 e 128-sexies, comma 2.
+
 L'organismo, quando applica al punto di contatto centrale di cui all'articolo 1, comma 2, lettera ii) del decreto legislativo 21 novembre 2007, n. 231, e successive modificazioni, la sanzione per le violazioni gravi, ripetute o sistematiche ovvero plurime degli obblighi di cui all'articolo 45 del medesimo decreto ovvero per la violazione dell'obbligo di cui all'articolo 128-quater, comma 7-bis ne da' comunicazione alla Banca d'Italia per l'adozione dei provvedimenti di competenza, ivi compresi quelli adottati ai sensi dell'articolo 48, paragrafo 4 della direttiva (UE) 2015/849. (75)
+
+1-ter.
+                        
+                            
+                                Nella determinazione delle sanzioni di cui al comma 1, l'Organismo considera ogni circostanza rilevante e, in particolare, le seguenti, ove pertinenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la gravita' e la durata della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il grado di responsabilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la capacita' finanziaria del responsabile della violazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'entita' del vantaggio ottenuto o delle perdite evitate attraverso la violazione, nella misura in cui sia determinabile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i pregiudizi cagionati a terzi attraverso la violazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il livello di cooperazione del responsabile della violazione con l'Organismo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le precedenti violazioni delle disposizioni che regolano l'attivita' di agenzia in attivita' finanziaria, di mediazione creditizia e di consulenza del credito. 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le potenziali conseguenze sistemiche della violazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le misure adottate dal responsabile della violazione, successivamente alla violazione stessa, al fine di evitare, in futuro, il suo ripetersi. (75)
 
 L'Organismo, entro un mese dalla ricezione della comunicazione di cui all'articolo 128-novies.1, comma 1, comunica l'intenzione dell'agente in attivita' finanziaria o del mediatore creditizio di svolgere in un altro Stato membro dell'Unione europea le attivita' relative ai contratti di credito disciplinati dal capo I-bis del titolo VI all'autorita' competente dell'altro Stato membro; la comunicazione all'autorita' competente comprende l'indicazione delle banche o degli intermediari finanziari previsti dal titolo V su mandato dei quali l'agente in attivita' finanziaria svolge la propria attivita'. L'Organismo definisce le modalita' della comunicazione di cui all'articolo 128-novies.1, comma 1, e della successiva comunicazione all'autorita' competente dell'altro Stato membro.
 
 Con riguardo alle attivita' diverse da quelle alle quali si applicano le disposizioni sull'operativita' transfrontaliera di cui all'articolo 128-novies.1, l'Organismo informa i soggetti di cui all'articolo 128-novies.1, comma 2, delle condizioni previste per il loro svolgimento in Italia. L'informazione e' fornita prima dell'avvio dell'operativita' della succursale o comunque entro due mesi dalla comunicazione di cui all'articolo 128-novies.1, comma 2.
 
+1-sexies.
+                        
+                            
+                                L'Organismo verifica il rispetto delle disposizioni applicabili ai soggetti di cui all'articolo 128-novies.1, comma 2. A questo fine puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    chiedere loro di fornire informazioni e di trasmettere atti e documenti secondo le modalita' e i termini stabiliti dall'Organismo stesso, nonche' procedere ad audizione personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuare ispezioni presso le succursali dopo averne informato l'autorita' competente dello Stato membro di origine; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinare ai soggetti che operano attraverso una succursale di porre termine alla violazione delle disposizioni previste dagli articoli 120-septies, 120-octies, 120-novies, 120-decies, 120-undecies, comma 2, 120-terdecies e 120-noviesdecies, comma 2, del presente testo unico e dell'articolo 13, comma 1-bis, lettera b), numero 1), del decreto legislativo 13 agosto 2010, n. 141; se il destinatario dell'ordine non pone termine alla violazione, l'Organismo puo' adottare le ulteriori misure necessarie, compreso il divieto di intraprendere nuove operazioni, dopo averne informato l'autorita' competente dello Stato membro di origine; della misura e' data tempestiva comunicazione alla Commissione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    chiedere ai medesimi soggetti di apportare alla struttura organizzativa della succursale le modifiche necessarie per assicurare il rispetto delle disposizioni di cui alla lettera c) o per consentire all'autorita' competente dello Stato membro di origine di assicurare il rispetto delle disposizioni sulla remunerazione del personale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    informare l'autorita' competente dello Stato membro di origine della violazione delle disposizioni previste ai sensi del capo I-bis del titolo VI diverse da quelle indicate alla lettera c), commesse da soggetti che operano attraverso una succursale; se l'autorita' competente dello Stato membro di origine non adotta misure adeguate entro un mese dalla comunicazione o il soggetto comunque persiste nell'agire in modo tale da mettere a repentaglio gli interessi dei consumatori o l'ordinato funzionamento dei mercati, l'Organismo puo' vietare di intraprendere nuove operazioni, dopo averne informato l'autorita' competente dello Stato membro di origine; della misura e' data tempestiva comunicazione alla Commissione europea e all'ABE; l'Organismo puo' chiedere alla Banca d'Italia di ricorrere all'ABE ai sensi dell'articolo 6, comma 4; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    procedere ai sensi di quanto previsto dalla lettera e), quando un soggetto che opera in regime di libera prestazione dei servizi ha commesso una violazione delle disposizioni previste ai sensi del capo I-bis del titolo VI del presente testo unico e dell'articolo 13, comma 1-bis, lettera b), numero 1), del decreto legislativo 13 agosto 2010, n. 141. (103)
+
 Con decreto del Ministro dell'economia e delle finanze sono stabilite, sentita la Banca d'Italia, le forme e le modalita' con le quali l'Organismo esercita i poteri previsti dal comma 1-sexies.
 
 COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 141, COME MODIFICATO DAL D.LGS. 19 SETTEMBRE 2012, N. 169.
+
+3.
+                        
+                            
+                                E' disposta altresi' la cancellazione dagli elenchi di cui agli articoli 128-quater, comma 2, e 128-sexies, comma 2, nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    perdita di uno dei requisiti richiesti per l'esercizio dell'attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inattivita' protrattasi per oltre un anno salvo comprovati motivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cessazione dell'attivita'. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((mancato pagamento del contributo di iscrizione entro il termine massimo, non superiore a quarantacinque giorni, comunicato dall'Organismo degli agenti e mediatori (OAM) per l'adempimento tardivo, nonche' delle altre somme dovute per l'iscrizione negli elenchi.))
+                                        ((120))
 
 COMMA ABROGATO DAL D.L. 6 NOVEMBRE 2021, N. 152, CONVERTITO CON MODIFICAZIONI DALLA L. 29 DICEMBRE 2021, N. 233.
 
@@ -5635,6 +11360,60 @@ l. (( COMMA ABROGATO DAL D.LGS. 29 DICEMBRE 2006, N. 303 )).
 
 ## Art. 144. — Altre sanzioni amministrative alle societa' o enti
 
+1.
+                        
+                            
+                                Nei confronti delle banche, degli intermediari finanziari delle societa' di partecipazione finanziaria, delle societa' di partecipazione finanziaria mista, delle rispettive capogruppo e dei soggetti ai quali sono state esternalizzate funzioni aziendali , nonche' di quelli incaricati della revisione legale dei conti, si applica la sanzione amministrativa pecuniaria da euro 30.000 fino al 10 per cento del fatturato e, nei confronti degli istituti di pagamento e degli istituti di moneta elettronica e dei soggetti ai quali sono state esternalizzate funzioni aziendali essenziali o importanti, dei gestori di crediti in sofferenza e dei soggetti ai quali sono state esternalizzate funzioni aziendali, nonche' di quelli incaricati della revisione legale dei conti, fino al massimale di euro 5 milioni ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' disponibile e determinabile, per le seguenti violazioni: (78) (97) (112) 
+ 
+                            
+                            
+                                a)
+                                
+                                    inosservanza degli articoli 18, comma 4, 26, 28, comma 2-ter , 34, comma 2, 35, 49, 51, 52, 52-bis, 53, 53-bis, 53-ter , 54, 55, 57, comma 1-quater, 57-bis, commi 1, 6, 7 e 9, 58-bis, comma 1, 58-quinquies, 58-sexies, commi 1, 2, 5, 6, 7, 8 e 9, 58-septies, commi 1, 2 e 3, 60-bis, commi 1, 3-bis, 3-ter e 4, 60-ter, comma 1, 61, 61-bis, commi 1, 4 e 5, 64, commi 2 e 4, 66, 67, 67-ter, 68, 69.1, 69.2, 69.3, commi 2 e 8, 69-quater, 69-quinquies, 69-sexies, 69-octies, 69-novies, 69-sexiesdecies, 69-noviesdecies, 69-viciessemel, 108, 109, comma 3, 110 in relazione agli articoli 26, 52, 61, comma 5, 64, commi 2 e 4, 114.3, commi 4, 5 e 6, 114.4, 114.6, comma 5, 114.7, comma 1, 114.11, 114.13, in relazione agli articoli 26 e 52 114-quinquies.1, 114-quinquies.2, 114-quinquies.3, in relazione agli articoli 26 e 52, 114-octies, 114-undecies in relazione agli articoli 26 e 52, 114-duodecies, 114-terdecies, 114-quaterdecies, 114-octiesdecies, 129, comma 1, 145, comma 3, 146, comma 2, 147, o delle relative disposizioni generali o particolari impartite dalle autorita' creditizie, ovvero dei provvedimenti specifici adottati ai sensi degli articoli 53-bis, 67-ter, 108, 109, 114.11, 114-quinquies.2, 114-quaterdecies, 146, comma 2; (118) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    inosservanza degli articoli 116, 123, ((123-bis,)) 124, 126-quater e 126-novies, comma 3 126-undecies, commi 3 e 4, 126-duodecies, 126-quaterdecies, comma 1, 126-septiesdecies, comma 1, e 126-vicies quinquies, o delle relative disposizioni generali o particolari impartite dalle autorita' creditizie; ((120))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((inosservanza degli articoli 117, commi 1, 2 e 4, 118, 119, 120, 120-quater, 122-bis, comma 2, 124.1, 124.2, 124-bis, 125, commi 1-quinquies, 2, 3 e 4, 125-bis, commi 1, 2, 3, 3-bis, 3-ter e 4, 125-septies, comma 2, 125-octies, commi 2, 2-bis e 3, 125-octies.1, 125-decies, 125-undecies, 125-terdecies, comma 2, 126, 126-quinquies, comma 2, 126-sexies, 126-septies, 126-quinquiesdecies, 126-octiesdecies, 126-noviesdecies, comma 1, 126-vicies, 126-viciessemel, 126-viciester, 127, comma 01, 127-ter e 128-decies, commi 2 e 2-bis, o delle relative disposizioni generali o particolari impartite dalle autorita' creditizie;)) (78) (112) ((120))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    inserimento nei contratti di clausole nulle o applicazione alla clientela di oneri non consentiti, in violazione dell'articolo 40-bis o del titolo VI, ovvero offerta di contratti in violazione dell'articolo 117, comma 8; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    inserimento nei contratti di clausole aventi l'effetto di imporre al debitore oneri superiori a quelli consentiti per il recesso o il rimborso anticipato ovvero ostacolo all'esercizio del diritto di recesso da parte del cliente, ivi compresa l'omissione del rimborso delle somme allo stesso dovute per effetto del recesso. 
+
+                                
+                            
+                            
+                                e-bis)
+                                
+                                    inosservanza, da parte delle banche e degli intermediari finanziari iscritti nell'albo previsto dall'articolo 106, degli articoli 120-octies, 120-novies, 120-undecies, ((120-undecies.1, commi 2, 3 e 4,)) 120-duodecies, 120-terdecies, 120-quaterdecies, 120-septiesdecies, 120-octiesdecies, 120-noviesdecies. (70) ((120))
+                                    
+                                
+                            
+                            
+                                e-ter)
+                                
+                                    inosservanza degli articoli 114.7, comma 2, 114.8, 114.10, 114.13 in relazione al titolo VI, e 114.14, comma 1, o delle relative disposizioni generali o particolari impartite dalle autorita' creditizie. (112)
+
 La stessa sanzione di cui al comma 1 si applica a una societa' di partecipazione finanziaria o a una societa' di partecipazione finanziaria mista che, nonostante l'ottenimento dell'esenzione prevista dall'articolo 60-bis, comma 3, o la revoca dell'autorizzazione disposta ai sensi dell'articolo 60-bis, comma 5, eserciti il ruolo di capogruppo ai sensi dell'articolo 61, comma 1. (97)
 
 La stessa sanzione di cui al comma 1 e' applicata dalla Banca d'Italia a chiunque eserciti l'attivita' di gestione di crediti in sofferenza al di fuori delle ipotesi previste dagli articoli 114.2 e 114.3, comma 1, nonche' all'acquirente di crediti in sofferenza in caso di inosservanza degli articoli 114.3, commi 2, 3 e 7, e 114.8.
@@ -5648,6 +11427,31 @@ COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.
 
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.
 
+4.
+                        
+                            
+                                La stessa sanzione di cui al comma 1 si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'inosservanza delle norme contenute nell'articolo 128, comma 1, ovvero nei casi di ostacolo all'esercizio delle funzioni di controllo previste dal medesimo articolo 128, di mancata adesione ai sistemi di risoluzione stragiudiziale delle controversie previsti dall'articolo 128-bis, nonche' di inottemperanza alle misure ((...)) adottate dalla Banca d'Italia ai sensi dell'articolo 128-ter; ((120))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di frazionamento artificioso di un unico contratto di credito al consumo in una pluralita' di contratti dei quali almeno uno sia di importo inferiore al limite inferiore previsto ai sensi dell'articolo 122, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di mancata partecipazione ai siti web di confronto previsti dall'articolo 126-terdecies, ovvero di mancata trasmissione agli stessi siti web dei dati necessari per il confronto tra le offerte.
+
 COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 72.
 
 Nel caso in cui l'intermediario mandante rilevi nel comportamento dell'agente in attivita' finanziaria le violazioni previste dai commi 1, lettere b), c), d), e) ed e-bis), e 4, l'inosservanza degli obblighi previsti dall'articolo 120-decies o dall'articolo 125-novies o la violazione dell'articolo 128-decies, comma 1, ultimo periodo, adotta immediate misure correttive e trasmette la documentazione relativa alle violazioni riscontrate, anche ai fini dell'applicazione dell'articolo 128-duodecies, all'Organismo di cui all'articolo 128-undecies. (70)
@@ -5657,6 +11461,42 @@ COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 141, COME MODIFICATO DAL D.LGS. 19 
 COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 141, COME MODIFICATO DAL D.LGS. 19 SETTEMBRE 2012, N. 169.
 
 Le sanzioni previste dai commi 1, lettere b), c), d),e-bis ed e-ter, e 4 si applicano quando le infrazioni rivestono carattere rilevante, secondo i criteri definiti dalla Banca d'Italia, con provvedimento di carattere generale, tenuto conto dell'incidenza delle condotte sulla complessiva organizzazione e sui profili di rischio aziendali. (70) (112)
+
+8-bis.
+                        
+                            
+                                In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle banche, degli intermediari finanziari e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino al 10 per cento del fatturato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti degli istituti di pagamento, degli istituti di moneta elettronica e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni ovvero fino al 10 per cento del fatturato, quando tale importo e' superiore a euro 5 milioni e il fatturato e' disponibile e determinabile.
+
+8-ter.
+                        
+                            
+                                In caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle banche, degli intermediari finanziari e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino al 7 per cento del fatturato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti degli istituti di pagamento, degli istituti di moneta elettronica e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 3,5 milioni ovvero fino al 7 per cento del fatturato, quando tale importo e' superiore a euro 3,5 milioni e il fatturato e' disponibile e determinabile.
 
 Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai massimali indicati nel presente articolo, le sanzioni amministrative pecuniarie di cui al presente articolo sono elevate fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile. 
  (38)
@@ -5713,6 +11553,31 @@ Per l'inosservanza dell'ordine entro il termine stabilito la Banca d'Italia appl
 
 ## Art. 144-ter. — (Altre sanzioni amministrative agli esponenti o al personale)
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, per l'inosservanza delle norme richiamate dall'articolo 144, comma 1, lettere a) ed e-ter), e comma 1-bis, si applica la sanzione amministrativa pecuniaria da euro 5.000 fino a 5 milioni di euro nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e ricorrono una o piu' delle seguenti condizioni: (97) (112) 
+ 
+                            
+                            
+                                a)
+                                
+                                    la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la condotta ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati ai sensi degli articoli 53-bis, comma 1, lettera d), 67-ter, comma 1, lettera d), 108, comma 3, lettera d), 109, comma 3, lettera a), 114-quinquies.2, comma 3, lettera d), 114-quaterdecies, comma 3, lettera d); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le violazioni riguardano obblighi imposti ai sensi dell'articolo 26 o dell'articolo 53, commi 4, 4-ter, e 4-quater, ovvero obblighi in materia di remunerazione e incentivazione, quando l'esponente o il personale e' la parte interessata.
+
 Nei confronti dei soggetti che svolgono funzioni di amministrazione, di direzione o di controllo, nonche' del personale, nei casi in cui la loro condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'articolo 144-bis da parte della societa' o dell'ente, si applica la sanzione amministrativa pecuniaria da euro 5.000 fino a 5 milioni di euro.
 
 ((Salvo che il fatto costituisca reato, se le violazioni indicate dall'articolo 144, commi 8-bis e 8-ter, sono commesse da una persona fisica di cui al comma 2-ter, si applica nei confronti di quest'ultima una sanzione amministrativa pecuniaria: 
@@ -5762,6 +11627,88 @@ Si applica l'articolo 144, comma 9.
 
 
 
+1.
+                        
+                            
+                                Nella determinazione dell'ammontare delle sanzioni amministrative pecuniarie ((e delle penalita' di mora)) o della durata delle sanzioni accessorie previste nel presente titolo la Banca d'Italia considera ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia persona fisica o giuridica, le seguenti, ove pertinenti: ((118))
+                                
+                            
+                            
+                                a)
+                                
+                                    gravita' e durata della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    grado di responsabilita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    capacita' finanziaria del responsabile della violazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((entita' del vantaggio conseguito o conseguibile o delle perdite evitate o evitabili attraverso la violazione, nella misura in cui siano determinabili;))
+                                        ((118))
+                                    
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((pregiudizio arrecato o arrecabile all'esercizio delle funzioni di vigilanza;))
+                                        ((118))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    pregiudizi ((arrecati o arrecabili)) a terzi attraverso la violazione, nella misura in cui il loro ammontare sia determinabile; ((118))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    livello di cooperazione del responsabile della violazione con la Banca d'Italia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    precedenti violazioni in materia bancaria o finanziaria commesse da parte del medesimo soggetto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((potenziali conseguenze diffuse o sistemiche della violazione;))
+                                        ((118))
+                                    
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    
+                                        ((sanzioni penali o amministrative precedentemente irrogate per la stessa violazione alla persona fisica o giuridica responsabile della violazione;))
+                                        ((118))
+
 ((Qualora per la medesima inosservanza siano comminate una sanzione amministrativa pecuniaria e una penalita' di mora, l'ammontare complessivo della sanzione amministrativa pecuniaria e della penalita' di mora e' in ogni caso proporzionato alla gravita' dell'inosservanza, avuto altresi' riguardo agli altri criteri di cui al comma 1.))
                                 ((118))
 
@@ -5794,6 +11741,31 @@ I soci e gli amministratori che violano l'obbligo di astensione di cui all'artic
 ((
 
 Il presente articolo si applica in caso di violazioni commesse dai soggetti significativi o dai loro soci, esponenti o personale in materie inerenti l'esercizio dei compiti attribuiti alla BCE dalle disposizioni del MVU.
+
+2.
+                        
+                            
+                                Con riferimento ai soggetti indicati al comma 1, la Banca d'Italia puo' applicare le sanzioni amministrative previste nel presente Titolo esclusivamente su richiesta della BCE, quando ricorre una o piu' delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la violazione ha ad oggetto disposizioni diverse da quelle dell'Unione europea direttamente applicabili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sanzione e' diretta a persone fisiche, nei casi previsti dagli articoli 139, 140, 144-ter, 144-quinquies e 144-sexies; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la sanzione ha natura non pecuniaria.
 
 Nei casi indicati al comma 2, la procedura sanzionatoria si svolge secondo quanto previsto dall'articolo 145. La conclusione della procedura ed il suo esito sono comunicati tempestivamente alla BCE.
 
@@ -5852,6 +11824,31 @@ Il provvedimento di applicazione delle sanzioni previste dal presente titolo e' 
 ))
 
 ((
+
+3-bis.
+                        
+                            
+                                Nel provvedimento di applicazione della sanzione la Banca d'Italia dispone la pubblicazione in forma anonima del provvedimento sanzionatorio quando quella ordinaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbia ad oggetto dati personali ai sensi del decreto legislativo 30 giugno 2003, n. 196, la cui pubblicazione appaia sproporzionata rispetto alla violazione sanzionata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possa comportare rischi per la stabilita' dei mercati finanziari o pregiudicare lo svolgimento di un'indagine penale in corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    possa causare un pregiudizio sproporzionato ai soggetti coinvolti, purche' tale pregiudizio sia determinabile.
 
 ))
 
@@ -6016,6 +12013,42 @@ La Banca d'Italia emana disposizioni di attuazione del presente titolo.
 ((
 
 La Banca d'Italia esercita la sorveglianza sul sistema dei pagamenti avendo riguardo al suo regolare funzionamento, alla sua affidabilita' ed efficienza nonche' alla tutela degli utenti di servizi di pagamento.
+
+2.
+                        
+                            
+                                Per le finalita' di cui al comma 1 la Banca d'Italia, nei confronti dei soggetti che emettono o gestiscono strumenti di pagamento, prestano servizi di pagamento, gestiscono sistemi di scambio, di compensazione e di regolamento o gestiscono infrastrutture strumentali tecnologiche o di rete, puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiedere la comunicazione, anche periodica, con le modalita' e i termini da essa stabiliti, di dati, notizie, atti e documenti concernenti l'attivita' esercitata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emanare disposizioni di carattere generale aventi a oggetto: 
+ 1) il contenimento dei rischi che possono inficiare il regolare funzionamento, l'affidabilita' e l'efficienza del sistema dei pagamenti; 
+ 2) l'accesso dei prestatori di servizi di pagamento ai sistemi di scambio, di compensazione e di regolamento nonche' alle infrastrutture strumentali tecnologiche o di rete; 
+ 3) il funzionamento, le caratteristiche e le modalita' di prestazione dei servizi offerti; 
+ 4) gli assetti organizzativi e di controllo relativi alle attivita' svolte nel sistema dei pagamenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disporre ispezioni, chiedere l'esibizione di documenti e prenderne copia al fine di verificare il rispetto delle norme disciplinanti la corretta esecuzione dei servizi di pagamento nonche' di ogni disposizione e provvedimento emanati ai sensi del presente articolo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adottare per le materie indicate alla lettera b), ove la situazione lo richieda, provvedimenti specifici volti a far cessare le infrazioni accertate o a rimuoverne le cause, ivi inclusi il divieto di effettuare determinate operazioni e la restrizione delle attivita' dei soggetti sottoposti a sorveglianza nonche', nei casi piu' gravi, la sospensione dell'attivita'.
 
 Nei confronti dei soggetti che emettono o gestiscono strumenti di pagamento e di quelli che prestano servizi di pagamento resta fermo quanto previsto ai sensi degli articoli 51, 53, 54, 66, 67, 68, 78, 79, 114-quater, 114-quaterdecies e del titolo VI.
 
@@ -6275,6 +12308,164 @@ Le competenze delle regioni di cui al presente articolo sono esercitate nei limi
 ## Art. 159-bis. — (( (Informazioni da inserire nei piani di risanamento).))
 
 ((
+
+1.
+                        
+                            
+                                Fino all'emanazione dei provvedimenti della Banca d'Italia previsti dall'articolo 69-quater, comma 3, e 69-quinquies, comma 4, i piani di risanamento individuali o di gruppo riportano almeno le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una sintesi degli elementi fondamentali del piano e una sintesi della capacita' complessiva di risanamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una sintesi delle modifiche sostanziali apportate alla banca o al gruppo bancario dopo l'ultimo piano di risanamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un piano di comunicazione e informazione pubblica che delinea in che modo la banca o capogruppo intende gestire le eventuali reazioni negative del mercato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una gamma di azioni sul capitale e sulla liquidita' necessarie per mantenere o ripristinare l'equilibrio patrimoniale e finanziario della banca o del gruppo bancario nel suo complesso e delle singole banche che ne fanno parte; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una stima dei tempi necessari per l'esecuzione di ciascun aspetto sostanziale del piano; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    una descrizione dettagliata degli eventuali impedimenti sostanziali all'esecuzione efficace e tempestiva del piano tenuto conto anche dell'impatto sul resto del gruppo, sulla clientela e sulle controparti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'individuazione delle funzioni essenziali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    una descrizione dettagliata delle procedure per determinare il valore e la trasferibilita' delle linee di business principali, delle operazioni e delle attivita' dell'ente; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    una descrizione dettagliata delle modalita' con cui la pianificazione del risanamento e' integrata nella struttura di governo societario della banca o della capogruppo; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    una descrizione dettagliata delle politiche e procedure che disciplinano l'approvazione del piano di risanamento e l'identificazione delle persone responsabili della preparazione e dell'attuazione del piano all'interno dell'organizzazione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    dispositivi e misure per conservare o ripristinare i fondi propri della banca o del gruppo bancario; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    dispositivi e misure intesi a garantire che la banca o la capogruppo abbia un accesso adeguato a fonti di finanziamento di emergenza, comprese le potenziali fonti di liquidita'; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    una valutazione delle garanzie reali disponibili e una valutazione della possibilita' di trasferire liquidita' tra entita' del gruppo e linee di business, affinche' la banca o il gruppo bancario possa continuare a svolgere le proprie funzioni e rispettare i propri obblighi; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    dispositivi e misure intesi a ridurre il rischio e la leva finanziaria; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    dispositivi e misure per ristrutturare le passivita'; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    dispositivi e misure per ristrutturare le linee di business; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    dispositivi e misure necessari per assicurare la continuita' dell'accesso alle infrastrutture dei mercati finanziari; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    dispositivi e misure necessari per assicurare la continuita' del funzionamento dei processi operativi della banca o del gruppo bancario, compresi infrastrutture e servizi informatici; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    dispositivi preparatori per agevolare la vendita di attivita' o di linee di business in tempi adeguati per il ripristino della solidita' finanziaria; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    altre azioni o strategie di gestione intese a ripristinare la solidita' finanziaria nonche' effetti finanziari previsti di tali azioni o strategie; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    misure preparatorie che la banca o la capogruppo ha attuato o intende attuare al fine di agevolare l'attuazione del piano di risanamento, comprese le misure necessarie per consentire una ricapitalizzazione tempestiva della banca o del gruppo bancario; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    un quadro di indicatori nel quale siano identificati i casi in cui possano essere adottate le azioni opportune riportate nel piano.
 
 Il piano di risanamento indica altresi' le modalita' e la tempistica con cui, nelle situazioni previste dal piano, la banca o il gruppo potrebbe chiedere di ricorrere a forme di assistenza della Banca centrale europea e identifica le attivita' che, a tal fine, potrebbero essere considerate idonee quali garanzie.
 

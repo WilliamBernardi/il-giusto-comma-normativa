@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2019-07-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,6 +46,45 @@ Il Ministro della salute presenta, ogni tre anni, al Parlamento una relazione su
 
 L'Istituto disciplina le proprie funzioni attraverso lo statuto, nel rispetto delle disposizioni di cui all'articolo 9 del decreto legislativo 29 ottobre 1999, n. 419 e dei principi contenuti nell'articolo 1 del decreto del Presidente della Repubblica 20 gennaio 2001, n. 70, nonche' dell'autonomia di ricerca nel rispetto delle direttive del piano sanitario nazionale, sulla base del criterio di separazione tra compiti di programmazione ed indirizzo strategico, competenze e responsabilita' gestionali, nonche' tra attivita' valutative e di controllo, in attuazione dei principi di efficacia, efficienza ed economicita' dell'azione amministrativa.
 
+2.
+                        
+                            
+                                In particolare, lo statuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    specifica ed articola le funzioni dell'Istituto, tenuto conto del relativo modello strutturale di organizzazione, determina le modalita' di funzionamento degli organi di direzione, amministrazione, consulenza e controllo, nonche' l'adozione di forme e modelli organizzativi che assicurino la trasparenza e l'efficienza della gestione, anche attraverso strutture di missione temporanee, senza nuovi o maggiori oneri per la finanza pubblica, per la realizzazione di progetti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specifica ed articola le attribuzioni degli organi di cui all'articolo 4 e ne determina le modalita' di funzionamento adeguandole alle funzioni del Ministero della salute ed ai compiti di vigilanza spettanti al medesimo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    determina le modalita' dell'organizzazione dell'Istituto in aree operative rispettando le norme istitutive e valorizzando l'autonomia funzionale del Centro nazionale sangue e del Centro nazionale trapianti, in quanto strutture specializzate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disciplina l'istituzione e le modalita' di funzionamento dell'Organismo indipendente di valutazione della performance di cui all'articolo 14 del decreto legislativo 27 ottobre 2009, n. 150, e successive modificazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prevede che in caso di mancata costituzione degli organi o in caso di loro impossibilita' di funzionamento, il Ministro della salute nomini, con proprio decreto, un commissario straordinario, per un periodo massimo di dodici mesi, che assume i poteri di ordinaria e straordinaria amministrazione. Lo statuto prevede altresi' che entro tale periodo dovranno essere nominati gli organi di amministrazione, secondo le modalita' previste dal presente decreto legislativo.
+
 Lo statuto e' deliberato dal Consiglio di amministrazione, sentito il Comitato scientifico, a maggioranza assoluta dei componenti, ed approvato con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, previo controllo di legittimita' e di merito.
 
 In sede di prima attuazione, lo statuto e' deliberato, a maggioranza assoluta entro sei mesi dalla data di entrata in vigore del presente decreto legislativo, previo parere del Comitato scientifico e sentite le organizzazioni sindacali, dal Consiglio di amministrazione di cui all'articolo 4, nominato nelle forme e nei modi di cui all'articolo 7, integrato, esclusivamente a tal fine, da quattro esperti nominati, senza nuovi o maggiori oneri per la finanza pubblica, dal Ministro della salute, dotati di specifiche competenze in relazione alle finalita' dell'Istituto ed al particolare compito conferito. Agli esperti non e' riconosciuto alcun compenso o indennita'.
@@ -62,11 +101,93 @@ I regolamenti relativi al personale sono approvati dal Ministro della salute, di
 
 L'ordinamento del personale e la gestione patrimoniale, economica, finanziaria e contabile, si conformano ai principi e alle vigenti disposizioni sull'amministrazione e contabilita' pubblica e sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche di cui al decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, ed ai principi e disposizioni del codice civile per quanto compatibili, nel rispetto dei principi di trasparenza, efficienza, economicita' ed efficacia della gestione.
 
+4.
+                        
+                            
+                                I regolamenti relativi al personale, sulla base della programmazione triennale di cui all'articolo 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuano gli uffici di livello dirigenziale generale e gli uffici di livello dirigenziale in misura pari o inferiore a quelli determinati in applicazione dell'articolo 1, comma 404, della legge 27 dicembre 2006, n. 296 e dell'articolo 1, comma 3, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, eliminando ogni duplicazione organizzativa, assicurando la gestione unitaria del personale e dei servizi comuni anche mediante strumenti di innovazione amministrativa e tecnologica, la riorganizzazione degli uffici con funzioni ispettive e di controllo, nonche' la razionalizzazione delle strutture organizzative con compiti di analisi, consulenza e studio di elevata specializzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determinano la dotazione organica in conformita' alla normativa vigente sulla dirigenza pubblica e in particolare all'articolo 19, comma 6 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, tenendo conto delle esigenze delle strutture di cui all'articolo 2, comma 2, lettera c) in modo che il personale utilizzato per funzioni di gestione delle risorse umane, sistemi informativi, servizi manutentivi e logistici, affari generali, provveditorato e contabilita' non ecceda comunque, a regime, il quindici per cento delle risorse umane complessivamente utilizzate dall'Istituto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    determinano, nell'ambito della dotazione organica complessiva dell'Istituto e nel rispetto di quanto previsto al comma 5, lettere b) e c), l'organico funzionale del Centro nazionale per i trapianti e del Centro nazionale sangue di cui all'articolo 1, comma 1.
+
+5.
+                        
+                            
+                                I regolamenti di amministrazione, finanza e contabilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    prevedono la razionalizzazione e l'ottimizzazione delle spese e dei costi di funzionamento, previa riorganizzazione dei relativi centri di spesa e mediante adeguamento dell'organizzazione e della struttura amministrativa nei sensi di cui al comma 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disciplinano le modalita' attraverso le quali, al fine di razionalizzare i costi e ottimizzare l'impiego dei fondi di funzionamento, nonche' di organizzare le risorse umane e logistiche necessarie al conseguimento degli obiettivi di sanita' pubblica loro attribuiti dalla legge, i Centri di cui al comma 4, lettera c), senza nuovi o maggiori oneri per la finanza pubblica, stipulano accordi di collaborazione e convenzioni con amministrazioni pubbliche, enti, istituti, associazioni ed altre persone giuridiche pubbliche o private, nazionali, comunitarie o internazionali, ovvero stipulano, nei limiti del finanziamento costituito dai fondi istituzionali e da quelli provenienti da programmi di ricerca o di collaborazione nazionali ed internazionali, contratti di lavoro nell'ambito dell'organico funzionale, secondo le modalita' previste dalle norme vigenti nella pubblica amministrazione, ivi compresa quella di cui all'articolo 15-septies del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, in quanto compatibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disciplinano le modalita' attraverso le quali detti Centri utilizzano le risorse strumentali e di supporto dell'Istituto anche al fine di soddisfare le loro esigenze tecniche e logistiche.
+
 I regolamenti recano anche disposizioni di raccordo con la disciplina prevista dal decreto legislativo 5 giugno 1998, n. 204, e successive modificazioni, e dalle altre disposizioni vigenti per gli enti di ricerca.
 
 I regolamenti di cui al presente articolo non possono contenere disposizioni in contrasto o in deroga a quanto stabilito nello statuto.
 
 ## Art. 4. — Organi
+
+1.
+                        
+                            
+                                Sono organi dell'Istituto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Presidente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Consiglio di amministrazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Comitato scientifico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il Collegio dei revisori dei conti.
 
 Il Presidente dell'Istituto e' scelto tra personalita' appartenenti alla comunita' scientifica, dotato di alta e riconosciuta professionalita' documentata attraverso la presentazione di curricula, in materia di ricerca e sperimentazione nei settori di attivita' dell'Istituto medesimo, ed e' nominato con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro della salute; se professore universitario, e' collocato in aspettativa ai sensi dell'articolo 12 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, e successive modificazioni, se dipendente di pubbliche amministrazioni e' collocato in aspettativa senza assegni, con riconoscimento dell'anzianita' di servizio. Il Presidente dura in carica quattro anni e puo' essere confermato una sola volta.
 
@@ -74,7 +195,85 @@ Il Presidente ha la rappresentanza legale dell'Istituto, ne sovrintende l'andame
 
 Il Consiglio di amministrazione ha compiti di indirizzo in materia amministrativa e finanziaria, di deliberazione dello statuto e dei regolamenti, del piano triennale e degli aggiornamenti annuali di cui all'articolo 1, dei bilanci, di riparto delle risorse finanziarie e di verifica della compatibilita' finanziaria dei piani e progetti di ricerca. Il Consiglio di amministrazione determina, altresi', gli organici del personale sulla base del piano triennale, sentite le organizzazioni sindacali maggiormente rappresentative.
 
+5.
+                        
+                            
+                                Il Consiglio d'amministrazione e' nominato dal Ministro della salute, dura in carica quattro anni, ed e' composto da cinque membri: il Presidente e quattro esperti di alta, e riconosciuta professionalita' documentata attraverso la presentazione di curricula, professionalita' nelle materie tecnico-scientifiche e giuridiche che rientrano nell'ambito delle attribuzioni dell'Istituto, cosi' individuati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un esperto designato dal Ministro della salute; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due esperti designati dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un esperto designato dal Ministro dell'istruzione, dell'universita' e della ricerca.
+
 Il Comitato scientifico e' l'organo di indirizzo e di coordinamento dell'attivita' scientifica dell'Istituto.
+
+7.
+                        
+                            
+                                Il Comitato scientifico e' nominato con decreto del Ministro della salute, dura in carica quattro anni ed e' composto dal Presidente e da dieci esperti di alta, riconosciuta e documentata professionalita' nelle materie che rientrano nell'ambito delle attribuzioni dell'Istituto, cosi' individuati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    due esperti eletti dai ricercatori dell'Istituto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due esperti designati dal Ministro della salute; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un esperto designato dal Ministro dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un esperto designato dal Ministro dell'ambiente e della tutela del territorio e del mare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un esperto designato dal Ministro dello sviluppo economico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un esperto designato dal Ministro degli affari esteri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    due esperti designati dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
 
 Il Collegio dei revisori dei conti svolge i compiti previsti dall'articolo 20 del decreto legislativo 30 giugno 2011, n. 123. Il collegio e' nominato con decreto del Ministro della salute, dura in carica tre anni ed e' composto da tre membri effettivi di cui due designati dal Ministro della salute e uno designato dal Ministro dell'economia e delle finanze che designa anche il membro supplente.
 I revisori, ad eccezione di quello designato dal Ministro dell'economia e delle finanze, devono essere iscritti nel registro di cui al decreto legislativo 27 gennaio 2010, n. 39.
@@ -104,6 +303,31 @@ La nomina del Presidente dell'Istituto, dei componenti del Consiglio di amminist
 
 ## Art. 8. — Abrogazioni
 
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 7 agosto 1973, n. 519; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Presidente della Repubblica 21 settembre 1994, n. 754; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il decreto del Presidente della Repubblica 20 gennaio 2001, n. 70, ad eccezione dell'articolo 1.
+
 Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui agli articoli 2 e 3, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione dell'Istituto superiore di sanita', nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo.
 
 ## - Capo II Riordino degli Istituti zooprofilattici sperimentali
@@ -122,13 +346,86 @@ Le prestazioni erogate dagli Istituti per le quali e' prevista la corresponsione
 
 ## Art. 10. — Principi per l'esercizio delle competenze regionali
 
+1.
+                        
+                            
+                                Le regioni disciplinano le modalita' gestionali, organizzative e di funzionamento degli Istituti, nonche' l'esercizio delle funzioni di sorveglianza amministrativa, di indirizzo e verifica sugli Istituti, fatta in ogni caso salva la competenza esclusiva dello Stato, ed adottano criteri di valutazione dei costi, dei rendimenti e di verifica dell'utilizzazione delle risorse, nel rispetto dei principi di cui al decreto legislativo 30 dicembre 1992, n. 502 e successive modificazioni, e dei seguenti principi fondamentali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    semplificazione e snellimento dell'organizzazione e della struttura amministrativa, adeguandole ai principi di efficacia, efficienza ed economicita' dell'attivita' amministrativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    razionalizzazione ed ottimizzazione delle spese e dei costi di funzionamento, previa riorganizzazione dei relativi centri di spesa e mediante adeguamento dell'organizzazione e della struttura amministrativa degli Istituti attraverso: 
+ 1) la riorganizzazione degli uffici dirigenziali, procedendo alla loro riduzione in misura pari o inferiore a quelli determinati in applicazione dell'articolo 1, comma 404, della legge 27 dicembre 2006, n. 296 e dell'articolo 1, comma 3, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, nonche' alla eliminazione delle duplicazioni organizzative esistenti; 
+ 2) la gestione unitaria del personale e dei servizi comuni anche mediante strumenti di innovazione amministrativa e tecnologica; 
+ 3) la riorganizzazione degli uffici con funzioni ispettive e di controllo; 
+ 4) la riduzione degli organismi di analisi, consulenza e studio di elevata specializzazione; 
+ 5) la razionalizzazione delle dotazioni organiche in modo da assicurare che il personale utilizzato per funzioni relative alla gestione delle risorse umane, ai sistemi informativi, ai servizi manutentivi e logistici, agli affari generali, provveditorati e contabilita' non ecceda comunque il 15 per cento delle risorse umane complessivamente utilizzate.
+
 Nel caso di istituti interregionali, le Regioni provvedono di concerto.
 
 Il piano sanitario regionale di cui agli articoli 1 e 2 del decreto legislativo 30 dicembre 1992, n. 502 e successive modificazioni, definisce gli obiettivi e l'indirizzo per l'attivita' degli Istituti. La programmazione regionale prevede le modalita' di raccordo tra gli Istituti zooprofilattici sperimentali e i dipartimenti di prevenzione.
 
 ## Art. 11. — Organi
 
+1.
+                        
+                            
+                                Sono organi degli Istituti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il consiglio di amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il direttore generale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il collegio dei revisori dei conti.
+
 Il consiglio di amministrazione ha compiti di indirizzo, coordinamento e verifica delle attivita' dell'istituto. Il consiglio di amministrazione, che dura in carica quattro anni, e' nominato dal Presidente della Regione dove l'istituto ha sede legale e nel caso di Istituti interregionali, di concerto con le altre Regioni e Province autonome interessate, ed e' composto da tre a cinque membri, muniti di diploma di laurea magistrale o equivalente ed aventi comprovata professionalita' ed esperienza in materia di sanita' pubblica veterinaria e sicurezza degli alimenti, di cui uno designato dal Ministro della salute e gli altri designati in relazione alle Regioni e Province autonome cui afferiscono gli Istituti.
+
+3.
+                        
+                            
+                                Il consiglio di amministrazione, anche su proposta del Ministro della salute, puo' essere sciolto dal Presidente della Regione o della Provincia autonoma interessata ovvero, nel caso di Istituti interregionali, dai Presidenti delle Regioni interessate, d'intesa con il Ministro della salute e con il Ministro dell'economia e delle finanze quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultano gravi irregolarita' nell'amministrazione, ovvero gravi e reiterate violazioni delle disposizioni di legge o statutarie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il conto economico chiude con una perdita superiore al 20 per cento del patrimonio per due esercizi successivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vi e' impossibilita' di funzionamento degli organi di amministrazione e gestione.
 
 Con il provvedimento di scioglimento decade il direttore generale. Il Presidente della Regione o della Provincia autonoma interessata ovvero, nel caso di Istituti interregionali, i Presidenti delle Regioni interessate, d'intesa con il Ministro della salute, nomina un Commissario straordinario, con il compito di rimuovere le irregolarita' e sanare la situazione di passivita', sino alla ricostituzione degli ordinari organi di amministrazione.
 
@@ -180,6 +477,24 @@ Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'a
 ## Art. 17. — Statuto e regolamento di organizzazione e funzionamento
 
 L'Agenzia nazionale per i servizi sanitari regionali, di seguito denominata «Agenzia» disciplina l'esercizio delle funzioni ad essa attribuite dalla normativa vigente e l'organizzazione attraverso lo statuto, deliberato dal Consiglio di amministrazione a maggioranza assoluta dei suoi membri entro sei mesi dall'entrata in vigore del presente decreto ed approvato con decreto del Ministro della salute, d'intesa con il Ministro dell'economia e delle finanze, previo controllo di legittimita' e di merito, sentita la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e di Bolzano. Decorso il predetto termine il Ministro della salute provvede in via sostitutiva.
+
+2.
+                        
+                            
+                                In particolare lo statuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determina le modalita' di organizzazione dell'Agenzia sulla base del principio di separazione tra compiti di programmazione ed indirizzo, di efficacia, efficienza ed economicita' dell'azione amministrativa, dei compiti istituzionali affidati alla medesima, prevedendo l'accorpamento delle aree funzionali che svolgono attivita' omogenee; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specifica e articola le attribuzioni degli organi di cui all'articolo 18 e le modalita' di funzionamento.
 
 ## Art. 18. — Modificazioni al decreto legislativo 31 marzo 1998, n. 115 e successive modificazioni
 

@@ -8,8 +8,8 @@ codice_redazionale: 010G0184
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,9 +29,134 @@ Sulla proposta del Ministro dello sviluppo economico e del Ministro per la sempl
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «agenzia per le imprese» (di seguito denominata: «Agenzia»): il soggetto privato accreditato di cui all'articolo 38, commi 3, lettera c), e 4, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133 che svolge funzioni di natura istruttoria e di asseverazione nei procedimenti amministrativi concernenti l'accertamento dei requisiti e dei presupposti di legge per la realizzazione, la trasformazione, il trasferimento e la cessazione delle attivita' di produzione di beni e servizi da esercitare in forma di impresa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «amministrazioni»: le amministrazioni dello Stato, gli enti pubblici territoriali, gli altri enti pubblici non economici, gli organismi di diritto pubblico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «camere di commercio»: le camere di commercio, industria, artigianato e agricoltura, di cui alla legge 29 dicembre 1993, n. 580; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «decreto-legge»: il decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "'SCIA': la segnalazione certificata di inizio attivita' ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, in cui la ricevuta della segnalazione costituisce titolo autorizzatorio ai sensi dell'articolo 38, comma 3, lettere e) e f), del decreto-legge"; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «dichiarazione di conformita'»: l'attestazione della sussistenza dei requisiti previsti dalla normativa per la realizzazione, la trasformazione, il trasferimento e la cessazione dell'esercizio dell'attivita' di impresa; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «Regolamento SUAP»: regolamento per la semplificazione ed il riordino della disciplina sullo sportello unico per le attivita' produttive, ai sensi dell'articolo 38, comma 3, del decreto-legge; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «registro imprese»: il registro di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, istituito presso la camera di commercio e tenuto dall'Ufficio competente in conformita' agli articoli 2188 e seguenti del Codice civile, sotto la vigilanza di un giudice delegato dal Presidente del Tribunale del capoluogo di provincia; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «sportello unico per le attivita' produttive» (di seguito denominato: «SUAP»): l'unico punto di accesso per il richiedente in relazione a tutte le vicende amministrative riguardanti la sua attivita' produttiva, che fornisce, una risposta unica e tempestiva in luogo di tutte le pubbliche amministrazioni comunque coinvolte nel procedimento; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «portale»: il sito web, individuato dal Regolamento SUAP, che costituisce riferimento per imprese e soggetti da esse delegati e che consente di ottenere informazioni e interoperare telematicamente con le amministrazioni interessate; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «accreditamento»: attestazione resa dal Ministero dello sviluppo economico del possesso da parte dell'Agenzia dei requisiti per l'esercizio delle attivita' previste dal presente regolamento. 
+ 
+--------------- 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 7/10/2010, n. 235 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+
 ## Art. 2. — Agenzie per le imprese
 
 Le Agenzie sono soggetti privati, dotati di personalita' giuridica e costituiti anche in forma societaria. Per l'esercizio delle attivita' di cui al Regolamento SUAP le Agenzie devono ottenere l'accreditamento ai sensi del presente regolamento.
+
+2.
+                    
+                        
+                            Possono costituirsi in Agenzia in forma singola o associata: 
+ 
+                        
+                        
+                            a)
+                            
+                                salve le disposizioni attuative del capo II del regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008. organismi di valutazione della conformita' di opere o progetti accreditati ai sensi del predetto regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                organismi tecnici gia' abilitati al rilascio di attestazioni di conformita' di opere secondo le vigenti disposizioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                associazioni di categoria professionali, sindacali ed imprenditoriali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                centri di assistenza tecnica di cui all'articolo 23 del decreto legislativo 31 marzo 1998, n. 114, centri autorizzati di assistenza agricola di cui all'articolo 3-bis del decreto legislativo 27 maggio 1999, n. 165, ed altri centri di assistenza alle imprese costituiti sulla base delle leggi regionali di settore; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                studi associati o associazioni di professionisti iscritti ai rispettivi albi per le attestazioni di competenza.
 
 Le Agenzie accertano e attestano la sussistenza dei requisiti e dei presupposti previsti dalla normativa per l'esercizio dell'attivita' di impresa e, fatti salvi i procedimenti che comportano attivita' discrezionale da parte dell'amministrazione, in caso di istruttoria con esito positivo, rilasciano dichiarazioni di conformita' che costituiscono titolo autorizzatorio per l'esercizio dell'attivita'.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-04-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,29 @@ ACQUISITO il parere definitivo delle predette Commissioni permanenti della Camer
 ## - TITOLO I ISTITUZIONE DEI RUOLI DEL PERSONALE DEL CORPO DI POLIZIA PENITENZIARIA Capo I
 
 ## Art. 1. — (Istituzione dei ruoli e dotazioni organiche)
+
+1.
+                        
+                            
+                                Sono istituiti i seguenti ruoli del personale del Corpo di polizia penitenziaria: 
+
+                            
+                            
+                                a)
+                                
+                                    ruolo degli agenti e degli assistenti; 
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo dei sovrintendenti; 
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo degli ispettori;
 
 Salvo quanto specificato nel presente decreto, il personale appartenente ai predetti ruoli, nello svolgimento dei compiti istituzionali sanciti dalla legge 15 dicembre 1990, n. 395, svolge anche le attivita' accessorie necessarie al pieno assolvimento dei compiti di istituto, quali indicati dall'articolo 5 della legge e dalla normativa vigente.
 
@@ -51,6 +74,35 @@ L'anzianita' e' determinata dalla data del decreto di nomina o di promozione; a 
 
 ## Art. 3. — (Ruolo degli agenti e degli assistenti)
 
+1.
+                        
+                            
+                                Il ruolo degli agenti e degli assistenti e' articolato in quattro qualifiche, che assumono le seguenti denominazioni:
+
+                            
+                            
+                                a)
+                                
+                                    agente;
+                                
+                            
+                            
+                                b)
+                                
+                                    agente scelto;
+                                
+                            
+                            
+                                c)
+                                
+                                    assistente;
+                                
+                            
+                            
+                                d)
+                                
+                                    assistente capo.
+
 ## Art. 4. — (Funzioni del personale appartenente al ruolo degli agenti e degli assistenti)
 
 Al personale appartenente al ruolo degli agenti e degli assistenti sono attribuite le qualifiche di agente di pubblica sicurezza e di agente di polizia giudiziaria.
@@ -62,9 +114,60 @@ Il personale delle qualifiche di assistente e di assistente capo, previo apposit
 In relazione al qualificato profilo professionale raggiunto, agli assistenti capo che maturano ((cinque)) anni di effettivo servizio nella qualifica possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita' tra le mansioni di cui ai commi 2 e 3, ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di "coordinatore", che determina, in relazione alla data di conferimento, preminenza gerarchica anche nei casi di pari qualifica con diversa anzianita'.
 Gli stessi, oltre alle specifiche mansioni previste assumono l'onere di verificare il corretto svolgimento delle attivita' del personale di pari qualifica o subordinato con il controllo del puntuale rispetto delle disposizioni di servizio.
 
+5.
+                        
+                            
+                                E' escluso dall'attribuzione della denominazione di cui al comma 4 il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che nel triennio precedente abbia riportato un giudizio inferiore a "distinto" o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 ## - CAPO III
 
 ## Art. 5. — Nomina ad allievo agente di polizia
+
+1.
+                        
+                            
+                                L'assunzione degli agenti nel Corpo di polizia penitenziaria avviene mediante pubblico concorso, al quale possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    godimento dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eta' non inferiore agli anni diciotto e non superiore agli anni ventotto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((efficienza e)) idoneita' fisica, psichica ed attitudinale al servizio di polizia penitenziaria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diploma d'istruzione secondaria superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario.
 
 In deroga a quanto previsto dal comma 1, lettera d), il titolo di studio richiesto per l'accesso ai gruppi sportivi del Corpo di polizia penitenziaria Fiamme azzurre e Astrea e' sufficiente il possesso del diploma di istruzione secondaria di primo grado.
 
@@ -120,6 +223,44 @@ Gli allievi e gli agenti in prova, per tutta la durata del corso, non possono es
 
 ## Art. 7. — Dimissioni dai corsi per la nomina 
  ad agente di polizia penitenziaria
+
+1.
+                        
+                            
+                                Sono dimessi dal corso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli allievi che non superino il primo ciclo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli allievi e gli agenti in prova che non siano riconosciuti idonei al servizio nel Corpo di polizia penitenziaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli allievi e gli agenti in prova che dichiarino di rinunciare al corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli allievi e gli allievi agenti in prova che per qualsiasi motivo, salvo che l'assenza sia determinata dall'adempimento di un dovere, siano stati assenti dal corso per un periodo stabilito con decreto del Ministro della giustizia, il quale deve comunque prevedere un periodo maggiore in caso di assenza determinata da infermita' contratta durante il corso e, in quest'ultimo caso, la possibilita' per l'allievo o l'agente in prova di essere ammesso a partecipare al primo corso successivo alla riacquistata idoneita' psico-fisica;
+                                
+                            
+                            
+                                e)
+                                
+                                    gli agenti in prova di cui comma 4 dell'articolo 6.
 
 Gli allievi e gli agenti in prova di sesso femminile, la cui assenza oltre sessanta giorni sia stata determinata da maternita', sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
@@ -179,6 +320,29 @@ La promozione alla qualifica di assistente capo si consegue a ruolo aperto media
 
 ## Art. 14. — (Ruolo dei sovrintendenti)
 
+1.
+                        
+                            
+                                Il ruolo dei sovrintendenti e' articolato in tre qualifiche, che assumono le seguenti denominazioni:
+
+                            
+                            
+                                a)
+                                
+                                    vice sovrintendente;
+                                
+                            
+                            
+                                b)
+                                
+                                    sovrintendente;
+                                
+                            
+                            
+                                c)
+                                
+                                    sovrintendente capo.
+
 ## Art. 15. — (Funzioni del personale appartenente al ruolo dei sovrintendenti)
 
 Agli appartenenti al ruolo dei sovritendenti sono attribuite le qualifiche di agente di pubblica sicurezza e di ufficiale di polizia giudiziaria.
@@ -194,7 +358,43 @@ Il personale del ruolo dei sovrintendenti, previo apposito corso di specializzaz
 In relazione al qualificato profilo professionale raggiunto, ai sovrintendenti capo che maturano ((sei)) anni di effettivo servizio nella qualifica possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita' tra le mansioni di cui al comma 3, ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di "coordinatore", che determina, in relazione alla data di conferimento, preminenza gerarchica anche nei casi di pari qualifica con diversa anzianita'.
 Gli stessi, in aggiunta alle specifiche funzioni previste nell'ambito dell'unita' operativa, in assenza di appartenenti a qualifiche superiori, coordinano interventi intesi alla verifica dell'efficienza dei servizi affidati alla medesima, disponendo, se del caso, azioni di controllo anche in via d'urgenza se richiesto da particolari circostanze o esigenze del servizio.
 
+5-ter.
+                        
+                            
+                                E' escluso dall'attribuzione della denominazione di cui comma 5-bis: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il personale che nel triennio precedente abbia riportato un giudizio inferiore a "distinto" o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il personale sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 ## Art. 16. — (Nomina a vice sovrintendente).
+
+1.
+                        
+                            
+                                La nomina alla qualifica iniziale del ruolo dei sovrintendenti si consegue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante selezione effettuata con scrutinio per merito comparativo riservato a domanda nel limite del 70 per cento dei posti disponibili al 31 dicembre di ciascun anno, agli assistenti capo che ricoprono, alla predetta data, una posizione in ruolo non inferiore a quella compresa entro il doppio dei posti individuati, che non abbiano riportato nell'ultimo biennio un giudizio complessivo inferiore a "buono" e sanzione disciplinare piu' grave della deplorazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del restante 30 per cento dei posti disponibili al 31 dicembre di ciascun anno, mediante concorso per titoli ed esami con modalita' semplificate, da espletare anche mediante procedure telematiche, riservato al personale appartenente al ruolo degli agenti ed assistenti, che abbia compiuto almeno quattro anni di effettivo servizio e che non abbia riportato nell'ultimo biennio un giudizio complessivo inferiore a «buono» e sanzione disciplinare piu' grave della deplorazione.
 
 Il personale nominato ai sensi del comma 1 dovra' frequentare un corso di formazione tecnico-professionale non superiore a tre mesi, con verifica finale.
 
@@ -215,6 +415,31 @@ L'individuazione delle categorie di titoli di servizio ed il punteggio massimo d
 
 
 ## Art. 18. — Dimissione dal corso.
+
+1.
+                        
+                            
+                                E' dimesso dai corsi di cui all'art. 16 il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera gli esami di fine corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso per un periodo superiore ad un quarto delle giornate di studio. Nell'ipotesi di assenza dovuta ad infermita' contratta durante il corso ((ovvero a gravi infermita', anche non dipendenti da causa di servizio, che richiedono terapie salvavita ed impediscono lo svolgimento delle attivita' giornaliere o ad altre ad esse assimilabili secondo le indicazioni dell'Ufficio medico legale dell'Azienda sanitaria competente per territorio,)) ovvero ad infermita' dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alle procedure ivi previste.
 
 Il personale di sesso femminile, la cui assenza oltre i limiti di cui al comma 1 e' stata determinata da maternita', e' ammesso a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri.
 
@@ -252,13 +477,91 @@ La promozione alla qualifica di sovrintendente capo si consegue a titolo aperto 
 
 ((
 
+1.
+                        
+                            
+                                Il ruolo degli ispettori del Corpo di polizia penitenziaria, con carriera a sviluppo direttivo, e' articolato in cinque qualifiche, che assumono le seguenti denominazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vice ispettore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ispettore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ispettore capo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ispettore superiore; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sostituto commissario.
+
 ))
 
 ## Art. 23. — (Funzioni del personale del ruolo degli ispettori)
 
 Al personale del ruolo degli ispettori sono attribuite le qualifiche di agente di pubblica sicurezza e di ufficiale di polizia giudiziaria.
 
+2.
+                        
+                            
+                                Al predetto personale, ferme restando le prerogative del direttore dell'istituto, sono attribuite funzioni che richiedono una adeguata preparazione professionale e la conoscenza dei metodi e della organizzazione del trattamento penitenziario nonche' specifiche funzioni nell'ambito dei servizi istituzionali della Polizia penitenziaria secondo le direttive e gli ordini impartiti dal ((...)) comandante di reparto dell'istituto o della scuola ovvero dal funzionario del Corpo responsabile; sono altresi' attribuite funzioni di coordinamento di una o piu' unita' operative dell'area della sicurezza, dei nuclei e degli uffici e servizi ove sono incardinati nonche' la responsabilita' per le direttive e le istruzioni impartite nelle predette attivita'. Gli appartenenti al ruolo degli ispettori possono partecipare alle riunioni di gruppo di cui agli articoli 28 e 29 del regolamento approvato con decreto del Presidente della Repubblica 30 giugno 2000, n. 230. Il personale del ruolo degli ispettori svolge, in relazione alla professionalita' posseduta, compiti di formazione o di istruzione del personale di Polizia penitenziaria. 
+ 3 Gli ispettori superiori ed i sostituti commissari, oltre a quanto gia' specificato, sono principalmente diretti collaboratori del personale della carriera dei funzionari, svolgendo, in relazione alla formazione accademica e professionale acquisita, funzioni di coordinamento anche dell'attivita' del personale del ruolo degli ispettori, e sostituiscono temporaneamente i diretti superiori gerarchici in caso di assenza o impedimento di questi. 
+ 4. In relazione al qualificato profilo professionale raggiunto, ai sostituti commissari che maturano quattro anni di effettivo servizio possono essere affidati, anche permanendo nello stesso incarico, compiti di maggiore responsabilita' tra le funzioni di cui ai commi 2 e 3 ed e' attribuita, ferma restando la qualifica rivestita, la denominazione di «coordinatore», che determina, in relazione alla data di conferimento, preminenza gerarchica anche nei casi di pari qualifica con diversa anzianita'. Gli stessi nell'ambito del coordinamento di una o piu' unita' operative, assumono l'onere di avviare gli interventi finalizzati alla verifica dell'efficienza dei servizi affidati alle medesime. Tali attivita' sono svolte con particolare riguardo all'esigenza di garantire gli obiettivi di sicurezza dell'istituto ivi compresi l'ordine e la disciplina nelle sezioni detentive ed il perfetto funzionamento degli impianti di controllo interni ed esterni e del servizio di vigilanza armata. 
+ 5. E' escluso dall'attribuzione della denominazione di cui al comma 4 il personale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che nel triennio precedente abbia riportato un giudizio inferiore a «ottimo» o che nel quinquennio precedente abbia riportato una sanzione disciplinare piu' grave della pena pecuniaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sospeso cautelarmente dal servizio, rinviato a giudizio o ammesso ai riti alternativi per i delitti non colposi ovvero sottoposto a procedimento disciplinare per l'applicazione di una sanzione piu' grave della pena pecuniaria. La denominazione e' attribuita dopo la definizione dei relativi procedimenti, fermo restando quanto previsto dal presente comma. Si applicano le disposizioni contenute negli articoli 94 e 95 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
 ## Art. 24. — Nomina nel ruolo di ispettore di polizia penitenziaria.
+
+1.
+                        
+                            
+                                L'assunzione degli ispettori di polizia penitenziaria avviene mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concorso pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concorso interno per titoli di servizio ed esami;
 
 I concorsi di cui al comma 1 si svolgono con le modalita' di cui alle lettere a) e b) dell'art. 28.
 
@@ -301,6 +604,31 @@ Le modalita' dei concorsi, la composizione e la nomina delle commissioni esamina
 
 ## Art. 27. — Dimissione dal corso per la nomina a vice ispettore di polizia penitenziaria
 
+1.
+                        
+                            
+                                Sono dimessi dal corso gli allievi ispettori che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non superano gli esami del corso e non sono dichiarati idonei al servizio di polizia penitenziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarano di rinunciare al corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono stati per qualsiasi motivo, salvo che l'assenza sia determinata dall'adempimento di un dovere, assenti dal corso per piu' di centoventi giorni, anche non consecutivi, e centocinquanta giorni se l'assenza e' stata determinata da infermita' contratta durante il corso o da infermita' dipendente da causa di servizio qualora si tratti di personale proveniente da altri ruoli del Corpo di polizia penitenziaria, nel qual caso l'allievo e' ammesso a partecipare al primo corso successivo al riconoscimento della sua idoneita'. (15)
+
 Gli allievi ispettori di sesso femminile, la cui assenza oltre centoventi giorni e' stata determinata da maternita', sono ammessi a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni sulla tutela delle lavoratrici madri. (15) ((24))
 
 Sono espulsi dal corso gli allievi responsabili di infrazioni punibili con sanzioni disciplinari piu' gravi della deplorazione.
@@ -321,6 +649,24 @@ Nel caso in cui l'assenza e' dovuta a gravi infermita', anche non dipendenti da 
  La Corte Costituzionale, con sentenza 24 ottobre - 4 dicembre 2023, n. 211 (in G.U. 1ª s.s. 06/12/2023, n. 49), ha dichiarato "l'illegittimita' costituzionale degli artt. 27, comma 2, e 28, comma 4, del decreto legislativo 30 ottobre 1992, n. 443 (Ordinamento del personale del Corpo di polizia penitenziaria, a norma dell'art. 14, comma 1, della legge 15 dicembre 1990, n. 395), nella parte in cui non prevedono che le vincitrici del concorso per vice ispettori del Corpo di Polizia penitenziaria - che abbiano ottenuto l'idoneita' al servizio a seguito della partecipazione al primo corso di formazione successivo all'assenza dal lavoro per maternita' - siano immesse in ruolo con la medesima decorrenza, ai fini giuridici, attribuita agli altri vincitori del medesimo concorso".
 
 ## Art. 28. — Nomina a vice ispettore.
+
+1.
+                        
+                            
+                                La nomina a vice ispettore si consegue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel limite del 50 per cento dei posti disponibili al 31 dicembre di ogni anno mediante concorso pubblico, comprendente una prova scritta ed un colloquio secondo le modalita' stabilite dall'articolo 16 della legge 15 dicembre 1990, n. 395, e con l'osservanza delle disposizioni dell'articolo 26 della legge 1 febbraio 1989, n. 53 e dell'articolo 5 del decreto-legge 4 ottobre 1990, n. 276, convertito, con modificazioni, dalla legge 30 novembre 1990, n. 359, con riserva di un sesto dei posti agli appartenenti ai ruoli del Corpo di polizia penitenziaria con almeno tre anni di anzianita' di effettivo servizio alla data del bando che indice il concorso, in possesso dei prescritti requisiti ad eccezione del limite d'eta'. Se i posti riservati non vengono coperti la differenza vanno ad aumentare i posti spettanti all'altra categoria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel limite del 50 per cento dei posti disponibili al 31 dicembre di ogni anno, mediante concorso interno per titoli di servizio ed esame, consistente in una prova scritta ed un colloquio, riservato al personale del Corpo di polizia penitenziaria che espleta funzioni di polizia in possesso alla data del bando che indice il concorso, di anzianita' di servizio non inferiore a cinque anni, del diploma di istruzione secondaria superiore che consente l'iscrizione ai corsi per il conseguimento del diploma universitario.
 
 I posti disponibili di cui al comma 1, messi a concorso e non coperti, sono portati in aumento di quelli riservati, per gli anni successivi, alle rispettive aliquote di cui al medesimo comma 1, lettere a) e b);
 
@@ -514,6 +860,41 @@ Il giudizio complessivo deve essere motivato.
 
 Al personale nei confronti del quale, nell'anno cui si riferisce il rapporto informativo, sia stata inflitta una sanzione disciplinare piu' grave della deplorazione, non puo' essere attribuito un giudizio complessivo superiore a "buono".
 
+4.
+                        
+                            
+                                Con decreto del Ministro di grazia e giustizia saranno stabilite le modalita' in base alle quali deve essere redatto il rapporto informativo, volto a delineare la personalita' dell'appartenente al Corpo, tenendo conto dei seguenti parametri di giudizio, da prevedere in tutto o in parte in relazione alle diverse funzioni attribuite al personale di ciascun ruolo ed alle relative responsabilita':
+
+                            
+                            
+                                a)
+                                
+                                    competenza professionale;
+                                
+                            
+                            
+                                b)
+                                
+                                    capacita' di risoluzione;
+                                
+                            
+                            
+                                c)
+                                
+                                    capacita' organizzativa;
+                                
+                            
+                            
+                                d)
+                                
+                                    qualita' dell'attivita' svolta;
+                                
+                            
+                            
+                                e)
+                                
+                                    altri elementi di giudizio.
+
 Per ciascuno degli indicati parametri, dovranno essere previsti piu' elementi di giudizio, per ognuno dei quali sara' attribuito dall'organo competente alla compilazione del rapporto informativo, di cui agli articoli 45, 46, 47, 48 e 49, un punteggio variabile da un minimo di 1 ad un massimo di 3.
 
 Il consiglio di amministrazione ogni triennio determina, mediante coefficienti numerici, i criteri di valutazione dei titoli, in relazione alle esigenze delle singole carriere.
@@ -533,6 +914,24 @@ Entro trenta giorni dalla comunicazione puo' ricorrere alle commissioni per il p
 ## Art. 46. — (Organi competenti alla compilazione del rapporto informativo
  per il personale in servizio presso il
  Dipartimento dell'Amministrazione penitenziaria)
+
+1.
+                        
+                            
+                                Il rapporto informativo, per il personale in servizio presso il Dipartimento dell'Amministrazione penitenziaria, e' compilato:
+
+                            
+                            
+                                a)
+                                
+                                    per il personale dei ruoli degli ispettori e dei sovrintendenti o qualifiche equiparate, dal direttore della divisione da cui dipende.
+Il giudizio complessivo e' espresso dal direttore della direzione o ufficio centrale presso il quale presta servizio;
+                                
+                            
+                            
+                                b)
+                                
+                                    per il personale dei ruoli degli assistenti o degli agenti o qualifiche equiparate, dal funzionario dal quale direttamente dipendono. Il giudizio complessivo e' espresso dal direttore della divisione presso la quale il personale interessato presta servizio.
 
 ## Art. 46-bis. — (Organi competenti alla compilazione del rapporto informativo per il personale della carriera dei funzionari in servizio presso le articolazioni centrali del Dipartimento dell'Amministrazione penitenziaria e del Dipartimento per la Giustizia minorile e di comunita')
 
@@ -664,6 +1063,29 @@ Ove non diversamente stabilito, gli inquadramenti hanno effetto giuridico ed eco
 
 ## Art. 60. — (Riserva di posti nel ruolo degli ispettori a favore dei marescialli)
 
+1.
+                        
+                            
+                                Il personale che alla data di entrata in vigore del presente decreto riveste uno dei gradi di maresciallo e' inquadrato nel ruolo degli ispettori del Corpo di polizia penitenziaria, con le modalita' di cui al presente decreto e nei seguenti limiti: 
+
+                            
+                            
+                                a)
+                                
+                                    quattro quinti dei posti disponibili nella qualifica di ispettore capo previsti dalla tabella A allegata alla legge 15 dicembre 1990, n. 395; 
+                                
+                            
+                            
+                                b)
+                                
+                                    tre quinti dei posti disponibili nella qualifica di ispettore; 
+                                
+                            
+                            
+                                c)
+                                
+                                    due quinti dei posti disponibili nella qualifica di vice ispettore.
+
 ## Art. 61. — (Inquadramento dei marescialli maggiori scelti
  e dei marescialli maggiori)
 
@@ -723,9 +1145,49 @@ Detto personale precede nel ruolo il personale inquadrato ai sensi del comma 5.
 
 Il personale che, alla data di entrata in vigore della legge 15 dicembre 1990, n. 395, rivestiva il grado di appuntato scelto e che abbia conseguito la qualifica di ufficiale di polizia giudiziaria o che sia risultato idoneo nei concorsi per il conferimento del grado di vicebrigadiere, e' inquadrato, in soprannumero, riassorbibile con la cessazione dal servizio del personale posto in tale posizione, nella qualifica di sovrintendente, secondo l'ordine cronologico dei singoli concorsi e, nell'ambito di ciascun concorso, secondo le graduatorie di merito.
 
+6.
+                        
+                            
+                                Il personale proveniente dal soppresso ruolo delle vigilatrici penitenziarie, che, alla data di entrata in vigore della legge 15 dicembre 1990, n. 395, rivestiva la qualifica di vigilatrice penitenziaria superiore e' inquadrato, secondo l'ordine di ruolo, con le seguenti modalita':
+
+                            
+                            
+                                a)
+                                
+                                    nella qualifica di vice sovrintendente, le vigilatrici penitenziarie superiori con una anzianita' nella qualifica inferiore a due anni;
+                                
+                            
+                            
+                                b)
+                                
+                                    nella qualifica di sovrintendente, le vigilatrici penitenziarie superiori con una anzianita' nella qualifica maggiore di due anni;
+                                
+                            
+                            
+                                c)
+                                
+                                    nella qualifica di sovrintendente capo le vigilatrici penitenziarie superiori con una anzianita' nella qualifica maggiore di cinque anni.
+
 Il personale di cui al comma 6, lettere a) e b), conserva l'anzianita' della qualifica che e' utile ai fini della promozione alla qualifica superiore.
 
 ## Art. 69. — (Inquadramento nelle qualifiche degli assistenti)
+
+1.
+                        
+                            
+                                Il personale che, alla data di entrata in vigore della legge 15 dicembre 1990, n. 395, rivestiva il grado di appuntato, e' inquadrato nelle qualifiche degli assistenti del Corpo di polizia penitenziaria, secondo l'ordine di ruolo, con le seguenti modalita':
+
+                            
+                            
+                                a)
+                                
+                                    nella qualifica di assistente capo, gli appuntati scelti secondo l'ordine di ruolo e conservando l'anzianita' di grado;
+                                
+                            
+                            
+                                b)
+                                
+                                    nella qualifica di assistente, gli appuntati.
 
 Il personale proveniente dal soppresso ruolo delle vigilatrici penitenziarie che, alla data di entrata in vigore della legge 15 dicembre 1990, n. 395, aveva una anzianita' di servizio maggiore di 15 anni e' inquadrato nella qualifica di assistente capo secondo l'ordine di ruolo e conservando l'anzianita' nella qualifica. Lo stesso personale con anzianita' maggiore di dieci anni di servizio e' inquadrato nella qualifica di assistente.
 
@@ -874,6 +1336,47 @@ I bandi di concorso sono pubblicati sulla Gazzetta Ufficiale della Repubblica it
 
 ## Art. 82. — (Bandi di concorso)
 
+1.
+                        
+                            
+                                Il decreto ministeriale che indice il concorso per la immissione nei ruoli del Corpo di polizia penitenziaria deve indicare:
+
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso ed, eventualmente, la distribuzione degli stessi nelle diverse regioni;
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti richiesti per la partecipazione al concorso;
+                                
+                            
+                            
+                                c)
+                                
+                                    i documenti prescritti;
+                                
+                            
+                            
+                                d)
+                                
+                                    i termini per la presentazione delle domande di ammissione al concorso e dei documenti di cui alla precedente lettera c);
+                                
+                            
+                            
+                                e)
+                                
+                                    il programma ed il diario delle prove di esame;
+                                
+                            
+                            
+                                f)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
+
 La sede o le sedi nelle quali debbono aver luogo le prove scritte sono stabilite con lo stesso decreto che indice il concorso o con successiva comunicazione da pubblicarsi nella Gazzetta Ufficiale nel giorno indicato nel bando di concorso; tale pubblicazione ha valore di notifica a tutti gli effetti.
 
 ## Art. 83. — (Domande di partecipazione al concorso)
@@ -885,6 +1388,66 @@ Il termine suddetto decorre dalla data della pubblicazione del bando di concorso
 Le domande si considerano prodotte in tempo utile anche se spedite al provveditorato regionale, a mezzo raccomandata con avviso di ricevimento, entro lo stesso termine di cui al comma 1.
 
 A tal fine fara' fede il timbro a data dell'ufficio postale accettante.
+
+5.
+                        
+                            
+                                Gli aspiranti devono dichiarare nella domanda:
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome ed il nome;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data e il luogo di nascita;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il possesso della cittadinanza italiana;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comune ove sono iscritti nelle liste elettorali ovvero il motivo della non iscrizione o della cancellazione dalle liste medesime;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'immunita' da condanne penali o eventualmente le condanne penali riportate ed i procedimenti penali pendenti a loro carico;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il titolo di studio, con l'indicazione dell'Istituto che lo ha rilasciato, e della data in cui e' stato conseguito;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la lingua straniera nella quale intendono eventualmente sostenere la prova facoltativa;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i servizi eventualmente prestati come dipendenti presso le pubbliche amministrazioni e le cause di risoluzione di precedenti rapporti di pubblico impiego.
 
 L'Amministrazione procede d'ufficio ad accertare il requisito dell'idoneita' fisica, psichica ed attitudinale al servizio nel Corpo di polizia penitenziaria, nonche' le cause di risoluzione di precedenti rapporti di pubblico impiego.
 
@@ -1044,6 +1607,52 @@ Tali documenti devono essere conformi alle prescrizioni della legge sul bollo.
 
 ## Art. 97. — (Presentazione dei documenti)
 
+1.
+                        
+                            
+                                I concorrenti dichiarati vincitori ed, eventualmente, secondo l'ordine di graduatoria, altri candidati idonei sono invitati a far pervenire, a pena di decadenza, al Dipartimento dell'Amministrazione penitenziaria - ufficio centrale del personale nel termine di venti giorni, decorrenti dal giorno successivo a quello in cui hanno ricevuto l'invito in tal senso, i seguenti documenti, che debbono essere, altresi', conformi alle prescrizioni della legge sul bollo:
+ 
+                            
+                            
+                                a)
+                                
+                                    il diploma del titolo di studio o copia autenticata dello stesso, ovvero il certificato sostitutivo rilasciato dalla competente autorita' scolastica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il certificato generale del casellario giudiziale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il certificato di cittadinanza italiana;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il certificato di godimento dei diritti civili e politici;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'estratto dell'atto di nascita;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli altri documenti necessari per dimostrare il possesso dei requisiti prescritti.
+
 I documenti indicati alle lettere b, c) e d) del comma 1 devono essere di data non anteriore a tre mesi dalla data di presentazione
 
 I certificati di cui alle lettere c) e d) del comma 1 devono attestare, altresi', che gli interessati godevano del possesso dei requisiti della cittadinanza italiana e dei diritti politici anche alla data di scadenza del termine utile per la presentazione delle domande di partecipazione al concorso.
@@ -1123,6 +1732,25 @@ La prova orale non si intende superata qualora il candidato non ottenga almeno l
 ((11-bis. Fino all'effettiva disponibilita' dei funzionari del Corpo di polizia penitenziaria con qualifica di dirigente superiore e primo dirigente, le funzioni di presidente delle commissioni esaminatrici sono svolte da ufficiali generali del disciolto Corpo degli agenti di custodia o da dirigenti penitenziari))
 
 ## Art. 104. — (Prova di esame per l'assunzione di allievi ispettori)
+
+1.
+                        
+                            
+                                Gli esami consistono in due prove scritte ed un colloquio e si effettuano in base al seguente programma:
+ Prove scritte:
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di diritto penale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elementi sull'ordinamento penitenziario.
 
 Il colloquio verte, oltre che sulle materie oggetto delle prove scritte, anche su nozioni di diritto processuale penale, di diritto civile, nelle parti concernenti le persone, la famiglia, i diritti reali, le obbligazioni e la tutela dei diritti e di diritto costituzionale.
 
@@ -1227,6 +1855,31 @@ La prova scritta concerne la trattazione di un argomento attinente ai servizi pe
 
 La prova scritta si intende superata se il candidato ha riportato una votazione di almeno sei decimi.
 
+4.
+                        
+                            
+                                Il colloquio verte sui seguenti argomenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    elementi di diritto penale e di procedura penale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    legislazione in materia penitenziaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordinamento dell'Amministrazione penitenziaria.
+
 Il colloquio si intende superato se il candidato ha riportato una votazione di almeno sei decimi.
 
 ## Art. 112. — (Svolgimento delle prove e Commissione esaminatrice)
@@ -1266,6 +1919,45 @@ L'esclusione dal concorso per difetto dei requisiti e' disposta con decreto moti
 Le domande di partecipazione al concorso, redatte su carta libera, dirette al Dipartimento dell'Amministrazione penitenziaria - ufficio centrale del personale, devono essere presentate agli uffici o reparti di appartenenza entro il termine di giorni trenta a decorrere dalla data di pubblicazione del decreto che indice il concorso.
 
 ## Art. 116. — (Categorie di titoli valutabili)
+
+1.
+                        
+                            
+                                Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito sono stabiliti come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti informativi e giudizi complessivi del quinquennio anteriore, punti 26;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' delle funzioni svolte, con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta anche in relazione alla sede di servizio, punti 11;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi speciali conferiti con specifico provvedimento dell'Amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, punti 6;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli attinenti alla formazione ed al perfezionamento professionale del candidato, con particolare riguardo al profitto tratto dai corsi professionali, punti 5;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    speciali riconoscimenti, punti 2.
 
 Le somme dei punti assegnati per ciascuna categoria di titoli sono divise per il numero dei votanti ed i relativi quozienti, calcolati al cinquantesimo, sono sommati tra loro. Il totale cosi' ottenuto e' quindi diviso per cinque ed il quoziente, calcolato al cinquantesimo, costituisce il punteggio di merito attribuito dalla commissione.
 
@@ -1307,7 +1999,169 @@ L'Amministrazione, in relazione al numero dei candidati ai concorsi di cui al pr
 
 ## Art. 122. — (Requisiti psico-fisici per l'ammissione ai concorsi)
 
+1.
+                        
+                            
+                                I requisiti psico-fisici di cui devono essere in possesso i candidati ai concorsi per la nomina ad allievo agente e ad allievo vice ispettore, sono i seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sana e robusta costituzione fisica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    altezza individuata ai sensi del provvedimento di cui all'articolo 2 della legge 13 dicembre 1986, n. 874. Il rapporto altezza peso, il tono e l'efficienza della massa muscolare, la distribuzione del pannicolo adiposo ed il trofismo devono rispecchiare una armonia atta a configurare la robusta costituzione e la necessaria agilita' indispensabile per l'espletamento dei servizi di polizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    senso cromatico e luminoso normale, campo visivo normale, visione notturna sufficiente, visione binoculare e stereoscopica sufficiente. ((...)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per l'ammissione al concorso per la nomina ad allievo agente, visus naturale non inferiore a 12/10 complessivi quale somma del visus dei due occhi, con non meno di 5/10 nell'occhio che vede di meno ((ed un visus corretto a 10/10 per ciascun occhio per una correzione massima complessiva di una diottria quale somma dei singoli vizi di rifrazione)). Per l'ammissione ai concorsi per la nomina ad allievo vice ispettore, visus non inferiore a 10/10 in ciascun occhio, anche con correzione, purche' non superiore alle tre diottrie complessive ed in particolare per la miopia, l'ipermetropia, l'astigmatismo semplice (miopico od ipermetrico), tre diottrie in ciascun occhio, per l'astigmatismo composto e misto tre diottrie quale somma dei singoli vizi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    funzione uditiva con soglia audiometrica media sulle frequenze 500 - 1000 - 2000 - 4000 Hz, all'esame audiometrico in cabina silente, non inferiore a 30 decibel all'orecchio che sente di meno e a 15 decibel all'altro (perdita percentuale totale biauricolare entro il 20%); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'apparato dentario deve essere tale da assicurare la funzione masticatoria e, comunque, devono essere presenti: i dodici denti frontali superiori ed inferiori; e' ammessa la presenza di non piu' di sei elementi sostituiti con protesi fissa; almeno due coppie contrapposte per ogni emiarcata tra i venti denti posteriori; gli elementi delle coppie possono essere sostituiti da protesi efficienti; il totale dei denti mancanti o sostituiti da protesi non puo' essere superiore a sedici elementi.
+
 ## Art. 123. — (Cause di non idoneita')
+
+1.
+                        
+                            
+                                Costituiscono cause di non idoneita' per l'ammissione ai concorsi di cui all'articolo 122 le seguenti imperfezioni e infermita'; 
+ 
+                            
+                            
+                                a)
+                                
+                                    la tbc polmonare ed extrapolmonare, la sifilide, la lebbra, ogni altra grave malattia infettiva ad andamento cronico anche in fase aclinica, sierologica, di devianza immunologica o di trasmissibilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'alcolismo, le tossicomanie, le intossicazioni croniche di origine esogena; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le infermita' e gli esiti di lesione della cute e delle mucose visibili: malattie cutanee croniche; cicatrici infossate ed aderenti, alteranti l'estetica o la funzione; tramiti fistolosi, che, per sede ed estensione, producano disturbi funzionali; tumori cutanei. ((Costituiscono causa di esclusione dai concorsi pubblici per l'accesso ai ruoli e alle carriere della Polizia Penitenziaria le alterazioni volontarie dell'aspetto esteriore dei candidati, quali tatuaggi e altre alterazioni permanenti dell'aspetto fisico non conseguenti a interventi di natura comunque sanitaria, se visibili, in tutto o in parte, con l'uniforme indossata o se, avuto riguardo alla loro sede, estensione, natura o contenuto, risultano deturpanti o indice di alterazioni psicologiche, ovvero comunque non conformi al decoro della funzione degli appartenenti alla Polizia Penitenziaria.)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le infermita' ed imperfezioni degli organi del capo: malattie croniche ed imperfezioni del globo oculare, delle palpebre, dell'apparato lacrimale, disturbi della motilita' dei muscoli oculari estrinseci; stenosi e poliposi nasale; sinusopatie croniche; malformazioni e malattie della bocca; gravi malocclusioni dentarie con alterazione della funzione masticatoria e/o dell'armonia del volto; disfonie e balbuzie; otite media purulenta cronica anche se non complicata e monolaterale perforazione timpanica; sordita' unilaterale; ipoacusie monolaterali permanenti con una soglia audiometrica media sulle frequenze 500 - 1000 - 2000 - 4000 Hz superiore a 30 decibel dall'orecchio che sente di meno, oppure superiore a 45 decibel come somma dei due lati (perdita percentuale totale biauricolare superiore al 20%); deficit uditivi da trauma acustico con audiogramma con soglia uditiva a 400 Hz, superiore a 50 decibel (trauma acustico lieve secondo Klochoff); tonsilliti croniche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le infermita' del collo: ipertrofia tiroidea; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le infermita' del torace: deformazioni rachitiche e post- traumatiche; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le infermita' dei bronchi e dei polmoni: bronchiti croniche; asma bronchiale; cisti o tumori polmonari; segni radiologici di malattie tubercolari dell'apparato pleuropolmonare in atto o pregresse, qualora gli esiti siano di sostanziale rilevanza; gravi albergopatie anche in fase aclinica o di devianza ematochimica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le infermita' ed imperfezioni dell'apparato cardiocircolatorio: malattie dell'endocardio, del miocardio, del pericardio; gravi disturbi funzionali cardiaci; ipertensione arteriosa; arteriopatie; varici e flebopatie e loro esiti; emorroidi voluminose; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le infermita' ed imperfezioni dell'addome: anomalie della posizione dei visceri; malattie degli organi addominali, che determinano apprezzabili ripercussioni sullo stato generale; ernie; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le infermita' ed imperfezioni dell'apparato osteoarticolare e muscolare: tutte le alternazioni dello scheletro consecutive a fatti congeniti; rachitismo, malattie o traumi, deturpanti ad ostacolanti la funzionalita' organica o alternanti l'euritmia corporea; malattie ossee o articolari in atto; limitazione della funzionalita' articolare; malattie delle aponeurosi, dei muscoli e dei tendini, tali da ostacolarne la funzione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le imperfezioni ed infermita' dell'apparato neuropsichico: malattie del sistema nervoso centrale o periferico e loro esiti di rilevanza funzionale; infermita' psichiche invalidanti, psicosi e psico-nevrosi anche pregresse; personalita' psicopatiche e abnormi; epilessia; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le infermita' e le imperfezioni dell'apparato urogenitale; malattie renali in atto o croniche; imperfezioni e malformazioni dei genitali esterni di rilevanza funzionale; malattie croniche dei testicoli, arresto di sviluppo, assenza o ritenzione bilaterale; idrocele; variocele voluminoso; malattie infiammatorie in atto dell'apparato ginecologico, incontinenza urinaria; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    le infermita' del sangue, degli organi emopoietici e del sistema reticolo-istiocitario di apprezzabile entita', comprese quelle congenite; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    le sindromi dipendenti da alterata funzione delle ghiandole endocrine; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    le neoplasie di qualunque sede o natura; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    le malattie da miceti, le malattie da protozoi e le altre parassitosi che siano causa di importanti lesioni organiche o di notevoli disturbi funzionali.
 
 ## Art. 124. — (Requisiti attitudinali. Disposizioni generali)
 
@@ -1316,8 +2170,72 @@ I candidati ai concorsi di cui all'articolo 123 sono sottoposti ad esame attitud
 ## Art. 125. — (Requisiti attitudinali per i candidati ai concorsi per la
  nomina ad allievo agente)
 
+1.
+                        
+                            
+                                I requisiti attitudinali per i candidati ai concorsi per la nomina ad allievo agente sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    un livello evolutivo che consenta una valida integrazione della personalita' con riferimento alla maturazione, alla esperienza di vita, ai tratti salienti del carattere ed al senso di responsabilita'.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un controllo emotivo contraddistinto dalla capacita' di contenere i propri atti impulsivi e che implichi l'orientamento dell'umore, la coordinazione motoria e la sintonia delle reazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una capacita' intellettiva che consenta di far fronte alle situazioni nuove con soluzioni appropriate, sintomatica di una intelligenza dinamico-pratica, di capacita' di percezione e di esecuzione e delle qualita' attentive;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una adattabilita' che scaturisce dal grado di socievolezza, dalla predisposizione al gruppo, ai compiti ed all'ambiente di lavoro.
+
 ## Art. 126. — (Requisiti attitudinali per i candidati ai concorsi
  per la nomina ad allievo vice ispettore)
+
+1.
+                        
+                            
+                                I requisiti attitudinali per i candidati ai concorsi ad allievo vice ispettore sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    un livello evolutivo scaturente dalla maturazione globale, dalla esperienza di vita, dalla consapevolezza di se', dal senso di responsabilita' e dagli aspetti salienti del carattere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una stabilita' emotiva caratterizzata dalla sicurezza di se', dalle stabilita' del tono umorale, dal controllo emotivo e dall'obiettivita' operativa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una efficienza intellettuale intesa come capacita' di rendimento ai compiti anche dinamico-pratici che richiedono prevalentemente l'attivita' mentale e l'implicazione dei processi del pensiero, riferita al livello intellettivo globale, alla capacita' di osservazione e di giudizio ed ai poteri di memorizzazione ed elaborazione del pensiero;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una integrazione sociale che consenta di percepire ed attuare i rapporti sociali attraverso comportamenti correlati, definita dall'adattabilita', dalla capacita' di relazione, dalla sensibilita' e dalla partecipazione attiva.
 
 ## Art. 127. — (Accertamento dell'idoneita' psico-fisica e attitudinale
  per i candidati ai concorsi)

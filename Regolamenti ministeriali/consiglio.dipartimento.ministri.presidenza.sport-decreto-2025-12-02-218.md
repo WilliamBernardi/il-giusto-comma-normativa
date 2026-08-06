@@ -7,8 +7,8 @@ urn: urn:nir:consiglio.dipartimento.ministri.presidenza.sport:decreto:2025-12-02
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,31 @@ Sulla proposta del Ministro per lo sport e i giovani, di concerto con il Ministr
 
 L'iscrizione al Registro nazionale degli agenti sportivi di seguito denominato «Registro nazionale» costituisce condizione per l'esercizio della professione di agente sportivo in Italia, abilitandolo ad operare nell'ambito di una o piu' Federazioni sportive nazionali (FSN) e Federazioni sportive paraolimpiche (FSP), di seguito, congiuntamente, «Federazioni Sportive» o «Federazione Sportiva».
 
+2.
+                    
+                        
+                            Il Registro nazionale si articola nelle seguenti sezioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                agenti sportivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                societa' di agenti sportivi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                agenti sportivi stabiliti.
+
 Il Registro nazionale contiene altresi' l'elenco degli «agenti sportivi domiciliati» di cui all'articolo 15.
 
 Il Registro nazionale contiene infine un'area destinata a raccogliere i contratti di mandato sportivo che i singoli agenti sportivi, rispetto ai quali ciascun contraente e' obbligato a compiere ogni opportuna indagine al fine di verificare la sussistenza dei titoli che consentono ai medesimi di operare, sono tenuti a depositare presso le Federazioni sportive di competenza ai sensi dell'articolo 5 del decreto legislativo del 28 febbraio 2021, n. 37.
@@ -51,6 +76,31 @@ Fermo restando quanto previsto nel presente regolamento, il CONI, con il provved
 ## Art. 2. — Tenuta e gestione del Registro nazionale
 
 Il Registro nazionale e' tenuto presso il Comitato olimpico nazionale italiano (CONI) che lo gestisce attraverso l'utilizzo di un sistema informatico centrale che raccoglie e conserva in una banca dati centralizzata l'insieme delle informazioni relative agli agenti sportivi, nel rispetto delle disposizioni del decreto legislativo 28 febbraio 2021, n. 37.
+
+2.
+                    
+                        
+                            Il sistema informatico centrale e' realizzato in modo da consentire a ciascuna Federazione sportiva per quanto di rispettiva competenza: 
+ 
+                        
+                        
+                            a)
+                            
+                                di consultare l'elenco dei candidati risultati idonei alla prova generale al fine di attestare il requisito soggettivo per l'ammissione alla prova speciale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di consultare la documentazione depositata da coloro che domandino l'iscrizione al Registro nazionale ai sensi degli articoli 3, 4 e 5, al fine di rilasciare le relative attestazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di ricevere, trasmettere e consultare i contratti di mandato sportivo di cui all'articolo 1, comma 4.
 
 Il sistema informatico centrale e' realizzato e gestito in modo da mettere a disposizione del pubblico le funzioni per la consultazione delle sezioni e dell'elenco del Registro nazionale indicati all'articolo 1, comma 2.
 
@@ -69,6 +119,72 @@ All'atto dell'affidamento del servizio di realizzazione del sistema informatico 
 Iscrizione al Registro nazionale - sezione agenti sportivi
 
 La domanda di iscrizione al Registro nazionale - sezione agenti sportivi e' inserita nel sistema informatico centrale di cui all'articolo 2 .
+
+2.
+                    
+                        
+                            Possono iscriversi e mantenere l'iscrizione al Registro nazionale i soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                in possesso dei requisiti di cui all'articolo 4, comma 2, del decreto legislativo 28 febbraio 2021, n. 37, fatta salva la validita' dei titoli abilitativi all'esercizio della professione di agente sportivo: 
+ 1) rilasciati prima del 31 marzo 2015; 
+ 2) gia' rilasciati ai sensi dell'articolo 1, comma 373, della legge 27 dicembre 2017, n. 205, e dei relativi provvedimenti attuativi, tra i quali i titoli rilasciati dalla Federation lnternationale de Basketball (FIBA) e dalla Federazione Italiana Pallacanestro prima del 31 dicembre 2017, e, in caso di agente stabilito, quelli previsti dall'articolo 4, comma 5, del decreto legislativo 28 febbraio 2021, n. 37; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                che non versino in una delle situazioni di incompatibilita' o conflitto d'interessi descritte all'articolo 6 del decreto legislativo n. 37 del 2021, ovvero in quelle ulteriori eventualmente indicate nel codice etico previsto all'articolo 12, comma 2, del medesimo decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che abbiano stipulato la polizza di rischio professionale secondo i requisiti di cui all'articolo 8; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                che siano in regola con il versamento dei diritti di segreteria fissati dal CONI con proprio provvedimento.
+
+3.
+                    
+                        
+                            Il sistema informatico centrale, con modalita' automatizzata, inoltra la domanda di iscrizione alla Federazione Sportiva di riferimento che, entro venti giorni, provvede ad attestare la sussistenza dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                superamento della prova speciale di cui all'articolo 12, salvo quanto previsto al comma 2, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                frequenza dei corsi di aggiornamento organizzati o accreditati di cui all'articolo 9; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                idoneita' della polizza assicurativa di cui all'articolo 8; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                insussistenza di situazioni di incompatibilita' o conflitto d'interessi di cui all'articolo 6 del decreto legislativo n. 37 del 2021, ovvero di quelle ulteriori eventualmente indicate nel codice etico previsto dall'articolo 12, comma 2, del medesimo decreto.
 
 Entro i venti giorni successivi a tale attestazione e alla luce dei relativi risultati, il CONI provvede all'iscrizione dell'agente nel Registro Nazionale ovvero, non ricorrendone i requisiti, al rigetto della domanda.
 
@@ -102,6 +218,24 @@ L'iscrizione al Registro nazionale - sezione societa' di agenti sportivi e' coll
 Iscrizione al Registro nazionale - sezione 
  agenti sportivi stabiliti
 
+1.
+                    
+                        
+                            I cittadini dell'Unione europea, di uno Stato appartenente allo Spazio economico europeo o della Svizzera, o le societa' aventi ivi sede legale, in possesso della qualifica per lo svolgimento della professione di agente sportivo in conformita' alla normativa di un altro Stato membro dell'Unione europea, dello Spazio economico europeo o della Svizzera hanno titolo a svolgere la loro attivita' in Italia: 
+ 
+                        
+                        
+                            a)
+                            
+                                in maniera stabile, a seguito del riconoscimento della qualifica professionale conseguita in un altro Stato membro dell'Unione europea, dello Spazio economico europeo o della Svizzera e previa eventuale integrazione della formazione mediante una misura compensativa, secondo le modalita' previste dal presente articolo, nonche', per quanto non espressamente stabilito dal presente regolamento, dagli articoli 22 e 23 del decreto legislativo 9 novembre 2007, n. 206; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                su base temporanea e occasionale, in regime di libera prestazione di servizi, ai sensi dell'articolo 9 del decreto legislativo n. 206 del 2007 e secondo le modalita' previste dall'articolo 15, comma 10, del presente regolamento.
+
 Il CONI, approva con proprio provvedimento la disciplina attuativa del presente Regolamento, d'intesa con l'Autorita' politica competente in materia di sport, e definisce le qualifiche europee equipollenti al titolo abilitativo nazionale (Tabella stabiliti e qualifiche sottoposte a misure compensative) ai sensi dell'articolo 13 della direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005, ferme quelle gia' riconosciute ai sensi dell'articolo 14, comma 2, del decreto legislativo del 28 febbraio 2021 n. 37.
 
 Con il medesimo atto di cui al comma 2, il CONI stabilisce le qualifiche europee che esigono, ai fini del riconoscimento ai sensi dell'articolo 14 della direttiva 2005/36/CE, una misura compensativa, consistente nel superamento della prova generale di cui all'articolo 11, da svolgere esclusivamente in forma orale, in una lingua a scelta del candidato tra italiano, inglese, francese e spagnolo.
@@ -133,6 +267,31 @@ Entro i venti giorni successivi a tale attestazione, il CONI provvede al rinnovo
 Il rinnovo dell'iscrizione ha validita' limitata all'anno solare, ossia dal 1° gennaio al 31 dicembre e con decorrenza dalla data di approvazione a sistema della domanda.
 
 ## Art. 7. — Cancellazione dal Registro nazionale
+
+1.
+                    
+                        
+                            La cancellazione dal Registro nazionale e' disposta con provvedimento della Commissione per gli agenti sportivi, di cui all'articolo 13 nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                richiesta dell'interessato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                insussistenza di uno dei requisiti di cui all'articolo 4, commi 2 e 5, e all'articolo 9 del decreto legislativo del 28 febbraio 2021, n. 37, o di quelli eventualmente previsti da ciascuna Federazione sportiva, ovvero della copertura assicurativa di cui all'articolo 8 del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di una situazione di incompatibilita' o conflitto d'interessi di cui all'articolo 6 del decreto legislativo del n. 37 del 2021, ovvero di una delle situazioni indicate nel Codice etico previsto dall'articolo 12, comma 2, del medesimo decreto.
 
 La cancellazione dal Registro nazionale e' contestualmente comunicata alla Federazione sportiva di riferimento, per l'adozione di ogni conseguente provvedimento.
 
@@ -166,6 +325,45 @@ Alla prova generale e' ammesso chi sia in possesso dei requisiti previsti nel re
 
 Nell'ambito delle materie di cui al comma 2, il CONI individua il programma d'esame nel bando da pubblicarsi sul sito istituzionale.
 
+4.
+                    
+                        
+                            Per la valutazione della prova generale, e' istituita annualmente una Commissione esaminatrice, formata da almeno cinque componenti, nominati dalla giunta nazionale del CONI tra esperti in materie giuridiche, scelti tra professori universitari di ruolo, avvocati dello Stato, avvocati iscritti all'albo forense da almeno cinque anni e magistrati, anche a riposo, dei quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                uno indicato dal CONI, che presiede la Commissione esaminatrice; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                uno indicato dal CIP, con funzioni di Vicepresidente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                uno indicato dalle Federazioni sportive nazionali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                uno indicato dalle Federazioni sportive paralimpiche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                uno indicato dall'Autorita' politica delegata in materia di sport.
+
 Il giudizio di idoneita' alla prova generale dell'esame di abilitazione nazionale ha validita' biennale.
 
 ## Art. 12. — Prova speciale
@@ -181,6 +379,52 @@ Il programma d'esame e' individuato da ciascuna Federazione sportiva tramite ban
 La Commissione esaminatrice e' formata da almeno tre componenti esperti in materie giuridiche, scelti tra professori universitari di ruolo, avvocati dello Stato, avvocati iscritti all'albo forense da almeno cinque anni e magistrati, anche a riposo; qualora la prova speciale sia svolta presso una FSP, assicura la presenza di uno psicologo dello sport, scelto tra professori universitari di ruolo.
 
 ## Art. 13. — Commissione per gli agenti sportivi
+
+1.
+                    
+                        
+                            La Commissione per gli agenti sportivi, di cui all'articolo 11, comma 2, del decreto legislativo 28 febbraio 2021, n. 37, si compone di otto membri, per i quali non sussistano le condizioni di incompatibilita' o conflitto d'interessi, nominati dalla giunta nazionale del CONI, di cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                due esperti indicati dall'Autorita' politica delegata in materia di sport, di comprovata competenza in materia giuridico-sportiva e in materia di revisione dei conti e fiscale, di cui uno, sentito il CONI, con funzioni di presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un esperto, indicato dal Ministro degli affari esteri e della cooperazione internazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un esperto, indicato dal CONI sentita l'Autorita' politica delegata in materia di sport, tra soggetti in possesso di comprovata esperienza in materia giuridico-sportiva, con funzioni di vicepresidente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un esperto, indicato dal CIP, in possesso di comprovata competenza in materia giuridico-sportiva in ambito paralimpico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                due esperti, indicati dai presidenti delle federazioni sportive nazionali, in possesso di comprovata competenza in materia giuridico-sportiva; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un esperto, indicato dal tavolo consultivo di cui al successivo articolo 14, comma 1, lettera l), in possesso di comprovata competenza in materia giuridico-sportiva, non iscritto al Registro nazionale ne' ad elenchi o albi, nazionali o stranieri, disciplinanti la professione di agente sportivo.
 
 Gli esperti, di cui al comma 1, sono scelti tra magistrati a riposo, professori universitari di ruolo, avvocati dello Stato e avvocati abilitati all'esercizio dinanzi alle giurisdizioni superiori. L'esperto in materia di revisione dei conti e fiscale, di cui al comma 1, lettera a), e' scelto, altresi', tra dottori commercialisti e gli esperti contabili iscritti al relativo albo da almeno cinque anni.
 
@@ -199,11 +443,110 @@ In caso di particolare urgenza, il presidente puo' adottare gli atti o i provved
 ## Art. 14. — Funzioni della Commissione per gli agenti sportivi 
  e del Tavolo consultivo
 
+1.
+                    
+                        
+                            La Commissione per gli agenti sportivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                delibera l'iscrizione nelle sezioni del Registro nazionale dei soggetti in possesso dei requisiti di cui agli articoli 3, 4, 5, e 15; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce il programma oggetto della prova generale prevista dall'articolo 11, comma 2, e predispone il relativo bando, contenente la data e la sede di svolgimento, i requisiti di ammissione e gli argomenti di esame, curandone la pubblicazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                esclude dalla prova generale i candidati che non sono in possesso dei requisiti prescritti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera sulle domande di iscrizione nella prima seduta successiva alla domanda e rilascia il titolo abilitativo agli agenti sportivi che hanno superato l'esame di abilitazione e intendono esercitare l'attivita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                provvede alla cancellazione dal Registro nazionale nei casi previsti dall'articolo 7; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                adotta i provvedimenti sanzionatori secondo quanto definito all'articolo 16, e nella composizione prevista all'articolo 13, comma 4; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                provvede all'accreditamento delle attivita' formative, promosse ed organizzate da enti ed istituti, propedeutiche all'ammissione alla prova generale di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                dispone accertamenti, laddove lo ritenga opportuno, anche invitando l'agente sportivo o la societa' attraverso cui esercita l'attivita' a produrre idonea documentazione comprovante quanto dichiarato all'atto dell'iscrizione nel Registro nazionale, o con il deposito della domanda di rinnovo; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                delibera l'elenco dei tutor, su proposta delle Federazioni sportive; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                valuta le domande di misure compensative di cui all'articolo 5; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                intrattiene rapporti di natura consultiva con le associazioni di categoria degli agenti sportivi maggiormente rappresentative, costituite in apposito tavolo consultivo, che puo' proporre alla Commissione per gli agenti sportivi un Codice etico.
+
 In attuazione di quanto disposto dall'articolo 12, comma 2, del decreto legislativo 28 febbraio 2021, n. 37, il CONI, di intesa con il CIP, adotta il Codice etico degli agenti sportivi. A tal fine, il CONI si confronta con la Commissione per gli agenti sportivi e con le Federazioni sportive, tenuto conto delle linee guida emanate dall'Autorita' politica competente in materia di sport.
 
 ## Art. 15.
 
 Attivita' occasionali
+
+1.
+                    
+                        
+                            I cittadini e le societa' di Stati diversi da quelli di cui all'articolo 5, comma 1, possono esercitare la professione di agente sportivo in Italia su base temporanea e occasionale, secondo le modalita' previste dal presente articolo, purche' in possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                essere abilitati ad operare, da almeno un anno, quale agente sportivo presso una Federazione sportiva straniera, riconosciuta dalla federazione internazionale di riferimento e nel cui registro devono risultare iscritti, anche in base alla legge statale di riferimento ovvero alle disposizioni della Federazione internazionale di riferimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel corso dell'ultimo anno, avere ricevuto due mandati ed eseguito effettivamente le relative attivita' di cui all'articolo 2, comma 1, lettera a), del decreto legislativo del 28 febbraio 2021, n. 37, in uno Stato diverso dall'Italia.
 
 Lo svolgimento dell'attivita' da parte dei soggetti di cui al comma 1 e' subordinata alla presentazione da parte degli stessi della domanda di iscrizione al Registro nazionale - elenco agenti sportivi domiciliati, che viene inserita nel sistema informatico centrale, secondo le procedure contenute nel regolamento del CONI. Alla domanda di iscrizione deve essere allegata, a pena di inammissibilita', la documentazione attestante l'avvenuta domiciliazione del richiedente presso un agente sportivo iscritto al Registro nazionale sezione agenti sportivi, ovvero sezione agenti sportivi stabiliti, ai sensi del comma 4.
 
@@ -226,6 +569,80 @@ I soggetti di cui all'articolo 5, comma 1, possono svolgere la loro attivita' in
 ## Art. 16. — Regime disciplinare e sanzioni
 
 Il regime sanzionatorio disciplinato al presente articolo si applica agli agenti sportivi iscritti nel Registro nazionale e a coloro i quali in violazione delle disposizioni previste all'articolo 4, comma 1, del decreto legislativo 28 febbraio 2021, n. 37, hanno svolto attivita' di agente sportivo senza essere iscritti al Registro nazionale, anche per effetto di cancellazione o mancato rinnovo dell'iscrizione, nonche' per violazione dell'obbligo di aggiornamento professionale di cui all'articolo 9.
+
+2.
+                    
+                        
+                            Ferme restando le ipotesi di responsabilita' civile e penale previste dalla disciplina normativa vigente: 
+ 
+                        
+                        
+                            a)
+                            
+                                le sanzioni per violazione delle norme di cui al decreto legislativo n. 37 del 2021, dei relativi provvedimenti attuativi, e del Codice etico di cui all'articolo 12, comma 2, del decreto legislativo n. 37 del 2021, sono: 
+ 1) la censura, che consiste nel biasimo formale; 
+ 2) la sanzione pecuniaria, che consiste nel versamento di una somma da 250 a 10.000 euro; 
+ 3) la sospensione, che consiste nella esclusione, per il periodo da tre mesi a trentasei mesi, dell'agente sportivo dal Registro nazionale, con conseguente inibizione a svolgere, in tale arco temporale, l'attivita' di agente sportivo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la sanzione per coloro che hanno svolto attivita' di agente senza essere iscritti al Registro nazionale, anche per effetto di cancellazione o mancato rinnovo dell'iscrizione, e' l'annotazione, che consiste nell'inibizione all'iscrizione nel Registro nazionale, per un periodo da tre mesi a trentasei mesi.
+
+3.
+                    
+                        
+                            Sono inoltre previste le seguenti sanzioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                per la violazione delle disposizioni di cui all'articolo 5 del decreto legislativo n. 37 del 2021, ferme restando le ipotesi di nullita' del contratto di mandato sportivo ivi stabilite, e' prevista la sanzione della censura e una eventuale sanzione pecuniaria; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la violazione delle disposizioni di cui all'articolo 6 del decreto legislativo n. 37 del 2021, e' prevista la sanzione della sospensione e una eventuale sanzione pecuniaria; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la violazione delle disposizioni di cui all'articolo 7 del decreto legislativo n. 37 del 2021, e' prevista la sanzione della censura ovvero della sospensione, e una eventuale sanzione pecuniaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per la violazione delle disposizioni di cui all'articolo 8 del decreto legislativo n. 37 del 2021e dei relativi provvedimenti attuativi e' prevista la sanzione della sospensione e una eventuale sanzione pecuniaria; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per la violazione delle disposizioni di cui all'articolo 9 del decreto legislativo n. 37 del 2021, e' prevista la sanzione della censura ovvero della sospensione, e una eventuale sanzione pecuniaria; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per la violazione delle disposizioni di cui all'articolo 10 del decreto legislativo n. 37 del 2021, e' prevista la sanzione della sospensione e una eventuale sanzione pecuniaria; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per la violazione delle disposizioni stabilite dal Codice etico e dal regolamento del CONI, e' prevista la sanzione della censura ovvero della sospensione, e una eventuale sanzione pecuniaria.
 
 Per la violazione delle disposizioni di cui all'articolo 4, comma 1, del decreto legislativo n. 37 del 2021, da parte di coloro che hanno svolto l'attivita' di agente senza essere iscritti al Registro nazionale, anche a seguito di cancellazione o mancato rinnovo, e' prevista la sanzione dell'annotazione, oltre alla segnalazione all'autorita' giudiziaria per l'ipotesi di cui all'articolo 348 del codice penale.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2011-10-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,52 @@ Sulla proposta del Ministro delle comunicazioni, di concerto con il Ministro del
 
 Il Consiglio superiore delle comunicazioni, di seguito denominato: "Consiglio superiore", esercita funzioni consultive e di proposta nei confronti del Ministro delle comunicazioni, di seguito denominato: "Ministro", in tutte le materie di competenza del Ministero delle comunicazioni, secondo quanto previsto dall'articolo 41 della legge 16 gennaio 2003, n. 3. Svolge, altresi', i compiti gia' attribuiti al Forum per le comunicazioni dall'articolo 1, comma 24, della legge 31 luglio 1997, n. 249, soppresso con il citato articolo 41 della legge 16 gennaio 2003, n. 3.
 
+2.
+                    
+                        
+                            Il Consiglio superiore deve essere sentito sui seguenti atti:
+ 
+                        
+                        
+                            a)
+                            
+                                atti di pianificazione, di programmazione e in materia tariffaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contratti di servizio e contratti di programma;((1))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                atti recanti norme, prescrizioni o capitolati di natura tecnica;
+
+                            
+                        
+                        
+                            d)
+                            
+                                accordi e convenzioni con Governi esteri, organi ed organizzazioni nazionali, internazionali o sopranazionali, comunitari;
+
+                            
+                        
+                        
+                            e)
+                            
+                                accordi con regioni ed enti locali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                atti e accordi in materia di sicurezza delle reti, di crimini informatici e di pirateria commessi con qualunque tecnologia della comunicazione,'di multimedialita' e di intermedialita', di convergenza multimediale, di nuove tecnologie della comunicazione, anche nel sistema integrato delle comunicazioni.
+
 Il parere del Consiglio superiore puo' inoltre essere richiesto su argomenti attinenti alle strategie di sviluppo del settore delle tecnologie delle comunicazioni e dell'informazione.
 
 Il Consiglio superiore esprime il proprio parere su ogni altro argomento che gli venga sottoposto dal Ministro o, per il suo tramite, da altre amministrazioni dello Stato, dalle regioni o da altri enti pubblici, da Governi ed Autorita' estere.
@@ -46,6 +92,108 @@ Il Consiglio superiore esercita, nei settori di competenza del Ministero, compit
 
 I componenti del Consiglio superiore sono nominati con decreto del Ministro, tenendo conto dell'equilibrio di genere.
 
+2.
+                    
+                        
+                            Il Consiglio superiore e' cosi' composto: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente, scelto tra persone estranee al Ministero delle comunicazioni, dotato di alta e riconosciuta esperienza e prestigio nelle discipline tecniche, economiche o giuridiche attinenti alle attribuzioni del Consiglio superiore; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il segretario generale del Ministero delle comunicazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quattro dirigenti generali in servizio presso il Ministero delle comunicazioni, tra i quali il direttore dell'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un magistrato del Consiglio di Stato; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un magistrato della Corte dei conti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                un avvocato dello Stato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante della Presidenza del Consiglio dei Ministri;
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante del Ministero dell'interno; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                un rappresentante del Ministero della difesa; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                un rappresentante del Ministero dello sviluppo economico; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                un rappresentante del Ministero dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                un esperto del Consiglio nazionale delle ricerche, di documentata competenza nelle materie di cui all'articolo 1, comma 1; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                un esperto in materia di innovazione tecnologica, designato dal Ministro per le riforme e le innovazioni nella pubblica amministrazione, di riconosciuta esperienza nel settore; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                diciassette membri scelti tra persone dotate di elevata professionalita' e competenza nelle discipline tecniche attinenti alla materia delle comunicazioni elettroniche e della multimedialita', economiche o giuridiche relative alle attribuzioni del Consiglio superiore.
+
 I rappresentanti dei Ministeri, ove appartenenti alle pubbliche amministrazioni, rivestono qualifica dirigenziale o equiparata.
 
 Il Consiglio dura in carica tre anni dalla data del rinnovo. Tre mesi prima della scadenza del termine di durata, il Consiglio presenta una relazione sull'attivita' svolta al Ministro delle comunicazioni, che la trasmette alla Presidenza del Consiglio dei Ministri, ai sensi di quanto disposto dall'articolo 29, comma 2-bis, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, ai fini della valutazione congiunta della perdurante utilita' dell'organismo e della conseguente eventuale proroga della durata, comunque non superiore a tre anni, da adottarsi con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro delle comunicazioni.
@@ -56,6 +204,38 @@ I componenti del consiglio restano in carica fino alla scadenza del termine di d
 Con decreto del Ministro e' istituito un apposito elenco, composto da non piu' di ventiquattro nominativi, di membri straordinari del Consiglio superiore esperti nelle materie da esso trattate. Il presidente del Consiglio superiore puo' chiamare a partecipare allo svolgimento dei lavori, per ciascun argomento all'ordine del giorno, fino a sette esperti tratti dal detto elenco ai quali non spetta diritto di voto.
 
 La carica di componente del Consiglio superiore e' incompatibile con la titolarita' di interessi in potenziale contrasto o concorrenza con l'interesse pubblico. Ove sussista una causa di incompatibilita' ed il componente, benche' diffidato, non abbia provveduto a rimuoverla, lo stesso e' dichiarato decaduto dall'ufflcio, con provvedimento del Ministro.
+
+7.
+                    
+                        
+                            I componenti del Consiglio superiore sono tenuti a: 
+ 
+                        
+                        
+                            a)
+                            
+                                rispettare l'obbligo di riservatezza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non utilizzare per fini privati le informazioni delle quali siano venuti a conoscenza in ragione del loro incarico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non assumere iniziative suscettibili di arrecare pregiudizio all'attivita' istituzionale e alle finalita' perseguite dal Ministero delle comunicazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                intervenire personalmente alle sedute dell'organo.
 
 In caso di assenza ingiustificata protratta per tre sedute consecutive, i componenti del Consiglio superiore possono essere dichiarati decaduti e la loro sostituzione ha luogo con le modalita' di cui ai commi precedenti. Comporta altresi' decadenza la grave o reiterata violazione degli altri obblighi indicati al comma 6.
 
@@ -88,6 +268,29 @@ Le deliberazioni sono adottate con il voto della maggioranza dei presenti. In ca
 
 Il Consiglio si articola in tre sezioni, ciascuna composta di almeno sette componenti tra cui un presidente, nonche' nella giunta di cui al comma 6.
 
+5.
+                    
+                        
+                            Le competenze delle sezioni sono le seguenti:
+
+                        
+                        
+                            a)
+                            
+                                sezione I: atti di pianificazione e programmazione, atti in materia tariffaria; norme e prescrizioni tecniche;
+                            
+                        
+                        
+                            b)
+                            
+                                sezione II: convenzioni in genere; accordi internazionali; accordi con regioni ed enti locali; affari non suscettibili di rientrare nella competenza delle altre sezioni o della giunta;
+                            
+                        
+                        
+                            c)
+                            
+                                sezione III: ricerca e sperimentazione, nuove tecnologie; multimedialita' ed intermedialita'; istruzione, formazione ed aggiornamento professionale.
+
 ))
 
 Per l'esame degli argomenti che possano interessare la difesa e la sicurezza dello Stato, nonche' delle problematiche che possano concernere la partecipazione nazionale ad accordi internazionali di difesa comune anche dell'ordine pubblico, il parere del Consiglio superiore e' reso dalla giunta, costituita nell'ambito del Consiglio superiore ((, presieduta dal Presidente del Consiglio superiore)) e composta da non piu' di sette membri tra cui il rappresentante del Ministero della difesa. I membri della giunta, cosi' come il presidente del Consiglio superiore, devono essere muniti del nulla osta di segretezza (NOS) e tenuti all'osservanza delle norme unificate per la tutela del segreto. La richiesta di un parere della giunta, ove non proveniente dallo stesso Ministro, deve essere dal medesimo specificamente autorizzata. I commi 2 e 3 si applicano anche alle deliberazioni della giunta.
@@ -98,6 +301,45 @@ La nomina dei presidenti ((. . .)) di sezione e l'assegnazione di ciascun compon
 
 ## Art. 4. — Attribuzioni del presidente del Consiglio superiore
  e disposizioni procedurali
+
+1.
+                    
+                        
+                            Il presidente del Consiglio superiore esercita le seguenti attribuzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                convoca e presiede l'adunanza generale ((e la giunta));
+
+                            
+                        
+                        
+                            b)
+                            
+                                assegna gli affari all'adunanza generale, alle singole sezioni o alla giunta, in conformita' alle previsioni dell'articolo 3, e partecipa alle loro sedute con diritto di voto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                designa i relatori per gli affari assegnati all'adunanza generale; puo' richiedere, per determinati affari che attengano nello stesso tempo alle competenze di due sezioni, il parere congiunto delle medesime, assumendo la loro presidenza nella seduta congiunta;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ha facolta' di invitare alle riunioni da lui presiedute i rappresentanti degli uffici pubblici istituzionalmente preposti alla trattazione delle questioni iscritte all'ordine del giorno e di chiamare a partecipare ai lavori gli esperti indicati all'articolo 2, comma 5;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ha facolta' di disporre l'audizione, anche preventiva, di altre amministrazioni dello Stato o di enti od organismi comunque interessati ai singoli pareri ovvero di esperti in relazione alle specifiche questioni oggetto del parere.
 
 I presidenti delle sezioni ed il presidente della giunta convocano e presiedono i rispettivi collegi; designano i relatori degli affari di loro competenza; coordinano i lavori dei collegi; possono invitare alle riunioni da loro presiedute, con l'accordo del presidente del Consiglio superiore, i rappresentanti degli uffici pubblici istituzionalmente preposti alla trattazione delle questioni iscritte all'ordine del giorno.
 

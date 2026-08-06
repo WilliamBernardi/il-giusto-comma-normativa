@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-04-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -56,6 +56,32 @@ Allo stesso personale e' affidata la direzione dei servizi di ordine e sicurezza
 Gli appartenenti alla carriera dei funzionari fino alla qualifica di commissario capo rivestono le qualifiche di ufficiale di pubblica sicurezza e di ufficiale di polizia giudiziaria. Svolgono, in relazione alle qualifiche rivestite, funzioni inerenti ai compiti istituzionali della Polizia di Stato e dell'Amministrazione della pubblica sicurezza, con autonoma responsabilita' decisionale e corrispondente apporto professionale. Provvedono, altresi', all'addestramento del personale dipendente e svolgono, in relazione alla professionalita' posseduta, compiti di istruzione e formazione del personale della Polizia di Stato. Il medesimo personale e' il diretto collaboratore degli appartenenti alle qualifiche superiori della stessa carriera e li sostituisce nella direzione di uffici e reparti in caso di assenza o impedimento. ((Se titolari del relativo incarico, nonche' nella sostituzione)) del dirigente dei Commissariati distaccati di pubblica sicurezza, i commissari capo esercitano anche le attribuzioni di Autorita' locale di pubblica sicurezza. Lo stesso personale svolge, altresi', con piena responsabilita' per le direttive impartite e per i risultati conseguiti, funzioni di direzione di uffici e reparti non riservati al personale delle qualifiche superiori, nonche' funzioni di indirizzo e coordinamento di piu' unita' organiche nell'ufficio cui e' assegnato. Le predette funzioni sono individuate con decreto del capo della polizia-direttore generale della pubblica sicurezza, privilegiando l'impiego dei vice commissari e dei commissari come addetti, nonche' nell'ambito degli uffici o reparti che svolgono compiti di ordine e sicurezza pubblica e di controllo del territorio e di quelli dei comparti di specialita' e dei reparti specialistici.
 Con il medesimo decreto sono, altresi', individuate le funzioni di direzione degli uffici che sono, in via prioritaria, attribuite ai commissari capo.
 
+3.
+                        
+                            
+                                Gli appartenenti alla carriera dei funzionari a partire dalla qualifica di vice questore aggiunto, ferme restando le funzioni previste dalla legge 1° aprile 1981, n. 121, e dal decreto del Presidente della Repubblica 30 giugno 1972, n. 748, e successive modificazioni, rivestono la qualifica di ufficiale di pubblica sicurezza. Ai vice questori aggiunti, ai vice questori ed ai primi dirigenti e' attribuita la qualifica di ufficiale di polizia giudiziaria, ad eccezione dei primi dirigenti che svolgono funzioni vicarie. Il medesimo personale, oltre ad esercitare, nei casi previsti dalla legge, le funzioni di autorita' di pubblica sicurezza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge le funzioni indicate nella tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 335, ed e' preposto agli uffici di particolare rilievo e complessita' secondo i livelli di responsabilita' e gli ambiti di competenza correlati alla qualifica ricoperta, determinati con decreto del Ministro dell'interno, nell'ambito della relativa dotazione organica. In relazione alle esigenze di funzionalita', le funzioni previste per i vice questori aggiunti e i vice questori possono essere svolte dai funzionari che rivestono entrambe le qualifiche, ferma restando la preminenza gerarchica nell'attribuzione degli incarichi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolge funzioni ispettive e quando e' preposto agli uffici o reparti o istituti d'istruzione ha, altresi', la responsabilita' dell'istruzione, della formazione e dell'addestramento del personale dipendente. Quando e' preposto ad uffici aventi autonomia amministrativa esercita i poteri di spesa nei limiti delle attribuzioni previste e dei fondi assegnati per la realizzazione di ciascun programma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dirige gli uffici dell'Amministrazione della pubblica sicurezza aventi il compito di fornire gli elementi informativi per il rilascio delle abilitazioni di sicurezza agli appartenenti alla Polizia di Stato. 
+ (14)
+
 ------------
                             AGGIORNAMENTO (14)
                             
@@ -64,6 +90,22 @@ Con il medesimo decreto sono, altresi', individuate le funzioni di direzione deg
  gg) con decorrenza 1° gennaio 2018, il personale con la qualifica di primo dirigente, dirigente superiore e dirigente generale di pubblica sicurezza, accede alle funzioni di cui all'articolo 2 del decreto legislativo 5 ottobre 2000, n. 334, e alla tabella A allegata al decreto del Presidente della Repubblica 24 aprile 1982, n. 335, come modificata dalla tabella 1 allegata al presente decreto".
 
 ## Art. 2-bis. — Accesso alla carriera dei funzionari di Polizia
+
+1.
+                        
+                            
+                                L'accesso alla carriera dei funzionari di Polizia avviene: 
+                            
+                            
+                                a)
+                                
+                                    mediante concorso pubblico, per titoli ed esami;
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante concorso interno, per titoli ed esami .
 
 ((
 
@@ -142,6 +184,45 @@ AGGIORNAMENTO (15)
 
 ## Art. 5. — Dimissioni dal corso di formazione iniziale
 
+1.
+                        
+                            
+                                Sono dimessi dal corso di cui all'articolo 4 i commissari che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarano di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengono il giudizio di idoneita' previsto al termine del primo ciclo del corso, nonche' il giudizio di idoneita' al servizio di polizia a seguito della ripetizione del corso di cui al comma 1-bis; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non superano le prove, ovvero non conseguono, nei tempi stabiliti, tutti gli obiettivi formativi previsti per il primo ed il secondo ciclo del corso a seguito della ripetizione del corso di cui al comma 1-bis; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superano l'esame finale del corso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono stati per qualsiasi motivo assenti dall'attivita' corsuale per piu' di novanta giorni anche se non consecutivi, ovvero di centottanta nel caso di assenza per infermita' contratta durante il corso, per infermita' dipendente da causa di servizio qualora si tratti di personale proveniente da altri ruoli della Polizia di Stato, ((per gravi infermita', anche non dipendenti da causa di servizio, che richiedono terapie salvavita ed impediscono lo svolgimento delle attivita' giornaliere, o altre ad esse assimilabili secondo le indicazioni dell'Ufficio medico legale dell'Azienda sanitaria competente per territorio,)) ovvero per maternita' se si tratta di personale femminile.
+
 I commissari che non ottengono il giudizio di idoneita' previsto al termine del primo ciclo del corso, nonche' il giudizio di idoneita' al servizio di polizia, che non superano le prove, ovvero che non conseguono nei tempi stabiliti, tutti gli obiettivi formativi previsti per il primo ciclo ed il secondo ciclo del corso sono ammessi a partecipare, per una sola volta, al primo corso successivo.
 
 ((
@@ -205,6 +286,38 @@ Ai frequentatori del corso di formazione si applicano le disposizioni di cui all
 
 ((
 
+1.
+                        
+                            
+                                Sono dimessi dal corso di cui all'articolo 5-ter i vice commissari che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarano di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non ottengono il giudizio di idoneita' ai servizi di polizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non superano le prove, ovvero non conseguono, nei tempi stabiliti, tutti gli obiettivi formativi previsti dal corso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non superano l'esame finale del corso.
+
 I provvedimenti di dimissione e di espulsione dal corso determinano il rientro del personale nel ruolo e nella qualifica di provenienza. I provvedimenti di espulsione costituiscono, inoltre, causa ostativa alla partecipazione ai successivi concorsi per la nomina a vice commissario e a commissario. Si applicano le disposizioni di cui all'articolo 5, ma i periodi massimi di assenza di cui al comma 1, lettera e), e al comma 2 del predetto articolo sono ridotti della meta'. Si applicano, altresi', le disposizioni di cui al medesimo articolo 5, commi 3, 4, e, in quanto compatibili, 5.
 
 ))
@@ -222,6 +335,24 @@ La promozione a commissario dei vice commissari di cui all'articolo 5-ter, si co
 
 
 ## Art. 6. — (Promozione a vice questore aggiunto)
+
+1.
+                        
+                            
+                                La promozione a vice questore aggiunto si consegue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i commissari capo che accedono alla carriera mediante concorso pubblico, nel limite dell'ottanta per cento dei posti disponibili ((al 30 giugno e)) al 31 dicembre di ogni anno, mediante scrutinio per merito comparativo e superamento del corso di formazione dirigenziale, della durata non superiore a tre mesi, con esame finale ((, ferma restando, per coloro che superano il corso, la collocazione in ruolo secondo gli esiti delle procedure di cui alla presente lettera e alla successiva lettera b).)). Allo scrutinio per merito comparativo e' ammesso il personale della carriera dei funzionari ((che abbia compiuto almeno sei anni)) di effettivo servizio nella qualifica di commissario capo; ((, rispettivamente, entro le predette date del 30 giugno e del 31 dicembre;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    per i commissari capo che accedono alla carriera mediante concorso interno, nel limite del restante venti per cento dei posti disponibili ((al 30 giugno e)) al 31 dicembre di ogni anno, mediante concorso, per titoli ed esami, e superamento del corso di formazione di cui alla lettera a) ((del presente comma)), riservato ai commissari capo, in possesso di una delle lauree magistrali o specialistiche ((indicate dall'articolo)) 3, comma 2, con almeno sei anni di effettivo servizio nella medesima qualifica ((, rispettivamente, entro le predette date del 30 giugno e del 31 dicembre)), secondo le modalita' definite con il ((regolamento)) di cui all'articolo 4, comma 6.
 
 ((
 
@@ -354,6 +485,23 @@ Superato l'esame finale del corso gli stessi sono confermati nel ruolo dei commi
 
 ## Art. 22-bis. — Inquadramenti del personale del ruolo dei commissari
 
+1.
+                        
+                            
+                                Il personale del ruolo dei commissari in servizio alla data di entrata in vigore del presente decreto e' inquadrato, con decorrenza 15 marzo 2001, anche in soprannumero riassorbibile, nelle sottoelencate qualifiche del medesimo ruolo:
+
+                            
+                            
+                                a)
+                                
+                                    nella qualifica di vice questore aggiunto, i commissari e i commissari capo con un'anzianita' di effettivo servizio nel ruolo dei commissari non inferiore a sette anni e sei mesi, nonche' i vice questori aggiunti;
+                                
+                            
+                            
+                                b)
+                                
+                                    nella qualifica di commissario capo, i vice commissari e i commissari con un'anzianita' di effettivo servizio nel ruolo dei commissari inferiore a sette anni e sei mesi.
+
 Gli inquadramenti di cui al comma 1 sono effettuati secondo l'ordine delle qualifiche di provenienza e, nell'ambito di queste, secondo l'ordine di ruolo. Il personale di cui al comma 1, lettera a), conserva, ai fini della progressione alla qualifica superiore, l'anzianita' eccedente quella minima richiesta per l'inquadramento.
 Il personale di cui al comma 1, lettera b), conserva, ai medesimi fini, l'anzianita' maturata nel ruolo. ((2))
 
@@ -479,6 +627,23 @@ Il personale in servizio alla data di entrata in vigore del presente decreto app
 ## Art. 28-bis. — (( (Collocamento in disponibilita' a domanda). ))
 
 ((
+
+1.
+                        
+                            
+                                I destinatari delle disposizioni dell'articolo 27, i quali ne facciano richiesta almeno trenta giorni prima dell'ultimo anno di servizio, sono collocati in disponibilita' a norma dell'articolo 64, anche oltre il limite percentuale di cui al comma 1 di quest'ultimo articolo, purche':
+
+                            
+                            
+                                a)
+                                
+                                    abbiano raggiunto un'eta' anagrafica di non meno di un anno e di non piu' di tre anni inferiore a quella stabilita dallo stesso articolo per il collocamento a riposo;
+                                
+                            
+                            
+                                b)
+                                
+                                    abbiano compiuto sessantatre' anni di eta' se rivestono la qualifica di dirigente superiore ovvero di sessanta negli altri casi.
 
 Al termine del periodo massimo della disponibilita', che non puo' comunque protrarsi oltre il sessantacinquesimo anno di eta', i funzionari di cui al comma 1 sono collocati a riposo d'ufficio con il trattamento pensionistico determinato a norma dell'articolo 27, commi 3 e 4.
 
@@ -642,6 +807,23 @@ L'articolo 27 si applica anche al personale appartenente alla carriera dei funzi
 
 ## Art. 37-bis. — Inquadramenti del personale dei ruoli dei direttori tecnici
 
+1.
+                        
+                            
+                                Il personale dei ruoli dei direttori tecnici in servizio alla data di entrata in vigore del presente decreto e' inquadrato, con decorrenza 15 marzo 2001, nelle sottoelencate qualifiche del medesimo ruolo:
+
+                            
+                            
+                                a)
+                                
+                                    nella qualifica di direttore tecnico capo, i direttori tecnici e i direttori tecnici principali con un'anzianita' di effettivo servizio nel ruolo dei direttori tecnici non inferiore a sette anni e sei mesi, nonche' i direttori tecnici capo;
+                                
+                            
+                            
+                                b)
+                                
+                                    nella qualifica di direttore tecnico principale, i direttori tecnici con un'anzianita' di effettivo servizio nel ruolo dei direttori tecnici inferiore a sette anni e sei mesi.
+
 Gli inquadramenti nelle qualifiche di cui al comma 1 sono effettuati secondo l'ordine delle qualifiche di provenienza e, nell'ambito di queste, secondo l'ordine di ruolo. Il personale di cui al comma 1, lettera a), conserva, ai fini della progressione alla qualifica superiore, l'anzianita' eccedente quella minima richiesta per l'inquadramento. Il personale di cui al comma 1, lettera b) conserva, ai medesimi fini, l'anzianita' maturata nel ruolo. Si applica la disposizione di cui all'articolo 22-bis, comma 4. ((2))
 
 Dall'anzianita' richiesta per gli inquadramenti di cui al comma 1 sono detratti i periodi di ritardo nella progressione in carriera derivanti dall'applicazione di una delle cause di esclusione dagli scrutini previste dall'ordinamento vigente alla data di entrata in vigore del presente decreto.
@@ -737,6 +919,116 @@ Nell'ambito del contingente complessivo di personale della Polizia di Stato da a
 
 ## Art. 44. — (Attribuzioni dei medici di Polizia)
 
+1.
+                        
+                            
+                                I medici di Polizia, fermo restando quanto disposto dall'articolo 6, lettera z), della legge 23 dicembre 1978, n. 833, indipendentemente dal diploma di specializzazione di cui sono in possesso, hanno le seguenti attribuzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvedono all'accertamento dell'idoneita' psicofisica dei candidati ai concorsi per l'accesso ai ruoli della Polizia di Stato ed alla verifica, anche collegiale, della persistenza dei requisiti psicofisici per il personale in servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvedono all'assistenza sanitaria e di medicina preventiva del personale della Polizia di Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in relazione alle esigenze di servizio, e limitatamente alle proprie attribuzioni, possono essere impiegati in operazioni di polizia ed in operazioni di soccorso in caso di pubbliche calamita' ed eventi critici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolgono attivita' di medico competente ai sensi dell'articolo 38 del decreto legislativo 9 aprile 2008, n. 81 ed attivita' di vigilanza nell'ambito delle strutture della Polizia di Stato e di quelle di cui al terzo comma dell'articolo 13 del medesimo decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgono attivita' di vigilanza in materia di manipolazione, preparazione e distribuzione di alimenti e bevande nelle mense e negli spacci dell'Amministrazione, ferme restando le attribuzioni riservate in materia ad altri soggetti dalla legislazione vigente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    rilasciano certificazioni di idoneita' psicofisica anche con le stesse attribuzioni degli ufficiali medici delle Forze armate e del settore medico-legale delle aziende sanitarie locali, ferme restando le attribuzioni riservate in materia ad altri soggetti dalla legislazione vigente; 
+ ((f-bis. Ai direttori degli Uffici sanitari provinciali con qualifica di primo dirigente medico, o ai funzionari medici da essi incaricati, spettano, per il personale della Polizia di Stato e limitatamente alle attribuzioni di cui all'articolo 1880 decreto legislativo 15 marzo 2010, n. 66, i compiti previsti per le infermerie presidiarie di cui al precedente articolo 199;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    provvedono all'accertamento dell'idoneita' all'esercizio fisico con finalita' addestrativa all'interno delle strutture sportive dell'Amministrazione, anche con le stesse modalita' previste dal decreto del Ministro della salute 24 aprile 2013; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    provvedono all'istruttoria delle pratiche medico-legali del personale della Polizia di Stato e fanno parte delle Commissioni medico-legali della pubblica sicurezza ai sensi dell'articolo 7, comma 4, lettera a), del decreto-legge 31 agosto 2013, n. 101, convertito dalla legge 30 ottobre 2013, n. 125; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    partecipano, con voto deliberativo, alle commissioni di cui agli articoli 193 e 194 del decreto legislativo 15 marzo 2010, n. 66, allorche' vengono prese in esame pratiche relative a personale appartenente ai ruoli della Polizia di Stato; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    provvedono, anche quali componenti delle Commissioni mediche ospedaliere della sanita' e militare, alle valutazioni collegiali medico-legali inerenti il riconoscimento del diritto ai benefici previsti dalla legge 13 agosto 1980, n. 466, dalla legge 23 dicembre 2005, n. 266, dalla legge 20 ottobre 1990, n. 302, e dalla legge 23 febbraio 1990, n. 44, in materia di vittime del dovere, della criminalita' organizzata, del terrorismo, delle richieste estorsive e dell'usura; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    partecipano al collegio medico-legale di cui all'articolo 189 del decreto legislativo 15 marzo 2010, n. 66; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    svolgono, presso gli istituti di istruzione, gli enti e reparti della Polizia di Stato, attivita' didattica nel settore di competenza; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    fanno parte delle commissioni mediche locali di cui all'articolo 330 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, come modificato dal decreto del Presidente della Repubblica 16 aprile 2013, n. 68; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    svolgono accertamenti e attivita' peritale e medico-legale per conto dell'Amministrazione; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    svolgono le funzioni gia' previste per i soppressi ruoli dei direttori e dei dirigenti tecnici medico legali.
+
 Ai fini dell'espletamento delle attivita' previste dal comma 1, il Dipartimento della pubblica sicurezza puo' stipulare convenzioni con enti e strutture sanitarie pubbliche e private e con singoli professionisti in possesso di particolari competenze.
 
 L'attivita' dei medici della Polizia di Stato di cui al comma 1 puo' essere svolta nei riguardi del personale di altri enti e pubbliche amministrazioni, tramite stipula di accordi e convenzioni con il Dipartimento della pubblica sicurezza. 
@@ -760,6 +1052,80 @@ Il personale a partire dalla qualifica di medico capo e' preposto agli uffici sa
 ## Art. 45-bis. — (( (Attribuzioni dei medici veterinari di Polizia).))
 
 ((
+
+1.
+                        
+                            
+                                I medici veterinari di Polizia hanno le seguenti attribuzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantiscono il funzionamento delle infermerie specializzate medico-veterinarie per i cavalli e i cani della Polizia di Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvedono alla tutela della salute dei quadrupedi della Polizia di Stato attraverso le azioni di zooprofilassi, finalizzate alla prevenzione delle malattie infettive; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    provvedono all'accertamento dell'idoneita' dei quadrupedi per l'accettazione all'atto dell'acquisto o per l'individuazione di eventuali difetti e vizi che ne determinano la riforma; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sono responsabili della vigilanza igienico-sanitaria sugli alimenti ad essi destinati in somministrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgono funzioni peritali nelle commissioni di collaudo dei generi alimentari e di consulenza tecnica-legale sulla determinazione delle cause di perdita dei quadrupedi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    collaborano all'ispezione, alla vigilanza ed al controllo degli alimenti di origine animale e misti nelle mense e nelle strutture di ristorazione collettiva dell'amministrazione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    verificano la corretta gestione degli impianti di ricovero degli animali, nonche' dei mezzi destinati al loro trasporto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    rilasciano i nulla osta necessari per le attivita' di cui al presente articolo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    svolgono, presso gli istituti di istruzione, gli enti e reparti della Polizia di Stato, attivita' didattica nel settore di competenza; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    possono essere impiegati, in relazione alle esigenze di servizio, e limitatamente alle proprie attribuzioni, in operazioni di polizia ed in operazioni di soccorso in caso di pubbliche calamita' ed eventi critici.
 
 Per le modalita' di individuazione delle funzioni dei medici principali veterinari e delle qualifiche superiori, si applica quanto previsto dall'articolo 45, rispettivamente, per i medici principali e per i medici a partire dai medici capo.
 
@@ -881,6 +1247,23 @@ Al personale appartenente alle carriere dei medici e dei medici veterinari di Po
 
 ## Art. 53-bis. — (Inquadramenti del personale del
  ruolo dei direttivi medici)
+
+1.
+                        
+                            
+                                Il personale del ruolo dei direttivi medici in servizio alla data di entrata in vigore del presente decreto e' inquadrato, con decorrenza 15 marzo 2001, nelle sottoelencate qualifiche del medesimo ruolo:
+
+                            
+                            
+                                a)
+                                
+                                    nella qualifica di medico capo, i medici e i medici principali con un'anzianita' di effettivo servizio nel ruolo dei direttivi medici non inferiore a sette anni e sei mesi, nonche' i medici capo;
+                                
+                            
+                            
+                                b)
+                                
+                                    nella qualifica di medico principale, i medici con un'anzianita' di effettivo servizio nel ruolo dei direttivi medici inferiore a sette anni e sei mesi.
 
 Gli inquadramenti nelle qualifiche di cui al comma 1 sono effettuati secondo l'ordine delle qualifiche di provenienza e, nell'ambito di queste, secondo l'ordine di ruolo. Il personale di cui al comma 1, lettera a), conserva, ai fini della progressione alla qualifica superiore, l'anzianita' eccedente quella minima richiesta per l'inquadramento. Il personale di cui al comma 1, lettera b), conserva, ai medesimi fini, l'anzianita' maturata nel ruolo. Si applica la disposizione di cui all'articolo 22-bis, comma 4. ((2))
 
@@ -1034,6 +1417,38 @@ Per le promozioni a dirigente superiore e qualifiche equiparate, ai primi dirige
 ))
 
 ## Art. 60. — Cause di esclusione dagli scrutini
+
+1.
+                        
+                            
+                                Non e' ammesso a scrutinio il personale appartenente ((alle carriere di cui al presente decreto)) che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei tre anni precedenti lo scrutinio abbia riportato un giudizio complessivo inferiore a "distinto"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'anno precedente lo scrutinio abbia riportato la sanzione disciplinare della pena pecuniaria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei tre anni precedenti lo scrutinio abbia riportato la sanzione disciplinare della deplorazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nei cinque anni precedenti lo scrutinio abbia riportato la sanzione disciplinare della sospensione dal servizio.
 
 Le disposizioni di cui al comma 1, non trovano applicazione con riferimento ai giudizi complessivi espressi ed alle sanzioni disciplinari irrogate fino all'entrata in vigore del presente decreto.
 
@@ -1198,7 +1613,83 @@ Per l'anno 2019 le promozioni previste dagli articoli 6, 7, 9, 34, 36, 49 e 51 s
 
 ## Art. 69. — Abrogazioni
 
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto sono abrogati:
+
+                            
+                            
+                                a)
+                                
+                                    gli articoli 55, 56 e 57 della legge 1o aprile 1981, n. 121;
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 32, 33, 38, 39, 40, 41, 42, 43 e 45 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 45, commi primo e terzo, del decreto del Presidente della Repubblica 24 aprile 1982, n. 336;
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 32, 33, 38, 39, 40, 41 e 53-bis del decreto del Presidente della Repubblica 24 aprile 1982, n. 337;
+                                
+                            
+                            
+                                e)
+                                
+                                    gli articoli 1, 3, 4, 11, 14, 15, 16 e 17 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338;
+                                
+                            
+                            
+                                f)
+                                
+                                    gli articoli 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 17-bis e 21 del decreto del Presidente della Repubblica 24 aprile 1982, n. 341;
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 1-bis del decreto-legge 19 dicembre 1984, n. 858, convertito con modificazioni dalla legge 17 febbraio 1985, n. 19;
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 51 della legge 10 ottobre 1986, n. 668.
+
 ((
+
+1-bis.
+                        
+                            
+                                Con decorrenza 15 marzo 2001 sono, altresi', abrogate le seguenti disposizioni:
+
+                            
+                            
+                                a)
+                                
+                                    gli articoli 34, 35, 36 e 37 del decreto del Presidente della Repubblica 24 aprile 1982, n. 335;
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 34, 35, 36 e 37 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337;
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 9, 10, 12 e 13 del decreto del Presidente della Repubblica 24 aprile 1982, n. 338.
 
 ))
 

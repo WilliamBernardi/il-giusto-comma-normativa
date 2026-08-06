@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 1992-04-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -31,6 +31,24 @@ Il presente regolamento si applica al personale dipendente del Registro aeronaut
 Per il periodo 1 gennaio 1988-13 luglio 1988 si applica la disposizione di cui all'art. 19 del decreto del Presidente della Repubblica 13 gennaio 1990, n. 43, e successive modifiche e integrazioni. Le normative previste dal presente regolamento decorrono dal 14 luglio 1988.
 
 ## Art. 2. — Ordinamento
+
+1.
+                    
+                        
+                            Il personale dipendente del Registro aeronautico italiano, esclusi i dirigenti, e' articolato in due aree di attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                tecnico-amministrativa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                professionale.
 
 ## Art. 3. — Personale dell'area tecnico-amministrativa
 
@@ -286,9 +304,82 @@ La misura oraria dei compensi per lavoro straordinario e' pari a 1/156 dello sti
 
 Allo scopo di promuovere una piu' razionale ed efficace utilizzazione del lavoro anche sul piano territoriale e di favorire la realizzazione di progetti tesi ad ottenere un miglioramento nell'efficacia e nell'efficienza del servizio, e' istituito un fondo di incentivazione alimentato da un importo pari al 3,5% delle entrate definitivamente accertate nell'anno per prestazioni di servizi statutari.
 
+2.
+                    
+                        
+                            All'uopo, all'inizio di ogni anno, a partire dal gennaio 1990 verranno definite, attraverso la contrattazione nazionale aziendale: 
+ 
+                        
+                        
+                            a)
+                            
+                                i settori dell'organizzazione del lavoro interessati alla realizzazione dei piani; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le risorse strumentali e professionali da utilizzare rispetto agli obiettivi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i criteri per l'utilizzazione del fondo e per l'erogazione dei relativi compensi.
+
 Una quota pari al 40% del fondo viene corrisposta in ratei mensili, in modo proporzionale ai valori stipendiali di livello o qualifica, a titolo di anticipazione finalizzata all'attuazione dell'insieme delle norme afferenti all'organizzazione del lavoro.
 
 ## Art. 15. — Trattamento di missione
+
+1.
+                    
+                        
+                            Al personale inviato in missione compete: 
+ 
+                        
+                        
+                            a)
+                            
+                                il rimborso delle spese effettive di viaggio, ivi comprese quelle per supplementi e/o per servizi obbligatori, con il mezzo piu' idoneo al miglior espletamento della missione (aereo in classe economica per missioni nazionali o "business" per missioni all'estero, treno in 1a classe, vagone-letto singolo, altri mezzi pubblici disponibili). L'uso del taxi e' consentito nelle aree urbane e limitrofe per i trasferimenti da e per porti, aeroporti, stazioni ferroviarie e di altri mezzi pubblici e nei casi di svolgimento di attivita' di rappresentanza. Previa autorizzazione del dirigente dell'ufficio, e' consentito il noleggio di un'autovettura, senza autista, di media cilindrata per spostamenti in missione ove sia mancante o disagevole la possibilita' di utilizzare mezzi pubblici.
+Nel caso di autorizzazione all'uso di auto propria, verra' corrisposta una indennita' chilometrica secondo le tabelle ACI riferite ad una percorrenza annua di 20.000 km e ad un'auto di media cilindrata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rimborso delle spese dei pasti nella misura massima di L. 40.000 ciascuno. Tale misura e' rivalutata ogni anno a partire dal 1 gennaio 1990 sulla base degli indici ISTAT relativi al costo della vita; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il rimborso delle spese per il pernottamento in albergo o in residenza turistico-alberghiera di 1a categoria (4 stelle o equipollente) compresa la 1a colazione. In casi particolari (alberghi sedi di congresso, limitata disponibilita', facilitazioni tariffarie) sono riconosciute le spese effettivamente sostenute per l'alloggio.
+Il pernottamento e' riconosciuto anche in localita' diverse da quelle di missione, purche' giustificato da esigenze logistiche. Nel caso di missioni all'estero che prevedono viaggi aerei di durata superiore alle 8 ore, e' consentita una sosta intermedia; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per le missioni nazionali, una indennita', per ogni ora di missione, pari al 20% della retribuzione oraria di cui agli articoli 7 e 8; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per le missioni all'estero, per ogni giornata o frazione di giornata di missione, una indennita' pari a 1,5 volte quella spettante per le missioni nazionali di durata giornaliera; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il rimborso delle spese di assicurazione sulla vita per viaggi aerei per un massimale pari a 10 volte la retribuzione annua lorda.
 
 L'ente provvede alla copertura assicurativa di cui all'art. 6 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, e successive modificazioni e integrazioni.
 
@@ -304,6 +395,140 @@ Gli aumenti stipendiali di cui all'art. 7 sono attribuiti con decorrenza:
 Saranno favorite nell'ente tutte le iniziative e le misure necessarie per garantire un'effettiva parificazione uomo-donna nei sistemi di lavoro e nelle opportunita' professionali.
 
 ## Art. 18. — Materie oggetto di una contrattazione decentrata a livello aziendale e a livello territoriale
+
+1.
+                    
+                        
+                            Sono oggetto di contrattazione decentrata a livello aziendale le seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                criteri sulla classificazione e rilevazione delle posizioni di lavoro ai fini della loro collocazione nei livelli retributivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                proposte per l'istituzione di nuove posizioni di lavoro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                progetti generali e piani di formazione ed aggiornamento professionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                criteri per l'istituzione di rapporti di lavoro a tempo determinato ed al part-time; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                criteri per l'attuazione delle norme a tutela della salute e della integrita' fisica del personale (art. 9 della legge 20 maggio 1970, n. 300); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                utilizzazione del lavoro straordinario, relative quantita' e ripartizione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                criteri per la definizione dei carichi di lavoro e degli indicatori di produttivita'; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                criteri per i trasferimenti d'ufficio e/o domanda; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                criteri in materia di orario di servizio, di lavoro e turnazioni; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                criteri per la razionalizzazione e l'organizzazione del lavoro; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                criteri per l'utilizzo dei finanziamenti per l'incremento dell'efficienza del servizio e per l'erogazione dei compensi incentivanti; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                criteri per l'attuazione delle disposizioni sulla mobilita' del personale; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                criteri per la realizzazione dei servizi sociali; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                criteri e modalita' per la concessione dei benefici di natura assistenziale e sociale; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                criteri per la corresponsione delle indennita' di funzione e speciale.
+
+2.
+                    
+                        
+                            Sono oggetto di contrattazione decentrata a livello territoriale le seguenti materie: 
+ 
+                        
+                        
+                            a)
+                            
+                                regime orario e attuazione principi della flessibilita' e turnazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                settori ove si ricorra a prestazioni straordinarie e relative quantita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                articolazioni dei carichi di lavoro.
 
 ## Art. 19. — Assistenza legale
 

@@ -8,8 +8,8 @@ codice_redazionale: 001G0291
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,9 +29,66 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 Le disposizioni del presente regolamento si applicano al procedimento relativo alla somministrazione di alimenti e bevande da parte di circoli privati.
 
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                testo unico delle imposte sui redditi, il testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                legge, la legge 25 agosto 1991, n. 287.
+
 ## Art. 2. — Associazioni e circoli aderenti ad enti o organizzazioni nazionali aventi finalita' assistenziali
 
 Le associazioni e i circoli, di cui all'articolo 111, comma 3, del testo unico delle imposte sui redditi, aderenti ad enti o organizzazioni nazionali le cui finalita' assistenziali sono riconosciute dal Ministero dell'interno, che intendono svolgere direttamente attivita' di somministrazione di alimenti e bevande a favore dei rispettivi associati presso la sede ove sono svolte le attivita' istituzionali, presentano al Comune, nel cui territorio si esercita l'attivita', che la comunica per conoscenza alla competente Azienda Sanitaria Locale (A.S.L.) per il parere necessario all'eventuale rilascio dell'autorizzazione di idoneita' sanitaria, una denuncia di inizio attivita' ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, e successive modificazioni. Detta denuncia puo' essere presentata anche su supporto informatico, laddove le Amministrazioni comunali abbiano adottato le necessarie misure organizzative.
+
+2.
+                    
+                        
+                            Nella denuncia il legale rappresentante dichiara:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ente nazionale con finalita' assistenziali al quale aderisce;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il tipo di attivita' di somministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ubicazione e la superficie dei locali adibiti alla somministrazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                che l'associazione si trova nelle condizioni previste dall'articolo 111, commi 3, 4-bis e 4-quinquies, del testo unico delle imposte sui redditi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                che il locale, ove e' esercitata la somministrazione, e' conforme alle norme e prescrizioni in materia edilizia, igienico-sanitaria e ai criteri di sicurezza stabiliti dal Ministero dell'interno ai sensi dell'articolo 3, comma 1, della legge e, in particolare, di essere in possesso delle prescritte autorizzazioni in materia.
 
 Alla denuncia e' allegata copia semplice, non autenticata, dell'atto costitutivo o dello statuto.
 
@@ -44,6 +101,38 @@ Il legale rappresentante dell'associazione o del circolo e' obbligato a comunica
 ## Art. 3. — Associazioni e circoli non aderenti ad enti o organizzazioni nazionali con finalita' assistenziali
 
 Le associazioni e i circoli di cui all'articolo 111, comma 3, del testo unico delle imposte sui redditi, non aderenti ad enti o organizzazioni nazionali le cui finalita' assistenziali sono riconosciute dal Ministero dell'interno, che intendono svolgere direttamente attivita' di somministrazione di alimenti e bevande a favore dei rispettivi associati presso la sede ove sono svolte le attivita' istituzionali, presentano al Comune, nel cui territorio si esercita l'attivita', domanda di autorizzazione ai sensi dell'articolo 3 della legge. Detta domanda puo' essere presentata anche su supporto informatico, laddove le Amministrazioni comunali abbiano adottato le necessarie misure organizzative.
+
+2.
+                    
+                        
+                            Nella domanda, il legale rappresentante dichiara:
+ 
+                        
+                        
+                            a)
+                            
+                                il tipo di attivita' di somministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ubicazione e la superficie del locale adibito alla somministrazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                che l'associazione ha le caratteristiche di ente non commerciale, ai sensi degli articoli 111 e 111-bis del testo unico delle imposte sui redditi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                che il locale, ove e' esercitata la somministrazione, e' conforme alle norme e prescrizioni in materia edilizia, igienico-sanitaria e ai criteri di sicurezza stabiliti dal Ministero dell'interno, ai sensi dell'articolo 3, comma 1, della legge e, in particolare, di essere in possesso delle prescritte autorizzazioni in materia.
 
 Alla domanda e' allegata copia semplice, non autenticata, dell'atto costitutivo o dello statuto.
 

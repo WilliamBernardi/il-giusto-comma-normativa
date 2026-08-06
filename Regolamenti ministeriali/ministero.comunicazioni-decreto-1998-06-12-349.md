@@ -8,8 +8,8 @@ codice_redazionale: 098G0402
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -64,6 +64,63 @@ I rapporti di prova, di cui al comma 1, in originale o in copia autenticata, dev
 
 Il richiedente l'omologazione deve presentare domanda in duplice copia, di cui una in bollo con firma autenticata, indirizzata al Ministero delle comunicazioni - Direzione generale per la pianificazione e la gestione delle frequenze - Viale America, 201 - 00144 Roma, in seguito denominata DGPGF, e, per conoscenza, all'Istituto superiore delle comunicazioni e delle tecnologie dell'informazione, in seguito denominato ISCTI.
 
+2.
+                    
+                        
+                            Nella suddetta domanda devono essere indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                generalita' complete del richiedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ditta costruttrice, tipo, marca, modello dell'apparato da omologare.
+
+3.
+                    
+                        
+                            A ciascuna copia della domanda deve essere allegata la seguente documentazione tecnica timbrata e firmata dal richiedente:
+ 
+                        
+                        
+                            a)
+                            
+                                elenco delle specifiche tecniche;
+
+                            
+                        
+                        
+                            b)
+                            
+                                descrizione di funzionamento e di uso dell'apparato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                schemi a blocchi e schemi elettrici completi con indicazione ed elenco di tutti i componenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                illustrazioni e fotografie a colori delle viste esterne ed interne dell'apparato, dalle quali sia possibile individuare l'apparato stesso, la disposizione dei comandi, dei vari circuiti e dei relativi componenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuale rapporto di prova di cui all'articolo 6.
+
 La documentazione, di cui al comma 3, lettera b), deve essere redatta in lingua italiana, quella relativa alle altre lettere dello stesso comma deve essere redatta in lingua italiana o, eventualmente, in lingua inglese.
 
 La DGPGF, accertata la regolarita' della documentazione, qualora non sia stato presentato il rapporto di prova di cui all'articolo 6, provvede ad inviare all'ISCTI, incaricato di effettuare verifiche tecniche di laboratorio, copia della domanda corredata dalla documentazione tecnica.
@@ -73,6 +130,24 @@ Le verifiche tecniche sono eseguite su un esemplare del modello di apparato pres
 Effettuate le verifiche tecniche ed accertato l'avvenuto saldo di quanto dovuto, l'ISCTI comunica alla DGPGF l'esito delle verifiche stesse.
 
 La DGPGF provvede a comunicare, entro centottanta giorni dalla data di ricezione della domanda di omologazione, l'esito al richiedente e, nel caso di esito positivo, invia il certificato di omologazione.
+
+9.
+                    
+                        
+                            Il richiedente, nel presentare la domanda di cui al comma 1, puo' chiedere l'esonero dalla presentazione dell'esemplare per l'esame di laboratorio nei casi in cui:
+ 
+                        
+                        
+                            a)
+                            
+                                sono apportate lievi modifiche costruttive ad un apparato che abbia gia' ottenuto l'omologazione, tali da non alterare, a parere del costruttore, le specifiche tecniche gia' verificate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' cambiata la designazione del modello di un apparato che abbia gia' ottenuto l'omologazione.
 
 La DGPGF, valutata e verificata la richiesta di esonero, invia il nuovo certificato di omologazione al richiedente.
 

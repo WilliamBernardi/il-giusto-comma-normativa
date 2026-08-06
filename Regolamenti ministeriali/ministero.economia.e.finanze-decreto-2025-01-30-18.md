@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2025-01-30;18
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,11 +32,215 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione Consultiva per gli
 
 ## Art. 1. — Definizioni e ambito di applicazione
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                assicurato: l'impresa con sede legale in Italia e le imprese aventi sede legale all'estero con una stabile organizzazione in Italia, tenute all'iscrizione nel Registro delle imprese ai sensi dell'articolo 2188 del codice civile, ad esclusione delle imprese di cui all'articolo 2135 del codice civile, per le quali resta fermo quanto stabilito dall'articolo 1, commi 515 e seguenti, della legge 30 dicembre 2021, n. 234; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                immobilizzazioni: le immobilizzazioni di cui all'articolo 2424, primo comma, sezione Attivo, voce B-II, numeri 1), 2) e 3), del codice civile, a qualsiasi titolo impiegati per l'esercizio dell'attivita' di impresa, ossia: 
+ 1) terreni: fondi o loro porzioni, con differenti caratteristiche geografiche in relazione alla posizione e alla loro conformazione; 
+ 2) fabbricato: l'intera costruzione edile e tutte le opere murarie e di finitura, compresi fissi e infissi, opere di fondazione o interrate, impianti idrici ed igienici, impianti elettrici fissi, impianti di riscaldamento, impianti di condizionamento d'aria, impianti di segnalazione e comunicazione, ascensori, montacarichi, scale mobili, altri impianti o installazioni di pertinenza del fabbricato compresi cancelli, recinzioni, fognature nonche' eventuali quote spettanti delle parti comuni; 
+ 3) impianti e macchinari: tutte le macchine anche elettroniche e a controllo numerico e qualsiasi tipo di impianto atto allo svolgimento dell'attivita' esercitata dall'assicurato; 
+ 4) attrezzature industriali e commerciali: macchine, attrezzi, utensili e relativi ricambi e basamenti, altri impianti non rientranti nella definizione di fabbricato, impianti e mezzi di sollevamento, pesa, nonche' di imballaggio e trasporto non iscritti al P.R.A.; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                imprese di assicurazione: le imprese di cui all'articolo 1, comma 103, della legge 30 dicembre 2023, n. 213, singole o facenti parte di un gruppo di cui all'articolo 1, lettera r-bis) del Codice delle assicurazioni private (CAP) di cui al decreto legislativo 7 settembre 2005, n. 209, abilitate all'esercizio in Italia del «ramo 8» di cui all'articolo 2, comma 3, del medesimo decreto legislativo n. 209 del 2005, anche se operanti in regime di stabilimento o di libera prestazione di servizi e iscritte agli albi ed elenchi tenuti dall'Istituto per la vigilanza sulle assicurazioni (IVASS), che svolgano attivita' di sottoscrizione di contratti assicurativi, a livello singolo o di gruppo, a copertura dei danni di cui alla successiva lettera d). L'ultima societa' controllante italiana, come definita dall'articolo 210, commi 2 e 3, del Codice delle assicurazioni private (CAP) di cui al decreto legislativo 7 settembre 2005, n. 209, ha facolta' di designare una o piu' imprese del gruppo, quali soggetti abilitati ad adempiere all'obbligo di sottoscrizione dei contratti assicurativi a copertura dei danni di cui al presente decreto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                oggetto della copertura assicurativa: i danni alle immobilizzazioni di cui alla lettera b), direttamente cagionati dagli eventi di cui all'articolo 3 del presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                premio assicurativo: l'importo che il contraente, anche mediante la adesione a polizze collettive, deve pagare all'assicuratore come corrispettivo del contratto di assicurazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                franchigia: importo fisso convenuto in polizza, calcolato in valore assoluto o in percentuale sulla somma assicurata e dedotto dall'indennizzo in caso di sinistro; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                scoperto: importo convenuto in polizza come limite minimo in termini assoluti ovvero come percentuale di danno indennizzabile, che rimane a carico dell'assicurato; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                massimale o limite di indennizzo: importo massimo corrisposto per sinistro che esaurisce gli obblighi da parte dell'impresa di assicurazione in merito agli eventi oggetto di copertura e che puo' essere minore o uguale alla somma assicurata; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                indennizzo: l'importo pagato all'assicurato dalla compagnia di assicurazione per i danni subiti in conseguenza di uno degli eventi inclusi in copertura; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                valore di ricostruzione: importo necessario per la ricostruzione a nuovo del fabbricato con beni equivalenti per materiali, tipologia, caratteristiche costruttive, dimensioni e funzionalita'; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                costo di rimpiazzo: valore necessario a sostenere i costi di sostituzione dei beni danneggiati con beni della medesima utilita', correntemente offerti sul mercato; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                costo di ripristino: valore necessario a sostenere i costi dei lavori di sgombero, bonifica e ripristino delle caratteristiche meccaniche e topografiche del terreno ad una condizione pari a quella precedente all'evento assicurato; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                grandi imprese: le imprese che alla data di chiusura del bilancio presentano, congiuntamente, i seguenti elementi: 
+ 1) fatturato maggiore di 150 milioni di euro; 
+ 2) numero di dipendenti pari o superiore a 500; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                somma assicurata: l'importo che rappresenta il massimo esborso dell'impresa di assicurazione in relazione alle garanzie prestate; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                copertura assicurativa a primo rischio assoluto: l'impegno della compagnia, in caso di sinistro, a indennizzare il danno fino a concorrenza del valore assicurato e anche quando il valore assicurato e' inferiore al valore effettivo dei beni assicurati, senza l'applicazione della regola proporzionale prevista dall'art. 1907 del codice civile.
+
 Sono esclusi dalla copertura assicurativa i beni immobili che risultino gravati da abuso edilizio o costruiti in carenza delle autorizzazioni previste ovvero gravati da abuso sorto successivamente alla data di costruzione.
+
+3.
+                    
+                        
+                            La polizza assicurativa, stipulata ai sensi del presente decreto, non copre: 
+ 
+                        
+                        
+                            a)
+                            
+                                i danni che sono conseguenza diretta del comportamento attivo dell'uomo o i danni a terzi provocati dai beni assicurati a seguito di eventi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i danni conseguenza diretta o indiretta di atti di conflitti armati, terrorismo, sabotaggio, tumulti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i danni relativi a energia nucleare, armi, sostanze radioattive, esplosive, chimiche o derivanti da inquinamento o contaminazione.
 
 ## Art. 2. — Oggetto
 
+1.
+                    
+                        
+                            Il presente decreto disciplina: 
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di individuazione degli eventi calamitosi e catastrofali di cui all'articolo 1, comma 101, della legge 30 dicembre 2023, n. 213; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di determinazione e adeguamento periodico dei premi, anche tenuto conto del principio di mutualita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i limiti alla capacita' di assunzione del rischio da parte delle imprese assicuratrici, ai sensi dell'articolo 1, comma 103, della legge 30 dicembre 2023, n. 213; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'aggiornamento dei valori di cui all'articolo 1, comma 104, della legge 30 dicembre 2023, n. 213; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di coordinamento in relazione agli atti di regolazione e vigilanza prudenziale di competenza dell'IVASS.
+
 ## Art. 3. — Eventi calamitosi e catastrofali
+
+1.
+                    
+                        
+                            Ai fini dell'articolo 1, comma 101, della legge 30 dicembre 2023, n. 213, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                alluvione, inondazione ed esondazione: fuoriuscita d'acqua, anche con trasporto ovvero mobilitazione di sedimenti anche ad alta densita', dalle usuali sponde di corsi d'acqua, di bacini naturali o artificiali, dagli argini di corsi naturali e artificiali, da laghi e bacini, anche a carattere temporaneo, da reti di drenaggio artificiale, derivanti da eventi atmosferici naturali. Sono considerate come singolo evento le prosecuzioni di tali fenomeni entro le settantadue ore dalla prima manifestazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sisma: sommovimento brusco e repentino della crosta terrestre dovuto a cause endogene, purche' i beni assicurati si trovino in un'area individuata tra quelle interessate dal sisma nei provvedimenti assunti dalle autorita' competenti, localizzati dalla Rete sismica nazionale dell'Istituto nazionale di geofisica e vulcanologia (INGV) in relazione all'epicentro del sisma. Le scosse registrate nelle settantadue ore successive al primo evento che ha dato luogo al sinistro indennizzabile sono attribuite a uno stesso episodio e i relativi danni sono considerati singolo sinistro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                frana: movimento, scivolamento o distacco rapido di roccia, detrito o terra lungo un versante o un intero rilievo sotto l'azione della gravita', scoscendimento di terre e rocce anche non derivate da infiltrazioni d'acqua. Sono considerate come singolo evento le prosecuzioni di tali fenomeni entro le settantadue ore dalla prima manifestazione.
 
 ## Art. 4. — Determinazione e adeguamento periodico dei premi
 
@@ -74,6 +278,24 @@ Ai sensi dell'articolo 1, comma 104, della legge 30 dicembre 2023, n. 213, per l
 Fermo l'obbligo di copertura assicurativa, per la fascia superiore a 30 milioni di euro di somma assicurata, avuto riguardo al totale complessivo delle ubicazioni assicurate, ovvero per le grandi imprese di cui all'articolo 1, comma 1, lettera o), del presente decreto, la determinazione della percentuale di danno indennizzabile che rimane a carico dell'assicurato e' rimessa alla libera negoziazione delle parti.
 
 ## Art. 7. — Massimali o limiti di indennizzo
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 1, comma 105, della legge 30 dicembre 2023, n. 213, le polizze assicurative possono prevedere l'applicazione di massimali o limiti di indennizzo che, ove convenuto dalle parti, rispettano i seguenti principi: 
+ 
+                        
+                        
+                            a)
+                            
+                                per la fascia fino a 1 milione di euro di somma assicurata trova applicazione un limite di indennizzo pari alla somma assicurata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la fascia da 1 milione a 30 milioni di euro di somma assicurata trova applicazione un limite di indennizzo non inferiore al 70 per cento della somma assicurata.
 
 Fermo l'obbligo di copertura assicurativa, per la fascia superiore a 30 milioni di euro di somma assicurata ovvero per le grandi imprese di cui all'articolo 1, comma 1, lettera o), la determinazione di massimali o limiti di indennizzo e' rimessa alla libera negoziazione delle parti.
 

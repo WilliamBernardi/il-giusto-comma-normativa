@@ -7,8 +7,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-07-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -104,11 +104,75 @@ Il Governo riferisce annualmente al Parlamento sulle attivita' di protezione civ
 
 Attribuzioni delle autorita' territoriali di protezione civile (Articolo 1-bis, comma 2, legge 225/1992; Articolo 5, comma 5, decreto-legge 343/2001, conv. legge 401/2001)
 
+1.
+                        
+                            
+                                Nel rispetto delle direttive adottate ai sensi dell'articolo 15 e di quanto previsto dalla legislazione regionale, i Sindaci, in conformita' di quanto previsto dal decreto legislativo 18 agosto 2000, n. 267, i Sindaci metropolitani e i Presidenti delle Regioni, in qualita' di autorita' territoriali di protezione civile, esercitano le funzioni di vigilanza sullo svolgimento integrato e coordinato delle medesime attivita' da parte delle strutture afferenti alle rispettive amministrazioni. Le autorita' territoriali di protezione civile sono responsabili, con riferimento agli ambiti di governo e alle funzioni di competenza e nel rispetto delle vigenti normative in materia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del recepimento degli indirizzi nazionali in materia di protezione civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della promozione, dell'attuazione e del coordinamento delle attivita' di cui all'articolo 2 esercitate dalle strutture organizzative di propria competenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della destinazione delle risorse finanziarie finalizzate allo svolgimento delle attivita' di protezione civile, in coerenza con le esigenze di effettivita' delle funzioni da esercitare, come disciplinate nella pianificazione di cui all'articolo 18; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'articolazione delle strutture organizzative preposte all'esercizio delle funzioni di protezione civile ((di propria competenza)) e dell'attribuzione, alle medesime strutture, di personale adeguato e munito di specifiche professionalita', anche con riferimento alle attivita' di presidio delle sale operative, della rete dei centri funzionali nonche' allo svolgimento delle attivita' dei presidi territoriali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    della disciplina di procedure e modalita' di organizzazione dell'azione amministrativa delle strutture e degli enti afferenti alle rispettive amministrazioni, peculiari e semplificate al fine di assicurarne la prontezza operativa e di risposta in occasione o in vista degli eventi di cui ((all'articolo 7)).
+
 ## - - Capo II Organizzazione del Servizio nazionale della protezione civile Sezione I Eventi di protezione civile
 
 ## Art. 7.
 
 Tipologia degli eventi emergenziali di protezione civile (Articolo 2, legge 225/1992)
+
+1.
+                        
+                            
+                                Ai fini dello svolgimento delle attivita' di cui all'articolo 2, gli eventi emergenziali di protezione civile si distinguono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    emergenze connesse con eventi calamitosi di origine naturale o derivanti dall'attivita' dell'uomo che possono essere fronteggiati mediante interventi attuabili, dai singoli enti e amministrazioni competenti in via ordinaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emergenze connesse con eventi calamitosi di origine naturale o derivanti dall'attivita' dell'uomo che per loro natura o estensione comportano l'intervento coordinato di piu' enti o amministrazioni, e debbono essere fronteggiati con mezzi e poteri straordinari da impiegare durante limitati e predefiniti periodi di tempo, disciplinati dalle Regioni e dalle Province autonome di Trento e di Bolzano nell'esercizio della rispettiva potesta' legislativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    emergenze di rilievo nazionale connesse con eventi calamitosi di origine naturale o derivanti dall'attivita' dell'uomo che in ragione della loro intensita' o estensione debbono, con immediatezza d'intervento, essere fronteggiate con mezzi e poteri straordinari da impiegare durante limitati e predefiniti periodi di tempo ai sensi dell'articolo 24.
 
 ## - - Sezione II Organizzazione del Servizio nazionale della protezione civile
 
@@ -208,6 +272,66 @@ Funzioni dei Comuni ed esercizio della funzione associata nell'ambito del Serviz
 ## Art. 13.
 
 Strutture operative del Servizio nazionale della protezione civile (Articoli 1-bis, comma 3, e 11 legge 225/1992)
+
+1.
+                        
+                            
+                                Oltre al Corpo nazionale dei vigili del fuoco, che opera quale componente fondamentale del Servizio nazionale della protezione civile, sono strutture operative nazionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le Forze armate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le Forze di polizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli enti e istituti di ricerca di rilievo nazionale con finalita' di protezione civile, anche organizzati come centri di competenza, l'Istituto nazionale di geofisica e vulcanologia e il Consiglio nazionale delle ricerche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le strutture del Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il volontariato organizzato di protezione civile iscritto nell'elenco nazionale del volontariato di protezione civile, l'Associazione della Croce rossa italiana e il Corpo nazionale del soccorso alpino e speleologico; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il Sistema nazionale per la protezione dell'ambiente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le strutture preposte alla gestione dei servizi meteorologici a livello nazionale. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    le articolazioni centrali e periferiche del Ministero per i beni e le attivita' culturali e per il turismo appositamente organizzate per la gestione delle attivita' di messa in sicurezza e salvaguardia del patrimonio culturale in caso di emergenze derivanti da calamita' naturali.
 
 Concorrono, altresi', alle attivita' di protezione civile gli ordini e i collegi professionali e i rispettivi Consigli nazionali, anche mediante forme associative o di collaborazione o di cooperazione appositamente definite tra i rispettivi Consigli nazionali nell'ambito di aree omogenee, e gli enti, gli istituti e le agenzie nazionali che svolgono funzioni in materia di protezione civile e aziende, societa' e altre organizzazioni pubbliche o private che svolgono funzioni utili per le finalita' di protezione civile.
 
@@ -634,7 +758,254 @@ In caso di eventi di cui all'articolo 7, comma 1, lettere b) e c), del presente 
 
 ## Art. 47. — Coordinamento dei riferimenti normativi
 
+1.
+                        
+                            
+                                Tutti i riferimenti alla legge 24 febbraio 1992, n. 225 e ai relativi articoli, contenuti in altre disposizioni, si intendono riferiti al presente decreto e ai corrispondenti articoli. In particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 11 della legge n. 225 del 1992, citato nell'articolo 4, comma 2, del decreto legislativo 29 maggio 2017, n. 97, deve intendersi riferito all'articolo 13 del presente decreto legislativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 2 e 5 della legge n. 225 del 1992, citati nei commi 6 e 8 dell'articolo 163 del decreto legislativo 18 aprile 2016, n. 50, devono intendersi rispettivamente riferiti agli articoli 7 e 24 del presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 3-bis della legge n. 225 del 1992, citato nell'articolo 39, comma 1, del decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, deve intendersi riferito all'articolo 17 del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 15 della legge n. 225 del 1992, citato nell'articolo 1, comma 112, legge 7 aprile 2014, n. 56, deve intendersi riferito all'articolo 12 del presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli articoli 2 e 14 della legge n. 225 del 1992, citati nell'articolo 10, comma 1, del decreto legislativo 18 aprile 2012, n.61, devono intendersi rispettivamente riferiti agli articoli 7 e 9 del presente decreto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 2 della legge n. 225 del 1992, citato nell'articolo 47, comma 1, della legge 24 dicembre 2012, n. 234, deve intendersi riferito all'articolo 7 del presente decreto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 5 della legge n. 225 del 1992, citato negli articoli 11, comma 1, e nell'articolo 13, comma 2, del decreto legislativo 30 giugno 2011, n.123, deve intendersi riferito all'articolo 27 del presente decreto; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 11 della legge n. 225 del 1992, citato nell'articolo 92, comma 1, e nell'articolo 137, comma 1, del decreto legislativo 15 marzo 2010 n. 66, deve intendersi riferito all'articolo 13 del presente decreto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 5 della legge n. 225 del 1992, citato negli articoli 119, comma 1, 133, comma 1, e nell'articolo 135, comma 1, del decreto legislativo 2 luglio 2010, n. 104, deve intendersi riferito agli articoli 24, 25 e 26 del presente decreto; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 8-bis, comma 1, del decreto-legge 30 novembre 2005, n. 245, convertito, con modificazioni, dalla legge 27 gennaio 2006, n. 21, deve intendersi riferito all'articolo 25 del presente decreto; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 67, commi 2 e 3, e nell'articolo 191, comma 1, del decreto legislativo 3 aprile 2006, n. 152, deve intendersi riferito agli articoli 24 e 25 del presente decreto; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'articolo 3, comma 6, legge n. 225 del 1992 citato nell'articolo 158-bis del decreto legislativo 3 aprile 2006, n. 152, deve intendersi riferito all'articolo 18, comma 3, del presente decreto; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    gli articoli 10 e 11 della legge n. 225 del 1992, citati nell'articolo 1, comma 2, nell'articolo 3, comma 1, e nell'articolo 24, comma 2, del decreto legislativo 8 marzo 2006, n. 139, devono intendersi rispettivamente riferiti agli articoli 14 e 13 del presente decreto; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 15, comma 1, della legge 31 ottobre 2003, n. 306, deve intendersi riferito all'articolo 25 del presente decreto; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 22, comma 2, del decreto legislativo 19 maggio 2000, n. 139, deve intendersi riferito agli articoli 25 e 26 del presente decreto; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 1, comma 1, e nell'articolo 2, comma 2, del decreto-legge 12 ottobre 2000, n. 279, convertito, con modificazioni, dalla legge 11 dicembre 2000, n. 365, deve intendersi riferito agli articoli 24, 25 e 26 del presente decreto; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    gli articoli 6 e 17 della legge n. 225 del 1992, citati nell'articolo 2, commi 1 e 2, del decreto legislativo 29 settembre 1999, n. 381, devono intendersi rispettivamente riferiti agli articoli 4, 13 e 19 del presente decreto; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    l'articolo 2 della legge n. 225 del 1992, citato nell'articolo 54, comma 2-bis, del decreto legislativo 30 luglio 1999, n. 300, deve intendersi riferito all'articolo 7 del presente decreto; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    l'articolo 11 della legge n. 225 del 1992, citato nell'articolo 1, comma 6, lettera a), numero 2) della legge 31 luglio 1997, n. 249, deve intendersi riferito all'articolo 13 del presente decreto; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    l'articolo 10 della legge n. 225 del 1992, citato nell'articolo 123, comma 2, del decreto legislativo 17 marzo 1995, n. 230, deve intendersi riferito all'articolo 14 del presente decreto; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    l'articolo 5 della legge n. 225 del 1992, citato nell'articolo 12, comma 7, della legge 21 novembre 2000, n. 353, deve intendersi riferito agli articoli 25 e 26 del presente decreto. 
+ ((1-bis) All'articolo 10, comma 2, della legge 11 agosto 2014, n. 125, le parole "4 del decreto-legge 31 maggio 2005, n. 90, convertito con modificazioni, dalla legge 26 luglio 2005, n. 152." sono sostituite con le seguenti: " 29 del decreto legislativo 2 gennaio 2018, n. 1.))
+
 ## Art. 48. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dalla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 24 febbraio 1992, n. 225; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 23-sexies, comma 4, del decreto-legge 30 gennaio 1998, n. 6, convertito, con modificazioni, dalla legge 30 marzo 1998, n. 61; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 107, comma 1, lettere a), b), c), d), f) numeri 1), 2) e 4), g) e h) e comma 2 nonche' l' articolo 108 del decreto legislativo 31 marzo 1998, n. 112; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Presidente della Repubblica 8 febbraio 2001, n. 194; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 5 del decreto-legge 7 settembre 2001, n. 343, convertito, con modificazioni, dalla legge 9 novembre 2001, n. 401; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 3 del decreto-legge 4 novembre 2002, n. 245, convertito, con modificazioni, dalla legge 27 dicembre 2002, n. 286; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli articoli 4 e 8 del decreto-legge 31 maggio 2005, n. 90, convertito, con modificazioni, dalla legge 26 luglio 2005, n. 152; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 6, comma 1, del decreto-legge 9 ottobre 2006, n. 263, convertito, con modificazioni, dalla legge 6 dicembre 2006, n. 290; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 14 del decreto-legge 23 maggio 2008, n. 90, convertito, con modificazioni, dalla legge 14 luglio 2008, n. 123; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 4, comma 9-bis, e l'articolo 15, commi 2 e 3, del decreto-legge 28 aprile 2009, n. 39, convertito, con modificazioni, dalla legge 24 giugno 2009, n. 77; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 1, commi 1 e 3 e l'articolo 1-bis del decreto-legge 15 maggio 2012, n. 59, convertito, con modificazioni, dalla legge 12 luglio 2012, n. 100; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'articolo 1, comma 422, della legge 27 dicembre 2013, n. 147; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'articolo 27 della legge 29 luglio 2015, n. 115.
 
 ## Art. 49.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2019-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,9 +30,73 @@ Sulla proposta del Ministro delle infrastrutture e dei trasporti, di concerto co
 
 Le disposizioni del presente regolamento disciplinano le modalita' di ripartizione e di erogazione della somma di cui al comma 2-ter dell'articolo 3 del decreto-legge 24 settembre 2002, n. 209, convertito, con modificazioni, dalla legge 22 novembre 2002, n. 265, di seguito denominata: «la legge», in relazione agli interventi correlati alle finalita' di cui al medesimo comma 2-ter.
 
+2.
+                        
+                            
+                                Ai fini del presente regolamento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per «catene logistiche» s'intende: l'insieme della capacita' d'integrazione sistemica tra i vari soggetti che intervengono nel ciclo complesso del trasporto sia sotto il profilo infrastrutturale che tecnologico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «cabotaggio marittimo» s'intende: il trasporto via mare di merci e autoveicoli isolati o complessi destinati al trasporto di cose e rimorchi e semirimorchi, tra porti nazionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «innovazione tecnologica» s'intende: l'insieme di interventi finalizzati all'ottimizzazione delle risorse tecnologiche aziendali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per «ristrutturazione aziendale» s'intendono: le attivita' volte all'ottimizzazione e all'ammodernamento delle strutture aziendali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per «miglioramento ambientale» s'intende: la realizzazione di standard piu' elevati in materia di emissioni gassose, acustiche, elettromagnetiche e quant'altro necessario al raggiungimento degli obiettivi fissati in materia di tutela dell'ambiente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per «potenziamento dell'intermodalita» s'intende: la realizzazione di interventi mirati alla effettuazione di trasporto di merci mediante fruizione combinata di almeno due diverse modalita' (strada-rotaia, rotaia-mare, strada-mare, ((strada-vie d'acqua navigabili interne, mare-vie d'acqua navigabili interne,)) terra-aria) con le specifiche finalita' del decongestionamento del traffico su strada nonche' del raggiungimento di standard di sicurezza piu' elevati.
+
 Gli interventi agevolativi previsti dall'articolo 3, comma 2-ter, della legge hanno durata triennale a fare data dalla vigenza dei successivi provvedimenti attuativi.
 
 ## Art. 2. — Ripartizione percentuale dei fondi
+
+1.
+                        
+                            
+                                Lo stanziamento di 20 milioni di euro quale limite d'impegno quindicennale a carico dello Stato recato dall'articolo 3, comma 2-ter della legge, e' ripartito secondo le seguenti percentuali per le sottoindicate finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    90 per cento per interventi di innovazione del sistema dell'autotrasporto merci, dello sviluppo delle catene logistiche e del potenziamento dell'intermodalita', con particolare riferimento all'utilizzazione della modalita' marittima ((e per vie d'acqua navigabili interne)) in luogo di quella stradale, nonche' per lo sviluppo del cabotaggio marittimo e per interventi di miglioramento ambientale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    10 per cento per interventi di ristrutturazione aziendale e per l'innovazione tecnologica, connessi agli obiettivi di cui alla lettera a).
 
 Con successivi regolamenti, da emanare con decreto del Presidente della Repubblica, su proposta del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, sono modificate le percentuali di cui al comma 1 qualora le richieste di accesso ai benefici evidenziassero la necessita' di rimodulazione degli interventi per le finalita' di cui all'articolo 3, comma 2-ter, della legge, anche in relazione a possibilita' di cumulo con interventi regionali.
 
@@ -56,9 +120,59 @@ L'individuazione dei costi esterni prodotti, su ciascuna tratta interessata dal 
 
 Il decreto ministeriale di cui al comma 1 prevede il riconoscimento di un ulteriore contributo alle imprese od aggregazioni imprenditoriali che raggiungano il livello di 1.600 viaggi annui per ciascuna tratta. L'importo globale dei contributi non supera comunque i massimali di cui all'articolo 2, comma 3.
 
+6.
+                        
+                            
+                                Le tratte marittime di cui al comma 1 sono individuate con un decreto ministeriale, sulla base dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    idoneita' della tratta marittima a favorire il trasferimento di consistenti quote di traffico dalla modalita' stradale a quella marittima;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' della tratta marittima a ridurre la congestione stradale sulla rete viaria nazionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevedibile miglioramento degli standard ambientali ottenibile a seguito della percorrenza della tratta marittima, in luogo del corrispondente percorso stradale.
+
 I benefici sono erogati a condizione che i livelli tariffari si mantengano costanti, in rapporto all'andamento del tasso di inflazione.
 
 ## Art. 4. — Finanziamenti
+
+1.
+                        
+                            
+                                Per le finalita' di cui all'articolo 2, comma 1, lettera b), e fermo restando il limite di stanziamento ad esse riservato da tale disposizione, le imprese o i rappresentanti di imprese, che presentino piani aziendali volti a realizzare dette finalita', possono accedere a contributi a carico dello Stato, a titolo di copertura dei costi ammissibili, secondo i seguenti massimali:
+ 
+                            
+                            
+                                a)
+                                
+                                    30 per cento per forme di aggregazione fra imprese;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    50 per cento per iniziative di formazione del personale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    30 per cento per l'acquisto di attrezzature e dispositivi atti a migliorare la sicurezza.
 
 ## - Capo III Procedure di richiesta e di erogazione dei benefici
 
@@ -67,6 +181,52 @@ I benefici sono erogati a condizione che i livelli tariffari si mantengano costa
 Per accedere ai benefici di cui all'articolo 2, comma 1, lettera a), gli interessati devono presentare un'istanza al Ministero delle infrastrutture e dei trasporti, entro il 31 gennaio dell'anno solare successivo a quello in cui i viaggi sono stati effettuati.
 
 L'istanza contiene l'impegno dei soggetti interessati a mantenere per il triennio successivo a quello per il quale hanno ricevuto il contributo, lo stesso numero di viaggi effettuati o lo stesso quantitativo di merci trasportate nel triennio precedente.
+
+3.
+                        
+                            
+                                La domanda deve essere redatta utilizzando dei moduli predisposti con decreto del Ministro delle infrastrutture e dei trasporti. Tali moduli devono prevedere, tra l'altro:
+ 
+                            
+                            
+                                a)
+                                
+                                    la ragione sociale dell'impresa o del raggruppamento di imprese;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sede dell'impresa o del raggruppamento di imprese;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il legale rappresentante dell'impresa o del raggruppamento di imprese;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indirizzo del legale rappresentante dell'impresa o del raggruppamento di imprese;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per ciascuna tratta di cabotaggio marittimo utilizzata nel precedente anno solare, il totale dei viaggi effettuati;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la firma del legale rappresentante dell'impresa o del raggruppamento di imprese.
 
 ## Art. 6. — Valutazione delle istanze e procedure per l'erogazione dei contributi
 
@@ -77,6 +237,31 @@ L'erogazione dei contributi di cui all'articolo 3 e' effettuata sulla base del v
 Per accedere ai benefici previsti dal presente regolamento, l'impresa richiedente deve avere eseguito almeno il numero minimo di viaggi, indicato nell'articolo 3, comma 4.
 
 Qualora, in base al numero delle istanze ammissibili i contributi da erogare superino i fondi disponibili per l'anno di competenza, la misura dei contributi e' definita con apposito provvedimento ministeriale.
+
+5.
+                        
+                            
+                                Per i finanziamenti di cui all'articolo 4, la Commissione valuta le istanze, con le modalita' che sono stabilite con decreto del Ministro delle infrastrutture e dei trasporti, tenendo conto dei criteri prioritari di seguito indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    ristrutturazione delle aziende anche con la formazione di aggregazioni cosi' come previsto dalla vigente normativa in materia societaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formazione del personale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisto di attrezzature e dispositivi che migliorino la sicurezza.
 
 ## Art. 7. — Graduatorie
 

@@ -8,8 +8,8 @@ codice_redazionale: 090G0353
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -72,6 +72,54 @@ Le bevande di cui al presente decreto possono essere confezionate in contenitori
 
 Non e' consentito utilizzare bottiglie di vetro del tipo renana, bordolese, borgognona, champagnotta, marsala e fiasco toscano. E' vietato altresi' utilizzare abbigliamenti, sistemi di chiusura, gabbiette propri dei vini spumanti, salvo che per le bevande di fantasia a base di vino spumante per le quali e' consentita altresi' utilizzare la bottiglia di vetro di tipo champagnotta.
 
+3.
+                    
+                        
+                            Nella etichettatura delle bevande di cui al presente decreto devono essere riportati:
+ 
+                        
+                        
+                            a)
+                            
+                                le diciture "bevanda di fantasia a base di vino" o "bevanda a base di vino spumante" e "bevanda di fantasia proveniente dall'uva" che devono essere scritte in caratteri bene evidenti di dimensioni non inferiori a mm 3 di altezza e mm 2 di larghezza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elenco delle sostanze impiegate nella preparazione in ordine decrescente di quantita', precedute dal termine "ingredienti";
+
+                            
+                        
+                        
+                            c)
+                            
+                                il volume nominale del prodotto riportato a mezzo di cifre di altezza minima di 6 millimetri per le capacita' superiori al litro, di 4 millimetri quelle fino al litro e di 3 millimetri per quelle fino a 200 millilitri, seguito dall'unita' di misura utilizzata (litri, centilitri o millilitri) o dal simbolo di tali unita' (l, cl o ml);
+
+                            
+                        
+                        
+                            d)
+                            
+                                il termine consigliato per la consumazione, riportato come appresso: "da consumarsi preferibilmente entro il.................... " (mese, anno), nel rispetto dell'art. 10 del decreto del Presidente della Repubblica n. 322/82;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il nome o la ragione sociale e la sede
+dell'imbottigliatore o di un venditore stabilito nella Comunita'
+economica europea diverso dall'imbottigliatore;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la gradazione alcolometrica effettiva in unita' e mezze unita'.
+
 ## Art. 7.
 
 La preparazione delle bevande di cui al presente decreto deve essere effettuata in cantine o stabilimenti all'uopo autorizzati dal Ministero dell'agricoltura e delle foreste che dispongano delle strutture idonee alla stabilizzazione fisica come previsto dal paragrafo 2 dell'art. 9- bis della legge 7 agosto 1986, n. 462, in cui non si producano o imbottiglino bevande diverse dal vino o dai succhi di uva.
@@ -83,6 +131,31 @@ Le ditte che producono e/o imbottigliano le bevande suddette devono tenere un ap
 E' consentito utilizzare nella registrazione i sistemi di automazione coi relativi tempi tecnici.
 
 ## Art. 8.
+
+1.
+                    
+                        
+                            Nella preparazione delle bevande di cui al presente decreto sono consentite:
+ 
+                        
+                        
+                            a)
+                            
+                                per i prodotti a base vitivinicola, le pratiche ed i trattamenti dell'allegato VI ai Regolamenti CEE n. 822/87 e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i succhi di frutta e le sostanze aromatizzanti, le pratiche ed i trattamenti di cui al decreto ministeriale 31 marzo 1965 e successive modificazioni ed integrazioni, esclusa l'aggiunta di antifermentativi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'aggiunta di acido citrico secondo razionale tecnologia.
 
 ## Art. 9.
 

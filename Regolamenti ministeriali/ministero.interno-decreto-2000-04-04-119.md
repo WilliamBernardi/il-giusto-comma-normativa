@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2020-08-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,29 @@ Le indennita' di funzione per i sindaci ed i presidenti delle province e i getto
 In ogni caso l'importo dell'indennita' di funzione del presidente della provincia e quello del sindaco del comune capoluogo della provincia stessa devono essere equivalenti, prendendo come riferimento l'importo tra i due che, come determinato ai sensi del presente decreto, risulti maggiore, salvo quanto previsto dal successivo articolo 3, comma 5.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Gli importi risultanti dalla tabella A sono maggiorati: 
+
+                        
+                        
+                            a)
+                            
+                                del 5% per i comuni caratterizzati da fluttuazioni stagionali della popolazione, tali da alterare, incrementandolo del 30%, il parametro della popolazione dimorante; l'incremento, verificabile anche attraverso i consumi idrici ed altri dati univoci ed obiettivamente rilevabili, dovra' essere attestato dall'ente interessato; 
+                            
+                        
+                        
+                            b)
+                            
+                                del 3% per gli enti la cui percentuale di entrate proprie rispetto al totale delle entrate, risultante dall'ultimo conto del bilancio approvato, sia superiore alla media regionale per fasce demografiche di cui alle tabelle B e B1 allegate; 
+                            
+                        
+                        
+                            c)
+                            
+                                del 2% per gli enti la cui spesa corrente pro-capite risultante dall'ultimo conto del bilancio approvato sia superiore alla media regionale per fasce demografiche di cui alle tabelle C e C1.
 
 Le maggiorazioni di cui sopra sono cumulabili.
 

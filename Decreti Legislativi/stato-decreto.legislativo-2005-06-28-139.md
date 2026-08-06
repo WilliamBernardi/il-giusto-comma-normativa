@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-12-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,213 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'is
 
 Agli iscritti nell'Albo dei dottori commercialisti e degli esperti contabili, di seguito denominato "Albo", e' riconosciuta competenza specifica in economia aziendale e diritto d'impresa e, comunque, nelle materie economiche, finanziarie. tributarie, societarie ed amministrative.
 
+2.
+                        
+                            
+                                In particolare, formano oggetto della professione le seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    l'amministrazione e la liquidazione di aziende, di patrimoni e di singoli beni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le perizie e le consulenze tecniche;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le ispezioni e le revisioni amministrative;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la verificazione ed ogni altra indagine in merito alla attendibilita' di bilanci, di conti, di scritture e di ogni altro documento contabile delle imprese ed enti pubblici e privati;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i regolamenti e le liquidazioni di avarie;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le funzioni di sindaco e di revisore nelle societa' commerciali, enti non commerciali ed enti pubblici.
+
+3.
+                        
+                            
+                                Ai soli iscritti nella Sezione A Commercialisti dell'Albo e' riconosciuta competenza tecnica per l'espletamento delle seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    la revisione e la formulazione di giudizi o attestazioni in merito ai bilanci di imprese ed enti, pubblici e privati, non soggetti al controllo legale dei conti, ove prevista dalla legge o richiesta dall'autorita' giudiziaria, amministrativa o da privati, anche ai fini dell'accesso e del riconoscimento di contributi o finanziamenti pubblici, anche comunitari, nonche' l'asseverazione della rendicontazione dell'impiego di risorse finanziarie pubbliche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le valutazioni di azienda;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'assistenza e la rappresentanza davanti agli organi della giurisdizione tributaria di cui al decreto legislativo 31 dicembre 1992, n. 545;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'incarico di curatore, commissario giudiziale e commissario liquidatore nelle procedure concorsuali, giudiziarie e amministrative, e nelle procedure di amministrazione straordinaria, nonche' l'incarico di ausiliario del giudice, di amministratore e di liquidatore nelle procedure giudiziali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le funzioni di sindaco e quelle di componente di altri organi di controllo o di sorveglianza, in societa' o enti, nonche' di amministratore, qualora il requisito richiesto sia l'indipendenza o l'iscrizione in albi professionali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le funzioni di ispettore e di amministratore giudiziario nei casi previsti dall'articolo 2409 del codice civile;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la predisposizione e diffusione di studi e ricerche di analisi finanziaria aventi ad oggetto titoli di emittenti quotate che contengono previsioni sull'andamento futuro e che esplicitamente o implicitamente forniscono un consiglio d'investimento;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la valutazione, in sede di riconoscimento della personalita' giuridica delle fondazioni e delle associazioni, dell'adeguatezza del patrimonio alla realizzazione dello scopo;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il compimento delle operazioni di vendita di beni mobili ed immobili, nonche' la formazione del progetto di distribuzione, su delega del giudice dell'esecuzione, secondo quanto previsto dall'articolo 2, comma 3, lettera e), del decreto-legge 14 marzo 2005, n. 35, convertito, con modificazioni, dalla legge 14 maggio 2005, n. 80, e con decorrenza dalla data indicata dall'articolo 2, comma 3-quater, del medesimo decreto;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'attivita' di consulenza nella programmazione economica negli enti locali;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'attivita' di valutazione tecnica dell'iniziativa di impresa e di asseverazione dei business plan per l'accesso a finanziamenti pubblici;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il monitoraggio ed il tutoraggio dell'utilizzo dei finanziamenti pubblici erogati alle imprese;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    la redazione e la asseverazione delle informative ambientali, sociali e di sostenibilita' delle imprese e degli enti pubblici e privati;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    la certificazione degli investimenti ambientali ai fini delle agevolazioni previste dalle normative vigenti:
+
+                                
+                            
+                            
+                                q)
+                                
+                                    le attivita' previste per gli iscritti nella Sezione B Esperti contabili dell'Albo.
+
+4.
+                        
+                            
+                                Agli iscritti nella Sezione B Esperti contabili dell'Albo e' riconosciuta competenza tecnica per l'espletamento delle seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    tenuta e redazione dei libri contabili, fiscali e del lavoro, controllo della documentazione contabile, revisione e certificazione contabile di associazioni, persone fisiche o giuridiche diverse dalle societa' di capitali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    elaborazione e predisposizione delle dichiarazioni tributarie e cura degli ulteriori adempimenti tributari;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rilascio dei visti di conformita', asseverazione ai fini degli studi di settore e certificazione tributaria, nonche' esecuzione di ogni altra attivita' di attestazione prevista da leggi fiscali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la funzione di revisione o di componente di altri organi di controllo contabile nonche', sempre che sussistano i requisiti di cui al decreto legislativo 27 gennaio 1992, n. 88, il controllo contabile ai sensi dell'articolo 2409-bis del codice civile;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la revisione dei conti, sempre che sussistano i requisiti di cui al decreto legislativo 27 gennaio 1992, n. 88, nelle imprese ed enti che ricevono contributi dallo Stato, dalle Regioni, da Province, Comuni ed enti da essi controllati o partecipati;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il deposito per l'iscrizione presso enti pubblici o privati di atti e documenti per i quali sia previsto l'utilizzo della firma digitale, ai sensi della legge 15 marzo 1997, n. 59, e del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e loro successive modificazioni;
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    l'assistenza fiscale nei confronti dei contribuenti non titolari di reddito di lavoro autonomo e di impresa, di cui all' articolo 34, comma 4, del decreto legislativo 9 luglio 1997, n. 241.
+
 L'elencazione di cui al presente articolo non pregiudica l'esercizio di ogni altra attivita' professionale dei dottori commercialisti e degli esperti contabili ad essi attribuiti dalla legge o da regolamenti. Sono fatte salve le prerogative attualmente attribuite dalla legge ai professionisti iscritti in altri albi.
 
 ## Art. 2. — Esercizio della professione
@@ -48,6 +255,45 @@ L'alta vigilanza sull'esercizio della professione spetta al Ministro della giust
 1 E' vietato sia l'uso dei titoli professionali di cui all'articolo 39, sia del termine abbreviato "commercialista" da parte di chi non ne abbia diritto.
 
 ## Art. 4. — Incompatibilita'
+
+1.
+                        
+                            
+                                L'esercizio della professione di dottore commercialista ed esperto contabile e' incompatibile con l'esercizio, anche non prevalente, ne' abituale:
+ 
+                            
+                            
+                                a)
+                                
+                                    della professione di notaio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della professione di giornalista professionista;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell' attivita' di impresa, in nome proprio o altrui e, per proprio conto, di produzione di beni o servizi, intermediaria nella circolazione di beni o servizi, tra cui ogni tipologia di mediatore, di trasporto o spedizione, bancarie, assicurative o agricole, ovvero ausiliarie delle precedenti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dell'attivita' di appaltatore di servizio pubblico, concessionario della riscossione di tributi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dell' attivita' di promotore finanziario.
 
 L'incompatibilita' e' esclusa qualora l'attivita', svolta per conto proprio, e' diretta alla gestione patrimoniale, ad attivita' di mero godimento o conservative, nonche' in presenza di societa' di servizi strumentali o ausiliari all'esercizio della professione, ovvero qualora il professionista riveste la carica di amministratore sulla base di uno specifico incarico professionale e per il perseguimento dell'interesse di colui che conferisce l'incarico.
 
@@ -84,6 +330,38 @@ L'assemblea degli iscritti, convocata a norma dell'articolo 23, puo' richiedere 
 
 Il Consiglio dell'Ordine e' composto da membri eletti, tra gli iscritti nell'Albo, sia nella Sezione A Commercialisti sia nella Sezione B Esperti contabili, ripartiti in misura direttamente proporzionale al numero degli iscritti nelle rispettive sezioni alla data di convocazione dell'Assemblea elettorale, assicurando comunque agli iscritti nella Sezione A Commercialisti un numero minimo di rappresentanti non inferiore alla meta' dei componenti.
 
+2.
+                        
+                            
+                                Il numero complessivo dei componenti il Consiglio dell'Ordine e' determinato in ragione del numero degli iscritti nell'Albo alla data di convocazione dell'Assemblea elettorale, nel modo che segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    sette membri, se gli iscritti non superano il numero di duecento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nove membri, se gli iscritti superano il numero di duecento, ma non superano il numero di cinquecento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    undici membri, se gli iscritti superano il numero di cinquecento ma non quello di millecinquecento;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quindici membri, se gli iscritti superano il numero di millecinquecento.
+
 Alla determinazione del numero dei componenti il Consiglio di cui al comma 2, ed al riparto di cui al comma 1, provvede il presidente all'atto della convocazione dell'Assemblea elettorale.
 
 L'elettorato attivo per l'elezione del Consiglio spetta a tutti gli iscritti nell'Albo.
@@ -116,6 +394,122 @@ I. Il presidente ha la rappresentanza dell'Ordine, presiede il Consiglio ed eser
  2. Il presidente adotta, in casi di urgenza, i provvedimenti necessari, salvo ratifica del Consiglio.
 
 ## Art. 12. — Attribuzioni del Consiglio
+
+1.
+                        
+                            
+                                Il Consiglio dell'Ordine, oltre quelle demandate dal presente decreto legislativo e da altre norme di legge, ha le seguenti attribuzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rappresenta, nel proprio ambito territoriale, gli iscritti nell'Albo, promuovendo i rapporti con gli enti locali; restano ferme le attribuzioni del Consiglio nazionale di cui all'articolo 29, comma 1, lettera a); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    vigila sull' osservanza della legge professionale e di tutte le altre disposizioni che disciplinano la professione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cura la tenuta dell'Albo e dell'elenco speciale e provvede alle iscrizioni e cancellazioni previste dal presente ordinamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cura la tenuta del registro dei tirocinanti e adempie agli obblighi previsti dalle norme relative al tirocinio ed all'ammissione agli esami di Stato per l'esercizio della professione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    cura l'aggiornamento e verifica periodicamente, almeno una volta ogni anno, la sussistenza dei requisiti di legge in capo agli iscritti, emettendo le relative certificazioni e comunicando periodicamente al Consiglio nazionale tali dati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    vigila per la tutela dei titoli e per il legale esercizio delle attivita' professionali, nonche' per il decoro e l'indipendenza dell'Ordine; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    delibera i provvedimenti disciplinari; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    interviene per comporre le contestazioni che sorgono, in dipendenza dell'esercizio professionale, tra gli iscritti nell'Albo e, su concorde richiesta delle parti, fra gli iscritti ed i loro clienti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    formula pareri in materia di liquidazione di onorari a richiesta degli iscritti o della pubblica amministrazione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    provvede alla organizzazione degli uffici dell'Ordine, alla gestione finanziaria ed a quant'altro sia necessario per il conseguimento dei fini dell'Ordine; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    designa i rappresentanti dell'Ordine presso commissioni, enti ed organizzazioni di carattere locale; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    delibera la convocazione dell'Assemblea; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    rilascia, a richiesta, i certificati e le attestazioni relative agli iscritti; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    stabilisce un contributo annuale ed un contributo per l'iscrizione nell'Albo o nell'elenco, nonche' una tassa per il rilascio di certificati e di copie dei pareri per la liquidazione degli onorari; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    cura, su delega del Consiglio nazionale, la riscossione ed il successivo accreditamento della quota determinata ai sensi dell'articolo 29; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    promuove, organizza e regola la formazione professionale continua ed obbligatoria dei propri iscritti e vigila sull'assolvimento di tale obbligo da parte dei medesimi.
 
 ## Art. 13. — Riunioni consiliari
 
@@ -309,6 +703,115 @@ In qualunque caso di scioglimento anticipato del Consiglio, quello neoeletto res
 
 ## Art. 29. — Attribuzioni
 
+1.
+                        
+                            
+                                Il Consiglio nazionale. oltre ad esercitare gli altri compiti conferitigli dal presente ordinamento:
+ 
+                            
+                            
+                                a)
+                                
+                                    rappresenta istituzionalmente, a livello nazionale, gli iscritti negli Albi e promuove i rapporti con le istituzioni e le pubbliche amministrazioni competenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    formula pareri, quando ne e' richiesto, sui progetti di legge e di regolamento che interessano la professione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adotta ed aggiorna il codice deontologico della professione e disciplina, con propri regolamenti, l'esercizio della funzione disciplinare a livello territoriale e nazionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coordina e promuove l'attivita' dei Consigli dell'Ordine per favorire le iniziative intese al miglioramento ed al perfezionamento professionale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    vigila sul regolare funzionamento dei Consigli dell'Ordine;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    formula pareri in merito alla riunione degli Ordini territoriali e alla loro separazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    designa i rappresentanti dell'Ordine presso commissioni ed organizzazioni di carattere nazionale ed internazionale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    determina la misura del contributo da corrispondersi annualmente dagli iscritti negli Albi per le spese del proprio funzionamento, delegandone la riscossione agli Ordini territoriali;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    decide in via amministrativa sui ricorsi avverso le deliberazioni dei Consigli dell'Ordine in materia di iscrizione nell'Albo e nell'elenco speciale e di cancellazione, nonche' in materia disciplinare e, inoltre, sui ricorsi relativi alle elezioni dei Consigli dell'Ordine;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    formula il regolamento elettorale, il regolamento per la trattazione dei ricorsi e quello per gli affari di sua competenza, da approvarsi dal Ministro della giustizia;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    valuta ed approva i programmi di formazione professionale continua ed obbligatoria predisposti dagli Ordini locali;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    propone al Ministro competente le tariffe professionali, che dovranno essere aggiornate ogni quattro anni;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    determina l'organizzazione dei propri uffici curando altresi' i rapporti giuridici ed organizzativi con il personale dipendente;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    esercita la potesta' regolamentare in materia elettorale, di organizzazione, di tenuta e aggiornamento periodico degli Albi, di tirocinio professionale, di verifica e vigilanza della sussistenza dei requisiti per l'iscrizione; di attestazione della qualificazione professionale nonche' negli altri casi previsti dalla legge;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    individua le attribuzioni da delegare al Comitato esecutivo, ove costituito ai sensi dell'articolo 26.
+
 ## Art. 30. — Riunioni consiliari
 
 1 Il presidente del Consiglio nazionale convoca il Consiglio ogni volta che lo ritiene opportuno e deve convocarlo, entro quindici giorni, a richiesta di piu' di un terzo dei membri.
@@ -360,6 +863,24 @@ Il Consiglio dell'Ordine procede, entro il primo trimestre di ogni anno, alla re
 
 La comunicazione al Consiglio nazionale di cui al comma 3 avviene, con cadenza semestrale, a mezzo del portale informatico del Consiglio nazionale medesimo, per via telematica a norma delle vigenti disposizioni, anche regolamentari.
 
+5.
+                        
+                            
+                                L'Albo e' diviso in due Sezioni, denominate rispettivamente:
+ 
+                            
+                            
+                                a)
+                                
+                                    Sezione A Commercialisti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Sezione B Esperti contabili.
+
 Ciascun Albo deve contenere, per ogni iscritto: il cognome, il nome, la data ed il luogo di nascita, la residenza e l'indirizzo (anche telematico se posseduto) degli studi professionali, la data ed il numero di iscrizione, il titolo professionale e di studio in base al quale l'iscrizione e' stata disposta e l'indicazione dell'Ordine o del Collegio di provenienza, nonche' l'eventuale iscrizione al registro dei revisori contabili.
 
 L'Albo e' compilato per ordine di anzianita' dell'iscrizione e puo' portare un indice per ordine alfabetico.
@@ -374,6 +895,46 @@ Non si puo' essere iscritti che in un solo Albo, in una sola Sezione o in un sol
 La data di iscrizione in ciascuna sezione dell'Albo stabilisce la relativa anzianita'. Coloro che dopo la cancellazione sono di nuovo iscritti nell'Albo nella medesima Sezione hanno l'anzianita' derivante dalla prima iscrizione, dedotta la durata della interruzione. Coloro che, avendone maturato il titolo, provvedono alla cancellazione dalla Sezione, o elenco speciale di una Sezione ed alla iscrizione in un'altra Sezione, o elenco speciale di altra Sezione, hanno l'anzianita' derivante da quest' ultima iscrizione.
 
 ## Art. 36. — Requisiti per la iscrizione nell'Albo
+
+1.
+                        
+                            
+                                Per l'iscrizione nell'Albo e' necessario:
+ 
+                            
+                            
+                                a)
+                                
+                                    essere cittadino italiano, ovvero cittadino di uno Stato membro dell'Unione europea o di uno Stato estero a condizione di reciprocita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    godere il pieno esercizio dei diritti civili;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere di condotta irreprensibile;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    avere la residenza o il domicilio professionale nel circondario in cui e' costituito l'Ordine cui viene richiesta l'iscrizione od il trasferimento.
+ Non possono ottenere l'iscrizione nell'Albo o nell'elenco speciale coloro che, con sentenza definitiva, hanno riportato condanne a pene che, a norma del presente ordinamento, darebbero luogo alla radiazione dall'Albo.
+ 3 Per l'iscrizione dei dottori commercialisti nella Sezione A Commercialisti e' altresi' necessario:
+ a) essere in possesso di una laurea nella classe delle lauree specialistiche (magistrale) in scienza dell'economia (64/S), ovvero nella classe delle lauree specialistiche (magistrale) in scienze economico-aziendali (84/S), ovvero delle lauree rilasciate dalle facolta' di economia secondo l'ordinamento previgente ai decreti emanati in attuazione dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127;
+ b) avere superato l'esame di Stato per l'abilitazione all'esercizio della professione di dottore commercialista, secondo le norme vigenti all'epoca in cui l'esame e' stato sostenuto.
+ 4. Per l'iscrizione alla Sezione B Esperti contabili e' altresi' necessario:
+ a) essere in possesso di una laurea nella classe delle lauree in scienze dell'economia e della gestione aziendale (17) o nella classe delle lauree in scienze economiche (28);
+ b) avere superato l'esame di Stato per l'abilitazione all'esercizio della professione, secondo le norme ad esso relative.
+ ((4-bis. Il decreto di riconoscimento della qualifica professionale ai sensi del Titolo III, del decreto legislativo 9 novembre 2007, n. 206, costituisce titolo per l'iscrizione nell'albo.))
 
 ## Art. 37. — Domanda di iscrizione nell'Albo
  o nell'elenco speciale dei non esercenti
@@ -434,6 +995,24 @@ Il tirocinio professionale deve essere compiuto per un periodo di tempo ininterr
 
 Il Ministro dell'istruzione, dell'universita' e della ricerca, sentito il Consiglio nazionale, stabilisce con proprio regolamento i contenuti e le modalita' di effettuazione del tirocinio, ivi comprese le forme della vigilanza dei Consigli degli Ordini territoriali sul corretto svolgimento dei tirocini e le relative sanzioni disciplinari, la fissazione del numero massimo di tirocinanti per ciascun professionista e gli effetti ostativi delle sanzioni disciplinari di particolare gravita' relativamente all'assunzione di tirocinanti da parte del professionista.
 
+3.
+                        
+                            
+                                Con il regolamento di cui al comma 2 vengono altresi' determinate:
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di svolgimento di parte del tirocinio in un altro Stato membro dell'Unione europea, con il limite massimo di un semestre, unico ed ininterrotto, presso un soggetto abilitato all'esercizio di professioni equiparate, ai sensi della normativa vigente in tema di riconoscimento dei diplomi stranieri, a quella di dottore commercialista ed esperto contabile;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le condizioni sulla base delle quali, coloro che hanno effettuato il periodo di tirocinio per l'accesso alla Sezione B Esperti contabili dell'Albo, possono essere esentati in tutto o in parte dal tirocinio per l'accesso alla Sezione A Commercialisti . In ogni caso, per l'ammissione all'esame di accesso alla Sezione A Commercialisti, il tirocinante deve aver svolto almeno un anno di tirocinio professionale presso un professionista iscritto nella Sezione stessa.
+
 ## Art. 43. — Integrazione del tirocinio negli studi universitari
 
 Il tirocinio puo' essere svolto contestualmente al biennio di studi finalizzato al conseguimento del diploma di laurea specialistica o magistrale ovvero ad una sua parte.
@@ -458,9 +1037,95 @@ Coloro che hanno compiuto il tirocinio prescritto per accedere alla Sezione B no
 
 ## Art. 46. — Prove d'esame per l'iscrizione nella Sezione A dell'Albo
 
+1.
+                        
+                            
+                                L'esame di Stato per l'iscrizione nella Sezione A dell'Albo e' articolato nelle seguenti prove:
+ 
+                            
+                            
+                                a)
+                                
+                                    tre prove scritte, di cui una a contenuto pratico, dirette all'accertamento delle conoscenze teoriche del candidato e della sua capacita' di applicarle praticamente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una prova orale diretta all'accertamento delle conoscenze del candidato, oltre che nelle materie oggetto delle prove scritte, anche nelle seguenti materie: informatica, sistemi informativi, economia politica, matematica e statistica, legislazione e deontologia professionale.
+
+2.
+                        
+                            
+                                Le prove scritte di cui al comma 1, lettera a), consistono in:
+ 
+                            
+                            
+                                a)
+                                
+                                    una prima prova vertente sulle seguenti materie: ragioneria generale e applicata, revisione aziendale, tecnica industriale e commerciale, tecnica bancaria, tecnica professionale, finanza aziendale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una seconda prova vertente sulle seguenti materie: diritto privato, diritto commerciale, diritto fallimentare, diritto tributario, diritto del lavoro e della previdenza sociale, diritto processuale civile;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una prova a contenuto pratico, costituita da un'esercitazione sulle materie previste per la prima prova scritta ovvero dalla redazione di atti relativi al contenzioso tributario.
+
 Sono esentati dalla prima prova scritta coloro i quali provengono dalla Sezione B dell'Albo e coloro che hanno conseguito un titolo di studio all'esito di uno dei corsi di laurea realizzati sulla base della convenzione di cui all'articolo 43.
 
 ## Art. 47. — Prove d'esame per l'iscrizione nella Sezione B dell'Albo
+
+1.
+                        
+                            
+                                L'esame di Stato per l'iscrizione nella Sezione B dell'Albo e' articolato nelle seguenti prove:
+ 
+                            
+                            
+                                a)
+                                
+                                    tre prove scritte, di cui una a contenuto pratico, dirette all'accertamento delle conoscenze teoriche del candidato e della sua capacita' di applicarle praticamente nelle materie indicate dalla direttiva n. 84/253/CEE del Consiglio, del 10 aprile 1984, e dall'articolo 4 del decreto legislativo 27 gennaio 1992, n. 88;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una prova orale, avente ad oggetto le materie previste per le prove scritte e questioni teorico-pratiche relative alle attivita' svolte durante il tirocinio professionale, nonche' aspetti di legislazione e deontologia professionale.
+
+2.
+                        
+                            
+                                Le prove scritte di cui al comma 1, lettera a), consistono in:
+ 
+                            
+                            
+                                a)
+                                
+                                    una prima prova, vertente sulle seguenti materie: contabilita' generale, contabilita' analitica e di gestione, disciplina dei bilanci di esercizio e consolidati, controllo della contabilita' e dei bilanci;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una seconda prova, vertente sulle seguenti materie: diritto civile e commerciale, diritto fallimentare, diritto tributario, diritto del lavoro e della previdenza sociale, sistemi di informazione ed informatica, economia politica ed aziendale, principi fondamentali di gestione finanziaria, matematica e statistica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una prova a contenuto pratico, costituita da un'esercitazione sulle materie previste per la prima prova scritta.
 
 Sono esentati dalla prima prova scritta coloro i quali hanno conseguito un titolo di studio all'esito di uno dei corsi di laurea realizzati sulla base della convenzione di cui all'articolo 43.
 
@@ -517,6 +1182,31 @@ Se non e' disponibile il numero dei componenti del Consiglio che e' prescritto p
 Il Consiglio competente ai sensi del comma 3, se autorizza l'astensione o riconosce legittima la ricusazione, si sostituisce al Consiglio dell'Ordine cui appartengono i componenti che hanno chiesto di astenersi o che sono stati ricusati; altrimenti restituisce gli atti per la prosecuzione del procedimento.
 
 ## Art. 52. — Sanzioni disciplinari
+
+1.
+                        
+                            
+                                Al termine del procedimento disciplinare, il Consiglio dell'Ordine competente puo' irrogare le seguenti sanzioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la censura, che consiste in una dichiarazione formale di biasimo,
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sospensione dall'esercizio professionale per un periodo di tempo non superiore ai due anni,
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la radiazione dall'Albo.
 
 ## Art. 53. — Sospensione cautelare
 
@@ -742,7 +1432,93 @@ I Consigli territoriali e il Consiglio nazionale dell'Ordine dei dottori commerc
 ## Art. 71. — Conseguenze dell'unificazione
  sullo stato giuridico dei tirocinanti
 
+1.
+                        
+                            
+                                Coloro che, alla data del 31 dicembre 2007, risultino iscritti nel registri dei tirocinanti presso gli Ordini dei dottori commercialisti ovvero nei registri dei praticanti presso i collegi dei ragionieri e periti commerciali, vengono iscritti nella Sezione A del registro dei tirocinanti, istituito presso ciascun Ordine territoriale ai sensi dell'articolo 36, se in possesso di:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea specialistica nella classe 64/S, classe delle lauree specialistiche in scienze dell'economia, ovvero nella classe 84/S, classe delle lauree specialistiche in scienze economiche aziendali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma di laurea rilasciato dalle facolta' di economia ovvero diploma di laurea in scienze politiche conseguiti secondo l'ordinamento previgente ai decreti emanati in attuazione dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diploma di laurea in giurisprudenza conseguito secondo l'ordinamento previgente ai decreti emanati in attuazione dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127.
+
+2.
+                        
+                            
+                                Coloro che, alla data del 31 dicembre 2007, risultino iscritti nel registri dei tirocinanti presso gli Ordini dei dottori commercialisti ovvero nei registri dei praticanti presso i collegi dei ragionieri e periti commerciali, vengono iscritti nella Sezione B del registro dei tirocinanti istituito presso ciascun Ordine territoriale dei dottori commercialisti e degli esperti contabili ai sensi dell'articolo 36, se in possesso di:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea nella classe 17, classe delle lauree in scienze dell'economia e della gestione aziendale, ovvero nella classe 28, classe delle lauree in scienze economiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma universitario conseguito a seguito di un corso di studi specialistici della durata triennale, secondo l'ordinamento previgente ai decreti emanati in attuazione dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127.
+
 Nei casi di cui al comma 2, il periodo di tirocinio gia' effettuato sotto la vigenza del precedente ordinamento e', ad ogni effetto, computato ai fini del completamento del tirocinio medesimo.
+
+4.
+                        
+                            
+                                Coloro che, alla data del 31 dicembre 2007, risultino avere gia' validamente svolto il periodo di tirocinio previsto dai previgenti ordinamenti dei dottori commercialisti e dei ragionieri e periti commerciali, sono ammessi a sostenere l'esame di Stato per l'abilitazione professionale per l'accesso alla Sezione A dell'Albo, purche' siano in possesso di:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea specialistica nella classe 64/S, classe delle lauree specialistiche in scienze dell'economia, ovvero nella classe 84/S, classe delle lauree specialistiche in scienze economiche aziendali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma di laurea rilasciato dalle facolta' di economia ovvero diploma di laurea in scienze politiche conseguiti secondo l'ordinamento previgente ai decreti emanati in attuazione dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127.
+
+                                
+                            
+                            
+                                c)
+                                
+                                    diploma di laurea in giurisprudenza conseguito secondo l'ordinamento previgente ai decreti emanati in attuazione dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127.
+
+5.
+                        
+                            
+                                Coloro che, alla data del 31 dicembre 2007, risultino avere gia' validamente svolto il periodo di tirocinio previsto dai previgenti ordinamenti dei dottori commercialisti e dei ragionieri e periti commerciali, sono ammessi a sostenere l'esame di Stato per l'abilitazione professionale per l'accesso alla Sezione B dell'Albo, purche' siano in possesso di:
+ 
+                            
+                            
+                                a)
+                                
+                                    diploma di laurea nella classe 17, classe delle lauree in scienze dell'economia e della gestione aziendale, ovvero nella classe 28, classe delle lauree in scienze economiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diploma universitario, conseguito a seguito di un corso di studi specialistici della durata di tre anni, secondo l'ordinamento previgente ai decreti emanati in attuazione dell'articolo 17, comma 95. della legge 15 maggio 1997, n. 127.
 
 Fino al 31 dicembre 2007 coloro che sono in possesso del diploma di laurea specialistica nella classe 64/S, classe delle lauree specialistiche in scienze dell'economia, ovvero nella classe 84/S, classe delle lauree specialistiche in scienze economico-aziendali, ed hanno compiuto il prescritto periodo di pratica professionale sono ammessi a sostenere gli esami di Stato per l'accesso alle professioni di dottore commercialista e di ragioniere e perito commerciale, disciplinati rispettivamente con decreti del Ministro dell'universita' e della ricerca scientifica e tecnologica 24 ottobre 1996, n. 654, e 8 ottobre 1996, n. 622.
 

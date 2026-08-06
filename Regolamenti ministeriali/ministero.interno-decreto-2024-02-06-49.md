@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2024-02-06;49
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -45,6 +45,88 @@ Per la procedura selettiva di cui all'articolo 1, comma 2, la commissione esamin
 In relazione ad esigenze di carattere logistico e organizzativo, con decreto del Capo del Dipartimento, le commissioni di cui ai commi 1 e 2, unico restando il presidente, possono essere suddivise in sottocommissioni, con l'integrazione di un numero di componenti pari a quello della commissione originaria. Il presidente ha il compito di coordinare le sottocommissioni e non e' tenuto a partecipare ai lavori delle stesse. Le funzioni di segretario delle commissioni di cui ai commi 1 e 2 sono svolte da personale con qualifica non inferiore a ispettore appartenente ai ruoli del Corpo nazionale ovvero da un appartenente ai ruoli del personale dell'amministrazione civile dell'interno di equivalente qualifica in servizio presso il Dipartimento.
 
 ## Art. 3. — Requisiti di partecipazione
+
+1.
+                        
+                            
+                                La selezione interna di cui all'articolo 1, comma 1, fermo restando quanto previsto dall'articolo 32, comma 1, del decreto legislativo n. 217 del 2005, e' riservata al personale del Corpo nazionale in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 30 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' di servizio nel ruolo dei vigili del fuoco non inferiore a diciotto mesi. In tale periodo e' compreso il corso di formazione di cui all'articolo 6, comma 1, del decreto legislativo n. 217 del 2005; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale ai servizi di navigazione aerea secondo i parametri individuati nel decreto del Presidente della Repubblica 15 marzo 2010, n. 90. Le imperfezioni e le infermita' che sono causa di non idoneita' ai servizi di navigazione aerea sono elencate nell'articolo 586 del decreto del Presidente della Repubblica n. 90 del 2010 e nel decreto del Ministro della difesa da adottarsi ai sensi dell'articolo 583 del medesimo regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    livello minimo di conoscenza della lingua inglese, certificato (QCER): B1.
+
+2.
+                        
+                            
+                                La selezione interna di cui all'articolo 1, comma 2, fermo restando quanto previsto dall'articolo 32, comma 2, del decreto legislativo n. 217 del 2005, e' riservata al personale del Corpo nazionale in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 35 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' di servizio nel ruolo dei vigili del fuoco non inferiore a diciotto mesi. In tale periodo e' compreso il corso di formazione di cui all'articolo 6, comma 1, del decreto legislativo n. 217 del 2005; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale ai servizi di navigazione aerea di classe I, senza limitazioni, secondo i parametri tecnico-sanitari individuati nel regolamento di esecuzione (UE) 2019/27 della Commissione del 19 dicembre 2018 e nelle relative Acceptable means of compliance (AMC) - Annex 1;
+
+3.
+                        
+                            
+                                Non e' ammesso alle selezioni di cui all'articolo 1, commi 1 e 2, il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si trovi nelle condizioni di cui all'articolo 32, comma 3, del decreto legislativo n. 217 del 2005; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia stato dimesso da precedenti analoghi corsi, salvo quanto indicato nell'articolo 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia in possesso di altra specializzazione ovvero frequenti gia' un corso per il suo conseguimento.
 
 I requisiti di partecipazione devono essere posseduti alla data di scadenza del termine previsto nei bandi per la presentazione delle domande di partecipazione alle selezioni. I requisiti di idoneita' fisica, psichica e attitudinale di cui, rispettivamente, ai commi 1 e 2, lettere c), sono accertati ai sensi dell' articolo 5.
 
@@ -125,6 +207,63 @@ Il personale che non supera il corso di formazione permane nella qualifica di ap
 ## Art. 9. — Dimissioni ed espulsioni dai corsi 
  di formazione basico e avanzato
 
+1.
+                        
+                            
+                                E' dimesso dal corso di formazione basico il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera le verifiche intermedie e l'esame finale, previsti dall'articolo 7, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso o temporaneamente inidoneo al volo per un numero di giorni, anche non consecutivi, superiore a quanto previsto dalle strutture di formazione di cui all'articolo 7, comma 1, salvi i casi dovuti a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi determinati da maternita'. Nell'ipotesi di assenza o temporanea inidoneita' al volo dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione. Nell'ipotesi di assenza o temporanea inidoneita' al volo determinate da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione.
+
+2.
+                        
+                            
+                                E' dimesso dal corso di formazione avanzato il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera le verifiche intermedie di cui all'articolo 8, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non supera l'esame di fine corso di cui all'articolo 8, comma 3; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso o temporaneamente inidoneo al volo per un numero di giorni, anche non consecutivi, superiore al 20 per cento dei giorni di durata del corso, salvi i casi dovuti a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi determinati da maternita'. Nell'ipotesi di assenza o temporanea inidoneita' al volo dovute a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione. Nell'ipotesi di assenza o temporanea inidoneita' al volo determinate da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione.
+
 E' espulso dai corsi di formazione, basico e avanzato, il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo n. 217 del 2005.
 
 I provvedimenti di dimissione e di espulsione dal corso sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -154,6 +293,88 @@ Per la procedura selettiva di cui all'articolo 10, comma 2, la commissione esami
 In relazione ad esigenze di carattere logistico e organizzativo, con decreto del Capo del Dipartimento, le commissioni di cui ai commi 1 e 2, unico restando il presidente, possono essere suddivise in sottocommissioni, con l'integrazione di un numero di componenti pari a quello della commissione originaria. Il presidente ha il compito di coordinare le sottocommissioni e non e' tenuto a partecipare ai lavori delle stesse. Le funzioni di segretario delle commissioni di cui ai commi 1 e 2 sono svolte da personale con qualifica non inferiore a ispettore appartenente ai ruoli del Corpo nazionale ovvero da un appartenente ai ruoli del personale dell'amministrazione civile dell'interno di equivalente qualifica in servizio presso il Dipartimento.
 
 ## Art. 12. — Requisiti di partecipazione
+
+1.
+                        
+                            
+                                La selezione interna di cui all'articolo 10, comma 1, fermo restando quanto previsto dall'articolo 32, comma 5, del decreto legislativo n. 217 del 2005, e' riservata al personale del Corpo nazionale in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 30 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' di servizio nel ruolo dei vigili del fuoco non inferiore a 18 mesi. In tale periodo e' compreso il corso di formazione di cui all'articolo 6, comma 1, del decreto legislativo n. 217 del 2005; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale ai servizi di navigazione aerea secondo i parametri individuati nel decreto del Presidente della Repubblica n. 90 del 2010. Le imperfezioni e le infermita' che sono causa di non idoneita' ai servizi di navigazione aerea sono elencate nell'articolo 586 del decreto del Presidente della Repubblica n. 90 del 2010, e nel decreto del Ministro della difesa da adottarsi ai sensi dell'articolo 583 del medesimo regolamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    livello minimo di conoscenza della lingua inglese, certificato (QCER): A2.
+
+2.
+                        
+                            
+                                La selezione interna di cui all'articolo 10, comma 2, fermo restando quanto previsto dall'articolo 32, comma 6, del decreto legislativo n. 217 del 2005, e' riservata al personale del Corpo nazionale in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 35 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' di servizio nel ruolo dei vigili del fuoco non inferiore a diciotto mesi. In tale periodo e' compreso il corso di formazione di cui all'articolo 6, comma 1, del decreto legislativo n. 217 del 2005; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale ai servizi di navigazione aerea di classe II, senza limitazioni, secondo i parametri tecnico-sanitari individuati nel regolamento di esecuzione (UE) 2019/27 della Commissione del 19 dicembre 2018 e nelle relative Acceptable means of compliance (AMC) - annex 1.
+
+3.
+                        
+                            
+                                Non e' ammesso alle selezioni di cui all'articolo 10, commi 1 e 2, il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si trovi nelle condizioni di cui all'articolo 32, comma 7, del decreto legislativo n. 217 del 2005; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia stato dimesso da precedenti analoghi corsi, salvo quanto indicato nell'articolo 18; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia in possesso di altra specializzazione ovvero frequenti gia' un corso per il suo conseguimento.
 
 I requisiti di partecipazione devono essere posseduti alla data di scadenza del termine previsto nei bandi per la presentazione delle domande di partecipazione alle selezioni. I requisiti di idoneita' fisica, psichica e attitudinale di cui, rispettivamente, ai commi 1 e 2, lettere c), sono accertati ai sensi dell'articolo 14.
 
@@ -234,6 +455,63 @@ Il personale che non supera il corso di formazione permane nella qualifica di ap
 ## Art. 18. — Dimissioni ed espulsioni dai corsi di formazione 
  basico e avanzato
 
+1.
+                        
+                            
+                                E' dimesso dal corso di formazione basico il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera le verifiche intermedie e l'esame finale, previsti dall'articolo 16, comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso o temporaneamente inidoneo al volo per un numero di giorni, anche non consecutivi, superiore a quanto previsto dalle strutture di formazione di cui all'articolo 16, comma 1, salvi i casi dovuti a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi determinati da maternita'. Nell'ipotesi di assenza dovuta a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione. Nell'ipotesi di assenza o temporanea inidoneita' al volo determinate da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione.
+
+2.
+                        
+                            
+                                E' dimesso dal corso di formazione avanzato il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera le verifiche intermedie di cui all'articolo 17, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non supera l'esame di fine corso di cui all'articolo 17, comma 3; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso o temporaneamente inidoneo al volo per un numero di giorni, anche non consecutivi, superiore al 20 per cento dei giorni di durata del corso, salvi i casi dovuti a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi determinati da maternita'. Nell'ipotesi di assenza o temporanea inidoneita' al volo dovute a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione. Nell'ipotesi di assenza o temporanea inidoneita' al volo determinate da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione.
+
 E' espulso dai corsi di formazione, basico e avanzato, il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo n. 217 del 2005.
 
 I provvedimenti di dimissione e di espulsione dal corso sono adottati con decreto del capo del Dipartimento, su proposta del direttore centrale per la formazione.
@@ -259,6 +537,56 @@ La commissione esaminatrice e' nominata con decreto del Capo del Dipartimento; e
 In relazione ad esigenze di carattere logistico e organizzativo, con decreto del Capo del Dipartimento, la commissioni di cui ai commi 1, unico restando il presidente, puo' essere suddivisa in sottocommissioni, con l'integrazione di un numero di componenti pari a quello della commissione originaria. Il presidente ha il compito di coordinare le sottocommissioni e non e' tenuto a partecipare ai lavori delle stesse. Le funzioni di segretario delle commissioni di cui ai commi 1 e 2 sono svolte da personale con qualifica non inferiore a ispettore appartenente ai ruoli del Corpo nazionale ovvero da un appartenente ai ruoli del personale dell'amministrazione civile dell'interno di equivalente qualifica in servizio presso il Dipartimento.
 
 ## Art. 21. — Requisiti di partecipazione
+
+1.
+                        
+                            
+                                La selezione interna di cui all'articolo 19, fermo restando quanto previsto dall'articolo 35, comma 1, del decreto legislativo n. 217 del 2005, e' riservata al personale del Corpo nazionale in possesso dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    eta' non superiore a 35 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' di servizio nel ruolo dei vigili del fuoco non inferiore a 4 anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    idoneita' fisica, psichica e attitudinale ai servizi di navigazione aerea secondo i parametri individuati nel decreto del Presidente della Repubblica 15 marzo 2010, n. 90. Le imperfezioni e le infermita' che sono causa di non idoneita' ai servizi di navigazione aerea sono elencate nell'articolo 586 del decreto del Presidente della Repubblica n. 90 del 2010, e nel decreto del Ministro della difesa da adottarsi ai sensi dell'articolo 583 del medesimo regolamento governativo.
+
+2.
+                        
+                            
+                                Non e' ammesso alla selezione di cui all'articolo 19 il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si trovi nelle condizioni di cui all'articolo 35, comma 2, del decreto legislativo n. 217 del 2005; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia stato dimesso da precedenti analoghi corsi, salvo quanto indicato nell'articolo 26; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia in possesso di altra specializzazione ovvero frequenti gia' un corso per il suo conseguimento.
 
 I requisiti di partecipazione devono essere posseduti alla data di scadenza del termine previsto nel bando per la presentazione della domanda di partecipazione alla selezione. I requisiti di idoneita' fisica, psichica e attitudinale di cui al comma 1, lettera c), sono accertati ai sensi dell'articolo 23.
 
@@ -320,6 +648,38 @@ Al personale del Corpo nazionale collocato in posizione utile nella graduatoria 
 Il personale che non supera il corso di formazione permane nella qualifica di appartenenza senza detrazione di anzianita' ed e' restituito al servizio di istituto.
 
 ## Art. 26. — Dimissioni ed espulsione dal corso di formazione
+
+1.
+                        
+                            
+                                E' dimesso dal corso di formazione di cui all'articolo 25 il personale che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiara di rinunciare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non supera le verifiche intermedie di cui all'articolo 25, comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non supera l'esame di fine corso di cui all'articolo 25, comma 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' stato per qualsiasi motivo assente dal corso o temporaneamente inidoneo al volo per un numero di giorni, anche non consecutivi, superiore al venti per cento dei giorni di durata del corso, salvi i casi dovuti a infermita' contratta durante il corso oppure dipendente da causa di servizio e i casi determinati da maternita'. Nell'ipotesi di assenza o temporanea inidoneita' al volo dovute a infermita' contratta durante il corso oppure dipendente da causa di servizio, il personale e' ammesso a partecipare di diritto al corrispondente primo corso successivo al riconoscimento della sua idoneita' psico-fisica e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione alla selezione. Nell'ipotesi di assenza o temporanea inidoneita' al volo determinate da maternita', le allieve sono ammesse a partecipare di diritto al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita' e sempre che nel periodo precedente a detto corso non sia intervenuta una delle cause di esclusione previste per la partecipazione al concorso.
 
 E' espulso dal corso di formazione il personale responsabile di infrazioni punite con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo n. 217 del 2005.
 

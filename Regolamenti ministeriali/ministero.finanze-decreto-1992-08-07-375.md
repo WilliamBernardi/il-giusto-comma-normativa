@@ -8,8 +8,8 @@ codice_redazionale: 092G0415
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,66 @@ Il comandante del corso e' nominato dal comandante generale della Guardia di fin
 
 L'inizio e il termine dell'anno accademico, nonche' il calendario di massima delle attivita' didattiche e degli esami sono stabiliti con determinazione del comandante generale della Guardia di finanza, su proposta del comandante della scuola di polizia tributaria.
 
+2.
+                    
+                        
+                            Il corso prevede l'insegnamento delle seguenti discipline oggetto di esame, i cui programmi sono riportati nell'allegato 1:
+ 
+                        
+                        
+                            a)
+                            
+                                scienza dell'organizzazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                procedura penale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                diritto penale dell'economia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il bilancio e la sua analisi tecnico fiscale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                imposte sui redditi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                imposte indirette sugli affari;
+
+                            
+                        
+                        
+                            g)
+                            
+                                tecnica della verifica;
+
+                            
+                        
+                        
+                            h)
+                            
+                                servizio di stato maggiore.
+
 Le materie di insegnamento non oggetto di esame e i relativi programmi sono stabiliti con determinazione del comandante generale della Guardia di finanza, su proposta del comandante della scuola di polizia tributaria.
 
 ## Art. 6. — Attivita' didattiche
@@ -61,6 +121,38 @@ Il sintetico rapporto e' compilato, con modalita' analoghe, anche per le esercit
 
 L'insegnamento delle discipline del corso e' affidato ad insegnanti titolari e ad insegnanti aggiunti, nominati con determinazione del comandante generale della Guardia di finanza tra i docenti universitari, i magistrati, i funzionari direttivi e i dirigenti dell'Amministrazione dello Stato, gli esperti estranei all'Amministrazione dello Stato, particolarmente qualificati, incaricati mediante convenzioni annuali, gli ufficiali in servizio permanente effettivo della Guardia di finanza e di altre Forze armate con grado superiore a quello di capitano.
 
+2.
+                    
+                        
+                            Gli insegnanti titolari:
+ 
+                        
+                        
+                            a)
+                            
+                                propongono i libri di testo che ritengono di far adottare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolgono le lezioni e le eventuali esercitazioni, conformemente ai programmi fissati ed all'indirizzo didattico, quest'ultimo impartito dal direttore del corso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accertano, nel corso dell'anno, il profitto dei frequentatori;
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipano alle commissioni di esame.
+
 Gli insegnanti aggiunti coadiuvano i titolari in tutte le attivita' di loro competenza, sostituendoli in caso di assenza o di impedimento, e collaborando, in particolare, ove necessario, nella predisposizione di sinossi relative al programma d'insegnamento.
 
 ## Art. 8. — Consiglio degli insegnanti
@@ -72,6 +164,25 @@ Il consiglio ha funzioni consultive su argomenti di carattere generale riguardan
 Il consiglio degli insegnanti e' convocato dal direttore del corso; la prima riunione e' indetta entro trenta giorni dall'inizio del corso.
 
 ## Art. 9. — Modalita' di accertamento del profitto
+
+1.
+                    
+                        
+                            Il profitto dei frequentatori e' accertato:
+ 
+                        
+                        
+                            a)
+                            
+                                nel corso dell'anno accademico, mediante interrogazioni, questionari ed esercitazioni nelle discipline d'insegnamento nonche' prove scritte nelle materie
+oggetto d'esame. La formulazione dei testi di queste ultime, in materie stabilite dal direttore del corso, d'intesa con il consiglio degli insegnanti, e' affidata ai docenti delle rispettive discipline;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al termine dell'attivita' didattica, a mezzo scrutinio e attraverso prove di esame scritte ed orali nelle materie indicate nell'art. 5, comma 2.
 
 Gli esami finali vertono sull'intero programma previsto per ciascuna disciplina di insegnamento.
 
@@ -126,6 +237,31 @@ Il frequentatore che non si presenti a sostenere una prova d'esame e' considerat
 Il frequentatore che, per giustificato motivo, non possa sostenere una o piu' prove orali e' ammesso dal presidente della commissione ad effettuarle in data non successiva a trenta giorni da quella stabilita.
 
 ## Art. 16. — Dimissioni e rinvii
+
+1.
+                    
+                        
+                            E' dimesso dal corso l'ufficiale che:
+ 
+                        
+                        
+                            a)
+                            
+                                sia inidoneo o rinunciatario ai sensi degli articoli 14 e 15, comma 1, ovvero abbia riportato, in sede di scrutinio finale, un voto inferiore a diciotto trentesimi in piu' di tre materie non soggette ad esame;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dimostri di non possedere qualita' e attitudini per l'ulteriore frequenza del corso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                non frequenti per un periodo di tempo superiore a novanta giorni complessivi, nel computo dei quali non si considerano i giorni di interruzione del corso per festivita' e per licenze collettive.
 
 Il provvedimento di dimissione e' assunto dal Ministro delle finanze su proposta del comandante generale della Guardia di finanza.
 

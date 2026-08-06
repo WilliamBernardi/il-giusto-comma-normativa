@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2020-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -966,6 +966,49 @@ COMMA ABROGATO DAL D.L. 25 NOVEMBRE 1996, N. 599 CONVERTITO CON MODIFICAZIONI DA
 
 COMMA ABROGATO DAL D.L. 25 NOVEMBRE 1996, N. 599 CONVERTITO CON MODIFICAZIONI DALLA L. 24 GENNAIO 1997, N. 5, COME MODIFICATO DAL D.L. 29 SETTEMBRE 1997, N. 328, CONVERTITO CON MODIFICAZIONI DALLA L. 29 NOVEMBRE 1997, N. 410. (12) ((19))
 
+3.
+                        
+                            
+                                La tariffa unitaria puo' essere ridotta di un importo non superiore ad un terzo nel caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abitazioni con unico occupante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abitazioni tenute a disposizione per uso stagionale od altro uso limitato e discontinuo a condizione che tale destinazione sia specificata nella denuncia originaria o di variazione indicando l'abitazione di residenza e l'abitazione principale e dichiarando espressamente di non voler cedere l'alloggio in locazione o in comodato, salvo accertamento da parte del comune; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    locali, diversi dalle abitazioni, ed aree scoperte adibiti ad uso stagionale o ad uso non continuativo, ma ricorrente, risultante da licenza o autorizzazione rilasciata dai competenti organi per l'esercizio dell'attivita'.
+
+4.
+                        
+                            
+                                La tariffa unitaria puo' essere ridotta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di un importo non superiore ad un terzo nei confronti dell'utente che, versando nelle circostanze di cui alla lettera b) del comma 3, risieda o abbia la dimora, per piu' di sei mesi all'anno, in localita' fuori del territorio nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di un importo non superiore al 30 per cento nei confronti degli agricoltori occupanti la parte abitativa della costruzione rurale.
+
 Le riduzioni delle superfici e quelle tariffarie di cui ai precedenti commi sono applicate sulla base di elementi e dati contenuti nella denuncia originaria, integrativa o di variazione con effetto dall'anno successivo.
 
 Il contribuente e' obbligato a denunciare entro il 20 gennaio il venir meno delle condizioni dell'applicazione della tariffa ridotta di cui ai commi 3 e 4; in difetto si provvede al recupero del tributo a decorrere dall'anno successivo a quello di denuncia dell'uso che ha dato luogo alla riduzione tariffaria e sono applicabili le sanzioni previste per l'omessa denuncia di variazione dall'art. 76.
@@ -989,6 +1032,84 @@ Il regolamento puo' prevedere riduzioni nel caso di attivita' produttive, commer
 Le esenzioni e le riduzioni di cui al comma 1 sono iscritte in bilancio come autorizzazioni di spesa e la relativa copertura e' assicurata da risorse diverse dai proventi della tassa relativa all'esercizio cui si riferisce l'iscrizione predetta.
 
 ## Art. 68. — Regolamenti
+
+1.
+                        
+                            
+                                Per l'applicazione della tassa i comuni sono tenuti ad adottare apposito regolamento che deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la classificazione delle categorie ed eventuali sottocategorie di locali ed aree con omogenea potenzialita' di rifiuti e tassabili con la medesima misura tariffaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di applicazione dei parametri di cui all'art. 65; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la graduazione delle tariffe ridotte per particolari condizioni di uso di cui all'art. 66, commi 3 e 4; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la individuazione delle fattispecie agevolative, delle rela- tive condizioni e modalita' di richiesta documentata e delle cause di decadenza.
+
+2.
+                        
+                            
+                                L'articolazione delle categorie e delle eventuali sottocategorie e' effettuata, ai fini della determinazione comparativa delle tariffe, tenendo conto, in via di massima, dei seguenti gruppi di attivita' o di utilizzazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    locali ed aree adibiti a musei, archivi, biblioteche, ad attivita' di istituzioni culturali, politiche e religiose, sale teatrali e cinematografiche, scuole pubbliche e private, palestre, autonomi depositi di stoccaggio e depositi di macchine e materiale militari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    complessi commerciali all'ingrosso o con superfici espositive, nonche' aree ricreativo-turistiche, quali campeggi, stabilimenti balneari, ed analoghi complessi attrezzati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    locali ed aree ad uso abitativo per nuclei familiari, collettivita' e convivenze, esercizi alberghieri; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    locali adibiti ad attivita' terziarie e direzionali diverse da quelle di cui alle lettere b),
+                                
+                            
+                            
+                                e)
+                                
+                                    ed f), circoli sportivi e ricreativi; 
+ e) locali ed aree ad uso di produzione artigianale o industriale, o di commercio al dettaglio di beni non deperibili, ferma restando l'intassabilita' delle superfici di lavorazione industriale e di quelle produttive di rifiuti non dichiarati assimilabili agli urbani; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    locali ed aree adibite a pubblici esercizi o esercizi di vendita al dettaglio di beni alimentari o deperibili, ferma restando l'intassabilita' delle superfici produttive di rifiuti non dichiarati assimilabili agli urbani.
 
 I regolamenti, divenuti esecutivi a norma di legge, sono trasmessi entro trenta giorni alla direzione centrale per la fiscalita' locale del Ministero delle finanze che formula eventuali rilievi di legittimita' entro sei mesi dalla ricezione del provvedimento. In caso di rilievi formulati tardivamente il comune non e' obbligato ad adeguarsi agli effetti dei rimborsi e degli accertamenti integrativi.
 

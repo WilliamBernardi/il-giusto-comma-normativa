@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2020-04-23;69
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,4 +29,23 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gl
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro delle infrastrutture e dei trasporti;
 
 ## Art. 1. — Modificazioni all'Appendice II - Articolo 320 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495
+
+1.
+                    
+                        
+                            All'Appendice II - Articolo 320 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera H, secondo capoverso, primo periodo, sopprimere le parole «o di trapianto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera H e' aggiunta la seguente: 
+ «H-bis. Trapianti di organo. - Il rilascio della patente di guida a soggetti trapiantati di organo, ovvero la prima conferma di validita' della patente di guida successiva al trapianto di organo, sono subordinati ad accertamento dei requisiti di idoneita' psicofisica svolto dalla commissione medica locale. Se, all'esito della visita, la commissione medica locale certifica che il conducente trapiantato presenta una condizione non suscettibile di aggravamento, la patente di guida puo' essere rilasciata per il periodo ordinariamente previsto dall'articolo 126 del codice e i successivi rinnovi sono subordinati ad accertamento delle condizioni di idoneita' psicofisica svolta da uno dei sanitari di cui all'articolo 119 del codice, salvo che questi ritenga necessaria una nuova visita collegiale qualora l'esito degli accertamenti clinici, strumentali e di laboratorio faccia sorgere dubbi circa l'idoneita' alla guida».
 

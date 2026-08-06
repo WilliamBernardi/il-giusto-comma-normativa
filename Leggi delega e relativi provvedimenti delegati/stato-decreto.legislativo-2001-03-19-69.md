@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-04-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,6 +37,31 @@ La successione gerarchica e la corrispondenza dei gradi degli ufficiali e' ripor
 
 In attuazione dell'articolo 4, comma 2, lettera c), della legge 31 marzo 2000, n. 78, il Comandante Generale ha rango gerarchico sovraordinato ai generali di corpo d'armata della Guardia di finanza con posizione funzionale connessa all'esercizio delle sue attribuzioni.
 
+4.
+                        
+                            
+                                Il Generale di corpo d'armata in servizio permanente effettivo della Guardia di finanza piu' anziano in ruolo, ovvero il parigrado che lo segue in ordine di anzianita', se il primo ricopre la carica di Comandante generale, assume la carica di Comandante in Seconda. Il Comandante in Seconda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' gerarchicamente preminente rispetto agli altri generali di corpo d'armata del Corpo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulla base delle direttive e delle deleghe ricevute dal Comandante Generale, con il quale coopera, esercita attivita' di gestione nei settori del personale, delle operazioni e dell'area logistico amministrativa, svolgendo, altresi', attivita' propositiva e consultiva nei confronti del Comandante Generale ai fini delle determinazioni inerenti alle funzioni di indirizzo, coordinamento e controllo dell'attivita' dei comandi del Corpo. 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    rimane in carica per un periodo pari ((a due anni)), salvo che nel frattempo debba cessare dal servizio permanente effettivo per limiti di eta' o per altra causa prevista dalla legge. (6)
+
 ((4-bis. Su proposta del Comandante generale, il Ministro dell'economia e delle finanze ha facolta', per gravi motivi penali o disciplinari, di escludere il generale di corpo d'armata piu' anziano e preporre alla carica di Comandante in seconda quello che lo segue in ordine di anzianita'.))
 
 ---------------
@@ -45,6 +70,24 @@ In attuazione dell'articolo 4, comma 2, lettera c), della legge 31 marzo 2000, n
  La L. 3 giugno 2010, n. 79 ha disposto (con l'art. 1, comma 4) che Le disposizioni del comma 4 dell'articolo 1 del decreto legislativo 19 marzo 2001, n. 69, come modificato dal comma 3 dell'art. 1, acquistano efficacia dalla data di assunzione della carica del Comandante generale del Corpo della guardia di finanza, nominato secondo le procedure stabilite dal primo comma del citato articolo 4 della legge n. 189 del 1959, come sostituito dal comma 1, lettera a), numero 1), del presente articolo.
 
 ## Art. 2. — (Ruoli degli ufficiali)
+
+1.
+                        
+                            
+                                I ruoli, con carriera a sviluppo dirigenziale, nei quali sono iscritti gli ufficiali del servizio permanente del Corpo della Guardia di finanza sono i seguenti: 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    ruolo normale, nel cui ambito sono istituiti i seguenti comparti: 
+ 1) ordinario; 
+ 2) aeronavale; 
+ 3) speciale;)), 
+b)LETTERA SOPPRESSA DAL D.LGS. 29 MAGGIO 2017, N. 95, 
+c)LETTERA SOPPRESSA DAL D.LGS. 29 MAGGIO 2017, N. 95, 
+d) ruolo tecnico-logistico-amministrativo.
 
 Il maestro direttore ed il maestro vice direttore della banda musicale della Guardia di finanza di cui al decreto legislativo 27 febbraio 1991, n. 79, sono computati nell'organico del ruolo normale - comparto speciale.
 
@@ -74,9 +117,140 @@ Gli aumenti o le diminuzioni degli organici rispetto a quelli previsti dalle tab
 
 ## Art. 5. — (Disposizioni comuni)
 
+1.
+                        
+                            
+                                Per conseguire la nomina ad ufficiale in servizio permanente effettivo del Corpo della (Guardia di finanza e' necessario possedere i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    essere cittadini italiani; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere in possesso di diploma di istruzione secondaria di secondo grado ovvero di diploma di laurea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere riconosciuti in possesso della idoneita' psicofisica e attitudinale al servizio incondizionato quale ufficiale in servizio permanente; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    rientrare nei parametri fisici correlati alla composizione corporea, alla forza muscolare e alla massa metabolicamente attiva secondo le tabelle stabilite dal decreto del Presidente della Repubblica 17 dicembre 2015, n. 207; 
+
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    assenza di tatuaggi o di altre permanenti alterazioni volontarie dell'aspetto fisico, non conseguenti a interventi di natura comunque sanitaria, lesivi del decoro dell'uniforme o della dignita' della condizione dell'appartenente al Corpo della guardia di finanza di cui all'articolo 721 del decreto del Presidente della Repubblica 15 marzo 2010, n. 90, secondo quanto stabilito dal bando di concorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    essere in possesso dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non essere stati destituiti, dispensati o dichiarati decaduti dall'impiego presso una pubblica amministrazione, licenziati dal lavoro alle dipendenze delle pubbliche amministrazioni a seguito di procedimento disciplinare, ovvero prosciolti, d'autorita' o d'ufficio, da precedente arruolamento nelle Forze armate e di polizia, a eccezione dei proscioglimenti per inattitudine alla vita di bordo o al volo, qualora compatibili con il comparto, la specializzazione o la specialita' per cui si concorre; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    essere in possesso dei requisiti di cui all'articolo 26 della legge 1° febbraio 1989, n. 53. A tal fine, il Corpo della guardia di finanza accerta, d'ufficio, l'irreprensibilita' del comportamento del candidato in rapporto alle funzioni proprie del grado da rivestire.
+Sono causa di esclusione dall'arruolamento anche l'esito positivo agli accertamenti diagnostici, ((...)) l'uso o la detenzione di sostanze stupefacenti o psicotrope a scopo non terapeutico, anche se saltuari, occasionali o risalenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    non essere imputati, condannati, ovvero aver ottenuto l'applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale per delitti non colposi, ne' essere o essere stati sottoposti a misure di prevenzione. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    non essere stati dimessi, per motivi disciplinari o per inattitudine alla vita militare, da accademie, scuole, istituti di formazione delle Forze armate e di polizia; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    per i militari in servizio permanente, non essere stati dichiarati non idonei all'avanzamento ovvero, se dichiarati non idonei all'avanzamento, aver successivamente conseguito un giudizio di idoneita' e che siano trascorsi almeno cinque anni dalla dichiarazione di non idoneita'; 
+
+                                
+                            
+                            
+                                g-quater)
+                                
+                                    non aver riportato, nell'ultimo biennio, sanzioni disciplinari piu' gravi della consegna; 
+
+                                
+                            
+                            
+                                g-quinquies)
+                                
+                                    non essere sottoposti a un procedimento disciplinare di corpo da cui possa derivare l'irrogazione di una sanzione piu' grave della consegna, a un procedimento disciplinare di stato o a un procedimento disciplinare ai sensi dell'articolo 17 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale; 
+
+                                
+                            
+                            
+                                g-sexies)
+                                
+                                    non essere sospesi dall'impiego o in aspettativa; 
+
+                                
+                            
+                            
+                                g-septies)
+                                
+                                    non trovarsi, alla data dell'effettivo incorporamento, in situazioni comunque incompatibili con l'acquisizione o la conservazione dello stato di ufficiale del Corpo della guardia di finanza.
+
 Con decreto del Ministro dell'economia e delle finanze sono indicati i titoli di istruzione secondaria di secondo grado richiesti per l'ammissione all'Accademia, nonche' le lauree specialistiche o magistrali e gli altri titoli di studio validi per i concorsi per la nomina ad ufficiale in servizio permanente effettivo ed eventuali ulteriori requisiti.
 
 I requisiti richiesti devono essere posseduti, se non diversamente stabilito, alle date indicate nel bando di concorso.
+
+3.
+                        
+                            
+                                Con determinazione del Comandante Generale della Guardia di finanza sono stabilite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le tipologie e le modalita' di svolgimento dei concorsi e delle relative prove e fasi concorsuali, compreso l'ordine di successione delle stesse prevedendo, ove necessario, programmi e prove differenziati in relazione ai titoli di studio richiesti o ai posti per i quali si concorre; 
+ b. la composizione delle commissioni esaminatrici, presiedute e formate da personale in servizio nella Guardia di finanza, con l'intervento, ove necessario, da uno o piu' esperti o docenti nelle materie o prove oggetto di valutazione, in servizio presso istituti pubblici o in quiescenza da non piu' di tre anni dalla data di nomina della commissione. 
+ 3.1. In aggiunta ai requisiti di cui al comma 1 e di cui all'articolo 2, commi 2 e 3, del decreto del Presidente della Repubblica 12 ottobre 2004, n. 287, per la partecipazione ai concorsi per la nomina a maestro direttore e vice direttore in servizio permanente della Banda musicale del Corpo della guardia di finanza, e' richiesto: 
+ a) il possesso di un'eta' non inferiore ad anni 18 e non superiore ad anni 40. Per i concorrenti che siano gia' componenti della Banda musicale della Guardia di finanza si prescinde dal predetto limite di eta'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il non essere stati rinviati d'autorita' o espulsi da precedenti corsi di formazione per ufficiale del Corpo della guardia di finanza o giudicati non idonei a prestare servizio nel medesimo complesso bandistico.
 
 Per quanto non disciplinato dal presente decreto si osservano le norme concernenti i pubblici concorsi laddove compatibili con la specificita' del Corpo della guardia di finanza. A tal fine il bando di concorso tiene conto anche delle esigenze di funzionalita' del medesimo Corpo e di economicita' e snellezza dell'azione amministrativa.
 
@@ -88,6 +262,24 @@ Per la partecipazione ai concorsi finalizzati al reclutamento degli ufficiali no
 Nel caso di ammissione all'Accademia o conseguimento della nomina ad ufficiale in servizio permanente effettivo per effetto delle disposizioni del presente decreto, al personale proveniente, senza soluzione di continuita', dagli ufficiali di complemento, dai ruoli ispettori, sovrintendenti, appuntati e finanzieri, qualora gli emolumenti fissi e continuativi in godimento siano superiori a quelli spettanti nella nuova posizione, e' attribuito un assegno personale pari alla relativa differenza, riassorbibile con i futuri incrementi stipendiali conseguenti a progressione di carriera o a disposizioni normative a carattere generale.
 
 ## Art. 6. — (Ufficiali del ruolo normale)
+
+1.
+                        
+                            
+                                Gli ufficiali del ruolo normale del Corpo della guardia di finanza sono tratti mediante concorso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    interno.(12)
 
 Il numero dei posti da mettere a concorso ai sensi del comma 1 e' stabilito dal Comandante generale della guardia di finanza.
 
@@ -115,7 +307,43 @@ Il termine massimo di 22 anni e' elevato a 28 anni per gli ufficiali di compleme
 
 Nel limite delle riserve di posti di cui all'articolo 5, comma 4, nei concorsi per l'ammissione all'Accademia di cui al presente articolo, la determinazione del Comandante generale della guardia di finanza di cui all'articolo 5, comma 3, puo' prevedere riserve di posti a favore dei diplomati presso le Scuole militari nella misura massima del 30 per cento dei posti disponibili.
 
+4.
+                        
+                            
+                                Il ciclo formativo dell'ufficiale del ruolo normale in servizio permanente di cui al presente articolo e' a carattere universitario, per il conseguimento della laurea magistrale in discipline economico-giuridiche, ed e' articolato in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un corso di Accademia, di durata biennale, da frequentare nella qualita' di allievo ufficiale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un corso di Applicazione, di durata triennale, da frequentare per due anni nel grado di sottotenente e per un anno nel grado di tenente. (15)
+
 I vincitori del concorso di cui all'articolo 6, comma 1, lettera a), sono ammessi alla frequenza del primo anno del corso di Accademia. La nomina a sottotenente avviene secondo l'ordine della graduatoria formata al termine del secondo anno del corso di Accademia. Al termine del corso di Applicazione e' determinata la nuova anzianita' relativa dei tenenti.
+
+6.
+                        
+                            
+                                Sono rinviati dal corso di Accademia e dal corso di Applicazione i frequentatori che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dichiarano, se allievi ufficiali, di rinunziare al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dimostrano di non possedere il complesso delle qualita' e delle attitudini indispensabili per bene assolvere le funzioni del grado rivestito o a cui aspirano.
 
 Nel caso di mancato superamento degli esami, quando non ricorrono le condizioni di cui al comma 6, e' consentito ripetere, nell'ambito dell'intero ciclo formativo, un solo anno del corso di Accademia o del corso di Applicazione. Il frequentatore che, per la seconda volta, non supera gli esami, e' rinviato dal corso. Coloro i quali risultano assenti all'ultima sessione di esami utile dell'anno di corso frequentato per cause documentate e indipendenti dalla propria volonta' o per effetto delle disposizioni di cui all'articolo 1494 del decreto legislativo 15 marzo 2010, n. 66 o agli articoli 16, 17, 32 e 47 del decreto legislativo 26 marzo 2001, n. 151, sono ammessi a ripetere l'anno di corso senza essere considerati ripetenti. L'ufficiale allievo ammesso a ripetere il ((terzo anno)) del corso di Applicazione a seguito di mancato superamento degli esami e' immesso in servizio con la medesima anzianita' assoluta dei colleghi del corso con cui ha ultimato il ciclo formativo ed e' iscritto in ruolo secondo la graduatoria redatta al termine del quinquennio dello stesso corso.
 
@@ -137,6 +365,24 @@ Gli allievi o gli ufficiali rinviati o espulsi non possono partecipare ai succes
  Il D.L. 14 agosto 2020, n. 104, convertito con modificazioni dalla L. 13 ottobre 2020, n. 126, ha disposto (con l'art. 37, comma 5-quinquies) che la presente modifica ha effetto a decorrere dall'inizio dell'anno accademico 2021/2022.
 
 ## Art. 6-ter. — (Accesso mediante concorso interno al ruolo normale - comparto speciale degli ufficiali)
+
+1.
+                        
+                            
+                                Al concorso di cui all'articolo 6, comma 1, lettera b), possono partecipare gli appartenenti alla Guardia di finanza, in servizio permanente, dei ruoli ispettori, sovrintendenti, appuntati e finanzieri, in possesso di laurea specialistica o magistrale prevista dal decreto di cui all'articolo 5, comma 2, che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    abbiano almeno 30 anni di eta' e non abbiano superato il 45° anno alla data indicata nel bando di concorso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    abbiano riportato nell'ultimo biennio la qualifica finale non inferiore a «superiore alla media» o equivalente.
 
 I vincitori del concorso di cui all'articolo 6, comma 1, lettera b), sono ammessi alla frequenza di un corso presso l'Accademia della Guardia di finanza di durata non inferiore a un anno, al termine del quale sono nominati sottotenenti del ruolo normale - comparto speciale e iscritti in ruolo secondo l'ordine della graduatoria di fine corso, con decorrenza successiva alla conclusione del medesimo corso.
 
@@ -229,15 +475,113 @@ Per l'avanzamento ai vari gradi di generale a requisiti di cui al comma 1, devon
 
 ## Art. 13. — (Modalita' di avanzamento)
 
+1.
+                        
+                            
+                                L'avanzamento degli ufficiali ha luogo 
+ 
+
+                            
+                            
+                                a)
+                                
+                                    ad anzianita'; 
+                                
+                            
+                            
+                                b)
+                                
+                                    a scelta; 
+                                
+                            
+                            
+                                c)
+                                
+                                    per meriti eccezionali. 
+ 
+ 2 L'avanzamento ad anzianita' si effettua promuovendo gli ufficiali nell'ordine di iscrizione nel rispettivo ruolo. 
+ 3. L'avanzamento a scelta si effettua promuovendo gli ufficiali nell'ordine risultante dalla graduatoria di merito o nell'ordine di iscrizione in ruolo secondo le disposizioni del presente decreto. 
+ 4. L'avanzamento per meriti eccezionali si effettua promuovendo l'ufficiale con precedenza sui parigrado idonei all'avanzamento ad anzianita' o a scelta. 
+ ((4-bis. L'avanzamento e' il complesso delle procedure autoritative e delle operazioni tecnico-amministrative, disciplinate dal presente decreto legislativo, necessarie per la progressione di carriera del personale militare. In materia di avanzamento, gli obblighi di partecipazione procedimentale e di motivazione sono assolti secondo le modalita' previste dal presente decreto legislativo.))
+
 ## - SEZIONE II AUTORITA' COMPETENTI AD ESPRIMERE GIUDIZI SULL'AVANZAMENTO E PROCEDIMENTO DI VALUTAZIONE
 
 ## Art. 14. — (Commissioni di avanzamento. Generalita)
+
+1.
+                        
+                            
+                                Esprimono giudizi sull'avanzamento ad anzianita' ed a scelta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la Commissione superiore di avanzamento nei riguardi degli ufficiali di grado pari o superiore a tenente colonnello. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Commissione ordinaria di avanzamento nei riguardi degli ufficiali aventi grado da sottotenente a maggiore.
 
 I componenti delle commissioni di avanzamento devono appartenere ai ruoli del servizio permanente effettivo e non essere a disposizione di altre amministrazioni per incarichi non previsti dalle norme di ordinamento, e che implichino la dipendenza, anche funzionale, da altre amministrazioni o enti dello Stato. (7)
 
 ((
 
+3.
+                        
+                            
+                                Non possono far parte delle commissioni di avanzamento gli ufficiali che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ricoprono la carica di Ministro o di Sottosegretario di Stato o di Capo di Gabinetto o di Vice Capo di Gabinetto presso qualsiasi amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono stati rinviati a giudizio o ammessi ai riti alternativi per delitto non colposo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sono sottoposti a procedimento disciplinare da cui possa derivare una sanzione di stato ovvero, nel grado rivestito, sono stati puniti con una sanzione disciplinare di stato.
+
 ))
+
+4.
+                        
+                            
+                                Non possono far parte delle commissioni di cui al comma 1, gli ufficiali impiegati presso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i servizi per le informazioni e la sicurezza dello Stato, di cui alla ((legge 3 agosto 2007, n. 124)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli enti, comandi o unita' internazionali, che hanno sedi di servizio fuori dal territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 29 MAGGIO 2017, N. 95)).
 
 -------------
                             AGGIORNAMENTO (7)
@@ -261,6 +605,39 @@ La Commissione superiore di avanzamento e' composta dal Comandante Generale e da
 Assume la presidenza della Commissione il Comandante Generale della Guardia di finanza o, in caso di assenza o di impedimento, il Generale di Corpo d'Armata piu' anziano in grado e, a parita' di anzianita' di grado, il piu' anziano in ruolo tra i presenti.
 
 ## Art. 17. — (Commissione ordinaria di avanzamento)
+
+1.
+                        
+                            
+                                La Commissione ordinaria da avanzamento e composta: 
+ 
+ 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal Comandante in Seconda, che la presiede. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dai sette generali di divisione piu' anziani in ruolo in comando nel Corpo. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dal colonnello piu' anziano in ruolo, in comando, del comparto ordinario, aeronavale o speciale del ruolo normale, quando si tratta di valutare ufficiali appartenenti ai rispettivi comparti, purche' non sono gia' stati valutati per sei volte ai fini dell'avanzamento al grado di generale di brigata;
+                                
+                            
+                            
+                                d)
+                                
+                                    dal colonnello piu' anziano in ruolo del ruolo tecnico logistico amministrativo qualora si tratti di valutare ufficiali appartenenti al predetto ruolo.
 
 In caso di assenza o di impedimento del Presidente, assume la presidenza l'ufficiale piu' elevato in grado e, a parita' di grado, al piu' anziano in ruolo.
 
@@ -317,17 +694,88 @@ La seconda fase e' diretta ad attribuire a ciascuno degli ufficiali giudicati id
 
 Il punto di merito di cui al comma 2, e' attribuito dalla commissione con l'osservanza delle norme che seguono.
 
+4.
+                        
+                            
+                                Quando il giudizio riguarda ufficiali fino al grado di colonnello compreso, ogni componente della commissione assegna all'ufficiale un punto da uno a trenta per ciascun complesso di elementi di cui alle seguenti lettere. 
+ 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualita' morali, di carattere e fisiche, 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    benemerenze di guerra e comportamento in guerra e qualita' professionali dimostrate durante la carriera, specialmente nel grado rivestito, con particolare riguardo all'esercizio del comando o delle attribuzioni specifiche, al servizio prestato presso reparti o in imbarco, 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    doti intellettuali e di cultura, con particolare riguardo ai risultati di corsi, esami ed esperimenti, 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attitudine ad assumere incarichi nel grado superiore, con specifico riferimento ai settori di impiego di particolare interesse dell'Amministrazione.
+
 Le somme dei punti assegnanti per ciascun complesso di elementi di cui alle lettere a), b), c) e d), del comma 4, sono divise per il numero dei votanti, e i relativi quozienti, calcolati al centesimo, sono sommati tra di loro. Il totale cosi' ottenuto e' quindi diviso per quattro, calcolando il quoziente, al centesimo. Detto quoziente costituisce il punto di merito attribuito all'ufficiale dalla commissione.
 
 Quando il giudizio riguardi ufficiali generali, ogni componente della commissione assegna all'ufficiale un punto da uno a trenta in relazione agli elementi indicati nelle lettere a), b), c) e d), del comma 4, considerati nel loro insieme. La somma dei punti cosi' assegnati e' divisa per il numero dei votanti, calcolando il quoziente al centesimo. Detto quoziente costituisce il punto di merito attribuito all'ufficiale dalla commissione.
 
 L'attribuzione dei punteggi rappresenta la sintesi del giudizio di merito espresso dalle commissione di avanzamento nei confronti degli ufficiali idonei.
 
+7-bis.
+                        
+                            
+                                Nelle procedure di avanzamento a scelta, gli ufficiali del ruolo normale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei comparti ordinario e aeronavale, sono iscritti in distinte graduatorie di merito fino alla valutazione per l'avanzamento al grado di generale di divisione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del comparto speciale: 
+ 1) sono iscritti in distinte graduatorie di merito per l'avanzamento ai gradi di maggiore, tenente colonnello e colonnello della ((prima aliquota - 2^ e 3^ valutazione)); 
+ 2) sono valutati unitamente ai parigrado del comparto ordinario per l'avanzamento ai gradi di colonnello, prima ((aliquota - 1^ valutazione, seconda)) e terza aliquota, e generale di brigata nonche' iscritti nelle medesime graduatorie di merito. Le eventuali promozioni sono computate in quelle stabilite dalla tabella 1 per gli ufficiali del comparto ordinario.
+
 Al generale di brigata del ruolo normale - comparto aeronavale iscritto al primo posto della graduatoria di merito per l'avanzamento al grado superiore e' attribuita la promozione al grado di generale di divisione qualora si constati che non ((risultino iscritti in ruolo, con il grado di generale di divisione, altri due ufficiali)) dello stesso comparto. (12) ((14))
 
 I tenenti colonnelli «a disposizione» del ruolo normale, ai fini della valutazione per la promozione di cui all'articolo 1099 del decreto legislativo 15 marzo 2010, n. 66, qualora giudicati idonei, sono iscritti in un'unica graduatoria di merito.
 
 ((
+
+7-quinquies.
+                        
+                            
+                                Nelle procedure di avanzamento a scelta, gli ufficiali del ruolo tecnico-logistico-amministrativo sono iscritti in distinte graduatorie di merito in relazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla specialita', fino al grado di colonnello; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comparto, per il grado di generale di brigata.
 
 ))
 
@@ -412,6 +860,24 @@ Qualora nei confronti di un ufficiale sia annullata la valutazione a scelta per 
 
 ## Art. 27. — (Requisiti per la valutazione)
 
+1.
+                        
+                            
+                                L'ufficiale in servizio permanente effettivo, per essere valutato per l'avanzamento, deve, in relazione al ruolo di appartenenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aver maturato gli anni di permanenza minima indicati per ciascun grado e aver compiuto i periodi minimi di comando ((...)) previsti dalle tabelle ((1)) e 4, allegate al presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere in possesso dei titoli e aver superato gli esami e i corsi eventualmente stabiliti con determinazione del Comandante Generale.
+
 Ai fini della valutazione per l' avanzamento, i periodi di comando di attribuzioni specifiche, di servizio e di imbarco, indicati nelle tabelle di cui al comma 1 per il grado rivestito, possono essere svolti, un tutto o parte, nel grado immediatamente inferiore, se previsto nelle medesime tabelle. Tali periodi devono essere svolti presso comandi, unita', reparti ed enti organicamente previsti, anche in ambito internazionale.
 
 Il periodo di comando prescritto ai fini dell' avanzamento deve essere compiuto nell'esercizio di funzione che comportino attribuzioni, oltre che disciplinari, di carattere operativo, addestrativo e di impiego del personale.
@@ -423,6 +889,45 @@ I periodi di comando, di attribuzioni specifiche, di servizio e di imbarco posso
 Ai fini della determinazione delle anzianita' minime di grado richieste per l'inclusione nelle aliquote di valutazione di cui all'articolo 28, si computa sia l'anno solare di conferimento del grado rivestito, sia quello di inserimento nelle aliquote di valutazione per l' avanzamento al grado superiore.
 
 ## Art. 28. — (Formazione delle aliquote e valutazione)
+
+1.
+                        
+                            
+                                Il 30 settembre di ogni anno, il Comandante Generale della Guardia di finanza, con propria determinazione, indica gli ufficiali da valutare per ((l'avanzamento al grado superiore)) per l'anno successivo. In tali determinazioni sono inclusi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli ufficiali non ancora valutati che, alla data suddetta, abbiano raggiunto tutte le condizioni prescritte dall'articolo 27, 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli ufficiali gia giudicati idonei e ((e non promossi)), salvo quanto previsto al comma 3, e purche' non abbiano gia subito almeno sei valutazioni ove si tratti di avanzamento ai gradi di generale del ruolo normale. Nel computo delle sei valutazioni si tiene conto anche di quelle effettuate prima dell'entrata in vigore del presente decreto. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli ufficiali ((nei cui confronti e' stata sospesa la valutazione nell'anno precedente o da)) rivalutare perche' sono venute a cessare le cause che ne avevano determinato ((l'annullamento della valutazione)) e, nel caso abbiano subito detrazioni di anzianita' ai sensi della legge sullo stato degli ufficiali, sempre che risultino piu' anziani di un pari grado gia' valutato. Sono compresi, altresi', gli ufficiali trovatisi nelle condizioni di cui all'articolo 18, comma 2; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    nell'anno in cui e' previsto il conferimento della promozione al grado superiore, i colonnelli del comparto aeronavale((;))
+                                    
+                                
+                            
+                            
+                                c-ter)
+                                
+                                    gli ufficiali nei cui confronti e' cessata la causa impeditiva che ne aveva determinato l'esclusione da aliquote per precedenti annualita'.
 
 Per gli avanzamenti ad anzianita', alla data del 30 settembre, sono inseriti nelle aliquote di valutazione gli ufficiali che nel corso dell'anno successivo maturano il requisito della permanenza minima nel grado richiesto per la promozione di cui alla colonna 5 della tabella 1 e alla colonna 12 della tabella 4 allegate al presente decreto. Resta fermo che alla suddetta data l'ufficiale deve aver maturato le altre condizioni di cui all'articolo 27.
 
@@ -462,6 +967,41 @@ Dall'anno 2018 e fino all'anno 2027, le promozioni sono conferite ai predetti uf
 
 ## Art. 29. — (Vacanze organiche)
 
+1.
+                        
+                            
+                                Determinano vacanze organiche 
+
+                            
+                            
+                                a)
+                                
+                                    le promozioni; 
+                                
+                            
+                            
+                                b)
+                                
+                                    le cessazioni dal servizio permanente; 
+                                
+                            
+                            
+                                c)
+                                
+                                    i trasferimenti in altro ruolo; 
+                                
+                            
+                            
+                                d)
+                                
+                                    i collocamenti in soprannumero agli organici disposti per legge; 
+                                
+                            
+                            
+                                e)
+                                
+                                    i decessi.
+
 Le vacanze decorrono dalla data in cui si verificano le cause che le hanno determinate nei casi di cui alle lettere a), b), c), e d), del comma 1, e per la lettera e), del medesimo comma, dal giorno successivo a quello del decesso.
 
 ((COMMA ABROGATO DAL D.LGS. 27 DICEMBRE 2019, N. 172)).
@@ -481,6 +1021,24 @@ Nei gradi in cui l'avanzamento ha luogo a scelta, il numero delle promozioni fis
 Le promozioni ad anzianita' sono conferite con decorrenza dal giorno del compimento delle anzianita' richieste alla colonna 5 della tabella 1 e alla colonna 12 della tabella 4, allegate al presente decreto.
 
 ((
+
+2-bis.
+                        
+                            
+                                Sulla scorta delle graduatorie di merito e degli elenchi degli idonei, si procede all'attribuzione della promozione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli ufficiali valutati a scelta nell'ordine della graduatoria di merito e dei comparti di cui alle colonne 2 e 7 della tabella n. 1 allegata al presente decreto legislativo, compresi nel numero dei posti corrispondente a quello delle promozioni da conferire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    agli ufficiali valutati ad anzianita' e giudicati idonei secondo l'ordine di ruolo.
 
 ))
 
@@ -503,9 +1061,85 @@ Nel caso di cui al comma 2, il Ministro dell'economia e delle finanze ha facolta
 
 ## Art. 32. — (Effetti della cessazione delle cause impeditive della valutazione o della promozione)
 
+1.
+                        
+                            
+                                All'ufficiale nei cui riguardi il procedimento penale o quello disciplinare, avviato per l'eventuale irrogazione di una sanzione di stato, si sia concluso con esito favorevole o per il quale sia stata revocata la sospensione dall'impiego di carattere precauzionale o che sia stato in aspettativa per infermita' dipendente da causa di servizio ((ovvero in aspettativa con riconoscimento dell'anzianita' di servizio)), quando sia valutato o nuovamente valutato, si applicano le disposizioni seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo ad anzianita', se giudicato idoneo e gia' raggiunto dal turno di promozione, e' promosso anche se non esiste vacanza nel grado superiore, con l'anzianita' che gli sarebbe spettata qualora la promozione avesse avuto luogo a suo tempo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo a scelta, se giudicato idoneo e se riporti un punto di merito per cui sarebbe stato promosso qualora lo stesso punto gli fosse stato attribuito in una precedente graduatoria, e' promosso anche se non esiste vacanza nel grado superiore, con l'anzianita' che gli sarebbe spettata se la promozione avesse avuto luogo a suo tempo. 
+ La promozione e' computata nel numero di quelle da effettuare per  l'anno cui si riferisce la graduatoria in occasione della quale l'ufficiale e' stato valutato o nuovamente valutato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora il provvedimento di sospensione dall'impiego abbia colpito un ufficiale con responsabilita' di comando, al medesimo e' attribuito lo stesso comando o un altro di livello equivalente alla prima assegnazione di comandi dopo la cessazione della causa impeditiva.
+
+2.
+                        
+                            
+                                Le disposizioni di cui alle lettere a) e b), del comma 1, si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'ufficiale cessato dalla carica di Ministro o di Sottosegretario di Stato. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'ufficiale per il quale sia stata ((annullata la valutazione)) a norma dell'articolo 24 ((...)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'ufficiale non inserito in aliquota a suo tempo per mancanza delle condizioni prescritte dall'articolo 27, e per il quale il raggiungimento delle condizioni anzidette sia stato ritardato per motivi di servizio riconosciuti dal Comandante generale con propria determinazione o per motivi di salute dipendenti da cause di servizio. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    all'ufficiale che, a seguito di giudizio ai sensi del comma 1 ovvero degli articoli 33 e 34, abbia maturato titolo all'inclusione in aliquota per annualita' pregresse.
+
 ## Art. 33. — (Effetti della cessazione delle cause che hanno determinato la sospensione del giudizio di avanzamento)
 
 L'ufficiale nei cui riguardi sia stato sospeso il giudizio sull'avanzamento in base alle disposizioni di cui all'articolo 18, comma 5, e' valutato per l'avanzamento quando le autorita' competenti riconoscano cessati i motivi della sospensione ((...)). ((La posizione dell'ufficiale, in ogni caso, e' presa nuovamente in esame l'anno successivo.))
+
+2.
+                        
+                            
+                                Nei confronti dell'ufficiale di cui al comma 1, si applicano le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo ad anzianita', se giudicato idoneo e gia' raggiunto dal turno di promozione, e' promosso anche se non esiste vacanza nel grado superiore, con l'anzianita' che gli sarebbe spettata qualora la promozione avesse avuto luogo a suo tempo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo a scelta se giudicato idoneo e se riporti un punto di merito per cui sarebbe stato promosso qualora lo stesso punto gli fosse stato attribuito in una precedente graduatoria e' promosso anche se non esiste vacanza nel grado superiore, con l'anzianita' che gli sarebbe spettata se la promozione avesse avuto luogo a suo tempo. La promozione e' computata nel numero di quelle da effettuare per l'anno successivo. (13)
 
 ---------------
                             AGGIORNAMENTO (13)
@@ -513,6 +1147,24 @@ L'ufficiale nei cui riguardi sia stato sospeso il giudizio sull'avanzamento in b
  Il D.Lgs. 29 maggio 2017, n. 95, come modificato dal D.Lgs. 5 ottobre 2018, n. 126, ha disposto (con l'art. 36, comma 60-quater) che "Al fine di salvaguardare i livelli di funzionalita' del Corpo della guardia di finanza, l'ultimo periodo dell'articolo 33, comma 2, lettera b), del decreto legislativo 19 marzo 2001, n. 69 non si applica con riferimento alle promozioni al grado di generale di divisione nell'anno 2019, salvo che non si determinino, al 1° luglio del medesimo anno, eccedenze nell'organico previsto dalla colonna n. 2 della tabella n. 1 allegata al medesimo decreto legislativo 19 marzo 2001, n. 69".
 
 ## Art. 34. — (Rinnovazione del giudizio di avanzamento)
+
+1.
+                        
+                            
+                                Nei casi di rinnovazione di un giudizio di avanzamento annullato d'ufficio o in seguito ad accorgimento di ricorso giurisdizionale o di ricorso straordinario al Presidente, della Repubblica si applicano le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo ad anzianita', se giudicato idoneo, e' promosso al grado superiore con l'anzianita' che gli sarebbe spettata qualora la promozione avesse avuto luogo a suo tempo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ufficiale appartenente al grado nel quale l'avanzamento ha luogo a scelta, se giudicato idoneo e se riporti un punto di merito per cui sarebbe stato promosso qualora attribuito in una precedente graduatoria, e' promosso al grado superiore con l'anzianita' che gli sarebbe spettata se la promozione avesse avuto luogo a suo tempo.
 
 La promozione di cui al comma 1 non e' ricompresa tra quelle attribuire nell'anno in cui viene rinnovato il giudizio. Qualora non sussista vacanza nelle dotazioni organiche o nei numeri massimi del grado in cui deve essere effettuata la promozione, l'eventuale eccedenza determinata dalla promozione stessa, viene riassorbita al verificarsi della prima vacanza successiva al 1 luglio dell'anno dell'avvenuta promozione dell'interessato e, comunque, entro il 31 dicembre dell'anno successivo a quello in cui viene rinnovato il giudizio. Qualora entro tale data non si siano verificate vacanze, le eccedenze sono assorbite con le modalita' di cui all'articolo 2145 del decreto legislativo 15 marzo 2010, n. 66.
 
@@ -575,9 +1227,98 @@ All'articolo 6, commi 2 e 5, del decreto del Presidente della Repubblica 13 febb
 
 ((
 
+1.
+                        
+                            
+                                L'articolo 5 della legge 15 dicembre 1959, n. 1089, e' modificato come segue:
+
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole: "si compone di ufficiali", sono inserite le seguenti: "in servizio permanente";
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente:
+ "2. Il presidente del consiglio di disciplina non puo' essere di grado inferiore a generale di divisione qualora il giudicando sia un colonnello ovvero a generale di corpo di armata quando l'ufficiale deferito sia un generale.";
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 e' sostituito dal seguente:
+ "3. In caso di indisponibilita' di ufficiali in servizio permanente del Corpo, sono chiamati a far parte del consiglio di disciplina, per i generali e i colonnelli, ufficiali generali della Guardia di finanza appartenenti all'ausiliaria o alla riserva ovvero, in caso di indisponibilita' anche di costoro, ufficiali generali o di grado corrispondente in servizio permanente delle altre Forze armate.".
+
 ))
 
 ## Art. 39. — (Riammissione in servizio)
+
+1.
+                        
+                            
+                                Gli ufficiali del ruolo normale ((...)) e tecnico-logistico- amministrativo, posti in congedo a domanda, possono ottenere la riammissione in servizio a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vi siano posti disponibili in organico nel ruolo di appartenenza e nel medesimo grado rivestito all'atto della cessazione dal servizio, 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non sia trascorso oltre un anno dalla data di collocamento in congedo alla data di presentazione dell'istanza di riammissione, 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non abbiano superato il ((40°)) anno di eta'.
+
+2.
+                        
+                            
+                                La riammissione in servizio e' disposta dal Comandante Generale della Guardia di finanza tenuto conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei precedenti di carriera, disciplinari e sanitari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle valutazioni caratteristiche riportate in servizio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del comportamento tenuto nel periodo trascorso in congedo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle qualita' morali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    del proficuo impiego in servizio in relazione alle qualita' professionali e alle specializzazioni possedute.
 
 Non puo' essere riammesso in servizio il personale collocato in congedo d'autorita'.
 
@@ -606,6 +1347,31 @@ Al personale riammesso in servizio e' applicata una detrazione di anzianita' par
 ## - CAPO III RUOLO TECNICO-LOGISTICO-AMMINISTRATIVO
 
 ## Art. 44. — (Composizione del ruolo tecnico-logistico-amministrativo)
+
+1.
+                        
+                            
+                                Il ruolo tecnico logistico amministrativo degli ufficiali in servizio permanente effettivo del Corpo della Guardia di finanza e' articolato nei seguenti comparti e specialita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    comparto logistico-amministrativo, specialita' amministrazione, specialita' commissariato, 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comparto tecnico specialita' telematica, specialita' infrastrutture e specialita' ((motorizzazione terrestre, aerea e navale)), 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comparto sanitario specialita' sanita', specialita' veterinaria e specialita' psicologia.
 
 A seguito dell'istituzione del ruolo di cui al comma 1, le esigenze dei servizi amministrativi del Corpo della Guardia di finanza sono progressivamente soddisfatte, anche con riguardo alle funzioni dirigenziali, da ufficiali generali o colonnelli appartenenti, prioritariamente, al ruolo tecnico-logistico-amministrativo.
 
@@ -658,6 +1424,129 @@ Il generale di divisione non valutato a suo tempo per mancanza delle condizioni 
 
 ## Art. 51. — Determinazione delle aliquote di valutazione nel periodo transitorio
 
+1.
+                        
+                            
+                                Al Fine di assicurare l'armonico sviluppo del ruolo normale e il graduale raggiungimento delle nuove dotazioni organiche, le relative aliquote di valutazione, nel periodo transitorio, sono fissate 
+secondo i seguenti criteri 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'avanzamento al grado di generale di divisione sono 
+inseriti in aliquota di valutazione, per l'anno 
+ 1) 2002: i generali di brigata sino al secondo in ordine di ruolo con anzianita' di grado pari al 31 dicembre 1998, 
+ 2) 2003: i generali di brigata con anzianita' di grado pari o anteriore al 31 dicembre 1999, 
+ 3) 2004: i generali di brigata con anzianita' di grado pari o anteriore al 31 dicembre 2000, 
+ 4) 2005: i generali di brigata con anzianita' di grado pari o anteriore al 31 dicembre 2001, 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'avanzamento al grado di generale di brigata sono 
+inseriti in aliquota di valutazione per l'anno 
+ 1) 2002: i colonnelli con anzianita' di grado pari o anteriore al 31 dicembre 1997, 
+ 2) 2003: i colonnelli con anzianita' di grado pari o anteriore al 31 dicembre 1995, 
+ 3) 2004: i colonnelli con anzianita' di grado pari o anteriore al 31 dicembre 1999, 
+ 4) 2005: i colonnelli con anzianita' di grado pari o anteriore al 31 dicembre 2000, 
+ 5) 2006: i primi ventidue colonnelli aventi anzianita' di grado 2001, 
+ 6) 2007: i rimanenti colonnelli con anzianita' di grado 2001 e i primi dieci colonnelli con anzianita' di grado 2002, 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'avanzamento al grado di colonnello sono inseriti in aliquota di valutazione: 
+ 1) per l'anno 2002, i tenenti colonnelli non ancora valutati con anzianita' di grado pari o anteriore al 1o dicembre 1997. 
+ 2) dall'anno 2003, e sino all'inserimento in aliquota dei tenenti colonnelli aventi anzianita' di grado anteriore al 1o gennaio 2008, le aliquote di valutazione sono fissate con determinazione del Comandante Generale in modo da ricomprendervi, a partire da tale anno, oltre agli ufficiali gia' valutati, giudicati idonei e non iscritti in quadro, una frazione di tutti gli ufficiali presenti in ruolo e non ancora valutati al grado di colonnello, aventi data di nomina ad ufficiale anteriore al 31 dicembre 1990, rispettivamente pari a: 
+ - per l'anno 2003, un decimo; 
+ - per l'anno 2004, un nono; 
+ - per l'anno 2005, un ottavo; 
+ - per l'anno 2006, un settimo; 
+ - per l'anno 2007, un sesto; 
+ - per l'anno 2008, un quinto; 
+ - per l'anno 2009, un quarto; 
+ - per l'anno 2010, un terzo; 
+ - per l'anno 2011, un mezzo; 
+ - per l'anno 2012, i rimanenti ufficiali. 
+ I criteri di cui all'articolo 28, comma 3, del presente decreto si applicano a partire dall'aliquota di valutazione formata per l'anno 2013; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per l'avanzamento al grado di maggiore sono inseriti in aliquota di valutazione: 
+ 1) per l'anno 2002, i capitani con data di nomina a ufficiale anteriore al 31 dicembre 1989. Per tale anno sono formate due distinte aliquote, nelle quali sono iscritti rispettivamente: 
+ - in prima aliquota, i capitani con data di nomina ad ufficiale anteriore al 31 dicembre 1988; 
+ - in seconda aliquota, i capitani con data di nomina ad ufficiale anteriore al 31 dicembre 1989; 
+ 2) per l'anno 2003, i capitani con data di nomina ad ufficiale anteriore al 31 dicembre l990; 
+ 3) dall'anno 2004 e sino all'inserimento in aliquota dei capitani con anzianita' di grado anteriore al 1o gennaio 2008, le aliquote di valutazione sono fissate con determinazione del Comandante Generale, su base numerica, in modo da comprendervi tutti i capitani che, al 31 dicembre dell'anno di formazione delle medesime aliquote, abbiano maturato, ai sensi dell'articolo 27, comma 6, un'anzianita' di nomina ad ufficiale in servizio permanente effettivo, pari o superiore a 13 anni. Per gli ufficiali in servizio permanente effettivo immessi in ruolo con il grado di tenente tale requisito e' ridotto a 11 anni.
+
+2.
+                        
+                            
+                                Le aliquote di valutazione del ruolo speciale, nel periodo transitorio, sono fissate secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'avanzamento al grado di colonnello, le aliquote di valutazione per gli anni dal 2002 al 2018 sono fissate con determinazione del Comandante Generale tenuto conto dei transiti previsti dall'articolo 43; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'avanzamento al grado di maggiore sono inseriti in aliquota di valutazione: 
+ 1) per l'anno 2002, i capitani con data di nomina ad ufficiale anteriore al 31 dicembre 1989. Per tale anno sono formate due distinte aliquote, nelle quali sono iscritti rispettivamente: 
+ - in prima aliquota, i capitani con data di nomina ad ufficiale anteriore al 31 dicembre 1988; 
+ - in seconda aliquota, i capitani con data di nomina ad ufficiale anteriore al 31 dicembre 1989; 
+ 2) per l'anno 2003, i capitani con data di nomina ad ufficiale anteriore al 31 dicembre 1990; 
+ 3) dall'anno 2004, e sino all'inserimento in aliquota dei capitani con anzianita' di grado anteriore al 1^ gennaio 2011, le aliquote di valutazione sono fissate con determinazione del Comandante Generale, su base numerica, in modo da comprendervi tutti i capitani che, al 31 dicembre dell'anno di formazione delle medesime aliquote, abbiano maturato, ai sensi dell'articolo 27, comma 6, un'anzianita' di nomina ad ufficiale in servizio permanente effettivo, pari o superiore a 13 anni. Per gli ufficiali in servizio permanente effettivo transitati dal ruolo normale, nel computo di tale requisito si tiene conto dell'aumento di anzianita' di cui all'articolo 43, comma 3, lettera b) e comma 4, 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'avanzamento al grado di capitano sono inseriti in aliquota di valutazione per l'anno: 
+ 1) 2002: i tenenti con anzianita' di nomina ad ufficiale anteriore al 31 dicembre 1998; 2) 2003: i tenenti con anzianita' di nomina ad ufficiale anteriore al 31 dicembre 1999; 3) 2004: i tenenti con anzianita' di nomina ad ufficiale anteriore al 31 dicembre 2000;
+4) 2005: i tenenti con anzianita' di nomina ad ufficiale anteriore al 31 dicembre 2001.
+
+3.
+                        
+                            
+                                Le aliquote di valutazione del ruolo aeronavale, nel periodo transitorio, sono fissate secondo i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'avanzamento al grado di generale di brigata sono inseriti in aliquota di valutazione per l'anno 2005 i colonnelli con anzianita' di grado non inferiore a sette anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'avanzamento al grado di maggiore sono inseriti in aliquota di valutazione: 
+ 1) per l'anno 2002, i capitani con anzianita' di grado anteriore al 31 dicembre 1992 ed i capitani transitati da altri ruoli con data di nomina a ufficiale richiesta per tale anno dal comma 1, lettera d), 
+ 2) per l'anno 2003, i capitani transitati da altri ruoli con data di nomina ad ufficiale richiesta per tale anno dal comma 1, lettera d), 
+ 3) dall'anno 2004, e sino all'inserimento in aliquota dei capitani con anzianita' di grado anteriore al 1o gennaio 2008, le aliquote di valutazione sono fissate con determinazione del Comandante Generale, su base numerica, in modo da comprendervi tutti i capitani che, al 31 dicembre dell'anno di formazione delle medesime aliquote, abbiano maturato, ai sensi dell'articolo 27, comma 6, un'anzianita' di nomina ad ufficiale un servizio permanente effettivo, pari o superiore a 13 anni, 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'avanzamento al grado di capitano sono inseriti un aliquota di valutazione per l'anno 2002 i tenenti con anzianita' di grado anteriore al 31 dicembre 1998.
+
 Sino all'anno 2007 compreso, le aliquote di valutazione al grado di colonnello delle diverse specialita' del ruolo tecnico logistico amministrativo saranno annualmente fissate con determinazione del Comandante Generale in relazione alla consistenza ed alla composizione del ruolo stesso, a seguito dei transiti effettuati ai sensi degli articoli 45 e 46. 
  ((12))
 
@@ -668,11 +1557,70 @@ Sino all'anno 2007 compreso, le aliquote di valutazione al grado di colonnello d
 
 ## Art. 52. — Determinazione delle promozioni nel periodo transitorio
 
+1.
+                        
+                            
+                                Per gli Ufficiali del ruolo normale, il numero annuale di promozioni ai gradi di seguito indicati e' fissato, nel periodo transitorio, nelle seguenti unita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    a generale di divisione 
+ 1) 3 per l'anno 2001, 
+ 2) 3 per l'anno 2002, 
+ 3) 5 per l'anno 2003, 
+ 4) 4 per l'anno 2004, 
+ 5) 4 per l'anno 2005. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a generale di brigata 
+ 1) 9 per l'anno 2001, 
+ 2) 9 per l'anno 2002, 
+ 3) 8 per l'anno 2003, 
+ 4) 8 per l'anno 2004, 
+ 5) 8 per l'anno 2005. 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a colonnello 
+ 1) 35 per gli anni 2001 e 2002, 
+ 2) dall'anno 2003, e sino all'inserimento in aliquota dei 
+tenenti colonnelli aventi anzianita' di grado anteriore al 1o gennaio 2008, oltre alle promozioni tabellari previste dalla colonna 8, della tabella I, allegata al presente decreto, il Comandante Generale, in relazione alla consistenza numerica dell'aliquota di ufficiali da valutare per la prima volta, ha facolta', con propria determinazione, di conferire, in deroga a quanto stabilito dal comma 4, le promozioni aggiuntive di cui all'articolo 31, comma 1 del presente decreto. 
+ Per l'anno 2001, qualora le graduatorie di merito siano state gia' formate, le promozioni aggiuntive rispetto alla previsione di cui alla tabella M, allegata alla legge 12 novembre 1955, n. 1137 e successive modificazioni sono attribuite, con decorrenza 1o gennaio, mediante formazione di appositi quadri suppletivi nei quali sono iscritti, in ordine di anzianita' di ruolo gli ufficiali gia' valutati, giudicati idonei e non iscritti, in quadro. L'iscrizione nei quadri di avanzamento relativi alle promozioni di cui al presente comma avviene a decorrere dall'anno 2002, in ordine di graduatoria di merito.
+
 Il numero delle promozioni annuali al grado di tenente colonnello del ruolo normale e' fissato sino all'anno 2004 compreso, in tante unita' quanti sono i maggiori inseriti in aliquota di valutazione.
 
 Il numero delle promozioni annuali al grado di maggiore del ruolo normale e' pari, sino all'anno 2003 compreso, al 95% dell'aliquota o delle aliquote di valutazione dell'anno di riferimento, con eventuale arrotondamento all'unita' superiore. La formazione dei relativi quadri di avanzamento avviene in ordine di anzianita' di ruolo. Per l'anno 2001, le promozioni aggiuntive rispetto alla previsione di cui alla tabella M, allegata alla legge 12 novembre 1955, n. 1137, e successive modificazioni, sono attribuite, con decorrenza 1o gennaio, mediante formazione di successivi quadri suppletivi, in numero massimo di 51 per ciascun quadro e sino al raggiungimento del 95% dell'aliquota di riferimento, con eventuale arrotondamento all'unita' superiore. Per l'anno 2002 e' formato un distinto quadro di avanzamento per ciascuna delle aliquote da cui all'articolo 51, comma 1, lettera d). L'iscrizione nei quadri di avanzamento relativi alle promozioni di cui al presente comma avviene, a decorrere dall'anno 2004, in ordine di graduatoria di merito.
 
 Le disposizioni di cui all'articolo 31, comma 1, si applicano, per il ruolo normale, a decorrere dall'anno 2006.
+
+5.
+                        
+                            
+                                Per gli ufficiali del ruolo speciale, il numero annuale di promozioni e' fissato, nel periodo transitorio come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al grado di colonnello, dall'anno 2002 all'anno 2018, con determinazione del Comandante Generale, tenuto conto dei transiti di cui all'articolo 43. L'iscrizione nei relativi quadri di avanzamento avviene in ordine di graduatoria di merito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al grado di maggiore, sino all'anno 2003 compreso, in tante unita' quanti sono i capitani inseriti in aliquota di valutazione.
+Per l'anno 2002 e' formato un distinto quadro di avanzamento per ciascuna delle aliquote di cui all'articolo 51, comma 1, lettera d).
+L'iscrizione nei relativi quadri di avanzamento avviene in ordine di anzianita' di ruolo.
 
 Le promozioni al grado di colonnello del ruolo aeronavale sono fissate, per gli anni dal 2002 al 2005 compreso, in due unita'. Le promozioni al grado di maggiore nel ruolo aeronavale, sino all'anno 2003 compreso, sono fissate in tante unita' quanti sono i capitani inscritti in aliquota di valutazione. L'iscrizione nei relativi quadri di avanzamento avviene in ordine di anzianita' di ruolo.
 
@@ -693,6 +1641,31 @@ Per gli anni e nei casi non previsti nel presente capo, qualora non diversamente
 Sino all'anno (( 2012 )) compreso, in relazione a variazioni superiori al 10% rispetto alla consistenza organica dei ruoli nonche' all'esigenza di mantenimento di adeguati e paritari tassi di avanzamento e di elevazione del livello ordinativo dei comandi, il Comandante Generale e' autorizzato a modificare annualmente, con propria determinazione, per i vari gradi, fino a quello di tenente colonnello, dei ruoli del servizio permanente, il numero di promozioni ai gradi superiori, nonche' le aliquote di valutazione e le permanenze minime nei gradi in cui l'avanzamento avviene ad anzianita', fermi restando gli organici complessivi.
 
 Gli ufficiali del servizio permanente a disposizione, di cui all'articolo 48, della legge l2 novembre 1955, n. 1137, sono computati negli organici e permangono in tale posizione di stato fino alla cessazione dal servizio permanente e per limiti di eta'. Gli stessi possono essere impiegati in tutti gli incarichi previsti per gli ufficiali in servizio permanente effettivo.
+
+4.
+                        
+                            
+                                Sino all'anno 2006
+ 
+                            
+                            
+                                a)
+                                
+                                    sono banditi concorsi straordinari per titoli ed esami per il reclutamento di 38 tenenti del ruolo speciale in servizio permanente effettivo della Guardia di finanza riservati ai marescialli aiutanti che hanno compiuto il 44^ anno di eta' ed in possesso degli altri requisiti previsti dall'articolo 8, comma 1, lettera a), numero 1, e comma 2. Tra i titoli da valutare ai fini della formazione della graduatoria maggiore valenza e' attribuita all'anzianita' di servizio e ai periodi di comando territoriale. I vincitori di concorso, dopo aver superato un corso di formazione di durata non inferiore a nove mesi e secondo l'ordine della graduatoria approvata al termine dello stesso, sono nominati tenenti in servizio permanente effettivo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il concorso di cui all'articolo 8, comma 1, lettera a), e' indetto per 4 posti ed e' ammesso a partecipare tutto il personale del ruolo ispettori, ad eccezione dei marescialli aiutanti di cui alla lettera a) del presente comma;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il concorso di cui all'articolo 8, comma 1, lettera b), e' indetto per 4 posti.
 
 ## Art. 54. — (Commissioni di avanzamento)
 
@@ -746,6 +1719,53 @@ Le materie ed i relativi programmi sono approvati con determinazione del Comanda
 
 ## Art. 58. — (Disposizioni concernenti gradi e qualifiche delle Forze di Polizia e delle Forze Armate)
 
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del provvedimento legislativo di cui all'articolo 71 del decreto legislativo emanato ai sensi dell'articolo 5, della legge 31 marzo 2000, n. 78, con decorrenza dal 15 marzo 2001, l'equiparazione tra i gradi e le qualifiche dei ruoli normali degli ufficiali dell'Arma dei Carabinieri e del Corpo della Guardia di finanza con i funzionari delle altre Forze di Polizia di cui all'articolo 16, commi 1 e 2, della legge 1o aprile 1981, n. 121, per l'effetto del presente decreto e degli articoli 3, 4, 5 e 7, commi 1 e 2, della legge 31 marzo 2000, n. 78, e' stabilita come di seguito:
+
+                            
+                            
+                                a)
+                                
+                                    generali di corpo d'armata : dirigente generale di livello B,
+                                
+                            
+                            
+                                b)
+                                
+                                    generali di divisione : dirigente generale,
+                                
+                            
+                            
+                                c)
+                                
+                                    generale di brigata : dirigente superiore,
+                                
+                            
+                            
+                                d)
+                                
+                                    colonnello : primo dirigente,
+                                
+                            
+                            
+                                e)
+                                
+                                    tenente colonnello maggiore: vice questore aggiunto,
+                                
+                            
+                            
+                                f)
+                                
+                                    capitano : commissario capo,
+                                
+                            
+                            
+                                g)
+                                
+                                    tenente : commissario.
+
 Analoghe modalita' di equiparazione si applicano agli ufficiali in servizio permanente degli altri ruoli e ai funzionari degli omologhi ruoli della Polizia di Stato, equiparando, altresi', il sottotenente al vice commissario.
 
 A decorrere dalla stessa data di cui al comma 1, gli effetti dell'equiparazione disposta dai commi 1 e 2 sono estesi agli ufficiali in servizio permanente dei corrispondenti gradi e ruoli dell'Esercito, della Marina e dell'Aeronautica, nonche' agli ufficiali piloti in ferma dodecennale di cui alla legge 19 maggio 1986, n. 224.
@@ -755,6 +1775,24 @@ L'equiparazione tra i gradi e le qualifiche prevista dal presente articolo non s
 ## Art. 59. — (( (Adeguamento dei ruoli, delle specialita' del ruolo tecnico-logistico-amministrativo e delle rispettive dotazioni organiche).))
 
 ((
+
+1.
+                        
+                            
+                                Con decreto del Ministro dell'economia e delle finanze, senza oneri aggiuntivi e fermi restando il volume organico complessivo di ciascun ruolo, i profili di carriera e il numero delle promozioni annuali previsti dal presente decreto, possono essere modificati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i periodi di comando e le dotazioni organiche dei singoli ruoli previsti dal presente decreto, al fine di adeguarne la consistenza al piu' efficace soddisfacimento delle esigenze operative e di funzionalita' del sostegno tecnico-logistico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolazione del ruolo tecnico-logistico-amministrativo, mediante soppressione, accorpamento o istituzione di nuove specialita' al fine di adeguarla alle effettive esigenze di sostegno tecnico-logistico.
 
 ))
 
@@ -786,15 +1824,90 @@ I ((luogotenenti del Corpo della guardia di finanza)) possono conseguire avanzam
 
 ## Art. 64. — (Competenze ed attribuzioni degli ufficiali medici della Guardia di finanza)
 
+1.
+                        
+                            
+                                In relazione alle esigenze di carattere sanitario, gli ufficiali medici in servizio nel Corpo della Guardia di finanza, oltre alle competenze generali derivanti dal loro status di ufficiali medici delle Forze Armate, hanno le seguenti attribuzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipano, con voto deliberativo, alle commissioni medico ospedaliere di cui agli articoli 193 e 194 del decreto legislativo 15 marzo 2010, n. 66, allorche' vengano prese in esame pratiche relative al personale della Guardia di finanza. Provvedono, anche quali componenti delle commissioni medico ospedaliere della Sanita' Militare, alle valutazioni collegiali medico-legali inerenti il riconoscimento del diritto ai benefici previsti dalla legge 13 agosto 1980, n. 466, dalla legge 20 ottobre 1990, n. 302, dalla legge 23 novembre 1998, n. 407, dalla legge 23 febbraio 1999, n. 44 e dalla legge 23 dicembre 2005, n. 266, in materia di vittime del dovere, della criminalita' organizzata, del terrorismo, delle richieste estorsive e dell'usura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    partecipano, con voto deliberativo, nel numero di due ufficiali superiori con funzioni di membro aggiunto, alle sezioni del Collegio medico legale di cui all'articolo 189 del decreto legislativo 15 marzo 2010, n. 66, allorche' sono prese in esame pratiche relative al personale del Corpo della Guardia di finanza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgono attivita' di medico nel settore del lavoro nell'ambito delle strutture del Corpo della Guardia di finanza. Coloro che hanno svolto per almeno quattro anni tali attribuzioni sono altresi' preposti alle attivita' di sorveglianza e vigilanza nonche' a quella di medico competente previste dalle disposizioni in materia di sicurezza sui luoghi di lavoro, ai sensi della vigente normativa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a richiesta degli interessati, forniscono assistenza al personale del Corpo, ai sensi del decreto legislativo 15 marzo 2010, n. 66, avanti alle commissioni medico ospedaliere deputate all'accertamento della dipendenza da causa di servizio di infermita' contratte.
+
 ((
 
 Agli ufficiali superiori medici che dirigono uffici sanitari del Corpo della guardia di finanza spettano, in relazione al personale del medesimo Corpo e limitatamente alle attribuzioni di cui all'articolo 1880 del decreto legislativo 15 marzo 2010, n. 66, i compiti previsti per le infermerie presidiarie di cui all'articolo 199 del predetto decreto legislativo 15 marzo 2010, n. 66.
 
 ))
 
+2.
+                        
+                            
+                                Ai fini del soddisfacimento delle proprie esigenze, il Corpo della Guardia di finanza puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    stipulare particolari convenzioni con strutture sanitarie pubbliche e, ove necessario, anche con singoli professionisti nell'ambito degli ordinari stanziamenti di bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fruire, a livello locale come centralmente, a condizione di reciprocita', delle strutture sanitarie e veterinarie di singola Forza Armata e di Polizia.
+
 Il servizio sanitario del Corpo della guardia di finanza provvede, ai sensi del regio decreto-legge 19 gennaio 1928, n. 26, convertito dalla legge 6 settembre 1928, n. 2103, all'assistenza sanitaria e alla tutela della salute del personale in servizio con le risorse umane, finanziare e strumentali disponibili a legislazione vigente nonche', anche a favore del personale in congedo e dei rispettivi familiari, con le risorse del Fondo di assistenza per i finanzieri, integralmente riassegnabili secondo le norme previste dal relativo statuto. Si applicano, in quanto compatibili, gli articoli da 181 a 195 del decreto legislativo 15 marzo 2010, n. 66. Con decreto del Ministro dell'economia e delle finanze sono emanate le conseguenti disposizioni tecniche attuative dell'ordinamento del servizio sanitario del medesimo Corpo e dei rapporti con il predetto Fondo.
 
 ## Art. 65. — (Ricompense al valore e al merito della Guardia di finanza)
+
+1.
+                        
+                            
+                                Per premiare gli atti di singolare coraggio compiuti in attivita' d'istituto svolte dalla Guardia di finanza, diretti a salvare vite umane, ad impedire sinistri o ad attenuarne le conseguenze, nonche' imprese e studi volti allo sviluppo e al progresso del Corpo ovvero singole azioni caratterizzate da somma perizia, da cui siano derivati lustro e decoro alla Guardia di finanza, sono istituite le seguenti ricompense. 
+ 
+                            
+                            
+                                a)
+                                
+                                    atti di valore 
+ 1) medaglia d'oro al valore della Guardia di finanza, 
+ 2) medaglia d'argento al valore della Guardia di finanza, 
+ 3) medaglia di bronzo al valore della Guardia di finanza; 
+ 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    imprese, studi e azioni caratterizzate da somma perizia 
+ 1) croce d'oro al merito della Guardia di finanza, 
+ 2) croce d'argento al merito della Guardia di finanza, 
+ 3) croce di bronzo ad merito della Guardia di finanza.
 
 Le ricompense di cui al comma 1, sono conferite con decreto del Presidente della Repubblica, su proposta del ((Ministro dell'economia e delle finanze)).
 
@@ -802,9 +1915,76 @@ I requisiti, le modalita' di attribuzione, le caratteristiche delle decorazioni,
 
 ## Art. 66. — (Norme che non si applicano alla Guardia di finanza)
 
+1.
+                        
+                            
+                                Non si applicano al Corpo della Guardia di finanza:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 24, 25, 26, 27, 34, 35, 36, 37, 45, 49, 50, 51, 52, 53 della legge 12 novembre 1955, n. 1137;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 58 commi 1, 3 e 4, 59 comma 1, e 60 della legge 10 maggio 1983, n. 212.
+
 Agli ufficiali della Guardia di finanza non si applica, altresi', ogni disposizione vigente incompatibile con quelle contenute nel presente decreto.
 
 ## Art. 67. — (Modificazione e abrogazione di norme)
+
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 29 gennaio 1999, n. 34, concernente norme relative alla struttura ordinativa del Corpo della Guardia di finanza, sono approvate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 1, comma 2, lettera a), prima del punto 1) e' inserito il seguente "01) generale del corpo d'armata", 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 4, comma 2, le parole: "generali di divisione" sono sostituite dalle seguenti: "generali di corpo d'armata", 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 5 
+ 1) comma 1, le parole "generale di divisione" sono sostituite dalle seguenti: "generale di corpo d'armata", 
+ 2) comma 2, dopo le parole "sono retti da" sono inserite le seguenti: "un generale di divisione o da" e le parole "un colonnello" sono soppresse, 
+ 3) comma 3, le parole "colonnello o altro ufficiale superiore" 
+ sono sostituite dalle seguenti: "generale di brigata o ufficiale superiore". 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'articolo 6, comma 1, le parole "generale di divisione" sono sostituite dalle seguenti: "generale di corpo d'armata", 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'articolo 7, comma 1, le parole "generale di divisione" sono sostituite dalle seguenti: "generale di corpo d'armata",
+                                
+                            
+                            
+                                f)
+                                
+                                    nell'articolo 7, comma 2, le parole: "generale di brigata e colonnello" sono sostituite dalle seguenti: "generale di divisione o di brigata".
 
 ((
 
@@ -814,9 +1994,129 @@ Fanno parte del Consiglio superiore della Guardia di finanza, di cui all'articol
 
 Fermo restando quanto disposto dall'articolo 53, comma 3, per gli ufficiali che si trovano nella posizione del servizio permanente a disposizione, dalla data di entrata in vigore del presente decreto e' abrogato l'articolo 48, della legge 12 novembre 1955, n. 1137.
 
+3.
+                        
+                            
+                                Sono inoltre, abrogati 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 10, comma 1, n. 5, della legge 10 aprile 1954, n. 113, 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto legislativo C.P.S. 5 ottobre 1947, n. 1557, 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 14, 15, 15 bis, 16, 17, 18, 19, 20, 21, 22, 23, 28, 29, 30, 31, 32, 33, 38, 39, 40, 41, 42, 43, 44, 46, 47, 54, 192, nonche' il Titolo II, Capi VI, VII, e VIII, e il Titolo III della legge 12 novembre 1955, n. 1137, estesa al Corpo ai sensi della legge 24 ottobre 1966, n. 887, 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il decreto del Presidente della Repubblica 26 agosto 1959, n. 1006, 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la legge 18 ottobre 1962, n. 1551, 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la legge 29 maggio 1967, n. 371, 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli articoli 53, 54, 55, 56 e 57 limitatamente al riferimento al ((Ministro dell'economia e delle finanze)) ed al Corpo della Guardia di finanza, nonche' gli articoli 58, comma 2 e 59, commi 2 e 3 e la tabella D/4 della legge 10 maggio 1983, n. 212; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 32, comma 9 ter, della legge 19 maggio 1986, n. 224; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 4, della legge 28 giugno 1986, n. 338; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    gli articoli 1, 2, 3, 4, 5, 6, 7 e 12 della legge 25 maggio 1989, n. 190; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    l'articolo 1, comma 6, secondo periodo, della legge 27 dicembre 1990, n. 404; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 3, commi 221 e 222, della legge 28 dicembre 1995, n. 549; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 8, della legge 28 marzo 1997, n. 85.
+
 Dalla data di entrata in vigore del presente decreto e' abrogato l'articolo 6, del Regio Decreto 3 giugno 1926, n. 1163.
 
 ## Art. 68. — (Riduzione e rimodulazione degli organici)
+
+1.
+                        
+                            
+                                Le consistenze organiche del personale appartenente ai ruoli ispettori, sovrintendenti, appuntati e finanzieri di cui agli articoli 3, 17 e 33 del decreto legislativo 12 maggio 1995, n. 199, sono cosi' rideterminate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ruolo ispettori n. 23.450 unita', 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ruolo sovrintendenti n. 13.300 unita', 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ruolo appuntati e finanzieri n. 26.807 unita'.
 
 La riduzione della consistenza organica del ruolo sovrintendenti di cui al comma 1, lett. b), operata ai fini della compensazione degli oneri di cui al presente decreto per una quota pari a 200 unita', sara' praticata gradualmente, salvaguardando in ogni caso l'attivita' di contrasto all'evasione fiscale ed alla criminalita' economica e finanziaria svolta dalla Guardia di finanza sul territorio, mediante appositi decreti del ((Ministro dell'economia e delle finanze)), di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, in proporzione all'effettivo incremento della consistenza dei ruoli degli ufficiali e sino al raggiungimento dei nuovi volumi organici per essi previsti, in modo tale da assicurare che l'onere netto annuo determinato dall'attuazione del presente decreto non ecceda le risorse finanziarie di cui all'articolo 69.
 

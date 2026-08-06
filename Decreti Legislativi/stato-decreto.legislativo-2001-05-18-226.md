@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-03-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,52 @@ Acquisito il parere delle competenti Commissioni della Camera dei deputati e del
 Sulla proposta del Ministro delle politiche agricole e forestali, di concerto con i Ministri dell'ambiente, del lavoro e della previdenza sociale, del tesoro, del bilancio e della programmazione economica, dell'industria, del commercio e dell'artigianato e del commercio con l'estero, per gli affari regionali e per le politiche comunitarie;
 
 ## Art. 1. — Principi generali
+
+1.
+                    
+                        
+                            Le politiche in materia di pesca e di acquacoltura:
+ 
+                        
+                        
+                            a)
+                            
+                                si ispirano ai principi della sostenibilita' e responsabilita' verso l'ambiente e verso i consumatori;
+
+                            
+                        
+                        
+                            b)
+                            
+                                assegnano priorita' agli strumenti che assicurano produzioni sicure, di qualita' ed ecosostenibili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovono opportunita' occupazionali attraverso l'incentivazione della multifunzionalita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                si avvalgono degli strumenti di concertazione tra lo Stato, le regioni, le associazioni di categoria e le organizzazioni sindacali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                si avvalgono della consultazione di tutti gli altri soggetti associativi interessati al settore, incluse le organizzazioni non governative;
+
+                            
+                        
+                        
+                            f)
+                            
+                                si avvalgono della ricerca scientifica nella definizione delle regole tecniche di accesso alle risorse biologiche e nella definizione degli indicatori di sostenibilita'.
 
 Lo Stato e le regioni garantiscono la piena coesione delle politiche in materia di pesca ed acquacoltura nel rispetto degli orientamenti e degli indirizzi di competenza dell'Unione europea.
 
@@ -59,11 +105,82 @@ Le modalita' di identificazione, delimitazione e gestione dei distretti di pesca
 
 ((
 
+1.
+                    
+                        
+                            Il Ministero delle politiche agricole alimentari e forestali puo' stipulare con le Associazioni nazionali di categoria ovvero con Consorzi dalle stesse istituiti, convenzioni per lo svolgimento di una o piu' delle seguenti attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                promozione delle attivita' produttive nell'ambito degli ecosistemi acquatici attraverso l'utilizzo di tecnologie ecosostenibili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                promozione di azioni finalizzate alla tutela dell'ambiente marino e costiero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tutela e valorizzazione delle tradizioni alimentari locali, dei prodotti tipici, biologici e di qualita', anche attraverso l'istituzione di consorzi volontari per la tutela del pesce di qualita', anche in forma di Organizzazioni di produttori; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                attuazione dei sistemi di controllo e di tracciabilita' delle filiere agroalimentare ittiche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                agevolazioni per l'accesso al credito per le imprese della pesca e dell'acquacoltura; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                riduzione dei tempi procedurali e delle attivita' documentali nel quadro della semplificazione amministrativa e del miglioramento dei rapporti fra gli operatori del settore e la pubblica amministrazione, in conformita' ai principi della legislazione vigente in materia; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                assistenza tecnica alle imprese di pesca nel quadro delle azioni previste dalla politica comune della pesca (PCP) e degli affari marittimi.
+
 Le Convenzioni di cui al comma 1 sono finanziate a valere e nei limiti delle risorse della gestione stralcio, gia' Fondo centrale per il credito peschereccio, istituita ai sensi dell'articolo 93, comma 8, della legge 27 dicembre 2002, n. 289, con decreto del Presidente del Consiglio dei ministri 4 giugno 2003, pubblicato nella Gazzetta Ufficiale n. 22 del 28 gennaio 2004.
 
 2-bis. Le risorse prelevate dal Fondo di cui al comma 2 vengono versate all'entrata del bilancio dello Stato, capitolo 3585, e successivamente riassegnate con decreto del Ministro dell'economia e delle finanze, su richiesta del Ministro delle politiche agricole alimentari e forestali, all'apposito capitolo di spesa da istituire nell'ambito dello stato di previsione del Ministero delle politiche agricole alimentari e forestali. Con decreto del Ministro dell'economia e delle finanze si provvede alle occorrenti variazioni di bilancio))
 
 ## Art. 6. — Lavoro e apprendistato
+
+1.
+                    
+                        
+                            Con atto di indirizzo e coordinamento, su proposta del Ministro delle politiche agricole e forestali e del Ministro del lavoro e della previdenza sociale, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome e sentite le associazioni professionali e le organizzazioni sindacali di categoria con riferimento ai settori della pesca e dell'acquacoltura e delle attivita' connesse sono disciplinati gli strumenti per favorire l'insediamento e la permanenza dei giovani nel settore in base ai seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                prevedere le condizioni per favorire lo sviluppo occupazionale in correlazione al contenimento del costo del lavoro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                favorire la formazione professionale e l'ingresso dei giovani nel lavoro attraverso la promozione dell'apprendistato e della formazione-lavoro.
 
 Al fine di assicurare una piu' efficiente applicazione delle norme relative al prestito d'onore, di cui all'articolo 2, comma 7, della legge 21 maggio 1998, n. 164, i previsti benefici sono estesi ai disoccupati.
 

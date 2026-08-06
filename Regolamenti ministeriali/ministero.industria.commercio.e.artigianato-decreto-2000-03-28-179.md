@@ -8,8 +8,8 @@ codice_redazionale: 000G0229
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,53 @@ Esperita la procedura d'informazione prevista dalla direttiva 98/34/CE che codif
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 7 giugno 1999;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Agli effetti del presente regolamento si intende:
+
+                        
+                        
+                            a)
+                            
+                                per "testo unico": il testo unico delle leggi sui pesi e sulle misure, approvato con regio decreto 23 agosto 1890, n. 7088, e successive modificazioni ed integrazioni;
+                            
+                        
+                        
+                            b)
+                            
+                                per "regolamento tecnico": il regolamento per la fabbricazione dei pesi, delle misure e degli strumenti per pesare e per misurare, approvato con regio decreto 12 giugno 1902, n. 226, e successive modificazioni ed integrazioni;
+                            
+                        
+                        
+                            c)
+                            
+                                per "strumenti": gli strumenti metrici contemplati dal testo unico e dal regolamento tecnico, fatta esclusione degli strumenti per pesare a funzionamento non automatico;
+                            
+                        
+                        
+                            d)
+                            
+                                per "verificazione prima": la verificazione cui gli strumenti metrici devono essere sottoposti prima dell'immissione in commercio;
+                            
+                        
+                        
+                            e)
+                            
+                                per "legalizzazione": l'apposizione dei bolli metrologici a seguito dell'esito positivo della verificazione prima;
+                            
+                        
+                        
+                            f)
+                            
+                                per "concessione di conformita' metrologica": l'attribuzione al fabbricante della facolta' di autocertificare gli strumenti in sostituzione della verifica prima;
+                            
+                        
+                        
+                            g)
+                            
+                                per "errori massimi tollerati" di uno strumento di misura: i valori estremi degli errori tollerati dalle norme regolamentari nella verificazione dello strumento.
 
 ## Art. 2. — Ambito di applicazione
 
@@ -56,11 +103,105 @@ I fabbricanti che si avvalgono della procedura di conformita' metrologica sono s
 ## Art. 7. — Modalita', requisiti e condizioni per il rilascio
  della concessione di conformita' metrologica
 
+1.
+                    
+                        
+                            Il fabbricante deve presentare alla camera di commercio apposita domanda di concessione, contenente:
+
+                        
+                        
+                            a)
+                            
+                                l'indicazione delle categorie di strumenti per i quali intende utilizzare la procedura della dichiarazione di conformita';
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione dei marchi e dei sigilli di protezione che intende utilizzare;
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' che si intendono seguire nella legalizzazione degli strumenti;
+                            
+                        
+                        
+                            d)
+                            
+                                l'impegno di adempiere agli obblighi derivanti dal sistema di garanzia della qualita', nonche' quello di mantenerlo in efficienza;
+                            
+                        
+                        
+                            e)
+                            
+                                l'impegno di adempiere agli obblighi derivanti dalla concessione;
+                            
+                        
+                        
+                            f)
+                            
+                                l'impegno a conservare copia dei certificati di conformita' metrologica degli strumenti legalizzati;
+                            
+                        
+                        
+                            g)
+                            
+                                l'indicazione dei responsabili delle procedure di qualita' e degli aspetti metrologici legali;
+                            
+                        
+                        
+                            h)
+                            
+                                l'indicazione dell'organismo che, su incarico del fabbricante ha certificato la conformita' del sistema di garanzia della qualita' alle norme armonizzate e comunitarie o equivalenti;
+                            
+                        
+                        
+                            i)
+                            
+                                dichiarazione dell'organismo di certificazione di soddisfare le condizioni previste dalle lettere a) e b) dell'articolo 9 e l'impegno di cui alla successva lettera c) del medesimo articolo;
+                            
+                        
+                        
+                            l)
+                            
+                                la natura e le modalita' del rapporto intercorrente con detto organismo, il cui contenuto non alteri le funzioni di garanzia di quest'ultimo.
+
 L'anzidetta certificazione di conformita', di cui al comma 1, lettera h), e' assunta come base per il rilascio della concessione.
 
 Il fabbricante mette a disposizione dell'organismo di certificazione e della camera di commercio tutte le informazioni necessarie, in particolare, la documentazione sul sistema di garanzia della qualita' e quella relativa ai progetti degli strumenti per i quali intende utilizzare la concessione.
 
 Il sistema di garanzia della qualita' della produzione deve convalidare la conformita' nel tempo della produzione agli standard metrologici indicati nei provvedimenti di ammissione a verifica prima, nonche' a quello di concessione.
+
+5.
+                    
+                        
+                            Tutte le disposizioni, i requisiti e gli elementi adottati dal fabbricante devono essere documentati in modo sistematico, ordinato e per iscritto, sotto forma di procedure, metodi ed istruzioni. La documentazione deve consentire una comprensione chiara ed univoca dei programmi, dei piani, dei manuali e dei verbali riguardanti la qualita'. Tale documentazione deve contenere in particolare, un'adeguata descrizione:
+
+                        
+                        
+                            a)
+                            
+                                degli obiettivi di qualita' della struttura organizzativa, delle responsabilita' e dei poteri della direzione dell'impresa per quanto concerne la qualita' del prodotto;
+                            
+                        
+                        
+                            b)
+                            
+                                del processo di fabbricazione, delle tecniche di controllo e di garanzia della qualita' delle azioni sistematiche che verranno messe in atto;
+                            
+                        
+                        
+                            c)
+                            
+                                degli esami e delle prove che verranno effettuati prima, durante e dopo la fabbricazione, con indicazione della loro frequenza;
+                            
+                        
+                        
+                            d)
+                            
+                                degli strumenti atti a controllare il conseguimento della qualita' richiesta del prodotto ed il reale funzionamento del sistema di garanzia della qualita'.
 
 La camera di commercio competente entro sessanta giorni dalla richiesta emette il provvedimento di concessione; l'eventuale provvedimento di rifiuto deve essere motivato e deve contenere l'indicazione del termine e dell'organo cui il ricorso deve essere presentato.
 
@@ -70,11 +211,63 @@ Restano salve le disposizioni di cui agli articoli 6 e 7 del Regolamento per la 
 
 ## Art. 8. — Provvedimento di concessione
 
+1.
+                    
+                        
+                            Il provvedimento di concessione contiene:
+
+                        
+                        
+                            a)
+                            
+                                l'indicazione delle categorie di strumenti;
+                            
+                        
+                        
+                            b)
+                            
+                                le iscrizioni e le caratteristiche dei marchi e dei sigilli di protezione sostitutivi dei bolli delle camere di commercio, che il fabbricante deve apporre sugli strumenti;
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' che il fabbricante deve seguire nella legalizzazione degli strumenti;
+                            
+                        
+                        
+                            d)
+                            
+                                l'indicazione dell'organismo che ha certificato la conformita' del sistema di garanzia della qualita'.
+
 In caso di variazione dell'organismo che ha certificato la conformita' del sistema di garanzia della qualita' deve essere richiesta una nuova concessione.
 
 Il provvedimento di concessione e' comunicato all'Ufficio centrale metrico a cura della camera di commercio concedente.
 
 ## Art. 9. — Caratteristiche di idoneita' degli organismi di certificazione
+
+1.
+                    
+                        
+                            Ai fini del riconoscimento dei certificati di conformita' di cui al comma 2 dell'articolo 7, sono riconosciuti validi quelli rilasciati da organismi di certificazione di sistemi di garanzia della qualita', che soddisfino le seguenti condizioni:
+
+                        
+                        
+                            a)
+                            
+                                risultino istituzionalmente rivolti al settore produttivo comprendente gli strumenti oggetto della richiesta di concessione;
+                            
+                        
+                        
+                            b)
+                            
+                                siano accreditati a livello nazionale o comunitario in base alla norma UNI CEI EN 45012 o equivalente;
+                            
+                        
+                        
+                            c)
+                            
+                                s'impegnino ad inviare, entro trenta giorni dalla conclusione delle visite ispettive effettuate in sede di certificazione o di sorveglianza, i relativi rapporti alla camera di commercio che ha rilasciato la concessione.
 
 L'Ufficio centrale metrico comunica alle camere di commercio i nominativi degli organismi che soddisfano le condizioni di cui al comma 1.
 
@@ -97,6 +290,30 @@ Il fabbricante ha l'obbligo di consentire l'accesso, ai fini della sorveglianza,
  i verbali relativi al sistema di garanzia della qualita' quali, ad esempio, i rapporti di ispezione dell'organismo di certificazione indicato nel provvedimento di concessione, nonche' quelli relativi alle prove e alle tarature effettuate.
 
 ## Art. 12. — Sospensione e revoca della concessione
+
+1.
+                    
+                        
+                            La concessione di conformita' metrologica e' sospesa qualora siano accertate una o piu' delle seguenti violazioni:
+
+                        
+                        
+                            a)
+                            
+                                il fabbricante non abbia ottemperato a quanto prescritto dall'organismo di certificazione, o dalla camera di commercio, in sede di sorveglianza del sistema di garanzia della qualita';
+                            
+                        
+                        
+                            b)
+                            
+                                il fabbricante non rispetti le condizioni alle quali e' stata rilasciata la concessione ovvero il provvedimento di ammissione alla verifica prima o ai requisiti metrologici regolamentari;
+                            
+                        
+                        
+                            c)
+                            
+                                le iscrizioni, i marchi e i sigilli di protezione prescritti risultano apposti dal fabbricante su strumenti che non presentano la conformita' o la rispondenza dichiarata.
+La sospensione dura fino alla cessazione della causa che l'ha determinata, e comunque non oltre sei mesi, al termine dei quali, qualora non sia cessata la causa, e' revocata la concessione.
 
 La concessione viene altresi' revocata per ripetute violazioni.
 

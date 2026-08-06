@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2017-04-05;52
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,31 @@ Il presente decreto reca disposizioni per la compiuta attuazione della Convenzio
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «convenzione»: la convenzione relativa all'assistenza giudiziaria in materia penale tra gli Stati membri dell'Unione europea, fatta a Bruxelles il 29 maggio 2000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «autorita' competente di altro Stato Parte»: l'autorita' che, secondo l'ordinamento dello Stato nei cui confronti sia in vigore la convenzione, e' competente a dare assistenza ad una richiesta proveniente dall'autorita' giudiziaria o dal Ministro della giustizia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «autorita' richiedente»: l'autorita' competente, secondo l'ordinamento dello Stato Parte, a richiedere assistenza all'autorita' giudiziaria o al Ministro della giustizia.
+
 ## Art. 3. — Richiesta di assistenza nei procedimenti 
  per l'applicazione di sanzioni amministrative
 
@@ -39,6 +64,24 @@ Il Ministro della giustizia da' corso alla richiesta se ritiene che essa non com
 
 ## Art. 4. — Richiesta di altro Stato Parte nei procedimenti 
  per l'applicazione di sanzioni amministrative
+
+1.
+                        
+                            
+                                Il Ministro della giustizia, ricevuta la richiesta dell'autorita' competente di altro Stato Parte per il compimento di atti di accertamento nell'ambito di un procedimento amministrativo, ne dispone la trasmissione al prefetto del luogo in cui devono essere compiuti gli atti richiesti, ovvero, quando tale luogo non e' individuabile, al prefetto di Roma, sempre che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contro la decisione dell'autorita' amministrativa sia ammesso ricorso dinnanzi all'autorita' giudiziaria; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esecuzione degli atti richiesti non comprometta la sovranita', la sicurezza o altri interessi essenziali dello Stato.
 
 Il prefetto si avvale, per l'esecuzione della richiesta, degli organi delle singole amministrazioni pubbliche, che secondo l'ordinamento interno hanno compiti di accertamento delle violazioni per cui e' prevista una sanzione amministrativa. Si applicano le disposizioni di cui alla legge 24 novembre 1981, n. 689.
 
@@ -140,6 +183,38 @@ Nel caso di detenuto in espiazione della pena il periodo di detenzione trascorso
 
 L'esecuzione della richiesta di audizione mediante videoconferenza della persona sottoposta ad indagini, dell'imputato, del testimone, del consulente tecnico o del perito ha luogo previo accordo con l'autorita' richiedente circa le modalita' dell'audizione, anche con riguardo alle misure relative alla protezione della persona da ascoltare. E' assicurata, nei casi previsti dalla legge, la nomina di un interprete. Alla richiesta di assunzione delle dichiarazioni della persona sottoposta alle indagini o dell'imputato si da' corso soltanto se questi vi consentono.
 
+2.
+                        
+                            
+                                Il procuratore della Repubblica o il giudice, ciascuno nell'ambito delle rispettive attribuzioni, provvedono a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    identificare la persona da ascoltare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    notificare l'ora e il luogo dell'audizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    citare il testimone, il consulente tecnico o il perito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    invitare la persona sottoposta alle indagini o l'imputato a comparire con le modalita' stabilite dal codice di procedura penale e ad informarlo dei diritti e delle facolta' a lui riconosciute dall'ordinamento dello Stato Parte ed espressamente indicati dall'autorita' richiedente.
+
 L'audizione e' condotta direttamente dall'autorita' richiedente o, secondo il proprio ordinamento giuridico, sotto la sua direzione.
 Al testimone e' comunque assicurata la facolta' di astensione nei casi previsti dalla legge italiana.
 
@@ -151,6 +226,24 @@ Si applicano le norme di cui agli articoli 366, 367, 368, 369, 371-bis, 372 e 37
  in uno Stato Parte
 
 L'autorita' giudiziaria procedente richiede l'audizione a distanza del testimone, del perito, del consulente tecnico e della persona informata dei fatti, direttamente all'autorita' competente di altro Stato Parte.
+
+2.
+                        
+                            
+                                La richiesta puo' essere proposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quando il soggetto di cui al comma 1 si trova nel territorio dello Stato Parte e ricorrono giustificati motivi che rendono non opportuna la sua presenza nel territorio nazionale, oppure quando e', a qualsiasi titolo, detenuto nello Stato Parte; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi previsti dall'articolo 147-bis delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, approvate con decreto legislativo 28 luglio 1989, n. 271.
 
 ## Art. 15. — Audizione dei testimoni e dei periti mediante conferenza telefonica richiesta da uno Stato Parte
 
@@ -183,6 +276,38 @@ La costituzione di squadre investigative nell'ambito dei rapporti di cooperazion
 
 ## Art. 19. — Esecuzione della richiesta di assistenza tecnica mediante ordine all'operatore di rete
 
+1.
+                        
+                            
+                                Il procuratore della Repubblica, quando e' richiesta l'assistenza tecnica alle operazioni di intercettazioni che si svolgono nel territorio dello Stato Parte richiedente o nel territorio di altro Stato Parte e la trasmissione immediata dei flussi comunicativi, verifica che l'autorita' richiedente abbia indicato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autorita' che procede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esistenza del titolo che dispone o autorizza lo svolgimento delle operazioni di intercettazione con l'indicazione del reato per il quale si procede; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i dati tecnici necessari allo svolgimento delle operazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la durata dell'intercettazione.
+
 Si da' esecuzione alla richiesta con l'ordine all'operatore di rete di cui all'articolo 96 del decreto legislativo 1° agosto 2003, n. 259, di prestare l'assistenza tecnica necessaria. All'operatore di rete e' trasmessa copia del provvedimento con cui l'autorita' richiedente ha disposto le operazioni di intercettazione.
 
 ## Art. 20. — Esecuzione della richiesta di assistenza tecnica previo controllo del giudice
@@ -205,9 +330,73 @@ Il procuratore della Repubblica senza ritardo da' comunicazione all'autorita' co
 
 ## Art. 22. — Richiesta di assistenza a uno Stato Parte per le operazioni di intercettazione
 
+1.
+                        
+                            
+                                Quando e' necessario per ragioni d'ordine tecnico, il pubblico ministero fa richiesta all'autorita' competente dello Stato Parte per ottenere assistenza allo svolgimento delle operazioni di intercettazione. A tal fine trasmette, unitamente alla richiesta di assistenza, indicazioni relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'autorita' giudiziaria che procede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'esistenza del titolo che dispone o autorizza lo svolgimento delle operazioni di intercettazione con l'indicazione del reato per il quale si procede; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai dati tecnici necessari allo svolgimento delle operazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alla durata dell'intercettazione.
+
 ## Art. 23. — Notifica a uno Stato Parte delle operazioni di intercettazione
 
 Il pubblico ministero, quando ha notizia che il dispositivo controllato si trova in territorio di altro Stato Parte, da' esecuzione al decreto e ne informa l'autorita' competente di quello Stato.
+
+2.
+                        
+                            
+                                A tal fine trasmette copia del provvedimento di intercettazione e comunica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'autorita' giudiziaria che ha disposto l'intercettazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il titolo di reato per il quale si procede; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni informazione utile ai fini dell'identificazione della persona che ha in uso il dispositivo controllato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la durata prevista dell'intercettazione.
 
 Agli adempimenti di cui al comma 2 il pubblico ministero provvede immediatamente quando acquisisce notizia, durante lo svolgimento delle operazioni di intercettazione, che il dispositivo controllato si trova nel territorio di altro Stato Parte.
 

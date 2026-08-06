@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2017-08-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,171 @@ Le norme del presente testo unico disciplinano l'emissione, gestione, ammissione
 ## Art. 2. — (L-R) 
  Definizioni
 
+1.
+                        
+                            
+                                Nel presente decreto si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    strumenti finanziari: gli strumenti finanziari previsti dall'articolo 1, comma 2, lettere b) e d), del decreto legislativo 24 febbraio 1998, n. 58, riguardante il testo unico delle disposizioni in materia di intermediazione finanziaria; ((8))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    Ministero: il Ministero dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Tesoro: Dipartimento del tesoro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Ministro: il Ministro dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Capo del debito pubblico: Dirigente generale capo della Direzione seconda del Dipartimento del tesoro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Direzione: Dipartimento del tesoro - Direzione II; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    debito pubblico interno: prodotti e strumenti finanziari a breve, medio e lungo termine emessi in euro; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    debito pubblico estero: titoli e prodotti finanziari emessi in valuta e quelli emessi secondo le medesime modalita' procedurali; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    Fondo: il "Fondo per l'ammortamento dei titoli di Stato"; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    conto disponibilita': il conto "disponibilita' del Tesoro per il servizio di tesoreria"; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    titoli di Stato: tutte le forme di indebitamento dello Stato, a breve, medio e lungo termine, nonche' i prestiti della Ferrovie dello Stato S.p.a. riconosciuti come debiti dello Stato ai sensi dell'articolo 2, comma 12, della legge 23 dicembre 1996, n. 662; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    titoli: documenti, certificati o scritture, anche nelle forme di iscrizioni contabili rappresentativi di diritti su strumenti finanziari; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    prodotti finanziari: obbligazioni e titoli non negoziabili; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    intermediari: i soggetti che sono intestatari di conti presso la societa' di gestione accentrata e tramite i quali possono esercitarsi i diritti patrimoniali ed effettuarsi le operazioni di trasferimento, di vincolo o svincolo sugli strumenti medesimi oggetto di gestione accentrata; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    ridenominazione: rideterminazione in euro dei valori degli strumenti finanziari espressi in un'unita' monetaria nazionale; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    societa' di gestione accentrata: le societa' di gestione aventi sede legale in Italia ovvero nell'Unione europea che svolgono in via prevalente o esclusiva servizi di gestione accentrata di strumenti finanziari; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    societa' gestione MTS: societa' per il mercato dei titoli di Stato - M.T.S. - S.p.a.; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    capitale sociale: l'ammontare del capitale sociale della societa' di gestione accentrata interamente versato ed esistente; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    sistemi: i sistemi di gestione accentrata di strumenti finanziari; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    separazione cedolare: operazione di separazione della componente cedolare dal valore di rimborso del titolo; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    mantello: il valore di rimborso del titolo privato delle componenti cedolari; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    ricostituzione del titolo: l'operazione di riunione con il mantello delle componenti cedolari gia' separate, anche se originate da titoli diversi, al fine di ottenere nuovi titoli; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    valute aderenti: valute degli Stati aderenti all'Unione economica e monetaria (L-R).
+
 ---------------
                             AGGIORNAMENTO (8)
                             
@@ -45,6 +210,38 @@ Le norme del presente testo unico disciplinano l'emissione, gestione, ammissione
 ## Art. 3.
 
 Emissione ((e gestione))
+
+1.
+                        
+                            
+                                Nel limite annualmente stabilito dalla legge di approvazione del bilancio di previsione dello Stato, il Ministro e' autorizzato, in ogni anno finanziario, ad emanare decreti cornice che consentano al Tesoro: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di effettuare operazioni di indebitamento sul mercato interno od estero nelle forme di prodotti e strumenti finanziari a breve, medio e lungo termine, indicandone l'ammontare nominale, il tasso di interesse o i criteri per la sua determinazione, la durata, l'importo minimo sottoscrivibile, il sistema di collocamento ed ogni altra caratteristica e modalita', ivi compresa la facolta' di stipulare convenzioni con la Banca d'Italia, con le societa' di gestione accentrata dei titoli di Stato e con intermediari finanziari italiani ed esteri, nonche' il foro competente e la legge applicabile nelle controversie derivanti dalle predette operazioni d'indebitamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di disporre, per promuovere l'efficienza dei mercati finanziari, l'emissione temporanea di tranches di prestiti vigenti attraverso il ricorso ad operazioni di pronti contro termine od altre in uso nei mercati; tali operazioni, in considerazione del loro carattere transitorio, non modificano la consistenza dei relativi prestiti e danno luogo alla movimentazione di un apposito conto di tesoreria; i conseguenti effetti finanziari vengono imputati all'entrata del bilancio dello Stato, ovvero gravano sugli oneri del debito fluttuante. Con le stesse modalita' si provvede sul mercato interbancario ad operazioni di prestito di strumenti finanziari di cui alla lettera a); 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    di disporre l'emissione di tranche di prestiti vigenti volte a costituire un portafoglio attivo di titoli di Stato da utilizzarsi per effettuare operazioni di pronti contro termine o altre in uso nei mercati finanziari, finalizzate a promuovere l'efficienza dei medesimi. I titoli emessi per essere destinati al detto portafoglio concorrono alla formazione del limite annualmente stabilito con la legge di approvazione del bilancio dello Stato soltanto nel momento in cui sono collocati sul mercato mediante le suddette operazioni((. Al portafoglio attivo si applicano le disposizioni del comma 6 dell'articolo 5)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di procedere, ai fini della ristrutturazione del debito pubblico interno ed estero, al rimborso anticipato dei titoli, a trasformazioni di scadenze, ad operazioni di scambio nonche' a sostituzione tra diverse tipologie di titoli o altri strumenti previsti dalla prassi dei mercati finanziari internazionali. (L).
 
 ((
 
@@ -137,6 +334,24 @@ L'intermediario registra, per ogni titolare del conto, gli strumenti finanziari 
 ## Art. 13. — (L)
  Compiti dell'intermediario
 
+1.
+                        
+                            
+                                L'intermediario:
+ 
+                            
+                            
+                                a)
+                                
+                                    esercita, in nome e per conto del titolare del conto i diritti inerenti agli strumenti finanziari, qualora quest'ultimo gli abbia conferito il relativo mandato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rilascia, a richiesta dell'interessato, certificazione non trasferibile, quando necessaria, per l'esercizio dei diritti relativi agli strumenti finanziari. (L).
+
 Le certificazioni rilasciate dall'intermediario devono essere accettate in deposito tutte le volte in cui la normativa prevede il deposito di titoli. (L).
 
 ## Art. 14. — (L)
@@ -216,6 +431,59 @@ La societa' di gestione accentrata dei titoli di Stato viene individuata tra que
 
 Le societa' di gestione accentrata che intendono svolgere l'attivita' di gestione accentrata dei titoli di Stato e che rispondono ai criteri di cui al comma 3 e ai requisiti previsti dall'articolo 80, commi 4 e 6, del decreto legislativo n. 58/1998, inoltrano domanda al Ministero. (R).((8))
 
+3.
+                        
+                            
+                                Il Ministero individua la societa' di gestione accentrata dei titoli di Stato sulla base dei seguenti criteri, che dovranno risultare dallo statuto, dal regolamento dei servizi o da idonea documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    grado di patrimonializzazione, che comprenda un capitale sociale non inferiore a quindici milioni di euro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    struttura organizzativa, con particolare riferimento alle condizioni e modalita' di svolgimento delle attivita' di gestione accentrata, alla qualita' e tipologia dei servizi offerti ed al grado di trasparenza dei sistemi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    operativita' con altre societa' di gestione accentrata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    svolgimento di attivita' connesse e strumentali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    eventuali costi del servizio per l'emittente e oneri per i partecipanti al sistema, nel rispetto di quanto previsto dall'articolo 81, comma 3, del decreto legislativo n. 58/1998;((8))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    intermediari ammessi al sistema; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    impegno ad osservare, nelle ipotesi di cui all'articolo 85, comma 1, del decreto legislativo di cui alla lettera e), le disposizioni previste dallo stesso articolo e dai successivi articoli 86, 87 e 88. (R).
+
 Il Ministero comunica l'esito del procedimento attivato con la domanda di cui al comma 2, entro il termine di sessanta giorni dalla data di ricevimento di tale domanda. Il predetto termine e' sospeso ove il Ministero richieda ulteriori informazioni, e, dalla data di ricezione delle stesse, decorre un nuovo termine di trenta giorni. (R).
 
 Successivamente all'individuazione della societa' di gestione accentrata dei titoli di Stato, il Ministero puo' valutare nuove domande per l'affidamento dell'attivita' di gestione accentrata. (R).
@@ -237,6 +505,42 @@ Il Ministero e' ammesso ai sistemi e puo' aprire, presso le societa' di gestione
 
 ## Art. 26. — (R)
  Rapporti tra il Tesoro e societa' di gestione accentrata
+
+1.
+                        
+                            
+                                Il rapporto tra il Ministero e la gestione accentrata dei titoli di Stato e' regolato da una convenzione che in ogni caso deve prevedere:
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di verifica dei saldi dei conti di cui all'articolo 27;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la durata e le modalita' di rinnovo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le cause, le modalita' e i termini di recesso;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di svolgimento degli adempimenti di cui al comma 2;
+ e)le modalita' e i termini di invio, anche alla Banca d'Italia, delle informazioni relative alle movimentazioni giornaliere delle consistenze dei titoli di Stato accentrati;
+ f) le modalita' e i termini di invio, anche alla Banca d'Italia, delle informazioni relative ai pagamenti da effettuare per i valori in scadenza;
+ g) le modalita' e i termini di informazione al pubblico dei valori nominali dei titoli di Stato oggetto di separazione cedolare;
+ h) le modalita' per la cancellazione dei titoli oggetto di riacquisto a valere sulle disponibilita' del Fondo e i termini di informazione al pubblico delle suddette operazioni. (R).
 
 A decorrere dal termine previsto dall'articolo 24, comma 4, gli adempimenti svolti dalla Banca d'Italia come gestore accentrato dei titoli di Stato sono eseguiti dalla societa' di gestione accentrata dei titoli di Stato. (R).
 
@@ -354,10 +658,95 @@ Per le negoziazioni dei titoli risultanti da operazioni di separazione cedolare 
 
 
 
+2.
+                        
+                            
+                                L'amministrazione del Fondo di cui al comma 1 e' attribuita al  Ministro, coadiuvato da un Comitato consultivo composto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal Direttore generale del Tesoro, che lo presiede; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal Ragioniere generale dello Stato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dal Direttore dell'Agenzia delle entrate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dal Direttore dell'Agenzia del demanio. (L).
+
 Il Ministro presenta annualmente al Parlamento, in allegato al conto consuntivo, una relazione sull'amministrazione del Fondo. Alla gestione del Fondo non si applicano le disposizioni della legge 25 novembre 1971, n. 1041, e successive modificazioni. (L).
 
 ## Art. 45. — (L)
  Conferimenti al Fondo
+
+1.
+                        
+                            
+                                Sono conferiti al Fondo:
+ 
+                            
+                            
+                                a)
+                                
+                                    i titoli di Stato, stabiliti con decreto del Ministro che ne definisce le categorie e le modalita' di computo, corrisposti dagli acquirenti per il prezzo dovuto per la vendita di beni del patrimonio immobiliare ovvero di partecipazioni dello Stato, dei quali sia disposta la dismissione ai sensi delle disposizioni vigenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli altri proventi relativi alla vendita di partecipazioni dello Stato; da tali proventi sono escluse in ogni caso le dismissioni immobiliari di cui ai commi da 86 a 119 dell'art. 3 della legge 23 dicembre 1996, n. 662;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il gettito derivante da entrate straordinarie dello Stato, nei limiti stabiliti dai rispettivi provvedimenti legislativi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le eventuali assegnazioni da parte del Ministero;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i proventi derivanti da donazioni o da disposizioni testamentarie, comunque destinate al conseguimento delle finalita' del Fondo;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i proventi derivanti dalla vendita di attivita' mobiliari e immobiliari confiscate dall'autorita' giudiziaria e corrispondenti a somme sottratte illecitamente alla pubblica amministrazione;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'importo fino ad euro 15.493.706.973 (lire 30.000 miliardi) a valere sull'autorizzazione di cui all'articolo 3, comma 5, della legge 24 dicembre 1993, n. 539. (L).
 
 Gli importi relativi ai conferimenti di cui al comma 1 affluiscono ad appositi capitoli dello stato di previsione dell'entrata per essere riassegnati allo stato di previsione del Ministero ai fini della destinazione al Fondo.
 
@@ -366,6 +755,24 @@ Il Ministro e' autorizzato ad apportare, con propri decreti, le occorrenti varia
 ## Art. 46. — ((Criteri e modalita' per l'utilizzo del Fondo))
 
 
+
+1.
+                        
+                            
+                                I conferimenti di cui all'articolo 45 sono impiegati dal Fondo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il caso previsto alla lettera a) dell'articolo 45, per l'equivalente riduzione della consistenza dei titoli di Stato in circolazione pari al valore nominale dei medesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimenti alle lettere b), c), d), e), f), e g) dell'articolo 45, nell'acquisto dei titoli di Stato, o nel rimborso dei titoli che vengono a scadere a decorrere dal 1° gennaio 1995, nonche' per l'acquisto di partecipazioni azionarie possedute da societa' delle quali il Tesoro sia unico azionista, ai fini della loro dismissione. (L).
 
 Le operazioni di acquisto di cui al comma 1 sono effettuate per il tramite della Banca d'Italia o di altri intermediari abilitati. ((PERIODO SOPPRESSO DALLA L. 23 DICEMBRE 2014, N. 190)). (L).
 
@@ -386,6 +793,51 @@ I titoli ancora circolanti in forma cartacea sono inoltrati alla Direzione che p
 
 ## Art. 48. — (R) 
  Utilizzi del Fondo
+
+1.
+                        
+                            
+                                L'utilizzo delle somme disponibili sul "Fondo" viene disposto 
+ con l'emissione di atti e provvedimenti del Direttore generale del Tesoro o, per delega, del Capo del debito pubblico per le seguenti finalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisto di titoli di Stato in circolazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimborso di titoli di Stato in scadenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    acquisto di partecipazioni azionarie detenute da societa' delle quali il Ministero sia unico azionista, ai fini della loro dismissione. (R).
+
+2.
+                        
+                            
+                                Le operazioni di acquisto di cui alla lettera a) del comma 1 
+ possono essere effettuate secondo le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    tramite incarico, conferito dal Direttore generale del Tesoro, o, per delega, dal Capo del debito pubblico, alla Banca d'Italia o ad altri intermediari, individuati, per i titoli emessi sul mercato interno, tra gli specialisti in titoli di Stato di cui all'articolo 33, con l'indicazione del prezzo massimo accoglibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tramite asta competitiva riservata agli operatori specialisti in titoli di Stato di cui alla lettera a), che intervengono per conto proprio e della clientela. (R).
 
 Con le disponibilita' del Fondo e' sostenuto il costo delle 
  operazioni di acquisto di cui al comma precedente. Il suddetto costo comprende il valore del titolo, le eventuali spese ed oneri accessori all'acquisto e gli eventuali dietimi di interessi maturati sulla cedola in corso di godimento. (R).
@@ -422,6 +874,45 @@ Nel caso in cui i titoli acquistati siano prestiti emessi sui
 
 Contenuto dell'incarico alla Banca d'Italia e agli intermediari
 
+1.
+                        
+                            
+                                L'incarico previsto dall'articolo 48, comma 2, lettera a), deve  specificare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le specie dei titoli oggetto dell'operazione e l'importo complessivo che puo' essere riacquistato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il periodo di tempo durante il quale possono essere effettuate le operazioni di acquisto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il termine di regolamento delle operazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il prezzo massimo accoglibile per ciascun titolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il compenso riconosciuto alla Banca d'Italia o agli altri intermediari per il servizio prestato. (R).
+
 In ogni caso, il Ministero si riserva di rivedere il prezzo 
  massimo di cui al punto d), ove le condizioni di mercato mutassero sensibilmente nel corso del periodo delle operazioni di acquisto. (R). 
  ((7))
@@ -452,6 +943,26 @@ Sono escluse le offerte che presentino condizioni di prezzo
 Adempimenti successivi allo svolgimento dell'asta
 
 Una volta completate le operazioni di acquisto, sono accertati,  con apposito decreto, la specie e gli importi dei titoli di Stato effettivamente ritirati dal mercato, con riferimento anche alle relative cedole. (R).
+
+2.
+                        
+                            
+                                I titoli di Stato ritirati dal mercato, con le modalita' 
+ indicate nei precedenti articoli, sono comunicati alla Direzione che provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a ridurre la consistenza del debito per l'ammontare corrispondente al valore nominale dei titoli medesimi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad apportare le conseguenti modifiche ai capitoli di bilancio corrispondenti, sia per quel che concerne la previsione di spesa per interessi che per il relativo rimborso a scadenza. (R). 
+ ((7))
 
 --------------
                             AGGIORNAMENTO (7)
@@ -518,6 +1029,31 @@ Il rimborso del capitale dei titoli di importo pari o superiore a cinque milioni
 
 Qualora i titoli siano intestati ad enti o societa' oppure a persone fisiche che non abbiano la libera disponibilita' dei propri beni, il rimborso del capitale ha luogo su domanda del titolare, o degli aventi causa, a firma autenticata. (L).
 
+3.
+                        
+                            
+                                Non occorre altresi' nella domanda l'autenticazione della firma qualora la volonta' di rimborsare risulti espressa mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    atto pubblico notarile o giudiziale o amministrativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    scrittura privata con firma autenticata da notaio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione resa presso la Direzione ((...)). (L).
+
 Il capitale dei titoli nominativi e di quelli sottoposti a vincolo cauzionale, se di importo pari o superiore a cinque milioni di lire (euro 2.582,28), e' rimborsato previa presentazione della documentazione di cui al comma 3 e, in base all'articolo 56, su presentazione di apposita dichiarazione di un intermediario finanziario attestante l'apertura di un conto di deposito intestato e vincolato di importo pari ai titoli esibiti. (R).
 
 Le operazioni di rimborso di titoli non prescritti devono essere chieste alla Direzione ((...)). (L).
@@ -527,13 +1063,89 @@ Il presente articolo si applica anche qualora sia previsto il pagamento di premi
 ## Art. 58. — (L)
  Liberazione dei vincoli
 
+1.
+                        
+                            
+                                Ai fini del rimborso, lo svincolo dei titoli nominativi di capitale nominale inferiore a cinque milioni di lire (euro 2.582,28) sottoposti a vincolo cauzionale, o quelli di capitale nominale pari o superiore a cinque milioni di lire (euro 2.582,28), sottoposti ad altro vincolo, si esegue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per consenso del creditore espresso mediante domanda con firma autenticata ovvero in uno dei modi previsti dall'articolo 57, comma 3, lettere a),
+                                
+                            
+                            
+                                b)
+                                
+                                    e c);
+ b) per provvedimento dell'autorita' competente;
+ d) per sentenza, passata in giudicato, che espressamente ne ordini la cancellazione.
+ e) quando il diritto inerente al vincolo si consolida o si confonde col diritto di proprieta' del titolo;
+ f) quando e' decorso il termine o e' cessata la causa del vincolo, salvo che vi ostino i diritti di terzi nascenti dalla legge o risultanti dagli atti depositati presso la Direzione. (L).
+
 ## Art. 59. — (L)
  Cancellazione del vincolo di usufrutto
+
+1.
+                        
+                            
+                                La cancellazione del vincolo di usufrutto, oltre che nei casi di consolidamento o di scadenza del termine, ha luogo ad istanza della parte:
+ 
+                            
+                            
+                                a)
+                                
+                                    se l'usufrutto e' vitalizio, sulla esibizione del certificato di morte dell'usufruttuario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'usufrutto e' condizionato, sulla esibizione del documento che comprovi essere venuta meno la condizione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se l'usufrutto e' a favore di un ente, allo scadere del trentennio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per prescrizione, quando non siano stati richiesti gli interessi nel corso di cinque anni. (L).
 
 Per il caso considerato nella lettera d), il termine di cinque anni decorre dal giorno in cui puo' essere fatta valere la prescrizione. (L).
 
 ## Art. 60. — (L)
  Prova del diritto a succedere
+
+1.
+                        
+                            
+                                Il diritto di successione dell'intestatario di titoli nominativi si prova presentando alla Direzione:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di successione testamentaria:
+ 1) l'estratto dell'atto di morte, o, ove possibile, la corrispondente dichiarazione sostitutiva di certificazione;
+ 2) l'atto o gli atti di ultima volonta';
+ 3) la dichiarazione sostitutiva dell'atto di notorieta', dalla quale risulti quali sono notoriamente gli eredi, che il testamento presentato e' l'unico e, nel caso di piu' testamenti, che quelli esibiti rappresentano l'ultima volonta' del testatore, che non sono insorte vertenze in rapporto alla eredita' o mosse contestazioni avverso il testamento o i testamenti, che oltre alle persone chiamate dal testatore non ve ne sono altre alle quali la legge riservi una quota di eredita' o altri diritti alla successione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di successione intestata:
+ 1) l'estratto dell'atto di morte o, ove possibile, la corrispondente dichiarazione sostitutiva di certificazione;
+ 2) la dichiarazione sostitutiva dell'atto di notorieta', con la quale si dichiari che non esistono disposizioni testamentarie e si indichino tutte le persone alle quali e' devoluta per legge la successione nonche' il luogo in cui il defunto ebbe l'ultimo domicilio. (L).
 
 ## Art. 61. — (L)
  Documenti integrativi
@@ -602,6 +1214,38 @@ L'amministrazione di cui al comma 2 riconosce come proprietario dei titoli corri
 
 ## Art. 69. — (L)
  Opposizione su iscrizioni nominative
+
+1.
+                        
+                            
+                                Le iscrizioni nominative sono soggette ad opposizione nei casi di:
+ 
+                            
+                            
+                                a)
+                                
+                                    smarrimento, sottrazione o distruzione del relativo certificato, denunziati dal titolare o dal suo avente causa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    controversia sul diritto a succedere;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fallimento del titolare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    controversia od esecuzione per effetto della ipoteca o di altro vincolo annotati sulle iscrizioni. Le iscrizioni nominative possono essere soggette a sequestro, impedimento od esecuzione forzata solo nei casi anzidetti. Salvo che si tratti di ipoteca o di vincolo a favore dello Stato o delle pubbliche amministrazioni, le opposizioni di cui alle lettere b), c) e d) non hanno efficacia se non siano state preventivamente autorizzate con provvedimento giudiziale direttamente notificato alla Direzione. (L).
 
 L'opposizione di cui alla lettera b) puo' essere mossa soltanto dall'erede del titolare o dal suo avente causa e dal legatario al quale il titolo sia stato espressamente attribuito. (L).
 
@@ -675,6 +1319,24 @@ I termini di prescrizione indicati nel presente testo unico decorrono, per i tit
 
 ## Art. 80. — (R)
  Immissione nei sistemi di titoli non dematerializzati
+
+1.
+                        
+                            
+                                Gli intermediari di cui all'articolo 12 continuano a ritirare i titoli al portatore e nominativi, appartenenti a prestiti vigenti e secondo quanto previsto dall'articolo 13, che vengono presentati presso i loro sportelli dai possessori, ai fini della dematerializzazione. Gli intermediari stessi provvedono:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla trasformazione dei titoli stessi in iscrizioni contabili, inoltrandone le distinte di presentazione alla societa' di gestione accentrata dei titoli di Stato per l'immissione nella gestione accentrata;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'invio dei titoli medesimi, unitamente alle distinte, alla Banca d'Italia, che previo accertamento della legittimita', procedera' ad annullarli e ad inviarli al Tesoro e a trasmettere le relative informazioni alla societa' di gestione accentrata dei titoli di Stato. (R).
 
 A seguito delle procedure di dematerializzazione di cui al precedente comma, la societa' di gestione accentrata dei titoli di Stato invia le informazioni sulle movimentazioni effettuate nel corso della giornata al Tesoro e alla Banca d'Italia che, entro il giorno lavorativo successivo, verificano che il saldo dei conti aperti presso la societa' di gestione accentrata dei titoli di Stato coincida con la quantita' emessa di ciascun titolo di Stato, tenendo eventualmente conto di acquisti sul mercato e della residua circolazione di titoli non dematerializzati. (R).
 

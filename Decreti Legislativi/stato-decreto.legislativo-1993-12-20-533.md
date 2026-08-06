@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2020-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -192,7 +192,84 @@ Nel caso di piu' liste collegate in coalizione, i voti sono ripartiti tra le lis
 
 ## Art. 16-bis.
 
+1.
+                        
+                            
+                                L'Ufficio elettorale centrale nazionale, ricevuti gli estratti dei verbali da tutti gli Uffici elettorali regionali, facendosi assistere, ove lo ritenga opportuno, da uno o piu' esperti scelti dal presidente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determina la cifra elettorale nazionale di ciascuna lista.
+Tale cifra e' data dalla somma delle cifre elettorali regionali conseguite nelle singole regioni dalle liste aventi il medesimo contrassegno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina il totale nazionale dei voti validi. Esso e' dato dalla somma delle cifre elettorali regionali di tutte le liste; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    determina la cifra elettorale nazionale di ciascuna coalizione di liste. Tale cifra e' data dalla somma delle cifre elettorali nazionali delle liste collegate tra loro in coalizione. Non concorrono alla determinazione della cifra elettorale nazionale di coalizione i voti espressi a favore delle liste collegate che abbiano conseguito sul piano nazionale un numero di voti validi inferiore all'1 per cento del totale, tranne il caso in cui tali liste abbiano conseguito almeno in una regione un numero di voti validi pari almeno al 20 per cento dei voti validi espressi nella regione medesima ovvero, per le liste collegate rappresentative di minoranze linguistiche riconosciute, presentate esclusivamente in una regione ad autonomia speciale il cui statuto o le relative norme di attuazione prevedano una particolare tutela di tali minoranze linguistiche, i cui candidati siano stati proclamati eletti in almeno ((un quarto dei collegi uninominali della circoscrizione regionale ai sensi dell'articolo 16, con arrotondamento all'unita' superiore)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    determina la cifra elettorale regionale di ciascuna coalizione di liste. Tale cifra e' data dalla somma delle cifre elettorali regionali delle liste collegate tra loro in coalizione, individuate ai sensi dell'ultimo periodo della lettera c); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    individua quindi: 
+ 1) le coalizioni di liste che abbiano conseguito sul piano nazionale almeno il 10 per cento dei voti validi espressi e che comprendano almeno una lista collegata che abbia conseguito sul piano nazionale almeno il 3 per cento dei voti validi espressi ovvero una lista collegata che abbia conseguito almeno il 20 per cento dei voti validi espressi almeno in una regione ovvero una lista collegata rappresentativa di minoranze linguistiche riconosciute, presentata esclusivamente in una regione ad autonomia speciale, il cui statuto o le relative norme di attuazione prevedano una particolare tutela di tali minoranze linguistiche, i cui candidati siano stati proclamati eletti in almeno ((un quarto dei collegi uninominali della circoscrizione regionale ai sensi dell'articolo 16, con arrotondamento all'unita' superiore)); 
+ 2) le singole liste non collegate, o collegate in coalizioni che non abbiano raggiunto la percentuale di cui al numero 1), che abbiano conseguito sul piano nazionale almeno il 3 per cento dei voti validi espressi, e le singole liste non collegate, o collegate in coalizioni che non abbiano raggiunto la percentuale di cui al numero 1), che abbiano conseguito almeno il 20 per cento dei voti validi espressi almeno in una regione, nonche' le liste non collegate, o collegate in coalizioni che non abbiano raggiunto la percentuale di cui al numero 1), rappresentative di minoranze linguistiche riconosciute, presentate esclusivamente in una regione ad autonomia speciale il cui statuto o le relative norme di attuazione prevedano una particolare tutela di tali minoranze linguistiche, i cui candidati siano stati proclamati eletti in almeno ((un quarto dei collegi uninominali della circoscrizione regionale ai sensi dell'articolo 16, con arrotondamento all'unita' superiore)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    comunica agli Uffici elettorali regionali, a mezzo di estratto del verbale, l'elenco delle liste e delle coalizioni di liste individuate ai sensi della lettera e), numeri 1) e 2).
+
 ## Art. 17.
+
+1.
+                        
+                            
+                                L'Ufficio elettorale regionale procede all'assegnazione dei seggi spettanti nei collegi plurinominali della regione alle liste singole e alle coalizioni di liste individuate dall'Ufficio elettorale centrale nazionale ai sensi dell'articolo 16-bis, comma 1, lettera e), numeri 1) e 2), e incluse nell'elenco di cui all'articolo 16-bis, comma 1, lettera f). A tale fine l'Ufficio procede alle seguenti operazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    divide il totale delle cifre elettorali regionali delle coalizioni di liste di cui all'articolo 16-bis, comma 1, lettera e), numero 1), e delle singole liste che abbiano conseguito sul piano nazionale almeno il 3 per cento dei voti validi espressi o che abbiano conseguito almeno il 20 per cento dei voti validi espressi nella regione e delle singole liste rappresentative di minoranze linguistiche riconosciute, presentate esclusivamente in una regione ad autonomia speciale il cui statuto o le relative norme di attuazione prevedano una particolare tutela di tali minoranze linguistiche, i cui candidati siano stati proclamati eletti in almeno ((un quarto dei collegi uninominali della circoscrizione regionale ai sensi dell'articolo 16, con arrotondamento all'unita' superiore)), per il numero di seggi da attribuire nei collegi plurinominali della regione, ottenendo cosi' il quoziente elettorale regionale.
+Nell'effettuare tale divisione non tiene conto dell'eventuale parte frazionaria del quoziente. Divide poi la cifra elettorale regionale di ciascuna coalizione di liste o singola lista per tale quoziente.
+La parte intera del quoziente cosi' ottenuto rappresenta il numero dei seggi da assegnare a ciascuna coalizione di liste o singola lista. I seggi che rimangono ancora da attribuire sono rispettivamente assegnati alle coalizioni di liste o singole liste per le quali queste ultime divisioni hanno dato i maggiori resti e, in caso di parita' di resti, a quelle che hanno conseguito la maggiore cifra elettorale regionale; a parita' di quest'ultima si procede a sorteggio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procede, per ciascuna coalizione di liste, al riparto dei seggi fra le liste collegate ammesse al riparto che abbiano conseguito sul piano nazionale almeno il 3 per cento dei voti validi espressi, nonche' fra le liste collegate che abbiano conseguito almeno il 20 per cento dei voti validi espressi nella regione, nonche' fra le liste collegate rappresentative di minoranze linguistiche riconosciute, presentate esclusivamente in una regione ad autonomia speciale il cui statuto o le relative norme di attuazione prevedano una particolare tutela di tali minoranze linguistiche, i cui candidati siano stati proclamati eletti in almeno ((un quarto dei collegi uninominali della circoscrizione regionale ai sensi dell'articolo 16, con arrotondamento all'unita' superiore)). A tale fine, divide la somma delle cifre elettorali delle liste ammesse al riparto per il numero di seggi individuato ai sensi della lettera a). Nell'effettuare tale divisione non tiene conto dell'eventuale parte frazionaria del quoziente cosi' ottenuto. Divide poi la cifra elettorale regionale di ciascuna lista ammessa al riparto per tale quoziente. La parte intera del quoziente cosi' ottenuto rappresenta il numero dei seggi da assegnare a ciascuna lista. I seggi che rimangono ancora da attribuire sono rispettivamente assegnati alle liste per le quali queste ultime divisioni abbiano dato i maggiori resti e, in caso di parita' di resti, alle liste che abbiano conseguito la maggiore cifra elettorale regionale; a parita' di quest'ultima si procede a sorteggio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nelle regioni ripartite in piu' collegi plurinominali, procede quindi alla distribuzione nei singoli collegi plurinominali dei seggi assegnati alle liste. A tale fine, per ciascun collegio plurinominale divide la somma delle cifre elettorali di collegio delle liste alle quali devono essere assegnati seggi per il numero dei seggi da attribuire nel collegio plurinominale, ottenendo cosi' il quoziente elettorale di collegio. Nell'effettuare tale divisione non tiene conto dell'eventuale parte frazionaria del quoziente cosi' ottenuto.
+Divide poi la cifra elettorale di collegio di ciascuna lista per il quoziente elettorale di collegio, ottenendo cosi' il quoziente di attribuzione. La parte intera del quoziente di attribuzione rappresenta il numero dei seggi da assegnare a ciascuna lista. I seggi che rimangono ancora da attribuire sono rispettivamente assegnati alle liste per le quali queste ultime divisioni hanno dato le maggiori parti decimali e, in caso di parita', alle liste che hanno conseguito la maggiore cifra elettorale di collegio; a parita' di quest'ultima si procede a sorteggio. Esclude dall'attribuzione di cui al periodo precedente le liste alle quali e' stato gia' attribuito il numero di seggi ad esse assegnato a seguito delle operazioni di cui alle lettere a) e b). Successivamente l'ufficio accerta se il numero dei seggi assegnati in tutti i collegi plurinominali a ciascuna lista corrisponda al numero di seggi determinato ai sensi delle lettere a) e b). In caso negativo, determina la lista che ha il maggior numero di seggi eccedentari e, a parita' di essi, la lista che tra queste ha ottenuto il seggio eccedentario con la minore parte decimale del quoziente; sottrae quindi il seggio a tale lista nel collegio in cui e' stato ottenuto con la minore parte decimale dei quozienti di attribuzione e lo assegna alla lista deficitaria che ha il maggior numero di seggi deficitari e, a parita' di essi, alla lista che tra queste ha la maggiore parte decimale del quoziente che non ha dato luogo all'assegnazione di seggio; il seggio e' assegnato alla lista deficitaria nel collegio plurinominale in cui essa ha la maggiore parte decimale del quoziente di attribuzione non utilizzata; ripete quindi, in successione, tali operazioni sino alla assegnazione di tutti i seggi eccedentari alle liste deficitarie.
 
 ---------------
                             AGGIORNAMENTO (9)
@@ -227,11 +304,62 @@ Nel caso in cui rimanga vacante per qualsiasi causa, anche sopravvenuta, un segg
 
 ## Art. 20.
 
+1.
+                        
+                            
+                                L'elezione uninominale ((nei collegi delle regioni che eleggono un solo senatore)) e nei collegi uninominali della regione Trentino-Alto Adige e' regolata dalle disposizioni dei precedenti articoli, in quanto applicabili, e dalle norme seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((nelle regioni che eleggono un solo senatore)) la candidatura deve essere proposta con dichiarazione sottoscritta da non meno di 300 e da non piu' di 600 elettori del collegio. In caso di scioglimento del Senato della Repubblica che ne anticipi la scadenza di oltre centoventi giorni, il numero delle sottoscrizioni della candidatura e' ridotto della meta'. La dichiarazione di candidatura e' effettuata, insieme al deposito del relativo contrassegno, presso la cancelleria del tribunale ((del capoluogo di regione)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DALLA L. 3 NOVEMBRE 2017, N. 165; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i modelli di scheda per l'elezione nei collegi uninominali delle ((regioni di cui al presente articolo)) sono quelli previsti dalle tabelle F e G allegate alla legge 13 marzo 1980, n. 70, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il tribunale ((del capoluogo di regione)), costituito in ufficio elettorale regionale ai sensi dell'articolo 7, esercita le sue funzioni con l'intervento di tre magistrati.
+
 ## Art. 20-bis. — ((1. A pena di nullita' dell'elezione, nessun candidato puo' accettare la candidatura in piu' di un collegio uninominale.))
 
 ## Art. 21.
 
 ((
+
+1.
+                        
+                            
+                                L'ufficio elettorale regionale procede, con l'assistenza del cancelliere, alle seguenti operazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettua lo spoglio delle schede eventualmente inviate dalle sezioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    somma i voti ottenuti da ciascun candidato nelle singole sezioni, come risultano dai verbali.
 
 Il presidente dell'ufficio elettorale regionale, in conformita' ai risultati accertati, proclama eletto per ciascun collegio il candidato che ha ottenuto il maggior numero di voti validi. In caso di parita' di voti, e' proclamato eletto il candidato piu' anziano di eta'.
 

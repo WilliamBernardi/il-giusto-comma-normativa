@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-11-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,6 +39,41 @@ In sede periferica detta attivita' e' espletata dal comandante delle scuole cent
 L'attivita' amministrativa e contabile degli Ispettorati aeroportuali e portuali viene espletata del locale comando provinciale.
 
 ## Art. 2. — Attribuzioni in materia di amministrazione e contabilita'
+
+1.
+                        
+                            
+                                Le attribuzioni in materia di amministrazione e contabilita' sono le seguenti:
+
+                            
+                            
+                                a)
+                                
+                                    trattamento economico del personale: predisposizione degli atti relativi alle attribuzioni di stipendio ed altri assegni fissi; trattamenti pensionistici e di fine rapporto; riscatti; ricongiunzioni di servizio; costituzione di posizioni assicurative I.N.P.S.; trattamenti speciali; equo indennizzo;
+                                
+                            
+                            
+                                b)
+                                
+                                    adempimenti per la liquidazione di competenze accessorie e di eventuali altri emolumenti dovuti al personale del Corpo nazionale dei vigili del fuoco;
+                                
+                            
+                            
+                                c)
+                                
+                                    gestione patrimoniale: mobilio, arredi, vestiario, equipaggiamento, casermaggio, altri materiali e mezzi; manutenzione locali ed impianti;
+                                
+                            
+                            
+                                d)
+                                
+                                    servizio di cassa: riscossioni e pagamenti;
+                                
+                            
+                            
+                                e)
+                                
+                                    servizi vari: mense di servizio; pulizia dei locali, sedi di servizio; spese varie, sanitarie, ginnico-sportive, d'ufficio.
 
 ## - Capo II Amministrazione del personale
 
@@ -129,6 +164,24 @@ L'ammontare dei fondi in denaro contante custoditi nella cassaforte deve essere 
 
 ## Art. 16. — Registri di cassa
 
+1.
+                        
+                            
+                                Nella cassa, oltre a quanto indicato nel precedente articolo 15 sono custoditi:
+
+                            
+                            
+                                a)
+                                
+                                    il registro o giornale di cassa sul quale verranno annotate e sottoscritte, dagli agenti responsabili, tutte le operazioni nel momento in cui si compiono. Il registro e' chiuso al termine di ogni giornata con la verifica dell'effettivo fondo cassa esistente;
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro dei valori in cui sono descritti i valori in custodia.
+ I singoli movimenti di introduzione e di prelievo devono essere registrati e sottoscritti dagli agenti responsabili.
+
 Per le registrazioni di cui al comma 1 e la tenuta delle scritture possono essere utilizzati sistemi elettronici protetti. Al termine di ciascuna giornata in cui sono stati eseguiti i movimenti, devono essere stampate le pagine del registro interessato al movimento che devono contenere l'indicazione del numero progressivo e devono essere sottoscritte dall'agente incaricato.
 
 ## Art. 17. — Nomina
@@ -196,6 +249,41 @@ Ogni funzionario delegato, attraverso propri incaricati, svolge un'accurata e co
 La gestione amministrativa dei beni mobili, di cui all'articolo 2, comma 1, lettera c), comprende tutto cio' che comporta una modificazione nella consistenza e nel valore dei materiali di proprieta' dell'Amministrazione e che riguarda l'approvvigionamento, la ricezione, il collaudo, la custodia, la conservazione, la distruzione con eventuale recupero di parti, la manutenzione, la distribuzione, la revisione, la riparazione e la trasformazione dei materiali, nonche' l'alienazione dei beni dichiarati fuori uso.
 
 ## Art. 28. — Organi preposti
+
+1.
+                        
+                            
+                                I materiali comunque acquisiti, devono essere introdotti nei magazzini, salvo le eccezioni previste e assunti in carico da agenti contabili denominati consegnatari, che si distinguono in:
+
+                            
+                            
+                                a)
+                                
+                                    consegnatario del magazzino centrale per gli effetti di vestiario e di equipaggiamento e materiali di accasermamento, nonche' per i beni non compresi nei successivi punti, nell'ambito del servizio gestioni contabili;
+                                
+                            
+                            
+                                b)
+                                
+                                    consegnatario degli elicotteri e dei relativi materiali, nell'ambito dell'Ispettorato aereomarittimo;
+                                
+                            
+                            
+                                c)
+                                
+                                    consegnatario dei materiali telecomunicazioni, statistica e automazione, nell'ambito dell'Ispettorato impianti telecomunicazioni e reti ionometriche, statistica ed automazione;
+                                
+                            
+                            
+                                d)
+                                
+                                    consegnatario del servizio documentazioni e relazioni pubbliche, nell'ambito dell'Ispettorato formazione professionale;
+                                
+                            
+                            
+                                e)
+                                
+                                    consegnatari delle scuole centrali antincendi, del centro studi ed esperienze, degli ispettorati regionali ed interregionali e dei comandi provinciali.
 
 I consegnatari di cui al comma 1, lettere a), b) e c), sono nominati con decreto del Direttore generale della protezione civile e dei servizi antincendi, e sono responsabili per debito di custodia, con obbligo di ricezione, custodia, conservazione e distribuzione dei materiali destinati al rifornimento delle strutture periferiche. Tali consegnatari sono tenuti alla resa del conto giudiziale della propria gestione.
 

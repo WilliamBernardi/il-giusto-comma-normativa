@@ -7,8 +7,8 @@ urn: urn:nir:ministero.turismo:decreto:2021-09-29;161
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,52 @@ Udito il parere del Consiglio di Stato n. 1454, espresso dalla Sezione consultiv
 ## Art. 1. — Banca dati delle strutture ricettive e degli immobili destinati alle locazioni brevi
 
 In attuazione dell'articolo 13-quater, comma 4, del decreto-legge 30 aprile 2019, n. 34, il presente decreto stabilisce le modalita' di realizzazione e di gestione della banca di dati delle strutture ricettive e degli immobili destinati alle locazioni brevi di cui all'articolo 4 del decreto-legge 24 aprile 2017, n. 50, di seguito banca dati, le modalita' di accesso alle informazioni ivi contenute, nonche' di acquisizione dei codici identificativi regionali, ove adottati.
+
+2.
+                    
+                        
+                            Nella banca dati sono raccolte e ordinate le seguenti informazioni inerenti alle strutture ricettive e agli immobili destinati alle locazioni brevi: 
+ 
+                        
+                        
+                            a)
+                            
+                                tipologia di alloggio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ubicazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                capacita' ricettiva; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                estremi dei titoli abilitativi richiesti, ai fini dello svolgimento dell'attivita' ricettiva, dalla normativa nazionale, regionale e delle Provincie autonome di Trento e Bolzano, in materia urbanistica, edilizia, ambientale, di pubblica sicurezza, di prevenzione incendi, igienico-sanitarie e di sicurezza nei luoghi di lavoro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                soggetto che esercita l'attivita' ricettiva, anche in forma di locazione breve; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                codice identificativo regionale, ove adottato, o codice alfanumerico di cui al comma 3.
 
 Per le strutture ricettive e gli immobili destinati a locazioni brevi ubicati in una regione o in una provincia autonoma che non ha adottato un proprio codice identificativo, sulla base dei dati di cui al comma 2, la banca dati genera un codice alfanumerico, recante l'indicazione della tipologia di alloggio, della regione o della provincia autonoma e del comune di ubicazione.
 

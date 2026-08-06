@@ -8,8 +8,8 @@ codice_redazionale: 098G0206
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,35 @@ Fatta salva l'applicazione di sanzioni penali e amministrative, qualora durante 
 La domanda di aiuto viene inoltre respinta se, fatto salvo quanto previsto al comma 2 del precedente articolo 1 e dal comma 4 del presente articolo, l'istruttoria abbia evidenziato irregolarita', incompletezza della documentazione, mancanza dei requisiti di concessione degli aiuti e dei presupposti richiesti dalla vigente normativa e dal programma regionale di applicazione del regolamento (CEE) n. 2078/92.
 
 La domanda e' inoltre respinta, per la singola misura, qualora si accerti, anche tramite sopralluogo, che la differenza tra la superficie dichiarata in domanda e quella accertata ed ammissibile all'aiuto e' superiore al 20% di quanto dichiarato; se l'aiuto ha per oggetto capi di bestiame, la domanda e' respinta nel caso in cui la differenza superi il 20% delle unita' di bovino adulto (di seguito UBA) dichiarate in domanda.
+
+4.
+                    
+                        
+                            Al di sotto delle soglie di cui al comma 3 l'ufficio istruttore procede al ricalcolo degli aiuti da corrispondere al beneficiario con le seguenti modalita':
+ A) Nel caso di aiuti per superfici:
+ 1) qualora la superficie accertata risulti superiore a quella dichiarata nella domanda, l'importo del premio viene calcolato sulla base della superficie dichiarata;
+ 2) qualora la superficie dichiarata in una domanda d'aiuto superi la superficie accertata, l'aiuto viene concesso sulla base di tale ultima superficie. Tuttavia, se la differenza tra quanto dichiarato in domanda e quanto effettivamente accertato e' maggiore del 3% o di 2 ettari ma non superiore al 20% di quanto dichiarato in domanda, ai fini della determinazione del premio, la superficie effettivamente accertata viene ridotta, per il primo anno, di due volte la differenza constatata; per gli anni successivi, ai medesimi fini verra' considerata la superficie effettiva.
+ B) Per le UBA:
+ 1) in nessun caso sono concessi premi per un numero di UBA eccedente quello indicato nella domanda di aiuto;
+ 2) qualora all'imprenditore sia imposto un limite o un massimale individuale di UBA, il numero delle UBA indicate nelle domande di aiuto non puo' superare detto limite;
+ 3) qualora si constati che il numero di UBA dichiarato in una domanda d'aiuto supera il numero di UBA constatati al momento del controllo, l'importo dell'aiuto viene considerato in base al numero delle UBA esistenti. Tuttavia, salvo i casi di forza maggiore e previa l'applicazione del paragrafo 5, dell'articolo 10, del regolamento (CEE) n. 3887/92, l'importo dell'aiuto, per il primo anno, viene cosi diminuito:
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso di una domanda riguardante al massimo 20 UBA:
+ 1) della percentuale corrispondente all'eccedenza constatata se essa e' inferiore o uguale a 2 UBA, calcolata rispetto a quanto dichiarato in domanda;
+ 2) della percentuale doppia rispetto all'eccedenza se essa e' superiore a 2 e uguale o inferiore a 4 UBA, calcolata rispetto a quanto dichiarato in domanda;
+
+                            
+                        
+                        
+                            b)
+                            
+                                negli altri casi:
+ 1) della percentuale corrispondente all'eccedenza constatata se essa e' inferiore o uguale a 5% delle UBA dichiarate in domanda;
+ 2) di due volte la percentuale se l'eccedenza constata e' superiore al 5% e uguale o inferiore al 20% delle UBA dichiarate in domanda.
 
 Qualora il sopralluogo evidenzi l'inadempimento di impegni tecnici da assolversi, in base alla domanda, anteriormente alla data della verifica in loco, si applicano le disposizioni di cui all'articolo 6 fatte salve quelle relative al recupero dei premi.
 
@@ -96,7 +125,59 @@ Se l'aiuto viene calcolato per UBA, la decadenza totale viene pronunziata nel ca
 
 Le difformita' inferiori alle soglie di cui ai precedenti commi comportano le decadenze parziali dall'aiuto.
 
+5.
+                    
+                        
+                            Negli aiuti per superficie, la decadenza parziale comporta il ricalcolo degli importi spettanti al beneficiario, secondo quanto di seguito descritto, fatto salvo quanto previsto al successivo comma 9, ai sensi dell'articolo 9 del regolamento (CEE) n. 3887/92 cosi' come modificato dal regolamento (CEE) n. 1648/95:
+ 
+                        
+                        
+                            a)
+                            
+                                qualora si constati che la superficie esistente e' superiore a quella dichiarata in domanda, ai fini del calcolo dell'importo dell'aiuto viene presa in considerazione la superficie dichiarata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora si constati che la superficie dichiarata in domanda supera la superficie esistente:
+ 1) se la differenza e' inferiore o uguale al 3% di quanto dichiarato, l'importo dell'aiuto viene ricalcolato in base a tale ultima superficie per l'anno al quale si riferisce il controllo. Per gli anni successivi l'importo del premio verra' calcolato in base alla superficie accertata. Il beneficiario e' tenuto a restituire le somme eccedenti eventualmente gia' ricevute, maggiorate degli interessi calcolati al tasso ufficiale di sconto (TUS), in vigore al momento del pagamento dei relativi premi;
+ 2) se la differenza tra la superficie per cui e' stato corrisposto il premio e quella accertata e' superiore al 3% della superficie dichiarata o a 2 ettari ma non superiore al 20% della superficie dichiarata, l'importo dell'aiuto, per l'anno al quale si riferisce il controllo, viene ricalcolato in base alla superficie esistente e decurtato del doppio della percentuale di scostamento accertata in occasione del controllo. Per gli anni successivi l'importo del premio verra' calcolato in base alla superficie accertata. Il beneficiario e' tenuto a restituire le somme eccedenti eventualmente gia' ricevute, maggiorate degli interessi calcolati al tasso ufficiale di sconto (TUS), in vigore al momento del pagamento dei relativi premi.
+
 Le diminuzioni di cui alla lettera b) del precedente comma 5 non sono applicate qualora, per la determinazione della superficie, l'imprenditore comprovi di essersi interamente basato su documentazione proveniente da fonti ufficiali, quali gli uffici del Dipartimento del territorio del Ministero delle finanze e gli altri organismi riconosciuti nell'ambito dei singoli programmi regionali dalle competenti autorita'.
+
+7.
+                    
+                        
+                            Negli aiuti per UBA, la decadenza parziale comporta il ricalcolo degli importi spettanti al beneficiario, secondo quanto di seguito descritto, fatto salvo quanto previsto al successivo comma 9, ai sensi del gia' citato articolo 9 del regolamento (CEE) n. 3887/92 cosi' come modificato dal regolamento (CEE) n. 1648/95:
+ 
+                        
+                        
+                            a)
+                            
+                                qualora si constati che il numero di UBA aventi diritto al premio e' superiore a quello dichiarato in domanda, ai fini del calcolo dell'importo dell'aiuto vengono prese in considerazione le sole UBA dichiarate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai sensi dell'articolo 10 del regolamento (CEE) n. 3887/92 cosi' come modificato dal regolamento (CEE) n. 1648/95, qualora si constati che il numero di UBA dichiarate in domanda supera il numero di quelle aventi effettivamente diritto, l'importo dell'aiuto viene ricalcolato, per tutto il periodo d'impegno, in base a tale ultimo numero ed il beneficiario e' tenuto a restituire le somme eccedenti gia' ricevute, maggiorate degli interessi calcolati sulla base del tasso ufficiale di sconto (TUS);
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di una domanda riguardante al massimo 20 UBA, salvo i casi di forza maggiore e quelli previsti dal paragrafo 5 dell'articolo 10 del regolamento sopra citato, l'importo dell'aiuto viene diminuito della percentuale corrispondente all'eccedenza constatata, se essa e' inferiore o uguale a 2 UBA, e della percentuale doppia rispetto all'eccedenza constatata, se essa e' superiore a 2 e inferiore o uguale a 4 UBA;
+
+                            
+                        
+                        
+                            d)
+                            
+                                negli altri casi, l'importo dell'aiuto viene diminuito della percentuale corrispondente all'eccedenza constatata, se essa e' inferiore o uguale al 5%, e di due volte la percentuale corrispondente se l'eccedenza constatata e' superiore al 5% e uguale o inferiore a 20% delle UBA esistenti.
 
 Se il produttore non ha potuto rispettare l'obbligo di detenzione per cause di forza maggiore, il diritto all'aiuto sussiste in relazione al numero di UBA determinato in base al numero di UBA effettivamente ammissibili nel momento in cui e' sopravvenuto il caso di forza maggiore.
 
@@ -112,6 +193,24 @@ Gli adempimenti tecnici, previsti dalle azioni o misure dei programmi zonali plu
 L'allegato 2 riporta l'elenco degli impegni essenziali ed accessori, unitamente alle percentuali di inadempienza relativi a questi ultimi. Esso rappresenta la base unica nazionale che ogni regione, in rapporto alla peculiarita' del proprio programma, puo' ampliare tenendo presente che sia gli impegni essenziali che quelli accessori sono considerati tali solo se definiti come obblighi all'interno dei programmi regionali e in tale ambito le regioni possono classificare gli impegni accessori come impegni essenziali.
 
 La decadenza totale per inadempimento tecnico viene disposta a livello di azione o misura o a livello aziendale.
+
+4.
+                    
+                        
+                            La decadenza totale per azione o misura e' disposta:
+ 
+                        
+                        
+                            a)
+                            
+                                ove si accerti che il beneficiario non ha adempiuto ad almeno uno degli impegni essenziali sottoscritti all'atto della presentazione della domanda e riportati nell'allegato 2 al presente regolamento ed eventualmente integrati con atto formale della regione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora l'inadempimento di piu' impegni accessori nella singola misura comporti decadenze parziali e conseguenti recuperi in una misura superiore al 20% dell'aiuto erogato per l'annualita' a cui si riferisce il controllo.
 
 La decadenza totale per azienda e' disposta nei confronti di tutte le misure o azioni adottate, nel caso in cui, per effetto delle decadenze totali di piu' impegni autonomi, l'importo da restituire superi il 20% del totale dell'aiuto corrisposto nell'anno.
 

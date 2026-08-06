@@ -8,8 +8,8 @@ codice_redazionale: 099G0335
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,8 +33,97 @@ Le patate del raccolto 1998 originarie dell'Olanda, siano esse tuberiseme, da co
 
 ## Art. 2. — Adempimenti servizio fitosanitario olandese
 
+1.
+                    
+                        
+                            Gli importatori di patate del raccolto 1998, originarie dell'Olanda, devono munirsi, presso le autorita' fitosanitarie olandesi di una certificazione dalla quale risulti che:
+ 
+                        
+                        
+                            a)
+                            
+                                i tuberiseme sono stati prodotti in aree esenti da Ralstonia solanacearum;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'assenza di Ralstonia solanacearum nei tuberiseme e' stata accertata con appropriate analisi ufficiali per campione ai sensi della direttiva del Consiglio n. 98/57/CE del 20 luglio 1998;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i campioni sono stati prelevati da ogni partita ed analizzati in un laboratorio ufficiale; ciascuna partita deve essere costituita da tuberi di una sola varieta' prodotti in un'unica azienda; ogni campione deve essere costituito di almeno 200 tuberi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'analisi batteriologica e' stata eseguita con la metodologia descritta dalla direttiva del Consiglio n. 98/57/CE del 20 luglio 1998;
+
+                            
+                        
+                        
+                            e)
+                            
+                                il certificato di analisi riporti una data non antecedente quindici giorni dall'invio della partita di patate da seme in Italia.
+
 ## Art. 3. — Adempimenti per coloro che introducono
  e commercializzano tuberi da seme
+
+1.
+                    
+                        
+                            Tutti gli acquirenti commerciali od altri che, ai sensi dell'articolo 19, primo comma, del decreto del Ministro delle risorse agricole, alimentari e forestali del 31 gennaio 1996, pubblicato nel supplemento ordinario n. 33 alla Gazzetta Ufficiale della Repubblica italiana n. 41 del 19 febbraio 1996, introducono e commercializzano nel territorio nazionale tuberiseme di patate di origine olandese, scortati dai documenti previsti all'articolo 2 del presente decreto, sono tenuti a comunicare, entro 48 ore dall'introduzione, al servizio fitosanitario regionale competente nel cui territorio vengono stoccate le patate, le seguenti informazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                indirizzo del primo stoccaggio e indirizzo esatto del primo acquirente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                varieta', numero del lotto e quantita' dei tuberiseme introdotti.
+
+2.
+                    
+                        
+                            I soggetti i cui al comma 1 devono:
+ 
+                        
+                        
+                            a)
+                            
+                                essere iscritti nel registro dei produttori;
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere in possesso del registro dei vegetali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere autorizzati all'uso del passaporto di sostituzione ove necessario.
+
+                            
+                        
+                        
+                            d)
+                            
+                                fornire ai servizi fitosanitari regionali competenti per territorio le informazioni di cui al modello dell'allegato I.
 
 I successivi acquirenti sono tenuti a registrare i movimenti dei tuberiseme in questione.
 
@@ -51,6 +140,24 @@ I servizi fitosanitari regionali devono inviare al servizio fitosanitario centra
 
 ## Art. 5. — Adempimenti per coloro che introducono patate
  destinate al consumo ed al foraggio
+
+1.
+                    
+                        
+                            Tutti gli acquirenti commerciali od altri che, ai sensi dell'articolo 19, secondo comma, del decreto ministeriale 31 gennaio 1996, introducono e commercializzano nel territorio nazionale patate destinate al consumo ed al foraggio di origine olandese, identificati con il numero di iscrizione al registro della ditta speditrice, notificano, al servizio fitosanitario regionale competente per territorio, nel cui territorio vengono stoccate le patate, le seguenti informazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                indirizzo del primo stoccaggio e indirizzo esatto del primo acquirente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                varieta' e quantita' delle patate destinate al consumo introdotte.
 
 ## Art. 6. — Adempimenti per coloro che introducono patate
  destinate alla trasformazione

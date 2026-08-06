@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2006-04-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -59,6 +59,87 @@ La licenza individuale ha una validita' non superiore a sei anni, e' rinnovabile
 
 ((
 
+1.
+                    
+                        
+                            Il titolare di una licenza individuale di cui all'articolo 2 e' tenuto:
+ 
+                        
+                        
+                            a)
+                            
+                                ad osservare le esigenze essenziali indicate nell'articolo 1, comma 2, lettera u), del decreto legislativo n. 261 del 1999;
+
+                            
+                        
+                        
+                            b)
+                            
+                                a contribuire al finanziamento del costo di fornitura del servizio universale sulla base dell'articolo 10, comma 2, del decreto legislativo n. 261 del 1999;
+
+                            
+                        
+                        
+                            c)
+                            
+                                ad adottare un sistema di contabilita' separata, in linea con le norme in materia di bilancio d'impresa ai sensi della normativa vigente, che distingua i ricavi del servizio reso in base alla licenza individuale dai ricavi ottenuti per effetto delle altre attivita' non soggette a licenza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                ad adottare la carta della qualita' dei servizi di cui all'articolo 12, comma 1, del decreto legislativo n. 261 del 1999, nella quale sono fornite informazioni circa le caratteristiche del servizio offerto con specifico riguardo alle condizioni generali di accesso, ai prezzi, al livello di qualita', alle procedure di reclamo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ad istituire le procedure di reclamo di cui alla lettera d), prevedendo un sistema di rimborso o compensazione per i disservizi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                a rendere disponibile agli utenti la carta della qualita' dei servizi, e a trasmetterla all'Autorita' all'atto della presentazione della domanda di licenza e successivamente in caso di aggiornamenti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                a pubblicare e trasmettere all'Autorita', con periodicita' annuale, le informazioni relative al numero di reclami ed alle modalita' con cui sono stati gestiti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                ad effettuare il versamento dei contributi riguardanti l'istruttoria e l'attivita' di verifica e controllo, ai sensi dell'articolo 15, comma 1, del decreto legislativo n. 261 del 1999;
+
+                            
+                        
+                        
+                            i)
+                            
+                                a non impiegare personale che risulti condannato a pena detentiva per delitto non colposo superiore ai sei mesi o sottoposto a misure di sicurezza e di prevenzione;
+
+                            
+                        
+                        
+                            l)
+                            
+                                a comunicare all'Autorita' ogni eventuale modifica, estensione, riduzione degli elementi della licenza, ai sensi dell'articolo 2, comma 7, del presente regolamento nonche' ogni altra variazione;
+
+                            
+                        
+                        
+                            m)
+                            
+                                a fornire, su richiesta dell'Autorita', informazioni sull'attivita' svolta, per gli studi del settore di competenza dell'Autorita' medesima.
+
 ))
 
 ## Art. 4. — Obblighi di servizio universale
@@ -67,11 +148,54 @@ L'Autorita' di regolamentazione, ove ne ravvisi la necessita', puo' disporre, ai
 
 ## Art. 5. — Contributi
 
+1.
+                    
+                        
+                            La licenza individuale, nonche' le richieste di modifica, di estensione, di riduzione o di variazione di qualsiasi natura, sono assoggettate al pagamento di contributi finalizzati alla copertura dei costi amministrativi sostenuti dall'Autorita':
+ 
+                        
+                        
+                            a)
+                            
+                                per l'istruttoria della pratica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le verifiche ed i controlli della gestione del servizio e del mantenimento delle relative condizioni.
+
 ((
 
 I contributi di cui al comma 1 sono fissati ad anno, compreso quello di decorrenza della licenza individuale, e sono versati entro il 31 gennaio di ciascun anno, salvo quanto previsto per l'avvio dell'attivita'; copia dell'attestato di avvenuto pagamento e' inviata all'Autorita'.
 
 ))
+
+3.
+                    
+                        
+                            Con il decreto di cui all'articolo 15, comma 2, del decreto legislativo n. 261/1999, sono stabiliti:
+ 
+                        
+                        
+                            a)
+                            
+                                la misura dei contributi e l'aggiornamento degli stessi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' di pagamento ed i relativi termini con riferimento all'avvio dell'attivita' ed all'attivita' medesima a regime;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la procedura da utilizzare in caso di mancato pagamento.
 
 Nei casi di sospensione, revoca e decadenza della licenza individuale, i contributi versati rimangono acquisiti all'entrata del bilancio dello Stato.
 

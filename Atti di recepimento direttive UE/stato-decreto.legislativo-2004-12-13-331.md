@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -31,15 +31,90 @@ Il presente decreto stabilisce disposizioni concernenti prove ed analisi sulle s
 
 Nell'ambito dei controlli previsti dalle disposizioni di attuazione delle direttive comunitarie concernenti le sementi di piante foraggere, di cereali, di barbabietole, di ortaggi, di piante oleaginose e da fibra e di tuberi-seme di patate sono effettuate le prove e le analisi comparative, stabilite a livello comunitario, volte ad armonizzare i metodi tecnici della certificazione ed a controllare che le sementi ed i tuberi-seme di patate soddisfano le condizioni previste.
 
+2.
+                    
+                        
+                            Le prove e le analisi comparative di cui al comma 1 riguardano il controllo a posteriori dei campioni, prelevati mediante sondaggi, di sementi di piante foraggere, di cereali, di barbabietole, di ortaggi, di piante oleaginose e da fibra e di tuberi-seme di patate, immessi sul mercato a norma delle relative disposizioni nazionali e comunitarie, sia di carattere obbligatorio che facoltativo, e possono includere:
+ 
+                        
+                        
+                            a)
+                            
+                                sementi e tuberi-seme di patate raccolti in Paesi terzi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sementi e tuberi-seme di patate adatti all'agricoltura biologica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sementi e tuberi-seme di patate commercializzate per quanto riguarda la conservazione in situ e l'utilizzazione sostenibile delle risorse fitogenetiche.
+
 ## Art. 3. — Prove ed analisi comparative comunitarie sui materiali di moltiplicazione vegetativa della vite
 
 Nell'ambito dei controlli previsti dalle disposizioni di attuazione delle direttive comunitarie concernenti i materiali di moltiplicazione vegetativa della vite sono effettuate le prove e le analisi comparative, stabilite al livello comunitario, volte ad armonizzare i metodi tecnici della certificazione ed a controllare che i materiali di moltiplicazione soddisfano le condizioni previste.
+
+2.
+                    
+                        
+                            Le prove e le analisi comparative di cui al comma 1 riguardano il controllo a posteriori di campioni, prelevati mediante sondaggi, inclusi quelli riguardanti lo stato sanitario delle piante, di materiali di moltiplicazione vegetativa della vite immessi sul mercato a norma delle relative disposizioni nazionali e comunitarie, sia di carattere obbligatorio che facoltativo, e possono includere:
+ 
+                        
+                        
+                            a)
+                            
+                                materiali di moltiplicazione prodotti in Paesi terzi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                materiali di moltiplicazione adatti all'agricoltura biologica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                materiali di moltiplicazione commercializzati nel contesto di misure volte alla conservazione della diversita' genetica.
 
 ## Art. 4. — Prove ed analisi sulle piantine di ortaggi e sui materiali di moltiplicazione di ortaggi, ad eccezione delle sementi, sui materiali di moltiplicazione delle piante da frutto e sulle piante da frutto destinate alla produzione di frutti e sui materiali di moltiplicazione delle piante ornamentali
 
 Nell'ambito dei controlli previsti dalle disposizioni di attuazione delle direttive comunitarie concernenti le piantine di ortaggi ed i materiali di moltiplicazione di ortaggi, ad eccezione delle sementi, i materiali di moltiplicazione delle piante da frutto, le piante da frutto destinate alla produzione di frutti, nonche' i materiali di moltiplicazione delle piante ornamentali sono effettuate prove ed analisi su campioni per verificare la conformita' delle piante e dei materiali di moltiplicazione alle disposizioni nazionali e comunitarie vigenti anche nel settore fitosanitario.
 
 Nell'ambito dei controlli previsti dalle disposizioni di attuazione delle direttive comunitarie concernenti le piantine di ortaggi e i materiali di moltiplicazione di ortaggi, ad eccezione delle sementi, i materiali di moltiplicazione delle piante da frutto e le piante da frutto destinate alla produzione di frutti, nonche' i materiali di moltiplicazione delle piante ornamentali sono effettuate le prove e le analisi comparative, stabilite a livello comunitario, volte ad armonizzare i metodi tecnici di controllo delle piante e dei materiali di moltiplicazione ed a verificare che le piante e i materiali di moltiplicazione soddisfano le condizioni previste.
+
+3.
+                    
+                        
+                            Le prove e le analisi comparative di cui al comma 2 riguardano il controllo a posteriori di campioni, inclusi quelli riguardanti lo stato fitosanitario, di piantine di ortaggi e di materiali di moltiplicazione di ortaggi, di materiali di moltiplicazione delle piante da frutto e di piante da frutto destinate alla produzione di frutti, nonche' di materiali di moltiplicazione delle piante ornamentali, immessi sul mercato a norma delle relative disposizioni nazionali e comunitarie, sia di carattere obbligatorio che facoltativo, e possono includere:
+ 
+                        
+                        
+                            a)
+                            
+                                materiali di moltiplicazione di ortaggi, di piante da frutto e di piante ornamentali, nonche' piantine di ortaggi e piante da frutto destinate alla produzione di frutti prodotti in Paesi terzi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                materiali di moltiplicazione di ortaggi, di piante da frutto e di piante ornamentali, nonche' piantine di ortaggi e piante da frutto destinate alla produzione di frutti adatti all'agricoltura biologica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                materiali di moltiplicazione di ortaggi, di piante da frutto e di piante ornamentali, nonche' piantine di ortaggi e piante da frutto destinate alla produzione di frutti commercializzati nel contesto di misure volte alla conservazione della diversita' genetica.
 
 ## Art. 5. — Disposizioni finanziarie
 

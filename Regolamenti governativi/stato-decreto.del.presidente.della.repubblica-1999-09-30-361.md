@@ -8,8 +8,8 @@ codice_redazionale: 099G0435
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,24 @@ Il beneficio derivante dalla compensazione dell'aumento progressivo dell'accisa 
  fissato, per l'anno 1999, in lire 200 per litro di gasolio usato come combustibile per riscaldamento ed in lire 258 per chilogrammo di gas di petrolio liquefatti usati come combustibile per riscaldamento e distribuiti anche miscelati ad aria mediante reti canalizzate. Per gli anni successivi la determinazione del beneficio e' effettuata, annualmente, con decreto del Ministro delle finanze, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro dell'industria, del commercio e dell'artigianato.
 
 Il beneficio sul gasolio di cui al comma 1 e' concesso mediante accredito d'imposta, effettuato secondo le modalita' di cui all'articolo 6 del decreto del Ministro delle finanze 12 dicembre 1996, n. 689, nei confronti degli esercenti impianti o depositi, a scopo commerciale, dove sono detenuti prodotti soggetti od assoggettati ad accisa, nonche' dei rappresentanti fiscali, tenuti a fornire, ad un prezzo che trasferisca all'acquirente il suddetto beneficio, gasolio usato come combustibile per riscaldamento, a titolari d'impianti o loro legali rappresentanti, intestatari delle fatture, che abbiano presentato la dichiarazione sostitutiva di atto di notorieta' di cui all'articolo 4 della legge 4 gennaio 1968, n. 15, ed all'articolo 2 del decreto del Presidente della Repubblica 20 ottobre 1998, n. 403, da allegare al registro di cui al comma 3, attestante, sotto la propria responsabilita', l'ubicazione dell'impianto, situato nei comuni ricadenti nella zona climatica F di cui al decreto del Presidente della Repubblica 26 agosto 1993, n. 412, nelle province nelle quali oltre il settanta per cento dei comuni ricade nella predetta zona climatica F e nei comuni non metanizzati ricadenti nella zona climatica E di cui al medesimo decreto del Presidente della Repubblica, nonche' nei comuni della regione Sardegna e delle isole minori, cosi' come indicato dall'articolo 8, comma 10, lettera c), della citata legge n. 448 del 1998, nel quale il prodotto verra' impiegato.
+
+3.
+                    
+                        
+                            Per poter beneficiare dell'accredito di cui al comma 2, i fornitori menzionati nel medesimo comma:
+ 
+                        
+                        
+                            a)
+                            
+                                riportano, nelle annotazioni effettuate sul registro di carico e scarico a norma dell'articolo 11, comma 1, lettera a), del decreto del Ministro delle finanze 25 marzo 1996, n. 210, e successive modificazioni, ovvero nelle contabilita' tenute ai seni dell'articolo 9, comma 2, lettera c), del decreto legislativo 26 ottobre 1995, n. 504, distintamente dagli altri i quantitativi complessivi giornalieri di gasolio aventi diritto all'accredito forniti, indicando gli utilizzatori con i singoli quantitativi consegnati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                presentano entro il giorno 10 del mese successivo a ciascun bimestre, istanza, in triplice esemplare, al competente ufficio tecnico di finanza, indicando i quantitativi fatturati di gasolio usato come combustibile per riscaldamento sui quali viene chiesto l'accredito complessivamente erogati nel bimestre medesimo.
 
 L'ufficio tecnico di finanza provvede agli adempimenti previsti dall'articolo 6, comma 3, del decreto del Ministro delle finanze n. 689 del 1996, entro 20 giorni dalla presentazione della domanda di cui al comma 3, lettera b); gli interessi competono al saggio legale, a decorrere dal suddetto termine di venti giorni dalla presentazione della domanda, qualora non rispettato.
 

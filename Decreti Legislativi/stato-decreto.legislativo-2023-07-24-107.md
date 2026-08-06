@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2023-07-24;107
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,31 @@ Sulla proposta del Ministro per gli affari europei, il Sud, le politiche di coes
 Il presente decreto stabilisce le norme necessarie ad adeguare l'ordinamento giuridico nazionale alle disposizioni del regolamento (UE) 2021/784 del Parlamento europeo e del Consiglio del 29 aprile 2021, relativo al contrasto della diffusione di contenuti terroristici online, di seguito denominato «regolamento».
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                Comitato di analisi strategica antiterrorismo (C.A.S.A.): il Comitato di cui all'articolo 12, comma 3, della legge 3 agosto 2007, n. 124, istituito presso il Dipartimento della pubblica sicurezza del Ministero dell'interno; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Dipartimento della pubblica sicurezza: il Dipartimento del Ministero dell'interno di cui all'articolo 4 della legge 1° aprile 1981, n. 121; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Organo del Ministero dell'interno per la sicurezza e la regolarita' dei servizi di telecomunicazione: l'organo di cui all'articolo 14, comma 2, della legge 3 agosto 1998, n. 269.
 
 ## Art. 3. — Emissione degli ordini di rimozione
 
@@ -63,13 +88,226 @@ Le decisioni assunte dall'organo del Ministero dell'interno per la sicurezza e l
 
 ## Art. 6. — Sanzioni amministrative
 
+1.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da 25.000 a 100.000 euro, il prestatore di servizi di hosting che: 
+ 
+                        
+                        
+                            a)
+                            
+                                non informa tempestivamente, mediante il modello di cui all'allegato II al regolamento, l'autorita' che ha emesso l'ordine di rimozione dell'avvenuta esecuzione dell'ordine, indicandone in particolare la data e l'ora; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rimuove i contenuti terroristici o disabilita l'accesso ai contenuti terroristici ai sensi dell'articolo 3, paragrafo 3, del regolamento, omettendo di adottare le misure necessarie per ripristinare i contenuti o riabilitare l'accesso agli stessi, in conformita' dell'articolo 4, paragrafo 7, del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo aver ricevuto una decisione emessa dall'autorita' competente ai sensi dell'articolo 4, paragrafo 6, del regolamento, omette di ripristinare immediatamente i contenuti o l'accesso agli stessi, fatta salva la possibilita' di applicare le proprie condizioni contrattuali conformemente al diritto dell'Unione e nazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nella conservazione dei contenuti terroristici rimossi o il cui accesso e' stato disabilitato, ovvero nella conservazione dei relativi dati, non osserva le disposizioni di cui all'articolo 6 del regolamento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                non rispetta gli obblighi di trasparenza di cui all'articolo 7 del regolamento; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                non predispone il meccanismo di reclamo di cui all'articolo 10, paragrafo 1, del regolamento o, nell'esame, nella decisione e nella gestione dei reclami, non rispetta le disposizioni di cui al paragrafo 2 del medesimo articolo 10; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                fuori dei casi di cui all'articolo 11, paragrafo 3, del regolamento, omette di comunicare al fornitore di contenuti le informazioni di cui ai paragrafi 1 e 2 del medesimo articolo 11; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                omette di informare l'organo del Ministero dell'interno per la sicurezza e la regolarita' dei servizi di telecomunicazione e la competente Direzione Generale del Ministero delle imprese e del Made in Italy della designazione del rappresentante legale, comunicando la relativa accettazione, o di rendere pubbliche le informazioni relative al rappresentante legale designato.
+
+2.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da 50.000 a 200.000 euro, il prestatore di servizi di hosting esposto a contenuti terroristici che: 
+ 
+                        
+                        
+                            a)
+                            
+                                non include nelle sue condizioni contrattuali o non applica disposizioni volte a contrastare l'uso improprio dei suoi servizi per la diffusione al pubblico di contenuti terroristici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fuori dei casi di cui alla lettera a), non osserva taluno degli obblighi di condotta di cui all'articolo 5, paragrafo 1, del regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                adotta misure specifiche prive di taluno dei requisiti di cui all'articolo 5, paragrafo 3, del regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo aver ricevuto una decisione di cui all'articolo 5, paragrafi 4 o 6, del regolamento, omette di comunicare all'organo del Ministero dell'interno per la sicurezza e la regolarita' dei servizi di telecomunicazione, nei tre mesi successivi al ricevimento della decisione o ad una delle successive cadenze annuali, le misure specifiche che ha adottato e che intende adottare per conformarsi alle disposizioni di cui ai paragrafi 2 e 3 del medesimo articolo 5.
+
+3.
+                    
+                        
+                            Salvo che il fatto costituisca reato, e' soggetto alla sanzione amministrativa pecuniaria da 75.000 a 300.000 euro, il prestatore di servizi di hosting esposto a contenuti terroristici che: 
+ 
+                        
+                        
+                            a)
+                            
+                                omette di adottare misure specifiche per proteggere i propri servizi dalla diffusione al pubblico di contenuti terroristici ai sensi dell'articolo 5, paragrafo 2, del regolamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo aver ricevuto una decisione di cui all'articolo 5, paragrafo 6, omette di adottare le misure imposte dalla decisione per garantire il rispetto delle disposizioni di cui ai paragrafi 2 e 3 del medesimo articolo 5.
+
 All'irrogazione delle sanzioni previste dal presente articolo provvedono ai sensi della legge 24 novembre 1981, n. 689 gli Ispettorati territoriali della competente Direzione Generale del Ministero delle imprese e del made in Italy, a seguito delle comunicazioni da parte dell'organo del Ministero dell'interno per la sicurezza e la regolarita' dei servizi di telecomunicazione, che accerta e contesta le violazioni. Il rapporto di accertamento e di contestazione delle violazioni e' presentato al Ministero delle imprese e del made in Italy, fatta salva l'ipotesi di cui all'articolo 24 della legge n. 689 del 1981. La reiterazione delle violazioni, di cui all'articolo 8-bis della legge n. 689 del 1981, opera anche nel caso di pagamento in misura ridotta.
+
+5.
+                    
+                        
+                            Nella determinazione della sanzione si ha riguardo a tutte le circostanze rilevanti, tra cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                la natura, la gravita' e la durata della violazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il carattere doloso o colposo della violazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le precedenti violazioni commesse dal prestatore di servizi di hosting; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le condizioni patrimoniali, economiche e finanziarie del prestatore di servizi di hosting; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la cooperazione del prestatore di servizi di hosting con le autorita' competenti 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'attivita' svolta dal prestatore di servizi di hosting per l'eliminazione o attenuazione delle conseguenze della violazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la natura e le dimensioni del prestatore di servizi di hosting; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il grado di colpa del prestatore di servizi di hosting, tenuto conto delle misure tecniche e organizzative adottate dal prestatore di servizi di hosting per conformarsi al regolamento e al presente decreto.
 
 I proventi derivanti dalle sanzioni amministrative pecuniarie, di cui al presente articolo, sono versati ad apposito capitolo dell'entrata del bilancio dello Stato, per essere riassegnati, in egual misura, con decreto del Ministro dell'economia e delle finanze, al Ministero dell'interno e al Ministero delle imprese e del made in Italy, ai fini dell'integrazione delle risorse gia' destinate a legislazione vigente all'attuazione delle disposizioni di cui al presente articolo.
 
 L'organo del Ministero dell'interno per la sicurezza e la regolarita' dei servizi di telecomunicazione coopera con il Ministero delle Imprese e del made in Italy, per gli aspetti relativi ai precedenti commi, sulla base di una convenzione operativa sottoscritta tra il Ministero dell'Interno e il Ministero delle imprese e del made in Italy entro novanta giorni dalla data di entrata in vigore del presente decreto legislativo.
 
 ## Art. 7. — Sanzioni penali
+
+1.
+                    
+                        
+                            Salvo che il fatto costituisca piu' grave reato, e' punito con l'arresto fino a sei mesi o con l'ammenda da 100.000 a 400.000 euro il prestatore di servizi di hosting che: 
+ 
+                        
+                        
+                            a)
+                            
+                                in violazione dell'articolo 15, paragrafo 1, del regolamento, omette di designare o istituire un punto di contatto per la ricezione degli ordini di rimozione in via telematica e per l'immediata esecuzione dei medesimi ai sensi degli articoli 3 e 4 del regolamento, oppure omette di rendere disponibili al pubblico le informazioni relative al punto di contatto designato o istituito; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non avendo lo stabilimento principale nell'Unione europea, omette di designare, per iscritto, una persona fisica o giuridica quale suo rappresentante legale nell'Unione ai fini del ricevimento, dell'attuazione e dell'esecuzione degli ordini di rimozione e delle decisioni emesse dalle autorita' competenti, oppure designa un rappresentante legale che non risiede o non e' stabilito in uno degli Stati membri in cui il prestatore di servizi di hosting offre i propri servizi, oppure omette di conferire al rappresentante legale i poteri e le risorse necessari per ottemperare agli ordini di esecuzione e per cooperare con le autorita' competenti.
+
+2.
+                    
+                        
+                            Salvo che il fatto costituisca piu' grave reato, sono puniti con l'arresto fino a sei mesi e con l'ammenda da 100.000 a 400.000 euro il prestatore di servizi di hosting e il rappresentante legale designato ai sensi dell'articolo 17 del regolamento che: 
+ 
+                        
+                        
+                            a)
+                            
+                                omettono di rimuovere i contenuti terroristici entro un'ora dal ricevimento dell'ordine di rimozione o di disabilitare l'accesso ad essi entro il medesimo termine; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso di cui all'articolo 11, paragrafo 3, del regolamento, forniscono informazioni riguardanti la rimozione o la disabilitazione dell'accesso a contenuti terroristici; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso di cui all'articolo 14, paragrafo 5, del regolamento, non informano immediatamente della presenza dei contenuti terroristici l'autorita' giudiziaria o altra autorita' che a quella abbia l'obbligo di riferire.
 
 Salvo che il fatto costituisca piu' grave reato, quando l'omissione di cui al comma 2, lettera a), e' sistematica o persistente, il prestatore di servizi di hosting e il rappresentante legale di cui all'articolo 17 del regolamento sono puniti con l'arresto fino a un anno e con l'ammenda da euro 250.000 sino ad euro 1.000.000 o, laddove superiore, sino ad un importo pari al 4 per cento del fatturato realizzato a livello mondiale dal prestatore di servizi di hosting nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione.
 

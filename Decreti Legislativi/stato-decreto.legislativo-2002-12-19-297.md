@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2007-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:20Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -48,6 +48,43 @@ Dopo l'articolo 1 del decreto legislativo 21 aprile 2000, n. 181, e' inserito il
  4. Con regolamento emanato su proposta del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro delle infrastrutture e dei trasporti, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, e' disciplinato il collocamento della gente di mare, prevedendo, in applicazione dei principi stabiliti in materia dal presente decreto, il superamento dell'attuale sistema di collocamento obbligatorio.".
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            All'articolo 2 del decreto legislativo 21 aprile 2000, n. 181, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 1, 3 e 4 sono sostituiti dai seguenti:
+ "1. La condizione di cui all'articolo 1, comma 2, lettera c), dev'essere comprovata dalla presentazione dell'interessato presso il servizio competente nel cui ambito territoriale si trovi il domicilio del medesimo, accompagnata da una dichiarazione, ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, che attesti l'eventuale attivita' lavorativa precedentemente svolta, nonche' l'immediata disponibilita' allo svolgimento di attivita' lavorativa.
+ 3. Le Regioni definiscono gli indirizzi operativi per l'accertamento e la verifica dello stato di disoccupazione da parte dei servizi competenti.
+ 4. La verifica dell'effettiva permanenza nello stato di disoccupazione e' effettuata dai servizi competenti con le seguenti modalita':
+ a) sulla base delle comunicazioni di cui all'articolo 4-bis o di altre informazioni fornite dagli organi di vigilanza;
+ b) in relazione al rispetto delle misure concordate con il disoccupato.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, le parole: "20 ottobre 1998, n. 403." sono sostituite dalle seguenti: "decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, la parola: "inferiori" e' sostituita dalla seguente: "fino";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 7 e' soppresso.
 
 Gli interessati all'accertamento della condizione di cui all'articolo 1, comma 2, lettera c), sono tenuti a presentarsi presso il servizio competente per territorio entro centottanta giorni dalla data di entrata in vigore del presente decreto ed a rendere la dichiarazione di cui al comma 1. Restano valide le dichiarazioni di disponibilita' allo svolgimento dell'attivita' lavorativa prestate ai sensi della precedente normativa e gli obblighi che ne derivano per i servizi competenti.
 
@@ -94,11 +131,91 @@ All'articolo 21 della legge 29 aprile 1949, n. 264, il primo comma e' sostituito
 
 All'articolo 15, sesto comma, della legge 29 aprile 1949, n. 264, le parole: "un anno" sono sostituite dalle seguenti: "sei mesi".
 
-## Art. 7. — (COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296)
+## Art. 7.
 
+1.
+                    
+                        
+                            All'articolo 5 del decreto legislativo 21 aprile 2000, n. 181, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: "attuazione della delega di cui all'articolo 45, comma 1, della legge 17 maggio 1999, n. 144, concernente la" sono soppresse;
 
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' aggiunto il seguente:
+ "2-bis. Le disposizioni di cui all'articolo 4-bis, commi 4, 5, 6, si applicano a decorrere dalla data stabilita dal decreto di cui al comma 7 del medesimo articolo 4-bis. A decorrere dalla medesima data il comma 2 dell'articolo 14 del decreto legislativo 23 febbraio 2000, n. 38, e' soppresso.".
+
+((COMMA ABROGATO DALLA L. 27 DICEMBRE 2006, N. 296)).
 
 ## Art. 8.
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono
+ abrogate, in particolare, le seguenti disposizioni:
+
+                        
+                        
+                            a)
+                            
+                                la legge 10 gennaio 1935, n. 112;
+                            
+                        
+                        
+                            b)
+                            
+                                il titolo I ed il titolo II, ad eccezione degli articoli 11, primo comma, 15, sesto comma, 21, primo comma, 27, commi 1 e 3, della legge 29 aprile 1949, n. 264, e successive integrazioni e modificazioni;
+                            
+                        
+                        
+                            c)
+                            
+                                gli articoli 23, primo comma, lettera a), 27 e 29, primo comma, lettera a) della legge 19 gennaio 1955, n. 25;
+                            
+                        
+                        
+                            d)
+                            
+                                gli articoli 33 e 34 della legge 20 maggio 1970, n. 300;
+                            
+                        
+                        
+                            e)
+                            
+                                gli articoli 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13 e 14 del decreto-legge 3 febbraio 1970, n. 7, convertito, con modificazioni, dalla legge 11 marzo 1970, n. 83;
+                            
+                        
+                        
+                            f)
+                            
+                                la legge 28 febbraio 1987, n. 56, e successive modificazioni ed integrazioni, ad eccezione degli articoli 3, 16, 19, commi 2, 3, 4, 5, 6 e 7, e degli articoli 21 e 22;
+                            
+                        
+                        
+                            g)
+                            
+                                l'articolo 25, commi 1, 2, 3, 4, 5, 6, 7 e 12, della legge 23 luglio 1991, n. 223;
+                            
+                        
+                        
+                            h)
+                            
+                                gli articoli 9-bis, commi 1, 4, 5, 7 e 8, e 9-ter, comma 1, del decreto-legge 1 ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608;
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    articolo 2 del decreto del Presidente della Repubblica 24 settembre 1963, n. 2053. ((1))
 
 ---------------
                         AGGIORNAMENTO (1)

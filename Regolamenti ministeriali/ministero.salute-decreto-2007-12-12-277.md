@@ -8,8 +8,8 @@ codice_redazionale: 008G0067
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,31 @@ Acquisito il parere del Garante per la protezione dei dati personali, reso ai se
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 17 settembre 2007;
 
 ## Art. 1. — Oggetto
+
+1.
+                    
+                        
+                            Il presente regolamento, in attuazione degli articoli 20 e 21 del decreto legislativo 30 giugno 2003, n. 196, recante il «codice in materia di protezione dei dati personali», identifica i tipi di dati sensibili e giudiziari e le operazioni eseguibili da parte del Ministero della salute nello svolgimento:
+ 
+                        
+                        
+                            a)
+                            
+                                delle attivita' istituzionali strumentali al funzionamento e all'organizzazione del Ministero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle attivita' amministrative correlate alla gestione dell'assistenza sanitaria al personale navigante (SASN);
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle attivita' istituzionali del Ministero nell'ambito del Sistema sanitario nazionale.
 
 ## Art. 2. — Disposizioni generali
 

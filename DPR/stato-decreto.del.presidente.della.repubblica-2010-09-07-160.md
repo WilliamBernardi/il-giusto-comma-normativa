@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2021-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,122 @@ Sulla proposta del Ministro dello sviluppo economico e del Ministro per la sempl
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «agenzia per le imprese» (di seguito denominata : «Agenzia»): il soggetto privato, accreditato ai sensi dell'articolo 38, comma 4, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «amministrazioni»: le amministrazioni dello Stato, gli enti pubblici territoriali, gli altri enti pubblici non economici, gli organismi di diritto pubblico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «camere di commercio»: le camere di commercio, industria, artigianato e agricoltura, di cui alla legge 29 dicembre 1993, n. 580; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «CAD»: il Codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «comunicazione unica»: l'istituto di cui all'articolo 9 del decreto-legge 31 gennaio 2007, n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «decreto-legge»: il decreto-legge 25 giugno 2008, n. 112, convertito con modificazioni dalla legge 6 agosto 2008, n. 133; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «SCIA»: la segnalazione certificata di inizio attivita' ai sensi dell'articolo 19 della legge 7 agosto 1990, n. 241, come sostituito dall'articolo 49, comma 4-bis, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, in cui la ricevuta della segnalazione costituisce titolo autorizzatorio ai sensi dell'articolo 38, comma 3, lettere e) ed f), del decreto-legge; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «dichiarazione di conformita'»: l'attestazione della sussistenza dei requisiti previsti dalla normativa per la realizzazione, la trasformazione, il trasferimento e la cessazione dell'esercizio dell'attivita' di impresa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «attivita' produttive»: le attivita' di produzione di beni e servizi, incluse le attivita' agricole, commerciali e artigianali, le attivita' turistiche e alberghiere, i servizi resi dalle banche e dagli intermediari finanziari e i servizi di telecomunicazioni, di cui alla lettera b), comma 3, dell'articolo 38 del decreto-legge; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    «impianti produttivi»: i fabbricati, gli impianti e altri luoghi in cui si svolgono tutte o parte delle fasi di produzione di beni e servizi; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    «portale»: il sito web impresainungiorno di riferimento per imprese e soggetti da esse delegati, che consente di ottenere informazioni e interoperare telematicamente con gli Enti coinvolti nelle diverse fasi relative ad attivita' produttive e di prestazione di servizi, anche attraverso le regole tecniche del Sistema pubblico di connettivita'; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «registro imprese»: il registro di cui all'articolo 8 della legge 29 dicembre 1993, n. 580, istituito presso la camera di commercio e tenuto dall'Ufficio competente in conformita' agli articoli 2188 e seguenti del Codice civile, sotto la vigilanza di un giudice delegato dal Presidente del Tribunale del capoluogo di provincia; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «sportello unico per le attivita' produttive» (di seguito denominato: «SUAP»): l'unico punto di accesso per il richiedente in relazione a tutte le vicende amministrative riguardanti la sua attivita' produttiva, che fornisce una risposta unica e tempestiva in luogo di tutte le pubbliche amministrazioni, comunque coinvolte nel procedimento; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «sistema INA-SAIA»: il sistema di servizi che consente l'interconnessione e lo scambio anagrafico fra i comuni e le pubbliche amministrazioni; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «sistema pubblico di connettivita'» (di seguito denominato: «SPC»): l'insieme di infrastrutture tecnologiche tecniche per lo sviluppo, la condivisione, l'integrazione e la diffusione del patrimonio informativo e dei dati della pubblica amministrazione, necessarie per assicurare l'interoperabilita' di base ed evoluta e la cooperazione applicativa dei sistemi informatici e dei flussi informativi, garantendo la sicurezza, la riservatezza delle informazioni, nonche' la salvaguardia e l'autonomia del patrimonio informativo di ciascuna pubblica amministrazione; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «interoperabilita'»: la capacita' di un sistema o di un prodotto informatico di cooperare con altri sistemi o prodotti, nel rispetto delle disposizioni del CAD e delle regole tecniche del SPC.
+
 ## Art. 2. — Finalita' e ambito di applicazione
 
 Per le finalita' di cui all'articolo 38, comma 3, del decreto-legge, e' individuato il SUAP quale unico soggetto pubblico di riferimento territoriale per tutti i procedimenti che abbiano ad oggetto l'esercizio di attivita' produttive e di prestazione di servizi, e quelli relativi alle azioni di localizzazione, realizzazione, trasformazione, ristrutturazione o riconversione, ampliamento o trasferimento, nonche' cessazione o riattivazione delle suddette attivita', ivi compresi quelli di cui al decreto legislativo 26 marzo 2010, n. 59.
@@ -48,6 +164,45 @@ Sono esclusi dall'ambito di applicazione del presente regolamento gli impianti e
 
 Il portale «impresainungiorno»
 
+1.
+                        
+                            
+                                Il portale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce servizi informativi e operativi ai SUAP per l'espletamento delle loro attivita', anche ai fini di quanto previsto dall'articolo 4, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicura la divulgazione delle tipologie di autorizzazione per le quali e' sufficiente l'attestazione dei soggetti privati accreditati, secondo criteri omogenei sul territorio nazionale e tenendo conto delle diverse discipline regionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    prevede l'utilizzo della procura speciale con le stesse modalita' previste per la comunicazione unica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contiene un sistema di pagamento per i diritti, le imposte e gli oneri comunque denominati relativi ai procedimenti gestiti dai SUAP. L'interessato, anche mediante l'Agenzia per le Imprese di cui all'articolo 1 lettera a), versa gli importi previsti attraverso il sistema telematico messo a disposizione dal portale. Il sistema di pagamento si basa sulle regole tecniche approvate ai sensi dell'articolo 12, comma 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    costituisce punto di contatto a livello nazionale per le attivita' di cui al decreto legislativo 26 marzo 2010, n. 59, e assicura il collegamento con le autorita' competenti ai sensi dell'articolo 8, comma 1, lettera i), del medesimo decreto legislativo.
+
 Il portale, nel rispetto della disciplina di cui al decreto legislativo 30 giugno 2003, n. 196, interopera con i sistemi informativi e i portali gia' realizzati da Regioni o enti locali e con quelli successivamente sviluppati a supporto degli sportelli unici.
 
 Il portale costituisce uno dei punti di contatto infrastrutturale a livello nazionale di accesso con gli Uffici periferici dello Stato, secondo le regole di cui al decreto del Presidente del Consiglio dei Ministri in data 1° aprile 2008, pubblicato nella Gazzetta Ufficiale n. 144 del 21 giugno 2008, ed in coerenza con quanto previsto all'articolo 12, commi 1, 5 e 6.
@@ -60,6 +215,31 @@ Il SUAP assicura al richiedente una risposta telematica unica e tempestiva in lu
 
 Le comunicazioni al richiedente sono trasmesse esclusivamente dal SUAP; gli altri uffici comunali e le amministrazioni pubbliche diverse dal comune, che sono interessati al procedimento, non possono trasmettere al richiedente atti autorizzatori, nulla osta, pareri o atti di consenso, anche a contenuto negativo, comunque denominati e sono tenute a trasmettere immediatamente al SUAP tutte le denunce, le domande, gli atti e la documentazione ad esse eventualmente presentati, dandone comunicazione al richiedente.
 
+3.
+                        
+                            
+                                Il SUAP, nel rispetto dell'articolo 24 della legge 7 agosto 1990, n. 241, cura l'informazione attraverso il portale in relazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli adempimenti necessari per lo svolgimento delle attivita' di cui all'articolo 2, comma 1, indicando altresi' quelle per le quali e' consentito l'immediato avvio dell'intervento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle dichiarazioni, alle segnalazioni e alle domande presentate, al loro iter procedimentale e agli atti adottati, anche in sede di controllo successivo, dallo stesso SUAP, dall'ufficio o da altre amministrazioni pubbliche competenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle informazioni, che sono garantite dalle autorita' competenti ai sensi dell'articolo 26 del decreto legislativo del 26 marzo 2010, n. 59.
+
 L'ufficio competente per il SUAP ed il relativo responsabile sono individuati secondo le forme previste dagli ordinamenti interni dei singoli comuni o dagli accordi sottoscritti in caso di associazione, che dispongono anche in ordine alla relativa strutturazione; nelle more dell'individuazione del responsabile di cui al presente comma, il ruolo di responsabile del SUAP e' ricoperto dal segretario comunale. Il responsabile del SUAP costituisce il referente per l'esercizio del diritto di accesso agli atti e documenti detenuti dal SUAP, anche se provenienti da altre amministrazioni o da altri uffici comunali. Rimane ferma la responsabilita' delle amministrazioni o degli uffici comunali per altri atti, comunque connessi o presupposti, diversi da quelli detenuti dal SUAP.
 
 I comuni possono esercitare le funzioni inerenti al SUAP in forma singola o associata tra loro, o in convenzione con le camere di commercio.
@@ -69,6 +249,38 @@ Salva diversa disposizione dei comuni interessati e ferma restando l'unicita' de
 Le domande, le dichiarazioni, le segnalazioni, gli atti dell'amministrazione e i relativi allegati sono predisposti in formato elettronico e trasmessi in via telematica secondo quanto disposto dall'Allegato tecnico di cui all'articolo 12, comma 5. La conoscibilita' in modalita' telematica degli estremi degli atti, compresi quelli della ricevuta di cui all'articolo 5, comma 4, non costituisce conoscenza nei confronti dei terzi ai fini del decorso dei termini decadenziali di impugnazione.
 
 Il collegamento tra il SUAP e il registro imprese avviene attraverso modalita' di comunicazione telematica conformi ai requisiti previsti dall'Allegato tecnico di cui all'articolo 12, comma 5, ed agli standard pubblicati sul portale, nonche' nel rispetto del decreto legislativo 30 giugno 2003, n. 196.
+
+9.
+                        
+                            
+                                Il collegamento di cui al comma 8: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rende inammissibile ogni richiesta, da parte del responsabile del SUAP all'impresa interessata, di atti, documentazione o dati gia' acquisiti dal registro imprese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    garantisce, anche ai sensi dell'articolo 25, comma 7, del decreto legislativo del 26 marzo 2010, n. 59, che il registro imprese renda accessibile al SUAP competente, nel rispetto dei principi di cui all'articolo 11 del decreto legislativo 30 giugno 2003, n. 196, e delle misure minime di sicurezza di cui al relativo allegato B, l'avvenuta iscrizione e gli eventi modificativi delle imprese, nonche' le informazioni relative alle segnalazioni certificate di inizio attivita' ed alle comunicazioni provenienti dagli altri SUAP, anche con riferimento alle attivita' non soggette a SCIA, funzionali al procedimento in corso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assicura lo scambio di informazioni tra il registro imprese e l'anagrafe comunale mediante il sistema INA-SAIA; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantisce l'aggiornamento del repertorio delle notizie economiche e amministrative di cui all'articolo 9 del decreto del Presidente della Repubblica del 7 dicembre 1995, n. 581, con gli estremi relativi al rilascio delle SCIA, delle comunicazioni o altri atti di assenso comunque denominati rilasciati dal SUAP.
 
 Entro centoventi giorni dalla data di pubblicazione nella Gazzetta Ufficiale del presente regolamento, i Comuni attestano, secondo le modalita' previste dall'articolo 4, comma 2, dell'Allegato tecnico, la sussistenza in capo ai SUAP del proprio territorio dei requisiti di cui all'articolo 38, comma 3, lettera a), e a-bis), del decreto-legge e all'articolo 2, comma 2, del presente regolamento, trasmettendola al Ministero per lo sviluppo economico che cura la pubblicazione dell'elenco dei SUAP sul portale. Tale elenco puo' essere successivamente integrato su richiesta dei Comuni i cui SUAP abbiano nelle more acquisito tali requisiti. Sono fatte salve le funzioni di verifica e di monitoraggio di cui all'articolo
 
@@ -144,6 +356,24 @@ Qualora occorrano chiarimenti circa il rispetto delle normative tecniche e la lo
 
 ## Art. 10. — Chiusura dei lavori e collaudo
 
+1.
+                        
+                            
+                                Il soggetto interessato comunica al SUAP l'ultimazione dei lavori, trasmettendo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la dichiarazione del direttore dei lavori con la quale si attesta la conformita' dell'opera al progetto presentato e la sua agibilita', ove l'interessato non proponga domanda ai sensi dell'articolo 25 del testo unico delle disposizioni legislative e regolamentari in materia di edilizia, di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei casi previsti dalla normativa vigente, il certificato di collaudo effettuato da un professionista abilitato;
+
 La trasmissione al SUAP della documentazione di cui alle lettere a) e b) consente l'immediato esercizio dell'attivita'.
 
 Il SUAP cura la trasmissione entro cinque giorni della documentazione di cui al comma 1 alle amministrazioni ed agli uffici comunali competenti che sono tenuti ad effettuare i controlli circa l'effettiva rispondenza dell'impianto alla normativa vigente entro i successivi novanta giorni, salvo il diverso termine previsto dalle specifiche discipline regionali. Nel caso in cui dalla certificazione non risulti la conformita' dell'opera al progetto ovvero la sua rispondenza a quanto disposto dalle vigenti norme, fatti salvi i casi di mero errore materiale, il SUAP, anche su richiesta delle amministrazioni o degli uffici competenti, adotta i provvedimenti necessari assicurando l'irrogazione delle sanzioni previste dalla legge, ivi compresa la riduzione in pristino a spese dell'impresa, dandone contestualmente comunicazione all'interessato entro e non oltre quindici giorni dal ricevimento della comunicazione di cui al comma 1; l'intervento di riduzione in pristino puo' essere direttamente realizzato anche da parte dell'imprenditore stesso.
@@ -163,6 +393,24 @@ Nelle more dell'attuazione di quanto previsto dall'articolo 38, comma 5, del dec
 ## - Capo VII Disposizioni finali
 
 ## Art. 12. — Abrogazioni e disposizioni transitorie e di attuazione
+
+1.
+                        
+                            
+                                Il presente regolamento ha efficacia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in relazione ai Capi I, II, III, V e VI, a decorrere dal centottantesimo giorno dalla data della sua pubblicazione nella Gazzetta ufficiale, salvo quanto disposto dall'articolo 4, comma 10; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione al Capo IV, a decorrere da un anno dalla data della sua pubblicazione nella Gazzetta ufficiale.
 
 Fino alla scadenza dei termini di cui alle lettere a) e b) del comma 1, ai rispettivi procedimenti continuano ad applicarsi, in via transitoria, le disposizioni del decreto del Presidente della Repubblica 20 ottobre 1998, n. 447, e successive modificazioni.
 

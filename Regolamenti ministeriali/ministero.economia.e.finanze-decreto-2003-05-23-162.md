@@ -8,8 +8,8 @@ codice_redazionale: 003G0185
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,31 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza della Sezione con
 ## Art. 1. — Composizione dell'Unita' tecnica - Finanza di progetto
 
 L'organico dell'Unita' tecnica -- Finanza di progetto, istituita ai sensi dell'articolo 7 della legge 17 maggio 1999, n. 144, di seguito denominata Unita', e' costituito da quindici componenti a tempo pieno. Ove l'Unita' si avvalga di soggetti con rapporto a tempo parziale, il numero complessivo di componenti assegnabile alla stessa e' determinato in proporzione all'impegno lavorativo richiesto a ciascun componente a tempo parziale. In tal caso, il relativo trattamento economico e' proporzionalmente ridotto.
+
+2.
+                    
+                        
+                            I componenti dell'Unita', di comprovata esperienza nel settore, sono scelti tra:
+ 
+                        
+                        
+                            a)
+                            
+                                dipendenti della Amministrazione dello Stato da collocare in posizioni di comando;
+
+                            
+                        
+                        
+                            b)
+                            
+                                soggetti estranei all'Amministrazione operanti nei settori tecnico-ingegneristico, economico-finanziario e giuridico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dipendenti di organizzazioni internazionali da collocarsi in posizione di comando sulla base di specifici accordi con l'organizzazione di appartenenza.
 
 I componenti dell'Unita' sono nominati con decreto del Ministro dell'economia e delle finanze, che stabilisce oggetto, tempi, durata e modalita' di espletamento dell'incarico. Al decreto di nomina dei componenti e' allegato un curriculum comprovante il possesso del tipo di professionalita' richiesta. Il Ministro dell'economia e delle finanze, con proprio decreto, assegna ad uno di essi le funzioni di coordinatore.
 

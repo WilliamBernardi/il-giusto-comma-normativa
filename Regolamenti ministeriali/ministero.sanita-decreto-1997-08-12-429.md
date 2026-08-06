@@ -8,8 +8,8 @@ codice_redazionale: 097G0465
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -62,6 +62,38 @@ L'allegato del decreto ministeriale 27 agosto 1994, n. 651, e' sostituito come s
  Per le bovine vaccinate con Buck-19 e di eta' inferiore a 18 mesi e' tollerato un titolo di positivita', a questa prova, fino a 30 UIFC/ml)".
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Se in un allevamento bovino ufficialmente indenne da brucellosi un solo animale risulta positivo con un titolo di 20 U.I.F.d.C/ml, la qualifica viene sospesa, anziche' revocata, alle seguenti condizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel territorio della azienda sanitaria locale venga svolto il 100% dei controlli sul patrimonio bovino e ovicaprino nei confronti della brucellosi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il bovino sieroreattivo venga marcato, dopo la conferma di positivita' da parte del laboratorio, ai sensi dell'articolo 8, comma 2, del decreto ministeriale 27 agosto 1994, n. 651 e venga immediatamente isolato e macellato, sotto controllo ufficiale al piu' presto e comunque non oltre sette giorni dalla notifica ufficiale al proprietario o al detentore; dovranno altresi' essere applicate le disposizioni del sopracitato articolo 8, commi 3, 4 e 5 del decreto ministeriale 27 agosto 1994, n. 651;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'animale sieroreattivo e gli altri capi presenti in allevamento non presentino segni clinici riferibili alla malattia e dagli esami di laboratorio, obbligatori sull'animale positivo sopranominato, non emergano isolamenti di brucelle;
+
+                            
+                        
+                        
+                            d)
+                            
+                                nell'ambito della sospensione della qualifica siano applicate le disposizioni degli articoli 9 e 11 del decreto ministeriale 27 agosto 1994, n. 651.
 
 Nell'allevamento interessato la sospensione della qualifica verra' revocata quando tutti i capi presenti risultino negativi a due controlli effettuati da un minimo di quattro ad un massimo di sei settimane l'uno dall'altro, il primo dei quali dovra' essere effettuato ad una distanza di quarantadue giorni dall'eliminazione del capo sieroreattivo.
 

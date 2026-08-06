@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2020-02-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -832,6 +832,265 @@ Le misure dell'assegno funzionale pensionabile di cui all'articolo 2, comma 1, d
                         
     
  (2) (3) (4) ((5))
+
+2.
+                    
+                        
+                            Per gli ufficiali provenienti da carriere e ruoli diversi, le misure dell'assegno funzionale pensionabile di cui all'articolo 2, comma 2, del decreto del Presidente della Repubblica 20 novembre 2003, n. 349, fermi restando i requisiti di cui all'articolo 5, comma 4, del decreto del Presidente della Repubblica 16 marzo 1999, n. 255, a decorrere dal 31 dicembre 2005 e a valere dall'anno 2006, sono rideterminate nei seguenti importi annui lordi, rispettivamente, al compimento degli anni di servizio sottoindicati: 
+ 
+                            
+                                
+                                    
+                                         Grado 
+                                    
+                                    
+                                        17 anni di servizio (euro) 
+                                    
+                                    
+                                        29 anni di servizio (euro) 
+                                    
+                                
+                                
+                                    
+                                        Sottotenente e tenente e gradi corrispondenti 
+                                    
+                                    
+                                         2.153,50 
+                                    
+                                    
+                                         3.231,70 
+                                    
+                                
+                                
+                                    
+                                        Capitano e gradi corrispondenti 
+                                    
+                                    
+                                         2.770,90 
+                                    
+                                    
+                                         5.144,10 
+                                    
+                                
+                                
+                                    
+                                        Maggiore e gradi corrispondenti 
+                                    
+                                    
+                                         3.122,70 
+                                    
+                                    
+                                         5.144,10 
+                                    
+                                
+                            
+                            
+
+(2) (3) (4) ((5))
+
+-----------------
+ 
+AGGIORNAMENTO (2) 
+ Il D.P.R. 16 aprile 2009, n. 52 ha disposto (con l'art. 8, comma 1) che "A decorrere dal 1° dicembre 2008, fermi restando i requisiti di cui all'articolo 5, comma 4, del decreto del Presidente della Repubblica 16 marzo 1999, n. 255, all'assegno funzionale pensionabile di cui all'articolo 3, commi 1 e 2, del decreto del Presidente della Repubblica 28 aprile 2006, n. 221, sono apportate le seguenti modifiche: 
+ a) la misura prevista al compimento di 29 anni di servizio per i gradi di 1° Caporal Maggiore, Caporal Maggiore scelto, Caporal Maggiore Capo, Caporal Maggiore Capo scelto, viene incrementata di euro 781,00 annui lordi; 
+ b) le misure previste al compimento di 29 anni, ivi compresa quella di cui al punto precedente, vengono attribuite al compimento di 27 anni di servizio; 
+ c) al compimento di 32 anni di servizio, le misure attribuite a 27 anni di servizio vengono rideterminate negli importi indicati nella colonna 4 della tabella di cui al successivo comma 2 e nella colonna 4 della tabella di cui al successivo comma 3". 
+ Ha inoltre disposto (con l'art. 8, comma 2) che "Per effetto di quanto previsto al precedente comma 1, a decorrere dal 1° dicembre 2008, le misure dell'assegno funzionale sono fissate negli importi annui lordi di cui alla tabella seguente: 
+ 
+                            
+                                
+                                    
+                                        Misure annue dell'assegno funzionale a decorrere dal 1° dicembre 2008 
+                                    
+                                    
+                                           17 anni di servizio 
+                                    
+                                    
+                                           27 anni di servizio 
+                                    
+                                    
+                                           32 anni di servizio 
+                                    
+                                
+                                
+                                    
+                                        Gradi 
+                                    
+                                    
+                                        euro 
+                                    
+                                    
+                                        euro 
+                                    
+                                    
+                                        euro 
+                                    
+                                
+                                
+                                    
+                                        1° Caporal Maggiore 
+                                    
+                                    
+                                         1.448,40 
+                                    
+                                    
+                                         2.949,83 
+                                    
+                                    
+                                         3.392,30 
+                                    
+                                
+                                
+                                    
+                                        Caporal Maggiore scelto 
+                                    
+                                    
+                                         1.448,40 
+                                    
+                                    
+                                         2.949,83 
+                                    
+                                    
+                                         3.392,30 
+                                    
+                                
+                                
+                                    
+                                        Caporal Maggiore Capo 
+                                    
+                                    
+                                         1.448,40 
+                                    
+                                    
+                                         2.949,83 
+                                    
+                                    
+                                         3.392,30 
+                                    
+                                
+                                
+                                    
+                                        Caporal Maggiore Capo scelto 
+                                    
+                                    
+                                         1.448,40 
+                                    
+                                    
+                                         2.949,83 
+                                    
+                                    
+                                         3.392,30 
+                                    
+                                
+                                
+                                    
+                                        Sergente 
+                                    
+                                    
+                                        1.800,20 
+                                    
+                                    
+                                        3.018,20 
+                                    
+                                    
+                                        3.470,98 
+                                    
+                                
+                                
+                                    
+                                        Sergente Maggiore 
+                                    
+                                    
+                                         1.800,20 
+                                    
+                                    
+                                         3.018,20 
+                                    
+                                    
+                                         3.470,98 
+                                    
+                                
+                                
+                                    
+                                        Sergente Maggiore Capo 
+                                    
+                                    
+                                         1.800,20 
+                                    
+                                    
+                                         3.018,20 
+                                    
+                                    
+                                         3.470,98 
+                                    
+                                
+                                
+                                    
+                                        Maresciallo 
+                                    
+                                    
+                                        1.829,40 
+                                    
+                                    
+                                        3.070,50 
+                                    
+                                    
+                                        3.531,03 
+                                    
+                                
+                                
+                                    
+                                        Maresciallo Ordinario 
+                                    
+                                    
+                                         1.829,40 
+                                    
+                                    
+                                         3.070,50 
+                                    
+                                    
+                                         3.531,03 
+                                    
+                                
+                                
+                                    
+                                        Maresciallo Capo 
+                                    
+                                    
+                                        1.829,40 
+                                    
+                                    
+                                        3.070,50 
+                                    
+                                    
+                                        3.531,03 
+                                    
+                                
+                            
+                            
+    
+AGGIORNAMENTO (3) 
+ Il D.Lgs. 29 maggio 2017, n. 94, nel modificare l'art. 8, comma 2 del D.P.R. 16 aprile 2009, n. 52, ha conseguentemente disposto (con l'art. 10, comma 10) che "A decorrere dal 1° gennaio 2017, l'importo dell'assegno funzionale di cui all'articolo 8, comma 2, del decreto del Presidente della Repubblica 16 aprile 2009, n. 52, per il grado di luogotenente e' fissato nelle seguenti misure annue lorde: 
+ 
+                        
+                        
+                            a)
+                            
+                                euro 1.829, 40 con diciassette anni di servizio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                euro 3.070,50 con ventisette anni di servizio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                euro 3.531,03 con trentadue anni di servizio".
 
 ---------------
                         AGGIORNAMENTO (4)

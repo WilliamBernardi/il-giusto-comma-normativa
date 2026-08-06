@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-03-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -114,6 +114,47 @@ Con decreto del Ministro dell'ambiente e della tutela del territorio, di concert
 
 
 ## Art. 15. — (Comitato di vigilanza e di controllo e comitato di indirizzo sulla gestione dei RAEE)
+
+1.
+                    
+                        
+                            Con decreto del Ministro dell'ambiente e della tutela del territorio, da adottarsi entro sei mesi dalla data di entrata in vigore del presente decreto, e' istituito, presso il Ministero dell'ambiente e della tutela del territorio, il Comitato di vigilanza e di controllo sulla gestione dei RAEE, con i seguenti compiti: 
+
+                        
+                        
+                            a)
+                            
+                                predispone ed aggiornare il registro di cui all'articolo 14, comma 1, sulla base delle comunicazioni delle Camere di commercio previste allo stesso articolo 14, comma 3; 
+                            
+                        
+                        
+                            b)
+                            
+                                raccogliere, esclusivamente in formato elettronico, i dati relativi ai prodotti immessi sul mercato e alle garanzie finanziarie che i produttori sono tenuti a comunicare al Registro ai sensi dell'articolo 13, comma 6 e 7; 
+                            
+                        
+                        
+                            c)
+                            
+                                calcolare, sulla base dei dati di cui alla lettera b), le rispettive quote di mercato dei produttori; 
+                            
+                        
+                        
+                            d)
+                            
+                                programmare e disporre, sulla base di apposito piano, ispezioni nei confronti dei produttori che non effettuano le comunicazioni di cui alla lettera b) e, su campione, sulle comunicazioni previste alla stessa lettera b); 
+                            
+                        
+                        
+                            e)
+                            
+                                vigilare affinche' le apparecchiature immesse sul mercato dopo il 13 agosto 2005 rechino l'identificativo del produttore ed il marchio di cui all'articolo 13, comma 4, e affinche' i produttori che forniscono apparecchiature elettriche ed elettroniche mediante tecniche di comunicazione a distanza informino il registro sulla conformita' alle disposizioni di cui all'articolo 10, comma 3; 
+                            
+                        
+                        
+                            f)
+                            
+                                elaborare i dati relativi agli obiettivi di recupero di cui all'articolo 9, comma 2, e predisporre le relazioni previste all'articolo 17. ((7))
 
 COMMA ABROGATO DAL D.LGS. 14 MARZO 2014, N. 49.
 

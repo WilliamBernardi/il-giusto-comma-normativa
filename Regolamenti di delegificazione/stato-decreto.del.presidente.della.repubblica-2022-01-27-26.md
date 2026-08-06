@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2022-01-27;26
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,66 @@ Sulla proposta del Ministro dello sviluppo economico, di concerto con i Ministri
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                Codice: il Codice in materia di protezione dei dati personali di cui al decreto legislativo 30 giugno 2003, n. 196; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                contraente: qualunque persona fisica o giuridica, ente o associazione parte di un contratto con un fornitore di servizi telefonici accessibili al pubblico per la fornitura di tali servizi, o destinatario di tali servizi anche tramite schede prepagate; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                operatore: qualunque soggetto, persona fisica o giuridica, che, in qualita' di titolare ai sensi del regolamento generale sulla protezione dei dati (RGPD), intenda effettuare il trattamento dei dati di cui all'articolo 129, comma 1, del Codice e delle numerazioni telefoniche nazionali mediante l'impiego del telefono oppure mediante posta cartacea per fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                registro: il registro pubblico delle opposizioni di cui all'articolo 130, comma 3-bis, del Codice, esteso alle numerazioni nazionali fisse e mobili non riportate negli elenchi di contraenti di cui all'articolo 129 del Codice, secondo quanto previsto dall'articolo 1, comma 2, della legge 11 gennaio 2018, n. 5; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                elenchi di contraenti: gli elenchi di cui all'articolo 129 del Codice; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gestore del registro: il Ministero dello sviluppo economico o il soggetto terzo al quale potra' essere affidata la realizzazione e la gestione del servizio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                RGPD: regolamento (UE) n. 679/2016 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (Regolamento Generale sulla Protezione dei Dati); 
+
+                            
+                        
+                        
+                            h)
+                            
+                                materiale pubblicitario: qualsiasi forma di messaggio che e' diffuso, in qualsiasi modo, nell'esercizio di un'attivita' commerciale, industriale, artigianale o professionale allo scopo di promuovere il trasferimento di beni mobili o immobili, la prestazione di opere o di servizi oppure la costituzione o il trasferimento di diritti ed obblighi su di essi.
+
 ## Art. 2. — Ambito di applicazione
 
 Il presente regolamento disciplina il registro pubblico delle opposizioni di cui all'articolo 130, comma 3-bis, del Codice, per quanto riguarda il trattamento delle numerazioni e dei corrispondenti indirizzi postali presenti negli elenchi di contraenti, e all'articolo 1, comma 2, della legge 11 gennaio 2018, n. 5, con riferimento al trattamento di tutte le numerazioni telefoniche nazionali fisse e mobili.
@@ -46,10 +106,92 @@ Il diritto di opposizione, di cui all'articolo 21, paragrafo 2, del RGPD, puo' e
 
 ## Art. 4. — Realizzazione e gestione del registro
 
+1.
+                    
+                        
+                            Il Ministero dello sviluppo economico provvede alla realizzazione e gestione del registro anche affidandone la realizzazione e la gestione a soggetti terzi che ne assumono interamente gli oneri finanziari e organizzativi, mediante contratto di servizio, nel rispetto del codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50. In caso di affidamento a terzi, il contratto di servizio, nel rispetto del RGPD, del Codice e del presente regolamento, prevede, sentito il Garante per la protezione dei dati personali per quanto di sua competenza, anche in riferimento ai compiti di vigilanza e controllo di cui all'articolo 12, comma 1: 
+ 
+                        
+                        
+                            a)
+                            
+                                le condizioni generali di efficace ed efficiente svolgimento del servizio, la durata del rapporto, gli obblighi dell'affidatario; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i parametri per il calcolo dei corrispettivi nel rispetto dei provvedimenti di competenza del Ministero dello sviluppo economico, basati sugli effettivi costi di funzionamento e manutenzione del registro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le cause di recesso, di revoca e di decadenza, le garanzie da prestare e la responsabilita' dell'affidatario, le penali per il caso di inadempimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'obbligo dell'affidatario di garantire la continuita' del servizio e il trasferimento di tutti i dati nell'eventuale fase di subentro di un nuovo affidatario o in caso di mutamento soggettivo dell'affidatario; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'obbligo di consentire l'esercizio di attivita' di vigilanza e controllo da parte del Ministero dello sviluppo economico, per i profili attinenti al rispetto dell'atto di affidamento e del contratto di servizio, e da parte del Garante per la protezione dei dati personali, per i profili di propria competenza.
+
+2.
+                    
+                        
+                            La concreta realizzazione ed il funzionamento del registro devono essere garantiti anche in caso di affidamento a terzi; a tale fine il Ministero dello sviluppo economico anche per il tramite del gestore del registro pubblico delle opposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro trenta giorni dalla data di pubblicazione del presente regolamento provvede allo svolgimento e conclusione della consultazione dei principali operatori e delle associazioni dei consumatori rappresentate nel Consiglio Nazionale dei Consumatori e degli Utenti, a norma dell'articolo 136 del decreto legislativo 6 settembre 2005, n. 206; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro centoventi giorni dalla data di pubblicazione del presente regolamento provvede, in collaborazione con il Dipartimento per la trasformazione digitale della Presidenza del Consiglio dei ministri, anche sulla base dell'esito delle consultazioni di cui alla lettera a), alla predisposizione ed attivazione delle modalita' tecniche ed operative di iscrizione, anche telematica, al registro da parte dei contraenti e di funzionamento ed accesso, anche telematico, nonche' alla verifica delle liste di contatti da parte degli operatori.
+
 ## Art. 5.
 
 Soggetti obbligati all'accesso 
  e modalita' di adesione al servizio
+
+1.
+                    
+                        
+                            Ciascun operatore, per effettuare il trattamento delle numerazioni nazionali fisse e mobili, mediante l'impiego del telefono con o senza l'intervento di un operatore umano, o degli indirizzi postali riportati in elenchi di contraenti, mediante posta cartacea, per fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale, presenta istanza presso il gestore del registro, comprensiva di: 
+ 
+                        
+                        
+                            a)
+                            
+                                documentazione attestante l'identita' dell'operatore: per le persone fisiche, documento di identita' in corso di validita' del soggetto; per le persone giuridiche e gli enti anche non riconosciuti, documento di identita' del legale rappresentante pro tempore, atto di conferimento del potere di rappresentanza o della carica detenuta dal titolare, atto costitutivo e statuto; attestazione dell'identita' dell'operatore puo' avvenire anche attraverso le modalita' previste dal decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i soli operatori che effettuano il trattamento mediante l'impiego del telefono con o senza o senza l'intervento di un operatore umano, dichiarazione di attivazione del sistema di identificazione della linea chiamante alla quale puo' essere contattato ovvero dichiarazione dell'utilizzo degli appositi codici o prefissi specifici stabiliti dall'Autorita' per le garanzie nelle comunicazioni, secondo quanto previsto dall'articolo 2, comma 1, della legge n. 5 del 2018, ovvero, nel caso di affidamento a terzi del servizio di effettuazione delle chiamate, l'indicazione dei dati identificativi di ogni soggetto che curera' materialmente i contatti con i contraenti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'elenco o gli elenchi aggiornati di contraenti che costituiscono la fonte dei dati personali che l'operatore intende trattare.
 
 Il gestore del registro, entro quindici giorni dall'effettivo ricevimento dell'istanza, assegna le credenziali di autenticazione e i profili di autorizzazione all'operatore. Il gestore pubblica gli estremi identificativi dell'operatore, comprensivi dei riferimenti di contatto, in apposito elenco consultabile sul sito web relativo al registro pubblico delle opposizioni per un periodo non superiore a dodici mesi dall'ultima consultazione del medesimo registro.
 L'operatore comunica al gestore del registro, senza ritardo, ogni variazione dei dati comunicati al momento del deposito dell'istanza di accesso al registro. La validita' dell'iscrizione al registro cessa decorsi dodici mesi dall'ultima consultazione del medesimo registro.
@@ -65,11 +207,55 @@ Nel caso di gestione diretta del registro da parte del Ministero dello sviluppo 
 
 Modalita' e tempi di iscrizione dei contraenti al registro
 
+1.
+                    
+                        
+                            Ciascun contraente puo' chiedere al gestore del registro che la numerazione della quale e' intestatario, riportata o meno negli elenchi di cui all'articolo 129 del Codice, o il corrispondente indirizzo postale, riportato nei medesimi elenchi, siano iscritti nel registro per opporsi al trattamento di tali dati per fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale, effettuato mediante operatore con l'impiego del telefono o della posta cartacea nonche', ai fini della revoca di cui al comma 7, mediante sistemi automatizzati di chiamata o chiamate senza operatore. L'iscrizione avviene gratuitamente secondo le seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                mediante compilazione di apposito modulo elettronico sul sito web del gestore del registro; in tale caso, il contraente e' tenuto a comunicare la numerazione da iscrivere al registro, a dimostrarne la disponibilita' e a fornire il proprio indirizzo di posta elettronica, secondo le modalita' tecniche di cui all'articolo 4, comma 2, lettera b); l'attestazione dell'identita' del contraente puo' avvenire anche attraverso le modalita' previste dal decreto legislativo 7 marzo 2005, n. 82; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                mediante chiamata, effettuata dalla linea telefonica con numerazione corrispondente a quella per la quale si chiede l'iscrizione nel registro, al numero telefonico appositamente predisposto dal gestore del registro; il sistema funziona mediante risponditore automatico, con possibilita' per il contraente di ottenere comunque un'assistenza telefonica non automatizzata in caso di difficolta' o di problemi per l'iscrizione o il rinnovo o la revoca dell'iscrizione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                mediante posta elettronica; in tale caso, il contraente e' tenuto a inviare apposito modulo elettronico contenente la numerazione da iscrivere al registro e a dimostrarne la disponibilita'.
+
 Le modalita' tecniche e operative di iscrizione nel registro di cui al comma 1 possono essere ulteriormente definite con decreto del Ministro dello sviluppo economico, sentiti il Garante per la protezione dei dati personali e, per quanto di competenza, il Dipartimento per la trasformazione digitale della Presidenza del Consiglio dei ministri, al fine di migliorare l'accesso al servizio e nel rispetto dei parametri e delle specifiche tecniche che garantiscono il funzionamento del medesimo registro.
 
 Nel caso in cui il contraente sia intestatario di piu' numerazioni, e' possibile richiederne la contemporanea iscrizione nel registro, a condizione di utilizzare le modalita' di cui al comma 1, lettere a) o c). Il gestore del registro predispone strumenti a disposizione del contraente per consentire la verifica della propria iscrizione al registro.
 
 I contraenti iscritti al registro ai sensi del comma 1 possono rinnovare l'iscrizione in qualunque momento. Il rinnovo dell'iscrizione al registro comporta la revoca del consenso al trattamento della propria numerazione di cui al comma 7, prestato ai titolari del trattamento precedentemente alla data di rinnovo dell'iscrizione.
+
+5.
+                    
+                        
+                            I contraenti iscritti al registro possono revocare in qualunque momento la propria opposizione nei confronti di uno o piu' operatori.
+La revoca dell'opposizione consente il trattamento da parte dei titolari per fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale: 
+ 
+                        
+                        
+                            a)
+                            
+                                della numerazione e del corrispondente indirizzo postale, contenuti negli elenchi di contraenti, dalla data di annotazione della revoca dell'opposizione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle numerazioni nazionali, se e' stato raccolto apposito consenso successivamente alla data piu' recente di iscrizione o rinnovo dell'iscrizione nel registro, purche' cio' sia avvenuto o avvenga nel rispetto degli articoli 6, 7, 13, 14 e 21, paragrafo 2, del RGPD.
 
 L'iscrizione al registro preclude qualsiasi trattamento degli indirizzi postali contenuti negli elenchi di contraenti e delle numerazioni nazionali fisse e mobili da parte degli operatori per fini di invio di materiale pubblicitario o di vendita diretta o per il compimento di ricerche di mercato o di comunicazione commerciale, effettuato mediante l'impiego del telefono oppure mediante posta cartacea, fatto salvo quanto previsto dai successivi commi.
 
@@ -78,6 +264,24 @@ Con l'iscrizione al registro di cui al comma 1 e con il rinnovo dell'iscrizione 
 Ogni contraente puo' iscriversi ovvero rinnovare ovvero revocare l'iscrizione al registro senza alcuna limitazione. L'iscrizione al registro, il rinnovo e la revoca dell'iscrizione sono effettuate dal gestore del registro entro il giorno lavorativo successivo al momento di ricezione della richiesta del contraente.
 
 L'iscrizione nel registro di una numerazione o del corrispondente indirizzo postale riportato negli elenchi di contraenti e' a tempo indeterminato e cessa solo in caso di revoca da parte del contraente intestatario della linea. L'iscrizione del contraente nel registro e' riferita unicamente alla numerazione al medesimo intestata e all'eventuale e corrispondente indirizzo postale e non puo' estendersi a numerazioni intestate ad altri contraenti.
+
+10.
+                    
+                        
+                            Il gestore del registro aderisce alle regole e modalita' organizzative per la realizzazione e l'offerta di un servizio di elenco telefonico generale stabilite dall'Autorita' per le garanzie nelle comunicazioni per la fornitura dei servizi di cui all'articolo 98-vicies quinquies del decreto legislativo 1° agosto 2003, n. 259, come modificato dal decreto legislativo 8 novembre 2021, n. 207, o acquisisce i dati contenuti nella suddetta base dati unica vigente, provvedendo ad aggiornare i propri dati periodicamente, al fine di verificare se i contraenti che richiedono l'iscrizione, il rinnovo o la revoca nel registro sono presenti o meno negli elenchi di cui all'articolo 129 del Codice. Entro sessanta giorni dalla data di pubblicazione del presente regolamento con decreto del Ministero dello sviluppo economico, sentiti l'Autorita' per le garanzie nelle comunicazioni e il Garante per la protezione dei dati personali per quanto di propria competenza, sono definiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                le specifiche e i requisiti tecnici e di sicurezza per la fornitura da parte dei gestori telefonici al gestore del registro delle numerazioni fisse non pubblicate negli elenchi di contraenti di cui all'articolo 129 del Codice, secondo quanto previsto dall'articolo 1, comma 3, della legge n. 5 del 2018; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' attraverso cui le numerazioni di cui alla lettera a) devono essere fornite al gestore del registro al fine dell'iscrizione di default, qualora non gia' iscritte.
 
 Le numerazioni e i corrispondenti indirizzi postali, gia' iscritti nel registro pubblico delle opposizioni alla data di istituzione del registro di cui all'articolo 3, comma 1, si intendono automaticamente iscritti in quest'ultimo registro, ferma restando la facolta' del contraente di rinnovare o revocare la propria opposizione successivamente all'iscrizione.
 

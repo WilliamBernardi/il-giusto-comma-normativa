@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2026-03-11;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -39,13 +39,141 @@ All'articolo 6 del decreto del Presidente del Consiglio dei ministri 30 ottobre 
 
 ## Art. 4. — Modifiche all'articolo 7 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186
 
+1.
+                    
+                        
+                            All'articolo 7 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 4, alinea, dopo le parole «Direzione generale per gli affari legali» sono inserite le seguenti: «, societari»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 5, dopo le parole «Direzione generale per gli affari legali» sono inserite le seguenti: «, societari».
+
 ## Art. 5. — Modifiche all'articolo 8 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186
+
+1.
+                    
+                        
+                            All'articolo 8 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. Costituiscono strutture decentrate del Ministero, dipendenti dal Dipartimento per le opere pubbliche e le politiche abitative, i Provveditorati regionali e interregionali per le opere pubbliche, individuati secondo gli ambiti territoriali e le sedi che seguono: 
+ a) Provveditorato interregionale per le opere pubbliche per le regioni Piemonte, Valle d'Aosta e Liguria, con sede in Torino e sede coordinata in Genova; 
+ b) Provveditorato regionale per le opere pubbliche per la Lombardia, con sede in Milano; 
+ c) Provveditorato regionale per le opere pubbliche per l'Emilia-Romagna con sede in Bologna; 
+ d) Provveditorato interregionale per le opere pubbliche per le regioni Veneto, Trentino-Alto Adige e Friuli-Venezia Giulia, con sede in Venezia e sedi coordinate in Trento e in Trieste; 
+ e) Provveditorato interregionale per le opere pubbliche per le regioni Toscana, Marche e Umbria, con sede in Firenze e sedi coordinate in Perugia e in Ancona; 
+ f) Provveditorato interregionale per le opere pubbliche per le regioni Lazio, Abruzzo e Sardegna, con sede in Roma e sedi coordinate in L'Aquila e in Cagliari; 
+ g) Provveditorato interregionale per le opere pubbliche per le regioni Campania e Molise con sede in Napoli e sede coordinata in Campobasso; 
+ h) Provveditorato interregionale per le regioni Puglia e Basilicata, con sede in Bari e sede coordinata in Potenza; 
+ i) Provveditorato interregionale per le opere pubbliche per le regioni Sicilia e Calabria, con sede in Palermo e sede coordinata in Catanzaro.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo la parola: «Provveditorato» sono inserite le seguenti: «regionale e»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la rubrica e' sostituita dalla seguente: «I Provveditorati regionali e interregionali per le opere pubbliche».
 
 ## Art. 6. — Modifiche all'articolo 9 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186
 
+1.
+                    
+                        
+                            All'articolo 9 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «Provveditorati interregionali», ovunque ricorrono, sono sostituite dalle seguenti: «Provveditorati regionali e interregionali»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera m), dopo le parole: «Direzione generale per gli affari legali» e' inserita la seguente: «, societari»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la rubrica e' sostituita dalla seguente: «Competenze dei Provveditorati regionali e interregionali per le opere pubbliche».
+
 ## Art. 7. — Modifiche all'articolo 10 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186
 
+1.
+                    
+                        
+                            All'articolo 10 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai commi 1 e 8, le parole «Provveditorati interregionali» sono sostituite dalle seguenti: «Provveditorati regionali e interregionali»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole «Provveditorato interregionale» sono sostituite dalle seguenti: «Provveditorato regionale e interregionale»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai commi 3 e 6, la parola: «interregionale», ovunque ricorra, e' sostituita dalle seguenti: «regionale o interregionale»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la rubrica e' sostituita dalla seguente: «Organizzazione dei Provveditorati regionali e interregionali per le opere pubbliche».
+
 ## Art. 8. — Modifiche all'articolo 18 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186
+
+1.
+                    
+                        
+                            All'articolo 18 del decreto del Presidente del Consiglio dei ministri 30 ottobre 2023, n. 186, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, la parola: «quaranta» e' sostituita dalla seguente: «quarantatre'» e la parola: «duecentoundici» e' sostituita dalla seguente: «duecentodiciotto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole «, adottato entro sessanta giorni dalla data di entrata in vigore del presente regolamento,» sono soppresse.
 
 ## Art. 9. — Determinazione degli uffici dirigenziali di livello non generale
 

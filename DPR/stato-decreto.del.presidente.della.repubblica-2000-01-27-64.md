@@ -8,8 +8,8 @@ codice_redazionale: 000G0102
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,6 +28,46 @@ Sentite le competenti commissioni parlamentari;
 Sulla proposta del Ministro delle comunicazioni;
 
 ## Art. 1. — Detenzione ed uso delle apparecchiature radio portatili e veicolari
+
+1.
+                    
+                        
+                            I cittadini appartenenti a Paesi della CEPT, in visita od in transito in Italia, possono detenere ed usare, nei modi e nelle bande di frequenze consentiti, le apparecchiature radio, portatili o veicolari, trasmittenti o rice-trasmittenti, monomodo o multimodo, monobanda o multibanda, nel rispetto delle seguenti condizioni:
+
+                        
+                        
+                            a)
+                            
+                                utilizzazione di servizi di telecomunicazioni autorizzati dall'Italia nelle bande di frequenze assegnate;
+                            
+                        
+                        
+                            b)
+                            
+                                approvazione amministrativa od omologazione, compatibilita' elettromagnetica e relativa marcatura delle apparecchiature;
+                            
+                        
+                        
+                            c)
+                            
+                                conformita' alla normativa vigente nel Paese di appartenenza.
+
+2.
+                    
+                        
+                            I soggetti di cui al comma 1, inoltre, possono:
+
+                        
+                        
+                            a)
+                            
+                                detenere ed usare le apparecchiature radio, portatili o veicolari, solo riceventi, per i servizi di radiodiffusione, di radiodeterminazione e di radioamatore, nonche' per il servizio mobile a scopo di teleavviso personale;
+                            
+                        
+                        
+                            b)
+                            
+                                detenere ma non utilizzare le apparecchiature radio diverse da quelle di cui al comma 1 e di cui alla lettera a) del presente comma, se il relativo impiego e' consentito dal Paese di appartenenza e se risultano conformi a quanto disposto dal decreto legislativo 12 dicembre 1996, n. 615.
 
 ## Art. 2. — Interferenze dannose ed integrita' della rete
 

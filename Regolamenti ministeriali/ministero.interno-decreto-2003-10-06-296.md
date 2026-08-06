@@ -8,8 +8,8 @@ codice_redazionale: 003G0325
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,9 +35,80 @@ E' fatto divieto di mutare la destinazione di uso degli alloggi di servizio, fin
 
 ## Art. 2. — Classificazione degli alloggi di servizio
 
+1.
+                        
+                            
+                                Gli alloggi di servizio sono classificati nelle seguenti categorie:
+ 
+                            
+                            
+                                a)
+                                
+                                    alloggi di servizio gratuiti connessi all'incarico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alloggi di servizio in assegnazione temporanea a titolo oneroso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alloggi collettivi di servizio in uso temporaneo.
+
 ## - Capo II Alloggi di servizio gratuiti connessi all'incarico
 
 ## Art. 3. — Personale assegnatario
+
+1.
+                        
+                            
+                                Gli alloggi di servizio gratuiti connessi all'incarico sono destinati al seguente personale:
+ 
+                            
+                            
+                                a)
+                                
+                                    ispettore generale capo del CNVVF;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dirigenti del CNVVF con incarico di direttori centrali nell'ambito del Dipartimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    direttori regionali ed interregionali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dirigente della Scuola per la formazione di base del Dipartimento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    comandanti provinciali;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    personale volontario del CNVVF con incarico di custode dei distaccamenti volontari.
 
 ## Art. 4. — Organi competenti all'assegnazione
 
@@ -56,13 +127,106 @@ Il recupero coattivo dell'alloggio, nel caso in cui l'assegnatario non rispetti 
 
 ## Art. 6. — Spese ed oneri accessori
 
+1.
+                        
+                            
+                                Sono a carico degli assegnatari degli alloggi i seguenti oneri:
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese di ordinaria manutenzione e quelle per il consumo dell'acqua, dell'energia elettrica, del combustibile da riscaldamento e dell'eventuale gas di rete, per le conversazioni telefoniche, per la tassa per i rifiuti solidi urbani e per l'eventuale passo carrabile, qualora dovuto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese per i danni prodotti o causati da colpa, negligenza o cattivo uso dell'alloggio.
+
+2.
+                        
+                            
+                                Sono a carico dell'Amministrazione i seguenti oneri:
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese di straordinaria manutenzione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le spese e gli oneri relativi al periodo intercorrente tra la data di rilascio dell'alloggio e quella della sua consegna al successivo assegnatario.
+
 Ciascun alloggio e' fornito di un contatore separato da quello della sede di servizio, per i consumi di acqua, energia elettrica e gas. Nel caso in cui l'ente erogatore dichiari l'impossibilita' tecnica dell'installazione o qualora l'installazione comporti rilevanti oneri per l'Amministrazione e l'incompatibilita' di un corretto rapporto costi-benefici sia attestata dal competente ufficio provinciale del territorio, i consumi sono calcolati forfetariamente dall'ufficio del territorio medesimo. In caso di mancata installazione di contatori separati, il versamento dell'importo dei consumi e' imputato al capo 14, capitolo 3560 (entrate eventuali e diverse del Ministero dell'interno) dello stato di previsione dell'entrata del bilancio dello Stato.
 
 ## - Capo III Alloggi di servizio in assegnazione temporanea a titolo oneroso
 
 ## Art. 7. — Personale ammesso all'assegnazione
 
+1.
+                        
+                            
+                                All'assegnazione temporanea a titolo oneroso degli alloggi di servizio disponibili presso il Dipartimento e le sedi periferiche del CNVVF e' ammesso il seguente personale purche' in servizio effettivo presso le strutture stesse:
+ 
+                            
+                            
+                                a)
+                                
+                                    dirigenti del CNVVF non destinatari di alloggi di servizio gratuiti connessi all'incarico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    funzionari in servizio permanente appartenenti ai settori operativo ed aeronavigante del CNVVF;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    funzionari della carriera prefettizia.
+
 All'assegnazione degli alloggi di servizio e' ammesso altresi' il personale di cui al comma 1 trasferito alla sede in cui l'alloggio si e' reso disponibile e in attesa di assumervi servizio alla data di decorrenza del trasferimento.
+
+3.
+                        
+                            
+                                Non puo' concorrere all'assegnazione dell'alloggio il personale che:
+ 
+                            
+                            
+                                a)
+                                
+                                    sia proprietario, usufruttuario o assegnatario in cooperativa, ancorche' indivisa, di un alloggio ubicato nel territorio dello stesso comune o di un comune limitrofo a quello in cui il personale medesimo presta servizio ovvero, con riferimento alla fattispecie di cui al comma 2, in cui e' in attesa di assumere servizio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia assegnatario di un alloggio di istituto autonomo case popolari o similari o concesso a canone agevolato da qualsiasi amministrazione pubblica, ubicato nel territorio dello stesso comune o di un comune limitrofo a quello in cui il personale medesimo presta servizio ovvero, con riferimento alla fattispecie di cui al comma 2, in cui e' in attesa di assumere servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in quanto funzionario della carriera prefettizia, sia destinatario ad altro titolo di un alloggio di servizio o di facilitazioni abitative da parte dell'Amministrazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    abbia un familiare convivente che benefici di una delle situazioni di cui alle lettere a), b) e c) del presente comma.
 
 ## Art. 8. — Organi competenti all'assegnazione
 
@@ -75,6 +239,39 @@ I provvedimenti di assegnazione adottati dai direttori regionali ed interregiona
 Quando si rende disponibile un alloggio di servizio, l'organo competente all'assegnazione dispone formalmente l'avvio del relativo procedimento.
 
 L'avvio del procedimento e' comunicato al personale avente titolo a concorrere all'assegnazione, unitamente al termine per la presentazione delle istanze in conformita' al modello predisposto dall'Amministrazione.
+
+3.
+                        
+                            
+                                La graduatoria e' predisposta sulla base dei punteggi attribuiti con i seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    svolgimento di incarichi che per loro natura richiedono una pronta presenza nell'interesse dell'Amministrazione: fino a punti 10;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disagio abitativo: fino a punti 4, di cui per:
+ 1) sfratto giudiziario in atto, punti 1,50;
+ 2) trasferimento recente da altra provincia, punti 2,00;
+ 3) alloggio in coabitazione, punti 0,50;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    situazioni familiari: fino a punti 6, di cui per:
+ 1) coniuge convivente a carico, punti 1,50;
+ 2) per ogni figlio convivente ed a carico, punti 1,00;
+ 3) per genitore convivente a carico, punti 0,50;
+ 4) per il familiare convivente a carico portatore di handicap con una invalidita' superiore al 70%, punti 2,00;
+ 5) reddito familiare inferiore a 25.823 euro, punti 1,00.
 
 A parita' di punteggio costituiscono titolo di preferenza, nell'ordine, il conseguimento del punteggio maggiore in relazione al criterio degli incarichi svolti di cui al comma 3, lettera a) e la maggiore anzianita' di servizio.
 
@@ -97,9 +294,119 @@ L'organo competente all'assegnazione notifica in via amministrativa all'interess
 
 ## Art. 11. — Cause di cessazione anticipata dell'assegnazione
 
+1.
+                        
+                            
+                                L'assegnazione cessa prima della scadenza, oltre che nei casi indicati agli articoli 12 e 13, al verificarsi delle seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    decesso dell'assegnatario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasferimento in un'altra sede del CNVVF ovvero ad un ufficio od incarico esterno al CNVVF stesso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rinuncia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    collocamento a riposo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dimissioni dal servizio;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    collocamento fuori ruolo.
+
 ## Art. 12. — Cause di decadenza dell'assegnazione
 
+1.
+                        
+                            
+                                L'assegnatario decade dall'assegnazione dell'alloggio nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    impiego dell'alloggio per uso diverso da quello stabilito;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancata occupazione stabile, con il proprio nucleo familiare, entro tre mesi dalla data di consegna dell'alloggio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mancato pagamento del canone e degli oneri accessori entro novanta giorni dalla scadenza del termine fissato nell'atto di assegnazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cessione dell'alloggio in uso a terzi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    inosservanza grave e continuata delle condizioni stabilite per l'uso e la manutenzione dell'alloggio.
+
 ## Art. 13. — Cause di revoca dell'assegnazione
+
+1.
+                        
+                            
+                                L'assegnazione dell'alloggio puo' essere revocata al verificarsi delle seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    sopravvenuto accertamento dell'insussistenza, al momento dell'assegnazione dell'alloggio, delle condizioni per ottenere l'assegnazione stessa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sopravvenienza delle condizioni ostative all'assegnazione dell'alloggio di cui all'articolo 7, comma 3;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sopravvenienza di inderogabili esigenze di servizio o di cause di forza maggiore.
 
 ## Art. 14. — Provvedimenti di cessazione anticipata, decadenza
  e revoca dell'assegnazione e rilascio dell'alloggio
@@ -134,6 +441,31 @@ Per le spese e gli oneri accessori si applicano le disposizioni dell'articolo 6.
 
 ## Art. 17. — Personale ammesso a fruire degli alloggi collettivi
  di servizio in uso temporaneo
+
+1.
+                        
+                            
+                                E' ammesso a fruire degli alloggi collettivi di servizio in uso temporaneo esistenti presso il Dipartimento e le sedi periferiche del CNVVF, il personale del CNVVF che si trovi in una delle seguenti condizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    corsista partecipante a corsi di formazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    missione o temporanea assegnazione presso altra sede;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasferimento recente da un'altra sede.
 
 Nell'ipotesi di cui al comma 1, lettera c) l'uso dell'alloggio collettivo non puo' avere durata superiore a sei mesi, elevati a dodici mesi nei casi in cui il personale sia stato trasferito in una sede ubicata in un comune ad alta tensione abitativa.
 

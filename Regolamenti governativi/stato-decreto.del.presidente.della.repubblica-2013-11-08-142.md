@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2013-11-08;142
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,59 @@ Il presente regolamento, ai sensi dell'articolo 155, comma 2, del testo unico de
 La Commissione esercita le funzioni e i compiti a essa attribuiti dalla parte II del testo unico e dalle altre disposizioni in materia di ordinamento finanziario e contabile degli enti locali.
 
 ## Art. 2. — Composizione della Commissione
+
+1.
+                    
+                        
+                            La Commissione, nominata con decreto del Ministro dell'interno, e' presieduta dal Sottosegretario di Stato pro-tempore con delega per le materie afferenti le autonomie locali e la finanza locale ed e' composta: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal capo del Dipartimento per gli affari interni e territoriali del Ministero dell'interno, che svolge funzioni di vice presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal direttore centrale della finanza locale o dal direttore centrale per gli uffici territoriali del Governo e per le autonomie locali del Ministero dell'interno, i quali partecipano alternativamente ai lavori della Commissione in relazione alla materia trattata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da un dirigente del Ministero dell'interno in servizio presso il Dipartimento per gli affari interni e territoriali. A tal fine sono nominati il dirigente dell'ufficio competente in materia di risanamento degli enti dissestati della Direzione centrale della finanza locale e il dirigente dell'ufficio competente in materia di personale degli enti locali della Direzione centrale per gli uffici territoriali del Governo e per le autonomie locali, i quali partecipano alternativamente ai lavori della Commissione, in relazione alla materia trattata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                da un dirigente designato dal Ministero dell'economia e delle finanze. A tal fine, su designazione di detto Ministero, sono nominati un dirigente particolarmente esperto in problematiche finanziarie degli enti locali ed un dirigente particolarmente esperto in problematiche gestionali del personale degli enti locali, i quali partecipano alternativamente ai lavori della Commissione, in relazione alla materia trattata; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                da un dirigente della Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica. A tal fine, su designazione del Ministro per la pubblica amministrazione e la semplificazione, sono nominati un dirigente particolarmente esperto in problematiche finanziarie degli enti locali ed un dirigente particolarmente esperto in problematiche gestionali del personale degli enti locali, i quali partecipano alternativamente ai lavori della Commissione, in relazione alla materia trattata; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                da due rappresentanti dell'Unione delle province d'Italia (U.P.I.); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                da tre rappresentanti dell'Associazione nazionale dei comuni italiani (A.N.C.I.).
 
 Per ciascun componente, ad eccezione del presidente, del vicepresidente e dei direttori centrali, viene designato un supplente.
 
@@ -64,6 +117,31 @@ La segreteria facente capo all'ufficio di riferimento provvede all'istruttoria, 
 La segreteria, conclusa l'istruttoria relativa ai provvedimenti trasmessi dagli enti locali, predispone, su indicazione del presidente o del vice presidente, l'ordine del giorno della seduta nel rispetto dei termini di cui al comma 6. Il presidente, avvalendosi della segreteria, assegna i provvedimenti medesimi ai singoli componenti, in qualita' di relatori, ai fini della formulazione di una proposta.
 
 Il controllo sulle dotazioni organiche e sulle assunzioni di personale si svolge prioritariamente sulla base della verifica della compatibilita' finanziaria dei provvedimenti, accertando se gli stessi comportano maggiori spese per gli enti locali, nel qual caso gli enti devono dimostrare di disporre di risorse finanziarie che assicurino strutturalmente la copertura finanziaria dei nuovi oneri.
+
+6.
+                    
+                        
+                            La Commissione, in relazione alle disposizioni del testo unico, sulla base degli atti prodotti: 
+ 
+                        
+                        
+                            a)
+                            
+                                esprime il proprio parere sul piano di estinzione delle passivita', ai sensi dell'articolo 256, comma 7, del testo unico, e sulle procedure di cui agli articoli 268-bis e 268-ter, entro centoventi giorni dal ricevimento. Decorso inutilmente tale termine, il parere si intende espresso in senso favorevole; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                fatto salvo quanto previsto al comma 2, esprime il proprio parere sull'ipotesi di bilancio stabilmente riequilibrato di cui agli articoli 259, e seguenti, del testo unico, entro centoventi giorni dal ricevimento. Decorso inutilmente tale termine, il parere si intende espresso in senso favorevole; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                approva o nega l'approvazione ai provvedimenti in materia di dotazioni organiche e di assunzione di personale, entro novanta giorni dal ricevimento. Decorso inutilmente tale termine, i provvedimenti si intendono approvati.
 
 Della seduta e' redatto apposito verbale, sottoscritto dal presidente e dal segretario. La segreteria, entro i dieci giorni successivi alla riunione nella quale sono state adottate le determinazioni della Commissione, ne da' comunicazione, anche attraverso posta elettronica, agli enti interessati. Nel caso di decorso del termine utile per il controllo, la segreteria comunica altresi' agli enti, entro cinque giorni, i provvedimenti che s'intendono approvati o i pareri che si intendono espressi in senso favorevole per decorrenza del termine.
 

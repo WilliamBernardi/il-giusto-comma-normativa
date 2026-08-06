@@ -8,8 +8,8 @@ codice_redazionale: 099G0358
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -200,6 +200,98 @@ Nell'ambito delle attribuzioni demandategli dalla legge, il consiglio dell'Ordin
 
 La domanda di iscrizione all'albo, redatta in conformita' alle vigenti disposizioni di legge in materia di bollo, e' diretta al consiglio dell'ordine ed e' presentata direttamente, ovvero spedita a mezzo di lettera raccomandata con avviso di ricevimento. La domanda deve essere diretta al consiglio dell'ordine nella cui circoscrizione ricade la residenza dell'istante ovvero, nel caso di domanda presentata da cittadino europeo non residente in Italia, al consiglio dell'ordine nella cui circoscrizione ricade il suo domicilio professionale.
 
+2.
+                        
+                            
+                                Nella domanda il richiedente dichiara:
+ 
+                            
+                            
+                                a)
+                                
+                                    il cognome, il nome, il luogo e la data di nascita;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la residenza e il domicilio professionale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la cittadinanza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di godere dei diritti civili;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il titolo di studio posseduto;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    di avere conseguito l'abilitazione all'esercizio della professione di tecnologo alimentare;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il proprio stato giuridico professionale, ai sensi dell'articolo 3, della legge 18 gennaio 1994, n. 59;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    di non avere precedenti penali, provvedendo, diversamente, ad indicarli;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    il domicilio, nella circoscrizione dell'ordine al cui albo si chiede di essere iscritti, presso il quale intende ricevere tutte le comunicazioni e notificazioni, con l'impegno a comunicare le eventuali variazioni.
+
+3.
+                        
+                            
+                                Alla domanda va allegata la seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    certificazioni, in originale o in copia autentica, concernenti i dati e la ricorrenza dei requisiti indicati nel comma 2, ovvero, nei casi previsti dalle vigenti disposizioni di legge in materia, le relative dichiarazioni sostitutive;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricevuta del versamento effettuato presso la segreteria dell'ordine della tassa di iscrizione fissata dal consiglio dell'ordine;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricevuta del versamento in conto corrente postale della tassa di concessione governativa prevista dall'articolo 22 della tariffa annessa al decreto del Ministro delle finanze 28 dicembre 1995, pubblicato nella Gazzetta Ufficiale n. 303 del 30 dicembre 1995.
+
 Ove necessario, l'aspirante che non sia cittadino italiano o di uno Stato membro dell'Unione europea deve, inoltre, produrre attestazione del Ministero degli affari esteri, comprovante l'esistenza del trattamento di reciprocita' nello Stato di appartenenza.
 
 ## Art. 22. — Cambi di residenza e domicili professionali. Trasferimenti
@@ -242,6 +334,45 @@ Ove l'iscritto non provveda spontaneamente alla restituzione di cui al comma 1, 
 
 ## Art. 27. — Invito a comparire
 
+1.
+                        
+                            
+                                L'invito a comparire dinanzi al consiglio dell'ordine, per procedere all'audizione prevista dall'articolo 40, comma 2, della legge 18 gennaio 1994, n. 59, e' comunicato all'interessato almeno trenta giorni liberi prima della data fissata per la comparizione e deve contenere:
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' dell'incolpato;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la menzione circostanziata degli addebiti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione del luogo, del giorno e dell'ora della comparizione, con l'avvertimento che, in caso di mancata comparizione dell'incolpato, si procedera' in sua assenza;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il termine, non inferiore a dieci giorni dalla comunicazione dell'invito, entro il quale l'interessato potra' prendere visione degli atti del procedimento e presentare memorie e documenti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data e la sottoscrizione del presidente.
+
 ## Art. 28. — Esecuzione provvisoria
 
 L'esecuzione provvisoria delle sanzioni disciplinari della sospensione e della radiazione puo' essere disposta ai sensi dell'articolo 43 della legge 18 gennaio 1994, n. 59, quando la gravita' dei fatti o le modalita' o le circostanze della condotta inducano a ritenere che la prosecuzione dell'attivita' professionale possa arrecare grave pregiudizio all'Ordine professionale.
@@ -255,6 +386,24 @@ Il ricorso al consiglio dell'Ordine nazionale e' presentato o notificato nel ter
 
 Il segretario del consiglio dell'ordine annota a margine del ricorso la data di presentazione, rilasciandone ricevuta, in caso di presentazione a mano, e lo trasmette in copia, senza ritardo, al procuratore della Repubblica presso il tribunale nella cui circoscrizione ha sede l'ordine, se ricorrente e' il professionista, ovvero al professionista, se ricorrente e' il procuratore della Repubblica.
 
+3.
+                        
+                            
+                                Il ricorso contiene i motivi su cui si fonda ed e' corredato:
+ 
+                            
+                            
+                                a)
+                                
+                                    della indicazione degli estremi del provvedimento impugnato e, se il ricorso riguarda la materia elettorale, degli estremi della elezione cui si riferisce e, se del caso, della proclamazione del risultato elettorale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dei documenti eventualmente ritenuti necessari a comprovarne il fondamento.
+
 Quando non sia proposto dal procuratore della Repubblica, il ricorso e' accompagnato dalla ricevuta del versamento, eseguito presso un ufficio del registro, della tassa stabilita dall'articolo 1 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 261, e successive modificazioni, e contiene l'indicazione del recapito al quale l'interessato intende siano fatte le eventuali comunicazioni o notificazioni da parte del consiglio dell'Ordine nazionale. In mancanza di tale indicazione, le comunicazioni e le notificazioni sono inviate al recapito indicato ai sensi dell'articolo 21, comma 2, lettera i).
 
 Il ricorso e gli atti del procedimento rimangono depositati presso il consiglio dell'ordine per un periodo non inferiore a trenta giorni nel quale il procuratore della Repubblica e l'interessato possono prendere visione degli atti depositati, proporre deduzioni e produrre documenti. Nei dieci giorni successivi e' consentita la proposizione di motivi aggiunti.
@@ -266,6 +415,38 @@ Il consiglio dell'ordine, decorsi i termini di cui al comma 5, trasmette, nei qu
 Il presidente del consiglio dell'Ordine nazionale, entro trenta giorni dalla ricezione del ricorso, nomina il relatore e fissa la seduta di trattazione per una data compresa nei trenta giorni successivi.
 
 ## Art. 31. — Verbale delle sedute
+
+1.
+                        
+                            
+                                Il verbale delle sedute del consiglio dell'Ordine nazionale, redatto dal segretario e sottoscritto dal presidente e dal segretario stesso contiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    il giorno, il mese e l'anno in cui ha avuto luogo la seduta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il nome del presidente, dei membri e del segretario intervenuti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione dei ricorsi esaminati;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i provvedimenti presi in ordine a ciascun ricorso.
 
 ## Art. 32. — Integrazione dei collegi giudicanti i ricorsi
  contro le decisioni del consiglio dell'Ordine nazionale

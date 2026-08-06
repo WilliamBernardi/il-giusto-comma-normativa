@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2013-03-05;28
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli 
 ## Art. 1.
 
 Disposizioni per l'attuazione della delega in materia di cassa integrazione guadagni, disoccupazione e mobilita'
+
+1.
+                    
+                        
+                            Le province autonome esercitano la delega di cui all'articolo 2, comma 124, della legge 23 dicembre 2009, n. 191: 
+ 
+                        
+                        
+                            a)
+                            
+                                con riguardo agli istituti di cassa integrazione guadagni avendo a riferimento le unita' produttive ubicate nel territorio provinciale e i relativi dipendenti; nel caso di richiesta di ricorso alla cassa integrazione guadagni straordinaria riguardante contemporaneamente piu' unita' produttive della medesima impresa ubicate anche al di fuori del territorio provinciale, l'esercizio delle funzioni amministrative spetta al competente Ministero; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con riguardo agli istituti di disoccupazione e di mobilita' avendo a riferimento i beneficiari delle prestazioni che risiedono nel territorio provinciale.
 
 La delega di cui al comma 1 comprende tutte le prestazioni previste dalla legge dello Stato riconducibili, nei diversi settori merceologici, agli istituti della cassa integrazione, della disoccupazione e della mobilita' e agli istituti previsti in loro sostituzione dalla legge 28 giugno 2012, n. 92, recante disposizioni in materia di riforma del mercato del lavoro in una prospettiva di crescita, secondo le decorrenze ivi previste, comprese le forme di sostegno per i lavoratori disciplinate dall'articolo 3 della medesima legge.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-08-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,45 @@ Sulla proposta del Ministro per gli affari europei, il Sud, le politiche di coes
 Il presente decreto detta le disposizioni necessarie all'adeguamento del quadro normativo nazionale al regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937, e a garantire il coordinamento con le disposizioni settoriali vigenti.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Nel presente decreto si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «emittenti specializzati di token collegati ad attivita'»: gli emittenti di token collegati ad attivita' che esercitano solo le attivita' autorizzate ai sensi dell'articolo 16, paragrafo 1, lettera a), del regolamento (UE) 2023/1114, del Parlamento europeo e del Consiglio, del 31 maggio 2023, nonche' le attivita' connesse e strumentali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «prestatori specializzati di servizi per le cripto-attivita'»: i prestatori di servizi per le cripto-attivita' che esercitano solo le attivita' autorizzate ai sensi dell'articolo 59, paragrafo 1, lettera a), del regolamento (UE) 2023/1114, nonche' le attivita' connesse e strumentali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «TUB»: testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1° settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «TUF»: testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «ente»: uno dei soggetti indicati all'articolo 1 del decreto legislativo 8 giugno 2001, n. 231.
 
 Per quanto non diversamente previsto dal presente articolo, si applicano le definizioni del TUB e del TUF, nonche' del regolamento (UE) 2023/1114.
 
@@ -67,6 +106,24 @@ Nel caso di audizioni personali viene redatto processo verbale dei dati e delle 
 
 E' fatta salva l'applicazione delle disposizioni degli articoli 199, 200, 201, 202 e 203 del codice di procedura penale, in quanto compatibili.
 
+8.
+                        
+                            
+                                Ai fini dell'esercizio del potere di cui all'articolo 94, paragrafo 1, lettera s), del regolamento (UE) 2023/1114, la Consob e la Banca d'Italia secondo le rispettive competenze possono alternativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvedere a rendere pubbliche le informazioni direttamente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esigerne la comunicazione al pubblico, secondo le modalita' da esse stabilite.
+
 Nell'ipotesi di cui al comma 8, lettera b), qualora l'offerente, la persona che chiede l'ammissione a negoziazione di una cripto-attivita' o l'emittente di un token collegato ad attivita' o di un token di moneta elettronica oppongano, con reclamo motivato, che dalla comunicazione al pubblico delle informazioni possa derivare loro un grave danno, gli obblighi di comunicazione sono sospesi.
 L'Autorita' che ha imposto la comunicazione, entro sette giorni, puo' escludere anche parzialmente o temporaneamente la comunicazione delle informazioni, sempre che cio' non possa indurre in errore il pubblico su fatti e circostanze essenziali. Trascorso tale termine, il reclamo si intende accolto.
 
@@ -74,6 +131,38 @@ Ai fini dell'esercizio del potere di cui all'articolo 94, paragrafo 1, lettera x
 Per il conferimento dell'incarico l'Autorita' procedente tiene conto della professionalita', dell'esperienza e dell'indipendenza dei potenziali revisori o esperti, nonche' delle esigenze di contenimento dei costi per il soggetto destinatario della verifica. Il soggetto incaricato agisce in veste di pubblico ufficiale ed e' vincolato dal segreto d'ufficio.
 
 Ai fini dell'esercizio dei poteri di cui all'articolo 94, paragrafo 1, lettera aa), del regolamento (UE) 2023/1114, tra i soggetti terzi a cui richiedere l'attuazione delle misure ivi indicate sono ricompresi anche: i gestori di registri di dominio, i fornitori di connettivita' alla rete internet, i gestori di altre reti telematiche o di telecomunicazione, gli operatori che in relazione a esse forniscono servizi telematici o di telecomunicazione, compresi i fornitori di servizi di cloud computing, motori di ricerca, social network e interfacce on-line, i sistemi per la distribuzione di applicazioni informatiche per dispositivi fissi e mobili.
+
+12.
+                        
+                            
+                                Nell'esercizio dell'attivita' di vigilanza e di indagine, la Consob puo', altresi': 
+ 
+                            
+                            
+                                a)
+                                
+                                    avvalersi della collaborazione delle pubbliche amministrazioni, richiedendo la comunicazione di dati e accedere al sistema informativo dell'anagrafe tributaria secondo le modalita' previste dagli articoli 2 e 3, comma 1, del decreto legislativo 12 luglio 1991, n. 212; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    avvalersi, ove necessario, dei dati contenuti nell'anagrafe dei conti e dei depositi di cui all'articolo 20, comma 4, della legge 30 dicembre 1991, n. 413, nonche' acquisire, anche mediante accesso diretto, i dati contenuti nell'archivio indicato all'articolo 13 del decreto-legge 15 dicembre 1979, n. 625, convertito, con modificazioni, dalla legge 6 febbraio 1980, n. 15; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accedere direttamente, mediante apposita connessione telematica, ai dati contenuti nella Centrale dei rischi della Banca d'Italia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    avvalersi, ove necessario, anche mediante connessione telematica, e previa stipula di apposita convenzione con l'Agenzia delle entrate, sentito il Garante per la protezione dei dati personali, dei dati contenuti nell'apposita sezione dell'anagrafe tributaria di cui all'articolo 7, comma sesto, del decreto del Presidente della Repubblica 29 settembre 1973, n. 605.
 
 ## Art. 5. — Poteri regolamentari
 
@@ -125,6 +214,24 @@ La Banca d'Italia e' il punto di contatto per la cooperazione amministrativa tra
 
 La Banca d'Italia e' competente per la trasmissione delle informazioni richieste dal regolamento (UE) 2023/1114, alla Banca centrale europea (BCE) e alle banche centrali nazionali degli Stati membri la cui valuta ufficiale non e' l'euro.
 
+4.
+                        
+                            
+                                Ai fini della cooperazione, mediante scambio di informazioni, con le autorita' competenti di Stati membri dell'Unione europea, con l'AESFEM e l'ABE ai sensi dell'articolo 95, paragrafo 1, secondo comma, del regolamento (UE) 2023/1114, e degli obblighi di comunicazione ai sensi dell'articolo 115 del medesimo regolamento, la Consob e la Banca d'Italia stabiliscono con il Ministero della giustizia, anche sulla base di un protocollo d'intesa, le modalita' di acquisizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di dati in forma anonima e aggregata riguardanti le indagini penali intraprese per le violazioni delle disposizioni di cui all'articolo 111, paragrafo 1, secondo comma, del regolamento (UE) 2023/1114; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delle informazioni relative alle sanzioni penali applicate dall'Autorita' giudiziaria per le medesime violazioni e alle eventuali impugnazioni proposte avverso tali sanzioni.
+
 Per i medesimi fini di cui al comma 4 e fermo restando il divieto di cui all'articolo 329 del codice di procedura penale, la Consob e la Banca d'Italia possono richiedere informazioni all'autorita' giudiziaria procedente in ordine alle indagini e ai procedimenti penali per le violazioni previste dal comma 4.
 
 ## - Capo II Token collegati ad attività ed emittenti di token collegati ad attività
@@ -148,11 +255,121 @@ La Banca d'Italia, d'intesa con la Consob, autorizza gli istituti di moneta elet
 
 La Banca d'Italia, d'intesa con la Consob, autorizza gli istituti di pagamento all'emissione, all'offerta al pubblico e alla richiesta di ammissione alla negoziazione di token collegati ad attivita' ai sensi dell'articolo 21 del regolamento (UE) 2023/1114, quando per la prestazione di servizi di pagamento e le relative attivita' accessorie e strumentali sia costituito un patrimonio destinato ai sensi dell'articolo 114-novies, comma 4, del TUB, con le modalita' e agli effetti stabiliti dall'articolo 114-terdecies del medesimo testo unico. La Banca d'Italia, d'intesa con la Consob, revoca l'autorizzazione quando ricorrono le condizioni di cui all'articolo 24 del regolamento (UE) 2023/1114. Resta fermo l'articolo 114-novies, comma 5, del TUB.
 
+8.
+                        
+                            
+                                I soggetti di cui all'articolo 16, paragrafo 1, lettera a), del regolamento (UE) 2023/1114, diversi dagli istituti di moneta elettronica, dagli istituti di pagamento e dalle SIM diverse da quelle di classe 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adottano la forma di societa' per azioni, di societa' in accomandita per azioni, di societa' a responsabilita' limitata o di societa' cooperativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oltre alle attivita' di emissione, offerta al pubblico e richiesta di ammissione alla negoziazione di token collegati ad attivita', possono prestare servizi per le cripto-attivita', a condizione che siano a cio' autorizzati ai sensi dell'articolo 63 del regolamento (UE) 2023/1114, nonche' le attivita' connesse e strumentali.
+
 ## Art. 12.
 
 Vigilanza sugli emittenti di token collegati ad attivita' e compiti relativi ai token collegati ad attivita' significativi
 
 La vigilanza sul rispetto delle disposizioni del titolo III del regolamento (UE) 2023/1114 e' esercitata dalla Banca d'Italia, avendo riguardo al contenimento del rischio, alla stabilita' patrimoniale e alla sana e prudente gestione, e dalla Consob, avendo riguardo alla trasparenza, alla correttezza dei comportamenti, all'ordinato svolgimento delle negoziazioni e alla tutela dei possessori di token collegati ad attivita'.
+
+2.
+                        
+                            
+                                Per le finalita' indicate al comma 1, e fatte salve le competenze della Consob in relazione alle materie indicate alle seguenti lettere b), d) e f) del presente comma, negli aspetti rilevanti per le finalita' di competenza indicate al comma 1, la Banca d'Italia e' l'autorita' competente a vigilare sull'osservanza delle disposizioni del regolamento (UE) 2023/1114 in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilanza informativa sui token collegati ad attivita' e restrizioni all'emissione di token collegati ad attivita' ampiamente utilizzati come mezzo di scambio di cui agli articoli 22 e 23 del regolamento (UE) 2023/1114; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    governo societario e requisiti generali di organizzazione, organizzazione amministrativa e contabile, controlli interni, esternalizzazione di funzioni operative e accordi con soggetti terzi per la gestione, l'investimento, la custodia della riserva di attivita', continuita' dell'attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adeguatezza patrimoniale e contenimento del rischio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    detenzione, composizione, gestione, custodia e investimento della riserva di attivita', politiche e procedure di rimborso, divieto di concedere interessi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esponenti aziendali e partecipanti al capitale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    piano di risanamento e piano di rimborso.
+
+3.
+                        
+                            
+                                Per le finalita' indicate al comma 1, e fatte salve le competenze della Banca d'Italia in relazione alle materie indicate alle seguenti lettere a) e f) del presente comma, negli aspetti rilevanti per le finalita' di competenza indicate al comma 1, la Consob e' l'autorita' competente a vigilare sull'osservanza delle disposizioni del regolamento (UE) 2023/1114, in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contenuto e pubblicazione del white paper; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    obbligo di agire in modo corretto, onesto e professionale, nel miglior interesse dei possessori di token collegati ad attivita', compresi i connessi presidi organizzativi e di controllo interno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comunicazioni di marketing; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    informazione continua dei possessori di token collegati ad attivita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    procedure di trattamento dei reclami; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    individuazione, prevenzione, gestione e comunicazione dei conflitti di interesse.
 
 Fermo restando quanto previsto dall'articolo 4 del presente decreto, con riferimento ai token collegati ad attivita' e agli emittenti di token collegati ad attivita' la Banca d'Italia e la Consob dispongono altresi', secondo le rispettive competenze, degli ulteriori poteri previsti dalla parte II del TUF.
 
@@ -193,6 +410,25 @@ In caso di fondato sospetto che un soggetto diverso da una banca e da un istitut
 
 ## Art. 15. — Poteri
 
+1.
+                        
+                            
+                                La Consob, quale autorita' competente ai sensi del titolo II del regolamento (UE) 2023/1114, oltre a esercitare i poteri di cui all'articolo 4 del presente decreto, puo', previa autorizzazione del procuratore della Repubblica, procedere nei confronti degli offerenti e delle persone che chiedono l'ammissione alla negoziazione di cripto-attivita' diverse dai token collegati ad attivita' o dai token di moneta elettronica a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    perquisizioni nei modi previsti dall'articolo 33 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e dall'articolo 52 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sequestro del profitto dell'illecito, anche per equivalente.
+Si applicano i commi 9, 10 e 11 dell'articolo 187-octies del TUF.
+
 Nei casi di cui al comma 1, viene redatto processo verbale dei dati e delle informazioni acquisite o dei fatti accertati, dei sequestri eseguiti e delle dichiarazioni rese dagli interessati, i quali sono invitati a firmare il processo verbale e hanno diritto di averne copia.
 
 E' fatta salva l'applicazione delle disposizioni degli articoli 199, 200, 201, 202 e 203 del codice di procedura penale, in quanto compatibili.
@@ -219,11 +455,100 @@ La Banca d'Italia, sentita la Consob, autorizza ai sensi dell'articolo 63 del re
 
 La Banca d'Italia, sentita la Consob, autorizza gli istituti di pagamento alla prestazione di servizi per le cripto-attivita' ai sensi dell'articolo 63 del regolamento (UE) 2023/1114, quando per la prestazione di servizi di pagamento e le relative attivita' accessorie e strumentali si sia costituito un patrimonio destinato ai sensi dell'articolo 114-novies, comma 4, del TUB, con le modalita' e agli effetti stabiliti dall'articolo 114-terdecies del medesimo decreto. La Banca d'Italia, sentita la Consob, revoca l'autorizzazione quando ricorrono le condizioni dell'articolo 64 del regolamento (UE) 2023/1114. Resta fermo l'articolo 114-novies, comma 5, del TUB.
 
+7.
+                        
+                            
+                                I soggetti di cui all'articolo 59, paragrafo 1, lettera a), del regolamento (UE) 2023/1114, diversi dagli istituti di moneta elettronica, dagli istituti di pagamento, dalle SIM diverse da quelle di classe 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adottano la forma di societa' per azioni, di societa' in accomandita per azioni, di societa' a responsabilita' limitata o di societa' cooperativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oltre ai servizi per le cripto-attivita', possono svolgere l'attivita' di emissione, offerta al pubblico e richiesta di ammissione alla negoziazione di token collegati ad attivita', a condizione che siano a cio' autorizzati ai sensi dell'articolo 21 del regolamento (UE) 2023/1114, nonche' le attivita' connesse e strumentali.
+
 ## Art. 17.
 
 Vigilanza sui servizi per le cripto-attivita' e relativi prestatori
 
 La vigilanza sul rispetto delle disposizioni del titolo V del regolamento (UE) 2023/1114 e' esercitata dalla Consob, avendo riguardo alla trasparenza, alla correttezza dei comportamenti, all'ordinato svolgimento delle negoziazioni e alla tutela dei clienti, e dalla Banca d'Italia, avendo riguardo al contenimento del rischio, alla stabilita' patrimoniale e alla sana e prudente gestione.
+
+2.
+                        
+                            
+                                Per le finalita' indicate al comma 1, e fatte salve le competenze della Banca d'Italia in relazione alle materie indicate alla lettera c) del presente comma, negli aspetti rilevanti per le finalita' di competenza indicate al comma 1, la Consob e' l'autorita' competente a vigilare sull'osservanza delle disposizioni del regolamento (UE) 2023/1114, in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    obblighi di agire in modo onesto, corretto e professionale nel miglior interesse del cliente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedure, anche di controllo interno, per la corretta e trasparente prestazione dei servizi per le cripto-attivita', requisiti di conoscenza, competenza ed esperienza del personale, tenuta e conservazione delle registrazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuazione, prevenzione, gestione e comunicazione dei conflitti di interesse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    procedure di trattamento dei reclami; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    obblighi di trasparenza e condotta relativi a servizi specifici di cui al titolo V, capo 3, del regolamento (UE) 2023/1114.
+
+3.
+                        
+                            
+                                Per le finalita' indicate al comma 1, e fatte salve le competenze della Consob in relazione alle materie indicate alla lettera d) del presente comma, negli aspetti rilevanti per le finalita' di competenza indicate al comma 1, la Banca d'Italia e' l'autorita' competente a vigilare sull'osservanza delle disposizioni del regolamento (UE) 2023/1114, in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguatezza patrimoniale e contenimento del rischio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esponenti aziendali e partecipanti al capitale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    piano di liquidazione ordinata; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    governo societario e requisiti generali di organizzazione, organizzazione amministrativa e contabile, controlli interni, esternalizzazione di funzioni operative, continuita' dell'attivita', nonche' misure per la detenzione e segregazione delle cripto-attivita' e dei fondi dei clienti.
 
 La vigilanza sui depositari centrali di titoli e sui gestori di mercati regolamentati per l'esercizio dei servizi in cripto-attivita' e' esercitata dalla Consob e dalla Banca d'Italia secondo le finalita' e le attribuzioni della parte III del TUF.
 
@@ -301,9 +626,66 @@ Resta salva la possibilita' di disporre in ogni momento l'amministrazione straor
 
 ## Art. 24. — Amministrazione straordinaria
 
+1.
+                        
+                            
+                                Fermo restando quanto previsto dagli articoli 94, paragrafo 1, lettera y), e 130, paragrafo 1, lettera m), del regolamento (UE) 2023/1114, la Banca d'Italia, di propria iniziativa o su proposta formulata dalla Consob nell'ambito delle sue competenze, sentita, se del caso, l'ABE, puo' disporre lo scioglimento degli organi con funzione di amministrazione e di controllo degli emittenti specializzati di token collegati ad attivita' quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultino gravi irregolarita' nell'amministrazione ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie che ne regolano l'attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano previste gravi perdite del patrimonio della societa'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo scioglimento sia richiesto con istanza motivata dagli organi amministrativi o dall'assemblea straordinaria.
+
 La direzione della procedura e tutti gli adempimenti a essa connessi spettano alla Banca d'Italia. Si applicano, in quanto compatibili, gli articoli 70, commi 2, 3, 4 e 5, 71, 72, 73, 74, 75, 75-bis e 77-bis del TUB, intendendosi le suddette disposizioni riferite ai possessori di cripto-attivita' in luogo dei depositanti, emittenti specializzati di token collegati ad attivita' in luogo delle banche, e l'espressione «strumenti finanziari» riferita alle cripto-attivita', agli strumenti finanziari e al denaro. In deroga all'articolo 71, comma 5, del TUB, possono essere nominati commissari straordinari anche funzionari della Banca d'Italia.
 
 ## Art. 25. — Liquidazione coatta amministrativa
+
+1.
+                        
+                            
+                                Il Ministero dell'economia e delle finanze, su proposta della Banca d'Italia o della Consob, nell'ambito delle rispettive competenze, sentita, se del caso, l'ABE dall'autorita' proponente, puo' disporre la liquidazione coatta amministrativa ai sensi del titolo IV, capo I, sezione III, del TUB degli emittenti specializzati di token collegati ad attivita', anche quando ne sia in corso l'amministrazione straordinaria ai sensi dell'articolo 24 del presente decreto o ne sia in corso la liquidazione, quando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risultino irregolarita' eccezionalmente gravi nell'amministrazione, ovvero violazioni eccezionalmente gravi delle disposizioni legislative, amministrative o statutarie che ne regolano l'attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    siano previste perdite del patrimonio di eccezionale gravita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia stato accertato lo stato di insolvenza ai sensi dell'articolo 82, comma 1, del TUB; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la liquidazione sia richiesta su istanza motivata degli organi amministrativi o dei commissari di cui all'articolo 24 del presente decreto.
 
 ## - Capo II Disposizioni speciali applicabili ai prestatori di servizi per le cripto-attività   Sezione I Disposizioni applicabili a tutti i prestatori di servizi per le cripto-attività
 
@@ -341,15 +723,101 @@ Ai soggetti che esercitano congiuntamente le sole attivita' autorizzate ai sensi
 
 ## Art. 30. — Abusivismo
 
+1.
+                        
+                            
+                                E' punito con la reclusione da sei mesi a quattro anni e con la multa da euro 2.066 a euro 10.329 chiunque: 
+ 
+                            
+                            
+                                a)
+                                
+                                    offre al pubblico token collegati ad attivita' ovvero ne chiede e ottiene l'ammissione alla negoziazione, in violazione dell'articolo 16, paragrafo 1, lettera a), del regolamento (UE) 2023/1114; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presta servizi per le cripto-attivita' disciplinate dal regolamento (UE) 2023/1114, in violazione dell'articolo 59, paragrafo 1, lettera a), del medesimo regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    emette token di moneta elettronica in violazione della riserva di cui all'articolo 48, paragrafo 1, primo comma, lettera a), del regolamento (UE) 2023/1114; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    offre al pubblico token di moneta elettronica ovvero ne chiede e ottiene l'ammissione alla negoziazione in assenza del previo consenso scritto dell'emittente di cui all'articolo 48, paragrafo 1, secondo comma, del regolamento (UE) 2023/1114.
+
 ## - Capo II Sanzioni amministrative
 
 ## Art. 31. — Sanzioni amministrative relative alle violazioni delle disposizioni richiamate dall'articolo 111, paragrafo 1, primo comma, lettere a), b), c) e d), del regolamento (UE) 2023/1114
+
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato, in caso di inosservanza delle disposizioni richiamate dall'articolo 111, paragrafo 1, primo comma, lettere a), b), c) e d), del regolamento (UE) 2023/1114 o dei relativi atti delegati e norme tecniche di regolamentazione e attuazione o in caso di inosservanza delle disposizioni attuative adottate dalla Banca d'Italia e dalla Consob ai sensi dell'articolo 5 del presente decreto, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni, ovvero, se superiore, fino al 3 per cento del fatturato totale annuo per le violazioni di cui all'articolo 111, paragrafo 1, primo comma, lettera a), del regolamento (UE) 2023/1114, fino al 12,5 per cento del fatturato totale annuo per le violazioni di cui al medesimo comma, lettere b) e c), e fino al 5 per cento del fatturato totale annuo per le violazioni di cui al medesimo comma, lettera d); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti delle persone fisiche, inclusi gli esponenti aziendali e il personale di cui all'articolo 36 del presente decreto e al ricorrere delle condizioni ivi stabilite, la sanzione amministrativa pecuniaria da euro 5.000 fino a euro 700.000.
 
 Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
 
 Fermo restando quanto previsto al comma 1, in caso di inosservanza delle disposizioni richiamate dall'articolo 111, paragrafo 1, primo comma, lettere a), b), c) e d), del regolamento (UE) 2023/1114, dei relativi atti delegati e norme tecniche di regolamentazione e attuazione o delle disposizioni attuative adottate dalla Banca d'Italia e dalla Consob ai sensi dell'articolo 5 del presente decreto, la Banca d'Italia e la Consob, secondo le rispettive competenze, possono disporre l'applicazione delle misure di cui all'articolo 111, paragrafo 2, lettere a) e b), del regolamento (UE) 2023/1114.
 
 ## Art. 32. — Sanzioni amministrative relative a talune violazioni delle disposizioni richiamate dall'articolo 111, paragrafo 1, primo comma, lettera e), del regolamento (UE) 2023/1114
+
+1.
+                        
+                            
+                                In caso di violazioni delle disposizioni di cui all'articolo 88 del regolamento (UE) 2023/1114, o dei relativi atti delegati e norme tecniche di regolamentazione e attuazione, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 2,5 milioni ovvero, se superiore, fino al 2 per cento del fatturato totale annuo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti delle persone fisiche di cui all'articolo 36 del presente decreto e al ricorrere delle condizioni ivi stabilite, la sanzione amministrativa pecuniaria da euro 5.000 fino a euro 1 milione.
+
+2.
+                        
+                            
+                                In caso di violazioni delle disposizioni di cui all'articolo 92 del regolamento (UE) 2023/1114, o dei relativi atti delegati e norme tecniche di regolamentazione e attuazione, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 15 milioni ovvero, se superiore, fino al 15 per cento del fatturato totale annuo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti delle persone fisiche di cui all'articolo 36 del presente decreto e al ricorrere delle condizioni ivi stabilite, la sanzione amministrativa pecuniaria da euro 5.000 fino a euro 5 milioni.
 
 Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al triplo dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
 
@@ -367,6 +835,24 @@ Si applicano i commi 3 e 4 dell'articolo 32.
 
 Responsabilita' dell'ente
 
+1.
+                        
+                            
+                                L'ente e' punito con la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 15 milioni ovvero, se superiore, fino al 15 per cento del fatturato totale annuo, nel caso in cui sia commessa nel suo interesse o a suo vantaggio una violazione del divieto di cui agli articoli 89, 90 e 91 del regolamento (UE) 2023/1114: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da persone che rivestono funzioni di rappresentanza, di amministrazione o di direzione dell'ente o di una sua unita' organizzativa dotata di autonomia finanziaria o funzionale nonche' da persone che esercitano, anche di fatto, la gestione e il controllo dello stesso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da persone sottoposte alla direzione o alla vigilanza di uno dei soggetti di cui alla lettera a).
+
 Si applicano i commi 3 e 4 dell'articolo 32.
 
 L'ente non e' responsabile se dimostra che le persone indicate al comma 1 hanno agito esclusivamente nell'interesse proprio o di terzi.
@@ -374,6 +860,24 @@ L'ente non e' responsabile se dimostra che le persone indicate al comma 1 hanno 
 In relazione agli illeciti di cui al comma 1 si applicano, in quanto compatibili, gli articoli 6, 7, 8 e 12 del decreto legislativo 8 giugno 2001, n. 231. Il Ministero della giustizia formula le osservazioni di cui all'articolo 6 del decreto legislativo 8 giugno 2001, n. 231, sentita la Consob, con riguardo agli illeciti previsti dal presente titolo.
 
 ## Art. 35. — Sanzioni amministrative per omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta
+
+1.
+                        
+                            
+                                In caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta, incluse quelle di cui all'articolo 94, paragrafo 3, del regolamento (UE) 2023/1114, si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nei confronti delle persone giuridiche, la sanzione amministrativa pecuniaria da euro 30.000 fino a euro 5 milioni, ovvero, se superiore, fino al 10 per cento del fatturato totale annuo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei confronti delle persone fisiche, inclusi gli esponenti aziendali e il personale di cui all'articolo 36 del presente decreto e al ricorrere delle condizioni ivi stabilite, la sanzione amministrativa pecuniaria da euro 5.000 fino a euro 5 milioni.
 
 ## Art. 36.
 
@@ -421,6 +925,45 @@ b) da euro 5.000 fino a euro 500.000, nei casi di cui al comma 2.))
 
 ## Art. 38. — Modifiche al testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385
 
+1.
+                        
+                            
+                                Al decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        all'articolo 114-quater, comma 3, dopo la lettera b), e' aggiunta, in fine, la seguente: 
+ «b-bis) emettere token collegati ad attivita' ai sensi dell'articolo 21 del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, e prestare servizi per le cripto-attivita' diversi da quelli di cui all'articolo 60, paragrafo 4, del medesimo regolamento, nonche' le attivita' connesse e strumentali, secondo quanto previsto dal decreto legislativo di attuazione del regolamento (UE) 2023/1114, salvo che svolgano altre attivita' imprenditoriali ai sensi dell'articolo 114-quinquies, comma 4.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        all'articolo 114-quinquies, comma 4, alla lettera b), dopo le parole: «e per le relative attivita' accessorie e strumentali», sono inserite le seguenti: «, nonche' per l'attivita' di emissione di token di moneta elettronica e per la prestazione di servizi per le cripto-attivita' di cui all'articolo 60, paragrafo 4, del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023,»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        all'articolo 114-quinquies.1, comma 5, dopo le parole: «e per le relative attivita' accessorie e strumentali», sono inserite le seguenti: «, nonche' per l'attivita' di emissione di token di moneta elettronica e per la prestazione di servizi per le cripto-attivita' di cui all'articolo 60, paragrafo 4, del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023»;
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 114-octies: 
+ 1) la rubrica e' sostituita dalla seguente: «Attivita' esercitabili»; 
+ 2) dopo il comma 2, e' aggiunto, in fine, il seguente: 
+ «2-bis. Gli istituti di pagamento possono emettere token collegati ad attivita' ai sensi dell'articolo 21 del regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, e prestare servizi per le cripto-attivita' ai sensi dell'articolo 63 del medesimo regolamento, nonche' le attivita' connesse e strumentali, secondo quanto previsto dal decreto legislativo di attuazione del regolamento (UE) 2023/1114, salvo che svolgano altre attivita' imprenditoriali ai sensi dell'articolo 114-novies, comma 4.».
+
 ## Art. 39. — Disposizioni di coordinamento con il decreto legislativo 24 febbraio 1998, n. 58
 
 La disciplina del TUF avente a oggetto i prodotti finanziari non si applica alle cripto-attivita' che rientrano nell'ambito di applicazione del regolamento (UE) 2023/1114.
@@ -432,6 +975,31 @@ La disciplina del TUF avente a oggetto i prodotti finanziari non si applica alle
 Fatto salvo quanto previsto dall'articolo 45, a decorrere dal 30 dicembre 2025, all'articolo 17-bis del decreto legislativo 13 agosto 2010, n. 141, i commi 8-bis e 8-ter sono abrogati. A decorrere dal medesimo termine sono abrogate le relative disposizioni di attuazione. L'Organismo previsto dall'articolo 128-undecies del TUB continua a conservare i dati ricevuti ai sensi delle medesime disposizioni secondo quanto disposto dall'articolo 17-bis, comma 3, del decreto legislativo 13 agosto 2010, n. 141, e relative disposizioni di attuazione fino al termine ivi indicato.
 
 ## Art. 41. — Modifiche al decreto legislativo 10 marzo 2023, n. 24
+
+1.
+                        
+                            
+                                All'allegato al decreto legislativo 10 marzo 2023, n. 24, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla parte I, lettera B 
+ 1) al punto xxi), il segno di interpunzione: «.» e' sostituito dal seguente: «;»; 
+ 2) dopo il punto xxi), e' aggiunto, in fine, il seguente: 
+ «xxi-bis) regolamento (UE) 2023/1114 del Parlamento europeo e del Consiglio, del 31 maggio 2023, relativo ai mercati delle cripto-attivita' e che modifica i regolamenti (UE) n. 1093/2010 e (UE) n. 1095/2010 e le direttive 2013/36/UE e (UE) 2019/1937.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla parte II, lettera A, numero 2: 
+ 1) il punto i) e' sostituito dal seguente: 
+ «i) decreto legislativo 21 novembre 2007, n. 231, recante attuazione della direttiva 2005/60/CE concernente la prevenzione dell'utilizzo del sistema finanziario a scopo di riciclaggio dei proventi di attivita' criminose e di finanziamento del terrorismo nonche' della direttiva 2006/70/CE che ne reca misure di esecuzione;»; 
+ 2) il punto ii) e' sostituito dal seguente: 
+ «ii) regolamento (UE) 2023/1113 del Parlamento europeo e del Consiglio, del 31 maggio 2023, riguardante i dati informativi che accompagnano i trasferimenti di fondi e determinate cripto-attivita' e che modifiche la direttiva (UE) 2015/849;».
 
 Le modifiche di cui al comma 1, lettera b), si applicano a decorrere dal 30 dicembre 2024.
 
@@ -447,6 +1015,43 @@ All'articolo 2, comma 1, del decreto legislativo 28 febbraio 2005, n. 38, alla l
                                     ».
 
 ## Art. 44. — Modifiche al decreto-legge 17 marzo 2023, n. 25, convertito, con modificazioni, dalla legge 10 maggio 2023, n. 52
+
+1.
+                        
+                            
+                                Al decreto-legge 17 marzo 2023, n. 25, convertito, con modificazioni, dalla legge 10 maggio 2023, n. 52, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, comma 1: 
+ 1) alla lettera q), le parole: «o giudiziale» sono sostituite dalle seguenti: «, giudiziale o controllata»; 
+ 2) dopo la lettera q), e' inserita la seguente: 
+ «q-bis) «procedura di liquidazione»: la procedura di liquidazione coatta amministrativa, giudiziale, controllata o volontaria;»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 14: 
+ 1) al comma 1, il primo periodo e' sostituito dal seguente: «A ciascuna emissione di strumenti finanziari digitali non scritturati presso un SS DLT o un TSS DLT e' associata una strategia chiara, dettagliata e pubblicamente disponibile per il trasferimento delle scritturazioni da un registro a un altro o per il mutamento del regime di forma e circolazione degli strumenti finanziari digitali per il caso in cui un altro registro non sia disponibile, idonea a essere attuata nel caso di cessazione del registro, di avvio di una procedura di liquidazione del responsabile del registro, oppure di cancellazione dall'elenco ai sensi dell'articolo 21, comma 1, lettere a), b), d), e), f) e g).»; 
+ 2) dopo il comma 2, sono inseriti i seguenti: 
+ «2-bis. Nel caso di cessazione del registro, di avvio di una procedura di liquidazione del responsabile del registro, oppure di cancellazione dall'elenco ai sensi dell'articolo 21, comma 1, lettere a), b), d), e), f) e g), la Consob puo' promuovere gli accordi necessari ad assicurare l'attuazione della strategia di transizione e puo' disporre il trasferimento delle scritturazioni medesime ad un registro diverso da quello individuato nella strategia di transizione, previo consenso del relativo responsabile. Ove non sia possibile attuare il trasferimento delle scritturazioni, la Consob vigila sull'attivita' dell'emittente di cui al comma 2. 
+ 2-ter. Nei casi di avvio di una procedura di gestione della crisi, l'attuazione della strategia di transizione di cui al comma 1 o, quando necessario, il trasferimento a un registro diverso da quello individuato nella strategia di transizione ai sensi del comma 2-bis, possono essere eseguiti anche in deroga alla disciplina ordinaria della procedura.»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 21: 
+ 1) al comma 1, la lettera c) e' sostituita dalla seguente: 
+ «c) e' avviata una procedura di liquidazione;»; 
+ 2) dopo il comma 1, e' inserito il seguente: 
+ «1-bis. Il responsabile del registro informa senza ritardo la Consob di ogni circostanza suscettibile di integrare una delle condizioni di cui al comma 1.»; 
+ 3) i commi 4 e 5 sono abrogati.
 
 ## - Titolo VI Disposizioni transitorie e finali   Capo I Disposizioni transitorie
 

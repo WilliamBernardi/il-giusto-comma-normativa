@@ -8,8 +8,8 @@ codice_redazionale: 096G0297
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,6 +46,24 @@ La contribuzione volontaria di cui al comma 1 e' effettuata, nei termini e secon
 Gli iscritti alla gestione separata che possono far valere periodi contributivi presso l'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti, le forme esclusive e sostitutive della medesima, le gestioni pensionistiche dei lavoratori autonomi di cui alla legge n. 233 del 1990 hanno facolta' di chiedere nell'ambito della gestione separata il computo dei predetti contributi, ai fini del diritto e della misura della pensione a carico della gestione stessa, alle condizioni previste per la facolta' di opzione di cui all'art. 1, comma 23, della legge n. 335 del 1995.
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            Per la durata di un quinquennio a decorrere, rispettivamente, dal 30 giugno 1996 per coloro che risultano gia' pensionati o iscritti a forme pensionistiche obbligatorie e dal 1 aprile 1996 per coloro che non risultano iscritti alle predette forme, i soggetti che svolgono le attivita' lavorative di cui all'art. 2, comma 26, della legge n. 335 del 1995:
+ 
+                        
+                        
+                            a)
+                            
+                                in possesso alla medesima data del requisito del sessantacinquesimo anno di eta', hanno facolta' di iscriversi alla gestione di cui al presente decreto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al conseguimento, nel corso del predetto quinquennio, del sessantacinquesimo anno di eta', possono richiedere la cancellazione dalla gestione.
 
 Per il medesimo periodo di cui al comma 1, i soggetti in possesso del requisito di sessanta anni di eta' alla medesima data di cui al comma 1 e che alla cessazione dell'attivita' lavorativa non conseguono il diritto alla pensione autonoma o ai trattamenti di cui all'art. 3, possono richiedere la restituzione dei contributi versati alla gestione, maggiorati dell'interesse di cui all'art. 2, comma 1, della legge 5 marzo 1990, n. 45.
 

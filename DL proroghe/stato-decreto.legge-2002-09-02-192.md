@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2002-10-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -25,6 +25,31 @@ Ritenuta la straordinaria necessita' ed urgenza di prorogare il periodo di speri
 Sulla proposta del Presidente del Consiglio dei Ministri;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al decreto-legge 5 aprile 2001, n. 99, convertito dalla legge 9 maggio 2001, n. 198, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dell'articolo 1 le parole: "per un periodo di un anno" sono sostituite dalle seguenti: "fino al 31 dicembre 2002";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 dell'articolo 1 e' abrogato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 dell'articolo 1 la parola: "Al" e' sostituita dalle seguenti: "Trenta giorni prima della scadenza del".
 
 ## Art. 2.
 

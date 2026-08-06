@@ -8,8 +8,8 @@ codice_redazionale: 002G0157
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -20,6 +20,32 @@ DECRETO
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 25 marzo 2002;
 
 ## Art. 1. — Modifiche alla tariffa dell'imposta di bollo
+
+1.
+                    
+                        
+                            Nell'articolo 1 della tariffa dell'imposta di bollo, parte prima, annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, come sostituita dal decreto del Ministro delle finanze 20 agosto 1992, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 196 del 21 agosto 1992, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1-bis e' aggiunto il seguente: "1-ter. Domande, denunce ed atti che le accompagnano, presentate all'ufficio del registro delle imprese ed inviate per via telematica ovvero presentate su supporto informatico ai sensi dell'articolo 15, comma 2, della legge 15 marzo 1997, n. 59: per ciascuna domanda, denuncia od atto ........ euro ..... 41,32";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nelle modalita' di pagamento, in corrispondenza del comma 1-ter e' aggiunto il seguente punto: "2. L'imposta e' corrisposta in modo virtuale secondo le modalita' previste dal decreto del Ministro dell'economia e delle finanze emanato ai sensi dell'articolo 3, comma 13 della legge 28 dicembre 2001, n. 448";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nelle note e' aggiunta, in fine, la seguente: "1-ter.
+L'imposta e' dovuta, anche in misura cumulativa, all'atto della trasmissione per via telematica o della consegna del supporto informatico".
 
 ## Art. 2. — Modalita' di pagamento dell'imposta di bollo dovuta sugli atti trasmessi all'ufficio del registro delle imprese in via telematica o su supporto informatico
 

@@ -8,8 +8,8 @@ codice_redazionale: 011G0200
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,4 +26,31 @@ Udito il parere del Consiglio di Stato espresso nella sezione consultiva per gli
 L'allegato I del decreto legislativo 4 febbraio 1993, n. 64, e successive modificazioni, e' sostituito dall'allegato I al presente decreto, che ne forma parte integrante.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Sono abrogati i seguenti provvedimenti citati in premessa: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    decreto ministeriale 8 luglio 1994, n. 557; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    decreto ministeriale 14 marzo 1996, n. 243; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                decreto ministeriale 15 ottobre 1998.
 

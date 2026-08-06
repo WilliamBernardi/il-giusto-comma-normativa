@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-12-30;216
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,57 @@ Sulla proposta del Ministro per gli affari europei, il PNRR e le politiche di co
 Il presente decreto attua la direttiva (UE) 2023/1544 del Parlamento europeo e del Consiglio, del 12 luglio 2023, recante norme armonizzate sulla designazione di stabilimenti designati e sulla nomina di rappresentanti legali ai fini dell'acquisizione di prove elettroniche nei procedimenti penali, di seguito denominata «direttiva».
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «prestatore di servizi» si intende: la persona fisica o giuridica che fornisce una o piu' delle seguenti categorie di servizi, ad eccezione dei servizi finanziari di cui all'articolo 2, paragrafo 2, lettera b), della direttiva 2006/123/CE del Parlamento europeo e del Consiglio: 
+ 1) servizi di comunicazione elettronica quali definiti all'articolo 2, punto 4), della direttiva (UE) 2018/1972; 
+ 2) servizi di nomi di dominio internet e di numerazione IP, quali l'assegnazione di indirizzi IP, i servizi di registri di nomi di dominio, di registrar di nomi di dominio e i servizi per la privacy o proxy connessi ai nomi di dominio; 
+ 3) altri servizi della societa' dell'informazione di cui all'articolo 1, paragrafo 1, lettera b), della direttiva (UE) 2015/1535, che: 
+ i. consentono ai loro utenti di comunicare fra di loro; o 
+ ii. rendono possibile la conservazione o il trattamento di dati per conto degli utenti ai quali e' fornito il servizio, quando la conservazione dei dati e' una componente propria del servizio fornito all'utente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per prestatore di servizi «che offre servizi nel territorio di uno Stato membro» si intende: il prestatore di servizi che consente alle persone fisiche o giuridiche in uno Stato membro di usufruire dei servizi elencati alla lettera a), e che ha un collegamento sostanziale, basato su specifici criteri di fatto, con il medesimo Stato membro; tale collegamento sostanziale si considera presente quando il prestatore di servizi e' stabilito in tale Stato membro o, in mancanza di un tale stabilimento, qualora vi sia un numero considerevole di utenti in tale Stato membro o qualora le sue attivita' siano orientate verso tale Stato membro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per prestatore di servizi «che offre servizi nell'Unione» si intende: il prestatore di servizi che consente alle persone fisiche o giuridiche in uno Stato membro di usufruire dei servizi elencati alla lettera a), e che ha un collegamento sostanziale, basato su specifici criteri di fatto, con il medesimo Stato membro; tale collegamento si considera presente quando il prestatore di servizi e' stabilito in uno Stato membro o, in mancanza di un tale stabilimento, qualora vi sia un numero considerevole di utenti in uno o piu' Stati membri o qualora le sue attivita' siano orientate verso uno o piu' Stati membri; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per «stabilimento» si intende: un'entita' che esercita effettivamente un'attivita' economica a tempo indeterminato con un'infrastruttura stabile a partire dalla quale e' svolta l'attivita' di prestazione di servizi o e' gestita l'attivita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per «stabilimento designato» si intende: uno stabilimento dotato di personalita' giuridica designato per iscritto da un prestatore di servizi stabilito in uno Stato membro che partecipa a uno strumento giuridico di cui all'articolo 3, comma 1, ai fini della ricezione, dell'ottemperanza e dell'esecuzione di decisioni e ordini emessi dalle autorita' competenti degli Stati membri per acquisire prove nei procedimenti penali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per «rappresentante legale» si intende: una persona fisica o giuridica nominata per iscritto da un prestatore di servizi non stabilito in uno Stato membro che partecipa a uno strumento giuridico di cui all'articolo 3, comma 1, ai fini della ricezione, dell'ottemperanza e dell'esecuzione di decisioni e ordini emessi dalle autorita' competenti degli Stati membri per acquisire prove nei procedimenti penali.
 
 ## Art. 3. — Ambito di applicazione
 
@@ -52,6 +103,24 @@ I prestatori di servizi che sono stabiliti o che offrono servizi in Italia hanno
 
 Gli stabilimenti designati e i rappresentanti legali nominati ai sensi dei commi 1, 2 e 3 devono rispettivamente essere stabiliti o risiedere in uno Stato membro in cui i prestatori di servizi offrono i loro servizi nonche' cooperare con le autorita' competenti per l'esecuzione delle decisioni e degli ordini di cui all'articolo 3, comma 1, in conformita' del quadro giuridico applicabile.
 
+6.
+                    
+                        
+                            I prestatori di servizi adempiono agli obblighi di cui ai commi 1, 2 e 3: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro il 18 agosto 2026, se alla data del 18 febbraio 2026 offrono servizi dell'Unione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro sei mesi dalla data in cui iniziano ad offrire servizi nell'Unione, se tale data e' successiva al 18 febbraio 2026.
+
 ## Art. 5.
 
 Responsabilita' solidale
@@ -72,7 +141,113 @@ Le informazioni oggetto di notifica sono trasmesse dall'autorita' centrale di cu
 
 ## Art. 7. — Sanzioni amministrative
 
+1.
+                    
+                        
+                            Salvo che il fatto costituisca reato, in caso di violazione delle disposizioni del presente decreto si applicano le seguenti sanzioni amministrative pecuniarie: 
+ 
+                        
+                        
+                            a)
+                            
+                                da 500.000 a 1.500.000 euro per la violazione degli obblighi previsti dall'articolo 4, commi 1, 2 e 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da 400.000 a 1.000.000 di euro per la violazione dell'articolo 4, comma 4; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                da 50.000 a 350.000 euro per la violazione dell'articolo 4, comma 5; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                da 250.000 a 800.000 euro per la violazione dell'articolo 6, comma 1; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                da 15.000 a 50.000 euro per la violazione dell'articolo 6, comma 2; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                da 150.000 a 500.000 euro per la violazione dell'articolo 6, comma 3.
+
 Le sanzioni amministrative pecuniarie di cui al comma 1 sono applicate ai sensi della legge 24 novembre 1981, n. 689 dall'autorita' centrale di cui all'articolo 8.
+
+3.
+                    
+                        
+                            Nella determinazione della sanzione si ha riguardo a tutte le circostanze rilevanti, tra cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                la natura, la gravita' e la durata della violazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il carattere doloso o colposo della violazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le precedenti violazioni commesse dall'autore della violazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le condizioni patrimoniali, economiche e finanziarie dell'autore della violazione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la cooperazione dell'autore della violazione con le autorita' competenti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'attivita' svolta dall'autore della violazione per l'eliminazione o attenuazione delle conseguenze della violazione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la natura e le dimensioni del prestatore di servizi o dello stabilimento designato; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il grado di colpa dell'autore della violazione, tenuto conto delle misure tecniche e organizzative adottate per conformarsi al presente decreto.
 
 I proventi derivanti dalle sanzioni amministrative pecuniarie, di cui al presente articolo, sono versati ad apposito capitolo dell'entrata del bilancio dello Stato, per essere riassegnati, con decreto del Ministro dell'economia e delle finanze, al Ministero dell'interno ai fini dell'integrazione delle risorse gia' destinate a legislazione vigente all'attuazione delle disposizioni di cui al presente articolo.
 

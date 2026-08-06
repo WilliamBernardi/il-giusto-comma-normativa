@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-11-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,6 +27,45 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 ## - Capo I Concorso interno per titoli
 
 ## Art. 1. — Bando di concorso
+
+1.
+                        
+                            
+                                Il concorso di cui all'articolo 24-quater, comma 1, lettera a) del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' indetto con decreto del Capo della Polizia - Direttore generale della pubblica sicurezza, da pubblicare nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso e le sedi disponibili a livello provinciale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti richiesti per la partecipazione al concorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di presentazione delle domande di partecipazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
 
 ## Art. 2. — Esclusione dal concorso
 
@@ -45,6 +84,59 @@ La commissione esaminatrice del concorso e' composta da un presidente scelto tra
 Svolge le funzioni di segretario un funzionario del ruolo dei Commissari della Polizia di Stato, in servizio presso il Dipartimento della pubblica sicurezza.
 
 ## Art. 5. — Titoli
+
+1.
+                        
+                            
+                                Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' delle mansioni svolte con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta, fino a punti 8;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi speciali conferiti con specifico provvedimento dell'amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 6;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli attinenti alla formazione professionale del candidato con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati, fino a punti 4;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'amministrazione di appartenenza o da quella presso cui presta servizio e che vertono su problemi giuridici, amministrativi o tecnici ovvero su questioni di particolare rilievo attinenti ai servizi dell'amministrazione, fino a punti 4;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    speciali riconoscimenti, fino a punti 6;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    anzianita' complessiva di servizio, fino a punti 10.
 
 Nell'ambito delle suddette categorie, la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi.
 
@@ -65,6 +157,59 @@ Il decreto di approvazione della graduatoria di merito e di dichiarazione dei vi
 ## - Capo II Concorso interno per titoli ed esame scritto
 
 ## Art. 7. — Bando di concorso
+
+1.
+                        
+                            
+                                Il concorso di cui all'articolo 24-quater, comma 1, lettera b) del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, e' indetto con decreto del Capo della Polizia - Direttore generale della pubblica sicurezza, da pubblicare nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso e le sedi disponibili a livello provinciale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti richiesti per la partecipazione al concorso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di presentazione delle domande di partecipazione;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la data di svolgimento dell'esame scritto e le materie oggetto del questionario costituente la prova d'esame;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la votazione minima da conseguire nella prova scritta;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
 
 ## Art. 8. — Possesso dei requisiti ed esclusione dal concorso
 
@@ -101,6 +246,59 @@ La prova si intende superata se il candidato riporta una votazione non inferiore
 La predisposizione del questionario puo' essere affidata a qualificati istituti pubblici o privati e la relativa prova puo' essere gestita con l'ausilio di societa' specializzate.
 
 ## Art. 12. — Titoli
+
+1.
+                        
+                            
+                                Le categorie di titolo di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabilite come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualita' delle mansioni svolte con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta, fino a punti 8;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incarichi e servizi speciali conferiti con specifico provvedimento dell'amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 6;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli attinenti alla formazione professionale del candidato con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati, fino a punti 4;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'amministrazione di appartenenza o da quella presso cui presta servizio e che vertono su problemi giuridici, amministrativi o tecnici ovvero su questioni di particolare rilievo attinenti ai servizi dell'amministrazione, fino a punti 4;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    speciali riconoscimenti, fino a punti 6;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    anzianita' complessiva di servizio, fino a punti 10.
 
 Nell'ambito delle suddette categorie, la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi.
 
@@ -141,11 +339,156 @@ La valutazione dei titoli per il personale di cui al comma 2 ai fini della forma
 
 ((
 
+1.
+                        
+                            
+                                Il concorso di cui all'articolo 13-bis e' indetto con decreto del Capo della Polizia - Direttore generale della pubblica sicurezza, da pubblicare nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero dei posti messi a concorso per ciascun anno disponibili al 31 dicembre di ogni anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i requisiti richiesti per la partecipazione al concorso dei quali i candidati devono essere in possesso al 31 dicembre di ogni anno riferiti ai corrispondenti posti disponibili alla stessa data; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di presentazione, per via telematica, delle domande di partecipazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le categorie dei titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ogni altra prescrizione o notizia ritenuta utile.
+
 ))
 
 ## Art. 13-quater. — (( (Titoli) ))
 
 ((
+
+1.
+                        
+                            
+                                Le categorie dei titoli ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria per il personale in possesso dei requisiti di cui all'articolo 24-quater, comma 1, lettera a), del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, sono stabiliti come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti informativi e giudizi complessivi del biennio anteriore, fino a 8 punti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' complessiva di servizio, fino a 14 punti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    speciali riconoscimenti e ricompense, fino a 4 punti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli di studio, fino a 3 punti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conoscenza della lingua inglese, punti 0,5; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    conoscenza delle procedure e dei sistemi informatici, punti 0,5; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per il superamento della prova selettiva in precedenti analoghi concorsi e ai vincitori di analoghi concorsi che non abbiano partecipato al corso di formazione o si siano dimessi durante la frequenza, attribuzione di 5 punti.
+
+2.
+                        
+                            
+                                Le categorie dei titoli ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria per il personale in possesso dei requisiti di cui all'articolo 24-quater, comma 1, lettera b), del decreto del Presidente della Repubblica 24 aprile 1982, n. 335, sono stabiliti come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti informativi e giudizi complessivi del biennio anteriore, fino a 8 punti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anzianita' complessiva di servizio, fino a 10 punti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    speciali riconoscimenti e ricompense, fino a 4 punti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    titoli di studio, fino a 8 punti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    conoscenza della lingua inglese, punti 0,5; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    conoscenza delle procedure e dei sistemi informatici, punti 0,5; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per il superamento della prova selettiva in precedenti analoghi concorsi e ai vincitori di analoghi concorsi che non abbiano partecipato al corso di formazione o si siano dimessi durante la frequenza, attribuzione di 5 punti.
 
 Nell'ambito delle suddette categorie, la Commissione esaminatrice stabilisce, in sede di prima riunione, i criteri di massima per la graduale valutazione dei titoli e per l'attribuzione dei relativi punteggi, dandone comunicazione secondo idonee forme di pubblicita' anche sul sito dell'Amministrazione.
 
@@ -208,6 +551,24 @@ Al fine di garantire l'omogeneita' delle procedure di verifica di cui al comma 1
 
 ## Art. 18. — Esame finale
 
+1.
+                        
+                            
+                                Al termine del corso i frequentatori sostengono un esame consistente in:
+ 
+                            
+                            
+                                a)
+                                
+                                    una verifica scritta, che puo' articolarsi su piu' prove, relativa alle materie delle aree giuridica e professionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una verifica, che puo' articolarsi su piu' prove orali e pratiche, relativa ad altre materie previste dal programma di studi.
+
 La commissione d'esame di cui all'articolo 19 provvede a stabilire il contenuto ed il metodo per la valutazione delle prove d'esame, i criteri per la valutazione del rendimento ottenuto durante il corso, anche sulla base delle verifiche di cui all'articolo 17, nonche' i criteri per l'attribuzione del giudizio finale.
 
 L'esame si intende superato se il frequentatore riporta un giudizio finale complessivo di: "profitto", "segnalato profitto", "ottimo profitto". Il frequentatore che consegue la valutazione di "insufficiente profitto" nel giudizio finale complessivo non supera il corso.
@@ -221,6 +582,31 @@ Le prove gia' sostenute nella sessione ordinaria non devono essere ripetute.
 ## Art. 19. — Commissione d'esame finale
 
 La Commissione d'esame e' nominata con decreto del Capo della Polizia - Direttore generale della pubblica sicurezza.
+
+2.
+                        
+                            
+                                La Commissione e' composta:
+ 
+                            
+                            
+                                a)
+                                
+                                    dal direttore dell'Istituto d'istruzione ove si svolge il corso con funzioni di presidente;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da un numero di membri non inferiori a quattro scelti, di norma, tra i docenti del corso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da un segretario con qualifica non inferiore ad ispettore superiore della Polizia di Stato, od equiparata.
 
 La Commissione puo' avvalersi, per l'espletamento delle prove di carattere tecnico-specialistico, di personale qualificato nelle specifiche materie.
 

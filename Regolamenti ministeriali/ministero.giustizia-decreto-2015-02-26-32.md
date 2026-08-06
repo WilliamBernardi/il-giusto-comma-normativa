@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2015-02-26;32
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,101 @@ Il presente regolamento stabilisce le regole tecniche e operative per lo svolgim
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «operazioni di vendita telematica»: le attivita' compiute tra il momento della connessione degli offerenti al portale del gestore della vendita telematica e l'aggiudicazione o l'individuazione del migliore offerente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «gestore della vendita telematica»: il soggetto costituito in forma societaria autorizzato dal giudice a gestire la vendita telematica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «referente della procedura»: la persona fisica incaricata dal giudice che procede alle operazioni di vendita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «offerta per la vendita telematica»: l'offerta d'acquisto di beni mobili o immobili nella vendita telematica senza incanto o tramite commissionario ovvero la domanda di partecipazione alla vendita telematica all'incanto dei medesimi beni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «rilancio»: l'offerta in aumento nella gara relativa alla vendita con e senza incanto o tramite commissionario; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «vendita sincrona telematica»: modalita' di svolgimento dell'incanto o della gara nella vendita immobiliare senza incanto in cui i rilanci vengono formulati esclusivamente in via telematica nella medesima unita' di tempo e con la simultanea connessione del giudice o del referente della procedura e di tutti gli offerenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «vendita sincrona mista»: modalita' di svolgimento dell'incanto o della gara nella vendita immobiliare senza incanto in cui i rilanci possono essere formulati, nella medesima unita' di tempo, sia in via telematica sia comparendo innanzi al giudice o al referente della procedura; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «vendita asincrona»: modalita' di svolgimento delle vendite mobiliari senza incanto o tramite commissionario o della gara nella vendita immobiliare senza incanto in cui i rilanci vengono formulati, esclusivamente in via telematica, in un lasso temporale predeterminato e senza la simultanea connessione del giudice o del referente della procedura; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «Ministero»: il Ministero della giustizia; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «registro»: il registro dei gestori della vendita telematica; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «responsabile»: il responsabile della tenuta del registro; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «casella di posta elettronica certificata per la vendita telematica»: la casella di posta elettronica certificata richiesta dalla persona fisica o giuridica che intende formulare l'offerta, le cui credenziali di accesso sono rilasciate, previa identificazione del richiedente, a norma dell'articolo 13; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «portale del gestore»: il sistema telematico predisposto dal gestore della vendita telematica e accessibile agli offerenti e al pubblico tramite rete Internet ed al giudice o ad altri utenti legittimati tramite rete Internet o servizi telematici del Ministero; i servizi del portale sono erogati in conformita' ai protocolli di comunicazione crittografica SSL/TLS (Secure Sockets Layer e Transport Layer Security); il portale deve essere munito di un valido certificato di autenticazione emesso da un certificatore accreditato per la firma digitale o da un certificatore riconosciuto a livello internazionale alla emissione di certificati di autenticazione per protocolli SSL/TLS.
+
 ## - Capo II Registro dei gestori della vendita telematica     Sezione I     Requisiti e procedimento di iscrizione
 
 ## Art. 3. — Istituzione del registro
@@ -48,7 +143,71 @@ A cura del responsabile e' formato un elenco dei gestori della vendita telematic
 
 Nel registro sono iscritti, a domanda, i gestori della vendita telematica costituiti in forma di societa' di capitali. La domanda di iscrizione deve contenere l'indicazione di uno o piu' distretti di Corte di appello in cui si intende svolgere il servizio di vendita telematica.
 
+2.
+                        
+                            
+                                Il responsabile prima di procedere all'iscrizione verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il rilascio di una polizza assicurativa per le conseguenze patrimoniali comunque derivanti dallo svolgimento del servizio di gestione della vendita telematica, con massimale non inferiore a: 
+ 1) tre milioni di euro se l'iscrizione e' richiesta per due o piu' distretti di Corte di appello o per uno dei seguenti distretti:
+Roma, Milano, Napoli, Palermo; 
+ 2) un milione di euro nei casi diversi da quelli di cui al numero 1); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione di un manuale operativo dei servizi, in conformita' a quanto previsto dal presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adozione di un piano di sicurezza in cui vengano descritte tutte le misure e gli accorgimenti adottati dal gestore per garantire la protezione dei dati anche personali trattati tramite il portale e la sicurezza delle operazioni, la loro integrita', e la disponibilita' dei servizi; il piano comprendera' le misure per il salvataggio periodico dei dati e il loro ripristino in caso di danneggiamento o perdita dei dati e dei sistemi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la conformita' dei portali dei gestori della vendita telematica ai requisiti tecnici di cui agli articoli 10 e 11 della legge 9 gennaio 2004, n. 4 e al decreto 8 luglio 2005 del Ministro per l'innovazione e la tecnologia, pubblicato nella Gazzetta Ufficiale 8 agosto 2005, n. 183, nonche' al decreto del Presidente della Repubblica 1° marzo 2005, n. 75.
+
 Il contratto di assicurazione deve prevedere a carico dell'assicuratore l'obbligo di comunicare immediatamente al responsabile la cessazione di efficacia del medesimo contratto per qualsiasi motivo.
+
+4.
+                        
+                            
+                                Prima di procedere all'iscrizione il responsabile verifica altresi' il possesso da parte degli amministratori, dei sindaci e dei procuratori speciali e generali della societa' richiedente dei seguenti requisiti di onorabilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    non versare in una delle condizioni di ineleggibilita' o decadenza previste dall'articolo 2382 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non essere stati sottoposti a misure di prevenzione personali disposte dall'autorita' giudiziaria ai sensi del decreto legislativo 6 settembre 2011, n. 159; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non essere stati condannati con sentenza passata in giudicato, salvi gli effetti della riabilitazione: 
+ 1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento; 
+ 2) alla reclusione per uno dei delitti previsti dagli articoli 351, 353 e 354 del codice penale e nel titolo XI del libro V del codice civile, nel regio decreto 16 marzo 1942, n. 267, nonche' dall'articolo 16 della legge 27 gennaio 2012, n. 3 e successive modificazioni; 
+ 3) alla reclusione per un tempo non inferiore a un anno per un delitto contro la pubblica amministrazione diverso da quelli di cui al numero 2), contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria; 
+ 4) alla reclusione per un tempo superiore a due anni per un qualunque delitto non colposo.
 
 Quando la societa' richiedente e' soggetta al controllo di un'altra societa', a norma dell'articolo 2359, primo e secondo comma, del codice civile, il responsabile verifica il possesso dei requisiti di cui al comma 4 anche con riguardo agli amministratori, ai sindaci e ai procuratori speciali e generali della societa' controllante. Nel caso previsto dall'articolo 2359, primo comma, n. 3), del codice civile, l'influenza dominante deve essere stata accertata con sentenza passata in giudicato.
 
@@ -93,6 +252,66 @@ Ai fini del presente articolo, il responsabile puo' acquisire informazioni relat
 
 ## Art. 9. — Registro degli incarichi di vendita telematica
 
+1.
+                        
+                            
+                                Ciascun gestore della vendita telematica e' tenuto a istituire un registro informatico degli incarichi di vendita telematica, indicando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il numero d'ordine progressivo per anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ufficio giudiziario innanzi al quale pende la procedura rispetto alla quale e' stato incaricato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se l'incarico riguarda una procedura di espropriazione forzata mobiliare o immobiliare; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se si tratta di vendita senza incanto, con incanto o tramite commissionario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    se procede alle operazioni di vendita con modalita' sincrona, asincrona o mista; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il numero dei lotti posti in vendita; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per ciascun lotto: il prezzo al quale i beni sono stati per la prima volta posti in vendita, il numero degli esperimenti di vendita, il prezzo di vendita; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le spese e i compensi, per ciascuna procedura, liquidati dall'autorita' competente.
+
 Ulteriori registri o annotazioni possono essere stabiliti con determinazione del responsabile, comunicata ai gestori mediante pubblicazione nell'area pubblica del portale dei servizi telematici del Ministero.
 
 Entro il 31 gennaio di ciascun anno il gestore della vendita telematica trasmette al responsabile i dati indicati nel registro e relativi agli eventi verificatisi nel corso dell'anno precedente. La trasmissione ha luogo con modalita' telematiche ed in conformita' alle specifiche tecniche di cui all'articolo 26.
@@ -119,6 +338,101 @@ Il Ministero procede annualmente al monitoraggio statistico delle operazioni di 
 
 Modalita' di presentazione dell'offerta 
  e dei documenti allegati
+
+1.
+                        
+                            
+                                L'offerta per la vendita telematica deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati identificativi dell'offerente, con l'espressa indicazione del codice fiscale o della partita IVA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ufficio giudiziario presso il quale pende la procedura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'anno e il numero di ruolo generale della procedura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero o altro dato identificativo del lotto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la descrizione del bene; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'indicazione del referente della procedura; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la data e l'ora fissata per l'inizio delle operazioni di vendita; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il prezzo offerto e il termine per il relativo pagamento, salvo che si tratti di domanda di partecipazione all'incanto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'importo versato a titolo di cauzione; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    la data, l'orario e il numero di CRO del bonifico effettuato per il versamento della cauzione; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il codice IBAN del conto sul quale e' stata addebitata la somma oggetto del bonifico di cui alla lettera l); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    l'indirizzo della casella di posta elettronica certificata di cui al comma 4 o, in alternativa, quello di cui al comma 5, utilizzata per trasmettere l'offerta e per ricevere le comunicazioni previste dal presente regolamento; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'eventuale recapito di telefonia mobile ove ricevere le comunicazioni previste dal presente regolamento.
 
 Quando l'offerente risiede fuori dal territorio dello Stato, e non risulti attribuito il codice fiscale, si deve indicare il codice fiscale rilasciato dall'autorita' fiscale del Paese di residenza o, in mancanza, un analogo codice identificativo, quale ad esempio un codice di sicurezza sociale o un codice identificativo. In ogni caso deve essere anteposto il codice del paese assegnante, in conformita' alle regole tecniche di cui allo standard ISO 3166-1 alpha-2code dell'International Organization for Standardization.
 
@@ -226,6 +540,64 @@ Modalita' di presentazione dell'offerta e di svolgimento delle operazioni di ven
 
 Per la presentazione dell'offerta per la vendita dei beni mobili con modalita' asincrona, l'interessato si registra sul portale del gestore della vendita telematica, fornendo i dati identificativi, il codice fiscale, un indirizzo di posta elettronica anche ordinaria per le comunicazioni del gestore, il luogo in cui intende ricevere le comunicazioni di cancelleria, il recapito di telefonia mobile.
 All'esito della registrazione, il sistema genera le credenziali per la partecipazione dell'interessato alla vendita telematica per la quale la registrazione e' stata effettuata e assegna uno pseudonimo o altri elementi distintivi in grado di assicurare l'anonimato.
+
+2.
+                        
+                            
+                                L'offerta e' presentata indicando: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ufficio giudiziario presso il quale pende la procedura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'anno e il numero di ruolo generale della procedura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero o altro dato identificativo del lotto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la descrizione del bene; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del referente della procedura; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il prezzo offerto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'importo della cauzione prestata. 
+ 4. Il portale del gestore deve fornire in via automatica i dati di cui al comma 3, lettere a), b), c) d), ed e). 
+ 5. La cauzione e' prestata con sistemi telematici di pagamento ovvero con carte di debito, di credito o prepagate, nonche' con altri mezzi di pagamento con moneta elettronica disponibili nei circuiti bancario e postale. 
+ 6. Quando sono fissate modalita' di versamento della cauzione che consentono al gestore di verificare l'effettivo pagamento della stessa con modalita' automatizzate e contestualmente alla presentazione dell'offerta, la registrazione puo' essere effettuata nell'ambito del lasso temporale stabilito per la presentazione delle offerte. Nei casi diversi da quelli di cui al periodo precedente, la registrazione e il versamento della cauzione sono effettuati almeno cinque giorni prima dell'inizio del lasso temporale fissato per lo svolgimento delle operazioni di vendita; il gestore abilita a partecipare alla gara gli offerenti che hanno effettivamente versato la cauzione. 
+ 7. Nel corso della gara gli offerenti sono individuati esclusivamente mediante lo pseudonimo o gli altri elementi distintivi di cui al comma 1. Entro il secondo giorno successivo alla chiusura della gara, il gestore trasmette al referente della procedura l'elenco delle offerte e i dati identificativi di coloro che le hanno effettuate. Deve altresi' comunicare e documentare gli estremi dei conti bancari o postali sui quali sono state addebitate le cauzioni accreditate sul conto vincolato, di aver accreditato sul conto corrente bancario o postale vincolato al referente della procedura la cauzione versata da colui che ha formulato l'offerta piu' alta e di aver svincolato le cauzioni prestate dagli altri offerenti, nonche' di aver restituito le cauzioni dagli stessi versate mediante accredito sui conti bancari o postali di provenienza. 
+ 8. Per l'accesso al portale si applica l'articolo 20, commi 1 e 3.
 
 ## - Capo V Disposizioni finanziarie e finali
 

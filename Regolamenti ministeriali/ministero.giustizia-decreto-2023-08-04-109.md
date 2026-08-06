@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2023-09-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,80 @@ Sentito il Garante per la protezione dei dati personali, che in data 17 maggio 2
 Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 4 luglio 2023;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «albo»: l'albo dei consulenti tecnici d'ufficio istituito in ogni tribunale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «aspirante»: colui che ha proposto domanda di iscrizione all'albo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «comitato»: il comitato previsto dall'articolo 14 delle disposizioni di attuazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «consulente»: colui che e' iscritto nell'albo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «dichiarazione sostitutiva»: la dichiarazione sostitutiva di certificazione e la dichiarazione sostitutiva dell'atto di notorieta' previste dagli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «disposizioni di attuazione»: le disposizioni per l'attuazione del Codice di procedura civile e disposizioni transitorie, approvate con regio decreto 18 dicembre 1941, n. 1368; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «elenco nazionale»: l'elenco nazionale dei consulenti tecnici previsto dall'articolo 24-bis delle disposizioni di attuazione e istituito presso il Ministero; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «Ministero»: il Ministero della giustizia; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «presidente»: il presidente del tribunale presso cui e' istituito l'albo; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «professionista»: il soggetto che svolge un'attivita' avente ad oggetto la prestazione d'opera intellettuale o non intellettuale.
 
 ## Art. 2. — Oggetto
 
@@ -45,11 +119,75 @@ Sono fatte salve le disposizioni dettate dal Codice della proprieta' industriale
 
 ## Art. 4. — Requisiti per l'iscrizione all'albo dei consulenti tecnici
 
+1.
+                    
+                        
+                            Ai sensi dell'articolo 15 delle disposizioni di attuazione, possono essere iscritti nell'albo coloro che: 
+ 
+                        
+                        
+                            a)
+                            
+                                sono iscritti nei rispettivi ordini o collegi professionali, o ruoli, o associazioni professionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono in regola con gli obblighi di formazione professionale continua, ove previsti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono di condotta morale specchiata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono dotati di speciale competenza tecnica nelle materie oggetto della categoria di interesse; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                hanno residenza anagrafica o domicilio professionale ai sensi dell'articolo 16 della legge 21 dicembre 1999, n. 526 nel circondario del tribunale.
+
 Ai fini del comma 1, lettera a), il professionista deve essere iscritto nel rispettivo ordine o collegio professionale. Per le professioni non organizzate in ordini o collegi, il professionista deve essere iscritto nel ruolo dei periti e degli esperti tenuto dalla camera di commercio, industria, artigianato e agricoltura o ad una delle associazioni professionali inserite nell'elenco di cui all'articolo 2, comma 7, della legge 14 gennaio 2013, n. 4, che rilasciano l'attestato di qualita' e di qualificazione professionale dei servizi prestati dai soci.
 
 Gli obblighi di formazione professionale continua di cui al comma 1, lettera b), sono quelli previsti dai rispettivi ordinamenti professionali o, per le professioni non organizzate in ordini o collegi, dall'associazione di cui all'articolo 2 della legge n. 4 del 2013 alla quale e' iscritto l'aspirante.
 
 Il requisito della speciale competenza tecnica previsto dal comma 1, lettera d), sussiste quando con specifico riferimento alla categoria e all'eventuale settore di specializzazione l'attivita' professionale e' stata esercitata per almeno cinque anni in modo effettivo e continuativo.
+
+5.
+                    
+                        
+                            In mancanza del requisito di cui al comma 4, la speciale competenza tecnica e' riconosciuta quando ricorrono almeno due delle seguenti circostanze: 
+ 
+                        
+                        
+                            a)
+                            
+                                possesso di adeguati titoli di specializzazione o approfondimento post-universitari, purche' l'aspirante sia iscritto da almeno cinque anni nei rispettivi ordini, collegi o associazioni professionali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                possesso di adeguato curriculum scientifico, comprendente, a titolo esemplificativo, attivita' di docenza, attivita' di ricerca, iscrizione a societa' scientifiche, pubblicazioni su riviste scientifiche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                conseguimento della certificazione UNI relativa all'attivita' professionale svolta, rilasciata da un organismo di certificazione accreditato.
 
 Per la categoria medico-chirurgica, ai fini di cui al comma 4 rileva l'esercizio della professione successivamente al conseguimento del titolo di specializzazione. Per la specializzazione in medicina legale, non si applica il requisito di cui al comma 4 ed e' sufficiente il possesso di uno tra quelli previsti al comma 5, lettere a) e b).
 
@@ -58,6 +196,101 @@ L'aspirante puo' essere iscritto, nell'ambito del medesimo albo, in piu' categor
 Ai fini dell'iscrizione nella categoria e nel settore di specializzazione richiesti, la speciale competenza tecnica e' valutata dal comitato.
 
 ## Art. 5. — Domande di iscrizione
+
+1.
+                    
+                        
+                            Nella domanda di iscrizione all'albo l'aspirante indica mediante dichiarazione sostitutiva, a pena di inammissibilita': 
+ 
+                        
+                        
+                            a)
+                            
+                                la categoria e il settore di specializzazione per i quali chiede l'iscrizione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le proprie generalita' e il proprio indirizzo di posta elettronica certificata; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la formazione scolastica, universitaria e post-universitaria e i titoli di studio conseguiti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli eventuali specifici percorsi formativi volti ad acquisire adeguate competenze nell'ambito della conciliazione, nonche' sul processo e sull'attivita' del consulente tecnico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il curriculum scientifico; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'ordine, il collegio, l'associazione o la categoria del ruolo dei periti e degli esperti tenuto dalla camera di commercio, industria, artigianato e agricoltura in cui e' iscritto; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la dichiarazione di non aver riportato condanne passate in giudicato, oppure l'indicazione delle condanne eventualmente riportate; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la dichiarazione di non essere a conoscenza di procedimenti penali pendenti a suo carico, oppure l'indicazione dei procedimenti pendenti dei quali abbia conoscenza; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la dichiarazione di non aver riportato negli ultimi cinque anni sanzioni disciplinari piu' gravi di quella minima prevista dall'ordinamento professionale di appartenenza; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                la dichiarazione di essere in regola con gli obblighi di formazione professionale continua, con specifica indicazione dei crediti conseguiti, e con gli obblighi contributivi e previdenziali; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                l'attivita' professionale svolta, con particolare riguardo a quella degli ultimi cinque anni; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                la dichiarazione che i titoli e i documenti attestanti la formazione e l'attivita' professionale svolta prodotti in copia sono conformi all'originale; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                l'impegno a comunicare senza indugio ogni variazione del proprio indirizzo di posta elettronica certificata nonche' ogni altra circostanza rilevante sopravvenuta.
 
 Nella domanda di iscrizione nella categoria traduttori e interpreti e in quella della mediazione interculturale sono indicate le lingue straniere e gli eventuali dialetti locali conosciuti.
 

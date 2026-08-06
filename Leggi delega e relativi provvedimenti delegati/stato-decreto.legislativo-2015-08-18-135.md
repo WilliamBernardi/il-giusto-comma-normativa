@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-03-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -30,6 +30,70 @@ Finalita' e ambito di applicazione
 Il presente decreto reca la disciplina sanzionatoria per le violazioni delle disposizioni del ((regolamento (UE) 2021/1230 del 14 luglio 2021 del Parlamento europeo e del Consiglio, relativo ai pagamenti transfrontalieri nell'Unione)), e del regolamento (UE) n. 260/2012 del 14 marzo 2012 del Parlamento europeo e del Consiglio, che stabilisce i requisiti tecnici e commerciali per i bonifici e gli addebiti diretti in euro.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le definizioni di cui: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, paragrafo 1, n. 8), del regolamento (UE) n. 260/2012 del 14 marzo 2012 del Parlamento europeo e del Consiglio (prestatore di servizi di pagamento o PSP); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 2, paragrafo 1, n. 18), del citato regolamento (UE) n. 260/2012 (sistema di pagamento di importo rilevante); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 2, paragrafo 1, n. 22), del citato regolamento (UE) n. 260/2012 (sistema di pagamento al dettaglio).
+
+2.
+                    
+                        
+                            Si applicano inoltre le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                regolamento (UE) 2021/1230: regolamento (UE) 2021/1230 del Parlamento europeo e del Consiglio del 14 luglio 2021, relativo ai pagamenti transfrontalieri dell'Unione, di codificazione, ai fini di chiarezza e razionalizzazione, e abrogazione del regolamento (CE) n. 924/2009, come modificato dal regolamento (UE) n. 260/2012 e dal regolamento (UE)2019/518; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                regolamento (UE) n. 260/2012: regolamento (UE) n. 260/2012 del 14 marzo 2012 del Parlamento europeo e del Consiglio che stabilisce i requisiti tecnici e commerciali per i bonifici e gli addebiti diretti in euro e che modifica il regolamento (CE) n. 924/2009 ((, come modificato dal regolamento (UE) n. 248/2014 e dal regolamento (UE) 2024/ 886)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                servizi di pagamento: le attivita' commerciali elencate nell'allegato alla direttiva 2007/64/CE del 13 novembre 2007 del Parlamento europeo e del Consiglio, relativa ai servizi di pagamento nel mercato interno, recante modifica delle direttive 97/7/CE, 2002/65/CE, 2005/60/CE e 2006/48/CE, che abroga la direttiva 97/5/CE; (3) 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gestore o gestore ufficiale: societa' o ente che gestisce sistemi di pagamento al dettaglio o singole fasi di questi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                partecipante a un sistema di pagamento: societa' o ente che partecipa a un sistema di pagamento al dettaglio assumendo gli obblighi derivanti dalla disciplina contrattuale che regola la partecipazione al sistema.
 
 ---------------
                         AGGIORNAMENTO (3)

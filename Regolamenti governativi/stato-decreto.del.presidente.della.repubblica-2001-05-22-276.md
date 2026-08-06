@@ -8,8 +8,8 @@ codice_redazionale: 001G0335
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,7 +37,50 @@ Lo svolgimento dei censimenti e' disciplinato dalle disposizioni delle leggi vig
 
 ## Art. 2. — Obiettivi
 
+1.
+                        
+                            
+                                Il censimento generale della popolazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    fornisce informazioni sulle principali caratteristiche strutturali della popolazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina la popolazione legale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornisce dati e informazioni per l'aggiornamento e la revisione delle anagrafi comunali della popolazione residente.
+
 Il censimento generale delle abitazioni, che comprende anche il censimento degli edifici, fornisce informazioni sulla consistenza numerica e sulle caratteristiche delle abitazioni e degli edifici. Il censimento degli edifici consente, altresi', la normalizzazione degli elenchi comunali degli edifici.
+
+3.
+                        
+                            
+                                Il censimento generale dell'industria e dei servizi fornisce:
+ 
+                            
+                            
+                                a)
+                                
+                                    informazioni sulle principali caratteristiche strutturali del sistema economico dell'industria e dei servizi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dati e informazioni per l'aggiornamento e il completamento degli archivi statistici delle imprese attive e delle istituzioni, costituiti ai sensi del regolamento CEE n. 2186 del 22 luglio 1993.
 
 ## Art. 3. — Campo di osservazione del censimento generale della popolazione
 
@@ -63,9 +106,59 @@ Il censimento generale dell'industria e dei servizi rileva altresi' le caratteri
 
 ## Art. 6. — Unita' di rilevazione del censimento generale della popolazione
 
+1.
+                        
+                            
+                                Le unita' di rilevazione del censimento generale della popolazione sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    la famiglia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le singole persone;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la convivenza.
+
 Per famiglia si intende la famiglia anagrafica previa dall'articolo 4 del regolamento anagrafico approvato con decreto del Presidente della Repubblica 30 maggio 1989, n. 223. Le singole persone sono unita' di rilevazione anche se non costituiscono famiglia ai sensi dell'articolo 4 citato. Per convivenza s'intende la convivenza anagrafica prevista dall'articolo 5 del regolamento anagrafico.
 
 ## Art. 7. — Unita' di rilevazione del censimento generale delle abitazioni e del censimento degli edifici
+
+1.
+                        
+                            
+                                Le unita' di rilevazione del censimento generale delle abitazioni e del censimento degli edifici sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    le abitazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli altri tipi di alloggio, solo se occupati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli edifici.
 
 Per abitazione s'intende un insieme di vani, o anche un vano solo, destinato funzionalmente, in tutto o in parte, ad uso di alloggio, che dispone di un ingresso indipendente su strada, pianerottolo, cortile, terrazza, ballatoio e simili.
 
@@ -76,6 +169,24 @@ Per edificio s'intende una costruzione, dotata di una propria struttura indipend
 ## Art. 8. — Unita' di rilevazione del censimento generale dell'industria e dei servizi
 
 L'unita' di rilevazione del censimento generale dell'industria e dei servizi e' l'unita' giuridico-economica, unitamente alle sue unita' locali, ai sensi del regolamento CEE 15 marzo 1993, n. 696, del regolamento CE 25 giugno 1996, n. 2223.
+
+2.
+                        
+                            
+                                Le unita' giuridico-economiche comprendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    le imprese e i lavoratori autonomi, tra i quali i liberi professionisti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le istituzioni pubbliche e le istituzioni private.
 
 Per unita' locale si intende il luogo, variamente denominato stabilimento, laboratorio, negozio, officina, ristorante, albergo, bar, ufficio, agenzia, magazzino, studio professionale, ambulatorio, abitazione e simili, in cui si realizza la produzione di beni o nel quale si svolge o si organizza la prestazione di servizi destinabili o non destinabili alla vendita, purche' sia presidiato da almeno un addetto. Costituiscono, altresi', unita' locali, sempre che siano fisicamente o funzionalmente distinte da altra unita' locale, anche la sede d'impresa, nonche' le sedi degli uffici direttivi, amministrativi e tecnici.
 
@@ -248,6 +359,38 @@ Il manifesto ufficiale di cui all'articolo 20, comma 1, e gli altri mezzi di inf
 Agli organi incaricati di svolgere le operazioni censuarie e' corrisposto dall'Istat un contributo forfetario, onnicomprensivo, determinato in base al numero e alla tipologia delle unita' censite e delle attivita' censuarie espletate, alla complessita' e alla dispersione territoriale delle unita' di rilevazione. Il contributo e' comprensivo di una quota destinata ai Comuni che abbiano svolto le operazioni di confronto contestuale al censimento, di cui all'articolo 13. Gli ulteriori oneri restano a carico dei bilanci degli organi censuari.
 
 Il contributo di cui al comma 1 e' riferito alle spese di carattere generale, ivi comprese le spese di espletamento dei compiti di verifica dei dati e di coordinamento, e al pagamento dei compensi ai rilevatori e ai coordinatori. La somma totale dei contributi onnicomprensivi non puo' superare il 75 per cento degli stanziamenti attribuiti per i censimenti generali 2000-2001, detratti quelli destinati al censimento dell'agricoltura di cui all'articolo 37 della legge 17 maggio 1999, n. 144.
+
+3.
+                        
+                            
+                                Con decreto del Presidente del Consiglio dei Ministri, sentita la Conferenza Stato-citta', sono definiti, per i comuni e per le CCIAA, tenuto conto dei diversi compiti ad essi attribuiti ai sensi dell'articolo 11 e nei limiti di cui al comma 2, i criteri di ripartizione tra le seguenti voci di spesa, nonche' le relative modalita' di erogazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    spese di carattere generale, ivi comprese le quote di cui all'articolo 26, comma 3;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spese per compensi alle attivita' di rilevazione e coordinamento tecnico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    spese per contributi differenziati per la raccolta di informazioni delle unita' di cui all'articolo 11, comma 4;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    spese per la quota destinata alle operazioni di confronto contestuale di cui all'articolo 13.
 
 ## Art. 26. — Gestione dei fondi e oneri finanziari
 

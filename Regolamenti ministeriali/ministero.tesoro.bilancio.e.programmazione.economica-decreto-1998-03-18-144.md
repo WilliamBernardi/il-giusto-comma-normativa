@@ -8,8 +8,8 @@ codice_redazionale: 098G0196
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,35 @@ Sentita la Banca d'Italia;
 Udito il parere del Consiglio di Stato, espresso nell'adunanza della sezione consultiva per gli atti normativi in data 23 febbraio 1998;
 
 ## Art. 1. — Onorabilita' dei partecipanti al capitale delle banche
+
+1.
+                    
+                        
+                            Chiunque partecipa in una banca in misura superiore al cinque per cento del capitale rappresentato da azioni con diritto di voto non puo' esercitare il diritto di voto inerente alle azioni o quote eccedenti qualora:
+ 
+                        
+                        
+                            a)
+                            
+                                sia stato sottoposto a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575 e successive modificazioni ed integrazioni, salvi gli effetti della riabilitazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sia stato condannato con sentenza irrevocabile, salvi gli effetti della riabilitazione:
+ 1) a pena detentiva per un tempo non inferiore a sei mesi per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento;
+ 2) alla reclusione per un tempo non inferiore a sei mesi per uno dei delitti previsti nel titolo XI del libro V del codice civile e nel regio decreto del 16 marzo 1942, n. 267;
+ 3) alla reclusione per un tempo non inferiore a un anno per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria;
+ 4) alla reclusione per un tempo non inferiore a due anni per un qualunque delitto non colposo.
+
+                            
+                        
+                        
+                            c)
+                            
+                                sia stato condannato a una delle pene indicate alla lettera b) con sentenza che applica la pena su richiesta delle parti, salvo il caso dell'estinzione del reato. Le pene di cui alla lettera b), n. 1) e n. 2) non rilevano se inferiori ad un anno.
 
 Il comma 1 si applica anche a chiunque, indipendentemente dall'entita' della partecipazione posseduta, controlla la banca ai sensi dell'articolo 23 del decreto legislativo 1 settembre 1993, n. 385. In tal caso la sospensione del diritto di voto interessa l'intera partecipazione.
 

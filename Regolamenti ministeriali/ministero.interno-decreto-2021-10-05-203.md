@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2021-10-05;203
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -53,6 +53,38 @@ Il comma 2 dell'articolo 4 del decreto del Ministro dell'interno 18 settembre 20
 Il comma 3 dell'articolo 4 del decreto del Ministro dell'interno 18 settembre 2008, n. 163, e' soppresso.
 
 All'articolo 4, comma 4, del decreto del Ministro dell'interno 18 settembre 2008, n. 163, le parole «un appartenente al ruolo dei collaboratori e dei sostituti direttori» sono sostituite dalle seguenti: «personale con qualifica non inferiore a ispettore logistico-gestionale».
+
+7.
+                    
+                        
+                            All'articolo 5 del decreto del Ministro dell'interno 18 settembre 2008, n. 163, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: «comma 10» sono sostituite dalle seguenti: «comma 9»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, primo periodo, dopo le parole «dirigenti medici», sono inserite le seguenti: «o sanitari»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, terzo periodo, le parole «convenzioni ai sensi dell'articolo 51, comma 3, del decreto legislativo 13 ottobre 2005, n. 217.» sono sostituite dalle seguenti: «accordi ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, le parole: «un appartenente al ruolo dei collaboratori e dei sostituti direttori» sono sostituite dalle seguenti: «personale con qualifica non inferiore a ispettore logistico-gestionale».
 
 L'articolo 6 del decreto del Ministro dell'interno 18 settembre 2008, n. 163, e' soppresso.
 

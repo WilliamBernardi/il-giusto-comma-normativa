@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-05-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,35 @@ Espletata la procedura di informazione in ottemperanza degli obblighi posti dall
 
 ## Art. 1. — OGGETTO
 
+1.
+                        
+                            
+                                Ai sensi e per gli effetti degli articoli 95, 103 e 104 del decreto del Presidente della Repubblica 11 luglio 1980, n. 753, il presente regolamento contiene le norme regolamentari generali concernenti le seguenti categorie di funicolari aeree e terrestri in servizio pubblico per trasporto di persone:
+
+                            
+                            
+                                a)
+                                
+                                    funivia bifune con movimento a va e vieni: consistente in una o piu' funi portanti costituenti vie di corsa, in un anello di fune trattivo e in uno o piu' veicoli ad esso collegati che percorrono le funi portanti con movimento di va e vieni;
+                                
+                            
+                            
+                                b)
+                                
+                                    funivia bifune con movimento unidirezionale: consistente in due o piu' funi portanti costituenti vie di corsa ed in un anello di fune trattivo con movimento in un sol senso, continuo o intermittente, al quale vengono collegati i veicoli che percorrono le funi portanti; i collegamenti possono essere permanenti ovvero temporanei, attuati alla partenza e sciolti all'arrivo mediante dispositivi idonei;
+                                
+                            
+                            
+                                c)
+                                
+                                    funivia monofune con movimento unidirezionale continuo (a velocita' costante o variabile) o intermittente: consistente in una (o piu') fune portante-traente chiusa ad anello alla quale vengono collegati i veicoli; i collegamenti possono essere permanenti (seggiovie ad attacchi fissi e simili) ovvero temporanei, attuati alla partenza e sciolti all'arrivo mediante dispositivi idonei;
+                                
+                            
+                            
+                                d)
+                                
+                                    funicolare terrestre con movimento a va e vieni, consistente in una o due vie di corsa rigide, vincolate al terreno, e percorse da veicoli muniti di ruote o di altri dispositivi equivalenti di sostentamento e scorrimento, collegati tra loro da un semianello trattivo, al quale puo' aggiungersi altro semianello di tensione (zavorra).
+
 Il presente regolamento non si applica alle sciovie, che restano disciplinate dal decreto ministeriale 15 marzo 1982.
 
 Nel presente regolamento con il termine commissione per le funicolari aeree e terrestri, di seguito indicata come CFAT, si intende la commissione interministeriale istituita con regio decreto 17 gennaio 1926, n. 177, modificato ed integrato con decreto del Presidente della Repubblica 21 gennaio 1977, n. 67 e con il decreto del Presidente della Repubblica 9 maggio 1994, n. 608.
@@ -50,6 +79,23 @@ La domanda di approvazione del progetto e' proposta secondo le norme di cui agli
 La documentazione di cui al precedente comma 1 e' firmata, oltreche' dal richiedente la concessione, da ingegnere progettista abilitato all'esercizio della professione in Italia.
 
 Quando singole parti della documentazione tecnica, concernenti settori specialistici diversi, sono redatte da professionisti differenti, in possesso ciascuno di specifiche specializzazioni, gli elaborati sono firmati anche dal predetto responsabile generale della progettazione, del coordinamento e della reciproca compatibilita' di tali parti.
+
+4.
+                        
+                            
+                                Alla documentazione e' unita una dichiarazione nella quale il progettista assicura:
+
+                            
+                            
+                                a)
+                                
+                                    l'esatta rispondenza del disegno del profilo del terreno, assunto quale base del progetto, alla configurazione effettiva del terreno stesso;
+                                
+                            
+                            
+                                b)
+                                
+                                    di avere compilato il progetto ed impostato e condotto i calcoli di stabilita relativi alle varie parti dell'impianto in osservanza delle presenti norme e secondo i dettami della tecnica moderna.
 
 ## Art. 4. — PROGETTO PRELIMINARE
 
@@ -105,6 +151,35 @@ b) per quanto riguarda la materia nivologica:
 
 ## Art. 8. — FUNI
 
+1.
+                        
+                            
+                                Sugli impianti oggetto del presente regolamento sono impiegati i seguenti tipi di funi:
+
+                            
+                            
+                                a)
+                                
+                                    Funi portanti: sono costituite di fili di acciaio, senza anima tessile, di massima a trefoli, ad avvolgimento di preferenza incrociato, ovvero spiroidali con manto di fili tutti o parte sagomati (funi chiuse o semichiuse);
+                                
+                            
+                            
+                                b)
+                                
+                                    Funi portanti-traenti e funi traenti, zavorra, freno e di soccorso: sono flessibili, a trefoli o di altri tipi riconosciuti idonei;
+                                
+                            
+                            
+                                c)
+                                
+                                    Funi tenditrici e di regolazione: sono flessibili, con esclusione di quei tipi di funi in cui per effetto di passaggi ripetuti sulle pulegge di deviazione i fili dei diversi strati del manto tendono a logorarsi per strisciamento reciproco;
+                                
+                            
+                            
+                                d)
+                                
+                                    Funi telefoniche e di segnalazione: sono formate di fili zincati.
+
 Non sono ammesse le funi spiroidali a soli fili tondi.
 
 Le prove di collaudo da effettuare sui materiali impiegati nella fabbricazione delle funi e per l'accettazione delle funi medesime sono soggette all'osservanza delle norme di cui al decreto ministeriale 21 giugno 1986.
@@ -123,6 +198,23 @@ L'attacco della fune portante al contrappeso, realizzato per avvolgimento di que
 
 Le teste fuse degli attacchi di estremita' delle funi, se ammesse, sono eseguite secondo le disposizioni indicate nel decreto ministeriale 31 agosto 1937, n.2672 . L'esecuzione delle teste fuse e' effettuata alla presenza e sotto la responsabilita' dell'ingegnere direttore dei lavori o direttore di esercizio, impiegando la lega prescritta, preparata da una ditta specializzata del ramo. Copia del verbale dell'esecuzione delle teste fuse e' inviata dal direttore dei lavori o dal direttore di esercizio all'ufficio periferico della MCTC competente per territorio.
 
+5.
+                        
+                            
+                                Per i diametri dei tamburi o pulegge di avvolgimento ordinariamente non rotanti (paranchi di regolazione), dei bozzelli e delle radance che si utilizzano per trasmettere la trazione di funi tenditrici o di regolazione si fa distinzione fra i due casi seguenti:
+
+                            
+                            
+                                a)
+                                
+                                    lo sforzo di trazione arriva all'organo considerato da due capi di fune collaboranti (es. pulegge di compensazione);
+                                
+                            
+                            
+                                b)
+                                
+                                    lo sforzo di trazione arriva ad un solo ramo di fune (es. radance).
+
 I morsetti impiegati per la connessione di ritorno delle radance sono in numero tale che un terzo di essi, con arrotondamento all'intero inferiore, e' sufficiente per impedire lo scorrimento ed hanno, tenuto conto del loro numero, lunghezza e forma tali da ripartire convenientemente sulla fune la pressione necessaria; quando la fune di regolazione si trova nella posizione di massimo svolgimento, restano, sul tamburo, almeno tre spire morte, precedenti l'attacco al tamburo stesso, che comprende alla fine un morsetto di sicurezza.
 
 Non sono ammessi giunti di linea sulle funi portanti. Ove lo sviluppo della fune portante dell'intera funivia e' tale da non consentire l'adozione di funi di un solo pezzo, si introducono stazioni intermedie di ancoraggio o di tensione.
@@ -138,6 +230,47 @@ Le impalmature sono eseguite secondo le disposizioni indicate nelle apposite pre
 Le funi telefoniche e di segnalazione soddisfano, sia per la parte meccanica sia per quella elettrica, oltre alle norme del presente regolamento, anche quelle emanate dal comitato elettrotecnico italiano (C.E.I.) riguardanti le linee elettriche aeree esterne, quando siano piu' restrittive.
 
 ## Art. 11. — SICUREZZA DELLE FUNI
+
+1.
+                        
+                            
+                                Il grado di sicurezza delle funi non e' inferiore al rapporto tra la somma dei carichi di rottura dei fili per trazione (esclusi eventuali nuclei di fili di acciaio dolce) e lo sforzo totale massimo assiale sopportato dalla fune, da determinarsi nelle condizioni piu' sfavorevoli, ad impianto in movimento od a riposo; cio' subordinatamente all'osservanza delle norme stabilite dal presente regolamento intese a limitare l'effetto delle sollecitazioni secondarie e che riguardano:
+
+                            
+                            
+                                a)
+                                
+                                    il raggio delle scarpe d'appoggio delle funi portanti;
+                                
+                            
+                            
+                                b)
+                                
+                                    il carico totale e per ruota del carrello sulle portanti;
+                                
+                            
+                            
+                                c)
+                                
+                                    le azioni trasmesse dai dispositivi di collegamento dei veicoli con l'anello trattivo;
+                                
+                            
+                            
+                                d)
+                                
+                                    il diametro delle pulegge motrici e di quelle di rinvio;
+                                
+                            
+                            
+                                e)
+                                
+                                    i rulli guida fune;
+                                
+                            
+                            
+                                f)
+                                
+                                    le guarnizioni periferiche delle ruote, pulegge e rulli.
 
 Nel calcolo dello sforzo totale massimo assiale si tiene conto anche delle resistenze passive lungo la linea, interessanti la fune che si considera, nonche' delle forze d'inerzia all'avviamento ed alla frenatura, in quanto risentite dalla fune in esame.
 
@@ -182,6 +315,23 @@ Quando, durante il servizio, L'impianto rimane immobilizzato per un intervallo d
 
 I viaggiatori possono abbandonare agevolmente i veicoli anche nel caso in cui non sono in condizioni di collaborare alle operazioni di evacuazione, ed essere condotti al sicuro senza pericolo e senza troppo disagio; tutti in un tempo ragionevolmente limitato, soprattutto in relazione alle condizioni climatiche ed ambientali della localita'.
 
+3.
+                        
+                            
+                                I relativi procedimenti rispondono ad uno schema semplice in piena armonia con le caratteristiche dell'impianto e comprendono dispositivi di impiego rapido, anche per viaggiatori non in condizioni di partecipare attivamente. Essi possono consistere:
+
+                            
+                            
+                                a)
+                                
+                                    nel trasporto dei viaggiatori lungo la linea funicolare aerea o terrestre;
+                                
+                            
+                            
+                                b)
+                                
+                                    nella discesa dei viaggiatori direttamente a terra dai veicoli.
+
 L'altezza massima dei veicoli dal suolo non e' soggetta a limite quando i passeggeri, con impianto in normale esercizio, viaggiano in veicoli chiusi ed il loro recupero avviene mediante spostamento lungo la linea.
 
 L'altezza massima dei veicoli dal suolo e' limitata a valori che dipendono dai tipi di impianti e dai particolari mezzi di recupero; quando tale recupero e' realizzato mediante discesa a terra dei viaggiatori direttamente dai veicoli oppure quando i veicoli stessi sono scoperti (seggiole) il contorno inferiore dei veicoli stessi si trova lungo tutto il percorso ad una distanza moderata dal terreno.
@@ -205,6 +355,35 @@ Negli attraversamenti o parallelismi di impianti con linee di telecomunicazioni,
 ## Art. 17. — NORME COMUNI ALLE STAZIONI
 
 Le parti meccaniche delle stazioni, sia motrici, sia di rinvio, sono efficacemente protette dalle intemperie.
+
+2.
+                        
+                            
+                                Le stazioni, terminali o intermedie, sono dotate:
+
+                            
+                            
+                                a)
+                                
+                                    di locali per la sosta dei viaggiatori in relazione alle prevedibili esigenze del traffico, nonche' di servizi igienici, tenendo conto degli esercizi pubblici di ristoro esistenti nelle immediate vicinanze delle stazioni;
+                                
+                            
+                            
+                                b)
+                                
+                                    di locali chiusi da adibire a magazzino e per la manutenzione ordinaria, almeno in una stazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    di un locale per il ricovero del personale;
+                                
+                            
+                            
+                                d)
+                                
+                                    di un sistema di illuminazione normale e di emergenza.
 
 Le stazioni sono munite di recinzioni.
 
@@ -252,6 +431,35 @@ L'intervento di uno qualsiasi dei freni provoca l'interruzione dell'azione dei m
 
 L'azionamento e' dotato di un indicatore della velocita' della fune traente o portante-traente.
 
+14.
+                        
+                            
+                                Negli impianti a movimento intermittente, unidirezionale, o a va e vieni, l'azionamento principale e l'eventuale azionamento di riserva sono dotati:
+
+                            
+                            
+                                a)
+                                
+                                    di un dispositivo di presenza attiva del macchinista (dispositivo di "uomo morto");
+                                
+                            
+                            
+                                b)
+                                
+                                    di un indicatore della posizione delle vetture in marcia lungo la linea;
+                                
+                            
+                            
+                                c)
+                                
+                                    di un sistema atto ad arrestare automaticamente l'impianto se la velocita' non viene ridotta nella misura prestabilita all'approssimarsi dei veicoli alle stazioni (dazio) o ad eventuali altri punti della linea;
+                                
+                            
+                            
+                                d)
+                                
+                                    di un dispositivo per l'arresto automatico delle vetture per extracorsa (per le sole funivie a va e vieni), agente sul freno emergenza.
+
 Quando l'impianto, di qualsiasi tipo, risulta automotore per talune condizioni dei carichi o in particolari condizioni di esercizio, l'azionamento comprende un dispositivo a forza centrifuga mosso direttamente dalla puleggia motrice, il quale interviene se la velocita' supera quella normale in un rapporto da stabilire a seconda del tipo degli impianti. Tale intervento provoca il funzionamento del freno di emergenza.
 
 Negli impianti dove non e' prescritto il dispositivo di presenza attiva del macchinista (cosiddetto dispositivo di "uomo morto"), il freno di emergenza e' comandabile, oltreche' dal posto di manovra del macchinista, anche dalla localita' in cui permane altro personale di stazione per l'esecuzione di manovre inerenti all'esercizio.
@@ -269,6 +477,23 @@ Le strutture dei sostegni dei contrappesi sono facilmente ispezionabili in ogni 
 I pozzi dei contrappesi, se esistono, sono accessibili, bene asciutti e protetti dalle precipitazioni atmosferiche.
 
 I contrappesi compiono liberamente le massime escursioni dipendenti da cause meccaniche e termiche, con adeguati franchi liberi verticali.
+
+5.
+                        
+                            
+                                La posizione dei dispositivi di tensione e' resa visibile in ogni momento mediante apposito indicatore. Sono inoltre installati:
+
+                            
+                            
+                                a)
+                                
+                                    un dispositivo di allarme atto a segnalare il raggiungimento delle posizioni limite ammesse;
+                                
+                            
+                            
+                                b)
+                                
+                                    adatti ammortizzatori di escursione, se le caratteristiche dell'impianto lo richiedono.
 
 L'attacco di sostegno del contrappeso e' collocato in modo che tutte le parti che lo costituiscono, e in particolare le teste fuse eventuali o altri dispositivi terminali, sono sempre facilmente ispezionabili.
 
@@ -299,6 +524,32 @@ I gradi di stabilita' e di sicurezza per le strutture portanti nonche' le eventu
 
 Quando gli edifici delle stazioni collaborano con le strutture portanti dell'impianto, tutte le parti collaboranti soddisfano le stesse condizioni di stabilita' e di sicurezza.
 
+3.
+                        
+                            
+                                I carichi da considerare nella verifica di stabilita' e sicurezza delle strutture portanti dell'impianto, sia di stazione che di linea, sono i seguenti:
+
+                            
+                            
+                                a)
+                                
+                                    le forze peso comunque gravanti sulle strutture con le ipotesi piu' sfavorevoli di distribuzione dei carichi nonche' il carico dovuto alla neve;
+                                
+                            
+                            
+                                b)
+                                
+                                    la spinta del vento sulle strutture, nelle ipotesi convenzionali seguenti:
+1) con impianto in servizio si considera il valore massimo della pressione dinamica
+(1/2pV2) del vento, spirante orizzontalmente in qualsiasi direzione, per la quale e' ancora consentito il servizio;
+2) con impianto fuori servizio si considera un vento spirante orizzontalmente in qualsiasi direzione, la cui pressione dinamica e' indicata in un valore fisso;
+                                
+                            
+                            
+                                c)
+                                
+                                    le azioni delle funi sulle strutture, tenendo conto della spinta esercitata sulle funi medesime dal vento con le ipotesi di cui alla precedente lettera b) e delle posizioni meno favorevoli dei carichi in linea.
+
 ## Art. 21. — STABILITA' DELLE FUNI SUGLI APPOGGI
 
 Nella verifica di stabilita' delle funi sulle scarpe si considerano le condizioni di carico della linea piu' sfavorevoli e le ipotesi di spinta del vento orizzontale secondo quanto indicato al comma 2, lettera b, del precedente articolo 20, nonche', a impianto fuori servizio, la sottospinta sulle funi. Il profilo delle scarpe e' tale da facilitare lo scorrimento della fune ed evitarne la fuoriuscita.
@@ -324,6 +575,29 @@ I sostegni sono accessibili soltanto al personale di servizio.
 Tutte le strutture metalliche sono protette contro le corrosioni.
 
 ## Art. 23. — SCARPE E RULLIERE
+
+1.
+                        
+                            
+                                Per limitare l'inflessione delle funi sugli appoggi, si provvede come segue:
+
+                            
+                            
+                                a)
+                                
+                                    nel caso di scarpe di appoggio (funi soggette solo a piccoli scorrimenti longitudinali), si assegna alle scarpe un raggio in rapporto conveniente al diametro della fune;
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di rulliere (funi mobili dell'impianto) si assegna un limite massimo all'angolo di deviazione della fune su ogni rullo, determinato tenendo conto delle ipotesi di carico della linea piu' sfavorevoli e astraendo dagli effetti dinamici;
+                                
+                            
+                            
+                                c)
+                                
+                                    il diametro dei rulli non e' minore di un determinato valore in proporzione al diametro della fune.
 
 Per le funi portanti il raggio di curvatura delle scarpe di appoggio e' commisurato alla velocita' dei veicoli, in modo da limitare il valore dell'accelerazione centripeta.
 
@@ -356,6 +630,29 @@ Nelle funivie monofuni, quando il veicolo e' sostenuto da piu' attacchi alla fun
 
 La massa da considerare per ciascun viaggiatore e' correlata alle caratteristiche dei veicoli ed alle finalita' dei calcoli di verifica in cui detta massa e' introdotta.
 
+7.
+                        
+                            
+                                Per le funivie bifuni si applicano le seguenti prescrizioni:
+
+                            
+                            
+                                a)
+                                
+                                    per le necessarie ispezioni ogni vettura delle funivie a va e vieni e' munita di una piattaforma di osservazione o di un altro dispositivo analogo, eventualmente asportabile, sistemato in prossimita' del carrello; sistemi aventi la medesima finalita' sono impiegati anche nelle funivie con movimento unidirezionale;
+                                
+                            
+                            
+                                b)
+                                
+                                    quando l'anello trattivo e' costituito da piu' tratti di fune interrotti in corrispondenza dei carrelli dei veicoli, il collegamento tra il carrello e tali tratti di fune e' attuato mediante dispositivi ad attrito o teste fuse di tipo ispezionabile;
+                                
+                            
+                            
+                                c)
+                                
+                                    i veicoli collegati permanentemente all'anello trattivo sono muniti di uno smorzatore (avente caratteristiche tali da escludere pericoli di sollevamento del carrello) per attenuare le eventuali oscillazioni longitudinali della cabina, salvo nei casi in cui cio' viene dimostrato non necessario.
+
 Nel caso considerato al precedente comma 7, lettera b, ogni carrello e' munito di un freno a ganasce che interviene automaticamente sia in caso di rottura delle funi o degli altri organi costituenti l'anello trattivo, sia per manovra dell'agente di scorta del veicolo, sia nella eventualita' di rottura di uno qualsiasi degli elementi che costituiscono la trasmissione del comando del freno. All'atto dell'intervento del freno si interrompe automaticamente l'alimentazione del motore di trazione.
 
 Il freno di cui al precedente comma 8 si sena sulla fune portante o su un'apposita fune (fune freno). Il suo congegno e' protetto contro gli agenti atmosferici e le ganasce sono rivestite di materiale relativamente tenero e sagomate in modo da evitare, all'atto del serraggio, l'insorgenza di azioni tendenti a sollevare il carrello dalla fune portante o questa dalle scarpe di appoggio.
@@ -378,6 +675,41 @@ Per le funivie bifuni a va e vieni e per le funicolari terrestri puo' essere con
 Quando l'anello trattivo e' costituito da piu' tratti di fune e, quindi, interrotto in corrispondenza dei veicoli, gli attacchi delle estremita' dei tratti di fune ai veicoli sono fatti mediante dispositivi ad attrito o teste fuse di tipo ispezionabile.
 
 Il corpo e le altre parti resistenti dei dispositivi di collegamento delle funi dell'anello trattivo ai veicoli sono progettati tenendo conto anche delle eventuali sollecitazioni di fatica alle quali possono essere sottoposti. Essi sono costruiti con materiale metallico fucinato o laminato, tenace e di elevata resistenza alla fatica.
+
+3.
+                        
+                            
+                                Quando l'anello trattivo e' continuo, e cioe' costituito da una fune chiusa ad anello mediante impalmatura, i dispositivi per il collegamento dei veicoli all'anello trattivo, se trattasi di collegamento permanente, rispondono ai seguenti requisiti:
+
+                            
+                            
+                                a)
+                                
+                                    il corpo del morsetto, che sostiene, mediante perno, il veicolo, e' di materiale tenace e sicuramente privo di difetti tali da comprometterne l'integrita';
+                                
+                            
+                            
+                                b)
+                                
+                                    i morsetti e, in genere, i dispositivi di attacco sono di forma e dimensioni tali da garantire che il passaggio sulle pulegge motrici e di rinvio e sulle rulliere dei sostegni, richiesto dalle caratteristiche di funzionamento dell'impianto, avviene con sicurezza e facilita', e cio' anche quando l'asta di sospensione del veicolo e' deviata trasversalmente. Le ganasce di tali dispositivi presentano alle loro estremita' inviti tali che, in relazione alle possibili deviazioni che puo' subire la fune in qualunque punto dell'impianto, non risultano danneggiamenti ai fili della fune stessa;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attacco del morsetto alla fune, in ogni condizione di lubrificazione, presenta una resistenza contro lo scorrimento non inferiore ad un valore direttamente dipendente dal massimo peso sostenuto dal morsetto medesimo, tenendo opportunamente conto anche della riduzione del diametro originario della fune;
+                                
+                            
+                            
+                                d)
+                                
+                                    il morsetto presenta ganasce che stringono la fune, oppure manicotti che ne sposano la forma, in modo che, nell'un caso e nell'altro, risulta assicurata la resistenza contro lo scorrimento di cui alla precedente lettera c) in qualsiasi condizione di moto dell'impianto e di posizione del veicolo. La pressione esercitata dalle ganasce sulla fune ha un valore ed una ripartizione tali da garantire contro danneggiamenti locali della fune medesima. Il congegno destinato a generare tale pressione e' costituito in modo da permettere di valutare in modo semplice, sia pure con larga approssimazione, la pressione delle ganasce;
+                                
+                            
+                            
+                                e)
+                                
+                                    e' ammesso che la pressione sulla fune da parte degli elementi del "morsetto" (inteso questo in senso lato), viene determinata dallo stesso sforzo di trazione della fune quando questa, a tale scopo, viene deviata fra appoggi sfalsati lungo la fune stessa e a contrasto. La profilatura di tali appoggi risponde a quanto stabilito nel presente regolamento nei riguardi dell'incurvamento da imporre alle funi.
 
 Se trattasi di collegamento temporaneo, i dispositivi possiedono i requisiti indicati al precedente comma 3, lettere a), b), c) e d) ed inoltre la pressione delle ganasce sulla fune e' ottenuta per mezzo di due sorgenti di energia potenziale (molle di compressione od altro dispositivo), ciascuna capace di generare singolarmente almeno la meta' del minimo serraggio richiesto.
 

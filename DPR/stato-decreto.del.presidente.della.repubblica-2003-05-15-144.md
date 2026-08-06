@@ -8,8 +8,8 @@ codice_redazionale: 003G0165
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -98,6 +98,31 @@ Ai sensi dell'articolo 112 del decreto del Presidente della Repubblica 5 gennaio
 
 ## Art. 2. — Struttura del trattamento economico e stipendio tabellare
 
+1.
+                    
+                        
+                            Per il biennio 2002-2003 resta ferma la struttura del trattamento economico prevista dall'articolo 13 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, articolata in: 
+ 
+                        
+                        
+                            a)
+                            
+                                componente stipendiale di base, che comprende lo stipendio tabellare, l'indennita' integrativa speciale e la retribuzione individuale di anzianita', ove acquisita e spettante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                retribuzione di posizione, correlata alle posizioni funzionali ricoperte; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                retribuzione di risultato, correlata ai risultati conseguiti rispetto agli obiettivi assegnati.
+
 A decorrere dal 1° gennaio 2002 lo stipendio tabellare di cui all'articolo 14 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, e' rideterminato, per ciascun grado della carriera diplomatica, nei seguenti importi annui lordi per dodici mensilita': 
  
  
@@ -131,6 +156,24 @@ Restano ferme le disposizioni dell'articolo 16 del decreto del Presidente della 
 
 ## Art. 4. — Fondo per la retribuzione di posizione e la retribuzione di risultato
 
+1.
+                    
+                        
+                            Il fondo di cui all'articolo 17 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, continua ad essere definito con le modalita' ivi indicate ed e' alimentato dalle seguenti ulteriori risorse finanziarie:
+ 
+                        
+                        
+                            a)
+                            
+                                Euro 100,38 mensili pro capite per tredici mensilita' per l'anno 2002;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Euro 148,69 mensili pro capite per tredici mensilita' per l'anno 2003.
+
 Le risorse di cui al comma 1 sono determinate con riferimento al personale della carriera diplomatica in servizio alla data del 1° gennaio 2002.
 
 Nell'ambito del fondo di cui al comma 1 una quota pari al 30 per cento viene destinata al finanziamento della retribuzione di risultato.
@@ -138,6 +181,98 @@ Nell'ambito del fondo di cui al comma 1 una quota pari al 30 per cento viene des
 Le risorse del fondo di cui al comma 1, eventualmente non utilizzate alla fine dell'esercizio finanziario, sono riassegnate all'anno successivo.
 
 ## Art. 5. — Retribuzione di posizione
+
+1.
+                    
+                        
+                            Ferme restando le disposizioni di cui all'articolo 18 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, a decorrere dal 1° gennaio 2002 le misure della retribuzione di posizione correlate alle posizioni funzionali, che sono state individuate nell'articolo 1 del decreto del Ministro degli affari esteri in data 5 luglio 2000, n. 2069, e successive modificazioni ed integrazioni, sono rideterminate nei seguenti valori annui lordi per tredici mensilita': 
+ 
+                        
+                        
+                            a)
+                            
+                                Segretario generale, Euro 20.658,69; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera b), del decreto n. 2069 del 2000, Euro 17.559,88; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Vice capo di gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c), del decreto n. 2069 del 2000, Euro 14.874,26; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Capi degli uffici di livello dirigenziale e rimanenti posizioni funzionali di cui all'articolo 1, lettera d), del decreto n. 2069 del 2000, Euro 12.601,80; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Funzionari di cui all'articolo 1, lettera e), del decreto n. 2069 del 2000, Euro 7.437,13; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Funzionari addetti agli uffici, Euro 6.404,19.
+
+2.
+                    
+                        
+                            A decorrere dal 1° gennaio 2003 le misure della retribuzione di posizione di cui al comma 1 sono rideterminate nei seguenti valori annui lordi per tredici mensilita': 
+ 
+                        
+                        
+                            a)
+                            
+                                Segretario generale, Euro 78.000,00; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera b), del decreto n. 2069 del 2000, Euro 52.851,27; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Vice capo di gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c), del decreto n. 2069 del 2000, Euro 20.867,85; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Capi degli uffici di livello dirigenziale e rimanenti posizioni funzionali di cui all'articolo 1, lettera d), del decreto n. 2069 del 2000, Euro 13.277,56; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Funzionari di cui all'articolo 1, lettera e), del decreto n. 2069 del 2000, Euro 7.835,94; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                Funzionari addetti agli uffici, Euro 6.747,61.
 
 A decorrere dal 1° gennaio 2002, le misure minime della retribuzione di posizione per ciascun grado della carriera diplomatica, tenuto conto di quanto stabilito al comma 1, nonche' all'articolo 16 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, come sostituito dall'articolo 16 del decreto legislativo 24 marzo 2000, n. 85, sono rideterminate nei seguenti valori annui lordi per tredici mensilita': 
  
@@ -158,6 +293,52 @@ Consigliere di legazione.... Euro 6.747,61
 Segretario di legazione.... Euro 6.747,61
 
 ## Art. 6. — Retribuzione di risultato
+
+1.
+                    
+                        
+                            Ferme restando le disposizioni di cui all'articolo 19 del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114, per il biennio 2002-2003 i parametri della retribuzione di risultato ivi fissati in relazione alle diverse posizioni funzionali individuate nell'articolo 1 del decreto 5 luglio 2000, n. 2069, e successive integrazioni e modificazioni, sono ridefiniti come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                Segretario generale: 100;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Capo di gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera b), del decreto n. 2069 del 2000: 79,77;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Vice capo di gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c), del decreto n. 2069 del 2000: 72;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Capi degli uffici di livello dirigenziale e rimanenti posizioni funzionali di cui all'articolo 1, lettera d), del decreto n. 2069 del 2000: 41,29;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Funzionari di cui all'articolo 1, lettera e), del decreto n. 2069 del 2000: 24,37;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Funzionari addetti agli uffici: 20,98.
 
 ## Art. 7. — Effetti del trattamento economico
 

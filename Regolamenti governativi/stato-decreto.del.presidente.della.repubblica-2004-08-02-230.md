@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2006-03-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:10Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,38 @@ L'articolo 15, terzo comma, del decreto del Presidente della Repubblica 19 maggi
 ## Art. 2. — Abrogazioni
 
 All'articolo 4, quinto comma, del decreto del Presidente della Repubblica 19 maggio 1958, n. 719, le parole: «un residuo secco non inferiore a gr 10 ed» sono soppresse.
+
+2.
+                    
+                        
+                            Al decreto del Presidente della Repubblica del 1958, n. 719, sono altresi' abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 4, il sesto comma;
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 5, il terzo comma;
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 6, il terzo comma;
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 7, il secondo comma.
 
 ## Art. 3. — Clausola di cedevolezza
 

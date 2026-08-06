@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2023-07-26;106
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,24 @@ Sulla proposta del Ministro dell'economia e delle finanze e del Ministro per gli
 
 E' costituito presso il Ministero dell'economia e delle finanze il sistema informativo di rilevazione delle concessioni di beni pubblici (SICONBEP) al fine di promuovere la massima pubblicita' e trasparenza, anche in forma sintetica, dei principali dati e delle informazioni relativi alle concessioni di beni pubblici, fatto salvo quanto previsto dall'articolo 7.
 
+2.
+                    
+                        
+                            L'alimentazione del sistema informativo avviene con l'acquisizione delle informazioni detenute dai soggetti di cui all'articolo 2, che siano o meno organizzate in banche dati, garantendo il coordinamento e tramite l'interoperabilita' con gli altri sistemi informativi esistenti in materia di concessione di beni pubblici. L'obbligo di comunicazione di cui all'articolo 2 si intende assolto nel caso in cui i dati siano stati inseriti nei sistemi informativi gestiti dai soggetti di cui al medesimo articolo, a condizione che tali sistemi: 
+ 
+                        
+                        
+                            a)
+                            
+                                siano conformi alle linee guida di cui all'articolo 4, comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano interoperabili con il sistema informativo di cui al comma 1.
+
 Per la messa in opera e la gestione del sistema informativo di cui al presente decreto, il Ministero dell'economia e delle finanze si avvale della societa' di cui all'articolo 83, comma 15, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133.
 
 Per la costituzione del sistema informativo di cui al comma 1 e' autorizzata la spesa di euro 2 milioni per l'anno 2023. Per la sua gestione, manutenzione e sviluppo e' autorizzata la spesa di euro 2 milioni annui a decorrere dal 2024.
@@ -40,6 +58,66 @@ La comunicazione di cui al comma 1 e' effettuata esclusivamente in modalita' tel
 ## Art. 3. — Ambito oggettivo di applicazione
 
 La rilevazione comprende tutti i beni appartenenti al demanio e al patrimonio indisponibile di cui agli articoli da 822 a 830 del codice civile che formano oggetto di atti, contratti e convenzioni comportanti l'attribuzione a soggetti privati o pubblici dell'utilizzo in via esclusiva di tali beni.
+
+2.
+                    
+                        
+                            Il sistema informativo di cui all'articolo 1 e' alimentato con le seguenti informazioni minime, per quanto compatibili con lo specifico regime concessorio: 
+ 
+                        
+                        
+                            a)
+                            
+                                la natura del bene oggetto di concessione, 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ente proprietario e, se diverso, l'ente gestore; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le generalita' del concessionario; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la modalita' di assegnazione della concessione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'identificativo dell'atto, del contratto ovvero della convenzione che regola la concessione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la durata della concessione; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i rinnovi in favore del medesimo concessionario, di una societa' dallo stesso controllata o ad esso collegata ai sensi dell'articolo 2359 del codice civile; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'entita' del canone concessorio nonche' ogni altro dato utile a verificare la proficuita' dell'utilizzo economico del bene in una prospettiva di tutela e valorizzazione del bene stesso nell'interesse pubblico.
 
 ## Art. 4. — Trasmissione dei dati
 

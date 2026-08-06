@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2017-06-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -36,6 +36,53 @@ Il presente decreto detta principi per la disciplina, da parte delle regioni, de
 
 ((COMMA ABROGATO DAL D.L. 24 APRILE 2017, N. 50, CONVERTITO CON MODIFICAZIONI DALLA L. 21 GIUGNO 2017, N. 96)).
 
+3.
+                    
+                        
+                            
+                                ((Possono esercitare l'attivita' di vendita della stampa quotidiana e periodica, in regime di non esclusivita', le seguenti tipologie di esercizi commerciali:))
+                            
+                        
+                        
+                            a)
+                            
+                                le rivendite di generi di monopolio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le rivendite di carburanti e di oli minerali ((...)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i bar, inclusi gli esercizi posti nelle aree di servizio delle autostrade e nell'interno di stazioni ferroviarie, aeroportuali e marittime, ed esclusi altri punti di ristoro, ristoranti, rosticcerie e trattorie; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le strutture di vendita come definite dall'articolo 4, comma 1, lettere e), f) e g), del decreto legislativo 31 marzo 1998, n. 114, con un limite minimo di superficie di vendita pari a metri quadrati 700; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli esercizi adibiti prevalentemente alla vendita di libri e prodotti equiparati, con un limite minimo di superficie di metri quadrati 120; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gli esercizi a prevalente specializzazione di vendita, con esclusivo riferimento alla vendita delle riviste di identica specializzazione.
+
 ((COMMA ABROGATO DAL D.L. 24 APRILE 2017, N. 50, CONVERTITO CON MODIFICAZIONI DALLA L. 21 GIUGNO 2017, N. 96)).
 
 ((COMMA ABROGATO DAL D.L. 24 APRILE 2017, N. 50, CONVERTITO CON MODIFICAZIONI DALLA L. 21 GIUGNO 2017, N. 96)).
@@ -43,6 +90,59 @@ Il presente decreto detta principi per la disciplina, da parte delle regioni, de
 ((COMMA ABROGATO DAL D.L. 24 APRILE 2017, N. 50, CONVERTITO CON MODIFICAZIONI DALLA L. 21 GIUGNO 2017, N. 96)).
 
 ## Art. 3. — Esenzione dall'autorizzazione
+
+1.
+                    
+                        
+                            Non e' necessaria alcuna autorizzazione:
+ 
+                        
+                        
+                            a)
+                            
+                                per la vendita nelle sedi dei partiti, enti, chiese, comunita' religiose, sindacati associazioni, di pertinenti pubblicazioni specializzate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la vendita ambulante di quotidiani di partito, sindacali e religiosi, che ricorrano all'opera di volontari a scopo di propaganda politica, sindacale o religiosa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la vendita nelle sedi delle societa' editrici e delle loro redazioni distaccate, dei giornali da esse editi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per la vendita di pubblicazioni specializzate non distribuite nelle edicole;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per la consegna porta a porta e per la vendita ambulante da parte degli editori, distributori ed edicolanti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per la vendita in alberghi e pensioni quando essa costituisce un servizio ai clienti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per la vendita effettuata all'interno di strutture pubbliche o private rivolta unicamente al pubblico che ha accesso a tali strutture.
 
 ## Art. 4. — Parita' di trattamento
 
@@ -63,6 +163,73 @@ Con intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto leg
 4. Con intesa in sede di Conferenza unificata sono individuati, nel rispetto dei principi stabiliti dalla legislazione statale in materia di concorrenza, criteri omogenei per la liberalizzazione degli orari e dei periodi di chiusura dei punti vendita, la rimozione degli ostacoli che limitano la possibilita', per i punti vendita esclusivi, di ampliare le categorie merceologiche e i servizi offerti al pubblico, nonche' la possibilita' di svolgere l'intermediazione di servizi a valore aggiunto a favore delle amministrazioni territoriali, delle aziende sanitarie locali, delle aziende di trasporto pubblico e delle aziende di promozione turistica, fermi restando gli eventuali vincoli autorizzatori previsti, per tali attivita' e servizi ulteriori, dalla normativa vigente))
 
 ## Art. 5. — Modalita' di vendita
+
+1.
+                    
+                        
+                            La vendita della stampa quotidiana e periodica e' effettuata nel rispetto delle seguenti modalita': 
+ 
+                        
+                        
+                            a)
+                            
+                                il prezzo di vendita della stampa quotidiana e periodica stabilito dal produttore non puo' subire variazioni in relazione ai punti di vendita, esclusivi e non esclusivi, che effettuano la rivendita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le condizioni economiche e le modalita' commerciali di cessione delle pubblicazioni, comprensive di ogni forma di compenso riconosciuta ai rivenditori, devono essere identiche per le diverse tipologie di esercizi, esclusivi e non esclusivi, che effettuano la vendita; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i punti di vendita, esclusivi e non esclusivi, devono prevedere un adeguato spazio espositivo per le testate poste in vendita; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                e' comunque vietata l'esposizione al pubblico di giornali, riviste e materiale pornografico. 
+
+                            
+                        
+                        
+                            d-bis)
+                            
+                                gli edicolanti possono vendere presso la propria sede qualunque altro prodotto secondo la vigente normativa; 
+
+                            
+                        
+                        
+                            d-ter)
+                            
+                                gli edicolanti possono praticare sconti sulla merce venduta e defalcare il valore del materiale fornito in conto vendita e restituito, nel rispetto del periodo di permanenza in vendita stabilito dall'editore, a compensazione delle successive anticipazioni al distributore; 
+
+                            
+                        
+                        
+                            d-quater)
+                            
+                                fermi restando gli obblighi previsti per gli edicolanti a garanzia del pluralismo informativo, la ingiustificata mancata fornitura, ovvero la fornitura ingiustificata per eccesso o difetto, rispetto alla domanda da parte del distributore costituiscono casi di pratica commerciale sleale ai fini dell'applicazione delle vigenti disposizioni in materia; 
+
+                            
+                        
+                        
+                            d-quinquies)
+                            
+                                le clausole contrattuali fra distributori ed edicolanti, contrarie alle disposizioni del presente articolo, sono nulle per contrasto con norma imperativa di legge e non viziano il contratto cui accedono. 
+
+                            
+                        
+                        
+                            d-sexies)
+                            
+                                le imprese di distribuzione territoriale dei prodotti editoriali garantiscono a tutti i rivenditori l'accesso alle forniture a parita' di condizioni economiche e commerciali; la fornitura non puo' essere condizionata a servizi, costi o prestazioni aggiuntive a carico del rivenditore;
 
 ## Art. 5-bis. — (( (Nuove opportunita' imprenditoriali e commerciali per i punti vendita esclusivi). ))
 

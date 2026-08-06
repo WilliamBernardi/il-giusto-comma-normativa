@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2025-01-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,31 @@ Il superamento del corso superiore costituisce titolo per l'avanzamento in carri
 
 ## Art. 2. — Obiettivi del corso superiore di polizia tributaria
 
+1.
+                        
+                            
+                                Per la realizzazione delle finalita' di cui all'articolo 1, il corso superiore di polizia tributaria si pone gli obiettivi di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostenere ciascun frequentatore nello sviluppo delle proprie potenzialita', attraverso un percorso di studi, ricerche ed esperienze tesi ad arricchire le capacita' professionali, comportamentali e gestionali necessarie per l'assunzione degli incarichi di destinazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    affermare e consolidare i valori e la cultura della Guardia di finanza, rafforzando nei partecipanti il patto con l'istituzione ed il senso di appartenenza e fedelta'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elevare la capacita' di attivazione dei processi di miglioramento ed innovazione delle strategie e delle tecniche utilizzate per il perseguimento delle finalita' istituzionali della Guardia di finanza. A tale fine, nell'ambito del corso superiore di polizia tributaria sono realizzate iniziative di generazione di nuove conoscenze e l'apertura nei confronti del mondo scientifico, accademico e militare, nonche' della societa' civile, sia a livello nazionale che internazionale. A seguito di apposite convenzioni con atenei stipulate ai sensi della normativa vigente, le attivita' didattiche seguite durante la frequenza del corso superiore di polizia tributaria possono dare titolo al riconoscimento di crediti formativi al fine del conseguimento di master universitari.
+
 ## - Titolo II Modalita' di ammissione al corso superiore di polizia tributaria
 
 ## Art. 3. — Bando di concorso
@@ -45,19 +70,134 @@ Al corso superiore di polizia tributaria possono partecipare, previe intese con 
 
 ## Art. 4. — Fasi concorsuali
 
+1.
+                        
+                            
+                                Il concorso di cui all'articolo 3 si articola nelle seguenti fasi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valutazione dei titoli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prove di esame.
+
 ## Art. 5. — Valutazione dei titoli
 
 I titoli da valutare ai fini del concorso per l'ammissione al corso superiore di polizia tributaria, per un massimo di trenta punti, calcolati sino al centesimo, sono le qualita' morali, di carattere, fisiche e professionali e le doti intellettuali e di cultura dell'ufficiale emergenti dal libretto personale.
 
+2.
+                        
+                            
+                                Nella determinazione dei punteggi da assegnare alle qualita' e doti di cui al comma 1 vengono valorizzati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i giudizi complessivi espressi nella documentazione caratteristica, fino a un massimo di 10 punti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esito del corso di formazione o del concorso di ammissione al servizio permanente, fino a un massimo di ((3)) punti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esito dell'avanzamento al grado di maggiore, fino a un massimo di ((4)) punti; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    
+                                        ((l'esito dell'avanzamento al grado di tenente colonnello, fino a un massimo di 5 punti;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    le qualita' fisiche, morali, di carattere e professionali, nonche' le doti intellettuali e di cultura, risultanti dal libretto personale dell'ufficiale, fino a un massimo di ((8)) punti.
+
 ## Art. 6. — Prove di esame
 
+1.
+                        
+                            
+                                Gli esami di concorso per l'ammissione al corso superiore di polizia tributaria consistono in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una prova scritta in materia di diritto tributario; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    una prova scritta in materia di ((cultura)) professionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una prova orale in materia di diritto tributario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una prova orale in materia di ((cultura)) professionale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una prova di lingua inglese.
+
+((La prova scritta di cui al comma 1, lettera b), consiste nella redazione di un elaborato concernente l'inquadramento giuridico di un istituto inerente ai compiti di polizia economico-finanziaria della Guardia di finanza.))
 
 Ogni membro con diritto di voto della commissione giudicatrice di cui all'articolo 7 attribuisce a ciascun candidato, per ognuna delle prove di cui al comma 1, un punteggio in trentesimi.
 
 Il punteggio conseguito da ciascun candidato per ognuna delle prove di esame di cui al comma 1 e' determinato calcolando sino al centesimo la media aritmetica dei punteggi di cui al comma 3.
 
 Ciascuna delle prove di esame di cui al comma 1 e' superata dal candidato che abbia conseguito almeno diciotto trentesimi. Sono ammessi alle prove orali e di lingua inglese i candidati che abbiano superato entrambe le prove scritte.
+
+6.
+                        
+                            
+                                Al termine delle prove di esame la commissione di cui all'articolo 7, dopo aver espletato le procedure di cui ai commi 3 e 4, calcola per ogni candidato, sino al centesimo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il punteggio complessivo delle prove scritte, costituito dalla media aritmetica dei punteggi conseguiti nelle prove di cui al comma 1, lettere a) e b); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il punteggio complessivo delle ulteriori prove, costituito dalla media aritmetica dei punteggi conseguiti nelle prove di cui al comma 1, lettere c), d) ed e).
 
 ## Art. 7. — Commissione giudicatrice e graduatoria
 
@@ -89,9 +229,98 @@ Il programma didattico si articola in specifici ed autonomi moduli formativi e i
 
 Per la realizzazione delle finalita' e degli obiettivi di cui al Titolo I, il corso superiore di polizia tributaria e' strutturato secondo una combinazione equilibrata di competenze, capacita' gestionali e manageriali che attengono alla sfera istituzionale della Guardia di finanza.
 
+2.
+                        
+                            
+                                A tale scopo, il programma didattico di cui all'articolo 9 prevede le seguenti aree didattiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    competenze di base, tra le quali rientrano l'approfondimento delle lingue straniere e delle capacita' informatiche, destinate a completare il bagaglio di conoscenze e abilita' funzionali a una proficua frequenza del corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comportamenti organizzativi, con il fine di sviluppare nei partecipanti atteggiamenti e capacita' individuali necessari per affrontare problematiche o situazioni organizzative complesse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    competenze manageriali, destinate a dotare i frequentatori delle conoscenze, capacita' ed abilita' di natura gestionale, organizzativa, relazionale e strategica necessarie per ricoprire con successo un ruolo di gestore di risorse di qualsiasi natura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    competenze professionali, destinate ad arricchire le conoscenze e le esperienze conseguite dagli ufficiali nel corso della carriera, con riferimento ai settori di intervento istituzionale della Guardia di finanza.
+
 ## Art. 11. — Metodologie didattiche
 
 Per la realizzazione del programma didattico di cui all'articolo 9 vengono utilizzate metodologie basate sulla valorizzazione del discente come soggetto attivo del processo di apprendimento, al fine di stimolarne partecipazione e coinvolgimento e facilitare lo scambio di esperienze e l'interazione linguistica, anche mediante lo svolgimento di attivita' didattiche in lingua straniera.
+
+2.
+                        
+                            
+                                Nello sviluppo dei moduli formativi sono previste modalita' articolate su: 
+ 
+                            
+                            
+                                a)
+                                
+                                    lezioni tradizionali in aula; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    testimonianze di esperti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riflessioni guidate, discussioni di casi di studio, sperimentazione, esercitazioni e simulazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    studio e ricerca individuale e di gruppo.
+
+3.
+                        
+                            
+                                Nel programma didattico sono previsti anche moduli dedicati allo sviluppo di esperienze applicative esterne, quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    progetti di studio e approfondimento sul campo, su specifiche tematiche afferenti alle aree didattiche di cui all'articolo 10, presso strutture della Guardia di finanza od altri organismi nazionali ed internazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stage presso lo Stato Maggiore del Comando Generale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    viaggi di studio internazionali per l'approfondimento di specifiche tematiche afferenti ad un ambito applicativo.
 
 ## - Capo II Soggetti
 
@@ -99,9 +328,87 @@ Per la realizzazione del programma didattico di cui all'articolo 9 vengono utili
 
 Direttore del corso e' il comandante della Scuola di polizia tributaria.
 
+2.
+                        
+                            
+                                Al direttore del corso e' affidato il compito di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    garantire la rispondenza del corso alle finalita' e obiettivi di cui al Titolo I; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assicurare l'integrazione didattica ed organizzativa tra il corso superiore di polizia tributaria, le altre attivita' della scuola e della Guardia di finanza, le istituzioni nazionali ed internazionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contribuire all'affermazione dell'immagine e del ruolo del corso come istituzione di alta formazione e laboratorio di sviluppo di know how; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    garantire elevati standard di qualita' del programma formativo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    formulare, per ciascun corso, la proposta di programma didattico e quella relativa al corpo docente.
+
 Il direttore del corso, avvalendosi anche del comandante del corso di cui all'articolo 13, o di altro ufficiale della Scuola di polizia tributaria, garantisce il coordinamento della progettazione didattica di dettaglio elaborata da ciascun docente nell'ambito dell'area didattica di competenza.
 
 ## Art. 13. — Comandante del corso
+
+1.
+                        
+                            
+                                Il comandante del corso, sulla base degli indirizzi espressi dal direttore, ha il compito di garantire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la corretta gestione del percorso formativo pianificato, sia dal punto di vista della didattica, che da quello dei servizi di supporto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la realizzazione di iniziative tese a migliorare la qualita' del servizio formativo in ogni suo aspetto, con riferimento a ciascun modulo didattico ed esperienza applicativa esterna; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il monitoraggio costante del funzionamento del servizio formativo e della efficacia dei processi di apprendimento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'orientamento ed il sostegno professionale ai partecipanti al corso, attraverso attivita' di indirizzo e tutoraggio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il funzionamento dei servizi e sussidi didattici di pertinenza del corso.
 
 ## Art. 14. — Docenti
 
@@ -115,6 +422,24 @@ Per ciascun modulo formativo viene incaricato un docente titolare, il quale puo'
 
 ## Art. 15. — Valutazione durante la frequenza del corso
 
+1.
+                        
+                            
+                                Nel corso di ciascun anno accademico, i frequentatori effettuano e illustrano oralmente o con relazione scritta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    studi e ricerche sulle materie oggetto di insegnamento, assegnati e valutati dal docente titolare della disciplina su cui vertono; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lavori monografici inerenti a specifiche tematiche, da svolgere singolarmente o in gruppo, assegnati e valutati dal direttore del corso.
+
 A ognuno dei lavori di cui al comma 1, lettere a) e b), e' attribuito uno dei seguenti giudizi, sinteticamente motivato: ottimo, molto buono, buono, sufficiente, insufficiente.
 
 ## Art. 16. — Prova orale
@@ -124,6 +449,24 @@ Al termine del ciclo di lezioni di ciascun anno di corso ha luogo un esame final
 ## Art. 17. — Commissione di esame
 
 La commissione giudicatrice per la valutazione dell'esame di cui all'articolo 16 e' nominata annualmente con determinazione del Generale ispettore per gli istituti di istruzione della Guardia di finanza. La stessa e' presieduta dal direttore del corso e composta dal comandante del corso e dagli insegnanti titolari delle materie oggetto di esame. Le funzioni di segretario, senza voto, sono esercitate da un ufficiale superiore della Scuola di polizia tributaria.
+
+2.
+                        
+                            
+                                In caso di impedimento dei membri titolari, il Generale ispettore per gli istituti di istruzione nomina, con propria determinazione, i sostituti, che sono scelti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per gli ufficiali della Guardia di finanza, tra i parigrado in servizio permanente effettivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli insegnanti titolari, tra i rispettivi insegnanti aggiunti.
 
 ## Art. 18. — Valutazione dell'esame finale orale
 
@@ -153,6 +496,45 @@ Ai frequentatori che si ritirano durante la prova di esame di cui all'articolo 1
 
 ## Art. 22. — Rinvio dal corso
 
+1.
+                        
+                            
+                                Sono rinviati dal corso gli ufficiali che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presentano dichiarazione scritta di rinuncia al corso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono «non idonei» ai sensi degli articoli 18, comma 3, 19, comma 3, e 21; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di cui all'articolo 20, non sostengono l'esame entro il termine di trenta giorni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in sede di documentazione caratteristica redatta per la frequenza del corso non riportano un giudizio almeno pari a «nella media» o equivalente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non frequentano, in ciascun anno di corso, per un periodo di tempo superiore a novanta giorni complessivi.
+
 Il provvedimento di rinvio e' adottato dal Comandante Generale della Guardia di Finanza ed e' notificato all'ufficiale interessato.
 
 Nei casi previsti dalle lettere c) ed e) del comma 1, se l'impedimento o l'assenza e' dovuto a giustificati motivi, gli ufficiali possono chiedere con documentata istanza diretta al Comandante Generale della Guardia di Finanza, che provvede con propria determinazione, di essere ammessi, per una sola volta, alla frequenza del corso immediatamente successivo.
@@ -170,6 +552,24 @@ Gli ufficiali esclusi non possono partecipare ai successivi concorsi per l'ammis
 ## - Titolo IV Disposizioni varie
 
 ## Art. 24. — Titoli e brevetti
+
+1.
+                        
+                            
+                                Agli ufficiali che hanno superato il corso superiore di polizia tributaria a norma dell'articolo 19, comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' conferito il titolo «Scuola di polizia tributaria» con autorizzazione a fregiarsi dello speciale distintivo approvato con determinazione del Comandante Generale della Guardia di finanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' rilasciato uno speciale diploma a firma del Ministro dell'economia e delle finanze.
 
 ## Art. 25. — Documentazione caratteristica
 

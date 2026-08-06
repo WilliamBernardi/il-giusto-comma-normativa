@@ -8,8 +8,8 @@ codice_redazionale: 000G0151
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,35 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 Per l'ammissione ai concorsi per esami o titoli a uditore giudiziario militare e' richiesta una eta' non superiore ai quaranta anni.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Il limite di eta' di quaranta anni e' elevato:
+
+                        
+                        
+                            a)
+                            
+                                di un anno per i candidati coniugati;
+                            
+                        
+                        
+                            b)
+                            
+                                di un anno per ogni figlio vivente;
+                            
+                        
+                        
+                            c)
+                            
+                                di cinque anni per i candidati iscritti all'albo degli avvocati che abbiano conseguito l'abilitazione all'esercizio della professione forense entro il quarantesimo anno di eta';
+                            
+                        
+                        
+                            d)
+                            
+                                di un periodo pari all'effettivo servizio prestato, comunque non superiore a tre anni, a favore dei cittadini che abbiano prestato servizio militare di leva ovvero di leva prolungata, ai sensi della legge 24 dicembre 1986, n. 958, e successive modificazioni.
 
 Il limite massimo di eta' non puo' comunque superare quarantacinque anni, anche in caso di cumulo dei benefici di cui al comma l.
 

@@ -8,8 +8,8 @@ codice_redazionale: 096G0550
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -46,6 +46,52 @@ Il Servizio di controllo interno esercita le sue funzioni nei confronti dell'att
 Il Servizio di controllo interno ha, in particolare, il compito di verificare mediante proprie e autonome valutazioni comparative dei costi e dei rendimenti, la realizzazione degli obiettivi, la corretta ed economica gestione delle risorse attribuite ed introitate, nonche' l'imparzialita' ed il buon andamento dell'azione amministrativa.
 
 ## Art. 3. — Attivita' del Servizio del controllo interno
+
+1.
+                    
+                        
+                            Nell'esercizio dei suoi compiti il Servizio di controllo interno del Ministero:
+ 
+                        
+                        
+                            a)
+                            
+                                garantisce il controllo sullo stato di attuazione dei piani e dei programmi approvati, ai sensi delle vigenti disposizioni, ed in particolare, dell'art. 7 della legge 19 luglio 1993, n. 237 e degli articoli 3 e 14 del decreto legislativo 3 febbraio 1993, n. 29;
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce i modi dell'attuazione del controllo. Stabilisce tempi e modalita' di presentazione, delle relazioni che gli uffici del Ministero predispongono sullo svolgimento dei propri compiti istituzionali, le raccoglie e le elabora;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accerta la rispondenza dei risultati ottenuti alle disposizioni normative ed agli obiettivi stabiliti nelle direttive del Ministro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                verifica che l'erogazione degli emolumenti accessori ai dipendenti, avvenga nel rispetto della normativa e delle direttive del Ministro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                verifica che l'azione amministrativa del Ministero sia in tutte le sue articolazioni efficiente, efficace ed economica, nonche', imparziale e trasparente;
+
+                            
+                        
+                        
+                            f)
+                            
+                                assicura la definizione dei parametri tecnico-economici della gestione e stabilisce annualmente gli indici di riferimento del controllo esercitato.
 
 ## Art. 4. — Accesso ai documenti, acquisizione di informazione
  e attivita' di referti del Servizio di controllo interno

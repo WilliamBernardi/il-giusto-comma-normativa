@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2026-02-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,7 +33,172 @@ Il presente decreto stabilisce le modalita' di comunicazione del numero e delle 
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «addetto alla registrazione dei passeggeri»: il responsabile incaricato da una societa' di adempiere gli obblighi imposti dal codice ISM, ove applicabile, o un'altra persona incaricata da una societa' di trasmettere le informazioni relative alle persone a bordo della nave da passeggeri di sua gestione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Amministrazione»: il Ministero delle infrastrutture e dei trasporti - Comando generale del Corpo delle Capitanerie di porto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «area portuale»: un'area come definita dall'articolo 1, comma 1, lettera r), del decreto legislativo 4 febbraio 2000, n. 45; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «autorita' designata»: l'autorita' di cui all'articolo 3, comma 1, lettere a), b) e c), del decreto del Presidente della Repubblica 28 settembre 1994, n. 662; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «autorita' marittima»: gli uffici marittimi in conformita' alle attribuzioni loro conferite dall'articolo 17 del codice della navigazione, retti da ufficiali del Corpo delle Capitanerie di porto.
+Per le navi che scalano porti esteri, gli uffici marittimi in cui ha sede la societa' della nave, o, qualora all'estero, gli uffici marittimi di iscrizione delle stesse; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «Codice ISM»: il codice internazionale di gestione della sicurezza delle operazioni delle navi e per la prevenzione dell'inquinamento adottato dall'Organizzazione marittima internazionale (IMO) con risoluzione A.741 (18) del 4 novembre 1993, come emendato; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «interfaccia unica nazionale»: il sistema informativo per la gestione amministrativa delle attivita' portuali (PMIS - Port management Information System) di cui all'articolo 8, comma 10, lettera b), del decreto legge 18 ottobre 2012, n. 179; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «miglio»: la lunghezza equivalente a 1852 metri; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «nave da passeggeri»: qualsiasi nave o unita' veloce che trasporti piu' di dodici passeggeri; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «onda significativa»: l'onda media di cui all'articolo 1, comma 1, lettera bb), del decreto legislativo 4 febbraio 2000, n. 45; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «Paese terzo»: ogni Stato che non sia uno Stato membro; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «persone»: tutte le persone a bordo senza distinzione di eta'; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «raccomandatario marittimo»: il soggetto di cui all'articolo 2 della legge 4 aprile 1977, n. 135; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «servizio di linea»: una serie di collegamenti marittimi attraverso i quali si realizza un servizio tra gli stessi due o piu' porti, oppure una serie di viaggi da e verso lo stesso porto senza scali intermedi in cui si realizza una delle seguenti condizioni: 
+ 1) secondo un orario pubblicato; 
+ 2) con collegamenti cosi' regolari o frequenti da costituire una serie sistematica evidente; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                «sistema di identificazione automatica (AIS)»: il sistema di identificazione delle navi di cui all'articolo 2, comma 1, lettera q), del decreto legislativo 19 agosto 2005, n. 196; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                «societa'»: l'armatore della nave da passeggeri o qualsiasi altra persona fisica o giuridica, quali il gestore o il noleggiatore a scafo nudo, che abbiano assunto dall'armatore la responsabilita' dell'esercizio della nave; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                «SOLAS 1974»: la convenzione internazionale per la salvaguardia della vita umana in mare del 1974, resa esecutiva con legge 23 maggio 1980, n. 313; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                «unita' da diporto o unita' da diporto veloce»: un'unita' che non e' destinata ad attivita' commerciali, indipendentemente dal suo mezzo di propulsione; 
+
+                            
+                        
+                        
+                            u)
+                            
+                                «unita' veloce»: l'unita' veloce definita alla regola 1 del capitolo X della SOLAS 1974.
+
 ## Art. 3. — Ambito di applicazione
+
+1.
+                    
+                        
+                            Il presente decreto si applica alle navi da passeggeri, ad eccezione di: 
+ 
+                        
+                        
+                            a)
+                            
+                                navi militari e da trasporto truppe; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                unita' da diporto e unita' da diporto veloci; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                unita' che operano esclusivamente nelle aree portuali o nelle acque navigabili interne.
 
 ## Art. 4. — Conteggio del numero delle persone a bordo
 
@@ -44,6 +209,31 @@ Prima della partenza, il numero delle persone a bordo e' comunicato dal personal
 Prima della partenza, il comandante della nave accerta che il numero delle persone a bordo non superi la capacita' massima prevista dalla certificazione di sicurezza dell'unita'.
 
 ## Art. 5. — Informazioni sulle persone a bordo
+
+1.
+                    
+                        
+                            Sulle navi da passeggeri in partenza da porti nazionali che effettuano viaggi la cui distanza dal porto di partenza a quello di scalo successivo supera venti miglia, sono registrate le seguenti informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                cognome, nome, genere, nazionalita', data di nascita delle persone a bordo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                cure e assistenza speciali che possono essere necessarie in caso di emergenza, se richiesto dal passeggero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un numero di contatto in caso di emergenza, se richiesto dal passeggero.
 
 Le informazioni di cui al comma 1 sono raccolte prima della partenza e dichiarate, secondo quanto disposto dall'articolo 6, commi 3 e 4, nell'interfaccia unica nazionale alla partenza della nave, e comunque non oltre quindici minuti dopo la sua partenza.
 
@@ -83,6 +273,31 @@ L'Autorita' designata, in caso di emergenza o in seguito a un incidente, ha acce
 
 ## Art. 9. — Informativa
 
+1.
+                    
+                        
+                            Per mezzo del biglietto, ovvero direttamente dalla societa' che assume l'esercizio della nave, il passeggero e' informato: 
+ 
+                        
+                        
+                            a)
+                            
+                                dei motivi circa la necessita' della rilevazione dei dati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                della facolta' di indicare informazioni relative alla propria necessita' di particolari cure o assistenza in situazioni di emergenza e della circostanza che tali informazioni vengono inserite nell'interfaccia unica nazionale e trasmesse al comandante prima della partenza della nave; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                della circostanza che i dati personali vengono conservati solo per un brevissimo periodo e, in ogni caso, non oltre quanto indicato nell'articolo 12.
+
 ## Art. 10.
 
 Controlli dell'autorita' marittima
@@ -109,11 +324,63 @@ All'accertamento dei reati e delle violazioni amministrative di cui al presente 
 
 I dati personali raccolti ai sensi dell'articolo 5 sono conservati dalla societa' solo per il tempo necessario per le finalita' di cui al presente decreto e, in ogni caso, solo fino al momento in cui il viaggio della nave in questione e' completato in sicurezza e i dati sono stati dichiarati nell'interfaccia unica nazionale, anche ai fini di cui al comma 4.
 
+2.
+                    
+                        
+                            I dati personali di cui al comma 1 sono conservati dall'Amministrazione solo per il tempo necessario per le finalita' di cui al presente decreto, e comunque in uno dei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                fino al momento in cui il viaggio della nave in questione e' completato in sicurezza, ma in nessun caso oltre sessanta giorni dalla partenza della nave; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in caso di emergenza o in seguito a un incidente, fino al completamento di un'indagine o di un procedimento giudiziario.
+
 Fatto salvo quanto previsto, anche per scopi statistici, dalla normativa dell'Unione europea e nel rispetto delle previsioni contenute nel decreto legislativo 30 giugno 2003, n. 196 e nel decreto legislativo 18 maggio 2018, n. 51, i dati personali raccolti in ottemperanza alle precedenti disposizioni sono trattati e usati per le finalita' del presente decreto e le informazioni che non sono piu' necessarie a tali fini sono cancellate automaticamente e senza ritardi.
 
 I dati raccolti ai sensi dell'articolo 5 sono, altresi', utilizzati per i controlli di frontiera di cui al Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen). A tal fine, i dati sono trasferiti al Dipartimento della pubblica sicurezza del Ministero dell'interno, mediante modalita' tecniche concordate con il Ministero delle infrastrutture e dei trasporti. ((I dati trasmessi ai sensi del secondo periodo sono raccolti dal Dipartimento della pubblica sicurezza del Ministero dell'interno, in modo separato, nel sistema informativo di cui all'articolo 4 del decreto legislativo 21 maggio 2018, n. 53, e sono trattati nei termini e con le modalita' previste per i dati API ai sensi del medesimo decreto legislativo.))
 
 ## Art. 13. — Modifiche al decreto legislativo 19 agosto 2005, n. 196
+
+1.
+                    
+                        
+                            Al decreto legislativo 19 agosto 2005, n. 196, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 2, comma 1: 
+ 1) alla lettera a), il punto 13-bis) e' sostituito dal seguente: «13.bis Risoluzione A.1106(29) dell'IMO: la Risoluzione A.1106(29) del 2 dicembre 2015 dell'Organizzazione marittima internazionale recante: «Linee guida aggiornate per l'utilizzo a bordo del sistema AIS»;»; 
+ 2) dopo la lettera n), e' inserita la seguente: «n-bis) "stazione costiera": il servizio di assistenza al traffico marittimo (VTS), l'impianto a terra incaricato di gestire un sistema di rapportazione obbligatorio approvato dall'IMO o l'organismo incaricato di coordinare le operazioni di ricerca e di salvataggio o di lotta contro l'inquinamento dell'ambiente marino, designati dagli Stati membri in applicazione della direttiva 2002/59/CE del Parlamento europeo e del Consiglio, del 27 giugno 2002;»; 
+ 3) alla lettera t-duodecies), le parole «monitoraggio e controllo del traffico marittimo» sono sostituite dalle seguenti: «monitoraggio e informazione del traffico marittimo»; 
+ 4) la lettera t-terdecies) e' sostituita dalla seguente:
+«t-terdecies) "VTMIS nazionale": sistema in dotazione alle autorita' competenti di cui alla lettera n) attraverso il quale vengono espletate le attivita' di cui alla lettera t-duodecies;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 6, comma 1, dopo le parole «sistema di identificazione automatica (AIS)» sono inserite le seguenti: «di classe A»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 9-bis: 
+ 1) al comma 1, le parole «per finalita' connesse alla sicurezza della navigazione» sono soppresse; 
+ 2) il comma 3 e' sostituito dal seguente: 
+ «3. Con decreto del Ministro delle infrastrutture e dei trasporti sono fissate le procedure e le modalita' per l'erogazione dei servizi AIS da parte della rete AIS nazionale.»; 
+ 3) al comma 5, le parole «, e purche' le stesse non costituiscano reti di monitoraggio del traffico aggregando le informazioni acquisite.» sono sostituite dalle seguenti: «. In ogni caso, potranno essere autorizzate le sole trasmissioni del messaggio 21, relative agli Aids-to-Navigation di tipo fisico, di cui alla raccomandazione ITU-R M. 1371, edita dall'Unione internazionale delle telecomunicazioni. Le informazioni acquisite da stazioni non facenti parte della rete istituzionale AIS non potranno essere aggregate per costituire reti di monitoraggio del traffico marittimo.».
 
 ## Art. 14. — Clausola di invarianza finanziaria
 

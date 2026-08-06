@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2018-03-21
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:48Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,115 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per le politiche europee e del Ministro della salute, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, della difesa e per gli affari regionali e le autonomie locali;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «norma»: la prescrizione che e' assunta come base di raffronto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «specifica»: una descrizione dei criteri da rispettare per conformarsi alla norma di qualita' prescritta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «sistema» di qualita': la struttura organizzativa, le responsabilita', le procedure, i processi e le risorse necessari per attuare la gestione della qualita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                «gestione della qualita»: le attivita' coordinate per dirigere e controllare un'organizzazione sul piano della qualita' a tutti i livelli nell'ambito di un servizio trasfusionale e di un'unita' di raccolta per la parte di competenza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                «controllo della qualita»: la parte di un sistema di qualita' incentrata sul rispetto dei requisiti di qualita';
+
+                            
+                        
+                        
+                            f)
+                            
+                                «garanzia della qualita»: tutte le attivita', dalla raccolta alla distribuzione del sangue, miranti a garantire che il sangue e i suoi componenti presentino la qualita' richiesta per l'uso al quale sono destinati;
+
+                            
+                        
+                        
+                            g)
+                            
+                                «tracciabilita' inversa»: il processo consistente nell'indagare presunte reazioni avverse associate alla trasfusione in un ricevente, al fine di identificare un donatore potenzialmente implicato;
+
+                            
+                        
+                        
+                            h)
+                            
+                                «procedure scritte»: la documentazione controllata che illustra le modalita' di esecuzione di determinate operazioni;
+
+                            
+                        
+                        
+                            i)
+                            
+                                «sito mobile»: un sito temporaneo o mobile, utilizzato per la raccolta del sangue e dei suoi componenti, che si trova all'esterno di un servizio trasfusionale o dell'unita' di raccolta, ma sotto la responsabilita' tecnica del predetto servizio;
+
+                            
+                        
+                        
+                            l)
+                            
+                                «lavorazione»: una qualsiasi fase della preparazione di un emocomponente, che intervenga tra la raccolta del sangue e la consegna di tale componente;
+
+                            
+                        
+                        
+                            m)
+                            
+                                «buona prassi»: tutti gli elementi di una prassi consolidata, che insieme fanno si' che il sangue o i suoi componenti finali soddisfino sistematicamente le specifiche predefinite e siano conformi alle norme stabilite;
+
+                            
+                        
+                        
+                            n)
+                            
+                                «quarantena»: l'isolamento fisico degli emocomponenti o di materiali/reagenti ricevuti, in un arco di tempo variabile, in attesa dell'accettazione, della consegna o del ritiro degli emocomponenti o dei materiali/reagenti ricevuti;
+
+                            
+                        
+                        
+                            o)
+                            
+                                «convalida»: l'allestimento di prove documentate e obiettive comprovanti che i requisiti prestabiliti di una procedura o di un processo specifico possono essere sistematicamente soddisfatti;
+
+                            
+                        
+                        
+                            p)
+                            
+                                «qualificazione»: l'azione, facente parte della convalida, consistente nell'accertare che tutto il personale, i locali, le attrezzature o il materiale assolvono correttamente le loro funzioni e danno i risultati previsti;
+
+                            
+                        
+                        
+                            q)
+                            
+                                «sistema informatizzato»: il sistema che comprende l'immissione dei dati, l'elaborazione elettronica e la produzione di informazioni da utilizzarsi ai fini della notifica, del controllo automatico o della documentazione.
 
 ## Art. 2. — Norme e specifiche applicabili al sistema di qualita'
 

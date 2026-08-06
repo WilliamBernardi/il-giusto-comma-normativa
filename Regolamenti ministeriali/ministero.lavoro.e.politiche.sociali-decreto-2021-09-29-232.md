@@ -7,8 +7,8 @@ urn: urn:nir:ministero.lavoro.e.politiche.sociali:decreto:2021-09-29;232
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,24 @@ A decorrere dall'esercizio 2020 il finanziamento dell'attivita' svolta dagli Ist
 ## Art. 2.
 
 Ai fini della ripartizione e della successiva erogazione del finanziamento di cui all'articolo 1, agli interventi svolti dagli Istituti di patronato per RdC e per PdC e' attribuito esclusivamente il punteggio attivita', previsto al numero 8 della Tab. D allegata al decreto ministeriale 10 ottobre 2008, n. 193, di seguito denominato «decreto», pari a 4 punti, e non anche il punteggio di cui all'articolo 8, comma 1, del decreto.
+
+2.
+                    
+                        
+                            Fermo restando il rispetto dei requisiti organizzativi fissati dall'articolo 7 del decreto, come accertati ai sensi del successivo articolo 8, comma 4, l'assegnazione agli Istituti di patronato del punteggio di cui al comma 1 e' subordinata a condizione che gli interventi: 
+ 
+                        
+                        
+                            a)
+                            
+                                siano definiti positivamente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano prestati a seguito di rilascio di apposito mandato di assistenza da parte del richiedente. A tale proposito si applicano le disposizioni di cui all'articolo 4 del decreto.
 
 In fase di attribuzione del punteggio di cui al comma 1 non si applica il meccanismo di premialita'/penalizzazione di cui all'articolo 12, comma 1, del decreto.
 

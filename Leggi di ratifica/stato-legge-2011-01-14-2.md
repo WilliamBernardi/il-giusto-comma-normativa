@@ -8,8 +8,8 @@ codice_redazionale: 011G0021
 vigente: true
 source: normattiva-opendata
 collection: Leggi di ratifica
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:43:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE
@@ -40,6 +40,45 @@ Piena ed intera esecuzione e' data al Protocollo di cui all'articolo 1, a decorr
 Il seggio supplementare del Parlamento europeo, spettante all'Italia fino al termine della legislatura 2009-2014, e' assegnato in conformita' all'articolo 2, paragrafo 2, lettera b), del Protocollo sulle disposizioni transitorie allegato al Trattato sull'Unione europea, al Trattato sul funzionamento dell'Unione europea e al Trattato che istituisce la Comunita' europea dell'energia atomica, come sostituito dal Protocollo di cui all'articolo 1 della presente legge, mediante l'utilizzazione dei risultati delle elezioni svoltesi il 6 e il 7 giugno 2009.
 
 ## Art. 4. — Procedura per l'assegnazione del seggio supplementare
+
+1.
+                    
+                        
+                            Al fine dell'assegnazione del seggio supplementare spettante all'Italia, l'Ufficio elettorale nazionale, costituito ai sensi dell'articolo 8 della legge 24 gennaio 1979, n. 18, e successive modificazioni, sulla base dei risultati delle elezioni dei membri del Parlamento europeo spettanti all'Italia svoltesi il 6 e il 7 giugno 2009: 
+ 
+                        
+                        
+                            a)
+                            
+                                assegna il seggio alla lista che risulta aver ottenuto, a seguito dell'operazione di cui all'articolo 21, primo comma, numero 2), sesto periodo, della citata legge n. 18 del 1979, e successive modificazioni, il maggior resto che non ha dato luogo all'assegnazione di alcun seggio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attribuisce il seggio assegnato ai sensi della lettera a) del presente comma nella circoscrizione in cui la lista di cui alla medesima lettera a) risulta aver ottenuto, a seguito dell'operazione di cui all'articolo 21, primo comma, numero 3), quinto periodo, della citata legge n. 18 del 1979, il maggior resto che non ha dato luogo all'assegnazione di alcun seggio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                proclama eletto il candidato che segue l'ultimo dei candidati proclamati eletti nella graduatoria di cui all'articolo 20, primo comma, numero 4), della citata legge n. 18 del 1979; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                redige apposito verbale di tutte le operazioni in quattro esemplari: il primo esemplare e' rimesso alla segreteria del Parlamento europeo, la quale ne rilascia ricevuta; il secondo esemplare e' depositato nella cancelleria della Corte di cassazione; il terzo esemplare e' depositato nella cancelleria della corte d'appello sede dell'ufficio elettorale circoscrizionale della circoscrizione nella quale e' individuato il seggio supplementare; il quarto esemplare e' trasmesso alla prefettura - ufficio territoriale del Governo della provincia nel cui territorio ha sede l'ufficio elettorale circoscrizionale della medesima circoscrizione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                invia attestato al candidato proclamato eletto e cura che il nominativo del candidato eletto sia portato a conoscenza del pubblico, mediante pubblicazione nella Gazzetta Ufficiale.
 
 Gli adempimenti di cui al comma 1 devono essere completati nel termine di quindici giorni dalla data di entrata in vigore della presente legge.
 

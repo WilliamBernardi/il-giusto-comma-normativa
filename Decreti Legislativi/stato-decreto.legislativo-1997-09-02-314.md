@@ -8,8 +8,8 @@ codice_redazionale: 097G0343
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,28 @@ Nell'articolo 46 del testo unico delle imposte sui redditi, approvato con decret
  b) le somme di cui all'art. 429, ultimo comma, del codice di procedura civile.".
 
 ## Art. 2. — Redditi assimilati a quelli di lavoro dipendente
+
+1.
+                    
+                        
+                            All'articolo 47 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, concernente i redditi assimilati a quelli di lavoro dipendente, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel comma 1:
+ 1) la lettera e) e' sostituita dalla seguente: "e) i compensi per l'attivita' libero professionale intramuraria del personale dipendente del Servizio sanitario nazionale, del personale di cui all'articolo 102 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382 e del personale di cui all'articolo 6, comma 5,del decreto legislativo 30 dicembre 1992, n. 502 e successive modificazioni, nei limiti e alle condizioni di cui all'articolo 1, comma 7, della legge 23 dicembre 1996, n. 662;";
+ 2) nella lettera f) dopo le parole "pubbliche funzioni", sono inserite le seguenti: "nonche' i compensi corrisposti ai membri delle commissioni tributarie, ai giudici di pace e agli esperti del Tribunale di sorveglianza,";
+ 3) nella lettera g) sono aggiunte, in fine, le seguenti parole: "nonche' i conseguenti assegni vitalizi percepiti in dipendenza dalla cessazione delle suddette cariche elettive e funzioni e l'assegno del Presidente della Repubblica;";
+ 4) la lettera l) e' sostituita dalla seguente: "l) i compensi percepiti dai soggetti impegnati in lavori socialmente utili in conformita' a specifiche disposizioni normative.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel comma 3, le parole: "lettere f), g), h) e i) del comma 1" sono sostituite dalle seguenti: "lettere e), f), g), h) e i) del comma 1".
 
 ## Art. 3. — Determinazione del reddito di lavoro dipendente
 
@@ -70,6 +92,50 @@ Nel testo unico delle imposte sui redditi, approvato con decreto del Presidente 
 ## Art. 5. — Altre disposizioni in materia di redditi
  da lavoro dipendente
 
+1.
+                    
+                        
+                            Al testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'articolo 3, comma 3, recante l'elencazione dei redditi e degli assegni esclusi dalla base imponibile:
+ 1) la lettera c), concernente i redditi da lavoro dipendente prodotti all'estero, e' abrogata;
+ 2) la lettera d), riguardante gli assegni familiari, e' sostituita dalla seguente: "d) gli assegni familiari e l'assegno per il nucleo familiare, nonche', con gli stessi limiti e alle medesime condizioni, gli emolumenti per carichi di famiglia comunque denominati, erogati nei casi consentiti dalla legge.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'articolo 10, comma 1, riguardante gli oneri deducibili dal reddito complessivo, dopo la lettera d), e' aggiunta la seguente:
+"d-bis) le somme restituite al soggetto erogatore, se hanno concorso a formare il reddito in anni precedenti;";
+
+                            
+                        
+                        
+                            c)
+                            
+                                all'articolo 16, comma 1, recante l'elencazione dei redditi soggetti a tassazione separata, nella lettera b), le parole da: "di cui alle lettere a) e g) del comma 1 dell'articolo 47" fino alla fine della lettera, sono sostituite dalle seguenti: "di cui al comma 1 dell'articolo 47 e al comma 2 dell'articolo 46";
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'articolo 17, riguardante l'indennita' di fine rapporto:
+ 1) il comma 4, e' sostituito dal seguente: "4. Sulle anticipazioni e sugli acconti relativi al trattamento di fine rapporto e alle indennita' equipollenti, nonche' sulle anticipazioni relative alle altre indennita' e somme, l'imposta si applica, rispettivamente, a norma dei commi 1 e 2, salvo conguaglio all'atto della liquidazione definitiva.";
+ 2) dopo il comma 4, e' aggiunto il seguente: "4-bis. Per le somme corrisposte in occasione della cessazione del rapporto al fine di incentivare l'esodo dei lavoratori che abbiano superato l'eta' di 50 anni se donne e di 55 anni se uomini, di cui all'articolo 16, comma 1, lettera a), l'imposta si applica con l'aliquota pari alla meta' di quella applicata per la tassazione del trattamento di fine rapporto e delle altre indennita' e somme indicate alla richiamata lettera a) del comma 1 dell'articolo 16.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                all'articolo 62, riguardante la deduzione dal reddito d'impresa delle spese per prestazioni di lavoro, nel comma 1-bis), secondo periodo, le parole: "a norma dell'articolo 48, comma 3" sono sostituite dalle seguenti: "a norma dell'articolo 48, comma 4, lettera c)".
+
 La disposizione di cui al comma 1, lettera a), numero 1), ha effetto a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 2000. Fino alla predetta data restano in vigore le disposizioni fiscali e previdenziali concernenti i redditi derivanti da lavoro dipendente prestato all'estero in via continuativa e come oggetto esclusivo del rapporto.
 
 ## Art. 6. — Determinazione del reddito da lavoro dipendente
@@ -100,6 +166,78 @@ Per il 1998, ai fini del calcolo dei contributi di previdenza e assistenza socia
 
 ## Art. 7. — Modificazioni alle norme in materia di accertamento
  delle imposte sui redditi da lavoro dipendente
+
+1.
+                    
+                        
+                            Al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, recante disposizioni comuni in materia di accertamento delle imposte sui redditi, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nel quarto comma dell'articolo 1, concernente i soggetti esonerati dall'obbligo della dichiarazione, la lettera c) e' sostituita dalla seguente: "c) le persone fisiche non obbligate alla tenuta di scritture contabili che possiedono soltanto redditi esenti, redditi soggetti a ritenuta alla fonte a titolo di imposta, reddito fondiario dell'abitazione principale e sue pertinenze purche' di importo non superiore a quello della deduzione di cui all'articolo 34, comma 4-quater, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, nonche' altri redditi per i quali la differenza tra l'imposta lorda complessiva e l'ammontare spettante delle detrazioni di cui agli articoli 12 e 13 del citato testo unico, e le ritenute operate risulta non superiore a lire 20 mila. Tuttavia detti contribuenti, ai fini della scelta della destinazione dell'8 per mille dell'imposta sul reddito delle persone fisiche prevista dall'articolo 47 della legge 20 maggio 1985, n. 222, e dalle leggi che approvano le intese con le confessioni religiose di cui all'articolo 8, comma 3, della Costituzione, possono presentare apposito modello, approvato con il decreto di cui all'articolo 8, comma 1, ovvero con il certificato di cui all'articolo 7-bis, con le modalita' previste dall'articolo 12 ed entro il termine stabilito per la presentazione della dichiarazione dei redditi;"; nel medesimo comma le lettere d), e) ed e-bis) sono abrogate; nel medesimo articolo il quinto comma e' abrogato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 7-bis, riguardante le certificazioni dei sostituti d'imposta, e' sostituito dal seguente:
+ "Art. 7-bis (Certificazioni dei sostituti d'imposta). - 1. I soggetti indicati nel titolo III del presente decreto che corrispondono somme e valori soggetti a ritenute alla fonte secondo le disposizioni dello stesso titolo devono rilasciare una apposita certificazione unica anche ai fini dei contributi dovuti all'Istituto nazionaleper la previdenza sociale (INPS) attestante l'ammontare complessivo delle dette somme e valori, l'ammontare delle ritenute operate, delle detrazioni di imposta effettuate e dei contributi previdenziali e assistenziali, nonche' gli altri dati stabiliti con il decreto di cui all'articolo 8, comma 1, secondo periodo. La certificazione e' unica anche ai fini dei contributi dovuti agli altri enti e casse previdenziali; con decreto del Ministro delle finanze, emanato di concerto con i Ministri del tesoro e del lavoro e della previdenza sociale, sono stabilite le relative modalita' di attuazione. La certificazione unica sostituisce quelle previste ai fini contributivi.
+ 2. I certificati, sottoscritti anche mediante sistemi di elaborazione automatica, sono consegnati agli interessati entro il mese di febbraio dell'anno successivo a quello in cui le somme e i valori sono stati corrisposti ovvero entro dodici giorni dalla richiesta degli stessi in caso di interruzione del rapporto di lavoro. Nelle ipotesi di cui all'articolo 27 il certificato puo' essere sostituito dalla copia della comunicazione prevista dagli articoli 7, 8, 9 e 11 della legge 29 dicembre 1962, n. 1745.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 21, riguardante le scritture contabili dei sostituti d'imposta, e' sostituito dal seguente:
+ "Art. 21 (Scritture contabili dei sostituti d'imposta). - 1. I soggetti indicati nel terzo comma dell'articolo 13 devono indicare, per ciascun dipendente, nel libro matricola o in altri libri obbligatori tenuti ai sensi della vigente legislazione sul lavoro, le detrazioni di cui agli articoli 12 e 13 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, attribuite in base alla richiesta del dipendente effettuata a norma dell'articolo 23. Le somme e i valori corrisposti a ciascun dipendente devono risultare dal libro paga o da documenti equipollenti tenuti ai sensi della vigente legislazione sul lavoro.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 23, riguardante l'effettuazione delle ritenute sui redditi di lavoro dipendente, e' sostituito dal seguente:
+ "Art. 23 (Ritenute sui redditi di lavoro dipendente). - 1. Gli enti e le societa' indicati nell'articolo 87, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, le societa' e associazioni indi- cate nell'articolo 5 del predetto testo unico e le persone fisiche che esercitano imprese commerciali, ai sensi dell'articolo 51 del citato testo unico, o imprese agricole, i quali corrispondono somme e valori di cui all'articolo 48 dello stesso testo unico, devono operare all'atto del pagamento una ritenuta a titolo di acconto dell'imposta sul reddito delle persone fisiche dovuta dai percipienti, con obbligo di rivalsa. Nel caso in cui la ritenuta da operare sui predetti valori non trovi capienza, in tutto o in parte, sui contestuali pagamenti in denaro, il sostituito e' tenuto a versare al sostituto l'importo corrispondente all'ammontare della ritenuta.
+ 2. La ritenuta da operare e' determinata:
+ a) sulla parte imponibile delle somme e dei valori, di cui all'articolo 48 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, esclusi quelli indicati alle successive lettere b) e c), corrisposti in ciascun periodo di paga, con le aliquote dell'imposta sul reddito delle persone fisiche, ragguagliando al periodo di paga i corrispondenti scaglioni annui di reddito ed effettuando le detrazioni previste negli articoli 12 e 13, del citato testo unico, rapportate al periodo stesso. Le detrazioni di cui agli articoli 12 e 13, del citato testo unico sono effettuate se il percipiente dichiara di avervi diritto, indica le condizioni di spettanza e si impegna a comunicare tempestivamente le eventuali variazioni. La dichiarazione ha effetto anche per i periodi di imposta successivi;
+ b) sulle mensilita' aggiuntive e sui compensi della stessa natura, con le aliquote dell'imposta sul reddito delle persone fisiche, ragguagliando a mese i corrispondenti scaglioni annui di reddito;
+ c) sugli emolumenti arretrati relativi ad anni precedenti di cui all'articolo 16, comma 1, lettera b), del citato testo unico, con i criteri di cui all'articolo 18, dello stesso testo unico, intendendo per reddito complessivo netto l'ammontare globale dei redditi di lavoro dipendente corrisposti dal sostituto al sostituito nel biennio precedente;
+ d) sulla parte imponibile del trattamento di fine rapporto e delle indennita' equipollenti e delle altre indennita' e somme di cui all'articolo 16, comma 1, lettera a), del citato testo unico con i criteri di cui all'articolo 17 dello stesso testo unico;
+ e) sulla parte imponibile delle somme e dei valori di cui all'articolo 48, del citato testo unico, non compresi nell'articolo 16, comma 1, lettera a), dello stesso testo unico, corrisposti agli eredi del lavoratore dipendente, con l'aliquota stabilita per il primo scaglione di reddito.
+ 3. I soggetti indicati nel comma 1 devono effettuare, entro il 28 febbraio dell'anno successivo e, in caso di cessazione del rapporto di lavoro, alla data di cessazione, il conguaglio tra le ritenute op- erate sulle somme e i valori di cui alle lettere a) e b) del comma 2, nonche' sui compensi e le indennita' di cui all'articolo 47, comma 1, lettera b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, comunicati al sostituto entro il 12 gennaio dell'anno successivo, e l'imposta dovuta sull'ammontare complessivo degli emolumenti stessi, tenendo conto delle detrazioni di cui agli articoli 12 e 13, del citato testo unico, e di quelle eventualmente spettanti a norma dell'articolo 13-bis dello stesso testo unico per oneri a fronte dei quali il datore di lavoro ha effettuato trattenute, nonche', limitatamente agli oneri di cui alle lettere c) e f) dello stesso articolo, per erogazioni in conformita' acontratti collettivi o ad accordi e regolamenti aziendali. In caso di incapienza delle retribuzioni a subire il prelievo delle imposte dovute in sede di conguaglio di fine anno entro il 28 febbraio dell'anno successivo, il sostituito puo' dichiarare per iscritto al sostituto di volergli versare l'importo corrispondente alle ritenute ancora dovute, ovvero, di autorizzarlo a effettuare il prelievo sulle retribuzioni dei periodi di paga successivi al secondo dello stesso periodo di imposta. Sugli importi di cui e' differito il pagamento si applica l'interesse in ragione dell'1 per cento mensile, che e' trattenuto e versato nei termini e con le modalita' previste per le somme cui si riferisce. L'importo che al termine del periodo d'imposta non e' stato trattenuto per cessazione del rapporto di lavoro o per incapienza delle retribuzioni deve essere comunicato all'interessato che deve provvedere al versamento entro il 15 gennaio dell'anno successivo. Qualora le comunicazioni delle indennita' e dei compensi di cui all'articolo 47, comma 1, lettera b), del citato testo unico pervengano al sostituto oltre il termine del 12 gennaio del periodo d'imposta successivo, di esse lo stesso terra' conto ai fini delle operazioni di conguaglio del periodo d'imposta successivo. Se alla formazione del reddito di lavoro dipendente concorrono somme o valori prodotti all'estero le imposte ivi pagate a titolo definitivo sono ammesse in detrazione fino a concorrenza dell'imposta relativa ai predetti redditi prodotti all'estero. La disposizione del periodo precedente si applica anche nell'ipotesi in cui le somme o i valori prodotti all'estero abbiano concorso a formare il reddito di lavoro dipendente in periodi d'imposta precedenti. Se concorrono redditi prodotti in piu' Stati esteri la detrazione si applica separatamente per ciascuno Stato.
+ 4. Ai fini del compimento delle operazioni di conguaglio di fine anno il sostituito puo' chiedere al sostituto di tenere conto anche dei redditi di lavoro dipendente, o assimilati a quelli di lavoro dipendente, percepiti nel corso di precedenti rapporti intrattenuti.
+A tal fine il sostituito deve consegnare al sostituto d'imposta, entro il 12 del mese di gennaio del periodo d'imposta successivo a quello in cui sono stati percepiti, la certificazione unica concernente i redditi di lavoro dipendente, o assimilati a quelli di lavoro dipendente, erogati da altri soggetti, compresi quelli erogati da soggetti non obbligati ad effettuare le ritenute. Alla consegna della suddetta certificazione unica il sostituito deve anche comunicare al sostituto quale delle opzioni previste al comma precedente intende adottare in caso di incapienza delle retribuzioni a subire il prelievo delle imposte. La presente disposizione non si applica ai soggetti che corrispondono trattamenti pensionistici.
+ 5. Le disposizioni dei precedenti commi si applicano anche alle persone fisiche che esercitano arti e professioni, ai sensi dell'articolo 49, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, quando corrispondono somme e valori di cui all'articolo 48, dello stesso testo unico, deducibili ai fini della determinazione del loro reddito di lavoro autonomo.".
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'articolo 24, concernente l'effettuazione della ritenuta sui redditi assimilati a quelli di lavoro dipendente, e' sostituito dal seguente:
+ "Art. 24 (Ritenuta sui redditi assimilati a quelli di lavoro dipendente). - 1. I soggetti indicati nel comma 1, dell'articolo 23, che corrispondono redditi di cui all'articolo 47, comma 1, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, devono operare all'atto del pagamento degli stessi, con obbligo di rivalsa, una ritenuta a titolo di acconto dell'imposta sul reddito delle persone fisiche sulla parte imponibile di detti redditi, determinata a norma dell'articolo 48-bis del predetto testo unico. Nel caso in cui la ritenuta da operare sui predetti redditi non trovi capienza, in tutto o in parte, sui contestuali pagamenti in denaro, il sostituito e' tenuto a versare al sostituto l'importo corrispondente all'ammontare della ritenuta. Si applicano, in quanto compatibili, tutte le disposizioni dell'articolo 23 e, in particolare, i commi 2, 3 e 4.
+ 2. Ai fini del conguaglio di cui al comma 3 dell'articolo 23, i soggetti che corrispondono le indennita' e i compensi di cui all'articolo 47, comma 1, lettera b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, devono comunicare, entro il 12 di gennaio del periodo d'imposta successivo, al datore di lavoro del percipiente, l'ammontare delle somme corrisposte, delle ritenute effettuate e dei relativi contributi.";
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'articolo 29, concernente l'effettuazione dalla ritenuta sui compensi e altri redditi corrisposti dallo Stato, e' sostituito dal seguente:
+ "Art. 29 (Ritenuta sui compensi e altri redditi corrisposti dallo Stato). - 1. Le amministrazioni dello Stato, comprese quelle con ordinamento autonomo, che corrispondono le somme e i valori di cui all'articolo 23, devono effettuare all'atto del pagamento una ritenuta diretta in acconto dell'imposta sul reddito delle persone fisiche dovuta dai percipienti. La ritenuta e' operata con le seguenti modalita':
+ a) sulla parte imponibile delle somme e dei valori, di cui all'articolo 48, del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, esclusi quelli indicati alle successive lettere b) e c), aventi carattere fisso e continuativo, con i criteri e le modalita' di cui al comma 2 dell'articolo 23;
+ b) sulle mensilita' aggiuntive e sui compensi della stessa natura, nonche' su ogni altra somma o valore diversi da quelli di cui alla lettera a) e sulla parte imponibile delle indennita' di cui all'articolo 48, commi 5, 6, 7 e 8, del citato testo unico, con la aliquota applicabile allo scaglione di reddito piu' elevato della categoria o classe di stipendio del percipiente all'atto del pagamento o, in mancanza, con l'aliquota del primo scaglione di reddito;
+ c) sugli emolumenti arretrati relativi ad anni precedenti di cui all'articolo 16, comma 1, lettera b), del citato testo unico, con i criteri di cui all'articolo 18, dello stesso testo unico, intendendo per reddito complessivo netto l'ammontare globale dei redditi di lavoro dipendente corrisposti dal sostituto al sostituito nel biennio precedente;
+ d) sulla parte imponibile del trattamento di fine rapporto e delle indennita' equipollenti e delle altre indennita' e somme di cui all'articolo 16, comma 1, lettera a), del citato testo unico con i criteri di cui all'articolo 17, dello stesso testo unico;
+ e) sulla parte imponibile delle somme e valori di cui all'articolo 48, del citato testo unico, non compresi nell'articolo 16, comma 1, lettera a), dello stesso testo unico, corrisposti agli eredi, con l'aliquota stabilita per il primo scaglione di reddito.
+ 2. Gli uffici che dispongono il pagamento di emolumenti aventi carattere fisso e continuativo devono effettuare entro il 28 febbraio o entro due mesi dalla data di cessazione del rapporto, se questa e' anteriore all'anno, il conguaglio di cui al comma 3 dell'articolo 23, con le modalita' in esso stabilite. A tal fine, all'inizio del rapporto, il sostituito deve specificare quale delle opzioni previste al comma 2 dell'articolo 23 intende adottare in caso di incapienza delle retribuzioni a subire il prelievo delle imposte. Ai fini delle operazioni di conguaglio i soggetti e gli altri organi che corrispondono compensi e retribuzioni non aventi carattere fisso e continuativo devono comunicare ai predetti uffici, entro la fine dell'anno e, comunque, non oltre il 12 gennaio dell'anno successivo, l'ammontare delle somme corrisposte, l'importo degli eventuali contributi previdenziali e assistenziali, compresi quelli a carico del datore di lavoro e le ritenute effettuate. Per le somme e i valori a carattere ricorrente la comunicazione deve essere effettuata su supporto magnetico secondo specifiche tecniche approvate con apposito decreto del Ministro del tesoro, di concerto con il Ministro delle finanze. Qualora, alla data di cessazione del rapporto di lavoro, l'ammontare degli emolumenti dovuti non consenta la integrale applicazione della ritenuta di conguaglio, la differenza e' recuperata mediante ritenuta sulle competenze di altra natura che siano liquidate anche da altro soggetto in dipendenza del cessato rapporto di lavoro. Si applicano anche le disposizioni dell'articolo 23, comma 4.
+ 3. Le amministrazioni della Camera dei deputati, del Senato e della Corte costituzionale, nonche' della Presidenza della Repubblica e degli organi legislativi delle regioni a statuto speciale, che corrispondono le somme e i valori di cui al comma 1, effettuano, all'atto del pagamento, una ritenuta d'acconto dell'imposta sul reddito delle persone fisiche con i criteri indicati nello stesso comma. Le medesime amministrazioni, all'atto del pagamento delle indennita' e degli assegni vitalizi di cui all'articolo 47, comma 1, lettera g), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, applicano una ritenuta a titolo di acconto dell'imposta sul reddito delle persone fisiche, commisurata alla parte imponibile di dette indennita' e assegni, con le aliquote determinate secondo i criteri indicati nel comma 1. Si applicano le disposizioni di cui al comma 2.
+ 4. Nel caso in cui la ritenuta da operare sui valori di cui ai commi precedenti non trovi capienza, in tutto o in parte, sui contestuali pagamenti in denaro, il sostituito e' tenuto a versare al sostituto l'importo corrispondente all'ammontare della ritenuta.
+ 5. Le amministrazioni di cui al comma 1, e quelle di cui al comma 3, che corrispondono i compensi e le altre somme di cui agli articoli 24, 25, 25-bis e 28 effettuano all'atto del pagamento le ritenute stabilite dalle disposizioni stesse.".
 
 ## Art. 8. — Disposizioni in materia di titolari
  di piu' trattamenti pensionistici

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2015-10-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,6 +41,31 @@ Anche ai fini delle necessarie misure di sicurezza e per la durata del mandato, 
 
 ## Art. 3. — Esclusione dell'assegnazione
 
+1.
+                    
+                        
+                            Gli alloggi non possono essere assegnati a coloro che: 
+ 
+                        
+                        
+                            a)
+                            
+                                siano titolari di un diritto di piena proprieta' o di un diritto reale di godimento ovvero assegnatari in cooperativa, ancorche' indivisa, di un'abitazione ubicata nell'ambito del comune ove prestano servizio o dei comuni limitrofi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano assegnatari o concessionari di un alloggio a canone agevolato, da parte di enti di diritto pubblico o privato o da parte di amministrazioni pubbliche, ubicato nell'ambito del comune ove prestano servizio o dei comuni limitrofi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                abbiano un familiare o altra persona stabilmente convivente nelle condizioni sopraindicate.
+
 ## Art. 4. — Organi competenti all'assegnazione
 
 Presso le sedi territoriali, l'assegnazione degli alloggi al personale della Polizia di Stato fino alla qualifica di primo dirigente e' disposta, su proposta del Questore, con provvedimento del Direttore del Servizio tecnico-logistico e patrimoniale della Polizia di Stato competente; l'assegnazione degli alloggi al personale della Polizia di Stato con la qualifica di dirigente superiore e di dirigente generale e' disposta con provvedimento del Direttore centrale dei servizi tecnico-logistici e della gestione patrimoniale.
@@ -52,6 +77,84 @@ Presso il Dipartimento della pubblica sicurezza, l'assegnazione degli alloggi e'
 La disciplina del rapporto tra Amministrazione della pubblica sicurezza ed assegnatario e' oggetto dell'atto di assegnazione, comprese le prescrizioni per il godimento dell'immobile.
 
 ## Art. 6. — Oneri
+
+1.
+                    
+                        
+                            Sono a carico degli utenti degli alloggi i seguenti oneri: 
+ 
+                        
+                        
+                            a)
+                            
+                                le spese per le piccole riparazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le spese per i danni prodotti o causati da colpa, negligenza o cattivo uso dell'alloggio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le spese per i consumi relativi all'alloggio per la fornitura di acqua, di energia elettrica e di riscaldamento, nonche' gli oneri per lo smaltimento dei rifiuti urbani; ove l'alloggio insista su un edificio comune, le spese per i consumi sono pro-quota; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le spese per l'ordinaria manutenzione non rientranti tra quelle previste dal comma 2; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli oneri accessori di cui all'articolo 9 della legge 27 luglio 1978, n. 392; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ogni ulteriore onere per le utenze riconducibili all'alloggio in uso.
+
+2.
+                    
+                        
+                            Salvo che l'immobile sia di proprieta' privata, sono a carico dell'Amministrazione della pubblica sicurezza le spese relative a: 
+ 
+                        
+                        
+                            a)
+                            
+                                impianti per la sicurezza, per la prevenzione infortuni e servizi antincendio previsti dalla normativa vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                illuminazione delle strade d'accesso, dei cortili e delle aree di transito; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                imposte, tasse ed assicurazioni relative agli immobili e agli impianti connessi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esecuzione dei lavori concernenti la stabilita' e la straordinaria manutenzione.
 
 Per quanto non espressamente previsto, si applicano le disposizioni contenute nel codice civile, articoli 1609 e seguenti.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2013-12-24;166
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -44,6 +44,32 @@ Le disposizioni del presente decreto non si applicano alle societa' emittenti st
 
 Classificazione delle societa' 
  per fasce di complessita'
+
+1.
+                    
+                        
+                            Le societa' alle quali e' applicabile il presente decreto sono classificate in tre fasce, determinate sulla base di indicatori dimensionali quantitativi, volti a valutare la complessita' organizzativa e gestionale e le dimensioni economiche delle stesse societa'. Tali indicatori - da desumere dai bilanci approvati, consolidati ove esistenti - sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                «valore della produzione»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «investimenti»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «numero dei dipendenti». 
+ Relativamente a tali indicatori, si fa riferimento al valore medio degli ultimi tre esercizi.
 
 Sulla base degli indicatori di cui al comma 1, le fasce sono cosi' individuate, tenendo presente, per le fasce n. 1 e n. 2, la necessita' del superamento della soglia per tutti i parametri: 
  

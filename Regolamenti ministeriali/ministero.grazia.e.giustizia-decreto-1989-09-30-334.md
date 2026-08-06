@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2002-07-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -38,7 +38,82 @@ I registri sono tenuti in luogo non accessibile al pubblico e possono essere con
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            Nella formazione dei fascicoli si osservano le disposizioni seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                gli atti e le produzioni sono inseriti nel fascicolo in ordine cronologico a cura della cancelleria o segreteria, che provvede alla numerazione delle singole pagine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la copertina del fascicolo deve contenere le generalita' della persona a cui e' attribuito il reato nonche' la data e il numero della iscrizione della notizia di reato nel registro previsto dall'art. 335 del codice.
+
+2.
+                    
+                        
+                            Il fascicolo deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                l'indice degli atti e delle produzioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elenco delle cose sequestrate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la distinta delle spese anticipate dall'erario, diverse da quelle per le quali e' stabilito il recupero in misura fissa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la copia della sentenza o del decreto penale di condanna.
+
 ## Art. 4.
+
+1.
+                    
+                        
+                            Le comunicazioni previste dall'art. 157 commi 3 e 8 del codice sono spedite in plico chiuso e contengono:
+ 
+                        
+                        
+                            a)
+                            
+                                il nome del destinatario della notificazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la indicazione della natura dell'atto notificato e del luogo della notificazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la data e la firma dell'ufficiale giudiziario.
 
 Ricorrendone le ipotesi, le comunicazioni contengono altresi' la indicazione del giudice o del pubblico ministero che ha emesso il provvedimento notificato nonche' del luogo e della data di comparizione.
 
@@ -139,6 +214,38 @@ E' in ogni caso data precedenza ai dibattimenti con imputati in custodia cautela
 
 L'ufficiale giudiziario o chi ne esercita le funzioni deve trovarsi nell'aula prima che cominci l'udienza. Quando il giudice entra nell'aula di udienza ne da' l'annuncio ad alta voce e quando il giudice si ritira in camera di consiglio resta nell'aula agli ordini del pubblico ministero.
 
+2.
+                    
+                        
+                            Durante l'udienza l'ufficiale giudiziario o chi ne esercita le funzioni deve:
+ 
+                        
+                        
+                            a)
+                            
+                                impedire qualunque comunicazione tra i testimoni esaminati e quelli da esaminare nonche' fra questi ultimi e gli estranei;
+
+                            
+                        
+                        
+                            b)
+                            
+                                vigilare perche' i testimoni non assistano al dibattimento prima di essere esaminati;
+
+                            
+                        
+                        
+                            c)
+                            
+                                curare che siano osservate le disposizioni dell'art. 471 del codice e impedire che sia turbato l'ordine dell'udienza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                eseguire gli ordini del presidente o, in sua assenza, del pubblico ministero.
+
 ## Art. 22. — (( ARTICOLO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115 ))
 
 
@@ -174,6 +281,45 @@ Allo stesso modo si procede quando la legge stabilisce che l'impugnazione non so
 Il pubblico ministero promuove senza ritardo l'esecuzione del provvedimento.
 
 ## Art. 29.
+
+1.
+                    
+                        
+                            Per l'esecuzione delle sentenze e dei decreti di condanna la segreteria del pubblico ministero procede ai seguenti adempimenti:
+ 
+                        
+                        
+                            a)
+                            
+                                eseguiti i necessari accertamenti, iscrive ciascuna sentenza di condanna a pene detentive nel registro delle esecuzioni; le sentenze di condanna a pene pecuniarie o a sanzioni sostitutive, i decreti di condanna nonche' le sentenze di condanna a pene detentive la cui esecuzione e' sospesa sono iscritti nel registro delle esecuzioni nel caso di conversione in pena detentiva o di revoca della sospensione. Con l'iscrizione e' annotato il provvedimento con il quale e' stata promossa l'esecuzione della sentenza o del decreto di condanna;
+
+                            
+                        
+                        
+                            b)
+                            
+                                forma un fascicolo con un numero progressivo corrispondente a quello del registro, nel quale sono raccolti l'estratto indicato nell'art. 28, il certificato del casellario giudiziale riguardante il condannato, i dati acquisiti presso il servizio informatico previsto dall'art. 97 del decreto legislativo 28 luglio 1989, n. 271 nonche' copia degli atti del procedimento di grazia e dei provvedimenti emessi dall'autorita' giudiziaria in sede di esecuzione. Di tutti gli atti viene formato un indice;
+
+                            
+                        
+                        
+                            c)
+                            
+                                sottopone al pubblico ministero il fascicolo, anche per l'adozione dei provvedimenti previsti dagli articoli 657 e 663 del codice;
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasmette al direttore dell'istituto penitenziario dove si trova il condannato un foglio, sottoscritto dal pubblico ministero, con l'indicazione della quantita' di pena da eseguire e della data in cui termina l'esecuzione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                comunica al direttore predetto ogni successivo provvedimento che incida sull'esecuzione della pena.
 
 ## Art. 30. — (( ARTICOLO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115 ))
 

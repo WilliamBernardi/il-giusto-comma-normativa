@@ -8,8 +8,8 @@ codice_redazionale: 004G0101
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,45 @@ In attuazione dell'articolo 3 dello Statuto speciale per la Sardegna, sono trasf
 Resta ferma in capo allo Stato la funzione di elaborazione e coordinamento delle linee di politica agricola, agroindustriale e forestale, in coerenza con quella comunitaria e le competenze espressamente riservate allo Stato, che vengono indicate nell'articolo 2.
 
 ## Art. 2. — Funzioni e compiti dello Stato
+
+1.
+                    
+                        
+                            Sono riservati allo Stato i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                riconoscimento e sostegno delle unioni, delle associazioni nazionali e degli organismi nazionali di certificazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                accordi interprofessionali di dimensione nazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                prevenzione e repressione delle frodi nella preparazione e nel commercio dei prodotti agroalimentari e ad uso agrario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                raccolta, elaborazione e diffusione di dati e informazioni a livello nazionale, anche ai fini del Sistema statistico nazionale e del rispetto degli obblighi comunitari;
+
+                            
+                        
+                        
+                            e)
+                            
+                                ricerca e sperimentazione, svolte da istituti e laboratori nazionali.
 
 Lo Stato svolge altresi' compiti di sola disciplina generale e coordinamento nazionale nelle seguenti materie: scorte e approvvigionamenti alimentari; tutela della qualita' dei prodotti agroalimentari; educazione alimentare di carattere non sanitario; importazione ed esportazione dei prodotti agricoli e alimentari nell'ambito della normativa vigente; interventi di regolazione dei mercati; regolazione delle sementi e materiale di propagazione, del settore fitosanitario e dei fertilizzanti; registri di varieta' vegetali, libri genealogici del bestiame e libri nazionali dei boschi da seme; salvaguardia e tutela delle biodiversita' vegetali e animali, dei rispettivi patrimoni genetici; impiego di biotecnologie innovative nel settore agroalimentare; gestione delle risorse ittiche marine di interesse nazionale oltre le 12 miglia; specie cacciabili ai sensi dell'articolo 18, comma 3, della legge 11 febbraio 1992, n. 157.
 

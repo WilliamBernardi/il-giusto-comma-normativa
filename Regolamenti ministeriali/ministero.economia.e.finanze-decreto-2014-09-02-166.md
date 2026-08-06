@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2020-01-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -69,6 +69,24 @@ Ai fini del presente regolamento si intendono per:
 
 Il presente regolamento si applica a tutti i fondi pensione, salvo le esclusioni di cui ai commi 2 e 3.
 
+2.
+                        
+                            
+                                Le disposizioni di cui agli articoli 4 e 5 non si applicano a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    forme pensionistiche complementari attuate mediante contratti di assicurazione sulla vita di cui all'articolo 13, comma 1, lettera b), del decreto legislativo 5 dicembre 2005, n. 252 (PIP); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fondi pensione preesistenti che gestiscono le attivita' mediante la stipula di contratti assicurativi di cui ai rami vita I, III e V previsti dal Codice delle assicurazioni private, limitatamente alle predette gestioni assicurative.
+
 Le disposizioni di cui agli articoli 3, 4, 5 e 8 del presente regolamento si applicano ai fondi pensione interni solo in quanto risultino costituiti come patrimonio separato ai sensi dell'articolo 2117 del codice civile.
 
 Le disposizioni di cui all'articolo 5, commi 1, 2, 3 e 6 si applicano alle forme pensionistiche complementari di cui all'articolo 15-ter del decreto legislativo 5 dicembre 2005, n. 252, limitatamente alla parte del patrimonio relativa alle adesioni raccolte in Italia.
@@ -78,6 +96,31 @@ Sono fatte salve le deroghe di cui all'articolo 5 del decreto del Ministero dell
 ## - Capo II CRITERI E LIMITI DI INVESTIMENTO
 
 ## Art. 3. — Criteri di gestione, strutture organizzative e procedure
+
+1.
+                        
+                            
+                                I fondi pensione, nel rispetto del principio della sana e prudente gestione, perseguono l'interesse degli aderenti e dei beneficiari della prestazione pensionistica. Nella gestione delle loro disponibilita' i fondi pensione osservano i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ottimizzazione della combinazione redditivita-rischio del portafoglio nel suo complesso, attraverso la scelta degli strumenti migliori per qualita', liquidabilita', rendimento e livello di rischio, in coerenza con la politica d'investimento adottata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adeguata diversificazione del portafoglio finalizzata a contenere la concentrazione del rischio e la dipendenza del risultato della gestione da determinati emittenti, gruppi di imprese, settori di attivita' e aree geografiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    efficiente gestione finalizzata a ottimizzare i risultati, contenendo i costi di transazione, di gestione e di funzionamento in rapporto alla dimensione ed alla complessita' e caratteristiche del portafoglio.
 
 I fondi pensione di cui all'articolo 7-bis del decreto legislativo 5 dicembre 2005, n. 252, nel rispetto dei criteri di cui al comma 1, adottano strategie di investimento coerenti con il profilo di rischio e con la struttura temporale delle passivita' detenute, in modo tale da assicurare la continua disponibilita' di attivita' idonee e sufficienti a coprire le passivita', avendo come obiettivo l'equilibrio finanziario nonche' la sicurezza, la redditivita' e la liquidabilita' degli investimenti. In tale ambito i suddetti fondi pensione privilegiano gli strumenti finanziari con basso grado di rischio, anche facendo ricorso a titoli di debito emessi o garantiti da un Paese membro dell'Unione Europea, da un Paese aderente all'OCSE o da organismi internazionali di carattere pubblico di cui fanno parte uno o piu' Paesi membri dell'Unione Europea.
 
@@ -96,6 +139,31 @@ Ai sensi dell'articolo 19 del decreto legislativo 5 dicembre 2005, n. 252, la CO
 
 Le disponibilita' dei fondi pensione possono essere investite in strumenti finanziari nel rispetto dei criteri e dei limiti di cui al presente articolo e agli articoli 3 e 5.
 
+2.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 6, comma 13, del decreto legislativo 5 dicembre 2005, n. 252 in materia di divieto di assunzione e concessione di prestiti nonche' di prestazione di garanzie in favore di terzi, i fondi pensione possono inoltre: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuare operazioni di pronti contro termine ed il prestito titoli, ai fini di una gestione efficiente del portafoglio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    detenere liquidita', in coerenza con quanto previsto dalla politica di investimento adottata; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    utilizzare derivati.
+
 Le operazioni di pronti contro termine ed il prestito titoli sono realizzate all'interno di un sistema standardizzato, organizzato da un organismo riconosciuto di compensazione e garanzia ovvero concluse con controparti di primaria affidabilita', solidita' e reputazione e sottoposte alla vigilanza di un'autorita' pubblica.
 
 I derivati possono essere stipulati esclusivamente per finalita' di riduzione del rischio di investimento o di efficiente gestione, nel rispetto dei criteri e dei limiti di cui al presente articolo e agli articoli 3 e 5. L'utilizzo di derivati e' adeguatamente motivato dal fondo pensione in relazione alle proprie caratteristiche dimensionali, alla politica di investimento adottata e alle esigenze degli aderenti e dei beneficiari delle prestazioni pensionistiche.
@@ -111,6 +179,59 @@ Fermi restando i limiti di cui all'articolo 6 comma 13 del decreto legislativo 2
 I fondi pensione, tenuto conto anche dell'esposizione realizzata tramite derivati, non investono piu' del 5 per cento delle loro disponibilita' complessive in strumenti finanziari emessi da uno stesso soggetto e non piu' del 10 per cento in strumenti finanziari emessi da soggetti appartenenti a un unico gruppo.
 
 Fermo restando il rispetto del principio di adeguata diversificazione degli investimenti, i limiti di cui al comma 2 non si applicano agli investimenti in quote o azioni di OICVM, FIA italiani diversi da quelli riservati, FIA UE e non UE autorizzati alla commercializzazione in Italia ai sensi dell'art. 44, comma 5 e seguenti, del TUF, nonche' in strumenti finanziari emessi o garantiti da un Paese membro dell'Unione Europea, da un Paese aderente all'OCSE o da organismi internazionali di carattere pubblico di cui fanno parte uno o piu' Paesi membri dell'Unione Europea.
+
+4.
+                        
+                            
+                                L'investimento in OICR e' consentito a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia adeguatamente motivato dal fondo pensione in relazione alle proprie caratteristiche dimensionali e a quelle della politica di investimento che intende adottare e risponda a criteri di efficienza ed efficacia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la politica di investimento degli OICR sia compatibile con quella del fondo pensione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'investimento in OICR non generi una concentrazione del rischio incompatibile con i parametri definiti dal fondo pensione ai sensi dell'articolo 3, comma 5; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il fondo pensione sia in grado di monitorare il rischio relativo a ciascun OICR al fine di garantire il rispetto dei principi e criteri stabiliti nel presente decreto per il portafoglio nel suo complesso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non comporti oneri aggiuntivi rispetto a quelli previsti dal fondo pensione e comunicati agli aderenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fermo restando il rispetto del principio di adeguata diversificazione degli investimenti, l'investimento in FIA e' contenuto entro il limite del 20 per cento delle disponibilita' complessive del fondo pensione e del 25 per cento del valore del FIA; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'investimento in FIA non UE non commercializzati in Italia e' consentito in presenza di accordi di cooperazione tra l'Autorita' competente del Paese d'origine del FIA e le Autorita' italiane.
 
 I fondi pensione possono investire in strumenti finanziari connessi a merci entro il limite del 5 per cento delle loro disponibilita' complessive purche' emessi da controparti di primaria affidabilita', solidita' e reputazione. Non sono ammessi derivati connessi a merci per i quali esiste l'obbligo di consegna del sottostante a scadenza.
 
@@ -169,4 +290,29 @@ Lo svolgimento di funzioni di amministrazione, direzione e controllo nel fondo p
 E' abrogato ma continua ad essere applicato ai fini del comma 2 del presente articolo il decreto del Ministro dell'economia e delle finanze 21 novembre 1996, n. 703.
 
 I fondi pensione iscritti all'albo tenuto dalla COVIP ai sensi dell'articolo 19, comma 1, del decreto legislativo 5 dicembre 2005, n. 252 alla data di entrata in vigore del presente decreto si adeguano alle disposizioni in esso contenute entro 18 mesi. Nelle more dell'adeguamento continuano ad applicarsi le disposizioni di cui al decreto ministeriale 21 novembre 1996, n. 703.
+
+3.
+                        
+                            
+                                Fatte salve le disposizioni di cui al comma 2 del presente articolo, all'articolo 5 del decreto del Ministro dell'economia e delle finanze 10 maggio 2007, n. 62 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo comma, le parole «di cui al decreto del Ministro dell'economia e delle finanze 21 novembre 1996, n. 703» sono sostituite dalle seguenti «di cui al decreto del Ministro dell'economia e delle finanze, adottato ai sensi dell'articolo 6, comma 5-bis, del decreto legislativo 5 dicembre 2005, n. 252»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole «dall'articolo 4, comma 1 lettera b) del decreto del Ministro dell'economia e finanze 21 novembre 1996, n. 703» sono sostituite dalle seguenti «dall'articolo 5, commi 2 e 4, lettera f) del decreto del Ministro dell'economia e finanze adottato ai sensi dell'articolo 6, comma 5-bis, del decreto legislativo 5 dicembre 2005, n. 252»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 5, le parole «alle disposizioni di cui al decreto del Ministro dell'economia e delle finanze 21 novembre 1996, n. 703» sono sostituite dalle seguenti «alle disposizioni di cui al decreto del Ministro dell'economia e delle finanze adottato ai sensi dell'articolo 6, comma 5-bis del decreto legislativo 5 dicembre 2005, n. 252».
 

@@ -8,8 +8,8 @@ codice_redazionale: 010G0045
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -516,10 +516,125 @@ Le relazioni di revisione di cui all'articolo 156 nonche' le relazioni indicate 
 ## Art. 4. — (Modifiche alla parte V del 
  decreto legislativo 24 febbraio 1998, n. 58)
 
+1.
+                    
+                        
+                            All'articolo 190 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: "Altre sanzioni amministrative pecuniarie in tema di disciplina degli intermediari, dei mercati e della gestione accentrata di strumenti finanziari"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo la lettera b) e' inserita la seguente: 
+ "b-bis) ai soggetti che svolgono funzioni di amministrazione o di direzione degli intermediari indicati nell'articolo 79-quater per inosservanza delle disposizioni di cui all'articolo 83-novies, comma 1, lettere c) d), e) ed f), 83-duodecies, e di quelle emanate in base ad esse;"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2 dopo la lettera d-quinquies) e' aggiunta la seguente: 
+ "d-sexies) ai soggetti che svolgono funzioni di amministrazione degli emittenti azioni in caso di inosservanza di quanto previsto dall'articolo 83-undecies, comma 1.".
+
+2.
+                    
+                        
+                            All'articolo 194 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Il promotore di una sollecitazione di deleghe di voto che viola le norme degli articoli 138, 142, commi 1 e 2, 144, comma 4, e del regolamento emanato a norma dell'articolo 144, comma 1, e' punito con la sanzione amministrativa pecuniaria da euro venticinquemila a euro cinquecentomila.". 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: 
+ "2-bis. La sanzione prevista al comma 2 si applica al rappresentante designato dalla societa' con azioni quotate che viola l'articolo 135-undecies, comma 4.".
+
 ## Art. 5. — (Modifiche al titolo V del 
  decreto legislativo 24 giugno 1998, n. 213)
 
 Gli articoli da 28 a 37 del decreto legislativo 24 giugno 1998, n. 213, sono abrogati.
+
+2.
+                    
+                        
+                            All'articolo 38 del decreto legislativo 24 giugno 1998, n. 213, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole: "presente titolo V" sono sostituite dalle seguenti: "decreto legislativo 24 febbraio 1998, n. 58, titolo II, capo II, sezione I" e la parola: "autorizzato" e' sostituita dalle seguenti: "di cui all'articolo 79-quater del decreto legislativo 24 febbraio 1998, n. 58"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 le parole: "all'articolo 30" sono sostituite dalle seguenti: "all'articolo 79-quater del decreto legislativo 24 febbraio 1998, n. 58" e la parola: "titoli" e' sostituita dalle seguenti: "strumenti finanziari".
+
+3.
+                    
+                        
+                            All'articolo 39 del decreto legislativo 24 giugno 1998, n. 213, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' abrogato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3 dopo le parole: "del presente decreto" sono inserite le seguenti: "e del decreto legislativo 24 febbraio 1998, n. 58, titolo II, capo III"; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4 le parole: "nel sistema centralizzato della Banca d'Italia" sono sostituite dalle seguenti: "presso la societa' di gestione accentrata".
+
+4.
+                    
+                        
+                            All'articolo 40 del decreto legislativo 24 giugno 1998, n. 213, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3 le parole: "all'articolo 30" sono sostituite dalle seguenti: "all'articolo 79-quater del decreto legislativo 24 febbraio 1998, n. 58"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 6 dopo le parole: "ciascun intermediario" sono aggiunte le seguenti: "di cui all'articolo 79-quater del decreto legislativo 24 febbraio 1998, n. 58,".
 
 All'articolo 41, comma 4, del decreto legislativo 24 giugno 1998, n. 213, le parole: "all'articolo 31" sono sostituite dalle seguenti: "all'articolo 79-quater del decreto legislativo 24 febbraio 1998, n. 58,".
 

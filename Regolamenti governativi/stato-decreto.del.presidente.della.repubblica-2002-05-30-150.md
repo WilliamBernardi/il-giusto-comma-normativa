@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2025-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -114,7 +114,73 @@ Il prelevamento di campioni di analisi di materie prime, portanti impresso il ti
 
 Una parte della materia prelevata, sigillata dal personale delle Camere di commercio, puo' essere lasciata in consegna all'interessato, se egli ne fa espressa richiesta, per eventuali contestazioni e ripetizioni dei saggi.
 
+4.
+                        
+                            
+                                La scelta dei punti di prelevamento dei campioni di analisi delle materie prime si opera come appresso:
+ 
+                            
+                            
+                                a)
+                                
+                                    lingotti, verghe e simili: tre prelievi, di cui due ad opposte estremita' del pezzo, ed una in profondita' nel corpo del medesimo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    bottoni, pezzi tondeggianti in genere: due prelievi, di cui uno nel corpo del pezzo. Nel caso di bottoni di piccole dimensioni si procede al ritiro di uno o piu' esemplari scelti a caso;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lastre, profilati, eccetera: due prelievi, in punti convenientemente distanti del pezzo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    semilavorati:
+ 1) se di peso inferiore a 5 grammi: ritiro di due o piu' esemplari scelti a caso;
+ 2) se di peso superiore a 5 grammi: prelievo di almeno un grammo di metallo su ciascun esemplare, da un gruppo di almeno tre, scelti a caso;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    polveri ed affini: prelievo nella massa, previo rimescolamento della stessa;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    leghe brasanti: prelievo come al punto c).
+
 ## Art. 8.
+
+1.
+                        
+                            
+                                Negli oggetti in oro le eventuali saldature sono effettuate con leghe aventi lo stesso titolo dell'oggetto, con le seguenti eccezioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    negli oggetti in oro con titolo superiore a 750 millesimi, la saldatura e' effettuata con lega d'oro a titolo non inferiore a 750 millesimi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle catene d'oro realizzate con un filo di diametro inferiore a 1 mm, le saldature possono essere effettuate con leghe non aventi contenuto aureo, ma non devono, comunque, comportare che il titolo reale dell'oggetto risulti, a fusione, inferiore al titolo legale dichiarato.
 
 Negli oggetti in platino le eventuali saldature sono effettuate con leghe aventi un contenuto complessivo di metalli preziosi non inferiore a 800 millesimi.
 
@@ -129,6 +195,52 @@ Il prelevamento di campioni da oggetti di metalli preziosi finiti gia' muniti, n
 Ferma restando l'esigenza di disporre dei quantitativi minimi di metallo di cui all'articolo 7, comma 2, si evita, laddove cio' sia tecnicamente possibile, ogni eccessivo danneggiamento dell'oggetto. A tal fine il possessore dell'oggetto ha la facolta' di procedere personalmente, o con l'ausilio di persona di sua fiducia, alla effettuazione dell'operazione secondo il metodo scelto dal personale delle camere di commercio.
 
 Parte della materia prelevata puo' essere trattenuta dal possessore dell'oggetto, con le modalita' e per gli scopi di cui all'articolo 7, comma 2, unitamente a quanto resta dell'oggetto.
+
+4.
+                        
+                            
+                                La scelta dei punti di prelevamento dei campioni di analisi da oggetti finiti, si effettua come di seguito specificato:
+ 
+                            
+                            
+                                a)
+                                
+                                    oggetti stampati o microfusi o a canna vuota a diametro costante o elettroformati di grandi dimensioni: tre prelievi in zone convenientemente distanti l'una dall'altra. Il risultato e' l'espressione della media aritmetica dei singoli risultati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    oggetti a canna vuota a diametro variabile: tre o piu' prelievi in zone convenientemente distanti l'una dall'altra. Il risultato e' l'espressione della media aritmetica dei singoli risultati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    oggetti elettroformati di piccola pezzatura: fusione completa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    oggetti assemblati tramite saldature: un prelievo in parti lontane dalle stesse. Ove questo non sia possibile (punti di saldatura non visibili), il titolo dell'oggetto e' dato dalla media aritmetica dei risultati di tre prelievi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    oggetti formati da leghe di colore diverso: ove possibile e' fatto almeno un prelievo per ogni colore. Il titolo dell'oggetto e' dato dalla media aritmetica dei risultati dei prelievi per ogni colore; il numero dei prelievi non e' inferiore a tre;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    lavori in filigrana, a piccole maglie e oggetti in genere ottenuti dalla elaborazione di un filo continuo: tre prelievi, compatibilmente con l'estensione dell'oggetto, ritagliati in piu' punti dell'oggetto stesso. Il risultato e' l'espressione della media aritmetica dei singoli risultati dei prelievi.
 
 ## Art. 10.
 
@@ -276,7 +388,84 @@ I braccialetti ed ogni altro complemento o ornamento accessorio, applicato agli 
 
 Gli oggetti di fabbricazione mista di due o piu' metalli preziosi portano l'indicazione del titolo su ciascuno dei metalli componenti, in tutti i casi in cui ciascuno di questi, se di peso superiore a un grammo, costituisce una parte nettamente distinta da ogni altra parte dell'oggetto e risulta tecnicamente atta a ricevere l'impronta.
 
+2.
+                        
+                            
+                                Le impronte del marchio di identificazione e del titolo del metallo prezioso di peso prevalente sono apposte su quest'ultimo in tutti gli altri casi, ed in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    negli oggetti nei quali i diversi metalli pur risultando distinguibili l'uno dall'altro, sono intimamente combinati tra loro, per motivi artistici o per esigenze di natura tecnica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    negli oggetti nei quali i metalli di maggior pregio sono inseriti, per incastonatura od intarsi, nel corpo del metallo di peso prevalente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nelle casse da orologio (fondello).
+
 ## Art. 23.
+
+1.
+                        
+                            
+                                L'obbligo della garanzia del titolo, per gli oggetti che, a norma dell'articolo 12 del decreto, sono esenti dall'obbligo del marchio di identificazione e della indicazione del titolo e per i quali lo stesso decreto non prescrive specifiche norme, si adempie all'atto in cui gli oggetti sono ceduti in vendita, con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli oggetti di peso inferiore ad un grammo di cui all'articolo 12, comma 1, lettera a), del decreto, all'atto della vendita dal produttore o importatore all'acquirente sono contenuti in involucri debitamente sigillati con l'osservanza delle modalita' indicate dall'articolo 19. Una descrizione dettagliata o sommaria degli oggetti contenuti nell'involucro e' ripetuta sull'involucro stesso. I dettaglianti conservano il documento, l'involucro e gli eventuali sigilli di cui all'articolo 19 fino ad esaurimento della merce; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i semilavorati, le leghe e i lavori per odontoiatria o per uso industriale, gli strumenti ed apparecchi per uso industriale o scientifico, di cui all'articolo 12, comma 1, lettere b), d) ed e), del decreto, sono accompagnati, ad ogni passaggio dal produttore od importatore al grossista o dettagliante, e da questi al consumatore, da un documento su cui e' indicato il titolo reale dello stesso oggetto, o delle parti di esso costituite da metallo prezioso, che puo' essere diverso dai titoli legali previsti dal decreto. Per le leghe contenenti in proporzioni dichiarate due o piu' metalli preziosi, e' indicato il titolo di ciascuno di questi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli oggetti di antiquariato sono accompagnati da fattura di acquisto o da certificato redatto e sottoscritto ai sensi dell'articolo 12, comma 3, del decreto, controfirmato e datato dal venditore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli oggetti usati, di cui all'articolo 12, comma 1, lettera h), del decreto, pervenuti in possesso delle aziende commerciali successivamente all'entrata in vigore dello stesso, possono essere nuovamente posti in vendita anche se privi del marchio di identificazione e dell'indicazione del titolo, nel caso in cui le aziende sono in grado di documentare le modalita' lecite del relativo acquisto e gli oggetti ai fini della vendita sono accompagnati da fattura in cui il venditore indica, sotto la propria responsabilita', la descrizione dell'oggetto e il titolo del metallo prezioso;
+                                
+                            
+                            
+                                e)
+                                
+                                    i residui di lavorazione di cui all'articolo 12, comma 1, lettera i), del decreto, quando sono ceduti a terzi e quando provengono da materie prime di titolo omogeneo, sono venduti con le stesse norme previste dal precedente articolo 19; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i residui di lavorazione provenienti da materie prime o da operazioni tecnologiche eterogenee ed in genere gli scarti di lavorazione, le ceneri e le spazzature di laboratorio, sono accompagnati da dichiarazioni attestanti che si tratta di "residui" del tutto privi di ogni garanzia sulla loro composizione e sul titolo dei metalli preziosi ivi contenuti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le leghe saldanti di cui all'articolo 12, comma 1, lettera l), del decreto sono parimenti vendute con le norme di cui all'articolo 19. Quando e' richiesto da esigenze commerciali e risulta tecnicamente possibile, le dette leghe sono fornite senza involucro, a condizione che rechino l'indicazione del marchio di identificazione e del titolo.
 
 Per leghe saldanti a base di argento si intendono quelle il cui contenuto di detto metallo e' tale da consentirne l'impiego nella produzione argentiera. Le leghe cosiddette "da saldatura ad argento" usate per la saldatura dei metalli comuni sono vendute come metallo non prezioso.
 
@@ -306,11 +495,61 @@ Per gli oggetti che all'atto dell'esportazione o della commercializzazione nello
 
 Gli oggetti da esportare verso Paesi con i quali sussiste l'ipotesi di cui all'articolo 5, comma 3, del decreto, sono muniti, obbligatoriamente, del marchio di identificazione nonche' dell'impronta del titolo legale, ovvero della indicazione di uno dei titoli considerati legali nel Paese di destinazione.
 
+7.
+                        
+                            
+                                Gli oggetti di cui ai commi da 1 a 6 sono posti in vendita anche nel territorio della Repubblica italiana alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    conformita' delle caratteristiche costruttive di essi alle norme di legge e alle prescrizioni del presente regolamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    applicazione del marchio e dell'impronta del titolo legale, seguendo per quest'ultimo le prescrizioni di cui all'articolo 4, commi 1 e 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cancellazione di qualsiasi eventuale impronta di marchio od impronta di titolo, diversa da quelle legali, che e' stata apposta ai fini dell'esportazione, salvo il caso in cui si tratta di marchi o indicazioni previsti da convenzioni o accordi internazionali di cui l'Italia sia firmataria.
+
 Gli oggetti il cui titolo reale e' inferiore al piu' basso dei titoli legali previsti dalla legge, se non sono esportati, sono venduti come oggetti di metallo non prezioso.
 
 ## - Capo IV Il registro degli assegnatari dei marchi di identificazione
 
 ## Art. 26.
+
+1.
+                        
+                            
+                                Il marchio di identificazione e' assegnato alle aziende che esercitano una o piu' delle seguenti attivita':
+ 
+                            
+                            
+                                a)
+                                
+                                    vendita di metalli preziosi o loro leghe allo stato di materie prime o semilavorati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fabbricazione di prodotti finiti in metalli preziosi o loro leghe;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    importazione di materie prime o semilavorati o di prodotti finiti in metalli preziosi o loro leghe.
 
 Ai sensi del comma 1, lettera b), il marchio di identificazione e' anche assegnato, a domanda, a quelle aziende commerciali che, pur esercitando come attivita' principale la vendita di prodotti finiti di fabbricazione altrui, risultano dotate di un proprio laboratorio, idoneo alla fabbricazione di oggetti in metalli preziosi. La concessione e' subordinata all'accertamento di tale requisito, da effettuarsi a spese dell'azienda interessata, dalla camera di commercio competente per territorio.
 
@@ -318,11 +557,135 @@ Ai sensi del comma 1, lettera b), il marchio di identificazione e' anche assegna
 
 La domanda di iscrizione al registro e' presentata alla camera di commercio, industria e artigianato della provincia ove l'azienda richiedente ha la propria sede legale.
 
+2.
+                        
+                            
+                                Detta domanda contiene le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione dell'azienda e la sua sede legale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' del titolare della licenza, ove prevista, di cui all'articolo 127 del testo unico delle leggi di pubblica sicurezza di cui al regio decreto 18 giugno 1931, n. 773 e la sua posizione in seno all'azienda. Nel caso di ditte individuali o di imprese artigiane, le generalita' del titolare della ditta o dell'impresa medesima;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attivita' o le attivita' esercitate dall'azienda, ai sensi dell'articolo 26;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero e l'ubicazione delle eventuali altre sedi dell'azienda (filiali, stabilimenti) anche se situate in altre province, nelle quali sono svolte le stesse attivita'.
+
+3.
+                        
+                            
+                                Alla domanda sono allegate:
+ 
+                            
+                            
+                                a)
+                                
+                                    copia della licenza di pubblica sicurezza, di cui al comma 2, lettera b);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricevuta di avvenuto pagamento dei diritti di saggio e marchio previsti all'articolo 7 del decreto.
+
 Per le aziende industriali, la documentazione da allegare alla domanda di concessione del marchio e' corredata da una autocertificazione sulla quale e' indicato, per gli effetti dell'articolo 7, comma 1, del decreto, il numero dei dipendenti dell'azienda stessa.
 
 In detto numero sono inclusi tutti i prestatori di lavoro subordinato dell'azienda, indipendentemente dalle rispettive qualifiche, operai, impiegati, dirigenti amministrativi o tecnici, e dal loro eventuale impiego in settori dell'impresa anche non direttamente connessi con la lavorazione dei metalli preziosi.
 
 ## Art. 28.
+
+1.
+                        
+                            
+                                Il registro contiene le seguenti indicazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    numero d'iscrizione nel registro delle imprese;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    data di ricevimento della domanda di iscrizione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    denominazione e sede legale dell'impresa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ubicazione delle eventuali altre sedi dell'azienda (filiali, stabilimenti), anche se situate in altre province;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivita' esercitate dall'azienda, ai sensi dell'articolo 26;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    numero e data d'iscrizione nel registro delle ditte o nell'albo delle imprese artigiane;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    numero e data della licenza, ove prevista, rilasciata dall'autorita' di pubblica sicurezza, generalita' del titolare della licenza stessa e sua posizione in seno all'azienda;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la riproduzione degli eventuali marchi tradizionali di fabbrica, o sigle particolari, consentiti ai sensi dell'articolo 9 del decreto e depositati nei modi di cui all'articolo 33;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    numero caratteristico del marchio d'identificazione, assegnato dalla camera di commercio, industria, artigianato e agricoltura entro due mesi dalla data di presentazione della domanda di concessione del marchio stesso;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'indicazione dell'eventuale laboratorio o organismo di certificazione presso cui l'azienda ha chiesto la certificazione aggiuntiva ai sensi dell'articolo 19 del decreto, e l'eventuale logo concesso alla stessa azienda secondo quanto stabilito all'articolo 53.
 
 Il suddetto registro dei fabbricanti ed importatori comprende tutti gli assegnatari dei marchi di identificazione.
 
@@ -442,6 +805,24 @@ Ai soli fini dell'applicazione del marchio facoltativo di cui all'articolo 34, i
                                 ((1-bis. Sugli oggetti di cui al comma 1 possono, inoltre, essere impressi i termini "laminato" o "placcato", seguiti dal simbolo chimico del metallo prezioso, a condizione che il rivestimento sia ottenuto, rispettivamente, con la tecnica di lavorazione, di cui all'articolo 1, comma 1, lettere s-bis) o s- ter).))
                                 ((2))
 
+2.
+                        
+                            
+                                Sugli oggetti costituiti di sostanze non metalliche, senza pregiudizio di limite di peso specifico, recanti rivestimenti di metalli preziosi realizzati mediante procedimento di deposizione elettrogalvanica e' consentita l'apposizione di un particolare marchio di fabbrica composto da una impronta racchiusa in un ottagono, secondo il modello unificato di cui all'allegato IX, recante all'interno la sigla del produttore, l'indicazione "DG", il simbolo del metallo prezioso come indicato al comma 1, l'indicazione in cifre del peso del metallo fino espresso in grammi seguita dal simbolo "g" e la sigla della provincia dove il produttore ha la propria sede legale, a condizione che detti oggetti rispondano alle seguenti prescrizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il materiale ricoperto non e' alterabile ne' degradabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rivestimento ha uno spessore tale da consentire autonomamente, in ogni sua parte, l'applicazione delle indicazioni di cui al presente comma.
+
 Il marchio particolare di fabbrica, privo dell'indicazione relativa al peso, e' depositato dagli interessati presso la camera di commercio competente per territorio, che stabilisce se lo stesso e' conforme alle prescrizioni del modello unificato di cui al comma 2 ed ha facolta' di vietare, in caso di difformita', l'uso del marchio stesso.
 
 Con provvedimento del Ministero delle attivita' produttive si possono disporre variazioni e modifiche del modello unificato di cui al comma 2, in relazione alle esigenze che possono in concreto manifestarsi.
@@ -465,13 +846,74 @@ Le lastre in metallo prezioso realizzate con la tecnica dello stampaggio a cui, 
 
 ## Art. 38.
 
+1.
+                        
+                            
+                                Gli oggetti finiti, pronti per essere posti in commercio, che, per loro natura o per gli usi cui sono destinati o per esigenze di ordine tecnico, si compongono di parti in metallo prezioso e di parti in metallo comune sono soggetti all'obbligo della indicazione del titolo e del marchio e alle seguenti altre prescrizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    tutte le parti in metallo comune sono chiaramente visibili e distinguibili, anche per colore, o smontabili dalle parti in metallo prezioso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    su ciascuna delle parti in metallo non prezioso e' impressa in maniera visibile l'indicazione "M", racchiusa in un quadrato o, facoltativamente, l'indicazione "Metallo", ovvero il nome specifico del metallo o della lega impiegata, o per l'acciaio, l'indicazione "inox".
+
 Sugli oggetti in lega di metallo prezioso e' fatto divieto di depositare metalli non preziosi, ad eccezione di iridio, osmio, rodio e rutenio, con il metodo di deposizione galvanica o metodi simili.
 
 ## Art. 39.
 
 Negli oggetti cavi di platino, palladio, oro e argento, e' vietata l'introduzione di metalli non preziosi e di sostanze di qualsiasi genere.
 
+2.
+                        
+                            
+                                Ai sensi dell'articolo 15, comma 3, del decreto sono ammesse le seguenti eccezioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    negli oggetti parzialmente o totalmente rivestiti in lamina di metallo prezioso, e' consentito l'uso di mastice per fissare la lamina al suo supporto, a condizione che la densita' del mastice non sia superiore a 2,5 g/cm3 e che la sua percentuale in peso non superi il 25% del peso totale dell'oggetto, e che sia incisa l'indicazione "R" racchiusa in un quadrato, accompagnata dalla indicazione del peso del metallo, in grammi e decimi di grammo, seguita dal simbolo "g" per i rivestimenti in platino, palladio ed oro, e alle condizioni di cui alla successiva lettera c) per i rivestimenti in argento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nei piedi o basamenti di vasi, candelabri, coppe ed oggetti affini, che per praticita' di uso sono rinforzati ed appesantiti, e' ammessa la introduzione di un riempimento metallico, a condizione che questo sia applicato in maniera da poter essere smontato e che risulti totalmente visibile o che, se ricoperto con piastre o coperchi metallici o non metallici, tale copertura sia fissata in modo da poter essere, anche essa, agevolmente smontata. Su ogni parte di metallo comune, ivi comprese le piastre di copertura, deve essere impressa l'indicazione "metallo" ovvero il nome specifico del metallo o della lega impiegati. Nel caso in cui la piastra di copertura sia in metallo prezioso, essa reca il marchio di identificazione, l'indicazione del titolo, il termine "riempito", nonche' il peso del metallo fino espresso in grammi seguito dalla lettera "g" della piastra stessa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei manici dei coltelli e' ammesso il riempimento con sostanze non metalliche senza pregiudizio dei limiti di densita', ed e' consentito altresi' che la lama sia fissata al manico con saldatura in metallo non prezioso a condizione che in ogni manico sia inciso il termine "riempito" o facoltativamente l'indicazione "R" racchiusa in un quadrato, accompagnata dalla indicazione del peso della lega di metallo prezioso, in grammi e decimi di grammo, seguita dal simbolo "g". Nei manici in argento, nei quali il peso del metallo prezioso e' inferiore o uguale a 50 grammi, detto peso pero' puo' essere espresso anziche' col suo valore effettivo, in maniera approssimata, facendo seguire la lettera "R" (riempito) da una delle seguenti notazioni: due cifre, separate dal simbolo "÷" seguite dalla lettera "g", nelle quali le cifre rappresentano, in grammi, i valori minimo e massimo entro i quali il peso stesso deve intendersi contenuto: 1÷2, 2÷3, 3÷5, 5÷7, 7÷10, 10÷13, 13÷16, 16÷20, 20÷25, 25÷30, 30÷35, 35÷40, 40÷45, 45÷50.
+
 ## Art. 40.
+
+1.
+                        
+                            
+                                Gli oggetti contenenti congegni a molla hanno le molle composte dello stesso metallo costitutivo dell'oggetto, con le eccezioni di cui appresso, nelle quali e' consentito l'impiego di molle in materiale non prezioso per motivi di funzionalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    anellini a molla, moschettoni con molle e braccialetti estensibili, ad elementi smontabili, con il limite di peso di 1,5 grammi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    portasigarette, accendisigari, borsette, scatole, casse da orologio e, in genere, qualsiasi altro oggetto nel quale la presenza di molle di acciaio e' giustificata da esigenze tecniche e le molle stesse sono applicate in modo visibile e distinguibile dal metallo prezioso e il loro peso non supera 1g per il platino, palladio ed oro e di 3 g per l'argento.
 
 Nei casi di cui al comma 1, lettere a) e b), le molle non sono campionate per la determinazione del titolo.
 
@@ -553,6 +995,31 @@ I responsabili tecnici dei suddetti laboratori sono muniti del diploma di laurea
 
 Ai fini dell'abilitazione di cui all'articolo 18, comma 1, del decreto, i laboratori interessati sono sottoposti a visite ispettive periodiche, condotte in conformita' ai criteri generali espressi dalla norma di cui all'allegato X, da parte di ispettori per la qualita' in possesso dei requisiti di cui all'articolo 50.
 
+2.
+                        
+                            
+                                I criteri generali da seguire per la suddetta abilitazione sono i seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    presentazione della domanda, specificando le prove per le quali si chiede l'abilitazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro trenta giorni dalla presentazione della domanda, la camera di commercio competente designa un ispettore, ed invia a quest'ultimo la documentazione per l'esame preliminare. Accertata la completezza e la correttezza della documentazione l'ispettore ne da' comunicazione alla camera di commercio competente che provvede, sentito anche il laboratorio, a stabilire la data per la visita ispettiva;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'abilitazione e' concessa a seguito del buon esito della visita ispettiva e della soluzione di eventuali non conformita' emerse; entro sessanta giorni dalla prima visita ispettiva la camera di commercio competente rilascia l'abilitazione.
+
 La vigilanza sui laboratori gia' abilitati ha periodicita' annuale e la conferma dell'abilitazione e' subordinata al buon esito della visita ispettiva ed alla soluzione delle eventuali non conformita' emerse.
 
 Le visite ispettive sono finalizzate a verificare che il laboratorio operi secondo quanto stabilito dal presente regolamento.
@@ -569,6 +1036,24 @@ Presso ogni camera di commercio e' tenuto un registro dei laboratori abilitati c
 ## Art. 50.
 
 Gli ispettori per la qualita' sono iscritti da ciascuna camera di commercio in un elenco consultabile su tutto il territorio nazionale. Essi sono scelti con criteri di imparzialita' e rotazione ed operano con modalita' omogenee stabilite da Unioncamere su tutto il territorio nazionale, sentito il Ministero delle attivita' produttive.
+
+2.
+                        
+                            
+                                L'iscrizione all'elenco e' subordinata ad almeno una delle seguenti condizioni, oltre a quella di possedere una comprovata esperienza nel saggio dei metalli preziosi:
+ 
+                            
+                            
+                                a)
+                                
+                                    essere iscritti nell'elenco ispettori tecnici per la qualita' di un ente di accreditamento di laboratori che opera secondo la norma di cui all'allegato X e che ha stipulato ampi accordi di mutuo riconoscimento in ambito europeo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essere qualificati come ispettori interni per la qualita' dei laboratori di prova delle camere di commercio o loro aziende speciali; tali ispettori operano nel settore del saggio dei metalli preziosi o hanno frequentato e superato un corso di qualificazione sulle analisi di saggio dei metalli preziosi condotte secondo i metodi stabiliti all'articolo 11.
 
 La cancellazione dall'elenco avviene per perdita di tali requisiti o con provvedimento motivato del segretario generale della camera di commercio.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2011-01-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,7 +34,113 @@ Sulla proposta del Ministro per la funzione pubblica e del Ministro per l'innova
 
 Il presente regolamento stabilisce le caratteristiche e le modalita' per l'erogazione e la fruizione di servizi di trasmissione di documenti informatici mediante posta elettronica certificata.
 
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                busta di trasporto, il documento informatico che contiene il messaggio di posta elettronica certificata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Centro nazionale per l'informatica nella pubblica amministrazione, di seguito denominato: «CNIPA», l'organismo di cui all'articolo 4, comma 1, del decreto legislativo 12 febbraio 1993, n. 39, come modificato dall'articolo 176, comma 3, del decreto legislativo 30 giugno 2003, n. 196;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dati di certificazione, i dati inseriti nelle ricevute indicate dal presente regolamento, relativi alla trasmissione del messaggio di posta elettronica certificata;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dominio di posta elettronica certificata, l'insieme di tutte e sole le caselle di posta elettronica certificata il cui indirizzo fa riferimento, nell'estensione, ad uno stesso dominio della rete Internet, definito secondo gli standard propri di tale rete;
+
+                            
+                        
+                        
+                            e)
+                            
+                                log dei messaggi, il registro informatico delle operazioni relative alle trasmissioni effettuate mediante posta elettronica certificata tenuto dal gestore;
+
+                            
+                        
+                        
+                            f)
+                            
+                                messaggio di posta elettronica certificata, un documento informatico composto dal testo del messaggio, dai dati di certificazione e dagli eventuali documenti informatici allegati;
+
+                            
+                        
+                        
+                            g)
+                            
+                                posta elettronica certificata, ogni sistema di posta elettronica nel quale e' fornita al mittente documentazione elettronica attestante l'invio e la consegna di documenti informatici;
+
+                            
+                        
+                        
+                            h)
+                            
+                                posta elettronica, un sistema elettronico di trasmissione di documenti informatici;
+
+                            
+                        
+                        
+                            i)
+                            
+                                riferimento temporale, l'informazione contenente la data e l'ora che viene associata ad un messaggio di posta elettronica certificata;
+
+                            
+                        
+                        
+                            l)
+                            
+                                utente di posta elettronica certificata, la persona fisica, la persona giuridica, la pubblica amministrazione e qualsiasi ente, associazione o organismo, nonche' eventuali unita' organizzative interne ove presenti, che sia mittente o destinatario di posta elettronica certificata;
+
+                            
+                        
+                        
+                            m)
+                            
+                                virus informatico, un programma informatico avente per scopo o per effetto il danneggiamento di un sistema informatico o telematico, dei dati o dei programmi in esso contenuti o ad esso pertinenti, ovvero l'interruzione, totale o parziale, o l'alterazione del suo funzionamento.
+
 ## Art. 2. — Soggetti del servizio di posta elettronica certificata
+
+1.
+                    
+                        
+                            Sono soggetti del servizio di posta elettronica certificata:
+ 
+                        
+                        
+                            a)
+                            
+                                il mittente, cioe' l'utente che si avvale del servizio di posta elettronica certificata per la trasmissione di documenti prodotti mediante strumenti informatici;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il destinatario, cioe' l'utente che si avvale del servizio di posta elettronica certificata per la ricezione di documenti prodotti mediante strumenti informatici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il gestore del servizio, cioe' il soggetto, pubblico o privato, che eroga il servizio di posta elettronica certificata e che gestisce domini di posta elettronica certificata.
 
 ## Art. 3. — Trasmissione del documento informatico
 
@@ -130,6 +236,73 @@ I richiedenti l'iscrizione nell'elenco dei gestori di posta elettronica certific
 I gestori di posta elettronica certificata o, se persone giuridiche, i loro legali rappresentanti ed i soggetti preposti all'amministrazione devono, inoltre, possedere i requisiti di onorabilita' richiesti ai soggetti che svolgono funzioni di amministrazione, direzione e controllo presso le banche di cui all'articolo 26 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni.
 
 Non possono rivestire la carica di rappresentante legale, di componente del consiglio di amministrazione, di componente del collegio sindacale, o di soggetto comunque preposto all'amministrazione del gestore privato coloro i quali sono stati sottoposti a misure di prevenzione, disposte dall'autorita' giudiziaria ai sensi della legge 27 dicembre 1956, n. 1423, e della legge 31 maggio 1965, n. 575, e successive modificazioni, ovvero sono stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione, alla reclusione non inferiore ad un anno per delitti contro la pubblica amministrazione, in danno di sistemi informatici o telematici, contro la fede pubblica, contro il patrimonio, contro l'economia pubblica, ovvero per un delitto in materia tributaria.
+
+6.
+                    
+                        
+                            Il richiedente deve inoltre:
+ 
+                        
+                        
+                            a)
+                            
+                                dimostrare l'affidabilita' organizzativa e tecnica necessaria per svolgere il servizio di posta elettronica certificata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                impiegare personale dotato delle conoscenze specifiche, dell'esperienza e delle competenze necessarie per i servizi forniti, in particolare della competenza a livello gestionale, della conoscenza specifica nel settore della tecnologia della posta elettronica e della dimestichezza con procedure di sicurezza appropriate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                rispettare le norme del presente regolamento e le regole tecniche di cui all'articolo 17;
+
+                            
+                        
+                        
+                            d)
+                            
+                                applicare procedure e metodi amministrativi e di gestione adeguati e tecniche consolidate;
+
+                            
+                        
+                        
+                            e)
+                            
+                                utilizzare per la firma elettronica, di cui all'articolo 9, dispositivi che garantiscono la sicurezza delle informazioni gestite in conformita' a criteri riconosciuti in ambito europeo o internazionale;
+
+                            
+                        
+                        
+                            f)
+                            
+                                adottare adeguate misure per garantire l'integrita' e la sicurezza del servizio di posta elettronica certificata;
+
+                            
+                        
+                        
+                            g)
+                            
+                                prevedere servizi di emergenza che assicurano in ogni caso il completamento della trasmissione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                fornire, entro i dodici mesi successivi all'iscrizione nell'elenco dei gestori di posta elettronica certificata, dichiarazione di conformita' del proprio sistema di qualita' alle norme ISO 9000, successive evoluzioni o a norme equivalenti, relativa al processo di erogazione di posta elettronica certificata;
+
+                            
+                        
+                        
+                            i)
+                            
+                                fornire copia di una polizza assicurativa di copertura dei rischi dell'attivita' e dei danni causati a terzi.
 
 Trascorsi novanta giorni dalla presentazione, la domanda si considera accolta qualora il CNIPA non abbia comunicato all'interessato il provvedimento di diniego.
 

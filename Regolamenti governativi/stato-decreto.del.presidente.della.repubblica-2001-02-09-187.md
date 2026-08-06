@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2019-02-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -156,6 +156,24 @@ Restano salve le disposizioni, relative alla consegna delle farine o delle semol
 
 Pasta
 
+1.
+                        
+                            
+                                Sono denominati "pasta di semola di grano duro" e "pasta di semolato di grano duro" i prodotti ottenuti dalla trafilazione, laminazione e conseguente essiccamento di impasti preparati rispettivamente ed esclusivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con semola di grano duro ed acqua; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con semolato di grano duro ed acqua.
+
 E' denominato "pasta di semola integrale di grano duro" il prodotto ottenuto dalla trafilazione, laminazione e conseguente essiccamento di impasto preparato esclusivamente con semola integrale di grano duro ed acqua.
 
 La pasta destinata al commercio e' prodotta soltanto nei tipi e con le caratteristiche seguenti: 
@@ -209,6 +227,31 @@ Nella produzione delle paste, delle paste speciali e della pasta all'uovo e' amm
 
 Le disposizioni di cui ai commi 3, 4, 5 e 6 si applicano anche ai prodotti preparati a base di sfarinati di grano duro ed acqua, comunque riconducibili merceologicamente alla pasta.
 
+8.
+                        
+                            
+                                La pasta prodotta in altri Paesi in tutto o in parte con sfarinati di grano tenero e posta in vendita in Italia deve riportare una delle denominazioni di vendita seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pasta di farina di grano tenero, se ottenuta totalmente da sfarinati di grano tenero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    pasta di semola di grano duro e di farina di grano tenero, se ottenuta dalla miscelazione dei due prodotti con prevalenza della semola; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    pasta di farina di grano tenero e di semola di grano duro, se ottenuta dalla miscelazione dei due prodotti con prevalenza della farina di grano tenero.
+
 ## Art. 7. — (( (Paste speciali). ))
 
 ((
@@ -249,6 +292,35 @@ L'acidita' non deve superare il limite di 7 gradi.
 
 Le paste alimentari fresche, poste in vendita allo stato sfuso, devono essere conservate, dalla produzione alla vendita, a temperatura non superiore a + 4oC, con tolleranza di 3oC durante il trasporto e di 2oC negli altri casi; durante il trasporto dal luogo di produzione al punto di vendita devono essere contenute in imballaggi, non destinati al consumatore finale, che assicurino un'adeguata protezione dagli agenti esterni e che rechino la dicitura "paste fresche da vendersi sfuse". ((PERIODO SOPPRESSO DALLA L. 1 MARZO 2002, N. 39)).
 
+5.
+                        
+                            
+                                Le paste alimentari fresche, poste in vendita in imballaggi preconfezionati, devono possedere i seguenti requisiti:
+
+                            
+                            
+                                a)
+                                
+                                    avere un tenore di umidita' non inferiore al 24 per cento;
+                                
+                            
+                            
+                                b)
+                                
+                                    avere un'attivita' dell'acqua libera (Aw) non inferiore a 0,92 ne' superiore a 0,97;
+                                
+                            
+                            
+                                c)
+                                
+                                    essere state sottoposte al trattamento termico equivalente almeno alla pastorizzazione;
+                                
+                            
+                            
+                                d)
+                                
+                                    essere conservate, dalla produzione alla vendita, a temperatura non superiore a +4oC, con una tolleranza di 2oC.
+
 Sono denominate paste stabilizzate le paste alimentari che hanno un tenore di umidita' non inferiore al 20 per cento e un'attivita' dell'acqua libera (Aw) non superiore a 0,92 e che sono state sottoposte a trattamenti termici e a tecnologie di produzione che consentono il trasporto e la conservazione a temperatura ambiente.
 
 ## Art. 10. — D e r o g h e
@@ -277,9 +349,52 @@ Salvo quanto previsto dall'articolo 48 della legge 24 aprile 1998, n. 128, e dal
 
 ## Art. 13. — Disposizioni di rinvio
 
+1.
+                        
+                            
+                                Salvo che il fatto costituisca reato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di violazione delle disposizioni di cui ((all'articolo 11, comma 2)), si applica la sanzione amministrativa prevista dall'articolo 44, comma primo, lettera a), della legge 4 luglio 1967, n. 580; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di violazione delle disposizioni di cui agli articoli 1, comma 7, 2 comma 8, e 9 ((comma 5)), lettera a), si applica la sanzione amministrativa prevista dall'articolo 44, comma primo, lettera b), della legge 4 luglio 1967, n. 580; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di violazione delle norme del presente regolamento diverse da quelle indicate nelle lettere a) e b), nonche' dei provvedimenti amministrativi previsti dal presente regolamento, si applica la sanzione amministrativa prevista dall'articolo 44, comma primo, lettera c), della legge 4 luglio 1967, n. 580.
+
 Si applicano, altresi', le altre disposizioni contenute nel titolo VIII della citata legge n. 580 del 1967, connesse all'applicazione delle sanzioni di cui al comma 1.
 
 ## Art. 14. — Abrogazioni
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente regolamento cessano di avere efficacia le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli 6, 7, 8, 9, 10, 11, 12, 13, 28, 29, 30, 31, 32, 33, 34, 35, 36 e 50, primo comma, della legge 4 luglio 1967, n. 580;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto del Ministro della sanita' 27 aprile 1998, n. 264.
 
 L'articolo 50, secondo comma, della legge 4 luglio 1967, n. 580, e' sostituito dal seguente:
  "Salvo quanto previsto dall'articolo 48 della legge 24 aprile 1998, n. 128, e dall'articolo 9 del decreto del Presidente della Repubblica 30 novembre 1998, n. 502, e' vietata l'importazione di pane avente requisiti diversi da quelli prescritti dalle norme della presente legge, del regolamento di esecuzione e dei provvedimenti dell'autorita' amministrativa previsti dalla legge medesima.".

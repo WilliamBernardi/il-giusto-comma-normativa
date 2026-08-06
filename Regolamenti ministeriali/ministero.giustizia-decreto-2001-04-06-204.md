@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2003-03-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -41,6 +41,52 @@ Si osservano altresi' le disposizioni dei capi I e II del decreto del Ministro d
 ## Art. 4.
 
 Nella formazione dei fascicoli si osservano, in quanto applicabili, le disposizioni di cui all'articolo 3 del decreto ministeriale 30 settembre 1989, n. 334.
+
+2.
+                    
+                        
+                            Nel caso in cui sia presentato ricorso immediato al giudice ai sensi dell'articolo 21 del decreto legislativo, la cancelleria provvede a formare apposito fascicolo, che deve contenere:
+ 
+                        
+                        
+                            a)
+                            
+                                l'originale del ricorso e gli allegati, con la prova dell'avvenuta comunicazione al pubblico ministero;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'atto di costituzione di parte civile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le richieste presentate dal pubblico ministero ai sensi dell'articolo 25 del decreto legislativo;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il decreto di convocazione delle parti, con le relative notificazioni al pubblico ministero, alla persona citata in giudizio e al suo difensore nonche' alle persone offese non ricorrenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la querela di cui il giudice abbia disposto l'acquisizione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le liste di cui all'articolo 29, comma 2 del decreto legislativo.
 
 Nei casi in cui il giudice provvede a norma dell'articolo 26, commi 2 e 3 del decreto legislativo, la cancelleria trasmette il fascicolo di cui al comma 2 al pubblico ministero.
 

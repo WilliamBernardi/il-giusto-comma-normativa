@@ -8,8 +8,8 @@ codice_redazionale: 097G0483
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,45 @@ E' istituito il servizio di controllo interno dell'Istituto superiore di sanita'
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Competenze e parametri di riferimento
+
+1.
+                    
+                        
+                            Il servizio di controllo ha il compito di verificare, mediante valutazioni comparative dei costi e dei rendimenti, la realizzazione degli obiettivi, la corretta ed economica gestione delle risorse attribuite ed introitate, nonche' l'imparzialita' ed il buon andamento delle attivita' istituzionali. In particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                accerta la rispondenza dei risultati conseguiti con le prescrizioni e gli obiettivi stabiliti in disposizioni normative e nelle direttive emanate dal Ministro e ne verifica l'efficienza, l'efficacia e l'economicita', nonche' la trasparenza e l'imparzialita'.
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolge il controllo di gestione sull'attivita' istituzionale e riferisce al Ministro sull'andamento della gestione evidenziando le cause dell'eventuale mancato raggiungimento dei risultati con la proposizione dei possibili rimedi e la segnalazione delle irregolarita' eventualmente riscontrate;
+
+                            
+                        
+                        
+                            c)
+                            
+                                riferisce almeno trimestralmente al Ministro della sanita', al comitato amministrativo, al comitato scientifico, al direttore dell'Istituto sui risultati della propria attivita' e sugli eventuali ostacoli incontrati nell'esercizio delle proprie competenze, segnalando gli scostamenti eventualmente riscontrati e proponendo, previa individuazione delle cause del mancato raggiungimento dei risultati e degli obiettivi prefissati, i possibili correttivi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                determina, almeno annualmente, tenendo conto, altresi', delle indicazioni degli organi di vertice, del comitato amministrativo, del comitato scientifico, nonche' della Corte dei conti ai sensi dell'articolo 3, comma 4, della legge 14 gennaio 1994, n. 20, i parametri di riferimento del controllo;
+
+                            
+                        
+                        
+                            e)
+                            
+                                svolge ogni altro compito ad esso attribuito dalle leggi o dai regolamenti.
 
 Il servizio di controllo ha accesso ai documenti amministrativi e puo' richiedere a tutti i settori operativi dell'Istituto, oralmente o per iscritto, qualsiasi atto o notizia e puo' effettuare e disporre ispezioni ed accertamenti diretti.
 

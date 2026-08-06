@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2026-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -43,6 +43,184 @@ Gli allegati A, B, C, D, E, F e G costituiscono parte integrante del presente re
 ))
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento sono adottate le seguenti definizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                conservazione: un complesso di misure necessarie per mantenere o ripristinare gli habitat naturali e le popolazioni di specie di fauna e flora selvatiche in uno stato soddisfacente come indicato nelle lettere e) ed i) del presente articolo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                habitat naturali: le zone terrestri o acquatiche che si distinguono in base alle loro caratteristiche geografiche, abiotiche e biotiche, interamente naturali o seminaturali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                habitat naturali di interesse comunitario: gli habitat naturali, indicati nell'allegato A, che, nel territorio dell'Unione europea, alternativamente: 
+ 1) rischiano di scomparire nella loro area di distribuzione naturale; 
+ 2) hanno un'area di distribuzione naturale ridotta a seguito della loro regressione o per il fatto che la loro area e' intrinsecamente ridotta; 
+ 3) costituiscono esempi notevoli di caratteristiche tipiche di una o piu' delle cinque regioni biogeografiche seguenti: alpina, atlantica, continentale, macaronesica e mediterranea; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                tipi di habitat naturali prioritari: i tipi di habitat naturali che rischiano di scomparire per la cui conservazione l'Unione europea ha una responsabilita' particolare a causa dell'importanza della loro area di distribuzione naturale e che sono evidenziati nell'allegato A al presente regolamento con un asterisco (*); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                stato di conservazione di un habitat naturale: l'effetto della somma dei fattori che influiscono sull'habitat naturale nonche' sulle specie tipiche che in esso si trovano, che possono alterarne, a lunga scadenza, la distribuzione naturale, la struttura e le funzioni, nonche' la sopravvivenza delle sue specie tipiche. Lo stato di conservazione di un habitat naturale e' definito "soddisfacente" quando: 
+ 1) la sua area di distribuzione naturale e la superficie che comprende sono stabili o in estensione; 
+ 2) la struttura e le funzioni specifiche necessarie al suo mantenimento a lungo termine esistono e possono continuare ad esistere in un futuro prevedibile; 
+ 3) lo stato di conservazione delle specie tipiche e' soddisfacente e corrisponde a quanto indicato nella lettera i) del presente articolo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                habitat di una specie: ambiente definito da fattori abiotici e biotici specifici in cui vive la specie in una delle fasi del suo ciclo biologico; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                specie di interesse comunitario: le specie, indicate negli allegati B, D ed E, che, nel territorio dell'Unione europea, alternativamente: 
+ 1) sono in pericolo con l'esclusione di quelle la cui area di distribuzione naturale si estende in modo marginale sul territorio dell'Unione europea e che non sono in pericolo ne' vulnerabili nell'area del paleartico occidentale; 
+ 2) sono vulnerabili, quando il loro passaggio nella categoria delle specie in pericolo e' ritenuto probabile in un prossimo futuro, qualora persistano i fattori alla base di tale rischio; 
+ 3) sono rare, quando le popolazioni sono di piccole dimensioni e, pur non essendo attualmente ne' in pericolo ne' vulnerabili, rischiano di diventarlo a prescindere dalla loro distribuzione territoriale; 
+ 4) endemiche e richiedono particolare attenzione, a causa della specificita' del loro habitat o delle incidenze potenziali del loro sfruttamento sul loro stato di conservazione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                specie prioritarie: le specie di cui alla lettera g) del presente articolo per la cui conservazione l'Unione europea ha una responsabilita' particolare a causa dell'importanza della loro area di distribuzione naturale e che sono evidenziate nell'allegato B al presente regolamento con un asterisco (*); 
+
+                            
+                        
+                        
+                            i)
+                            
+                                stato di conservazione di una specie: l'effetto della somma dei fattori che, influendo sulle specie, possono alterarne a lungo termine la distribuzione e l'importanza delle popolazioni nel territorio dell'Unione europea. Lo stato di conservazione e' considerato "soddisfacente" quando: 
+ 1) i dati relativi all'andamento delle popolazioni della specie indicano che essa continua e puo' continuare a lungo termine ad essere un elemento vitale degli habitat naturali cui appartiene; 
+ 2) l'area di distribuzione naturale delle specie non e' in declino ne' rischia di declinare in un futuro prevedibile; 
+ 3) esiste e continuera' probabilmente ad esistere un habitat sufficiente affinche' le sue popolazioni si mantengano a lungo termine; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                sito: un'area geograficamente definita, la cui superficie sia chiaramente delimitata; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                sito di importanza comunitaria: un sito che e' stato inserito nella lista dei siti selezionati dalla Commissione europea e che, nella o nelle regioni biogeografiche cui appartiene, contribuisce in modo significativo a mantenere o a ripristinare un tipo di habitat naturale di cui all'allegato A o di una specie di cui all'allegato B in uno stato di conservazione soddisfacente e che puo', inoltre, contribuire in modo significativo alla coerenza della rete ecologica "Natura 2000" di cui all'articolo 3, al fine di mantenere la diversita' biologica nella regione biogeografica o nelle regioni biogeografiche in questione. Per le specie animali che occupano ampi territori, i siti di importanza comunitaria corrispondono ai luoghi, all'interno della loro area di distribuzione naturale, che presentano gli elementi fisici o biologici essenziali alla loro vita e riproduzione; 
+
+                            
+                        
+                        
+                            m-bis)
+                            
+                                proposto sito di importanza comunitaria (pSic): un sito individuato dalle regioni e province autonome, trasmesso dal Ministero dell'ambiente e della tutela del territorio alla Commissione europea, ma non ancora inserito negli elenchi definitivi dei siti selezionati dalla Commissione europea; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                zona speciale di conservazione: un sito di importanza comunitaria designato in base all'articolo 3, comma 2, in cui sono applicate le misure di conservazione necessarie al mantenimento o al ripristino, in uno stato di conservazione soddisfacente, degli habitat naturali o delle popolazioni delle specie per cui il sito e' designato; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                esemplare: qualsiasi animale o pianta, vivi o morti, delle specie elencate nell'allegato D e nell'allegato E e qualsiasi bene, parte o prodotto che risultano essere ottenuti dall'animale o dalla pianta di tali specie, in base ad un documento di accompagnamento, all'imballaggio, al marchio impresso, all'etichettatura o ad un altro elemento di identificazione; 
+
+                            
+                        
+                        
+                            o-bis)
+                            
+                                specie: insieme di individui (o di popolazioni) attualmente o potenzialmente interfecondi, illimitatamente ed in natura, isolato riproduttivamente da altre specie; 
+
+                            
+                        
+                        
+                            o-ter)
+                            
+                                popolazione: insieme di individui di una stessa specie che vivono in una determinata area geografica; 
+
+                            
+                        
+                        
+                            o-quater)
+                            
+                                ibrido: individuo risultante dall'incrocio di genitori appartenenti a specie diverse. Il termine viene correntemente usato anche per gli individui risultanti da incroci tra diverse sottospecie (razze geografiche) della stessa specie o di specie selvatiche con le razze domestiche da esse originate; 
+
+                            
+                        
+                        
+                            o-quinquies)
+                            
+                                autoctona: popolazione o specie che per motivi storico-ecologici e' indigena del territorio italiano; 
+
+                            
+                        
+                        
+                            o-sexies)
+                            
+                                non autoctona: popolazione o specie non facente parte originariamente della fauna indigena italiana; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                aree di collegamento ecologico funzionale: le aree che, per la loro struttura lineare e continua (come i corsi d'acqua con le relative sponde, o i sistemi tradizionali di delimitazione dei campi) o il loro ruolo di collegamento (come le zone umide e le aree forestali) sono essenziali per la migrazione, la distribuzione geografica e lo scambio genetico di specie selvatiche; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                reintroduzione: traslocazione finalizzata a ristabilire una polazione di una determinata entita' animale o vegetale in una parte del suo areale di documentata presenza naturale in tempi storici nella quale risulti estinta; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                introduzione: immissione di un esemplare animale o vegetale in un territorio posto al di fuori della sua area di distribuzione naturale. 
+
+                            
+                        
+                        
+                            r-bis)
+                            
+                                immissione: qualsiasi azione di introduzione, reintroduzione e ripopolamento di esemplari di specie e di popolazioni non autoctone.
 
 ## Art. 3. — Zone speciali di conservazione
 
@@ -139,6 +317,35 @@ Le regioni e le province autonome di Trento e di Bolzano, sulla base delle linee
 
 ## Art. 8. — Tutela delle specie faunistiche
 
+1.
+                        
+                            
+                                Per le specie animali di cui all'allegato D, lettera a), al presente regolamento, e' fatto divieto di:
+
+                            
+                            
+                                a)
+                                
+                                    catturare o uccidere esemplari di tali specie nell'ambiente naturale;
+                                
+                            
+                            
+                                b)
+                                
+                                    perturbare tali specie, in particolare durante tutte le fasi del ciclo riproduttivo o durante l'ibernazione, lo svernamento e la migrazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    distruggere o raccogliere le uova e i nidi nell'ambiente naturale;
+                                
+                            
+                            
+                                d)
+                                
+                                    danneggiare o distruggere i siti di riproduzione o le aree di sosta.
+
 Per le specie di cui al predetto allegato D, lettera a), e' vietato il possesso, il trasporto, lo scambio e la commercializzazione di esemplari prelevati dall'ambiente naturale, salvo quelli lecitamente prelevati prima dell'entrata in vigore del presente regolamento.
 
 I divieti di cui al comma 1, lettere a) e b), e al comma 2 si riferiscono a tutte le fasi della vita degli animali ai quali si applica il presente articolo.
@@ -148,6 +355,24 @@ Le regioni e le province autonome di Trento e di Bolzano instaurano un sistema d
 In base alle informazioni raccolte il Ministero dell'ambiente (( e della tutela del territorio )) promuove ricerche ed indica le misure di conservazione necessarie per assicurare che le catture o uccisioni accidentali non abbiano un significativo impatto negativo sulle specie in questione.
 
 ## Art. 9. — Tutela delle specie vegetali
+
+1.
+                        
+                            
+                                Per le specie vegetali di cui all'allegato D, lettera b), al presente regolamento e' fatto divieto di:
+ 
+                            
+                            
+                                a)
+                                
+                                    raccogliere, collezionare, tagliare, estirpare o distruggere intenzionalmente esemplari delle suddette specie, nella loro area di distribuzione naturale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    possedere, trasportare, scambiare o commercializzare esemplari delle suddette specie, raccolti nell'ambiente naturale, salvo quelli lecitamente raccolti prima dell'entrata in vigore del presente regolamento.
 
 I divieti di cui al comma 1, lettere a) e b), si riferiscono a tutte le fasi del ciclo biologico delle specie vegetali alle quali si applica il presente articolo.
 
@@ -159,7 +384,181 @@ Qualora risulti necessario sulla base dei dati di monitoraggio, le regioni e gli
 
 ))
 
+2.
+                        
+                            
+                                Le misure di cui al comma 1 possono comportare (( . . . )):
+ 
+                            
+                            
+                                a)
+                                
+                                    le prescrizioni relative all'accesso a determinati settori;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il divieto temporaneo o locale di prelevare esemplari nell'ambiente naturale e di sfruttare determinate popolazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la regolamentazione dei periodi e dei metodi di prelievo;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'applicazione, all'atto del prelievo, di norme cinegetiche o alieutiche che tengano conto della conservazione delle popolazioni in questione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'istituzione di un sistema di autorizzazioni di prelievi o di quote;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la regolamentazione dell'acquisto, della vendita, del possesso o del trasporto finalizzato alla vendita di esemplari;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'allevamento in cattivita' di specie animali, nonche' la riproduzione artificiale di specie vegetali, a condizioni rigorosamente controllate, onde ridurne il prelievo nell'ambiente naturale;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la valutazione dell'effetto delle misure adottate.
+
+3.
+                        
+                            
+                                Sono in ogni caso vietati tutti i mezzi di cattura non selettivi suscettibili di provocare localmente la scomparsa o di perturbare gravemente la tranquillita' delle specie, di cui all'allegato E, e in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'uso dei mezzi di cattura e di uccisione specificati nell'allegato F, lettera a);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi forma di cattura e di uccisione con l'ausilio dei mezzi di trasporto di cui all'allegato F, lettera b).
+
 ## Art. 11. — Deroghe
+
+1.
+                        
+                            
+                                Il Ministero dell'ambiente (( e della tutela del territorio )), sentiti per quanto di competenza il Ministero per le politiche agricole e l'Istituto nazionale per la fauna selvatica, puo' autorizzare le deroghe alle disposizioni previste agli articoli 8, 9 e 10, comma 3, lettere a) e b), a condizione che non esista un'altra soluzione valida e che la deroga non pregiudichi il mantenimento, in uno stato di conservazione soddisfacente, delle popolazioni della specie interessata nella sua area di distribuzione naturale, per le seguenti finalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    per proteggere la fauna e la flora selvatiche e conservare gli habitat naturali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per prevenire danni gravi, specificatamente alle colture, all'allevamento, ai boschi, al patrimonio ittico, alle acque ed alla proprieta';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'interesse della sanita' e della sicurezza pubblica o per altri motivi imperativi di rilevante interesse pubblico, inclusi motivi di natura sociale o economica, o tali da comportare conseguenze positive di primaria importanza per l'ambiente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per finalita' didattiche e di ricerca, di ripopolamento e di reintroduzione di tali specie e per operazioni (( . . . )) necessarie a tal fine, compresa la riproduzione artificiale delle piante;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per consentire, in condizioni rigorosamente controllate, su base selettiva e in misura limitata, la cattura o la detenzione di un numero limitato di taluni esemplari delle specie di cui all'allegato D.
+
+2.
+                        
+                            
+                                Qualora le deroghe, di cui al comma 1, siano applicate per il prelievo, la cattura o l'uccisione delle specie di cui all'allegato D, lettera a), sono comunque vietati tutti i mezzi non selettivi, suscettibili di provocarne localmente la scomparsa o di perturbarne gravemente la tranquillita', e in particolare:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'uso dei mezzi di cattura e di uccisione specificati nell'allegato F, lettera a);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualsiasi forma di cattura e di uccisione con l'ausilio dei mezzi di trasporto di cui all'allegato F, lettera b).
+
+3.
+                        
+                            
+                                Il Ministero dell'ambiente (( e della tutela del territorio )) trasmette alla Commissione europea, ogni due anni, una relazione sulle deroghe concesse, che dovra' indicare:
+ 
+                            
+                            
+                                a)
+                                
+                                    le specie alle quali si applicano le deroghe e il motivo della deroga, compresa la natura del rischio, con l'indicazione eventuale delle soluzioni alternative non accolte e dei dati scientifici utilizzati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i mezzi, i sistemi o i metodi di cattura o di uccisione di specie animali autorizzati ed i motivi della loro autorizzazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le circostanze di tempo e di luogo che devono regolare le deroghe;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'autorita' competente a dichiarare e a controllare che le condizioni richieste sono soddisfatte e a decidere quali mezzi, strutture o metodi possono essere utilizzati, i loro limiti, nonche' i servizi e gli addetti all'esecuzione;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le misure di controllo attuate ed i risultati ottenuti.
 
 ## Art. 12. — (Immissioni).
 

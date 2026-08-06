@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2005-12-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -49,6 +49,23 @@ AGGIORNAMENTO (2)
  Il D.L. 30 settembre 2005, n. 203, convertito, con modificazioni, dalla L. 2 dicembre 2005, n. 248 ha disposto (con l'art. 3, comma 15) che "A decorrere dal 1° ottobre 2006, il Consorzio nazionale concessionari - C.N.C., previsto dall'articolo 1, comma 1, del decreto del Presidente della Repubblica 28 gennaio 1988, n. 44, opera in forma di societa' per azioni".
 
 ## Art. 2. — Istruzioni ministeriali
+
+1.
+                    
+                        
+                            Il Ministro delle finanze con propri decreti: 
+
+                        
+                        
+                            a)
+                            
+                                emana le istruzioni per la formazione ed unificazione dei ruoli, degli elenchi e degli altri documenti automatizzati; 
+                            
+                        
+                        
+                            b)
+                            
+                                fissa la data di attuazione del sistema automatizzato per i singoli tributi e per le altre entrate affidate al servizio di riscossione, a norma dell'articolo 1, comma 2.
 
 ## Art. 3. — Affidamento del servizio e articolazione nei 
  centri elettrocontabili
@@ -108,6 +125,29 @@ AGGIORNAMENTO (1)
 ## Art. 10. — Indennizzo a favore dei cessati esattori delle imposte dirette
 
 Gli esattori titolari di gestioni esattoriali alla data di entrata in vigore del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43, concernente l'Istituzione del servizio di riscossione dei tributi e di altre entrate dello Stato e degli enti pubblici, che non siano divenuti concessionari in alcun ambito territoriale, anche tramite la partecipazione alle societa' per azioni o in societa' co- operative cui sia stata affidata la riscossione dei tributi, hanno diritto ad ottenere, a domanda, dal consorzio nazionale obbligatorio tra gli esattori, un indennizzo stabilito da un collegio di tre arbitri, all'uopo nominati, dal comitato nazionale dei delegati provinciali di cui alla lettera b) del primo comma dell'articolo 2 dello Statuto del consorzio stesso approvato con decreto del Presidente della Repubblica 2 agosto 1952, n. 1141.
+
+2.
+                    
+                        
+                            Ai fini di cui al comma 1, il collegio arbitrale ivi previsto: 
+
+                        
+                        
+                            a)
+                            
+                                compila un bilancio straordinario, da sottoporre all'approvazione del Ministro delle Finanze, per la determinazione delle attivita' del consorzio esistenti dalla entrata in vigore della nuova disciplina del servizio della riscossione dei tributi; 
+                            
+                        
+                        
+                            b)
+                            
+                                suddivise la meta' del valore delle attivita' suddette in quote proporzionali all'ammontare complessivo dei contribuenti annualmente versati nell'ultimo quinquennio da ciscun esattore consorziato; 
+                            
+                        
+                        
+                            c)
+                            
+                                liquida, in favore di ciascun richiedente, la somma al medesimo dovuta in misura pari alla quota di pertinenza calcolata ai sensi della precedente lettera b).
 
 ## Art. 11. — Definizione dei diritti patrimoniali dello Stato
 

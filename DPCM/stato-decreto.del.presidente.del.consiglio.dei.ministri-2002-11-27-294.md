@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2003-10-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -33,6 +33,73 @@ Sono ammessi alle agevolazioni i sindacati e le associazioni professionali di ca
 ))
 
 ## Art. 2. — Caratteristiche dei prodotti esclusi dalla tariffa agevolata
+
+1.
+                    
+                        
+                            Sono esclusi dalla tariffa agevolata:
+ 
+                        
+                        
+                            a)
+                            
+                                i giornali che contengono inserzioni pubblicitarie per un'area superiore al 45 per cento dell'intero stampato e quelli per i quali i relativi abbonamenti sono stati stipulati a titolo oneroso dai destinatari per una percentuale inferiore al 60 per cento del totale degli abbonamenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i giornali di pubblicita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                i giornali di promozione delle vendite di beni o servizi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i giornali di vendita per corrispondenza;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i cataloghi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                i giornali non posti in vendita, ivi compresi quelli a carattere postulatorio, ad eccezione delle pubblicazioni informative delle fondazioni ed associazioni senza fini di lucro e dei giornali postulatori utilizzati dalle organizzazioni senza fini di lucro e dalle fondazioni religiose esclusivamente per le proprie finalita' di autofinanziamento;
+
+                            
+                        
+                        
+                            g)
+                            
+                                i giornali di enti pubblici e di altri organismi, comprese le societa' riconducibili allo Stato ovvero ad altri enti territoriali, o che svolgano una pubblica funzione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                i giornali contenenti supporti integrativi o altri beni diversi da quelli definiti nell'articolo 74, primo comma, lettera c), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ai fini dell'ammissione al regime speciale previsto dallo stesso articolo 74 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633;
+
+                            
+                        
+                        
+                            i)
+                            
+                                i giornali pornografici.
 
 Per giornali e periodici di pubblicita' si intendono quelli diretti a pubblicizzare prodotti o servizi contraddistinti con il nome o altro elemento distintivo e diretti prevalentemente ad incentivarne l'acquisto. Per cataloghi si intendono le elencazioni di prodotti o servizi anche se contenenti indicazioni sulle caratteristiche dei medesimi. Si intendono per giornali e periodici posti in vendita quelli distribuiti con un prezzo effettivo per copia o per abbonamento. Sono considerati giornali e periodici a carattere postulatorio quelli finalizzati all'acquisizione di contributi, offerte, ovvero elargizioni di somme di denaro.
 

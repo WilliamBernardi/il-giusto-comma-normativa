@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2023-01-14
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -30,7 +30,253 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dello sv
 
 Il presente decreto si applica ai prodotti progettati o destinati, in modo esclusivo o meno, a essere utilizzati per fini di gioco da bambini di eta' inferiore a 14 anni. Non sono considerati giocattoli i prodotti elencati nell'allegato I.
 
+2.
+                        
+                            
+                                Il presente decreto non si applica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle attrezzature per aree da gioco per uso pubblico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle macchine da gioco automatiche, a moneta o no, per uso pubblico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai veicoli-giocattolo con motore a combustione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    alle macchine a vapore giocattolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    alle fionde e alle catapulte.
+
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto legislativo si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    messa a disposizione sul mercato: la fornitura di un giocattolo per la distribuzione, il consumo o l'uso sul mercato comunitario nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    immissione sul mercato: la prima messa a disposizione di un giocattolo sul mercato comunitario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fabbricante: persona fisica o giuridica che fabbrica un giocattolo, oppure lo fa progettare o fabbricare, e lo commercializza apponendovi il proprio nome o marchio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rappresentante autorizzato: una persona fisica o giuridica stabilita nella Comunita' che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire per suo conto in relazione a determinati compiti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    importatore: una persona fisica o giuridica stabilita nella Comunita' che immette sul mercato comunitario un giocattolo proveniente da un Paese terzo; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    distributore: una persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall'importatore, che mette a disposizione sul mercato un giocattolo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    operatori economici: il fabbricante, il rappresentante autorizzato, l'importatore e il distributore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    norma armonizzata: una norma adottata da uno degli organismi europei di normalizzazione indicati nell'allegato I della direttiva 98/34/CE sulla base di una richiesta presentata dalla Commissione conformemente all'articolo 6 di tale direttiva; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    normativa comunitaria di armonizzazione: la normativa comunitaria che armonizza le condizioni di commercializzazione dei prodotti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    accreditamento: lo stesso significato di cui al regolamento (CE) n. 765/2008; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    valutazione della conformita': il processo atto a dimostrare se i requisiti specifici relativi a un giocattolo siano stati rispettati; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    organismo di valutazione della conformita': un organismo che svolge attivita' di valutazione della conformita', fra cui tarature, prove, certificazioni e ispezioni; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    richiamo: qualsiasi provvedimento volto ad ottenere la restituzione di un giocattolo che e' gia' stato messo a disposizione dell'utilizzatore finale; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    ritiro: qualsiasi provvedimento volto a impedire la messa a disposizione sul mercato di un giocattolo nella catena della fornitura; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    vigilanza del mercato: le attivita' svolte e i provvedimenti adottati dalle autorita' competenti per garantire che i giocattoli siano conformi ai requisiti applicabili stabiliti nella normativa comunitaria di armonizzazione e non pregiudichino la salute, la sicurezza o qualsiasi altro aspetto della protezione del pubblico interesse; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    marcatura CE: una marcatura mediante cui il fabbricante indica che il giocattolo e' conforme ai requisiti applicabili stabiliti nella normativa comunitaria di armonizzazione che ne prevede l'apposizione; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    prodotto funzionale: un prodotto che svolge la stessa funzione e viene impiegato nello stesso modo di un prodotto, un apparecchio o un impianto destinato ad essere utilizzato da adulti, e che puo' essere un modello in scala di tale prodotto, apparecchio o impianto; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    giocattolo funzionale: un giocattolo che svolge la stessa funzione e viene impiegato nello stesso modo di un prodotto, un apparecchio o un impianto destinato ad essere utilizzato da adulti, e che puo' essere un modello in scala di tale prodotto, apparecchio o impianto; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    giocattolo acquatico: un giocattolo destinato a essere usato in acque poco profonde e che e' in grado di reggere o sostenere il bambino sull'acqua; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    velocita' di progetto: tipica velocita' operativa potenziale determinata dalla progettazione del giocattolo; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    gioco di attivita': un gioco per uso domestico nel quale la struttura di supporto resta ferma durante l'attivita' e che e' destinato a permettere a un bambino di svolgere una delle seguenti attivita': arrampicarsi, saltare, dondolare, scivolare, cullarsi, avvitarsi, gattonare o strisciare o qualsiasi combinazione di esse; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    giocattolo chimico: un giocattolo destinato alla manipolazione diretta di sostanze chimiche e destinato ad essere utilizzato da bambini di uno specifico gruppo di eta' e sotto la supervisione di un adulto; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    gioco olfattivo da tavolo: un giocattolo il cui scopo e' quello di aiutare il bambino ad imparare a riconoscere diversi odori o profumi; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    kit cosmetico: un giocattolo il cui scopo e' quello di aiutare il bambino a imparare a creare prodotti come profumi, saponi, creme, shampoo, bagnoschiuma, lucidalabbra, rossetti, e altri trucchi, dentifrici e balsami; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    gioco gustativo: un gioco il cui scopo e' quello di permettere al bambino di preparare dolci o piatti che comportano l'uso di ingredienti alimentari, come dolci, liquidi, polveri e aromi; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    danno: le lesioni fisiche o qualsiasi altro danno alla salute inclusi effetti sulla salute a lungo termine; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    pericolo: una fonte potenziale di danno; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    rischio: la probabilita' di insorgenza di un pericolo fonte di danni e la gravita' dei danni; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    destinato a essere utilizzato da: indicazione atta a permettere a un genitore o a un supervisore di valutare se il giocattolo, in base alle sue funzioni, dimensioni e caratteristiche, e' destinato ad essere utilizzato da bambini della fascia di eta' indicata.
 
 ## - Capo II Obblighi degli operatori economici
 
@@ -63,6 +309,31 @@ I fabbricanti, a seguito di una richiesta motivata delle autorita' competenti fo
 Il fabbricante puo' nominare, mediante mandato scritto, un rappresentante autorizzato.
 
 Gli obblighi di cui all'articolo 3, comma 1, e la stesura della documentazione tecnica non rientrano nel mandato del rappresentante autorizzato.
+
+3.
+                        
+                            
+                                Il rappresentante autorizzato esegue i compiti specificati nel mandato ricevuto dal fabbricante. Il mandato consente al rappresentante autorizzato di eseguire almeno i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantenere a disposizione dell'autorita' di vigilanza la dichiarazione CE di conformita' e la documentazione tecnica per un periodo di dieci anni dopo l'immissione sul mercato del giocattolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a seguito di una richiesta motivata dell'autorita' competente, fornire tutte le informazioni e la documentazione necessarie per dimostrare la conformita' di un giocattolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cooperare, su richiesta, con l'autorita' competente, in ordine a qualsiasi azione intrapresa per eliminare i rischi presentati dai giocattoli che rientrano nel loro mandato.
 
 ## Art. 5. — Obblighi degli importatori
 
@@ -176,6 +447,38 @@ Prima di immettere un giocattolo sul mercato, allo scopo di dimostrare che il gi
 
 Il fabbricante, qualora abbia applicato le norme armonizzate i cui riferimenti sono stati pubblicati nella Gazzetta Ufficiale dell'Unione europea riguardanti tutti i requisiti di sicurezza del giocattolo, segue la procedura di controllo interno della produzione di cui al modulo A dell'allegato II della decisione n. 768/2008/CE.
 
+3.
+                        
+                            
+                                Il giocattolo e' sottoposto ad esame CE del tipo, di cui all'articolo 17, congiuntamente alla procedura di conformita' al tipo prevista dal modulo C dell'allegato II della decisione n. 768/2008/CE nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora non esistano norme armonizzate, i cui riferimenti siano stati pubblicati nella Gazzetta Ufficiale dell'Unione europea, riguardanti tutti i requisiti di sicurezza del giocattolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando esistono le norme armonizzate di cui alla lettera a), ma il fabbricante non le ha applicate o le ha applicate solo in parte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando una o piu' norme armonizzate di cui alla lettera a) sono state pubblicate con una limitazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando il fabbricante ritiene che la natura, la progettazione, la costruzione o la destinazione del giocattolo richiedono il ricorso alla verifica di parti terze, cosi' come individuate ai sensi dell'articolo 19, comma 1.
+
 ## Art. 17. — Esame CE del tipo
 
 La richiesta di esame CE del tipo, l'esecuzione dell'esame e il rilascio dell'attestato d'esame CE del tipo sono effettuati conformemente alle procedure di cui al modulo B dell'allegato II della decisione n. 768/2008/CE. L'esame CE del tipo e' effettuato secondo le modalita' specificate al paragrafo 2, secondo trattino, di tale modulo B. In aggiunta a tali disposizioni sono applicati i requisiti di cui ai commi da 2 a 6.
@@ -230,6 +533,64 @@ Un organismo appartenente a un'associazione d'imprese o a una federazione profes
 L'organismo di valutazione della conformita', i suoi alti dirigenti e il personale addetto alla valutazione della conformita' non sono ne' il progettista, ne' il fabbricante, ne' il fornitore, ne' l'installatore, ne' l'acquirente, ne' il proprietario, ne' l'utente o il responsabile della manutenzione dei giocattoli sottoposti alla sua valutazione, ne' il rappresentante autorizzato di uno di questi soggetti. Cio' non preclude l'uso dei giocattoli valutati che sono necessari per il funzionamento dell'organismo di valutazione della conformita' o l'uso di tali giocattoli per scopi privati. L'organismo di valutazione della conformita', i suoi alti dirigenti e il personale addetto alla valutazione della conformita' non intervengono direttamente nella progettazione o nella fabbricazione, nella commercializzazione, nell'installazione, nell'utilizzo o nella manutenzione di tali giocattoli, ne' rappresentano i soggetti impegnati in tali attivita'. Non intraprendono alcuna attivita' che possa essere in conflitto con la loro indipendenza di giudizio o la loro integrita' per quanto riguarda le attivita' di valutazione della conformita' per cui sono notificati. Cio' vale in particolare per i servizi di consulenza. Gli organismi di valutazione della conformita' garantiscono che le attivita' delle loro affiliate o dei loro subappaltatori non si ripercuotano sulla riservatezza, sull'obiettivita' o sull'imparzialita' delle loro attivita' di valutazione della conformita'.
 
 Gli organismi di valutazione della conformita' e il loro personale eseguono le operazioni di valutazione della conformita' con il massimo dell'integrita' professionale e della competenza tecnica e sono liberi da qualsivoglia pressione e incentivo, soprattutto di ordine finanziario, che possa influenzare il loro giudizio o i risultati delle loro attivita' di valutazione, in particolare da persone o gruppi di persone interessati ai risultati di tali attivita'.
+
+6.
+                        
+                            
+                                L'organismo di valutazione della conformita' e' in grado di eseguire tutti i compiti di valutazione della conformita' assegnatigli in base all'articolo 17 e per cui e' stato notificato, indipendentemente dal fatto che siano eseguiti dall'organismo stesso o per suo conto e sotto la sua responsabilita'. L'organismo di valutazione della conformita' dispone dei mezzi necessari per eseguire i compiti tecnici e amministrativi connessi alle attivita' di valutazione della conformita' in modo appropriato e ha accesso a tutti gli strumenti o impianti occorrenti. In ogni momento, per ogni procedura di valutazione della conformita' e per ogni tipo o categoria di giocattoli per i quali e' stato notificato, l'organismo di valutazione della conformita' ha a sua disposizione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    personale con conoscenze tecniche ed esperienza sufficiente e appropriata per eseguire i compiti di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le necessarie descrizioni delle procedure in conformita' delle quali avviene la valutazione della conformita', garantendo la trasparenza e la capacita' di riproduzione di tali procedure.
+Predispone una politica e procedure appropriate che distinguano i compiti che svolge in qualita' di organismo notificato dalle altre attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedure per svolgere le attivita' che tengano debitamente conto delle dimensioni di un'impresa, del settore in cui opera, della sua struttura, del grado di complessita' della tecnologia del giocattolo in questione e della natura seriale o di massa del processo produttivo.
+
+7.
+                        
+                            
+                                Il personale responsabile dell'esecuzione delle attivita' di valutazione della conformita' dispone di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione tecnica e professionale solida che includa tutte le attivita' di valutazione della conformita' in relazione a cui l'organismo di valutazione della conformita' e' stato notificato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    soddisfacenti conoscenze delle prescrizioni relative alle valutazioni che esegue e un'adeguata autorita' per eseguire tali valutazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una conoscenza e una comprensione adeguate delle prescrizioni fondamentali, delle norme armonizzate applicabili e della pertinente normativa comunitaria di armonizzazione, nonche' dei suoi regolamenti di attuazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la capacita' di elaborare certificati, registri e rapporti atti a dimostrare che le valutazioni sono state eseguite.
 
 E' assicurata l'imparzialita' degli organismi di valutazione della conformita', dei loro alti dirigenti e del personale addetto alle valutazioni. La remunerazione degli alti dirigenti e del personale addetto alle valutazioni di un organismo di valutazione della conformita' non dipende dal numero di valutazioni eseguite o dai risultati di tali valutazioni.
 
@@ -289,6 +650,38 @@ Qualora non siano prese misure correttive o non producano il risultato richiesto
 Un organismo notificato non rilascia certificati di esame CE del tipo in relazione a giocattoli per i quali sia stato rifiutato o ritirato un certificato.
 
 ## Art. 27. — Obbligo di informazione a carico degli organismi notificati
+
+1.
+                        
+                            
+                                Gli organismi notificati informano il Ministero dello sviluppo economico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di qualunque rifiuto, limitazione, sospensione o ritiro di certificati d'esame CE del tipo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di qualunque circostanza che possa influire sull'ambito e sulle condizioni della notifica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di eventuali richieste di informazioni che abbiano ricevuto dall'autorita' di vigilanza del mercato in relazione alle attivita' di valutazione della conformita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su richiesta, delle attivita' di valutazione della conformita' eseguite nell'ambito della loro notifica e di qualsiasi altra attivita', incluse quelle transfrontaliere e di subappalto.
 
 Gli organismi notificati forniscono agli altri organismi notificati a norma del presente decreto, le cui attivita' di valutazione della conformita' sono simili e coprono gli stessi giocattoli, informazioni pertinenti sulle questioni relative ai risultati negativi e, su richiesta, positivi, delle valutazioni della conformita'.
 

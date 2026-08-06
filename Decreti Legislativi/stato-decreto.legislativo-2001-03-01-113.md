@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2005-07-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,25 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli 
 ## Art. 1.
 
 Sono istituite le dotazioni organiche del ruolo locale del Centro di servizio sociale per adulti e dell'Ufficio di servizio sociale per minorenni in provincia di Bolzano, stabilite dalla tabella n. 1, allegata al presente decreto. Dette dotazioni organiche sono aggiunte alla tabella n. 9, allegata al decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e contrassegnate rispettivamente con le lettere C) e D).
+
+2.
+                    
+                        
+                            Il personale appartenente ai ruoli del Ministero della giustizia che alla data di pubblicazione del presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                risulti in servizio presso il Centro servizio sociale per adulti di Trento e che abbia superato il concorso pubblico per l'assunzione prima dell'emanazione del decreto ministeriale 17 dicembre 1996;
+
+                            
+                        
+                        
+                            b)
+                            
+                                risulti in possesso dell'attestato di conoscenza delle due lingue previsto dall'articolo 4 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modifiche ed integrazioni relativa alla qualifica rivestita;
+puo' chiedere il trasferimento presso il Centro di servizio sociale per adulti in provincia di Bolzano. Tale personale e' assimilato al personale di cui all'articolo 9 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752.
 
 Il personale interessato dovra' inoltrare per via gerarchica al commissario del Governo per la provincia di Bolzano apposita domanda entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-05-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -88,6 +88,42 @@ Le Universita' comunicano annualmente al Ministero della sanita' il numero dei c
 
 ## Art. 6.
 
+1.
+                        
+                            
+                                I diplomi, certificati od altri titoli di medico rilasciati dagli Stati di origine o provenienza che comprovino una formazione non rispondente all'insieme delle esigenze minime di formazione di cui all'articolo 18 sono ammessi al riconoscimento di cui all'articolo 2 se:
+ 
+                            
+                            
+                                a)
+                                
+                                    sanciscono una formazione iniziata anteriormente al l gennaio 1981 per la Grecia, l gennaio 1986 per la Spagna e il Portogallo e al 20 dicembre 1976 per gli altri Stati membri, alla data di adesione per l'Austria, Svezia e Finlandia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono accompagnati da un attestato, rilasciato dalle Autorita' competenti, dal quale risulti che essi hanno effettivamente svolto la specifica professione o attivita' per un periodo di almeno tre anni consecutivi nel corso dei cinque anni che precedono il rilascio dell'attestato.
+
+2.
+                        
+                            
+                                I diplomi, certificati o altri titoli di medico specialista rilasciati da altri Stati membri che non rispondono ai requisiti di cui all'articolo 20, sono ammessi al riconoscimento di cui agli articoli 3 e 4 se:
+ 
+                            
+                            
+                                a)
+                                
+                                    sanciscono una formazione iniziata anteriormente al l gennaio 1981 per la Grecia, al l gennaio 1986 per la Spagna e il Portogallo, al 20 dicembre 1976 per gli altri Stati membri, alla data di adesione per l'Austria, Svezia e Finlandia;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono accompagnati da un attestato, rilasciato dalle Autorita' competenti, da cui risulti che essi si sono effettivamente e lecitamente dedicati alla specifica attivita' per un periodo equivalente al doppio della differenza tra la durata di formazione specialistica richiesta nello Stato membro di origine o di provenienza e la durata minima di formazione prevista nell'allegato E. Per le specializzazioni per le quali in Italia era richiesta, prima dell'entrata in vigore del presente decreto legislativo, una durata minima di formazione inferiore a quella prevista nell'allegato E, per il conseguimento dei titoli di cui agli allegati B e C, la differenza e' determinata in base alla durata minima di formazione.
+
 I diplomi, certificati ed altri titoli di medico o di medico specialista che non corrispondono alle denominazioni che figurano, per lo Stato membro che li ha rilasciati, negli allegati A, B e C, sono riconosciuti come corrispondenti se corredati di un certificato delle Autorita' competenti nel quale e' attestato che essi sono rilasciati a conclusione di una formazione conforme alle disposizioni previste dalla normativa comunitaria e sono assimilati da parte dello Stato membro che li ha rilasciati a quelli la cui denominazione figura nei predetti allegati.
 
 ((
@@ -95,6 +131,56 @@ I diplomi, certificati ed altri titoli di medico o di medico specialista che non
 I titoli di specializzazione in medicina rilasciati in Spagna a medici che hanno portato a termine, anteriormente al 1° gennaio 1995, una formazione specializzata non conforme ai requisiti per la formazione di cui all'articolo 20, sono riconosciuti in Italia se corredati di un certificato rilasciato dalle competenti autorita' spagnole che attesti che l'interessato ha superato l'esame di idoneita' professionale specifica organizzato nel contesto delle misure speciali di regolarizzazione contenute nel regio decreto n. 1497/1999 ivi vigente.
 
 ))
+
+4.
+                        
+                            
+                                I diplomi, certificati ed altri titoli che attestano una formazione di medico acquisita dai cittadini degli Stati membri nel territorio dell'ex Repubblica Democratica Tedesca, che non risponde a tutti i requisiti di cui all'articolo 18 sono riconosciuti in Italia se:
+ 
+                            
+                            
+                                a)
+                                
+                                    sanzionano una formazione iniziata prima del 3 ottobre 1990;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    danno diritto all'esercizio dell'attivita' di medico chirurgo in tutto il territorio della Germania alle stesse condizioni dei titoli rilasciati dalle Autorita' competenti tedesche e indicati nell'allegato A, lettera c);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si accompagnano ad un certificato rilasciato dalle Autorita' competenti tedesche attestante che i loro titolari si sono dedicati effettivamente e lecitamente in Germania alla professione di medico per un periodo di almeno tre anni consecutivi nel corso dei cinque che precedono il rilascio dell'attestato.
+
+5.
+                        
+                            
+                                I diplomi, certificati ed altri titoli che attestano una formazione di medico specialista acquisita dai cittadini degli Stati membri nel territorio dell'ex Repubblica Democratica Tedesca e che non posseggono i requisiti minimi di formazione di cui all'articolo 20, sono riconosciuti in Italia se:
+ 
+                            
+                            
+                                a)
+                                
+                                    attestano una formazione iniziata prima del 3 aprile 1992;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    permettono l'esercizio, quale medico specialista, della corrispondente attivita' in tutto il territorio della Germania alle stesse condizioni dei titoli rilasciati dalle Autorita' competenti tedesche ed indicati negli allegati B e C;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    si accompagnano ad un certificato, rilasciato dalle Autorita' competenti tedesche, attestante l'esercizio, in qualita' di medico specialista, dell'attivita' corrispondente per un periodo equivalente al doppio della differenza tra la durata minima di formazione di cui all'articolo 20 e quella acquisita nel territorio tedesco.
 
 ## - Titolo II RECIPROCO RICONOSCIMENTO DEI TITOLI Capo IV Uso del titolo professionale e di formazione
 
@@ -157,6 +243,38 @@ Di ogni eventuale provvedimento adottato in caso di violazione o inottemperanza 
 
 Il medico o medico specialista cittadino di altri Stati membri dell'Unione europea, che intende erogare prestazioni occasionali, deve essere autorizzato dal Ministero della sanita' in via preventiva.
 
+2.
+                        
+                            
+                                L'autorizzazione di cui al comma 1 e' subordinata alla presentazione, da parte dell'interessato, di apposita richiesta in lingua italiana con l'indicazione della motivazione giustificante le prestazioni di cui al comma 1 e corredata di:
+ 
+                            
+                            
+                                a)
+                                
+                                    indicazione dell'ordine dei medici chirurghi corrispondente alla provincia nella quale intende erogare la prestazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificazione relativa all'attivita' medica legalmente esercitata nello Stato di origine o provenienza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    certificazione della competente Autorita' del Paese di origine o provenienza che garantisca il possesso dei titoli o diplomi richiesti;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    indicazione del domicilio durante la permanenza in Italia.
+
 In caso di urgenza, la richiesta motivata di autorizzazione deve essere presentata subito dopo l'effettuazione della prestazione e comunque entro il termine di quindici giorni.
 
 La documentazione di cui al comma 2, lettere b) e c), deve essere di data non anteriore ai dodici mesi dalla data della richiesta.
@@ -195,6 +313,38 @@ In casi di dubbio fondato il Ministero della sanita' richiede all'Autorita' comp
 
 ## Art. 18.
 
+1.
+                        
+                            
+                                La formazione di medico chirurgo comprende:
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguate conoscenze delle scienze sulle quali si fonda l'arte medica, nonche' una buona comprensione dei metodi scientifici, compresi i principi relativi alla misura delle funzioni biologiche, alla valutazione di fatti stabiliti scientificamente e all'analisi dei dati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adeguate conoscenze della struttura, delle funzioni e del comportamento degli esseri umani, in buona salute e malati, nonche' dei rapporti tra l'ambiente fisico e sociale dell'uomo ed il suo stato di salute;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adeguate conoscenze dei problemi e delle metodologie cliniche atte a sviluppare una concezione coerente della natura delle malattie mentali e fisiche, dei tre aspetti della medicina: prevenzione, diagnosi e terapia, nonche' della riproduzione umana;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adeguata esperienza clinica acquisita sotto opportuno controllo in ospedale.
+
 La formazione di cui al comma l comprende un percorso formativo di durata minima di sei anni o un minimo di 5.500 ore di insegnamento teoriche e pratiche impartite in una universita' o sotto il controllo di una universita'.
 
 ((
@@ -210,6 +360,45 @@ Resta impregiudicata, per il Ministero della sanita', la facolta' di consentire 
 ## - Titolo III FORMAZIONE Capo II Condizione e formazione dei medici specialisti
 
 ## Art. 20.
+
+1.
+                        
+                            
+                                La formazione che permette di ottenere un diploma di medico chirurgo specialista nelle specializzazioni indicate negli allegati B e C, risponde ai seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    presupporre il conferimento e validita' del titolo conseguito a seguito di un ciclo di formazione di cui all'articolo l8 nel corso del quale siano state acquisite adeguate conoscenze nel campo della medicina generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    insegnamento teorico e pratico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    formazione a tempo pieno sotto il controllo delle autorita' o enti competenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    formazione effettuata in un ateneo universitario o in una azienda ospedaliera o in un istituto accreditato a tal fine dalle autorita' competenti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    partecipazione personale del medico chirurgo candidato alla specializzazione, alle attivita' e responsabilita' proprie della disciplina.
 
 Il rilascio di un diploma di medico chirurgo specialista e' subordinato al possesso di un diploma di medico chirurgo.
 
@@ -248,6 +437,45 @@ Il corso di cui al comma 1, comporta un impegno dei partecipanti a tempo pieno c
 La durata del corso di cui al comma 1, puo' essere ridotta per un periodo massimo di un anno e comunque pari a quello della formazione pratica di cui all'articolo 18, se tale formazione e' impartita o in ambiente ospedaliero riconosciuto e che disponga di attrezzature e di servizi adeguati di medicina generale o nell'ambito di uno studio di medicina generale riconosciuto o in un centro riconosciuto in cui i medici dispensano cure primarie. Le Universita' notificano l'attivazione di tali periodi di formazione al Ministero della salute e al Ministero dell'istruzione, dell'universita' e della ricerca.
 
 Per il primo corso di formazione della durata triennale, il cui avvio e' previsto entro il 31 dicembre 2003, la durata puo' essere ridotta per un periodo massimo di un anno riconducibile a periodi di tirocinio teorico-pratico precedenti l'esame di abilitazione che rispettino le caratteristiche e le condizioni previste al comma 2-bis. Il rimanente percorso formativo teorico-pratico e', per questo primo corso, quello previsto dal presente decreto legislativo in attesa dei principi di riferimento di cui all'articolo 25, comma 2.
+
+3.
+                        
+                            
+                                La formazione a tempo pieno, implica la partecipazione alla totalita' delle attivita' mediche del servizio nel quale si effettua la formazione, comprese le guardie, in modo che il medico in formazione dedichi a tale formazione pratica e teorica tutta la sua attivita' professionale per l'intera durata della normale settimana lavorativa e per tutta la durata dell'anno. La frequenza del corso non comporta l'instaurazione di un rapporto di dipendenza o lavoro convenzionale ne' con il Servizio sanitario nazionale, ne' con i medici tutori. Le regioni e le province autonome possono organizzare corsi a tempo parziale purche' siano soddisfatte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il livello della formazione corrisponda qualitativamente a quello della formazione a tempo pieno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la durata complessiva della formazione non sia abbreviata rispetto quella a tempo pieno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'orario settimanale della formazione non sia inferiore al 50% dell'orario settimanale a tempo pieno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DAL D.L. 30 APRILE 2019, N. 35; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA ABROGATA DAL D.L. 30 APRILE 2019, N. 35.
 
 Il medico iscritto ai corsi di cui al comma l, ove sussista un rapporto di pubblico impiego, e' collocato, compatibilmente con le esigenze di servizio, in posizione di aspettativa senza assegni secondo le disposizioni legislative contrattuali vigenti. Il periodo di aspettativa e' utile ai fini della progressione di carriera e del trattamento di quiescenza e di previdenza.
 
@@ -298,6 +526,60 @@ Nel caso di costituzione di piu' commissioni i candidati sono assegnati a ciascu
 
 ((1. Il corso di formazione specifica in medicina generale si articola in attivita' didattiche pratiche e attivita' didattiche teoriche da svolgersi in un ambiente ospedaliero individuato dalla regione o provincia autonoma territorialmente competente, in relazione alla disponibilita' di attrezzature e di servizi, o nell'ambito di uno studio di medicina generale o di un centro anch'esso accreditato, ai fini della formazione, dalla regione o provincia autonoma. La formazione prevede un totale di almeno 4800 ore, di cui 2/3 rivolti all'attivita' formativa di natura pratica.
 Gli obiettivi didattici, le metodologie di insegnamento-apprendimento ed i programmi delle attivita' teoriche e pratiche e l'articolazione della formazione vengono definiti con decreto del Ministro della salute, sentito il Consiglio superiore di sanita', la Conferenza per i rapporti permanenti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e la Federazione nazionale degli ordini dei medici chirurghi e degli odontoiatri))
+
+2.
+                        
+                            
+                                Il corso prevede:
+ 
+                            
+                            
+                                a)
+                                
+                                    un periodo di formazione in medicina clinica e medicina di laboratorio, articolato in almeno ((sei)) mesi effettuato presso strutture ospedaliere, pubbliche o equiparate, individuate a tale scopo dalla regione, nonche' in centri di cure primarie quali day- hospital e ambulatori delle aziende unita' sanitarie locali, con attribuzione alle stesse della responsabilita' della formazione.
+Il periodo comprende un'attivita' clinica guidata ed un'attivita' di partecipazione a seminari su argomenti di metodologia clinica, neurologia e psichiatria, medicina interna, terapia medica, medicina di urgenza, oncologia medica, geriatria e patologia clinica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un periodo di formazione in chirurgia generale, articolato in almeno ((tre)) mesi, effettuato sempre presso le strutture indicate alla lettera a), comprendente: attivita' clinica guidata ed attivita' di partecipazione a seminari su metodologia clinica, chirurgia generale, chirurgia d'urgenza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un periodo di formazione nei dipartimenti materno-infantili, articolato in almeno ((quattro)) mesi, effettuato sempre nelle strutture indicate alla lettera a) e nelle strutture territoriali comprendenti: attivita' clinica guidata ed attivita' di partecipazione a seminari di pediatria generale, terapia pediatrica, neuropsichiatria infantile, pediatria preventiva;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un periodo di formazione, articolato in ((dodici)) mesi, effettuato presso un ambulatorio di un medico di medicina generale convenzionato con il servizio sanitario nazionale, comprendente attivita' medica guidata ambulatoriale e domiciliare; ovvero qualora non sia reperibile un numero adeguato di medici convenzionati all'uopo disponibili, il predetto periodo di formazione puo' effettuarsi anche in parte presso le strutture di cui alla lettera a);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un periodo di formazione, articolata in almeno ((sei)) mesi, effettuato presso strutture di base dell'unita' sanitaria locale sul territorio con il coordinamento del responsabile delle unita' operative, comprendente attivita' pratica guidata presso distretti, consultori, ambulatori e laboratori, attivita' di partecipazione a seminari in medicina preventiva, igiene ambientale, medicina del lavoro ed igiene e profilassi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un periodo di formazione in ostetricia e ginecologia, con attivita' clinica guidata ed attivita' di partecipazione a seminari, articolato in almeno ((due mesi)) effettuato presso le strutture indicate alla lettera a);
+
+                                
+                            
+                            
+                                f-bis)
+                                
+                                    un periodo di formazione in pronto soccorso ed emergenza urgenza ospedaliera articolato in almeno tre mesi.
 
 ((
 
@@ -377,6 +659,24 @@ Il Ministero della sanita' fornisce a richiesta delle competenti autorita' sanit
 
 ## Art. 33.
 
+1.
+                        
+                            
+                                Ai fini del riconoscimento dei titoli, certificati ed altri titoli, previsti dal presente decreto legislativo, l'interessato deve presentare al Ministero della sanita' istanza in lingua italiana, in carta semplice, corredata dai seguenti documenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    originale o copia autentica del titolo previsto dagli allegati A, B, C, D, E per l'attivita' di medico chirurgo, medico chirurgo specialista, medico chirurgo di medicina generale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato di lecito ed effettivo svolgimento dell'attivita' professionale rilasciato dalla competente autorita' del Paese di origine o provenienza.
+
 Il Ministero della sanita', d'intesa con il Ministero dell'universita' e ricerca scientifica e tecnologica, entro tre mesi accerta la regolarita' della domanda e relativa documentazione, provvede ad autorizzare l'ordine provinciale dei medici chirurghi presso il quale l'interessato deve richiedere l'iscrizione, trasmettendo la relativa documentazione. Stessa comunicazione e', per conoscenza, inviata all'interessato. Il rigetto dell'istanza da parte del Ministero della sanita' e' motivato.
 
 L'interessato, entro sessanta giorni dal ricevimento della comunicazione, deve, a pena decadenza del diritto di stabilimento, iscriversi all'ordine provinciale dei medici chirurghi. L'ordine provinciale dei medici chirurghi nel termine di tre mesi dalla data di ricezione della domanda corredata dalla documentazione inviata dal Ministero della sanita' adempie alle procedure per l'iscrizione come stabilito dall'ordinamento vigente. Dell'esito della procedura deve essere data comunicazione al Ministero della sanita' entro e non oltre un mese dalla data dell'iscrizione.
@@ -421,6 +721,38 @@ Per usufruire dei posti riservati di cui al comma 3 e per accedere in soprannume
 
 ## Art. 36.
 
+1.
+                        
+                            
+                                Entro centottanta giorni dalla data di entrata in vigore del presente decreto legislativo, con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica sono determinati le modalita' per l'ammissione alle scuole di specializzazione, i contenuti e le modalita' delle prove, nonche' i criteri per la valutazione dei titoli e per la composizione della commissione nel rispetto dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le prove di ammissione si svolgono a livello locale, in una medesima data per ogni singola tipologia, con contenuti definiti a livello nazionale, secondo un calendario predisposto con congruo anticipo e adeguatamente pubblicizzato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i punteggi delle prove sono attribuiti secondo parametri oggettivi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    appositi punteggi sono assegnati, secondo parametri oggettivi, al voto di laurea e al curriculum degli studi: 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'esito delle prove e' formata una graduatoria nazionale in base alla quale i vincitori sono destinati alle sedi prescelte, in ordine di graduatoria. Sono fatte salve le disposizioni di cui ((all'articolo 35 del presente decreto e)) all'articolo 757, comma 2, del codice dell'ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66.
+
 Sono fatte salve le disposizioni normative delle province autonome di Trento e di Bolzano relative all'assegnazione dei contratti di formazione specialistica finanziati dalle medesime province autonome attraverso convenzioni stipulate con le universita'.
 
 Nelle more dell'adozione del decreto di cui al comma 1 del presente articolo si applica l'articolo 3 del decreto legislativo 8 agosto 1991, n. 257.
@@ -434,6 +766,38 @@ Lo schema-tipo del contratto e' definito con decreto del Presidente del Consigli
 Il contratto e' stipulato con l'universita', ove ha sede la scuola di specializzazione, e con la regione nel cui territorio hanno sede le aziende sanitarie le cui strutture sono parte prevalente della rete formativa della scuola di specializzazione.
 
 Il contratto e' annuale ed e' rinnovabile, di anno in anno, per un periodo di tempo complessivamente uguale a quello della durata del corso di specializzazione. Il rapporto instaurato ai sensi del comma 1 cessa comunque alla data di scadenza del corso legale di studi, salvo quanto previsto dal successivo comma 5 e dall'articolo 40.
+
+5.
+                        
+                            
+                                Sono causa di risoluzione anticipata del contratto:
+ 
+                            
+                            
+                                a)
+                                
+                                    la rinuncia al corso di studi da parte del medico in formazione specialistica;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la violazione delle disposizioni in materia di incompatibilita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le prolungate assenze ingiustificate ai programmi di formazione o il superamento del periodo di comporto in caso di malattia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il mancato superamento delle prove stabilite per il corso di studi di ogni singola scuola di specializzazione.
 
 In caso di anticipata risoluzione del contratto il medico ha comunque diritto a percepire la retribuzione maturata alla data della risoluzione stessa nonche' a beneficiare del trattamento contributivo relativo al periodo lavorato.
 
@@ -494,7 +858,92 @@ L'azienda sanitaria presso la quale il medico in formazione specialistica svolge
 
 ## Art. 43.
 
+1.
+                        
+                            
+                                Presso il Ministero dell'universita' e della ricerca scientifica e tecnologica e' istituito l'Osservatorio nazionale della formazione medica specialistica con il compito di determinare gli standard per l'accreditamento delle strutture universitarie e ospedaliere per le singole specialita', di determinare e di verificare i requisiti di idoneita' della rete formativa e delle singole strutture che le compongono, effettuare il monitoraggio dei risultati della formazione, nonche' definire i criteri e le modalita' per assicurare la qualita' della formazione, in conformita' alle indicazioni dell'Unione europea. Ai fini della determinazione dei requisiti di idoneita' della rete formativa si tiene conto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dell'adeguatezza delle strutture e delle attrezzature per la didattica, la ricerca e lo studio dei medici in formazione specialistica, ivi compresi i mezzi di accesso alla lettura professionale nazionale e internazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di un numero e di una varieta' di procedure pratiche sufficienti per un addestramento completo alla professione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della presenza di servizi generali e diagnostici collegati alla struttura dove si svolge la formazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle coesistenze di specialita' affini e di servizi che permettono un approccio formativo multidisciplinare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    della sussistenza di un sistema di controllo di qualita' delle prestazioni professionali; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    del rispetto del rapporto numerico tra tutori e medici in formazione spccialistica di cui all'articolo 38, comma 1.
+
 L'accreditamento delle singole strutture e' disposto, su proposta dell'Osservatorio di cui al comma 1, con decreto del Ministro della sanita' di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica.
+
+3.
+                        
+                            
+                                L'Osservatorio nazionale e' composto da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tre rappresentanti del Ministero dell'universita' e della ricerca scientifica e tecnologica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tre rappresentanti del Ministero della sanita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tre presidi della facolta' di medicina e chirurgia, designati dalla Conferenza permanente dei rettori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tre rappresentanti delle regioni designati dalla Conferenza permanente dei presidenti delle regioni e delle province autonome di Trento e Bolzano; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tre rappresentanti dei medici in formazione specialistica, eletti fra gli studenti iscritti alle scuole di specializzazione con modalita' definite con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica. Fino alla data dell'elezione dei rappresentanti di cui alla presente lettera, fanno parte dell'Osservatorio tre medici in formazione specialistica nominati, su designazione delle associazioni nazionali di categoria maggiormente rappresentative, dal Ministro della sanita', d'intesa con il Ministro dell'universita' e della ricerca scientifica e tecnologica, uno per ciascuna delle tre aree funzionali cui afferiscono le scuole di specializzazione.
 
 Il presidente dell'Osservatorio e' nominato d'intesa fra il Ministro della sanita' ed il Ministro dell'universita' e della ricerca scientifica e tecnologica.
 

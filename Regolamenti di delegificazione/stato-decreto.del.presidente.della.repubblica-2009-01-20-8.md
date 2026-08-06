@@ -8,8 +8,8 @@ codice_redazionale: 009G0016
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -27,6 +27,39 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per le p
 
 ## Art. 1. — Modifiche all'articolo 1 del decreto del Presidente
  della Repubblica 14 maggio 2007, n. 115
+
+1.
+                    
+                        
+                            All'articolo 1 del decreto del Presidente della Repubblica 14 maggio 2007, n. 115, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, lettera c), le parole: «e sociali» sono sostituite dalle seguenti: «, sociali e imprenditoriali»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ «3. Il Vice Presidente, nominato ai sensi dell'articolo 4, sostituisce il Presidente in caso di assenza o di temporaneo impedimento o su delega dello stesso.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, dopo il primo periodo, e' inserito il seguente: «Alle riunioni della Commissione partecipa, senza diritto di voto, il Capo Dipartimento per le pari opportunita'.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 5, dopo l'ultimo periodo, e' aggiunto, in fine, il seguente: «Alle riunioni della Commissione puo' essere invitata la consigliera o il consigliere nazionale di parita' quando si discuta di questioni che coinvolgono materie di loro competenza.».
 
 ## Art. 2. — Modifiche all'articolo 4 del decreto del Presidente
  della Repubblica 14 maggio 2007, n. 115

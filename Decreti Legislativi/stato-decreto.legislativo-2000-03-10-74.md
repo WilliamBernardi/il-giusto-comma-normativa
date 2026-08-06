@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,92 @@ Sulla proposta del Ministro delle finanze e del Ministro della giustizia;
 ## - Titolo I DEFINIZIONI
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto legislativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per "fatture o altri documenti per operazioni inesistenti" si intendono le fatture o gli altri documenti aventi rilievo probatorio analogo in base alle norme tributarie, emessi a fronte di operazioni non realmente effettuate in tutto o in parte o che indicano i corrispettivi o l'imposta sul valore aggiunto in misura superiore a quella reale, ovvero che riferiscono l'operazione a soggetti diversi da quelli effettivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per "elementi attivi o passivi" si intendono le componenti, espresse in cifra, che concorrono, in senso positivo o negativo, alla determinazione del reddito o delle basi imponibili rilevanti ai fini dell'applicazione delle imposte sui redditi o sul valore aggiunto e le componenti che incidono sulla determinazione dell'imposta dovuta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per "dichiarazioni" si intendono anche le dichiarazioni presentate in qualita' di amministratore, liquidatore o rappresentante di societa', enti o persone fisiche o di sostituto d'imposta, nei casi previsti dalla legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il "fine di evadere le imposte" e il "fine di consentire a terzi l'evasione" si intendono comprensivi, rispettivamente, anche del fine di conseguire un indebito rimborso o il riconoscimento di un inesistente credito d'imposta, e del fine di consentirli a terzi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    riguardo ai fatti commessi da chi agisce in qualita' di amministratore, liquidatore o rappresentante di societa', enti o persone fisiche, il "fine di evadere le imposte" ed il "fine di sottrarsi al pagamento" si intendono riferiti alla societa', all'ente o alla persona fisica per conto della quale si agisce; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per "imposta evasa" si intende la differenza tra l'imposta effettivamente dovuta e quella indicata nella dichiarazione, ovvero l'intera imposta dovuta nel caso di omessa dichiarazione, al netto delle somme versate dal contribuente o da terzi a titolo di acconto, di ritenuta o comunque in pagamento di detta imposta prima della presentazione della dichiarazione o della scadenza del relativo termine; non si considera imposta evasa quella teorica e non effettivamente dovuta collegata a una rettifica in diminuzione di perdite dell'esercizio o di perdite pregresse spettanti e utilizzabili; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le soglie di punibilita' riferite all'imposta evasa si intendono estese anche all'ammontare dell'indebito rimborso richiesto o dell'inesistente credito di imposta esposto nella dichiarazione. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    per "operazioni simulate oggettivamente o soggettivamente" si intendono le operazioni apparenti, diverse da quelle disciplinate dall'articolo 10-bis della legge 27 luglio 2000, n. 212, poste in essere con la volonta' di non realizzarle in tutto o in parte ovvero le operazioni riferite a soggetti fittiziamente interposti; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    per "mezzi fraudolenti" si intendono condotte artificiose attive nonche' quelle omissive realizzate in violazione di uno specifico obbligo giuridico, che determinano una falsa rappresentazione della realta'. 
+
+                                
+                            
+                            
+                                g-quater)
+                                
+                                    per "crediti inesistenti" si intendono: 
+ 1) i crediti per i quali mancano, in tutto o in parte, i requisiti oggettivi o soggettivi specificamente indicati nella disciplina normativa di riferimento; 
+ 2) i crediti per i quali i requisiti oggettivi e soggettivi di cui al numero 1) sono oggetto di rappresentazioni fraudolente, attuate con documenti materialmente o ideologicamente falsi, simulazioni o artifici; 
+
+                                
+                            
+                            
+                                g-quinquies)
+                                
+                                    per "crediti non spettanti" si intendono: 
+ 1) i crediti fruiti in violazione delle modalita' di utilizzo previste dalle leggi vigenti ovvero, per la relativa eccedenza, quelli fruiti in misura superiore a quella stabilita dalle norme di riferimento; 
+ 2) i crediti che, pur in presenza dei requisiti soggettivi e oggettivi specificamente indicati nella disciplina normativa di riferimento, sono fondati su fatti non rientranti nella disciplina attributiva del credito per difetto di ulteriori elementi o particolari qualita' richiesti ai fini del riconoscimento del credito; 
+ 3) i crediti utilizzati in difetto dei prescritti adempimenti amministrativi espressamente previsti a pena di decadenza.
 
 ## - Titolo II DELITTI Capo I Delitti in materia di dichiarazione
 
@@ -55,6 +141,24 @@ COMMA ABROGATO DAL D.L. 13 AGOSTO 2011, N. 138, CONVERTITO CON MODIFICAZIONI DAL
 
 ## Art. 3. — (Dichiarazione fraudolenta mediante altri artifici)
 
+1.
+                        
+                            
+                                Fuori dai casi previsti dall'articolo 2, e' punito con la reclusione da ((tre a otto)) anni chiunque, al fine di evadere le imposte sui redditi o sul valore aggiunto, compiendo operazioni simulate oggettivamente o soggettivamente ovvero avvalendosi di documenti falsi o di altri mezzi fraudolenti idonei ad ostacolare l'accertamento e ad indurre in errore l'amministrazione finanziaria, indica in una delle dichiarazioni relative a dette imposte elementi attivi per un ammontare inferiore a quello effettivo od elementi passivi fittizi o crediti e ritenute fittizi, quando, congiuntamente: ((8))
+                                
+                            
+                            
+                                a)
+                                
+                                    l'imposta evasa e' superiore, con riferimento a taluna delle singole imposte, a euro trentamila; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare complessivo degli elementi attivi sottratti all'imposizione, anche mediante indicazione di elementi passivi fittizi, e' superiore al cinque per cento dell'ammontare complessivo degli elementi attivi indicati in dichiarazione, o comunque, e' superiore a euro un milione cinquecentomila, ovvero qualora l'ammontare complessivo dei crediti e delle ritenute fittizie in diminuzione dell'imposta, e' superiore al cinque per cento dell'ammontare dell'imposta medesima o comunque a euro trentamila.
+
 Il fatto si considera commesso avvalendosi di documenti falsi quando tali documenti sono registrati nelle scritture contabili obbligatorie o sono detenuti a fini di prova nei confronti dell'amministrazione finanziaria.
 
 Ai fini dell'applicazione della disposizione del comma 1, non costituiscono mezzi fraudolenti la mera violazione degli obblighi di fatturazione e di annotazione degli elementi attivi nelle scritture contabili o la sola indicazione nelle fatture o nelle annotazioni di elementi attivi inferiori a quelli reali.
@@ -69,6 +173,24 @@ Ai fini dell'applicazione della disposizione del comma 1, non costituiscono mezz
  Il D.L. 26 ottobre 2019, n. 124, ha disposto (con l'art. 39, comma 3) che "Le disposizioni di cui ai commi 1 a 2 hanno efficacia dalla data di pubblicazione nella Gazzetta Ufficiale della legge di conversione del presente decreto".
 
 ## Art. 4. — Dichiarazione infedele
+
+1.
+                        
+                            
+                                Fuori dei casi previsti dagli articoli 2 e 3, e' punito con la reclusione da ((due anni a quattro anni e sei mesi)) chiunque, al fine di evadere le imposte sui redditi o sul valore aggiunto, indica in una delle dichiarazioni annuali relative a dette imposte elementi attivi per un ammontare inferiore a quello effettivo od elementi passivi inesistenti, quando, congiuntamente: ((8))
+                                
+                            
+                            
+                                a)
+                                
+                                    l'imposta evasa e' superiore, con riferimento a taluna delle singole imposte, a euro centomila; (8) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare complessivo degli elementi attivi sottratti all'imposizione, anche mediante indicazione di elementi passivi inesistenti, e' superiore al dieci per cento dell'ammontare complessivo degli elementi attivi indicati in dichiarazione, o, comunque, e' superiore a euro due milioni. (4) (8)
 
 Ai fini dell'applicazione della disposizione del comma 1, non si tiene conto della non corretta classificazione, della valutazione di elementi attivi o passivi oggettivamente esistenti, rispetto ai quali i criteri concretamente applicati sono stati comunque indicati nel bilancio ovvero in altra documentazione rilevante ai fini fiscali, della violazione dei criteri di determinazione dell'esercizio di competenza, della non inerenza, della non deducibilita' di elementi passivi reali.
 
@@ -141,6 +263,24 @@ COMMA ABROGATO DAL D.L. 13 AGOSTO 2011, N. 138, CONVERTITO CON MODIFICAZIONI DAL
 
 ## Art. 9. — Concorso di persone nei casi di emissione o utilizzazione di fatture o altri documenti per operazioni inesistenti
 
+1.
+                        
+                            
+                                In deroga all'articolo 110 del codice penale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'emittente di fatture o altri documenti per operazioni inesistenti e chi concorre con il medesimo non e' punibile a titolo di concorso nel reato previsto dall'articolo 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chi si avvale di fatture o altri documenti per operazioni inesistenti e chi concorre con il medesimo non e' punibile a titolo di concorso nel reato previsto dall'articolo 8.
+
 ## Art. 10. — Occultamento o distruzione di documenti contabili
 
 Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da ((tre a sette)) anni. chiunque, al fine di evadere le imposte sui redditi o sul valore aggiunto, ovvero di consentire l'evasione a terzi, occulta o distrugge in tutto o in parte le scritture contabili o i documenti di cui e' obbligatoria la conservazione, in modo da non consentire la ricostruzione dei redditi o del volume di affari. ((8))
@@ -191,6 +331,45 @@ E' punito con la reclusione da sei mesi a quattro anni chiunque, al fine di otte
 ## - Titolo III DISPOSIZIONI COMUNI
 
 ## Art. 12. — Pene accessorie
+
+1.
+                        
+                            
+                                La condanna per taluno dei delitti previsti dal presente decreto importa: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'interdizione dagli uffici direttivi delle persone giuridiche e delle imprese per un periodo non inferiore a sei mesi e non superiore a tre anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'incapacita' di contrattare con la pubblica amministrazione per un periodo non inferiore ad un anno e non superiore a tre anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'interdizione dalle funzioni di rappresentanza e assistenza in materia tributaria per un periodo non inferiore ad un anno e non superiore a cinque anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'interdizione perpetua dall'ufficio di componente di commissione tributaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la pubblicazione della sentenza a norma dell'articolo 36 del codice penale.
 
 La condanna per taluno dei delitti previsti dagli articoli 2, 3 e 8 importa altresi' l'interdizione dai pubblici uffici per un periodo non inferiore ad un anno e non superiore a tre anni, salvo che ricorrano le circostanze previste dagli articoli 2, comma 3, e 8, comma 3.
 
@@ -389,6 +568,87 @@ L'ottavo comma dell'articolo 2 della legge 26 gennaio 1983, n. 18, e' sostituito
  "Salvo che il fatto costituisca reato, chiunque manomette o comunque altera gli apparecchi misuratori previsti nell'articolo 1 o fa uso di essi allorche' siano stati manomessi o alterati o consente che altri ne faccia uso al fine di eludere le disposizioni della presente legge e' punito con la sanzione amministrativa pecuniaria da lire due milioni a lire quindici milioni. Con la stessa sanzione e' punito, salvo che il fatto costituisca reato, chiunque, allo stesso fine, forma in tutto o in parte stampati, documenti o registri prescritti dai decreti indicati nell'articolo 1 o li altera e ne fa uso o consente che altri ne faccia uso; nonche' chiunque, senza avere concorso nella falsificazione, fa uso degli stessi stampati, documenti o registri.".
 
 ## Art. 25. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 97, sesto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 8, undicesimo comma, della legge 10 maggio 1976, n. 249; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 7, settimo comma, del decreto del Presidente della Repubblica 6 ottobre 1978, n. 627; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il titolo I del decreto-legge 10 luglio 1982, n. 429, convertito, con modificazioni, dalla legge 7 agosto 1982, n. 516; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 3, quarto comma, della legge 25 novembre 1983, n. 649; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 2, quarto comma, del decreto-legge 29 dicembre 1983, n. 746, convertito, con modificazioni, nella legge 27 gennaio 1984, n. 17; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 1, quarto comma, secondo periodo, del decreto-legge 28 novembre 1984, n. 791, convertito, con modificazioni, dalla legge 25 gennaio 1985, n. 60; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 2, commi 27 e 28, e l'articolo 3, comma 14, del decreto-legge 19 dicembre 1984, n. 853, convertito, con modificazioni, dalla legge 17 febbraio 1985, n. 17; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'articolo 12, comma 13, della legge 30 dicembre 1991, n. 413;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'articolo 54, comma 8, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    l'articolo 6, comma 1, del decreto-legge 31 dicembre 1996, n. 669, convertito, con modificazioni, dalla legge 28 febbraio 1997, n. 30.
 
 E' abrogata ogni altra disposizione incompatibile con il presente decreto.
 

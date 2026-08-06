@@ -8,8 +8,8 @@ codice_redazionale: 003G0089
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -101,6 +101,24 @@ c) ogni 5 anni, assieme alla domanda di rinnovo dell'autorizzazione.
  10. Il Ministero della salute se, in sede di valutazione delle informazioni relative alla farmacovigilanza, ritiene di dover modificare le condizioni di un'autorizzazione all'immissione in commercio ovvero limitarne le indicazioni o la disponibilita', cambiare posologia o aggiungere una controindicazione o una nuova avvertenza oppure sospendere o revocare detta autorizzazione, ne informa immediatamente l'EMEA e il titolare dell'autorizzazione all'immissione in commercio. Nei casi urgenti il Ministero della salute puo' sospendere l'autorizzazione all'immissione in commercio del medicinale veterinario, informandone, al piu' tardi il primo giorno feriale successivo, l'EMEA, la Commissione europea e gli altri Stati membri".
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            All'articolo 37 del decreto legislativo 27 gennaio 1992, n. 119, sono apportate le seguenti modificazioni:
+
+
+                        
+                        
+                            a)
+                            
+                                al comma 3-ter le parole "comma 4" sono sostituite dalle seguenti "comma 3 - bis";
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3-ter e' aggiunto il seguente: "3-quater. Con decreto del Ministro della salute d'intesa con le regioni e le province autonome possono essere stabilite, nel rispetto delle norme comunitarie, condizioni e prescrizioni di carattere generale relative a tutti i medicinali, le premiscele, e gli alimenti medicamentosi ad uso veterinario, di cui all'articolo 1, comma 1, lettere a), b), c), d), e), f) e g), ivi comprese disposizioni sull'etichettatura, sul confezionamento e sulle modalita' di prescrizione e di impiego.".
 
 ## Art. 5.
 

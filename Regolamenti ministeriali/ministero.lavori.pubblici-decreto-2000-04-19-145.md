@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2011-07-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,6 +39,23 @@ L'appaltatore deve avere domicilio nel luogo nel quale ha sede l'ufficio di dire
 Tutte le intimazioni, le assegnazioni di termini ed ogni altra notificazione o comunicazione dipendente dal contratto di appalto sono fatte dal direttore dei lavori o dal responsabile unico del procedimento, ciascuno relativamente agli atti di propria competenza, a mani proprie dell'appaltatore o di colui che lo rappresenta nella condotta dei lavori oppure devono essere effettuate presso il domicilio eletto ai sensi del comma 1.
 
 ## Art. 3. — Indicazione delle persone che possono riscuotere
+
+1.
+                    
+                        
+                            Il contratto di appalto e gli atti di cottimo devono indicare:
+
+                        
+                        
+                            a)
+                            
+                                il luogo e l'ufficio dove saranno effettuati i pagamenti, e le relative modalita', secondo le norme che regolano la contabilita' della stazione appaltante;
+                            
+                        
+                        
+                            b)
+                            
+                                la persona o le persone autorizzate dall'appaltatore a riscuotere, ricevere e quietanzare le somme ricevute in conto o saldo anche per effetto di eventuali cessioni di credito preventivamente riconosciute dalla stazione appaltante; gli atti da cui risulti tale designazione sono allegati al contratto.
 
 La cessazione o la decadenza dall'incarico delle persone autorizzate a riscuotere e quietanzare deve essere tempestivamente notificata alla stazione appaltante.
 

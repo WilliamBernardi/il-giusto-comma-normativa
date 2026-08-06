@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -168,6 +168,123 @@ Il Comitato trasmette la proposta motivata di inserimento dei soggetti nelle lis
 
 ((
 
+1.
+                    
+                        
+                            Il Comitato, al fine della presentazione della proposta di inserimento dei soggetti nelle liste di cui agli articoli 4-bis e 4-ter, tiene conto: 
+ 
+                        
+                        
+                            a)
+                            
+                                dell'esistenza di elementi di fatto che indichino una partecipazione attiva, o di supporto, di individui o entita' ad attivita' terroristiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dell'esistenza di un procedimento penale o di provvedimenti di natura giurisdizionale a carico del designando; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                della idoneita' degli elementi informativi raccolti ad assicurare, secondo criteri di ragionevolezza, la corretta identificazione dei soggetti indicati, al fine di evitare il possibile coinvolgimento di soggetti diversi con generalita' identiche o simili; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                di eventuali relazioni tra i soggetti di cui si propone il congelamento ed individui o entita' gia' inseriti nelle liste; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dell'adozione, nei confronti dello stesso soggetto, di altre misure sanzionatorie previste in ottemperanza alle risoluzioni del Consiglio di sicurezza delle Nazioni Unite ai sensi del capitolo VII della Carta delle Nazioni Unite, ed alle posizioni comuni dell'Unione europea, per contrastare e reprimere il finanziamento del terrorismo e l'attivita' di Paesi che minacciano la pace e la sicurezza internazionale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                di ogni informazione rilevante in suo possesso.
+
+2.
+                    
+                        
+                            Per le finalita' di cui al presente articolo, le forze di polizia, trasmettono proposta motivata di segnalazione di soggetti al Comitato, con l'indicazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                dei fatti accertati ed i riscontri emersi nell'attivita' di indagine; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                del ruolo, dei capi di imputazione e dell'impianto probatorio a carico di ciascun indagato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle fonti e tecniche di finanziamento dell'attivita' terroristica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                degli elementi utili per la corretta identificazione dei soggetti segnalati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                di ogni altro elemento indiziario o probatorio che ritengano opportuno.
+
+3.
+                    
+                        
+                            Alla proposta di cui al comma 2 sono allegati copia degli eventuali provvedimenti giurisdizionali, una nota informativa, anche in lingua inglese, corredata, nei casi di cui all'articolo 4-ter, dagli ulteriori documenti richiesti dalle procedure internazionali di designazione. Alla proposta sono, altresi', allegate le schede dei soggetti di cui si chiede l'inserimento nelle liste di cui al presente decreto, contenenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                le generalita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i rapporti di parentela; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il luogo di residenza e di domicilio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i precedenti penali e di polizia.
+
 4. Il Comitato puo' richiedere alla Guardia di finanza l'acquisizione dei precedenti fiscali e lo sviluppo degli accertamenti riguardanti la posizione economica, finanziaria e patrimoniale dei soggetti in via di designazione.))
 
 ((6))
@@ -180,6 +297,59 @@ Il Comitato trasmette la proposta motivata di inserimento dei soggetti nelle lis
 ## Art. 4-quinquies. — (( (Notifica di avvenuta iscrizione nelle liste e aggiornamenti). ))
 
 ((
+
+1.
+                    
+                        
+                            Il Comitato, avvalendosi del Nucleo speciale di polizia valutaria della Guardia di finanza notifica agli interessati, con le modalita' di cui agli articoli 137 e seguenti del codice di procedura civile e di cui agli articoli 3-bis, 45 e 48 del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni, l'avvenuto inserimento dei nominativi nelle liste di cui agli articoli 4, 4-bis e 4-ter, rendendo noti i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                la parte pubblica dei motivi che sono a fondamento della decisione di inserimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le misure di congelamento loro imposte; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gli effetti delle misure di congelamento e le sanzioni per la loro inosservanza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i casi in cui e' possibile chiedere la cancellazione dalle liste; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'autorita', nazionale ed internazionale, competente a ricevere la richiesta di cancellazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i presupposti e le modalita' per richiedere l'autorizzazione in deroga; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le autorita', nazionali, comunitarie ed internazionali, competenti a ricevere i ricorsi avverso i provvedimenti adottati.
 
 La Segreteria del Comitato comunica a tutte le Amministrazioni rappresentate in seno al Comitato medesimo l'avvenuto inserimento nelle liste del nominativo di individui o entita'.
 
@@ -374,6 +544,24 @@ L'Agenzia del demanio trasmette ogni tre mesi al Comitato una relazione dettagli
 
 In caso di cancellazione dalle liste o di autorizzazione all'esenzione dal congelamento di risorse economiche, il Comitato chiede al Nucleo speciale polizia valutaria della Guardia di finanza di darne comunicazione all'avente diritto con le modalita' di cui agli articoli 137 e seguenti del codice di procedura civile e dagli articoli 3-bis, 45 e 48 del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni. Con la medesima comunicazione, l'avente diritto e' altresi' invitato a prendere in consegna i beni entro centottanta giorni ed e' informato di quanto disposto dai commi 13, 13-bis e 14. Il Comitato chiede inoltre al suddetto Nucleo speciale di informare l'Agenzia del demanio, la quale provvede alla restituzione delle risorse economiche, con l'ausilio del Nucleo speciale polizia valutaria ove la medesima Agenzia ne faccia richiesta. Nel caso di beni immobili, mobili registrati, societa' o imprese, analoga comunicazione e' trasmessa ai competenti uffici per l'annotazione nei pubblici registri della cancellazione del congelamento.
 
+13.
+                    
+                        
+                            Dalla cessazione delle misure di congelamento e fino alla consegna, l'Agenzia del demanio provvede alla gestione delle risorse economiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                con le modalita' di cui ai commi 8 e 9, fino alla scadenza del termine di centottanta giorni dalla comunicazione di cui al comma 12; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con oneri a carico dell'avente diritto, successivamente alla scadenza del termine di centottanta giorni dalla comunicazione di cui al comma 12.
+
 Dalla cessazione delle misure di congelamento comunicata ai sensi del comma 12, l'Agenzia del demanio puo' esercitare il diritto di ritenzione dei beni fino all'integrale recupero delle spese sostenute per la conservazione e l'amministrazione degli stessi ai sensi del comma 8 nonche' provvedere alla vendita del bene ovvero di singole parti del bene, di pertinenze e di beni presenti nel bene congelato, senza alterare comunque la funzionalita' e l'integrita' del bene oggetto di congelamento.
 
 Se nei centottanta giorni successivi alla comunicazione di cui al comma 12 l'avente diritto non si presenta a ricevere la consegna delle risorse economiche di cui e' stata disposta la restituzione, l'Agenzia del demanio provvede alla vendita delle stesse. Per i beni mobili e mobili registrati si osservano le norme di cui al decreto del Presidente della Repubblica 13 febbraio 2001, n. 189. I beni mobili registrati sottoposti alla disciplina del codice della navigazione per i quali e' accertata l'oggettiva impossibilita' di vendita, documentata attraverso tre appositi tentativi di vendita anche a trattativa privata, sono acquisiti al patrimonio dello Stato e assegnati in gestione al Ministero delle infrastrutture e della mobilita' sostenibili per usi funzionali alle attivita' istituzionali di competenza ovvero al Ministero dell'economia e delle finanze per usi funzionali alle attivita' istituzionali del Corpo della guardia di finanza.
@@ -439,6 +627,66 @@ Nei casi di violazioni gravi o ripetute o sistematiche ovvero plurime delle disp
 ## Art. 13-ter. — (( (Criteri per l'applicazione delle sanzioni). ))
 
 ((
+
+1.
+                    
+                        
+                            Nell'applicazione delle sanzioni amministrative pecuniarie o delle misure ulteriori previste nel presente titolo il Ministero dell'economia e delle finanze e le autorita' di vigilanza di settore, per i profili di rispettiva competenza, considerano ogni circostanza rilevante e, in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il valore dell'operazione effettuata in violazione delle disposizioni indicate dall'articolo 13; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la gravita' e durata della violazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il grado di responsabilita' della persona fisica o giuridica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la capacita' finanziaria della persona fisica o giuridica responsabile; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'entita' del vantaggio ottenuto o delle perdite evitate per effetto della violazione, nella misura in cui siano determinabili; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'entita' del pregiudizio cagionato a terzi per effetto della violazione, nella misura in cui sia determinabile; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                il livello di cooperazione con le autorita' competenti prestato dalla persona fisica o giuridica responsabile; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le precedenti violazioni delle disposizioni di cui al presente decreto.
 
 Le sanzioni di cui all'articolo 13 possono essere ridotte fino ad un terzo se il soggetto sanzionato collabora attivamente con le competenti autorita' nel corso dell'accertamento.
 

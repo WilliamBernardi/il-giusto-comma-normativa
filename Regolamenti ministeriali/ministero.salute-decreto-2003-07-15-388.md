@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-08-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -54,6 +54,42 @@ tempo indeterminato del comparto dell'agricoltura.
 Il datore di lavoro, sentito il medico competente, ove previsto, identifica la categoria di appartenenza della propria azienda od unita' produttiva e, solo nel caso appartenga al gruppo A, la comunica all'Azienda Unita' Sanitaria Locale competente sul territorio in cui si svolge l'attivita' lavorativa, per la predisposizione degli interventi di emergenza del caso. Se l'azienda o unita' produttiva svolge attivita' lavorative comprese in gruppi diversi, il datore di lavoro deve riferirsi all'attivita' con indice piu' elevato.
 
 ## Art. 2. — Organizzazione di pronto soccorso
+
+1.
+                    
+                        
+                            Nelle aziende o unita' produttive di gruppo A e di gruppo B, il datore di lavoro deve garantire le seguenti attrezzature:
+ 
+                        
+                        
+                            a)
+                            
+                                cassetta di pronto soccorso, tenuta presso ciascun luogo di lavoro, adeguatamente custodita in un luogo facilmente accessibile ed individuabile con segnaletica appropriata, contenente la dotazione minima indicata nell'allegato 1, che fa parte del presente decreto, da integrare sulla base dei rischi presenti nei luoghi di lavoro e su indicazione del medico competente, ove previsto, e del sistema di emergenza sanitaria del Servizio Sanitario Nazionale, e della quale sia costantemente assicurata, la completezza ed il corretto stato d'uso dei presidi ivi contenuti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un mezzo di comunicazione idoneo ad attivare rapidamente il sistema di emergenza del Servizio Sanitario Nazionale.
+
+2.
+                    
+                        
+                            Nelle aziende o unita' produttive di gruppo C, il datore di lavoro deve garantire le seguenti attrezzature:
+ 
+                        
+                        
+                            a)
+                            
+                                pacchetto di medicazione, tenuto presso ciascun luogo di lavoro, adeguatamente custodito e facilmente individuabile, contenente la dotazione minima indicata nell'allegato 2, che fa parte del presente decreto, da integrare sulla base dei rischi presenti nei luoghi di lavoro, della quale sia costantemente assicurata, in collaborazione con il medico competente, ove previsto, la completezza ed il corretto stato d'uso dei presidi ivi contenuti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un mezzo di comunicazione idoneo ad attivare rapidamente il sistema di emergenza del Servizio Sanitario Nazionale;
 
 Il contenuto minimo della cassetta di pronto soccorso e del pacchetto di medicazione, di cui agli allegati 1 e 2, e' aggiornato con decreto dei Ministri della salute e del lavoro e delle politiche sociali tenendo conto dell'evoluzione tecnico-scientifica.
 

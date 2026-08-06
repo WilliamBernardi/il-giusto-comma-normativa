@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2013-04-22;66
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -56,6 +56,59 @@ Lo stesso dirigente puo', con proprio provvedimento motivato, modificare o revoc
 
 L'atto di conferimento degli incarichi individua i dipendenti incaricati della progettazione, della direzione lavori, del collaudo o della certificazione della regolare esecuzione e quelli che partecipano o collaborano a dette attivita', indicando i compiti affidati a ciascuno secondo le indicazioni del presente regolamento.
 
+4.
+                    
+                        
+                            Partecipa alla ripartizione dell'incentivo di cui al comma 5, dell'art. 92 del codice il personale formalmente incaricato delle attivita' di: 
+ 
+                        
+                        
+                            a)
+                            
+                                responsabile del procedimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ideazione e coordinamento generale in caso di progettazione integrale come definita dall'art. 3, comma 1, lettera m) del decreto del Presidente della Repubblica 5 ottobre 2010, n. 207; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                progettazione e che, in possesso dei requisiti di cui agli articoli 90, comma 4, e 253, comma 16, del codice, assume la responsabilita' professionale dei propri atti, firmando i relativi elaborati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                coordinatore per la sicurezza in fase di progettazione, in possesso dei requisiti di cui all'art. 98 del decreto legislativo 9 aprile 2008, n. 81 e successive modificazioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                direzione lavori; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                collaudo tecnico amministrativo, collaudo statico o certificato di regolare esecuzione, per i quali non e' dovuto ulteriore compenso, fatto salvo il rimborso delle spese autorizzate e documentate; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                di collaboratore alla predisposizione degli atti che, pur non sottoscrivendo i relativi elaborati, partecipa, mediante contributo intellettuale e materiale, alle attivita' del responsabile del procedimento, alla redazione del progetto, del piano di sicurezza, alla direzione lavori e, comunque, alle attivita' connesse e finalizzate alla realizzazione dell'opera pubblica, previa asseverazione del responsabile unico del procedimento, su concorde avviso del dirigente dell'ufficio attuatore di cui al comma 1.
+
 Il personale incaricato della progettazione, e quello che partecipa nelle varie fasi, potra' svolgere l'incarico anche al di fuori dell'orario di lavoro; le ore eccedenti tale orario saranno retribuite, nella misura e alle condizioni previste dal contratto collettivo, solo se preventivamente autorizzate secondo le modalita' vigenti, nei limiti della quota stabilita contrattualmente, ovvero nei limiti stabiliti a qualsiasi titolo con disposizione amministrativa.
 
 ## Art. 5.
@@ -64,15 +117,104 @@ Determinazione dell'incentivo
 
 La ripartizione dell'incentivo e' operata dal dirigente di cui all'art. 4, comma 1, del presente regolamento.
 
+2.
+                    
+                        
+                            La percentuale, da applicare all'importo posto a base di gara di un'opera o di un lavoro, o al costo indicato nel quadro economico del progetto per la realizzazione dell'opera, per determinare la somma dell'incentivo da corrispondere al personale di cui all'art. 4, comma 2 del presente regolamento e' cosi' determinata: 
+ 
+                        
+                        
+                            a)
+                            
+                                per progetti di importo fino a euro un milione l'incentivo e' attribuito per intero; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per progetti di importo compreso tra euro un milione ed euro cinque milioni l'incentivo previsto e' ridotto del 5%; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per progetti di importo compreso tra euro cinque milioni ed euro venticinque milioni l'incentivo previsto e' ridotto del 10% 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per progetti di importo superiore a euro venticinque milioni l'incentivo previsto e' ridotto del 15%;
+
 Le riduzioni dell'incentivo di cui al comma precedente si applicano sulla sola parte risultante dalla differenza tra il massimo e il minimo delle cifre sopra indicate.
 
 ## Art. 6. — Ripartizione dell'incentivo
 
 L'incentivo determinato in applicazione degli articoli 4 e 5 del presente regolamento e' ripartito per ogni singola opera o lavoro secondo le percentuali indicate nelle tabelle allegate che fanno parte integrante del presente regolamento.
 
+2.
+                    
+                        
+                            Per i progetti di importo superiore ad euro un milione e' possibile attribuire una maggiorazione dell'incentivo, fino a raggiungere il massimo stabilito, qualora venga attestata dal responsabile del procedimento almeno una delle ipotesi di complessita' di seguito indicate: 
+ 
+                        
+                        
+                            a)
+                            
+                                multidisciplinarita' del progetto: quando alla redazione del progetto hanno concorso molteplici specializzazioni e lo stesso e' costituito da piu' sottoprogetti specialistici quali impianti, strutture, indagini e prove; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per accertamenti e indagini: nel caso di ristrutturazione, adeguamento e completamento di edifici esistenti e in generale quando gli studi preliminari eccedono quelli normalmente richiesti o vi siano state difficolta' operative o logistiche nel corso delle indagini preliminari e degli accertamenti sopralluogo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                soluzioni tecnico-progettuali: adozione di soluzioni progettuali che hanno richiesto studi particolari, soluzioni innovative o sperimentali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                progettazione per stralci: nel caso di difficolta' o di maggior impegno richiesto dalla progettazione per stralci funzionali.
+
 L'attribuzione del maggior incentivo e' disposta dal dirigente di cui all'art. 4, comma 1 del presente regolamento a seguito di formale proposta, adeguatamente motivata, del responsabile del procedimento.
 
 Qualora talune parti o livelli della progettazione o consulenze su specifiche problematiche vengano affidate a personale esterno all'amministrazione, l'importo dell'incentivo verra' determinato proporzionalmente all'impegno del personale interno valutato dal dirigente della struttura competente, di cui al comma 1, dell'art. 4, del presente regolamento. La quota dell'incentivo non corrisposta al personale interno costituisce economia di spesa.
+
+5.
+                    
+                        
+                            Il dirigente della struttura competente puo', altresi', attribuire l'incentivo, in misura ridotta proporzionalmente, nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                modifica o revoca dell'incarico, tenuto conto dei lavori eseguiti e della causa della modifica o della revoca dell'incarico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                lavori non eseguiti per ragioni indipendenti da errori od omissioni progettuali, pur essendo stata effettuata la progettazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                lavori sospesi per un periodo di tempo superiore a sei mesi.
 
 ## Art. 7.
 

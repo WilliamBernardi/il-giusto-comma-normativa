@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-01-18;8
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,24 @@ All'articolo 7, comma 1, del decreto legislativo 27 dicembre 2019, n. 158, le pa
 
 ## Art. 2. — Modifiche all'articolo 7, comma 2, 
  del decreto legislativo 27 dicembre 2019, n. 158
+
+1.
+                    
+                        
+                            All'articolo 7, comma 2, del decreto legislativo 27 dicembre 2019, n. 158, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo periodo, dopo le parole: «e' ridotto a tre anni», sono aggiunte le seguenti: «secondo quanto previsto, rispetto alle tempistiche di rientro indicate al comma 1 con riferimento allo stato di emergenza dell'epidemia da COVID-19» e le parole «qualora, entro novanta giorni dall'entrata in vigore del presente decreto legislativo,» sono sostituite dalle seguenti: «, qualora, entro il 31 gennaio 2021,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo periodo, le parole «gia' con effetti a decorrere dall'esercizio finanziario 2020» sono sostituite dalle seguenti: «con effetti a decorrere dall'esercizio finanziario 2021».
 
 ## Art. 3. — Entrata in vigore
 

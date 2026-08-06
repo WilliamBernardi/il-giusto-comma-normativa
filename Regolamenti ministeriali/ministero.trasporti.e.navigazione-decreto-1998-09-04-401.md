@@ -8,8 +8,8 @@ codice_redazionale: 098G0451
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,42 @@ Udito il parere del Consiglio di Stato espresso nella adunanza della Sezione con
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            Le tariffe per la rimozione dei veicoli, da applicarsi da parte dei concessionari di cui all'articolo 354, comma 1, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, come modificato dall'articolo 199 del decreto del Presidente della Repubblica 16 settembre 1996, n. 610, sono individuate come segue:
+ A) Per la rimozione di veicoli di massa complessiva a pieno carico fino a 1,5 t:
+ 
+                        
+                        
+                            a)
+                            
+                                diritto di chiamata L./km 20.000
+                            
+                        
+                        
+                            b)
+                            
+                                operazioni connesse al carico ed
+ allo scarico del veicolo L./km 30.000
+                            
+                        
+                        
+                            c)
+                            
+                                indennita' chilometrica
+ (dal luogo di stazionamento
+ dell'autoveicolo adibito alla
+ rimozione al luogo d'intervento
+ e, quindi, al luogo di deposito) L./km 4.300 B) Per la rimozione di veicoli di massa complessiva a pieno carico superiore a 1,5 t e fino a 3,5 t:
+ a) diritto di chiamata L./km 25.000 b) operazioni connesse al carico ed
+ allo scarico del veicolo L./km 50.000 c) indennita' chilometrica
+ (dal luogo di stazionamento
+ dell'autoveicolo adibito alla
+ rimozione al luogo d'intervento
+ e, quindi, al luogo di deposito) L./km 5.000 C) Per la rimozione di veicoli di massa complessiva a pieno carico superiore a 3,5 t:
+ si applicano le tariffe della lettera B) aumentate del 10% per ogni tonnellata, o frazione di tonnellata, superiore al valore di 3,5 t della massa complessiva a pieno carico del veicolo da rimuovere.
+
 E' data facolta', agli enti concedenti il servizio di rimozione dei veicoli, di prevedere una variazione in aumento o in diminuizione di ogni singola voce tariffaria, non superiore al 20% di quella stabilita dal presente decreto a fronte di particolari situazioni temporali ed ambientali, alla densita' di traffico, alla dislocazione delle depositerie ed alla variazione della popolazione presente nel territorio interessato.
  Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -47,6 +83,31 @@ E' data facolta', agli enti concedenti il servizio di rimozione dei veicoli, di 
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Gli importi dovuti dai trasgressori per le spese di rimozione, come sopra fissati, devono essere determinati tenendo conto altresi' dei seguenti parametri di differenziazione:
+ 
+                        
+                        
+                            a)
+                            
+                                operazione di intervento con unico autoveicolo di rimozione e con prelevamento nello stesso luogo, o in zone contigue, di piu' veicoli e loro convogliamento al deposito: il diritto di chiamata e l'indennita' chilometrica, pevisti, a seconda dei casi, alle lettere A), B) e C) dell'articolo 1, comma 1, devono essere suddivisi per il numero di veicoli rimossi. La tariffa riguardante le operazioni connesse al carico ed allo scarico deve essere corrisposta per ciascun veicolo.
+
+                            
+                        
+                        
+                            b)
+                            
+                                orario notturno o giornata festiva: aumento del 30% delle tariffe previste;
+
+                            
+                        
+                        
+                            c)
+                            
+                                se l'interessato sopraggiunge durante le operazioni di rimozione del veicolo, la restituzione dello stesso e' consentita, al sensi del comma 2 dell'articolo 397 del decreto del Presidente della Repubblica n. 495/1992, come modificato dall'articolo 224 del decreto del Presidente della Repubblica n. 610/1996, previo pagamento di tutte le operazioni gia' eseguite e da eseguire per la restituzione stessa.
 
 Per eventuali casi di rimozione di veicoli, regolarnente parcheggiati, per urgenti motivi di ordine pubblico o di pubblica necessita', nulla e' dovuto dai proprietari degli stessi.
 

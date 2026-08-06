@@ -8,8 +8,8 @@ codice_redazionale: 009G0144
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -39,11 +39,73 @@ Le autoambulanze immatricolate in uso di terzi per servizio di locazione senza c
 
 ## Art. 3. — Utilizzo delle autoambulanze
 
+1.
+                    
+                        
+                            Le autoambulanze sono immatricolate in uso proprio:
+ 
+                        
+                        
+                            a)
+                            
+                                dagli enti pubblici, per l'assolvimento dei propri compiti istituzionali e per la tutela del diritto alla salute ed alla integrita' fisica dei propri dipendenti, dei membri dei propri organismi interni, nonche' dei soggetti individuati da specifiche disposizioni normative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dalle imprese, per l'esercizio della propria attivita' principale, diversa da quella di trasporto, e per la tutela della salute e dell'integrita' fisica dei propri dipendenti, dei membri dei propri organismi interni, nonche' dei soggetti individuati da specifiche disposizioni normative;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dalle altre collettivita', per il perseguimento dei propri scopi sociali, la tutela della salute e dell'integrita' fisica dei propri dipendenti, dei membri dei propri organismi interni, nonche' dei soggetti individuati da specifiche disposizioni normative.
+
 Le autoambulanze immatricolate in uso di terzi per servizio di noleggio con conducente sono utilizzate dagli enti pubblici, dalle imprese e dalle altre collettivita' per prestazioni di trasporto effettuate secondo quanto previsto dall'articolo 2, comma 2.
+
+3.
+                    
+                        
+                            I soggetti previsti dai commi 1 e 2 del presente articolo, possono utilizzare altresi' i veicoli di cui all'articolo 2, comma 4, per la sostituzione di autoambulanze gia' immatricolate a proprio nome nel caso in cui si verifichi uno dei seguenti eventi temporanei:
+ 
+                        
+                        
+                            a)
+                            
+                                guasto meccanico, furto o incendio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                caso fortuito o forza maggiore.
+ L'autoambulanza locata senza conducente e' utilizzata per il medesimo uso cui e' adibito il veicolo sostituito.
 
 ## Art. 4. — Norme finali
 
 Le procedure e la documentazione occorrente per l'immatricolazione e l'utilizzo delle autoambulanze, nonche' la documentazione da tenere a bordo delle stesse al fine di consentire i necessari controlli su strada, sono stabilite dal Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici.
 
 ## Art. 5. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati:
+ 
+                        
+                        
+                            a)
+                            
+                                l'articolo 1, comma 3, e l'articolo 4 del decreto del Ministro dei trasporti del 17 dicembre 1987, n. 553;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 1, comma 2, del decreto ministeriale 20 novembre 1997, n. 487.
 

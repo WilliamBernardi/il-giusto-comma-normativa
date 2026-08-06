@@ -8,8 +8,8 @@ codice_redazionale: 090G0076
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,11 +43,74 @@ Ai fini dell'ammissione ai contributi previsti dalla legge 24 marzo 1989, n. 122
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Nell'ambito di ciascuna delle tipologie di cui all'art. 1 saranno privilegiati gli interventi realizzabili con partecipazione aggiuntiva di capitale pubblico e/o privato in misura non inferiore al 30% dell'investimento complessivo secondo l'ordine di priorita' determinato dai seguenti criteri di gestione:
+ 
+                        
+                        
+                            a)
+                            
+                                parcheggi interamente destinati ad uso del pubblico in base a criteri di rotazione con tariffa oraria e/o giornaliera;
+
+                            
+                        
+                        
+                            b)
+                            
+                                parcheggi destinati solo parzialmente ad uso del pubblico in base a criteri di rotazione con tariffa oraria e/o giornaliera, ma in cui la percentuale dei posti auto da cedere ad altri soggetti, anche mediante il trasferimento del diritto di superficie, non sia superiore al 30% di quelli complessivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                parcheggi di cui alle lettere precedenti con strutture relative ad attivita' di servizio strettamente funzionali all'uso e manutenzione dei veicoli.
+
 ## Art. 3.
 
 In relazione a situazioni eccezionali di carattere locale, rigorosamente motivate dai comuni e confermate dalle regioni con apposita attestazione trasmessa unitamente ai programmi od elenchi degli interventi, potranno essere riconosciute priorita' diverse da quelle di cui agli articoli 1 e 2.
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            Ai soli fini della determinazione del contributo di cui all'art. 4, comma 2, della legge n. 122/1989 i costi standard sono cosi' stabiliti:
+ Costo in lire milioni
+ Tipologia di parcheggio per posto auto
+ - -
+ 
+                        
+                        
+                            a)
+                            
+                                a raso ....................................... 2,5
+
+                            
+                        
+                        
+                            b)
+                            
+                                multipiano in elevazione con funzionamento
+ a rampe o meccanico .......................... 14,5
+
+                            
+                        
+                        
+                            c)
+                            
+                                multipiano nel sottosuolo con funzionamento
+ a rampe .................................... 20
+
+                            
+                        
+                        
+                            d)
+                            
+                                multipiano nel sottosuolo con funzionamento
+ meccanico ................................... 18
 
 Il costo standard di ciascun posto moto e posto ciclo e' stabilito rispettivamente in lire centomila e cinquantamila.
 

@@ -8,8 +8,8 @@ codice_redazionale: 009G0131
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,13 +25,116 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Oggetto
 
+1.
+                        
+                            
+                                Il presente capo ha per oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le disposizioni organizzative per gli organi centrali della Consulta generale per l'autotrasporto e per la logistica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la determinazione della dotazione di personale necessaria per il funzionamento della Consulta medesima.
+
 ## Art. 2. — Presidente
+
+1.
+                        
+                            
+                                Il Presidente della Consulta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rappresenta la Consulta verso l'esterno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    designa il Segretario generale, scegliendolo fra persone, anche estranee alla pubblica amministrazione, di comprovata competenza ed esperienza nel settore del trasporto stradale delle merci e della logistica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    propone i componenti del Comitato esecutivo, tenuto conto delle indicazioni delle associazioni di categoria degli autotrasportatori, del movimento cooperativo e delle altre categorie economiche e sociali rappresentate nell'Assemblea generale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nomina i componenti del Comitato scientifico, sentita l'Assemblea generale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sceglie, fra i componenti dell'Assemblea generale aventi specifica professionalita' in materie statistiche ed economiche, i membri dell'Osservatorio sulle attivita' di autotrasporto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    puo' istituire, sentito l'Ufficio di presidenza, commissioni per la trattazione di questioni specifiche correlate al settore del trasporto e della logistica; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    convoca l'Assemblea generale, il Comitato esecutivo e l'Ufficio di presidenza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    presenta all'Assemblea generale, su proposta del Segretario generale e d'intesa con il Comitato esecutivo, la delibera programmatica semestrale delle attivita' della Consulta.
 
 Per lo svolgimento dei suoi compiti, il Presidente si avvale di una segreteria.
 
 Alle attivita' di cui al comma 2 si provvede senza oneri aggiuntivi.
 
 ## Art. 3. — Assemblea generale
+
+1.
+                        
+                            
+                                L'Assemblea generale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nomina i componenti del Comitato esecutivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    delibera il programma semestrale delle attivita' della Consulta, sulla base delle direttive ricevute dal Ministro delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    approva, previo parere del Comitato esecutivo, l'esito dei lavori svolti dalle commissioni di cui al comma 2.
 
 L'Assemblea generale, per lo svolgimento delle attivita' attribuite alla Consulta dall'articolo 4 del decreto legislativo 21 novembre 2005, n. 284, puo' avvalersi, per la trattazione di tematiche afferenti a normativa e affari internazionali, logistica, intermodalita', qualita', sicurezza e controlli, di apposite commissioni.
 
@@ -46,15 +149,108 @@ Il Comitato esecutivo si riunisce su convocazione del Presidente e svolge i comp
 
 ## Art. 5. — Segretario generale
 
+1.
+                        
+                            
+                                Il Segretario generale, in qualita' di responsabile dell'attivita' amministrativa, contabile ed economico-finanziaria della Consulta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collabora con il Presidente nella definizione dei programmi di attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    realizza le linee di attivita' della Consulta; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordina le attivita' degli organi, nonche' della segreteria del Presidente, assicurandone anche la corretta e tempestiva informazione.
+
 Il Segretario generale, nell'ambito della dotazione organica di cui all'articolo 9, provvede alla gestione amministrativa, contabile ed alla realizzazione dei programmi di attivita' relative alle seguenti materie: affari generali, politiche per la logistica, politiche per le imprese, intermodalita', qualita', sicurezza e controlli, comunicazione e pubblicita'.
 
 Con delibera adottata dal Presidente della Consulta, si provvedera' ad individuare le attivita' relative alle citate materie.
 
 ## Art. 6. — Comitato scientifico
 
+1.
+                        
+                            
+                                Il Comitato scientifico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collabora con il Presidente nella definizione delle attivita' inerenti il Piano nazionale della logistica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornisce il supporto di studio e di approfondimento alle indagini inerenti le politiche di investimento del settore del trasporto e della logistica, i costi dei servizi, le iniziative di sostegno alle imprese.
+
 ## Art. 7. — Ufficio di presidenza
 
+1.
+                        
+                            
+                                L'Ufficio di presidenza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    istruisce le riunioni dell'Assemblea generale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    determina le modalita' di attuazione delle attivita' deliberate dall'Assemblea generale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definisce le linee di azione della Consulta, anche con riferimento ai rapporti con le autorita' istituzionali.
+
 ## Art. 8. — Osservatorio
+
+1.
+                        
+                            
+                                L'Osservatorio sulle attivita' di autotrasporto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettua il monitoraggio dei dati economico-sociali del mercato dell'autotrasporto, con particolare riferimento a quelli inerenti al rispetto delle disposizioni in materia di sicurezza della circolazione e di sicurezza sociale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esprime pareri in ordine all'adeguamento della normativa che regola il mercato dell'autotrasporto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    aggiorna gli usi e le consuetudini da comunicare alle camere di commercio, industria, agricoltura e artigianato, per la definizione delle controversie aventi ad oggetto contratti di trasporto di merci su strada stipulati non in forma scritta.
 
 ## Art. 9. — Risorse umane e spese della Consulta
 
@@ -68,7 +264,43 @@ Alle spese connesse all'attivita' ed al funzionamento della Consulta, ivi compre
 
 ## Art. 10. — Oggetto
 
+1.
+                        
+                            
+                                Il presente capo ha per oggetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le disposizioni organizzative per il Comitato centrale per l'Albo nazionale degli autotrasportatori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la determinazione della dotazione organica occorrente per il funzionamento del Comitato centrale.
+
 ## Art. 11. — Comitato centrale
+
+1.
+                        
+                            
+                                Il Comitato centrale, in relazione alle attribuzioni ad esso conferite ai sensi dell'articolo 9 del decreto legislativo 21 novembre 2005, n. 284: 
+ 
+                            
+                            
+                                a)
+                                
+                                    delibera il programma di attivita' annuale ed assume le decisioni connesse all'esercizio delle proprie attribuzioni anche sulla base delle direttive impartite dal Ministro delle infrastrutture e dei trasporti in materia di autotrasporto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istituisce, su proposta del Presidente, commissioni permanenti o temporanee per la trattazione di questioni attinenti ai compiti istituzionali del Comitato stesso.
 
 Il Comitato centrale e le commissioni si riuniscono su convocazione del Presidente, inviata, anche per via telematica, almeno cinque giorni prima, e, in caso di eccezionale necessita' ed urgenza, almeno quarantotto ore prima della data stabilita per la seduta. Il Comitato centrale stabilisce le regole relative alla validita' delle riunioni ed alla maggioranza occorrente per le deliberazioni.
 
@@ -78,9 +310,66 @@ Ai lavori del Comitato centrale e delle commissioni possono essere chiamati a pa
 
 ## Art. 12. — Presidente
 
+1.
+                        
+                            
+                                Il Presidente del Comitato centrale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' responsabile dell'attivita' amministrativa, contabile ed economico-finanziaria del Comitato centrale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta le disposizioni organizzative per il funzionamento della Segreteria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rappresenta il Comitato centrale verso l'esterno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    e' responsabile dell'attuazione, da parte del Comitato centrale, delle direttive del Ministro delle infrastrutture e dei trasporti.
+
 Per lo svolgimento dei suoi compiti, il Presidente si avvale della segreteria diretta e coordinata dal capo della segreteria di cui all'articolo 13.
 
 ## Art. 13. — Capo della segreteria
+
+1.
+                        
+                            
+                                Il Capo della segreteria del Comitato centrale, nominato dal Presidente fra i funzionari del Dipartimento per i trasporti terrestri, la navigazione ed i sistemi informativi e statistici del Ministero delle infrastrutture e dei trasporti, svolge i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    collabora con il Presidente nella definizione dei programmi di attivita' del Comitato centrale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulla base delle direttive ricevute dal Presidente, coordina l'attivita' relativa alle materie di cui al comma 2, al fine di assicurare lo svolgimento dei compiti da parte delle competenti commissioni, con particolare riguardo alla gestione amministrativa e contabile, nonche' assicura il raccordo necessario tra le attivita' svolte dalle stesse commissioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    partecipa alle riunioni del Comitato centrale e delle commissioni, svolgendo anche funzioni consultive e provvedendo alla redazione dei verbali.
 
 Il capo della segreteria, nell'ambito della dotazione organica di cui all'articolo 14, provvede alla gestione amministrativa, contabile ed alla realizzazione dei programmi di attivita' relative alle seguenti materie: affari generali, iniziative di sostegno alle imprese, sicurezza e controlli, studi e ricerche, formazione ed informazione, certificazione. Ad eventuali oneri si provvede con le ordinarie dotazioni di bilancio.
 

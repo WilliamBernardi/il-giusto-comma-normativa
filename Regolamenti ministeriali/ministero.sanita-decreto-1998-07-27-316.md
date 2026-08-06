@@ -8,8 +8,8 @@ codice_redazionale: 098G0369
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,31 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 E' individuata la figura del tecnico della fisiopatologia cardiocircolatoria e perfusione cardiovascolare con il seguente profilo: il tecnico di fisiopatologia cardiocircolatoria e perfusione cardiovascolare e' l'operatore sanitario che, in possesso del diploma universitario abilitante e dell'iscrizione all'albo professionale, provvede alla conduzione e alla manutenzione delle apparecchiature relative alle tecniche di circolazione extracorporea ed alle tecniche di emodinamica.
 
 Le mansioni del tecnico della fisiopatologia cardiocircolatoria e perfusione cardiovascolare sono esclusivamente di natura tecnica; egli coadiuva il personale medico negli ambienti idonei fornendo indicazioni essenziali o conducendo, sempre sotto indicazione medica, apparecchiature finalizzate alla diagnostica emodinamica o vicariati le funzioni cardiocircolatorie.
+
+3.
+                    
+                        
+                            Il tecnico della fisiopatologia cardiocircolatoria e perfusione cardiovascolare:
+ 
+                        
+                        
+                            a)
+                            
+                                pianifica, gestisce e valuta quanto necessario per il buon funzionamento delle apparecchiature di cui e' responsabile;
+
+                            
+                        
+                        
+                            b)
+                            
+                                garantisce la corretta applicazione delle tecniche di supporto richieste;
+
+                            
+                        
+                        
+                            c)
+                            
+                                svolge la sua attivita' professionale in strutture sanitarie pubbliche o private, in regime di dipendenza o libero professionale.
 
 Il tecnico della fisiopatologia cardiocircolatoria e perfusione cardiovascolare contribuisce alla formazione del personale di supporto e concorre direttamente all'aggiornamento relativo al profilo professionale e alla ricerca nelle materie di sua competenza.
 

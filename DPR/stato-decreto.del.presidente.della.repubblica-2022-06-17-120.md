@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-09-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -132,6 +132,98 @@ Il conseguimento degli obiettivi affidati dal dirigente dell'ufficio e correlati
 
 Alimentazione del Fondo di produttivita'
 
+1.
+                        
+                            
+                                Per ciascun esercizio finanziario, il fondo di produttivita' di cui all'articolo 5 del decreto del Presidente della Repubblica 29 novembre 2007, e' alimentato stabilmente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dalle risorse con carattere di certezza e stabilita' derivanti da specifiche disposizioni normative o amministrative ovvero da disposizioni particolari attuative dell'ordinamento del Corpo nazionale dei vigili del fuoco, ivi comprese quelle previste dall'articolo 17-bis, comma 2, lettera a), del decreto legislativo 29 maggio 2017, n. 97, che incrementano il fondo, con o senza effetti di trascinamento negli anni successivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dall'importo corrispondente alle retribuzioni individuali di anzianita' del personale cessato dal servizio, compresa la quota di tredicesima mensilita', che confluisce stabilmente nel Fondo dall'anno successivo alla cessazione dal servizio in misura intera in ragione d'anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dell'importo corrispondente alle indennita' di rischio e mensile, di cui gli articoli 4 e 5, non piu' corrisposte al personale cessato dal servizio compresa la quota di tredicesima mensilita' e non riutilizzate in conseguenza di nuove assunzioni; l'importo confluisce stabilmente nel Fondo dell'anno successivo alla cessazione dal servizio in misura intera in ragione d'anno.
+
+2.
+                        
+                            
+                                Il fondo di cui al comma 1 e' altresi' annualmente incrementato da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i maggiori introiti dei proventi derivanti da servizi di prevenzione e vigilanza di cui all'articolo 65, comma 1, del decreto del Presidente della Repubblica del 4 agosto 1990, n. 335; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli introiti derivanti dall'effettuazione dei servizi di formazione e delle attivita' di controllo di cui all'articolo 37 del decreto legislativo 9 aprile 2008, n. 81; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli introiti derivanti dai servizi svolti a seguito di convenzioni con amministrazioni o enti pubblici o privati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli introiti derivanti dalle attivita' di cui al decreto legislativo 26 giugno 2015, n. 105; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le risorse di cui all'articolo 4, comma 3, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, nei limiti di cui all'articolo 1, comma 365, lettera c), ultimo periodo, della legge 11 dicembre 2016, n. 232; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le somme derivanti dall'attuazione dell'articolo 43 della legge 27 dicembre 1997, n. 449; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli importi corrispondenti ai ratei delle retribuzioni individuali di anzianita' e alle mensilita' residue delle indennita' di rischio e mensile, di cui gli articoli 4 e 5, nonche' agli importi corrispondenti alle mensilita' residue di eventuali assegni personali attribuiti a seguito di mobilita', transito o analoga forma di assegnazione da altre pubbliche amministrazioni ovvero a seguito di progressioni di carriera, del personale cessato dal servizio nel corso dell'anno precedente, calcolati in misura pari alle mensilita' residue dopo la cessazione, e non riutilizzate in conseguenza di nuove assunzioni, computandosi a tal fine, oltre ai ratei di tredicesima mensilita', le frazioni di mese superiori a quindici giorni; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli introiti previsti da altre disposizioni normative o amministrative ovvero attuative dell'ordinamento del Corpo nazionale dei vigili del fuoco che incrementano il fondo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    gli ulteriori risparmi di gestione e spesa che, ai sensi di altre disposizioni normative o amministrative ovvero attuative dell'ordinamento del Corpo nazionale dei vigili del fuoco, incrementano il fondo.
+
 Gli introiti di cui al comma 2 e quelli derivanti dallo svolgimento di specifici incarichi da parte del personale direttivo del Corpo nazionale dei vigili del fuoco, anche per servizi istituzionali resi in conto terzi, affluiscono al fondo di cui al comma 1.
 
 La costituzione del fondo di cui all'articolo 5 del decreto del Presidente della Repubblica 29 novembre 2007 avviene nel rispetto dei vincoli finanziari previsti dalle vigenti disposizioni di legge in materia.
@@ -152,11 +244,167 @@ Nell'ambito delle risorse che compongono il fondo di cui al comma 1, l'autorizza
 
 Allo scopo di remunerare i maggiori oneri e le responsabilita' del personale direttivo titolare di posizione organizzativa, al dipendente che ha svolto specifici incarichi o altre attivita' istituzionali specificamente remunerati e' corrisposta una quota del compenso maturato in base alla vigente disciplina, da definirsi con accordo integrativo nazionale in una misura ricompresa tra il 50 per cento e il 66 per cento dell'importo al netto degli oneri a carico dell'Amministrazione. La rimanente quota dei compensi incrementa il fondo di produttivita' di cui all'articolo 5 del decreto del Presidente della Repubblica 29 novembre 2007.
 
+6.
+                        
+                            
+                                Le risorse di cui al comma 1, non destinate alle finalita' di spesa di cui ai commi precedenti, sono utilizzate per promuovere il miglioramento dell'efficienza dei servizi istituzionali, con la realizzazione di piani e progetti strumentali e di risultato da definire mediante accordi integrativi nazionali per il personale direttivo e dirigente del Corpo nazionale dei vigili del fuoco.
+Nell'ambito delle suddette finalita', le suddette risorse sono utilizzate per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    remunerare il maggiore impegno operativo nelle attivita' di soccorso tecnico urgente, compresi gli interventi connessi alle emergenze locali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sviluppare le attivita' progettuali di studio, ricerca, sperimentazione e formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    remunerare l'esercizio di compiti che comportano specifiche responsabilita' ovvero assegnati per fronteggiare particolari situazioni di lavoro anche per la valorizzazione delle funzioni svolte dal personale dei ruoli tecnico-professionali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    incentivare il personale impiegato in attivita' di specializzazione e in attivita' specialistiche di cui agli articoli 45 e 51 del decreto del Presidente della Repubblica 28 febbraio 2012, n. 64 per il quale non sia previsto dalle norme legislative e contrattuali il riconoscimento di particolari emolumenti per l'esercizio delle funzioni di soccorso tecnico professionalizzato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    compensare lo svolgimento di servizi di reperibilita' ai sensi delle disposizioni attuative dell'articolo 65, comma 2, lettera d), e comma 3, del decreto del Presidente della Repubblica 4 agosto 1990, n. 335, ivi compresi quelli svolti dal personale titolare di posizioni organizzative di cui all'articolo 7. 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ulteriori incrementi della misura dei compensi di cui all'articolo 7 del presente decreto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ulteriori compensi finalizzati al conseguimento di obiettivi di efficienza e di efficacia dei settori tecnico-operativo e tecnico-professionale del Corpo nazionale dei vigili del fuoco previsti da specifiche disposizioni normative o amministrative; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    ulteriori compensi previsti da specifiche disposizioni normative.
+
 Le pertinenti previsioni del presente articolo si applicano al personale dei ruoli a esaurimento dei direttivi speciali di cui all'articolo 13-bis del decreto legislativo 29 maggio 2017, n. 97, a decorrere dall'entrata in vigore del presente decreto. Ai sensi di quanto previsto dall'articolo 17-bis, comma 2, lettera a), del decreto legislativo 29 maggio 2017, n. 97, dalla suddetta decorrenza e fino al perfezionamento dell'efficacia degli accordi integrativi nazionali di cui ai commi 4 e 6, continuano ad applicarsi a tale personale, relativamente agli emolumenti accessori non aventi carattere di generalita' e natura fissa e continuativa, le previsioni concernenti il fondo di amministrazione di cui all'articolo 6 del decreto del Presidente della Repubblica 29 novembre 2007 per il personale non direttivo e non dirigente del Corpo nazionale dei vigili del fuoco.
 
 ## Art. 10. — Trattamento di trasferta
 
+1.
+                        
+                            
+                                Al personale direttivo del Corpo nazionale dei vigili del fuoco inviato in missione, oltre alla normale retribuzione, compete: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una indennita' di trasferta pari a: 
+ euro 20,66 per ogni periodo di ventiquattro ore di trasferta, ivi comprese le ore di viaggio; 
+ un importo determinato proporzionalmente per ogni ora di trasferta, ivi comprese le ore di viaggio, in caso di trasferte di durata inferiore alle ventiquattro ore o per le ore eccedenti le ventiquattro ore, in caso di trasferte di durata superiore alle ventiquattro ore; ((1))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    il rimborso delle spese effettivamente sostenute per i viaggi in ferrovia, aereo, nave ed altri mezzi di trasporto extraurbani, nel limite del costo del biglietto; per i viaggi in aereo si applicano le disposizioni di cui all'articolo 18 del decreto-legge 13 agosto 2011, n. 138, convertito con modificazioni dalla legge 14 settembre 2011, n. 148; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un'indennita' supplementare pari al cinque per cento del costo del biglietto aereo e del dieci per cento del costo per treno e nave; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il rimborso delle spese per i mezzi di trasporto urbano o dei taxi ovvero delle spese relative al trasporto del materiale e degli strumenti occorrenti al personale per l'espletamento dell'incarico affidato, nei casi preventivamente individuati ed autorizzati dall'amministrazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il compenso per lavoro straordinario, laddove previsto e in presenza delle relative autorizzazioni, nel caso che l'attivita' lavorativa nella sede della trasferta si protragga per un tempo superiore al normale orario di lavoro previsto per la giornata; si considera, a tal fine, esclusivamente il tempo effettivamente lavorato, ivi compreso quello di conduzione dei mezzi di servizio, preventivamente autorizzata, con obbligo di sorveglianza e custodia del veicolo e di eventuali altri beni dell'amministrazione trasportati con esso.
+
+2.
+                        
+                            
+                                Resta fermo che il personale, in occasione dello svolgimento di missioni all'interno del territorio nazionale, e' tenuto a fruire, per il vitto e per l'alloggio, delle apposite idonee strutture dell'amministrazione, ai sensi dell'articolo 4, comma 98, della legge 12 novembre 2011, n. 183. Laddove dette strutture non siano esistenti e disponibili, previa attestazione dei dirigenti preposti alle sedi centrali e territoriali in cui e' svolta la missione e previa autorizzazione del dirigente che dispone l'invio in missione, e' riconosciuto al personale, sulla base di idonea documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((al personale inviato in missione di durata superiore a dodici ore compete il rimborso delle spese documentate nel limite di euro 30,55 per un pasto e di complessivi euro 61,10 per due pasti, fermo restando che per incarichi di durata non inferiore a otto ore compete il rimborso di un solo pasto;))
+                                        ((1))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((i medesimi limiti di rimborso si applicano al personale in trasferta che dichiari di non aver potuto consumare i pasti per ragioni di servizio o per mancanza di strutture che ne consentano la consumazione pur avendone il diritto ai sensi della vigente normativa. E' consentito il rimborso del documento fiscale con dicitura "pasto completo."))
+                                        ((1))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di missione continuativa nella medesima localita' di durata non inferiore a trenta giorni, e' consentito il rimborso della spesa per il pernottamento in residenza turistico alberghiera di categoria corrispondente a quella ammessa per l'albergo, purche' risulti economicamente piu' conveniente rispetto al costo medio della categoria consentita nella medesima localita'.
+
 Al personale inviato in trasferta a supporto di delegazioni ufficiali dell'amministrazione, indipendentemente dalla qualifica di appartenenza, spettano i rimborsi e le agevolazioni previsti per i componenti della predetta delegazione.
+
+4.
+                        
+                            
+                                Le attivita' svolte in particolari situazioni operative che non consentono di fruire, durante le trasferte, del pasto o del pernottamento per mancanza di strutture e servizi di ristorazione, sono cosi' individuate, a titolo esemplificativo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di protezione civile nelle situazioni di prima urgenza e di soccorso tecnico urgente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' di riparazione e controllo urgente di impianti e apparecchiature; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' di esercitazione o che comportino imbarchi immediati su mezzi aeronautici e marittimi.
 
 Al personale che svolge le attivita' di cui al comma 4 spetta la somma forfettaria onnicomprensiva e giornaliera di euro 20,66 lordi in luogo del rimborso del costo per il pasto e di euro 20,66 lordi per il pernottamento.
 
@@ -239,6 +487,30 @@ Gli effetti retributivi derivanti dall'applicazione dell'articolo 11 del present
 
 ## Art. 16. — Fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei dirigenti di livello non generale
 
+1.
+                        
+                            
+                                Il fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei primi dirigenti e dei dirigenti superiori del Corpo nazionale dei vigili del fuoco, di cui all'articolo 8 del decreto del Presidente della Repubblica 15 marzo 2018, n. 42, e' aumentato dalle seguenti risorse annue, ulteriori rispetto a quelle utilizzate per gli incrementi di cui all'articolo 13 del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la quota variabile della retribuzione di rischio e di posizione: 
+ per l'anno 2021: euro 20.564,50; 
+ a decorrere dal 31 dicembre 2021 e a valere per l'anno 2022: euro 51.654,96; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la retribuzione di risultato: 
+ per l'anno 2019: euro 721,42; 
+ per l'anno 2020: euro 1.170,08; 
+ per l'anno 2021: euro 63.383,32; 
+ a decorrere dal 31 dicembre 2021 e a valere per l'anno 2022: euro 111.889,52.
+
 Gli importi afferenti agli anni 2019, 2020 e 2021 non hanno effetto di trascinamento nell'anno successivo.
 
 In relazione all'espletamento di incarichi aggiuntivi conferiti ai dirigenti di livello non generale in ragione del loro ufficio o comunque attribuiti dall'amministrazione o su designazione della stessa, i cui compensi affluiscono al fondo di cui al comma 1, al titolare dell'incarico e' corrisposta, a integrazione della retribuzione individuale di risultato, una quota del compenso spettante in base alla vigente disciplina, da definirsi con accordo integrativo nazionale, in una misura ricompresa tra il cinquanta per cento e il sessantasei per cento dell'importo al netto degli oneri a carico dell'Amministrazione. La quota residua dei compensi affluiti al predetto fondo e' destinata all'incremento della retribuzione di risultato.
@@ -248,6 +520,30 @@ In relazione all'espletamento di incarichi di reggenza conferiti con provvedimen
 Fino alla stipula del suddetto accordo integrativo continuano ad applicarsi le previsioni di cui agli articoli 2 e 3 dell'accordo decentrato a livello nazionale della dirigenza del Corpo nazionale dei vigili del fuoco del 18 luglio 2007.
 
 ## Art. 17. — Fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei dirigenti di livello generale
+
+1.
+                        
+                            
+                                Il fondo per la retribuzione di rischio e di posizione e per la retribuzione di risultato dei dirigenti generali del Corpo nazionale dei vigili del fuoco, di cui all'articolo 9 del decreto del Presidente della Repubblica 15 marzo 2018, n. 42, e' aumentato dalle seguenti risorse annue, ulteriori rispetto a quelle utilizzate per gli incrementi di cui all'articolo 13 del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la quota variabile della retribuzione di rischio e di posizione: 
+ per l'anno 2021: euro 9.663,74; 
+ a decorrere dal 31 dicembre 2021 e a valere per l'anno 2022: euro 24.273,88; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la retribuzione di risultato: 
+ per l'anno 2019: euro 198,99; 
+ per l'anno 2020: euro 322,75; 
+ per l'anno 2021: euro 13.492,06; 
+ a decorrere dal 31 dicembre 2021 e a valere per l'anno 2022: euro 20.837,53.
 
 Gli importi afferenti agli anni 2019, 2020 e 2021 non hanno effetto di trascinamento nell'anno successivo.
 
@@ -276,6 +572,33 @@ Resta ferma la disciplina dei rimborsi di cui all'articolo 18 del decreto-legge 
 
 ## Art. 20. — Congedo ordinario
 
+1.
+                        
+                            
+                                All'articolo 2 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 8 il numero «12» e' sostituito dal numero «13»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Il comma 13 e' sostituito dal seguente: 
+ «13. Il congedo ordinario maturato e non goduto per esigenze di servizio e' monetizzabile solo all'atto della cessazione del rapporto di lavoro, nei limiti delle vigenti norme di legge e delle relative disposizioni applicative.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in fine e' aggiunto il seguente comma: 
+ «16. La concessione o il diniego del congedo richiesto deve essere comunicato al dipendente in forma scritta entro un termine congruo dalla presentazione dell'istanza, tenuto anche conto delle eventuali esigenze prospettate dall'interessato.».
+
 ## Art. 21. — Cessione solidale del congedo ordinario
 
 ((Su base volontaria e a titolo gratuito, il personale direttivo e dirigente puo' cedere, in tutto o in parte, ad altro dipendente del Corpo nazionale dei vigili del fuoco che abbia esigenza di prestare assistenza a figli che necessitino di cure costanti, e/o al coniuge convivente, ovvero al convivente di fatto ai sensi della legge 20 maggio 2016, n. 76, ovvero ai genitori conviventi, che, per le particolari condizioni di salute in cui versano, necessitano di cure costanti, nonche' ai genitori non conviventi, affetti da patologie gravi che richiedono terapie salvavita documentate dalla azienda sanitaria competente per territorio o da struttura convenzionata: 
@@ -302,6 +625,25 @@ La presente disciplina potra' essere oggetto di revisione ai fini di una possibi
 
 ## Art. 22. — Permessi retribuiti
 
+1.
+                        
+                            
+                                All'articolo 6 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole da «decesso» a «n. 53.» sono sostituite dalle seguenti: 
+ «decesso o documentata grave infermita' del coniuge, di un parente entro il secondo grado o di un affine di primo grado, in ragione di tre giorni all'anno per evento, ai sensi dell'articolo 4, comma 1, della legge 8 marzo 2000, n. 53. Il permesso per lutto puo' essere fruito entro sette giorni lavorativi dal decesso.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 3 la parola «trenta» e' sostituita dalla parola «quarantacinque».
+
 ## Art. 23. — (( (Banca delle ore). ))
 
 
@@ -315,6 +657,64 @@ La presente disciplina potra' essere oggetto di revisione ai fini di una possibi
 ((Le modalita' organizzative e applicative della banca delle ore sono individuate dal capo del Dipartimento dei Vigili del fuoco, del Soccorso Pubblico e della Difesa Civile, con carattere di uniformita' sul territorio e mediante l'utilizzo di sistemi informatici che prevedano la conservazione nel tempo dei provvedimenti di autorizzazione alle prestazioni di lavoro straordinario.))
 
 ## Art. 24. — Assenze per malattia
+
+1.
+                        
+                            
+                                All'articolo 4 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 3 e' aggiunto il seguente: 
+ «3-bis. L'Amministrazione puo' richiedere, previo parere del medico responsabile della struttura sanitaria centrale o territoriale e secondo le procedure di cui al comma 2, l'accertamento della idoneita' psicofisica del dipendente, in caso di disturbi del comportamento gravi, evidenti e ripetuti oppure in presenza di condizioni fisiche che facciano fondatamente presumere l'inidoneita' permanente assoluta o relativa al servizio oppure l'impossibilita' di rendere la prestazione.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera a) del comma 6 e' sostituita dalla seguente: 
+ «a) intera retribuzione fissa e continuativa, per i primi nove mesi di assenza, con esclusione di qualsiasi compenso accessorio comunque denominato collegato alla presenza in servizio;»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 8 e' sostituito dal seguente: 
+ «8. In caso di patologie gravi che richiedano terapie salvavita, come ad esempio l'emodialisi, la chemioterapia ed altre ad esse assimilabili, ai fini del presente articolo, sono esclusi dal computo dei giorni di assenza per malattia i relativi giorni di ricovero ospedaliero o di day-hospital, nonche' i giorni di assenza dovuti all'effettuazione delle citate terapie, visite specialistiche, esami diagnostici e follow up specialistico. In tali giornate il dipendente ha diritto all'intera retribuzione prevista dalla lettera a) del comma 6. L'attestazione della sussistenza delle particolari patologie richiedenti le terapie salvavita deve essere rilasciata dalle competenti strutture medico-legali delle Aziende sanitarie locali o dagli enti accreditati o, nei casi previsti, dalle strutture con competenze mediche delle pubbliche amministrazioni. Rientrano nella disciplina del presente comma anche i giorni di assenza dovuti agli effetti collaterali delle citate terapie, comportanti incapacita' lavorativa. I giorni di assenza dovuti alle terapie e agli effetti collaterali delle stesse sono debitamente certificati dalla struttura medica convenzionata ove e' stata effettuata la terapia o dall'organo medico competente. La procedura per il riconoscimento della grave patologia e' attivata dal dipendente e, dalla data del riconoscimento della stessa, decorrono le disposizioni di cui al presente comma. La disciplina del presente comma si applica alle assenze per l'effettuazione delle terapie salvavita intervenute successivamente alla data di sottoscrizione definitiva del presente accordo.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 9 le parole «decreto legislativo n. 834/1981» sono sostituite dalle seguenti: «decreto del Presidente della Repubblica 30 dicembre 1981, n. 834»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 13, al primo periodo, dopo le parole «raccomandata con avviso di ricevimento» sono aggiunte le seguenti parole: «o mediante strumento telematico, idoneo a garantire la certezza dell'invio»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comma 14 e' sostituito dal seguente: 
+ «14. L'Amministrazione dispone il controllo della malattia ai sensi delle vigenti disposizioni di legge attraverso l'ente competente.». 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il comma 16 e' sostituito dal seguente: 
+ «16. Il dipendente assente per malattia, pur in presenza di espressa autorizzazione del medico curante ad uscire, e' tenuto a farsi trovare nel domicilio comunicato all'Amministrazione in ciascun giorno, anche nei giorni non lavorativi e festivi, nelle fasce orarie di reperibilita' determinate con decreto del Ministro per la pubblica amministrazione ai sensi dell'articolo 55-septies, comma 5-bis, del decreto legislativo 30 marzo 2001, n. 165.».
 
 ## Art. 25. — Assenze per l'espletamento di visite, terapie, prestazioni specialistiche ed esami diagnostici
 
@@ -336,6 +736,24 @@ L'assenza per i permessi di cui al comma 1 e' giustificata mediante attestazione
 
 L'attestazione e' inoltrata all'Amministrazione dal dipendente oppure e' trasmessa direttamente a quest'ultima, anche per via telematica, a cura del medico o della struttura.
 
+10.
+                        
+                            
+                                Nel caso di concomitanza tra l'espletamento di visite specialistiche, l'effettuazione di terapie od esami diagnostici e la situazione di incapacita' lavorativa temporanea del dipendente conseguente ad una patologia in atto, la relativa assenza e' imputata alla malattia, con la conseguente applicazione della disciplina legale e contrattuale in ordine al relativo trattamento giuridico ed economico. In tale ipotesi, l'assenza per malattia e' giustificata mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attestazione di malattia del medico curante individuato, in base a quanto previsto dalle vigenti disposizioni, comunicata all'Amministrazione secondo le modalita' ordinariamente previste in tale ipotesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attestazione di presenza, redatta dal medico o dal personale amministrativo della struttura, anche privati, che hanno svolto la visita o la prestazione, secondo le previsioni dei commi 8 e 9 del presente articolo.
+
 Analogamente a quanto previsto dal comma 10, nei casi in cui l'incapacita' lavorativa e' determinata dalle caratteristiche di esecuzione e di impegno organico delle visite specialistiche, degli accertamenti, esami diagnostici e/o delle terapie, la relativa assenza e' imputata alla malattia, con la conseguente applicazione della disciplina legale e contrattuale in ordine al relativo trattamento giuridico ed economico. In tale caso l'assenza e' giustificata mediante l'attestazione di presenza di cui al comma 10, lettera b).
 
 Nell'ipotesi di controllo medico legale, l'assenza dal domicilio e' giustificata dall'attestazione di presenza presso la struttura, ai sensi delle previsioni dei commi 8, 9 e 10.
@@ -346,7 +764,41 @@ Resta ferma la possibilita' per il dipendente, per le finalita' di cui al comma 
 
 ## Art. 26. — Aspettative per motivi personali e di famiglia
 
+1.
+                        
+                            
+                                All'articolo 8 del decreto del Presidente della Repubblica 7 maggio 2008 e' apportata la seguente modifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera b) del comma 4 e' sostituita dalla seguente: 
+ «b) per la durata del periodo di prova se assunto presso la stessa o altra Amministrazione pubblica con rapporto di lavoro a tempo indeterminato a seguito di vincita di pubblico concorso.».
+
 ## Art. 27. — Assegnazione temporanea
+
+1.
+                        
+                            
+                                All'articolo 33 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 1 sono aggiunti i seguenti commi: 
+ «1-bis. Costituiscono gravissimi motivi di carattere familiare e personale, che devono essere documentati con certificazione medica attestante: 
+ a) la patologia del dipendente non ostativa alla prestazione di servizio, tale da richiedere assistenza da parte dei congiunti e/o terapie presso strutture sanitarie specialistiche assenti nella sede di servizio o in sedi limitrofe; 
+ b) la patologia del coniuge/figli/genitori del dipendente che comporti pericolo di vita o gravissimo pregiudizio per l'integrita' fisica, anche nel caso di temporaneo ricovero, e la necessita' di relativa assistenza, a condizione che la patologia non si configuri esclusivamente di carattere cronico o di durata non determinabile e, come tale, implicante soluzioni assistenziali di tipo permanente. 
+ 1-ter. Costituisce, altresi', gravissimo motivo di carattere familiare il ricongiungimento a figli minori o a congiunti sottoposti a tutela per sopravvenute circostanze che pongano solo in capo al dipendente la necessita' di assistenza temporanea, a condizione che venga comprovata l'impossibilita' da parte del soggetto che prima garantiva l'assistenza stessa e il carattere temporaneo della situazione.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' soppresso.
 
 ## Art. 28. — Congedo straordinario per donne vittime di violenza di genere
 
@@ -361,6 +813,38 @@ L'Amministrazione adotta idonee misure a tutela della riservatezza della condizi
 L'Amministrazione favorisce, su richiesta dell'interessata, l'assegnazione temporanea presso altre sedi territoriali del Corpo nazionale dei vigili del fuoco, nonche' il collocamento in posizione di comando o di fuori ruolo presso altre amministrazioni.
 
 ## Art. 29. — Tutela dei dipendenti in particolari condizioni psicofisiche
+
+1.
+                        
+                            
+                                Allo scopo di favorire la riabilitazione e il recupero del personale nei confronti del quale sia stato accertato, da una struttura sanitaria pubblica o da strutture associative convenzionate previste dalle leggi regionali vigenti, lo stato di tossicodipendenza o di alcolismo cronico e che si impegni a sottoporsi ad un progetto terapeutico di recupero predisposto dalle predette strutture, sono stabilite le seguenti misure di sostegno, secondo le modalita' di sviluppo del progetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    diritto alla conservazione del posto per l'intera durata del progetto di recupero, con corresponsione del trattamento economico previsto per le assenze per malattia; i periodi eccedenti i diciotto mesi non sono retribuiti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessione di permessi giornalieri orari retribuiti nel limite massimo di due ore, per la durata del progetto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riduzione dell'orario di lavoro, con l'applicazione degli istituti normativi e retributivi previsti per il rapporto di lavoro a tempo parziale, limitatamente alla durata del progetto di recupero; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assegnazione del dipendente a mansioni diverse da quelle abituali, quando tale misura sia individuata dalla struttura che gestisce il progetto di recupero come supporto della terapia in atto.
 
 I dipendenti i cui parenti entro il secondo grado o, in mancanza, entro il terzo grado, ovvero i conviventi ai sensi della legge 20 maggio 2016, n. 76 si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato a dare attuazione al progetto di recupero, possono fruire dell'aspettativa per motivi di famiglia per l'intera durata del progetto medesimo.
 
@@ -409,7 +893,69 @@ Per il personale direttivo non titolare di posizione organizzativa si applicano 
 
 L'orario di lavoro e' di trentasei ore settimanali. Esso e' articolato su cinque giorni, fatte salve le esigenze di servizio da erogarsi con carattere di continuita' che richiedano orari continuativi, anche nelle ore pomeridiane, o prestazioni per tutti i giorni della settimana o che presentano particolari esigenze di collegamento con le strutture di altri uffici pubblici.
 
+5.
+                        
+                            
+                                L'orario di lavoro e' funzionale all'orario di servizio e di apertura al pubblico. Le rispettive articolazioni sono determinate dai dirigenti responsabili degli uffici. A tal fine, l'orario di lavoro viene determinato sulla base dei seguenti criteri: 
+ ottimizzazione dell'impiego delle risorse umane; 
+ miglioramento della qualita' delle prestazioni; 
+ ampliamento della fruibilita' dei servizi da parte dell'utenza;  miglioramento dei rapporti funzionali con altri uffici ed altre amministrazioni; 
+ assicurazione della copertura dei servizi di guardia. 
+ Per la realizzazione dei suddetti criteri possono essere adottate, anche coesistendo, le seguenti tipologie di orario: 
+ 
+                            
+                            
+                                a)
+                                
+                                    orario articolato su cinque giorni: si attua con la prosecuzione della prestazione lavorativa nelle ore pomeridiane; le prestazioni pomeridiane possono avere durata e collocazione diversificata fino al completamento dell'orario di obbligo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'orario articolato su sei giorni: si svolge di norma per sei ore continuative antimeridiane; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    orario flessibile: si realizza con la previsione di fasce temporali entro le quali sono consentiti l'inizio ed il termine della prestazione lavorativa giornaliera; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    diverse articolazioni nel caso di attivita' i cui risultati non siano conseguibili mediante l'adozione di altre tipologie di orario; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    orario plurisettimanale: consiste nel ricorso alla programmazione di calendari di lavoro plurisettimanali e annuali con orari superiori o inferiori alle trentasei ore settimanali nel rispetto del monte ore complessivo di cui al comma 3.
+
 Sono fatte salve le esigenze degli uffici individuati nell'allegato 1 al decreto ministeriale n. 151 del 22 aprile 1999, che potranno adottare un orario di lavoro individuale superiore ai cinque giorni settimanali. In tali uffici e' possibile tuttavia articolare l'orario di lavoro dei dipendenti su cinque giorni spostando la giornata di riposo infrasettimanale, di regola coincidente con il sabato, in altro giorno.
+
+7.
+                        
+                            
+                                Nell'articolazione dell'orario ordinario puo' essere ammessa, se concordata in ambito locale, la seguente flessibilita' in entrata ed in uscita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino a un'ora di anticipo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fino a un'ora di ritardo.
 
 L'orario flessibile deve essere considerato un sistema rigidamente programmato. Eventuali ritardi in entrata, cosi' come uscite anticipate, devono essere recuperati.
 
@@ -438,6 +984,24 @@ Attraverso il sistema delle relazioni sindacali:
  si migliora la qualita' delle decisioni assunte; 
  si sostengono la motivazione, la crescita professionale e l'aggiornamento del personale, attraverso una visione strategica improntata alla valorizzazione del personale, nonche' i processi di innovazione organizzativa e di riforma dell'Amministrazione; 
  si tutelano le condizioni di lavoro legate alla salute e alla sicurezza dei lavoratori.
+
+3.
+                        
+                            
+                                Fermo restando la centralita' dell'istituto della contrattazione, nel rispetto dei distinti ruoli e responsabilita' dell'Amministrazione e delle organizzazioni sindacali firmatarie dell'accordo triennale recepito dal presente decreto, le relazioni sindacali si articolano nei seguenti modelli relazionali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    partecipazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    contrattazione integrativa.
 
 La partecipazione e' finalizzata ad instaurare forme trasparenti e costruttive di dialogo tra le parti, ai diversi livelli su atti e decisioni di valenza generale dell'Amministrazione, in materia di organizzazione o aventi riflessi sul rapporto di lavoro ovvero a garantire adeguati diritti di informazione sugli stessi; si articola, a sua volta, in: 
  informazione; 
@@ -515,13 +1079,168 @@ L'articolo 15 del decreto del Presidente della Repubblica 7 maggio 2008 e' sosti
 
 ## Art. 42. — Federazioni sindacali
 
+1.
+                        
+                            
+                                All' articolo 20 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 3, al secondo periodo, dopo le parole «con lettera raccomandata a/r» sono aggiunte le seguenti parole: «o mediante strumento telematico, idoneo a garantire la certezza dell'invio»; in fine, inserire le parole: «o sulla posta elettronica certificata»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4, al primo periodo, la parola «biennio» e' sostituita dalla parola «triennio»; gli anni «2008-2009» sono eliminati; l'anno «2007» e' sostituito dalle parole «dell'anno precedente alla rilevazione»; l'anno «2008» e' sostituito dalla parola «successivo»; al secondo periodo dopo le parole «31 marzo» e' soppresso l'anno «2008»; le parole «biennio 2008-2009» sono sostituite dalle seguenti parole «triennio contrattuale di riferimento»; al terzo periodo il numero «81» e' sostituito dal numero «227», l'anno «2007» e' sostituito dalle seguenti parole «dell'anno precedente alla rilevazione»; al quarto periodo, dopo le parole «31 marzo» l'anno «2008» e' soppresso; in fine l'anno «2008» e' sostituita dalla parola «successivo»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 5, il numero «81» e' sostituito dal numero «227»; al secondo periodo il numero «83» e' sostituito dal numero «229»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 6, il numero «81» e' sostituito dal numero «227»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 7 il numero «81» e' sostituito dal numero «227»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    al comma 8, in fine, le parole da «verificati» a «comma 3» sono soppresse; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    al comma 9, al primo periodo le parole «Dall'1 gennaio 2007» sono soppresse.
+
 ## Art. 43. — Distacchi sindacali
+
+1.
+                        
+                            
+                                All'articolo 21 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, il numero «81» e' sostituito dal numero «227»; la parola «biennio» e' sostituita dalla parola «triennio»; al secondo periodo, in fine, la parola «ripartizione» e' sostituita dalle parole «la rilevazione della rappresentativita'»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sostituire il comma 2 con il seguente: 
+ «2. Le richieste di distacco sono presentate dalle organizzazioni sindacali nazionali aventi titolo alla Direzione centrale per le risorse umane del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, la quale cura gli adempimenti istruttori finalizzati all'accertamento dei requisiti di cui al comma 6. Accertati i predetti requisiti, il Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile acquisisce il preventivo assenso della Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica ed emana il decreto di distacco entro il termine di trenta giorni dalla richiesta del distacco. L'assenso della Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, finalizzato esclusivamente all'accertamento del requisito della rappresentativita' ed alla verifica del rispetto dello specifico contingente e del relativo riparto di cui al comma 1, e' considerato acquisito qualora lo stesso Dipartimento della funzione pubblica non provveda entro venti giorni dalla data di ricezione della richiesta di preventivo assenso. Entro il 31 gennaio di ciascun anno, le organizzazioni sindacali comunicano la conferma di ogni singolo distacco in atto; possono avanzare richiesta di revoca in ogni momento. La conferma annuale e la richiesta di revoca sono comunicate alla Direzione centrale per le risorse umane del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, che le trasmette alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica. I consequenziali provvedimenti sono adottati solo in caso di revoca.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, le parole «alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica e» sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al comma 7, il numero «144» e' sostituito dal numero «244»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 9 e' soppresso.
 
 ## Art. 44. — Aspettative sindacali non retribuite
 
+1.
+                        
+                            
+                                All'articolo 22 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nella rubrica sono aggiunte le parole «non retribuite»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ «2. Le richieste di aspettativa sindacale sono presentate dalle organizzazioni sindacali rappresentative sul piano nazionale di cui al comma 1 alla Direzione centrale per le risorse umane del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, la quale cura gli adempimenti istruttori finalizzati all'accertamento dei requisiti di cui al comma 1. Accertati i predetti requisiti, la Direzione centrale per le risorse umane del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile acquisisce per ciascuna richiesta nominativa il preventivo assenso della Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, ed emana il decreto di aspettativa entro il termine di trenta giorni dalla richiesta da parte dell'organizzazione sindacale. L'assenso della Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica, finalizzato esclusivamente all'accertamento del requisito della rappresentativita', e' considerato acquisito qualora il Dipartimento della funzione pubblica stesso non provveda entro venti giorni dalla data di ricezione della richiesta di preventivo assenso.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, le parole «e' comunicata» sono sostituite dalle parole «sono comunicate»; le parole «alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica ed» sono soppresse; dopo le parole «difesa civile che» sono aggiunte le seguenti parole «le trasmette alla Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica.»; le parole «che adottano i consequenziali provvedimenti nel solo caso di revoca» sono sostituite dalle seguenti «I consequenziali provvedimenti sono adottati solo in caso di revoca».
+
 ## Art. 45. — Permessi sindacali retribuiti
 
+1.
+                        
+                            
+                                All'articolo 23 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «collocato in distacco» sono inserite le parole «a tempo pieno»; il numero «81» e' sostituito dal numero «227».
+
 ## Art. 46. — Adempimenti dell'Amministrazione
+
+1.
+                        
+                            
+                                All'articolo 24 del decreto del Presidente della Repubblica 7 maggio 2008 sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, i numeri «81» sono sostituiti dai numeri «227»; dopo l'ottavo periodo e' inserito il seguente: «Nei soli limitati casi in cui la lavorazione delle buste paga relative al mese di gennaio si chiuda prima del 31 dicembre, la rilevazione avviene sulla busta paga del mese di febbraio, a condizione che in detta busta paga risultino per le nuove deleghe rilasciate a dicembre sia la trattenuta riferita al mese di gennaio che quella riferita al mese di febbraio»; al nono periodo, le seguenti parole «e, quindi, anche per quella in corso relativa alla raccolta delle deleghe al 31 dicembre 2007,» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole «31 maggio» sono sostituite da «31 marzo»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, le parole «31 maggio» sono sostituite da «31 marzo»; in fine le parole «Il Dipartimento della funzione pubblica verifica il rispetto dei limiti previsti dal presente decreto.» sono soppresse.
 
 ## - Titolo IV NORME FINALI
 
@@ -538,6 +1257,52 @@ Sono, altresi', disapplicate le disposizioni contrattuali non compatibili con il
 Al personale di cui al presente decreto continuano ad applicarsi, ove non in contrasto, le norme previste dai precedenti contratti collettivi nazionali e accordi recepiti con decreto del Presidente della Repubblica.
 
 ## Art. 49. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione del presente decreto, complessivamente pari a 10.149.805 euro per l'anno 2022 e a 4.711.517 euro a decorrere dall'anno 2023, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a euro 4.841.091 per l'anno 2022, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 436, della legge 30 dicembre 2018, n. 145, che sono versate all'entrata del bilancio dello Stato nel medesimo anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a euro 358.367 per l'anno 2022, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 30, comma 7-quater, del decreto-legge 25 maggio 2021, n. 73 convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, che sono versate all'entrata del bilancio dello Stato nel medesimo anno; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a euro 238.830 per l'anno 2022, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 1, comma 996, della legge 30 dicembre 2020, n. 178, come sostituito dall'articolo 30, comma 7-quinquies, lettera a), del decreto-legge 25 maggio 2021, n. 73 convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, che sono versate all'entrata del bilancio dello Stato nel medesimo anno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quanto a euro 4.114.320 annui a decorrere dall'anno 2022 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 436, della legge 30 dicembre 2018, n. 145; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    quanto a euro 358.367 annui a decorrere dall'anno 2022 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 30, comma 7-quater, del decreto-legge 25 maggio 2021, n. 73 convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    quanto a euro 238.830 annui a decorrere dall'anno 2022 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 996, della legge 30 dicembre 2020, n. 178, come sostituito dall'articolo 30, comma 7-quinquies, lettera a) del decreto-legge 25 maggio 2021, n. 73 convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106.
 
 Il Ministero dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 

@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2022-02-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,7 +37,211 @@ Le disposizioni del presente decreto attengono alla determinazione dei livelli e
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «regolamento»: il regolamento (UE) n. 1177/2010 del Parlamento europeo e del Consiglio, del 24 novembre 2010, relativo ai diritti dei passeggeri che viaggiano via mare e per vie navigabili interne; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Autorita'»: l'Autorita' di regolazione dei trasporti, istituita dall'articolo 37 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, come modificato dall'articolo 36 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Ministero»: il Ministero delle infrastrutture e dei trasporti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Organismo responsabile»: l'organo che svolge i compiti e le funzioni dell'Organismo nazionale responsabile dell'applicazione del regolamento previsto all'articolo 25 del medesimo regolamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «persona con disabilita'» o «persona a mobilita' ridotta», qualsiasi persona la cui mobilita' sia ridotta, nell'uso del trasporto, a causa di qualsiasi disabilita' fisica (sensoriale o locomotoria, permanente o temporanea), disabilita' o minorazione mentale, o di qualsiasi altra causa di disabilita', o per ragioni di eta', e la cui condizione richieda un'attenzione adeguata e un adattamento del servizio fornito a tutti i passeggeri per rispondere alle esigenze specifiche di detta persona; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «territorio di uno Stato membro», territorio cui si applica il trattato sul funzionamento dell'Unione europea, con riferimento all'articolo 355 dello stesso, alle condizioni ivi contenute; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «condizioni d'accesso», norme, orientamenti e informazioni pertinenti sull'accessibilita' dei terminali portuali e delle navi, comprese le strutture per persone con disabilita' o persone a mobilita' ridotta; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «vettore», una persona fisica o giuridica, diversa da un operatore turistico, un agente di viaggio o un venditore di biglietti, che offre servizi di trasporto passeggeri o crociere al pubblico; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «vettore dell'Unione», un vettore stabilito nel territorio di uno Stato membro o che offre servizi di trasporto passeggeri da o verso il territorio di uno Stato membro; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «servizio passeggeri», un servizio di trasporto commerciale di passeggeri via mare o per vie navigabili interne effettuato secondo un orario pubblicato; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «servizi integrati», servizi di trasporto interconnessi all'interno di una determinata area geografica, con servizio d'informazione, emissioni di biglietti ed orari unici; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «vettore di fatto», un soggetto diverso dal vettore, che esegue effettivamente il trasporto, interamente o parzialmente; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «vie navigabili interne», un corpo idrico interno navigabile, naturale o artificiale, o sistema di corpi idrici interconnessi sfruttati per il trasporto, come laghi, fiumi o canali o una combinazione di questi; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «porto», un luogo o un'area geografica cui siano state apportate migliorie e aggiunte strutture tali da consentire l'attracco di navi, da cui i passeggeri si imbarcano o sbarcano regolarmente; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    «terminale portuale», un terminale, che dispone di un vettore o di un operatore di terminale, in un porto dotato di strutture quali banchi di accettazione, biglietteria o sale di ritrovo e personale per l'imbarco o lo sbarco di passeggeri che viaggiano con servizi passeggeri o in crociera; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    «nave», un'imbarcazione usata per la navigazione marittima o per vie navigabili interne; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    «contratto di trasporto», un contratto di trasporto fra un vettore e un passeggero per la fornitura di uno o piu' servizi passeggeri o crociere; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    «biglietto», un documento in corso di validita' o altro giustificativo di un contratto di trasporto; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    «venditore di biglietti», un rivenditore che conclude contratti di trasporto per conto del vettore; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    «agente di viaggio», un rivenditore che agisce per conto del passeggero o dell'operatore turistico nella conclusione di contratti di trasporto; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    «operatore turistico», un organizzatore o un rivenditore, diverso dal vettore, ai sensi dell'articolo 2, paragrafi 2 e 3, della direttiva 90/314/CEE; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    «prenotazione», una prenotazione per la partenza specifica di un servizio passeggeri o una crociera; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    «operatore del terminale», un organismo pubblico o privato nel territorio di uno Stato membro responsabile dell'amministrazione e della gestione di un terminale portuale; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    «crociera», servizio di trasporto via mare o per vie navigabili interne effettuato esclusivamente a fini di svago o ricreazione, completato da alloggio e altri servizi, di durata superiore a due giorni con pernottamento a bordo; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    «sinistro marittimo», il naufragio, il capovolgimento, la collisione o l'incaglio della nave, un'esplosione o un incendio a bordo o un difetto della nave.
+
 ## Art. 3. — Organismo nazionale responsabile dell'applicazione del regolamento
+
+1.
+                        
+                            
+                                L'organismo responsabile di cui all'articolo 25 del regolamento e' individuato nell'Autorita' di regolazione dei trasporti e svolge le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    vigilare sulla corretta applicazione del regolamento ed effettuare monitoraggi e indagini conoscitive sui servizi di cui al regolamento stesso, per quanto ivi previsto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istruire e valutare i reclami, presentati ai sensi dell'articolo 25, paragrafo 3, lettera b), del regolamento ai fini dell'accertamento delle infrazioni degli obblighi previsti dal regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accertare le violazioni delle disposizioni del regolamento ed irrogare le sanzioni previste dal presente decreto.
 
 L'Autorita' e' altresi' responsabile dell'applicazione del ((regolamento (UE) 2017/2394)), relativamente alla materia disciplinata dal regolamento.
 
@@ -55,6 +259,38 @@ Per i servizi regolari di competenza regionale e locale i reclami possono essere
 Per l'accertamento e l'irrogazione delle sanzioni amministrative pecuniarie da parte dell'Organismo si osservano, in quanto compatibili con quanto previsto dal presente articolo, le disposizioni contenute nel capo I, sezioni I e II, della legge 24 novembre 1981, n. 689. L'Autorita', con proprio regolamento, da adottare entro sessanta giorni dalla pubblicazione del presente decreto, nel rispetto della legislazione vigente in materia, disciplina i procedimenti per l'accertamento e l'irrogazione delle sanzioni, in modo da assicurare agli interessati la piena conoscenza degli atti istruttori, il contraddittorio in forma scritta e orale, la verbalizzazione e la separazione tra funzioni istruttorie e funzioni decisorie. Il regolamento disciplina i casi in cui, con l'accordo dell'impresa destinataria dell'atto di avvio del procedimento sanzionatorio, possono essere adottate modalita' procedurali semplificate di irrogazione delle sanzioni amministrative pecuniarie.
 
 Fermo quanto previsto dall'articolo 3, comma 5, l'Autorita', valutati gli elementi comunque in suo possesso e quelli portati a sua conoscenza da chiunque vi abbia interesse, da' avvio al procedimento sanzionatorio mediante contestazione immediata o la notificazione degli estremi della violazione.
+
+3.
+                        
+                            
+                                L'Autorita' determina l'importo delle sanzioni amministrative pecuniarie nell'ambito del minimo e massimo edittale previsto per ogni fattispecie di violazione dal presente decreto, nel rispetto dei principi di effettivita' e proporzionalita' ed in funzione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della gravita' della violazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della reiterazione della violazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle azioni poste in essere per la eliminazione o attenuazione delle conseguenze della violazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    del rapporto percentuale dei passeggeri coinvolti dalla violazione rispetto a quelli trasportati.
 
 Tutte le notizie, le informazioni o i dati riguardanti i soggetti passivi interessati dalla fase istruttoria del procedimento sanzionatorio sono tutelati dal segreto d'ufficio.
 

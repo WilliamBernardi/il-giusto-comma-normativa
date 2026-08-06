@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2025-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -44,12 +44,192 @@ Le disposizioni del presente articolo si applicano, in quanto compatibili, anche
 
 Dalle garanzie per finanziamenti di cui al presente articolo sono in ogni caso escluse le societa' che controllano direttamente o indirettamente, ai sensi dell'articolo 2359 del codice civile, una societa' residente in un Paese o in un territorio non cooperativo a fini fiscali, ovvero che sono controllate, direttamente o indirettamente, ai sensi dell'articolo 2359 del codice civile, da una societa' residente in un Paese o in un territorio non cooperativo a fini fiscali. Per Paesi o territori non cooperativi a fini fiscali si intendono le giurisdizioni individuate nell'allegato I alla lista UE delle giurisdizioni non cooperative a fini fiscali, adottata con conclusioni del Consiglio dell'Unione europea. La condizione di cui al presente comma non si applica se la societa' dimostra che il soggetto non residente svolge un'attivita' economica effettiva, mediante l'impiego di personale, attrezzature, attivi e locali. Ai fini del presente comma, il contribuente puo' interpellare l'Agenzia delle entrate ai sensi dell'articolo 11, comma 1, lettera b), della legge 27 luglio 2000, n. 212.
 
+2.
+                        
+                            
+                                Le garanzie di cui ai commi 1 e 1-bis sono rilasciate alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la garanzia e' rilasciata entro il 30 giugno 2022, per finanziamenti di durata non superiore a 6 anni ovvero al maggior termine di durata previsto dalla lettera a-bis), con la possibilita' per le imprese di avvalersi di un preammortamento di durata fino a 36 mesi; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    previa notifica e autorizzazione della Commissione europea, la durata massima dei finanziamenti di cui agli articoli 1 e 1-bis.1 del presente decreto e' innalzata a 10 anni. Su richiesta delle parti i finanziamenti aventi una durata non superiore a 6 anni, gia' garantiti da SACE S.p.A. ai sensi degli articoli 1 e 1-bis.1 del presente decreto, possono essere estesi fino ad una durata massima di 10 anni o sostituiti con nuovi finanziamenti aventi una durata fino a 10 anni ai sensi della presente lettera a-bis). Le commissioni annuali dovute dalle imprese per il rilascio ovvero per l'estensione delle garanzie di cui all'articolo 1 del presente decreto e la durata effettiva delle garanzie medesime saranno determinate in conformita' alla Comunicazione della Commissione europea recante un "Quadro temporaneo per le misure di aiuto di Stato a sostegno dell'economia nell'attuale emergenza del COVID-19", previa notifica e autorizzazione della Commissione europea, come specificato sul piano procedurale e documentale da SACE S.p.A. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al 31 dicembre 2019 l'impresa beneficiaria non rientrava nella categoria delle imprese in difficolta' ai sensi del Regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014, del Regolamento (UE) n. 702/2014 del 25 giugno 2014 e del Regolamento (UE) n. 1388/2014 del 16 dicembre 2014, e alla data del 29 febbraio 2020 non risultava presente tra le esposizioni deteriorate presso il sistema bancario, come rilevabili dal soggetto finanziatore; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    nella definizione del rapporto tra debito e patrimonio netto contabile registrato negli ultimi due anni dall'impresa, che non puo' essere superiore a 7,5, come indicato dal numero 1) della lettera e) del punto 18) dell'articolo 2 del regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014, e che costituisce un parametro indispensabile per la definizione di "impresa in difficolta'", sono compresi nel calcolo del patrimonio i crediti non prescritti, certi, liquidi ed esigibili, maturati nei confronti delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, per somministrazione, forniture e appalti, certificati ai sensi dell'articolo 9, comma 3-bis, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e le certificazioni richiamate al citato articolo 9, comma 3-ter, lettera b), ultimo periodo, recanti la data prevista per il pagamento, emesse mediante l'apposita piattaforma elettronica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo del prestito assistito da garanzia non e' superiore al maggiore tra i seguenti elementi: 
+ 1) 25 per cento del fatturato annuo dell'impresa relativo al 2019, come risultante dal bilancio ovvero dalla dichiarazione fiscale; 
+ 2) il doppio dei costi del personale dell'impresa relativi al 2019, come risultanti dal bilancio ovvero da dati certificati se l'impresa non ha approvato il bilancio; qualora l'impresa abbia iniziato la propria attivita' successivamente al 31 dicembre 2018, si fa riferimento ai costi del personale attesi per i primi due anni di attivita', come documentato e attestato dal rappresentante legale dell'impresa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la garanzia, in concorso paritetico e proporzionale tra garante e garantito nelle perdite per mancato rimborso del finanziamento, copre l'importo del finanziamento concesso nei limiti delle seguenti quote percentuali: 
+ 1) 90 per cento per imprese con non piu' di 5000 dipendenti in Italia e valore del fatturato fino a 1,5 miliardi di euro; 
+ 2) 80 per cento per imprese con valore del fatturato superiore a 1,5 miliardi e fino a 5 miliardi di euro o con piu' di 5000 dipendenti in Italia; 
+ 3) 70 per cento per le imprese con valore del fatturato superiore a 5 miliardi di euro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le commissioni annuali dovute dalle imprese per il rilascio della garanzia sono le seguenti: 
+ 1) per i finanziamenti di piccole e medie imprese sono corrisposti, in rapporto all'importo garantito, 25 punti base durante il primo anno, 50 punti base durante il secondo e terzo anno, 100 punti base durante il quarto, quinto e sesto anno; 
+ 2) per i finanziamenti di imprese diverse dalle piccole e medie imprese sono corrisposti, in rapporto all'importo garantito, 50 punti base durante il primo anno, 100 punti base durante il secondo e terzo anno, 200 punti base durante il quarto, quinto e sesto anno; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la garanzia e' a prima richiesta, esplicita, irrevocabile, e conforme ai requisiti previsti dalla normativa di vigilanza prudenziale ai fini della migliore mitigazione del rischio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la garanzia copre nuovi finanziamenti concessi all'impresa successivamente all'entrata in vigore del presente decreto, per capitale, interessi ed oneri accessori fino all'importo massimo garantito; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le commissioni devono essere limitate al recupero dei costi e il costo dei finanziamenti coperti dalla garanzia deve essere inferiore al costo che sarebbe stato richiesto dal soggetto o dai soggetti eroganti per operazioni con le medesime caratteristiche ma prive della garanzia, come documentato e attestato dal rappresentante legale dei suddetti soggetti eroganti. Tale minor costo deve essere almeno uguale alla differenza tra il costo che sarebbe stato richiesto dal soggetto o dai soggetti eroganti per operazioni con le medesime caratteristiche ma prive della garanzia, come documentato e attestato dal rappresentante legale dei suddetti soggetti eroganti, ed il costo effettivamente applicato all'impresa; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'impresa che beneficia della garanzia assume l'impegno che essa, nonche' ogni altra impresa con sede in Italia che faccia parte del medesimo gruppo cui la prima appartiene, comprese quelle soggette alla direzione e al coordinamento da parte della medesima, non approvi la distribuzione di dividendi o il riacquisto di azioni nel corso dell'anno 2020. Qualora le suddette imprese abbiano gia' distribuito dividendi o riacquistato azioni al momento della richiesta del finanziamento, l'impegno e' assunto dall'impresa per i dodici mesi successivi alla data della richiesta; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'impresa che beneficia della garanzia assume l'impegno a gestire i livelli occupazionali attraverso accordi sindacali; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il soggetto finanziatore deve dimostrare che ad esito del rilascio del finanziamento coperto da garanzia l'ammontare complessivo delle esposizioni nei confronti del soggetto finanziato risulta superiore all'ammontare di esposizioni detenute alla data di entrata in vigore del presente decreto, corretto per le riduzioni delle esposizioni intervenute tra le due date in conseguenza del regolamento contrattuale stabilito tra le parti prima dell'entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    il finanziamento coperto dalla garanzia deve essere destinato a sostenere costi del personale, canoni di locazione o di affitto di ramo d'azienda, investimenti o capitale circolante impiegati in stabilimenti produttivi e attivita' imprenditoriali che siano localizzati in Italia, come documentato e attestato dal rappresentante legale dell'impresa beneficiaria, e le medesime imprese devono impegnarsi a non delocalizzare le produzioni, ovvero il finanziamento coperto dalla garanzia deve essere destinato al rimborso di finanziamenti nell'ambito di operazioni di rinegoziazione del debito accordato in essere dell'impresa beneficiaria purche' il finanziamento preveda l'erogazione di credito aggiuntivo in misura pari almeno al 25 per cento dell'importo del finanziamento oggetto di rinegoziazione e a condizione che il rilascio della garanzia sia idoneo a determinare un minor costo o una maggior durata del finanziamento rispetto a quello oggetto di rinegoziazione. (13) 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    il finanziamento di cui alla lettera n) deve essere altresi' destinato, in misura non superiore al 20 per cento dell'importo erogato, al pagamento di rate di finanziamenti, scadute o in scadenza nel periodo emergenziale ovvero dal 1° marzo 2020 al 31 dicembre 2020, per le quali il rimborso sia reso oggettivamente impossibile in conseguenza della diffusione dell'epidemia di COVID-19 o delle misure dirette alla prevenzione e al contenimento della stessa, a condizione che l'impossibilita' oggettiva del rimborso sia attestata dal rappresentante legale dell'impresa beneficiaria ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
+
 Ai fini dell'individuazione del limite di importo garantito indicato dal comma 2, lettera c), si fa riferimento al valore del fatturato in Italia e dei costi del personale sostenuti in Italia da parte dell'impresa ovvero su base consolidata qualora l'impresa appartenga ad un gruppo. L'impresa richiedente e' tenuta a comunicare alla banca finanziatrice tale valore. Ai fini della verifica del suddetto limite, qualora la medesima impresa sia beneficiaria di piu' finanziamenti assistiti dalla garanzia di cui al presente articolo ovvero da altra garanzia pubblica, gli importi di detti finanziamenti si cumulano. Qualora la medesima impresa, ovvero il medesimo gruppo quando la prima e' parte di un gruppo, siano beneficiari di piu' finanziamenti assistiti dalla garanzia di cui al comma 1, gli importi di detti finanziamenti si cumulano.
 
 Ai fini dell'individuazione della percentuale di garanzia indicata dal comma 2, lettera d), si fa riferimento al valore su base consolidata del fatturato e dei costi del personale del gruppo, qualora l'impresa beneficiaria sia parte di un gruppo. L'impresa richiedente e' tenuta a comunicare alla banca finanziatrice tale valore. Le percentuali indicate al comma 2, lettera d) si applicano sull'importo residuo dovuto, in caso di ammortamento progressivo del finanziamento.
 
 Sulle obbligazioni di SACE S.p.A. derivanti dalle garanzie disciplinate dai commi 1 e 1-bis e' accordata di diritto la garanzia dello Stato a prima richiesta e senza regresso, la cui operativita' sara' registrata da SACE S.p.A. con gestione separata. La garanzia dello Stato e' esplicita, incondizionata, irrevocabile e si estende al rimborso del capitale, al pagamento degli interessi e ad ogni altro onere accessorio, al netto delle commissioni ricevute per le medesime garanzie. SACE S.p.A. svolge anche per conto del Ministero dell'economia e delle finanze le attivita' relative all'escussione della garanzia e al recupero dei crediti, che puo' altresi' delegare alle banche, alle istituzioni finanziarie nazionali e internazionali e agli altri soggetti abilitati all'esercizio del credito in Italia.
 SACE S.p.A. opera con la dovuta diligenza professionale. Con decreto del Ministro dell'economia e delle finanze possono essere impartiti a SACE S.p.A. indirizzi sulla gestione dell'attivita' di rilascio delle garanzie e sulla verifica, al fine dell'escussione della garanzia dello Stato, del rispetto dei suddetti indirizzi e dei criteri e condizioni previsti dal presente articolo.
+
+6.
+                        
+                            
+                                Per il rilascio delle garanzie che coprono finanziamenti in favore di imprese con non piu' di 5000 dipendenti in Italia e con valore del fatturato fino a 1,5 miliardi di euro, sulla base dei dati risultanti dal bilancio ovvero di dati certificati con riferimento alla data di entrata in vigore del presente decreto se l'impresa non ha approvato il bilancio, si applica la seguente procedura semplificata, come ulteriormente specificata sul piano procedurale e documentale da SACE S.p.A., fermo quanto previsto dal comma 9: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'impresa interessata all'erogazione di un finanziamento garantito da SACE S.p.A. presenta a un soggetto finanziatore, che puo' operare ed eventualmente erogare anche in modo coordinato con altri finanziatori, la domanda di finanziamento garantito dallo Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di esito positivo della delibera di erogazione del finanziamento da parte dei suddetti soggetti, questi ultimi trasmettono la richiesta di emissione della garanzia a SACE S.p.A. la quale esamina la richiesta stessa, verificando l'esito positivo del processo deliberativo del soggetto finanziatore ed emettendo un codice unico identificativo del finanziamento e della garanzia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il soggetto finanziatore procede al rilascio del finanziamento assistito dalla garanzia concessa dalla SACE S.p.A.
+
+7.
+                        
+                            
+                                Qualora l'impresa beneficiaria abbia dipendenti o fatturato superiori alle soglie indicate dal comma 6, il rilascio della garanzia e del corrispondente codice unico e' subordinato altresi' alla decisione assunta con decreto del Ministro dell'economia e delle finanze, sentito il Ministro dello sviluppo economico, adottato sulla base dell'istruttoria trasmessa da SACE S.p.A., tenendo in considerazione il ruolo che l'impresa che beneficia della garanzia svolge rispetto alle seguenti aree e profili in Italia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contributo allo sviluppo tecnologico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    appartenenza alla rete logistica e dei rifornimenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incidenza su infrastrutture critiche e strategiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    impatto sui livelli occupazionali e mercato del lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    peso specifico nell'ambito di una filiera produttiva strategica.
 
 Con il decreto di cui al comma 7 possono essere elevate le percentuali di cui al comma 2, lettera d), fino al limite di percentuale immediatamente superiore a quello ivi previsto, subordinatamente al rispetto di specifici impegni e condizioni in capo all'impresa beneficiaria indicati nella decisione, in relazione alle aree e ai profili di cui al comma 7.
 
@@ -74,6 +254,45 @@ Alle garanzie di cui ai commi 14-bis e 14-ter si applicano, in quanto compatibil
 
 Alle obbligazioni della SACE S.p.A. derivanti dalle garanzie disciplinate dai commi 14-bis e 14-ter e' accordata di diritto la garanzia dello Stato a prima richiesta e senza regresso, la cui operativita' sara' registrata dalla SACE S.p.A. con gestione separata. La garanzia dello Stato e' esplicita, incondizionata, irrevocabile e si estende al rimborso del capitale, al pagamento degli interessi e ad ogni altro onere accessorio, al netto delle commissioni ricevute per le medesime garanzie. La SACE S.p.A. svolge, anche per conto del Ministero dell'economia e delle finanze, le attivita' relative all'escussione della garanzia e al recupero dei crediti, che puo' altresi' delegare alle banche, alle istituzioni finanziarie nazionali e internazionali e agli altri soggetti abilitati all'esercizio del credito in Italia. La SACE S.p.A. opera con la dovuta diligenza professionale. Con decreto del Ministro dell'economia e delle finanze possono essere impartiti alla SACE S.p.A. indirizzi sulla gestione dell'attivita' di rilascio delle garanzie e sulla verifica, al fine dell'escussione della garanzia dello Stato, del rispetto dei suddetti indirizzi nonche' dei criteri e delle condizioni previsti dal presente articolo.
 
+14-sexies.
+                        
+                            
+                                Il rilascio delle garanzie di cui ai commi 14-bis e 14-ter da parte della SACE S.p.A., con l'emissione del corrispondente codice unico identificativo di cui al comma 6, lettera b), nel caso di emissione di importo eguale o superiore a euro 100 milioni ovvero nel caso in cui sia richiesto, ai sensi del comma 8, l'incremento della percentuale di copertura di cui al comma 2, lettera d), e' subordinato alla decisione assunta con decreto del Ministro dell'economia e delle finanze, sentito il Ministro dello sviluppo economico, adottato sulla base dell'istruttoria trasmessa dalla SACE S.p.A., tenendo anche in considerazione il ruolo che l'impresa emittente svolge rispetto alle seguenti aree e profili in Italia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contributo allo sviluppo tecnologico; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    appartenenza alla rete logistica e dei rifornimenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    incidenza su infrastrutture critiche e strategiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    impatto sui livelli occupazionali e sul mercato del lavoro; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rilevanza specifica nell'ambito di una filiera produttiva strategica.
+
 ((14-septies. Fino al 30 giugno 2022 le garanzie di cui al presente articolo e all'articolo 1-bis.1 sono concesse, alle medesime condizioni ivi previste, a sostegno di comprovate esigenze di liquidita' delle imprese conseguenti ai maggiori costi derivanti dagli aumenti dei prezzi dell'energia.))
 
 ---------------
@@ -91,6 +310,52 @@ Alle obbligazioni della SACE S.p.A. derivanti dalle garanzie disciplinate dai co
  Il D.L. 25 maggio 2021, n. 73, convertito con modificazioni dalla L. 23 luglio 2021, n. 106, ha disposto (con l'art. 13, comma 1, lettera d)) che "Tale previsione si applica anche alle operazioni in essere alla data di entrata in vigore del presente decreto".
 
 ## Art. 1-bis. — (Dichiarazione sostitutiva per le richieste di nuovi finanziamenti)
+
+1.
+                        
+                            
+                                Le richieste di nuovi finanziamenti effettuati ai sensi dell'articolo 1 devono essere integrate da una dichiarazione sostitutiva dell'atto di notorieta', ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, con la quale il titolare o il legale rappresentante dell'impresa richiedente, sotto la propria responsabilita', dichiara: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che l'attivita' d'impresa e' stata limitata o interrotta dall'emergenza epidemiologica da COVID-19 o dagli effetti derivanti dalle misure di prevenzione e contenimento connesse alla medesima emergenza e che prima di tale emergenza sussisteva una situazione di continuita' aziendale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che i dati aziendali forniti su richiesta dell'intermediario finanziario sono veritieri e completi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che, ai sensi dell'articolo 1, comma 2, lettera n), il finanziamento coperto dalla garanzia e' richiesto per sostenere costi del personale, investimenti o capitale circolante impiegati in stabilimenti produttivi e attivita' imprenditoriali che sono localizzati in Italia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che e' consapevole che ((, ad eccezione dell'eventuale quota destinata al rimborso di finanziamenti erogati dai medesimi soggetti finanziatori ai sensi dell'articolo 1, comma 1,)) i finanziamenti saranno accreditati esclusivamente sul conto corrente dedicato i cui dati sono contestualmente indicati; ((13))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    che il titolare o il legale rappresentante istante nonche' i soggetti indicati all'articolo 85, commi 1 e 2, del codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, non si trovano nelle condizioni ostative previste dall'articolo 67 del medesimo codice di cui al decreto legislativo n. 159 del 2011; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    che nei confronti del titolare o del legale rappresentante non e' intervenuta condanna definitiva, negli ultimi cinque anni, per reati commessi in violazione delle norme per la repressione dell'evasione fiscale in materia di imposte sui redditi e sul valore aggiunto nei casi in cui sia stata applicata la pena accessoria di cui all'articolo 12, comma 2, del decreto legislativo 10 marzo 2000, n. 74.
 
 Non appena ricevuta l'autodichiarazione di cui al comma 1, il soggetto al quale e' chiesto il finanziamento la trasmette tempestivamente alla SACE S.p.A.
 
@@ -125,9 +390,115 @@ Sono altresi' concluse entro sessanta giorni dalla data di presentazione delle d
 
 ## Art. 2. — (Misure per il sostegno all'esportazione, all'internazionalizzazione e agli investimenti delle imprese)
 
+1.
+                        
+                            
+                                All'articolo 6 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 9, dopo il primo periodo, sono inseriti i seguenti: "SACE S.p.A. favorisce l'internazionalizzazione del settore produttivo italiano, privilegiando gli impegni nei settori strategici per l'economia italiana in termini di livelli occupazionali e ricadute per il sistema economico del Paese, nonche' gli impegni per operazioni destinate a Paesi strategici per l'Italia. Ai fini dell'internazionalizzazione sono da considerare strategici anche la filiera agricola nazionale, i settori del turismo e dell'agroalimentare italiano, il settore tessile, della moda e degli accessori, lo sviluppo di piattaforme per la vendita on line dei prodotti del made in Italy, le camere di commercio italiane all'estero, le fiere, i congressi e gli eventi, anche digitali, rivolti a sostenere lo sviluppo dei mercati, la formazione e il made in Italy nei settori dello sport, della cultura, dell'arte, della cinematografia, della musica, della moda, del design e dell'agroalimentare."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi 9-bis, 9-ter, 9-quater, 9-quinquies, 9-sexies, 9-septies e 9-octies sono sostituiti dai seguenti: 
+ "9-bis. SACE S.p.A. assume gli impegni derivanti dall'attivita' assicurativa e di garanzia dei rischi definiti non di mercato dalla normativa dell'Unione Europea, di cui al comma 9, nella misura del dieci per cento del capitale e degli interessi di ciascun impegno. Il novanta per cento dei medesimi impegni e' assunto dallo Stato in conformita' al presente articolo, senza vincolo di solidarieta'. La legge di bilancio definisce i limiti cumulati di assunzione degli impegni da parte di SACE S.p.A. e del Ministero dell'economia e delle finanze, per conto dello Stato, sulla base del piano di attivita' deliberato dal Comitato di cui al comma 9-sexies e approvato dal Comitato interministeriale per la programmazione economica. 
+ 9-ter. SACE S.p.A. rilascia le garanzie e le coperture assicurative da cui derivano gli impegni di cui al comma 9-bis in nome proprio e per conto dello Stato. Il rilascio delle garanzie e delle coperture assicurative che sono in grado di determinare elevati rischi di concentrazione verso singole controparti, gruppi di controparti connesse o paesi di destinazione, rispetto al portafoglio complessivamente assicurato da SACE S.p.A. e dal Ministero dell'economia e delle finanze, e' preventivamente autorizzato con decreto del Ministro dell'economia e delle finanze, sentito il Comitato per il sostegno pubblico all'esportazione istituito ai sensi del comma 9-sexies. Il decreto del Ministro e' sottoposto al controllo preventivo di legittimita' e alla registrazione della Corte dei conti. Le garanzie e le coperture assicurative prevedono che la richiesta di indennizzo e qualsiasi comunicazione o istanza sono rivolte unicamente a SACE S.p.A. 
+ 9-quater. A decorrere dall'anno 2020 nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un fondo a copertura degli impegni assunti dallo Stato ai sensi del presente articolo. Tale fondo e' alimentato con i premi riscossi da SACE S.p.A. per conto del Ministero dell'economia e delle finanze, al netto delle commissioni trattenute da SACE S.p.A., come determinate dalla convenzione di cui al comma 9-quinquies. I premi di cui al periodo precedente sono versati all'entrata del bilancio dello Stato per la successiva riassegnazione in spesa al predetto fondo. La gestione del fondo e' affidata a SACE S.p.A. che opera secondo adeguati standard prudenziali di gestione del rischio. Il Ministero dell'economia e delle finanze impartisce indirizzi a SACE S.p.A. sulla gestione del fondo. Per la gestione del fondo e' autorizzata l'apertura di apposito conto corrente di tesoreria centrale. 
+ 9-quinquies. Il Ministero dell'economia e delle finanze e SACE S.p.A. disciplinano con convenzione, di durata decennale, approvata con delibera del Comitato interministeriale per la programmazione economica, su proposta del Ministro dell'economia e delle finanze di concerto con il Ministro degli affari esteri e della cooperazione internazionale, e sottoposta alla registrazione della Corte dei conti: 
+ a) lo svolgimento da parte di SACE S.p.A. dell'attivita' istruttoria delle operazioni da cui derivano gli impegni da assumere ai sensi del comma 9-bis; 
+ b) le procedure per il rilascio delle garanzie e delle coperture assicurative da parte di SACE S.p.A. quando non e' prevista l'autorizzazione preventiva del Ministro dell'economia e delle finanze ai sensi del comma 9-ter; 
+ c) la gestione, anche per conto del Ministero dell'economia e delle finanze, degli impegni in essere, ivi inclusi l'esercizio, a tutela dei diritti di SACE S.p.A. e del Ministero dell'economia e delle finanze, delle facolta' previste nella polizza di assicurazione, nonche' la gestione delle fasi successive al pagamento dell'indennizzo, incluse le modalita' di esercizio dei diritti nei confronti del debitore e l'attivita' di recupero dei crediti; 
+ d) le modalita' con le quali e' richiesto al Ministero dell'economia e delle finanze il pagamento dell'indennizzo per la quota di pertinenza e le modalita' di escussione della garanzia dello Stato relativa agli impegni assunti da SACE S.p.A., nonche' la remunerazione della garanzia stessa; 
+ e) le modalita' di informazione preventiva al Ministero dell'economia e delle finanze e al Ministero degli affari esteri e della cooperazione internazionale in ordine alle deliberazioni dell'organo competente di SACE S.p.A. relative agli impegni da assumere o assunti, alle altre decisioni aziendali rilevanti ai fini dell'assunzione di impegni, incluso il sistema aziendale di deleghe decisionali, alla gestione degli impegni in essere e delle richieste di indennizzo; 
+ f) la trasmissione periodica e a richiesta di informazioni da parte di SACE S.p.A. al Comitato di cui al comma 9-sexies e al Comitato interministeriale per la programmazione economica, riguardo all'andamento delle operazioni a cui si riferiscono gli impegni assunti dallo Stato ai sensi del comma 9-bis; 
+ g) ogni altra modalita' operativa rilevante ai fini dell'assunzione e gestione degli impegni di cui al comma 9-bis; 
+ h) le modalita' di gestione da parte di SACE S.p.A. del fondo di cui al comma 9-quater e degli attivi in cui sono investite le riserve tecniche, sulla base delle indicazioni del Ministero dell'economia e delle finanze; 
+ i) le modalita' di trasferimento al Ministero dell'economia e delle finanze dei premi riscossi da SACE S.p.A. per conto di questo ai sensi del comma 9-quater, al netto delle commissioni trattenute da SACE S.p.A., e la determinazione delle suddette commissioni; 
+ l) l'eventuale definizione di un livello di patrimonializzazione minimo. 
+ 9-sexies. E' istituito presso il Ministero dell'economia e delle finanze il Comitato per il sostegno finanziario pubblico all'esportazione. Il Comitato e' copresieduto dal Direttore Generale del Tesoro o da un suo delegato, e dal Direttore generale competente del Ministero degli affari esteri e della cooperazione internazionale ed e' composto da sei membri, oltre i copresidenti. I componenti del Comitato, ed i rispettivi supplenti che, in caso di impedimento, li sostituiscono, sono nominati con decreto del Ministro dell'economia e delle finanze, sulla base delle designazioni effettuate, rispettivamente, dal Ministero dell'economia e delle finanze, dal Ministero degli affari esteri e della cooperazione internazionale, dal Ministero dell'interno, dal Ministero dello sviluppo economico, dal Ministero della difesa e dal Ministero delle politiche agricole alimentari e forestali. Ciascun componente partecipa alla riunione con diritto di voto. Il presidente del Comitato puo' invitare a partecipare alle riunioni, senza diritto di voto, rappresentanti di altri enti o istituzioni, pubblici e privati, secondo le materie all'ordine del giorno. Per lo svolgimento delle proprie attivita', il Comitato puo' avvalersi dell'ausilio delle amministrazioni componenti il Comitato e puo' richiedere pareri all'IVASS su specifiche questioni ed operazioni. Il funzionamento del Comitato e' disciplinato con decreto del Ministro dell'economia e delle finanze, sentite le amministrazioni componenti il Comitato. Il Ministero dell'economia e delle finanze - Dipartimento del tesoro, Direzione VI - assicura lo svolgimento delle funzioni di segreteria del Comitato.
+Ai componenti del Comitato non spettano compensi, indennita' o emolumenti comunque denominati, ne' rimborsi di spese.
+Dall'istituzione del Comitato non devono derivare nuovi o maggiori oneri per la finanza pubblica e al suo funzionamento si provvede con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente. 
+ 9-septies. Il Comitato di cui al comma 9-sexies, su proposta di SACE S.p.A., delibera il piano annuale di attivita' di cui al comma 9-bis, che definisce l'ammontare progettato di operazioni da assicurare, suddivise per aree geografiche e macro-settori, evidenziando l'importo delle operazioni da sottoporre all'autorizzazione preventiva del Ministro dell'economia e delle finanze ai sensi del comma 9-ter, nonche' il sistema dei limiti di rischio (Risk Appetite Framework - "RAF"), che definisce, in linea con le migliori pratiche del settore bancario e assicurativo, la propensione al rischio, le soglie di tolleranza, con particolare riguardo alle operazioni che possono determinare elevati rischi di concentrazione verso singole controparti, gruppi di controparti connesse o paesi di destinazione, le politiche di governo dei rischi nonche' i processi di riferimento necessari per definirli e attuarli.
+Il piano annuale di attivita' e il sistema dei limiti di rischio sono approvati, su proposta del Ministro dell'economia e delle finanze di concerto con il Ministro degli affari esteri e della cooperazione internazionale, con delibera del Comitato interministeriale per la programmazione economica (CIPE). 
+ 9-octies. Il Comitato per il sostegno finanziario pubblico all'esportazione, in aggiunta alle funzioni di cui al comma 9-septies, esprime il parere di competenza per l'autorizzazione da rilasciarsi con decreto del Ministro dell'economia e delle finanze, nei casi di cui al comma 9-ter, su istanza di SACE S.p.A., verificati la conformita' dell'operazione deliberata da SACE S.p.A. e del relativo impegno assicurativo al piano di attivita', al RAF e alla convenzione di cui al comma 9-quinquies, nonche' il rispetto dei limiti indicati al comma 9-bis. PERIODO SOPPRESSO DALLA L. 5 GIUGNO 2020, N. 40. Il Comitato esamina ogni elemento rilevante ai fini del funzionamento del sistema di sostegno pubblico all'esportazione e all'internazionalizzazione, anche predisponendo relazioni e formulando proposte."; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 14, e' inserito il seguente: "14-bis. Ai fini del sostegno e rilancio dell'economia, SACE S.p.A. e' abilitata a rilasciare, a condizioni di mercato e in conformita' alla normativa dell'Unione Europea, garanzie sotto qualsiasi forma, ivi incluse controgaranzie verso i confidi, in favore di banche, di istituzioni finanziarie nazionali e internazionali e degli altri soggetti abilitati all'esercizio del credito in Italia, per finanziamenti sotto qualsiasi forma concessi alle imprese con sede in Italia, entro l'importo complessivo massimo di 200 miliardi di euro. L'attivita' di cui al presente comma e' svolta con contabilita' separata rispetto alle attivita' di cui al comma 9. E' accordata di diritto per gli impegni assunti ai sensi del presente comma la garanzia dello Stato a prima richiesta a favore di SACE S.p.A. Non e' ammesso il ricorso diretto dei soggetti finanziatori alla garanzia dello Stato. Con decreto del Ministro dell'economia e delle finanze di concerto con il Ministro degli affari esteri e della cooperazione internazionale e con il Ministro dello sviluppo economico, sono definiti criteri, modalita' e condizioni del rilascio da parte di SACE S.p.A. delle garanzie di cui al presente comma e dell'operativita' della garanzia dello Stato, in conformita' alla normativa dell'Unione europea, e sono altresi' individuate le attivita' che SACE S.p.A. svolge per conto del Ministero dell'economia e delle finanze. 
+ 2. Gli impegni assunti e le operazioni deliberate dal consiglio di amministrazione di SACE S.p.A. nonche' le garanzie rilasciate dallo Stato prima della data di entrata in vigore del presente decreto sulla base delle norme previgenti rispetto a quelle modificate dal comma 1, lettera b), del presente articolo, e delle disposizioni primarie e secondarie relative o collegate, restano regolate dalle medesime norme e dalle medesime disposizioni, salvo quanto previsto ai commi 4, 5 e 6 del presente articolo. 
+ 3. Gli impegni assunti e le operazioni deliberate dal consiglio di amministrazione di SACE S.p.A. nonche' le garanzie rilasciate dallo Stato nel periodo intercorrente tra la data di entrata in vigore del presente decreto e il 31 dicembre 2020, sono e restano regolate dalle norme e dalle convenzioni vigenti alla data del 7 aprile 2020, salvo quanto previsto ai commi 4, 5 e 7 del presente articolo. Il Comitato di cui al comma 9-sexies dell'articolo 6 del decreto legge 30 settembre 2003, n. 269 convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, come modificato ai sensi del comma 1, una volta completata la procedura di nomina dei suoi componenti con decreto del Ministro dell'economia e delle finanze, sostituisce il Comitato di cui al decreto del Ministro dell'economia e delle finanze del 13 febbraio 2015, n. 3245 e successive modificazioni. A decorrere dal 1° gennaio 2021 si applicano le disposizioni in base alle quali gli impegni derivanti dall'attivita' assicurativa e di garanzia dei rischi definiti non di mercato dalla normativa dell'Unione Europea sono assunti da SACE S.p.A. e dallo Stato nella misura rispettivamente del dieci per cento e del novanta per cento del capitale e degli interessi di ciascun impegno, secondo quanto previsto dall'articolo 6 del decreto legge n. 269 del 2003, come modificato dal comma 1 del presente articolo. Le risorse del fondo istituito ai sensi del previgente articolo 6, comma 9-bis, del decreto legge n. 269 del 2003, confluiscono nel fondo istituito ai sensi dell'articolo 6, comma 9-quater del decreto legge n. 269 del 2003 come modificato dal comma 1 del presente articolo. 
+ 4. Per effetto della presente disposizione sono garantite dallo Stato, ai sensi e per gli effetti di cui all'articolo 6, comma 9-bis e seguenti, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, come vigente alla data del 6 aprile 2020, le seguenti operazioni nel settore crocieristico, specificamente indicate nella tabella allegata al presente decreto: 
+ a) operazioni gia' autorizzate, ai sensi dell'articolo 2 della delibera CIPE n. 75/2019; 
+ b) operazioni ammissibili alla garanzia ai sensi dell'articolo 1, comma 2, della Delibera CIPE n. 75/2019, le cui istanze sono state gia' presentate da SACE S.p.A.; 
+ c) ulteriori operazioni deliberate da SACE S.p.A., entro la data di entrata in vigore del presente decreto-legge, fino all'importo massimo di 2,6 miliardi di euro. 
+ 5. Il Ministro dell'economia e delle finanze, per l'anno 2020, salvo quanto previsto dal comma 4, e' autorizzato a rilasciare la garanzia dello Stato in favore di SACE S.p.A., di cui all'articolo 6, comma 9-bis, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, come vigente alla data del 6 aprile 2020, con concessione del limite speciale di cui all'articolo 7.8 della Convenzione approvata con decreto del Presidente del Consiglio dei ministri 20 novembre 2014, entro i seguenti limiti: 
+ a) per il settore crocieristico, la garanzia dello Stato in favore di SACE S.p.A. su nuove operazioni deliberate nel corso dell'anno 2020, escluse quelle di cui alla lettera a) del comma 4 non puo' eccedere l'importo massimo in termini di flusso di tre miliardi di euro; il totale dell'esposizione cumulata conservata da SACE S.p.A. e di quella ceduta allo Stato sul settore non puo' eccedere la quota massima del 40 per cento dell'intero portafoglio rischi in essere complessivamente conservato da SACE S.p.A. e ceduto allo Stato; 
+ b) per il settore difesa, la garanzia dello Stato in favore di SACE S.p.A. su nuove operazioni, esclusivamente con controparte sovrana, deliberate nel corso dell'anno 2020 non puo' eccedere l'importo massimo in termini di flusso di cinque miliardi di euro; il totale dell'esposizione cumulata conservata da SACE S.p.A. e di quella ceduta allo Stato sul settore non puo' eccedere la quota massima del 29 per cento dell'intero portafoglio rischi in essere complessivamente conservato da SACE S.p.A. e ceduto allo Stato. La garanzia dello Stato e' rilasciata, con decreto del Ministro dell'economia e delle finanze, su istanza di SACE S.p.A., previo parere dell'IVASS - espresso entro 15 giorni dalla richiesta - limitatamente alla congruita' del premio riconosciuto allo Stato, nel principio della condivisione dei rischi e tenuto conto dei necessari accantonamenti prudenziali alla luce del nuovo scenario di rischiosita' sistemica e di una maggiore concentrazione, a valere sulla dotazione del fondo di cui all'articolo 6, comma 9-bis, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, vigente alla data del 6 aprile 2020. 
+ 6. Alla data di entrata in vigore del presente decreto, e' riassicurato dallo Stato il novanta per cento degli impegni in essere a tale data assunti da SACE S.p.A. derivanti dall'attivita' assicurativa e di garanzia dei rischi definiti non di mercato dalla normativa dell'Unione Europea, ad esclusione di quelli per i quali e' gia' stata presentata la richiesta di indennizzo o per i quali e' stato comunicato a SACE S.p.A. il verificarsi, o la minaccia che si verifichi, un evento generatore di sinistro o un rischio incombente di sinistro, nonche' di quelli per i quali e' stata rilasciata garanzia dello Stato prima dell'entrata in vigore del presente decreto- ovvero ai sensi dei commi 4 e 5. Il novanta per cento degli attivi in cui sono investite le riserve tecniche e' trasferito da SACE S.p.A. al Ministero dell'economia e delle finanze ((, al netto dei costi sostenuti dalla predetta societa' per gli impegni riassicurati dallo Stato, ai sensi del presente comma, risultanti dalla contabilita' della medesima societa')). La gestione di tali attivi e' affidata a SACE S.p.A. che si attiene agli indirizzi del Ministero dell'economia e delle finanze. Entro sei mesi dalla data di entrata in vigore del presente decreto legge, il Ministero dell'economia e delle finanze e SACE S.p.A. possono procedere ad una verifica della coerenza tra l'ammontare delle riserve tecniche trasferite e la riassicurazione dello Stato, tenuto conto dell'assenza di remunerazione di questa. 
+ 7. Il novanta per cento degli impegni assunti da SACE S.p.A. nel periodo intercorrente tra la data di entrata in vigore del presente decreto e il 31 dicembre 2020, ad esclusione di quelli di cui ai commi 4 e 5, puo' essere riassicurato con decreto del Ministro dell'economia e delle finanze, che approva altresi' la forma di remunerazione concordata con SACE S.p.A., sentito il Comitato di cui all'articolo 6, comma 9-sexies, del decreto legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, come modificato dal comma 1 del presente articolo. La remunerazione della riassicurazione di cui al periodo precedente e' versata all'entrata del bilancio dello Stato per essere riassegnata in spesa ed essere versata sul conto di tesoreria istituito dal previgente articolo 6, comma 9-bis del decreto-legge n. 269 del 2003.". 
+ 8. Ai fini del calcolo della percentuale per la quale e' prevista la riassicurazione ai sensi dei commi 6 e 7 si computa anche la quota degli impegni garantiti dallo Stato ai sensi dell'articolo 6, comma 9-bis, del decreto-legge n. 269 del 2003, come vigente alla data del 6 aprile 2020, in modo che per ogni impegno, esclusa la quota riassicurata da terzi, la riassicurazione di cui ai commi 6 e 7 sia pari alla misura del novanta per cento degli impegni assunti da SACE S.p.A. 
+ 9. Entro dieci giorni dalla data dell'entrata in vigore del presente decreto, SACE S.p.A. trasmette al Ministero dell'economia e delle finanze una relazione dettagliata sul capitale e la dotazione patrimoniale che si renderanno disponibili in seguito alle disposizioni di cui al presente articolo, al fine della valutazione sull'impiego di tali risorse per il sostegno alle imprese. 
+ 10. Ai fini della predisposizione dello schema di convenzione, il Ministero dell'economia e delle finanze puo' affidare, con apposito disciplinare, a societa' a totale partecipazione pubblica un incarico di studio, consulenza, valutazione e assistenza. Al relativo onere nel limite massimo di 100.000 euro per l'anno 2020, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2020-2022, nell'ambito del programma «Fondi di riserva e speciali» della missione «Fondi da ripartire» dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero. 
+ 11. L'articolo 53 del decreto-legge 17 marzo 2020, n. 18, e' abrogato.
+
 ## Art. 3. — (SACE S.p.A. e Commissione per la vigilanza sulla Cassa depositi e prestiti)
 
 SACE S.p.A. concorda con Cassa depositi e prestiti S.p.A. (CDP S.p.A.) le strategie industriali e commerciali al fine di massimizzare le sinergie di gruppo e aumentare l'efficacia del sistema di sostegno all'esportazione e all'internazionalizzazione delle imprese e di rilancio dell'economia.
+
+2.
+                        
+                            
+                                In considerazione del ruolo strategico di SACE S.p.A. per l'attuazione delle misure di sostegno all'esportazione e all'internazionalizzazione delle imprese e di rilancio degli investimenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    CDP S.p.A. concorda preventivamente con il Ministero dell'economia e delle finanze, sentito il Ministero degli affari esteri e della cooperazione internazionale, l'esercizio dei diritti di voto derivanti dalla partecipazione in SACE S.p.A.; per le deliberazioni di nomina degli organi sociali, il Ministero dell'economia e delle finanze agisce di concerto con il Ministero degli affari esteri e della cooperazione internazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    CDP S.p.A. consulta preventivamente il Ministero dell'economia e delle finanze in merito ad operazioni di gestione della partecipazione in SACE S.p.A. diverse da quella di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    SACE S.p.A. non e' soggetta all'attivita' di direzione e coordinamento di CDP S.p.A.; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    SACE S.p.A. consulta preventivamente il Ministero dell'economia e delle finanze in ordine alle decisioni aziendali rilevanti ai fini dell'efficace attuazione delle misure di rilancio degli investimenti, con particolare riferimento alle decisioni relative all'assunzione di impegni e al recupero dei crediti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    SACE S.p.A. consulta preventivamente il Ministero dell'economia e delle finanze e il Ministero degli affari esteri e della cooperazione internazionale ((nonche' il Ministero delle imprese e del made in Italy)) in ordine alle decisioni aziendali rilevanti ai fini dell'efficace attuazione delle misure di sostegno all'internazionalizzazione delle imprese, con particolare riferimento alle decisioni relative all'assunzione di impegni e al recupero dei crediti, e ivi incluse le decisioni relative alla Simest S.p.A.; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    SACE S.p.A., nella predisposizione del piano annuale di attivita', tiene conto delle linee guida e di indirizzo strategico in materia di promozione e internazionalizzazione delle imprese assunte dalla cabina di regia co-presieduta dal Ministro degli affari esteri e della cooperazione internazionale e dal Ministro dello sviluppo economico, di cui all'articolo 14, comma 18-bis del decreto legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n.111.
 
 Restano fermi i poteri del Ministro degli affari esteri e della cooperazione internazionale nei confronti di Simest S.p.A., ai sensi di quanto previsto dall'articolo 2, comma 10, del decreto-legge 21 settembre 2019, n. 104, convertito, con modificazioni, dalla legge 18 novembre 2019, n. 132.
 
@@ -162,6 +533,27 @@ Il requisito della consegna di copia del contratto e' soddisfatto mediante la me
 ## Art. 4-bis. — (( (Inserimento di nuove attivita' nella lista di cui all'articolo 1, comma 53, della legge 6 novembre 2012, n. 190). ))
 
 ((
+
+1.
+                        
+                            
+                                All'articolo 1, comma 53, della legge 6 novembre 2012, n. 190, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le lettere a) e
+                                
+                            
+                            
+                                b)
+                                
+                                    sono abrogate; 
+ b) dopo la lettera i) sono aggiunte le seguenti: 
+ "i-bis) servizi funerari e cimiteriali; 
+ i-ter) ristorazione, gestione delle mense e catering; 
+ i-quater) servizi ambientali, comprese le attivita' di raccolta, di trasporto nazionale e transfrontaliero, anche per conto di terzi, di trattamento e di smaltimento dei rifiuti, nonche' le attivita' di risanamento e di bonifica e gli altri servizi connessi alla gestione dei rifiuti".
 
 ))
 
@@ -259,6 +651,37 @@ c) alla richiesta presentata dal pubblico ministero quando nella medesima e' fat
 
 Fermo restando quanto previsto ai commi 2 e 3, i termini di scadenza relativi a vaglia cambiari, cambiali e altri titoli di credito e ad ogni altro atto avente efficacia esecutiva, sono sospesi fino al 31 agosto 2020. La sospensione opera a favore dei debitori e obbligati anche in via di regresso o di garanzia, salva la facolta' degli stessi di rinunciarvi espressamente.
 
+2.
+                        
+                            
+                                Gli assegni portati all'incasso, non sono protestabili fino al termine del periodo di sospensione di cui al comma 1. Le sanzioni amministrative pecuniarie e accessorie di cui agli articoli 2 e 5 della legge 15 dicembre 1990, n. 386, e la penale, pari al dieci per cento della somma dovuta e non pagata di cui all'articolo 3 della citata legge n. 386 del 1990, si applicano in misura dimezzata se il traente, entro sessanta giorni dalla data di scadenza del periodo di sospensione di cui al comma 1, effettua il pagamento dell'assegno, degli interessi, e delle eventuali spese per il protesto o per la constatazione equivalente. La sospensione di cui al comma 1 opera su  
+                            
+                            
+                                a)
+                                
+                                    i termini per la presentazione al pagamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i termini per la levata del protesto o delle constatazioni equivalenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i termini previsti all'articolo 9, comma 2, lettere a) e b), della legge 15 dicembre 1990, n. 386, nonche' all'articolo 9-bis, comma 2, della medesima legge n. 386 del 1990; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il termine per il pagamento tardivo dell'assegno previsto dall'articolo 8, comma 1, della stessa legge n. 386 del 1990.
+
 I protesti o le constatazioni equivalenti levati dal 9 marzo 2020 fino al 31 agosto 2020 non sono trasmessi dai pubblici ufficiali alle camere di commercio, industria, artigianato e agricoltura; ove gia' pubblicati le camere di commercio, industria, artigianato e agricoltura provvedono d'ufficio alla loro cancellazione. Con riferimento allo stesso periodo sono sospese le informative al prefetto di cui all'articolo 8-bis, commi 1 e 2, della legge 15 dicembre 1990, n. 386, e le iscrizioni nell'archivio informatizzato di cui all'articolo 10-bis della medesima legge n. 386 del 1990, che, ove gia' effettuate, sono cancellate. 
  
  ((13))
@@ -299,6 +722,31 @@ La rivalutazione dei beni d'impresa e delle partecipazioni di cui all'articolo 1
 
 Il Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, e' incrementato di 6,9 milioni di euro per ciascuno degli anni 2022 e 2023.
 
+3.
+                        
+                            
+                                Agli oneri di cui al presente articolo, valutati in 11,8 milioni di euro per l'anno 2020, in 2 milioni di euro per l'anno 2021 e in 6,9 milioni di euro per ciascuno degli anni 2022 e 2023, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a 10,9 milioni di euro per l'anno 2020, mediante utilizzo di una corrispondente quota del margine disponibile, risultante a seguito dell'attuazione del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, rispetto al ricorso all'indebitamento autorizzato l'11 marzo 2020 con le risoluzioni di approvazione della relazione al Parlamento, presentata ai sensi dell'articolo 6, comma 5, della legge 24 dicembre 2012, n. 243, e della relativa integrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 0,9 milioni di euro per l'anno 2020 e a 2 milioni di euro per l'anno 2021, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a 6,9 milioni di euro per ciascuno degli anni 2022 e 2023, mediante corrispondente utilizzo delle maggiori entrate derivanti dal presente articolo.
+
 ))
 
 ## Art. 12-quater. — (( (Modifica all'articolo 66 del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, in materia di detraibilita' dell'IVA sugli acquisti dei beni oggetto di erogazioni liberali). ))
@@ -307,6 +755,233 @@ Il Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190,
  "3-bis. Ai fini dell'imposta sul valore aggiunto, gli acquisti dei beni ceduti a titolo di erogazione liberale in natura ai sensi dei commi 1 e 2 del presente articolo si considerano effettuati nell'esercizio dell'impresa, arte o professione ai fini della detrazione di cui all'articolo 19 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633"))
 
 ## Art. 13. — (Fondo centrale di garanzia PMI)
+
+1.
+                        
+                            
+                                Fino al 30 giugno 2022, fatto salvo quanto previsto dalle lettere a) e m), in deroga alla vigente disciplina del Fondo di cui all'articolo 2, comma 100, lettera a), della legge 23 dicembre 1996, n. 662, si applicano le seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la garanzia e' concessa a titolo gratuito. A decorrere dal 1° aprile 2022, le garanzie sono concesse previo pagamento di una commissione da versare al Fondo di cui all'articolo 2, comma 100, lettera a), della legge 23 dicembre 1996, n. 662. Fino al 30 giugno 2022 la predetta commissione non e' dovuta per le garanzie rilasciate su finanziamenti concessi a sostegno di comprovate esigenze di liquidita' delle imprese conseguenti ai maggiori costi derivanti dagli aumenti dei prezzi dell'energia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'importo massimo garantito per singola impresa e' elevato, nel rispetto della disciplina dell'Unione europea, a 5 milioni di euro. Sono ammesse alla garanzia le imprese con numero di dipendenti non superiore a 499, determinato sulla base delle unita' di lavoro-anno rilevate per l'anno 2019. Resta fermo che la misura di cui alla presente lettera si applica, alle medesime condizioni, anche qualora almeno il 25 per cento del capitale o dei diritti di voto sia detenuto direttamente o indirettamente da un ente pubblico oppure, congiuntamente, da piu' enti pubblici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la percentuale di copertura della garanzia diretta e' incrementata, anche mediante il concorso delle sezioni speciali del Fondo di garanzia, al 90 per cento dell'ammontare di ciascuna operazione finanziaria, previa autorizzazione della Commissione Europea ai sensi dell'articolo 108 del Trattato sul funzionamento dell'unione europea (TFUE), per le operazioni finanziarie con durata fino a 72 mesi ovvero del maggior termine di durata previsto dalla lettera c-bis). A decorrere dal 1° luglio 2021 le garanzie di cui alla presente lettera sono concesse nella misura massima dell'80 per cento. L'importo totale delle predette operazioni finanziarie non puo' superare, alternativamente: 
+ 1) il doppio della spesa salariale annua del beneficiario (compresi gli oneri sociali e il costo del personale che lavora nel sito dell'impresa ma che figura formalmente nel libro paga dei subcontraenti) per il 2019 o per l'ultimo anno disponibile. Nel caso di imprese costituite a partire dal 1º gennaio 2019, l'importo massimo del prestito non puo' superare i costi salariali annui previsti per i primi due anni di attivita'; 
+ 2) il 25 per cento del fatturato totale del beneficiario nel 2019; 
+ 3) il fabbisogno per costi del capitale di esercizio e per costi di investimento nei successivi 18 mesi, nel caso di piccole e medie imprese, e nei successivi 12 mesi, nel caso di imprese con numero di dipendenti non superiore a 499; tale fabbisogno e' attestato mediante apposita autocertificazione resa dal beneficiario ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000 n. 445; 
+ 3-bis) per le imprese caratterizzate da cicli produttivi ultrannuali di cui alla parte IX, lettera A, sezioni A.1.d) e A.1.e), dell'allegato al decreto del Ministro dello sviluppo economico 12 febbraio 2019, di cui al comunicato pubblicato nella Gazzetta Ufficiale n. 49 del 27 febbraio 2019, i ricavi delle vendite e delle prestazioni, sommati alle variazioni delle rimanenze di prodotti in corso di lavorazione, semilavorati e finiti per l'anno 2019; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    previa notifica e autorizzazione della Commissione europea, il limite di durata delle nuove operazioni finanziarie di cui alla lettera c) garantibili dal Fondo e' innalzato a 120 mesi.
+Per le operazioni finanziarie di cui alla lettera c), aventi durata non superiore a 72 mesi e gia' garantite dal Fondo, nel caso di prolungamento della durata dell'operazione accordato dal soggetto finanziatore, puo' essere richiesta la pari estensione della garanzia, fermi restando il predetto periodo massimo di 120 mesi di durata dell'operazione finanziaria e la connessa autorizzazione della Commissione europea. 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per le operazioni finanziarie aventi le caratteristiche di durata e importo di cui alla lettera c), la percentuale di copertura della riassicurazione e' incrementata, anche mediante il concorso delle sezioni speciali del Fondo di garanzia, al 100 per cento dell'importo garantito dai Confidi o da altro fondo di garanzia o dalle societa' cooperative previste dall'articolo 112, comma 7, terzo periodo, del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, a condizione che le garanzie da questi rilasciate non superino la percentuale massima di copertura del 90 per cento, previa autorizzazione della Commissione Europea ai sensi dell'articolo 108 del TFUE, e che non prevedano il pagamento di un premio che tiene conto della remunerazione per il rischio di credito. Fino all'autorizzazione della Commissione Europea e, successivamente alla predetta autorizzazione, per le operazioni finanziarie non aventi le predette caratteristiche di durata e importo di cui alla lettera c) e alla presente lettera d), le percentuali di copertura sono incrementate, rispettivamente, all'80 per cento per la garanzia diretta di cui alla lettera c) e al 90 per cento per la riassicurazione di cui alla presente lettera d) anche per durate superiori a dieci anni. La garanzia del Fondo puo' essere cumulata con un'ulteriore garanzia concessa da confidi o da altri soggetti abilitati al rilascio di garanzie, a valere su risorse proprie, fino alla copertura del 100 per cento del finanziamento concesso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sono ammissibili alla garanzia del Fondo, per la garanzia diretta nella misura dell'80 per cento e per la riassicurazione nella misura del 90 per cento dell'importo garantito dal Confidi o da altro fondo di garanzia, a condizione che le garanzie da questi rilasciate non superino la percentuale massima di copertura dell'80 per cento, i finanziamenti a fronte di operazioni di rinegoziazione del debito del soggetto beneficiario, purche' il nuovo finanziamento preveda l'erogazione al medesimo soggetto beneficiario di credito aggiuntivo in misura pari ad almeno il 10 per cento dell'importo del debito accordato in essere del finanziamento oggetto di rinegoziazione ovvero, per i finanziamenti deliberati dal soggetto finanziatore in data successiva alla data di entrata in vigore della legge di conversione del presente decreto, in misura pari ad almeno il 25 per cento dell'importo del debito accordato in essere del finanziamento oggetto di rinegoziazione. Nei casi di cui alla presente lettera il soggetto finanziatore deve trasmettere al gestore del Fondo una dichiarazione che attesta la riduzione del tasso di interesse applicata, sul finanziamento garantito, al soggetto beneficiario per effetto della sopravvenuta concessione della garanzia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per le operazioni per le quali le banche o gli intermediari finanziari hanno accordato, anche di propria iniziativa, la sospensione del pagamento delle rate di ammortamento, o della sola quota capitale, ovvero l'allungamento della scadenza dei finanziamenti, in connessione agli effetti indotti dalla diffusione del COVID-19, su operazioni ammesse alla garanzia del Fondo, la durata della garanzia del Fondo e' estesa in conseguenza; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fino al 30 giugno 2022, fermo restando quanto previsto all'articolo 6, comma 2, del decreto del Ministro dello sviluppo economico 6 marzo 2017, pubblicato nella Gazzetta Ufficiale n. 157 del 7 luglio 2017, e fatto salvo quanto previsto per le operazioni finanziarie di cui alla lettera m) del presente comma, la garanzia e' concessa senza applicazione del modello di valutazione di cui alla parte IX, lettera A, delle condizioni di ammissibilita' e disposizioni di carattere generale per l'amministrazione del Fondo di garanzia allegate al decreto del Ministro dello sviluppo economico 12 febbraio 2019, di cui al comunicato pubblicato nella Gazzetta Ufficiale n. 49 del 27 febbraio 2019. Ai fini della definizione delle misure di accantonamento a titolo di coefficiente di rischio, in sede di ammissione della singola operazione finanziaria, la probabilita' di inadempimento delle imprese e' calcolata esclusivamente sulla base dei dati contenuti nel modulo economico-finanziario del suddetto modello di valutazione. Con frequenza bimestrale, in riferimento all'insieme delle operazioni finanziarie ammesse alla garanzia, la consistenza degli accantonamenti prudenziali operati a valere sul Fondo e' corretta in funzione dei dati della Centrale dei rischi della Banca d'Italia, acquisiti dal Gestore del Fondo alla data della presentazione delle richieste di ammissione alla garanzia; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    la garanzia e' concessa anche in favore dei beneficiari finali che presentano, alla data della richiesta della garanzia, esposizioni nei confronti del soggetto finanziatore classificate come inadempienze probabili o come esposizioni scadute e/o sconfinanti deteriorate ai sensi del paragrafo 2 della parte B) delle avvertenze generali della circolare della Banca d'Italia n. 272 del 30 luglio 2008, purche' la predetta classificazione non sia stata effettuata prima del 31 gennaio 2020; 
+
+                                
+                            
+                            
+                                g-ter)
+                                
+                                    la garanzia e' altresi' concessa, con esclusione della garanzia di cui alla lettera e), in favore di beneficiari finali che presentano esposizioni che, prima del 31 gennaio 2020, sono state classificate come inadempienze probabili o come esposizioni scadute e/o sconfinanti deteriorate ai sensi del paragrafo 2 della parte B) delle avvertenze generali della circolare della Banca d'Italia n. 272 del 30 luglio 2008 e che sono state oggetto di misure di concessione.
+In tale caso, il beneficio della garanzia e' ammesso anche prima che sia trascorso un anno dalla data in cui sono state accordate le misure di concessione o, se posteriore, dalla data in cui le suddette esposizioni sono state classificate come esposizioni deteriorate, ai sensi dell'articolo 47-bis, paragrafo 6, lettera b), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, se, alla data di entrata in vigore del presente decreto, le citate esposizioni non sono piu' classificabili come esposizioni deteriorate, non presentano importi in arretrato successivi all'applicazione delle misure di concessione e il soggetto finanziatore, sulla base dell'analisi della situazione finanziaria del debitore, possa ragionevolmente presumere il rimborso integrale dell'esposizione alla scadenza, ai sensi del citato articolo 47-bis, paragrafo 6, lettere a) e c), del regolamento (UE) n. 575/2013; 
+
+                                
+                            
+                            
+                                g-quater)
+                                
+                                    la garanzia e' concessa, anche prima che sia trascorso un anno dalla data in cui sono state accordate le misure di concessione o, se posteriore, dalla data in cui le esposizioni sono state classificate come esposizioni deteriorate, ai sensi dell'articolo 47-bis, paragrafo 6, lettera b), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, in favore delle imprese che, in data successiva al 31 dicembre 2019, sono state ammesse alla procedura del concordato con continuita' aziendale di cui all'articolo 186-bis del regio decreto 16 marzo 1942, n. 267, hanno stipulato accordi di ristrutturazione dei debiti ai sensi dell'articolo 182-bis del citato regio decreto n. 267 del 1942 o hanno presentato un piano ai sensi dell'articolo 67 del medesimo regio decreto, purche', alla data di entrata in vigore del presente decreto, le loro esposizioni non siano classificabili come esposizioni deteriorate, non presentino importi in arretrato successivi all'applicazione delle misure di concessione e il soggetto finanziatore, sulla base dell'analisi della situazione finanziaria del debitore, possa ragionevolmente presumere il rimborso integrale dell'esposizione alla scadenza, ai sensi del citato articolo 47-bis, paragrafo 6, lettere a) e c), del regolamento (UE) n. 575/2013. Sono, in ogni caso, escluse le imprese che presentano esposizioni classificate come sofferenze ai sensi della disciplina bancaria vigente; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    non e' dovuta la commissione per il mancato perfezionamento delle operazioni finanziarie di cui all'articolo 10, comma 2, del citato decreto del Ministro dello sviluppo economico 6 marzo 2017; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per operazioni di investimento immobiliare nei settori turistico - alberghiero, compreso il settore termale, e delle attivita' immobiliari, con durata minima di 10 anni e di importo superiore a euro 500.000,00, la garanzia del Fondo puo' essere cumulata con altre forme di garanzia acquisite sui finanziamenti; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    per le garanzie su specifici portafogli di finanziamenti, anche senza piano d'ammortamento, dedicati a imprese danneggiate dall'emergenza COVID-19, o appartenenti, per almeno il 60 per cento, a specifici settori e filiere colpiti dall'epidemia, la quota della tranche junior coperta dal Fondo puo' essere elevata del 50 per cento, ulteriormente incrementabile del 20 per cento in caso di intervento di ulteriori garanti; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    previa autorizzazione della Commissione Europea ai sensi dell'articolo 108 del TFUE, sono ammissibili alla garanzia del fondo, con copertura al 100 per cento e, a decorrere dal 1° luglio 2021, con copertura al 90 per cento, nonche', a decorrere dal 1° gennaio 2022, con copertura all'80 per cento, sia in garanzia diretta che in riassicurazione, i nuovi finanziamenti concessi da banche, intermediari finanziari di cui all'articolo 106 del Testo Unico bancario di cui al decreto legislativo 1° settembre 1993 n. 385 e dagli altri soggetti abilitati alla concessione di credito in favore di piccole e medie imprese e di persone fisiche esercenti attivita' di impresa, arti o professioni, di associazioni professionali e di societa' tra professionisti nonche' di persone fisiche esercenti attivita' di cui alla sezione K del codice ATECO la cui attivita' d'impresa e' stata danneggiata dall'emergenza COVID-19, secondo quanto attestato dall'interessato mediante dichiarazione autocertificata ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000 n. 445, purche' tali finanziamenti prevedano l'inizio del rimborso del capitale non prima di ((trenta mesi)) dall'erogazione e abbiano una durata fino a 120 mesi e un importo non superiore, alternativamente, anche tenuto conto di eventi calamitosi, a uno degli importi di cui alla lettera c), numeri 1) o 2), come risultante dall'ultimo bilancio depositato o dall'ultima dichiarazione fiscale presentata alla data della domanda di garanzia ovvero da altra idonea documentazione, prodotta anche mediante autocertificazione ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000 n. 445, e, comunque, non superiore a 30.000 euro. Si ha un nuovo finanziamento quando, ad esito della concessione del finanziamento coperto da garanzia, l'ammontare complessivo delle esposizioni del finanziatore nei confronti del soggetto finanziato risulta superiore all'ammontare delle esposizioni detenute alla data di entrata in vigore del presente decreto, corretto per le riduzioni delle esposizioni intervenute tra le due date in conseguenza del regolamento contrattuale stabilito tra le parti prima dell'entrata in vigore del presente decreto ovvero per decisione autonoma del soggetto finanziato. Nei casi di cessione o affitto di azienda con prosecuzione della medesima attivita' si considera altresi' l'ammontare dei ricavi risultante dall'ultima dichiarazione dei redditi o dall'ultimo bilancio depositato dal cedente o dal locatore.
+In relazione alle predette operazioni, il soggetto richiedente applica all'operazione finanziaria un tasso di interesse, nel caso di garanzia diretta, o un premio complessivo di garanzia, nel caso di riassicurazione, che tiene conto della sola copertura dei soli costi di istruttoria e di gestione dell'operazione finanziaria e, comunque, tale tasso non deve essere superiore allo 0,20 per cento aumentato del valore, se positivo, del tasso del rendimento medio dei titoli pubblici (Rendistato) con durata analoga al finanziamento. A decorrere dal 1 ° luglio 2021, per i finanziamenti con copertura al 90 per cento, puo' essere applicato un tasso di interesse diverso da quello previsto dal periodo precedente. In favore di tali soggetti beneficiari l'intervento del Fondo centrale di garanzia per le piccole e medie imprese e' concesso automaticamente, gratuitamente e senza valutazione e il soggetto finanziatore eroga il finanziamento coperto dalla garanzia del Fondo, subordinatamente alla verifica formale del possesso dei requisiti, senza attendere l'esito definitivo dell'istruttoria da parte del gestore del Fondo medesimo.
+A decorrere dal 1° aprile 2022, per il rilascio della garanzia di cui alla presente lettera e' previsto il pagamento di una commissione da versare al Fondo di cui all'articolo 2, comma 100, lettera a), della legge 23 dicembre 1996, n. 662. La garanzia e' altresi' concessa in favore di beneficiari finali che presentano esposizioni che, anche prima del 31 gennaio 2020, sono state classificate come inadempienze probabili o esposizioni scadute e/o sconfinanti deteriorate ai sensi delle avvertenze generali, parte B), paragrafo 2, della circolare n. 272 del 30 luglio 2008 della Banca d'Italia, a condizione che le predette esposizioni alla data della richiesta del finanziamento non siano piu' classificabili come esposizioni deteriorate ai sensi dell'articolo 47-bis, paragrafo 4, del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013. Nel caso in cui le predette esposizioni siano state oggetto di misure di concessione, la garanzia e' altresi' concessa in favore dei beneficiari finali a condizione che le stesse esposizioni non siano classificabili come esposizioni deteriorate ai sensi del citato articolo 47-bis, paragrafo 6, del regolamento (UE) n. 575/2013, ad eccezione di quanto disposto dalla lettera b) del medesimo paragrafo; (13) 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    per i finanziamenti di cui alla lettera m) concessi fino alla data di entrata in vigore della legge di conversione del presente decreto, i soggetti beneficiari possono chiedere, con riguardo all'importo finanziato e alla durata, l'adeguamento del finanziamento alle nuove condizioni introdotte dalla legge di conversione del presente decreto; 
+
+                                
+                            
+                            
+                                m-ter)
+                                
+                                    per i finanziamenti di cui alle lettere m) e m-bis), il cui termine iniziale di rimborso del capitale e' previsto nel corso dell'anno 2022, il termine anzidetto, su richiesta del soggetto finanziato e previo accordo tra le parti, puo' essere differito di un periodo non superiore a sei mesi, fermi restando gli obblighi di segnalazione e prudenziali; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    in favore dei soggetti beneficiari con ammontare di ricavi non superiore a 3.200.000 euro, la cui attivita' d'impresa e' stata danneggiata dall'emergenza COVID-19, secondo quanto attestato dall'interessato mediante dichiarazione autocertificata ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000 n. 445, la garanzia di cui alla lettera c) puo' essere cumulata con un'ulteriore garanzia concessa da confidi o altri soggetti abilitati al rilascio di garanzie, a valere su risorse proprie, sino alla copertura del 100 per cento del finanziamento concesso. La predetta garanzia puo' essere rilasciata per prestiti di importo non superiore, alternativamente, a uno degli importi di cui alla lettera c), numeri 1) o 2). Si ha un nuovo finanziamento quando, ad esito della concessione del finanziamento coperto da garanzia, l'ammontare complessivo delle esposizioni del finanziatore nei confronti del soggetto finanziato risulta superiore all'ammontare delle esposizioni detenute alla data di entrata in vigore del presente decreto, corretto per le riduzioni delle esposizioni intervenute tra le due date in conseguenza del regolamento contrattuale stabilito tra le parti prima dell'entrata in vigore del presente decreto ovvero per decisione autonoma del soggetto finanziato. Le regioni, gli enti locali, le Camere di Commercio, anche per il tramite di Unioncamere, le Amministrazioni di settore, anche unitamente alle associazioni e agli enti di riferimento, possono conferire risorse al Fondo ai fini della costituzione di sezioni speciali finalizzate a sostenere l'accesso al credito, anche a favore di determinati settori economici o filiere d'impresa e reti d'impresa di cui all'articolo 3, commi 4-ter e seguenti, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33. Nei finanziamenti di cui al periodo precedente, la garanzia e' estesa esclusivamente alla quota di credito incrementale rispetto alle esposizioni pregresse. Nei casi di cessione o affitto di azienda con prosecuzione della medesima attivita' si considera, altresi', l'ammontare dei ricavi risultante dall'ultima dichiarazione dei redditi o dall'ultimo bilancio depositato dal cedente o dal locatore; 
+
+                                
+                            
+                            
+                                n-bis)
+                                
+                                    previa autorizzazione della Commissione europea al fine di rafforzare il supporto all'emergenza da COVID-19 prestato dalle cooperative e dai confidi di cui all'articolo 13 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, i soggetti di cui all'articolo 3 del decreto del Ministro dello sviluppo economico 3 gennaio 2017, pubblicato nella Gazzetta Ufficiale n. 40 del 17 febbraio 2017, possono imputare al fondo consortile, al capitale sociale o ad apposita riserva i fondi rischi e gli altri fondi o riserve patrimoniali costituiti da contributi pubblici, con esclusione di quelli derivanti dalle attribuzioni annuali di cui alla legge 7 marzo 1996, n. 108, esistenti alla data del 31 dicembre 2019. Tali risorse sono attribuite unitariamente al patrimonio netto, anche ai fini di vigilanza, dei relativi confidi, senza vincoli di destinazione. Le eventuali azioni o quote corrispondenti costituiscono azioni o quote proprie delle banche o dei confidi e non attribuiscono alcun diritto patrimoniale o amministrativo ne' sono computate nel capitale sociale o nel fondo consortile ai fini del calcolo delle quote richieste per la costituzione e per le deliberazioni dell'assemblea. La relativa deliberazione, da assumere entro centottanta giorni dall'approvazione del bilancio, e' di competenza dell'assemblea ordinaria; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    sono prorogati per tre mesi tutti i termini riferiti agli adempimenti amministrativi relativi alle operazioni assistite dalla garanzia del Fondo; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    la garanzia del Fondo puo' essere richiesta anche su operazioni finanziarie gia' perfezionate con l'erogazione da parte del soggetto finanziatore da non oltre 3 mesi dalla data di presentazione della richiesta e, comunque, in data successiva al 31 gennaio 2020. In tali casi, il soggetto finanziatore deve trasmettere al gestore del Fondo una dichiarazione attestante la riduzione del tasso di interesse applicata, sul finanziamento garantito, al soggetto beneficiario per effetto della sopravvenuta concessione della garanzia. 
+
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    per i finanziamenti di importo superiore a 25.000 euro la garanzia e' rilasciata con la possibilita' per le imprese di avvalersi di un preammortamento fino a ventiquattro mesi. ((Per i medesimi finanziamenti, per i quali il termine iniziale di rimborso del capitale inizia a decorrere in un periodo non antecedente al 1° giugno 2022, l'anzidetto termine, su richiesta del soggetto finanziato e previo accordo tra le parti, puo' essere differito di un periodo non superiore a sei mesi, fermi restando gli obblighi di segnalazione e prudenziali)). (13) (19)
+
+2.
+                        
+                            
+                                Fino al 31 dicembre 2020, in deroga alla vigente disciplina del Fondo di cui all'articolo 2, comma 100, lett. 
+                            
+                            
+                                a)
+                                
+                                    della legge 23 dicembre 1996, n. 662, per le garanzie su portafogli di finanziamenti, anche senza piano d'ammortamento, dedicati a imprese danneggiate dall'emergenza COVID-19, costituiti per almeno il 20 per cento da imprese aventi, alla data di inclusione dell'operazione nel portafoglio, un rating, determinato dal soggetto richiedente sulla base dei propri modelli interni, non superiore alla classe "BB" della scala di valutazione Standard's and Poor's, sono applicate le seguenti misure: 
+ a) l'ammontare massimo dei portafogli di finanziamenti e' innalzato a 
+ euro 500 milioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i finanziamenti hanno le caratteristiche di durata e importo previste dal comma 1, lettera c), e possono essere deliberati, perfezionati ed erogati dal soggetto finanziatore prima della richiesta di garanzia sul portafoglio di finanziamenti ma comunque in data successiva al 31 gennaio 2020; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i soggetti beneficiari sono ammessi senza la valutazione del merito di credito da parte del Gestore del Fondo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il punto di stacco e lo spessore della tranche junior del portafoglio di finanziamenti sono determinati utilizzando la probabilita' di default calcolata dal soggetto richiedente sulla base dei propri modelli interni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la garanzia e' concessa a copertura di una quota non superiore al 90 per cento della tranche junior del portafoglio di finanziamenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la quota della tranche junior coperta dal Fondo, fatto salvo quanto previsto dall'articolo 8, comma 2, del decreto del Ministro dello sviluppo economico 14 novembre 2017, pubblicato nella Gazzetta Ufficiale n. 14 del 18 gennaio 2018, non puo' superare il 15 per cento dell'ammontare del portafoglio di finanziamenti, ovvero il 18 per cento, nel caso in cui il portafoglio abbia ad oggetto finanziamenti concessi a fronte della realizzazione di progetti di ricerca, sviluppo e innovazione e/o di programmi di investimenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    in relazione ai singoli finanziamenti inclusi nel portafoglio garantito, il Fondo copre il 90 per cento della perdita registrata sul singolo finanziamento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i finanziamenti possono essere concessi anche in favore delle imprese ubicate nelle regioni sul cui territorio e' stata disposta la limitazione dell'intervento del predetto Fondo di garanzia per le piccole e medie imprese di cui all'articolo 2, comma 100, lettera a), della legge 23 dicembre 1996, n. 662, alla sola controgaranzia dei fondi di garanzia regionali e dei consorzi di garanzia collettiva.
 
 All'articolo 18, comma 2 del decreto-legge 30 aprile 2019, n. 34, convertito, con modificazioni, dalla legge 28 giugno 2019, n. 58, le parole "fino al 31 dicembre 2020" sono sostituite dalle
 seguenti "fino al 10 aprile 2020".
@@ -414,15 +1089,112 @@ L'articolo 4-bis, comma 3, del decreto-legge 21 settembre 2019, n. 105, converti
 
 ## Art. 16. — (Modifiche al decreto-legge 15 marzo 2012, n. 21, convertito con modificazioni dalla legge 11 maggio 2012, n. 56)
 
+1.
+                        
+                            
+                                Al decreto-legge 15 marzo 2012, n. 21, convertito, con modificazioni, dalla legge 11 maggio 2012, n. 56, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1, comma 8-bis, ((sono aggiunti, in fine, i seguenti periodi)): "Nei casi di violazione degli obblighi di notifica di cui al presente articolo, anche in assenza della notifica di cui ai commi 4 e 5, la Presidenza del Consiglio ((dei ministri)) puo' avviare il procedimento ai fini dell'eventuale esercizio dei poteri di cui al comma 1, lettere a), b) e c). A tale scopo, trovano applicazione i termini e le norme procedurali ((previsti dal presente articolo)) nonche' dal regolamento di cui al comma 8. Il termine di quarantacinque giorni di cui ai commi 4 e 5 decorre dalla conclusione del procedimento di accertamento della violazione dell'obbligo di notifica."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 1-bis, comma 2, ultimo periodo, dopo le parole "l'integrita' e la sicurezza delle reti e dei dati che vi transitano" sono inserite le seguenti: ", compresi quelli individuati sulla base dei principi e delle linee guida ((elaborati)) a livello internazionale e dall'Unione europea"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 1-bis, comma 3-bis: 
+ 1) al decimo periodo, le parole "dall'ultimo periodo" sono sostituite dalle seguenti: "dall'undicesimo periodo"; 
+ 2) sono aggiunti infine i seguenti periodi: "Nei casi di violazione degli obblighi di notifica di cui al presente articolo, anche in assenza della notifica, la Presidenza del Consiglio ((dei ministri)) puo' avviare il procedimento ai fini dell'eventuale esercizio dei poteri speciali. A tale scopo, trovano applicazione i termini e le norme procedurali ((previsti)) dal presente comma. Il termine di trenta giorni di cui al presente comma decorre dalla conclusione del procedimento di accertamento della violazione dell'obbligo di notifica."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 2, dopo il comma 8, e' aggiunto il seguente comma: "8-bis. Nei casi di violazione degli obblighi di notifica di cui al presente articolo, anche in assenza della notifica di cui ai commi 2, 2-bis e 5, la Presidenza del Consiglio ((dei ministri)) puo' avviare il procedimento ai fini dell'eventuale esercizio dei poteri speciali. A tale scopo, trovano applicazione i termini e le norme procedurali ((previsti)) dal presente articolo, nonche' dal regolamento di cui al comma 9. Il termine di quarantacinque giorni di cui ai commi 4 e 6 decorre dalla conclusione del procedimento di accertamento della violazione dell'obbligo di notifica."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 2-bis sono aggiunti i seguenti commi: 
+ "2. Al fine di raccogliere elementi utili all'applicazione degli articoli 1, 1-bis e 2, il gruppo di coordinamento istituito ai sensi dell'articolo 3 del decreto del Presidente del Consiglio dei ministri 6 agosto 2014 puo' richiedere a pubbliche amministrazioni, enti pubblici o privati, imprese o altri soggetti terzi che ne siano in possesso, di fornire informazioni e di esibire documenti. 
+ 3. Ai medesimi fini di cui al ((comma 2)), la Presidenza del Consiglio puo' stipulare ((, senza nuovi o maggiori oneri per la finanza pubblica,)) convenzioni o protocolli di intesa con istituti o enti di ricerca."
+
 ## Art. 17. — (Modifiche all'articolo 120 del decreto legislativo 24 febbraio 1998, n. 58)
 
+1.
+                        
+                            
+                                All'articolo 120 del decreto legislativo 24 febbraio 1998, n. 58, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 2-bis, le parole "ad elevato valore corrente di mercato e" sono soppresse; 
 
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4-bis, e' aggiunto infine il seguente periodo: "La CONSOB puo', con provvedimento motivato da esigenze di tutela degli investitori nonche' di efficienza e trasparenza del mercato del controllo societario e del mercato dei capitali, prevedere, per un limitato periodo di tempo, in aggiunta alle soglie indicate nel primo periodo del presente comma una soglia del 5 per cento per societa' ad azionariato particolarmente diffuso."
+
+((1-bis. Fino al 31 dicembre 2020, per i settori agroalimentare e siderurgico le disposizioni del presente articolo e degli articoli 15 e 16 si applicano anche per perseguire l'ulteriore finalita' della tutela del mantenimento dei livelli occupazionali e della produttivita' nel territorio nazionale))
 
 ## - CAPO IV MISURE FISCALI E CONTABILI
 
 ## Art. 18. — (Sospensione di versamenti tributari e contributivi)
 
+1.
+                        
+                            
+                                Per i soggetti esercenti attivita' d'impresa, arte o professione, che hanno il domicilio fiscale, la sede legale o la sede operativa nel territorio dello Stato con ricavi o compensi non superiori a 50 milioni di euro nel periodo di imposta precedente a quello in corso alla data di entrata in vigore del presente decreto, che hanno subito una diminuzione del fatturato o dei corrispettivi di almeno il 33 per cento nel mese di marzo 2020 rispetto allo stesso mese del precedente periodo d'imposta e nel mese di aprile 2020 rispetto allo stesso mese del precedente periodo d'imposta, sono sospesi, rispettivamente, per i mesi di aprile e di maggio 2020, i termini dei versamenti in autoliquidazione relativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle ritenute alla fonte di cui agli articoli 23 e 24 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e alle trattenute relative all'addizionale regionale e comunale, che i predetti soggetti operano in qualita' di sostituti d'imposta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'imposta sul valore aggiunto.
+
 Per i soggetti di cui al comma 1 sono sospesi, altresi', per i mesi di aprile e di maggio 2020, i termini dei versamenti dei contributi previdenziali e assistenziali e dei premi per l'assicurazione obbligatoria.
+
+3.
+                        
+                            
+                                Per i soggetti esercenti attivita' d'impresa, arte o professione, che hanno il domicilio fiscale, la sede legale o la sede operativa nel territorio dello Stato con ricavi o compensi superiori a 50 milioni di euro nel periodo di imposta precedente a quello in corso alla data di entrata in vigore del presente decreto, che hanno subito una diminuzione del fatturato o dei corrispettivi di almeno il 50 per cento nel mese di marzo 2020 rispetto allo stesso mese del precedente periodo d'imposta e nel mese di aprile 2020 rispetto allo stesso mese del precedente periodo d'imposta, sono sospesi, rispettivamente, per i mesi di aprile e di maggio 2020, i termini dei versamenti in autoliquidazione relativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle ritenute alla fonte di cui agli articoli 23 e 24 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e alle trattenute relative all'addizionale regionale e comunale, che i predetti soggetti operano in qualita' di sostituti d'imposta; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'imposta sul valore aggiunto.
 
 Per i soggetti di cui al comma 3 sono sospesi, altresi', per i mesi di aprile e di maggio 2020, i termini dei versamenti dei contributi previdenziali e assistenziali e dei premi per l'assicurazione obbligatoria.
 
@@ -527,6 +1299,53 @@ I farmaci di cui all'articolo 8, comma 1, lettera a), del decreto-legge 18 sette
  Il D.L. 24 dicembre 2021, n. 221 ha disposto (con l'art. 16, comma 1) che il termine previsto dal comma 1 del presente articolo e' prorogato fino al 31 marzo 2022.
 
 ## Art. 28. — (Modifiche all'articolo 32-quater del decreto-legge n. 124 del 2019)
+
+1.
+                        
+                            
+                                All'articolo 32-quater del decreto-legge 26 ottobre 2019, n. 124, convertito, con modificazioni, dalla legge 19 dicembre 2019, n. 157, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, ((alinea,)) dopo le parole "di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917,", le parole "dalle societa' e dagli enti residenti di cui all'articolo 73, comma 1, lettere a), b) e c)," sono sostituite dalle seguenti: "dalle societa' e dagli enti di cui all'articolo 73, comma 1, lettere a), b), c) e d),"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1, lettera c), dopo le parole "sono soggetti a tassazione con applicazione", le parole "di una ritenuta a titolo d'imposta nella misura prevista dall'articolo 27, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600", sono sostituite dalle seguenti: "della ritenuta di cui ((all'articolo 27 del decreto)) del Presidente della Repubblica 29 settembre 1973, n. 600, con la stessa aliquota e alle stesse condizioni previste nel medesimo articolo 27"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 1, dopo la lettera c), sono inserite le seguenti:
+"c-bis) per la quota imputabile ai soggetti di cui all'articolo 73, comma 1, lettera c) del citato testo unico di cui al decreto del Presidente della Repubblica n. 917 del 1986, concorrono alla formazione del reddito complessivo per l'intero ammontare; c-ter) per la quota imputabile a soggetti non residenti nel territorio dello Stato, sono soggetti a tassazione con applicazione di una ritenuta nella misura prevista dal medesimo articolo 27 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600; per i soggetti non residenti indicati nel comma 3-ter del citato articolo 27 la misura della predetta ritenuta e' pari a quella stabilita dal medesimo comma 3-ter."; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 1 e' inserito il seguente: "1-bis. Resta fermo il regime fiscale applicabile agli utili provenienti da imprese o enti residenti o localizzati in Stati o territori a regime fiscale privilegiato individuati ai sensi dell'articolo 47-bis, comma 1, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917."; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 2 e' sostituito dal seguente: "2. Sugli utili derivanti dalle azioni e dagli strumenti finanziari similari alle azioni, immessi nel sistema di deposito accentrato gestito da una societa' di gestione accentrata, e' applicata, in luogo della ritenuta di cui al comma 1, l'imposta sostitutiva di cui all'articolo 27-ter del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, con la stessa aliquota e alle stesse condizioni previste nel medesimo articolo 27-ter. Le ritenute di cui al comma 1 del presente articolo e l'imposta sostitutiva di cui al periodo precedente sono operate sulla base delle informazioni fornite dalla societa' semplice."; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dopo il comma 2 e' aggiunto il seguente: "2-bis. Le disposizioni di cui al presente articolo si applicano ai dividendi percepiti a partire dal 1° gennaio 2020. In deroga alle disposizioni di cui al periodo precedente, alle distribuzioni di utili derivanti da partecipazioni in societa' ed enti soggetti all'imposta sul reddito delle societa', formatesi con utili prodotti fino all'esercizio in corso al 31 dicembre 2019, deliberate entro il 31 dicembre 2022, continua ad applicarsi la disciplina previgente a quella prevista dall'articolo 1, commi da 999 a 1006, della legge 27 dicembre 2017, n. 205.".
 
 ## Art. 29. — Disposizioni in materia di processo tributario e notifica degli atti sanzionatori relativi al contributo unificato e attivita' del contenzioso degli enti impositori
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1995-01-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -27,6 +27,39 @@ Udito il parere del Consiglio di Stato espresso nella adunanza generale del 17 d
 Di concerto con il Ministro delle finanze quanto alle modalita' di attuazione delle disposizioni sulla concessione del credito d'imposta;
 
 ## Art. 1. — Procedura per la concessione delle agevolazioni
+
+1.
+                    
+                        
+                            Ai fini della concessione delle agevolazioni di cui ai commi 1, 3 e 4 dell'art. 8 della legge 5 ottobre 1991 n. 317, (che di seguito sara' denominata "legge") l'impresa interessata trasmette al Ministero dell'industria, del commercio e dell'artigianato:
+ 
+                        
+                        
+                            a)
+                            
+                                una dichiarazione per la concessione del credito d'imposta redatta obbligatoriamente sull'apposito modulo predisposto per la lettura ottica e conforme allo schema di cui all'allegato 1 sottoscritta dal legale rappresentante. Detto modulo e' disponibile, a cura dell'Amministrazione, presso l'Associazione bancaria italiana, l'Unione italiana delle Camere di commercio, industria, artigianato e agricoltura, l'Associazione istituti regionali di mediocredito - Assireme, l'Associazione italiana Leasing - Assilea, l'Istituto centrale per il credito a medio termine - Mediocredito Centrale, la Cassa per il credito alle imprese artigiane - Artigiancassa, gli istituti di credito, le societa' di locazione finanziaria, le camere di commercio, industria, artigianato ed agricoltura di ciascuna provincia e, d'intesa con queste ultime, le Associazioni imprenditoriali. Le dichiarazioni su moduli diversi o non originali saranno considerate irricevibili. La dichiarazione deve essere corredata da una certificazione, rilasciata dal presidente del collegio sindacale, redatta secondo lo schema di cui all'allegato 2.
+In mancanza del collegio sindacale, la certificazione puo' essere rilasciata da un revisore dei conti ovvero da un professionista iscritto all'albo dei dottori commercialisti o in quello dei ragionieri e periti commerciali.
+
+                            
+                        
+                        
+                            b)
+                            
+                                una perizia giurata, asseverata, redatta in conformita' allo schema di cui all'allegato 3, sottoscritta da un ingegnere o da un perito industriale iscritto nel rispettivo albo professionale.
+
+                            
+                        
+                        
+                            c)
+                            
+                                una relazione sulle ricerche svolte e sulle conseguenti applicazioni, in riferimento alle spese di cui ai commi 1 e 3 dell'art. 8 della legge; ovvero una relazione sulla nuova attivita' e le sue prospettive produttive e finanziarie, in riferimento alle spese di cui al comma 4 art. 8 della legge.
+
+                            
+                        
+                        
+                            d)
+                            
+                                certificazione o autocertificazione antimafia ai sensi della legge 19 marzo 1990, n. 55 e successive modificazioni e integrazioni.
 
 La dichiarazione per la concessione del credito d'imposta puo' essere inviata esclusivamente per spese effettuate, anteriormente alla data della dichiarazione medesima. La dichiarazione puo' essere riferita ad una o piu' unita' locali o stabilimenti.
 
@@ -49,6 +82,66 @@ Le dichiarazioni pervenute al Ministero in data successiva a quella dell'elenco 
 Le imprese hanno facolta' di ritirare con apposita comunicazione da trasmettere mediante raccomandata con avviso di ricevimento, le dichiarazioni inviate. Per le medesime spese, le imprese possono presentare nuove dichiarazioni contestualmente o successivamente al ritiro delle precedenti. Le nuove dichiarazioni sono inserite in nuovi elenchi secondo l'ordine delle date di trasmissioni delle dichiarazioni medesime.
 
 Eventuali variazioni di quanto attestato con le dichiarazioni, le certificazioni, le perizie giurate di cui ai precedenti commi dovranno essere tempestivamente comunicate al Ministero dell'industria, del commercio e dell'artigianato e all'Istituto od ente incaricato di effettuare i successivi controlli al quale dovra' essere altresi' trasmessa idonea documentazione.
+
+13.
+                    
+                        
+                            Sono motivo di esclusione dagli elenchi cronologici di cui ai commi 6 e 9 predisposti per la concessione delle agevolazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la mancata compilazione del modulo originale di dichiarazione di cui all'allegato 1 ovvero la erronea indicazione di requisiti essenziali, tenuto conto delle istruzioni per la compilazione della medesima;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modificazioni apportate al testo prestampato delle dichiarazioni contenute nel modulo originale di dichiarazione di cui all'allegato 1, escluse quelle previste dalle istruzioni riportate in calce;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la mancanza della certificazione, riportata in calce alla dichiarazione, di cui all'allegato 2, ovvero la mancata compilazione, la mancata firma o le modificazioni apportate al testo prestampato della certificazione stessa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la mancanza della perizia giurata, ovvero la omissione nella stessa degli elementi essenziali indicati nello schema di cui all'allegato 3;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la mancanza della certificazione prefettizia o dell'autocertificazione "antimafia" prevista dalla legge n. 55/1990, e successive modificazioni ed integrazioni, ovvero la non conformita' della stessa a quanto previsto dalle predetto leggi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'incompatibilita' dei requisiti dimensionali dell'impresa con quelli stabiliti dalla legge;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'indicazione di attivita' diverse da quelle di cui all'art. 1, comma 3 della legge, allegato 10, nonche', per la fruizione delle agevolazioni previste dai commi 3 e 4 dell'art. 8 della legge, di attivita' diverse da quelle individuate nell'allegato 6;
+
+                            
+                        
+                        
+                            h)
+                            
+                                lo stato di liquidazione volontaria o la sussistenza di pro- cedure concorsuali a carico dell'impresa.
 
 Non e' motivo di esclusione la mancata indicazione dell'istituto o ente per il controllo. In tal caso il controllo medesimo sara' affidato dal ministero dell'industria, del commercio e dell'artigianato al Mediocredito centrale o all'Artigiancassa.
 
@@ -83,6 +176,42 @@ Informazioni e chiarimenti sulla compilazione dei moduli e sull'attuazione del p
 
 ## Art. 2. — Spese ammissibili
 
+1.
+                    
+                        
+                            Sono ammissibili:
+ 
+                        
+                        
+                            a)
+                            
+                                alle agevolazioni previste per le spese di ricerca di cui ai commi 1 e 3 dell'art. 8 della legge le spese indicate al punto 1 dell'allegato 5;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle agevolazioni per gli investimenti sostenuti dalle imprese di nuova costituzione di cui al comma 4 del citato art. 8 le spese indicate al punto 2 dell'allegato 5.
+
+2.
+                    
+                        
+                            Per fruire del credito d'imposta:
+ 
+                        
+                        
+                            a)
+                            
+                                per spese di ricerca, di cui al comma 3 dell'art. 8 della legge, le imprese devono aver realizzato nell'esercizio precedente a quello di presentazione della dichiarazione di cui all'art. 1, una quota prevalente del proprio fatturato nei comparti innovativi di cui all'allegato 6;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gli investimenti sostenuti dalle imprese di nuova costituzione, di cui al comma 4 dell'art. 8 della legge, le imprese devono operare esclusivamente nei predetti comparti ed essere costituite a decorrere dal 25 ottobre 1991. Ai fini della determinazione della data di costituzione fa fede l'iscrizione presso il registro ditte della Camera di commercio, industria, artigianato e agricoltura.
+
 Le spese, ad eccezione, di quanto previsto dal successivo comma 4, s'intendono effettuate qualora il relativo costo sia stato interamente fatturato a decorrere dal 25 ottobre 1991, all'impresa acquirente, ovvero alla societa' di leasing nel caso di acquisizione mediante locazione finanziaria, e siano stati effettuati pagamenti pari ad almeno il 30% del costo agevolabile.
 
 Le spese relative al costo del personale s'intendono effettuate ove i medesimi costi siano stati sostenuti a decorrere dal 25 ottobre 1991.
@@ -91,9 +220,101 @@ I costi di cui al comma 4 sono determinati sulla base delle retribuzioni del per
 
 I costi per i corsi di formazione del personale sono ammessi al credito d'imposta di cui al comma 4 dell'art. 8 della legge se i relativi contratti sono stati stipulati a decorrere dal 25 ottobre 1991.
 
+7.
+                    
+                        
+                            Sono esclusi dalle agevolazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                gli investimenti in beni ed i servizi consegnati ad imprese diverse dall'impresa richiedente, ovvero installati in unita' locali diverse da quelle indicate nella dichiarazione di cui all'allegato 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli investimenti per la costruzione di nuovi impianti sostenuti da imprese diverse dall'impresa richiedente ovvero realizzati in unita' locali diverse da quelle indicate nella dichiarazione di cui all'articolo 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le spese fatturate anteriormente al 25 ottobre 1991;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli investimenti non fatturati, fatti salvi i costi del personale di cui al comma 4;
+
+                            
+                        
+                        
+                            e)
+                            
+                                gli investimenti oggetto di autofatturazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le imposte, le spese notarili, gli interessi passivi e tutti gli oneri accessori, ivi compresi il trasporto e l'imballaggio dei beni. Sono altresi' esclusi dalle agevolazioni il montaggio ed il collaudo, ove non fatturati, nonche', per le agevolazioni di cui ai commi 1 e 3 dell'art. 8 della legge, le opere murarie comunque connesse all'acquisto di macchine e attrezzature;
+
+                            
+                        
+                        
+                            g)
+                            
+                                in relazione alla concessione del credito d'imposta di cui al comma 4 dell'art. 8 della legge, gli investimenti effettuati successivamente allo scadere del terzo anno dalla data di iscrizione di cui al comma 2 del presente articolo;
+
+                            
+                        
+                        
+                            h)
+                            
+                                gli investimenti per i quali siano state richieste o concesse altre agevolazioni, ivi comprese quelle concernenti esenzioni o riduzioni d'imposta, previste dalla legge n. 317/1991, da altre normative statali, regionali e delle provincie autonome di Trento e Bolzano ovvero da azioni comunitarie cofinanziate, fatti salvi i benefici finanziari disposti direttamente con atti delle Comunita' Europee.
+
 Alla dichiarazione di cui all'articolo 1 del presente decreto dovra' essere allegata una relazione illustrativa, volta ad inquadrare le spese sostenute nell'ambito di un piano aziendale e di sviluppo dell'attivita' di ricerca ovvero, per le agevolazioni di cui al comma 4 dell'articolo 8 della legge, di nuove attivita' produttive.
 
 ## Art. 3. — Revoca delle agevolazioni
+
+1.
+                    
+                        
+                            Il Ministro dell'industria, del commercio e dell'artigianato, ai sensi dell'art. 13 della legge, provvede alla revoca dei crediti d'imposta concessi, qualora:
+ 
+                        
+                        
+                            a)
+                            
+                                i beni oggetto dell'agevolazione risultino essere stati ceduti, alienati o distratti nei tre anni successivi alla data di concessione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i medesimi investimenti siano state concesse altre agevolazioni ivi comprese quelle concernenti esenzioni o riduzioni d'imposta, previste dalla legge, da altre normative statali, regionali o delle provincie autonome di Trento e Bolzano ovvero da azioni comunitarie cofinanziate, fatti salvi i benefici finanziari disposti direttamente con atti delle Comunita' europee;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la documentazione necessaria non sia stata completata entro il termine di novanta giorni dalla richiesta degli enti o degli istituti convenzionati con il Ministero dell'industria, del commercio e dell'artigianato;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i controlli effettuati dai medesimi enti ed istituti o gli eventuali ulteriori accertamenti disposti dal Ministero stesso ai sensi dell'art. 4 della legge, evidenziano l'insussistenza delle condizioni previste dagli articoli 8 e 10 della predetta legge, nonche' dal presente decreto.
 
 In caso di revoca del credito di imposta, il Ministero dell'industria, del commercio e dell'artigianato ne da' immediata comunicazione al Ministero delle finanze.
 

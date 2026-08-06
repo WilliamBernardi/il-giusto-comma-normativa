@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2004-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -76,6 +76,31 @@ La distinta e' utilizzata dai soggetti di cui al comma 1 per la liquidazione ed 
 Gli esemplari delle distinte per la contabilizzazione dei proventi sono tenuti e conservati dall'organizzatore ai sensi dell'articolo 39 del decreto del Presidente della Repubblica n. 633 del 1972.
 
 ## Art. 6. — Modalita' e termini di pagamento
+
+1.
+                        
+                            
+                                Il pagamento dell'imposta e' effettuato con le modalita' di cui all'articolo 17 del decreto legislativo 9 luglio 1997, n. 241:
+ 
+                            
+                            
+                                a)
+                                
+                                    per le attivita' a carattere continuativo svolte in un mese solare, entro il giorno sedici del mese successivo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le attivita' occasionali, entro il quinto giorno successivo a quello di conclusione della manifestazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le quote o le contribuzioni associative, entro il giorno sedici del mese successivo a quello di chiusura dell'anno sociale.
 
 Nei casi di mancato svolgimento delle attivita' soggette all'imposta, per le quali sia previsto, in base ad accordi intercorsi tra le parti, l'obbligo della restituzione del corrispettivo pagato per i titoli di accesso, l'imposta e' commisurata alle somme non rimborsate e versata entro trenta giorni dall'originario termine di pagamento.
 

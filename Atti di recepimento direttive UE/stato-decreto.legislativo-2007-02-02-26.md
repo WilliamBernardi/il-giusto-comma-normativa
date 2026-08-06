@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2007-09-10
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -230,6 +230,31 @@ b) dopo la voce "olio combustibile e oli minerali greggi,
 
 ## Art. 2. — Disposizioni in materia di aliquote di accisa e di imposta sul valore aggiunto sul gas naturale per combustione per usi civili
 
+1.
+                    
+                        
+                            A decorrere dal 1° gennaio 2008: 
+
+                        
+                        
+                            a)
+                            
+                                la misura delle aliquote di accisa per il gas naturale per combustione per usi civili, di cui all'allegato I annesso al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504, e successive modificazioni, e' determinata come segue: 
+ 1) per consumi fino a 120 metri cubi annui: euro 0,044 per metro cubo; 
+ 2) per consumi superiori a 120 metri cubi annui e fino a 480 metri cubi annui: euro 0,175 per metro cubo; 
+ 3) per consumi superiori a 480 metri cubi annui e fino a 1560 metri cubi annui: euro 0,170 per metro cubo; 
+ 4) per consumi superiori a 1560 metri cubi annui: euro 0,186 per metro cubo; 
+                            
+                        
+                        
+                            b)
+                            
+                                la misura delle aliquote di accisa di cui alla lettera a) per i territori di cui all'articolo 1 del testo unico delle leggi sugli interventi sul Mezzogiorno, approvato con decreto del Presidente della Repubblica 6 marzo 1978, n. 218, e' determinata come segue: 
+ 1) per consumi fino a 120 metri cubi annui: euro 0,038 per metro cubo; 
+ 2) per consumi superiori a 120 metri cubi annui e fino a 480 metri cubi annui: euro 0,135 per metro cubo; 
+ 3) per consumi superiori a 480 metri cubi annui e fino a 1560 metri cubi annui: euro 0,120 per metro cubo; 
+ 4) per consumi superiori a 1560 metri cubi annui: euro 0,150 per metro cubo.
+
 A decorrere dal 1° gennaio 2008, in funzione del completamento progressivo del processo di armonizzazione e di riavvicinamento delle aliquote di accisa applicate al gas naturale nelle diverse zone geografiche del Paese, con decreto da adottare entro il mese di febbraio di ogni anno, il Ministro dell'economia e delle finanze procede ad interventi di riduzione delle aliquote di accisa di cui al comma 1, lettera a).
 
 Ai fini di cui al comma 2, e' autorizzata la spesa di 98.000.000 di euro per l'anno 2008. A decorrere dall'anno 2009 si provvede ai sensi dell'articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468.
@@ -244,6 +269,89 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 3. — Disposizioni in materia di imposta addizionale regionale sul gas naturale
+
+1.
+                    
+                        
+                            Nel decreto legislativo 21 dicembre 1990, n. 398, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole «gas metano», ovunque ricorrano, sono sostituite dalle seguenti «gas naturale»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole «imposta di consumo», ovunque ricorrano, sono sostituite dalla seguente: «accisa»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 10 e' sostituito dal seguente:
+ «Art. 10. - 1. I tributi di cui ai commi 1 e 2 dell'articolo 9 sono dovuti dai soggetti indicati dall'articolo 26, commi 7 e 8, del decreto legislativo 26 ottobre 1995, n. 504.
+ 2. Il versamento dei tributi di cui ai commi 1 e 2 dell'articolo 9 e' effettuato in favore della regione dove ha luogo il consumo del gas naturale.
+ 3. La dichiarazione di cui all'articolo 26, comma 13, del decreto legislativo n. 504 del 1995, e' presentata, in copia, anche alla regione competente per territorio, nel termine previsto dal medesimo comma 13.
+ 4. Per i termini e le modalita' di versamento dei tributi regionali a ciascuna regione, si applica quanto stabilito nell'articolo 26 del decreto legislativo 26 ottobre 1995, n. 504.».
+
+2.
+                    
+                        
+                            Nel decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68, all'articolo 10 sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «gas metano», ovunque ricorrano, sono sostituite dalle seguenti: «gas naturale»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: «imposta di consumo», ovunque ricorrano, sono sostituite dalla seguente: «accisa».
+
+3.
+                    
+                        
+                            Nella legge 23 dicembre 1996, n. 662, al comma 153 dell'articolo 1, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «gas metano», ovunque ricorrano, sono sostituite dalle seguenti: «gas naturale»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: «imposta di consumo», ovunque ricorrano, sono sostituite dalla seguente: «accisa».
+
+4.
+                    
+                        
+                            Nella legge 8 maggio 1998, n. 146, al comma 1 dell'articolo 8, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «gas metano», ovunque ricorrano, sono sostituite dalle seguenti: «gas naturale»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: «imposta di consumo» sono sostituite dalla seguente: «accisa».
 
 ## Art. 4.
 

@@ -8,8 +8,8 @@ codice_redazionale: 012G0227
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -23,11 +23,61 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli 
 
 ## Art. 1. — Ordinamento delle banche a carattere regionale
 
+1.
+                    
+                        
+                            L'Assessorato regionale dell'economia, Dipartimento delle finanze e del credito, ha competenza nell'adozione dei provvedimenti previsti dalle disposizioni vigenti nelle seguenti materie, fermi restando i poteri della Banca d'Italia di cui all'articolo 6: 
+ 
+                        
+                        
+                            a)
+                            
+                                autorizzazione all'attivita' bancaria, alla trasformazione, fusione e scissione delle banche a carattere regionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                modificazione degli statuti delle banche a carattere regionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                decadenza e sospensione dei soggetti che svolgono nelle banche a carattere regionale funzioni di amministrazione, direzione e controllo, in relazione al difetto dei requisiti di professionalita', onorabilita' e indipendenza di cui all'articolo 26 del decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni.
+
 L'adozione dei provvedimenti nelle materie di cui al comma 1 e' subordinata al rilascio del parere obbligatorio e vincolante, a fini di vigilanza, da parte della Banca d'Italia.
 
 Ai fini delle presenti disposizioni sono banche a carattere regionale le banche che hanno la sede legale in Sicilia purche' non abbiano piu' del 5 per cento degli sportelli al di fuori della Regione, la loro operativita' sia localizzata nella Regione e, ove la banca appartenga a un gruppo bancario, anche le altre componenti bancarie del gruppo e la capogruppo presentino carattere regionale ai sensi delle presenti disposizioni. L'esercizio di una marginale operativita' al di fuori del territorio della Regione, su conforme valutazione della Banca d'Italia, non fa venire meno il carattere regionale della banca.
 
 ## Art. 2. — Albo regionale delle banche
+
+1.
+                    
+                        
+                            Presso l'assessorato regionale dell'economia, Dipartimento delle finanze e del credito, e' istituito un albo nel quale sono iscritte le banche aventi sede legale nella Regione, che dovra' contenere, per ogni singola banca, le seguenti indicazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la denominazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la forma giuridica assunta, la data di autorizzazione all'attivita' bancaria e gli estremi della relativa pubblicazione ai sensi delle vigenti disposizioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sede centrale e quella degli sportelli.
 
 Ad ogni variazione intervenuta le banche iscritte sono tenute a trasmettere apposita comunicazione.
 

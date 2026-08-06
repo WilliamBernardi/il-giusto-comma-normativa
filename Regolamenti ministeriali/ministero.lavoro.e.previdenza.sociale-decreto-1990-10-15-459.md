@@ -8,8 +8,8 @@ codice_redazionale: 091G0235
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,12 +29,113 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 28 g
 
 ## Art. 1. — Casi nei quali e' ammessa la dichiarazione sostitutiva
 
+1.
+                    
+                        
+                            E' ammessa dichiarazione temporaneamente sostitutiva sottoscritta dall'interessato e autenticata con le modalita' di cui all'art. 20 della legge 4 gennaio 1968, n. 15, per i seguenti fatti, stati e qualita' personali:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'iscrizione nelle liste del collocamento ordinario:
+ - possesso del libretto di lavoro o del certificato sostitutivo nei casi in cui tali documenti sono prescritti;
+ - possesso di diploma o attestato di qualifica professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'iscrizione negli elenchi del collocamento obbligatorio:
+ - appartenenza alle categorie aventi diritto al collocamento obbligatorio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per l'iscrizione negli elenchi dei committenti lavoro a domicilio:
+ - iscrizione alla camera di commercio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per l'abilitazione all'esercizio della professione di consulente del lavoro:
+ - possesso del prescritto titolo di studio;
+ - effettuazione del prescritto periodo di praticantato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per l'abilitazione alla conduzione dei generatori di vapore:
+ - possesso dell'idoneita' psico-fisica;
+ - possesso del libretto di tirocinio;
+ - possesso del prescritto titolo di studio;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per il rilascio dell'attestato di idoneita' per la direzione tecnica degli impianti nucleari:
+ - possesso del prescritto titolo di studio;
+ - possesso dei titoli atti a dimostrare l'idoneita' alla direzione dell'impianto;
+ - possesso della dichiarazione dell'esercente, presso il quale il richiedente svolge o intende svolgere la propria attivita', dalla quale risulti che l'interessato ha assistito alla direzione dell'impianto per almeno un mese;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per il rilascio della patente di abilitazione per la conduzione di impianti nucleari:
+ - possesso della dichiarazione dell'esercente l'impianto nucleare relativa al grado di addestramento raggiunto e di ogni altro documento comprovante l'esperienza pratica e le mansioni svolte;
+ - possesso del libretto di tirocinio;
+
+                            
+                        
+                        
+                            h)
+                            
+                                per l'ammissione alla prova di idoneita' ai fini dell'iscrizione negli elenchi degli esperti qualificati incaricati dei compiti di sorveglianza fisica della protezione dalle radiazioni ionizzanti:
+ - possesso del prescritto titolo di studio;
+ - possesso dei certificati universitari o attestazioni per i soli aspiranti all'abilitazione di III grado;
+
+                            
+                        
+                        
+                            i)
+                            
+                                per l'ammissione alla prova di idoneita' per l'iscrizione negli elenchi dei medici autorizzati incaricati dei compiti di sorveglianza medica della protezione dalle radiazioni ionizzanti:
+ - possesso del prescritto titolo di studio;
+ - possesso dei previsti diplomi di specializzazione.
+
 La dichiarazione di cui al comma precedente puo' essere presentata anche contestualmente all'istanza dell'interessato.
  AVVERTENZA:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Produzione della documentazione e termine
+
+1.
+                    
+                        
+                            Nei casi sub 
+                        
+                        
+                            a)
+                            
+                                e
+                            
+                        
+                        
+                            b)
+                            
+                                del comma 1 dell'art. 1 la presentazione dei documenti dovra' avvenire prima dell'adozione del provvedimento di avviamento al lavoro e comunque entro trenta giorni dalla data di sottoscrizione da parte dell'interessato della dichiarazione presentata all'atto della domanda di iscrizione nelle liste del collocamento ordinario o obbligatorio.
 
 Nei rimanenti casi la presentazione dei documenti dovra' avvenire entro trenta giorni dalla data di richiesta dei competenti uffici e comunque prima del rilascio di atti certificativi.
 

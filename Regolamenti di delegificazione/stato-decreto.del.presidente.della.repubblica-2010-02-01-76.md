@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
 vigenza_date: 2026-02-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -32,6 +32,47 @@ Sulla proposta del Ministro dell'istruzione, dell'universita' e della ricerca;
 
 Il presente regolamento disciplina la struttura, il modello organizzativo e il funzionamento dell'Agenzia nazionale di valutazione del sistema universitario e della ricerca (ANVUR) costituita ai sensi dell'articolo 2, comma 138, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286.
 
+2.
+                        
+                            
+                                Agli effetti del presente regolamento si intendono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((per Ministro e Ministero, rispettivamente il Ministro dell'universita' e della ricerca e il Ministero dell'universita' e della ricerca;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    per Agenzia, l'Agenzia nazionale di valutazione del sistema universitario e della ricerca (ANVUR) di cui al comma 1; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per universita', tutte le istituzioni universitarie italiane statali e non statali, comunque denominate, ivi compresi gli istituti universitari ad ordinamento speciale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per enti di ricerca, tutti gli enti e le istituzioni pubbliche di ricerca non universitari, di esclusiva vigilanza del Ministero, e gli enti privati di ricerca destinatari di finanziamenti pubblici, relativamente alle somme erogate dal Ministero; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    
+                                        ((per istituzioni AFAM, tutte le Istituzioni di Alta formazione artistica, musicale e coreutica, ivi inclusi gli Istituti Superiori per le Industrie Artistiche (ISIA), vigilate dal Ministero.))
+
 L'Agenzia ha personalita' giuridica di diritto pubblico ed ha sede in Roma. E' dotata di autonomia organizzativa, amministrativa e contabile, anche in deroga alle disposizioni sulla contabilita' generale dello Stato e opera ai sensi dell'articolo 8, comma 1, del decreto legislativo 30 luglio 1999, n. 300. E' sottoposta alla vigilanza del Ministro e al controllo sulla gestione da parte della Corte dei conti. ((Ai sensi dell'articolo 51-ter del decreto legislativo 30 luglio 1999, n. 300, il Ministero cura i rapporti con l'Agenzia.))
 
 ((Fermo restando quanto previsto dall'articolo 17 del decreto legislativo 25 novembre 2016, n. 218, le attivita' dell'Agenzia)) disciplinate nel presente regolamento possono essere svolte, sulla base di apposite convenzioni stipulate ((con enti pubblici e privati di ricerca,)) anche nei confronti degli enti di ricerca non sottoposti alla vigilanza esclusiva del Ministero. Sono fatte salve le competenze del Ministero per i beni e le attivita' culturali, di cui all'articolo 29, commi 7, 8 e 9, del decreto legislativo 22 gennaio 2004, n. 42, e quelle degli altri Ministeri previste dalla normativa vigente.
@@ -52,7 +93,155 @@ L'attivita' dell'Agenzia ed il suo inserimento nel contesto internazionale delle
 
 ## Art. 3. — Attivita', criteri e metodi
 
+1.
+                        
+                            
+                                L'Agenzia svolge le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((valuta la qualita' complessiva delle attivita' didattiche, di ricerca e, anche su richiesta del Ministero, di valorizzazione della conoscenza, ivi inclusa la terza missione, delle universita', delle istituzioni AFAM e degli enti di ricerca;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((definisce criteri e metodologie per la valutazione, in base a parametri oggettivi e certificabili, delle universita', delle istituzioni AFAM e degli enti di ricerca, con riferimento ai corsi di studio, ivi compresi i dottorati di ricerca, i master universitari e le scuole di specializzazione, ai fini dell'accreditamento periodico degli stessi da parte del Ministro. Sono fatte salve, per le scuole di specializzazione di area sanitaria, le competenze dell'Osservatorio nazionale per la formazione sanitaria specialistica di cui all'articolo 43 del decreto legislativo 17 agosto 1999, n. 368. In particolare, in raccordo con i sistemi di assicurazione della qualita' interni ai singoli soggetti valutati, l'Agenzia si occupa delle attivita' di accreditamento periodico dell'offerta formativa, ispirandosi a principi di autonomia responsabile e proporzionalita' nelle procedure di verifica esterna. L'accreditamento iniziale dei corsi e' limitato alla sola verifica dei requisiti di docenza e di strutture.)) Per le questioni didattiche e' promosso il coinvolgimento attivo degli studenti e dei loro organismi di rappresentanza e delle commissioni paritetiche; senza nuovi o maggiori oneri a carico della finanza pubblica; 
 
+                                
+                            
+                            
+                                c)
+                                
+                                    esercita funzioni di indirizzo ((e coordinamento)) delle attivita' di valutazione demandate ai ((nuclei di valutazione degli atenei, delle istituzioni AFAM e degli enti di ricerca)), ad eccezione di quelle loro affidate dalle rispettive istituzioni di appartenenza, raccordando la propria attivita' con quella di valutazione interna svolta dai nuclei e confrontandosi con questi ultimi sulla definizione di criteri, metodi ed indicatori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predispone, anche in riferimento alle funzioni di cui alla lettera b), in collaborazione con i nuclei di valutazione ((...)) procedure uniformi per la rilevazione della valutazione dei corsi da parte degli studenti, fissa i requisiti minimi cui le Universita' si attengono per le procedure di valutazione dell'efficacia della didattica e dell'efficienza dei servizi effettuate dagli studenti e ne cura l'analisi e la pubblicazione ((...)) con modalita' informatiche; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((anche su richiesta del Ministro, attenendosi a principi di efficacia e di semplificazione delle procedure,)) elabora e propone al Ministro i requisiti quantitativi e qualitativi, in termini di risorse umane, infrastrutturali e finanziarie stabili, e di adeguatezza dei programmi di insegnamento e di capacita' di ricerca, ai fini ((dell'istituzione, fusione)) o federazione ovvero soppressione di universita' o di sedi distaccate di universita' esistenti, nonche' per l'attivazione, la chiusura o l'accorpamento di tutti i corsi di studio universitari, ivi compresi i dottorati di ricerca, i master universitari e le scuole di specializzazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 7 GENNAIO 2026, N. 12)); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 7 GENNAIO 2026, N. 12)); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        ((valuta, anche su richiesta del Ministro, l'efficienza e l'efficacia dei programmi pubblici di finanziamento e di incentivazione delle attivita' didattiche, di ricerca e di innovazione, fatto salvo quanto previsto dall'articolo 17, comma 5, del decreto legislativo n. 218 del 2016;))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    svolge, su richiesta del Ministro e compatibilmente con le risorse finanziarie disponibili, ulteriori attivita' di valutazione, nonche' di definizione di standard, di parametri e di normativa tecnica. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    
+                                        ((svolge la valutazione della qualita' della ricerca delle universita', delle istituzioni AFAM e degli enti di ricerca, sulla base di uno o piu' decreti del Ministro diretti a individuare le linee guida concernenti lo svolgimento della medesima valutazione e le risorse economiche a tal fine necessarie;))
+                                    
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    
+                                        ((definisce, in accordo con il Comitato nazionale per la valutazione della ricerca, i criteri per la creazione dell'Anagrafe nazionale delle ricerche istituita ai sensi dell'articolo 63 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382;))
+                                    
+                                
+                            
+                            
+                                i-quater)
+                                
+                                    
+                                        ((definisce i requisiti per la nomina degli esperti, tra i quali le universita', le istituzioni AFAM e gli enti di ricerca scelgono il Presidente del nucleo di valutazione, fermo restando che ogni esperto non puo' essere nominato in piu' di tre nuclei a livello nazionale.))
+
+2.
+                        
+                            
+                                Costituiscono tra l'altro oggetto della valutazione di cui alla lettera a) del comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'efficienza e l'efficacia dell'attivita' didattica sulla base di standard qualitativi di livello internazionale, anche con riferimento agli esiti dell'apprendimento da parte degli studenti ed al loro adeguato inserimento nel mondo del lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((la qualita' dei prodotti della ricerca, utilizzando criteri omogenei rispetto a quelli previsti per l'ammissione ai concorsi universitari, valutati, ove possibile, tramite procedimenti di valutazione tra pari;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        (( le competenze trasversali e disciplinari acquisite dagli studenti e dalle studentesse e gli sbocchi occupazionali dei laureati.))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 7 GENNAIO 2026, N. 12)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 7 GENNAIO 2026, N. 12)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 7 GENNAIO 2026, N. 12));
+
+((Nello svolgimento delle proprie attivita', l'Agenzia utilizza i criteri, i metodi e gli indicatori piu' appropriati per ogni tipologia di valutazione, anche in riferimento a diversi ambiti disciplinari, nonche' delle esperienze sviluppate e condivise a livello nazionale e internazionale, in applicazione dei principi di trasparenza e semplificazione.))
 
 Le attivita' di valutazione di cui ai commi 1 e 2 sono svolte su richiesta del Ministro anche nei confronti dei centri e consorzi interuniversitari e dei consorzi per la ricerca universitaria, nonche' di altre strutture universitarie e di ricerca.
 
@@ -148,6 +337,67 @@ Il rapporto di lavoro del ((Direttore generale)) e' incompatibile, a pena di ris
 
 Il Comitato consultivo, nominato dal Presidente su proposta del Consiglio direttivo, da' pareri e formula proposte al Consiglio direttivo, in particolare sui programmi di attivita' e sui documenti riguardanti la scelta dei criteri e dei metodi di valutazione.
 
+2.
+                        
+                            
+                                
+                                    ((Il Comitato consultivo e' formato da nove membri:))
+                                
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((tre componenti designati dal Consiglio universitario nazionale, in rappresentanza delle tre macro-aree CUN di cui all'articolo 8, comma 3;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((un componente designato dalla Conferenza dei rettori delle universita' italiane;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((un componente designato dal Consiglio nazionale degli studenti universitari;))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((un componente designato dalla Consulta dei presidenti degli enti pubblici di ricerca;))
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((un componente designato dal Comitato nazionale della valutazione della ricerca;))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((un componente designato dal Consiglio nazionale per l'alta formazione artistica e musicale;))
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((un rappresentante delle parti sociali, designato dal Consiglio nazionale dell'economia e del lavoro.))
+
 ((COMMA ABROGATO DAL D.P.R. 7 GENNAIO 2026, N. 12)).
 
 ((Il Comitato consultivo resta in carica quattro anni ed e' rinnovabile una sola volta. Elegge tra i propri componenti un Presidente e si riunisce almeno due volte l'anno. Nelle deliberazioni del Comitato, in caso di parita', prevale il voto del Presidente. Ai componenti del Comitato spetta esclusivamente il rimborso delle spese sostenute per la partecipazione alle sedute, nei limiti della disciplina vigente per i dipendenti dell'amministrazione dello Stato di livello dirigenziale.))
@@ -163,6 +413,54 @@ Con riferimento a quanto previsto dall'articolo 8 del decreto legislativo 30 lug
 
 La dotazione organica del personale dell'Agenzia e' stabilita nell'Allegato A, che costituisce parte integrante del presente regolamento. ((La predetta dotazione organica puo' essere modificata secondo la procedura di cui all'articolo 6, comma 3, del decreto legislativo 30 marzo 2001, n. 165, garantendo la neutralita' finanziaria della rimodulazione.))
 
+4.
+                        
+                            
+                                
+                                    ((Con riferimento all'organizzazione e al funzionamento dell'Agenzia, i regolamenti di cui al comma 1 disciplinano:))
+                                
+                            
+                            
+                                a)
+                                
+                                    la definizione dei compiti delle aree di cui al comma 1 e l'organizzazione dei rapporti operativi tra il Presidente e i componenti del Consiglio direttivo con la struttura direzionale e le relative aree; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.P.R. 7 GENNAIO 2026, N. 12)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il trattamento giuridico ed economico del personale di cui all'Allegato A, in conformita' con quanto previsto dal CCNL del comparto Ministeri, ivi comprese le modalita' e procedure di copertura dei posti della ((dotazione)) organica, mediante il ricorso alle procedure di mobilita' previste dalla normativa vigente, ovvero mediante le ordinarie forme di reclutamento, ai sensi del decreto legislativo 31 marzo 2001, n. 165; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la stipula, con il relativo trattamento economico, ai sensi dell'articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, dei contratti con esperti della valutazione, che sono conferiti, previa delibera del Consiglio direttivo, dal ((Direttore generale)), ad esperti italiani e stranieri nei settori di competenza dell'Agenzia, nei limiti delle risorse finanziarie disponibili nel bilancio dell'Agenzia a legislazione vigente e senza nuovi o maggiori oneri per la finanza pubblica; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'amministrazione e la contabilita', anche in deroga alle disposizioni sulla contabilita' generale dello Stato e comunque nel rispetto dei relativi principi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le regole deontologiche che devono essere seguite nelle attivita' di valutazione dal personale dell'Agenzia e dai soggetti di cui alla lettera d).
+
 I regolamenti di cui al comma 4, ad eccezione di quelli di cui alle lettere a) ed f), sono approvati dal Ministero, di concerto con il Ministero dell'economia e delle finanze e con il Ministero per la pubblica amministrazione e l'innovazione, entro il termine di sessanta giorni dalla loro ricezione.
 
 ((COMMA ABROGATO DAL D.P.R. 7 GENNAIO 2026, N. 12)).
@@ -172,6 +470,45 @@ I regolamenti di cui al comma 4, ad eccezione di quelli di cui alle lettere a) e
 ((Le risorse per il funzionamento dell'Agenzia derivano dai finanziamenti statali e dalle risorse proprie derivanti dalla partecipazione a progetti europei e dalle attivita' eventualmente svolte nei confronti di soggetti che volontariamente lo richiedano o istituzioni pubbliche o private di altri Paesi. Il Ministro, nell'ambito delle disponibilita' di bilancio, puo' riservare annualmente ulteriori risorse, in relazione a motivate esigenze dell'Agenzia per lo svolgimento delle attivita' istituzionali.))
 
 ## Art. 13. — Trasparenza dell'attivita' di valutazione
+
+1.
+                        
+                            
+                                L'Agenzia assicura la pubblicita', anche mediante il proprio sito web istituzionale, delle informazioni relative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla struttura e alla dotazione organica dell'Agenzia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai criteri e alle metodologie per la valutazione definiti dall'Agenzia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai risultati delle proprie analisi e valutazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al Rapporto sullo stato del sistema universitario e della ricerca di cui all'articolo 4, nonche' ai rapporti annuali, alle relazioni e alle pubblicazioni predisposte dall'Agenzia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ad ogni altro aspetto della propria attivita' istituzionale in conformita' alla normativa vigente.
 
 ## - Capo III DISPOSIZIONI FINALI
 

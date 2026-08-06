@@ -8,7 +8,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,73 @@ Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dello sv
 ## Art. 1. — Campo di applicazione, messa a disposizione 
  sul mercato e obiettivi di sicurezza
 
+1.
+                    
+                        
+                            Le disposizioni del presente decreto legislativo si applicano al materiale elettrico destinato ad essere utilizzato ad una tensione nominale compresa fra 50 e 1.000 volt in corrente alternata e fra 75 e 1.500 volt in corrente continua, ad esclusione dei seguenti materiali e fenomeni: 
+ 
+                        
+                        
+                            a)
+                            
+                                materiali elettrici destinati ad essere usati in ambienti esposti a pericoli di esplosione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                materiali elettrici per radiologia ed uso clinico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                parti elettriche di ascensori e montacarichi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                contatori elettrici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                basi e spine delle prese di corrente per uso domestico; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                dispositivi di alimentazione dei recinti elettrici; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                disturbi radioelettrici; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                materiali elettrici speciali, destinati ad essere usati sulle navi e sugli aeromobili e per le ferrovie, conformi alle disposizioni di sicurezza stabilite da organismi internazionali, cui partecipa l'Italia; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                kit di valutazione su misura per professionisti, destinati ad essere utilizzati unicamente in strutture di ricerca e sviluppo a tali fini.
+
 Il materiale elettrico che rientra nel campo di applicazione del comma 1 puo' essere messo a disposizione sul mercato dell'Unione europea solo se, costruito conformemente alla regola dell'arte in materia di sicurezza valida all'interno dell'Unione, non compromette, in caso di installazione e di manutenzione non difettose e di utilizzazione conforme alla sua destinazione, la sicurezza delle persone, degli animali domestici e dei beni.
 
 I principali elementi degli obiettivi di sicurezza sono indicati nell'allegato I.
@@ -34,6 +101,108 @@ Viene garantita la libera circolazione in Italia del materiale elettrico conform
 Le imprese distributrici di elettricita', per quanto riguarda il materiale elettrico, non subordinano il raccordo o la fornitura di elettricita' agli utenti a requisiti di sicurezza piu' rigorosi degli obiettivi di sicurezza menzionati ai commi 2 e 3 ed enunciati nell'allegato I.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «messa a disposizione sul mercato»: la fornitura di materiale elettrico per la distribuzione, il consumo o l'uso nel mercato dell'Unione nel corso di un'attivita' commerciale, a titolo oneroso o gratuito; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «immissione sul mercato»: la prima messa a disposizione sul mercato dell'Unione di materiale elettrico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «fabbricante»: la persona fisica o giuridica che fabbrica materiale elettrico o che lo fa progettare o fabbricare, e commercializza tale materiale con il proprio nome o marchio commerciale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «rappresentante autorizzato»: la persona fisica o giuridica stabilita nell'Unione che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire a suo nome in relazione a determinati compiti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «importatore»: la persona fisica o giuridica stabilita nell'Unione che immette sul mercato dell'Unione materiale elettrico originario di un Paese terzo; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «distributore»: la persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante e dall'importatore, che mette a disposizione sul mercato materiale elettrico; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «operatori economici»: il fabbricante, il rappresentante autorizzato, l'importatore e il distributore; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «specifica tecnica»: un documento che prescrive i requisiti tecnici che il materiale elettrico deve soddisfare; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «norma armonizzata»: la norma armonizzata di cui all'articolo 2, punto 1, lettera c), del regolamento (UE) n. 1025/2012; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «valutazione della conformita'»: il processo atto a dimostrare il rispetto degli obiettivi di sicurezza menzionati all'articolo 1, commi 2 e 3, ed enunciati nell'allegato I relativi al materiale elettrico; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «richiamo»: qualsiasi misura volta a ottenere la restituzione di materiale elettrico gia' messo a disposizione dell'utilizzatore finale; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «ritiro»: qualsiasi misura volta a impedire la messa a disposizione sul mercato di materiale elettrico presente nella catena di fornitura; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                «normativa di armonizzazione dell'Unione»: qualunque normativa dell'Unione che armonizza le condizioni di commercializzazione dei prodotti; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                «marcatura CE»: una marcatura mediante la quale il fabbricante indica che il materiale elettrico e' conforme ai requisiti applicabili stabiliti nella normativa di armonizzazione dell'Unione che ne prevede l'apposizione.
 
 ## Art. 3. — Obblighi dei fabbricanti
 
@@ -59,6 +228,31 @@ I fabbricanti, a seguito di una richiesta motivata di un'autorita' nazionale com
 ## Art. 4. — Rappresentanti autorizzati
 
 Il fabbricante puo' nominare, mediante mandato scritto, un rappresentante autorizzato. Gli obblighi di cui all'articolo 3, comma 1, e l'obbligo di redigere la documentazione tecnica di cui all'articolo 3, comma 2, non rientrano nel mandato del rappresentante autorizzato.
+
+2.
+                    
+                        
+                            Il rappresentante autorizzato esegue i compiti specificati nel mandato ricevuto dal fabbricante. Il mandato consente al rappresentante autorizzato di eseguire almeno i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                mantenere a disposizione delle autorita' nazionali di vigilanza del mercato la dichiarazione di conformita' UE e la documentazione tecnica per dieci anni dalla data in cui il materiale elettrico e' stato immesso sul mercato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a seguito di una richiesta motivata di un'autorita' nazionale competente, fornire a tale autorita' tutte le informazioni e la documentazione necessarie per dimostrare la conformita' del materiale elettrico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                cooperare con le autorita' nazionali competenti, su loro richiesta, a qualsiasi azione intrapresa per eliminare i rischi presentati dal materiale elettrico che rientra nel proprio mandato.
 
 ## Art. 5. — Obblighi degli importatori
 
@@ -100,6 +294,24 @@ Cooperano con tale autorita', su sua richiesta, a qualsiasi azione intrapresa pe
 Un importatore o distributore e' ritenuto un fabbricante ai fini del presente decreto ed e' soggetto agli obblighi del fabbricante di cui all'articolo 3 quando immette sul mercato materiale elettrico con il proprio nome o marchio commerciale o modifica materiale elettrico gia' immesso sul mercato in modo tale da poterne condizionare la conformita' al presente decreto.
 
 ## Art. 8. — Identificazione degli operatori economici
+
+1.
+                    
+                        
+                            Gli operatori economici indicano alle autorita' di vigilanza che ne fanno richiesta: 
+ 
+                        
+                        
+                            a)
+                            
+                                qualsiasi operatore economico che ha fornito loro materiale elettrico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualsiasi operatore economico cui hanno fornito materiale elettrico.
 
 Gli operatori economici devono essere in grado di presentare le informazioni di cui al comma 1 per dieci anni dal momento in cui sono stati loro forniti materiale elettrico e per dieci anni dal momento in cui essi hanno fornito materiale elettrico.
 
@@ -180,6 +392,25 @@ Nel caso in cui l'operatore economico interessato non prende le misure correttiv
 
 Il Ministero dello sviluppo economico informa immediatamente la Commissione e gli altri Stati membri circa le misure di cui ai commi 5 e 6. Il Ministero dello sviluppo economico comunica i provvedimenti di cui al presente articolo agli organi segnalanti la presunta non conformita'.
 
+8.
+                    
+                        
+                            Le informazioni di cui al primo periodo del comma 7, includono tutti i particolari disponibili, soprattutto i dati necessari all'identificazione del materiale elettrico non conforme, la sua origine, la natura della presunta non conformita' e dei rischi connessi, la natura e la durata delle misure nazionali adottate, nonche' gli argomenti espressi dall'operatore economico interessato.
+In particolare, il Ministero dello sviluppo economico indica se l'inadempienza sia dovuta a una delle due cause seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                non conformita' del materiale elettrico agli obiettivi di sicurezza menzionati all'articolo 2, secondo comma, ed enunciati nell'allegato I relativi alla salute o alla sicurezza delle persone, degli animali domestici o dei beni; oppure; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                carenze nelle norme armonizzate di cui all'articolo 9 o delle norme internazionali o nazionali di cui all'articolo 10 e 11, che conferiscono la presunzione di conformita'.
+
 Il Ministero dello sviluppo economico, quando la procedura a norma dell'articolo 19 della direttiva 2014/35/UE e' stata avviata dall'autorita' di un altro Stato membro, informa immediatamente la Commissione e gli altri Stati membri di tutti i provvedimenti adottati, di tutte le altre informazioni a sua disposizione sulla non conformita' del materiale elettrico interessato e, in caso di disaccordo con la misura nazionale adottata, delle sue obiezioni.
 
 Il Ministero dello sviluppo economico tiene conto nello svolgimento della propria attivita', sia per le proprie misure provvisorie che per quelle assunte da autorita' di altri Stati membri, che nel caso in cui, entro tre mesi dal ricevimento delle informazioni di cui al comma 8, uno Stato membro o la Commissione non sollevano obiezioni contro la misura provvisoria presa da uno Stato membro, tale misura e' ritenuta giustificata.
@@ -210,9 +441,87 @@ Il Ministero dello sviluppo economico cura, ove necessario, l'attuazione degli a
 
 Non conformita' formale
 
+1.
+                    
+                        
+                            Fatto salvo l'articolo 15, se il Ministero dello sviluppo economico giunge a una delle seguenti conclusioni, chiede all'operatore economico interessato di porre fine allo stato di non conformita' in questione: 
+ 
+                        
+                        
+                            a)
+                            
+                                la marcatura CE e' stata apposta in violazione dell'articolo 30 del regolamento (CE) n. 765/2008 o dell'articolo 13 del presente decreto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la marcatura CE non e' stata apposta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione di conformita' UE non e' stata compilata o non accompagna il materiale elettrico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non e' stata compilata correttamente la dichiarazione di conformita' UE; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la documentazione tecnica non e' disponibile o e' incompleta; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le informazioni di cui all'articolo 3, comma 6, o all'articolo 5, comma 3, sono assenti, false o incomplete; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                non e' rispettata qualsiasi altra prescrizione amministrativa di cui all'articolo 3 o all'articolo 5.
+
 Se la non conformita' di cui al comma 1 permane, il Ministero dello sviluppo economico adotta le adeguate misure per limitare o proibire la messa a disposizione sul mercato del materiale elettrico o per garantire che sia richiamato o ritirato dal mercato.
 
 ## Art. 19. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                la legge 18 ottobre 1977, n. 791; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto legislativo 25 novembre 1996, n. 626; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto legislativo 31 luglio 1997, n. 277.
 
 ## Art. 20. — Disposizioni finali e transitorie
 

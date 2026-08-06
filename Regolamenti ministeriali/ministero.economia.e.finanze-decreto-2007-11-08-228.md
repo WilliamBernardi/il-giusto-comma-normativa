@@ -8,8 +8,8 @@ codice_redazionale: 007G0244
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -28,6 +28,52 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 ## Art. 1. — Requisiti e modalita' per la presentazione della domanda
 
 Le associazioni senza fine di lucro, che nelle finalita' istituzionali prevedono la realizzazione o la partecipazione a manifestazioni di particolare interesse storico, artistico o culturale, legate agli usi ed alle tradizioni delle comunita' locali, a decorrere dal 20 luglio ed entro e non oltre il 20 settembre di ciascun anno d'imposta, presentano all'Agenzia delle entrate, in via telematica, utilizzando il modello predisposto dall'Agenzia delle entrate, domanda con la quale chiedono di essere inseriti tra i soggetti beneficiari delle disposizioni recate dall'articolo 1, comma 185, della legge 27 dicembre 2006, n. 296.
+
+2.
+                    
+                        
+                            La domanda, a pena di inammissibilita', reca in particolare una dichiarazione sostitutiva di atto di notorieta' con la quale sotto la propria responsabilita' il legale rappresentante dell'organizzazione dichiara:
+ 
+                        
+                        
+                            a)
+                            
+                                l'assenza del fine di lucro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli apporti specifici alla realizzazione e/o alla partecipazione a manifestazioni di particolare interesse storico, artistico e culturale, legate agli usi e alle tradizioni delle comunita' locali, espressamente previste tra le finalita' istituzionali dell'associazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'effettiva opera svolta per la realizzazione o partecipazione alle manifestazioni di cui alla lettera b), svolte nell'ambito territoriale di appartenenza dell'associazione, ovvero in altri ambiti territoriali, solo nel caso in cui la manifestazione per ragioni storiche si svolga oltre che nel proprio ambito territoriale anche in altri luoghi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il reddito complessivo dell'associazione relativo all'anno precedente la presentazione della domanda;
+
+                            
+                        
+                        
+                            e)
+                            
+                                da quale anno effettivamente l'associazione svolge in modo continuativo le attivita' di cui alla lettera b);
+
+                            
+                        
+                        
+                            f)
+                            
+                                da quale anno si svolgono le manifestazioni di cui alla lettera b).
 
 ## Art. 2. — Criteri di definizione dell'elenco dei soggetti beneficiari
 

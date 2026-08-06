@@ -8,8 +8,8 @@ codice_redazionale: 007G0217
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,27 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per le politiche europee e del Ministro dello sviluppo economico, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e dell'interno;
 
 ## Art. 1. — Modifiche al decreto legislativo 7 settembre 2005, n. 209 recante Codice delle assicurazioni private
+
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 7 settembre 2005, n. 209, alla lettera fff) sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al numero 2 sono aggiunte le seguenti parole:
+ «sia che si tratti di un veicolo con targa definitiva o targa temporanea»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono aggiunti infine i seguenti numeri:
+ «4-bis) lo Stato di cui alla lettera bbb) di destinazione nel caso in cui un veicolo viene spedito da uno Stato membro in un altro, a decorrere dall'accettazione della consegna da parte dell'acquirente e per un periodo di trenta giorni, anche se il veicolo non e' stato formalmente immatricolato nello Stato membro di destinazione;
+ 4-ter) lo Stato di cui alla lettera bbb) in cui si e' verificato il sinistro qualora il veicolo sia privo di targa o rechi una targa che non corrisponde piu' allo stesso veicolo.».
 
 All'articolo 25, comma 2, del decreto legislativo 7 settembre 2005, n. 209, le parole: «e non puo' svolgere per conto dell'impresa attivita' diretta all'acquisizione di contratti di assicurazione» sono soppresse.
 
@@ -51,7 +72,53 @@ All'articolo 148, comma 1, secondo periodo, e comma 2, primo periodo, del decret
 All'articolo 155, dopo il comma 5 e' aggiunto, in fine, il seguente:
  «5-bis. A richiesta delle parti interessate, i dati forniti dal Centro di informazione italiano devono essere disponibili in formato elettronico.».
 
+9.
+                    
+                        
+                            All'articolo 283 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 dopo la lettera d) sono aggiunte le seguenti:
+ «d-bis) il veicolo sia stato spedito nel territorio della Repubblica italiana da uno Stato di cui all'articolo 1, comma 1, lettera bbb), e nel periodo indicato all'articolo 1, comma 1, lettera fff), numero 4-bis), lo stesso risulti coinvolto in un sinistro e sia privo di assicurazione;
+ d-ter) il sinistro sia cagionato da un veicolo estero con targa non corrispondente o non piu' corrispondente allo stesso veicolo.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, i primi due periodi sono sostituiti dai seguenti: «Nel caso di cui al comma 1, lettera a), il risarcimento e' dovuto solo per i danni alla persona. In caso di danni gravi alla persona, il risarcimento e' dovuto anche per i danni alle cose, il cui ammontare sia superiore all'importo di euro 500, per la parte eccedente tale ammontare. Nei casi di cui al comma 1, lettere b), d-bis) e d-ter) il risarcimento e' dovuto per i danni alla persona, nonche' per i danni alle cose.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, le parole: «e d)» sono sostituite con: «, d), d-bis) e d-ter)».
+
 All'articolo 286 del decreto legislativo 7 settembre 2005, n. 209, al comma 1 le parole: «e d)» sono sostituite dalle seguenti: «, d), d-bis) e d-ter)».
+
+11.
+                    
+                        
+                            All'articolo 287 del decreto legislativo 7 settembre 2005, n. 209, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «e d)» sono sostituite dalle seguenti: «, d), d-bis) e d-ter)»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ «4. Nei casi previsti dall'art. 283, comma 1, lettere b), d-bis) e d-ter), deve essere convenuto in giudizio anche il responsabile del danno.».
 
 All'articolo 290 del decreto legislativo 7 settembre 2005, n. 209, al comma 1 le parole: «e d)» sono sostituite dalle seguenti: «, d), d-bis) e d-ter)».
 

@@ -8,8 +8,8 @@ codice_redazionale: 094G0265
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,38 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 27 ge
 
 ## Art. 1. — Compiti ed attribuzioni
 
+1.
+                    
+                        
+                            L'Agenzia per i servizi sanitari regionali, istituita dall'art. 5 del decreto legislativo 30 giugno 1993, n. 266, svolge compiti di supporto delle attivita' regionali. Essa provvede a:
+ 
+                        
+                        
+                            a)
+                            
+                                costituire una banca dati permanente sulla qualita' delle prestazioni e relativi costi per elaborare valutazioni comparative tra questi e l'efficacia dei servizi erogati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                curare l'effettuazione di rilevazioni, studi e controlli sull'acquisizione di beni e servizi con particolare riguardo ai beni di largo consumo, ai farmaci e presidi di uso ospedaliero, alle apparecchiature e strumenti di alta tecnologia, avvalendosi dell'osservatorio dei prezzi e delle tecnologie di cui all'art. 25, comma 5, del decreto-legge 28 dicembre 1989, n. 415, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 38, e successive modifiche ed integrazioni, segnalando disfunzioni e sprechi nella gestione delle risorse ed i relativi correttivi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuovere iniziative per la sperimentazione e l'innovazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                partecipare in forma di collaborazione o supporto alla elaborazione di studi, programmi e progetti regionali, promuovendo il trasferimento delle innovazioni e delle sperimentazioni in materia sanitaria.
+
 L'Agenzia, nello svolgimento delle proprie attivita', opera anche in collaborazione con il Ministero della sanita', con l'Istituto superiore di sanita', con l'Istituto superiore di prevenzione e sicurezza sui luoghi di lavoro, con gli istituti di ricovero e cura a carattere scientifico, gli istituti zooprofilattici sperimentali e, sulla base di intese di carattere organizzativo con le regioni interessate, con le unita' sanitarie locali e le aziende ospedaliere.
 
 ## Art. 2. — Organi
@@ -50,6 +82,45 @@ Il direttore stipula con le regioni i contratti di cui all'art. 5, comma 5, del 
 Il consiglio di amministrazione dell'Agenzia e' composto da sei membri, nominati con decreto del Presidente del Consiglio dei Ministri, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro della sanita'. Tre di essi sono designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome.
 
 I componenti sono scelti tra esperti di riconosciuta competenza in materia di organizzazione e programmazione dei servizi sanitari anche estranei alla pubblica amministrazione. Non possono far parte del consiglio di amministrazione persone che rivestano cariche pubbliche elettive, ovvero cariche in partiti politici o in sindacati dei lavoratori, nonche' coloro che abbiano avuto nell'anno precedente od abbiano incarichi direttivi o rapporti continuativi di collaborazione o di consulenza con le predette organizzazioni. Il consiglio di amministrazione dura in carica cinque anni e i suoi componenti possono essere riconfermati. Il consiglio di amministrazione elegge al suo interno un presidente e delibera a maggioranza dei componenti.
+
+3.
+                    
+                        
+                            Il consiglio di amministrazione:
+ 
+                        
+                        
+                            a)
+                            
+                                svolge i compiti di indirizzo e di verifica dell'attivita' dell'Agenzia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                approva il bilancio preventivo con le relative variazioni ed il conto consuntivo, previa acquisizione del prescritto parere del collegio dei revisori dei conti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                definisce, fermo restando quanto stabilito dal successivo art. 8, comma 2, la disciplina del rapporto di diritto privato intercorrente tra il direttore e l'Agenzia; il relativo contratto viene stipulato dal presidente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera annualmente il corrispettivo delle prestazioni di promozione, consulenza e supporto previste dall'art. 1; le delibere, in copia, vengono trasmesse entro dieci giorni dall'adozione al Ministero della sanita' ed al Ministero del tesoro che nei successivi trenta giorni possono esprimere osservazioni, in merito alle quali il consiglio di amministrazione e' tenuto ad adottare una nuova deliberazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                su proposta del direttore dell'Agenzia: specifica i compiti e le attribuzioni dell'Agenzia; individua le attribuzioni e le funzioni delle sezioni previste dall'art. 6 definendone il numero; definisce le disposizioni attinenti all'organizzazione interna non disciplinate dal presente regolamento.
 
 Il consiglio di amministrazione svolge ogni altro compito affidatogli dalla normativa vigente.
 

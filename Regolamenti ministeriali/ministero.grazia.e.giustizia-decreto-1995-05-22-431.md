@@ -8,8 +8,8 @@ codice_redazionale: 095G0471
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,66 @@ Entrata in vigore del decreto: 4-11-1995
 Udito il parere del Consiglio di Stato espresso dall'adunanza generale del 23 febbraio 1995;
 
 ## Art. 1. — Casi nei quali e' ammessa la dichiarazione temporaneamente sostitutiva
+
+1.
+                    
+                        
+                            Fatto salvo quanto disposto dal decreto del Presidente della Repubblica 25 gennaio 1994, n. 130, la dichiarazione temporaneamente sostitutiva di cui all'art. 3 della legge 4 gennaio 1968, n. 15, puo' riguardare per i procedimenti annotativi di competenza del Ministero di grazia e giustizia i seguenti stati, fatti o qualita' personali: 
+ 
+                        
+                        
+                            a)
+                            
+                                cariche sociali ricoperte; inesistenza delle cause di ineleggibilita' e di decadenza relative all'ufficio di amministrazione di societa', indicate nell'art. 2382 del codice civile o in altre leggi speciali; iscrizione nel registro degli esercenti il commercio tenuto dalle camere di commercio; iscrizione nel registro delle ditte tenuto presso la camera di commercio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                assenza a carico di procedure esecutive concorsuali e di procedure dirette ad irrogare misure di prevenzione della criminalita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                posizione militare nei confronti di altro Stato di cui si possiede anche la cittadinanza; assolvimento degli obblighi di leva; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                condizione di parente di disperso o irreperibile; avvenuto decesso di parenti diversi da quelli indicati nell'art. 2 della legge 4 gennaio 1968, n. 15; stato di infermita'; situazione di degenza in ospedale o in casa di cura o di riposo per anziani di parenti, coniuge o suocero; parenti a carico; orfano; portatore di handicap; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                adozione, affiliazione, affidamento, riconoscimento di figli naturali, affinita', divorzio, annullamento del matrimonio, separazione personale; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                elezione a carica pubblica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                condizione di sacerdote, diacono, religioso, con o senza voto, o ministro di culto ammesso dallo Stato; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                mancata esclusione dalla consultazione presso gli archivi notarili e di Stato.
 
 La disciplina dell'art. 2 della legge 4 gennaio 1968, n. 15, si applica integralmente e senza eccezioni ai seguenti albi ed elenchi tenuti dalla Amministrazione della giustizia: 
  albi dei periti e consulenti tecnici presso gli uffici giudiziari; albi degli ordini professionali. 

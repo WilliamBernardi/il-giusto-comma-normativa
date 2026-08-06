@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2000-11-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -35,6 +35,24 @@ Restano di competenza esclusiva della Banca d'Italia, anche nei riguardi delle b
 ## Art. 2.
 
 ((
+
+1.
+                    
+                        
+                            Sono banche a carattere regionale le banche aventi sede legale nel territorio della regione che:
+ 
+                        
+                        
+                            a)
+                            
+                                hanno un solo sportello sito in province limitrofe, oppure fino a due sportelli, sempre in province limitrofe, qualora dispongano nella regione di almeno tre sportelli;
+
+                            
+                        
+                        
+                            b)
+                            
+                                pur superando i limiti numerici di cui alla lettera a) hanno un numero di sportelli che, su conforme valutazione della Banca d'Italia, non facciano venir meno la caratteristica di banca a carattere regionale.
 
 ))
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2010-10-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -50,6 +50,117 @@ Competenze delle regioni e degli enti locali
 (decreto-legge 5 ottobre 1993, n. 398, art. 4, commi 1, 2, 3, 4, 5 e 6, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493; art. 220, regio decreto 27 luglio 1934, n. 1265)
 
 Le amministrazioni comunali, nell'ambito della propria autonomia organizzativa, provvedono, anche mediante esercizio in forma associata delle strutture ai sensi del Capo V, titolo II del decreto legislativo 18 agosto 2000, n. 267, ovvero accorpamento, disarticolazione, soppressione di uffici o organi gia' esistenti, a costituire un ufficio denominato sportello unico per l'edilizia, che cura tutti i rapporti fra il privato, l'amministrazione e, ove occorra, le altre amministrazioni tenute a pronunciarsi in ordine all'intervento edilizio oggetto della richiesta di permesso o di denuncia di inizio attivita'.
+
+2.
+                        
+                            
+                                Tale ufficio provvede in particolare: 
+
+                            
+                            
+                                a)
+                                
+                                    alla ricezione delle denunce di inizio attivita' e delle domande per il rilascio di permessi di costruire e di ogni altro atto di assenso comunque denominato in materia di attivita' edilizia, ivi compreso il certificato di agibilita', nonche' dei progetti approvati dalla Soprintendenza ai sensi e per gli effetti degli articoli 36, 38 e 46 del decreto legislativo 29 ottobre 1999, n. 490; 
+                                
+                            
+                            
+                                b)
+                                
+                                    a fornire informazioni sulle materie di cui al punto a), anche mediante predisposizione di un archivio informatico contenente i necessari elementi normativi, che consenta a chi vi abbia interesse l'accesso gratuito, anche in via telematica, alle informazioni sugli adempimenti necessari per lo svolgimento delle procedure previste dal presente regolamento, all'elenco delle domande presentate, allo stato del loro iter procedurale, nonche' a tutte le possibili informazioni utili disponibili; 
+                                
+                            
+                            
+                                c)
+                                
+                                    all'adozione, nelle medesime materie, dei provvedimenti in tema di accesso ai documenti amministrativi in favore di chiunque vi abbia interesse ai sensi dell'articolo 22 e seguenti della legge 7 agosto 1990, n. 241, nonche' delle norme comunali di attuazione; 
+                                
+                            
+                            
+                                d)
+                                
+                                    al rilascio dei permessi di costruire, dei certificati di agibilita', nonche' delle certificazioni attestanti le prescrizioni normative e le determinazioni provvedimentali a carattere urbanistico, paesaggistico ambientale, edilizio e di qualsiasi altro tipo comunque rilevanti ai fini degli interventi di trasformazione edilizia del territorio; 
+                                
+                            
+                            
+                                e)
+                                
+                                    alla cura dei rapporti tra l'amministrazione comunale, il privato e le altre amministrazioni chiamate a pronunciarsi in ordine all'intervento edilizio oggetto dell'istanza o denuncia, con particolare riferimento agli adempimenti connessi all'applicazione della parte II del testo unico.
+
+3.
+                        
+                            
+                                Ai fini del rilascio del permesso di costruire o del certificato di agibilita', l'ufficio di cui al comma 1 acquisisce direttamente, ove questi non siano stati gia' allegati dal richiedente: 
+
+                            
+                            
+                                a)
+                                
+                                    il parere dell'A.S.L. nel caso in cui non possa essere sostituito da una autocertificazione ai sensi dell'articolo 20, comma 1; 
+                                
+                            
+                            
+                                b)
+                                
+                                    il parere dei Vigili del fuoco, ove necessario, in ordine al rispetto della normativa antincendio.
+
+4.
+                        
+                            
+                                L'ufficio cura altresi' gli incombenti necessari ai fini dell'acquisizione, anche mediante conferenza di servizi ai sensi degli articoli 14, 14-bis, 14-ter, 14-quater della legge 7 agosto 1990, n. 241, degli atti di assenso, comunque denominati, necessari ai fini della realizzazione dell'intervento edilizio. Nel novero di detti assensi rientrano, in particolare: 
+
+                            
+                            
+                                a)
+                                
+                                    le autorizzazioni e certificazioni del competente ufficio tecnico della regione, per le costruzioni in zone sismiche di cui agli articoli 61, 94 e 62; 
+                                
+                            
+                            
+                                b)
+                                
+                                    l'assenso dell'amministrazione militare per le costruzioni nelle zone di salvaguardia contigue ad opere di difesa dello Stato o a stabilimenti militari, ((di cui all'articolo 333 del codice dell'ordinamento militare)); 
+                                
+                            
+                            
+                                c)
+                                
+                                    l'autorizzazione del direttore della circoscrizione doganale in caso di costruzione, spostamento e modifica di edifici nelle zone di salvaguardia in prossimita' della linea doganale e nel mare territoriale, ai sensi e per gli effetti dell'articolo 19 del decreto legislativo 8 novembre 1990, n. 374; 
+                                
+                            
+                            
+                                d)
+                                
+                                    l'autorizzazione dell'autorita' competente per le costruzioni su terreni confinanti con il demanio marittimo, ai sensi e per gli effetti dell'articolo 55 del codice della navigazione; 
+                                
+                            
+                            
+                                e)
+                                
+                                    gli atti di assenso, comunque denominati, previsti per gli interventi edilizi su immobili vincolati ai sensi degli articoli 21, 23, 24, e 151 del decreto legislativo 29 ottobre 1999, n. 490, fermo restando che, in caso di dissenso manifestato dall'amministrazione preposta alla tutela dei beni culturali, si procede ai sensi dell'articolo 25 del decreto legislativo 29 ottobre 1999, n. 490; 
+                                
+                            
+                            
+                                f)
+                                
+                                    il parere vincolante della Commissione per la salvaguardia di Venezia, ai sensi e per gli effetti dell'articolo 6 della legge 16 aprile 1973, n. 171, e successive modificazioni, salvi i casi in cui vi sia stato l'adeguamento al piano comprensoriale previsto dall'articolo 5 della stessa legge, per l'attivita' edilizia nella laguna veneta, nonche' nel territorio dei centri storici di Chioggia e di Sottomarina e nelle isole di Pellestrina, Lido e Sant'Erasmo; 
+                                
+                            
+                            
+                                g)
+                                
+                                    il parere dell'autorita' competente in tema di assetti e vincoli idrogeologici; 
+                                
+                            
+                            
+                                h)
+                                
+                                    gli assensi in materia di servitu' viarie, ferroviarie, portuali ed aeroportuali; 
+                                
+                            
+                            
+                                i)
+                                
+                                    il nulla-osta dell'autorita' competente ai sensi dell'articolo 13 della legge 6 dicembre 1991, n. 394, in tema di aree naturali protette.
 
 ## - Titolo II TITOLI ABILITATIVI Capo I Disposizioni generali
 
@@ -180,7 +291,59 @@ Ultimato l'intervento, il progettista o un tecnico abilitato rilascia un certifi
  (decreto del Presidente della Repubblica 22 aprile 1994, n. 425; 
  legge 5 novembre 1971, n. 1086, articoli 7 e 8)
 
+1.
+                        
+                            
+                                Entro quindici giorni dall'ultimazione dei lavori di finitura dell'intervento, il soggetto di cui all'articolo 24, comma 3, e' tenuto a presentare allo sportello unico la domanda di rilascio del certificato di agibilita', corredata della seguente documentazione: 
+
+                            
+                            
+                                a)
+                                
+                                    richiesta di accatastamento dell'edificio, sottoscritta dallo stesso richiedente il certificato di agibilita', che lo sportello unico provvede a trasmettere al catasto; 
+                                
+                            
+                            
+                                b)
+                                
+                                    dichiarazione sottoscritta dallo stesso richiedente il certificato di agibilita' di conformita' dell'opera rispetto al progetto approvato, nonche' in ordine alla avvenuta prosciugatura dei muri e della salubrita' degli ambienti; 
+                                
+                            
+                            
+                                c)
+                                
+                                    dichiarazione dell'impresa installatrice che attesta la conformita' degli impianti installati negli edifici adibiti ad uso civile alle prescrizioni di cui agli articoli 113 e 127, nonche' all'articolo 1 della legge 9 gennaio 1991, n. 10, ovvero certificato di collaudo degli stessi, ove previsto, ovvero ancora certificazione di conformita' degli impianti prevista dagli articoli 111 e 126 del presente testo unico.
+
 Lo sportello unico comunica al richiedente, entro dieci giorni dalla ricezione della domanda di cui al comma 1, il nominativo del responsabile del procedimento ai sensi degli articoli 4 e 5 della legge 7 agosto 1990, n. 241.
+
+3.
+                        
+                            
+                                Entro trenta giorni dalla ricezione della domanda di cui al comma 1, il dirigente o il responsabile del competente ufficio comunale, previa eventuale ispezione dell'edificio, rilascia il certificato di agibilita' verificata la seguente documentazione: 
+
+                            
+                            
+                                a)
+                                
+                                    certificato di collaudo statico di cui all'articolo 67; 
+                                
+                            
+                            
+                                b)
+                                
+                                    certificato del competente ufficio tecnico della regione, di cui all'articolo 62, attestante la conformita' delle opere eseguite nelle zone sismiche alle disposizioni di cui al capo IV della parte II; 
+                                
+                            
+                            
+                                c)
+                                
+                                    la documentazione indicata al comma 1; 
+                                
+                            
+                            
+                                d)
+                                
+                                    dichiarazione di conformita' delle opere realizzate alla normativa vigente in materia di accessibilita' e superamento delle barriere architettoniche di cui all'articolo 77, nonche' all'articolo 82.
 
 Trascorso inutilmente il termine di cui al comma 3, l'agibilita' si intende attestata nel caso sia stato rilasciato il parere dell'A.S.L. di cui all'articolo 5, comma 3, lettera a). In caso di autodichiarazione, il termine per la formazione del silenzio assenso e' di sessanta giorni.
 
@@ -331,9 +494,49 @@ Le opere di conglomerato cementizio armato, normale e precompresso ed a struttur
 
 Nella denuncia devono essere indicati i nomi ed i recapiti del committente, del progettista delle strutture, del direttore dei lavori e del costruttore.
 
+3.
+                        
+                            
+                                Alla denuncia devono essere allegati:
+
+                            
+                            
+                                a)
+                                
+                                    il progetto dell'opera in triplice copia, firmato dal progettista, dal quale risultino in modo chiaro ed esauriente le calcolazioni eseguite, l'ubicazione, il tipo, le dimensioni delle strutture, e quanto altro occorre per definire l'opera sia nei riguardi dell'esecuzione sia nei riguardi della conoscenza delle condizioni di sollecitazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    una relazione illustrativa in triplice copia firmata dal progettista e dal direttore dei lavori, dalla quale risultino le caratteristiche, le qualita' e le dosature dei materiali che verranno impiegati nella costruzione.
+
 ((Lo sportello unico restituisce al costruttore)), all'atto stesso della presentazione, una copia del progetto e della relazione con l'attestazione dell'avvenuto deposito.
 
 Anche le varianti che nel corso dei lavori si intendano introdurre alle opere di cui al comma 1, previste nel progetto originario, devono essere denunciate, prima di dare inizio alla loro esecuzione, allo sportello unico nella forma e con gli allegati previsti nel presente articolo.
+
+6.
+                        
+                            
+                                A strutture ultimate, entro il termine di sessanta giorni, il direttore dei lavori deposita presso lo sportello unico una relazione, redatta in triplice copia, sull'adempimento degli obblighi di cui ai commi 1, 2 e 3, esponendo:
+
+                            
+                            
+                                a)
+                                
+                                    i certificati delle prove sui materiali impiegati emessi da laboratori di cui all'articolo 59;
+                                
+                            
+                            
+                                b)
+                                
+                                    per le opere in conglomerato armato precompresso, ogni indicazione inerente alla tesatura dei cavi ed ai sistemi di messa in coazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esito delle eventuali prove di carico, allegando le copie dei relativi verbali firmate per copia conforme.
 
 Lo sportello unico restituisce al direttore dei lavori, all'atto stesso della presentazione, una copia della relazione di cui al comma 6 con l'attestazione dell'avvenuto deposito, e provvede a trasmettere una copia di tale relazione al competente ufficio tecnico regionale.
 

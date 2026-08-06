@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2012-11-27;265
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -62,6 +62,87 @@ Per gli atti indicati nella tabella allegato B l'importo di cui al primo comma e
 ## Art. 6. — Parametri per tasse e contributi determinati 
  in misura fissa
 
+1.
+                        
+                            
+                                Per i seguenti atti il parametro per la liquidazione delle tasse e dei contributi indicati nel presente Capo e' costituito dai seguenti importi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Euro 229, per le convenzioni urbanistiche di lottizzazione, di comparto edificatorio, per le convenzioni previste dagli articoli 17 e 18 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380, e per le convenzioni urbanistiche di contenuto analogo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Euro 91, per le altre convenzioni urbanistiche e per gli atti d'obbligo unilaterali (gli importi di cui alle lett. a e b non sono tra loro cumulabili); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Euro 91 per i seguenti atti: 
+ 1) verbale di assemblea; deliberazione di organi sociali in genere, comprese la deliberazione di fusione da parte della societa' incorporante che non contenga aumento di capitale al fine della fusione, la deliberazione di riduzione del capitale per perdite, la deliberazione di proroga della durata; modifica di patti di societa'.
+E' dovuta una sola tassa determinata in misura fissa anche se le modifiche convenute o deliberate sono piu' d'una. L'importo in misura fissa e' utilizzabile solo quando non e' applicabile l'importo determinato in misura graduale a norma dell'articolo 5; 
+ 2) costituzione di associazione e di consorzio sempreche' sia indeterminato o indeterminabile il valore del conferimento; 
+ 3) verbale di assemblea di associazioni, di consorzi e di enti in genere; 
+ 4) verbale di riunioni di organi collegiali; 
+ 5) verbale di inventario, di constatazione, di offerta reale, di apposizione e rimozione di sigilli; 
+ 6) convenzione matrimoniale diversa da quella indicata alla successiva lettera d) punto 1), che non dia luogo all'applicazione dell'importo in misura graduale; 
+ 7) accertamento di avveramento della condizione; 
+ 8) testamento pubblico; testamento internazionale; 
+ 9) pubblicazione di testamento olografo o segreto; verbale di passaggio di testamento pubblico agli atti tra vivi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Euro 46 per i seguenti atti: 
+ 1) convenzione di scelta di regime patrimoniale della famiglia; 
+ 2) accettazione di eredita' (indipendentemente dal numero degli accettanti); 
+ 3) rinuncia abdicativa in genere (indipendentemente dal numero dei rinuncianti); 
+ 4) ratifica; 
+ 5) convalida; 
+ 6) consenso a riduzione di ipoteca (liberazione parziale di beni, se non e' convenuto un corrispettivo; se e' convenuto un corrispettivo o l'atto contiene quietanza o riduzione di somma l'importo e' quello previsto nella tabella allegato B); 
+ 7) procura generale (un solo importo anche se i procuratori o i rappresentati sono piu' di uno); 
+ 8) procura soggetta a registrazione (un solo importo anche se i procuratori o i rappresentanti sono piu' di uno); 
+ 9) determinazione della percentuale di ripartizione degli utili di impresa familiare; 
+ 10) deposito di documento (verbale di); 
+ 11) quietanza di somme concesse a mutuo stipulata con atto successivo (con esclusione delle quietanze di mutui di credito fondiario, agrario ed equiparati); 
+ 12) ricevimento o ritiro di testamento segreto; 
+ 13) deposito o ritiro di testamento olografo da parte del testatore; 
+ 14) ogni altro atto di valore indeterminabile non espressamente previsto nel presente articolo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Euro 23 per i seguenti atti: 
+ 1) procura generale e speciale alle liti (un solo importo anche se i procuratori o i rappresentanti sono piu' d'uno); 
+ 2) altre procure non comprese alla precedente lett. d) (un solo importo anche se i procuratori o i rappresentanti sono piu' d'uno); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Euro 12 per i seguenti atti: 
+ 1) copia, estratto o certificato di libri di commercio, di altri registri e di documenti; 
+ 2) vidimazione di libri e di registri; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Euro 15, per gli atti di trasferimento di proprieta' o di altro diritto reale, costituzione e cancellazione di ipoteca e per gli atti di rettifica relativi ad autoveicoli, motocicli, trattori e rimorchi.
+
 ## Art. 7. — Disposizioni comuni
 
 Ove la legge stabilisce che gli onorari notarili sono ridotti, nella stessa proporzione sono ridotti le tasse e i contributi di cui al presente Capo; ove la legge stabilisce che gli onorari notarili non sono dovuti, le tasse e i contributi di cui al presente Capo non sono dovuti.
@@ -81,6 +162,31 @@ Se l'atto contiene piu' negozi distinti, sono indicati tanti importi quanti sono
 Quando l'atto comprende piu' disposizioni necessariamente connesse e derivanti per intrinseca loro natura le une dalle altre, e' considerato come se comprendesse la sola disposizione che da' luogo all'importo piu' favorevole all'Archivio notarile, alla Cassa nazionale del notariato e al Consiglio nazionale del notariato, se pure essa possa considerarsi come accessoria alle altre.
 
 L'atto dispositivo da parte di unico soggetto a favore di soggetti diversi del diritto di nuda proprieta' e del diritto di usufrutto, uso o abitazione, totale o parziale, relativamente allo stesso bene, ovvero di disposizione dei detti diritti da soggetti diversi a favore di un'unica parte, si considera unico negozio e da' luogo ad un solo importo in misura graduale.
+
+10.
+                        
+                            
+                                Per i seguenti atti il parametro per la liquidazione delle tasse e dei contributi indicati nel presente Capo e' costituito dai seguenti importi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se le firme delle parti indicate nella scrittura privata sono da autenticarsi con attestazioni separate, deve essere indicato nel repertorio, anche se le autenticazioni siano fatte da piu' notai, un solo importo ripartito in ragione del numero delle parti del negozio ed eventualmente, nell'ambito della stessa parte, in ragione del numero delle persone le cui firme sono da autenticare. Detto importo non puo' essere inferiore a Euro 11 per ogni separata attestazione quale che sia il numero delle persone le cui firme sono da autenticare. Le disposizioni del presente comma, eccettuata quella relativa all'importo minimo di Euro 11, si applicano anche agli atti di cui al precedente articolo 6, comma 1, lett. g); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se l'atto e' autenticato in piu' originali, l'importo e' di Euro 11 per ciascuno degli originali oltre il primo, salvo che per gli atti contemplati all'articolo 6, comma 1, lett. g), per i cui originali, oltre il primo, l'importo e' di Euro 5; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'atto di conferma di scrittura privata non autenticata o di riconoscimento di firma in sottoscrizione di scrittura privata, l'importo e' costituito da quello previsto in misura graduale o fissa corrispondente al contenuto della scrittura; per l'atto di deposito prescritto dall'articolo 106, n. 4, della legge 16 febbraio 1913, n. 89, l'importo e' quello graduale (con percentuale 50) o fisso corrispondente al contenuto della scrittura (in tale caso non e' dovuto l'onorario per l'atto di deposito previsto dall'articolo 6, comma 1, lett. d), n. 10).
 
 Le tasse e i contributi dovuti sulla differenza fra il maggior valore accertato ai fini tributari e quello risultante dall'atto sono liquidati dall'ufficio finanziario competente, che li riscuote e li versa secondo le modalita' previste dalla legge, trattenendo il 5 per cento.
 

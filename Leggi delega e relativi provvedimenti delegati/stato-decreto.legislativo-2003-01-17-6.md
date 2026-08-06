@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2004-03-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,970 @@ Acquisito il parere del Parlamento a norma dell'articolo 1, comma 4, della legge
 Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze e con il Ministro delle attivita' produttive;
 
 ## Art. 1. — Modifica della disciplina riguardante le societa' per azioni
+
+1.
+                    
+                        
+                            Il Capo V del Titolo V del Libro V del codice civile e' sostituito dal seguente: 
+ 
+ "Capo V societa' per azioni 
+ Sezione I 
+ Disposizioni generali 
+ 
+ 2325 (Responsabilita). - Nella societa' per azioni per le obbligazioni sociali risponde soltanto la societa' con il suo patrimonio. 
+ In caso di insolvenza della societa', per le obbligazioni sociali sorte nel periodo in cui le azioni sono appartenute ad una sola persona, questa risponde illimitatamente quando i conferimenti non siano stati effettuati secondo quanto previsto dall'articolo 2342 o fin quando non sia stata attuata la pubblicita' prescritta dall'articolo 2362. 
+ 2325-bis (Societa' che fanno ricorso al mercato del capitale di rischio). - Ai fini dell'applicazione del presente ((titolo)), sono societa' che fanno ricorso al mercato del capitale di rischio le societa' con azioni quotate in mercati regolamentati o diffuse fra il pubblico in misura rilevante. 
+ ((Le norme di questo titolo si applicano alle societa' con azioni)) quotate in mercati regolamentati in quanto non sia diversamente disposto da altre norme di questo codice o di leggi speciali. 
+ 2326 (Denominazione sociale). - La denominazione sociale, in qualunque modo formata, deve contenere l'indicazione di societa' per azioni. 
+ 2327 (Ammontare minimo del capitale). - La societa' per azioni deve costituirsi con un capitale non inferiore a centoventimila euro. 
+ 2328 (Atto costitutivo). - La societa' puo' essere costituita per contratto o per atto unilaterale. 
+ L'atto costitutivo deve essere redatto per atto pubblico e deve indicare: 
+ 1) il cognome e il nome o la denominazione, la data e il luogo di nascita o ((lo Stato)) di costituzione, il domicilio o la sede, la cittadinanza dei soci e degli eventuali promotori, nonche' il numero delle azioni assegnate a ciascuno di essi; 
+ 2) la denominazione e il comune ove sono poste la sede della societa' e le eventuali sedi secondarie; 
+ 3) l'attivita' che costituisce l'oggetto sociale; 
+ 4) l'ammontare del capitale sottoscritto e di quello versato; 
+ 5) il numero e l'eventuale valore nominale delle azioni, le loro caratteristiche e le modalita' di emissione e circolazione; 
+ 6) il valore attribuito ai crediti e beni conferiti in natura; 
+ 7) le norme secondo le quali gli utili devono essere ripartiti; 
+ 8) i benefici eventualmente accordati ai promotori o ai soci fondatori; 
+ 9) il sistema di amministrazione adottato, il numero degli amministratori e i loro poteri, indicando quali tra essi hanno la rappresentanza della societa'; 
+ 10) il numero dei componenti il collegio sindacale; 
+ 11) la nomina dei primi amministratori e sindaci ((ovvero dei componenti del consiglio di sorveglianza)) e, quando previsto, del soggetto al quale e' demandato il controllo contabile; 
+ 12) l'importo globale, almeno approssimativo, delle spese per la costituzione poste a carico della societa'; 
+ 13) la durata della societa' ovvero, se la societa' e' costituita a tempo indeterminato, il periodo di tempo, comunque non superiore ad un anno, decorso il quale il socio potra' recedere. 
+ Lo statuto contenente le norme relative al funzionamento della societa', anche se forma oggetto di atto separato, costituisce parte integrante dell'atto costitutivo. In caso di contrasto tra le clausole dell'atto costitutivo e quelle dello statuto prevalgono le seconde. 
+ 2329 (Condizioni per la costituzione). - Per procedere alla costituzione della societa' e' necessario: 
+ 1) che sia sottoscritto per intero il capitale sociale; 
+ 2) che siano rispettate le previsioni degli articoli 2342 e 2343 relative ai conferimenti; 
+ 3) che sussistano le autorizzazioni e le altre condizioni richieste dalle leggi speciali per la costituzione della societa', in relazione al suo particolare oggetto. 
+ 2330 (Deposito dell'atto costitutivo e iscrizione della societa). - Il notaio che ha ricevuto l'atto costitutivo deve depositarlo entro venti giorni presso l'ufficio del registro delle imprese nella cui circoscrizione e' stabilita la sede sociale, allegando i documenti comprovanti la sussistenza delle condizioni previste dall'articolo 2329. 
+ Se il notaio o gli amministratori non provvedono al deposito nel termine indicato nel comma precedente, ciascun socio puo' provvedervi a spese della societa'. 
+ L'iscrizione della societa' nel registro delle imprese e' richiesta contestualmente al deposito dell'atto costitutivo. L'ufficio del registro delle imprese, verificata la regolarita' formale della documentazione, iscrive la societa' nel registro. 
+ Se la societa' istituisce sedi secondarie, si applica l'articolo 2299. 
+ 2331 (Effetti dell'iscrizione). - Con l'iscrizione nel registro la societa' acquista la personalita' giuridica. 
+ Per le operazioni compiute in nome della societa' prima dell'iscrizione sono illimitatamente e solidalmente responsabili verso i terzi coloro che hanno agito. Sono altresi' solidalmente e illimitatamente responsabili il socio unico fondatore e quelli tra i soci che nell'atto costitutivo o con atto separato hanno deciso, autorizzato o consentito il compimento dell'operazione. 
+ Qualora successivamente all'iscrizione la societa' abbia approvato un'operazione prevista dal precedente comma, e' responsabile anche la societa' ed essa e' tenuta a rilevare coloro che hanno agito. 
+ Le somme depositate a norma del secondo comma dell'articolo 2342 non possono essere consegnate agli amministratori se non provano l'avvenuta iscrizione della societa' nel registro. Se entro novanta giorni dalla stipulazione dell'atto costitutivo o dal rilascio delle autorizzazioni previste dal numero 3) dell'articolo 2329 l'iscrizione non ha avuto luogo, esse sono restituite ai sottoscrittori e l'atto costitutivo perde efficacia. 
+ Prima dell'iscrizione nel registro e' vietata l'emissione delle azioni ed esse, salvo l'offerta pubblica di sottoscrizione ai sensi dell'articolo 2333, non possono costituire oggetto di una sollecitazione all'investimento. 
+ 2332 (Nullita' della societa). - Avvenuta l'iscrizione nel registro delle imprese, la nullita' della societa' puo' essere pronunciata soltanto nei seguenti casi: 
+ 1) mancata stipulazione dell'atto costitutivo nella forma dell'atto pubblico; 
+ 2) illiceita' dell'oggetto sociale; 
+ 3) mancanza nell'atto costitutivo di ogni indicazione riguardante la denominazione della societa', o i conferimenti, o l'ammontare del capitale sociale o l'oggetto sociale. 
+ La dichiarazione di nullita' non pregiudica l'efficacia degli atti compiuti in nome della societa' dopo l'iscrizione nel registro delle imprese. 
+ I soci non sono liberati dall'obbligo di conferimento fino a quando non sono soddisfatti i creditori sociali. 
+ La sentenza che dichiara la nullita' nomina i liquidatori. 
+ La nullita' non puo' essere dichiarata quando la causa di essa e' stata eliminata e di tale eliminazione e' stata data pubblicita' con iscrizione nel registro delle imprese. 
+ Il dispositivo della sentenza che dichiara la nullita' deve essere iscritto, a cura degli amministratori o dei liquidatori nominati ai sensi del quarto comma, nel registro delle imprese. 
+ 
+ Sezione II 
+ Della costituzione per pubblica sottoscrizione 
+ 
+ 2333 (Programma e sottoscrizione delle azioni). - La societa' puo' essere costituita anche per mezzo di pubblica sottoscrizione sulla base di un programma che ne indichi l'oggetto e il capitale, le principali disposizioni dell'atto costitutivo e dello statuto, l'eventuale partecipazione che i promotori si riservano agli utili e il termine entro il quale deve essere stipulato l'atto costitutivo. 
+ Il programma con le firme autenticate dei promotori, prima di essere reso pubblico, deve essere depositato presso un notaio. 
+ Le sottoscrizioni delle azioni devono risultare da atto pubblico o da scrittura privata autenticata. L'atto deve indicare il cognome e il nome o la denominazione, il domicilio o la sede del sottoscrittore, il numero delle azioni sottoscritte e la data della sottoscrizione. 
+ 2334 (Versamenti e convocazione dell'assemblea dei sottoscrittori).
+- Raccolte le sottoscrizioni, i promotori, con raccomandata o nella forma prevista nel programma, devono assegnare ai sottoscrittori un termine non superiore a trenta giorni per fare il versamento prescritto dal secondo comma dell'articolo 2342. 
+ Decorso inutilmente questo termine, e' in facolta' dei promotori di agire contro i sottoscrittori morosi o di scioglierli dall'obbligazione assunta. Qualora i promotori si avvalgano di quest'ultima facolta', non puo' procedersi alla costituzione della societa' prima che siano collocate le azioni che quelli avevano sottoscritte. 
+ Salvo che il programma stabilisca un termine diverso, i promotori, nei venti giorni successivi al termine fissato per il versamento prescritto dal primo comma del presente articolo, devono convocare l'assemblea dei sottoscrittori mediante raccomandata, da inviarsi a ciascuno di essi almeno dieci giorni prima di quello fissato per l'assemblea, con l'indicazione delle materie da trattare. 
+ 2335 (Assemblea dei sottoscrittori). - L'assemblea dei sottoscrittori: 
+ 1) accerta l'esistenza delle condizioni richieste per la costituzione della societa'; 
+ 2) delibera sul contenuto dell'atto costitutivo e dello statuto; 
+ 3) delibera sulla riserva di partecipazione agli utili fatta a proprio favore dai promotori; 
+ 4) nomina gli amministratori, ((ed i sindaci ovvero i componenti del consiglio di sorveglianza)) e, quando previsto, il soggetto cui e' demandato il controllo contabile. 
+ L'assemblea e' validamente costituita con la presenza della meta' dei sottoscrittori. 
+ Ciascun sottoscrittore ha diritto a un voto, qualunque sia il numero delle azioni sottoscritte, e per la validita' delle deliberazioni si richiede il voto favorevole della maggioranza dei presenti. 
+ Tuttavia per modificare le condizioni stabilite nel programma e' necessario il consenso di tutti i sottoscrittori. 
+ 2336 (Stipulazione e deposito dell'atto costitutivo). - Eseguito quanto e' prescritto nell'articolo precedente, gli intervenuti all'assemblea, in rappresentanza anche dei sottoscrittori assenti, stipulano l'atto costitutivo, che deve essere depositato per l'iscrizione nel registro delle imprese a norma dell'articolo 2330. 
+ 
+ Sezione III 
+ Dei promotori e dei soci fondatori 
+ 
+ 2337 (Promotori). - Sono promotori coloro che nella costituzione per pubblica sottoscrizione hanno firmato il programma a norma del secondo comma dell'articolo 2333. 
+ 2338 (Obbligazioni dei promotori). - I promotori sono solidalmente responsabili verso i terzi per le obbligazioni assunte per costituire la societa'. 
+ La societa' e' tenuta a rilevare i promotori dalle obbligazioni assunte e a rimborsare loro le spese sostenute, sempre che siano state necessarie per la costituzione della societa' o siano state approvate dall'assemblea. 
+ Se per qualsiasi ragione la societa' non si costituisce, i promotori non possono rivalersi verso i sottoscrittori delle azioni.  2339 (Responsabilita' dei promotori). - I promotori sono solidalmente responsabili verso la societa' e verso i terzi: 
+ 1) per l'integrale sottoscrizione del capitale sociale e per i versamenti richiesti per la costituzione della societa'; 
+ 2) per l'esistenza dei conferimenti in natura in conformita' della relazione giurata indicata nell'articolo 2343; 
+ 3) per la veridicita' delle comunicazioni da essi fatte al pubblico per la costituzione della societa'. 
+ Sono del pari solidalmente responsabili verso la societa' e verso i terzi coloro per conto dei quali i promotori hanno agito. 
+ 2340 (Limiti dei benefici riservati ai promotori). I promotori possono riservarsi nell'atto costitutivo, indipendentemente dalla loro qualita' di soci, una partecipazione non superiore complessivamente a un decimo degli utili netti risultanti dal bilancio e per un periodo massimo di cinque anni. 
+ Essi non possono stipulare a proprio vantaggio altro beneficio. 
+ 2341 (Soci fondatori). - La disposizione del primo comma dell'articolo 2340 si applica anche ai soci che nella costituzione simultanea o in quella per pubblica sottoscrizione stipulano l'atto costitutivo. 
+ 
+ Sezione III-bis 
+ Dei patti parasociali 
+ 
+ 2341-bis (Patti parasociali). - I patti, in qualunque forma stipulati, che al fine di stabilizzare gli assetti proprietari o il governo della societa': 
+ a) hanno per oggetto l'esercizio del diritto di voto nelle societa' per azioni o nelle societa' che le controllano; 
+ b) pongono limiti al trasferimento delle relative azioni o delle partecipazioni in societa' che le controllano; 
+ c) hanno per oggetto o per effetto l'esercizio anche congiunto di un'influenza dominante su tali societa', non possono avere durata superiore a cinque anni e si intendono stipulati per questa durata anche se le parti hanno previsto un termine maggiore; i patti sono rinnovabili alla scadenza. 
+ Qualora il patto non preveda un termine di durata, ciascun contraente ha diritto di recedere con un preavviso di centottanta giorni. 
+ Le disposizioni di questo articolo non si applicano ai patti strumentali ad accordi di collaborazione nella produzione o nello scambio di beni o servizi e relativi a societa' interamente possedute dai partecipanti all'accordo. 
+ 2341-ter (Pubblicita' dei patti parasociali). - Nelle societa' che fanno ricorso al mercato del capitale di rischio i patti parasociali devono essere comunicati alla societa' e dichiarati in apertura di ogni assemblea. La dichiarazione deve essere trascritta nel verbale e questo deve essere depositato presso l'ufficio del registro delle imprese. 
+ In caso di mancanza della dichiarazione prevista dal comma precedente i possessori delle azioni cui si riferisce il patto parasociale non possono esercitare il diritto di voto e le deliberazioni assembleari adottate con il loro voto determinante sono impugnabili a norma dell'articolo 2377. 
+ 
+ Sezione IV 
+ Dei conferimenti 
+ 
+ 2342 (Conferimenti). - Se nell'atto costitutivo non e' stabilito diversamente, il conferimento deve farsi in danaro. 
+ Alla sottoscrizione dell'atto costitutivo deve essere versato presso una banca almeno il venticinque per cento dei conferimenti in danaro o, nel caso di costituzione con atto unilaterale, il loro intero ammontare. 
+ Per i conferimenti di beni in natura e di crediti si osservano le disposizioni degli articoli 2254 e 2255. Le azioni corrispondenti a tali conferimenti devono essere integralmente liberate al momento della sottoscrizione. 
+ Se viene meno la pluralita' dei soci, i versamenti ancora dovuti devono essere effettuati entro novanta giorni. 
+ Non possono formare oggetto di conferimento le prestazioni di opera o di servizi. 
+ 2343 (Stima dei conferimenti di beni in natura e di crediti). - Chi conferisce beni in natura o crediti deve presentare la relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa', contenente la descrizione dei beni o dei crediti conferiti, l'attestazione che il loro valore e' almeno pari a quello ad essi attribuito ai fini della determinazione del capitale sociale e dell'eventuale soprapprezzo e i criteri di valutazione seguiti. La relazione deve essere allegata all'atto costitutivo. 
+ L'esperto risponde dei danni causati alla societa', ai soci e ai terzi. Si applicano le disposizioni dell'articolo 64 del codice di procedura civile. 
+ Gli amministratori devono, nel termine di centottanta giorni dalla iscrizione della societa', controllare le valutazioni contenute nella relazione indicata nel primo comma e, se sussistano fondati motivi, devono procedere alla revisione della stima. Fino a quando le valutazioni non sono state controllate, le azioni corrispondenti ai conferimenti sono inalienabili e devono restare depositate presso la societa'. 
+ Se risulta che il valore dei beni o dei crediti conferiti era inferiore di oltre un quinto a quello per cui avvenne il conferimento, la societa' deve proporzionalmente ridurre il capitale sociale, annullando le azioni che risultano scoperte. Tuttavia il socio conferente puo' versare la differenza in danaro o recedere dalla societa'; il socio recedente ha diritto alla restituzione del conferimento, qualora sia possibile in tutto o in parte in natura.
+L'atto costitutivo puo' prevedere, salvo in ogni caso quanto disposto dal quinto comma dell'articolo 2346, che per effetto dell'annullamento delle azioni disposto nel presente comma si determini una loro diversa ripartizione tra i soci. 
+ 2343-bis (Acquisto della societa' da promotori, fondatori, soci e amministratori). - L'acquisto da parte della societa', per un corrispettivo pari o superiore al decimo del capitale sociale, di beni o di crediti dei promotori, dei fondatori, dei soci o degli amministratori, nei due anni dalla iscrizione della societa' nel registro delle imprese, deve essere autorizzato dall'assemblea ordinaria. 
+ L'alienante deve presentare la relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa' contenente la descrizione dei beni o dei crediti, il valore a ciascuno di essi attribuito, i criteri di valutazione seguiti, nonche' l'attestazione che tale valore non e' inferiore al corrispettivo, che deve comunque essere indicato. 
+ La relazione deve essere depositata nella sede della societa' durante i quindici giorni che precedono l'assemblea. I soci possono prenderne visione. Entro trenta giorni dall'autorizzazione il verbale dell'assemblea, corredato dalla relazione dell'esperto designato dal tribunale, deve essere depositato a cura degli amministratori presso l'ufficio del registro delle imprese. 
+ Le disposizioni del presente articolo non si applicano agli acquisti che siano effettuati a condizioni normali nell'ambito delle operazioni correnti della societa' ne' a quelli che avvengono nei mercati regolamentati o sotto il controllo dell'autorita' giudiziaria o amministrativa. 
+ In caso di violazione delle disposizioni del presente articolo gli amministratori e l'alienante sono solidalmente responsabili per i danni causati alla societa', ai soci ed ai terzi. 
+ 2344 (Mancato pagamento delle quote). - Se il socio non esegue i pagamenti dovuti, decorsi quindici giorni dalla pubblicazione di una diffida nella Gazzetta Ufficiale della Repubblica, gli amministratori, se non ritengono utile promuovere azione per l'esecuzione del conferimento, offrono le azioni agli altri soci, in proporzione ((alla loro partecipazione)), per un corrispettivo non inferiore ai conferimenti ancora dovuti. In mancanza di offerte possono far vendere le azioni a rischio e per conto del socio, a mezzo di una banca o di un intermediario autorizzato alla negoziazione ((in mercati regolamentati)). 
+ Qualora la vendita non possa aver luogo per mancanza di compratori, gli amministratori possono dichiarare decaduto il socio, trattenendo le somme riscosse, salvo il risarcimento dei maggiori danni. 
+ Le azioni non vendute, se non possono essere rimesse in circolazione entro l'esercizio in cui fu pronunziata la decadenza del socio moroso, devono essere estinte con la corrispondente riduzione del capitale. 
+ Il socio in mora nei versamenti non puo' esercitare il diritto di voto. 
+ 2345 (Prestazioni accessorie). - Oltre l'obbligo dei conferimenti, l'atto costitutivo puo' stabilire l'obbligo dei soci di eseguire prestazioni accessorie non consistenti in danaro, determinandone il contenuto, la durata, le modalita' e il compenso, e stabilendo particolari sanzioni per il caso di inadempimento. Nella determinazione del compenso devono essere osservate le norme applicabili ai rapporti aventi per oggetto le stesse prestazioni. 
+ Le azioni alle quali e' connesso l'obbligo delle prestazioni anzidette devono essere nominative e non sono trasferibili senza il consenso degli amministratori. 
+ Se non e' diversamente disposto dall'atto costitutivo, gli obblighi previsti in questo articolo non possono essere modificati senza il consenso di tutti i soci. 
+ 
+ Sezione V 
+ Delle azioni e di altri strumenti finanziari partecipativi 
+ 
+ 2346 (Emissione delle azioni). - La partecipazione sociale e' rappresentata da azioni; salvo diversa disposizione di leggi speciali lo statuto puo' escludere l'emissione dei relativi titoli o prevedere l'utilizzazione di diverse tecniche di legittimazione e circolazione. 
+ Se determinato nello statuto, il valore nominale di ciascuna azione corrisponde ad una frazione del capitale sociale; tale determinazione deve riferirsi senza eccezioni a tutte le azioni emesse dalla societa'. 
+ In mancanza di indicazione del valore nominale delle azioni, le disposizioni che ad esso si riferiscono si applicano con riguardo al loro numero in rapporto al totale delle azioni emesse. 
+ A ciascun socio e' assegnato un numero di azioni proporzionale alla parte del capitale sociale sottoscritta e per un valore non superiore a quello del suo conferimento. L'atto costitutivo puo' prevedere una diversa assegnazione delle azioni. 
+ In nessun caso il valore dei conferimenti puo' essere complessivamente inferiore all'ammontare globale del capitale sociale. 
+ Resta salva la possibilita' che la societa', a seguito dell'apporto da parte dei soci o di terzi anche di opera o servizi, emetta strumenti finanziari forniti di diritti patrimoniali o anche di diritti amministrativi, escluso il voto nell'assemblea generale degli azionisti. In tal caso lo statuto ne disciplina le modalita' e condizioni di emissione, i diritti che conferiscono, le sanzioni in caso di inadempimento delle prestazioni e, se ammessa, la legge di circolazione. 
+ 2347 (Indivisibilita' delle azioni). - Le azioni sono indivisibili.
+Nel caso di comproprieta' di un'azione, i diritti dei comproprietari devono essere esercitati da un rappresentante comune nominato secondo le modalita' previste dagli articoli 1105 e 1106. 
+ Se il rappresentante comune non e' stato nominato, le comunicazioni e le dichiarazioni fatte dalla societa' a uno dei comproprietari sono efficaci nei confronti di tutti. 
+ I comproprietari dell'azione rispondono solidalmente delle obbligazioni da essa derivanti. 
+ 2348 (Categorie di azioni). - Le azioni devono essere di uguale valore e conferiscono ai loro possessori uguali diritti. 
+ Si possono tuttavia creare, con lo statuto o con successive modificazioni di questo, categorie di azioni fornite di diritti diversi anche per quanto concerne la incidenza delle perdite. In tal caso la societa', nei limiti imposti dalla legge, puo' liberamente determinare il contenuto delle azioni delle varie categorie. 
+ Tutte le azioni appartenenti ad una medesima categoria conferiscono uguali diritti. 
+ 2349 (Azioni e strumenti finanziari a favore dei prestatori di lavoro). - Se lo statuto lo prevede, l'assemblea straordinaria puo' deliberare l'assegnazione di utili ai prestatori di lavoro dipendenti delle societa' o di societa' controllate mediante l'emissione, per un ammontare corrispondente agli utili stessi, di speciali categorie di azioni da assegnare individualmente ai prestatori di lavoro, con norme particolari riguardo alla forma, al modo di trasferimento ed ai diritti spettanti agli azionisti. Il capitale sociale deve essere aumentato in misura corrispondente. 
+ L'assemblea straordinaria puo' altresi' deliberare l'assegnazione ai ((prestatori di lavoro)) dipendenti della societa' o di societa' controllate di strumenti finanziari, diversi dalle azioni, forniti di diritti patrimoniali o ((anche di)) diritti amministrativi, escluso il voto nell'assemblea generale degli azionisti. In tal caso possono essere previste norme particolari riguardo alle condizioni di esercizio dei diritti attribuiti, alla possibilita' di trasferimento ed alle eventuali cause di decadenza o riscatto. 
+ 2350 (Diritto agli utili e alla quota di liquidazione). - Ogni azione attribuisce il diritto a una parte proporzionale degli utili netti e del patrimonio netto risultante dalla liquidazione, salvi i diritti stabiliti a favore di speciali categorie di azioni. 
+ Fuori dai casi di cui all'articolo 2447-bis, la societa' puo' emettere azioni fornite di diritti patrimoniali correlati ai risultati dell'attivita' sociale in un determinato settore. Lo statuto stabilisce i criteri di individuazione dei costi e ricavi imputabili al settore, le modalita' di rendicontazione, i diritti attribuiti a tali azioni, nonche' ((le eventuali)) condizioni e modalita' di conversione in azioni di altra categoria. 
+ Non possono essere pagati dividendi ai possessori delle azioni previste dal precedente comma se non nei limiti degli utili risultanti dal bilancio della societa'. 
+ 2351 (Diritto di voto). - Ogni azione attribuisce il diritto di voto. 
+ Salvo quanto previsto dalle leggi speciali, lo statuto puo' prevedere la creazione di azioni senza diritto di voto, con diritto di voto limitato a particolari argomenti, con diritto di voto subordinato al verificarsi di particolari condizioni non meramente potestative. Il valore di tali azioni non puo' complessivamente superare la meta' del capitale sociale. 
+ Lo statuto delle societa' che non fanno ricorso al mercato del capitale di rischio puo' prevedere che, in relazione alla quantita' di azioni possedute da uno stesso soggetto, il diritto di voto sia limitato ad una misura massima o disporne scaglionamenti. 
+ Non possono emettersi azioni a voto plurimo. 
+ Gli strumenti finanziari di cui agli articoli 2346, sesto comma, e 2349, secondo comma, possono essere dotati del diritto di voto su argomenti specificamente indicati e in particolare puo' essere ad essi riservata, secondo modalita' stabilite dallo statuto, la nomina di un componente indipendente del consiglio di amministrazione o del consiglio di sorveglianza o di un sindaco. Alle persone cosi' nominate si applicano le medesime norme previste per gli altri componenti dell'organo cui partecipano. 
+ 2352 (Pegno, usufrutto e sequestro delle azioni). - Nel caso di pegno o usufrutto sulle azioni, il diritto di voto spetta, salvo convenzione contraria, al creditore pignoratizio o all'usufruttuario.
+Nel caso di sequestro delle azioni il diritto di voto e' esercitato dal custode. 
+ Se le azioni attribuiscono un diritto di opzione, questo spetta al socio ed al medesimo sono attribuite le azioni in base ad esso sottoscritte. Qualora il socio non provveda almeno tre giorni prima della scadenza al versamento delle somme necessarie per l'esercizio del diritto di opzione e qualora gli altri soci non si offrano di acquistarlo, questo deve essere alienato per suo conto a mezzo banca od intermediario autorizzato alla negoziazione nei mercati regolamentati. 
+ Nel caso di aumento del capitale sociale ai sensi dell'articolo 2442, il pegno, l'usufrutto o il sequestro si estendono alle azioni di nuova emissione. 
+ Se sono richiesti versamenti sulle azioni, nel caso di pegno, il socio deve provvedere al versamento delle somme necessarie almeno tre giorni prima della scadenza; in mancanza il creditore pignoratizio puo' vendere le azioni nel modo stabilito dal secondo comma del presente articolo. Nel caso di usufrutto, l'usufruttuario deve provvedere al versamento, salvo il suo diritto alla restituzione al termine dell'usufrutto. 
+ Se l'usufrutto spetta a piu' persone, si applica il secondo comma dell'articolo 2347. 
+ Salvo che dal titolo o dal provvedimento del giudice risulti diversamente, i diritti amministrativi diversi da quelli previsti nel presente articolo spettano, nel caso di pegno o di usufrutto, sia al socio sia al creditore pignoratizio o all'usufruttuario; nel caso di sequestro sono esercitati dal custode. 
+ 2353 (Azioni di godimento). - Salvo diversa disposizione dello statuto, le azioni di godimento attribuite ai possessori delle azioni rimborsate non danno diritto di voto nell'assemblea. Esse concorrono nella ripartizione degli utili che residuano dopo il pagamento delle azioni non rimborsate di un dividendo pari all'interesse legale e, nel caso di liquidazione, nella ripartizione del patrimonio sociale residuo dopo il rimborso delle altre azioni al loro valore nominale.  2354 (Titoli azionari). - I titoli possono essere nominativi o al portatore, a scelta del socio, se lo statuto o le leggi speciali non ((stabiliscono)) diversamente. 
+ Finche' le azioni non siano interamente liberate, non possono essere emessi titoli al portatore. 
+ I titoli azionari devono indicare: 
+ 1) la denominazione e la sede della societa'; 
+ 2) la data dell'atto costitutivo e della sua iscrizione e l'ufficio del registro delle imprese dove la societa' e' iscritta; 
+ 3) il loro valore nominale o, se si tratta di azioni senza valore nominale, il numero complessivo delle azioni emesse, nonche' l'ammontare del capitale sociale; 
+ 4) l'ammontare dei versamenti parziali sulle azioni non interamente liberate; 
+ 5) i diritti e gli obblighi particolari ad essi inerenti. 
+ I titoli azionari devono essere sottoscritti da uno degli amministratori. E' valida la sottoscrizione mediante riproduzione meccanica della firma. 
+ Le disposizioni di questo articolo si applicano anche ai certificati provvisori che si distribuiscono ai soci prima dell'emissione dei titoli definitivi. 
+ Sono salve le disposizioni delle leggi speciali in tema di strumenti finanziari negoziati o destinati alla negoziazione nei mercati regolamentati. 
+ Lo statuto puo' assoggettare le azioni alla disciplina prevista dalle leggi speciali di cui al precedente comma. 
+ 2355 (Circolazione delle azioni). - Nel caso di mancata emissione dei titoli azionari il trasferimento delle azioni ha effetto nei confronti della societa' dal momento dell'iscrizione nel libro dei soci. 
+ Le azioni al portatore si trasferiscono con la consegna del titolo.
+Il trasferimento delle azioni nominative si opera mediante girata autenticata da un notaio o da altro soggetto secondo quanto previsto dalle leggi speciali. Il giratario che si dimostra possessore in base a una serie continua di girate ha diritto di ottenere l'annotazione del trasferimento nel libro dei soci, ed e' comunque legittimato ad esercitare i diritti sociali; resta salvo l'obbligo della societa', previsto dalle leggi speciali, di aggiornare il libro dei soci. 
+ Il trasferimento delle azioni nominative con mezzo diverso dalla girata si opera a norma dell'articolo 2022. 
+ Nei casi previsti ai commi sesto e settimo dell'articolo 2354, il trasferimento si opera mediante scritturazione sui conti destinati a registrare i movimenti degli strumenti finanziari; in tal caso, se le azioni sono nominative, si applica il terzo comma e la scritturazione sul conto equivale alla girata. 
+ 2355-bis (Limiti alla circolazione delle azioni). - Nel caso di azioni nominative ed in quello di mancata emissione dei titoli azionari, lo statuto puo' sottoporre a particolari condizioni il loro trasferimento e puo', per un periodo non superiore a cinque anni dalla costituzione della societa' o dal momento in cui il divieto viene introdotto, vietarne il trasferimento. 
+ Le clausole dello statuto che subordinano il trasferimento delle azioni al mero gradimento di organi sociali o di altri soci sono inefficaci se non prevedono, a carico della societa' o degli altri soci, un obbligo di acquisto oppure il diritto di recesso dell' alienante; resta ferma l'applicazione dell'articolo 2357. Il corrispettivo dell'acquisto o rispettivamente la quota di liquidazione sono determinati secondo le modalita' e nella misura previste dall'articolo 2437-ter. 
+ La disposizione del precedente comma si applica in ogni ipotesi di clausole che sottopongono a particolari condizioni il trasferimento a causa di morte delle azioni, salvo che sia previsto il gradimento e questo sia concesso. 
+ Le limitazioni al trasferimento delle azioni devono risultare dal titolo. 
+ 2356 (Responsabilita' in caso di trasferimento di azioni non liberate). - Coloro che hanno trasferito azioni non liberate sono obbligati in solido con gli acquirenti per l'ammontare dei versamenti ancora dovuti, per il periodo di tre anni dall'annotazione del trasferimento nel libro dei soci. 
+ Il pagamento non puo' essere ad essi domandato se non nel caso in cui la richiesta al possessore dell'azione sia rimasta infruttuosa.  2357 (Acquisto delle proprie azioni). - La societa' non puo' acquistare azioni proprie se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. Possono essere acquistate soltanto azioni interamente liberate. 
+ L'acquisto deve essere autorizzato dall'assemblea, la quale ne fissa le modalita', indicando in particolare il numero massimo di azioni da acquistare, la durata, non superiore ai diciotto mesi, per la quale l'autorizzazione e' accordata, il corrispettivo minimo ed il corrispettivo massimo. 
+ In nessun caso il valore nominale delle azioni acquistate a norma dei commi precedenti puo' eccedere la decima parte del capitale sociale, tenendosi conto a tal fine anche delle azioni possedute da societa' controllate. 
+ Le azioni acquistate in violazione dei commi precedenti debbono essere alienate secondo modalita' da determinarsi dall'assemblea, entro un anno dal loro acquisto. In mancanza, deve procedersi senza indugio al loro annullamento e alla corrispondente riduzione del capitale. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma. 
+ Le disposizioni del presente articolo si applicano anche agli acquisti fatti per tramite di societa' fiduciaria o per interposta persona. 
+ 2357-bis (Casi speciali di acquisto delle proprie azioni). - Le limitazioni contenute nell'articolo 2357 non si applicano quando l'acquisto di azioni proprie avvenga: 
+ 1) in esecuzione di una deliberazione dell'assemblea di riduzione del capitale, da attuarsi mediante riscatto e annullamento di azioni; 
+ 2) a titolo gratuito, sempre che si tratti di azioni interamente liberate; 
+ 3) per effetto di successione universale o di fusione o scissione; 
+ 4) in occasione di esecuzione forzata per il soddisfacimento di un credito della societa', sempre che si tratti di azioni interamente liberate. 
+ Se il valore nominale delle azioni proprie supera il limite della decima parte del capitale per effetto di acquisti avvenuti a norma dei numeri 2), 3) e 4) del primo comma del presente articolo, si applica per l'eccedenza il penultimo comma dell'articolo 2357, ma il termine entro il quale deve avvenire l'alienazione e' di tre anni. 
+ 2357-ter (Disciplina delle proprie azioni). - Gli amministratori non possono disporre delle azioni acquistate a norma dei due articoli precedenti se non previa autorizzazione dell'assemblea, la quale deve stabilire le relative modalita'. A tal fine possono essere previste, nei limiti stabiliti dal primo e secondo comma dell'articolo 2357, operazioni successive di acquisto ed alienazione. 
+ Finche' le azioni restano in proprieta' della societa', il diritto agli utili e il diritto di opzione sono attribuiti proporzionalmente alle altre azioni; l'assemblea puo' tuttavia, alle condizioni previste dal primo e secondo comma dell'articolo 2357, autorizzare l'esercizio totale o parziale del diritto di opzione. Il diritto di voto e' sospeso, ma le azioni proprie sono tuttavia computate nel capitale ai fini del calcolo delle quote richieste per la costituzione e per le deliberazioni dell'assemblea. 
+ Una riserva indisponibile pari all'importo delle azioni proprie iscritto all'attivo del bilancio deve essere costituita e mantenuta finche' le azioni non siano trasferite o annullate. 
+ 2357-quater (Divieto di sottoscrizione delle proprie azioni). - Salvo quanto previsto dall'articolo 2357-ter, ((secondo comma)), la societa' non puo' sottoscrivere azioni proprie. 
+ Le azioni sottoscritte in violazione del divieto stabilito nel precedente comma si intendono sottoscritte e devono essere liberate dai promotori e dai soci fondatori o, in caso di aumento del capitale sociale, dagli amministratori. La presente disposizione non si applica a chi dimostri di essere esente da colpa. 
+ Chiunque abbia sottoscritto in nome proprio, ma per conto della societa', azioni di quest'ultima e' considerato a tutti gli effetti sottoscrittore per conto proprio. Della liberazione delle azioni rispondono solidalmente, a meno che dimostrino di essere esenti da colpa, i promotori, i soci fondatori e, nel caso di aumento del capitale sociale, gli amministratori. 
+ 2358 (Altre operazioni sulle proprie azioni). - La societa' non puo' accordare prestiti, ne' fornire garanzie per l'acquisto o la sottoscrizione delle azioni proprie. 
+ La societa' non puo', neppure per tramite di societa' fiduciaria, o per interposta persona, accettare azioni proprie in garanzia. 
+ Le disposizioni dei due commi precedenti non si applicano alle operazioni effettuate per favorire l'acquisto di azioni da parte di dipendenti della societa' o di quelli di societa' controllanti o controllate. In questi casi tuttavia le somme impiegate e le garanzie prestate debbono essere contenute nei limiti degli utili distribuibili regolarmente accertati e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. 
+ 2359 (Societa' controllate e societa' collegate). - Sono considerate societa' controllate: 
+ 1) le societa' in cui un'altra societa' dispone della maggioranza dei voti esercitabili nell'assemblea ordinaria; 
+ 2) le societa' in cui un'altra societa' dispone di voti sufficienti per esercitare un'influenza dominante nell'assemblea ordinaria; 
+ 3) le societa' che sono sotto influenza dominante di un'altra societa' in virtu' di particolari vincoli contrattuali con essa. 
+ Ai fini dell'applicazione dei numeri 1) e 2) del primo comma si computano anche i voti spettanti a societa' controllate, a societa' fiduciarie e a persona interposta: non si computano i voti spettanti per conto di terzi. 
+ Sono considerate collegate le societa' sulle quali un'altra societa' esercita un'influenza notevole. L'influenza si presume quando nell'assemblea ordinaria puo' essere esercitato almeno un quinto dei voti ovvero un decimo se la societa' ha azioni quotate in borsa. 
+ 2359-bis (Acquisto di azioni o quote da parte di societa' controllate). - La societa' controllata non puo' acquistare azioni o quote della societa' controllante se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. Possono essere acquistate soltanto azioni interamente liberate. 
+ L'acquisto deve essere autorizzato dall'assemblea a norma del secondo comma dell'articolo 2357. 
+ In nessun caso il valore nominale delle azioni o quote acquistate a norma dei commi precedenti puo' eccedere la decima parte del capitale della societa' controllante, tenendosi conto a tal fine delle azioni o quote possedute dalla medesima societa' controllante e dalle societa' da essa controllate. 
+ Una riserva indisponibile, pari all'importo delle azioni o quote della societa' controllante iscritto all'attivo del bilancio deve essere costituita e mantenuta finche' le azioni o quote non siano trasferite. 
+ La societa' controllata da altra societa' non puo' esercitare il diritto di voto nelle assemblee di questa. 
+ Le disposizioni di questo articolo si applicano anche agli acquisti 
+ fatti per il tramite di societa' fiduciaria o per interposta persona. 
+ 2359-ter (Alienazione o annullamento delle azioni o quote della societa' controllante). - Le azioni o quote acquistate in violazione dell'articolo 2359-bis devono essere alienate secondo modalita' da determinarsi dall'assemblea entro un anno dal loro acquisto. 
+ In mancanza, la societa' controllante deve procedere senza indugio al loro annullamento e alla corrispondente riduzione del capitale, con rimborso secondo i criteri indicati dagli articoli 2437-ter e 2437-quater. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma.  2359-quater (Casi speciali di acquisto o di possesso di azioni o quote della societa' controllante). - Le limitazioni dell'articolo 2359-bis non si applicano quando l'acquisto avvenga ai sensi dei numeri 2, 3 e 4 del primo comma dell'articolo 2357-bis. 
+ Le azioni o quote cosi' acquistate, che superino il limite stabilito dal terzo comma dell'articolo 2359-bis, devono tuttavia essere alienate, secondo modalita' da determinarsi dall'assemblea, entro tre anni dall'acquisto. Si applica il secondo comma dell'articolo 2359-ter. 
+ Se il limite indicato dal terzo comma dell'articolo 2359-bis e' superato per effetto di circostanze sopravvenute, la societa' controllante, entro tre anni dal momento in cui si e' verificata la circostanza che ha determinato il superamento del limite, deve procedere all'annullamento delle azioni o quote in misura proporzionale a quelle possedute da ciascuna societa', con conseguente riduzione del capitale e con rimborso alle societa' controllate secondo i criteri indicati dagli articoli 2437-ter e 2437-quater. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma.  2359-quinquies (Sottoscrizione di azioni o quote della societa' controllante). - La societa' controllata non puo' sottoscrivere azioni o quote della societa' controllante. 
+ Le azioni o quote sottoscritte in violazione del comma precedente si intendono sottoscritte e devono essere liberate dagli amministratori, che non dimostrino di essere esenti da colpa. 
+ Chiunque abbia sottoscritto in nome proprio, ma per conto della societa' controllata, azioni o quote della societa' controllante e' considerato a tutti gli effetti sottoscrittore per conto proprio.
+Della liberazione delle azioni o quote rispondono solidalmente gli amministratori della societa' controllata che non dimostrino di essere esenti da colpa. 
+ 2360 (Divieto di sottoscrizione reciproca di azioni). E' vietato alle societa' di costituire o di aumentare il capitale mediante sottoscrizione reciproca di azioni, anche per tramite di societa' fiduciaria o per interposta persona. 
+ 2361 (Partecipazioni). - L'assunzione di partecipazioni in altre imprese, anche se prevista genericamente nello statuto, non e' consentita, se per la misura e per l'oggetto della partecipazione ne risulta sostanzialmente modificato l'oggetto sociale determinato dallo statuto. 
+ L'assunzione di partecipazioni in altre imprese comportante una responsabilita' illimitata per le obbligazioni delle medesime deve essere deliberata dall'assemblea; di tali partecipazioni gli amministratori danno specifica informazione nella nota integrativa del bilancio. 
+ 2362 (Unico azionista). - Quando le azioni risultano appartenere ad una sola persona o muta la persona dell'unico socio, gli amministratori devono depositare per l'iscrizione del registro delle imprese una dichiarazione contenente l'indicazione del cognome e nome o della denominazione, della data e del luogo di nascita o ((lo Stato)) di costituzione, del domicilio o della sede e cittadinanza dell'unico socio. 
+ Quando si costituisce o ricostituisce la pluralita' dei soci, gli amministratori ne devono depositare apposita dichiarazione per l'iscrizione nel registro delle imprese. 
+ L'unico socio o colui che cessa di essere tale puo' provvedere alla pubblicita' prevista nei commi precedenti. 
+ Le dichiarazioni degli amministratori previste dai precedenti commi devono essere depositate entro trenta giorni dall'iscrizione nel libro dei soci e devono indicare la data di iscrizione. 
+ I contratti della societa' con l'unico socio o le operazioni a favore dell'unico socio sono opponibili ai creditori della societa' solo se risultano dal libro delle adunanze e delle deliberazioni del consiglio di amministrazione o da atto scritto avente data certa anteriore al pignoramento. 
+ 
+ Sezione VI 
+ Dell'assemblea 
+ 
+ 2363 (Luogo di convocazione dell'assemblea). - L'assemblea e' convocata nel comune dove ha sede la societa', se lo statuto non dispone diversamente. 
+ L'assemblea e' ordinaria o straordinaria. 
+ 2364 (Assemblea ordinaria nelle societa' prive di consiglio di sorveglianza). - Nelle societa' prive di consiglio di sorveglianza, l'assemblea ordinaria: 
+ 1) approva il bilancio; 
+ 2) nomina e revoca gli amministratori; nomina i sindaci e il presidente del collegio sindacale e, quando previsto, il soggetto al quale e' demandato il controllo contabile; 
+ 3) determina il compenso degli amministratori e dei sindaci, se non e' stabilito dallo statuto; 
+ 4) delibera sulla responsabilita' degli amministratori e dei sindaci; 
+ 5) delibera sugli altri oggetti attribuiti dalla legge alla competenza dell'assemblea, nonche' sulle autorizzazioni eventualmente richieste dallo statuto per il compimento di atti degli amministratori, ferma in ogni caso la responsabilita' di questi per gli atti compiuti; 
+ 6) approva l'eventuale regolamento dei lavori assembleari. 
+ L'assemblea ordinaria deve essere convocata almeno una volta l'anno, entro il termine stabilito dallo statuto e comunque non superiore a centoventi giorni dalla chiusura dell'esercizio sociale.
+Lo statuto puo' prevedere un maggior termine, comunque non superiore a centottanta giorni, nel caso di societa' tenute alla redazione del bilancio consolidato e quando lo richiedono particolari esigenze relative alla struttura ed all'oggetto della societa'; in questi casi gli amministratori segnalano nella relazione prevista dall'articolo 2428 le ragioni della dilazione. 
+ 2364-bis (Assemblea ordinaria nelle societa' con consiglio di sorveglianza). - Nelle societa' ove e' previsto il consiglio di sorveglianza, l'assemblea ordinaria: 
+ 1) nomina e revoca i consiglieri di sorveglianza; 
+ 2) determina il compenso ad essi spettante, se non e' stabilito nello statuto; 
+ 3) delibera sulla responsabilita' dei consiglieri di sorveglianza; 
+ 4) delibera sulla distribuzione degli utili; 
+ 5) nomina il revisore. 
+ Si applica il secondo comma dell'articolo 2364. 
+ 2365 (Assemblea straordinaria). - L'assemblea straordinaria delibera sulle modificazioni dello statuto, sulla nomina, sulla sostituzione e sui poteri dei liquidatori e su ogni altra materia espressamente attribuita dalla legge alla sua competenza. 
+ Fermo quanto disposto dagli articoli 2420-ter e 2443, lo statuto puo' attribuire alla competenza dell'organo amministrativo o del consiglio di sorveglianza o del consiglio di gestione le deliberazioni concernenti la fusione nei casi previsti dagli articoli 2505 e 2505-bis, l'istituzione o la soppressione di sedi secondarie, la indicazione di quali tra gli amministratori hanno la rappresentanza della societa', la riduzione del capitale in caso di recesso del socio, gli adeguamenti dello statuto a disposizioni normative, il trasferimento della sede sociale nel territorio nazionale. Si applica in ogni caso l'articolo 2436. 
+ 2366 (Formalita' per la convocazione). - L'assemblea e' convocata dagli amministratori o dal consiglio di gestione mediante avviso contenente l'indicazione del giorno, dell'ora e del luogo dell'adunanza e l'elenco delle materie da trattare. 
+ L'avviso deve essere pubblicato nella Gazzetta Ufficiale della Repubblica o in almeno un quotidiano indicato nello statuto almeno quindici giorni prima di quello fissato per l'assemblea. ((se i quotidiani indicati nello statuto hanno cessato le pubblicazioni, l'avviso deve essere pubblicato nella Gazzetta Ufficiale)). 
+ Lo statuto delle societa' che non fanno ricorso al mercato del capitale di rischio puo', in deroga al comma precedente, consentire la convocazione mediante avviso comunicato ai soci con mezzi che garantiscano la prova dell'avvenuto ricevimento almeno otto giorni prima dell'assemblea. 
+ In mancanza delle formalita' suddette, l'assemblea si reputa regolarmente costituita, quando e' rappresentato l'intero capitale sociale e partecipa all'assemblea la maggioranza dei componenti degli organi amministrativi e di controllo. Tuttavia in tale ipotesi ciascuno dei partecipanti puo' opporsi alla discussione degli argomenti sui quali non si ritenga sufficientemente informato. 
+ Nell'ipotesi di cui al comma precedente, dovra' essere data tempestiva comunicazione delle deliberazioni assunte ai componenti degli organi amministrativi e di controllo non presenti. 
+ 2367 (Convocazione su richiesta di soci). - Gli amministratori o il consiglio di gestione devono convocare senza ritardo l'assemblea, quando ne e' fatta domanda da tanti soci che rappresentino almeno il decimo del capitale sociale o la minore percentuale prevista nello statuto, e nella domanda sono indicati gli argomenti da trattare. 
+ Se gli amministratori o il consiglio di gestione, oppure in loro vece i sindaci o il consiglio di sorveglianza o il comitato per il controllo sulla gestione, non provvedono, il tribunale, sentiti i componenti degli organi amministrativi e di controllo, ove il rifiuto di provvedere risulti ingiustificato, ordina con decreto la convocazione dell'assemblea, designando la persona che deve presiederla. 
+ La convocazione su richiesta di soci non e' ammessa per argomenti sui quali l'assemblea delibera, a norma di legge, su proposta degli amministratori o sulla base di un progetto o di una relazione da essi predisposta. 
+ 2368 (Costituzione dell'assemblea e validita' delle deliberazioni).
+- L'assemblea ordinaria e' regolarmente costituita con l'intervento di tanti soci che rappresentino almeno la meta' del capitale sociale, escluse dal computo le azioni prive del diritto di voto nell'assemblea medesima. Essa delibera a maggioranza assoluta, salvo che lo statuto richieda una maggioranza piu' elevata. Per la nomina alle cariche sociali lo statuto puo' stabilire norme particolari. 
+ L'assemblea straordinaria delibera con il voto favorevole di tanti soci che rappresentino piu' della meta' del capitale sociale, se lo statuto non richiede una maggioranza piu' elevata. Nelle societa' che fanno ricorso al mercato del capitale di rischio l'assemblea straordinaria e' regolarmente costituita con la presenza di tanti soci che rappresentino almeno la meta' del capitale sociale o la maggiore percentuale prevista dallo statuto e delibera con il voto favorevole di almeno i due terzi del capitale rappresentato in assemblea. 
+ Salvo diversa disposizione di legge le azioni per le quali non puo' essere esercitato il diritto di voto sono computate ai fini della regolare costituzione dell'assemblea. Le medesime azioni e quelle per le quali il diritto di voto non e' stato esercitato a seguito della dichiarazione del socio di astenersi per conflitto di interessi non sono computate ai fini del calcolo della maggioranza e della quota di capitale richiesta per l'approvazione della deliberazione. 
+ 2369 (Seconda convocazione e convocazioni successive). - Se i soci partecipanti all'assemblea non rappresentano complessivamente la parte di capitale richiesta dall'articolo precedente, l'assemblea deve essere nuovamente convocata. 
+ Nell'avviso di convocazione dell'assemblea puo' essere fissato il giorno per la seconda convocazione. Questa non puo' aver luogo nello stesso giorno fissato per la prima. Se il giorno per la seconda convocazione non e' indicato nell'avviso, l'assemblea deve essere riconvocata entro trenta giorni dalla data della prima, e il termine stabilito dal secondo comma dell'articolo 2366 e' ridotto ad otto giorni. 
+ In seconda convocazione l'assemblea ordinaria delibera sugli oggetti che avrebbero dovuto essere trattati nella prima, qualunque sia la parte di capitale rappresentata dai soci partecipanti, e l'assemblea straordinaria e' regolarmente costituita con la partecipazione di oltre un terzo del capitale sociale e delibera con il voto favorevole di almeno i due terzi del capitale rappresentato in assemblea. 
+ Lo statuto puo' richiedere maggioranze piu' elevate, tranne che per l'approvazione del bilancio e per la nomina e la revoca delle cariche sociali. 
+ Nelle societa' che non fanno ricorso al mercato del capitale di rischio e' necessario, anche in seconda convocazione, il voto favorevole di tanti soci che rappresentino piu' di un terzo del capitale sociale per le deliberazioni concernenti il cambiamento dell'oggetto sociale, la trasformazione della societa', lo scioglimento anticipato, la proroga della societa', la revoca dello stato di liquidazione, il trasferimento della sede sociale all'estero ((e l'emissione delle azioni di cui al secondo comma dell'articolo 2351.)) 
+ Lo statuto puo' prevedere eventuali ulteriori convocazioni dell'assemblea, alle quali si applicano le disposizioni del terzo, quarto e quinto comma. 
+ Nelle societa' che fanno ricorso al mercato del capitale di rischio l'assemblea straordinaria e' costituita, nelle convocazioni successive alla seconda, con la presenza di tanti soci che rappresentino almeno un quinto del capitale sociale, salvo che lo statuto richieda una quota di capitale piu' elevata. 
+ 2370 (Diritto d'intervento all'assemblea ed esercizio del voto). - Possono intervenire all'assemblea gli azionisti cui spetta il diritto di voto. 
+ Lo statuto puo' richiedere il preventivo deposito delle azioni o della relativa certificazione presso la sede sociale o le banche indicate nell'avviso di convocazione, fissando il termine entro il quale debbono essere depositate ed eventualmente prevedendo che non possano essere ritirate prima che l'assemblea abbia avuto luogo.
+Nelle societa' che fanno ricorso al mercato del capitale di rischio il termine non puo' essere superiore a due giorni e, nei casi previsti dai commi sesto e settimo dell'articolo 2354, il deposito e' sostituito da una comunicazione dell'intermediario che tiene i relativi conti. 
+ Se le azioni sono nominative, la societa' provvede all'iscrizione nel libro dei soci di coloro che hanno partecipato all'assemblea o che hanno effettuato il deposito, ovvero che risultino dalla comunicazione dell'intermediario di cui al comma precedente. 
+ Lo statuto puo' consentire l'intervento all'assemblea mediante mezzi di telecomunicazione o l'espressione del voto per corrispondenza. Chi esprime il voto per corrispondenza si considera intervenuto all'assemblea. 
+ 2371 (Presidenza dell'assemblea). - L'assemblea e' presieduta dalla persona indicata nello statuto o, in mancanza, da quella eletta con il voto della maggioranza dei presenti. Il presidente e' assistito da un segretario designato nello stesso modo. Il presidente dell'assemblea verifica la regolarita' della costituzione, accerta l'identita' e la legittimazione dei presenti, regola il suo svolgimento ed accerta i risultati delle votazioni; degli esiti di tali accertamenti deve essere dato conto nel verbale. 
+ L'assistenza del segretario non e' necessaria quando il verbale dell'assemblea e' redatto da un notaio. 
+ 2372 (Rappresentanza nell'assemblea). - Salvo disposizione contraria dello statuto, i soci possono farsi rappresentare nell'assemblea. La rappresentanza deve essere conferita per iscritto e i documenti relativi devono essere conservati dalla societa'. 
+ Nelle societa' che fanno ricorso al mercato del capitale di rischio la rappresentanza puo' essere conferita solo per singole assemblee, con effetto anche per le successive convocazioni, salvo che si tratti di procura generale o di procura conferita da una societa', associazione, fondazione o altro ente collettivo o istituzione ad un proprio dipendente. 
+ La delega non puo' essere rilasciata con il nome del rappresentante in bianco ed e' sempre revocabile nonostante ogni patto contrario. Il rappresentante puo' farsi sostituire solo da chi sia espressamente indicato nella delega. 
+ Se la rappresentanza e' conferita ad una societa', associazione, fondazione od altro ente collettivo o istituzione, questi possono delegare soltanto un proprio dipendente o collaboratore. 
+ La rappresentanza non puo' essere conferita ne' ai membri degli organi amministrativi o di controllo o ai dipendenti della societa', ne' alle societa' da essa controllate o ai membri degli organi amministrativi o di controllo o ai dipendenti di queste. 
+ La stessa persona non puo' rappresentare in assemblea piu' di venti soci o, se si tratta di societa' previste nel secondo comma di questo articolo, piu' di cinquanta soci se la societa' ha capitale non superiore a cinque milioni di euro, piu' di cento soci se la societa' ha capitale superiore a cinque milioni di euro e non superiore a venticinque milioni di euro, e piu' di duecento soci se la societa' ha capitale superiore a venticinque milioni di euro. 
+ Le disposizioni del quinto e del sesto comma di questo articolo si applicano anche nel caso di girata delle azioni per procura. 
+ 2373 (Conflitto d'interessi). - La deliberazione approvata con il voto determinante di soci che abbiano, per conto proprio o di terzi, un interesse in conflitto con quello della societa' e' impugnabile a norma dell'articolo 2377 qualora possa recarle danno. 
+ Gli amministratori non possono votare nelle deliberazioni riguardanti la loro responsabilita'. I componenti del consiglio di gestione non possono votare nelle deliberazioni riguardanti la nomina, la revoca o la responsabilita' dei consiglieri di sorveglianza. 
+ 2374 (Rinvio dell'assemblea). - I soci intervenuti che riuniscono un terzo del capitale rappresentato nell'assemblea, se dichiarano di non essere sufficientemente informati sugli oggetti posti in deliberazione, possono chiedere che l'assemblea sia rinviata a non oltre cinque giorni. 
+ Questo diritto non puo' esercitarsi che una sola volta per lo stesso oggetto. 
+ 2375 (Verbale delle deliberazioni dell'assemblea). - Le deliberazioni dell'assemblea devono constare da verbale sottoscritto dal presidente e dal segretario o dal notaio. Il verbale deve indicare la data dell'assemblea e, anche in allegato, l'identita' dei partecipanti e il capitale rappresentato da ciascuno; deve altresi' indicare le modalita' e il risultato delle votazioni e deve consentire, anche per allegato, l'identificazione dei soci favorevoli, astenuti o dissenzienti. Nel verbale devono essere riassunte, su richiesta dei soci, le loro dichiarazioni pertinenti all'ordine del giorno. 
+ Il verbale dell'assemblea straordinaria deve essere redatto da un notaio. 
+ Il verbale deve essere redatto senza ritardo, nei tempi necessari per la tempestiva esecuzione degli obblighi di deposito o di pubblicazione. 
+ 2376 (Assemblee speciali). - Se esistono diverse categorie di azioni o strumenti finanziari che conferiscono diritti amministrativi, le deliberazioni dell'assemblea, che pregiudicano i diritti di una di esse, devono essere approvate anche dall'assemblea speciale degli appartenenti alla categoria interessata. 
+ Alle assemblee speciali si applicano le disposizioni relative alle assemblee straordinarie. 
+ 2377 (Annullabilita' delle deliberazioni). - ((Le deliberazioni dell'assemblea, prese in conformita' della legge e dell'atto sostitutivo, vincolano tutti i soci, ancorche' non intervenuti o dissenzienti)). 
+ Le deliberazioni che non sono prese in conformita' della legge o dello statuto possono essere impugnate dai soci assenti, dissenzienti od astenuti, dagli amministratori, dal consiglio di sorveglianza e dal collegio sindacale. 
+ L'impugnazione puo' essere proposta dai soci quando possiedono tante azioni aventi diritto di voto con riferimento alla deliberazione che rappresentino, anche congiuntamente, l'uno per mille del capitale sociale nelle societa' che fanno ricorso al mercato del capitale di rischio e il cinque per cento nelle altre; lo statuto puo' ridurre o escludere questo requisito. Per l'impugnazione delle deliberazioni delle assemblee speciali queste percentuali sono riferite al capitale rappresentato dalle azioni della categoria. 
+ I soci che non rappresentano la parte di capitale indicata nel comma precedente e quelli che, in quanto privi di voto, non sono legittimati a proporre l'impugnativa hanno diritto al risarcimento del danno loro cagionato dalla non conformita' della deliberazione alla legge o allo statuto. 
+ La deliberazione non puo' essere annullata: 
+ 1) per la partecipazione all'assemblea di persone non legittimate, salvo che tale partecipazione sia stata determinante ai fini della regolare costituzione dell'assemblea a norma degli articoli 2368 e 2369; 
+ 2) per l'invalidita' di singoli voti o per il loro errato conteggio, salvo che il voto invalido o l'errore di conteggio siano stati determinanti ai fini del raggiungimento della maggioranza richiesta; 
+ 3) per l'incompletezza o l'inesattezza del verbale, salvo che impediscano l'accertamento del contenuto, degli effetti e della validita' della deliberazione. 
+ L'impugnazione o la domanda di risarcimento del danno sono proposte nel termine di novanta giorni dalla data della deliberazione, ovvero, se questa e' soggetta ad iscrizione nel registro delle imprese, entro novanta giorni dall'iscrizione o, se e' soggetta solo a deposito presso l'ufficio del registro delle imprese, entro novanta giorni dalla data di questo. 
+ L'annullamento della deliberazione ha effetto rispetto a tutti i soci ed obbliga gli amministratori, il consiglio di sorveglianza e il consiglio di gestione a prendere i conseguenti provvedimenti sotto la propria responsabilita'. In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione della deliberazione. 
+ L'annullamento della deliberazione non puo' aver luogo, se la deliberazione impugnata e' sostituita con altra presa in conformita' della legge e dello statuto. In tal caso il giudice provvede sulle spese di lite, ponendole di norma a carico della societa', e sul risarcimento dell'eventuale danno. 
+ Restano salvi i diritti acquisiti dai terzi sulla base della deliberazione sostituita. 
+ 2378 (Procedimento d'impugnazione). - L'impugnazione e' proposta con atto di citazione davanti al tribunale del luogo dove la societa' ha sede. 
+ Il socio o i soci opponenti devono dimostrarsi possessori al tempo dell'impugnazione del numero delle azioni previsto dal ((terzo comma)) dell'articolo 2377. Fermo restando quanto disposto dall'articolo 111 del codice di procedura civile, qualora nel corso del processo venga meno a seguito di trasferimenti per atto tra vivi il richiesto numero delle azioni, il giudice, previa se del caso revoca del provvedimento di sospensione dell'esecuzione della deliberazione, non puo' pronunciare l'annullamento e provvede sul risarcimento dell'eventuale danno, ove richiesto. 
+ Con ricorso depositato contestualmente al deposito, anche in copia, della citazione, l'impugnante puo' chiedere la sospensione dell'esecuzione della deliberazione. In caso di eccezionale e motivata urgenza, il presidente del tribunale, omessa la convocazione della societa' convenuta, provvede sull'istanza con decreto motivato, che deve altresi' contenere la designazione del giudice per la trattazione della causa di merito e la fissazione, davanti al giudice designato, entro quindici giorni, dell'udienza per la conferma, modifica o revoca dei provvedimenti emanati con il decreto, nonche' la fissazione del termine per la notificazione alla controparte del ricorso e del decreto. 
+ Il giudice designato per la trattazione della causa di merito, sentiti gli amministratori e sindaci, provvede valutando comparativamente il pregiudizio che subirebbe il ricorrente dalla esecuzione e quello che subirebbe la societa' dalla sospensione dell'esecuzione della deliberazione; puo' disporre in ogni momento che i soci opponenti prestino idonea garanzia per l'eventuale risarcimento dei danni. All'udienza, il giudice, ove lo ritenga utile, esperisce il tentativo di conciliazione eventualmente suggerendo le modificazioni da apportare alla deliberazione impugnata e, ove la soluzione appaia realizzabile, rinvia adeguatamente l'udienza. 
+ Tutte le impugnazioni relative alla medesima deliberazione, anche se separatamente proposte ed ivi comprese le domande proposte ai sensi del ((quarto comma)) dell'articolo 2377, devono essere istruite congiuntamente e decise con unica sentenza. Salvo quanto disposto dal quarto comma del presente articolo, la trattazione della causa di merito ha inizio trascorso il termine stabilito nel ((sesto comma)) dell'articolo 2377. 
+ ((I dispositivi del provvedimento di sospensione e della sentenza che decide sull'impugnazione devono essere iscritti, a cura degli amministratori, nel registro delle imprese)). 
+ 2379 (Nullita' delle deliberazioni). - Nei casi di mancata convocazione dell'assemblea, di mancanza del verbale e di impossibilita' o illiceita' dell'oggetto la deliberazione puo' essere impugnata da chiunque vi abbia interesse entro tre anni dalla sua iscrizione o deposito nel registro delle imprese, se la deliberazione vi e' soggetta, o dalla trascrizione nel libro delle adunanze dell'assemblea, se la deliberazione non e' soggetta ne' a iscrizione ne' a deposito. Possono essere impugnate senza limiti di tempo le deliberazioni che modificano l'oggetto sociale prevedendo attivita' illecite o impossibili. 
+ Nei casi e nei termini previsti dal precedente comma l'invalidita' puo' essere rilevata d'ufficio dal giudice. 
+ Ai fini di quanto previsto dal primo comma la convocazione non si considera mancante nel caso d'irregolarita' dell'avviso, se questo proviene da un componente dell'organo di amministrazione o di controllo della societa' ed e' idoneo a consentire a coloro che hanno diritto di intervenire di essere ((preventivamente)) avvertiti della convocazione e della data dell'assemblea. Il verbale non si considera mancante se contiene la data della deliberazione e il suo oggetto ed e' sottoscritto dal presidente dell'assemblea, o dal presidente del consiglio d'amministrazione o del consiglio di sorveglianza e dal segretario o dal notaio. 
+ Si applicano, in quanto compatibili, il ((settimo e ottavo comma)) dell'articolo 2377. 
+ 2379-bis (Sanatoria della nullita). - L'impugnazione della deliberazione invalida per mancata convocazione non puo' essere esercitata da chi anche successivamente abbia dichiarato il suo assenso allo svolgimento dell'assemblea. 
+ L'invalidita' della deliberazione per mancanza del verbale puo' essere sanata mediante verbalizzazione eseguita prima dell'assemblea successiva. La deliberazione ha effetto dalla data in cui e' stata presa, salvi i diritti dei terzi che in buona fede ignoravano la deliberazione. 
+ 2379-ter (Invalidita' delle deliberazioni di aumento o di riduzione del capitale e della emissione di obbligazioni). - Nei casi previsti dall'articolo 2379 l'impugnativa dell'aumento di capitale, della riduzione del capitale ai sensi dell'articolo 2445 o della emissione di obbligazioni non puo' essere proposta dopo che siano trascorsi centottanta giorni dall'iscrizione della deliberazione nel registro delle imprese o, nel caso di mancata convocazione, novanta giorni dall'approvazione del bilancio dell'esercizio nel corso del quale la deliberazione e' stata anche parzialmente eseguita. 
+ Nelle societa' che fanno ricorso al mercato del capitale di rischio l'invalidita' della deliberazione di aumento del capitale non puo' essere pronunciata dopo che a norma dell'articolo 2444 sia stata iscritta nel registro delle imprese l'attestazione che l'aumento e' stato anche parzialmente eseguito; l'invalidita' della deliberazione di riduzione del capitale ai sensi dell'articolo 2445 o della deliberazione di emissione delle obbligazioni non puo' essere pronunciata dopo che la deliberazione sia stata anche parzialmente eseguita. 
+ Resta salvo il diritto al risarcimento del danno eventualmente spettante ai soci e ai terzi. 
+ 
+ Sezione VI-bis 
+ Dell'amministrazione e del controllo 
+ 
+1. Disposizioni generali. 
+ 2380 (Sistemi di amministrazione e di controllo). - Se lo statuto non dispone diversamente, l'amministrazione e il controllo della societa' sono regolati dai successivi paragrafi 2, 3 e 4. 
+ Lo statuto puo' adottare per l'amministrazione e per il controllo della societa' il sistema di cui al paragrafo 5, oppure quello di cui al paragrafo 6; salvo che la deliberazione disponga altrimenti, la variazione di sistema ha effetto alla data dell'assemblea convocata per l'approvazione del bilancio relativo all'esercizio successivo. 
+ Salvo che sia diversamente stabilito, le disposizioni che fanno riferimento agli amministratori si applicano a seconda dei casi al consiglio di amministrazione o al consiglio di gestione. 
+2. Degli amministratori. 
+ 2380-bis (Amministrazione della societa). - La gestione dell'impresa spetta esclusivamente agli amministratori, i quali compiono le operazioni necessarie per l'attuazione dell'oggetto sociale. 
+ L'amministrazione della societa' puo' essere affidata anche a non soci. 
+ Quando l'amministrazione e' affidata a piu' persone, queste costituiscono il consiglio di amministrazione. 
+ Se lo statuto non stabilisce il numero degli amministratori, ma ne indica solamente un numero massimo e minimo, la determinazione spetta all'assemblea. 
+ Il consiglio di amministrazione sceglie tra i suoi componenti il presidente, se questi non e' nominato dall'assemblea. 
+ 2381 (Presidente, comitato esecutivo e amministratori delegati). - Salvo diversa previsione dello statuto, il presidente convoca il consiglio di amministrazione, ne fissa l'ordine del giorno, ne coordina i lavori e provvede affinche' adeguate informazioni sulle materie iscritte all'ordine del giorno vengano fornite a tutti i consiglieri. 
+ Se lo statuto o l'assemblea lo consentono, il consiglio di amministrazione puo' delegare proprie attribuzioni ad un comitato esecutivo composto da alcuni dei suoi componenti, o ad uno o piu' dei suoi componenti. 
+ Il consiglio di amministrazione determina il contenuto, i limiti e le eventuali modalita' di esercizio della delega; puo' sempre impartire direttive agli organi delegati e avocare a se' operazioni rientranti nella delega. Sulla base delle informazioni ricevute valuta l'adeguatezza dell'assetto organizzativo, amministrativo e contabile della societa'; quando elaborati, esamina i piani strategici, industriali e finanziari della societa'; valuta, sulla base della relazione degli organi delegati, il generale andamento della gestione. 
+ Non possono essere delegate le attribuzioni indicate negli articoli 2420-ter, 2423, 2443, 2446, 2447, 2501-ter e 2506-bis. 
+ Gli organi delegati curano che l'assetto organizzativo, amministrativo e contabile sia adeguato alla natura e alle dimensioni dell'impresa e riferiscono al consiglio di amministrazione e al collegio sindacale, con la periodicita' fissata dallo statuto e in ogni caso almeno ogni ((sei mesi)), sul generale andamento della gestione e sulla sua prevedibile evoluzione nonche' sulle operazioni di maggior rilievo, per le loro dimensioni o caratteristiche, effettuate dalla societa' e dalle sue controllate. 
+ Gli amministratori sono tenuti ad agire in modo informato; ciascun amministratore puo' chiedere agli organi delegati che in consiglio siano fornite informazioni relative alla gestione della societa'. 
+ 2382 (Cause di ineleggibilita' e di decadenza). - Non puo' essere nominato amministratore, e se nominato decade dal suo ufficio, l'interdetto, l'inabilitato, il fallito, o chi e' stato condannato ad una pena che importa l'interdizione, anche temporanea, dai pubblici uffici o l'incapacita' ad esercitare uffici direttivi. 
+ 2383 (Nomina e revoca degli amministratori). - La nomina degli amministratori spetta all'assemblea, fatta eccezione per i primi amministratori, che sono nominati nell'atto costitutivo, e salvo il disposto degli articoli 2351, 2449 e 2450. 
+ Gli amministratori non possono essere nominati per un periodo superiore a tre esercizi, e scadono alla data dell'assemblea convocata per l'approvazione del bilancio relativo all'ultimo esercizio della loro carica. 
+ Gli amministratori sono rieleggibili, salvo diversa disposizione dello statuto, e sono revocabili dall'assemblea in qualunque tempo, anche se nominati nell'atto costitutivo, salvo il diritto dell'amministratore al risarcimento dei danni, se la revoca avviene senza giusta causa. 
+ Entro trenta giorni dalla notizia della loro nomina gli amministratori devono chiederne l'iscrizione nel registro delle imprese indicando per ciascuno di essi il cognome e il nome, il luogo e la data di nascita, il domicilio e la cittadinanza, nonche' a quali tra essi e' attribuita la rappresentanza della societa', precisando se disgiuntamente o congiuntamente. 
+ Le cause di nullita' o di annullabilita' della nomina degli amministratori che hanno la rappresentanza della societa' non sono opponibili ai terzi dopo l'adempimento della pubblicita' di cui al quarto comma, salvo che la societa' provi che i terzi ne erano a conoscenza. 
+ 2384 (Poteri di rappresentanza). - Il potere di rappresentanza attribuito agli amministratori dallo statuto o dalla deliberazione di nomina e' generale. 
+ Le limitazioni ai poteri degli amministratori che risultano dallo statuto o da una decisione degli organi competenti non sono opponibili ai terzi, anche se pubblicate, salvo che si provi che questi abbiano intenzionalmente agito a danno della societa'. 
+ 2385 (Cessazione degli amministratori). - L'amministratore che rinunzia all'ufficio deve darne comunicazione scritta al consiglio d'amministrazione e al presidente del collegio sindacale. La rinunzia ha effetto immediato, se rimane in carica la maggioranza del consiglio di amministrazione, o, in caso contrario, dal momento in cui la maggioranza del consiglio si e' ricostituita in seguito all'accettazione dei nuovi amministratori. 
+ La cessazione degli amministratori per scadenza del termine ha effetto dal momento in cui il consiglio di amministrazione e' stato ricostituito. 
+ La cessazione degli amministratori dall'ufficio per qualsiasi causa deve essere iscritta entro trenta giorni nel registro delle imprese a cura del collegio sindacale. 
+ 2386 (Sostituzione degli amministratori). - Se nel corso dell'esercizio vengono a mancare uno o piu' amministratori, gli altri provvedono a sostituirli con deliberazione approvata dal collegio sindacale, purche' la maggioranza sia sempre costituita da amministratori nominati dall'assemblea. Gli amministratori cosi' nominati restano in carica fino alla prossima assemblea. 
+ Se viene meno la maggioranza degli amministratori nominati dall'assemblea, quelli rimasti in carica devono convocare l'assemblea perche' provveda alla sostituzione dei mancanti. 
+ Salvo diversa disposizione dello statuto o dell'assemblea, gli amministratori nominati ai sensi del comma precedente scadono insieme con quelli in carica all'atto della loro nomina. 
+ Se particolari disposizioni dello statuto prevedono che a seguito della cessazione di taluni amministratori cessi l'intero consiglio, l'assemblea per la nomina del nuovo consiglio e' convocata d'urgenza dagli amministratori rimasti in carica; lo statuto puo' tuttavia prevedere l'applicazione in tal caso di quanto disposto nel successivo comma. 
+ Se vengono a cessare l'amministratore unico o tutti gli amministratori, l'assemblea per la nomina dell'amministratore o dell'intero consiglio deve essere convocata d'urgenza dal collegio sindacale, il quale puo' compiere nel frattempo gli atti di ordinaria amministrazione. 
+ 2387 (Requisiti di onorabilita', professionalita' e indipendenza).
+- Lo statuto puo' subordinare l'assunzione della carica di amministratore al possesso di speciali requisiti di onorabilita', professionalita' ed indipendenza, anche con riferimento ai requisiti al riguardo previsti da codici di comportamento redatti da associazioni di categoria o da societa' di gestione di mercati regolamentati. Si applica in tal caso l'articolo 2382. 
+ Resta salvo quanto previsto da leggi speciali in relazione all'esercizio di particolari attivita'. 
+ 2388 (Validita' delle deliberazioni del consiglio). - Per la validita' delle deliberazioni del consiglio di amministrazione e' necessaria la presenza della maggioranza degli amministratori in carica, quando lo statuto non richiede un maggior numero di presenti.
+Lo statuto puo' prevedere che la presenza alle riunioni del consiglio avvenga anche mediante mezzi di telecomunicazione. 
+ Le deliberazioni del consiglio di amministrazione sono prese a maggioranza assoluta dei presenti, salvo diversa disposizione dello statuto. 
+ Il voto non puo' essere dato per rappresentanza. 
+ Le deliberazioni che non sono prese in conformita' della legge o dello statuto possono essere impugnate solo dal collegio sindacale e dagli amministratori assenti o dissenzienti entro novanta giorni dalla data della deliberazione; si applica in quanto compatibile l'articolo 2378. Possono essere altresi' impugnate dai soci le deliberazioni lesive dei loro diritti; si applicano in tal caso, in quanto compatibili, gli articoli 2377 e 2378 
+ In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione delle deliberazioni. 
+ 2389 (Compensi degli amministratori). - I compensi spettanti ai membri del consiglio di amministrazione e del comitato esecutivo sono stabiliti all'atto della nomina o dall'assemblea. 
+ Essi possono essere costituiti in tutto o in parte da partecipazioni agli utili o dall'attribuzione del diritto di sottoscrivere a prezzo predeterminato azioni di futura emissione. 
+ La rimunerazione degli amministratori investiti di particolari cariche in conformita' dello statuto e' stabilita dal consiglio di amministrazione, sentito il parere del collegio sindacale. Se lo statuto lo prevede, l'assemblea puo' determinare un importo complessivo per la remunerazione di tutti gli amministratori, inclusi quelli investiti di particolari cariche. 
+ 2390 (Divieto di concorrenza). - Gli amministratori non possono assumere la qualita' di soci illimitatamente responsabili in societa' concorrenti, ne' esercitare un'attivita' concorrente per conto proprio o di terzi, ne' essere amministratori o direttori generali in societa' concorrenti, salvo autorizzazione dell'assemblea. 
+ Per l'inosservanza di tale divieto l'amministratore puo' essere revocato dall'ufficio e risponde dei danni. 
+ 2391 (Interessi degli amministratori). - L'amministratore deve dare notizia agli altri amministratori e al collegio sindacale di ogni interesse che, per conto proprio o di terzi, abbia in una determinata operazione della societa', precisandone la natura, i termini, l'origine e la portata; se si tratta di amministratore delegato, deve altresi' astenersi dal compiere l'operazione, investendo della stessa l'organo collegiale. 
+ Nei casi previsti dal precedente comma la deliberazione del consiglio di amministrazione deve adeguatamente motivare le ragioni e la convenienza per la societa' dell'operazione. 
+ Nei casi di inosservanza a quanto disposto nei due precedenti commi del presente articolo ovvero nel caso di deliberazioni del consiglio o del comitato esecutivo adottate con il voto determinante dell'amministratore interessato, le deliberazioni medesime, qualora possano recare danno alla societa', possono essere impugnate dagli amministratori e dal collegio sindacale entro novanta giorni dalla loro data; l'impugnazione non puo' essere proposta da chi ha consentito con il proprio voto alla deliberazione se sono stati adempiuti gli obblighi di informazione previsti dal primo comma. In ogni caso sono salvi i diritti acquistati in buona fede dai terzi in base ad atti compiuti in esecuzione della deliberazione. 
+ L'amministratore risponde dei danni derivati alla societa' dalla sua azione od omissione. 
+ L'amministratore risponde altresi' dei danni che siano derivati alla societa' dalla utilizzazione a vantaggio proprio o di terzi di dati, notizie o opportunita' di affari appresi nell'esercizio del suo incarico. 
+ 2392 (Responsabilita' verso la societa). - Gli amministratori devono adempiere i doveri ad essi imposti dalla legge e dallo statuto con la diligenza richiesta dalla natura dell'incarico e dalle loro specifiche competenze. Essi sono solidalmente responsabili verso la societa' dei danni derivanti dall'inosservanza di tali doveri, a meno che si tratti di attribuzioni proprie del comitato esecutivo o di funzioni in concreto attribuite ad uno o piu' amministratori. 
+ In ogni caso gli amministratori, fermo quanto disposto dal comma terzo dell'articolo 2381, sono solidalmente responsabili se, essendo a conoscenza di fatti pregiudizievoli, non hanno fatto quanto potevano per impedirne il compimento o eliminarne o attenuarne le conseguenze dannose. 
+ La responsabilita' per gli atti o le omissioni degli amministratori non si estende a quello tra essi che, essendo immune da colpa, abbia fatto annotare senza ritardo il suo dissenso nel libro delle adunanze e delle deliberazioni del consiglio, dandone immediata notizia per iscritto al presidente del collegio sindacale. 
+ 2393 (Azione sociale di responsabilita). - L'azione di responsabilita' contro gli amministratori e' promossa in seguito a deliberazione dell'assemblea, anche se la societa' e' in liquidazione. 
+ La deliberazione concernente la responsabilita' degli amministratori puo' essere presa in occasione della discussione del bilancio, anche se non e' indicata nell'elenco delle materie da trattare, quando si tratta di fatti di competenza dell'esercizio cui si riferisce il bilancio. 
+ L'azione puo' essere esercitata entro cinque anni dalla cessazione dell'amministratore dalla carica. 
+ La deliberazione dell'azione di responsabilita' importa la revoca dall'ufficio degli amministratori contro cui e' proposta, purche' sia presa col voto favorevole di almeno un quinto del capitale sociale.
+In questo caso l'assemblea stessa provvede alla loro sostituzione. 
+ La societa' puo' rinunziare all'esercizio dell'azione di responsabilita' e puo' transigere, purche' la rinunzia e la transazione siano approvate con espressa deliberazione dell'assemblea, e purche' non vi sia il voto contrario di una minoranza di soci che rappresenti almeno il quinto del capitale sociale o, nelle societa' che fanno ricorso al mercato del capitale di rischio, almeno un ventesimo del capitale sociale, ovvero la misura prevista nello statuto per l'esercizio dell'azione sociale di responsabilita' ai sensi dei commi primo e secondo dell'articolo 2393-bis. 
+ 2393-bis (Azione sociale di responsabilita' esercitata dai soci). - L'azione sociale di responsabilita' puo' essere esercitata anche dai soci che rappresentino almeno un quinto del capitale sociale o la diversa misura prevista nello statuto, comunque non superiore al terzo. 
+ Nelle societa' che fanno ricorso al mercato del capitale di rischio, l'azione di cui al comma precedente puo' essere esercitata dai soci che rappresentino un ventesimo del capitale sociale o la minore misura prevista nello statuto. 
+ La societa' deve essere chiamata in giudizio e l'atto di citazione e' ad essa notificato anche in persona del presidente del collegio sindacale. 
+ I soci che intendono promuovere l'azione nominano, a maggioranza del capitale posseduto, uno o piu' rappresentanti comuni per l'esercizio dell'azione e per il compimento degli atti conseguenti. 
+ In caso di accoglimento della domanda, la societa' rimborsa agli attori le spese del giudizio e quelle sopportate nell'accertamento dei fatti che il giudice non abbia posto a carico dei soccombenti o che non sia possibile recuperare a seguito della loro escussione. 
+ I soci che hanno agito possono rinunciare all'azione o transigerla; ogni corrispettivo per la rinuncia o transazione deve andare a vantaggio della societa'. 
+ Si applica all'azione prevista dal presente articolo l'ultimo comma dell'articolo precedente. 
+ 2394 (Responsabilita' verso i creditori sociali). - Gli amministratori rispondono verso i creditori sociali per l'inosservanza degli obblighi inerenti alla conservazione dell'integrita' del patrimonio sociale. 
+ L'azione puo' essere proposta dai creditori quando il patrimonio sociale risulta insufficiente al soddisfacimento dei loro crediti. 
+ La rinunzia all'azione da parte della societa' non impedisce l'esercizio dell'azione da parte dei creditori sociali. La transazione puo' essere impugnata dai creditori sociali soltanto con l'azione revocatoria quando ne ricorrono gli estremi. 
+ 2394-bis (Azioni di responsabilita' nelle procedure concorsuali). - In caso di fallimento, liquidazione coatta amministrativa e amministrazione straordinaria le azioni di responsabilita' previste dai precedenti articoli spettano al curatore del fallimento, al commissario liquidatore e al commissario straordinario. 
+ 2395 (Azione individuale del socio e del terzo). - Le disposizioni dei precedenti articoli non pregiudicano il diritto al risarcimento del danno spettante al singolo socio o al terzo che sono stati direttamente danneggiati da atti colposi o dolosi degli amministratori. 
+ L'azione puo' essere esercitata entro cinque anni dal compimento dell'atto che ha pregiudicato il socio o il terzo. 
+ 2396 (Direttori generali). - Le disposizioni che regolano la responsabilita' degli amministratori si applicano anche ai direttori generali nominati dall'assemblea o per disposizione dello statuto, in relazione ai compiti loro affidati, salve le azioni esercitabili in base al rapporto di lavoro con la societa'. 
+3. Del collegio sindacale. 
+ 2397 (Composizione del collegio). - Il collegio sindacale si compone di tre o cinque membri effettivi, soci o non soci. Devono inoltre essere nominati due sindaci supplenti. 
+ Almeno un membro effettivo ed uno supplente devono essere scelti tra gli iscritti nel registro dei revisori contabili istituito presso il Ministero della giustizia. I restanti membri, se non iscritti in tale registro, devono essere scelti fra gli iscritti negli albi professionali individuati con decreto del Ministro della giustizia, o fra i professori universitari di ruolo, in materie economiche o giuridiche. 
+ 2398 (Presidenza del collegio). - Il presidente del collegio sindacale e' nominato dall'assemblea. 
+ 2399 (Cause d'ineleggibilita' e di decadenza). - Non possono essere eletti alla carica di sindaco e, se eletti, decadono dall'ufficio: 
+ a) coloro che si trovano nelle condizioni previste dall'articolo 2382; 
+ b) il coniuge, i parenti e gli affini entro il quarto grado degli amministratori della societa', gli amministratori, il coniuge, i parenti e gli affini entro il quarto grado degli amministratori delle societa' da questa controllate, delle societa' che la controllano e di quelle sottoposte a comune controllo; 
+ c) coloro che sono legati alla societa' o alle societa' da questa controllate o alle societa' che la controllano o a quelle sottoposte a comune controllo da un rapporto di lavoro o da un rapporto continuativo di consulenza o di prestazione d'opera retribuita, ovvero da altri rapporti di natura patrimoniale che ne compromettano l'indipendenza. 
+ La cancellazione o la sospensione dal registro dei revisori contabili e la perdita dei requisiti previsti dall'ultimo comma dell'articolo 2397 sono causa di decadenza dall'ufficio di sindaco. 
+ Lo statuto puo' prevedere altre cause di ineleggibilita' o decadenza, nonche' cause di incompatibilita' e limiti e criteri per il cumulo degli incarichi. 
+ 2400 (Nomina e cessazione dall'ufficio). - I sindaci sono nominati per la prima volta nell'atto costitutivo e successivamente dall'assemblea, salvo il disposto degli articoli 2351, 2449 e 2450.
+Essi restano in carica per tre esercizi, e scadono alla data dell'assemblea convocata per l'approvazione del bilancio relativo al terzo esercizio della carica. La cessazione dei sindaci per scadenza del termine ha effetto dal momento in cui il collegio e' stato ricostituito. 
+ I sindaci possono essere revocati solo per giusta causa. La deliberazione di revoca deve essere approvata con decreto dal tribunale, sentito l'interessato. 
+ La nomina dei sindaci, con l'indicazione per ciascuno di essi del cognome e del nome, del luogo e della data di nascita e del domicilio, e la cessazione dall'ufficio devono essere iscritte, a cura degli amministratori, nel registro delle imprese nel termine di trenta giorni. 
+ 2401 (Sostituzione). - In caso di morte, di rinunzia o di decadenza di un sindaco, subentrano i supplenti in ordine di eta', nel rispetto dell'articolo 2397, secondo comma. I nuovi sindaci restano in carica fino alla prossima assemblea, la quale deve provvedere alla nomina dei sindaci effettivi e supplenti necessari per l'integrazione del collegio, nel rispetto dell'articolo 2397, secondo comma. I nuovi nominati scadono insieme con quelli in carica. 
+ In caso di sostituzione del presidente, la presidenza e' assunta fino alla prossima assemblea dal sindaco piu' anziano. 
+ Se con i sindaci supplenti non si completa il collegio sindacale, deve essere convocata l'assemblea perche' provveda all'integrazione del collegio medesimo. 
+ 2402 (Retribuzione). - La retribuzione annuale dei sindaci, se non e' stabilita nello statuto, deve essere determinata dalla assemblea all'atto della nomina per l'intero periodo di durata del loro ufficio. 
+ 2403 (Doveri del collegio sindacale). - Il collegio sindacale vigila sull'osservanza della legge e dello statuto, sul rispetto dei principi di corretta amministrazione ed in particolare sull'adeguatezza dell'assetto organizzativo, amministrativo e contabile adottato dalla societa' e sul suo concreto funzionamento. 
+ Esercita inoltre il controllo contabile nel caso previsto dall'articolo 2409-bis, terzo comma. 
+ 2403-bis (Poteri del collegio sindacale). - I sindaci possono in qualsiasi momento procedere, anche individualmente, ad atti di ispezione e di controllo. 
+ Il collegio sindacale puo' chiedere agli amministratori notizie, anche con riferimento a societa' controllate, sull'andamento delle operazioni sociali o su determinati affari. Puo' altresi' scambiare informazioni con i corrispondenti organi delle societa' controllate in merito ai sistemi di amministrazione e controllo ed all'andamento generale dell'attivita' sociale. 
+ Gli accertamenti eseguiti devono risultare dal libro previsto dall'articolo 2421, primo comma, n. 5). 
+ Nell'espletamento di specifiche operazioni di ispezione e di controllo i sindaci sotto la propria responsabilita' ed a proprie spese possono avvalersi di propri dipendenti ed ausiliari che non si trovino in una delle condizioni previste dall'articolo 2399. 
+ L'organo amministrativo puo' rifiutare agli ausiliari e ai dipendenti dei sindaci l'accesso a informazioni riservate. 
+ 2404 (Riunioni e deliberazioni del collegio). - Il collegio sindacale deve riunirsi almeno ogni novanta giorni. La riunione puo' svolgersi, se lo statuto lo consente indicandone le modalita', anche con mezzi di telecomunicazione. 
+ Il sindaco che, senza giustificato motivo, non partecipa durante un esercizio sociale a due riunioni del collegio decade dall'ufficio. 
+ Delle riunioni del collegio deve redigersi verbale, che viene trascritto nel libro previsto dall'articolo 2421, primo comma, n. 5), e sottoscritto dagli intervenuti. 
+ Il collegio sindacale e' regolarmente costituito con la presenza della maggioranza dei sindaci e delibera a maggioranza assoluta dei presenti. Il sindaco dissenziente ha diritto di fare iscrivere a verbale i motivi del proprio dissenso. 
+ 2405 (Intervento alle adunanze del consiglio di amministrazione e alle assemblee). - I sindaci devono assistere alle adunanze del consiglio di amministrazione, alle assemblee e alle riunioni del comitato esecutivo. 
+ I sindaci, che non assistono senza giustificato motivo alle assemblee o, durante un esercizio sociale, a due adunanze consecutive del consiglio d'amministrazione o del comitato esecutivo, decadono dall'ufficio. 
+ 2406 (Omissioni degli amministratori). - In caso di omissione o di ingiustificato ritardo da parte degli amministratori, il collegio sindacale deve convocare l'assemblea ed eseguire le pubblicazioni prescritte dalla legge. 
+ Il collegio sindacale puo' altresi', previa comunicazione al presidente del consiglio di amministrazione, convocare l'assemblea qualora nell'espletamento del suo incarico ravvisi fatti censurabili di rilevante gravita' e vi sia urgente necessita' di provvedere. 
+ 2407 (Responsabilita). - I sindaci devono adempiere i loro doveri con la professionalita' e la diligenza richieste dalla natura dell'incarico; sono responsabili della verita' delle loro attestazioni e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza per ragione del loro ufficio. 
+ Essi sono responsabili solidalmente con gli amministratori per i fatti o le omissioni di questi, quando il danno non si sarebbe prodotto se essi avessero vigilato in conformita' degli obblighi della loro carica. 
+ All'azione di responsabilita' contro i sindaci si applicano, in quanto compatibili, le disposizioni degli articoli 2393, 2393-bis, 2394, 2394-bis e 2395. 
+ 2408 (Denunzia al collegio sindacale). - Ogni socio puo' denunziare i fatti che ritiene censurabili al collegio sindacale, il quale deve tener conto della denunzia nella relazione all'assemblea. 
+ Se la denunzia e' fatta da tanti soci che rappresentino un ventesimo del capitale sociale o un cinquantesimo nelle societa' che fanno ricorso al mercato del capitale di rischio, il collegio sindacale deve indagare senza ritardo sui fatti denunziati e presentare le sue conclusioni ed eventuali proposte all'assemblea; deve altresi', nelle ipotesi previste dal secondo comma dell'articolo 2406, convocare l'assemblea. Lo statuto puo' prevedere per la denunzia percentuali minori di partecipazione. 
+ 2409 (Denunzia al tribunale). - Se vi e' fondato sospetto che gli amministratori, in violazione dei loro doveri, abbiano compiuto gravi irregolarita' nella gestione che possono arrecare danno alla societa' o a una o piu' societa' controllate, i soci che rappresentano il decimo del capitale sociale o, nelle societa' che fanno ricorso al mercato del capitale di rischio, il ventesimo del capitale sociale possono denunziare i fatti al tribunale con ricorso notificato anche alla societa'. Lo statuto puo' prevedere percentuali minori di partecipazione. 
+ Il tribunale, sentiti in camera di consiglio gli amministratori e i sindaci, puo' ordinare l'ispezione dell'amministrazione della societa' a spese dei soci richiedenti, subordinandola, se del caso, alla prestazione di una cauzione. Il provvedimento e' reclamabile. 
+ Il tribunale non ordina l'ispezione e sospende per un periodo determinato il procedimento se l'assemblea sostituisce gli amministratori e i sindaci con soggetti di adeguata professionalita', che si attivano senza indugio per accertare se le violazioni sussistono e, in caso positivo, per eliminarle, riferendo al tribunale sugli accertamenti e le attivita' compiute. 
+ Se le violazioni denunziate sussistono ovvero se gli accertamenti e le attivita' compiute ai sensi del terzo comma risultano insufficienti alla loro eliminazione, il tribunale puo' disporre gli opportuni provvedimenti provvisori e convocare l'assemblea per le conseguenti deliberazioni. Nei casi piu' gravi puo' revocare gli amministratori ed eventualmente anche i sindaci e nominare un amministratore giudiziario, determinandone i poteri e la durata. 
+ L'amministratore giudiziario puo' proporre l'azione di responsabilita' contro gli amministratori e i sindaci. Si applica l'ultimo comma dell'articolo 2393. 
+ Prima della scadenza del suo incarico l'amministratore giudiziario rende conto al tribunale che lo ha nominato; convoca e presiede l'assemblea per la nomina dei nuovi amministratori e sindaci o per proporre, se del caso, la messa in liquidazione della societa' o la sua ammissione ad una procedura concorsuale. 
+ I provvedimenti previsti da questo articolo possono essere adottati anche su richiesta del collegio sindacale, del consiglio di sorveglianza o del comitato per il controllo sulla gestione, nonche', nelle societa' che fanno ricorso al mercato del capitale di rischio, del pubblico ministero; in questi casi le spese per l'ispezione sono a carico della societa'. 
+4. Del controllo contabile. 
+ 2409-bis (Controllo contabile). - Il controllo contabile sulla societa' e' esercitato da un revisore contabile o da una societa' di revisione iscritti nel registro istituito presso il Ministero della giustizia. 
+ Nelle societa' che fanno ricorso al mercato del capitale di rischio il controllo contabile e' esercitato da una societa' di revisione iscritta nel registro dei revisori contabili, la quale, limitatamente a tali incarichi, e' soggetta alla disciplina dell'attivita' di revisione prevista per le societa' con azioni quotate in mercati regolamentati ed alla vigilanza della Commissione nazionale per le societa' e la borsa. 
+ Lo statuto delle societa' che non fanno ricorso al mercato del capitale di rischio e che non siano tenute alla redazione del bilancio consolidato puo' prevedere che il controllo contabile sia esercitato dal collegio sindacale. In tal caso il collegio sindacale e' costituito da revisori contabili iscritti nel registro istituito presso il Ministero della giustizia. 
+ 2409-ter (Funzioni di controllo contabile). - Il revisore o la societa' incaricata del controllo contabile: 
+ a) verifica, nel corso dell'esercizio e con periodicita' almeno trimestrale, la regolare tenuta della contabilita' sociale e la corretta rilevazione nelle scritture contabili dei fatti di gestione; 
+ b) verifica se il bilancio di esercizio e, ove redatto, il bilancio consolidato corrispondono alle risultanze delle scritture contabili e degli accertamenti eseguiti e se sono conformi alle norme che li disciplinano; 
+ c) esprime con apposita relazione un giudizio sul bilancio di esercizio e sul bilancio consolidato, ove redatto. 
+ La relazione sul bilancio e' depositata presso la sede della societa' a norma dell'articolo 2429. 
+ Il revisore o la societa' incaricata del controllo contabile puo' chiedere agli amministratori documenti e notizie utili al controllo e puo' procedere ad ispezioni; documenta l'attivita' svolta in apposito libro, tenuto presso la sede della societa' o in luogo diverso stabilito dallo statuto, secondo le disposizioni dell'articolo 2421, terzo comma. 
+ 2409-quater (Conferimento e revoca dell'incarico). - Salvo quanto disposto dal numero 11 del secondo comma dell'articolo 2328, l'incarico del controllo contabile e' conferito dall'assemblea, sentito il collegio sindacale, la quale determina il corrispettivo spettante al revisore o alla societa' di revisione per l'intera durata dell'incarico. 
+ L'incarico ha la durata di tre esercizi, con scadenza alla data dell'assemblea convocata per l'approvazione del bilancio relativo al terzo esercizio dell'incarico. 
+ L'incarico puo' essere revocato solo per giusta causa, sentito il parere del collegio sindacale. La deliberazione di revoca deve essere approvata con decreto dal tribunale, sentito l'interessato. 
+ 2409-quinquies (Cause di ineleggibilita' e di decadenza). - Salvo quanto disposto dall'articolo 2409-bis, terzo comma, non possono essere incaricati del controllo contabile, e se incaricati decadono dall'ufficio, i sindaci della societa' o delle societa' da questa controllate, delle societa' che la controllano o di quelle sottoposte a comune controllo, nonche' coloro che si trovano nelle condizioni previste dall'articolo 2399, primo comma. 
+ Lo statuto puo' prevedere altre cause di ineleggibilita' o di decadenza, nonche' cause di incompatibilita'; puo' prevedere altresi' ulteriori requisiti concernenti la specifica qualificazione professionale del soggetto incaricato del controllo contabile. 
+ Nel caso di societa' di revisione le disposizioni del presente articolo si applicano con riferimento ai soci della medesima ed ai soggetti incaricati della revisione. 
+ 2409-sexies (Responsabilita). - I soggetti incaricati del controllo contabile sono sottoposti alle disposizioni dell'articolo 2407 e sono responsabili nei confronti della societa', dei soci e dei terzi per i danni derivanti dall'inadempimento ai loro doveri. 
+ Nel caso di societa' di revisione i soggetti che hanno effettuato il controllo contabile sono responsabili in solido con la societa' medesima. 
+ L'azione si prescrive nel termine di cinque anni dalla cessazione dell'incarico. 
+ 2409-septies (Scambio di informazioni). - Il collegio sindacale e i soggetti incaricati del controllo contabile si scambiano tempestivamente le informazioni rilevanti per l'espletamento dei rispettivi compiti. 
+5. Del sistema dualistico. 
+ 2409-octies (Sistema basato su un consiglio di gestione e un consiglio di sorveglianza). - Lo statuto puo' prevedere che l'amministrazione ed il controllo siano esercitati da un consiglio di gestione e da un consiglio di sorveglianza in conformita' alle norme seguenti. 
+ 2409-novies (Consiglio di gestione). - La gestione dell'impresa spetta esclusivamente al consiglio di gestione, il quale compie le operazioni necessarie per l'attuazione dell'oggetto sociale. Puo' delegare proprie attribuzioni ad uno o piu' dei suoi componenti; si applicano in tal caso il terzo, quarto e quinto comma dell'articolo 2381. 
+ E' costituito da un numero di componenti, anche non soci, non inferiore a due. 
+ Fatta eccezione per i primi componenti, che sono nominati nell'atto costitutivo, e salvo quanto disposto dagli articoli 2351, 2449 e 2450, la nomina dei componenti il consiglio di gestione spetta al consiglio di sorveglianza, previa determinazione del loro numero nei limiti stabiliti dallo statuto. 
+ I componenti del consiglio di gestione non possono essere nominati consiglieri di sorveglianza, e restano in carica per un periodo non superiore a tre esercizi, con scadenza alla data della riunione del consiglio di sorveglianza convocato per l'approvazione del bilancio relativo all'ultimo esercizio della loro carica. 
+ I componenti del consiglio di gestione sono rieleggibili, salvo diversa disposizione dello statuto, e sono revocabili dal consiglio di sorveglianza in qualunque tempo, anche se nominati nell'atto costitutivo, salvo il diritto al risarcimento dei danni se la revoca avviene senza giusta causa. 
+ Se nel corso dell'esercizio vengono a mancare uno o piu' componenti del consiglio di gestione, il consiglio di sorveglianza provvede senza indugio alla loro sostituzione. 
+ 2409-decies (Azione sociale di responsabilita). - L'azione di responsabilita' contro i consiglieri di gestione e' promossa dalla societa' o dai soci, ai sensi degli articoli 2393 e 2393-bis. 
+ L'azione sociale di responsabilita' puo' anche essere proposta a seguito di deliberazione del consiglio di sorveglianza. La deliberazione e' assunta dalla maggioranza dei componenti del consiglio di sorveglianza e, se e' presa a maggioranza dei due terzi dei suoi componenti, importa la revoca dall'ufficio dei consiglieri di gestione contro cui e' proposta, alla cui sostituzione provvede contestualmente lo stesso consiglio di sorveglianza. 
+ L'azione puo' essere esercitata dal consiglio di sorveglianza entro cinque anni dalla cessazione dell'amministratore dalla carica. 
+ Il consiglio di sorveglianza puo' rinunziare all'esercizio dell'azione di responsabilita' e puo' transigerla, purche' la rinunzia e la transazione siano approvate dalla maggioranza assoluta dei componenti del consiglio di sorveglianza e purche' non si opponga la percentuale di soci indicata nell'ultimo comma dell'articolo 2393. 
+ La rinuncia all'azione da parte della societa' o del consiglio di sorveglianza non impedisce l'esercizio delle azioni previste dagli articoli 2393-bis, 2394 e 2394-bis. 
+ 2409-undecies (Norme applicabili). - Al consiglio di gestione si applicano, in quanto compatibili, le disposizioni degli articoli 2380-bis, quinto comma, 2381, sesto comma, 2382, 2383, quarto e quinto comma, 2384, 2385, 2387, 2390, 2392, 2394, 2394-bis, 2395. 
+ Si applicano alle deliberazioni del consiglio di gestione gli articoli 2388 e 2391, e la legittimazione ad impugnare le deliberazioni spetta anche al consiglio di sorveglianza. 
+ 2409-duodecies (Consiglio di sorveglianza). - Salvo che lo statuto non preveda un maggior numero, il consiglio di sorveglianza si compone di un numero di componenti, anche non soci, non inferiore a tre. 
+ Fatta eccezione per i primi componenti che sono nominati nell'atto costitutivo, e salvo quanto disposto dagli articoli 2351, 2449 e 2450, la nomina dei componenti il consiglio di sorveglianza spetta all'assemblea, previa determinazione del loro numero nei limiti stabiliti dallo statuto. 
+ I componenti del consiglio di sorveglianza restano in carica per tre esercizi e scadono alla data della successiva assemblea prevista dal secondo comma dell'articolo 2364-bis. La cessazione per scadenza del termine ha effetto dal momento in cui il consiglio di sorveglianza e' stato ricostituito. 
+ Almeno un componente effettivo del consiglio di sorveglianza deve essere scelto tra gli iscritti nel registro dei revisori contabili istituito presso il Ministero della giustizia. 
+ I componenti del consiglio di sorveglianza sono rieleggibili, salvo diversa disposizione dello statuto, e sono revocabili dall'assemblea in qualunque tempo con deliberazione adottata con la maggioranza prevista dal quarto comma dell'articolo 2393, anche se nominati nell'atto costitutivo, salvo il diritto al risarcimento dei danni, se la revoca avviene senza giusta causa. 
+ Lo statuto, fatto salvo quanto previsto da leggi speciali in relazione all'esercizio di particolari attivita', puo' subordinare l'assunzione della carica al possesso di particolari requisiti di onorabilita', professionalita' e indipendenza. 
+ Se nel corso dell'esercizio vengono a mancare uno o piu' componenti del consiglio di sorveglianza, l'assemblea provvede senza indugio alla loro sostituzione. 
+ Il presidente del consiglio di sorveglianza e' eletto dall'assemblea. 
+ Lo statuto determina i poteri del presidente del consiglio di sorveglianza. 
+ Non possono essere eletti alla carica di componente del consiglio di sorveglianza e, se eletti, decadono dall'ufficio: 
+ a) coloro che si trovano nelle condizioni previste dall'articolo 2382; 
+ b) i componenti del consiglio di gestione; 
+ c) coloro che si trovano nelle condizioni previste dalla lettera  c) del primo comma dell'articolo 2399. 
+ Lo statuto puo' prevedere altre cause di ineleggibilita' o decadenza, nonche' cause di incompatibilita' e limiti e criteri per il cumulo degli incarichi. 
+ 2409-terdecies (Competenza del consiglio di sorveglianza). - Il consiglio di sorveglianza: 
+ a) nomina e revoca i componenti del consiglio di gestione; ne determina il compenso, salvo che la relativa competenza sia attribuita dallo statuto all'assemblea; 
+ b) approva il bilancio di esercizio e, ove redatto, il bilancio consolidato; 
+ c) esercita le funzioni di cui all'articolo 2403, primo comma; 
+ d) promuove l'esercizio dell'azione di responsabilita' nei confronti dei componenti del consiglio di gestione; 
+ e) presenta la denunzia al tribunale di cui all'articolo 2409; 
+ f) riferisce per iscritto almeno una volta all'anno all'assemblea sull'attivita' di vigilanza svolta, sulle omissioni e sui fatti censurabili rilevati; 
+ ((f-bis) se previsto dallo statuto, delibera in ordine ai piani strategici, industriali e finanziari della societa' predisposti dal consiglio di gestione, ferma in ogni caso la responsabilita' di questo per gli atti compiuti.)) 
+ Lo statuto puo' prevedere che in caso di mancata approvazione del bilancio o qualora lo richieda almeno un terzo dei componenti del consiglio di gestione o del consiglio di sorveglianza la competenza per l'approvazione del bilancio di esercizio sia attribuita all'assemblea. 
+ I componenti del consiglio di sorveglianza devono adempiere i loro doveri con la diligenza richiesta dalla natura dell'incarico. Sono responsabili solidalmente con i componenti del consiglio di gestione per i fatti o le omissioni di questi quando il danno non si sarebbe prodotto se avessero vigilato in conformita' degli obblighi della loro carica. 
+ I componenti del consiglio di sorveglianza possono assistere alle adunanze del consiglio di gestione e devono partecipare alle assemblee. 
+ 2409-quaterdecies (Norme applicabili). - Al consiglio di sorveglianza ed ai suoi componenti si applicano, in quanto compatibili, gli articoli 2388, 2400, terzo comma, 2402, 2403-bis, secondo e terzo comma, 2404, primo, terzo e quarto comma, 2406, 2408 e 2409-septies. 
+ Alla deliberazione del consiglio di sorveglianza con cui viene approvato il bilancio di esercizio si applica l'articolo 2434-bis ed essa puo' venire impugnata anche dai soci ai sensi dell'articolo 2377. 
+ 2409-quinquiesdecies (Controllo contabile). - Il controllo contabile e' esercitato a norma degli articoli 2409-bis primo e secondo comma, 2409-ter, 2409-quater, 2409-quinquies, e 2409-sexies, in quanto compatibili. 
+6. Del sistema monistico. 
+ 2409-sexiesdecies (Sistema basato sul consiglio di amministrazione e un comitato costituito al suo interno). - Lo statuto puo' prevedere che l'amministrazione ed il controllo siano esercitati rispettivamente dal consiglio di amministrazione e da un comitato costituito al suo interno. 
+ 2409-septiesdecies (Consiglio di amministrazione). - La gestione dell'impresa spetta esclusivamente al consiglio di amministrazione. 
+ Almeno un terzo dei componenti del consiglio di amministrazione deve essere in possesso dei requisiti di indipendenza stabiliti per i sindaci dall'articolo 2399, primo comma, e, se lo statuto lo prevede, di quelli al riguardo previsti da codici di comportamento redatti da associazioni di categoria o da societa' di gestione di mercati regolamentati. 
+ 2409-octiesdecies (Comitato per il controllo sulla gestione). - Salvo diversa disposizione dello statuto, la determinazione del numero e la nomina dei componenti del comitato per il controllo sulla gestione spetta al consiglio di amministrazione. Nelle societa' che fanno ricorso al mercato del capitale di rischio il numero dei componenti del comitato non puo' essere inferiore a tre. 
+ Il comitato e' composto da amministratori in possesso dei requisiti di onorabilita' e professionalita' stabiliti dallo statuto e dei requisiti di indipendenza di cui all'articolo 2409-septiesdecies, che non siano membri del comitato esecutivo ed ai quali non siano attribuite deleghe o particolari cariche e comunque non svolgano, anche di mero fatto, funzioni attinenti alla gestione dell'impresa sociale o di societa' che la controllano o ne sono controllate. 
+ Almeno uno dei componenti del comitato per il controllo sulla gestione deve essere scelto fra gli iscritti nel registro dei revisori contabili. 
+ In caso di morte, rinunzia revoca o decadenza di un componente del comitato per il controllo sulla gestione, il consiglio di amministrazione provvede senza indugio a sostituirlo scegliendolo tra gli altri amministratori in possesso dei requisiti previsti dai commi precedenti; se cio' non e' possibile, provvede senza indugio a norma dell'articolo 2386 scegliendo persona provvista dei suddetti requisiti. 
+ Il comitato per il controllo sulla gestione: 
+ a) elegge al suo interno, a maggioranza assoluta dei suoi membri, il presidente; 
+ b) vigila sull'adeguatezza della struttura organizzativa della societa', del sistema di controllo interno e del sistema amministrativo e contabile, nonche' sulla sua idoneita' a rappresentare correttamente i fatti di gestione; 
+ c) svolge gli ulteriori compiti affidatigli dal consiglio di amministrazione con particolare riguardo ai rapporti con i soggetti incaricati del controllo contabile. 
+ Al comitato per il controllo sulla gestione si applicano altresi', in quanto compatibili, gli articoli 2404, primo, terzo e quarto comma, 2405, primo comma, e 2408. 
+ 2409-noviesdecies (Norme applicabili e controllo contabile). - Al consiglio di amministrazione si applicano, in quanto compatibili, gli articoli da 2380-bis, 2381, 2382, 2383, 2384, 2385, 2386, 2387, 2388, 2389, 2390, 2391, 2392, 2393, 2393-bis, 2394, 2394-bis, 2395. 
+ Il controllo contabile e' esercitato a norma degli articoli 2409-bis primo e secondo comma, 2409-ter, 2409-quater, 2409-quinquies, 2409-sexies, 2409-septies, in quanto compatibili. 
+ 
+ Sezione VII 
+ Delle obbligazioni 
+ 
+ 2410 (Emissione). - Se la legge o lo statuto non dispongono diversamente, l'emissione di obbligazioni e' deliberata dagli amministratori. 
+ In ogni caso la deliberazione di emissione deve risultare da verbale redatto da notaio ed e' depositata ed iscritta a norma dell'articolo 2436. 
+ 2411 (Diritti degli obbligazionisti). - Il diritto degli obbligazionisti alla restituzione del capitale ed agli interessi puo' essere, in tutto o in parte, subordinato alla soddisfazione dei diritti di altri creditori della societa'. 
+ I tempi e l'entita' del pagamento degli interessi possono variare in dipendenza di parametri oggettivi anche relativi all'andamento economico della societa'. 
+ La disciplina della presente sezione si applica inoltre agli strumenti finanziari, comunque denominati, che condizionano i tempi e l'entita' del rimborso del capitale all'andamento economico della societa'. 
+ 2412 (Limiti all'emissione). - La societa' puo' emettere obbligazioni al portatore o nominative per somma complessivamente non eccedente il doppio del capitale sociale, della riserva legale e delle riserve disponibili risultanti dall'ultimo bilancio approvato.
+I sindaci attestano il rispetto del suddetto limite. 
+ Il limite di cui al primo comma puo' essere superato se le obbligazioni emesse in eccedenza sono destinate alla sottoscrizione da parte di investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali. In caso di successiva circolazione delle obbligazioni, chi le trasferisce risponde della solvenza della societa' nei confronti degli acquirenti che non siano investitori professionali. 
+ Non e' soggetta al limite di cui al primo comma, e non rientra nel calcolo al fine del medesimo, l'emissione di obbligazioni garantite da ipoteca di primo grado su immobili di proprieta' della societa', sino a due terzi del valore degli immobili medesimi. 
+ Il primo e il secondo comma non si applicano all'emissione di obbligazioni effettuata da societa' ((con azioni)) quotate in mercati regolamentati, limitatamente alle obbligazioni destinate ad essere quotate negli stessi o in altri mercati regolamentati. 
+ Quando ricorrono particolari ragioni che interessano l'economia nazionale, la societa' puo' essere autorizzata con provvedimento dell'autorita' governativa, ad emettere obbligazioni per somma superiore a quanto previsto nel presente articolo, con l'osservanza dei limiti, delle modalita' e delle cautele stabilite nel provvedimento stesso. 
+ Restano salve le disposizioni di leggi speciali relative a particolari categorie di societa' e alle riserve di attivita'. 
+ 2413 (Riduzione del capitale). - Salvo i casi previsti dal terzo, quarto e quinto comma dell'articolo 2412, la societa' che ha emesso obbligazioni non puo' ridurre volontariamente il capitale sociale o distribuire riserve se rispetto all'ammontare delle obbligazioni ancora in circolazione il limite di cui al primo comma dell'articolo medesimo non risulta piu' rispettato. 
+ Se la riduzione del capitale sociale e' obbligatoria, o le riserve diminuiscono in conseguenza di perdite, non possono distribuirsi utili sinche' l'ammontare del capitale sociale ((, della riserva legale e delle riserve disponibili non eguagli la meta' dell'ammontare delle obbligazioni in circolazione.)) 
+ 2414 (Contenuto delle obbligazioni). - I titoli obbligazionari devono indicare: 
+ 1) la denominazione, l'oggetto e la sede della societa', con l'indicazione dell'ufficio del registro delle imprese presso il quale la societa' e' iscritta; 
+ 2) il capitale sociale e le riserve esistenti al momento dell'emissione; 
+ 3) la data della deliberazione di emissione e della sua iscrizione nel registro; 
+ 4) l'ammontare complessivo dell'emissione, il valore nominale di ciascun titolo, i diritti con essi attribuiti, il rendimento o i criteri per la sua determinazione e il modo di pagamento e di rimborso, l'eventuale subordinazione dei diritti degli obbligazionisti a quelli di altri creditori della societa'; 
+ 5) le eventuali garanzie da cui sono assistiti; 
+ ((6) la data di rimborso del prestito e gli estremi dell'eventuale prospetto informativo.)) 
+ 2414-bis (Costituzione delle garanzie). - La deliberazione di emissione di obbligazioni che preveda la costituzione di garanzie reali a favore dei sottoscrittori deve designare un notaio che, per conto dei sottoscrittori, compia le formalita' necessarie per la costituzione delle garanzie medesime. 
+ ((Qualora un azionista pubblico garantisca i titoli obbligazionari si applica il numero 5) dell'articolo 2414)). 
+ 2415 (Assemblea degli obbligazionisti). - L'assemblea degli obbligazionisti delibera: 
+ 1) sulla nomina e sulla revoca del rappresentante comune; 
+ 2) sulle modificazioni delle condizioni del prestito; 
+ 3) sulla proposta di amministrazione controllata e di concordato; 
+ 4) sulla costituzione di un fondo per le spese necessarie alla tutela dei comuni interessi e sul rendiconto relativo; 
+ 5) sugli altri oggetti d'interesse comune degli obbligazionisti. 
+ L'assemblea e' convocata dagli amministratori o dal rappresentante degli obbligazionisti, quando lo ritengono necessario, o quando ne e' fatta richiesta da tanti obbligazionisti che rappresentino il ventesimo dei titoli emessi e non estinti. 
+ Si applicano all'assemblea degli obbligazionisti le disposizioni relative all'assemblea straordinaria dei soci e le sue deliberazioni sono iscritte, a cura del notaio che ha redatto il verbale, nel registro delle imprese. Per la validita' delle deliberazioni sull'oggetto indicato nel primo comma, numero 2, e' necessario anche in seconda convocazione il voto favorevole degli obbligazionisti che rappresentino la meta' delle obbligazioni emesse e non estinte. 
+ La societa', per le obbligazioni da essa eventualmente possedute, non puo' partecipare alle deliberazioni. 
+ All'assemblea degli obbligazionisti possono assistere gli amministratori ed i sindaci. 
+ 2416 (Impugnazione delle deliberazioni dell'assemblea). - Le deliberazioni prese dall'assemblea degli obbligazionisti sono impugnabili a norma degli articoli 2377 e 2379. ((Le percentuali previste dall'articolo 2377 sono calcolate con riferimento)) all'ammontare del prestito obbligazionario e alla circostanza che le obbligazioni siano quotate in mercati regolamentati. 
+ L'impugnazione e' proposta innanzi al tribunale, nella cui giurisdizione la societa' ha sede, in contraddittorio del rappresentante degli obbligazionisti. 
+ 2417 (Rappresentante comune). - Il rappresentante comune puo' essere scelto al di fuori degli obbligazionisti e possono essere nominate anche le persone giuridiche autorizzate all'esercizio dei servizi di investimento nonche' le societa' fiduciarie. Non possono essere nominati rappresentanti comuni degli obbligazionisti e, se nominati, decadono dall'ufficio, gli amministratori, i sindaci, i dipendenti della societa' debitrice e coloro che si trovano nelle condizioni indicate nell'articolo 2399. 
+ Se non e' nominato dall'assemblea a norma dell'articolo 2415, il rappresentante comune e' nominato con decreto dal tribunale su domanda di uno o piu' obbligazionisti o degli amministratori della societa'. 
+ Il rappresentante comune dura in carica per un periodo non superiore ((a tre esercizi sociali)) e puo' essere rieletto.
+L'assemblea degli obbligazionisti ne fissa il compenso. Entro trenta giorni dalla notizia della sua nomina il rappresentante comune deve richiederne l'iscrizione nel registro delle imprese. 
+ 2418 (Obblighi e poteri del rappresentante comune). - Il rappresentante comune deve provvedere all'esecuzione delle deliberazioni dell'assemblea degli obbligazionisti, tutelare gli interessi comuni di questi nei rapporti con la societa' e assistere alle operazioni di sorteggio delle obbligazioni. Egli ha diritto di assistere all'assemblea dei soci. 
+ Per la tutela degli interessi comuni ha la rappresentanza processuale degli obbligazionisti anche nell'amministrazione controllata, nel concordato preventivo, nel fallimento, nella liquidazione coatta amministrativa e nell'amministrazione straordinaria della societa' debitrice. 
+ 2419 (Azione individuale degli obbligazionisti). - Le disposizioni degli articoli precedenti non precludono le azioni individuali degli obbligazionisti, salvo che queste siano incompatibili con le deliberazioni dell'assemblea previste dall'articolo 2415. 
+ 2420 (Sorteggio delle obbligazioni). - Le operazioni per l'estrazione a sorte delle obbligazioni devono farsi, a pena di nullita', alla presenza del rappresentante comune o, in mancanza, di un notaio. 
+ 2420-bis (Obbligazioni convertibili in azioni). - L'assemblea straordinaria puo' deliberare l'emissione di obbligazioni convertibili in azioni, determinando il rapporto di cambio e il periodo e le modalita' della conversione. La deliberazione non puo' essere adottata se il capitale sociale non sia stato interamente versato. 
+ Contestualmente la societa' deve deliberare l'aumento del capitale sociale per un ammontare corrispondente alle azioni da attribuire in conversione. Si applicano, in quanto compatibili, le disposizioni del secondo, terzo, quarto e quinto comma dell'articolo 2346. 
+ Nel primo mese di ciascun semestre gli amministratori provvedono all'emissione delle azioni spettanti agli obbligazionisti che hanno chiesto la conversione nel semestre precedente. Entro il mese successivo gli amministratori devono depositare per l'iscrizione nel registro delle imprese un'attestazione dell'aumento del capitale sociale in misura corrispondente al valore nominale delle azioni emesse. Si applica la disposizione del secondo comma dell'articolo 2444. 
+ Fino a quando non siano scaduti i termini fissati per la conversione, la societa' non puo' deliberare ne' la riduzione volontaria del capitale sociale, ne' la modificazione delle disposizioni dello statuto concernenti la ripartizione degli utili, salvo che ai possessori di obbligazioni convertibili sia stata data la facolta', mediante avviso depositato presso l'ufficio del registro delle imprese almeno novanta giorni prima della convocazione dell'assemblea di esercitare il diritto di conversione nel termine di trenta giorni dalla pubblicazione. 
+ Nei casi di aumento del capitale mediante imputazione di riserve e di riduzione del capitale per perdite, il rapporto di cambio e' modificato in proporzione alla misura dell'aumento o della riduzione. 
+ Le obbligazioni convertibili in azioni devono indicare in aggiunta a quanto stabilito nell'articolo 2414, il rapporto di cambio e le modalita' della conversione. 
+ 2420-ter (Delega agli amministratori). - Lo statuto puo' attribuire agli amministratori la facolta' di emettere in una o piu' volte obbligazioni convertibili, fino ad un ammontare determinato e per il periodo massimo di cinque anni dalla data di iscrizione della societa' nel registro delle imprese. In tal caso la delega comprende anche quella relativa al corrispondente aumento del capitale sociale. 
+ Tale facolta' puo' essere attribuita anche mediante modificazione dello statuto, per il periodo massimo di cinque anni dalla data della deliberazione. 
+ Si applica il secondo comma dell'articolo 2410. 
+ 
+ Sezione VIII 
+ Dei libri sociali 
+ 
+ 2421 (Libri sociali obbligatori). - Oltre i libri e le altre scritture contabili prescritti nell'articolo 2214, la societa' deve tenere: 
+ 1) il libro dei soci, nel quale devono essere indicati distintamente per ogni categoria il numero delle azioni, il cognome e il nome dei titolari delle azioni nominative, i trasferimenti e i vincoli ad esse relativi e i versamenti eseguiti; 
+ 2) il libro delle obbligazioni, il quale deve indicare l'ammontare delle obbligazioni emesse e di quelle estinte, il cognome e il nome dei titolari delle obbligazioni nominative e i trasferimenti e i vincoli ad esse relativi; 
+ 3) il libro delle adunanze e delle deliberazioni delle assemblee, in cui devono essere trascritti anche i verbali redatti per atto pubblico; 
+ 4) il libro delle adunanze e delle deliberazioni del consiglio di amministrazione o del consiglio di gestione; 
+ 5) il libro delle adunanze e delle deliberazioni del collegio sindacale ovvero del consiglio di sorveglianza o del comitato per il controllo sulla gestione; 
+ 6) il libro delle adunanze e delle deliberazioni del comitato esecutivo, se questo esiste; 
+ 7) il libro delle adunanze e delle deliberazioni delle assemblee degli obbligazionisti, se sono state emesse obbligazioni; 
+ 8) il libro degli strumenti finanziari emessi ai sensi dell'articolo 2447-sexies. 
+ I libri indicati nel primo comma, numeri 1), 2), 3), 4) e 8) sono tenuti a cura degli amministratori o dei componenti del consiglio di gestione, il libro indicato nel numero 5) a cura del collegio sindacale ovvero del consiglio di sorveglianza o del comitato per il controllo sulla gestione, il libro indicato nel numero 6) a cura del comitato esecutivo e il libro indicato nel numero 7) a cura del rappresentante comune degli obbligazionisti. 
+ I libri di cui al presente articolo, prima che siano messi in uso, devono essere numerati progressivamente in ogni pagina e bollati in ogni foglio a norma dell'articolo 2215. 
+ 2422 (Diritto d'ispezione dei libri sociali). - I soci hanno diritto di esaminare i libri indicati nel primo comma, numeri 1) e 3) dell'articolo 2421 e di ottenerne estratti a proprie spese. 
+ Eguale diritto spetta al rappresentante comune degli obbligazionisti per i libri indicati nei numeri 2) e 3) dell'articolo 2421, e al rappresentante comune dei possessori di strumenti finanziari ed ai singoli possessori per il libro indicato al numero 8), ai singoli obbligazionisti per il libro indicato nel numero 7) dell'articolo medesimo. 
+ 
+ Sezione IX 
+ Del bilancio 
+ 
+ 2423 (Redazione del bilancio). - Gli amministratori devono redigere il bilancio di esercizio, costituito dallo stato patrimoniale, dal conto economico e dalla nota integrativa. 
+ Il bilancio deve essere redatto con chiarezza e deve rappresentare in modo veritiero e corretto la situazione patrimoniale e finanziaria della societa' e il risultato economico dell'esercizio. 
+ Se le informazioni richieste da specifiche disposizioni di legge non sono sufficienti a dare una rappresentazione veritiera e corretta, si devono fornire le informazioni complementari necessarie allo scopo. 
+ Se, in casi eccezionali, l'applicazione di una disposizione degli articoli seguenti e' incompatibile con la rappresentazione veritiera e corretta, la disposizione non deve essere applicata. La nota integrativa deve motivare la deroga e deve indicarne l'influenza sulla rappresentazione della situazione patrimoniale, finanziaria e del risultato economico. Gli eventuali utili derivanti dalla deroga devono essere iscritti in una riserva non distribuibile se non in misura corrispondente al valore recuperato. 
+ Il bilancio deve essere redatto in unita' di euro, senza cifre decimali, ad eccezione della nota integrativa che puo' essere redatta in migliaia di euro. 
+ 2423-bis (Principi di redazione del bilancio). - Nella redazione del bilancio devono essere osservati i seguenti principi: 
+ 1) la valutazione delle voci deve essere fatta secondo prudenza e nella prospettiva della continuazione dell'attivita', nonche' tenendo conto della funzione economica dell'elemento dell'attivo o del passivo considerato; 
+ 2) si possono indicare esclusivamente gli utili realizzati alla data di chiusura dell'esercizio; 
+ 3) si deve tener conto dei proventi e degli oneri di competenza dell'esercizio, indipendentemente dalla data dell'incasso o del pagamento; 
+ 4) si deve tener conto dei rischi e delle perdite di competenza dell'esercizio, anche se conosciuti dopo la chiusura di questo; 
+ 5) gli elementi eterogenei ricompresi nelle singole voci devono essere valutati separatamente; 
+ 6) i criteri di valutazione non possono essere modificati da un esercizio all'altro. 
+ Deroghe al principio enunciato nel numero 6) del comma precedente sono consentite in casi eccezionali. La nota integrativa deve motivare la deroga e indicarne l'influenza sulla rappresentazione della situazione patrimoniale e finanziaria e del risultato economico. 
+ 2423-ter (Struttura dello stato patrimoniale e del conto economico). - Salve le disposizioni di leggi speciali per le societa' che esercitano particolari attivita', nello stato patrimoniale e nel conto economico devono essere iscritte separatamente, e nell'ordine indicato, le voci previste negli articoli 2424 e 2425. 
+ Le voci precedute da numeri arabi possono essere ulteriormente suddivise, senza eliminazione della voce complessiva e dell'importo corrispondente; esse possono essere raggruppate soltanto quando il raggruppamento, a causa del loro importo, e' irrilevante ai fini indicati nel secondo comma dell'articolo 2423 o quando esso favorisce la chiarezza del bilancio. In questo secondo caso la nota integrativa deve contenere distintamente le voci oggetto di raggruppamento. 
+ Devono essere aggiunte altre voci qualora il loro contenuto non sia compreso in alcuna di quelle previste dagli articoli 2424 e 2425. 
+ Le voci precedute da numeri arabi devono essere adattate quando lo esige la natura dell'attivita' esercitata. 
+ Per ogni voce dello stato patrimoniale e del conto economico deve essere indicato l'importo della voce corrispondente dell'esercizio precedente. Se le voci non sono comparabili, quelle relative all'esercizio precedente devono essere adattate; la non comparabilita' e l'adattamento o l'impossibilita' di questo devono essere segnalati e commentati nella nota integrativa. 
+ Sono vietati i compensi di partite. 
+ 2424 (Contenuto dello stato patrimoniale). - Lo stato patrimoniale deve essere redatto in conformita' al seguente schema. 
+ Attivo: 
+ A) Crediti verso soci per versamenti ancora dovuti, con separata indicazione della parte gia' richiamata. 
+ B) Immobilizzazioni, con separata indicazione di quelle concesse in locazione finanziaria: 
+ I - Immobilizzazioni immateriali: 
+ 1) costi di impianto e di ampliamento; 
+ 2) costi di ricerca, di sviluppo e di pubblicita'; 
+ 3) diritti di brevetto industriale e diritti di utilizzazione delle opere dell'ingegno; 
+ 4) concessioni, licenze, marchi e diritti simili; 
+ 5) avviamento; 
+ 6) immobilizzazioni in corso e acconti; 
+ 7) altre. 
+ Totale. 
+ II - Immobilizzazioni materiali: 
+ 1) terreni e fabbricati; 
+ 2) impianti e macchinario; 
+ 3) attrezzature industriali e commerciali; 
+ 4) altri beni; 
+ 5) immobilizzazioni in corso e acconti. 
+ Totale. 
+ III - Immobilizzazioni finanziarie, con separata indicazione, per  ciascuna voce dei crediti, degli importi esigibili entro l'esercizio successivo: 
+ 1) partecipazioni in: 
+ a) imprese controllate; 
+ b) imprese collegate; 
+ c) imprese controllanti; 
+ d) altre imprese; 
+ 2) crediti: 
+ a) verso imprese controllate; 
+ b) verso imprese collegate; 
+ c) verso controllanti; 
+ d) verso altri; 
+ 3) altri titoli; 
+ 4) azioni proprie, con indicazione anche del valore nominale complessivo. 
+ Totale. 
+ Totale immobilizzazioni (B); 
+C) Attivo circolante: 
+ I - Rimanenze: 
+ 1) materie prime, sussidiarie e di consumo; 
+ 2) prodotti in corso di lavorazione e semilavorati; 
+ 3) lavori in corso su ordinazione; 
+ 4) prodotti finiti e merci; 
+ 5) acconti. 
+ Totale 
+ II - Crediti, con separata indicazione, per ciascuna voce, degli importi esigibili oltre l'esercizio successivo: 
+ 1) verso clienti; 
+ 2) verso imprese controllate; 
+ 3) verso imprese collegate; 
+ 4) verso controllanti; 
+ 4-bis) crediti tributari; 
+ 4-ter) imposte anticipate; 
+ 5) verso altri. 
+ Totale. 
+ III - Attivita' finanziarie che non costituiscono immobilizzazioni: 
+ 1) partecipazioni in imprese controllate; 
+ 2) partecipazioni in imprese collegate; 
+ 3) partecipazioni in imprese controllanti; 
+ 4) altre partecipazioni; 
+ 5) azioni proprie, con indicazioni anche del valore nominale complessivo; 
+ 6) altri titoli. 
+ Totale. 
+ IV - Disponibilita' liquide: 
+ 1) depositi bancari e postali; 
+ 2) assegni; 
+ 3) danaro e valori in cassa. 
+ Totale. 
+ Totale attivo circolante (C). 
+D) Ratei e risconti, con separata indicazione del disaggio su prestiti. 
+ Passivo: 
+A) Patrimonio netto: 
+ I - Capitale. 
+ II - Riserva da soprapprezzo delle azioni. 
+ III - Riserve di rivalutazione. 
+ IV - Riserva legale. 
+ V - Riserve statutarie 
+ VI - Riserva per azioni proprie in portafoglio. 
+ VII - Altre riserve, distintamente indicate. 
+ VIII - Utili (perdite) portati a nuovo. 
+ IX - Utile (perdita) dell'esercizio. 
+ Totale. 
+ B) Fondi per rischi e oneri: 
+ 1) per trattamento di quiescenza e obblighi simili; 
+ 2) per imposte, anche differite; 
+ 3) altri. 
+ Totale. 
+ C) Trattamento di fine rapporto di lavoro subordinato. 
+ D) Debiti, con separata indicazione, per ciascuna voce, degli 
+ importi esigibili oltre l'esercizio successivo: 
+ 1) obbligazioni; 
+ 2) obbligazioni convertibili; 
+ 3) debiti verso soci per finanziamenti; 
+ 4) debiti verso banche; 
+ 5) debiti verso altri finanziatori; 
+ 6) acconti; 
+ 7) debiti verso fornitori; 
+ 8) debiti rappresentati da titoli di credito; 
+ 9) debiti verso imprese controllate; 
+ 10) debiti verso imprese collegate; 
+ 11) debiti verso controllanti; 
+ 12) debiti tributari; 
+ 13) debiti verso istituti di previdenza e di sicurezza sociale; 
+ 14) altri debiti. 
+ Totale. 
+E) Ratei e risconti, con separata indicazione dell'aggio su prestiti. 
+ Se un elemento dell'attivo o del passivo ricade sotto piu' voci 
+ dello schema, nella nota integrativa deve annotarsi, qualora cio'  sia necessario ai fini della comprensione del bilancio, la sua 
+ appartenenza anche a voci diverse da quella nella quale e' iscritto. 
+ In calce allo stato patrimoniale devono risultare le garanzie prestate direttamente o indirettamente, distinguendosi fra fideiussioni, avalli, altre garanzie personali e garanzie reali, ed indicando separatamente, per ciascun tipo, le garanzie prestate a favore di imprese controllate e collegate, nonche' di controllanti e di imprese sottoposte al controllo di queste ultime; devono inoltre risultare gli altri conti d'ordine. 
+ E' fatto salvo quanto disposto dall'articolo 2447-septies con riferimento ai beni e rapporti giuridici compresi nei patrimoni destinati ad uno specifico affare ai sensi della lettera a) del primo comma dell'articolo 2447-bis. 
+ 2424-bis (Disposizioni relative a singole voci dello stato patrimoniale). - Gli elementi patrimoniali destinati ad essere utilizzati durevolmente devono essere iscritti tra le immobilizzazioni. 
+ Le partecipazioni in altre imprese in misura non inferiore a quelle stabilite dal terzo comma dell'articolo 2359 si presumono immobilizzazioni. 
+ Gli accantonamenti per rischi ed oneri sono destinati soltanto a coprire perdite o debiti di natura determinata, di esistenza certa o probabile, dei quali tuttavia alla chiusura dell'esercizio sono indeterminati o l'ammontare o la data di sopravvenienza. 
+ Nella voce: "trattamento di fine rapporto di lavoro subordinato deve essere indicato l'importo calcolato a norma dell'articolo 2120. 
+ Le attivita' oggetto di contratti di compravendita con obbligo di retrocessione a termine devono essere iscritte nello stato patrimoniale del venditore. 
+ Nella voce ratei e risconti attivi devono essere iscritti i proventi di competenza dell'esercizio esigibili in esercizi successivi, e i costi sostenuti entro la chiusura dell'esercizio ma di competenza di esercizi successivi. Nella voce ratei e risconti passivi devono essere iscritti i costi di competenza dell'esercizio esigibili in esercizi successivi e i proventi percepiti entro la chiusura dell'esercizio ma di competenza di esercizi successivi.
+Possono essere iscritte in tali voci soltanto quote di costi e proventi, comuni a due o piu' esercizi, l'entita' dei quali vari in ragione del tempo. 
+ 2425 (Contenuto del conto economico). - Il conto economico deve essere redatto in conformita' al seguente schema: 
+A) Valore della produzione: .ofr; 
+ 1) ricavi delle vendite e delle prestazioni; 
+ 2) variazioni delle rimanenze di prodotti in corso di lavorazione, 
+ semilavorati e finiti; 
+ 3) variazioni dei lavori in corso su ordinazione; 
+ 4) incrementi di immobilizzazioni per lavori interni; 
+ 5) altri ricavi e proventi, con separata indicazione dei 
+ contributi in conto esercizio. 
+ Totale. 
+B) Costi della produzione: 
+ 6) per materie prime, sussidiarie, di consumo e di merci; 
+ 7) per servizi; 
+ 8) per godimento di beni di terzi; 
+ 9) per il personale: 
+ 
+                        
+                        
+                            a)
+                            
+                                salari e stipendi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                oneri sociali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                trattamento di fine rapporto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                trattamento di quiescenza e simili; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                altri costi; 
+ 10) ammortamenti e svalutazioni: 
+ a) ammortamento delle immobilizzazioni immateriali; 
+ b) ammortamento delle immobilizzazioni materiali; 
+ c) altre svalutazioni delle immobilizzazioni; 
+ d) svalutazioni dei crediti compresi nell'attivo circolante e delle disponibilita' liquide; 
+ 11) variazioni delle rimanenze di materie prime, sussidiarie, di consumo e merci; 
+ 12) accantonamenti per rischi; 
+ 13) altri accantonamenti; 
+ 14) oneri diversi di gestione. 
+ Totale. 
+ Differenza tra valore e costi della produzione (A - B). 
+C) Proventi e oneri finanziari: 
+ 15) proventi da partecipazioni, con separata indicazione di quelli relativi ad imprese controllate e collegate; 
+ 16) altri proventi finanziari: 
+ a) da crediti iscritti nelle immobilizzazioni, con separata 
+ indicazione di quelli da imprese controllate e collegate e di quelli da controllanti; 
+ b) da titoli iscritti nelle immobilizzazioni che non costituiscono partecipazioni; 
+ c) da titoli iscritti nell'attivo circolante che non costituiscono partecipazioni; 
+ d) proventi diversi dai precedenti, con separata indicazione di 
+ quelli da imprese controllate e collegate e di quelli da controllanti; 
+ 17) interessi e altri oneri finanziari, con separata indicazione  di quelli verso imprese controllate e collegate e verso controllanti; 
+ 17-bis) utili e perdite su cambi. Totale (15 + 16 - 17+ - 17 bis).
+D) Rettifiche di valore di attivita' finanziarie: 
+ 18) rivalutazioni: 
+ a) di partecipazioni; 
+ b) di immobilizzazioni finanziarie che non costituiscono partecipazioni; 
+ c) di titoli iscritti all'attivo circolante che non costituiscono partecipazioni; 
+ 19) svalutazioni: 
+ a) di partecipazioni; 
+ b) di immobilizzazioni finanziarie che non costituiscono partecipazioni; 
+ c) di titoli iscritti nell'attivo circolante che non 
+ costituiscono partecipazioni. Totale delle rettifiche (18 - 19). 
+E) Proventi e oneri straordinari: 
+ 20) proventi, con separata indicazione delle plusvalenze da alienazioni i cui ricavi non sono iscrivibili al n. 5); 
+ 21) oneri, con separata indicazione delle minusvalenze da 
+ alienazioni, i cui effetti contabili non sono iscrivibili al n. 
+ 14), e delle imposte relative a esercizi precedenti. Totale delle partite straordinarie (20-21). 
+ Risultato prima delle imposte (A - B + - C + - D + - E); 
+ 22) imposte sul reddito dell'esercizio, correnti, differite e anticipate; 
+ 23) utile (perdite) dell'esercizio. 
+ 2425-bis (Iscrizione dei ricavi, proventi, costi ed oneri). - I ricavi e i proventi, i costi e gli oneri devono essere indicati al netto dei resi, degli sconti, abbuoni e premi, nonche' delle imposte direttamente connesse con la vendita dei prodotti e la prestazione dei servizi. 
+ I ricavi e i proventi, i costi e gli oneri relativi ad operazioni in valuta devono essere determinati al cambio corrente alla data nella quale la relativa operazione e' compiuta. 
+ I proventi e gli oneri relativi ad operazioni di compravendita con obbligo di retrocessione a termine, ivi compresa la differenza tra prezzo a termine e prezzo a pronti, devono essere iscritti per le quote di competenza dell'esercizio. 
+ 2426 (Criteri di valutazioni). - Nelle valutazioni devono essere osservati i seguenti criteri: 
+ 1) le immobilizzazioni sono iscritte al costo di acquisto o di produzione. Nel costo di acquisto si computano anche i costi accessori. Il costo di produzione comprende tutti i costi direttamente imputabili al prodotto. Puo' comprendere anche altri costi, per la quota ragionevolmente imputabile al prodotto, relativi al periodo di fabbricazione e fino al momento dal quale il bene puo' essere utilizzato; con gli stessi criteri possono essere aggiunti gli oneri relativi al finanziamento della fabbricazione, interna o presso terzi; 
+ 2) il costo delle immobilizzazioni, materiali e immateriali, la cui utilizzazione e' limitata nel tempo deve essere sistematicamente ammortizzato in ogni esercizio in relazione con la loro residua possibilita' di utilizzazione. Eventuali modifiche dei criteri di ammortamento e dei coefficienti applicati devono essere motivate nella nota integrativa; 
+ 3) l'immobilizzazione che, alla data della chiusura dell'esercizio, risulti durevolmente di valore inferiore a quello determinato secondo i numeri 1) e 2) deve essere iscritta a tale minore valore; questo non puo' essere mantenuto nei successivi bilanci se sono venuti meno i motivi della rettifica effettuata. 
+ Per le immobilizzazioni consistenti in partecipazioni in imprese controllate o collegate che risultino iscritte per un valore superiore a quello derivante dall'applicazione del criterio di valutazione previsto dal successivo numero 4) o, se non vi sia obbligo di redigere il bilancio consolidato, al valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio dell'impresa partecipata, la differenza dovra' essere motivata nella nota integrativa; 
+ 4) le immobilizzazioni consistenti in partecipazioni in imprese controllate o collegate possono essere valutate, con riferimento ad una o piu' tra dette imprese, anziche' secondo il criterio indicato al numero 1), per un importo pari alla corrispondente frazione del patrimonio netto risultante dall'ultimo bilancio delle imprese medesime, detratti i dividendi ed operate le rettifiche richieste dai principi di redazione del bilancio consolidato nonche' quelle necessarie per il rispetto dei principi indicati negli articoli 2423 e 2423-bis. 
+ Quando la partecipazione e' iscritta per la prima volta in base al metodo del patrimonio netto, il costo di acquisto superiore al valore corrispondente del patrimonio netto risultante dall'ultimo bilancio dell'impresa controllata o collegata puo' essere iscritto nell'attivo, purche' ne siano indicate le ragioni nella nota integrativa. La differenza, per la parte attribuibile a beni ammortizzabili o all'avviamento, deve essere ammortizzata. 
+ Negli esercizi successivi le plusvalenze, derivanti dall'applicazione del metodo del patrimonio netto, rispetto al valore indicato nel bilancio dell'esercizio precedente sono iscritte in una riserva non distribuibile; 
+ 5) i costi di impianto e di ampliamento, i costi di ricerca, di sviluppo e di pubblicita' aventi utilita' pluriennale possono essere iscritti nell'attivo con il consenso, ove esistente, del collegio sindacale e devono essere ammortizzati entro un periodo non superiore a cinque anni. Fino a che l'ammortamento non e' completato possono essere distribuiti dividendi solo se residuano riserve disponibili sufficienti a coprire l'ammontare dei costi non ammortizzati; 
+ 6) l'avviamento puo' essere iscritto nell'attivo con il consenso, ove esistente, del collegio sindacale, se acquisito a titolo oneroso, nei limiti del costo per esso sostenuto e deve essere ammortizzato entro un periodo di cinque anni. 
+ E' tuttavia consentito ammortizzare sistematicamente l'avviamento in un periodo limitato di durata superiore, purche' esso non superi la durata per l'utilizzazione di questo attivo e ne sia data adeguata motivazione nella nota integrativa; 
+ 7) il disaggio su prestiti deve essere iscritto nell'attivo e ammortizzato in ogni esercizio per il periodo di durata del prestito; 
+ 8) i crediti devono essere iscritti secondo il valore presumibile di realizzazione; 
+ 8-bis) le attivita' e le passivita' in valuta, ad eccezione delle immobilizzazioni, devono essere iscritte al tasso di cambio a pronti alla data di chiusura dell'esercizio ed i relativi utili e perdite su cambi devono essere imputati al conto economico e l'eventuale utile netto deve essere accantonato in apposita riserva non distribuibile fino al realizzo. Le immobilizzazioni in valuta devono essere iscritte al tasso di cambio al momento del loro acquisto o a quello inferiore alla data di chiusura dell'esercizio se la riduzione debba giudicarsi durevole; 
+ 9) le rimanenze, i titoli e le attivita' finanziarie che non costituiscono immobilizzazioni sono iscritti al costo di acquisto o di produzione, calcolato secondo il numero 1), ovvero al valore di realizzazione desumibile dall'andamento del mercato, se minore; tale minor valore non puo' essere mantenuto nei successivi bilanci se ne sono venuti meno i motivi. I costi di distribuzione non possono essere computati nel costo di produzione; 
+ 10) il costo dei beni fungibili puo' essere calcolato col metodo della media ponderata o con quelli: "primo entrato, primo uscito o: "ultimo entrato, primo uscito ; se il valore cosi' ottenuto differisce in misura apprezzabile dai costi correnti alla chiusura dell'esercizio, la differenza deve essere indicata, per categoria di beni, nella nota integrativa; 
+ 11) i lavori in corso su ordinazione possono essere iscritti sulla base dei corrispettivi contrattuali maturati con ragionevole certezza; 
+ 12) le attrezzature industriali e commerciali, le materie prime, sussidiarie e di consumo, possono essere iscritte nell'attivo ad un valore costante qualora siano costantemente rinnovate, e complessivamente di scarsa importanza in rapporto all'attivo di bilancio, sempreche' non si abbiano variazioni sensibili nella loro entita', valore e composizione. 
+ 2427 (Contenuto della nota integrativa). - La nota integrativa deve indicare, oltre a quanto stabilito da altre disposizioni: 
+ 1) i criteri applicati nella valutazione delle voci del bilancio, nelle rettifiche di valore e nella conversione dei valori non espressi all'origine in moneta avente corso legale nello Stato; 
+ 2) i movimenti delle immobilizzazioni, specificando per ciascuna voce: il costo; le precedenti rivalutazioni, ammortamenti e svalutazioni; le acquisizioni, gli spostamenti da una ad altra voce, le alienazioni avvenuti nell'esercizio; le rivalutazioni, gli ammortamenti e le svalutazioni effettuati nell'esercizio; il totale delle rivalutazioni riguardanti le immobilizzazioni esistenti alla chiusura dell'esercizio; 
+ 3) la composizione delle voci: "costi di impianto e di ampliamento e: "costi di ricerca, di sviluppo e di pubblicita' , nonche' le ragioni della iscrizione ed i rispettivi criteri di ammortamento; 
+ 3-bis) la misura e le motivazioni delle riduzioni di valore applicate alle immobilizzazioni immateriali di durata indeterminata, facendo a tal fine esplicito riferimento al loro concorso alla futura produzione di risultati economici, alla loro prevedibile durata utile e, per quanto determinabile, al loro valore di mercato, segnalando altresi' le differenze rispetto a quelle operate negli esercizi precedenti ed evidenziando la loro influenza sui risultati economici dell'esercizio e sugli indicatori di redditivita' di cui sia stata data comunicazione; 
+ 4) le variazioni intervenute nella consistenza delle altre voci dell'attivo e del passivo; in particolare, per le voci del patrimonio netto, per i fondi e per il trattamento di fine rapporto, la formazione e le utilizzazioni; 
+ 5) l'elenco delle partecipazioni, possedute direttamente o per tramite di societa' fiduciaria o per interposta persona, in imprese controllate e collegate, indicando per ciascuna la denominazione, la sede, il capitale, l'importo del patrimonio netto, l'utile o la perdita dell'ultimo esercizio, la quota posseduta e il valore attribuito in bilancio o il corrispondente credito; 
+ 6) distintamente per ciascuna voce, l'ammontare dei crediti e dei debiti di durata residua superiore a cinque anni, e dei debiti assistiti da garanzie reali su beni sociali, con specifica indicazione della natura delle garanzie e con specifica ripartizione secondo le aree geografiche; 
+ 6-bis) eventuali effetti significativi delle variazioni nei cambi valutari verificatesi successivamente alla chiusura dell'esercizio; 
+ 6-ter) distintamente per ciascuna voce, l'ammontare dei crediti e dei debiti relativi ad operazioni che prevedono l'obbligo per l'acquirente di retrocessione a termine; 
+ 7) la composizione delle voci "ratei e risconti attivi e "ratei e risconti passivi e della voce "altri fondi dello stato patrimoniale, quando il loro ammontare sia apprezzabile, nonche' la composizione della voce "altre riserve ; 
+ 7-bis) le voci di patrimonio netto devono essere analiticamente indicate, con specificazione in appositi prospetti della loro origine, possibilita' di utilizzazione e distribuibilita', nonche' della loro avvenuta utilizzazione nei precedenti esercizi; 
+ 8) l'ammontare degli oneri finanziari imputati nell'esercizio ai valori iscritti nell'attivo dello stato patrimoniale, distintamente per ogni voce; 
+ 9) gli impegni non risultanti dallo stato patrimoniale; le notizie sulla composizione e natura di tali impegni e dei conti d'ordine, la cui conoscenza sia utile per valutare la situazione patrimoniale e finanziaria della societa', specificando quelli relativi a imprese controllate, collegate, controllanti e a imprese sottoposte al controllo di queste ultime; 
+ 10) se significativa, la ripartizione dei ricavi delle vendite e delle prestazioni secondo categorie di attivita' e secondo aree geografiche; 
+ 11) l'ammontare dei proventi da partecipazioni, indicati nell'articolo 2425, numero 15), diversi dai dividendi; 
+ 12) la suddivisione degli interessi ed altri oneri finanziari, indicati nell'articolo 2425, n. 17), relativi a prestiti obbligazionari, a debiti verso banche, e altri; 
+ 13) la composizione delle voci: "proventi straordinari e: "oneri straordinari del conto economico, quando il loro ammontare sia apprezzabile; 
+ 14) un apposito prospetto contenente: 
+ a) la descrizione delle differenze temporanee che hanno comportato la rilevazione di imposte differite e anticipate, specificando l'aliquota applicata e le variazioni rispetto all'esercizio precedente, gli importi accreditati o addebitati a conto economico oppure a patrimonio netto, le voci escluse dal computo e le relative motivazioni; 
+ b) l'ammontare delle imposte anticipate contabilizzato in bilancio attinenti a perdite dell'esercizio o di esercizi precedenti e le motivazioni dell'iscrizione, l'ammontare non ancora contabilizzato e le motivazioni della mancata iscrizione; 
+ 15) il numero medio dei dipendenti, ripartito per categoria; 16) l'ammontare dei compensi spettanti agli amministratori ed ai sindaci, cumulativamente per ciascuna categoria; 
+ 17) il numero e il valore nominale di ciascuna categoria di azioni della societa' e il numero e il valore nominale delle nuove azioni della societa' sottoscritte durante l'esercizio; 
+ 18) le azioni di godimento, le obbligazioni convertibili in azioni e i titoli o valori simili emessi dalla societa', specificando il loro numero e i diritti che essi attribuiscono; 
+ 19) il numero e le caratteristiche degli altri strumenti finanziari emessi dalla societa', con l'indicazione dei diritti patrimoniali e partecipativi che conferiscono e delle principali caratteristiche delle operazioni relative; 
+ 19-bis) i finanziamenti effettuati dai soci alla societa', ripartiti per scadenze e con la separata indicazione di quelli con clausola di postergazione rispetto agli altri creditori; 
+ 20) i dati richiesti dal terzo comma dell'articolo 2447-septies con riferimento ai patrimoni destinati ad uno specifico affare ai sensi della lettera a) del primo comma dell'articolo 2447-bis; 
+ 21) i dati richiesti dall'articolo 2447-decies, ottavo comma; 
+ 22) le operazioni di locazione finanziaria che comportano il trasferimento al locatario della parte prevalente dei rischi e dei benefici inerenti ai beni che ne costituiscono oggetto, sulla base di un apposito prospetto dal quale risulti il valore attuale delle rate di canone non scadute quale determinato utilizzando tassi di interesse pari all'onere finanziario effettivo inerenti i singoli contratti, l'onere finanziario effettivo attribuibile ad essi e riferibile all'esercizio, l'ammontare complessivo al quale i beni oggetto di locazione sarebbero stati iscritti alla data di chiusura dell'esercizio qualora fossero stati considerati immobilizzazioni, con separata indicazione di ammortamenti, rettifiche e riprese di valore che sarebbero stati inerenti all'esercizio. 
+ 2428 (Relazione sulla gestione). - Il bilancio deve essere corredato da una relazione degli amministratori sulla situazione della societa' e sull'andamento della gestione, nel suo complesso e nei vari settori in cui essa ha operato, anche attraverso imprese controllate, con particolare riguardo ai costi, ai ricavi e agli investimenti. 
+ Dalla relazione devono in ogni caso risultare: 
+ 1) le attivita' di ricerca e di sviluppo; 
+ 2) i rapporti con imprese controllate, collegate, controllanti e imprese sottoposte al controllo di queste ultime; 
+ 3) il numero e il valore nominale sia delle azioni proprie sia delle azioni o quote di societa' controllanti possedute dalla societa', anche per tramite di societa' fiduciaria o per interposta persona, con l'indicazione della parte di capitale corrispondente; 
+ 4) il numero e il valore nominale sia delle azioni proprie sia delle azioni o quote di societa' controllanti acquistate o alienate dalla societa', nel corso dell'esercizio, anche per tramite di societa' fiduciaria o per interposta persona, con l'indicazione della corrispondente parte di capitale, dei corrispettivi e dei motivi degli acquisti e delle alienazioni; 
+ 5) i fatti di rilievo avvenuti dopo la chiusura dell'esercizio; 
+ 6) l'evoluzione prevedibile della gestione. 
+ Entro tre mesi dalla fine del primo semestre dell'esercizio gli amministratori delle societa' con azioni quotate in mercati regolamentati devono trasmettere al collegio sindacale una relazione sull'andamento della gestione, redatta secondo i criteri stabiliti dalla Commissione nazionale per le societa' e la borsa con regolamento pubblicato nella Gazzetta Ufficiale della Repubblica italiana. La relazione deve essere pubblicata nei modi e nei termini stabiliti dalla Commissione stessa con il regolamento anzidetto. 
+ Dalla relazione deve inoltre risultare l'elenco delle sedi secondarie della societa'. 
+ 2429 (Relazione dei sindaci e deposito del bilancio). - Il bilancio deve essere comunicato dagli amministratori al collegio sindacale, con la relazione, almeno trenta giorni prima di quello fissato per l'assemblea che deve discuterlo. 
+ Il collegio sindacale deve riferire all'assemblea sui risultati dell'esercizio sociale e sull'attivita' svolta nell'adempimento dei propri doveri, e fare le osservazioni e le proposte in ordine al bilancio e alla sua approvazione, con particolare riferimento all'esercizio della deroga di cui all'articolo 2423, quarto comma.
+Analoga relazione e' predisposta dal soggetto incaricato del controllo contabile. 
+ Il bilancio, con le copie integrali dell'ultimo bilancio delle societa' controllate e un prospetto riepilogativo dei dati essenziali dell'ultimo bilancio delle societa' collegate, deve restare depositato in copia nella sede della societa', insieme con le relazioni degli amministratori, dei sindaci e del soggetto incaricato del controllo contabile, durante i quindici giorni che precedono l'assemblea, e finche' sia approvato. I soci possono prenderne visione. 
+ Il deposito delle copie dell'ultimo bilancio delle societa' controllate prescritto dal comma precedente puo' essere sostituito, per quelle incluse nel consolidamento, dal deposito di un prospetto riepilogativo dei dati essenziali dell'ultimo bilancio delle medesime. 
+ 2430 (Riserva legale). - Dagli utili netti annuali deve essere dedotta una somma corrispondente almeno alla ventesima parte di essi per costituire una riserva, fino a che questa non abbia raggiunto il quinto del capitale sociale. 
+ La riserva deve essere reintegrata a norma del comma precedente se viene diminuita per qualsiasi ragione. 
+ Sono salve le disposizioni delle leggi speciali. 
+ 2431 (Soprapprezzo delle azioni). - Le somme percepite dalla societa' per l'emissione di azioni ad un prezzo superiore al loro valore nominale, ivi comprese quelle derivate dalla conversione di obbligazioni, non possono essere distribuite fino a che la riserva legale non abbia raggiunto il limite stabilito dall'articolo 2430. 
+ 2432 (Partecipazione agli utili). - Le partecipazioni agli utili eventualmente spettanti ai promotori, ai soci fondatori e agli amministratori sono computate sugli utili netti risultanti dal bilancio, fatta deduzione della quota di riserva legale. 
+ 2433 (Distribuzione degli utili ai soci). - La deliberazione sulla distribuzione degli utili e' adottata dall'assemblea che approva il bilancio ovvero, qualora il bilancio sia approvato dal consiglio di sorveglianza, dall'assemblea convocata a norma dell'articolo 2364-bis, secondo comma. 
+ Non possono essere pagati dividendi sulle azioni, se non per utili realmente conseguiti e risultanti dal bilancio regolarmente approvato. 
+ Se si verifica una perdita del capitale sociale, non puo' farsi luogo a ripartizione di utili fino a che il capitale non sia reintegrato o ridotto in misura corrispondente. 
+ I dividendi erogati in violazione delle disposizioni del presente articolo non sono ripetibili, se i soci li hanno riscossi in buona fede in base a bilancio regolarmente approvato, da cui risultano utili netti corrispondenti. 
+ 2433-bis (Acconti sui dividendi). - La distribuzione di acconti sui dividendi e' consentita solo alle societa' il cui bilancio e' assoggettato per legge al controllo da parte di societa' di revisione iscritte all'albo speciale. 
+ La distribuzione di acconti sui dividendi deve essere prevista dallo statuto ed e' deliberata dagli amministratori dopo il rilascio da parte della societa' di revisione di un giudizio positivo sul bilancio dell'esercizio precedente e la sua approvazione. 
+ Non e' consentita la distribuzione di acconti sui dividendi quando dall'ultimo bilancio approvato risultino perdite relative all'esercizio o a esercizi precedenti. 
+ L'ammontare degli acconti sui dividendi non puo' superare la minor somma tra l'importo degli utili conseguiti dalla chiusura dell'esercizio precedente, diminuito delle quote che dovranno essere destinate a riserva per obbligo legale o statutario, e quello delle riserve disponibili. 
+ Gli amministratori deliberano la distribuzione di acconti sui dividendi sulla base di un prospetto contabile e di una relazione, dai quali risulti che la situazione patrimoniale, economica e finanziaria della societa' consente la distribuzione stessa. Su tali documenti deve essere acquisito il parere del soggetto incaricato del controllo contabile. 
+ Il prospetto contabile, la relazione degli amministratori e il parere del soggetto incaricato del controllo contabile debbono restare depositati in copia nella sede della societa' fino all'approvazione del bilancio dell'esercizio in corso. I soci possono prenderne visione. 
+ Ancorche' sia successivamente accertata l'inesistenza degli utili di periodo risultanti dal prospetto, gli acconti sui dividendi erogati in conformita' con le altre disposizioni del presente articolo non sono ripetibili se i soci li hanno riscossi in buona fede. 
+ 2434 (Azione di responsabilita). - L'approvazione del bilancio non implica liberazione degli amministratori, dei direttori generali e dei sindaci per le responsabilita' incorse nella gestione sociale. 
+ 2434-bis (Invalidita' della deliberazione di approvazione del bilancio). - Le azioni previste dagli articoli 2377 e 2379 non possono essere proposte nei confronti delle deliberazioni di approvazione del bilancio dopo che e' avvenuta l'approvazione del bilancio dell'esercizio successivo. 
+ La legittimazione ad impugnare la deliberazione di approvazione del bilancio su cui il revisore non ha formulato rilievi spetta a tanti soci che rappresentino almeno il cinque per cento del capitale sociale. 
+ Il bilancio dell'esercizio nel corso del quale viene dichiarata l'invalidita' di cui al comma precedente tiene conto delle ragioni di questa. 
+ 2435 (Pubblicazione del bilancio e dell'elenco dei soci e dei titolari di diritti su azioni). - Entro trenta giorni dall'approvazione una copia del bilancio, corredata dalle relazioni previste dagli articoli 2428 e 2429 e dal verbale di approvazione dell'assemblea o del consiglio di sorveglianza, deve essere, a cura degli amministratori, depositata presso l'ufficio del registro delle imprese o spedita al medesimo ufficio a mezzo di lettera raccomandata. 
+ Entro trenta giorni dall'approvazione del bilancio le societa' non aventi azioni quotate in mercati regolamentati sono tenute altresi' a depositare per l'iscrizione nel registro delle imprese l'elenco dei soci riferito alla data di approvazione del bilancio, con l'indicazione del numero delle azioni possedute, nonche' dei soggetti diversi dai soci che sono titolari di diritti o beneficiari di vincoli sulle azioni medesime. L'elenco deve essere corredato dall'indicazione analitica delle annotazioni effettuate nel libro dei soci a partire dalla data di approvazione del bilancio dell'esercizio precedente. 
+ 2435-bis (Bilancio in forma abbreviata). - Le societa', che non abbiano emesso titoli negoziati in mercati regolamentati, possono redigere il bilancio in forma abbreviata quando, nel primo esercizio o, successivamente, per due esercizi consecutivi, non abbiano superato due dei seguenti limiti: 
+ 1) totale dell'attivo dello stato patrimoniale: 3.125.000 euro; 
+ 2) ricavi delle vendite e delle prestazioni: 6.250.000 euro; 
+ 3) dipendenti occupati in media durante l'esercizio: 50 unita'. 
+ Nel bilancio in forma abbreviata lo stato patrimoniale comprende solo le voci contrassegnate nell'articolo 2424 con lettere maiuscole e con numeri romani; le voci A e D dell'attivo possono essere comprese nella voce CII; dalle voci BI e BII dell'attivo devono essere detratti in forma esplicita gli ammortamenti e le svalutazioni; la voce E del passivo puo' essere compresa nella voce D; nelle voci CII dell'attivo e D del passivo devono essere separatamente indicati i crediti e i debiti esigibili oltre l'esercizio successivo. 
+ Nel conto economico del bilancio in forma abbreviata le seguenti voci previste dall'articolo 2425 possono essere tra loro raggruppate: 
+voci A2 e A3 
+voci B9(c), B9(d), B9(e) 
+voci B10(a), B10(b),B10(c) 
+voci C16(b) e C16(c) 
+voci D18(a), D18(b), D18(c) 
+voci D19(a), D19(b), D19(c) 
+ Nel conto economico del bilancio in forma abbreviata nella voce E20 non e' richiesta la separata indicazione delle plusvalenze e nella voce E21 non e' richiesta la separata indicazione delle minusvalenze e delle imposte relative a esercizi precedenti. 
+ Nella nota integrativa sono omesse le indicazioni richieste dal numero 10 dell'articolo 2426 e dai numeri 2), 3), 7), 9), 10), 12), 13), 14), 15), 16) e 17) dell'articolo 2427; le indicazioni richieste dal numero 6) dell'articolo 2427 sono riferite all'importo globale dei debiti iscritti in bilancio. 
+ Qualora le societa' indicate nel primo comma forniscano nella nota integrativa le informazioni richieste dai numeri 3) e 4) dell'articolo 2428, esse sono esonerate dalla redazione della relazione sulla gestione. 
+ Le societa' che a norma del presente articolo redigono il bilancio in forma abbreviata devono redigerlo in forma ordinaria quando per il secondo esercizio consecutivo abbiano superato due dei limiti indicati nel primo comma. 
+ 
+ Sezione X 
+ Delle modificazioni dello statuto 
+ 
+ 2436 (Deposito, iscrizione e pubblicazione delle modificazioni). - Il notaio che ha verbalizzato la deliberazione di modifica dello statuto, entro trenta giorni, verificato l'adempimento delle condizioni stabilite dalla legge, ne richiede l'iscrizione nel registro delle imprese contestualmente al deposito e allega le eventuali autorizzazioni richieste. 
+ L'ufficio del registro delle imprese, verificata la regolarita' formale della documentazione, iscrive la delibera nel registro. 
+ Se il notaio ritiene non adempiute le condizioni stabilite dalla legge, ne da' comunicazione tempestivamente, e comunque non oltre il termine previsto dal primo comma del presente articolo, agli amministratori. Gli amministratori, nei trenta giorni successivi, possono convocare l'assemblea per gli opportuni provvedimenti oppure ricorrere al tribunale per il provvedimento di cui ai successivi commi; in mancanza la deliberazione e' definitivamente inefficace. 
+ Il tribunale, verificato l'adempimento delle condizioni richieste dalla legge e sentito il pubblico ministero, ordina l'iscrizione nel registro delle imprese con decreto soggetto a reclamo. 
+ La deliberazione non produce effetti se non dopo l'iscrizione. 
+ Dopo ogni modifica dello statuto deve esserne depositato nel registro delle imprese il testo integrale nella sua redazione aggiornata. 
+ 2437 (Diritto di recesso). - Hanno diritto di recedere, per tutte o parte delle loro azioni, i soci che non hanno concorso alle deliberazioni riguardanti: 
+ a) la modifica della clausola dell'oggetto sociale, quando consente un cambiamento significativo dell'attivita' della societa'; 
+ b) la trasformazione della societa'; 
+ c) il trasferimento della sede sociale all'estero; 
+ d) la revoca dello stato di liquidazione; 
+ e) l'eliminazione di una o piu' cause di recesso previste dal successivo comma ovvero dallo statuto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                la modifica dei criteri di determinazione del valore dell'azione in caso di recesso; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le modificazioni dello statuto concernenti i diritti di voto o di partecipazione. 
+ Salvo che lo statuto disponga diversamente, hanno diritto di recedere i soci che non hanno concorso all'approvazione delle deliberazioni riguardanti: 
+ a) la proroga del termine; 
+ b) l'introduzione o la rimozione di vincoli alla circolazione dei titoli azionari. 
+ Se la societa' e' costituita a tempo indeterminato e le azioni non sono quotate in un mercato regolamentato il socio puo' recedere con il preavviso di almeno centottanta giorni; lo statuto puo' prevedere un termine maggiore, non superiore ad un anno. 
+ Lo statuto delle societa' che non fanno ricorso al mercato del capitale di rischio puo' prevedere ulteriori cause di recesso. 
+ Restano salve le disposizioni dettate in tema di recesso per le societa' soggette ad attivita' di direzione e coordinamento.
 
 E' nullo ogni patto volto ad escludere o rendere piu' gravoso l'esercizio del diritto di recesso nelle ipotesi previste dal primo comma del presente articolo. 
  2437-bis (Termini e modalita' di esercizio). - Il diritto di recesso e' esercitato mediante lettera raccomandata che deve essere spedita entro quindici giorni dall'iscrizione nel registro delle imprese della delibera che lo legittima, con l'indicazione delle generalita' del socio recedente, del domicilio per le comunicazioni inerenti al procedimento, del numero e della categoria delle azioni per le quali il diritto di recesso viene esercitato. Se il fatto che legittima il recesso e' diverso da una deliberazione, esso e' esercitato entro trenta giorni dalla sua conoscenza da parte del socio. 
@@ -424,6 +1388,50 @@ Nota redazionale
  E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
 ## Art. 5. — Nuove norme in tema di direzione e coordinamento di societa'
+
+1.
+                    
+                        
+                            Il Capo IX del Titolo V del Libro V del codice civile e' sostituito dal seguente: 
+ 
+ "Capo IX 
+ Direzione e coordinamento di societa' 
+ 
+ 2497 (Responsabilita). - Le societa' o gli enti che, esercitando attivita' di direzione e coordinamento di societa', agiscono nell'interesse imprenditoriale proprio o altrui in violazione dei principi di corretta gestione societaria e imprenditoriale delle societa' medesime, sono direttamente responsabili nei confronti dei soci di queste per il pregiudizio arrecato alla redditivita' ed al valore della partecipazione sociale, nonche' nei confronti dei creditori sociali per la lesione cagionata all'integrita' del patrimonio della societa'. Non vi e' responsabilita' quando il danno risulta mancante alla luce del risultato complessivo dell'attivita' di direzione e coordinamento ovvero integralmente eliminato anche a seguito di operazioni a cio' dirette. 
+ Risponde in solido chi abbia comunque preso parte al fatto lesivo e, nei limiti del vantaggio conseguito, chi ne abbia consapevolmente tratto beneficio. 
+ Il socio ed il creditore sociale possono agire contro la societa' o l'ente che esercita l'attivita' di direzione e coordinamento, solo se non sono stati soddisfatti dalla societa' soggetta alla attivita' di direzione e coordinamento. 
+ Nel caso di fallimento, liquidazione coatta amministrativa e amministrazione straordinaria di societa' soggetta ad altrui direzione e coordinamento, l'azione spettante ai creditori di questa e' esercitata dal curatore o dal commissario liquidatore o dal commissario straordinario. 
+ 2497-bis (Pubblicita). - La societa' deve indicare ((la societa' o l'ente alla cui attivita' di direzione e coordinamento e' soggetta)) negli atti e nella corrispondenza, nonche' mediante iscrizione, a cura degli amministratori, presso la sezione del registro delle imprese di cui al comma successivo. 
+ E' istituita presso il registro delle imprese apposita sezione 
+nella quale ((sono indicate le societa' o gli enti)) che esercitano  attivita' di direzione e coordinamento e quelle che vi sono soggette. 
+Gli amministratori che omettono l'indicazione di cui al comma primo ovvero l'iscrizione di cui al comma secondo, o le mantengono quando la soggezione e' cessata, sono responsabili dei danni che la mancata conoscenza ditali fatti abbia recato ai soci o ai terzi. 
+ La societa' deve esporre, in apposita sezione della nota integrativa, un prospetto riepilogativo dei dati essenziali dell'ultimo bilancio della societa' o dell'ente che esercita su di essa l'attivita' di direzione e coordinamento. 
+ Parimenti, gli amministratori devono indicare nella relazione sulla gestione i rapporti intercorsi con chi esercita l'attivita' di direzione e coordinamento e con le altre societa' che vi sono soggette, nonche' l'effetto che tale attivita' ha avuto sull'esercizio dell'impresa sociale e sui suoi risultati. 
+ 2497-ter (Motivazione delle decisioni). - Le decisioni delle societa' soggette ad attivita' di direzione e coordinamento, quando da questa influenzate, debbono essere analiticamente motivate e recare puntuale indicazione delle ragioni e degli interessi la cui valutazione ha inciso sulla decisione. Di esse viene dato adeguato conto nella relazione di cui all'articolo 2428. 
+ 2497-quater (Diritto di recesso). - Il socio di societa' soggetta ad attivita' di direzione e coordinamento puo' recedere: 
+
+                        
+                        
+                            a)
+                            
+                                quando la societa' o l'ente che esercita attivita' di direzione e coordinamento ha deliberato una trasformazione che implica il mutamento del suo scopo sociale, ovvero ha deliberato una modifica del suo oggetto sociale consentendo l'esercizio di attivita' che alterino in modo sensibile e diretto le condizioni economiche e patrimoniali della societa' soggetta ad attivita' di direzione e coordinamento; 
+                            
+                        
+                        
+                            b)
+                            
+                                quando a favore del socio sia stata pronunciata, con decisione esecutiva, condanna di chi esercita attivita' di direzione e coordinamento ai sensi dell'articolo 2497; in tal caso il diritto di recesso puo' essere esercitato soltanto per l'intera partecipazione del socio; 
+                            
+                        
+                        
+                            c)
+                            
+                                all'inizio ed alla cessazione dell'attivita' di direzione e coordinamento, quando non si tratta di una societa' con azioni quotate in mercati regolamentati e ne deriva un'alterazione delle condizioni di rischio dell'investimento e non venga promossa un'offerta pubblica di acquisto. 
+ Si applicano, a seconda dei casi ed in quanto compatibili, le disposizioni previste per il diritto di recesso del socio nella societa' per azioni o in quella a responsabilita' limitata. 
+ 2497-quinquies (Finanziamenti nell'attivita' di direzione e coordinamento). - Ai finanziamenti effettuati a favore della societa' da chi esercita attivita' di direzione e coordinamento nei suoi confronti o da altri soggetti ad essa sottoposti si applica l'articolo 2467. 
+ 2497-sexies (Presunzioni). - Ai fini di quanto previsto nel presente capo, si presume salvo prova contraria che l'attivita' di direzione e coordinamento di societa' sia esercitata ((dalla societa' o ente tenuto al consolidamento dei loro bilanci o che comunque le controlla)) ai sensi dell'articolo 2359. 
+ (( COMMA SOPPRESSO DAL D.LGS. 6 FEBBRAIO 2004, N. 37)). 
+ ((2497-septies (Coordinamento fra societa). Le disposizioni del presente capo si applicano altresi' alla societa' o all'ente che, fuori dalle ipotesi di cui all'articolo 2497-sexies, esercita attivita' di direzione e coordinamento di societa' sulla base di un contratto con le societa' medesime o di clausole dei loro statuti.))
 
 ## Art. 6. — Modifica della disciplina riguardante la trasformazione, la fusione e la scissione delle societa' di capitali
 
@@ -901,11 +1909,92 @@ Ove l'importanza della societa' cooperativa lo richieda, l'autorita' di vigilanz
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo la lettera h-ter), sono aggiunte le seguenti: 
+ "h-quater) `partecipazioni': le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque diritti previsti dall'articolo 2351, ultimo comma, del codice civile; 
+ h-quinquies) `partecipazioni rilevanti': le partecipazioni che comportano il controllo della societa' e le partecipazioni individuate dalla Banca d'Italia in conformita' alle deliberazioni del CICR, con riguardo alle diverse fattispecie disciplinate, tenendo conto dei diritti di voto e degli altri diritti che consentono di influire sulla societa'."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3 sono aggiunti i seguenti: 
+ "3-bis. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al consiglio di amministrazione, all'organo amministrativo e agli amministratori si applicano anche al consiglio di gestione ed ai suoi componenti; 
+ 3-ter. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al collegio sindacale, ai sindaci ed all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza ed al comitato per il controllo sulla gestione e ai loro componenti."
+
 ))
 
 ## Art. 9.2. — (( (Modifiche all'articolo 11 del decreto legislativo numero 385 del 1993). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 11 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ "3. Il CICR stabilisce limiti e criteri, anche con riguardo 
+ all'attivita' ed alla forma giuridica del soggetto che acquisisce  fondi, in base ai quali non costituisce raccolta del risparmio tra 
+ il pubblico quella effettuata presso specifiche categorie individuate in ragione di rapporti societari o di lavoro."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ "4. Il divieto di raccolta del risparmio tra il pubblico non si applica: 
+ a) agli Stati comunitari, agli organismi internazionali ai quali  aderiscono uno o piu' Stati comunitari, agli enti pubblici 
+ territoriali ai quali la raccolta del risparmio e' consentita in base agli ordinamenti nazionali degli Stati comunitari; 
+ b) agli Stati extracomunitari ed ai soggetti esteri abilitati da speciali disposizioni del diritto italiano; 
+ c) alle societa', per la raccolta effettuata ai sensi del codice  civile mediante obbligazioni, titoli di debito od altri strumenti finanziari; 
+ d) alle altre ipotesi di raccolta espressamente consentite dalla legge, nel rispetto del principio di tutela del risparmio."; 
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 4-bis e' sostituito dal seguente: 
+ "4-bis. Il CICR determina i criteri per l'individuazione degli 
+ strumenti finanziari, comunque denominati, la cui emissione costituisce raccolta del risparmio."; 
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 4-bis sono inseriti i seguenti: 
+ "4-ter. Se non disciplinati dalla legge, il CICR fissa limiti 
+ all'emissione e, su proposta formulata dalla Banca d'Italia 
+ sentita la CONSOB, puo' determinare durata e taglio degli 
+ strumenti finanziari, diversi dalle obbligazioni, utilizzati per la raccolta tra il pubblico. 
+ 4-quater. Il CICR, a fini di tutela della riserva dell'attivita'  bancaria, stabilisce criteri e limiti, anche in deroga a quanto 
+ previsto dal codice civile, per la raccolta effettuata dai 
+ soggetti che esercitano nei confronti del pubblico attivita' di concessione di finanziamenti sotto qualsiasi forma. 
+ 4-quinquies. A fini di tutela del risparmio, gli investitori 
+ professionali, che ai sensi del codice civile rispondono della 
+ solvenza della societa' per le obbligazioni, i titoli di debito e  gli altri strumenti finanziari emessi dalla stessa, devono 
+ rispettare idonei requisiti patrimoniali stabiliti dalle competenti autorita' di vigilanza."; 
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ "5. Nei casi previsti dal comma 4, lettere c) e d), sono comunque  precluse la raccolta di fondi a vista ed ogni forma di raccolta 
+ collegata all'emissione od alla gestione di mezzi di pagamento a spendibilita' generalizzata."
 
 ))
 
@@ -913,6 +2002,39 @@ Ove l'importanza della societa' cooperativa lo richieda, l'autorita' di vigilanz
  numero 385 del 1993). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 12 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ "3. L'emissione delle obbligazioni non convertibili o convertibili in titoli di altre societa' e' deliberata dall'organo amministrativo; non si applicano gli articoli 2410, 2412, 2413, 2414, primo comma, n. 3, 2414-bis, 2415, 2416, 2417, 2418 e 2419 del codice civile."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ "4. Alle obbligazioni convertibili in azioni proprie si applicano le norme del codice civile, eccetto l'articolo 2412."; 
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 4 e' inserito il seguente: 
+ "4-bis. I commi 3 e 4 si applicano anche agli strumenti finanziari assoggettati alla disciplina delle obbligazioni prevista dal codice civile."; 
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ "5. La Banca d'Italia, in conformita' delle deliberazioni del CICR, disciplina l'emissione da parte delle banche delle obbligazioni non convertibili o convertibili in titoli di altre societa' nonche' degli strumenti finanziari diversi dalle partecipazioni."
 
 ))
 
@@ -949,6 +2071,30 @@ L'articolo 19 del decreto legislativo numero 385 del 1993 e' sostituito dal segu
  numero 385 del 1993). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 20 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Chiunque e' titolare di una partecipazione rilevante in una banca ne da' comunicazione alla Banca d'Italia ed alla banca. Le variazioni della partecipazione sono comunicate quando superano la misura stabilita dalla Banca d'Italia."; 
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, ultimo periodo, la parola: "soci" e' soppressa; 
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, la parola: "socio" e' sostituita dalle parole: "titolare della partecipazione."
 
 ))
 
@@ -1026,6 +2172,38 @@ In caso di inosservanza, la deliberazione od il diverso atto, adottati con il vo
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 26 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: "(Requisiti di professionalita', onorabilita' e indipendenza degli esponenti aziendali)"; 
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, le parole: "e di onorabilita'" sono sostituite dalle parole: ", onorabilita' e indipendenza"; 
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Il difetto dei requisiti determina la decadenza dall'ufficio.
+ Essa e' dichiarata dal consiglio di amministrazione, dal consiglio di sorveglianza o dal consiglio di gestione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto. In caso di inerzia la decadenza e' pronunciata dalla Banca d'Italia."; 
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ "2-bis. Nel caso di difetto dei requisiti di indipendenza stabiliti dal codice civile o dallo statuto della banca si applica il comma 2."
+
 ))
 
 ## Art. 9.13. — (( (Modifiche all'articolo 28 del decreto legislativo 
@@ -1044,12 +2222,60 @@ All'articolo 28 del decreto legislativo numero 385 del 1993 sono apportate le se
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 52 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto, in fine, il seguente periodo: "A tali fini lo statuto della banca, indipendentemente dal sistema di amministrazione e controllo adottato, assegna all'organo che svolge la funzione di controllo i relativi compiti e poteri."; 
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, primo periodo, le parole: "Le societa' che esercitano attivita' di revisione contabile presso le banche comunicano" sono sostituite dalle parole: "Il soggetto incaricato della revisione o del controllo contabile comunica" e, nel secondo periodo, le parole: "Tali societa' inviano" sono sostituite dalle parole: 
+ "Tale soggetto invia"; 
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ "2-bis. Lo statuto delle banche di credito cooperativo puo' prevedere che il controllo contabile sia affidato al collegio sindacale."; 
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3, dopo le parole: "commi 1" sono inserite le parole: ", primo periodo,".
+
 ))
 
 ## Art. 9.15. — (( (Modifiche all'articolo 53 del decreto legislativo 
  numero 385 del 1993). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 53, comma 4, del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                nel primo periodo le parole: "al capitale" sono soppresse; 
+                            
+                        
+                        
+                            b)
+                            
+                                nel terzo periodo le parole: "i loro azionisti" sono sostituite dalle parole: "chi detiene una partecipazione rilevante".
 
 ))
 
@@ -1088,6 +2314,23 @@ All'articolo 61 del decreto legislativo numero 385 del 1993, il comma 5 e' sosti
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 62 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                nella rubrica le parole: "e di onorabilita'" sono sostituite dalle parole: ", onorabilita' e indipendenza"; 
+                            
+                        
+                        
+                            b)
+                            
+                                nel comma 1 le parole: "e di onorabilita'" sono sostituite dalle parole: ", onorabilita' e indipendenza".
+
 ))
 
 ## Art. 9.20. — (( (Modifiche all'articolo 63 del decreto legislativo 
@@ -1125,6 +2368,39 @@ All'articolo 71 del decreto legislativo numero 385 del 1993, il comma 2 e' sosti
  numero 385 del 1993). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 72 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. I commissari esercitano le funzioni ed i poteri di amministrazione della banca. Essi provvedono ad accertare la situazione aziendale, a rimuovere le irregolarita' ed a promuovere le soluzioni utili nell'interesse dei depositanti. Le disposizioni del codice civile, statutarie o convenzionali relative ai poteri di controllo dei titolari di partecipazioni non si applicano agli atti dei commissari. In caso di impugnazione delle decisioni dei commissari, i soci non possono richiedere al tribunale la sospensione dell'esecuzione delle decisioni dei commissari soggette ad autorizzazione o comunque attuative di provvedimenti della Banca d'Italia. I commissari, nell'esercizio delle loro funzioni, sono pubblici ufficiali."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Il comitato di sorveglianza esercita le funzioni di controllo e fornisce pareri ai commissari nei casi previsti dalla presente sezione o dalle disposizioni della Banca d'Italia."; 
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ "5. L'esercizio dell'azione sociale di responsabilita' contro i membri dei disciolti organi amministrativi e di controllo ed il direttore generale, nonche' dell'azione contro il soggetto incaricato del controllo contabile o della revisione, spetta ai commissari straordinari, sentito il comitato di sorveglianza, previa autorizzazione della Banca d'Italia. Gli organi succeduti all'amministrazione straordinaria proseguono le azioni di responsabilita' e riferiscono alla Banca d'Italia in merito alle stesse."; 
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 5 e' inserito il seguente: 
+ "5-bis. Nell'interesse della procedura i commissari, sentito il comitato di sorveglianza, previa autorizzazione della Banca d'Italia, possono sostituire il soggetto incaricato del controllo contabile per la durata della procedura stessa."
 
 ))
 
@@ -1193,6 +2469,25 @@ All'articolo 94 del decreto legislativo numero 385 del 1993, il comma 2 e' sosti
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 96-bis, comma 4, del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                dopo la lettera c) e' inserita la seguente: 
+ "c-bis) gli strumenti finanziari disciplinati dal codice civile;";
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera i) e' sostituita dalla seguente: 
+ "i) i depositi, anche effettuati per interposta persona, dei titolari di partecipazioni rilevanti ai fini dell'articolo 19;".
+
 ))
 
 ## Art. 9.31. — (( (Modifiche all'articolo 98 del decreto legislativo 
@@ -1254,12 +2549,72 @@ In caso di inosservanza del divieto, la deliberazione o il diverso atto, adottat
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 109 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: 
+ "(Requisiti di professionalita', onorabilita' ed indipendenza degli esponenti aziendali)"; 
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, le parole: "e di onorabilita'" sono sostituite dalle parole: ", onorabilita' e indipendenza"; 
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Il difetto dei requisiti determina la decadenza dall'ufficio.
+ Essa e' dichiarata dal consiglio di amministrazione, dal consiglio di sorveglianza o dal consiglio di gestione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto."; 
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ "4. In caso di inerzia del consiglio di amministrazione, del consiglio di sorveglianza o del consiglio di gestione, la Banca d'Italia pronuncia la decadenza o la sospensione dei soggetti che svolgono funzioni di amministrazione, direzione e controllo presso gli intermediari finanziari inseriti nell'elenco speciale."; 
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 4 e' aggiunto, in fine, il seguente: 
+ "4-bis. Nel caso di difetto dei requisiti di indipendenza stabiliti dal codice civile o dallo statuto dell'intermediario finanziario si applicano i commi 2 e 4."
+
 ))
 
 ## Art. 9.37. — (( (Modifiche all'articolo 110 del decreto legislativo 
  numero 385 del 1993). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 110 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Chiunque, anche per il tramite di societa' controllate, di societa' fiduciarie o per interposta persona, e' titolare di partecipazioni rilevanti in un intermediario finanziario ne da' comunicazione all'intermediario finanziario nonche' all'UIC ovvero, se e' iscritto nell'elenco speciale, alla Banca d'Italia.
+ Le variazioni della partecipazione sono comunicate quando superano la misura stabilita dalla Banca d'Italia."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ "4. I diritti di voto e gli altri diritti, che consentono di influire sulla societa', inerenti alle partecipazioni per le quali siano state omesse le comunicazioni, non possono essere esercitati. In caso di inosservanza del divieto, la deliberazione od il diverso atto, adottati con il voto o il contributo determinanti delle partecipazioni previste dal comma 1, sono impugnabili secondo le previsioni del codice civile. Per gli intermediari finanziari iscritti nell'elenco speciale l'impugnazione puo' essere proposta anche dalla Banca d'Italia entro centottanta giorni dalla data della deliberazione ovvero, se questa e' soggetta a iscrizione nel registro delle imprese, entro centottanta giorni dall'iscrizione o, se e' soggetta solo a deposito presso l'ufficio del registro delle imprese, entro centottanta giorni dalla data di questo. Le partecipazioni per le quali non puo' essere esercitato il diritto di voto sono computate ai fini della regolare costituzione della relativa assemblea."
 
 ))
 
@@ -1277,6 +2632,24 @@ All'articolo 111 del decreto legislativo numero 385 del 1993, il comma 4 e' sost
  numero 385 del 1993). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 112 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Il collegio sindacale informa senza indugio l'UIC, ovvero la Banca d'Italia qualora si tratti di un intermediario iscritto nell'elenco speciale, di tutti gli atti od i fatti, di cui venga a conoscenza nell'esercizio dei propri compiti, che possano costituire una irregolarita' nella gestione od una violazione delle norme che disciplinano l'attivita' degli intermediari finanziari. A tali fini lo statuto dell'intermediario, indipendentemente dal sistema di amministrazione e controllo adottato, assegna all'organo che svolge la funzione di controllo i relativi compiti e poteri."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' abrogato.
 
 ))
 
@@ -1326,6 +2699,25 @@ L'articolo 135 del decreto legislativo numero 385 del 1993 e' sostituito dal seg
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 136 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Chi svolge funzioni di amministrazione, direzione e controllo presso una banca non puo' contrarre obbligazioni di qualsiasi natura o compiere atti di compravendita, direttamente od indirettamente, con la banca che amministra, dirige o controlla, se non previa deliberazione dell'organo di amministrazione presa all'unanimita' e col voto favorevole di tutti i componenti dell'organo di controllo, fermi restando gli obblighi previsti dal codice civile in materia di interessi degli amministratori;"; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ "3. L'inosservanza delle disposizioni dei commi 1 e 2 e' punita con la reclusione da uno a tre anni e con la multa da 206 a 2.066 euro."
+
 ))
 
 ## Art. 9.45. — (( (Modifiche alla sezione IV del capo III del titolo VIII 
@@ -1341,6 +2733,32 @@ Alla sezione IV del capo III del titolo VIII del decreto legislativo numero 385 
  numero 385 del 1993). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 139 del decreto legislativo numero 385 del 1993 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: 
+ "(Partecipazioni in banche, in societa' finanziarie capogruppo e in intermediari finanziari)"; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. L'omissione delle domande di autorizzazione previste dall'articolo 19, la violazione degli obblighi di comunicazione previsti dall'articolo 20, comma 2, nonche' la violazione delle disposizioni dell'articolo 24 commi 1 e 3, dell'articolo 25, commi 3 e 4, dell'articolo 108, commi 3 e 4, e dell'articolo 110, comma 4, sono punite con la sanzione amministrativa pecuniaria da 5.164 a 51.645 euro."; 
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ "3. La sanzione amministrativa pecuniaria prevista dal comma 1 e la pena prevista dal comma 2 si applicano per le medesime violazioni in materia di partecipazioni nelle societa' finanziarie capogruppo."
 
 ))
 
@@ -1359,6 +2777,28 @@ All'articolo 140 del decreto legislativo numero 385 del 1993 la rubrica e' sosti
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo numero 58 del 1998, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, dopo la lettera b) e' inserita la seguente: 
+ "b-bis) gli strumenti finanziari, negoziabili sul mercato dei capitali, previsti dal codice civile;"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 6, sono aggiunti, infine: 
+ "6-bis. Per `partecipazioni' si intendono le azioni, le quote e gli altri strumenti finanziari che attribuiscono diritti amministrativi o comunque quelli previsti dall'articolo 2351, ultimo comma, del codice civile. 
+ 6-ter. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al consiglio di amministrazione, all'organo amministrativo ed agli amministratori si applicano anche al consiglio di gestione e ai suoi componenti. 
+ 6-quater. Se non diversamente disposto, le norme del presente decreto legislativo che fanno riferimento al collegio sindacale, ai sindaci e all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza e al comitato per il controllo sulla gestione e ai loro componenti."
+
 ))
 
 ## Art. 9.49. — (( (Modifiche all'articolo 8 del decreto legislativo 
@@ -1366,12 +2806,63 @@ All'articolo 140 del decreto legislativo numero 385 del 1993 la rubrica e' sosti
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 8 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                al comma 3 e' aggiunto, in fine, il seguente periodo: "A tali fini lo statuto delle SIM, delle societa' di gestione del risparmio o delle SICAV, indipendentemente dal sistema di amministrazione e controllo adottato, assegna all'organo che svolge la funzione di controllo i relativi compiti e poteri."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ "5. I commi 3, primo periodo, e 4 si applicano anche all'organo che svolge funzioni di controllo ed alle societa' incaricate della revisione contabile presso le societa' che controllano le SIM, le societa' di gestione del risparmio o le SICAV o che sono da queste controllate ai sensi dell'articolo 23 del testo unico bancario."
+
 ))
 
 ## Art. 9.50. — (( (Modifiche all'articolo 13 del decreto legislativo 
  numero 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 13 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: 
+ "(Requisiti di professionalita', onorabilita' e indipendenza degli esponenti aziendali)"; 
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, le parole: "e onorabilita'" sono sostituite dalle parole: ", onorabilita' e indipendenza"; 
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Il difetto dei requisiti determina la decadenza dalla carica.
+ Essa e' dichiarata dal consiglio di amministrazione, dal consiglio di sorveglianza o dal consiglio di gestione entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuto."; 
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3 e' inserito il seguente: 
+ "3-bis. Nel caso di difetto dei requisiti di indipendenza stabiliti dal codice civile o dallo statuto si applicano i commi 2 e 3."
 
 ))
 
@@ -1396,12 +2887,68 @@ L'articolo 14 del decreto legislativo numero 58 del 1998 e' sostituito dal segue
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 15 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Chiunque, a qualsiasi titolo, intenda acquisire o cedere, direttamente od indirettamente, una partecipazione qualificata in una SIM, societa' di gestione del risparmio, SICAV, deve darne preventiva comunicazione alla Banca d'Italia. La comunicazione preventiva e' dovuta anche per gli acquisti e le cessioni da cui derivino variazioni, in aumento od in diminuzione, della partecipazione quando cio' comporti il superamento delle soglie partecipative stabilite ai sensi del comma 5, ovvero l'acquisizione o la perdita del controllo della societa'."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ "5. La Banca d'Italia, determina con regolamento: 
+ a) le partecipazioni qualificate e le relative soglie partecipative, tenendo conto dell'influenza che consentono di esercitare sulla societa'; 
+ b) i soggetti tenuti ad effettuare le comunicazioni quando i diritti derivanti dalle partecipazioni spettano o sono attribuiti a un soggetto diverso dal titolare delle partecipazioni stesse, nonche' quando esistono accordi concernenti l'esercizio del diritto di voto; 
+ c) le procedure ed i termini per l'effettuazione delle comunicazioni."
+
 ))
 
 ## Art. 9.53. — (( (Modifiche all'articolo 16 del decreto legislativo 
  numero 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 16 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente: 
+ "(Sospensione del diritto di voto, obbligo di alienazione)"; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Il diritto di voto e gli altri diritti, che consentono di influire sulla societa', inerenti alle partecipazioni eccedenti le soglie stabilite ai sensi dell'articolo 15, comma 5, non possono essere esercitati quando non siano state effettuate le comunicazioni previste dall'articolo 15, commi 1 e 3, quando sia intervenuto il divieto della Banca d'Italia o non sia ancora decorso il termine entro il quale la Banca d'Italia puo' vietare l'acquisizione o quando sia scaduto il termine massimo eventualmente fissato ai sensi dell'articolo 15, comma 2."; 
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. La Banca d'Italia, anche su proposta della CONSOB, puo' in ogni momento sospendere il diritto di voto e gli altri diritti, che consentono di influire sulla societa', inerenti a una partecipazione qualificata in una SIM, in una societa' di gestione del risparmio o in una SICAV, quando l'influenza esercitata dal titolare della partecipazione possa pregiudicarne la gestione sana e prudente o l'effettivo esercizio della vigilanza."; 
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 3 e' aggiunto il seguente comma: 
+ "4. La Banca d'Italia puo' fissare un termine entro il quale devono essere alienate le partecipazioni eccedenti i limiti stabiliti ai sensi dell'articolo 15, comma 5, quando non siano state effettuate le comunicazioni preventive previste dall'articolo 15, comma 1, ovvero quando, ai sensi dell'articolo 15, comma 2, sia intervenuto il divieto della Banca d'Italia all'acquisto o sia scaduto il termine massimo per l'acquisizione eventualmente fissato."
 
 ))
 
@@ -1424,6 +2971,25 @@ d) alle societa' fiduciarie che abbiano intestato a proprio nome partecipazioni 
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 19, comma 1, del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                la lettera f) e' sostituita dalla seguente: 
+ "f) i soggetti che svolgono funzioni di amministrazione, direzione e controllo abbiano i requisiti di professionalita', indipendenza ed onorabilita' indicati nell'articolo 13;"; 
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera g) e' sostituita dalla seguente: 
+ "g) i titolari di partecipazioni abbiano i requisiti di onorabilita' stabiliti dall'articolo 14;".
+
 ))
 
 ## Art. 9.56. — (( (Modifiche all'articolo 34 del decreto legislativo 
@@ -1431,12 +2997,50 @@ d) alle societa' fiduciarie che abbiano intestato a proprio nome partecipazioni 
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 34, comma 1, del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                la lettera d) e' sostituita dalla seguente: 
+ "d) i soggetti che svolgono funzioni di amministrazione, direzione e controllo abbiano i requisiti di professionalita', indipendenza e onorabilita' indicati dall'articolo 13;"; 
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera e) e' sostituita dalla seguente: 
+ "e) i titolari di partecipazioni abbiano i requisiti di onorabilita' stabiliti dall'articolo 14;".
+
 ))
 
 ## Art. 9.57. — (( (Modifiche all'articolo 43 del decreto legislativo 
  numero 58 del 1998). ))
 
 ((
+
+2.
+                    
+                        
+                            All'articolo 43, comma 1, del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                la lettera d) e' sostituita dalla seguente: 
+ "d) i soggetti che svolgono funzioni di amministrazione, direzione e controllo abbiano i requisiti di professionalita', indipendenza e onorabilita' indicati dall'articolo 13;"; 
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera e) e' sostituita dalla seguente: 
+ "e) i titolari di partecipazioni abbiano i requisiti di onorabilita' stabiliti dall'articolo 14;".
 
 ))
 
@@ -1454,6 +3058,40 @@ All'articolo 45 del decreto legislativo numero 58 del 1998, il comma 7 e' sostit
  numero 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 48 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Alle SICAV non si applica l'articolo 2484, primo comma, nn. 4 e 5, del codice civile. Quando il capitale della SICAV si riduce al di sotto della misura determinata ai sensi dell'articolo 43, comma 1, lettera c), e permane tale per un periodo di sessanta giorni, la societa' si scioglie. Il termine e' sospeso qualora sia iniziata una procedura di fusione con altra SICAV."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Gli atti per i quali e' prevista la pubblicita' dall'articolo 2484, commi terzo e quarto, del codice civile devono essere anche pubblicati sui quotidiani previsti dallo statuto e comunicati alla Banca d'Italia nel termine di dieci giorni dall'avvenuta iscrizione nel registro delle imprese. L'emissione ed il rimborso di azioni sono sospesi, nel caso previsto dall'articolo 2484, primo comma, numero 6 del codice civile, dalla data di assunzione della delibera, nei casi previsti dall'articolo 2484, primo comma, numeri 1, 2, 3 e 7 del codice civile e dal comma 1 del presente articolo, dal momento dell'assunzione della delibera del consiglio di amministrazione ovvero dal momento dell'iscrizione presso il registro delle imprese del decreto del presidente del tribunale.
+ La delibera del consiglio di amministrazione e' trasmessa anche alla CONSOB nel medesimo termine."; 
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ "3. La nomina, la revoca e la sostituzione dei liquidatori spetta all'assemblea straordinaria. Si applicano l'articolo 2487 del codice civile, ad eccezione del comma 1, lettera c), e l'articolo 97 del testo unico bancario."; 
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ "7. Per quanto non previsto dal presente articolo alla SICAV si applicano, in quanto compatibili, le disposizioni del libro V, titolo V, capo VIII, del codice civile."
 
 ))
 
@@ -1482,6 +3120,24 @@ All'articolo 85, il comma 5 e' abrogato.
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 104 del decreto legislativo numero 58 del 1998, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                al comma 1, secondo periodo, le parole: "anche in seconda o in terza convocazione" sono sostituite dalle parole: "in ogni convocazione"; 
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ "1-bis. Le societa' italiane con azioni quotate in mercati regolamentati italiani o di altri Paesi dell'Unione europea possono emettere azioni con diritto di voto subordinato all'effettuazione di un'offerta solo se, per il verificarsi della condizione, sia necessaria un'autorizzazione assembleare ai sensi del comma precedente."
+
 ))
 
 ## Art. 9.63. — (( (Modifiche all'articolo 105 del decreto legislativo 
@@ -1501,12 +3157,74 @@ L'articolo 105 del decreto legislativo numero 58 del 1998 e' sostituito dal segu
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 106 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Chiunque, a seguito di acquisti a titolo oneroso, venga a detenere una partecipazione superiore alla soglia del trenta per cento, promuove un'offerta pubblica di acquisto sulla totalita' delle azioni quotate in mercati regolamentati italiani con diritto di voto sugli argomenti indicati nell'articolo 105."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Per ciascuna categoria di azioni di cui al comma 1, l'offerta e' promossa entro trenta giorni a un prezzo non inferiore alla media aritmetica fra il prezzo medio ponderato di mercato degli ultimi dodici mesi e quello piu' elevato pattuito nello stesso periodo dall'offerente per acquisti di azioni della medesima categoria; qualora non siano stati effettuati acquisti, l'offerta e' promossa al prezzo medio ponderato di mercato degli ultimi dodici mesi o del minor periodo disponibile."; 
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 3 e' inserito il seguente: 
+ "3-bis. La Consob, tenuto conto delle caratteristiche degli strumenti finanziari emessi, puo' stabilire con regolamento le ipotesi in cui l'obbligo di offerta consegue ad acquisti a titolo oneroso che determinino la detenzione congiunta di azioni e strumenti finanziari con diritto di voto sugli argomenti indicati nell'articolo 105, in misura tale da attribuire un potere complessivo di voto equivalente a quella di chi detenga la partecipazione indicata nel comma 1."; 
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 4 e' sostituito dal seguente: 
+ "4. L'obbligo di offerta non sussiste se la partecipazione indicata nel comma 1 e' detenuta a seguito di un'offerta pubblica di acquisto diretta a conseguire la totalita' delle azioni previste nel medesimo comma."; 
+                            
+                        
+                        
+                            e)
+                            
+                                la lettera b) del comma 5 e' sostituita dalla seguente: 
+ "b) trasferimento delle azioni previste dall'articolo 105 tra soggetti legati da rilevanti rapporti di partecipazione."
+
 ))
 
 ## Art. 9.65. — (( (Modifiche all'articolo 107 del decreto legislativo 
  numero 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 107 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 sono apportate le seguenti modificazioni: 
+ 1) nell'alinea, le parole: "avente a oggetto almeno il sessanta per cento delle azioni ordinarie" sono sostituite dalle parole: 
+ "avente a oggetto almeno il sessanta per cento delle azioni quotate in mercati regolamentati italiani che attribuiscono diritti di voto sugli argomenti indicati nell'articolo 105"; 
+ 2) nella lettera b), le parole: "azioni ordinarie" sono sostituite dalle parole: "azioni previste dall'articolo 106, comma 1,"; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, la lettera b) e' sostituita dalla seguente: 
+ "b) la societa' emittente abbia deliberato operazioni di fusione o di scissione."
 
 ))
 
@@ -1536,6 +3254,26 @@ Si applicano le disposizioni degli articoli 155, comma 2, 156, 162, commi 1 e 2,
  numero 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 120 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                al comma 4, dopo la lettera d), e' aggiunta la seguente: 
+ "d-bis) i casi in cui le comunicazioni sono dovute dai possessori di strumenti finanziari dotati dei diritti previsti dall'articolo 2351, ultimo comma, del codice civile."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ "5. Il diritto di voto inerente alle azioni quotate od agli strumenti finanziari per i quali sono state omesse le comunicazioni previste dal comma 2 non puo' essere esercitato. In caso di inosservanza, si applica l'articolo 14, comma 5.
+ L'impugnazione puo' essere proposta anche dalla Consob entro il termine indicato nell'articolo 14, comma 6."
 
 ))
 
@@ -1570,12 +3308,55 @@ L'articolo 135 del decreto legislativo numero 58 del 1998 e' sostituito dal segu
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 145 del decreto legislativo numero 58 del 1998, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                al comma 3, secondo periodo, la parola: "2355" e' sostituita dalla parola: "2354"; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 4 e' abrogato; 
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 6 e' sostituito dal seguente: 
+ "6. Della parte di capitale sociale rappresentata da azioni di risparmio non si tiene conto ai fini della costituzione dell'assemblea e della validita' delle deliberazioni, ne' per il calcolo delle aliquote stabilite dagli articoli 2367, 2393, quarto e quinto comma, 2393-bis, 2408, secondo comma e 2409, primo comma, del codice civile."
+
 ))
 
 ## Art. 9.73. — (( (Modifiche all'articolo 146 del decreto legislativo 
  numero 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 146 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. L'assemblea speciale dei possessori di azioni di risparmio e' convocata dal rappresentante comune degli azionisti di risparmio, ovvero dagli amministratori della societa', entro sessanta giorni dall'emissione o dalla conversione delle azioni e quando lo ritengano necessario o ne sia fatta richiesta da tanti possessori di azioni di risparmio che rappresentino almeno l'uno per cento delle azioni di risparmio della categoria."; 
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ "2-bis. In caso di omissione o di ingiustificato ritardo da parte degli amministratori l'assemblea speciale e' convocata dal collegio sindacale o dal consiglio di sorveglianza o, nel caso di richiesta da parte degli azionisti ai sensi del comma precedente, dal comitato per il controllo sulla gestione."
 
 ))
 
@@ -1613,12 +3394,56 @@ Alla Sezione V del Capo II del Titolo III della Parte IV del decreto legislativo
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 148 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3 le lettere b) e c) sono sostituite dalle seguenti: 
+ "b) il coniuge, i parenti e gli affini entro il quarto grado degli amministratori della societa', gli amministratori, il coniuge, i parenti e gli affini entro il quarto grado degli amministratori delle societa' da questa controllate, delle societa' che la controllano e di quelle sottoposte a comune controllo; 
+ c) coloro che sono legati alla societa' od alle societa' da questa controllate od alle societa' che la controllano od a quelle sottoposte a comune controllo da rapporti di lavoro autonomo o subordinato ovvero da altri rapporti di natura patrimoniale che ne compromettano l'indipendenza."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4 sono aggiunti, in fine, i seguenti commi: 
+ "4-bis. Al consiglio di sorveglianza si applicano le disposizioni di cui ai commi 1, limitatamente alla lettera d), 2 e 3. 
+ 4-ter. Lo statuto stabilisce requisiti di onorabilita' e professionalita' dei componenti del consiglio di sorveglianza. 
+ 4-quater. Al comitato per il controllo sulla gestione si applicano le disposizioni di cui ai commi 1, limitatamente alla lettera d), 2 e 3."
+
 ))
 
 ## Art. 9.78. — (( (Modifiche all'articolo 149 del decreto legislativo 
  numero 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 149 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. I membri del collegio sindacale assistono alle assemblee ed alle riunioni del consiglio di amministrazione e del comitato esecutivo. I sindaci, che non assistono senza giustificato motivo alle assemblee o, durante un esercizio sociale, a due adunanze del consiglio d'amministrazione o del comitato esecutivo, decadono dall'ufficio."; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4 sono aggiunti, in fine, i seguenti commi: 
+ "4-bis. Al consiglio di sorveglianza si applicano i commi 1, 3 e 4. Almeno un componente del consiglio di sorveglianza partecipa alle riunioni del consiglio di gestione. 
+ 4-ter. Al comitato per il controllo sulla gestione si applicano i commi 1, limitatamente alla lettera d), 3 e 4."
 
 ))
 
@@ -1640,6 +3465,25 @@ L'articolo 150 del decreto legislativo numero 58 del 1998 e' sostituito dal segu
  numero del 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 151 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. I sindaci possono, anche individualmente, procedere in qualsiasi momento ad atti di ispezione e di controllo, nonche' chiedere agli amministratori notizie, anche con riferimento a societa' controllate, sull'andamento delle operazioni sociali o su determinati affari."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. Il collegio sindacale puo' scambiare informazioni con i corrispondenti organi delle societa' controllate in merito ai sistemi di amministrazione e controllo ed all'andamento generale dell'attivita' sociale. Puo' altresi', previa comunicazione al presidente del consiglio di amministrazione, convocare l'assemblea dei soci, il consiglio di amministrazione od il comitato esecutivo ed avvalersi di dipendenti della societa' per l'espletamento delle proprie funzioni. I poteri di convocazione e di richiesta di collaborazione possono essere esercitati anche da almeno due membri del collegio."
 
 ))
 
@@ -1664,6 +3508,25 @@ Dopo l'articolo 151 del decreto legislativo numero 58 del 1998 sono inseriti i s
  numero 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 152 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. Il collegio sindacale o il consiglio di sorveglianza o il comitato per il controllo sulla gestione, se ha fondato sospetto che gli amministratori, in violazione dei loro doveri, abbiano compiuto gravi irregolarita' nella gestione che possono recare danno alla societa' o ad una o piu' societa' controllate, possono denunziare i fatti al tribunale ai sensi dell'articolo 2409 del codice civile. In tale ipotesi le spese per l'ispezione sono a carico della societa' ed il tribunale puo' revocare anche i soli amministratori."; 
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ "2. La Consob, se ha fondato sospetto di gravi irregolarita' nell'adempimento dei doveri di vigilanza del collegio sindacale, del consiglio di sorveglianza o del comitato per il controllo sulla gestione, puo' denunziare i fatti al tribunale ai sensi dell'articolo 2409 del codice civile; le spese per l'ispezione sono a carico della societa'."
 
 ))
 
@@ -1714,12 +3577,48 @@ All'articolo 157 del decreto legislativo numero 58 del 1998, il comma 1 e' sosti
 
 ((
 
+1.
+                    
+                        
+                            All'articolo 158 del decreto legislativo numero 58 del 1998 sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ "3. La disposizione del comma precedente si applica anche alla relazione della societa' di revisione prevista dall'articolo 2441, comma 4, seconda parte, del codice civile."; 
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 4 e 5 sono soppressi.
+
 ))
 
 ## Art. 9.88. — (( (Modifiche all'articolo 159 del decreto legislativo 
  numero 58 del 1998). ))
 
 ((
+
+1.
+                    
+                        
+                            All'articolo 159 del decreto legislativo numero 58 del 1998, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ "1. L'assemblea, in occasione dell'approvazione del bilancio o della convocazione annuale prevista dall'articolo 2364-bis, comma 2, del codice civile, conferisce l'incarico di revisione del bilancio d'esercizio e del bilancio consolidato a una societa' di revisione iscritta nell'albo speciale previsto dall'articolo 161, previo parere del collegio sindacale. Essa determina il corrispettivo spettante alla societa' di revisione."; 
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, la parola: "2469" e' sostituita dalla parola: "2459".
 
 ))
 

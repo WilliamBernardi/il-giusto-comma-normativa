@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2025-05-21;77
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,37 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta dei Ministri per gli affari europei, il PNRR e le politiche di coesione, del lavoro e delle politiche sociali e delle infrastrutture e dei trasporti, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, dell'interno, della giustizia, dell'economia e delle finanze e per gli affari regionali e le autonomie;
 
 ## Art. 1. — Modifiche all'articolo 2 del decreto legislativo 23 febbraio 2023 n. 27
+
+1.
+                    
+                        
+                            All'articolo 2, comma 1, del decreto legislativo 23 febbraio 2023, n. 27, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla lettera o), capoverso Articolo 11, comma 4, dopo le parole: «Al fine di agevolare controlli su strada» sono inserite le seguenti: «e nei locali delle imprese»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo la lettera q), e' aggiunta, in fine, la seguente: 
+ «q-bis. L'Allegato III e' sostituito dal seguente: 
+ 
+ «ALLEGATO III Infrazioni 
+ 
+1. Gruppi di infrazioni al regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio (Tempo di guida e di riposo) 
+ 
+ Parte di provvedimento in formato grafico
+ 
+2. Gruppi di infrazioni al regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio (Tachigrafo) 
+ 
+ Parte di provvedimento in formato grafico
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

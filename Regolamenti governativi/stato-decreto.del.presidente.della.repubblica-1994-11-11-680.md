@@ -8,8 +8,8 @@ codice_redazionale: 094G0686
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,59 @@ Acquisita l'intesa con l'Autorita' per l'informatica nella pubblica amministrazi
 Sulla proposta del Presidente del Consiglio dei Ministri;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per legge, la legge 24 ottobre 1977, n. 801; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per decreto legislativo, il decreto legislativo 12 febbraio 1993, n. 39; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per Organismi, gli Organismi di informazione e di sicurezza di cui agli articoli 3, 4 e 6 della legge 24 ottobre 1977, n. 801; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per Servizi, il Servizio per le informazioni e la sicurezza militare (SISMI) ed il Servizio per le informazioni e la sicurezza democratica (SISDE); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per ANS, l'Autorita' nazionale per la sicurezza per la protezione delle informazioni coperte dal segreto di Stato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per Segreteria del CESIS, la Segreteria generale del Comitato esecutivo per i servizi di informazione e di sicurezza; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per Autorita', l'Autorita' per l'informatica nella pubblica amministrazione.
 
 ## Art. 2. — Oggetto della disciplina
 

@@ -8,8 +8,8 @@ codice_redazionale: 009G0097
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -53,4 +53,26 @@ Tale profilo verra' ulteriormente definito con successivi provvedimenti, su prop
  nelle attivita' di conservazione dei beni culturali
 
 All'attivita' di conservazione dei beni culturali mobili e delle superfici decorate di beni architettonici concorrono - con il restauratore di beni culturali e con le professionalita' menzionate in premessa al presente decreto - professionalita' di carattere scientifico, quali quelle del chimico, del geologo, del fisico e del biologo, ciascuno nell'ambito delle proprie competenze.
+
+2.
+                    
+                        
+                            Tali professionalita' scientifiche sono di regola di formazione universitaria e, ai fini della partecipazione alle attivita' di conservazione di beni culturali mobili o di superfici decorate di beni architettonici, si articolano in due livelli: 
+                        
+                        
+                            a)
+                            
+                                esperto scientifico di beni culturali, che opera in collaborazione costante con il restauratore, con le altre professionalita' citate in premessa e con i consegnatari e curatori di istituti e luoghi della cultura di cui all'articolo 101 del Codice, al fine di individuare metodologie e procedure per la caratterizzazione dei materiali costitutivi, per il riconoscimento delle tecniche e modi di esecuzione dei manufatti, nonche' per l'individuazione dei processi di degrado;
+                            
+                        
+                        
+                            b)
+                            
+                                collaboratore scientifico di beni culturali, che opera con autonomia decisionale strettamente afferente alle proprie competenze tecniche e sotto la direzione dell'esperto scientifico.
+ Il presente decreto, munito del sigillo di Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+ Roma, 26 maggio 2009
+ Il Ministro : Bondi 
+Visto, il Guardasigilli: Alfano
+Registrato alla Corte dei conti il 26 giugno 2009
+Ufficio di controllo preventivo sui Ministeri dei servizi alla persona e dei beni culturali, registro n. 5, foglio n. 176
 

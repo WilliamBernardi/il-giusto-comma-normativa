@@ -8,8 +8,8 @@ codice_redazionale: 090G0198
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,31 @@ Udito il parere del Consiglio di Stato reso nelle adunanze generali del 26 febbr
 E' istituito, presso il Ministero dei lavori pubblici, il Centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sulla sicurezza stradale.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Il Centro coordina le seguenti attivita':
+ 
+                        
+                        
+                            a)
+                            
+                                raccolta, elaborazione e selezione di informazioni sul traffico e sulla viabilita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                distribuzione e trasmissione delle notizie utili alla fluidita' ed alla sicurezza della circolazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elaborazione e realizzazione di campagne sulla sicurezza stradale.
 
 La realizzazione delle attivita' di cui alle precedenti lettere e' affidata alla centrale operativa della struttura "Viaggiare informati" opportunamente riorganizzata e potenziata.
 
@@ -56,6 +81,66 @@ Per il perseguimento dei fini di cui all'art. 2 e nel rispetto dei fini istituzi
 L'attivita' in materia di informazioni per la sicurezza stradale sara' effettuata in modo da realizzare il necessario coordinamento operativo delle diverse competenze e soddisfare l'esigenza dell'efficiente ed ottimale prestazione del servizio, assicurandone la qualita' uniforme sull'intero territorio nazionale.
 
 ## Art. 6.
+
+1.
+                    
+                        
+                            Il Centro si avvale di una commissione consultiva, nominata con decreto del Ministro dei lavori pubblici, composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                il direttore e il vice direttore del Centro;
+
+                            
+                        
+                        
+                            b)
+                            
+                                due esperti in materia di circolazione e sicurezza stradale, di cui uno designato dal Ministro dell'interno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un funzionario della polizia stradale e un funzionario dell'Ispettorato circolazione e traffico del Ministero dei lavori pubblici ed uno dell'ANAS;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante della societa' Autostrade ed uno dell'Aiscat - Associazione italiana societa' concessionarie di autostrade e trafori;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un funzionario dell'ACI - Automobile club d'Italia;
+
+                            
+                        
+                        
+                            f)
+                            
+                                un rappresentante della RAI - Radiotelevisione italiana;
+
+                            
+                        
+                        
+                            g)
+                            
+                                un rappresentante dell'ANCUPM - Associazione nazionale comandanti e ufficiali di polizia municipale;
+
+                            
+                        
+                        
+                            h)
+                            
+                                un rappresentante dell'UPI - Unione province italiane.
 
 La commissione e' presieduta dal direttore del Centro o, in sua assenza o impedimento, dal vice direttore.
 

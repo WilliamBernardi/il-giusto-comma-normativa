@@ -8,8 +8,8 @@ codice_redazionale: 094G0405
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,31 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 28 ot
 Le caratteristiche tecniche e di impiego e le regole per il relativo accertamento, alla cui rispondenza e alla cui osservanza gli articoli 338 e 398 del codice postale e delle telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156, subordinano, rispettivamente, l'esonero dalla concessione e la costruzione, l'importazione ed il commercio degli apparecchi apriporta radioelettrici, comunemente denominati "telecomandi", sono stabilite negli articoli che seguono.
 
 ## Art. 2. — Bande di frequenze
+
+1.
+                    
+                        
+                            Le bande di frequenze sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                27,5000 - 27,6000 MHz
+
+                            
+                        
+                        
+                            b)
+                            
+                                29,8000 - 29,9000 MHz
+
+                            
+                        
+                        
+                            c)
+                            
+                                30,8500 - 30,9625 MHz
 
 ## Art. 3. — Spaziatura canali e passo di canalizzazione
 
@@ -101,11 +126,68 @@ Si intende per tensione normale di prova quella indicata dal costruttore; essa v
 Le temperature estreme, rispettivamente minima e massima, sono:
  - 10 C e +55 C.
 
+2.
+                    
+                        
+                            Il valore estremo minimo della tensione di prova e' il seguente:
+ 
+                        
+                        
+                            a)
+                            
+                                per pile tipo Leclanche': 0,85 volte la tensione nominale della pila;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per pile tipo al mercurio: 0,9 volte la tensione nominale della pila;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per tutti gli altri tipi di pile: la tensione di fine utilizzazione indicata dal costruttore;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per altri tipi diversi di alimentazione: i limiti indicati dal costruttore.
+
 ## Art. 13. — Modulazione di prova
 
 La modulazione di prova e' tale che con la sua composizione ed il suo livello sia quella normalmente utilizzata in esercizio per modulare il trasmettitore. Questo segnale e' quello che, in accordo tra il costruttore e l'autorita' che esegue le misure, corrisponde alla massima larghezza di banda occupata e che viene trasmesso per un tempo sufficientemente lungo da poter eseguire le misure.
 
 ## Art. 14. — Dispositivo di accoppiamento
+
+1.
+                    
+                        
+                            L'esemplare da sottoporre alle prove di omologazione e' fornito di un dispositivo di accoppiamento idoneo a consentire l'esecuzione delle misure. Il dispositivo di accoppiamento presenta un'uscita a radiofrequenza con impedenza di 50 ohm in corrispondenza di qualunque frequenza di funzionamento dell'apparecchio. Inoltre il dispositivo di accoppiamento consente di effettuare le connessioni di ingresso e uscita in bassa frequenza con l'apparecchio di prova e di sostituire all'alimentazione dell'apparecchio una sorgente di alimentazione esterna. Le caratteristiche del dispositivo di accoppiamento sono le seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                la perdita di accoppiamento non deve essere superiore a 30 dB;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la variazione della perdita di accoppiamento con la frequenza non deve causare un errore di misura superiore a 2 dB (da 20 MHz a 4 GHz);
+
+                            
+                        
+                        
+                            c)
+                            
+                                il dispositivo di accoppiamento non deve contenere elementi non lineari.
 
 Le caratteristiche di questo dispositivo nelle condizioni normali ed estreme sono soggette all'approvazione dell'autorita' che effettua le prove. L'autorita' preposta alle prove puo' utilizzare un proprio dispositivo di prova la cui descrizione e' sotto riportata.
 
@@ -128,7 +210,36 @@ Successivamente si fa variare la sua altezza di prova entro i limiti previsti e 
 
 La potenza sul canale adiacente e' quella parte della potenza totale di uscita di un trasmettitore modulato nelle condizioni prefissate, che viene emessa nell'interno della banda passante di un ricevitore del tipo utilizzato normalmente nel sistema e funzionante su uno o l'altro dei canali adiacenti. Tale potenza e' la somma della potenza media risultante dal processo di modulazione e di modulazione residua dovuta al ronzio ed al rumore del trasmettitore.
 
+2.
+                    
+                        
+                            La misura puo' essere effettuata in due modi: utilizzando un analizzatore di spettro oppure un ricevitore per la misura della potenza sul canale adiacente:
+ 
+                        
+                        
+                            a)
+                            
+                                con l'analizzatore di spettro la misura della potenza sul canale adiacente e' effettuata utilizzando un opportuno accoppiatore tra l'apparecchiatura sotto misura e l'analizzatore medesimo. Tale accoppiatore garantisce la linearita' sulla banda di frequenza di interesse. L'analizzatore di spettro soddisfa alle seguenti condizioni: e' possibile, utilizzando una larghezza di banda con risoluzione di 1 Khz, misurare in un canale adiacente i cui limiti siano posti a 5,75 kHz e 14,25 kHz per le bande di frequenza a) e b), a 8,25 kHz e 16,75 kHz per la banda di frequenza c), dalla portante utile, con la precisione almeno di (Piu' o Meno) 2 dB, l'ampiezza di un segnale o del rumore, i cui livelli siano superiori di almeno 3 dB al livello di rumore dell'analizzatore di spettro e cio' in presenza di un segnale sul canale utile con livello di 60 dB al di sopra della somma delle potenze nel canale adiacente. Il trasmettitore e' modulato con il segnale di modulazione di prova di cui all'articolo 13. Si sceglie la larghezza di banda da esplorare sullo schermo dell'analizzatore di spettro in modo da poter rappresentare lo spettro di emissione del trasmettitore, comprese le parti emesse sui canali adiacenti. Si misura la somma della potenza di rumore e delle componenti discrete prodotte dal trasmettitore in ciascuno dei canali adiacenti. La potenza nel canale adiacente e' calcolata sommando le potenze di tutte le componenti che si trovano nel canale sopracitato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                con il ricevitore per la misura della potenza sul canale adiacente, la misura si esegue con il ricevitore stesso collegato al trasmettitore con un dispositivo di accoppiamento, tale da garantire la linearita' sulla banda di frequenza di interesse ed un livello sufficiente alla esecuzione delle misure. La potenza sul canale adiacente e' misurata con un ricevitore dotato di un filtro con queste caratteristiche: 8,5 kHz per una larghezza di banda con attenuazione di 6dB; 17,5 kHz per una larghezza di banda con attenuazione di 70dB; 25 kHz per una larghezza di banda con attenuazione di 90dB.
+
 Il trasmettitore viene modulato con il segnale di modulazione di prova, di cui all'art. 13.
+
+4.
+                    
+                        
+                            Il ricevitore e' sintonizzato sulla frequenza nominale del trasmettitore e si regola l'attenuatore variabile del ricevitore ad un valore tale (p dB) che, secondo la lettura di un apparato di misura, sia ottenuto un livello di circa 5 dB al di sopra del rumore del ricevitore. Il ricevitore e' successivamente accordato su una frequenza superiore di 10 kHz per le bande di frequenza 
+                        
+                        
+                            a)
+                            
+                                e b), di 12,5 kHz per la banda c), rispetto alla frequenza assegnata al trasmettitore. Si regola l'attenuatore variabile ad un valore tale (q dB) da ottenere nello strumento di misura la stessa lettura di prima.
+Il rapporto tra la potenza nel canale adiacente e quella in regime di portante e' dato dalla differenza tra i valori letti sull'attenuatore (p e q). La potenza sul canale adiacente si determina applicando questo rapporto alla potenza di uscita misurata come indicato nell'art. 15. La misura e' ripetuta su una frequenza inferiore di 10 kHz per le bande di frequenza a) e b), di 12,5 kHz per la banda c), rispetto alla frequenza assegnata al trasmettitore.
 
 ## Art. 17. — Scarto di frequenza e metodo di misura
 
@@ -147,6 +258,40 @@ L'apparato e' sistemato in un posto di misura rispondente alle prescrizioni di c
 
 Le irradiazioni parassite del ricevitore sono quelle che provengono dall'antenna, dal contenitore e dal ricevitore stesso.
 
+2.
+                    
+                        
+                            Il metodo di misura e' simile a quello dell'art. 18 sostituendo il ricevitore al trasmettitore, nel caso si tratti di ricevitore con antenna incorporata. Nell'ipotesi invece di ricevitore dotato di presa d'antenna, sono effettuate due prove:
+ 
+                        
+                        
+                            a)
+                            
+                                con il metodo di cui all'articolo 18 chiudendo la presa d'antenna su un carico non irradiante e non reattivo di 50 ohm ed ove necessario tramite opportuno adattatore di impedenza, se il costruttore dichiari che la presa d'antenna del ricevitore non e' pari a 50 ohm;
+
+                            
+                        
+                        
+                            b)
+                            
+                                con il metodo di misura "condotta" dalle irradiazioni parassite, le quali sono espresse dalla potenza di ciascuna componente discreta rilevata alla presa d'antenna del ricevitore. A tale presa va collegato un analizzatore di spettro o un voltmetro selettivo dotati di una impedenza di ingresso pari a 50 ohm ovvero, nel caso in cui il costruttore dichiari che la presa del ricevitore non e' pari a 50 ohm, connessi tramite opportuno adattatore di impedenza.
+
+3.
+                    
+                        
+                            Il valore delle irradiazioni parassite del ricevitore nei due valori massimi rilevati rispettivamente tramite i due esposti modi 
+                        
+                        
+                            a)
+                            
+                                e
+                            
+                        
+                        
+                            b)
+                            
+                                non deve in ogni caso superare il livello di 2 nW.
+
 ## Art. 20. — Presentazione apparati ad uno o piu' canali
  alle prove di omologazione
 
@@ -159,4 +304,120 @@ Per apparati funzionanti su piu' canali, a meno che non si presentino condizioni
 La scelta dei canali per le prove di omologazione e' soggetta all'approvazione dell'autorita' che presiede alle prove.
 
 ## Art. 21. — Precisione delle misure
+
+1.
+                    
+                        
+                            I valori di tolleranza ammessi per ciascuna grandezza di misura sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                tensione continua alternata: (Piu' o Meno) 3%;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tensione di rete in corrente alternata: (Piu' o Meno) 3%;
+
+                            
+                        
+                        
+                            c)
+                            
+                                frequenza di rete in corrente alternata: (Piu' o Meno) 0,5%;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tensione, potenza alle frequenze acustiche: (Piu' o Meno) 0,5 dB;
+
+                            
+                        
+                        
+                            e)
+                            
+                                frequenza acustica: (Piu' o Meno) 1%;
+
+                            
+                        
+                        
+                            f)
+                            
+                                distorsione e rumore dei generatori alle frequenze acustiche: 1%;
+
+                            
+                        
+                        
+                            g)
+                            
+                                frequenza radioelettrica: (Piu' o Meno) 50Hz;
+
+                            
+                        
+                        
+                            h)
+                            
+                                tensione alle frequenze radioelettriche: (Piu' o Meno)2 dB;
+
+                            
+                        
+                        
+                            i)
+                            
+                                intensita' di campo alle frequenze radioelettriche: (Piu' o Meno) 3%;
+
+                            
+                        
+                        
+                            l)
+                            
+                                potenza della portante sulle frequenze radioelettriche: (Piu' o Meno) 2 dB;
+
+                            
+                        
+                        
+                            m)
+                            
+                                potenza nel canale adiacente: (Piu' o Meno) 3 dB;
+
+                            
+                        
+                        
+                            n)
+                            
+                                impedenza dei carichi fittizi, dispositivi di accoppiamento, cavi, spine, attenuatori, ecc.: (Piu' o Meno) 5%;
+
+                            
+                        
+                        
+                            o)
+                            
+                                impedenza interna dei generatori ed impedenza di ingresso dei ricevitori di misura: (Piu' o Meno) 10%;
+
+                            
+                        
+                        
+                            p)
+                            
+                                attenuazione degli attenuatori: (Piu' o Meno) 0,5%;
+
+                            
+                        
+                        
+                            q)
+                            
+                                temperatura: (Piu' o Meno) 1 C;
+
+                            
+                        
+                        
+                            r)
+                            
+                                umidita': (Piu' o Meno) 5%.
 

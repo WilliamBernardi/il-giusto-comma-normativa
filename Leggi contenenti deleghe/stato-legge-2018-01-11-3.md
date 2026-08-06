@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi contenenti deleghe
 vigenza_date: 2026-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE
@@ -34,6 +34,115 @@ La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 Il Governo e' delegato ad adottare, entro dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per il riassetto e la riforma delle disposizioni vigenti in materia di sperimentazione clinica dei medicinali per uso umano, introducendo specifico riferimento alla medicina di genere e all'eta' pediatrica.
 
+2.
+                        
+                            
+                                I decreti legislativi di cui al comma 1 sono adottati, realizzando il necessario coordinamento con le disposizioni vigenti e con il regolamento (UE) n. 536/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sulla sperimentazione clinica di medicinali per uso umano, nel rispetto dei seguenti principi e criteri direttivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riordino e coordinamento delle disposizioni vigenti, nel rispetto delle normative dell'Unione europea e delle convenzioni internazionali in materia, in ottemperanza a quanto disposto dall'articolo 117 della Costituzione, nonche' nel rispetto degli standard internazionali per l'etica nella ricerca medica sugli esseri umani, in conformita' a quanto previsto dalla Dichiarazione di Helsinki dell'Associazione medica mondiale del 1964, e sue successive revisioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individuazione dei requisiti dei centri autorizzati alla conduzione delle sperimentazioni cliniche dalla fase I alla fase IV, con preferenza per i centri che assicurino, nella fase IV, il coinvolgimento delle associazioni dei pazienti nella definizione dei protocolli di ricerca, in particolare per le malattie rare, prevedendo procedure di accreditamento ad evidenza pubblica, di monitoraggio annuale dei requisiti posseduti e di pubblicazione dell'elenco dei centri autorizzati nel sito internet dell'Agenzia italiana del farmaco (AIFA) con il collegamento al sito internet istituzionale del centro clinico, che deve essere dotato di un'apposita sezione dedicata alla trasparenza, in cui, in conformita' ai principi di cui al decreto legislativo 14 marzo 2013, n. 33, siano resi pubblici i nominativi e i curricula di tutti i soggetti coinvolti nella sperimentazione e tutte le sperimentazioni attivate, in corso o concluse, e quelle autorizzate, nonche' i correlati finanziamenti e programmi di spesa e i relativi contratti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuazione delle modalita' per il sostegno all'attivazione e all'ottimizzazione di centri clinici dedicati agli studi clinici di fase I, sia su pazienti che su volontari sani, da condurre con un approccio metodologico di medicina di genere, prevedendo la definizione, con decreto del Ministro della salute, dei requisiti minimi per i medesimi centri anche al fine di una loro piu' omogenea presenza sul territorio nazionale, in conformita' al citato regolamento (UE) n. 536/2014; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individuazione delle modalita' idonee a tutelare l'indipendenza della sperimentazione clinica e a garantire l'assenza di conflitti d'interesse; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    semplificazione degli adempimenti meramente formali in materia di modalita' di presentazione della domanda per il parere del comitato etico e di conduzione e di valutazione degli studi clinici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fatta salva la garanzia del mantenimento di standard qualitativi elevati, semplificazione delle procedure per l'utilizzo a scopi di ricerca clinica di materiale biologico o clinico residuo da precedenti attivita' diagnostiche o terapeutiche o a qualunque altro titolo detenuto, previa prestazione del consenso informato da parte del paziente sull'uso del materiale biologico che lo riguarda direttamente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    definizione delle procedure di valutazione e di autorizzazione di una sperimentazione clinica, garantendo il coinvolgimento delle associazioni dei pazienti, soprattutto nel caso delle malattie rare, attraverso: 
+ 1) l'individuazione e il ruolo del direttore generale o responsabile legale della struttura sanitaria in cui si intende eseguire la sperimentazione clinica; 
+ 2) l'individuazione dei compiti e delle finalita' dei comitati etici territoriali; 
+ 3) la garanzia che gli incaricati della validazione e della valutazione della domanda siano privi di conflitti d'interesse personali e finanziari e assicurino la propria imparzialita' mediante dichiarazione resa ai sensi degli articoli 46, 73 e 76 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445; 
+ 4) la costituzione, presso l'Istituto superiore di sanita', di un elenco nazionale di soggetti qualificati e con adeguata esperienza, selezionati mediante avvisi pubblici, sulla base di criteri e requisiti predefiniti; 
+ 5) la definizione dei contenuti minimi che devono presentare i contratti per le sperimentazioni cliniche che, per gli sperimentatori, ne attestino terzieta', imparzialita' e indipendenza; 
+ 6) la previsione, mediante decreto del Ministro della salute, con riferimento ai contratti per le sperimentazioni cliniche, di meccanismi di compensazione o di partecipazione agli eventuali utili derivanti dalla commercializzazione dei risultati delle ricerche o delle sperimentazioni effettuate in centri pubblici di ricerca, attraverso l'individuazione di apposite percentuali e delle modalita' di assegnazione delle stesse, da riconoscere per la parte prevalente ai medesimi centri di ricerca e per la restante parte ai fondi per la ricerca gestiti dal Ministero della salute, ove non sia prevista, nei predetti contratti, una diversa modalita' di remunerazione o di compensazione; 
+ 7) la definizione delle procedure per la verifica dell'indipendenza dello sperimentatore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    applicazione dei sistemi informativi di supporto alle sperimentazioni cliniche, prevedendo: 
+ 1) meccanismi di valutazione dei risultati delle aziende sanitarie pubbliche nell'ambito delle sperimentazioni cliniche; 
+ 2) l'uso dell'Osservatorio nazionale sulla sperimentazione clinica dei medicinali per l'interscambio della documentazione concernente lo studio clinico dei medicinali tramite modelli predefiniti e disponibili nel sistema stesso; 
+ 3) che la sperimentazione clinica dei medicinali sia svolta attraverso un'adeguata rappresentativita' di genere; 
+ 4) che la sperimentazione clinica dei medicinali si avvalga di professionalita' specifiche nel campo della gestione dei dati e del coordinamento della ricerca; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    individuazione, ai sensi dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127, di criteri generali per la disciplina degli ordinamenti didattici di specifici percorsi formativi in materia di metodologia della ricerca clinica e conduzione e gestione degli studi clinici e sperimentazione dei farmaci; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    previsione, in sede di attuazione dei programmi obbligatori di formazione continua in medicina di cui all'articolo 16-bis del decreto legislativo 30 dicembre 1992, n. 502, che la Commissione nazionale per la formazione continua, di cui all'articolo 2, comma 357, della legge 24 dicembre 2007, n. 244, disponga che l'aggiornamento periodico del personale operante presso le strutture sanitarie e socio-sanitarie impegnato nella sperimentazione clinica dei medicinali sia realizzato attraverso il conseguimento di crediti formativi su percorsi assistenziali multidisciplinari e multiprofessionali e su percorsi formativi di partecipazione diretta a programmi di ricerca clinica multicentrici; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    riformulazione e razionalizzazione dell'apparato sanzionatorio amministrativo per la violazione delle norme vigenti e delle disposizioni contenute nei decreti legislativi emanati in attuazione del comma 1, tenendo conto della responsabilita' e delle funzioni svolte da ciascun soggetto, con riguardo in particolare alla responsabilita' dello sperimentatore e delle strutture coinvolte, nonche' della natura sostanziale o formale della violazione, attraverso: 
+ 1) conferma delle sanzioni amministrative pecuniarie gia' previste dal decreto legislativo 24 giugno 2003, n. 211, per le violazioni delle disposizioni ivi indicate; 
+ 2) previsione della destinazione degli introiti derivanti dalle sanzioni pecuniarie all'entrata del bilancio dello Stato per la riassegnazione a progetti di ricerca sanitaria presentati da ricercatori di eta' inferiore a quaranta anni; 
+ 3) previsione della sospensione dell'attivita' dei comitati etici territoriali che non rispettano i termini e le procedure previsti dal decreto legislativo 24 giugno 2003, n. 211, e le norme sulla trasparenza e sull'assenza di conflitti d'interesse previste dalla presente legge, nonche' di meccanismi sanzionatori; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    revisione della normativa relativa agli studi clinici senza scopo di lucro e agli studi osservazionali, al fine di facilitarne e sostenerne la realizzazione, in particolare per le sperimentazioni cliniche a basso livello di intervento, anche prevedendo forme di coordinamento tra i promotori, con l'obiettivo di migliorare la pratica clinica e di acquisire informazioni rilevanti a seguito dell'immissione in commercio dei medicinali; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    riordino della normativa di cui al decreto del Ministro della salute 17 dicembre 2004, pubblicato nella Gazzetta Ufficiale n. 43 del 22 febbraio 2005, in particolare modificando l'articolo 1, comma 2, lettera d), nel senso di prevedere la possibilita' di cessione dei dati relativi alla sperimentazione all'azienda farmaceutica e la loro utilizzazione a fini di registrazione, per valorizzare l'uso sociale ed etico della ricerca, e di stabilire che l'azienda farmaceutica rimborsi le spese dirette e indirette connesse alla sperimentazione nonche' le mancate entrate conseguenti alla qualificazione dello studio come attivita' senza fini di lucro.
+
 I decreti legislativi di cui al comma 1 sono adottati nel rispetto della procedura di cui all'articolo 14, commi da 1 a 3, della legge 23 agosto 1988, n. 400, su proposta del Ministro della salute, di concerto con il Ministro per gli affari europei, con il Ministro della giustizia, con il Ministro dell'economia e delle finanze, con il Ministro per la semplificazione e la pubblica amministrazione, con il Ministro dell'istruzione, dell'universita' e della ricerca e con il Ministro del lavoro e delle politiche sociali, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano.
 
 Gli schemi dei decreti legislativi di cui al comma 1, a seguito di deliberazione preliminare del Consiglio dei ministri, sono trasmessi alla Camera dei deputati e al Senato della Repubblica perche' su di essi siano espressi, entro quaranta giorni dalla data di trasmissione, i pareri delle Commissioni parlamentari competenti per materia e per i profili finanziari. Decorso tale termine i decreti legislativi sono emanati anche in mancanza dei pareri.
@@ -57,11 +166,54 @@ Con decreto del Ministro della salute, di concerto con il Ministro dell'economia
 
 Al fine di garantire l'omogeneita' degli aspetti amministrativi, economici e assicurativi di cui all'articolo 76 del citato regolamento (UE) n. 536/2014, il Centro di coordinamento individua il contenuto minimo del contratto stipulato con il centro clinico coinvolto nella sperimentazione clinica.
 
+7.
+                        
+                            
+                                Entro sessanta giorni dalla data di entrata in vigore della presente legge, con decreto del Ministro della salute, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, sono individuati i comitati etici territoriali fino a un numero massimo di quaranta. Nell'individuazione dei comitati etici territoriali si deve tenere conto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la presenza di almeno un comitato etico per ciascuna regione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'avvenuta riorganizzazione dei comitati etici, prevista dall'articolo 12, commi 10 e 11, del decreto-legge 13 settembre 2012, n. 158, convertito, con modificazioni, dalla legge 8 novembre 2012, n. 189, nei termini previsti dalla citata normativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il numero di sperimentazioni valutate in qualita' di centro coordinatore nel corso dell'anno 2016.
+
 La nomina dei componenti di ciascun comitato etico territoriale e' di competenza regionale. Sono in ogni caso assicurate l'indipendenza di ciascun comitato nonche' l'assenza di rapporti gerarchici tra diversi comitati.
 
 Entro sessanta giorni dalla data di entrata in vigore della presente legge, con decreto del Ministro della salute, sono altresi' individuati i comitati etici a valenza nazionale nel numero massimo di tre, di cui uno riservato alla sperimentazione in ambito pediatrico. I comitati etici individuati ai sensi del presente comma svolgono le medesime funzioni dei comitati etici territoriali.
 
 I comitati etici territoriali, come individuati ai sensi del comma 7, sono competenti per la valutazione delle sperimentazioni cliniche sui dispositivi medici e sui medicinali per uso umano di fase I, II, III e IV per gli aspetti compresi nella parte II della relazione di valutazione, di cui all'articolo 7 del citato regolamento (UE) n. 536/2014. Fino alla data di entrata in vigore dei decreti di cui ai commi 5 e 7, i comitati etici territoriali esistenti continuano a svolgere i compiti agli stessi demandati dalle norme vigenti.
+
+11.
+                        
+                            
+                                Entro novanta giorni dalla data di entrata in vigore della presente legge, al fine di armonizzare la disciplina vigente con le disposizioni di cui al presente articolo, con decreto del Ministro della salute sono apportate modifiche correttive e integrative ai seguenti decreti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    decreto del Ministro della salute 8 febbraio 2013, pubblicato nella Gazzetta Ufficiale n. 96 del 24 aprile 2013; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    decreto del Ministro della salute 27 aprile 2015, pubblicato nella Gazzetta Ufficiale n. 131 del 9 giugno 2015.
 
 A decorrere dalla data di entrata in vigore dei decreti di cui ai commi 5 e 7 del presente articolo, sono abrogati il decreto del Ministro della sanita' 23 novembre 1999, pubblicato nella Gazzetta Ufficiale n. 21 del 27 gennaio 2000, nonche' gli articoli 6, 7, 8 e 9, commi 9 e 10, del decreto legislativo 24 giugno 2003, n. 211.
 
@@ -77,6 +229,38 @@ Dall'attuazione delle disposizioni del presente articolo non devono derivare nuo
  di genere nel Servizio sanitario nazionale
 
 Il Ministro della salute, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano e avvalendosi del Centro nazionale di riferimento per la medicina di genere dell'Istituto superiore di sanita', entro dodici mesi dalla data di entrata in vigore della presente legge, predispone, con proprio decreto, un piano volto alla diffusione della medicina di genere mediante divulgazione, formazione e indicazione di pratiche sanitarie che nella ricerca, nella prevenzione, nella diagnosi e nella cura tengano conto delle differenze derivanti dal genere, al fine di garantire la qualita' e l'appropriatezza delle prestazioni erogate dal Servizio sanitario nazionale in modo omogeneo sul territorio nazionale.
+
+2.
+                        
+                            
+                                Il decreto di cui al comma 1 e' adottato nel rispetto dei seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    previsione di un approccio interdisciplinare tra le diverse aree mediche e le scienze umane che tenga conto delle differenze derivanti dal genere, al fine di garantire l'appropriatezza della ricerca, della prevenzione, della diagnosi e della cura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promozione e sostegno della ricerca biomedica, farmacologica e psico-sociale basata sulle differenze di genere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    promozione e sostegno dell'insegnamento della medicina di genere, garantendo adeguati livelli di formazione e di aggiornamento del personale medico e sanitario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promozione e sostegno dell'informazione pubblica sulla salute e sulla gestione delle malattie, in un'ottica di differenza di genere.
 
 Il Ministro della salute emana apposite raccomandazioni destinate agli Ordini e ai Collegi delle professioni sanitarie, alle societa' scientifiche e alle associazioni di operatori sanitari non iscritti a Ordini o Collegi, volte a promuovere l'applicazione della medicina di genere su tutto il territorio nazionale.
 
@@ -214,9 +398,119 @@ Gli Ordini e i rispettivi organi in essere alla data di entrata in vigore della 
 
 Gli organi delle Federazioni nazionali di cui all'articolo 8, comma 1, del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, restano in carica fino alla fine del proprio mandato; il loro rinnovo avviene con le modalita' previste dalle disposizioni di cui al presente articolo e dai regolamenti attuativi di cui al comma 5.
 
+5.
+                        
+                            
+                                All'attuazione delle disposizioni di cui al presente articolo si provvede entro sei mesi dalla data di entrata in vigore della presente legge, mediante uno o piu' regolamenti adottati con decreto del Ministro della salute ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano e previo parere delle Federazioni nazionali interessate, da esprimere entro trenta giorni dalla richiesta. Tali regolamenti disciplinano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le norme relative all'elezione, con metodo democratico, degli organi, ivi comprese le commissioni di albo, il regime delle incompatibilita' e, fermo restando quanto disposto dagli articoli 2, comma 8, secondo periodo, e 8, comma 6, secondo periodo, del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, come sostituiti dal comma 1 del presente articolo, il limite dei mandati degli organi degli Ordini e delle relative Federazioni nazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri e le modalita' per l'applicazione di atti sostitutivi o per lo scioglimento degli Ordini; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la tenuta degli albi, le iscrizioni e le cancellazioni dagli albi stessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la riscossione ed erogazione dei contributi, la gestione amministrativa e contabile degli Ordini e delle Federazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'istituzione delle assemblee dei presidenti di albo con funzioni di indirizzo e coordinamento delle attivita' istituzionali a questi affidate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le sanzioni, opportunamente graduate, ed i procedimenti disciplinari, i ricorsi e la procedura dinanzi alla Commissione centrale per gli esercenti le professioni sanitarie.
+
+6.
+                        
+                            
+                                Lo statuto delle Federazioni nazionali, approvato dai Consigli nazionali, definisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la costituzione e l'articolazione delle Federazioni regionali o interregionali, il loro funzionamento e le modalita' della contribuzione strettamente necessaria all'assolvimento delle funzioni di rappresentanza esponenziale delle professioni presso gli enti e le istituzioni regionali di riferimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le attribuzioni di funzioni e le modalita' di funzionamento degli organi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di articolazione territoriale degli Ordini; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'organizzazione e gestione degli uffici, del patrimonio, delle risorse umane e finanziarie.
+
 Fino alla data di entrata in vigore dei regolamenti e degli statuti di cui rispettivamente ai commi 5 e 6 si applicano, per quanto compatibili, le disposizioni del regolamento di cui al decreto del Presidente della Repubblica 5 aprile 1950, n. 221, nonche' i regolamenti di organizzazione delle Federazioni nazionali.
 
 A decorrere dalla data di entrata in vigore dei regolamenti e degli statuti di cui rispettivamente ai commi 5 e 6, sono abrogati gli articoli 20, 22, 23, 24, 25, 26, 27 e 28 del decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233.
+
+9.
+                        
+                            
+                                Dalla data di entrata in vigore della presente legge i collegi delle professioni sanitarie e le rispettive Federazioni nazionali sono trasformati nel modo seguente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i collegi e le Federazioni nazionali degli infermieri professionali, degli assistenti sanitari e delle vigilatrici d'infanzia (IPASVI) in Ordini delle professioni infermieristiche e Federazione nazionale degli Ordini delle professioni infermieristiche. L'albo degli infermieri professionali assume la denominazione di albo degli infermieri. L'albo delle vigilatrici d'infanzia assume la denominazione di albo degli infermieri pediatrici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i collegi delle ostetriche in Ordini della professione di ostetrica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i collegi dei tecnici sanitari di radiologia medica in Ordini dei tecnici sanitari di radiologia medica e delle professioni sanitarie tecniche, della riabilitazione e della prevenzione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso in cui il numero degli iscritti a un albo sia superiore a cinquantamila unita', il rappresentante legale dell'albo puo' richiedere al Ministero della salute l'istituzione di un nuovo Ordine che assuma la denominazione corrispondente alla professione sanitaria svolta; la costituzione del nuovo Ordine avviene secondo modalita' e termini stabiliti con decreto del Ministro della salute emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, senza nuovi o maggiori oneri per la finanza pubblica.
 
 La professione di assistente sanitario confluisce nell'Ordine di cui al comma 9, lettera c), del presente articolo ai sensi dell'articolo 4 della legge 1º febbraio 2006, n. 43.
 
@@ -291,6 +585,33 @@ Il Ministro della salute, entro novanta giorni dalla data di entrata in vigore d
 All'articolo 1 della legge 18 febbraio 1989, n. 56, e' premesso il seguente: 
  «Art. 01 (Categoria professionale degli psicologi). - 1. La professione di psicologo di cui alla presente legge e' ricompresa tra le professioni sanitarie di cui al decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, ratificato dalla legge 17 aprile 1956, n. 561».
 
+5.
+                        
+                            
+                                All'articolo 20 della legge 18 febbraio 1989, n. 56, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ «1. Le elezioni per il rinnovo dei consigli territoriali dell'Ordine si svolgono contemporaneamente nel terzo quadrimestre dell'anno di scadenza. La proclamazione degli eletti deve essere effettuata entro il 31 dicembre dello stesso anno»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 11 e' sostituito dal seguente: 
+ «11. Le votazioni durano da un minimo di due giorni ad un massimo di cinque giorni consecutivi, di cui uno festivo, e si svolgono anche in piu' sedi, con forma e modalita' che ne garantiscano la piena accessibilita' in ragione del numero degli iscritti, dell'ampiezza territoriale e delle caratteristiche geografiche. Qualora l'Ordine abbia un numero di iscritti superiore a 5.000 la durata delle votazioni non puo' essere inferiore a tre giorni. Il presidente e' responsabile del procedimento elettorale. La votazione e' valida in prima convocazione quando abbia votato almeno un quarto degli iscritti; in seconda convocazione qualunque sia il numero dei votanti purche' non inferiore a un decimo degli iscritti»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 12 e' abrogato.
+
 Nella legge 18 febbraio 1989, n. 56, ogni riferimento al Ministro di grazia e giustizia e al Ministero di grazia e giustizia si intende fatto, rispettivamente, al Ministro della salute e al Ministero della salute. Il Ministro della salute, entro novanta giorni dalla data di entrata in vigore della presente legge, adotta gli atti funzionali all'esercizio delle funzioni di cui ai commi 4 e 5 e al presente comma, sentito il Consiglio nazionale degli psicologi.
 
 ## Art. 10. — Elenco nazionale degli ingegneri biomedici e clinici
@@ -302,6 +623,46 @@ Con regolamento del Ministro della giustizia, di concerto con il Ministro della 
 Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
 ## Art. 11. — Modifiche alla legge 8 marzo 2017, n. 24
+
+1.
+                        
+                            
+                                Alla legge 8 marzo 2017, n. 24, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 5, comma 3, primo periodo, le parole: «con la procedura di cui all'articolo 1, comma 28, secondo periodo, della legge 23 dicembre 1996, n. 662, e successive modificazioni,» sono soppresse; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 9, comma 5, terzo periodo, le parole: «pari al valore maggiore della retribuzione lorda o del corrispettivo convenzionale conseguiti nell'anno di inizio della condotta causa dell'evento o nell'anno immediatamente precedente o successivo, moltiplicato per il triplo» sono sostituite dalle seguenti: «pari al triplo del valore maggiore della retribuzione lorda o del corrispettivo convenzionale conseguiti nell'anno di inizio della condotta causa dell'evento o nell'anno immediatamente precedente o successivo»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 9, comma 6, primo periodo, le parole: «pari al valore maggiore del reddito professionale, ivi compresa la retribuzione lorda, conseguito nell'anno di inizio della condotta causa dell'evento o nell'anno immediatamente precedente o successivo, moltiplicato per il triplo» sono sostituite dalle seguenti: «pari al triplo del valore maggiore del reddito professionale, ivi compresa la retribuzione lorda, conseguito nell'anno di inizio della condotta causa dell'evento o nell'anno immediatamente precedente o successivo»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 13, comma 1, primo e secondo periodo, le parole: «entro dieci giorni» sono sostituite dalle seguenti: «entro quarantacinque giorni»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 14, dopo il comma 7 e' inserito il seguente: 
+ «7-bis. Il Fondo di garanzia di cui al comma 1 assolve anche alla funzione di agevolare l'accesso alla copertura assicurativa da parte degli esercenti le professioni sanitarie che svolgono la propria attivita' in regime libero-professionale, ai sensi dell'articolo 10, comma 6».
 
 I commi 2 e 4 dell'articolo 3 del decreto-legge 13 settembre 2012, n. 158, convertito, con modificazioni, dalla legge 8 novembre 2012, n. 189, sono abrogati.
 

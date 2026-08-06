@@ -8,8 +8,8 @@ codice_redazionale: 098G0423
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -40,6 +40,32 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 Il catasto dei rifiuti e' organizzato in una sezione nazionale, che ha sede in Roma presso l'Agenzia nazionale per la protezione dell'ambiente (ANPA) e in sezioni regionali o delle province autonome presso le corrispondenti Agenzie regionali e delle province autonome per la protezione dell'ambiente (ARPA). Ove tali strutture non siano state ancora costituite, nelle more dell'istituzione delle strutture stesse, in via transitoria le sezioni regionali sono istituite presso la regione.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            La base informativa del Catasto dei rifiuti e' attuata e aggiornata con periodicita' tipicamente pari all'annualita', attraverso: 
+ 
+                        
+                        
+                            a)
+                            
+                                i dati relativi alle quantita' ed alle caratteristiche qualitative dei rifiuti prodotti, recuperati e smaltiti comunicati con le modalita' previste dalla legge 25 gennaio 1994 n. 70, ai sensi dell'articolo 11, del decreto legislativo 5 febbraio 1997, n. 22; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i dati relativi alle autorizzazioni regionali e alla iscrizione di cui agli articoli 27, 2X, 30, 31, 32 e 33, del decreto legislativo 5 febbraio 1997, n. 22, trasmessi alla sezione nazionale ai sellai dei commi 5 e dell'articolo 1 della legge 21 gennaio 1994, n. 61; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ulteriori dati assunti o elaborati di cui l'Agenzia nazionale per la protezione dell'ambiente (ANPA) 
+disporra' attraverso la propria attivita' di gestione dell'informazione di interesse ambientale.
 
 L'Agenzia nazionale per protezione dell'ambiente (ANPA) stabilisce in collaborazione con le regioni le elaborazioni da effettuarsi sui dati relativi alle dichiarazioni di cui al Modello unico di dichiarazione (MUD) previsto dalla legge 25 gennaio 1994, n. 
 70, i diversi livelli di elaborazione, le modalita' per la validazione dei dati, nonche' il modello per l'acquisizione dei dati di cui al comma 1, lettera h), del presente articolo.

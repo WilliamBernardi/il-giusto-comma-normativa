@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,28 @@ All'articolo 3, comma 1, del decreto legislativo 27 gennaio 1992, n. 109, dopo l
 
 ## Art. 2. — Modifiche all'articolo 4 del
  decreto legislativo 27 gennaio 1992, n. 109
+
+1.
+                    
+                        
+                            All'articolo 4 del decreto legislativo 27 gennaio 1992, n. 109, sono apportate le seguenti modifiche:
+
+                        
+                        
+                            a)
+                            
+                                il comma 1, e' sostituito dal seguente:
+ "1. La denominazione di vendita di un prodotto alimentare e' la denominazione prevista per tale prodotto dalle disposizioni della Comunita' europea ad esso applicabili. In mancanza di dette disposizioni la denominazione di vendita e' la denominazione prevista dalle disposizioni legislative, regolamentari o amministrative dell'ordinamento italiano, che disciplinano il prodotto stesso.";
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, sono inseriti i seguenti:
+ "1-bis. In assenza delle disposizioni di cui al comma 1, la denominazione di vendita e' costituita dal nome consacrato da usi e consuetudini o da una descrizione del prodotto alimentare e, se necessario da informazioni sulla sua utilizzazione, in modo da consentire all'acquirente di conoscere l'effettiva natura e di distinguerlo dai prodotti con i quali potrebbe essere confuso.
+ 1-ter. E' ugualmente consentito l'uso della denominazione di vendita sotto la qule il prodotto e' legalmente fabbricato e commercializzato nello Stato membro di origine. Tuttavia, qualora questa non sia tale da consentire al consumatore di conoscere l'effettiva natura del prodotto e di distinguerlo dai prodotti con i quali esso potrebbe essere confuso, la denominazione di vendita deve essere accompagnata da specifiche informazioni descrittive sulla sua natura e utilizzazione.
+ 1-quater. La denominazione di vendita dello Stato membro di produzione non puo' essere usata, quando il prodotto che essa designa, dal punto di vista della composizione o della fabbricazione, si discosta in maniera sostanziale dal prodotto conosciuto sul mercato nazionale con tale denominazione.
+ 1-quinquies. Nella ipotesi di cui al comma 1-quater, il produttore, il suo mandatario o il soggetto responsabile dell'immissione sul mercato del prodotto, trasmette al Ministero dell'industria, del commercio e dell'artigianato la documentazione tecnica ai fini dell'autorizzazione all'uso di una diversa denominazione da concedersi di concerto con i Ministeri della sanita' e delle politiche agricole, entro sessanta giorni dalla presentazione della domanda. Con lo stesso provvedimento possono essere stabilite eventuali specifiche merceologiche, nonche' indicazioni di utilizzazione.".
 
 ## Art. 3. — Modifica all'articolo 5 del decreto legislativo 27 gennaio 1992, n. 109
 

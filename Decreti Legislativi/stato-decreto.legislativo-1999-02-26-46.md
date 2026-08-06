@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-01-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,24 @@ Sulla proposta del Ministro delle finanze, di concerto con i Ministri del tesoro
 ## - Capo I MODIFICHE AL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 SETTEMBRE 1973, N. 602
 
 ## Art. 1. — Partizioni
+
+1.
+                        
+                            
+                                Nel titolo I del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sono introdotte le seguenti partizioni interne:
+ 
+                            
+                            
+                                a)
+                                
+                                    prima dell'articolo 1: "Capo I - Versamenti diretti";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo l'articolo 9 e prima dell'articolo 10: "Capo II - Riscossione mediante ruoli".
 
 ## Art. 2. — Definizioni
 
@@ -85,6 +103,25 @@ L'articolo 20 del decreto del Presidente della Repubblica 29 settembre 1973, n. 
  "Art. 20 (Interessi per ritardata iscrizione a ruolo). - Sulle imposte o sulle maggiori imposte dovute in base alla liquidazione ed al controllo formale della dichiarazione od all'accertamento d'ufficio si applicano, a partire dalla scadenza del termine di presentazione della dichiarazione e fino alla data di consegna al concessionario dei ruoli nei quali tali imposte sono iscritte, gli interessi al tasso del cinque per cento annuo".
 
 ## Art. 9. — Interessi per dilazione di pagamento
+
+1.
+                        
+                            
+                                All'articolo 21 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la rubrica e' sostituita dalla seguente: "Interessi per dilazione del pagamento";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il primo comma e' sostituito dal seguente:
+ "Sulle somme il cui pagamento e' stato rateizzato o sospeso ai sensi dell'articolo 19, comma 1, si applicano gli interessi al tasso del sei per cento annuo.".
 
 ## Art. 10. — Consegna del ruolo al concessionario
 
@@ -366,7 +403,25 @@ Resta salvo quanto previsto dal decreto legislativo 18 dicembre 1997, n. 462.
 ## Art. 25. — Termini di decadenza per l'iscrizione a ruolo
  dei crediti degli enti pubblici previdenziali
 
+1.
+                        
+                            
+                                I contributi o premi dovuti agli enti pubblici previdenziali sono iscritti in ruoli resi esecutivi, a pena di decadenza:
+ 
+                            
+                            
+                                a)
+                                
+                                    per i contributi o premi non versati dal debitore, entro il 31 dicembre dell'anno successivo al termine fissato per il versamento; in caso di denuncia o comunicazione tardiva o di riconoscimento del debito, tale termine decorre dalla data di conoscenza, da parte dell'ente;
 
+                                
+                            
+                            
+                                b)
+                                
+                                    per i contributi o premi dovuti in forza di accertamenti effettuati dagli uffici, entro il 31 dicembre dell'anno successivo alla data di notifica del provvedimento ovvero, per quelli sottoposti a gravame giudiziario, entro il 31 dicembre dell'anno successivo a quello in cui il provvedimento e' divenuto definitivo.
+
+((COMMA ABROGATO DAL D.L. 31 MAGGIO 2010, N. 78, CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 2010, N. 122)).
 
 ## Art. 26. — Rateazione delle entrate diverse
  dalle imposte sui redditi
@@ -409,7 +464,45 @@ Le disposizioni previste dagli articoli 88 e 90, comma 2, del decreto del Presid
 
 
 
+1.
+                        
+                            
+                                La riscossione spontanea a mezzo ruolo e' effettuata nel numero di rate previsto dalle disposizioni relative alle singole entrate; le rate scadono l'ultimo giorno del mese. Si considera riscossione spontanea a mezzo ruolo quella da effettuare, nei casi previsti dalla legge:
+
+                            
+                            
+                                a)
+                                
+                                    a seguito di iscrizione a ruolo non derivante da inadempimento;
+                                
+                            
+                            
+                                b)
+                                
+                                    quando la somma da iscrivere a ruolo e' ripartita in piu' rate su richiesta del debitore.
+
 ((
+
+2.
+                        
+                            
+                                Nel caso previsto dal comma 1, lettera a):
+
+                            
+                            
+                                a)
+                                
+                                    su richiesta dell'ente creditore, possono essere regolate con convenzioni da stipulare con i concessionari del servizio nazionale della riscossione:
+ 1) le procedure di formazione e consegna dei ruoli;
+ 2) limitatamente alla fase antecedente la notifica della cartella di pagamento, le modalita' di richiesta del pagamento al debitore e di riversamento delle somme riscosse e la remunerazione per lo svolgimento del servizio;
+ 3) i termini di notifica della cartella di pagamento;
+ 4) le penalita' per l'inadempimento degli obblighi derivanti dalla convenzione;
+                                
+                            
+                            
+                                b)
+                                
+                                    in mancanza della richiesta di cui alla lettera a), la cadenza delle eventuali rate e' indicata dall'ente creditore e i concessionari possono far precedere la notifica della cartella di pagamento dall'invio, a mezzo lettera non raccomandata, di una comunicazione contenente gli elementi da indicare nella cartella stessa. In ogni caso, essi inviano tale comunicazione in modo che la prima o unica rata di pagamento cada entro l'ultimo giorno del terzo mese successivo a quello di consegna del ruolo.
 
 ))
 
@@ -420,6 +513,25 @@ Se il ruolo emesso per la riscossione spontanea e' ripartito in piu' rate, l'int
 ## - Capo III DISPOSIZIONI TRANSITORIE E FINALI
 
 ## Art. 33. — Modifica dell'art. 2752 del codice civile
+
+1.
+                        
+                            
+                                Nell'art. 2752 del codice civile sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente:
+ "Hanno privilegio generale sui mobili del debitore i crediti dello Stato per l'imposta sul reddito delle persone fisiche, per l'imposta sul reddito delle persone giuridiche e per l'imposta locale sui redditi, diversi da quelli indicati nel primo comma dell'art. 2771, iscritti nei ruoli resi esecutivi nell'anno in cui il concessionario del servizio di riscossione procede o interviene nell'esecuzione e nell'anno precedente.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il secondo comma e' soppresso.
 
 ## Art. 34. — Modifica dell'art. 2771 del codice civile
 
@@ -436,6 +548,24 @@ Fino all'entrata in vigore del regolamento previsto
  nell'articolo 12-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, introdotto dall'articolo 4 del presente decreto, per le entrate tributarie dello Stato e degli enti locali non si fa luogo all'iscrizione a ruolo per gli importi individuati con il regolamento previsto nell'articolo 16, comma 2, della legge 8 maggio 1998, n. 146.
 
 ((
+
+2.
+                        
+                            
+                                In deroga all'articolo 25, comma 1, lettera a), del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, per le somme che risultano dovute a seguito dell'attivita' di liquidazione delle dichiarazioni, la cartella di pagamento e' notificata, a pena di decadenza, entro il 31 dicembre:
+ 
+                            
+                            
+                                a)
+                                
+                                    del quarto anno successivo a quello di presentazione della dichiarazione, relativamente alle dichiarazioni presentate negli anni 2002 e 2003;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del quinto anno successivo a quello di presentazione della dichiarazione, relativamente alle dichiarazioni presentate entro il 31 dicembre 2001.
 
 ))
 
@@ -457,6 +587,23 @@ Le procedure esecutive in corso alla data di entrata in vigore del presente decr
 
 Resta fermo quanto disposto in tema di cessione e cartolarizzazione dei crediti dell'istituto nazionale della previdenza ed assistenza sociale; ai crediti oggetto della cessione si applicano le disposizioni del presente decreto, a partire dalla data della sua entrata in vigore.
 
+10-bis.
+                        
+                            
+                                Entro il 31 dicembre 2002, l'ente creditore procede automaticamente all'annullamento dei ruoli resi esecutivi prima del 31 dicembre 1994 e non riscossi, a condizione che, alla data del 31 dicembre 2001:
+
+                            
+                            
+                                a)
+                                
+                                    le somme iscritte in tali ruoli non siano oggetto di provvedimenti di sospensione;
+                                
+                            
+                            
+                                b)
+                                
+                                    non siano scaduti i termini di cui all'articolo 77 del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43, per la presentazione, da parte del concessionario, delle domande di rimborso o di discarico delle quote iscritte nei predetti ruoli.
+
 A seguito dell'annullamento dei ruoli di cui al comma 10-bis, l'ente creditore rimborsa al concessio-nario le somme dallo stesso anticipate in adempimento dell'obbligo del non riscosso come riscosso.
 
 Le disposizioni di cui ai commi 10-bis e 10-ter non devono comportare oneri a carico del bilancio dello Stato.
@@ -466,6 +613,24 @@ Le disposizioni di cui ai commi 10-bis e 10-ter non devono comportare oneri a ca
 Sono abrogati (( l'articolo 60, commi dal secondo al quinto, e 61 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, gli articoli )) 9, 13, 15, secondo comma, 18, 23, 27, 29, secondo comma, 40, e 42, settimo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, l'articolo 35, quinto comma, secondo periodo, e nono comma della legge 24 novembre 1981, n. 689, l'articolo 2, ad eccezione dei commi 11, 12, 15, 16, 17, 18 e 19, del decreto-legge 9 ottobre 1989, n. 338, convertito, con modificazioni, dalla legge 7 dicembre 1989, n. 389, e l'articolo (( 11, commi 4-bis e 5 )), del decreto-legge 13 maggio 1991, n. 151, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 202.
 
 ## Art. 38. — Norma di coordinamento
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    i rinvii contenuti in norme vigenti alle disposizioni del decreto Presidente della Repubblica 29 settembre 1973, n. 602, abrogate dal presente decreto, si intendono riferiti alle corrispondenti disposizioni del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i riferimenti contenuti nelle norme ai ruoli principali, suppletivi e speciali, gia' disciplinati dal decreto del Presidente della Repubblica 29 settembre 1973, n. 602, si intendono effettuati ai ruoli ordinari di cui all'articolo 11 del medesimo decreto n. 602 del 1973, come sostituito dall'articolo 3 del presente decreto.
 
 ## Art. 39. — Entrata in vigore
 

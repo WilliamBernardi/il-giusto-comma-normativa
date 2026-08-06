@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2004-11-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -24,6 +24,108 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva degli 
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai sensi del presente regolamento si intende:
+ 
+                        
+                        
+                            a)
+                            
+                                per Ministro o Ministero, il Ministro o il Ministero dell'universita' e della ricerca scientifica e tecnologica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per decreto o decreti ministeriali, uno o piu' decreti emanati ai sensi e secondo le procedure di cui all'articolo 17, comma 95, della legge 15 maggio 1997, n. 127, e successive modificazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per regolamenti didattici di ateneo, i regolamenti di cui all'articolo 11, comma 1, della legge 19 novembre 1990, n. 341;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per regolamenti didattici dei corsi di studio, i regolamenti di cui all'articolo 11, comma 2, della legge 19 novembre 1990, n. 341;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per corsi di studio, i corsi di laurea, di laurea specialistica e di specializzazione, come individuati nell'articolo 3;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per titoli di studio, la laurea, la laurea specialistica e il diploma di specializzazione rilasciati al termine dei corrispondenti corsi di studio, come individuati nell'articolo 3;
+
+                            
+                        
+                        
+                            g)
+                            
+                                per classe di appartenenza di corsi di studio, l'insieme dei corsi di studio, comunque denominati, raggruppati ai sensi dell'articolo 4;
+
+                            
+                        
+                        
+                            h)
+                            
+                                per settori scientifico-disciplinari, i raggruppamenti di discipline di cui al decreto ministeriale 23 giugno 1997, pubblicato nella Gazzetta Ufficiale n. 175 del 29 luglio 1997, e successive modifiche;
+
+                            
+                        
+                        
+                            i)
+                            
+                                per ambito disciplinare, un insieme di settori scientifico-disciplinari culturalmente e professionalmente affini, definito dai decreti ministeriali;
+
+                            
+                        
+                        
+                            l)
+                            
+                                per credito formativo universitario, la misura del volume di lavoro di apprendimento, compreso lo studio individuale, richiesto ad uno studente in possesso di adeguata preparazione iniziale per l'acquisizione di conoscenze ed abilita' nelle attivita' formative previste dagli ordinamenti didattici dei corsi di studio;
+
+                            
+                        
+                        
+                            m)
+                            
+                                per obiettivi formativi, l'insieme di conoscenze e abilita' che caratterizzano il profilo culturale e professionale, al conseguimento delle quali il corso di studio e' finalizzato;
+
+                            
+                        
+                        
+                            n)
+                            
+                                per ordinamento didattico di un corso di studio, l'insieme delle norme che regolano i curricula del corso di studio, come specificato nell'articolo 11;
+
+                            
+                        
+                        
+                            o)
+                            
+                                per attivita' formativa, ogni attivita' organizzata o prevista dalle universita' al fine di assicurare la formazione culturale e professionale degli studenti, con riferimento, tra l'altro, ai corsi di insegnamento, ai seminari, alle esercitazioni pratiche o di laboratorio, alle attivita' didattiche a piccoli gruppi, al tutorato, all'orientamento, ai tirocini, ai progetti, alle tesi, alle attivita' di studio individuale e di autoapprendimento;
+
+                            
+                        
+                        
+                            p)
+                            
+                                per curriculum, l'insieme delle attivita' formative universitarie ed extrauniversitarie specificate nel regolamento didattico del corso di studio al fine del conseguimento del relativo titolo.
+
 ## Art. 2. — F i n a l i t a'
 
 Ai sensi dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127, e successive modificazioni e integrazioni, il presente regolamento detta disposizioni concernenti i criteri generali per l'ordinamento degli studi universitari e determina la tipologia dei titoli di studio rilasciati dalle universita'.
@@ -31,6 +133,24 @@ Ai sensi dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127, e succe
 Ai fini della realizzazione dell'autonomia didattica di cui all'articolo 11 della legge 19 novembre 1990, n. 341, le universita', con le procedure previste dalla legge e dagli statuti, disciplinano gli ordinamenti didattici dei propri corsi di studio in conformita' con le disposizioni del presente regolamento e di successivi decreti ministeriali.
 
 ## Art. 3. — Titoli e corsi di studio
+
+1.
+                    
+                        
+                            Le universita' rilasciano i seguenti titoli di primo e di secondo livello:
+ 
+                        
+                        
+                            a)
+                            
+                                laurea (L);
+
+                            
+                        
+                        
+                            b)
+                            
+                                laurea specialistica (LS).
 
 Le universita' rilasciano altresi' il diploma di specializzazione (DS) e il dottorato di ricerca (DR).
 
@@ -116,17 +236,202 @@ All'atto dell'istituzione di un corso di laurea, l'ordinamento didattico stabili
 
 ## Art. 10. — Obiettivi e attivita' formative qualificanti delle classi
 
+1.
+                    
+                        
+                            I decreti ministeriali individuano preliminarmente, per ogni classe di corsi di studio, gli obiettivi formativi qualificanti e le attivita' formative indispensabili per conseguirli, raggruppandole in sei tipologie:
+ 
+                        
+                        
+                            a)
+                            
+                                attivita' formative in uno o piu' ambiti disciplinari relativi alla formazione di base;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' formative in uno o piu' ambiti disciplinari caratterizzanti la classe;
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' formative in uno o piu' ambiti disciplinari affini o integrativi di quelli caratterizzanti, con particolare riguardo alle culture di contesto e alla formazione interdisciplinare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                attivita' formative autonomamente scelte dallo studente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                attivita' formative relative alla preparazione della prova finale per il conseguimento del titolo di studio e, con riferimento alla laurea, alla verifica della conoscenza della lingua straniera;
+
+                            
+                        
+                        
+                            f)
+                            
+                                attivita' formative, non previste dalle lettere precedenti, volte ad acquisire ulteriori conoscenze linguistiche, nonche' abilita' informatiche e telematiche, relazionali, o comunque utili per l'inserimento nel mondo del lavoro, nonche' attivita' formative volte ad agevolare le scelte professionali, mediante la conoscenza diretta del settore lavorativo cui il titolo di studio puo' dare accesso, tra cui, in particolare, i tirocini formativi e di orientamento di cui al decreto del Ministero del lavoro 25 marzo 1998, n. 142.
+
+2.
+                    
+                        
+                            I decreti ministeriali determinano altresi', per ciascuna classe, il numero minimo di crediti che gli ordinamenti didattici riservano ad ogni attivita' formativa e ad ogni ambito disciplinare di cui al comma 1, rispettando i seguenti vincoli percentuali sul totale dei crediti necessari per conseguire il titolo di studio:
+ 
+                        
+                        
+                            a)
+                            
+                                la somma totale dei crediti riservati non potra' essere superiore al 66 per cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le somme dei crediti riservati, relativi alle attivita' di cui alle lettere a), b),
+                            
+                        
+                        
+                            c)
+                            
+                                e alle lettere d), e), f) del comma 1 non potranno essere superiori, rispettivamente, al 50 per cento e al 20 per cento;
+ c) i crediti riservati, relativi alle attivita' di ognuna delle tipologie di cui alle lettere a), b,), c) e d), e), f) del comma 1 non potranno essere inferiori, rispettivamente, al 10 e al 5 per cento.
+
 ## Art. 11. — Regolamenti didattici di ateneo
 
 Le universita' disciplinano gli ordinamenti didattici dei propri corsi di studio nei regolamenti didattici di ateneo che sono redatti nel rispetto, per ogni corso di studio, delle disposizioni del presente regolamento e di successivi decreti ministeriali, e che sono approvati dal Ministro ai sensi dell'articolo 11, comma 1, della legge 19 novembre 1990, n. 341.
 
 I regolamenti didattici di ateneo e le relative modifiche sono emanati con decreto rettorale e sono resi noti anche con le modalita' di cui all'articolo 17, comma 95, lettera b), della legge 15 maggio 1997, n. 127. L'entrata in vigore degli ordinamenti didattici e' stabilita nel decreto rettorale di emanazione.
 
+3.
+                    
+                        
+                            Ogni ordinamento didattico determina:
+ 
+                        
+                        
+                            a)
+                            
+                                le denominazioni e gli obiettivi formativi dei corsi di studio, indicando le relative classi di appartenenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il quadro generale delle attivita' formative da inserire nei curricula;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i crediti assegnati a ciascuna attivita' formativa, riferendoli, per quanto riguarda quelle previste nelle lettere a), b), c) dell'articolo 10, comma 1, ad uno o piu' settori scientifico-disciplinari nel loro complesso;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le caratteristiche della prova finale per il conseguimento del titolo di studio.
+
 Le determinazioni di cui al comma 3, lettere a) e b), sono assunte dalle universita' previa consultazione con le organizzazioni rappresentative a livello locale del mondo della produzione, dei servizi e delle professioni.
 
 Per il conseguimento della laurea specialistica deve comunque essere prevista la presentazione di una tesi elaborata in modo originale dallo studente sotto la guida di un relatore.
 
 Il regolamento didattico di ateneo puo' prevedere piu' corsi di studio appartenenti alla medesima classe.
+
+7.
+                    
+                        
+                            I regolamenti didattici di ateneo, nel rispetto degli statuti, disciplinano altresi' gli aspetti di organizzazione dell'attivita' didattica comuni ai corsi di studio, con particolare riferimento:
+ 
+                        
+                        
+                            a)
+                            
+                                agli obiettivi, ai tempi e ai modi con cui le competenti strutture didattiche provvedono collegialmente alla programmazione, al coordinamento e alla verifica dei risultati delle attivita' formative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle procedure di attribuzione dei compiti didattici annuali ai professori e ai ricercatori universitari, ivi comprese le attivita' didattiche integrative, di orientamento e di tutorato;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alle procedure per lo svolgimento degli esami e delle altre verifiche di profitto, nonche' della prova finale per il conseguimento del titolo di studio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                alle modalita' con cui si perviene alla valutazione del profitto individuale dello studente, che deve comunque essere espressa mediante una votazione in trentesimi per gli esami e in centodecimi per la prova finale, con eventuale lode;
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla valutazione della preparazione iniziale degli studenti che accedono ai corsi di laurea e ai corsi di laurea specialistica;
+
+                            
+                        
+                        
+                            f)
+                            
+                                all'organizzazione di attivita' formative propedeutiche alla valutazione della preparazione iniziale degli studenti che accedono ai corsi di laurea, nonche' di quelle relative agli obblighi formativi aggiuntivi di cui al comma 1 dell'articolo 6;
+
+                            
+                        
+                        
+                            g)
+                            
+                                all'introduzione di un servizio di ateneo per il coordinamento delle attivita' di orientamento, da svolgere in collaborazione con gli istituti d'istruzione secondaria superiore, nonche' in ogni corso di studio, di un servizio di tutorato per gli studenti;
+
+                            
+                        
+                        
+                            h)
+                            
+                                all'eventuale introduzione di apposite modalita' organizzative delle attivita' formative per studenti non impegnati a tempo pieno;
+
+                            
+                        
+                        
+                            i)
+                            
+                                alle modalita' di individuazione, per ogni attivita', della struttura o della singola persona che ne assume la responsabilita';
+
+                            
+                        
+                        
+                            l)
+                            
+                                alla valutazione della qualita' delle attivita' svolte;
+
+                            
+                        
+                        
+                            m)
+                            
+                                alle forme di pubblicita' dei procedimenti e delle decisioni assunte;
+ h) alle modalita' per il rilascio dei titoli congiunti di cui all'articolo 3, comma 9.
 
 I regolamenti didattici di ateneo disciplinano le modalita' con cui le universita' rilasciano, come supplemento al diploma di ogni titolo di studio, un certificato che riporta, secondo modelli conformi a quelli adottati dai Paesi europei, le principali indicazioni relative al curriculum specifico seguito dallo studente per conseguire il titolo.
 
@@ -135,6 +440,45 @@ Le universita', con appositi regolamenti, riordinano e disciplinano le procedure
 ## Art. 12. — Regolamenti didattici dei corsi di studio
 
 In base all'articolo 11, comma 2, della legge 19 novembre 1990, n. 341, il regolamento didattico di un corso di studio, deliberato dalla competente struttura didattica in conformita' con l'ordinamento didattico nel rispetto della liberta' d'insegnamento, nonche' dei diritti e doveri dei docenti e degli studenti, specifica gli aspetti organizzativi del corso di studio. Il regolamento e' approvato con le procedure previste nello statuto dell'ateneo.
+
+2.
+                    
+                        
+                            Il regolamento didattico di un corso di studio determina in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                l'elenco degli insegnamenti, con l'indicazione dei settori scientifico-disciplinari di riferimento e dell'eventuale articolazione in moduli, nonche' delle altre attivita' formative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli obiettivi formativi specifici, i crediti e le eventuali propedeuticita' di ogni insegnamento e di ogni altra attivita' formativa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i curricula offerti agli studenti e le regole di presentazione, ove necessario, dei piani di studio individuali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la tipologia delle forme didattiche, anche a distanza, degli esami e delle altre verifiche del profitto degli studenti;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le disposizioni sugli eventuali obblighi di frequenza.
 
 Le disposizioni dei regolamenti didattici dei corsi di studio concernenti la coerenza tra i crediti assegnati alle attivita' formative e gli specifici obiettivi formativi programmati sono deliberate dalle competenti strutture didattiche, previo parere favorevole di commissioni didattiche paritetiche o di altre analoghe strutture di rappresentanza studentesca. Qualora il parere non sia favorevole la deliberazione e' assunta dal senato accademico. Il parere e' reso entro trenta giorni dalla richiesta. Decorso inutilmente tale termine la deliberazione e' adottata prescindendosi dal parere.
 

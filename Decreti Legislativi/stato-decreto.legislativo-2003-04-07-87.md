@@ -8,8 +8,8 @@ codice_redazionale: 003G0106
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -20,4 +20,23 @@ DECRETO LEGISLATIVO
 Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'interno, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e del lavoro e delle politiche sociali;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Al testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, approvato con decreto legislativo 25 luglio 1998, n. 286, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 3 dell'articolo 10, e' sostituito dal seguente:
+ "3. Il vettore che ha condotto alla frontiera uno straniero privo dei documenti di cui all'articolo 4, o che deve essere comunque respinto a norma del presente articolo, e' tenuto a prenderlo immediatamente a carico ed a ricondurlo nello Stato di provenienza, o in quello che ha rilasciato il documento di viaggio eventualmente in possesso dello straniero. Tale disposizione si applica anche quando l'ingresso e' negato allo straniero in transito, qualora il vettore che avrebbe dovuto trasportarlo nel Paese di destinazione rifiuti di imbarcarlo o le autorita' dello Stato di destinazione gli abbiano negato l'ingresso o lo abbiano rinviato nello Stato.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'articolo 12, comma 6, secondo periodo, le parole: "da lire un milione a lire cinque milioni" sono sostituite dalle seguenti: "da euro 3.500 a euro 5.500".
 

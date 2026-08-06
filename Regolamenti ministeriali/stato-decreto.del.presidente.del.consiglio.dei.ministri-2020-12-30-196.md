@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2020-12-30;
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -38,6 +38,80 @@ Sono riconosciute, ai fini del contributo, le spese effettuate con le modalita' 
 
 ## Art. 3. — Procedura di concessione del contributo sotto forma 
  di credito d'imposta
+
+1.
+                    
+                        
+                            Ai fini del riconoscimento del contributo di cui al presente decreto, i soggetti interessati presentano apposita domanda al Dipartimento per lo sport della Presidenza del Consiglio dei ministri, entro il 1° aprile 2021, mediante un modulo reso disponibile dallo stesso Dipartimento sul proprio sito istituzionale entro il 1° febbraio 2021. La domanda contiene: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli elementi identificativi del soggetto che ha effettuato l'investimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli elementi identificativi dei soggetti che hanno ricevuto l'investimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare dell'investimento realizzato, di importo complessivo non inferiore a 10.000 euro; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la durata della prestazione fornita dal soggetto destinatario dell'investimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'oggetto della campagna pubblicitaria; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'attestazione delle spese sostenute, ai sensi dell'articolo 2, comma 2; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'ammontare del contributo richiesto, sotto forma di credito d'imposta, pari al 50 per cento degli investimenti effettuati; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la certificazione resa dal soggetto interessato ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, ovvero, in alternativa, la dichiarazione della Federazione sportiva di riferimento circa lo svolgimento di attivita' sportiva giovanile da parte delle societa' e associazioni sportive, nonche' l'appartenenza dello sport praticato alle discipline olimpiche o paralimpiche; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per le societa' e le associazioni dilettantistiche, il certificato di iscrizione, in corso di validita', al relativo registro del Comitato Olimpico Nazionale Italiano; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                la dichiarazione sostitutiva resa dal soggetto destinatario dell'investimento, ai sensi dell'articolo 46, comma 1, lettera o), del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, concernente la consistenza dei ricavi prodotti in Italia nel periodo di imposta 2019, almeno pari a 150.000 euro e fino a un massimo di 15 milioni di euro.
 
 Entro i novanta giorni successivi alla scadenza del termine per la presentazione delle domande di cui al comma 1, il Dipartimento per lo sport della Presidenza del Consiglio dei ministri, previa verifica dei requisiti di legge e della documentazione di cui al medesimo comma 1, provvede alla concessione del contributo, sotto forma di credito d'imposta, nel rispetto del limite complessivo di 90 milioni di euro e ne da' comunicazione ai soggetti beneficiari mediante pubblicazione di un apposito elenco sul proprio sito istituzionale.
 In caso di insufficienza delle risorse disponibili rispetto alle richieste ammesse, il Dipartimento dello sport procede alla ripartizione proporzionale tra i beneficiari sulla base del rapporto tra l'ammontare delle risorse disponibili e l'ammontare complessivo dei contributi richiesti. L'elenco dei beneficiari e' contestualmente trasmesso all'Agenzia delle entrate secondo le modalita' concordate con l'Agenzia medesima ai sensi dell'articolo 5, comma 4.

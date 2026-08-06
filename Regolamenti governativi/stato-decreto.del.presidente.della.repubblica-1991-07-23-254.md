@@ -8,8 +8,8 @@ codice_redazionale: 091G0291
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,23 @@ Il censimento della popolazione e' riferito alla mezzanotte tra il 19 e il 20 ot
 
 ## Art. 2. — Campo di osservazione del censimento della popolazione
 
+1.
+                        
+                            
+                                Il censimento della popolazione rileva in ciascun comune:
+
+                            
+                            
+                                a)
+                                
+                                    la popolazione residente;
+                                
+                            
+                            
+                                b)
+                                
+                                    la popolazione presente.
+
 La popolazione residente censita e' considerata popolazione legale.
 
 La popolazione residente di ciascun comune e' costituita dalle persone che, alla data del censimento, hanno la propria dimora abituale nel comune stesso, anche se temporaneamente assenti dal comune per motivi che non comportano trasferimento di residenza, secondo le norme del regolamento di esecuzione della legge 24 dicembre 1954, n. 1228, sull'ordinamento delle anagrafi della popolazione residente, approvato con decreto del Presidente della Repubblica 30 maggio 1989, n. 223.
@@ -54,6 +71,23 @@ Il censimento delle abitazioni rileva, altresi', gli altri tipi di alloggio occu
 
 ## Art. 4. — Campo di osservazione del censimento dell'industria e dei servizi
  Imprese e relative unita' locali
+
+1.
+                        
+                            
+                                Il censimento dell'industria e dei servizi rileva in ciascun comune la consistenza numerica e alcune caratteristiche fondamentali:
+
+                            
+                            
+                                a)
+                                
+                                    delle unita' giuridico-economiche costituite da imprese che esercitano la propria attivita', anche se in forma artigianale, nei settori dell'industria, del commercio, dei trasporti e comunicazioni, del credito e assicurazione e in altri servizi, nonche' delle imprese che esercitano la silvicoltura, la pesca e le attivita' di trasformazione annesse ad aziende agricole;
+                                
+                            
+                            
+                                b)
+                                
+                                    delle unita' locali, anche se temporaneamente inattive alla data del censimento, gestite dalle imprese di cui alla lettera a).
 
 Per le imprese il censimento rileva l'attivita' esercitata, la forma giuridica, le unita' locali da esse gestite, il numero degli addetti, l'utilizzo di attrezzature informatiche e di beni capitali in leasing, nonche' alcune notizie per l'artigianato.
 
@@ -75,13 +109,70 @@ Per le unita' locli delle istituzioni, il censimento rileva l'attivita' esercita
 
 ## Art. 6. — Unita' di rilevazione del censimento della popolazione
 
+1.
+                        
+                            
+                                Le unita' di rilevazione del censimento della popolazione sono:
+
+                            
+                            
+                                a)
+                                
+                                    la famiglia;
+                                
+                            
+                            
+                                b)
+                                
+                                    la convivenza.
+
 Per famiglia s'intende la famiglia anagrafica prevista dall'art. 4 del regolamento anagrafico, approvato con decreto del Presidente della Repubblica 30 maggio 1989, n. 223. Per convivenza s'intende la convivenza anagrafica prevista dall'art. 5 del regolamento stesso.
 
 ## Art. 7. — Unita' di rilevazione del censimento delle abitazioni
 
+1.
+                        
+                            
+                                Le unita' di rilevazine del censimento delle abitazioni sono:
+
+                            
+                            
+                                a)
+                                
+                                    l'abitazione, occupata da uno o piu' famiglie residenti o non occupata;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'altro tipo di alloggio, se e' abitualmente occupato da una o piu' persone residenti.
+
 Per abitazione s'intende un insieme di vani, o anche un vano solo, destinato funzionalmente ad uso di alloggio, che dispone di un ingresso indipendente su strada, pianerottolo, cortile, terrazza, ballatoio e simili.
 
 ## Art. 8. — Unita' di rilevazione del censimento dell'industria e dei servizi
+
+1.
+                        
+                            
+                                Le unita' di rilevazione del censimento dell'industria e dei servizi sono:
+
+                            
+                            
+                                a)
+                                
+                                    l'impresa;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'istituzione pubblica e l'istituzione privata;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'unita' locale.
 
 Per impresa s'intende l'organizzazione di una attivita' economica esercitata con carattere professionale al fine della produzione di beni o della prestazione di servizi destinabili alla vendita.
 
@@ -121,9 +212,67 @@ Presso la regione Valle d'Aosta e' costituito, con provvedimento del presidente 
 
 Presso le province autonome di Trento e di Bolzano le funzioni del comitato provinciale di censimento sono svolte dalla commissione prevista dall'art. 11, comma 3. Nell'esercizio di tali funzioni la commissione si riunisce con l'esclusione dei rappresentanti delle organizzazioni sindacali.
 
+4.
+                        
+                            
+                                Il comitato provinciale di censimento svolge i seguenti compiti:
+
+                            
+                            
+                                a)
+                                
+                                    fornisce indicazioni circa la regolare e uniforme applicazione delle disposizioni di cui al presente regolamento e delle istruzioni emanate dall'ISTAT;
+                                
+                            
+                            
+                                b)
+                                
+                                    vigila sulla corretta e tempestiva esecuzione dei compiti affidati agli uffici comunali di censimento sulla base delle indicazioni fornite dal responsabile dell'ufficio provinciale di censimento;
+                                
+                            
+                            
+                                c)
+                                
+                                    adotta, nei casi di non regolare svolgimento delle operazioni censuarie da parte degli uffici comunali di censimento, le iniziative necessarie per rimuoverne le cause;
+                                
+                            
+                            
+                                d)
+                                
+                                    stabilisce criteri e modalita' per la preselezione degli aspiranti all'incarico di rilevatore e di coordinatore.
+                                
+                            
+                            
+                                e)
+                                
+                                    provvede, d'intesa con il sindaco, ad individuare le persone cui affidare l'incarico di rilevatore qualora non sia stato possibile reperirne il numero necessario sulla base delle modalita' indicate all'art. 20, commi da 1 a 3.
+
 ## Art. 13. — Ufficio provinciale di censimento
 
 In ogni provincia, le funzioni di ufficio provinciale di censimento sono attribuite all'ufficio di statistica della camera di commercio, industria artigianato ed agricoltura, costituito ai sensi dell'art. 2 del decreto legislativo 6 settembre 1989, n. 322, ovvero agli uffici che per legge, ne hanno assunto le funzioni. Il responsabile di ciascuno degli uffici anzidetti, assume le funzioni di responsabile dell'ufficio provinciale di censimento.
+
+2.
+                        
+                            
+                                Gli uffici provinciali di censimento svolgono i seguenti compiti:
+
+                            
+                            
+                                a)
+                                
+                                    vigilano per assicurare il tempestivo e regolare svolgimento delle operazioni affidate agli uffici comunali di censimento secondo le modalita' e il calendario stabiliti dall'ISTAT e, nel caso di irregolarita', propongono al comitato provinciale di censimento gli interventi ritenuti necessari;
+                                
+                            
+                            
+                                b)
+                                
+                                    inviano all'ISTAT, con le modalita' e i tempi indicati dall'Istituto stesso, rapporti sullo stato delle operazioni censuarie, tenendo conto delle relazioni degli ispettori provinciali e dei rapporti inviati dagli uffici comunali di censimento;
+                                
+                            
+                            
+                                c)
+                                
+                                    effettuano gli adempimenti amministrativi e contabili che saranno loro demandati dall'ISTAT con apposite istruzioni.
 
 Per i compiti di vigilanza e di assistenza durante le varie fasi di censimento, gli uffici provinciali di censimento si avvalgono di ispettori provinciali scelti fra i propri funzionari e tra quelli delle camere di commercio, nonche' tra i dipendenti degli uffici di statistica delle prefetture e delle altre amministrazioni ed enti del Sistema statistico nazionale (SISTAN). Ai suddetti ispettori provinciali e' corrisposto il relativo trattamento di missione, in misura corrispondente alla qualifica posseduta, nei limiti dei fondi a tal fine destinati dall'ISTAT a ciascuno degli uffici stessi.
 
@@ -134,6 +283,41 @@ In ogni comune, le funzioni di ufficio comunale di censimento sono attribuite al
 L'ufficio cui attribuire le funzioni di ufficio comunale di censimento e' costituito anche in ciascuno dei comuni che, ai sensi dell'art. 2, comma 1, lettera e), del decreto legislativo 6 settembre 1989, n. 322, si siano associati ad altri comuni, per l'esercizio delle funzioni statistiche.
 
 Nei comuni ove esista, il responsabile dell'ufficio di statistica assume le funzioni di responsabile dell'ufficio comunale di censimento; negli altri comuni il sindaco attribuisce la qualifica di responsabile dell'ufficio comunale di censimento ad un dipendente comunale tecnicamente idoneo. In ogni caso il segretario comunale risponde del buon funzionamento dell'ufficio.
+
+4.
+                        
+                            
+                                L'ufficio comunale di censimento, nell'ambito del proprio territorio e secondo le disposizioni impartite dall'ISTAT, svolge i seguenti compiti:
+
+                            
+                            
+                                a)
+                                
+                                    esecuzione delle operazioni connesse alla ripartizione del territorio comunale in sezioni di censimento;
+                                
+                            
+                            
+                                b)
+                                
+                                    selezione e formazione dei rilevatori e dei coordinatori;
+                                
+                            
+                            
+                                c)
+                                
+                                    controllo dell'attivita' svolta dai rilevatori e dai coordinatori;
+                                
+                            
+                            
+                                d)
+                                
+                                    invio all'ufficio provinciale di censimento, con le modalita' e i tempi indicati dall'ISTAT, di rapporti periodici sullo svolgimento delle operazioni censuarie;
+                                
+                            
+                            
+                                e)
+                                
+                                    esecuzione delle altre operazioni censuarie indicate al capo IV.
 
 ## Art. 15. — Prefetto
 
@@ -235,6 +419,41 @@ I questionari indicati all'art. 9, comma 1, del presente regolamento, sono sotto
 E' fatto divieto ai rilevatori nell'espletamento dell'incarico ricevuto di svolgere nei confronti delle unita' da censire attivita' diverse da quelle proprie dei censimenti e di raccogliere informazioni per altre indagini da chiunque disposte.
 
 ## Art. 24. — Compiti dei coordinatori
+
+1.
+                        
+                            
+                                I coordinatori, secondo le disposizioni impartite dall'ISTAT:
+
+                            
+                            
+                                a)
+                                
+                                    controllano giornalmente l'attivita' svolta dai rilevatori e forniscono agli stessi la necessaria assistenza ai fini del regolare svolgimento delle operazioni censuarie;
+                                
+                            
+                            
+                                b)
+                                
+                                    dispongono il ritorno dei rilevatori presso i rispondenti, qualora riscontrino incompletezze o errori nella compilazione dei questionari o individuino delle unita' sfuggite alla rilevazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    verificano, sulla scorta dei modelli consegnati da ciascun rilevatore e degli elementi che sarano messi a loro disposizione dagli uffici di censimento, che tutte le unita' di rilevazione esistenti nelle sezioni di censimento assegnate agli stessi siano state censite senza omissioni o duplicazioni;
+                                
+                            
+                            
+                                d)
+                                
+                                    segnalano al responsabile dell'ufficio comunale di censimento i nominativi dei rilevatori che abbiano commesso inadempienze tali da pregiudicare l'andamento delle operazioni censuarie o eventuali gravi difficolta' operative;
+                                
+                            
+                            
+                                e)
+                                
+                                    svolgono altresi' i compiti di cui all'art. 29, commi e 1 e 2, loro affidati dall'ufficio comunale di censimento.
 
 ## Art. 25. — Obbligo dei rispondenti
 

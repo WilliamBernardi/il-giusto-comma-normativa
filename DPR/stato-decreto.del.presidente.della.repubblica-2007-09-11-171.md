@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2025-05-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -1720,10 +1720,80 @@ A decorrere dal 1° ottobre 2007, le misure dell'importo aggiuntivo pensionabile
 
 ## Art. 5. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Sono finalizzate al raggiungimento di qualificati obiettivi ed a promuovere reali e significativi miglioramenti dell'efficienza dei servizi istituzionali di ogni Forza armata e dell'area interforze, nell'ambito delle rispettive quote di competenza definite con determinazione del Capo di Stato maggiore della difesa, le risorse derivanti da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i risparmi di spesa e di gestione nelle misure e limiti previsti dall'articolo 43, comma 7, della legge 27 dicembre 1997, n. 449; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    specifiche disposizioni normative che destinano risparmi per promuovere miglioramenti nell'efficienza dei servizi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una corrispondente riduzione dal 10 per cento al 20 per cento per il 2008 e dal 10 per cento al 25 per cento per il 2009 e, per gli anni successivi, una misura che, compatibilmente con l'attivita' operativa/addestrativa e salvo comprovate esigenze di impiego, non puo' essere inferiore al 20 per cento, individuata con apposita determinazione del Capo di Stato maggiore della difesa, dei fondi previsti dal comma 9, dell'articolo 9, del decreto del Presidente della Repubblica 13 giugno 2002, n. 163; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    provvedimenti che dispongono stanziamenti in relazione a quanto previsto dall'articolo 19, comma 1, della legge 4 novembre, n. 183, limitatamente alla quota destinata alle finalita' di cui al presente comma.
+
+2.
+                        
+                            
+                                Alle risorse di cui al comma 1 si aggiunge: 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2007 l'importo di euro 7.979.000,00;
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dal 31 dicembre 2007 e a valere dal 2008 l'importo di euro 16.358.000,00.
+
 Gli importi di cui alle lettere a) e b) del comma 2 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 Quelli afferenti all'anno 2007 non hanno effetto di trascinamento nell'anno successivo.
 
 Le risorse assegnate e non utilizzate nell'esercizio di competenza sono riassegnate, per le medesime esigenze, nell'anno successivo.
+
+5.
+                        
+                            
+                                Le risorse indicate ai commi 1 e 2 sono utilizzate per attribuire compensi finalizzati a: 
+                            
+                            
+                                a)
+                                
+                                    fronteggiare particolari situazioni di servizio;
+                                
+                            
+                            
+                                b)
+                                
+                                    incentivare l'impegno del personale nelle attivita' di funzionamento individuate dai rispettivi vertici;
+                                
+                            
+                            
+                                c)
+                                
+                                    compensare l'incentivazione della produttivita' collettiva al fine del miglioramento dei servizi.
 
 ((Con decreto del Ministro della difesa, su proposta del Capo di Stato Maggiore della Difesa formulata all'esito della procedura di cui ai commi 6-bis, 6-ter e 6-quater, sono annualmente determinati i criteri per la destinazione, l'utilizzazione delle risorse indicate al comma 1 e 2, disponibili al 31 dicembre di ciascun anno, e le modalita' applicative concernenti l'attribuzione dei compensi previsti dal presente articolo. Il decreto e' unico per tutte le Forze armate e non si da' luogo a ripartizione preventiva delle risorse tra Forze armate. La procedura di cui ai commi 6-bis, 6-ter e 6-quater e' unica per tutte le Forze armate e valorizza gli aspetti piu' caratteristici delle singole Forze armate.))
 
@@ -1861,6 +1931,59 @@ Per agevolare il soddisfacimento di particolari esigenze collegate a terapie o v
 
 ## Art. 14. — Tutela delle lavoratrici madri
 
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo 26 marzo 2001, n. 151, al personale delle Forze armate si applicano le seguenti disposizioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    esonero dalla sovrapposizione completa dell'orario di servizio, a richiesta degli interessati, tra coniugi dipendenti dalla stessa Amministrazione con figli fino a sei anni di eta';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esonero, a domanda, per la madre o, alternativamente, per il padre, dal servizio notturno sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esonero, a domanda, per la madre o per le situazioni monoparentali dal servizio notturno o da turni continuativi articolati sulle 24 ore sino al compimento del terzo anno di eta' del figlio;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    divieto di inviare in missione fuori sede o in servizio di ordine pubblico per piu' di una giornata, senza il consenso dell'interessato, il personale con figli di eta' inferiore a tre anni che ha proposto istanza per essere esonerato dai servizi continuativi e notturni e dalla sovrapposizione dei servizi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esonero, a domanda, dal turno notturno per i dipendenti che abbiano a proprio carico un soggetto disabile ai sensi della legge 5 febbraio 1992, n. 104;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    possibilita' per le lavoratrici madri vincitrici di concorso interno, con figli fino al dodicesimo anno di eta', di frequentare il corso di formazione presso la scuola piu' vicina al luogo di residenza, tra quelle in cui il corso stesso si svolge;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    divieto di impiegare la madre o il padre che fruiscono dei riposi giornalieri, ai sensi degli articoli 39 e 40 del decreto legislativo 26 marzo 2001, n. 151, in servizi continuativi articolati sulle 24 ore.
+
 Nel caso di adozione o affidamento preadottivo, i benefici di cui al comma 1 si applicano dalla data di effettivo ingresso del bambino nella famiglia.
 
 ## Art. 15. — Licenza straordinaria per congedo parentale
@@ -1914,6 +2037,31 @@ Salvo quanto espressamente previsto, le disposizioni dei precedenti articoli han
 Le procedure di cui al decreto legislativo 12 maggio 1995, n. 195, da attivare subordinatamente alle risorse rese disponibili dalla legge finanziaria per l'anno 2008 integreranno, anche con riguardo alla parte normativa, le previsioni contenute nel presente decreto.
 
 ## Art. 22. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'attuazione del presente decreto, valutato in 19,942 milioni di euro per l'anno 2006, in 121,500 milioni di euro per l'anno 2007 e in 267,883 milioni di euro a decorrere dall'anno 2008, si provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2006, mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 184, della legge 23 dicembre 2005, n. 266;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2007, quanto a 30,000 milioni di euro mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 184, della legge 23 dicembre 2005, n. 266 e quanto a 91,500 milioni di euro mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 549, della legge 27 dicembre 2006, n. 296;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2008, quanto a 30,000 milioni di euro mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 184, della legge 23 dicembre 2005, n. 266 e quanto a 237,883 milioni di euro mediante riduzione dell'autorizzazione di spesa prevista dall'articolo 1, comma 549, della legge 27 dicembre 2006, n. 296; autorizzazioni iscritte nell'ambito dell'unita' previsionale di base 4.1.5.4 «Fondi da ripartire per oneri di personale», al capitolo 3027 dello stato di previsione del Ministero dell'economia e delle finanze per gli anni medesimi.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le necessarie variazioni di bilancio.
 

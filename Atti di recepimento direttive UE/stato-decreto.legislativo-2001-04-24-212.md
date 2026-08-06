@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2021-03-14
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,45 @@ Sulla proposta del Ministro per le politiche comunitarie, del Ministro delle pol
 ((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 20)).
 
 Con decreto del Ministro delle politiche agricole e forestali, da emanarsi entro trenta giorni dalla data di entrata in vigore del presente decreto, e' istituita presso il Ministero delle politiche agricole e forestali la Commissione per i prodotti sementieri di varieta' geneticamente modificate, composta da dodici membri designati: due dal Ministero delle politiche agricole e forestali; due dal Ministero dell'ambiente; due dal Ministero della sanita'; sei dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Non sono previsti compensi per i componenti della Commissione ne' oneri di missione a carico dello Stato.
+
+4.
+                    
+                        
+                            La Commissione di cui al comma 3: 
+ 
+                        
+                        
+                            a)
+                            
+                                LETTERA ABROGATA DALLA L. 29 LUGLIO 2015, N. 115; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definisce, nel caso di eventuali deroghe concesse ai sensi del comma 1 dell'articolo 37 della legge n. 1096 del 1971, come sostituito dall'articolo 10 del presente decreto, i criteri per il rispetto del principio di precauzione e delle disposizioni del decreto legislativo 8 luglio 2003, n. 224; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                accerta che sia stata verificata l'assenza di rischi di cui all'articolo 20-bis, comma 1, lettera b), della legge n. 1096 del 1971, come aggiunto dall'articolo 9 del presente decreto, d'intesa con le regioni interessate ai sistemi agrari soggetti alla verifica stessa; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esprime parere vincolante alla commissione di cui al quinto comma dell'articolo 19 della legge n. 1096 del 1971, sulla richiesta di iscrizione di varieta' di sementi geneticamente modificate nell'apposita sezione del registro delle varieta' di cui all'articolo 17 del regolamento di cui al decreto del Presidente della Repubblica 8 ottobre 1973, n. 1065; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                individua i criteri in base ai quali e' effettuato il monitoraggio dei prodotti sementieri di varieta' geneticamente modificate, compresa la definizione dei criteri da adottare per la verifica della presenza fortuita di sementi geneticamente modificate in lotti di prodotti sementieri convenzionali.
 
 ((IL D.LGS. 2 FEBBRAIO 2021, N. 20 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA)).
 

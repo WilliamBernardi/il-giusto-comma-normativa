@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2025-01-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,45 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza della sezione con
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'industria, del commercio e dell'artigianato, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per legge, la legge 10 ottobre 1990, n. 287; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per Autorita', l'Autorita' garante della concorrenza e del mercato di cui all'articolo 10 della legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per collegio, il presidente e i ((...)) componenti dell'Autorita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per uffici, le unita' organizzative istituite ai sensi dell'articolo 10, comma 6, della legge; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per bollettino, quello di cui all'articolo 26 della legge.
 
 ## Art. 2. — Ambito di applicazione
 
@@ -90,6 +129,42 @@ Dell'avvio dell'istruttoria e' data notizia mediante pubblicazione del relativo 
 
 ## Art. 7. — Partecipazione all'istruttoria
 
+1.
+                    
+                        
+                            Possono partecipare all'istruttoria: 
+ 
+                        
+                        
+                            a)
+                            
+                                i soggetti ai quali e' stato notificato il provvedimento di avvio dell'istruttoria, ai sensi dell'articolo 6, comma 4; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i soggetti portatori di interessi pubblici o privati, nonche' ((i portatori di interessi diffusi costituiti in associazioni o comitati)), cui possa derivare un pregiudizio diretto, immediato ed attuale dalle infrazioni oggetto dell'istruttoria o dai provvedimenti adottati in esito alla stessa e che facciano motivata richiesta di intervenire entro trenta giorni dalla pubblicazione nel bollettino del provvedimento di avvio dell'istruttoria.((In particolare, l'istanza di partecipazione deve fornire documentata e adeguata motivazione in merito allo specifico interesse ad intervenire.))
+
+2.
+                    
+                        
+                            I soggetti che partecipano all'istruttoria hanno facolta' di: 
+ 
+                        
+                        
+                            a)
+                            
+                                presentare memorie scritte, documenti, deduzioni e pareri; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                accedere ai documenti, ai sensi dell'articolo 13.
+
 I soggetti ai quali e' stato notificato il provvedimento di avvio dell'istruttoria, ai sensi dell'articolo 6, comma 4, hanno diritto di essere sentiti ai sensi dell'articolo 14, comma 1, della legge.
 
 ((I soggetti di cui al comma 1 possono partecipare al procedimento)) in persona del proprio rappresentante legale oppure di procuratore speciale munito di apposita documentazione giustificativa del potere di rappresentanza. Essi possono altresi' farsi assistere da consulenti di propria fiducia ((...)).
@@ -107,6 +182,48 @@ Ai sensi dell'articolo ((14, comma 2-septies, della legge)), l'Autorita' puo' av
 ## Art. 9. — ((Richieste di informazioni, di esibizione di documenti e convocazione in audizione))
 
 
+
+2.
+                    
+                        
+                            
+                                ((Le richieste di cui al comma 1 sono proporzionate e indicano sinteticamente:))
+                            
+                        
+                        
+                            a)
+                            
+                                i fatti e le circostanze in ordine ai quali si chiedono chiarimenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    (( lo scopo della richiesta, con riferimento all'oggetto dell'istruttoria;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                il termine entro il quale dovra' pervenire la risposta o essere esibito il documento, il quale deve essere ((ragionevole)) in relazione all'urgenza del caso ed alla natura, quantita' e qualita' delle informazioni richieste, ((anche)) tenuto conto del tempo necessario per predisporle; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' attraverso le quali dovranno essere fornite le informazioni e la persona o le persone cui potranno essere esibiti i documenti o comunicate le informazioni richieste; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    ((le sanzioni o le penalita' di mora applicabili ai sensi dell'articolo 14, commi 5, 6, 7 e 8, della legge, in caso di rifiuto, omissione o ritardo, senza giustificato motivo, di fornire le informazioni o di esibire i documenti richiesti che siano accessibili ai destinatari della richiesta, nonche' quelle previste nel caso in cui siano fornite informazioni o esibiti documenti non veritieri, incompleti o fuorvianti.))
 
 ((COMMA ABROGATO DAL D.P.R. 18 NOVEMBRE 2024, N. 214)).
 

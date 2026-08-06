@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2012-08-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,29 @@ Le risorse annualmente non utilizzate risultanti dalla partizione di cui al comm
 
 ## Art. 2. — Contributi per l'esercizio associato di funzioni comunali
 
+1.
+                    
+                        
+                            Alle unioni di comuni e' attribuito un contributo in base: 
+
+                        
+                        
+                            a)
+                            
+                                alla popolazione della unione dei comuni secondo quanto previsto dall'articolo 3; 
+                            
+                        
+                        
+                            b)
+                            
+                                al numero di comuni facenti parte dell'unione secondo quanto previsto dall'articolo 4; 
+                            
+                        
+                        
+                            c)
+                            
+                                ai servizi esercitati in forma associata secondo quanto previsto dall'articolo 5.
+
 COMMA ABROGATO DAL DECRETO 1 OTTOBRE 2004, N. 289.
 
 Il contributo determinato secondo i criteri di cui ai commi 1 e 2 e' aumentato del 5 per cento ove l'unione di comuni coincida esattamente con gli ambiti territoriali ottimali di esercizio delle funzioni individuati ai sensi dell'articolo 3, comma 2, del decreto legislativo 31 marzo 1998, n. 112. A tale fine gli enti interessati attestano l'esistenza della predetta condizione secondo i modelli di certificazione da definire con il decreto del Ministero dell'interno di cui all'articolo 5, comma 2.
@@ -60,6 +83,59 @@ Alle unioni di comuni istituite prima della entrata in vigore della legge 3 agos
 
 ## Art. 3. — Determinazione dei contributi per le unioni dei comuni in base alla popolazione
 
+1.
+                    
+                        
+                            A ciascuna unione di comuni spetta in base alla popolazione un contributo per abitante pari ad una percentuale del valore nazionale medio per abitante dei contributi erariali. Le percentuali da applicare sono le seguenti: 
+
+                        
+                        
+                            a)
+                            
+                                5 per cento per le unioni di comuni con popolazione complessiva sino a 3.000 abitanti; 
+                            
+                        
+                        
+                            b)
+                            
+                                6 per cento per le unioni di comuni con popolazione complessiva da 3.001 a 5.000 abitanti; 
+                            
+                        
+                        
+                            c)
+                            
+                                7 per cento per le unioni di comuni con popolazione complessiva da 5.001 a 10.000 abitanti; 
+                            
+                        
+                        
+                            d)
+                            
+                                8 per cento per le unioni di comuni con popolazione complessiva da 10.001 a 15.000 abitanti; 
+                            
+                        
+                        
+                            e)
+                            
+                                9 per cento per le unioni di comuni con popolazione complessiva da 15.001 a 20.000 abitanti; 
+                            
+                        
+                        
+                            f)
+                            
+                                5 per cento per le unioni di comuni con popolazione complessiva da 20.001 a 30.000 abitanti; 
+                            
+                        
+                        
+                            g)
+                            
+                                3 per cento per le unioni di comuni con popolazione complessiva superiore a 30.000 abitanti; 
+                            
+                        
+                        
+                            g-bis)
+                            
+                                3 per cento per le unioni di comuni ove siano presenti almeno due comuni con popolazione superiore a 5.000 abitanti.
+
 Il contributo di cui al comma 1 e' rideterminato ogni dieci anni. Il contributo e' comunque rideterminato a seguito di variazione del numero dei comuni che costituiscono l'unione. 
  ((2))
 
@@ -69,6 +145,38 @@ Il contributo di cui al comma 1 e' rideterminato ogni dieci anni. Il contributo 
  Il D.L. 6 luglio 2012, n. 95, convertito con modificazioni dalla L. 7 agosto 2012, n. 135, ha disposto (con l'art. 20, comma 4) che "A decorrere dall'anno 2013 sono conseguentemente soppresse le disposizioni del regolamento concernente i criteri di riparto dei fondi erariali destinati al finanziamento delle procedure di fusione tra i comuni e l'esercizio associato di funzioni comunali, approvato con decreto del Ministro dell'interno del 1° settembre 2000 n. 318, incompatibili con le disposizioni di cui ai commi 1, 2 e 3 del presente articolo".
 
 ## Art. 4. — Determinazione dei contributi per le unioni dei comuni in base al numero degli enti associati
+
+1.
+                    
+                        
+                            A ciascuna unione di comuni, in relazione al numero dei comuni associati, spetta in base alla popolazione dei comuni interessati, un contributo per abitante pari ad una percentuale del valore nazionale medio per abitante dei contributi erariali. Le percentuali da applicare sono le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                5 per cento per le unioni di comuni costituite da due comuni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                7 per cento per le unioni di comuni costituite con un massimo di 4 comuni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                8 per cento per le unioni di comuni costituite con un massimo di 10 comuni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                10 per cento per le unioni di comuni costituite con oltre 10 comuni.
 
 Il contributo di cui al comma 1 e' rideterminato a seguito di variazione del numero dei comuni che costituiscono l'unione. 
  ((2))
@@ -83,6 +191,31 @@ Il contributo di cui al comma 1 e' rideterminato a seguito di variazione del num
 In sede di prima istituzione delle unioni, di variazione del numero dei comuni che costituiscono le stesse unioni, di variazione del numero dei servizi, ed in sede di primo conferimento in forma associata di servizi comunali alle comunita' montane o di variazione del numero degli stessi, i comuni interessati inviano attraverso le unioni di comuni e le comunita' montane entro il termine di cui all'articolo 2, comma 6, apposita certificazione al fine di ottenere il contributo erariale. Le notizie sono riferite all'ultimo rendiconto approvato dai singoli enti. Per i servizi di cui non si dispongano di dati finanziari i comuni indicano dati di previsione corredati da apposita relazione esplicativa, in modo analitico, dei dati stessi.
 
 Con decreto del Ministero dell'interno da emanarsi entro il 31 maggio di ciascun anno vengono definiti i modelli per le certificazioni di cui al commna 1.
+
+3.
+                    
+                        
+                            A ciascuna unione di comuni ed a ciascuna comunita' montana spetta in base ai servizi esercitati in forma associata un contributo pari: 
+ 
+                        
+                        
+                            a)
+                            
+                                al 15 per cento delle spese correnti ed in conto capitale certificate ove l'ente gestisca in forma associata due servizi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al 19 per cento delle spese correnti ed in conto capitale certificate ove l'ente gestisca in forma associata da tre a cinque servizi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al 26 per cento delle spese correnti ed in conto capitale certificate ove l'ente gestisca in forma associata piu' di cinque servizi.
 
 Le percentuali di cui al comma 3 sono elevate del 5 per cento per le spese certificate relative ai seguenti servizi: anagrafe e stato civile, ufficio tecnico, urbanistica e gestione del territorio e polizia locale. La percentuale di incremento spetta anche se l'esercizio associato riguarda solo tali servizi.
 

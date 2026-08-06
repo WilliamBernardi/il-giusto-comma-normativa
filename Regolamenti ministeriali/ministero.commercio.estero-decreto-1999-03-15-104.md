@@ -8,8 +8,8 @@ codice_redazionale: 099G0124
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,6 +35,52 @@ La domanda di ammissione al contributo e' presentata al Ministero - Direzione ge
 
 La domanda deve essere presentata, a pena di irricevibilita', entro il 30 settembre dell'anno precedente a quello in cui viene attuato il programma.
 
+3.
+                    
+                        
+                            Alla domanda e' allegato il programma delle azioni promozionali verso l'estero. Il programma si articola in progetti, ciascuno dei quali e' descritto analiticamente in modo da illustrare:
+ 
+                        
+                        
+                            a)
+                            
+                                le singole iniziative;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli obiettivi da conseguire con il progetto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il ruolo di eventuali soggetti partecipanti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il costo del progetto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le imprese destinatarie dell'azione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'apporto di risorse da parte di terzi.
+
 Il programma di cui al comma 3 reca, inoltre, la predeterminazione degli indicatori e degli standards da applicare consuntivamente per misurare la qualita' delle iniziative e, in particolare, i risultati raggiunti, nonche' la descrizione dell'attivita' destinata a ciascun settore merceologico.
 
 Il Ministero approva i progetti dell'attivita' verificandone la validita' tecnicoeconomica e tenendo anche conto della loro corrispondenza alle direttive per l'attivita' promozionale, emanate dal Ministero stesso.
@@ -43,8 +89,58 @@ Il Ministero approva i progetti dell'attivita' verificandone la validita' tecnic
 
 Entro tre mesi dalla esecuzione del programma il richiedente invia al Ministero la relazione sulla esecuzione del programma e la documentazione relativa alle spese sostenute.
 
+2.
+                    
+                        
+                            La relazione sull'esecuzione del programma di attivita' si compone di schede informative concernenti i singoli progetti realizzati. In ciascuna scheda sono illustrati analiticamente:
+ 
+                        
+                        
+                            a)
+                            
+                                le azioni svolte nell'eseguire ogni singolo progetto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i risultati raggiunti a fronte degli obiettivi con l'autovalutazione degli indicatori di risultato e dei rispettivi standard;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i costi sostenuti nell'esecuzione di ogni singolo progetto;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'attivita' svolta per settore merceologico.
+
 ## Art. 4. — Criteri per la concessione e per la determinazione
  del contributo finanziario
+
+1.
+                    
+                        
+                            Il provvedimento di concessione del contributo e' adottato tenendo conto:
+ 
+                        
+                        
+                            a)
+                            
+                                della conformita' dell'attivita' svolta rispetto al programma originariamente approvato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dei risultati conseguiti.
 
 Il contributo e' determinato tenendo conto della relazione sull'esecuzione del programma realizzato, nei limiti delle spese sostenute relative al programma stesso e illustrate nelle schede di rendicontazione dei progetti.
 

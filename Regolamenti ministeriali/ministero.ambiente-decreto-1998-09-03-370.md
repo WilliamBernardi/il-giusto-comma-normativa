@@ -8,8 +8,8 @@ codice_redazionale: 098G0420
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,38 @@ Le garanzie finanziarie gia' presentate in conformita' delle disposizioni vigent
 Il trasporto di rifiuti solidi urbani e assimilati dallo Stato della Citta' del Vaticano e dalla Repubblica di San Marino al territorio nazionale puo' essere effettuato, ai sensi dell'articolo 16, comma 2, del decreto legislativo 5 febbraio 1997, n. 22, direttamente dalle rispettive autorita' competenti ovvero da imprese iscritte all'albo nazionale delle imprese che effettuano la gestione dei rifiuti di cui all'articolo 30 del predetto decreto legislativo 5 febbraio 1997, n. 22.
 
 ## Art. 3. — Condizioni e limiti
+
+1.
+                    
+                        
+                            Le spedizioni devono soddisfare i seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                i rifiuti devono essere adeguatamente imballati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i contenitori devono recare adeguate etichette sulle quali sia indicato, oltre alla natura, composizione e quantitativo dei rifiuti, il/i numero/i di telefono della o delle persone dalle quali possono essere ottenuti istruzioni o pareri in qualsiasi momento durante la spedizione nonche', quando possibile, l'identita' del produttore iniziale dei rifiuti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i rifiuti devono essere accompagnati da istruzioni di sicurezza da seguire in caso di pericolo o incidenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le etichette e le istruzioni di cui alle lettere b) e c) devono essere redatte nelle lingue degli Stati membri interessati.
 
 Le spese amministrative di cui all'allegato 4, poste a carico del notificatore ai sensi dell'articolo 33, comma 1, del regolamento CEE n. 259/93, sono versate alle autorita' di cui all'articolo 1, comma 5.
 

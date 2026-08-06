@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2017-05-23;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -42,6 +42,38 @@ Il requisito contributivo ridotto di cui al comma 1 puo' essere raggiunto anche 
 
 ## Art. 3. — Soggetti beneficiari
 
+1.
+                    
+                        
+                            Puo' accedere al beneficio di cui all'articolo 2 il lavoratore di cui all'articolo 1, commi 12 e 13, della legge n. 335 del 1995, che ha almeno dodici mesi di contribuzione per periodi di lavoro effettivo precedenti il raggiungimento del diciannovesimo anno di eta' e che si trova in una delle seguenti condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                si trova in stato di disoccupazione ai sensi dell'articolo 19, comma 1, del decreto legislativo 14 settembre 2015, n. 150, per licenziamento, anche collettivo, dimissioni per giusta causa o risoluzione consensuale intervenuta nell'ambito della procedura di cui all'articolo 7 della legge 15 luglio 1966, n. 604, ed ha concluso da almeno tre mesi di godere dell'intera prestazione per la disoccupazione a lui spettante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al momento della richiesta assiste da almeno sei mesi il coniuge, la persona in unione civile o un parente di primo grado, convivente, con handicap in situazione di gravita' ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' riconosciuto invalido civile di grado almeno pari al 74 per cento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla data della domanda di accesso al beneficio svolge da almeno sei anni, in via continuativa, una o piu' delle attivita' elencate nell'allegato A del presente decreto ovvero soddisfa le condizioni di cui all'articolo 1, commi 1, 2 e 3, del decreto legislativo 21 aprile 2011, n. 67.
+
 ## Art. 4. — Domanda di riconoscimento delle condizioni 
  per l'accesso al beneficio
 
@@ -55,6 +87,31 @@ Le condizioni per l'accesso al beneficio di cui all'articolo 2 devono essersi re
 
 ## Art. 5. — Documentazione da allegare alla domanda di riconoscimento delle condizioni per l'accesso al beneficio
 
+1.
+                    
+                        
+                            Unitamente alla domanda di riconoscimento delle condizioni per l'accesso al beneficio, l'interessato produce una dichiarazione sostitutiva di atto di notorieta' circa la sussistenza al momento della domanda o il realizzarsi entro la fine dell'anno delle condizioni di cui all'articolo 4, comma 4, nonche' i seguenti documenti a riprova della sussistenza, gia' al momento della domanda di riconoscimento, delle relative condizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                con riguardo alle condizioni di cui all'articolo 3, comma 1, lettera a), la lettera di licenziamento, di dimissioni per giusta causa o il verbale di accordo di risoluzione consensuale stipulato ai sensi dell'articolo 7 della legge 15 luglio 1966, n. 604; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                con riguardo alle condizioni di cui all'articolo 3, comma 1, lettera b), la certificazione attestante l'handicap in situazione di gravita' ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104, del coniuge, della persona in unione civile o del parente di primo grado, convivente cui presta assistenza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                con riguardo alle condizioni di cui all'articolo 3, comma 1, lettera c), il verbale di invalidita' civile attestante un'invalidita' a suo carico di grado almeno pari al 74 per cento.
+
 Con specifico riguardo alle condizioni di cui all'articolo 3, comma 1, lettera d), ad esclusione dei lavoratori che soddisfano le condizioni di cui all'articolo 1, commi 1, 2 e 3, del decreto legislativo 21 aprile 2011, n. 67, l'interessato produce, oltre ad una dichiarazione sostitutiva di atto di notorieta' circa la sussistenza delle predette condizioni, al contratto di lavoro o ad una busta paga, una dichiarazione del datore di lavoro, redatta su un apposito modulo predisposto dall'INPS o, nelle more della sua predisposizione, una dichiarazione sostitutiva di atto di notorieta' attestante i periodi di lavoro prestato alle sue dipendenze, il contratto collettivo applicato, le mansioni svolte, come specificate nell'allegato A, ed il livello di inquadramento attribuito, nonche', con riferimento alle attivita' lavorative di cui all'allegato A, lettere a), b), c), d), e), g), i), l) e m), l'applicazione delle voci di tariffa INAIL con un tasso medio di tariffa non inferiore al 17 per mille, ai sensi del decreto del Ministro del lavoro e della previdenza sociale di concerto con il Ministro del tesoro e del bilancio e della programmazione economica 12 dicembre 2000, pubblicato nel supplemento ordinario n. 15 alla Gazzetta Ufficiale n. 17 del 22 gennaio 2001.
 
 Per i lavoratori che soddisfano le condizioni di cui all'articolo 1, commi 1, 2 e 3, del decreto legislativo 21 aprile 2011, n. 67, la documentazione da allegare alla domanda di riconoscimento delle condizioni per l'accesso al beneficio di cui all'articolo 2 e' individuata dalle disposizioni di attuazione del medesimo decreto legislativo 21 aprile 2011, n. 67.
@@ -62,6 +119,31 @@ Per i lavoratori che soddisfano le condizioni di cui all'articolo 1, commi 1, 2 
 L'istruttoria della domanda per l'accertamento delle condizioni per l'accesso al beneficio e' svolta dalla sede territoriale dell'INPS, che la effettua con i dati disponibili nei suoi archivi e attraverso lo scambio di dati di cui all'articolo 10, secondo le modalita' individuate da un apposito Protocollo predisposto congiuntamente da Ministero del lavoro e delle politiche sociali, INPS, INAIL, ANPAL ed Ispettorato nazionale del lavoro, nel quale sono indicate anche le modalita' attraverso le quali riscontrare le informazioni contenute nella dichiarazione del richiedente e del datore di lavoro ed i casi in cui la sede INPS puo' avvalersi, al fine, dell'Ispettorato nazionale del lavoro. Nelle more dell'adozione del Protocollo l'INPS procede, comunque, ad istruire le domande presentate.
 
 ## Art. 6. — Comunicazioni dell'INPS
+
+1.
+                    
+                        
+                            In esito all'esame della domanda di riconoscimento delle condizioni per l'accesso al beneficio di cui all'articolo 4, l'INPS comunica all'interessato entro il 15 ottobre dell'anno 2017 ed entro il 30 giugno di ciascun anno successivo: 
+ 
+                        
+                        
+                            a)
+                            
+                                il riconoscimento delle condizioni, con indicazione della prima decorrenza utile della pensione, qualora a tale ultima data sia confermata la sussistenza delle condizioni e sia verificata la sussistenza della relativa copertura finanziaria in esito al monitoraggio di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il riconoscimento delle condizioni, con differimento della decorrenza della pensione in ragione dell'insufficiente copertura finanziaria. In tal caso la prima data utile della pensione viene comunicata in data successiva in esito al monitoraggio di cui all'articolo 11; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il rigetto della domanda qualora non sussistano le necessarie condizioni.
 
 L'INPS comunica all'interessato l'esito delle domande di riconoscimento delle condizioni per l'accesso al beneficio prese in considerazione ai sensi dell'articolo 4, comma 3, entro il 31 dicembre di ciascun anno.
 

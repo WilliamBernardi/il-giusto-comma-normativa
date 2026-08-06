@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 2011-01-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -32,7 +32,71 @@ A decorrere dal 1988 ed entro il 31 gennaio di ciascun anno, le imprese di radio
 
 ## Art. 2. — Documentazione
 
+1.
+                    
+                        
+                            Alla domanda devono essere allegati i seguenti documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                atto di notorieta' o dichiarazione sostitutiva a firma del legale rappresentante dell'impresa di radiodiffusione sonora, ai sensi dell'art. 4 della legge 4 gennaio 1968, n. 15, da cui risulti:
+ 1) la sede legale dell'impresa, l'ubicazione degli impianti di trasmissione, la frequenza utilizzata, nonche' l'ambito territoriale raggiunto dalle trasmissioni;
+ 2) la testata radiofonica giornalistica che contraddistingue le trasmissioni di una stessa stazione emittente e il tribunale presso il quale e' stata effettuata la registrazione;
+ 3) il giornalista professionista o pubblicista direttore responsabile della testata;
+ 4) il proprietario della testata, nel caso che lo stesso sia diverso dalla persona fisica o dalla societa' che esercita l'impresa radiofonica;
+ 5) le ore di trasmissione quotidiane effettuate, in ciascun giorno dell'anno di riferimento dei contributi, tra le ore 7 e le ore 20;
+ 6) le ore di trasmissione dei propri programmi informativi su avvenimenti politici e/o religiosi, e/o economici, e/o sociali, e/o sindacali, e/o letterari, con indicazione della percentuale rappresentata sulle ore di trasmissione di cui al n. 5);
+ 7) il numero di codice fiscale e di partita IVA dell'impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia autentica in bollo dell'atto costitutivo e dello statuto nonche' del verbale dell'assemblea che ha proceduto alla nomina degli amministratori e dei sindaci della societa' esercenti l'impresa di radiodiffusione, ovvero certificato di iscrizione alla camera di commercio, industria, artigianato e agricoltura della persona fisica che esercita l'impresa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso che la societa' esercente l'impresa di radiodiffusione sia costituita in forma cooperativa, atto di notorieta' o dichiarazione sostitutiva a firma del legale rappresentante della cooperativa, ai sensi dell'art. 4 della legge 4 gennaio 1968, n. 15, contenente l'elenco dei soci al 31 dicembre di ciascun anno di riferimento dei contributi, con la qualifica professionale, nonche', nel caso delle cooperative di cui al quarto comma dell'art. 6 della legge 5 agosto 1981, n. 416, cosi' come sostituito dall'art. 4 della legge, l'elenco dei dipendenti dell'impresa aventi rapporto di lavoro regolato da contratto di lavoro giornalistico e clausola di esclusiva con la cooperativa medesima;
+
+                            
+                        
+                        
+                            d)
+                            
+                                il palinsesto dei programmi trasmessi, reso con atto di notorieta' o dichiarazione sostitutiva a firma del legale rappresentante dell'impresa di radiodiffusione sonora, ai sensi dell'art. 4 della legge 4 gennaio 1968, n. 15. A decorrere dalla domanda per le provvidenze relativa all'anno 1988, nel caso in cui l'impresa di radiodiffusione sonora non abbia effettuato la comunicazione preventiva prevista dal comma 3 dell'art. 1, devono essere allegati i dischi o nastri contenenti, per ciascun anno, la registrazione dei programmi trasmessi nelle ore indicate al n. 5) della lettera a). Ai fini della comunicazione del palinsesto, a decorrere dal 1 gennaio 1988, presso le imprese di radiodiffusione sonora deve essere istituito apposito registro, con pagine numerate e vidimate da notaio, sul quale devono essere indicati contenuto e durata di ogni programma trasmesso. Il registro deve essere tenuto a disposizione del Servizio dell'editoria.
+
 Per le domande successive alla prima, e' consentito far riferimento ai documenti di cui alle lettere a), b), e c) del comma 1 allegati alla prima domanda, ovvero presentati in un secondo momento a completamento e corredo della stessa, ai sensi dell'art. 7, sempreche' non siano intervenute variazioni.
+
+3.
+                    
+                        
+                            Per le sole imprese di radiodiffusione sonora di testate organi di partito politico, in aggiunta ai documenti suindicati, devono altresi' essere allegati alla domanda:
+ 
+                        
+                        
+                            a)
+                            
+                                i bilanci dell'anno di riferimento dei contributi e dell'anno precedente (redatti ai sensi dell'art. 2217 del codice civile);
+
+                            
+                        
+                        
+                            b)
+                            
+                                la certificazione degli stessi da parte della societa' di revisione aventi i requisiti di cui all'art. 8 del decreto del presidente della Repubblica 31 marzo 1975, n. 136, ed iscritte nell'albo speciale di cui all'art. 9 dello stesso decreto, ovvero, nel caso vengano richiesti i contributi di cui al comma 2 dell'art. 11 della legge per l'anno 1986, una speciale relazione per gli anni 1985 e 1986, con particolareggiata evidenziazione dei costi, redatta da societa' di revisione aventi i requisiti suddetti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                atto di notorieta' o dichiarazione sostitutiva a firma del legale rappresentante dell'impresa, ai sensi dell'art. 4 della legge 4 gennaio 1968, n. 15, da cui risulti che il soggetto esercente l'impresa di radiodiffusione sonora non sia editore ovvero non controlli, direttamente o indirettamente, organi di informazione che usufruiscano dei contributi di cui all'aert. 9, comma 6, della legge.
 
 I costi risultanti dai bilanci da valutare ai fini della quantificazione del contributo previsto dall'art. 11, comma 2, della legge sono quelli effettivamente ed esclusivamente concernenti l'attivita' caratteristica e propria dell'impresa di radiodiffusione sonora. Analogo criterio vale anche per gli ammortamenti.
 

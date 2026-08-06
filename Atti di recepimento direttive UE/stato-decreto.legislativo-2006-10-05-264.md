@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2024-11-15
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,45 @@ Sono fatte salve le disposizioni vigenti in materia di valutazione di impatto am
 
 ## Art. 2. — (Definizioni)
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "rete stradale transeuropea": la rete stradale definita alla sezione 2 dell'allegato I della decisione n. 1692/96/CE del Parlamento europeo e del Consiglio, del 23 luglio 1996, ed illustrata da carte geografiche o descritta nell'allegato II di tale decisione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "servizio di pronto intervento": tutti i servizi locali, pubblici o privati, o prestati dal personale di servizio alla galleria, che intervengono in caso di incidente, compresi i servizi di polizia, i vigili del fuoco e le squadre di soccorso;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "lunghezza della galleria": la lunghezza della corsia di circolazione piu' estesa, misurata tenendo conto della parte di galleria continuativamente chiusa su quattro lati;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "Commissione": la Commissione permanente per le gallerie, di cui all'articolo 4;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "Gestore": il Gestore della galleria, di cui all'articolo 5.
+
 Nell'allegato 1 - Glossario, sono riportate le definizioni dei principali termini che compaiono nel testo del decreto e degli allegati.
 
 ## Art. 3. — (Misure di sicurezza)
@@ -58,6 +97,38 @@ Per i trafori internazionali ricadenti nella rete transeuropea, tali funzioni so
 La Commissione approva i progetti per l'attuazione delle misure di sicurezza di cui all'articolo 3 predisposti dal Gestore della galleria.
 
 La Commissione provvede alla messa in servizio delle gallerie non aperte al traffico alla data di pubblicazione del presente decreto, secondo le modalita' fissate nell' allegato 4.
+
+7.
+                    
+                        
+                            La Commissione garantisce che il Gestore svolga i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                effettuazione su base periodica delle prove, delle verifiche e dei controlli delle gallerie ed individuazione dei provvedimenti di sicurezza conseguenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                messa in atto di schemi organizzativi e operativi, inclusi i piani di intervento in caso di emergenza, per fornire formazione ed equipaggiamento ai servizi di pronto intervento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                definizione delle procedure per la chiusura immediata di una galleria in caso di emergenza; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                attuazione delle misure previste per la riduzione dei rischi.
 
 La Commissione individua le gallerie che presentano caratteristiche speciali e per le quali occorre prevedere misure di sicurezza integrative o un equipaggiamento complementare.
 
@@ -84,6 +155,59 @@ Se in esito ad una specifica indagine tecnica viene stilata una relazione che an
 Il Gestore designa per ciascuna galleria un Responsabile della sicurezza che deve essere preventivamente accettato dalla Commissione e che coordina tutte le misure di prevenzione e di salvaguardia dirette a garantire la sicurezza degli utenti e del personale di esercizio. Per le gallerie gia' aperte al traffico alla data di pubblicazione del presente decreto, il Gestore effettua la designazione del responsabile della sicurezza e ne comunica, entro trenta giorni dalla data di entrata in vigore del presente decreto, il nominativo corredato da documentato curriculum alla Commissione, che si esprime entro tre mesi dalla data della comunicazione.
 
 Il Responsabile della sicurezza deve possedere adeguata e pluriennale esperienza e puo' essere un libero professionista, un membro del personale del gestore della galleria o dei servizi di pronto intervento, opera in piena autonomia per tutte le questioni attinenti alla sicurezza nelle gallerie stradali e, relativamente a tali questioni, non soggiace ad alcuna istruzione o indicazione vincolante, da parte del Gestore della galleria o, se lavoratore dipendente, dal datore di lavoro. Il responsabile della sicurezza, previa accettazione da parte della Commissione, puo' esercitare le sue funzioni e assolvere le sue mansioni per piu' gallerie ricadenti nello stesso ambito territoriale. Il Gestore deve designare anche un sostituto del Responsabile della sicurezza, che deve essere preventivamente accettato dalla Commissione. Il sostituto deve essere in grado di partecipare alle fasi delle emergenze, nei casi di indisponibilita' del Responsabile, con pari livello di competenza e conoscenza dei vari aspetti attinenti alla specifica galleria.
+
+3.
+                    
+                        
+                            Il Responsabile della sicurezza assolve le funzioni e mansioni seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                assicura il coordinamento con i servizi di pronto intervento e partecipa alla preparazione dei piani operativi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                partecipa alla pianificazione, all'attuazione e alla valutazione degli interventi di emergenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                partecipa alla definizione dei piani di sicurezza e delle specifiche della struttura, degli equipaggiamenti e del funzionamento, sia nel caso di gallerie nuove sia nel caso di modifica di gallerie esistenti;
+
+                            
+                        
+                        
+                            d)
+                            
+                                verifica che il personale di esercizio e i servizi di pronto intervento vengano formati e partecipa all'organizzazione di esercitazioni svolte a intervalli regolari non superiori ad un anno;
+
+                            
+                        
+                        
+                            e)
+                            
+                                viene consultato sulla messa in servizio della struttura, sugli equipaggiamenti e sul funzionamento delle gallerie;
+
+                            
+                        
+                        
+                            f)
+                            
+                                verifica, attraverso visite periodiche, che siano effettuate la manutenzione e le riparazioni della struttura e degli equipaggiamenti delle gallerie;
+
+                            
+                        
+                        
+                            g)
+                            
+                                partecipa alla valutazione di ogni incidente o evento di rilievo ai sensi dell'articolo 5, commi 3 e 4.
 
 ## Art. 7. — (Notifica dell'autorita' per le gallerie)
 
@@ -129,6 +253,31 @@ Al fine di assicurare un tempestivo ed efficiente processo di adeguamento ai req
 
 Per le gallerie stradali oggetto dell'estensione della rete transeuropea dei trasporti (TEN-T), come definita dal regolamento (UE) n. 1315/2013 del Parlamento europeo e del Consiglio, dell'11 dicembre 2013, i Gestori trasmettono alla Commissione, per ciascuna galleria, entro il 30 giugno 2023, il progetto della sicurezza, corredato del relativo cronoprogramma di esecuzione dei lavori.
 
+3.
+                    
+                        
+                            Il livello di definizione tecnica degli interventi strutturali e impiantistici previsti dal progetto della sicurezza di cui ai commi 1 e 2 deve essere almeno quello di un progetto ((di fattibilita' tecnico-economica ai sensi dell'articolo 41 del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36)), e comunque ((deve)): 
+ 
+                        
+                        
+                            a)
+                            
+                                individuare gli aspetti qualitativi e quantitativi degli interventi previsti, gli aspetti geometrico-spaziali e i requisiti prestazionali di opere e impianti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                consentire la valutazione dell'idoneita' delle specifiche scelte progettuali adottate, in relazione ai requisiti minimi di sicurezza di cui all'allegato 2; 
+
+                            
+                        
+                        
+                            b-bis)
+                            
+                                contenere gli elaborati e la documentazione di cui all'allegato 4.
+
 Entro sessanta giorni dalla presentazione da parte del Gestore del progetto della sicurezza, la Commissione procede alla sua valutazione e all'eventuale approvazione, anche mediante la formulazione di specifiche prescrizioni.
 
 In relazione al progetto della sicurezza approvato, il Gestore, eseguiti i lavori di adeguamento, trasmette la richiesta di messa in servizio, secondo la procedura prevista dall'allegato 4, entro il 31 dicembre 2025 o, per le gallerie stradali di cui al comma 2, entro il 30 giugno 2027.
@@ -145,6 +294,39 @@ In relazione alla richiesta di messa in servizio di cui ((ai commi 5 e 5-bis)), 
 
 A decorrere dalla data di entrata in vigore della presente disposizione e fino alla richiesta di messa in servizio di cui ((ai commi 5 e 5-bis)), i Gestori, allo scopo di consentire alla Commissione e al Ministero delle infrastrutture e della mobilita' sostenibili il controllo delle attivita' finalizzate all'adeguamento ai requisiti di cui all'articolo 3, nonche' dell'attuazione delle misure di sicurezza temporanee minime di cui all'articolo 10-ter, trasmettono un rapporto semestrale di monitoraggio entro il 31 gennaio e il 31 luglio di ogni anno.
 
+8.
+                    
+                        
+                            Il rapporto semestrale di monitoraggio contiene: 
+ 
+                        
+                        
+                            a)
+                            
+                                lo stato di avanzamento delle attivita' relative al processo di adeguamento delle gallerie alle misure di sicurezza di cui all'articolo 3, che evidenzi l'avanzamento effettivo delle attivita' rispetto a quello programmato nel progetto della sicurezza di cui ai commi 1 e 2 del presente articolo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le risultanze del monitoraggio funzionale delle gallerie svolto mediante adeguati sistemi di controllo, anche alla luce dell'adozione delle misure di sicurezza temporanee minime di cui all'articolo 10-ter; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 16 SETTEMBRE 2024, N. 131)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                una dichiarazione, sottoscritta dal legale rappresentante del Gestore ai sensi del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, dal Responsabile della sicurezza e dall'esperto qualificato di cui al punto 2.3 dell'allegato 4, relativa alla corretta adozione e alla perdurante idoneita', sotto il profilo della sicurezza, delle misure di sicurezza temporanee minime di cui all'articolo 10-ter.
+
 In caso di ritardi nel processo di adeguamento delle gallerie ai requisiti di cui all'articolo 3, la Commissione puo' proporre alle prefetture - uffici territoriali del Governo competenti di adottare le necessarie azioni e misure correttive. In caso di mancata presentazione della richiesta di messa in servizio di cui ((ai commi 5 e 5-bis)), le prefetture - uffici territoriali del Governo possono disporre sospensioni dell'esercizio, con indicazione di eventuali percorsi alternativi, o ulteriori limitazioni dell'esercizio rispetto a quelle eventualmente disposte ai sensi dell'articolo 10-ter.
 
 Le informazioni concernenti, in particolare, il cronoprogramma delle opere ed in generale l'avanzamento fisico, finanziario e procedurale delle stesse sono desunte dal sistema di monitoraggio di cui al decreto legislativo 29 dicembre 2011, n. 229.
@@ -152,6 +334,24 @@ Le informazioni concernenti, in particolare, il cronoprogramma delle opere ed in
 ## Art. 10-ter. — (Disciplina transitoria del processo di adeguamento delle gallerie aperte al traffico ai requisiti minimi di sicurezza di cui all'articolo 3)
 
 Fino al rilascio dell'autorizzazione alla messa in servizio di cui all'articolo 10-bis, comma 6, e comunque fino all'adempimento delle prescrizioni eventualmente impartite dalla Commissione, il Gestore ((adotta e mantiene)) , per ciascuna galleria aperta al traffico, le misure di sicurezza temporanee minime, la cui efficacia e' asseverata, con cadenza semestrale, dal responsabile della sicurezza.
+
+2.
+                    
+                        
+                            Fatto salvo quanto previsto dall'articolo 4, comma 10, la Commissione puo' disporre ulteriori limitazioni dell'esercizio nei casi di: 
+ 
+                        
+                        
+                            a)
+                            
+                                inadempienza alle misure di sicurezza temporanee minime, accertata a seguito di visita ispettiva di cui agli articoli 11 e 12; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                omessa trasmissione o trasmissione incompleta delle dichiarazioni relative all'adozione delle misure di sicurezza temporanee minime ovvero delle dichiarazioni relative ai rapporti semestrali di monitoraggio di cui all'articolo 10-bis, comma 8.
 
 ## Art. 11. — (Funzioni ispettive)
 
@@ -227,6 +427,24 @@ Il Ministro delle infrastrutture presenta annualmente una relazione al Parlament
 
 ## Art. 16. — (Sanzioni)
 
+1.
+                    
+                        
+                            E' soggetto al pagamento di una sanzione amministrativa pecuniaria da cinquantamila euro a centocinquantamila euro il Gestore il quale: 
+ 
+                        
+                        
+                            a)
+                            
+                                non adotti le misure di sicurezza di cui all'articolo 3, commi 1 e 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ometta di nominare il responsabile della sicurezza ed il suo sostituto.
+
 E' soggetto al pagamento di una sanzione amministrativa pecuniaria da ((trecentomila euro a cinquecentomila euro)) il Gestore che ometta di adempiere agli obblighi di cui all'articolo 10-bis, ((commi 5 e 5-bis)), entro i termini ivi previsti.
 
 ((
@@ -234,6 +452,31 @@ E' soggetto al pagamento di una sanzione amministrativa pecuniaria da ((trecento
 Fermo restando quanto previsto dall'articolo 10-bis, commi 5 e 5-bis, in caso di mancato rispetto dei termini indicati nei cronoprogrammi comunicati dai Gestori ai sensi dell'articolo 10-bis, comma 8, lettera a), dal quale deriva uno scostamento temporale superiore a sei mesi non giustificato da motivazioni tecniche e oggettive condivise dalla Commissione, il Gestore e' soggetto al pagamento di una sanzione amministrativa pecuniaria da cinquantamila euro a centocinquantamila euro.
 
 ))
+
+2.
+                    
+                        
+                            E' soggetto al pagamento di una sanzione amministrativa pecuniaria da ((ventimila euro)) a cinquantamila euro il Gestore il quale: 
+ 
+                        
+                        
+                            a)
+                            
+                                ometta di redigere o trasmettere il rapporto di cui all'articolo 5, comma 3; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ometta di trasmettere la relazione tecnica di cui all'articolo 5, comma 4; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ometta di curare gli adempimenti di cui all'articolo 10, commi 1, 3 e 5.
 
 E' soggetto al pagamento di una sanzione amministrativa pecuniaria da cinquemila euro a venticinquemila euro il responsabile della sicurezza il quale ometta di esercitare le funzioni e le mansioni di cui all'articolo 6, comma 3, del presente decreto. Alla stessa sanzione e' soggetto il sostituto del responsabile della sicurezza il quale, nei casi di indisponibilita' del responsabile della sicurezza, ometta di svolgere i compiti di quest'ultimo.
 

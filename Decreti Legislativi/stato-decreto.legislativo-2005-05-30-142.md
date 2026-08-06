@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2015-06-30
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,247 @@ Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'eco
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    testo unico bancario, di seguito denominato TUB: il decreto legislativo 1° settembre 1993, n. 385, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    testo unico della finanza, di seguito denominato TUF: il decreto legislativo 24 febbraio 1998, n. 58, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    
+                                        codice delle assicurazioni private, di seguito denominato CAP: il decreto legislativo 7 settembre 2005, n. 209, e successive modificazioni; 
+
+                                
+                            
+                            
+                                b-ter)
+                                
+                                    norme settoriali: le disposizioni di cui alle lettere da a) a b-bis) e le relative disposizioni di attuazione delle competenti autorita' di vigilanza;
+                                
+                            
+                            
+                                c)
+                                
+                                    banca: l'impresa di cui all' articolo 1, comma 1, lettera b), del TUB; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    istituto di moneta elettronica, di seguito denominato IMEL: l'impresa di cui all'articolo 1, comma 2, lettera h-bis), del TUB; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    impresa di assicurazione: l' impresa autorizzata all' esercizio dell' attivita' assicurativa ai sensi dell'articolo 1, comma 1, lettera t), ((del CAP)). 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    imprese di investimento: le imprese di cui all'articolo 1, comma 1, lettera h), del TUF; 
+ ff-bis) "SEVIF": il Sistema europeo di vigilanza finanziaria composto dalle seguenti parti: 
+ 1) "ABE": Autorita' bancaria europea, istituita con regolamento (UE) n. 1093/2010; 
+ 2) "AEAP": Autorita' europea delle assicurazioni e delle pensioni aziendali e professionali, istituita con regolamento (UE) n. 1094/2010; 
+ 3) "AESFEM": Autorita' europea degli strumenti finanziari e dei mercati, istituita con regolamento (UE) n. 1095/2010; 
+ 4) "Comitato congiunto": il Comitato congiunto delle Autorita' europee di vigilanza, previsto dall'articolo 54 del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010, del regolamento (UE) n. 1095/2010; 
+ 5) "CERS": Comitato europeo per il rischio sistemico, istituito con regolamento (UE) n. 1092/2010; 
+ 6) "Autorita' di vigilanza degli Stati membri: le autorita' competenti o di vigilanza degli Stati membri specificate negli atti dell'Unione di cui all'articolo 1, paragrafo 2, del regolamento (UE) n. 1093/2010, del regolamento (UE) n. 1094/2010 e del regolamento (UE) n. 1095/2010. 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    impresa regolamentata: una banca, un'impresa di assicurazione, un'impresa di riassicurazione, un'impresa di investimento, una societa' di gestione patrimoniale o un gestore di FIA autorizzati in Italia o in un altro Paese dell'Unione europea;
+                                
+                            
+                            
+                                h)
+                                
+                                    societa' di gestione patrimoniale: le societa' di gestione di cui all'articolo 1, comma 1, lettere o) e o-bis), del TUF; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    gestore di fondi di investimento alternativi: la societa' autorizzata ai sensi della direttiva 2011/61/UE in uno Stato dell'UE diverso dall'Italia, che esercita l'attivita' di gestione di uno o piu' FIA (gestore di FIA UE o GEFIA UE) ovvero la societa' autorizzata ai sensi della direttiva 2011/61/UE con sede legale in uno Stato non appartenente all'UE, che esercita l'attivita' di gestione di uno o piu' FIA (gestore di FIA non UE o GEFIA non UE);
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    FIA: gli organismi collettivi del risparmio rientranti nell'ambito di applicazione della direttiva 2011/61/UE;
+                                
+                            
+                            
+                                i)
+                                
+                                    impresa di riassicurazione: un' impresa, come definita dall'articolo 1, comma 1, lettera cc), ((del CAP)); 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 4 MARZO 2014, N. 53)); 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    settore finanziario: il settore composto di una o piu' delle seguenti imprese: 
+ ((1) una banca; una societa' che esercita, in via esclusiva o prevalente l'attivita' di assunzione di partecipazioni aventi le caratteristiche indicate dalla Banca d'Italia ovvero una o piu' delle attivita' previste dall'articolo 1, comma 2, lettera f), numeri da 2) a 12), TUB o altre attivita' finanziarie previste ai sensi del numero 15) della medesima lettera dell'articolo 1, comma 2, TUB; un istituto di pagamento; una societa' strumentale di cui all'articolo 59, comma 1, lettera c), TUB (settore bancario);)) 
+ 2) un'impresa di assicurazione, un' impresa di riassicurazione o una societa' di partecipazione assicurativa (settore assicurativo); 
+ ((3) un'impresa di investimento ai sensi dell'articolo 4, n. 2), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio del 26 giugno 2013 (settore servizi di investimento);)) 
+ 4) ((NUMERO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 53)); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    conglomerato finanziario: un gruppo di imprese che soddisfi le condizioni di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    settore finanziario di maggiori dimensioni: il settore finanziario all'interno di un conglomerato finanziario con il valore medio di cui all'articolo 3, comma 3, piu' elevato; ai fini di tale valutazione, il settore bancario e quello dei servizi di investimento sono considerati congiuntamente; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    settore finanziario di minori dimensioni: il settore finanziario all'interno di un conglomerato finanziario con il valore medio di cui all'articolo 3, comma 3, meno elevato; ai fini di tale valutazione, il settore bancario e quello dei servizi di investimento sono considerati congiuntamente; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    impresa madre: un'impresa che controlla un'altra impresa;
+                                
+                            
+                            
+                                r)
+                                
+                                    impresa figlia: un' impresa soggetta al controllo di un' altra impresa ((...)); tutte le imprese figlie di imprese figlie sono parimenti considerate imprese figlie dell' impresa madre che e' a capo di tali imprese; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    partecipazione: i diritti, rappresentati o meno da titoli, nel capitale di altre imprese, i quali, realizzando una situazione di legame durevole con esse, sono destinati a sviluppare l'attivita' del partecipante. Si ha comunque partecipazione quando un soggetto e', direttamente o tramite un legame di controllo, titolare di almeno il 20 per cento dei diritti di voto o del capitale di un'impresa; ((Sono comprese le partecipazioni possedute per il tramite di societa' controllate, di societa' fiduciarie o per interposta persona;))
+                                    
+                                
+                            
+                            
+                                s-bis)
+                                
+                                    partecipazione qualificata: la partecipazione di cui all'articolo 19 del TUB, all'articolo 15 del TUF, all'articolo 68 del CAP;
+                                
+                            
+                            
+                                t)
+                                
+                                    gruppo: un insieme di imprese composto dalla impresa madre, dalle imprese figlie e dalle societa' in cui l'impresa madre o le imprese figlie detengono una partecipazione, nonche' dalle imprese soggette a direzione unitaria in virtu' di accordi o clausole statutarie e da quelle in cui gli organi di amministrazione, direzione e controllo sono costituiti in maggioranza dalle stesse persone ((, ivi compresi eventuali sottogruppi delle stesse)); 
+
+                                
+                            
+                            
+                                t-bis)
+                                
+                                    controllo: la relazione di cui all'articolo 23 del TUB, all'articolo 72 del CAP;
+                                
+                            
+                            
+                                u)
+                                
+                                    stretti legami: i legami tra due o piu' persone fisiche o giuridiche consistenti in una partecipazione, un legame di controllo o una situazione nella quale due o piu' persone fisiche o giuridiche siano legate in modo duraturo a una stessa persona da un legame di controllo;
+                                
+                            
+                            
+                                v)
+                                
+                                    societa' di partecipazione finanziaria mista: un' impresa madre, diversa da un'impresa regolamentata, che insieme con le sue imprese figlie, di cui almeno una sia un' impresa regolamentata con sede principale nell' Unione europea, e con altre imprese costituisca un conglomerato finanziario; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    autorita' competenti: le autorita' nazionali dei Paesi dell'Unione europea preposte, in forza di legge o regolamento, all' esercizio della vigilanza sulle banche, sugli IMEL, sulle imprese di assicurazione o riassicurazione, sulle imprese di investimento, sulle societa' di gestione patrimoniale o sui gestori di fondi d'investimento alternativi, sia a livello di singola impresa che di gruppo;
+                                
+                            
+                            
+                                aa)
+                                
+                                    autorita' competenti rilevanti: 
+ 1) le autorita' competenti dei Paesi dell' Unione europea preposte all' esercizio della vigilanza settoriale a livello di gruppo su qualsiasi impresa regolamentata appartenente ad un conglomerato finanziario ((in particolare sulla capogruppo di un settore)); 
+ 2) il coordinatore se diverso dalle autorita' di cui al numero 1; 3) le altre autorita' competenti interessate, se ritenuto necessario dalle autorita' di cui ai numeri 1 e 2; queste ultime tengono conto, in particolare, della quota di mercato delle imprese regolamentate del conglomerato in altri Stati comunitari, specie se essa supera il 5 per cento, e dell' importanza all'interno del conglomerato di qualsiasi impresa regolamentata che abbia sede in un altro Stato membro; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    autorita' di vigilanza italiane: le autorita' di vigilanza italiane competenti sui settori bancario, assicurativo e dei servizi di investimento; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    operazioni intragruppo: tutte le operazioni in cui l' adempimento di un'obbligazione, contrattuale o di altra natura, dietro pagamento o a titolo gratuito, a favore delle imprese regolamentate appartenenti ad un conglomerato finanziario dipende, direttamente o indirettamente, da altre imprese dello stesso gruppo o da qualsiasi persona fisica o giuridica legata alle imprese appartenenti a quel gruppo da stretti legami; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    concentrazione dei rischi: tutte le esposizioni con un rischio di perdita potenziale ((...)), di portata tale da compromettere la solvibilita' o la posizione finanziaria generale delle imprese regolamentate appartenenti al conglomerato ((finanziario)); tali esposizioni possono essere dovute a rischio di credito/controparte, rischio di investimento, rischio assicurativo, rischio di mercato, altri rischi oppure ad una combinazione o interazione dei rischi precedenti; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    requisiti di adeguatezza patrimoniale complessivi: l'ammontare minimo dei fondi propri di un' impresa regolamentata a fronte dei rischi complessivi della propria attivita', calcolato per le singole imprese in base alle rispettive norme settoriali; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    vigilanza supplementare a livello di conglomerato: la vigilanza ulteriore, rispetto a quella prevista da ogni ordinamento nazionale di settore, che si effettua considerando unitariamente il conglomerato finanziario, ai fini stabiliti all'articolo 2, comma 1.
+
 ## Art. 2. — Finalita' e destinatari della vigilanza supplementare
 
 La vigilanza supplementare sulle imprese regolamentate appartenenti a un conglomerato finanziario ha per scopo la salvaguardia della stabilita' del conglomerato nel suo complesso e delle imprese, regolamentate ((...)), che ne fanno parte, nonche' la prevenzione degli effetti destabilizzanti sul sistema finanziario derivanti dalle difficolta' finanziarie delle imprese appartenenti a un conglomerato finanziario.
@@ -37,6 +278,31 @@ La vigilanza supplementare sulle imprese regolamentate appartenenti a un conglom
 Fatte salve le norme settoriali in materia di vigilanza, le autorita' competenti assicurano, nei limiti e nei modi previsti dal presente decreto, la vigilanza supplementare sulle imprese regolamentate di cui all'articolo 1, lettera g).
 
 ))
+
+2.
+                        
+                            
+                                Sono sottoposte a vigilanza supplementare, a livello di conglomerato, le imprese regolamentate appartenenti a un conglomerato finanziario, tra le quali rientrano anche le imprese regolamentate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a capo di un conglomerato finanziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la cui impresa madre e' una societa' di partecipazione finanziaria mista con sede principale nell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che sono legate ad un'altra impresa del settore finanziario da una relazione, diversa dal controllo, che comporti l'assoggettamento a direzione unitaria in virtu' di accordi o per effetto della quale gli organi di amministrazione, direzione e controllo sono costituiti in maggioranza dalle stesse persone.
 
 I conglomerati finanziari che risultano essere sottogruppi di un altro conglomerato finanziario sono sottoposti a vigilanza supplementare nell'ambito di quest'ultimo.
 
@@ -99,6 +365,31 @@ Ai fini dell'applicazione dei commi 2 e 3, le autorita' competenti rilevanti pos
 
 ((
 
+6-bis.
+                        
+                            
+                                Ai fini dell'applicazione dei commi 3, 4 e 5, le autorita' competenti rilevanti, di comune accordo, possono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    escludere un'impresa dal calcolo dei requisiti di adeguatezza patrimoniale supplementare nei casi di cui all'articolo 7, comma 4; nei casi di cui alla lettera a) della stessa disposizione l'esenzione non puo' essere concessa qualora le autorita' ritengano che l'impresa ha stabilito la sede in uno Stato extracomunitario al fine di eludere la regolamentazione a cui sarebbe soggetta nell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al fine di evitare bruschi cambiamenti del regime di vigilanza, identificare il conglomerato purche' le soglie di cui ai commi 2, 3 e 4 siano state superate per 3 anni consecutivi oppure indipendentemente da detto requisito temporale qualora la struttura del gruppo subisca modifiche significative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    escludere una o piu' partecipazioni nel settore di minori dimensioni ove tali partecipazioni siano decisive per l'identificazione di un conglomerato finanziario e, considerate nel loro insieme, siano di interesse trascurabile rispetto agli obiettivi della vigilanza supplementare.
+
 Qualora sia stato individuato un conglomerato finanziario ai sensi dei commi 2, 3 e 4, le decisioni di cui al comma 6-bis sono adottate su proposta del coordinatore del conglomerato.
 
 Al fine di evitare bruschi cambiamenti di regime per i conglomerati gia' soggetti a vigilanza supplementare, nel caso in cui i rapporti indicati ai commi 2 e 3 scendano al di sotto rispettivamente del 40 per cento o del 10 per cento, si applicano per i tre anni successivi coefficienti ridotti rispettivamente pari al 35 per cento e all'8 per cento. Analogamente, se il totale dello stato patrimoniale del settore finanziario di minori dimensioni del gruppo scende al di sotto di 6 miliardi di euro si applica per i tre anni successivi una soglia inferiore, pari a 5 miliardi di euro.
@@ -112,6 +403,24 @@ Le autorita' competenti, tenendo conto degli orientamenti del Comitato congiunto
 ## Art. 4. — ((Esonero del conglomerato finanziario dalla vigilanza supplementare))
 
 ((
+
+1.
+                        
+                            
+                                Le autorita' competenti rilevanti possono, di comune accordo, esonerare un gruppo dall'ambito di applicazione della vigilanza supplementare stabilita dal presente decreto ovvero dall'applicazione dei soli articoli 8, 9 o 10, ove ricorra uno dei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attivita' esercitata nei diversi settori finanziari e' significativa ai sensi dell'articolo 3, comma 4, ma non dell'articolo 3, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'attivita' esercitata nei diversi settori finanziari e' significativa ai sensi dell'articolo 3, comma 3, ma il settore di minori dimensioni presenta un totale dello stato patrimoniale inferiore a 6 miliardi di euro.
 
 ))
 
@@ -141,9 +450,79 @@ Tra le autorita' competenti, comprese quelle del Paese dove ha la sede principal
 
 La presenza di un coordinatore con compiti specifici in materia di vigilanza supplementare lascia impregiudicati i compiti e le responsabilita' attribuite alle autorita' competenti ai sensi delle norme settoriali.
 
+3.
+                        
+                            
+                                L'individuazione e' effettuata sulla base dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora a capo di un conglomerato finanziario vi sia un'impresa regolamentata, il compito di coordinatore e' esercitato dall'autorita' competente che ha autorizzato la predetta impresa regolamentata all'esercizio dell'attivita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora a capo di un conglomerato finanziario non vi sia un'impresa regolamentata, il compito di coordinatore e' esercitato dall'autorita' competente individuata sulla base dei seguenti criteri: 
+ 1) nel caso in cui l'impresa madre di un'impresa regolamentata sia una societa' di partecipazione finanziaria mista, il compito di coordinatore e' esercitato dall'autorita' competente che ha autorizzato la predetta impresa regolamentata ai sensi delle pertinenti norme settoriali; 
+ 2) nel caso in cui piu' imprese regolamentate con sede principale nell'Unione europea abbiano come impresa madre la stessa societa' di partecipazione finanziaria mista e una di queste imprese abbia ricevuto l'autorizzazione nello Stato membro in cui ha la sede principale la societa' di partecipazione finanziaria mista, il compito di coordinatore e' esercitato dall'autorita' competente preposta alla vigilanza dell'impresa regolamentata autorizzata in tale Stato membro; 
+ 3) nel caso in cui nello Stato membro in cui la societa' di partecipazione finanziaria mista ha la sua sede principale siano state autorizzate piu' imprese regolamentate operanti in diversi settori finanziari, il compito di coordinatore e' esercitato dall'autorita' competente preposta alla vigilanza sull'impresa regolamentata operante nel settore finanziario di maggiori dimensioni; 
+ 4) nel caso in cui a capo del conglomerato finanziario vi siano piu' societa' di partecipazione finanziaria mista con la sede principale in diversi Paesi dell'Unione europea in ciascuno dei quali sia presente un'impresa regolamentata, il compito di coordinatore e' esercitato dall'autorita' competente preposta alla vigilanza dell'impresa regolamentata che presenti il totale dello stato patrimoniale piu' elevato, nel caso in cui tali imprese operino nello stesso settore finanziario, ovvero dall'autorita' competente preposta alla vigilanza sull'impresa regolamentata operante nel settore finanziario di maggiori dimensioni; 
+ 5) nel caso in cui piu' imprese regolamentate con sede principale nell'Unione europea abbiano come impresa madre la stessa societa' di partecipazione finanziaria mista e nessuna di queste imprese abbia ricevuto l'autorizzazione nello Stato membro in cui ha la sede principale la societa' di partecipazione finanziaria mista, il compito di coordinatore e' esercitato dall'autorita' competente che ha concesso l'autorizzazione all'impresa regolamentata che presenta il totale dello stato patrimoniale piu' elevato nel settore finanziario di maggiori dimensioni; 
+ 6) nel caso in cui ((un)) conglomerato finanziario sia un gruppo che non fa capo a un'impresa madre o in qualsiasi altro caso, il compito di coordinatore e' esercitato dall'autorita' competente che ha concesso l'autorizzazione all'impresa regolamentata che presenta il totale dello stato patrimoniale piu' elevato nel settore finanziario di maggiori dimensioni.
+
 Il coordinatore, individuato in conformita' del comma 3, comunica all'impresa madre al vertice di un gruppo o, in assenza di questa, all'impresa regolamentata con il piu' elevato totale dello stato patrimoniale nel settore finanziario di maggiori dimensioni di un gruppo che il gruppo e' stato individuato come conglomerato finanziario ai sensi dell'articolo ((3)), nonche' la designazione del coordinatore. ((Il coordinatore informa altresi' le autorita' competenti che hanno autorizzato le imprese regolamentate appartenenti al gruppo, le autorita' competenti dello Stato membro nel quale la societa' di partecipazione finanziaria mista ha la sua sede principale, nonche' il comitato congiunto.))
 
 In casi particolari, le autorita' competenti rilevanti ((possono, di comune accordo e consultato)) il conglomerato finanziario, stabilire di non applicare i criteri di cui al comma 3 qualora cio' risulti opportuno in considerazione della struttura del conglomerato e dell'importanza relativa delle sue attivita' in altri Paesi e nominare quale coordinatore un'autorita' competente diversa.
+
+6.
+                        
+                            
+                                I compiti di vigilanza supplementare del coordinatore includono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il coordinamento della raccolta e della diffusione di informazioni pertinenti o essenziali tra le autorita' competenti, sia nel quadro del normale esercizio delle proprie funzioni sia nelle situazioni di emergenza, ivi compresa la diffusione di informazioni importanti ai fini dell'esercizio della vigilanza da parte di un'autorita' competente ai sensi delle norme settoriali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la valutazione complessiva sotto il profilo della vigilanza e la valutazione della situazione finanziaria di un conglomerato finanziario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la valutazione dell'osservanza delle disposizioni in materia di adeguatezza patrimoniale, di concentrazione dei rischi e di operazioni intragruppo di cui agli articoli 7, 8 e 9; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la valutazione complessiva delle operazioni intragruppo e della concentrazione dei rischi, tenendo sotto controllo, in particolare, i possibili rischi di contagio all'interno del conglomerato finanziario, i rischi di conflitto di interessi, i rischi di arbitraggio fra norme settoriali ed il livello o volume dei rischi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la valutazione della struttura, dell'organizzazione e del sistema di controllo interno del conglomerato finanziario, di cui all'articolo 10; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la pianificazione e il coordinamento delle attivita' di vigilanza, in collaborazione con le autorita' competenti rilevanti, sia nel quadro del normale esercizio delle proprie funzioni sia in situazioni di emergenza.
 
 Il coordinatore, le altre autorita' competenti rilevanti e, ove necessario, le altre autorita' competenti interessate concludono accordi di coordinamento al fine di agevolare la vigilanza supplementare. L'accordo di coordinamento puo' conferire al coordinatore ulteriori compiti ((necessari per l'esercizio della vigilanza supplementare)) e puo' specificare le procedure per il processo decisionale fra le autorita' competenti rilevanti e per la collaborazione con le altre autorita' competenti.
 
@@ -152,6 +531,24 @@ Il coordinatore puo' chiedere alle autorita' competenti del Paese dell'Unione eu
 Al fine di evitare la duplicazione delle segnalazioni alle varie autorita' coinvolte nella vigilanza, se il coordinatore necessita di informazioni gia' fornite a un'altra autorita' competente conformemente alle norme settoriali, si rivolge all'autorita' in possesso di tali informazioni.
 
 ((
+
+9-bis.
+                        
+                            
+                                Le autorita' competenti rilevanti, tenendo conto degli orientamenti del comitato congiunto, collaborano fra loro e con le autorita' dei Paesi terzi e agevolano l'esercizio della vigilanza supplementare tramite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i collegi di supervisori istituiti in base alle norme settoriali, eventualmente integrati su richiesta del coordinatore in qualita' di autorita' di vigilanza consolidata bancaria o del gruppo assicurativo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli accordi di coordinamento di cui al comma 7, che formano parte separata degli accordi di collaborazione e coordinamento definiti ai sensi delle norme settoriali.
 
 ))
 
@@ -170,6 +567,24 @@ La cooperazione prevede almeno la raccolta e lo scambio di informazioni in merit
  f) le procedure per la raccolta di informazioni presso le imprese appartenenti al conglomerato finanziario e la verifica di tali informazioni; 
  g) i problemi incontrati dalle imprese regolamentate o da altre imprese del conglomerato finanziario, suscettibili di arrecare un serio pregiudizio alle imprese regolamentate; 
  h) le sanzioni di rilevante entita' e i provvedimenti straordinari adottati dalle autorita' competenti in conformita' delle norme settoriali o del presente decreto.
+
+4.
+                        
+                            
+                                Prima di adottare una decisione rilevante ai fini dell'esercizio dei compiti di vigilanza di altre autorita' competenti e fatte salve le rispettive responsabilita' definite dalle norme settoriali, le autorita' competenti interessate si consultano in merito: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai mutamenti nell'azionariato e nella struttura organizzativa e gestionale delle imprese regolamentate appartenenti a un conglomerato finanziario, che necessitano dell'approvazione ovvero dell'autorizzazione delle autorita' competenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle sanzioni di rilevante entita' e ai provvedimenti straordinari adottati dalle autorita' competenti.
 
 Un'autorita' competente puo' decidere di non procedere alla consultazione di cui al comma 4 in situazioni di urgenza o qualora cio' possa compromettere l'efficacia delle decisioni. In tali casi, l'autorita' competente informa prontamente le altre autorita' competenti.
 
@@ -194,6 +609,31 @@ Le autorita' competenti preposte all'esercizio della vigilanza supplementare pos
 Il coordinatore valuta i requisiti di adeguatezza patrimoniale del conglomerato finanziario e verifica che il calcolo dei requisiti di cui al comma 1, sia effettuato almeno una volta l'anno dalle imprese regolamentate o dalla societa' di partecipazione finanziaria mista. Ai fini del calcolo dei requisiti di adeguatezza patrimoniale sono incluse nell'ambito della vigilanza supplementare tutte le imprese appartenenti al settore finanziario ((e le societa' di partecipazione finanziaria mista)).
 
 Il risultato del calcolo e i dati necessari per quest'ultimo sono trasmessi al coordinatore dall'impresa regolamentata o dalla societa' di partecipazione finanziaria mista a capo del conglomerato finanziario oppure da un'impresa regolamentata appartenente al conglomerato finanziario individuata dal coordinatore, previa consultazione delle altre autorita' competenti rilevanti e del conglomerato finanziario.
+
+4.
+                        
+                            
+                                Il coordinatore puo' decidere, ((...)), di escludere una determinata impresa dal calcolo dei requisiti di adeguatezza patrimoniale supplementare nei seguenti casi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    qualora l'impresa abbia sede in un Paese non appartenente all'Unione europea nel quale esistano ostacoli giuridici alla trasmissione delle informazioni necessarie; non sono considerati ostacoli le norme settoriali in materia di obbligo per le autorita' competenti di negare l'autorizzazione qualora sia impedito loro l'effettivo esercizio dei compiti di vigilanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora l'impresa sia di interesse trascurabile ai fini dell'obiettivo della vigilanza supplementare sulle imprese regolamentate appartenenti ad un conglomerato finanziario; le imprese di interesse trascurabile devono comunque essere incluse se, considerate nel loro insieme, presentano un interesse non trascurabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    qualora l'inclusione di un'impresa sia inopportuna o fuorviante in relazione agli obiettivi della vigilanza supplementare. ((in tal caso, salvo situazioni di urgenza, l'esclusione e' decisa dal coordinatore sentite le altre autorita' competenti rilevanti;))
 
 Il coordinatore e le autorita' di vigilanza rilevanti ((possono stabilire, di comune accordo,)) i limiti quantitativi e le caratteristiche qualitative dell'impresa ai fini della esclusione dal calcolo dei requisiti di adeguatezza patrimoniale supplementare.
 
@@ -261,6 +701,56 @@ Controlli interni ((e procedure di gestione del rischio.))
 
 Le imprese regolamentate pongono in essere nell'ambito del conglomerato finanziario e nel rispetto dei principi contenuti nei commi 2 e 3, adeguati meccanismi di controllo interno e procedure di gestione del rischio, comprese idonee procedure amministrative e contabili.
 
+2.
+                        
+                            
+                                Le procedure di gestione del rischio includono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    governo societario e gestione sani, con l'approvazione e la revisione periodica delle strategie e delle politiche da parte dei soggetti ai quali sono attribuite le funzioni di amministrazione e di direzione a livello del conglomerato finanziario per quanto concerne tutti i rischi assunti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    opportune politiche di adeguatezza patrimoniale, al fine di anticipare l'impatto della strategia aziendale sul profilo del rischio e sui requisiti patrimoniali conformemente alle disposizioni dell'articolo 7 e dell'allegato al presente decreto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedure atte ad assicurare che i sistemi di monitoraggio dei rischi siano correttamente integrati nell'organizzazione aziendale e che siano prese tutte le misure necessarie a garantire la coerenza dei sistemi posti in essere in tutte le imprese incluse nel campo di applicazione della vigilanza supplementare, al fine di consentire la quantificazione, il monitoraggio e il controllo dei rischi a livello del conglomerato finanziario. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    accordi conclusi per contribuire e sviluppare, ove necessario, adeguati regimi e piani di risanamento e di risoluzione delle crisi. Tali accordi sono aggiornati su base regolare.
+
+3.
+                        
+                            
+                                I meccanismi di controllo interno includono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    meccanismi adeguati per quanto concerne l'adeguatezza patrimoniale al fine di individuare e quantificare tutti i rischi materiali incorsi e stabilire un collegamento corretto tra mezzi propri e rischi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valide procedure di segnalazione e contabili, atte a consentire l'accertamento, la quantificazione, il monitoraggio ed il controllo delle operazioni intragruppo e della concentrazione dei rischi.
+
 Coerentemente con le pertinenti norme settoriali, in ogni impresa soggetta alla vigilanza supplementare ((ai sensi dell'articolo 2, comma 2,)) sono istituiti adeguati meccanismi di controllo interno, definiti dalle autorita' di vigilanza competenti mediante specifici accordi di coordinamento, per l'elaborazione dei dati e delle informazioni utili all'esercizio della vigilanza supplementare.
 
 Il coordinatore valuta, sotto il profilo della vigilanza supplementare, le procedure e i meccanismi di cui al presente articolo per il conglomerato finanziario nel suo complesso.
@@ -312,6 +802,45 @@ Per le societa' di partecipazione finanziaria mista, la richiesta di verifica di
 Al comma 3, dell'articolo 68, del TUB, in fine, e' aggiunto il seguente periodo: «l'autorita' competente richiedente, qualora non compia direttamente la verifica, puo', se lo desidera, prendervi parte».
 
 ## Art. 13. — Poteri supplementari e misure di esecuzione
+
+1.
+                        
+                            
+                                In caso di mancata osservanza dei requisiti di vigilanza supplementare di cui agli articoli da 7 a 10 da parte delle imprese regolamentate appartenenti ad un conglomerato finanziario o qualora tali requisiti siano rispettati ma la solvibilita' sia comunque compromessa oppure qualora le operazioni intragruppo o la concentrazione dei rischi compromettano la posizione finanziaria delle imprese regolamentate, le autorita' competenti, anche su richiesta del coordinatore, possono adottare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i provvedimenti di cui all'articolo 53, comma 3, del TUB, all'articolo 7 del TUF, all'articolo 188 ((...)) e all'articolo 191 del CAP; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    i provvedimenti previsti dal Titolo IV, Capo I Sezioni I, II e III e Capo II del TUB; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i provvedimenti di cui alla Parte II, Titolo IV del TUF; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i provvedimenti previsti dal Titolo VII, Capo III, e dal Titolo XVI, Capi I, II, III, IV e VII del CAP; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le misure previste dall'articolo 220-novies del CAP.
 
 Nei confronti delle societa' di partecipazione finanziaria mista aventi sede in Italia, i provvedimenti di cui al comma 1, ((lettere da a-bis) a d) )), sono disposti o proposti dal coordinatore nei modi previsti dalle norme settoriali.
 

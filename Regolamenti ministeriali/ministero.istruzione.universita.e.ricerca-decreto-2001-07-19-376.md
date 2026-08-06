@@ -8,8 +8,8 @@ codice_redazionale: 001G0437
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,31 @@ Nel rispetto delle finalita' istituzionali e dei principi di autonomia fissati p
 ## Art. 2. — Autonomia didattica
 
 Le universita' di Perugia e Siena istituiscono corsi destinati a stranieri da realizzare anche con l'ausilio delle nuove tecnologie educative e a distanza. I predetti corsi sono organizzati anche mediante convenzione con altre universita', nonche' da consorzi di cui fanno parte le stesse universita' di Perugia e Siena.
+
+2.
+                    
+                        
+                            Le universita' di cui al comma 1 organizzano, altresi', corsi di studio aperti anche a cittadini italiani, e specificamente finalizzati:
+ 
+                        
+                        
+                            a)
+                            
+                                alla formazione di personale operante nelle istituzioni italiane all'estero o in progetti di cooperazione con i Paesi in via di sviluppo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla formazione di operatori socio-assistenziali per l'integrazione degli stranieri per fini di cui all'articolo 42 del decreto legislativo 25 luglio 1998, n. 286, nonche' per gli altri casi in cui sia richiesta, ai fini predetti, una specifica preparazione multilinguistica e multiculturale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla formazione nel campo delle scienze del linguaggio, della comunicazione e dell'informazione in contesto internazionale e interculturale.
 
 I corsi di cui ai commi 1 e 2 sono istituiti in conformita' alle disposizioni previste dal regolamento ministeriale 3 novembre 1999, n. 509, e da decreti ministeriali adottati ai sensi dell'articolo 17, comma 95, della legge 15 maggio 1997, n. 127, e successive modificazioni e integrazioni.
 

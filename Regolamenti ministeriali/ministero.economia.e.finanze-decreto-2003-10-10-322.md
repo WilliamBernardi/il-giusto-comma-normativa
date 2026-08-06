@@ -8,8 +8,8 @@ codice_redazionale: 003G0349
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -37,7 +37,80 @@ Sono escluse dall'obbligo di applicazione del contrassegno le preparazioni tonic
 
 ## Art. 3. — Caratteristiche e prezzi dei contrassegni
 
+1.
+                    
+                        
+                            I contrassegni di cui all'articolo 1 sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                contrassegno per i prodotti alcolici sottoposti all'accisa sull'alcole etilico nel taglio unico «fino a 5 centilitri»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                contrassegno per i prodotti alcolici, diversi da quelli di cui alla lettera c), sottoposti all'accisa sull'alcole etilico, nei tagli «fino a 0,10 l», «0,20 l», «0,35 l», «0,50 l», «0,70 l», «1,00 l», «1,50 l», «2,00 l», «2,50 l», «3,00 l»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                contrassegno per le bevande alcoliche, comprese le bevande spiritose contenenti prodotti solidi o in soluzione e la frutta sotto spirito, sottoposte all'accisa sull'alcole etilico, nei tagli «fino a 0,10 l», «0,20 l», «0,35 l», «0,50 l», «0,70 l», «1,00 l», «1,50 l», «2,00 l», «2,50 l», «3,00 l», «4,50 l»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                contrassegno per le bevande alcoliche sottoposte all'accisa sui prodotti intermedi, nei tagli «fino a 0,10 l», «oltre 0,10 l fino a 0,75 l», «1,00 l», «oltre 1,00 l, fino a 2,00 l», «oltre 2,00 l fino a 5,00 l», «30,00 l», «60,00 l».
+
 Le caratteristiche delle tipologie di contrassegni di cui al comma 1 sono indicate nell'allegato A e sono rappresentate graficamente nei fac-simile di cui all'allegato B.
+
+3.
+                    
+                        
+                            I prezzi dei contrassegni di cui all'articolo 1, per mille esemplari, sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                tipologia A
+ 1) unico taglio «fino a 5 centilitri» euro 5,00;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tipologia B
+ 1) taglio «fino a 0,10 l» euro 5,00;
+ 2) taglio «0,20 l» euro 15,00;
+ 3) tagli «0,35 l», «0,50 l», «0,70 l», «1,00 l», «1,50 l», «2,00 l», «2,50 l», «3,00 l» euro 47,00;
+
+                            
+                        
+                        
+                            c)
+                            
+                                tipologia C
+ 1) taglio «fino a 0,10 l» euro 5,00;
+ 2) taglio «0,20 l» euro 15,00;
+ 3) tagli da «0,35 l», «0,50 l», «0,70 l», «1,00 l», «1,50 l», «2,00 l», «2,50 l», «3,00 l», «4,50 l» euro 47,00;
+
+                            
+                        
+                        
+                            d)
+                            
+                                tipologia D
+ 1) taglio «fino a 0,10 l» euro 5,00;
+ 2) tagli «oltre 0,10 l fino a 0,75 l», «1,00 l», «oltre 1,00 l fino a 2,00 l», «oltre 2,00 l fino a 5,00 l», «30,00 l», «60,00 l» euro 15,00.
 
 ## Art. 4. — Periodo transitorio
 

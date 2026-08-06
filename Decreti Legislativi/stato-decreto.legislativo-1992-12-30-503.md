@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -60,6 +60,31 @@ Nel regime dell'assicurazione generale obbligatoria per i lavoratori dipendenti 
 
 In fase di prima applicazione i requisiti di cui al comma 1 sono stabiliti in base alla tabella B allegata.
 
+3.
+                        
+                            
+                                In deroga ai commi 1 e 2: 
+ 
+                            
+                            
+                                a)
+                                
+                                    continuano a trovare applicazione i requisiti di assicurazione e contribuzione previsti dalla previgente normativa nei confronti dei soggetti che li abbiano maturati alla data del 31 dicembre 1992, ovvero che anteriormente a tale data siano stati ammessi alla prosecuzione volontaria di cui al decreto del Presidente della Repubblica 31 dicembre 1971, n. 1432, e successive modificazioni ed integrazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i lavoratori subordinati che possono far valere un'anzianita' assicurativa di almeno venticinque anni, occupati per almeno dieci anni per periodi di durata inferiore a 52 settimane nell'anno solare, e' fatto salvo il requisito contributivo per il pensionamento di vecchiaia previsto dalla previgente normativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di lavoratori dipendenti che hanno maturato al 31 dicembre 1992 una anzianita' assicurativa e contributiva tale che, anche se incrementata dai periodi intercorrenti tra la predetta data e quella riferita all'eta' per il pensionamento di vecchiaia, non consentirebbe loro di conseguire i requisiti di cui ai commi 1 e 2, questi ultimi sono corrispondentemente ridotti fino al limite minimo previsto dalla previgente normativa.
+
 ## Art. 3. — Retribuzione pensionabile
 
 Per i lavoratori dipendenti iscritti all'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti, che alla data del 31 dicembre 1992 possono far valere un'anzianita' contributiva inferiore a 15 anni, la retribuzione annua pensionabile e' determinata con riferimento ai periodi indicati ai commi ottavo e quattordicesimo dell'articolo 3 della legge 29 maggio 1982, n. 297, incrementati dai periodi contributivi che intercorrono tra la predetta data e quella immediatamente precedente la decorrenza della pensione. (4)
@@ -87,6 +112,25 @@ AGGIORNAMENTO (8)
  La L. 8 agosto 1995, n. 335 ha disposto (con l'art. 1, comma 17) che con decorrenza dal 1 gennaio 1996, per i casi regolati dal presente articolo 3 comma 3, l'incremento delle settimane di riferimento delle retribuzioni pensionabili, gia' previsto nella misura del 50 per cento, e' sostituito dalla misura del 66,6 per cento del numero delle settimane intercorrenti tra il 1 gennaio 1996 e la data di decorrenza della pensione, con arrotondamento per difetto.
 
 ## Art. 4. — Requisiti reddituali per l'integrazione al trattamento minimo
+
+1.
+                        
+                            
+                                Con effetto dal 1 gennaio 1993, i commi 1 e 2 dell'articolo 6 del decreto-legge 12 settembre 1983, n. 463, convertito con modificazioni dalla legge 11 novembre 1983, n. 638, sono sostituiti dai seguenti: 
+ "1. L'integrazione al trattamento minimo delle pensioni a carico dell'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti, delle gestioni sostitutive ed esclusive della medesima, nonche' delle gestioni previdenziali per i commercianti, gli artigiani, i coltivatori diretti, mezzadri e coloni, della gestione speciale minatori e dell'ENASARCO non spetta ai soggetti che posseggano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel caso di persona non coniugata, ovvero coniugata ma legalmente ed effettivamente separata, redditi propri assoggettabili all'imposta sul reddito delle persone fisiche per un importo superiore a due volte l'ammontare annuo del trattamento minimo del Fondo pensioni lavoratori dipendenti calcolato in misura pari a tredici volte l'importo mensile in vigore al 1 gennaio di ciascun anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel caso di persona coniugata, non legalmente ed effettivamente separata, redditi propri per un importo superiore a quello richiamato al punto a), ovvero redditi cumulati con quelli del coniuge per un importo superiore a tre volte il trattamento minimo medesimo. (( Per i lavoratori andati in pensione successivamente al 31 dicembre 1993 e fino al 31 dicembre 1994 il predetto limite di reddito e' elevato a cinque volte il trattamento minimo )) .
 
 Dal computo dei redditi sono esclusi i trattamenti di fine rapporto comunque denominati, il reddito della casa di abitazione e le competenze arretrate sottoposte a tassazione separata. Non concorre alla formazione dei redditi l'importo della pensione da integrare al trattamento minimo. Per i lavoratori autonomi agricoli, il reddito dichiarato dal titolare dell'azienda ai fini dell'imposta sul reddito delle persone fisiche viene imputato, indipendentemente dalla effettiva percezione, a ciasun componente attivo del nucleo familiare, in proporzione alla quantita' e qualita' del lavoro effettivamente prestato da ciascuno di essi in modo continuativo, attestato con dichiarazione dello stesso titolare dell'azienda.
 
@@ -244,6 +288,24 @@ Le percentuali di riduzione derivanti dal raffronto tra le aliquote di rendiment
  3.((COMMA ABROGATO DALLA L. 27 DICEMBRE 1997, N. 449)).
 
 ## Art. 13. — Norma transitoria per il calcolo delle pensioni
+
+1.
+                        
+                            
+                                Per i lavoratori dipendenti iscritti all'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti ed alle forme sostitutive ed esclusive della (( medesima, e per i lavoratori autonomi iscritti alle gestioni speciali amministrate dall' INPS, l'importo della pensione)) e' determinato dalla somma: 
+ 
+                            
+                            
+                                a)
+                                
+                                    della quota di pensione corrispondente all'importo relativo alle anzianita' contributive acquisite anteriormente al 1 gennaio 1993, calcolato con riferimento alla data di decorrenza della pensione secondo la normativa vigente precedentemente alla data anzidetta che a tal fine resta confermata in via transitoria, anche per quanto concerne il periodo di riferimento per la determinazione della retribuzione pensionabile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della quota di pensione corrispondente all'importo del trattamento pensionistico relativo alle anzianita' contributive acquisite a decorrere dal 1 gennaio 1993, calcolato secondo le norme di cui al presente decreto.
 
 ## Art. 14. — Riscatto di periodo non coperti da assicurazione
 

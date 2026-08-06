@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPCM
 vigenza_date: 1989-02-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -23,6 +23,60 @@ Entrata in vigore del decreto: 28/12/1988
 Acquisito il parere delle competenti commissioni parlamentari;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            In attesa del riordino del sistema pensionistico, limitatamente all'anno 1989, la misura degli aumenti delle pensioni ai sensi dell'art. 21, comma settimo, della legge 27 dicembre 1983, n. 730, e' calcolata secondo i seguenti criteri e modalita' di determinazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                si calcola la retribuzione media complessiva con riferimento al periodo agosto 1986-luglio 1987, riguardante i settori ed i comparti privati e pubblici presi in considerazione dall'Istituto centrale di statistica nelle elaborazioni correnti degli indici delle retribuzioni contrattuali; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                si calcola l'incremento retributivo medio assoluto determinatosi nel periodo agosto 1987-luglio 1988, relativamente agli stessi settori e comparti di cui alla lettera a), al netto dell'incremento dovuto agli scatti di anzianita', ai meccanismi di scala mobile e ai trattamenti di famiglia, comunque denominati; detto incremento e' rettificato per tenere conto integralmente di arretrati derivanti da eventuali ritardi nella conclusione di accordi contrattuali privati e pubblici, comunque avvenuta nel corso dello stesso periodo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                si calcola la variazione percentuale risultante dal rapporto tra il valore medio di cui alla lettera b) e quello di cui alla lettera a); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                si calcola l'incremento retributivo medio assoluto complessivo determinatosi nel periodo agosto 1987-luglio 1988, al lordo di quello dovuto agli scatti di anzianita' ed ai meccanismi di scala mobile; detto incremento e' rettificato per tenere conto integralmente di arretrati derivanti da eventuali ritardi nella conclusione di accordi contrattuali privati e pubblici, comunque avvenuta nel corso dello stesso periodo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                si calcola la variazione percentuale risultante dal rapporto tra il valore medio di cui alla lettera d) e quello di cui alla lettera a); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                si calcola la variazione percentuale complessiva risultante dalle percentuali di variazione dell'indice del costo della vita accertate in via definitiva per l'anno 1988 ai fini della perequazione automatica semestrale delle pensioni; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                si determina la percentuale di aumento da applicare per la perequazione delle pensioni relativa alla dinamica salariale, agli effetti dell'art. 21, comma settimo, della legge 27 dicembre 1983, n. 
+730, in misura pari alla parte di variazione di cui alla lettera c) corrispondente alla differenza tra la variazione di cui alla lettera e) e quella di cui alla lettera f).
 
 L'Istituto centrale di statistica deve comunicare immediatamente ai Ministri del tesoro e del lavoro e della previdenza sociale i risultati delle elaborazioni di cui al comma 1.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2013-07-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,9 +42,71 @@ Le competenze di cui ai commi 1 e 2 costituiscono il fondamento dell'unitarieta'
 
 I percorsi formativi sono preordinati, per tutte le classi di abilitazione all'insegnamento, all'acquisizione delle competenze di cui all'articolo
 
+2.
+                    
+                        
+                            
+ 2. I percorsi formativi sono cosi' articolati: 
+ 
+                        
+                        
+                            a)
+                            
+                                per l'insegnamento nella scuola dell'infanzia e nella scuola primaria, un corso di laurea magistrale quinquennale, a ciclo unico in deroga a quanto previsto dall'articolo 8, comma 2, del decreto del Ministro dell'istruzione, dell'universita' e della ricerca 22 ottobre 2004, n. 270, comprensivo di tirocinio da avviare a partire dal secondo anno di corso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per l'insegnamento nella scuola secondaria di primo e secondo grado, un corso di laurea magistrale biennale ed un successivo anno di tirocinio formativo attivo.
+
 I percorsi formativi preordinati all'insegnamento delle discipline artistiche, musicali e coreutiche della scuola secondaria di primo grado e di secondo grado sono attivati dalle universita' e dagli istituti di alta formazione artistica, musicale e coreutica di cui alla legge 21 dicembre 1999, n. 508, nell'ambito dei quali si articolano nel corso di diploma accademico di II livello e nel successivo anno di tirocinio formativo attivo secondo quanto prescritto dal presente decreto.
 
+4.
+                    
+                        
+                            Costituiscono parte integrante dei percorsi formativi ai fini del raggiungimento degli obiettivi di cui all'articolo 2: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'acquisizione delle competenze linguistiche di lingua inglese di livello B2 previste dal "Quadro comune europeo di riferimento per le lingue" adottato nel 1996 dal Consiglio d'Europa. La valutazione o la certificazione di dette competenze costituisce requisito essenziale per conseguire l'abilitazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'acquisizione delle competenze digitali previste dalla raccomandazione del Parlamento europeo e del Consiglio 18 dicembre 2006. In particolare dette competenze attengono alla capacita' di utilizzo dei linguaggi multimediali per la rappresentazione e la comunicazione delle conoscenze, per l'utilizzo dei contenuti digitali e, piu' in generale, degli ambienti di simulazione e dei laboratori virtuali. Al fine di consentirne la piena fruizione anche agli alunni con bisogni educativi speciali i contenuti digitali devono essere definiti nel rispetto dei criteri che ne assicurano l'accessibilita'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'acquisizione delle competenze didattiche atte a favorire l'integrazione scolastica degli alunni con disabilita' secondo quanto disposto dalla legge 5 febbraio 1992, n. 104 e successive modificazioni e integrazioni.
+
 I percorsi di cui ai commi 2, lettera b) e 3 prevedono nel corso della laurea magistrale e nel corso accademico di secondo livello periodi di tirocinio nelle istituzioni scolastiche facenti parte del sistema nazionale di istruzione, ricomprese nell'elenco di cui all'articolo 12.
+
+6.
+                    
+                        
+                            La frequenza dei corsi previsti dal presente decreto e' incompatibile, ai sensi dell'articolo 142 del Regio decreto 31 agosto 1933, n. 1592, con l'iscrizione a: 
+ 
+                        
+                        
+                            a)
+                            
+                                corsi di dottorato di ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualsiasi altro corso che da' diritto all'acquisizione di crediti formativi universitari o accademici, in Italia e all'estero, da qualsiasi ente organizzati.
 
 I percorsi formativi previsti dal presente decreto sono oggetto di costante monitoraggio e valutazione. A tal fine, il Ministro dell'istruzione, dell'universita' e della ricerca puo' avvalersi anche dell'assistenza tecnica dell'Agenzia Nazionale per la Valutazione del Sistema Universitario e della Ricerca (ANVUR), dell'Agenzia nazionale per lo sviluppo dell'autonomia scolastica (ANSAS) e dell'Istituto nazionale di valutazione del sistema educativo di istruzione e formazione (INVALSI).
 
@@ -76,6 +138,24 @@ Il numero complessivo dei posti annualmente disponibili per l'accesso ai percors
 
 ((
 
+2-bis.
+                    
+                        
+                            Ai fini della determinazione del fabbisogno di cui al comma 2, si tiene conto, per le scuole statali: 
+ 
+                        
+                        
+                            a)
+                            
+                                della programmazione regionale degli organici deliberata ai sensi dell'articolo 39 della legge 27 dicembre 1997, n. 449; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                del contingente di personale docente assunto con contratto a tempo determinato su posti disponibili ma non vacanti, nell'anno scolastico precedente.
+
 Il numero di posti individuato ai sensi del comma 2-bis e' maggiorato nel limite del 30 per cento per la copertura delle esigenze delle scuole paritarie e dei percorsi di istruzione e formazione professionale delle regioni.
 
 Per l'attivazione dei percorsi di cui al comma 1 si tiene conto altresi' dell'offerta formativa degli atenei e degli istituti di alta formazione artistica, musicale e coreutica.
@@ -103,6 +183,24 @@ I percorsi formativi di cui all'articolo 3, comma 2, lettera b), per l'insegname
  a. il conseguimento della laurea magistrale a numero programmato con prova di accesso al relativo corso; 
  b. lo svolgimento del tirocinio formativo attivo comprensivo dell'esame con valore abilitante, disciplinati dall'articolo 10.
 
+2.
+                    
+                        
+                            Le tabelle 2, 3, 4, 5, 6 e 7, allegate al presente decreto, individuano per ciascuna delle classi di abilitazione ivi indicate e previste dal decreto del Ministro dell'istruzione, dell'universita' e della ricerca 26 marzo 2009, n. 37: 
+ 
+                        
+                        
+                            a)
+                            
+                                i requisiti per l'accesso alla prova di cui al comma 1, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la laurea magistrale necessaria per accedere al tirocinio annuale di cui al comma 1, lettera b).
+
 ## Art. 8. — Formazione degli insegnanti della scuola secondaria 
  di secondo grado
 
@@ -114,6 +212,42 @@ I percorsi formativi di cui all'articolo 3, comma 2, lettera b), per l'insegname
 
 ## Art. 9. — Formazione degli insegnanti di materie artistiche, musicali e coreutiche della scuola secondaria di primo e di secondo grado
 
+1.
+                    
+                        
+                            I percorsi formativi per l'insegnamento di materie artistiche, musicali e coreutiche nella scuola secondaria di primo e di secondo grado comprendono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il conseguimento del diploma accademico di II livello ad indirizzo didattico a numero programmato e con prova di accesso al relativo corso; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                lo svolgimento del tirocinio formativo attivo comprensivo dell'esame con valore abilitante, disciplinati dall'articolo 10.
+
+2.
+                    
+                        
+                            Le tabelle 8, 9 e 10 allegate al presente decreto individuano per ciascuna delle classi di abilitazione ivi indicate e previste dal decreto del Ministro dell'istruzione, dell'universita' e della ricerca 26 marzo 2009, n. 37: 
+ 
+                        
+                        
+                            a)
+                            
+                                i requisiti per l'accesso alla prova di cui al comma 1, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i corsi accademici biennali necessari per accedere al tirocinio annuale di cui al comma 1, lettera b).
+
 Con successivo decreto del Ministro dell'istruzione, dell'universita' e della ricerca, in relazione alle modifiche di ordinamento conseguenti all'attuazione dell'articolo 64, comma 4, del decreto legge 25 giugno 2008, n. 112, convertito con modificazioni dalla legge 6 agosto 2008 n. 133 e del decreto legislativo 17 ottobre 2005, n. 226, e successive modificazioni, sono adottate le tabelle che individuano, per le classi di abilitazione all'insegnamento nella scuola secondaria di secondo grado, i corsi accademici di II livello necessari per accedere al tirocinio annuale di cui al comma 1, lettera b.
 
 Per l'utilizzazione dei docenti tutor si applicano le disposizioni dell'articolo 11, con gli adattamenti resi necessari dalle specificita' ordinamentali, organizzative e gestionali delle istituzioni dell'alta formazione artistica, musicale e coreutica. Le funzioni demandate ai consigli di facolta' sono attribuite ai consigli accademici. Per le attivita' del tirocinio formativo attivo e la suddivisione in crediti si applica la tabella 11 allegata al presente decreto.
@@ -124,12 +258,105 @@ Il tirocinio formativo attivo di cui agli articoli 7 comma 1 lettera b), 8 comma
 
 Il tirocinio formativo attivo e' istituito presso una facolta' di riferimento ovvero presso le istituzioni di alta formazione artistica, musicale e coreutica che ne sono altresi' sedi amministrative. Il corso di tirocinio puo' essere svolto in collaborazione fra piu' facolta' della stessa universita' ovvero fra facolta' di una o piu' universita' o tra facolta' e istituzioni di alta formazione artistica, musicale e coreutica.
 
+3.
+                    
+                        
+                            Il tirocinio formativo attivo comprende quattro gruppi di attivita': 
+ 
+                        
+                        
+                            a)
+                            
+                                insegnamenti di scienze dell'educazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un tirocinio indiretto e diretto di 475 ore, pari a 19 crediti formativi, svolto presso le istituzioni scolastiche sotto la guida di un tutor secondo quanto previsto dall'articolo 11, comma 1, in collaborazione con il docente universitario o delle istituzioni dell'alta formazione artistica, musicale e coreutica di cui al comma 6; le istituzioni scolastiche progettano il percorso di tirocinio, che contempla una fase osservativa e una fase di insegnamento attivo, di concerto col consiglio di corso di tirocinio al fine di integrare fra loro le attivita' formative; almeno 75 ore del predetto tirocinio sono dedicate alla maturazione delle necessarie competenze didattiche per l'integrazione degli alunni con disabilita'. 
+
+                            
+                        
+                        
+                            c)
+                            
+                                insegnamenti di didattiche disciplinari che, anche in un contesto di laboratorio, sono svolti stabilendo una stretta relazione tra l'approccio disciplinare e l'approccio didattico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                laboratori pedagogico-didattici indirizzati alla rielaborazione e al confronto delle pratiche educative e delle esperienze di tirocinio.
+
+4.
+                    
+                        
+                            La gestione delle attivita' del tirocinio formativo attivo e' affidata al consiglio di corso di tirocinio, cosi' costituito: 
+ 
+                        
+                        
+                            a)
+                            
+                                nelle universita', dai tutor coordinatori di cui all'articoli 11 comma 2, dai docenti e ricercatori universitari che in esso ricoprono incarichi didattici, da due dirigenti scolastici o coordinatori didattici, designati dall'ufficio scolastico regionale tra i dirigenti scolastici o i coordinatori didattici delle istituzioni scolastiche che ospitano i tirocini, e da un rappresentante degli studenti tirocinanti; il presidente del consiglio di corso e' eletto tra i docenti universitari, il suo mandato dura tre anni ed e' rinnovabile una sola volta; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                negli istituti di alta formazione artistica, musicale e coreutica, dai tutor coordinatori di cui all'articolo 11 comma 2, dai docenti dei predetti istituti che in essi ricoprono incarichi didattici, da due dirigenti scolastici o coordinatori didattici, designati dall'ufficio scolastico regionale tra i dirigenti scolastici o i coordinatori didattici delle istituzioni scolastiche che ospitano i tirocini, e da un rappresentante degli studenti tirocinanti; il presidente del consiglio di corso e' eletto tra i docenti delle istituzioni di alta formazione artistica, musicale e coreutica, il suo mandato dura tre anni ed e' rinnovabile una sola volta.
+
 Il consiglio di corso di tirocinio cura l'integrazione tra le attivita' di cui al comma 3, organizza i laboratori didattici disciplinari e i laboratori pedagogico-didattici e stabilisce le modalita' di collaborazione tra i tutor dei tirocinanti, i tutor coordinatori e i docenti universitari o delle istituzioni dell'alta formazione artistica, musicale e coreutica.
 
 L'attivita' di tirocinio nella scuola si conclude con la stesura da parte del tirocinante di una relazione del lavoro svolto in collaborazione con l'insegnante tutor che ne ha seguito l'attivita'.
 Della relazione finale di tirocinio e' relatore un docente universitario o delle istituzioni dell'alta formazione artistica, musicale e coreutica che ha svolto attivita' nel corso di tirocinio e correlatore l'insegnante tutor che ha seguito l'attivita' di tirocinio. La relazione consiste in un elaborato originale che, oltre all'esposizione delle attivita' svolte dal tirocinante, deve evidenziare la capacita' del medesimo di integrare ad un elevato livello culturale e scientifico le competenze acquisite nell'attivita' svolta in classe e le conoscenze in materia psico-pedagogica con le competenze acquisite nell'ambito della didattica disciplinare e, in particolar modo, nelle attivita' di laboratorio.
 
 La frequenza alle attivita' del tirocinio formativo attivo e' obbligatoria. L'accesso all'esame di abilitazione e' subordinato alla verifica della presenza ad almeno il 70% delle attivita' di cui al comma 3 lettere a), ad almeno l'80% delle attivita' di cui al comma 3 lettera b), ad almeno il 70% delle attivita' di cui al comma 3 lettera c) e ad almeno il 70% delle attivita' di cui al comma 3 lettera d).
+
+8.
+                    
+                        
+                            Al termine dell'anno di tirocinio si svolge l'esame di abilitazione all'insegnamento che ne costituisce parte integrante e che consiste: 
+ 
+                        
+                        
+                            a)
+                            
+                                nella valutazione dell'attivita' svolta durante il tirocinio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'esposizione orale di un percorso didattico su un tema scelto dalla commissione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella discussione della relazione finale di tirocinio.
+
+9.
+                    
+                        
+                            La commissione d'esame, nominata dalla competente autorita' accademica, e' composta: 
+ 
+                        
+                        
+                            a)
+                            
+                                nelle universita', da 3 docenti universitari che hanno svolto attivita' nel corso di tirocinio, da 2 tutor o tutor coordinatori, da un rappresentante designato dall'ufficio scolastico regionale ed e' presieduta da un docente universitario designato dalla facolta' di riferimento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nelle istituzioni di alta formazione artistica, musicale e coreutica da 3 docenti delle predette istituzioni che hanno svolto attivita' nel corso del tirocinio, da 2 tutor o tutor coordinatori, da un rappresentante designato dall'ufficio scolastico regionale ed e' presieduta da un docente delle istituzioni medesime designato dall'istituzione di riferimento.
 
 La commissione assegna fino a un massimo di 30 punti all'attivita' svolta durante il tirocinio; fino a un massimo di 30 punti alla prova di cui al comma 8 lettera b); fino a un massimo di 10 punti alla relazione finale di tirocinio. L'esame di tirocinio e' superato se il candidato consegue una votazione maggiore o uguale a 50/70.
 
@@ -139,7 +366,89 @@ La valutazione finale complessiva effettuata dalla commissione secondo le modali
 
 ## Art. 11. — Docenti tutor
 
+1.
+                    
+                        
+                            Per lo svolgimento delle attivita' di tirocinio le facolta' di riferimento si avvalgono di personale docente e dirigente in servizio nelle istituzioni scolastiche del sistema nazionale di istruzione. Ai predetti docenti sono affidati compiti tutoriali, in qualita' di: 
+ 
+                        
+                        
+                            a)
+                            
+                                tutor coordinatori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tutor dei tirocinanti.
+
+2.
+                    
+                        
+                            Ai tutor coordinatori e' affidato il compito di: 
+ 
+                        
+                        
+                            a)
+                            
+                                orientare e gestire i rapporti con i tutor assegnando gli studenti alle diverse classi e scuole e formalizzando il progetto di tirocinio dei singoli studenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvedere alla formazione del gruppo di studenti attraverso le attivita' di tirocinio indiretto e l'esame dei materiali di documentazione prodotti dagli studenti nelle attivita' di tirocinio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                supervisionare e valutare le attivita' del tirocinio diretto e indiretto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                seguire le relazioni finali per quanto riguarda le attivita' in classe.
+
 I tutor dei tirocinanti hanno il compito di orientare gli studenti rispetto agli assetti organizzativi e didattici della scuola e alle diverse attivita' e pratiche in classe, di accompagnare e monitorare l'inserimento in classe e la gestione diretta dei processi di insegnamento degli studenti tirocinanti. I docenti chiamati a svolgere i predetti compiti sono designati dai coordinatori didattici e dai dirigenti scolastici preposti alle scuole iscritte nell'elenco di cui all'articolo 12, tra i docenti in servizio con contratto a tempo indeterminato nelle medesime istituzioni e che ne abbiano fatto domanda.
+
+4.
+                    
+                        
+                            I corsi di laurea magistrale di cui all'articolo 6 si avvalgono altresi' di tutor organizzatori, cui e' assegnato il compito di: 
+ 
+                        
+                        
+                            a)
+                            
+                                organizzare e gestire i rapporti tra le universita', le istituzioni scolastiche e i relativi dirigenti scolastici; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestire tutte le attivita' amministrative legate ai distacchi dei tutor coordinatori, al rapporto con le scuole e con l'Ufficio scolastico regionale, al rapporto con gli studenti e alle attivita' di tirocinio in generale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                coordinare la distribuzione degli studenti nelle diverse scuole; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                assegnare ai tutor coordinatori, di anno in anno, il contingente di studenti da seguire nel percorso di tirocinio.
 
 Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze sono stabiliti i contingenti del personale della scuola necessario per lo svolgimento dei compiti tutoriali di cui ai commi 2 e 4 e la loro ripartizione tra le facolta' o le istituzioni dell'alta formazione artistica, musicale e coreutica di riferimento, nonche' i criteri di selezione degli aspiranti ai predetti compiti. Sulla base dei criteri di selezione stabiliti, e nei limiti dei contingenti ad esse assegnati, le facolta' di riferimento provvedono all'indizione ed allo svolgimento delle selezioni. La facolta' provvede all'affidamento dell'incarico tutoriale, che ha una durata massima di quattro anni, non e' consecutivamente rinnovabile ed e' prorogabile solo per un ulteriore anno. L'incarico e' soggetto a conferma annuale secondo quanto previsto al comma 7. Il suo svolgimento comporta, per i tutor coordinatori, un esonero parziale dall'insegnamento e, per i tutor organizzatori, l'esonero totale dall'insegnamento stesso.
 
@@ -151,11 +460,96 @@ La determinazione dei contingenti dei tutor coordinatori e organizzatori avviene
 
 I tutor coordinatori e i tutor organizzatori rispondono, nello svolgimento dei loro compiti, al consiglio di facolta'.
 
+7.
+                    
+                        
+                            Il consiglio di facolta' procede annualmente alla conferma o alla revoca dei tutor coordinatori e dei tutor organizzatori sulla base dei seguenti parametri: 
+ 
+                        
+                        
+                            a)
+                            
+                                conduzione dei gruppi di studenti e sostegno al loro percorso formativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gestione dei rapporti con le scuole e con gli insegnanti ospitanti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                gestione dei rapporti con l'istituzione universitaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                gestione dei casi a rischio.
+
 Il consiglio di facolta' puo' predisporre, per i tirocinanti, questionari di valutazione dell'esperienza svolta, i cui risultati sono utilizzati anche ai fini della conferma. I risultati delle elaborazioni dei dati raccolti con i questionari sono pubblici.
 
 ## Art. 12. — Elenco regionale delle istituzioni scolastiche accreditate
 
 Per lo svolgimento delle attivita' di tirocinio le universita' o le istituzioni dell'alta formazione artistica, musicale e coreutica stipulano apposite convenzioni con le istituzioni scolastiche, ivi compresi i centri provinciali per l'istruzione degli adulti di cui all'articolo 1 comma 632 della legge 27 dicembre 2006, n. 296, a tal fine accreditate secondo quanto previsto dal presente articolo.
+
+2.
+                    
+                        
+                            Ciascun Ufficio scolastico regionale predispone e aggiorna annualmente un elenco telematico delle istituzioni scolastiche del sistema nazionale di istruzione, accreditate ad accogliere i tirocinanti nei percorsi di cui all'articolo 3, comma 5, e agli articoli 6, 10, 13 e 14, avendo cura di evidenziare per ogni istituzione scolastica i seguenti dati: 
+ 
+                        
+                        
+                            a)
+                            
+                                elenco degli insegnanti con contratto a tempo indeterminato disponibili a svolgere il compito di tutor con il rispettivo curriculum vitae; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                piano di realizzazione e di inserimento nell'attivita' della scuola delle attivita' di tirocinio attivo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                eventuali precedenti esperienze di tirocinio; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                esistenza di dipartimenti disciplinari o pluridisciplinari attivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuale partecipazione dell'istituzione scolastica alle rilevazioni degli apprendimenti nazionali e, se campionata, a quelle internazionali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                presenza di laboratori attrezzati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                eventuali altri elementi che possono concorrere alla valorizzazione delle esperienze delle istituzioni scolastiche.
 
 I criteri per l'accreditamento sono stabiliti con decreto del Ministro dell'istruzione, dell'universita' e della ricerca.
 
@@ -184,6 +578,30 @@ Per garantire uniformita' tra i predetti corsi, le universita' si adeguano ai cr
 A conclusione del corso, al candidato che supera con esito favorevole l'esame finale e' rilasciato il certificato attestante le acquisite competenze per l'insegnamento di una disciplina non linguistica in lingua straniera.
 
 ## Art. 15. — Norme transitorie e finali
+
+1.
+                    
+                        
+                            Conseguono l'abilitazione per l'insegnamento nella scuola secondaria di primo e secondo grado, mediante il compimento del solo tirocinio formativo attivo di cui all'articolo 10: 
+ 
+                        
+                        
+                            a)
+                            
+                                coloro che alla data di entrata in vigore del presente regolamento sono in possesso dei requisiti previsti dal ((decreto del Ministro della pubblica istruzione 30 gennaio 1998, n. 39, e dal)) decreto del Ministro dell'istruzione, dell'universita' e della ricerca 9 febbraio 2005, n. 22, per l'accesso alle Scuole di specializzazione per l'insegnamento secondario e i possessori di laurea magistrale che, secondo l'allegato 2 al decreto del Ministro dell'universita' e della ricerca del 26 luglio 2007 e successive ((modificazioni)), e' corrispondente ad una delle lauree specialistiche cui fa riferimento il decreto del Ministro dell'istruzione, dell'universita' e della ricerca 9 febbraio 2005, n. 22. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                coloro che, alla data di entrata in vigore del presente decreto e sino all'attivazione dei percorsi formativi previsti dall'articolo 3, commi 2, lettera b), e 3, sono iscritti a uno dei percorsi finalizzati al conseguimento dei titoli di cui alla lettera a);
+                            
+                        
+                        
+                            c)
+                            
+                                per le classi di concorso A029 e A030, i soggetti in possesso del diploma rilasciato dagli istituti superiori di educazione fisica (ISEF) gia' valido per l'accesso all'insegnamento di educazione fisica.
 
 ((
 
@@ -232,6 +650,57 @@ Per essere ammesso alla prova orale il candidato deve conseguire una votazione m
 La prova orale, valutata in ventesimi, e' superata se il candidato riporta una votazione maggiore o uguale a 15/20. La prova e' organizzata tenendo conto delle specificita' delle varie classi di laurea. Nel caso di classi di abilitazione per l'insegnamento delle lingue moderne e' previsto che la prova si svolga in lingua straniera; nel caso di classi di abilitazione affidate al settore dell'alta formazione artistica, musicale e coreutica la prova orale puo' essere sostituita da una prova pratica.
 
 Il superamento della prova orale e' condizione imprescindibile per l'accesso al tirocinio formativo attivo.
+
+13.
+                    
+                        
+                            I punti riservati al servizio prestato, ai titoli di studio e alle pubblicazioni sono cosi' suddivisi: 
+ 
+                        
+                        
+                            a)
+                            
+                                servizio prestato nelle istituzioni del sistema nazionale dell'istruzione nella specifica classe di concorso o in altra classe di concorso che comprenda gli insegnamenti previsti nella classe di concorso per cui si concorre entro la data in cui e' bandita la selezione: 
+ i) 360 giorni: 4 punti; 
+ ii) da 361 a 540 giorni: 6 punti; 
+ iii) da 541 a 720 giorni: 8 punti; 
+ iv) da 721 giorni, 2 punti ogni ulteriori 180 giorni. Il servizio prestato per almeno 360 giorni vale a coprire 10 dei crediti formativi relativi all'articolo 10, comma 3, lettera b) e 9 dei crediti formativi relativi all'articolo 10, comma 3, lettere c) e d).
+Nel caso in cui i soggetti di cui al presente comma svolgano attivita' di insegnamento nelle istituzioni scolastiche del sistema nazionale dell'istruzione, le convenzioni di cui all'articolo 12, comma 1 sono stipulate con le istituzioni scolastiche ove essi prestano servizio, anche se non accreditate ai sensi del medesimo articolo , in modo da consentire l'effettivo svolgimento del tirocinio senza interrompere la predetta attivita'. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                titolo di dottore di ricerca in ambito inerente agli specifici contenuti disciplinari della relativa classe di abilitazione: 6 punti; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                attivita' di ricerca scientifica sulla base di rapporti a tempo determinato costituiti ai sensi dell'articolo 51, comma 6, della legge 27 dicembre 1997, n. 449 ovvero dell'articolo 1, comma 14, della legge 4 novembre 2005, n. 230 svolta per almeno due anni, anche non consecutivi, in ambito inerente agli specifici contenuti disciplinari della relativa classe di abilitazione: 4 punti. Salvo che lo impedisca l'adempimento dei rispettivi obblighi contrattuali, i predetti soggetti possono frequentare il tirocinio formativo attivo senza interrompere o sospendere il rapporto con l'istituzione di appartenenza e anche in assenza di preventiva autorizzazione della stessa.; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                valutazione del percorso di studi e della media degli esami di profitto della laurea magistrale, specialistica o di vecchio ordinamento, ovvero del diploma accademico di II livello, per un massimo di 4 punti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                votazione della tesi di laurea magistrale, specialistica o di vecchio ordinamento, ovvero del diploma accademico di II livello, per un massimo di 4 punti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                pubblicazioni o altri titoli di studio strettamente inerenti ai contenuti disciplinari della classe di abilitazione, questi ultimi di durata non inferiore a 60 crediti formativi universitari, per un massimo di 4 punti.
 
 La graduatoria degli ammessi al tirocinio formativo attivo e' formata sommando, ai punteggi conseguiti dai candidati che hanno superato il test preliminare, la prova scritta e la prova orale con votazioni maggiore o uguale a 21/30 per il test, maggiore o uguale a 21/30 per la prova scritta e maggiore o uguale a 15/20 per la prova orale, il punteggio attribuito all'esito della valutazione dei titoli dai medesimi presentati. In caso di parita' di punteggio, prevale il candidato che abbia una maggiore anzianita' di servizio nelle istituzioni scolastiche ovvero, nel caso si tratti di candidati che non abbiano svolto servizio, prevale il candidato piu' giovane.
 

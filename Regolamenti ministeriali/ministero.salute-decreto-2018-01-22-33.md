@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-02-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -124,6 +124,26 @@ In base all'allegato al presente decreto e su istanza dell'impresa interessata, 
 ((8-bis. L'allegato al presente decreto non si applica nella fase transitoria di cui ai commi da 1 a 5. Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base dei medesimi commi da 1 a 5))
 
 ## Art. 8. — Misure transitorie concernenti i PFnPE
+
+1.
+                    
+                        
+                            I prodotti fitosanitari che, alla data di entrata in vigore del presente decreto, risultano autorizzati in formulazione, confezionamento o taglia adeguati per l'utilizzo in ambito non professionale e che non ricadono nelle previsioni del decreto del Presidente della Repubblica n. 290/2001, articolo 25, comma 1, sono provvisoriamente consentiti per l'uso non professionale, nella categoria dei PFnPE: 
+ 
+                        
+                        
+                            a)
+                            
+                                per 6 mesi dalla data di entrata in vigore del presente decreto, se in formulazione da utilizzare dopo aggiunta di acqua e in confezione monodose o multidose contenente una quantita' complessiva di formulato compresa tra 500 (cinquecento) e 1000 (mille) millilitri o grammi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((per 42 mesi)) dalla data di entrata in vigore del presente decreto, se pronti all'uso, oppure se in formulazione da utilizzare dopo aggiunta di acqua e in confezione monodose o multidose contenente una quantita' complessiva di formulato non superiore a 500 (cinquecento) millilitri o grammi. 
+ L'etichetta e' modificata con l'inserimento della dicitura «Prodotto fitosanitario destinato agli utilizzatori non professionali con validita' fino al (termine definito secondo i criteri indicati alla lettera a) o alla lettera b) del presente comma)» e l'aggiunta della sigla PFnPE dopo il nome commerciale.
 
 Se i prodotti di cui al comma 1 risultano autorizzati con data di scadenza antecedente il termine previsto secondo i criteri di cui alle lettere a) o b) del suddetto comma, tale data e' inserita in etichetta, nella prevista dicitura.
 

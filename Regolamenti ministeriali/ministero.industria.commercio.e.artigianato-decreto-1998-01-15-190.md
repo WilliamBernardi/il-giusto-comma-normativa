@@ -8,8 +8,8 @@ codice_redazionale: 098G0238
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,38 @@ E DELLA PREVIDENZA SOCIALE
 Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 17 aprile 1997;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            Per la costruzione degli apparecchi a pressione assoggettati alla disciplina in materia di prevenzione contro gli infortuni ai sensi del regio decreto 12 maggio 1927, n. 824, e sue successive modifiche ed integrazioni, le specificazioni tecniche applicative del decreto ministeriale 21 novembre 1972 denominate "Raccolta VSR, Raccolta VSG, Raccolta M, Raccolta S" vengono sostituite dalle allegate specificazioni tecniche: 
+ 
+                        
+                        
+                            a)
+                            
+                                "Raccolta VSR-revisione 1995" per la verifica della stabilita' dei recipienti a pressione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "Raccolta VSG-revisione 1995" per la verifica della stabilita' dei generatori di vapor d'acqua; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "Raccolta M-revisione 1995" per l'impiego dei materiali nella costruzione e riparazione degli apparecchi a pressione e sistemi in pressione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ''Raccolta S - revisione 1995'' per l'impiego della saldatura nella costruzione e riparazione degli apparecchi a pressione e sistemi di pressione;
 
 Le suddette specificazioni tecniche sono pubblicate a cura dell'Istituto superiore per la prevenzione e la sicurezza del lavoro (ISPESL).
 

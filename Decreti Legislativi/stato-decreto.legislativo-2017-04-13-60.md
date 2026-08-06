@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -50,6 +50,38 @@ La progettualita' delle istituzioni scolastiche, espressa nel Piano triennale de
 
 I «temi della creativita'»
 
+1.
+                        
+                            
+                                La progettazione delle istituzioni scolastiche si avvale della sinergia tra i linguaggi artistici e tra questi e le nuove tecnologie, nonche' delle esperienze di ricerca e innovazione, valorizzando le capacita' intertestuali e il pensiero critico. Essa si realizza nell'ambito delle componenti del curricolo, anche verticale, denominate «temi della creativita'», che riguardano le seguenti aree: 
+ 
+                            
+                            
+                                a)
+                                
+                                    musicale-coreutico, tramite la conoscenza storico-critica della musica, la pratica musicale, nella piu' ampia accezione della pratica dello strumento e del canto, la danza e tramite la fruizione consapevole delle suddette arti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    teatrale-performativo, tramite la conoscenza storico-critica e la pratica dell'arte teatrale o cinematografica o di altre forme di spettacolo artistico-performativo e tramite la fruizione consapevole delle suddette arti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    artistico-visivo, tramite la conoscenza della storia dell'arte e la pratica della pittura, della scultura, della grafica, delle arti decorative, del design o di altre forme espressive, anche connesse con l'artigianato artistico e con le produzioni creative italiane di qualita' e tramite la fruizione consapevole delle espressioni artistiche e visive; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    linguistico-creativo, tramite il rafforzamento delle competenze logico-linguistiche e argomentative e la conoscenza e la pratica della scrittura creativa, della poesia e di altre forme simili di espressione, della lingua italiana, delle sue radici classiche, delle lingue e dei dialetti parlati in Italia.
+
 ## - Capo II Organizzazione per la promozione della cultura umanistica, della  conoscenza del patrimonio artistico e della creativita'
 
 ## Art. 4.
@@ -64,6 +96,73 @@ Fanno parte del sistema di cui al comma 1 anche altri soggetti pubblici e privat
 
 ). Il Piano e' adottato, con cadenza triennale, anche valutate le proposte dei soggetti del sistema di cui all'articolo 4, e' attuato in collaborazione con questi ultimi e prevede azioni di monitoraggio sulla relativa attuazione.
 
+2.
+                        
+                            
+                                Il Piano delle arti reca le seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sostegno alle istituzioni scolastiche e alle reti di scuole, per realizzare un modello organizzativo flessibile e innovativo, quale laboratorio permanente di conoscenza, pratica, ricerca e sperimentazione del sapere artistico e dell'espressione creativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    supporto alla diffusione, nel primo ciclo di istruzione, dei poli a orientamento artistico e performativo, di cui all'articolo 11 del presente decreto, e, nel secondo ciclo, di reti di scuole impegnate nella realizzazione dei «temi della creativita'»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sviluppo delle pratiche didattiche dirette a favorire l'apprendimento di tutti gli alunni e le alunne e di tutti gli studenti e le studentesse, valorizzando le differenti attitudini di ciascuno anche nel riconoscimento dei talenti attraverso una didattica orientativa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promozione da parte delle istituzioni scolastiche, delle reti di scuole, dei poli a orientamento artistico e performativo, di partenariati con i soggetti di cui all'articolo 4, per la co-progettazione e lo sviluppo dei temi della creativita' e per la condivisione di risorse laboratoriali, strumentali e professionali anche nell'ambito di accordi quadro preventivamente stipulati dal Ministero dell'istruzione, dell'universita' e della ricerca, nonche' dal Ministero dei beni e delle attivita' culturali e del turismo, di concerto con il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    promozione della partecipazione delle alunne e degli alunni e delle studentesse e degli studenti a percorsi di conoscenza del patrimonio culturale e ambientale dell'Italia e delle opere di ingegno di qualita' del Made in Italy; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    potenziamento delle competenze pratiche e storico-critiche, relative alla musica, alle arti, al patrimonio culturale, al cinema, alle tecniche e ai media di produzione e di diffusione delle immagini e dei suoni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    potenziamento delle conoscenze storiche, storico-artistiche, archeologiche, filosofiche e linguistico-letterarie relative alle civilta' e culture dell'antichita'; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    agevolazioni per la fruizione, da parte delle alunne e degli alunni e delle studentesse e degli studenti, di musei e altri istituti e luoghi della cultura, mostre, esposizioni, concerti, spettacoli e performance teatrali e coreutiche; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    incentivazione di tirocini e stage artistici di studentesse e studenti all'estero e promozione internazionale di giovani talenti, attraverso progetti e scambi tra istituzioni formative artistiche italiane e straniere, con particolare riferimento ai licei musicali, coreutici e artistici.
+
 ## Art. 6. — Collaborazione con INDIRE
 
 Il Ministero dell'istruzione, dell'universita' e della ricerca si avvale, senza ulteriori oneri, anche dell'INDIRE per lo svolgimento delle seguenti attivita' riguardanti i temi della creativita': 
@@ -74,6 +173,59 @@ Il Ministero dell'istruzione, dell'universita' e della ricerca si avvale, senza 
  5) diffusione delle buone pratiche piu' efficaci al fine del conseguimento, da parte delle studentesse e degli studenti, di abilita', conoscenze e competenze relative ai temi della creativita'.
 
 ## Art. 7. — Reti di scuole
+
+1.
+                        
+                            
+                                Le istituzioni scolastiche possono costituire reti di scuole per lo svolgimento delle seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinamento delle progettualita' relative alla realizzazione dei temi della creativita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valorizzazione delle professionalita' del personale docente, sia nell'ambito delle conoscenze e delle competenze artistiche e artigianali, sia nell'ambito dell'utilizzo di metodologie didattiche innovative e laboratoriali, anche mediante appositi piani di formazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    condivisione delle risorse strumentali e dei laboratori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    stipula di accordi e partenariati con i soggetti indicati all'articolo 4 per lo svolgimento dei temi della creativita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    organizzazione di eventi, spazi creativi ed esposizioni per far conoscere le opere degli studenti, anche mediante apposite convenzioni con musei e altri istituti e luoghi della cultura; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    promozione di iniziative mirate a valorizzare le radici culturali del territorio, con particolare riguardo al patrimonio culturale e ai luoghi delle produzioni artistiche e artigianali italiane di qualita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    attivazione di percorsi comuni per ampliare l'utilizzo delle tecnologie, del digitale e del multimediale nella produzione artistica e musicale in coerenza con il Piano nazionale scuola digitale (PNSD) di cui all'articolo 1, comma 56, della legge 13 luglio 2015, n. 107.
 
 ## Art. 8. — Sistema formativo delle arti e competenze 
  del personale docente
@@ -108,6 +260,38 @@ Ai poli, quali capofila di una rete, possono far riferimento le scuole di ogni g
 
 Per assicurare la presenza delle necessarie risorse umane e strumentali, le istituzioni scolastiche del primo ciclo di altri ambiti territoriali possono partecipare ai poli.
 
+4.
+                        
+                            
+                                Ai fini del primo avvio dei poli, entro centottanta giorni dalla data di entrata in vigore del presente decreto, il Ministro dell'istruzione, dell'universita' e della ricerca definisce con proprio decreto, sentito il Ministro dei beni e delle attivita' culturali e del turismo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri per la costituzione dei poli; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le finalita' formative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i modelli organizzativi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i criteri per la valutazione delle attivita' espletate dalle istituzioni scolastiche, con particolare riguardo alle innovazioni metodologiche e curricolari.
+
 Le istituzioni scolastiche costituite in poli sono destinatarie di specifiche misure finanziarie per lo sviluppo dei temi della creativita', previste dal Piano delle arti di cui all'articolo 5, nei limiti della dotazione finanziaria del Fondo di cui all'articolo 17 del presente decreto.
 
 ## Art. 12. — Scuole secondarie di primo grado 
@@ -116,6 +300,31 @@ Le istituzioni scolastiche costituite in poli sono destinatarie di specifiche mi
 Ogni istituzione scolastica secondaria di primo grado puo' attivare, nell'ambito delle ordinarie sezioni, percorsi a indirizzo musicale, prioritariamente per gruppi di studentesse e studenti, in coerenza con il Piano triennale dell'offerta formativa.
 
 Al fine di garantire la progressiva attuazione del comma 1 e il riequilibrio territoriale, sono utilizzate le risorse del contingente dei posti attualmente gia' destinati ai corsi a indirizzo musicale e l'organico del potenziamento.
+
+3.
+                        
+                            
+                                Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con il Ministro dell'economia e delle finanze, adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto, sono definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le indicazioni nazionali per l'inserimento dell'insegnamento dello strumento musicale, in coerenza con le indicazioni relative all'insegnamento della disciplina della musica, tenuto anche conto delle competenze richieste per l'accesso ai licei musicali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli orari; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri per il monitoraggio dei percorsi a indirizzo musicale.
 
 ## - Capo IV Promozione dell'arte nel secondo ciclo ed armonizzazione dei percorsi  formativi della filiera artistico-musicale
 
@@ -148,6 +357,45 @@ La formazione musicale di base e' assicurata entro gli ordinamenti del sistema n
 Con il decreto ministeriale di cui al comma 4 sono definiti i requisiti formativi per l'accesso ai licei musicali e coreutici - sezione musicale.
 
 Gli istituti superiori di studi musicali e coreutici di cui all'articolo 2, comma 2, della legge 21 dicembre 1999, n. 508 e gli istituiti di cui all'articolo 11 del decreto del Presidente della Repubblica n. 212 del 2005, limitatamente ai corsi attivati e autorizzati con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, organizzano corsi propedeutici nell'ambito della formazione ricorrente e permanente, in coerenza con quanto previsto dagli articoli 4, comma 2, 7, comma 2, 10, comma 4, lettera g), del decreto del Presidente della Repubblica n. 212 del 2005. I suddetti corsi sono finalizzati alla preparazione alle prove per l'accesso ai corsi di studio accademici di primo livello.
+
+4.
+                        
+                            
+                                I corsi propedeutici sono organizzati dalle istituzioni di cui al comma 3 in autonomia e nei limiti delle risorse disponibili. Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, da emanarsi entro sei mesi dalla data di entrata in vigore del presente decreto, sentito il Consiglio nazionale per l'alta formazione artistica e musicale, previa intesa in sede di Conferenza unificata, sono definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti di accesso per ciascuna tipologia di corso propedeutico, che devono tenere conto del talento musicale della studentessa e dello studente e del possesso di un livello tecnico comunque avanzato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di attivazione e la durata massima dei corsi propedeutici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri generali per la stipula di convenzioni con scuole secondarie di secondo grado, a eccezione dei licei musicali, per l'accesso ai corsi propedeutici delle loro studentesse e dei loro studenti e per la definizione del sistema dei crediti formativi riconoscibili; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la certificazione finale da rilasciare al termine dei corsi propedeutici, illustrativa del curriculo svolto e dei risultati formativi ottenuti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i requisiti tecnici, le conoscenze teoriche e i livelli minimi delle abilita' strumentali e dei repertori specifici, necessari per accedere ai corsi accademici di primo livello dell'offerta dell'alta formazione artistica, musicale e coreutica.
 
 A decorrere dall'anno accademico successivo alla data di entrata in vigore del decreto ministeriale di cui al comma 4, gli istituti superiori di studi musicali, ferma restando la possibilita' di svolgere in autonomia e in base alle risorse disponibili attivita' non curricolari nell'ambito della formazione ricorrente e permanente, possono iscrivere studentesse e studenti esclusivamente ai corsi previsti dal regolamento di cui al decreto del Presidente della Repubblica n. 212 del 2005 e ai corsi propedeutici di cui al comma 3.
 Le studentesse e gli studenti, gia' iscritti ai corsi di formazione musicale e coreutica di base o pre accademici, di cui all'articolo 2, comma 8, lettera d), della legge n. 508 del 1999, organizzati dalle istituzioni AFAM, completano i loro corsi, ovvero a domanda, all'atto di emanazione del decreto di cui al comma 4, sono assegnati ai corsi propedeutici, a condizione che siano in possesso dei requisiti di accesso previsti dal decreto di cui al comma 4, senza nuovi o maggiori oneri a carico della finanza pubblica.

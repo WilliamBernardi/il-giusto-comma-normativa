@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2024-12-09;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -28,12 +28,104 @@ Sulla proposta dell'Agenzia per la cybersicurezza nazionale;
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «decreto NIS»: il decreto legislativo del 4 settembre 2024, n. 138; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «Agenzia»: l'Agenzia per la cybersicurezza nazionale di cui all'articolo 5, comma 1, del decreto-legge 14 giugno 2021, n. 82, convertito, con modificazioni, dalla legge 4 agosto 2021, n. 109; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «Autorita' nazionale competente NIS»: l'Autorita' nazionale competente di cui all'articolo 10, comma 1, del decreto NIS; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «Autorita' di settore NIS»: le amministrazioni di cui all'articolo 11, commi 1 e 2, del decreto NIS; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «soggetto»: un soggetto pubblico o privato che richiede l'applicazione della clausola di salvaguardia ai sensi dell'articolo 3, comma 4, del decreto NIS; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «impresa collegata»: un soggetto che soddisfa i criteri di cui all'articolo 3, paragrafi 2 e 3, della raccomandazione 2003/361/CE, o che fa parte di un gruppo di imprese; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «gruppo di imprese»: ai sensi dell'articolo 2, comma 1, lettera h), del codice della crisi d'impresa e dell'insolvenza, di cui al decreto legislativo 12 gennaio 2019, n. 14, l'insieme delle societa', delle imprese e degli enti, esclusi lo Stato e gli enti territoriali, che, ai sensi degli articoli 2497 e 2545-septies del codice civile, esercitano o sono sottoposti alla direzione e coordinamento di una societa', di un ente o di una persona fisica; a tal fine si presume, salvo prova contraria, che l'attivita' di direzione e coordinamento delle societa' del gruppo sia esercitata dalla societa' o ente tenuto al consolidamento dei loro bilanci oppure dalla societa' o ente che le controlla, direttamente o indirettamente, anche nei casi di controllo congiunto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «clausola di salvaguardia»: la clausola di cui all'articolo 3, commi 4 e 12, del decreto NIS; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «attivita' e servizi NIS»: le attivita' e i servizi che rientrano nell'ambito di applicazione del decreto NIS per i quali il soggetto richiede l'applicazione della clausola di salvaguardia; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «sistemi informativi e di rete NIS»: i sistemi informativi e di rete che abilitano attivita' e servizi NIS.
+
 ## Art. 2. — Oggetto
 
 Il presente regolamento, adottato ai sensi dell'articolo 40, comma 1, lettera a), del decreto NIS, definisce i criteri per l'applicazione della clausola di salvaguardia che, ai sensi dell'articolo 3, comma 4, del decreto NIS, consente di derogare all'applicazione dell'articolo 6, paragrafo 2, dell'allegato alla raccomandazione 2003/361/CE, e definisce il relativo procedimento per la sua applicazione.
 
 ## Art. 3. — Criteri per l'applicazione della clausola 
  di salvaguardia
+
+1.
+                    
+                        
+                            La richiesta di applicazione della clausola di salvaguardia puo' essere accolta qualora il soggetto dichiari congiuntamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                la totale indipendenza dei propri sistemi informativi e di rete NIS da quelli delle imprese collegate, nel senso che i sistemi informativi e di rete delle imprese collegate non contribuiscono in alcun modo al funzionamento dei sistemi informativi e di rete NIS del soggetto medesimo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la totale indipendenza delle proprie attivita' e servizi NIS da quelli delle imprese collegate, nel senso che le attivita' e i servizi delle imprese collegate non contribuiscono in alcun modo allo svolgimento delle attivita' e all'erogazione dei servizi NIS del soggetto medesimo.
 
 La clausola di salvaguardia non puo' essere richiesta dal soggetto a cui si applica la disciplina del decreto NIS ai sensi dell'articolo 3, comma 10, del medesimo decreto.
 

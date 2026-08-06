@@ -8,8 +8,8 @@ codice_redazionale: 001G0421
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -39,4 +39,29 @@ I consigli di cui al comma 3 provvedono ogni tre anni all'adeguamento delle inde
 Dall'attuazione del presente articolo non derivano nuovi o maggiori oneri a carico del bilancio dello Stato.
 
 ## Art. 2. — Abrogazioni
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 20, comma 4, della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente regolamento, sono abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 6 dell'articolo 3 della legge 1 agosto 1988, n. 340;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera e) del comma 1 dell'articolo 11 della legge 29 dicembre 1993, n. 580;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il decreto del Ministro dell'industria, del commercio e dell'artigianato 6 febbraio 1998, pubblicato nella Gazzetta Ufficiale n. 41 del 19 febbraio 1998.
 

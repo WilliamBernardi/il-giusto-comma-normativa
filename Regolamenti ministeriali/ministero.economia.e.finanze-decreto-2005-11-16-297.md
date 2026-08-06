@@ -8,8 +8,8 @@ codice_redazionale: 006G0039
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,6 +30,17 @@ Considerata la previsione dei tempi lunghi per la chiusura dei giudizi in corso 
 Considerata inoltre l'opportunita' di modificare il regolamento n. 238/1998 al fine di prevedere una periodicita' annuale del rendiconto sulla gestione speciale per allineare la scadenza a quella annuale dei piani triennali, prevista dall'articolo 1, comma 1, del decreto n. 41/2003;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            All'articolo 3 del regolamento n. 238/1998 e' apportata la seguente motivazione:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, la parola "semestrale" e' sostituita dalla parola "annuale".
 
 ## Art. 2.
 

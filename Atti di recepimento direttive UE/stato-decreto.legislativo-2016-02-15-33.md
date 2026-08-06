@@ -9,7 +9,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2023-02-25
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:50Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -29,6 +29,102 @@ Il presente decreto, in attuazione della direttiva 2014/61/UE, definisce norme v
 Stabilisce, inoltre, per le suddette finalita', requisiti minimi relativi alle opere civili e alle infrastrutture fisiche.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto legislativo si applicano le seguenti definizioni, ferme restando, e per quanto non espressamente previsto, le definizioni contenute nell'articolo 1 del Codice delle comunicazioni elettroniche di cui al decreto legislativo 1° agosto 2003, n. 259: 
+ 
+                        
+                        
+                            a)
+                            
+                                «rete pubblica di comunicazioni»: una rete di comunicazione elettronica utilizzata interamente o prevalentemente per fornire servizi di comunicazione elettronica accessibili al pubblico, che supporta il trasferimento di informazioni tra i punti terminali di reti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «operatore di rete»: un'impresa che e' autorizzata a fornire reti pubbliche di comunicazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «gestore di infrastruttura fisica»: un'impresa ovvero un ente pubblico o organismo di diritto pubblico che fornisce un'infrastruttura fisica destinata alla prestazione di: 
+ 1) un servizio di produzione, trasporto o distribuzione di: 
+ 1.1) gas; 
+ 1.2) elettricita', compresa l'illuminazione pubblica; 
+ 1.3) riscaldamento; 
+ 1.4) acqua, comprese le fognature e gli impianti di trattamento delle acque reflue, e sistemi di drenaggio; 
+ 2) servizi di trasporto, compresi ferrovie, strade, porti e aeroporti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «infrastruttura fisica»: tutti gli elementi di una rete destinati ad ospitare altri elementi di una rete senza che diventino essi stessi un elemento attivo della rete, quali ad esempio tubature, piloni, cavidotti, pozzi di ispezione, pozzetti, centraline, edifici o accessi a edifici, installazioni di antenne, tralicci e pali. I cavi, compresa la fibra inattiva, gli elementi di reti utilizzati per la fornitura delle acque destinate al consumo umano ai sensi dell'articolo 2, punto 1, della direttiva 98/83/CE del Consiglio, non costituiscono infrastrutture fisiche ai sensi del presente decreto; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «rete di comunicazione elettronica ad alta velocita'»: una rete di comunicazione elettronica capace di fornire servizi di accesso a banda larga ad una velocita' di almeno 30 Mbit/s; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «opere di genio civile»: il risultato di un insieme di lavori edilizi o di ingegneria civile che di per se' esplichi una funzione economica o tecnica e comporti uno o piu' elementi di un'infrastruttura fisica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «ente pubblico»: un'autorita' statale, regionale o locale, un organismo di diritto pubblico o un'associazione formata da una o piu' di tali autorita' oppure da uno o piu' di tali organismi di diritto pubblico; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «organismi di diritto pubblico»: gli organismi che hanno tutte le seguenti caratteristiche: 
+ 1) sono istituiti per soddisfare specificatamente esigenze di interesse generale, aventi carattere non industriale o commerciale; 
+ 2) sono dotati di personalita' giuridica e sono finanziati integralmente o per la maggior parte dallo Stato, dalle autorita' regionali o locali o da altri organismi di diritto pubblico; o la loro gestione e' posta sotto la vigilanza di tali autorita' o organismi; o il loro organo di amministrazione, di direzione o di vigilanza e' costituito da membri piu' della meta' dei quali e' designata dallo Stato, da autorita' regionali o locali o da altri organismi di diritto pubblico; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                «infrastruttura fisica interna all'edificio»: l'infrastruttura fisica o installazioni presenti nella sede dell'utente finale, compresi elementi oggetto di comproprieta', destinata a ospitare reti di accesso cablate e/o senza fili, se queste reti permettono di fornire servizi di comunicazione elettronica e di connettere il punto di accesso dell'edificio con il punto terminale di rete; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                «infrastruttura fisica interna all'edificio predisposta per l'alta velocita'»: l'infrastruttura fisica presente all'interno dell'edificio e destinata a ospitare elementi o consentire la fornitura di reti di comunicazione elettronica ad alta velocita'; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                «punto di accesso»: punto fisico situato all'interno o all'esterno dell'edificio e accessibile a imprese che sono autorizzate a fornire reti pubbliche di comunicazione, che consente la connessione con l'infrastruttura interna all'edificio predisposta per l'alta velocita'; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                «Sportello unico telematico»: interfaccia della banca dati contenente le informazioni minime relative all'esistenza di infrastrutture fisiche.
 
 ## Art. 3. — Accesso all'infrastruttura fisica esistente
 
@@ -60,6 +156,64 @@ Il Sistema informativo nazionale federato delle infrastrutture di cui al comma 1
 
 ))
 
+2.
+                    
+                        
+                            I gestori di infrastruttura fisica e gli operatori di rete, in caso di realizzazione, manutenzione straordinaria sostituzione o completamento della infrastruttura, hanno l'obbligo di comunicare i dati relativi all'apertura del cantiere, al SINFI, con un anticipo di almeno novanta giorni salvo si tratti di interventi emergenziali.
+Devono altresi' mettere a disposizione le seguenti informazioni minime riguardanti le opere di genio civile, in corso o programmate, relative alla loro infrastruttura fisica per le quali e' stata rilasciata un'autorizzazione, e' in corso una procedura di concessione dell'autorizzazione oppure si prevede di presentare per la prima volta una domanda di autorizzazione alle autorita' competenti entro i sei mesi successivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ubicazione e il tipo di opere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli elementi di rete interessati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la data prevista di inizio dei lavori e la loro durata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un punto di contatto.
+
+3.
+                    
+                        
+                            Il SINFI, quale sportello unico telematico pubblica tutte le informazioni utili relative alle condizioni e alle procedure applicabili al rilascio di autorizzazioni per le opere, anche di genio civile, necessarie ai fini dell'installazione di elementi di reti di comunicazione elettronica ad alta velocita'. Esso fornisce altresi' agli operatori di rete che vi abbiano interesse e che inoltrino domanda in via telematica, informazioni su: 
+ 
+                        
+                        
+                            a)
+                            
+                                ubicazione tracciato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tipo ed uso attuale dell'infrastruttura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                punto di contatto.
+
 Nelle more della piena operativita' del SINFI, e comunque sino al 1° gennaio 2017, gli operatori di rete possono rivolgersi, ai fini dell'ottenimento delle informazioni minime di cui al comma 3, direttamente ai gestori delle infrastrutture fisiche e agli operatori di rete.
 
 Gli operatori di rete hanno il diritto di accedere alla stesse informazioni minime di cui al comma 3, ove necessarie ai fini della richiesta di cui all'articolo 3, commi 2 e 3.
@@ -83,12 +237,69 @@ L'ente titolare o gestore della strada o autostrada, ferme restando le caratteri
 
 L'operatore e' tenuto a svolgere le attivita' di scavo e riempimento a regola d'arte in modo da non arrecare danno all'infrastruttura stradale o autostradale interessata dai lavori.
 
+2.
+                    
+                        
+                            Fermo restando quanto previsto dall'articolo 40 della legge 1° agosto 2002, n. 166, ogni gestore di infrastrutture fisiche e ogni operatore di rete che esegue direttamente o indirettamente opere di genio civile finanziate in tutto o in parte con risorse pubbliche deve soddisfare ogni ragionevole domanda di coordinamento di opere di genio civile, presentata da operatori di rete, secondo condizioni trasparenti e non discriminatorie. Tali domande sono soddisfatte a condizione che: 
+ 
+                        
+                        
+                            a)
+                            
+                                non implichino costi supplementari, ulteriori rispetto a quelli connessi all'installazione di elementi di reti di comunicazione elettronica ad alta velocita', inclusi quelli causati da ulteriori ritardi, per le opere di genio civile previste inizialmente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non impediscano il controllo del coordinamento dei lavori; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la domanda di coordinamento sia presentata al piu' presto e in ogni caso almeno un mese prima della presentazione del progetto definitivo alle autorita' competenti per il rilascio delle autorizzazioni.
+
 Se, entro un mese dalla data di ricezione della richiesta formale di negoziazione, non viene raggiunto un accordo sul coordinamento delle opere di genio civile a norma dei commi 1 e 2, ciascuna delle parti puo' rivolgersi all'Organismo di cui all'articolo 9 perche' emetta entro due mesi dalla data di ricezione della richiesta una decisione vincolante di composizione della controversia, anche in ordine a termini, condizioni e prezzi.
 
 Il Ministero dello sviluppo economico, sentita l'Autorita' per le garanzie nelle comunicazioni, l'Autorita' di regolazione dei trasporti e l'Autorita' per l'energia elettrica, il gas e il sistema idrico, con proprio decreto puo' prevedere esenzioni dagli obblighi di cui ai commi da 1 a 3 per opere di genio civile di modesta entita', in termini di valore, dimensioni o durata, ed in caso di infrastrutture critiche nazionali. Tali esenzioni devono essere debitamente motivate. Alle parti interessate e' offerta la possibilita' di esprimere osservazioni sullo schema di decreto ministeriale entro il termine di trenta giorni. Il decreto con l'indicazione delle esenzioni e' notificato alla Commissione Europea.
 
 ## Art. 6. — Trasparenza in materia di opere di genio civile 
  in corso di realizzazione o programmate
+
+1.
+                    
+                        
+                            Al fine di negoziare accordi sul coordinamento di opere di genio civile di cui all'articolo 5, su specifica richiesta scritta di un operatore di rete il proprietario o il gestore dell'infrastruttura fisica e l'operatore di rete mette a disposizione le seguenti informazioni minime riguardanti le opere di genio civile, in corso o programmate, relative alla infrastruttura fisica per le quali e' stata rilasciata un'autorizzazione, e' in corso una procedura di concessione dell'autorizzazione oppure si prevede di presentare per la prima volta una domanda di autorizzazione alle autorita' competenti entro i sei mesi successivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ubicazione e il tipo di opere; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli elementi di rete interessati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la data prevista di inizio dei lavori e la loro durata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un punto di contatto.
 
 La richiesta, presentata per iscritto dall'operatore di rete, specifica la zona in cui intende installare elementi di reti di comunicazione elettronica ad alta velocita'. I proprietari, i gestori dell'infrastruttura fisica e gli operatori di rete forniscono le informazioni richieste entro due settimane dalla data di ricevimento della richiesta scritta, secondo condizioni proporzionate, non discriminatorie e trasparenti. L'accesso alle informazioni minime e' limitato soltanto, e nella misura in cui, necessario per ragioni connesse alla sicurezza e all'integrita' delle reti, alla sicurezza nazionale, alla pubblica sicurezza o alla sanita' pubblica, alla riservatezza o a segreti tecnici e commerciali. Il Ministero dello sviluppo economico, sentita l'Autorita' per le garanzie nelle comunicazioni, l'Autorita' di regolazione dei trasporti e l'Autorita' per l'energia elettrica, il gas e il sistema idrico, con proprio decreto puo' prevedere esenzioni dagli obblighi che di cui al comma 1 per opere di genio civile di valore modesto o nel caso di infrastrutture critiche nazionali.
 

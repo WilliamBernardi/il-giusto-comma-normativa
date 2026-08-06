@@ -8,8 +8,8 @@ codice_redazionale: 096G0477
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -57,11 +57,83 @@ Gli enti devono garantire condizioni di costante diffusione dei certificati nei 
 
 ## Art. 7.
 
+1.
+                        
+                            
+                                Possono essere ammessi a quotazione i titoli emessi dagli enti in possesso dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    per i soggetti indicati nell'art. 1, comma 2, del decreto legislativo 25 febbraio 1995, n. 77, e per i consorzi a cui si applicano le norme degli enti locali, l'ultimo rendiconto della gestione, corredato della relazione di cui all'art. 73 del citato decreto n. 77/1995, deve essere certificato dall'organo di revisione economico-finanziaria con le modalita' di cui all'art. 105, comma 1, lettera d), dello stesso decreto legislativo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i consorzi tra enti locali territoriali aventi rilevanza economica e imprenditoriale, l'ultimo bilancio approvato deve essere certificato da una societa' di revisione iscritta all'albo di cui al decreto del Presidente della Repubblica 31 marzo 1975, n. 136.
+
+2.
+                        
+                            
+                                Per l'ammissione a quotazione i titoli devono avere i seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    libera trasferibilita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    idoneita' ad essere oggetto di liquidazione di borsa;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    essere emessi a fronte di un prestito il cui
+ammontare residuo sia non inferiore a cinque miliardi di lire;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    avere una sufficiente diffusione all'atto dell'ammissione alla quotazione, che si presume realizzata quando gli stessi siano ripartiti, per almeno il venticinque per cento dell'ammontare del prestito, tra un numero di obbligazionisti non inferiore a duecento.
+
 I titoli convertibili in azioni o con warrant possono essere ammessi a quotazione a condizione che le azioni attribuibili in conversione o quelle di compendio siano precedentemente o contestualmente ammesse alla quotazione ufficiale.
 
 La condizione di cui al comma 3 e' derogabile qualora l'ente si impegni a porre in essere una costante diffusione di informazioni relative alla societa' emittente le azioni di conversione o di compendio, in modo tale da consentire ai portatori di titoli una adeguata valutazione dell'investimento.
 
 ## Art. 8.
+
+1.
+                        
+                            
+                                La domanda di ammissione a quotazione, deliberata dallo stesso organo dell'ente che ha disposto l'emissione, deve:
+ - riferirsi a tutti i titoli della stessa emissione;
+ - contenere l'indicazione del numero dei sottoscrittori e del numero e valore dei titoli collocati;
+ - essere inoltrata alla CONSOB corredata della seguente documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    copia, dichiarata conforme all'originale dal legale rappresentante dell'ente, del provvedimento di emissione del prestito corredato degli allegati e contenente gli estremi delle autorizzazioni, approvazioni e iscrizioni prescritte dalle rispettive disposizioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fac-simile del titolo corredato della dichiarazione che e' emesso nella forma definitiva ed e' liberamente trasferibile.
 
 La CONSOB, entro venti giorni dal ricevimento, verifica la completezza della domanda e comunica senza indugio al richiedente l'esito di tale verifica indicando la documentazione eventualmente mancante. La domanda prende data dal giorno di presentazione ovvero, in caso di documentazione incompleta, da quello del completamento della documentazione di cui al comma 1, giorno di cui deve essere data comunicazione al richiedente.
 
@@ -105,6 +177,24 @@ Per i consorzi tra enti locali territoriali aventi rilevanza economica e imprend
 
 Gli enti devono informare il pubblico della mancata certificazione del rendiconto della gestione ovvero, nel caso di consorzi tra enti locali territoriali aventi rilevanza economica e imprenditoriale, del bilancio approvato. I medesimi devono altresi' informare il pubblico di tutti quei fatti che si verificano nella loro sfera di attivita' i quali, incidendo sulla continuita' e sulla regolarita' della gestione degli enti stessi, se resi pubblici possono influenzare sensibilmente il prezzo dei titoli quotati.
 
+2.
+                        
+                            
+                                Le informazioni di cui al comma 1 devono essere senza indugio comunicate alla CONSOB e messe a disposizione del pubblico mediante invio di un comunicato:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'organo competente di mercato, che lo mette immediatamente a disposizione del pubblico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ad almeno due agenzie di stampa.
+
 Ove il comunicato debba essere messo a disposizione del pubblico durante l'orario di svolgimento delle contrattazioni del mercato regolamentato in cui i titoli dell'ente sono ammessi alle negoziazioni, esso deve essere portato a conoscenza della CONSOB almeno quindici minuti prima della sua comunicazione al pubblico stesso.
 
 Successivamente alla messa a disposizione del pubblico del comunicato di cui ai commi precedenti, la CONSOB puo' richiedere all'ente la diffusione, con le modalita' di cui al comma 2, di una nota contenente informazioni supplementari.
@@ -121,6 +211,24 @@ I soggetti indicati nell'art. 1, comma 2, del decreto legislativo 25 febbraio 19
 
 I consorzi tra enti locali territoriali aventi rilevanza economica e imprenditoriale i cui titoli sono ammessi a quotazione devono mettere a disposizione del pubblico il bilancio.
 
+3.
+                        
+                            
+                                I documenti contabili di cui ai commi 1 e 2, devono essere messi a disposizione del pubblico mediante:
+ 
+                            
+                            
+                                a)
+                                
+                                    deposito di tutta la documentazione presso la sede dell'ente e presso l'organo competente di mercato, con l'obbligo di consegnarne copia a chiunque ne faccia richiesta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    diffusione di un comunicato attraverso almeno due agenzie di stampa recante notizia dell'avvenuto deposito della documentazione.
+
 ## Art. 17.
 
 La CONSOB, al solo fine di assicurare la regolarita' del mercato dei titoli e la corretta formazione del prezzo dei titoli negoziati, sentito il rappresentante legale dell'ente, puo' richiedere che gli enti rendano pubblici, nei modi e nei termini da essa stabiliti, dati e notizie relativi a fatti idonei ad incidere sulla continuita' e regolarita' della gestione degli enti stessi. La CONSOB, in caso di inottemperanza, sentito il Ministero dell'interno, puo' provvedervi direttamente.
@@ -130,6 +238,56 @@ La CONSOB, per le medesime finalita' indicate nel comma 1, puo' assumere informa
 ## Art. 18.
 
 La CONSOB puo' disporre la sospensione ovvero, sentito il Ministero dell'interno, la revoca dei titoli dalla quotazione allorche' accerti il venir meno anche di uno solo dei requisiti di ammissione previsti dall'art. 7.
+
+2.
+                        
+                            
+                                La CONSOB puo' altresi' disporre la sospensione o la revoca della quotazione dei titoli:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando lo richieda l'esigenza di tutela del pubblico risparmio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di prolungata carenza di negoziazione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di mancata certificazione, da parte dell'organo di revisione economico-finanziaria, dei rendiconti di due gestioni consecutive relativamente ai soggetti di cui all'art. 1, comma 2, del decreto legislativo 25 febbraio 1995, n. 77, e per i consorzi a cui si applicano le norme degli enti locali, ovvero in caso di mancata certificazione, da parte di una societa' di revisione iscritta all'albo di cui al decreto del Presidente della Repubblica 31 marzo 1975, n. 136, dei bilanci degli ultimi due esercizi relativamente ai consorzi tra enti locali territoriali aventi rilevanza economica e imprenditoriale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in altri casi di particolare gravita'.
+
+3.
+                        
+                            
+                                La CONSOB, sentito l'organo competente di mercato, puo' altresi' disporre, con provvedimento motivato, la sospensione o la revoca della quotazione dei titoli, tenuto in ogni caso conto dell'esigenza di tutela del pubblico risparmio:
+ 
+                            
+                            
+                                a)
+                                
+                                    se la regolarita' del mercato del titolo stesso non e' temporaneamente garantita o rischia di non esserlo ovvero se l'andamento irregolare del titolo sia indice di pericolo per il pubblico risparmio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se reputa che, a causa di altre circostanze particolari, non sia possibile mantenere un mercato normale e regolare per tale titolo.
 
 La sospensione dalla quotazione di un titolo non puo' avere durata superiore a diciotto mesi; decorso tale termine senza che siano venuti meno i motivi per l'adozione del provvedimento, la CONSOB delibera, sentito il Ministero dell'interno, la revoca dalla quotazione del titolo.
 

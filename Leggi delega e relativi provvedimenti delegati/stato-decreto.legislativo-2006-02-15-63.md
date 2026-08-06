@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2023-10-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:17Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,9 +31,148 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'ec
 
 Il presente decreto legislativo disciplina la carriera dirigenziale penitenziaria individuata dalla legge 27 luglio 2005, n. 154, e da' attuazione alla delega legislativa al Governo contenuta nella stessa legge.
 
+2.
+                        
+                            
+                                Ai fini del presente decreto legislativo, si intendono:
+ 
+                            
+                            
+                                a)
+                                
+                                    per legge, la legge 27 luglio 2005, n. 154;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per decreto, il presente decreto legislativo;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per Ministro, il Ministro della giustizia;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per Ministero, il Ministero della giustizia;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per Amministrazione, l'Amministrazione penitenziaria, in ogni sua articolazione, centrale e territoriale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per funzionari, il personale appartenente alla nuova carriera dirigenziale penitenziaria;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per carriera, la nuova carriera dirigenziale penitenziaria disciplinata dal presente decreto;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per Dipartimento, il Dipartimento dell'Amministrazione penitenziaria.
+
 ## Art. 2. — Funzioni dirigenziali
 
 La carriera dirigenziale penitenziaria e' unitaria in ragione dei compiti di esecuzione penale attribuite ai funzionari. Lo svolgimento della carriera e' regolato dal presente decreto, e sussidiariamente ed in quanto compatibili, dal decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, e successive modificazioni.
+
+2.
+                        
+                            
+                                I funzionari esercitano, secondo la qualifica ricoperta, i compiti e le funzioni di seguito indicati:
+ 
+                            
+                            
+                                a)
+                                
+                                    direzione delle articolazioni centrali e territoriali dell'Amministrazione penitenziaria; direzione dell'Istituto superiore di studi penitenziari, degli istituti penitenziari, degli ospedali psichiatrici giudiziari, degli uffici locali di esecuzione penale esterna, delle scuole di formazione e di aggiornamento del personale penitenziario;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' di rappresentanza, nell'adempimento degli incarichi indicati sub a), dell'Amministrazione penitenziaria anche a livello territoriale, nonche' attivita' di riferimento, per gli affari di natura penitenziaria, per gli uffici giudiziari, per gli organismi statali e gli enti locali, nonche', per gli aspetti e profili relativi alla sicurezza, per gli uffici territoriali del Governo (prefetture) e per le forze dell'ordine;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coordinamento e trattazione delle attivita' di livello internazionale per i settori di competenza dell'Amministrazione penitenziaria; connessi rapporti con il Ministero degli affari esteri e del competente ufficio di diretta collaborazione con il Ministro;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' finalizzate a garantire il regolare funzionamento delle strutture penitenziarie, allo scopo in particolare di:
+ 1) assicurare che il trattamento penitenziario previsto dalla legge 25 luglio 1975, n. 354, e successive modificazioni, costituisca permanente obiettivo per tutte le professionalita' impegnate negli istituti penitenziari;
+ 2) salvaguardare costantemente, negli istituti penitenziari, le condizioni di ordine e disciplina, nel pieno rispetto della dignita' della persona, e per il soddisfacimento delle esigenze di sicurezza della collettivita';
+ 3) garantire la tutela della salute delle persone detenute ed internate, anche attraverso l'integrazione con i servizi sanitari del territorio;
+ 4) sviluppare iniziative volte al sostegno dei soggetti ammessi a misure alternative all'esecuzione penale in carcere e, comunque, di coloro nei cui confronti siano stati adottati, da parte dell'autorita' giudiziaria, provvedimenti limitativi della liberta' personale che debbano essere eseguiti fuori dagli istituti penitenziari;
+ 5) garantire il trattamento dei soggetti in esecuzione penale esterna, coordinandosi con le istituzioni, i servizi e gli organismi interessati presenti nel territorio di competenza;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivita' finalizzate all'accrescimento delle professionalita' operanti in ambiente penitenziario e di quanti siano autorizzati a prestare opera, anche a titolo gratuito e volontario, nel medesimo contesto;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' di controllo e verifica dei risultati e degli obiettivi conseguiti nell'adempimento dei compiti dei dirigenti penitenziari e del personale operante nelle strutture penitenziarie;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    con riferimento agli incarichi di dirigente responsabile degli istituti ed uffici interessati, attivita' di coordinamento e di indirizzo del personale di polizia penitenziaria operante nelle medesime articolazioni;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    attivita' di coordinamento delle diverse aree funzionali, comunque denominate e qualunque ne sia la specifica competenza tecnica ed operativa, operanti negli uffici centrali e periferici, negli istituti penitenziari, negli uffici locali di esecuzione penale esterna, negli ospedali psichiatrici giudiziari, nelle scuole di formazione ed aggiornamento;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    attivita' di studio, ricerca e produzione di documentazioni comunque utili al miglioramento dei servizi penitenziari ed all'innalzamento qualitativo dell'attivita' prestata negli ambienti penitenziari;
+
+                                
+                            
+                            
+                                j)
+                                
+                                    attivita' di diretta collaborazione con i capi degli uffici, degli istituti penitenziari, delle scuole di formazione, degli ospedali psichiatrici giudiziari, degli uffici locali di esecuzione penale esterna.
 
 ## Art. 3. — Ruoli e qualifiche
 
@@ -75,6 +214,31 @@ Salvo che si tratti di personale appartenente ai ruoli dell'Amministrazione, nel
 
 La formazione e l'aggiornamento professionale dei funzionari sono assunti dall'Amministrazione, per la durata dell'intera carriera, come metodo permanente teso ad assicurare il costante adeguamento delle competenze manageriali allo sviluppo del contesto culturale, tecnologico e organizzativo di riferimento e a favorire il consolidarsi di una cultura di gestione orientata al risultato e all'innovazione.
 
+2.
+                        
+                            
+                                Per le finalita' di cui al comma 1 sono previsti:
+ 
+                            
+                            
+                                a)
+                                
+                                    la formazione iniziale di durata di diciotto mesi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corsi obbligatori di formazione permanente su tematiche di interesse dell'Amministrazione da tenersi almeno ogni due anni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    iniziative di aggiornamento e formazione per i dirigenti generali penitenziari su tematiche di specifico interesse professionale.
+
 Le attivita' formative dei funzionari sono effettuate a cura dell'Istituto superiore di studi penitenziari.
 
 L'Amministrazione promuove e programma anche lo sviluppo di percorsi di formazione presso le scuole delle altre amministrazioni statali, nonche' presso soggetti pubblici e privati, e puo' inviare, con trattamento di missione, funzionari a seguire studi in particolari materie in Italia o presso amministrazioni ed istituzioni dei Paesi dell'Unione europea ed organizzazioni internazionali, compatibilmente con le esigenze organizzative e nei limiti delle disponibilita' di bilancio.
@@ -95,6 +259,38 @@ La nomina a dirigente generale penitenziario puo' essere conferita ai funzionari
 
 Ai sensi dell'articolo 4 del decreto legislativo 30 luglio 1999, n. 300, in materia di organizzazione dei Ministeri, i posti di funzione che possono essere conferiti ai dirigenti penitenziari ed ai dirigenti con incarichi superiori, nell'ambito degli uffici centrali e degli uffici territoriali dell'Amministrazione, sono individuati con decreto del Ministro, emanato ai sensi dell'articolo 17, comma 4-bis, lettera e), della legge 23 agosto 1988, n. 400, nei limiti delle dotazioni organiche individuate dalla tabella A.
 
+2.
+                        
+                            
+                                Con lo stesso decreto, e' definita la diversa rilevanza degli uffici centrali e territoriali di livello dirigenziale non generale, tenendo conto:
+ 
+                            
+                            
+                                a)
+                                
+                                    del numero dei detenuti, dei condannati presi in carico o degli internati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del personale assegnato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    della misura delle risorse materiali gestite;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    della complessita' di gestione.
+
 Alla rideterminazione dei posti di funzione per sopravvenute esigenze organizzative e funzionali, si provvede con decreto del Ministro ai sensi del comma 1, nel rispetto dei criteri di cui al comma 2.
 
 Negli uffici individuati ai sensi del comma 1, la provvisoria sostituzione del titolare, in caso di impedimento o assenza, e' assicurata da altro funzionario dello stesso ruolo.
@@ -106,6 +302,49 @@ Nei limiti della dotazione organica, possono essere conferiti ai dirigenti gener
 Gli incarichi sono conferiti ai dirigenti penitenziari per un periodo di tempo non inferiore a tre anni e non superiore a cinque anni.
 
 Lo stesso incarico puo' essere rinnovato una volta sola, per non oltre cinque anni.
+
+3.
+                        
+                            
+                                Il conferimento degli incarichi si compie in applicazione dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    risultati conseguiti nei programmi e negli obiettivi precedentemente assegnati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attitudini e capacita' professionali del funzionario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    natura e caratteristica degli obiettivi da conseguire.
+
+4.
+                        
+                            
+                                Gli incarichi possono essere revocati:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando, per qualsiasi causa, anche senza colpa, i funzionari non possano svolgere efficacemente il loro incarico nella sede che occupano;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando i funzionari non abbiano raggiunto gli obiettivi assegnati.
 
 Con decreto del Capo del Dipartimento sono fissate le procedure di comunicazione dei posti disponibili, al fine di consentire ai funzionari di manifestare la disponibilita' ad assumerli, ferma restando l'autonomia decisionale dell'Amministrazione.
 
@@ -145,6 +384,31 @@ Ai fini del conferimento degli incarichi superiori di cui all'articolo 7, con de
 La partecipazione alla commissione non da' luogo alla corresponsione di compensi, indennita', emolumenti o rimborsi spese.
 
 ## Art. 15. — Trattamento economico
+
+1.
+                        
+                            
+                                La struttura del trattamento economico onnicomprensivo dei funzionari e' articolata nelle seguenti componenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    stipendio tabellare e indennita' integrativa speciale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    retribuzione di posizione, parte fissa e parte variabile correlata alle posizioni funzionali ricoperte, agli incarichi ed alle responsabilita' esercitate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    retribuzione di risultato, in relazione ai risultati conseguiti rispetto agli obiettivi fissati ed alle risorse assegnate.
 
 Il trattamento economico di cui al comma 1 remunera tutte le funzioni riconducibili ai compiti e ai doveri d'ufficio attribuite ai funzionari.
 
@@ -191,6 +455,67 @@ Nei casi in cui le disposizioni generali sul pubblico impiego rinviano per il pe
 Il procedimento negoziale intercorre tra una delegazione di parte pubblica composta dal Ministro per la funzione pubblica, che la presiede, e dai Ministri della giustizia e dell'economia e delle finanze, o dai Sottosegretari di Stato rispettivamente delegati, ed una delegazione delle organizzazioni sindacali rappresentative dei funzionari individuate con decreto del Ministro per la funzione pubblica secondo i criteri generali in materia di rappresentativita' sindacale stabiliti per il pubblico impiego avuto riguardo al solo dato associativo.
 
 ## Art. 22. — Materie di negoziazione
+
+1.
+                        
+                            
+                                Formano oggetto del procedimento negoziale:
+ 
+                            
+                            
+                                a)
+                                
+                                    il trattamento economico fondamentale ed accessorio, secondo parametri appositamente definiti in tale sede che ne assicurino, nell'ambito delle risorse finanziarie disponibili, sviluppi omogenei e proporzionati, rapportati alla figura apicale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'orario di lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il congedo ordinario e straordinario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la reperibilita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'aspettativa per motivi di salute e di famiglia;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i permessi brevi per esigenze personali;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i distacchi, le aspettative e di permessi sindacali;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la copertura assicurativa del rischio di responsabilita' civile connesso all'esercizio delle funzioni e dei compiti propri della carriera.
+ 2.((COMMA ABROGATO DAL D.LGS. 27 OTTOBRE 2009, N. 150)).
 
 ## Art. 23. — Procedura di negoziazione
 
@@ -245,6 +570,24 @@ Ai fini della copertura degli incarichi di cui all'articolo 7, successivamente a
  2. Sono fatti salvi gli effetti degli inquadramenti disposti ai sensi della legge 15 dicembre 1990, n. 395.
 
 ## Art. 29. — Copertura finanziaria
+
+1.
+                        
+                            
+                                All'onere derivante dall'applicazione del presente decreto, valutato complessivamente in euro 5.868.825 annui, si provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    quanto a euro 4.021.784 annui, a decorrere dall'anno 2006, a valere sull'autorizzazione di spesa di cui all'articolo 5 della legge 27 luglio 2005, n. 154;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a euro 1.847.041 annui, a decorrere dall'anno 2006, a valere sulle risorse di cui all'articolo 50, comma 9, lettera d), della legge 23 dicembre 2000, n. 388, nonche' mediante riduzione della dotazione organica delle aree funzionali in un numero di posti tale da determinare una riduzione di spesa di ammontare equivalente; ai predetti fini si puo' procedere all'inquadramento progressivo nella qualifica di dirigente penitenziario di tutti i soggetti in possesso dei requisiti prescritti contestualmente alle cessazioni del personale delle predette aree funzionali.
 
 Il Ministero dell'economia e delle finanze provvede al monitoraggio dell'attuazione delle disposizioni di cui al comma 1, limitatamente alle differenze stipendiali per passaggi di qualifica, valutate in euro 5.868.825, anche ai fini dell'applicazione dell'articolo 11-ter, comma 7, della legge 5 agosto 1978, n. 468, e successive modificazioni, e trasmette alle Camere, corredati da apposite relazioni, gli eventuali decreti adottati ai sensi dell'articolo 7, comma 2, n. 2), della legge 5 agosto 1978, n. 468.
  Il presente decreto, munito del sigillo di Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

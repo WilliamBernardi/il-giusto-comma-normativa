@@ -8,8 +8,8 @@ codice_redazionale: 000G0209
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,13 +35,74 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 
 Le societa' italiane con azioni quotate nei mercati regolamentati italiani o di altri Paesi dell'Unione europea scelgono tra gli iscritti nel registro dei revisori contabili che abbiano esercitato l'attivita' di controllo legale dei conti per un periodo non inferiore a tre anni, almeno uno dei sindaci effettivi, se questi sono in numero di tre, almeno due dei sindaci effettivi, se questi sono in numero superiore a tre e, in entrambi i casi, almeno uno dei sindaci supplenti.
 
+2.
+                    
+                        
+                            I sindaci che non sono in possesso del requisito previsto dal comma 1 sono scelti tra coloro che abbiano maturato un'esperienza complessiva di almeno un triennio nell'esercizio di:
+
+                        
+                        
+                            a)
+                            
+                                attivita' di amministrazione o di controllo ovvero compiti direttivi presso societa' di capitali che abbiano un capitale sociale non inferiore a due milioni di euro, ovvero
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' professionali o di insegnamento universitario di ruolo in materie giuridiche, economiche, finanziarie e tecnico-scientifiche, strettamente attinenti all'attivita' dell'impresa, ovvero
+                            
+                        
+                        
+                            c)
+                            
+                                funzioni dirigenziali presso enti pubblici o pubbliche amministrazioni operanti nei settori creditizio, finanziario e assicurativo o comunque in settori strettamente attinenti a quello di attivita' dell'impresa.
+
 Ai fini di quanto previsto dal comma 2, lettere b), e c), gli statuti specificano le materie e i settori di attivita' strettamente attinenti a quello dell'impresa. Gli statuti possono prevedere ulteriori condizioni aggiuntive per la sussistenza dei requisiti di professionalita' previsti dai commi precedenti.
+
+4.
+                    
+                        
+                            Non possono ricoprire la carica di sindaco coloro che, per almeno diciotto mesi, nel periodo ricompreso fra i due esercizi precedenti l'adozione dei relativi provvedimenti e quello in corso hanno svolto funzioni di amministrazione, direzione o controllo in imprese:
+
+                        
+                        
+                            a)
+                            
+                                sottoposte a fallimento, a liquidazione coatta amministrativa o a procedure equiparate;
+                            
+                        
+                        
+                            b)
+                            
+                                operanti nel settore creditizio, finanziario, mobiliare e assicurativo sottoposte a procedure di amministrazione straordinaria.
 
 Non possono inoltre ricoprire la carica di sindaco i soggetti nei cui confronti sia stato adottato il provvedimento di cancellazione dal ruolo unico nazionale degli agenti di cambio previsto dall'articolo 201, comma 15, del decreto legislativo 24 febbraio 1998, n. 58, e gli agenti di cambio che si trovano in stato di esclusione dalle negoziazioni in un mercato regolamentato.
 
 Il divieto di cui ai commi 4 e 5 ha la durata di tre anni dall'adozione dei relativi provvedimenti. Il periodo e' ridotto ad un anno nelle ipotesi in cui il provvedimento e' stato adottato su istanza dell'imprenditore, degli organi amministrativi dell'impresa o dell'agente di cambio.
 
 ## Art. 2. — Requisiti di onorabilita'
+
+1.
+                    
+                        
+                            La carica di sindaco delle societa' indicate dall'articolo 1, comma 1, non puo' essere ricoperta da coloro che:
+
+                        
+                        
+                            a)
+                            
+                                sono stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi della legge 27 dicembre 1956, n. 1423, o della legge 31 maggio 1965, n. 575, e successive modificazioni e integrazioni, salvi gli effetti della riabilitazione;
+                            
+                        
+                        
+                            b)
+                            
+                                sono stati condannati con sentenza irrevocabile, salvi gli effetti della riabilitazione:
+ 1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria e assicurativa e dalle norme in materia di mercati e strumenti finanziari, in materia tributaria e di strumenti di pagamento;
+ 2) alla reclusione per uno dei delitti previsti nel titolo XI del libro V del codice civile e nel regio decreto del 16 marzo 1942, n. 267;
+ 3) alla reclusione per un tempo non inferiore a sei mesi per un delitto contro la pubblica amministrazione la fede pubblica, il patrimonio, l'ordine pubblico e l'economia pubblica;
+ 4) alla reclusione per un tempo non inferiore ad un anno per un qualunque delitto non colposo.
 
 La carica di sindaco nelle societa' di cui all'articolo 1, comma 1, non puo' essere ricoperta da coloro ai quali sia stata applicata su richiesta delle parti una delle pene previste dal comma 1, lettera b), salvo il caso dell'estinzione del reato.
 

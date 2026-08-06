@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2007-11-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,7 +26,87 @@ Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di
 
 ## Art. 1. — D e f i n i z i o n i
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                "apparecchio domestico": qualsiasi macchina, parte di macchina o impianto fabbricato essenzialmente per essere impiegato all'interno delle abitazioni, compresi le cantine, le autorimesse e e gli altri annessi, in particolare gli apparecchi domestici di manutenzione, pulizia, preparazione e conservazione degli alimenti, produzione e diffusione di calorie e frigorie, condizionamento dell'aria, nonche' altri apparecchi impiegati per scopi non professionali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "famiglia di apparecchi domestici": l'insieme di tutti i modelli (o tipi) di vari apparecchi domestici concepiti per svolgere la stessa funzione e alimentati da un'identica fonte principale di energia.
+ Una "famiglia" comprende normalmente piu' modelli (o tipi);
+
+                            
+                        
+                        
+                            c)
+                            
+                                "serie di apparecchi domestici": l'insieme di apparecchi domestici di uno stesso modello (o tipo), aventi caratteristiche ben definite, prodotti da uno stesso fabbricante;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "partita di apparecchi domestici": una data quantita' di una determinata "serie", fabbricata o prodotta in condizioni uniformi;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "rumore aereo": il livello di potenza acustica, ponderato A, (Lwa), dell'apparecchio domestico, espresso in decibel, (dB) con riferimento ad un picowatt (1 pw), trasmesso nell'aria;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "norma" e "regola tecnica": le norme e regole tecniche come definite nella direttiva n. 83/189/CEE, attuata con legge 21 giugno 1986, n. 317.
+
 ## Art. 2. — Esclusioni
+
+1.
+                    
+                        
+                            Il presente decreto non si applica: 
+ 
+                        
+                        
+                            a)
+                            
+                                agli apparecchi, impianti o macchine concepiti esclusivamente per uso industriale o professionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli apparecchi che fanno parte integrante di un edificio o dei suoi impianti, quali gli impianti di area condizionata, di riscaldamento o di ventilazione (ad eccezione dei ventilatori domestici, delle cappe aspiranti per cucina e degli apparecchi di riscaldamento indipendenti), i bruciatori a gasolio per il riscaldamento centrale e le pompe per l'alimentazione d'acqua e per i sistemi di evacuazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai componenti di impianti come, per esempio, i motori; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((agli apparecchi elettroacustici.))
 
 ## Art. 3. — Informazione sul rumore aereo
 

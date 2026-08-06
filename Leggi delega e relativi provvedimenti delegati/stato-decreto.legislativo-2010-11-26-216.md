@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2020-09-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -41,6 +41,33 @@ Gli obiettivi di servizio sono stabiliti in modo da garantire il rispetto della 
 
 L'anno ((2013)) e' individuato quale anno di avvio della fase transitoria comportante il superamento del criterio della spesa storica.
 
+5.
+                    
+                        
+                            La fase transitoria si struttura secondo la seguente modalita' e tempistica: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.L. 29 DICEMBRE 2011, N. 216, CONVERTITO CON MODIFICAZIONI DALLA L. 24 FEBBRAIO 2012, N. 14)); ((1))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((entro il 31 marzo 2013)) verranno determinati i fabbisogni standard, che entreranno in vigore nel 2013, riguardo ad almeno due terzi delle funzioni fondamentali di cui all'articolo 3, comma 1, lettere a) e b), del presente decreto, con un processo di gradualita' diretto a garantire l'entrata a regime nell'arco del triennio successivo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel 2013 verranno determinati i fabbisogni standard, che entreranno in vigore nel 2014, riguardo a tutte le funzioni fondamentali di cui all'articolo 3, comma 1, lettere a) e b), del presente decreto, con un processo di gradualita' diretto a garantire l'entrata a regime nell'arco del triennio successivo.
+
 -------------
                         AGGIORNAMENTO (1)
                         
@@ -48,9 +75,78 @@ L'anno ((2013)) e' individuato quale anno di avvio della fase transitoria compor
 
 ## Art. 3. — Funzioni fondamentali e classificazione delle relative spese
 
+1.
+                    
+                        
+                            Ai fini del presente decreto, fino alla data di entrata in vigore della legge statale di individuazione delle funzioni fondamentali di Comuni, Citta' metropolitane e Province, le funzioni fondamentali ed i relativi servizi presi in considerazione in via provvisoria, ai sensi dell'articolo 21 della 5 maggio 2009, n. 42, sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i Comuni: 
+ 1) le funzioni generali di amministrazione, di gestione e di controllo, nella misura complessiva del 70 per cento delle spese come certificate dall'ultimo conto del bilancio disponibile alla data di entrata in vigore della legge 5 maggio 2009, n. 42; 
+ 2) le funzioni di polizia locale; 
+ 3) le funzioni di istruzione pubblica, ivi compresi i servizi per gli asili nido e quelli di assistenza scolastica e refezione, nonche' l'edilizia scolastica; 
+ 4) le funzioni nel campo della viabilita' e dei trasporti; 
+ 5) le funzioni riguardanti la gestione del territorio e dell'ambiente, fatta eccezione per il servizio di edilizia residenziale pubblica e locale e piani di edilizia nonche' per il servizio idrico integrato; 
+ 6) le funzioni del settore sociale; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                per le Province: 
+ 1) le funzioni generali di amministrazione, di gestione e di controllo, nella misura complessiva del 70 per cento delle spese come certificate dall'ultimo conto del bilancio disponibile alla data di entrata in vigore della legge 5 maggio 2009, n. 42; 
+ 2) le funzioni di istruzione pubblica, ivi compresa l'edilizia scolastica; 
+ 3) le funzioni nel campo dei trasporti; 
+ 4) le funzioni riguardanti la gestione del territorio; 
+ 5) le funzioni nel campo della tutela ambientale; 
+ 6) le funzioni nel campo dello sviluppo economico relative ai servizi del mercato del lavoro.
+
+((1-bis. In ogni caso, ai fini della determinazione dei fabbisogni standard di cui al presente decreto, le modifiche nell'elenco delle funzioni fondamentali sono prese in considerazione dal primo anno successivo all'adeguamento dei certificati di conto consuntivo alle suddette nuove elencazioni, tenuto conto anche degli esiti dell'armonizzazione degli schemi di bilancio di cui al decreto legislativo 23 giugno 2011, n. 118))
 
 ## Art. 4. — Metodologia per la determinazione dei fabbisogni standard
+
+1.
+                    
+                        
+                            Il fabbisogno standard, per ciascuna funzione fondamentale e i relativi servizi, tenuto conto delle specificita' dei comparti dei Comuni e delle Province, e' determinato attraverso: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'identificazione delle informazioni e dei dati di natura strutturale e contabile necessari, acquisiti sia da banche dati ufficiali esistenti sia tramite rilevazione diretta con appositi questionari da inviare ai Comuni e alle Province, anche ai fini di una riclassificazione o integrazione delle informazioni contenute nei certificati contabili; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'individuazione dei modelli organizzativi e dei livelli quantitativi delle prestazioni, determinati sulla base di un sistema di indicatori in relazione a ciascuna funzione fondamentale e ai relativi servizi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'analisi dei costi finalizzata alla individuazione di quelli piu' significativi e alla determinazione degli intervalli di normalita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'individuazione di un modello di stima dei fabbisogni standard sulla base di criteri di rappresentativita' attraverso la sperimentazione di diverse tecniche statistiche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la definizione di un sistema di indicatori, anche in riferimento ai diversi modelli organizzativi ed agli obiettivi definiti, significativi per valutare l'adeguatezza dei servizi e consentire agli enti locali di migliorarli.
 
 Il fabbisogno standard puo' essere determinato con riferimento a ciascuna funzione fondamentale, ad un singolo servizio o ad aggregati di servizi, in relazione alla natura delle singole funzioni fondamentali e tenendo presenti le esclusioni previste dalla legge 5 maggio 2009, n. 42.
 
@@ -59,6 +155,53 @@ La metodologia dovra' tener conto delle specificita' legate ai recuperi di effic
 Il fabbisogno standard e' fissato anche con riferimento ai livelli di servizio determinati in base agli indicatori di cui al comma 1, lettera e).
 
 ## Art. 5. — Procedimento di determinazione dei fabbisogni standard
+
+1.
+                    
+                        
+                            Il procedimento di determinazione del fabbisogno standard si articola nel seguente modo: 
+ 
+                        
+                        
+                            a)
+                            
+                                la Societa' Soluzioni per il sistema economico - Sose s.p.a., la cui attivita', ai fini del presente decreto, ha carattere esclusivamente tecnico, predispone le metodologie occorrenti alla individuazione dei fabbisogni standard e ne determina i valori con tecniche statistiche che danno rilievo alle caratteristiche individuali dei singoli Enti locali, conformemente a quanto previsto dall'articolo 13, comma 1, lettera d), della legge 5 maggio 2009, n. 42, utilizzando i dati di spesa storica tenendo conto dei gruppi omogenei e tenendo altresi' conto della spesa relativa a servizi esternalizzati o svolti in forma associata, considerando una quota di spesa per abitante e tenendo conto della produttivita' e della diversita' della spesa in relazione all'ampiezza demografica, alle caratteristiche territoriali, con particolare riferimento al livello di infrastrutturazione del territorio, ai sensi di quanto previsto dagli articoli 21 e 22 della legge 5 maggio 2009, n. 42, alla presenza di zone montane, alle caratteristiche demografiche, sociali e produttive dei predetti diversi enti, al personale impiegato, alla efficienza, all'efficacia e alla qualita' dei servizi erogati nonche' al grado di soddisfazione degli utenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la Societa' Soluzioni per il sistema economico - Sose s.p.a. provvede al monitoraggio della fase applicativa e all'aggiornamento delle elaborazioni relative alla determinazione dei fabbisogni standard; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ai fini di cui alle lettere a) e b), la Societa' Soluzioni per il sistema economico - Sose s.p.a. puo' predisporre appositi sistemi di rilevazione di informazioni funzionali a raccogliere i dati necessari per il calcolo dei fabbisogni standard degli Enti locali.
+Ove predisposti e somministrati, gli Enti locali restituiscono per via telematica, entro sessanta giorni dalla pubblicazione, le informazioni richieste. Il mancato invio, nel termine predetto, delle informazioni e' sanzionato con la sospensione, sino all'adempimento dell'obbligo di invio delle informazioni, dei trasferimenti a qualunque titolo erogati all'Ente locale e la pubblicazione dell'ente inadempiente nel sito internet del Ministero dell'interno. Agli stessi fini di cui alle lettere a) e b), anche il certificato di conto consuntivo di cui all'articolo 161 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, contiene i dati necessari per il calcolo del fabbisogno standard; (6) (7) ((9))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                tenuto conto dell'accordo sancito il 15 luglio 2010, in sede di Conferenza Stato-Citta' ed autonomie locali, tra l'Associazione nazionale dei Comuni Italiani-ANCI e l'Unione delle Province d'Italia-UPI ed il Ministero dell'economia e delle finanze, per i compiti di cui alle lettere a), b) e c) del presente articolo, la Societa' Soluzioni per il sistema economico - Sose s.p.a. si avvale della collaborazione scientifica dell'Istituto per la finanza e per l'economia locale-IFEL, in qualita' di partner scientifico, che supporta la predetta societa' nella realizzazione di tutte le attivita' previste dal presente decreto. In particolare, IFEL fornisce analisi e studi in materia di contabilita' e finanza locale e partecipa alla fase di predisposizione dei sistemi di rilevazione di informazioni e della loro somministrazione agli enti locali; concorre allo sviluppo della metodologia di calcolo dei fabbisogni standard, nonche' alla valutazione dell'adeguatezza delle stime prodotte; partecipa all'analisi dei risultati; concorre al monitoraggio del processo di attuazione dei fabbisogni standard; propone correzioni e modifiche alla procedura di attuazione dei fabbisogni standard, nonche' agli indicatori di fabbisogni fissati per i singoli enti. IFEL, inoltre, fornisce assistenza tecnica e formazione agli Enti locali; la Societa' Soluzioni per il sistema economico - Sose s.p.a. puo' avvalersi altresi' della collaborazione dell'ISTAT per i compiti di cui alle lettere a), b) e c) del presente articolo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le metodologie predisposte ai sensi della lettera a) e le elaborazioni relative alla determinazione dei fabbisogni standard di cui alla lettera b) sono sottoposte alla Commissione tecnica per i fabbisogni standard, istituita ai sensi dell'articolo 1, comma 29, della legge 28 dicembre 2015, n. 208, anche separatamente, per l'approvazione; in assenza di osservazioni, le stesse si intendono approvate decorsi quindici giorni dal loro ricevimento. Le metodologie e i fabbisogni approvati dalla Commissione tecnica per i fabbisogni standard sono trasmessi dalla societa' Soluzioni per il sistema economico - Sose Spa al Dipartimento della Ragioneria generale dello Stato e al Dipartimento delle finanze del Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i dati raccolti ed elaborati per le attivita' di cui al presente articolo, ai sensi dell'articolo 60 del codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, confluiscono nella banca dati delle amministrazioni pubbliche di cui all'articolo 13 della legge 31 dicembre 2009, n. 196, nonche' in quella di cui all'articolo 5, comma 1, lettera g), della legge 5 maggio 2009, n. 42, e sono, altresi', pubblicati nel sito "www.opencivitas.it", il quale consente ai cittadini ed agli Enti locali di accedere ai dati monitorati e alle elaborazioni relative, ai sensi degli articoli 50 e 52 del citato codice di cui al decreto legislativo 7 marzo 2005, n. 82. L'invio delle informazioni di cui alla lettera c) costituisce espressa adozione di una licenza di cui all'articolo 2, comma 1, lettere e) e h), del decreto legislativo 24 gennaio 2006, n. 36.
 
 --------------
                         AGGIORNAMENTO (3)

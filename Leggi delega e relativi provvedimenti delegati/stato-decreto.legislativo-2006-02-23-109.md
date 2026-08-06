@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2024-04-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -43,9 +43,278 @@ Il magistrato esercita le funzioni attribuitegli con imparzialita', correttezza,
 
 ## Art. 2. — Illeciti disciplinari nell'esercizio delle funzioni
 
+1.
+                        
+                            
+                                Costituiscono illeciti disciplinari nell'esercizio delle funzioni: 
+
+                            
+                            
+                                a)
+                                
+                                    
+                                        (( fatto salvo quanto previsto dalle lettere b), c), g) e m) )), i comportamenti che, violando i doveri di cui all'articolo 1, arrecano ingiusto danno o indebito vantaggio ad una delle parti; 
+                                
+                            
+                            
+                                b)
+                                
+                                    l'omissione della comunicazione, al Consiglio superiore della magistratura, della sussistenza di una delle situazioni di incompatibilita' di cui agli articoli 18 e 19 dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, e successive modificazioni, come modificati dall'articolo 29 del presente decreto; 
+                                
+                            
+                            
+                                c)
+                                
+                                    la consapevole inosservanza dell'obbligo di astensione nei casi previsti dalla legge; 
+                                
+                            
+                            
+                                d)
+                                
+                                    i comportamenti abitualmente o gravemente scorretti nei confronti delle parti, dei loro difensori, dei testimoni o di chiunque abbia rapporti con il magistrato nell'ambito dell'ufficio giudiziario, ovvero nei confronti di altri magistrati o di collaboratori; 
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ingiustificata interferenza nell'attivita' giudiziaria di altro magistrato; 
+                                
+                            
+                            
+                                f)
+                                
+                                    l'omessa comunicazione al capo dell'ufficio, da parte del magistrato destinatario, delle avvenute interferenze; 
+                                
+                            
+                            
+                                g)
+                                
+                                    la grave violazione di legge determinata da ignoranza o negligenza inescusabile; 
+                                
+                            
+                            
+                                h)
+                                
+                                    il travisamento dei fatti determinato da negligenza inescusabile; 
+                                
+                            
+                            
+                                i)
+                                
+                                    LETTERA ABROGATA DALLA L. 24 OTTOBRE 2006, N. 269; 
+                                
+                            
+                            
+                                l)
+                                
+                                    l'emissione di provvedimenti privi di motivazione, ovvero la cui motivazione consiste nella sola affermazione della sussistenza dei presupposti di legge senza indicazione degli elementi di fatto dai quali tale sussistenza risulti, quando la motivazione e' richiesta dalla legge; 
+                                
+                            
+                            
+                                m)
+                                
+                                    l'adozione di provvedimenti adottati nei casi non consentiti dalla legge, per negligenza grave e inescusabile, che abbiano leso diritti personali o, in modo rilevante, diritti patrimoniali; 
+                                
+                            
+                            
+                                n)
+                                
+                                    la reiterata o grave inosservanza delle norme regolamentari ((, delle direttive)) o delle disposizioni sul servizio giudiziario o sui servizi organizzativi e informatici adottate dagli organi competenti; 
+                                
+                            
+                            
+                                o)
+                                
+                                    l'indebito affidamento ad altri di attivita' rientranti nei propri compiti; 
+                                
+                            
+                            
+                                p)
+                                
+                                    l'inosservanza dell'obbligo di risiedere nel comune in cui ha sede l'ufficio in assenza dell'autorizzazione prevista dalla normativa vigente se ne e' derivato concreto pregiudizio all'adempimento dei doveri di diligenza e laboriosita'; 
+                                
+                            
+                            
+                                q)
+                                
+                                    il reiterato, grave e ingiustificato ritardo nel compimento degli atti relativi all'esercizio delle funzioni; si presume non grave, salvo che non sia diversamente dimostrato, il ritardo che non eccede il triplo dei termini previsti dalla legge per il compimento dell'atto; 
+                                
+                            
+                            
+                                q-bis)
+                                
+                                    l'omessa collaborazione del magistrato nell'attuazione delle misure di cui all'articolo 37, comma 5-bis, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, nonche' la reiterazione, all'esito dell'adozione di tali misure, delle condotte che le hanno imposte, se attribuibili al magistrato;
+                                
+                            
+                            
+                                r)
+                                
+                                    il sottrarsi in modo abituale e ingiustificato all'attivita' di servizio; 
+                                
+                            
+                            
+                                s)
+                                
+                                    per il dirigente dell'ufficio o il presidente di una sezione o il presidente di un collegio, l'omettere di assegnarsi affari e di redigere i relativi provvedimenti; 
+                                
+                            
+                            
+                                t)
+                                
+                                    l'inosservanza dell'obbligo di rendersi reperibile per esigenze di ufficio quando esso sia imposto dalla legge o da disposizione legittima dell'organo competente; 
+                                
+                            
+                            
+                                u)
+                                
+                                    la divulgazione, anche dipendente da negligenza, di atti del procedimento coperti dal segreto o di cui sia previsto il divieto di pubblicazione, nonche' la violazione del dovere di riservatezza sugli affari in corso di trattazione, o sugli affari definiti, quando e' idonea a ledere indebitamente diritti altrui; 
+                                
+                            
+                            
+                                v)
+                                
+                                    pubbliche dichiarazioni o interviste che riguardino i soggetti coinvolti negli affari in corso di trattazione, ovvero trattati e non definiti con provvedimento non soggetto a impugnazione ordinaria, quando sono dirette a ledere indebitamente diritti altrui nonche' ((la violazione di quanto disposto dall'articolo 5, commi 1, 2, 2-bis e 3)), del decreto legislativo 20 febbraio 2006, n. 106; 
+                                
+                            
+                            
+                                z)
+                                
+                                    LETTERA ABROGATA DALLA L. 24 OTTOBRE 2006, N. 269; 
+                                
+                            
+                            
+                                aa)
+                                
+                                    il sollecitare la pubblicita' di notizie attinenti alla propria attivita' di ufficio ovvero il costituire e l'utilizzare canali informativi personali riservati o privilegiati; 
+                                
+                            
+                            
+                                bb)
+                                
+                                    LETTERA ABROGATA DALLA L. 24 OTTOBRE 2006, N. 269; 
+                                
+                            
+                            
+                                cc)
+                                
+                                    l'adozione intenzionale di provvedimenti affetti da palese incompatibilita' tra la parte dispositiva e la motivazione, tali da manifestare una precostituita e inequivocabile contraddizione sul piano logico, contenutistico o argomentativo; 
+                                
+                            
+                            
+                                dd)
+                                
+                                    l'omissione, da parte del dirigente l'ufficio o del presidente di una sezione o di un collegio, della comunicazione agli organi competenti di fatti a lui noti che possono costituire illeciti disciplinari compiuti da magistrati dell'ufficio, della sezione o del collegio; 
+                                
+                            
+                            
+                                ee)
+                                
+                                    l'omissione, da parte del dirigente l'ufficio ovvero da parte del magistrato cui compete il potere di sorveglianza, della comunicazione al Consiglio superiore della magistratura della sussistenza di una delle situazioni di incompatibilita' previste dagli articoli 18 e 19 dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, come da ultimo modificati dall'articolo 29 del presente decreto, ovvero delle situazioni che possono dare luogo all'adozione dei provvedimenti di cui agli articoli 2 e 3 del regio decreto legislativo 31 maggio 1946, n. 511, come modificati dagli articoli 26, comma 1 e 27 del presente decreto; 
+                                
+                            
+                            
+                                ee-bis)
+                                
+                                    l'omessa adozione da parte del capo dell'ufficio delle iniziative di cui all'articolo 37, commi 5-bis e 5-ter, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, nonche' l'omessa segnalazione al capo dell'ufficio da parte del presidente di sezione delle situazioni di cui all'articolo 37, comma 5-quater, del citato decreto-legge n. 98 del 2011; 
+                                
+                            
+                            
+                                ee-ter)
+                                
+                                    l'omissione, da parte del capo dell'ufficio o del presidente di una sezione, della comunicazione, rispettivamente, al consiglio giudiziario e al consiglio direttivo della Corte di cassazione o al capo dell'ufficio, delle condotte del magistrato dell'ufficio che non collabori nell'attuazione delle misure di cui all'articolo 37, comma 5-bis, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111;
+                                
+                            
+                            
+                                ff)
+                                
+                                    l'adozione di provvedimenti non previsti da norme vigenti ovvero sulla base di un errore macroscopico o di grave e inescusabile negligenza; 
+                                
+                            
+                            
+                                gg)
+                                
+                                    l'emissione di un provvedimento restrittivo della liberta' personale ((in assenza dei presupposti previsti)) dalla legge, determinata da negligenza grave ed inescusabile ((; l'avere indotto l'emissione di un provvedimento restrittivo della liberta' personale in assenza dei presupposti previsti dalla legge, omettendo di trasmettere al giudice, per negligenza grave e inescusabile, elementi rilevanti)). 
+                                
+                            
+                            
+                                gg-bis)
+                                
+                                    l'inosservanza dell'articolo 123 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271.
+
 Fermo quanto previsto dal comma 1, lettere g), h), i), l), m), n), o), p), cc) e ff), l'attivita' di interpretazione di norme di diritto e quella di valutazione del fatto e delle prove non danno luogo a responsabilita' disciplinare.
 
 ## Art. 3. — Illeciti disciplinari fuori dell'esercizio delle funzioni
+
+1.
+                        
+                            
+                                Costituiscono illeciti disciplinari al di fuori dell'esercizio delle funzioni: 
+
+                            
+                            
+                                a)
+                                
+                                    l'uso della qualita' di magistrato al fine di conseguire vantaggi ingiusti per se' o per altri; 
+                                
+                            
+                            
+                                b)
+                                
+                                    il frequentare persona sottoposta a procedimento penale o di prevenzione comunque trattato dal magistrato, o persona che a questi consta essere stata dichiarata delinquente abituale, professionale o per tendenza o aver subito condanna per delitti non colposi alla pena della reclusione superiore a tre anni o essere sottoposto ad una misura di prevenzione, salvo che sia intervenuta la riabilitazione, ovvero l'intrattenere rapporti consapevoli di affari con una di tali persone; 
+                                
+                            
+                            
+                                c)
+                                
+                                    l'assunzione di incarichi extragiudiziari senza la prescritta autorizzazione del Consiglio superiore della magistratura; 
+                                
+                            
+                            
+                                d)
+                                
+                                    lo svolgimento di attivita' incompatibili con la funzione giudiziaria di cui all'articolo 16, comma 1, del regio decreto 30 gennaio 1941, n. 12, e succesive modificazioni, o di attivita' tali da recare concreto pregiudizio all'assolvimento dei doveri disciplinati dall'articolo 1; 
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ottenere, direttamente o indirettamente, ((per se' o per altri,)) prestiti o agevolazioni da soggetti che il magistrato sa essere parti o indagati in procedimenti penali o civili pendenti presso l'ufficio giudiziario di appartenenza o presso altro ufficio che si trovi nel distretto di Corte d'appello nel quale esercita le funzioni giudiziarie, ovvero dai difensori di costoro, nonche' ottenere, direttamente o indirettamente, ((per se' o per altri,)) prestititi o agevolazioni, a condizioni di eccezionale favore, da parti offese o testimoni o comunque da soggetti coinvolti in detti procedimenti; 
+                                
+                            
+                            
+                                f)
+                                
+                                    LETTERA ABROGATA DALLA L. 24 OTTOBRE 2006, N. 269; 
+                                
+                            
+                            
+                                g)
+                                
+                                    la partecipazione ad associazioni segrete o i cui vincoli sono oggettivamente incompatibili con l'esercizio delle funzioni giudiziarie; 
+                                
+                            
+                            
+                                h)
+                                
+                                    l'iscrizione o la partecipazione sistematica e continuativa a partiti politici ovvero il coinvolgimento nelle attivita' di soggetti operanti nel settore economico o finanziario che possono condizionare l'esercizio delle funzioni o comunque compromettere l'immagine del magistrato; 
+                                
+                            
+                            
+                                i)
+                                
+                                    l'uso strumentale della qualita' che, per la posizione del magistrato o per le modalita' di realizzazione, e' diretto a condizionare l'esercizio di funzioni costituzionalmente previste; 
+                                
+                            
+                            
+                                l)
+                                
+                                    LETTERA ABROGATA DALLA L. 24 OTTOBRE 2006, N. 269. 
+                                
+                            
+                            
+                                l-bis)
+                                
+                                    l'adoperarsi per condizionare indebitamente l'esercizio delle funzioni del Consiglio superiore della magistratura, al fine di ottenere un ingiusto vantaggio per se' o per altri o di arrecare un danno ingiusto ad altri;
 
 ## Art. 3-bis. — (( (Condotta disciplinare irrilevante) ))
 
@@ -65,9 +334,87 @@ L'illecito disciplinare previsto dall'articolo 2, comma 1, lettera q), e' estint
 
 ## Art. 4. — Illeciti disciplinari conseguenti a reato
 
+1.
+                        
+                            
+                                Costituiscono illeciti disciplinari conseguenti al reato:
+ 
+                            
+                            
+                                a)
+                                
+                                    i fatti per i quali e' intervenuta condanna irrevocabile o e' stata pronunciata sentenza ai sensi dell'articolo 444, comma 2, del codice di procedura penale, per delitto doloso o preterintenzionale, quando la legge stabilisce la pena detentiva sola o congiunta alla pena pecuniaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i fatti per i quali e' intervenuta condanna irrevocabile o e' stata pronunciata sentenza ai sensi dell'articolo 444, comma 2, del codice di procedura penale, per delitto colposo, alla pena della reclusione, sempre che presentino, per modalita' e conseguenze, carattere di particolare gravita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i fatti per i quali e' intervenuta condanna irrevocabile o e' stata pronunciata sentenza ai sensi dell'articolo 444, comma 2, del codice di procedura penale, alla pena dell'arresto, sempre che presentino, per le modalita' di esecuzione, carattere di particolare gravita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    qualunque fatto costituente reato idoneo a ledere l'immagine del magistrato, anche se il reato e' estinto per qualsiasi causa o l'azione penale non puo' essere iniziata o proseguita.
+
 ## - Sezione II Delle sanzioni disciplinari
 
 ## Art. 5. — Sanzioni
+
+1.
+                        
+                            
+                                Il magistrato che viola i suoi doveri e' soggetto alle seguenti sanzioni disciplinari:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'ammonimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la censura;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la perdita dell'anzianita';
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'incapacita' temporanea a esercitare un incarico direttivo o semidirettivo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la sospensione dalle funzioni da tre mesi a due anni;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la rimozione.
 
 Quando per il concorso di piu' illeciti disciplinari si debbono irrogare piu' sanzioni di diversa gravita', si applica la sanzione prevista per l'infrazione piu' grave; quando piu' illeciti disciplinari, commessi in concorso tra loro, sono puniti con la medesima sanzione, si applica la sanzione immediatamente piu' grave.
 Nell'uno e nell'altro caso puo' essere applicata anche la sanzione meno grave se compatibile.
@@ -102,6 +449,119 @@ Al magistrato sospeso e' corrisposto un assegno alimentare pari ai due terzi del
 La rimozione determina la cessazione del rapporto di servizio e viene attuata mediante decreto del Presidente della Repubblica.
 
 ## Art. 12. — Sanzioni applicabili
+
+1.
+                        
+                            
+                                Si applica una sanzione non inferiore alla censura per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i comportamenti che, violando i doveri di cui all'articolo 1, arrecano ingiusto danno o indebito vantaggio a una delle parti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la consapevole inosservanza dell'obbligo di astensione nei casi previsti dalla legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'omissione, da parte dell'interessato, della comunicazione al Consiglio superiore della magistratura della sussistenza di una delle cause di incompatibilita' di cui agli articoli 18 e 19 dell'ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, come modificati dall'articolo 29 del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il tenere comportamenti che, a causa dei rapporti comunque esistenti con i soggetti coinvolti nel procedimento ovvero a causa di avvenute interferenze, costituiscano violazione del dovere di imparzialita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i comportamenti previsti dall'articolo 2, comma 1, lettere d), e) ed f); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il perseguimento di fini diversi da quelli di giustizia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il reiterato o grave ritardo nel compimento degli atti relativi all'esercizio delle funzioni; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    i comportamenti di cui all'articolo 2, comma 1, lettera q-bis); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la scarsa laboriosita', se abituale; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    la grave o abituale violazione del dovere di riservatezza; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    l'uso della qualita' di magistrato al fine di conseguire vantaggi ingiusti; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    lo svolgimento di incarichi extragiudiziari senza avere richiesto o ottenuto la prescritta autorizzazione dal Consiglio superiore della magistratura, qualora per l'entita' e la natura dell'incarico il fatto non si appalesi di particolare gravita'.
+
+2.
+                        
+                            
+                                Si applica una sanzione non inferiore alla perdita dell'anzianita' per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i comportamenti che, violando i doveri di cui all'articolo 1, arrecano grave e ingiusto danno o indebito vantaggio a una delle parti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'uso della qualita' di magistrato al fine di conseguire vantaggi ingiusti, se abituale e grave; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i comportamenti previsti dall'articolo 3, comma 1, lettera b).
 
 Si applica la sanzione della incapacita' a esercitare un incarico direttivo o semidirettivo per l'interferenza, nell'attivita' di altro magistrato, da parte del dirigente dell'ufficio o del presidente della sezione, se ripetuta o grave, nonche' per la reiterata violazione dei doveri di cui all'articolo 37, commi 5-bis, 5-ter e 5-quater, del decreto-legge 6 luglio 2011, n. 98, conver-tito, con modificazioni, dalla legge 15 luglio 2011, n. 111.
 
@@ -162,6 +622,52 @@ Se la sentenza della sezione disciplinare del Consiglio superiore della magistra
 
 Se i termini non sono osservati, il procedimento disciplinare si estingue, sempre che l'incolpato vi consenta.
 
+8.
+                        
+                            
+                                Il corso dei termini ((, compreso quello di cui al comma 1-bis,)) e' sospeso: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se per il medesimo fatto e' stata esercitata l'azione penale, ovvero il magistrato e' stato arrestato o fermato o si trova in stato di custodia cautelare, riprendendo a decorrere dalla data in cui non e' piu' soggetta ad impugnazione la sentenza di non luogo a procedere ovvero sono divenuti irrevocabili la sentenza o il decreto penale di condanna; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se durante il procedimento disciplinare viene sollevata questione di legittimita' costituzionale, riprendendo a decorrere dal giorno in cui e' pubblicata la decisione della Corte costituzionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se l'incolpato e' sottoposto a perizia o ad accertamenti specialistici, e per tutto il tempo necessario; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    se il procedimento disciplinare e' rinviato a richiesta dell'incolpato o del suo difensore o per impedimento dell'incolpato o del suo difensore; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    se, nei casi di cui all'articolo 2, comma 1, lettere g) ed h), all'accertamento del fatto costituente illecito disciplinare e' pregiudiziale l'esito di un procedimento civile, penale o amministrativo; 
+
+                                
+                            
+                            
+                                d-ter)
+                                
+                                    se il procedimento e' sospeso a seguito di provvedimento a norma dell'articolo 16.
+
 ## Art. 16.
 
 Indagini nel procedimento disciplinare ((.
@@ -215,6 +721,29 @@ Nella discussione orale un componente della sezione disciplinare del Consiglio s
 
 L'udienza e' pubblica. La sezione disciplinare, su richiesta di una delle parti, puo' disporre che la discussione si svolga a porte chiuse se ricorrono esigenze di tutela della credibilita' della funzione giudiziaria, con riferimento ai fatti contestati ed all'ufficio che l'incolpato occupa, ovvero esigenze di tutela del diritto dei terzi.
 
+3.
+                        
+                            
+                                La sezione disciplinare puo':
+
+                            
+                            
+                                a)
+                                
+                                    assumere, anche d'ufficio, tutte le prove che ritiene utili;
+                                
+                            
+                            
+                                b)
+                                
+                                    disporre o consentire la lettura di rapporti dell'Ispettorato generale del Ministero della giustizia, dei consigli giudiziari e dei dirigenti degli uffici, la lettura di atti dei fascicoli personali nonche' delle prove acquisite nel corso delle indagini;
+                                
+                            
+                            
+                                c)
+                                
+                                    consentire l'esibizione di documenti da parte del pubblico ministero, dell'incolpato e del delegato del Ministro della giustizia.
+
 Si osservano, in quanto compatibili, le norme del codice di procedura penale sul dibattimento, eccezione fatta per quelle che comportano l'esercizio di poteri coercitivi nei confronti dell'imputato, dei testimoni, dei periti e degli interpreti. Resta fermo quanto previsto dall'articolo 133 del codice di procedura penale.
 
 Ai testimoni, periti e interpreti si applicano le disposizioni di cui agli articoli 366, 372, 373, 376, 377 e 384 del codice penale.
@@ -235,6 +764,24 @@ I provvedimenti adottati dalla sezione disciplinare sono comunicati al Ministro 
  e il giudizio civile o penale
 
 L'azione disciplinare e' promossa indipendentemente dall'azione civile di risarcimento del danno o dall'azione penale relativa allo stesso fatto, ferme restando le ipotesi di sospensione dei termini di cui all'articolo 15, comma 8.
+
+2.
+                        
+                            
+                                Hanno autorita' di cosa giudicata nel giudizio disciplinare quanto all'accertamento della sussistenza del fatto, della sua illiceita' penale e dell'affermazione che l'imputato lo ha commesso:
+ 
+                            
+                            
+                                a)
+                                
+                                    la sentenza penale irrevocabile di condanna;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la sentenza irrevocabile prevista dall'articolo 444, comma 2, del codice di procedura penale.
 
 Ha autorita' di cosa giudicata nel giudizio disciplinare quanto all'accertamento che il fatto non sussiste o che l'imputato non lo ha commesso, la sentenza penale irrevocabile di assoluzione.
 
@@ -280,6 +827,29 @@ La Corte di cassazione decide a sezioni unite civili, entro sei mesi dalla data 
 ))
 
 ## Art. 25. — Revisione
+
+1.
+                        
+                            
+                                E' ammessa, in ogni tempo, la revisione delle sentenze divenute irrevocabili, con le quali e' stata applicata una sanzione disciplinare, quando:
+
+                            
+                            
+                                a)
+                                
+                                    i fatti posti a fondamento della sentenza risultano incompatibili con quelli accertati in una sentenza penale irrevocabile ovvero in una sentenza di non luogo a procedere non piu' soggetta ad impugnazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    sono sopravvenuti o si scoprono, dopo la decisione, nuovi elementi di prova, che, soli o uniti a quelli gia' esaminati nel procedimento disciplinare, dimostrano l'insussistenza dell'illecito;
+                                
+                            
+                            
+                                c)
+                                
+                                    il giudizio di responsabilita' e l'applicazione della relativa sanzione sono stati determinati da falsita' ovvero da altro reato accertato con sentenza irrevocabile.
 
 Gli elementi in base ai quali si chiede la revisione debbono, a pena di inammissibilita' della domanda, essere tali da dimostrare che, se accertati, debba essere escluso l'addebito o debba essere applicata una sanzione diversa da quella inflitta se trattasi della rimozione, ovvero se dalla sanzione applicata e' conseguito il trasferimento d'ufficio.
 
@@ -362,6 +932,38 @@ Gli articoli 18 e 19 dell'ordinamento giudiziario, di cui al regio decreto n. 12
 Il presente decreto non si applica ai magistrati amministrativi e contabili.
 
 ## Art. 31. — Abrogazioni
+
+1.
+                        
+                            
+                                Oltre a quanto previsto dal decreto legislativo di attuazione della delega di cui all'articolo 1, comma 3, della legge n. 150 del 2005, sono abrogati, dalla data di acquisto di efficacia delle disposizioni contenute nel presente decreto:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 12 del regio decreto 30 gennaio 1941, n. 12, e successive modificazioni;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli 17, 18, 19, 20, 21, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37 e 38 del regio decreto legislativo n. 511 del 1946;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 57, 58, 59, 60, 61 e 62 del decreto del Presidente della Repubblica 16 settembre 1958, n. 916;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 14, primo comma, n. 1), della legge 24 marzo 1958, n. 195.
 
 ## Art. 32. — Decorrenza di efficacia
 

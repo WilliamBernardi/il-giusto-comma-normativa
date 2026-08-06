@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2010-03-12
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO LEGISLATIVO
@@ -57,6 +57,52 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                "RID", il regolamento concernente il trasporto internazionale di merci pericolose per ferrovia, di cui all'annesso I dell'appendice B della convenzione relativa ai trasporti ferroviari internazionali (COTIF), e successive modifiche; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "CIM", le regole uniformi concernenti il contratto di trasporto ferroviario internazionale di merci di cui all'appendice B della convenzione relativa ai trasporti ferroviari internazionali (COTIF), e successive modifiche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "merci pericolose", le materie e gli oggetti il cui trasporto per ferrovia e' vietato o ammesso dall'allegato al presente decreto soltanto a determinate condizioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "trasporto", qualsiasi operazione di trasporto di merci pericolose per ferrovia, ivi compreso il traghettamento, effettuato in tutto o in parte nel territorio nazionale, comprese le operazioni di carico e scarico, il trasferimento da un modo di trasporto ad un altro e le soste rese necessarie dalle condizioni di trasporto, fatte salve le disposizioni sulla responsabilita' derivante da tali operazioni. Le operazioni di trasporto effettuate interamente all'interno del perimetro di un'impresa sono escluse da questa definizione; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "manovre a spinta", le manovre che vengono eseguite lanciando, con adeguata velocita' e per un breve tratto, uno o piu' veicoli sganciati dal resto della colonna in modo da imprimere loro una spinta sufficiente a farli proseguire da soli fino al punto voluto; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "manovre a gravita'", le manovre che si eseguono spingendo i veicoli, sganciati fra loro o riuniti in gruppi, sulla sella o binario di lancio, da dove, per effetto della pendenza, si avviano sui vari binari.
+
 L'allegato al presente decreto riproduce il regolamento di trasporto ferroviario delle merci pericolose di cui alla direttiva 96/49/CE; pertanto, in tale allegato, laddove, comunque citato, compare il riferimento alla predetta direttiva, lo stesso deve intendersi riferito al presente decreto. ((5))
 
 ---------------
@@ -76,6 +122,45 @@ Le condizioni di esecuzione di tale trasporto costituiranno oggetto di specifica
 
 Fino alla data di approvazione della convenzione di cui al comma 3, continua ad applicarsi la disciplina vigente.
 
+5.
+                    
+                        
+                            Fatto salvo quanto previsto dal decreto del Presidente della Repubblica 11 luglio 1980, n. 753, e dalle relative norme di attuazione emanate ai sensi delle disposizioni contenute nel titolo IX del medesimo decreto, per le operazioni di smistamento e stazionamento correlate al trasporto di merci pericolose si dispone che: 
+ 
+                        
+                        
+                            a)
+                            
+                                e' fatto divieto di effettuare selezionamento con manovre a spinta o a gravita' dei carri recanti almeno una delle etichette di cui ai modelli nn. 1, 1.5, 1.6, 0.1, 7A, 7B, 7C, 7D e 15 dell'appendice IX dell'allegato al presente decreto; questi devono essere accompagnati da un mezzo motore e non devono urtare od essere urtati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' consentito il selezionamento con manovre a spinta dei carri recanti le etichette conformi ai modelli nn. 1.4, 2, 3, 4.1, 4.2, 4.3, 5.1, 5.2, 05, 6.1 e 13 di cui all'appendice IX dell'allegato al presente decreto, in assenza di etichette conformi ai modelli di cui alla lettera a), purche' siano evitati urti e contraccolpi a velocita' superiore a 7 km/h; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' consentito il selezionamento con manovre a spinta dei carri recanti le etichette conformi ai modelli nn. 6.2, 8 e 9 di cui all'appendice IX dell'allegato al presente decreto, in assenza di etichette conformi ai modelli di cui alle lettere a) e b), purche' effettuate con precauzione evitando danneggiamenti del carro o del carico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                negli impianti di smistamento dotati di un sistema di frenatura comandato da un apparato centrale che regola automaticamente le modalita' per l'accosto evitando danneggiamenti del carro o del carico, i carri di cui alle lettere b) e c) possono essere selezionati con manovre a gravita'; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                lo stazionamento dei carri durante il trasporto, negli scali di smistamento o di imbarco/sbarco e negli scali merci terminali non costituisce specifica attivita' di deposito. ((5))
+
 ---------------
                         AGGIORNAMENTO (5)
                         
@@ -88,6 +173,45 @@ Fino alla data di approvazione della convenzione di cui al comma 3, continua ad 
 Ferme restando le altre disposizioni del presente decreto e fatte salve le norme relative all'accesso delle imprese al mercato, l'autorizzazione per il trasporto per ferrovia delle merci pericolose e' subordinata al rispetto delle norme contenute nell'allegato al presente decreto.
 
 Dalla data di entrata in vigore del decreto del Ministro dei trasporti e della navigazione, adottato ai sensi dell'articolo 6, che rende esecutivi gli aggiornamenti al RID 1997, e' abrogato l'allegato n. 7 alle "condizioni e tariffe per il trasporto delle cose sulle Ferrovie dello Stato, regolamento per il trasporto per ferrovia delle merci pericolose (RMP)", di cui al regio decreto-legge 25 gennaio 1940, n. 9, convertito dalla legge 13 maggio 1940, n. 674, e successive modificazioni.
+
+3.
+                    
+                        
+                            Con decreto del Ministro dei trasporti e della navigazione sono adottate, entro la data di cui al comma 2, le disposizioni disciplinanti le seguenti materie non regolate dall'allegato al presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                prescrizioni generali per l'ammissione al trasporto ferroviario delle merci pericolose in servizio nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                norme integrative per il trasporto di merci pericolose sulle navi traghetto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                norme integrative per la spedizione di merci pericolose per le quali e' previsto il trasporto su strada ordinaria; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                norme integrative per il trasporto di merci appartenenti alla classe 1 del regolamento per il trasporto per ferrovia delle merci pericolose (RMP); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                norme integrative per il trasporto di merci appartenenti alla classe 7 del regolamento per il trasporto per ferrovia delle merci pericolose (RMP).
 
 Le norme regolamentari e tecniche integrative per il trasporto di rifiuti sono adottate ai sensi dell'articolo 18, comma 2, lettera i), e comma 4, del decreto legislativo 5 febbraio 1997, n. 22, e successive modifiche ed integrazioni.
 
@@ -115,6 +239,25 @@ Restano in vigore le disposizioni della legislazione vigente alla data del 31 di
 Il Ministero delle infrastrutture e dei trasporti, sentito per gli aspetti inerenti alla sicurezza il gestore dell'infrastruttura ferroviaria, puo' rilasciare autorizzazioni valide soltanto sul territorio nazionale, per operazioni di trasporto ad hoc definite e limitate nel tempo di merci pericolose, che sono vietate nell'allegato al presente decreto, come modificato per effetto dell'adeguamento tecnico di cui all'articolo 6, comma 1, oppure 
 effettuate in condizioni diverse da quelle previste nello stesso 
  allegato, a condizione che siano rispettati i requisiti di sicurezza.
+
+5-bis.
+                    
+                        
+                            Oltre al caso di cui al comma 5, sentito per gli aspetti 
+inerenti alla sicurezza il gestore dell'infrastruttura ferroviaria, possono essere autorizzati, previa notifica alla Commissione europea e decisione conforme della stessa: 
+ 
+                        
+                        
+                            a)
+                            
+                                su tragitti debitamente designati del territorio nazionale, trasporti regolari di merci pericolose facenti parte di un processo industriale definito, che sono vietati in base alle disposizioni dell'allegato al presente decreto, come modificato per effetto dell'adeguamento tecnico di cui all'articolo 6, comma 1, oppure effettuati in condizioni diverse da quelle previste nello stesso allegato. L'autorizzazione e' rilasciata per trasporti, rigorosamente controllati, in condizioni chiaramente definite e purche' gli stessi rivestano carattere locale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per trasporti locali su brevi distanze, limitati all'interno delle zone portuali, aeroportuali, interportuali o su siti industriali, operazioni di trasporto di merci pericolose a condizioni meno rigorose di quelle stabilite nell'allegato al presente decreto, come modificato per effetto dell'adeguamento tecnico di cui all'articolo 6, comma 1.
 
 Limitatamente al trasporto sul territorio nazionale e a condizione che siano rispettati i requisiti di sicurezza, possono essere concesse deroghe temporanee alle condizioni di trasporto previste nell'allegato al presente decreto allo scopo di svolgere le opportune verifiche ai fini della elaborazione delle proposte di modifica di tali disposizioni per adeguarle al progresso tecnico e industriale.
 

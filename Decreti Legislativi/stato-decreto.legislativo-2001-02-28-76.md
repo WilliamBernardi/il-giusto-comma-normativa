@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2005-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -174,15 +174,69 @@ Sono fatte salve le procedure e gli effetti relativi i concorsi interni ed ester
 
 ## Art. 18.
 
+1.
+                        
+                            
+                                Agli assistenti capo ed ai sovrintendenti capo, in servizio alla data di entrata in vigore del presente decreto, lo scatto aggiuntivo di cui agli articoli 11-bis e 21-bis del decreto legislativo 30 ottobre 1992, n. 443, come introdotti rispettivamente dagli articoli 2 e 6 del presente decreto, e' attribuito con le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    al personale che alla suddetta data abbia gia' maturato almeno quattro anni di effettivo servizio nella qualifica, con decorrenza dalla data di entrata in vigore del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al restante personale, con decorrenza dalla data in cui matura quattro anni di effettivo servizio nella qualifica.
+
 Si osservano le disposizioni di cui ai commi 2 e 3 degli articoli 11-bis e 21-bis citati al comma 1 del presente articolo.
 
 Per il personale di cui al comma 1 che alla data di entrata in vigore del presente decreto non risulta in possesso dei requisiti previsti dai commi 2 e 3 degli articoli 11-bis e 21-bis del decreto legislativo 30 ottobre 1992, n. 443, come introdotti rispettivamente dagli articoli 2 e 6 del presente decreto, lo scatto aggiuntivo e' attribuito con decorrenza dal giorno successivo a quello di acquisizione dei medesimi requisiti.
 
 ## Art. 19.
 
+1.
+                        
+                            
+                                Ai vice sovrintendenti ed agli ispettori, in servizio alla data di entrata in vigore del presente decreto, l'emolumento pensionabile rispettivamente previsto dagli articoli 19-bis e 29-bis del decreto legislativo 30 ottobre 1992, n. 443, come introdotti dagli articoli 5 ed 11 del presente decreto e' attribuito con le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    al personale che alla suddetta data abbia gia' maturato tre anni e sei mesi di effettivo servizio nella qualifica, con decorrenza dalla data di entrata in vigore del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al restante personale, con decorrenza dalla data in cui matura tre anni e sei mesi di effettivo servizio nella qualifica.
+
 Si osservano le disposizioni di cui agli articoli 19-bis e 29-bis citati al comma 1 del presente articolo.
 
 ## Art. 20.
+
+1.
+                        
+                            
+                                Ai vice ispettori, in servizio alla data di entrata in vigore del presente decreto, l'emolumento pensionabile di cui all'articolo 28-bis del decreto legislativo 30 ottobre 1992, n. 443, come introdotto dall'articolo 10 del presente decreto e' attribuito con le seguenti modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    al personale che alla suddetta data abbia gia' maturato un anno di effettivo servizio nella qualifica, con decorrenza dalla data di entrata in vigore del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al restante personale, con decorrenza dalla data in cui matura un anno di effettivo servizio nella qualifica.
 
 Si osservano le disposizioni di cui all'articolo 28-bis citato al comma 1 del presente articolo.
 

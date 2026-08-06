@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,6 +37,47 @@ Ai prodotti definiti all'allegato II si applicano le disposizioni previste dal p
 
 ## Art. 2. — (( (Aggiunte e materie prime autorizzate). ))
 
+1.
+                    
+                        
+                            
+                                ((Ai prodotti di cui all'allegato I possono essere aggiunte le seguenti materie prime e prodotti:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((vitamine e minerali conformemente al regolamento (CE) n. 1925/2006 del Parlamento europeo e del Consiglio, del 20 dicembre 2006;))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((ai fini della correzione del tenore proteico del latte, di cui all'articolo 4:)) 
+ 1) ((retentato di latte: prodotto ottenuto dalla concentrazione delle proteine del latte mediante ultrafiltrazione del latte, del latte parzialmente scremato o del latte scremato;)) 
+ 2) ((permeato di latte: prodotto ottenuto estraendo le proteine e la materia grassa dal latte mediante ultrafiltrazione del latte, del latte parzialmente scremato o del latte scremato;)) 
+ 3) ((lattosio: componente naturale del latte, normalmente ottenuto da siero avente un tenore di lattosio anidro non inferiore al 99,0 per cento m/m su sostanza secca; puo' essere anidro o contenere una molecola di acqua di cristallizzazione o essere costituito da un miscuglio di entrambi;))
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((enzimi alimentari autorizzati in conformita' del regolamento (CE) n. 1332/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008;))
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((additivi alimentari autorizzati in conformita' del regolamento (CE) n. 1333/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008.))
+                                    ((1))
+
 -----------
                         AGGIORNAMENTO (1)
                         
@@ -44,6 +85,31 @@ Ai prodotti definiti all'allegato II si applicano le disposizioni previste dal p
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 3. — Conservazione e trattamento
+
+1.
+                    
+                        
+                            Ferma restando l'applicazione delle disposizioni di cui al regolamento (CE) n. 853/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, che stabilisce norme specifiche in materia di igiene per gli alimenti di origine animale, la conservazione dei prodotti di cui all'articolo 1 si ottiene mediante: 
+ 
+                        
+                        
+                            a)
+                            
+                                trattamento termico di sterilizzazione oppure trattamento UHT e simili per i prodotti di cui all'allegato I, punto 1.1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                aggiunta di zucchero per i prodotti di cui all'allegato I, punto 1.2; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                disidratazione per i prodotti di cui all'allegato I, punto 2 .
 
 Per la fabbricazione dei prodotti di cui all'allegato I, punto 1.2 e' autorizzato il trattamento mediante lattosio in quantita' aggiuntiva non superiore allo 0,03 per cento in peso.
 
@@ -64,6 +130,38 @@ Il tenore proteico del latte puo' essere corretto ad un livello minimo del 34 pe
 
 ((1))
 
+2.
+                    
+                        
+                            I prodotti di cui all'articolo 1 devono riportare: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione della percentuale di materia grassa del latte espressa in peso rispetto al prodotto finito, fatta eccezione per i prodotti di cui all'allegato I, punto 1.1, lettera d), punto 1.2, lettera g), e punto 2, lettera d); inoltre per i prodotti di cui all'allegato I, punto 1, la percentuale di estratto secco magro ottenuto dal latte; queste indicazioni figurano accanto alla denominazione di vendita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i prodotti di cui all'allegato I, punto 2, destinati alla vendita al consumatore, le istruzioni concernenti il modo di diluizione o di ricostituzione integrate dall'indicazione del tenore di materia grassa del prodotto dopo la diluizione o la ricostituzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sull'etichettatura la dicitura «non e' un alimento per lattanti minori di 12 mesi» per i prodotti di cui all'allegato I, punto 2; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                nel caso di prodotti di peso unitario inferiore a 20 grammi, confezionati in imballaggi globali, le indicazioni obbligatorie possono figurare solo sull'imballaggio globale, ad eccezione della denominazione di vendita che deve figurare anche sulle singole unita'.
+
 Le denominazioni di vendita di cui all'allegato I sono riservate ai prodotti definiti nel medesimo allegato e sono utilizzate nel commercio per designare i prodotti stessi; in alternativa, e con i medesimi effetti e obblighi, possono essere utilizzate le denominazioni di cui all'allegato II, alle condizioni e con le espressioni linguistiche ivi indicate.
 
 -----------
@@ -73,6 +171,24 @@ Le denominazioni di vendita di cui all'allegato I sono riservate ai prodotti def
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 6. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono o restano abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il decreto legislativo 20 febbraio 2004, n. 49; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Presidente della Repubblica 10 maggio 1982, n. 514.
 
 Sono fatte salve le disposizioni di cui alla legge 11 aprile 1974, n. 138.
 

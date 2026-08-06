@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -65,6 +65,24 @@ Al fine di promuovere la razionalizzazione e la semplificazione delle procedure 
 I centri interservizi, che operano presso l'Ambasciata sede di servizio dei dirigenti di cui al comma 3 si avvalgono di adeguate risorse umane e strumentali nell'ambito di quelli gia' disponibili.
 
 A ciascun centro interservizi e' preposto il dirigente amministrativo con funzioni di esperto amministrativo/esperto amministrativo capo, il quale coordina, ai fini dell'attivita' del centro interservizi, i funzionari di cui all'articolo 2, operanti negli uffici del Paese, nonche' nell'area geografica di competenza.
+
+4.
+                    
+                        
+                            Ferme restando le competenze dei funzionari delegati di cui all'articolo 75 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, i centri interservizi svolgono, tra l'altro, i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                stipula di convenzioni e contratti quadro per la prestazione di servizi e la fornitura di beni aventi caratteri comuni ai quali le sedi del Paese e, ove possibile, dell'area geografica dovranno conformarsi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                istruttoria ed adempimenti consequenziali ai procedimenti di spesa degli uffici diplomatico-consolari del Paese e dell'area geografica.
 
 ## Art. 6. — Procedure contrattuali all'estero
 

@@ -8,8 +8,8 @@ codice_redazionale: 080U1006
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:05Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -20,4 +20,24 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1.
 
 N.
+
+1006.
+                    
+                        
+                            Decreto del Presidente della Repubblica 21 ottobre 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Bari 1 maggio 1977, integrato con dichiarazione 31 maggio 1977, relativo: 
+                        
+                        
+                            a)
+                            
+                                all'erezione della parrocchia di "San Luca", nel rione Japigia in Bari, con il trasferimento in essa del beneficio parrocchiale di "Madonna di Fatima", in Bari;
+                            
+                        
+                        
+                            b)
+                            
+                                all'incorporazione del territorio della parrocchia Madonna di Fatima nelle limitrofe parrocchia del Redentore e vicarie curate capitolari di S. Croce e di S. Cecilia di Bari.
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 26 gennaio 1981
+ Registro n. 2 Interno, foglio n. 281
 

@@ -8,8 +8,8 @@ codice_redazionale: 095G0070
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,11 +31,92 @@ Il Ministero delle risorse agricole, alimentari e forestali, sentiti la Commissi
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            La gestione della pesca dei molluschi bivalvi puo' essere conferita, per un periodo di tre anni rinnovabile, soltanto al consorzio promosso unitariamente dalle associazioni nazionali di categoria, Federcoopesca, Lega, Associazione generale cooperative italiane, Federpesca, su richiesta delle imprese di pesca interessate, che:
+ 1) comprenda tanti soci che rappresentino un numero non inferiore al 75% delle imprese autorizzate alla cattura dei molluschi bivalvi, con gli attrezzi denominati draga idraulica e rastrello da natante;
+ 2) comprenda natanti autorizzati alla cattura dei molluschi bivalvi con draga idraulica, che abbiano rinunciato, per il periodo della sperimentazione, ad eventuali altre licenze in loro possesso per la pesca con reti da traino e/o da circuizione;
+ 3) abbia lo statuto che preveda:
+ 
+                        
+                        
+                            a)
+                            
+                                in modo esplicito, quale obiettivo primario, l'incremento della risorsa dei molluschi bivalvi attraverso concrete iniziative per la sua salvaguardia, semina, ripopolamento, controllo delle catture, istituzione di aree di riposo biologico, turnazione dell'attivita' di pesca delle navi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la massima collaborazione con il Ministero delle risorse agricole, alimentari e forestali e gli istituti di ricerca per studi e ricerche sull'ambiente marino, in stretto collegamento con l'attivita' di pesca dei molluschi bivalvi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la promozione della formazione e della qualificazione professionale del personale addetto alla pesca dei molluschi bivalvi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la valorizzazione della qualita' dei prodotti.
+
 Gli statuti dei consorzi, nonche' le successive modificazioni, devono essere comunicati, per la loro approvazione, al Ministero delle risorse agricole, alimentari e forestali - Direzione generale della pesca e dell'acquicoltura.
 
 La richiesta per la gestione della pesca di cui al presente decreto puo' essere presentata entro sessanta giorni dalla entrata in vigore del presente regolamento.
 
 ## Art. 3.
+
+1.
+                    
+                        
+                            Il consorzio, nei limiti della disciplina della pesca vigente in materia, puo' proporre al Ministero e al capo del compartimento marittimo misure tecniche per quanto riguarda:
+ 
+                        
+                        
+                            a)
+                            
+                                i quantitativi massimi pescabili da ciascuna impresa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'uso degli attrezzi consentiti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i periodi di tempo per lo svolgimento di detta attivita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                modificazioni ai punti di sbarco autorizzati;
+
+                            
+                        
+                        
+                            e)
+                            
+                                costituzione di aree di ripopolamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                criteri per l'assegnazione di nuove autorizzazioni e per l'assegnazione delle autorizzazioni comunque disponibili, nonche' per la riduzione delle autorizzazioni in eccesso rispetto alle risorse biologiche disponibili, ivi comprese quelle assentite sulla base del principio di reciprocita' tra compartimenti.
 
 Il consorzio puo' altresi' proporre altre misure ritenute idonee ad assicurare la gestione razionale delle risorse, nonche' eventuali sanzioni per i soci che abbiano violato le norme in materia.
 

@@ -8,8 +8,8 @@ codice_redazionale: 007G0045
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -35,9 +35,45 @@ La garanzia del Fondo opera quale garanzia di ultima istanza volta al ripianamen
 
 ## Art. 3. — Motivi di non operativita' della garanzia del Fondo
 
+1.
+                    
+                        
+                            Sono motivi di non operativita' della garanzia del Fondo:
+ 
+                        
+                        
+                            a)
+                            
+                                il ritardo non giustificato e la non tempestivita' nel dare corso alle procedure esecutive che ha pregiudicato o, comunque, non consentito il recupero del credito;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'omessa querela in danno del custode dei beni sottoposti a sequestro o pignoramento nel caso di distruzione, sottrazione o alienazione degli stessi.
+
 ## Art. 4. — Richiesta di operativita' della garanzia statale
 
 La richiesta di escussione della garanzia e' presentata tramite raccomandata dai creditori al Ministero del-l'economia e delle finanze - Dipartimento del Tesoro - Direzione VI - Ufficio V, di seguito denominato «Ministero» e, per conoscenza all'amministrazione del partito o movimento politico interessato, entro 60 giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica italiana.
+
+2.
+                    
+                        
+                            Alla richiesta deve essere allegata idonea documentazione comprovante:
+ 
+                        
+                        
+                            a)
+                            
+                                la sussistenza del debito maturato antecedentemente alla data del 5 giugno 1999;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i risultati delle procedure di recupero attivate dai creditori.
 
 Gli amministratori entro 30 giorni dal ricevimento della raccomandata di cui al comma 1 trasmettono al Ministero la documentazione comprovante la costituzione del debito anteriormente al 5 giugno 1999 nonche' le vicende di natura amministrativa e giudiziaria relative al debito stesso.
 

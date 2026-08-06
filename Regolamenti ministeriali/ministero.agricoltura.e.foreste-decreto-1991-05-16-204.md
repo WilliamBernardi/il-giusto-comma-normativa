@@ -8,8 +8,8 @@ codice_redazionale: 091G0245
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -53,6 +53,45 @@ Qualora il richiedente i premi si avvalga del disposto di cui all'art. 5, par. 4
 
 ## Art. 4.
 
+1.
+                    
+                        
+                            Il produttore, dal momento della presentazione della domanda per l'ottenimento dei premi, e' tenuto ad istituire un registro di sta- lla, nel quale dovra' essere annotato, ai fini del controllo, ogni elemento utile riguardante la mandria delle vacche ed in particolare:
+ 
+                        
+                        
+                            a)
+                            
+                                data di nascita;
+
+                            
+                        
+                        
+                            b)
+                            
+                                razza di appartenenza;
+
+                            
+                        
+                        
+                            c)
+                            
+                                marca di identificazione applicata, tipo e numero;
+
+                            
+                        
+                        
+                            d)
+                            
+                                data dell'ultima fecondazione e toro utilizzato;
+
+                            
+                        
+                        
+                            e)
+                            
+                                eventuali cause di forza maggiore o circostanze naturali nella vita della mandria che hanno comportato riduzione numerica della stessa.
+
 ## Art. 5.
 
 Sono esclusi dal beneficio dei premi i produttori che non adempiano agli obblighi previsti dalla regolamentazione comunitaria e nazionale e che in particolare:
@@ -72,6 +111,24 @@ Il bestiame per il quale vengono richiesti i premi deve essere identificato.
 
 Nel caso in cui le domande siano presentate sulla base del fac- simile allegato 1, l'identificazione deve essere effettuata dagli organismi di controllo, entro settantacinque giorni a decorrere dalla data di presentazione della domanda, mediante marca fissata con tre perni passanti ad una piastra di bloccaggio munita di appendice, da applicarsi al padiglione auricolare dell'animale.
 
+3.
+                    
+                        
+                            La marca di cui al precedente comma dovra' riportare le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                sigla della provincia interessata;
+
+                            
+                        
+                        
+                            b)
+                            
+                                numero progressivo con l'utilizzazione di una serie di cinque cifre, al completamento della quale si ripartira' dal numero 1 seguito da una lettera dell'alfabeto.
+
 Per il bestiame iscritto al libro genealogico o per quello gia' identificato ai sensi del precedente comma 2, o mediante altre marche auricolari ritenute idonee da parte degli organismi di controllo, e' sufficiente che in domanda vengano indicati, rispettivamente, il numero di iscrizione attribuito ad ogni singolo capo con relativa razza di appartenenza e/o il numero di identificazione delle marche utilizzate.
 
 Nel caso in cui le domande vengano presentate sulla base del fac-simile allegato 2, il bestiame per il quale e' richiesto il premio, deve risultare gia' identificato al momento della presentazione delle domande secondo le disposizioni di cui ai precedenti commi 3 e 4.
@@ -86,11 +143,72 @@ Entro il termine del 15 marzo di ogni anno, gli organismi di controllo comunican
 
 ## Art. 9.
 
+1.
+                    
+                        
+                            Entro il termine improrogabile di centoventi giorni della scadenza della data di presentazione della domanda, gli organismi di controllo inviano all'A.I.M.A. in triplice copia:
+ 
+                        
+                        
+                            a)
+                            
+                                gli elenchi delle domande definite, con atto di liquidazione compilato secondo lo schema degli allegati 3 e 4;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'elenco delle domande respinte, compilato secondo lo schema allegato 5.
+
 Sulla base degli elenchi di cui al paragrafo precedente lettera a), l'A.I.M.A. provvedera' ad effettuare i pagamenti nel piu' breve tempo possibile e comunque non oltre i termini previsti all'art. 3, par. 1, del regolamento CEE n. 1244/8/2.
 
 ## Art. 10.
 
 Nel corso dei sei mesi successivi alla data di presentazione della domanda, gli organismi di controllo completano i controlli amministrativi con sopralluoghi in azienda, tendenti ad accertare il rispetto degli impegni di cui all'art. 2 e all'art. 2- bis del regolamento CEE n. 1357/80, nonche' la rispondenza delle dichiarazioni rese in domanda con la situazione reale dell'azienda e dell'allevamento.
+
+2.
+                    
+                        
+                            I controlli amministrativi dovranno riguardare la verifica e il confronto:
+ 
+                        
+                        
+                            a)
+                            
+                                dell'elenco dei produttori che hanno richiesto il premio con l'elenco di coloro che detengono un quantitativo di riferimento a norma dell'art. 5-quater del regolamento CEE n. 804/68;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per coloro che hanno presentato domanda sulla base del fac- simile allegato 1, che non sia stata effettuata alcuna consegna di latte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per coloro che hanno presentato domanda sulla base del fac- simile allegato 2, della corrispondenza del quantitativo di riferimento indicato con quello attribuito a norma delle vigenti disposizioni impartite nel settore lattiero-caseario, nonche' la coerenza tra il medesimo quantitativo di riferimento ed il numero della vacche da latte dichiarate in domanda, in base alla resa media lattiera di cui in allegato al regolamento CEE n. 1244/82, o ad altro documento ufficiale che certifichi la resa media lattiera prodotta in azienda dal richiedente il premio.
+
+3.
+                    
+                        
+                            I controlli di cui al precedente paragrafo 2 dovranno essere espletati per almeno il 10% delle domande di cui alla lettera b) e sulla totalita' di quelle di cui alla lettera c) secondo le indicazioni di seguito riportate:
+ 
+                        
+                        
+                            a)
+                            
+                                per i produttori non associati all'UNALAT, mediante verifica dell'elenco pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 296 del 20 dicembre 1990;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i produttori associati all'UNALAT, mediante riscontro presso l'associazione dei produttori a cui appartiene il richiedente il premio.
 
 I sopralluoghi in azienda sono effettuati a sondaggio e devono riguardare un numero non inferiore al 10% del numero dei richiedenti all'anno. Tuttavia gli organismi di controllo, qualora il totale degli animali per i quali vengono richiesti i premi non sia compatibile a livello regionale con il patrimonio bovino censito, avranno cura di elevare in maniera sensibile tale percentuale.
 

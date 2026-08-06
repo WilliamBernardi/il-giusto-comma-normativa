@@ -8,8 +8,8 @@ codice_redazionale: 098G0300
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,7 +37,57 @@ Nella individuazione delle vacanze si tiene conto dei posti gia' oggetto di conc
 
 ## Art. 3.
 
+1.
+                    
+                        
+                            I bandi di mobilita' su base regionale prevedono:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti disponibili distinti per ogni livello e per ogni singola regione, tenuto conto di quanto disposto all'articolo 2;
+                            
+                        
+                        
+                            b)
+                            
+                                il titolo di precedenza per coloro che gia' prestano servizio in
+uffici delle amministrazioni dello Stato aventi sede nella stessa regione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i titoli di studio richiesti per ogni singolo livello (laurea o diploma di scuola media superiore ad indirizzo tecnico);
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli eventuali titoli di specializzazione o qualificazione professionale.
+
 ## Art. 4.
+
+1.
+                    
+                        
+                            Il Ministero del lavoro e della previdenza sociale, entro sessanta giorni dalla data di scadenza dei termini per la presentazione delle domande, sulla base della corrispondenza tra la qualifica funzionale di provenienza con quella prevista nel bando, procede, attraverso apposite commissioni, nominate ai sensi del decreto del Presidente della Repubblica 9 maggio 1994, n. 487, come modificato dal decreto del Presidente della Repubblica 30 ottobre 1996, n. 693, alla formazione ed approvazione delle graduatorie degli aspiranti, distinte per regioni, e previa fissazione dei punteggi relativi ai requisiti secondo il seguente ordine di priorita':
+ 
+                        
+                        
+                            a)
+                            
+                                titoli di studio, di formazione e di aggiornamento professionale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                anzianita' complessiva di servizio.
 
 A parita' di punteggio hanno precedenza gli aspiranti che si trovano gia' in posizione di comando, di distacco, o fuori ruolo presso le direzioni del lavoro della stessa regione.
 

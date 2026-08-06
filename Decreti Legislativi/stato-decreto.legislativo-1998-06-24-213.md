@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:21Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,6 +25,157 @@ Entrata in vigore del decreto: 9-7-1998
 ## Art. 1. — Definizioni
 
 
+
+1.
+                        
+                            
+                                Nel presente decreto si intendono per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "Stati membri partecipanti": i paesi che adottano la moneta unica conformemente al Trattato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "strumenti giuridici": disposizioni normative, atti amministrativi, decisioni giudiziarie, contratti, atti giuridici unilaterali, strumenti di pagamento diversi dalle banconote e dalle monete metalliche ed altri strumenti aventi efficacia giuridica, di cui al Regolamento (CE) 1103/97 del 17 giugno 1997; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "tasso di conversione": il tasso di cambio irrevocabilmente fissato tra l'euro e la moneta nazionale di uno Stato membro partecipante e tra l'euro e l'ecu; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "valute aderenti": le monete nazionali degli Stati membri partecipanti, nonche' l'ecu; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "lira": la lira italiana; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "Trattato": il Trattato istitutivo della Comunita' Europea, e successive modifiche e integrazioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "periodo transitorio": il periodo di tempo compreso tra il 1 gennaio 1999 e il 31 dicembre 2001; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "Tesoro": il Ministero del tesoro, del bilancio e della programmazione economica; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "ridenominazione": la modifica dell'unita' nella quale e' espresso l'importo di un debito in essere da un'unita' monetaria nazionale all'unita' euro; 
+
+                                
+                            
+                            
+                                j)
+                                
+                                    "titoli di Stato": tutti i titoli, a breve e medio-lungo termine, emessi dal tesoro, nonche' i prestiti emessi dalle Ferrovie dello Stato e riconosciuti come debiti dello Stato ai sensi dell'articolo 2, comma 12, della legge 23 dicembre 1996, n. 662; 
+
+                                
+                            
+                            
+                                k)
+                                
+                                    "banca": l'impresa indicata nell'articolo 1, comma 1, lettera b), del decreto legislativo 1 settembre 1993, n. 385; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "societa' finanziaria": la societa' indicata nell'articolo 59, comma 1, lettera b), del decreto legislativo 1 settembre 1993, n. 385 che redige il bilancio ai sensi del decreto legislativo 27 gennaio 1992, n. 87; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    "imprese di assicurazione": le imprese di cui all'articolo 1 del decreto legislativo 26 maggio 1997, n. 173; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    "documenti contabili obbligatori a rilevanza esterna": il bilancio dell'impresa, il bilancio consolidato, gli altri prospetti e rendiconti annuali e infra-annuali, periodici e straordinari, destinati al pubblico; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    "moneta di conto": la moneta, lira o euro, che risulta in prevalenza utilizzata, a partire da un dato momento, per la rilevazione delle operazioni di gestione; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    "elementi monetari": le disponibilita' di denaro, le attivita' e passivita' iscritte in bilancio e le restanti operazioni in corso (dette anche "fuori bilancio") che comportano o comporteranno il diritto a incassare o l'obbligo a pagare a date future importi di denaro determinati o determinabili; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    "attivita', passivita' e operazioni fuori bilancio": gli elementi dell'attivo e del passivo del bilancio nonche' le garanzie rilasciate, gli impegni a erogare o a ricevere fondi, i contratti di compravendita non ancora regolati e i contratti derivati; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    "organismi di investimento collettivo del risparmio (OICR)": i fondi comuni di investimento aperti e chiusi e le societa' di investimento a capitale variabile; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    "societa' di gestione accentrata": societa' avente le caratteristiche di cui all'articolo 80 del decreto legislativo 24 febbraio 1998, n. 58; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    "societa' quotata": societa' emittente strumenti finanziari negoziati sui mercati regolamentati italiani; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    "fondi pensione": le forme pensionistiche di cui al decreto legislativo 21 aprile 1993, n. 124 e successive modifiche e integrazioni.
 
 ## - TITOLO II PARAMETRI DI INDICIZZAZIONE, CALCOLI INTERMEDI E IMPORTI IN LIRE CONTENUTI IN NORME VIGENTI
 
@@ -43,7 +194,170 @@ Gli arbitratori, entro 45 giorni dall'accettazione dell'incarico, prorogabili pe
 
 ## Art. 3. — (Calcoli intermedi)
 
+1.
+                        
+                            
+                                Quando un importo in lire contenuto in strumenti giuridici diversi dalle norme vigenti non costituisce autonomo importo monetario da contabilizzare o da pagare ed occorre convertirlo in euro, l'importo convertito, salvo diverso accordo, va utilizzato con almeno:
+ 
+                            
+                            
+                                a)
+                                
+                                    cinque cifre decimali per gli importi originariamente espressi in unita' di lire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quattro cifre decimali per gli importi originariamente espressi in decine di lire;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tre cifre decimali per gli importi originariamente espressi in centinaia di lire;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due cifre decimali per gli importi originariamente espressi in migliaia di lire, salvo quanto previsto dall'articolo 4.4 del Regolamento (CE) n. 1103/97 del 17 giugno 1997.
+
+2.
+                        
+                            
+                                Quando un importo in euro non costituisce autonomo importo monetario da contabilizzare o da pagare e' possibile trattarlo, anche elettronicamente, con un numero di cifre decimali a piacere. Nei casi indicati al comma 1 il numero di cifre decimali non puo' comunque essere inferiore a quello minimo richiesto dalle lettere da 
+                            
+                            
+                                a)
+                                
+                                    a d).
+
 ## Art. 4. — (Importi in lire contenuti in norme vigenti)
+
+1.
+                        
+                            
+                                A decorrere dal 1 gennaio 1999, quando un importo in lire contenuto in (( norme vigenti, ivi comprese quelle che stabiliscono tariffe, prezzi amministrati o comunque imposti )) non costituisce autonomo importo monetario da pagare o contabilizzare ed occorre convertirlo in euro, l'importo convertito va utilizzato con almeno:
+ 
+                            
+                            
+                                a)
+                                
+                                    cinque cifre decimali per gli importi originariamente espressi in unita' di lire;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quattro cifre decimali per gli importi originariamente espressi in decine di lire;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tre cifre decimali per gli importi originariamente espressi in centinaia di lire;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    due cifre decimali per gli importi originariamente espressi in migliaia di lire.
+
+2.
+                        
+                            
+                                A decorrere dal 1 gennaio 2002:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 2327 del codice civile e' sostituito dal seguente: "La societa' per azioni deve costituirsi con un capitale non inferiore a centomila euro.
+ Il valore nominale delle azioni delle societa' di nuova costituzione e' di un euro o suoi multipli.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i commi primo, secondo e terzo dell'articolo 2474 del codice civile sono sostituiti dai seguenti: "La societa' deve costituirsi con un capitale non inferiore a diecimila euro.
+ Le quote di conferimento dei soci possono essere di diverso ammontare, ma in nessun caso inferiori ad un euro.
+ Se la quota di conferimento e' superiore al minimo, deve essere costituita da un ammontare multiplo di un euro.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i commi primo e secondo dell'articolo 2521 del codice civile sono sostituiti dai seguenti: "Nelle societa' cooperative nessun socio puo' avere una quota superiore a cinquantamila euro, ne' tante azioni il cui valore nominale superi tale somma.
+ Il valore nominale di ciascuna quota o azione non puo' essere inferiore a venticinque euro. Il valore nominale di ciascuna azione non puo' essere superiore a cinquecento euro.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il comma 2 dell'articolo 29 del decreto legislativo 1 settembre 1993, n. 385, e' sostituito dal seguente:
+ "2. Il valore nominale delle azioni non puo' essere inferiore a due euro.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 4 dell'articolo 33 del decreto legislativo 1 settembre 1993, n. 385, e' sostituito dal seguente:
+ "4. Il valore nominale di ciascuna azione non puo' essere inferiore a venticinque euro ne' superiore a cinquecento euro.";
+
+                                
+                            
+                            
+                                f)
+                                
+                                    il comma 4 dell'articolo 34 del decreto legislativo 1 settembre 1993, n. 385, e' sostituito dal seguente:
+ "4. Nessun socio puo' possedere azioni il cui valore nominale complessivo superi cinquantamila euro.";
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il comma 1 dell'articolo 10 del decreto legislativo 17 marzo 1995, n. 174, e' sostituito dal seguente:
+ "1. Il capitale delle societa' per azioni e il fondo di garanzia delle societa' di mutua assicurazione non possono essere inferiori a cinque milioni di euro";
+
+                                
+                            
+                            
+                                h)
+                                
+                                    il comma 1 dell'articolo 12 del decreto legislativo 17 marzo 1995, n. 175, e' sostituito dal seguente:
+ "1. Il capitale delle societa' per azioni e il fondo di garanzia delle societa' di mutua assicurazione non possono essere inferiori a:
+a) cinque milioni di euro quando l'esercizio comprende le
+assicurazioni dei rami indicati ai numeri 10, 11, 12, 13, 14 e 15 del punto A) della tabella allegata;
+ b) duemilionicinquecentomila euro quando l'esercizio comprende le assicurazioni dei rami indicati ai numeri 1, 2, 3, 4, 5, 6, 7, 8, 16 e 18 del punto A) della suddetta tabella;
+ c) unmilionecinquecentomila euro quando l'esercizio comprende le assicurazioni dei rami indicati ai numeri 9 e 17 del punto A) della suddetta tabella.".
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    il comma 1 dell'articolo 3 della legge 31 gennaio 1992, n. 59, e' sostituito dal seguente:
+ "1. Il limite massimo della quota e delle azioni che ciascun socio persona fisica puo' possedere, stabilito dal primo comma dell'articolo 24 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577, ratificato, con modificazioni, con legge 2 aprile 1951, n. 302, e successive modificazioni, da ultimo elevato dall'articolo 17, primo comma, della legge 19 marzo 1983, n. 72, e' determinato in cinquantamila euro. Per i soci delle cooperative di manipolazioni, trasformazione, conservazione e commercializzazione dei prodotti agricoli e di quelle di produzione e lavoro, tale limite e' fissato in settantamila euro";
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    l'articolo 2485 del codice civile e' sostituito dal seguente:
+ "Ogni socio ha diritto ad almeno un voto nell'assemblea. Se la quota e' multipla di un euro, il socio ha diritto a un voto per ogni euro".
 
 Il comma 2 si applica fin dal 1 gennaio 1999 alle societa' che si costituiscono con capitale espresso in euro.
 
@@ -166,6 +480,65 @@ Il saldo delle differenze dovute alla traduzione in euro dei valori di conto esp
 
 Ai documenti contabili obbligatori a rilevanza esterna redatti in euro nel periodo transitorio si applicano le disposizioni del comma 8.
 
+8.
+                        
+                            
+                                A decorrere dal 1 gennaio 2002:
+ 
+                            
+                            
+                                a)
+                                
+                                    il quinto comma dell'articolo 2423 del codice civile e' sostituito dal seguente: "Il bilancio e' redatto in unita' di euro, senza cifre decimali, ad eccezione della nota integrativa che puo' essere redatta in migliaia di euro.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 29 del decreto legislativo 9 aprile 1991, n. 127 e' aggiunto il seguente comma 6:
+ "6. Il bilancio consolidato puo' essere redatto in migliaia di euro.";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 7 dell'articolo 7 del decreto legislativo 27 gennaio 1992, n. 87 e' sostituito dal seguente:
+ "7. Il bilancio e' redatto in unita' di euro, senza cifre decimali, ad eccezione della nota integrativa che puo' essere redatta in migliaia di euro. Gli atti di cui all'articolo 5 possono imporre che la nota integrativa sia redatta in migliaia di euro oppure consentire o imporre un grado di sintesi maggiore delle migliaia, sentita la Consob per le societa' quotate. E' ammessa la tenuta di una contabilita' plurimonetaria.";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 30 del decreto legislativo 27 gennaio 1992, n. 87 e' aggiunto il seguente comma 3:
+ "3. Il bilancio consolidato puo' essere redatto in migliaia di euro. Gli atti di cui all'articolo 5 possono imporre che il bilancio consolidato sia redatto in migliaia di euro oppure consentire o imporre un grado di sintesi maggiore delle migliaia, sentita la Consob per le societa' quotate.";
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il comma 4 dell'articolo 9 del decreto legislativo 26 maggio 1997, n. 173 e' sostituito dal seguente:
+ "4. Il bilancio e' redatto in unita' di euro, senza cifre decimali, ad eccezione della nota integrativa che puo' essere redatta in migliaia di euro. Nell'esercizio dei poteri indicati all'articolo 6, l'ISVAP puo' imporre che la nota integrativa sia redatta in migliaia di euro oppure consentire o imporre un grado di sintesi maggiore delle migliaia, sentita la Consob per le societa' quotate.
+E' consentita la tenuta di una contabilita' plurimonetaria.";
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 65 del decreto legislativo 26 maggio 1997, n. 173 e' aggiunto il seguente comma 6:
+ "6. Il bilancio consolidato puo' essere redatto in migliaia di euro. Nell'esercizio dei poteri indicati all'articolo 6, l'ISVAP puo' imporre che il bilancio consolidato sia redatto in migliaia di euro oppure consentire o imporre un grado di sintesi maggiore delle migliaia, sentita la Consob per le societa' quotate.";
+
+                                
+                            
+                            
+                                g)
+                                
+                                    alle societa' quotate, diverse da quelle soggette alle norme di cui alle lettere da c) ad f), la Consob puo' imporre che la nota integrativa del bilancio d'impresa e il bilancio consolidato siano redatti in migliaia di euro oppure consentire o imporre un grado di sintesi maggiore delle migliaia.
+
 ## Art. 17. — Conversione in euro del capitale sociale
 
 Le societa' con azioni il cui valore nominale e' superiore a lire duecento, che intendono avvalersi di quanto disposto dal comma 5, provvedono a convertirle in euro applicando il tasso di conversione ed arrotondando il risultato ai centesimi secondo quanto stabilito dall'articolo 5 del Regolamento (CE) n. 1103/97. In alternativa, le medesime societa' possono avvalersi di quanto disposto al comma 6.
@@ -236,11 +609,47 @@ Le attivita', le passivita' e le operazioni fuori bilancio denominate in valute 
 
 Le differenze cambio rilevate ai sensi del comma 2, primo periodo, sono incluse nel conto economico a norma dell'articolo 21, comma 3, del decreto legislativo 27 gennaio 1992 n. 87.
 
+4.
+                        
+                            
+                                In alternativa a quando disposto nel comma 3, alle differenze cambio relative alle immobilizzazioni finanziarie, materiali e immateriali che non sono coperte ne' globalmente ne' specificamente sul mercato a pronti o su quello a termine puo' essere riservato il seguente trattamento:
+ 
+                            
+                            
+                                a)
+                                
+                                    le differenze cambio inerenti ai titoli di debito, se positive, sono accreditate direttamente in una riserva non distribuibile specificamente costituita; se negative, sono addebitate direttamente alle riserve preesistenti, ivi compresa l'anzidetta riserva non distribuibile. Tali differenze vengono trasferite al conto economico alternativamente: 1) negli esercizi di scadenza o di cessione dei rispettivi titoli; 2) nel primo esercizio e in quelli successivi in misura corrispondente a frazioni computate in ragione della durata residua di ciascun titolo; se il titolo viene ceduto, la differenza cambio rimanente va inclusa per intero nel conto economico dell'esercizio nel quale la cessione avviene; 3) nel primo esercizio e nei tre successivi in quote costanti del saldo di tutte le differenze;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le differenze cambio relative alle partecipazioni, alle immobilizzazioni materiali e a quelle immateriali, se positive, sono accreditate direttamente in una riserva, specificamente costituita, non distribuibile se non in misura corrispondente ai valori realizzati per effetto di cessioni, di ammortamenti o di svalutazioni, se negative, sono addebitate direttamente alle riserve preesistenti, ivi compresa l'anzidetta riserva non distribuibile.
+
 Le differenze cambio concorrono alla determinazione del reddito d'impresa nell'esercizio in cui sono iscritte nel conto economico o, limitatamente alle differenze indicate alla lettera b) del comma 4, nell'esercizio in cui si considerano realizzate per effetto di cessioni, di ammortamenti o di svalutazioni.
 
 Nella nota integrativa del bilancio sono separatamente illustrati i criteri di rilevazione e di trattamento adottati ai sensi dei commi 2, 3 e 4 del presente articolo, l'ammontare complessivo delle differenze cambio positive e negative e gli importi iscritti nel conto economico e nello stato patrimoniale.
 
 ## Art. 22. — (Organismi di investimento collettivo del risparmio)
+
+1.
+                        
+                            
+                                Ai documenti contabili obbligatori a rilevanza esterna degli OICR si applicano le disposizioni contenute:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 16, commi da 1 a 6, inclusa la facolta' di cui al comma 3; limitatamente al rendiconto di gestione e al bilancio si applicano anche i commi 7 e 8;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 21, comma 2, primo periodo, dal 1 gennaio 1999; nella relazione degli amministratori che accompagna il rendiconto di gestione o il bilancio sono fornite le informazioni di cui al comma 6 dell'articolo 21.
 
 ## Art. 23. — (Bilancio consolidato)
 

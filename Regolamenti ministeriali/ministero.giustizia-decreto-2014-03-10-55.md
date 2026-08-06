@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2022-10-23
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -58,6 +58,52 @@ Nell'ipotesi in cui, ferma l'identita' di posizione processuale dei vari soggett
 I parametri previsti dalla allegata tabella n. 7 per i procedimenti di volontaria giurisdizione si applicano esclusivamente a quelli aventi natura non contenziosa.
 
 ))
+
+5.
+                        
+                            
+                                Il compenso e' liquidato per fasi. Con riferimento alle diverse fasi del giudizio si intende esemplificativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per fase di studio della controversia: l'esame e lo studio degli atti a seguito della consultazione con il cliente, le ispezioni dei luoghi, la ricerca dei documenti e la conseguente relazione o parere, scritti oppure orali, al cliente, precedenti la costituzione in giudizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per fase introduttiva del giudizio: gli atti introduttivi del giudizio e di costituzione in giudizio, e il relativo esame incluso quello degli allegati, quali ricorsi, controricorsi, citazioni, comparse, chiamate di terzo ed esame delle relative autorizzazioni giudiziali, l'esame di provvedimenti giudiziali di fissazione della prima udienza, memorie iniziali, interventi, istanze, impugnazioni, le relative notificazioni, l'esame delle corrispondenti relate, l'iscrizione a ruolo, il versamento del contributo unificato, le rinnovazioni o riassunzioni della domanda, le autentiche di firma o l'esame della procura notarile, la formazione del fascicolo e della posizione della pratica in studio, le ulteriori consultazioni con il cliente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per fase istruttoria: le richieste di prova, le memorie illustrative o di precisazione o integrazione delle domande o dei motivi d'impugnazione, eccezioni e conclusioni, l'esame degli scritti o documenti delle altre parti o dei provvedimenti giudiziali pronunciati nel corso e in funzione dell'istruzione, gli adempimenti o le prestazioni connesse ai suddetti provvedimenti giudiziali, le partecipazioni e assistenze relative ad attivita' istruttorie, gli atti necessari per la formazione della prova o del mezzo istruttorio anche quando disposto d'ufficio, la designazione di consulenti di parte, l'esame delle corrispondenti attivita' e designazioni delle altre parti, l'esame delle deduzioni dei consulenti d'ufficio o delle altre parti, la notificazione delle domande nuove o di altri atti nel corso del giudizio compresi quelli al contumace, le relative richieste di copie al cancelliere, le istanze al giudice in qualsiasi forma, le dichiarazioni rese nei casi previsti dalla legge, le deduzioni a verbale, le intimazioni dei testimoni, comprese le notificazioni e l'esame delle relative relate, i procedimenti comunque incidentali comprese le querele di falso e quelli inerenti alla verificazione delle scritture private. Al fine di valutare il grado di complessita' della fase rilevano, in particolare, le plurime memorie per parte, necessarie o autorizzate dal giudice, comunque denominate ma non meramente illustrative, ovvero le plurime richieste istruttorie ammesse per ciascuna parte e le plurime prove assunte per ciascuna parte. La fase rileva ai fini della liquidazione del compenso quando effettivamente svolta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per fase decisionale: le precisazioni delle conclusioni e l'esame di quelle delle altre parti, le memorie, illustrative o conclusionali anche in replica, compreso il loro deposito ed esame, la discussione orale, sia in camera di consiglio che in udienza pubblica, le note illustrative accessorie a quest'ultima, la redazione e il deposito delle note spese, l'esame e la registrazione o pubblicazione del provvedimento conclusivo del giudizio, comprese le richieste di copie al cancelliere, il ritiro del fascicolo, l'iscrizione di ipoteca giudiziale del provvedimento conclusivo stesso; il giudice, nella liquidazione della fase, tiene conto, in ogni caso, di tutte le attivita' successive alla decisione e che non rientrano, in particolare, nella fase di cui alla lettera e); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per fase di studio e introduttiva del procedimento esecutivo: la disamina del titolo esecutivo, la notificazione dello stesso unitamente al precetto, l'esame delle relative relate, il pignoramento e l'esame del relativo verbale, le iscrizioni, trascrizioni e annotazioni, gli atti d'intervento, le ispezioni ipotecarie, catastali, l'esame dei relativi atti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per fase istruttoria e di trattazione del procedimento esecutivo: ogni attivita' del procedimento stesso non compresa nella lettera e), quali le assistenze all'udienza o agli atti esecutivi di qualsiasi tipo.
 
 ((
 
@@ -161,6 +207,38 @@ Per gli affari e le cause fuori dal luogo ove svolge la professione in modo prev
 Ai fini della liquidazione del compenso spettante per l'attivita' penale si tiene conto delle caratteristiche, dell'urgenza e del pregio dell'attivita' prestata, dell'importanza, della natura, della complessita' del procedimento, della gravita' e del numero delle imputazioni, del numero e della complessita' delle questioni giuridiche e di fatto trattate, dei contrasti giurisprudenziali, dell'autorita' giudiziaria dinanzi cui si svolge la prestazione, della rilevanza patrimoniale, del numero dei documenti e degli atti da esaminare, della continuita' dell'impegno anche in relazione alla frequenza di trasferimenti fuori dal luogo ove svolge la professione in modo prevalente, nonche' dell'esito ottenuto avuto anche riguardo alle conseguenze civili e alle condizioni finanziarie del cliente. Si tiene altresi' conto del numero di udienze, pubbliche o camerali, diverse da quelle di mero rinvio, e del tempo necessario all'espletamento delle attivita' medesime. Il giudice tiene conto dei valori medi di cui alle tabelle allegate, che, in applicazione dei parametri generali, possono essere aumentati ((fino al 50 per cento)), ovvero possono essere diminuiti in ogni caso non oltre il 50 per cento. (2)
 
 Quando l'avvocato assiste piu' soggetti aventi la stessa posizione procedimentale o processuale, il compenso unico puo' ((...)) essere aumentato per ogni soggetto oltre il primo nella misura del 30 per cento, fino a un massimo di dieci soggetti, e del 10 per cento per ogni soggetto oltre i primi dieci, fino a un massimo di trenta. La disposizione del periodo precedente si applica anche quando il numero dei soggetti ovvero delle imputazioni e' incrementato per effetto di riunione di piu' procedimenti, dal momento della disposta riunione, e anche quando il professionista difende un singolo soggetto contro piu' soggetti, sempre che la prestazione non comporti l'esame di medesime situazioni di fatto o di diritto. Quando, ferma l'identita' di posizione procedimentale o processuale, la prestazione professionale non comporta l'esame di specifiche e distinte situazioni di fatto o di diritto in relazione ai diversi soggetti e in rapporto alle contestazioni, il compenso altrimenti liquidabile per l'assistenza di un solo soggetto e' ridotto in misura non superiore al 30 per cento. Per le liquidazioni delle prestazioni svolte in favore di soggetti ammessi al patrocinio a spese dello Stato a norma del testo unico delle spese di giustizia di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, si tiene specifico conto della concreta incidenza degli atti assunti rispetto alla posizione processuale della persona difesa. (2)
+
+3.
+                        
+                            
+                                Il compenso si liquida per fasi. Con riferimento alle diverse fasi del giudizio si intende esemplificativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per fase di studio, ivi compresa l'attivita' investigativa: l'esame e studio degli atti, le ispezioni dei luoghi, la iniziale ricerca di documenti, le consultazioni con il cliente, i colleghi o i consulenti, le relazioni o i pareri, scritti o orali, che esauriscano l'attivita' e sono resi in momento antecedente alla fase introduttiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per fase introduttiva del giudizio: gli atti introduttivi quali esposti, denunce querele, istanze richieste dichiarazioni, opposizioni, ricorsi, impugnazioni, memorie, intervento del responsabile civile e la citazione del responsabile civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per fase istruttoria o dibattimentale: le richieste, gli scritti, le partecipazioni o assistenze relative ad atti ed attivita' istruttorie procedimentali o processuali anche preliminari, rese anche in udienze pubbliche o in camera di consiglio, che sono funzionali alla ricerca di mezzi di prova, alla formazione della prova, comprese liste, citazioni e le relative notificazioni, l'esame dei consulenti, testimoni, indagati o imputati di reato connesso o collegato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per fase decisionale: le difese orali o scritte, le repliche, l'assistenza alla discussione delle altre parti processuali sia in camera di consiglio che in udienza pubblica.
 
 ((
 

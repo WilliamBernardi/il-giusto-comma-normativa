@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2024-12-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -62,6 +62,40 @@ Ai fini del presente decreto si applicano, inoltre, le definizioni di "rifiuto",
 
 Le disposizioni del presente decreto si applicano a tutte le discariche, come definite dall'articolo 2, comma 1, lettera g).
 
+2.
+                    
+                        
+                            Il presente decreto non si applica: 
+ 
+ 
+                        
+                        
+                            a)
+                            
+                                alle operazioni di spandimento sul suolo di fanghi, compresi i fanghi di depurazione delle acque reflue domestiche ed i fanghi risultanti dalle operazioni di dragaggio, e di materie analoghe a fini fertilizzanti o ammendanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                all'impiego di rifiuti inerti idonei in lavori di accrescimento o ricostruzione e riempimento o a fini di costruzione nelle discariche; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al deposito di fanghi di dragaggio non pericolosi presso corsi d'acqua minori da cui sono stati dragati e al deposito di fanghi non pericolosi nelle acque superficiali, compreso il letto e il sottosuolo corrispondente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 3 SETTEMBRE 2020, n. 121)).
+
 ((
 
 La gestione dei rifiuti provenienti dalle industrie estrattive sulla terraferma, vale a dire i rifiuti derivanti dalle attivita' di prospezione, estrazione, compresa la fase di sviluppo preproduzione, trattamento e stoccaggio di minerali, e dallo sfruttamento delle cave e' esclusa dall'ambito di applicazione del presente decreto, laddove rientri nell'ambito di applicazione del decreto legislativo 30 maggio 2008, n. 117.
@@ -77,6 +111,31 @@ b) discarica per rifiuti non pericolosi;
 c) discarica per rifiuti pericolosi.
 
 ## Art. 5. — (Obiettivi di riduzione del conferimento di rifiuti in discarica)
+
+1.
+                    
+                        
+                            Entro un anno dalla data di entrata in vigore della presente disposizione, ciascuna regione elabora ed approva un apposito programma per la riduzione dei rifiuti biodegradabili da collocare in discarica ad integrazione del piano regionale di gestione dei rifiuti di cui all'articolo 199 del decreto legislativo 3 aprile 2006, n. 152, allo scopo di raggiungere a livello di ambito territoriale ottimale, oppure, ove questo non sia stato istituito, a livello provinciale, i seguenti obiettivi: 
+ 
+                        
+                        
+                            a)
+                            
+                                entro cinque anni dalla data di entrata in vigore della presente disposizione i rifiuti urbani biodegradabili devono essere inferiori a 173 kg/anno per abitante; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                entro otto anni dalla data di entrata in vigore della presente disposizione i rifiuti urbani biodegradabili devono essere inferiori a 115 kg/anno per abitante; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                entro quindici anni dalla data di entrata in vigore della presente disposizione i rifiuti urbani biodegradabili devono essere inferiori a 81 kg/anno per abitante.
 
 Il programma di cui al comma 1 prevede in via prioritaria la prevenzione dei rifiuti e, in subordine, il trattamento dei medesimi conformemente alla gerarchia fissata dalla normativa europea.
 
@@ -96,6 +155,38 @@ Entro il 2035 la quantita' di rifiuti urbani collocati in discarica deve essere 
 
 ((
 
+1.
+                    
+                        
+                            Per calcolare se gli obiettivi di cui all'articolo 5, comma 4-ter, siano stati conseguiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il peso dei rifiuti urbani prodotti e inviati in discarica e' calcolato in un determinato anno civile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il peso dei rifiuti derivanti dalle operazioni di trattamento preliminari al riciclaggio o al recupero di altro tipo dei rifiuti urbani, come la selezione, la cernita o il trattamento meccanico biologico, che sono successivamente collocati in discarica, e' incluso nel peso dei rifiuti urbani comunicati come collocati in discarica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il peso dei rifiuti urbani sottoposti alle operazioni di smaltimento mediante incenerimento (operazione D10 di cui all'Allegato B alla Parte Quarta del decreto legislativo n. 152 del 2006) e il peso dei rifiuti prodotti in operazioni di stabilizzazione della frazione biodegradabile dei rifiuti urbani, destinati a essere successivamente collocati in discarica, sono comunicati come collocati in discarica; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il peso dei rifiuti prodotti nel corso di operazioni di riciclaggio o recupero di altro tipo di rifiuti urbani, che sono successivamente collocati in discarica, non e' incluso nel peso dei rifiuti urbani comunicati come collocati in discarica.
+
 Al fine di assicurare il soddisfacimento degli obiettivi di cui al comma 1, nonche' nel rispetto del divieto di cui all'articolo 6, la tracciabilita' dei rifiuti urbani e' garantita con gli strumenti di cui all'articolo 6, comma 3, del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12, nonche' agli articoli 189, 190 e 193 del decreto legislativo 3 aprile 2006, n. 152. Il controllo della qualita' dei rifiuti urbani e' assicurato mediante il rispetto delle disposizioni di cui agli articoli da 7 a 7-octies, nonche' all'articolo 11 del presente decreto.
 
 Qualora in conformita' del regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio, del 14 giugno 2006, i rifiuti urbani raccolti siano spediti in un altro Stato membro o esportati al di fuori dell'Unione, ai fini del collocamento in discarica, tali rifiuti sono contabilizzati ai fini del calcolo della quantita' di rifiuti collocati in discarica.
@@ -107,6 +198,101 @@ Fatti salvi i criteri stabiliti dalla Commissione europea, ai sensi dell'articol
 ## Art. 6. — (( (Rifiuti non ammessi in discarica). ))
 
 ((
+
+1.
+                    
+                        
+                            E' vietato lo smaltimento in discarica dei rifiuti idonei al riciclaggio o al recupero di altro tipo. E' comunque vietato lo smaltimento in discarica dei seguenti rifiuti: 
+ 
+                        
+                        
+                            a)
+                            
+                                rifiuti allo stato liquido; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rifiuti classificati come Esplosivi (HP1), Comburenti (HP2) e Infiammabili (HP3), ai sensi dell'allegato III alla direttiva 2008/98/CE; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rifiuti che contengono una o piu' sostanze corrosive classificate come H314 - Skin Corr. 1A in concentrazione totale maggiore o uguale all'1 per cento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rifiuti che contengono una o piu' sostanze corrosive classificate come H314 - Skin Corr. 1A, H314 - Skin Corr. 1B e H314 Skin Corr. 1C in concentrazione totale maggiore o uguale al 5 per cento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                rifiuti sanitari pericolosi a rischio infettivo - HP9 ai sensi dell'allegato III alla direttiva 2008/98/CE e ai sensi del decreto del Presidente della Repubblica 15 luglio 2003, n. 254; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                rifiuti contenenti sostanze chimiche non identificate o nuove provenienti da attivita' di ricerca, di sviluppo o di insegnamento, i cui effetti sull'uomo e sull'ambiente non sono noti (ad esempio rifiuti di laboratorio, ecc.); 
+
+                            
+                        
+                        
+                            g)
+                            
+                                rifiuti della produzione di principi attivi per biocidi, come definiti ai sensi del decreto legislativo 25 febbraio 2000, n. 174, e per prodotti fitosanitari come definiti dal decreto legislativo 17 marzo 1995, n. 194; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                rifiuti che contengono o sono contaminati da policlorodifenili (PCB) come definiti dal decreto legislativo 22 maggio 1999, n. 209, in quantita' superiore a 50 ppm; l'elenco dei PCB da prendere in considerazione e' riportato nella tabella 1A dell'Allegato 3; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                rifiuti che contengono o sono contaminati da diossine e furani in quantita' superiore a 10 ppb; l'elenco delle diossine (policlorodibenzodiossine, PCDD) e dei furani (policlorodibenziofurani, PCDF) da prendere in considerazione ai fini della verifica di ammissibilita' in discarica, con i rispettivi fattori di equivalenza, e' riportato nella tabella 1B dell'Allegato 3; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                rifiuti che contengono fluidi refrigeranti costituiti da CFC e HCFC, o rifiuti contaminati da CFC e HCFC in quantita' superiore al 0,5% in peso riferito al materiale di supporto; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                pneumatici interi fuori uso a partire dal 16 luglio 2003, esclusi gli pneumatici usati come materiale di ingegneria, e gli pneumatici fuori uso triturati a partire da tre anni da tale data, esclusi in entrambi i casi quelli per biciclette e quelli con un diametro esterno superiore a 1.400 mm.. 
+
+                            
+                        
+                        
+                            n)
+                            
+                                i rifiuti provenienti dalla raccolta differenziata e destinati alla preparazione al riutilizzo e al riciclaggio, ad eccezione degli scarti derivanti da successive operazioni di trattamento dei rifiuti da raccolta differenziata per i quali il collocamento in discarica produca il miglior risultato ambientale conformemente all'articolo 179 del decreto legislativo n. 152 del 2006; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                tutti gli altri tipi di rifiuti che non soddisfano i criteri di ammissibilita' stabiliti a norma dell'articolo 7 e dell'Allegato 6 al presente decreto;
 
 E' vietato lo smaltimento in discarica dei rifiuti individuati dai codici EER riportati nell'elenco di cui alla tabella 2 dell'Allegato 3, qualora presentino le caratteristiche chimico fisiche riportate nella stessa tabella.
 
@@ -145,6 +331,24 @@ E' vietato lo smaltimento in discarica dei rifiuti individuati dai codici EER ri
 ## Art. 7. — (( (Criteri di ammissibilita' dei rifiuti in discarica). ))
 
 ((
+
+1.
+                    
+                        
+                            I rifiuti possono essere collocati in discarica solo dopo trattamento. Tale disposizione non si applica: 
+ 
+                        
+                        
+                            a)
+                            
+                                ai rifiuti inerti il cui trattamento non sia tecnicamente fattibile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai rifiuti il cui trattamento non contribuisce al raggiungimento delle finalita' di cui all'articolo 1, riducendo la quantita' dei rifiuti o i rischi per la salute umana e l'ambiente. La Regione autorizza gli impianti di discarica a ricevere senza trattamento rifiuti indicati nell'Allegato 8, ove siano rispettate le condizioni indicate al medesimo Allegato, quando ritenga che il trattamento non contribuisca al raggiungimento delle finalita' di cui all'articolo 1, e salvo che non ritenga comunque necessario il trattamento al fine di conseguire un maggiore livello di protezione dell'ambiente nel suo complesso. Le successive modifiche all'Allegato 8, adottate ai sensi dell'articolo 16-bis, assicurano che non venga pregiudicato il raggiungimento degli obiettivi fissati dalla direttiva 2008/98/CE, in particolare per quanto riguarda la gerarchia dei rifiuti e l'aumento della preparazione per il riutilizzo e il riciclaggio.
 
 Fermo restando il rispetto delle norme del presente decreto e in particolare l'obbligo di trattamento dei rifiuti al fine di ridurre il piu' possibile gli effetti negativi del collocamento in discarica dei rifiuti sulla salute umana e sull'ambiente, i criteri tecnici per la valutazione dell'efficacia del pretrattamento non si applicano alle sottocategorie di discarica.
 
@@ -194,6 +398,24 @@ Ai fini della verifica di conformita', il gestore utilizza una o piu' delle dete
 
 ((
 
+1.
+                    
+                        
+                            Fatto salvo quanto previsto dall'articolo 16-ter, sono smaltiti nelle discariche per rifiuti inerti: 
+ 
+                        
+                        
+                            a)
+                            
+                                i rifiuti elencati nella tabella 1 dell'allegato 4 che sono considerati gia' conformi ai criteri specificati nella definizione di rifiuti inerti di cui all'articolo 2, comma 1, lettera e), nonche' ai criteri di cui alla tabella 2 dell'allegato 4 e che possono essere ammessi in una discarica per rifiuti inerti senza essere sottoposti ad accertamento analitico. Si deve trattare di una singola tipologia di rifiuti proveniente da un'unica fonte. Si possono ammettere insieme rifiuti diversi elencati nella tabella 1 dell'Allegato 4, purche' provenienti dalla stessa fonte; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i rifiuti inerti che, a seguito della caratterizzazione di base di cui all'articolo 7-bis, soddisfano i seguenti requisiti: sottoposti a test di cessione di cui all'Allegato 6, presentano un eluato conforme alle concentrazioni fissate nella tabella 2 dell'Allegato 4 e non contengono contaminanti organici in concentrazioni superiori a quelle indicate alla tabella 4 dell'Allegato 4.
+
 E' vietato il conferimento in discarica di rifiuti inerti che contengono PCB, come definiti dal decreto legislativo 22 maggio 1999, n. 209, diossine e furani, calcolati secondo i fattori di equivalenza di cui alla tabella 1B dell'Allegato 3, in concentrazione superiore ai limiti riportati nella tabella 3 dell'Allegato 4. Per gli altri inquinanti organici persistenti si applicano i limiti di cui all'Allegato IV del regolamento (CE) n. 2019/1021.
 
 Qualora sia dubbia la conformita' dei rifiuti ai criteri specificati nella definizione di rifiuti inerti di cui all'articolo 2, comma 1, lettera e), ovvero si sospetti una contaminazione, a seguito di un esame visivo o in relazione all'origine del rifiuto, anche i rifiuti di cui alla tabella 1 dell'Allegato 4 sono sottoposti ad analisi o semplicemente respinti dal gestore. I rifiuti elencati non possono essere ammessi in una discarica per rifiuti inerti se risultano contaminati o contengono altri materiali o sostanze come metalli, amianto, plastica, sostanze chimiche, in quantita' tale da aumentare il rischio per l'ambiente o da determinare il loro smaltimento in una discarica appartenente ad una categoria diversa.
@@ -202,17 +424,125 @@ Qualora sia dubbia la conformita' dei rifiuti ai criteri specificati nella defin
 
 ## Art. 7-quinquies. — (Discariche per rifiuti non pericolosi)
 
+1.
+                    
+                        
+                            Nelle discariche per i rifiuti non pericolosi possono essere ammessi i seguenti rifiuti: 
+ 
+                        
+                        
+                            a)
+                            
+                                rifiuti urbani non pericolosi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rifiuti non pericolosi di qualsiasi altra origine che soddisfano i criteri di ammissione dei rifiuti previsti dal presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                rifiuti pericolosi stabili e non reattivi che soddisfano i criteri di ammissione previsti al comma 5.
+
 Nelle discariche per rifiuti non pericolosi e' consentito lo smaltimento, senza caratterizzazione analitica, dei rifiuti urbani di cui al decreto legislativo 3 aprile 2006, n. 152, classificati come non pericolosi nel capitolo 20 dell'elenco europeo dei rifiuti.
 
 I rifiuti di cui al comma 2 non possono essere ammessi in aree in cui sono ammessi rifiuti pericolosi stabili e non reattivi.
 
 Fatto salvo quanto previsto all'articolo 16-ter, nelle discariche per rifiuti non pericolosi sono smaltiti rifiuti non pericolosi che rispettano i limiti indicati nella tabella 5-bis dell'Allegato 4 e che, sottoposti a test di cessione di cui all'Allegato 6, presentano un ((eluato conforme alle concentrazioni fissate in tabella 5 dell'Allegato 4)).
 
+5.
+                    
+                        
+                            Fatto salvo quanto previsto all'articolo 16-ter, nelle discariche per rifiuti non pericolosi sono, altresi', smaltiti rifiuti pericolosi stabili non reattivi, vale a dire rifiuti che, sottoposti a trattamento preliminare, ad esempio di solidificazione/stabilizzazione, vetrificazione, presentano un comportamento alla lisciviazione che non subisca alterazioni negative nel lungo periodo nelle condizioni di collocazione in discarica, che hanno le caratteristiche individuate nella tabella 5a-bis dell'Allegato 4 e che: 
+ 
+                        
+                        
+                            a)
+                            
+                                sottoposti a test di cessione di cui all'Allegato 6 presentano un eluato conforme alle concentrazioni fissate in tabella 5a dell'Allegato 4; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                tali rifiuti non devono essere smaltiti in aree destinate ai rifiuti non pericolosi biodegradabili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sottoposti a idonee prove geotecniche dimostrano adeguata stabilita' fisica e capacita' di carico. Per tale valutazione e' possibile riferirsi ai criteri di accettazione WAC dell'Agenzia per la protezione dell'ambiente del Regno Unito. Le modalita' operative e i criteri per effettuare le valutazioni sono definiti con decreto del Ministro dell'ambiente e della tutela del territorio e del mare approvato secondo il procedimento di cui all'articolo 16-bis; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono sottoposti alla valutazione della capacita' di neutralizzazione degli acidi, utilizzando i test di cessione secondo i metodi Cen/Ts 14429 o Cen/Ts 14997. Le modalita' operative e i criteri per effettuare le valutazioni sono definiti con decreto del Ministro dell'ambiente e della tutela del territorio e del mare approvato secondo il procedimento di cui all'articolo 16-bis.
+
 Fatto salvo quanto previsto dall'articolo 16-ter, in discarica per rifiuti non pericolosi, e' vietato il conferimento di rifiuti che non rispettano i limiti di cui alla tabella 5-bis dell'Allegato 4.
+
+7.
+                    
+                        
+                            Possono essere, inoltre, smaltiti nelle discariche per rifiuti non pericolosi i seguenti rifiuti: 
+ 
+                        
+                        
+                            a)
+                            
+                                i rifiuti costituiti da fibre minerali artificiali, indipendentemente dalla loro classificazione come pericolosi o non pericolosi. Il deposito dei rifiuti contenenti fibre minerali artificiali deve avvenire direttamente all'interno della discarica in celle appositamente ed esclusivamente dedicate ed effettuato in modo tale da evitare la frantumazione dei materiali. Dette celle sono realizzate con gli stessi criteri adottati per le discariche dei rifiuti inerti. Le celle sono coltivate ricorrendo a sistemi che prevedano la realizzazione di settori o trincee; sono spaziate in modo da consentire il passaggio degli automezzi senza causare la frantumazione dei rifiuti contenenti fibre minerali artificiali.
+Entro la giornata di conferimento deve essere assicurata la ricopertura del rifiuto con materiale adeguato, avente consistenza plastica, in modo da adattarsi alla forma ed ai volumi dei materiali da ricoprire e da costituire un'adeguata protezione contro la dispersione di fibre. Nella definizione dell'uso dell'area dopo la chiusura devono essere prese misure adatte ad impedire il contatto tra rifiuti e persone. Tali rifiuti possono essere conferiti anche in discariche o celle dedicate per i rifiuti contenenti amianto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i materiali non pericolosi a base di gesso. Tali rifiuti non devono essere depositati in aree destinate ai rifiuti non pericolosi biodegradabili. I rifiuti collocati in discarica insieme ai materiali a base di gesso devono avere una concentrazione in TOC non superiore al 5 per cento ed un valore di DOC non superiore al limite di cui alla tabella 5a dell'Allegato 4; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i materiali edili contenenti amianto legato in matrici cementizie o resinoidi in conformita' con quanto stabilito nel decreto del Ministero dell'ambiente e della tutela del territorio 29 luglio 2004, n. 248, senza essere sottoposti a prove. Le discariche che ricevono tali materiali devono rispettare i requisiti indicati all'allegato 4, paragrafi 4 e 5. In questo caso le prescrizioni stabilite nell'allegato 1, punti 2.4.2 e 2.4.3 possono essere ridotte dall'autorita' territorialmente competente.
 
 ## Art. 7-sexies. — (( (Sottocategorie di discariche per rifiuti non pericolosi). ))
 
 ((
+
+1.
+                    
+                        
+                            Nel rispetto delle norme previste dal presente decreto le autorita' territorialmente competenti possono autorizzare, anche per settori confinati, le seguenti sottocategorie di discariche per rifiuti non pericolosi: 
+ 
+                        
+                        
+                            a)
+                            
+                                discariche per rifiuti inorganici a basso contenuto organico o biodegradabile; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                discariche per rifiuti in gran parte organici da suddividersi in discariche considerate bioreattori con recupero di biogas e discariche per rifiuti organici pretrattati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                discariche per rifiuti misti non pericolosi con elevato contenuto sia di rifiuti organici o biodegradabili che di rifiuti inorganici, con recupero di biogas.
 
 I criteri di ammissibilita' per le sottocategorie di discariche di cui al comma 1 sono individuati dalle autorita' territorialmente competenti in sede di rilascio dell'autorizzazione. I criteri sono stabiliti, caso per caso, in base alla tipologia di sottocategoria, tenendo conto delle caratteristiche dei rifiuti, della valutazione di rischio con riguardo alle emissioni della discarica e dell'idoneita' del sito e prevedendo deroghe per specifici parametri, secondo le modalita' di cui all'Allegato 7. Le autorizzazioni, motivando adeguatamente, ammettono nelle sottocategorie di discariche anche rifiuti caratterizzati da parametri DOC e TSD diversi da quelli della tabella 5 dell'Allegato 4, nei limiti indicati dalla procedura di valutazione del rischio di cui all'Allegato 7.
 
@@ -242,6 +572,59 @@ Sono ammessi in depositi sotterranei i rifiuti inerti, i rifiuti non pericolosi 
 
 Ai fini dell'ammissione dei rifiuti in depositi sotterranei, e' effettuata da parte del richiedente, la valutazione della sicurezza conformemente a quanto stabilito al punto 3 dell'Allegato 1. I rifiuti sono ammessi in deposito sotterraneo solo se compatibili con tale valutazione.
 
+3.
+                    
+                        
+                            Non possono essere collocati in depositi sotterranei i rifiuti che possono subire trasformazioni indesiderate di tipo fisico, chimico o biologico dopo il deposito. Fra questi sono compresi: 
+ 
+                        
+                        
+                            a)
+                            
+                                i rifiuti elencati all'articolo 6, comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i rifiuti e i loro contenitori, se suscettibili di reagire a contatto con l'acqua o con la roccia ospitante nelle condizioni previste per lo stoccaggio e subire quindi un cambiamento di volume, una generazione di sostanze o gas autoinfiammabili o tossici o esplosivi o qualunque altra reazione che possa rappresentare un rischio per la sicurezza operativa e per l'integrita' della barriera; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i rifiuti biodegradabili; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i rifiuti dall'odore pungente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i rifiuti che possono generare una miscela gas-aria tossica o esplosiva e, in particolare, i rifiuti che provocano concentrazioni di gas tossici per le pressioni parziali dei componenti e che in condizioni di saturazione in un contenitore formano concentrazioni superiori del 10 per cento alla concentrazione che corrisponde al limite inferiore di esplosivita'; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i rifiuti con un'insufficiente stabilita', tenuto conto delle condizioni geomeccaniche; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i rifiuti autoinfiammabili o soggetti a combustione spontanea nelle condizioni previste per lo stoccaggio, i prodotti gassosi, i rifiuti volatili, i rifiuti provenienti dalla raccolta sotto forma di miscele non identificate.
+
 Ai fini dell'ammissione dei rifiuti in deposito sotterraneo, e' effettuata, da parte del soggetto che richiede l'autorizzazione, la valutazione dei rischi specifici per il sito in cui avviene il deposito in questione, in conformita' a quanto previsto al punto 3 dell'Allegato 1. Tale valutazione deve accertare che il livello di isolamento del deposito sotterraneo dalla biosfera e' accettabile.
 
 I rifiuti suscettibili di reagire nel caso di contatto reciproco devono essere definiti e classificati in gruppi di compatibilita' e i differenti gruppi di compatibilita' devono essere fisicamente separati nella fase di stoccaggio.
@@ -250,12 +633,119 @@ I rifiuti suscettibili di reagire nel caso di contatto reciproco devono essere d
 
 ## Art. 8. — (Domanda di autorizzazione)
 
+1.
+                    
+                        
+                            La domanda di autorizzazione per la costruzione e l'esercizio di una discarica e' presentata ai sensi degli articoli 27 e 28 del decreto legislativo n. 22 del 1997, e successive modificazioni, completa di tutte le informazioni richieste dagli articoli medesimi e deve altresi' contenere almeno i seguenti dati e informazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'identita' del richiedente e del gestore, se sono diversi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione dei tipi e dei quantitativi totali dei rifiuti da depositare, indicando il Codice dell'Elenco Europeo dei Rifiuti; 
+                            
+                        
+                        
+                            g)
+                            
+                                il piano di gestione operativa della discarica, redatto secondo i criteri stabiliti dall'allegato 2, nel quale devono essere individuati i criteri e le misure tecniche adottate per la gestione della discarica e le modalita' di chiusura della stessa; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                il piano di gestione post-operativa della discarica, redatto secondo i criteri stabiliti dall'allegato 2, nel quale sono definiti i programmi di sorveglianza e controllo successivi alla chiusura; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                il piano di sorveglianza e controllo ((redatto secondo i criteri stabiliti dall'Allegato 2)), nel quale devono essere indicate tutte le misure necessarie per prevenire rischi d'incidenti causati dal funzionamento della discarica e per limitarne le conseguenze, sia in fase operativa che post-operativa, con particolare riferimento alle precauzioni adottate a tutela delle acque dall'inquinamento provocato da infiltrazioni di percolato nel terreno ((, alle misure adottate al fine di evitare le emissioni fuggitive e diffuse di biogas)) e alle altre misure di prevenzione e protezione contro qualsiasi danno all'ambiente; i parametri da monitorare, la frequenza dei monitoraggi e la verifica delle attivita' di studio del sito da parte del richiedente sono indicati nella tabella 2, dell'allegato 2 ((nonche' le misure da adottare per la gestione delle non conformita')); ((19))
+                                
+                            
+                        
+                        
+                            l)
+                            
+                                il piano di ripristino ambientale del sito a chiusura della discarica, redatto secondo i criteri stabiliti dall'allegato 2, nel quale devono essere previste le modalita' e gli obiettivi di recupero e sistemazione della discarica in relazione alla destinazione d'uso prevista dell'area stessa; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                le informazioni relative alla valutazione di impatto ambientale, qualora la domanda di autorizzazione riguardi un'opera o un'attivita' sottoposta a tale procedura; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                le indicazioni relative alle garanzie finanziarie del richiedente o a qualsiasi altra garanzia equivalente, ai sensi dell'articolo 14.
+
 ---------------
                         AGGIORNAMENTO (19)
                         
  Il D.Lgs. 3 settembre 2020, n. 121 ha disposto (con l'art. 2, comma 2) che "Le disposizioni di cui all'articolo 1, lettere i), n) e o), si applicano alle discariche di nuova realizzazione, nonche' alla realizzazione di nuovi lotti delle discariche esistenti le cui domande di autorizzazione siano state presentate dopo la data dell'entrata in vigore del presente decreto".
 
 ## Art. 9. — (Condizioni per il rilascio dell'autorizzazione delle discariche)
+
+1.
+                    
+                        
+                            Ai fini del rilascio dell'autorizzazione alla costruzione e all'esercizio di una discarica devono essere soddisfatte le seguenti condizioni;
+
+
+                        
+                        
+                            a)
+                            
+                                il progetto di discarica soddisfi tutte le prescrizioni dettate dal presente decreto e dagli allegati 1 e 2;
+                            
+                        
+                        
+                            b)
+                            
+                                la gestione operativa della discarica sia affidata a persone fisiche tecnicamente competenti; in particolare, il personale addetto deve avere una adeguata formazione professionale e tecnica;
+                            
+                        
+                        
+                            c)
+                            
+                                il piano di sorveglianza e controllo di cui all'articolo 8, comma 1, lettera i), contenga le misure necessarie per prevenire gli incidenti e limitarne le conseguenze;
+                            
+                        
+                        
+                            d)
+                            
+                                il richiedente abbia prestato le garanzie finanziarie o altre equivalenti, ai sensi dell'articolo 14;
+                            
+                        
+                        
+                            e)
+                            
+                                il progetto di discarica sia coerente con le previsioni ed i contenuti del piano regionale di gestione dei rifiuti di cui all'articolo 22 del decreto legislativo n. 22 del 1997, e successive modificazioni, ove esistente;
+                            
+                        
+                        
+                            f)
+                            
+                                il progetto di discarica preveda il ripristino ambientale dopo la chiusura;
+                            
+                        
+                        
+                            g)
+                            
+                                il richiedente si impegni ad eseguire preliminarmente all'avviamento dell'impianto una campagna di monitoraggio delle acque sotterranee conformemente a quanto previsto all'allegato 2.
 
 Prima dell'inizio delle operazioni di smaltimento di una nuova discarica, l'autorita' territorialmente competente verifica che la discarica soddisfi le condizioni e le prescrizioni alle quali e' subordinato il rilascio dell'autorizzazione medesima. L'esito dell'ispezione non comporta in alcun modo una minore responsabilita' per il gestore relativamente alle condizioni stabilite dall'autorizzazione.
 
@@ -266,6 +756,100 @@ Le spese relative all'istruttoria finalizzata al rilascio ed al rinnovo dell'aut
 ## Art. 10. — Contenuto dell'autorizzazione
 
 COMMA ABROGATO DAL D.LGS. 18 FEBBRAIO 2005, N. 59.
+
+2.
+                    
+                        
+                            Ove non previsto dagli articoli 27 e 28 del decreto legislativo n. 22 del 1997, il provvedimento di autorizzazione alla costruzione e gestione di una discarica indica almeno: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'ubicazione della discarica, nonche' la delimitazione dell'area interessata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la categoria della discarica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione della capacita' totale della discarica, accompagnata dalla stima del volume effettivamente utile per il conferimento dei rifiuti, nonche' del volume dei materiali utilizzati per le coperture giornaliere;
+                            
+                        
+                        
+                            d)
+                            
+                                l'elenco e il quantitativo totale dei tipi di rifiuti che possono essere smaltiti nella discarica, individuati con lo specifico Codice dell'Elenco Europeo dei Rifiuti e la descrizione della tipologia; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'esplicita approvazione del progetto definitivo dell'impianto e dei piani di cui all'articolo 8, comma 1, lettere g), h), i) e l); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le prescrizioni tecniche riguardanti la costruzione degli impianti e i mezzi tecnici utilizzati; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le prescrizioni per le operazioni di collocamento in discarica e per le procedure di sorveglianza e controllo, incluse eventuali determinazioni analitiche sui rifiuti conferiti; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                le prescrizioni provvisorie per le operazioni di chiusura e di gestione successiva alla chiusura; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la durata della gestione post-operativa e le modalita' di chiusura al termine della gestione operativa; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'obbligo per il gestore di presentare, almeno una volta all'anno, alla Regione una relazione in merito ai tipi ed ai quantitativi di rifiuti smaltiti, ai risultati del programma di sorveglianza ed ai controlli effettuati relativi sia alla fase operativa che alla fase post-operativa; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                l'obbligo del gestore di eseguire il piano di ripristino ambientale alla chiusura anche di singoli lotti della discarica, con le modalita' previste nell'allegato 2; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                le indicazioni relative alle garanzie finanziarie di cui all'articolo 14. sulla base di quanto previsto dall'articolo 8, comma 1, lettera m); 
+
+                            
+                        
+                        
+                            o)
+                            
+                                le procedure di ammissione dei rifiuti in discarica.
 
 L'autorizzazione all'esercizio della discarica e' rilasciata solo dopo l'accettazione da parte della Regione delle garanzie finanziarie di cui all'articolo 14. Qualora la Regione rilasci l'autorizzazione all'esercizio per singoli lotti, fermo restando che la garanzia finanziaria relativa alla post-chiusura finale deve coprire la capacita' totale della discarica come definita al comma 1, lettera c), la garanzia finanziaria per l'attivazione e la gestione della discarica e' prestata per i singoli lotti autorizzati.
 
@@ -289,11 +873,77 @@ I rifiuti smaltiti dal produttore in una discarica da lui gestita possono essere
 Al momento del conferimento dei rifiuti in discarica sono prelevati campioni con cadenza stabilita dall'Autorita' territorialmente competente e, comunque, con frequenza non superiore a un anno. I campioni prelevati devono essere conservati presso l'impianto di discarica e tenuti a disposizione dell'Autorita' territorialmente competente per un periodo non inferiore a due mesi.
 I campioni dovranno essere prelevati su carichi in ingresso alla discarica per ogni produttore e per ogni CER. Il criterio di scelta casuale dei carichi da sottoporre a campionamento e analisi deve essere preventivamente concordato con gli Enti di controllo.
 
+5.
+                    
+                        
+                            Ai fini dell'ammissione in discarica dei rifiuti il gestore dell'impianto: 
+ 
+                        
+                        
+                            a)
+                            
+                                controlla la documentazione relativa ai rifiuti, compreso il formulario di identificazione di cui all'articolo 193 del decreto legislativo 3 aprile 2006, n. 152, e, se previsti, i documenti di cui al regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio, del 14 giugno 2006, relativo alle spedizioni di rifiuti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sottopone ogni carico di rifiuti ad ispezione visiva prima e dopo lo scarico e verifica la conformita' delle caratteristiche dei rifiuti indicate nel formulario di identificazione, di cui all'articolo 193 del decreto legislativo n. 152 del 2006, ai criteri di ammissibilita' previsti dal presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                annota nel registro di carico e scarico dei rifiuti tutte le tipologie e le informazioni relative alle caratteristiche e ai quantitativi dei rifiuti depositati, con l'indicazione dell'origine e della data di consegna da parte del detentore, secondo le modalita' previste dall'articolo 190 del decreto legislativo n. 152 del 2006.
+Nel caso di deposito di rifiuti pericolosi, il registro deve contenere apposita documentazione o mappatura atta ad individuare, con riferimento alla provenienza ed alla allocazione, il settore della discarica dove e' smaltito il rifiuto pericoloso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sottoscrive le copie del formulario di identificazione dei rifiuti trasportati; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                comunica tempestivamente alla Regione ed alla Provincia territorialmente competenti la eventuale mancata ammissione dei rifiuti in discarica, ferma l'applicazione delle disposizioni del citato regolamento (CE) n. 1013/2006, relativo alle spedizioni di rifiuti.
+
 ))
 
 ## Art. 12. — (Procedura di chiusura)
 
+1.
+                    
+                        
+                            La procedura di chiusura della discarica o di una parte di essa e' avviata: 
+ 
+ 
+                        
+                        
+                            a)
+                            
+                                nei casi, alle condizioni e nei termini stabiliti dall'autorizzazione; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                nei casi in cui il gestore richiede ed ottiene apposita autorizzazione della regione competente per territorio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sulla base di specifico provvedimento conseguente a gravi motivi, tali da provocare danni all'ambiente e alla salute, ad iniziativa dell'Ente competente per territorio.
+
+((2. La procedura di chiusura della discarica puo' essere attuata solo dopo la verifica della conformita' della morfologia della discarica e, in particolare, della capacita' di allontanamento delle acque meteoriche, a quella prevista nel progetto di cui all'articolo 9, comma 1, tenuto conto di quanto indicato all'articolo 8, comma 1, lettere c), e) e f-bis).))
 
 ((19))
 
@@ -315,6 +965,53 @@ I rifiuti pericolosi devono essere depositati in appositi settori, celle o trinc
 
 Il gestore della discarica e' responsabile della corretta attuazione delle disposizioni di cui ai commi 1, 2 e 3.
 
+5.
+                    
+                        
+                            Al fine di dimostrare la conformita' della discarica alle condizioni dell'autorizzazione e di fornire tutte le conoscenze sul comportamento dei rifiuti nelle discariche, il gestore deve presentare all'ente territoriale competente, secondo le modalita' fissate dall'autorizzazione, la relazione di cui all'articolo 10, comma 1, lettera l), completa di tutte le informazioni sui risultati della gestione della discarica e dei programmi di controllo e sorveglianza, nonche' dei dati e delle informazioni relativi ai controlli effettuati. In particolare, la relazione deve contenere almeno i seguenti elementi: 
+ 
+ 
+                        
+                        
+                            a)
+                            
+                                quantita' e tipologia dei rifiuti smaltiti e loro andamento stagionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prezzi di conferimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                andamento dei flussi e del volume di percolato e le relative procedure di trattamento e smaltimento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quantita' di biogas prodotto ed estratto e relative procedure di trattamento e smaltimento; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                volume occupato e capacita' residua nominale della discarica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i risultati dei controlli effettuati sui rifiuti conferiti ai fini della loro ammissibilita' in discarica, nonche' sulle matrici ambientali.
+
 Il gestore deve, inoltre, notificare all'autorita' competente anche eventuali significativi effetti negativi sull'ambiente riscontrati a seguito delle procedure di sorveglianza e controllo e deve conformarsi alla decisione dell'autorita' competente sulla natura delle misure correttive e sui termini di attuazione delle medesime.
 
 ((6-bis. La fine del periodo di gestione post - operativa deve essere proposta dal gestore e deve essere ampiamente documentata con una valutazione del responsabile tecnico sull'effettiva assenza di rischio della discarica, con particolare riguardo alle emissioni da essa prodotte (percolato e biogas). In particolare, deve essere dimostrato che possono ritenersi trascurabili gli assestamenti della massa di rifiuti e l'impatto ambientale (anche olfattivo) delle emissioni residue di biogas. Per quanto riguarda il percolato deve essere dimostrato che il potere inquinante del percolato estratto e' trascurabile, ovvero che per almeno due anni consecutivi la produzione del percolato e' annullata. Tali valutazioni debbono essere effettuate attraverso apposita analisi di rischio effettuata ai sensi dell'Allegato 7 al presente decreto. Deve inoltre essere verificato il mantenimento di pendenze adeguate al fine di consentire il deflusso superficiale diffuso delle acque meteoriche.))
@@ -331,6 +1028,24 @@ Il gestore deve, inoltre, notificare all'autorita' competente anche eventuali si
 La garanzia per l'attivazione e la gestione operativa della discarica, comprese le procedure di chiusura, assicura l'adempimento delle prescrizioni contenute nell'autorizzazione e deve essere prestata per una somma commisurata alla capacita' autorizzata della discarica ed alla classificazione della stessa ai sensi dell'articolo 4. In caso di autorizzazione per lotti della discarica, come previsto dall'articolo 10, comma 3, la garanzia puo' essere prestata per lotti.
 
 La garanzia per la gestione successiva alla chiusura della discarica assicura che le procedure di cui all'articolo 13 siano eseguite ed e' commisurata al costo complessivo della gestione post-operativa. In caso di autorizzazione della discarica per lotti la garanzia per la post-chiusura puo' essere prestata per lotti.
+
+3.
+                    
+                        
+                            Fermo restando che le garanzie di cui ai commi 1 e 2, nel loro complesso, devono essere trattenute per tutto il tempo necessario alle operazioni di gestione operativa e di gestione successiva alla chiusura della discarica e salvo che l'autorita' competente non preveda un termine maggiore qualora ritenga che sussistano rischi per l'ambiente;
+
+
+                        
+                        
+                            a)
+                            
+                                la garanzia di cui al comma 1 e' trattenuta per almeno due anni dalla data della comunicazione di cui all'articolo 12, comma 3;
+                            
+                        
+                        
+                            b)
+                            
+                                la garanzia di cui al comma 2 e' trattenuta per almeno trenta anni dalla data della comunicazione di cui all'articolo 12, comma 3.
 
 Le garanzie di cui ai commi 1 e 2 sono costituite ai sensi dell'articolo 1 della legge 10 giugno 1982, n. 348, e devono essere prestate in misura tale da garantire la realizzazione degli obiettivi indicati nei citati commi.
 
@@ -362,7 +1077,78 @@ Ai fini delle modifiche di cui al comma 1, il Ministero dell'ambiente e della tu
 
 ## Art. 16-ter. — (Deroghe)
 
+1.
+                    
+                        
+                            Sono ammessi valori limite piu' elevati per i parametri specifici fissati agli articoli 7-quater, 7-quinquies, 7-septies e 7-octies del presente decreto qualora: 
+ 
+                        
+                        
+                            a)
+                            
+                                sia effettuata una valutazione di rischio, secondo le modalita' di cui all'Allegato 7, con particolare riguardo alle emissioni della discarica, che, tenuto conto dei limiti per i parametri specifici previsti dal presente decreto, dimostri che non esistono pericoli per l'ambiente in base alla valutazione dei rischi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'autorita' territorialmente competente conceda un'autorizzazione presa, caso per caso, per rifiuti specifici per la singola discarica, tenendo conto delle caratteristiche della stessa discarica e delle zone limitrofe; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                fino al ((31 dicembre 2027)), i valori limite autorizzati per la specifica discarica non superino, per piu' del triplo, quelli specificati per la corrispondente categoria di discarica e, limitatamente al valore limite relativo al parametro TOC nelle discariche per rifiuti inerti, il valore limite autorizzato non superi, per piu' del doppio, quello specificato per la corrispondente categoria di discarica; ((22))
+                                
+                            
+                        
+                        
+                            c-bis)
+                            
+                                a partire dal ((1° gennaio 2028)) i valori limite autorizzati per la specifica discarica non superino, per piu' del doppio, quelli specificati per la corrispondente categoria di discarica e, limitatamente al valore limite relativo al parametro Toc nelle discariche per rifiuti inerti, il valore limite autorizzato non superi, per piu' del 50 per cento, quello specificato per la corrispondente categoria di discarica. ((22))
+
 In presenza di concentrazioni elevate di metalli nel fondo naturale dei terreni circostanti la discarica, l'autorita' territorialmente competente puo' stabilire limiti piu' elevati coerenti con tali concentrazioni.
+
+3.
+                    
+                        
+                            Le disposizioni di cui al comma 1 non si applicano ai seguenti parametri: 
+ 
+                        
+                        
+                            a)
+                            
+                                carbonio organico disciolto (DOC) di cui alle tabelle 2, 5a e 6 dell'Allegato 4; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Btex e olio minerale di cui alla tabella 4 dell'allegato 4; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                PCB di cui alla tabella 3 dell'Allegato 4; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                carbonio organico totale (TOC) e PH nelle discariche per rifiuti non pericolosi che smaltiscono rifiuti pericolosi stabili e non reattivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                carbonio organico totale (TOC) nelle discariche per rifiuti pericolosi.
 
 Con cadenza triennale, il Ministero dell'ambiente e tutela del territorio e del mare, nell'ambito degli obblighi di relazione sull'attuazione della direttiva 1999/31/CE, previsti dall'articolo 15 della medesima direttiva, invia alla Commissione europea una relazione sul numero annuale di autorizzazioni concesse in virtu' del presente articolo, sulla base delle informazioni ricevute dall'Istituto superiore per la protezione e la ricerca ambientale (Ispra), ai sensi dell'articolo 2, comma 1, lettera b), del decreto del Ministro dell'ambiente 4 agosto 1998, n. 372. La relazione e' elaborata in base al questionario adottato con la decisione 2000/738/CE del 17 novembre 2000 della Commissione.
 
@@ -375,6 +1161,29 @@ Con cadenza triennale, il Ministero dell'ambiente e tutela del territorio e del 
 
 Le discariche gia' autorizzate alla data di entrata in vigore del presente decreto possono continuare a ricevere, fino al 31 dicembre 2006, i rifiuti per cui sono state autorizzate. (4) (6)
 
+2.
+                    
+                        
+                            Fino al 31 dicembre 2006 e' consentito lo smaltimento nelle nuove discariche, in osservanza delle condizioni e dei limiti di accettabilita' previsti dalla deliberazione del Comitato interministeriale del 27 luglio 1984, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 253 del 13 settembre 1984, di cui all'articolo 6 decreto del Presidente della Repubblica 8 agosto 1994, e successive modificazioni, pubblicato nella Gazzetta Ufficiale n. 251 del 26 ottobre 1994, nonche' dalle deliberazioni regionali connesse, relativamente: 
+
+                        
+                        
+                            a)
+                            
+                                nelle discariche per rifiuti inerti, ai rifiuti precedentemente avviati a discariche di II categoria, tipo A; 
+                            
+                        
+                        
+                            b)
+                            
+                                nelle discariche per rifiuti non pericolosi, ai rifiuti precedentemente avviati alle discariche di prima categoria e di II categoria, tipo B; 
+                            
+                        
+                        
+                            c)
+                            
+                                nelle discariche per rifiuti pericolosi, ai rifiuti precedentemente avviati alle discariche di II categoria tipo C e terza categoria. (4) (6)
+
 Entro sei mesi dalla data di entrata in vigore del presente decreto il titolare dell'autorizzazione di cui al comma 1 o, su sua delega, il gestore della discarica, presenta all'autorita' competente un piano di adeguamento della discarica alle previsioni di cui al presente decreto, incluse le garanzie finanziarie di cui all'articolo 14.
 
 Con motivato provvedimento l'autorita' competente approva il piano di cui al comma 3, autorizzando la prosecuzione dell'esercizio della discarica e fissando i lavori di adeguamento, le modalita' di esecuzione e il termine finale per l'ultimazione degli stessi, che non puo' in ogni caso essere successivo al 16 luglio 2009. Nel provvedimento l'autorita' competente prevede anche l'inquadramento della discarica in una delle categorie di cui all'articolo 4. Le garanzie finanziarie prestate a favore dell'autorita' competente concorrono alla prestazione della garanzia finanziaria.
@@ -384,6 +1193,38 @@ Il provvedimento con cui l'autorita' competente approva i piani di adeguamento, 
 Nel caso in cui, per le discariche di cui al comma 1, il provvedimento di approvazione del piano di adeguamento di cui al comma 4, stabilisca un termine finale per l'ultimazione dei lavori di adeguamento successivo al 1° ottobre 2008, tale termine si intende anticipato al 1° ottobre 2008.
 
 In caso di mancata approvazione del piano di cui al comma 3, l'autorita' competente prescrive modalita' e tempi di chiusura della discarica, conformemente all'articolo 12, comma 1, lettera c).
+
+6.
+                    
+                        
+                            Sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il paragrafo 4.2 e le parti attinenti allo stoccaggio definitivo dei paragrafi 5 e 6 della citata deliberazione del Comitato interministeriale del 27 luglio 1984; ai fini di cui al comma 2, restano validi fino al 31 dicembre 2008 i valori limite e le condizioni di ammissibilita' previsti dalla deliberazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il decreto del Ministro dell'ambiente 11 marzo 1998, n. 141; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 5, commi 6 e 6-bis, e l'articolo 28, comma 2, del decreto legislativo n. 22 del 1997, e successive modificazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'articolo 6 del decreto del Presidente della Repubblica 8 agosto 1994. (4) (6)
 
 Le Regioni adeguano la loro normativa alla presente disciplina. (8)
 

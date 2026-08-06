@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -71,6 +71,32 @@ La contrattazione decentrata a livello nazionale e' effettuata per enti, istitut
  2) criteri per la realizzazione e la gestione dei servizi sociali gia' previsti dalla vigente normativa;
  3) criteri per la organizzazione dei gruppi di lavoro.
 
+2.
+                        
+                            
+                                La contrattazione a livello locale, compatibilmente con le peculiarita' delle funzioni, ha per oggetto, nell'ambito dei criteri fissati dalla contrattazione a livello nazionale, i seguenti aspetti dell'organizzazione del lavoro:
+ 
+                            
+                            
+                                a)
+                                
+                                    definizione dei regimi di orario di lavoro (flessibilita', articolazione e turnazioni), determinazione dei settori che richiedono prestazioni di lavoro straordinario e delle relative quantita', nonche' prestazioni in turni nell'ambito delle disposizioni del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    articolazione dei carichi di lavoro per singoli settori operativi, in funzione degli obiettivi dei piani di lavoro;
+ applicazione in sede locale dei criteri per la determinazione degli standard di produttivita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    individuazione di procedure di lavoro per il miglioramento dei risultati.
+
 Per gli enti o istituti con strutture regionali o interregionali, la contrattazione a tale livello ha per oggetto la formulazione di proposte di addestramento di personale in servizio e criteri per la mobilita' provvisoria del personale nell'ambito territoriale di competenza, nonche' le materie di cui al comma 2 che, in sede di contrattazione a livello nazionale, si ritenga di riservare esclusivamente a livello regionale, tenuto conto dell'articolazione del decentramento funzionale degli enti.
 
 ## Art. 5. — Soggetti titolari
@@ -98,6 +124,24 @@ La durata settimanale dell'orario di lavoro ordinario, e' fissata in 36 ore effe
 Gli enti o istituti, nell'ambito della loro autonomia, operano attraverso una organizzazione finalizzata al conseguimento di obiettivi di produttivita' ed efficienza, previa programmazione sistematica degli interventi.
 
 L'organizzazione del lavoro negli enti ed istituti pubblici di ricerca potra' adeguarsi in funzione dei programmi di ricerca.
+
+3.
+                        
+                            
+                                In particolare, nei limiti compatibili con le dimensioni e la natura dei compiti istituzionali, il modello organizzativo e strutturale degli enti dovra' essere finalizzato:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla realizzazione di condizioni di massima elasticita' operativa anche attraverso la riconsiderazione delle posizioni di lavoro nella direzione di una loro pronta adattabilita' alle nuove metodologie e tecniche di lavorazione e piena aderenza agli obiettivi di produttivita' ed efficienza, prevedendo, ove necessario, l'attivazione di opportuni processi di mobilita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a favorire il decentramento funzionale, assicurando alle unita' periferiche i necessari presupposti di autonomia anche ai fini della utilizzazione dei mezzi informatici installati nelle unita' stesse.
 
 L'attuazione del nuovo modello organizzativo, nell'ambito delle modalita' di sviluppo previste ai vari livelli di contrattazione decentrata, sara' oggetto di puntuali e periodiche verifiche per la valutazione di aderenza agli obiettivi programmatici e di compatibilita' con le strutture operative di riferimento, anche attraverso nuclei di valutazione (amministrazione-sindacati), appositamente costituiti.
 
@@ -185,6 +229,37 @@ Prestazioni eccedenti il predetto limite danno luogo a riposo compensativo o ad 
 
 Gli enti e le istituzioni di ricerca e sperimentazione, quali individuati dall'art. 7 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68, fanno riferimento per l'applicazione del presente decreto, alle qualifiche funzionali e ai profili professionali di cui al decreto del Presidente della Repubblica 9 luglio 1986, n. 935.
 
+2.
+                        
+                            
+                                Relativamente ai profili professionali della qualifica X di cui al decreto del Presidente della Repubblica 9 luglio 1986, n. 935, per gli enti di ricerca ed istituti di ricerca e sperimentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' istituito il nuovo profilo professionale "collaboratore professionale degli enti di ricerca";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il profilo di ricercatore, gia' previsto, per il quale non e' ammessa la mobilita' da altri profili, e' articolato in due fasce differenziate oltre la iniziale, per livelli diversi di competenze scientifiche acquisite. L'accesso al predetto profilo, riferito alla fascia iniziale e alle due fasce differenziate piu' elevate, avverra' per concorso pubblico. L'articolazione del profilo corrisponde ai seguenti criteri, riferiti, rispettivamente, alla posizione iniziale e alle fasce differenziate, anche ai requisiti per l'accesso:
+ 1) Fascia iniziale: ricercatore:
+ accesso: per concorso nazionale;
+ anzianita' di almeno due anni di laurea;
+ esperienza di lavoro diretta nell'attivita' di ricerca acquisita a livello post-laurea attraverso borse di studio, dottorati di ricerca o da altri canali equivalenti di formazione;
+ attitudine, comprovata da elementi oggettivi, a determinare avanzamenti nelle conoscenze nello specifico settore.
+ 2) Seconda fascia: primo ricercatore:
+ accesso: concorso nazionale;
+ titolo di studio richiesto: diploma di laurea;
+ capacita' acquisita, comprovata da elementi oggettivi, nel determinare autonomamente avanzamenti significativi nelle conoscenze nel settore preminente di attivita';
+ eta' non superiore a 45 anni salvo che per il personale in servizio.
+ 3) Prima fascia: dirigente di ricerca:
+ accesso: concorso nazionale per titoli. Si prescinde dai limiti di eta' previsti dalla vigente normativa;
+ capacita' acquisita, comprovata da elementi oggettivi, nel determinare autonomamente avanzamenti di particolare orginalita', significato e valore internazionale nel settore prevalente di ricerca.
+
 L'articolazione del profilo di ricercatore nelle due fasce differenziate di professionalita' di cui sopra assorbe e quindi esclude l'applicazione degli istituti contrattuali contenuti nel terzo e quarto comma dell'art. 12 del decreto del Presidente della Repubblica 25 giugno 1983, n. 346, e nell'art. 29 del decreto del Presidente della Repubblica 26 maggio 1976, n. 411, attribuibili al personale appartenente alla prima qualifica del ruolo tecnico-professionale. Resta ferma l'applicazione del terzo comma dell'art. 12 del decreto del Presidente della Repubblica 25 giugno 1983, n. 346, per la posizione iniziale.
 
 Il contingente del profilo di ricercatore non potra' superare complessivamente l'80 per cento della dotazione organica della X qualifica funzionale; le dotazioni della seconda e prima fascia differenziata di professionalita' non potranno superare, rispettivamente, il 32 per cento e il 16 per cento dell'anzidetta dotazione complessiva della qualifica funzionale.
@@ -213,6 +288,28 @@ Saranno altresi' inquadrati nella IX qualifica i direttori di VIII qualifica app
 Sara' inquadrato nella IX qualifica funzionale il personale degli enti in atto disciplinati dalla legge 11 luglio 1980, n. 312, gia' appartenenti alla ex carriera direttiva, assunti mediante concorso per l'esercizio di attivita' tecnico-professionali per le quali e' richiesto il possesso di apposito diploma di laurea e relativo titolo di abilitazione professionale, con almeno cinque anni di effettivo servizio nell'esercizio della predetta attivita'.
 
 Il personale appartenente alla X qualifica o specificamente alla qualifica di collaboratore tecnico-professionale sara' inquadrato su domanda degli interessati nel profilo di ricercatore, previo accertamento del possesso del titolo di studio e dell'effettivo svolgimento di attivita' di ricerca, ovvero nel profilo di collaboratore professionale degli enti di ricerca.
+
+9.
+                        
+                            
+                                L'attribuzione delle due fasce superiori alla iniziale avverra' con le seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    Seconda fascia (primo ricercatore): 
+ 1) a decorrere dal 1 giugno 1988 e' inquadrato, previo giudizio di idoneita' per titoli scientifici e colloquio, da effettuare entro tre mesi dalla data di entrata in vigore del presente decreto, il personale gia' inquadrato nella fascia iniziale del profilo di ricercatore, che alla suddetta data abbia almeno nove anni di anzianita'. Sono inquadrati direttamente alla seconda fascia, con decorrenza 1 giugno 1988, coloro che nell'ordinamento precedente a quello fissato dal decreto del Presidente della Repubblica 26 maggio 1976, n. 411, rivestivano la qualifica di ricercatore capo o equiparata acquisita per concorso, e comunque coloro che ricoprano da almeno quattro anni l'incarico di direttore di istituto o centro.
+Possono essere altresi' inquadrati nella seconda fascia del profilo di ricercatore coloro che, essendo in servizio alla data di entrata in vigore del presente decreto, abbiano vinto il concorso di professore associato. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Prima fascia (dirigente di ricerca): 
+ 1) sono inquadrati nella prima fascia i dirigenti o i direttori di ricerca vincitori di concorso nazionale. Possono essere inquadrati nella suddetta fascia, con decorrenza 1 giugno 1988, i vincitori di concorso a professore ordinario in servizio alla data di entrata in vigore del presente decreto, con decorrenza 1 giugno 1988. 
+ Nel primo concorso pubblico sara' riservato al personale ricercatore in servizio il 25% dei posti disponibili.
 
 Il personale dell'Istituto superiore per la prevenzione e la sicurezza del lavoro della prima qualifica del ruolo professionale di cui all'art. 15 della legge 20 marzo 1975, n. 70, nonche' il personale della carriera direttiva dell'ispettorato del lavoro, in possesso di diploma di laurea in materia tecnico-scientifica, assegnato definitivamente al nominato Istituto, e' inquadrato o reinquadrato alla X qualifica funzionale di cui al presente decreto.
 
@@ -319,6 +416,31 @@ In caso di passaggio di qualifica e' attribuito il livello retribuitivo della qu
 
 Fermo restando gli stanziamenti allo scopo previsti dai singoli enti, in base alle vigenti disposizioni, per l'esercizio 1987, il limite massimo individuale delle ore di lavoro straordinario effettuabili saranno determinate in sede di contrattazione decentrata a livello nazionale. Non spettano compensi per il lavoro straordinario effettuato dal personale appartenente al profilo di ricercatore. La parte degli stanziamenti non utilizzata per compensi per il lavoro straordinario confluira' annualmente nel fondo di incentivazione.
 
+2.
+                        
+                            
+                                La misura oraria dei compensi per lavoro straordinario e' pari ad 1/175 dello stipendio tabellare mensile di cui all'art. 20, dell'indennita' integrativa speciale spettante nel mese di dicembre dell'anno precedente e del rateo di tredicesima mensilita' delle anzidette voci retributive maggiorate:
+ 
+                            
+                            
+                                a)
+                                
+                                    del 15% per lavoro straordinario diurno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del 30% per lavoro straordinario prestato nei giorni festivi o in orario notturno (dalle ore 22 alle ore 6 del giorno successivo);
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del 50% per lavoro straordinario prestato in giorni festivi e ore notturne.
+
 La frazione di cui al comma 2 e' fissata in 1/156 dal 31 dicembre 1987.
 
 Ai sensi del comma 3 dell'art. 10 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, le tariffe orarie vigenti alla data di entrata in vigore del decreto stesso, eventualmente superiori, saranno mantenute ad personam fino alla concorrenza delle tariffe orarie di pari importo derivanti dal nuovo sistema.
@@ -328,6 +450,31 @@ Ai sensi del comma 3 dell'art. 10 del decreto del Presidente della Repubblica 1�
 Il fondo annuo di incentivazione sara' costituito dagli stanziamenti effettuati dai singoli enti, in conformita' alle norme vigenti, con incremento dell'importo di cui all'art. 14 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, pari allo 0,80% del monte salari dell'ente, nonche' da un importo pari alle somme destinate nell'anno 1986 alla corresponsione delle maggiorazioni di stipendio per turni di servizio pomeridiani, notturni e festivi.
 
 L'utilizzazione del fondo e' finalizzata a promuovere una piu' razionale ed efficace utilizzazione del lavoro anche sul piano territoriale ed a favorire la realizzazione della maggiore produttivita'.
+
+3.
+                        
+                            
+                                Il fondo di incentivazione e' destinato alla copertura delle seguenti spese:
+ 
+                            
+                            
+                                a)
+                                
+                                    concorso agli oneri per le prestazioni di lavoro in turni pomeridiani, notturni o festivi fino a concorrenza della spesa sostenuta nell'anno 1986 per le prestazioni medesime;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    compensi incentivanti la realizzazione dei programmi di attivita';
+
+                                
+                            
+                            
+                                c)
+                                
+                                    spese per l'incentivazione necessaria a favorire l'attivita' di ricerca in sedi disagiate.
 
 Gli istituti e gli enti di cui all'art. 1 possono procedere alla stipulazione di contratti e convenzioni di ricerca e consulenza facendo applicazione dell'art. 66 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, nonche' del terzo comma dell'art. 102 dello stesso decreto in riferimento agli articoli 39 e 40 della legge 23 dicembre 1978, n. 833.
 
@@ -394,6 +541,38 @@ E' istituito il libretto personale sanitario per garantire ai lavoratori, che op
 
 ## Art. 36. — Diritto di informazione
 
+1.
+                        
+                            
+                                In applicazione di quanto stabilito negli articoli 18 e 20 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13, l'amministrazione, a tutti i livelli, assicura una preventiva, costante, tempestiva e periodica informazione alle organizzazioni sindacali, in particolare sulle seguenti materie:
+ 
+                            
+                            
+                                a)
+                                
+                                    atti e provvedimenti che riguardano il personale, l'organizzazione del lavoro, la politica degli organici, il funzionamento dei servizi, le innovazioni tecnologiche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    atti e provvedimenti relativi a materie non soggette a contrattazione dai quali comunque derivino conseguenze riguardanti il personale e l'organizzazione del lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    investimenti e programmi dell'ente;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    interventi di progettazione e di introduzione di sistemi informatici, o di modifica dei sistemi preesistenti, con informazione specifica sulle caratteristiche dei sistemi stessi, in modo tale da consentire, con congruo anticipo, la valutazione in merito ad eventuali vincoli all'occupazione, alle funzioni ed ai ruoli, all'ambiente e alla qualita' del lavoro.
+
 Saranno altresi' attuati incontri periodici per la verifica delle modalita' e dei tempi di applicazione delle intese contrattuali e degli accordi decentrati. Negli accordi decentrati potranno essere definite ulteriori articolazioni in materia di informazione.
 
 I dati necessari saranno consegnati alle organizzazioni sindacali su materiale cartaceo, ovvero su supporti magnetici.
@@ -454,6 +633,24 @@ Sulla base dei risultati delle predette verifiche, le parti potranno formulare o
 
 ## Art. 47. — P r o d u t t i v i t a'
 
+1.
+                        
+                            
+                                Gli enti o istituti, per la realizzazione di reali e significativi miglioramenti dell'efficienza e dell'efficacia dei servizi, predisporranno, in quanto funzionali rispetto alla tipologia dei servizi stessi e le dimensioni delle strutture cui sono affidati, appositi piani articolati in:
+ 
+                            
+                            
+                                a)
+                                
+                                    progetti di tipo strumentale, volti ad acquisire metodologie, tecniche e strutture per un corretto governo delle problematiche gestionali dell'ente o istituto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    progetti di risultato, direttamente rivolti al miglioramento quantitativo e qualitativo dei singoli servizi resi dall'ente o istituti.
+
 I progetti di tipo strumentale, ricorrendo le condizioni di cui al comma 1, riguardano a titolo esemplificativo, le seguenti materie: studio e sperimentazione delle metodologie di pianificazione e programmazione degli obiettivi e controllo dei risultati, determinazione dei carichi di lavoro, aggregazione delle attivita' per "ciclo di prodotto", individuazione degli standard di produttivita' e di altri parametri quantitativi del livello di efficienza. Le specifiche tecniche di realizzazione dei progetti di tipo strumentale conterranno, in ogni caso, la quantificazione del personale coinvolto nella loro attuazione e l'indicazione del tempo occorrente per la medesima.
 
 I progetti di risultato riguardano esclusivamente servizi per i quali sia intervenuta la preventiva individuazione di standard di produttivita' o di altri indicatori dei livelli di servizio a norma del comma 2.
@@ -472,6 +669,31 @@ Dopo tre mesi dalla data di entrata in vigore del presente decreto e, in seguito
 La formazione e l'aggiornamento professionale del personale costituiscono il basilare supporto per correlare lo sviluppo delle risorse e capacita' lavorative a quello organizzativo e tecnologico.
 
 In questa prospettiva ogni forma di evoluzione del sistema di organizzazione del lavoro dovra' procedere in piena sintonia con la previsione di adeguate iniziative in materia di formazione ed aggiornamento professionale.
+
+3.
+                        
+                            
+                                La formazione e l'aggiornamento professionale devono essere rivolti:
+ 
+                            
+                            
+                                a)
+                                
+                                    ad estendere l'aggiornamento professionale a tutto il personale ed in particolare a quello coinvolto nei processi di sviluppo dell'organizzazione del lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a consentire il piu' rapido ed efficace inserimento del personale di nuova assunzione o sottoposto a processi di mobilita' nello svolgimento delle attivita' di servizio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a favorire, mediante adeguati processi di riconversione professionale, la realizzazione di opportuni interventi per fronteggiare aree di criticita' nell'esecuzione dei servizi istituzionali e sviluppare la piu' ampia mobilita' del personale.
 
 In quest'ambito i progetti di tipo strumentale predisposti per l'introduzione di nuove tecnologie o tecniche organizzative conterranno opportune previsioni in materia di formazione ed aggiornamento professionale, dando priorita' agli interventi formativi di quelle professionalita' che assumono valore portante per la realizzabilita' dei progetti medesimi.
 

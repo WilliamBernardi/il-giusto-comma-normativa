@@ -8,8 +8,8 @@ codice_redazionale: 099G0300
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,10 +25,186 @@ Sentita la Conferenza Statocitta' ed autonomie locali;
 
 ## Art. 1. — Definizione dei parametri obiettivi per le province
 
+1.
+                    
+                        
+                            I parametri obiettivi da considerare per il triennio 1998/2000 ai fini dell'accertamento per le province della condizione di ente locale strutturalmente deficitario sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                disavanzo di amministrazione complessivo superiore al 5 per cento delle spese desumibili dai titoli I e III della spesa, con esclusione del rimborso di anticipazioni di cassa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                residui attivi di fine esercizio provenienti dalla gestione di competenza superiori al 15 per cento delle entrate correnti, desumibili dai titoli I, II e III; nel computo dei residui attivi sono esclusi quelli relativi ai trasferimenti erariali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                residui passivi di fine esercizio provenienti dalla gestione di competenza delle spese correnti, desumibili dal titolo I, superiori al 37 per cento delle spese di cui al titolo I;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esistenza di procedimenti di esecuzione forzata nei confronti dell'ente per i quali non sia stata proposta opposizione giudiziale nelle forme consentite dalla legge;
+
+                            
+                        
+                        
+                            e)
+                            
+                                presenza di debiti fuori bilancio riconosciuti ai sensi dell'articolo 37 del decreto legislativo 25 febbraio 1995, n. 77, per i quali non siano state reperite le necessarie fonti di finanziamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                volume complessivo delle entrate proprie, desumibili dai titoli I e III, inferiore al 9 per cento delle entrate correnti di cui alla lettera b);
+
+                            
+                        
+                        
+                            g)
+                            
+                                volume complessivo delle spese per il personale, a qualunque titolo in servizio, superiore al 45 per cento delle spese correnti desumibili dal titolo I; non concorrono al calcolo del volume complessivo delle spese di personale quelle finanziate con entrate a specifica destinazione da parte della regione o di altri enti pubblici;
+
+                            
+                        
+                        
+                            h)
+                            
+                                importo complessivo degli interessi passivi sui mutui superiore al 13 per cento delle entrate correnti desumibili dai titoli I, II e III.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+
 ## Art. 2. — Definizione dei parametri obiettivi per i comuni
+
+1.
+                    
+                        
+                            I parametri obiettivi da considerare per il triennio 1998/2000 ai fini dell'accertamento per i comuni della condizione di ente locale strutturalmente deficitario sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                disavanzo di amministrazione complessivo superiore al 5 per cento delle spese desumibili dai titoli I e III della spesa, con esclusione del rimborso di anticipazioni di cassa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                residui attivi di fine esercizio provenienti dalla gestione di competenza superiori al 21 per cento delle entrate correnti, desumibili dai titoli I, II e III; nel computo dei residui attivi sono esclusi quelli relativi all'imposta comunale sugli immobili ed ai trasferimenti erariali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                residui passivi di fine esercizio provenienti dalla gestione di competenza delle spese correnti, desumibili dal titolo I, superiori al 27 per cento delle spese di cui al titolo I;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esistenza di procedimenti di esecuzione forzata nei confronti dell'ente per i quali non sia stata proposta opposizione giudiziale nelle forme consentite dalla legge;
+
+                            
+                        
+                        
+                            e)
+                            
+                                presenza di debiti fuori bilancio riconosciuti ai sensi dell'articolo 37 del decreto legislativo 25 febbraio 1995, n. 77, per i quali non siano state reperite le necessarie fonti di finanziamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                volume complessivo delle entrate proprie, desumibili dai titoli I e III, rapportato al volume complessivo delle entrate correnti di cui alla lettera b), inferiore al 27 per cento per i comuni sino a 2999 abitanti, inferiore al 35 per cento per i comuni da 3000 a 59999 abitanti, inferiore al 37 per cento per i comuni da 60000 a 250000 abitanti, inferiore al 32 per cento per i comuni con oltre 250000 abitanti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                volume complessivo delle spese per il personale a qualunque titolo in servizio, rapportato al volume complessivo delle spese correnti desumibili dal titolo I, superiore al 48 per cento per i comuni sino a 2999 abitanti, superiore al 46 per cento per i comuni da 3000 a 59999 abitanti, superiore al 41 per cento per i comuni da 60000 a 250000 abitanti, superiore al 44 per cento per i comuni con oltre 250000 abitanti; non concorrono al calcolo del volume complessivo delle spese di personale quelle finanziate con entrate a specifica destinazione da parte della regione o di altri enti pubblici;
+
+                            
+                        
+                        
+                            h)
+                            
+                                importo complessivo degli interessi passivi sui mutui superiore al 12 per cento delle entrate correnti desumibili dai titoli I, II e III.
 
 ## Art. 3. — Definizione dei parametri obiettivi
  per le comunita' montane
+
+1.
+                    
+                        
+                            I parametri obiettivi da considerare per il triennio 1998/2000 ai fini dell'accertamento per le comunita' montane della condizione di ente locale strutturalmente deficitario sono i seguenti:
+ 
+                        
+                        
+                            a)
+                            
+                                disavanzo di amministrazione complessivo superiore al 5 per cento delle spese desumibili dai titoli I e III della spesa, con esclusione del rimborso di anticipazioni di cassa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                residui attivi di fine esercizio provenienti dalla gestione di competenza superiori al 37 per cento delle entrate correnti, desumibili dai titoli I e II; nel computo dei residui attivi sono esclusi quelli relativi ai trasferimenti erariali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                residui passivi di fine esercizio provenienti dalla gestione di competenza delle spese correnti, desumibili dal titolo I, superiori al 39 per cento delle spese di cui al titolo I;
+
+                            
+                        
+                        
+                            d)
+                            
+                                esistenza di procedimenti di esecuzione forzata nei confronti dell'ente per i quali non sia stata proposta opposizione giudiziale nelle forme consentite dalla legge;
+
+                            
+                        
+                        
+                            e)
+                            
+                                presenza di debiti fuori bilancio riconosciuti ai sensi dell'articolo 37 del decreto legislativo 25 febbraio 1995, n. 77, per i quali non siano state reperite le necessarie fonti di finanziamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                volume complessivo delle spese per il personale, a qualunque titolo in servizio, superiore al 57 per cento delle spese correnti desumibili dal titolo I; non concorrono al calcolo del volume complessivo delle spese di personale quelle finanziate con entrate a specifica destinazione da parte della regione o di altri enti pubblici;
+
+                            
+                        
+                        
+                            g)
+                            
+                                importo complessivo degli interessi passivi sui mutui superiore all'8 per cento delle entrate correnti desumibili dai titoli I e II.
 
 ## Art. 4. — Modalita' per la compilazione
  della tabella dei parametri

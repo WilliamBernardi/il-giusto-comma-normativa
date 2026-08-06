@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 1993-12-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -165,6 +165,50 @@ A decorrere dall'anno scolastico 1994-1995, la consistenza delle predette dotazi
 L'utilizzazione dei docenti delle dotazioni organiche aggiuntive e' finalizzata alla copertura di posti e cattedre da attribuire alle supplenze annuali, nonche' di posti comunque disponibili per l'intero anno scolatico, in misura prevalente rispetto a tutte le altre attivita' previste dall'articolo 14 della legge 20 maggio 1982, n. 270, e successive modificazioni ed integrazioni, e comunque, nell'ambito delle quote attualmente stabilite per tali attivita'. Resta salvo per la provincia di Bolzano il comma 6 dell'articolo 15 del decreto-legge 6 novembre 1989, n. 357, convertito, con modificazioni, dalla legge 27 dicembre 1989, n. 417.
 
 ## Art. 5. — Disciplina delle nuove forme di utilizzazione in compiti connessi con la scuola
+
+1.
+                    
+                        
+                            In sostituzione delle disposizioni di cui ai commi decimo ed 
+ undicesimo dell'articolo 14 della legge 20 maggio 1982, n. 270, ed 
+ a modifica di tutte le disposizioni che autorizzano l'impiego del  personale della scuola in funzioni diverse da quelle di istituto,  il Ministro della pubblica istruzione puo' disporre, a decorrere  dal 1° settembre 1993, utilizzazioni del personale direttivo e 
+ docente delle scuole di ogni ordine e grado, nonche' del personale 
+ direttivo ed educativo delle istituzioni educative, nel limite 
+ massimo di 1.000 unita', presso i seguenti uffici, enti ed associazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                uffici dell'amministrazione centrale della pubblica istruzione e dell'amministrazione scolastica periferica, per attivita' inerenti all'aggiornamento, alla sperimentazione, al diritto allo studio, all'integrazione scolastica degli alunni portatori di handicap, alla prevenzione delle tossicodipendenze ed all'educazione della salute nonche' allo sport; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                universita' degli studi ed altri istituti di istruzione superiore, ivi compresi gli istituti superiori di educazione fisica, per ricerche attinenti alle metodologie pedagogiche e, per gli istituti superiori di educazione fisica, anche per compiti di direzione tecnica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                associazioni professionali del personale direttivo e docente ed enti cooperativi da esse promossi, che attuino progetti di ricerca concernenti il servizio scolastico e svolgano compiti di progettazione, coordinamento ed organizzazione di attivita' di formazione ed aggiornamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                enti ed associazioni che svolgano attivita' di prevenzione del disagio psico-sociale, assistenza, cura, riabilitazione e reinserimento di tossicodipendenti e che risultino iscritti all'albo di cui all'articolo 116 del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                enti, istituzioni o amministrazioni che svolgano, per loro finalita' istituzionale, impegni nel campo dell'educazione e della scuola od in campi ad essi connessi, presso i quali il personale utilizzato sia chiamato ad esercitare attivita' direttamente attinenti al diritto allo studio, con particolare riferimento all'integrazione scolastica degli alunni portatori di handicap, nonche' attivita' inerenti a tematiche educative emergenti; enti aventi finalita' istituzionali nel campo della cultura. (1)
 
 Le utilizzazioni presso gli enti ed associazioni di cui alla lettera d) del comma 1 sono disposte nel limite di cui all'articolo 105, comma 7, del citato testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309.
 

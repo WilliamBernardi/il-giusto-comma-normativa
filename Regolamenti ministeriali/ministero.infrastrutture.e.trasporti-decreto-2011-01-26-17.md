@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2024-04-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,37 @@ Acquisito il parere della Conferenza Unificata tra lo Stato, le regioni e le pro
 Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 9 dicembre 2010, sul testo rielaborato all'esito del predetto parere reso dalla Conferenza Unificata e delle modifiche apportate dalla citata legge 29 luglio 2010, n. 120;
 
 ## Art. 1. — Requisiti per il conseguimento dell'abilitazione di insegnante
+
+1.
+                    
+                        
+                            I requisiti per conseguire l'abilitazione di insegnante di autoscuola sono i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                eta' non inferiore a diciotto anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di istruzione secondaria di secondo grado;
+                            
+                        
+                        
+                            c)
+                            
+                                non essere stato dichiarato delinquente abituale, professionale o per tendenza e non essere stato sottoposto a misure amministrative di sicurezza personale o alle misure di prevenzione previste dall'articolo 120, comma 1, del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                patente di guida della categoria B normale o speciale ((, conseguita in Italia o in uno Stato membro della Unione europea o dello Spazio economico europeo, o in un altro Stato e convertita in patente di guida italiana)).
 
 La revoca della patente di cui al comma 1, lett. d), comporta la decadenza dall'abilitazione.
 
@@ -54,6 +85,38 @@ Gli esami di idoneita' per il conseguimento dell'abilitazione di istruttore si s
 
 ))
 
+2.
+                    
+                        
+                            L'esame per l'abilitazione di insegnante verte sulle materie di cui all'allegato 1 e si articola in quattro ((prove)): 
+ 
+                        
+                        
+                            a)
+                            
+                                il candidato compila due schede d'esame, di ((trenta)) domande ciascuna, predisposte con criterio di casualita' sulla base dei contenuti di quelle per il conseguimento delle patenti di guida delle categorie A e B, nel tempo massimo di ((trenta)) minuti. Non e' ammesso alla prova sub lettera b) il candidato che ha commesso, sul complessivo numero di ((sessanta)) domande, un numero di errori superiore a due; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il candidato tratta sinteticamente, per iscritto e nel tempo minimo di due ore fino ad un massimo di sei ore come stabilito dalla commissione d'esame, tre temi scelti dalla commissione tra gli argomenti del programma d'esame. Ad ogni tema e' assegnato un punteggio tra zero e dieci. E' ammesso alla terza ((prova)) il candidato che ha ottenuto un punteggio per ciascuna prova non inferiore a cinque e complessivo, sulle tre prove, non inferiore a diciotto rispetto al punteggio massimo di trenta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il candidato simula una lezione di teoria su un argomento scelto dalla commissione. E' ammesso alla quarta ((prova)) il candidato che ha ottenuto un punteggio non inferiore a diciotto rispetto al punteggio massimo di trenta; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il candidato sostiene una prova orale sugli argomenti del programma d'esame. Supera la prova il candidato che ha ottenuto un punteggio non inferiore a diciotto rispetto al punteggio massimo di trenta.
+
 ((
 
 Ciascuna delle prove di cui al comma 2, lettere b), c) e d), in caso di esito negativo puo' essere sostenuta piu' volte, comunque non oltre il termine massimo di due anni decorrente dall'esito positivo della prova di cui alla lettera a) del medesimo comma 2.
@@ -73,6 +136,38 @@ Qualora il corso di formazione periodica sia frequentato dopo lo scadere del pre
 
 L'insegnante non in regola con gli obblighi di formazione periodica di cui al comma 1 non puo' essere inserito nell'organico di un'autoscuola o di un centro di istruzione automobilistica ((, ne' puo' farne piu' parte,)) prima della frequenza del relativo corso. La violazione delle disposizioni di cui al periodo precedente comporta la sospensione dell'abilitazione.
 
+3.
+                    
+                        
+                            Il corso di formazione periodica ha ad oggetto uno o piu' tra i seguenti argomenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il mantenimento e il miglioramento delle competenze generali degli insegnanti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i cambiamenti normativi legati alla sicurezza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le nuove ricerche riguardanti l'area della sicurezza stradale, in particolare il comportamento dei giovani conducenti, compresa l'evoluzione delle tendenze delle cause di incidente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i nuovi sviluppi dei metodi di insegnamento e di apprendimento ((, con particolare attenzione agli allievi con disturbi specifici dell'apprendimento)).
+
 ((
 
 Le modalita' di erogazione della formazione teorica, a distanza e in presenza, sono disciplinate in conformita' agli appositi accordi fra le regioni e le province autonome sulle linee guida relative alla modalita' di erogazione della formazione teorica, a distanza e in presenza, per le professioni o attivita' regolamentate la cui formazione e' in capo alle regioni e province autonome. In prima attuazione si applica l'Accordo fra le regioni e province autonome n. 21/181/cr5a/c17 del 3 novembre 2021. La spendibilita' sull'intero territorio nazionale dell'attestato di cui all'allegato 3-bis e' subordinata all'osservanza del predetto accordo.
@@ -87,6 +182,38 @@ La frequenza del corso di formazione periodica e' annotata sull'attestato di cui
 
 ((
 
+1.
+                    
+                        
+                            L'istruttore di guida puo' essere abilitato a: 
+ 
+                        
+                        
+                            a)
+                            
+                                svolgere esercitazioni per il conseguimento delle patenti di categoria B, BE, C e CE, nonche' per la loro revisione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolgere esercitazioni per il conseguimento delle patenti di categoria AM, A1, A2, A, B, BE, C e CE, nonche' per la loro revisione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                svolgere esercitazioni per il conseguimento delle patenti di categoria B, BE, C, CE, D e DE, nonche' per la loro revisione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolgere esercitazioni per il conseguimento delle patenti di categoria AM, A1, A2, A, B, BE, C, CE, D e DE, nonche' per la loro revisione.
+
 Ai soli fini dell'avvio dell'attivita' di autoscuola ai sensi dell'articolo 123 del decreto legislativo 30 aprile 1992, n. 285, puo' conseguire l'abilitazione di istruttore un soggetto in possesso dei requisiti di cui all'articolo 6, comma 1, lettera d), n. 5).
 
 ))
@@ -94,6 +221,43 @@ Ai soli fini dell'avvio dell'attivita' di autoscuola ai sensi dell'articolo 123 
 ## Art. 6. — Requisiti per il conseguimento dell'abilitazione di istruttore
 
 ((
+
+1.
+                    
+                        
+                            I requisiti per conseguire l'abilitazione di istruttore di autoscuola sono i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                eta' non inferiore a ventuno anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                diploma di istruzione secondaria di secondo grado; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non essere stato dichiarato delinquente abituale, professionale o per tendenza e non essere stato sottoposto a misure amministrative di sicurezza personale o alle misure di prevenzione previste dall'articolo 120, comma 1, del decreto legislativo 30 aprile 1992, n. 285; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                patente di guida, conseguita in Italia o in uno Stato membro della Unione europea o dello Spazio Economico Europeo, o in altro Stato e convertita in patente di guida italiana, comprendente almeno le categorie: 
+ 1) BE e CE, ad esclusione delle categorie speciali, per l'abilitazione di cui all'articolo 5, comma 1, lettera a); 
+ 2) A, BE e CE, ad esclusione delle categorie speciali, per l'abilitazione di cui all'articolo 5, comma 1, lettera b); 
+ 3) BE, CE e DE, ad esclusione delle categorie speciali, per l'abilitazione di cui all'articolo 5, comma 1, lettera c); 
+ 4) A, BE, CE e DE, ad esclusione di quelle speciali, per l'abilitazione di cui all'articolo 5, comma 1, lettera d); 
+ 5) BE e CE speciali, per gli istruttori di cui all'articolo 5, comma 2.
 
 ))
 
@@ -104,6 +268,38 @@ La revoca della patente di cui al comma 1, lett. d), comporta la decadenza dall'
 ((
 
 Al corso di formazione iniziale, propedeutico all'esame per il conseguimento dell'abilitazione di istruttore, sono ammessi i candidati in possesso dei requisiti di cui all'articolo 6.
+
+2.
+                    
+                        
+                            Il corso si svolge integralmente presso un solo soggetto di cui all'articolo 123, comma 10-bis, del decreto legislativo 30 aprile 1992, n. 285, sulla base del programma di cui all'allegato 2 al presente regolamento. Il corso e' articolato: 
+ 
+                        
+                        
+                            a)
+                            
+                                in una parte teorica di novanta ore, comune a tutte le abilitazioni di cui all'articolo 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in una parte pratica di ventisei ore per gli istruttori di cui all'articolo 5, comma 1, lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in una parte pratica di trentadue ore per gli istruttori di cui all'articolo 5, comma 1, lettere b) o c); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                in una parte pratica di trentotto ore per gli istruttori di cui all'articolo 5, comma 1, lettera d).
 
 Gli istruttori di cui all'articolo 5, comma 2, sono esonerati dalla parte pratica del corso. Le modalita' di erogazione della formazione teorica, a distanza e in presenza, sono disciplinate in conformita' agli appositi accordi fra le regioni e le province autonome sulle linee guida relative alla modalita' di erogazione della formazione teorica, a distanza e in presenza, per le professioni o attivita' regolamentate la cui formazione e' in capo alle regioni e province autonome. In prima attuazione si applica l'Accordo fra le regioni e province autonome n. 21/181/cr5a/c17 del 3 novembre 2021. La spendibilita' sull'intero territorio nazionale dell'attestato di cui all'allegato 3 e' subordinata all'osservanza del predetto accordo.».
 
@@ -120,6 +316,35 @@ I veicoli sui quali si svolge la parte pratica del corso, a eccezione dei motoci
 Gli esami di idoneita' per il conseguimento dell'abilitazione di istruttore si svolgono secondo le modalita' previste dagli accordi Stato-regioni-enti locali. In prima attuazione si applica il punto 5 dell'accordo Stato-regioni-enti locali del 14 febbraio 2002. Nella Commissione d'esame deve essere assicurato che uno o piu' componenti siano titolari della categoria di patente idonea alla guida del veicolo su cui si svolgono le prove atte a dimostrare la capacita' di istruzione alla guida di cui al comma 2, lettera c). Nelle suddette prove un componente della Commissione d'esame conduce il veicolo e simula il ruolo di allievo per la verifica delle capacita' di istruzione del candidato. E' consentito svolgere una o piu' prove d'esame anche presso una provincia o citta' metropolitana diversa da quella presso la quale ha sede il soggetto erogatore del corso.
 
 ))
+
+2.
+                    
+                        
+                            L'esame per l'abilitazione di istruttore verte sulle materie di cui all'allegato 2 e si articola in tre prove: 
+ 
+                        
+                        
+                            a)
+                            
+                                il candidato compila due schede d'esame, di ((trenta)) domande ciascuna, predisposte con criterio di casualita' sulla base dei contenuti di quelle per il conseguimento delle patenti di guida delle categorie A e B, nel tempo massimo di ((trenta)) minuti. Non e' ammesso alla prova sub lettera b) il candidato che ha commesso, sul complessivo numero di ((sessanta)) domande, un numero di errori superiore a due; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                seconda prova: il candidato sostiene una prova orale sugli argomenti del programma d'esame. E' ammesso alla prova successiva il candidato che ha ottenuto un punteggio non inferiore a diciotto rispetto al punteggio massimo di trenta (( In caso di esito negativo e' possibile ripetere la prova, anche piu' di una volta, entro il periodo massimo di due anni dall'esito positivo della prova di cui alla lettera a) )); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                terza prova: per dimostrare la propria capacita' di istruzione, il candidato sostiene le seguenti prove pratiche: 
+ 1) per l'abilitazione di cui all'articolo 5, lettera a), il candidato comprova la capacita' di istruzione alla guida di veicolo della categoria B e di veicolo della categoria CE; 
+ 2) per l'abilitazione di cui all'articolo 5, lettera b), il candidato comprova la capacita' di istruzione alla guida di motociclo della categoria A, di veicolo della categoria B e di veicolo della categoria CE; 
+ 3) per l'abilitazione di cui all'articolo 5, lettera c), il candidato comprova la capacita' di istruzione alla guida di veicolo della categoria B e di veicolo della categoria CE o D a scelta della Commissione di cui al comma 1; 
+ 4) per l'abilitazione di cui all'articolo 5, lettera d), il candidato comprova la capacita' di istruzione alla guida di motociclo della categoria A, di veicolo della categoria B e di veicolo della categoria CE o D a scelta della Commissione di cui al comma 1.
 
 ((
 
@@ -142,6 +367,38 @@ L'obbligo di formazione periodica si applica anche agli istruttori abilitati pri
 ))
 
 L'istruttore non in regola con gli obblighi di formazione periodica di cui al comma 1 non puo' essere inserito nell'organico di un'autoscuola o di un centro di istruzione automobilistica ((ne' puo' farne piu' parte,)) prima della frequenza di tale corso. La violazione delle disposizioni di cui al periodo precedente comporta la sospensione dell'abilitazione.
+
+3.
+                    
+                        
+                            Il corso ha ad oggetto uno o piu' tra i seguenti argomenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il mantenimento e il miglioramento delle competenze generali degli istruttori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i cambiamenti normativi legati alla sicurezza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le nuove ricerche riguardanti l'area della sicurezza stradale, in particolare il comportamento dei giovani conducenti, compresa l'evoluzione delle tendenze delle cause di incidente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i nuovi sviluppi dei metodi di insegnamento e di apprendimento ((, con particolare attenzione alla formazione degli allievi con disturbi specifici dell'apprendimento)).
 
 ((
 
@@ -178,6 +435,102 @@ In ciascuno dei corsi di formazione periodica di cui agli articoli 4 e 9 non son
 L'inosservanza delle disposizioni di cui ai commi 1 e 2 non consente il rilascio dell'attestato di frequenza all'allievo assente.
 
 ## Art. 12. — Docenti dei corsi di formazione
+
+1.
+                    
+                        
+                            I corsi di formazione iniziale sono svolti dalle seguenti figure professionali: 
+ 
+                        
+                        
+                            a)
+                            
+                                soggetti in possesso di uno dei seguenti titoli: 
+ 1) diploma di laurea in giurisprudenza, scienze politiche, scienze dell'amministrazione; 
+ 2) una delle lauree specialistiche corrispondenti a quelle sub lettera a1), secondo la tabella di equiparazione di cui al decreto del Ministro dell'istruzione, dell'universita' e della ricerca, 5 maggio 2004, pubblicato nella Gazzetta Ufficiale 21 agosto 2004, n. 196; 
+ 3) laurea triennale afferente ad una delle seguenti classi di cui al decreto del Ministro dell'universita' e della ricerca, 16 marzo 2007, pubblicato nella Gazzetta Ufficiale 6 luglio 2007, n. 155: scienze dei servizi giuridici, scienze dell'amministrazione e dell'organizzazione, scienze politiche e delle relazioni internazionali, ovvero lauree corrispondenti ai sensi del decreto del Ministro dell'istruzione, dell'universita' e della ricerca scientifica e tecnologica, n. 509 del 3 novembre 1999, pubblicato nella Gazzetta Ufficiale 4 gennaio 2000, n. 2, come modificato dal decreto del Ministro dell'istruzione, dell'universita' e della ricerca, n. 270 del 22 ottobre 2004, pubblicato nella Gazzetta Ufficiale 12 novembre 2004, n. 266; 
+ 4) laurea magistrale in giurisprudenza; 
+ 5) laurea magistrale afferente ad una delle seguenti classi di cui al citato decreto del Ministro dell'universita' e della ricerca, 16 marzo 2007: scienze della politica, relazioni internazionali, scienze delle pubbliche amministrazioni, ovvero lauree corrispondenti ai sensi del citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca scientifica e tecnologica, n. 509 del 3 novembre 1999 come modificato dal citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca, n. 270 del 22 ottobre 2004; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                insegnante di autoscuola con esercizio continuativo dell'attivita' almeno negli ultimi cinque anni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                istruttore di guida con esercizio continuativo dell'attivita' almeno negli ultimi cinque anni; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                medico iscritto all'Ordine; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                psicologo in possesso di uno dei seguenti titoli: 
+ 1) diploma di laurea conseguito a seguito di corso di studi di almeno quattro anni, ovvero della laurea specialistica corrispondente secondo la tabella di equiparazione di cui al citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca, 5 maggio 2004, esperto in pedagogia, circolazione del traffico, tecnica della comunicazione o sicurezza viaria, iscritto all'Ordine; 
+ 2) laurea magistrale di cui al citato decreto del Ministro dell'universita' e della ricerca, 16 marzo 2007, ovvero lauree corrispondenti ai sensi del citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca scientifica e tecnologica, n. 509 del 3 novembre 1999 come modificato dal citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca, n. 270 del 22 ottobre 2004, iscritto all'Ordine; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                ingegnere in possesso di uno dei seguenti titoli: 
+ 1) diploma di laurea conseguito a seguito di corso di studi di almeno cinque anni, ovvero di una delle lauree specialistiche corrispondenti secondo la tabella di equiparazione di cui al citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca, 5 maggio 2004, iscritto all'Ordine; 
+ 2) laurea magistrale di cui al citato decreto del Ministro dell'universita' e della ricerca scientifica, 16 marzo 2007, ovvero lauree corrispondenti ai sensi del citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca scientifica e tecnologica, n. 509 del 3 novembre 1999 come modificato dal citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca, n. 270 del 22 ottobre 2004, iscritto all'Ordine; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                soggetto in possesso di uno dei seguenti titoli: 
+ 1) diploma di laurea in fisica conseguito a seguito di corso di studi di almeno quattro anni, ovvero della laurea specialistica corrispondente secondo la tabella di equiparazione di cui al citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca, 5 maggio 2004; 
+ 2) laurea magistrale in fisica di cui al citato decreto del Ministro dell'universita' e della ricerca scientifica, 16 marzo 2007, ovvero lauree corrispondenti ai sensi del citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca scientifica e tecnologica, n. 509 del 3 novembre 1999 come modificato dal citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca, n. 270 del 22 ottobre 2004.
+
+2.
+                    
+                        
+                            I corsi di formazione periodica sono svolti dalle figure professionali indicate al comma 1, secondo le competenze di seguito specificate: 
+ 
+                        
+                        
+                            a)
+                            
+                                per gli argomenti di cui all'articolo 4, comma 3, lettera a), e per quelli di cui all'articolo 9, comma 3, lettera a): ingegnere o psicologo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per gli argomenti di cui all'articolo 4, comma 3, lettera b), e per quelli di cui all'articolo 9, comma 3, lettera b): soggetto di cui al comma 1 lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per gli argomenti di cui all'articolo 4, comma 3, lettera c), e per quelli di cui all'articolo 9, comma 3 lettera c): ingegnere e psicologo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per gli argomenti di cui all'articolo 4, comma 3, lettera d), e per quelli di cui all'articolo 9, comma 3, lettera d): psicologo ((o, limitatamente alla materia della formazione degli allievi con disturbi specifici dell'apprendimento, medico iscritto al relativo ordine professionale)).
 
 ## Art. 13. — ((Disposizioni per i corsi di formazione iniziale, periodica e di estensione dell'abilitazione svolti da autoscuole e centri di istruzione automobilistica))
 

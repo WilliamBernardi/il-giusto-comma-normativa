@@ -8,8 +8,8 @@ codice_redazionale: 098G0165
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,31 @@ Le proposte di cui al comma 2 sono comunicate agli uffici elettorali provinciali
 Gli uffici elettorali provinciali, entro il 17 settembre 1998, comunicano, per ogni singolo comune della provincia, il numero delle sezioni elettorali ottenuto a seguito della riduzione alla Direzione generale dell'Amministrazione civile - Direzione centrale per i servizi elettorali, che accerta, a norma dell'articolo 55, commi 6 e 7, della legge 27 dicembre 1997, n. 449, la conformita' delle modifiche agli obiettivi del perseguimento della riduzione del 30 per cento delle sezioni elettorali con riferimento all'intero corpo elettorale.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            La riduzione del numero delle sezioni deve comportare, per ciascun comune, un numero medio di elettori per sezione non inferiore a:
+ 
+                        
+                        
+                            a)
+                            
+                                750 elettori nei comuni da 2.001 a 40.000 abitanti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                825 elettori nei comuni da 40.001 a 500.000 abitanti;
+
+                            
+                        
+                        
+                            c)
+                            
+                                900 elettori nei comuni con piu' di 500.001 abitanti.
 
 Salvo che particolari, comprovate condizioni di lontananza o di viabilita' rendano difficile l'esercizio del diritto di voto, nei comuni con popolazione inferiore a 1.200 abitanti viene costituita una sola sezione, mentre nei comuni con popolazione da 1.201 a 2.000 abitanti il corpo elettorale e' ripartito in due sezioni.
 

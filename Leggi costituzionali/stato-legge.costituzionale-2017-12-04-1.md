@@ -7,8 +7,8 @@ urn: urn:nir:stato:legge.costituzionale:2017-12-04;1
 vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE
@@ -37,6 +37,26 @@ All'articolo 49 del decreto del Presidente della Repubblica 31 agosto 1972, n. 6
 
 ## Art. 3. — Modifiche all'articolo 50 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, in materia di composizione della Giunta provinciale di Bolzano
 
+1.
+                    
+                        
+                            All'articolo 50 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma: 
+ 1) al secondo periodo, le parole: «di due vice Presidenti» sono sostituite dalle seguenti: «di due o di tre vice Presidenti»; 
+ 2) dopo il secondo periodo e' aggiunto il seguente: «La Giunta provinciale di Bolzano e' composta di tre vice Presidenti, di cui uno appartenente al gruppo linguistico ladino, quando uno dei suoi componenti appartiene a tale gruppo linguistico»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo comma, il terzo periodo e' sostituito dal seguente: «I vice Presidenti appartengono uno al gruppo linguistico tedesco, uno al gruppo linguistico italiano e, nel caso di cui al terzo periodo del primo comma, uno al gruppo linguistico ladino».
+
 ## Art. 4. — Modifiche all'articolo 62 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, in materia di composizione degli organi di vertice degli enti pubblici di rilevanza provinciale e degli enti locali intermedi
 
 All'articolo 62 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, e successive modificazioni, sono aggiunti, in fine, i seguenti commi: 
@@ -45,7 +65,76 @@ All'articolo 62 del decreto del Presidente della Repubblica 31 agosto 1972, n. 6
 
 ## Art. 5. — Modifiche all'articolo 84 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, in materia di procedura per l'esame dei capitoli di bilancio e per la loro votazione per gruppi linguistici
 
+1.
+                    
+                        
+                            All'articolo 84 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al terzo comma, le parole: «la maggioranza dei voti di ciascun gruppo linguistico» sono sostituite dalle seguenti: «la maggioranza dei voti del gruppo linguistico italiano ovvero del gruppo linguistico tedesco»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il terzo comma e' inserito il seguente: 
+ «I capitoli di bilancio che non hanno ottenuto la maggioranza dei voti del gruppo linguistico ladino sono sottoposti, nel termine di tre giorni, a una commissione di tre consiglieri regionali o provinciali eletta dal Consiglio all'inizio della legislatura e per tutta la durata di questa, composta da un consigliere appartenente al gruppo linguistico italiano, da uno appartenente al gruppo linguistico tedesco e da uno appartenente al gruppo linguistico ladino, in conformita' alla designazione di ciascun gruppo»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il quarto comma e' sostituito dal seguente: 
+ «Le commissioni di cui ai commi terzo e quarto, entro quindici giorni, devono stabilire, con decisione vincolante per il Consiglio, la denominazione definitiva dei capitoli di bilancio e l'ammontare dei relativi stanziamenti. La decisione e' adottata a maggioranza semplice dalla commissione di cui al terzo comma e all'unanimita' dalla commissione di cui al quarto comma, senza che alcun consigliere abbia voto prevalente»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al quinto comma, le parole: «Se nella commissione non si raggiunge la maggioranza su una proposta conclusiva,» sono sostituite dalle seguenti: «Se nella commissione di quattro consiglieri non si raggiunge la maggioranza o se nella commissione di tre consiglieri non si raggiunge l'unanimita' su una proposta conclusiva,»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al settimo comma, le parole: «di cui al quarto e quinto comma» sono sostituite dalle seguenti: «di cui ai commi quinto e sesto»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al nono comma, le parole: «ai commi terzo, quarto e quinto» sono sostituite dalle seguenti: «ai commi terzo, quarto, quinto e sesto».
+
 ## Art. 6. — Modifiche all'articolo 89 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, in materia di trasferimento fuori provincia del personale di lingua ladina e di ripartizione proporzionale dei posti nei ruoli speciali della magistratura in provincia di Bolzano
+
+1.
+                    
+                        
+                            All'articolo 89 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al sesto comma, dopo le parole: «del personale di lingua tedesca» sono inserite le seguenti: «e di lingua ladina»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al settimo comma: 
+ 1) al primo periodo, le parole: «tra i gruppi linguistici italiano e tedesco» sono sostituite dalle seguenti: «tra i gruppi linguistici italiano, tedesco e ladino»; 
+ 2) al secondo periodo, dopo le parole: «al gruppo linguistico tedesco» sono inserite le seguenti: «e al gruppo linguistico ladino»; 
+ 3) al terzo periodo, dopo le parole: «cittadini di lingua tedesca» sono inserite le seguenti: «e ai cittadini di lingua ladina».
 
 ## Art. 7. — Modifica all'articolo 93 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, in materia di integrazione delle Sezioni del Consiglio di Stato investite dei ricorsi avverso le decisioni dell'autonoma sezione di Bolzano del tribunale regionale di giustizia amministrativa
 
@@ -57,6 +146,24 @@ All'articolo 102 del decreto del Presidente della Repubblica 31 agosto 1972, n. 
  «Al Comun General de Fascia, ente sovracomunale costituito nel territorio coincidente con quello dei comuni di cui all'articolo 48, terzo comma, la regione e la provincia di Trento possono attribuire, trasferire o delegare funzioni amministrative, compiti o attivita' proprie, rilevanti per la valorizzazione della minoranza linguistica ladina».
 
 ## Art. 9. — Modifiche all'articolo 107 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, in materia di composizione della commissione paritetica per il parere al Governo sugli schemi di decreto recanti norme di attuazione dello statuto
+
+1.
+                    
+                        
+                            All'articolo 107 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma, secondo periodo, sono aggiunte, in fine, le seguenti parole: «o ladino»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo comma, il secondo periodo e' sostituito dai seguenti: «Uno dei membri in rappresentanza dello Stato deve appartenere al gruppo linguistico tedesco o ladino; uno di quelli in rappresentanza della provincia deve appartenere al gruppo linguistico italiano. La maggioranza dei consiglieri provinciali del gruppo linguistico tedesco o italiano puo' rinunciare alla designazione di un proprio rappresentante in favore di un appartenente al gruppo linguistico ladino».
 
 ## Art. 10. — Disposizioni finanziarie
 

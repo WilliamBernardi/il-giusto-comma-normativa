@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-03-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,7 +32,38 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sa
 
 ## Art. 3. — (ALIMENTI PER ANIMALI DESTINATI A PARTICOLARI FINI NUTRIZIONALI)
 
+1.
+                    
+                        
+                            Gli alimenti per animali destinati a particolari fini nutrizionali possono essere commercializzati soltanto se: 
 
+                        
+                        
+                            a)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL D.LGS. 2 FEBBRAIO 2021, N. 27)); 
+                            
+                        
+                        
+                            c)
+                            
+                                soddisfano le condizioni stabilite sotto la rubrica "disposizioni generali" della parte A dell'allegato I; 
+                            
+                        
+                        
+                            d)
+                            
+                                gli usi previsti sono elencati nella parte B dell'allegato I e soddisfano le altre disposizioni fissate in tale parte dell'allegato.
+
+((COMMA ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 27)).
 
 Per le modifiche ed integrazioni agli allegati al presente decreto, conseguenti a direttive Europee dovute a conoscenze scientifiche e tecniche si applica l'articolo 20 della legge 16 aprile 1987, n. 183. 
  ((6))
@@ -47,6 +78,52 @@ Per le modifiche ed integrazioni agli allegati al presente decreto, conseguenti 
 La natura e la composizione degli alimenti per animali destinati a particolari fini nutrizionali devono essere idonee a soddisfare il particolare fine nutrizionale cui sono destinati in conformita' alle disposizioni di cui all'allegato I, parte A e B.
 
 ## Art. 5. — (ETICHETTATURA)
+
+1.
+                    
+                        
+                            Sull'imballaggio, sul recipiente o sull'etichetta degli alimenti dietetici, oltre a quelle stabilite per gli alimenti composti, devono figurare secondo le modalita' di cui all'allegato III, capoverso I, alla legge 15 febbraio 1963, n. 281, e successive modifiche, le seguenti diciture aggiuntive:
+ 
+                        
+                        
+                            a)
+                            
+                                la qualifica "dietetico" insieme alla descrizione dell'alimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la destinazione esatta, ovvero il fine nutrizionale particolare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione delle caratteristiche nutrizionali essenziali dell'alimento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                le dichiarazioni riguardanti il fine nutrizionale particolare previste nella colonna 4 dell'allegato I al presente decreto;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la durata raccomandata di utilizzazione dell'alimento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                indicazioni ulteriori, se previste come cogenti nell'allegato I al presente decreto.
 
 Le indicazioni di cui al comma 1 devono essere conformi all'elenco delle destinazioni ed alle disposizioni generali di cui all'allegato I.
 

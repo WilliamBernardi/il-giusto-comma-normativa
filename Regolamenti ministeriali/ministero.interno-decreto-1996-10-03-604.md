@@ -8,8 +8,8 @@ codice_redazionale: 096G0628
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,73 @@ La nomina alla qualifica iniziale del ruolo dei sovrintendenti della Polizia di 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Concorso interno - Bando di concorso
+
+1.
+                    
+                        
+                            Il concorso di cui all'art. 1 e' indetto con decreto del capo della Polizia - Direttore generale della pubblica sicurezza, da pubblicare nel Bollettino ufficiale del personale del Ministero dell'interno, nel quale sono indicati:
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti complessivi messi a concorso;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero dei posti riservati agli assistenti capo;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il numero dei posti riservati agli assistenti, agenti scelti ed agenti che abbiano compiuto almeno quattro anni di effettivo servizio;
+
+                            
+                        
+                        
+                            d)
+                            
+                                i requisiti richiesti per la partecipazione al concorso;
+
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' di presentazione delle domande di partecipazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le categorie di titoli ammessi a valutazione ed i punteggi massimi attribuibili a ciascuna di esse;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la data di svolgimento dell'esame scritto e le materie oggetto del questionario costituente la prova d'esame;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la votazione minima da conseguire nella prova scritta;
+
+                            
+                        
+                        
+                            i)
+                            
+                                ogni altra prescrizione o notizia ritenuta utile.
 
 ## Art. 3. — Possesso dei requisiti ed esclusione dal concorso
 
@@ -68,6 +135,59 @@ Le materie che possono formare oggetto del questionario sono italiano, storia d'
 La prova si intende superata se il candidato riporta una votazione non inferiore a punti 70. La votazione massima attribuibile alla prova scritta e' di 100 punti.
 
 ## Art. 7. — Titoli di servizio
+
+1.
+                    
+                        
+                            Le categorie di titoli di servizio ammessi a valutazione ed il punteggio massimo attribuito a ciascuna categoria sono stabiliti come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti informativi e giudizi complessivi del biennio anteriore, fino a punti 12;
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualita' delle mansioni svolte con particolare riferimento alla specifica competenza professionale dimostrata ed al grado di responsabilita' assunta anche in relazione alla sede di servizio, fino a punti 12;
+
+                            
+                        
+                        
+                            c)
+                            
+                                incarichi e servizi speciali conferiti con specifico provvedimento dell'amministrazione, che comportino un rilevante aggravio di lavoro e presuppongano una particolare competenza professionale, fino a punti 6;
+
+                            
+                        
+                        
+                            d)
+                            
+                                titoli attinenti alla formazione professionale del candidato con particolare riguardo ai corsi professionali e di specializzazione frequentati e superati, fino a punti 4;
+
+                            
+                        
+                        
+                            e)
+                            
+                                lavori originali elaborati per il servizio che il candidato ha svolto nell'esercizio delle proprie attribuzioni o per speciale incarico conferitogli dall'amministrazione di appartenenza o da quella presso cui presta servizio e che vertono su problemi giuridici, amministrativi o tecnici ovvero su questioni di particolare rilievo attinenti ai servizi dell'amministrazione, fino a punti 4;
+
+                            
+                        
+                        
+                            f)
+                            
+                                speciali riconoscimenti, fino a punti 6;
+
+                            
+                        
+                        
+                            g)
+                            
+                                anzianita' complessiva di servizio, fino a punti 6;
 
 Nell'ambito delle suddette categorie, la commissione esaminatrice determina i titoli valutabili ed i criteri di massima per la valutazione degli stessi e per l'attribuzione dei relativi punteggi.
 

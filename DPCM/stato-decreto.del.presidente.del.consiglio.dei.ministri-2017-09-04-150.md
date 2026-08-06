@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2017-09-04;
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:12Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -29,6 +29,87 @@ Acquisito il parere del Garante per la protezione dei dati personali, espresso n
 Di concerto con il Ministro dell'economia e delle finanze e con il Ministro del lavoro e delle politiche sociali;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini delle disposizioni contenute nel presente decreto si intendono per: 
+ 
+                        
+                        
+                            a)
+                            
+                                accordi quadro: congiuntamente l'accordo quadro tra i Ministri del lavoro e delle politiche sociali e dell'economia e delle finanze e l'associazione bancaria italiana, e l'accordo quadro tra i Ministri del lavoro e delle politiche sociali e dell'economia e delle finanze, l'associazione nazionale fra le imprese assicuratrici e altre imprese assicurative primarie, ai sensi dell'articolo 1, comma 169, della legge 11 dicembre 2016, n. 232, come regolati dall'articolo 11; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                anticipo finanziario a garanzia pensionistica (APE): il prestito di cui all'articolo 1, commi da 166 a 178, della legge 11 dicembre 2016, n. 232; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                contratto di finanziamento: il contratto concluso tramite flusso telematico tra il richiedente e l'istituto finanziatore di cui alla lettera l), mediante il quale sono regolati i termini e le condizioni, in conformita' all'articolo 1, commi da 166 a 178, della legge 11 dicembre 2016, al presente decreto nonche' agli accordi quadro di cui alla lettera a), ai fini dell'erogazione e del rimborso del finanziamento di cui alla lettera d); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                finanziamento: l'ammontare complessivo del prestito erogato a titolo di APE durante la fase di erogazione, comprensivo dell'importo dei premi assicurativi complessivamente pattuiti e della commissione di accesso al fondo di garanzia, anticipati dall'istituto finanziatore per conto del richiedente; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                fondo di garanzia o fondo: il fondo di cui all'articolo 1, comma 173, della legge 11 dicembre 2016, n. 232, i cui interventi sono assistiti dalla garanzia dello Stato quale garanzia di ultima istanza; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                gestore: l'Istituto nazionale di previdenza sociale (INPS), al quale e' affidata la gestione del fondo di garanzia, sulla base di un'apposita convenzione da stipulare tra lo stesso Istituto ed i Ministri del lavoro e delle politiche sociali e dell'economia e delle finanze, ai sensi dell'articolo 1, comma 176, della legge 11 dicembre 2016, n. 232; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                impresa assicuratrice: l'impresa assicuratrice che aderisce all'accordo quadro tra i Ministri del lavoro e delle politiche sociali e dell'economia e delle finanze, l'associazione nazionale fra le imprese assicuratrici e altre imprese assicurative primarie, ai sensi dell'articolo 1, comma 169, della legge 11 dicembre 2016, n. 232 e di cui all'articolo 11, comma 2, del presente decreto; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                interessi contrattuali: l'ammontare complessivo degli interessi contrattuali maturati sul finanziamento; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                debito residuo: l'ammontare del finanziamento e dei relativi interessi contrattuali non ancora rimborsati, da restituire secondo il piano di ammortamento; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                istituto finanziatore: la banca o l'intermediario finanziario che aderisce all'accordo quadro tra i Ministri del lavoro e delle politiche sociali e dell'economia e delle finanze e l'associazione bancaria italiana ai sensi dell'articolo 1, comma 169, della legge 11 dicembre 2016, n. 232 e di cui all'articolo 11, comma 1, del presente decreto; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                piano di ammortamento: il piano di ammortamento per il rimborso del debito residuo, definito ai sensi degli accordi quadro di cui all'articolo 11, comma 1.
 
 ## Art. 2. — Oggetto
 
@@ -52,6 +133,24 @@ La domanda di certificazione del diritto all'APE e' presentata dal soggetto rich
 
 ## Art. 5. — Certificazione del diritto all'APE
 
+1.
+                    
+                        
+                            Entro sessanta giorni dalla ricezione della domanda di certificazione del diritto all'APE, l'INPS comunica al richiedente per via telematica tramite il sito istituzionale, nella sezione riservata al richiedente e con contestuale invio dell'avviso di comunicazione di avvenuta pubblicazione all'indirizzo di posta elettronica fornito dal richiedente nella domanda di certificazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                la certificazione del diritto all'APE, qualora sia accertato il possesso dei requisiti di cui ai commi 1, 2 e 3 dell'articolo 3. In tal caso, l'INPS comunica al soggetto richiedente la data di maturazione dei requisiti anagrafici per la domanda di APE di cui all'articolo 3, nonche' gli importi minimo e massimo della quota mensile di APE ottenibile, in base ai criteri di cui all'articolo 6, commi da 1 a 4, vigenti alla data della certificazione, fermo restando che tali importi saranno successivamente riverificati ai sensi dell'articolo 6 al momento della domanda di APE; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il rigetto della domanda, qualora non sia accertato il possesso dei requisiti e delle condizioni di cui all'articolo 3 commi 1, 2 e 3.
+
 La certificazione del diritto all'APE e' effettuata tenendo conto delle disposizioni e condizioni vigenti al momento della domanda di certificazione, sulla base degli elementi e delle informazioni presenti negli archivi dell'INPS.
 
 ## Art. 6. — Importo minimo e massimo del diritto di APE ottenibile
@@ -59,6 +158,38 @@ La certificazione del diritto all'APE e' effettuata tenendo conto delle disposiz
 L'importo minimo della quota di APE ottenibile e' pari a 150 euro mensili.
 
 Ai fini della determinazione dell'importo massimo della quota mensile di APE ottenibile, l'INPS determina l'importo mensile del trattamento pensionistico al lordo dell'imposta sul reddito delle persone fisiche calcolato sulla base dei coefficienti di trasformazione vigenti alla data della domanda di APE, e relativi all'eta' posseduta alla stessa data per i soggetti con anzianita' contributiva dal 1° gennaio 1996 e relativi all'eta' di pensionamento di vecchiaia per i soggetti con anzianita' contributiva al 31 dicembre 1995. A tal fine, il calcolo dell'importo mensile del trattamento pensionistico deve essere effettuato sulla base degli elementi presenti negli archivi dell'INPS.
+
+3.
+                    
+                        
+                            L'importo massimo della quota mensile di APE ottenibile non puo' superare rispettivamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                il 75 per cento dell'importo mensile del trattamento pensionistico, se la durata dell'erogazione dell'APE e' superiore a 36 mesi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'80 per cento dell'importo mensile del trattamento pensionistico, se la durata di erogazione dell'APE e' compresa tra 24 e 36 mesi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'85 per cento dell'importo mensile del trattamento pensionistico, se la durata di erogazione dell'APE e' compresa tra 12 e 24 mesi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il 90 per cento dell'importo mensile del trattamento pensionistico, se la durata di erogazione dell'APE e' inferiore a 12 mesi.
 
 In aggiunta ai limiti di cui al comma 3, si applica quanto previsto dall'articolo 1, comma 167, della legge 11 dicembre 2016, n. 232, in merito all'importo della pensione al netto della rata di ammortamento corrispondente all'APE richiesta.
 
@@ -72,13 +203,141 @@ Ai soli fini dei commi 3 e 5, l'importo di cui al comma 2 e' considerato al nett
 
 Il soggetto in possesso della certificazione di cui all'articolo 5 presenta la domanda di APE all'INPS attraverso l'uso dell'identita' digitale SPID almeno di secondo livello, secondo i modelli di cui agli allegati 2, 3 e 4. La domanda e' sottoscritta con firma elettronica avanzata ed inviata per via telematica tramite il sito istituzionale dell'INPS, direttamente o attraverso un intermediario autorizzato ai sensi della legge 30 marzo 2001, n. 152, specificamente delegato dal richiedente, rispetto al quale l'INPS verifica, in conformita' alle norme vigenti, la validita' della delega. Al richiedente e' inoltre rilasciata da parte dell'istituto finanziatore e dell'impresa assicuratrice, con adeguate modalita' informatiche, l'informativa ai sensi dell'articolo 13 del decreto legislativo 30 giugno 2003, n. 196.
 
+2.
+                    
+                        
+                            Nella domanda di APE sono ricomprese: 
+ 
+                        
+                        
+                            a)
+                            
+                                la proposta del contratto di finanziamento, con indicazione dell'istituto finanziatore prescelto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la proposta di contratto di assicurazione contro il rischio di premorienza, con indicazione dell'impresa assicuratrice prescelta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'istanza di accesso al fondo di garanzia.
+
 Contestualmente alla domanda di APE, il soggetto richiedente presenta all'INPS domanda di pensione di vecchiaia, secondo il modello di cui all'allegato 5.
 
 Si applica quanto previsto dall'articolo 1, comma 169, secondo e terzo periodo, della legge 11 dicembre 2016, n. 232, fermo restando che i termini per il recesso decorrono dalla data di perfezionamento dell'APE di cui al comma 15. In caso di recesso dal contratto di assicurazione, la domanda di APE, il contratto di finanziamento, la domanda di pensione di vecchiaia e l'istanza di accesso al fondo di garanzia sono inefficaci. Parimenti, in caso di recesso dal contratto di finanziamento, il contratto di assicurazione, la domanda di pensione di vecchiaia e l'istanza di accesso al fondo di garanzia sono inefficaci.
 
 Ai fini della sottoscrizione della domanda di APE, della proposta del contratto di finanziamento e della proposta del contratto di assicurazione contro il rischio di premorienza, l'identificazione del soggetto richiedente e' effettuata dall'INPS con il sistema SPID almeno di secondo livello. Si applica quanto previsto dall'articolo 1, comma 169, sesto periodo, della legge 11 dicembre 2016, n. 232.
 
+6.
+                    
+                        
+                            Nella domanda di APE il soggetto richiedente indica: 
+ 
+                        
+                        
+                            a)
+                            
+                                di voler accedere o meno al finanziamento supplementare al fine di poter garantire l'erogazione dell'APE fino all'effettiva eta' di pensionamento qualora nella fase di erogazione dell'APE intervenga l'adeguamento dei requisiti pensionistici all'aspettativa di vita ai sensi della normativa vigente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ammontare della quota mensile di APE, nei limiti dell'importo minimo e dell'importo massimo ai sensi dell'articolo 6; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'importo di eventuali rate per debiti erariali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'importo di eventuali rate per prestiti con periodo di ammortamento residuo superiore alla durata di erogazione dell'APE; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'importo di eventuali assegni divorzili, di mantenimento dei figli e di assegni stabiliti in sede di separazione tra i coniugi.
+
 Sulla base della quota mensile di APE richiesta, anche per le finalita' di cui all'articolo 8, e' determinata la rata di ammortamento mensile che deve essere compatibile con l'ammontare massimo della quota mensile di APE ottenibile determinato ai sensi dell'articolo 6. Il piano di ammortamento e' definito sulla base di quanto previsto nell'accordo quadro di cui all'articolo 11, comma 1.
+
+8.
+                    
+                        
+                            Nella domanda di APE, il soggetto di cui al comma 1 dichiara, sotto la sua responsabilita', di: 
+ 
+                        
+                        
+                            a)
+                            
+                                non avere, nei confronti delle banche o di altri operatori finanziari, esposizioni per debiti scaduti o sconfinanti (intendendosi con cio' l'utilizzo di fondi in eccedenza rispetto al saldo del conto corrente, in assenza di apertura di credito, ovvero in eccedenza rispetto all'apertura di credito concessa) e non pagati da oltre novanta giorni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                non essere a conoscenza di essere attualmente registrato negli archivi della centrale dei rischi gestita dalla Banca d'Italia e non aver ricevuto comunicazioni relative all'iscrizione in un sistema di informazioni creditizie gestito da soggetti privati, per l'inadempimento di uno o piu' prestiti, quali mutui, finanziamenti o altre forme di indebitamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                non aver avviato o essere oggetto di procedure di composizione della crisi da sovraindebitamento ai sensi della legge 27 gennaio 2012, n. 3; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                non avere pignoramenti in corso o estinti senza integrale soddisfazione dei creditori; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                non avere protesti a proprio carico e non essere registrato nell'archivio degli assegni bancari e postali e delle carte di pagamento irregolari istituito presso la Banca d'Italia, denominato centrale di allarme interbancaria - CAI.
+
+9.
+                    
+                        
+                            Ai fini della mancata accettazione della domanda di cui all'articolo 8, comma 1, lettera c), non saranno considerate quali condizioni ostative: 
+ 
+                        
+                        
+                            a)
+                            
+                                in relazione alla lettera a) del comma 8, i debiti che al momento della domanda sono estinti per qualunque causa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                in relazione alle lettere c) ed e) del comma 8, rispettivamente, qualora si sia verificata, la chiusura della procedura di composizione della crisi, la cancellazione dell'elevazione del protesto e la cancellazione della registrazione dall'archivio presso la centrale di allarme interbancaria - CAI; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                in relazione alla lettera d) del comma 8, l'essere decorsi trentasei mesi dall'estinzione non satisfattiva della procedura esecutiva.
 
 Al momento di presentazione della domanda di APE, e' resa disponibile l'informativa precontrattuale e contrattuale, anche ai fini della normativa in tema di trasparenza delle operazioni e dei servizi bancari e finanziari ai sensi del provvedimento della Banca d'Italia del 29 luglio 2009, rilasciata dall'istituto finanziatore e dall'impresa assicuratrice con modalita' informatiche adeguate.
 
@@ -96,6 +355,31 @@ Qualora nella fase di erogazione dell'APE intervenga l'adeguamento dei requisiti
 
 ## Art. 8. — Mancata accettazione 
  del contratto di finanziamento
+
+1.
+                    
+                        
+                            L'istituto finanziatore, sulla base delle verifiche abitualmente svolte per analoghe tipologie di finanziamento, nei termini e con le modalita' definite ai sensi dell'accordo quadro di cui all'articolo 11, comma 1, non accetta la proposta di contratto di finanziamento nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                errori o mancanze nelle dichiarazioni effettuate dal soggetto richiedente in sede di presentazione della domanda di APE, secondo quanto previsto all'articolo 7, comma 6; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                se la quota mensile di APE richiesta e' superiore all'ammontare massimo della quota mensile di APE ottenibile determinato ai sensi dell'articolo 6; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il soggetto richiedente si trovi in una delle condizioni di cui all'articolo 7, comma 8, ovvero abbia reso dichiarazioni non veritiere in relazione a una o piu' delle predette situazioni.
 
 L'istituto finanziatore trasmette all'INPS e al soggetto richiedente, mediante flusso telematico, la mancata accettazione della proposta di contratto di finanziamento.
 
@@ -168,6 +452,38 @@ Ai fini di una sana e prudente gestione delle risorse finanziarie assegnate, il 
 Tale percentuale puo' essere incrementata dal gestore in base all'andamento delle escussioni del fondo, dandone informativa al Ministero dell'economia e delle finanze. Il gestore provvede, all'atto della ricezione della richiesta di intervento del fondo di cui all'articolo 14, ad accantonare un ammontare corrispondente all'importo del debito residuo garantito per il quale e' stato richiesto l'intervento del fondo.
 
 ## Art. 14. — Attivazione della garanzia del fondo
+
+1.
+                    
+                        
+                            La garanzia del fondo puo' essere attivata nei seguenti casi: 
+ 
+                        
+                        
+                            a)
+                            
+                                ove sia revocata la pensione da parte dell'INPS; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora l'ammontare totale delle rate di ammortamento dell'APE non corrisposte all'istituto finanziatore risulti superiore a 200 euro e siano trascorsi centottanta giorni dalla data di scadenza dell'ultima rata che ha concorso al superamento del limite di 200 euro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ove l'impresa assicuratrice non adempia all'obbligazione assunta in caso di premorienza del richiedente dell'APE; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                qualora il soggetto finanziatore, che non e' stato tempestivamente informato del decesso del richiedente l'APE, ai sensi dell'articolo 10, comma 3, abbia erogato successivamente al decesso quote mensili di APE e non le abbia recuperate nei centottanta giorni successivi.
 
 Nei casi di cui al comma 1, lettera a), successivamente alla comunicazione di revoca della pensione da parte dell'INPS all'istituto finanziatore, quest'ultimo notifica al gestore, entro il termine di nove mesi dalla ricezione della comunicazione dell'INPS, a pena di inefficacia della garanzia, la richiesta di intervento del fondo di garanzia, secondo l'apposita modulistica predisposta dal gestore.
 

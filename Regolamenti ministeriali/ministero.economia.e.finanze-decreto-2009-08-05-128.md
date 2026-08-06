@@ -8,8 +8,8 @@ codice_redazionale: 009G0137
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,6 +43,83 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 ## Art. 1. — Campo di applicazione e definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente regolamento si applicano le seguenti definizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                testo unico: il testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con il decreto legislativo 26 ottobre 1995, n. 504, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                programma agevolativo: il programma di agevolazione fiscale, previsto dall'articolo 22-bis, comma 5, del testo unico per alcuni prodotti destinati ad essere impiegati, nel territorio nazionale, come carburanti, da soli o in miscela con prodotti energetici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                aliquote ridotte del programma: le aliquote ridotte di accisa di cui all'articolo 22-bis, comma 5 come eventualmente rideterminate ai sensi dei commi 5-bis, ultimo periodo e 5-ter del medesimo articolo 22-bis;
+ e) Ufficio competente: l'Ufficio delle dogane, competente per territorio;
+ f) rete: l'insieme degli impianti di distribuzione di carburanti per autotrazione, accessibili al pubblico, ubicati lungo la rete stradale ordinaria e lungo le autostrade;
+ g) extra-rete: l'insieme degli impianti di distribuzione di carburanti diversi da quelli di cui al punto f);
+ h) DAA e DAS: i documenti di accompagnamento previsti dal regolamento adottato con il decreto del Ministro delle finanze 25 marzo 1996, n. 210, per le spedizioni di prodotti sottoposti ad accisa rispettivamente in regime sospensivo e ad accisa assolta;
+ i) Ufficio incaricato: Agenzia delle dogane - Direzione generale;
+ m) cancello di ingresso: deposito fiscale, preventivamente autorizzato dall'Ufficio competente, ubicato nel territorio nazionale, attraverso il quale i soggetti titolari di impianti situati in altri Paesi comunitari introducono i prodotti rientranti nei quantitativi assegnati ai sensi del successivo articolo 4, nel territorio nazionale.
+
+2.
+                    
+                        
+                            Nell'ambito del programma agevolativo, ai sottoindicati prodotti, destinati ad essere impiegati, nel territorio nazionale, come carburanti, da soli o in miscela con prodotti energetici, sono applicate le rispettive aliquote ridotte del programma entro il limite massimo di spesa annuo di euro 73.000.000,00 comprensivo delle conseguenti minori entrate derivanti dall'applicazione dell'imposta sul valore aggiunto, ripartito, per gli anni 2009 e 2010, come indicato nell'allegato 4 al presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                bioetanolo di origine agricola;
+
+                            
+                        
+                        
+                            b)
+                            
+                                etere etilterbutilico, d'ora in avanti indicato ETBE, derivato da alcole di origine agricola;
+
+                            
+                        
+                        
+                            c)
+                            
+                                additivi prodotti da biomasse per benzina;
+
+                            
+                        
+                        
+                            d)
+                            
+                                additivi prodotti da biomasse per gasolio, escluso il biodiesel;
+
+                            
+                        
+                        
+                            e)
+                            
+                                riformulanti prodotti da biomasse per benzina;
+
+                            
+                        
+                        
+                            f)
+                            
+                                riformulanti prodotti da biomasse per gasolio, escluso il biodiesel.
+
 ## Art. 2. — Requisiti dei prodotti ammessi al programma agevolativo
 
 Il bioetanolo da destinare alla miscelazione con benzina o all'utilizzo tal quale come carburante, deve possedere le caratteristiche tecniche indicate rispettivamente nei punti 1 e 3 dell'allegato 1 al presente regolamento.
@@ -56,6 +133,77 @@ Le miscele di benzina con i prodotti di cui all'articolo 1, comma 2, lettere a),
 Sono fatte salve le specifiche tecniche ed i divieti previsti, per la commercializzazione e l'impiego dei carburanti da utilizzare nei veicoli azionati da un motore ad accensione comandata o da un motore ad accensione per compressione, dalla normativa vigente in materia ambientale e dal decreto legislativo 21 marzo 2005, n. 66, recante l'attuazione della direttiva 2003/17/CE relativa alla qualita' della benzina e del combustibile diesel.
 
 ## Art. 3. — Modalita' per la partecipazione al programma agevolativo ed adempimenti
+
+1.
+                    
+                        
+                            Sono ammessi a partecipare al programma agevolativo i soggetti, operanti in regime di deposito fiscale nel territorio nazionale o in un altro Stato dell'Unione europea, titolari di impianti che realizzano uno o piu' prodotti di cui all'articolo 1, comma 2. A tal fine gli stessi presentano una istanza, redatta in lingua italiana, per ciascuno dei prodotti di cui all'articolo 1, comma 2 e per ciascuna delle annualita' del programma agevolativo, contenente le seguenti indicazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                i dati identificativi propri e del legale rappresentante, la partita IVA, il codice di accisa, l'ubicazione dell'impianto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il tipo e la quantita' di prodotto per il quale si richiede l'applicazione dell'aliquota di accisa ridotta;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la capacita' produttiva annuale dell'impianto espressa in tonnellate, quale risulta dalla verifica effettuata dall'Ufficio competente. Per gli impianti situati negli altri Stati membri dell'Unione europea, la capacita' produttiva e' quella risultante dai provvedimenti rilasciati, ai fini dell'esercizio, dalle competenti autorita' nazionali;
+
+                            
+                        
+                        
+                            d)
+                            
+                                gli estremi della licenza di deposito fiscale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la dichiarazione relativa alla quantita' di prodotto di cui alla lettera b), espressa in tonnellate, che, nell'anno precedente, e' stata realizzata nell'impianto di cui alla lettera a) e destinata ad essere immessa in consumo, anche in miscela con prodotti energetici;
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'indicazione, per gli impianti situati in altri Stati membri dell'Unione europea, del cancello di ingresso prescelto.
+
+2.
+                    
+                        
+                            All'istanza di cui al comma 1 sono allegate:
+ 
+                        
+                        
+                            a)
+                            
+                                la dichiarazione, resa anche in forma di autocertificazione, di conformita' del prodotto di cui all'articolo 1, comma 2, lettera a), alle caratteristiche di cui al punto 1 dell'allegato 1 al presente regolamento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la valutazione circa l'idoneita' dei prodotti di cui all'articolo 1, comma 2, lettere c), d) e) ed f), ad abbattere i principali agenti inquinanti, valutati sull'intero ciclo di vita secondo quanto previsto dall'articolo 2, comma 3;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la dichiarazione, resa ai sensi dell'articolo 47 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, di non rientrare fra coloro che hanno ricevuto e, successivamente, non rimborsato o depositato in un conto bloccato, gli aiuti che sono individuati quali illegali o incompatibili dalla Commissione europea specificati nel decreto del Presidente del Consiglio dei Ministri 23 maggio 2007 pubblicato nella Gazzetta Ufficiale n. 160 del 12 luglio 2007.
 
 I soggetti operanti in altri Stati membri dell'Unione europea allegano all'istanza di cui al comma 1 la documentazione equivalente a quella prescritta, per i soggetti operanti nel territorio nazionale, dal comma 2.
 
@@ -90,6 +238,38 @@ L'Ufficio competente puo' consentire che le operazioni di denaturazione di cui a
 In tal caso l'accertamento di cui al comma 1 e' effettuato contestualmente alla denaturazione di cui al presente comma.
 
 Per la produzione dell'ETBE e dei prodotti di cui all'articolo 1, comma 2, lettere c), d), e) ed f), rientranti nelle assegnazioni di cui all'articolo 4, non puo' essere impiegato bioetanolo denaturato con MTBE.
+
+6.
+                    
+                        
+                            Sui prodotti accertati ai sensi dei commi 1, 2 e 3, e' riconosciuto al produttore, alle condizioni di cui al presente articolo, un credito d'imposta, pari:
+ 
+                        
+                        
+                            a)
+                            
+                                per il bioetanolo di cui all'articolo 1, comma 2, lettera a), destinato ad essere impiegato tal quale ovvero in miscela con la benzina, alla differenza, tra l'aliquota di riferimento sulla benzina e la rispettiva aliquota ridotta del programma, moltiplicata per il volume dello stesso prodotto, cosi' come accertato ai sensi del comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per il prodotto di cui all'articolo 1, comma 2, lettera b), alla differenza, tra l'aliquota di riferimento sulla benzina e la rispettiva aliquota ridotta del programma, moltiplicata per il volume dello stesso prodotto, cosi' come accertato ai sensi del comma 2;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i prodotti di cui all'articolo 1, comma 2, lettere c) ed e), alla differenza, tra l'aliquota di riferimento sulla benzina e le rispettive aliquote ridotte del programma, moltiplicata per il volume degli stessi prodotti accertati ai sensi del comma 3 e per la percentuale di prodotto effettivamente derivante da biomasse;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per i prodotti di cui all'articolo 1, comma 2, lettere d) ed f), alla differenza tra l'aliquota di riferimento sul gasolio e le rispettive aliquote ridotte del programma, moltiplicata per il volume degli stessi prodotti accertati ai sensi del comma 3 e per la percentuale di prodotto effettivamente derivante da biomasse.
 
 I soggetti assegnatari redigono una apposita contabilita' a scalare per ciascuno dei prodotti di cui all'articolo 1, comma 2, contenente l'indicazione del quantitativo del prodotto assegnato e dei soggetti a cui il prodotto e' stato ceduto con indicazione delle rispettive quantita'.
 

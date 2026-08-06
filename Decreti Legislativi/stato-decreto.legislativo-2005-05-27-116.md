@@ -8,8 +8,8 @@ codice_redazionale: 005G0137
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -71,13 +71,74 @@ Ai fini del comma 1, quando il richiedente chiede il risarcimento dei danni alla
 
 La persona fisica, che sia parte in un processo ai sensi dell'articolo 1, ha diritto al patrocinio a spese dello Stato che le garantisca un accesso effettivo alla giustizia in conformita' delle condizioni stabilite dal presente decreto.
 
+2.
+                        
+                            
+                                Il patrocinio a spese dello Stato garantisce:
+ 
+                            
+                            
+                                a)
+                                
+                                    la consulenza legale nella fase precontenziosa al fine di giungere a una soluzione prima di intentare un'azione legale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'assistenza legale e la rappresentanza in sede di giudizio, nonche' l'esonero dalle spese processuali, comprese le spese previste all'articolo 7 e gli onorari delle persone incaricate dal giudice di compiere atti durante il procedimento.
+
 Il patrocinio a spese dello Stato non copre le spese sostenute dalla parte avversa qualora il beneficiario perda la causa ed il giudice pronunci sentenza di condanna della parte soccombente al rimborso delle spese a favore dell'altra parte.
 
 Si applicano gli articoli 133, 134 e 136 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115.
 
 ## Art. 7. — Spese derivanti dal carattere transfrontaliero della controversia
 
+1.
+                        
+                            
+                                Il patrocinio concesso dallo Stato ove pende il processo copre le seguenti spese direttamente collegate al carattere transfrontaliero della controversia:
+ 
+                            
+                            
+                                a)
+                                
+                                    spese di interpretazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spese di traduzione dei documenti necessari per la soluzione della controversia richiesti dal giudice o dall'autorita' competente e presentati dal beneficiario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    spese di viaggio a carico del richiedente, quando la presenza fisica in aula delle persone che debbono espone il caso e' richiesta a norma di legge o dal giudice di detto Stato membro e il giudice decide che non esiste un'altra possibilita' per sentire tali persone in modo appropriato.
+
 ## Art. 8. — Costi assunti dallo Stato membro in cui il richiedente e' domiciliato o dimora abitualmente
+
+1.
+                        
+                            
+                                Lo Stato dell'Unione europea in cui il richiedente il patrocinio e' domiciliato o regolarmente soggiornante concede il patrocinio necessario a coprire:
+ 
+                            
+                            
+                                a)
+                                
+                                    le spese per l'assistenza di un avvocato locale o di qualsiasi altra persona abilitata dalla legge a fornire consulenza legale, sostenute in tale Stato finche' la domanda di patrocinio a spese dello Stato non sia pervenuta, ai sensi del presente decreto, nello Stato ove pende il processo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la traduzione della domanda e dei necessari documenti giustificativi al momento della presentazione della domanda alle autorita' di tale Stato dell'Unione europea.
 
 ## Art. 9. — Continuita' del patrocinio a spese dello Stato
 
@@ -107,7 +168,43 @@ Per i giudizi pendenti sul territorio nazionale e' competente il consiglio dell'
 
 L'interessato che si trova nelle condizioni indicate dall'articolo 4 puo' chiedere di essere ammesso al patrocinio in ogni stato e grado del processo.
 
+2.
+                        
+                            
+                                Le domande di ammissione al patrocinio sono presentate:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'autorita' competente dello Stato dell'Unione europea in cui il richiedente e' domiciliato o soggiorna regolarmente (autorita' di trasmissione); oppure
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'autorita' competente dello Stato ove pende il processo o in cui la decisione deve essere eseguita (autorita' di ricezione).
+
 L'autorita' di trasmissione e di ricezione sul territorio nazionale e' il Ministero della giustizia.
+
+4.
+                        
+                            
+                                Il Ministero della giustizia, quale autorita' preposta alla trasmissione, puo' decidere, con atto motivato, di rigettare la richiesta di trasmissione di una domanda qualora sia manifesto:
+ 
+                            
+                            
+                                a)
+                                
+                                    che essa e' infondata, o
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che essa esula dal campo di applicazione del presente decreto.
 
 Copia dell'atto di cui al comma 4 e' trasmessa all'interessato.
 In tali casi, la domanda puo' essere proposta alla Corte di appello nel cui distretto e' domiciliato o soggiorna regolarmente l'interessato. La Corte di appello competente decide con decreto, da trasmettere al Ministero della giustizia a cura dell'interessato.
@@ -141,6 +238,24 @@ Le domande di ammissione al patrocinio e la loro trasmissione sono effettuate in
 ## - Capo V Disposizioni finali
 
 ## Art. 17. — Norme applicabili
+
+1.
+                        
+                            
+                                Nei rapporti tra gli Stati dell'Unione europea e in relazione alle disposizioni in esso contenute, il presente decreto prevale sulle disposizioni contenute in accordi bilaterali o multilaterali conclusi dagli Stati membri, compresi:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accordo europeo sulla trasmissione delle richieste d'assistenza giudiziaria firmato a Strasburgo il 27 gennaio 1977, modificato dal protocollo addizionale all'accordo europeo sulla trasmissione delle richieste di assistenza giudiziaria, firmato a Mosca nel 2001;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la convenzione dell'Aja del 25 ottobre 1980 intesa a facilitare l'accesso internazionale alla giustizia.
 
 Si applicano, in quanto compatibili, le disposizioni dei Titoli I e IV, della Parte III, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115.
 

@@ -7,8 +7,8 @@ urn: urn:nir:infrastrutture.ministero.mobilita.sostenibili:decreto:2022-10-12;20
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -63,9 +63,129 @@ Per gli invasi interessati da un volume di interrimento non superiore al 5 per c
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini dell'applicazione del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                «progetto di gestione dell'invaso»: il progetto di cui all'articolo 114 del decreto legislativo n. 152 del 2006, di seguito «Progetto»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «trasporto solido di fondo»: il trasferimento lungo la rete idrografica dei sedimenti tramite processi di rotolamento, scivolamento e saltazione che avvengono in alveo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «trasporto solido in sospensione»: il trasferimento lungo la rete idrografica dei sedimenti sospesi nella colonna d'acqua; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                «svaso»: lo svuotamento totale o parziale dell'invaso mediante l'apertura dei soli organi di scarico profondi ed eventualmente con l'ausilio dell'opera di presa; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                «sfangamento» o «sghiaiamento»: l'operazione di rimozione del materiale sedimentato nel serbatoio, a seconda che esso sia costituito in prevalenza da sedimenti a granulometria fine o grossolana; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                «fluitazione»: l'operazione di sfangamento o sghiaiamento che fa esitare a valle, a bacino prevalentemente vuoto, il materiale solido sedimentato, trascinato o disperso nella corrente idrica, attraverso gli organi di scarico profondi; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                «spurgo»: l'operazione di sfangamento o sghiaiamento che fa esitare a valle, sotto battente idrico, il materiale solido sedimentato, trascinato o disperso nella corrente idrica, attraverso gli organi di scarico e, eventualmente, di presa; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                «asportazione di materiale a bacino vuoto»: l'operazione di sfangamento o sghiaiamento che utilizza macchine per il movimento e per la rimozione del materiale sedimentato; 
+ i)«asportazione di materiale a bacino pieno»: l'operazione di sfangamento o sghiaiamento che utilizza sistemi di pompaggio o di dragaggio; 
+ l) «organo di presa»: il complesso di apparecchiature e strutture atte a consentire la derivazione dell'acqua dall'invaso; 
+ m) «organo di scarico o di sicurezza»: il complesso di apparecchiature e strutture atte a consentire, con comando volontario o automatico, il rilascio di acqua a valle dello sbarramento; 
+ n) «prove di funzionamento degli organi di scarico»: le verifiche periodiche atte a controllare la funzionalita' degli organi di scarico, eseguite in ottemperanza alla normativa vigente; 
+ o) «amministrazione competente a vigilare sulla sicurezza dell'invaso e dello sbarramento»: l'amministrazione titolare delle funzioni di cui all'articolo 89, comma 1, lettera b), del decreto legislativo 31 marzo 1998, n. 112, ovvero l'amministrazione titolare delle funzioni di cui all'articolo 91, comma 1, del decreto legislativo n. 112 del 1998, nel rispetto delle attribuzioni previste da tali norme; 
+ p) «concessionario»: il titolare o il richiedente della concessione della derivazione e utilizzazione d'acqua; 
+ q) «gestore»: il concessionario o, se diverso, il soggetto incaricato della gestione ed esercizio dell'impianto di ritenuta; 
+ r) «capacita' di invaso o volume di invaso»: il volume del serbatoio compreso fra la quota piu' elevata delle soglie sfioranti degli scarichi, o della sommita' delle eventuali paratoie (o, se diversa, la quota massima di regolazione), e la quota del punto piu' depresso del paramento di monte, da individuare sulla linea di intersezione tra detto paramento e il piano di campagna, come derivante dal piu' recente rilievo batimetrico o topografico; 
+ s) «capacita' utile di invaso o volume utile di regolazione»: il volume del serbatoio compreso fra la quota massima di regolazione e la quota minima alla quale l'acqua invasata puo' essere derivata per l'utilizzazione prevista; 
+ t) «capacita' utile sostenibile»: la capacita' o il volume inferiore a quello utile di regolazione rideterminato dalla regione secondo i criteri e le modalita' di cui all'Allegato 2 e idoneo a garantire il conseguimento degli obiettivi di qualita' ambientale e il corretto uso della risorsa idrica; 
+ u) «capacita' o volume di invaso originari e capacita' o volume utile di regolazione originari»: la capacita' o i volumi di cui alle lettere r) e s) riferiti al progetto approvato di costruzione dell'impianto di ritenuta o conseguenti a successive modificazioni assentite dello stesso; 
+ v) «impianto di ritenuta»: l'insieme dello sbarramento, comprese le opere di scarico, delle opere complementari ed accessorie, dei pendii costituenti le sponde e dell'acqua invasata; 
+ z) «sbarramento di ritenuta o sbarramento»: la diga o traversa ricadente nell'ambito di applicazione del decreto del Ministro delle infrastrutture e dei trasporti 26 giugno 2014 recante «Norme tecniche per la progettazione e la costruzione degli sbarramenti di ritenuta (dighe e traverse); 
+ aa) «foglio di condizioni per l'esercizio e la manutenzione»: il documento di cui all'articolo 6 del regolamento di cui al decreto del Presidente della Repubblica 1° novembre 1959, n. 1363 e all'articolo 24, comma 3, lettera g), del regolamento di cui al decreto del Presidente della Repubblica 24 gennaio 1991, n. 85; 
+ bb) «piano operativo»: l'insieme delle modalita' di esecuzione delle operazioni di svaso, sfangamento e sghiaiamento non tecnicamente definibili all'atto del Progetto ma che ne costituiscono attuazione.
+
 ## Art. 3.
 
 Finalita' e contenuti del progetto
+
+1.
+                    
+                        
+                            Il Progetto e' finalizzato a definire il quadro previsionale delle operazioni di svaso, sfangamento e sghiaiamento connesse con le attivita' di manutenzione ordinaria e straordinaria dell'impianto di ritenuta, per assicurare: 
+ 
+                        
+                        
+                            a)
+                            
+                                il mantenimento o il graduale ripristino della capacita' utile originaria dell'invaso o della capacita' utile sostenibile come determinata dalla regione nei casi disciplinati dall'articolo 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il funzionamento degli organi di scarico e di presa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il mantenimento o il ripristino della continuita' del trasporto solido, sia fine che grossolano, a valle degli sbarramenti.
+
+2.
+                    
+                        
+                            Il Progetto definisce, altresi', gli adempimenti da porre in essere durante le operazioni di svaso, sfangamento e sghiaiamento, nonche': 
+ 
+                        
+                        
+                            a)
+                            
+                                le misure da adottare per la tutela delle risorse idriche invasate e rilasciate a valle dello sbarramento e dei corpi idrici interessati al fine di mitigare gli impatti provocati dalle operazioni stesse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli scenari per l'utilizzazione degli scarichi profondi in corrispondenza degli eventi caratterizzati da condizioni idrauliche favorevoli alle operazioni, in relazione ad almeno una delle seguenti esigenze: 
+ 1) garantire comunque tramite spurghi la funzionalita' degli scarichi profondi a fronte dei fenomeni di interrimento; 
+ 2) mantenere o ricostituire il trasporto solido, sia fine che grossolano, a valle degli sbarramenti.
 
 Il Progetto, al fine di non pregiudicare il mantenimento o raggiungimento degli obiettivi di qualita' ambientale dei corpi idrici interessati, e' redatto in conformita' agli obiettivi e nel rispetto delle misure contenute nel Piano di tutela delle acque e nel Piano di gestione del distretto idrografico di appartenenza di cui, rispettivamente, all'articolo 121 e all'articolo 117 del decreto legislativo n. 152 del 2006.
 
@@ -111,6 +231,63 @@ Qualora sussistano i presupposti, la regione verifica, con la periodicita' previ
 
 Misure per la tutela della qualita' dei corpi idrici e per la sicurezza in relazione alle attivita' di gestione degli invasi
 
+1.
+                    
+                        
+                            Ai fini della definizione delle operazioni necessarie al conseguimento delle finalita' di cui all'articolo 3, nella redazione del Progetto il gestore dell'invaso tiene conto: 
+ 
+                        
+                        
+                            a)
+                            
+                                di differenti opzioni per la scelta delle tipologie e delle modalita' operative, delle quali sia valutata tanto l'efficacia quanto gli effetti ambientali, nonche' degli effetti sulle condizioni di pericolosita' e di rischio a valle dell'invaso. In particolare, sono da considerare le operazioni sistematiche di apertura degli scarichi di cui all'articolo 3, comma 2, lettera b). E' inoltre sempre valutata la possibilita' di rilasciare o riutilizzare il sedimento a scopo di ripascimento dei corpi idrici a valle; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                degli effetti «sito-specifici» sull'ecosistema dei corpi idrici e delle misure da adottare per la relativa mitigazione.
+
+2.
+                    
+                        
+                            Le regioni, per garantire il rispetto degli obiettivi di qualita' definiti nei piani di tutela delle acque e nei piani di gestione dei distretti idrografici, disciplinano le modalita' del monitoraggio sui parametri e sui relativi valori di riferimento con cui il gestore procede al controllo dei corpi idrici interessati prima, durante e dopo le operazioni di svaso, sfangamento e sghiaiamento. Ai fini della definizione delle modalita' del monitoraggio le regioni possono applicare le disposizioni contenute nell'Allegato 4. Nell'ambito del procedimento di approvazione del Progetto o dei singoli piani operativi le regioni, in relazione alla specificita' dei corpi idrici interessati dalle operazioni di svaso, sfangamento e sghiaiamento, stabiliscono, ove necessario: 
+ 
+                        
+                        
+                            a)
+                            
+                                prescrizioni inerenti alle tipologie di operazioni e alle modalita' operative di cui al comma 1; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                prescrizioni inerenti alla tempistica delle operazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ulteriori prescrizioni sulle modalita' del monitoraggio, sui parametri e sui relativi valori di riferimento con cui il gestore procede al controllo dei corpi idrici interessati prima, durante e dopo le operazioni di svaso, sfangamento e sghiaiamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le azioni da attuarsi, anche urgenti in corso di evento, in caso di superamento, involontario o per motivi eccezionali, dei valori fissati per parametri di riferimento delle operazioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                ulteriori misure per mitigare gli impatti provocati dalle operazioni stesse.
+
 In assenza di disposizioni regionali, il gestore e' comunque tenuto ad applicare le disposizioni contenute nell'Allegato 4 al presente regolamento.
 
 Al fine di non pregiudicare il mantenimento o il raggiungimento degli obiettivi di qualita' ambientale dei corpi idrici interessati dal rilascio a valle o dallo spostamento dei sedimenti, le regioni disciplinano le modalita' di effettuazione della caratterizzazione integrativa dei sedimenti dell'invaso. Ai fini della definizione delle modalita' di effettuazione della caratterizzazione integrativa dei sedimenti dell'invaso le regioni possono applicare le disposizioni contenute nell'Allegato 5 al presente regolamento. La regione puo', inoltre, prescrivere nell'ambito dell'approvazione del Progetto, fornendo le relative specifiche tecniche, l'acquisizione di ulteriori elementi finalizzati alla corretta caratterizzazione dei sedimenti. Il gestore puo' concordare il piano di caratterizzazione dei sedimenti con la regione, prima della sua esecuzione. In assenza di disposizioni regionali, il gestore e' comunque tenuto ad applicare le disposizioni di cui all'Allegato 5 al presente regolamento.
@@ -149,9 +326,98 @@ Nel caso in cui le operazioni previste dal Progetto si svolgono o interessino il
 ## Art. 9. — Manovre di sicurezza e prove di funzionamento 
  degli organi di scarico
 
+1.
+                    
+                        
+                            Le previsioni del Progetto non trovano applicazione per le manovre necessarie a garantire: 
+ 
+                        
+                        
+                            a)
+                            
+                                il non superamento dei livelli d'invaso autorizzati o comunque per la regolazione dei deflussi in occasione di eventi di piena in coerenza con le procedure previste dai documenti di protezione civile, fermo restando per gli spurghi quanto previsto all'articolo 3, comma 2, lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le manovre previste in applicazione dei piani di laminazione od atti equivalenti e comunque quelle per la regolazione delle portate in occasione di eventi di piena negli sbarramenti destinati alla laminazione delle piene; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sicurezza e salvaguardia della pubblica incolumita' in fase di emergenza o effettuate per speciali motivi di pubblico interesse su disposizione dell'autorita' competente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'accertamento della funzionalita' degli organi di scarico, ai sensi dell'articolo 16 del regolamento di cui al decreto del Presidente della Repubblica n. 1363 del 1959, e nel rispetto degli obblighi stabiliti dal foglio di condizioni per l'esercizio e la manutenzione.
+
+2.
+                    
+                        
+                            L'esecuzione delle prove di funzionalita' di cui al comma 1, lettera d), e' comunque subordinata al rispetto delle seguenti prescrizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la durata e' limitata al tempo necessario al controllo dell'efficienza meccanica e idraulica degli organi di scarico, in particolare durante i periodi di magra del corpo idrico riconosciuti dall'amministrazione, secondo le prescrizioni a tutela dell'ambiente eventualmente emanate o comunicate dalle regioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le manovre di apertura sono effettuate in modo graduale evitando repentine modificazioni del regime idrologico, del trasporto solido e della qualita' delle acque e avendo cura che gli scarichi profondi siano preferibilmente sotto battente.
+
 ## Art. 10. — Istituzione del tavolo tecnico
 
 E' istituito presso il Ministero della transizione ecologica, senza nuovi oneri a carico della finanza pubblica, un tavolo tecnico permanente al fine di definire proposte finalizzate a eventuali aggiornamenti, revisioni o modifiche del presente regolamento e dei relativi allegati, nonche' di provvedere al monitoraggio della complessiva attuazione del regolamento per verificarne gli effetti sotto il profilo ambientale, della sicurezza di persone e cose, della tutela delle risorse idriche.
+
+2.
+                    
+                        
+                            Al tavolo tecnico, presieduto dal rappresentante del Ministero della transizione ecologica, partecipano: 
+ 
+                        
+                        
+                            a)
+                            
+                                cinque rappresentanti delle regioni e delle province autonome di Trento e di Bolzano; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                un rappresentante del Ministero della transizione ecologica; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                un rappresentante del Ministero delle infrastrutture e della mobilita' sostenibili; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                un rappresentante del Ministero dello sviluppo economico; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                un rappresentante del Ministero delle politiche agricole alimentari e forestali.
 
 Il tavolo tecnico di cui al comma 2 si riunisce, a cadenza almeno annuale, su richiesta del Ministero della transizione ecologica, con verbalizzazione delle relative attivita'.
 

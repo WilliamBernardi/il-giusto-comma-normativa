@@ -8,8 +8,8 @@ codice_redazionale: 003G0196
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -62,6 +62,69 @@ All'articolo 5, comma 3, del decreto ministeriale 19 aprile 2001, n. 171, le par
 
 ## Art. 5. — Modifiche all'articolo 7
 
+1.
+                    
+                        
+                            All'articolo 7, comma 1, del decreto ministeriale 19 aprile 2001, n. 171, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera b) le parole: «(30 punti)» sono sostituite da: «(20 punti)»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                e' abrogata la lettera c);
+
+                            
+                        
+                        
+                            c)
+                            
+                                alla lettera d) sono soppresse le parole: «o privati» e le parole: «(20 punti)» sono sostituite da: «(10 punti)»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                alla lettera e) le parole: «(20 punti);» sono sostituite da: «(10 punti).». Al termine della lettera e' aggiunto il seguente periodo: «Detta priorita' non e' riconosciuta a soggetti che al momento della domanda non abbiano ancora presentato la relazione finale di altri progetti finanziati per lo stesso Paese ai sensi della legge n. 212 del 1992»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                alla lettera f) dopo le parole: «n. 19» sono aggiunte le parole: «e dell'articolo 7 della legge 26 febbraio 1987, n. 49» e le parole: «(20 punti)» sono sostituite da: «(10 punti)»;
+
+                            
+                        
+                        
+                            f)
+                            
+                                alla lettera g) sono soppresse le parole: «interventi finanziati», e dopo le parole: «iniziative complementari ad» sono aggiunte le parole: «altra analoga iniziativa finanziata». Le parole: «(20 punti)» sono sostituite da: «(10 punti)»;
+
+                            
+                        
+                        
+                            g)
+                            
+                                sono abrogate le lettere h) e i);
+
+                            
+                        
+                        
+                            h)
+                            
+                                dopo la lettera i) sono aggiunte le seguenti lettere:
+ «l) progetti destinati a Paesi ritenuti di priorita' strategica in base alle linee direttive sulla attivita' promozionale tra quelli individuati annualmente dal CIPE (10 punti);
+ m) progetti per i quali i promotori abbiano richiesto un contributo pari ad una percentuale inferiore al 30% del costo totale (10 punti);
+ n) progetti cofinanziati da amministrazioni centrali, regionali e locali per una percentuale superiore al 10% del costo totale dell'iniziativa (10 punti).».
+
 All'articolo 7 del decreto ministeriale 19 aprile 2001, n. 171, dopo il comma 5 e' aggiunto il comma 5-bis: «5-bis. La graduatoria e' pubblicata nella Gazzetta Ufficiale della Repubblica italiana e sul sito del Ministero.».
 
 ## Art. 6. — Articolo 7-bis
@@ -86,6 +149,31 @@ All'articolo 11 del decreto ministeriale 19 aprile 2001, n. 171, dopo il comma 2
 Ove dalle stesse indagini emerga inequivocabilmente la non veridicita' di tutta o parte della documentazione prodotta dai beneficiari, l'Amministrazione dichiara gli stessi decaduti dal diritto ai benefici del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.».
 
 ## Art. 9. — Modifiche all'articolo 13
+
+1.
+                    
+                        
+                            All'articolo 13, comma 1, del decreto ministeriale 19 aprile 2001, n. 171, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                la parola: «2001» e' sostituita da: «2003»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: «31 maggio 2001;» sono sostituite dalle parole: «30 giugno 2003.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                e' soppressa l'ultima frase dalla parola: «correlativamente» a: «30 novembre».
 
 ## Art. 10. — Entrata in vigore
 

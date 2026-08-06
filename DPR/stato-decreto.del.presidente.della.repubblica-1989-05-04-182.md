@@ -8,8 +8,8 @@ codice_redazionale: 089G0237
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,4 +26,29 @@ Sulla proposta del Ministro dei lavori pubblici, di concerto con il Ministro di 
 Il costo base di produzione a metro quadrato per gli immobili ultimati negli anni 1987 e 1988 e' determinato, rispettivamente, in L. 970.000 ed in L. 1.030.000 per le regioni Piemonte, Valle d'Aosta, Liguria, Lombardia, Trentino-Alto Adige, Veneto, Friuli-Venezia Giulia, Emilia-Romagna, Toscana, Umbria, Marche e Lazio, nonche' in L. 890.000 ed in L. 950.000 per le regioni Campania, Abruzzo, Molise, Puglia, Basilicata, Calabria, Sicilia e Sardegna.
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Gli elementi costitutivi del costo base di produzione di cui all'art. 22 della legge 27 luglio 1978, n. 392, incidono sul costo medesimo nelle seguenti percentuali:
+ 
+                        
+                        
+                            a)
+                            
+                                81 per cento per il costo di produzione di cui alla lettera a) del citato art. 22, secondo comma;
+
+                            
+                        
+                        
+                            b)
+                            
+                                7 per cento per il contributo di concessione di cui alla lettera b) del medesimo comma;
+
+                            
+                        
+                        
+                            c)
+                            
+                                12 per cento per il costo dell'area di cui alla lettera c) del medesimo comma.
 

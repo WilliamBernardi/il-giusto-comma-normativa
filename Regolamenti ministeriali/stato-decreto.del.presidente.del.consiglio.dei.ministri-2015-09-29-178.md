@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2025-03-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -77,6 +77,218 @@ Su proposta del Ministro della salute, di concerto con il Ministro per la sempli
 
 I contenuti del FSE sono rappresentati da un nucleo minimo di dati e documenti, nonche' da dati e documenti integrativi che permettono di arricchire il Fascicolo stesso.
 
+2.
+                        
+                            
+                                Il nucleo minimo, di cui al comma 1, uguale per tutti i fascicoli istituiti da regioni e province autonome, e' costituito dai seguenti dati e documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dati identificativi e amministrativi dell'assistito di cui all'articolo 21; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    referti, inclusi quelli consegnati ai sensi del decreto del Presidente del Consiglio dei ministri 8 agosto 2013, pubblicato nella Gazzetta Ufficiale n. 243 del 16 ottobre 2013; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verbali pronto soccorso; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    lettere di dimissione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    profilo sanitario sintetico, di cui all'articolo 3; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dossier farmaceutico; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    consenso o diniego alla donazione degli organi e tessuti.
+
+3.
+                        
+                            
+                                I dati e documenti integrativi, di cui al comma 1, sono ulteriori componenti del FSE, la cui alimentazione e' funzione delle scelte regionali in materia di politica sanitaria e del livello di maturazione del processo di digitalizzazione quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    prescrizioni (specialistiche, farmaceutiche, ecc.); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    prenotazioni (specialistiche, di ricovero, ecc.); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cartelle cliniche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    bilanci di salute; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assistenza domiciliare: scheda, programma e cartella clinico-assistenziale; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    piani diagnostico-terapeutici; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    assistenza residenziale e semiresidenziale: scheda multidimensionale di valutazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    erogazione farmaci; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    vaccinazioni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    prestazioni di assistenza specialistica; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    prestazioni di emergenza urgenza (118 e pronto soccorso); 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    prestazioni di assistenza ospedaliera in regime di ricovero; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    certificati medici; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    taccuino personale dell'assistito di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    relazioni relative alle prestazioni erogate dal servizio di continuita' assistenziale; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    autocertificazioni; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    partecipazione a sperimentazioni cliniche; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    esenzioni; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    prestazioni di assistenza protesica; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    dati a supporto delle attivita' di telemonitoraggio; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    dati a supporto delle attivita' di gestione integrata dei percorsi diagnostico-terapeutici; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    altri documenti rilevanti per il perseguimento delle finalita' di cui al comma 2 dell'articolo 12 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, individuati con successivo decreto ai sensi del comma 7 dell'articolo 12 del medesimo decreto-legge n. 179 del 2012. 
+ ((2))
+
 --------------
                             AGGIORNAMENTO (2)
                             
@@ -125,6 +337,74 @@ Nei casi di cui al comma 1, e' responsabilita' dei professionisti o degli operat
 ## Art. 6. — Informativa agli assistiti
 
 In ottemperanza all'adempimento di cui all'articolo 13 del Codice in materia di protezione dei dati personali, presupposto di liceita' del trattamento, deve essere fornita agli assistiti idonea informativa che espliciti l'istituzione del FSE da parte dei soggetti di cui al comma 2 dell'articolo 12 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, chiarendo che i dati che confluiscono nel fascicolo sono relativi al suo stato di salute attuale ed eventualmente pregresso.
+
+2.
+                        
+                            
+                                L'informativa di cui al comma 1 deve indicare tutti gli elementi richiesti dall'articolo 13 del Codice in materia di protezione dei dati personali. In particolare, deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la definizione del FSE come l'insieme dei dati e documenti digitali di tipo sanitario e socio-sanitario generati da eventi clinici presenti e trascorsi, riguardanti l'assistito; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le finalita' del fascicolo, cosi' come indicate dal comma 2 dell'articolo 12 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' del trattamento in base alle finalita' di cui alla lettera b), specificando che i dati sono trattati con l'ausilio di strumenti elettronici e sono trasmessi attraverso reti telematiche; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione che e' necessario esprimere un consenso specifico al trattamento dei dati per l'alimentazione del FSE.
+L'informazione che il mancato consenso, o la revoca dello stesso in un momento successivo, non comporta conseguenze in ordine all'erogazione delle prestazioni del SSN e dei servizi socio-sanitari. 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione che e' necessario esprimere un ulteriore specifico consenso limitatamente alla consultazione dei dati e documenti presenti nel FSE, per le finalita' di cui alla lettera a) del comma 2 dell'articolo 12 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221. L'informazione che il mancato consenso, o la revoca dello stesso in un momento successivo, non comporta conseguenze in ordine all'erogazione delle prestazioni del SSN e dei servizi socio-sanitari. Il mancato consenso o la revoca comporta per il medico l'impossibilita' di consultare il FSE per le finalita' di cura dell'assistito; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'indicazione delle categorie di soggetti, diversi dai titolari del trattamento, che, in qualita' di responsabili o incaricati, possono accedere al FSE in base alle finalita' di cui alla lettera b); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'informazione che il FSE, per le finalita' di cura, qualora sia indispensabile per la salvaguardia della salute di un terzo o della collettivita', puo' essere consultato anche senza il consenso dell'assistito ma nel rispetto dell'articolo 76 del Codice in materia di protezione dei dati personali e dell'autorizzazione generale al trattamento dei dati idonei a rivelare lo stato di salute e la vita sessuale, rilasciata dal Garante per la protezione dei dati personali ai sensi dell'articolo 40 del Codice in materia di protezione dei dati personali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    gli estremi identificativi del titolare del trattamento dei dati personali trattati mediante il FSE e di almeno un responsabile se individuato, indicando le modalita' per conoscere l'elenco aggiornato dei responsabili; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le modalita' con cui rivolgersi al titolare, o al responsabile designato, per esercitare i diritti di cui all'articolo 7 del Codice in materia di protezione dei dati personali, nonche' per revocare il consenso all'alimentazione del FSE e per esercitare la facolta' di oscurare i dati in esso contenuti.
 
 Al fine di assicurare una piena comprensione degli elementi indicati nell'informativa, il titolare deve formare adeguatamente il personale coinvolto nel trattamento dei dati sugli aspetti rilevanti della disciplina sulla protezione dei dati, anche al fine di un piu' efficace rapporto con gli assistiti. 
  ((2))
@@ -221,6 +501,31 @@ Sono comunque sottratti a trattamento per le finalita' di cui all'articolo 10, a
 
 ## Art. 12. — Soggetti che concorrono alla alimentazione del FSE
 
+1.
+                        
+                            
+                                I soggetti del SSN e dei servizi socio-sanitari regionali che nello svolgimento della loro attivita' professionale nell'ambito di un processo di cura alimentano il FSE sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il personale che opera all'interno delle aziende sanitarie locali e delle strutture sanitarie, attraverso le diverse articolazioni professionali ed organizzative; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i medici convenzionati con il SSN, i loro sostituti e il personale di studio nel rispetto delle specifiche competenze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni altro soggetto, anche convenzionato, che abbia titolo e che operi all'interno del SSN e dei servizi socio-sanitari regionali.
+
 In aggiunta ai soggetti di cui al comma 1, anche l'assistito puo' alimentare il FSE, limitatamente al taccuino di cui all'articolo 4.
 
 I soggetti di cui al comma 1 possono accedere ai dati e ai documenti sanitari e socio-sanitari che hanno prodotto, anche ai fini di verificarne la correttezza su segnalazione dell'assistito. 
@@ -236,6 +541,31 @@ I soggetti di cui al comma 1 possono accedere ai dati e ai documenti sanitari e 
 Accesso alle informazioni del FSE per finalita' di cura
 
 Il FSE e' uno strumento a disposizione dell'assistito, che puo' consentirne l'accesso ai soggetti del SSN e dei servizi socio-sanitari regionali che lo prendono in cura, secondo quanto definito dal comma 5 dell'articolo 12 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221.
+
+2.
+                        
+                            
+                                L'accesso alle informazioni del FSE da parte dei soggetti di cui al comma 1 e' consentito solo se si verificano tutte le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'assistito ha espresso esplicito consenso all'accesso al FSE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le informazioni da trattare sono esclusivamente quelle pertinenti al processo di cura in atto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i soggetti che accedono alle informazioni rientrano nelle categorie di soggetti abilitati alla consultazione del FSE indicate dall'assistito e sono effettivamente coinvolti nel processo di cura.
 
 Ogni accesso alle informazioni contenute nel FSE e' registrato in apposita sezione a disposizione dell'assistito, che puo' prenderne visione in qualunque momento accedendo al proprio FSE per via telematica. E' facolta' della regione o provincia autonoma che istituisce il FSE prevedere un servizio di notifica, che permette all'assistito di essere avvisato dell'accesso alle informazioni contenute nel proprio FSE, attraverso l'invio di uno Short Message Service (SMS) su un numero di telefono mobile ovvero attraverso l'invio di un messaggio alla casella di posta elettronica, indicati dall'assistito. 
  ((2))
@@ -275,6 +605,81 @@ Dati oggetto del trattamento per finalita' di ricerca
 
 Per le finalita' di cui all'articolo 15, sono trattati i dati presenti nei documenti di cui all'articolo 2, purche' privati dei dati identificativi diretti dell'assistito e nel rispetto dei principi di indispensabilita', necessita', pertinenza e non eccedenza in relazione alle suddette finalita'.
 
+2.
+                        
+                            
+                                Sono espressamente esclusi dal trattamento per le finalita' di cui all'articolo 15 i seguenti dati personali degli assistiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice fiscale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    giorno e mese di nascita per gli assistiti con eta' superiore all'anno compiuto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    giorno di nascita per gli assistiti con eta' inferiore all'anno compiuto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    estremi di documenti di identita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    via e numero civico di residenza o di domicilio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    recapiti, telefonici o digitali, personali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    copie per immagine su supporto informatico di documenti analogici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    informazioni non strutturate di tipo testuale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    informazioni non strutturate di tipo grafico, sia statiche (immagini) che dinamiche (video). 
+ ((3))
+
 -------------
                             AGGIORNAMENTO (3)
                             
@@ -311,6 +716,81 @@ Per i trattamenti dei dati effettuati per le finalita' di cui alla lettera c) de
 Dati oggetto del trattamento per finalita' di governo
 
 Per le finalita' di cui all'articolo 18, sono trattati i dati presenti nei documenti di cui all'articolo 2, purche' privati dei dati identificativi diretti dell'assistito e nel rispetto dei principi di indispensabilita', necessita', pertinenza e non eccedenza in relazione alle suddette finalita'.
+
+2.
+                        
+                            
+                                Sono espressamente esclusi dal trattamento per le finalita' di cui all'articolo 18 i seguenti dati personali degli assistiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nome e cognome; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    codice fiscale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    giorno e mese di nascita per gli assistiti con eta' superiore all'anno compiuto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    giorno di nascita per gli assistiti con eta' inferiore all'anno compiuto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    estremi di documenti di identita'; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    via e numero civico di residenza o di domicilio; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    recapiti telefonici o digitali personali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    copie per immagine su supporto informatico di documenti analogici; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    informazioni non strutturate di tipo testuale; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    informazioni non strutturate di tipo grafico, sia statiche (immagini) che dinamiche (video). 
+ ((3))
 
 -------------
                             AGGIORNAMENTO (3)
@@ -367,11 +847,96 @@ La riservatezza dei dati trattati nell'ambito del FSE, ai sensi del Codice in ma
 
 Nell'utilizzo di sistemi di memorizzazione o archiviazione dei dati devono essere attuati idonei accorgimenti per la protezione dei dati registrati rispetto ai rischi di accesso abusivo, furto o smarrimento parziali o integrali dei supporti di memorizzazione o dei sistemi di elaborazione portatili o fissi.
 
+5.
+                        
+                            
+                                Per la consultazione in sicurezza dei dati contenuti nel FSE sono assicurati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    idonei sistemi di autenticazione e di autorizzazione per gli incaricati in funzione dei ruoli e delle esigenze di accesso e trattamento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedure per la verifica periodica della qualita' e coerenza delle credenziali di autenticazione e dei profili di autorizzazione assegnati agli incaricati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    protocolli di comunicazione sicuri basati sull'utilizzo di standard crittografici per la comunicazione elettronica dei dati tra i diversi titolari coinvolti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    individuazione di criteri per la cifratura o per la separazione dei dati idonei a rivelare lo stato di salute e la vita sessuale dagli altri dati personali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tracciabilita' degli accessi e delle operazioni effettuate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sistemi di audit log per il controllo degli accessi e per il rilevamento di eventuali anomalie; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    procedure di anonimizzazione degli elementi identificativi diretti, come definito dai decreti attuativi di cui all'articolo 35 del decreto legislativo 23 giugno 2011, n. 118, per il perseguimento delle finalita' di cui ai punti b) e c) del comma 2 dell'articolo 12 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, fermo restando quanto previsto dall'articolo 15, comma 25-bis, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135.
+
 La struttura e l'organizzazione dei dati contenuti nel FSE deve garantire, oltre alla corretta e differenziata articolazione dei profili per quanto concerne la classificazione delle tipologie di informazioni sanitarie indispensabili in relazione alle finalita' per cui vengono trattate, anche quella relativa ai diversi livelli autorizzativi dei soggetti abilitati all'accesso.
 
 Le disposizioni di cui al comma 5 vengono attuate ai sensi delle specificazioni contenute nel disciplinare tecnico.
 
 Ai fini di garantire il corretto impiego del FSE da parte degli utilizzatori e per renderli edotti dei rischi che incombono sui dati, nonche' delle misure di sicurezza adottate, vengono organizzate apposite sessioni di formazione, anche con riferimento agli aspetti di protezione dei dati personali, con particolare riferimento, all'accessibilita' delle informazioni, alle operazioni di trattamento eseguibili e alla sicurezza dei dati.
+
+9.
+                        
+                            
+                                Nel caso in cui dati trattati nell'ambito del FSE subiscano violazioni tali da comportare la perdita, la distruzione o la diffusione indebita di dati personali, il titolare del trattamento effettua una segnalazione al Garante per la protezione dei dati personali, entro una settimana dal verificarsi dell'evento, contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una descrizione della natura della violazione dei dati personali occorsa, compresi le categorie e il numero di interessati coinvolti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'indicazione dell'identita' e delle coordinate di contatto del responsabile della protezione dei dati o di altro punto di contatto presso cui ottenere piu' informazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione delle conseguenze della violazione dei dati personali subita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le misure proposte o adottate dal responsabile del trattamento per porre rimedio alla violazione dei dati personali.
 
 La continuita' delle operazioni indispensabili per il servizio e il ritorno alla normale operativita' sono assicurate dall'adozione del piano di continuita' operativa e del piano di disaster recovery, di cui all'articolo 50-bis del CAD.
 
@@ -403,6 +968,24 @@ Per i dati e documenti di cui all'articolo 27, comma 1, lettere d) ed e), le cod
 
 Interoperabilita' del FSE
 
+1.
+                        
+                            
+                                Ciascuna regione o provincia autonoma espone verso le altre regioni e province autonome servizi specifici a supporto dell'interoperabilita' del FSE al fine di garantire almeno le seguenti funzionalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    la ricerca dei documenti del FSE di cui all'articolo 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il recupero dei documenti del FSE di cui all'articolo 2 .
+
 I servizi di cui al comma 1, esposti tramite porta di dominio nel rispetto delle regole tecniche del Sistema Pubblico di Connettivita', devono soddisfare le richieste provenienti da altre regioni o province autonome solo se il richiedente possiede i diritti di accesso necessari, verificati sulla base di specifici attributi allegati nelle richieste stesse che sono certificati dalla regione o provincia autonoma richiedente rispettando le modalita' di cui all'articolo 23.
 
 Le interfacce dei servizi, delle modalita' di utilizzo degli stessi e del modello informativo condiviso sono indicate nel disciplinare tecnico.
@@ -423,6 +1006,59 @@ E' istituito nell'ambito della Cabina di Regia del NSIS il Tavolo tecnico di mon
 
 Partecipano al Tavolo tecnico di cui al comma 1 i rappresentanti delle amministrazioni, delle regioni e delle province autonome specificatamente individuati in relazione al settore e alla materia trattata. Ai componenti del predetto Tavolo non spettano compensi, rimborsi o altri gettoni di presenza.
 
+3.
+                        
+                            
+                                Il Tavolo tecnico di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolge un monitoraggio costante dello stato di attuazione e utilizzo del FSE presso le regioni e le province autonome, riportandone i risultati alla Cabina di Regia del NSIS; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    propone alla Cabina di Regia del NSIS, ai fini dell'approvazione, gli obiettivi annuali di avanzamento per l'anno successivo, sia in termini di copertura, sia per l'alimentazione del FSE, nonche' per l'effettivo utilizzo dello stesso, anche sulla base di quanto previsto dai piani di progetto regionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    elabora e propone alla Cabina di Regia del NSIS, ai fini dell'approvazione, i contenuti, i formati e gli standard degli ulteriori documenti sanitari e socio-sanitari del nucleo minimo di cui all'articolo 2, comma 2, e gli aggiornamenti degli stessi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    elabora e propone alla Cabina di Regia del NSIS, ai fini dell'approvazione, i contenuti, i formati e gli standard dei documenti sanitari e socio-sanitari di cui all'articolo 2, comma 3, lettere da a) a z), e gli aggiornamenti degli stessi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    valuta i documenti sanitari e socio-sanitari di cui all'articolo 2, comma 3, lettera aa), nonche' elabora e propone alla Cabina di Regia del NSIS, ai fini dell'approvazione, i contenuti, i formati e gli standard degli stessi e i relativi aggiornamenti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    valuta, elabora e propone alla Cabina di Regia del NSIS, ai fini dell'approvazione, le variazioni agli standard di cui all'articolo 24, comma 2; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    valuta, elabora e propone alla Cabina di Regia del NSIS, ai fini dell'approvazione, le variazioni ai servizi di cui all'articolo 25, comma 3.
+
 I contenuti e i relativi aggiornamenti di cui al comma 3, lettere c), d), e), f), g), approvati dalla Cabina di Regia del NSIS, sono recepiti in appositi decreti adottati ai sensi dell'articolo 27, comma 3.
 
 I formati, gli standard e i relativi aggiornamenti di cui al comma 3, lettere c), d), e), f), g), approvati dalla Cabina di Regia del NSIS, sono pubblicati in apposite sezioni dei siti web del Ministero della salute e dell'Agenzia per l'Italia digitale. 
@@ -436,6 +1072,45 @@ I formati, gli standard e i relativi aggiornamenti di cui al comma 3, lettere c)
 ## - Capo VII DISPOSIZIONI TRANSITORIE E FINALI
 
 ## Art. 27. — Disposizioni transitorie e finali
+
+1.
+                        
+                            
+                                In sede di prima applicazione delle disposizioni del presente decreto, le regioni e province autonome assicurano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    disponibilita' dei servizi per l'accesso dell'assistito al proprio FSE; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    disponibilita' dei servizi per il collegamento e l'abilitazione all'accesso e all'alimentazione del FSE da parte dei MMG/PLS, nonche' delle strutture sanitarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    disponibilita' dei servizi a supporto dell'interoperabilita' del FSE, in conformita' alle disposizioni di cui all'articolo 25; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    disponibilita' dei servizi per la gestione dei referti di laboratorio. I dati essenziali che compongono il referto di laboratorio sono individuati nel disciplinare tecnico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    disponibilita' dei servizi per la gestione del profilo sanitario sintetico.
 
 In sede di prima applicazione delle disposizioni del presente decreto, l'infrastruttura nazionale per l'interoperabilita' per il FSE, di cui all'articolo 12, comma 15, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, assicura i servizi di cui al comma 1.
 

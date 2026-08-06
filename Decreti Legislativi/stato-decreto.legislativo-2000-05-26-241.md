@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2001-03-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,6 +35,47 @@ Il titolo del decreto legislativo 17 marzo 1995, n. 230, e' sostituito dal segue
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera b) e' sostituita dalla seguente:
+ "b) a tutte le pratiche che implicano un rischio dovuto a radiazioni ionizzanti provenienti da una sorgente artificiale o da una sorgente naturale nei casi in cui i radionuclidi naturali siano o siano stati trattati per le loro proprieta' radioattive fissili o fertili e cioe':
+ 1) alla produzione, trattamento, manipolazione, detenzione, deposito, trasporto, importazione, esportazione, impiego, commercio, cessazione della detenzione, raccolta e smaltimento di materie radioattive;
+ 2) al funzionamento di macchine radiogene;
+ 3) alle lavorazioni minerarie secondo la specifica disciplina di cui al capo IV;".
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, dopo la lettera b) sono aggiunte le seguenti:
+ "b-bis) alle attivita' lavorative diverse dalle pratiche di cui ai punti 1, 2 e 3 che implicano la presenza di sorgenti naturali di radiazioni, secondo la specifica disciplina di cui al capo III-bis;
+ b-ter) agli interventi in caso di emergenza radiologica o nucleare o in caso di esposizione prolungata dovuta agli effetti di un'emergenza oppure di una pratica o di un'attivita' lavorativa non piu' in atto, secondo la specifica disciplina di cui al capo X.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 1 e' inserito il seguente:
+ "1-bis. Il presente decreto non si applica ((all'esposizione al radon nelle abitazioni o al fondo naturale di radiazioni)), ossia non si applica ne' ai radionuclidi contenuti nell'organismo umano, ne' alla radiazione cosmica presente al livello del suolo, ne' all'esposizione in superficie ai radionuclidi presenti nella crosta terrestre non perturbata. Dal campo di applicazione sono escluse le operazioni di aratura, di scavo o di riempimento effettuate nel corso di attivita' agricole o di costruzione, fuori dei casi in cui dette operazioni siano svolte nell'ambito di interventi per il recupero di suoli contaminati con materie radioattive.";
+
+                            
+                        
+                        
+                            d)
+                            
+                                dopo il comma 2 sono aggiunti i seguenti:
+ "2-bis. In attesa dell'emanazione dei decreti di cui al comma 2 le condizioni di applicazione sono ((quelle fissate negli allegati I e I-bis)).
+ 2-ter. Con decreti del Presidente del Consiglio dei Ministri, da emanare entro i termini di applicazione dell'articolo 10-ter, commi 1 e 3, secondo la procedura di cui al comma 2, i valori dei livelli di azione ((di cui all'allegato I-bis)), paragrafo 4, sono aggiornati in base alle indicazioni dell'Unione europea e agli sviluppi della tecnica.".
+
 ## Art. 3.
 
 L'articolo 2 del decreto legislativo 17 marzo 1995, n. 230, e' sostituito dal seguente:
@@ -57,6 +98,144 @@ L'articolo 2 del decreto legislativo 17 marzo 1995, n. 230, e' sostituito dal se
  c) la pratica deve essere intrinsecamente senza rilevanza radiologica, senza probabilita' apprezzabili che si verifichino situazioni che possono condurre all'inosservanza dei criteri definiti nelle lettere a) e b).".
 
 ## Art. 4.
+
+1.
+                    
+                        
+                            Gli articoli 4, 5 e 6 del decreto legislativo 17 marzo 1995, n. 230, sono sostituiti dal seguente:
+
+ "Art. 4.
+ Definizioni
+
+ 1. Ai fini dell'applicazione del presente decreto valgono le seguenti definizioni:
+ a) acceleratore: apparecchio o impianto in cui sono accelerate particelle e che emette radiazioni ionizzanti con energia superiore a un mega electron volt (1 MeV);
+ b) apprendista: persona che riceve in un'impresa un'istruzione e una formazione allo scopo di esercitare un mestiere specifico;
+ c) attivazione: processo per effetto del quale un nuclide stabile si trasforma in radionuclide, a seguito di irradiazione con particelle o con raggi gamma ad alta energia del materiale in cui e' contenuto;
+ d) attivita' (A): quoziente di dN diviso per dt in cui dN e' il numero atteso di transizioni nucleari spontanee di una determinata quantita' di un radionuclide da uno stato particolare di energia in un momento determinato, nell'intervallo di tempo dt;
+ e) autorita' competente: quella indicata nelle specifiche disposizioni;
+ f) becquerel (Bq): nome speciale dell'unita' di attivita' (A); un becquerel equivale ad una transizione per secondo.
+
+
+ (( 1 Bq = 1 s (elevato a -1) ))
+
+ I fattori di conversione da utilizzare quando l'attivita' e' espressa in curie (Ci) sono i seguenti:
+
+
+ (( Ci = 3,7 x 10 (elevato a 10) Bq (esattamente) ))
+                                (( 1 Bq = 2,7027 x 10 (elevato a -11) Ci));
+
+ g) combustibile nucleare: le materie fissili impiegate o destinate ad essere impiegate in un impianto ((sono inclusi l'uranio in forma di metallo)), di lega o di composto chimico (compreso l'uranio naturale), il plutonio in forma di metallo, di lega o di composto chimico ed ogni altra materia fissile che sara' qualificata come combustibile con decisione del Comitato direttivo dell'Agenzia per l'energia nucleare dell'Organizzazione per la cooperazione e lo sviluppo economico (OCSE);
+ h) contaminazione radioattiva: contaminazione di una matrice, di una superficie, di un ambiente di vita o di lavoro o di un individuo, prodotta da sostanze radioattive. Nel caso particolare del corpo umano, la contaminazione radioattiva include tanto la contaminazione esterna quanto la contaminazione interna, per qualsiasi via essa si sia prodotta;
+ i) datore di lavoro di impresa esterna: soggetto che, mediante lavoratori di categoria A, effettua prestazioni in una o piu' zone controllate di impianti, stabilimenti, laboratori, installazioni in genere, gestiti da terzi; non rientrano nella presente definizione i soggetti la cui attivita' sia la sola a determinare la costituzione di una o piu' zone controllate presso le installazioni dei terzi, ai quali soggetti si applicano le disposizioni generali del presente decreto;
+ l) detrimento sanitario: stima del rischio di riduzione della durata e della qualita' della vita che si verifica in una popolazione a seguito dell'esposizione a radiazioni ionizzanti. Essa include la riduzione derivante da effetti somatici, cancro e gravi disfunzioni genetiche;
+ m) dose: grandezza radioprotezionistica ottenuta moltiplicando la dose assorbita (D) per fattori di modifica determinati a norma dell'articolo 96, al fine di qualificare il significato della dose assorbita stessa per gli scopi della radioprotezione;
+ n) dose assorbita (D): energia assorbita per unita' di massa e cioe' il quoziente di dE diviso per dm, in cui dE e' l'energia media ceduta dalle radiazioni ionizzanti alla materia in un elemento volumetrico e dm la massa di materia contenuta in tale elemento volumetrico; ai fini del presente decreto, la dose assorbita indica la dose media in un tessuto o in organo. L'unita' di dose assorbita e' il gray;
+ o) dose efficace (E): somma delle dosi equivalenti nei diversi organi o tessuti, ponderate nel modo indicato nei provvedimenti di applicazione, l'unita' di dose efficace e' il sievert;
+ p) dose efficace impegnata(E(t)): somma delle dosi equivalenti impegnate nei diversi organi o tessuti H T(t) risultanti dall'introduzione di uno o piu' radionuclidi, ciascuna moltiplicata per il fattore di ponderazione del tessuto wT la dose efficace impegnata E(t) e' definita da:
+
+ E(t) = E(t)=SIGMA tWtHt(t)
+
+dove t indica il numero di anni per i quali e' effettuata l'integrazione; l'unita' di dose efficace impegnata e' il sievert;
+ q) dose impegnata: dose ricevuta da un organo o da un tessuto, in un determinato periodo di tempo, in seguito all'introduzione di uno o piu' radionuclidi;
+ r) dose equivalente (H T): dose assorbita media in un tessuto o organo T, ponderata in base al tipo e alla qualita' della radiazione nel modo indicato nei provvedimenti di applicazione; l'unita' di dose equivalente e' il sievert;
+ s) dose equivalente impegnata: integrale rispetto al tempo dell'intensita' di dose equivalente in un tessuto o organo T che sara' ricevuta da un individuo, in quel tessuto o organo T, a seguito dell'introduzione di uno o piu' radionuclidi; la dose equivalente impegnata e' definita da:
+
+ ----> ((Parte di provvedimento in formato grafico)) <---- 
+ per una singola introduzione di attivita' al tempo t 0 dove t 0 ((e' il tempo in cui avviene l'introduzione)), HT (Tau) e' l'intensita' di dose equivalente nell'organo o nel tessuto T al tempo &greco;t,t e' il periodo di tempo, espresso in anni, su cui avviene
+l'integrazione; qualora t non sia indicato, si intende un periodo di 50 anni per gli adulti e un periodo fino all'eta' di 70 anni per i bambini; l'unita' di dose equivalente impegnata e' il sievert;
+ t) emergenza: una situazione che richiede azioni urgenti per proteggere lavoratori, individui della popolazione ovvero l'intera popolazione o parte di essa;
+ u) esperto qualificato: persona che possiede le cognizioni e l'addestramento necessari sia per effettuare misurazioni, esami, verifiche o valutazioni di carattere fisico, tecnico o radiotossicologico, sia per assicurare il corretto funzionamento dei dispositivi di protezione, sia per fornire tutte le altre indicazioni e formulare provvedimenti atti a garantire la sorveglianza fisica della protezione dei lavoratori e della popolazione. La sua qualificazione e' riconosciuta secondo le procedure stabilite nel presente decreto;
+ v) esposizione: qualsiasi esposizione di persone a radiazioni ionizzanti. Si distinguono:
+ 1) l'esposizione esterna: esposizione prodotta da sorgenti situate all'esterno dell'organismo;
+ 2) l'esposizione interna: esposizione prodotta da sorgenti introdotte nell'organismo;
+ 3) l'esposizione totale: combinazione dell'esposizione esterna e dell'esposizione interna;
+ z) esposizione accidentale: esposizione di singole persone a carattere fortuito e involontario.
+ 2. Inoltre si intende per:
+ a) esposizione d'emergenza: esposizione giustificata in condizioni particolari per soccorrere individui in pericolo, prevenire l'esposizione di un gran numero di persone o salvare un'installazione di valore e che puo' provocare il superamento di uno dei limiti di dose fissati per i lavoratori esposti;
+ b) esposizione parziale: esposizione che colpisce soprattutto una parte dell'organismo o uno o piu' organi o tessuti, oppure esposizione del corpo intero considerata non omogenea;
+ c) esposizione potenziale: esposizione che, pur non essendo certa, ha una probabilita' di verificarsi prevedibile in anticipo;
+ d) esposizione soggetta ad autorizzazione speciale: esposizione che comporta il superamento di uno dei limiti di dose annuale fissati per i lavoratori esposti, ammessa in via eccezionale solo nei casi indicati nel decreto di cui all'articolo 82;
+ e) fondo naturale di radiazioni: insieme delle radiazioni ionizzanti provenienti da sorgenti naturali, sia terrestri che cosmiche, sempreche' l'esposizione che ne risulta non sia accresciuta in modo significativo da attivita' umane;
+ ((f) gestione dei rifiuti)): insieme delle attivita' concernenti i rifiuti: raccolta, cernita, trattamento e condizionamento, deposito, trasporto, allontanamento e smaltimento nell'ambiente;
+ g) gray (Gy): nome speciale dell'unita' di dose assorbita
+
+
+ 1 Gy = 1 J Kg (elevato a -1)
+
+i fattori di conversione da utilizzare quando la dose assorbita e' espressa in rad sono i seguenti:
+
+ (( 1 rad = 10 (elevato a -2) Gy ))
+
+1 Gy = 100 rad;
+
+ h) gruppi di riferimento (gruppi critici) della popolazione: gruppi che comprendono persone la cui esposizione e' ragionevolmente omogenea e rappresentativa di quella degli individui della popolazione maggiormente esposti, in relazione ad una determinata fonte di esposizione;
+ i) incidente: evento imprevisto che provoca danni ad un'installazione o ne perturba il buon funzionamento e puo' comportare, per una o piu' persone, dosi superiori ai limiti;
+ l) intervento: attivita' umana intesa a prevenire o diminuire l'esposizione degli individui alle radiazioni dalle sorgenti che non fanno parte di una pratica o che sono fuori controllo per effetto di un incidente, mediante azioni sulle sorgenti, sulle vie di esposizione e sugli individui stessi;
+ m) introduzione: attivita' dei radionuclidi che penetrano nell'organismo provenienti dall'ambiente esterno;
+ n) lavoratore esterno: lavoratore di categoria A che effettua prestazioni in una o piu' zone controllate di impianti, stabilimenti, laboratori, installazioni in genere gestiti da terzi in qualita' sia di dipendente, anche con contratto a termine, di una impresa esterna, sia di lavoratore autonomo, sia di apprendista o studente;
+ o) lavoratori esposti: persone sottoposte, per l'attivita' che svolgono, a un'esposizione che puo' comportare dosi superiori ai pertinenti limiti fissati per le persone del pubblico. Sono lavoratori esposti di categoria A i lavoratori che, per il lavoro che svolgono, sono suscettibili di ricevere in un anno solare una dose superiore a uno dei pertinenti valori stabiliti con il decreto di cui all'articolo 82; gli altri lavoratori esposti sono classificati in categoria B;
+ p) limiti di dose: limiti massimi fissati per le dosi derivanti dall'esposizione dei lavoratori, degli apprendisti, degli studenti e delle persone del pubblico alle radiazioni ionizzanti causate dalle attivita' disciplinate dal presente decreto. I limiti di dose si applicano alla somma delle dosi ricevute per esposizione esterna nel periodo considerato e delle dosi impegnate derivanti dall'introduzione di radionuclidi nello stesso periodo;
+ q) livelli di allontanamento: valori, espressi in termini di concentrazioni di attivita' o di attivita' totale, in relazione ai quali possono essere esentati dalle prescrizioni di cui al presente decreto le sostanze radioattive o i materiali contenenti sostanze radioattive derivanti da pratiche soggette agli obblighi previsti dal decreto;
+ r) livello di intervento: valore di dose oppure valore derivato, fissato al fine di predisporre interventi di radioprotezione;
+ s) materia radioattiva: sostanza o insieme di sostanze radioattive contemporaneamente presenti. Sono fatte salve le particolari definizioni per le materie fissili speciali, le materie grezze, i minerali quali definiti dall'articolo 197 del trattato che istituisce la Comunita' europea dell'energia atomica e cioe' le materie fissili speciali, le materie grezze e i minerali nonche' i combustibili nucleari;
+ t) materie fissili speciali: il plutonio 239, l'uranio 233, l'uranio arricchito in uranio 235 o 233; qualsiasi prodotto contenente uno o piu' degli isotopi suddetti e le materie fissili che saranno definite dal Consiglio delle Comunita' europee; il termine "materie fissili speciali" non si applica alle materie grezzo;
+ u) materie grezze: l'uranio contenente la mescolanza di isotopi che si trova in natura, l'uranio in cui il tenore di uranio 235 sia inferiore al normale, il torio, tutte le materie summenzionate sotto forma di metallo, di leghe, di composti chimici o di concentrati, qualsiasi altra materia contenente una o piu' delle materie summenzionate con tassi di concentrazione definiti dal Consiglio delle Comunita' europee;
+ v) matrice: qualsiasi sostanza o materiale che puo' essere contaminato da materie radioattive; sono ricompresi in tale definizione le matrici ambientali e gli alimenti;
+ z) matrice ambientale: qualsiasi componente dell'ambiente, ivi compresi aria, acqua e suolo.
+ 3. Inoltre, si intende per:
+ a) medico autorizzato: medico responsabile della sorveglianza medica dei lavoratori esposti, la cui qualificazione e specializzazione sono riconosciute secondo le procedure e le modalita' stabilite nel presente decreto;
+ b) minerale: qualsiasi minerale contenente, con tassi di concentrazione media definita dal Consiglio delle Comunita' europee, sostanze che permettano di ottenere attraverso trattamenti chimici e fisici appropriati le materie grezze;
+ c) persone del pubblico: individui della popolazione, esclusi i lavoratori, gli apprendisti e gli studenti esposti in ragione della loro attivita' e gli individui durante l'esposizione di cui all'articolo 3, comma 5;
+ d) popolazione nel suo insieme: l'intera popolazione, ossia i lavoratori esposti, gli apprendisti, gli studenti e le persone del pubblico;
+ e) pratica: attivita' umana che e' suscettibile di aumentare l'esposizione degli individui alle radiazioni provenienti da una sorgente artificiale, o da una sorgente naturale di radiazioni, nel caso in cui radionuclidi naturali siano trattati per le loro proprieta' radioattive, fissili o fertili, o da quelle sorgenti naturali di radiazioni che divengono soggette a disposizioni del presente decreto ai sensi del capo III-bis. Sono escluse le esposizioni dovute ad interventi di emergenza;
+ f) radiazioni ionizzanti o radiazioni: trasferimento di energia in forma di particelle o onde elettromagnetiche con lunghezza di onda non superiore a 100 nm o con frequenza non minore di 3\10^"15 Hz in grado di produrre ioni direttamente o indirettamente;
+ g) riciclo: la cessione deliberata di materiali a soggetti al di fuori dell'esercizio di pratiche di cui ai capi IV, VI e VII, al fine del reimpiego dei materiali stessi attraverso lavorazioni;
+ h) riutilizzazione: la cessione deliberata di materiali ai soggetti di cui alla lettera g) al fine del loro reimpiego diretto, senza lavorazioni;
+ i) rifiuti radioattivi: qualsiasi materia radioattiva, ancorche' contenuta in apparecchiature o dispositivi in genere, di cui non e' previsto il riciclo o la riutilizzazione;
+ l) servizio riconosciuto di dosimetria individuale: struttura riconosciuta idonea alle rilevazioni delle letture dei dispositivi di sorveglianza dosimetrica individuale, o alla misurazione della radioattivita' nel corpo umano o nei campioni biologici. L'idoneita' a svolgere tali funzioni e' riconosciuta secondo le procedure stabilite nel presente decreto;
+ m) sievert (Sv): nome speciale dell'unita' di dose equivalente o di dose efficace. Se il prodotto dei fattori di modifica e' uguale a 1;
+
+
+ 1 Sv = 1 J kg (elevato a -1)
+
+quando la dose equivalente o la dose efficace sono espresse in rem valgono le seguenti relazioni:
+
+
+1 rem = 10 (elevato a -2) Sv
+
+1 Sv = 100 rem;
+
+ n) smaltimento: collocazione dei rifiuti, secondo modalita' idonee, in un deposito, o in un determinato sito, senza intenzione di recuperarli;
+ o) smaltimento nell'ambiente: immissione pianificata di rifiuti radioattivi nell'ambiente in condizioni controllate, entro limiti autorizzati o stabiliti dal presente decreto;
+ p) sorgente artificiale: sorgente di radiazioni diversa dalla sorgente naturale di radiazioni;
+ q) sorgente di radiazioni: apparecchio generatore di radiazioni ionizzanti (macchina radiogena) o materia radioattiva, ancorche' contenuta in apparecchiature o dispositivi in genere, dei quali, ai fini della radioprotezione, non si puo' trascurare l'attivita', o la concentrazione di radionuclidi o l'emissione di radiazioni;
+ r) sorgente naturale di radiazioni: sorgente di radiazioni ionizzanti di origine naturale, sia terrestre che cosmica;
+ s) sorgente non sigillata: qualsiasi sorgente che non corrisponde alle caratteristiche o ai requisiti della sorgente sigillata;
+ t) sorgente sigillata: sorgente formata da materie radioattive solidamente incorporate in materie solide e di fatto inattive, o sigillate in un involucro inattivo che presenti una resistenza sufficiente per evitare, in condizioni normali di impiego, dispersione di materie radioattive superiore ai valori stabiliti dalle norme di buona tecnica applicabili;
+ u) sorveglianza fisica: l'insieme dei dispositivi adottati, delle valutazioni, delle misure e degli esami effettuati, delle indicazioni fornite e dei provvedimenti formulati dall'esperto qualificato al fine di garantire la protezione sanitaria dei lavoratori e della popolazione;
+ v) sorveglianza medica: l'insieme delle visite mediche, delle indagini specialistiche e di laboratorio, dei provvedimenti sanitari adottati dal medico, al fine di garantire la protezione sanitaria dei lavoratori esposti;
+ z) sostanza radioattiva: ogni specie chimica contenente uno o piu' radionuclidi di cui, ai fini della radioprotezione, non si puo' trascurare l'attivita' o la concentrazione.
+ 4. Inoltre, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                uranio arricchito in uranio 235 o 233: l'uranio contenente sia l'uranio 235, sia l'uranio 233, sia questi due isotopi, in quantita' tali che il rapporto tra la somma di questi due isotopi e l'isotopo 238 sia superiore al rapporto tra isotopo 235 e l'isotopo 238 nell'uranio naturale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                vincolo: valore di grandezza radioprotezionistica, fissato per particolari condizioni ai sensi del presente decreto, ai fini dell'applicazione del principio di ottimizzazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                zona classificata: ambiente di lavoro sottoposto a regolamentazione per motivi di protezione contro le radiazioni ionizzanti. Le zone classificate possono essere zone controllate o zone sorvegliate. E' zona controllata un ambiente di lavoro, sottoposto a regolamentazione per motivi di protezione dalle radiazioni ionizzanti, in cui si verifichino le condizioni stabilite con il decreto di cui all'articolo 82 ed in cui l'accesso e' segnalato e regolamentato. E' zona sorvegliata un ambiente di lavoro in cui puo' essere superato in un anno solare uno dei pertinenti limiti fissati per le persone del pubblico e che non e' zona controllata.".
 
 ## Art. 5.
 
@@ -157,6 +336,25 @@ Dopo l'articolo 18 del decreto legislativo 17 marzo 1995, n. 230, e' inserito il
 
 ## Art. 7.
 
+1.
+                    
+                        
+                            All'articolo 20 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 4 e' sostituito dal seguente:
+ "4. Con decreto del Ministro dell'industria, del commercio e dell'artigianato, sentita l'ANPA, sono indicate le modalita' di registrazione, nonche' le modalita' ed i termini per l'invio del riepilogo, particolari disposizioni possono essere formulate per le materie di cui all'articolo 23.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' soppresso.
+
 ## Art. 8.
 
 All'articolo 21 del decreto legislativo 17 marzo 1995, n. 230, il comma 3 e' sostituito dal seguente:
@@ -189,13 +387,111 @@ L'articolo 22 del decreto legislativo 17 marzo 1995, n. 230, e' sostituito dal s
 
 ## Art. 10.
 
+1.
+                    
+                        
+                            All'articolo 27 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente:
+ "1-bis. Le pratiche svolte dallo stesso soggetto mediante sorgenti di radiazioni mobili, impiegate in piu' siti, luoghi o localita' non determinabili a priori presso soggetti differenti da quello che svolge la pratica sono assoggettate al nulla osta di cui al presente articolo in relazione alle caratteristiche di sicurezza delle sorgenti ed alle modalita' di impiego, ai sensi di quanto previsto nei provvedimenti applicativi.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 dopo le parole "per il rilascio" sono inserite le seguenti:
+ ", la modifica e la revoca";
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente:
+ "2-bis. Il nulla osta di cui al comma 1 e', in particolare, richiesto per:
+ a) l'aggiunta intenzionale sia direttamente che mediante attivazione di materie radioattive nella produzione e manifattura di prodotti medicinali o di beni di consumo;
+ b) l'impiego di acceleratori, di apparati a raggi X o di materie radioattive per radiografia industriale, per trattamento di prodotti, per ricerca;
+ c) la somministrazione intenzionale di materie radioattive, a fini di diagnosi, terapia o ricerca medica o veterinaria, a persone e, per i riflessi concernenti la radioprotezione di persone, ad animali;
+ d) l'impiego di acceleratori, di apparati a raggi X o di materie radioattive per esposizione di persone a fini di terapia medica";
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 3 e' sostituito dal seguente:
+ "3. Le disposizioni del presente capo non si applicano alle pratiche disciplinate al capo IV ed al capo VII ed alle attivita' lavorative comportanti l'esposizione alle sorgenti naturali di radiazioni di cui al capo III-bis, con esclusione dei casi in cui l'assoggettamento a dette disposizioni sia espressamente stabilito ai sensi del capo III-bis e relativi provvedimenti di attuazione.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 4 sono aggiunti, in fine, i seguenti:
+ "4-bis. Le disposizioni del presente articolo non si applicano alle pratiche di cui all'articolo 33 ed all'impiego di microscopi elettronici.
+ 4-ter. Il nulla osta all'impiego di categoria A tiene luogo del nullaosta all'impiego di categoria B.
+ 4-quater. Nel nulla osta di cui al comma 1 sono stabilite particolari prescrizioni per quanto attiene ai valori massimi dell'esposizione dei gruppi di riferimento della popolazione interessati alla pratica e, qualora necessario, per gli aspetti connessi alla costruzione, per le prove e per l'esercizio, nonche' per l'eventuale disattivazione delle installazioni.".
+
 ## Art. 11.
 
 Al comma 1 dell'articolo 28 del decreto legislativo 17 marzo 1995, n. 230, le parole: "sentita l'ANPA" sono sostituite dalle seguenti: "sentite l'ANPA e le regioni territorialmente competenti".
 
 ## Art. 12.
 
+1.
+                    
+                        
+                            All'articolo 30 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                la rubrica e' sostituita dalla seguente:
+ "Particolari disposizioni per l'allontanamento dei rifiuti";
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 1 e' sostituito dal seguente:
+ "1. L'allontanamento di materiali destinati ad essere smaltiti, riciclati o riutilizzati in installazioni, ambienti o, comunque, nell'ambito di attivita' a cui non si applichino le norme del presente decreto, se non e' disciplinato dai rispettivi provvedimenti autorizzativi, e' comunque soggetto ad autorizzazione quando detti rifiuti o materiali contengano radionuclidi con tempi di dimezzamento fisico maggiore o uguale a settantacinque giorni o in concentrazione superiore ai valori determinati ai sensi dell'articolo 1. I livelli di allontanamento stabiliti negli atti autorizzatori debbono soddisfare ai criteri fissati con il decreto di cui all'articolo 1, comma 2, che terra' conto anche degli orientamenti tecnici forniti in sede comunitaria.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, dopo la parola "autonome" sono soppresse le seguenti: ", entro centottanta giorni dalla data di entrata in vigore del decreto di cui al comma 1,".
+
 ## Art. 13.
+
+1.
+                    
+                        
+                            All'articolo 61 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 3, le lettere g) ed h) sono sostituite dalle seguenti:
+ "g) provvedere affinche' siano apposte segnalazioni che indichino il tipo di zona, la natura delle sorgenti ed i relativi tipi di rischio e siano indicate, mediante appositi contrassegni, le sorgenti di radiazioni ionizzanti, fatta eccezione per quelle non sigillate in corso di manipolazione;
+ h) fornire al lavoratore esposto i risultati delle valutazioni di dose effettuate dall'esperto qualificato, che lo riguardino direttamente, nonche' assicurare l'accesso alla documentazione di sorveglianza fisica di cui all'articolo 81 concernente il lavoratore stesso.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 4 e' inserito il seguente:
+ "4-bis. I soggetti di cui al comma 1 comunicano tempestivamente all'esperto qualificato e al medico addetto alla sorveglianza medica la cessazione del rapporto di lavoro con il lavoratore esposto.".
 
 ## Art. 14.
 
@@ -217,7 +513,74 @@ All'articolo 69 del decreto legislativo 17 marzo 1995, n. 230, il periodo dalle 
 
 ## Art. 17.
 
+1.
+                    
+                        
+                            All'articolo 74 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente:
+ "2. I lavoratori e il personale di intervento previsto nei piani di cui al capo X devono essere preventivamente resi edotti, oltre che dei rischi connessi all'esposizione, anche del fatto che, durante l'intervento possano essere sottoposti ad esposizione di emergenza e, conseguentemente, dotati di adeguati mezzi di protezione in relazione alle circostanze in cui avviene l'intervento medesimo.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel comma 3 le parole: "le modalita' e i livelli di esposizione di emergenza dei soccorritori di protezione civile e dei volontari." sono sostituite dalle seguenti: "le modalita' e i livelli di esposizione dei lavoratori e del personale di intervento.".
+
 ## Art. 18.
+
+1.
+                    
+                        
+                            All'articolo 81 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, lettera a), sono aggiunte, in fine, le seguenti parole: "e comma 7;";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera b), le parole: "e comma 5," sono soppresse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera d), dopo le parole: "di emergenza" sono inserite le seguenti:
+ ", da esposizioni soggette ad autorizzazione speciale";
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, dopo la lettera e), e' aggiunta, in fine, la seguente:
+ "e-bis) i risultati della sorveglianza fisica dell'ambiente di lavoro che siano stati utilizzati per la valutazione delle dosi dei lavoratori esposti.";
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 2, sono aggiunte, in fine, le seguenti parole: "con le modalita' stabilite nel provvedimento di cui al comma 6";
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 3, lettera c), e al comma 4, le parole: "la documentazione di cui al comma 1, lettere d) ed e)" sono sostituite dalle seguenti: "la documentazione di cui al comma 1, ((lettere d), e) ed e-bis)))".
 
 ## Art. 19.
 
@@ -242,6 +605,33 @@ Al comma 2 dell'articolo 99 del decreto legislativo 17 marzo 1995, n. 230, sono 
 All'articolo 106, comma 1, del decreto legislativo 17 marzo 1995, n. 230, dopo le parole: "dandone annualmente comunicazione al Ministero della sanita'" sono aggiunte, in fine, le seguenti: ", anche ai fini delle indicazioni da adottare affinche' il contributo delle pratiche all'esposizione dell'intera popolazione sia mantenuto entro il valore piu' basso ragionevolmente ottenibile, tenuto conto dei fattori economici e sociali.".
 
 ## Art. 24.
+
+1.
+                    
+                        
+                            All'articolo 107 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                nella rubrica, le parole: "Apparecchi di misura individuali" sono sostituite dalle seguenti: "Servizi riconosciuti di dosimetria individuale";
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 sono aggiunte, in fine, le seguenti lettere:
+ "d-bis) rilevamenti con apparecchi, diversi da quelli di cui al comma 3, a lettura diretta assegnati per la rilevazione di dosi;
+ d-ter) rilevamenti con apparecchi impiegati per la sorveglianza radiometrica su rottami o altri materiali metallici di risulta, di cui all'articolo 157.";
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, il primo periodo e' sostituito dal seguente: "Gli organismi che svolgono attivita' di servizio di dosimetria individuale e quelli di cui all'articolo 10-ter, comma 4, devono essere riconosciuti idonei nell'ambito delle norme di buona tecnica da istituti previamente abilitati; nel procedimento di riconoscimento si tiene conto dei tipi di apparecchi di misura e delle metodiche impiegate.".
 
 ## Art. 25.
 
@@ -340,6 +730,25 @@ All'articolo 149 del decreto legislativo 17 marzo 1995, n. 230, dopo il comma 2,
 
 ## Art. 32.
 
+1.
+                    
+                        
+                            All'articolo 150 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 2 e' inserito il seguente:
+ "2-bis. Negli elenchi istituiti ai sensi degli articoli 78 e 88 confluiscono con le loro eventuali limitazioni anche i soggetti di cui al comma 2, nonche' quelli che abbiano conseguito l'abilitazione entro il 31 dicembre 2000.".
+
+                            
+                        
+                        
+                            b)
+                            
+                                i commi 5 e 6 sono soppressi.
+
 ## Art. 33.
 
 Dopo l'articolo 152 del decreto legislativo 17 marzo 1995, n. 230, e' inserito il seguente:
@@ -356,6 +765,27 @@ Dopo l'articolo 152 del decreto legislativo 17 marzo 1995, n. 230, e' inserito i
  9. Fino all'adozione dei decreti di cui al comma 3 dell'articolo 115 valgono le corrispondenti disposizioni emanate ai fini dell'attuazione dell'articolo 108 del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185.".
 
 ## Art. 34.
+
+1.
+                    
+                        
+                            All'articolo 154 del decreto legislativo 17 marzo 1995, n. 230, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 2 e 3 sono sostituiti dai seguenti:
+ "2. Le norme del presente decreto non si applicano allo smaltimento di rifiuti radioattivi nell'ambiente, ne' al loro conferimento a terzi ai fini dello smaltimento, ne' comunque all'allontanamento di materiali destinati al riciclo o alla riutilizzazione, quando detti rifiuti o materiali contengano solo radionuclidi con tempo di dimezzamento fisico inferiore a settantacinque giorni e in concentrazione non superiore ai valori determinati ai sensi dell'articolo 1, sempre che lo smaltimento avvenga nel rispetto delle disposizioni del decreto legislativo 5 febbraio 1997, n. 22, e successive modificazioni.
+ 3. I dati relativi ad ogni smaltimento o ad ogni conferimento di rifiuti a terzi, e ad ogni altro allontanamento di materiali, effettuati ai sensi delle disposizioni di cui al comma 2, che dimostrino il rispetto delle condizioni ivi stabilite, debbono essere registrati e trasmessi, su richiesta, all'Agenzia regionale o della provincia autonoma, (( di cui all'articolo 03 del decreto-legge 4 dicembre 1993)), convertito, con modificazioni, dalla legge 21 gennaio 1994, n. 61, agli organi del servizio sanitario nazionale competenti per territorio ed all'ANPA.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 3, e' inserito, infine, il seguente:
+ "3-bis. Fuori dei casi di cui al comma 2, l'allontanamento da installazioni soggette ad autorizzazioni di cui ai capi IV, VI e VII di materiali contenenti sostanze radioattive, destinati ad essere smaltiti, riciclati o riutilizzati in installazioni, ambienti o, comunque, nell'ambito di attivita' ai quali non si applichino le norme del presente decreto, e' soggetto ad apposite prescrizioni da prevedere nei provvedimenti autorizzativi di cui ai predetti capi. I livelli di allontanamento da installazioni di cui ai capi IV, VI e VII di materiali, destinati ad essere smaltiti, riciclati o riutilizzati in installazioni, ambienti o, comunque, nell'ambito di attivita' ai quali non si applichino le norme del presente decreto debbono soddisfare ai criteri fissati con il decreto di cui all'articolo 1, comma 2, ed a tal fine tengono conto delle direttive, delle raccomandazioni e degli orientamenti tecnici forniti dall'Unione europea.".
 
 ## Art. 35.
 

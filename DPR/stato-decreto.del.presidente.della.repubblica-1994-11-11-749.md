@@ -8,8 +8,8 @@ codice_redazionale: 095G0010
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:56Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -50,6 +50,24 @@ Le commissioni mediche ospedaliere nella cui circoscrizione il richiedente ha la
 Sulla relazione causale tra l'evento dannoso e le infermita' contratte o le lesioni riportate dal soggetto interessato ovvero sulle cause della morte del dante causa esprime il proprio parere il Comitato per le pensioni privilegiate ordinarie presso la Presidenza del Consiglio dei Ministri.
 
 ## Art. 3. — Decorrenza del trattamento pensionistico privilegiato
+
+1.
+                    
+                        
+                            Il trattamento pensionistico privilegiato spettante in applicazione della citata legge n. 437 del 1991, decorre:
+ 
+                        
+                        
+                            a)
+                            
+                                dalla data di entrata in vigore della legge 31 dicembre 1991, n. 437, per gli eventi verificatisi anteriormente a detta data, purche' gli aventi diritto o causa abbiano presentato domanda entro centottanta giorni dalla data di entrata in vigore della citata legge n. 437 del 1991;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal primo giorno del mese successivo a quello in cui si e' verificato l'evento dannoso ovvero dal giorno successivo a quello della morte del dante causa, per gli eventi occorsi posteriormente alla data di cui alla lettera a). Qualora la domanda sia presentata oltre due anni dalla data dell'evento ovvero dalla data della morte del dante causa, il trattamento pensionistico spettante ha luogo con effetto dal primo giorno del mese successivo a quello di presentazione della domanda.
 
 ## Art. 4. — Concorso di benefici
 

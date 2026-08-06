@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2026-02-28;44
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,84 @@ Di concerto con il Ministro dell'economia e delle finanze;
 
 Indennita' per la custodia di beni diversi 
  da veicoli a motore e natanti
+
+1.
+                    
+                        
+                            L'indennita' per la custodia e per la conservazione di beni, diversi da veicoli a motore e natanti, sottoposti a sequestro penale probatorio e preventivo e, nei casi previsti dal codice di procedura civile, sottoposti a sequestro giudiziario e conservativo, e' determinata secondo le tariffe giornaliere di seguito riportate, IVA esclusa: 
+ 
+                        
+                        
+                            a)
+                            
+                                custodia in area recintata e scoperta per ogni metro cubo: 
+ 1) per i primi novanta giorni: euro 0,80; 
+ 2) dal novantunesimo al centottantesimo giorno: euro 0,48; 
+ 3) dal centottantunesimo al trecentosessantacinquesimo giorno: euro 0,32; 
+ 4) per il secondo anno: euro 0,28; 
+ 5) per il terzo anno: euro 0,20; 
+ 6) per il quarto anno: euro 0,16: 
+ 7) dal quinto anno in avanti: euro 0,08; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                custodia in area recintata e coperta per ogni metro cubo: 
+ 1) per i primi novanta giorni: euro 1; 
+ 2) dal novantunesimo al centottantesimo giorno: euro 0,60; 
+ 3) dal centottantunesimo at trecentosessantacinquesimo giorno: euro 0,40; 
+ 4) per il secondo anno: euro 0,35; 
+ 5) per il terzo anno: euro 0,25; 
+ 6) per il quarto anno: euro 0,20; 
+ 7) dal quinto anno in avanti: euro 0,10; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per i beni custoditi in cassaforte o in luogo dotato di impianto di vigilanza a presidio, le indennita' sono aumentate del 50%.
+
+2.
+                    
+                        
+                            Per il recupero e il trasporto, ove disposti dall'autorita' giudiziaria e documentati, si applicano le seguenti tariffe: 
+ 
+                        
+                        
+                            a)
+                            
+                                recupero: 0,65 euro al metro cubo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                trasporto: 
+ 1) sino a 5 metri cubi: euro 40; 
+ 2) tra i 5 e i 10 metri cubi: euro 60; 
+ 3) oltre i 10 metri cubi: euro 80.
+
+3.
+                    
+                        
+                            Per la movimentazione, lo svuotamento o il riempimento di contenitori, ove disposti dall'autorita' giudiziaria e documentati, si applicano i seguenti criteri, ove occorra cumulativamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                da 10 euro a 20 euro per ogni ora o frazione di ora, per ciascun lavoratore impiegato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                da 4 euro a 7 euro per ogni ora o frazione di ora, per ciascun mezzo meccanico impiegato.
 
 ## Art. 2.
 

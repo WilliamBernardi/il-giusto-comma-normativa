@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2003-07-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,31 @@ Al comma 5 dell'articolo 1-bis del decreto del Presidente della Repubblica 26 ma
  della Repubblica 26 marzo 1977, n. 235
 
 Nel comma 3, lettera c), dell'articolo 01 del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, introdotto dall'articolo 9 del decreto legislativo 11 novembre 1999, n. 463, le parole: «le reti per il trasporto dell'energia elettrica costituenti la rete di trasmissione nazionale» sono sostituite dalle seguenti: «le reti per il trasporto dell'energia elettrica costituenti la rete di trasmissione nazionale con tensione superiore a 150 KV».
+
+2.
+                    
+                        
+                            All'articolo 10, primo comma, del decreto del Presidente della Repubblica 26 marzo 1977, n. 235, cosi' come modificato dall'articolo 19 del decreto legislativo 11 novembre 1999, n. 463, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                nell'alinea sono soppresse le parole: «, al fine di concorrere al conseguimento delle finalita' di cui al primo comma dell'articolo 9,»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella lettera a) sono soppresse le parole: «e coordinamento tecnico dell'attuazione delle deliberazioni del comitato di cui all'articolo 9»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella lettera c) sono soppresse le parole: «ed indicate nel piano tecnico di cui all'articolo 9, comma terzo, n. 2)».
 
 ## Art. 4. — Modificazioni all'articolo 5 del decreto
  del Presidente della Repubblica 22 marzo 1974, n. 381

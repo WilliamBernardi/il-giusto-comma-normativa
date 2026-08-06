@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 1993-12-05
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -26,9 +26,98 @@ Sulla proposta del Presidente del Consiglio dei Ministri e Ministro per gli inte
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            Sono prorogati inderogabilmente al 30 giugno 1988 i sottoelencati termini stabiliti dal decreto-legge 28 febbraio 1986, n. 48, convertito, con modificazioni, dalla legge 18 aprile 1986, n. 119:
+ 
+                        
+                        
+                            a)
+                            
+                                quello indicato nell'articolo 1, comma 1, n. 4), concernente la presentazione degli elaborati e della documentazione, ad integrazione delle domande per l'assegnazione del contributo diretto alla ricostruzione e alla riparazione delle unita' abitative, presentate entro il 31 marzo 1984; ((4))
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                LETTERA SOPPRESSA DALLA LEGGE 21 GENNAIO 1988, N. 12
+
+                            
+                        
+                        
+                            c)
+                            
+                                LETTERA SOPPRESSA DALLA LEGGE 21 GENNAIO 1988, N. 12
+
+                            
+                        
+                        
+                            d)
+                            
+                                quello indicato nell'articolo 1, comma 4, relativo ai vincoli di destinazione previsti nei piani regolatori delle aree e dei nuclei di sviluppo industriale localizzati nelle regioni Campania e Basilicata, nonche' alla retrocessione dei beni espropriati nell'ambito delle aree e dei nuclei di sviluppo industriale stessi localizzati nelle predette regioni;
+
+                            
+                        
+                        
+                            e)
+                            
+                                LETTERA SOPPRESSA DALLA LEGGE 21 GENNAIO 1988, N. 12
+
+                            
+                        
+                        
+                            f)
+                            
+                                LETTERA SOPPRESSA DALLA LEGGE 21 GENNAIO 1988, N. 12 (2)
+
+1-bis.
+                    
+                        
+                            Sono inderogabilmente prorogati al 31 dicembre 1988:
+ 
+                        
+                        
+                            a)
+                            
+                                il termine indicato nell'articolo 1, comma 1, n. 2), del decreto-legge 28 febbraio 1986, n. 48, convertito, con modificazioni, dalla legge 18 aprile 1986, n. 119, concernente l'attuazione degli strumenti urbanistici nei comuni terremotati dichiarati sismici, anche in assenza dei programmi pluriennali di cui all'articolo 13 della legge 28 gennaio 1977, n. 10; (2)
+
+                            
+                        
+                        
+                            b)
+                            
+                                il termine indicato nell'articolo 1, comma 1, n. 1), del decreto-legge di cui alla precedente lettera a), relativo all'imposta sul valore aggiunto, limitatamente agli interventi previsti dalla legge 14 maggio 1981, n. 219, e successive modificazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il termine indicato nell'articolo 3, comma 2, del decreto-legge 30 giugno 1986, n. 309, convertito, con modificazioni, dalla legge 9 agosto 1986, n. 472, concernente gli interventi previsti negli articoli 21 e 32 della legge 14 maggio 1981, n. 219, e successive modificazioni . (2)
+
 L'attivita' delle sezioni staccate di Avellino e Salerno del provveditorato alle opere pubbliche della Campania, gia' autorizzata per il triennio dal 27 agosto 1981 al 26 agosto 1984 e prorogata sino al 31 dicembre 1987, e' ulteriormente prorogata sino al 31 dicembre 1990 .
 
 Il termine per il collocamento in aspettativa del sindaco o del presidente della comunita' montana, dell'assessore delegato alla ricostruzione, di un rappresentante della minoranza e' prorogato al 30 giugno 1989 nei comuni disastrati, nel comune di Senise e nelle comunita' montane che ricomprendano comuni disastrati. E' prorogato, altresi', alla stessa data il termine indicato nell'articolo 6, comma 6, del decreto-legge 26 gennaio 1987, n. 8, convertito, con modificazioni, dalla legge 27 marzo 1987, n. 120. Nei comuni gravemente danneggiati, limitatamente al sindaco o suo delegato, il predetto termine e' prorogato alla medesima data. Resta fermo il trattamento economico spettante ai medesimi ove essi siano dipendenti da amministrazioni statali, anche ad ordinamento autonomo, o da enti pubblici, anche economici, che continua ad essere posto a carico delle amministrazioni ed enti. Resta a carico del fondo di cui all'articolo 3 della legge 14 maggio 1981, n. 219, e successive modificazioni, l'onere per l'aspettativa dei dipendenti da aziende private . (3)
+
+4.
+                    
+                        
+                            Sono prorogati al 31 marzo 1988:
+ 
+                        
+                        
+                            a)
+                            
+                                il termine indicato nell'articolo 1, comma 1, n. 3), del decreto-legge 28 febbraio 1986, n. 48, convertito, con modificazioni, dalla legge 18 aprile 1986, n. 119, limitatamente alle occupazioni temporanee e ai procedimenti espropriativi ivi previsti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                LETTERA SOPPRESSA DALLA LEGGE 21 GENNAIO 1988, N. 12
 
 COMMA SOPPRESSO DALLA LEGGE 21 GENNAIO 1988, N. 12
 
@@ -149,6 +238,24 @@ Decorsi inutilmente gli indicati termini gli interessati decadono dal diritto al
 ) dall'evento sismico del 1962, che hanno presentato domanda ai sensi della legge 5 ottobre 1962, n. 1431, possono accedere ai benefici previsti dalla legge 14 maggio 1981, n. 219, e successive modificazioni, sulla base delle disposizioni e delle priorita' di cui alle leggi regionali vigenti. L'onere e' a carico e nei limiti delle disponibilita' del fondo di cui all'articolo 3 della predetta legge n. 219 del 1981.
 
 ## Art. 8.
+
+1.
+                    
+                        
+                            La disposizione dell'articolo 73, primo comma, della legge 14 maggio 1981, n. 219, e successive modificazioni, deve intendersi riferita anche:
+ 
+                        
+                        
+                            a)
+                            
+                                a tutti gli atti di cessione, permuta o assegnazione in proprieta', effettuati in applicazione degli strumenti urbanistici previsti nell'articolo 28, secondo comma, della citata legge n. 219 del 1981 e a tutti gli atti di acquisto previsti dall'articolo 9, ottavo comma, della stessa legge, dall'articolo 6 della legge 18 aprile 1984, n. 80, come modificato dall'articolo 5 del decreto-legge 28 febbraio 1986, n. 48, convertito, con modificazioni, dalla legge 18 aprile 1986, n. 119, e dall'articolo 3, comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                agli atti di scioglimento delle comunioni, agli atti di trasferimento di suoli, compresi nelle aree individuate ai sensi dell'articolo 32 della legge 14 maggio 1981, n. 219, e successive modificazioni, e a tutti gli altri atti comunque relativi all'attuazione della citata legge n. 219 del 1981, anche se nella stessa non espressamente previsti.
 
 Le disposizioni dell'articolo 17 del decreto-legge 30 dicembre 1982, n. 953, come sostituite da quelle contenute nell'articolo 5 del nuovo testo del decreto stesso risultante dalle modificazioni introdotte con la legge di conversione 28 febbraio 1983, n. 53, devono intendersi non applicabili nei confronti dei soggetti interessati che, entro centottanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, inoltrino agli uffici del pubblico registro automobilistico apposita dichiarazione giurata concernente il perimento degli autoveicoli in dipendenza del sisma del novembre 1980 o del febbraio 1981.
 

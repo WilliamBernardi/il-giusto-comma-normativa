@@ -7,8 +7,8 @@ urn: urn:nir:ministero.infrastrutture.e.trasporti:decreto:2024-09-17;133
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -53,6 +53,45 @@ All'articolo 3 del decreto del Ministro delle infrastrutture e dei trasporti 29 
 
 ## Art. 4. — Modifiche all'articolo 5 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 5 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla rubrica, le parole «imbarcazioni da diporto autocostruite» sono sostituite dalle seguenti: «unita' da diporto costruite per uso personale»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1: 
+ 1) la parola «autocostruita» e' sostituita dalle seguenti: «costruita per uso personale, ai sensi dell'articolo 3, comma 1, lettera e), del decreto legislativo 11 gennaio 2016, n. 5 e»; 
+ 2) le parole «nei registri delle imbarcazioni da diporto presentando» sono sostituite dalle seguenti: «nell'ATCN presentando a uno STED»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2: 
+ 1) la parola «autocostruite» e' sostituita dalle seguenti: «da diporto costruite per uso personale»; 
+ 2) le parole «dell'articolo 10 del codice» sono sostituite dalle seguenti: «del decreto legislativo 11 gennaio 2016, n. 5»; 
+ 3) le parole «3 agosto 1998, n. 314, e successive modificazioni» sono sostituite dalle seguenti: «14 giugno 2011, n. 104»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Le unita' da diporto iscritte ai sensi del presente articolo possono essere immesse sul mercato dell'Unione europea solo dopo il decorso di cinque anni dalla data di iscrizione, previo espletamento delle procedure applicabili per la valutazione della conformita' CE di cui all'articolo 18 del decreto legislativo 11 gennaio 2016, n. 5.».
+
 ## Art. 5. — Perdita di possesso
 
 L'articolo 6 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, e' sostituito dal seguente: 
@@ -62,6 +101,42 @@ L'articolo 6 del decreto del Ministro delle infrastrutture e dei trasporti 29 lu
  4. In caso di mancata restituzione dei documenti di bordo ai sensi del comma 1, il proprietario o l'utilizzatore dell'unita' da diporto in locazione finanziaria, in nome e per conto del proprietario e munito di procura con sottoscrizione autenticata, presenta a uno STED domanda per il rilascio di una nuova licenza di navigazione e degli altri documenti di bordo.».
 
 ## Art. 6. — Modifiche all'articolo 7 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 7 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Per l'iscrizione di un'unita' da diporto utilizzata a titolo di locazione finanziaria, il proprietario o l'utilizzatore dell'unita' da diporto in locazione finanziaria, in nome e per conto del proprietario e munito di procura con sottoscrizione autenticata, presenta a uno STED, oltre alla documentazione prevista dagli articoli 15-bis o 19 del codice, copia del contratto di locazione finanziaria registrato oppure copia del contratto corredato della ricevuta attestante l'avvenuto pagamento dell'imposta di registro a cui e' soggetto il titolo, con riserva di successiva presentazione all'UCON, tramite uno STED, del titolo registrato dall'Agenzia delle entrate, non appena perfezionato.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, dopo la parola «annotazione» sono inserite le seguenti: «nell'ATCN e sulla licenza di navigazione del nominativo dell'utilizzatore dell'unita' da diporto in locazione finanziaria e della data di scadenza del relativo contratto» e dopo le parole «dal proprietario» sono inserite le seguenti: «o dall'utilizzatore dell'unita' da diporto in locazione finanziaria,»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. In caso di risoluzione del contratto di locazione finanziaria, per la cancellazione dell'annotazione di cui all'articolo 16, comma 1, del codice, il proprietario o l'utilizzatore dell'unita' da diporto in locazione finanziaria presenta a uno STED copia dell'atto di risoluzione del contratto. In caso di cessione o di variazione del contratto di locazione finanziaria relativa all'utilizzatore dell'unita' da diporto in locazione finanziaria o alla data di scadenza del contratto di locazione finanziaria, il proprietario presenta a uno STED copia del contratto registrato oppure copia del contratto corredata della ricevuta attestante l'avvenuto pagamento dell'imposta di registro a cui e' soggetto il titolo, con riserva di successiva presentazione del titolo registrato dall'Agenzia delle entrate, non appena perfezionato. Lo STED notifica con modalita' telematiche l'avvenuta cancellazione dell'annotazione al proprietario e all'utilizzatore dell'unita' da diporto in locazione finanziaria e richiede a quest'ultimo la restituzione della licenza di navigazione e dei documenti di bordo.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    dopo il comma 3, e' inserito il seguente: «3-bis. In caso di perdita di possesso o di disponibilita' dell'unita' da diporto, a seguito della relativa annotazione, il proprietario o l'utilizzatore in locazione finanziaria puo' chiedere a uno STED la cancellazione dell'annotazione di cui all'articolo 16, comma 1, del codice.».
 
 ## Art. 7. — Modifiche all'articolo 8 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
@@ -77,7 +152,47 @@ All'articolo 10, comma 2, del decreto del Ministro delle infrastrutture e dei tr
 
 ## Art. 10. — Modifiche all'articolo 11 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 11 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole «all'ufficio di iscrizione dell'unita' da diporto» sono sostituite dalle seguenti: «all'UCON, tramite uno STED,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. Gli atti costitutivi, traslativi o estintivi della proprieta' o di altri diritti reali sull'unita' da diporto, redatti in lingua straniera e presentati per la pubblicita', sono apostillati o legalizzati secondo le convenzioni internazionali e le disposizioni vigenti, nonche' corredati di una traduzione in lingua italiana, eseguita da un interprete nominato dal tribunale o dall'autorita' consolare.».
+
 ## Art. 11. — Modifiche all'articolo 12 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 12 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole «del conservatore» sono sostituite dalle seguenti: «dell'UCON»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole «all'ufficio a cui ha richiesto la trascrizione» sono sostituite dalle seguenti: «all'UCON, tramite uno STED,».
 
 ## Art. 12.
 
@@ -91,6 +206,26 @@ La domanda di pubblicita' e' nuovamente presentata solo a seguito di integrazion
 In caso di discordanza tra le trascrizioni presenti nei registri di iscrizione o nell'ATCN e le annotazioni sulla licenza di navigazione, prevalgono le risultanze dei registri o dell'ATCN.».
 
 ## Art. 13. — Modifiche all'articolo 14 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 14 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla rubrica, le parole «nei registri» sono sostituite dalle seguenti: «nell'ATCN»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 2, e' inserito il seguente: «2-bis. Le disposizioni di cui all'articolo 19, comma 3, del codice, si applicano agli Stati terzi dotati di registri pubblici delle unita' da diporto e di autorita' di conservatoria navale.».
 
 ## Art. 14.
 
@@ -124,6 +259,74 @@ L'autorizzazione alla navigazione temporanea di cui all'articolo 31 del codice p
 Fermi restando i termini del procedimento di cui all'articolo 58 del codice, con provvedimento del Ministero delle infrastrutture e dei trasporti vengono individuati gli strumenti organizzativi atti a consentire la contrazione dei termini relativi ai procedimenti di rilascio della licenza provvisoria di navigazione di cui all'articolo 20, comma 2, del codice e della licenza per navi destinate esclusivamente al noleggio per finalita' turistiche di cui all'articolo 15-ter, comma 3, lettera a), del codice.».
 
 ## Art. 16. — Modifiche all'articolo 16 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 16 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    alla rubrica, le parole «dai registri» sono sostituite dalle seguenti: «dall'ATCN»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 1, le parole «all'ufficio di iscrizione» sono sostituite dalle seguenti: «all'UCON tramite uno STED»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: «2. Lo STED trasmette all'UCON la domanda per la cancellazione. L'UCON, accertata l'inesistenza o l'estinzione di eventuali diritti reali di garanzia trascritti richiede, dandone conoscenza allo STED procedente, il nulla osta dell'Istituto nazionale della previdenza sociale previsto dall'articolo 15 della legge 26 luglio 1984, n. 413, nonche' dell'INAIL. Ottenuto il nulla osta, l'UCON provvede alla cancellazione, a seguito della quale lo STED ritira i documenti di bordo.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 3 e' aggiunto, in fine, il seguente periodo: «La medesima procedura e' adottata in caso di passaggio dalla categoria delle imbarcazioni a quella dei natanti ai sensi dell'articolo 21, comma 2, lettera c), del codice.»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 4, dopo le parole «dall'autorita'» sono inserite le seguenti: «marittima o della navigazione interna»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    il comma 5 e' sostituito dal seguente: «5. Il proprietario che intende vendere all'estero la propria imbarcazione o nave da diporto presenta all'UCON, tramite uno STED, la richiesta di nulla osta alla dismissione della bandiera nazionale. Il nulla osta e' rilasciato dall'UCON previ gli accertamenti di cui al comma 2. Ottenuto il nulla osta, l'alienante presenta allo STED copia conforme dell'atto di vendita e i documenti di navigazione. Lo STED invia la copia dell'atto di vendita all'UCON, che cancella l'unita' da diporto dall'ATCN con decorrenza dalla data del medesimo atto.»;
+                                
+                            
+                        
+                        
+                            g)
+                            
+                                
+                                    il comma 6 e' sostituito dal seguente: «6. In caso di trasferimento all'estero dell'unita' da diporto, lo STED invia all'UCON la richiesta del proprietario di nulla osta alla cancellazione dall'ATCN con l'indicazione del registro straniero prescelto. L'UCON, previ gli accertamenti di cui al comma 2, rilascia il nulla osta e dispone la restituzione all'interessato dei documenti tecnici necessari per la successiva immatricolazione dell'unita' all'estero. Lo STED ritira i documenti di navigazione. Il proprietario dell'unita' da diporto comunica all'UCON, tramite uno STED, gli estremi dell'avvenuta iscrizione nel registro straniero e, qualora la legislazione del Paese di destinazione dell'unita' da diporto non preveda l'iscrizione in registri, rilascia apposita dichiarazione resa ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. L'UCON cancella l'unita' da diporto dall'ATCN con decorrenza dalla data di iscrizione nel registro straniero o da quella della dichiarazione rilasciata dal proprietario.»;
+                                
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    dopo il comma 6 e' inserito il seguente: «6-bis. Nel caso di iscrizione provvisoria di cui all'articolo 20 del codice, qualora siano decorsi sei mesi dall'assegnazione del numero di immatricolazione senza che sia stato presentato a uno STED il titolo di proprieta', l'UCON cancella d'ufficio l'unita' da diporto dall'ATCN e dispone allo STED il ritiro della licenza provvisoria di navigazione e del certificato di sicurezza.».
 
 ## Art. 17. — Rinnovo della licenza di navigazione 
  per imbarcazioni e navi da diporto
@@ -176,6 +379,58 @@ All'articolo 22, comma 2, del decreto del Ministro delle infrastrutture e dei tr
 
 ## Art. 24. — Modifiche all'articolo 23 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 23 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, dopo le parole «navi da diporto» sono inserite le seguenti: «, anche utilizzate a fini commerciali, nonche' per le navi destinate esclusivamente al noleggio per finalita' turistiche di cui all'articolo 3 della legge 8 luglio 2003, n. 172,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, dopo le parole «circondariali marittimi» sono inserite le seguenti: «e alle Direzioni generali territoriali del Ministero delle infrastrutture e dei trasporti» e dopo le parole «Gli uffici marittimi» sono inserite le seguenti: «, gli UMC»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, le parale da «a cura dell'ufficio che ha provveduto» fino alla fine del comma sono sostituite dalle seguenti: «dall'UCON tramite lo STED. A tal fine, l'ufficio che ha provveduto al rilascio del ruolino di equipaggio, oltre a darne comunicazione all'INPS, nonche' al proprietario qualora il ruolino sia stato rilasciato all'armatore dell'unita', inoltra all'UCON, tramite uno STED, la richiesta per l'annotazione degli estremi del ruolino nell'ATCN e sulla licenza di navigazione»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    dopo il comma 3 e' inserito il seguente: «3-bis. In caso di imbarco o di sbarco di un membro dell'equipaggio in un porto estero, ove l'autorita' consolare non sia presente o i relativi uffici competenti in materia di navigazione non siano aperti al pubblico, gli interessati possono procedere alla stipula della convenzione di arruolamento o alla dichiarazione di sbarco senza contestazioni, alla presenza di due testimoni, i quali appongono la propria sottoscrizione. La convenzione di arruolamento o la dichiarazione di sbarco sono annotate nel ruolino di equipaggio e regolarizzate, a cura del marittimo imbarcato o sbarcato, presso il proprio ufficio di iscrizione al rientro in Italia.»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 4, le parole «o consolari» sono sostituite dalle seguenti: «, gli UMC o gli uffici consolari»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    dopo il comma 4 e' inserito il seguente: «4-bis. L'armatore puo' chiedere all'INPS l'autorizzazione a tenere un'unica posizione contributiva per tutte le imbarcazioni e navi da diporto a lui appartenenti e oggetto di contratti di noleggio oppure piu' posizioni contributive per gruppi di imbarcazioni e navi da diporto, per le quali e' adottata la rotazione dei marittimi imbarcati di cui all'articolo 38, comma 1-bis, del codice.».
+
 ## Art. 25. — Uso commerciale delle imbarcazioni 
  e delle navi da diporto
 
@@ -218,6 +473,26 @@ Dopo l'articolo 27 del decreto del Ministro delle infrastrutture e dei trasporti
 
 ## Art. 29. — Modifiche all'articolo 28 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 28 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, alla lettera a, le parole «per i trasporti terrestri e il trasporto intermodale» sono sostituite dalle seguenti: «per i trasporti e la navigazione» e dopo la lettera c) e' aggiunta la seguente: «c-bis) le Capitanerie di porto, gli Uffici circondariali marittimi e gli UMC delle Direzioni generali territoriali del Dipartimento per i trasporti e la navigazione per le patenti nautiche di categoria D, tipo D1.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 2, e' inserito il seguente: «2-bis. Le patenti nautiche non conformi al modello vigente di cui al comma 2 sono sostituite in occasione della loro convalida, previo assolvimento dell'imposta di bollo e del pagamento dello stampato a rigoroso rendiconto.».
+
 ## Art. 30. — Esame per il conseguimento delle patenti nautiche di categoria A, B, C e D, tipo D2
 
 L'articolo 29 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, e' sostituito dal seguente: 
@@ -252,6 +527,26 @@ Dopo l'articolo 29 del decreto del Ministro delle infrastrutture e dei trasporti
  f) le modalita' di vigilanza e di svolgimento dei controlli da parte degli uffici competenti.».
 
 ## Art. 32. — Modifiche all'articolo 30 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 30 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole «la relativa prova pratica» sono sostituite dalle seguenti: «le prove teorica e pratica inerenti alla navigazione a vela»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 2, e' inserito il seguente: «2-bis. Coloro che sono in possesso della patente nautica di categoria D, tipo D1, al compimento del diciottesimo anno di eta', possono conseguire la patente nautica di categoria A, sostenendo un esame integrativo teorico sugli argomenti non compresi nel corso formativo di cui all'articolo 29-bis, comma 1, e una prova pratica di navigazione.».
 
 ## Art. 33. — Esercitazioni pratiche
 
@@ -345,9 +640,101 @@ L'articolo 37 del decreto del Ministro delle infrastrutture e dei trasporti 29 l
 
 ## Art. 39. — Modifiche all'articolo 38 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 38 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo il comma 1, e' inserito il seguente: «1-bis. In sede di primo rilascio o di convalida della patente nautica si applica il disposto di cui all'articolo 7 del decreto-legge 9 febbraio 2012, n. 5, convertito, con modificazioni, dalla legge 4 aprile 2012, n. 35.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, dopo le parole «di categoria C» sono inserite le seguenti: «o di categoria D, tipo D2,» e dopo le parole «certificato rilasciato» sono inserite le seguenti: «dal medico accertatore o»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. In caso di deterioramento o di illeggibilita', il titolare chiede all'autorita' marittima o all'UMC, ove ha conseguito la patente nautica, la sua sostituzione.».
+
 ## Art. 40. — Modifiche all'articolo 39 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 39 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1 sono aggiunte, in fine, le seguenti parole: «nonche' per l'aggiornamento dell'anagrafe nazionale delle patenti nautiche»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2 sono aggiunte, in fine, le seguenti parole: «o su disposizione dell'autorita' giudiziaria».
+
 ## Art. 41. — Modifiche all'articolo 40 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 40 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente «2. Oltre che nei casi di cui agli articoli 53, commi 6 e 9, 53-bis, comma 2, 53-ter, comma 5, 53-quater, commi 1 e 10 e 55, comma 3 del codice, la patente nautica e' sospesa fino a un massimo di tre mesi dall'autorita' marittima o dall'UMC del luogo dove il fatto e' stato commesso, quando l'abilitato commette atti di imprudenza o di imperizia tali da compromettere l'incolumita' pubblica o da produrre gravi danni.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 3 e' sostituito dal seguente «3. Per motivi di pubblica sicurezza, la patente nautica e' sospesa dall'autorita' che ha provveduto al rilascio su richiesta del prefetto, che indica la durata della sospensione, comunque non superiore a sei mesi.».
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 5, le parole «al prefetto» sono sostituite dalle seguenti: «all'UMC»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    il comma 7 e' sostituito dal seguente: «7. Avverso i provvedimenti di sospensione della patente nautica di cui ai commi 1, 2 e 3 e' ammesso ricorso gerarchico al Ministero delle infrastrutture e dei trasporti entro trenta giorni oppure ricorso giurisdizionale al Tribunale amministrativo regionale competente per territorio entro sessanta giorni oppure ricorso straordinario al Presidente della Repubblica entro centoventi giorni.»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    il comma 8 e' sostituito dal seguente: «8. I provvedimenti di sospensione sono comunicati all'anagrafe nazionale delle patenti nautiche e, fino alla sua attuazione, all'autorita' marittima o all'UMC che ha provveduto al rilascio della patente, ai fini dell'annotazione nel registro delle patenti nautiche di cui all'articolo 46, comma 1.».
 
 ## Art. 42. — Revoca delle patenti nautiche
 
@@ -377,21 +764,226 @@ Dopo l'articolo 47 del decreto del Ministro delle infrastrutture e dei trasporti
 
 ## Art. 46. — Modifiche all'articolo 48 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 48 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1 sono aggiunte, in fine, le seguenti parole: «, anche avvalendosi delle dotazioni raccomandate di cui all'allegato V-bis»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, dopo le parole «natanti da diporto» sono inserite le seguenti: «e le moto d'acqua» e sono aggiunte, in fine, le seguenti parole: «e per la sostituzione dei tubolari delle unita' pneumatiche».
+
 ## Art. 47. — Modifiche all'articolo 50 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 50 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2, l'alinea e' sostituito dal seguente: «Il certificato di sicurezza e' rilasciato dallo STED, all'atto della prima iscrizione nell'ATCN, previa validazione dell'UCON» e alla lettera b), le parole da «dell'articolo 10 del codice ovvero affidato» fino alla fine della lettera sono sostituire dalle seguenti: «del decreto legislativo 11 gennaio 2016, n. 5 ovvero autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104, scelto dal proprietario dell'unita' o dall'eventuale utilizzatore in locazione finanziaria»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, le parole «nei registri» sono sostituite dalle seguenti: «nell'ATCN» e dopo le parole «dell'Unione europea» sono inserite le seguenti: «o dello Spazio economico europeo»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. Gli estremi del certificato di sicurezza o del suo rinnovo, previa presentazione della DCI aggiornata, sono presentati dal proprietario o dall'eventuale utilizzatore in locazione finanziaria a uno STED, che provvede all'aggiornamento dell'ATCN e all'annotazione sulla licenza di navigazione, a seguito di convalida dell'UCON.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 5, le parole «affidato ai sensi del decreto legislativo 3 agosto 1998, n. 314, e successive modificazioni, ovvero di un organismo tecnico notificato ai sensi dell'articolo 10 del codice, scelto dal proprietario dell'unita' o dal suo legale rappresentante» sono sostituite dalla seguenti: «autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104, ovvero di un organismo tecnico notificato ai sensi del decreto legislativo 11 gennaio 2016, n. 5, scelto dal proprietario dell'unita' o dall'eventuale utilizzatore in locazione finanziaria»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    il comma 6 e' sostituito dal seguente: «6. Alla convalida del certificato di sicurezza provvede uno STED oppure, per le unita' da diporto che si trovano in un porto estero, anche l'autorita' consolare, sulla base di un'attestazione di idoneita' rilasciata, ai fini e con le modalita' di cui all'articolo 57, da uno degli organismi tecnici di cui al comma 5, previa presentazione della DCI aggiornata e a seguito di convalida dell'UCON.».
 
 ## Art. 48. — Modifiche all'articolo 51 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 51 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, alla lettera a) le parole «dall'immatricolazione» sono sostituite dalle seguenti: «dalla registrazione nell'ATCN» e alla lettera b) le parole «dall'immatricolazione» sono sostituite dalle seguenti: «dalla registrazione nell'ATCN»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, il primo periodo e' sostituito dal seguente: «In caso di gravi avarie o di perdita di uno dei requisiti essenziali di cui all'allegato II del codice o di modifica rilevante del motore o di trasformazione rilevante dell'unita' da diporto o di mutamenti alle caratteristiche di costruzione non essenziali, il certificato di sicurezza e' sottoposto a convalida con le procedure di cui all'articolo 50, comma 6» e al secondo periodo, dopo le parole «e il proprietario» sono inserite le seguenti: «o l'eventuale utilizzatore in locazione finanziaria»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo il comma 3, e' inserito il seguente: «3-bis. Alle unita' da diporto non marcate CE di cui all'articolo 48, comma 2, lettera b), costruite, immesse in commercio o messe in servizio prima del 16 giugno 1998, non si applica la valutazione di post costruzione di cui all'articolo 22 del decreto legislativo 11 gennaio 2016, n. 5. In caso di gravi avarie o di perdita dello stato di navigabilita' o di modifica rilevante del motore o di trasformazione rilevante dell'unita' da diporto o di mutamenti delle caratteristiche di costruzione essenziali, e' rilasciato un nuovo certificato di sicurezza di cui all'articolo 51, comma 3, sulla base di un'attestazione di idoneita' rilasciata, in conformita' alle direttive emanate dal Ministero delle infrastrutture e dei trasporti, da un organismo tecnico notificato o autorizzato, scelto dal proprietario o dall'eventuale utilizzatore in locazione finanziaria dell'unita'.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 5 sono aggiunte, in fine, le seguenti parole: «e, se l'organismo tecnico lo ritiene necessario, che sull'unita' venga eseguita un'ispezione a secco della carena».
+
 ## Art. 49. — Modifiche all'articolo 52 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 52, comma 1, del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo le parole «Il proprietario» sono inserite le seguenti: «o l'eventuale utilizzatore in locazione finanziaria»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    e' aggiunto, in fine, il seguente periodo: «Per le dotazioni di sicurezza sono osservate le raccomandazioni del fabbricante indicate nella documentazione a corredo o stampigliate sul prodotto.».
 
 ## Art. 50. — Modifiche all'articolo 53 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 53 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    dopo il comma 1, e' inserito il seguente: «1-bis. Il proprietario o l'eventuale utilizzatore in locazione finanziaria o armatore identifica i mezzi di salvataggio individuali con la sigla e il numero di iscrizione o con il numero di individuazione registrato nell'ATCN dell'unita' da diporto della quale costituiscono dotazione.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2 sono aggiunte, in fine, le seguenti parole: «, anche sulla base dell'archivio nazionale dei prodotti delle unita' da diporto di cui all'articolo 60, comma 3-bis del codice».
+
 ## Art. 51. — Modifiche all'articolo 54 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 54 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, dopo il primo periodo e' inserito il seguente: «Le unita' che navigano oltre dodici miglia di distanza dalla costa ed entro il limite dell'area di ricerca e soccorso nazionale, se munite di strumenti elettronici per la geo-localizzazione, possono avere a bordo i mezzi di salvataggio collettivi previsti per la navigazione entro le dodici miglia di distanza dalla costa.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: «2. Il mezzo collettivo di salvataggio previsto per la navigazione entro dodici miglia di distanza dalla costa puo' essere sostituito da un battello pneumatico munito di marcatura CE e conforme agli standard UNI EN ISO 6185, purche' sia un'unita' pronta all'uso, munita di dispositivo di risalita a bordo e del kit di sopravvivenza previsto per il mezzo collettivo di salvataggio e sia in grado di imbarcare il numero di persone presenti a bordo compreso l'equipaggio.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo il comma 2, e' inserito il seguente: «2-bis. Le unita' pneumatiche, comprese quelle a carena rigida, munite di marcatura CE, di categoria A, B e C, conformi agli standard UNI EN ISO 6185 parti 3 e 4, sono esentate dall'obbligo di dotarsi della zattera autogonfiabile di cui all'allegato V, in caso di navigazione entro dodici miglia di distanza dalla costa, se munite del kit di sopravvivenza previsto per il mezzo collettivo di salvataggio.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 3, la parola «acquascooter» e' sostituita dalle seguenti: «moto d'acqua».
 
 ## Art. 52. — Modifiche all'articolo 56 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
 All'articolo 56 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, le parole «, compresi gli acquascooter, rientranti nella categoria dei natanti e individuati con la sigla ed il numero di iscrizione» sono sostituite dalle seguenti: «rientranti nella categoria dei natanti o delle moto d'acqua, individuati con la sigla e il numero di iscrizione o con il numero di individuazione registrato nell'ATCN».
 
 ## Art. 53. — Modifiche all'articolo 57 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 57 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 2, le parole «dei requisiti in base ai quali» sono sostituite dalle seguenti: «dello stato di navigabilita' in base al quale»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. Per le unita' da diporto di cui all'articolo 48, comma 2, lettere a) e b), il proprietario o l'eventuale utilizzatore in locazione finanziaria presenta allo STED l'attestazione di idoneita' rilasciata dall'organismo tecnico notificato o autorizzato comprovante la permanenza dello stato di navigabilita' in base al quale il certificato di sicurezza e' stato rilasciato, per l'aggiornamento dell'ATCN e della licenza di navigazione a seguito di convalida dell'UCON. In caso di visita periodica di rinnovo eseguita all'estero, il proprietario o l'eventuale utilizzatore in locazione finanziaria puo' presentare la medesima documentazione all'autorita' consolare.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    dopo il comma 3, sono inseriti i seguenti: «3-bis. In caso di sostituzione dei tubolari delle unita' pneumatiche non effettuata dal fabbricante o da un centro di assistenza autorizzato dal fabbricante, si applica l'articolo 51, comma 3 per le unita' marcate CE e l'articolo 51, comma 3-bis per le unita' non marcate CE, costruite, immesse in commercio o messe in servizio prima del 16 giugno 1998. 
+ 3-ter. Qualora nel corso della visita di rinnovo si rilevino deficienze o inconvenienti temporaneamente tollerabili, l'organismo notificato o autorizzato rilascia l'attestazione di idoneita' e dispone, sulla base del proprio regolamento tecnico, il termine entro il quale il proprietario o l'eventuale utilizzatore in locazione finanziaria deve eliminare le deficienze o gli inconvenienti rilevati, decorso inutilmente il quale decade la validita' dell'attestazione di idoneita' rilasciata. Le prescrizioni sono annotate dall'organismo tecnico notificato o autorizzato sull'attestazione d'idoneita' e dallo STED sul certificato di sicurezza per l'aggiornamento dell'ATCN e della licenza di navigazione, a seguito di convalida dell'UCON, con l'avvertenza che in caso di inottemperanza entro il termine fissato il certificato di sicurezza perde di validita'.».
 
 ## Art. 54. — Modifiche all'articolo 60 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
@@ -416,7 +1008,72 @@ L'articolo 62 del decreto del Ministro delle infrastrutture e dei trasporti 29 l
 
 ## Art. 57. — Modifiche all'articolo 63 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 63 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole «nonche' un'ispezione a secco della carena» sono sostituite dalle seguenti: «, un'ispezione a secco della carena e una prova di stabilita' in acqua»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 1, e' inserito il seguente: «1-bis. Una nave da diporto di nuova costruzione puo' essere dispensata dalla prova di stabilita', qualora l'organismo tecnico autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104, accerti le condizioni di gemellarita' con un'altra unita' costruita dal medesimo cantiere, sulla base dei propri regolamenti tecnici, anche formulando istruzioni obbligatorie, a condizione che i dati fondamentali, quali il dislocamento e la posizione longitudinale del centro di gravità della nave gemella, siano ottenuti attraverso una prova di pesata o altro metodo equivalente approvato e che i suddetti dati fondamentali risultino invariati.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, le parole «organismi affidati» sono sostituite dalle seguenti: «organismi autorizzati di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        ».
+
 ## Art. 58. — Modifiche all'articolo 65 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 65 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, dopo le parole «il proprietario» sono inserite le seguenti: «o l'eventuale utilizzatore in locazione finanziaria, previa comunicazione al proprietario,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, dopo le parole «dall'autorita' marittima» sono inserite le seguenti: «o della navigazione interna»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, dopo le parole «il proprietario» sono inserite le seguenti: «o l'eventuale utilizzatore in locazione finanziaria» e dopo le parole «dall'autorita' marittima» sono inserite le seguenti: «o della navigazione interna»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    dopo il comma 3, e' inserito il seguente: «3-bis. Per l'aggiornamento dell'ATCN, anche nei casi di perdita di validita' del certificato di sicurezza, si applica la procedura di cui all'articolo 62, comma 3.».
 
 ## Art. 59. — Modifiche all'articolo 67 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
@@ -436,9 +1093,117 @@ All'articolo 70, comma 1, del decreto del Ministro delle infrastrutture e dei tr
 
 ## Art. 63. — Modifiche all'articolo 71 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 71 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, lettera b), sono aggiunte, in fine, le seguenti parole: «o di nave proveniente da altri registri»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, dopo le parole «e il proprietario» sono inserite le seguenti: «o l'eventuale utilizzatore in locazione finanziaria, previa comunicazione al proprietario,».
+
 ## Art. 64. — Modifiche all'articolo 72 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 72 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole «affidato di cui al decreto legislativo 3 agosto 1998, n. 314, e successive modificazioni» sono sostituite dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        »;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, la parola «affidato» e' sostituita dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        »;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 4, la parola «affidato» e' sostituita dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        »;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 5, la parola «affidato» e' sostituita dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        »;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    il comma 6 e' abrogato.
+
 ## Art. 65. — Modifiche all'articolo 73 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 73 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, la parola «affidato» e' sostituita dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        »;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, la parola «affidato» e' sostituita dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        »;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 4, le parole «affidato di cui al decreto legislativo 3 agosto 1998, n. 314, e successive modificazioni» sono sostituite dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        »;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    al comma 6, le parole «affidato di cui al decreto legislativo 3 agosto 1998, n. 314, e successive modificazioni» sono sostituite dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        ».
 
 ## Art. 66. — Modifiche all'articolo 74 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
@@ -446,11 +1211,64 @@ All'articolo 74 del decreto del Ministro delle infrastrutture e dei trasporti 29
 
 ## Art. 67. — Modifiche all'articolo 75 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 75 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) alla lettera a) sono aggiunte, in fine, le seguenti parole: «oppure una bussola elettronica»; 
+ 2) alla lettera h), la parola «quattro» e' sostituita dalla seguente: «tre»; 
+ 3) alla lettera i), la parola «quattro» e' sostituita dalla seguente: «tre»; 
+ 4) alla lettera l), la parola «tre» e' sostituita dalla seguente: «due»; 
+ 5) alla lettera m), la parola «affidato» e' sostituita dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        »; 
+ 6) alla lettera n), la parola «ministeriale» e' sostituita dalle seguenti: «del Ministro della sanita'»; 
+ 7) alla lettera r) sono aggiunte, in fine, le seguenti parole: «conforme al decreto legislativo 22 giugno 2016, n. 128 o al decreto del Presidente della Repubblica 20 dicembre 2017, n. 239
+                                        »; 
+ 8) alla lettera s) sono aggiunte, in fine, le seguenti parole: «funzionante sulle frequenze 406 MHz e 121,5 MHz e conforme al decreto legislativo 22 giugno 2016, n. 128 o al decreto del Presidente della Repubblica 20 dicembre 2017, n. 239
+                                        »; 
+ 9) dopo la lettera t), e' inserita la seguente: «t-bis) n. 1 VHF con DSC conforme al decreto legislativo 22 giugno 2016, n. 128 o al decreto del Presidente della Repubblica 20 dicembre 2017, n. 239
+                                        »;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 2 e' aggiunto il seguente: «2-bis. Le navi da diporto che navigano entro l'area di ricerca e soccorso nazionale possono sostituire la dotazione di cui al comma 1, lettera s), con un telefono satellitare dotato di dispositivo di invio di messaggio di soccorso al Comando generale del Corpo delle Capitanerie di porto - Guardia costiera e conforme al decreto legislativo 22 giugno 2016, n. 128 o al decreto del Presidente della Repubblica 20 dicembre 2017, n. 239, rispondente comunque alla norma EN 60945.».
+
 ## Art. 68. — Modifiche all'articolo 76 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
 All'articolo 76, comma 2, del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono aggiunte, in fine, le seguenti parole: «, anche sulla base dell'archivio nazionale dei prodotti delle unita' da diporto di cui all'articolo 60, comma 3-bis, del codice».
 
 ## Art. 69. — Modifiche all'articolo 77 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 77 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, dopo le parole «L'autorita' marittima» sono inserite le seguenti: «nella cui giurisdizione la nave da diporto si trova» e la parola «affidato» e' sostituita dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104
+                                        »;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, dopo le parole «L'autorita' marittima» sono inserite le seguenti: «nella cui giurisdizione la nave da diporto si trova», la parola «affidato» e' sostituita dalle seguenti: «autorizzato di cui al decreto legislativo 14 giugno 2011, n. 104» e dopo le parole «prove di navigazione con navi da diporto» sono inserite le seguenti: «non provviste di autorizzazione alla navigazione temporanea di cui all'articolo 31 del codice».
 
 ## Art. 70. — Modifiche al Capo II del Titolo III del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
@@ -459,13 +1277,109 @@ Alla rubrica del Capo II del Titolo III del decreto del Ministro delle infrastru
 
 ## Art. 71. — Modifiche all'articolo 78 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 78, comma 2, del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1. dopo le parole «escluso l'equipaggio» sono inserite le seguenti: «, nonche' alle navi destinate esclusivamente al noleggio per finalita' turistiche di cui all'articolo 3 della legge 8 luglio 2003, n. 172, ferme restando le disposizioni del decreto del Ministro delle infrastrutture e dei trasporti 4 aprile 2005, n. 95
+                                        »;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole «Alle unita'» sono sostituite dalle seguenti: «Fermo restando quanto stabilito dall'articolo 89-ter, alle unita'».
+
 ## Art. 72. — Modifiche all'articolo 80 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
 All'articolo 80 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, il comma 2 e' sostituito dal seguente: «2. Le visite sono richieste dal proprietario, dall'armatore o dall'eventuale utilizzatore in locazione finanziaria dell'unita'. Il soggetto che richiede le visite sceglie l'organismo tecnico notificato ai sensi del decreto legislativo 11 gennaio 2016, n. 5, oppure autorizzato ai sensi del decreto legislativo 14 giugno 2011, n. 104, al quale affidarne l'esecuzione.».
 
 ## Art. 73. — Modifiche all'articolo 81 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 81 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    al comma 1, le parole «ovvero affidati» sono sostituite dalle seguenti: «di cui al decreto legislativo 11 gennaio 2016, n. 5 oppure autorizzati di cui al decreto legislativo 14 giugno 2011, n. 104,»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, la parola «affidato» e' sostituita dalla seguente:
+«autorizzato».
+
 ## Art. 74. — Modifiche all'articolo 82 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 82 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1: 
+ 1) all'alinea, le parole «all'allegato VII» sono sostituite dalle seguenti: «all'allegato VII per le imbarcazioni e le navi da diporto e VII-bis per i natanti da diporto»; 
+ 2) alla lettera a), le parole da «sulla base della dichiarazione di idoneita'» fino alla fine della lettera sono sostituite dalle seguenti: «dallo STED all'atto dell'annotazione dell'utilizzo in attivita' di noleggio prevista dall'articolo 24, previa presentazione della DCI aggiornata, sulla base della dichiarazione di idoneita' e a seguito di convalida dell'UCON»; 
+ 3) alla lettera b), dopo le parole «dall'autorita'» sono inserite le seguenti: «marittima o della navigazione interna»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 3, le parole «nei registri» sono sostituite dalle seguenti: «nell'ATCN»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    il comma 5 e' sostituito dal seguente: «5. Lo STED rilascia un tagliando di aggiornamento con gli estremi del certificato di idoneita' da apporre sulla licenza di navigazione e aggiorna l'ATCN, a seguito di convalida dell'UCON. Per i natanti da diporto l'autorita' marittima o della navigazione interna conserva copia del certificato di idoneita'.»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    il comma 6 e' sostituito dal seguente: «6. Per le imbarcazioni e le navi da diporto, il certificato di idoneita' al noleggio e' rinnovato o convalidato dallo STED, previa presentazione della DCI aggiornata, sulla base della dichiarazione di idoneita' rilasciata dagli organismi tecnici di cui all'articolo 81, a seguito di convalida dell'UCON. Per i natanti da diporto l'autorita' marittima o della navigazione interna del luogo in cui si trova il natante rinnova o convalida il certificato di idoneita' sulla base della dichiarazione di idoneita'. Copia del certificato e' inviata all'autorita' marittima o della navigazione interna avente giurisdizione sul luogo in cui l'unita' abitualmente staziona.»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 7, le parole «e' inviata all'ufficio di iscrizione dell'unita'» sono sostituite dalle seguenti: «di idoneita' rinnovato o convalidato e' inviata all'UCON per il tramite di uno STED per l'aggiornamento dell'ATCN» e le parole «all'ufficio» sono sostituite dalle seguenti: «all'autorita' marittima o della navigazione interna»;
+                                
+                            
+                        
+                        
+                            f)
+                            
+                                
+                                    al comma 8, le parole «di uno dei Paesi dell'Unione europea» sono sostituite dalla seguente: «straniera».
 
 ## Art. 75. — Modifiche all'articolo 84 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
@@ -477,7 +1391,55 @@ All'articolo 85, comma 1, del decreto del Ministro delle infrastrutture e dei tr
 
 ## Art. 77. — Modifiche all'articolo 87 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 87 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Per le imbarcazioni e i natanti da diporto muniti di marcatura CE, in caso di gravi avarie, o di perdita anche di uno solo dei requisiti essenziali di cui all'allegato II del codice, o di modifica rilevante del motore, o di trasformazione rilevante dell'unita' da diporto come definita dal decreto legislativo 11 gennaio 2016, n. 5, o di mutamenti alle caratteristiche di costruzione essenziali, il certificato di idoneita' perde di validita' e l'armatore o, in mancanza, il proprietario, sottopone l'unita' a visita occasionale per la sua convalida. Nel caso di imbarcazioni e di natanti da diporto non marcati CE, si applicano le procedure di cui all'articolo 51, comma 3-bis.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    dopo il comma 1, e' inserito il seguente: «1-bis. Per le navi da diporto, il certificato di idoneita' perde di validita' nel caso in cui la nave abbia subito gravi avarie o siano stati apportati notevoli mutamenti, per cui sono venuti meno i requisiti in base ai quali e' stato rilasciato. In tal caso l'armatore o, in mancanza, il proprietario sottopone la nave a visita occasionale per la convalida del certificato.»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 2, le parole «L'autorita' comunica» sono sostituite dalle seguenti: «L'autorita' marittima o della navigazione interna comunica all'armatore o, in mancanza, al proprietario dell'unita',».
+
 ## Art. 78. — Modifiche all'articolo 88 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 88 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Le unita' da diporto impiegate in attivita' di noleggio e le navi di cui all'articolo 3 della legge 8 luglio 2003, n. 172, hanno a bordo i mezzi di salvataggio, individuali e collettivi, e le dotazioni di sicurezza indicati nell'allegato VIII. E' responsabilita' del comandante dotare le imbarcazioni e i natanti da diporto adibiti al noleggio degli ulteriori mezzi e delle attrezzature di sicurezza e marinaresche necessarie in relazione alle condizioni meteo-marine e alla distanza da porti sicuri per la navigazione che intende intraprendere, anche avvalendosi delle dotazioni raccomandate di cui all'allegato VIII-bis.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    il comma 2 e' sostituito dal seguente: «2. I proprietari o gli armatori di imbarcazioni e natanti da diporto adibiti a noleggio possono avere a bordo i mezzi di salvataggio e le dotazioni di sicurezza previsti per la navigazione in acque interne o in acque marittime entro tre, sei o dodici miglia di distanza dalla costa, se dichiarano di effettuare la navigazione entro tali limiti. La dichiarazione di autolimitazione, redatta in carta semplice, e' annotata sul certificato di idoneita' a cura di uno STED, per le imbarcazioni, e a cura dell'autorita' marittima o della navigazione interna che ha rilasciato il certificato di idoneita', per i natanti.».
 
 ## Art. 79. — Modifiche all'articolo 89 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
@@ -510,7 +1472,71 @@ La concessione delle esenzioni e' limitata nella misura consentita dalle convenz
 
 ## Art. 81. — Modifiche all'articolo 90 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
 
+1.
+                    
+                        
+                            All'articolo 90, comma 1, del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    all'alinea, dopo le parole «indicati nell'allegato V,» sono inserite le seguenti: «issano in un punto ben visibile una bandiera rossa con striscia diagonale bianca, visibile ad una distanza non inferiore a trecento metri, di dimensioni non inferiori a 45 centimetri di altezza e 70 centimetri di lunghezza, permanentemente spiegata e»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    alla lettera c), le parole «un'unita» sono sostituite dalle seguenti: «un'unita'» e le parole «EN 14467» sono sostituite dalle seguenti: «UNI EN ISO 24803:2018».
+
 ## Art. 82. — Modifiche all'articolo 91 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146
+
+1.
+                    
+                        
+                            All'articolo 91 del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. Il subacqueo in immersione ha l'obbligo di segnalarsi con un galleggiante recante una bandiera rossa con striscia diagonale bianca, visibile ad una distanza non inferiore a trecento metri, di dimensioni non inferiori a 45 centimetri di altezza e 70 centimetri di lunghezza. Se l'immersione avviene oltre i trecento metri dalla costa, il subacqueo ha l'obbligo di essere assistito da un'unita' di appoggio con presenza a bordo di una persona pronta ad intervenire in caso di emergenza.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    al comma 2, le parole «il segnale di cui al comma 1 del presente articolo e' costituito» sono sostituite dalle seguenti: «le segnalazioni di cui all'articolo 90, comma 1 e al comma 1 del presente articolo sono costituite»;
+                                
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    al comma 3, dopo le parole «superficie gonfiabile» e' inserita la seguente: «autoraddrizzante»;
+                                
+                            
+                        
+                        
+                            d)
+                            
+                                
+                                    il comma 4 e' sostituito dal seguente: «4. Fermo restando quanto previsto dal comma 1, il subacqueo deve operare entro il raggio di cinquanta metri dalla verticale delle segnalazioni di cui ai commi 1 e 2»;
+                                
+                            
+                        
+                        
+                            e)
+                            
+                                
+                                    al comma 5, le parole «dai segnali» sono sostituite dalle seguenti: «dalle segnalazioni».
 
 ## Art. 83. — Limitazioni particolari
 
@@ -683,9 +1709,67 @@ Dopo l'allegato XI del decreto del Ministro delle infrastrutture e dei trasporti
 
 ## Art. 98. — Disposizioni abrogative
 
+1.
+                    
+                        
+                            A decorrere dalla data di entrata in vigore del presente decreto sono abrogate le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                decreto del Ministro per la marina mercantile 27 settembre 1973, recante sigle di individuazione delle imbarcazioni e delle navi da diporto, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 259 del 6 settembre 1973; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                decreto del Ministro per i trasporti 9 febbraio 1976, recante dimensioni e colori dei numeri e delle sigle di individuazione delle imbarcazioni da diporto iscritte nei registri tenuti dagli uffici M.C.T.C., pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 52 del 26 febbraio 1976; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    gli articoli 4, 18 e 43 e gli allegati IX e X del decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146.
+
 ## Art. 99. — Disposizioni transitorie
 
 Le dimensioni e il posizionamento delle sigle di individuazione delle unita' da diporto, gia' iscritte nei registri cartacei ma non ancora transitate nell'ATCN, sono adeguate alle disposizioni di cui all'articolo 19 in occasione del loro popolamento nel predetto archivio telematico.
+
+2.
+                    
+                        
+                            Le seguenti dotazioni di sicurezza diventano obbligatorie dopo un anno dall'entrata in vigore del presente decreto: 
+ 
+                        
+                        
+                            a)
+                            
+                                luce ad attivazione automatica (montata sui giubbotti di salvataggio) di cui all'allegato V e VIII; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                scandaglio elettronico o manuale fino a 20 metri di cui all'allegato V; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                tabella dei segnali visivi diurni e notturni (Colreg) di cui all'allegato V e VIII; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                imbragatura di sicurezza da ponte con nastro di sicurezza (safety line ombelicale) di cui all'allegato V e VIII.
 
 ## Art. 100. — Clausola di invarianza finanziaria
 

@@ -8,8 +8,8 @@ codice_redazionale: 007G0108
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,108 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva degli 
 Sulla proposta del Ministro dei trasporti, di concerto con il Ministro dell'economia e delle finanze, il Ministro per l'attuazione del programma di Governo e il Ministro per le riforme e le innovazioni nella pubblica amministrazione;
 
 ## Art. 1. — Riordino degli organismi
+
+1.
+                    
+                        
+                            Ai sensi dell'articolo 29 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, sono confermati e continuano ad operare, per la durata di cui all'articolo 3, i seguenti organismi istituiti presso il Ministero dei trasporti:
+ 
+                        
+                        
+                            a)
+                            
+                                Comitato tecnico scientifico per la ricerca applicata nel settore della costruzione e della propulsione navale, istituito dall'articolo 4 della legge del 5 maggio 1976, n. 259, come riordinato ai sensi dell'articolo 4 del decreto del Presidente della Repubblica 9 maggio 1994, n. 608;
+
+                            
+                        
+                        
+                            b)
+                            
+                                Commissioni consultive in ambito portuale, istituite dall'articolo 15 della legge 28 gennaio 1994, n. 84;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Comitato tecnico consultivo istituito dall'articolo 6 del decreto legislativo 17 gennaio 2005, n. 13, per l'emanazione di linee di indirizzo nell'adozione di interventi mirati al contenimento del rumore negli aeroporti comunitari in attuazione della direttiva 2002/30/CE del Parlamento europeo e del Consiglio, del 26 marzo 2002;
+
+                            
+                        
+                        
+                            d)
+                            
+                                Osservatorio permanente per il monitoraggio dei lavori relativi alla tratta ad alta capacita' Torino-Milano, previsto dall'articolo 131, comma 3, della legge 23 dicembre 2000, n. 388 ed istituito con decreto ministeriale 9 aprile 2001, n. 53/T;
+
+                            
+                        
+                        
+                            e)
+                            
+                                Commissione permanente per le prescrizioni sui recipienti per gas compressi, liquefatti o disciolti, istituita di cui all'articolo 36 del decreto ministeriale 12 settembre 1925;
+
+                            
+                        
+                        
+                            f)
+                            
+                                Comitato tecnico istituito a norma dell'articolo 119, comma 10, del Codice della strada, con decreto interministeriale n. 983 del 23 giugno 1988, per lo studio dei dispositivi di guida per i conducenti disabili;
+
+                            
+                        
+                        
+                            g)
+                            
+                                Commissione consultiva del centro di coordinamento delle informazioni sul traffico, sulla viabilita' e sicurezza stradale (CCISS), istituita ai sensi dell'articolo 6 del decreto ministeriale 8 maggio 1990, n. 154;
+
+                            
+                        
+                        
+                            h)
+                            
+                                Commissione interministeriale, istituita con decreto ministeriale 9 agosto 1949, n. 24851, e successive modificazioni, di cui agli articoli 12 della legge 14 giugno 1949, n. 410, 10 della legge 2 agosto 1952, n. 1221, 2 della legge 29 dicembre 1969, n. 1042, 2 della legge 16 marzo 1976, n. 86, e 5, comma 2, della legge 26 febbraio 1992, n. 211;
+
+                            
+                        
+                        
+                            i)
+                            
+                                Comitato tecnico interministeriale, istituito dall'articolo 13 del regolamento esecutivo della legge 8 giugno 1978, n. 297, approvato con decreto del Presidente della Repubblica 14 febbraio 1980, n. 191, come riordinato ai sensi dell'articolo 4 del decreto del Presidente della Repubblica 9 maggio 1994, n. 608;
+
+                            
+                        
+                        
+                            l)
+                            
+                                Commissione funicolari aeree e terrestri, istituita con regio decreto 17 gennaio 1926, n. 177, ed integrata con decreto del Presidente della Repubblica 21 gennaio 1977, n. 67, come riordinata ai sensi dell'articolo 4 del decreto del Presidente della Repubblica 9 maggio 1994, n. 608;
+
+                            
+                        
+                        
+                            m)
+                            
+                                Consulta generale per l'autotrasporto e per la logistica di cui alla legge 1° marzo 2005, n. 32, e al decreto legislativo 21 novembre 2005, n. 284;
+
+                            
+                        
+                        
+                            n)
+                            
+                                Comitato centrale per l'albo degli autotrasportatori e relativi comitati regionali di cui alla legge 1° marzo 2005, n. 32, e al decreto legislativo 21 novembre 2005, n. 284;
+
+                            
+                        
+                        
+                            o)
+                            
+                                Commissione di alta vigilanza istituita ai sensi dell'articolo 4 del decreto-legge 1° aprile 1995, n. 98, convertito, con modificazioni, dalla legge 30 maggio 1995, n. 204;
+
+                            
+                        
+                        
+                            p)
+                            
+                                Nucleo di valutazione e verifica degli investimenti pubblici del Ministero dei trasporti, previsto dall'articolo 1 della legge 17 maggio 1999, n. 144.
 
 ## Art. 2. — Riduzione di spesa
 

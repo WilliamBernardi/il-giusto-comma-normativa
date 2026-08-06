@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-10-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -28,6 +28,31 @@ Sulla proposta del Ministro della giustizia e del Ministro dell'interno, di conc
 ## - - LIBRO I Le misure di prevenzione Titolo I LE MISURE DI PREVENZIONE PERSONALI  Capo I Le misure di prevenzione personali applicate dal questore
 
 ## Art. 1. — Soggetti destinatari
+
+1.
+                        
+                            
+                                I provvedimenti previsti dal presente capo si applicano a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coloro che debbano ritenersi, sulla base di elementi di fatto, abitualmente dediti a traffici delittuosi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che per la condotta ed il tenore di vita debba ritenersi, sulla base di elementi di fatto, che vivono abitualmente, anche in parte, con i proventi di attivita' delittuose; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che per il loro comportamento debba ritenersi, sulla base di elementi di fatto ((, comprese le reiterate violazioni del foglio di via obbligatorio di cui all'articolo 2, nonche' dei divieti di frequentazione di determinati luoghi previsti dalla vigente normativa)), che sono dediti alla commissione di reati che offendono o mettono in pericolo l'integrita' fisica o morale dei minorenni, la sanita', la sicurezza o la tranquillita' pubblica.
 
 ## Art. 2. — Foglio di via obbligatorio
 
@@ -64,6 +89,88 @@ Contro il decreto di cui al comma 6-ter e' proponibile ricorso per cassazione. I
 ## - - Capo II Le misure di prevenzione personali applicate dall'autorita' giudiziaria Sezione I Il procedimento applicativo
 
 ## Art. 4. — Soggetti destinatari
+
+1.
+                        
+                            
+                                I provvedimenti previsti dal presente capo si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    agli indiziati di appartenere alle associazioni di cui all'articolo 416-bis c.p.; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai soggetti indiziati di uno dei reati previsti dall'articolo 51, comma 3-bis, del codice di procedura penale ovvero del delitto di cui all'articolo 12-quinquies, comma 1, del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, o del delitto di cui all'articolo 418 del codice penale; (20) 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai soggetti di cui all'articolo 1; (26) 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    agli indiziati di uno dei reati previsti dall'articolo 51, comma 3-quater, del codice di procedura penale e a coloro che, operanti in gruppi o isolatamente, pongano in essere atti preparatori, obiettivamente rilevanti, ovvero esecutivi diretti a sovvertire l'ordinamento dello Stato, con la commissione di uno dei reati previsti dal capo I del titolo VI del libro II del codice penale o dagli articoli 284, 285, 286, 306, 438, 439, 605 e 630 dello stesso codice, nonche' alla commissione dei reati con finalita' di terrorismo anche internazionale ovvero a prendere parte ad un conflitto in territorio estero a sostegno di un'organizzazione che persegue le finalita' terroristiche di cui all'articolo 270-sexies del codice penale; (20) 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    a coloro che abbiano fatto parte di associazioni politiche disciolte ai sensi della legge 20 giugno 1952, n. 645, e nei confronti dei quali debba ritenersi, per il comportamento successivo, che continuino a svolgere una attivita' analoga a quella precedente; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a coloro che compiano atti preparatori, obiettivamente rilevanti, ovvero esecutivi diretti alla ricostituzione del partito fascista ai sensi dell'articolo 1 della legge n. 645 del 1952, in particolare con l'esaltazione o la pratica della violenza; (20) 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fuori dei casi indicati nelle lettere d), e) ed f), siano stati condannati per il delitto di cui all'articolo 421-bis del codice penale o per uno dei delitti previsti nella legge 2 ottobre 1967, n. 895, e negli articoli 8 e seguenti della legge 14 ottobre 1974, n. 497, e successive modificazioni, quando debba ritenersi, per il loro comportamento successivo, che siano proclivi a commettere un reato della stessa specie col fine indicato alla lettera d); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    agli istigatori, ai mandanti e ai finanziatori dei reati indicati nelle lettere precedenti. E' finanziatore colui il quale fornisce somme di denaro o altri beni, conoscendo lo scopo cui sono destinati; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    alle persone indiziate di avere agevolato gruppi o persone che hanno preso parte attiva, in piu' occasioni, alle manifestazioni di violenza di cui all'articolo 6 della legge 13 dicembre 1989, n. 401, nonche' alle persone che, per il loro comportamento, debba ritenersi, anche sulla base della partecipazione in piu' occasioni alle medesime manifestazioni, ovvero della reiterata applicazione nei loro confronti del divieto previsto dallo stesso articolo, che sono dediti alla commissione di reati che mettono in pericolo l'ordine e la sicurezza pubblica, ovvero l'incolumita' delle persone in occasione o a causa dello svolgimento di manifestazioni sportive. 
+
+                                
+                            
+                            
+                                i-bis)
+                                
+                                    ai soggetti indiziati del delitto di cui all'articolo 640-bis o del delitto di cui all'articolo 416 del codice penale, finalizzato alla commissione di taluno dei delitti di cui agli articoli 314, primo comma, 316, 316-bis, 316-ter, 317, 318, 319, 319-ter, 319-quater, 320, 321, 322 e 322-bis del medesimo codice; (20) 
+
+                                
+                            
+                            
+                                i-ter)
+                                
+                                    ai soggetti indiziati dei delitti di cui agli articoli 572 e 612-bis del codice penale ((o dei delitti, consumati o tentati, di cui agli articoli 575, 583, nelle ipotesi aggravate ai sensi dell'articolo 577, primo comma, numero 1, e secondo comma, 583-quinquies e 609-bis del medesimo codice)). (20) 
+ (44)
 
 ---------------
                             AGGIORNAMENTO (20)
@@ -266,6 +373,24 @@ L'obbligo del soggiorno cessa di diritto se la persona obbligata e' sottoposta a
 
 ## Art. 16. — Soggetti destinatari
 
+1.
+                        
+                            
+                                Le disposizioni contenute nel presente titolo si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai soggetti di cui all'articolo 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle persone fisiche e giuridiche segnalate al Comitato per le sanzioni delle Nazioni Unite, o ad altro organismo internazionale competente per disporre il congelamento di fondi o di risorse economiche, quando vi sono fondati elementi per ritenere che i fondi o le risorse possano essere dispersi, occultati o utilizzati per il finanziamento di organizzazioni o attivita' terroristiche, anche internazionali.
+
 Nei confronti dei soggetti di cui all'articolo 4, comma 1, lettera i), la misura di prevenzione patrimoniale della confisca puo' essere applicata relativamente ai beni, nella disponibilita' dei medesimi soggetti, che possono agevolare, in qualsiasi modo, le attivita' di chi prende parte attiva a fatti di violenza in occasione o a causa di manifestazioni sportive. Il sequestro effettuato nel corso di operazioni di polizia dirette alla prevenzione delle predette manifestazioni di violenza e' convalidato a norma dell'articolo 22, comma 2. 
  ((26))
 
@@ -281,6 +406,32 @@ Nei confronti delle persone indicate all'articolo 16 possono essere proposte dal
 Nei casi previsti dall'articolo 4, comma 1, lettere c), i), i-bis) e i-ter), le funzioni e le competenze spettanti al procuratore della Repubblica presso il tribunale del capoluogo del distretto sono attribuite anche al procuratore della Repubblica presso il tribunale nel cui circondario dimora la persona, previo coordinamento con il procuratore della Repubblica presso il tribunale del capoluogo del distretto. Nei medesimi casi, nelle udienze relative ai procedimenti per l'applicazione delle misure di prevenzione, le funzioni di pubblico ministero possono essere esercitate anche dal procuratore della Repubblica presso il tribunale competente.
 
 Salvo quanto previsto al comma 2, nelle udienze relative ai procedimenti per l'applicazione delle misure di prevenzione richieste ai sensi del presente decreto, le funzioni di pubblico ministero sono esercitate dal procuratore della Repubblica di cui al comma 1.
+
+3-bis.
+                        
+                            
+                                Il procuratore della Repubblica presso il tribunale del capoluogo del distretto, attraverso il raccordo informativo con il questore e con il direttore della Direzione investigativa antimafia relativamente alle misure di prevenzione di cui al presente titolo, cura che non si arrechi pregiudizio alle attivita' di indagine condotte anche in altri procedimenti. A tal fine, il questore territorialmente competente e il direttore della Direzione investigativa antimafia sono tenuti a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dare immediata comunicazione dei nominativi delle persone fisiche e giuridiche nei cui confronti sono disposti gli accertamenti personali o patrimoniali previsti dall'articolo 19; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tenere costantemente aggiornato e informato il procuratore della Repubblica presso il tribunale del capoluogo del distretto sullo svolgimento delle indagini; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dare comunicazione ((sintetica)) per iscritto della proposta al procuratore della Repubblica presso il tribunale del capoluogo del distretto almeno dieci giorni prima della sua presentazione al tribunale. ((Il procuratore nei dieci giorni successivi comunica all'autorita' proponente l'eventuale sussistenza di pregiudizi per le indagini preliminari in corso. In tali casi, il procuratore concorda con l'autorita' proponente modalita' per la presentazione congiunta della proposta.)); 
+ d)((LETTERA ABROGATA DAL D.L. 4 OTTOBRE 2018, N. 113, CONVERTITO CON MODIFICAZIONI DALLA L. 1 DICEMBRE 2018, N. 132)).
 
 ## Art. 18. — Applicazione delle misure di prevenzione patrimoniali. Morte del proposto
 
@@ -394,6 +545,24 @@ Dopo la presentazione della proposta, se non e' possibile procedere al sequestro
 
 Quando accerta che taluni beni sono stati fittiziamente intestati o trasferiti a terzi, con il decreto che dispone la confisca il giudice dichiara la nullita' dei relativi atti di disposizione.
 
+2.
+                        
+                            
+                                Ai fini di cui al comma 1, fino a prova contraria si presumono fittizi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i trasferimenti e le intestazioni, anche a titolo oneroso, effettuati nei due anni antecedenti la proposta della misura di prevenzione nei confronti dell'ascendente, del discendente, del coniuge o della persona stabilmente convivente, nonche' dei parenti entro il sesto grado e degli affini entro il quarto grado; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i trasferimenti e le intestazioni, a titolo gratuito o fiduciario, effettuati nei due anni antecedenti la proposta della misura di prevenzione.
+
 ## - - Capo II Le impugnazioni
 
 ## Art. 27. — Comunicazioni e impugnazioni
@@ -426,6 +595,32 @@ Nel caso di annullamento del decreto di confisca con rinvio al tribunale, anche 
 ## - - Capo III La revocazione della confisca
 
 ## Art. 28. — Revocazione della confisca
+
+1.
+                        
+                            
+                                
+                                    ((La revocazione della decisione definitiva sulla confisca di prevenzione puo' essere richiesta, nelle forme previste dagli articoli 630 e seguenti del codice di procedura penale, in quanto compatibili, alla corte di appello individuata secondo i criteri di cui all'articolo 11 dello stesso codice:))
+                                
+                            
+                            
+                                a)
+                                
+                                    in caso di scoperta di prove nuove decisive, sopravvenute alla conclusione del procedimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando i fatti accertati con sentenze penali definitive, sopravvenute o conosciute in epoca successiva alla conclusione del procedimento di prevenzione, escludano in modo assoluto l'esistenza dei presupposti di applicazione della confisca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando la decisione sulla confisca sia stata motivata, unicamente o in modo determinante, sulla base di atti riconosciuti falsi, di falsita' nel giudizio ovvero di un fatto previsto dalla legge come reato.
 
 In ogni caso, la revocazione puo' essere richiesta solo al fine di dimostrare il difetto originario dei presupposti per l'applicazione della misura.
 
@@ -503,6 +698,63 @@ Quando vi sia concreto pericolo che i beni sottoposti al provvedimento di cui al
 ## Art. 34-bis. — (Controllo giudiziario delle aziende)
 
 Quando l'agevolazione prevista dal comma 1 dell'articolo 34 risulta occasionale, il tribunale dispone, anche d'ufficio, il controllo giudiziario delle attivita' economiche e delle aziende di cui al medesimo comma 1, se sussistono circostanze di fatto da cui si possa desumere il pericolo concreto di infiltrazioni mafiose idonee a condizionarne l'attivita'. Nel caso in cui risultino applicate le misure previste dall'articolo 94-bis, il tribunale valuta se adottare in loro sostituzione il provvedimento di cui al comma 2, lettera b).
+
+2.
+                        
+                            
+                                Il controllo giudiziario e' adottato dal tribunale per un periodo non inferiore a un anno e non superiore a tre anni. Con il provvedimento che lo dispone, il tribunale puo': 
+ 
+                            
+                            
+                                a)
+                                
+                                    imporre nei confronti di chi ha la proprieta', l'uso o l'amministrazione dei beni e delle aziende di cui al comma 1 l'obbligo di comunicare al questore e al nucleo di polizia tributaria del luogo di dimora abituale, ovvero del luogo in cui si trovano i beni se si tratta di residenti all'estero, ovvero della sede legale se si tratta di un'impresa, gli atti di disposizione, di acquisto o di pagamento effettuati, gli atti di pagamento ricevuti, gli incarichi professionali, di amministrazione o di gestione fiduciaria ricevuti e gli altri atti o contratti indicati dal tribunale, di valore non inferiore a euro 7.000 o del valore superiore stabilito dal tribunale in relazione al reddito della persona o al patrimonio e al volume d'affari dell'impresa. Tale obbligo deve essere assolto entro dieci giorni dal compimento dell'atto e comunque entro il 31 gennaio di ogni anno per gli atti posti in essere nell'anno precedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nominare un giudice delegato e un amministratore giudiziario, il quale riferisce periodicamente, almeno bimestralmente, gli esiti dell'attivita' di controllo al giudice delegato e al pubblico ministero.
+
+3.
+                        
+                            
+                                Con il provvedimento di cui alla lettera b) del comma 2, il tribunale stabilisce i compiti dell'amministratore giudiziario finalizzati alle attivita' di controllo e puo' imporre l'obbligo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di non cambiare la sede, la denominazione e la ragione sociale, l'oggetto sociale e la composizione degli organi di amministrazione, direzione e vigilanza e di non compiere fusioni o altre trasformazioni, senza l'autorizzazione da parte del giudice delegato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di adempiere ai doveri informativi di cui alla lettera a) del comma 2 nei confronti dell'amministratore giudiziario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    di informare preventivamente l'amministratore giudiziario circa eventuali forme di finanziamento della societa' da parte dei soci o di terzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    di adottare ed efficacemente attuare misure organizzative, anche ai sensi degli articoli 6, 7 e 24-ter del decreto legislativo 8 giugno 2001, n. 231, e successive modificazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    di assumere qualsiasi altra iniziativa finalizzata a prevenire specificamente il rischio di tentativi di infiltrazione o condizionamento mafiosi.
 
 Per verificare il corretto adempimento degli obblighi di cui al comma 3, il tribunale puo' autorizzare gli ufficiali e gli agenti di polizia giudiziaria ad accedere presso gli uffici dell'impresa nonche' presso uffici pubblici, studi professionali, societa', banche e intermediari mobiliari al fine di acquisire informazioni e copia della documentazione ritenute utili. Nel caso in cui venga accertata la violazione di una o piu' prescrizioni ovvero ricorrano i presupposti di cui al comma 1 dell'articolo 34, il tribunale puo' disporre l'amministrazione giudiziaria dell'impresa.
 
@@ -600,6 +852,45 @@ Dalla data del sequestro e sino all'approvazione del programma di cui all'artico
 
 ## Art. 36. — Relazione dell'amministratore giudiziario
 
+1.
+                        
+                            
+                                L'amministratore giudiziario presenta al giudice delegato, entro trenta giorni dalla nomina, una relazione particolareggiata dei beni sequestrati. La relazione contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione, lo stato e la consistenza dei singoli beni ovvero delle singole aziende, nonche' i provvedimenti da adottare per la liberazione dei beni sequestrati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il presumibile valore di mercato dei beni quale stimato dall'amministratore stesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli eventuali diritti di terzi sui beni sequestrati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di sequestro di beni organizzati in azienda, l'indicazione della documentazione reperita e le eventuali difformita' tra gli elementi dell'inventario e quelli delle scritture contabili; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione delle forme di gestione piu' idonee e redditizie dei beni, anche ai fini delle determinazioni che saranno assunte dal tribunale ai sensi dell'articolo 41.
+
 La relazione di cui al comma 1 indica anche le eventuali difformita' tra quanto oggetto della misura e quanto appreso, nonche' l'esistenza di altri beni che potrebbero essere oggetto di sequestro, di cui l'amministratore giudiziario sia venuto a conoscenza.
 
 ((Nella relazione di cui al comma 1, l'amministratore giudiziario illustra altresi' in dettaglio le caratteristiche tecnico-urbanistiche dei beni immobili, evidenziando, in particolare, la sussistenza di eventuali abusi nonche' i possibili impieghi dei cespiti in rapporto ai vigenti strumenti urbanistici generali, anche ai fini delle valutazioni preordinate alla destinazione dei beni. A tale scopo l'amministratore giudiziario formula, se necessario, apposita istanza ai competenti uffici comunali, che la riscontrano entro quarantacinque giorni dalla richiesta dando comunicazione dell'eventuale sussistenza di abusi e della natura degli stessi.
@@ -681,6 +972,45 @@ Se il tribunale non provvede alla confisca dei beni di cui al comma 5-ter, dispo
 
 ## Art. 41. — Gestione delle aziende sequestrate
 
+1.
+                        
+                            
+                                Nel caso in cui il sequestro abbia ad oggetto aziende di cui agli articoli 2555 e seguenti del codice civile, anche per effetto del sequestro avente a oggetto partecipazioni societarie, l'amministratore giudiziario e' scelto nella sezione di esperti in gestione aziendale dell'Albo nazionale degli amministratori giudiziari. Dopo la relazione di cui all'articolo 36, comma 1, l'amministratore giudiziario, entro tre mesi dalla sua nomina, prorogabili a sei mesi per giustificati motivi dal giudice delegato, presenta una relazione, che trasmette anche all'Agenzia, contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli ulteriori dati acquisiti, integrativi di quelli gia' esposti nella relazione di cui all'articolo 36, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esposizione della situazione patrimoniale, economica e finanziaria, con lo stato analitico ed estimativo delle attivita'; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    una dettagliata analisi sulla sussistenza di concrete possibilita' di prosecuzione o di ripresa dell'attivita', tenuto conto del grado di caratterizzazione della stessa con il proposto e i suoi familiari, della natura dell'attivita' esercitata, delle modalita' e dell'ambiente in cui e' svolta, della forza lavoro occupata e di quella necessaria per il regolare esercizio dell'impresa, della capacita' produttiva e del mercato di riferimento nonche' degli oneri correlati al processo di legalizzazione dell'azienda. Nel caso di proposta di prosecuzione o di ripresa dell'attivita' e' allegato un programma contenente la descrizione analitica delle modalita' e dei tempi di adempimento della proposta, che deve essere corredato, previa autorizzazione del giudice delegato, della relazione di un professionista in possesso dei requisiti di cui all'articolo 67, terzo comma, lettera d), del regio decreto 16 marzo 1942, n. 267, e successive modificazioni, che attesti la veridicita' dei dati aziendali e la fattibilita' del programma medesimo, considerata la possibilita' di avvalersi delle agevolazioni e delle misure previste dall'articolo 41-bis del presente decreto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la stima del valore di mercato dell'azienda, tenuto conto degli oneri correlati al processo di legalizzazione della stessa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione delle attivita' esercitabili solo con autorizzazioni, concessioni e titoli abilitativi.
+
 Le disposizioni del comma 4 dell'articolo 36 si applicano anche con riferimento a quanto previsto dalla lettera d) del comma 1 del presente articolo.
 
 Alla proposta di prosecuzione o di ripresa dell'attivita' l'amministratore giudiziario allega l'elenco nominativo dei creditori e di coloro che vantano diritti reali o personali, di godimento o di garanzia, sui beni ai sensi dell'articolo 57, comma 1, specificando i crediti che originano dai rapporti di cui all'articolo 56, quelli che sono collegati a rapporti commerciali essenziali per la prosecuzione dell'attivita' e quelli che riguardano rapporti esauriti, non provati o non funzionali all'attivita' d'impresa. L'amministratore giudiziario allega altresi' l'elenco nominativo delle persone che risultano prestare o avere prestato attivita' lavorativa in favore dell'impresa, specificando la natura dei rapporti di lavoro esistenti nonche' quelli necessari per la prosecuzione dell'attivita'; riferisce in ordine alla presenza di organizzazioni sindacali all'interno dell'azienda alla data del sequestro e provvede ad acquisire loro eventuali proposte sul programma di prosecuzione o di ripresa dell'attivita', che trasmette, con il proprio parere, al giudice delegato. Qualora il sequestro abbia a oggetto partecipazioni societarie che assicurino le maggioranze previste dall'articolo 2359 del codice civile, il tribunale impartisce le direttive sull'eventuale revoca dell'amministratore della societa', che puo' essere nominato, nelle forme previste dal comma 6, nella persona dell'amministratore giudiziario; qualora non sia prevista l'assunzione della qualita' di amministratore della societa', il tribunale determina le modalita' di controllo e di esercizio dei poteri da parte dell'amministratore giudiziario.
@@ -736,6 +1066,105 @@ Qualora il sequestro o la confisca riguardino aziende di straordinario interesse
 8. Entro trenta giorni dalla data di entrata in vigore della presente disposizione, l'Agenzia, con delibera del Consiglio direttivo, adotta, ai sensi dell'articolo 112, comma 4, lettera d), i criteri per l'individuazione delle aziende sequestrate e confiscate di straordinario interesse socio-economico e per la definizione dei piani di valorizzazione))
 
 ## Art. 41-ter. — (Istituzione dei tavoli provinciali permanenti sulle aziende sequestrate e confiscate, presso le prefetture-uffici territoriali del Governo)
+
+1.
+                        
+                            
+                                Al fine di favorire il coordinamento tra le istituzioni, le associazioni indicate nell'articolo 48, comma 3, lettera c), le organizzazioni sindacali e le associazioni dei datori di lavoro piu' rappresentative a livello nazionale, ((il prefetto puo' istituire, presso la prefettura-ufficio territoriale del Governo, un tavolo provinciale sulle aziende sequestrate e confiscate, avente il compito di)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    favorire la continuazione dell'attivita' produttiva e salvaguardare i livelli occupazionali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dare ausilio all'amministratore giudiziario, sulla base delle direttive impartite dal giudice delegato, e all'Agenzia nella fase dell'amministrazione, della gestione e della destinazione delle aziende; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    favorire la collaborazione degli operatori economici del territorio con le aziende sequestrate e confiscate nel percorso di emersione alla legalita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuovere lo scambio di informazioni con gli amministratori giudiziari coinvolti nella gestione delle aziende sequestrate e confiscate, tenendo conto delle disposizioni impartite dal giudice delegato anche al fine di salvaguardare le esigenze del procedimento di confisca; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esprimere un parere non vincolante sulle proposte formulate dall'amministratore giudiziario e dall'Agenzia.
+
+2.
+                        
+                            
+                                Il tavolo provinciale permanente, coordinato e convocato dal prefetto o da un suo delegato, e' composto da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    un rappresentante dell'Agenzia designato dal Consiglio direttivo e individuato, di regola, nel dirigente della prefettura componente del nucleo di supporto di cui all'articolo 112, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un rappresentante del Ministero dello sviluppo economico; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    un rappresentante della regione, designato dal presidente della Giunta regionale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un rappresentante delle associazioni sindacali comparativamente piu' rappresentative a livello nazionale, designato dalle medesime secondo criteri di rotazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un rappresentante delle organizzazioni dei datori di lavoro piu' rappresentative a livello nazionale designato, ogni quattro mesi, dalle medesime secondo criteri di rotazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    un rappresentante della sede territorialmente competente dell'Ispettorato nazionale del lavoro; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un rappresentante delle associazioni individuate dall'articolo 48, comma 3, lettera c), designato dalle medesime secondo criteri di rotazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante della camera di commercio, industria, artigianato e agricoltura.
 
 Il prefetto, ove ne ravvisi l'opportunita', puo' estendere ai rappresentanti degli enti locali la partecipazione al tavolo.
 
@@ -821,6 +1250,24 @@ La restituzione dei beni confiscati, ad eccezione dei beni culturali di cui all'
 
 2. Il comma 1 si applica altresi' quando il bene sia stato venduto))
 
+3.
+                        
+                            
+                                Nei casi di cui ai commi 1 e 2, il tribunale determina il valore del bene e ordina il pagamento della somma, ponendola a carico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del Fondo Unico Giustizia, nel caso in cui il bene sia stato venduto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dell'amministrazione assegnataria, in tutti gli altri casi.
+
 ## Art. 47. — Procedimento di destinazione
 
 La destinazione dei beni immobili e dei beni aziendali e' effettuata con delibera del Consiglio direttivo dell'Agenzia, sulla base della stima del valore risultante dalla relazione di cui all'articolo 36, e da altri atti giudiziari, salvo che sia ritenuta necessaria dall'Agenzia una nuova stima.
@@ -829,9 +1276,74 @@ La destinazione dei beni immobili e dei beni aziendali e' effettuata con deliber
 
 ## Art. 48. — Destinazione dei beni e delle somme
 
+1.
+                        
+                            
+                                L'Agenzia versa al Fondo unico giustizia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le somme di denaro confiscate che non debbano essere utilizzate per la gestione di altri beni confiscati o che non debbano essere utilizzate per il risarcimento delle vittime dei reati di tipo mafioso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le somme ricavate dalla vendita, anche mediante trattativa privata, dei beni mobili, anche registrati, confiscati, compresi i titoli e le partecipazioni societarie, al netto del ricavato della vendita dei beni finalizzata al risarcimento delle vittime dei reati di tipo mafioso. PERIODO SOPPRESSO DALLA L. 24 DICEMBRE 2012, N. 228.
+La vendita delle partecipazioni societarie maggioritarie o totalitarie e' consentita esclusivamente se la societa' e' priva di beni costituiti in azienda ai sensi degli articoli 2555 e seguenti del codice civile o di beni immobili e, comunque, dopo aver assunto le determinazioni previste dai commi seguenti. In ogni caso la vendita delle partecipazioni societarie viene effettuata con modalita' tali da garantire la tutela dei livelli occupazionali preesistenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le somme derivanti dal recupero dei crediti personali. Se la procedura di recupero e' antieconomica, ovvero, dopo accertamenti sulla solvibilita' del debitore svolti anche attraverso gli organi di polizia, il debitore risulti insolvibile, il credito e' annullato con provvedimento del direttore dell'Agenzia.
+
 L'Agenzia versa il 3 per cento del totale delle somme di cui al comma 1 al fondo integrativo statale per la concessione di borse di studio, di cui all'articolo 18 del decreto legislativo 29 marzo 2012, n. 68.
 
 La disposizione del comma 1 non si applica alle somme di denaro e ai proventi derivanti o comunque connessi ai beni aziendali confiscati.
+
+3.
+                        
+                            
+                                I beni immobili sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mantenuti al patrimonio dello Stato per finalita' di giustizia, di ordine pubblico e di protezione civile e, ove idonei, anche per altri usi governativi o pubblici connessi allo svolgimento delle attivita' istituzionali di amministrazioni statali, agenzie fiscali, universita' statali, enti pubblici e istituzioni culturali di rilevante interesse, salvo che si debba procedere alla vendita degli stessi finalizzata al risarcimento delle vittime dei reati di tipo mafioso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mantenuti nel patrimonio dello Stato e, previa autorizzazione del Ministro dell'interno, utilizzati dall'Agenzia per finalita' economiche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trasferiti per finalita' istituzionali o sociali ovvero economiche, con vincolo di reimpiego dei proventi per finalita' sociali, in via prioritaria, al patrimonio indisponibile del comune ove l'immobile e' sito, ovvero al patrimonio indisponibile della provincia, della citta' metropolitana o della regione. Gli enti territoriali provvedono a formare un apposito elenco dei beni confiscati ad essi trasferiti, che viene periodicamente aggiornato con cadenza mensile. L'elenco, reso pubblico nel sito internet istituzionale dell'ente, deve contenere i dati concernenti la consistenza, la destinazione e l'utilizzazione dei beni nonche', in caso di assegnazione a terzi, i dati identificativi del concessionario e gli estremi, l'oggetto e la durata dell'atto di concessione. La mancata pubblicazione comporta responsabilita' dirigenziale ai sensi dell'articolo 46 del decreto legislativo 14 marzo 2013, n. 33. Gli enti territoriali, anche consorziandosi o attraverso associazioni, possono amministrare direttamente il bene o, sulla base di apposita convenzione, assegnarlo in concessione, a titolo gratuito e nel rispetto dei principi di trasparenza, adeguata pubblicita' e parita' di trattamento, a comunita', anche giovanili, ad enti, ad associazioni maggiormente rappresentative degli enti locali, ad organizzazioni di volontariato di cui alla legge 11 agosto 1991, n. 266, a cooperative sociali di cui alla legge 8 novembre 1991, n. 381, o a comunita' terapeutiche e centri di recupero e cura di tossicodipendenti di cui al testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, nonche' alle associazioni di protezione ambientale riconosciute ai sensi dell'articolo 13 della legge 8 luglio 1986, n. 349, e successive modificazioni , ad altre tipologie di cooperative purche' a mutualita' prevalente, fermo restando il requisito della mancanza dello scopo di lucro, e agli operatori dell'agricoltura sociale riconosciuti ai sensi delle disposizioni vigenti nonche' agli Enti parco nazionali e regionali. La convenzione disciplina la durata, l'uso del bene, le modalita' di controllo sulla sua utilizzazione, le cause di risoluzione del rapporto e le modalita' del rinnovo. I beni non assegnati a seguito di procedure di evidenza pubblica possono essere utilizzati dagli enti territoriali per finalita' di lucro e i relativi proventi devono essere reimpiegati esclusivamente per finalita' sociali ovvero per il sostenimento delle spese di manutenzione straordinaria inerenti ai beni confiscati utilizzati per le medesime finalita'. Se entro due anni l'ente territoriale non ha provveduto all'assegnazione o all'utilizzazione del bene, l'Agenzia dispone la revoca del trasferimento ovvero la nomina di un commissario con poteri sostitutivi. Alla scadenza di un anno il sindaco invia al Direttore dell'Agenzia una relazione sullo stato della procedura.La destinazione, l'assegnazione e l'utilizzazione dei beni, nonche' il reimpiego per finalita' sociali dei proventi derivanti dall'utilizzazione per finalita' economiche, sono soggetti a pubblicita' nei siti internet dell'Agenzia e dell'ente utilizzatore o assegnatario, ai sensi del decreto legislativo 14 marzo 2013, n. 33. L'Agenzia revoca la destinazione del bene qualora l'ente destinatario ovvero il soggetto assegnatario non trasmettano i dati nel termine richiesto; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    assegnati, a titolo gratuito, direttamente dall'Agenzia agli enti o alle associazioni indicati alla lettera c), in deroga a quanto previsto dall'articolo 2 della legge 23 dicembre 2009, n. 191, sulla base di apposita convenzione nel rispetto dei principi di trasparenza, adeguata pubblicita' e parita' di trattamento, ove risulti evidente la loro destinazione sociale secondo criteri stabiliti dal Consiglio direttivo dell'Agenzia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    trasferiti prioritariamente al patrimonio indisponibile dell'ente locale o della regione ove l'immobile e' sito, se confiscati per il reato di cui all'articolo 74 del citato testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, qualora richiesti per le finalita' di cui all'articolo 129 dello stesso decreto del Presidente della Repubblica. Se entro due anni l'ente territoriale destinatario non ha provveduto alla destinazione del bene, l'Agenzia dispone la revoca del trasferimento ovvero la nomina di un commissario con poteri sostitutivi.
 
 I proventi derivanti dall'utilizzo dei beni di cui al comma 3, lettera b), affluiscono, al netto delle spese di conservazione ed amministrazione, al Fondo unico giustizia, per essere versati all'apposito capitolo di entrata del bilancio dello Stato e riassegnati allo stato di previsione del Ministero dell'interno al fine di assicurare il potenziamento dell'Agenzia, nonche', per una quota non superiore al 30 per cento, per incrementare i fondi per la contrattazione integrativa anche allo scopo di valorizzare l'apporto del personale dirigenziale e non dirigenziale al potenziamento dell'efficacia ed efficienza dell'azione dell'Agenzia. La misura della quota annua destinata all'incremento dei fondi per la contrattazione integrativa viene definita con decreto del Ministro dell'interno di concerto con il Ministro dell'economia e delle finanze su proposta dell'Agenzia e l'incremento non puo' essere superiore al 15 per cento della componente variabile della retribuzione accessoria in godimento da parte del predetto personale.
 
@@ -840,6 +1352,45 @@ Fermi restando i vincoli connessi al trasferimento nel patrimonio indisponibile 
 I beni di cui al comma 3, di cui non sia possibile effettuare la destinazione o il trasferimento per le finalita' di pubblico interesse ivi contemplate, sono destinati con provvedimento dell'Agenzia alla vendita, osservate, in quanto compatibili, le disposizioni del codice di procedura civile. Qualora l'immobile si trovi nelle condizioni previste per il rilascio del permesso di costruire in sanatoria, l'acquirente dovra' presentare la relativa domanda entro centoventi giorni dal perfezionamento dell'atto di vendita. L'avviso di vendita e' pubblicato nel sito internet dell'Agenzia e dell'avvenuta pubblicazione e' data notizia nel sito internet dell'Agenzia del demanio. La vendita e' effettuata per un corrispettivo non inferiore a quello determinato dalla stima formulata ai sensi dell'articolo 47. Qualora, entro novanta giorni dalla data di pubblicazione dell'avviso di vendita, non pervengano proposte di acquisto per il corrispettivo indicato al precedente periodo, il prezzo minimo della vendita non puo', comunque, essere determinato in misura inferiore all'80 per cento del valore della suddetta stima. Fatto salvo il disposto dei commi 6 e 7 del presente articolo, la vendita e' effettuata al miglior offerente, con esclusione del proposto o di colui che risultava proprietario all'atto dell'adozione della misura penale o di prevenzione, se diverso dal proposto, di soggetti condannati, anche in primo grado, o sottoposti ad indagini connesse o pertinenti al reato di associazione mafiosa o a quello di cui all'articolo 416-bis.1 del codice penale, nonche' dei relativi coniugi o parti dell'unione civile, parenti e affini entro il terzo grado, nonche' persone con essi conviventi.
 L'Agenzia acquisisce, con le modalita' di cui agli articoli 90 e seguenti, l'informazione antimafia, riferita all'acquirente e agli altri soggetti allo stesso riconducibili, indicati al presente comma, affinche' i beni non siano acquistati, anche per interposta persona, da soggetti esclusi ai sensi del periodo che precede, o comunque riconducibili alla criminalita' organizzata, ovvero utilizzando proventi di natura illecita. Si applica, in quanto compatibile, il comma 15. I beni immobili acquistati non possono essere alienati, nemmeno parzialmente, per cinque anni dalla data di trascrizione del contratto di vendita e quelli diversi dai fabbricati sono assoggettati alla stessa disciplina prevista per questi ultimi dall'articolo 12 del decreto-legge 21 marzo 1978, n. 59, convertito, con modificazioni, dalla legge 18 maggio 1978, n. 191. I beni immobili di valore superiore a 400.000 euro sono alienati secondo le procedure previste dalle norme di contabilita' dello Stato.
 
+6.
+                        
+                            
+                                Possono esercitare la prelazione all'acquisto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    cooperative edilizie costituite da personale delle Forze armate o delle Forze di polizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli enti pubblici aventi, tra le altre finalita' istituzionali, anche quella dell'investimento nel settore immobiliare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le associazioni di categoria che assicurano, nello specifico progetto, maggiori garanzie e utilita' per il perseguimento dell'interesse pubblico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le fondazioni bancarie; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli enti territoriali.
+
 La prelazione deve essere esercitata, a pena di decadenza, nei termini stabiliti dall'avviso pubblico di cui al comma 5, salvo recesso qualora la migliore offerta pervenuta non sia ritenuta di interesse.
 
 Nell'ambito delle risorse disponibili a legislazione vigente, i beni mobili di terzi rinvenuti in immobili confiscati, qualora non vengano ritirati dal proprietario nel termine di trenta giorni dalla notificazione dell'invito al ritiro da parte dell'Agenzia, sono alienati a cura della stessa Agenzia anche a mezzo dell'istituto vendite giudiziarie, previa delibera del Consiglio direttivo, mediante pubblicazione per quindici giorni consecutivi del relativo avviso di vendita nel proprio sito internet. Ai fini della destinazione dei proventi derivanti dalla vendita dei beni mobili, si applicano le disposizioni di cui al comma 9. Non si procede alla vendita dei beni che, entro dieci giorni dalla diffusione nel sito informatico, siano richiesti dalle amministrazioni statali o dagli enti territoriali come individuati dal presente articolo. In tale caso, l'Agenzia provvede alla loro assegnazione a titolo gratuito ed alla consegna all'amministrazione richiedente, mediante sottoscrizione di apposito verbale. Al secondo esperimento negativo della procedura di vendita, l'Agenzia puo' procedere all'assegnazione dei beni a titolo gratuito ai soggetti previsti dal comma 3, lettera c), o in via residuale alla loro distruzione.
@@ -847,6 +1398,31 @@ Nell'ambito delle risorse disponibili a legislazione vigente, i beni mobili di t
 Per la destinazione ai sensi del comma 3 dei beni indivisi, oggetto di provvedimento di confisca, l'Agenzia o il partecipante alla comunione promuove incidente di esecuzione ai sensi dell'articolo 666 del codice di procedura penale. Il tribunale, disposti i necessari accertamenti tecnici, adotta gli opportuni provvedimenti per ottenere la divisione del bene. Qualora il bene risulti indivisibile, i partecipanti in buona fede possono chiedere l'assegnazione dell'immobile oggetto di divisione, previa corresponsione del conguaglio dovuto in favore degli aventi diritto, in conformita' al valore determinato dal perito nominato dal tribunale. Quando l'assegnazione e' richiesta da piu' partecipanti alla comunione, si fa luogo alla stessa in favore del partecipante titolare della quota maggiore o anche in favore di piu' partecipanti, se questi la chiedono congiuntamente. Se non e' chiesta l'assegnazione, si fa luogo alla vendita, a cura dell'Agenzia e osservate, in quanto compatibili, le disposizioni del codice di procedura civile o, in alternativa, all'acquisizione del bene per intero al patrimonio dello Stato per le destinazioni di cui al comma 3, e gli altri partecipanti alla comunione hanno diritto alla corresponsione di una somma equivalente al valore determinato dal perito nominato dal tribunale, con salvezza dei diritti dei creditori iscritti e dei cessionari. In caso di acquisizione del bene al patrimonio dello Stato, il tribunale ordina il pagamento delle somme, ponendole a carico del Fondo Unico Giustizia. Qualora il partecipante alla comunione non dimostri la propria buona fede, la relativa quota viene acquisita a titolo gratuito al patrimonio dello Stato ai sensi del primo comma dell'articolo 45.
 
 Le modalita' di attuazione della disposizione di cui al comma 7-ter, ai sensi della quale, in caso di acquisizione del bene al patrimonio dello Stato, il tribunale ordina il pagamento delle somme, ponendole a carico del Fondo unico giustizia, sono stabilite con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro della giustizia.
+
+8.
+                        
+                            
+                                I beni aziendali sono mantenuti al patrimonio dello Stato e destinati, con provvedimento dell'Agenzia che ne disciplina le modalita' operative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'affitto, quando vi siano fondate prospettive di continuazione o di ripresa dell'attivita' produttiva, a titolo oneroso, a societa' e ad imprese pubbliche o private, ovvero in comodato, senza oneri a carico dello Stato, a cooperative di lavoratori dipendenti dell'impresa confiscata. Nella scelta dell'affittuario o del comodatario sono privilegiate le soluzioni che garantiscono il mantenimento dei livelli occupazionali. I beni non possono essere destinati all'affitto e al comodato alle cooperative di lavoratori dipendenti dell'impresa confiscata se taluno dei relativi soci e' parente, coniuge, affine o convivente con il destinatario della confisca, ovvero nel caso in cui nei suoi confronti sia stato adottato taluno dei provvedimenti indicati nell'articolo 15, commi 1 e 2, della legge 19 marzo 1990, n. 55; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alla vendita, per un corrispettivo non inferiore a quello determinato dalla stima eseguita dall'Agenzia, a soggetti che ne abbiano fatto richiesta, qualora vi sia una maggiore utilita' per l'interesse pubblico o qualora la vendita medesima sia finalizzata al risarcimento delle vittime dei reati di tipo mafioso. Nel caso di vendita disposta alla scadenza del contratto di affitto dei beni, l'affittuario puo' esercitare il diritto di prelazione entro trenta giorni dalla comunicazione della vendita del bene da parte dell'Agenzia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla liquidazione, qualora vi sia una maggiore utilita' per l'interesse pubblico o qualora la liquidazione medesima sia finalizzata al risarcimento delle vittime dei reati di tipo mafioso, con le medesime modalita' di cui alla lettera b).
 
 I beni aziendali di cui al comma 8, ove si tratti di immobili facenti capo a societa' immobiliari, possono essere altresi' trasferiti, per le finalita' istituzionali o sociali di cui al comma 3, lettere c) e d), in via prioritaria al patrimonio del comune ove il bene e' sito, ovvero al patrimonio della provincia o della regione, qualora tale destinazione non pregiudichi la prosecuzione dell'attivita' d'impresa o i diritti dei creditori dell'impresa stessa. Con decreto del Ministro dell'economia e delle finanze, di concerto con i Ministri dell'interno e della giustizia, sono determinate le modalita' attuative della disposizione di cui al precedente periodo in modo da assicurare un utilizzo efficiente dei suddetti beni senza pregiudizio per le finalita' cui sono destinati i relativi proventi e senza nuovi o maggiori oneri per la finanza pubblica. Il trasferimento di cui al primo periodo e' disposto, conformemente al decreto di cui al secondo periodo, con apposita delibera dell'Agenzia.
 
@@ -925,6 +1501,38 @@ Il decreto di sequestro di cui all'articolo 20, il decreto di confisca di cui al
 ## - - Titolo IV LA TUTELA DEI TERZI E I RAPPORTI CON LE PROCEDURE CONCORSUALI Capo I Disposizioni generali
 
 ## Art. 52. — Diritti dei terzi
+
+1.
+                        
+                            
+                                La confisca non pregiudica i diritti di credito dei terzi che risultano da atti aventi data certa anteriore al sequestro, nonche' i diritti reali di garanzia costituiti in epoca anteriore al sequestro, ove ricorrano le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che il proposto non disponga di altri beni sui quali esercitare la garanzia patrimoniale idonea al soddisfacimento del credito, salvo che per i crediti assistiti da cause legittime di prelazione su beni sequestrati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che il credito non sia strumentale all'attivita' illecita o a quella che ne costituisce il frutto o il reimpiego, sempre che il creditore dimostri la buona fede e l'inconsapevole affidamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel caso di promessa di pagamento o di ricognizione di debito, che sia provato il rapporto fondamentale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel caso di titoli di credito, che il portatore provi il rapporto fondamentale e quello che ne legittima il possesso.
 
 I crediti di cui al comma 1 devono essere accertati secondo le disposizioni contenute negli articoli 57, 58 e 59 e concorrono al riparto sul valore dei beni o dei compendi aziendali ai quali si riferiscono in base alle risultanze della contabilita' separata di cui all'articolo 37, comma 5.
 
@@ -1007,6 +1615,38 @@ Il giudice delegato fissa per l'esame delle domande tardive di cui all'articolo 
 ## Art. 58. — Domanda del creditore
 
 I creditori di cui all'articolo 52 presentano al giudice domanda di ammissione del credito.
+
+2.
+                        
+                            
+                                La domanda di cui al comma 1 contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le generalita' del creditore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la determinazione del credito di cui si chiede l'ammissione allo stato passivo ovvero la descrizione del bene su cui si vantano diritti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esposizione dei fatti e degli elementi di diritto che costituiscono la ragione della domanda, con i relativi documenti giustificativi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'eventuale indicazione del titolo di prelazione, nonche' la descrizione del bene sul quale la prelazione si esercita, se questa ha carattere speciale.
 
 Il creditore elegge domicilio nel comune in cui ha sede il tribunale procedente. E' facolta' del creditore indicare, quale modalita' di notificazione e di comunicazione, la trasmissione per posta elettronica o per telefax ed e' onere dello stesso comunicare alla procedura ogni variazione del domicilio o delle predette modalita'; in difetto, tutte le notificazioni e le comunicazioni sono eseguite mediante deposito in cancelleria.
 
@@ -1159,6 +1799,66 @@ L'applicazione delle misure di prevenzione di cui al libro I, titolo I, importa 
 L'applicazione delle misure di prevenzione di cui al libro I, titolo II, importa gli effetti dalla legge espressamente indicati.
 
 ## Art. 67. — Effetti delle misure di prevenzione
+
+1.
+                        
+                            
+                                Le persone alle quali sia stata applicata con provvedimento definitivo una delle misure di prevenzione previste dal libro I, titolo I, capo II non possono ottenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    licenze o autorizzazioni di polizia e di commercio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessioni di acque pubbliche e diritti ad esse inerenti nonche' concessioni di beni demaniali allorche' siano richieste per l'esercizio di attivita' imprenditoriali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concessioni di costruzione e gestione di opere riguardanti la pubblica amministrazione e concessioni di servizi pubblici; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    iscrizioni negli elenchi di appaltatori o di fornitori di opere, beni e servizi riguardanti la pubblica amministrazione, nei registri della camera di commercio per l'esercizio del commercio all'ingrosso e nei registri di commissionari astatori presso i mercati annonari all'ingrosso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attestazioni di qualificazione per eseguire lavori pubblici; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    altre iscrizioni o provvedimenti a contenuto autorizzatorio, concessorio, o abilitativo per lo svolgimento di attivita' imprenditoriali, comunque denominati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    contributi, finanziamenti o mutui agevolati ed altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati da parte dello Stato, di altri enti pubblici o delle Comunita' europee, per lo svolgimento di attivita' imprenditoriali; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    licenze per detenzione e porto d'armi, fabbricazione, deposito, vendita e trasporto di materie esplodenti.
 
 Il provvedimento definitivo di applicazione della misura di prevenzione determina la decadenza di diritto dalle licenze, autorizzazioni, concessioni, iscrizioni, attestazioni, abilitazioni ed erogazioni di cui al comma 1, nonche' il divieto di concludere contratti pubblici di lavori, servizi e forniture, di cottimo fiduciario e relativi subappalti e subcontratti, compresi i cottimi di qualsiasi tipo, i noli a caldo e le forniture con posa in opera.
 Le licenze, le autorizzazioni e le concessioni sono ritirate e le iscrizioni sono cancellate ed e' disposta la decadenza delle attestazioni a cura degli organi competenti.
@@ -1352,6 +2052,45 @@ Le pubbliche amministrazioni e gli enti pubblici, anche costituiti in stazioni u
 
 La disposizione di cui al comma 1 si applica ai contraenti generali di cui all'articolo 176 del decreto legislativo 12 aprile 2006, n. 163, di seguito denominati «contraente generale».
 
+3.
+                        
+                            
+                                La documentazione di cui al comma 1 non e' comunque richiesta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per i rapporti fra i soggetti pubblici di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per i rapporti fra i soggetti pubblici di cui alla lettera a) ed altri soggetti, anche privati, i cui organi rappresentativi e quelli aventi funzioni di amministrazione e di controllo sono sottoposti, per disposizione di legge o di regolamento, alla verifica di particolari requisiti di onorabilita' tali da escludere la sussistenza di una delle cause di sospensione, di decadenza o di divieto di cui all'articolo 67; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il rilascio o rinnovo delle autorizzazioni o licenze di polizia di competenza delle autorita' nazionali e provinciali di pubblica sicurezza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la stipulazione o approvazione di contratti e per la concessione di erogazioni a favore di chi esercita attivita' agricole o professionali, non organizzate in forma di impresa, nonche' a favore di chi esercita attivita' artigiana in forma di impresa individuale e attivita' di lavoro autonomo anche intellettuale in forma individuale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i provvedimenti, ivi inclusi quelli di erogazione, gli atti ed i contratti il cui valore complessivo non supera i 150.000 euro.
+
 La documentazione di cui al comma 1 e' sempre prevista nelle ipotesi di concessione di terreni agricoli e zootecnici demaniali che ricadono nell'ambito dei regimi di sostegno previsti dalla politica agricola comune, a prescindere dal loro valore complessivo, nonche' su tutti i terreni agricoli, a qualunque titolo acquisiti, che usufruiscono di fondi ((europei per un importo superiore a 25.000 euro o di fondi)) statali per un importo superiore a 5.000 euro.(22) (25) (30) (36)
 
 ---------------
@@ -1389,11 +2128,132 @@ La comunicazione antimafia consiste nell'attestazione della sussistenza o meno d
 
 L'informazione antimafia consiste nell'attestazione della sussistenza o meno di una delle cause di decadenza, di sospensione o di divieto di cui all'articolo 67, nonche', fatto salvo quanto previsto dall'articolo 91, comma 6, nell'attestazione della sussistenza o meno di eventuali tentativi di infiltrazione mafiosa tendenti a condizionare le scelte e gli indirizzi delle societa' o imprese interessate indicati nel comma 4.
 
+4.
+                        
+                            
+                                Le situazioni relative ai tentativi di infiltrazione mafiosa che danno luogo all'adozione dell'informazione antimafia interdittiva di cui al comma 3 sono desunte: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dai provvedimenti che dispongono una misura cautelare o il giudizio, ovvero che recano una condanna anche non definitiva per taluni dei delitti di cui agli articoli 353, 353-bis, 603-bis, 629, 640-bis, 644, 648-bis, 648-ter del codice penale, dei delitti di cui all'articolo 51, comma 3-bis, del codice di procedura penale e di cui all'articolo 12-quinquies del decreto-legge 8 giugno 1992, n. 306 convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356 ((, nonche' dei delitti di cui agli articoli 2, 3 e 8 del decreto legislativo 10 marzo 2000, n. 74)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dalla proposta o dal provvedimento di applicazione di taluna delle misure di prevenzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    salvo che ricorra l'esimente di cui all'articolo 4 della legge 24 novembre 1981, n. 689, dall'omessa denuncia all'autorita' giudiziaria dei reati di cui agli articoli 317 e 629 del codice penale, aggravati ai sensi dell'articolo 7 del decreto-legge 13 maggio 1991, n. 152, convertito, con modificazioni, dalla legge 12 luglio 1991, n. 203, da parte dei soggetti indicati nella lettera b) dell'articolo 38 del decreto legislativo 12 aprile 2006, n. 163, anche in assenza nei loro confronti di un procedimento per l'applicazione di una misura di prevenzione o di una causa ostativa ivi previste; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dagli accertamenti disposti dal prefetto anche avvalendosi dei poteri di accesso e di accertamento delegati dal Ministro dell'interno ai sensi del decreto-legge 6 settembre 1982, n. 629, convertito, con modificazioni, dalla legge 12 ottobre 1982, n. 726, ovvero di quelli di cui all'articolo 93 del presente decreto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dagli accertamenti da effettuarsi in altra provincia a cura dei prefetti competenti su richiesta del prefetto procedente ai sensi della lettera d); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dalle sostituzioni negli organi sociali, nella rappresentanza legale della societa' nonche' nella titolarita' delle imprese individuali ovvero delle quote societarie, effettuate da chiunque conviva stabilmente con i soggetti destinatari dei provvedimenti di cui alle lettere a) e b), con modalita' che, per i tempi in cui vengono realizzati, il valore economico delle transazioni, il reddito dei soggetti coinvolti nonche' le qualita' professionali dei subentranti, denotino l'intento di eludere la normativa sulla documentazione antimafia.
+
 La circostanza di cui al comma 4, lettera c), deve emergere dagli indizi a base della richiesta di rinvio a giudizio formulata nei confronti dell'imputato e deve essere comunicata, unitamente alle generalita' del soggetto che ha omesso la predetta denuncia, dal procuratore della Repubblica procedente alla prefettura della provincia in cui i soggetti richiedenti di cui all'articolo 83, commi 1 e 2, hanno sede ovvero in cui hanno residenza o sede le persone fisiche, le imprese, le associazioni, le societa' o i consorzi interessati ai contratti e subcontratti di cui all'articolo 91, comma 1, lettere a) e c) o che siano destinatari degli atti di concessione o erogazione di cui alla lettera b) dello stesso comma 1.
 
 ## Art. 85. — Soggetti sottoposti alla verifica antimafia
 
 La documentazione antimafia, se si tratta di imprese individuali, deve riferirsi al titolare ed al direttore tecnico, ove previsto.
+
+2.
+                        
+                            
+                                La documentazione antimafia, se si tratta di associazioni, imprese, societa', ((consorzi, raggruppamenti temporanei di imprese e contratti di rete)), deve riferirsi, oltre che al direttore tecnico, ove previsto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per le associazioni, a chi ne ha la legale rappresentanza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per le societa' di capitali, anche consortili ai sensi dell'articolo 2615-ter del codice civile, per le societa' cooperative, per i consorzi di cooperative, per i consorzi di cui al libro quinto, titolo X, capo II, sezione II, del codice civile, al legale rappresentante e agli eventuali altri componenti l'organo di amministrazione nonche' a ciascuno dei consorziati che nei consorzi e nelle societa' consortili detenga, anche indirettamente, una partecipazione pari almeno al 5 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le societa' di capitali, anche al socio di maggioranza in caso di societa' con un numero di soci pari o inferiore a quattro, ovvero al socio in caso di societa' con socio unico; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i consorzi di cui all'articolo 2602 del codice civile e per i gruppi europei di interesse economico, a chi ne ha la rappresentanza e agli imprenditori o societa' consorziate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per le societa' semplice e in nome collettivo, a tutti i soci; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per le societa' in accomandita semplice, ai soci accomandatari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per le societa' di cui all'articolo 2508 del codice civile, a coloro che le rappresentano stabilmente nel territorio dello Stato; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per i raggruppamenti temporanei di imprese, alle imprese costituenti il raggruppamento anche se aventi sede all'estero, secondo le modalita' indicate nelle lettere precedenti; 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    
+                                        ((per i contratti di rete, alle imprese aderenti al contratto, secondo le modalita' indicate nelle lettere precedenti, e, ove presente, all'organo comune)); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    per le societa' personali ai soci persone fisiche delle societa' personali o di capitali che ne siano socie.
 
 Oltre a quanto previsto dal precedente comma 2, per le associazioni e societa' di qualunque tipo, anche prive di personalita' giuridica, la documentazione antimafia e' riferita anche ai soggetti membri del collegio sindacale o, nei casi contemplati dall'articolo 2477 del codice civile, al sindaco, nonche' ai soggetti che svolgono i compiti di vigilanza di cui all'articolo 6, comma 1, lettera b) del decreto legislativo 8 giugno 2001, n. 231.
 
@@ -1424,6 +2284,24 @@ I soggetti di cui all'articolo 83, commi 1 e 2, che acquisiscono la comunicazion
 ## Art. 87. — Competenza al rilascio della comunicazione antimafia
 
 La comunicazione antimafia e' acquisita mediante consultazione della banca dati nazionale unica da parte dei soggetti di cui all'articolo 97, comma 1, debitamente autorizzati, salvo i casi di cui all'articolo 88, commi 2, 3 e 3-bis.
+
+2.
+                        
+                            
+                                Nei casi di cui all'articolo 88, commi 2, 3 e 3-bis, la comunicazione antimafia e' rilasciata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal prefetto della provincia in cui le persone fisiche, le imprese, le associazioni o i consorzi risiedono o hanno la sede legale ovvero dal prefetto della provincia in cui e' stabilita una sede secondaria con rappresentanza stabile nel territorio dello Stato per le societa' di cui all'articolo 2508 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal prefetto della provincia in cui i soggetti richiedenti di cui all'articolo 83, commi 1 e 2, hanno sede per le societa' costituite all'estero, prive di una sede secondaria con rappresentanza stabile nel territorio dello Stato.
 
 ((2-bis. Il cambiamento della sede legale o della sede secondaria con rappresentanza del soggetto sottoposto a verifica, successivo alla richiesta della pubblica amministrazione interessata, non comporta il mutamento della competenza del prefetto cui spetta il rilascio della comunicazione antimafia, come determinata ai sensi del comma 2))
 
@@ -1461,6 +2339,24 @@ La comunicazione antimafia interdittiva e' comunicata dal prefetto, entro cinque
 
 Fuori dei casi in cui e' richiesta l'informazione antimafia ((e salvo quanto previsto dall'articolo 88, comma 4-bis)), i contratti e subcontratti relativi a lavori, servizi o forniture dichiarati urgenti ed i provvedimenti di rinnovo conseguenti a provvedimenti gia' disposti, sono stipulati, autorizzati o adottati previa acquisizione di apposita dichiarazione con la quale l'interessato attesti che nei propri confronti non sussistono le cause di divieto, di decadenza o di sospensione di cui all'articolo 67. La dichiarazione deve essere sottoscritta con le modalita' di cui all'articolo 38 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
+2.
+                        
+                            
+                                La predetta dichiarazione e' resa dall'interessato anche quando gli atti e i provvedimenti della pubblica amministrazione riguardano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' private, sottoposte a regime autorizzatorio, che possono essere intraprese su segnalazione certificata di inizio attivita' da parte del privato alla pubblica amministrazione competente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' private sottoposte alla disciplina del silenzio-assenso, indicate nella tabella C annessa al regolamento approvato con decreto del Presidente della Repubblica 26 aprile 1992, n. 300, e successive modificazioni.
+
 ## Art. 89-bis. — (( (Accertamento di tentativi di infiltrazione mafiosa in esito alla richiesta di comunicazione antimafia).))
 
 ((1.Quando in esito alle verifiche di cui all'articolo 88, comma 2, venga accertata la sussistenza di tentativi di infiltrazione mafiosa, il prefetto adotta comunque un'informazione antimafia interdittiva e ne da' comunicazione ai soggetti richiedenti di cui all'articolo 83, commi 1 e 2, senza emettere la comunicazione antimafia. 
@@ -1474,11 +2370,54 @@ Fuori dei casi in cui e' richiesta l'informazione antimafia ((e salvo quanto pre
 
 L'informazione antimafia e' conseguita mediante consultazione della banca dati nazionale unica da parte dei soggetti di cui all'articolo 97, comma 1, debitamente autorizzati, salvo i casi di cui all'articolo 92, commi 2 e 3.
 
+2.
+                        
+                            
+                                Nei casi di cui all'articolo 92, commi 2 e 3, l'informazione antimafia e' rilasciata: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal prefetto della provincia in cui le persone fisiche, le imprese, le associazioni o i consorzi risiedono o hanno la sede legale ovvero dal prefetto della provincia in cui e' stabilita una sede secondaria con rappresentanza stabile nel territorio dello Stato per le societa' di cui all'articolo 2508 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal prefetto della provincia in cui i soggetti richiedenti di cui all'articolo 83, commi 1 e 2, hanno sede per le societa' costituite all'estero, prive di una sede secondaria con rappresentanza stabile nel territorio dello Stato.
+
 ))
 
 Ai fini del rilascio dell'informazione antimafia le prefetture usufruiscono del collegamento alla ((banca dati nazionale unica)) di cui al capo V.
 
 ## Art. 91. — Informazione antimafia
+
+1.
+                        
+                            
+                                I soggetti di cui all'articolo 83, commi 1 e 2, devono acquisire l'informazione di cui all'articolo 84, comma 3, prima di stipulare, approvare o autorizzare i contratti e subcontratti, ovvero prima di rilasciare o consentire i provvedimenti indicati nell'articolo 67, il cui valore sia: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pari o superiore a quello determinato dalla legge in attuazione delle direttive comunitarie in materia di opere e lavori pubblici, servizi pubblici e pubbliche forniture, indipendentemente dai casi di esclusione ivi indicati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    superiore a 150.000 euro per le concessioni di acque pubbliche o di beni demaniali per lo svolgimento di attivita' imprenditoriali, ovvero per la concessione di contributi, finanziamenti e agevolazioni su mutuo o altre erogazioni dello stesso tipo per lo svolgimento di attivita' imprenditoriali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    superiore a 150.000 euro per l'autorizzazione di subcontratti, cessioni, cottimi, concernenti la realizzazione di opere o lavori pubblici o la prestazione di servizi o forniture pubbliche.
 
 L'informazione antimafia e' sempre richiesta nelle ipotesi di concessione di terreni agricoli demaniali che ricadono nell'ambito dei regimi di sostegno previsti dalla politica agricola comune, a prescindere dal loro valore complessivo, nonche' su tutti i terreni agricoli, a qualunque titolo acquisiti, che usufruiscono di fondi europei per un importo superiore a ((25.000)) euro. (22) (25) (30) (36)
 
@@ -1486,11 +2425,124 @@ E' vietato, a pena di nullita', il frazionamento dei contratti, delle concession
 
 La richiesta dell'informazione antimafia deve essere effettuata attraverso la banca dati nazionale unica al momento dell'aggiudicazione del contratto ovvero trenta giorni prima della stipula del subcontratto.
 
+4.
+                        
+                            
+                                L'informazione antimafia e' richiesta dai soggetti interessati di cui all'articolo 83, commi 1 e 2, che devono indicare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione dell'amministrazione, ente, azienda, societa' o impresa che procede all'appalto, concessione o erogazione o che e' tenuta ad autorizzare il subcontratto, la cessione o il cottimo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'oggetto e il valore del contratto, subcontratto, concessione o erogazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli estremi della deliberazione dell'appalto o della concessione ovvero del titolo che legittima l'erogazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le complete generalita' dell'interessato e, ove previsto, del direttore tecnico o, se trattasi di societa', impresa, associazione o consorzio, la denominazione e la sede, nonche' le complete generalita' degli altri soggetti di cui all'articolo 85; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    LETTERA SOPPRESSA DAL D.LGS. 15 NOVEMBRE 2012, N. 218.
+
 Il prefetto competente estende gli accertamenti pure ai soggetti che risultano poter determinare in qualsiasi modo le scelte o gli indirizzi dell'impresa. Per le imprese costituite all'estero e prive di sede secondaria nel territorio dello Stato, il prefetto svolge accertamenti nei riguardi delle persone fisiche che esercitano poteri di amministrazione, di rappresentanza o di direzione. A tal fine, il prefetto verifica l'assenza delle cause di decadenza, di sospensione o di divieto, di cui all'articolo 67, e accerta se risultano elementi dai quali sia possibile desumere la sussistenza di tentativi di infiltrazione mafiosa, anche attraverso i collegamenti informatici di cui all'articolo 98, comma 3. Il prefetto, anche sulla documentata richiesta dell'interessato, aggiorna l'esito dell'informazione al venir meno delle circostanze rilevanti ai fini dell'accertamento dei tentativi di infiltrazione mafiosa.
 
 Il prefetto puo', altresi', desumere il tentativo di infiltrazione mafiosa da provvedimenti di condanna anche non definitiva per reati strumentali all'attivita' delle organizzazioni criminali unitamente a concreti elementi da cui risulti che l'attivita' d'impresa possa, anche in modo indiretto, agevolare le attivita' criminose o esserne in qualche modo condizionata, nonche' dall'accertamento delle violazioni degli obblighi di tracciabilita' dei flussi finanziari di cui all'articolo 3 della legge 13 agosto 2010, n. 136, commesse con la condizione della reiterazione prevista dall'articolo 8-bis della legge 24 novembre 1981, n. 689. In tali casi, entro il termine di cui all'articolo 92, rilascia l'informazione antimafia interdittiva.
 
 Con regolamento, adottato con decreto del Ministro dell'interno, di concerto con il Ministro della giustizia, con il Ministro delle infrastrutture e dei trasporti e con il Ministro dello sviluppo economico, ai sensi dell'articolo 17, comma 3, della legge n. 400 del 1988, sono individuate le diverse tipologie di attivita' suscettibili di infiltrazione mafiosa nell'attivita' di impresa per le quali, in relazione allo specifico settore d'impiego e alle situazioni ambientali che determinano un maggiore rischio di infiltrazione mafiosa, e' sempre obbligatoria l'acquisizione della documentazione indipendentemente dal valore del contratto, subcontratto, concessione, erogazione o provvedimento di cui all'articolo 67.
+
+7-bis.
+                        
+                            
+                                Ai fini dell'adozione degli ulteriori provvedimenti di competenza di altre amministrazioni, l'informazione antimafia interdittiva, anche emessa in esito all'esercizio dei poteri di accesso, e' tempestivamente comunicata anche in via telematica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla Direzione nazionale antimafia e ai soggetti di cui agli articoli 5, comma 1, e 17, comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al soggetto di cui all'articolo 83, commi 1 e 2, che ha richiesto il rilascio dell'informazione antimafia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla camera di commercio del luogo dove ha sede legale l'impresa oggetto di accertamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al prefetto che ha disposto l'accesso, ove sia diverso da quello che ha adottato l'informativa antimafia interdittiva; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'osservatorio centrale appalti pubblici, presso la direzione investigativa antimafia; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'osservatorio dei contratti pubblici relativi ai lavori, servizi e forniture istituito presso l'Autorita' per la vigilanza sui contratti pubblici, ai fini dell'inserimento nel casellario informatico di cui all'articolo 7, comma 10, del decreto legislativo 12 aprile 2006, n. 163, e nella Banca dati nazionale dei contratti pubblici di cui all'articolo 62-bis del decreto legislativo 7 marzo 2005, n. 82; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'Autorita' garante della concorrenza e del mercato per le finalita' previste dall'articolo 5-ter del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    al Ministero delle infrastrutture e trasporti; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    al Ministero dello sviluppo economico; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    agli uffici delle Agenzie delle entrate, competenti per il luogo dove ha sede legale l'impresa nei cui confronti e' stato richiesto il rilascio dell'informazione antimafia.
 
 --------------
                             AGGIORNAMENTO (22)
@@ -1517,6 +2569,24 @@ In tali casi l'informazione antimafia liberatoria attesta che la stessa e' emess
 Fermo restando quanto previsto dall'articolo 91, comma 6, quando dalla consultazione della banca dati nazionale unica emerge la sussistenza di cause di decadenza, di sospensione o di divieto di cui all'articolo 67 o di un tentativo di infiltrazione mafiosa di cui all'articolo 84, comma 4, il prefetto dispone le necessarie verifiche e rilascia l'informazione antimafia interdittiva entro trenta giorni dalla data della consultazione. Quando le verifiche disposte siano di particolare complessita', il prefetto ne da' comunicazione senza ritardo all'amministrazione interessata, e fornisce le informazioni acquisite nei successivi quarantacinque giorni. Il prefetto procede con le stesse modalita' quando la consultazione della banca dati nazionale unica e' eseguita per un soggetto che risulti non censito.
 
 Il prefetto, nel caso in cui, sulla base degli esiti delle verifiche disposte ai sensi del comma 2, ritenga sussistenti i presupposti per l'adozione dell'informazione antimafia interdittiva ovvero per procedere all'applicazione delle misure di cui all'articolo 94-bis, e non ricorrano particolari esigenze di celerita' del procedimento, ne da' tempestiva comunicazione al soggetto interessato, indicando gli elementi sintomatici dei tentativi di infiltrazione mafiosa. Con tale comunicazione e' assegnato un termine non superiore a venti giorni per presentare osservazioni scritte, eventualmente corredate da documenti, nonche' per richiedere l'audizione, da effettuare secondo le modalita' previste dall'articolo 93, commi 7, 8 e 9. In ogni caso, non possono formare oggetto della comunicazione di cui al presente comma elementi informativi il cui disvelamento sia idoneo a pregiudicare procedimenti amministrativi o attivita' processuali in corso, ovvero l'esito di altri accertamenti finalizzati alla prevenzione delle infiltrazioni mafiose. La predetta comunicazione sospende, con decorrenza dalla relativa data di invio, il termine di cui all'articolo 92, comma 2. La procedura del contraddittorio si conclude entro sessanta giorni dalla data di ricezione della predetta comunicazione.
+
+2-ter.
+                        
+                            
+                                Al termine della procedura in contraddittorio di cui al comma 2-bis, il prefetto, ove non proceda al rilascio dell'informazione antimafia liberatoria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dispone l'applicazione delle misure di cui all'articolo 94-bis, dandone comunicazione, entro cinque giorni, all'interessato secondo le modalita' stabilite dall'articolo 76, comma 6, del decreto legislativo 18 aprile 2016, n. 50, qualora gli elementi sintomatici dei tentativi di infiltrazione mafiosa siano riconducibili a situazioni di agevolazione occasionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta l'informazione antimafia interdittiva, procedendo alla comunicazione all'interessato entro il termine e con le modalita' di cui alla lettera a), nel caso di sussistenza di tentativi di infiltrazione mafiosa. Il prefetto, adottata l'informazione antimafia interdittiva ai sensi della presente lettera, verifica altresi' la sussistenza dei presupposti per l'applicazione delle misure di cui all'articolo 32, comma 10, del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114 e, in caso positivo, ne informa tempestivamente il Presidente dell'Autorita' nazionale anticorruzione.
 
 Nel periodo tra la ricezione della comunicazione di cui al comma 2-bis e la conclusione della procedura in contraddittorio, il cambiamento di sede, di denominazione, della ragione o dell'oggetto sociale, della composizione degli organi di amministrazione, direzione e vigilanza, la sostituzione degli organi sociali, della rappresentanza legale della societa' nonche' della titolarita' delle imprese individuali ovvero delle quote societarie, il compimento di fusioni o altre trasformazioni o comunque qualsiasi variazione dell'assetto sociale, organizzativo, gestionale e patrimoniale delle societa' e imprese interessate dai tentativi di infiltrazione ((mafiosa possono)) essere oggetto di valutazione ai fini dell'adozione dell'informazione interdittiva antimafia.
 
@@ -1573,6 +2643,45 @@ Le disposizioni di cui ai commi 2 e 3 si applicano anche nel caso in cui emergan
 
 ## Art. 94-bis. — (Misure amministrative di prevenzione collaborativa applicabili in caso di agevolazione occasionale)
 
+1.
+                        
+                            
+                                Il prefetto, quando accerta che i tentativi di infiltrazione mafiosa sono riconducibili a situazioni di agevolazione occasionale, prescrive all'impresa, societa' o associazione interessata, con provvedimento motivato, l'osservanza, per un periodo non inferiore a sei mesi e non superiore a dodici mesi, di una o piu' delle seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adottare ed efficacemente attuare misure organizzative, anche ai sensi degli articoli 6, 7 e 24-ter del decreto legislativo 8 giugno 2001, n. 231, atte a rimuovere e prevenire le cause di agevolazione occasionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comunicare al gruppo interforze istituito presso la prefettura competente per il luogo di sede legale o di residenza, entro quindici giorni dal loro compimento, gli atti di disposizione, di acquisto o di pagamento effettuati, gli atti di pagamento ricevuti, gli incarichi professionali conferiti, di amministrazione o di gestione fiduciaria ricevuti, di valore ((non inferiore a 5.000 euro)) o di valore superiore stabilito dal prefetto, sentito il predetto gruppo interforze, in relazione al reddito della persona ((o al patrimonio e al volume di affari)) dell'impresa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per le societa' di capitali o di persone, comunicare al gruppo interforze ((i finanziamenti, in qualsiasi forma, eventualmente erogati)) da parte dei soci o di terzi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunicare al gruppo interforze i contratti di associazione in partecipazione stipulati; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    utilizzare un conto corrente dedicato, anche in via non esclusiva, per gli atti di pagamento e riscossione di cui alla lettera b), nonche' per i finanziamenti di cui alla lettera c), osservando, per i pagamenti previsti dall'articolo 3, comma 2, della legge 13 agosto 2010, n. 136, le modalita' indicate nella stessa norma.
+
 Il prefetto, in aggiunta alle misure di cui al comma 1, puo' nominare, anche d'ufficio, uno o piu' esperti, in numero comunque non superiore a tre, individuati nell'albo di cui all'articolo 35, comma 2-bis, con il compito di svolgere funzioni di supporto finalizzate all'attuazione delle misure di prevenzione collaborativa. Agli esperti di cui al primo periodo spetta un compenso, ((determinato)) con il decreto di nomina, non superiore al 50 per cento di quello liquidabile sulla base dei criteri stabiliti dal decreto di cui all'articolo 8 del decreto legislativo 4 febbraio 2010, n. 14. Gli oneri relativi al pagamento di tale compenso sono a carico dell'impresa, societa' o associazione.
 
 Le misure di cui al presente articolo cessano di essere applicate se il tribunale dispone il controllo giudiziario di cui all'articolo 34-bis, comma 2, lettera b). Del periodo di loro esecuzione puo' tenersi conto ai fini della determinazione della durata del controllo giudiziario.
@@ -1605,6 +2714,38 @@ Al fine di verificare la sussistenza di una delle cause di decadenza, di sospens
 
 ## Art. 97. — Consultazione della banca dati nazionale unica
 
+1.
+                        
+                            
+                                Ai fini del rilascio della documentazione antimafia, la banca dati nazionale unica puo' essere consultata, secondo le modalita' di cui al ((decreto previsto dall'articolo 99, comma 1-bis)), da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i soggetti indicati dall'articolo 83, commi 1 e 2, del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le camere di commercio, industria, artigianato e agricoltura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli ordini professionali. 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    l'Autorita' per la vigilanza sui contratti pubblici di lavori, servizi e forniture, per le finalita' di cui all'articolo 6-bis del codice di cui al decreto legislativo 12 aprile 2006, n. 163.
+
 ## Art. 98.
 
 Contenuto della ((banca dati nazionale unica))
@@ -1616,6 +2757,58 @@ La ((banca dati nazionale unica)), tramite il collegamento al sistema informatic
 La ((banca dati nazionale unica)), tramite il collegamento ad altre banche dati, puo' contenere ulteriori dati anche provenienti dall'estero.
 
 ## Art. 99. — Modalita' di funzionamento della banca dati nazionale unica
+
+1.
+                        
+                            
+                                Con uno o piu' regolamenti ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, da adottarsi, entro sei mesi dalla data di entrata in vigore del presente decreto, su proposta del Ministro dell'interno, di concerto con i Ministri della pubblica amministrazione e dell'innovazione, della giustizia, dello sviluppo economico e delle infrastrutture e dei trasporti, sentito il Garante per la protezione dei dati personali, sono disciplinate le modalita' di funzionamento della banca dati nazionale unica e di collegamento con il Centro elaborazione dati (CED) di cui all'articolo 96. 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 30 DICEMBRE 2023, N. 215, CONVERTITO, CON MODIFICAZIONI, DALLA L. 23 FEBBRAIO 2024, N. 18)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 30 DICEMBRE 2023, N. 215, CONVERTITO, CON MODIFICAZIONI, DALLA L. 23 FEBBRAIO 2024, N. 18)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 30 DICEMBRE 2023, N. 215, CONVERTITO, CON MODIFICAZIONI, DALLA L. 23 FEBBRAIO 2024, N. 18)); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 30 DICEMBRE 2023, N. 215, CONVERTITO, CON MODIFICAZIONI, DALLA L. 23 FEBBRAIO 2024, N. 18)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 30 DICEMBRE 2023, N. 215, CONVERTITO, CON MODIFICAZIONI, DALLA L. 23 FEBBRAIO 2024, N. 18)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.L. 30 DICEMBRE 2023, N. 215, CONVERTITO, CON MODIFICAZIONI, DALLA L. 23 FEBBRAIO 2024, N. 18)).
 
 Con decreto del Ministro dell'interno, di natura non regolamentare, sono definite e aggiornate le modalita' di autenticazione, autorizzazione e di registrazione degli accessi e delle operazioni effettuate sulla banca dati nazionale unica; di accesso da parte del personale delle Forze di polizia e dell'amministrazione civile dell'interno; di accesso da parte della Direzione nazionale antimafia e antiterrorismo per lo svolgimento dei compiti previsti dall'articolo 371-bis del codice di procedura penale e di consultazione da parte dei soggetti di cui all'articolo 97, comma 1 ((, del presente codice)). Fino all'adozione del decreto ministeriale di cui al primo periodo, sono fatte salve le disposizioni di cui ((al capo IV, sezione II, del regolamento di cui al decreto del Presidente del Consiglio dei ministri)) 30 ottobre 2014, n. 193, unitamente ai relativi allegati numeri 2, 3, 4 e 5.
 
@@ -1705,6 +2898,84 @@ Se ne fa richiesta il procuratore distrettuale, il Procuratore generale presso l
 
 ## Art. 107. — Consiglio generale per la lotta alla criminalita' organizzata
 
+1.
+                        
+                            
+                                Presso il Ministero dell'interno e' istituito il Consiglio generale per la lotta alla criminalita' organizzata, presieduto dal Ministro dell'interno quale responsabile dell'alta direzione e del coordinamento in materia di ordine e sicurezza pubblica. Il Consiglio e' composto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dal Capo della polizia - Direttore generale della pubblica sicurezza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dal Comandante generale dell'Arma dei carabinieri; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dal Comandante generale del Corpo della guardia di finanza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dal Direttore dell'Agenzia informazioni e sicurezza interna; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dal Direttore dell'Agenzia informazioni e sicurezza esterna; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dal Direttore della Direzione investigativa antimafia.
+
+2.
+                        
+                            
+                                Il Consiglio generale per la lotta alla criminalita' organizzata provvede, per lo specifico settore della criminalita' organizzata, a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    definire e adeguare gli indirizzi per le linee di prevenzione anticrimine e per le attivita' investigative, determinando la ripartizione dei compiti tra le forze di polizia per aree, settori di attivita' e tipologia dei fenomeni criminali, tenuto conto dei servizi affidati ai relativi uffici e strutture, e in primo luogo a quelli a carattere interforze, operanti a livello centrale e territoriale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    individuare le risorse, i mezzi e le attrezzature occorrenti al funzionamento dei servizi e a fissarne i criteri per razionalizzarne l'impiego; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    verificare periodicamente i risultati conseguiti in relazione agli obiettivi strategici delineati e alle direttive impartite, proponendo, ove occorra, l'adozione dei provvedimenti atti a rimuovere carenze e disfunzioni e ad accertare responsabilita' e inadempienze; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    concorrere a determinare le direttive per lo svolgimento delle attivita' di coordinamento e di controllo da parte dei prefetti dei capoluoghi di regione, nell'ambito dei poteri delegati agli stessi.
+
 Il Consiglio generale emana apposite direttive da attuarsi a cura degli uffici e servizi appartenenti alle singole forze di polizia, nonche' della Direzione investigativa antimafia.
 
 All'Ufficio per il coordinamento e la pianificazione delle forze di polizia del Dipartimento della pubblica sicurezza sono attribuite le funzioni di assistenza tecnico-amministrativa e di segreteria del Consiglio.
@@ -1727,6 +2998,31 @@ Con gli stessi criteri indicati al comma 6 e' assegnato alla D.I.A. un vice dire
 
 La D.I.A. si avvale di personale dei ruoli della Polizia di Stato, dell'Arma dei carabinieri e del Corpo della guardia di finanza, nonche' del Corpo di polizia penitenziaria e del Corpo forestale dello Stato. Il personale dei ruoli del Corpo di polizia penitenziaria e del Corpo forestale dello Stato opera nell'ambito delle articolazioni centrali ((e periferiche)) della D.I.A. per le esigenze di collegamento con le strutture di appartenenza, anche in relazione a quanto previsto dal comma 3, nonche' per l'attivita' di analisi sullo scambio delle informazioni di interesse all'interno delle strutture carcerarie e di quelle connesse al contrasto delle attivita' organizzate per il traffico illecito di rifiuti e agli altri compiti di istituto. Con decreto del Ministro dell'interno, di concerto con i Ministri della giustizia, delle politiche agricole alimentari e forestali e dell'economia e delle finanze sono definiti i contingenti di personale del Corpo di polizia penitenziaria e del Corpo forestale dello Stato che opera nell'ambito della D.I.A., nonche' le modalita' attuative di individuazione, di assegnazione e di impiego del medesimo personale.
 
+9.
+                        
+                            
+                                Il Ministro dell'interno, sentito il Consiglio generale di cui all'articolo 107, determina l'organizzazione della D.I.A. secondo moduli rispondenti alla diversificazione dei settori d'investigazione e alla specificita' degli ordinamenti delle forze di polizia interessate, fermo restando che in ogni caso, nella prima fase, l'organizzazione e' articolata come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    reparto investigazioni preventive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    reparto investigazioni giudiziarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    reparto relazioni internazionali ai fini investigativi.
+
 Alla determinazione del numero e delle competenze delle divisioni in cui si articolano i reparti di cui al comma 9 si provvede con le modalita' e procedure indicate nell'articolo 5, settimo comma, della legge 1° aprile 1981, n. 121, e successive modificazioni e integrazioni. Con le stesse modalita' e procedure si provvede alla preposizione ed assegnazione del personale ai reparti e alle divisioni, secondo principi di competenza tecnico-professionale e con l'obiettivo di realizzare nei confronti dei titolari degli uffici predetti di pari livello una sostanziale parita' ed equiordinazione di funzioni, anche mediante il ricorso al criterio della rotazione degli incarichi.
 
 ## Art. 109. — Relazione al Parlamento
@@ -1738,6 +3034,53 @@ Il Ministro dell'interno riferisce, ogni sei mesi, al Parlamento sull'attivita' 
 ## Art. 110. — (L'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata)
 
 
+
+2.
+                        
+                            
+                                All'Agenzia sono attribuiti i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    acquisizione, attraverso il proprio sistema informativo, dei flussi informativi necessari per l'esercizio dei propri compiti istituzionali: dati, documenti e informazioni oggetto di flusso di scambio, in modalita' bidirezionale, con il sistema informativo del Ministero della giustizia, dell'autorita' giudiziaria, con le banche dati e i sistemi informativi delle prefetture-uffici territoriali del Governo, degli enti territoriali, delle societa' Equitalia ed Equitalia Giustizia, delle agenzie fiscali e con gli amministratori giudiziari, con le modalita' previste dagli articoli 1, 2 e 3 del regolamento di cui al decreto del Presidente della Repubblica 15 dicembre 2011, n. 233; acquisizione, in particolare, dei dati relativi ai beni sequestrati e confiscati alla criminalita' organizzata nel corso dei procedimenti penali e di prevenzione; acquisizione delle informazioni relative allo stato dei procedimenti di sequestro e confisca; verifica dello stato dei beni nei medesimi procedimenti, accertamento della consistenza, della destinazione e dell'utilizzo dei beni; programmazione dell'assegnazione e della destinazione dei beni confiscati; analisi dei dati acquisiti, nonche' delle criticita' relative alla fase di assegnazione e destinazione.
+Per l'attuazione della presente lettera e' autorizzata la spesa di 850.000 euro per ciascuno degli anni 2018, 2019 e 2020. Al relativo onere si provvede mediante corrispondente riduzione delle proiezioni, per i medesimi anni, dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2017-2019, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2017, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ausilio dell'autorita' giudiziaria nell'amministrazione e custodia dei beni sequestrati nel corso del procedimento di prevenzione di cui al libro I, titolo III; ausilio finalizzato a rendere possibile, sin dalla fase del sequestro, l'assegnazione provvisoria dei beni immobili e delle aziende per fini istituzionali o sociali agli enti, alle associazioni e alle cooperative di cui all'articolo 48, comma 3, ferma restando la valutazione del giudice delegato sulla modalita' dell'assegnazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ausilio dell'autorita' giudiziaria nell'amministrazione e custodia dei beni sequestrati nel corso dei procedimenti penali per i delitti di cui agli articoli 51, comma 3-bis, del codice di procedura penale e 12-sexies del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, e successive modificazioni; ausilio svolto al fine di rendere possibile, sin dalla fase del sequestro, l'assegnazione provvisoria dei beni immobili e delle aziende per fini istituzionali o sociali agli enti, alle associazioni e alle cooperative di cui all'articolo 48, comma 3, del presente decreto, ferma restando la valutazione del giudice delegato sulla modalita' dell'assegnazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    amministrazione e destinazione, ai sensi dell'articolo 38, dei beni confiscati, dal provvedimento di confisca emesso dalla corte di appello, in esito del procedimento di prevenzione di cui al libro I, titolo III; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    amministrazione, dal provvedimento di confisca emesso dalla corte di appello nonche' di sequestro o confisca emesso dal giudice dell'esecuzione, e destinazione dei beni confiscati, per i delitti di cui agli articoli 51, comma 3-bis, del codice di procedura penale e 12-sexies del decreto-legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, e successive modificazioni, nonche' dei beni definitivamente confiscati dal giudice dell'esecuzione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adozione di iniziative e di provvedimenti necessari per la tempestiva assegnazione e destinazione dei beni confiscati, anche attraverso la nomina, ove necessario, di commissari ad acta.
 
 L'Agenzia e' sottoposta al controllo della Corte dei conti ai sensi dell'articolo 3, comma 4, della legge 14 gennaio 1994, n. 20, e successive modificazioni. 
  (20)
@@ -1751,11 +3094,149 @@ L'Agenzia e' sottoposta al controllo della Corte dei conti ai sensi dell'articol
 
 ((
 
+1.
+                        
+                            
+                                Sono organi dell'Agenzia e restano in carica per quattro anni rinnovabili per una sola volta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il Direttore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il Consiglio direttivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il Collegio dei revisori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il Comitato consultivo di indirizzo.
+
 Il Direttore e' scelto tra figure professionali che abbiano maturato esperienza professionale specifica, almeno quinquennale, nella gestione dei beni e delle aziende: prefetti, dirigenti dell'Agenzia del demanio, magistrati che abbiano conseguito almeno la quinta valutazione di professionalita' o delle magistrature superiori. Il soggetto scelto e' collocato fuori ruolo o in aspettativa secondo l'ordinamento dell'amministrazione di appartenenza. All'atto del collocamento fuori ruolo e' reso indisponibile un numero di posti equivalente dal punto di vista finanziario. Il Direttore e' nominato con decreto del Presidente della Repubblica, su proposta del Ministro dell'interno, previa deliberazione del Consiglio dei ministri.
+
+3.
+                        
+                            
+                                Il Consiglio direttivo e' presieduto dal Direttore dell'Agenzia ed e' composto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da un magistrato designato dal Ministro della giustizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da un magistrato designato dal Procuratore nazionale antimafia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da un rappresentante del Ministero dell'interno designato dal Ministro dell'interno; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da due qualificati esperti in materia di gestioni aziendali e patrimoniali designati, di concerto, dal Ministro dell'interno e dal Ministro dell'economia e delle finanze; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da un qualificato esperto in materia di progetti di finanziamenti europei e nazionali designato dalla Presidenza del Consiglio dei ministri o dal Ministro delegato per la politica di coesione.
 
 I componenti del Consiglio direttivo, designati ai sensi del comma 3, sono nominati con decreto del Ministro dell'interno.
 
 Il Collegio dei revisori, costituito da tre componenti effettivi e da due supplenti, e' nominato con decreto del Ministro dell'interno fra gli iscritti nel Registro dei revisori legali. Un componente effettivo e un componente supplente sono designati dal Ministro dell'economia e delle finanze.
+
+6.
+                        
+                            
+                                Il Comitato consultivo di indirizzo e' presieduto dal Direttore dell'Agenzia ed e' composto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da un qualificato esperto in materia di politica di coesione territoriale, designato dal Dipartimento per le politiche di coesione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da un rappresentante del Ministero dello sviluppo economico, designato dal medesimo Ministro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da un rappresentante del Ministero del lavoro e delle politiche sociali, designato dal medesimo Ministro; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da un responsabile dei fondi del Programma operativo nazionale "sicurezza", designato dal Ministro dell'interno; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da un rappresentante del Ministero dell'istruzione, dell'universita' e della ricerca, designato dal medesimo Ministro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da un rappresentante delle regioni, designato dalla Conferenza delle regioni e delle province autonome; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    da un rappresentante dei comuni, designato dall'Associazione nazionale dei comuni italiani (ANCI); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    da un rappresentante delle associazioni che possono essere destinatarie o assegnatarie dei beni sequestrati o confiscati, di cui all'articolo 48, comma 3, lettera c), designato dal Ministro del lavoro e delle politiche sociali sulla base di criteri di trasparenza, rappresentativita' e rotazione semestrale, specificati nel decreto di nomina; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    da un rappresentante delle associazioni sindacali comparativamente piu' rappresentative a livello nazionale, da un rappresentante delle cooperative e da un rappresentante delle associazioni dei datori di lavoro, designati dalle rispettive associazioni.
 
 Alle riunioni possono essere chiamati a partecipare i rappresentanti degli enti territoriali ove i beni o le aziende sequestrati e confiscati si trovano. I componenti del Comitato consultivo di indirizzo, designati ai sensi del comma 6, sono nominati con decreto del Ministro dell'interno. Ai componenti non spetta alcun compenso, indennita', gettone di presenza, rimborso di spese o emolumento comunque denominato.
 
@@ -1769,6 +3250,124 @@ L'Agenzia coadiuva l'autorita' giudiziaria nella gestione fino al provvedimento 
 
 L'Agenzia, per le attivita' connesse all'amministrazione e alla destinazione dei beni sequestrati e confiscati anche in via non definitiva, nonche' per il monitoraggio sul corretto utilizzo dei beni assegnati, si avvale delle prefetture-uffici territoriali del Governo territorialmente competenti presso le quali e' istituito, senza nuovi o maggiori oneri per la finanza pubblica, un apposito nucleo di supporto. Con decreto del Ministro dell'interno sono definiti la composizione di ciascun nucleo di supporto ed il relativo contingente di personale, secondo criteri di flessibilita' e modularita' che tengano conto anche della presenza significativa, nel territorio di riferimento, di beni sequestrati e confiscati alla criminalita' organizzata. I prefetti, con il provvedimento di costituzione del nucleo di supporto, individuano, sulla base di linee guida adottate dal Consiglio direttivo dell'Agenzia, le altre amministrazioni, gli enti e le associazioni che partecipano alle attivita' del nucleo con propri rappresentanti.
 
+4.
+                        
+                            
+                                L'Agenzia, con delibera del Consiglio direttivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    utilizza i flussi acquisiti attraverso il proprio sistema informativo per facilitare le collaborazioni tra amministratori giudiziari e tra coadiutori e favorire, su tutto il territorio nazionale in modo particolare per le aziende, l'instaurazione e la prosecuzione di rapporti commerciali tra le imprese sequestrate o confiscate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone meccanismi di intervento per effettuare, ove l'amministratore giudiziario lo richieda, l'analisi aziendale e verificare la possibilita' di prosecuzione o ripresa dell'attivita' imprenditoriale ovvero avviare procedure di liquidazione o di ristrutturazione del debito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stipula protocolli di intesa con le strutture interessate e con le associazioni di categoria per l'individuazione di professionalita' necessarie per la prosecuzione o la ripresa dell'attivita' d'impresa anche avvalendosi dei nuclei territoriali di supporto istituiti presso le prefetture-uffici territoriali del Governo; 
+
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    provvede all'istituzione, in relazione a particolari esigenze, fino a un massimo di quattro sedi secondarie, in regioni ove sono presenti in quantita' significativa beni sequestrati e confiscati alla criminalita' organizzata, nei limiti delle risorse di cui all'articolo 110, comma 1;
+                                
+                            
+                            
+                                d)
+                                
+                                    previo parere motivato del Comitato consultivo di indirizzo, emana le linee guida interne che intende seguire sia per fornire ausilio all'autorita' giudiziaria, sia per stabilire la destinazione dei beni confiscati; indica, in relazione ai beni aziendali, gli interventi necessari per salvaguardare il mantenimento del valore patrimoniale e i livelli occupazionali e, in relazione ai beni immobili, gli interventi utili per incrementarne la redditivita' e per agevolare la loro eventuale devoluzione allo Stato liberi da pesi e oneri, anche prevedendo un'assegnazione provvisoria ai sensi dell'articolo 110, comma 2, lettera b); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    previo parere motivato del Comitato consultivo di indirizzo, predispone protocolli operativi su base nazionale per concordare con l'Associazione bancaria italiana (ABI) e con la Banca d'Italia modalita' di rinegoziazione dei rapporti bancari gia' in essere con le aziende sequestrate o confiscate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    richiede all'autorita' di vigilanza di cui all'articolo 110, comma 1, l'autorizzazione a utilizzare gli immobili di cui all'articolo 48, comma 3, lettera b); 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    richiede la modifica della destinazione d'uso del bene confiscato, in funzione della valorizzazione dello stesso o del suo utilizzo per finalita' istituzionali o sociali, anche in deroga agli strumenti urbanistici; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    approva il bilancio preventivo e il conto consuntivo;
+                                
+                            
+                            
+                                i)
+                                
+                                    verifica l'utilizzo dei beni da parte dei privati e degli enti pubblici, conformemente ai provvedimenti di assegnazione e di destinazione; verifica in modo continuo e sistematico, avvalendosi delle prefetture-uffici territoriali del Governo e, ove necessario, delle Forze di polizia, la conformita' dell'utilizzo dei beni, da parte dei privati e degli enti pubblici, ai provvedimenti di assegnazione e di destinazione. Il prefetto riferisce semestralmente all'Agenzia sugli esiti degli accertamenti effettuati; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    revoca il provvedimento di assegnazione e destinazione nel caso di mancato o difforme utilizzo del bene rispetto alle finalita' indicate nonche' negli altri casi stabiliti dalla legge; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    previo parere motivato del Comitato consultivo di indirizzo, sottoscrive convenzioni e protocolli con pubbliche amministrazioni, regioni, enti locali, ordini professionali, enti e associazioni per le finalita' del presente decreto; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    adotta un regolamento di organizzazione interna.
+
+5.
+                        
+                            
+                                Il Comitato consultivo di indirizzo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    esprime parere sugli atti di cui al comma 4, lettere d), e) ((...)) ed m); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    puo' presentare proposte e fornire elementi per fare interagire gli amministratori giudiziari delle aziende, ovvero per accertare, su richiesta dell'amministratore giudiziario, previa autorizzazione del giudice delegato, la disponibilita' degli enti territoriali, delle associazioni e delle cooperative di cui all'articolo 48, comma 3, lettera c), a prendere in carico i beni immobili, che non facciano parte di compendio aziendale, sin dalla fase del sequestro; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esprime pareri su specifiche questioni riguardanti la destinazione e l'utilizzazione dei beni sequestrati o confiscati nonche' su ogni altra questione che venga sottoposta ad esso dal Consiglio direttivo, dal Direttore dell'Agenzia o dall'autorita' giudiziaria.
+
 Il Collegio dei revisori svolge i compiti di cui all'articolo 20 del decreto legislativo 30 giugno 2011, n. 123. 
  (20)
 
@@ -1778,6 +3377,31 @@ Il Collegio dei revisori svolge i compiti di cui all'articolo 20 del decreto leg
  La L. 17 ottobre 2017, n. 161 ha disposto (con l'art. 36, comma 1) che "Le modifiche alle disposizioni sulla competenza dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata non si applicano ai casi nei quali l'amministrazione e' stata assunta ai sensi delle disposizioni del decreto legislativo 6 settembre 2011, n. 159, vigenti fino alla data di entrata in vigore della presente legge".
 
 ## Art. 113. — (Organizzazione e funzionamento dell'Agenzia)
+
+1.
+                        
+                            
+                                Con uno o piu' regolamenti, adottati ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, e successive modificazioni, su proposta del Ministro dell'interno, di concerto con i Ministri della giustizia, dell'economia e delle finanze e per la semplificazione e la pubblica amministrazione, sono disciplinati, entro il limite di spesa di cui all'articolo 118: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'organizzazione e la dotazione delle risorse umane e strumentali per il funzionamento dell'Agenzia, selezionando personale con specifica competenza in materia di gestione delle aziende, di accesso al credito bancario e ai finanziamenti europei; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la contabilita' finanziaria ed economico-patrimoniale relativa alla gestione dell'Agenzia, assicurandone la separazione finanziaria e contabile dalle attivita' di amministrazione e custodia dei beni sequestrati e confiscati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i flussi informativi necessari per l'esercizio dei compiti attribuiti all'Agenzia nonche' le modalita' delle comunicazioni, da effettuarsi per via telematica, tra l'Agenzia e l'autorita' giudiziaria.
 
 Ai fini dell'amministrazione e della custodia dei beni confiscati di cui all'articolo 110, comma 2, lettere d) ed e), i rapporti tra l'Agenzia e l'Agenzia del demanio sono disciplinati mediante apposita convenzione, anche onerosa, avente ad oggetto, in particolare, la stima e la manutenzione dei beni custoditi nonche' l'avvalimento del personale dell'Agenzia del demanio.
 
@@ -1897,6 +3521,89 @@ Le disposizioni del libro II, capi I, II, III e IV, entrano in vigore decorsi du
 ))
 
 ## Art. 120. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogate le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        legge 27 dicembre 1956, n. 1423; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        legge 31 maggio 1965, n. 575; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        decreto-legge 4 febbraio 2010, n. 4, convertito in legge 31 marzo 2010, n. 50; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        articoli da 18 a 24 della legge 22 maggio 1975, n. 152; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        articolo 16 della legge 13 settembre 1982, n. 646; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    articoli da 2 ad 11, 13 e 15 della legge 3 agosto 1988, n. 327; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        articolo 7-ter della legge 13 dicembre 1989, n. 401; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        articolo 34 della legge 19 marzo 1990, n. 55; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        articoli 1, 3 e 5 del decreto-legge 29 ottobre 1991, n. 345, convertito, con modificazioni, dalla legge 30 dicembre 1991, n. 410; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        articoli 70-bis, 76-bis, 76-ter, 110-bis e 110-ter del regio decreto 30 gennaio 1941, n. 12.
 
 ((2. A decorrere dalla data di cui all'articolo 119, comma 1, sono abrogate le seguenti disposizioni:
 

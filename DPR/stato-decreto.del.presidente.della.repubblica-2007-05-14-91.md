@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2013-01-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,31 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per le p
 
 ## Art. 1. — Individuazione degli organismi
 
+1.
+                    
+                        
+                            Nell'ambito del Dipartimento per il coordinamento delle politiche comunitarie sono confermati e continuano ad operare:
+ 
+                        
+                        
+                            a)
+                            
+                                la Commissione per il recepimento delle normative comunitarie, istituita ai sensi dell'articolo 19 della legge 16 aprile 1987, n. 183;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il Comitato per la lotta contro le frodi comunitarie, istituito ai sensi dell'articolo 76, comma 2, della legge 19 febbraio 1992, n. 142;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il Comitato tecnico permanente istituito, ai sensi dell'articolo 2, comma 4, della legge 4 febbraio 2005, n. 11.
+
 ## Art. 2. — Commissione per l'attuazione della normativa comunitaria e relativi gruppi di lavoro
 
 La Commissione per il recepimento delle normative comunitarie e relative sottocommissioni sono ridenominate: Commissione per l'attuazione della normativa comunitaria e relativi gruppi di lavoro.
@@ -40,6 +65,24 @@ La Commissione e' assistita dalla segreteria dell'Ufficio legislativo del Minist
 
 Nell'ambito della Commissione operano i gruppi di lavoro, i quali collaborano principalmente alla elaborazione o alla redazione dei provvedimenti normativi di attuazione delle direttive o di altri atti comunitari. A tale fine l'amministrazione con competenza prevalente nella materia predispone lo schema del provvedimento di attuazione e lo trasmette, almeno sei mesi prima della scadenza del termine di recepimento, al Capo dell'Ufficio legislativo del Ministro per le politiche europee, il quale provvede alla convocazione del gruppo di lavoro.
 
+7.
+                    
+                        
+                            I gruppi di lavoro sono composti:
+ 
+                        
+                        
+                            a)
+                            
+                                da funzionari del Dipartimento per il coordinamento delle politiche comunitarie e dei Ministeri degli affari esteri, dell'economia e delle finanze e della giustizia, nonche' da funzionari delle amministrazioni di volta in volta interessate in relazione alle materie trattate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                eventualmente da uno o piu' componenti, scelti all'interno di un elenco di quindici esperti di elevata qualificazione giuridico-amministrativa o tecnico-scientifica, nominati con decreto del Ministro per le politiche europee, su proposta del Capo dell'Ufficio legislativo; l'incarico di esperto ha durata triennale.
+
 I gruppi di lavoro sono presieduti dal Capo dell'Ufficio legislativo del Ministro per le politiche europee o da un suo delegato.
 
 La partecipazione alla Commissione e ai gruppi di lavoro non comporta alcun onere economico a carico dell'amministrazione, neanche derivante dal funzionamento degli stessi organismi.
@@ -47,6 +90,45 @@ La partecipazione alla Commissione e ai gruppi di lavoro non comporta alcun oner
 ## Art. 3. — Comitato per la lotta contro le frodi comunitarie
 
 Il Comitato per la lotta contro le frodi comunitarie ha funzioni consultive e di indirizzo per il coordinamento delle attivita' di contrasto delle frodi e delle irregolarita' attinenti in particolare al settore fiscale e a quello della politica agricola comune e dei fondi strutturali; tratta altresi' le questioni connesse al flusso delle comunicazioni in materia di indebite percezioni di finanziamenti comunitari ed ai recuperi degli importi indebitamente pagati, di cui al regolamento (CE) 1828/06 della Commissione, dell'8 dicembre 2006, e al regolamento (CE) 1848/06 della Commissione, del 14 dicembre 2006, e successive modificazioni, nonche' quelle relative all'elaborazione dei questionari inerenti alle relazioni annuali, da trasmettere alla Commissione europea in base all'articolo 280 del Trattato che istituisce la Comunita' europea.
+
+2.
+                    
+                        
+                            Il Comitato, presieduto dal Ministro per le politiche europee o da un suo delegato, e' composto: 
+ 
+                        
+                        
+                            a)
+                            
+                                dal Capo del Dipartimento per il coordinamento delle politiche comunitarie; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal Comandante del Nucleo della Guardia di finanza per la repressione delle frodi comunitarie istituito con decreto del Presidente del Consiglio dei Ministri in data 11 gennaio 1995; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dai dirigenti generali degli uffici del Dipartimento per il coordinamento delle politiche comunitarie; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dai dirigenti generali designati dalle amministrazioni interessate al contrasto delle frodi fiscali, agricole ed alla corretta utilizzazione dei fondi comunitari, che sono nominati dal Ministro per le politiche europee; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dai componenti designati dalla Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
 
 Alle riunioni del Comitato sara' di volta in volta richiesta, a seconda degli argomenti all'ordine del giorno, la partecipazione dei membri designati dalle amministrazioni interessate e dalla Conferenza unificata.
 
@@ -77,6 +159,26 @@ Tre mesi prima della scadenza del termine di durata indicato al comma 1, ciascun
 I componenti degli organismi di cui al presente decreto sono nominati nel rispetto del principio di pari opportunita' tra donne e uomini.
 
 ## Art. 7. — Abrogazioni
+
+1.
+                    
+                        
+                            Sono o restano abrogate le seguenti disposizioni:
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    articolo 19 della legge 16 aprile 1987, n. 183, che prevede la «Commissione per il recepimento delle normative comunitarie»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    articoli 12 e 76 della legge 19 febbraio 1992, n. 142, nella parte in cui prevedono rispettivamente l'istituzione del «Comitato tecnico-consultivo per la riparazione delle violazioni comunitarie in materia di appalti e forniture» e del «Comitato per la lotta contro le frodi comunitarie».
 
 Le disposizioni vigenti relative alla Commissione per il recepimento delle normative comunitarie e al Comitato per la lotta contro le frodi comunitarie sono sostituite dalle disposizioni del presente decreto.
 

@@ -7,8 +7,8 @@ urn: urn:nir:ministero.sviluppo.economico:decreto:2021-06-01;119
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,8 +27,75 @@ Udito il parere del Consiglio di Stato reso dalla Sezione consultiva per gli att
 ## Art. 1. — Modifiche all'articolo 1 
  del decreto 13 gennaio 2010, n. 33
 
+1.
+                    
+                        
+                            All'articolo 1 del decreto 13 gennaio 2010, n. 33, recante il regolamento di attuazione del Codice della proprieta' industriale, adottato con decreto legislativo 10 febbraio 2005, n. 30, di seguito «regolamento di attuazione del Codice della proprieta' industriale», sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole «forma modificata» sono inserite le seguenti: «o limitati»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Le domande nazionali di brevetto, di registrazione, di privativa per nuova varieta' vegetale, di certificato complementare per prodotti medicinali e per prodotti fitosanitari, le istanze successive ad esse connesse e le traduzioni di cui al comma 1, sono redatte in conformita' ai moduli, ove previsti, stabiliti con circolare dell'Ufficio italiano brevetti e marchi, disponibili presso lo stesso Ufficio e presso le Camere di commercio, industria, artigianato e agricoltura, nonche' nell'apposita sezione sul sito web della Direzione generale per la lotta alla contraffazione - Ufficio italiano brevetti e marchi, e devono essere firmate dal richiedente o dal suo mandatario. In caso di diritti appartenenti a piu' soggetti, colui che firma nell'interesse di tutti specifica tale sua qualita'.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dopo il comma 2 e' inserito il seguente: 
+ «2-bis. La redazione dei moduli di cui al comma 2 contiene l'indicazione del codice fiscale o della partita IVA del richiedente nonche' le indicazioni previste dalla circolare di cui al comma 2.»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4, alinea, le parole «e due copie» sono soppresse e, alla lettera b), le parole «in Italia» sono sostituite dalle seguenti: «ai sensi dell'articolo 147, comma 3-bis, del Codice»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 5, le parole «e due copie» sono soppresse e le parole «devono essere inviati» sono sostituite dalle seguenti «e' inviato»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 7, dopo le parole «forma modificata» sono inserite le seguenti: «o limitati»;
+
 ## Art. 2. — Modifiche all'articolo 2 
  del decreto 13 gennaio 2010, n. 33
+
+1.
+                    
+                        
+                            All'articolo 2 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «delle attivita' produttive 10 aprile 2006, pubblicato nella Gazzetta Ufficiale 28 aprile 2006, n. 98, e dal decreto del Ministro dello sviluppo economico 24 ottobre 2008, pubblicato nella Gazzetta Ufficiale 11 dicembre 2008, n. 289, emanati nel rispetto del decreto legislativo 7 marzo 2005, n. 82 «Codice della digitalizzazione della pubblica amministrazione» sono sostituite dalle seguenti: «dello sviluppo economico, adottato nel rispetto del decreto legislativo 7 marzo 2005, n. 82»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' aggiunto il seguente: 
+ «1-bis. Al deposito telematico si applica la disposizione di cui all'articolo 1, comma 2-bis.».
 
 ## Art. 3. — Modifiche all'articolo 3 
  del decreto 13 gennaio 2010, n. 33
@@ -60,6 +127,24 @@ All'articolo 6 del regolamento di attuazione del Codice della proprieta' industr
 
 ## Art. 7. — Modifiche all'articolo 7 
  del decreto 13 gennaio 2010, n. 33
+
+1.
+                    
+                        
+                            All'articolo 7 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «Il deposito» sono sostituite dalle seguenti: «Fermo restando quanto previsto dall'articolo 1, commi 7 e 8, il deposito»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, le parole «Codice della Digitalizzazione della pubblica amministrazione» sono sostituite dalle seguenti: «Codice dell'amministrazione digitale».
 
 ## Art. 8. — Modifiche all'articolo 9 
  del decreto 13 gennaio 2010, n. 33
@@ -134,6 +219,32 @@ All'articolo 18 del regolamento di attuazione del Codice della proprieta' indust
 ## Art. 16. — Modifiche all'articolo 21 
  del decreto 13 gennaio 2010, n. 33
 
+1.
+                    
+                        
+                            All'articolo 21 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «in Italia» sono soppresse e le parole «articolo 197» sono sostituite dalle seguenti: «articolo 147, comma 3-bis,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, il primo periodo e' sostituito dal seguente: 
+ «La domanda di brevetto per invenzione che ha alla base materiale biologico di origine animale o vegetale contiene la dichiarazione di provenienza del materiale biologico utilizzato di cui all'articolo 170-bis, comma 2, del Codice.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 4, le parole «all'articolo 160, comma 4» sono sostituite dalle seguenti: «agli articoli 52, comma 1, e 160, comma 4,».
+
 ## Art. 17. — Inserimento dell'articolo 24-bis 
  nel decreto 13 gennaio 2010, n. 33
 
@@ -143,6 +254,25 @@ Dopo l'articolo 24 del regolamento di attuazione del Codice della proprieta' ind
 
 ## Art. 18. — Modifiche all'articolo 25 
  del decreto 13 gennaio 2010, n. 33
+
+1.
+                    
+                        
+                            All'articolo 25 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «in Italia» sono soppresse e le parole «articolo 197» sono sostituite dalle seguenti: «articolo 147, comma 3-bis,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 la parola «art.» e' sostituita dalla seguente:
+«articolo».
 
 ## Art. 19. — Modifiche all'articolo 26 
  del decreto 13 gennaio 2010, n. 33
@@ -196,6 +326,47 @@ All'articolo 37 del regolamento di attuazione del Codice della proprieta' indust
 ## Art. 27. — Modifiche all'articolo 38 
  del decreto 13 gennaio 2010, n. 33
 
+1.
+                    
+                        
+                            All'articolo 38 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2, la parola «art.» e' sostituita dalla seguente: «articolo»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 5 e' abrogato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 6, le parole «3,4 e 5» sono sostituite dalle seguenti «3 e 4» e le parole «227, comma 2, del Codice» sono sostituite dalle seguenti: «227, comma 4, del Codice»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 7 e' sostituito dal seguente: 
+ «7. La presentazione della domanda di rinnovo della registrazione di marchio e' effettuata entro i termini di cui all'articolo 227, comma 1, del Codice, o nei sei mesi successivi di cui allo stesso articolo 227, comma 4, del Codice, e con le modalita' di cui all'articolo 159 del Codice.»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 7 e' aggiunto il seguente: 
+ «7-bis. L'integrazione o la regolarizzazione anche tardiva di cui all'articolo 230, comma 1, del Codice, si applica anche al mancato pagamento da parte di universita', amministrazioni pubbliche aventi fra i loro scopi istituzionali finalita' di ricerca, e amministrazioni della difesa e delle politiche agricole alimentari e forestali, della tassa di domanda di brevetto per invenzione o modello di utilita' quando risulti che, a causa della contitolarita' con altro richiedente, non e' applicabile l'esenzione di cui all'articolo 2 del decreto del Ministro dello sviluppo economico e del Ministro dell'economia e delle finanze 2 aprile 2007, pubblicato nella Gazzetta Ufficiale 6 aprile 2007, n. 81.».
+
 ## Art. 28. — Modifiche all'articolo 39 
  del decreto 13 gennaio 2010, n. 33
 
@@ -221,8 +392,105 @@ All'articolo 42 del regolamento di attuazione del Codice della proprieta' indust
 ## Art. 32. — Modifiche all'articolo 45 
  del decreto 13 gennaio 2010, n. 33
 
+1.
+                    
+                        
+                            All'articolo 45 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: 
+ «1. L'autorizzazione di cui all'articolo 198, comma 1, del Codice, e' dovuta se i residenti in Italia sono gli aventi diritto al brevetto per invenzione o per modello di utilita' o alla registrazione della topografia nel territorio dello Stato.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, dopo la parola «invenzioni», sono inserite le seguenti: «, modelli di utilita' e topografie»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 5, le parole «di sufficiente documentazione in lingua italiana che illustri la domanda,» sono sostituite dalle seguenti: «del riassunto in lingua italiana che definisca in modo esauriente le caratteristiche dell'invenzione,»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 7, dopo le parole «L'avente diritto al brevetto» sono inserite le seguenti: «o alla registrazione ai sensi del comma 1».
+
 ## Art. 33. — Modifiche all'articolo 46 
  del decreto 13 gennaio 2010, n. 33
+
+1.
+                    
+                        
+                            All'articolo 46 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'alinea del comma 2 e' sostituito dal seguente: 
+ «2. L'atto di opposizione, recante i dati di cui all'articolo 176, comma 2, del Codice, firmato dall'opponente o dal suo mandatario, include:»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, lettera a), numero 2), la parola «marchio» e' sostituita dalla seguente: «segno»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, lettera b), alinea, le parole «al marchio o ai diritti anteriori» sono sostituite dalle seguenti: «al diritto anteriore»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, lettera b), numero 1), la parola «comunitario» e' sostituita dalle seguenti: «dell'Unione europea», e dopo le parole «, e, se il marchio e' stato oggetto di cessione parziale, limitazione, divisione, rinnovazione o rinuncia, la relativa specificazione» sono aggiunte le seguenti: «; il numero e data di presentazione della domanda o della registrazione anteriore della denominazione di origine o dell'indicazione geografica o, se tale data non e' disponibile, la data a decorrere dalla quale e' concessa la protezione;»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 2, lettera b), numero 3) le parole «, del marchio o dei marchi» sono sostituite dalle seguenti: «dei diritti»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 2, dopo la lettera b), e' inserita la seguente: 
+ «b-bis) riguardo al diritto di cui all'articolo 8 del Codice, su cui si fonda l'opposizione: 
+ 1) l'indicazione del diritto e della mancanza del proprio consenso alla registrazione;»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 2, lettera c), numero 1), le parole «marchio anteriore risultante nel Registro ufficiale» sono sostituite dalle parole: «diritto anteriore»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 2, lettera c), il numero 2) e' sostituito dal seguente: 
+ «2) i motivi su cui si basa l'opposizione, che devono essere esplicitati, in maniera puntuale e con riferimento agli articoli del Codice posti a fondamento dell'opposizione, nel modulo di cui all'articolo 47, comma 1.».
 
 ## Art. 34. — Modifiche all'articolo 47 
  del decreto 13 gennaio 2010, n. 33
@@ -237,11 +505,168 @@ L'articolo 47 del regolamento di attuazione del Codice della proprieta' industri
 ## Art. 35. — Modifiche all'articolo 48 
  del decreto 13 gennaio 2010, n. 33
 
+1.
+                    
+                        
+                            All'articolo 48 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, le parole «Entro due mesi dalla scadenza del» sono sostituite dalle seguenti: «Scaduto il» e, dopo le parole «articoli 176, commi 1» sono inserite le seguenti: «, 2»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, lettera a), le parole «articoli 175» sono sostituite dalle seguenti: «articoli 176»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, lettera c), le parole «d) ed e), del Codice,» sono sostituite dalle seguenti: «c), d), e) ed f) e dall'articolo 14, comma 1, lettera c-bis, del Codice»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il comma 5 e' sostituito dal seguente: «5. Se l'opposizione non puo' proseguire per una delle cause indicate ai commi 3 e 4, l'Ufficio informa l'opponente che puo' presentare ricorso alla Commissione dei ricorsi di cui all'articolo 135, comma 1, del Codice.».
+
 ## Art. 36. — Modifiche all'articolo 49 
  del decreto 13 gennaio 2010, n. 33
 
+1.
+                    
+                        
+                            All'articolo 49 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera b) e' soppressa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera c), la parola «improcedibilita',» e' soppressa; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera d), dopo le parole «dalla data» sono inserite le seguenti: «di ricezione»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 1, lettera e), le parole «la facolta'» sono sostituite dalle seguenti «gli adempimenti»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dopo il comma 1, e' inserito il seguente: 
+ «1-bis. Qualora venga raggiunto l'accordo di conciliazione, nell'istanza per ottenere ai sensi dell'articolo 229 del Codice il rimborso del diritto versato per il deposito dell'opposizione, l'opponente deve dichiarare il raggiungimento dell'accordo nei termini di cui all'articolo 178, comma 1, del Codice.»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Alla scadenza del termine per il raggiungimento dell'accordo di conciliazione previsto dall'articolo 176, comma 4, del Codice, se lo stesso non e' raggiunto, l'opposizione non e' ritirata o la domanda di registrazione di marchio non e' ritirata o limitata, l'Ufficio invia al richiedente la documentazione depositata dall'opponente ai sensi della medesima disposizione e gli assegna un termine di sessanta giorni dalla data di ricevimento della propria comunicazione per il deposito di deduzioni e per l'eventuale deposito dell'istanza per ottenere la prova d'uso del marchio ai sensi dell'articolo 178, comma 4, del Codice.»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                dopo il comma 2 e' aggiunto il seguente: 
+ 2-bis. Nel caso previsto dall'articolo 178, comma 4, del Codice, l'Ufficio invita l'opponente a depositare i documenti idonei a provare l'effettivo uso del marchio o l'esistenza di legittime ragioni per la sua mancata utilizzazione, entro sessanta giorni dalla data di ricevimento della comunicazione. In tale ipotesi, l'opponente e' tenuto a documentare l'uso effettivo del marchio nel quinquiennio che precede la data di deposito della domanda di registrazione nei cui confronti l'opposizione e' stata proposta.».
+
 ## Art. 37. — Modifiche all'articolo 50 
  del decreto 13 gennaio 2010, n. 33
+
+1.
+                    
+                        
+                            All'articolo 50 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 2 e' sostituito dal seguente: 
+ «2. Se dall'esame effettuato ai sensi dell'articolo 171 del Codice, emergono anche i motivi per un rifiuto ex officio, l'Ufficio italiano brevetti e marchi, scaduti i termini per depositare l'atto di opposizione, comunica all'Organizzazione Mondiale della Proprieta' Intellettuale, ai sensi dell'articolo 16, il rifiuto provvisorio basato sia su motivi di impedimento assoluto sia sull'opposizione. La comunicazione, oltre alle notizie di cui al comma 3, contiene il termine entro il quale il titolare della registrazione internazionale, tramite un mandatario nominato ai sensi dell'articolo 201 del Codice, puo' presentare le proprie deduzioni ovvero richiedere copia dell'atto di opposizione. Se la registrazione e' provvisoriamente rifiutata per motivi di impedimento assoluto, la procedura di opposizione alla registrazione e' sospesa e si applicano le disposizioni di cui all'articolo 16, commi 2 e 3. La procedura di opposizione, sospesa ai sensi del periodo che precede, prosegue nei seguenti casi: 
+ a) quando il rifiuto provvisorio e' ritirato dall'Ufficio italiano brevetti e marchi e qualora lo stesso Ufficio ritenga sussistere le condizioni per la protezione del marchio in Italia; 
+ b) quando il titolare della registrazione internazionale, tramite mandatario, richiede copia dell'atto di opposizione nel termine assegnato dall'Ufficio.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 3 e' sostituito dal seguente: 
+ «3. Il rifiuto provvisorio basato su un'opposizione contiene: 
+ a) il numero della registrazione internazionale, il nome del titolare ed il suo indirizzo; 
+ b) l'indicazione che il rifiuto e' basato su un'opposizione ed i riferimenti alle relative disposizioni di legge; 
+ c) il numero, la data di deposito e l'eventuale data di priorita' della domanda anteriore su cui si fonda l'opposizione, il suo numero e data di registrazione se disponibili, il nome e l'indirizzo del suo titolare, la riproduzione del marchio anteriore, la lista completa dei prodotti e dei servizi protetti o di quelli ritenuti in conflitto contenuti nella domanda o registrazione anteriore; 
+ d) il termine entro il quale il titolare della registrazione internazionale puo' richiedere, tramite un mandatario nominato ai sensi dell'articolo 201 del Codice, copia dell'atto di opposizione sul quale e' stato basato il rifiuto.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i commi 4 e 5 sono abrogati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6, la parola «notificato» e' sostituita dalla seguente: «comunicato»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 7, alinea, dopo la parola «Intellettuale» sono inserite le seguenti: «una comunicazione»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 7, lettera a), le parole «una notifica» sono soppresse; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 7, lettera b), le parole «una notifica di rifiuto definitivo se e' emesso il rifiuto di cui al comma 4» sono sostituite dalle seguenti: «di rifiuto definitivo se il titolare della registrazione internazionale non ha chiesto l'atto di opposizione ai sensi dell'articolo 171, comma 5, del Codice,»; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                al comma 7, dopo la lettera b), e' inserita la seguente: 
+ «b-bis). di accoglimento parziale, se l'opposizione e' accolta per una parte dei prodotti e servizi indicati nella registrazione internazionale.».
 
 ## Art. 38. — Modifiche all'articolo 51 
  nel decreto 13 gennaio 2010, n. 33
@@ -252,8 +677,51 @@ All'articolo 51 del regolamento di attuazione del Codice della proprieta' indust
 ## Art. 39. — Modifiche all'articolo 53 
  nel decreto 13 gennaio 2010, n. 33
 
+1.
+                    
+                        
+                            All'articolo 53 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                i commi 1 e 2 sono abrogati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, le parole «tale prova» sono sostituite dalle seguenti: «la prova dell'uso».
+
 ## Art. 40. — Modifiche all'articolo 54 
  nel decreto 13 gennaio 2010, n. 33
+
+1.
+                    
+                        
+                            All'articolo 54 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni. 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, la lettera c) e' sostituita dalla seguente: «c) su istanza del richiedente, se la registrazione del marchio dell'Unione europea dell'opponente e' soggetta ad un procedimento di annullamento o decadenza presso l'Ufficio dell'Unione europea per la proprieta' intellettuale (E.U.I.P.O.), fino alla decisione di quest'ultimo;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, la lettera d) e' sostituita dalla seguente: «d) se l'opposizione e' basata su un marchio internazionale designante l'Italia, fino a quando, in relazione a tale marchio internazionale, non siano scaduti i termini per il rifiuto indicati dall'articolo 171, comma 3, del Codice, il termine per la presentazione di un'opposizione avverso la registrazione di tale marchio internazionale o si siano conclusi i relativi procedimenti di esame o di opposizione.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, le parole «si applica anche alle lettere c) e d) del comma 1» sono sostituite dalle seguenti: «si applica anche alla lettera c) del comma 1».
 
 ## Art. 41. — Modifiche all'articolo 58 
  nel decreto 13 gennaio 2010, n. 33
@@ -268,6 +736,38 @@ All'articolo 61 del regolamento di attuazione del Codice della proprieta' indust
 ## Art. 43. — Modifiche all'articolo 62 
  nel decreto 13 gennaio 2010, n. 33
 
+1.
+                    
+                        
+                            All'articolo 62 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto, in fine, il seguente periodo: «Non possono presentare domanda di partecipazione al corso di formazione coloro che non abbiano superato l'esame nella precedente sessione.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2, le parole «l'Ufficio "Opposizione"» sono sostituite dalle seguenti: «la Divisione competente dell'Ufficio italiano brevetti e marchi»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3, la parola «minore» e' sostituita dalle seguenti: «piu' giovane»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 6, le parole «dell'Ufficio "Opposizione"» sono sostituite dalle seguenti: «della Divisione competente dell'Ufficio».
+
 ## Art. 44. — Modifiche all'articolo 63 
  nel decreto 13 gennaio 2010, n. 33
 
@@ -277,6 +777,59 @@ All'articolo 63 del regolamento di attuazione del Codice della proprieta' indust
 ## Art. 45. — Modifiche all'articolo 64 
  nel decreto 13 gennaio 2010, n. 33
 
+1.
+                    
+                        
+                            All'articolo 64 del regolamento di attuazione del Codice della proprieta' industriale sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole «L'esame di abilitazione» sono inserite le seguenti: «di cui all'articolo 207 del Codice»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1, lettera b), numero 2), dopo la parola «ricorso» sono aggiunte le seguenti: « e trasferimento»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 1, lettera b), numero 3), la parola «comunitario» e' sostituita dalle seguenti: «dell'Unione Europea»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 2, alinea, dopo le parole «L'esame di abilitazione» sono inserite le seguenti: «di cui all'articolo 207 del Codice»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 2, alla lettera a), dopo la parola «domande,» sono inserite le seguenti: «alle norme sul trasferimento,»; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                al comma 2, lettera b), numero 2), dopo la parola «provenienza» sono inserite le seguenti: «, dei disegni e modelli»; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                al comma 2, lettera b), numero 3), la parola «comunitario» e' sostituita dalle seguenti: «dell'Unione Europea».
+
 ## Art. 46. — Modifiche all'articolo 65 
  nel decreto 13 gennaio 2010, n. 33
 
@@ -284,6 +837,17 @@ All'articolo 65 del regolamento di attuazione del Codice della proprieta' indust
 
 ## Art. 47. — Modifiche all'articolo 66 
  nel decreto 13 gennaio 2010, n. 33
+
+1.
+                    
+                        
+                            All'articolo 66 del regolamento di attuazione del Codice della proprieta' industriale, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' inserito il seguente:
 
 «L'atto di convocazione dell'assemblea che reca all'ordine del giorno la votazione per l'elezione dei membri del Consiglio dell'Ordine e' inviato con i mezzi di cui al secondo periodo dell'articolo 65, comma 1.»; 
  b) il comma 4 e' sostituito dal seguente: 

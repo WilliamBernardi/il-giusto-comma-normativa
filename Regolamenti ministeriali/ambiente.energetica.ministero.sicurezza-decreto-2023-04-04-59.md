@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2025-02-25
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,6 +49,66 @@ Oggetto e finalita'
 
 In attuazione di quanto disposto dall'articolo 188-bis del decreto legislativo 3 aprile 2006, n. 152, il presente regolamento disciplina il sistema di tracciabilita' dei rifiuti, che si compone delle procedure e degli adempimenti di cui agli articoli 189, 190 e 193 del medesimo decreto legislativo n. 152 del 2006, integrati nel Registro elettronico nazionale per la tracciabilita' dei rifiuti, di seguito RENTRI, istituito ai sensi dell'articolo 6 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12.
 
+2.
+                        
+                            
+                                Il presente regolamento disciplina in particolare l'organizzazione ed il funzionamento del sistema di tracciabilita', definendo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i modelli ed i formati relativi al registro cronologico di carico e scarico dei rifiuti ed al formulario di identificazione di cui agli articoli 190 e 193 del decreto legislativo n. 152 del 2006 con l'indicazione altresi' delle modalita' di compilazione, vidimazione e tenuta degli stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di iscrizione al RENTRI e i relativi adempimenti, da parte dei soggetti obbligati ovvero di coloro che intendano volontariamente aderirvi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il funzionamento del RENTRI, ivi incluse le modalita' di trasmissione dei dati relativi ai documenti di cui alla lettera a); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' per la condivisione dei dati del RENTRI con l'Istituto superiore per la ricerca ambientale (ISPRA) al fine del loro inserimento nel Catasto di cui all'articolo 189 del decreto legislativo n. 152 del 2006, nonche' le modalita' di coordinamento tra le comunicazioni di cui alla legge 25 gennaio 1994, n. 70, e gli adempimenti trasmessi al RENTRI, garantendone, ove possibile, la precompilazione automatica secondo quanto disposto dall'articolo 189, commi 8 e 9, del decreto legislativo n. 152 del 2006; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le modalita' di interoperabilita' per l'acquisizione della documentazione di cui al regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio del 14 giugno 2006 relativo alle spedizioni di rifiuti; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    le modalita' di svolgimento delle funzioni di supporto tecnico-operativo da parte dell'Albo nazionale gestori ambientali ai sensi dell'articolo 188-bis, comma 1, del decreto legislativo n. 152 del 2006; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' di accesso ai dati del RENTRI da parte degli organi di controllo; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le modalita' per la verifica e l'invio della comunicazione dell'avvio a recupero o smaltimento dei rifiuti, di cui all'articolo 188-bis, comma 4, lettera h), del decreto legislativo n. 152 del 2006, nonche' le responsabilita' da attribuire all'intermediario.
+
 Gli allegati I e II disciplinano il modello di registro cronologico di carico e scarico e di formulario di identificazione di cui agli articoli 190 e 193 del decreto legislativo n. 152 del 2006.
 L'allegato III definisce i contributi e il diritto di segreteria per l'iscrizione al RENTRI ai sensi dell'articolo 6 del decreto-legge n. 135 del 2018, convertito, con modificazioni, dalla legge n. 12 del 2019. Gli allegati I, II e III sono parte integrante del presente regolamento.
 
@@ -59,6 +119,38 @@ Gli allegati di cui all'articolo 1, comma 3, in caso di intervenute novita' tecn
 
 ## Art. 3. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini e per gli effetti del presente regolamento si applicano le definizioni di cui alla Parte IV del decreto legislativo n. 152 del 2006, le definizioni di cui al decreto legislativo 7 marzo 2005, n. 82, le definizioni di cui al regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE, nonche' le seguenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «unita' locale»: una sede operativa, quale, ad esempio, un laboratorio, un'officina, uno stabilimento, un negozio, oppure una sede amministrativa o gestionale, quale, ad esempio, un ufficio, un magazzino, un deposito, ubicata in luogo coincidente con la sede legale o diverso da quello della sede legale, nella quale l'operatore esercita stabilmente una o piu' attivita' economiche e dove sono realizzate le attivita' da cui deriva l'obbligo di iscrizione, ovvero per le quali l'operatore procede volontariamente all'iscrizione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «operatore»: il soggetto iscritto al RENTRI; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «sistema gestionale»: il sistema informatico utilizzato dall'operatore iscritto al RENTRI, attraverso il quale e' possibile assolvere, tra gli altri, anche agli obblighi della tenuta dei registri cronologici di carico e scarico dei rifiuti e dei formulari per l'identificazione dei rifiuti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «utente»: il soggetto che accede, mediante strumenti di autenticazione digitale, alla piattaforma telematica per effettuare operazioni.
+
 ## - Titolo II REGISTRO CRONOLOGICO DI CARICO E SCARICO E FORMULARIO DI IDENTIFICAZIONE
 
 ## Art. 4. — Disposizioni generali sul registro cronologico 
@@ -67,6 +159,28 @@ Gli allegati di cui all'articolo 1, comma 3, in caso di intervenute novita' tecn
 E' approvato il modello di registro cronologico di carico e scarico dei rifiuti di cui all'articolo 190, comma 2, del decreto legislativo n. 152 del 2006 come riportato nell'allegato I.
 
 Nel registro cronologico di carico e scarico sono integrate anche le informazioni dei formulari di identificazione del rifiuto.
+
+3.
+                        
+                            
+                                Il registro cronologico di carico e scarico e' tenuto dai soggetti di cui all'articolo 190, comma 1, del decreto legislativo n. 152 del 2006: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sino alla data di iscrizione al RENTRI, in modalita' cartacea, mediante stampa di un format esemplare reso disponibile mediante il portale del RENTRI, compilato e vidimato da parte delle camere di commercio territorialmente competenti con le procedure e le modalita' previste dalla normativa sui registri IVA; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a partire dalla data di iscrizione al RENTRI, in modalita' digitale, con vidimazione digitale mediante l'assegnazione di un codice univoco dal servizio di vidimazione digitale delle camere di commercio tramite apposita applicazione utilizzabile attraverso il RENTRI; la compilazione in modalita' digitale e' effettuata nel rispetto delle seguenti disposizioni: 
+ 1) le registrazioni sono rese consultabili agli organi di controllo con mezzi informatici messi a disposizione dall'operatore, che ne deve assicurare il corretto funzionamento e costituiscono informazione primaria e originale da cui e' possibile effettuare, su diversi tipi di supporto, riproduzioni e copie per gli usi consentiti dalla legge. Le registrazioni sono effettuate dagli operatori in modo da garantire la possibilita' di riproduzione dei documenti posti in conservazione e l'estrazione delle informazioni dagli archivi informatici, relativamente alla serie di dati trasmessi al RENTRI, qualora cio' sia richiesto in sede di ispezioni o verifiche da parte degli organi di controllo; 
+ 2) i numeri di ciascuna registrazione che compongono il registro sono progressivi e non modificabili e garantiscono l'identificabilita' dell'utente; 
+ 3) qualunque rettifica alle registrazioni e' memorizzata con l'identificativo dell'utente che l'ha effettuata e l'identificativo temporale con data ed ora; 
+ 4) i sistemi gestionali adottati dall'operatore garantiscono nella formazione del documento il rispetto delle regole tecniche di cui al Codice dell'amministrazione digitale.
 
 Il registro cronologico e' tenuto in modalita' digitale secondo quanto indicato al comma 3, lettera b), o per il tramite dei servizi resi disponibili ai sensi dell'articolo 20.
 
@@ -93,6 +207,31 @@ Il formulario di identificazione del rifiuto in formato cartaceo e' generato con
 L'applicazione di cui al comma 2 rende disponibile a coloro che utilizzano propri sistemi gestionali per la compilazione dei formulari un accesso dedicato al servizio anche in modalita' telematica al fine di consentire l'apposizione del codice univoco su ciascun formulario.
 
 Il formulario di identificazione dei rifiuti in formato cartaceo, stampato su moduli A4, e' riprodotto in due copie, compilate, datate e firmate dal produttore o detentore, sottoscritte altresi' dal trasportatore. Una copia rimane presso il produttore o il detentore, un'altra viene sottoscritta e datata in arrivo dal destinatario che rilascia una riproduzione al trasportatore. Il trasportatore provvede a trasmetterne una al produttore o al detentore, o agli operatori coinvolti nelle diverse fasi del trasporto.
+
+5.
+                        
+                            
+                                La trasmissione della copia del formulario compilato in tutte le sue parti puo' avvenire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mediante consegna diretta da parte del trasportatore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mediante posta elettronica certificata da parte del trasportatore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mediante i servizi specifici resi disponibili dal RENTRI secondo le procedure operative di cui all'articolo 21.
 
 ## Art. 7. — Formulario di identificazione del rifiuto 
  in formato digitale
@@ -137,15 +276,97 @@ Per quanto non espressamente disciplinato nel presente Titolo, si applicano le d
 
 Il RENTRI e' gestito dal Ministero dell'ambiente e della sicurezza energetica, nel rispetto delle disposizioni contenute nel regolamento (UE) 2016/679 ed utilizza la piattaforma telematica dell'Albo nazionale gestori ambientali interconnessa con la rete telematica delle camere di commercio.
 
+2.
+                        
+                            
+                                Il RENTRI e' articolato in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una sezione Anagrafica, comprensiva dei dati anagrafici degli operatori e delle informazioni relative alle specifiche autorizzazioni rilasciate agli stessi per l'esercizio di attivita' inerenti alla gestione dei rifiuti. In tale sezione e' inserita l'informativa sulla privacy volta ad ottenere il previsto consenso al trattamento dei dati di cui al regolamento (UE) 2016/679; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una sezione Tracciabilita', comprensiva dei dati relativi agli adempimenti di cui agli articoli 190 e 193 del decreto legislativo n. 152 del 2006 e dei dati afferenti ai percorsi rilevati dai sistemi di geolocalizzazione di cui all'articolo 16.
+
 Il RENTRI e' integrato con la piattaforma telematica dell'Albo nazionale gestori ambientali.
 
 ## Art. 11. — Funzioni di supporto tecnico operativo dell'Albo nazionale gestori ambientali
+
+1.
+                        
+                            
+                                L'Albo nazionale gestori ambientali fornisce il necessario supporto tecnico operativo alla competente Direzione generale del Ministero dell'ambiente e della sicurezza energetica per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la gestione dei rapporti con l'utenza, le associazioni di categoria e le associazioni dei produttori di software, compresa l'informazione e la comunicazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli aspetti operativi di funzionamento della piattaforma telematica per la tracciabilita' descritti nel presente regolamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la predisposizione della documentazione tecnica relativa alle specifiche funzionali per la gestione ed evoluzione del RENTRI.
 
 Le sezioni regionali presso le camere di commercio assicurano la gestione dei rapporti con gli utenti del RENTRI, anche in collaborazione con le associazioni di categoria, e l'organizzazione di adeguate attivita' di formazione ed informazione. Le sezioni regionali di cui al primo periodo assicurano altresi' la gestione delle procedure applicative relative all'iscrizione e alla verifica dei pagamenti, integrate nella piattaforma telematica dell'Albo nazionale gestori ambientali.
 
 I costi sostenuti per le attivita' di supporto fornito dalla segreteria del Comitato nazionale dell'Albo nazionale gestori ambientali e dalle sezioni regionali di cui al comma 2, da riconoscersi ai fini del rimborso delle spese di gestione e funzionamento del RENTRI, sono rendicontati sulla base di un'apposita convenzione stipulata tra la competente Direzione generale del Ministero dell'ambiente e della sicurezza energetica e Unioncamere.
 
 ## Art. 12. — Iscrizione al RENTRI
+
+1.
+                        
+                            
+                                Sono tenuti ad iscriversi al RENTRI, mediante l'accreditamento alla piattaforma telematica per il conferimento dei dati, i soggetti di cui all'articolo 6 del decreto-legge n. 135 del 2018, convertito, con modificazioni, dalla legge n. 12 del 2019, di seguito indicati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli enti e le imprese che effettuano il trattamento dei rifiuti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i produttori di rifiuti pericolosi, fatto salvo quanto previsto dal comma 3 dell'articolo 9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli enti e le imprese che raccolgono o trasportano rifiuti pericolosi a titolo professionale o che operano in qualita' di commercianti ed intermediari di rifiuti pericolosi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i Consorzi istituiti per il recupero e il riciclaggio di particolari tipologie di rifiuti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i soggetti di cui all'articolo 189, comma 3, del decreto legislativo n. 152 del 2006, con riferimento ai rifiuti non pericolosi.
 
 I soggetti di cui al comma 1 procedono all'iscrizione al RENTRI con le tempistiche riportate all'articolo 13 e con le modalita' indicate dall'articolo 21, fornendo gli ulteriori dati richiesti, rispetto a quelli derivanti dall'interconnessione con il Registro delle imprese, con l'Albo nazionale gestori ambientali, con il catasto dei rifiuti e con il Registro delle autorizzazioni alle operazioni di recupero.
 
@@ -160,9 +381,59 @@ I soggetti non obbligati, o per i quali non decorra ancora l'obbligo, possono is
 
 La cancellazione dal RENTRI degli operatori iscritti o di una o piu' unita' locale in ragione del venir meno nell'anno solare precedente dei requisiti che determinano l'obbligo di iscrizione ha effetto a partire dall'anno solare successivo.
 
+8.
+                        
+                            
+                                Le sezioni regionali dell'Albo nazionale gestori ambientali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    effettuano i controlli di cui all'articolo 71 del decreto del Presidente della Repubblica n. 445 del 2000, sulle dichiarazioni di cui al comma 4 del presente articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mettono a disposizione della Direzione generale competente del Ministero dell'ambiente e della sicurezza energetica, per il tramite della piattaforma telematica, apposita reportistica al fine del monitoraggio dell'andamento del RENTRI; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    accreditano le iscrizioni dei soggetti delegati di cui all'articolo 18 nell'apposita sezione del RENTRI.
+
 Sono esonerati dall'obbligo di iscrizione al RENTRI gli imprenditori agricoli di cui all'articolo 2135 c.c. che non producono rifiuti pericolosi.
 
 ## Art. 13. — Tempistiche di iscrizione
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente regolamento, l'iscrizione al RENTRI e' effettuata con le seguenti tempistiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a decorrere dal diciottesimo mese ed entro i sessanta giorni successivi, per enti o imprese produttori iniziali di rifiuti speciali pericolosi e non pericolosi con piu' di cinquanta dipendenti, e per tutti gli altri soggetti diversi dai produttori iniziali, ivi inclusi i soggetti di cui all'articolo 18; ((1))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dal ventiquattresimo mese ed entro i sessanta giorni successivi, per enti o imprese produttori di rifiuti speciali pericolosi e non pericolosi con piu' di dieci dipendenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dal trentesimo mese ed entro i sessanta giorni successivi, per tutti i restanti produttori iniziali di rifiuti speciali pericolosi obbligati ai sensi dell'articolo 12, comma 1.
 
 Gli enti e le imprese produttori iniziali di rifiuti che trasportano esclusivamente i propri rifiuti speciali pericolosi e non pericolosi iscritti all'Albo nazionale gestori ambientali ai sensi dell'articolo 212, comma 8, del decreto legislativo n. 152 del 2006, si iscrivono quando obbligati come produttori, nel rispetto delle tempistiche di cui al comma 1.
 
@@ -212,6 +483,24 @@ Il Comitato nazionale, con propria delibera, definisce le modalita' e le tempist
 
 I produttori iniziali di rifiuti possono adempiere agli obblighi di cui al Titolo III del presente regolamento, anche con riferimento alle attivita' di raccolta e trasporto dei propri rifiuti, delegando, al momento dell'iscrizione o successivamente ad essa, le rispettive associazioni imprenditoriali rappresentative sul piano nazionale o societa' di servizi di diretta emanazione delle stesse, ovvero il gestore del servizio di raccolta o del circuito organizzato di raccolta di cui all'articolo 183, comma 1, lettera pp), del decreto legislativo n. 152 del 2006.
 
+2.
+                        
+                            
+                                A tal fine, i soggetti delegati ai sensi del presente articolo sono tenuti a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    iscriversi al RENTRI in apposita sezione attestando il possesso dei requisiti descritti dalle procedure operative di cui all'articolo 21; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trasmettere i dati con le modalita' e le tempistiche stabilite dal presente regolamento.
+
 I produttori rimangono responsabili del contenuto delle informazioni inserite nel sistema.
 
 Le modalita' per la gestione delle deleghe di cui al presente articolo sono definite con le procedure operative di cui all'articolo 21 che assicurano modalita' semplificate, anche in considerazione delle deleghe gia' rilasciate con riferimento agli adempimenti di cui agli articoli 189 e 190 del decreto legislativo n. 152 del 2006.
@@ -237,6 +526,59 @@ Le modalita' operative di cui all'articolo 21 disciplinano la fruizione dei serv
 ## Art. 21.
 
 Modalita' operative
+
+1.
+                        
+                            
+                                La Direzione generale competente del Ministero dell'ambiente e della sicurezza energetica, sentito l'Albo nazionale gestori ambientali, definisce entro centottanta giorni dalla data di entrata in vigore del presente regolamento, con uno o piu' decreti direttoriali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' operative per assicurare la trasmissione dei dati al RENTRI ed il suo funzionamento, nonche' il monitoraggio con i relativi indicatori, anche nel rispetto delle disposizioni contenute nel regolamento (UE) 2016/679; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le istruzioni per l'accesso e l'iscrizione da parte degli operatori al RENTRI, l'informativa sulla privacy volta ad ottenere il previsto consenso al trattamento dei dati di cui al regolamento (UE) 2016/679, contenente, tra l'altro, la tipologia dei dati raccolti, la durata della loro conservazione nei sistemi informativi, le finalita' perseguite, le operazioni da svolgere, l'individuazione del titolare del trattamento e il ruolo dei soggetti in esso coinvolti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i requisiti informatici per garantire l'interoperabilita' del RENTRI con i sistemi adottati dagli operatori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di compilazione dei modelli di cui agli articoli 4 e 5; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i requisiti per i servizi di consultazione da parte delle amministrazioni interessate; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i manuali e le guide sintetiche a supporto degli operatori e degli utenti; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' di funzionamento degli strumenti di supporto di cui all'articolo 20.
 
 I decreti direttoriali di cui al comma 1 sono pubblicati sul sito del RENTRI.
 

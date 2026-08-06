@@ -8,8 +8,8 @@ codice_redazionale: 094G0320
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:57Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -33,6 +33,31 @@ Il presente regolamento disciplina il procedimento di finanziamento di piani e p
  Ministero del lavoro e della previdenza sociale il finanziamento totale.
 
 La richiesta del finanziamento totale dei piani e dei progetti e' presentata al Ministero del lavoro e della previdenza sociale.
+
+2.
+                    
+                        
+                            Il Ministero del lavoro e della previdenza sociale svolge l'istruttoria singolarmente per ciascun piano e progetto, entro sessanta giorni dalla data di presentazione. L'istruttoria riguardera', tra l'altro:
+ 
+                        
+                        
+                            a)
+                            
+                                esame di ammissibilita' volto a verificare, d'intesa con le amministrazioni competenti per materia, la rispondenza formale dei piani e progetti ai requisiti di cui all'articolo 4 del decreto ministeriale 31 gennaio 1989 del Ministro del lavoro e della previdenza sociale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esame di valutabilita' ed attendibilita', d'intesa con le amministrazioni competenti per materia, dei dati presentati a corredo dei piani e dei progetti ai fini dei conseguenti effetti occupazionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                valutazione micro-economica di merito sotto il profilo dell'apporto occupazionale in relazione ai requisiti di cui all'articolo 2 ed alle categorie previste dall'articolo 3 del decreto ministeriale 31 gennaio 1989 del Ministro del lavoro e della previdenza sociale.
 
 Nel corso dell'istruttoria, il Ministero del lavoro e della previdenza sociale sente il parere delle organizzazioni sindacali dei lavoratori e dei datori di lavoro maggiormente rappresentative sul piano nazionale, e dei rappresentanti delle regioni nelle quali i progetti devono venire realizzati. Trascorsi trenta giorni dalla richiesta del parere senza che questo sia stato espresso, il Ministero prescinde dal parere richiesto.
 

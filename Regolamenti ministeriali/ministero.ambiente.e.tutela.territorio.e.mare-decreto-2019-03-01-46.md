@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2019-03-01;46
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -58,6 +58,38 @@ Restano ferme le disposizioni vigenti sulla protezione delle acque sotterranee e
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini dell'applicazione del presente regolamento si applicano le definizioni di cui all'articolo 240 del decreto legislativo 3 aprile 2006, n. 152, nonche' le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                area agricola: la porzione di territorio destinata alle produzioni agroalimentari; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                produzioni agroalimentari: le attivita' di coltura agraria, pascolo e allevamento per la produzione di alimenti destinati al consumo umano o all'alimentazione di animali destinati al consumo umano; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                valutazione di rischio: valutazione complessiva degli elementi di potenziale rischio ambientale e sanitario associato all'esposizione indiretta per assunzione alimentare, condotta secondo i criteri di cui all'allegato 3, che costituisce parte integrante del presente regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                valore di fondo geochimico: distribuzione di una sostanza nel suolo derivante dai processi naturali, con eventuale componente antropica non rilevabile o non apprezzabile.
+
 ## Art. 3. — Procedure operative per la caratterizzazione delle aree
 
 Al verificarsi di un evento che sia potenzialmente in grado di contaminare un'area agricola, il responsabile dall'inquinamento pone tempestivamente in essere le necessarie misure di prevenzione e ne da' immediata comunicazione, ai sensi e con le modalita' di cui all'articolo 304, comma 2, del decreto legislativo 3 aprile 2006, n. 152, alla regione, alla provincia, al comune, all'Agenzia regionale per la protezione dell'ambiente (ARPA) e all'Azienda sanitaria locale (ASL) territorialmente competenti nonche', per le aree ricadenti all'interno del perimetro di Siti di interesse nazionale (SIN), anche al Ministero dell'ambiente e della tutela del territorio e del mare.
@@ -83,6 +115,38 @@ Procedure operative e modalita'
  per l'attuazione degli interventi
 
 Se all'esito della valutazione di rischio le concentrazioni riscontrate sono incompatibili con l'ordinamento colturale effettivo e potenziale o con il tipo di allevamento su di esso praticato, il soggetto responsabile dell'inquinamento deve presentare alle amministrazioni di cui all'articolo 3, comma 1, del presente regolamento nonche' nel caso di aree ricadenti nel perimetro dei SIN, anche al Ministero delle politiche agricole alimentari, forestali e del turismo e al Ministero della salute, le risultanze della valutazione di rischio e il progetto operativo degli interventi di bonifica o di messa in sicurezza e, ove necessario, le ulteriori misure di riparazione e di ripristino ambientale, al fine di minimizzare e ricondurre ad accettabilita' il rischio derivante dallo stato di contaminazione presente nel sito, in conformita' a quanto stabilito dall'allegato 4, che costituisce parte integrante del presente regolamento. Le suddette risultanze e il progetto operativo sono presentati entro novanta giorni dalla data della comunicazione di cui all'articolo 3, comma 1.
+
+2.
+                    
+                        
+                            Il progetto degli interventi di cui al comma 1 deve contenere i seguenti elementi: 
+ 
+                        
+                        
+                            a)
+                            
+                                una planimetria recante le particelle catastali oggetto di intervento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione delle tecnologie e dei processi da applicare; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la descrizione degli obiettivi dell'intervento di riduzione del rischio e modalita' di verifica degli stessi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'indicazione delle limitazioni sulle tipologie di coltivazioni da adottare.
 
 Entro trenta giorni dal ricevimento del progetto degli interventi di cui al comma 1 la regione o, nel caso di aree ricadenti nel perimetro dei SIN, il Ministero dell'ambiente e della tutela del territorio e del mare, convoca una conferenza di servizi per l'approvazione degli interventi, con eventuali prescrizioni ed integrazioni. Con il provvedimento di approvazione del progetto sono stabiliti anche i tempi di esecuzione degli interventi da parte del soggetto responsabile.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-05-29
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,6 +40,24 @@ La pesca professionale e' l'attivita' economica organizzata svolta in ambienti m
 
 ((
 
+2.
+                        
+                            
+                                Rientrano nelle attivita' di pesca professionale, se effettuate dall'imprenditore ittico di cui all'articolo 4, le seguenti attivita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    imbarco di persone non facenti parte dell'equipaggio su navi da pesca a scopo turistico-ricreativo, denominata 'pesca-turismo'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' di ospitalita', ricreative, didattiche, culturali e di servizi, finalizzate alla corretta fruizione degli ecosistemi acquatici e delle risorse della pesca e alla valorizzazione degli aspetti socio-culturali delle imprese ittiche, esercitate da imprenditori, singoli o associati, attraverso l'utilizzo della propria abitazione o di struttura nella disponibilita' dell'imprenditore stesso, denominate 'ittiturismo'.
+
 2-bis. Sono connesse all'attivita' di pesca professionale, purche' non prevalenti rispetto a questa ed effettuate dall'imprenditore ittico mediante l'utilizzo di prodotti provenienti in prevalenza dalla propria attivita' di pesca ovvero di attrezzature o di risorse dell'azienda normalmente impiegate nell'impresa ittica, le seguenti attivita':
 
 a) la trasformazione, la distribuzione e la commercializzazione dei prodotti della pesca, nonche' le azioni di promozione e valorizzazione;
@@ -53,6 +71,31 @@ L'imbarco di persone di cui al comma 1, lettera a), e' autorizzato dall'autorita
 ## Art. 3. — Acquacoltura
 
 Fermo restando quanto previsto dall'articolo 2135 del codice civile, l'acquacoltura e' l'attivita' economica organizzata, esercitata professionalmente, diretta all'allevamento o alla coltura di organismi acquatici attraverso la cura e lo sviluppo di un ciclo biologico o di una fase necessaria del ciclo stesso, di carattere vegetale o animale, in acque dolci, salmastre o marine.
+
+2.
+                        
+                            
+                                Sono connesse all'acquacoltura le attivita', esercitate dal medesimo acquacoltore, dirette a: 
+ 
+                            
+                            
+                                a)
+                                
+                                    manipolazione, conservazione, trasformazione, commercializzazione, promozione e valorizzazione che abbiano ad oggetto prodotti ottenuti prevalentemente dalle attivita' di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornitura di beni o servizi mediante l'utilizzazione prevalente di attrezzature o risorse dell'azienda normalmente impiegate nell'attivita' di acquacoltura esercitata, ivi comprese le attivita' di ospitalita', ricreative, didattiche e culturali, finalizzate alla corretta fruizione degli ecosistemi acquatici e vallivi e delle risorse dell'acquacoltura, nonche' alla valorizzazione degli aspetti socio-culturali delle imprese di acquacoltura, esercitate da imprenditori, singoli o associati, attraverso l'utilizzo della propria abitazione o di struttura nella disponibilita' dell'imprenditore stesso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attuazione di interventi di gestione attiva, finalizzati alla valorizzazione produttiva, all'uso sostenibile degli ecosistemi acquatici ed alla tutela dell'ambiente costiero.
 
 Alle opere, alle strutture destinate alle attivita' di cui alla lettera b) del comma 2 si applicano le disposizioni di cui all'articolo 19, commi 2 e 3, del testo unico delle disposizioni legislative e regolamentari in materia di edilizia, approvato con decreto Presidente della Repubblica 6 giugno 2001, n. 380, nonche' all'articolo 24, comma 2, della legge 5 febbraio 1992, n. 104, relativamente all'utilizzo di opere provvisionali per l'accessibilita' ed il superamento delle barriere architettoniche.
 
@@ -78,6 +121,31 @@ Le concessioni di aree demaniali marittime e loro pertinenze, di zone di mare te
 
 E' giovane imprenditore ittico l'imprenditore di cui all'articolo 4 avente una eta' non superiore a 40 anni.
 
+2.
+                        
+                            
+                                Ai fini dell'applicazione della normativa nazionale e comunitaria in materia di imprenditoria giovanile, si considerano imprese ittiche giovanili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' semplici, in nome collettivo e cooperative ove almeno i due terzi dei soci abbiano eta' inferiore a 40 anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le societa' in accomandita semplice ove almeno il socio accomandatario sia giovane imprenditore ittico. In caso di due o piu' soci accomandatari si applica il criterio dei due terzi di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le societa' di capitali di cui i giovani imprenditori ittici detengano oltre il 50 per cento del capitale sociale e gli organi di amministrazione della societa' siano costituiti in maggioranza da giovani imprenditori ittici.
+
 All'articolo 8, comma 1, della legge 15 dicembre 1998, n. 441, dopo le parole: «imprenditorialita' giovanile in agricoltura» sono inserite le seguenti: «e pesca» e dopo le parole: «a livello nazionale» sono inserite le seguenti: «e delle associazioni nazionali riconosciute delle cooperative della pesca comparativamente piu' rappresentative a livello nazionale, delle associazioni nazionali delle imprese di pesca e acquacoltura e dalle organizzazioni sindacali dei lavoratori del settore della pesca e dell'acquacoltura comparativamente piu' rappresentativi a livello nazionale».
 
 All'articolo 2, comma 120, della legge 24 dicembre 2007, n. 244 (legge finanziaria 2008), e' aggiunto, in fine, il seguente periodo: «Il 20 per cento delle risorse del Fondo e' destinato alle finalita' di cui al presente comma».
@@ -100,6 +168,59 @@ La pesca con il fucile subacqueo o con attrezzi similari e' consentita soltanto 
 
 ((
 
+1.
+                        
+                            
+                                Al fine di tutelare le risorse biologiche il cui ambiente abituale o naturale di vita sono le acque marine, nonche' di prevenire, scoraggiare ed eliminare la pesca illegale, non dichiarata e non regolamentata, e' fatto divieto di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    pescare, detenere, trasbordare, sbarcare, trasportare e commercializzare le specie di cui sia vietata la cattura in qualunque stadio di crescita, in violazione della normativa vigente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    danneggiare le risorse biologiche delle acque marine con l'uso di materie esplodenti, dell'energia elettrica o di sostanze tossiche atte ad intorpidire, stordire o uccidere i pesci e gli altri organismi acquatici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    raccogliere, trasportare o mettere in commercio pesci ed altri organismi acquatici intorpiditi, storditi o uccisi con le modalita' di cui alla lettera b); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pescare in acque sottoposte alla sovranita' di altri Stati, salvo che nelle zone, nei tempi e nei modi previsti dagli accordi internazionali, ovvero sulla base delle autorizzazioni rilasciate dagli Stati interessati. Allo stesso divieto sono sottoposte le unita' non battenti bandiera italiana che pescano nelle acque sottoposte alla sovranita' della Repubblica italiana; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    esercitare la pesca in acque sottoposte alla competenza di un'organizzazione regionale per la pesca, violandone le misure di conservazione o gestione e senza avere la bandiera di uno degli Stati membri di detta organizzazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sottrarre od asportare gli organismi acquatici oggetto dell'altrui attivita' di pesca, esercitata mediante attrezzi o strumenti fissi o mobili, sia quando il fatto si commetta con azione diretta su tali attrezzi o strumenti, sia esercitando la pesca con violazione delle distanze di rispetto stabilite dalla normativa vigente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    sottrarre od asportare gli organismi acquatici che si trovano in spazi acquei sottratti al libero uso e riservati agli stabilimenti di pesca e di acquacoltura e comunque detenere, trasportare e fare commercio dei detti organismi.
+
 Il divieto di cui al comma 1, lettera a), non riguarda la pesca scientifica, nonche' le altre attivita' espressamente autorizzate ai sensi delle normative internazionale, europea e nazionale vigenti.
 Resta esclusa qualsiasi forma di commercializzazione per i prodotti di tale tipo di pesca ed e' consentito detenere e trasportare le specie pescate per soli fini scientifici.
 
@@ -116,6 +237,38 @@ Chiunque viola i divieti di cui all'articolo 7, comma 1, lettere f) e g), e' pun
 ))
 
 ## Art. 9. — (Pene accessorie per le contravvenzioni)
+
+1.
+                        
+                            
+                                La condanna per le contravvenzioni previste e punite dal presente decreto comporta l'applicazione delle seguenti pene accessorie: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la confisca del pescato, salvo che esso sia richiesto dagli aventi diritto nelle ipotesi previste dall'articolo 7, comma 1, lettere f) e g); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la confisca degli attrezzi, degli strumenti e degli apparecchi con i quali e' stato commesso il reato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'obbligo di rimettere in pristino lo stato dei luoghi nei casi contemplati dall'articolo 7, comma 1, lettere b), f) e g), qualora siano stati arrecati danni ad opere o impianti ivi presenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la sospensione dell'esercizio commerciale da cinque a dieci giorni, in caso di commercializzazione o somministrazione di esemplari di specie ittiche di cui e' vietata la cattura in qualunque stadio di crescita, in violazione della normativa vigente.
 
 Qualora le violazioni di cui all'articolo 7, comma 1, lettere d) ed e), abbiano ad oggetto le specie ittiche tonno rosso (Thunnus thynnus) e pesce spada (Xiphias gladius), e' sempre disposta nei confronti del titolare dell'impresa di pesca la sospensione della licenza di pesca per un periodo da tre mesi a sei mesi e, in caso di recidiva, la revoca della medesima licenza.
 
@@ -305,6 +458,38 @@ Se un peschereccio la cui licenza di pesca e' stata sospesa o revocata a titolo 
 
 Qualora una licenza di pesca sia stata sospesa ai sensi dell'articolo 16, eventuali nuovi punti assegnati alla licenza di pesca vengono aggiunti ai punti esistenti ai fini dell'applicazione dell'articolo 16.
 
+2.
+                        
+                            
+                                Se il numero totale di punti assegnati alla licenza di pesca e' superiore a due vengono cancellati due punti qualora: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il peschereccio utilizzato per commettere l'infrazione per cui sono stati assegnati i punti utilizzi in seguito il sistema di controllo dei pescherecci «vessel monitoring system» - VMS o proceda alla registrazione e alla trasmissione elettronica dei dati del giornale di pesca, della dichiarazione di trasbordo e della dichiarazione di sbarco senza essere legalmente obbligato all'uso di tali tecnologie, o; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il titolare della licenza di pesca si offra volontariamente, dopo l'assegnazione dei punti, per partecipare a una campagna scientifica per il miglioramento della selettivita' degli attrezzi da pesca, o; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il titolare della licenza di pesca sia membro di un'organizzazione di produttori e accetti un piano di pesca adottato dall'organizzazione di produttori nell'anno successivo all'assegnazione dei punti che comporti una riduzione del 10 per cento delle possibilita' di pesca per il titolare della licenza di pesca, o; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il titolare della licenza di pesca partecipi a una attivita' di pesca che rientri in un programma di etichettatura ecologica destinato a certificare e promuovere etichette per i prodotti provenienti da una corretta gestione della pesca marittima e focalizzato su temi correlati all'utilizzo sostenibile delle risorse della pesca.
+
 Per ciascun periodo triennale successivo alla data dell'ultima infrazione grave, il titolare di una licenza di pesca puo' avvalersi una sola volta di una delle opzioni di cui alle lettere a), b), c) e d) del comma 2 per ridurre il numero di punti assegnatigli, a condizione che tale riduzione non comporti la cancellazione di tutti i punti della licenza di pesca.
 
 Nel caso in cui non venga commessa una nuova infrazione grave nei tre anni successivi all'ultima infrazione grave, tutti i punti applicati sulla licenza di pesca sono annullati.
@@ -320,6 +505,31 @@ La commissione di un'infrazione grave ((...)) da' sempre luogo all'assegnazione 
 Con successivo decreto del Ministro delle politiche agricole alimentari e forestali sono individuati modalita', termini e procedure per l'applicazione del sistema di punti di cui al presente articolo.
 
 ## Art. 20. — Sanzioni applicate al comandante della nave
+
+1.
+                        
+                            
+                                L'applicazione del sistema di punti di cui all'articolo 19, comporta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al raggiungimento di un numero di punti pari o superiore a 18, il divieto di svolgere le funzioni di comandante per un periodo di 15 giorni dalla data di notifica del provvedimento di assegnazione dei punti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al raggiungimento di un numero di punti pari o superiore a 54, il divieto di svolgere le funzioni di comandante per un periodo di 30 giorni dalla data di notifica del provvedimento di assegnazione dei punti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al raggiungimento di un numero di punti pari o superiore a 90, il divieto di svolgere le funzioni di comandante per un periodo di 2 mesi dalla data di notifica del provvedimento di assegnazione dei punti.
 
 Se nel corso di una ispezione vengono accertate due o piu' infrazioni gravi, sono assegnati fino a un massimo di 12 punti.
 
@@ -371,6 +581,52 @@ Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri 
 Le amministrazioni pubbliche interessate provvedono all'attuazione del presente decreto con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 ## Art. 27. — Abrogazioni
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente decreto, sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 14 luglio 1965, n. 963; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'articolo 7 del decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 1 della legge 5 febbraio 1992, n. 102; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli articoli 2 e 3 del decreto legislativo 18 maggio 2001, n. 226, e successive modificazioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i commi 2 e 3 dell'articolo 1 e gli articoli 6, 7, 8 e 9 del decreto legislativo 26 maggio 2004, n. 153; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i commi 2 e 2-bis dell'articolo 11 del decreto legislativo 26 maggio 2004, n. 154.
 
 Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto.
 

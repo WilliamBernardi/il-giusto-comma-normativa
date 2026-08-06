@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-05-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,45 @@ Il presente decreto, in attuazione delle deleghe di cui all'articolo 7 della leg
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Associazione o Societa' sportiva Dilettantistica: il soggetto giuridico affiliato ad una Federazione Sportiva Nazionale, ad una Disciplina Sportiva Associata o ad un Ente di promozione sportiva che svolge, senza scopo di lucro, attivita' sportiva, nonche' la formazione, la didattica, la preparazione e l'assistenza all'attivita' sportiva dilettantistica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Comitato Olimpico Nazionale Italiano (CONI): l'ente pubblico, riconosciuto dal Comitato Olimpico Internazionale che, in conformita' alla Carta olimpica, svolge il ruolo di Comitato Olimpico sul territorio nazionale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Commissione unica per l'impiantistica sportiva: l'organo competente a certificare l'idoneita' ai fini sportivi di tutti gli impianti sportivi, inclusi quelli scolastici, nel rispetto delle norme emanate dalle Federazioni Sportive Nazionali ed internazionali relative alla pratica dei rispettivi sport; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    impianto sportivo: la struttura, all'aperto o al chiuso, preposta allo svolgimento di manifestazioni sportive, comprensiva di uno o piu' spazi di attivita' sportiva dello stesso tipo o di tipo diverso, nonche' di eventuali zone spettatori, servizi accessori e di supporto; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Istituto per il Credito Sportivo (ICS): l'ente di diritto pubblico, istituito dalla legge 24 dicembre 1957 n.1295, che svolge attivita' bancaria nel settore del credito per lo sport e per le attivita' culturali.
+
 ## Art. 3. — Competenze legislative di Stato, 
  regioni e province autonome
 
@@ -51,6 +90,25 @@ Il documento di fattibilita' delle alternative progettuali, predisposto ai sensi
 Il documento di fattibilita' di cui al comma 1, nell'ipotesi di impianti pubblici omologati per una capienza superiore a 16.000 posti, puo' prevedere che, a far tempo da cinque ore prima dell'inizio delle competizioni ufficiali e fino a tre ore dopo la loro conclusione, entro 300 metri dal perimetro dell'area riservata, l'occupazione di suolo pubblico per attivita' commerciali sia consentita solo all'associazione o alla societa' sportiva dilettantistica o professionistica utilizzatrice dell'impianto sportivo. In tal caso, le autorizzazioni e le concessioni di occupazione di suolo pubblico gia' rilasciate ad altri soggetti all'interno di dette aree restano sospese nella stessa giornata e per lo stesso periodo di tempo, con oneri di indennizzo a carico dell'associazione o societa' sportiva dilettantistica o professionistica utilizzatrice dell'impianto sportivo, salvi diversi accordi tra il titolare e la medesima associazione o societa' sportiva. Nell'ipotesi di impianti sportivi pubblici omologati per una capienza compresa tra 5.000 e 16.000 posti, la disposizione del primo periodo si applica entro 150 metri dal perimetro dell'area riservata, restando ferme e impregiudicate la validita' e l'efficacia delle autorizzazioni e delle concessioni di occupazione di suolo pubblico gia' rilasciate.
 
 Il Comune o l'ente locale o pubblico interessato, previa conferenza di servizi preliminare convocata su istanza dell'interessato in ordine al documento di fattibilita', ove ne valuti positivamente i contenuti, dichiara, entro il termine di sessanta giorni dalla presentazione del documento medesimo, il pubblico interesse della proposta, confermando la disponibilita' a concedere le eventuali forme di contributo pubblico previste nella proposta e nell'allegato piano economico-finanziario ed eventualmente indicando le condizioni necessarie per ottenere i successivi atti di assenso sul progetto. Alla conferenza di servizi preliminare partecipa anche il Comando dei vigili del fuoco competente per territorio, per gli aspetti di competenza. La conferenza di servizi preliminare di cui al presente comma, esamina eventuali istanze concorrenti in ordine cronologico di protocollazione, individuando quella da dichiarare di interesse pubblico e da ammettere alla conferenza di servizi decisoria di cui al comma 7. Il verbale conclusivo della conferenza di servizi preliminare e' pubblicato nel sito internet istituzionale del comune e nel Bollettino Ufficiale della Regione. Il sindaco convoca la conferenza di servizi preliminare entro 7 giorni dalla presentazione dell'istanza corredata dal documento di fattibilita'. La conferenza deve tenersi in una data non successiva a 15 giorni. Qualora il sindaco, il sindaco metropolitano o il presidente della Provincia non convochi la conferenza preliminare nei termini previsti, il soggetto proponente puo' presentare una richiesta di convocazione della conferenza di servizi di cui al presente comma al presidente della Regione o all'assessore delegato in materia di sport, il quale, sentito il sindaco o il sindaco metropolitano o il presidente della Provincia, provvede alla convocazione della conferenza per una data non superiore a 15 giorni dalla data di ricezione della richiesta. Nel corso del procedimento di cui al presente comma, il Comune puo' chiedere al proponente di procedere alle modifiche progettuali necessarie al fine di superare tempestivamente eventuali lacune o criticita' della proposta.
+
+5.
+                        
+                            
+                                Sulla base della dichiarazione di pubblico interesse della proposta di cui al comma 4, il soggetto proponente presenta al Comune il ((progetto di fattibilita' tecnica ed economica)), conformemente alle norme di cui al decreto del Presidente della Repubblica 1° agosto 2011, n. 151, relativo alla prevenzione degli incendi.
+Quest'ultimo tiene conto delle condizioni indicate in sede di conferenza di servizi preliminare ed e' redatto ((nel rispetto del codice dei contratti pubblici di cui al decreto legislativo 31 marzo 2023, n. 36)). Il ((progetto di fattibilita' tecnica ed economica)) e' corredato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di una bozza di convenzione con l'Amministrazione comunale, metropolitana o provinciale che, oltre a prevedere che la realizzazione delle opere di urbanizzazione precede o e' almeno contestuale alla realizzazione dei lavori di ristrutturazione o di nuova edificazione dell'impianto sportivo, specifichi i criteri generali di esecuzione dei lavori, la durata e le condizioni contrattuali dell'eventuale cessione del diritto di superficie o di usufrutto o della compravendita. Nella determinazione del canone o del prezzo eventualmente dovuto per la cessione dei diritti o per il trasferimento della proprieta' e delle altre condizioni contrattuali, cosi' come dell'eventuale concessione di un contributo pubblico o di altre misure di sostegno pubblico, le parti tengono conto dei costi e dei benefici dell'intervento per l'associazione o societa' sportiva, per la comunita' territoriale di riferimento anche in termini di crescita economica, integrazione sociale e riqualificazione urbanistica, nonche' di efficienza energetica. I benefici dell'opera di riqualificazione o rigenerazione comprendono anche voci non suscettibili di immediata valutazione economico-patrimoniale, quali ad esempio, i vantaggi sociali diretti e indiretti derivanti dall'ospitare l'impianto sportivo utilizzato dall'associazione o societa' sportiva e l'importanza del radicamento dell'associazione o della societa' sportiva presso la comunita' locale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di un piano economico-finanziario asseverato da un istituto di credito o da societa' di servizi costituite dall'istituto di credito stesso e iscritte all'elenco generale degli intermediari finanziari, ai sensi dell'articolo 106 del decreto legislativo 1° settembre 1993, n. 385, o da una societa' di revisione ai sensi dell'articolo 1 della legge 23 novembre 1939, n. 1966, che indichi l'importo delle spese di predisposizione della proposta ed i costi sostenuti per la predisposizione del ((progetto di fattibilita' tecnica ed economica)) e dia conto, anche mediante i ricavi di gestione, dell'effettiva copertura finanziaria dei costi di realizzazione e gestione dell'impianto.
 
 Nel caso di interventi da realizzare su aree di proprieta' pubblica o su impianti pubblici esistenti ovvero ((nelle ipotesi espressamente previste dal codice dei contratti pubblici di cui al decreto legislativo 31 marzo 2023, n. 36)), il piano economico-finanziario di cui al comma 5, lettera b), e' asseverato ((ai sensi dell'articolo 193 del medesimo codice)), e la bozza di convenzione con l'amministrazione proprietaria per la concessione o altro contratto di partenariato pubblico privato deve specificare, oltre ai contenuti di cui al comma 5, lettera a), le caratteristiche e i criteri generali dei servizi e della gestione. ((In relazione agli interventi di cui al precedente periodo, e fatto salvo quanto previsto ai sensi dell'articolo 193 del codice dei contratti pubblici di cui al decreto legislativo 31 marzo 2023, n. 36, il soggetto proponente deve essere in possesso dei requisiti di partecipazione previsti dal medesimo codice)).
 
@@ -119,6 +177,74 @@ Nel caso in cui la gestione di un impianto sportivo pubblico sia affidata a soci
 
 Con decreto del Presidente del Consiglio dei ministri o dell'Autorita' politica da esso delegata in materia di sport, di concerto con il Ministro dell'interno, con il Ministro delle Infrastrutture e Trasporti e con il Ministro della salute, da adottarsi ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro 150 giorni dall'entrata in vigore del presente decreto, acquisita l'intesa della Conferenza Unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997 n. 281, viene emanato il regolamento unico delle norme tecniche di sicurezza per la costruzione, la modificazione, l'accessibilita' e l'esercizio degli impianti sportivi.
 
+2.
+                        
+                            
+                                Il regolamento unico: 
+ 
+                            
+                            
+                                a)
+                                
+                                    procede al riordino, all'ammodernamento e al coordinamento di tutte le disposizioni e norme di carattere strutturale, anche relative alla prevenzione del rischio sismico e idrogeologico, per gli ambiti specifici dell'impiantistica sportiva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    definisce i criteri progettuali e gestionali per la costruzione, modificazione e l'esercizio degli impianti sportivi con particolare riguardo a: ubicazione dell'impianto sportivo; area di servizio annessa all'impianto; spazi riservati agli spettatori e all'attivita' sportiva; sistemi di separazione tra zona spettatori e zona attivita' sportiva; vie di uscita; aree di sicurezza e varchi; servizi di supporto della zona spettatori; spogliatoi; strutture, finiture, arredi, depositi e impianti tecnici; dispositivi di controllo degli spettatori; distributori automatici di cibi e bevande la cui somministrazione dovra' avvenire in ottemperanza alle linee guida emanate ai sensi dell'articolo 4, comma 5-bis del decreto legge 12 settembre 2013, n. 104, convertito, con modificazioni, dalla legge 8 novembre 2013, n. 128; sicurezza antincendio; ordine e sicurezza pubblica. ((Il regolamento unico prevede l'utilizzo del Registro nazionale delle attivita' sportive dilettantistiche di cui al decreto legislativo 28 febbraio 2021, n. 39, per la raccolta e gestione dei dati)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    organizza le disposizioni in funzione della tipologia dell'impianto, delle discipline sportive e del numero di spettatori presenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dedica una apposita sezione agli impianti per il gioco del calcio ai vari livelli di attivita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dedica specifiche previsioni relative alle manifestazioni occasionali che si svolgono negli impianti sportivi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    individua criteri progettuali e gestionali orientati a garantire la sicurezza, l'accessibilita' e la fruibilita' degli impianti sportivi, tra cui quelli volti a regolare l'accesso e l'esodo in sicurezza degli spettatori e dei vari utenti che a qualsiasi titolo utilizzano l'impianto, dei mezzi di soccorso, inclusi gli spazi di manovra e stazionamento degli stessi, nel rispetto del massimo affollamento previsto per l'impianto e del sistema di vie d'uscita dallo stesso, nonche' i criteri progettuali e gestionali finalizzati a prevenire i fenomeni di violenza all'interno e all'esterno degli impianti sportivi, tenuto conto della redditivita' degli interventi e della gestione economico-finanziaria degli impianti sportivi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    recepisce le norme tecniche europee (UNI EN); 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    indica i criteri per l'elaborazione di prezziari digitali interoperabili a mezzo di formati aperti con modelli informativi per la progettazione, la realizzazione, la riqualificazione e la gestione degli stessi; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    disciplina, nel rispetto di quanto previsto dall'articolo 80 del Testo Unico delle leggi di Pubblica Sicurezza approvato con regio decreto 18 giugno 1931, n. 773, il procedimento per la verifica di conformita' dell'impianto e per il rilascio del certificato di idoneita' statica. 
+ 2. Con decreto del Ministro dell'interno, da adottarsi ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, si provvede al riordino e all'aggiornamento delle norme in materia di ordine e sicurezza pubblica nonche' di prevenzione incendi e sicurezza antincendio.
+
 ## - Capo IV Norme tecniche di funzionalità sportiva
 
 ## Art. 9. — Commissione unica 
@@ -140,6 +266,52 @@ In osservanza delle competenze statutarie di cui all'articolo 9, comma 1, numero
 Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le Amministrazioni interessate provvedono agli adempimenti del presente provvedimento con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 ## Art. 12. — Abrogazioni
+
+1.
+                        
+                            
+                                A decorrere dall'entrata in vigore del presente decreto sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il decreto-legge 3 gennaio 1987, n. 2, convertito dalla legge 6 marzo 1987, n. 65; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il decreto-legge 2 febbraio 1988, n. 22, convertito dalla legge di conversione 21 marzo 1988, n. 92; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i commi 24, 25, 26 dell'articolo 90 della legge 27 dicembre 2002, n. 289; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i commi 304 e 305 dell'articolo 1 della legge 27 dicembre 2013, n. 147; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i commi 6 e 7 dell'articolo 15 del decreto-legge 25 novembre 2015, n. 185, convertito, con modificazioni, dalla legge 22 gennaio 2016, n. 9; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i commi 1, 2, 2-bis, 3, 4, 5, 5-bis, 5-ter, dell'articolo 62 del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96.
 
 All'articolo 62, comma 1-bis, primo periodo, del decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni, dalla legge 21 giugno 2017, n. 96, le parole «gli interventi di cui al comma 1» sono sostituite dalle parole seguenti: «interventi di costruzione o di ristrutturazione dei medesimi impianti sportivi». 
  Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. 

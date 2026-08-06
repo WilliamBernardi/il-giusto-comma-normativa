@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2023-11-23;194
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,6 +31,38 @@ Finalita' ed ambito di applicazione
 Il presente decreto legislativo prevede le disposizioni per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2019/4 relativo alla fabbricazione, all'immissione sul mercato e all'utilizzo di mangimi medicati, che modifica il regolamento (CE) n. 183/2005 del Parlamento europeo e del Consiglio e che abroga la direttiva 90/167/CEE del Consiglio, di seguito denominato «regolamento», nonche' quelle necessarie all'attuazione dell'articolo 16 della legge 4 agosto 2022, n. 127.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto, si applicano le definizioni di cui all'articolo 3 del regolamento e le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                persona adeguatamente formata: una persona in possesso di un diploma di laurea, o altro titolo di studio anche estero riconosciuto equivalente, che attesti un ciclo di formazione universitaria della durata minima di tre anni attinente alle discipline scientifiche di farmacia, medicina veterinaria, scienze agrarie, chimica, chimica e tecnologia farmaceutica, biologia o ingegneria chimica o gestionale, ovvero in possesso dell'abilitazione all'esercizio della professione di perito agrario, ovvero con documentata esperienza nel settore mangimistico da almeno cinque anni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                produzione industriale di mangimi medicati e prodotti intermedi: la produzione di mangimi medicati e prodotti intermedi destinata alla vendita ad altri operatori del settore dei mangimi o a detentori di animali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                produzione di mangimi medicati per autoconsumo: la miscelazione in azienda di mangimi medicati a partire da medicinali veterinari autorizzati o da prodotti intermedi finalizzata al fabbisogno esclusivo della propria azienda come definita all'articolo 3, punto 2, lettera g), del regolamento; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sistema informativo di tracciabilita': sistema informativo di tracciabilita' dei medicinali veterinari e dei mangimi medicati e dei prodotti intermedi, composto dal Sistema della banca dati centrale della tracciabilita' del farmaco (BDC) di cui all'articolo 5-bis del decreto legislativo 30 dicembre 1992, n. 540 e dal Sistema informativo nazionale per la farmacosorveglianza.
 
 Coloro che alla data di entrata in vigore del presente decreto, esercitano le attivita' di responsabile di fabbricazione, o responsabile di qualita', o responsabile della immissione sul mercato o della fornitura al detentore di animali di mangimi medicati e di prodotti intermedi, possono continuare ad esercitare tale attivita'.
 
@@ -200,6 +232,25 @@ I proventi derivanti all'applicazione delle sanzioni amministrative pecuniarie a
 Per la graduazione della sanzione amministrativa irrogata con ordinanza - ingiunzione, l'autorita' competente ai sensi dell'articolo 18, della legge 24 novembre 1981, n. 689, oltre ai criteri di cui all'articolo 11, della medesima legge, puo' tener conto del criterio relativo al grado di rischio di insorgenza di fenomeni di antimicrobicoresistenza derivanti dall'uso del mangime medicato.
 
 ## Art. 15. — Abrogazioni
+
+1.
+                    
+                        
+                            Dalla data di entrata in vigore del presente decreto sono abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                
+                                    il decreto legislativo 3 marzo 1993, n. 90, di attuazione della direttiva 90/167/CEE;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                l'allegato 3, lettera C, della legge 15 febbraio 1963, n. 281 concernente la disciplina della preparazione e del commercio dei mangimi.
 
 ## Art. 16. — Clausola di invarianza finanziaria
 

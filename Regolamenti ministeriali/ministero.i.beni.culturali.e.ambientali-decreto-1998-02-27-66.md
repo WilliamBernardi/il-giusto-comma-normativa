@@ -8,8 +8,8 @@ codice_redazionale: 098G0110
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,6 +40,31 @@ Il bilancio annuale di previsione e' articolato per l'entrata e per la spesa in 
 L'unita' elementare del bilancio e' rappresentata dal capitolo.
 
 Tutte le entrate e tutte le spese debbono essere iscritte in bilancio nel loro importo integrale.
+
+6.
+                    
+                        
+                            Per ciascun capitolo di entrata e di spesa il bilancio di previsione indica:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ammontare presunto dei residui attivi e passivi alla chiusura dell'esercizio precedente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ammontare delle entrate che si prevede di accertare e delle spese che si prevede di impegnare nell'esercizio cui il bilancio si riferisce;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ammontare delle entrate che si prevede di incassare e delle spese che si prevede di pagare nello stesso esercizio senza distinzione tra operazioni in conto competenza ed in conto residui.
 
 Nel bilancio di previsione e' iscritto come prima posta dell'entrata o della spesa l'ammontare presunto dell'avanzo o del disavanzo di amministrazione all'inizio dell'esercizio cui il bilancio si riferisce.
 
@@ -142,6 +167,45 @@ Le scritture finanziarie relative alla gestione del bilancio devono consentire d
 
 Le scritture patrimoniali devono consentire la dimostrazione dei beni in uso di cui all'articolo 10.
 
+3.
+                    
+                        
+                            Il sistema di scritture della soprintendenza e' il seguente:
+ 
+                        
+                        
+                            a)
+                            
+                                un partitario delle entrate, contenente per ciascun capitolo lo stanziamento iniziale e le variazioni, le somme accertate, quelle riscosse e quelle rimaste da riscuotere;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un partitario delle spese, contenente per ciascun capitolo lo stanziamento iniziale e le variazioni, le somme impegnate, quelle pagate e quelle rimaste da pagare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un partitario dei residui, contenente per ciascun capitolo e per esercizio di provenienza, la consistenza dei residui all'inizio dell'esercizio, le somme riscosse o pagate, le somme rimaste da riscuotere o da pagare;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un giornale cronologico sia per le reversali che per i mandati emessi, con indicazioni separate delle riscossioni e dei pagamenti in conto residui;
+
+                            
+                        
+                        
+                            e)
+                            
+                                i registri degli inventari.
+
 Le scritture contabili di cui alle lettere d) ed e) devono essere effettuate su registri numerati e vidimati dal direttore amministrativo o dal suo delegato. Nell'ipotesi di scritture tenute con l'utilizzazione di sistemi di elaborazione automatica dei dati deve essere comunque garantita l'inalterabilita' dei dati archiviati.
 
 ## Art. 8. — Conto consuntivo
@@ -198,6 +262,24 @@ Per la validita' delle sedute del consiglio di amministrazione e' necessaria la 
 ## Art. 12. — Disciplina del servizio di tesoreria o di cassa
 
 Il servizio di tesoreria o di cassa e' affidato, con l'osservanza delle disposizioni di cui alla legge 29 ottobre 1984, n. 720, ad un unico istituto di credito di cui all'articolo 13 del decreto legislativo l settembre 1993, n. 385, in base ad apposita convenzione deliberata dal consiglio di amministrazione.
+
+2.
+                    
+                        
+                            L'istituto di credito tesoriere o cassiere della soprintendenza e' incaricato:
+ 
+                        
+                        
+                            a)
+                            
+                                di riscuotere le entrate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                di pagare le spese stanziate in bilancio.
 
 ## Art. 13. — Anticipazioni in contanti
 

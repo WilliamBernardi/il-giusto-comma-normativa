@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2021-12-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -40,6 +40,38 @@ Le pubbliche amministrazioni e gli organismi di diritto pubblico provvedono affi
 ((
 
 Il presente decreto si applica ai dati della ricerca conformemente alle condizioni di cui all'articolo 9-bis.
+
+2-ter.
+                    
+                        
+                            Fatto salvo quanto previsto all'articolo 3, comma 1, lettera a-bis), il presente decreto disciplina, altresi', il riutilizzo dei documenti nella disponibilita' delle imprese pubbliche: 
+ 
+                        
+                        
+                            a)
+                            
+                                attive nei settori di cui agli articoli da 115 a 121 del decreto legislativo 18 aprile 2016, n. 50; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                che agiscono in qualita' di operatori di servizio pubblico ai sensi dell'articolo 2 del regolamento (CE) n. 1370/2007; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che agiscono in qualita' di vettori aerei che assolvono oneri di servizio pubblico ai sensi dell'articolo 16 del regolamento (CE) n. 1008/2008; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                che agiscono in qualita' di armatori comunitari che assolvono obblighi di servizio pubblico ai sensi dell'articolo 4 del regolamento (CEE) n. 3577/1992.
 
 La disciplina di cui al comma 2-ter si applica anche alle imprese private di trasporto che sono soggette ad obblighi di servizio pubblico ai sensi dell'articolo 16 del regolamento (CE) n. 1008/2008 e, in generale, ai gestori di servizi pubblici in relazione ai servizi di pubblico interesse;
 
@@ -79,6 +111,109 @@ Ai fini del presente decreto si intende per:
 
 ## Art. 3. — Documenti esclusi dall'applicazione del decreto
 
+1.
+                    
+                        
+                            
+                                ((Il presente decreto non si applica ai seguenti documenti:))
+                            
+                        
+                        
+                            a)
+                            
+                                quelli detenuti per finalita' che esulano dall'ambito dei compiti istituzionali della pubblica amministrazione o dell'organismo di diritto pubblico, a condizione che la portata di detti compiti sia trasparente e soggetta a revisione; 
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                quelli nella disponibilita' di imprese pubbliche: 
+ 1) prodotti al di fuori dell'ambito della prestazione di servizi di interesse generale; 
+ 2) connessi ad attivita' direttamente esposte alla concorrenza e non soggette alle norme in materia di appalti;
+                            
+                        
+                        
+                            b)
+                            
+                                quelli nella disponibilita' delle emittenti di servizio pubblico e delle societa' da esse controllate e da altri organismi o loro societa' controllate per l'adempimento di un compito di radiodiffusione di servizio pubblico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                quelli nella disponibilita' di istituti di istruzione ((secondaria e inferiore e, nel caso di tutti gli altri istituti di istruzione, ai documenti diversi da quelli di cui all'articolo 1, comma 2-bis, del presente decreto)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                quelli nella disponibilita' di enti culturali diversi dalle biblioteche ((,comprese quelle universitarie)), dai musei e dagli archivi; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                quelli comunque nella disponibilita' degli organismi di cui ((alla legge 3 agosto 2007, n. 124)); 
+
+                            
+                        
+                        
+                            f)
+                            
+                                LETTERA ABROGATA DALLA L. 4 GIUGNO 2010, N. 96; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                quelli esclusi dall'accesso ai sensi dell'articolo 24 della legge 7 agosto 1990, n. 241, ((nonche' ai sensi dell'articolo 5-bis del decreto legislativo 14 marzo 2013, n. 33,)) o per motivi di tutela del segreto statistico, quali disciplinati dall'articolo 9 del decreto legislativo 6 settembre 1989. n. 322; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                quelli sui cui terzi detengono diritti di proprieta' intellettuale ai sensi della legge 22 aprile 1941, n. 633, ovvero diritti di proprieta' industriale ai sensi del decreto legislativo 10 febbraio 2005, n. 30. 
+
+                            
+                        
+                        
+                            h-bis)
+                            
+                                quelli, non contenenti dati pubblici, il cui accesso e' disciplinato dal Capo V della legge 7 agosto 1990, n. 241; 
+
+                            
+                        
+                        
+                            h-ter)
+                            
+                                parti di documenti contenenti solo logotipi, stemmi e distintivi; 
+
+                            
+                        
+                        
+                            h-quater)
+                            
+                                quelli il cui accesso, ai sensi delle previsioni del regolamento UE 2016/679 e del decreto legislativo 30 giugno 2003, n. 196 nonche' del decreto legislativo 18 maggio 2018, n. 51, e' escluso o limitato, ovvero risulti pregiudizievole per la tutela della vita privata e dell'integrita' degli individui, nonche' alle parti di documenti accessibili che contengono dati personali il cui riutilizzo e' stato definito per legge incompatibile con le previsioni delle suddette disposizioni normative;
+                            
+                        
+                        
+                            h-quinquies)
+                            
+                                quelli il cui accesso e' escluso o limitato per motivi di protezione delle informazioni sensibili relative alle infrastrutture critiche definite all'articolo 2 del decreto legislativo 11 aprile 2011, n. 61; 
+
+                            
+                        
+                        
+                            h-sexies)
+                            
+                                documenti diversi da quelli di cui all'articolo 2, comma 1, lettera c-septies), nella disponibilita' di organizzazioni che svolgono attivita' di ricerca e di organizzazioni che finanziano la ricerca, comprese le organizzazioni preposte al trasferimento dei risultati della ricerca.
+
 ((
 
 Le pubbliche amministrazioni e gli organismi di diritto pubblico non possono esercitare il diritto di cui all'articolo 64-quinquies della legge 22 aprile 1941, n. 633 per impedire il riutilizzo di documenti o di limitare il riutilizzo, salvo i limiti stabiliti dal presente decreto.
@@ -86,6 +221,51 @@ Le pubbliche amministrazioni e gli organismi di diritto pubblico non possono ese
 ))
 
 ## Art. 4. — Norma di salvaguardia
+
+1.
+                    
+                        
+                            Sono fatte salve: 
+ 
+                        
+                        
+                            a)
+                            
+                                la disciplina sulla protezione dei dati personali di cui al decreto legislativo 30 giugno 2003, n. 196; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la disciplina sulla protezione del diritto d'autore di cui alla legge 22 aprile 1941, n. 633. Gli obblighi previsti dal presente decreto legislativo si applicano compatibilmente con le disposizioni degli accordi internazionali sulla protezione dei diritti di proprieta' intellettuale e, in particolare, della Convenzione di Berna per la protezione delle opere letterarie ed artistiche del 1886, ratificata ai sensi della legge 20 giugno 1978, n. 399, dell'Accordo TRIPS sugli aspetti dei diritti di proprieta' intellettuale attinenti al commercio del 1994, ratificato e reso esecutivo ai sensi della legge 29 dicembre 1994, n. 747, e del Trattato sul diritto d'autore (WCT), adottato a Ginevra il 20 dicembre 1996 ed entrato in vigore per tutti gli Stati membri dell'Unione Europea il 14 marzo 2010;
+                            
+                        
+                        
+                            c)
+                            
+                                la disciplina in materia di accesso ai documenti amministrativi, di cui al Capo V della legge 7 agosto 1990, n. 241; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                LETTERA ABROGATA DALLA L. 4 GIUGNO 2010, N. 96; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                le disposizioni in materia di proprieta' industriale di cui al decreto legislativo 10 febbraio 2005, n. 30; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                LETTERA ABROGATA DALLA L. 4 GIUGNO 2010, N. 96.
 
 ## Art. 5. — (( (Richiesta di riutilizzo di documenti). ))
 
@@ -135,6 +315,34 @@ I dati sono resi disponibili gratuitamente ((, fatta salva la possibilita' di re
 
 ((COMMA ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 200)).
 
+3.
+                    
+                        
+                            
+                                ((Il comma 1 non trova applicazione per:))
+                            
+                        
+                        
+                            a)
+                            
+                                
+                                    ((le)) biblioteche, comprese quelle universitarie, i musei e gli archivi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    ((le)) pubbliche amministrazioni e ((gli)) organismi di diritto pubblico che devono generare utili per coprire una parte sostanziale dei costi inerenti allo svolgimento dei propri compiti di servizio pubblico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le imprese pubbliche.
+
 ((
 
 Nelle ipotesi in cui i soggetti individuati nel precedente comma 3, lettera a), richiedano il pagamento di un corrispettivo, il totale delle entrate provenienti dalla fornitura e dall'autorizzazione al riutilizzo dei documenti in un esercizio contabile non puo' superare i costi marginali del servizio reso, comprendenti i costi di raccolta, produzione, riproduzione, diffusione, archiviazione dei dati, conservazione e gestione dei diritti e, ove applicabile, di anonimizzazione dei dati personali e delle misure adottate per proteggere le informazioni commerciali a carattere riservato, maggiorati di un utile ragionevole sugli investimenti.
@@ -166,6 +374,24 @@ Gli introiti delle tariffe di cui ai commi ((precedenti)) sono versati all'entra
 Gli enti territoriali e gli altri enti ed organismi pubblici, sentita l'Agenzia per l'Italia digitale, determinano, rispettivamente con proprie disposizioni o propri atti deliberativi, gli importi delle tariffe e le relative modalita' di versamento, sulla base dei criteri indicati ((ai commi 4 e 4-bis)).
 
 ((
+
+9-bis.
+                    
+                        
+                            Il riutilizzo e' comunque gratuito: 
+ 
+                        
+                        
+                            a)
+                            
+                                per le serie di dati di elevato valore secondo quanto previsto dall'articolo 12-bis, comma 1, lettera a); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i dati della ricerca di cui all'articolo 9-bis.
 
 Qualora siano applicate tariffe per il riutilizzo di documenti, le pubbliche amministrazioni, gli organismi di diritto pubblico e le imprese pubbliche competenti definiscono in anticipo e rendono disponibili sui propri siti istituzionali, dandone comunicazione all'Agenzia per l'Italia Digitale, le condizioni applicabili e l'effettivo ammontare delle tariffe, compresa la base di calcolo utilizzata per tali tariffe e gli elementi presi in considerazione nel calcolo di tali tariffe.
 
@@ -246,6 +472,41 @@ L'Agenzia per l'Italia digitale adotta entro 180 giorni le Linee guida contenent
 ## Art. 12-bis. — (( (Serie specifiche di dati di elevato valore). ))
 
 ((
+
+1.
+                    
+                        
+                            Alle specifiche serie di dati di elevato valore individuate dalla Commissione europea ai sensi dell'articolo 14, paragrafo 1, della direttiva UE n. 1024/2019 all'interno delle categorie previste dall'articolo 13 e dall'allegato I della medesima direttiva, si applicano le seguenti disposizioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                sono rese disponibili gratuitamente, salvo che: 
+ 1) gli atti di esecuzione di cui all'articolo 14, paragrafo 1, della direttiva non prevedano per specifiche serie di dati in possesso delle imprese pubbliche l'esenzione dall'obbligo di messa a disposizione gratuita, secondo quanto previsto dall'articolo 14, paragrafo 3, della direttiva; 
+ 2) siano detenuti da biblioteche, comprese quelle universitarie, da musei o da archivi; 
+ 3) siano detenuti da amministrazioni pubbliche o organismi di diritto pubblico che devono generare utili per coprire una parte sostanziale dei costi inerenti allo svolgimento dei propri compiti istituzionali e la messa a disposizione gratuita di tali dati avrebbe un impatto sostanziale sul bilancio dei suddetti enti. In tal caso i suddetti enti possono applicare le tariffe previste dall'articolo 7 per un periodo di due anni dalla data di entrata in vigore dell'atto di esecuzione adottato dalla Commissione ai sensi dell'articolo 14, paragrafo 1, della direttiva; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                sono rese leggibili meccanicamente; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sono fornite mediante API; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sono fornite come download in blocco, se del caso.
 
 L'Istituto Geografico Militare, al fine di garantire la qualita' dei dati di cui al precedente comma 1, lettera a), in ambito nazionale raccoglie, produce, aggiorna, riproduce e diffonde nel settore geografico i dati geospaziali. La cessione dei documenti di interesse nazionale all'Istituto da parte degli altri organismi di diritto pubblico e' finalizzata all'adempimento dei compiti istituzionali e alla produzione dei documenti cartografici dello Stato dichiarati ufficiali dallo stesso Istituto. Le societa' private che riusano i dati geospaziali resi disponibili dall'Istituto devono fornire copia dei documenti derivati che su richiesta, previa verifica, possono essere dichiarati conformi ai requisiti tecnici di qualita' o alle specifiche adottate dall'Istituto. I rilevamenti eseguiti, per qualsiasi scopo, sul territorio nazionale da organismi di diritto pubblico o privati, devono essere comunicati all'Istituto ai fini di un eventuale aggiornamento dei documenti cartografici dello Stato.
 

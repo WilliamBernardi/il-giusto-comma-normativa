@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2019-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -94,6 +94,31 @@ L'acclaramento dei risultati riguardanti gli eventi sportivi oggetto di scommess
 
 Fermo restando quanto disposto dall'articolo 5, comma 3, l'esito degli eventi sportivi oggetto di scommessa e' quello che si realizza sul campo di gara; le sue eventuali modificazioni non incidono sull'esito gia' certificato ai fini delle scommesse.
 
+02.
+                        
+                            
+                                La scommessa su evento sportivo e' considerata non valida:
+ 
+                            
+                            
+                                a)
+                                
+                                    quando l'evento non si e' svolto entro il giorno successivo a quello in programma;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando nessun concorrente si e' classificato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nei casi di inversione di campo nelle competizioni a squadre.
+
 Nel caso di scommesse sportive su risultati parziali e su altri fatti connessi all'evento sportivo la scommessa e' comunque valida quando il risultato oggetto della stessa e' gia' maturato sul campo di gara, anche se in momenti successivi l'evento e' sospeso o annullato.
 
 La scommessa su evento non sportivo e' considerata non valida quando l'evento non si verifica, salvo che la scommessa abbia ad oggetto il mancato avveramento dell'evento.
@@ -116,6 +141,49 @@ Nel caso di mancata partecipazione alla competizione di un concorrente, le scomm
 
 ((
 
+1.
+                        
+                            
+                                Le scommesse a totalizzatore ammesse sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    singola: il pronostico del partecipante indica il verificarsi di uno degli esiti pronosticabili su uno stesso evento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    plurima: il pronostico del partecipante indica il verificarsi di piu' esiti pronosticabili su un evento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    multipla: il pronostico del partecipante indica il verificarsi di uno o piu' esiti pronosticabili su piu' eventi.
+
+2.
+                        
+                            
+                                Le scommesse plurime, collegate all'ordine degli esiti pronosticabili, sono le seguenti:
+ 
+                            
+                            
+                                a)
+                                
+                                    scommesse in ordine, quando il pronostico richiesto si riferisce all'ordine esatto degli esiti pronosticabili dell'evento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    scommesse in ordine libero, quando il pronostico richiesto e' espresso indicando gli esiti pronosticabili qualunque sia il loro ordine.
+
 3. Il Ministero dell'economia e delle finanze - Amministrazione autonoma dei monopoli di Stato previa, ove occorra, direttiva del Ministro, stabilisce i tipi di scommessa e gli eventi, sportivi o non sportivi, che ne costituiscono l'oggetto nonche' le relative modalita' tecniche di svolgimento.))
 
 ((3))
@@ -132,6 +200,38 @@ Nel caso di mancata partecipazione alla competizione di un concorrente, le scomm
 
 L'importo della vincita e' il prodotto tra la quota e la posta unitaria di gioco.
 
+2.
+                        
+                            
+                                Il calcolo della quota, espressa da una cifra intera e da due decimali, e' effettuato come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    si determina il disponibile a vincite delle scommesse totalizzate, costituito dalla percentuale dell'intero ammontare delle poste unitarie giocate, di cui all'articolo 12;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il disponibile a vincite cosi' determinato e' ripartito tra le categorie di vincite ed aumentato dall'eventuale jackpot secondo le modalita' previste dall'articolo 17, comma 2;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dal disponibile a vincite di ciascuna categoria, si detrae un importo pari al prodotto tra il numero delle unita' di scommessa vincenti e la posta unitaria; la differenza che ne risulta si divide per il prodotto tra il numero delle unita' di scommessa vincenti e la posta unitaria. Tale quoziente, aumentato di un'unita', costituisce la quota;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la quota del totalizzatore non puo' essere inferiore ad uno.
+
 3. Le quote sono calcolate dopo la comunicazione ufficiale dell'esito dell'unico o dell'ultimo evento oggetto della scommessa.))
 
 ((3))
@@ -143,6 +243,70 @@ L'importo della vincita e' il prodotto tra la quota e la posta unitaria di gioco
 ## Art. 12. — Ripartizione della posta.
 
 La posta unitaria di gioco delle scommesse e' determinata con decreto del Ministro dell'economia e delle finanze.
+
+2.
+                        
+                            
+                                La posta unitaria di gioco e' ripartita nelle seguenti percentuali, trovando applicazione, per il residuo, la disposizione di cui all'articolo 16, comma 2, della legge 13 maggio 1999, n. 133: 
+ 
+                            
+                            
+                                a)
+                                
+                                    57 per cento, come disponibile a vincite; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    8 per cento, come aggio al luogo di vendita autorizzato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    6,75 per cento, come imposta unica; ((6))
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    5,71 per cento, come contributo alle spese complessive di gestione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    2,54 per cento, come fondo speciale di riserva.
+
+3.
+                        
+                            
+                                E' istituito un conto corrente infruttifero presso la tesoreria centrale intestato all'Amministrazione autonoma dei monopoli di Stato denominato "fondo speciale di riserva", al quale affluiscono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la quota della posta unitaria di cui al comma 2, lettera e); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i valori determinatesi con il troncamento delle quote; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le vincite non riscosse ed i rimborsi non richiesti di cui all'articolo 6, comma 1. (5)
 
 Il limite di importo del predetto fondo, nonche' la destinazione delle somme eccedenti detto limite, e' determinato con decreto del direttore generale dell'Amministrazione autonoma dei monopoli di Stato, di concerto con il capo del Dipartimento della ragioneria generale dello Stato.
 
@@ -249,6 +413,31 @@ Un'unita' di scommessa e' considerata vincente quando tutti i pronostici in essa
 
 ((
 
+1.
+                        
+                            
+                                Il partecipante ha diritto a rimborso quando:
+ 
+                            
+                            
+                                a)
+                                
+                                    per motivi tecnici, non siano consentiti la totalizzazione ovvero il riscontro delle scommesse accettate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di scommessa non valida;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relativamente alle scommesse su eventi sportivi, in caso di mancata chiusura dell'accettazione delle scommesse in occasione di anticipazione dell'orario di inizio degli eventi oggetto di scommessa, limitatamente alle giocate accettate oltre l'inizio ufficiale dell'evento stesso.
+
 I partecipanti sono informati del diritto al rimborso con apposito comunicato affisso nei luoghi di vendita della scommessa nonche' sul sito internet del Ministero dell'economia e delle finanze - Amministrazione autonoma dei monopoli di Stato.
 
 3. L'importo rimborsato, la data e l'orario di effettuazione del rimborso risultano da annotazione apposta dal sistema sulla ricevuta di partecipazione, oppure su specifica ricevuta emessa all'atto del rimborso.))
@@ -269,6 +458,59 @@ I partecipanti sono informati del diritto al rimborso con apposito comunicato af
  fini delle movimentazioni finanziarie.
 
 Entro la fine del terzo giorno successivo alla chiusura della settimana contabile di riferimento, ovvero del periodo che intercorre tra la giornata del lunedi' e la giornata della domenica di ogni settimana, a ciascun concessionario e' reso disponibile dal totalizzatore nazionale il rendiconto della gestione finanziaria relativa alla settimana contabile di riferimento.
+
+2.
+                        
+                            
+                                Il rendiconto contiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'importo totale da versare;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'incasso totale lordo delle giocate raccolte, per tutte le scommesse di cui e' chiusa l'accettazione nella settimana contabile di riferimento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'aggio totale trattenuto dai gestori dei luoghi di vendita delle scommesse, relativo all'incasso di cui al punto b);
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'importo totale delle vincite pagate nei luoghi di vendita delle scommesse nella settimana contabile di riferimento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'importo totale dei rimborsi effettuati nella settimana contabile di riferimento e dei rimborsi prescritti nella medesima settimana;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'incasso di ciascuna scommessa di cui e' chiusa l'accettazione nella settimana contabile di riferimento;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'aggio, trattenuto dai luoghi di vendita delle scommesse, per l'incasso di ciascuna scommessa;
 
 A ciascun concessionario e' reso disponibile, su richiesta, l'elenco delle vincite pagate e dei rimborsi effettuati nei luoghi di vendita delle scommesse nella settimana contabile di riferimento.
 
@@ -316,6 +558,24 @@ I concessionari pagano le vincite ed effettuano i rimborsi di propria competenza
 
 ((
 
+1.
+                        
+                            
+                                Il pagamento delle vincite di importo superiore a 3.000,00 euro e non superiore a 100.000,00 euro e' effettuato:
+ 
+                            
+                            
+                                a)
+                                
+                                    entro quarantacinque giorni solari dalla data di comunicazione ufficiale degli esiti, i portatori di ricevute di partecipazione di vincite di importo superiore a 3.000,00 euro e non superiore a 100.000,00 euro, possono recarsi presso un qualsiasi sportello degli istituti di credito convenzionati, il cui elenco e' pubblicato sul sito internet dell'Amministrazione autonoma dei monopoli di Stato, per la riscossione della vincita. Il pagamento avviene, a seguito di invio al concessionario interessato, da parte dell'istituto di credito cui e' stata presentata la ricevuta di partecipazione, della ricevuta stessa e previa verifica secondo le modalita' di cui all'articolo 21, mediante accredito, da parte dell'istituto di credito cui e' stata presentata la ricevuta di partecipazione, sul conto corrente bancario del vincitore oppure in contanti, presso il medesimo sportello bancario di presentazione della ricevuta; ovvero
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro novanta giorni solari dalla data di comunicazione ufficiale degli esiti, i portatori di ricevute di partecipazione di vincite di importo superiore a 3.000,00 euro e non superiore a 100.000,00 euro, possono recarsi presso i punti di pagamento delle vincite per la verifica della ricevuta di partecipazione, secondo le modalita' di cui all'articolo 21. Il pagamento avviene, in base alla richiesta esplicita del vincitore, attraverso accredito sul conto corrente bancario del vincitore stesso, oppure mediante emissione di assegno circolare od in contanti.
+
 I rimborsi, di importo superiore a 3.000,00 euro e non superiore a 100.000,00 euro, sono effettuati, entro novanta giorni solari dalla data di comunicazione ufficiale degli esiti, presso i punti di pagamento delle vincite per la verifica della ricevuta di partecipazione, secondo le modalita' di cui all'articolo 21. Il pagamento avviene, in base alla richiesta esplicita del partecipante, attraverso accredito sul conto corrente bancario del partecipante stesso, oppure mediante emissione di assegno circolare od in contanti.
 
 3. Le vincite di cui al comma 1 sono pagate agli aventi diritto entro il termine di venti giorni dalla data di presentazione della ricevuta di partecipazione, nel caso di cui alla lettera a), ed entro il termine di quattordici giorni dalla data di presentazione della ricevuta, nel caso di cui alla lettera b). I rimborsi di cui al comma 2 sono pagati agli aventi diritto entro il termine di quattordici giorni dalla data di presentazione della ricevuta.))
@@ -332,6 +592,24 @@ I rimborsi, di importo superiore a 3.000,00 euro e non superiore a 100.000,00 eu
  importo superiore a 100.000,00 euro.))
 
 ((
+
+1.
+                        
+                            
+                                Il pagamento delle vincite di importo superiore a 100.000,00 euro e' effettuato:
+ 
+                            
+                            
+                                a)
+                                
+                                    entro trenta giorni solari dalla data di comunicazione ufficiale degli esiti, i portatori di ricevute di partecipazione di vincite di importo superiore a 100.000,00 euro, possono recarsi presso un qualsiasi sportello degli istituti di credito convenzionati, il cui elenco e' pubblicato sul sito internet dell'Amministrazione autonoma dei monopoli di Stato, per la riscossione della vincita. Il pagamento avviene, a seguito di invio al concessionario interessato, da parte dell'istituto di credito cui e' stata presentata la ricevuta di partecipazione, della ricevuta stessa e previa verifica secondo le modalita' di cui all'articolo 21, mediante accredito, da parte dell'istituto di credito cui e' stata presentata la ricevuta di partecipazione, sul conto corrente bancario del vincitore oppure in contanti, presso il medesimo sportello bancario di presentazione della ricevuta; ovvero
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro novanta giorni solari dalla data di comunicazione ufficiale degli esiti delle scommesse, i portatori di ricevute di partecipazione di vincite di importo superiore a 100.000,00 euro, possono recarsi presso i punti di pagamento delle vincite per la verifica della ricevuta di partecipazione, secondo le modalita' di cui all'articolo 21. Il pagamento avviene, in base alla richiesta esplicita del vincitore, attraverso accredito sul conto corrente bancario del vincitore stesso, oppure mediante emissione di assegno circolare od in contanti.
 
 2. Le vincite di cui al comma 1 sono pagate agli aventi diritto entro il termine di ventitre giorni dalla data di presentazione della ricevuta di partecipazione, nel caso di cui alla lettera a), ed entro il termine di quattordici giorni dalla data di presentazione della ricevuta, nel caso di cui alla lettera b).))
 
@@ -410,6 +688,31 @@ Nel caso di parita' dell'ordine di arrivo di due o piu' vetture o di due o piu' 
 
 Il montepremi e' costituito dal 38 per cento della raccolta e destinato a tre categorie di vincita:
  ORO, ARGENTO E BRONZO cui corrispondono rispettivamente 8, 7 e 6 punti.
+
+6.
+                        
+                            
+                                Il montepremi e' ripartito fra le tre categorie anzidette nel modo seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    quaranta per cento alla categoria ORO;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trenta per cento alla categoria ARGENTO;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    trenta per cento alla categoria BRONZO.
 
 L'importo destinato alle vincite di ogni singola categoria viene suddiviso in parti uguali fra le colonne vincenti della relativa categoria.
 
@@ -511,6 +814,45 @@ Il pagamento delle vincite di importo superiore a 2.300,00 euro e' eseguito dal 
 
 ((
 
+1.
+                        
+                            
+                                Entro il terzo giorno successivo al Gran Premio i concessionari trasmettono ai rispettivi raccoglitori del gioco, a mezzo del sistema automatizzato, l'estratto conto contenente:
+ 
+                            
+                            
+                                a)
+                                
+                                    l'incasso della raccolta;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il compenso di spettanza del raccoglitore;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo delle vincite pagate;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'importo delle vincite ancora da pagare;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'importo netto a debito da versare al concessionario.
+
 2. Entro il decimo giorno successivo al Gran Premio, i concessionari trasmettono ai rispettivi raccoglitori del gioco, a mezzo del sistema automatizzato, l'estratto conto contenente:
 
 c) l'importo netto a debito da versare al concessionario. ))
@@ -538,6 +880,29 @@ I concessionari riscuotono dai raccoglitori gli importi da essi dovuti in base a
 
 
 ((
+
+1.
+                        
+                            
+                                I concessionari, entro l'ottavo giorno seguente, la settimana successiva a quella del primo versamento da parte dei raccoglitori, versano alla sezione di tesoreria provinciale dello Stato di Roma le somme dovute, al netto di quanto da essi trattenuto per:
+ 
+                            
+                            
+                                a)
+                                
+                                    il pagamento delle vincite non ancora liquidate;
+                                
+                            
+                            
+                                b)
+                                
+                                    il compenso per il concessionario medesimo;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'importo eventualmente accreditato ad altro concessionario, nel caso di cui al comma 4 dell'articolo 36.
 
 Se i versamenti di cui al comma 1 sono omessi in tutto o in parte, od effettuati in ritardo, si applicano le penalita' previste dall'atto di concessione.
 

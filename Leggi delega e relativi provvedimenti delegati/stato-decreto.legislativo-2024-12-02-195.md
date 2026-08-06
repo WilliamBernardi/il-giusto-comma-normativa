@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2024-12-02;195
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,35 @@ Sulla proposta del Ministro per gli affari europei, il Sud, le politiche di coes
 
 ## Art. 1. — Modifiche al decreto legislativo 
  16 novembre 2015, n. 180
+
+1.
+                    
+                        
+                            Al decreto legislativo 16 novembre 2015, n. 180, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                all'articolo 16-sexies: 
+ 1) al comma 1, la parola: «incluse» e' sostituita dalla seguente: «inclusi»; 
+ 2) il comma 4 e' sostituito dal seguente: 
+ «4. Ai fini dell'articolo 16-decies, comma 2-bis, quando piu' enti inclusi nel perimetro di consolidamento prudenziale di uno stesso soggetto qualificato come G-SII sono enti designati per la risoluzione o soggetti aventi sede legale in un Paese terzo che sarebbero enti designati per la risoluzione se avessero sede legale nell'Unione europea, la Banca d'Italia calcola il requisito aggiuntivo di cui al comma 3: 
+ a) per ciascun ente designato per la risoluzione avente sede legale in Italia e ciascun soggetto avente sede legale in un Paese terzo che sarebbe ente designato per la risoluzione se avesse sede legale nell'Unione europea; 
+ b) se non e' controllata da altra societa' avente sede legale nell'Unione europea, per la capogruppo come se fosse l'unico ente designato per la risoluzione del G-SII.»;
+                                
+                            
+                        
+                        
+                            b)
+                            
+                                
+                                    all'articolo 16-decies, dopo il comma 2, sono aggiunti i seguenti: 
+ «2-bis. Quando piu' enti inclusi nel perimetro di consolidamento prudenziale di uno stesso soggetto qualificato come G-SII sono enti designati per la risoluzione o soggetti aventi sede legale in un Paese terzo che sarebbero enti designati per la risoluzione se avessero sede legale nell'Unione europea, la Banca d'Italia valuta, anche nell'ambito dei collegi a cui partecipa ai sensi dell'articolo 70, se sia opportuno e coerente con la strategia di risoluzione del soggetto qualificato come G-SII applicare quanto previsto dall'articolo 72-sexies del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, e disporre ogni adeguamento necessario per minimizzare o eliminare la differenza tra la somma degli importi di cui all'articolo 16-sexies, comma 4, lettera a), del presente decreto e all'articolo 12-bis, lettera a), del regolamento (UE) n. 575/2013, stabiliti per ciascun ente designato per la risoluzione o soggetto avente sede legale in un Paese terzo che sarebbe un ente designato per la risoluzione se avesse sede legale nell'Unione europea e la somma degli importi di cui all'articolo 16-sexies, comma 4, lettera b), del presente decreto e all'articolo 12-bis, lettera b), del regolamento (UE) n. 575/2013. 
+ 2-ter. L'adeguamento di cui al comma 2-bis e' disposto nel rispetto dei seguenti principi: 
+ a) l'adeguamento puo' essere applicato in relazione alle differenze nel calcolo degli importi complessivi dell'esposizione al rischio tra gli Stati membri o i Paesi terzi interessati, adeguando il livello del requisito; 
+ b) l'adeguamento non e' disposto per eliminare le differenze risultanti da esposizioni tra i gruppi soggetti a risoluzione. 
+ 2-quater. La somma degli importi di cui all'articolo 16-sexies, comma 4, lettera a), del presente decreto e all'articolo 12-bis, lettera a), del regolamento (UE) n. 575/2013 stabiliti per ciascun ente designato per la risoluzione o soggetto avente sede legale in un Paese terzo che sarebbe un ente designato per la risoluzione se avesse sede legale nell'Unione europea non e' inferiore alla somma degli importi di cui all'articolo 16-sexies, comma 4, lettera b), del presente decreto e all'articolo 12-bis, lettera b), del regolamento (UE) n. 575/2013.».
 
 ## Art. 2. — Clausola di invarianza
 

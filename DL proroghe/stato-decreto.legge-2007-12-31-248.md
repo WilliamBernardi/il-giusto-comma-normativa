@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2025-05-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -46,6 +46,34 @@ All'articolo 7, comma 6, del decreto legislativo 30 aprile 1997, n. 165, le paro
 Dall'attuazione del comma 3-bis non devono derivare nuovi o maggiori oneri per la finanza pubblica.
 
 ((COMMA ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66)).
+
+4-bis.
+                        
+                            
+                                Al decreto legislativo 19 marzo 2001, n. 69, e successive modificazioni, sono apportate le seguenti modificazioni: 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 51, comma 2, lettera a), la parola: "2010" e' sostituita dalla seguente: "2015";
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 52, comma 5, lettera a), la parola: "2010" e' sostituita dalla seguente: "2015";
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 53, comma 2, la parola: "2008" e' sostituita dalla seguente: "2012";
+                                
+                            
+                            
+                                d)
+                                
+                                    alla nota [5] dell'allegata Tabella 1, la parola: "2011" e' sostituita dalla seguente: "2015".
 
 ## - Sezione II Beni culturali e turismo
 
@@ -100,6 +128,42 @@ L'efficacia delle disposizioni di cui all'articolo 18 della legge 20 maggio 1970
 ## Art. 6-bis. — ((Proroghe in materia di ammortizzatori sociali))
 
 ((
+
+1.
+                        
+                            
+                                Al comma 7 dell'articolo 41 della legge 27 dicembre 2002, n. 289, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole: "Per gli anni 2004-2007" sono sostituite dalle seguenti: "Per gli anni 2004-2009" e le parole: ", nel limite massimo di 350 unita" sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al secondo periodo, le parole: "e per la durata di 48 mesi" sono sostituite dalle seguenti: ", per la durata di 66 mesi dalla data di decorrenza del licenziamento e nel limite di 400 unita', calcolato come media del periodo".
+
+2.
+                        
+                            
+                                Al comma 8 dell'articolo 41 della legge 27 dicembre 2002, n. 289, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo le parole: "e 2007," sono inserite le seguenti: "nonche' di 8 milioni di euro per ciascuno degli anni 2008 e 2009,";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono aggiunte, in fine, le seguenti parole: ", la cui dotazione per ciascuno degli anni 2008 e 2009 e' incrementata di pari importo".
 
 Agli oneri derivanti dal presente articolo, pari a 8 milioni di euro a decorrere dall'anno 2008, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2008-2010, nell'ambito del fondo speciale di parte corrente dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2008, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero.
 
@@ -159,6 +223,32 @@ Il Ministro dell'economia e delle finanze provvede al monitoraggio degli oneri d
 
 ## Art. 8. — Piani di rientro, tariffe di prestazioni sanitarie
  e percorsi diagnostico-terapeutici
+
+1.
+                        
+                            
+                                Ai fini del rispetto degli obiettivi di finanza pubblica e di programmazione sanitaria connessi anche all'attuazione dei piani di rientro dei disavanzi sanitari e alla stipula degli accordi con le strutture erogatrici di prestazioni sanitarie per conto del Servizio sanitario nazionale sono disposti i seguenti interventi:
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento all'anno 2007, nelle regioni per le quali si e' verificato il mancato raggiungimento degli obiettivi programmati di risanamento e riequilibrio economico-finanziario contenuti nello specifico piano di rientro dai disavanzi sanitari, di cui all'accordo sottoscritto, ai sensi dell'articolo 1, comma 180, della legge 30 dicembre 2004, n. 311, e successive modificazioni, non si applicano gli effetti previsti dall'articolo 1, comma 796, lettera b), sesto periodo, della legge 27 dicembre 2006, n. 296, limitatamente all'importo corrispondente a quello per il quale la regione ha adottato, entro il 31 dicembre 2007, misure di copertura idonee e congrue a conseguire l'equilibrio economico nel settore sanitario per il medesimo anno, fermo restando quanto previsto dall'articolo 4 del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 8-quinquies, comma 2, del decreto legislativo 30 dicembre 1992, n. 502, dopo la lettera e) e' aggiunta la seguente:
+ "e-bis) la modalita' con cui viene comunque garantito il rispetto del limite di remunerazione delle strutture correlato ai volumi di prestazioni, concordato ai sensi della lettera d), prevedendo che in caso di incremento a seguito di modificazioni, comunque intervenute nel corso dell'anno, dei valori unitari dei tariffari regionali per la remunerazione delle prestazioni di assistenza ospedaliera, delle prestazioni di assistenza specialistica ambulatoriale, nonche' delle altre prestazioni comunque remunerate a tariffa, il volume massimo di prestazioni remunerate, di cui alla lettera b), si intende rideterminato nella misura necessaria al mantenimento dei limiti indicati alla lettera d), fatta salva la possibile stipula di accordi integrativi, nel rispetto dell'equilibrio economico finanziario programmato".
+
+                                
+                            
+                            
+                                c)
+                                
+                                    entro il 30 giugno 2008, al fine di permettere la definitiva estinzione dei crediti pregressi certi, liquidi ed esigibili vantati nei confronti dell'azienda universitaria Policlinico Umberto I, il commissario liquidatore e' autorizzato ad effettuare transazioni nel limite massimo del 90 per cento del credito accertato sulla sorte capitale, ad esclusione degli interessi e della rivalutazione monetaria, previa definitiva rinuncia da parte dei creditori ad ogni azione e pretesa. Per le finalita' di cui al primo periodo e' autorizzata la spesa di 250 milioni di euro per il 2008. Tale somma e' trasferita su un conto vincolato della Gestione commissariale dell'azienda per l'effettuazione dei pagamenti entro il ((31 dicembre 2009)). Le somme non utilizzate per l'effettuazione di pagamenti entro il termine di cui al periodo precedente sono riversate al bilancio dello Stato con imputazione ad apposito capitolo dello stato di previsione dell'entrata. Agli oneri derivanti dalla presente lettera, pari a 250 milioni di euro per il 2008, si fa fronte mediante riduzione, per il medesimo anno, dell'autorizzazione di spesa di cui al comma 12 dell'articolo 15-bis del decreto-legge 2 luglio 2007, n. 81, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 127.
 
 Entro trenta giorni dalla data di entrata in vigore del presente decreto, gli accordi con le strutture erogatrici di prestazioni sanitarie per conto del Servizio sanitario nazionale, eventualmente gia' sottoscritti per l'anno 2008, e seguenti, sono adeguati alla previsione normativa di cui al comma 1.
 
@@ -316,6 +406,24 @@ Al fine di consentire la devoluzione delle competenze alle sezioni specializzate
 
 ## Art. 16. — Attivita' di liquidazione della Fondazione Ordine Mauriziano
 
+1.
+                        
+                            
+                                All'articolo 30 del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 4, i primi due periodi sono sostituiti dai seguenti: "Il commissario predispone entro centottanta giorni dalla data di entrata in vigore del presente decreto un piano di liquidazione dei beni della FOM, con esclusione di quelli gravati da vincoli storico-culturali di cui alla tabella A allegata al citato decreto-legge n. 277 del 2004, convertito, con modificazioni, dalla legge n. 4 del 2005. Il piano di liquidazione e' sottoposto al comitato di vigilanza, che provvede anche ai sensi dell'articolo 108, secondo comma, del regio decreto 16 marzo 1942, n. 267.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4-bis sono aggiunti in fine i seguenti periodi: "Il compenso spettante al commissario e' determinato sulla base dei criteri di cui al decreto del Ministro di grazia e giustizia 28 luglio 1992, n. 570. Ai componenti del comitato di vigilanza, ad eccezione dei rappresentanti dei creditori cui compete esclusivamente il rimborso delle spese, e' corrisposto un compenso non superiore al dieci per cento di quello liquidato al commissario, oltre al rimborso delle spese.".
+
 ## Art. 16-bis. — ((Responsabilita' degli amministratori di societa' quotate
  partecipate da amministrazioni pubbliche))
 
@@ -351,12 +459,50 @@ All'articolo 2, comma 253, primo periodo, della legge 24 dicembre 2007, n. 244, 
 ## Art. 18. — Modifiche all'articolo 3, comma 2, del
  decreto legislativo 9 maggio 2005, n. 96
 
+1.
+                        
+                            
+                                All'articolo 3, comma 2, del decreto legislativo 9 maggio 2005, n. 96, sono apportate le seguenti modificazioni:
+
+                            
+                            
+                                a)
+                                
+                                    nel primo periodo, dopo le parole: "legge speciale," sono inserite le seguenti: "e in ipotesi di delocalizzazione funzionale,";
+                                
+                            
+                            
+                                b)
+                                
+                                    nel secondo periodo, le parole: "un anno dalla data di entrata in vigore del presente decreto legislativo" sono sostituite dalle seguenti: "il ((31 dicembre 2010))".
+
 ## Art. 18-bis.
 
 ((Modifiche al decreto legislativo 20 giugno 2005, n. 122, in
 materia di tutela dei diritti patrimoniali degli acquirenti di immobili da costruire.))
 
 ((
+
+1.
+                        
+                            
+                                Al decreto legislativo 20 giugno 2005, n. 122, sono apportate
+ le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 12, il comma 2 e' sostituito dal seguente:
+ "2. Ai fini dell'accesso alle prestazioni del Fondo, devono risultare nei confronti del costruttore procedure implicanti una situazione di crisi non concluse in epoca antecedente al 31 dicembre 1993 ne' aperte in data successiva all'applicabilita' della disciplina in tema di garanzia fideiussoria, prevista dall'articolo 5 del presente decreto";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 13, dopo il comma 3 e' inserito il seguente:
+ "3-bis. L'accesso alle prestazioni del Fondo e' inoltre consentito nei casi in cui l'acquirente, a seguito dell'insorgenza di una situazione di crisi per effetto dell'insolvenza del costruttore, abbia dovuto versare, in aggiunta al prezzo originariamente convenuto, somme ulteriori per ottenere, dopo la stipula dell'atto di compravendita o di assegnazione, la rinuncia da parte degli organi della procedura concorsuale a promuovere o coltivare l'azione revocatoria fallimentare promossa ai sensi dell'articolo 67, secondo comma, del regio decreto 16 marzo 1942, n. 267, e successive modificazioni, o la liberazione dell'immobile dall'ipoteca iscritta a garanzia del finanziamento concesso al costruttore di cui l'acquirente non si sia reso accollante, ovvero da altro vincolo pregiudizievole iscritto o trascritto in danno del costruttore. In tali casi l'indennizzo e' determinato nella misura pari alle predette somme ulteriori, fino a concorrenza delle somme versate e del valore dei beni corrisposti al costruttore".
 
 Il termine di cui al comma 1 dell'articolo 18 del decreto legislativo 20 giugno 2005, n. 122, e' differito al 30 giugno 2008.
 
@@ -695,6 +841,24 @@ Il comma 96 dell'articolo 145 della legge 23 dicembre 2000, n. 388, si interpret
 
 All'articolo 2, comma 36, terzo periodo, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286, e successive modificazioni, le parole: "novanta giorni" sono sostituite dalle seguenti: "sette mesi".
 
+2.
+                        
+                            
+                                All'articolo 2, comma 38, primo periodo, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: "30 novembre 2007" sono sostituite dalle seguenti: "31 ottobre 2008";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sono aggiunte, in fine, le seguenti parole: "fermo restando che gli effetti fiscali decorrono dal 1° gennaio 2007".
+
 Le modifiche apportate dal comma 2 non danno luogo ad alcun diritto al rimborso di somme eventualmente gia' riscosse a titolo di sanzione.
 
 ))
@@ -737,6 +901,24 @@ Le disposizioni di cui all'articolo 1, comma 236, della legge 27 dicembre 2006, 
 In attuazione del principio di salvaguardia ambientale ed al fine di incentivare la sostituzione, realizzata attraverso la demolizione di autovetture ed autoveicoli per il trasporto promiscuo di categoria "euro 0", "euro 1" o "euro 2", immatricolati prima del 1° gennaio 1997, con autovetture nuove di categoria "euro 4" o "euro 5", che emettono non oltre 140 grammi di CO 2 per chilometro oppure non oltre 130 grammi di CO 2 per chilometro se alimentate a diesel, e' concesso un contributo di euro 700 e l'esenzione dal pagamento delle tasse automobilistiche per una annualita', estesa per ulteriori due annualita' se il veicolo rottamato appartiene alla categoria "euro 0". Il contributo di cui al primo periodo e' aumentato di euro 100 in caso di acquisto di autovetture nuove di categoria "euro 4" o "euro 5", che emettono non oltre 120 grammi di CO 2 per chilometro.
 Il contributo di cui al presente comma e' aumentato di euro 500 nel caso di demolizione di due autoveicoli di proprieta' di persone appartenenti allo stesso nucleo familiare, secondo quanto attestato dal relativo stato di famiglia, purche' conviventi.
 
+4.
+                        
+                            
+                                Per la sostituzione, realizzata attraverso la demolizione, di veicoli di cui all'articolo 54, comma 1, lettere c), d), f), g), ed m), del decreto legislativo 30 aprile 1992, n. 285, di massa massima fino a 3.500 chilogrammi, di categoria "euro 0" o "euro 1" immatricolati prima del 1° gennaio 1999, con veicoli nuovi, di categoria "euro 4", della medesima tipologia ed entro il medesimo limite di massa, e' concesso un contributo:
+ 
+                            
+                            
+                                a)
+                                
+                                    di euro 1.500, se il veicolo e' di massa massima inferiore a 3000 chilogrammi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    di euro 2.500, se lo stesso ha massa massima da 3000 e fino a 3500 chilogrammi.
+
 Le disposizioni di cui ai commi 2, 3 e 4 hanno validita' per i veicoli nuovi acquistati con contratto stipulato tra venditore e acquirente a decorrere dal 1° gennaio 2008 e fino al 31 dicembre 2008 ed immatricolati non oltre il 31 marzo 2009.
 
 Per l'applicazione dei commi precedenti valgono le norme di cui al primo periodo del comma 229 e dei commi dal 230 al 234 dell'articolo 1 della legge 27 dicembre 2006, n. 296.
@@ -749,9 +931,52 @@ La misura dell'incentivo e' determinata nella misura di euro 350 per le installa
 
 Nel terzo periodo del comma 2 dell'articolo 1 del decreto-legge 25 settembre 1997, n. 324, convertito, con modificazioni, dalla legge 25 novembre 1997, n. 403, sono soppresse le parole da: "effettuata entro" fino alla fine del periodo.
 
+10-bis.
+                        
+                            
+                                All'articolo 1 della legge 27 dicembre 2006, n. 296, e successive modificazioni, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 271, le parole da: "dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007" fino alla fine del comma sono sostituite dalle seguenti: "dal periodo d'imposta successivo a quello in corso al 31 dicembre 2006 e fino alla chiusura del periodo d'imposta in corso alla data del 31 dicembre 2013, e' attribuito un credito d'imposta automatico secondo le modalita' di cui ai commi da 272 a 279. E' fatta salva la diversa decorrenza del credito d'imposta di cui al precedente periodo eventualmente prevista dall'autorizzazione di cui al comma 279";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 283, dopo le parole: "Ministro dell'economia e delle finanze," sono inserite le seguenti: "da adottare entro il 31 marzo 2008,".
+
 In relazione alle modifiche di cui al comma 10-bis del presente articolo, le maggiori entrate nette derivanti nell'anno 2008 in relazione all'effettivo utilizzo dei crediti d'imposta previsti dai commi da 271 a 284 dell'articolo 1 della legge 27 dicembre 2006, n. 296, pari a 96,9 milioni di euro, sono iscritte nel Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307. Agli oneri netti derivanti dal comma 10-bis, pari a 46,6 milioni di euro per l'anno 2009, si provvede mediante corrispondente riduzione della proiezione per l'anno 2009 dello stanziamento iscritto, ai fini del bilancio triennale 2008-2010, nell'ambito del fondo speciale di conto capitale dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2008, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 Le dotazioni del Fondo per la competitivita' e lo sviluppo di cui all'articolo 1, comma 841, della legge 27 dicembre 2006, n. 296, e del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, sono ridotte, per l'anno 2008, rispettivamente di 90,5 milioni di euro e di 5,5 milioni di euro. La dotazione del predetto Fondo per la competitivita' e lo sviluppo e' incrementata, per l'anno 2009, di 90,5 milioni di euro.
+
+11-bis.
+                        
+                            
+                                Agli oneri derivanti dall'attuazione del presente articolo, ad eccezione dei commi 10-bis e 10-ter, pari a 441,2 milioni di euro per l'anno 2008, a 177,2 milioni di euro per l'anno 2009 e a 33,2 milioni di euro per l'anno 2010, si provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2008, quanto a 385,2 milioni di euro, a valere sulle maggiori entrate derivanti dal presente articolo e, quanto a 56 milioni di euro, mediante utilizzo delle riduzioni delle autorizzazioni di spesa di cui al comma 11;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2009, quanto a 19,4 milioni di euro, a valere sulle maggiori entrate derivanti dal presente articolo e, quanto a 157,8 milioni di euro, a valere sulle maggiori entrate derivanti dagli articoli 36, comma 2-bis, e 38;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'anno 2010, quanto a 33,2 milioni di euro, a valere sulle maggiori entrate derivanti dall'articolo 36, comma 2-bis.
 
 ---------------
                             AGGIORNAMENTO (11)
@@ -806,6 +1031,26 @@ All'articolo 281, comma 2, del decreto legislativo 3 aprile 2006, n. 152, le par
 
 ((
 
+1.
+                        
+                            
+                                All'articolo 2 del decreto-legge 30 ottobre 2007, n. 180, convertito, con modificazioni, dalla legge 19 dicembre 2007, n. 243, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1-bis sono aggiunti, in fine, i seguenti periodi: "In mancanza del rilascio dell'autorizzazione integrata ambientale entro il 31 marzo 2008, in sede di prima applicazione, per le domande di autorizzazione integrata ambientale relative ad impianti esistenti, regolarmente presentate entro i termini, i gestori possono procedere all'esecuzione degli interventi proposti finalizzati all'adeguamento dell'impianto alle migliori tecniche disponibili, con le modalita' e i termini indicati nella domanda, qualora gli stessi interventi non siano soggetti a valutazione di impatto ambientale o, se a questa soggetti, per essi sia gia' stato emanato provvedimento favorevole di conformita' ambientale, dando contestualmente pieno avvio alle attivita' di monitoraggio e controllo indicate nella domanda medesima. Le competenti Agenzie per la protezione dell'ambiente possono verificare, con oneri a carico del gestore, l'attuazione degli interventi e del piano di monitoraggio e controllo, riferendo, entro tre mesi dall'ultimazione degli interventi, all'autorita' competente in ordine alle verifiche effettuate e all'efficacia degli interventi stessi rispetto a quanto dichiarato dal gestore. Le risultanze delle verifiche possono costituire causa di riesame del provvedimento di autorizzazione, di esse dovendosi comunque tenere conto nell'emanazione del provvedimento medesimo";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1-ter sono aggiunti i seguenti:
+ "1-quater. In mancanza del rilascio dell'autorizzazione integrata ambientale entro il 31 marzo 2008, i nuovi impianti, per i quali sia stata presentata la domanda di autorizzazione integrata ambientale, che abbiano ottenuto il provvedimento positivo di compatibilita' ambientale e siano in fase di avanzata costruzione, possono avviare tutte le attivita' preliminari all'esercizio dell'impianto nel rispetto della normativa vigente e delle prescrizioni stabilite nelle autorizzazioni ambientali gia' rilasciate, dandone comunicazione all'autorita' competente per il rilascio dell'autorizzazione integrata ambientale. L'autorita' competente, ove ne ravvisi la necessita', rilascia un'autorizzazione provvisoria nelle more del rilascio dell'autorizzazione integrata ambientale, entro sessanta giorni dalla predetta comunicazione.
+ 1-quinquies. In mancanza del rilascio dell'autorizzazione integrata ambientale entro il 31 marzo 2008, al fine di contribuire al raggiungimento degli obiettivi di qualita' dell'aria dopo il 1° gennaio 2008, i gestori degli impianti che abbiano gia' presentato richiesta di esenzione ai sensi dell'articolo 273, comma 5, del decreto legislativo 3 aprile 2006, n. 152, nelle more del rilascio del provvedimento di esenzione, che potra' disporre altrimenti, sono tenuti a presentare all'autorita' competente, con cadenza semestrale, la registrazione delle ore di normale funzionamento, che non potranno superare, su base annua, la media delle ore di funzionamento effettivo computata con riferimento al triennio 2005-2007".
+
 ))
 
 ## Art. 33. — Disposizione in materia di rifiuti
@@ -820,6 +1065,32 @@ All'articolo 5 del decreto-legge 31 maggio 2005, n. 90, convertito, con modifica
 
 E' istituito nello stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare un apposito fondo, con una dotazione di 1.500.000 euro annui per ciascuno degli anni 2008, 2009 e 2010, per la corresponsione di contributi ai comuni in relazione ai disagi di carattere sociale e ambientale derivanti dalla localizzazione nei rispettivi territori di siti per il trattamento e lo stoccaggio di rifiuti speciali. Il fondo e' ripartito tra i comuni nei cui territori sono localizzati i siti di cui al periodo precedente con decreto del Ministro dell'ambiente e della tutela del territorio e del mare da adottare, di concerto con il Ministro dell'interno, in rapporto alla quantita' di rifiuti conferiti. In sede di prima attuazione, per l'anno 2008 le risorse del fondo sono destinate, in misura non superiore a 800.000 euro, ai comuni di cui all'articolo 7 del decreto-legge 11 maggio 2007, n. 61, convertito, con modificazioni, dalla legge 5 luglio 2007, n. 87.
 All'onere derivante dalle disposizioni di cui al presente comma, pari a 1.500.000 euro per ciascuno degli anni 2008, 2009 e 2010, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2008-2010, nell'ambito del fondo speciale di parte corrente dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2008, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno.
+
+1-quinquies.
+                        
+                            
+                                Per far fronte alle esigenze dell'emergenza rifiuti in Campania e' autorizzata, in favore dei commissari delegati, la spesa di 60 milioni di euro per l'anno 2008. Al relativo onere si provvede:
+
+                            
+                            
+                                a)
+                                
+                                    quanto a 20 milioni di euro, mediante corrispondente riduzione
+dell'autorizzazione di spesa di cui all'articolo 2, comma 321, della legge 24 dicembre 2007, n. 244;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quanto a 20 milioni di euro, a valere sulle risorse di cui all'articolo 10 del decreto legislativo 31 marzo 1998, n. 112;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quanto a 20 milioni di euro, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 1, comma 1, della legge 9 dicembre 1998, n. 426.
 
 Per le finalita' di cui al comma 1-quinquies, il commissario delegato alla costruzione delle discariche puo' avvalersi, nel limite di 20 milioni di euro, previa intesa con la regione Campania, delle risorse assegnate sui fondi POR Campania presenti nel Quadro comunitario di sostegno, programmazione 2000-2006 e 2007-2013, riguardanti le misure relative allo smaltimento dei rifiuti.
 
@@ -840,6 +1111,24 @@ A decorrere dall'anno 2008, il Ministero della pubblica istruzione provvede a co
 ## - Sezione XII Interno
 
 ## Art. 34. — Proroghe in materia di contrasto al terrorismo internazionale
+
+1.
+                        
+                            
+                                Al decreto-legge 27 luglio 2005, n. 144, convertito, con modificazioni, dalla legge 31 luglio 2005, n. 155, sono apportate le seguenti modifiche:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 6, comma 1, le parole: "fino al 31 dicembre 2007", ovunque ricorrano, sono sostituite dalle seguenti: (("fino alla data di entrata in vigore del provvedimento legislativo di attuazione della direttiva 2006/24/CE del Parlamento europeo e del Consiglio, del 15 marzo 2006, e comunque non oltre il 31 dicembre 2008,";))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 7, comma 1, le parole: "fino al 31 dicembre 2007" sono sostituite dalle seguenti: "fino al 31 dicembre 2008".
 
 ## Art. 34-bis. — ((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
 
@@ -874,6 +1163,70 @@ All'articolo 2, comma 28, secondo periodo, della legge 24 dicembre 2007, n. 244,
 L'obbligo di anticipazione di cui all'articolo 9, comma 1, del decreto-legge 28 marzo 1997, n. 79, convertito, con modificazioni, dalla legge 28 maggio 1997, n. 140, a decorrere dall'anno 2007, e' soppresso.
 
 La disposizione del comma 1 si applica a decorrere dal 30 dicembre 2007.
+
+2.
+                        
+                            
+                                La riscossione coattiva dei tributi e di tutte le altre entrate degli enti locali continua a potere essere effettuata con: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la procedura dell'ingiunzione di cui al regio decreto 14 aprile 1910, n. 639, seguendo anche le disposizioni contenute nel titolo II del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, in quanto compatibili, nel caso in cui la riscossione coattiva e' svolta in proprio dall'ente locale o e' affidata ai soggetti di cui all'articolo 52, comma 5, lettera b), del decreto legislativo 15 dicembre 1997, n. 446; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la procedura del ruolo di cui al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, se la riscossione coattiva e' affidata agli agenti della riscossione di cui all'articolo 3 del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248. (22) (25)
+
+2-bis.
+                        
+                            
+                                All'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, il primo periodo e' sostituito dal seguente: 
+ "L'agente della riscossione, su richiesta del contribuente, puo' concedere, nelle ipotesi di temporanea situazione di obiettiva difficolta' dello stesso, la ripartizione del pagamento delle somme iscritte a ruolo fino ad un massimo di settantadue rate mensili"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 2 e' abrogato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 4-bis, le parole: "il fidejussore" sono sostituite dalle seguenti: "l'eventuale fidejussore".
+
+2-ter.
+                        
+                            
+                                All'articolo 26 del decreto legislativo 26 febbraio 1999, n. 46, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: 
+ "1. Le disposizioni dell'articolo 19 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e successive modificazioni, si applicano alle entrate iscritte a ruolo dalle amministrazioni statali, dalle agenzie istituite dallo Stato, dalle autorita' amministrative indipendenti e dagli enti pubblici previdenziali, fermo restando quanto previsto dalle norme speciali in materia di rateizzazione delle pene pecuniarie di cui all'articolo 236, comma 1, del testo unico di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 e' inserito il seguente: 
+ "1-bis. Le disposizioni di cui al comma 1 si applicano altresi' alle restanti entrate iscritte a ruolo, salvo diversa determinazione dell'ente creditore, da comunicare all'agente della riscossione competente in ragione della sede legale dello stesso ente; tale determinazione produce effetti a decorrere dal trentesimo giorno successivo alla ricezione della comunicazione da parte del competente agente della riscossione".
 
 All'articolo 7 della legge 20 novembre 1982, n. 890, dopo il quinto comma, e' aggiunto il seguente: "Se il piego non viene consegnato personalmente al destinatario dell'atto, l'agente postale da' notizia al destinatario medesimo dell'avvenuta notificazione dell'atto a mezzo di lettera raccomandata".
 
@@ -911,11 +1264,73 @@ Nei confronti della societa' di cui all'articolo 3, comma 2, del decreto-legge 3
 
 All'articolo 3-quater, comma 2, del decreto-legge 28 dicembre 2006, n. 300, convertito, con modificazioni, dalla legge 26 febbraio 2007, n. 17, le parole: "31 dicembre 2007" sono sostituite dalle seguenti: "31 marzo 2008" e le parole: "30 per cento" sono sostituite dalle seguenti: "10 per cento".
 
+2.
+                        
+                            
+                                Al comma 1011 dell'articolo 1 della legge 27 dicembre 2006, n. 296, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole: "30 giugno 2007" sono sostituite dalle seguenti: "30 giugno 2008";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il primo periodo e' inserito il seguente: "I contribuenti hanno la facolta' di definire la propria posizione di cui al periodo precedente attraverso un unico versamento attualizzando il debito alla data del versamento medesimo".
+
 ))
 
 ## Art. 37. — Abolizione tassa sui contratti di borsa
 
 La tassa sui contratti di borsa e' soppressa.
+
+2.
+                        
+                            
+                                Alla Tabella allegata al testo unico delle disposizioni concernenti l'imposta di registro, di cui al decreto del Presidente della Repubblica 26 aprile 1986, n. 131, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 8, il comma 1 e' sostituito dal seguente: "1.
+Azioni, obbligazioni, altri titoli in serie o di massa e relative girate, titoli di Stato o garantiti; atti, documenti e registri relativi al movimento, a qualunque titolo, e alla compravendita degli stessi titoli e dei valori in moneta o verghe, salvo quanto disposto dall'articolo 11 della Tariffa, parte prima, e dall'articolo 2 della Tariffa, parte seconda.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 9, comma 1, le parole "; scritture private anche unilaterali, comprese le lettere ed i telegrammi, aventi per oggetto contratti soggetti alla tassa di cui al regio decreto 30 dicembre 1923, n. 3278, e ogni altra scrittura ad essi inerente" sono soppresse.
+
+3.
+                        
+                            
+                                Alla Tabella dell'allegato B al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, concernente l'imposta di bollo, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 7, primo comma, dopo le parole: "titoli obbligazionari emessi" ; sono inserite le seguenti: "o garantiti";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 7, secondo comma, le parole: "o la negoziazione" sono sostituite dalle seguenti: ", la negoziazione o la compravendita";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nell'articolo 15, il secondo comma e' sostituito dal seguente: "Atti, documenti e registri relativi al movimento, a qualsiasi titolo, e alla compravendita di valute e di valori in moneta o verghe.".
 
 Il regio decreto 30 dicembre 1923, n. 3278, e il decreto legislativo 21 novembre 1997, n. 435, e successive disposizioni modificative e integrative, nonche' l'articolo 34, quinto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, sono abrogati.
 
@@ -930,6 +1345,24 @@ Alle minori entrate derivanti dall'attuazione del presente articolo, determinate
 ((
 
 Al comma 217 dell'articolo 1 della legge 24 dicembre 2007, n. 244, e' aggiunto, in fine, il seguente periodo: "Limitatamente all'anno 2008, la dichiarazione prevista dal comma 3-bis dell'articolo 4 del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, e successive modificazioni, e' trasmessa entro il 31 maggio 2008".
+
+2.
+                        
+                            
+                                All'articolo 2 della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 539, dopo le parole: "lavoratrici donne rientranti nella definizione di lavoratore svantaggiato di cui all'articolo 2, lettera f)," sono inserite le seguenti: "punto XI," ed e' aggiunto, in fine, il seguente periodo: "Il credito d'imposta e' concesso nel rispetto delle condizioni e dei limiti previsti dal citato regolamento (CE) n. 2204/2002";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 548 e' abrogato.
 
 ))
 
@@ -948,6 +1381,24 @@ A decorrere dal 1° gennaio 2008 e fino al 31 dicembre 2008 si applicano le disp
 
 ((
 
+1-bis.
+                        
+                            
+                                Alle minori entrate derivanti dall'attuazione del comma 1, pari a 60 milioni di euro per l'anno 2008 e a 12 milioni di euro per l'anno 2010, si provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2008, quanto a 20 milioni di euro con le maggiori entrate derivanti dall'articolo 36, comma 2-bis, e, quanto a 40 milioni di euro, mediante utilizzo della riduzione dell'autorizzazione di spesa relativa al fondo per la competitivita' e lo sviluppo di cui all'articolo 1, comma 841, della legge 27 dicembre 2006, n. 296, disposta dall'articolo 29, comma 11, del presente decreto;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2010, quanto a 12 milioni di euro, con le maggiori entrate derivanti dall'articolo 36, comma 2-bis.
+
 A decorrere dal 1° gennaio 2008 e fino al 31 dicembre 2008, si applicano le disposizioni in materia di accisa concernenti le agevolazioni sul gasolio e sul gas di petrolio liquefatto impiegati nelle frazioni parzialmente non metanizzate dei comuni ricadenti nella zona climatica E, di cui all'articolo 13, comma 2, della legge 28 dicembre 2001, n. 448.
 
 Alla copertura delle minori entrate derivanti dal comma 1-ter si provvede a valere sulle maggiori entrate derivanti dall'articolo 38-bis.
@@ -960,6 +1411,24 @@ Alla copertura delle minori entrate derivanti dal comma 1-ter si provvede a vale
 ((
 
 All'articolo 3, comma 5, del decreto-legge 15 settembre 1990, n. 261, convertito, con modificazioni, dalla legge 12 novembre 1990, n. 331, sono aggiunte, in fine, le seguenti parole: ", nonche' per gli atti di accertamento e di irrogazione di sanzioni in materia di tasse automobilistiche e sulle concessioni governative".
+
+2.
+                        
+                            
+                                Al primo periodo del comma 37 dell'articolo 1 della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    la parola: "utilizza" e' sostituita dalla seguente: "possiede";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole: "primo periodo," sono soppresse.
 
 ))
 
@@ -985,6 +1454,26 @@ Il termine del 31 dicembre 2007 per l'effettuazione dei pagamenti di cui all'art
 Il termine del 31 dicembre 2007 per la liquidazione delle transazioni di cui all'articolo 24, comma 3, del decreto-legge l° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222, e' rinviato al 31 dicembre 2008.
 
 Resta fermo il termine del 31 dicembre 2007 stabilito dall'articolo 24 del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222, per l'effettuazione di pagamenti per le transazioni avvenute entro il 31 dicembre 2007 a valere sul contributo statale di 150 milioni di euro.
+
+3-bis.
+                        
+                            
+                                All'articolo 24 del decreto-legge 1° ottobre 2007, n. 159, convertito, con modificazioni, dalla legge 29 novembre 2007, n. 222, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1:
+ 1) dopo il primo periodo e' inserito il seguente: "Per le medesime finalita' di cui al periodo precedente e per i soli enti che abbiano deliberato il dissesto tra il 30 giugno 2001 e il 31 dicembre 2002, e' trasferita una somma pari a 5 milioni di euro per l'effettuazione dei pagamenti entro il 31 dicembre 2008";
+ 2) al secondo periodo, le parole: "Detta somma sara' ripartita" sono sostituite dalle seguenti: "Dette somme saranno ripartite";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3, le parole: "la somma di cui al comma 1 rientra" sono sostituite dalle seguenti: "le somme di cui al comma 1 rientrano".
 
 All'onere derivante dall'attuazione del comma 3-bis, pari a 5 milioni di euro per l'anno 2008, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2008-2010, nello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2008, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno.
 
@@ -1028,6 +1517,24 @@ All'articolo 3, comma 45, della legge 24 dicembre 2007, n. 244, dopo le parole: 
 
 ((
 
+2-bis.
+                        
+                            
+                                Al comma 132 dell'articolo 1 della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: "Nel limite massimo di 500.000 euro annui" sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ultimo periodo e' soppresso.
+
 All'onere derivante dall'attuazione del comma 2-bis, pari a 26 milioni di euro a decorrere dall'anno 2008, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2008-2010, nell'ambito del fondo speciale di parte corrente dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2008, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della solidarieta' sociale.
 
 ))
@@ -1070,6 +1577,24 @@ Al fine di consentire la stima dell'impatto sull'indebitamento netto e sul debit
 
 ((
 
+1.
+                        
+                            
+                                Alla legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'elenco n. 1 allegato, al numero 16 Ministero dei trasporti, le parole: "legge 6 giugno 1974, n. 298, articolo 63" sono soppresse;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 3, comma 40, sono aggiunte, in fine, le seguenti parole: "e la contabilita' speciale intestata al comitato centrale per l'Albo nazionale degli autotrasportatori per le spese di funzionamento del comitato centrale e dei comitati provinciali".
+
 ))
 
 ## - Capo III DISPOSIZIONI VARIE
@@ -1079,6 +1604,25 @@ Al fine di consentire la stima dell'impatto sull'indebitamento netto e sul debit
 Cinque per mille in favore di associazioni sportive
 dilettantistiche ((nonche' di fondazioni nazionali di carattere culturale))
  ((
+
+1.
+                        
+                            
+                                Al comma 5 dell'articolo 3 della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    alla lettera a) sono aggiunte, in fine, le seguenti parole: ", nonche' delle fondazioni nazionali di carattere culturale";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' aggiunta, in fine, la seguente lettera:
+ "c-bis) sostegno alle associazioni sportive dilettantistiche riconosciute ai fini sportivi dal CONI a norma di legge".
 
 Alla lettera a) del comma 1234 dell'articolo 1 della legge 27 dicembre 2006, n. 296, sono aggiunte, in fine, le seguenti parole: ", nonche' delle fondazioni nazionali di carattere culturale".
 
@@ -1187,6 +1731,26 @@ Ai fini dell'iscrizione nei registri regionali delle organizzazioni di volontari
 
 ## Art. 50. — Interventi a favore dei perseguitati politici e razziali
 
+1.
+                        
+                            
+                                Al comma 1 dell'articolo 1 della legge 17 agosto 2005, n. 175, 
+ sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: "per ciascuno degli anni 2006 e 2007" sono 
+ sostituite dalle seguenti: "per ciascuno degli anni 2006, 2007, 2008 e 2009"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' aggiunto, in fine, il seguente periodo: "Gli interventi  di cui al presente comma possono essere rifinanziati, per uno o piu' degli anni considerati dal bilancio pluriennale, ai sensi dell'articolo 11, comma 3, lettera f), della legge 5 agosto 1978, n. 468, e successive modificazioni.".
+
 All'onere pari a 2 milioni di euro per ciascuno degli anni 
  2008 e 2009 si provvede mediante corrispondente riduzione della dotazione del Fondo per interventi strutturali di politica economica di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
 
@@ -1195,6 +1759,35 @@ Per la determinazione dei limiti di reddito previsti per il
 
 Le disposizioni di cui al comma 3 hanno effetto a decorrere 
  dal 15 settembre 2007.
+
+5.
+                        
+                            
+                                Agli oneri derivanti dall'attuazione dei commi 3 e 4, valutati 
+ in 1.750.000 euro per l'anno 2007, in 5.000.000 di euro per l'anno 2008 ed in 4.700.000 euro a decorrere dall'anno 2009, si provvede: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2007 mediante corrispondente riduzione dello 
+ stanziamento iscritto, ai fini del bilancio triennale 2007-2009, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2007, utilizzando parte dell'accantonamento relativo al medesimo Ministero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'anno 2008 mediante corrispondente riduzione dello 
+ stanziamento iscritto, ai fini del bilancio triennale 2007-2009, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2007 utilizzando quanto a 2,4 milioni di euro la proiezione di parte dell'accantonamento relativo al Ministero della giustizia e quanto ai restanti 2,6 milioni di euro utilizzando, per l'importo di euro 867.000 ciascuno, la proiezione di parte degli accantonamenti relativi al Ministero della solidarieta' sociale e al Ministero della salute e, per l'importo di euro 866.000, la proiezione di parte dell'accantonamento relativo al Ministero dell'universita' e della ricerca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per l'anno 2009 mediante corrispondente riduzione dello 
+ stanziamento iscritto, ai fini del bilancio triennale 2007-2009, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2007, utilizzando, per l'importo di euro 903.000 e di euro 1.215.000, la proiezione di parte degli accantonamenti relativi rispettivamente al Ministero per i beni e le attivita' culturali e al Ministero dell'universita' e della ricerca e, per l'importo di euro 1.291.000 ciascuno, la proiezione di parte degli accantonamenti relativi al Ministero degli affari esteri e al Ministero della solidarieta' sociale.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad 
  apportare, con propri decreti, le occorrenti variazioni di bilancio.

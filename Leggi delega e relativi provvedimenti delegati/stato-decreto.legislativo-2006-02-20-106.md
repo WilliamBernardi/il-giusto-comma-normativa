@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-12-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:19Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -39,6 +39,59 @@ Il procuratore della Repubblica puo' designare, tra i procuratori aggiunti, il v
 Il procuratore della Repubblica puo' delegare ad uno o piu' procuratori aggiunti ovvero anche ad uno o piu' magistrati addetti all'ufficio la cura di specifici settori di affari, individuati con riguardo ad aree omogenee di procedimenti ovvero ad ambiti di attivita' dell'ufficio che necessitano di uniforme indirizzo. In caso di delega, uno o piu' procuratori aggiunti o uno o piu' magistrati sono sempre specificamente individuati per la cura degli affari in materia di violenza contro le donne e domestica.
 
 Nella designazione di cui al comma 3 e nella attribuzione della delega di cui al comma 4, il procuratore della Repubblica puo' stabilire, in via generale ovvero con singoli atti, i criteri ai quali i procuratori aggiunti ed i magistrati dell'ufficio devono attenersi nell'esercizio delle funzioni vicarie o della delega.
+
+6.
+                    
+                        
+                            Il procuratore della Repubblica predispone, in conformita' ai principi generali definiti dal Consiglio superiore della magistratura, il progetto organizzativo dell'ufficio, con il quale determina: 
+ 
+                        
+                        
+                            a)
+                            
+                                le misure organizzative finalizzate a garantire l'efficace e uniforme esercizio dell'azione penale, tenendo conto dei criteri di priorita' di cui alla lettera b); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i criteri di priorita' finalizzati a selezionare le notizie di reato da trattare con precedenza rispetto alle altre e definiti, nell'ambito dei criteri generali indicati dal Parlamento con legge, tenendo conto del numero degli affari da trattare, della specifica realta' criminale e territoriale e dell'utilizzo efficiente delle risorse tecnologiche, umane e finanziarie disponibili; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i compiti di coordinamento e di direzione dei procuratori aggiunti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i criteri di assegnazione e di coassegnazione dei procedimenti e le tipologie di reato per le quali i meccanismi di assegnazione dei procedimenti sono di natura automatica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i criteri e le modalita' di revoca dell'assegnazione dei procedimenti; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i criteri per l'individuazione del procuratore aggiunto o comunque del magistrato designato come vicario, ai sensi del comma 3; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                i gruppi di lavoro, salvo che la disponibilita' di risorse umane sia tale da non consentirne la costituzione, e i criteri di assegnazione dei sostituti procuratori a tali gruppi, che devono valorizzare il buon funzionamento dell'ufficio e le attitudini dei magistrati, nel rispetto della disciplina della permanenza temporanea nelle funzioni, fermo restando che ai componenti dei medesimi gruppi di lavoro non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
 Il progetto organizzativo dell'ufficio e' adottato ogni quattro anni, sulla base di modelli standard stabiliti con delibera del Consiglio superiore della magistratura, sentiti il dirigente dell'ufficio giudicante corrispondente e il presidente del consiglio dell'ordine degli avvocati, ed e' approvato dal Consiglio superiore della magistratura, previo parere del consiglio giudiziario e valutate le eventuali osservazioni formulate dal Ministro della giustizia ai sensi dell'articolo 11 della legge 24 marzo 1958, n. 195. Decorso il quadriennio, l'efficacia del progetto e' prorogata fino a che non sopravvenga il nuovo. Con le medesime modalita' di cui al primo periodo, il progetto organizzativo puo' essere variato nel corso del quadriennio per sopravvenute esigenze dell'ufficio. Si applicano, in quanto compatibili, le disposizioni di cui all'articolo 7-bis, commi 2, 2.1, 2.4 e 2.5, del regio decreto 30 gennaio 1941, n. 12. ((8))
 
@@ -104,6 +157,24 @@ Il procuratore generale presso la corte di appello, al fine di verificare il cor
 Il procuratore generale presso la corte di appello ogni tre mesi acquisisce dalle procure della Repubblica del distretto i dati sul rispetto del termine entro il quale devono essere assunte informazioni dalla persona offesa e da chi ha presentato denuncia, querela o istanza nei procedimenti per i delitti indicati nell'articolo 362, comma 1-ter, del codice di procedura penale e invia al procuratore generale presso la Corte di cassazione una relazione almeno semestrale. ((Sono specificamente acquisiti anche i dati relativi ai casi in cui la persona offesa abbia formulato la richiesta di essere sentita personalmente dal pubblico ministero)).
 
 ## Art. 7. — Abrogazioni e modificazioni
+
+1.
+                    
+                        
+                            Oltre a quanto previsto dal decreto legislativo di attuazione della delega di cui all'articolo 1, comma 3, della legge 25 luglio 2005, n. 150, sono abrogati, dalla data di acquisto di efficacia delle disposizioni contenute nel presente decreto:
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 7-ter, comma 3 e 72, secondo comma, del regio decreto 30 gennaio 1941, n. 12, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 3 delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale, di cui al decreto legislativo 28 luglio 1989, n. 271.
 
 All'articolo 109 del regio decreto 30 gennaio 1941, n. 12, e succesive modificazioni, dopo le parole: "del procuratore della Repubblica", sono aggiunte le seguenti parole: "ove non sia stato nominato un vicario".
 

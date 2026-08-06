@@ -8,8 +8,8 @@ codice_redazionale: 094G0653
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,31 @@ L'unita' organizzativa responsabile dell'istruttoria e di ogni altro adempimento
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Requisiti per l'iscrizione
+
+1.
+                    
+                        
+                            Possono essere iscritti all'elenco, di cui all'art. 6 della legge 25 gennaio 1994, n. 86, coloro che sono in possesso dei seguenti requisiti di professionalita' e onorabilita':
+ 
+                        
+                        
+                            a)
+                            
+                                iscrizione per un periodo di almeno cinque anni continuativi ad uno degli albi professionali degli ingegneri, architetti, dottori agronomi, geometri e periti agrari e relativo esercizio effettivo delle corrispondenti libere professioni in forma autonoma da almeno un quinquennio in via continuativa;
+
+                            
+                        
+                        
+                            b)
+                            
+                                cittadinanza italiana o di uno Stato membro delle Comunita' europee;
+
+                            
+                        
+                        
+                            c)
+                            
+                                insussistenza delle cause ostative all'iscrizione previste dall'art. 6, comma 3, della medesima legge.
 
 ## Art. 3. — Modalita' di presentazione della domanda
 

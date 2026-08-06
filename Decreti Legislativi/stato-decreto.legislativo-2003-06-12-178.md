@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-01-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -61,6 +61,31 @@ Quando i prodotti definiti all'allegato I, punti 3, 4, 5, 6, 7 e 10, sono vendut
 L'etichettatura dei prodotti di cacao e di cioccolato definiti all'allegato I, punti 2, lettere e) e d), 3, 4, 5, 8 e 9, indica il tenore di sostanza secca totale di cacao con i termini: «cacao: ... % min».
 
 Per i prodotti di cui all'allegato I, punto 2, lettere b) e d) secondo periodo, l'etichettatura indica il tenore di burro di cacao.
+
+6.
+                    
+                        
+                            Le denominazioni di vendita «cioccolato», «cioccolato al latte» e «cioccolato di copertura», previste nell'allegato I, possono essere completate da espressioni o aggettivi relativi a criteri di qualita', sempreche' i prodotti in questione contengano:
+ 
+                        
+                        
+                            a)
+                            
+                                nel caso del «cioccolato», non meno del 43 per cento di sostanza secca totale di cacao, di cui non meno del 26 per cento di burro di cacao;
+
+                            
+                        
+                        
+                            b)
+                            
+                                nel caso del «cioccolato al latte», non meno del 30 per cento di sostanza secca totale di cacao e del 18 per cento di sostanza del latte ottenuta dalla disidratazione parziale o totale di latte intero, parzialmente o totalmente scremato, panna, panna parzialmente o totalmente disidratata, burro o grassi del latte, di cui almeno il 4,5 per cento di grassi del latte;
+
+                            
+                        
+                        
+                            c)
+                            
+                                nel caso del «cioccolato di copertura», non meno del 16 per cento di cacao secco sgrassato.
 
 I prodotti che, a norma dell'articolo 2, comma 1, contengono grassi vegetali diversi dal burro di cacao, recano sull'etichettatura la menzione «contiene altri grassi vegetali oltre al burro di cacao», non sostituibile da altre espressioni, anche se aventi lo stesso significato.
 

@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2021-02-02;13
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -101,6 +101,45 @@ L'importatore che, secondo le modalita' e nei termini indicati nel piano approva
 Per tutto quanto non previsto dal presente decreto si applicano le disposizioni di cui alla legge 24 novembre 1981, n. 689.
 
 ## Art. 8. — Comitato
+
+1.
+                    
+                        
+                            Allo scopo di fornire supporto all'Autorita' nello svolgimento delle proprie funzioni e' istituito, presso il Ministero dello sviluppo economico, senza ulteriori oneri a carico della finanza pubblica, il Comitato per il coordinamento delle attivita', di seguito denominato «Comitato», composto da un rappresentante ed un supplente designati dalle seguenti amministrazioni pubbliche: 
+ 
+                        
+                        
+                            a)
+                            
+                                Ministero dello sviluppo economico - Autorita', che lo presiede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Presidenza del Consiglio dei ministri; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Ministero degli affari esteri e della cooperazione internazionale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Ministero dell'economia e delle finanze; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                Ministero della giustizia.
 
 Ove necessario, ai lavori del Comitato e' invitata a partecipare l'Agenzia delle dogane e dei monopoli.
 

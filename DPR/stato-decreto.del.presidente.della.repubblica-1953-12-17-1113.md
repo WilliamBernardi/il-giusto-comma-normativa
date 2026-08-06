@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2000-11-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,24 @@ Nel caso in cui la regione siciliana ometta di compiere atti relativi all'eserci
 ## Art. 2.
 
 ((
+
+1.
+                    
+                        
+                            Per l'esercizio delle attribuzioni spettanti alla Regione siciliana in forza dell'articolo 1 passano alle dipendenze della regione ed entrano a far parte integrante della sua organizzazione amministrativa i seguenti uffici periferici del Ministero dei trasporti in Sicilia:
+ 
+                        
+                        
+                            a)
+                            
+                                la direzione compartimentale della motorizzazione civile e dei trasporti in concessione, compresa la sezione di Catania e con esclusione dei centri prova veicoli a motore e dispositivi di cui alla legge 1o dicembre 1986, n. 870;
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli uffici provinciali che operano alle dipendenze e nell'ambito di detta direzione.
 
 Il trasferimento alla regione siciliana degli uffici comporta la successione allo Stato nei diritti ed obblighi inerenti agli immobili sede degli uffici stessi ed ai relativi beni mobili, arredi e attrezzature.
 
@@ -66,6 +84,24 @@ Le attrezzature tecniche per l'esecuzione delle operazioni di revisione effettua
 
 La determinazione dei rimborsi spettanti alla regione siciliana per le spese sostenute in ordine all'esercizio delle funzioni di cui all'articolo 1, comma 2, al netto dei proventi derivanti dalle operazioni svolte dagli uffici di cui all'articolo 2, comma 1, che affluiscono direttamente alla regione, e' effettuata con cadenza biennale mediante intesa tra il Governo ed il presidente della regione, in modo da assicurare risparmi di spesa per il bilancio dello Stato.
 
+2.
+                    
+                        
+                            I costi sostenuti dalla regione siciliana in sede di determinazione dei rimborsi sono quantificati sulla base dei seguenti parametri:
+ 
+                        
+                        
+                            a)
+                            
+                                costi di personale e di funzionamento da determinare in misura pari alla media nazionale per uffici corrispondenti per tipo di funzioni e carichi di lavoro, contabilizzata ogni biennio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                spese per investimenti da determinare entro i limiti di quanto preventivamente concordato per ogni biennio.
+
 ))
 
 ## Art. 3.
@@ -78,11 +114,61 @@ Sono da considerare regionali tutti i servizi pubblici di comunicazione e di tra
 
 Essi riguardano l'insieme dei sistemi di mobilita' terrestri, navali ed aerei che operano in modo continuativo o periodico, con itinerari, orari, frequenze e tariffe prestabilite e ad accesso generalizzato, con qualsiasi modalita' o tecnologia espletati ed in qualsiasi forma affidati, con esclusione dei servizi pubblici di trasporto di interesse nazionale, quali risultano tassativamente individuati dalla normativa statale di settore.
 
+3.
+                    
+                        
+                            In particolare sono da considerare regionali:
+ 
+                        
+                        
+                            a)
+                            
+                                i servizi di trasporto automobilistico, ferroviario o con qualsiasi altro mezzo di trasporto terrestre prestati, nonche' marittimo e fluviale, che si svolgano prevalentemente nell'ambito della regione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i servizi di trasporto aereo ed elicotteristico che si svolgano esclusivamente nell'ambito della regione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le attribuzioni concernenti gli autoservizi pubblici di trasporto di persone e di merci, le autorizzazioni al trasporto di cose per conto terzi, nonche' il servizio di noleggio da rimessa, previste dal vigente codice della strada e da esercitarsi in conformita' alla normativa statale di settore e ai criteri adottati in materia dal Ministero dei trasporti e della navigazione.
+
 ))
 
 ## Art. 4-bis.
 
 ((
+
+1.
+                    
+                        
+                            Nella materia del servizio pubblico di trasporto regionale e locale, sono di competenza dello Stato esclusivamente:
+ 
+                        
+                        
+                            a)
+                            
+                                gli accordi, le convenzioni ed i trattati internazionali relativi a servizi transfrontalieri per il trasporto di persone e merci;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le funzioni in materia di sicurezza, di cui al decreto del Presidente della Repubblica 11 luglio 1980, n. 753, e successive modifiche ed integrazioni, tranne quelle relative al rilascio del nulla osta allo svolgimento dei servizi di trasporto su gomma e quelle relative all'accertamento di cui all'ultimo comma dell'articolo 5 del medesimo decreto n. 753 del 1980;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'adozione delle linee guida e dei principi quadro per la riduzione dell'inquinamento derivante dal sistema di trasporto pubblico.
 
 ))
 

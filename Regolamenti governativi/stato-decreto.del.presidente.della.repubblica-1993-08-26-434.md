@@ -8,8 +8,8 @@ codice_redazionale: 093G0513
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -24,6 +24,31 @@ Udito il parere del Consiglio di Stato, emesso dall'adunanza generale nella sedu
 Sulla proposta del Ministro dei trasporti, di concerto con i Ministri delle finanze, del tesoro e dell'ambiente;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            L'imposta erariale istituita dall'art. 10 del decreto-legge 27 aprile 1990, n. 90, convertito dalla legge 26 giugno 1990, n. 165, consistente in un aumento percentuale dell'importo dei diritti di approdo e partenza degli aeromobili, previsti dall'art. 2 della legge 5 maggio 1976, n. 324, e successive modificazioni, e' fissata nelle seguenti misure:
+ 
+                        
+                        
+                            a)
+                            
+                                20 per cento, per i velivoli subsonici a reazione e ad elica senza certificazione acustica, con esclusione dei velivoli ad uso antincendio, acrobatico, agricolo, dei motoalianti e dei velivoli amatoriali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                15 per cento per i velivoli subsonici a reazione aventi le caratteristiche indicate nel capitolo 2 dell'allegato XVI alla convenzione di Chicago del 7 dicembre 1944 sull'aviazione civile internazionale;
+
+                            
+                        
+                        
+                            c)
+                            
+                                5 per cento, per i velivoli subsonici a reazione aventi le caratteristiche indicate nel capitolo 3 dell'allegato XVI citato alla lettera b) e per i velivoli ad elica muniti di certificazione acustica.
 
 ## Art. 2.
 

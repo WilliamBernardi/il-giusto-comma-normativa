@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,45 @@ Nell'intento di perseguire l'ottimizzazione dell'erogazione dei servizi, le part
 
 A tale scopo, gli Enti approntano adeguati strumenti per la tutela degli interessi degli utenti e per una piu' agevole utilizzazione dei servizi anche attraverso l'individuazione di appositi Uffici di Pubbliche Relazioni, se necessario decentrati, con il compito di fornire agli utenti ogni utile informazione anche documentale sui servizi erogati dall'Ente e sulla loro dislocazione nel territorio, sugli orari di apertura e sul tipo di prestazione nonche' di ricevere eventuali reclami e suggerimenti da parte degli utenti stessi al fine del miglioramento dei servizi.
 
+3.
+                        
+                            
+                                In tale quadro gli Enti, sentite le Organizzazioni e le Confederazioni Sindacali maggiormente rappresentative, predispongono appositi progetti finalizzati - in particolare - per assicurare condizioni di rispetto, chiarezza e dialogo nel rapporto con gli utenti, ivi compresa la riconoscibilita' degli addetti ai servizi attraverso il cartellino di riconoscimento secondo le vigenti disposizioni. I suddetti interventi sono diretti ad assicurare, secondo la natura degli adempimenti istituzionali:
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione professionale del personale volta al rispetto della dignita' umana del malato e dell'utente, da attuare attraverso piani da definire in sede di negoziazione decentrata, specificamente rivolta ad assicurare completezza e chiarezza delle informazioni fornite, anche con l'ausilio di apparecchiature elettroniche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la semplificazione e l'unificazione della modulistica almeno a livello di Ente e la riduzione della documentazione a corredo delle domande di prestazioni, applicando le norme sull'autocertificazione di cui alla legge 4 gennaio 1968, n. 15, e le istruzioni contenute nella circolare del Ministro per la funzione pubblica del 20 dicembre 1988, n. 26779, pubblicata nella Gazzetta Ufficiale n. 7 del 10 gennaio 1989;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ampliamento degli orari di apertura delle strutture, per garantire l'esigenza degli utenti di accedere alle strutture stesse;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il collegamento tra amministrazioni e l'unificazione di adempimenti che valgano ad agevolare il rapporto con gli utenti, anche attraverso l'istituzione di servizi polivalenti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il miglioramento della logistica relativamente ai locali adibiti al ricevimento degli utenti con l'obiettivo di ridurre al minimo l'attesa ed i disagi ad essa connessi, anche abbattendo le barriere architettoniche ed adottando idonee soluzioni atte a facilitare l'accesso all'informazione ed ai pubblici servizi delle persone non autonome portatrici di handicap ed anziane.
+
 Entro un anno dall'entrata in vigore del presente regolamento e, in seguito, con cadenza annuale, gli Enti promuovono apposite conferenze, unitamente alle Organizzazioni e Confederazioni Sindacali maggiormente rappresentative, sentite le associazioni diffuse su larga scala e maggiormente rappresentative degli utenti, per esaminare l'andamento dei rapporti con l'utenza ed in particolare i risultati ottenuti e gli impedimenti riscontrati nell'ottimizzazione del processo di erogazione dei servizi, allo scopo di consentire la promozione di adeguate iniziative per la rimozione dei predetti ostacoli e per il miglioramento delle relazioni con l'utenza.
 
 ## - Parte prima COMPARTO SANITA' Titolo Primo DISPOSIZIONI GENERALI Capo II RAPPORTI CON L'UTENZA Sezione II NORME DI GARANZIA DEL FUNZIONAMENTO DEI SERVIZI PUBBLICI ESSENZIALI
@@ -50,6 +89,73 @@ Ai sensi dell'articolo 10 del decreto del Presidente della Repubblica 23 agosto 
  5) sicurezza e salvaguardia degli impianti;
  6) approvvigionamento, produzione e distribuzione di beni e servizi di prima necessita', distribuzione di energia nonche' gestione e manutenzione dei relativi impianti;
  7) erogazione di assegni e di indennita' con funzione di sostentamento.
+
+2.
+                        
+                            
+                                Nell'ambito dei servizi essenziali di cui al comma 1 devono garantirsi, con le modalita' ed i contingenti minimi di cui all'articolo 4, la continuita' delle seguenti prestazioni indispensabili per assicurare il rispetto dei valori e dei diritti costituzionalmente tutelati:
+ 
+                            
+                            
+                                a)
+                                
+                                    prestazioni di accettazione per i ricoveri d'urgenza e di pronto soccorso, nonche' specialistiche e diagnostiche necessarie a garantire le urgenze; anestesia per le sole urgenze; medicina neonatale; rianimazione e terapia intensiva; unita' coronariche; emodialisi; servizio trasfusionale; psichiatria; trattamenti sanitari obbligatori; assistenza di persone anziane ed handicappate; assistenza farmaceutica anche integrativa; servizio ambulanze;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    raccolta, nei casi di urgenza, dei rifiuti solidi; raccolta, allontanamento e smaltimento dei rifiuti speciali, tossici, nocivi e radioattivi; vigilanza, nei casi di urgenza, sugli alimenti e bevande; salvaguardia degli impianti e delle apparecchiature anche a ciclo continuo soggetti a vigilanza nei casi in cui l'interruzione del funzionamento comporti danni alle persone ed agli impianti stessi; sicurezza e funzionamento degli impianti termoelettrici e degli impianti di emergenza necessari ad assicurare i servizi essenziali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigilanza sui focolai o malattie infettive e zoonosi; controllo degli animali morsicatori ai fini della profilassi antirabbica; macellazione di urgenza degli animali in pericolo di vita; approvvigionamento carneo agli ospedali, case di cura ed istituti convenzionati nonche' residenze protette ed assistite;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    referti, denunce, certificazioni e provvedimenti contingibili ed urgenti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prestazioni urgenti svolte dal Servizio Sanitario Nazionale per conto della protezione civile;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    approvvigionamento urgente dei beni di prima necessita';
+
+                                
+                            
+                            
+                                g)
+                                
+                                    servizi di cucina, incluse banche del latte per i neonati, per assicurare le esigenze alimentari e dietetiche salvo nei casi in cui non sia possibile prevedere adeguata sostituzione del serzizio;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    distribuzione del vitto; somministrazione dello stesso a persone non autosufficienti ed ai minori;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    pagamento degli assegni e dei sussidi con carattere di sostentamento, per il periodo di tempo strettamente necessario, in base all'organizzazione dei singoli Enti.
 
 ## Art. 4. — Prestazioni indispensabili e contingenti di personale
 per il funzionamento dei servizi pubblici essenziali
@@ -124,6 +230,31 @@ Nella determinazione dei limiti individuali si tiene particolare conto: del rich
 
 Le ulteriori prestazioni di lavoro straordinario svolte per esigenze sopravvenute dopo la determinazione dei limiti individuati nei commi 4 e 5 sono compensate con riposi sostitutivi da fruire, compatibilmente con le esigenze di servizio, nel mese successivo.
 
+7.
+                        
+                            
+                                La misura oraria dei compensi per lavoro straordinario e' determinata maggiorando la misura oraria di lavoro ordinario calcolata convenzionalmente, dividendo per 156 i seguenti elementi retributivi:
+ 
+                            
+                            
+                                a)
+                                
+                                    stipendio tabellare base iniziale di livello in godimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita' integrativa speciale (I.I.S.) in godimento nel mese di dicembre dell'anno precedente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rateo di tredicesima mensilita' delle due precedenti voci.
+
 Gli stipendi tabellari iniziali previsti dall'articolo 41, comma 1, hanno effetto sulla misura oraria dei compensi per lavoro straordinario a decorrere dal 1 giorno del mese successivo all'entrata in vigore del presente regolamento.
 
 La maggiorazione di cui al comma 7 e' pari al 15% per lavoro straordinario diurno, al 30% per lavoro straordinario prestato nei giorni festivi o in orario notturno (dalle ore 22 alle ore 6 del giorno successivo) ed al 50% per quello prestato in orario notturno festivo.
@@ -135,6 +266,52 @@ La maggiorazione di cui al comma 7 e' pari al 15% per lavoro straordinario diurn
 L'istituto della mobilita' all'interno dell'Ente concerne l'utilizzazione sia temporanea che definitiva del personale in presidio o servizio ubicato in localita' diversa da quella della sede di assegnazione.
 
 Rientra nel potere organizzatorio dell'Ente l'utilizzazione del personale nell'ambito di presidi, servizi, uffici situati a non oltre 10 Km dalla localita' sede di assegnazione. Detta utilizzazione, che non e' soggetta alle procedure previste dalle lettere A) e B) del comma 3 per la mobilita' di urgenza ed ordinaria, e' disposta sentite le Organizzazioni Sindacali maggiormente rappresentative quando avviene al di fuori del presidio, servizio o ufficio di assegnazione.
+
+3.
+                        
+                            
+                                La mobilita' interna si distingue in mobilita' di urgenza e ordinaria e viene attuata secondo le seguenti procedure: 
+ A) Mobilita' di urgenza: 
+ 1) nei casi in cui, nell'ambito dell'Ente sia necessario soddisfare le esigenze funzionali dei servizi a seguito di eventi contingenti e non prevedibili, l'utilizzazione provvisoria dei dipendenti in servizio, presidio e ufficio diverso da quello di assegnazione e' effettuata limitatamente al perdurare delle situazioni predette; 
+ 2) tale utilizzazione e' disposta, con atto motivato, dall'ufficio di Direzione della Unita' Sanitaria Locale o dall'organo corrispondente secondo i rispettivi ordinamenti, e non puo' superare il limite massimo di un mese nell'anno solare; 
+ 3) la mobilita' di urgenza presuppone l'utilizzo di tutto il personale di uguale ruolo, posizione funzionale, profilo professionale e disciplina ove prevista, ferma restando la necessita' di assicurare, in via prioritaria, la funzionalita' dell'unita' operativa di provenienza; 
+ 4) al personale interessato spetta l'indennita' di missione prevista dalla normativa vigente, se e in quanto dovuta; 
+ B) Mobilita' ordinaria nell'ambito dell'Ente: 
+ gli enti, ((prima di procedere alla copertura)) dei posti vacanti secondo le vigenti disposizioni, a domanda degli interessati, possono attivare, sentite le Organizzazioni Sindacali maggiormente rappresentative, misure di mobilita' ordinaria interna nell'osservanza delle modalita' e nel rispetto dei seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguata e tempestiva informazione sulla disponibilita' dei posti da ricoprire mediante mobilita' del personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il personale collocato nelle posizioni funzionali ricomprese dal VI all'XI livello retributivo, a seguito di una valutazione positiva ed, in caso di piu' domande, comparata del cur- riculum di carriera e professionale in rapporto al posto da ricoprire - effettuata dall'Ufficio di direzione - integrato dal Responsabile di Servizio cui il posto si riferisce ove non facente gia' parte dell'ufficio di Direzione stesso - per le posizioni funzionali ricomprese dal VI al X livello retributivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il restante personale mediante compilazione di graduatorie sulla base dell'anzianita' di servizio di ruolo e non di ruolo nella posizione funzionale, profilo e disciplina di appartenenza nonche' della situazione personale e familiare e della residenza anagrafica; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    con riferimento alle lettere b) e c), per la situazione personale e familiare, riguardante anche documentate situazioni di particolare rilevanza sociale, nonche' per la residenza anagrafica e' attribuito un massimo di punti 15 sulla base dei criteri individuati in sede di contrattazione decentrata a livello locale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    in caso di parita' di punteggio ha la precedenza il dipendente con maggiore anzianita' complessiva di servizio.
 
 Gli Enti per motivate esigenze di servizio possono disporre d'ufficio misure di mobilita' interna del personale sulla base di criteri da definirsi negli accordi decentrati a livello locale.
 
@@ -165,9 +342,63 @@ Trasferimento ad altra unita' sanitaria locale:
  Le indennita' di incentivazione alla mobilita' sono corrisposte a
 cura dell'Ente ricevente e rimborsate dallo Stato sino alla concorrenza massima delle somme di cui sopra.
 
+3.
+                        
+                            
+                                Mobilita' tra gli enti del comparto:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' consentito il trasferimento di personale tra tutti gli enti destinatari del presente regolamento, a domanda motivata e documentata del dipendente interessato, previa intesa tra gli enti stessi in base a criteri concordati con le Organizzazioni Sindacali maggiormente rappresentative, a condizione dell'esistenza nell'Ente di destinazione di posto vacante di corrispondente posizione funzionale e profilo professionale e, ove prevista, disciplina in base alle tabelle di cui all'allegato 2) al decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, ed allegato 1) al presente regolamento, nonche' della sussistenza negli ordinamenti degli Enti del comparto diversi da Unita' Sanitarie Locali di norme dirette a garantire condizioni di reciprocita' nell'applicazione della mobilita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora il trasferimento ad uno degli enti del comparto riguardi il personale delle Unita' Sanitarie Locali, e', altresi', necessario il nulla osta della regione interessata.
+
 ## Art. 13. — Mobilita' tra Enti in ambito interregionale
 
 La mobilita' tra enti in ambito interregionale comprende le seguenti fattispecie.
+
+2.
+                        
+                            
+                                Mobilita' tra Unita' Sanitarie Locali:
+ 
+                            
+                            
+                                a)
+                                
+                                    la mobilita' tra unita' sanitarie locali di diversa regione avviene esclusivamente a domanda del dipendente interessato con le procedure e alle condizioni indicate nella lettera A) del comma 2 dell'articolo 12, alle quali nel punto 2) e' aggiunto anche l'obbligo di approvazione delle Regioni interessate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per comprovate esigenze di servizio la mobilita' di cui alla lettera a) puo' essere attuata anche attraverso l'istituto del comando con le procedure e modalita' di cui all'articolo 44 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761. Il comando non puo' avere durata superiore a dodici mesi eventualmente rinnovabili.
+
+3.
+                        
+                            
+                                Mobilita' tra enti del comparto:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' consentito il trasferimento di personale tra tutti gli enti destinatari del presente regolamento, a domanda motivata e documentata del dipendente interessato, previa intesa tra gli Enti stessi in base a criteri concordati con le Organizzazioni Sindacali maggiormente rappresentative, a condizione dell'esistenza nell'ente di destinazione di posto vacante di corrispondente posizione funzionale e profilo professionale e, ove prevista, disciplina in base alle tabelle di cui all'allegato 2) al decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, ed allegato 1) al presente regolamento, nonche' della sussistenza negli ordinamenti degli Enti del comparto diversi dalle Unita' Sanitarie Locali di norme dirette a garantire condizioni di reciprocita' nell'applicazione della mobilita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora il trasferimento ad uno degli enti del comparto riguardi il personale delle Unita' Sanitarie Locali e', altresi', necessario il nulla osta della regione interessata.
 
 ## Art. 14. — Mobilita' intercompartimentale
 
@@ -213,6 +444,38 @@ Al fine di consentire il proficuo inserimento dei dipendenti nel nuovo ruolo o p
 
 ## Art. 18. — Trattamento di missione per particolari categorie
 
+1.
+                        
+                            
+                                Le particolari categorie di dipendenti di cui all'articolo 5, comma 7, del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono individuate nel personale inviato in missione fuori dell'ordinaria sede di servizio per:
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di protezione civile nelle situazioni di prima urgenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assistenza ed accompagnamento di pazienti ed infermi durante il trasporto di emergenza od in particolari condizioni di sicurezza;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    attivita' che comportino imbarchi brevi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    interventi in zone particolarmente disagiate quali lagune, fiumi, boschi e selve.
+
 Per il personale indicato nel comma 1, le particolarissime condizioni di cui al comma 7 dell'articolo 5 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono individuate nella impossibilita' della fruizione del pasto anche per mancanza di strutture e servizi di ristorazione. In tale circostanza e' corrisposto un compenso forfettario giornaliero di lire ventimila nette in luogo dell'importo corrispondente al costo del pasto.
 
 ## Art. 19. — Copertura assicurativa
@@ -229,6 +492,31 @@ Gli importi liquidati dalle societa' assicuratrici in base alle polizze stipulat
 
 ## Art. 20. — Diritto allo studio
 
+1.
+                        
+                            
+                                I permessi di cui all'articolo 3 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, qualora le richieste superino il tre per cento delle unita' in servizio presso ciascun Ente all'inizio dell'anno, sono concessi nel seguente ordine, ferma rimanendo la percentuale suddetta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai dipendenti che frequentano corsi per il conseguimento di diplomi professionali relativi ai profili del ruolo sanitario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai dipendenti che frequentano l'ultimo anno del corso di studi e, se studenti universitari o post-universitari, abbiano superato gli esami degli anni precedenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai dipendenti che frequentano il penultimo anno di corso; successivamente, quelli che, nell'ordine, frequentano gli anni ad esso anteriori, escluso il primo, ferma restando per gli studenti universitari e post-universitari la condizione di cui alla lettera b).
+
 Nell'ambito di ciascuna delle fattispecie di cui al comma 1, la precedenza e' accordata, nell'ordine, ai dipendenti che frequentino corsi di studi della scuola media inferiore, della scuola media superiore, universitari o ((post-universitari)), sulla base di una adeguata ripartizione tra i dipendenti dei vari ruoli.
 
 A parita' di condizioni, i permessi sono accordati ai dipendenti che non abbiano mai usufruito dei permessi medesimi per lo stesso o per altro corso di studi e, in caso di ulteriore parita', secondo l'ordine decrescente di eta'.
@@ -241,21 +529,135 @@ Per quanto non previsto nel presente articolo si applicano le disposizioni di cu
 
 ## Art. 21. — Tutela dei dipendenti in particolari condizioni psico-fisiche
 
+1.
+                        
+                            
+                                In attuazione dell'articolo 18 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, allo scopo di favorire la riabilitazione ed il recupero di dipendenti nei confronti dei quali sia stata attestata, da una struttura sanitaria pubblica o da strutture associative convenzionate previste dalle leggi regionali vigenti, la condizione di soggetto ad effetti di tossicodipendenza, alcolismo cronico o grave debilitazione psico-fisica e che si impegnino a sottoporsi ad un progetto terapeutico di recupero e di riabilitazione predisposto dalle strutture medesime, sono stabilite le seguenti misure di sostegno secondo le modalita' di esecuzione del progetto:
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione dell'aspettativa per infermita' per l'intera durata del ricovero presso strutture specializzate; per il periodo eccedente la durata massima dell'aspettativa con retribuzione intera compete la retribuzione ridotta alla meta' per l'intera durata del ricovero;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessione di permessi giornalieri orari retribuiti nel limite massimo di due ore per la durata del progetto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riduzione dell'orario di lavoro, con l'applicazione degli istituti normativi e retributivi previsti per il rapporto a tempo parziale, limitatamente alla durata del progetto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzazione del dipendente in mansioni della stessa posizione funzionale diverse da quelle abituali quando tale misura sia individuata dalla struttura sanitaria pubblica come supporto della terapia in atto.
+
 I dipendenti, i cui parenti entro il secondo grado o, in mancanza, entro il terzo grado, si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato l'esecuzione del progetto di recupero e di riabilitazione, hanno titolo ad essere collocati in aspettativa per motivi di famiglia senza assegni per l'intera durata del progetto medesimo.
 
 L'Ente dispone l'accertamento della idoneita' al servizio dei dipendenti di cui al comma 1 qualora i dipendenti medesimi non si siano volontariamente sottoposti alle previste terapie e verifica periodicamente il rispetto dei progetti terapeutici di recupero agli effetti del mantenimento dei provvedimenti di cui alle lettere a), b), c) e d) del comma 1.
 
 ## Art. 22. — Tutela dei dipendenti portatori di handicap
 
+1.
+                        
+                            
+                                In attuazione dell'art. 18 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, allo scopo di favorire la riabilitazione ed il recupero di dipendenti nei confronti dei quali sia stata attestata, da una struttura sanitaria pubblica ((o da strutture associative)) convenzionate previste dalle leggi regionali vigenti, la condizione di portatore di handicap e che debbano sottoporsi ad un progetto terapeutico di riabilitazione, predisposto dalle strutture medesime, sono stabilite le seguenti misure di sostegno secondo le modalita' di esecuzione del progetto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione dell'aspettativa per infermita' per l'intera durata del ricovero presso strutture specializzate; per il periodo eccedente la durata massima dell'aspettativa con retribuzione intera compete la retribuzione ridotta alla meta' per l'intera durata del ricovero; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessione di permessi giornalieri orari retribuiti nel limite massimo di due ore per la durata del progetto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riduzione dell'orario di lavoro, con l'applicazione degli istituti normativi e retributivi previsti per il rapporto a tempo parziale, limitatamente alla durata del progetto; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzazione del dipendente in mansioni della stessa posizione funzionale diverse da quelle abituali quando tale misura sia individuata dalla struttura sanitaria pubblica come supporto della terapia in atto.
+
 I dipendenti, i cui parenti entro il secondo grado o, in mancanza, entro il terzo grado, si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato l'esecuzione del progetto di recupero e di riabilitazione, hanno titolo ad essere collocati in aspettativa per motivi di famiglia senza assegni per l'intera durata del progetto medesimo.
 
 L'Ente verifica periodicamente il rispetto dei progetti terapeutici di recupero agli effetti del mantenimento dei provvedimenti di cui alle lettere a), b), c) e d) del comma 1.
+
+4.
+                        
+                            
+                                L'attuazione della normativa sulla tutela dei lavoratori invalidi, di cui alla legge 30 marzo 1971, n. 118, al decreto del Presidente della Repubblica 27 aprile 1978, n. 384, al decreto del Presidente della Repubblica 1° febbraio 1986, n. 13, ed al decreto del Presidente della Repubblica 23 agosto 1988, n. 395, e' demandata alla negoziazione decentrata al fine di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    individuare e rimuovere gli ostacoli architettonici che limitano l'accesso e la libera utilizzazione degli ambienti di lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiedere l'intervento delle strutture ispettive competenti a certificare l'esistenza degli ostacoli e la natura degli interventi necessari per rimuoverli; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definire le modifiche strutturali e organizzative atte a garantire la piena integrazione produttiva dei lavoratori invalidi.
 
 ## Art. 23. — Pari opportunita'
 
 I Comitati per le pari opportunita', di cui all'articolo 40 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, ove non ancora costituiti, devono essere insediati entro sessanta giorni dalla data di entrata in vigore del presente regolamento. Gli Enti assicurano, mediante specifica disciplina, le condizioni e gli strumenti idonei per il loro funzionamento.
 
 I Comitati, presieduti da un rappresentante dell'Ente, sono costituiti da un componente designato da ognuna delle Organizzazioni Sindacali maggiormente rappresentative e da un pari numero di funzionari in rappresentanza degli Enti.
+
+3.
+                        
+                            
+                                In sede di negoziazione decentrata a livello di singolo Ente, anche tenendo conto delle proposte formulate dai Comitati per le pari opportunita', sono concordate le misure per favorire effettive pari opportunita' nelle condizioni di lavoro e di sviluppo professionale, che tengano conto anche della posizione delle lavoratrici in seno alla famiglia, con particolare riferimento a:
+ 
+                            
+                            
+                                a)
+                                
+                                    accesso e modalita' di svolgimento dei corsi di formazione, di aggiornamento e di specializzazione professionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    flessibilita' degli orari di lavoro in rapporto a quelli dei servizi sociali;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    perseguimento di un effettivo equilibrio di posizioni funzionali, a parita' di requisiti professionali, di cui si deve tener conto anche nell'attribuzione di incarichi o funzioni piu' qualificate, nell'ambito delle misure rivolte a superare, per la generalita' dei dipendenti, l'assegnazione in via permanente di mansioni estremamente parcellizzate e prive di ogni possibilita' di evoluzione professionale.
 
 Gli effetti delle iniziative assunte dagli Enti a norma del comma 3, formano oggetto di valutazione nella relazione annuale del Comitato di cui all'articolo 40 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270.
 
@@ -630,6 +1032,31 @@ Ad integrazione di quanto previsto dal decreto del Presidente della Repubblica 7
 
 ## Art. 49. — Indennita' della professione infermieristica
 
+1.
+                        
+                            
+                                In riferimento all'articolo 8, comma 6, agli operatori professionali di I categoria collaboratori - infermieri professionali, vigilatrici di infanzia, ostetriche, assistenti sanitari - compete una indennita' annua lorda, fissa e ricorrente di L. 2.400.000. Tale indennita' e' maggiorata nel modo seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    al 20 anno di effettivo servizio di L. 1.200.000;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al 25 anno di effettivo servizio di ulteriori L. 1.200.000;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al 30 anno di effettivo servizio di ulteriori L. 1.200.000.
+
 Agli operatori professionali di II categoria - infermieri generici - l'indennita' di cui al comma 1 compete nella misura del 10%.
 
 Al personale infermieristico di posizione funzionale corrispondente al V,VI e VII livello retributivo dei servizi di diagnosi e cura, operante su tre turni, compete una indennita' giornaliera per le giornate di effettivo servizio prestato pari a L. 6.000.
@@ -708,6 +1135,25 @@ L'accertamento delle condizioni ambientali che caratterizzano le zone controllat
 
 L'individuazione del personale non compreso nell'articolo 1, comma 2, della legge 27 ottobre 1988, n. 460, e' effettuato dalla commissione gia' prevista dall'articolo 58, comma 4, del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, cosi' modificata: la commissione e' presieduta dal Coordinatore Sanitario e composta dal Responsabile del Servizio radiologico, dal Responsabile del servizio di igiene, prevenzione e sicurezza nei luoghi di lavoro, da un componente designato dalle Organizzazioni sindacali maggiormente rappresentative, nonche' da un esperto qualificato nominato dal Comitato di gestione od Organo corrispondente secondo i rispettivi ordinamenti. La commissione deve tenere conto dei dipendenti addetti ai servizi di radiologia medica, radiodiagnostica, radioterapia e medicina nucleare non compresi nell'articolo 1, comma 2, della legge 27 ottobre 1988, n. 460, nonche' del personale che presta la propria attivita' nelle sale operatorie.
 
+5.
+                        
+                            
+                                La continuita' o la occasionalita' della esposizione al rischio radiologico e' valutata tenendo conto anche dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    frequenza della presenza in zona controllata e tempo di
+ effettiva esposizione, al fine di accertare il grado di assorbimento;
+                                
+                            
+                            
+                                b)
+                                
+                                    livello del conseguente rischio stabilito dall'esperto
+qualificato nell'ambito della commissione di cui al comma 4, in relazione alla concreta possibilita' di superamento delle dosi massime ammissibili di esposizione per la categoria di operatori in esame, compatibilmente con un corretto utilizzo delle apparecchiature e dei dispositivi di radioprotezione.
+
 Al personale di cui al comma 4 che, a seguito della nuova verifica effettuata dalla commissione ivi prevista, risulti esposto al rischio da radiazioni anche in modo discontinuo, temporaneo o a rotazione, ai sensi dell'articolo 9, lettera h) gruppo 1, del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185, in quanto adibito normalmente o prevalentemente a funzioni diverse, e' corrisposta l'indennita' nella misura unica mensile lorda di L. 50.000.
 
 L'indennita' di rischio da radiazioni deve essere pagata in concomitanza con lo stipendio.
@@ -748,7 +1194,71 @@ Il meccanismo di incentivazione, per sua natura, a regime deve essere organizzat
 
 Dalla data del 1 gennaio 1990 per l'arco di vigenza del presente regolamento si ridefinisce la disciplina vigente quale fase di evoluzione verso il futuro sistema per obiettivi, con gli opportuni e specifici adattamenti riferiti alle due aree negoziali di cui all'articolo 6 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68.
 
+4.
+                        
+                            
+                                L'attivazione dell'istituto e' obbligatoria e subordinata al conseguimento dei seguenti obiettivi validi su tutto il territorio nazionale, nei servizi di prevenzione, diagnosi, cura e riabilitazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    deve mantenersi o migliorarsi il rapporto tra prestazioni rese in normale orario di lavoro e prestazioni rese in plus-orario, in relazione alla consistenza dei posti di organico coperti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la gestione dell'istituto deve tendere a migliorare alcuni indici di produttivita' complessivi:
+ miglioramento degli indici relativi a: durata media della degenza, indice di occupazione di posti letto, indice di turn-over del posto letto;
+ riduzione dei tempi di attesa intra ed extra ospedaliera;
+ economie realizzate dall'indice medio regionale per la farmaceutica esterna ed interna;
+ potenziamento delle attivita' di prevenzione negli ambienti di vita e di lavoro;
+ miglioramento di altri eventuali indici di produttivita', oggettivamente rilevabili e quantificabili, determinati a livello regionale;
+ pieno utilizzo e valorizzazione dei servizi pubblici in modo da garantire maggiori spazi di prestazione di servizi all'utenza ed un minore ricorso alle prestazioni di specialistica convenzionata esterna;
+ potenziamento degli interventi di assistenza sociale nelle aree del disagio sociale, dell'emarginazione e nella attivita' di recupero delle tossicodipendenze;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    deve concretizzarsi una razionale distribuzione territoriale ed oraria delle prestazioni utilizzando le attivita' rese in plus- orario, oltre che nella sede di assegnazione, anche nei presidi territoriali (distretti, centri di prenotazione, consultori) e nei presidi multizonali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    deve attivarsi un modello di assistenza infermieristica che, nel quadro di valorizzazione della specifica professionalita', consenta, anche attraverso l'adozione di una cartella di assistenza infermieristica, un progressivo miglioramento delle prestazioni al cittadino;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    devono incentivarsi le prestazioni ed i trattamenti deospedalizzanti e le attivita' di ospedale diurno.
+
 Tali obiettivi costituiscono vincoli per l'accordo decentrato a livello regionale, che deve tracciare le linee generali dei programmi, criteri di attuazione degli stessi e le verifiche. Ogni semestre devono essere verificati con le Organizzazioni Sindacali maggiormente rappresentative gli aspetti tendenziali dell'applicazione dell'istituto in ordine al grado di conseguimento degli obiettivi che costituiscono la condizione per l'attribuzione dei compensi.
+
+6.
+                        
+                            
+                                Il processo e' cosi' articolato:
+ 
+                            
+                            
+                                a)
+                                
+                                    incentivazione ai sensi dell'articolo 66 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    produttivita' "per obiettivi".
 
 In riferimento ai commi 3 e 4, con gli accordi quadro regionali possono essere sperimentate forme di integrazione fra le due tipologie dell'istituto.
 
@@ -809,6 +1319,24 @@ Le competenze spettanti al personale, articolate per settori, a secondo della di
  C) Personale tecnico-sanitario, personale infermieristico, personale della riabilitazione e personale di prevenzione e vigilanza igienica di cui alle tabelle H-I-L-M-N dell'allegato 1 del decreto del Presidente della Repubblica n. 761/1979, riordinate dall'allegato 1 del presente regolamento.
  D) Restante personale.
 
+2.
+                        
+                            
+                                Le competenze attribuite al personale della categoria B) (personale laureato non medico) sono suddivise come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'equipe che ha reso la prestazione il 45% da ripartirsi ai singoli componenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al fondo comune il 55%.
+
 Il fondo comune e' suddiviso in quote orarie. L'accordo quadro regionale e i conseguenti accordi locali stabiliscono i criteri di utilizzo del fondo comune la cui quota parte, non inferiore al 25%, deve essere riservata al raggiungimento degli obiettivi della programmazione sanitaria nazionale e regionale, per particolari funzioni o aree di attivita' connesse alla operativita' complessiva delle strutture sanitarie. Per le restanti quote di fondo comune gli accordi decentrati stabiliscono modalita' di utilizzo che consentano meccanismi perequativi all'interno del personale per il perseguimento degli obiettivi locali e la realizzazione dei piani di lavoro programmati.
 
 La partecipazione alla ripartizione del fondo comune comporta la prestazione del plus orario con le modalita' appresso indicate e articolate sulla base di accordi locali.
@@ -826,6 +1354,32 @@ Gli accordi quadro regionali possono prevedere, secondo quanto previsto nell'art
 ## Art. 61. — Plus orario e sua determinazione
 
 L'attivita' connessa con l'istituto delle incentivazioni di cui la comma 6, punto I, dell'articolo 66, del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, va svolta in plus orario.
+
+2.
+                        
+                            
+                                I tetti massimi di plus orario sono fissati, nei limiti del fondo di cui all'articolo 58, come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    7 ore settimanali per il personale laureato della categoria B);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    3 ore settimanali per il personale tecnico sanitario di
+riabilitazione, di vigilanza e di ispezione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    2 ore settimanali per il personale infermieristico.
 
 Per il personale laureato dirigente dei ruoli amministrativi, professionali e tecnici e, distintamente, per il restante personale amministrativo e per gli assistenti sociali, per i quali sono previsti limiti massimi individuali di plus orario settimanale di 4 ore e di 2 ore, gli accordi quadro regionali definiscono, in relazione alle differenti leggi regionali sull'organizzazione dei servizi, modalita' e ambiti di applicazione dell'istituto.
 
@@ -882,6 +1436,67 @@ Le quote non attribuite al personale della categoria C) vanno ad incrementare il
  di cui al comma 6, lettera b), dell'art. 57
 
 I fini, le modalita' operative e la valuzione della produttivita' dell'istituto di cui al comma 6, lettera b), dell'articolo 57 sono quelli indicati negli articoli 66 e 73 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270.
+
+2.
+                        
+                            
+                                La valutazione delle produttivita' dell'istituto di cui al comma 1 viene definita su specifici programmi in sede regionale, attuati e verificati nelle singole Unita' Sanitarie Locali sulla base dei seguenti indici medi di produttivita' oggettivamente rilevati a livello regionale:
+ 
+                            
+                            
+                                a)
+                                
+                                    contenimento della spesa corrente rispetto a quella storica riferita all'anno precedente a quello preso in considerazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    durata media della degenza, indice di occupazione di posti letto, indice di turn-over del posto letto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riduzione dei tempi di attesa intra ed extra ospedaliera;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    economie realizzate rispetto all'indice medio regionale per la farmaceutica esterna ed interna;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivazione e potenziamento della rete distrettuale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    progressiva rilevazione degli standards di intervento in materia di prevenzione negli ambienti di vita e del lavoro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    attivazione e svolgimento di programmi di educazione sanitaria;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    altri eventuali indici di produttivita', oggettivamente
+rilevabili e quantificabili, determinati a livello regionale o di Unita' Sanitaria Locale.
 
 L'accordo quadro regionale provvede a determinare le principali aree nell'ambito delle quali le singole Unita' Sanitarie Locali devono realizzare gli specifici progetto obiettivo. Lo stesso accordo deve pure prevedere i criteri metodologici attraverso i quali perseguire i processi attuativi dei singoli interventi che devono tendere al conseguimento dei risultati oggettivamente rilevabili e misurabili. Detto accordo deve, in particolare, determinare le modalita' per correlare la misura dei compensi ai risultati conseguiti rispetto agli obiettivi prefissati, escludendo in ogni caso la possibilita' di erogazione generalizzata collegata esclusivamente alla presenza in servizio congiunta o meno al parametro retributivo.
 
@@ -958,9 +1573,196 @@ Eventuali condizioni piu' favorevoli definite in sede di accordi decentrati sono
 
 In ogni Regione e' costituita la Commissione regionale per la verifica e revisione della qualita' dei servizi e delle prestazioni sanitarie.
 
+2.
+                        
+                            
+                                La Commissione ha i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    valutare i servizi sanitari in termini di:
+ adeguatezza delle strutture, attrezzature e personale;
+ correttezza delle procedure e delle prestazioni;
+ risultati raggiunti rispetto ai bisogni dei cittadini, ai programmi deliberati e in comparazione con gli standard medi nazionali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere la diffusione delle metodologie per il miglioramento qualitativo delle prestazioni, anche attraverso l'avvio di iniziative specifiche, regionali o locali, di formazione di personale esperto in valutazione e promozione delle qualita' dei servizi e della assistenza sanitaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    convalidare e verificare progetti e programmi di valutazione predisposti a livello di Unita' Sanitaria Locale dall'apposita commissione di cui al comma 7.
+
 La commissione e' nominata con provvedimento del Presidente della Giunta entro sessanta giorni dalla data di entrata in vigore del presente regolamento ed e' presieduta dal Presidente dell'Ordine dei medici della provincia capoluogo di regione.
 
+4.
+                        
+                            
+                                La Commissione e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    i Presidenti degli Ordini e dei Collegi provinciali del capoluogo regionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due funzionari regionali scelti nei settori epidemiologico- informativo, dell'assistenza sanitaria, della programmazione sanitaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sette esperti qualificati nei settori della valutazione della qualita' dei servizi e delle prestazioni sanitarie; della programmazione ed organizzazione dei servizi; della epidemiologia e statistica; della formazione professionale; della assistenza infermieristica (nursing), assistenza farmaceutica e diagnostica strumentale, scelti dalla regione fra i dipendenti del Servizio Sanitario Nazionale o di strutture universitarie e tra i componenti di societa' scientifiche;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cinque rappresentanti nominati annualmente e congiuntamente dalle Organizzazioni Sindacali maggiormente rappresentative, in modo da garantire la presenza dei diversi profili professionali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un funzionario regionale della carriera direttiva amministrativa, con funzioni di segretario.
+
 La commissione regionale invia un rapporto semestrale al Comitato nazionale di cui al comma 11 sui progetti e sui programmi avviati e sui risultati raggiunti.
+
+6.
+                        
+                            
+                                Per la vigenza del presente regolamento, il coordinatore sanitario della Unita' Sanitaria Locale, tenuto conto degli indirizzi regionali e sentito l'Ufficio di Direzione, individua almeno tre tra i seguenti progetti di valutazione della qualita' dei servizi e delle prestazioni, dei quali almeno uno di valenza ospedaliera e uno di valenza territoriale:
+ 
+                            
+                            
+                                a)
+                                
+                                    revisione delle procedure di accettazione ospedaliera;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    consumo di farmaci per giornata di degenza e loro valutazione quanti-qualitativa anche in funzione del rapporto costo-beneficio;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tempi di risposta diagnostica intraospedaliera, in rapporto alle attivita' in plus-orario e alla durata media delle degenze;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzo delle camere operatorie in rapporto alla durata delle esigenze nelle unita' operative a valenza chirurgica e al rapporto tra ricoverati e operati nelle stesse unita';
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prevenzione e terapia delle lesioni da decubito;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adozione e valutazione di nuovi modelli di assistenza infermieristica per obiettivi e miglioramento degli aspetti di carattere alberghiero;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    riscontri anatomo-patologi sui reperti chirurgici e riscontri autoptici sui decessi;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    valutazione dei servizi di pronta disponibilita' nei settori sanitario, veterinario e igienistico-ambientale, in rapporto ai bisogni prevedibili e alle attivita' effettivamente svolte;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    valutazione dei servizi e dei programmi adottati in attuazione del Piano Sanitario Nazionale e regionale;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    qualita' della documentazione clinica e adozione della cartella infermieristica. Ulteriori programmi possono essere aggiunti in sede locale con riferimento ad aspetti critici della situazione assistenziale;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    valutazione di progetti e di metodologie per la prevenzione delle infezioni ospedaliere.
+
+7.
+                        
+                            
+                                Sulla proposta del coordinatore sanitario deliberano, entro il termine indicato al comma 3, gli organi della unita' sanitaria lo- cale, i quali procedono, contestualmente, alla costituzione della commissione professionale per la verifica e la revisione della qualita' dei servizi e delle prestazioni della Unita' Sanitaria Lo- cale, la cui composizione, in relazione ai programmi deliberati, e' la seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    il Presidente dell'ordine o collegio interessato, che la presiede;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i responsabili dei servizi interessati;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tre esperti nei campi oggetto dei programmi;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    tre operatori dei servizi interessati;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il direttore sanitario e il coordinatore sanitario, nonche' il coordinatore amministrativo per i programmi a valenza organizzativo- gestionale.
 
 In relazione alle peculiarita' della verifica e revisione della qualita' nei presidi ospedalieri, la commissione di Unita' Sanitaria Locale ha una sua proiezione stabile all'interno della direzione sanitaria del presidio ospedaliero di maggiore rilevanza nella Unita' Sanitaria Locale, la quale opera come nucleo operativo ospedaliero per la promozione e la valutazione della qualita' tecnico-scientifica ed umana dei servizi e delle prestazioni ospedaliere. Il nucleo operativo e' composto dagli operatori che intendono avviare o hanno in atto programmi di valutazione della qualita', dal direttore sanitario, che ne fa parte di diritto e dal coordinatore sanitario ed opera nell'ambito dei programmi a valenza ospedaliera adottati ai sensi del comma 7.
 
@@ -969,6 +1771,87 @@ La commissione della Unita' Sanitaria Locale invia semestralmente alla commissio
 La mancata osservanza dei termini perentori indicati per la costituzione delle commissioni regionali e di Unita' Sanitaria Locale determina l'azione sostitutiva a norma della leggi vigenti. Le commissioni operano validamente anche se in composizione ristretta per carenza di designazione di alcuni membri.
 
 A livello nazionale il coordinamento delle attivita' di verifica e revisione della qualita' dei servizi e delle prestazioni e' affidato ad un comitato nazionale per la valutazione della qualita' tecnico-scientifica ed umana dei servizi e degli interventi sanitari e per l'accreditamento delle istituzioni sanitarie.
+
+12.
+                        
+                            
+                                Il comitato, istituito con decreto del Ministro della Sanita', e' presieduto dal Presidente della Federazione degli Ordini dei medici ed e' composto da:
+ 
+                            
+                            
+                                a)
+                                
+                                    i rappresentanti delle federazioni degli ordini e dei collegi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esperti nelle seguenti aree: diagnosi, cura, riabilitazione; prevenzione, sanita' pubblica, farmaceutica e organizzazione dei servizi; epidemiologia, valutazione della qualita' e sistemi informativi; amministrativo-gestionale; essi sono scelti fra i dipendenti del Servizio Sanitario Nazionale, delle universita', di Enti nazionali di ricerca scientifica e le associazioni scientifiche e culturali mediche, e di altre professionalita' sanitarie, fino ad un massimo di trenta persone;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il direttore dell'Istituto superiore di sanita' o suo delegato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sei rappresentanti nominati annualmente e congiuntamente dalle Organizzazioni Sindacali maggiormente rappresentative, garantendo la presenza dei diversi profili professionali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il segretario generale del Consiglio sanitario nazionale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sei rappresentanti delle direzioni generali del Ministero della Sanita';
+
+                                
+                            
+                            
+                                g)
+                                
+                                    un rappresentante del Ministero del Tesoro;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un rappresentante del Dipartimento della funzione pubblica;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    sei rappresentanti delle Regioni;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    tre rappresentanti dell'ANCI e dell'UNCEM;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    il dirigente generale del Servizio centrale della programmazione sanitaria come responsabile del sistema informativo di governo, con funzioni di coordinamento della segreteria del Comitato.
 
 Il Comitato puo' essere articolato in sezioni corrispondenti ad aree distinte di intervento e di valutazione.
 
@@ -994,11 +1877,121 @@ Nell'intento di perseguire l'ottimizzazione dell'erogazione dei servizi, le part
 
 A tale scopo, gli Enti approntano adeguati strumenti per la tutela degli interessi degli utenti e per una piu' agevole utilizzazione dei servizi anche attraverso l'individuazione di appositi Uffici di Pubbliche Relazioni, se necessario decentrati, con il compito di fornire agli utenti ogni utile informazione, anche documentale, sui servizi erogati dall'Ente, sulla loro dislocazione nel territorio, sugli orari di apertura, sul tipo di prestazioni nonche' di ricevere eventuali reclami e suggerimenti degli utenti al fine del miglioramento dei servizi.
 
+3.
+                        
+                            
+                                In tale quadro gli Enti predispongono, sentite le Organizzazioni Sindacali mediche maggiormente rappresentative, appositi progetti - in particolare - per assicurare condizioni di rispetto, chiarezza e di dialogo nel rapporto con gli utenti, vivi compresa la riconoscibilita' degli addetti ai servizi attraverso il cartellino di riconoscimento, secondo le vigenti disposizioni. I suddetti interventi sono diretti ad assicurare, secondo la natura degli adempimenti istituzionali:
+ 
+                            
+                            
+                                a)
+                                
+                                    una formazione professionale del personale volta al rispetto della dignita' umana del malato e dell'utente, da attuare attraverso piani da definire in sede di negoziazione decentrata, specificamente rivolta ad assicurare completezza e chiarezza delle informazioni fornite, anche con l'ausilio di apparecchiature elettroniche.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la semplificazione e l'unificazione della modulistica, almeno a livello di Ente, e la riduzione della documentazione a corredo delle domande di presta-zioni, applicando le norme sull'autocertifica-zione di cui alla legge 4 gennaio 1968, n. 15, e le istruzioni contenute nella circolare del Ministro per la funzione pubblica del 20 dicembre 1988, pubblicata nella Gazzetta Ufficiale n. 7 del 10 gennaio 1989;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ampliamento degli orari di apertura delle strutture, per garantire, la esigenza degli utenti di accedere alle strutture stesse;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il collegamento tra Amministrazioni nonche' l'unificazione di adempimenti che valgano ad agevolare il rapporto con gli utenti, anche attraverso l'istituzione di servizi polivalenti;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il miglioramento della logistica relativamente ai locali adibiti al ricevimento degli utenti con l'obiettivo di ridurre al minimo l'attesa ed i disagi ad essa connessi, anche abbattendo le barriere architettoniche ed adottando idonee soluzioni atte a facilitare l'accesso all'informazione ed ai pubblici servizi delle persone non autonome portatrici di handicap ed anziane.
+
 Entro un anno dall'entrata in vigore del presente regolamento e, in seguito, con cadenza annuale, gli Enti promuovono apposite conferenze unitamente alle Organizzazioni Sindacali mediche maggiormente rappresentative su base nazionale, sentite le associazioni diffuse su larga scala e maggiormente rappresentative degli utenti, per esaminare l'andamento dei rapporti con l'utenza ed in particolare i risultati ottenuti e gli impedimenti riscontrati nell'ottimizzazione del processo di erogazione dei servizi, allo scopo di consentire la promozione di adeguate iniziative per la rimozione dei predetti ostacoli e per il miglioramento delle relazioni con l'utenza.
 
 ## - Parte seconda AREA MEDICA Titolo primo DISPOSIZIONI GENERALI Capo II RAPPORTI CON L'UTENZA Sezione II Norme di garanzia del funzionamento dei servizi pubblici essenziali
 
 ## Art. 73. — Servizi pubblici essenziali
+
+1.
+                        
+                            
+                                Ai sensi dell'articolo 10 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, i servizi da considerare essenziali, nel comparto del personale del Servizio Sanitario Nazionale - Area negoziale della professionalita' medica - sono i seguenti;
+ 
+                            
+                            
+                                a)
+                                
+                                    assistenza sanitaria;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    igiene pubblica;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    veterinaria;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    protezione civile.
+
+2.
+                        
+                            
+                                Nell'ambito dei servizi essenziali di cui al comma 1 devono garantirsi, con le modalita' di cui all'articolo 74, la continuita' delle seguenti prestazioni indispensabili per assicurare il rispetto dei valori e dei diritti costituzionalmente tutelati:
+ 
+                            
+                            
+                                a)
+                                
+                                    accettazione per i ricoveri d'urgenza; pronto soccorso medico e chirurgico nonche' servizi specialistici e diagnostici necessari a garantire le urgenze; prestazioni di diagnosi e cura non differibili a giudizio medico nelle divisioni e servizi ospedalieri nonche' nei servizi territoriali psichiatrici e per le tossicodipendenze; anestesia per le sole urgenze;rianimazione e terapia intensiva;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    profilassi urgenti in caso di malattie infettive, delle tossinfezioni alimentari e degli interventi urgenti per gli inquinamenti ambientali; interventi urgenti in caso di infortuni sul lavoro;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    interventi urgenti in caso di malattie infettive e di zoonosi;Controllo degli animali morsicatori ai fini della profilassi antirabbica;ispezione veterinaria degli animali morti o in pericolo di vita;approvvigionamento carneo agli ospedali, case di cura ed istituti convenzionati nonche' residenze protette ed assistite; servizi diagnostici necessari per garantire le urgenze;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    referti, denunce, certificazioni ed autorizzazioni sanitarie urgenti; prestazioni di sanita' pubblica per gli aspetti urgenti comprese quelle medico-legali; atti ed attivita' non differibili previsti per gli adempimenti imposti dalla legge a tutela degli interessi pubblici preminenti e provvedimenti contingibili ed urgenti di competenza dell'autorita' sanitaria locale;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    prestazioni urgenti svolte dal Servizio Sanitario Nazionale per conto della protezione civile.
 
 ## Art. 74. — Prestazioni indispensabili e contingenti di personale
  medico per il funzionamento dei servizi pubblici essenziali
@@ -1085,6 +2078,31 @@ Nella determinazione dei limiti individuali si tiene particolare conto del richi
 
 Le ulteriori prestazioni di lavoro straordinario svolte per esigenze sopravvenute oltre la determinazione dei limiti individuati nei commi 4 e 5 sono compensate con riposi sostitutivi da fruire, compatibilmente con le esigenze di servizio, nel mese successivo.
 
+7.
+                        
+                            
+                                La misura oraria dei compensi per lavoro straordinario e' determinata maggiorando la misura oraria di lavoro ordinario calcolata convenzionalmente, dividendo per 156 i seguenti elementi retributivi:
+ 
+                            
+                            
+                                a)
+                                
+                                    stipendio tabellare base iniziale di livello in godimento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita' integrativa speciale (I.I.S.) in godimento nel mese di dicembre dell'anno precedente;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    rateo di tredicesima mensilita' delle due precedenti voci.
+
 Gli stipendi tabellari iniziali previsti dall'articolo 108, comma 1, hanno effetto sulla determinazione della misura oraria dei compensi per lavoro straordinario a decorrere dal primo giorno del mese successivo all'entrata in vigore del presente regolamento.
 
 La maggiorazione di cui al comma 7 e' pari al 15% per lavoro straordinario diurno, al 30% per lavoro straordinario prestato nei giorni festivi o in orario notturno (dalle ore 22 alle ore 6 del giorno successivo) ed al 50% per quello prestato in orario notturno festivo.
@@ -1098,6 +2116,38 @@ Ai medici a tempo definito compete per il lavoro straordinario reso oltre l'orar
 L'istituto della mobilita', all'interno dell'Ente, concerne l'utilizzazione sia temporanea che definitiva del personale in presidio o servizio ubicato in localita' diversa da quella della sede di assegnazione.
 
 Rientra nel potere organizzatorio dell'Ente l'utilizzazione del personale nell'ambito di presidi, servizi, uffici situati a non oltre 10 Km dalla localita' sede di assegnazione. Detta utilizzazione, che non e' soggetta alle procedure previste dalle lettere A) e B) del comma 3 per la mobilita' d'urgenza ed ordinaria, e' disposta sentite le Organizzazioni sindacali maggiormente rappresentative quando avviene al di fuori dal presidio, servizio o ufficio di assegnazione.
+
+3.
+                        
+                            
+                                La mobilita' interna si distingue in mobilita' di urgenza e ordinaria e viene attuata secondo le seguenti procedure:
+ A) Mobilita' d'urgenza:
+ 1) nei casi in cui nell'ambito dell'Ente sia necessario soddisfare le esigenze funzionali dei servizi a seguito di eventi contingenti e non prevedibili, l'utilizzazione provvisoria dei dipendenti in servizi, presidi e uffici diversi da quello di assegnazione e' effettuata limitatamente al perdurare delle situazioni predette;
+ 2) tale utilizzazione e' disposta, con atto motivato, dall'ufficio di Direzione dell'Unita' Sanitaria Locale o dall'organo corrispondente secondo i rispettivi ordinamenti e non puo' superare il limite massimo di un mese nell'anno solare;
+ 3) la mobilita' di urgenza presuppone l'utilizzo di tutto il personale di uguale ruolo, posizione funzionale, profilo professionale e disciplina, ferma restando la necessita' di assicurare, in via prioritaria, la funzionalita' dell'unita' operativa di provenienza;
+ 4) al personale interessato spetta l'indennita' di missione prevista dalla normativa vigente, se ed in quanto dovuta;
+ B) Mobilita' ordinaria nell'ambito dell'Ente:
+ gli enti, prima di procedere alla copertura dei posti vacanti secondo le vigenti disposizioni, a domanda dei medici interessati, possono attivare, sentite le Organizzazioni Sindacali maggiormente rappresentative, misure di mobilita' ordinaria interna nell'osservanza delle modalita' e nel rispetto dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    adeguata e tempestiva informazione sulla disponibilita' dei posti da ricoprire mediante mobilita' del personale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    valutazione positiva ed, in caso di piu' domande, comparata del curriculum di carriera e professionale in rapporto al posto da ricoprire, effettuata dall'Ufficio di direzione - integrato dal Responsabile di Servizio cui il posto si riferisce, ove non facente gia' parte dell'Ufficio di direzione stesso - per i medici di posizione funzionale corrispondente al IX e X livello retributivo; possono, altresi', essere prese in considerazione documentate situazioni personali (ricongiunzione del nucleo familiare, numero dei familiari) e sociali nonche' di residenza anagrafica alle quali e' attribuito un massimo di punti 15 sulla base dei criteri individuati in sede di contrattazione decentrata a livello locale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di parita' di punteggio ha la precedenza il dipendente medico con maggiore anzianita' complessiva di servizio.
 
 Gli Enti per motivate esigenze di servizio possono disporre d'ufficio misure di mobilita' interna del personale sulla base di criteri da definirsi negli accordi decentrati a livello locale.
 
@@ -1122,9 +2172,63 @@ conseguente a vincoli legislativi ed indirizzi programmatici di piano in materia
  3) i relativi provvedimenti sono adottati dal Comitato di gestione;
  4) al personale assegnato con le procedure di cui alla presente lettera, oltre i benefici previsti in materia per gli impiegati civili dello Stato, compete anche una indennita' di incentivazione alla mobilita' pari a due mensilita' dello stipendio in godimento alla data di assegnazione o, se piu' favorevole, una indennita' massima pari a L. 3.500.000. Tale indennita' e' corrisposta a cura dell'ente ricevente ed e' rimborsata dallo Stato sino alla concorrenza massima di L. 3.500.000.
 
+3.
+                        
+                            
+                                Mobilita' tra gli enti del comparto:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' consentito il trasferimento di personale tra tutti gli enti destinatari del presente regolamento, a domanda motivata e documentata del dipendente interessato, previa intesa tra gli enti stessi ed in base a criteri concordati con le Organizzazioni Sindacali maggiormente rappresentative, a condizione dell'esistenza nell'ente di destinazione di posto vacante di corrispondente posizione funzionale, profilo professionale e disciplina in base alle tabelle di cui all'allegato 2 al decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, ed allegato 3 - area medica - del presente regolamento, nonche' della sussistenza negli ordinamenti degli Enti del Comparto diversi dalle Unita' Sanitarie Locali di norme dirette a garantire condizioni di reciprocita' nell'applicazione della mobilita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora il trasferimento ad uno degli enti del comparto riguardi il personale delle Unita' Sanitarie Locali e', altresi', necessario il nulla osta della regione interessata.
+
 ## Art. 83. — Mobilita' tra Enti in ambito interregionale
 
 La mobilita' tra enti in ambito interregionale comprende le seguenti fattispecie.
+
+2.
+                        
+                            
+                                Mobilita' tra Unita' sanitarie locali:
+ 
+                            
+                            
+                                a)
+                                
+                                    la mobilita' tra unita' sanitarie locali di diversa regione avviene esclusivamente a domanda del dipendente interessato con le procedure e alle condizioni indicate nella lettera A) del comma 2 dell'articolo 82, alle quali nel punto 2) e' aggiunto anche l'obbligo di approvazione delle Regioni interessate;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per comprovate esigenze di servizio la mobilita' di cui alla lettera a) puo' essere attuata anche attraverso l'istituto del comando con le procedure e modalita' di cui all'articolo 44 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761. Il comando non puo' avere durata superiore a dodici mesi eventualmente rinnovabili.
+
+3.
+                        
+                            
+                                Mobilita' tra Enti del comparto:
+ 
+                            
+                            
+                                a)
+                                
+                                    e' consentito il trasferimento di personale tra tutti gli Enti destinatari del presente regolamento, a domanda motivata e documentata del dipendente interessato, previa intesa tra gli enti stessi e in base a criteri concordati con le Organizzazioni Sindacali mediche maggiormente rappresentative, a condizione dell'esistenza nell'Ente di destinazione di posto vacante di corrispondente posizione funzionale, profilo professionale e disciplina in base alle tabelle di cui all'allegato 2 al decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, ed allegato 3 - area medica - del presente regolamento, nonche' della sussistenza negli ordinamenti degli Enti del Comparto diversi dalle Unita' Sanitarie Locali di norme dirette a garantire condizioni di reciprocita' nell'applicazione della mobilita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora il trasferimento ad uno degli Enti del comparto riguardi il personale delle Unita' Sanitarie Locali e', altresi', necessario il nulla osta della regione interessata.
 
 ## Art. 84. — Mobilita' intercompartimentale
 
@@ -1162,6 +2266,39 @@ Il posto del medico dipendente temporaneamente inidoneo e' considerato indisponi
 
 ## Art. 87. — Trattamento di missione per particolari categorie
 
+1.
+                        
+                            
+                                Le particolari categorie di dipendenti di cui all'articolo 5, comma 7, del decreto del Presidente della Repubblica 23 agosto 1988, n.395, sono individuate nel personale medico inviato in missione fuori della ordinaria sede di servizio per:
+ 
+                            
+                            
+                                a)
+                                
+                                    attivita' di protezione civile nelle situazioni di prima urgenza;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    attivita' che comportino imbarchi brevi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    interventi svolti in zone particolarmente disagiate, quali lagune, fiumi, boschi e selve;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assistenza a pazienti ed infermi durante il trasporto di emergenza od in particolari condizioni di sicurezza.
+ 2 Per il personale indicato nel comma 1, le particolarissime condizioni di cui al comma 7 dell'articolo 5 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, sono individuate nella impossibilita' della fruizione del pasto anche per mancanza di strutture e servizi di ristorazione. In tale circostanza e' corrisposto un compenso forfettario giornaliero di lire ventimila nette in luogo dell'importo corrispondente al costo del pasto.
+
 ## Art. 88. — Copertura assicurativa
 
 In attuazione dell'articolo 6 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, gli Enti sono tenuti a stipulare apposita polizza assicurativa in favore dei medici dipendenti autorizzati a servirsi, in occasione di missioni o per adempimenti di servizio fuori dall'ufficio, del proprio mezzo di trasporto, limitatamente al tempo strettamente necessario per l'esecuzione delle prestazioni di servizio.
@@ -1176,21 +2313,128 @@ Gli importi liquidati dalle societa' assicuratrici in base alle polizze stipulat
 
 ## Art. 89. — Tutela dei dipendenti in particolari condizioni psico-fisiche
 
+1.
+                        
+                            
+                                In attuazione dell'articolo 18 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, allo scopo di favorire la riabilitazione ed il recupero di dipendenti nei confronti dei quali sia stata attestata, da una struttura sanitaria pubblica o da strutture associative convenzionate previste dalle leggi regionali vigenti, la condizione di soggetto ad effetti di tossicodipendenza, alcolismo cronico o grave debilitazione psico-fisica e che si impegnino a sottoporsi ad un progetto terapeutico di recupero e di riabilitazione predisposto dalle strutture medesime, sono stabilite le seguenti misure di sostegno secondo le modalita' di esecuzione del progetto:
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione dell'aspettativa per infermita' per l'intera durata del ricovero presso strutture specializzate; per il periodo eccedente la durata massima dell'aspettativa con retribuzione intera compete la retribuzione ridotta alla meta' per l'intera durata del ricovero;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessione di permessi giornalieri orari retribuiti nel limite massimo di due ore per la durata del progetto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riduzione dell'orario di lavoro, con l'applicazione degli istituti normativi e retributivi previsti per il rapporto a tempo parziale, limitatamente alla durata del progetto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzazione del dipendente in mansioni della stessa posizione funzionale diverse da quelle abituali quando tale misura sia individuata dalla struttura sanitaria pubblica come supporto della terapia in atto.
+
 I dipendenti, i cui parenti entro il secondo grado o, in mancanza, entro il terzo grado, si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato l'esecuzione del progetto di recupero e di riabilitazione, hanno titolo ad essere collocati in aspettativa per motivi di famiglia senza assegni per l'intera durata del progetto medesimo.
 
 L'ente dispone l'accertamento della idoneita' al servizio dei dipendenti di cui al comma 1 qualora i dipendenti medesimi non si siano volontariamente sottoposti alle previste terapie e verifica periodicamente il rispetto dei progetti terapeutici di recupero agli effetti del mantenimento dei provvedimenti di cui alle lettere a), b), c) e d) del comma 1.
 
 ## Art. 90. — Tutela dei dipendenti portatori di handicap
 
+1.
+                        
+                            
+                                In attuazione dell'articolo 18 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, allo scopo di favorire la riabilitazione ed il recupero di dipendenti nei confronti dei quali sia stata attestata, da una struttura sanitaria pubblica o da strutture associative convenzionate previste dalle leggi regionali vigenti, la condizione di portatore di handicap e che debbano sottoporsi ad un progetto terapeutico di riabilitazione predisposto dalle strutture medesime, sono stabilite le seguenti misure di sostegno secondo le modalita' di esecuzione del progetto:
+ 
+                            
+                            
+                                a)
+                                
+                                    concessione dell'aspettativa per infermita' per l'intera durata del ricovero presso strutture specializzate; per il periodo eccedente la durata massima dell'aspettativa con retribuzione intera compete la retribuzione ridotta alla meta' per l'intera durata del ricovero;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concessione di permessi giornalieri orari retribuiti nel limite massimo di due ore per la durata del progetto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riduzione dell'orario di lavoro, con l'applicazione degli istituti normativi e retributivi previsti per il rapporto a tempo parziale, limitatamente alla durata del progetto;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    utilizzazione del dipendente in mansioni della stessa posizione funzionale diverse da quelle abituali quando tale misura sia individuata dalla struttura sanitaria pubblica come supporto della terapia in atto.
+
 I dipendenti, i cui parenti entro il secondo grado o, in mancanza, entro il terzo grado, si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato l'esecuzione del progetto di recupero e di riabilitazione, hanno diritto ad ottenere la concessione dell'aspettativa per motivi di famiglia senza assegni per l'intera durata del progetto medesimo.
 
 L'Ente verifica periodicamente il rispetto dei progetti terapeutici di recupero agli effetti del mantenimento dei provvedimenti di cui alle lettere a), b), c) e d) del comma 1.
+
+4.
+                        
+                            
+                                L'attuazione della normativa sulla tutela dei lavoratori invalidi, di cui alla legge 30 marzo 1971, n. 118, ed ai decreti del Presidente della Repubblica 27 aprile 1978, n. 384, 1 febbario 1986, n. 13, 23 agosto 1988, n. 395, e' demandata alla negoziazione decentrata, al fine di:
+ 
+                            
+                            
+                                a)
+                                
+                                    individuare e rimuovere gli ostacoli architettonici che limitano l'accesso e la libera utilizzazione degli ambienti di lavoro;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    richiedere l'intervento delle strutture ispettive competenti a certificare l'esistenza degli ostacoli e la natura degli interventi necessari per rimuoverli;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    definire le modifiche strutturali ed organizzative atte a garantire la piena integrazione produttiva dei lavoratori invalidi.
 
 ## Art. 91. — Pari opportunita'
 
 I Comitati per le pari opportunita', di cui all'articolo 40 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, ove non ancora costituiti, devono essere insediati entro sessanta giorni dalla data di entrata in vigore del presente regolamento. Gli Enti assicurano, mediante specifica disciplina, le condizioni e gli strumenti idonei per il loro funzionamento.
 
 I Comitati presieduti da un rappresentante dell'Ente sono costituiti da un componente designato da ognuna delle Organizzazioni Sindacali mediche maggiormente rappresentative e da un pari numero di funzionari in rappresentanza degli Enti.
+
+3.
+                        
+                            
+                                In sede di negoziazione decentrata a livello di singolo Ente, anche tenendo conto delle proposte formulate dai Comitati per le pari opportunita', sono concordate le misure per favorire effettive pari opportunita' nelle condizioni di lavoro e di sviluppo professionale, che tengano conto anche della posizione delle lavoratrici in seno alla famiglia, con particolare riferimento a:
+ 
+                            
+                            
+                                a)
+                                
+                                    accesso e modalita' di svolgimento dei corsi di aggiornamento professionale e di specializzazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    flessibilita' degli orari di lavoro in rapporto a quelli dei servizi sociali.
 
 Gli effetti delle iniziative assunte dagli Enti a norma del comma 3 formano oggetto di valutazione nella relazione annuale del Comitato di cui all'articolo 40 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270.
 
@@ -1493,6 +2737,16 @@ In ottemperanza al disposto dell'articolo 13 della legge 29 marzo 1983, n. 93, i
 
 ## Art. 114. — Indennita' differenziata di responsabilita' primariale
 
+1.
+                        
+                            
+                                Gli importi dell'indennita' differenziata di responsabilita' primariale, di cui all'articolo 96 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, punti 
+                            
+                            
+                                a)
+                                
+                                    e b), sono rispettivamente rideterminati in L. 364.500 ed in L. 513.000 a decorrere dal 1 dicembre 1990.
+
 ## Art. 115. — Indennita' per servizio notturno e festivo
 
 Al personale dipendente il cui turno di servizio si svolga durante le ore notturne spetta una indennita' notturna nella misura unica uguale per tutti di L. 4.500 lorde per ogni ora di servizio prestato tra le ore 22 e le ore 6.
@@ -1563,6 +2817,25 @@ L'accertamento delle condizioni ambientali che caratterizzano le zone controllat
 
 L'individuazione del personale non compreso nell'articolo 1, comma 2, della legge 27 ottobre 1988, n. 460, e' effettuata dalla commissione gia' prevista dall'articolo 58, comma 4, del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, cosi' modificato: la commissione - presieduta dal Coordinatore Sanitario - e' composta dal Responsabile del servizio radiologico, dal Responsabile del servizio di igiene, prevenzione e sicurezza nei luoghi di lavoro, da un componente designato dalle Organizzazioni Sindacali mediche maggiormente rappresentative, nonche' da un esperto qualificato nominato dal Comitato di gestione od organo corrispondente secondo i rispettivi ordinamenti. La commissione deve tenere conto dei dipendenti medici addetti ai servizi di radiologia medica, radiodiagnostica, radioterapia e medicina nucleare non compresi nell'articolo 1, comma 2, della legge 27 ottobre 1988, n. 460, nonche' del personale medico che presta la propria attivita' nelle sale operatorie, in particolare, appartenente alla disciplina di ortopedia.
 
+5.
+                        
+                            
+                                La continuita' o la occasionalita' della esposizione al rischio radiologico e' valutata tenendo conto anche dei seguenti criteri:
+ 
+                            
+                            
+                                a)
+                                
+                                    frequenza della presenza in zone controllate e tempo di
+ effettiva esposizione, al fine di accertare il grado di assorbimento;
+                                
+                            
+                            
+                                b)
+                                
+                                    livello del conseguente rischio stabilito dall'esperto
+qualificato nell'ambito della commissione di cui al comma 4, in relazione alla concreta possibilita' di superamento delle dosi massime ammissibili di esposizione per la categoria di operatori medici in esame, compatibilmente con un corretto utilizzo delle apparecchiature e dei dispositivi di radioprotezione.
+
 Al personale di cui al comma 4 che, a seguito della nuova verifica effettuata dalla commissione ivi prevista, risulti sottoposto al rischio da radiazione anche in modo discontinuo, temporaneo o a rotazione, ai sensi dell'articolo 9, lettera h), gruppo 1, del decreto del Presidente della Repubblica 13 febbraio 1964, n. 185, in quanto adibito normalmente o prevalentemente a funzioni diverse, e' corrisposta l'indennita' nella misura unica mensile lorda di L. 50.000.
 
 L'indennita' di rischio da radiazioni deve essere pagata in concomitanza con lo stipendio.
@@ -1608,7 +2881,63 @@ Il meccanismo di incentivazione, per sua natura, a regime dovra' essere organizz
 
 Dalla data 1 gennaio 1990 e per l'arco di vigenza del presente regolamento si ridefinisce la disciplina vigente quale fase di evoluzione verso il futuro sistema per obiettivi, con gli opportuni e specifici adattamenti riferiti alle due aree negoziali di cui all'articolo 6 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68.
 
+4.
+                        
+                            
+                                L'attivazione dell'istituto e' obbligatoria e subordinata al conseguimento dei seguenti obiettivi validi su tutto il territorio nazionale nei servizi di prevenzione, diagnosi, cura e riabilitazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    deve mantenersi o migliorarsi il rapporto tra prestazioni rese in normale orario di lavoro e prestazioni rese in plus-orario, in relazione alla consistenza dei posti di organico coperti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la gestione dell'istituto deve tendere a migliorare alcuni indici di produttivita' complessivi:
+ miglioramento degli indici relativi a: durata media della degenza, indice di occupazione di posti letto, indice di turn-over del posto letto;
+ riduzione dei tempi di attesa intra ed extra ospedaliera;
+ economie realizzate dall'indice medio regionale per la farmaceutica esterna ed interna;
+ potenziamento delle attivita' di prevenzione negli ambienti di vita e di lavoro;
+ miglioramento di altri eventuali indici di produttivita', oggettivamente rilevabili e quantificabili, determinati a livello regionale;
+ pieno utilizzo e valorizzazione dei servizi pubblici in modo da garantire maggiori spazi di prestazione dei servizi all'utenza ed un minore ricorso alle prestazioni di specialistica convenzionata esterna;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    deve concretizzarsi una razionale distribuzione territoriale ed oraria delle prestazioni utilizzando le attivita' rese in plus- orario, oltre che nella sede di assegnazione, anche nei presidi territoriali (distretti, centri di prenotazione, consultori) e nei presidi multizonali;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    devono incentivarsi le prestazioni ed i trattamenti deospedalizzanti e le attivita' di ospedale diurno.
+
 Tali obiettivi costituiscono vincoli per l'accordo decentrato a livello regionale, che deve tracciare le linee generali dei programmi, i criteri di attuazione degli stessi e le verifiche. Ogni semestre devono essere verificati con le Organizzazioni Sindacali mediche maggiormente rappresentative gli aspetti tendenziali dell'applicazione dell'istituto in ordine al grado di conseguimento degli obiettivi che costituiscono la condizione per l'attribuzione dei compensi.
+
+6.
+                        
+                            
+                                Il processo e' cosi' articolato:
+ 
+                            
+                            
+                                a)
+                                
+                                    incentivazione ai sensi degli articoli 101 e seguenti del decreto del Presidente della Repubblica 20 maggio 1987, n. 270.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    produttivita' per obiettivi.
 
 In riferimento ai commi 3 e 4, con gli accordi quadro regionali possono essere sperimentate forme di integrazione fra le due tipologie dell'istituto.
 
@@ -1663,6 +2992,24 @@ Le competenze spettanti al personale, articolate per settori, a seconda della di
  C) Personale tecnico-sanitario, personale infermieristico, personale della riabilitazione e personale di prevenzione e vigilanza igienica di cui alle tabelle H), I), L), M), N), dell'allegato n. 1 al decreto del Presidente della Repubblica 20 dicembre 1979, n. 761, riordinate dall'allegato 1 del presente regolamento;
  D) Restante personale.
 
+2.
+                        
+                            
+                                Le competenze attribuite al personale della categoria A) (medici) sono suddivise come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'equipe che ha reso la prestazione il 45% da ripartirsi fra i singoli componenti;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al fondo comune il 55%.
+
 L'accordo quadro regionale e i conseguenti accordi locali stabiliscono i criteri di utilizzo del fondo comune, la cui quota parte, non inferiore al 25%, deve essere riservata al raggiungimento degli obiettivi della programmazione sanitaria nazionale e regionale, per particolari funzioni o aree di attivita' connesse alla operativita' complessiva delle strutture sanitarie. Per le restanti quote, gli accordi decentrati stabiliscono modalita' di utilizzo che consentano meccanismi perequativi all'interno del personale medico per il perseguimento degli obiettivi locali e la realizzazione dei piani di lavoro programmati.
 
 La partecipazione alla ripartizione del fondo comune comporta la prestazione del plus orario con le modalita' appresso indicate e articolate sulla base di accordi locali.
@@ -1680,6 +3027,24 @@ Gli accordi quadro regionali possono prevedere, secondo quanto stabilito nell'ar
 ## Art. 127. — Plus orario e sua determinazione
 
 L'attivita' connessa con l'istituto delle incentivazioni di cui all'articolo 101, comma 6, punto I, del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, va svolta in plus orario.
+
+2.
+                        
+                            
+                                I tetti massimi di plus orario individuali sono fissati, nei limiti del fondo a disposizione, come segue:
+ 
+                            
+                            
+                                a)
+                                
+                                    7 ore settimanali per il personale medico a tempo pieno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    5 ore settimanali per il personale medico a tempo definito.
 
 Il plus orario individuale concordato con le Organizzazioni Sindacali mediche e successivamente deliberato dall'Amministrazione si integra con il normale orario di lavoro. Il plus-orario e il normale orario di lavoro sommati tra loro costituiscono debito orario complessivo individuale. Il debito orario complessivo cosi' definito deve essere verificato attraverso sistemi obiettivi di controllo.
 
@@ -1712,6 +3077,67 @@ Il fondo predetto deve essere, comunque, garantito e liquidato nella sua globali
  di cui al comma 6, lettera B), dell'articolo 123
 
 I fini, le modalita' operative e la valutazione della produttivita' dell'istituto di cui all'articolo 101, comma 6, punto II, del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, sono quelli indicati negli articoli 101 e 108 dello stesso decreto.
+
+2.
+                        
+                            
+                                La valutazione della produttivita' dell'istituto di cui al comma 1 viene definita su specifici programmi in sede regionale, attuati e verificati nelle singole Unita' Sanitarie Locali sulla base dei seguenti indici medi di produttivita' oggettivamente rilevati a livello regionale:
+ 
+                            
+                            
+                                a)
+                                
+                                    contenimento della spesa corrente rispetto a quella storica riferita all'anno precedente a quello preso in considerazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    durata media della degenza, indice di occupazione di posti letto, indice di turn-over del posto letto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la riduzione dei tempi di attesa intra ed extra ospedaliera;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    economie realizzate rispetto all'indice medio regionale per la farmaceutica esterna ed interna;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    attivazione e potenziamento della rete distrettuale;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    progressiva elevazione degli standards di intervento in materia di prevenzione negli ambienti di vita e di lavoro;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    attivazione e svolgimento di programmi di educazione sanitaria;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    altri eventuali indici di produttivita', oggettivamente
+rilevabili e quantificabili, determinati a livello regionale o di Unita' Sanitarie Locali.
 
 L'accordo quadro regionale provvede a determinare le principali aree nell'ambito delle quali le singole Unita' Sanitarie Locali devono realizzare gli specifici progetti obiettivo. Lo stesso accordo deve pure prevedere i criteri metodologici attraverso i quali perseguire i processi attuativi dei singoli interventi che devono tendere al conseguimento dei risultati oggettivamente rilevabili e misurabili. Detto accordo deve, in particolare, determinare le modalita' per correlare la misura dei compensi ai risultati conseguiti rispetto agli obiettivi prefissati, escludendo, in ogni caso, possibilita' di erogazione generalizzata collegata esclusivamente alla presenza in servizio congiunta o meno al parametro retributivo.
 
@@ -1777,6 +3203,33 @@ Il comma 4 dell'articolo 33 del decreto del Presidente della Repubblica 20 maggi
 Il comma 3 dell'articolo 34 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, e' sostituito dal seguente:
  "3. Per l'attuazione della suddetta attivita', ogni anno le Amministrazioni, d'intesa con le Organizzazioni Sindacali mediche, iscrivono a bilancio uno stanziamento da determinarsi in sede regionale in misura comunque non superiore a L. 5.000 annue per dipendente. Eventuali condizioni piu' favorevoli definite in sede di accordo decentrato sono mantenute sempreche' lo stanziamento gia' esistente non sia superiore a L. 10.000 annue per dipendente".
 
+4.
+                        
+                            
+                                L'articolo 83 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, e' cosi' integrato:
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo la lettera e) del comma 3 e' inserita la seguente:
+ "f) il comando finalizzato previsto dall'articolo 45 del decreto del Presidente della Repubblica 20 dicembre 1979, n. 761.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 10 e' aggiunto, in fine, il seguente periodo:"La partecipazione ai corsi, convegni, congressi e la frequenza delle scuole di specializzazione e gli esami sostenuti, devono essere adeguatamente documentati al fine della concessione del congedo straordinario previsto dall'articolo 10 del decreto del Presidente della Repubblica 25 giugno 1983, n. 348, e dalla circolare n. 10705 del 30 dicembre 1987 del Dipartimento della funzione pubblica;"
+
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 15 e' aggiunto il seguente:
+ "16. In attesa della istituzione della commissione paritetica e del comitato tecnico-scientifico previsto dai commi 5 e 9, a livello di singolo ente, sulle questioni demandate alla competenza di tali organi, decide l'ufficio di Direzione.".
+
 Dopo il comma 6 dell'articolo 85 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270, e' aggiunto il seguente:
  "7. In attesa dell'emanazione dello schema tipo di convenzione predisposto dal Ministero della Sanita', le Regioni possono stipulare apposite convenzioni con strutture private al fine di consentire al personale medico l'esercizio dell'attivita' libero professionale, fermo rimanendo l'obbligo di adeguamento di dette convenzioni agli schemi tipo non appena emanati. In caso di mancata emanazione del predetto schema tipo entro 60 giorni dalla data di entrata in vigore del presente regolamento, i medici dipendenti sono autorizzati ad esercitare l'attivita' libero-professioniale in via derogatoria e temporanea, con le tariffe e con le modalita' previste per le consulenze ed i consulti.".
 
@@ -1789,7 +3242,146 @@ Dopo l'ultimo comma dell'articolo 11 del decreto del Presidente della Repubblica
 
 In ogni Regione e' costituita la Commissione regionale per la verifica e revisione della qualita' dei servizi e delle prestazioni sanitarie.
 
+2.
+                        
+                            
+                                La commissione ha i seguenti compiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    valutare i servizi sanitari in termini di:
+ adeguatezza delle strutture, attrezzature e personale;
+ correttezza delle procedure e delle prestazioni;
+ risultati raggiunti rispetto ai bisogni dei cittadini, ai programmi deliberati e in comparazione con gli standard medi nazionali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere la diffusione delle metodologie per il miglioramento qualitativo delle prestazioni, anche attraverso l'avvio di iniziative specifiche, regionali o locali, di formazione di personale esperto in valutazione e promozione delle qualita' dei servizi e della assistenza sanitaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    validare e verificare progetti e programmi di valutazione predisposti a livello di Unita' Sanitaria Locale dall'apposita commissione di cui al comma 7.
+
 La commissione e' nominata con provvedimento del Presidente della Giunta entro sessanta giorni dall'entrata in vigore del presente regolamento ed e' presieduta dal Presidente dell'Ordine dei medici della provincia capoluogo di regione.
+
+4.
+                        
+                            
+                                La commissione e' composta da:
+ 
+                            
+                            
+                                a)
+                                
+                                    i Presidente degli Ordini e dei Collegi provinciali del capoluogo regionale;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due funzionari regionali scelti nei settori epidemiologico- informativo, dell'assistenza sanitaria, della programmazione sanitaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sette esperti qualificati nei settori della valutazione della qualita' dei servizi e delle prestazioni sanitarie; della programmazione ed organizzazione dei servizi; della epidemiologia e statistica; della formazione professionale; della assistenza infermieristica (nursing), assistenza farmaceutica e diagnostica strumentali, scelti dalla Regione fra i dipendenti del Servizio Sanitario Nazionale, di strutture universitarie e tra i componenti di societa' scientifiche;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cinque rappresentanti nominati annualmente e congiuntamente dalle Organizzazioni Sindacali maggiormente rappresentative, in modo da garantire la presenza dei diversi profili professionali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    un funzionario regionale della carriera direttiva amministrativa, con funzioni di segretario.
+ 5 La Commissione regionale invia un rapporto semestrale al Comitato nazionale di cui al comma 11 sui progetti e sui programmi avviati e sui risultati raggiunti.
+ 6 Per la vigenza del presente regolamento, il coordinatore sanitario della Unita' Sanitaria Locale, tenuto conto degli indirizzi regionali e sentito l'ufficio di direzione,individua almeno uno di valenza ospedaliera e uno di valenza territoriale:
+ a) revisione delle procedure di accettazione ospedaliera;
+ b) consumo di farmaci per giornata di degenza e loro valutazione quanti-qualitativa, anche in funzione del rapporto costo-beneficio;
+ c) tempi di risposta diagnostica intraospedaliera, in rapporto alle attivita' in plus-orario e alla durata media delle degenze;
+ d) utilizzo delle camere operatorie in rapporto alla durata delle degenze nelle unita' operative a valenza chirurgica e al rapporto tra ricoverati e operati nelle stesse unita';
+ e) prevenzione e terapia delle lesioni da decubito;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    adozione e valutazione di nuovi modelli di assistenza infermieristica per obiettivi e miglioramento degli aspetti di carattere alberghiero;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    riscontri anatomo-patologi sui reperti chirurgici e riscontri autoptici sui decessi;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    valutazione dei servizi di pronta disponibilita' nei settori sanitario, veterinario e igienistico-ambientale, in rapporto ai bisogni prevedibili e alle attivita' effettivamente svolte;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    valutazione dei servizi e dei programmi adottati in attuazione del Piano Sanitario Nazionale e regionale;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    qualita' della documentazione clinica e adozione della cartella infermieristica; ulteriori programmi possono essere aggiunti in sede locale con riferimento ad aspetti critici della situazione assistenziale;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    valutazione di progetti di metodologie per la prevenzione delle infezioni ospedaliere.
+ 7. Sulla proposta del coordinatore sanitario deliberano, entro il termine indicato al comma 3, gli organi della Unita' Sanitaria Lo- cale, i quali procedono, contestualmente, alla costituzione della commissione professionale per la verifica e la revisione della qualita' dei servizi e delle prestazioni della Unita' Sanitaria Lo- cale, la cui composizione, in relazione ai programmi deliberati, e' la seguente:
+ a) il Presidente dell'ordine o collegio interessato, che la presiede;
+ b) i responsabili dei servizi interessati;
+ c) tre esperti nei campi oggetto dei programmi;
+ d) tre operatori dei servizi interessati;
+ e) il direttore sanitario e il coordinatore sanitario, nonche' il coordinatore amministrativo per i programmi a valenza organizzativo- gestionale.
+ 8. In relazione alle peculiarita' della verifica e revisione della qualita' nei presidi ospedalieri, la commissione di Unita' Sanitaria Locale ha una sua proiezione stabile all'interno della direzione sanitaria del presidio ospedaliero di maggiore rilevanza nella Unita' Sanitaria Locale, la quale opera come nucleo operativo ospedaliero per la promozione e la valutazione della qualita' tecnico-scientifica ed umana dei servizi e delle prestazioni ospedaliere. Il nucleo operativo e' composto dagli operatori che intendono avviare o hanno in atto programmi di valutazione della qualita', dal direttore sanitario, che ne fa parte di diritto, e dal coordinatore sanitario ed opera nell'ambito dei programmi a valenza ospedaliera adottati ai sensi del comma 7.
+ 9. La commissione della Unita' Sanitaria Locale invia semestralmente alla commissione regionale di cui al comma 1 un rapporto sui programmi attivati e i risultati conseguiti.
+ 10. La mancata osservanza dei termini perentori indicati per la costituzione delle commissioni regionali e di Unita' Sanitaria Locale determina l'azione sostitutiva a norma delle leggi vigenti. Le commissioni operano validamente anche se in composizione ristretta per carenza di designazione di alcuni membri.
+ 11. A livello nazionale il coordinamento delle attivita' di verifica e revisione della qualita' dei servizi e delle prestazioni e' affidato ad un comitato nazionale per la valutazione della qualita' tecnico-scientifica ed umana dei servizi e degli interventi sanitari e per l'accreditamento delle istituzioni sanitarie.
+ 12. Il comitato, istituito con decreto del Ministro della Sanita', e' presieduto dal Presidente della Federazione degli Ordini dei medici ed e' composto da:
+ a) i rappresentanti delle federazioni degli ordini e dei collegi;
+ b) esperti nelle seguenti aree: diagnosi, cura, riabilitazione; prevenzione, sanita' pubblica, farmaceutica e organizzazione dei servizi; epidemiologia, valutazione della qualita' e sistemi informativi; amministrativo-gestionale; essi sono scelti fra i dipendenti del Servizio Sanitario Nazionale, delle universita', di Enti nazionali di ricerca scientifica e le associazioni scientifiche e culturali mediche e di altre professionalita' sanitarie, fino ad un massimo di trenta persone;
+ c) il direttore dell'Istituto superiore di sanita' o suo delegato;
+ d) sei rappresentanti nominati annualmente e congiuntamente dalle Organizzazioni Sindacali maggiormente rappresentative, garantendo la presenza dei diversi profili professionali;
+ e) il segretario generale del Consiglio sanitario nazionale;
+ f) sei rappresentanti delle direzioni generali del Ministero della Sanita';
+ g) un rappresentante del Ministero del Tesoro;
+ h) un rappresentante del Dipartimento della Funzione Pubblica;
+ i) sei rappresentanti delle Regioni;
+ l) tre rappresentanti dell'A.N.C.I. e dell'U.N.C.E.M.;
+ m) il dirigente generale del Servizio centrale della programmazione sanitaria come responsabile del sistema informativo di governo, con funzioni di coordinamento della segreteria del Comitato.
+ 13. Il Comitato puo' essere articolato in sezioni corrispondenti ad aree distinte di intervento e di valutazione.
 
 ## Art. 136. — Norma finale di rinvio
 

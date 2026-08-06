@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 1997-08-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,6 +29,66 @@ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Min
 ## - TITOLO I ORGANIZZAZIONE Capo I STRUTTURE ORGANIZZATIVE
 
 ## Art. 1. — Funzioni organizzative del Garante per la radiodiffusione e l'editoria
+
+1.
+                        
+                            
+                                Il Garante per la radiodiffusione e l'editoria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' titolare dell'ufficio di cui all'art. 6, comma 6, della legge 6 agosto 1990, n. 223; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta i provvedimenti relativi alla composizione interna delle singole unita' organizzative in cui esso si articola, stabilendo la disciplina relativa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    impartisce le direttive e gli ordini di servizio per il loro efficiente funzionamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    cura i rapporti con gli organi costituzionali e con gli organi preposti alla regolazione del sistema delle comunicazioni sociali, con l'Autorita' garante della concorrenza e del mercato e con le organizzazioni della Comunita' europea, inerenti ai settori della radiodiffusione e dell'editoria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    nell'ambito delle funzioni attribuitegli puo' organizzare indagini conoscitive; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    nei casi in cui la natura tecnica o la delicatezza dei problemi lo richiedano e non possa sopperire con la propria organizzazione, puo' stipulare convenzioni di ricerca, di elaborazione di studi e di dati con istituti universitari, con esperti di qualificata competenza e con organismi specializzati ai fini dell'approfondimento dei temi connessi alle comunicazioni di massa; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    puo' avvalersi dell'opera di consulenti o di societa' di consulenti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    esercita ogni altro potere previsto dalle leggi e dai regolamenti.
 
 Al termine di ciascun anno finanziario il Garante invia al Ministero del tesoro un elenco delle convenzioni stipulate.
 
@@ -96,6 +156,31 @@ Il settore dell'amministrazione e della contabilita' provvede alla tenuta delle 
 ## Art. 9. — Settore per gli assetti delle imprese editrici
  e radiotelevisive
 
+1.
+                        
+                            
+                                Il settore per gli assetti delle imprese editrici e radiotelevisive:
+ 
+                            
+                            
+                                a)
+                                
+                                    cura la tenuta del registro nazionale della stampa, di cui all'art. 11 della legge 5 agosto 1981, n. 416, e successive modificazioni, e quella del registro nazionale delle imprese radiotelevisive, di cui all'art. 12 della legge 6 agosto 1990, n. 223;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    provvede alla rilevazione coordinata, mensilmente aggiornata, delle imprese e dei gruppi di imprese che, sulla base dei dati contenuti nei due registri, risultino svolgere attivita' relative ad entrambi, indicando per ciascuno di essi l'assetto globale;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    riferisce mensilmente al Garante, sulla base dei dati desunti dai registri, le indicazioni relative ai soggetti che, nell'una o nell'altra attivita', o in entrambe, superino i limiti di concentrazione stabiliti dalla legge.
+
 ## Art. 10. — Comunicazione e documenti per la tenuta
  del registro nazionale della stampa
 
@@ -127,6 +212,31 @@ Il settore studi riferisce mensilmente al Garante, sulla base delle acquisizioni
 
 ## Art. 14. — Settore bilanci ed ispezioni
 
+1.
+                        
+                            
+                                Il settore bilanci ed ispezioni, in coordinamento con il settore per gli assetti delle imprese editrici e radiotelevisive, provvede:
+ 
+                            
+                            
+                                a)
+                                
+                                    ad esaminare i bilanci e l'annessa documentazione dei concessionari privati, dei titolari di autorizzazione di cui all'art. 38 della legge 14 aprile 1975, n. 103, e della concessionaria pubblica, nonche', ove necessario, i bilanci e l'annessa documentazione delle imprese produttrici o distributrici di programmi o concessionarie di pubblicita';
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a compiere in coordinamento con il settore per gli assetti delle imprese editrici e radiotelevisive l'attivita' istruttoria ed ispettiva connessa all'esame dei bilanci;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a compiere l'attivita' ispettiva rivolta all'accertamento di ogni violazione di legge, da parte delle imprese editrici o radiotelevisive, per cui sia prevista l'irrogazione di sanzioni da parte del Garante.
+
 Ai fini dell'attivita' istruttoria ed ispettiva necessaria per lo svolgimento delle funzioni di cui al presente articolo, il Garante puo' avvalersi anche dei competenti organi dell'Amministrazione delle poste e delle telecomunicazioni, nonche' dei servizi di controllo e vigilanza dell'Amministrazione finanziaria dello Stato. Inoltre, con riferimento sia ai soggetti indicati nell'art. 9, terzo comma, della legge 5 agosto 1981, n. 416, e successive modificazioni, sia a quelli indicati nell'art. 12 della legge 6 agosto 1990, n. 223, il Garante tramite il settore puo' chiedere ai competenti uffici pubblici tutte le notizie necessarie per accertare l'identita', la titolarita' e la situazione patrimoniale e tributaria di imprese radiotelevisive, o editrici di quotidiani o periodici.
 
 Qualora le notizie richieste non siano state fornite, ovvero siano giudicate insufficienti o inattendibili dal Garante, questi puo' chiedere alla magistratura di svolgere le indagini anche mediante utilizzazione delle forze di polizia, al fine di accertare la titolarita' delle imprese editoriali e di radiodiffusione e la proprieta' delle testate, nonche' la sussistenza dei rapporti di carattere finanziario od organizzativo di cui all'ottavo comma dell'articolo 1 della legge 5 agosto 1981, n. 416, e successive modificazioni.
@@ -144,11 +254,54 @@ Il settore provvede inoltre agli adempimenti, compresi quelli di segreteria, occ
 ## Art. 16. — Settore studi e affari giuridici, procedimenti per i divieti di
  posizioni dominanti e per l'irrogazione di sanzioni amministrative.
 
+1.
+                        
+                            
+                                Il settore si articola in due sezioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    studi e affari giuridici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    procedimenti per i divieti di posizioni dominanti e per l'irrogazione di sanzioni amministrative.
+
 La prima sezione provvede a studi, analisi e ricerche concernenti i settori della informazione e le loro prospettive di evoluzione sia nell'ambito nazionale che in quello comunitario. Cura, attraverso un apposito centro di elaborazione dati, la raccolta e la gestione informatica dei dati concernenti la rilevanza degli assetti e delle linee di sviluppo dei soggetti operanti nell'ambito delle comunicazioni di massa. Studia l'impostazione generale dei mezzi telematici a disposizione degli uffici, cura l'acquisizione e l'elaborazione del "software" dedicato alla realizzazione delle pro- cedure di automazione, trasferisce su memoria di massa i dati da elaborare, controlla le risultanze delle elaborazioni e cura la custodia negli archivi dei dati memorizzati.
 
 Il Garante puo', tramite la sezione, organizzare dibattiti e incontri di studio, nonche' curare la pubblicazione di atti e studi, nonche' di una rivista attinente alla informazione. La sezione puo' proporre al Garante convenzioni di ricerca e collaborazione con studiosi ed esperti, istituti universitari ed organismi specializzati per l'acquisizione dei dati ed elementi occorrenti per l'approfondimento dei temi connessi al sistema comunicativo; cura il servizio di biblioteca.
 
 La sezione da' pareri sull'interpretazione di norme della legislazione nazionale, nonche' dei regolamenti e direttive della Comunita' europea e su ogni altra questione giuridica; segue i lavori del Parlamento e del Governo, degli organi della CEE inerenti alle materie dell'informazione; segue l'elaborazione giurisprudenziale italiana e comunitaria nelle stesse materie e cura lo studio di ogni altra problematica giuridica. Provvede agli adempimenti, compresi quelli di segreteria, occorrenti per il funzionamento del Consiglio consultivo degli utenti, nonche' agli adempimenti connessi ai rapporti fra il Garante e il Consiglio stesso. Cura i compiti connessi allo svolgimento da parte del Garante dei poteri inerenti alle rettifiche di cui ai commi 2, 3 e 4 dell'art. 10 della legge 6 agosto 1990, n. 223.
+
+5.
+                        
+                            
+                                La seconda sezione:
+ 
+                            
+                            
+                                a)
+                                
+                                    cura gli adempimenti e i compiti di carattere preparatorio e istruttorio, ai fini dell'esercizio dei poteri del Garante in materia di divieto di posizioni dominanti nell'ambito dei mezzi di comunicazione di massa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    cura altresi' gli adempimenti e i compiti preordinati all'esercizio, da parte del Garante, dei poteri di intervento, nei casi di violazione di ogni altra norma e divieto, previsti dalla normativa sull'informazione, compresi i poteri di irrogazione di sanzioni amministrative;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    segue i procedimenti contenziosi che possano sorgere in riferimento ai provvedimenti del Garante concernenti i divieti di posizioni dominanti e l'irrogazione di sanzioni amministrative.
 
 L'assolvimento dei compiti di cui alle lettere a) e b) del comma 5 e' svolto in coordinamento con il settore bilanci ed ispezioni quando sia necessaria l'esplicazione di un'attivita' ispettiva.
 
@@ -273,6 +426,38 @@ Il Garante puo' autorizzare, nei limiti del relativo stanziamento, l'erogazione 
 
 ## Art. 33. — Settore dell'amministrazione e della contabilita'
 
+1.
+                        
+                            
+                                Il settore dell'amministrazione e della contabilita':
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede alla liquidazione delle spese, alla gestione del patrimonio, alla verifica della regolarita' della tenuta dei registri della consistenza patrimoniale. A tal fine debbono essere ad esso comunicati tutti gli atti che comunque abbiano riflessi finanziari e patrimoniali;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    predispone gli elementi occorrenti per la compilazione del rendiconto della gestione finanziaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    vigila sul servizio di cassa;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    predispone i provvedimenti per i versamenti nella contabilita' speciale.
+
 ## - TITOLO III AMMINISTRAZIONE E CONTABILITA' Capo IV SERVIZI DI CASSA E DI ECONOMATO
 
 ## Art. 34. — Servizio di cassa interno
@@ -292,6 +477,24 @@ Egli e' altresi' responsabile del numerario e di ogni altro valore affidatogli.
 
 ## Art. 36. — Scritture contabili
 
+1.
+                        
+                            
+                                Il cassiere tiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    un registro di cassa per tutte le operazioni di entrata e uscita dal quale risultino, giornalmente, il fondo di cassa iniziale, i pagamenti eseguiti nella giornata ed il fondo di cassa esistente alla chiusura della cassa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro dei valori e dei titoli in deposito.
+
 Il denaro ed i valori debbono essere custoditi in cassaforte.
 Non possono essere depositati in cassaforte denaro, titoli e oggetti di vaore che non siano di pertinenza degli uffici.
 
@@ -303,7 +506,155 @@ Il cassiere compila mensilmente la situazione di cassa su apposito modulo e ne r
 
 L'economo-consegnatario provvede alla manutenzione dei beni, arredamenti e materiali in dotazione agli uffici e vigila sulla regolare esecuzione dei servizi appaltati.
 
+2.
+                        
+                            
+                                L'economo-consegnatario tiene:
+ 
+                            
+                            
+                                a)
+                                
+                                    un registro d'inventario per i mobili e le attrezzature in dotazione agli uffici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    un registro di carico e scarico per il materiale di facile consumo.
+
 ## Art. 39. — Elenco indicativo delle spese
+
+1.
+                        
+                            
+                                Su fondo stanziato nell'apposito capitolo del bilancio di previsione per il funzionamento dell'Ufficio del Garante gravano le seguenti spese:
+ 
+                            
+                            
+                                a)
+                                
+                                    stipendio ed altri assegni fissi spettanti al Garante;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita' di funzione di cui all'art. 41;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    compenso per lavoro straordinario;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    compensi ai consulenti e alle societa' di consulenti, nonche' quelli concernenti convenzioni di ricerca e collaborazione con studiosi ed esperti di ricerca, istituti universitari e organismi specializzati per l'acquisizione di dati e elementi utili ai fini del migliore esercizio dei compiti istituzionali;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    indennita' e rimborso spese di trasporto per missioni nel territorio nazionale e all'estero;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    spese postali, telegrafiche e telefoniche ed altre inerenti al servizio di corrispondenza;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    locazione, manutenzione, adattamento dei locali e dei relativi impianti;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    acquisto e manutenzione di mobili ed arredi;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    acquisto, riparazione e manutenzione di autoveicoli; acquisto di carburante e lubrificante;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    acquisto, noleggio e manutenzione di macchine da scrivere e da calcolo, di apparecchi televisori, di registrazione del suono e delle immagini, di fotoriproduzione e di apparati di elaborazione elettronica;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    acquisto di libri, giornali, riviste ed altre pubblicazioni; spese di pubblicazione delle relazioni al Parlamento, nonche' di una rivista di dottrina e giurisprudenza attinente ai settori dell'informazione;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    spese relative alla partecipazione a corsi, convegni e seminari di aggiornamento professionale;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    spese di ufficio;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    spese di trasporto, imballaggio e facchinaggio;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    spese casuali;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    spese di rappresentanza in base ad apposite istruzioni date dal Garante;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    interventi assistenziali del personale;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    ogni altra spesa necessaria allo svolgimento dei compiti istituzionali.
 
 Per le spese predette non e' richiesta l'autorizzazione del Provveditorato generale dello Stato.
 

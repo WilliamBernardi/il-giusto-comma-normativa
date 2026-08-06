@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2015-08-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -86,6 +86,29 @@ Alla Societa' di cultura partecipano altresi' soggetti privati e gli enti confer
 
 ((
 
+1.
+                        
+                            
+                                Il patrimonio della Fondazione e' costituito da:
+
+                            
+                            
+                                a)
+                                
+                                    i beni mobili ed immobili di cui e' proprietaria;
+                                
+                            
+                            
+                                b)
+                                
+                                    i beni mobili e immobili che possono essere conferiti, eventualmente anche in proprieta', dallo Stato o da altri soci per la costituzione del patrimonio;
+                                
+                            
+                            
+                                c)
+                                
+                                    i lasciti, le donazioni e le erogazioni di qualsiasi genere, destinati dal disponente ad incremento del patrimonio stesso. Per l'accettazione delle eredita' trova applicazione l'articolo 473 del codice civile.
+
 Il valore complessivo dei conferimenti al patrimonio costituisce il fondo di dotazione della Fondazione.
 
 Per esigenze connesse all'espletamento dei propri compiti, la Fondazione puo' disporre del patrimonio nel limite del 20 per cento del valore iscritto nell'ultimo bilancio approvato, con l'obbligo di provvedere alla sua ricostituzione entro i due esercizi successivi.
@@ -120,6 +143,35 @@ Il presidente convoca e presiede il consiglio d'amministrazione, vigila sull'app
 
 ((
 
+1.
+                        
+                            
+                                Il consiglio di amministrazione e' nominato con decreto del Ministro per i beni e le attivita' culturali ed e' composto, oltre che dal presidente della Fondazione, da:
+
+                            
+                            
+                                a)
+                                
+                                    il sindaco di Venezia, che assume la vicepresidenza della Fondazione;
+                                
+                            
+                            
+                                b)
+                                
+                                    il Presidente della regione Veneto o un suo delegato;
+                                
+                            
+                            
+                                c)
+                                
+                                    il Presidente della provincia di Venezia o un suo delegato;
+                                
+                            
+                            
+                                d)
+                                
+                                    componenti designati, in numero da uno a tre, dai soggetti di cui all'articolo 5, comma 2, che conferiscono inizialmente, come singoli o cumulativamente, almeno il 20 per cento del patrimonio della Fondazione e che assicurano un apporto annuo ordinario per la gestione dell'attivita' della Fondazione non inferiore al 7 per cento del totale dei finanziamenti statali. Fino alla determinazione del valore complessivo dei conferimenti al patrimonio, il conferimento iniziale dei soggetti di cui all'articolo 5, comma 2, viene stabilito dal consiglio di amministrazione, su proposta del presidente.
+
 Il presidente della Fondazione, i delegati di cui alle lettere b) e c) del comma 1, e i designati di cui alla lettera d) del medesimo comma 1, sono individuati tra personalita' di profilo culturale particolarmente elevato e con comprovate capacita' organizzative.
 
 ))
@@ -139,6 +191,78 @@ Nel caso in cui non vi sia partecipazione dei soggetti di cui all'articolo 5, co
 ## Art. 10. — (( (Compiti del consiglio di amministrazione). ))
 
 ((
+
+1.
+                        
+                            
+                                Il consiglio di amministrazione:
+
+                            
+                            
+                                a)
+                                
+                                    elabora e adotta lo statuto e le sue successive modificazioni;
+                                
+                            
+                            
+                                b)
+                                
+                                    definisce, anche sulla base dei pareri resi, per ogni settore di intervento, dal Comitato tecnico-scientifico di cui all'articolo 11, gli indirizzi generali cui deve ispirarsi l'attivita' gestionale della Fondazione, e adotta il documento programmatico pluriennale che determina le strategie, le priorita' e gli obiettivi da perseguire, i relativi programmi di intervento della Fondazione stessa, l'organizzazione delle mostre o manifestazioni, nonche' le attivita' stabili di studio, ricerca e sperimentazione;
+                                
+                            
+                            
+                                c)
+                                
+                                    delibera il bilancio di esercizio insieme ad una adeguata relazione tecnica;
+                                
+                            
+                            
+                                d)
+                                
+                                    definisce l'organizzazione degli uffici;
+                                
+                            
+                            
+                                e)
+                                
+                                    nomina e revoca i direttori dei settori di attivita' culturali e il direttore generale;
+                                
+                            
+                            
+                                f)
+                                
+                                    assegna gli stanziamenti ai vari settori di attivita' culturali sulla base dei relativi progetti;
+                                
+                            
+                            
+                                g)
+                                
+                                    determina con propria deliberazione, soggetta all'approvazione del Ministero per i beni e le attivita' culturali, di concerto con il Ministero dell'economia e delle finanze, i compensi spettanti al presidente ed ai componenti del consiglio di amministrazione e del collegio dei revisori dei conti;
+                                
+                            
+                            
+                                h)
+                                
+                                    delibera in ordine alla destinazione dei beni e delle attivita' patrimoniali, agli acquisti, alle alienazioni, alle transazioni, nel rispetto delle competenze, in materia di gestione, riservate al direttore generale;
+                                
+                            
+                            
+                                i)
+                                
+                                    delibera in ordine all'ammissione di nuovi soci alla Fondazione.
+La delibera di ammissione e' sottoposta all'approvazione del Ministero per i beni e le attivita' culturali e si intende approvata trascorsi, senza osservazioni, trenta giorni dalla sua ricezione da parte del Ministero stesso;
+                                
+                            
+                            
+                                l)
+                                
+                                    tiene i rapporti con gli Stati che partecipano alle manifestazioni della Fondazione;
+                                
+                            
+                            
+                                m)
+                                
+                                    esercita ogni altro potere concernente l'amministrazione ordinaria o straordinaria, che non sia attribuito dalla legge o dallo statuto ad altro organo.
 
 In caso di parita' di voti prevale quello espresso dal presidente. Le deliberazioni di cui alle lettere a) e b), del comma 1, sono adottate con il voto favorevole del presidente.
 
@@ -242,6 +366,59 @@ Entro tre mesi dalla stipula del primo contratto collettivo di lavoro, il person
 
 ## Art. 19. — Disponibilita' finanziarie
 
+1.
+                        
+                            
+                                La Societa' di cultura provvede ai suoi compiti con:
+
+                            
+                            
+                                a)
+                                
+                                    i redditi del suo patrimonio, fermo restando quanto previsto dall'articolo 6, comma 2;
+                                
+                            
+                            
+                                b)
+                                
+                                    i contributi ordinari dello Stato stanziati ogni anno negli stati di previsione della spesa del Ministero per i beni culturali e ambientali e della Presidenza del Consiglio dei Ministri, Dipartimento dello spettacolo, fermo quanto previsto dall'articolo 22;
+                                
+                            
+                            
+                                c)
+                                
+                                    i contributi ordinari annuali della regione Veneto, della provincia e del comune di Venezia;
+                                
+                            
+                            
+                                c-bis)
+                                
+                                    i contributi in conto esercizio degli altri soci della Fondazione; 
+                                
+                            
+                            
+                                d)
+                                
+                                    eventuali contributi straordinari dello Stato, della regione Veneto, della provincia e del comune di Venezia;
+                                
+                            
+                            
+                                e)
+                                
+                                    i proventi di gestione;
+                                
+                            
+                            
+                                f)
+                                
+                                    eventuali contributi ed assegnazioni, anche a titolo di sponsorizzazione, di altri soggetti o enti pubblici o privati, italiani e stranieri;
+                                
+                            
+                            
+                                g)
+                                
+                                    eventuali altre entrate, derivanti dall'esercizio di attivita' commerciali.
+
 Per lo svolgimento delle attivita' istituzionali della societa' di cultura nei settori della musica, della danza e del teatro, di cui all'articolo 13, e' stanziato un contributo ordinario, con determinazione triennale, nell'ambito delle somme destinate, rispettivamente, alla musica, non riferita alle fondazioni liriche, alla danza ed al teatro di prosa, nel Fondo unico dello spettacolo.
 
 Il contributo, di misura non inferiore all'1 per cento di quanto previsto per ciascuno dei settori di cui al comma 1 -bis, e' assegnato, sentite le competenti commissioni consultive, con decreto del Ministro per i beni e le attivita' culturali, avente efficacia triennale, salvo revoca o modificazione; per l'assegnazione del contributo, la societa' di cultura presenta ogni tre anni, entro il 31 ottobre dell'anno antecedente il triennio di riferimento, un programma delle attivita' con relazione finanziaria ed evidenziazione delle risorse necessarie al perseguimento delle finalita' nei settori di attivita' indicati al comma 1 -bis.
@@ -278,6 +455,35 @@ La Societa' di cultura e' ammessa ad usufruire per tutte le sue manifestazioni d
 Gli Stati, enti od istituti stranieri e le organizzazioni internazionali, proprietari o utenti di padiglioni nell'ambito degli spazi della Societa' di cultura, sono esenti, per tali cespiti, da ogni tributo erariale diretto o indiretto, ad eccezione di quelli che rappresentano il corrispettivo di un servizio. Tali agevolazioni sono subordinate alle condizioni di reciprocita' nei confronti di quegli Stati in cui sussistono istituzioni analoghe alla Societa' di cultura. La reciprocita' non e' richiesta quando si tratta di padiglioni appartenenti ad organizzazioni internazionali.
 
 ## Art. 23. — Amministrazione straordinaria
+
+1.
+                        
+                            
+                                L'autorita' vigilante dispone lo scioglimento del consiglio di amministrazione quando:
+
+                            
+                            
+                                a)
+                                
+                                    risultano gravi irregolarita' nell'amministrazione, ovvero gravi violazioni delle disposizioni legislative, amministrative o statutarie che regolano l'attivita' della societa' di cultura;
+                                
+                            
+                            
+                                b)
+                                
+                                    il conto economico chiude con una perdita superiore al 30 per cento del patrimonio per due esercizi consecutivi, ovvero sono previste perdite del patrimonio di analoga entita'. Per i primi due esercizi successivi alla trasformazione la percentuale e' elevata al 50 per cento;
+                                
+                            
+                            
+                                c)
+                                
+                                    non viene ricostituito il patrimonio, ai sensi dell'articolo 6, comma 2;
+                                
+                            
+                            
+                                d)
+                                
+                                    vi e' impossibilita' di funzionamento degli organi.
 
 Con il decreto di scioglimento viene nominato un commissario straordinario e ne vengono determinati la durata dell'incarico, comunque non superiore a sei mesi, nonche' il compenso. Il commissario straordinario esercita tutti i poteri del consiglio di amministrazione; provvede alla gestione, ad accertare e rimuovere le irregolarita' e a promuovere le soluzioni utili al perseguimento dei fini istituzionali.
 

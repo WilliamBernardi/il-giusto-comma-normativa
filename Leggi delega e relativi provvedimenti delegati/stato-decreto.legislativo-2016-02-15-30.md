@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.legislativo:2016-02-15;30
 vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -22,7 +22,68 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 
 ## Art. 1. — Modifiche al decreto legislativo 1° settembre 1993, n. 385
 
+1.
+                    
+                        
+                            Al comma 1 dell'articolo 69-bis del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera d), e' sostituita dalla seguente: 
+ «d) "depositi ammissibili al rimborso": i depositi che, ai sensi dell'articolo 96-bis.1, commi 1 e 2, sono astrattamente idonei a essere rimborsati da parte di un sistema di garanzia dei depositanti;»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la lettera e) e' sostituita dalla seguente: 
+ «e) "depositi protetti": i depositi ammissibili al rimborso che non superano il limite di rimborso da parte del sistema di garanzia dei depositanti previsto dall'articolo 96-bis.1, commi 3 e 4;».
+
 Al comma 1-bis, lettera a), numero 1), dell'articolo 91 del decreto legislativo 1° settembre 1993, n. 385, le parole: «dall'articolo 96-bis, comma 5» sono sostituite dalle seguenti: «dall'articolo 96-bis.1, commi 3 e 4».
+
+3.
+                    
+                        
+                            All'articolo 96 del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «Le banche di credito cooperativo aderiscono al sistema di garanzia dei depositanti costituito nel loro ambito.» sono abrogate; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1 e' inserito il seguente: 
+ «1-bis. I sistemi di tutela istituzionale di cui all'articolo 113, paragrafo 7, del regolamento (UE) n. 575/2013 possono essere riconosciuti come sistemi di garanzia dei depositanti.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 3 dopo la parola: «equivalente» sono aggiunte le seguenti: «almeno con riferimento al livello e all'ambito di copertura»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 4 dopo le parole: «banche aderenti» sono aggiunte le seguenti: «in conformita' di quanto previsto dalla presente Sezione»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il comma 5 e' sostituito dal seguente: 
+ «5. La pubblicita' e le comunicazioni che le banche sono tenute a effettuare per informare i clienti sulla garanzia dei depositanti sono disciplinate ai sensi del Titolo VI.».
 
 Dopo l'articolo 96 sono inseriti i seguenti: 
  «Art. 96.1 (Dotazione finanziaria dei sistemi di garanzia). - 1. I sistemi di garanzia hanno una dotazione finanziaria proporzionata alle proprie passivita' e comunque pari almeno allo 0,8 per cento dell'importo dei depositi protetti delle banche aderenti ad eccezione di quelli indicati all'articolo 96-bis.1, comma 4, come risultante al 31 dicembre dell'anno precedente. 
@@ -39,6 +100,50 @@ Dopo l'articolo 96 sono inseriti i seguenti:
  5. I sistemi di garanzia assicurano di avere accesso a fonti di finanziamento alternative a breve termine per far fronte alle proprie obbligazioni e possono ricorrere a finanziamenti aggiuntivi provenienti da fonti ulteriori. 
  6. La dotazione finanziaria e' investita in attivita' a basso rischio e con sufficiente diversificazione. 
  7. Entro il 31 marzo di ciascun anno la Banca d'Italia informa l'ABE circa l'importo dei depositi protetti dai sistemi di garanzia italiani e dell'importo della dotazione finanziaria dei sistemi al 31 dicembre del precedente anno.».
+
+5.
+                    
+                        
+                            All'articolo 96-bis del decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1, e' sostituito dal seguente: 
+ «1. I sistemi di garanzia tutelano i depositanti: 
+ a) delle banche italiane aderenti, incluse le loro succursali comunitarie e, se previsto dallo statuto, le loro succursali extracomunitarie; 
+ b) delle succursali italiane delle banche extracomunitarie aderenti; 
+ c) delle succursali italiane delle banche comunitarie aderenti.». 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 1, sono inseriti i seguenti: 
+ «1-bis. I sistemi di garanzia: 
+ a) effettuano, nei limiti e secondo le modalita' indicati negli articoli 96-bis.1 e 96-bis.2, rimborsi nei casi di liquidazione coatta amministrativa delle banche italiane e delle succursali italiane di banche extracomunitarie; per le succursali di banche comunitarie operanti in Italia che abbiano aderito in via integrativa a un sistema di garanzia italiano, i rimborsi hanno luogo se e' intervenuto il sistema di garanzia dello Stato di appartenenza; 
+ b) contribuiscono al finanziamento della risoluzione delle banche italiane e delle succursali italiane di banche extracomunitarie secondo le modalita' e nei limiti previsti dal decreto legislativo 16 novembre 2015, n. 180; 
+ c) se previsto dallo statuto, possono intervenire in operazioni di cessione di attivita', passivita', aziende, rami d'azienda, beni e rapporti giuridici individuabili in blocco di cui all'articolo 90, comma 2, se il costo dell'intervento non supera il costo che il sistema, secondo quanto ragionevolmente prevedibile in base alle informazioni disponibili al momento dell'intervento, dovrebbe sostenere per il rimborso dei depositi; 
+ d) se previsto dallo statuto, possono effettuare interventi nei confronti di banche italiane e succursali italiane di banche extracomunitarie per superare lo stato di dissesto o di rischio di dissesto di cui all'articolo 17, comma 1, lettera a), del decreto legislativo 16 novembre 2015, n. 180. 
+ 1-ter. Lo statuto del sistema di garanzia definisce modalita' e condizioni degli interventi di cui al comma 1-bis, lettera d), con particolare riguardo a: 
+ a) gli impegni che la banca beneficiaria dell'intervento deve assumere per rafforzare i propri presidi dei rischi anche al fine di non pregiudicare l'accesso dei depositanti ai depositi; 
+ b) la verifica sul rispetto degli impegni assunti dalla banca ai sensi della lettera a); 
+ c) il costo dell'intervento, che non supera il costo che il sistema, secondo quanto ragionevolmente prevedibile, dovrebbe sostenere per effettuare altri interventi nei casi previsti dalla legge o dallo statuto. 
+ 1-quater. L'intervento di cui al comma 1-bis, lettera d), puo' essere effettuato, se la Banca d'Italia ha accertato che: 
+ a) non e' stata avviata un'azione di risoluzione ai sensi dell'articolo 1, comma 1, lettera f), del decreto legislativo 16 novembre 2015, n. 180] e comunque non ne sussistono le condizioni; e  b) la banca beneficiaria dell'intervento e' in grado di versare i contributi straordinari ai sensi dell'articolo 96.2, comma 3. 
+ 1-quinquies. Dopo che il sistema di garanzia ha effettuato un intervento ai sensi del comma 1-bis, lettera d), le banche aderenti gli forniscono senza indugio, se necessario sotto forma di contributi straordinari, risorse pari a quelle utilizzate per l'intervento, se: 
+ a) la dotazione finanziaria del sistema si e' ridotta a meno del 25 per cento del livello-obiettivo di cui all'articolo 96.1, comma 1, o, se del caso, del diverso livello stabilito dal Ministro dell'economia e delle finanze ai sensi dell'articolo 96.1, comma 3; oppure 
+ b) la dotazione finanziaria del sistema si e' ridotta a meno di due terzi del livello-obiettivo di cui all'articolo 96.1, comma 1, o, se del caso, del diverso livello stabilito dal Ministro dell'economia e delle finanze ai sensi dell'articolo 96.1, comma 3, ed emerge la necessita' di effettuare il rimborso di depositi protetti. 
+ 1-sexies. Finche' il livello-obiettivo di cui all'articolo 96.1, comma 1, o, se del caso, del diverso livello stabilito dal Ministro dell'economia e delle finanze ai sensi dell'articolo 96.1, comma 3 non e' raggiunto, le soglie di cui al comma 1-quinquies sono riferite all'effettiva dotazione finanziaria disponibile.»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i commi 2, 3, 4, 5, 6, 7 e 8 sono abrogati.
 
 Dopo l'articolo 96-bis sono inseriti i seguenti: 
  «Art. 96-bis.1 (Depositi ammissibili al rimborso e ammontare massimo rimborsabile). - 1. Sono ammissibili al rimborso i crediti che possono essere fatti valere nei confronti della banca in liquidazione coatta amministrativa, secondo quanto previsto dalla Sezione III, relativi ai fondi acquisiti dalla banca con obbligo di restituzione, sotto forma di depositi o sotto altra forma, nonche' agli assegni circolari e agli altri titoli di credito ad essi assimilabili. 
@@ -125,11 +230,60 @@ Fermo restando quanto previsto dall'articolo 96-bis, comma 1-bis, lettera d), e 
 
 ## Art. 2. — Modifiche al decreto legislativo 16 novembre 2015, n. 180
 
+1.
+                    
+                        
+                            All'articolo 1, comma 1, del decreto legislativo 16 novembre 2015, n. 180, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                la lettera r) e' sostituita dalla seguente: "r) 'depositi ammissibili al rimborso': i depositi che, ai sensi dell'articolo 96-bis.1, commi 1 e 2, del testo unico bancario, sono astrattamente idonei a essere rimborsati da un sistema di garanzia dei depositanti; 
+ b) la lettera s) e' sostituita dalla seguente: "s) 'depositi protetti': i depositi ammissibili al rimborso che non superano il limite di rimborso da parte del sistema di garanzia dei depositanti previsto dall'articolo 96-bis.1, commi 3 e 4, comma 5, del testo unico bancario.
+
 All'articolo 49, comma 8, lettera b), del decreto legislativo 16 novembre 2015, n. 180, dopo le parole: «depositi protetti» sono inserite le seguenti: «, ad eccezione di quelli indicati all'articolo 96-bis.1, comma 4, del testo unico bancario,».
 
 All'articolo 52, comma 2, lettera c), del decreto legislativo 16 novembre 2015, n. 180, e' aggiunto, in fine, il periodo seguente: «per i depositi ammissibili al rimborso, si tiene conto della compensazione di eventuali debiti del depositante nei confronti della banca, se esigibili alla data dell'avvio della risoluzione, nella misura in cui la compensazione e' possibile a norma delle disposizioni di legge o di previsioni contrattuali applicabili;».
 
+4.
+                    
+                        
+                            All'articolo 81 del decreto legislativo 16 novembre 2015, n. 180, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1, dopo le parole: «depositi protetti» sono inserite le seguenti: «, ad eccezione di quelli indicati all'articolo 96-bis.1, comma 4, del testo unico bancario,»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, dopo le parole: «depositi protetti» sono inserite le seguenti: «, ad eccezione di quelli indicati all'articolo 96-bis.1, comma 4, del testo unico bancario,».
+
 All'articolo 84, comma 2, del decreto legislativo 16 novembre 2015, n. 180, dopo le parole: «depositi protetti» sono inserite le seguenti: «, ad eccezione di quelli indicati all'articolo 96-bis.1, comma 4, del testo unico bancario,».
+
+6.
+                    
+                        
+                            All'articolo 86 del decreto legislativo 16 novembre 2015, n. 180, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1, e' inserito il seguente: 
+ «1-bis. Nei casi previsti dal comma 1, lettera a), il sistema di garanzia subentra nei diritti dei depositanti nei confronti della banca per l'eventuale somma di cui all'articolo 29, comma 3. Nei casi previsti dal comma 1, lettera b), il sistema di garanzia vanta un credito nei confronti della banca in risoluzione pari all'importo erogato, che beneficia della preferenza di cui all'articolo 91, comma 1-bis, lettera b), numero 2), del testo unico bancario.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 6, la parola: «ammessi» e' sostituita dalla seguente «ammissibili» e le parole: «articolo 96-bis, comma 5» sono sostituite dalle seguenti: «articolo 96-bis.1, comma 3».
 
 ## Art. 3. — Informazioni da fornire ai depositanti
 
@@ -158,6 +312,31 @@ Il presente decreto entra in vigore il giorno successivo alla sua pubblicazione 
 I sistemi di garanzia dei depositanti riconosciuti alla data di entrata in vigore del presente decreto possono imputare alla dotazione finanziaria prevista dall'articolo 96.1 del decreto legislativo 1° settembre 1993, n. 385, i contributi gia' versati dalle banche aderenti a partire dal 3 luglio 2015.
 
 Per il 2015 l'importo dei contributi previsti dall'articolo 96.2, comma 1, del decreto legislativo 1° settembre 1993, n. 385, e' determinato tenendo conto dei contributi indicati al comma 2, anche se gia' impiegati per interventi attuati dopo il 3 luglio 2015. In deroga a quanto previsto dall'articolo 96.1, comma 5, per le eventuali obbligazioni assunte in relazione a interventi deliberati dopo il 3 luglio 2015 in conformita' della legislazione vigente i sistemi di garanzia dei depositanti riconosciuti alla data di entrata in vigore del presente decreto legislativo rispondono con la dotazione finanziaria prevista dall'articolo 96.1 del decreto legislativo 1° settembre 1993, n. 385. Resta fermo l'obbligo di raggiungere il livello-obiettivo secondo quanto previsto dall'articolo 96.1 del decreto legislativo 1° settembre 1993, n. 385.
+
+4.
+                    
+                        
+                            Il termine di sette giorni lavorativi previsto dall'articolo 96-bis.2, comma 1, del decreto legislativo 1° settembre 1993, n. 385, si applica a partire dal 1° gennaio 2024. Fino a tale data, il termine entro il quale il sistema di garanzia dei depositanti effettua i rimborsi e' pari a: 
+ 
+                        
+                        
+                            a)
+                            
+                                20 giorni lavorativi fino al 31 dicembre 2018; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                15 giorni lavorativi dal 1° gennaio 2019 al 31 dicembre 2020; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                10 giorni lavorativi dal 1° gennaio 2021 al 31 dicembre 2023.
 
 Fino al 31 dicembre 2023, se il sistema di garanzia dei depositanti non e' in grado di effettuare i rimborsi entro il termine di sette giorni lavorativi previsto dall'articolo 96-bis.2, comma 1, del decreto legislativo 1° settembre 1993, n. 385, esso assicura comunque che ciascun titolare di un deposito protetto che ne abbia fatto richiesta riceva, entro cinque giorni lavorativi dalla richiesta, un importo sufficiente per consentirgli di far fronte alle spese correnti, a valere sull'importo dovuto per il rimborso.
 L'importo e' determinato dal sistema di garanzia, sulla base di criteri stabiliti dallo statuto. Si applica l'articolo 96-bis.2, comma 2, del decreto legislativo 1° settembre 1993, n. 385.

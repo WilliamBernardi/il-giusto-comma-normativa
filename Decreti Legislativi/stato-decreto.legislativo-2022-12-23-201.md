@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-04-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:33Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -42,6 +42,73 @@ Il presente decreto, nell'ambito della competenza legislativa esclusiva dello St
 Le disposizioni del presente decreto costituiscono norme fondamentali di riforma economico-sociale della Repubblica e sono applicate nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla legge costituzionale 18 ottobre 2001, n. 3.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente decreto si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «enti locali»: gli enti di cui all'articolo 2, comma 1, del testo unico delle leggi sull'ordinamento degli enti locali di cui al decreto legislativo 18 agosto 2000 n. 267; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «enti competenti»: gli enti cui alla lettera a), nonche' gli altri soggetti competenti a regolare o organizzare i servizi di interesse economico generale di livello locale, ivi inclusi gli enti di governo degli ambiti o bacini di cui all'articolo 3-bis del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, e le forme associative tra enti locali previste dall'ordinamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «servizi di interesse economico generale di livello locale» o «servizi pubblici locali di rilevanza economica»: i servizi erogati o suscettibili di essere erogati dietro corrispettivo economico su un mercato, che non sarebbero svolti senza un intervento pubblico o sarebbero svolti a condizioni differenti in termini di accessibilita' fisica ed economica, continuita', non discriminazione, qualita' e sicurezza, che sono previsti dalla legge o che gli enti locali, nell'ambito delle proprie competenze, ritengono necessari per assicurare la soddisfazione dei bisogni delle comunita' locali, cosi' da garantire l'omogeneita' dello sviluppo e la coesione sociale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «servizi di interesse economico generale di livello locale a rete» o «servizi pubblici locali a rete»: i servizi di interesse economico generale di livello locale che sono suscettibili di essere organizzati tramite reti strutturali o collegamenti funzionali necessari tra le sedi di produzione o di svolgimento della prestazione oggetto di servizio, sottoposti a regolazione ad opera di un'autorita' indipendente; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «diritto esclusivo»: il diritto, concesso da un'autorita' competente mediante una disposizione legislativa, regolamentare o amministrativa, compatibilmente con la disciplina dell'Unione europea, avente l'effetto di riservare a un unico operatore economico l'esercizio di un'attivita' in un ambito determinato; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «diritto speciale»: il diritto, concesso da un'autorita' competente mediante una disposizione legislativa, regolamentare o amministrativa, compatibilmente con la disciplina dell'Unione europea, avente l'effetto di riservare a due o piu' operatori economici l'esercizio di un'attivita' in un ambito determinato; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «costi di riferimento»: indicatori di costo, che stimano le risorse necessarie alla gestione del servizio secondo criteri di efficienza, o costi benchmark; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «tariffe»: i prezzi massimi unitari dei servizi al netto delle imposte; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «costi efficienti»: costi di un'impresa media del settore gestita in modo efficiente ed adeguatamente dotata di mezzi e impianti per la prestazione del servizio.
 
 ## Art. 3. — Principi generali del servizio pubblico locale
 
@@ -80,6 +147,31 @@ Ferme restando le competenze delle autorita' nazionali in materia di regolazione
 Al fine di garantire il rispetto del principio di cui al comma 1, gli enti di governo dell'ambito o le Autorita' specificamente istituite per la regolazione e il controllo dei servizi pubblici locali non possono direttamente o indirettamente partecipare a soggetti incaricati della gestione del servizio. Non si considerano partecipate indirettamente le societa' formate o partecipate dagli enti locali ricompresi nell'ambito.
 
 Qualora gli enti locali titolari del servizio e a cui spettano le funzioni di regolazione assumano direttamente o per mezzo di soggetto partecipato la gestione del servizio, le strutture, i servizi, gli uffici e le unita' organizzative dell'ente ed i loro dirigenti e dipendenti preposti a tali funzioni di regolazione non possono svolgere alcuna funzione o alcun compito inerente alla gestione ed al suo affidamento.
+
+4.
+                        
+                            
+                                Non possono essere conferiti incarichi professionali, di amministrazione o di controllo societario, ne' incarichi inerenti alla gestione del servizio: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai componenti di organi di indirizzo politico dell'ente competente all'organizzazione del servizio o alla sua regolazione, vigilanza o controllo, nonche' ai dirigenti e ai responsabili degli uffici o dei servizi direttamente preposti all'esercizio di tali funzioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ai componenti di organi di indirizzo politico di ogni altro organismo che espleti funzioni di stazione appaltante, di regolazione, di indirizzo o di controllo del servizio, nonche' ai dirigenti e ai responsabili degli uffici o dei servizi direttamente preposti all'esercizio di tali funzioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai consulenti per l'organizzazione o regolazione del servizio.
 
 Le inconferibilita' di cui al comma 4, lettere a), b), e c), si intendono cessate decorso un anno dalla conclusione degli incarichi ivi elencati.
 
@@ -153,6 +245,38 @@ L'attribuzione di diritti speciali o esclusivi e' ammessa, in conformita' al dir
 
 Scelta della modalita' di gestione 
  del servizio pubblico locale
+
+1.
+                        
+                            
+                                Tenuto conto del principio di autonomia nell'organizzazione dei servizi e dei principi di cui all'articolo 3, l'ente locale e gli altri enti competenti, nelle ipotesi in cui ritengono che il perseguimento dell'interesse pubblico debba essere assicurato affidando il servizio pubblico a un singolo operatore o a un numero limitato di operatori, provvedono all'organizzazione del servizio mediante una delle seguenti modalita' di gestione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    affidamento a terzi mediante procedura a evidenza pubblica, secondo le modalita' previste dal dall'articolo 15, nel rispetto del diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    affidamento a societa' mista, secondo le modalita' previste dall'articolo 16, nel rispetto del diritto dell'Unione europea; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    affidamento a societa' in house, nei limiti fissati dal diritto dell'Unione europea, secondo le modalita' previste dall'articolo 17; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    limitatamente ai servizi diversi da quelli a rete, gestione in economia o mediante aziende speciali di cui all'articolo 114 del testo unico delle leggi sull'ordinamento degli enti locali di cui al decreto legislativo n. 267 del 2000.
 
 Ai fini della scelta della modalita' di gestione del servizio e della definizione del rapporto contrattuale, l'ente locale e gli altri enti competenti tengono conto delle caratteristiche tecniche ed economiche del servizio da prestare, inclusi i profili relativi alla qualita' del servizio e agli investimenti infrastrutturali, della situazione delle finanze pubbliche, dei costi per l'ente locale e per gli utenti, dei risultati prevedibilmente attesi in relazione alle diverse alternative, anche con riferimento a esperienze paragonabili, nonche' dei risultati della eventuale gestione precedente del medesimo servizio sotto il profilo degli effetti sulla finanza pubblica, della qualita' del servizio offerto, dei costi per l'ente locale e per gli utenti e degli investimenti effettuati. Nella valutazione di cui al presente comma, l'ente locale e gli altri enti competenti tengono altresi' conto dei dati e delle informazioni che emergono dalle verifiche periodiche di cui all'articolo 30.
 
@@ -238,6 +362,133 @@ I rapporti tra gli enti affidanti e i soggetti affidatari del servizio pubblico,
 
 Il contratto, nel rispetto dei principi del presente decreto, contiene previsioni dirette ad assicurare, per tutta la durata dell'affidamento, l'assolvimento degli obblighi di servizio pubblico, nonche' l'equilibrio economico-finanziario della gestione secondo criteri di efficienza, promuovendo il progressivo miglioramento dello stato delle infrastrutture e della qualita' delle prestazioni erogate.
 
+3.
+                        
+                            
+                                Fatto salvo quanto previsto dalle discipline di settore, il contratto di servizio contiene clausole relative almeno ai seguenti aspetti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il regime giuridico prescelto per la gestione del servizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la durata del rapporto contrattuale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli obiettivi di efficacia ed efficienza nella prestazione dei servizi, nonche' l'obbligo di raggiungimento dell'equilibrio economico-finanziario della gestione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli obblighi di servizio pubblico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le condizioni economiche del rapporto, incluse le modalita' di determinazione delle eventuali compensazioni economiche a copertura degli obblighi di servizio pubblico e di verifica dell'assenza di sovracompensazioni; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    gli strumenti di monitoraggio sul corretto adempimento degli obblighi contrattuali, ivi compreso il mancato raggiungimento dei livelli di qualita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli obblighi di informazione e di rendicontazione nei confronti dell'ente affidante, o di altri enti preposti al controllo e al monitoraggio delle prestazioni, con riferimento agli obiettivi di efficacia ed efficienza, ai risultati economici e gestionali e al raggiungimento dei livelli qualitativi e quantitativi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    la previsione delle penalita' e delle ipotesi di risoluzione del contratto in caso di grave e ripetuta violazione degli obblighi contrattuali o di altri inadempimenti che precludono la prosecuzione del rapporto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    l'obbligo di mettere a disposizione i dati e le informazioni prodromiche alle successive procedure di affidamento; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le modalita' di risoluzione delle controversie con gli utenti; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le garanzie finanziarie e assicurative; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    la disciplina del recesso e delle conseguenze derivanti da ogni ipotesi di cessazione anticipata dell'affidamento, nonche' i criteri per la determinazione degli indennizzi; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    l'obbligo del gestore di rendere disponibili all'ente affidante i dati acquisiti e generati nella fornitura dei servizi agli utenti, ai sensi dell'articolo 50-quater del decreto legislativo 7 marzo 2005, n. 82.
+
+4.
+                        
+                            
+                                Fatto salvo quanto previsto dalle discipline di settore, per quanto attiene ai servizi resi su richiesta individuale dell'utente, nel contratto di cui al comma 1 sono regolati i seguenti ulteriori elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la struttura, i livelli e le modalita' di aggiornamento delle tariffe e dei prezzi a carico dell'utenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli indicatori e i livelli ambientali, qualitativi e quantitativi delle prestazioni da erogare, definiti in termini di livelli specifici e di livelli generali, e i relativi obiettivi di miglioramento, inclusi quelli volti a garantire un migliore accesso al servizio da parte delle persone diversamente abili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione delle modalita' per proporre reclamo nei confronti dei gestori, nonche' delle modalita' e dei tempi con i quali devono essere comunicati i relativi esiti agli utenti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di ristoro dell'utenza, in caso di violazione dei livelli qualitativi del servizio e delle condizioni generali del contratto;
+
 Al contratto di servizio sono allegati il programma degli investimenti, il piano economico-finanziario e, per i servizi di cui al comma 4, il programma di esercizio.
 
 ## Art. 25. — Carta dei servizi e obblighi di trasparenza dei gestori
@@ -250,7 +501,71 @@ Il gestore da' adeguata pubblicita', anche a mezzo del proprio sito internet, ne
 
 Fatte salve le competenze delle autorita' di regolazione e le disposizioni contenute nelle norme di settore, gli enti affidanti definiscono le tariffe dei servizi in misura tale da assicurare l'equilibrio economico-finanziario dell'investimento e della gestione, nonche' il perseguimento di recuperi di efficienza che consentano la riduzione dei costi a carico della collettivita', in armonia con gli obiettivi di carattere sociale, di tutela dell'ambiente e di uso efficiente delle risorse, tenendo conto della legislazione nazionale e del diritto dell'Unione europea in materia.
 
+2.
+                        
+                            
+                                Per la determinazione della tariffa si osservano i seguenti criteri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    correlazione tra costi efficienti e ricavi finalizzata al raggiungimento dell'equilibrio economico e finanziario della gestione, previa definizione e quantificazione degli oneri di servizio pubblico e degli oneri di ammortamento tecnico-finanziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    equilibrato rapporto tra finanziamenti raccolti e capitale investito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazione dell'entita' dei costi efficienti di gestione delle opere, tenendo conto anche degli investimenti e della qualita' del servizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adeguatezza della remunerazione del capitale investito, coerente con le prevalenti condizioni di mercato.
+
 Fermo restando quanto stabilito dalle discipline di settore, gli enti affidanti possono prevedere tariffe agevolate per specifiche categorie di utenti in condizione di disagio economico o sociale o diversamente abili, provvedendo alla relativa compensazione in favore dei gestori.
+
+4.
+                        
+                            
+                                Allo scopo di conseguire il graduale miglioramento della qualita' e dell'efficienza dei servizi, gli enti affidanti, nel rispetto delle discipline di settore, fissano le modalita' di aggiornamento delle tariffe con metodo del «price cap», da intendersi come limite massimo per la variazione di prezzo, sulla base, in particolare, dei seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tasso di inflazione programmata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    incremento per i nuovi investimenti effettuati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    obiettivo di recupero di efficienza prefissato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    obiettivi di qualita' del servizio prefissati, definiti secondo parametri misurabili.
 
 Gli enti affidanti possono prevedere che l'aggiornamento della tariffa sia effettuato con metodi diversi da quello di cui al comma 4 nelle ipotesi in cui, in relazione alle caratteristiche del servizio, tale scelta risulti, sulla base di adeguata motivazione, maggiormente funzionale al raggiungimento degli obiettivi di miglioramento della qualita' e dell'efficienza del servizio.
 
@@ -283,6 +598,31 @@ I comuni o le loro eventuali forme associative, con popolazione superiore a 5.00
 
 Nella ricognizione di cui al comma 1 l'ente, tenendo conto delle valutazioni conclusive sull'andamento della gestione di ciascun servizio affidato, individua le possibili cause dell'eventuale andamento negativo. Se da tali valutazioni emerge un andamento gestionale insoddisfacente per cause dipendenti dall'attivita' del gestore, l'ente adotta un atto di indirizzo, allegato alla ricognizione, con cui impone al gestore di elaborare, entro il termine massimo di tre mesi, un piano per intraprendere le necessarie misure correttive, che include un cronoprogramma di azioni per il ripristino e il miglioramento della qualita' del servizio, per efficientare i costi e per ripianare le eventuali perdite. L'atto di indirizzo e il piano sono trasmessi all'Autorita' nazionale anticorruzione (ANAC) che provvede a pubblicarli sul portale telematico di cui all'articolo 31, comma 2. L'Autorita' garante della concorrenza e del mercato, sentite le altre autorita' competenti, effettua un'attivita' di monitoraggio sugli atti di indirizzo e sull'efficacia delle misure correttive previste e predispone annualmente una relazione al Governo e alle Camere.
 
+1-ter.
+                        
+                            
+                                L'andamento si considera insoddisfacente ai sensi del comma 1-bis quando ricorre almeno una delle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il gestore ha registrato perdite significative negli ultimi due esercizi tali da compromettere le condizioni di equilibrio economico-finanziario; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i risultati gestionali risultano significativamente insufficienti rispetto agli obiettivi contrattuali prefissati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    almeno due indicatori di qualita' del servizio erogato risultano significativamente inferiori agli indicatori e ai livelli minimi di qualita' dei servizi individuati ai sensi degli articoli 7 e 8.
+
 In caso di grave inadempimento da parte del gestore nell'attuazione del piano di cui al comma 1-bis ((o in caso)) di mancata adozione da parte del gestore del piano entro il termine di cui al comma 1-bis ovvero in caso di adozione di un piano insufficiente o inefficace, si applica l'articolo 27, comma 3.
 
 La ricognizione di cui al comma 1 e' contenuta in un'apposita relazione ed e' aggiornata ogni anno, contestualmente all'analisi dell'assetto delle societa' partecipate di cui all'articolo 20 del decreto legislativo n. 175 del 2016. Nel caso di servizi affidati a societa' in house, la relazione di cui al periodo precedente costituisce appendice della relazione di cui al predetto articolo 20 del decreto legislativo n. 175 del 2016.
@@ -297,13 +637,63 @@ Gli atti di cui al comma 1 , i provvedimenti di affidamento di cui all'articolo 
 
 I medesimi atti sono resi accessibili anche attraverso la piattaforma unica della trasparenza gestita da Anac, che costituisce punto di accesso unico per gli atti e i dati relativi ai servizi pubblici locali di rilevanza economica attraverso il collegamento al luogo di prima pubblicazione di cui al comma 2.
 
+4.
+                        
+                            
+                                Sulla piattaforma unica della trasparenza gestita dall'ANAC sono anche resi accessibili, secondo le modalita' di cui al comma 3: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli ulteriori dati relativi ai servizi pubblici locali di rilevanza economica contenuti nella banca dati nazionale sui contratti pubblici; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le rilevazioni periodiche in materia di trasporto pubblico locale pubblicate dall'Osservatorio di cui all'articolo 1, comma 300, della legge 24 dicembre 2007, n. 244; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli atti e gli indicatori cui agli articoli 7, 8 e 9, nonche', ove disponibili, le informazioni sugli effettivi livelli di qualita' conseguiti dai gestori pubblicati dalle autorita' di settore sui propri siti istituzionali.
+
 Gli atti e i dati di cui al presente articolo sono resi disponibili dall'ente che li produce in conformita' a quanto previsto dall'articolo 50 del decreto legislativo n. 82 del 2005.
 
 Gli enti locali, le amministrazioni statali, le Regioni e le Autorita' di regolazione hanno accesso alla piattaforma dell'ANAC, ai sensi dell'articolo 50 del decreto legislativo 7 marzo 2005, n. 82, anche al fine di esercitare i poteri di verifica e monitoraggio rispettivamente attribuiti dalla normativa vigente.
 
 ## Art. 31-bis. — (Sanzioni)
 
-) della relazione di cui all'articolo 30, comma 2, tale da non consentirne una compiuta valutazione, l'ANAC comunica all'ente locale interessato il termine perentorio, non superiore a trenta giorni, per le integrazioni ritenute necessarie. Decorso il termine di cui al primo periodo, l'ANAC applica la sanzione amministrativa pecuniaria di cui al comma 1 del presente articolo.
+1.
+                        
+                            
+                                L'ANAC applica la sanzione amministrativa pecuniaria prevista dall'articolo 20, comma 7, del testo unico in materia di societa' a partecipazione pubblica, di cui al decreto legislativo 19 agosto 2016, n. 175, in caso di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    mancata adozione da parte dell'ente locale della relazione di cui all'articolo 30, comma 2; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancata pubblicazione della relazione di cui all'articolo 30, comma 2, nel sito internet istituzionale dell'ente affidante ai sensi dell'articolo 31, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    mancata adozione da parte dell'ente locale dell'atto di indirizzo ai sensi dell'articolo 30, comma 1-bis.
+
+((Nei casi di cui al comma 1, nonche' in caso di incompletezza)) della relazione di cui all'articolo 30, comma 2, tale da non consentirne una compiuta valutazione, l'ANAC comunica all'ente locale interessato il termine perentorio, non superiore a trenta giorni, per le integrazioni ritenute necessarie. Decorso il termine di cui al primo periodo, l'ANAC applica la sanzione amministrativa pecuniaria di cui al comma 1 del presente articolo.
 
 ## - Titolo VI Disposizioni finali
 
@@ -342,6 +732,74 @@ Le disposizioni del presente decreto non si applicano ai servizi di distribuzion
 Le disposizioni del presente decreto non si applicano agli impianti di trasporti a fune per la mobilita' turistico-sportiva in aree montane.
 
 ## Art. 37. — Abrogazioni e ulteriori disposizioni di coordinamento
+
+1.
+                        
+                            
+                                Sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        l'articolo 1, comma 1, numeri 8), 10), 11) e 17), del regio decreto 15 ottobre 1925, n. 2578;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        gli articoli 112, 113 e 117, del testo unico delle leggi sull'ordinamento degli enti locali di cui al decreto legislativo 18 agosto 2000, n. 267;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        l'articolo 35, commi 6, 7, 9, 10 e 11, della legge 28 dicembre 2001, n. 448;
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        l'articolo 2, commi 28 e 38, della legge 24 dicembre 2007, n. 244;
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        l'articolo 2, comma 29-bis, del decreto legislativo 16 gennaio 2008, n. 4;
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        l'articolo 3-bis, comma 1-bis, quarto, quinto e sesto periodo, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148;
+                                    
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        gli articoli 8, 25, commi 6 e 7, e 26-bis del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27;
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        l'articolo 34, commi 20, 21, e 25, del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221.
 
 All'articolo 3-bis, comma 1-bis, del decreto-legge n. 138 del 2011, convertito, con modificazioni, dalla legge n. 148 del 2011, il terzo periodo e' sostituito dal seguente: «Le deliberazioni degli enti di governo di cui al comma 1 sono validamente assunte nei competenti organi degli stessi senza necessita' di ulteriori deliberazioni, preventive o successive da parte degli organi degli enti locali.».
 

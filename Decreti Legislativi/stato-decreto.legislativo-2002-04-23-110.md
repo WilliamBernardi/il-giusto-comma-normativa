@@ -8,8 +8,8 @@ codice_redazionale: 002G0144
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,129 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli 
 Sono trasferite alla regione Friuli-Venezia Giulia tutte le funzioni in materia di energia che concernono le attivita' di ricerca, produzione, trasporto e distribuzione di qualunque forma di energia, salvo quelle espressamente previste dall'articolo 2.
 
 ## Art. 2. — Funzioni e compiti riservati allo Stato in materia di energia
+
+1.
+                    
+                        
+                            Restano riservate allo Stato le funzioni e competenze concernenti:
+ 
+                        
+                        
+                            a)
+                            
+                                l'elaborazione e la definizione degli obiettivi e delle linee della politica energetica nazionale, nonche' l'adozione degli atti di indirizzo e coordinamento per una articolata programmazione energetica a livello regionale nei limiti di cui al comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'individuazione degli indirizzi generali inerenti la ricerca scientifica in campo energetico;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le determinazioni inerenti l'importazione, l'esportazione e lo stoccaggio di energia limitatamente allo stoccaggio di metano in giacimento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la definizione dei criteri generali tecnico-costruttivi e le norme tecniche essenziali degli impianti di produzione, conservazione, stoccaggio e distribuzione dell'energia;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la determinazione delle caratteristiche tecniche e merceologiche dell'energia prodotta, distribuita e consumata;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la vigilanza sull'Ente nazionale per le nuove tecnologie, l'energia e l'ambiente (ENEA);
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'impiego di materiali radioattivi o macchine radiogene;
+
+                            
+                        
+                        
+                            h)
+                            
+                                la costruzione e l'esercizio degli impianti di produzione di energia elettrica di potenza superiore a 300 MW termici, salvo quelli che producono energia da fonti rinnovabili di energia e da rifiuti ai sensi del decreto legislativo 5 febbraio 1997, n. 22, nonche' le reti per il trasporto dell'energia elettrica con tensione superiore a 150 KV, il rilascio delle concessioni per l'esercizio delle attivita' elettriche di competenza statale, e le reti di interesse nazionale di oleodotti e gasdotti;
+
+                            
+                        
+                        
+                            i)
+                            
+                                le attivita' connesse alla gestione della rete di trasmissione nazionale di energia elettrica di cui all'articolo 3 del decreto legislativo 16 marzo 1999, n. 79, e successive modifiche ed integrazioni;
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'emanazione di norme tecniche relative alla realizzazione di elettrodotti;
+
+                            
+                        
+                        
+                            m)
+                            
+                                la definizione degli obiettivi e dei programmi nazionali di cui alla lettera a) in materia di fonti rinnovabili e di risparmio energetico;
+
+                            
+                        
+                        
+                            n)
+                            
+                                gli impianti nucleari, le sorgenti di radiazioni ionizzanti, i rifiuti radioattivi, le materie fissili o radioattive, compreso il relativo trasporto, nonche' gli adempimenti di protezione in materia, ai sensi della normativa vigente;
+
+                            
+                        
+                        
+                            o)
+                            
+                                la prospezione, ricerca e coltivazione di idrocarburi in mare, comprese le funzioni di polizia mineraria;
+
+                            
+                        
+                        
+                            p)
+                            
+                                la prospezione, ricerca e coltivazione di idrocarburi in terraferma, comprese le funzioni di polizia mineraria;
+
+                            
+                        
+                        
+                            q)
+                            
+                                l'imposizione delle scorte petrolifere obbligatorie ai sensi delle norme vigenti;
+
+                            
+                        
+                        
+                            r)
+                            
+                                la determinazione delle tariffe da corrispondersi da parte dei richiedenti per autorizzazioni, verifiche, collaudi di competenza dello Stato;
+
+                            
+                        
+                        
+                            s)
+                            
+                                la rilevazione, l'elaborazione, l'analisi e la diffusione dei dati statistici nazionali, anche ai fini del rispetto degli obblighi comunitari, finalizzati alle funzioni inerenti la programmazione energetica e al coordinamento con le regioni e gli enti locali.
 
 Gli atti di cui al comma 1, lettere a) e m), vincolano la regione solo al conseguimento degli obiettivi o risultati in essi stabiliti. L'emanazione delle norme di organizzazione eventualmente occorrenti per l'attuazione degli atti predetti e' riservata alla regione.
 
@@ -44,6 +167,66 @@ Il distretto minerario di Trieste e' soppresso.
 La regione subentra nella titolarita' di tutti i rapporti giuridici connessi all'esercizio delle funzioni e dei compiti del soppresso distretto minerario, nella proprieta' degli immobili, delle attrezzature e degli arredi, nonche', salva disdetta, nei contratti di locazione degli immobili.
 
 ## Art. 5. — Funzioni e compiti riservati allo Stato in materia di miniere e risorse geotermiche
+
+1.
+                    
+                        
+                            Restano riservate allo Stato le funzioni e competenze concernenti:
+ 
+                        
+                        
+                            a)
+                            
+                                la polizia mineraria per le risorse collocate in mare;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la promozione della ricerca mineraria all'estero;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la determinazione degli indirizzi della politica mineraria nazionale ed i relativi programmi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'inventario nazionale delle risorse geotermiche;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la definizione dei contenuti e della durata dei corsi per il diploma di cui all'articolo 27, terzo comma, del decreto del Presidente della Repubblica 9 aprile 1959, n. 128, come sostituito dall'articolo 20 del decreto legislativo 25 novembre 1996, n. 624;
+
+                            
+                        
+                        
+                            f)
+                            
+                                la determinazione dei requisiti generali dei progetti di riassetto ambientale che la regione deve tenere presenti nei procedimenti per la concessione degli speciali contributi previsti dalla legislazione statale;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la determinazione degli indirizzi per la raccolta dei dati in materia di sicurezza e salute dei lavoratori nel settore minerario;
+
+                            
+                        
+                        
+                            h)
+                            
+                                il riconoscimento dell'idoneita' dei prodotti esplodenti e la tenuta del relativo elenco.
 
 ## Art. 6. — Trasferimento di funzioni in materia di incentivi alle imprese
 

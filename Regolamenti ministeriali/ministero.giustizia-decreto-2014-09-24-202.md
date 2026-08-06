@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2014-09-24;202
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,80 @@ Il presente regolamento disciplina, altresi', i requisiti e le modalita' di iscr
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Ministero»: il Ministero della giustizia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «legge»: la legge 27 gennaio 2012, n. 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «registro»: il registro degli organismi deputati a gestire i procedimenti di composizione della crisi da sovraindebitamento e di liquidazione del patrimonio del debitore sovraindebitato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «organismo»: l'articolazione interna di uno degli enti pubblici individuati dalla legge e dal presente regolamento che, anche in via non esclusiva, e' stabilmente destinata all'erogazione del servizio di gestione della crisi da sovraindebitamento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «gestione della crisi da sovraindebitamento»: il servizio reso dall'organismo allo scopo di gestire i procedimenti di composizione della crisi da sovraindebitamento e di liquidazione del patrimonio del debitore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «gestore della crisi»: la persona fisica che, individualmente o collegialmente, svolge la prestazione inerente alla gestione dei procedimenti di composizione della crisi da sovraindebitamento e di liquidazione del patrimonio del debitore; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «ausiliari»: i soggetti di cui si avvale il gestore della crisi per lo svolgimento della prestazione inerente alla gestione dei procedimenti di composizione della crisi da sovraindebitamento e di liquidazione del patrimonio del debitore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «responsabile»: il responsabile della tenuta del registro; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «referente»: la persona fisica che, agendo in modo indipendente secondo quanto previsto dal regolamento dell'organismo, indirizza e coordina l'attivita' dell'organismo e conferisce gli incarichi ai gestori della crisi; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «regolamento dell'organismo»: l'atto adottato dall'organismo contenente le norme di autodisciplina.
+
 ## - Capo II Sezione I     Requisiti e procedimento di iscrizione
 
 ## Art. 3. — Istituzione del registro
@@ -49,6 +123,28 @@ Il presente regolamento disciplina, altresi', i requisiti e le modalita' di iscr
 E' istituito il registro degli organismi autorizzati alla gestione della crisi da sovraindebitamento.
 
 Il registro e' tenuto presso il Ministero nell'ambito delle risorse umane, finanziarie e strumentali gia' esistenti presso il Dipartimento per gli affari di giustizia e ne e' responsabile il direttore generale della giustizia civile. Il direttore generale della giustizia civile puo' delegare una persona con qualifica dirigenziale o un magistrato ed avvalersi, al fine di esercitare la vigilanza, dell'ispettorato generale del Ministero. Il Ministero e' altresi' titolare del trattamento dei dati personali.
+
+3.
+                        
+                            
+                                Il registro e' articolato in modo da contenere le seguenti annotazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sezione A: 
+ 1) organismi iscritti di diritto a norma dell'articolo 4, comma 2, del presente regolamento; 
+ 2) elenco dei gestori della crisi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sezione B: 
+ 1) altri organismi; 
+ 2) elenco dei gestori della crisi.
 
 Il responsabile cura il continuo aggiornamento dei dati del registro e puo' prevedere ulteriori integrazioni delle annotazioni in conformita' alle previsioni del presente regolamento.
 
@@ -62,11 +158,125 @@ Nel registro sono iscritti, a domanda, gli organismi costituiti dai Comuni, dall
 
 Gli organismi di conciliazione costituiti presso le camere di commercio, industria, artigianato e agricoltura ai sensi dell'articolo 2 della legge 29 dicembre 1993, n. 580, il segretariato sociale costituito ai sensi dell'articolo 22, comma 4, lettera a), della legge 8 novembre 2000, n. 328 e gli ordini professionali degli avvocati, dei commercialisti ed esperti contabili e dei notai sono iscritti di diritto, su semplice domanda, anche quando associati tra loro.
 
+3.
+                        
+                            
+                                Il responsabile, per l'iscrizione degli organismi di cui alla sezione B del registro, verifica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che l'organismo sia costituito quale articolazione interna di uno degli enti pubblici di cui al comma 1; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esistenza di un referente dell'organismo cui sia garantito un adeguato grado di indipendenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il rilascio di polizza assicurativa con massimale non inferiore a un milione di euro per le conseguenze patrimoniali comunque derivanti dallo svolgimento del servizio di gestione della crisi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero dei gestori della crisi, non inferiore a cinque, che abbiano dichiarato la disponibilita' a svolgere le funzioni di gestione della crisi in via esclusiva per l'organismo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la conformita' del regolamento dell'organismo alle disposizioni del presente decreto; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la sede dell'organismo.
+
 Il responsabile, per l'iscrizione degli organismi di cui alla sezione A del registro, verifica la sussistenza dei soli requisiti di cui al comma 3, lettere b), c) ed e).
+
+5.
+                        
+                            
+                                Il responsabile verifica i requisiti di qualificazione professionale dei gestori della crisi iscritti negli elenchi di cui alle sezioni A e B, che consistono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nel possesso di laurea magistrale, o di titolo di studio equipollente, in materie economiche o giuridiche; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel possesso di una specifica formazione acquisita tramite la partecipazione a corsi di perfezionamento istituiti a norma dell'articolo 16 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162, di durata non inferiore a duecento ore nell'ambito disciplinare della crisi dell'impresa e di sovraindebitamento, anche del consumatore. I corsi di perfezionamento sono costituiti con gli insegnamenti concernenti almeno i seguenti settori disciplinari: diritto civile e commerciale, diritto fallimentare e dell'esecuzione civile, economia aziendale, diritto tributario e previdenziale. La specifica formazione di cui alla presente lettera puo' essere acquisita anche mediante la partecipazione ad analoghi corsi organizzati dai soggetti indicati al comma 2 in convenzione con universita' pubbliche o private; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nello svolgimento presso uno o piu' organismi, curatori fallimentari, commissari giudiziali, professionisti indipendenti ai sensi del regio decreto 16 marzo 1942, n. 267, professionisti delegati per le operazioni di vendita nelle procedure esecutive immobiliari ovvero nominati per svolgere i compiti e le funzioni dell'organismo o del liquidatore a norma dell'articolo 15 della legge, di un periodo di tirocinio, anche in concomitanza con la partecipazione ai corsi di cui alla lettera b), di durata non inferiore a mesi sei che abbia consentito l'acquisizione di competenze mediante la partecipazione alle fasi di elaborazione ed attestazione di accordi e piani omologati di composizione della crisi da sovraindebitamento, di accordi omologati di ristrutturazione dei debiti, di piani di concordato preventivo e di proposte di concordato fallimentare omologati, di verifica dei crediti e di accertamento del passivo, di amministrazione e di liquidazione dei beni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nell'acquisizione di uno specifico aggiornamento biennale, di durata complessiva non inferiore a quaranta ore, nell'ambito disciplinare della crisi dell'impresa e di sovraindebitamento, anche del consumatore, acquisito presso uno degli ordini professionali di cui al comma 2 ovvero presso un'universita' pubblica o privata.
 
 Per i professionisti appartenenti agli ordini professionali di cui al comma 2 la durata dei corsi di cui al comma 5, lettera b), e' di quaranta ore. Gli ordinamenti professionali possono individuare specifici casi di esenzione dall'applicazione delle disposizioni di cui al comma 5, lettere b) e d), ovvero fissare i criteri di equipollenza tra i corsi di formazione e di aggiornamento biennale di cui al presente articolo e i corsi di formazione professionale. Ai medesimi professionisti non si applicano le disposizioni di cui al comma 5, lettera c).
 
 Agli elenchi dei gestori della crisi degli organismi di cui alla sezione A possono essere iscritti anche soggetti diversi dai professionisti, purche' muniti dei requisiti di cui al presente articolo.
+
+8.
+                        
+                            
+                                Il responsabile verifica altresi' il possesso da parte dei gestori della crisi iscritti negli elenchi di cui alle sezioni A e B dei seguenti requisiti di onorabilita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    non versare in una delle condizioni di ineleggibilita' o decadenza previste dall'articolo 2382 del codice civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non essere stati sottoposti a misure di prevenzione disposte dall'autorita' giudiziaria ai sensi del decreto legislativo 6 settembre 2011, n. 159; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non essere stati condannati con sentenza passata in giudicato, salvi gli effetti della riabilitazione: 
+ 1) a pena detentiva per uno dei reati previsti dalle norme che disciplinano l'attivita' bancaria, finanziaria, mobiliare, assicurativa e dalle norme in materia di mercati e valori mobiliari, di strumenti di pagamento; 
+ 2) alla reclusione per uno dei delitti previsti nel titolo XI del libro V del codice civile, nel regio decreto 16 marzo 1942, n. 267, nonche' dall'articolo 16 della legge; 
+ 3) alla reclusione per un tempo non inferiore a un anno per un delitto contro la pubblica amministrazione, contro la fede pubblica, contro il patrimonio, contro l'ordine pubblico, contro l'economia pubblica ovvero per un delitto in materia tributaria; 
+ 4) alla reclusione per un tempo superiore a due anni per un qualunque delitto non colposo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non avere riportato una sanzione disciplinare diversa dall'avvertimento.
 
 La documentazione comprovante il possesso dei requisiti di cui al presente articolo, salvo quelli di cui al comma 3, lettera c) e al comma 5, lettera c), e' presentata ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica del 28 dicembre 2000, n. 445. Il possesso del requisito di cui al comma 3, lettera c), e' dimostrato mediante la produzione di copia della polizza assicurativa mentre quello del requisito di cui al comma 5, lettera c), e' comprovato con la produzione dell'attestazione di compiuto tirocinio sottoscritta dall'organismo o dal professionista presso il quale e' stato svolto.
 
@@ -135,6 +345,24 @@ Chiunque presti la propria opera o il proprio servizio nell'organismo e' tenuto 
 
 Al gestore della crisi e ai suoi ausiliari e' fatto divieto di assumere diritti o obblighi connessi, direttamente o indirettamente, con gli affari trattati, ad eccezione di quelli strettamente inerenti alla prestazione dell'opera o del servizio. Agli stessi e' fatto divieto di percepire, in qualunque forma, compensi o utilita' direttamente dal debitore.
 
+3.
+                        
+                            
+                                Al gestore della crisi e' fatto, altresi', obbligo di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sottoscrivere per ciascun affare per il quale e' designato una dichiarazione di indipendenza. Il gestore della crisi e' indipendente quando non e' legato al debitore e a coloro che hanno interesse all'operazione di composizione o di liquidazione da rapporti di natura personale o professionale tali da comprometterne l'indipendenza; in ogni caso, il gestore della crisi deve essere in possesso dei requisiti previsti dall'articolo 2399 del codice civile e non deve, neanche per il tramite di soggetti con i quali e' unito in associazione professionale, avere prestato negli ultimi cinque anni attivita' di lavoro subordinato o autonomo in favore del debitore ovvero partecipato agli organi di amministrazione o di controllo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corrispondere immediatamente a ogni richiesta del responsabile in relazione alle previsioni contenute nel presente regolamento.
+
 Il gestore della crisi, prima di dare inizio alla gestione dell'affare, sottoscrive la dichiarazione di cui al comma 3, lettera a), e la rende nota al tribunale a norma dell'articolo 10, comma 2.
 
 ## Art. 12.
@@ -149,6 +377,52 @@ Monitoraggio e certificazione di qualita'
 
 Il Ministero procede annualmente, congiuntamente al Ministero dello sviluppo economico per i procedimenti di composizione della crisi da sovraindebitamento del consumatore, al monitoraggio statistico dei procedimenti di composizione della crisi da sovraindebitamento e di liquidazione del patrimonio svolti presso gli organismi, anche sulla base dei dati trasmessi a norma del comma 2.
 Il Ministero, per il tramite della Direzione generale di statistica, provvede al monitoraggio statistico di cui al periodo precedente nei modi e nei tempi stabiliti da circolari o atti amministrativi equipollenti e con l'ausilio dell'Istituto nazionale di statistica.
+
+2.
+                        
+                            
+                                Entro il mese di dicembre di ogni anno, gli organismi sono tenuti a trasmettere al responsabile i dati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sul numero e la durata dei procedimenti di cui al capo II della legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sul numero dei provvedimenti di diniego di omologazione, di risoluzione, revoca e cessazione degli effetti degli accordi e dei piani omologati, nonche' sul numero dei casi di conversione dei procedimenti di composizione della crisi da sovraindebitamento in quelli di liquidazione del patrimonio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sull'ammontare dei debiti risultanti dagli accordi e dai piani omologati nonche' accertati in sede di liquidazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    sulla percentuale di soddisfazione dei creditori rispetto all'ammontare del passivo verificato risultante all'esito dei procedimenti di cui al capo II della legge, con indicazione specifica della percentuale di soddisfazione dei chirografari; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    sul numero dei provvedimenti di accoglimento e di rigetto delle istanze di esdebitazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    sull'ammontare delle spese di procedura.
 
 Il responsabile, a domanda e sulla base dei dati di cui al comma 2, rilascia una certificazione di qualita' all'organismo richiedente, nei modi e nei tempi stabiliti da circolari o atti amministrativi equipollenti. Ai fini del periodo precedente il responsabile puo' acquisire ulteriori informazioni dagli organismi richiedenti e avvalersi della collaborazione di un professore universitario in materie giuridiche, di un professore universitario in materie economiche e di un magistrato con funzioni di giudice delegato ai fallimenti, designati dal Capo Dipartimento per gli affari di giustizia per un periodo non superiore a tre anni; ai collaboratori designati non spettano compensi, ne' rimborsi spese a qualsiasi titolo dovuti.
 
@@ -177,6 +451,24 @@ Sono ammessi acconti sul compenso finale.
 ## - Sezione II Determinazione dei compensi nelle procedure di composizione della  crisi
 
 ## Art. 16. — Parametri
+
+1.
+                        
+                            
+                                Nelle procedure di composizione della crisi da sovraindebitamento di cui al capo II, sezione prima, della legge in cui sono previste forme di liquidazione dei beni, il compenso dell'organismo, anche per l'opera prestata successivamente all'omologazione, e' determinato, di regola, sulla base dei seguenti parametri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    secondo una percentuale sull'ammontare dell'attivo realizzato compresa tra quelle di cui all'articolo 1, comma 1, del decreto del Ministro della giustizia 25 gennaio 2012, n. 30 e successivi adeguamenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    secondo una percentuale sull'ammontare del passivo risultante dall'accordo o dal piano del consumatore omologato compresa tra quelle di cui all'articolo 1, comma 2, del decreto del Ministro della giustizia di cui alla lettera a).
 
 Nelle procedure di composizione della crisi da sovraindebitamento di cui al capo II, sezione prima, della legge diverse da quelle di cui al comma 1, spetta all'organismo un compenso, anche per l'opera prestata successivamente all'omologazione, determinato con le medesime percentuali di cui al predetto comma, sull'ammontare dell'attivo e del passivo risultanti dall'accordo o dal piano del consumatore omologati.
 

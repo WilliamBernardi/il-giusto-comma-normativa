@@ -8,8 +8,8 @@ codice_redazionale: 008G0142
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -156,6 +156,24 @@ Gli elaborati oggetto della verifica ai fini di validazione sono identificati, g
 Le registrazioni relative alle attivita' di verifica svolte dall'OdI, sono conservate in condizioni di sicurezza per un periodo, eventualmente concordato con la stazione appaltante, non inferiore al termine stabilito dalle norme che regolamentano la verifica.
 
 ## Art. 13. — Rapporti di ispezione e certificati di ispezione
+
+1.
+                        
+                            
+                                Le attivita' di verifica disciplinate dal presente regolamento richiedono l'emissione di due tipologie di rapporti di ispezione:
+ 
+                            
+                            
+                                a)
+                                
+                                    rapporti di ispezione «intermedi», riportanti gli esiti di attivita' intermedie destinate a confluire nei rapporti finali.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rapporti di ispezione «finali» emessi al termine dell'attivita' ispettiva e riportanti i risultati conclusivi della medesima;
 
 I rapporti intermedi e finali sono redatti con riferimento a quanto riportato nell'appendice 3 della Guida EA IAF/ILAC-A4 «Guidance on the application of ISO/IEC 17020».
 

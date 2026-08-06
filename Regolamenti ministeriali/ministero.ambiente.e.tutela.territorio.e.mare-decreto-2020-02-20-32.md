@@ -7,8 +7,8 @@ urn: urn:nir:ministero.ambiente.e.tutela.territorio.e.mare:decreto:2020-02-20;32
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -30,4 +30,22 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 
 Modifiche all'Allegato II del decreto legislativo 
  4 settembre 2002, n. 262
+
+1.
+                    
+                        
+                            All'Allegato II del decreto legislativo 4 settembre 2002, n. 262, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                le parole: «rinvio al presente decreto» sono sostituite dalle seguenti: «rinvio alla direttiva n. 2000/14/CE»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le parole: «dichiarazione di conformita' ai requisiti del presente decreto» sono sostituite dalle seguenti: «dichiarazione di conformita' ai requisiti della direttiva n. 2000/14/CE».
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2007-04-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,35 @@ Per l'ammissione al concorso per la carriera prefettizia e' richiesta una eta' n
 
 ## Art. 2. — Elevazione del limite superiore di eta'
  per la partecipazione al concorso
+
+1.
+                    
+                        
+                            Il limite di eta' di trentacinque anni e' elevato:
+
+                        
+                        
+                            a)
+                            
+                                di un anno per gli aspiranti coniugati;
+                            
+                        
+                        
+                            b)
+                            
+                                di un anno per ogni figlio vivente;
+                            
+                        
+                        
+                            c)
+                            
+                                di cinque anni per coloro che sono compresi fra le categorie elencate nella legge 2 aprile 1968, n. 482, e successive modifiche ed integrazioni, e per coloro ai quali e' esteso lo stesso beneficio;
+                            
+                        
+                        
+                            d)
+                            
+                                di un periodo pari all'effettivo servizio prestato, comunque non superiore a tre anni, a favore dei cittadini che hanno prestato servizio militare volontario di leva e di leva prolungata, ai sensi della legge 24 dicembre 1986, n. 958.
 
 Nelle ipotesi di cui al comma 1 il limite massimo non puo' comunque superare, anche in caso di cumulo di benefici, i quaranta anni di eta'. ((Tale limite non si applica)) ai candidati che siano dipendenti civili di ruolo della pubblica amministrazione, agli ufficiali e sottufficiali dell'Esercito, della Marina o dell'Aeronautica cessati d'autorita' o a domanda; agli ufficiali, ispettori, sovrintendenti, appuntati, carabinieri e finanzieri in servizio permanente dell'Arma dei carabinieri e del Corpo della guardia di finanza, nonche' alle corrispondenti qualifiche negli altri corpi di polizia. (( Nei confronti del personale stesso opera la disposizione di cui all'articolo 3, comma 6 della legge 15 maggio 1997, n. 127.))
 

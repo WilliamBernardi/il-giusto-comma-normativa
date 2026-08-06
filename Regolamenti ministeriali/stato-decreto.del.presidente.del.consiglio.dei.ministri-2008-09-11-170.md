@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-12-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -88,6 +88,31 @@ In sede di prima applicazione, la relazione AIR e' redatta in conformita' al mod
 
 La redazione della relazione AIR di cui all'articolo 6 e' preceduta da un'adeguata istruttoria, comprensiva delle fasi di consultazione, anche telematica, delle principali categorie di soggetti pubblici e privati destinatari diretti e indiretti della proposta di regolamentazione.
 
+2.
+                    
+                        
+                            L'istruttoria si svolge, in particolare, in conformita' ai seguenti criteri: 
+ 
+                        
+                        
+                            a)
+                            
+                                proporzionalita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                flessibilita' dei metodi di rilevazione dei dati; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                trasparenza delle procedure e degli atti, finalizzata alla piu' ampia partecipazione dei soggetti pubblici e dei soggetti privati coinvolti nell'iniziativa regolatoria, pur tenendo conto della portata del provvedimento e delle esigenze di speditezza connesse al processo di produzione legislativa.
+
 Le amministrazioni comunicano alla Presidenza del Consiglio dei Ministri - DAGL - l'avvio dell'iniziativa istruttoria per l'acquisizione degli elementi finalizzati alla redazione della relazione AIR di cui all'articolo 6, indicando uno o piu' referenti dell'attivita'.
 
 Con successivo decreto del Presidente del Consiglio dei Ministri adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono definiti i criteri generali e le procedure della fase della consultazione. 
@@ -102,6 +127,105 @@ Con successivo decreto del Presidente del Consiglio dei Ministri adottato ai sen
 ## Art. 6. — Contenuti della relazione AIR
 
 L'amministrazione competente all'iniziativa normativa predispone un'apposita relazione AIR. Nel caso di atti deliberati dal Consiglio dei Ministri, la relazione e' predisposta dall'amministrazione proponente.
+
+2.
+                    
+                        
+                            La relazione AIR e' articolata in distinte sezioni, che indicano: 
+ 
+                        
+                        
+                            a)
+                            
+                                la sequenza logica delle informazioni raccolte e organizzate dall'amministrazione competente all'iniziativa normativa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i risultati dell'analisi svolta e la giustificazione della scelta compiuta.
+
+3.
+                    
+                        
+                            La relazione AIR, predisposta in conformita' ai modelli di cui all'articolo 4, da' conto delle attivita' svolte al fine di derivare gli elementi essenziali dell'istruttoria e dell'attivita' conoscitiva svolta, e in particolare dei seguenti aspetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'analisi del contesto in cui si colloca l'iniziativa normativa, con la descrizione delle esigenze e dei problemi affrontati nonche' degli obiettivi perseguiti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione delle informazioni utilizzate per lo svolgimento dell'analisi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indicazione delle consultazioni effettuate, ai sensi di quanto disposto dal comma 5; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'analisi dell'opzione di non intervento ("opzione zero"); 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la descrizione delle principali opzioni rilevanti di intervento, alternative a quella di non intervento, ivi compresa la descrizione dei diversi livelli normativi di intervento, evidenziando l'assoluta necessita' dell'intervento normativo di livello primario; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'analisi dell'opzione di intervento selezionata, con l'evidenziazione dei relativi vantaggi collettivi netti, l'analisi dei presupposti di natura giuridica, organizzativa, economico-sociale e l'indicazione degli obblighi informativi e dei relativi costi amministrativi introdotti a carico di imprese e cittadini; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                la stima dell'incidenza sul corretto funzionamento concorrenziale del mercato delle proposte regolatorie suscettibili di avere un impatto significativo sulle attivita' d'impresa; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'analisi delle conseguenze effettive delle norme in relazione ai processi di liberalizzazione e restituzione delle attivita', anche economiche ed imprenditoriali, ai meccanismi della societa' aperta; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                la stima dell'incidenza sull'ampliamento delle liberta' assicurate ai soggetti dell'ordinamento giuridico; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                la descrizione delle modalita' previste per l'attuazione amministrativa dell'intervento di regolazione e per la sua effettiva conoscibilita' e pubblicita'; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                la descrizione delle modalita' del successivo monitoraggio dei suoi effetti e la previsione di eventuali meccanismi di revisione periodica.
 
 In ogni caso, la relazione AIR deve indicare con chiarezza le fonti da cui sono tratti i dati utilizzati per l'analisi.
 
@@ -132,6 +256,32 @@ Gli schemi degli atti normativi adottati dai singoli Ministri e dei provvediment
  Ha inoltre disposto (con l'art. 21, comma 1) che tale abrogazione si applica a decorrere dal giorno successivo alla pubblicazione della direttiva prevista dall'articolo 3, comma 1 del medesimo D.P.C.M.
 
 ## Art. 8. — Ipotesi di esclusione dell'AIR
+
+1.
+                    
+                        
+                            L'AIR non e' effettuata per i seguenti atti normativi: 
+ 
+                        
+                        
+                            a)
+                            
+                                disegni di legge costituzionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                atti normativi in materia di sicurezza interna ed esterna dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                disegni di legge di ratifica di trattati internazionali, che non comportino spese o istituzione di nuovi uffici. 
+ ((1))
 
 ---------------
                         AGGIORNAMENTO (1)
@@ -170,6 +320,38 @@ Con direttiva del Presidente del Consiglio dei Ministri, ai sensi dell'articolo 
  Ha inoltre disposto (con l'art. 21, comma 1) che tale abrogazione si applica a decorrere dal giorno successivo alla pubblicazione della direttiva prevista dall'articolo 3, comma 1 del medesimo D.P.C.M.
 
 ## Art. 11. — Relazione annuale al Parlamento sullo stato di applicazione dell'AIR e della VIR
+
+1.
+                    
+                        
+                            La relazione annuale al Parlamento sullo stato di applicazione dell'AIR e della VIR, prevista dall'articolo 14, comma 10, della legge 28 novembre 2005, n. 246, indica, partitamente: 
+ 
+                        
+                        
+                            a)
+                            
+                                il numero e i casi in cui l'AIR e' stata effettuata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero e i casi di esclusione e di esenzione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le ipotesi in cui l'AIR e' stata integrata o rinnovata, su richiesta del DAGL, del Parlamento, o su sollecitazione del Consiglio di Stato in sede consultiva; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il numero e i casi in cui la VIR e' stata effettuata.
 
 La relazione da' conto delle metodologie applicate con riguardo alla stima dei vantaggi e degli svantaggi, nonche' con riferimento alle procedure di consultazione seguite e alle scelte organizzative adottate dalle singole amministrazioni, con riguardo ai costi relativi, e alle attivita' formative attuate.
 

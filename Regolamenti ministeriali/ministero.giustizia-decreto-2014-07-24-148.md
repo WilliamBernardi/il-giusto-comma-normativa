@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2014-07-24;148
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -57,9 +57,45 @@ La presente disposizione si applica, alle stesse condizioni, anche ai rapporti d
 
 Credito di imposta per attivita' di formazione
 
+1.
+                        
+                            
+                                Il credito d'imposta di cui all'articolo 1 spetta per i medesimi importi previsti per ciascuna tipologia di assunzioni alle imprese che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    svolgono attivita' di formazione nei confronti di detenuti o internati, anche ammessi al lavoro all'esterno ai sensi dell'articolo 21 della legge 26 luglio 1975, n. 354, o di detenuti o internati ammessi alla semiliberta', a condizione che detta attivita' comporti, al termine del periodo di formazione, l'immediata assunzione dei detenuti o internati formati per un periodo minimo corrispondente al triplo del periodo di formazione, per il quale hanno fruito del beneficio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    svolgono attivita' di formazione mirata a fornire professionalita' ai detenuti o agli internati da impiegare in attivita' lavorative gestite in proprio dall'Amministrazione penitenziaria.
+
 Non si applicano le agevolazioni previste dal comma 1 alle imprese che hanno stipulato convenzioni con enti locali aventi per oggetto attivita' formativa.
 
 ## Art. 3. — Condizioni per accedere al credito di imposta
+
+1.
+                        
+                            
+                                Le agevolazioni di cui all'articolo 1 spettano a condizione che i soggetti beneficiari: 
+ 
+                            
+                            
+                                a)
+                                
+                                    assumano i detenuti o gli internati, anche ammessi al lavoro esterno ai sensi dell'articolo 21 della legge 26 luglio 1975, n. 354, ovvero alla semiliberta', con contratto di lavoro subordinato per un periodo non inferiore a trenta giorni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corrispondano un trattamento economico non inferiore a quello previsto dai contratti collettivi di lavoro.
 
 Potranno fruire delle agevolazioni di cui agli articoli 1 e 2 le imprese che hanno stipulato apposita convenzione con la Direzione dell'Istituto penitenziario ove sono ristretti i lavoratori assunti.
 

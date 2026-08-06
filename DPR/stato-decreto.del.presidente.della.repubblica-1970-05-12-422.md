@@ -8,8 +8,8 @@ codice_redazionale: 070U0422
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:49Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -20,4 +20,26 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1.
 
 N.
+
+422.
+                    
+                        
+                            Decreto del Presidente della Repubblica 12 maggio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata:
+ 
+                        
+                        
+                            a)
+                            
+                                ad accettare la donazione della somma di lire 580.000 disposta dal Lions club di Reggio Calabria, ente di diritto privato, con atto a rogito del dott. Francesco Battista, notaio in Reggio Calabria, in data 26 gennaio 1963, repertorio n. 30925, raccolta n. 1424, a favore dell'Unione italiana dei ciechi, sezione di Reggio Calabria, allo scopo di "sopperire alle urgenti ed inderogabili necessita' dei ciechi della sezione Suindicata"; la somma anzidetta risulta costituita dal valore nominale di sette buoni del tesoro novennali 5%, 1964, elencati nello stesso atto notarile di donazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ad acquistare contestualmente al predetto atto notarile - come in effetti e' gia' avvenuto - dal signor: Iaria Antonino, per il prezzo convenuto di L. 580.000, corrispondente all'importo del valore nominale dei buoni del tesoro di cui innanzi "mediante accettazione a saldo dei titoli da parte del venditore", un lotto di terreno edificatorio della superficie complessiva di mq. 898,76, sito in territorio del comune di Reggio Calabria, sezione B Gallina, localita' via Arno.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte, dei conti, addi' 23 giugno 1970
+ Atti del Governo, registro n. 236, foglio n. 57. - CARUSO
 

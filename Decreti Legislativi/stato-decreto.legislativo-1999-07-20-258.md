@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -70,7 +70,53 @@ Ove lo statuto non sia adottato nel termine di cui al comma 2, il Ministro della
 
 Lo statuto disciplina i compiti e la struttura organizzativa della fondazione, ne individua le categorie di partecipanti, gli organi di amministrazione e scientifici, le modalita' della loro elezione e i relativi poteri, la loro durata, gli ambiti di attivita' e i controlli di gestione e di risultato; esso prevede che del consiglio di amministrazione, oltre a rappresentanti di enti pubblici e privati, alle persone fisiche e giuridiche che intendano dare il loro costruttivo apporto alla vita della fondazione, facciano parte rappresentanti del Ministero della pubblica istruzione, del Ministero dell'universita' e della ricerca scientifica e tecnologica e del Ministero dei beni culturali. Le successive delibere riguardanti modifiche statutarie, lo scioglimento della fondazione e la devoluzione del patrimonio sono adottate con la procedura di cui al comma 2.
 
+5.
+                    
+                        
+                            Tra le finalita' della Fondazione lo statuto individua in particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                la diffusione della conoscenza della cultura scientifica in tutte le sue manifestazioni, implicazioni e interazioni con altri settori del sapere, anche con riferimento alla dinamica storica della scienza, della tecnica e della tecnologia ed alle prospettive contemporanee e future; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la conservazione, il reperimento, la valorizzazione e la illustrazione al pubblico, anche in forma attiva ed esemplificativa, delle produzioni materiali e immateriali della scienza, della tecnica e della tecnologia con riferimento al passato e alla contemporaneita', in una prospettiva di costante aggiornamento del patrimonio museale.
+
 Il patrimonio della fondazione e' costituito dai beni mobili e immobili di proprieta' dell'ente pubblico e della fondazione preesistente, la quale e' incorporata a tutti gli effetti dalla nuova fondazione alla data di entrata in vigore del presente decreto legislativo, nonche' da lasciti, donazioni ed erogazioni destinati da enti o privati ad incremento del patrimonio stesso. Per esigenze connesse all'espletamento dei propri compiti, la Fondazione puo' disporre del proprio patrimonio nel limite del 20% del valore iscritto nell'ultimo bilancio approvato, con l'obbligo di procedere alla sua ricostituzione entro i due esercizi successivi. Il consiglio di amministrazione uscente, entro venti giorni dalla pubblicazione del presente decreto legislativo procede alla designazione di uno o piu' esperti iscritti nel registro dei consulenti tecnici del tribunale di Milano per la redazione di stima del patrimonio; ad essi si applicano le disposizioni dell'articolo 64 del codice di procedura civile. La relazione sulla stima del patrimonio contiene la descrizione delle singole componenti patrimoniali, l'indicazione del valore attribuito a ciascuna e dei criteri di valutazione seguiti.
+
+7.
+                    
+                        
+                            La "Fondazione nazionale Museo della scienza e delle tecnica Leonardo da Vinci", provvede ai suoi compiti con: 
+ 
+                        
+                        
+                            a)
+                            
+                                i redditi del suo patrimonio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i contributi ordinari dello Stato; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                eventuali contributi straordinari dello Stato e di enti pubblici; 
+ b) eventuali proventi della gestione delle attivita'; 
+ e) eventuali contributi ed assegnazioni, anche a titolo di sponsorizzazione, da parte di soggetti o enti pubblici e privati, italiani e stranieri; 
+ f) eventuali altre entrate, anche derivanti dall'esercizio di attivita' commerciali coerenti con le finalita' della fondazione.
 
 Ai fini della determinazione del contributo statale da erogare annualmente alla fondazione restano in vigore le disposizioni di cui all'articolo 3 della legge 2 aprile 1958, n. 332, come modificate dalla legge 2 maggio 1984, n. 105.
 

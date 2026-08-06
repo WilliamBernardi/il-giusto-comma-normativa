@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2002-06-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -43,6 +43,51 @@ Il termine di cui al decreto-legge 28 settembre 2001, n. 354, recante disposizio
 ((
 
 Per il periodo dal 1 gennaio 2002 al 31 marzo 2002 lo Stato garantisce la copertura assicurativa per il risarcimento dei danni subiti da terzi, in essi inclusi i passeggeri trasportati e i dipendenti delle imprese di trasporto aereo, in conseguenza di atti di guerra o di terrorismo nell'esercizio del servizio aereo, in favore delle imprese di trasporto aereo nazionali, munite di valida licenza di esercizio rilasciata ai sensi del regolamento (CEE) n. 2407/92 del Consiglio, del 23 luglio 1992, e del regolamento ENAC del 14 febbraio 2000, e successive modificazioni, per il trasporto aereo di passeggeri o passeggeri e merci a titolo oneroso, nonche' in favore delle imprese nazionali di gestione aeroportuale. La copertura assicurativa statale opera da un massimale di 50 milioni di dollari statunitensi fino ad un importo massimo, per ciascuna delle predette imprese e per singolo sinistro, di 2 miliardi di dollari statunitensi limitatamente alla parte di danni priva di copertura assicurativa da parte delle imprese commerciali.
+
+1-ter.
+                    
+                        
+                            Le imprese di trasporto aereo di cui al comma 1-bis, per la parte garantita dallo Stato e previa presentazione al Ministero dell'economia e delle finanze - Dipartimento del tesoro di idonea documentazione relativa alle coperture assicurative assunte sul mercato, devono corrispondere un premio da versare al Capo X dell'entrata del bilancio dello Stato, cosi' determinato:
+ 
+                        
+                        
+                            a)
+                            
+                                premio di 0,35 dollari statunitensi per passeggero trasportato per volo, per la copertura del massimale da 50 milioni fino a 150 milioni di dollari statunitensi. Dal 1 febbraio 2002 il premio e' aumentato a 0,40 dollari statunitensi per passeggero trasportato per volo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                premio di 0,35 dollari statunitensi per passeggero trasportato per volo, per la copertura del massimale oltre 150 milioni di dollari statunitensi fino a 1 miliardo di dollari statunitensi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                premio di 0,25 dollari statunitensi per passeggero trasportato per volo, per la copertura del massimale fino a 2 miliardi di dollari statunitensi.
+
+1-quater.
+                    
+                        
+                            Le altre imprese di cui al comma 1-bis devono corrispondere, con le medesime modalita' di cui al comma 1-ter, un premio cosi' determinato:
+ 
+                        
+                        
+                            a)
+                            
+                                imprese di gestione aeroportuale:
+ 1) in caso di assenza di copertura assicurativa disponibile sui mercati commerciali, per la copertura fino al massimale esistente prima dell'11 settembre 2001: premio minimo pari al 50 per cento del premio annuo complessivo di polizza;
+ 2) in caso di copertura parziale disponibile sui mercati commerciali, per la copertura della differenza fino ai limiti esistenti prima dell'11 settembre 2001: premio minimo pari al 33 per cento del nuovo premio aggiuntivo richiesto dal mercato commerciale per la copertura parziale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                esercenti attivita' di cargo: la copertura di attivita' di cargo e' soggetta ad un premio minimo non inferiore al 50 per cento del premio annuo complessivo della polizza prima dell'11 settembre 2001.
 
 I premi vengono corrisposti dalle imprese di cui al comma 1-bis con decorrenza 27 novembre 2001. Le imprese di trasporto aereo corrispondono il relativo premio nella stessa misura fissata per il mese di gennaio 2002.
 

@@ -8,8 +8,8 @@ codice_redazionale: 099G0221
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,38 @@ Sentite la Banca d'Italia e la CONSOB;
 Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione consultiva per gli atti normativi in data 22 febbraio 1999;
 
 ## Art. 1. — Avviso di convocazione dell'assemblea
+
+1.
+                    
+                        
+                            L'avviso di convocazione dell'assemblea della societa' di investimento a capitale variabile (SICAV) contiene:
+ 
+                        
+                        
+                            a)
+                            
+                                l'avvertenza che il voto puo' essere esercitato anche per corrispondenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                le modalita' ed i soggetti presso cui richiedere la scheda di voto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'indirizzo a cui trasmettere la scheda di voto ed il termine entro il quale deve pervenire al destinatario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                la deliberazione proposta per esteso.
 
 ## Art. 2. — Deposito delle azioni
 

@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 vigenza_date: 2017-04-02
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:49Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -36,6 +36,38 @@ Le disposizioni del presente decreto sostituiscono quelle contenute all'art. 11 
 
 
 ## Art. 2-bis.
+
+1.
+                    
+                        
+                            E' vietato produrre, detenere per vendere, porre in commercio o usare materiali e oggetti che allo stato di prodotti finiti siano destinati a venire a contatto con le sostanze alimentari o con l'acqua destinata al consumo umano, che siano:
+ 
+                        
+                        
+                            a)
+                            
+                                di piombo, ((...)) o di leghe contenenti piu' del 10 per cento di piombo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stagnati internamente con stagno contenente piombo al di sopra dell'1 per cento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                rivestiti internamente con strati vetrificati, verniciati o smaltati che, messi a contatto per 24 ore con una soluzione all'1 per cento di acido acetico, cedano piombo alla temperatura ordinaria;
+
+                            
+                        
+                        
+                            d)
+                            
+                                costituiti da materiale nella cui composizione si trovi piu' di tre centigrammi di arsenico per 100 grammi di materiale.
 
 Le prescrizioni di composizione e di cessione di cui al comma 1 si applicano fino a quando i materiali non vengano diversamente disciplinati con i decreti ministeriali di cui al primo comma dell'articolo 3.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2025-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -82,6 +82,31 @@ Con decreti del Ministro del tesoro, del bilancio e della programmazione economi
 
 
 ## Art. 8. — (Gradualita' dell'applicazione dei nuovi criteri)
+
+1.
+                        
+                            
+                                Le disposizioni di cui all'articolo 7 si applicano gradualmente secondo i seguenti criteri e modalita':
+ 
+                            
+                            
+                                a)
+                                
+                                    per le regioni, a decorrere dal 1 gennaio 1999, le quote dell'accisa sulle benzine spettanti ai sensi dell'articolo 8, comma 12, della legge 28 dicembre 1995, n. 549, sono versate mensilmente dalla tesoreria centrale dello Stato sui conti correnti accesi da ciascuna regione presso il proprio tesoriere e non concorrono alla determinazione delle disponibilita' detenibili presso il sistema bancario stabilite dalla normativa concernente la tesoreria unica di cui alla legge 29 ottobre 1984, n. 720. Tali somme devono comunque essere utilizzate dalle regioni per far fronte alle proprie necessita' finanziarie con priorita' rispetto alle disponibilita' detenibili presso il sistema bancario ai sensi della richiamata legge n. 720 del 1984. Dalle entrate da assumere a base per il calcolo delle predette disponibilita' sono escluse quelle concernenti il gettito dell'accisa sulle benzine;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli enti locali, a decorre dal 1 gennaio 1999, limitatamente ai comuni con popolazione inferiore a 5000 abitanti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'ulteriore adeguamento del sistema di tesoreria unica alle (( modifiche introdotte dall'articolo 7)) si provvede con decreti del Presidente del Consiglio dei Ministri, su proposta del Ministro del tesoro, del bilancio e della programmazione economica con le decorrenze e le modalita' dagli stessi previste. Per le regioni l'adeguamento riguarda l'individuazione degli ulteriori tributi propri che non concorrono alla formazione delle liquidita' detenibili ai sensi della legge 29 ottobre 1984, n. 720 e la graduale riduzione del limite di detenibilita' e della base di calcolo. Per gli enti locali, l'adeguamento riguarda ulteriori tipologie di enti. Sugli schemi dei decreti e' acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e della Conferenza Stato-Citta' e autonomie locali. Il parere deve essere espresso entro 60 giorni dalla richiesta. Decorso inutilmente tale termine i decreti possono essere comunque emanati.
 
 ## Art. 9. — (Sperimentazione operativa)
 

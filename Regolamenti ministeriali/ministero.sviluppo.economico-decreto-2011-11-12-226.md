@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2017-03-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,115 @@ Sentita la Conferenza Unificata, di cui all'articolo 8 del decreto legislativo 2
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'Adunanza del 30 agosto 2011;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente decreto si applicano le definizioni che seguono: 
+ 
+                        
+                        
+                            a)
+                            
+                                "Ambito" e' l'ambito territoriale minimo ai sensi dell'articolo 46-bis, comma 2, del decreto legge 1 ottobre 2007, n. 159, convertito con modificazioni, dalla legge 29 novembre 2007, n. 222 e dell'articolo 30, comma 26, della legge 23 luglio 2009, n. 99. 
+
+                            
+                        
+                        
+                            b)
+                            
+                                "Allegato 1" e' l'allegato 1 "Data limite entro cui la Provincia, in assenza del Comune capoluogo di provincia, convoca i Comuni d'ambito per l'individuazione della stazione appaltante e da cui decorre il tempo per un eventuale intervento della Regione di cui all'articolo 3 del regolamento", facente parte integrante del presente regolamento. 
+
+                            
+                        
+                        
+                            c)
+                            
+                                "Allegato 2" e' l'allegato 2 "Bando di gara tipo", facente parte integrante del presente regolamento. 
+
+                            
+                        
+                        
+                            d)
+                            
+                                "Allegato 3" e' l'allegato 3 "Disciplinare di gara tipo", facente parte integrante del presente regolamento. 
+
+                            
+                        
+                        
+                            e)
+                            
+                                "Allegato 4" e' l'allegato 4 "Dati significativi di aggiudicazione della gara per il monitoraggio degli effetti del decreto", facente parte integrante del presente regolamento. 
+
+                            
+                        
+                        
+                            f)
+                            
+                                "Autorita'" e' l'Autorita' per l'energia elettrica e il gas. 
+
+                            
+                        
+                        
+                            g)
+                            
+                                "Impianto con scadenza ope legis della concessione successiva alla gara" e' un impianto di distribuzione avente una scadenza ope legis della concessione almeno un anno dopo la data di affidamento del servizio del primo impianto dell'ambito al gestore aggiudicatario della gara d'ambito. 
+
+                            
+                        
+                        
+                            h)
+                            
+                                "Primo periodo" e' la situazione transitoria, caratterizzata dalla scadenza anticipata ope legis della concessione, a cui si applica l'articolo 15 del decreto legislativo 23 maggio 2000, n. 164, fino al subentro del gestore aggiudicatario della prima gara d'ambito effettuata ai sensi dell'articolo 14 del medesimo decreto legislativo. 
+
+                            
+                        
+                        
+                            i)
+                            
+                                "Regime" e' la situazione, caratterizzata dalla scadenza dell'affidamento come prevista negli atti concessori, comunque non superiore a 12 anni dall'affidamento, al termine della durata delle concessioni affidate per la prima volta ai sensi dell' articolo 14 del decreto legislativo 23 maggio 2000, n. 164. 
+
+                            
+                        
+                        
+                            j)
+                            
+                                "Scadenza naturale" e' la scadenza dell'affidamento prevista nell'atto di concessione originario o nei successivi atti aggiuntivi, purche' stipulati antecedentemente l'entrata in vigore del decreto legislativo 23 maggio 2000, n. 164. 
+
+                            
+                        
+                        
+                            k)
+                            
+                                "Scadenza ope legis" e' la scadenza della concessione, anticipata rispetto alla scadenza naturale, prevista dall'articolo 15 del decreto legislativo 23 maggio 2000, n. 164, come modificato dall'articolo 69 della legge 23 agosto 2004, n.239 e dall'articolo 23 della legge 23 febbraio 2006, n. 51, di conversione in legge del decreto legge 30 dicembre 2005, n. 273. 
+
+                            
+                        
+                        
+                            l)
+                            
+                                "Stato di consistenza" e' l'insieme di documenti comprendente la cartografia, come definita nell'allegato alla deliberazione ARG/gas 120/08 dell'Autorita', e la descrizione delle reti e degli impianti afferenti il servizio di distribuzione di gas naturale, con evidenza dell'anno di realizzazione e delle loro caratteristiche costruttive, funzionali e conservative; in particolare per ogni tratto di rete dovra' essere registrato almeno l'anno di posa, il materiale e il diametro. 
+
+                            
+                        
+                        
+                            m)
+                            
+                                "Stazione appaltante" e' il soggetto che, su delega degli Enti locali concedenti appartenenti all'ambito, ha la responsabilita' di bandire, gestire e aggiudicare la gara di affidamento del servizio di distribuzione in tutti i Comuni dell'ambito. 
+
+                            
+                        
+                        
+                            n)
+                            
+                                "Valore annuo del servizio" e' la somma dei vincoli ai ricavi approvati dall'Autorita' attribuibili a tutti gli impianti di distribuzione dei singoli Comuni dell'ambito, inclusi quelli con scadenza ope legis della concessione successiva alla data di affidamento del servizio del primo impianto. 
+
+                            
+                        
+                        
+                            o)
+                            
+                                Per quanto non diversamente disposto dal presente regolamento si applicano le definizioni in materia di attivita' di distribuzione di cui alle pertinenti delibere dell'Autorita' per l'energia elettrica e il gas.
 
 ## Art. 2. — Soggetto che gestisce la gara
 

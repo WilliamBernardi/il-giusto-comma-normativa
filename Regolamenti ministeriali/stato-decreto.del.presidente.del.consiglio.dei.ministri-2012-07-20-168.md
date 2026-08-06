@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2023-05-06
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -26,7 +26,92 @@ Udito il parere del Consiglio di Stato, espresso dalla Sezione Consultiva per gl
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Nel presente decreto, sono denominati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    «legge»: la legge 12 luglio 2011, n. 112, istitutiva dell'Autorita' garante per l'infanzia e l'adolescenza; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Garante»: l' Autorita' garante per l'infanzia e l'adolescenza istituita ai sensi dell'articolo 1, della legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Ufficio»: l'Ufficio dell'Autorita' garante per l'infanzia e l'adolescenza istituito ai sensi dell'articolo 5, della legge; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Coordinatore dell'Ufficio»: l'unita' di livello dirigenziale ((...)) generale di cui all'articolo 5, della legge; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «Conferenza»: la Conferenza nazionale per la garanzia dei diritti dell'infanzia e dell'adolescenza istituita ai sensi dell'articolo 3, comma 7, della legge; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «Consulta»: la Consulta nazionale delle associazioni e delle organizzazioni, di cui all'articolo 8, del presente decreto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «Commissioni consultive»: le commissioni di cui all'articolo 9, del presente decreto. 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    «Aree»: unita' organizzative di livello dirigenziale;
+
 ## Art. 2. — Il Garante
+
+1.
+                        
+                            
+                                Il Garante nel rispetto delle competenze di cui all'articolo 3 della legge: 
+ 
+                            
+                            
+                                a)
+                                
+                                    determina gli indirizzi e i criteri generali ai quali si informa l'attivita' dell'ufficio e definisce gli obiettivi e i programmi da realizzare, verificandone l'attuazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta il documento programmatico, il bilancio di previsione e il conto finanziario; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    adotta il Codice etico dell'ufficio, recante i principi guida del comportamento del Garante, dei componenti dell'ufficio e di tutti i soggetti che, a qualsiasi titolo, collaborano con il Garante.
 
 ## Art. 3. — Sede dell'Ufficio
 
@@ -46,19 +131,193 @@ In relazione alle esigenze organizzative dell'ufficio, il Garante nel rispetto d
 
 ((
 
+4-bis.
+                        
+                            
+                                La Segreteria tecnica, quale unita' organizzativa a supporto del Coordinatore dell'ufficio, svolge compiti in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    affari giuridici e legislativi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    relazioni istituzionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    relazioni internazionali e con l'Unione europea; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    stampa e comunicazione;
+
 Il personale della Segreteria tecnica e' scelto tra i dipendenti di ruolo dell'Autorita' ed e' assegnato dal Coordinatore dell'ufficio su indicazione del Garante;
 
 L'Area attivita' istituzionale promuove ed implementa le iniziative e le misure previste a livello nazionale ed internazionale per la tutela dei diritti dell'infanzia e dell'adolescenza, svolgendo i compiti previsti dalla legge finalizzati a garantire il diritto dei minorenni alla salute e al benessere, all'educazione, all'ascolto e alla partecipazione nelle questioni che li riguardano, alla cura dei rapporti familiari, alle pari opportunita', alla protezione da qualsiasi forma di violenza, in attuazione della Convenzione ONU sui diritti del fanciullo fatta a New York il 20 novembre 1989;
+
+4-quinquies.
+                        
+                            
+                                L'Area affari generali, che assicura lo svolgimento delle attivita' di natura amministrativa, contabile, finanziaria e tecnica necessarie al funzionamento dell'Ufficio, svolge compiti in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    risorse umane e relazioni sindacali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trattamento economico e previdenziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    bilancio, programmazione e gestione amministrativo-contabile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    contratti e convenzioni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    formazione del personale dell'Ufficio.
 
 ))
 
 ## Art. 5. — Organizzazione dell'Ufficio
 
+1.
+                        
+                            
+                                L'organizzazione dell'ufficio e' ispirata ai seguenti principi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    efficienza, efficacia, economicita' e trasparenza dell'attivita' amministrativa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    previsione di funzioni stabili nel quadro di una organizzazione flessibile ed adattabile a sopravvenute, mutate esigenze; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    integrazione e piena cooperazione tra le funzioni.
+
 ((
+
+2.
+                        
+                            
+                                L'Ufficio esercita le seguenti funzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    attuazione, mediante le articolazioni interne, degli obiettivi e dei programmi delineati dal Garante nell'ambito delle competenze di cui all'art. 3 della legge; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gestione delle risorse umane ed economiche-finanziarie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    informazione completa e tempestiva al Garante sulla complessiva attivita'; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    adozione degli atti e dei provvedimenti amministrativi ed esercizio dei poteri di spesa e di quelli di acquisizione delle entrate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tenuta dei rapporti con il Collegio dei revisori.
 
 ))
 
 ((
+
+3.
+                        
+                            
+                                Le aree esercitano i compiti ad esse attribuiti mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esecuzione delle disposizioni del Coordinatore dell'ufficio e l'attuazione dei programmi e degli obiettivi assegnati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'adozione degli atti e dei provvedimenti amministrativi e l'esercizio dei poteri di spesa e di acquisizione delle entrate ad esse delegati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la rendicontazione della gestione delle risorse economiche assegnate; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la tempestiva informazione interna, anche attraverso strumenti informatici e telematici, sull'attivita' di competenza e la predisposizione di una relazione di sintesi sulle attivita' svolte; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la formulazione di proposte e pareri al Coordinatore dell'ufficio.
 
 ))
 
@@ -135,6 +394,59 @@ Entro il 15 dicembre, il bilancio di previsione e' trasmesso, per il tramite del
 ## Art. 13. — Struttura del bilancio di previsione
 
 Il bilancio di previsione e' costituito per le entrate e per le spese da un unico Centro di responsabilita' amministrativa.
+
+2.
+                        
+                            
+                                Le entrate dell'Ufficio sono costituite da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    contributo finanziario ordinario dello Stato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assegnazioni e contributi da parte di pubbliche amministrazioni ed enti privati senza finalita' di lucro, per l'esecuzione di specifiche iniziative; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    contributi dell'Unione europea o di altri organismi internazionali per la partecipazione a programmi o progetti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    attivita' di assistenza e di formazione commissionate da istituzioni pubbliche e private, nazionali ed estere, nonche' da organismi internazionali; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ogni altra eventuale entrata connessa all'attivita' del Garante o prevista dall'ordinamento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    avanzo presunto; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    entrate per partite di giro.
 
 Le entrate provenienti dal bilancio dello Stato per fronteggiare le spese di cui all'articolo 7, commi 1 e 2, della legge, iscritte in apposita unita' previsionale di base del bilancio della Presidenza del Consiglio dei Ministri, affluiscono al bilancio dell'Ufficio. ((PERIODO SOPPRESSO DAL D.P.C.M. 14 MARZO 2023, N. 43)).
 
@@ -220,15 +532,111 @@ Chiuso il 31 dicembre l'esercizio finanziario, nessun impegno puo' essere assunt
 
 Quando la spesa e' accertata contestualmente al pagamento, l'impegno e l'ordine di pagamento sono contemporanei.
 
+6.
+                        
+                            
+                                Al momento dell'approvazione del bilancio si costituisce automaticamente l'impegno sugli stanziamenti relativi alle seguenti spese: 
+ 
+                            
+                            
+                                a)
+                                
+                                    indennita' di carica spettante al Garante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    spese dovute in base a contratti in essere, disposizioni di legge o regolamentari.
+
 ## Art. 22. — Liquidazione
 
 ) provvede alla liquidazione sulla base di fatture e documenti presentati in originale, atti a comprovare, anche ai fini fiscali, l'adempimento dell'obbligazione convenuta, previo accertamento della regolarita' della prestazione e della rispondenza della stessa ai requisiti quantitativi e qualitativi, ai termini e alle condizioni pattuite e dopo aver applicato le penali previste in caso di ritardata od inesatta prestazione.
+
+2.
+                        
+                            
+                                Il decreto di liquidazione contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il riferimento al decreto di impegno, salvo quanto previsto dall'articolo 21, comma 5; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esercizio, il capitolo e l'indicazione delle modalita' di pagamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione di eventuali altri pagamenti ordinati a valere sullo stesso impegno.
 
 Il dispositivo di liquidazione, con i documenti giustificativi della spesa, nonche' la documentazione attestante il positivo esito delle verifiche delle prestazioni, deve essere conservato in allegato al mandato di pagamento estinto.
 
 ## Art. 23. — Ordinazione tramite ordine di pagamento
 
 L'ordinazione e' disposta dal ((Coordinatore dell'ufficio o, su sua delega, dal dirigente dell'Area affari generali)) tramite ordine di pagamento.
+
+2.
+                        
+                            
+                                L'ordine di pagamento deve contenere i seguenti elementi essenziali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'esercizio di provenienza e di gestione della spesa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'impegno cui si riferisce la spesa ed il relativo capitolo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la descrizione della spesa; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il numero d'ordine progressivo per esercizio e per capitolo di bilancio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i dati anagrafici, il numero di partita IVA ed il codice fiscale del creditore; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'importo lordo e netto da pagare in cifre e in lettere, la data di emissione e l'eventuale data di esigibilita'; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    la modalita' di estinzione del titolo di spesa.
 
 Si applicano le disposizioni di cui all'articolo 2, comma 4-ter, lettere a), b) e c), del decreto-legge n. 138 del 2011, convertito, dalla legge n. 148 del 2011 e successive modificazioni, e le disposizioni del Regolamento per la contabilita' generale dello Stato riguardanti il furto, lo smarrimento o la distruzione degli ordini di pagamento.
 

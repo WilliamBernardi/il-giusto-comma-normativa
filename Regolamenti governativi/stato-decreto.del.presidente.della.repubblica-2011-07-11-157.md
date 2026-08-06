@@ -8,8 +8,8 @@ codice_redazionale: 011G0197
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -25,6 +25,38 @@ Sulla proposta del Ministro dell'ambiente e della tutela del territorio e del ma
 
 ## Art. 1. — Finalita'
 
+1.
+                    
+                        
+                            Il presente regolamento disciplina le modalita' di attuazione del regolamento (CE) n. 166/2006 del Parlamento europeo e del Consiglio, del 18 gennaio 2006, con riferimento a: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'individuazione delle autorita' competenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                gli obblighi dei gestori; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i contenuti della comunicazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la pubblicita' dei dati e la sensibilizzazione del pubblico.
+
 ## Art. 2. — Definizioni
 
 Ai fini del presente decreto si applicano le definizioni di cui all'articolo 2 del regolamento (CE) n. 166/2006.
@@ -32,6 +64,24 @@ Ai fini del presente decreto si applicano le definizioni di cui all'articolo 2 d
 ## Art. 3. — Autorita' competenti
 
 Ai fini degli adempimenti di cui all'articolo 5, comma 1, del regolamento (CE) n. 166/2006, l'autorita' competente e' il Ministero dell'ambiente e della tutela del territorio e del mare che si avvale dell'Istituto superiore per protezione e la ricerca ambientale.
+
+2.
+                    
+                        
+                            Le autorita' competenti alla valutazione della qualita' dei dati forniti dai gestori ai sensi dell'articolo 4, comma 1, del presente decreto, sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                per i complessi in cui almeno un impianto svolge un'attivita' di cui all'allegato VIII al decreto legislativo 29 giugno 2010, n. 128, la o le autorita' competenti al rilascio dell'autorizzazione integrata ambientale ai sensi delle norme vigenti al momento dell'avvio del procedimento di autorizzazione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per i complessi non compresi nella lettera a), la stessa autorita' prevista alla medesima lettera a), salvo diversa indicazione della regione o della provincia autonoma in cui il complesso e' localizzato che deve essere notificata al Ministero dell'ambiente e della tutela del territorio e del mare e all'Istituto superiore per protezione e la ricerca ambientale entro tre mesi dalla data di entrata in vigore del presente decreto.
 
 Entro il 30 settembre di ogni anno, le autorita' di cui al comma 2, lettere a) e b), diverse dal Ministero dell'ambiente e della tutela del territorio e del mare trasmettono all'Istituto superiore per protezione e la ricerca ambientale un rapporto di valutazione della qualita' dei dati forniti dai gestori, per quanto attiene alla loro completezza, esattezza e conformita' all'allegato II al presente decreto. Il rapporto di valutazione deve uniformarsi ai criteri e al formato indicati nell'allegato I al presente decreto.
 

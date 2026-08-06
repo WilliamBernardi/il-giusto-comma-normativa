@@ -8,8 +8,8 @@ codice_redazionale: 006G0175
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,24 @@ Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per i beni e le attivita' culturali, di concerto con il Ministro per gli affari regionali;
 
 ## Art. 1. — Modifiche all'articolo 5 del decreto legislativo 22 gennaio 2004, n. 42
+
+1.
+                    
+                        
+                            All'articolo 5, del decreto legislativo 22 gennaio 2004, n. 42, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 6 le parole: «conferite alle regioni» sono sostituite dalle seguenti: «esercitate dallo Stato e dalle regioni»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 7 le parole: «di cui ai» sono sostituite dalle seguenti: «esercitate dalle regioni ai sensi dei».
 
 ## Art. 2. — Modifiche all'articolo 6 del decreto legislativo 22 gennaio 2004, n. 42
 
@@ -142,7 +160,43 @@ L'articolo 143 del decreto legislativo 22 gennaio 2004, n. 42, e' sostituito dal
 
 ## Art. 14. — Modifiche all'articolo 144 del decreto legislativo 22 gennaio 2004, n. 42
 
+1.
+                    
+                        
+                            All'articolo 144 del decreto legislativo 22 gennaio 2004, n. 42, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 e' aggiunto, in fine, il seguente periodo: «A tale fine le regioni disciplinano mediante apposite norme di legge i procedimenti di pianificazione paesaggistica, in particolare stabilendo che a fare data dall'adozione o approvazione preliminare del piano, da parte della giunta regionale o del consiglio regionale, non sono consentiti per gli immobili e nelle aree di cui all'articolo 134 gli interventi in contrasto con le prescrizioni di tutela per essi previste nel piano stesso.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                il comma 2 e' sostituito dal seguente: «2. Fatto salvo quanto disposto al comma 1, il piano paesaggistico diviene efficace il giorno successivo a quello della sua pubblicazione nel Bollettino ufficiale della regione.».
+
 ## Art. 15. — Modifiche all'articolo 145 del decreto legislativo 22 gennaio 2004, n. 42
+
+1.
+                    
+                        
+                            All'articolo 145 del decreto legislativo 22 gennaio 2004, n. 42, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 2 dopo le parole: «nonche' con» le parole: «gli strumenti» sono soppresse e sono inserite le seguenti: «i piani, programmi e progetti»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 3, secondo periodo, sono aggiunte, in fine, le seguenti parole: «ad incidenza territoriale previsti dalle normative di settore, ivi compresi quelli degli enti gestori delle aree naturali protette».
 
 ## Art. 16. — Sostituzione dell'articolo 146 del decreto legislativo 22 gennaio 2004, n. 42
 
@@ -185,7 +239,57 @@ Al comma 1 dell'articolo 149 del decreto legislativo 22 gennaio 2004, n. 42, le 
 
 ## Art. 20. — Modifiche all'articolo 150 del decreto legislativo 22 gennaio 2004, n. 42
 
+1.
+                    
+                        
+                            All'articolo 150 del decreto legislativo 22 gennaio 2004, n. 42, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1 le parole: «comma 4» sono sostituite dalle seguenti: «comma 3»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alla lettera a) del comma 1, le parole: «pregiudicare il bene» sono sostituite dalle seguenti: «recare pregiudizio al paesaggio»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 2, dopo le parole: «della proposta» le parole: «della Commissione» sono soppresse e dopo le parole: «di cui all'articolo 138 o» le parole: «della proposta dell'organo ministeriale prevista» sono soppresse; in fine, le parole: «comma 4» sono sostituite dalle seguenti: «comma 3»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 3 le parole: «pianificazione paesaggistica» sono sostituite dalle seguenti: «il piano paesaggistico», e dopo le parole: «preveda misure» sono inserite le seguenti: «o interventi»; in fine, le parole: «, per non compromettere l'attuazione della pianificazione» sono soppresse.
+
 ## Art. 21. — Modifiche all'articolo 152 del decreto legislativo 22 gennaio 2004, n. 42
+
+1.
+                    
+                        
+                            All'articolo 152 del decreto legislativo 22 gennaio 2004, n. 42, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                il comma 1 e' sostituito dal seguente: «1. Nel caso di aperture di strade e di cave, di posa di condotte per impianti industriali e civili e di palificazioni nell'ambito e in vista delle aree indicate alle lettere c) e d) del comma 1 dell'articolo 136 ovvero in prossimita' degli immobili indicati alle lettere a) e b) del comma 1 dello stesso articolo, la regione, tenendo in debito conto la funzione economica delle opere gia' realizzate o da realizzare, ha facolta' di prescrivere le distanze, le misure e le varianti ai progetti in corso d'esecuzione, idonee ad evitare pregiudizio ai beni protetti da questo Titolo. La medesima facolta' spetta al Ministero, che la esercita previa consultazione della regione.»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 2 la parola: «Regione» e' sostituita dalla seguente: «regione».
 
 ## Art. 22. — Modifiche all'articolo 154 del decreto legislativo 22 gennaio 2004, n. 42
 
@@ -205,6 +309,24 @@ Entro il 1° maggio 2008, le regioni che hanno redatto i piani previsti dall'art
  4. Qualora l'intesa di cui al comma 3 non venga stipulata, ovvero ad essa non segua l'accordo procedimentale sul contenuto del piano adeguato, non trova applicazione quanto previsto dai commi 4 e 5 dell'articolo 143.».
 
 ## Art. 25. — Modifiche all'articolo 157 del decreto legislativo 22 gennaio 2004, n. 42
+
+1.
+                    
+                        
+                            Al comma 1 dell'articolo 157 del decreto legislativo 22 gennaio 2004, n. 42, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera d) ed alla lettera f) la parola: «della» e' sostituita dalla seguente: «delle»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera f) e' aggiunta, in fine, la seguente: «f-bis) i provvedimenti emanati ai sensi dell'articolo 1-ter del decreto-legge 27 giugno 1985, n. 312, convertito, con modificazioni, dalla legge 8 agosto 1985, n. 431.».
 
 ## Art. 26. — Sostituzione dell'articolo 159 del decreto legislativo 22 gennaio 2004, n. 42
 
@@ -232,6 +354,24 @@ L'importo della sanzione pecuniaria e' determinato previa perizia di stima. In c
  6. Le somme riscosse per effetto dell'applicazione del comma 5, nonche' per effetto dell'articolo 1, comma 37, lettera b), n. 1), della legge 15 dicembre 2004, n. 308, sono utilizzate, oltre che per l'esecuzione delle rimessioni in pristino di cui al comma 1, anche per finalita' di salvaguardia nonche' per interventi di recupero dei valori paesaggistici e di riqualificazione degli immobili e delle aree degradati o interessati dalle rimessioni in pristino. Per le medesime finalita' possono essere utilizzate anche le somme derivanti dal recupero delle spese sostenute dall'amministrazione per l'esecuzione della rimessione in pristino in danno dei soggetti obbligati, ovvero altre somme a cio' destinate dalle amministrazioni competenti.».
 
 ## Art. 28. — Modifiche all'articolo 181 del decreto legislativo 22 gennaio 2004, n. 42
+
+1.
+                    
+                        
+                            All'articolo 181 del decreto legislativo 22 gennaio 2004, n. 42, sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 1-bis, lettera a), le parole: «ai sensi dell'articolo 136,» sono soppresse;
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 1-ter le parole: «ripristinatorie o» sono soppresse.
 
 ## Art. 29. — Modifiche all'articolo 182 del decreto legislativo 22 gennaio 2004, n. 42
 

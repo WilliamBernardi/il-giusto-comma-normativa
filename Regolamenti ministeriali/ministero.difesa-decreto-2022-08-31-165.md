@@ -7,8 +7,8 @@ urn: urn:nir:ministero.difesa:decreto:2022-08-31;165
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -55,6 +55,38 @@ Il Cappellano militare, nel comune vincolo dell'obbedienza, adempie alle disposi
 Con il giuramento di cui all'articolo 1550 del codice, il Cappellano militare s'impegna solennemente a fornire la propria opera di assistenza spirituale e pastorale con assoluta fedelta' alle istituzioni, con disciplina, senso di responsabilita' e comune partecipazione, senza risparmio di energie fisiche, morali e intellettuali.
 
 ## Art. 5. — Doveri attinenti alla collocazione funzionale
+
+1.
+                    
+                        
+                            Il Cappellano militare, in base alla sua collocazione funzionale nell'ambito dell'organizzazione militare, ha il dovere di: 
+ 
+                        
+                        
+                            a)
+                            
+                                osservare le prerogative costituzionali del Presidente della Repubblica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                rispettare il Ministro della difesa e i Sottosegretari di Stato per la difesa quando esercitano le funzioni loro conferite per delega del Ministro; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                osservare la diretta dipendenza dal Comandante dell'ente ove presta servizio, nell'ambito delle specifiche funzioni di assistenza svolte; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rispettare le autorita' che rivestono un grado superiore a quello a lui attribuito.
 
 ## Art. 6.
 
@@ -120,6 +152,38 @@ Titolarita' del potere sanzionatorio
 Il potere sanzionatorio e' attribuito al Ministro della difesa ai sensi dell'articolo 1603 del codice.
 
 ## Art. 16. — Criteri per la irrogazione delle sanzioni disciplinari
+
+1.
+                    
+                        
+                            Le sanzioni disciplinari sono commisurate al tipo di infrazione commessa e alla gravita' della stessa, con particolare riguardo a: 
+ 
+                        
+                        
+                            a)
+                            
+                                intenzionalita'; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                concorso o coinvolgimento di personale militare; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                recidivita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                rilevanza, anche esterna all'Istituzione militare, tale da lederne l'immagine, il prestigio e il vincolo di fiducia sul quale e' fondato il rapporto d'impiego e di servizio del Cappellano militare.
 
 ## Art. 17. — Procedimento disciplinare
 

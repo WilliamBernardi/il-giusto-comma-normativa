@@ -8,8 +8,8 @@ codice_redazionale: 001G0274
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:24Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,52 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 Il presente regolamento disciplina il finanziamento della ricerca corrente e finalizzata svolta dagli Istituti di ricovero e cura a carattere scientifico aventi personalita' giuridica di diritto pubblico o di diritto privato, in seguito denominati IRCCS.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente regolamento si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    Istituto di ricovero e cura a carattere scientifico (IRCCS): l'ente nazionale di cui all'articolo 1 del decreto legislativo 30 giugno 1993, n. 269;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ricerca corrente: l'attivita' di ricerca scientifica di base svolta dagli IRCCS che, ai sensi dell'articolo 6, comma 1, del decreto legislativo 30 giugno 1993, n. 269, e' diretta a sviluppare la conoscenza in settori specifici della biomedicina e della sanita' pubblica, e viene attuata attraverso la programmazione triennale di progetti istituzionali, tenuto conto degli indirizzi del programma nazionale di ricerca sanitaria;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricerca finalizzata: l'attivita' di ricerca scientifica svolta dagli IRCCS, attuata attraverso specifici progetti, che, ai sensi dell'articolo 6, comma 2, del decreto legislativo 30 giugno 1993, n. 269, e' diretta al raggiungimento dei particolari e prioritari obiettivi, biomedici e sanitari, individuati dal Piano sanitario nazionale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    decreto di finanziamento: il decreto del Ministero del tesoro, del bilancio e della programmazione economica che, per ogni anno finanziario, trasferisce nell'unita' previsionale di base "ricerca scientifica" dello stato di previsione del Ministero della sanita', la quota del Fondo sanitario nazionale destinata alla ricerca, di cui all'articolo 12, comma 2, del decreto legislativo n. 502 del 1992 e successive modificazioni, determinata ai sensi dell'articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Commissione per la ricerca sanitaria: la commissione, istituita dall'articolo 2, comma 7, del decreto legislativo 30 giugno 1993, n. 266, avente compiti consultivi ai fini della programmazione della ricerca corrente e finalizzata degli IRCCS, nell'ambito della programmazione della ricerca sanitaria;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    triennio di programmazione della ricerca corrente: l'arco temporale di progettazione strategica dell'attivita' di ricerca istituzionale degli IRCCS, avente durata triennale, in coerenza con quanto disposto dall'articolo 6, comma 4, del decreto legislativo del 30 giugno 1993, n.269.
 
 ## - Capo II Risorse finanziarie
 
@@ -52,6 +98,31 @@ Gli indirizzi di cui al comma 1 sono adottati con decreto dirigenziale entro il 
 Gli IRCCS, tenendo conto degli indirizzi di cui ai commi 1 e 2, entro il 30 settembre dell'anno precedente al triennio di programmazione, presentano al Ministero della sanita' un programma triennale di ricerca corrente, articolato per progetti, nell'ambito della propria attivita' istituzionale.
 
 ## Art. 5. — Ripartizione delle risorse destinate alla ricerca corrente
+
+1.
+                        
+                            
+                                La ripartizione delle risorse rese disponibili per la ricerca corrente e' disposta annualmente fra gli IRCCS di diritto pubblico e di diritto privato con decreto dirigenziale:
+ 
+                            
+                            
+                                a)
+                                
+                                    a seguito di unico procedimento per gli IRCCS pubblici e privati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sulla base della valutazione dei programmi triennali degli IRCCS effettuata sotto il profilo scientifico e finanziario entro il 30 dicembre dell'anno precedente a quello di erogazione dei fondi e di inizio dell'attivita' di ricerca;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    tenuto conto della verifica annuale, relativa a ciascun IRCCS, della qualita' della produzione scientifica, dell'attivita' assistenziale prestata e del grado di trasferimento di attivita' di ricerca all'attivita' assistenziale.
 
 ## Art. 6. — Vigilanza sull'attivita' degli IRCCS
 
@@ -90,4 +161,32 @@ Nel caso in cui gli IRCCS, pur diffidati, non provvedano ad inviare, nel termine
 ## - Capo V Norme finali
 
 ## Art. 9. — Abrogazioni
+
+1.
+                        
+                            
+                                In attuazione dell'articolo 20, comma 4 della legge 15 marzo 1997, n. 59, dalla data di entrata in vigore del presente regolamento sono abrogate le seguenti disposizioni normative:
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        articolo 6, comma 3, del decreto legislativo 30 giugno 1993, n. 269, limitatamente alle parole "determinati secondo le indicazioni della commissione della ricerca sanitaria";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        articoli 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 e 32 del decreto del Presidente della Repubblica 31 luglio 1980, n. 617;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        articolo 12-bis, comma 8, del decreto legislativo 30 dicembre 1992, n. 502, limitatamente alle parole "anche al fine di garantire la qualita' e l'indipendenza del processo di valutazione e di selezione dei progetti di ricerca.".
 

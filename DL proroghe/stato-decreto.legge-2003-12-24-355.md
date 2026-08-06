@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2024-12-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -190,6 +190,23 @@ All'onere di cui al comma 1, pari ad euro 5.000.000 per l'anno 2005 e ad euro 10
 
 ((
 
+1.
+                    
+                        
+                            I termini di cui al decreto del Presidente del Consiglio dei Ministri del 5 settembre 2003, pubblicato nella Gazzetta Ufficiale n. 212 del 12 settembre 2003, relativo ai gravi eventi alluvionali verificatisi il 29 agosto 2003 nel territorio della regione Friuli-Venezia Giulia ed al decreto del Presidente del Consiglio dei Ministri del 29 settembre 2003, pubblicato nella Gazzetta Ufficiale n. 232 del 6 ottobre 2003, relativo agli eventi sismici verificatisi il 14 settembre 2003 nel territorio della provincia di Bologna, sono prorogati al 30 giugno 2005; per la prosecuzione degli interventi disposti in attuazione, rispettivamente, dei predetti decreti del Presidente del Consiglio dei Ministri:
+
+                        
+                        
+                            a)
+                            
+                                il Dipartimento della protezione civile e' autorizzato a provvedere con contributi quindicennali ai mutui che il commissario delegato nominato ai sensi dell'ordinanza del Presidente del Consiglio dei Ministri n. 3309 dell'11 settembre 2003, pubblicata nella Gazzetta Ufficiale n. 217 del 18 settembre 2003, puo' stipulare allo scopo; a tal fine e' autorizzato il limite di impegno di 12,5 milioni di euro dall'anno 2005. I predetti mutui possono essere stipulati con la Banca europea per gli investimenti, la Banca di sviluppo del Consiglio d'Europa, la Cassa depositi e prestiti e con i soggetti autorizzati all'esercizio dell'attivita' bancaria ai sensi del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385. Al relativo onere, pari a 12,5 milioni di euro a decorrere dall'anno 2005, si provvede mediante corrispondente utilizzo delle proiezioni, per gli anni 2005 e 2006, dello stanziamento iscritto, ai fini del bilancio triennale 2004-2006, nell'ambito dell'unita' previsionale di base di conto capitale "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2004, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle infrastrutture e dei trasporti;
+                            
+                        
+                        
+                            b)
+                            
+                                e' autorizzata la spesa per l'anno 2004 di euro 12 milioni al cui onere si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2004-2006, nell'ambito dell'unita' previsionale di base di conto capitale "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2004, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'interno.
+
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 ))
@@ -238,6 +255,29 @@ Finanziamento del rinnovo contrattuale per il settore del trasporto pubblico loc
  per gli interventi di recupero del patrimonio edilizio). ))
 
 ((
+
+1.
+                    
+                        
+                            Sono prorogate per gli anni 2004 e 2005, nella misura e alle condizioni ivi previste, le agevolazioni tributarie in materia di recupero del patrimonio edilizio relative:
+
+                        
+                        
+                            a)
+                            
+                                agli interventi di cui all'articolo 2, comma 5, della legge 27 dicembre 2002, n. 289, per le spese sostenute dal 1° gennaio 2004 al 31 dicembre 2005;
+                            
+                        
+                        
+                            b)
+                            
+                                agli interventi di cui all'articolo 9, comma 2, della legge 28 dicembre 2001, n. 448, nel testo vigente al 31 dicembre 2003, eseguiti entro il 31 dicembre 2005 dai soggetti ivi indicati che provvedano alla successiva alienazione o assegnazione dell'immobile entro il 30 giugno 2006;
+                            
+                        
+                        
+                            c)
+                            
+                                alle prestazioni di cui all'articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 488, fatturate dal 1° gennaio 2004.
 
 Sono abrogati i commi 15 e 16 dell'articolo 2 della legge 24 dicembre 2003, n. 350.
 
@@ -315,6 +355,29 @@ All'articolo 1 del decreto-legge 24 giugno 2003, n. 143, convertito, con modific
 Al comma 2-ter dell'articolo 12 della legge 27 dicembre 2002, n. 289, come da ultimo modificato dall'articolo 34 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, le parole: "16 marzo 2004" e "16 febbraio 2004" sono sostituite, rispettivamente, dalle seguenti: "16 aprile 2004" e "16 marzo 2004".
 
 All'articolo 16 della legge 27 dicembre 2002, n. 289, come da ultimo modificato dall'articolo 34 del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, al comma 6, le parole: "30 aprile 2004", ovunque ricorrano, sono sostituite dalle seguenti: "1° giugno 2004", e, al comma 8, le parole: "16 maggio 2004" sono sostituite dalle seguenti: "15 giugno 2004".
+
+4.
+                    
+                        
+                            All'articolo 2 della legge 24 dicembre 2003, n. 350, sono apportate le seguenti modificazioni:
+
+                        
+                        
+                            a)
+                            
+                                ai commi da 44 a 49, le parole: "16 marzo 2004", ovunque ricorrano, sono sostituite dalle seguenti: "16 aprile 2004";
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 48, terzo periodo, le parole: "18 marzo 2004" sono sostituite dalle seguenti: "19 aprile 2004";
+                            
+                        
+                        
+                            c)
+                            
+                                al comma 49, quinto periodo, le parole: "17 marzo 2004" sono sostituite dalle seguenti: "17 aprile 2004".
 
 Gli ulteriori termini connessi, contenuti nelle disposizioni degli articoli 7, 8, 9, 9-bis, 11, 12, 14, 15 e 16 della legge 27 dicembre 2002, n. 289, nonche' quelli per la mera trasmissione in via telematica delle dichiarazioni previste dai predetti articoli, sono rideterminati, rispettivamente, con decreti del Ministro dell'economia e delle finanze e del direttore dell'Agenzia delle entrate.
 

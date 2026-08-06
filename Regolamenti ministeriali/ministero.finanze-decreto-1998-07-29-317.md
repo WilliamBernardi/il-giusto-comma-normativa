@@ -8,8 +8,8 @@ codice_redazionale: 098G0365
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -26,6 +26,38 @@ Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gl
 ## Art. 1.
 
 Il Ministro delle finanze effettua, ai sensi e per gli effetti di cui all'articolo 20, commi 2 e 8, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni ed integrazioni, la verifica dei risultati dell'attivita' svolta dagli ufficiali di grado equiparato alle qualifiche dirigenziali preposti a comandi, enti, uffici e servizi del Corpo della Guardia di finanza, con esclusione dei dirigenti generali.
+
+2.
+                    
+                        
+                            Per la verifica periodica della corretta ed economica gestione delle risorse, della realizzazione degli obiettivi nonche' dell'imparzialita' e del buon andamento dell'azione amministrativa, il Ministro, avvalendosi anche del Comandante generale della Guardia di finanza:
+ 
+                        
+                        
+                            a)
+                            
+                                determina annualmente i parametri di riferimento del controllo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce i termini e le modalita' delle operazioni di verifica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accerta la rispondenza dell'attivita' di gestione finanziaria, tecnica ed amministrativa alle prescrizioni ed agli obiettivi stabiliti dalle disposizioni normative e dalle direttive generali emanate ai sensi dell'articolo 14 del decreto legislativo n. 29 del 1993, e successive modificazioni ed integrazioni;
+
+                            
+                        
+                        
+                            d)
+                            
+                                individua le cause dell'eventuale mancata rispondenza dei risultati agli obiettivi e valuta eventuali connesse responsabilita' a carico dei dirigenti, promuovendo le conseguenti iniziative anche di natura organizzativa e procedurale.
 
 ## Art. 2.
 

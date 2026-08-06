@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2004-01-07
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:46Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -166,6 +166,31 @@ La provincia di Trento, nell'esercizio delle competenze ad essa spettanti ai sen
 La stessa legge provinciale regola lo stato del personale in servizio, nel rispetto della posizione giuridico-economica acquisita, nonche' la destinazione dei beni gia' appartenenti al consorzio.
 
 ## Art. 16.
+
+1.
+                    
+                        
+                            A decorrere dalla data di entrata in vigore della legge provinciale che istituisce l'ufficio del sovrintendente scolastico, passa alle dipendenze della provincia di Trento il seguente personale statale in servizio nella provincia sempre che non chieda, nel termine stabilito dalla predetta legge provinciale, di rimanere alle dipendenze dello Stato: 
+ 
+                        
+                        
+                            a)
+                            
+                                il personale amministrativo appartenente ai ruoli dell'amministrazione centrale della pubblica istruzione e dell'amministrazione scolastica periferica, con esclusione del provveditore agli studi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il personale non docente delle scuole di ogni ordine e grado; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il personale docente collocato permanentemente fuori ruolo ai sensi della legge 2 dicembre 1967, n. 1213, e il personale docente mantenuto ad esaurimento ai sensi dell'art. 63, quarto comma, della legge 20 maggio 1982, n. 270, presso il provveditorato agli studi di Trento.
 
 In relazione alle unita' di personale di cui alla lettera a) del comma 1, che passa alle dipendenze della provincia, vengono soppressi altrettanti posti nella qualifica iniziale del ruolo di appartenenza.
 

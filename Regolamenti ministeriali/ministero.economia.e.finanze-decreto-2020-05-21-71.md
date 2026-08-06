@@ -7,8 +7,8 @@ urn: urn:nir:ministero.economia.e.finanze:decreto:2020-05-21;71
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -40,13 +40,144 @@ Uditi i pareri del Consiglio di Stato del 27 dicembre 2019, n. 3236 nonche' del 
 
 ## Art. 1. — Oggetto
 
+1.
+                        
+                            
+                                Il presente regolamento disciplina: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i criteri e le modalita' per l'utilizzazione delle risorse del Fondo di cui all'articolo 2, comma 6-sexies, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10 e successivamente dall'articolo 1, comma 492, lettera a), della legge 30 dicembre 2018, n. 145, destinate all'erogazione di borse di studio in favore degli orfani per crimini domestici e al finanziamento di iniziative di orientamento, di formazione e di sostegno per l'inserimento dei medesimi nell'attivita' lavorativa, ai sensi dell'articolo 11, comma 1, lettera a), e comma 2, della legge 11 gennaio 2018, n. 4; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i criteri di equita' per l'erogazione delle misure di sostegno e di aiuto economico in favore delle famiglie affidatarie, ai sensi dell'articolo 1, comma 492, lettera b), della legge 30 dicembre 2018, n. 145 e dell'articolo 11, comma 1, lettera b), della legge 11 gennaio 2018, n. 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i criteri e le modalita' per l'utilizzazione delle risorse di cui all'articolo 1, comma 279, della legge 27 dicembre 2017, n. 205, destinate alle finalita' di cui al comma 1, lettera a), nonche' alle spese mediche e assistenziali in favore degli orfani per crimini domestici e degli orfani di madre a seguito del delitto di cui agli articoli 575 e 576, primo comma, n. 5.1. del codice penale, ovvero per omicidio a seguito dei delitti di cui agli articoli 609-bis e 609-octies del codice penale, ai sensi dell'articolo 1, comma 280, della legge 27 dicembre 2017, n. 205.
+
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai sensi del presente regolamento si intendono per 
+ 
+                            
+                            
+                                a)
+                                
+                                    «Beneficiari»: 
+ 1) orfani di crimini domestici, figli minorenni e maggiorenni economicamente non autosufficienti, della vittima di un omicidio commesso dal coniuge, anche legalmente separato o divorziato, ovvero dall'altra persona dell'unione civile, anche se l'unione e' cessata, ovvero dalla persona che e' o e' stata legata da relazione affettiva e stabile convivenza, da dichiararsi secondo le modalita' di cui all'articolo 13, comma 1, lettera b), del d.P.R. 30 maggio 1989, n. 223, anche in conformita' a quanto previsto dall'articolo 1, comma 37, della legge 20 maggio 2016, n. 76; 
+ 2) orfani, figli minorenni e maggiorenni economicamente non autosufficienti, di madre vittima di omicidio, ai sensi dell'articolo 576, comma 1, n. 5.1, del codice penale; 
+ 3) orfani, figli minorenni e maggiorenni economicamente non autosufficienti, di madre vittima di omicidio, a seguito dei delitti di cui agli articoli 609-bis e 609-octies del codice penale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «Fondo»: il Fondo di rotazione per la solidarieta' alle vittime dei reati di tipo mafioso, delle richieste estorsive, dell'usura e dei reati intenzionali violenti nonche' agli orfani per crimini domestici di cui all'articolo 2, comma 6-sexies, del decreto-legge 29 dicembre 2010, n. 225, convertito, con modificazioni, dalla legge 26 febbraio 2011, n. 10, come modificato dall'articolo 14 della legge 7 luglio 2016, n. 122, dall'articolo 11 della legge 11 gennaio 2018, n. 4 e disciplinato dal decreto del Presidente della Repubblica 19 febbraio 2014, n. 60; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «Comitato»: il Comitato di solidarieta' per le vittime dei reati di tipo mafioso istituito presso il Ministero dell'interno ai sensi dell'articolo 3 della legge 22 dicembre 1999, n. 512; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «Commissario»: il Commissario per il coordinamento delle iniziative di solidarieta' per le vittime dei reati di tipo mafioso, che presiede il Comitato; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «Concessionario»: CONSAP «Concessionaria Servizi Assicurativi Pubblici S.p.A.», che gestisce il Fondo per conto del Ministero dell'interno sulla base di apposita convenzione, ai sensi dell'articolo 19, comma 5, del decreto-legge 1° luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, nonche' ai sensi dell'articolo 3, comma 4, della legge 22 dicembre 1999, n. 512.
 
 ## - Capo II SOSTEGNO AL DIRITTO ALLO STUDIO
 
 ## Art. 3. — Ripartizione delle risorse
 
+1.
+                        
+                            
+                                Nei limiti delle risorse stanziate sul Fondo dalle leggi di cui in premessa, per le finalita' indicate nel presente Capo, sono destinate le seguenti somme, come di seguito indicate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    anno 2017 euro 2.000.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anno 2018 euro 4.000.000; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    anno 2019 euro 5.960.256; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    anno 2020 euro 3.500.000; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    anno 2021 euro 2.000.000; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    a decorrere dall'anno 2022 euro 1.500.000.
+
 ## Art. 4. — Benefici
+
+1.
+                        
+                            
+                                A valere sulle risorse di cui all'articolo 3 e' riconosciuto uno dei seguenti benefici: 
+ 
+                            
+                            
+                                a)
+                                
+                                    borse di studio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gratuita' o semigratuita' della frequenza presso convitti, educandati o istituzioni educative in generale, anche sulla base di apposite convenzioni, a tal fine stipulate dal Commissario.
 
 I benefici di cui al comma 1 sono rivolti a studenti degli istituti scolastici ed educativi del sistema nazionale di istruzione, degli istituti di istruzione e formazione professionale, delle Universita', delle istituzioni dell'Alta Formazione Artistica, Musicale e Coreutica (AFAM) e degli Istituti Tecnici Superiori (ITS).
 
@@ -87,6 +218,24 @@ Sull'istanza di cui al comma 2 provvede il Commissario, previa delibera del Comi
 
 ## Art. 8. — Criterio di riparto delle risorse
 
+1.
+                        
+                            
+                                Nei limiti degli stanziamenti del Fondo indicati dalle leggi di cui in premessa, alle iniziative di orientamento e formazione sono destinate le risorse di seguito indicate, da ripartire tra le Regioni e le Province autonome: 
+ 
+                            
+                            
+                                a)
+                                
+                                    anno 2020 euro 2.000.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dall' anno 2021 euro 1.000.000.
+
 Il riparto delle risorse tra le Regioni e Province autonome e' effettuato nel seguente modo: il primo anno, sulla base della popolazione residente; a partire dal secondo anno, sulla base del numero degli eventi delittuosi riscontrati nel corso dell'anno precedente in ciascuna Regione e Provincia autonoma.
 
 ## Art. 9.
@@ -100,6 +249,31 @@ Sulla base delle domande presentate dagli interessati alla Prefettura-Ufficio Te
 Le Regioni e le Province autonome rendicontano annualmente al Commissario sulle spese sostenute.
 
 ## Art. 11. — Incentivi all'assunzione
+
+1.
+                        
+                            
+                                Nei limiti delle risorse stanziate sul Fondo dalle leggi di cui in premessa, a decorrere dal primo gennaio 2020, ai datori di lavoro privati che assumono, con contratto di lavoro subordinato a tempo indeterminato, gli orfani in possesso dei requisiti di cui al Capo I, e' riconosciuto un incentivo, per ogni assunzione effettuata, fino al 50 per cento dei contributi dovuti, per un periodo massimo di 36 mesi, a valere sul Fondo secondo la seguente quantificazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    anno 2020 euro 500.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    anno 2021 euro 1.000.000; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    a decorrere dall'anno 2022 euro 1.500.000.
 
 Le domande devono essere presentate dal datore di lavoro all'Istituto Nazionale Previdenza Sociale ed alla Prefettura - Ufficio Territoriale del Governo di residenza dell'orfano, che le trasmette al Commissario. Sulle domande presentate delibera il Comitato.
 
@@ -164,6 +338,24 @@ Sono famiglie affidatarie ai sensi del presente decreto anche le famiglie parent
 
 ## Art. 20. — Requisiti di accesso
 
+1.
+                        
+                            
+                                Il sostegno e l'aiuto economico sono corrisposti alle seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che la famiglia sia riconosciuta affidataria ai sensi della legge 4 maggio 1983, n. 184; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    che l'orfano non abbia compiuto la maggiore eta' alla data del 1° gennaio 2020.
+
 Il possesso dei requisiti per l'ammissione ai benefici di cui al presente capo e' verificato sulla base degli atti del procedimento penale che non siano coperti da segreto ovvero del decreto che dispone il giudizio ovvero di sentenza anche non passata in giudicato o di decreto penale di condanna anche non divenuto irrevocabile o di sentenza di applicazione della pena su richiesta delle parti ai sensi dell'articolo 444 del codice di procedura penale, recanti comunque l'accertamento dei presupposti di cui all'articolo 2, comma 1, lettera a).
 
 Il beneficio in favore delle famiglie affidatarie decorre dalla data del provvedimento giudiziario di affidamento del minore.
@@ -171,6 +363,24 @@ Il beneficio in favore delle famiglie affidatarie decorre dalla data del provved
 ## Art. 21.
 
 Modalita' di accesso ai benefici
+
+1.
+                        
+                            
+                                La domanda di sostegno ed aiuto economico e' presentata dalle famiglie interessate di cui agli articoli 19 e 20, da uno dei componenti o a mezzo di procuratore speciale, alle Prefetture - Uffici Territoriali del Governo di residenza delle famiglie affidatarie, per l'inoltro al Commissario ed e' corredata dei seguenti atti e documenti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    copia del provvedimento giudiziario di affidamento del minore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    copia del provvedimento o degli atti del procedimento penale.
 
 Sulle istanze presentate provvede il Commissario previa delibera del Comitato.
 

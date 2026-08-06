@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2016-05-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -58,6 +58,45 @@ Lo statuto dell'Ente di cui all'articolo 9, comma 8 della legge 6 dicembre 1991,
  - L'art. 9, comma 10, della citata legge n. 394/1991 e' il seguente: "10. Il Collegio dei revisori dei conti esercita il riscontro contabile sugli atti dell'Ente parco secondo le norme di contabilita' dello Stato e sulla base dei regolamenti di contabilita' dell'Ente parco, approvati dal Ministro del tesoro di concerto con il Ministro dell'ambiente. Il collegio dei revisori dei conti e' nominato con decreto del Ministro del tesoro ed e' formato da tre componenti scelti tra funzionari della Ragioneria generale dello Stato ovvero tra iscritti nel ruolo dei revisori ufficiali dei conti. Essi sono designati: due dal Ministro del tesoro, di cui uno in qualita' di Presidente del Collegio; uno dalla regione o, d'intesa, dalle regioni interessate".
 
 ## Art. 2.
+
+1.
+                    
+                        
+                            Sono organi dell'Ente Parco: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio direttivo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la giunta esecutiva; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei revisori dei conti; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la comunita' del Parco.
 
 Il Presidente e' nominato dal Ministro dell'ambiente, previa intesa con i presidenti della regione Piemonte e della regione autonoma Valle d'Aosta, ((...)). ((PERIODO SOPPRESSO DAL DECRETO 2 DICEMBRE 2015, N. 229)).
 

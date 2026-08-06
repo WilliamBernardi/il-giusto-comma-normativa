@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di recepimento direttive UE
 zip_date: 2026-07-30
-fetched_at: 2026-08-02T09:40:47Z
+fetched_at: 2026-07-30
 ---
 
 DECRETO
@@ -34,6 +34,74 @@ L'art. 5 del decreto ministeriale 21 marzo 1973, come modificato dall'art. 1 del
 
 La prima frase del comma 1 dell'art. 9-bis del decreto ministeriale 21 marzo 1973 e' sostituita dalla seguente:
  " 1. I materiali e gli oggetti di cui all'art. 9, comma 2, non devono cedere i loro costituenti ai prodotti alimentari o ai simulanti dei prodotti alimentari in quantita' superiori a 10 mg per decimetro quadrato (mg/dm(Elevato al Quadrato)) di superficie del materiale o dell'oggetto (limite globale di migrazione).".
+
+3.
+                    
+                        
+                            L'allegato I del decreto ministeriale 26 aprile 1993, n. 220, e' modificato come segue:
+ 
+                        
+                        
+                            a)
+                            
+                                al punto 8:
+ - dopo la voce "QM(T)" e' aggiunto il seguente testo:
+ "Ai fini del presente decreto 'QM(T)' significa che la quantita' massima di sostanza 'residua' ammessa nel prodotto finito deve essere determinata al livello del limite specificato con un metodo analitico convalidato. Se un tale metodo attualmente non esiste, puo' essere impiegato un metodo analitico avente caratteristiche di qualita' adeguate al livello del limite specificato, in attesa dello sviluppo di un metodo convalidato.".
+ - dopo la voce "LMS(T)" e' aggiunto il seguente testo:
+ "Ai fini del presente decreto 'LMS(T)' significa che la migrazione specifica deve essere determinata al livello del limite specificato con un metodo analitico convalidato. Se un tale metodo attualmente non esiste, puo' essere impiegato un metodo analitico avente caratteristiche di qualita' adeguate al livello del limite specificato, in attesa dello sviluppo dell'elaborazione di un metodo concordato.";
+
+                            
+                        
+                        
+                            b)
+                            
+                                nella sezione A:
+ - sono aggiunti i seguenti monomeri:
+=====================================================================
+  N.
+PM/REF N. CAS Nome Restrizioni
+ 1 2 3 4
+_____________________________________________________________________ 10750 002495-35-1 Acrilato di benzile
+11890 002499-59-4 Acrilato di n-ottile (*)
+15095 000334-48-5 Acido decanoico
+15565 000106-46-7 1,4-Diclorobenzene LMS = 12mg/kg
+15790 000111-40-0 Dietilentriammina LMS = 5mg/kg
+15820 000345-92-6 4,4'-Difluorobenzofenone LMS = 0,05mg/kg 17160 000097-53-0 Bugenolo LMS = 0,01mg/kg 19210 001459-93-4 Isoftloto di dimetile (*) LMS = 0,05mg/kg 20080 002495-37-6 Metacrilato di benzile (*)
+21280 002177-70-0 Metacrilato di fenile (*)
+22390 000840-65-3 2,6-Naftalendicarbossilato di
+ dimetile LMS = 0,05mg/kg 24057 000089-32-7 Anidride piromellitica LMS = 0,05mg/kg (espresso come
+ acido piromellitico) 24475 001313-82-2 Solfuro di sodio
+24550 009005-25-8 Acido commestibile
+24888 003965-55-7 5-Solfoisoftalato di dimetile,
+ sale monosodico LMS = 0,05mg/kg 24940 000100-20-9 Dicloruro dell'acido tereftalico LMS(T)=7,5mg/kg (espresso come
+ acido tereftalico) 25120 000116-14-3 Tetrafluoroerilene (*) LMS = 0,05mg/kg (*) Sono depennate dalla sezione B.
+ - per il monomero "acido 11 - amminoundecanoico", avente i numeri di riferimento: N. PM/REF 12788 e N. CAS 002432-99-7, il testo della colonna 4 "restrizioni" e' sostituito dal seguente: "LMS = 5 mg/kg";
+
+                            
+                        
+                        
+                            c)
+                            
+                                nella sezione B sono incluse le seguenti sostanze:
+=====================================================================
+    N.
+ PM/REF N. CAS Nome Restrizioni 1 2 3 4
+_____________________________________________________________________ 10599/90A 061788-89-4 Dimeri degli acidi grassi insatu-
+ ri (C18) distillati
+10599/91 061788-89-4 Dimeri degli acidi grassi insatu-
+ ri (C18) non distillati
+10599/92A 068783-41-5 Dimeri idrogenati degli acidi
+ grassi insaturi (C18) distillati
+10599/93 068783-41-5 Dimeri idrogenati degli acidi
+ grassi insaturi (C18) non
+ distillati
+
+                            
+                        
+                        
+                            d)
+                            
+                                nella sezione B sono soppresse le sostanze di seguito indicate con il relativo "N. PN/R.E.F.": 10720, 10775, 10990, 11005, 11532, 11875, 18490, 15030, 15060, 14560, 14650, 11010, 11020, 11080, 11140, 11110, 11170, 25630, 20455, 17305, 17320, 17380, 17398, 19480, 19660, 19690, 19720, 19750, 19915, 20095, 20320, 20560, 20920, 20945, 20965, 20980, 21430, 21670, 11860, 21170, 22901, 18610.
 
 L'allegato III, sezione I, parte A, del decreto ministeriale 26 aprile 1993, n. 220, e' sostituito dall'allegato al presente decreto.
 

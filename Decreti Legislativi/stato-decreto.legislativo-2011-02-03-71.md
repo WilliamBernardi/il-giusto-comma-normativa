@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-02-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -137,6 +137,24 @@ Il capo dell'ufficio consolare, nei limiti previsti ed alle condizioni stabilite
 
 Il capo dell'ufficio consolare puo', altresi', ammettere al matrimonio, per gravi motivi, chi ha compiuto i sedici anni, secondo quanto previsto dall'articolo 84, secondo comma, del codice civile.
 
+3.
+                        
+                            
+                                Rilevata la mancanza dei presupporti per l'esercizio dei poteri di cui ai commi 1 e 2, il capo dell'ufficio consolare trasmette: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le domande per la riduzione del termine e per la dispensa dalle pubblicazioni al tribunale nel cui circondario si trova il Comune di iscrizione AIRE o di ultima residenza degli sposi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le domande di ammissione al matrimonio ai sensi dell'articolo 84, secondo comma, del codice civile, al tribunale per i minorenni nel cui circondario si trova il Comune di iscrizione AIRE o di ultima residenza del minore.
+
 In caso di matrimonio in imminente pericolo di vita, si applicano le disposizioni di cui all'articolo 101 del codice civile.
 
 ## Art. 15. — Modalita' di celebrazione del matrimonio
@@ -223,6 +241,24 @@ L'ufficio consolare, compiuti gli opportuni accertamenti, rilascia ai cittadini 
 Per i cittadini europei non rappresentati e' acquisita l'autorizzazione delle competenti autorita' del Paese di cittadinanza.
 
 ))
+
+3.
+                        
+                            
+                                Il documento di viaggio provvisorio e' rilasciato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di furto, smarrimento, distruzione o temporanea indisponibilita' del passaporto o di altro documento di viaggio, previa denuncia all'ufficio consolare; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in tutti i casi in cui il capo dell'ufficio consolare lo ritiene necessario o opportuno.
 
 Quando lo ritiene opportuno, il capo dell'ufficio consolare da' notizia all'autorita' di frontiera italiana o degli altri Paesi dell'Unione europea del documento di viaggio da lui rilasciato.
 
@@ -332,7 +368,43 @@ Se l'interessato non e' iscritto all'AIRE ed e' stato residente in Italia, e' co
 
 ## Art. 36. — Amichevole composizione di controversie ed arbitrato
 
+1.
+                        
+                            
+                                Il capo dell'ufficio consolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    si adopera, se richiesto dalle parti, per comporre amichevolmente le controversie sorte fra cittadini o fra questi e non cittadini. Se il tentativo di conciliazione riesce e le parti ne fanno richiesta, egli redige il processo verbale dell'avvenuta conciliazione. Il processo verbale ha efficacia di scrittura privata riconosciuta in giudizio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esplica le funzioni di arbitro unico nelle, controversie fra cittadini purche' questi lo abbiano autorizzato a pronunciare secondo equita', ferme restando le eccezioni previste dall'articolo 806 del codice di procedura civile. Con il deposito negli archivi dell'ufficio, il lodo ha forza esecutiva. Il deposito ha luogo nel termine perentorio di dieci giorni dalla sottoscrizione e di esso deve essere data notizia alle parti ai sensi dell'articolo 825, secondo comma, del codice di procedura civile. Le impugnazioni di cui agli articoli 827 e seguenti, codice di procedura civile, si propongono innanzi alla Corte di Appello di Roma.
+
 ## Art. 37. — Notificazioni, atti istruttori, dichiarazioni ed istanze
+
+1.
+                        
+                            
+                                L'ufficio consolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede, direttamente o tramite le autorita' locali, in conformita' alle disposizioni in materia di cooperazione giudiziaria dell'Unione europea, alle convenzioni internazionali ed alle leggi dello Stato di residenza, alla notificazione degli atti ad esso rimessi a norma delle vigenti disposizioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    compie gli atti istruttori ad esso delegati dalle autorita' nazionali competenti; riceve le dichiarazioni, anche giurate, da chiunque rese, da far valere in giudizi nazionali; le istanze di gratuito patrocinio relative a giudizi nazionali; le istanze di procedimento o le querele e la loro remissione; gli atti di impugnativa avverso provvedimenti emessi da autorita' nazionali.
 
 L'ufficio consolare trasmette direttamente gli atti espletati o ricevuti all'autorita' nazionale competente.
 
@@ -411,6 +483,31 @@ Il capo dell'ufficio consolare esercita le funzioni di autorita' marittima, atte
 
 ## Art. 49. — Attribuzione di polizia giudiziaria, polizia della navigazione e poteri disciplinari
 
+1.
+                        
+                            
+                                Il capo dell'ufficio consolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha le attribuzioni di ufficiale di polizia giudiziaria per i reati commessi a bordo delle navi mercantili e degli aeromobili civili italiani; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    esercita il potere di polizia della navigazione nei confronti delle navi mercantili e degli aeromobili civili italiani; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esercita il potere disciplinare nei confronti del personale delle navi mercantili e degli aeromobili civili italiani.
+
 ## Art. 50. — Assistenza da parte di navi o aeromobili militari nazionali
 
 Il capo dell'ufficio consolare puo' richiedere assistenza al comandante di nave o aeromobile militare in caso di guerra civile o di altri eventi eccezionali o quando l'assistenza stessa e' necessaria per l'esecuzione di istruzioni del Ministero degli affari esteri o dell'ambasciata. Tali istruzioni sono comunicate al comandante della nave o dell'aeromobile.
@@ -424,6 +521,73 @@ In caso di smarrimento o di distruzione dell'atto di nazionalita', e prima di ri
 ## - Capo VIII Funzioni in materia di documentazione amministrativa
 
 ## Art. 52. — Certificati, legalizzazioni, vidimazioni
+
+1.
+                        
+                            
+                                L'ufficio consolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilascia certificati di esistenza in vita a cittadini; li rilascia anche a non cittadini per l'utilizzo in Italia; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rilascia o vidima certificati di origine delle merci ed ogni altro certificato o documento previsto dalle leggi italiane o dalle convenzioni internazionali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    conferma le patenti di guida ai sensi e per gli effetti dell'articolo 126, comma 5-bis, del decreto legislativo 30 aprile 1992, n. 285; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    comunica il numero di codice fiscale attribuito dalla competente Agenzia delle Entrate; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    rilascia copia autentica degli atti da esso ricevuti o presso di esso depositati; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    legalizza gli atti rilasciati dalle autorita' locali, secondo quanto previsto dall'articolo 33, comma 2, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, avvalendosi di ogni mezzo utile di accertamento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    puo' rilasciare attestazioni concernenti leggi e consuetudini vigenti in Italia o nello Stato di residenza; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    puo' rilasciare certificati concernenti gli atti compiuti ed i fatti accertati nell'esercizio delle proprie funzioni; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    puo' rilasciare e certificare traduzioni di atti dalla lingua italiana in quella dello Stato di residenza e viceversa.
 
 Nei casi in cui non e' in grado di ottenere dalle autorita' locali copie degli atti di stato civile formati all'estero e da trascrivere in Italia, l'ufficio consolare rilascia, effettuati gli accertamenti del caso, motivata certificazione sostitutiva della documentazione che non si e' potuto acquisire, secondo quanto previsto dalle vigenti disposizioni nazionali sull'ordinamento dello stato civile.
 
@@ -481,6 +645,69 @@ Nella sede dell'ufficio consolare, in luogo accessibile al pubblico, e' collocat
 
 ## Art. 62. — Registri dell'ufficio consolare
 
+1.
+                        
+                            
+                                Presso gli uffici consolari e' tenuto un unico archivio informatico in cui sono registrati e conservati tutti gli atti ivi formati riguardanti la cittadinanza, la nascita, i matrimoni ((, le unioni civili)) e la morte. Fino all'entrata in funzione del predetto archivio informatico, continuano ad essere tenuti i seguenti registri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    degli atti di nascita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    degli atti di matrimonio; 
+
+                                
+                            
+                            
+                                b-bis)
+                                
+                                    degli atti relativi a unioni civili;
+                                
+                            
+                            
+                                c)
+                                
+                                    degli atti di cittadinanza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    degli atti di morte.
+
+2.
+                        
+                            
+                                Sono, altresi', tenuti presso gli uffici consolari i seguenti registri: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dei passaporti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del protocollo in arrivo e in partenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    delle operazioni in materia di servizio militare.
+
 Se l'ufficio consolare rilascia le carte di identita' e' istituito il relativo registro.
 
 Presso gli uffici consolari che esercitano funzioni relative alla navigazione marittima ed aerea, sono tenuti i registri previsti dalla legislazione nazionale in materia.
@@ -525,6 +752,45 @@ I diritti previsti dalla tariffa sono riscossi nella moneta avente corso legale 
 Se sussistono particolari ragioni, il Ministero degli affari esteri puo' autorizzare con proprio decreto la riscossione dei diritti in valuta diversa da quella locale.
 
 ## Art. 66. — Atti rilasciati gratuitamente
+
+1.
+                        
+                            
+                                Fermo restando quanto stabilito da altre disposizioni, l'ufficio consolare rilascia gratuitamente atti, o copie di atti, necessari per il servizio dello Stato, nonche' quelli richiesti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    da cittadini indigenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da indigenti non cittadini, se gli atti stessi sono necessari per procedure richieste da autorita' italiane; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da cittadini residenti all'estero, o da non cittadini, per accertati motivi di studio, di previdenza ed assistenza sociale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dal personale civile e militare dello Stato in servizio all'estero, nonche' dai loro familiari a carico ((anche nel caso di unione civile)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da eminenti personalita' estere e, eccezionalmente, nazionali, a titolo di cortesia.
 
 La gratuita' di cui al comma 1 non si applica ai diritti d'urgenza previsti dalla tariffa.
 
@@ -585,6 +851,52 @@ L'ufficio consolare fornisce ai cittadini europei non rappresentati e ai loro fa
 I richiedenti tutela consolare ai sensi del presente articolo dimostrano di essere cittadini europei presentando il proprio passaporto o la propria carta d'identita' in corso di validita' o, in mancanza, con qualsiasi altro mezzo. I familiari dei richiedenti tutela dimostrano la propria identita' e il proprio stato di familiare con ogni mezzo. L'ufficio consolare puo' disporre verifiche con le autorita' diplomatiche o consolari dello Stato membro di cui il richiedente si dichiara cittadino o di cui il richiedente dichiara che il proprio familiare e' cittadino.
 
 Su richiesta dello Stato membro di cittadinanza, l'ufficio consolare trasferisce al medesimo Stato la domanda di tutela o il caso di un cittadino europeo non rappresentato. L'ufficio consolare cede il caso appena lo Stato membro di cittadinanza conferma che sta fornendo tutela consolare al cittadino non rappresentato.
+
+5.
+                        
+                            
+                                La tutela comprende, tra l'altro, l'assistenza nelle seguenti situazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di arresto o detenzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    qualora il richiedente sia vittima di reato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in caso di incidente o malattia grave; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di decesso; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    qualora il richiedente necessiti di aiuto e di essere rimpatriato in caso di emergenza; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    qualora il richiedente necessiti di documenti di viaggio provvisori di cui all'articolo 23.
 
 Fatto salvo il comma 2, l'ufficio consolare puo', ove considerato necessario, concludere con ambasciate o consolati di altri Stati membri dell'Unione europea accordi pratici sulla condivisione delle responsabilita' di fornire tutela consolare a cittadini europei non rappresentati. Il Ministero degli affari esteri e della cooperazione internazionale notifica gli accordi stipulati alla Commissione e al Servizio europeo per l'azione esterna e ne da' pubblicita' mediante i siti internet istituzionali. L'ufficio consolare a cui un cittadino dell'Unione europea non rappresentato chiede tutela consolare e che non e' designato quale competente conformemente allo specifico accordo esistente, trasferisce la domanda all'ambasciata o al consolato pertinenti, a meno che la tutela consolare possa risultare in questo modo compromessa, in particolare nel caso in cui l'urgenza della questione richieda un'azione immediata da parte dell'ufficio consolare a cui il cittadino si e' rivolto.
 
@@ -651,6 +963,26 @@ Se l'ufficio consolare delegato ad atti istruttori, o che deve provvedere a noti
 Le notificazioni cui l'ufficio consolare provvede direttamente sono eseguite mediante sistema di comunicazione idoneo alla conferma dell'avvenuto invio.
 
 ## Art. 79. — Abrogazioni
+
+1.
+                        
+                            
+                                Sono abrogati i seguenti testi normativi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        decreto del Presidente della Repubblica 5 gennaio 1967, n. 200; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        legge 2 maggio 1983, n. 185.
 
 ## Art. 80. — Clausola di invarianza finanziaria
 

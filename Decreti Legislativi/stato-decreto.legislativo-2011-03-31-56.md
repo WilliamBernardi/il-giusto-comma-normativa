@@ -8,8 +8,8 @@ codice_redazionale: 011G0094
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -25,7 +25,36 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'eco
 
 ## Art. 1. — Modifiche al decreto legislativo 9 aprile 1991, n. 127
 
+1.
+                    
+                        
+                            All'articolo 27 del decreto legislativo 9 aprile 1991, n. 127, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 3 e' inserito il seguente: «3-bis. Non sono soggette all'obbligo indicato nell'articolo 25 le imprese che controllano solo imprese che, individualmente e nel loro insieme, sono irrilevanti ai fini indicati nel secondo comma dell'articolo 29.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al comma 4, primo periodo, le parole: «dal comma precedente» sono sostituite dalle seguenti: «dal comma 3».
+
 ## Art. 2. — Modifiche al decreto legislativo 27gennaio 1992, n. 87
+
+1.
+                    
+                        
+                            All'articolo 24 del decreto legislativo 27 gennaio 1992, n. 87, sono apportate le seguenti modifiche: 
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 2 e' inserito il seguente: «2-bis. Non sono tenuti alla redazione del bilancio consolidato gli enti creditizi e finanziari che controllano solo imprese che, individualmente e nel loro insieme, sono irrilevanti ai fini indicati nel terzo comma dell'articolo 2.».
 
 ## Art. 3. — Disposizioni finali
 

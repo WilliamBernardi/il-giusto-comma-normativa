@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2021-12-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,6 +34,80 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 ## - Titolo I PRINCIPI GENERALI
 
 ## Art. 1. — Definizioni
+
+1.
+                        
+                            
+                                Nel presente regolamento si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    "beni mobili": oggetti mobili destinati al funzionamento degli uffici, ossia arredi, libri, collezioni di leggi e decreti, materiale di cancelleria ed informatico, registri, stampati, nonche' autoveicoli, natanti, materiale scientifico e di laboratorio, oggetti d'arte non considerati immobili ai fini inventariali, attrezzi e beni diversi, con esclusione degli oggetti mobili destinati alla difesa dello Stato e dei titoli ed azioni di partecipazione al capitale di rischio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    "servizio": prestazioni che agevolano e completano l'utilizzazione di un bene o di un processo produttivo, elencate negli allegati 1 e 2 del decreto legislativo 17 marzo 1995, n. 157;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    "titolare del centro di responsabilita'": il dirigente con funzioni dirigenziali generali titolare di un centro di responsabilita' delle amministrazioni dello Stato;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    "utilizzatore finale": fruitore delle utilita' cedute dal bene o consumatore di materiali destinati dal consegnatario all'ufficio per l'uso, per l'impiego o per il consumo;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    "dirigente responsabile degli acquisti di beni e servizi": dirigente che provvede direttamente agli acquisti della struttura amministrativa di appartenenza;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    "gestore globale": soggetto affidatario della gestione delle procedure per la conclusione delle convenzioni di cui all'articolo 26 della legge 23 dicembre 1999, n. 488, e successive modificazioni, nonche' della realizzazione e gestione del sistema di controllo e verifica dell'esecuzione delle convenzioni stesse;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    "Ragioneria generale dello Stato": Dipartimento della Ragioneria generale dello Stato;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "ufficio riscontrante": per le amministrazioni centrali l'Ufficio centrale del bilancio di cui all'articolo 9 del decreto del Presidente della Repubblica 20 febbraio 1998, n. 38, e l'Ufficio interno di ragioneria di cui all'articolo 11, comma 8, del decreto legislativo 30 luglio 1999, n. 303; per gli uffici periferici la Ragioneria provinciale dello Stato di cui all'articolo 10 del citato decreto presidenziale;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    "sostituto consegnatario": l'agente incaricato di sostituire il consegnatario in caso di assenza o di impedimento temporaneo;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    "sub-consegnatario": agente secondario che opera alle dipendenze di un agente principale, denominato consegnatario, titolare della gestione cui entrambi sono assegnati.
 
 ## Art. 2. — Ambito di applicazione
 
@@ -112,6 +186,45 @@ I sostituti ed i sub-consegnatari appartengono agli stessi ruoli e alla stessa q
 
 ## Art. 10. — Compiti
 
+1.
+                        
+                            
+                                Ai consegnatari - ferma restando la responsabilita' del dirigente competente - e' affidata:
+ 
+                            
+                            
+                                a)
+                                
+                                    la conservazione e la gestione dei beni dello Stato e dei magazzini in cui gli stessi beni sono ricoverati per essere concessi in uso agli utilizzatori finali o per essere distribuiti ad altri agenti responsabili, nonche' la distribuzione degli oggetti di cancelleria, di stampati e di altro materiale di facile consumo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la manutenzione dei mobili e degli arredi di ufficio, la conservazione delle collezioni ufficiali di leggi, regolamenti e pubblicazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la cura del livello delle scorte operative necessarie ad assicurare il regolare funzionamento degli uffici, delle apparecchiature informatiche e delle altre macchine di trasmissione documenti in dotazione agli uffici;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la vigilanza sui beni affidati agli utilizzatori finali, nonche' sul loro regolare e corretto uso, da esercitarsi a mezzo di apposite direttive emanate dal dirigente responsabile degli acquisti di beni e servizi;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la vigilanza, le verifiche ed il riscontro sul regolare adempimento delle prestazioni e delle prescrizioni contenute nei patti negoziali sottoscritti dalle amministrazioni dello Stato con gli affidatari delle forniture di beni e servizi.
+
 E' fatto divieto ai consegnatari ed ai subconsegnatari di delegare, in tutto o in parte, le proprie funzioni ad altri soggetti, rimanendo ferma, in ogni caso, la personale responsabilita' dei medesimi e dei loro sostituti.
 
 I consegnatari hanno l'obbligo della tenuta delle prescritte scritture contabili nelle forme e secondo le modalita' di cui al capo II del presente titolo.
@@ -186,6 +299,47 @@ Sono iscritti nell' inventario a cura del consegnatario, entro il termine di cui
 L'inventario rileva la consistenza dei beni ad una determinata data. Tutte le acquisizioni e le dismissioni successive sono registrate sul giornale di cui all'articolo 18.
 
 L'inventario e' redatto in tre esemplari, di cui uno rimane agli atti dell'ufficio del consegnatario. Gli altri esemplari sono inviati al competente ufficio riscontrante che, dopo aver effettuato il riscontro di competenza, ne restituisce uno all'ufficio da cui dipende il consegnatario, trattenendo il restante esemplare.
+
+4.
+                        
+                            
+                                Ciascun inventario contiene i seguenti elementi:
+
+                            
+                            
+                                a)
+                                
+                                    l'indicazione degli stabilimenti e dei locali in cui sono custoditi i beni mobili;
+                                
+                            
+                            
+                                b)
+                                
+                                    la denominazione e descrizione degli stessi secondo la diversa loro natura e specie;
+                                
+                            
+                            
+                                c)
+                                
+                                    la destinazione d'uso;
+                                
+                            
+                            
+                                d)
+                                
+                                    la qualita' o numero degli oggetti secondo le varie specie;
+                                
+                            
+                            
+                                e)
+                                
+                                    la classificazione, ove sia possibile, in nuovi, usati e fuori d'uso;
+                                
+                            
+                            
+                                f)
+                                
+                                    il valore.
 
 I consegnatari provvedono almeno ogni cinque anni alla rinnovazione degli inventari, previa effettiva ricognizione dei beni, secondo le istruzioni emanate dal Ministero dell'economia e delle finanze - Ragioneria generale dello Stato.
 

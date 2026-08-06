@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2010-08-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,171 @@ IL MINISTRO DELL'INTERNO
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nelle adunanze del 16 marzo 2009 e dell' 8 giugno 2009;
 
 ## Art. 1. — Definizioni ed oggetto
+
+1.
+                    
+                        
+                            Nel presente decreto si intendono per:
+ 
+                        
+                        
+                            a)
+                            
+                                "decreto-legge n. 112", il decreto-legge 25 giugno 2008, n. 112, recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria;
+
+                            
+                        
+                        
+                            b)
+                            
+                                "legge n. 133", la legge 6 agosto 2008, n. 133, di conversione, con modificazioni, del decreto-legge n.112;
+
+                            
+                        
+                        
+                            c)
+                            
+                                "decreto-legge n. 143", il decreto-legge 16 settembre 2008, n. 143, recante interventi urgenti in materia di funzionalita' del sistema giudiziario;
+
+                            
+                        
+                        
+                            d)
+                            
+                                "legge n. 181", la legge 13 novembre 2008, n. 181, di conversione, con modificazioni, del decreto-legge n. 143, nonche' ogni ulteriore successiva modificazione del suo articolo 2, richiamata nel preambolo del presente regolamento;
+
+                            
+                        
+                        
+                            e)
+                            
+                                "decreto informazioni", il decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero della giustizia, in data 23 ottobre 2008, pubblicato nella Gazzetta Ufficiale della Repubblica Italiana n. 252 del 27 ottobre 2008, adottato ai sensi dell'articolo 2, comma 3, del citato decreto-legge n. 143 del 2008, nonche' ogni ulteriore decreto di modificazione ovvero di integrazione della sua disciplina adottato ai sensi del medesimo articolo 2, comma 3, del decreto-legge n. 143 del 2008;
+
+                            
+                        
+                        
+                            f)
+                            
+                                "Fondo unico giustizia", il fondo previsto dall'articolo 61, comma 23, del decreto-legge n. 112 del 2008 e cosi' denominato dall'articolo 2, comma 1, del decreto-legge n. 143 del 2008;
+
+                            
+                        
+                        
+                            g)
+                            
+                                "Equitalia Giustizia", Equitalia Giustizia S.p.a., societa' prevista dall'articolo 1, comma 367, della legge 24 dicembre 2007, n. 244, nonche' individuata dall'articolo 2, comma 2, del decreto-legge n. 143 del 2008 come la societa' che gestisce Fondo unico giustizia;
+
+                            
+                        
+                        
+                            h)
+                            
+                                "Poste Italiane", "Banche", "Operatori Finanziari", "Operatori" ovvero "Operatore", rispettivamente Poste italiane S.p.a., le banche, gli altri operatori finanziari, ovvero tali soggetti complessivamente intesi, depositari delle risorse ((, nonche' "Operatore assicurativo" ovvero "Operatori assicurativi", le imprese di assicurazione che, relativamente alle risorse assicurative di cui alla lettera i-bis) e ai contratti assicurativi di cui alla lettera l), al pari degli altri Operatori rientrano nell'ambito applicativo del presente regolamento;));
+
+                            
+                        
+                        
+                            i)
+                            
+                                "risorse", i seguenti valori, con i relativi interessi, esclusi in ogni caso quelli di complessi aziendali oggetto di provvedimenti di sequestro o confisca:
+ 1) somme di denaro, e relativi proventi, inclusi tra gli altri i dividendi, le cedole, gli interessi, i frutti civili e il controvalore dei titoli alla scadenza o in caso di vendita, relativi ai titoli al portatore, a quelli emessi o garantiti dallo Stato anche se non al portatore, ai valori di bollo, ai crediti pecuniari, ai conti correnti, ai conti di deposito titoli, ai depositi a risparmio e a ogni altra attivita' finanziaria a contenuto monetario o patrimoniale:
+ 1.a) oggetto di sequestro nell'ambito di procedimenti penali o per l'applicazione di misure di prevenzione di cui alla legge 31 maggio 1965, n. 575, e successive modificazioni, o di irrogazione di sanzioni amministrative, anche di cui al decreto legislativo 8 giugno 2001, n. 231;
+ 1.b) oggetto di confisca ovvero che costituiscono il controvalore o i proventi dei beni confiscati nell'ambito di procedimenti penali, amministrativi o per l'applicazione di misure di prevenzione di cui alla legge 31 maggio 1965, n. 575, e successive modificazioni, nonche' alla legge 27 dicembre 1956, n. 1423, e successive modificazioni, o di irrogazione di sanzioni amministrative, anche di cui al decreto legislativo 8 giugno 2001, n. 231, e successive modificazioni;
+ 2) somme di denaro di cui all'articolo 262, comma 3-bis, del codice di procedura penale;
+ 3) somme di denaro e proventi depositati presso gli Operatori in relazione ai procedimenti civili e fallimentari di cui all'articolo 2, comma 2, lettere c-bis) e c-ter), della legge n. 181;
+ 4) somme di denaro e proventi che Equitalia Giustizia intesta Fondo unico giustizia in applicazione dell'articolo 2, comma 4, del decreto-legge n. 143;
+
+                            
+                        
+                        
+                            i-bis)
+                            
+                                "risorse assicurative", le somme di denaro, con i relativi interessi, dovute dagli Operatori assicurativi successivamente al verificarsi dell'evento di cui alla lettera m-quater);
+
+                            
+                        
+                        
+                            l)
+                            
+                                "contratti assicurativi", i contratti di assicurazione sulla vita, che prevedono l'obbligo dell'Operatore assicurativo di versare un capitale o una rendita al verificarsi di un evento attinente la vita umana, nonche' i contratti di capitalizzazione e i contratti di adesione a fondi pensione aperti istituiti e gestiti da Operatori assicurativi, che prevedono l'obbligo dell'Operatore assicurativo di pagare somme determinate al termine del periodo contrattuale senza assunzione di rischio demografico;
+
+                            
+                        
+                        
+                            m)
+                            
+                                "intestazione" ovvero "intestazioni", il mutamento di titolarita' in favore di Fondo unico giustizia ovvero l'attribuzione di titolarita' a Fondo unico giustizia, effettuati dagli Operatori e dagli Operatori assicurativi, dei rapporti aventi ad oggetto le risorse, nonche' le risorse assicurative,
+
+                            
+                        
+                        
+                            m-bis)
+                            
+                                "vincolo" ovvero "vincoli", la costituzione a favore di Fondo unico giustizia da parte degli Operatori assicurativi di un vincolo sui contratti assicurativi oggetto di provvedimenti di sequestro ovvero di confisca, mediante apposizione sui medesimi contratti della stampigliatura "Contratto oggetto di vincolo a favore di Fondo unico giustizia presso Equitalia Giustizia S.p.a., con sede in Roma, codice fiscale n. 97525160582 - articolo 61, comma 23, della legge 6 agosto 2008, n. 133" che costituisce per tali contratti, in funzione della peculiarita' dei relativi rapporti, modalita' applicativa specifica della loro intestazione e che della stessa tiene luogo;
+
+                            
+                        
+                        
+                            m-ter)
+                            
+                                "svincolo" ovvero "svincoli", la revoca da parte degli Operatori assicurativi dei vincoli a seguito di provvedimenti di dissequestro ovvero di revoca di confisca dei contratti assicurativi, effettuata dagli Operatori assicurativi mediante cancellazione della stampigliatura di cui alla lettera m-bis;
+
+                            
+                        
+                        
+                            m-quater)
+                            
+                                "evento", il verificarsi del rischio dedotto in garanzia e contemplato nei contratti assicurativi ovvero la scadenza dei contratti assicurativi;
+
+                            
+                        
+                        
+                            n)
+                            
+                                "dati delle intestazioni", tutti i dati e le informazioni che gli Operatori finanziari e gli Operatori assicurativi comunicano a Equitalia Giustizia in applicazione del decreto informazioni relativamente a tutte le intestazioni, nonche' a tutti i vincoli e a tutti gli svincoli, come definiti alle lettere m-bis) ed m-ter), che i predetti Operatori hanno effettuato a decorrere dalla data di entrata in vigore del decreto-legge n. 143 del 2008;
+                            
+                        
+                        
+                            o)
+                            
+                                "dati delle risorse", tutti i dati e le informazioni necessari per la individuazione dei procedimenti ovvero dei provvedimenti civili, fallimentari, penali, per l'applicazione di misure di prevenzione, nonche' amministrativi nell'ambito dei quali ovvero per effetto dei quali si determinano le risorse;
+
+                            
+                        
+                        
+                            p)
+                            
+                                "Ministero della giustizia", gli uffici della amministrazione della giustizia che formano ovvero detengono i dati delle risorse di loro competenza;
+
+                            
+                        
+                        
+                            q)
+                            
+                                "Ministero dell'interno", gli uffici della amministrazione dell'interno che formano ovvero detengono i dati delle risorse di loro competenza;
+
+                            
+                        
+                        
+                            r)
+                            
+                                "Demanio", gli uffici della Agenzia del demanio che formano ovvero detengono i dati delle risorse di loro competenza;
+
+                            
+                        
+                        
+                            s)
+                            
+                                "MEF", il Ministro ovvero il Ministero dell'economia e delle finanze;
+
+                            
+                        
+                        
+                            t)
+                            
+                                "devoluzione allo Stato", alternativamente:
+ 1) il versamento in conto entrate al bilancio dello Stato effettuato da Equitalia Giustizia nei soli limiti applicativi e per le sole finalita' previsti dall'articolo 2, comma 5, del decreto-legge n. 143 del 2008;
+ 2) il versamento in conto entrate al bilancio dello Stato effettuato da Equitalia Giustizia delle somme da destinare con decreto del Presidente del Consiglio dei Ministri ai sensi e per gli effetti delle disposizioni di cui ai commi da 7 a 7-ter dell'articolo 2 della legge n. 181 del 2008.
 
 Il presente decreto reca disposizioni attuative delle norme di cui all'articolo 61, comma 23, del decreto-legge n. 112, convertito dalla legge n. 133 del 2008, nonche' delle norme di cui all'articolo 2, commi 1 e 6, del decreto-legge n. 143, come integrato dalla legge n. 181.
 
@@ -79,9 +244,96 @@ Equitalia Giustizia versa all'entrata del bilancio dello Stato le somme per le q
 
 Fino al momento del versamento all'entrata del bilancio dello Stato, ai fini della successiva riassegnazione per le destinazioni disposte con decreto del Presidente del Consiglio dei Ministri ai sensi e per gli effetti delle disposizioni di cui ai commi da 7 a 7-ter dell'articolo 2 della legge n. 181, Equitalia Giustizia gestisce le risorse intestate Fondo unico giustizia avendo riguardo alle esigenze di liquidita' del Fondo unico giustizia e garantendo la pronta disponibilita' delle risorse diverse dal denaro ovvero delle somme di denaro necessarie per eseguire le restituzioni e i prelevamenti di cui al presente decreto. ((1))
 
+3.
+                    
+                        
+                            Anche al fine di assicurare la pronta disponibilita' di cui al comma 2, Equitalia Giustizia:
+ 
+                        
+                        
+                            a)
+                            
+                                relativamente alle risorse sequestrate che alla data della intestazione risultano in forma diversa dal denaro, non effettua disinvestimenti, nuovi investimenti ovvero diversificazione degli investimenti, salvo diversa disposizione appositamente impartitale dal relativo amministratore;
+
+                            
+                        
+                        
+                            b)
+                            
+                                relativamente alle risorse sequestrate che alla data della intestazione risultano in forma di denaro, nonche' alle risorse assicurative registra la misura del tasso d'interesse attivo riconosciuto dagli Operatori e dagli Operatori assicurativi alla data dell'intestazione, nonche' ogni variazione del predetto tasso che fosse successivamente comunicata dagli Operatori e dagli Operatori assicurativi;
+                            
+                        
+                        
+                            c)
+                            
+                                intrattiene un apposito conto corrente, intestato Fondo unico giustizia, con l'Operatore che riconosce il piu' elevato tasso di interesse attivo, in ogni caso superiore alla media dei tassi di interesse attivi applicati dalle maggiori banche sui conti correnti dei loro clienti, di cui alla pubblicazione Bankitalia-depositi overnight presso l'Eurosistema;
+
+                            
+                        
+                        
+                            d)
+                            
+                                trasferisce sul conto corrente di cui alla lettera c) le risorse di cui alla lettera b) esclusivamente se il relativo tasso di interesse attivo risulti superiore a quello praticato sulle risorse di cui alla medesima lettera b) e soltanto per il tempo durante il quale il predetto tasso risulti effettivamente superiore;
+
+                            
+                        
+                        
+                            e)
+                            
+                                investe le risorse di cui alle lettere b), per massa e non per singolo provvedimento, e d) esclusivamente in titoli emessi e garantiti dallo Stato italiano e soltanto se, all'atto dell'investimento e nel corso della relativa gestione, l'investimento garantisce la sua pronta liquidazione, nonche' una remunerazione complessivamente maggiore di quella conseguente all'applicazione dei tassi di interesse attivo di cui alle medesime lettere.
+
 Equitalia Giustizia tiene contabilita' e scritture separate per le operazioni attinenti alla gestione del Fondo unico giustizia, nonche' una separata amministrazione delle risorse di cui all'articolo 1, comma 1, lettera i), ad essa pertinenti, in modo che risulti identificato il patrimonio destinato a rispondere delle obbligazioni del Fondo unico giustizia.
 
 Il rendiconto della gestione del Fondo unico giustizia, approvato dal consiglio di amministrazione di Equitalia Giustizia, e' trasmesso entro il 30 aprile dell'anno successivo a quello cui si riferisce, unitamente ad una relazione del consiglio di amministrazione, al MEF, al Ministero della giustizia e al Ministero dell'interno. Equitalia Giustizia trasmette trimestralmente al MEF, al Ministero della giustizia e al Ministero dell'interno un rendiconto delle somme versate all'entrata del bilancio dello Stato. ((Equitalia Giustizia, gli Operatori assicurativi e gli altri Operatori)), d'intesa fra loro, determinano le date entro le quali i dati e le notizie occorrenti per la predisposizione del rendiconto della gestione sono esclusivamente gestiti in formato elettronico e trasmessi in forma telematica. ((Equitalia Giustizia, ai fini delle iniziative di competenza del MEF ai sensi dell'articolo 2, comma 3-bis, della legge n. 181 del 2008 comunica al MEF, non appena in suo possesso, ogni notizia od elemento utile a costituire presupposto delle medesime iniziative.))
+
+6.
+                    
+                        
+                            Il rendiconto comprende le seguenti voci:
+ 
+                        
+                        
+                            a)
+                            
+                                natura e entita' delle risorse intestate Fondo unico giustizia, distinte per tipologia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                natura e entita' delle risorse prelevate da Fondo unico giustizia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                investimenti eseguiti e loro rendimento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                natura e entita' delle risorse versate all'entrata del bilancio dello Stato, distinte per tipologia, e destinate alla ripartizione di cui all'articolo 2, commi da 7 a 7-ter, della legge n. 181 del 2008;
+
+                            
+                        
+                        
+                            e)
+                            
+                                entita' dell'aggio dedotto dalle somme versate al bilancio dello Stato;
+
+                            
+                        
+                        
+                            f)
+                            
+                                spese di gestione del Fondo unico giustizia, determinate con apposita convenzione tra Equitalia Giustizia e MEF, cosi' suddivise:
+ f.1) commissione spese trattenute dagli Operatori;
+ f.2) spese sostenute da Equitalia Giustizia;
+ f.3) spese inerenti alle attivita' di investimento.
 
 Il MEF, anche su richiesta del Ministero della giustizia o del Ministero dell'interno, puo' chiedere in qualunque momento a Equitalia Giustizia notizie e dati sulla gestione del Fondo unico giustizia, ulteriori rispetto a quelli che gia' emergono dai rendiconti periodici di Equitalia Giustizia, al fine di verificare la regolarita' e l'appropriatezza della gestione esercitata in base al presente regolamento.
 
@@ -116,6 +368,70 @@ Equitalia Giustizia comunica ai competenti uffici del Ministero della giustizia,
 ## Art. 10. — (( (Disposizioni in materia di contratti assicurativi). ))
 
 ((
+
+1.
+                    
+                        
+                            Gli Operatori assicurativi:
+ 
+                        
+                        
+                            a)
+                            
+                                trasmettono a Equitalia Giustizia, nei termini e nei modi disciplinati nel decreto informazioni ai fini della effettuazione della relativa informazione, copia dei provvedimenti di sequestro o di confisca dei contratti assicurativi ovvero di dissequestro o di revoca della confisca dei contratti assicurativi di cui abbiano notizia, anche qualora l'evento non si sia ancora verificato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                costituiscono i vincoli relativamente ai contratti assicurativi oggetto di provvedimenti di sequestro ovvero di confisca adottati, dandone comunicazione a Equitalia Giustizia nei termini e nei modi disciplinati nel decreto informazioni ai fini della effettuazione della relativa informazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                effettuano gli svincoli relativamente ai contratti assicurativi oggetto di vincolo a fronte di provvedimenti di dissequestro ovvero di revoca della confisca adottati, dandone comunicazione a Equitalia Giustizia nei termini e nei modi disciplinati nel decreto informazioni ai fini della effettuazione della relativa informazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                successivamente al verificarsi dell'evento, accendono presso Banche ovvero Poste Italiane uno o piu' conti correnti fruttiferi, intestati Fondo unico giustizia, sui quali versano le risorse assicurative dovute, relativamente ai contratti assicurativi oggetto di vincolo, dandone immediata comunicazione a Equitalia Giustizia. In caso di accensione di un conto unico mantengono separate evidenze di ciascuna posizione soggettiva, dando immediata comunicazione di esse ad Equitalia Giustizia;
+
+                            
+                        
+                        
+                            e)
+                            
+                                chiedono a Equitalia Giustizia la reintestazione delle risorse assicurative, comprensive degli interessi maturati sull'apposito conto, che, nonostante il vincolo del contratto assicurativo, dovessero essere versate al beneficiario, previa trasmissione di copia dell'eventuale provvedimento dell'autorita' giudiziaria che disponesse in tal senso;
+
+                            
+                        
+                        
+                            f)
+                            
+                                successivamente al verificarsi dell'evento e alla conseguente intestazione ai sensi della lettera d), chiedono a Equitalia Giustizia la reintestazione delle risorse assicurative, comprensive degli interessi maturati sull'apposito conto, in caso di dissequestro ovvero di revoca della confisca dei contratti assicurativi relativamente ai quali abbiano gia' proceduto allo svincolo;
+
+                            
+                        
+                        
+                            g)
+                            
+                                qualora il provvedimento di sequestro concerna solo il beneficiario:
+ 1) prima di dare seguito a qualunque richiesta del contraente circa l'esercizio di un proprio diritto derivante dal contratto assicurativo oggetto di vincolo, informano immediatamente Equitalia Giustizia delle disposizioni fornite al riguardo dall'Autorita' giudiziaria;
+ 2) in caso di sospensione del pagamento dei premi da parte del contraente, comunicano a Equitalia Giustizia nei termini e nei modi disciplinati nel decreto informazioni ai fini della effettuazione della relativa informazione l'eventuale valore di riduzione del contratto; comunicano altresi' a Equitalia Giustizia l'eventuale ripresa del pagamento dei premi;
+
+                            
+                        
+                        
+                            h)
+                            
+                                qualora il provvedimento di sequestro concerna solo il contraente:
+ 1) si astengono dall'attuazione dell'eventuale esercizio di diritti derivanti dal contratto in favore del contraente;
+ 2) prima di dare seguito a qualunque richiesta del beneficiario circa l'esercizio di un proprio diritto derivante dal contratto assicurativo oggetto di vincolo, informano immediatamente Equitalia Giustizia delle disposizioni fornite al riguardo dall'Autorita' giudiziaria.
 
 2. Equitalia Giustizia gestisce le risorse assicurative ad essa intestate secondo le disposizioni del presente regolamento, in quanto compatibili.))
 

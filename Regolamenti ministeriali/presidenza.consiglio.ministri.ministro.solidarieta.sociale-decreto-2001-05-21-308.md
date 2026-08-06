@@ -8,8 +8,8 @@ codice_redazionale: 001G0365
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,6 +31,45 @@ Ai sensi dell'articolo 11, comma 2, della legge n. 328 del 2000, le regioni rece
 
 ## Art. 2. — Strutture e servizi soggetti ai requisiti minimi per l'autorizzazione
 
+1.
+                    
+                        
+                            I requisiti minimi per l'autorizzazione al funzionamento di cui alla legge n. 328 del 2000 riguardano le strutture e i servizi gia' operanti e quelli di nuova istituzione, gestiti dai soggetti pubblici o dai soggetti di cui all'articolo 1, commi 4 e 5 della legge n. 328 del 2000 che, indipendentemente dalla denominazione dichiarata, sono rivolti a:
+ 
+                        
+                        
+                            a)
+                            
+                                minori per interventi socio-assistenziali ed educativi integrativi o sostitutivi della famiglia;
+
+                            
+                        
+                        
+                            b)
+                            
+                                disabili per interventi socio-assistenziali o socio-sanitari finalizzati al mantenimento e al recupero dei livelli di autonomia della persona e al sostegno della famiglia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                anziani per interventi socio-assistenziali o socio-sanitari, finalizzati al mantenimento e al recupero delle residue capacita' di autonomia della persona e al sostegno della famiglia;
+
+                            
+                        
+                        
+                            d)
+                            
+                                persone affette da AIDS che necessitano di assistenza continua, e risultano prive del necessario supporto familiare, o per le quali la permanenza nel nucleo familiare sia temporaneamente o definitivamente impossibile o contrastante con il progetto individuale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                persone con problematiche psico-sociali che necessitano di assistenza continua e risultano prive del necessario supporto familiare, o per le quali la permanenza nel nucleo familiare sia temporaneamente o definitivamente impossibile o contrastante con il progetto individuale.
+
 Per le strutture che erogano prestazioni socio-sanitarie di cui all'articolo 8-ter del decreto legislativo n. 502 del 1992, come modificato dal decreto legislativo n. 229 del 1999, l'autorizzazione di cui al comma 1, lettere b), c), d) ed e), e' rilasciata comunque in conformita' a quanto previsto dall'articolo 8-ter dello stesso decreto legislativo.
 
 Restano ferme le disposizioni adottate in attuazione della legge 18 febbraio 1999, n. 45, in materia di strutture e servizi destinati al recupero e alla riabilitazione della tossicodipendenza.
@@ -45,9 +84,126 @@ Fino all'entrata in vigore della disciplina regionale, e fatto salvo quanto stab
 
 ## Art. 5. — Requisiti comuni delle strutture a ciclo diurno e residenziale
 
+1.
+                    
+                        
+                            Fermo restando il possesso dei requisiti previsti dalle norme vigenti in materia urbanistica, edilizia, prevenzione incendi, igiene e sicurezza e l'applicazione dei contratti di lavoro e dei relativi accordi integrativi, le strutture devono possedere i seguenti requisiti minimi ai sensi dell'articolo 9, comma 1, lettera c), della legge n. 328 del 2000:
+ 
+                        
+                        
+                            a)
+                            
+                                ubicazione in luoghi abitati facilmente raggiungibili con l'uso di mezzi pubblici, comunque tale da permettere la partecipazione degli utenti alla vita sociale del territorio e facilitare le visite agli ospiti delle strutture;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dotazione di spazi destinati ad attivita' collettive e di socializzazione distinti dagli spazi destinati alle camere da letto, organizzati in modo da garantire l'autonomia individuale, la fruibilita' e la privacy;
+
+                            
+                        
+                        
+                            c)
+                            
+                                presenza di figure professionali sociali e sanitarie qualificate, in relazione alle caratteristiche ed ai bisogni dell'utenza ospitata, cosi' come disciplinato dalla regione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                presenza di un coordinatore responsabile della struttura;
+
+                            
+                        
+                        
+                            e)
+                            
+                                adozione di un registro degli ospiti e predisposizione per gli stessi di un piano individualizzato di assistenza e, per i minori, di un progetto educativo individuale; il piano individualizzato ed il progetto educativo individuale devono indicare in particolare: gli obiettivi da raggiungere, i contenuti e le modalita' dell'intervento, il piano delle verifiche;
+
+                            
+                        
+                        
+                            f)
+                            
+                                organizzazione delle attivita' nel rispetto dei normali ritmi di vita degli ospiti;
+
+                            
+                        
+                        
+                            g)
+                            
+                                adozione, da parte del soggetto gestore, di una Carta dei servizi sociali secondo quanto previsto dall'articolo 13 della legge n. 328 del 2000, comprendente la pubblicizzazione delle tariffe praticate con indicazione delle prestazioni ricomprese.
+
 ## Art. 6. — Requisiti comuni ai servizi
 
+1.
+                    
+                        
+                            Ferma restando l'applicazione dei contratti di lavoro e dei relativi accordi integrativi, il soggetto erogatore di servizi alla persona di cui alla legge n. 328 del 2000 deve garantire il rispetto delle seguenti condizioni organizzative, che costituiscono requisiti minimi ai sensi dell'articolo 9, comma 1, lettera c), della medesima legge:
+ 
+                        
+                        
+                            a)
+                            
+                                presenza di figure professionali qualificate in relazione alla tipologia di servizio erogato, secondo standard definiti dalle regioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                presenza di un coordinatore responsabile del servizio;
+
+                            
+                        
+                        
+                            c)
+                            
+                                adozione, da parte del soggetto erogatore, di una Carta dei servizi sociali secondo quanto previsto dall'articolo 13 della legge n. 328 del 2000 comprendente la pubblicizzazione delle tariffe praticate con indicazione delle prestazioni ricomprese;
+
+                            
+                        
+                        
+                            d)
+                            
+                                adozione di un registro degli utenti del servizio con l'indicazione dei piani individualizzati di assistenza.
+
 ## Art. 7. — Requisiti specifici delle strutture
+
+1.
+                    
+                        
+                            Ai fini della individuazione dei requisiti minimi delle strutture si considerano:
+ 
+                        
+                        
+                            a)
+                            
+                                strutture a carattere comunitario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                strutture a prevalente accoglienza alberghiera;
+
+                            
+                        
+                        
+                            c)
+                            
+                                strutture protette;
+
+                            
+                        
+                        
+                            d)
+                            
+                                strutture a ciclo diurno.
 
 Le strutture a carattere comunitario sono caratterizzate da bassa intensita' assistenziale, bassa e media complessita' organizzativa, destinate ad accogliere utenza con limitata autonomia personale, priva del necessario supporto familiare o per la quale la permanenza nel nucleo familiare sia temporaneamente o definitivamente contrastante con il piano individualizzato di assistenza.
 

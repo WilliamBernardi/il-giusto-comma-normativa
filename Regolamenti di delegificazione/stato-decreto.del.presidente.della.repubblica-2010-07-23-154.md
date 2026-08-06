@@ -8,8 +8,8 @@ codice_redazionale: 010G0168
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -30,6 +30,31 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la p
 ## - Titolo I OBIETTIVI E CARATTERISTICHE GENERALI DELLA RILEVAZIONE
 
 ## Art. 1. — Obiettivi
+
+1.
+                        
+                            
+                                Obiettivi del 6° Censimento generale dell'agricoltura sono: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornire un quadro informativo statistico sulla struttura del sistema agricolo e zootecnico a livello nazionale, regionale e locale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assolvere agli obblighi di rilevazione stabiliti dal regolamento (CE) n. 1166/2008 del Parlamento europeo e del Consiglio, del 19 novembre 2008, relativo alle indagini sulla struttura delle aziende agricole e all'indagine sui metodi di produzione agricola e dal regolamento (CEE) n. 357/79 del Consiglio, del 5 febbraio 1979 e successive modificazioni, concernente le indagini statistiche sulle superfici viticole; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentire l'aggiornamento e la validazione del registro statistico delle aziende agricole realizzato dall'ISTAT mediante l'integrazione di basi di dati di fonte amministrativa.
 
 ## Art. 2. — Data di rilevazione
 
@@ -163,6 +188,24 @@ L'Ufficio regionale di censimento e' responsabile verso l'ISTAT del buon andamen
 
 ## Art. 18. — Registrazione dei dati
 
+1.
+                        
+                            
+                                Le Regioni che adottano il modello ad alta partecipazione indicano nel Piano regionale di censimento la modalita' di registrazione dei dati raccolti con i questionari censuari, scegliendo una sola tra le seguenti alternative: 
+ 
+                            
+                            
+                                a)
+                                
+                                    a cura degli Uffici regionali di censimento oppure, ove costituiti, degli Uffici territoriali di censimento o degli Uffici comunali di censimento, ovvero in affidamento esterno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a cura dell'ISTAT.
+
 L'ISTAT provvede alla registrazione dei dati raccolti per le aziende agricole rilevate nelle Regioni che adottano il modello a partecipazione integrativa.
 
 ## Art. 19. — Monitoraggio
@@ -198,6 +241,38 @@ All'organo di censimento che li ha nominati spetta il compito di sollevare dall'
 
 ## Art. 23. — Modalita' di reclutamento
 
+1.
+                        
+                            
+                                L'Ufficio regionale di censimento, fatto salvo quanto previsto all'articolo 17, recluta i coordinatori intercomunali di censimento e gli eventuali loro responsabili mediante una o piu' delle seguenti modalita': 
+ 
+                            
+                            
+                                a)
+                                
+                                    selezione tra i dipendenti dell'amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    selezione di dipendenti di altre amministrazioni pubbliche territoriali o funzionali, nel rispetto delle norme regionali e locali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    procedure selettive per il reclutamento di personale esterno alle pubbliche amministrazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ricorso ad elenchi preesistenti ed efficaci formati tramite procedure selettive o altre forme previste dalle norme vigenti.
+
 Nel Piano regionale di censimento ovvero nel Piano integrato di censimento debbono essere indicate le modalita' di reclutamento che si intendono applicare.
 
 Nelle Regioni che adottano il modello organizzativo ad alta partecipazione, i rilevatori e gli eventuali coordinatori comunali sono reclutati dagli Uffici di censimento indicati dal Piano regionale di censimento secondo una o piu' modalita' di cui al comma 1.
@@ -206,9 +281,66 @@ Nelle Regioni che adottano il modello organizzativo a partecipazione integrativa
 
 ## Art. 24. — Requisiti
 
+1.
+                        
+                            
+                                I coordinatori intercomunali di censimento e gli eventuali loro responsabili devono essere in possesso di comprovata esperienza in materia di agricoltura o di zootecnia o in rilevazioni statistiche, maturate in percorsi professionali idoneamente documentati quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    titolo di studio conseguito in discipline agrarie o statistiche (diploma o laurea) o titoli equipollenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    iscrizione agli albi professionali dei dottori agronomi e forestali, dei periti agrari e degli agrotecnici; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    svolgimento di attivita' professionale in istituti ed enti di istruzione, consulenza e assistenza tecnica, formazione e ricerca nel settore agricolo.
+
 I coordinatori comunali e i rilevatori devono essere in possesso del diploma di scuola media superiore o del diploma di scuola media inferiore; in quest'ultimo caso devono possedere una comprovata esperienza in materia di agricoltura o di zootecnia o in rilevazioni statistiche. Costituisce titolo preferenziale la conoscenza e la capacita' d'uso dei piu' diffusi strumenti informatici.
 
 ## Art. 25. — Compiti dei coordinatori e dei rilevatori
+
+1.
+                        
+                            
+                                Il Piano generale di censimento stabilisce i compiti dei: 
+ 
+                            
+                            
+                                a)
+                                
+                                    coordinatori intercomunali di censimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    eventuali loro responsabili; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    eventuali coordinatori comunali; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    rilevatori.
 
 I coordinatori, gli eventuali loro responsabili e i rilevatori di cui al comma 1 sono vincolati al segreto statistico ai sensi dell'articolo 8 del decreto legislativo 6 settembre 1989, n. 322, e alla disciplina stabilita dal decreto legislativo 30 giugno 2003, n. 196. Essi, in quanto incaricati di un pubblico servizio, sono tenuti all'osservanza del segreto di ufficio ai sensi all'articolo 326 del codice penale.
 

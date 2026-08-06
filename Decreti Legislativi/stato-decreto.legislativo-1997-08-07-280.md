@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2007-10-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -98,6 +98,31 @@ Per poter attivare le borse di lavoro le imprese non devono aver licenziato pers
 
 L'effetto incrementale delle borse di lavoro deve essere mantenuto durante la loro durata; le borse di lavoro non possono essere utilizzate in sostituzione di attivita' svolte da dipendenti, salvo che non intervenga l'effettiva assunzione dei giovani, anche durante lo svolgimento delle borse di lavoro.
 
+6.
+                        
+                            
+                                La durata delle borse di lavoro e' articolata nel modo seguente:
+ 
+                            
+                            
+                                a)
+                                
+                                    presso le imprese sino a 15 dipendenti, la durata e' di undici mesi per i giovani senza diploma di scuola secondaria superiore o laurea e di dieci mesi per i giovani con diploma di scuola secondaria superiore o laurea;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    presso le imprese con piu' di 15 dipendenti, la durata e' rispettivamente, per le stesse categorie di giovani, di dodici mesi e di undici mesi;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    presso le imprese appartenenti all'artigianato artistico, la durata e' sempre di dodici mesi.
+
 Ai giovani impegnati nelle borse di lavoro viene corrisposto il sussidio di cui all'articolo 14, comma 4, del decreto - legge 16 maggio 1994, n. 299, convertito, con modificazioni, dalla legge 19 luglio 1994, n. 451, come modificato dal decreto - legge 1 ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608. Tale sussidio viene erogato dall'Istituto nazionale della previdenza sociale (INPS) a seguito di attestazione mensile, secondo le modalita' comunicate dall'INPS, da parte dell'impresa della effettiva partecipazione alle attivita' previste, con predisposizione di procedure automatiche di accesso ai benefici, nei limiti insuperabili delle risorse preordinate allo scopo. L'orario di impegno presso le imprese e' a tempo parziale per 20 ore settimanali e per non piu' di otto ore giornaliere.
 
 ## Art. 6. — Procedure
@@ -105,6 +130,24 @@ Ai giovani impegnati nelle borse di lavoro viene corrisposto il sussidio di cui 
 Entro due mesi dalla data di entrata in vigore del presente decreto le imprese, aventi i requisiti e le condizioni di cui all'articolo 5, presentano all'INPS, anche tramite le organizzazioni datoriali di categoria, un'apposita dichiarazione di disponibilita', secondo il modello B allegato al presente decreto, ad accogliere presso le proprie sedi i giovani per svolgere le borse di lavoro.
 
 I requisiti e le condizioni di cui all'articolo 5 sono dichiarati con apposita autocertificazione da parte dell'impresa nella dichiarazione di disponibilita' di cui al comma 1. E' comunque fatta salva la facolta' di verificare la veridicita' e la autenticita' delle attestazioni prodotte. In caso di falsa dichiarazione si applicano le disposizioni di cui all'articolo 26 della legge 4 gennaio 1968, n. 15.
+
+3.
+                        
+                            
+                                Nell'ammissione alla possibilita' di attivare le borse di lavoro, hanno priorita' le imprese che abbiano almeno uno dei seguenti requisiti:
+ 
+                            
+                            
+                                a)
+                                
+                                    imprese le cui dichiarazioni siano presentate dalle associazioni datoriali unitamente all'impegno delle medesime di erogare almeno 40 ore di formazione teorica, in modo collettivo, sulla normativa del lavoro e della prevenzione degli infortuni in raccordo con il sistema di formazione professionale regionale o con organismi convenzionati con il medesimo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    imprese artigiane, il cui titolare si impegni a svolgere attivita' formativa, per almeno 40 ore con esclusione del semplice affiancamento, in qualita' di tutore ovvero imprese, appartenenti alla categoria ISTAT K - 74, il cui titolare sia un libero professionista che assuma analogo impegno.
 
 Entro dieci giorni dal termine di cui al comma 1, l'INPS comunica al Ministero del lavoro e della previdenza sociale - Direzione generale per l'impiego, alle regioni - assessorati al lavoro ed alle province interessate, i dati relativi alle prenotazioni presentate dalle imprese, secondo il settore di attivita', le dimensioni dell'impresa, la durata delle borse di lavoro, la presenza delle condizioni di priorita' di cui al comma 3 e l'ambito provinciale.
 

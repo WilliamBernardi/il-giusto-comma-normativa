@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2024-12-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -46,13 +46,119 @@ Lo statuto disciplina le procedure per l'elezione del presidente e della giunta 
 
 ## Art. 3. — Organi
 
+1.
+                    
+                        
+                            Sono organi del CONI: 
+ 
+                        
+                        
+                            a)
+                            
+                                il consiglio nazionale; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                la giunta nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il presidente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il segretario generale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                LETTERA SOPPRESSA DAL D.LGS. 8 GENNAIO 2004, N. 15; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il collegio dei revisori dei conti.
+
+((2. Gli organi del CONI restano in carica quattro anni. I componenti che assumono le funzioni nel corso del quadriennio restano in carica fino alla scadenza degli organi. Il presidente e gli altri componenti della giunta nazionale, ad eccezione di quelli di cui all'articolo 6, comma 1, lettera b), non possono svolgere piu' di tre mandati. Le previsioni di cui al presente comma si applicano anche ai presidenti e ai membri degli organi direttivi delle strutture territoriali del CONI))
 
 Il compenso spettante agli organi e' determinato con decreto del Ministero per i beni e le attivita' culturali di concerto con il Ministero dell'economia e delle finanze, sulla base delle vigenti direttive in materia.
 
 ## Art. 4. — Consiglio nazionale
 
 ((
+
+1.
+                    
+                        
+                            Il consiglio nazionale e' composto da:
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente del CONI, che lo presiede;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i presidenti delle federazioni sportive nazionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i membri italiani del CIO;
+
+                            
+                        
+                        
+                            d)
+                            
+                                atleti e tecnici sportivi in rappresentanza delle federazioni sportive nazionali e delle discipline sportive associate a condizione che non abbiano subito sanzioni di sospensione dall'attivita' sportiva conseguente all'utilizzo di sostanze che alterano le naturali prestazioni fisiche nelle attivita' sportive;
+
+                            
+                        
+                        
+                            e)
+                            
+                                tre membri in rappresentanza dei presidenti delle strutture territoriali di livello regionale e tre membri in rappresentanza delle strutture territoriali di livello provinciale del CONI;
+
+                            
+                        
+                        
+                            f)
+                            
+                                cinque membri in rappresentanza degli enti di promozione sportiva riconosciuti dal CONI;
+
+                            
+                        
+                        
+                            g)
+                            
+                                tre membri in rappresentanza delle discipline sportive associate;
+
+                            
+                        
+                        
+                            h)
+                            
+                                un membro in rappresentanza delle Associazioni benemerite riconosciute dal CONI.
 
 Lo statuto regola il procedimento elettorale dei componenti di cui alle lettere d), e), f), g) ed h) del comma 1.
 
@@ -76,7 +182,139 @@ Il Consiglio nazionale, nel rispetto delle deliberazioni e degli indirizzi emana
 
 Il Consiglio nazionale elegge il presidente e i componenti della Giunta nazionale di cui all'articolo 6.
 
+2.
+                    
+                        
+                            Il consiglio nazionale svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                adotta lo statuto e gli altri atti normativi di competenza, nonche' i relativi atti di indirizzo interpretativo ed applicativo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabilisce i principi fondamentali ai quali devono uniformarsi, allo scopo del riconoscimento ai fini sportivi, gli statuti delle federazioni sportive nazionali delle discipline sportive associate, degli enti di promozione sportiva e delle associazioni e societa' sportive; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delibera in ordine ai provvedimenti di riconoscimento, ai fini sportivi, delle federazioni sportive nazionali, ((...)), degli enti di promozione sportiva, delle associazioni benemerite e di altre discipline sportive associate al CONI e alle federazioni, sulla base dei requisiti fissati dallo statuto, tenendo conto a tal fine anche della rappresentanza e del carattere olimpico dello sport, dell'eventuale riconoscimento del CIO e della tradizione sportiva della disciplina; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                stabilisce, in armonia con l'ordinamento sportivo internazionale e nell'ambito di ciascuna federazione sportiva nazionale o della disciplina sportiva associata, criteri per la distinzione dell'attivita' sportiva dilettantistica da quella professionistica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                stabilisce i criteri e le modalita' per l'esercizio dei controlli sulle federazioni sportive nazionali, sulle discipline sportive associate e sugli enti di promozione sportiva riconosciuti; 
+
+                            
+                        
+                        
+                            e-bis)
+                            
+                                stabilisce i criteri e le modalita' di esercizio dei controlli da parte delle federazioni sportive nazionali sulle societa' sportive di cui all'articolo 12 della legge 23 marzo 1981, n. 91. 
+Allo scopo di garantire il regolare svolgimento dei campionati sportivi il controllo sulle societa' di cui alla citata legge n. 91 del 1981 puo' essere svolto in via sostitutiva dal CONI in caso di verificata inadeguatezza dei controlli da parte della federazione sportiva nazionale; 
+
+                            
+                        
+                        
+                            e-ter)
+                            
+                                delibera, su proposta della Giunta nazionale, il commissariamento delle federazioni sportive nazionali o delle discipline sportive associate, in caso di gravi irregolarita' nella gestione o di gravi violazioni dell'ordinamento sportivo da parte degli organi direttivi, ovvero in caso di constatata impossibilita' di funzionamento dei medesimi, o nel caso in cui non siano garantiti il regolare avvio e svolgimento delle competizioni sportive nazionali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                approva gli indirizzi generali sull'attivita' dell'ente, il bilancio preventivo e il bilancio consuntivo; ratifica le delibere della giunta nazionale relative alle variazioni di bilancio; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                esprime parere sulle questioni ad esso sottoposte dalla giunta nazionale; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                svolge gli altri compiti previsti dal presente decreto e dallo statuto.
+
 ## Art. 6. — Giunta nazionale
+
+1.
+                    
+                        
+                            La giunta nazionale e' composta da: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente del CONI, che la presiede; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i membri italiani del CIO; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dieci rappresentanti delle federazioni sportive nazionali e delle discipline sportive associate; 
+
+                            
+                        
+                        
+                            c-bis)
+                            
+                                un rappresentante nazionale degli enti di promozione sportiva; 
+
+                            
+                        
+                        
+                            c-ter)
+                            
+                                due rappresentanti delle strutture territoriali del CONI.
+
+1-bis.
+                    
+                        
+                            Tra i componenti di cui alla lettera c) del comma 1, almeno tre sono eletti tra gli atleti e i tecnici sportivi, i restanti sono eletti tra coloro che abbiano uno dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                Presidenti di federazioni sportive nazionali o discipline sportive associate, in numero non superiore a cinque; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                componenti in carica o ex componenti dell'organo direttivo del CONI, di una federazione sportiva nazionale o di una disciplina sportiva associata.
 
 COMMA SOPPRESSO DAL D.LGS. 8 GENNAIO 2004, N. 15.
 
@@ -92,6 +330,81 @@ COMMA SOPPRESSO DAL D.LGS. 8 GENNAIO 2004, N. 15.
 
 La giunta nazionale esercita le funzioni di indirizzo generale dell'attivita' amministrativa e gestionale del CONI, definendone gli obiettivi ed i programmi e verificando la rispondenza dei risultati agli indirizzi impartiti.
 
+2.
+                    
+                        
+                            La giunta nazionale svolge i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                formula la proposta di statuto dell'ente;
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                definisce annualmente i criteri e i parametri fondamentali cui deve attenersi il contratto di servizio di cui all'articolo 8, comma 8, del decreto-legge 8 luglio 2002, n. 138, convertito, con modificazioni, dalla legge 8 agosto 2002, n. 178; la delibera e' trasmessa al Ministero vigilante per l'approvazione;
+                            
+                        
+                        
+                            b)
+                            
+                                delibera sull'ordinamento e sull'organizzazione dei servizi e degli uffici e sulla consistenza degli organici;
+
+                            
+                        
+                        
+                            c)
+                            
+                                esercita i poteri di controllo sull'organizzazione generale dei servizi e degli uffici dell'ente;
+
+                            
+                        
+                        
+                            d)
+                            
+                                delibera lo schema di bilancio preventivo e di bilancio consuntivo da sottoporre all'approvazione del Consiglio nazionale, e approva le variazioni di bilancio da sottoporre alla ratifica del Consiglio nazionale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                esercita, sulla base dei criteri e modalita' stabilite ai sensi dell'articolo 5, comma 2, lettera e), il potere di controllo sulle federazioni sportive nazionali, sulle discipline sportive associate e sugli enti di promozione sportiva riconosciuti in merito al regolare svolgimento delle competizioni, alla preparazione olimpica e all'attivita' sportiva di alto livello e all'utilizzo dei contributi finanziari di cui alla lettera d) del presente comma;
+
+                            
+                        
+                        
+                            f)
+                            
+                                propone al Consiglio nazionale, il commissariamento delle federazioni sportive nazionali o delle discipline sportive associate, in caso di gravi irregolarita' nella gestione o di gravi violazioni dell'ordinamento sportivo da parte degli organi direttivi, ovvero in caso di constatata impossibilita' di funzionamento dei medesimi, o nel caso in cui non siano stati ottemperati gli adempimenti regolamentari al fine di garantire il regolare avvio e svolgimento delle competizioni sportive nazionali;
+                            
+                        
+                        
+                            g)
+                            
+                                nomina il segretario generale;
+
+                            
+                        
+                        
+                            h)
+                            
+                                svolge gli altri compiti previsti dal presente decreto e dallo statuto;
+
+                            
+                        
+                        
+                            h-bis)
+                            
+                                individua, con delibera sottoposta all'approvazione del Ministero per i beni e le attivita' culturali, i criteri generali dei procedimenti di giustizia sportiva, secondo i seguenti principi:
+ 1) obbligo degli affiliati e tesserati, per la risoluzione delle controversie attinenti lo svolgimento dell'attivita' sportiva, di rivolgersi agli organi di giustizia federale;
+ 2) previsione che i procedimenti in materia di giustizia sportiva rispettino i principi del contraddittorio tra le parti, del diritto di difesa, della terzieta' e imparzialita' degli organi giudicanti, della ragionevole durata, della motivazione e della impugnabilita' delle decisioni;
+ 3) razionalizzazione dei rapporti tra procedimenti di giustizia sportiva di competenza del CONI con quelli delle singole federazioni sportive nazionali e delle discipline sportive associate.
+
 ## Art. 8. — Presidente del CONI
 
 Il presidente ha la rappresentanza legale dell'ente, anche nell'ambito delle organizzazioni sportive internazionali, svolge i compiti previsti dall'ordinamento sportivo ed esercita le altre attribuzioni previste dal presente decreto e dallo statuto.
@@ -103,6 +416,31 @@ Il presidente e' eletto dal Consiglio nazionale.
 Il presidente, eletto ai sensi del comma 2, e' nominato con decreto del Presidente della Repubblica.
 
 La carica di presidente e' incompatibile con altre cariche sportive in seno alle federazioni sportive nazionali e alle discipline sportive associate.
+
+3-ter.
+                    
+                        
+                            Il presidente e' eletto tra tesserati o ex tesserati alle federazioni sportive nazionali o alle discipline sportive associate per almeno quattro anni in possesso di uno dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                aver ricoperto la carica di Presidente o vice presidente di una federazione sportiva nazionale o di una disciplina sportiva associata o di membro della Giunta nazionale del CONI o di una struttura territoriale del CONI;
+
+                            
+                        
+                        
+                            b)
+                            
+                                essere stato atleta chiamato a far parte di rappresentative nazionali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere stato dirigente insignito dal CONI delle onorificenze del Collare o della Stella d'oro al merito sportivo.
 
 ))
 
@@ -127,6 +465,31 @@ I componenti del collegio dei revisori dei conti restano in carica sino alla nom
 ## Art. 12. — Segretario generale
 
 Il segretario generale e' nominato dalla giunta nazionale, tra soggetti in possesso di adeguati requisiti tecnicoprofessionali.
+
+2.
+                    
+                        
+                            Il segretario generale svolge i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                provvede alla gestione amministrativa dell'ente in base agli indirizzi generali della giunta nazionale e cura l'organizzazione generale dei servizi e degli uffici ((per la funzionalita' dell'ente));
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone il bilancio dell'ente;
+
+                            
+                        
+                        
+                            c)
+                            
+                                espleta i compiti ad esso affidati dall'ordinamento sportivo internazionale ed esercita le altre attribuzioni previste dal presente decreto e dallo statuto.
 
 La carica di segretario generale e' incompatibile con quella di componente del consiglio nazionale e con quella di componente degli organi delle federazioni sportive nazionali ((delle discipline sportive associate e degli enti di promozione sportiva riconosciuti.))
 

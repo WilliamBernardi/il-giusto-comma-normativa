@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-05-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,9 +34,74 @@ La Scuola, con sede in Roma, dipende dal Dipartimento della pubblica sicurezza e
 
 ## Art. 2. — Compiti della Scuola
 
+1.
+                    
+                        
+                            La Scuola e' un'istituzione di alta formazione e cultura, che svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                istituisce e realizza i corsi di formazione, di perfezionamento e di specializzazione, nonche' di aggiornamento professionale previsti dal regolamento adottato con decreto del Ministro dell'interno 24 dicembre 2003, n. 400, recante disciplina delle modalita' di svolgimento dei corsi destinati al personale dirigente e direttivo della Polizia di Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                svolge le attivita' di formazione permanente e ricorrente per il personale dirigente e direttivo della Polizia di Stato, che si rendano necessarie in relazione alle esigenze istituzionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                organizza conferenze, convegni, incontri e seminari di studio per le esigenze del Dipartimento della pubblica sicurezza e nell'ambito dei propri fini istituzionali ((svolge attivita' di ricerca, studio, sperimentazione e consulenza per le esigenze dell'Amministrazione della pubblica sicurezza, al fine di sviluppare e aggiornare costantemente, anche nei settori piu' innovativi e strategici, i programmi didattici e garantire un'offerta formativa in linea con i piu' elevati livelli europei ed internazionali)); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                svolge, sulla base di specifici accordi o convenzioni, che disciplinano anche i relativi oneri, attivita' formative di carattere specialistico per appartenenti ad altre Forze di Polizia, anche estere, e ad altre amministrazioni e organismi pubblici ((, nonche' sviluppa progetti di collaborazione e di interscambio formativo con i soggetti e per le finalita' di cui all'articolo 3, comma 1, lettere c) e d).)).
+
 La Scuola persegue le proprie finalita' direttamente o attraverso intese con le competenti Direzioni e Uffici centrali del Dipartimento della pubblica sicurezza.
 
 ## Art. 3. — Autonomia didattico-istituzionale rapporti con scuole, istituti ed enti
+
+1.
+                    
+                        
+                            In attuazione dell'autonomia didattico-istituzionale prevista dall'articolo 67, comma 1, del decreto legislativo 5 ottobre 2000, n. 
+334, la Scuola: 
+ 
+                        
+                        
+                            a)
+                            
+                                collabora, per lo sviluppo di iniziative comuni volte al perseguimento degli obiettivi di cui all'articolo 2, con la Scuola di perfezionamento per le Forze di Polizia, nonche' con la ((Scuola nazionale dell'amministrazione)); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                cura i rapporti con tutti gli altri istituti di alta formazione delle amministrazioni pubbliche, in particolare per la promozione e l'interscambio culturale, scientifico e didattico; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                cura i rapporti con strutture similari di altri Paesi, in attuazione delle strategie di cooperazione internazionale del Dipartimento della pubblica sicurezza nello specifico settore della formazione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                promuove forme di cooperazione mediante accordi o convenzioni e partecipa ad ogni altra forma di collaborazione e di scambio di esperienze, funzionali al perseguimento degli obiettivi istituzionali, con scuole, istituti di alta cultura, societa' ed enti.
 
 ## Art. 4. — Autonomia didattico-istituzionale rapporti con le universita'
 
@@ -73,6 +138,74 @@ Gli incarichi di docenza possono essere revocati, con il decreto di cui al comma
 ## Art. 9. — ((Organizzazione della Scuola))
 
 ((
+
+1.
+                    
+                        
+                            La Scuola e' ordinata in: 
+ 
+                        
+                        
+                            a)
+                            
+                                servizio affari generali, per le esigenze di indirizzo, coordinamento e controllo delle attivita' previste al comma 2; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                servizio didattica, per le esigenze di indirizzo, coordinamento e controllo delle attivita' previste al comma 3;
+
+2.
+                    
+                        
+                            Il servizio affari generali e' articolato in: 
+ 
+                        
+                        
+                            a)
+                            
+                                ufficio affari generali, organizzazione e coordinamento: cura gli affari generali, svolge compiti di diretta collaborazione e supporto al direttore della Scuola ai fini dell'organizzazione e del coordinamento interno, della definizione, dell'attuazione e della verifica dei programmi e degli obiettivi attinenti alle attivita' della Scuola, cura i rapporti con le organizzazioni sindacali, provvede agli adempimenti previsti dalla normativa in materia di trasparenza e anticorruzione; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ufficio amministrazione e documentazione: cura la documentazione e la gestione archivistica, la gestione e la conservazione della documentazione classificata, la biblioteca della Scuola, il controllo di gestione e di qualita', gli affari amministrativi per la gestione finanziaria e contabile, nonche' la comunicazione istituzionale, le relazioni esterne ed il cerimoniale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ufficio personale, logistica e sicurezza: cura gli affari del personale, la logistica, il supporto tecnologico, la sicurezza e la vigilanza della Scuola, nonche' gli affari inerenti alla sicurezza e alla salute sul posto di lavoro; nell'ambito dell'ufficio e' incardinato l'ufficio sanitario.
+
+3.
+                    
+                        
+                            Il servizio didattica e' articolato in: 
+ 
+                        
+                        
+                            a)
+                            
+                                ufficio ricerca e innovazione strategica: espleta attivita' di ricerca, studio, sperimentazione e consulenza per le esigenze dell'Amministrazione della pubblica sicurezza, al fine di sviluppare e aggiornare costantemente, anche nei settori piu' innovativi e strategici, i programmi didattici e garantire un'offerta formativa in linea con i piu' elevati livelli europei ed internazionali; cura, altresi', la programmazione dei corsi di formazione sperimentali, nonche' i rapporti di cooperazione e i progetti di interscambio formativo, anche a livello europeo ed internazionale, con i soggetti e per le finalita' di cui all'articolo 3, comma 1, lettere c) e d); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ufficio studi e addestramento: cura la valutazione del fabbisogno formativo, la gestione ai fini didattici dei rapporti instaurati con le universita' e i relativi organi interni, la pianificazione didattica e addestrativa, la programmazione e l'attuazione dei piani di studio, l'organizzazione dei seminari specialistici e dei tirocini applicativi, i rapporti con i docenti e gli istruttori, l'organizzazione delle prove di esame, nonche' l'aggiornamento professionale del personale della Scuola; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ufficio corsi: cura lo svolgimento dei corsi e lo sviluppo delle attivita' didattiche in aderenza ai piani di studio, l'amministrazione dei frequentatori dei corsi e dei seminari, lo svolgimento dell'attivita' di tutoring dei frequentatori, lo svolgimento delle attivita' di addestramento fisico-sportivo, tecnico-operativo e formale, la valutazione attitudinale dei frequentatori dei corsi di formazione iniziale, le attivita' segretariali per le commissioni di esame; nonche', ove previsto, le attivita' istruttorie relative all'emissione del giudizio di idoneita'.
 
 Ai servizi sono preposti dirigenti superiori dei ruoli del personale della Polizia di Stato che espleta funzioni di polizia. Il dirigente preposto al servizio affari generali assolve anche alle funzioni di vice direttore della Scuola. Agli uffici in cui si articolano i servizi, sono preposti primi dirigenti dei ruoli del personale della Polizia di Stato che espleta funzioni di polizia.
 

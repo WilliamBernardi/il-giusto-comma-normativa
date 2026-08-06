@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi costituzionali
 vigenza_date: 1989-01-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:08Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 LEGGE COSTITUZIONALE

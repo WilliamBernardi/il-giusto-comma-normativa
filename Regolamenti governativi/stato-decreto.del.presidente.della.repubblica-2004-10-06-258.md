@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2006-07-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:09Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,6 +40,31 @@ L'incarico ha durata quinquennale ed e' rinnovabile una sola volta.
 
 L'Alto Commissario esercita le sue funzioni nell'ambito della pubblica amministrazione. Le modalita' per l'attuazione del presente regolamento nei confronti delle regioni, delle province autonome e degli enti locali sono definite previa intesa, in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
 
+2.
+                    
+                        
+                            L'Alto Commissario puo' disporre:
+ 
+                        
+                        
+                            a)
+                            
+                                indagini, anche di natura conoscitiva, di iniziativa propria o per fatti denunciati, con esclusione di quelli oggetto di segnalazioni anonime, o su richiesta motivata delle amministrazioni, tese ad accertare l'esistenza, le cause e le concause di fenomeni di corruzione e di illecito o di pericoli di condizionamento da parte di organizzazioni criminali all'interno della pubblica amministrazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elaborazione di analisi e studi sulla adeguatezza e congruita' del quadro normativo, nonche' delle eventuali misure poste in essere dalle amministrazioni per prevenire e per fronteggiare l'evolversi dei fenomeni oggetto di esame;
+
+                            
+                        
+                        
+                            c)
+                            
+                                monitoraggio su procedure contrattuali e di spesa e su comportamenti, e conseguenti atti, da cui possa derivare danno erariale.
+
 Nell'espletamento delle funzioni l'Alto Commissario, oltre ad avvalersi degli uffici e degli organi ispettivi e di verifica delle amministrazioni pubbliche e dei servizi di controllo interno previsti dal decreto legislativo 30 luglio 1999, n. 286, puo' effettuare accertamenti diretti, anche mediante audizioni, redigendone apposito verbale debitamente sottoscritto, di soggetti appartenenti alle pubbliche amministrazioni o di privati interessati alle procedure amministrative o contabili in corso di esame; puo' altresi' delegare specifici accertamenti a singoli funzionari delle pubbliche amministrazioni interessate.
 
 Qualora sia individuato un responsabile dell'attivita' oggetto di accertamento, l'Alto Commissario comunica all'interessato l'avvio del procedimento. L'interessato puo' chiedere di essere ascoltato dall'Alto Commissario o da un dirigente o da un funzionario da lui delegato; in tale caso dell'audizione e' redatto apposito verbale debitamente sottoscritto.
@@ -51,6 +76,24 @@ Per le attivita' di cui al comma 2, lettera c), e comma 4, le amministrazioni ri
 La mancata risposta da parte delle amministrazioni alle richieste dell'Alto Commissario e' da quest'ultimo segnalata al Procuratore della Repubblica competente per territorio, ai fini dell'adozione delle eventuali iniziative di competenza.
 
 ## Art. 3. — Accesso ai documenti amministrativi ed alle banche dati delle pubbliche amministrazioni
+
+1.
+                    
+                        
+                            Nell'esercizio delle funzioni di cui all'articolo 2, fermo quanto previsto dal decreto legislativo 30 giugno 2003, n. 196, l'Alto Commissario accede:
+ 
+                        
+                        
+                            a)
+                            
+                                ai documenti delle pubbliche amministrazioni, con il limite per il materiale documentale per il quale operi il segreto di Stato;
+
+                            
+                        
+                        
+                            b)
+                            
+                                alle banche dati delle pubbliche amministrazioni, anche concordando con queste idonee forme di collegamento telematico.
 
 ## Art. 4. — Informativa periodica
 
@@ -65,6 +108,44 @@ La denuncia non determina la sospensione dell'attivita' di competenza dell'Alto 
 Qualora dagli accertamenti compiuti emergano fatti rilevanti ai fini della responsabilita' amministrativa e disciplinare dei pubblici dipendenti, l'Alto Commissario trasmette apposita relazione informativa alle rispettive amministrazioni, specificando gli eventuali profili di rilievo disciplinare.
 
 ## Art. 6. — Strutture di supporto
+
+1.
+                    
+                        
+                            Nello svolgimento delle funzioni di cui all'articolo 2, l'Alto Commissario si avvale del supporto:
+ 
+                        
+                        
+                            a)
+                            
+                                di un Vice Commissario ((vicario)), nominato con decreto del Presidente del Consiglio dei Ministri, su proposta dell'Alto Commissario, scelto tra le categorie professionali di cui all'articolo 1, comma 2, il quale svolge le funzioni delegate dall'Alto Commissario e lo sostituisce in caso di assenza o di impedimento; l'incarico ha durata quinquennale ed e' rinnovabile una sola volta;
+
+                            
+                        
+                        
+                            a-bis)
+                            
+                                di un Vice Commissario aggiunto, nominato con decreto del Presidente del Consiglio dei Ministri, su proposta dell'Alto Commissario, scelto tra le categorie di personale nell'ambito delle quali sono individuati gli esperti di cui alla lettera d), il quale svolge i compiti delegati dall'Alto Commissario. L'incarico ha durata quinquennale ed e' rinnovabile una sola volta;
+                            
+                        
+                        
+                            b)
+                            
+                                di un dirigente di prima fascia, delle amministrazioni dello Stato ed equiparate, con l'incarico di direttore dell'Ufficio dell'Alto Commissario, nominato dal Presidente del Consiglio dei Ministri, su proposta dell'Alto Commissario, ed al quale sono conferite funzioni di coordinamento della struttura; l'incarico ha durata quinquennale e non e' rinnovabile;
+
+                            
+                        
+                        
+                            c)
+                            
+                                di personale dipendente delle amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, in posizione di comando, secondo i rispettivi ordinamenti, con particolare riferimento a portatori di una specifica qualificazione professionale informatica ed amministrativa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                di cinque esperti, nominati ai sensi dell'articolo 9, comma 2, del decreto legislativo 30 luglio 1999, n. 303, tra magistrati ordinari, amministrativi e contabili e di avvocati dello Stato, e nell'ambito delle altre categorie di personale di cui all'articolo 2, comma 4, del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, appartenenti agli organi costituzionali, con almeno cinque anni di servizio effettivo nelle amministrazioni di appartenenza, collocati fuori ruolo o in aspettativa retribuita ai sensi dell'articolo 1, comma 4, lettera e), della legge 16 gennaio 2003, n. 3, modificata dall'articolo 1, comma 254, lettera b), della legge 23 dicembre 2005, n. 266.
 
 Il contingente di personale che puo' essere assegnato all'Ufficio dell'Alto Commissario e' determinato con decreto del Presidente del Consiglio dei Ministri.
 

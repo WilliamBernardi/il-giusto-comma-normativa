@@ -8,8 +8,8 @@ codice_redazionale: 098G0505
 vigente: true
 source: normattiva-opendata
 collection: DPCM
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:13Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
@@ -68,6 +68,24 @@ Le funzioni vicarie, per i casi di assenza o di impedimento del capo del Diparti
 Il capo del Dipartimento cura i rapporti con il Segretariato generale e con gli altri uffici e dipartimenti della Presidenza del Consiglio dei Ministri secondo le disposizioni impartite dal Ministro.
 
 ## Art. 7. — Organizzazione
+
+1.
+                    
+                        
+                            Il Dipartimento e' articolato nei seguenti uffici:
+ 
+                        
+                        
+                            a)
+                            
+                                ufficio per gli affari generali, amministrativi e contabili, e per il personale, che opera alle dirette dipendenze del capo del Dipartimento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ufficio per le relazioni esterne, cui puo' essere preposto l'addetto stampa del Ministro.
 
 Le ripartizioni interne degli uffici in numero complessivamente non superiore a due, sono denominati servizi e sono unita' operative di base di livello dirigenziale.
 

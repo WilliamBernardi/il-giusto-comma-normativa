@@ -10,7 +10,7 @@ source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 vigenza_date: 2022-02-01
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 DECRETO LEGISLATIVO

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2018-02-08
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,25 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della gi
 ## Art. 1. — Modifica della disciplina concernente l'elezione del 
  Consiglio di presidenza della Corte dei conti e del 
  Consiglio di presidenza della giustizia amministrativa
+
+1.
+                    
+                        
+                            All'articolo 10 della legge 13 aprile 1988, n. 117, sono apportate le seguenti modificazioni: 
+
+                        
+                        
+                            a)
+                            
+                                al comma 2, la lettera c) e' sostituita dalla seguente: 
+ "c) dal presidente aggiunto della Corte dei conti o, in sua assenza, dal presidente di sezione piu' anziano;"; 
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 2, e' inserito il seguente: 
+ "2-bis. I componenti elettivi del Consiglio di presidenza durano in carica 4 anni e non sono nuovamente eleggibili per i successivi otto anni dalla scadenza dell'incarico.".
 
 All'articolo 9, terzo comma, della legge 27 aprile 1982, n. 186, le parole: "per un numero di componenti non superiore a quello da eleggere meno uno, oltre ai componenti supplenti" sono sostituite dalle seguenti: "per un solo componente titolare e per un solo componente supplente", e sono aggiunti, in fine, i seguenti periodi: "Ai componenti elettivi si applica il comma 2-bis dell'articolo 10 della legge 13 aprile 1988, n. 117. In caso di dimissioni o di cessazione di uno o piu' membri elettivi dall'incarico per qualsiasi causa nel corso del quadriennio, sono indette elezioni suppletive tra i magistrati appartenenti al corrispondente gruppo elettorale per designare, per il restante periodo, il sostituto del membro decaduto o dimessosi.". E' conseguentemente abrogato il comma 4 dell'articolo 7.((1))
 

@@ -8,8 +8,8 @@ codice_redazionale: 096G0395
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,7 +31,155 @@ In attuazione dell'art. 26, comma 3, della legge 28 gennaio 1994, n. 84, il pres
 
 ## Art. 2.
 
+1.
+                    
+                        
+                            Per l'esercizio del Servizio di escavazione dei porti marittimi nazionali la Direzione generale del lavoro marittimo e portuale ha il compito di:
+ 
+                        
+                        
+                            a)
+                            
+                                rilevare le esigenze di escavo nei porti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                elaborare, di concerto con la Direzione generale del demanio marittimo e dei porti, sentito l'Ispettorato tecnico, il piano poliennale di escavazione dei porti e del rinnovo dei mezzi e delle attrezzature, nonche' dei cantieri e del loro potenziamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                elaborare, di concerto con la Direzione generale del demanio marittimo e dei porti, sentito l'Ispettorato tecnico, la proposta di programma annuale per gli interventi di escavo e per il rinnovo dei mezzi e delle attrezzature, nonche' dei cantieri e del loro potenziamento da sottoporre, per l'approvazione, al Ministro dei trasporti e della navigazione ai sensi del decreto legislativo 3 febbraio 1993, n. 29;
+
+                            
+                        
+                        
+                            d)
+                            
+                                raccogliere le richieste di interventi di escavo che presentano carattere di urgenza e disporne l'attuazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                stipulare, sentito l'Ispettorato tecnico, le convenzioni con le altre amministrazioni statali, con gli enti pubblici e con i privati;
+
+                            
+                        
+                        
+                            f)
+                            
+                                coordinare gli aspetti economico-produttivi dell'attivita' di escavo e verificarne la gestione;
+
+                            
+                        
+                        
+                            g)
+                            
+                                gestire i fondi di bilancio relativamente alle attivita' amministrative, tecniche e operative;
+
+                            
+                        
+                        
+                            h)
+                            
+                                provvedere, su proposta dell'Ispettorato tecnico, agli acquisti dei materiali per il funzionamento dei mezzi e dei cantieri, nonche' all'acquisto di nuovi mezzi ed attrezzature;
+
+                            
+                        
+                        
+                            i)
+                            
+                                assegnare, su proposta dell'Ispettorato tecnico, a ciascun nucleo periferico e a ciascun cantiere le risorse finanziarie necessarie per le attivita' tecnico-operative che rivestono carattere d'urgenza;
+
+                            
+                        
+                        
+                            l)
+                            
+                                disporre, sulla base delle perizie tecniche approvate, l'effettuazione dei lavori di trasformazione, grande riparazione nonche' l'alienazione dei mezzi;
+
+                            
+                        
+                        
+                            m)
+                            
+                                esercitare il controllo amministrativo contabile sui fondi assegnati di cui alla lettera i).
+
 ## Art. 3.
+
+1.
+                    
+                        
+                            Alla gestione tecnico-operativa del Servizio di escavazione porti provvede l'Ispettorato tecnico del Ministero dei trasporti e della navigazione, con il compito di:
+ 
+                        
+                        
+                            a)
+                            
+                                curare l'attuazione del programma annuale elaborato sulla base del piano poliennale in ordine al rinnovo dei mezzi e delle attrezzature ed all'escavo dei fondali;
+
+                            
+                        
+                        
+                            b)
+                            
+                                coordinare l'attivita' dei cantieri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                approvare le perizie tecniche predisposte dai responsabili dei nuclei periferici e dei cantieri per i lavori di trasformazione, grande riparazione nonche' per l'alienazione dei mezzi;
+
+                            
+                        
+                        
+                            d)
+                            
+                                proporre alla Direzione generale del lavoro marittimo e portuale gli acquisti dei materiali per il funzionamento dei mezzi e dei cantieri nonche' l'acquisto di nuove attrezzature;
+
+                            
+                        
+                        
+                            e)
+                            
+                                fissare gli standard tecnici e operativi dei mezzi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                approvare i progetti di escavo predisposti dai responsabili dei nuclei periferici;
+
+                            
+                        
+                        
+                            g)
+                            
+                                organizzare l'attivita' dei mezzi effossori e dei mezzi ausiliari;
+
+                            
+                        
+                        
+                            h)
+                            
+                                curare l'attuazione degli interventi di escavo che rivestono carattere d'urgenza;
+
+                            
+                        
+                        
+                            i)
+                            
+                                disporre, d'intesa con la Direzione generale del lavoro marittimo e portuale, che il personale ed i mezzi assegnati ad un dato nucleo periferico, operino in un altro ambito territoriale, a seconda delle esigenze.
 
 ## Art. 4.
 
@@ -41,9 +189,80 @@ Il Servizio e' articolato in otto nuclei operativi periferici aventi le sedi e l
 
 Ad ogni nucleo periferico e' preposto un funzionario designato, d'intesa con il direttore generale del lavoro marittimo e portuale, dal capo dell'Ispettorato tecnico, con profilo professionale dell'area naval-meccanica di livello non inferiore al settimo, appartenente al ruolo del Ministero dei trasporti e della navigazione, che ha la direzione e la responsabilita' del nucleo.
 
+2.
+                    
+                        
+                            Il responsabile del nucleo periferico ha le seguenti attribuzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                predispone i progetti, previa acquisizione di tutte le autorizzazioni richieste dalla normativa vigente e dirige i lavori di escavo nell'ambito territoriale di competenza;
+
+                            
+                        
+                        
+                            b)
+                            
+                                predispone le perizie di manutenzione e riclassifica dei mezzi assegnati al nucleo cui e' preposto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                provvede agli acquisti urgenti nei limiti delle somme ricevute in anticipazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                cura tutta l'attivita' necessaria alla gestione amministrativa del nucleo avvalendosi a tal fine di apposita struttura amministrativa;
+
+                            
+                        
+                        
+                            e)
+                            
+                                e' responsabile delle somme ricevute in anticipazione ai sensi dell'art. 2, lettera i), e ne rende il conto ai sensi degli articoli 60 e seguenti del regio decreto 18 novembre 1923, n. 2440, come modificato dall'art. 32 della legge 28 febbraio 1986, n. 41.
+
 ## Art. 6.
 
 A ciascun cantiere e' preposto un funzionario designato, d'intesa con il direttore generale del lavoro marittimo e portuale, dal capo dell'Ispettorato tecnico con profilo professionale dell'area naval-meccanica di livello non inferiore al settimo, appartenente al ruolo del Ministero dei trasporti e della navigazione che ha la direzione e la responsabilita' del cantiere.
+
+2.
+                    
+                        
+                            Il responsabile del cantiere ha le seguenti attribuzioni:
+ 
+                        
+                        
+                            a)
+                            
+                                collabora con i responsabili dei nuclei per la redazione delle perizie e dirige i lavori di manutenzione e riclassifica dei mezzi e delle attrezzature;
+
+                            
+                        
+                        
+                            b)
+                            
+                                provvede agli acquisti urgenti nei limiti delle somme ricevute in anticipazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                cura l'attivita' necessaria alla gestione amministrativa del cantiere, avvalendosi di apposita struttura amministrativa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                e' responsabile delle somme ricevute in anticipazione ai sensi dell'art. 2, lettera i), e ne rende il conto ai sensi degli articoli 60 e seguenti del regio decreto 18 novembre 1923, n. 2440, come modificato dall'art. 32 della legge 28 febbraio 1986, n. 41.
 
 ## Art. 7.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2011-08-18
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:45Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -56,6 +56,30 @@ Gli enti destinatari, in ragione dell'assetto dimensionale ed organizzativo, int
 Il regolamento di contabilita', deliberato dall'organo di vertice, e' trasmesso all'amministrazione vigilante ed al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato.
 
 ## Art. 3. — Indirizzo politico-amministrativo e gestione delle risorse
+
+1.
+                        
+                            
+                                Fermo restando quanto previsto dall'articolo 4 del decreto legislativo 30 marzo 2001, n. 165, in materia di separazione tra direzione politica e controllo, da un lato, e attuazione della programmazione e gestione delle risorse, dall'altro, l'organo di vertice:
+
+
+                            
+                            
+                                a)
+                                
+                                    definisce almeno annualmente, sulla scorta delle proposte del direttore generale ed in conformita' delle direttive del Governo e dell'amministrazione vigilante, nonche' del documento di programmazione economica e finanziaria dello Stato, le linee strategiche e le politiche di settore;
+                                
+                            
+                            
+                                b)
+                                
+                                    emana le direttive generali per l'azione amministrativa e per la conseguente gestione;
+                                
+                            
+                            
+                                c)
+                                
+                                    assegna a ciascuna unita' di livello dirigenziale una quota parte delle dotazioni di bilancio dell'ente, commisurata alle risorse finanziarie disponibili, alle attivita' determinate per l'assolvimento delle correlative funzioni finali, strumentali o di supporto, secondo i criteri organizzativi di cui all'articolo 5 del citato decreto legislativo.
 
 L'assetto organizzativo dell'ente si compone di centri di responsabilita', determinati con riferimento ad aree omogenee di attivita', anche di carattere strumentale, inerenti alle competenze istituzionali, cui e' preposto un dirigente o altro funzionario.
 
@@ -153,6 +177,60 @@ Ai fini del consolidamento dei conti pubblici gli enti di cui all'articolo 2 si 
 Il bilancio di previsione, predisposto dal direttore generale, e' deliberato dal competente organo di vertice non oltre il 31 ottobre dell'anno precedente cui il bilancio stesso si riferisce, salvo diverso termine previsto da norme di legge o di statuto.
 
 I titolari dei centri di responsabilita' comunicano al direttore generale ed al servizio ragioneria, entro il 31 luglio, tutti gli elementi relativi agli obiettivi da conseguire, nonche' i fabbisogni finanziari, anche in termini di contabilita' analitica, per la realizzazione degli stessi nell'esercizio che ha inizio il 1° gennaio dell'anno successivo.
+
+3.
+                        
+                            
+                                Il bilancio di previsione e' composto dai seguenti documenti:
+
+
+                            
+                            
+                                a)
+                                
+                                    il preventivo finanziario;
+                                
+                            
+                            
+                                b)
+                                
+                                    il quadro generale riassuntivo della gestione finanziaria;
+                                
+                            
+                            
+                                c)
+                                
+                                    il preventivo economico.
+
+4.
+                        
+                            
+                                Costituiscono allegati al bilancio di previsione:
+
+
+                            
+                            
+                                a)
+                                
+                                    il bilancio pluriennale;
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione programmatica;
+                                
+                            
+                            
+                                c)
+                                
+                                    la tabella dimostrativa del presunto risultato di amministrazione;
+                                
+                            
+                            
+                                d)
+                                
+                                    la relazione del collegio dei revisori dei conti.
 
 Il bilancio di previsione annuale ha carattere autorizzativo, costituendo limite agli impegni di spesa. E' approvato, salva diversa disposizione normativa, dall'amministrazione vigilante sentito il Ministero dell'economia e delle finanze.
 
@@ -341,6 +419,60 @@ La gestione delle entrate si' attua attraverso le fasi dell'accertamento, della 
 
 L'accertamento costituisce la prima fase di gestione dell'entrata con cui il funzionario competente, sulla base di idonea documentazione, verifica la ragione del credito e la sussistenza di un idoneo titolo giuridico, individua il debitore, quantifica la somma da incassare e fissa la relativa scadenza.
 
+2.
+                        
+                            
+                                L'accertamento presuppone:
+
+
+                            
+                            
+                                a)
+                                
+                                    la fondatezza del credito, ossia la sussistenza di obbligazioni giuridiche a carico di terzi verso l'ente;
+                                
+                            
+                            
+                                b)
+                                
+                                    la certezza del credito, ossia non soggetto ad oneri e/o condizioni;
+                                
+                            
+                            
+                                c)
+                                
+                                    la competenza finanziaria ed economica a favore dell'esercizio considerato.
+
+3.
+                        
+                            
+                                L'accertamento delle entrate avviene:
+
+
+                            
+                            
+                                a)
+                                
+                                    per le entrate provenienti da trasferimenti, sulla base delle leggi che li regolano o di altri atti aventi identico valore;
+                                
+                            
+                            
+                                b)
+                                
+                                    per le entrate patrimoniali e per quelle provenienti dalla gestione di servizi a carattere produttivo e di quelli connessi a tariffe o contribuzioni dell'utenza, a seguito di acquisizione diretta o di emissione di liste di carico;
+                                
+                            
+                            
+                                c)
+                                
+                                    per le entrate relative a partite compensative delle spese, in corrispondenza dell'assunzione del relativo impegno di spesa;
+                                
+                            
+                            
+                                d)
+                                
+                                    per le altre entrate, anche di natura eventuale o variabile, mediante contratti, provvedimenti giudiziari o atti amministrativi specifici.
+
 Il funzionario competente trasmette al responsabile del servizio ragioneria la documentazione di cui al comma 2 ai fini dell'annotazione nelle scritture contabili, secondo i tempi ed i modi previsti dal regolamento di contabilita' dell'ente.
 
 ## Art. 27. — Riscossione
@@ -348,6 +480,60 @@ Il funzionario competente trasmette al responsabile del servizio ragioneria la d
 La riscossione consiste nel materiale introito da parte del tesoriere/cassiere o di altri eventuali incaricati della riscossione delle somme dovute all'ente.
 
 La riscossione e' disposta a mezzo di ordinativo di incasso, fatto pervenire al tesoriere/cassiere nelle forme e nei tempi previsti dalla convenzione di cui all'articolo 50.
+
+3.
+                        
+                            
+                                L'ordinativo d'incasso e' sottoscritto dal responsabile del servizio finanziario o da un suo delegato e contiene almeno:
+
+
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del debitore;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'ammontare della somma da riscuotere;
+                                
+                            
+                            
+                                c)
+                                
+                                    la causale;
+                                
+                            
+                            
+                                d)
+                                
+                                    gli eventuali vincoli di destinazione delle somme;
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione della risorsa o del capitolo di bilancio cui e' riferita l'entrata distintamente per residui o competenza;
+                                
+                            
+                            
+                                f)
+                                
+                                    la codifica;
+                                
+                            
+                            
+                                g)
+                                
+                                    il numero progressivo;
+                                
+                            
+                            
+                                h)
+                                
+                                    l'esercizio finanziario e la data di emissione;
 
 Il cassiere o il tesoriere deve accettare, senza pregiudizio per i diritti dell'ente, la riscossione di ogni somma, versata in favore dell'ente, anche senza la preventiva emissione di ordinativo d'incasso. In tale ipotesi il cassiere o il tesoriere ne da' immediata comunicazione all'ente, richiedendo la regolarizzazione.
 Nel regolamento di contabilita' sono definiti i tempi e le procedure per una tempestiva e sollecita regolarizzazione.
@@ -386,6 +572,30 @@ La gestione delle uscite si attua attraverso le fasi dell'impegno, della liquida
 
 L'impegno costituisce autorizzazione ad impiegare le risorse finanziarie assegnate ad ogni centro di responsabilita', con cui, a seguito di obbligazione giuridicamente perfezionata, e' determinata la somma da pagare, il soggetto creditore e la ragione.
 
+2.
+                        
+                            
+                                Con l'approvazione del bilancio e successive variazioni, e senza la necessita' di ulteriori atti, costituiscono impegno sui relativi stanziamenti le risorse impiegate:
+
+
+                            
+                            
+                                a)
+                                
+                                    per il trattamento economico tabellare gia' attribuito al personale dipendente e per i relativi oneri riflessi;
+                                
+                            
+                            
+                                b)
+                                
+                                    per le rate di ammortamento dei mutui e dei prestiti, interessi di preammortamento ed ulteriori oneri accessori;
+                                
+                            
+                            
+                                c)
+                                
+                                    per le obbligazioni assunte in base a contratti o disposizioni di legge.
+
 Durante la gestione possono anche essere prenotati impegni relativi a procedure in via di espletamento. I provvedimenti relativi per i quali entro il termine dell'esercizio non e' stata assunta dall'ente l'obbligazione di spesa verso i terzi decadono e costituiscono economia di bilancio cui erano riferiti, concorrendo alla determinazione del risultato contabile di amministrazione di cui all'articolo 44. Quando la prenotazione di impegno e' riferita a procedure di gara bandite prima della fine dell'esercizio e non concluse entro tale termine, la prenotazione confluisce nella parte vincolata dell'avanzo di amministrazione.
 
 A fronte degli oneri connessi ad obbligazioni negoziali pluriennali correlate a prestazioni a carico di terzi, puo' essere assunto un impegno globale, provvedendo ad annotarlo, con idonee evidenze anche informatiche, nel partitario di cui all'articolo 75, comma 1, lettera b). A carico del singolo esercizio e' assunto un impegno pari alle obbligazioni connesse alle prestazioni effettivamente rese.
@@ -408,6 +618,66 @@ L'atto di liquidazione, sottoscritto dal funzionario competente con tutti i rela
 
 Il pagamento delle spese e' ordinato entro i limiti delle previsioni di cassa, mediante l'emissione di mandati di pagamento numerati in ordine progressivo e contrassegnati da evidenze informatiche del capitolo, tratti sull'istituto di credito incaricato del servizio di tesoreria o di cassa.
 
+2.
+                        
+                            
+                                I mandati di pagamento sono firmati dal capo del servizio ragioneria o da un suo delegato e contengono almeno i seguenti elementi:
+
+
+                            
+                            
+                                a)
+                                
+                                    il numero progressivo del mandato per esercizio finanziario;
+                                
+                            
+                            
+                                b)
+                                
+                                    la data di emissione;
+                                
+                            
+                            
+                                c)
+                                
+                                    il capitolo su cui la spesa e' imputata e la relativa disponibilita', distintamente per competenza o residui;
+                                
+                            
+                            
+                                d)
+                                
+                                    la codifica;
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione del creditore e, se si tratta di persona diversa, del soggetto tenuto a rilasciare quietanza, nonche' ove richiesto, il relativo codice fiscale o la partita IVA;
+                                
+                            
+                            
+                                f)
+                                
+                                    l'ammontare della somma dovuta e la scadenza, qualora sia prevista dalla legge o sia stata concordata con il creditore;
+                                
+                            
+                            
+                                g)
+                                
+                                    la causale e gli estremi dell'atto esecutivo che legittima l'erogazione della spesa;
+                                
+                            
+                            
+                                h)
+                                
+                                    le eventuali modalita' agevolative di pagamento se richieste dal creditore;
+                                
+                            
+                            
+                                i)
+                                
+                                    il rispetto degli eventuali vincoli di destinazione.
+
 Il cassiere o tesoriere effettua i pagamenti derivanti da obblighi tributari, da somme iscritte a ruolo, da delegazioni di pagamento e da altri obblighi di legge, anche in assenza della preventiva emissione del relativo mandato di pagamento. Entro dieci giorni e comunque non oltre il termine del mese successivo a quello in corso l'ente emette il relativo mandato ai fini della regolarizzazione.
 
 I mandati di pagamento emessi dalle entita' periferiche aventi autonomia amministrativa, da registrare su apposito libro preventivamente numerato e timbrato in ogni pagina e recante all'ultimo foglio la dichiarazione del capo del servizio di ragioneria attestante il numero delle pagine di cui il libro stesso si compone, sono firmati dal direttore della sede e dall'incaricato di ragioneria ovvero dai loro rispettivi sostituti.
@@ -423,6 +693,36 @@ Ogni mandato di pagamento e' corredato, a seconda dei casi, di documenti comprov
 Gli enti possono provvedere ai pagamenti mediante mandati informatici, da effettuarsi nel rispetto delle norme contenute nel decreto del Presidente della Repubblica 20 aprile 1994, n. 367, e successive modificazioni.
 
 ## Art. 34. — Modalita' di estinzione dei titoli di pagamento
+
+1.
+                        
+                            
+                                Gli enti possono disporre, su richiesta scritta del creditore e con spese a suo carico, che i mandati di pagamento siano estinti mediante:
+
+
+                            
+                            
+                                a)
+                                
+                                    accreditamento in conto corrente postale intestato al creditore;
+                                
+                            
+                            
+                                b)
+                                
+                                    commutazione in vaglia cambiario o in assegno circolare, non trasferibile, all'ordine del creditore;
+                                
+                            
+                            
+                                c)
+                                
+                                    accreditamento in conto corrente bancario;
+                                
+                            
+                            
+                                d)
+                                
+                                    altre forme di pagamento previste dai sistemi bancari e postali.
 
 Le dichiarazioni di accreditamento o di commutazione, che sostituiscono la quietanza del creditore, devono risultare da annotazione sul mandato di pagamento recante gli estremi relativi alle operazioni ed il timbro del tesoriere o cassiere.
 
@@ -452,11 +752,89 @@ Gli enti pubblici assoggettati alla disciplina del presente regolamento stabilis
 
 ## Art. 38. — Il rendiconto generale
 
+1.
+                        
+                            
+                                Il processo gestionale trae origine dal quadro normativo ed istituzionale dell'ente, trova copertura nelle risorse disponibili, e' rappresentato nel bilancio di previsione e si conclude con l'illustrazione dei risultati conseguiti in un documento denominato rendiconto generale costituito da:
+
+ 
+                            
+                            
+                                a)
+                                
+                                    il conto di bilancio;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il conto economico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    lo stato patrimoniale;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la nota integrativa.
+
+2.
+                        
+                            
+                                Al rendiconto generale sono allegati:
+
+ 
+                            
+                            
+                                a)
+                                
+                                    la situazione amministrativa;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione sulla gestione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la relazione del collegio dei revisori dei conti.
+
 Lo schema di rendiconto generale, unitamente alla relazione illustrativa del presidente dell'ente, e' sottoposto, a cura del direttore generale, almeno quindici giorni prima del termine di cui al comma 4, all'esame del collegio dei revisori dei conti, che redige apposita relazione da allegare al predetto schema.
 
 Il rendiconto generale e' deliberato dall'organo di vertice entro il mese di aprile successivo alla chiusura dell'esercizio finanziario, salvo diverso termine previsto da norma di legge o da disposizione statutaria, ed e' trasmesso entro dieci giorni dalla data della deliberazione al ministero vigilante ed a quello dell'economia e delle finanze, corredato dei relativi allegati.
 
 ## Art. 39. — Il conto del bilancio
+
+1.
+                        
+                            
+                                Il conto del bilancio, in relazione alla classificazione del preventivo finanziario, evidenzia le risultanze della gestione delle entrate e delle uscite e si articola in due parti:
+
+ 
+                            
+                            
+                                a)
+                                
+                                    il rendiconto finanziario decisionale (Allegato n. 9);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rendiconto finanziario gestionale (Allegato n. 10).
 
 Il rendiconto finanziario decisionale si articola in UPB di 1° livello, come il preventivo finanziario decisionale; analogamente il rendiconto finanziario gestionale si articola in capitoli, come il preventivo finanziario gestionale, evidenziando:
 
@@ -524,6 +902,42 @@ Nell'allegato n. 14 sono elencati e descritti i criteri di iscrizione e di valut
 
 La nota integrativa e' un documento illustrativo di natura tecnico-contabile riguardante l'andamento della gestione dell'ente nei suoi settori operativi, nonche' i fatti di rilievo verificatisi dopo la chiusura dell'esercizio ed ogni eventuale informazione e schema utile ad una migliore comprensione dei dati contabili.
 
+2.
+                        
+                            
+                                Relativamente agli enti ed organismi pubblici la nota integrativa si articola nelle seguenti cinque parti:
+
+
+                            
+                            
+                                a)
+                                
+                                    criteri di valutazione utilizzati nella redazione del rendiconto generale;
+                                
+                            
+                            
+                                b)
+                                
+                                    analisi delle voci del conto del bilancio;
+                                
+                            
+                            
+                                c)
+                                
+                                    analisi delle voci dello stato patrimoniale;
+                                
+                            
+                            
+                                d)
+                                
+                                    analisi delle voci del conto economico;
+                                
+                            
+                            
+                                e)
+                                
+                                    altre notizie integrative.
+
 Le informazioni dettagliate contenute nella nota integrativa devono in ogni caso riguardare:
 
 - gli elementi richiesti dall'art. 2427 e dagli altri articoli del codice civile, nonche' da altre norme di legge e dai documenti sui principi contabili applicabili;
@@ -549,6 +963,24 @@ La situazione amministrativa (Allegato n. 15), allegata al conto del bilancio, e
 
 La situazione amministrativa deve tener distinti i fondi non vincolati, da quelli vincolati e dai fondi destinati al finanziamento delle spese in conto capitale. Tale ripartizione e' illustrata in calce al prospetto dimostrativo della situazione amministrativa.
 
+3.
+                        
+                            
+                                L'avanzo di amministrazione, puo' essere utilizzato:
+
+
+                            
+                            
+                                a)
+                                
+                                    per i provvedimenti necessari per la salvaguardia degli equilibri di bilancio di cui all'articolo 5, comma 11, ove non possa provvedersi con mezzi ordinari, per il finanziamento delle spese di funzionamento non ripetitive in qualsiasi periodo dell'esercizio e per le altre spese correnti solo in sede di assestamento;
+                                
+                            
+                            
+                                b)
+                                
+                                    per il finanziamento di spese di investimento.
+
 Nel corso dell'esercizio al bilancio di previsione puo' essere applicato, con delibera di variazione, l'avanzo di amministrazione accertato in un ammontare superiore a quello presunto rinveniente dall'esercizio immediatamente precedente per la realizzazione delle finalita' di cui alle lettere a) e b) del comma 3. Tale utilizzazione puo' avvenire solo dopo l'approvazione del conto consuntivo dell'esercizio precedente.
 
 L'eventuale disavanzo di amministrazione, accertato ai sensi del comma 1 e' applicato al bilancio di previsione nei modi e nei termini di cui all'articolo 5, comma 9, in aggiunta alle quote vincolate e non disponibili comprese nel risultato contabile di amministrazione.
@@ -562,6 +994,44 @@ La relazione specifica, altresi', i risultati conseguiti dai medesimi organi di 
 ## Art. 47. — La relazione del collegio dei revisori dei conti
 
 Il collegio dei revisori dei conti, nei termini previsti dal comma 4, dell'articolo 38, redige la propria relazione formulando valutazioni e giudizi sulla regolarita' amministrativo-contabile della gestione ed, in uno con le altre strutture facenti parte del controllo interno, anche valutazioni in ordine alla realizzazione del programma e degli obiettivi fissati all'inizio dell'esercizio, ponendo in evidenza le cause che ne hanno determinato eventuali scostamenti.
+
+2.
+                        
+                            
+                                Il collegio dei revisori dei conti, in particolare, deve:
+
+- attestare:
+
+
+                            
+                            
+                                a)
+                                
+                                    la corrispondenza dei dati riportati nel rendiconto generale con quelli analitici desunti dalla contabilita' generale tenuta nel corso della gestione;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esistenza delle attivita' e passivita' e la loro corretta esposizione in bilancio nonche' l'attendibilita' delle valutazioni di bilancio;
+                                
+                            
+                            
+                                c)
+                                
+                                    la correttezza dei risultati finanziari, economici e patrimoniali della gestione;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esattezza e la chiarezza dei dati contabili presentati nei prospetti di bilancio e nei relativi allegati.
+
+- effettuare analisi e fornire informazioni in ordine alla stabilita' dell'equilibrio di bilancio e, in caso di disavanzo, fornire informazioni circa la struttura dello stesso e le prospettive di riassorbimento perche', comunque, venga, nel tempo, salvaguardato l'equilibrio;
+- esprimere valutazioni sull'adeguatezza della struttura organizzativa dell'ente e sul rispetto dei principi di corretta amministrazione;
+- concorrere con altri organi a cio' deputati alla valutazione dell'adeguatezza del sistema di controllo interno:
+- verificare l'osservanza delle norme che presiedono la formazione, l'impostazione del rendiconto generale e della relazione sulla gestione predisposta dall'organo di vertice;
+- proporre l'approvazione o meno del rendiconto generale da parte degli organi a cio' deputati sulla base degli specifici ordinamenti dei singoli enti.
 
 La proposta o meno di approvazione da parte del collegio dei revisori si conclude con un giudizio senza rilievi, se il rendiconto generale e' conforme alle norme che ne disciplinano i criteri di redazione e di valutazione di cui all'allegato n. 14, con un giudizio con rilievi o con un giudizio negativo.
 
@@ -577,6 +1047,30 @@ Se per il secondo esercizio consecutivo vengono superati due dei suddetti limiti
 
 Gli elaborati contabili in forma abbreviata sono redatti in guisa da rendere praticabile il monitoraggio, la verifica ed il consolidamento dei conti pubblici.
 
+4.
+                        
+                            
+                                Il bilancio di previsione in forma abbreviata si compone, in particolare, dei seguenti tre documenti:
+
+
+                            
+                            
+                                a)
+                                
+                                    preventivo finanziario gestionale;
+                                
+                            
+                            
+                                b)
+                                
+                                    quadro generale riassuntivo della gestione finanziaria;
+                                
+                            
+                            
+                                c)
+                                
+                                    preventivo economico in forma abbreviata.
+
 Nel preventivo finanziario gestionale si considera come limite autorizzativo di spesa l'importo complessivo della categoria (UPB di 4° livello) ed il dettaglio in capitoli e' riportato solo ai fini della successiva gestione e rendicontazione.
 
 Il preventivo economico in forma abbreviata comprende solo le voci contrassegnate nell'allegato 5 con le lettere maiuscole e con i numeri arabi, con l'unica eccezione per le spese del personale di cui alla voce B9 per le quali e', comunque, necessaria la specificazione delle voci contrassegnate dalle lettere minuscole.
@@ -587,11 +1081,59 @@ Sono considerati allegati al bilancio di previsione in forma abbreviata:
 - la tabella dimostrativa del presunto risultato di amministrazione;
 - la relazione del collegio dei revisori dei conti.
 
+8.
+                        
+                            
+                                Le risultanze della gestione d'esercizio sono riassunte, rappresentate e dimostrate nel rendiconto generale in forma abbreviata costituito da:
+
+
+                            
+                            
+                                a)
+                                
+                                    il conto di bilancio composto dal solo rendiconto finanziario gestionale;
+                                
+                            
+                            
+                                b)
+                                
+                                    lo stato patrimoniale in forma abbreviata;
+                                
+                            
+                            
+                                c)
+                                
+                                    il conto economico in forma abbreviata;
+                                
+                            
+                            
+                                d)
+                                
+                                    la nota integrativa in forma abbreviata.
+
 Lo stato patrimoniale in forma abbreviata comprende solo le voci contrassegnate nell'allegato 13 con le lettere maiuscole e con i numeri romani; dalle voci BI e BII dell'attivo devono essere detratti in forma esplicita gli ammortamenti e le svalutazioni; nelle voci CII dell'attivo ed E del passivo devono essere separatamente indicati i crediti ed i debiti esigibili oltre l'esercizio successivo.
 
 Il conto economico in forma abbreviata e' redatto conformemente allo schema semplificato previsto per il preventivo economico in forma abbreviata.
 
 La nota integrativa in forma abbreviata segue le disposizioni del comma 3 dell'art. 2435 bis del codice civile, fornendo le informazioni di cui all'articolo 45. In questo caso il documento assume la denominazione di "nota integrativa e relazione sulla gestione".
+
+12.
+                        
+                            
+                                Al rendiconto generale sono allegati:
+
+
+                            
+                            
+                                a)
+                                
+                                    la situazione amministrativa;
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione del collegio dei revisori dei conti.
 
 ## Art. 49. — Il consuntivo del centro di costo
 
@@ -711,6 +1253,25 @@ L' oggetto delle spese ed i relativi ammontari sono disciplinati col regolamento
 
 ## Art. 64. — Programma di spese per il funzionamento di uffici e per l'attuazione di progetti
 
+1.
+                        
+                            
+                                I dirigenti o i funzionari che hanno facolta' di impegno, autorizzano i titolari degli uffici periferici o decentrati della propria amministrazione all'effettuazione di spese sulla base di un apposito preventivo:
+
+ 
+                            
+                            
+                                a)
+                                
+                                    per il funzionamento degli uffici;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'attuazione di progetti specifici.
+
 Il preventivo di spesa per il funzionamento degli uffici e per l'attuazione di progetti specifici, articolati in capitoli sulla base delle previsioni condivise e' inviato al servizio ragioneria, per l'inserimento dei dati contabili nelle proprie scritture e per il successivo riscontro. Con le stesse modalita' sono comunicate le variazioni.
 
 ## Art. 65. — Ordine di provvista fondi. Conto corrente di bilancio
@@ -744,6 +1305,25 @@ Le disponibilita' residue sul conto corrente di bilancio costituiscono economia.
 Le somme in contanti non impiegate per il pagamento delle spese sono versate nel conto corrente ordinario dell'ente entro il termine di presentazione, indicato al successivo comma 6, del rendiconto relativo al secondo semestre dell'esercizio.
 
 Ferme restando le disposizioni contenute nell'articolo 65, comma 3, entro il termine di cui al comma 3, i pagamenti che eccedono lo stanziamento del capitolo sono regolarizzati mediante variazioni compensative ai capitoli interessati, da apportare con provvedimenti del titolare del centro di responsabilita' competente, da comunicare al servizio ragioneria.
+
+5.
+                        
+                            
+                                La rendicontazione dei pagamenti e' semestrale, quella del primo semestre e' presentata entro il mese di luglio e quella del secondo semestre entro il mese di gennaio dell'esercizio successivo.
+Ai fini della rendicontazione:
+
+
+                            
+                            
+                                a)
+                                
+                                    gli ordinativi estinti sono trasmessi dall'istituto di credito tesoriere o cassiere al funzionario ordinatore in uno con l'elenco analitico degli ordinativi stessi per ciascun conto corrente di bilancio, e per ciascun capitolo di spesa. L'elenco attesta espressamente, accanto agli estremi identificativi di ciascun titolo nell'ordine di prenotazione, l'avvenuto pagamento dell'avente diritto.
+                                
+                            
+                            
+                                b)
+                                
+                                    il funzionario ordinatore allega a ciascun elenco i documenti giustificativi delle spese e dei versamenti all'entrata e trasmette semestralmente i rendiconti all'ufficio competente. Una copia degli elenchi e' trasmessa al servizio ragioneria che - a seguito del riscontro dell'ufficio amministrativo competente, che deve essere esercitato entro e non oltre trenta giorni dal ricevimento - sottopone al controllo di regolarita', anche a campione, i rendiconti dei funzionari ordinatori.
 
 L'omessa presentazione del rendiconto oltre i sessanta giorni successivi ai termini previsti dal comma 5 e' segnalata alla Corte dei conti ed al collegio dei revisori dei conti dall'ufficio che esercita il riscontro o il controllo dei rendiconti amministrativi.
 
@@ -780,6 +1360,60 @@ I responsabili degli organi con gestione autonoma e degli enti controllati sono 
 
 Gli enti di cui all'articolo 5, comma 14, redigono un bilancio consolidato in modo che l'informazione sulla realta' economico-finanziaria dell'ente o del gruppo si realizzi mediante l'esposizione del bilancio dei singoli organi o degli enti controllati al netto dei movimenti interni.
 
+2.
+                        
+                            
+                                Il bilancio consolidato e' costituito dai seguenti documenti:
+
+
+                            
+                            
+                                a)
+                                
+                                    conto di bilancio consolidato strutturato per categorie;
+                                
+                            
+                            
+                                b)
+                                
+                                    conto economico consolidato;
+                                
+                            
+                            
+                                c)
+                                
+                                    stato patrimoniale consolidato;
+                                
+                            
+                            
+                                d)
+                                
+                                    nota integrativa.
+
+3.
+                        
+                            
+                                Al rendiconto consolidato sono allegati:
+
+
+                            
+                            
+                                a)
+                                
+                                    la situazione amministrativa;
+                                
+                            
+                            
+                                b)
+                                
+                                    la relazione sulla gestione;
+                                
+                            
+                            
+                                c)
+                                
+                                    la relazione del collegio dei revisori dei conti.
+
 Il bilancio deve essere redatto con chiarezza e deve rappresentare in modo veritiero e corretto la situazione finanziaria e patrimoniale e il risultato economico della complessiva attivita' svolta dall'ente e dagli altri organismi in cui e' articolato l'ente o dai vari enti controllati. Gli enti pubblici che abbiano comunque il controllo di societa' da essi partecipate, anche se solo minoritariamente, sono tenuti a corredare il proprio rendiconto generale di copia del bilancio delle societa' stesse da ultimo approvato e depositato.
 
 Le modalita' di redazione dei bilanci consolidati, la struttura ed il contenuto degli stessi, nonche' i criteri di valutazione non possono essere modificati da un esercizio all'altro, se non in casi eccezionali da illustrare nella nota integrativa.
@@ -797,6 +1431,36 @@ Lo sviluppo dei sistemi informatici nell'ambito di ciascun ente, cui deve essere
 Le forme dei modelli relative alle scritture contabili nonche' ogni altro registro, scheda o partitario occorrente per la contabilita' non previste dal presente regolamento, sono stabilite dal regolamento di contabilita' di cui all'articolo 2, comma 2.
 
 ## Art. 75. — Le rilevazioni finanziarie
+
+1.
+                        
+                            
+                                Le scritture finanziarie relative alla gestione del bilancio rilevano per ciascun capitolo, sia in conto competenza sia in conto residui, la situazione degli accertamenti e degli impegni a fronte degli stanziamenti, nonche' delle somme riscosse e pagate e delle somme rimaste da riscuotere e da pagare. All'uopo ciascun ente cura la tenuta delle seguenti scritture:
+
+
+                            
+                            
+                                a)
+                                
+                                    partitario degli accertamenti, contenente lo stanziamento iniziale e le variazioni successive, le somme accertate, quelle riscosse e quelle rimaste da riscuotere per ciascun capitolo di entrata;
+                                
+                            
+                            
+                                b)
+                                
+                                    partitario degli impegni, contenente lo stanziamento iniziale e le variazioni successive, le somme impegnate, quelle pagate e quelle rimaste da pagare per ciascun capitolo;
+                                
+                            
+                            
+                                c)
+                                
+                                    partitario dei residui contenente, per capitolo ed esercizio di provenienza, la consistenza dei residui all'inizio dell'esercizio, le somme riscosse o pagate, le variazioni positive o negative, le somme rimaste da riscuotere o da pagare;
+                                
+                            
+                            
+                                d)
+                                
+                                    giornale cronologico degli ordinativi di incasso e dei mandati, nonche' il giornale riassuntivo comprendente anche le reversali e i mandati emessi dagli uffici decentrati.
 
 ## Art. 76. — Le rilevazioni economiche
 
@@ -840,6 +1504,24 @@ Il libro dei verbali del collegio dei revisori dei conti e' custodito presso la 
 
 ## Art. 82. — Incompatibilita' e responsabilita'
 
+1.
+                        
+                            
+                                Ai sensi dell'articolo 2399 del codice civile non possono far parte del collegio dei revisori dei conti e se nominati decadono:
+
+
+                            
+                            
+                                a)
+                                
+                                    i parenti e gli affini dei componenti dell'organo esecutivo dell'ente entro il quarto grado e coloro che siano legati all'ente o alle societa' da questo controllate da rapporto di lavoro continuativo;
+                                
+                            
+                            
+                                b)
+                                
+                                    coloro che si trovano nelle condizioni previste dall'articolo 2382 del codice civile.
+
 I revisori dei conti sono responsabili delle attestazioni fatte e devono conservare il segreto sui fatti e sui documenti di cui hanno conoscenza per ragione del loro ufficio, salvo il dovere di informazione previsto nei confronti degli organi vigilanti e di controllo dalle disposizioni di legge.
 
 Si estende ai revisori dei conti l'obbligo di denuncia alla competente Procura regionale presso la sezione giurisdizionale regionale della Corte dei conti nei casi previsti dall'articolo 90 del presente regolamento, ove non provveda chi vi e' tenuto. I revisori dei conti sono tenuti, altresi', alla denuncia all'autorita' giudiziaria nei casi previsti dall'articolo 331 del codice di procedura penale.
@@ -857,6 +1539,30 @@ Il collegio dei revisori dei conti, nelle sue periodiche verifiche, vigila sulla
 L'ente, in relazione alle proprie dimensioni e agli aspetti tipici della gestione, attiva il controllo di gestione idoneo a verificare, mediante valutazioni comparative dei costi e dei rendimenti, la realizzazione degli obiettivi nonche' la corretta ed economica gestione delle proprie risorse, ai sensi del decreto legislativo 30 luglio 1999, n. 286, secondo le modalita' stabilite dal presente capo e dal proprio regolamento di contabilita'.
 
 ## Art. 85. — Modalita' del controllo di gestione
+
+1.
+                        
+                            
+                                Il controllo di gestione si articola almeno in tre fasi:
+
+
+                            
+                            
+                                a)
+                                
+                                    predisposizione di un piano dettagliato di obiettivi;
+                                
+                            
+                            
+                                b)
+                                
+                                    rilevazione dei dati relativi ai costi ed ai proventi nonche' rilevazione dei risultati raggiunti;
+                                
+                            
+                            
+                                c)
+                                
+                                    valutazione dei dati predetti in rapporto al piano degli obiettivi al fine di verificare il loro stato di attuazione e di misurare l'efficacia, l'efficienze ed il grado di economicita' dell'azione intrapresa.
 
 Il controllo di gestione e' svolto in riferimento ai singoli servizi e centri di costo, ove previsti, verificando in maniera complessiva e per ciascun servizio i mezzi finanziari acquisiti, i costi dei singoli fattori produttivi, i risultati qualitativi e quantitativi ottenuti e, per i servizi a carattere produttivo, i ricavi.
 

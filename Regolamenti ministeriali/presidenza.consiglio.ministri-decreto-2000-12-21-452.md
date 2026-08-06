@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2003-07-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -49,7 +49,54 @@ Ai sensi dell'articolo 49, commi 1 e 14, della legge 23 dicembre 1999, n. 488, p
 
 ## Art. 2. — (Disposizioni generali)
 
+1.
+                        
+                            
+                                L'assegno di maternita' di cui all'articolo 49, comma 8, della legge n. 488 del 1999 e' concesso alle donne, cittadine italiane o comunitarie o in possesso di carta di soggiorno ai sensi dell'articolo 9 del decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni. L'assegno e' concesso alle condizioni previste dal citato articolo 49, comma 8, della legge n. 488 del 1999 e dal presente Titolo, quando si verifica uno dei seguenti casi: 
+
+ 
+
+                            
+                            
+                                a)
+                                
+                                    quando la donna lavoratrice ha in corso di godimento una qualsiasi forma di tutela previdenziale della maternita' e puo' far valere almeno tre mesi di contribuzione nel periodo che va dai diciotto ai nove mesi antecedenti ad uno degli eventi di cui al comma 3; 
+                                
+                            
+                            
+                                b)
+                                
+                                    quando il periodo intercorrente tra la data della perdita del diritto ad una delle prestazioni di cui all'articolo 4, derivanti dallo svolgimento per almeno tre mesi di attivita' lavorativa, e la data di uno degli eventi di cui al comma 3 del presente articolo non sia superiore a quello del godimento delle suddette prestazioni, e comunque non sia superiore a nove mesi; 
+
+ 
+                                
+                            
+                            
+                                c)
+                                
+                                    quando la donna, in caso di recesso, anche volontario, dal rapporto di lavoro durante il periodo di gravidanza, puo' far valere tre mesi di contribuzione nel periodo che va dai diciotto ai nove mesi antecedenti ad uno degli eventi di cui al comma 3. 
+c) quando la donna, in caso di recesso, anche volontario, dal rapporto di lavoro durante il periodo di gravidanza, puo' far valere tre mesi di contribuzione nel periodo che va dai diciotto ai nove mesi antecedenti ad uno degli eventi di cui al comma 3.
+
 La richiedente, al momento della nascita del figlio o al momento dell'ingresso nella propria famiglia anagrafica di un minore ricevuto in affidamento preadottivo o in adozione senza affidamento, deve essere residente nel territorio dello Stato e deve trovarsi in possesso di uno dei requisiti di cui al comma 1, lettere a), b) e c).
+
+3.
+                        
+                            
+                                L'assegno e' concesso per uno dei seguenti eventi: 
+
+ 
+
+                            
+                            
+                                a)
+                                
+                                    per ogni figlio nato in data non anteriore al 2 luglio 2000, che sia regolarmente soggiornante e residente nel territorio dello Stato; quando la richiesta di assegno e' formulata da soggetto in possesso della carta di soggiorno di cui all'articolo 9 del decreto legislativo n. 286 del 1998, il figlio, che non sia nato in Italia o non risulti cittadino di uno Stato dell'Unione europea, deve altresi' essere in possesso della carta di soggiorno ai sensi dell'articolo medesimo; 
+                                
+                            
+                            
+                                b)
+                                
+                                    per ogni minore che faccia ingresso, in data non anteriore al 2 luglio 2000, nella famiglia anagrafica del richiedente che lo riceve in affidamento preadottivo o in adozione senza affidamento al sensi della legge 4 maggio 1983, n. 184, e successive modificazioni; con esclusione del caso di cui all'articolo 44, primo comma, lettera b, della stessa legge. Il beneficio puo' essere concesso se il minore non ha superato al momento dell'affidamento preadottivo o dell'adozione senza affidamento i sei anni di eta', ai sensi dell'articolo 6, comma 1, della legge 9 dicembre 1977, n. 903, ovvero, per gli affidamenti e le adozioni internazionali, la maggiore eta', ai sensi dell'articolo 39-quater, primo comma, lett. a), della citata legge n. 194 del 1983.
 
 Ai fini della concessione dell'assegno, ai trattamenti previdenziali di maternita' sono equiparati i trattamenti economici di maternita' di cui all'articolo 13, comma 2, della legge 30 dicembre 1971, n. 1204, e successive modificazioni, nonche' gli altri trattamenti economici di maternita' corrisposti da danni di lavoro non tenuti al versamento dei contributi di maternita'.
 
@@ -67,9 +114,70 @@ Ai periodi di attivita' lavorativa di cui al comma 1 sono equiparati i periodi d
 
 ## Art. 4. — Individuazioni delle prestazioni di cui all'articolo 2, comma 1, lettera b)
 
+1.
+                        
+                            
+                                Le prestazioni di cui all'articolo 2, comma 1, lettera b), sono le seguenti: 
+
+ 
+
+                            
+                            
+                                a)
+                                
+                                    prestazioni per lavori socialmente utili o di pubblica utilita'; 
+                                
+                            
+                            
+                                b)
+                                
+                                    indennita' di mobilita'; 
+                                
+                            
+                            
+                                c)
+                                
+                                    indennita' di disoccupazione, compresa quella con requisiti ridotti; 
+                                
+                            
+                            
+                                d)
+                                
+                                    indennita' di cassa integrazione ordinaria e straordinaria; 
+                                
+                            
+                            
+                                e)
+                                
+                                    indennita' per malattia a maternita'.
+
 Per le prestazioni per le quali non sia individuabile la data della perdita del diritto, detta data corrisponde, nell'ordine, al 1 gennaio dell'anno successivo a quello dell'evento che ha dato diritto alla prestazione stessa o, qualora detto criterio non sia utilizzabile, a quello per il quale e' dovuta la prestazione.
 
 ## Art. 5. — (Concessione dell'assegno di maternita' ad altri soggetti)
+
+1.
+                        
+                            
+                                In luogo dei soggetti di cui all'articolo 2, comma 1, possono beneficiare dell'assegno, i seguenti soggetti che si trovino in possesso di uno dei requisiti previsti dal medesimo articolo 2, comma 1, lettere a) e b):
+
+
+                            
+                            
+                                a)
+                                
+                                    il padre che, al momento della nascita del figlio, sia residente, cittadino italiano o comunitario o in possesso di carta di soggiorno ai sensi dell'articolo 9 del decreto legislativo n. 286 del 1998, in caso di abbandono del figlio da parte della madre o di affidamento esclusivo del figlio al padre, a condizione che la madre risulti regolarmente soggiornante e residente nel territorio dello Stato al momento del parto, e che il figlio sia stato riconosciuto dal padre, si trovi presso la famiglia anagrafica di lui e sia soggetto alla sua potesta' e comunque non sia in affidamento presso terzi; alle suddette condizioni l'assegno spetta in via esclusiva al padre;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'affidatario preadottivo che, al momento dell'ingresso del minore nella sua famiglia anagrafica, sia residente, cittadino italiano o comunitario o in possesso di carta di soggiorno ai sensi dell'articolo 9 del decreto legislativo n. 286 del 1998, quando sopraggiunga separazione ai sensi dell'articolo 25, quinto comma, della legge n. 184 del 1983; l'assegno e' concesso all'affidatario preadottivo a condizione che non sia gia' stato concesso alla moglie affidataria preadottiva e che il richiedente abbia il minore in affidamento presso la propria famiglia anagrafica; la presente disposizione si applica anche nei confronti dell'adottante in caso di adozione senza affidamento;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adottante non coniugato, residente, cittadino italiano o comunitario o in possesso di carta di soggiorno ai sensi dell'articolo 9 del decreto legislativo n. 286 del 1998, in caso di adozione pronunciata solo nei suoi confronti ai sensi dell'articolo 44, terzo comma, della legge n. 184 del 1983, a condizione che il minore si trovi presso la famiglia anagrafica dell'adottante, sia soggetto alla potesta' di lui e comunque non sia in affidamento presso terzi.
 
 In caso di decesso della madre del neonato o della donna che ha ricevuto il minore in affidamento preadottivo o in adozione senza affidamento, e qualora il beneficio non sia stato ancora erogato ai suddetti soggetti, l'assegno che sarebbe spettato alla madre o alla donna aventi diritto puo' essere concesso, a domanda, rispettivamente al padre che ha riconosciuto il neonato o al coniuge della donna, a condizione che questi soggetti siano regolarmente soggiornanti e residenti nel territorio dello Stato, il minore si trovi presso la loro famiglia anagrafica e sia soggetto alla loro potesta' e comunque non sia in affidamento presso terzi; in alternativa, detti soggetti possono, se in possesso dei medesimi requisiti soggettivi previsti per la persona deceduta e di uno dei requisiti previsti dall'articolo 2, comma 1, lettere a) e b), presentare autonoma domanda, che sostituisce ad ogni effetto quella della persona deceduta, e conseguire l'assegno a proprio titolo; nei casi previsti dal presente comma, competente alla concessione dell'assegno e' sempre la sede dell'INPS del territorio di ultima residenza della persona deceduta.
 
@@ -94,6 +202,31 @@ La domanda per l'assegno e' presentata in carta semplice, nel termine perentorio
 Nei casi previsti dall'articolo 5, comma 1, lettere a) e b), e commi 2 e 3, la domanda e' presentata alla sede dell'INPS competente per il territorio di residenza del richiedente, ovvero, ai sensi del medesimo comma 2, della persona deceduta, nel termine perentorio di sei mesi a decorrere dalla scadenza del termine concesso alla madre o alla donna che ha ricevuto il minore in affidamento preadottivo o in adozione senza affidamento; la domanda puo' essere presentata anche durante il termine concesso alla madre o alla donna qualora ne sia documentato il decesso ovvero risulti che l'assegno spetti al padre in via esclusiva.
 
 Nel caso previsto dall'articolo 5, comma 1, lettera c), la domanda e' presentata nel termine perentorio di sei mesi dalla data di ingresso del minore nella famiglia anagrafica dell'adottante.
+
+4.
+                        
+                            
+                                Nella domanda per la concessione dell'assegno, il richiedente e' tenuto a dichiarare, ((ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445)), salvo che non sia tenuto a comprovare i requisiti sulla base di specifica documentazione:
+ 
+                            
+                            
+                                a)
+                                
+                                    i requisiti che danno titolo alla concessione dell'assegno;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'eventuale sussistenza, ai sensi degli articoli 2, comma 4, e 6 del presente regolamento, di altri trattamenti previdenziali o economici di maternita' per la nascita, l'affidamento preadottivo o l'adozione;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'eventuale presentazione, per lo stesso evento, di domanda per l'assegno di cui all'articolo 66 della legge n. 448 del 1998.
 
 In caso di incapacita' di agire, la domanda e la relativa documentazione sono presentate dal legale rappresentante dell'incapace, in nome e per conto di lui.
 
@@ -129,6 +262,24 @@ La disciplina dell'ISE di cui al comma 1 si applica altresi' per l'assegno di ma
 
 L'assegno di maternita' di cui all'articolo 66 della legge n. 448 del 1998 e' concesso alla madre, cittadina italiana residente, nonche', per gli eventi di cui al comma 2, ai soggetti ivi indicati.
 
+2.
+                        
+                            
+                                A decorrere dal 1 luglio 2000, l'assegno di maternita' e' concesso alle donne, cittadine italiane o comunitarie o in possesso di carta di soggiorno ai sensi dell'articolo 9 del decreto legislativo n. 286 del 1998, per uno dei seguenti eventi:
+ 
+                            
+                            
+                                a)
+                                
+                                    per ogni figlio nato in data non anteriore al 1 luglio 2000, che sia regolarmente soggiornante e residente nel territorio delle Stato; quando la richiesta di assegno e' formulata da soggetto in possesso della carta di soggiorno di cui all'articolo 9 del decreto legislativo n. 286 del 1998, il figlio che non sia nato in Italia o non risulti cittadino di uno Stato dell'Unione europea deve altresi' essere in possesso di carta di soggiorno ai sensi dell'articolo medesimo;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per ogni minore che faccia ingresso, in data non anteriore al 1 luglio 2000, nella famiglia anagrafica della donna che lo riceve in affidamento preadottivo o in adozione senza affidamento ai sensi della legge n. 184 del 1983, con esclusione del caso di cui all'articolo 44, primo comma, lettera b), della stessa legge. Il beneficio puo' essere concesso se il minore non ha superato al momento dell'affidamento preadottivo o dell'adozione senza affidamento i sei anni di eta', ai sensi dell'articolo 6, comma 1, della legge 9 dicembre 1997, n. 903, ovvero, per gli affidamenti e le adozioni internazionali, la maggiore eta', ai sensi dell'articolo 39-quater, primo comma, lettera a), della citata legge n. 184 del 1983.
+
 Per gli assegni da concedersi ai sensi del comma 2, la richiedente deve essere residente nel territorio dello Stato al momento della nascita del figlio a al momento dell'ingresso nella propria famiglia anagrafica di un minore ricevuto in affidamento preadottivo o in adozione senza affidamento.
 
 L'assegno e' concesso alle condizioni previsto dall'articolo 66 della legge n. 448 del 1998 e dal presente Titolo; il figlio o il minore in affidamento preadottivo o in adozione senza affidamento deve essere regolarmente soggiornante e residente nel territorio dello Stato.
@@ -136,6 +287,30 @@ L'assegno e' concesso alle condizioni previsto dall'articolo 66 della legge n. 4
 Nei casi eccezionali in cui il minore in affidamento preadottivo non possa essere iscritto nella famiglia anagrafica dell'affidatario a causa di particolari misure di tutela stabilite nei suoi confronti dall'autorita' competente, all'ingresso del minore nella famiglia anagrafica della persona che lo riceve in affidamento preadottivo e' equiparato l'inizio della coabitazione del minore con il soggetto affidatario; in detti casi, le date di cui al presente Titolo, relative all'ingresso del minore nella famiglia anagrafica, devono intendersi riferite al momento di inizio della coabitazione, quale risulta dagli atti relativi alla procedura di affidamento preadottivo.
 
 ## Art. 11. — (Concessione dell'assegno di maternita' ad altri soggetti)
+
+1.
+                        
+                            
+                                In luogo dei soggetti di cui all'articolo 10, comma 2, possono beneficiare dell'assegno medesimo i seguenti soggetti:
+
+
+                            
+                            
+                                a)
+                                
+                                    il padre che, al momento della nascita del figlio, sia residente, cittadino italiano o comunitario o in possesso di carta di soggiorno ai sensi dell'articolo 9 del decreto legislativo n. 286 del 1998, in caso di abbandono del figlio da parte della madre o di affidamento esclusivo del figlio al padre, a condizione che la madre risulti regolarmente soggiornante e residente nel territorio dello Stato al momento del parto e che il figlio sia stato riconosciuto dal padre, si trovi presso la famiglia anagrafica di lui e sia soggetto alla sua potesta' e comunque non sia in affidamento presso terzi; alle suddette condizioni l'assegno spetta in via esclusiva al padre;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'affidatario preadottivo che, al momento dell'ingresso del minore nella sua famiglia anagrafica, sia residente, cittadino italiano o comunitario o in possesso di carta di soggiorno ai sensi dell'articolo 9 del decreto legislativo n. 286 del 1998, quando sopraggiunga separazione ai sensi dell'articolo 25, quinto comma, della legge n. 184 del 1983, l'assegno e' concesso all'affidatario preadottivo a condizione che non sia gia' stato concesso alla moglie affidataria preadottiva e che il richiedente abbia il minore in affidamento presso la propria famiglia anagrafica; la presente disposizione si applica anche nei confronti dell'adottante in caso di adozione senza affidamento;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'adottante non coniugato, residente, cittadino italiano o comunitario o in possesso di carta di soggiorno ai sensi dell'articolo 9 del decreto legislativo n. 286 del 1998, in caso di adozione pronunciata solo nei suoi confronti ai sensi dell'articolo 44, terzo comma, della legge n. 184 del 1983, a condizione che il minore si trovi presso la famiglia anagrafica dell'adottante, sia soggetto alla potesta' di lui e comunque non sia in affidamento presso terzi.
 
 In caso di decesso della madre del neonato o, ai sensi dell'articolo 10, comma 2, della donna che ha ricevuto il minore in affidamento preadottivo o in adozione senza affidamento, e qualora il beneficio non sia stato ancora erogato ai suddetti destinatari, l'assegno che sarebbe spettato alla madre o alla donna aventi diritto ai sensi del presente Titolo puo' essere concesso, a domanda, rispettivamente al padre che ha riconosciuto il neonato o al coniuge della donna, a condizione che questi siano regolarmente soggiornanti e residenti nel territorio dello Stato, il minore si trovi presso la loro famiglia anagrafica e sia soggetto alla loro potesta' e comunque non sia in affidamento presso terzi; in alternativa, detti soggetti possono, se in possesso dei medesimi requisiti soggettivi ed economici previsti per la persona deceduta, presentare autonoma domanda, che sostituisce ad ogni effetto quella della persona deceduta, e conseguire l'assegno a proprio titolo; nei casi previsti dal presente comma, competente alla concessione dell'assegno e' sempre il comune di ultima residenza della persona deceduta.
 
@@ -267,6 +442,48 @@ L'assegno di cui all'articolo 66 della legge n. 448 del 1998 non spetta se e' st
 ## Art. 20. — (Pagamento degli assegni)
 
 Al pagamento degli assegni concessi dai comuni provvede l'INPS, attraverso le proprie strutture.
+
+2.
+                        
+                            
+                                I comuni trasmettono all'INPS, secondo specifiche fornite dallo stesso istituto, per via telematica o, in subordine, su supporto magnetico ovvero su modulario idoneo alla lettura ottica:
+
+
+                            
+                            
+                                a)
+                                
+                                    l'elenco dei beneficiari e i dati necessari al pagamento dell'assegno: cognome, nome, sesso, luogo e data di nascita, codice fiscale e indirizzo del beneficiario;
+                                
+                            
+                            
+                                b)
+                                
+                                    la denominazione, il codice, il numero telefonico e di archiviazione della pratica del comune concedente il beneficio;
+                                
+                            
+                            
+                                c)
+                                
+                                    la data della presentazione della domanda;
+                                
+                            
+                            
+                                d)
+                                
+                                    l'importo da pagare, semestrale per l'assegno per il nucleo familiare e totale per l'assegno di maternita';
+                                
+                            
+                            
+                                e)
+                                
+                                    il periodo di riferimento per il quale deve essere corrisposto l'assegno;
+                                
+                            
+                            
+                                f)
+                                
+                                    le coordinate bancarie in caso di richiesta di accredito su conto corrente.
 
 I comuni comunicano tempestivamente l'eventuale perdita del diritto ovvero la modifica dell'importo della prestazione a seguito di variazioni successivamente intervenute.
 

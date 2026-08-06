@@ -7,8 +7,8 @@ urn: urn:nir:ministero.interno:decreto:2022-12-12;210
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -36,6 +36,73 @@ Gli atleti di cui al comma 2 devono essere atleti del piu' alto livello tecnico-
 
 Il bando di concorso e' adottato con decreto del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, di seguito denominato «Dipartimento», e pubblicato nella Gazzetta Ufficiale della Repubblica italiana nonche' sul sito internet www.vigilfuoco.it
 
+5.
+                    
+                        
+                            Nel bando di concorso sono indicati: 
+ 
+                        
+                        
+                            a)
+                            
+                                il numero dei posti messi a concorso per ciascuna delle discipline sportive paralimpiche interessate ovvero per ciascuna specialita' nell'ambito delle stesse; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le categorie di disabilita' richieste ai candidati, secondo le classificazioni funzionali e in base alla disciplina sportiva praticata, tenendo conto delle determinazioni adottate dall'International Paralympic Committee (I.P.C.) e dalle Federazioni sportive di riferimento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i requisiti richiesti per la partecipazione al concorso; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                i limiti minimo e massimo di eta' previsti per la partecipazione, in ragione della disciplina sportiva, ai sensi dell'articolo 28 della legge 4 novembre 2010, n. 183; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i termini e le modalita' di presentazione delle domande di partecipazione; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' e i termini di presentazione della relativa documentazione, relativa ai titoli di cui all'articolo 2; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                gli accertamenti clinici o strumentali ritenuti utili ai fini della valutazione medico-legale, con riferimento alla categoria di atleti paralimpici per i quali e' indetto il concorso; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                i criteri e i titoli di preferenza di cui all'articolo 5 e i termini e le modalita' della loro presentazione; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                ogni altra prescrizione o notizia utile all'espletamento del concorso.
+
 L'identificazione informatica dei candidati che partecipano alla procedura concorsuale e' effettuata, ai fini della presentazione in via telematica della domanda di partecipazione, in conformita' a quanto disposto dall'articolo 64, comma 2-quater, del decreto legislativo 7 marzo 2005, n. 82.
 
 ## Art. 2. — Titoli
@@ -52,6 +119,56 @@ Ai fini della valutazione dei titoli culturali di cui al comma 1, i punteggi son
 Requisiti di idoneita' psico-fisica e attitudinale
 
 I candidati al fine di essere sottoposti agli accertamenti relativi all'idoneita' psico-fisica e attitudinale, presentano apposita documentazione sanitaria propedeutica al rilascio dell'idoneita' fisica per l'attivita' agonistica specifica, rilasciata dal medico afferente al Comitato italiano paralimpico o alla competente Federazione nazionale.
+
+2.
+                    
+                        
+                            I candidati devono possedere i requisiti di idoneita' fisica richiesti per l'attivita' sportiva paralimpica esercitata, secondo criteri fissati dal Comitato italiano paralimpico. Costituiscono cause di non idoneita' psico-fisica, valutate anche con riferimento alle esigenze di tutela della salute e dell'incolumita' del candidato: 
+ 
+                        
+                        
+                            a)
+                            
+                                i disturbi dello spettro della schizofrenia e altri disturbi psicotici; il disturbo bipolare e i disturbi correlati; il disturbo depressivo maggiore; i disturbi di personalita' paranoide, schizoide, schizotipico, antisociale e borderline; le disabilita' intellettive e i disturbi neurocognitivi maggiori; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'alcolismo e le patologie correlate al consumo di bevande alcoliche; l'uso, anche occasionale, di sostanze stupefacenti o psicotrope, salvo documentate finalita' terapeutiche, accertato attraverso i relativi test tossicologici.
+
+3.
+                    
+                        
+                            I candidati al concorso devono possedere, compatibilmente con il grado di disabilita', in correlazione al servizio in qualita' di atleta paralimpico del Gruppo sportivo vigili del fuoco Fiamme Rosse del Corpo Nazionale, nonche' alle attivita' in sede di reimpiego per sopravvenuta inidoneita', i seguenti requisiti attitudinali: 
+ 
+                        
+                        
+                            a)
+                            
+                                livello evolutivo: maturazione evolutiva che esprima una valida integrazione della personalita', percezione e autostima di se', assunzione di responsabilita' e determinazione finalizzate ad agire in sicurezza nell'espletamento dei compiti propri della qualifica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                controllo emotivo: stabilita' emotiva e attitudine a controllare le proprie reazioni emotivo-comportamentali e ad elaborare situazioni impreviste con rapida capacita' risolutiva; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                capacita' intellettiva: adeguata capacita' di percezione, attenzione, memorizzazione ed esecuzione dei compiti assegnati; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                socialita': capacita' di comunicazione e di relazione finalizzate all'integrazione e funzionalita' di gruppo semplice e complessa, nonche' capacita' di adattarsi in contesti di lavoro formalmente organizzati.
 
 La valutazione dei requisiti di cui ai commi 2 e 3, nonche' della documentazione sanitaria di cui al comma 1, e' demandata ad una commissione medica nominata con decreto del Capo del Dipartimento e composta da un appartenente al ruolo dei dirigenti sanitari o medici del Corpo nazionale, che la presiede, e da due direttivi sanitari o medici del medesimo Corpo. Le funzioni di segretario sono svolte da personale con qualifica non inferiore a ispettore logistico-gestionale del Corpo nazionale ovvero da un appartenente ai ruoli del personale dell'amministrazione civile dell'interno di equivalente qualifica in servizio presso il Dipartimento. Per le ipotesi di assenza o impedimento del presidente, di uno o piu' componenti e del segretario della commissione, e' prevista la nomina dei supplenti, che abbiano gli stessi requisiti dei componenti effettivi, da effettuarsi con il decreto di nomina della commissione medesima o con successivo provvedimento. 
  Il giudizio di idoneita' e' definitivo e, qualora negativo, comporta l'esclusione dal concorso disposta con decreto del Capo del Dipartimento.
@@ -91,6 +208,45 @@ Con decreto del Direttore centrale per la formazione del Dipartimento, nell'ambi
 
 La commissione dell'esame di fine corso e' nominata con decreto del Capo del Dipartimento. E' presieduta da un dirigente del Corpo nazionale che espleta funzioni operative ed e' composta da un componente appartenente ai ruoli dei direttivi e dei dirigenti che espletano funzioni operative e da un componente appartenente al ruolo dei direttivi ginnico-sportivi. Le funzioni di segretario della commissione sono svolte da personale con qualifica non inferiore a ispettore logistico-gestionale. Con il medesimo decreto sono nominati, per le ipotesi di assenza o impedimento di ciascun componente effettivo, membri supplenti, per l'individuazione dei quali si applicano gli stessi requisiti previsti per i componenti effettivi.
 
+8.
+                    
+                        
+                            Sono dimessi dal corso di formazione gli atleti paralimpici in prova che: 
+ 
+                        
+                        
+                            a)
+                            
+                                non superino l'esame di cui al comma 5; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dichiarino di rinunciare al corso; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                siano stati per qualsiasi motivo assenti dal corso per piu' di otto giorni, anche non consecutivi, salvo i casi di cui alle lettere d) ed e); 
+
+                            
+                        
+                        
+                            d)
+                            
+                                siano stati assenti dal corso per piu' di dodici giorni, anche non consecutivi, se l'assenza e' stata determinata da infermita' contratta immediatamente prima o durante il corso o il tirocinio, ovvero sia stata riconosciuta dipendente da causa di servizio qualora si tratti di personale gia' appartenente al Corpo nazionale. In tal caso gli atleti paralimpici in prova sono ammessi a partecipare al primo corso successivo al riconoscimento della idoneita' psico-fisica; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                siano stati assenti dal corso e dal tirocinio per piu' di dodici giorni, anche non consecutivi, se l'assenza e' stata determinata da maternita'. In tal caso le atlete paralimpiche in prova sono ammesse a partecipare al primo corso successivo ai periodi di assenza dal lavoro previsti dalle disposizioni in materia di congedo di maternita'.
+
 Sono espulsi dal corso di formazione e dal tirocinio gli atleti paralimpici in prova responsabili di infrazioni punibili con sanzioni disciplinari pari o piu' gravi della sanzione pecuniaria di cui all'articolo 239, comma 1, del decreto legislativo 13 ottobre 2005, n. 217.
 
 I provvedimenti di dimissione o di espulsione sono adottati con decreto del Capo Dipartimento, su proposta del Direttore centrale per la formazione.
@@ -98,6 +254,38 @@ I provvedimenti di dimissione o di espulsione sono adottati con decreto del Capo
 ## Art. 7.
 
 Reimpiego per sopravvenuta inidoneita'
+
+1.
+                    
+                        
+                            Gli atleti paralimpici appartenenti al ruolo degli atleti del gruppo sportivo dei vigili del fuoco Fiamme Rosse del Corpo nazionale perdono l'idoneita' allo svolgimento dell'attivita' sportiva paralimpica in caso di: 
+ 
+                        
+                        
+                            a)
+                            
+                                perdita, accertata dagli organismi medico-sanitari preposti, dei requisiti di idoneita' sportiva necessari per l'espletamento della disciplina sportiva praticata; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                perdita della qualita' di atleta di interesse paralimpico per un periodo superiore a dodici mesi; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                sospensione definitiva disposta dal competente organo di giustizia sportiva per un periodo superiore agli undici mesi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                accoglimento della domanda di cessazione dall'attivita' sportiva paralimpica presentata dall'atleta.
 
 Con decreto del Capo del Dipartimento e' disposto il transito degli atleti paralimpici di cui al comma 1 nella qualifica del corrispondente ruolo tecnico-professionale del Corpo nazionale, previa frequenza di un corso di aggiornamento tecnico-professionale.
 Il transito avviene in conformita' alle disposizioni di cui agli articoli 130 e 133 del decreto legislativo 13 ottobre 2005, n. 217.

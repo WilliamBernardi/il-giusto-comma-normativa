@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 1992-10-22
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,6 +23,77 @@ Entrata in vigore del decreto: 03/10/1992
 Udito il parere del Consiglio di Stato espresso nella adunanza generale del 25 luglio 1991 ed in quella del 21 novembre 1991;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            La richiesta di cui all'art. 3 del regolamento CEE 1 dicembre 1986, n. 3842/86 del Consiglio, volta ad assicurare l'intervento della dogana per vietare l'immissione in libera pratica di merci contraffatte, da presentare alla Direzione generale del dipartimento delle dogane e delle imposte indirette, deve contenere: 
+ 
+                        
+                        
+                            a)
+                            
+                                il nome, il cognome, il domicilio del richiedente ovvero, se questi e' una persona giuridica, la denominazione e la sede sociale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la descrizione, come risulta registrata presso gli organi competenti, del marchio che si intende tutelare, di cui il richiedente e' titolare ai sensi dell'art. 1, comma 2, lettera b), del regolamento CEE n. 3842/86, con l'indicazione della posizione tariffaria delle relative merci; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la descrizione del marchio contraffatto; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la denominazione commerciale delle merci recanti il marchio contraffatto e, ove possibile, l'indicazione della loro posizione tariffaria, dell'origine e provenienza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'indicazione della dogana o delle dogane presso cui le merci potranno essere dichiarate per l'immissione in libera pratica; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                il periodo per il quale e' richiesto l'intervento della dogana; tale periodo, anche se prorogato, non puo' essere superiore a sei mesi.
+
+2.
+                    
+                        
+                            La richiesta deve essere corredata di: 
+ 
+                        
+                        
+                            a)
+                            
+                                un documento attestante che il richiedente e' titolare del marchio ai sensi dell'art. 1, comma 2, lettera b) del regolamento CEE n. 3842/86; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                una dichiarazione con la quale il richiedente si assume la responsabilita' civile per gli eventuali danni arrecati all'importatore o a terzi dal provvedimento di sospensione di cui all'art. 5 del regolamento CEE n. 3842/86, e si impegna a costituire una cauzione a parziale copertura di tali danni, secondo le modalita' previste dall'art. 2, comma 2, del presente regolamento; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                ricevuta del versamento effettuato sul capitolo di bilancio del Dipartimento delle dogane e delle imposte indirette, appositamente istituito, a titolo di spese per la procedura di sospensione dell'immissione in libera pratica in base alle tabelle approvate annualmente con decreto del Ministro delle finanze, di concerto con quello del tesoro.
 
 Qualora il marchio non risulti piu' validamente registrato, il titolare di esso deve informare la Direzione generale del Dipartimento delle dogane e delle imposte indirette.
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2016-08-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,31 @@ Sulla proposta del Ministro dell'economia e delle finanze, di concerto con i Min
 
 ## Art. 1. — Definizioni fondamentali
 
+1.
+                        
+                            
+                                Ai fini del presente decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per amministrazioni pubbliche si intendono le amministrazioni di cui all'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196, ad esclusione delle regioni, degli enti locali, dei loro enti ed organismi strumentali e degli enti del Servizio sanitario nazionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per unita' locali di amministrazioni pubbliche si intendono le articolazioni organizzative, anche a livello territoriale, dotate di autonomia gestionale e contabile, individuate con propri provvedimenti dalle amministrazioni di cui alla lettera a), non indicate autonomamente nell'elenco di cui all'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196, e ivi recepite; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per soggetti utilizzatori del sistema di bilancio si intendono i cittadini, gli organi di governo dell'ente, gli amministratori pubblici, gli organi di controllo, le altre amministrazioni pubbliche ed ogni altro organismo strumentale alla gestione dei servizi pubblici, le istituzioni preposte al controllo della finanza pubblica, gli organismi internazionali competenti per materia, i dipendenti delle amministrazioni pubbliche, i finanziatori, i creditori ed altri soggetti che utilizzano il sistema dei bilanci per soddisfare esigenze informative al fine di sviluppare la propria attivita' decisoria di tipo istituzionale.
+
 ## Art. 2. — Oggetto e destinatari
 
 Il presente decreto disciplina l'armonizzazione dei sistemi contabili e degli schemi di bilancio delle amministrazioni pubbliche, al fine di assicurare il coordinamento della finanza pubblica attraverso una disciplina omogenea dei procedimenti di programmazione, gestione, rendicontazione e controllo.
@@ -36,6 +61,45 @@ Resta fermo quanto previsto dall'articolo 52, comma 4, della legge 31 dicembre 2
 
 ## Art. 3. — Finalita' e ambito di applicazione
 
+1.
+                        
+                            
+                                Le amministrazioni pubbliche, nel dare piena attuazione ai principi contabili generali di cui all'articolo 2, comma 2, perseguono gli obiettivi di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere l'armonizzazione delle procedure contabili, connesse ai diversi sistemi contabili e di bilancio, al fine di rappresentare in maniera veritiera e corretta, attraverso il sistema dei bilanci, le scelte programmatiche, amministrative e gestionali dell'amministrazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    coordinare i principi contabili generali con quelli relativi al consolidamento dei conti delle amministrazioni pubbliche; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentire ai gestori dei sistemi contabili e di bilancio, nonche' ai responsabili dei servizi finanziari, l'applicazione corretta ed efficace delle norme; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    coadiuvare gli organi di revisione e di controllo nel verificare che il sistema dei bilanci e le relative informazioni contabili pubbliche risultino conformi ai principi di efficienza ed efficacia; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assistere gli utilizzatori del sistema dei bilanci pubblici nell'esame delle informazioni in essi contenute.
+
 ## - Titolo II Piano dei conti integrato
 
 ## Art. 4. — Piano dei conti integrato
@@ -43,6 +107,31 @@ Resta fermo quanto previsto dall'articolo 52, comma 4, della legge 31 dicembre 2
 Al fine di perseguire la qualita' e la trasparenza dei dati di finanza pubblica, nonche' il miglioramento della raccordabilita' dei conti delle amministrazioni pubbliche con il sistema europeo dei conti nell'ambito delle rappresentazioni contabili, le amministrazioni pubbliche che utilizzano la contabilita' finanziaria, sono tenute ad adottare un comune piano dei conti integrato, costituito da conti che rilevano le entrate e le spese in termini di contabilita' finanziaria e da conti economico-patrimoniali redatto secondo comuni criteri di contabilizzazione.
 
 Le voci del piano dei conti sono definite in coerenza con il sistema delle regole contabili di cui all'articolo 2, comma 2, nonche' con le regole definite in ambito internazionale dai principali organismi competenti in materia, con modalita' finalizzate a garantire il rispetto del regolamento (CE) n. 479/2009, del Consiglio, del 25 maggio 2009, relativo all'applicazione del protocollo sulla procedura per i disavanzi eccessivi, allegato al Trattato che istituisce la Comunita' europea, e successive modificazioni.
+
+3.
+                        
+                            
+                                Con uno o piu' regolamenti da adottare ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, entro il 31 dicembre 2012 su proposta del Ministero dell'economia e delle finanze, sono definiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le voci del piano dei conti ed il contenuto di ciascuna voce; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la revisione delle disposizioni di cui al decreto del Presidente della Repubblica 27 febbraio 2003, n. 97, prevedendo come ambito di applicazione le amministrazioni pubbliche di cui all'articolo 1, comma 1, lettera a), e) tenendo conto anche di quanto previsto dal titolo III del presente decreto;((6))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    i principi contabili riguardanti i comuni criteri di contabilizzazione, cui e' allegato un nomenclatore contenente le definizioni degli istituti contabili e le procedure finanziarie per ciascun comparto suddiviso per tipologia di enti, al quale si conformano i relativi regolamenti di contabilita'. (3)(5)
 
 La disciplina di cui alle lettere a) e c) del comma 3 e' redatta in conformita' a quanto previsto al comma 2. I successivi aggiornamenti del piano dei conti, predisposti dal dipartimento della Ragioneria generale dello Stato, sono approvati con decreto del Ministro dell'economia e delle finanze, da pubblicare nella Gazzetta Ufficiale della Repubblica italiana e nel sito del medesimo Ministero. Ai sensi dell'articolo 14, comma 8, della legge 31 dicembre 2009, n. 196, sono definite le codifiche SIOPE secondo la struttura del piano dei conti di cui al presente comma.
 
@@ -70,6 +159,45 @@ Gli schemi dei regolamenti di cui al presente articolo sono trasmessi alle Camer
 
 ## Art. 5. — Finalita' del piano dei conti
 
+1.
+                        
+                            
+                                Il piano dei conti, mediante un sistema integrato di scritturazione contabile finalizzato alla classificazione delle operazioni effettuate dalle amministrazioni pubbliche, e all'adozione del sistema di regole contabili comuni, obiettiva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'armonizzazione dei sistemi contabili delle amministrazioni pubbliche, con esclusione di quelle di cui all'articolo 2, comma 2, lettera b), della legge 31 dicembre 2009, n. 196, disciplinate dagli articoli 16 e 17 del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'integrazione e la coerenza tra le rilevazioni contabili di natura finanziaria e quelle di natura economica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il consolidamento nelle fasi di previsione, gestione e rendicontazione delle entrate, delle spese, dei costi e dei ricavi, nonche' il monitoraggio in corso d'anno degli andamenti di finanza pubblica delle amministrazioni pubbliche, anche secondo l'articolazione nei sottosettori delle amministrazioni centrali, degli enti di previdenza e delle amministrazioni locali, in coordinamento con quanto previsto all'articolo 2, comma 2, lettera h), dalla legge 5 maggio 2009, n. 42, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una maggiore tracciabilita' delle informazioni nelle varie fasi di rappresentazione della manifestazione contabile in termini di competenza finanziaria, economica, cassa e patrimonio; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una maggiore attendibilita' e trasparenza dei dati contabili, valutabili anche in sede di gestione dei bilanci pubblici, attraverso l'analisi delle scritturazioni contabili rilevate con le modalita' di cui all'articolo 4, comma 1.
+
 I macroaggregati di cui agli articolo 10 e 11, sono determinati in coerenza con la struttura del piano dei conti.
 
 ## Art. 6. — Sistema integrato di scritturazione contabile
@@ -77,6 +205,24 @@ I macroaggregati di cui agli articolo 10 e 11, sono determinati in coerenza con 
 Le amministrazioni pubbliche, con esclusione di quelle di cui all'articolo 2, comma 2, lettera b), della legge 31 dicembre 2009, n. 196, disciplinate dagli articoli 16 e 17, adottano un sistema integrato di scritturazione contabile che consenta la registrazione di ciascun evento gestionale contabilmente rilevante nei termini di cui all'articolo 5, comma 1, lettera c), e che assicuri l'integrazione e la coerenza delle rilevazioni di natura finanziaria con quelle di natura economica e patrimoniale.
 
 Il piano dei conti economico-patrimoniale, di cui all'articolo 4, comma 1, comprende i conti necessari per le operazioni di integrazione, rettifica e ammortamento, effettuate secondo le modalita' ed i tempi necessari alle esigenze conoscitive della finanza pubblica.
+
+3.
+                        
+                            
+                                Il sistema integrato di scritture contabili di cui al comma 1 consente di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rendere disponibili da parte di ciascuna amministrazione le informazioni contabili necessarie per la valutazione dell'efficacia, dell'efficienza e dell'economicita' della propria attivita' mediante la rilevazione dei fatti amministrativi connessi all'impiego delle risorse umane e strumentali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    semplificare il monitoraggio a livello nazionale della finanza pubblica e favorire l'acquisizione delle informazioni richieste dagli organismi internazionali, nonche' il rispetto degli impegni assunti in sede europea.
 
 Al fine di permettere alle amministrazioni pubbliche di cui al comma 1 di adeguare i propri sistemi informativi e contabili, le disposizioni di cui al presente articolo si applicano dall'esercizio finanziario 2014.
 
@@ -99,6 +245,73 @@ Ciascuna transazione elementare e' caratterizzata da un codice che consente di t
 In mancanza di una codifica univoca e completa che identifichi la transazione elementare nelle varie fasi dell'entrata e della spesa i funzionari responsabili non possono dare esecuzione alle relative transazioni.
 
 Le transazioni elementari consentono la tracciabilita' di tutte le operazioni contabili e la movimentazione delle relative voci elementari di bilancio, come definite dall'articolo 7, comma 2. La movimentazione delle unita' elementari di bilancio, per la parte della spesa, deve essere contenuta entro i limiti delle risorse finanziarie ivi appostate.
+
+5.
+                        
+                            
+                                Ciascuna transazione elementare deve contenere le seguenti informazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    Codice identificativo della missione, per le spese; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Codice identificativo del programma, per le spese; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    Codice identificativo della classificazione COFOG al secondo livello, per le spese; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    Codice identificativo del centro di responsabilita'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Codice identificativo del centro di costo cui la transazione fa riferimento, per le spese; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    Codice della voce del piano dei conti, per entrate, spese, costi, oneri, ricavi e proventi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    Codici identificativi del soggetto erogatore e del destinatario del trasferimento ove la transazione intervenga tra due amministrazioni pubbliche; Codice identificativo delle entrate ricorrenti e non ricorrenti; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    Codice identificativo delle transazioni con l'Unione europea; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    Codice unico di progetto, identificativo del progetto d'investimento pubblico realizzato dall'amministrazione.
 
 In mancanza di uno o piu' codici di cui al comma 5, i funzionari responsabili non possono eseguire le relative transazioni.
 
@@ -125,6 +338,38 @@ Al fine di consentire la confrontabilita' dei dati di bilancio delle amministraz
 La rappresentazione della spesa per missioni e programmi integra il sistema di regole contabili di cui al presente decreto. In conformita' a quanto previsto dall'articolo 21, comma 2, della legge 31 dicembre 2009, n. 196, le missioni rappresentano le funzioni principali e gli obiettivi strategici perseguiti dalle amministrazioni pubbliche nell'utilizzo delle risorse finanziarie, umane e strumentali ad esse destinate. I programmi rappresentano gli aggregati omogenei di attivita' volte a perseguire le finalita' individuate nell'ambito delle missioni.
 
 ## Art. 11. — Criteri per la specificazione e classificazione delle spese
+
+1.
+                        
+                            
+                                In attuazione dell'articolo 10, unitamente alle rilevazioni contabili in termini finanziari, economici e patrimoniali, i documenti di bilancio previsivi e consuntivi rappresentano la classificazione delle spese, sulla base dello schema di cui all'allegato 2, secondo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    missioni, definite in base allo scopo istituzionale dell'amministrazione pubblica, come individuato dalla legge e dallo statuto, in modo da fornire la rappresentazione delle singole funzioni politico-istituzionali perseguite con le risorse finanziarie, umane e strumentali disponibili. Al fine di assicurare un piu' agevole consolidamento e monitoraggio dei conti pubblici, le missioni sono definite sulla base di indirizzi adottati con decreto del Presidente del consiglio dei Ministri, su proposta del Ministro dell'economia e delle finanze, sentiti i Ministeri vigilanti, e si assume quale termine di riferimento l'individuazione delle missioni nel bilancio dello Stato, ai sensi dell'articolo 21, comma 2, della legge 31 dicembre 2009, n. 196; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    programmi, configurati come le unita' di rappresentazione del bilancio che identificano in modo sintetico gli aggregati omogenei di attivita' realizzate dall'amministrazione pubblica per il perseguimento delle finalita' individuate nell'ambito di ciascuna missione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    macroaggregati, che costituiscono un'articolazione dei programmi secondo la natura economica della spesa. Al fine di garantire la coerenza della rappresentazione secondo l'aspetto economico, le missioni e i programmi sono definiti nel rispetto dei macroaggregati come individuati per il bilancio dello Stato ai sensi dell'articolo 25, comma 2, lettera b), della legge 31 dicembre 2009, n. 196. L'integrazione e la modifica dei predetti macroaggregati, nonche' l'ulteriore livello di disaggregazione, sono definite con riferimento al comune piano dei conti integrato, nel rispetto di quanto previsto dal Titolo II, fatto salvo quanto disposto dall'articolo 40, comma 2, lettera e), della legge 31 dicembre 2009, n. 196; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    classificazione delle spese come rimodulabili e non rimodulabili per le quali si applicano le disposizioni in materia di flessibilita' di bilancio previste dall'allegato 1.
 
 La realizzazione di ciascun programma e' attribuita ad un unico centro di responsabilita' amministrativa, corrispondente all'unita' organizzativa individuata in conformita' con i regolamenti di organizzazione, nonche' con altri idonei provvedimenti adottati dalle singole amministrazioni pubbliche. Ferma restando l'autonomia delle amministrazioni pubbliche nell'individuazione dei programmi di propria pertinenza, al fine di permettere un'analisi coordinata dei risultati dell'azione amministrativa nel quadro delle politiche pubbliche settoriali e una maggiore effettivita' del consolidamento funzionale dei dati contabili, la coerenza della registrazione delle operazioni e' assicurata mediante la determinazione di regole univoche di ripartizione delle voci di bilancio. A tal fine, il programma e' corredato con l'indicazione della corrispondente codificazione della nomenclatura COFOG di secondo livello, secondo la struttura di corrispondenza desumibile dall'allegato al disegno di legge di bilancio annuale contenente il riepilogo delle dotazioni secondo l'analisi funzionale, ai sensi dell'articolo 21, comma 11, lettera d), della legge 31 dicembre 2009, n. 196. Nel caso di corrispondenza non univoca tra programma e funzioni COFOG di secondo livello, sono individuate due o piu' funzioni COFOG con l'indicazione delle percentuali di attribuzione della spesa del programma a ciascuna di esse.
 
@@ -173,6 +418,31 @@ Al fine di consentire la riferibilita' delle singole decisioni di spesa alle art
 Con decreto di natura non regolamentare del Ministro dell'economia e delle finanze, da adottare ((entro il 31 dicembre 2012)), sono stabiliti i criteri e le modalita' per l'attuazione della disposizione di cui al comma 1. Il decreto di cui al presente comma e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana e nel sito del Ministero dell'economia e delle finanze.
 
 ## Art. 15. — Criteri per la specificazione e la classificazione delle entrate
+
+1.
+                        
+                            
+                                Nei documenti di bilancio previsivi e consuntivi di cui al presente decreto, le entrate sono ripartite in: 
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli, secondo la fonte di provenienza delle entrate, e sono classificate come entrate 'ricorrenti' o 'non ricorrenti', a seconda che si riferiscano a proventi la cui acquisizione sia prevista a regime ovvero limitata ad uno o piu' esercizi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    tipologie, definite secondo la natura delle entrate nell'ambito di ciascuna fonte di provenienza, ai fini dell'approvazione in termini di unita' di voto; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    categorie, secondo la natura dei cespiti.
 
 L'ulteriore livello di disaggregazione e' definito, con riferimento al comune piano dei conti integrato, ai sensi del titolo II del presente decreto, salvo quanto previsto dall'articolo 40, comma 2, lettera d), della legge 31 dicembre 2009, n. 196.
 
@@ -247,6 +517,70 @@ Gli enti vigilati e le unita' locali di cui all'articolo 19, comma 4, trasmetton
 
 Il Piano illustra le principali finalita' perseguite attraverso i programmi di spesa del bilancio in termini di livello, copertura e qualita' dei servizi erogati, ovvero l'impatto che i programmi di spesa, unitamente a fattori esogeni, intendono produrre sulla collettivita', sul sistema economico e sul contesto di riferimento.
 
+2.
+                        
+                            
+                                Ciascuna finalita' e' caratterizzata da uno o piu' obiettivi significativi che concorrono alla sua realizzazione. Per ciascun programma, il Piano fornisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una descrizione sintetica degli obiettivi sottostanti, al fine dell'individuazione dei potenziali destinatari o beneficiari del servizio o dell'intervento, nonche' la sua significativita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il triennio di riferimento o l'eventuale arco temporale previsto per la sua realizzazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    uno o piu' indicatori diretti a misurare l'obiettivo ed a monitorare la sua realizzazione.
+
+3.
+                        
+                            
+                                Per ciascun indicatore, il Piano fornisce: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una definizione tecnica, idonea a specificare l'oggetto della misurazione dell'indicatore e l'unita' di misura di riferimento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la fonte del dato, ossia il sistema informativo interno, la rilevazione esterna, o l'istituzione dalla quale si ricavano le informazioni necessarie al calcolo dell'indicatore, che consenta di verificarne la misurazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il metodo o la formula applicata per il calcolo dell'indicatore; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il valore 'obiettivo', consistente nel risultato atteso dall'indicatore in relazione alla tempistica di realizzazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'ultimo valore effettivamente osservato dall'indicatore.
+
 Il Piano individua, inoltre, specifiche azioni avviate dall'amministrazione per consolidare il sistema di indicatori di risultati disponibili.
 
 ## Art. 22. — Monitoraggio degli obiettivi e indicatori
@@ -262,6 +596,24 @@ Con decreto del Presidente del Consiglio dei Ministri, da adottare entro il ((31
 ## - Titolo VI Disposizioni finali
 
 ## Art. 24. — Termini di approvazione dei bilanci
+
+1.
+                        
+                            
+                                Le amministrazioni pubbliche approvano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il bilancio di previsione o il budget economico entro il 31 dicembre dell'anno precedente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il rendiconto o il bilancio di esercizio entro il 30 aprile dell'anno successivo, salvo il termine previsto per il rendiconto generale dello Stato di cui all'articolo 35, comma 1, della legge 31 dicembre, n. 196.
 
 Le amministrazioni pubbliche di cui al presente decreto trasmettono i loro bilanci preventivi ((...)) ed i bilanci consuntivi alla banca dati unitaria delle amministrazioni pubbliche, secondo gli schemi e le modalita' previste dall'articolo 13, comma 3, della legge 31 dicembre 2009, n. 196.
 

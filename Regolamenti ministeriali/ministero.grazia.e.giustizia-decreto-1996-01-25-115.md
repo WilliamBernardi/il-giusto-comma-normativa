@@ -8,8 +8,8 @@ codice_redazionale: 096G0128
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -73,8 +73,226 @@ Ai sensi dell'art. 8, comma 5, lettera a), del decreto del Presidente della Repu
 ## Art. 3. — Categorie di documenti inaccessibili
  per motivi di ordine e sicurezza pubblica
 
+1.
+                    
+                        
+                            Ai sensi dell'art. 8, comma 5, lettera c), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare la sicurezza e l'ordine pubblico, sono sottratte all'accesso le seguenti categorie di documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                relazioni di servizio, informazioni ed altri atti o documenti che contengono notizie la cui conoscenza sia di pregiudizio concreto ed effettivo alla tutela dell'ordine e della sicurezza pubblica degli istituti penitenziari e dell'attivita' di prevenzione e repressione della criminalita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                atti e documenti attinenti a segnalazioni anche anonime nonche' esposti informali di privati, di organizzazioni di categoria o sindacali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                atti e documenti concernenti l'organizzazione ed il funzionamento dei servizi del Corpo di polizia penitenziaria, ivi compresi quelli relativi all'addestramento, all'impiego ed alla mobilita' del personale nei limiti strettamente necessari ad assicurare l'ordine e la sicurezza pubblici;
+
+                            
+                        
+                        
+                            d)
+                            
+                                documenti sulla condotta del personale rilevanti ai fini di tutela dell'ordine e della sicurezza pubblici;
+
+                            
+                        
+                        
+                            e)
+                            
+                                documenti concernenti la sicurezza degli edifici, degli uffici, delle infrastrutture dei beni e dell'attivita' dell'amministrazione;
+
+                            
+                        
+                        
+                            f)
+                            
+                                atti e documenti concernenti l'acquisizione, la protezione e la custodia di armi, munizioni, esplosivi e materiali classificati di pertinenza dall'amministrazione penitenziaria;
+
+                            
+                        
+                        
+                            g)
+                            
+                                atti di pianificazione, programmazione, acquisizione, gestione e manutenzione, dismissione di infrastrutture ed aree nei limiti in cui detti documenti contengono notizie rilevanti al fine di garantire l'ordine e la sicurezza pubblici e degli istituti penitenziari nonche' la prevenzione e la repressione della criminalita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                atti e documenti in materia di programmazione, acquisizione, gestione e conservazione dei mezzi, dei materiali e delle scorte dell'amministrazione penitenziaria nei limiti strettamente necessari ad assicurare l'ordine e la sicurezza pubblici;
+
+                            
+                        
+                        
+                            i)
+                            
+                                documenti relativi alla sicurezza ed alla protezione del personale dell'amministrazione nonche' dei detenuti e degli internati;
+
+                            
+                        
+                        
+                            l)
+                            
+                                documenti relativi alla prima assegnazione, al trasferimento ed alla traduzione dei detenuti e degli internati nonche' al loro piantonamento in luoghi esterni di cura;
+
+                            
+                        
+                        
+                            m)
+                            
+                                documenti relativi all'assegnazione dei detenuti e degli internati nelle diverse sezioni degli istituti penitenziari;
+
+                            
+                        
+                        
+                            n)
+                            
+                                documenti relativi a gare d'appalto dichiarate segrete dalla legge.
+
 ## Art. 4. — Categorie di documenti inaccessibili per motivi
  di riservatezza di terzi, persone, gruppi ed imprese
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 24, legge 7 agosto 1990, n. 241, nonche' dell'art. 8, comma 5, lettera d), del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, ed in relazione all'esigenza di salvaguardare la riservatezza di terzi, persone, gruppi ed imprese, garantendo peraltro ai medesimi la visione degli atti relativi ai procedimenti amministrativi, la cui conoscenza sia necessaria per curare o per difendere i loro interessi giuridici, sono sottratte all'accesso le seguenti categorie di documenti:
+ 
+                        
+                        
+                            a)
+                            
+                                rapporti informativi sul personale dipendente, nonche' note caratteristiche a qualsiasi titolo compilate sul predetto personale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                documenti attinenti a giudizi o valutazioni relativi a procedure non concorsuali concernenti il personale da reclutare;
+
+                            
+                        
+                        
+                            c)
+                            
+                                accertamenti medico-legali e relativa documentazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                documenti ed atti relativi alla salute delle persone ovvero concernenti le condizioni psico-fisiche delle medesime;
+
+                            
+                        
+                        
+                            e)
+                            
+                                documentazione attinente ai lavori delle commissioni giudicatrici di concorso, fino all'esaurimento delle procedure concorsuali;
+
+                            
+                        
+                        
+                            f)
+                            
+                                notizie, documenti e cose comunque attinenti alle selezioni psico-attitudinali;
+
+                            
+                        
+                        
+                            g)
+                            
+                                documentazione attinente ai lavori delle commissioni di avanzamento e alle procedure di passaggio alle qualifiche superiori, fino alla data di adozione dei relativi decreti di promozione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                documentazione caratteristica, matricolare e concernente situazioni private del personale;
+
+                            
+                        
+                        
+                            i)
+                            
+                                documentazione attinente a procedimenti penali e disciplinari ovvero utilizzabile ai fini dell'apertura di procedimenti disciplinari, nonche' concernente l'istruzione dei ricorsi amministrativi prodotti dal personale dipendente;
+
+                            
+                        
+                        
+                            l)
+                            
+                                documentazione attinente ad accertamenti ispettivi e amministrativo-contabili per la parte relativa alla tutela della vita privata e della riservatezza;
+
+                            
+                        
+                        
+                            m)
+                            
+                                documentazione attinente ai provvedimenti di dispensa dal servizio;
+
+                            
+                        
+                        
+                            n)
+                            
+                                documentazione relativa alla situazione familiare, finanziaria, economica e patrimoniale di persone ivi compresi i dipendenti, gruppi ed imprese comunque utilizzata ai fini dell'attivita' amministrativa;
+
+                            
+                        
+                        
+                            o)
+                            
+                                dichiarazioni di riservatezza e relativi atti istruttori dei documenti conservati negli archivi di Stato concernenti situazioni puramente private di persone o processi penali, secondo quanto previsto dall'art. 21 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409;
+
+                            
+                        
+                        
+                            p)
+                            
+                                rapporti alla procura generale ed alle procure regionali presso la Corte dei conti e richieste o relazioni di dette procure ove siano nominativamente individuati soggetti per i quali si appalesa la sussistenza di responsabilita' amministrative, contabili e penali;
+
+                            
+                        
+                        
+                            q)
+                            
+                                relazioni alla procura generale ed alle procure regionali presso la Corte dei conti nonche' atti di promovimento di azioni di responsabilita' avanti alle competenti autorita' giudiziarie;
+
+                            
+                        
+                        
+                            r)
+                            
+                                atti e documenti relativi alla concessione dei benefici assistenziali limitatamente agli aspetti che concernono la situazione economica, sanitaria e familiare dei beneficiari;
+
+                            
+                        
+                        
+                            s)
+                            
+                                segnalazioni, atti o esposti informali di privati, di organizzazioni sindacali e di categorie o altre associazioni, fino a quando in ordine ad essi non sia stata conclusa la necessaria istruttoria;
+
+                            
+                        
+                        
+                            t)
+                            
+                                atti di ultima volonta' e i relativi repertori, registri ed indici nonche' atti del registro generale dei testamenti durante la vita del testatore, copie dei repertori e dei registri notarili depositati negli archivi notarili.
 
 ## Art. 5. — Esclusioni dal diritto di accesso
  gia' previste dall'ordinamento

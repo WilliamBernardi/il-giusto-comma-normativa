@@ -8,8 +8,8 @@ codice_redazionale: 010G0172
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -34,6 +34,38 @@ Il regolamento si applica ai sistemi dischi freno, di seguito definiti «sistema
 I sistemi, di cui al comma 1, sono omologati in conformita' alle prescrizioni e alle procedure di prova previste dal presente regolamento.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del regolamento si definiscono quali: 
+ 
+                        
+                        
+                            a)
+                            
+                                «sistema» dischi freno l'insieme costituito dai dischi freno ed, eventualmente, da uno o piu' dei seguenti elementi: 
+ 1) pinze freni; 
+ 2) guarnizioni; 
+ 3) adattatore pinze; 
+ 4) tubazione di collegamento; 
+ 5) sensori, 
+che presentano caratteristiche diverse, nei materiali utilizzati o sono di forma o grandezza diversa o, ancora, sono combinati in modo diverso, dai corrispondenti elementi dell'impianto frenante originario del veicolo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                «costruttore», il produttore di un sistema dischi freno; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                «tipo di veicolo per quanto riguarda l'impianto di frenatura, cosi' come definito dalla direttiva 71/320/CEE; 
+ d) «campo d'impiego» i tipi di veicoli sui quali il sistema dischi freno puo' essere installato.
 
 ## Art. 3. — Omologazione dei sistemi
 
@@ -85,6 +117,24 @@ Ogni singolo sistema prodotto e' corredato con le informazioni di uso e installa
 Gli impianti di produzione dei sistemi sono soggetti al controllo del sistema di verifica della conformita' della produzione, prevista dal decreto dirigenziale 21 aprile 2009, pubblicato nella Gazzetta Ufficiale 11 maggio 2009, n. 107, S.O.
 
 I sistemi omologati sono realizzati in modo da risultare conformi al tipo omologato.
+
+3.
+                    
+                        
+                            La Direzione generale della motorizzazione puo' procedere a qualsiasi prova prescritta nel regolamento, nell'ambito della verifica: 
+ 
+                        
+                        
+                            a)
+                            
+                                della conformita' della produzione del sistema; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle procedure per la valutazione della durabilita' del sistema.
 
 L'omologazione accordata per un tipo di sistema e' revocata se non vengono rispettate le prescrizioni del presente articolo.
 

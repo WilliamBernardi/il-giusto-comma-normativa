@@ -8,8 +8,8 @@ codice_redazionale: 082U0178
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -20,4 +20,25 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1.
 
 N.
+
+178.
+                    
+                        
+                            Decreti del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Imola 21 agosto 1979, integrato con due dichiarazioni del 31 agosto 1979 e del 13 gennaio 1981, relativo: 
+                        
+                        
+                            a)
+                            
+                                all'erezione della parrocchia di S. Benedetto in S. Gabriele, in Lugo (Ravenna), con il trasferimento in essa del beneficio parrocchiale di S.
+ Benedetto, in localita' Sasso Letroso del comune di Riolo Terme (Ravenna) con il mutato titolo di "S. Benedetto in S. Gabriele";
+                            
+                        
+                        
+                            b)
+                            
+                                all'incorporazione del territorio della parrocchia di S. Benedetto nella limitrofa parrocchia dei SS. Stefano e Martino della Costa.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 17 aprile 1982
+ Registro n. 9 Interno, foglio n. 16
 

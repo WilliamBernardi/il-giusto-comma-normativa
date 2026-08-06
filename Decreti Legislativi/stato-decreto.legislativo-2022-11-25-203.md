@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2023-04-03
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -26,6 +26,179 @@ Sulla proposta del Ministro per gli affari europei, il Sud, le politiche di coes
 ## - Capo I Modifiche ai titoli II e III del decreto legislativo 31 luglio 2020, n. 101, relativi alle definizioni e alle autorità competenti
 
 ## Art. 1. — Modifiche all'articolo 7 del decreto legislativo 31 luglio 2020, n. 101, relativo alle definizioni
+
+1.
+                        
+                            
+                                All'articolo 7, comma 1, del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al punto 1), le parole: «electron volt» sono sostituite dalla seguente: «elettronvolt»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        al punto 7), prima delle parole «e' il quoziente di dN fratto dt» sono inserite le seguenti: «l'attivita' di una determinata quantita' di un radionuclide in uno stato particolare di energia in un momento determinato;» e dopo le parole: «L'unita' di» sono inserite le seguenti: «misura dell'»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        al punto 13), le parole: «s-1 » sono sostituite dalle seguenti: «s-1 »;
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        al punto 23), dopo le parole: «di cui ai numeri» la parola: «precedenti» e' sostituita dalle seguenti «16), 66), 67), 68), 69) e 116)»;
+                                    
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        al punto 31), le parole: «e cioe'» sono sostituite dalle seguenti: «, ovvero»;
+                                        dopo le parole: «l'energia media» e' inserita la seguente: «depositata» e dopo le parole: «L'unita' di» sono inserite le seguenti: «misura della»;
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        al punto 32), le parole: «fattore di peso», ovunque ricorrano, sono sostituite dalle seguenti: «fattore di ponderazione» e dopo le parole: «L'unita' di» sono inserite le seguenti: «misura dell'»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        al punto 33), le parole: «wT la» sono sostituite dalle seguenti: «wT . La», dopo le parole: «L'unita' di» sono inserite le seguenti: «misura della» e la parola «sievert» e' sostituita dalle seguenti: «sievert (Sv)»;
+                                    
+                                
+                            
+                            
+                                h)
+                                
+                                    
+                                        al punto 34), le parole: «radiazione R;» sono sostituite dalle seguenti: «radiazione R.», le parole: «WR e' il fattore di peso» sono sostituite dalle seguenti: «wR e' il fattore di ponderazione», le parole: «valori relativi a wR» sono sostituite dalle seguenti: «valori relativi a wR » e dopo le parole: «L'unita' di» sono inserite le parole: «misura della»;
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    
+                                        al punto 35), dopo la formula, le parole: «in cui avviene l'introduzione, HT (τ)» sono sostituite dalle seguenti: «in cui avviene l'introduzione, HT (t)» e dopo le parole: «l'unita' di» sono inserite le seguenti: «misura della»;
+                                    
+                                
+                            
+                            
+                                l)
+                                
+                                    
+                                        al punto 39), secondo periodo, le parole «sono disciplinate dall'articolo 130» sono sostituite dalle seguenti: «sono disciplinate dall'articolo 129»;
+                                    
+                                
+                            
+                            
+                                m)
+                                
+                                    
+                                        al punto 43), la parola: «previsto» e' sostituita dalla seguente: «previsto,»;
+                                    
+                                
+                            
+                            
+                                n)
+                                
+                                    
+                                        al punto 57), dopo le parole: «"generatore di radiazioni"» sono inserite le seguenti: «o "macchina radiogena"»;
+                                    
+                                
+                            
+                            
+                                o)
+                                
+                                    
+                                        al punto 64), la parola: «e'» e' sostituita dalla seguente: «sia»;
+                                    
+                                
+                            
+                            
+                                p)
+                                
+                                    
+                                        al punto 68), le parole: «37 TBq)» sono sostituite dalle seguenti: «37 TBq»;
+                                    
+                                
+                            
+                            
+                                q)
+                                
+                                    
+                                        al punto 75), le parole: «che,» sono sostituite dalla seguente: «che», le parole: «spedizione o,» sono sostituite dalle seguenti: «spedizione o» e le parole: «sostanze, o» sono sostituite dalle seguenti: «sostanze o»;
+                                    
+                                
+                            
+                            
+                                r)
+                                
+                                    
+                                        al punto 84), le parole: «concentrazioni di attivita' in relazione» sono sostituite dalle seguenti: «concentrazioni di attivita', in relazione»;
+                                    
+                                
+                            
+                            
+                                s)
+                                
+                                    
+                                        al punto 86), le parole «(da livello di azione)» sono soppresse, le parole: «esposizioni, derivanti» sono sostituite dalle seguenti: «esposizioni derivanti», e le parole: «sebbene non rappresenti un limite di dose» sono sostituite dalle seguenti: «, anche se non e' un limite che non puo' essere superato»;
+                                    
+                                
+                            
+                            
+                                t)
+                                
+                                    
+                                        dopo il punto 86) e' inserito il seguente: «86-bis) "luogo di lavoro sotterraneo": ai fini dell'applicazione del Capo I del Titolo IV, locale o ambiente con almeno tre pareti sotto il piano di campagna, indipendentemente dal fatto che queste siano a diretto contatto con il terreno circostante o meno;»;
+                                    
+                                
+                            
+                            
+                                u)
+                                
+                                    
+                                        al punto 90), le parole: «(CEEA) e cioe' le materie fissili speciali, le materie grezze e i minerali nonche'» sono sostituite dalle seguenti: «(CEEA), nonche'»;
+                                    
+                                
+                            
+                            
+                                v)
+                                
+                                    
+                                        al punto 131), le parole: «denominazione specifica dell'» sono soppresse;
+                                    
+                                
+                            
+                            
+                                z)
+                                
+                                    
+                                        al punto 156), dopo le parole «dell'ICRP» sono inserite le seguenti: «e successivi aggiornamenti».
 
 ## Art. 2.
 
@@ -48,11 +221,51 @@ All'articolo 13 del decreto legislativo 31 luglio 2020, n. 101, al comma 1, dopo
 
 ## Art. 5. — Modifiche all'articolo 17 del decreto legislativo 31 luglio 2020, n. 101, relativo all'esercente nei luoghi di lavoro
 
+1.
+                        
+                            
+                                All'articolo 17 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        dopo il comma 1 e' inserito il seguente: «1-bis. Fermo restando quanto previsto dalle lettere a) e b) del comma 1 nei luoghi di lavoro in locali semisotterranei e situati al piano terra l'esercente e' tenuto a completare le misurazioni entro 18 mesi dall'individuazione di cui all'articolo 11 comma 3 da parte delle Regioni e delle Province autonome di Trento e Bolzano.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        al comma 4, l'ultimo periodo e' sostituito dal seguente: «Nel caso in cui i risultati della valutazione siano superiori ai valori indicati all'articolo 12, comma 1, lettera d), l'esercente adotta i provvedimenti previsti dal Titolo XI, ad esclusione dell'articolo 109, commi 2, 3, 4 e 6, lettera f) e dell'articolo 130, commi 3, 4, 5 e 6.».
+
 ## Art. 6. — Modifiche all'articolo 19 del decreto legislativo 31 luglio 2020, n. 101, relativo al radon nelle abitazioni
 
 All'articolo 19, comma 4, del decreto legislativo 31 luglio 2020, n. 101, le parole «servizi di misurazione» sono sostituite dalle seguenti: «servizi di dosimetria».
 
 ## Art. 7. — Modifiche all'articolo 22 del decreto legislativo 31 luglio 2020, n. 101, relativo agli obblighi dell'esercente in presenza di sorgenti di radiazioni ionizzanti di origine naturale
+
+1.
+                        
+                            
+                                All'articolo 22 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 3, il terzo periodo e' sostituto dal seguente: «L'esercente trasmette la relazione tecnica di cui al comma 7 con i risultati delle valutazioni di dose efficace all'ISIN, nonche' alle ARPA/APPA, agli organi del SSN e alla sede dell'INL territorialmente competenti e conserva la relativa documentazione per un periodo di 6 anni.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        al comma 6, primo periodo, dopo le parole «Le misurazioni sono effettuate» sono inserite le seguenti: «su un numero rappresentativo di campioni dei materiali presenti nel ciclo produttivo e dei residui» e la parola «organismi» e' sostituita dalle seguenti: «servizi di dosimetria».
 
 ## Art. 8. — Modifiche all'articolo 25 del decreto legislativo 31 luglio 2020, n. 101, relativo alla classificazione dei residui
 
@@ -70,6 +283,26 @@ All'articolo 29 del decreto legislativo 31 luglio 2020, n. 101, al comma 6, le p
 ## - Capo III Modifiche al titolo VI del decreto legislativo 31 luglio 2020, n. 101, relativo al regime giuridico per importazione, produzione, commercio, trasporto e detenzione di materiale radioattivo
 
 ## Art. 11. — Modifiche all'articolo 36 del decreto legislativo 31 luglio 2020, n. 101, relativo all' autorizzazione al commercio di materiali radioattivi
+
+1.
+                        
+                            
+                                All'articolo 36 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 1, le parole «di materiale o sorgenti radioattivi e» sono sostitute dalle seguenti: «di materiale o sorgenti radioattivi, qualora la Comunita' europea per l'energia atomica non abbia esercitato il diritto di opzione ai sensi dell'articolo 57 del Trattato e fatta salva la disciplina sull'approvvigionamento delle materie fissili previste dal Trattato, nonche'»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        il comma 3 e' soppresso.
 
 ## Art. 12. — Modifiche all'articolo 37 del decreto legislativo 31 luglio 2020, n. 101, relativo all'importazione e produzione a fini commerciali di sorgenti di radiazioni ionizzanti
 
@@ -104,6 +337,43 @@ All'articolo 48 del decreto legislativo 31 luglio 2020, n. 101, il comma 6 e' so
 
 ## Art. 18. — Modifiche all'articolo 50 del decreto legislativo 31 luglio 2020, n. 101, relativo al nulla osta per le pratiche con sorgenti di radiazioni ionizzanti
 
+1.
+                        
+                            
+                                All'articolo 50 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 1 le parole «nell'Allegato XIV», ovunque ricorrano, sono sostituite dalle seguenti: «nella Tabella I-1A dell'Allegato I» e alla lettera c), n. 2), le parole «superiore per un fattore 50 ai valori indicati» sono sostituite dalle seguenti: «superiore per un fattore 50.000 ai valori indicati»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        il comma 2 e' sostituito dal seguente: «2. Sono inoltre soggette a nulla osta preventivo le seguenti pratiche con sorgenti di radiazioni ionizzanti che comportano: 
+ a) l'aggiunta intenzionale, direttamente o mediante attivazione di materie radioattive nella produzione e manifattura di prodotti di consumo, indipendentemente dal verificarsi delle condizioni di cui al comma 1; 
+ b) l'impiego di acceleratori, di generatori di radiazioni o di materie radioattive per radiografia industriale, per trattamento di prodotti e per ricerca, ferme restando le condizioni di cui al comma 1; 
+ c) la somministrazione intenzionale di materie radioattive, a fini di diagnosi, terapia o ricerca medica o veterinaria, a persone e, per i riflessi concernenti la radioprotezione di persone, ad animali, indipendentemente dal verificarsi delle condizioni di cui al comma 1; 
+ d) l'impiego di acceleratori, di generatori di radiazioni o di materie radioattive per esposizione di persone a fini di terapia medica, indipendentemente dal verificarsi delle condizioni di cui al comma 1; 
+ e) l'impiego di sorgenti sigillate ad alta attivita' secondo le disposizioni di cui al Titolo VIII; 
+ f) la somministrazione di sostanze radioattive a fini diagnostici, su mezzi mobili, ferme restando le condizioni di cui al comma 1; 
+ g) l'impiego di sorgenti di radiazioni mobili da parte dello stesso soggetto in uno o piu' siti, luoghi o localita' non determinabili a priori e presso soggetti differenti da quello che svolge la pratica, in relazione alle caratteristiche di sicurezza delle sorgenti e alle modalita' di impiego, ai sensi di quanto previsto nei provvedimenti applicativi, ferme restando le condizioni di cui al comma 1; 
+ h) l'impiego con mezzi mobili di apparati a raggi x a scopo medico-radiodiagnostico, inclusi gli apparati mobili usati nella radiologia domiciliare e nella diagnostica veterinaria, in uno o piu' siti, luoghi o localita' non determinabili a priori, con energia massima delle particelle accelerate maggiore o uguale a 200 keV, ferme restando le condizioni di cui al comma 1.»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        il comma 8 e' sostituito dal seguente: 
+ «8. Le disposizioni del presente articolo non si applicano alle pratiche disciplinate al Titolo V e al Titolo IX e alle attivita' lavorative comportanti l'esposizione alle sorgenti naturali di radiazioni di cui al Titolo IV, salvo diverse indicazioni stabilite nei singoli Titoli.».
+
 ## Art. 19. — Interpretazione autentica dell'articolo 54 del decreto legislativo 31 luglio 2020, n. 101, relativo all'allontanamento dal regime autorizzatorio
 
 L'articolo 54 del decreto legislativo 31 luglio 2020, n. 101 s'interpreta nel senso che la disciplina da esso prevista si applica anche ai materiali solidi, liquidi o aeriformi contenenti sostanze radioattive che provengono dalle attivita' di cui al Titolo IX.
@@ -127,7 +397,49 @@ All'articolo 109 del decreto legislativo 31 luglio 2020, n. 101, il comma 9 e' s
 
 ## Art. 23. — Modifiche all'articolo 110 del decreto legislativo 31 luglio 2020, n. 101, relativo alla informazione e formazione dei dirigenti e dei preposti
 
+1.
+                        
+                            
+                                All'articolo 110 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 1 le parole «almeno ogni tre anni» sono sostituite dalle seguenti: «almeno ogni cinque anni»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        dopo il comma 1 e' inserito il seguente: 
+ «1-bis. La formazione di cui al comma 1 integra quella prevista dall'articolo 37, comma 7, del decreto legislativo 9 aprile 2008, n. 81, per gli aspetti inerenti al rischio di esposizione alle radiazioni ionizzanti.».
+
 ## Art. 24. — Modifiche all'articolo 111 del decreto legislativo 31 luglio 2020, n. 101, relativo alla informazione e formazione dei lavoratori
+
+1.
+                        
+                            
+                                All'articolo 111 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 2, la parola «triennale» e' sostituita dalla seguente: «quinquennale»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        il comma 6 e' sostituito dal seguente: 
+ «6. La formazione di cui ai commi 2, 3, e 4 integra quella prevista dall'articolo 37, comma 1, del decreto legislativo 9 aprile 2008, n. 81, per gli aspetti inerenti al rischio di esposizione alle radiazioni ionizzanti.».
 
 ## Art. 25.
 
@@ -142,6 +454,28 @@ All'articolo 124 del decreto legislativo 31 luglio 2020, n. 101, il comma 12 e' 
  «12. Con decreto del Ministro dell'interno, di concerto con i Ministri del lavoro e delle politiche sociali,((della salute e dell'ambiente e della sicurezza energetica,)) sentito il Dipartimento della protezione civile sono stabilite le modalita' di esposizione dei lavoratori e del personale di intervento nelle situazioni di esposizione di emergenza.».
 
 ## Art. 27. — Modifiche all'articolo 129 del decreto legislativo 31 luglio 2020, n. 101, relativo all'abilitazione degli esperti di radioprotezione
+
+1.
+                        
+                            
+                                All'articolo 129 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 3, e' aggiunto, in fine, il seguente periodo: «L'abilitazione di terzo grado, di cui al comma 2, lettera d), comprende tutte le altre abilitazioni.»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 4: 
+ 1) la lettera b) e' sostituita dalla seguente: «b) previsione di una formazione post-universitaria corrispondente almeno al master di primo livello per il primo grado e almeno al master di secondo livello per il secondo grado, il terzo grado sanitario e il terzo grado ovvero ad una scuola di specializzazione per tutti i gradi, che contempli anche un tirocinio pratico della durata minima di 20, 40, 60 e 80 giorni lavorativi rispettivamente per il primo, il secondo, il terzo grado sanitario e il terzo grado;»; 
+ 2) la lettera d) e' sostituita dalla seguente: «d) aggiornamento professionale assicurato mediante corsi tenuti da universita', albi professionali, associazioni scientifiche o associazioni di categoria professionale che operano in ambito di radiazioni ionizzanti, della durata minima di 60 ore ogni tre anni o corrispondenti crediti formativi universitari;». 
+ 3) la lettera f) e' soppressa.
 
 ## Art. 28. — Modifiche all'articolo 130 del decreto legislativo 31 luglio 2020, n. 101, relativo alle attribuzioni dell'esperto di radioprotezione
 
@@ -161,6 +495,34 @@ All'articolo 136, commi 5, 6 e 8, del decreto legislativo 31 luglio 2020, n. 101
 
 ## Art. 32. — Modifiche all'articolo 138 del decreto legislativo 31 luglio 2020, n. 101, relativo all'elenco dei medici autorizzati
 
+1.
+                        
+                            
+                                All'articolo 138, comma 2, del decreto legislativo 31 luglio 2020, n. 101 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        la lettera b) e' sostituita dalla seguente: «b) previsione di una formazione post-universitaria corrispondente almeno al corso di perfezionamento universitario, con verifica dell'apprendimento, in materia di prevenzione dagli effetti delle radiazioni ionizzanti che comprenda una parte pratica corrispondente a 30 giorni lavorativi;»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        la lettera d) e' sostituita dalla seguente: «d) aggiornamento professionale, nell'ambito del programma di educazione continua in medicina (ECM) di cui all'Accordo 2 febbraio 2017, concluso ai sensi dell'articolo 4 del decreto legislativo 28 agosto 1997, n. 281, tra il Governo, le Regioni e le Province autonome di Trento e di Bolzano sul documento "La formazione continua nel settore salute" e pubblicato nella Gazzetta Ufficiale n. 274 del 23 novembre 2017, assicurato mediante corsi tenuti da istituti universitari, dagli Albi professionali dei medici o dalle associazioni scientifiche o di categoria dei medici autorizzati con la previsione della percentuale non inferiore al 30% dei crediti ECM previsti al comma 3 dell'articolo 38 del decreto legislativo 9 aprile 2008 n. 81 in materia di prevenzione dagli effetti delle esposizioni alle radiazioni ionizzanti;»;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        la lettera f) e' soppressa.
+
 ## - Capo VII Modifiche al titolo XII del decreto legislativo 31 luglio 2020, n. 101, relativo all'esposizione della popolazione
 
 ## Art. 33. — Modifiche all'articolo 151 del decreto legislativo 31 luglio 2020, n. 101, relativo alla protezione operativa degli individui della popolazione e agli obblighi degli esercenti
@@ -170,6 +532,37 @@ All'articolo 151, comma 7, del decreto legislativo 31 luglio 2020, n. 101, dopo 
 
 ## Art. 34. — Modifiche all'articolo 155 del decreto legislativo 31 luglio 2020, n. 101, relativo al riconoscimento dei servizi di dosimetria individuale e degli organismi di misura
 
+1.
+                        
+                            
+                                All'articolo 155 del decreto legislativo 31 luglio 2020, n. 101 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 2 la lettera c) e' sostituita dalla seguente: 
+ «c) i rilevamenti e la sorveglianza ambientali volti a verificare i livelli di smaltimento nell'ambiente dei rifiuti o dei residui, e il rispetto delle prescrizioni autorizzative relative allo smaltimento medesimo»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        i commi 3 e 4 sono sostituiti dai seguenti: 
+ «3. I soggetti che svolgono attivita' di servizio di dosimetria individuale e quelli di cui agli articoli 17, comma 6, 19, comma 4, e 22, comma 6, devono essere riconosciuti idonei, nell'ambito delle norme di buona tecnica, tenendo anche conto delle decisioni, delle raccomandazioni e degli orientamenti tecnici forniti dalla Commissione europea o da organismi internazionali. Nel procedimento di riconoscimento si tiene conto dei tipi di apparecchi di misura e delle metodiche impiegate. Con uno o piu' decreti del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro della salute, sentiti i Ministri dell'ambiente e della sicurezza energetica e dell'interno, nonche' l'ISIN, l'Istituto di metrologia primaria delle radiazioni ionizzanti e l'INAIL, sono disciplinate, nel rispetto dei requisiti minimi di cui al comma 3-bis e dell'allegato II, le modalita' per il riconoscimento dei soggetti che svolgono attivita' di servizio di dosimetria e il riconoscimento degli organismi di misura. Ai fini del riconoscimento e' acquisito il parere tecnico dell'ISIN e dell'INAIL. 
+ 3-bis. I servizi di dosimetria e gli organismi di misura riconosciuti idonei garantiscono i seguenti requisiti minimi: 
+ a) hanno una organizzazione conforme ai requisiti della norma tecnica UNI CEI EN ISO/IEC 17025 ovvero sono in possesso di un accreditamento in conformita' alla norma 17025 per il servizio di dosimetria; 
+ b) operano con personale tecnico dipendente o con rapporto esclusivo di collaborazione; 
+ c) garantiscono l'effettuazione di test di interlaboratorio per verificare la correttezza della misura dosimetrica e radiometrica; 
+ d) utilizzano un sistema di misurazione conforme allo stato della tecnica; 
+ e) assicurano la formazione e informazione e l'aggiornamento del personale addetto ai servizi di dosimetria; 
+ f) stipulano una polizza assicurativa a copertura delle attivita' oggetto del servizio di dosimetria o dell'organismo di misura. 
+ I decreti di cui al comma 3 indicano i titoli di studio e professionali per il personale del servizio di dosimetria o dell'organismo di misura, che deve essere in numero sufficiente per poter svolgere il servizio. 
+ 4. Nelle more dell'adozione dei decreti di cui al comma 3, i soggetti che svolgono il servizio di dosimetria assicurano il rispetto delle previsioni di cui al comma 3 dell'articolo 127, e sono attribuite le funzioni di servizio di dosimetria al laboratorio di difesa atomica del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, limitatamente ai servizi dedicati al personale operativo del Corpo nazionale dei vigili del fuoco e al Centro Interforze Studi per le Applicazioni Militari, limitatamente ai servizi dedicati all'Amministrazione della Difesa.»
+
 ## - Capo VIII Modifiche al titolo XIII del decreto legislativo 31 luglio 2020, n. 101, relativo alle esposizioni mediche
 
 ## Art. 35. — Modifiche all'articolo 158 del decreto legislativo 31 luglio 2020, n. 101, relativo all'applicazione del principio di ottimizzazione alle esposizioni mediche
@@ -178,6 +571,24 @@ All'articolo 158 del decreto legislativo 31 luglio 2020, n. 101, il comma 5 e' s
  «5. Il responsabile dell'impianto radiologico, ai fini dell'ottimizzazione dell'esecuzione degli esami in radiodiagnostica e medicina nucleare nonche' delle procedure di radiologia interventistica, garantisce che si tenga conto dei livelli diagnostici di riferimento, laddove disponibili, tenendo conto delle indicazioni pubblicate dall'Istituto Superiore di Sanita', e, in particolare, dei rapporti ISTISAN 17/33 "Livelli diagnostici di riferimento nazionali per la radiologia diagnostica e interventistica" e ISTISAN 22/20 "Livelli diagnostici di riferimento per la pratica nazionale di radiologia diagnostica e interventistica e di medicina nucleare diagnostica. Aggiornamento del Rapporto ISTISAN 17/33" e loro successivi aggiornamenti, nonche' della linea guida in allegato XXVI.».
 
 ## Art. 36. — Modifiche all'articolo 182 del decreto legislativo 31 luglio 2020, n. 101, relativo al piano nazionale di emergenza
+
+1.
+                        
+                            
+                                All'articolo 182 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «Ministero dell'interno» sono inserite le seguenti: «((, il Ministero dell'ambiente e della sicurezza energetica))»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, dopo le parole «dell'Istituto Superiore di Sanita'» sono inserite le seguenti: «((, del Ministero dell'ambiente e della sicurezza energetica,))».
 
 ## - Capo IX Modifiche al titolo XV del decreto legislativo 31 luglio 2020, n. 101, relativo a particolari situazioni di esposizione esistente
 
@@ -197,9 +608,50 @@ All'articolo 203 del decreto legislativo 31 luglio 2020, n. 101, il comma 2 e' s
 
 ## Art. 40. — Modifiche all'articolo 204 del decreto legislativo 31 luglio 2020, n. 101, relativo al rinvenimento di materiale radioattivo
 
+1.
+                        
+                            
+                                All'articolo 204 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        al comma 2, primo periodo, le parole «comma 4» sono sostituite dalle seguenti: «comma 3» e le parole «nell'Allegato I» sono sostituite dalle seguenti: «nella Tabella I-1A dell'Allegato I»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        al comma 3, le parole «comma 4» sono sostituite dalle seguenti: «comma 3».
+
 ## - Capo X Modifiche al titolo XVI del decreto legislativo 31 luglio 2020, n. 101, relativo all'apparato sanzionatorio
 
 ## Art. 41. — Modifiche all'articolo 205 del decreto legislativo 31 luglio 2020, n. 101, riguardante le sanzioni penali relative al Titolo IV
+
+1.
+                        
+                            
+                                All'articolo 205 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        il comma 1 e' sostituito dal seguente: «1. L'esercente che non effettua con le modalita' e scadenze indicate le misurazioni e le valutazioni di cui agli art. 17, commi 1, 1-bis, 2 e 3, e articolo 22, commi 1, 2 e 3, e' punito con l'arresto da uno a sei mesi o con l'ammenda da euro 2.000,00 ad euro 15.000,00.»
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        il comma 6 e' sostituito dal seguente: «6. L'omissione della notifica prevista dall'articolo 24 e' punita con l'arresto da sei mesi ad un anno o con l'ammenda da euro 5.000.00 ad euro 30.000,00.
+L'inottemperanza alle prescrizioni date dall'amministrazione competente e' punita con l'arresto da uno a tre mesi o con l'ammenda da euro 1.500,00 ad euro 5.000,00.».
 
 ## Art. 42. — Modifiche all'articolo 208 del decreto legislativo 31 luglio 2020, n. 101, riguardante le sanzioni penali relative al Titolo VII
 
@@ -232,6 +684,26 @@ All'articolo 233, comma 1, del decreto legislativo 31 luglio 2020, n. 101, le pa
 All'articolo 234, comma 4, del decreto legislativo 31 luglio 2020, n. 101, le parole: «e in corso di esercizio alle Amministrazioni procedenti, secondo le previsioni di cui all'articolo 151» sono sostituite dalle seguenti: «e in corso di esercizio secondo le previsioni di cui all'articolo 151, e a comunicare le eventuali variazioni alle Amministrazioni di cui all'articolo 46, comma 2».
 
 ## Art. 49. — Modifiche all'articolo 235 del decreto legislativo 31 luglio 2020, n. 101, relativo a provvedimenti autorizzativi di cui al Titolo VII
+
+1.
+                        
+                            
+                                All'articolo 235 del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        il comma 5 e' abrogato:
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        la rubrica e' sostituita dalla seguente: «Provvedimenti autorizzativi diversi da quelli di cui al Titolo IX».
 
 ## - Capo XII Modifiche agli allegati del decreto legislativo 31 luglio 2020, n. 101
 
@@ -839,15 +1311,288 @@ considerato (Bq/g);
 
 ## Art. 51. — Modifiche all'allegato II del decreto legislativo 31 luglio 2020, n. 101
 
+1.
+                        
+                            
+                                All'Allegato II del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla Sezione I - esposizione al radon: 
+ 1) al paragrafo 2, la lettera a) e' sostituita dalla seguente: «abilitazione professionale per lo svolgimento di attivita' di 
+progettazione di opere edili;»; 
+ 2) al paragrafo 2, la lettera b) e' sostituita dalla seguente:
+«b) partecipazione a corsi di formazione dedicati, della durata di 60 ore, organizzati da enti pubblici, universita', ordini professionali, su progettazione, attuazione, gestione e controllo degli interventi correttivi per la riduzione della concentrazione di attivita' di radon negli edifici. Tali corsi devono prevedere una verifica della formazione acquisita. Gli esperti in interventi di risanamento radon devono inoltre partecipare a corsi di aggiornamento, organizzati dai medesimi soggetti e di pari contenuto, da effettuarsi con cadenza triennale, della durata minima di 4 ore che possono essere ricompresi all'interno delle normali attivita' di aggiornamento professionale;»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la Sezione II e' sostituita dalla seguente: 
+«Sezione II: Pratiche che comportano l'impiego di materiali contenenti radionuclidi di origine 
+1. Elenco dei settori industriali di cui all'articolo 20 
+ L'elenco dei settori industriali e delle relative classi o tipi di pratiche o scenari critici di esposizione che comportano l'impiego di materiali contenenti radionuclidi di origine naturale, compresa la ricerca e i processi secondari pertinenti, di cui all'articolo 20 e' riportato nella tabella II-1. 
+2. Livelli di esenzione in termini di concentrazione di attivita' di cui all'articolo 22 
+ 1) I livelli di esenzione in termini di concentrazione di attivita' per unita' di massa (kBq/kg) per i materiali solidi contenenti radionuclidi di origine naturale in equilibrio secolare con i loro prodotti di decadimento sono riportati nella tabella II-2. I livelli si applicano a tutti i radionuclidi della catena di decadimento 
+dell'U-238 e del Th-232. 
+ 2) Nel caso di equilibrio secolare i valori della Tabella II-2 del presente allegato si applicano singolarmente a ogni nuclide capostipite. Per il Po-210 o Pb-210 si utilizza il valore di 5 kBq kg-1 . Nel caso di assenza di equilibrio secolare si dovra' tenere 
+conto delle direttive, delle raccomandazioni e degli orientamenti 
+tecnici forniti dall'Unione europea. 
+ 3) Per i fanghi umidi petroliferi si adottano valori di esenzione 5 volte superiori a quelli della tabella II-2 e 100 kBq kg-1 per U-nat, 
+Th-230, Th-232, Po-210 o Pb-210 e 10 kBq/kg per Ra-228; 
+ 4) I residui devono rispettare i criteri di allontanamento di cui al paragrafo 4. 
+3. Livelli di esenzione in termini di dose efficace 
+ Sono fissati i seguenti livelli di esenzione: 
+ 1) Il livello di esenzione in termini di dose efficace per i 
+lavoratori e' fissato in 1 mSv a-1 . 
+ 2) Il livello di esenzione in termini di dose efficace per 
+l'individuo rappresentativo e' 0,3 mSv a-1 . 
+4. Criteri, modalita' e livelli allontanamento 
+ 1) I livelli di allontanamento in termini di concentrazione di attivita' per unita' di massa (kBq/kg) per i materiali solidi contenenti radionuclidi di origine naturale in equilibrio secolare con i loro prodotti di decadimento sono riportati nella tabella II-2. 
+I livelli si applicano a tutti i radionuclidi della catena di 
+decadimento dell'U-238 e del Th-232. 
+ 2) Nel caso di equilibrio secolare i valori della Tabella II-2 del presente allegato si applicano singolarmente a ogni nuclide capostipite. Per il Po-210 o Pb-210 si utilizza il valore di 5 kBq kg-1 . Nel caso di assenza di equilibrio secolare si dovra' tenere 
+conto delle direttive, delle raccomandazioni e degli orientamenti 
+tecnici forniti dall'Unione europea. 
+ 3) Per i fanghi petroliferi umidi si adottano valori 5 volte superiori a quelli della tabella II-2 e 100 kBq/kg per U-nat, Th-230, 
+Th-232, Po-210 o Pb-210 e 10 kBq/kg per Ra-228. 
+ 4) I valori dei livelli di allontanamento per i residui destinati ad essere smaltiti in discarica o riutilizzati per la costruzione di strade sono, per tutti i radionuclidi, il 50% dei valori di allontanamento di cui ai punti 1), 2), 3) del presente paragrafo.
+Residui con valori di concentrazione di attivita' superiori possono essere smaltiti in discarica o riutilizzati per la costruzione di strade se viene dimostrato che la dose efficace per l'individuo rappresentativo e' inferiore al valore riportato nel paragrafo 3, 
+punto 2). 
+ 5) Nel caso in cui i residui siano destinati all'incenerimento l'esercente e' sempre tenuto a dimostrare che sia rispettato il livello di dose efficace per l'individuo rappresentativo di cui al paragrafo 3 punto 2), indipendentemente dal valore della concentrazione di attivita' di massa presente nei residui da 
+smaltire. 
+ 6) Nel caso di smaltimento nell'ambiente di residui ed effluenti che impattano potenzialmente su fonti di acqua potabile si deve dimostrare che la dose efficace agli individui della 
+popolazione e' inferiore a 0,1 mSv/a. 
+ 7) L'allontanamento di effluenti e di residui, ove i residui presentino valori di concentrazione di attivita' superiori ai livelli di livelli di allontanamento di cui ai punti 1, 2, 3 del presente paragrafo, puo' essere effettuato se viene rispettato il livello di dose efficace per l'individuo rappresentativo di cui al paragrafo 3, punto 2). 
+ 8) In relazione a particolari situazioni o destinazioni dei materiali oggetto dell'allontanamento, le autorita' competenti possono stabilire per i livelli di allontanamento in concentrazione di massa, per materiali specifici o per destinazioni specifiche, valori superiori a quelli riportati nella Tabella II-2 richiedendo la dimostrazione che, in tutte le possibili situazioni prevedibili, l'allontanamento avvenga nel rispetto il livello di dose efficace per l'individuo rappresentativo di cui al paragrafo 3, punto 2, tenuto 
+conto del contributo derivante da tutte le fonti di esposizione. 
+ 9) I valori di cui alla Tabella II-2 non possono essere usati per esonerare l'incorporazione nei materiali da costruzione di residui 
+provenienti dalle attivita' lavorative di cui all'articolo 22. 
+ c) dopo la Sezione II sono aggiunte le seguenti: 
+Sezione II-bis: attivita' lavorative che comportano l'esposizione all'attivita' cosmica 
+1. Attivita' lavorative di cui all'articolo 28 
+ Le attivita' lavorative che possono comportare per il personale navigante esposizioni significative alle radiazioni ionizzanti e una dose efficace superiore a 1 mSv per anno solare sono quelle relative a voli effettuati a quote non inferiori a 8.000 metri. 
+2. Modalita' di valutazione della dose efficace di cui all'articolo 27, comma 1 lettera a) 
+ Nel caso in cui vengano effettuati voli a quote inferiori a 15.000 metri, la valutazione della dose ricevuta dal personale navigante e' effettuata mediante appositi codici di calcolo, accettati a livello internazionale e validati da misure su aeromobili in volo su almeno due rotte di lungo raggio a latitudini diverse. 
+ Nel caso in cui vengano, di regola, effettuati voli a quote uguali o superiori a 15.000 metri, la valutazione della dose efficace ricevuta dal personale navigante e' eseguita oltre che avvalendosi dei suindicati codici di calcolo, mediante dispositivi di misura attivi in grado di rivelare variazioni significative di breve durata dei livelli di radiazioni ionizzanti dovuti ad attivita' solare. 
+Sezione II-ter: radiazioni gamma emesse da materiali da costruzione 1. Livello di riferimento di cui all'articolo 29, comma 1 
+ Il livello di riferimento applicabile all'esposizione esterna in ambienti chiusi alle radiazioni gamma emesse da materiali da costruzione, in aggiunta all'esposizione esterna all'aperto, e' 
+fissato in 1 mSv a-1 . 
+2. Elenco dei materiali da costruzione di cui dell'articolo 29, comma 
+2 
+ I. Materiali naturali: 
+ a) Alum-shale; 
+ b) Materiali da costruzione o additivi di origine naturale ignea tra cui: 
+ granitoidi (quali graniti, sienite e ortogneiss); 
+ porfidi; 
+ tufo; 
+ pozzolana; 
+ lava; 
+ derivati delle sabbie zirconifere. 
+ II. Materiali che incorporano residui dalle industrie che lavorano materiali radioattivi naturali tra cui: 
+ ceneri volanti; 
+ fosfogesso; 
+ scorie di fosforo; 
+ scorie di stagno; 
+ scorie di rame; 
+ fanghi rossi (residui della produzione dell'alluminio); 
+ residui della produzione di acciaio. 
+3. Radionuclidi per cui devono essere misurate le concentrazioni di attivita' di cui all'articolo 29, comma 3 lettera a) 
+ I radionuclidi da sottoporre a misurazione sono: Ra-226, Th-232 (o il suo prodotto di decadimento Ra-228) e K-40. 
+4. Indice di concentrazione di attivita' di cui all'articolo 29, 
+comma 3 lettera a) 
+ L'indice di concentrazione di attivita' I e' dato dalla seguente 
+formula: 
+ I = CRa-226 /(300) + CTh-232 /(200)+ CK-40 /(3000) 
+ dove CRa226 , CTh232 e CK40 sono le concentrazioni di attivita' in Bq kg-1 dei corrispondenti radionuclidi nel materiale da costruzione. 
+ L'indice si riferisce alla dose da radiazioni gamma presente in un edificio costruito con un determinato materiale da costruzione, in eccesso rispetto all'esposizione esterna tipica. L'indice si applica al materiale da costruzione e non ai suoi componenti, tranne nei casi in cui tali componenti sono anch'essi materiali da costruzione e in quanto tali sono valutati separatamente. Per l'applicazione dell'indice a tali componenti, in particolare ai residui delle industrie che lavorano materiali contenenti radionuclidi presenti in natura riciclati nei materiali da costruzione, deve essere utilizzato 
+un fattore di suddivisione appropriato. 
+5. Valore dell'indice di concentrazione di attivita' di cui 
+all'articolo 29 
+ Il valore dell'indice di concentrazione di attivita' pari a 1 puo' essere utilizzato come uno strumento di screening per individuare materiali che possono portare al superamento del livello di 
+riferimento di cui all'articolo 29, comma 1. 
+6. Indicazioni sulla valutazione della dose di cui all'articolo 29, comma 5 
+ Ai fini della valutazione della dose, si applicano metodi di stima della dose previsti da standard nazionali e internazionali che tengano conto di altri fattori, tra cui la densita', lo spessore del materiale, nonche' fattori relativi al tipo di edificio e all'uso 
+previsto del materiale (strutturale o superficiali); 
+ d) alla Tabella II-1 sono apportate le seguenti modificazioni: 
+ 1) nell'intestazione della seconda colonna, dopo le parole «Classi o tipi di pratiche» sono aggiunte le seguenti: «o scenari 
+critici di esposizione»; 
+ 2) la riga 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Impianti per la filtrazione delle acque di falda 
+                                            
+                                            
+                                                 gestione e manutenzione dell'impianto 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ e' sostituita dalla seguente: 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Industrie dotate di impianti per la filtrazione delle acque di falda 
+                                            
+                                            
+                                                   gestione e manutenzione dell'impianto 
+                                            
+                                        
+                                    
+                                    
+    
+ 
+ 3) e' soppressa la riga: 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                 Cartiere 
+                                            
+                                            
+                                                 manutenzione delle tubazioni
+
 ## Art. 52. — Modifiche all'allegato III del decreto legislativo 31 luglio 2020, n. 101, relativo agli elementi da prendere in considerazione per il Piano nazionale d'azione per il radon concernente i rischi di lungo termine dovuti all'esposizione al radon
 
 All'allegato III, del decreto legislativo 31 luglio 2020, n. 101, al paragrafo 12, dopo le parole: «dei servizi di dosimetria e degli» la parola «servizi» e' soppressa.
 
 ## Art. 53. — Modifiche all'allegato VI del decreto legislativo 31 luglio 2020, n. 101, relativo alla classificazione dei residui
 
+1.
+                        
+                            
+                                All'allegato VI del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la prima parte e' sostituita dalla seguente: 
+Sezione I - Classificazione dei residui 
+ I residui derivanti dalle pratiche di cui all'articolo 20 sono classificati ai sensi degli articoli 25 e 26. 
+ Tabella 
+ 
+ 
+ 
+                                    
+                                        
+                                            
+                                                Classi 
+                                            
+                                            
+                                                Requisiti 
+                                            
+                                            
+                                                Destinazione finale 
+                                            
+                                        
+                                        
+                                            
+                                                   Residui esenti 
+                                            
+                                            
+                                                Rispetto dei criteri, delle modalita' e dei valori di allontanamento definiti nell'allegato II, sezione II, paragrafo 4 
+                                            
+                                            
+                                                 Rispetto delle disposizioni del decreto legislativo 3 aprile 2006, n. 152 
+                                            
+                                        
+                                        
+                                            
+                                                        Residui non esenti 
+                                            
+                                            
+                                                       Valori maggiori di quelli previsti per i residui esenti 
+                                            
+                                            
+                                                Rispetto delle disposizioni del decreto legislativo 3 aprile 2006, n. 152, parte IV, in discariche autorizzate ai sensi del decreto legislativo 13 gennaio 2003, n. 36, con autorizzazione rilasciata ai sensi dell'articolo 26 
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    la seconda parte e' cosi' ridenominata: «Sezione II - Requisiti discariche per residui non esenti» e ai punti 6), 7) e 8) la parola «rifiuti» e' sostituita con la seguente: «residui».
+
 ## Art. 54. — Modifiche all'allegato VIII del decreto legislativo 31 luglio 2020, n. 101, relativo all' istanza di autorizzazione e al registro delle operazioni commerciali
 
+1.
+                        
+                            
+                                All'allegato VIII del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al paragrafo 1.6 la numerazione «1.6 a)» e' sostituita dalla seguente: «1.5 a)» e la numerazione: «1.2» e' sostituita dalla seguente: «1.1»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al paragrafo 1.9 la numerazione: «1.9» e' sostituita dalla seguente: «1.8»;
+
 ## Art. 55. — Modifiche all'allegato IX del decreto legislativo 31 luglio 2020, n. 101, relativo alla importazione e produzione a fini commerciali di sorgenti di radiazioni ionizzanti
+
+1.
+                        
+                            
+                                All'allegato IX, del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al paragrafo 1, nell'intestazione la parola «obblico» e' sostituita dalla seguente: «obbligo» e la numerazione 1., 2., 3. e' sostituita dalla seguente: 1.1, 1.2 e 1.3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al paragrafo 3.1.2, lettera a), le parole «con la scritta ben visibile "Materiale radioattivo"» sono soppresse; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al paragrafo 4.1, le parole «almeno trenta giorni prima dell'inizio della detenzione, alle amministrazioni ed agli organismi tecnici di cui al comma 2 dell'articolo 46» sono sostituite dalle seguenti: «secondo le modalita' previste dall'articolo 46»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al paragrafo 6.2 la lettera b) e' soppressa; 
+ f) al paragrafo 6.3 la parola: «contenete» e' sostituita dalla seguente: «contenente» e le lettere a), a),
+                                
+                            
+                            
+                                e)
+                                
+                                    e c) sono sostituite dalle seguenti: a), b), c) e d); 
+ g) al paragrafo 6.10 le parole «comma 2» sono sostituite dalle seguenti: «comma 3»; 
+ h) al paragrafo 6.11 la parola «inoltrarne» e' sostituita dalle seguenti: «di inoltrare».
 
 ## Art. 56.
 
@@ -920,6 +1665,63 @@ All'allegato XVI del decreto legislativo 31 luglio 2020, n. 101, al paragrafo 9.
 
 Modifiche all'allegato XVII del decreto legislativo 31 luglio 2020, n.101, relativo ai punti di contatto per le comunicazioni con le autorita' competenti degli altri Stati membri
 
+1.
+                        
+                            
+                                All'allegato XVII del decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le parole: 
+ «1. Ministero dello sviluppo economico 
+ Direzione Generale per l'Approvvigionamento l'Efficienza e la Competitivita' Energetica 
+ Via Veneto, 33 - 00187 Roma 
+ Tel.: (+39) 06 4705 2796 
+ E-mail: dgsaie.dg@pec.mise.gov.it» 
+ sono sostituite dalle seguenti: 
+ «1. Ministero dell'ambiente e della sicurezza energetica 
+ Direzione Generale competitivita' ed efficienza energetica 
+ Via Veneto 33 - 00187 Roma 
+ Tel.: (+39) 06 4705 2796 
+ E-mail: cee@pec.mite.gov.it» 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole: 
+ «2. Ministero del lavoro e delle politiche sociali 
+ Direzione generale dei rapporti di lavoro e delle relazioni industriali 
+ Via Fornovo, 8 - 00192 Roma 
+ Tel.: (+39) 0646834200 
+ E-mail:dgrapportilavoro@lavoro.gov.it» 
+ sono sostituite dalle seguenti: 
+ «2. Ministero del lavoro e delle politiche sociali 
+ Direzione Generale per la salute e sicurezza nei luoghi di lavoro 
+ Via Flavia 6 - 00187 Roma 
+ Tel.: (+39) 0646835600 
+ E-mail:dgsalutesicurezza@lavoro.gov.it» 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le parole: 
+ «3. Ministero dell'ambiente e della tutela del territorio e del mare 
+ Direzione generale per la crescita sostenibile e la qualita' dello sviluppo (DG CreSS) 
+ Via Cristoforo Colombo 44 - 00147 Roma 
+ Pec pec.minambiente.it» 
+ sono sostituite dalle seguenti: 
+ «3. Ministero dell'ambiente e della sicurezza energetica 
+ Direzione generale valutazioni ambientali 
+ Via Cristoforo Colombo 44 - 00147 Roma 
+ Tel.: (+39) 06 57228101 
+ E-mail: va@pec.mite.gov.it»
+
 ## Art. 61.
 
 Modifiche all'allegato XVIII del decreto legislativo 31 luglio 2020, n. 101 riguardante le modalita' di registrazione e le informazioni da trasmettere all'ISIN, relative alle sorgenti sigillate ad alta attivita' 
@@ -943,6 +1745,46 @@ Modifiche all'allegato XIX del decreto legislativo 31 luglio 2020, n. 101, relat
  Parte di provvedimento in formato grafico
 
 ## Art. 63. — Modifiche all'allegato XXII del decreto legislativo 31 luglio 2020, n. 101, relativo alla determinazione dei criteri per l'adozione della sorveglianza fisica
+
+1.
+                        
+                            
+                                All'Allegato XXII del decreto legislativo 31 luglio 2020, n. 101 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al paragrafo 1., le parole «2.2» sono sostituite dalle seguenti: «1.2»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al punto 4.1, lettera a), le parole «paragrafo 7» sono sostituite dalle seguenti: «paragrafo 6»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al punto 5.3, dopo le parole «soltanto lavoratori scelti» sono inserite le seguenti: «, su base volontaria,»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    al punto 5.6, dopo la lettera d) e' aggiunta la seguente:
+«d-bis) consenso del lavoratore.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al punto 5.7, e' aggiunto infine il seguente periodo: «Il superamento dei limiti di dose in conseguenza di esposizioni soggette ad autorizzazione speciale non costituisce necessariamente un motivo di esclusione dall'abituale attivita' di lavoro del lavoratore o di trasferimento, senza il consenso del lavoratore interessato.»
 
 ## Art. 64.
 
@@ -974,6 +1816,31 @@ Modifiche all'allegato XXIV del decreto legislativo 31 luglio 2020, n. 101, rela
  f) al punto 8.1 la lettera a) e' sostituita dalla seguente: «a) alle esposizioni ricevute in situazioni di emergenza e durante l'attuazione di misure correttive e protettive, fermo restando quanto disposto nell'articolo 202, comma 4, per i lavoratori nel caso di situazioni di esposizioni esistenti;».
 
 ## Art. 66. — Modifiche all'allegato XXV del decreto legislativo 31 luglio 2020, n. 101, relativo a procedure di giustificazione e relativi vincoli di dose e ottimizzazione per coloro che assistono e confortano persone sottoposte ad esposizioni mediche
+
+1.
+                        
+                            
+                                All'allegato XXV del decreto legislativo 31 luglio 2020, n. 101 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alla parte I, al paragrafo 3, le parole le parole «mSv/trattamento» sono sostituite dalle parole «mSv per ogni ciclo di trattamento»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le parole «Parte II - Ottimizzazione (articolo 158, comma 7)» sono sostituite dalle seguenti: «Parte II - Ottimizzazione (articolo 158, comma 9)»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alla parte II, al paragrafo 8, dopo le parole «3 e 4» sono aggiunte le seguenti: «nel rispetto del principio di ottimizzazione».
 
 ## Art. 67. — Modifiche all'allegato XXVI del decreto legislativo 31 luglio 2020, n. 101, relativo ai livelli diagnostici di riferimento
 
@@ -1054,6 +1921,46 @@ All'articolo 29-sexies del decreto legislativo del 3 aprile 2006, n. 152, dopo i
 ## - Capo XV Disposizioni finali
 
 ## Art. 73. — Norme di coordinamento
+
+1.
+                        
+                            
+                                Al decreto legislativo 31 luglio 2020, n. 101, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    
+                                        ovunque ricorra, la parola: «EURATOM» e' sostituita dalla seguente: «Euratom»;
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ovunque ricorrano, le parole: «
+                                                Direttiva 59/2013/Euratom
+                                            » sono sostituite delle seguenti: «
+                                                Direttiva 2013/59/Euratom
+                                            »;
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ovunque ricorrano, le parole: «uranio 235», «uranio 233» e «plutonio 239» sono sostituite, rispettivamente, dalle seguenti: «uranio-235», «uranio-233» e «plutonio-239»;
+                                    
+                                
+                            
+                            
+                                d)
+                                
+                                    
+                                        all'articolo 108, alla rubrica, le parole «(decreto legislativo 9 aprile 2008, n. 8, articolo 16)» sono sostituite dalle seguenti: «(decreto legislativo 9 aprile 2008, n. 81, articolo 16)».
 
 ## Art. 74. — Clausola di invarianza finanziaria
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2026-06-20
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:15Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -260,6 +260,25 @@ I comuni informano ((, mediante notificazione,)) i cittadini e i soggetti di cui
 Le dichiarazioni di cui al comma 1 possono essere rese anche dai cittadini di eta' compresa tra i quattordici e i diciotto anni e sono immediatamente efficaci.
 
 Le dichiarazioni di appartenenza o di aggregazione ad uno dei tre gruppi linguistici producono identici effetti giuridici e sono provate dal foglio A/1. Le dichiarazioni attestano l'appartenenza o l'aggregazione a tutti gli effetti di legge. Le dichiarazioni di appartenenza o di aggregazione necessarie ai fini della partecipazione alle elezioni comunali o provinciali nel territorio della Provincia di Bolzano sono rese secondo le modalita' stabilite dalla legge regionale o provinciale.
+
+7-bis.
+                        
+                            
+                                Le dichiarazioni di cui al presente articolo possono essere altresi' rese, con le medesime modalita' ed effetti, presso la sede principale del tribunale di Bolzano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dai cittadini anche di altro Stato dell'Unione europea e dai loro familiari non aventi la cittadinanza di uno Stato membro che siano titolari del diritto di soggiorno o del diritto di soggiorno permanente, anche se non residenti nella provincia di Bolzano; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dai cittadini di Paesi terzi che siano titolari del permesso di soggiorno UE per soggiornanti di lungo periodo o che siano titolari dello status di rifugiato ovvero dello status di protezione sussidiaria anche se non residenti nella provincia di Bolzano. 
+ La prima dichiarazione resa dai soggetti di cui al presente comma spiega effetto immediato, salvo quanto disposto dal comma 5.
 
 ## Art. 21.
 

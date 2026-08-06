@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-10-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:28Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,6 +34,115 @@ Il presente decreto si applica alla cogenerazione come definita all'articolo 2 e
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                cogenerazione: la generazione simultanea in un unico processo di energia termica ed elettrica o di energia termica e meccanica o di energia termica, elettrica e meccanica;
+
+                            
+                        
+                        
+                            b)
+                            
+                                unita' di cogenerazione ovvero sezione di impianto di produzione combinata di energia elettrica e calore: un'unita' che puo' operare in cogenerazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                produzione mediante cogenerazione: la somma dell'elettricita', dell'energia meccanica e del calore utile prodotti mediante cogenerazione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                unita' di piccola cogenerazione: un'unita' di cogenerazione con una capacita' di generazione installata inferiore a 1 MWe;
+
+                            
+                        
+                        
+                            e)
+                            
+                                unita' di microcogenerazione: un'unita' di cogenerazione con una capacita' di generazione massima inferiore a 50 kWe;
+
+                            
+                        
+                        
+                            f)
+                            
+                                calore utile: il calore prodotto in un processo di cogenerazione per soddisfare una domanda economicamente giustificabile di calore o di raffreddamento;
+
+                            
+                        
+                        
+                            g)
+                            
+                                domanda economicamente giustificabile: una domanda non superiore al fabbisogno di calore o di raffreddamento e che sarebbe altrimenti soddisfatta a condizioni di mercato mediante processi di generazione di energia diversi dalla cogenerazione;
+
+                            
+                        
+                        
+                            h)
+                            
+                                elettricita' da cogenerazione: l'elettricita' generata in un processo abbinato alla produzione di calore utile e calcolata secondo la metodologia riportata nell'allegato II;
+
+                            
+                        
+                        
+                            i)
+                            
+                                elettricita' di riserva: l'elettricita' fornita dalla rete elettrica esterna in caso di interruzione o perturbazione del processo di cogenerazione, compresi i periodi di manutenzione;
+
+                            
+                        
+                        
+                            l)
+                            
+                                elettricita' di integrazione: l'energia elettrica richiesta alla rete elettrica esterna quando la domanda di elettricita' dell'utenza alimentata dall'impianto di cogenerazione e' superiore alla produzione elettrica del processo di cogenerazione;
+
+                            
+                        
+                        
+                            m)
+                            
+                                rendimento complessivo: la somma annua della produzione di elettricita', di energia meccanica e di calore utile divisa per l'energia contenuta nel combustibile di alimentazione usato per il calore prodotto in un processo di cogenerazione e per la produzione lorda di elettricita' e di energia meccanica;
+
+                            
+                        
+                        
+                            n)
+                            
+                                rendimento: e' il rendimento calcolato sulla base del potere calorifico inferiore dei combustibili;
+
+                            
+                        
+                        
+                            o)
+                            
+                                cogenerazione ad alto rendimento: la cogenerazione con caratteristiche conformi ai criteri indicati nell'allegato III;
+
+                            
+                        
+                        
+                            p)
+                            
+                                valore di rendimento di riferimento per la produzione separata: il rendimento delle produzioni separate alternative di calore e di elettricita' che il processo di cogenerazione e' destinato a sostituire;
+
+                            
+                        
+                        
+                            q)
+                            
+                                rapporto energia/calore: il rapporto tra elettricita' da cogenerazione e calore utile durante il funzionamento in pieno regime di cogenerazione, usando dati operativi dell'unita' specifica.
+
 Ad integrazione delle definizioni di cui al comma 1 si applicano le definizioni di cui al decreto legislativo 16 marzo 1999, n. 79, e successive modificazioni, e al decreto legislativo 29 dicembre 2003, n. 387, e successive modificazioni.
 
 ## Art. 3. — Metodi alternativi
@@ -50,6 +159,66 @@ Il Gestore dei servizi elettrici - GSE S.p.A. e' il soggetto designato, ai sensi
 
 La garanzia di origine puo' essere rilasciata solo qualora l'elettricita' annua prodotta da cogenerazione ad alto rendimento sia non inferiore a 50 MWh, arrotondata con criterio commerciale.
 
+4.
+                    
+                        
+                            La garanzia di origine specifica:
+ 
+                        
+                        
+                            a)
+                            
+                                l'ubicazione dell'impianto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la tecnologia utilizzata;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il combustibile da cui e' stata prodotta l'elettricita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                la quantita' di combustibile utilizzato mensilmente;
+
+                            
+                        
+                        
+                            e)
+                            
+                                la corrispondente produzione netta mensile di energia elettrica da cogenerazione ad alto rendimento, conformemente all'allegato II, che la garanzia di origine rappresenta;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il potere calorifico inferiore del combustibile da cui e' stata prodotta l'elettricita';
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'uso del calore generato insieme all'elettricita';
+
+                            
+                        
+                        
+                            h)
+                            
+                                il risparmio di energia primaria, calcolato secondo l'allegato III.
+
 La garanzia di origine e' utilizzabile dai produttori ai quali e' rilasciata affinche' essi possano dimostrare che l'elettricita' da essi venduta e' prodotta da cogenerazione ad alto rendimento ai sensi del presente decreto.
 
 Fatte salve le disposizioni del decreto legislativo 30 giugno 2003, n. 196, il Gestore dei servizi elettrici - GSE S.p.A., istituisce un sistema informatico ad accesso controllato, anche al fine di consentire la verifica dei dati contenuti nella garanzia di origine.
@@ -64,11 +233,96 @@ La garanzia di origine rilasciata in altri Stati membri dell'Unione europea a se
 
 Entro dodici mesi dalla data di entrata in vigore del presente decreto il Gestore dei servizi elettrici - GSE S.p.A., predispone e trasmette al Ministero dello sviluppo economico, al Ministero dell'ambiente e della tutela del territorio e del mare, al Ministero delle politiche agricole alimentari e forestali, alla Conferenza unificata e all'Autorita' per l'energia elettrica e il gas un rapporto contenente un'analisi del potenziale nazionale per la realizzazione della cogenerazione ad alto rendimento, evidenziando separatamente il potenziale della piccola cogenerazione e della microcogenerazione anche con riguardo al calore destinato alle serre.
 
+2.
+                    
+                        
+                            Il rapporto di cui al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                contiene dati tecnici documentati in modo conforme ai criteri elencati nell'allegato IV;
+
+                            
+                        
+                        
+                            b)
+                            
+                                individua per ogni regione e provincia autonoma il potenziale di domanda di raffreddamento e di riscaldamento utile che si presta all'applicazione della cogenerazione ad alto rendimento, nonche' la disponibilita' di combustibili e di altre fonti energetiche da utilizzare per la cogenerazione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                analizza distintamente gli ostacoli che impediscono la realizzazione del potenziale nazionale di cogenerazione ad alto rendimento, con particolare riguardo agli ostacoli relativi ai prezzi e ai costi dei combustibili e all'accesso ai medesimi, alle questioni attinenti alle reti, alle procedure amministrative e alla mancata internalizzazione dei costi esterni nei prezzi dell'energia.
+
 ## Art. 6. — Regime di sostegno alla cogenerazione ad alto rendimento
 
 Al fine di assicurare che il sostegno alla cogenerazione sia basato sulla domanda di calore utile e simultaneamente sui risparmi di energia primaria, alla cogenerazione ad alto rendimento si applicano le disposizioni di cui agli articoli 3, comma 3, 4, comma 2, 11, commi 2 e 4, del decreto legislativo 16 marzo 1999, n. 79. La cogenerazione ad alto rendimento accede ai benefici derivanti dall'applicazione dei provvedimenti attuativi dell'articolo 9, comma 1, del decreto legislativo n. 79 del 1999 e dell'articolo 16, comma 4, del decreto legislativo 23 maggio 2000, n. 164.
 
 Le disposizioni di cui al comma 1 si applicano anche alla cogenerazione abbinata al teleriscal-damento.
+
+3.
+                    
+                        
+                            Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, sentito il Ministro delle politiche agricole alimentari e forestali e d'intesa con la Conferenza unificata, adottato entro sei mesi dalla data di entrata in vigore del presente decreto, sono stabiliti i criteri per l'incentivazione della cogenerazione ad alto rendimento, nell'ambito dei provvedimenti di cui al comma 1. Detti criteri tengono conto di:
+ 
+                        
+                        
+                            a)
+                            
+                                potenza elettrica dell'impianto;
+
+                            
+                        
+                        
+                            b)
+                            
+                                rendimento complessivo dell'impianto;
+
+                            
+                        
+                        
+                            c)
+                            
+                                calore utile;
+
+                            
+                        
+                        
+                            d)
+                            
+                                aspetti innovativi dell'impianto e delle modalita' d'uso del calore utile, in particolare ai fini dell'impiego in teleriscaldamento e per la trigenerazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                specificita' dell'impiego in agricoltura per il riscaldamento delle serre destinate alla produzione floricola ed orticola;
+
+                            
+                        
+                        
+                            f)
+                            
+                                risparmio energetico conseguito e relativa persistenza nel tempo;
+
+                            
+                        
+                        
+                            g)
+                            
+                                tipologia di combustibile impiegato;
+
+                            
+                        
+                        
+                            h)
+                            
+                                emissioni inquinanti e climalteranti.
 
 Il decreto di cui al comma 3 prevede l'estensione graduale del diritto di accesso ai benefici di cui al comma 1, secondo periodo, anche a soggetti diversi da quelli previsti dalla vigente disciplina.
 
@@ -79,6 +333,59 @@ Entro sei mesi dalla data di entrata in vigore del presente decreto, l'Autorita'
 ## Art. 7. — Questioni attinenti alla rete di elettricita' e alle tariffe
 
 Entro tre mesi dalla data di entrata in vigore del presente decreto, l'Autorita' per l'energia elettrica e il gas definisce le condizioni tecniche ed economiche per la connessione delle unita' di cogenerazione ad alto rendimento alle reti elettriche i cui gestori hanno obbligo di connessione di terzi.
+
+2.
+                    
+                        
+                            I provvedimenti di cui al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                prevedono la pubblicazione, da parte dei gestori di rete, degli standard tecnici per la realizzazione degli impianti di utenza e di rete per la connessione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                fissano procedure, tempi e criteri per la determinazione dei costi, a carico del produttore, per l'espletamento di tutte le fasi istruttorie necessarie per l'individuazione della soluzione definitiva di connessione;
+
+                            
+                        
+                        
+                            c)
+                            
+                                stabiliscono i criteri per la ripartizione dei costi di connessione tra il nuovo produttore e il gestore di rete;
+
+                            
+                        
+                        
+                            d)
+                            
+                                stabiliscono le regole nel cui rispetto gli impianti di rete per la connessione possono essere realizzati interamente dal produttore, individuando i provvedimenti che i gestori di rete devono adottare al fine di definire i requisiti tecnici di detti impianti; nei casi in cui il produttore non intenda avvalersi di questa facolta', stabiliscono quali sono le iniziative che i gestori di rete devono adottare al fine di ridurre i tempi di realizzazione;
+
+                            
+                        
+                        
+                            e)
+                            
+                                prevedono la pubblicazione, da parte dei gestori di rete delle condizioni tecniche ed economiche necessarie per la realizzazione delle eventuali opere di adeguamento delle infrastrutture di rete per la connessione dei nuovi impianti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                definiscono le modalita' di ripartizione dei costi fra i produttori che ne beneficiano delle eventuali opere di adeguamento delle infrastrutture di rete. Tali modalita', basate su criteri oggettivi, trasparenti e non discriminatori, tengono conto dei benefici che i produttori gia' connessi, quelli collegatisi successivamente e gli stessi gestori di rete traggono dalle connessioni;
+
+                            
+                        
+                        
+                            g)
+                            
+                                possono prevedere, su conforme parere del Ministero dello sviluppo economico, condizioni particolarmente agevoli per l'accesso alla rete dell'elettricita' da cogenerazione ad alto rendimento prodotta da unita' di piccola o micro-cogenerazione.
 
 I provvedimenti di cui al comma 2, lettera g), sono previamente notificati dal Ministero dello sviluppo economico alla Commissione europea.
 
@@ -95,6 +402,38 @@ Col provvedimento di cui all'articolo 1, comma 88, della legge 23 agosto 2004, n
 ## Art. 9. — Relazioni annuali
 
 Entro il 21 febbraio 2007 e successivamente ogni quattro anni il Ministero dello sviluppo economico, di concerto col Ministero dell'ambiente e della tutela del territorio e del mare, pubblica una relazione sull'applicazione del presente decreto. La relazione e' inviata per informazione alla Commissione europea.
+
+2.
+                    
+                        
+                            La relazione di cui al comma 1 illustra i progressi compiuti per aumentare la quota della cogenerazione ad alto rendimento e contiene:
+ 
+                        
+                        
+                            a)
+                            
+                                analisi e valutazioni sull'applicazione dell'articolo 4, con particolare riferimento ai provvedimenti adottati per garantire l'affidabilita' del sistema di Garanzia di origine;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'analisi del potenziale nazionale di cui all'articolo 5, comma 1;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le procedure amministrative di cui all'articolo 8, finalizzate a:
+ 1) favorire la progettazione di unita' di cogenerazione per soddisfare domande economicamente giustificabili di calore utile ed evitare la produzione di una quantita' di calore superiore al calore utile;
+ 2) ridurre gli ostacoli di ordine regolamentare e di altro tipo all'aumento della cogenerazione;
+ 3) razionalizzare e accelerare le procedure amministrative;
+ 4) garantire che le norme siano oggettive, trasparenti e non discriminatorie e tengano conto delle particolarita' delle varie tecnologie di cogenerazione;
+ 5) favorire il coordinamento fra le diverse amministrazioni per quanto concerne i termini, ricezione e trattamento delle domande di autorizzazione;
+ 6) definire eventuali linee guida per procedure autorizzative e la fattibilita' di una procedura di programmazione rapida per i produttori di cogenerazione;
+ 7) designare un'eventuale organo con funzioni di mediazione nelle controversie fra le amministrazioni responsabili del rilascio delle autorizzazioni e i richiedenti.
 
 Entro il 31 dicembre 2007 per i dati relativi all'anno precedente ed in seguito su base annuale, il Ministero dello sviluppo economico presenta alla Commissione europea dati e informazioni sulla produzione nazionale di elettricita' e di calore mediante cogenerazione, conformemente alla metodologia di cui all'allegato II.
 Tali dati e informazioni, trasmessi anche al Ministero dell'ambiente e della tutela del territorio e del mare, comprendono anche i dati relativi alla capacita' di cogenerazione e ai combustibili usati per la cogenerazione. Nel caso siano presentati dati sul risparmio di energia primaria realizzato applicando la cogenerazione, essi sono elaborati conformemente alla metodologia di cui all'allegato III.
@@ -115,6 +454,47 @@ Col decreto di cui al comma 2 sono individuate la tipologia e le modalita' di tr
 
 ## Art. 11. — Modifiche e abrogazioni
 
+1.
+                    
+                        
+                            All'articolo 1 della legge 23 agosto 2004, n. 239, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                al comma 85 la parola: «microgenerazione» e' sostituita dalla seguente: «piccola generazione»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo il comma 85 e' inserito il seguente:
+ «85-bis. E' definito come impianto di microgenerazione un impianto per la produzione di energia elettrica, anche in assetto cogenerativo, con capacita' massima inferiore a 50 kWe.»;
+
+                            
+                        
+                        
+                            c)
+                            
+                                il comma 86 e' sostituito dal seguente:
+ «86. L'installazione di un impianto di microgenerazione o di piccola generazione, purche' certificati, e' soggetta a norme autorizzative semplificate. In particolare, se l'impianto e' termoelettrico, e' assoggettata agli stessi oneri tecnici e autorizzativi di un impianto di generazione di calore con pari potenzialita' termica.»;
+
+                            
+                        
+                        
+                            d)
+                            
+                                al comma 88 le parole: «l'omologazione degli impianti di microgenerazione» sono sostituite dalle seguenti: «la certificazione degli impianti di piccola generazione e di microgenerazione»;
+
+                            
+                        
+                        
+                            e)
+                            
+                                al comma 89, dopo le parole: «impianti di» sono inserite le seguenti: «piccola generazione e di».
+
 ## Art. 12. — Modifiche degli allegati
 
 Gli allegati I, II, III e IV sono parte integrante del presente decreto legislativo. Gli allegati possono essere modificati e integrati con decreto del Ministro dello sviluppo economico di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, in conformita' alle direttive e alle decisioni della Comunita' europea.
@@ -124,6 +504,31 @@ Gli allegati I, II, III e IV sono parte integrante del presente decreto legislat
 La caldaia ad acqua calda che fa eventualmente parte di una unita' di cogenerazione, come definita dall'articolo 2, comma 1, lettera b), e' esclusa dal campo di applicazione del decreto del Presidente della Repubblica 15 novembre 1996, n. 660.
 
 ## Art. 14. — Disposizioni transitorie
+
+1.
+                    
+                        
+                            I diritti acquisiti da soggetti titolari di impianti realizzati o in fase di realizzazione in attuazione dell'articolo 1, comma 71, della legge 23 agosto 2004, n. 239, come vigente al 31 dicembre 2006, rimangono validi purche' i medesimi impianti posseggano almeno uno dei seguenti requisiti:
+ 
+                        
+                        
+                            a)
+                            
+                                siano gia' entrati in esercizio nel periodo intercorrente tra la data di entrata in vigore della legge 23 agosto 2004, n. 239, e la data del 31 dicembre 2006;
+
+                            
+                        
+                        
+                            b)
+                            
+                                siano stati autorizzati dopo la data di entrata in vigore della legge 23 agosto 2004, n. 239, e prima della data del 31 dicembre 2006 ed entrino in esercizio entro il 31 dicembre 2008;
+
+                            
+                        
+                        
+                            c)
+                            
+                                entrino in esercizio entro il 31 dicembre 2008, purche' i lavori di realizzazione siano stati effettivamente iniziati prima della data del 31 dicembre 2006. ((1))
 
 Gli impianti di cui al comma 1 mantengono il trattamento derivante dall'applicazione dell'articolo 1, comma 71, della legge 23 agosto 2004, n. 239, come vigente al 31 dicembre 2006, fino alla data di naturale scadenza del trattamento stesso, ove detti impianti, se di potenza elettrica superiore a 10 MW, ottengano, entro due anni dalla data di entrata in esercizio, la registrazione del sito secondo il regolamento EMAS e con le modalita' e nel rispetto dei commi 3 e 4.
 

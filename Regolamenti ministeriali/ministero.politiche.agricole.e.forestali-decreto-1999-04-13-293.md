@@ -8,8 +8,8 @@ codice_redazionale: 099G0199
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -32,6 +32,34 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 ## Art. 1.
 
 Per pescaturismo, ai sensi dell'articolo 27-bis della legge 17 febbraio 1982, n. 41, come modificato dall'articolo 1, comma 1, lettera g), della legge 21 maggio 1998, n. 164, si intendono le attivita' intraprese dall'armatore - singolo, impresa o cooperativa - di nave da pesca costiera locale o ravvicinata, che imbarca sulla propria unita' persone diverse dall'equipaggio per lo svolgimento di attivita' turisticoricreative.
+
+2.
+                    
+                        
+                            Tra le iniziative di pescaturismo rientrano:
+ 
+                        
+                        
+                            a)
+                            
+                                lo svolgimento di attivita' pratica di pesca sportiva mediante l'impiego degli attrezzi da pesca sportiva previsti dal successivo articolo 3, comma 2;
+
+                            
+                        
+                        
+                            b)
+                            
+                                lo svolgimento di attivita' turisticoricreative nell'ottica della divulgazione della cultura del mare e della pesca, quali, in particolare, brevi escursioni lungo le coste, osservazione delle attivita' di pesca professionale, ristorazione a bordo o a terra;
+
+                            
+                        
+                        
+                            c)
+                            
+                                lo svolgimento di attivita' finalizzate alla conoscenza e alla valorizzazione dell'ambiente costiero, delle lagune costiere e, ove autorizzate dalla regione competente, delle acque interne, nonche' ad avvicinare il grande pubblico al mondo della pesca professionale.
+ Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
 
@@ -60,6 +88,31 @@ Il regime di cui al primo comma non si applica alle navi di nuova costruzione ch
 Le cooperative e le imprese concessionarie di specchi acquei per la mitilicoltura, l'allevamento in mare e le tonnare possono intraprendere l'attivita' di pescaturismo all'interno dell'area assentita in concessione con imbarcazioni iscritte in quinta categoria.
 
 ## Art. 5.
+
+1.
+                    
+                        
+                            Al fine di ottenere l'autorizzazione all'esercizio dell'attivita' di pescaturismo e' presentata domanda al capo del compartimento marittimo del luogo di iscrizione della nave. La domanda deve essere corredata dalla seguente documentazione:
+ 
+                        
+                        
+                            a)
+                            
+                                copia delle annotazioni di sicurezza dell'unita';
+
+                            
+                        
+                        
+                            b)
+                            
+                                copia della prova di stabilita' e/o copia della prova occasionale di stabilita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                copia delle annotazioni di sicurezza, finalizzate esclusivamente all'esercizio della pescaturismo.
 
 L'autorizzazione all'esercizio dell'attivita' di pescaturismo, e' rilasciata dal capo del compartimento marittimo del luogo di iscrizione della nave, tenuto conto degli accertamenti di sicurezza eseguiti anche per il tramite degli uffici marittimi dipendenti e della prova pratica di stabilita' effettuata dal Registro navale italiano.
 

@@ -8,8 +8,8 @@ codice_redazionale: 000G0168
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,52 @@ Sulla proposta del Presidente del Consiglio dei Ministri;
 ## - Capo I Esposizione delle bandiere all'esterno degli edifici pubblici
 
 ## Art. 1.
+
+1.
+                        
+                            
+                                La bandiera della Repubblica e quella dell'Unione europea vengono esposte, oltre che nei luoghi indicati dall'art. 2, commi 1 e 2 della legge 5 febbraio 1998, n. 22, di seguito denominata "la legge":
+
+                            
+                            
+                                a)
+                                
+                                    all'esterno degli edifici ove hanno sede i commissari del Governo presso le regioni e i rappresentanti del Governo nelle province;
+                                
+                            
+                            
+                                b)
+                                
+                                    all'esterno delle sedi degli altri uffici periferici dello Stato di livello dirigenziale generale o dirigenziale, aventi una circoscrizione territoriale non inferiore alla provincia;
+                                
+                            
+                            
+                                c)
+                                
+                                    all'esterno delle sedi centrali delle autorita' indipendenti e degli enti pubblici di carattere nazionale, nonche' di loro uffici periferici corrispondenti a quelli di cui alla lettera b).
+
+2.
+                        
+                            
+                                Le bandiere vengono inoltre esposte sugli altri edifici sede di uffici pubblici ed istituzioni:
+
+                            
+                            
+                                a)
+                                
+                                    nelle giornate del 7 gennaio (festa del tricolore), 11 febbraio (patti lateranensi), 25 aprile (liberazione), 1o maggio (festa del lavoro), 9 maggio (giornata d'Europa), 2 giugno (festa della Repubblica), 28 settembre (insurrezione popolare di Napoli), 4 ottobre (Santo Patrono d'Italia), 4 novembre (festa dell'unita' nazionale);
+                                
+                            
+                            
+                                b)
+                                
+                                    nella giornata del 24 ottobre (giornata delle Nazioni Unite) unitamente alla bandiera delle Nazioni Unite;
+                                
+                            
+                            
+                                c)
+                                
+                                    in altre ricorrenze e solennita' secondo direttive emanate caso per caso dal Presidente del Consiglio dei Ministri ovvero, in ambito locale, dal prefetto.
 
 Ai fini dell'applicazione dell'articolo 2, comma 1, lettera d), della legge, per "uffici giudiziari" s'intendono le sedi di tutti gli uffici giudicanti previsti dall'articolo 1 del regio decreto 30 gennaio 1941, n. 12, e di tutti gli uffici del pubblico ministero costituiti presso di essi ai sensi dell'articolo 2 della stessa legge.
 
@@ -71,6 +117,47 @@ Nelle pubbliche cerimonie funebri sono applicate alle bandiere due strisce di ve
 ## - Capo III Esposizione delle bandiere all'interno degli uffici pubblici
 
 ## Art. 6.
+
+1.
+                        
+                            
+                                All'interno degli uffici pubblici la bandiera della Repubblica e la bandiera dell'Unione europea sono esposte negli uffici:
+
+                            
+                            
+                                a)
+                                
+                                    dei membri del Consiglio dei Ministri e dei Sottosegretari di Stato;
+                                
+                            
+                            
+                                b)
+                                
+                                    dei dirigenti titolari delle direzioni generali od uffici equiparati nelle amministrazioni centrali dello Stato nonche' dei dirigenti preposti ad uffici periferici dello Stato aventi una circoscrizione territoriale non inferiore alla provincia;
+                                
+                            
+                            
+                                c)
+                                
+                                    dei titolari della massima carica istituzionale degli enti pubblici di dimensione nazionale, e dei titolari degli uffici dirigenziali corrispondenti a quelli di cui alla lettera b);
+                                
+                            
+                            
+                                d)
+                                
+                                    dei titolari della massima carica istituzionale delle autorita' indipendenti;
+                                
+                            
+                            
+                                e)
+                                
+                                    dei dirigenti degli uffici giudiziari indicati nell'articolo 1, comma 3;
+                                
+                            
+                            
+                                f)
+                                
+                                    i capi delle rappresentanze diplomatiche, degli uffici consolari e degli istituti italiani di cultura all'estero. Per i consoli onorari l'esposizione e' facoltativa.
 
 La bandiera nazionale e quella europea sono esposte nelle aule di udienza degli organi giudiziari di ogni ordine e grado.
 

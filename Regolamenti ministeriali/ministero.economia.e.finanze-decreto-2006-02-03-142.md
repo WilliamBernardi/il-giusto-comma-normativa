@@ -8,8 +8,8 @@ codice_redazionale: 006G0153
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -31,11 +31,240 @@ Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli
 
 ## Art. 1. — Definizioni
 
+1.
+                        
+                            
+                                Nel presente regolamento si intendono per:
+ 
+                            
+                            
+                                a)
+                                
+                                    «direttiva», la direttiva del Consiglio delle Comunita' europee n. 91/308/CEE del 10 giugno 1991, modificata dalla direttiva del Parlamento europeo e del Consiglio dell'Unione europea n. 2001/97/CE del 4 dicembre 2001;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «legge antiriciclaggio», il decreto-legge 3 maggio 1991, n. 143, convertito in legge, con modificazioni, dalla legge 5 luglio 1991, n. 197, e successive modificazioni;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «decreto», il decreto legislativo 20 febbraio 2004, n. 56, recante: «Attuazione della direttiva 2001/97/CE in materia di prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi da attivita' illecite»;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «codice in materia di protezione dei dati personali»: il decreto legislativo 30 giugno 2003, n. 196;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «UIC», l'Ufficio italiano dei cambi;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «intermediari», i soggetti indicati nell'articolo 2 del presente reolamento;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    «intermediari abilitati», i soggetti abilitati ai sensi dell'articolo 4 del decreto;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    «gruppo», il gruppo bancario di cui all'articolo 60 del decreto legislativo 1° settembre 1993, n. 385 (Testo unico de1le leggi in materia bancaria e creditizia) e disposizioni applicative, il gruppo di cui all'articolo 11 del decreto legislativo 24 febbraio 1998, n. 58 (Testo unico delle disposizioni in materia di intermediazione finanziaria) e disposizioni applicative e il gruppo individuato ai sensi del decreto legislativo 17 aprile 2001, n. 239;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «personale incaricato», il personale dipendente, i promotori finanziari iscritti nell'albo previsto dall'articolo 31 del decreto legislativo 24 febbraio 1998, n. 58, gli agenti in attivita' finanziaria iscritti nell'elenco previsto dall'articolo 3 del decreto legislativo 25 settembre 1999, n. 374 e gli agenti assicurativi iscritti, fino all'istituzione del registro degli intermediari assicurativi e riassicurativi previsto dall'art. 109 del decreto legislativo 7 settembre 2005, n. 209, nell'albo previsto dall'articolo 1 della legge 7 febbraio 1979, n. 48;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «cliente», il soggetto che compie operazioni o instaura rapporti con gli intermediari;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «dati identificativi», il nome e il cognome, il luogo e la data di nascita, l'indirizzo, il codice fiscale e gli estremi del documento di identificazione o, nel caso di soggetti diversi da persona fisica, la denominazione, la sede legale ed il codice fiscale;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «mezzi di pagamento», il denaro contante, gli assegni bancari e postali, gli assegni circolari e gli altri assegni a essi assimilabili o equiparabili, i vaglia postali, gli ordini di accreditamento o di pagamento, le carte di credito e le altre carte di pagamento, ogni altro strumento o disposizione che permetta di trasferire, movimentare o acquisire, anche per via telematica, fondi, valori o disponibilita' finanziarie;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «operazione frazionata», un'operazione unitaria sotto il profilo economico di valore superiore a 12.500 euro posta in essere attraverso piu' operazioni, effettuate in momenti diversi e in un circoscritto periodo di tempo, singolarmente di valore non superiore a 12.500 euro;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    «archivio unico informatico», un archivio, formato e gestito a mezzo di sistemi inforrnatici, nel quale gli intermediari conservano in modo accentrato tutte le informazioni acquisite nell'adempimento degli obblighi di identificazione e registrazione, secondo le modalita' previste nel presente regolamento.
+
 ## Art. 2. — Destinatari
+
+1.
+                        
+                            
+                                Il presente regolamento si applica a:
+ 
+                            
+                            
+                                a)
+                                
+                                    banche;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    Poste italiane S.p.A.;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    istituti di moneta elettronica;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    societa' di intermediazione mobiliare (SIM);
+
+                                
+                            
+                            
+                                e)
+                                
+                                    societa' di gestione del risparmio (SGR);
+
+                                
+                            
+                            
+                                f)
+                                
+                                    societa' di investimento a capitale variabile (SICAV);
+
+                                
+                            
+                            
+                                g)
+                                
+                                    imprese di assicurazione;
+
+                                
+                            
+                            
+                                h)
+                                
+                                    agenti di cambio;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    societa' fiduciarie;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    societa' che svolgono il servizio di riscossione di tributi;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    intermediari finanziari iscritti nell'elenco speciale previsto dall'articolo 107 del testo unico bancario;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    intermediari finanziari iscritti nell'elenco generale previsto dall'articolo 106 del testo unico bancario;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    soggetti operanti nel settore finanziario iscritti nelle sezioni dell'elenco generale previste dagli articoli 113 e 155, commi 4 e 5, del testo unico bancario;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    succursali italiane dei soggetti indicati alle lettere precedenti aventi sede legale in uno stato estero nonche' succursali italiane delle societa' di gestione del risparmio armonizzate.
 
 ## Art. 3. — Obblighi applicabili
 
 Gli obblighi di identificazione, registrazione e conservazione si applicano in relazione alle operazioni e ai rapporti inerenti allo svolgimento dell'attivita' istituzionale o professionale degli intermediari.
+
+2.
+                        
+                            
+                                Gli intermediari devono:
+ 
+                            
+                            
+                                a)
+                                
+                                    identificare i clienti in relazione ai rapporti e alle operazioni indicati negli articoli 4 e 5 del presente regolamento;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    istituire l'archivio unico informatico;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    registrare e conservare nell'archivio unico informatico i dati identificativi e le altre informazioni relative alle operazioni e ai rapporti.
 
 Gli intermediari, al fine di prevenire e impedire la realizzazione di operazioni di riciclaggio, devono istituire misure di controllo interno e assicurare un'adeguata formazione dei dipendenti e dei collaboratori, anche per approfondire la conoscenza dei propri clienti.
 
@@ -50,6 +279,52 @@ Gli obblighi di identificazione, registrazione e conservazione, sussistono in se
 Il termine «conto» va inteso nel senso di conti movimentabili dal cliente, quali il conto corrente e conti analoghi, fra cui i depositi di risparmio. Sono, quindi, esclusi conti quali i conti di evidenza ed i conti transitori.
 
 Il termine «deposito» comprende la custodia e la amministrazione di strumenti finanziari anche in forma «dematerializzata», i depositi chiusi, la locazione delle cassette di sicurezza.
+
+4.
+                        
+                            
+                                L'espressione «altro rapporto continuativo» va intesa come rapporto di durata che rientra nell'esercizio di attivita' istituzionali, quali ad esempio:
+ 
+                            
+                            
+                                a)
+                                
+                                    la concessione di finanziamenti sotto qualsiasi forma, compreso il leasing finanziario ed il rilascio di garanzie e di impegni di firma;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la prestazione di servizi di pagamento;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'assunzione di partecipazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la prestazione di servizi di investimento;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le assicurazioni sulla vita di cui all'art. 1, comma 1, lettera b), del decreto legislativo 7 settembre 2005, n. 209;
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'amministrazione di beni.
 
 Costituisce altresi' rapporto continuativo ogni rapporto che si instauri in relazione alla ricezione di un incarico o mandato, anche fiduciario.
 
@@ -87,6 +362,38 @@ E' in ogni caso necessario procedere all'identifi-cazione diretta qualora si abb
 
 ## Art. 7. — Identificazione indiretta
 
+1.
+                        
+                            
+                                Non e' necessario procedere all'identificazione diretta nei seguenti casi:
+ 
+                            
+                            
+                                a)
+                                
+                                    per i clienti gia' identificati in relazione ad un rapporto in essere;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in relazione ad operazioni che, a valere su un conto o un altro rapporto, sono effettuate con sistemi di cassa continua o di sportelli automatici, per corrispondenza o attraverso soggetti che svolgono attivita' di trasporto di valori o mediante carte di pagamento; tali operazioni sono imputate al soggetto titolare del conto o del rapporto al quale ineriscono;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i clienti i cui dati identificativi e le altre informazioni da acquisire risultino da atti pubblici, da scritture private autenticate o da documenti recanti la firma digitale ai sensi dell'articolo 23 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 e successive modificazioni;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i clienti i cui dati identificativi risultino da dichiarazione della rappresentanza e dell'autorita' consolare italiana, cosi' come indicata nell'articolo 6 del decreto legislativo 26 maggio 1997, n. 153.
+
 Per i clienti, il cui contatto e' avvenuto attraverso l'intervento di un mediatore creditizio e di un mediatore di assicurazione o di riassicurazione iscritto, fino all'istituzione del registro degli intermediari assicurativi e riassicurativi previsto dall'art. 109 del decreto legislativo 7 settembre 2005, n. 209, nell'albo previsto dall'articolo 2 della legge 28 novembre 1984, n. 792, l'intermediario puo' procedere all'identificazione, in relazione al rapporto per il quale e' stata compiuta la mediazione, acquisendo dal mediatore le informazioni necessarie, anche senza la presenza contestuale del cliente.
 
 ## Art. 8. — Identificazione a distanza
@@ -94,6 +401,31 @@ Per i clienti, il cui contatto e' avvenuto attraverso l'intervento di un mediato
 Non e' necessario procedere all'identificazione di cui agli articoli 6 e 7 qualora ai clienti sia stata rilasciata attestazione da soggetti presso i quali gli stessi sono titolari di conti, depositi o altri rapporti continuativi e in relazione ai quali sono stati gia' identificati di persona.
 
 L'attestazione deve essere idonea a confermare l'identita' tra il soggetto che deve essere identificato e il soggetto titolare del conto o del rapporto presso l'intermediario attestante, nonche' l'esattezza delle informazioni comunicate a distanza.
+
+3.
+                        
+                            
+                                L'attestazione puo' essere rilasciata dai seguenti soggetti:
+ 
+                            
+                            
+                                a)
+                                
+                                    intermediari abilitati;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    enti creditizi ed enti finanziari di Stati membri dell'Unione europea, cosi' come definiti nell'articolo 1, lettera A) e lettera B), n. 2), n. 3) e n. 4), della direttiva;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    banche aventi sede legale e amministrativa in Paesi non appartenenti all'Unione europea purche' aderenti al gruppo di azione finanziaria internazionale (GAFI) e succursali in tali Paesi di banche italiane e di altri Stati aderenti al GAFI;
 
 L'attestazione puo' consistere in un bonifico eseguito a valere sul conto per il quale il cliente e' stato identificato di persona, che contenga un codice rilasciato al cliente dall'intermediario che deve procedere all'identificazione.
 
@@ -133,6 +465,49 @@ Per l'accertamento dei fatti in un procedimento penale o in un procedimento per 
 
 ## Art. 11. — Informazioni da acquisire, registrare e conservare
 
+1.
+                        
+                            
+                                Le informazioni da registrare e conservare sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento all'operazione, la data e la causale, l'importo e i dati identificativi;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    con riferimento a conti, depositi o altri rapporti continuativi, la data, i dati identificativi del titolare unitamente alle generalita' dei delegati ad operare per conto del titolare del rapporto, il codice del rapporto.
+
+2.
+                        
+                            
+                                Ai fini del presente articolo:
+ 
+                            
+                            
+                                a)
+                                
+                                    per «data» si intende quella di effettuazione dell'operazione direttamente presso l'intermediario ovvero, negli altri casi, la data in cui si acquisiscono gli elementi necessari alla contabilizzazione dell'operazione;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per «causale» si intende la tipologia dell'operazione in base al codice attribuito dall'UIC, causale analitica, nelle note tecniche dallo stesso emanate;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per «importo» dell'operazione si intende l'ammontare complessivo dei mezzi di pagamento, con evidenza della parte in contanti.
+
 I dati identificativi vanno acquisiti e registrati con riferimento a chi effettua l'operazione in proprio o per conto terzi e con riferimento all'eventuale soggetto per conto del quale l'operazione stessa viene eseguita.
 
 La registrazione relativa a conti depositi ed altri rapporti continuativi va tenuta unicamente dall'intermediario cui e' imputato il rapporto, ancorche' l'identificazione sia effettuata presso l'intermediario che viene in contatto con la clientela.
@@ -142,6 +517,56 @@ Le registrazioni delle operazioni di importo superiore a 12.500 euro vanno tenut
 Nel caso in cui le operazioni vengano eseguite sulla base di ordini di pagamento o accreditamento, gli obblighi di registrazione incombono sugli intermediari di cui all'articolo 2, comma 1, lettere a), b) e c) del presente regolamento che curano il trasferimento. In presenza di ordini di pagamento a favore e/o d'ordine degli intermediari di cui all'articolo 2, comma 1, lettere da d) a h) e da l) a o) del presente regolamento in contropartita di clientela, tali intermediari sono comunque tenuti a registrare nel proprio archivio unico informatico gli estremi dell'operazione disposta dalla clientela in forma semplificata secondo le modalita' definite dall'UIC. I dati concernenti le suddette operazioni non dovranno essere inseriti nelle segnalazioni mensili aggregate da inviare all'UIC.
 
 Nel caso di transazioni regolate mediante ordini di pagamento o di accreditamento, gli intermediari di cui all'articolo 2, comma 1, lettere a), b) e c) del presente regolamento che operano per conto dell'ordinante e quelli che operano per conto del beneficiario registrano gli ordini di pagamento o di accreditamento; i soggetti che si interpongono nell'esecuzione dei trasferimenti si limitano a curare la trasmissione dei dati informativi necessari per la registrazione.
+
+8.
+                        
+                            
+                                L'intermediario che interviene per conto del soggetto ordinante e' tenuto a registrare:
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati identificativi di chi effettua l'operazione in proprio o per conto di terzi e dell'eventuale soggetto per conto del quale l'operazione stessa viene eseguita (ordinante);
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi (nome, cognome o denominazione sociale e, ove noti, indirizzo, sede o paese estero) del beneficiario;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'intermediario (denominazione e localizzazione o paese estero) presso il quale deve essere effettuato il pagamento o l'accredito dell'importo.
+
+9.
+                        
+                            
+                                L'intermediario che interviene per conto del beneficiario registra:
+ 
+                            
+                            
+                                a)
+                                
+                                    i dati identificativi del beneficiario dell'operazione in proprio o per conto terzi e dell'eventuale soggetto per conto del quale l'operazione stessa viene eseguita;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli estremi (nome, cognome o denominazione sociale e, ove noti, indirizzo, sede o paese estero) dell'ordinante;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'intermediario (denominazione e localizzazione o paese estero) presso il quale l'ordine e' stato disposto.
 
 Nel caso di ordini di pagamento o di accreditamento provenienti dall'estero, l'intermediario italiano tenuto alla registrazione, oltre ad acquisire i dati identificativi del beneficiario, deve comunque indicare l'intermediario estero intervenuto per conto dell'ordinante e, ove noti, il paese e le generalita' di quest'ultimo.
 

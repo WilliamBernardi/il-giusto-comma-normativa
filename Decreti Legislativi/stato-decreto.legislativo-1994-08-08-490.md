@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2012-12-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -64,6 +64,31 @@ ARTICOLO ABROGATO DAL D.P.R. 3 GIUGNO 1998, N. 252. (5) ((6))
  Il D.Lgs. 6 settembre 2011, n. 159, come modificato dal D.Lgs. 15 novembre 2012, n. 218, ha disposto (con l'art. 120, comma 2, lettera a)) che a decorrere dalla data di cui all'articolo 119, comma 1 del medesimo decreto e' abrogato il D.lgs. 8 agosto 1994, n. 490.
 
 ## Art. 4. — Informazioni del prefetto - lettera d) dell'art. 1 comma 1, della legge 17 gennaio 1994, n. 47
+
+1.
+                    
+                        
+                            Le pubbliche amministrazioni, gli enti pubblici e gli altri soggetti di cui all'art. 1, devono acquisire le informazioni di cui al comma 4 prima di stipulare, approvare o autorizzare i contratti e subcontratti, ovvero prima di rilasciare o consentire le concessioni o erogazioni indicati nell'allegato 3, il cui valore sia: 
+ 
+                        
+                        
+                            a)
+                            
+                                pari o superiore a quello determinato dalla legge in attuazione delle direttive comunitarie in materia di opere e lavori pubblici, servizi pubblici e pubbliche forniture, indipendentemente dai casi di esclusione ivi indicati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                superiore a 300 milioni di lire per le concessioni di acque pubbliche o di beni demaniali per lo svolgimento di attivita' imprenditoriali, ovvero per la concessione di contributi, finanziamenti e agevolazioni su mutuo o altre erogazioni dello stesso tipo per lo svolgimento di attivita' imprenditoriali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                superiore a 200 milioni di lire per l'autorizzazione di subcontratti, cessioni o cottimi, concernenti la realizzazione di opere o lavori pubblici o la prestazione di servizi o forniture pubbliche.
 
 E' vietato, a pena di nullita', il frazionamento dei contratti, delle concessioni o delle erogazioni compiuto allo scopo di eludere l'applicazione del presente articolo.
 

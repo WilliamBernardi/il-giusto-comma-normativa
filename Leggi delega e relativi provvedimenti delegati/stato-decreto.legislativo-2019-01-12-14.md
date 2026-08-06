@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2024-09-28
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -34,11 +34,145 @@ Sulla proposta del Ministro della giustizia, di concerto con il Ministro dell'ec
 
 Il presente codice disciplina le situazioni di crisi o insolvenza del debitore, sia esso consumatore o professionista, ovvero imprenditore che eserciti, anche non a fini di lucro, un'attivita' commerciale, artigiana o agricola, operando quale persona fisica, persona giuridica o altro ente collettivo, gruppo di imprese o societa' pubblica, con esclusione dello Stato e degli enti pubblici.
 
+2.
+                        
+                            
+                                Sono fatte salve le disposizioni delle leggi speciali in materia di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    amministrazione straordinaria delle grandi imprese. Se la crisi o l'insolvenza di dette imprese non sono disciplinate in via esclusiva, restano applicabili anche le procedure ordinarie regolate dal presente codice; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    liquidazione coatta amministrativa ai sensi dell'articolo 293.
+
 Sono fatte salve le disposizioni delle leggi speciali in materia di crisi di impresa delle societa' pubbliche.
 
 Le disposizioni del presente codice in tema di liquidazione coatta amministrativa si applicano nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano compatibilmente con i rispettivi Statuti e le relative norme di attuazione, anche con riferimento alla legge costituzionale 18 ottobre 2001, n. 3.
 
 ## Art. 2. — Definizioni
+
+1.
+                        
+                            
+                                Ai fini del presente codice si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    "crisi": lo stato del debitore che rende probabile l'insolvenza e che si manifesta con l'inadeguatezza dei flussi di cassa prospettici a far fronte alle obbligazioni nei successivi dodici mesi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    «insolvenza»: lo stato del debitore che si manifesta con inadempimenti od altri fatti esteriori, i quali dimostrino che il debitore non e' piu' in grado di soddisfare regolarmente le proprie obbligazioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    «sovraindebitamento»: lo stato di crisi o di insolvenza del consumatore, del professionista, dell'imprenditore minore, dell'imprenditore agricolo, delle start-up innovative di cui al decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, e di ogni altro debitore non assoggettabile alla liquidazione giudiziale ovvero a liquidazione coatta amministrativa o ad altre procedure liquidatorie previste dal codice civile o da leggi speciali per il caso di crisi o insolvenza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    «impresa minore»: l'impresa che presenta congiuntamente i seguenti requisiti: 1) un attivo patrimoniale di ammontare complessivo annuo non superiore ad euro trecentomila nei tre esercizi antecedenti la data di deposito della istanza di apertura della liquidazione giudiziale o dall'inizio dell'attivita' se di durata inferiore; 2) ricavi, in qualunque modo essi risultino, per un ammontare complessivo annuo non superiore ad euro duecentomila nei tre esercizi antecedenti la data di deposito dell'istanza di apertura della liquidazione giudiziale o dall'inizio dell'attivita' se di durata inferiore; 3) un ammontare di debiti anche non scaduti non superiore ad euro cinquecentomila; i predetti valori possono essere aggiornati ogni tre anni con decreto del Ministro della giustizia adottato a norma dell'articolo 348; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    «consumatore»: la persona fisica che agisce per scopi estranei all'attivita' imprenditoriale, commerciale, artigiana o professionale eventualmente svolta, anche se socia di una delle societa' appartenenti ad uno dei tipi regolati nei capi III, IV e VI del titolo V del libro quinto del codice civile, ((e accede agli strumenti di regolazione della crisi e dell'insolvenza per debiti contratti nella qualita' di consumatore)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    «societa' pubbliche»: le societa' a controllo pubblico, le societa' a partecipazione pubblica e le societa' in house di cui all'articolo 2, lettere m), n), o), del decreto legislativo 19 agosto 2016, n. 175; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 17 GIUGNO 2022, N. 83; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    "gruppo di imprese": l'insieme delle societa', delle imprese e degli enti, esclusi lo Stato e gli enti territoriali, che, ai sensi degli articoli 2497 e 2545-septies del codice civile, esercitano o sono sottoposti alla direzione e coordinamento di una societa', di un ente o di una persona fisica; a tal fine si presume, salvo prova contraria, che l'attivita' di direzione e coordinamento delle societa' del gruppo sia esercitata dalla societa' o ente tenuto al consolidamento dei loro bilanci oppure dalla societa' o ente che le controlla, direttamente o indirettamente, anche nei casi di controllo congiunto; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    «gruppi di imprese di rilevante dimensione»: i gruppi di imprese composti da un'impresa madre e imprese figlie da includere nel bilancio consolidato, che rispettano i limiti numerici di cui all'articolo 3, paragrafi 6 e 7, della direttiva 2013/34/UE del Parlamento europeo e del Consiglio del 26 giugno 2013; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    «parti correlate»: si intendono quelle indicate come tali nel Regolamento della Consob in materia di operazioni con parti correlate; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    «centro degli interessi principali del debitore» (COMI): il luogo in cui il debitore gestisce i suoi interessi in modo abituale e riconoscibile dai terzi; 
+
+                                
+                            
+                            
+                                m-bis)
+                                
+                                    "strumenti di regolazione della crisi e dell'insolvenza": le misure, gli accordi e le procedure ((, diversi dalla liquidazione giudiziale e dalla liquidazione controllata)) volti al risanamento dell'impresa attraverso la modifica della composizione, dello stato o della struttura delle sue attivita' e passivita' o del capitale, oppure volti alla liquidazione del patrimonio o delle attivita' che, a richiesta del debitore, possono essere preceduti dalla composizione negoziata della crisi; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    «((elenco dei gestori)) della crisi e insolvenza delle imprese»: ((l'elenco)), istituito presso il Ministero della giustizia e disciplinato dall'articolo 356, dei soggetti che su incarico del giudice svolgono, anche in forma associata o societaria, funzioni di gestione, supervisione o controllo nell'ambito degli strumenti di regolazione della crisi e dell'insolvenza e delle procedure di insolvenza previsti dal presente codice; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    «professionista indipendente»: il professionista incaricato dal debitore nell'ambito di uno degli strumenti di regolazione della crisi e dell'insolvenza che soddisfi congiuntamente i seguenti requisiti: 1) essere iscritto ((all'elenco)) dei gestori della crisi e insolvenza delle imprese, nonche' nel registro dei revisori legali;
+2) essere in possesso dei requisiti previsti dall'articolo 2399 del codice civile; 3) non essere legato all'impresa o ad altre parti interessate all'operazione di regolazione della crisi da rapporti di natura personale o professionale ((tali da comprometterne l'indipendenza di giudizio)); il professionista ed i soggetti con i quali e' eventualmente unito in associazione professionale non devono aver prestato negli ultimi cinque anni attivita' di lavoro subordinato o autonomo in favore del debitore, ne' essere stati membri degli organi di amministrazione o controllo dell'impresa, ne' aver posseduto partecipazioni in essa; 
+
+                                
+                            
+                            
+                                o-bis)
+                                
+                                    « "esperto": il soggetto terzo e indipendente, iscritto nell'elenco di cui all'articolo 13, comma 3 e nominato dalla commissione di cui al comma 6 del medesimo articolo 13, che facilita le trattative nell'ambito della composizione negoziata; 
+ p) «misure protettive»: le misure temporanee richieste dal debitore per evitare che determinate azioni ((o condotte)) dei creditori possano pregiudicare, sin dalla fase delle trattative, il buon esito delle iniziative assunte per la regolazione della crisi o dell'insolvenza , anche prima dell'accesso a uno degli strumenti di regolazione della crisi e dell'insolvenza; 
+ q) «misure cautelari»: i provvedimenti cautelari emessi dal giudice competente a tutela del patrimonio o dell'impresa del debitore, che appaiano secondo le circostanze piu' idonei ad assicurare provvisoriamente ((il buon esito delle trattative, gli effetti degli strumenti di regolazione della crisi e dell'insolvenza e delle procedure di insolvenza e l'attuazione delle relative decisioni)); 
+ r) «classe di creditori»: insieme di creditori che hanno posizione giuridica e interessi economici omogenei; 
+ s) «domicilio digitale»: il domicilio di cui all'articolo 1, comma 1, lettera n-ter) del decreto legislativo 7 marzo 2005, n. 82; 
+ t) OCC: organismi di composizione delle crisi da sovraindebitamento disciplinati dal decreto del Ministro della giustizia del 24 settembre 2014, n. 202 e successive modificazioni, che svolgono i compiti di composizione assistita della crisi da sovraindebitamento previsti dal presente codice; 
+ u) LETTERA ABROGATA DAL D.LGS. 17 GIUGNO 2022, N. 83.
 
 ## - - Capo II   Principi generali   Sezione I  Obblighi dei soggetti che partecipano alla regolazione della crisi o dell'insolvenza
 
@@ -48,9 +182,70 @@ L'imprenditore individuale deve adottare misure idonee a rilevare tempestivament
 
 L'imprenditore collettivo deve istituire un assetto organizzativo, amministrativo e contabile adeguato ai sensi dell'articolo 2086 del codice civile, ai fini della tempestiva rilevazione dello stato di crisi e dell'assunzione di idonee iniziative.
 
+3.
+                        
+                            
+                                Al fine di prevedere tempestivamente l'emersione della crisi d'impresa, le misure di cui al comma 1 e gli assetti di cui al comma 2 devono consentire di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    rilevare eventuali squilibri di carattere patrimoniale o economico-finanziario, rapportati alle specifiche caratteristiche dell'impresa e dell'attivita' imprenditoriale svolta dal debitore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verificare la sostenibilita' dei debiti e le prospettive di continuita' aziendale almeno per i dodici mesi successivi e rilevare i segnali di cui al comma 4; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ricavare le informazioni necessarie a utilizzare la lista di controllo particolareggiata e a effettuare il test pratico per la verifica della ragionevole perseguibilita' del risanamento di cui all'articolo 13, al comma 2. 
+ 4.((Costituiscono segnali che, anche prima dell'emersione della crisi o dell'insolvenza, agevolano la previsione di cui al comma 3)): 
+ a) l'esistenza di debiti per retribuzioni scaduti da almeno trenta giorni pari a oltre la meta' dell'ammontare complessivo mensile delle retribuzioni; 
+ b) l'esistenza di debiti verso fornitori scaduti da almeno novanta giorni di ammontare superiore a quello dei debiti non scaduti; 
+ c) l'esistenza di esposizioni nei confronti delle banche e degli altri intermediari finanziari che siano scadute da piu' di sessanta giorni o che abbiano superato da almeno sessanta giorni il limite degli affidamenti ottenuti in qualunque forma purche' rappresentino complessivamente almeno il cinque per cento del totale delle esposizioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esistenza di una o piu' delle esposizioni debitorie previste dall'articolo 25-novies, comma 1.
+
 ## Art. 4. — (Doveri delle parti)
 
 Nella composizione negoziata, nel corso delle trattative e dei procedimenti per l'accesso agli strumenti di regolazione della crisi e dell'insolvenza, ((il debitore, i creditori e ogni altro soggetto interessato devono comportarsi secondo buona fede e correttezza)).
+
+2.
+                        
+                            
+                                Il debitore ha il dovere di: 
+ 
+                            
+                            
+                                a)
+                                
+                                    illustrare la propria situazione in modo completo, veritiero e trasparente, fornendo tutte le informazioni necessarie e appropriate rispetto alle trattative avviate, anche nella composizione negoziata, e allo strumento di regolazione della crisi e dell'insolvenza prescelto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    assumere tempestivamente le iniziative idonee alla individuazione delle soluzioni per il superamento delle condizioni di cui all'articolo 12, comma 1, durante la composizione negoziata, e alla rapida definizione dello strumento di regolazione della crisi e dell'insolvenza prescelto, anche al fine di non pregiudicare i diritti dei creditori; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gestire il patrimonio o l'impresa durante i procedimenti nell'interesse prioritario dei creditori. Resta fermo quanto previsto dagli articoli 16, comma 4, e 21.
 
 Ove non siano previste, dalla legge o dai contratti collettivi di cui all'articolo 2, comma 1, lettera g), del decreto legislativo 6 febbraio 2007, n. 25, diverse procedure di informazione e consultazione, il datore di lavoro, che occupa complessivamente piu' di quindici dipendenti, informa con comunicazione scritta, trasmessa anche tramite posta elettronica certificata, i soggetti sindacali di cui all'articolo 47, comma 1, della legge 29 dicembre 1990, n. 428, delle rilevanti determinazioni, assunte nel corso delle trattative della composizione negoziata e nella predisposizione del piano nell'ambito di uno strumento di regolazione della crisi e dell'insolvenza, che incidono sui rapporti di lavoro di una pluralita' di lavoratori, anche solo per quanto riguarda l'organizzazione del lavoro o le modalita' di svolgimento delle prestazioni. I soggetti sindacali, entro tre giorni dalla ricezione dell'informativa, possono chiedere all'imprenditore un incontro. La conseguente consultazione deve avere inizio entro cinque giorni dal ricevimento dell'istanza e, salvo diverso accordo tra i partecipanti, si intende esaurita decorsi dieci giorni dal suo inizio. La consultazione si svolge con vincolo di riservatezza rispetto alle informazioni qualificate come tali dal datore di lavoro o dai suoi rappresentanti nel legittimo interesse dell'impresa. In occasione della consultazione svolta nell'ambito della composizione negoziata e' redatto, ai soli fini della determinazione del compenso dell'esperto di cui all'articolo 25-ter, comma 5, un sintetico rapporto sottoscritto dall'imprenditore e dall'esperto.
 
@@ -82,6 +277,38 @@ Nei siti istituzionali del Ministero della giustizia e del Ministero dello svilu
 
 
 
+1.
+                        
+                            
+                                Oltre ai crediti cosi' espressamente qualificati dalla legge, sono prededucibili: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i crediti relativi a spese e compensi per le prestazioni rese ((nell'esercizio delle funzioni rientranti nella competenza dell'organismo di composizione della crisi da sovraindebitamento)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i crediti professionali sorti in funzione della domanda di omologazione degli accordi di ristrutturazione dei debiti o del piano di ristrutturazione soggetto a omologazione e per la richiesta delle misure protettive, nei limiti del 75% del credito accertato e a condizione che gli accordi o il piano siano omologati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i crediti professionali sorti in funzione della presentazione della domanda di concordato preventivo nonche' del deposito della relativa proposta e del piano che la correda, nei limiti del 75% del credito accertato e a condizione che la procedura sia aperta ai sensi dell'articolo 47; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i crediti legalmente sorti ((, durante la procedura di liquidazione giudiziale o controllata oppure successivamente alla domanda di accesso ad uno strumento di regolazione della crisi o dell'insolvenza,)) per la gestione del patrimonio del debitore e la continuazione dell'esercizio dell'impresa, il compenso degli organi preposti e le prestazioni professionali richieste dagli organi medesimi ((o dal debitore per il buon esito dello strumento)).
+
 ((
 
 La prededuzione opera in caso di apertura del concorso e permane anche quando si susseguono piu' procedure.
@@ -93,6 +320,31 @@ La prededuzione opera in caso di apertura del concorso e permane anche quando si
 ## Art. 7. — (Trattazione unitaria delle domande di accesso agli strumenti di regolazione della crisi e dell'insolvenza e alle procedure di insolvenza)
 
 Le domande di accesso agli strumenti di regolazione della crisi e dell'insolvenza e alle procedure di insolvenza sono trattate in un unico procedimento e ogni domanda sopravvenuta e' riunita a quella gia' pendente. Il procedimento si svolge nelle forme di cui agli articoli 40 e 41.
+
+2.
+                        
+                            
+                                Nel caso di proposizione di piu' domande, il tribunale esamina in via prioritaria quella diretta a regolare la crisi o l'insolvenza con strumenti diversi dalla liquidazione giudiziale o dalla liquidazione controllata, a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la domanda medesima non sia manifestamente inammissibile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il piano non sia manifestamente inadeguato a raggiungere gli obiettivi prefissati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nella proposta siano espressamente indicate la convenienza per i creditori o, in caso di concordato in continuita' aziendale, le ragioni della assenza di pregiudizio per i creditori.
 
 ((Ferme le ipotesi di cui agli articoli 73 e 83)), in tutti i casi in cui la domanda diretta a regolare la crisi o l'insolvenza con strumenti diversi dalla liquidazione giudiziale non e' accolta ed e' accertato lo stato di insolvenza, il tribunale procede, su istanza dei soggetti legittimati, all'apertura della liquidazione giudiziale.
 Allo stesso modo il tribunale procede in tutti i casi in cui la domanda e' inammissibile o improcedibile e nei casi previsti dall'articolo 49, comma 2.
@@ -173,6 +425,31 @@ L'iscrizione all'elenco di cui al comma 3 e' altresi' subordinata al possesso de
 
 La domanda di iscrizione all'elenco e' presentata agli ordini professionali di appartenenza dei professionisti richiedenti e, per i soggetti di cui al comma 3, secondo periodo, alla camera di commercio del capoluogo di regione e delle province autonome di Trento e di Bolzano competente per il luogo di residenza. La domanda e' corredata della documentazione comprovante il possesso dei requisiti di cui ai commi 3 e 4, di un'autocertificazione attestante l'assolvimento degli obblighi formativi e di un curriculum vitae, a sua volta oggetto di autocertificazione ai sensi degli articoli 46 e 47 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, dal quale risulti ogni altra esperienza formativa in materia, anche nelle tecniche di facilitazione e mediazione, valutabile all'atto della nomina come titolo di preferenza ((; l'esperto cura l'aggiornamento del curriculum vitae con la sintetica indicazione delle composizioni negoziate seguite e del loro esito)). La domanda contiene il consenso dell'interessato al trattamento dei dati comunicati al momento della presentazione dell'istanza di iscrizione, ai sensi dell'articolo 6 del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, anche ai fini della pubblicazione di cui al comma 9. Ciascun ordine professionale, valutata la domanda e verificata la completezza della documentazione allegata, comunica alla camera di commercio del capoluogo della regione in cui si trova o alla camera di commercio delle province autonome di Trento e di Bolzano, i nominativi dei professionisti in possesso dei requisiti di cui ai commi 3 e 4, unitamente a una scheda sintetica contenente le informazioni utili alla individuazione del profilo dell'esperto, ((anche con riferimento agli esiti delle composizioni negoziate seguite,)) per l'inserimento nell'elenco previsto dal comma 3. La scheda e' compilata sulla base di un modello uniforme definito con il decreto dirigenziale del Ministero della giustizia di cui al comma 2. Gli ordini professionali, con riferimento ai dati dei rispettivi iscritti, e le camere di commercio, con riferimento ai soggetti di cui al comma 3, secondo periodo, designano i responsabili della formazione, della tenuta e dell'aggiornamento dei dati degli iscritti all'elenco unico e del trattamento dei dati medesimi nel rispetto del regolamento (UE) 2016/679 e del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196. I responsabili accertano la veridicita' delle dichiarazioni rese dai richiedenti secondo quanto previsto dall'articolo 71 del citato testo unico di cui al decreto del Presidente della Repubblica n. 445 del 2000. La domanda e' respinta se non e' corredata di quanto previsto dal secondo e terzo periodo e puo' essere ripresentata. I consigli nazionali degli ordini professionali disciplinano con regolamento le modalita' di formazione, tenuta e aggiornamento dei dati raccolti dagli ordini professionali e comunicati alle camere di commercio per la formazione dell'elenco di cui al comma 3. La comunicazione di cui al quarto periodo avviene con cadenza annuale a partire dalla data di entrata in vigore del presente decreto. Gli ordini professionali comunicano tempestivamente alle camere di commercio l'adozione, nei confronti dei propri iscritti, di sanzioni disciplinari piu' gravi di quella minima prevista dai singoli ordinamenti nonche' l'intervenuta cancellazione dei professionisti dagli albi professionali di appartenenza perche' vengano cancellati dall'elenco. Le camere di commercio, ricevute le comunicazioni di competenza degli ordini professionali, provvedono senza indugio all'aggiornamento dell'elenco unico; esse curano direttamente l'aggiornamento dei dati dei soggetti di cui al comma 3, secondo periodo, secondo le tempistiche stabilite nel nono periodo e provvedono alla loro tempestiva cancellazione ove sia intervenuta una causa di ineleggibilita' ai sensi dell'articolo 2382 del codice civile.
 
+6.
+                        
+                            
+                                La nomina dell'esperto avviene ad opera di una commissione che resta in carica per due anni. La commissione e' costituita presso le camere di commercio, industria, artigianato e agricoltura dei capoluoghi di regione e delle province autonome di Trento e di Bolzano, dei cui uffici di segreteria si avvale per lo svolgimento dei suoi compiti, ed e' composta da: 
+ 
+                            
+                            
+                                a)
+                                
+                                    due magistrati, uno effettivo e uno supplente, designati dal presidente della sezione specializzata in materia di impresa del tribunale del capoluogo di regione o della provincia autonoma di Trento o di Bolzano nel cui territorio si trova la camera di commercio che ha ricevuto l'istanza di cui all'articolo 17; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    due membri, uno effettivo e uno supplente, designati dal presidente della camera di commercio presso la quale e' costituita la commissione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    due membri, uno effettivo e uno supplente, designati dal prefetto del capoluogo di regione o della provincia autonoma di Trento o di Bolzano nel cui territorio si trova la camera di commercio che ha ricevuto l'istanza di cui all'articolo 17.
+
 Il segretario generale della camera di commercio nel cui ambito territoriale si trova la sede legale dell'impresa, ricevuta l'istanza di cui all'articolo 17, nei successivi due giorni lavorativi, la comunica alla commissione costituita ai sensi del comma 6, unitamente a una nota sintetica contenente l'indicazione del volume d'affari, del numero dei dipendenti e del settore in cui opera l'impresa istante. In caso di incompletezza dell'istanza di nomina o della documentazione, il predetto segretario generale invita l'imprenditore a integrare le informazioni o la documentazione mancante entro un termine di trenta giorni, decorso inutilmente il quale l'istanza non e' esaminata e l'imprenditore puo' riproporla. Entro i cinque giorni lavorativi successivi al ricevimento dell'istanza la commissione nomina l'esperto tra gli iscritti nell'elenco di cui al comma 3 secondo criteri che assicurano la rotazione e la trasparenza e avendo cura che ciascun esperto non riceva piu' di due incarichi contemporaneamente. La nomina puo' avvenire anche al di fuori dell'ambito regionale. La commissione tiene conto della complessiva esperienza formativa risultante dalla scheda sintetica di cui al comma 5, quarto periodo, anche esaminando, ove occorra, il curriculum vitae, e dell'attivita' prestata come esperto nell'ambito di precedenti composizioni negoziate ((e del loro esito)). Se lo ritiene opportuno, la commissione acquisisce, prima della nomina o prima della comunicazione all'esperto nominato, il parere non vincolante di un'associazione di categoria sul territorio.
 
 La commissione, coordinata dal membro piu' anziano, decide a maggioranza. Ai membri della commissione non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
@@ -230,6 +507,71 @@ Tutte le parti coinvolte nelle trattative hanno il dovere di collaborare lealmen
 L'istanza di nomina dell'esperto indipendente e' presentata tramite la piattaforma telematica di cui all'articolo 13 mediante la compilazione di un modello, ivi disponibile, contenente le informazioni utili ai fini della nomina e dello svolgimento dell'incarico da parte dell'esperto nominato.
 
 Il contenuto del modello di cui al comma 1 e' definito con il decreto dirigenziale del Ministero della giustizia di cui all'articolo 13, comma 2.
+
+3.
+                        
+                            
+                                L'imprenditore, al momento della presentazione dell'istanza, inserisce nella piattaforma telematica: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i bilanci ((approvati)) degli ultimi tre esercizi, se non gia' depositati presso l'ufficio del registro delle imprese, oppure, per gli imprenditori che non sono tenuti al deposito dei bilanci, le dichiarazioni dei redditi e dell'IVA degli ultimi tre periodi di imposta, nonche' una ((situazione economico-patrimoniale)) e finanziaria aggiornata a non oltre sessanta giorni prima della presentazione dell'istanza; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    in caso di mancata approvazione dei bilanci, i progetti di bilancio o una situazione economico-patrimoniale e finanziaria aggiornata a non oltre sessanta giorni prima della presentazione dell'istanza;
+                                
+                            
+                            
+                                b)
+                                
+                                    un progetto di piano di risanamento redatto secondo le indicazioni della lista di controllo di cui all'articolo 13, comma 2, e una relazione chiara e sintetica sull'attivita' in concreto esercitata recante un piano finanziario per i successivi sei mesi e le iniziative che intende adottare; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco dei creditori, con l'indicazione dei rispettivi crediti scaduti e a scadere e dell'esistenza di diritti reali e personali di garanzia; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    una dichiarazione resa ai sensi dell'articolo 46 del testo unico di cui al decreto del Presidente della Repubblica n. 445 del 2000 sulla pendenza, nei suoi confronti, di ricorsi per l'apertura della liquidazione giudiziale o per l'accertamento dello stato di insolvenza e una dichiarazione con la quale attesta di non avere depositato domanda di accesso agli strumenti di regolazione della crisi o dell'insolvenza, anche nelle ipotesi di cui agli articoli 44, comma 1, lettera a), e 74 o con ricorso depositato ai sensi dell'articolo 54, comma 3;
+                                
+                            
+                            
+                                e)
+                                
+                                    il certificato unico dei debiti tributari di cui all'articolo 364, comma 1; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la situazione debitoria complessiva richiesta all'Agenzia delle entrate-Riscossione; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il certificato dei debiti contributivi e per premi assicurativi di cui all'articolo 363, comma 1; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    un estratto delle informazioni presenti nella Centrale dei rischi gestita dalla Banca d'Italia non anteriore di tre mesi rispetto alla presentazione dell'istanza.
 
 ((
 
@@ -291,6 +633,59 @@ Dal momento della conferma delle misure protettive, le banche e gli intermediari
 ## Art. 19. — (Procedimento relativo alle misure protettive e cautelari)
 
 Quando l'imprenditore formula la richiesta di cui all'articolo 18, comma 1, con ricorso presentato al tribunale competente ai sensi dell'articolo 27, entro il giorno successivo alla pubblicazione dell'istanza e dell'accettazione dell'esperto, chiede la conferma o la modifica delle misure protettive e, ove occorre, l'adozione dei provvedimenti cautelari necessari per condurre a termine le trattative. Entro ((venti)) giorni dalla pubblicazione di cui al medesimo articolo 18, comma 1, l'imprenditore chiede la pubblicazione nel registro delle imprese del numero di ruolo generale del procedimento instaurato. L'omesso o il ritardato deposito del ricorso e' causa di inefficacia delle misure previste dall'articolo 18, comma 1, e, decorso inutilmente il termine di cui al secondo periodo, l'iscrizione dell'istanza e' cancellata dal registro delle imprese.
+
+2.
+                        
+                            
+                                L'imprenditore, unitamente al ricorso, deposita: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i bilanci ((approvati)) degli ultimi tre esercizi oppure, quando non e' tenuto al deposito dei bilanci, le dichiarazioni dei redditi e dell'IVA degli ultimi tre periodi di imposta; 
+
+                                
+                            
+                            
+                                a-bis)
+                                
+                                    in caso di mancata approvazione dei bilanci, i progetti di bilancio o una situazione economico-patrimoniale e finanziaria aggiornata a non oltre sessanta giorni prima della presentazione della domanda;
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((una situazione economico-patrimoniale e finanziaria aggiornata)) a non oltre sessanta giorni prima del deposito del ricorso; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco dei creditori, individuando i primi dieci per ammontare, con indicazione dei relativi indirizzi di posta elettronica certificata, se disponibili, oppure degli indirizzi di posta elettronica non certificata per i quali sia verificata o verificabile la titolarita' della singola casella; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    un progetto di piano di risanamento redatto secondo le indicazioni della lista di controllo di cui all'articolo 13, comma 2, un piano finanziario per i successivi sei mesi e un prospetto delle iniziative che intende adottare; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    una dichiarazione avente valore di autocertificazione attestante, sulla base di criteri di ragionevolezza e proporzionalita', che l'impresa puo' essere risanata; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'accettazione dell'esperto nominato ai sensi dell'articolo 13, commi 6, 7 e 8, con il relativo indirizzo di posta elettronica certificata.
 
 ((
 
@@ -354,6 +749,65 @@ La prededucibilita' opera, qualunque sia l'esito della composizione negoziata, n
 Il procedimento di cui al comma 1 si svolge innanzi al tribunale competente ai sensi dell'articolo 27 che, sentite le parti interessate e assunte le informazioni necessarie, provvedendo, ove occorre, ai sensi dell'articolo 68 del codice di procedura civile, decide in composizione monocratica. Si applicano, in quanto compatibili, gli articoli 737 e seguenti del codice di procedura civile. Il reclamo si propone al tribunale e del collegio non puo' far parte il giudice che ha pronunciato il provvedimento. ((Il tribunale puo' assumere informazioni e acquisire nuovi documenti.))
 
 ## Art. 23. — (Conclusione delle trattative)
+
+1.
+                        
+                            
+                                Quando e' individuata una soluzione idonea al superamento della situazione di cui all'articolo 12, comma 1, le parti possono, alternativamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    concludere un contratto, con uno o piu' creditori ((oppure con una o piu' parti interessate all'operazione di risanamento)), che produce gli effetti di cui all'articolo 25-bis, comma 1, se, secondo la relazione dell'esperto di cui all'articolo 17, comma 8, e' idoneo ad assicurare la continuita' aziendale per un periodo non inferiore a due anni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    concludere la convenzione di moratoria di cui all'articolo 62; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    concludere un accordo sottoscritto dall'imprenditore, dai creditori ((aderenti e dalle altre parti interessate all'operazione di risanamento che vi hanno aderito nonche')) e dall'esperto che produce gli effetti di cui agli articoli 166, comma 3, lettera d), e 324. Con la sottoscrizione dell'accordo l'esperto da' atto che il piano di risanamento appare coerente con la regolazione della crisi o dell'insolvenza.
+
+2.
+                        
+                            
+                                
+                                    ((Oltre ai contratti o agli accordi di cui al comma 1, l'imprenditore puo' anche, alternativamente)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    predisporre il piano attestato di risanamento di cui all'articolo 56; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((chiedere)) l'omologazione di un accordo di ristrutturazione dei debiti ai sensi degli articoli 57, 60 e 61. La percentuale di cui all'articolo 61, comma 2, lettera c), e' ridotta al 60 per cento se il raggiungimento dell'accordo risulta dalla relazione finale dell'esperto ((o se la domanda di omologazione e' proposta nei sessanta giorni successivi alla comunicazione di cui all'articolo 17, comma 8)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proporre la domanda di concordato semplificato per la liquidazione del patrimonio di cui all'articolo 25-sexies; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    accedere ad uno degli strumenti di regolazione della crisi e dell'insolvenza disciplinati dal presente codice, dal decreto legislativo 8 luglio 1999, n. 270 o dal decreto-legge 23 dicembre 2003, n. 347, convertito, con modificazioni, dalla legge 18 febbraio 2004, n. 39. L'imprenditore agricolo puo' accedere agli strumenti di cui all'articolo 25-quater, comma 4.
 
 ((
 
@@ -421,6 +875,66 @@ Nel caso di successiva apertura della procedura di liquidazione giudiziale o di 
 
 ## Art. 25-ter. — (Compenso dell'esperto)
 
+1.
+                        
+                            
+                                Il compenso dell'esperto e' determinato, tenuto conto dell'opera prestata, della sua complessita', del contributo dato nella negoziazione e della sollecitudine con cui sono state condotte le trattative, in percentuale sull'ammontare dell'attivo dell'impresa debitrice secondo i seguenti scaglioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fino a euro 100.000,00, dal 4,00 al 6,00 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    da euro 100.000,01 e fino a euro 500.000,00, dall'1,00 all'1,50 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    da euro 500.000,01 e fino a euro 1.000.000,00, dallo 0,50 allo 0,80 per cento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    da euro 1.000.000,01 e fino a euro 2.500.000,00, dallo 0,25 allo 0,43 per cento; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    da euro 2.500.000,01 e fino a euro 50.000.000,00, dallo 0,05 allo 0,10 per cento; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    da euro 50.000.000,01 e fino a euro 400.000.000,00, dallo 0,010 allo 0,025 per cento; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    da euro 400.000.000,01 e fino a euro 1.300.000.000,00, dallo 0,002 allo 0,008 per cento; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    sulle somme eccedenti euro 1.300.000.000,00, dallo 0,005 allo 0,002 per cento.
+
 ((
 
 In caso di composizione negoziata condotta ai sensi dell'articolo 25 in modo unitario per tutte o alcune delle imprese che hanno presentato l'istanza di cui all'articolo 17, il compenso dell'esperto designato e' determinato tenendo conto della percentuale sull'ammontare dell'attivo della singola impresa istante partecipante al gruppo.
@@ -428,6 +942,38 @@ In caso di composizione negoziata condotta ai sensi dell'articolo 25 in modo uni
 ))
 
 Il compenso complessivo ((determinato ai sensi del comma 1 o del comma 2,)) non puo' essere, in ogni caso, inferiore a euro 4.000,00 e superiore a euro 400.000,00.
+
+4.
+                        
+                            
+                                L'importo di cui al comma 1 e' rideterminato, fermi i limiti di cui al comma 3, come di seguito indicato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il numero dei creditori e delle parti interessate che partecipano alle trattative e' compreso tra ventuno e cinquanta, il compenso e' aumentato del 25 per cento; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il numero dei creditori e delle parti interessate che partecipano alle trattative e' superiore a cinquanta, il compenso e' aumentato del 35 per cento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    se il numero dei creditori e delle parti interessate che partecipano alle trattative non e' superiore a cinque, il compenso e' ridotto del 40 per cento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    in caso di vendita del complesso aziendale o di individuazione di un acquirente da parte dell'esperto, il compenso e' aumentato del 10 per cento.
 
 I lavoratori e le rappresentanze sindacali non sono considerati nel numero dei creditori e delle altre parti interessate ai fini del riconoscimento degli aumenti di cui al comma 4, lettere a) e b); all'esperto comunque spetta il compenso di euro 100,00 per ogni ora di presenza risultante dai rapporti redatti ai sensi dell'articolo 4, comma 3, quinto periodo.
 
@@ -468,6 +1014,39 @@ Se all'esito delle trattative e' individuata una soluzione idonea al superamento
  ((a) concludere un contratto con uno o piu' creditori oppure con una o piu' parti interessate all'operazione di risanamento, idoneo ad assicurare la continuita' aziendale;)) 
  b) concludere un accordo avente il contenuto dell'articolo 62; 
  c) ((concludere un accordo sottoscritto dall'imprenditore, dai creditori aderenti e dalle altre parti interessate all'operazione di risanamento che vi hanno aderito nonche' dall'esperto)), idoneo a produrre gli effetti di cui all'articolo 25-bis, comma 5. Con la sottoscrizione dell'accordo l'esperto da' atto che il piano di risanamento appare coerente con la regolazione della crisi o dell'insolvenza.
+
+4.
+                        
+                            
+                                
+                                    ((Oltre ai contratti o agli accordi di cui al comma 3, l'imprenditore puo' anche, alternativamente)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    proporre la domanda di concordato minore di cui all'articolo 74; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    chiedere la liquidazione controllata dei beni ai sensi dell'articolo 268; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    proporre la domanda di concordato semplificato per la liquidazione del patrimonio di cui all'articolo 25-sexies; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per la sola impresa agricola, ((chiedere)) l'omologazione di un accordo di ristrutturazione dei debiti ai sensi degli articoli 57, 60 e 61.
 
 Si applicano, per quanto non specificamente previsto dalle disposizioni del presente articolo, gli articoli 12, 13, commi 1,2, 3, 4, 5 e 9, 14, 15, 16, 17, commi 1, 2, 4, 5, 6, 7, 8, 9 e 10, 18, 19, 20, 21, 22, ((23, comma 2-bis,)) 24, commi 3 e 4, 25, 25-bis, 25-ter, 25-quinquies, 25-sexies, 25-septies e 25-octies, in quanto compatibili.
 
@@ -538,11 +1117,56 @@ La tempestiva segnalazione all'organo amministrativo ai sensi del comma 1 e la v
 
 ## Art. 25-novies. — (Segnalazioni dei creditori pubblici qualificati)
 
+1.
+                        
+                            
+                                L'Istituto nazionale della previdenza sociale, l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, l'Agenzia delle entrate e l'Agenzia delle entrate-Riscossione segnalano all'imprenditore e, ove esistente, all'organo di controllo, nella persona del presidente del collegio sindacale in caso di organo collegiale, a mezzo di posta elettronica certificata o, in mancanza, mediante raccomandata con avviso di ricevimento inviata all'indirizzo risultante dall'anagrafe tributaria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'Istituto nazionale della previdenza sociale, il ritardo di oltre novanta giorni nel versamento di contributi previdenziali di ammontare superiore: 
+ 1) per le imprese con lavoratori subordinati e parasubordinati, al 30 per cento di quelli dovuti nell'anno precedente e all'importo di euro 15.000; 
+ 2) per le imprese senza lavoratori subordinati e parasubordinati, all'importo di euro 5.000; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, l'esistenza di un debito per premi assicurativi scaduto da oltre novanta giorni e non versato superiore all'importo di euro 5.000; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per l'Agenzia delle entrate-Riscossione, l'esistenza di crediti affidati per la riscossione, autodichiarati o definitivamente accertati e scaduti da oltre novanta giorni, superiori, per le imprese individuali, all'importo di euro 100.000, per le societa' di persone, all'importo di euro 200.000 e, per le altre societa', all'importo di euro 500.000.
+
 Le segnalazioni di cui al comma 1 sono inviate: 
  ((a) dall'Agenzia delle entrate, contestualmente alla comunicazione di irregolarita' di cui all'articolo 54-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e, comunque, non oltre centocinquanta giorni dal termine di presentazione delle comunicazioni di cui all'articolo 21-bis del decreto-legge n. 78 del 2010)); 
  b) dall'Istituto nazionale della previdenza sociale, dall'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro e dall'Agenzia delle entrate-Riscossione, entro sessanta giorni decorrenti dal verificarsi delle condizioni o dal superamento degli importi indicati nel medesimo comma 1.
 
 Le segnalazioni di cui al comma 1 contengono l'invito alla presentazione dell'istanza di cui all'articolo 17, comma 1, se ne ricorrono i presupposti.
+
+4.
+                        
+                            
+                                Le disposizioni del presente articolo si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    con riferimento all'Istituto nazionale della previdenza sociale e all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, in relazione ai debiti accertati a decorrere dal 1° gennaio 2022, per il primo, e ai debiti accertati a decorrere dall'entrata in vigore del presente decreto per il secondo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    con riferimento all'Agenzia delle entrate-Riscossione, in relazione ai carichi affidati all'agente della riscossione a decorrere dal 1° luglio 2022.
 
 ## Art. 25-decies. — (Obblighi di comunicazione per banche e intermediari finanziari)
 
@@ -585,6 +1209,31 @@ Il tribunale, quando apre una procedura di insolvenza transfrontaliera ai sensi 
 Per i procedimenti di accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza e le controversie che ne derivano relativi ((alle imprese assoggettabili ad amministrazione straordinaria)) e ai gruppi di imprese di rilevante dimensione e' competente il tribunale sede delle sezioni specializzate in materia di imprese di cui all'articolo 1 del decreto legislativo 27 giugno 2003, n. 168. Il tribunale sede della sezione specializzata in materia di imprese e' individuato a norma dell'articolo 4 del decreto legislativo 27 giugno 2003, n. 168, avuto riguardo al luogo in cui il debitore ha il centro degli interessi principali.
 
 Per i procedimenti di accesso a uno strumento di regolazione della crisi e dell'insolvenza o a una procedura di insolvenza diversi da quelli di cui al comma 1 e le controversie che ne derivano e' competente il tribunale nel cui circondario il debitore ha il centro degli interessi principali.
+
+3.
+                        
+                            
+                                Il centro degli interessi principali del debitore si presume coincidente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la persona fisica esercente attivita' d'impresa, con la sede legale risultante dal registro delle imprese o, in mancanza, con la sede effettiva dell'attivita' abituale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per la persona fisica non esercente attivita' d'impresa, con la residenza o il domicilio e, se questi sono sconosciuti, con l'ultima dimora nota o, in mancanza, con il luogo di nascita. Se questo non e' in Italia, la competenza e' del Tribunale di Roma; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per la persona giuridica e gli enti, anche non esercenti attivita' d'impresa, con la sede legale risultante dal registro delle imprese o, in mancanza, con la sede effettiva dell'attivita' abituale o, se sconosciuta, secondo quanto previsto nella lettera b), con riguardo al legale rappresentante.
 
 ## Art. 28. — (Trasferimento del centro degli interessi principali)
 
@@ -804,6 +1453,63 @@ I creditori non possono acquisire diritti di prelazione con efficacia rispetto a
 
 ## Art. 47. — (Apertura del concordato preventivo)
 
+1.
+                        
+                            
+                                A seguito del deposito del piano e della proposta di concordato, il tribunale, acquisito il parere del commissario giudiziale, se gia' nominato, verifica ((, anche con riferimento alla corretta formazione delle classi)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    in caso di concordato liquidatorio, l'ammissibilita' della proposta e la fattibilita' del piano, intesa come non manifesta inattitudine del medesimo a raggiungere gli obiettivi prefissati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in caso di concordato in continuita' aziendale, la ritualita' della proposta. La domanda di accesso al concordato in continuita' aziendale e' comunque inammissibile se il piano e' manifestamente inidoneo alla soddisfazione dei creditori, come proposta dal debitore, e alla conservazione dei valori aziendali.
+
+2.
+                        
+                            
+                                Compiute le verifiche di cui al comma 1, il tribunale, con decreto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nomina il giudice delegato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nomina ovvero conferma il commissario giudiziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    stabilisce, in relazione al numero dei creditori, alla entita' del passivo e alla necessita' di assicurare la tempestivita' e l'efficacia della procedura, la data iniziale e finale per l'espressione del voto dei creditori, con modalita' idonee a salvaguardare il contraddittorio e l'effettiva partecipazione, anche utilizzando le strutture informatiche messe a disposizione da soggetti terzi, e fissa il termine per la comunicazione del provvedimento ai creditori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fissa il termine perentorio, non superiore a quindici giorni, entro il quale il debitore deve depositare nella cancelleria del tribunale la somma, ulteriore rispetto a quella versata ai sensi dell'articolo 44, comma 1, lettera d), pari al 50 per cento delle spese che si presumono necessarie per l'intera procedura ovvero la diversa minor somma, non inferiore al 20 per cento di tali spese, che sia determinata dal tribunale ((;))
+                                    
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    dispone gli obblighi informativi periodici del debitore sulla situazione economico-patrimoniale e finanziaria dell'impresa.
+
 Il decreto e' comunicato e pubblicato ai sensi dell'articolo 45.
 
 Il tribunale, quando accerta la mancanza delle condizioni di cui al comma 1, sentiti il debitore, i creditori che hanno proposto domanda di apertura della liquidazione giudiziale e il pubblico ministero, con decreto motivato dichiara inammissibile la proposta.
@@ -833,6 +1539,57 @@ Il tribunale, definite le domande di accesso a uno strumento di regolazione dell
 
 Allo stesso modo, su ricorso di uno dei soggetti legittimati, il tribunale provvede, osservate le disposizioni di cui all'articolo 44, comma 2, quando e' decorso inutilmente o e' stato revocato il termine di cui all'articolo 44, comma 1, lettera a), quando il debitore non ha depositato le spese di procedura di cui all'articolo 44, comma 1, lettera d), ovvero nei casi previsti dall'articolo 47, comma 4 e dall'articolo 106 o in caso di mancata approvazione del concordato preventivo o quando il concordato preventivo o gli accordi di ristrutturazione non sono stati omologati.
 
+3.
+                        
+                            
+                                Con la sentenza di cui ai commi 1 e 2, il tribunale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nomina il giudice delegato per la procedura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nomina il curatore e, se utile, uno o piu' esperti per l'esecuzione di compiti specifici in luogo del curatore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordina al debitore il deposito entro tre giorni dei bilanci e delle scritture contabili e fiscali obbligatorie, in formato digitale nei casi in cui la documentazione e' tenuta a norma dell'articolo 2215-bis del codice civile, dei libri sociali, delle dichiarazioni dei redditi, IRAP e IVA dei tre esercizi precedenti, nonche' dell'elenco dei creditori corredato dall'indicazione del loro domicilio digitale, se gia' non eseguito a norma dell'articolo 39; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    stabilisce il luogo, il giorno e l'ora dell'udienza in cui si procedera' all'esame dello stato passivo, entro il termine perentorio di non oltre centoventi giorni dal deposito della sentenza, ovvero centocinquanta giorni in caso di particolare complessita' della procedura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    assegna ai creditori e ai terzi, che vantano diritti reali o personali su cose in possesso del debitore, il termine perentorio di trenta giorni prima dell'udienza di cui alla lettera d) per la presentazione delle domande di insinuazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    autorizza il curatore, con le modalita' di cui agli articoli 155-quater, 155-quinquies e 155-sexies delle disposizioni di attuazione del codice di procedura civile: 
+ 1) ad accedere alle banche dati dell'anagrafe tributaria e dell'archivio dei rapporti finanziari; 
+ 2) ad accedere alla banca dati degli atti assoggettati a imposta di registro e ad estrarre copia degli stessi; 
+ 3) ad acquisire l'elenco dei clienti e l'elenco dei fornitori ((contenuti nelle trasmissioni telematiche previste dal decreto legislativo 5 agosto 2015, n. 127)); 
+ 4) ad acquisire la documentazione contabile in possesso delle banche e degli altri intermediari finanziari relativa ai rapporti con l'impresa debitrice, anche se estinti; 
+ 5) ad acquisire le schede contabili dei fornitori e dei clienti relative ai rapporti con l'impresa debitrice.
+
 La sentenza e' comunicata e pubblicata ai sensi dell'articolo 45. La sentenza produce i propri effetti dalla data della pubblicazione ai sensi dell'articolo 133, primo comma, del codice di procedura civile. Gli effetti nei riguardi dei terzi, fermo quanto disposto agli articoli da 163 a 171, si producono dalla data di iscrizione della sentenza nel registro delle imprese.
 
 Non si fa luogo all'apertura della liquidazione giudiziale se l'ammontare dei debiti scaduti e non pagati risultanti dagli atti dell'istruttoria e' complessivamente inferiore a euro trentamila.
@@ -855,6 +1612,38 @@ I termini ((di cui agli articoli 33 e 34)) si computano con riferimento alla sen
 ## Art. 51. — Impugnazioni
 
 Contro la sentenza del tribunale che pronuncia sull'omologazione del concordato preventivo, del piano di ristrutturazione soggetto a omologazione o degli accordi di ristrutturazione oppure dispone l'apertura della liquidazione giudiziale le parti possono proporre reclamo. La sentenza che dichiara aperta la liquidazione giudiziale puo' essere impugnata anche da qualunque interessato. Il reclamo e' proposto con ricorso da depositare nella cancelleria della corte di appello nel termine di trenta giorni.
+
+2.
+                        
+                            
+                                Il ricorso deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione della corte di appello competente; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' dell'impugnante e del suo procuratore e l'elezione del domicilio nel comune in cui ha sede la corte di appello; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esposizione ((dei motivi)) su cui si basa l'impugnazione, con le relative conclusioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione dei mezzi di prova di cui il ricorrente intende avvalersi e dei documenti prodotti.
 
 Il termine per il reclamo decorre, per le parti, dalla data della notificazione telematica del provvedimento a cura dell'ufficio e, per gli altri interessati, dalla data della iscrizione nel registro delle imprese. Si applica alle parti la disposizione di cui all'articolo 327, primo comma, del codice di procedura civile.
 
@@ -954,6 +1743,66 @@ L'imprenditore in stato di crisi o di insolvenza puo' predisporre un piano, rivo
 
 ((
 
+2.
+                        
+                            
+                                Il piano deve avere data certa e deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del debitore e delle eventuali parti correlate, le sue attivita' e passivita' al momento della presentazione del piano e la descrizione della situazione economico-finanziaria dell'impresa e della posizione dei lavoratori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una descrizione delle cause e dell'entita' dello stato di crisi o di insolvenza in cui si trova; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le strategie d'intervento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'elenco dei creditori e l'ammontare dei crediti dei quali si propone la rinegoziazione e lo stato delle eventuali trattative, nonche' l'elenco dei creditori estranei, con l'indicazione delle risorse destinate all'integrale soddisfacimento dei loro crediti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli apporti di finanza nuova eventualmente previsti e le ragioni per cui sono necessari per l'attuazione del piano; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i tempi delle azioni da compiersi, che consentono di verificarne la realizzazione, nonche' le iniziative da adottare qualora si verifichi uno scostamento dagli obiettivi pianificati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    il piano industriale e l'evidenziazione dei suoi effetti sul piano finanziario nonche' i tempi necessari per assicurare il riequilibrio della situazione economico finanziaria; 
+
+                                
+                            
+                            
+                                g-bis)
+                                
+                                    l'analitica indicazione dei costi e dei ricavi attesi, del fabbisogno finanziario e delle relative modalita' di copertura, tenendo conto anche dei costi necessari per assicurare il rispetto della normativa in materia di sicurezza sul lavoro e di tutela dell'ambiente.
+
 ))
 
 Un professionista indipendente deve attestare la veridicita' dei dati aziendali e la fattibilita' economica del piano.
@@ -971,6 +1820,24 @@ Gli accordi di ristrutturazione dei debiti sono conclusi dall'imprenditore, anch
 
 Gli accordi devono contenere l'indicazione degli elementi del piano economico-finanziario che ne consentono l'esecuzione. Il piano deve essere redatto secondo le modalita' indicate dall'articolo 56.
 Al piano debbono essere allegati i documenti di cui all'articolo 39 , commi 1 e 3. ((Si applica l'articolo 116.))
+
+3.
+                        
+                            
+                                Gli accordi devono essere idonei ad assicurare il pagamento integrale dei creditori estranei nei seguenti termini: 
+ 
+                            
+                            
+                                a)
+                                
+                                    entro centoventi giorni dall'omologazione, in caso di crediti gia' scaduti a quella data; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    entro centoventi giorni dalla scadenza, in caso di crediti non ancora scaduti alla data dell'omologazione.
 
 Un professionista indipendente deve attestare la veridicita' dei dati aziendali e la fattibilita' del piano. L'attestazione deve specificare l'idoneita' dell'accordo e del piano ad assicurare l'integrale pagamento dei creditori estranei nel rispetto dei termini di cui al comma 3.
 
@@ -996,9 +1863,66 @@ Salvo patto contrario, gli accordi di ristrutturazione della societa' hanno effi
 
 ## Art. 60. — Accordi di ristrutturazione agevolati
 
+1.
+                        
+                            
+                                La percentuale di cui al all'articolo 57, comma 1, e' ridotta della meta' quando il debitore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non proponga la moratoria dei creditori estranei agli accordi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbia richiesto e rinunci a richiedere ((le misure protettive di cui all'articolo 54)).
+
 ## Art. 61. — Accordi di ristrutturazione ad efficacia estesa
 
 Le disposizioni di cui alla presente sezione si applicano, in deroga agli articoli 1372 e 1411 del codice civile, al caso in cui gli effetti dell'accordo vengano estesi anche ai creditori non aderenti che appartengano alla medesima categoria, individuata tenuto conto dell'omogeneita' di posizione giuridica ed interessi economici.
+
+2.
+                        
+                            
+                                Ai fini di cui al comma 1 occorre che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tutti i creditori appartenenti alla categoria siano stati informati dell'avvio delle trattative, siano stati messi in condizione di parteciparvi in buona fede e abbiano ricevuto complete e aggiornate informazioni ((sulla situazione economico-patrimoniale e finanziaria)) del debitore nonche' sull'accordo e sui suoi effetti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'accordo abbia carattere non liquidatorio, prevedendo la prosecuzione dell'attivita' d'impresa in via diretta o indiretta ai sensi dell'articolo 84; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i crediti dei creditori aderenti appartenenti alla categoria rappresentino il settantacinque per cento di tutti i creditori appartenenti alla categoria, fermo restando che un creditore puo' essere titolare di crediti inseriti in piu' di una categoria; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i creditori della medesima categoria non aderenti cui vengono estesi gli effetti dell'accordo possano risultare soddisfatti in base all'accordo stesso in misura non inferiore ((rispetto a quanto riceverebbero in caso di apertura della liquidazione giudiziale alla data di deposito della domanda di omologazione)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il debitore abbia notificato l'accordo, la domanda di omologazione e i documenti allegati ai creditori nei confronti dei quali chiede di estendere gli effetti dell'accordo.
 
 I creditori della medesima categoria non aderenti ai quali il debitore chiede di estendere gli effetti dell'accordo possono proporre opposizione ai sensi dell'articolo 48, comma 4. Per essi, il termine per proporre opposizione decorre ((dalla data della notificazione)). ((Su istanza del debitore il tribunale puo' autorizzare, ai sensi dell'articolo 151 del codice di procedura civile, le forme di notificazione opportune per garantire la celerita' del procedimento.))
 
@@ -1009,6 +1933,37 @@ Quando un'impresa ha debiti verso ((banche, intermediari finanziari e cessionari
 ## Art. 62. — Convenzione di moratoria
 
 La convenzione di moratoria conclusa tra un imprenditore, anche non commerciale, e i suoi creditori, diretta a disciplinare in via provvisoria gli effetti della crisi e avente ad oggetto la dilazione delle scadenze dei crediti, la rinuncia agli atti o la sospensione delle azioni esecutive e conservative e ogni altra misura che non comporti rinuncia al credito, in deroga agli articoli 1372 e 1411 del codice civile, e' efficace anche nei confronti dei creditori non aderenti che appartengano alla medesima categoria.
+
+2.
+                        
+                            
+                                Ai fini di cui al comma 1 occorre che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tutti i creditori appartenenti alla categoria siano stati informati dell'avvio delle trattative o siano stati messi in condizione di parteciparvi in buona fede e abbiano ricevuto complete e aggiornate informazioni ((sulla situazione economico-patrimoniale e finanziaria)) del debitore nonche' sulla convenzione e i suoi effetti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i crediti dei creditori aderenti appartenenti alla categoria rappresentino il settantacinque per cento di tutti i creditori appartenenti alla categoria, fermo restando che un creditore puo' essere titolare di crediti inseriti in piu' di una categoria; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i creditori della medesima categoria non aderenti, cui vengono estesi gli effetti della convenzione, non risultino pregiudicati rispetto a quanto potrebbero ricevere nel caso di apertura della liquidazione giudiziale alla data della convenzione;
+                                
+                            
+                            
+                                d)
+                                
+                                    un professionista indipendente, abbia attestato la veridicita' dei dati aziendali, l'idoneita' della convenzione a disciplinare provvisoriamente gli effetti della crisi, e la ricorrenza delle condizioni di cui alla lettera c).
 
 In nessun caso, per effetto della convenzione, ai creditori della medesima categoria non aderenti possono essere imposti l'esecuzione di nuove prestazioni, la concessione di affidamenti, il mantenimento della possibilita' di utilizzare affidamenti esistenti o l'erogazione di nuovi finanziamenti. Non e' considerata nuova prestazione la prosecuzione della concessione del godimento di beni oggetto di contratti di locazione finanziaria gia' stipulati.
 
@@ -1031,7 +1986,59 @@ L'adesione espressa sulla proposta di transazione equivale a sottoscrizione dell
 
 La domanda di omologazione e' proposta una volta ottenuta l'adesione o, in difetto, decorsi i termini di cui al comma 2, undicesimo e dodicesimo periodo. Il debitore avvisa dell'iscrizione della domanda nel registro delle imprese l'amministrazione finanziaria e gli enti gestori di forme di previdenza, assistenza e assicurazioni obbligatorie mediante comunicazione inviata a mezzo posta elettronica certificata alle sedi territoriali e regionali competenti sulla base dell'ultimo domicilio fiscale dell'istante. Per l'amministrazione finanziaria e gli enti gestori di forme di previdenza, assistenza e assicurazioni obbligatorie, il termine per l'opposizione di cui all'articolo 48, comma 4, decorre dalla ricezione dell'avviso.
 
+4.
+                        
+                            
+                                Il tribunale omologa gli accordi di ristrutturazione anche in mancanza di adesione, che comprende il voto contrario, da parte dell'amministrazione finanziaria o degli enti gestori di forme di previdenza, assistenza e assicurazioni obbligatorie quando, anche sulla base delle risultanze della relazione del professionista indipendente, l'adesione e' determinante ai fini del raggiungimento delle percentuali di cui agli articoli 57, comma 1, e 60, comma 1, e ricorrono congiuntamente le seguenti condizioni, oggetto di specifica valutazione da parte del tribunale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'accordo non ha carattere liquidatorio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il credito complessivo vantato dagli altri creditori aderenti agli accordi di ristrutturazione e' pari ad almeno un quarto dell'importo complessivo dei crediti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il soddisfacimento dell'amministrazione finanziaria o dei predetti enti e' non deteriore rispetto all'alternativa della liquidazione giudiziale alla data della proposta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    il soddisfacimento dei crediti dell'amministrazione finanziaria e degli enti gestori di forme di previdenza o assistenza obbligatorie e' almeno pari al 50 per cento dell'ammontare dei crediti di ciascun ente creditore, esclusi sanzioni ed interessi, fermo restando il pagamento degli interessi di dilazione al tasso legale vigente nel corso di tale periodo.
+
 Se l'ammontare complessivo dei crediti vantati dagli altri creditori aderenti agli accordi di ristrutturazione e' inferiore a un quarto dell'importo complessivo dei crediti, oppure non vi sono altri creditori aderenti, la disposizione di cui al comma 4 trova applicazione, fatto salvo il rispetto delle condizioni di cui alle lettere a) e c) del medesimo comma 4, se la percentuale di soddisfacimento dei crediti dell'amministrazione finanziaria e degli enti gestori di forme di previdenza o assistenza obbligatorie e' almeno pari al 60 per cento dell'ammontare dei crediti di ciascun ente creditore, esclusi sanzioni ed interessi, e la dilazione di pagamento richiesta non eccede il periodo di dieci anni, fermo restando il pagamento dei relativi interessi di dilazione al tasso legale vigente nel corso di tale periodo.
+
+6.
+                        
+                            
+                                Le disposizioni di cui ai commi 4 e 5, non trovano applicazione se si verifica una delle seguenti ipotesi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se, fatta salva l'ipotesi cui all'articolo 58, nei cinque anni precedenti il deposito della proposta il debitore ha concluso una transazione nell'ambito degli accordi regolati dal presente articolo avente a oggetto debiti della stessa natura, risolta di diritto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se ricorrono congiuntamente le seguenti condizioni: 
+ 1) il debito nei confronti dell'amministrazione finanziaria e degli enti gestori di forme di previdenza, assistenza e assicurazioni obbligatorie maturato sino al giorno anteriore a quello del deposito della proposta di transazione fiscale e' pari o superiore all'ottanta per cento dell'importo complessivo dei debiti maturati dall'impresa alla medesima data; 
+ 2) il debito, tributario o previdenziale, deriva prevalentemente da omessi versamenti, anche solo parziali, di imposte dichiarate o contributi nel corso di almeno cinque periodi d'imposta, anche non consecutivi, oppure deriva, per almeno un terzo del complessivo debito oggetto di transazione con i creditori pubblici, dall'accertamento di violazioni realizzate mediante l'utilizzo di documentazione falsa o per operazioni inesistenti, mediante artifici o raggiri, condotte simulatorie o fraudolente.
 
 L'ipotesi di cui al comma 6, lettera a), si verifica anche quando il proponente ha proseguito, ancorche' solo parzialmente, a seguito di fusione o scissione, cessione di azienda, anche di fatto, conferimento o affitto di azienda ovvero a seguito di atti produttivi di effetti analoghi, l'attivita' esercitata da un soggetto che, nel corso dei cinque anni precedenti il deposito della proposta, ha concluso una transazione risolta di diritto ai sensi del comma 8, ovvero risponde a qualsiasi titolo di debiti tributari o contributivi del debitore originario.
 
@@ -1072,6 +2079,24 @@ Prima della presentazione della domanda di omologazione del piano il debitore pu
 La domanda e' presentata nelle forme dell'articolo 40, anche con accesso ai sensi dell'articolo 44, comma 1, lettera a). Con il ricorso il debitore deposita la proposta e il piano, con la documentazione di cui all'articolo 39, commi 1 e 2. Alla domanda si applicano i commi 4 e 5 dell'articolo 46.
 
 Un professionista indipendente attesta la veridicita' dei dati aziendali e la fattibilita' del piano.
+
+4.
+                        
+                            
+                                A seguito della presentazione del ricorso, il tribunale pronuncia decreto con il quale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    valutata la ((...)) ritualita' della proposta e verificata la correttezza dei criteri di formazione delle classi, nomina un giudice delegato al procedimento e nomina oppure conferma il commissario giudiziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    adotta i provvedimenti di cui all'articolo 47, comma 2, lettere c) e d).
 
 Dalla data della presentazione della domanda e fino all'omologazione, l'imprenditore conserva la gestione ordinaria e straordinaria dell'impresa, sotto il controllo del commissario giudiziale secondo quanto previsto nel comma 6. L'imprenditore gestisce l'impresa nel prevalente interesse dei creditori.
 
@@ -1159,6 +2184,45 @@ La liquidazione del compenso dovuto all'organismo di composizione della crisi e'
 
 Il consumatore sovraindebitato, con l'ausilio dell'OCC, puo' proporre ai creditori un piano di ristrutturazione dei debiti che indichi in modo specifico tempi e modalita' per superare la crisi da sovraindebitamento. La proposta ha contenuto libero e puo' prevedere il soddisfacimento, anche parziale e differenziato, dei crediti in qualsiasi forma.
 
+2.
+                        
+                            
+                                La domanda e' corredata dell'elenco: 
+ 
+                            
+                            
+                                a)
+                                
+                                    di tutti i creditori, con l'indicazione delle somme dovute e delle cause di prelazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    della consistenza e della composizione del patrimonio; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    degli atti ((eccedenti l'ordinaria)) amministrazione compiuti negli ultimi cinque anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    delle dichiarazioni dei redditi degli ultimi tre anni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    degli stipendi, delle pensioni, dei salari e di tutte le altre entrate del debitore e del suo nucleo familiare, con l'indicazione di quanto occorre al mantenimento della sua famiglia.
+
 La proposta puo' prevedere anche la falcidia e la ristrutturazione dei debiti derivanti da contratti di finanziamento con cessione del quinto dello stipendio, del trattamento di fine rapporto o della pensione e dalle operazioni di prestito su pegno, salvo quanto previsto dal comma 4.
 
 E' possibile prevedere che i crediti muniti di privilegio, pegno o ipoteca possano essere soddisfatti non integralmente, allorche' ne sia assicurato il pagamento in misura non inferiore a quella realizzabile, in ragione della collocazione preferenziale sul ricavato in caso di liquidazione, ((dei beni e dei diritti oggetto della causa di prelazione, come attestato dall'OCC)). ((La proposta puo' prevedere, per i crediti di cui al primo periodo, una moratoria fino a due anni dall'omologazione per il pagamento e sono dovuti gli interessi legali.))
@@ -1172,6 +2236,38 @@ Il procedimento si svolge dinanzi al tribunale in composizione monocratica.
 Presentazione della domanda e attivita' dell'OCC
 
 La domanda deve essere presentata al giudice tramite un OCC costituito nel circondario del tribunale competente ai sensi dell'articolo 27, comma 2. Se nel circondario del tribunale competente non vi e' un OCC, i compiti e le funzioni allo stesso attribuiti sono svolti da un professionista o da una societa' tra professionisti in possesso dei requisiti di cui all'articolo 358 nominati dal presidente del tribunale competente o da un giudice da lui delegato ((e individuati, ove possibile, tra gli iscritti all'albo dei gestori della crisi di cui al decreto del Ministro della giustizia 24 settembre 2014, n. 202)). Non e' necessaria l'assistenza di un difensore.
+
+2.
+                        
+                            
+                                Alla domanda, deve essere allegata una relazione dell'OCC, che deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione delle cause dell'indebitamento e della diligenza impiegata dal debitore nell'assumere le obbligazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esposizione delle ragioni dell'incapacita' del debitore di adempiere le obbligazioni assunte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la valutazione sulla completezza ed attendibilita' della documentazione depositata a corredo della domanda; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione presunta dei costi della procedura.
 
 L'OCC, nella sua relazione, deve indicare anche se il soggetto finanziatore, ai fini della concessione del finanziamento, abbia tenuto conto del merito creditizio del debitore, valutato in relazione al suo reddito disponibile, dedotto l'importo necessario a mantenere un dignitoso tenore di vita. A tal fine si ritiene idonea una quantificazione non inferiore all'ammontare dell'assegno sociale moltiplicato per un parametro corrispondente al numero dei componenti il nucleo familiare della scala di equivalenza dell'ISEE di cui al decreto del Presidente del Consiglio dei ministri del 5 dicembre 2013, n. 159.
 
@@ -1289,6 +2385,45 @@ Per quanto non previsto dalla presente sezione, si applicano le disposizioni del
 
 ## Art. 75. — Documentazione e trattamento dei crediti privilegiati
 
+1.
+                        
+                            
+                                Il debitore deve allegare alla domanda: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il piano con i bilanci, le scritture contabili e fiscali obbligatorie, le dichiarazioni dei redditi, le dichiarazioni IRAP e le dichiarazioni annuali IVA concernenti i tre anni anteriori o gli ultimi esercizi precedenti se l'attivita' ha avuto minor durata; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una relazione aggiornata ((sulla situazione economico-patrimoniale e finanziaria)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'elenco di tutti i creditori, con le rispettive cause di prelazione e l'indicazione delle somme dovute. L'elenco deve contenere l'indicazione del domicilio digitale dei creditori che ne sono muniti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli atti ((eccedenti l'ordinaria)) amministrazione di cui all'articolo 94, comma 2, compiuti negli ultimi cinque anni; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la documentazione relativa a stipendi, pensioni, salari e altre entrate proprie e della famiglia, con l'indicazione di quanto occorra al mantenimento della stessa.
+
 E' possibile prevedere che i crediti muniti di privilegio, pegno o ipoteca possano essere soddisfatti non integralmente, allorche' ne sia assicurato il pagamento in misura non inferiore a quella realizzabile, in ragione della collocazione preferenziale sul ricavato in caso di liquidazione, avuto riguardo al valore di mercato attribuibile ai beni o ai diritti sui quali insiste la causa di prelazione, come attestato dagli organismi di composizione della crisi.
 
 ((
@@ -1305,6 +2440,61 @@ Quando e' prevista la ((continuazione dell'attivita', e' altresi' possibile)) pr
 Presentazione della domanda e attivita' dell'OCC
 
 La domanda e' formulata tramite un OCC costituito nel circondario del tribunale competente ai sensi dell'articolo 27, comma 2. Se nel circondario del tribunale competente non vi e' un OCC, i compiti e le funzioni allo stesso attribuiti sono svolti da un professionista o da una societa' tra professionisti in possesso dei requisiti di cui all'articolo 358, nominati dal presidente del tribunale competente o da un giudice da lui delegato, individuati, ove possibile, tra gli iscritti ((nel registro degli organismi di composizione della crisi da sovraindebitamento disciplinato dal regolamento di cui all'articolo 15 della legge 27 gennaio 2012, n. 3)).
+
+2.
+                        
+                            
+                                Alla domanda deve essere allegata una relazione particolareggiata dell'OCC, che comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione delle cause dell'indebitamento e della diligenza impiegata dal debitore nell'assumere le obbligazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esposizione delle ragioni dell'incapacita' del debitore di adempiere le obbligazioni assunte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione della eventuale esistenza di atti ((in frode o di atti)) del debitore impugnati dai creditori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la valutazione sulla completezza e attendibilita' della documentazione depositata a corredo della domanda, ((nonche' sulla fattibilita' del piano e sulla convenienza dello stesso rispetto all'alternativa della liquidazione controllata)); 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione presumibile dei costi della procedura ((.))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 13 SETTEMBRE 2024, N. 136)). 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.LGS. 13 SETTEMBRE 2024, N. 136)).
 
 L'OCC, nella sua relazione, deve indicare anche se il soggetto finanziatore, ai fini della concessione del finanziamento, abbia tenuto conto del merito creditizio del debitore.
 
@@ -1323,6 +2513,63 @@ La domanda di concordato minore e' inammissibile se mancano i documenti di cui a
 ## Art. 78. — Procedimento
 
 Il giudice, se la domanda e' ammissibile, dichiara aperta la procedura con decreto non soggetto a reclamo e dispone la comunicazione, a cura dell'OCC, a tutti i creditori della proposta e del decreto. ((Il giudice puo' concedere al debitore un termine non superiore a quindici giorni per apportare integrazioni al piano e produrre nuovi documenti. Se non ricorrono le condizioni di ammissibilita' il giudice provvede con decreto motivato reclamabile, nel termine di trenta giorni dalla comunicazione, dinanzi al tribunale, il quale provvede in camera di consiglio con decreto motivato. Nel giudizio di reclamo la proposta e il piano non possono essere modificati e si applicano le disposizioni di cui agli articoli 737 e 738 del codice di procedura civile. In caso di accoglimento del reclamo il tribunale rimette gli atti al giudice per l'adozione dei provvedimenti conseguenti.))
+
+2.
+                        
+                            
+                                Con il decreto di cui al comma 1, ((primo periodo,)) il giudice: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dispone la pubblicazione del decreto mediante inserimento in apposita area del sito web del tribunale o del Ministero della giustizia e nel registro delle imprese se il debitore svolge attivita' d'impresa; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ordina, ove il piano preveda la cessione o l'affidamento a terzi di beni immobili o beni mobili registrati, la trascrizione del decreto presso gli uffici competenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    assegna ai creditori un termine non superiore a trenta giorni entro il quale devono fare pervenire all'OCC, a mezzo posta elettronica certificata o altro servizio elettronico di recapito certificato qualificato ai sensi dell'articolo 1, comma 1-ter del Codice dell'amministrazione digitale di cui al decreto legislativo n. 82 del 2005, la dichiarazione di adesione o di mancata adesione alla proposta di concordato e le eventuali contestazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su istanza del debitore dispone che sino al momento in cui il provvedimento di omologazione diventa definitivo non possono essere iniziate o proseguite azioni esecutive e cautelari sul patrimonio del debitore o sui beni e diritti con i quali viene esercitata l'attivita' d'impresa e che, per lo stesso periodo, non possono essere acquisiti diritti di prelazione sul patrimonio del debitore da parte dei creditori aventi titolo o causa anteriore, le prescrizioni rimangono sospese, le decadenze non si verificano e la sentenza di apertura della liquidazione controllata non puo' essere pronunciata.
+
+2-bis.
+                        
+                            
+                                Con il decreto di cui al comma 1, il giudice nomina il commissario giudiziale perche' svolga, a partire da quel momento, le funzioni dell'OCC se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    e' stata disposta la sospensione generale ((dalle azioni esecutive e cautelari)) e la nomina appare necessaria per tutelare gli interessi delle parti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    e' proposta domanda di concordato in continuita' aziendale, con omologazione da pronunciarsi ai sensi dell'articolo 112, comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la nomina e' richiesta dal debitore.
 
 L'OCC cura l'esecuzione del decreto.
 
@@ -1459,6 +2706,115 @@ Fermo quanto previsto nell'articolo 109, il piano puo' prevedere una moratoria p
 ))
 
 ## Art. 87. — (Contenuto del piano di concordato)
+
+1.
+                        
+                            
+                                Il debitore presenta, con la proposta di concordato e unitamente alla documentazione prevista dall'articolo 39, un piano contenente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del debitore e delle eventuali parti correlate, le sue attivita' e passivita' al momento della presentazione del piano e la descrizione della ((situazione economico-patrimoniale e finanziaria)) dell'impresa e della posizione dei lavoratori; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una descrizione delle cause e dell'entita' dello stato di crisi o di insolvenza in cui si trova e l'indicazione delle strategie d'intervento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il valore di liquidazione alla data della domanda di concordato, corrispondente al valore realizzabile, in sede di liquidazione giudiziale, dalla liquidazione dei beni e dei diritti, comprensivo dell'eventuale maggior valore economico realizzabile nella medesima sede dalla cessione dell'azienda in esercizio nonche' delle ragionevoli prospettive di realizzo delle azioni esperibili, al netto delle spese;
+                                
+                            
+                            
+                                d)
+                                
+                                    le modalita' di ristrutturazione dei debiti e di soddisfazione dei crediti attraverso qualsiasi forma, anche mediante cessione dei beni, accollo, o altre operazioni straordinarie, ivi compresa l'attribuzione ai creditori, nonche' a societa' da questi partecipate, di azioni, quote, ovvero obbligazioni, anche convertibili in azioni, o altri strumenti finanziari e titoli di debito; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    
+                                        ((gli effetti sul piano finanziario delle modalita' e dei tempi di adempimento della proposta analiticamente descritti)) nonche', in caso di concordato in continuita', il piano industriale con l'indicazione degli effetti sul piano finanziario e dei tempi necessari per assicurare il ((riequilibrio della situazione economico-finanziaria)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    ove sia prevista la prosecuzione dell'attivita' d'impresa in forma diretta ((e in tutti i casi in cui le risorse per i creditori sono, in tutto o in parte, realizzate nel tempo attraverso la prosecuzione dell'attivita' in capo al cessionario dell'azienda)), l'analitica individuazione dei costi e dei ricavi attesi, del fabbisogno finanziario e delle relative modalita' di copertura, tenendo conto anche dei costi necessari per assicurare il rispetto della normativa in materia di sicurezza sul lavoro e di tutela dell'ambiente; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    gli apporti di finanza nuova eventualmente previsti e le ragioni per cui sono necessari per l'attuazione del piano; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    le azioni risarcitorie e recuperatorie esperibili nonche' le azioni eventualmente proponibili solo nel caso di apertura della procedura di liquidazione giudiziale e le prospettive di realizzo; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    le iniziative da adottare qualora si verifichi uno scostamento dagli obiettivi pianificati; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    le parti interessate dal piano, indicate individualmente o descritte per categorie di debiti, e l'ammontare dei relativi crediti e interessi, con indicazione dell'ammontare eventualmente contestato; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    le classi in cui le parti interessate sono state suddivise ai fini del voto, con indicazione dei criteri di formazione utilizzati, del valore dei rispettivi crediti e degli interessi di ciascuna classe; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    le eventuali parti non interessate dal piano, indicate individualmente o descritte per categorie di debiti, unitamente a una descrizione dei motivi per i quali non sono interessate; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    le modalita' di informazione e consultazione dei rappresentanti dei lavoratori nonche' gli effetti della ristrutturazione sui rapporti di lavoro, sulla loro organizzazione o sulle modalita' di svolgimento delle prestazioni; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    l'indicazione del commissario giudiziale ove gia' nominato ((;))
+                                    
+                                
+                            
+                            
+                                p-bis)
+                                
+                                    l'indicazione, laddove necessario, di fondi rischi, con specifico riferimento, per il caso di finanziamenti garantiti da misure di sostegno pubblico, a quanto necessario al pagamento dei relativi crediti nell'ipotesi di escussione della garanzia e nei limiti delle previsioni di soddisfacimento del credito.
 
 Nella domanda il debitore indica le ragioni per cui la proposta concordataria e' preferibile rispetto alla liquidazione giudiziale.
 
@@ -1670,6 +3026,24 @@ Il tribunale puo' autorizzare il debitore a concedere pegno o ipoteca o a cedere
 
 Le disposizioni di cui ai commi da 1 a 4 si applicano anche ai finanziamenti erogati in funzione della presentazione della domanda di ammissione alla procedura di concordato preventivo ((...)), quando i finanziamenti sono previsti dal relativo piano e purche' la prededuzione sia espressamente disposta nel provvedimento con cui il tribunale accoglie la domanda di ammissione al concordato preventivo ((...)).
 
+6.
+                        
+                            
+                                In caso di successiva apertura della procedura di liquidazione giudiziale, i finanziamenti autorizzati non beneficiano della prededuzione quando risulta congiuntamente che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il ricorso o l'attestazione di cui al comma 2 contengono dati falsi ovvero omettono informazioni rilevanti o comunque quando il debitore ha commesso altri atti in frode ai creditori per ottenere l'autorizzazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il curatore dimostra che i soggetti che hanno erogato i finanziamenti, alla data dell'erogazione, conoscevano le circostanze di cui alla lettera a).
+
 ## Art. 100. — Autorizzazione al pagamento di crediti pregressi
 
 , o successivamente, il debitore)), quando e' prevista la continuazione dell'attivita' aziendale, puo' chiedere al tribunale di essere autorizzato, assunte se del caso sommarie informazioni, a pagare crediti anteriori per prestazioni di beni o servizi, se un professionista indipendente attesta che tali prestazioni sono essenziali per la prosecuzione dell'attivita' di impresa e funzionali ad assicurare la migliore soddisfazione dei creditori. L'attestazione del professionista non e' necessaria per pagamenti effettuati fino a concorrenza dell'ammontare di nuove risorse finanziarie che vengano apportate al debitore senza obbligo di restituzione o con obbligo di restituzione postergato alla soddisfazione dei creditori. Il tribunale puo' autorizzare, alle medesime condizioni, il pagamento delle retribuzioni dovute per le mensilita' antecedenti il deposito del ricorso ai lavoratori addetti all'attivita' di cui e' prevista la continuazione.
@@ -1804,7 +3178,94 @@ Se nel termine stabilito non si raggiungono le maggioranze richieste, il giudice
 
 ## Art. 112. — (Giudizio di omologazione)
 
+1.
+                        
+                            
+                                Il tribunale omologa il concordato verificati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la regolarita' della procedura; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esito della votazione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'ammissibilita' della proposta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la corretta formazione delle classi; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la parita' di trattamento dei creditori all'interno di ciascuna classe; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    in caso di concordato in continuita' aziendale, che tutte le classi abbiano votato favorevolmente, che il piano non sia privo di ragionevoli prospettive di impedire o superare l'insolvenza e che eventuali nuovi finanziamenti siano necessari per l'attuazione del piano e non pregiudichino ingiustamente gli interessi dei creditori; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    in ogni altro caso, la fattibilita' del piano, intesa come non manifesta inattitudine a raggiungere gli obiettivi prefissati.
+
 ((
+
+2.
+                        
+                            
+                                Nel concordato in continuita' aziendale, se una o piu' classi sono dissenzienti il tribunale, su richiesta del debitore o, in caso di proposte concorrenti, con il suo consenso quando l'impresa non supera i requisiti di cui all'articolo 85, comma 3, secondo periodo, omologa altresi' se ricorrono congiuntamente le seguenti condizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il valore di liquidazione, come definito dall'articolo 87, comma 1, lettera c), e' distribuito nel rispetto della graduazione delle cause legittime di prelazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il valore eccedente quello di liquidazione e' distribuito in modo tale che i crediti inclusi nelle classi dissenzienti ricevano complessivamente un trattamento almeno pari a quello delle classi dello stesso grado e piu' favorevole rispetto a quello delle classi di grado inferiore fermo restando quanto previsto dall'articolo 84, comma 7; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nessun creditore riceve piu' dell'importo del proprio credito; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la proposta e' approvata dalla maggioranza delle classi, purche' almeno una sia formata da creditori titolari di diritti di prelazione, oppure, in mancanza dell'approvazione a maggioranza delle classi, la proposta e' approvata da almeno una classe di creditori: 
+ 1) ai quali e' offerto un importo non integrale del credito; 
+ 2) che sarebbero soddisfatti in tutto o in parte qualora si applicasse l'ordine delle cause legittime di prelazione anche sul valore eccedente quello di liquidazione.
 
 ))
 
@@ -2013,9 +3474,101 @@ Le disposizioni sulla liquidazione giudiziale si applicano agli imprenditori com
 
 ## Art. 122. — Poteri del tribunale concorsuale
 
+1.
+                        
+                            
+                                Il tribunale che ha dichiarato aperta la procedura di liquidazione giudiziale e' investito dell'intera procedura e: 
+ 
+                            
+                            
+                                a)
+                                
+                                    provvede alla nomina, alla revoca o sostituzione per giustificati motivi degli organi della procedura, quando non e' prevista la competenza del giudice delegato; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    puo' in ogni tempo sentire in camera di consiglio il curatore, il comitato dei creditori e il debitore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    decide le controversie relative alla procedura stessa che non sono di competenza del giudice delegato, nonche' i reclami contro i provvedimenti del giudice delegato.
+
 I provvedimenti del tribunale sono pronunciati con decreto motivato, salvo che la legge non preveda che il provvedimento sia adottato in forma diversa.
 
 ## Art. 123. — Poteri del giudice delegato
+
+1.
+                        
+                            
+                                Il giudice delegato esercita funzioni di vigilanza e di controllo sulla regolarita' della procedura e: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riferisce al tribunale su ogni affare per il quale e' richiesto un provvedimento del collegio; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    emette o provoca dalle competenti autorita' i provvedimenti urgenti per la conservazione del patrimonio, ad esclusione di quelli che incidono su diritti di terzi che rivendichino un proprio diritto incompatibile con l'acquisizione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    convoca il curatore e il comitato dei creditori nei casi prescritti dalla legge e ogni qualvolta lo ravvisi opportuno per il corretto e sollecito svolgimento della procedura; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    su proposta del curatore, liquida i compensi e dispone l'eventuale revoca dell'incarico conferito alle persone la cui opera e' stata richiesta dal medesimo curatore nell'interesse della procedura; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    provvede sui reclami proposti contro gli atti del curatore e del comitato dei creditori; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fatto salvo quanto previsto dall'articolo 128, comma 2, autorizza il curatore a stare in giudizio come attore o come convenuto, quando e' utile per il miglior soddisfacimento dei creditori. L'autorizzazione deve essere sempre data per atti determinati e per i giudizi deve essere rilasciata per ogni grado di essi; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    nomina gli arbitri, su proposta del curatore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    procede all'accertamento dei crediti e dei diritti vantati da terzi sui beni compresi nella procedura, secondo le disposizioni del capo III. 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    quando ne ravvisa l'opportunita', dispone che il curatore presenti relazioni ulteriori rispetto a quelle previste dall'articolo 130, prescrivendone le modalita'.
 
 Il giudice delegato non puo' trattare i giudizi che ha autorizzato, ne' far parte del collegio investito del reclamo proposto contro i suoi atti.
 
@@ -2026,6 +3579,38 @@ I provvedimenti del giudice delegato sono pronunciati con decreto motivato.
 Salvo che sia diversamente disposto, contro i decreti del giudice delegato e del tribunale il curatore, il comitato dei creditori, il debitore e ogni altro interessato possono proporre reclamo, rispettivamente, al tribunale o alla corte di appello nel termine perentorio di dieci giorni dalla comunicazione o dalla notificazione per il curatore, per il debitore, per il comitato dei creditori e per chi ha chiesto o nei cui confronti e' stato chiesto il provvedimento. Per gli altri interessati, il termine decorre dall'esecuzione delle formalita' pubblicitarie previste dalla legge o disposte dal giudice delegato o dal tribunale, se quest'ultimo ha emesso il provvedimento.
 
 In ogni caso il reclamo non puo' piu' proporsi decorsi novanta giorni dal deposito del provvedimento nel fascicolo della procedura.
+
+3.
+                        
+                            
+                                Il reclamo si propone con ricorso, che deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del tribunale o della corte di appello competente, del giudice delegato e della procedura di liquidazione giudiziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita', il codice fiscale del ricorrente e il nome e il domicilio digitale del difensore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esposizione ((dei motivi)) su cui si basa il reclamo, con le relative conclusioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione dei mezzi di prova di cui il ricorrente intende avvalersi e dei documenti prodotti.
 
 Il reclamo non sospende l'esecuzione del provvedimento impugnato.
 
@@ -2265,6 +3850,38 @@ Le formalita' necessarie per rendere opponibili gli atti ai terzi, se compiute d
 
 ## Art. 146. — Beni non compresi nella liquidazione giudiziale
 
+1.
+                        
+                            
+                                Non sono compresi nella liquidazione giudiziale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i beni e i diritti di natura strettamente personale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli assegni aventi carattere alimentare, gli stipendi, le pensioni, i salari e cio' che il debitore guadagna con la sua attivita', entro i limiti di quanto occorre per il mantenimento suo e della sua famiglia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i frutti derivanti dall'usufrutto legale sui beni dei figli, i beni costituiti in fondo patrimoniale e i frutti di essi, salvo quanto e' disposto dall'articolo 170 del codice civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le cose che non possono essere pignorate per disposizione di legge.
+
 I limiti previsti al comma 1, lettera b), sono fissati con decreto motivato del giudice delegato, sentiti il curatore ed il comitato dei creditori, tenuto conto della condizione personale del debitore e di quella della sua famiglia.
 
 ## Art. 147. — Alimenti ed abitazione del debitore
@@ -2415,7 +4032,93 @@ L'azione si propone dinanzi al tribunale competente ai sensi dell'articolo 27 si
 
 ## Art. 166. — Atti a titolo oneroso, pagamenti, garanzie
 
+1.
+                        
+                            
+                                Sono revocati, salvo che l'altra parte provi che non conosceva lo stato d'insolvenza del debitore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli atti a titolo oneroso in cui le prestazioni eseguite o le obbligazioni assunte dal debitore sorpassano di oltre un quarto cio' che a lui e' stato dato o promesso, se compiuti dopo il deposito della domanda cui e' seguita l'apertura della liquidazione giudiziale o nell'anno anteriore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli atti estintivi di debiti pecuniari scaduti ed esigibili non effettuati con danaro o con altri mezzi normali di pagamento, se compiuti dopo il deposito della domanda cui e' seguita l'apertura della liquidazione giudiziale o nell'anno anteriore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i pegni, le anticresi e le ipoteche volontarie costituiti dopo il deposito della domanda cui e' seguita l'apertura della liquidazione giudiziale o nell'anno anteriore per debiti preesistenti non scaduti; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i pegni, le anticresi e le ipoteche giudiziali o volontarie costituiti dopo il deposito della domanda cui e' seguita l'apertura della liquidazione giudiziale o nei sei mesi anteriori per debiti scaduti.
+
 Sono altresi' revocati, se il curatore prova che l'altra parte conosceva lo stato d'insolvenza del debitore, i pagamenti di debiti liquidi ed esigibili, gli atti a titolo oneroso e quelli costitutivi di un diritto di prelazione per debiti, anche di terzi, contestualmente creati, se compiuti dal debitore dopo il deposito della domanda cui e' seguita l'apertura della liquidazione giudiziale o nei sei mesi anteriori.
+
+3.
+                        
+                            
+                                Non sono soggetti all'azione revocatoria: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i pagamenti di beni e servizi effettuati nell'esercizio dell'attivita' d'impresa nei termini d'uso; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le rimesse effettuate su un conto corrente bancario che non hanno ridotto in maniera durevole l'esposizione del debitore nei confronti della banca; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le vendite e i preliminari di vendita trascritti ai sensi dell'articolo 2645-bis del codice civile, i cui effetti non siano cessati ai sensi del comma terzo della suddetta disposizione, conclusi a giusto prezzo e aventi ad oggetto immobili ad uso abitativo, destinati a costituire l'abitazione principale dell'acquirente o di suoi parenti e affini entro il terzo grado, ovvero immobili ad uso non abitativo destinati a costituire la sede principale dell'attivita' d'impresa dell'acquirente, purche' alla data dell'apertura della liquidazione giudiziale tale attivita' sia effettivamente esercitata ovvero siano stati compiuti investimenti per darvi inizio; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    gli atti, i pagamenti effettuati e le garanzie concesse su beni del debitore posti in essere in esecuzione del piano attestato di cui all'articolo 56 o di cui all'articolo 284 e in esso indicati.
+L'esclusione non opera in caso di dolo o colpa grave dell'attestatore o di dolo o colpa grave del debitore, quando il creditore ne era a conoscenza al momento del compimento dell'atto, del pagamento o della costituzione della garanzia. L'esclusione opera anche con riguardo all'azione revocatoria ordinaria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    gli atti, i pagamenti e le garanzie su beni del debitore posti in essere in esecuzione del concordato preventivo, ((del concordato semplificato per la liquidazione del patrimonio,)) del piano di ristrutturazione di cui all'articolo 64-bis omologato e dell'accordo di ristrutturazione omologato e in essi indicati, nonche' gli atti, i pagamenti e le garanzie legalmente posti in essere dal debitore dopo il deposito della domanda di accesso al concordato preventivo o all'accordo di ristrutturazione. L'esclusione opera anche con riguardo all'azione revocatoria ordinaria; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i pagamenti eseguiti dal debitore a titolo di corrispettivo di prestazioni di lavoro effettuate da suoi dipendenti o altri suoi collaboratori, anche non subordinati; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i pagamenti di debiti liquidi ed esigibili eseguiti dal debitore alla scadenza per ottenere la prestazione di servizi strumentali all'accesso agli strumenti di regolazione della crisi e dell'insolvenza e alle procedure di insolvenza previsti dal presente codice.
 
 Le disposizioni di questo articolo non si applicano all'istituto di emissione, alle operazioni di credito su pegno e di credito fondiario; sono salve le disposizioni delle leggi speciali.
 
@@ -2601,6 +4304,60 @@ Qualora nel termine cosi' prorogato il curatore non procede al subentro o al rec
 
 Salvi i casi di ammissione ai trattamenti di cui al titolo I del decreto legislativo 14 settembre 2015, n. 148, ovvero di accesso alle prestazioni di cui al titolo II del medesimo decreto legislativo o ad altre prestazioni di sostegno al reddito, le eventuali dimissioni del lavoratore nel periodo di sospensione tra la data della sentenza dichiarativa fino alla data della comunicazione di cui al comma 1, si intendono rassegnate per giusta causa ai sensi dell'articolo 2119 del codice civile con effetto dalla data di apertura della liquidazione giudiziale.
 
+6.
+                        
+                            
+                                Nel caso in cui il curatore intenda procedere a licenziamento collettivo secondo le previsioni di cui agli articoli 4, comma 1, e 24, comma 1, della legge 23 luglio 1991, n. 223, trovano applicazione, in deroga a quanto previsto dall'articolo 4, commi da 2 a 8, della stessa legge, le seguenti disposizioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il curatore che intende avviare la procedura di licenziamento collettivo e' tenuto a darne comunicazione preventiva per iscritto alle rappresentanze sindacali aziendali costituite a norma dell'articolo 19 della legge 20 maggio 1970, n. 300, ovvero alle rappresentanze sindacali unitarie nonche' alle rispettive associazioni di categoria. In mancanza delle predette rappresentanze la comunicazione deve essere effettuata alle associazioni di categoria aderenti alle confederazioni maggiormente rappresentative sul piano nazionale; la comunicazione alle associazioni di categoria puo' essere effettuata per il tramite dell'associazione dei datori di lavoro alla quale l'impresa aderisce o conferisce mandato. La comunicazione e' trasmessa altresi' all'Ispettorato territoriale del lavoro del luogo ove i lavoratori interessati prestano in prevalenza la propria attivita' e, comunque, all'Ispettorato territoriale del lavoro del luogo ove e' stata aperta la liquidazione giudiziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la comunicazione di cui alla lettera a) deve contenere sintetica indicazione: dei motivi che determinano la situazione di eccedenza; dei motivi tecnici, organizzativi o produttivi, per i quali si ritiene di non poter adottare misure idonee a porre rimedio alla predetta situazione ed evitare, in tutto o in parte, il licenziamento collettivo; del numero, della collocazione aziendale e dei profili professionali del personale eccedente nonche' del personale abitualmente impiegato; dei tempi di attuazione del programma di riduzione del personale; delle eventuali misure programmate per fronteggiare le conseguenze sul piano sociale della attuazione del programma medesimo e del metodo di calcolo di tutte le attribuzioni patrimoniali diverse da quelle gia' previste dalla legislazione vigente e dalla contrattazione collettiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    entro sette giorni dalla data del ricevimento della comunicazione di cui alla lettera a), le rappresentanze sindacali aziendali ovvero le rappresentanze sindacali unitarie e le rispettive associazioni formulano per iscritto al curatore istanza per esame congiunto; l'esame congiunto puo' essere convocato anche dall'Ispettorato territoriale del lavoro, nel solo caso in cui l'avvio della procedura di licenziamento collettivo non sia stato determinato dalla cessazione dell'attivita' dell'azienda o di un suo ramo. Qualora nel predetto termine di sette giorni non sia pervenuta alcuna istanza di esame congiunto o lo stesso, nei casi in cui e' previsto, non sia stato fissato dall'Ispettorato territoriale del lavoro in data compresa entro i quaranta giorni dal ricevimento della comunicazione di cui alla lettera a), la procedura si intende esaurita; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'esame congiunto, cui puo' partecipare il direttore dell'Ispettorato territoriale del lavoro o funzionario da questi delegato, ha lo scopo di esaminare le cause che hanno contribuito a determinare l'eccedenza del personale e le possibilita' di utilizzazione diversa di tale personale, o di una sua parte, nell'ambito della stessa impresa, anche mediante contratti di solidarieta' e forme flessibili di gestione del tempo di lavoro.
+Qualora non sia possibile evitare la riduzione di personale, e' esaminata la possibilita' di ricorrere a misure sociali di accompagnamento intese, in particolare, a facilitare la riqualificazione e la riconversione dei lavoratori licenziati. I rappresentanti sindacali dei lavoratori possono farsi assistere, ove lo ritengano opportuno, da esperti; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    la procedura disciplinata dal presente comma si applica, ricorrendo le condizioni di cui all'articolo 24, comma 1, legge 23 luglio 1991, n. 223, anche quando si intenda procedere al licenziamento di uno o piu' dirigenti, in tal caso svolgendosi l'esame congiunto in apposito incontro; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    la consultazione si intende esaurita qualora, decorsi dieci giorni dal suo inizio, non sia stato raggiunto un accordo sindacale, salvo che il giudice delegato, per giusti motivi ne autorizzi la proroga, prima della sua scadenza, per un termine non superiore a dieci giorni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    raggiunto l'accordo sindacale o comunque esaurita la procedura di cui alle lettere precedenti, il curatore provvede ad ogni atto conseguente ai sensi dell'articolo 4, comma 9, della legge 23 luglio 1991, n. 223.
+
 Sono esclusi dall'ambito di applicazione dell'articolo 1, commi da 224 a 238, della legge 30 dicembre 2021, n. 234, i licenziamenti intimati ai sensi del comma 6.
 
 In ogni caso, le disposizioni di cui al comma 6, non si applicano nelle procedure di amministrazione straordinaria delle grandi imprese.
@@ -2643,6 +4400,31 @@ Se i beni o le cose si trovano in piu' luoghi e non e' agevole l'immediato compl
 Per i beni e le cose sulle quali non e' possibile apporre i sigilli, si procede a norma dell'articolo 758 del codice di procedura civile.
 
 ## Art. 194. — Consegna del denaro, titoli, scritture contabili e di altra documentazione
+
+1.
+                        
+                            
+                                Devono essere consegnati al curatore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il denaro contante; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le cambiali e gli altri titoli, compresi quelli scaduti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le scritture contabili e ogni altra documentazione dal medesimo richiesta, se non ancora depositate in cancelleria.
 
 Il denaro e' dal curatore depositato sul conto corrente della procedura. I titoli e gli altri documenti sono custoditi personalmente dal curatore o, con autorizzazione del giudice delegato, affidati in custodia a terzi.
 
@@ -2695,6 +4477,45 @@ I creditori possono prendere visione ed estrarre copia, a proprie spese, degli a
 
 ## Art. 200. — Avviso ai creditori e agli altri interessati
 
+1.
+                        
+                            
+                                Il curatore comunica senza indugio a coloro che, sulla base della documentazione in suo possesso o delle informazioni raccolte, risultano creditori o titolari di diritti reali o personali su beni mobili e immobili di proprieta' o in possesso del debitore compresi nella liquidazione giudiziale ((con le modalita' di cui all'articolo 10, comma 1, per i soggetti ivi indicati,)) e, in ogni altro caso, mediante lettera raccomandata indirizzata alla sede, alla residenza o al domicilio del destinatario: 
+ 
+                            
+                            
+                                a)
+                                
+                                    che possono partecipare al concorso trasmettendo la domanda con le modalita' indicate nell'articolo 201, anche senza l'assistenza di un difensore; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la data, l'ora e il luogo fissati per l'esame dello stato passivo e il termine entro cui vanno presentate le domande; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ogni utile informazione per agevolare la presentazione della domanda e con l'avvertimento delle conseguenze di cui all'articolo 10, comma 3, nonche' della sussistenza dell'onere previsto dall'articolo 201, comma 3, lettera e); 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che possono chiedere l'assegnazione delle somme non riscosse dagli aventi diritto e i relativi interessi ai sensi dell'articolo 232, comma 4; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    il domicilio digitale ((della procedura)).
+
 Se il creditore ha sede o risiede all'estero, la comunicazione puo' essere effettuata al suo rappresentante in Italia, se esistente. ((Se il creditore ha sede o risiede nel territorio di uno Stato membro dell'Unione europeo la comunicazione contiene le informazioni di cui all'articolo 54 del regolamento (UE) 2015/848 del Parlamento europeo e del Consiglio del 20 maggio 2015)).
 
 ## Art. 201. — Domanda di ammissione al passivo
@@ -2702,6 +4523,46 @@ Se il creditore ha sede o risiede all'estero, la comunicazione puo' essere effet
 Le domande di ammissione al passivo di un credito o di restituzione o rivendicazione di beni mobili o immobili compresi nella procedura, nonche' le domande di partecipazione al riparto delle somme ricavate dalla liquidazione di beni compresi nella procedura ipotecati ((o dati in pegno)) a garanzia di debiti altrui, si propongono con ricorso da trasmettere a norma del comma 2, almeno trenta giorni prima dell'udienza fissata per l'esame dello stato passivo.
 
 Il ricorso puo' essere sottoscritto anche personalmente dalla parte ed e' formato ai sensi degli articoli 20, comma 1-bis, ovvero 22, comma 3, del decreto legislativo 7 marzo 2005, n. 82, e successive modificazioni e, nel termine stabilito dal comma 1, e' trasmesso all'indirizzo di posta elettronica certificata del curatore indicato nell'avviso di cui all'articolo 200, insieme ai documenti di cui al comma 6. L'originale del titolo di credito allegato al ricorso e' depositato presso la cancelleria del tribunale.
+
+3.
+                        
+                            
+                                Il ricorso contiene: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione della procedura cui si intende partecipare e le generalita' del creditore ed il suo numero di codice fiscale ((...)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la determinazione della somma che si intende insinuare al passivo, ovvero la descrizione del bene di cui si chiede la restituzione o la rivendicazione, ovvero l'ammontare del credito per il quale si intende partecipare al riparto se il debitore nei cui confronti e' aperta la liquidazione giudiziale e' terzo datore d'ipoteca ((o di pegno)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la succinta esposizione dei fatti e degli elementi di diritto che costituiscono la ragione della domanda; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'eventuale indicazione di un titolo di prelazione, nonche' la descrizione del bene sul quale la prelazione si esercita, se questa ha carattere speciale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'indicazione dell'indirizzo di posta elettronica certificata, al quale ricevere tutte le comunicazioni relative alla procedura, le cui variazioni e' onere comunicare al curatore ((; 
+ ((e-bis). l'indicazione delle coordinate bancarie.))
 
 Il ricorso e' inammissibile se e' omesso o assolutamente incerto uno dei requisiti di cui alle lettere a), b), o c) del comma 3. Se e' omesso o assolutamente incerto il requisito di cui alla lettera d), il credito e' considerato chirografario.
 
@@ -2743,6 +4604,31 @@ Formazione ed esecutivita' dello stato passivo
 
 Il giudice delegato, con decreto succintamente motivato, accoglie in tutto o in parte ovvero respinge o dichiara inammissibile la domanda proposta ai sensi dell'articolo 201. La dichiarazione di inammissibilita' della domanda non ne preclude la successiva riproposizione.
 
+2.
+                        
+                            
+                                Oltre che nei casi stabiliti dalla legge, sono ammessi al passivo con riserva: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i crediti condizionati e quelli indicati all'articolo 154, comma 3; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i crediti per i quali la mancata produzione del titolo dipende da fatto non riferibile al creditore, a condizione che la produzione avvenga nel termine assegnato dal giudice; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i crediti accertati con sentenza del giudice ordinario o speciale non passata in giudicato, pronunziata prima della dichiarazione di apertura della liquidazione giudiziale. Il curatore puo' proporre o proseguire il giudizio di impugnazione.
+
 Se le operazioni non possono esaurirsi in una sola udienza, il giudice ne rinvia la prosecuzione a non piu' di otto giorni, senza altro avviso per gli intervenuti e per gli assenti.
 
 Terminato l'esame di tutte le domande, il giudice delegato forma lo stato passivo e lo rende esecutivo con decreto ((...)).
@@ -2776,6 +4662,38 @@ Gli errori materiali contenuti nello stato passivo sono corretti con decreto del
 ## Art. 207. — Procedimento
 
 Le impugnazioni di cui all'articolo 206 si propongono con ricorso entro il termine perentorio di trenta giorni dalla comunicazione di cui all'articolo 205 ovvero, nel caso di revocazione, dalla scoperta della falsita', del dolo, dell'errore o del documento di cui all'articolo 206, comma 5.
+
+2.
+                        
+                            
+                                Il ricorso deve contenere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione del tribunale, del giudice delegato e della procedura di liquidazione giudiziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le generalita' dell'impugnante e l'elezione del domicilio nel comune ove ha sede il tribunale che ha aperto la liquidazione giudiziale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'esposizione dei ((motivi)) su cui si basa l'impugnazione e le relative conclusioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    a pena di decadenza, le eccezioni processuali e di merito non rilevabili d'ufficio, nonche' l'indicazione specifica dei mezzi di prova di cui il ricorrente intende avvalersi e dei documenti prodotti.
 
 Il presidente, nei cinque giorni successivi al deposito del ricorso, designa il relatore, al quale puo' delegare la trattazione del procedimento ((...)). ((Il presidente o il giudice delegato alla trattazione fissano con decreto l'udienza di comparizione entro sessanta giorni dal deposito del ricorso.))
 
@@ -2997,6 +4915,38 @@ In presenza di somme disponibili per la ripartizione, il mancato rispetto dell'o
 
 ## Art. 221. — Ordine di distribuzione delle somme
 
+1.
+                        
+                            
+                                Le somme ricavate dalla liquidazione dell'attivo sono erogate nel seguente ordine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per il pagamento dei crediti prededucibili; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il pagamento dei crediti ammessi con prelazione sulle cose vendute secondo l'ordine assegnato dalla legge; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per il pagamento dei creditori chirografari, in proporzione dell'ammontare del credito per cui ciascuno di essi sia stato ammesso, compresi i creditori indicati alla lettera b), qualora non sia stata ancora realizzata la garanzia, ovvero per la parte per cui essi siamo rimasti non soddisfatti dal relativo realizzo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per il pagamento dei crediti postergati.
+
 ## Art. 222. — Disciplina dei crediti prededucibili
 
 I crediti prededucibili devono essere accertati con le modalita' di cui al capo III del presente titolo, con esclusione di quelli non contestati per collocazione e ammontare, anche se sorti durante l'esercizio dell'impresa del debitore, e di quelli sorti a seguito di provvedimenti di liquidazione di compensi dei soggetti nominati ai sensi dell'articolo 123; in questo ultimo caso, se contestati, devono essere accertati con il procedimento di cui all'articolo 124.
@@ -3031,6 +4981,39 @@ Il creditore ammesso a norma dell'articolo 208 ha diritto di concorrere sulle so
 Si applica l'articolo 208, comma 3.
 
 ## Art. 227. — Ripartizioni parziali
+
+1.
+                        
+                            
+                                Nelle ripartizioni parziali, che non possono superare l'ottanta per cento delle somme da ripartire, devono essere trattenute e depositate, nei modi stabiliti dal giudice delegato, le quote assegnate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai creditori ammessi con riserva; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    
+                                        ((LETTERA SOPPRESSA DAL D.LGS. 13 SETTEMBRE 2024, N. 136)); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ai creditori opponenti la cui domanda e' stata accolta quando la sentenza non e' passata in giudicato; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ai creditori nei cui confronti sono stati proposti i giudizi di impugnazione e di revocazione.
 
 Le somme ritenute necessarie per spese future, per soddisfare il compenso al curatore e ogni altro debito prededucibile devono essere trattenute. In questo caso, l'ammontare della quota da ripartire indicata nel comma 1 deve essere ridotta se la misura dell'ottanta per cento appare insufficiente.
 
@@ -3077,6 +5060,38 @@ Il giudice, anche se e' intervenuta l'esdebitazione del debitore, omessa ogni fo
 ## - - Capo VI   Cessazione della procedura di liquidazione giudiziale
 
 ## Art. 233. — Casi di chiusura
+
+1.
+                        
+                            
+                                Salvo quanto disposto per il caso di concordato, la procedura di liquidazione giudiziale si chiude: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se nel termine stabilito nella sentenza con cui e' stata dichiarata aperta la procedura non sono state proposte domande di ammissione al passivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    quando, anche prima che sia compiuta la ripartizione finale dell'attivo, le ripartizioni ai creditori raggiungono l'intero ammontare dei crediti ammessi, o questi sono in altro modo estinti e sono pagati tutti i debiti e le spese da soddisfare in prededuzione; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    quando e' compiuta la ripartizione finale dell'attivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quando nel corso della procedura si accerta che la sua prosecuzione non consente di soddisfare, neppure in parte, i creditori concorsuali, ne' i crediti prededucibili e le spese di procedura. Tale circostanza puo' essere accertata con la relazione o con i successivi rapporti riepilogativi di cui all'articolo 130.
 
 In caso di chiusura della procedura di liquidazione giudiziale di societa' di capitali, nei casi di cui al comma 1, lettere a) e b), il curatore convoca l'assemblea ordinaria dei soci per le deliberazioni necessarie ai fini della ripresa dell'attivita' o della sua cessazione ovvero per la trattazione di argomenti sollecitati, con richiesta scritta, da un numero di soci che rappresenti il venti per cento del capitale sociale. Nei casi di chiusura di cui al comma 1, lettere c) e d), ove si tratti di procedura di liquidazione giudiziale di societa' e fatto salvo quanto previsto dall'articolo 234, comma 6, secondo periodo, il curatore ne chiede la cancellazione dal registro delle imprese.
 
@@ -3132,6 +5147,24 @@ Il decreto ((, anche emesso ai sensi dell'articolo 246, comma 2-bis, secondo per
 
 Salvo che sia stata pronunciata l'esdebitazione nei casi preveduti dall'articolo 233, comma 1, lettere c) e d), il tribunale, entro cinque anni dal decreto di chiusura, su istanza del debitore o di qualunque creditore, puo' ordinare che la liquidazione giudiziale gia' chiusa sia riaperta, quando risulta che nel patrimonio del debitore esistono attivita' in misura tale da rendere utile il provvedimento.
 
+2.
+                        
+                            
+                                Il tribunale, con sentenza in camera di consiglio, se accoglie l'istanza: 
+ 
+                            
+                            
+                                a)
+                                
+                                    richiama in ufficio il giudice delegato e il curatore o li nomina di nuovo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    stabilisce i termini previsti dalle lettere d) ed e) dell'articolo 49, comma 3, eventualmente abbreviandoli non oltre la meta'; i creditori gia' ammessi al passivo nella procedura chiusa possono chiedere la conferma del provvedimento di ammissione salvo che intendano insinuare al passivo ulteriori interessi.
+
 La sentenza puo' essere reclamata a norma dell'articolo 51.
 
 La sentenza e' pubblicata a norma dell'articolo 45.
@@ -3157,6 +5190,31 @@ Sono privi di effetto nei confronti dei creditori gli atti a titolo gratuito e q
 ## Art. 240. — Proposta di concordato nella liquidazione giudiziale
 
 Dichiarata aperta la liquidazione giudiziale, i creditori o i terzi possono proporre un concordato anche prima del decreto che rende esecutivo lo stato passivo, purche' sia stata tenuta dal debitore la contabilita' e i dati risultanti da essa e le altre notizie disponibili consentano al curatore di predisporre un elenco provvisorio dei creditori da sottoporre all'approvazione del giudice delegato. La proposta non puo' essere presentata dal debitore, da societa' cui egli partecipi o da societa' sottoposte a comune controllo se non dopo il decorso di un anno dalla sentenza che ha dichiarato l'apertura della procedura di liquidazione giudiziale e purche' non siano decorsi due anni dal decreto che rende esecutivo lo stato passivo. La proposta del debitore, di societa' cui egli partecipi o di societa' sottoposte a comune controllo e' ammissibile solo se prevede l'apporto di risorse che incrementino il valore dell'attivo di almeno il dieci per cento.
+
+2.
+                        
+                            
+                                La proposta inoltre puo' prevedere: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la suddivisione dei creditori in classi, secondo posizione giuridica ed interessi economici omogenei; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    trattamenti differenziati fra creditori appartenenti a classi diverse, indicando le ragioni dei trattamenti differenziati dei medesimi; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la ristrutturazione dei debiti e la soddisfazione dei crediti attraverso qualsiasi forma, anche mediante cessione dei beni, accollo o altre operazioni straordinarie, ivi compresa l'attribuzione ai creditori, nonche' a societa' da questi partecipate, di azioni, quote ovvero obbligazioni, anche convertibili in azioni o altri strumenti finanziari e titoli di debito.
 
 Se la societa' in liquidazione giudiziale ha emesso obbligazioni o strumenti finanziari oggetto della proposta di concordato, i portatori di tali titoli sono costituiti in classe.
 
@@ -3363,6 +5421,45 @@ Reso esecutivo il nuovo stato passivo, il proponente e' ammesso a presentare una
 
 Azioni di responsabilita'
 
+1.
+                        
+                            
+                                Il curatore, autorizzato ai sensi dell'articolo 128, comma 2, puo' promuovere o proseguire: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'azione sociale di responsabilita'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'azione dei creditori sociali prevista dall'articolo 2394 e dall'articolo 2476, sesto comma, del codice civile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'azione prevista dall'articolo 2476, ottavo comma, del codice civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'azione prevista dall'articolo 2497, quarto comma, del codice civile; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    tutte le altre azioni di responsabilita' che gli sono attribuite da singole disposizioni di legge.
+
 ((
 
 Nelle ipotesi di cui al comma 1 la legittimazione del curatore si estende anche alle azioni nei confronti degli eventuali coobbligati.
@@ -3456,6 +5553,24 @@ Proposta di concordato nella liquidazione giudiziale della societa'
 
 La proposta di concordato per la societa' sottoposta a liquidazione giudiziale e' sottoscritta da coloro che ne hanno la rappresentanza sociale.
 
+2.
+                        
+                            
+                                La proposta e le condizioni del concordato, salva diversa disposizione dell'atto costitutivo o dello statuto: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nelle societa' di persone, sono approvate dai soci che rappresentano la maggioranza assoluta del capitale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nelle societa' per azioni, in accomandita per azioni e a responsabilita' limitata, nonche' nelle societa' cooperative, sono deliberate dagli amministratori.
+
 In ogni caso, la decisione o la deliberazione di cui al comma 2, lettera b), deve risultare da verbale redatto da notaio ed e' depositata ed iscritta nel registro delle imprese a norma dell'articolo 2436 del codice civile.
 
 ## Art. 266.
@@ -3480,6 +5595,38 @@ Quando il debitore e' in stato di insolvenza, la domanda puo' essere presentata 
 
 Quando la domanda e' proposta da un creditore nei confronti di un debitore persona fisica non si fa luogo all'apertura della liquidazione controllata se l'OCC, su richiesta del debitore, attesta che non e' possibile acquisire attivo da distribuire ai creditori neppure mediante l'esercizio di azioni giudiziarie. ((Il debitore eccepisce l'impossibilita' di acquisire attivo entro la prima udienza allegando all'attestazione i documenti di cui all'articolo 283, comma 3. Se il debitore dimostra di aver presentato all'OCC la richiesta di cui al primo periodo e l'attestazione non e' ancora stata redatta, il giudice concede un termine non superiore a sessanta giorni per il deposito dell'attestazione. Quando la domanda di apertura della liquidazione controllata e' proposta dal debitore persona fisica, si fa luogo all'apertura della liquidazione controllata se l'OCC attesta che e' possibile acquisire attivo da distribuire ai creditori, anche mediante l'esercizio di azioni giudiziarie.))
 
+4.
+                        
+                            
+                                Non sono compresi nella liquidazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    i crediti impignorabili ai sensi dell'articolo 545 del codice di procedura civile; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i crediti aventi carattere alimentare e di mantenimento, gli stipendi, le pensioni, i salari e cio' che il debitore guadagna con la sua attivita' nei limiti, indicati dal giudice, di quanto occorre al mantenimento suo e della sua famiglia; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i frutti derivanti dall'usufrutto legale sui beni dei figli, i beni costituiti in fondo patrimoniale e i frutti di essi, salvo quanto disposto dall'articolo 170 del codice civile; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le cose che non possono essere pignorate per disposizione di legge.
+
 Il deposito della domanda sospende, ai soli effetti del concorso, il corso degli interessi convenzionali o legali fino alla chiusura della liquidazione, a meno che i crediti non siano garantiti da ipoteca, pegno o privilegio e salvo quanto previsto dagli articoli 2749, 2788 e 2855, secondo e terzo comma, del codice civile.
 
 ## Art. 269. — Domanda del debitore
@@ -3493,6 +5640,52 @@ L'OCC, entro sette giorni dal conferimento dell'incarico da parte del debitore, 
 ## Art. 270. — Apertura della liquidazione controllata
 
 Il tribunale, in assenza di domande di accesso alle procedure di cui al titolo IV e verificati i presupposti di cui agli articoli 268 e 269, dichiara con sentenza l'apertura della liquidazione controllata. La sentenza produce i suoi effetti anche nei confronti dei soci illimitatamente responsabili. Si applica, in quanto compatibile, l'articolo 256.
+
+2.
+                        
+                            
+                                Con la sentenza il tribunale: 
+ 
+                            
+                            
+                                a)
+                                
+                                    nomina il giudice delegato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ordina al debitore il deposito entro sette giorni dei bilanci e delle scritture contabili e fiscali obbligatorie, nonche' dell'elenco dei creditori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    assegna ai terzi che vantano diritti sui beni del debitore e ai creditori risultanti dall'elenco depositato un termine non superiore a ((novanta)) giorni entro il quale, a pena di inammissibilita', devono trasmettere al liquidatore, a mezzo posta elettronica certificata, la domanda di restituzione, di rivendicazione o di ammissione al passivo, predisposta ai sensi dell'articolo 201; si applica l'articolo 10, comma 3; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    ordina la consegna o il rilascio dei beni facenti parte del patrimonio di liquidazione, salvo che non ritenga, in presenza di gravi e specifiche ragioni, di autorizzare il debitore o il terzo a utilizzare alcuni di essi. Il provvedimento e' titolo esecutivo ed e' posto in esecuzione a cura del liquidatore ((secondo le disposizioni di cui all'articolo 216, comma 2)); 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    dispone l'inserimento della sentenza nel sito internet del tribunale o del Ministero della giustizia. Nel caso in cui il debitore svolga attivita' d'impresa, la pubblicazione e' altresi' effettuata presso il registro delle imprese; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    ordina, quando vi sono beni immobili o beni mobili registrati, la trascrizione della sentenza presso gli uffici competenti.
 
 Al liquidatore nominato dal tribunale ai sensi del comma 2, lettera b), seconda parte, si applicano gli articoli 35, comma 4-bis, 35.1 e 35.2 del decreto legislativo 6 settembre 2011, n. 159.
 
@@ -3619,6 +5812,24 @@ L'esdebitazione della societa' ha efficacia nei confronti dei soci illimitatamen
 
 Sono salvi i diritti vantati dai creditori nei confronti dei coobbligati e dei fideiussori del debitore, nonche' degli obbligati in via di regresso.
 
+7.
+                        
+                            
+                                Restano esclusi dall'esdebitazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli obblighi di mantenimento e alimentari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i debiti per il risarcimento dei danni da fatto illecito extracontrattuale, nonche' le sanzioni penali e amministrative di carattere pecuniario che non siano accessorie a debiti estinti.
+
 ## Art. 279. — Condizioni temporali di accesso
 
 Salvo il disposto ((degli articoli 280 e 282, comma 2)), il debitore ha diritto a conseguire l'esdebitazione decorsi tre anni dall'apertura della procedura di liquidazione o al momento della chiusura della procedura, se antecedente.
@@ -3628,6 +5839,45 @@ COMMA ABROGATO DAL D.LGS. 17 GIUGNO 2022, N. 83.
 ## - - ((Sezione Ibis   Disposizioni in materia di esdebitazione nella liquidazione giudiziale))
 
 ## Art. 280. — Condizioni per l'esdebitazione
+
+1.
+                        
+                            
+                                Il debitore e' ammesso al beneficio della liberazione dai debiti a condizione che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    non sia stato condannato con sentenza passata in giudicato per bancarotta fraudolenta o per delitti contro l'economia pubblica, l'industria e il commercio, o altri delitti compiuti in connessione con l'esercizio dell'attivita' d'impresa, salvo che per essi sia intervenuta la riabilitazione. Se e' in corso il procedimento penale per uno di tali reati o v'e' stata applicazione di una delle misure di prevenzione di cui al decreto legislativo 6 settembre 2011, n. 159, ((il tribunale rinvia la decisione sull'esdebitazione fino all'esito del relativo procedimento;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    non abbia distratto l'attivo o esposto passivita' insussistenti, cagionato o aggravato il dissesto rendendo gravemente difficoltosa la ricostruzione del patrimonio e del movimento degli affari o fatto ricorso abusivo al credito; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    non abbia ostacolato o rallentato lo svolgimento della procedura e abbia fornito agli organi ad essa preposti tutte le informazioni utili e i documenti necessari per il suo buon andamento; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    non abbia beneficiato di altra esdebitazione nei cinque anni precedenti la scadenza del termine per l'esdebitazione; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non abbia gia' beneficiato dell'esdebitazione per due volte.
 
 ## Art. 281. — Procedimento
 
@@ -3689,6 +5939,70 @@ Ricorre il presupposto di cui al comma 1, primo periodo, anche quando il debitor
 
 ))
 
+3.
+                        
+                            
+                                La domanda di esdebitazione e' presentata tramite l'OCC al giudice competente, unitamente alla seguente documentazione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'elenco di tutti i creditori, con l'indicazione delle somme dovute ((e dei relativi indirizzi di posta elettronica certificata, se disponibili, oppure degli indirizzi di posta elettronica non certificata per i quali sia verificata o verificabile la titolarita' della singola casella)); 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'elenco degli atti di straordinaria amministrazione compiuti negli ultimi cinque anni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la copia delle dichiarazioni dei redditi degli ultimi tre anni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'indicazione degli stipendi, delle pensioni, dei salari e di tutte le altre entrate del debitore e del suo nucleo familiare.
+
+4.
+                        
+                            
+                                Alla domanda deve essere allegata una relazione particolareggiata dell'OCC, che comprende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'indicazione delle cause dell'indebitamento e della diligenza impiegata dal debitore nell'assumere le obbligazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'esposizione delle ragioni dell'incapacita' del debitore di adempiere le obbligazioni assunte; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'indicazione della eventuale esistenza di atti del debitore impugnati dai creditori; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la valutazione sulla completezza ed attendibilita' della documentazione depositata a corredo della domanda.
+
 L'OCC, nella relazione, deve indicare anche se il soggetto finanziatore, ai fini della concessione del finanziamento, abbia tenuto conto del merito creditizio del debitore, valutato in relazione al suo reddito disponibile, dedotto l'importo necessario a mantenere un dignitoso tenore di vita; a tal fine si ritiene idonea una quantificazione non inferiore a quella indicata al comma 2.
 
 I compensi dell'OCC sono ridotti della meta'.
@@ -3714,6 +6028,35 @@ Parimenti puo' essere proposta con un unico ricorso, da piu' imprese appartenent
 Resta ferma l'autonomia delle rispettive masse attive e passive.
 
 La domanda proposta ((ai sensi del comma 1 o del comma 2)) deve contenere l'illustrazione delle ragioni di maggiore convenienza, in funzione del migliore soddisfacimento dei creditori delle singole imprese, della scelta di presentare un piano unitario ovvero piani reciprocamente ((collegati o coordinati)) invece di un piano autonomo per ciascuna impresa. Il piano o i piani di cui al comma 1 quantificano il beneficio stimato per i creditori di ciascuna impresa del gruppo, anche per effetto della sussistenza di vantaggi compensativi, conseguiti o fondatamente prevedibili, derivanti dal collegamento o dall'appartenenza al gruppo. La domanda deve inoltre fornire informazioni analitiche, complete e aggiornate sulla struttura del gruppo e sui vincoli partecipativi o contrattuali esistenti tra le imprese e indicare il registro delle imprese o i registri delle imprese in cui e' stata effettuata la pubblicita' ai sensi dell'articolo 2497-bis del codice civile. Il bilancio consolidato di gruppo, ove redatto, deve essere allegato al ricorso unitamente alla documentazione prevista, rispettivamente, per l'accesso al concordato preventivo o agli accordi di ristrutturazione. Si applica l'articolo 289.
+
+5.
+                        
+                            
+                                
+                                    ((Il piano unitario o i piani reciprocamente collegati o coordinati)), rivolti ai rispettivi creditori, aventi il contenuto indicato nell'articolo 56, comma 2, devono essere idonei a consentire il risanamento dell'esposizione debitoria di ciascuna impresa e ad assicurare il riequilibrio complessivo della situazione finanziaria di ognuna. Un professionista indipendente attesta: 
+                            
+                            
+                                a)
+                                
+                                    la veridicita' dei dati aziendali;
+                                
+                            
+                            
+                                b)
+                                
+                                    la fattibilita' del piano o dei piani;
+                                
+                            
+                            
+                                c)
+                                
+                                    le ragioni di maggiore convenienza, in funzione del migliore soddisfacimento dei creditori delle singole imprese, ((della scelta di presentare un piano unitario ovvero piani reciprocamente collegati o coordinati)) invece di un piano autonomo per ciascuna impresa;
+                                
+                            
+                            
+                                d)
+                                
+                                    la quantificazione del beneficio stimato per i creditori di ciascuna impresa del gruppo, operata ai sensi del comma 4. L'attestazione contiene anche informazioni analitiche, complete e aggiornate sulla struttura del gruppo e sui vincoli partecipativi o contrattuali esistenti tra le imprese.
 
 Su richiesta delle imprese debitrici, il piano o i piani sono pubblicati nel registro delle imprese o nei registri delle imprese in cui e' stata effettuata la pubblicita' ai sensi dell'articolo 2497-bis del codice civile. Si applica l'articolo 289.
 
@@ -4068,6 +6411,24 @@ Le disposizioni che precedono si applicano in quanto compatibili alla liquidazio
 
 ## Art. 322. — Bancarotta fraudolenta
 
+1.
+                        
+                            
+                                E' punito con la reclusione da tre a dieci anni, se e' dichiarato in liquidazione giudiziale, l'imprenditore che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha distratto, occultato, dissimulato, distrutto o dissipato in tutto o in parte i suoi beni ovvero, allo scopo di recare pregiudizio ai creditori, ha esposto o riconosciuto passivita' inesistenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha sottratto, distrutto o falsificato, in tutto o in parte, con lo scopo di procurare a se' o ad altri un ingiusto profitto o di recare pregiudizi ai creditori, i libri o le altre scritture contabili o li ha tenuti in guisa da non rendere possibile la ricostruzione del patrimonio o del movimento degli affari.
+
 La stessa pena si applica all'imprenditore, dichiarato in liquidazione giudiziale, che, durante la procedura, commette alcuno dei fatti preveduti dalla lettera a) del comma 1, ovvero sottrae, distrugge o falsifica i libri o le altre scritture contabili.
 
 E' punito con la reclusione da uno a cinque anni l'imprenditore in liquidazione giudiziale che, prima o durante la procedura, a scopo di favorire, a danno dei creditori, taluno di essi, esegue pagamenti o simula titoli di prelazione.
@@ -4075,6 +6436,45 @@ E' punito con la reclusione da uno a cinque anni l'imprenditore in liquidazione 
 Salve le altre pene accessorie, di cui al capo III, titolo II, libro I del codice penale, la condanna per uno dei fatti previsti nel presente articolo importa l'inabilitazione all'esercizio di una impresa commerciale e l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa fino a dieci anni.
 
 ## Art. 323. — Bancarotta semplice
+
+1.
+                        
+                            
+                                E' punito con la reclusione da sei mesi a due anni, se e' dichiarato in liquidazione giudiziale, l'imprenditore che, fuori dai casi preveduti nell'articolo precedente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ha sostenuto spese personali o per la famiglia eccessive rispetto alla sua condizione economica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    ha consumato una notevole parte del suo patrimonio in operazioni di pura sorte o manifestamente imprudenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    ha compiuto operazioni di grave imprudenza per ritardare l'apertura della liquidazione giudiziale; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    ha aggravato il proprio dissesto, astenendosi dal richiedere la dichiarazione di apertura della propria liquidazione giudiziale o con altra grave colpa; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    non ha soddisfatto le obbligazioni assunte in un precedente concordato preventivo o liquidatorio giudiziale.
 
 La stessa pena si applica all'imprenditore in liquidazione giudiziale che, durante i tre anni antecedenti alla dichiarazione di liquidazione giudiziale ovvero dall'inizio dell'impresa, se questa ha avuto una minore durata, non ha tenuto i libri e le altre scritture contabili prescritti dalla legge o li ha tenuti in maniera irregolare o incompleta.
 
@@ -4096,6 +6496,24 @@ Salve le altre pene accessorie di cui al libro I, titolo II, capo III, del codic
 
 Nel caso in cui i fatti previsti negli articoli 322, 323 e 325 hanno cagionato un danno patrimoniale di rilevante gravita', le pene da essi stabilite sono aumentate fino alla meta'.
 
+2.
+                        
+                            
+                                Le pene stabilite negli articoli suddetti sono aumentate: 
+ 
+                            
+                            
+                                a)
+                                
+                                    se il colpevole ha commesso piu' fatti tra quelli previsti in ciascuno degli articoli indicati; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    se il colpevole per divieto di legge non poteva esercitare un'impresa commerciale.
+
 Nel caso in cui i fatti indicati nel comma 1 hanno cagionato un danno patrimoniale di speciale tenuita', le pene sono ridotte fino al terzo.
 
 ## Art. 327. — Denuncia di creditori inesistenti e altre inosservanze da parte dell'imprenditore in liquidazione giudiziale
@@ -4116,9 +6534,45 @@ Nella liquidazione giudiziale delle societa' in nome collettivo e in accomandita
 
 Si applicano le pene stabilite nell'articolo 322 agli amministratori, ai direttori generali, ai sindaci e ai liquidatori di societa' in liquidazione giudiziale, i quali hanno commesso alcuno dei fatti preveduti nel suddetto articolo.
 
+2.
+                        
+                            
+                                Si applica alle persone suddette la pena prevista dall'articolo 322, comma 1, se: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno cagionato, o concorso a cagionare, il dissesto della societa', commettendo alcuno dei fatti previsti dagli articoli 2621, 2622, 2626, 2627, 2628, 2629, 2632, 2633 e 2634 del codice civile. 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    hanno cagionato con dolo o per effetto di operazioni dolose il dissesto della societa'.
+
 Si applica altresi' in ogni caso la disposizione dell'articolo 322, comma 4.
 
 ## Art. 330. — Fatti di bancarotta semplice
+
+1.
+                        
+                            
+                                Si applicano le pene stabilite nell'articolo 323 agli amministratori, ai direttori generali, ai sindaci e ai liquidatori di societa' dichiarate in liquidazione giudiziale, i quali: 
+ 
+                            
+                            
+                                a)
+                                
+                                    hanno commesso alcuno dei fatti preveduti nel suddetto articolo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    hanno concorso a cagionare od aggravare il dissesto della societa' con inosservanza degli obblighi ad essi imposti dalla legge.
 
 ## Art. 331. — Ricorso abusivo al credito
 
@@ -4160,6 +6614,24 @@ E' punito con la reclusione da uno a cinque anni e con la multa da euro 51 a eur
 
 Se la domanda e' ritirata prima della verificazione dello stato passivo, la pena e' ridotta alla meta'.
 
+3.
+                        
+                            
+                                E' punito con la reclusione da uno a cinque anni chiunque: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo l'apertura della procedura di liquidazione giudiziale, fuori dei casi di concorso in bancarotta o di favoreggiamento, sottrae, distrae, ricetta ovvero in pubbliche o private dichiarazioni dissimula beni del debitore assoggettato a liquidazione giudiziale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    essendo consapevole dello stato di dissesto dell'imprenditore distrae o ricetta merci o altri beni dello stesso o li acquista a prezzo notevolmente inferiore al valore corrente, se la apertura della liquidazione giudiziale si verifica.
+
 La pena, nei casi previsti dalle lettere a) e b) del comma 3, e' aumentata se l'acquirente e' un imprenditore che esercita un'attivita' commerciale.
 
 ## Art. 339. — Mercato di voto
@@ -4181,6 +6653,38 @@ Chiunque esercita un'impresa commerciale, sebbene si trovi in stato di inabilita
 ## Art. 341. — Concordato preventivo e accordo di ristrutturazione con intermediari finanziari e convenzione di moratoria
 
 E' punito con la reclusione da uno a cinque anni l'imprenditore, che, al solo scopo di ottenere l'apertura della procedura di concordato preventivo o di ottenere l'omologazione di un accordo di ristrutturazione o il consenso alla sottoscrizione della convenzione di moratoria, si sia attribuito attivita' inesistenti, ovvero, per influire sulla formazione delle maggioranze, abbia simulato crediti in tutto o in parte inesistenti.
+
+2.
+                        
+                            
+                                Nel caso di concordato preventivo si applicano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le disposizioni degli articoli 329 e 330 agli amministratori, direttori generali, sindaci e liquidatori di societa'; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la disposizione dell'articolo 333 agli institori dell'imprenditore; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le disposizioni degli articoli 334 e 335 al commissario del concordato preventivo; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    le disposizioni degli articoli 338 e 339 ai creditori.
 
 Nel caso di accordi di ristrutturazione ad efficacia estesa o di convenzione di moratoria, nonche' nel caso di omologa di accordi di ristrutturazione ai sensi ((dell'articolo 63, commi 4 e 5)), si applicano le disposizioni previste al comma 2, lettere a), b) e d).
 
@@ -4208,6 +6712,45 @@ Nel caso di risoluzione, le disposizioni degli articoli 334, 335 e 336 si applic
 sovraindebitamento))
 
 ## Art. 344. — Sanzioni per il debitore e per i componenti dell'organismo di composizione della crisi
+
+1.
+                        
+                            
+                                Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da sei mesi a due anni e con la multa da 1.000 a 50.000 euro il debitore che: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al fine di ottenere l'accesso alle procedure di composizione delle crisi da sovraindebitamento di cui alle sezioni II e III del capo II del titolo IV aumenta o diminuisce il passivo ovvero sottrae o dissimula una parte rilevante dell'attivo ovvero dolosamente simula attivita' inesistenti; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al fine di ottenere l'accesso alle procedure di cui alle sezioni II e III del capo II del titolo IV e di quelle di cui al capo IX del titolo V, produce documentazione contraffatta o alterata, ovvero sottrae, occulta o distrugge, in tutto o in parte, la documentazione relativa alla propria situazione debitoria ovvero la propria documentazione contabile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    nel corso delle procedure di cui alle sezioni II e III del capo II, effettua pagamenti in violazione del piano di ristrutturazione dei debiti o del concordato minore omologati; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il deposito del piano di ristrutturazione dei debiti o della proposta di concordato minore, e per tutta la durata della procedura, aggrava la sua posizione debitoria; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    intenzionalmente non rispetta i contenuti del piano di ristrutturazione dei debiti o del concordato minore.
 
 Le pene previste dal comma 1 si applicano al debitore incapiente che, con la domanda di esdebitazione di cui all'articolo 283, produce documentazione contraffatta o alterata o sottrae, occulta o distrugge, in tutto o in parte, la documentazione relativa alla propria situazione debitoria ovvero la propria documentazione contabile ovvero omette, dopo il decreto di esdebitazione, la dichiarazione di cui al comma 7 del medesimo articolo 283, quando dovuta o in essa attesta falsamente fatti rilevanti.
 
@@ -4297,9 +6840,59 @@ Entro due anni in sede di prima applicazione, e successivamente ogni tre anni, i
 
 ## Art. 357. — ((Funzionamento dell'elenco))
 
+1.
+                        
+                            
+                                Con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro il 30 giugno 2020, sono stabilite, in particolare: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le modalita' di iscrizione all'((elenco)) di cui all'articolo 356; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le modalita' di sospensione e cancellazione, volontaria o disposta dal Ministero della giustizia, dal medesimo ((elenco)) anche a seguito del mancato versamento del contributo previsto dal comma 2; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' di esercizio del potere di vigilanza da parte del Ministero della giustizia.
+
 Con lo stesso decreto e' stabilito l'importo del contributo che deve essere versato per l'iscrizione e per il suo mantenimento, tenuto conto delle spese per la realizzazione, lo sviluppo e l'aggiornamento dell'((elenco)). Le somme corrisposte a titolo di contributo sono versate all'entrata del bilancio dello Stato per essere riassegnate allo stato di previsione del Ministero della giustizia.
 
 ## Art. 358. — Requisiti per la nomina agli incarichi nelle procedure
+
+1.
+                        
+                            
+                                Possono essere chiamati a svolgere le funzioni di curatore, commissario giudiziale e liquidatore, nelle procedure di cui al codice della crisi e dell'insolvenza ((ove iscritti nell'elenco di cui all'articolo 356)): 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli iscritti agli albi degli avvocati, dei dottori commercialisti e degli esperti contabili e dei consulenti del lavoro; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli studi professionali associati o societa' tra professionisti, sempre che i soci delle stesse siano in possesso dei requisiti professionali di cui alla lettera a), e, in tal caso, all'atto dell'accettazione dell'incarico, deve essere designata la persona fisica responsabile della procedura; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    coloro che abbiano svolto funzioni di amministrazione, direzione e controllo in societa' di capitali o societa' cooperative, dando prova di adeguate capacita' imprenditoriali e purche' non sia intervenuta nei loro confronti dichiarazione di apertura della procedura di liquidazione giudiziale.
 
 Non possono essere nominati curatore, commissario giudiziale o liquidatore, il coniuge, la parte di un'unione civile tra persone ((...)), il convivente di fatto, i parenti e gli affini entro il quarto grado del debitore, i creditori di questo e chi ha concorso al dissesto dell'impresa, nonche' chiunque si trovi in conflitto di interessi con la procedura.
 
@@ -4382,17 +6975,232 @@ All'articolo 5, comma 3, della legge 23 luglio 1991 n. 223, dopo le parole «com
 
 All'articolo 10 del decreto legislativo 4 marzo 2015, n. 23, dopo le parole «comma 12» sono aggiunte le seguenti: «nonche' di violazione delle procedure di cui all'articolo 189, comma 6, del codice della crisi e dell'insolvenza».
 
+3.
+                        
+                            
+                                All'articolo 24 della legge 23 luglio 1991, n. 223 sono introdotte le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo il primo periodo, e' aggiunto il seguente: «Fermi i requisiti numerici e temporali prescritti dal presente comma, alle imprese in stato di liquidazione giudiziale si applicano le disposizioni di cui all'articolo 189, comma 6, del codice della crisi e dell'insolvenza.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 1-bis, dopo il primo periodo, e' aggiunto il seguente: «Ai datori di lavoro non imprenditori in stato di liquidazione giudiziale si applicano le disposizioni di cui all'articolo 189, comma 6, del codice della crisi e dell'insolvenza.»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 1-quinquies, dopo le parole: «procedure richiamate dall'articolo 4, comma 12,» sono aggiunte le seguenti: «nonche' di violazione delle procedure di cui all'articolo 189, comma 6, del codice della crisi e dell'insolvenza.».
+
+4.
+                        
+                            
+                                All'articolo 47 della legge 29 dicembre 1990, n. 428, sono apportate le seguenti modificazioni e integrazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    dopo il comma 1 e' inserito il seguente: «1-bis. Nei casi di trasferimenti di aziende nell'ambito ((degli strumenti di regolazione della crisi e dell'insolvenza e delle procedure di insolvenza disciplinati dal decreto legislativo 12 gennaio 2019, n. 14)), la comunicazione di cui al comma 1 puo' essere effettuata anche solo da chi intenda proporre offerta di acquisto dell'azienda o proposta di concordato preventivo concorrente con quella dell'imprenditore; in tale ipotesi l'efficacia degli accordi di cui ai commi 4-bis e 5 puo' essere subordinata alla successiva attribuzione dell'azienda ai terzi offerenti o proponenti.». 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 4-bis e' sostituito dal seguente: 
+ «4-bis. Nel caso in cui sia stato raggiunto un accordo, nel corso delle consultazioni di cui ai precedenti commi, con finalita' di salvaguardia dell'occupazione, l'articolo 2112 del codice civile, fermo il trasferimento al cessionario dei rapporti di lavoro, trova applicazione, per quanto attiene alle condizioni di lavoro, nei termini e con le limitazioni previste dall'accordo medesimo, da concludersi anche attraverso i contratti collettivi di cui all'articolo 51 del decreto legislativo 15 giugno 2015, n. 81, qualora il trasferimento riguardi aziende: 
+ a) per le quali vi sia stata la dichiarazione di apertura della procedura di concordato preventivo in regime di continuita' indiretta, ai sensi dell'articolo 84, comma 2, del codice della crisi e dell'insolvenza, con trasferimento di azienda successivo all'apertura del concordato stesso; 
+ b) per le quali vi sia stata l'omologazione degli accordi di ristrutturazione dei debiti, quando gli accordi non hanno carattere liquidatorio; 
+ c) per le quali e' stata disposta l'amministrazione straordinaria, ai sensi del decreto legislativo 8 luglio 1999, n. 270, in caso di continuazione o di mancata cessazione dell'attivita'»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 5 e' sostituito dal seguente: 
+ «5. Qualora il trasferimento riguardi imprese nei confronti delle quali vi sia stata apertura della liquidazione giudiziale o di concordato preventivo liquidatorio, ovvero emanazione del provvedimento di liquidazione coatta amministrativa, nel caso in cui la continuazione dell'attivita' non sia stata disposta o sia cessata, i rapporti di lavoro continuano con il cessionario. Tuttavia, in tali ipotesi, nel corso delle consultazioni di cui ai precedenti commi, possono comunque stipularsi, con finalita' di salvaguardia dell'occupazione, contratti collettivi ai sensi dell'articolo 51 del decreto legislativo 15 giugno 2015, n. 81, in deroga all'articolo 2112, commi 1, 3 e 4, del codice civile; resta altresi' salva la possibilita' di accordi individuali, anche in caso di esodo incentivato dal rapporto di lavoro, da sottoscriversi nelle sedi di cui all'articolo 2113, ultimo comma del codice civile.»; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    dopo il comma 5 sono aggiunti i seguenti: 
+ «5-bis. Nelle ipotesi previste dal comma 5, non si applica l'articolo 2112, comma 2, del codice civile e il trattamento di fine rapporto e' immediatamente esigibile nei confronti del cedente dell'azienda. Il Fondo di garanzia, in presenza delle condizioni previste dall'articolo 2 della legge 29 maggio 1982, n. 297, interviene anche a favore dei lavoratori che passano senza soluzione di continuita' alle dipendenze dell'acquirente; nei casi predetti, la data del trasferimento tiene luogo di quella della cessazione del rapporto di lavoro, anche ai fini dell'individuazione dei crediti di lavoro diversi dal trattamento di fine rapporto, da corrispondere ai sensi dell'articolo 2, comma 1, del decreto legislativo 27 gennaio 1992, n. 80. I predetti crediti per trattamento di fine rapporto e di cui all'articolo 2, comma 1, del decreto legislativo 27 gennaio 1992, n. 80 sono corrisposti dal Fondo di Garanzia nella loro integrale misura, quale che sia la percentuale di soddisfazione stabilita, nel rispetto dell'((articolo 84, comma 5)), del codice della crisi e dell'insolvenza, in sede di concordato preventivo. 
+ 5-ter. Qualora il trasferimento riguardi imprese nei confronti delle quali vi sia stata sottoposizione all'amministrazione straordinaria, nel caso in cui la continuazione dell'attivita' non sia stata disposta o sia cessata e nel corso della consultazione di cui ai precedenti commi sia stato raggiunto un accordo circa il mantenimento anche parziale dell'occupazione, ai lavoratori il cui rapporto di lavoro continua con l'acquirente non trova applicazione l'articolo 2112 del codice civile, salvo che dall'accordo risultino condizioni di miglior favore. Il predetto accordo puo' altresi' prevedere che il trasferimento non riguardi il personale eccedentario e che quest'ultimo continui a rimanere, in tutto o in parte, alle dipendenze dell'alienante.»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    al comma 6 dopo le parole «i lavoratori che» e' aggiunta la seguente : «comunque»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 11, comma 3, del decreto-legge 23 dicembre 2013, n. 145, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 9, le parole «dell'articolo 2, comma 19, della legge 28 giugno 2012, n. 92» sono sostituite dalle seguenti: «dell'articolo 8 del decreto legislativo 4 marzo 2015, n. 22».
+
 ## - - Capo V  Disposizioni di coordinamento in tema di liquidazione coatta amministrativa e in altre materie
 
 ## Art. 369. — (( (Norme di coordinamento con le disposizioni del decreto legislativo 1° settembre 1993, n. 385 e del decreto legislativo 16 novembre 2015, n. 180).))
 
 ((
 
+1.
+                        
+                            
+                                Al decreto legislativo 1° settembre 1993, n. 385, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 39, comma 4, le parole: «a revocatoria fallimentare» sono sostituite dalle seguenti «alla revocatoria di cui all'articolo 166 del codice della crisi e dell'insolvenza» e le parole: «L'art. 67 della legge fallimentare» sono sostituite dalle seguenti: «L'articolo 166 del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 69-septiesdecies, le parole: «agli articoli 64, 65, 66 e 67, 216, primo comma, n.1), e terzo comma, e 217 della legge fallimentare» sono sostituite dalle seguenti: «agli articoli 163, 164, 165, 166, 290, 292, 322, comma 1, lettera a), e comma 3, e 323 del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 70, comma 7, le parole: «il titolo IV della legge fallimentare e» sono soppresse; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 80, comma 6, le parole: «della legge fallimentare» sono sostituite dalle seguenti: «del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 82 sono apportate le seguenti modificazioni: 
+ 1) al comma 1, le parole: «in cui essa ha la sede legale» sono sostituite dalle seguenti: «dove essa ha il centro degli interessi principali», le parole «dell'art. 195, commi primo, secondo periodo, terzo, quarto, quinto, sesto e ottavo della legge fallimentare» sono sostituite dalle seguenti: «dell'articolo 297 del codice della crisi e dell'insolvenza»; 
+ 2) al comma 2, le parole «del luogo in cui la banca ha la sede legale» sono sostituite dalle seguenti: «del luogo in cui la banca ha il centro degli interessi principali», le parole «dell'art. 195, terzo, quarto, quinto e sesto comma della legge fallimentare» sono sostituite dalle seguenti: «dell'articolo 298 del codice della crisi e dell'insolvenza»; 
+ 3) al comma 3, le parole «nell'art. 203 della legge fallimentare» sono sostituite dalle seguenti: «nell'articolo 299 del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 83 sono apportate le seguenti modificazioni: 
+ 1) al comma 2, le parole: «dagli articoli 42, 44, 45 e 66, nonche' dalle disposizioni del titolo II, capo III, sezione II e sezione IV della legge fallimentare» sono sostituite dalle seguenti: «dagli articoli 142, 144, 145 e 165, nonche' dalle disposizioni del titolo V, capo I, sezione III e V del codice della crisi e dell'insolvenza»; 
+ 2) al comma 3, le parole «del luogo dove la banca ha la sede legale» sono sostituite dalle seguenti: «del luogo in cui la banca ha il centro degli interessi principali»; 
+ 3) al comma 3-bis, le parole «all'articolo 56, primo comma, della legge fallimentare» sono sostituite dalle seguenti: «all'articolo 155, comma 1, del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 86 sono apportate le seguenti modificazioni: 
+ 1) al comma 3, le parole «del luogo ove la banca ha la sede legale» sono sostituite dalle seguenti: «del luogo in cui la banca ha il centro degli interessi principali» e le parole «Si applica l'articolo 31-bis, terzo comma, della legge fallimentare, intendendosi sostituito al curatore il commissario liquidatore» sono sostituite dalle seguenti: «In pendenza della procedura e per il periodo di due anni dalla chiusura della stessa, il commissario liquidatore e' tenuto a conservare i messaggi di posta elettronica certificata inviati e ricevuti»; 
+ 2) al comma 7, le parole «del luogo ove la banca ha la sede legale» sono sostituite dalle seguenti: «del luogo in cui la banca ha il centro degli interessi principali»; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 87, al comma 2, le parole «del luogo ove la banca ha la sede legale» sono sostituite dalle seguenti: «del luogo in cui la banca ha il centro degli interessi principali» e le parole «l'articolo 99, commi 2 e seguenti, della legge fallimentare» sono sostituite dalle seguenti: «l'articolo 206, comma 2 e seguenti, del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 91 sono apportate le seguenti modificazioni: 
+ 1) al primo periodo del primo comma, le parole «dall'articolo 111 della legge fallimentare» sono sostituite dalle seguenti: «dall'articolo 221 del codice della crisi e dell'insolvenza» e, al secondo periodo, le parole «nell'articolo 111, comma primo, numero 1) della legge fallimentare» sono sostituite dalle seguenti: «nell'articolo 221, comma 1, lettera a), del codice della crisi e dell'insolvenza»; 
+ 2) al comma 1-bis, le parole «dall'articolo 111 della legge fallimentare» sono sostituite dalle seguenti: «dall'articolo 221 del codice della crisi e dell'insolvenza»; 
+ 3) al comma 3, le parole «dell'articolo 111, comma 1, numero 3) della legge fallimentare» sono sostituite dalle seguenti: «dall'articolo 221, comma 1, lettera c) del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 93 sono apportate le seguenti modificazioni: 
+ 1) al comma 1, le parole «del luogo dove l'impresa ha la sede legale» sono sostituite dalle seguenti: «del luogo dove l'impresa ha il centro degli interessi principali» e le parole «dell'art. 152, secondo comma, della legge fallimentare» sono sostituite dalle seguenti: «dell'articolo 265, comma 2, del codice della crisi e dell'insolvenza»; 
+ 2) al comma 3, ultimo periodo, le parole «dall'articolo 135 della legge fallimentare» sono sostituite dalle seguenti: «dall'articolo 248 del codice della crisi e dell'insolvenza»; 
+ 3) al comma 6, le parole «l'articolo 131 della legge fallimentare» sono sostituite dalle seguenti: «l'articolo 247 del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    all'articolo 94, comma 3, le parole «l'articolo 215 della legge fallimentare» sono sostituite dalle seguenti: «l'articolo 315 del codice della crisi e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    all'articolo 99, il comma 5 e' sostituito dal seguente: «5.
+Quando sia accertato giudizialmente lo stato di insolvenza, compete ai commissari l'esperimento dell'azione revocatoria prevista dall'articolo 166 del codice della crisi e dell'insolvenza nei confronti di altre societa' del gruppo. L'azione puo' essere esperita per gli atti indicati al comma 1, lettere a), b) e c), dell'articolo 166 del codice della crisi e dell'insolvenza, che siano stati posti in essere nei cinque anni anteriori al provvedimento di liquidazione coatta e per gli atti indicati al comma 1, lettera d), e al comma 2, dello stesso articolo che siano stati posti in essere nei tre anni anteriori.»; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    all'articolo 104, comma 1, le parole «ha sede legale la capogruppo» sono sostituite dalle seguenti: «la capogruppo ha il centro degli interessi principali».
+
 La disposizione di cui al comma 1, lettera a), si applica alle liquidazioni giudiziali aperte a seguito di domanda depositata o iniziativa comunque esercitata successivamente alla data di entrata in vigore del presente decreto.
 
 La disposizione di cui al comma 1, lettera b), si applica agli accordi previsti dal capo 02-I del Titolo IV del Testo unico bancario e alle prestazioni di sostegno finanziario in loro esecuzione, approvati successivamente alla data di entrata in vigore del presente decreto.
 
 Le disposizioni di cui al comma 1, lettere d), e), f), g), h), i), l), m), n), e o), si applicano alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente alla data di entrata in vigore del presente decreto.
+
+5.
+                        
+                            
+                                Al decreto legislativo 16 novembre 2015, n. 180, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 36: 
+ 1) al comma 2, le parole: «Le disposizioni del Titolo VI della legge fallimentare» sono sostituite dalle seguenti: «Le disposizioni del Titolo IX del codice della crisi d'impresa e dell'insolvenza»; 
+ 2) al comma 3, il secondo ed il terzo periodo sono sostituiti dai seguenti: «I termini di cui agli articoli 163, 164, comma 1, 166, comma 1, 169 e 170 del codice della crisi d'impresa e dell'insolvenza decorrono dalla data di avvio della risoluzione. Non sono esperibili le azioni previste dall'articolo 166, comma 2, del codice della crisi d'impresa e dell'insolvenza.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 8 dell'articolo 37, le parole: «prededucibili ai sensi dell'articolo 111 della legge fallimentare» sono sostituite dalle seguenti: «prededucibili ai sensi dell'articolo 6, comma 1, lettera d), del codice della crisi d'impresa e dell'insolvenza»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al comma 3 dell'articolo 38, l'ultimo periodo e' sostituito dal seguente: «Se e' dichiarato lo stato di insolvenza, i termini di cui agli articoli 163, 164, 166, comma 1, e 169 del codice della crisi d'impresa e dell'insolvenza decorrono dalla data determinata dalla Banca d'Italia ai sensi dell'articolo 32, comma 2.».
 
 Le disposizioni di cui al comma 5 si applicano alle procedure di risoluzione avviate ai sensi dell'articolo 32 del decreto legislativo 16 novembre 2015, n. 180, successivamente alla data di entrata in vigore del presente decreto.
 
@@ -4436,11 +7244,62 @@ Il comma 1 si applica alle liquidazioni generali del patrimonio disposte per eff
 
 ## Art. 372. — Modifiche al codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50
 
+1.
+                        
+                            
+                                Al codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 48, al comma 17, le parole «articolo 110, comma 5, in caso di fallimento, liquidazione coatta amministrativa, amministrazione controllata, amministrazione straordinaria, concordato preventivo ovvero procedura di insolvenza concorsuale o di liquidazione del mandatario ovvero, qualora si tratti di imprenditore individuale, in caso di morte, interdizione, inabilitazione o fallimento» sono sostituite dalle seguenti: «articolo 110, comma 6, in caso di liquidazione giudiziale, liquidazione coatta amministrativa, amministrazione straordinaria, concordato preventivo o di liquidazione del mandatario ovvero, qualora si tratti di imprenditore individuale, in caso di morte, interdizione, inabilitazione o liquidazione giudiziale» e, al comma 18, le parole «articolo 110, comma 5, in caso di fallimento, liquidazione coatta amministrativa, amministrazione controllata, amministrazione straordinaria, concordato preventivo ovvero procedura di insolvenza concorsuale o di liquidazione di uno dei mandanti ovvero, qualora si tratti di imprenditore individuale, in caso di morte, interdizione, inabilitazione o fallimento» sono sostituite dalle seguenti: «articolo 110, comma 6, in caso di liquidazione giudiziale, liquidazione coatta amministrativa, amministrazione straordinaria, concordato preventivo o di liquidazione di uno dei mandanti ovvero, qualora si tratti di imprenditore individuale, in caso di morte, interdizione, inabilitazione o liquidazione giudiziale»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 80, comma 5, la lettera b) e' sostituita dalla seguente: «b) l'operatore economico sia stato sottoposto a liquidazione giudiziale o si trovi in stato di liquidazione coatta o di concordato preventivo o sia in corso nei suoi confronti un procedimento per la dichiarazione di una di tali situazioni, fermo restando quanto previsto dall'articolo 95 del codice della crisi di impresa e dell'insolvenza adottato in attuazione della delega di cui all'articolo 1 della legge 19 ottobre 2017, n.155 e dall'articolo 110;»; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 110 e' sostituito dal seguente: 
+ «Art. 110 (Procedure di affidamento in caso di liquidazione giudiziale dell'esecutore o di risoluzione del contratto e misure straordinarie di gestione). - 1. Fatto salvo quanto previsto ai commi 3 e seguenti, le stazioni appaltanti, in caso di liquidazione giudiziale, di liquidazione coatta e concordato preventivo, ovvero di risoluzione del contratto ai sensi dell'articolo 108 ovvero di recesso dal contratto ai sensi dell'articolo 88, comma 4-ter, del decreto legislativo 6 settembre 2011, n. 159, ovvero in caso di dichiarazione giudiziale di inefficacia del contratto, interpellano progressivamente i soggetti che hanno partecipato all'originaria procedura di gara, risultanti dalla relativa graduatoria, al fine di stipulare un nuovo contratto per l'affidamento dell'esecuzione o del completamento dei lavori, servizi o forniture. 
+ 2. L'affidamento avviene alle medesime condizioni gia' proposte dall'originario aggiudicatario in sede in offerta. 
+ 3. Il curatore della procedura di liquidazione giudiziale, autorizzato all'esercizio dell'impresa, puo' eseguire i contratti gia' stipulati dall'impresa assoggettata alla liquidazione giudiziale su autorizzazione del giudice delegato. 
+ 4. Alle imprese che hanno depositato la domanda di cui all'articolo 40 del codice della crisi di impresa e dell'insolvenza adottato in attuazione della delega di cui all'articolo 1 della legge 19 ottobre 2017, n.155, ((si applica l'articolo 95 del medesimo codice)). Per la partecipazione alle procedure di affidamento di contratti pubblici tra il momento del deposito della domanda di cui al primo periodo ed il momento del deposito del decreto previsto dall'articolo 47 del codice della crisi di impresa e dell'insolvenza e' sempre necessario l'avvalimento dei requisiti di un altro soggetto. 
+ 5. L'impresa ammessa al concordato preventivo non necessita di avvalimento di requisiti di altro soggetto. 
+ 6. L'ANAC puo' subordinare la partecipazione, l'affidamento di subappalti e la stipulazione dei relativi contratti alla necessita' che l'impresa in concordato si avvalga di un altro operatore in possesso dei requisiti di carattere generale, di capacita' finanziaria, tecnica, economica, nonche' di certificazione, richiesti per l'affidamento dell'appalto, che si impegni nei confronti dell'impresa concorrente e della stazione appaltante a mettere a disposizione, per la durata del contratto, le risorse necessarie all'esecuzione dell'appalto e a subentrare all'impresa ausiliata nel caso in cui questa nel corso della gara, ovvero dopo la stipulazione del contratto, non sia per qualsiasi ragione piu' in grado di dare regolare esecuzione all'appalto o alla concessione quando l'impresa non e' in possesso dei requisiti aggiuntivi che l'ANAC individua con apposite linee guida. 
+ 7. Restano ferme le disposizioni previste dall'articolo 32 del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114, in materia di misure straordinarie di gestione di imprese nell'ambito della prevenzione della corruzione.»;
+
 Le disposizioni di cui al comma 1 si applicano alle procedure in cui il bando o l'avviso con cui si indice la gara e' pubblicato successivamente alla data di entrata in vigore del presente codice, nonche', per i contratti non preceduti dalla pubblicazione di bandi o avvisi, alle procedure in cui, alla medesima data, non sono ancora stati inviati gli inviti a presentare le offerte.
 
 ## - - Capo VI   Disposizioni di coordinamento della disciplina penale
 
 ## Art. 373. — Coordinamento con le norme di attuazione del codice di procedura penale
+
+1.
+                        
+                            
+                                All'articolo 104-bis delle norme di attuazione, di coordinamento e transitorie del codice di procedura penale approvate con decreto legislativo 28 luglio 1989, n. 271 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1-bis e' sostituito dal seguente: «1-bis. Si applicano le disposizioni di cui al Libro I, titolo III, del codice di cui al decreto legislativo 6 settembre 2011, n. 159, e successive modificazioni nella parte in cui recano la disciplina della nomina e revoca dell'amministratore, dei compiti, degli obblighi dello stesso e della gestione dei beni. Quando il sequestro e' disposto ai sensi dell'articolo 321, comma 2, del codice ai fini della tutela dei terzi e nei rapporti con la procedura di liquidazione giudiziaria si applicano, altresi', le disposizioni di cui al titolo IV del Libro I del citato decreto legislativo.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 1-quater e' sostituito dal seguente: «1-quater. Ai casi di sequestro e confisca in casi particolari previsti dall'articolo 240-bis del codice penale o dalle altre disposizioni di legge che a questo articolo rinviano, nonche' agli altri casi di sequestro e confisca di beni adottati nei procedimenti relativi ai delitti di cui all'articolo 51, comma 3-bis, del codice, si applicano le disposizioni del titolo IV del Libro I del decreto legislativo 6 settembre 2011, n. 159. Si applicano inoltre le disposizioni previste dal medesimo decreto legislativo in materia di amministrazione e destinazione dei beni sequestrati e confiscati e di esecuzione del sequestro. In tali casi l'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalita' organizzata coadiuva l'autorita' giudiziaria nell'amministrazione e nella custodia dei beni sequestrati, fino al provvedimento di confisca emesso dalla corte di appello e, successivamente a tale provvedimento, amministra i beni medesimi secondo le modalita' previste dal citato decreto legislativo 6 settembre 2011, n. 159.
+Restano comunque salvi i diritti della persona offesa dal reato alle restituzioni e al risarcimento del danno».
 
 ## - - Capo VII   Abrogazioni
 
@@ -4537,13 +7396,74 @@ Dalla data dell'entrata in vigore del presente codice, l'articolo 2221 del codic
 
 ## Art. 385. — Modifiche all'articolo 3 del decreto legislativo n. 122 del 2005
 
+1.
+                        
+                            
+                                All'articolo 3 del decreto legislativo 20 giugno 2005, n. 122 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 1 e' sostituito dal seguente: «1. La fideiussione e' rilasciata da una banca o da un'impresa esercente le assicurazioni; essa deve garantire, nel caso in cui il costruttore incorra in una situazione di crisi di cui al comma 2 o, nel caso di inadempimento all'obbligo assicurativo di cui all'articolo 4, la restituzione delle somme e del valore di ogni altro eventuale corrispettivo effettivamente riscossi e dei relativi interessi legali maturati fino al momento in cui la predetta situazione si e' verificata.»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il comma 3 e' sostituito dal seguente: «3. La fideiussione puo' essere escussa: 
+ a) a decorrere dalla data in cui si e' verificata la situazione di crisi di cui al comma 2 a condizione che, per l'ipotesi di cui alla lettera a) del medesimo comma, l'acquirente abbia comunicato al costruttore la propria volonta' di recedere dal contratto e, per le ipotesi di cui alle lettere b), c) e d) del comma 2, il competente organo della procedura concorsuale non abbia comunicato la volonta' di subentrare nel contratto preliminare; 
+ b) a decorrere dalla data dell'attestazione del notaio di non aver ricevuto per la data dell'atto di trasferimento della proprieta' la polizza assicurativa conforme al decreto ministeriale di cui all'articolo 4, quando l'acquirente ha comunicato al costruttore la propria volonta' di recedere dal contratto di cui all'articolo 6. 
+ c) il comma 7 e' sostituito dal seguente: «7. L'efficacia della fideiussione cessa nel momento in cui il fideiussore riceve dal costruttore o da un altro dei contraenti copia dell'atto di trasferimento della proprieta' o di altro diritto reale di godimento sull'immobile o dell'atto definitivo di assegnazione il quale contenga la menzione di cui all'articolo 4, comma 1-quater.»; 
+ d) dopo il comma 7 e' aggiunto il seguente: «7-bis. Con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro novanta giorni dalla data di entrata in vigore della presente disposizione, e' determinato il modello standard della fideiussione.».
+
 ## Art. 386. — Modifiche all'articolo 4 del decreto legislativo n. 122 del 2005
+
+1.
+                        
+                            
+                                All'articolo 4 del decreto legislativo 20 giugno 2005, n. 122 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    al comma 1, dopo le parole «all'atto del trasferimento della proprieta'» sono inserite le seguenti: «a pena di nullita' del contratto che puo' essere fatta valere solo dall'acquirente,» 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 1 sono aggiunti i seguenti: 
+ «1-bis. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro della giustizia e con il Ministro dell'economia e delle finanze, da adottarsi entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono determinati il contenuto e le caratteristiche della polizza di assicurazione e il relativo modello standard. 
+ 1-ter. In caso di inadempimento all'obbligo previsto dal comma 1, l'acquirente che abbia comunicato al costruttore la propria volonta' di recedere dal contratto di cui all'articolo 6 ha diritto di escutere la fideiussione ai sensi dell'articolo 3, comma 3, lettera b). 
+ 1-quater. L'atto di trasferimento deve contenere la menzione degli estremi identificativi della polizza assicurativa e della sua conformita' al decreto previsto dal comma 1-bis.».
 
 ## Art. 387. — Modifiche all'articolo 5 del decreto legislativo n. 122 del 2005
 
 All'articolo 5 del decreto legislativo 20 giugno 2005, n. 122, dopo il comma 1-bis, e' aggiunto il seguente: «1-ter. Le modifiche apportate dal decreto legislativo di attuazione dell'articolo 12 della legge 19 ottobre 2017, n. 155 si applicano ai contratti aventi ad oggetto immobili da costruire per i quali il titolo abilitativo edilizio sia stato richiesto o presentato successivamente alla data di entrata in vigore del decreto stesso.».
 
 ## Art. 388. — Modifiche all'articolo 6 del decreto legislativo n. 122 del 2005
+
+1.
+                        
+                            
+                                All'articolo 6, comma 1, del decreto legislativo 20 giugno 2005, n. 122 sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'alinea, dopo le parole «immobile oggetto del presente decreto», sono aggiunte le seguenti: «devono essere stipulati per atto pubblico o per scrittura privata autenticata»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera g) e' sostituita dalla seguente: «g) gli estremi della fideiussione di cui all'articolo 2 e l'attestazione della sua conformita' al modello contenuto nel decreto di cui all'articolo 3, comma 7-bis;».
 
 ## - Parte Quarta DISPOSIZIONI FINALI E TRANSITORIE - - - -
 

@@ -8,8 +8,8 @@ codice_redazionale: 005G0076
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -67,6 +67,24 @@ Non sono applicabili le disposizioni dei commi 1, 2 e 3 dell'articolo 12 del dec
 Si applicano i commi 5, 6 e 7 dell'articolo 12 del decreto legislativo 18 dicembre 1997, n. 472.
 
 ## Art. 6. — Ravvedimento
+
+1.
+                    
+                        
+                            In caso di violazione non ancora constatata, ai sensi dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472, la sanzione e' ridotta:
+ 
+                        
+                        
+                            a)
+                            
+                                ad un ottavo della sanzione prevista dall'articolo 4, comma 3 del presente regolamento, se il pagamento viene eseguito entro trenta giorni dalla scadenza del termine di cui all'articolo 3, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ad un quinto della sanzione prevista dall'articolo 4, comma 3 del presente regolamento, se il pagamento viene eseguito entro un anno dalla scadenza del termine di pagamento di cui all'articolo 3, comma 1.
 
 In sede di prima applicazione del presente regolamento, per le violazioni non constatate, relative all'omesso versamento del diritto annuale di competenza degli anni 2001 e 2002, il termine per il ravvedimento di cui al comma 1, lettera b), scade il 20 luglio 2005.
 

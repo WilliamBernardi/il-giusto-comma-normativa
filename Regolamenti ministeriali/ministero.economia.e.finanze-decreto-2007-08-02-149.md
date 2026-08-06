@@ -8,8 +8,8 @@ codice_redazionale: 007G0163
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,7 +25,57 @@ Udito il parere del consiglio di Stato, espresso dalla Sezione consultiva per gl
 
 ## Art. 1.
 
+1.
+                    
+                        
+                            Le detrazioni per carichi di famiglia di cui all'articolo 12 del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, spettano alle condizioni ivi previste, per gli anni 2007, 2008 e 2009, ai soggetti residenti in uno Stato membro dell'Unione europea o in uno Stato aderente all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto del Ministro delle finanze 4 settembre 1996, pubblicato nella Gazzetta Ufficiale n. 220 del 19 settembre 1996, e successive modificazioni, emanato in attuazione dell'articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239, che attestano, mediante una dichiarazione sostitutiva di atto di notorieta' di cui all'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445:
+ 
+                        
+                        
+                            a)
+                            
+                                il grado di parentela del familiare per il quale intendono fruire della detrazione, con indicazione del mese nel quale si sono verificate le condizioni richieste e del mese in cui le predette condizioni sono cessate;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che il predetto familiare possiede un reddito complessivo, al lordo degli oneri deducibili e comprensivo dei redditi prodotti anche fuori dal territorio dello Stato di residenza, riferito all'intero periodo d'imposta, non superiore a 2.840,51 euro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                di non godere nel Paese di residenza ovvero in nessun altro Paese diverso da questo di alcun beneficio fiscale connesso ai carichi di famiglia.
+
 ## Art. 2.
+
+1.
+                    
+                        
+                            Ai fini del riconoscimento delle detrazioni per carichi di famiglia di cui all'articolo 12 del testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, alle condizioni ivi previste, per i soggetti residenti in uno Stato diverso da quelli indicati nell'articolo 1, l'attestazione di cui al medesimo articolo 1 e' effettuata mediante:
+ 
+                        
+                        
+                            a)
+                            
+                                documentazione originale prodotta dall'autorita' consolare del Paese di origine, con traduzione in lingua italiana e asseverazione da parte del prefetto competente per territorio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                documentazione con apposizione dell'Apostille, per i soggetti provenienti da Paesi che hanno sottoscritto la Convenzione dell'Aja del 5 ottobre 1961;
+
+                            
+                        
+                        
+                            c)
+                            
+                                documentazione validamente formata dal Paese di origine, ai sensi della normativa ivi vigente, tradotta in italiano e asseverata, come conforme all'originale, dal consolato italiano nel Paese di origine.
 
 ## Art. 3.
 

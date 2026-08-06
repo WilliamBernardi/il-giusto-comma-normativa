@@ -7,8 +7,8 @@ urn: urn:nir:ministero.giustizia:decreto:2016-02-04;23
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -27,6 +27,24 @@ Acquisiti i pareri della competenti Commissioni della Camera dei deputati e del 
 ## Art. 1. — Oggetto e definizioni
 
 Il presente regolamento individua, ai sensi dell'articolo 4, comma 2, legge 31 dicembre 2012, n. 247, le categorie di liberi professionisti che possono partecipare alle associazioni tra avvocati.
+
+2.
+                    
+                        
+                            Ai fini del presente regolamento: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «legge professionale» si intende la legge 31 dicembre 2012, n. 247, recante «Nuova disciplina dell'ordinamento della professione forense»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «associazioni» si intendono le associazioni costituite o partecipate da avvocati con altri liberi professionisti, individuati ai sensi del presente regolamento.
 
 ## Art. 2. — Individuazione delle categorie professionali
 

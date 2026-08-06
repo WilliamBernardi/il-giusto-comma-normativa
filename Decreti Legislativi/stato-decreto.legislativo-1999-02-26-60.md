@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2017-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -105,6 +105,24 @@ L'articolo 15 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 64
 Per quanto riguarda gli adempimenti contabili previsti per i soggetti d'imposta di cui all'articolo 2, nonche' per le modalita' ed i termini di pagamento dell'imposta liquidata ai sensi degli articoli precedenti si applica l'articolo 3, comma 136, della legge 23 dicembre 1996, n. 662.".
 
 ## Art. 11. — Concessione del servizio
+
+1.
+                        
+                            
+                                All'articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nel comma 1, dopo la parola: "decreto" sono inserite le seguenti: "di concerto con il Ministero del tesoro, del bilancio e della programmazione economica";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 2, e' aggiunto, in fine, il seguente periodo: "Annualmente il Ministero delle finanze provvede alla relativa regolazione contabile".
 
 La convenzione con il concessionario di cui all'articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, e' prorogata sino al 31 dicembre 1999, ferme restando le percentuali di aggio fissate per il 1997 e con esclusione di qualunque procedura di adeguamento delle medesime. Alla Societa' italiana degli autori e degli editori possono essere affidate, anche in costanza della convenzione prevista dall'articolo 17 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, nel rispetto della normativa vigente, attivita' di controllo, accertamento e riscossione di entrate erariali e locali diverse dall'imposta sugli intrattenimenti.
 

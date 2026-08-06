@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2008-05-04
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -42,6 +42,38 @@ Il personale collocato in posizione utile viene ammesso al corso, previa scelta 
 
 ## Art. 2. — Titoli valutabili
 
+1.
+                        
+                            
+                                Le categorie dei titoli ammessi a valutazione, con a fianco indicato il punteggio attribuito, sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di studio:
+ 1) diploma di qualifica, rilasciato da Istituto d'istruzione secondaria superiore punti 0,50;
+ 2) diploma di istruzione secondaria di secondo grado punti 1;
+ 3) laurea attinente alla qualifica messa a concorso punti 2;
+ 4) laurea magistrale attinente alla qualifica messa a concorso punti 2,50;
+ 5) diploma di specializzazione, conseguito al termine di corsi di specializzazione istituiti dalle Universita', attinente alla qualifica messa a concorso punti 3;
+i punteggi dei titoli non sono fra loro cumulabili ma si considera esclusivamente il titolo che da' luogo al punteggio piu' elevato. I punteggi sono ridotti della meta' nel caso di titoli non coerenti con l'attivita' professionale della qualifica a concorso.
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corsi di aggiornamento professionale:
+ 1) la frequenza con profitto di corsi di aggiornamento professionale organizzati dall'amministrazione in materie attinenti l'attivita' istituzionale, e' valutata 0,25 punti per ogni settimana o periodo di 36 ore. I punteggi dei corsi di aggiornamento professionale sono cumulabili fra loro fino al punteggio massimo di punti 3,00; 2) nei limiti di cui al punto 1), vengono valutati anche i corsi per l'acquisizione delle qualificazioni risultanti da appositi brevetti o patenti ovvero da certificazioni dell'Amministrazione; sono esclusi i corsi basici ivi compresi, per gli specialisti, i corsi per il conseguimento della specializzazione e quello per l'accesso al ruolo dei capo squadra e capo reparto;
+                                
+                            
+                            
+                                c)
+                                
+                                    anzianita':
+ 1) l'anzianita' posseduta nel ruolo dei capi squadra, compresa quella maturata nel corrispondente profilo del previgente ordinamento del Corpo nazionale dei vigili del fuoco, viene valutata per ogni anno punti 2,00; 2) l'anzianita' posseduta nel ruolo dei vigili del fuoco, compresa quella maturata nel corrispondente profilo del previgente ordinamento del Corpo nazionale dei vigili del fuoco, viene valutata per ogni anno punti 1,00; le frazioni di anno sono calcolate in dodicesimi.
+
 I predetti titoli devono essere posseduti alla data di scadenza della presentazione della domanda di partecipazione.
 
 ## - Capo II Concorso interno per titoli ed esame scritto
@@ -71,6 +103,44 @@ La graduatoria viene formata sommando i punteggi riportati nell'esame scritto e 
 Il personale che, nell'ambito dei posti messi a concorso, risulta collocato utilmente in graduatoria, viene ammesso al corso di formazione professionale, previa scelta della sede di servizio, secondo le procedure indicate all'articolo 6.
 
 ## Art. 4. — Titoli valutabili
+
+1.
+                        
+                            
+                                Le categorie dei titoli ammessi a valutazione, con a fianco indicato il punteggio attribuito, sono:
+ 
+                            
+                            
+                                a)
+                                
+                                    titoli di studio:
+ 1) diploma di qualifica, rilasciato da Istituto d'istruzione secondaria superiore punti 0,50;
+ 2) diploma di istruzione secondaria di secondo grado punti 1;
+ 3) laurea attinente alla qualifica messa a concorso punti 2;
+ 4) laurea magistrale attinente alla qualifica messa a concorso punti 2,50;
+ 5) diploma di specializzazione, conseguito al termine di corsi di specializzazione istituiti dalle Universita', attinente alla qualifica messa a concorso punti 3;
+i punteggi dei titoli non sono fra loro cumulabili ma si considera esclusivamente il titolo che da' luogo al punteggio piu' elevato. I punteggi sono ridotti della meta' nel caso di titoli non coerenti con l'attivita' professionale della qualifica a concorso;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    corsi di aggiornamento professionale:
+ 1) la frequenza con profitto di corsi di aggiornamento professionale organizzati dall'amministrazione in materie attinenti l'attivita' istituzionale, e' valutata 0,25 punti per ogni settimana o periodo di 36 ore. I punteggi dei corsi di aggiornamento professionale sono cumulabili fra loro fino al punteggio massimo di punti 3,00;
+ 2) nei limiti di cui al punto 1), vengono valutati anche i corsi per l'acquisizione delle qualificazioni risultanti da appositi brevetti o patenti ovvero da certificazioni dell'Amministrazione;
+ 3) per i partecipanti al concorso di cui all'articolo 16, comma 1, lettera b) del decreto legislativo 13 ottobre 2005, n. 217, i corsi di aggiornamento gia' valutati come requisito di ammissione ai sensi dell'articolo 3 del presente regolamento, vengono considerati solo per la parte eccedente quella necessaria per l'ammissione al concorso;
+sono esclusi il corso basico e quello per l'accesso al ruolo dei capo squadra e capo reparto;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    anzianita':
+ 1) l'anzianita' posseduta nel ruolo dei capi squadra, compresa quella maturata nel corrispondente profilo del previgente ordinamento del Corpo nazionale dei vigili del fuoco, viene valutata per ogni anno punti 1,00;
+ 2) l'anzianita' posseduta nel ruolo dei vigili del fuoco, compresa quella maturata nel corrispondente profilo del previgente ordinamento del Corpo nazionale dei vigili del fuoco, viene valutata per ogni anno punti 0,50;
+le frazioni di anno sono calcolate in dodicesimi. Per i partecipanti ai concorsi l'anzianita' viene valutata solo per la parte non richiesta quale requisito di ammissione.
 
 I predetti titoli devono essere posseduti alla data di scadenza della presentazione della domanda di partecipazione.
 

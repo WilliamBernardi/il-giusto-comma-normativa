@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2021-03-02
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -26,6 +26,108 @@ Acquisiti i pareri delle Commissioni parlamentari competenti per materia;
 Sulla proposta del Presidente del Consiglio dei ministri e del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con i Ministri dell'economia e delle finanze e per la semplificazione e la pubblica amministrazione;
 
 ## Art. 1. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende: 
+ 
+                        
+                        
+                            a)
+                            
+                                per «Ministro» e «Ministero», il Ministro e il Ministero dell'istruzione, dell'universita' e della ricerca; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per «legge», la legge 30 dicembre 2010, n. 240, e successive modificazioni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                per «fascia» o «fasce», quella o quelle dei professori di prima fascia e di seconda fascia previste dall'articolo 16, comma l, della legge 30 dicembre 2010, n. 240; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                per «abilitazione», l'abilitazione scientifica nazionale di cui all'articolo 16, comma 1, della legge; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per «settori concorsuali», «macrosettori concorsuali» e «settori scientifico-disciplinari», i settori concorsuali, i macrosettori concorsuali e i settori scientifico-disciplinari di cui all'articolo 15, comma 1, della legge; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                per «area disciplinare», l'area disciplinare di cui all'articolo 16, comma 3, lettera b), determinata ai sensi dell'articolo 1, comma 1, lettera a), della legge 16 gennaio 2006, n. 18, di riordino del Consiglio universitario nazionale; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                per «criteri», gli elementi di giudizio suscettibili di una valutazione di carattere qualitativo; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                per «parametri», gli elementi di giudizio che sono suscettibili di una quantificazione e quindi possono essere valutati mediante il risultato di una misura; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                per «indicatori», gli strumenti operativi mediante i quali e' resa possibile la quantificazione e quindi la misurazione dei parametri; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                per «valore-soglia», il valore di riferimento di un indicatore cui corrisponde un adeguato grado di impatto della produzione scientifica misurato utilizzando l'indicatore medesimo; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                per «commissione», la commissione nazionale di professori ordinari di cui all'articolo 16, comma 3, lettera f), della legge; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                per «CUN», il Consiglio universitario nazionale; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                per «CRUI», la Conferenza dei rettori delle universita' italiane; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                per «ANVUR», l'Agenzia nazionale per la valutazione del sistema universitario e della ricerca.
 
 ## Art. 2. — Oggetto
 
@@ -50,6 +152,38 @@ Le domande, corredate da titoli e pubblicazioni scientifiche e dal relativo elen
  Il D.L. 31 dicembre 2020, n. 183, convertito con modificazioni dalla L. 26 febbraio 2021, n. 21, ha disposto (con l'art. 6, comma 6-bis) che "Per gli anni 2021-2023, ai fini dell'adozione del decreto previsto dall'articolo 3, comma 1, del regolamento di cui al decreto del Presidente della Repubblica 4 aprile 2016, n. 95, non si tiene conto del termine di cui al medesimo articolo 3, comma 1, primo periodo".
 
 ## Art. 4. — Criteri di valutazione
+
+1.
+                    
+                        
+                            Il Ministro, con proprio decreto, in attuazione dell'articolo 16, comma 3, lettere a), b) e c), della legge, sentiti il CUN e l'ANVUR, definisce: 
+ 
+                        
+                        
+                            a)
+                            
+                                i criteri, parametri e indicatori di attivita' scientifica differenziati per funzioni e per settore concorsuale, tenendo presente la specificita' dei settori concorsuali, ai fini della valutazione dei candidati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il numero massimo di pubblicazioni, che non puo' essere inferiore a dieci, distinto per fascia e per area disciplinare, che ciascun candidato puo' presentare ai fini della valutazione nella procedura di abilitazione; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di scelta dei criteri, dei parametri e dei relativi indicatori, nonche' la loro rilevanza ai fini dell'attribuzione o meno dell'abilitazione da parte della commissione; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di accertamento della coerenza dei criteri e dei parametri di qualificazione scientifica degli aspiranti commissari con quelli richiesti per la valutazione dei candidati all'abilitazione per la prima fascia dei professori universitari.
 
 Con successivo decreto del Ministro sono stabiliti, sulla base di una proposta dell'ANVUR e sentito il CUN, i valori-soglia degli indicatori che devono essere raggiunti per conseguire l'abilitazione.
 
@@ -106,6 +240,24 @@ Il decreto di nomina delle commissioni e le liste degli aspiranti commissari son
  Il D.L. 8 aprile 2020, n. 22, convertito con modificazioni dalla L. 6 giugno 2020, n. 41, ha disposto (con l'art. 7-bis, comma 1) che "In deroga all'articolo 6, comma 1, del decreto del Presidente della Repubblica 4 aprile 2016, n. 95, [...], il procedimento di formazione delle nuove Commissioni nazionali di durata biennale per la tornata dell'abilitazione scientifica nazionale 2020-2022 e' avviato entro il 31 gennaio 2021".
 
 ## Art. 7. — Operazioni di sorteggio
+
+1.
+                    
+                        
+                            Formata la lista secondo le modalita' di cui all'articolo 6, commi 2, 3, 4, 5, 6, 7 e 8, i componenti della commissione per l'abilitazione sono sorteggiati mediante lo svolgimento delle seguenti operazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                collocazione in ordine alfabetico, per cognome e nome, di tutti i componenti della lista; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                attribuzione a ciascuno dei predetti componenti di un numero d'ordine; in caso di omonimia l'ordine di priorita' e' definito partendo dal candidato con la minore eta' anagrafica.
 
 Al fine di assicurare il rispetto della condizione di cui all'articolo 6, comma 9, si procede, secondo le modalita' previste dai periodi successivi, al sorteggio di un commissario per ciascuno dei settori scientifico-disciplinari, ricompresi nel settore concorsuale, al quale afferiscono almeno dieci professori ordinari.
 Qualora il numero dei settori scientifico-disciplinari cui afferiscono almeno dieci professori ordinari sia superiore a cinque, si procede al sorteggio di un commissario per ciascuno dei cinque settori scientifico-disciplinari con il maggior numero di professori ordinari afferenti, procedendo, a parita' di numero di afferenti, al sorteggio preliminare dei settori scientifico-disciplinari da rappresentare in commissione. Qualora il numero dei settori scientifico-disciplinari cui afferiscono almeno dieci professori ordinari non sia superiore a cinque si procede prima al sorteggio di un componente per ciascuno di tali settori scientifico-disciplinari; i restanti componenti della commissione sono sorteggiati tra tutti i settori scientifico-disciplinari in proporzione al numero di professori ordinari appartenenti a ciascun settore scientifico-disciplinare, tenendo conto del principio di proporzionalita' e della rappresentanza gia' assicurato nella procedura indicata nel presente periodo e procedendo, a parita' di numero di afferenti, al preliminare sorteggio dei settori scientifico-disciplinari da rappresentare. Qualora a tutti i settori scientifico-disciplinari ricompresi nel medesimo settore concorsuale afferiscano meno di dieci professori ordinari, si procede al sorteggio di un commissario per ciascuno dei cinque settori scientifico-disciplinari con il maggior numero di professori ordinari afferenti procedendo, a parita' di numero di afferenti, al preliminare sorteggio dei settori scientifico-disciplinari da rappresentare in commissione. Qualora la consistenza numerica dei settori scientifico-disciplinari, ovvero dei professori ordinari presenti in lista o dei professori ordinari che afferiscono ai settori scientifico-disciplinari non consenta la formazione della commissione secondo quanto indicato ai periodi precedenti, la commissione e' completata a seguito di sorteggio dei restanti commissari tra tutti i professori ordinari presenti in lista inserendo in commissione un componente per ciascun settore scientifico-disciplinare cui afferiscono almeno dieci professori ordinari, ove presente, e partendo dal settore scientifico-disciplinare cui afferiscono il maggior numero di professori ordinari. Tale fase e' eventualmente ripetuta fino a completamento della commissione.

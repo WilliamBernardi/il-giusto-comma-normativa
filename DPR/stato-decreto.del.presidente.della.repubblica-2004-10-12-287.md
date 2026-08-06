@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2016-01-13
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -28,11 +28,173 @@ Sulla proposta del Ministro dell'economia e delle finanze;
 
 Il reclutamento del personale della Banda musicale ha luogo mediante concorsi, per titoli ed esami, indetti, nel rispetto dei vincoli previsti dalla vigente normativa in materia di assunzioni, con determinazioni del Comandante generale o dell'autorita' dal medesimo delegata, al verificarsi delle vacanze organiche nei ruoli e nelle parti del complesso bandistico.
 
+2.
+                    
+                        
+                            Le determinazioni di cui al comma 1:
+ 
+                        
+                        
+                            a)
+                            
+                                individuano i singoli ruoli e parti da ricoprire;
+
+                            
+                        
+                        
+                            b)
+                            
+                                stabiliscono le modalita' e la data di scadenza per la presentazione delle domande di ammissione ai concorsi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                prevedono le date entro le quali gli aspiranti dovranno essere in possesso dei requisiti richiesti per l'ammissione ai concorsi, nonche' dei titoli valutabili in sede di formazione delle graduatorie di merito;
+
+                            
+                        
+                        
+                            d)
+                            
+                                fissano i programmi, le norme per lo svolgimento e l'ordine di successione delle prove d'esame, della visita medica e dell'accertamento dell'idoneita' attitudinale.
+
 ## Art. 2. — Requisiti per l'ammissione ai concorsi per la nomina a maestro direttore e vice direttore
+
+1.
+                    
+                        
+                            Ai concorsi per il reclutamento del maestro direttore e vice direttore possono partecipare i cittadini italiani in possesso dei seguenti requisiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                aver conseguito un diploma di istruzione secondaria di secondo grado che consenta l'iscrizione ai corsi di laurea; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                avere un'eta' non inferiore ad anni 18 e non superiore ad anni 40. Per i concorrenti che siano componenti della Banda musicale della Guardia di finanza si prescinde dal predetto limite di eta'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                essere riconosciuti in possesso della idoneita' psicofisica e attitudinale al servizio incondizionato quale ufficiale in servizio permanente; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                essere in possesso dei diritti civili e politici; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                non essere stati destituiti, dispensati o dichiarati decaduti dall'impiego presso una pubblica amministrazione ovvero prosciolti, d'autorita' o d'ufficio, da precedente arruolamento nelle Forze armate e di polizia; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                essere in possesso delle qualita' morali e di condotta stabilite per l'ammissione ai concorsi della magistratura ordinaria.
+L'accertamento di tale requisito viene effettuato d'ufficio dal Corpo della guardia di finanza; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                non essere imputati, condannati, ovvero aver richiesto l'applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale per delitti non colposi, ne' essere o essere stati sottoposti a misure di prevenzione; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    ((LETTERA SOPPRESSA DAL D.P.R. 17 DICEMBRE 2015, N. 207)).
+
+2.
+                    
+                        
+                            Oltre ai requisiti di cui al comma 1, e' richiesto, per la partecipazione al concorso per la nomina a: 
+ 
+                        
+                        
+                            a)
+                            
+                                maestro direttore, il possesso del diploma in composizione e strumentazione per Banda conseguiti in un conservatorio di Stato o altro analogo istituto legalmente riconosciuto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                maestro vice direttore, il possesso del diploma in strumentazione per Banda conseguito in un conservatorio di Stato o altro analogo istituto legalmente riconosciuto.
 
 I candidati gia' in servizio nella Guardia di finanza non sono sottoposti alla visita medica. Gli appartenenti ai ruoli ispettori, sovrintendenti e appuntati e finanzieri sostengono l'accertamento dell'idoneita' attitudinale.
 
 ## Art. 3. — Requisiti per l'ammissione ai concorsi per la nomina ad esecutore ed archivista
+
+1.
+                    
+                        
+                            Ai concorsi per la nomina ad esecutori ed archivista, possono partecipare: 
+ 
+                        
+                        
+                            a)
+                            
+                                i militari in servizio nel Corpo della guardia di finanza, di eta' non superiore a 45 anni, che: 
+ 1) siano in possesso del diploma di istruzione secondaria di secondo grado che consenta l'iscrizione ai corsi di laurea; 
+ 2) non siano stati giudicati, nell'ultimo biennio, non idonei all'avanzamento; 
+ 3) non risultino imputati in un procedimento penale per delitto non colposo ovvero sottoposti a procedimento disciplinare per l'irrogazione di una sanzione piu' grave della consegna ovvero sospesi dal servizio o in aspettativa; 
+ 4) non siano gia' stati rinviati, d'autorita', da corsi allievi ufficiali, allievi marescialli ovvero allievi vicebrigadieri della Guardia di finanza; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i cittadini italiani che: 
+ 1) siano in possesso del diploma di istruzione secondaria di secondo grado che consenta l'iscrizione ai corsi di laurea; 
+ 2) abbiano eta' non inferiore ad anni 18 e non superiore ad anni 40. Tale limite e' elevato di cinque anni per i militari delle Forze armate, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco in attivita' di servizio; 
+ 3) siano riconosciuti in possesso della idoneita' psicofisica e attitudinale al servizio incondizionato quale maresciallo; 
+ 4) godano dei diritti politici; 
+ 5) non siano stati espulsi dalle Forze armate, dalle Forze di polizia o dal Corpo nazionale dei vigili del fuoco; 
+ 6) non siano gia' stati rinviati, d'autorita', da corsi di formazione della Guardia di finanza; 
+ 7) siano in possesso delle qualita' morali e di condotta stabilite per l'ammissione ai concorsi della magistratura ordinaria.
+L'accertamento di tale requisito viene effettuato d'ufficio dal Corpo della guardia di finanza; 
+ 8) non siano imputati, condannati ovvero non abbiano richiesto l'applicazione della pena ai sensi dell'articolo 444 del codice di procedura penale per delitti non colposi, ne' siano o siano stati sottoposti a misure di prevenzione; 
+ 9) ((NUMERO SOPPRESSO DAL D.P.R. 17 DICEMBRE 2015, N. 207)).
+
+2.
+                    
+                        
+                            Oltre ai requisiti di cui al precedente comma, e' richiesto, per la partecipazione al concorso per la nomina ad: 
+ 
+                        
+                        
+                            a)
+                            
+                                esecutore, il possesso del diploma nello strumento per il quale si concorre o per strumento affine, come da tabella «H» allegata al decreto legislativo 27 febbraio 1991, n. 79, conseguito in un conservatorio di Stato o altro analogo istituto legalmente riconosciuto; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                archivista, il compimento inferiore di composizione conseguito in un conservatorio di Stato o altro analogo istituto legalmente riconosciuto.
 
 I candidati gia' in servizio nel Corpo della guardia di finanza non sono sottoposti alla visita medica. Gli appartenenti ai ruoli sovrintendenti e appuntati e finanzieri sostengono l'accertamento dell'idoneita' attitudinale.
 
@@ -40,15 +202,196 @@ I candidati gia' in servizio nel Corpo della guardia di finanza non sono sottopo
 
 Per ciascuno dei concorsi di cui agli articoli 2 e 3, e' nominata, con determinazione del Comandante generale della guardia di finanza o dell'autorita' da questi delegata, una Commissione giudicatrice, presieduta da un ufficiale generale della guardia di finanza.
 
+2.
+                    
+                        
+                            La Commissione di cui al comma 1 si articola nelle seguenti sottocommissioni:
+ 
+                        
+                        
+                            a)
+                            
+                                per l'accertamento dei requisiti prescritti per l'ammissione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                per la visita medica di primo accertamento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                per la visita medica di revisione;
+
+                            
+                        
+                        
+                            d)
+                            
+                                per gli accertamenti attitudinali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                per la valutazione dei titoli e le prove d'esame;
+
+                            
+                        
+                        
+                            f)
+                            
+                                per la visita medica di controllo.
+
 La composizione della sottocommissione di cui al precedente comma 2, lettera e), e' disciplinata dagli articoli 5, 6, 7 e 8. La composizione delle sottocommissioni di cui al precedente comma 2, lettere a), b), c), d) ed f) e' disciplinata dalla determinazione con la quale e' indetto il concorso.
 
 ## Art. 5. — Sottocommissione per la valutazione dei titoli e le prove d'esame del concorso per maestro direttore
 
+1.
+                    
+                        
+                            La sottocommissione per la valutazione dei titoli e le prove d'esame del concorso concernente il reclutamento del maggiore maestro direttore e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                il Comandante della Banda musicale della Guardia di finanza, presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                due insegnanti di composizione nei conservatori di Stato, membri;
+
+                            
+                        
+                        
+                            c)
+                            
+                                un maestro diplomato in composizione o strumentazione per Banda, membro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un ufficiale maestro direttore di Banda militare, membro;
+
+                            
+                        
+                        
+                            e)
+                            
+                                un ufficiale della Guardia di finanza, segretario senza voto.
+
 ## Art. 6. — Sottocommissione per la valutazione dei titoli e le prove d'esame del concorso per maestro vice direttore
+
+1.
+                    
+                        
+                            La sottocommissione per la valutazione dei titoli e le prove d'esame del concorso concernente il reclutamento del tenente maestro vice direttore e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                il Comandante della Banda musicale della Guardia di finanza, presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un insegnante di armonia e contrappunto presso un conservatorio di Stato, membro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ufficiale maestro direttore della Banda musicale della Guardia di finanza, o, in caso di sua assenza o impedimento, un ufficiale maestro direttore di Banda musicale militare, membro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un ufficiale della Guardia di finanza, segretario senza voto.
 
 ## Art. 7. — Sottocommissione per la valutazione dei titoli e le prove d'esame del concorso per esecutore
 
+1.
+                    
+                        
+                            La sottocommissione per la valutazione dei titoli e le prove d'esame del concorso per il reclutamento degli ispettori esecutori e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                un ufficiale della Guardia di finanza di grado non inferiore a colonnello, presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un professore di conservatorio di Stato diplomato nello strumento per il quale e' bandito il concorso o strumento affine, come da tabella «H» allegata al decreto legislativo 27 febbraio 1991, n. 79, membro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ufficiale maestro direttore della Banda musicale della Guardia di finanza, o, in caso di sua assenza o impedimento, l'ufficiale maestro vice direttore della Banda musicale della Guardia di finanza, membro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un ufficiale della Guardia di finanza, segretario senza voto.
+
 ## Art. 8. — Sottocommissione per la valutazione dei titoli e le prove d'esame del concorso per archivista
+
+1.
+                    
+                        
+                            La sottocommissione per la valutazione dei titoli e le prove d'esame del concorso per il reclutamento dell'ispettore archivista e' composta da:
+ 
+                        
+                        
+                            a)
+                            
+                                un ufficiale della Guardia di finanza di grado non inferiore a colonnello, presidente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                un funzionario civile appartenente al profilo di «bibliotecario» (area funzionale C), membro;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'ufficiale maestro direttore della Banda musicale della Guardia di finanza, o, in caso di sua assenza o impedimento, l'ufficiale maestro vice direttore della Banda musicale della Guardia di finanza, membro;
+
+                            
+                        
+                        
+                            d)
+                            
+                                un ufficiale della Guardia di finanza, segretario senza voto.
 
 ## Art. 9. — Valutazione dei titoli e redazione graduatorie finali
 
@@ -61,6 +404,24 @@ In caso di parita' di punteggio riportato dai candidati gia' in servizio nella G
 In caso di parita' di punteggio complessivo, tra candidati non appartenenti al Corpo, si osservano le norme di cui all'articolo 5 del decreto del Presidente della Repubblica 9 maggio 1994, n. 487, e successive modificazioni.
 
 ## Art. 10. — Nomina del maestro direttore e del maestro vice direttore
+
+1.
+                    
+                        
+                            Con determinazioni del Comandante generale della Guardia di finanza o dell'Autorita' dal medesimo delegata sono approvate le graduatorie e dichiarati vincitori i concorrenti classificatisi al primo posto nei concorsi per maestro direttore e per maestro vice direttore. I vincitori del concorso sono nominati:
+ 
+                        
+                        
+                            a)
+                            
+                                maggiore, il maestro direttore della Banda musicale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                tenente, il maestro vice direttore della Banda musicale.
 
 La nomina di cui al comma 1 decorre, ad ogni effetto, dalla data del provvedimento con cui e' disposta, salvo che il provvedimento stesso non indichi una decorrenza diversa.
 
@@ -129,6 +490,24 @@ In caso di mancato superamento del corso di cui al comma 1, il maresciallo e' co
 Gli accertamenti di cui al citato articolo 29, comma 1, del decreto legislativo 27 febbraio 1991, n. 79, sono demandati ad una commissione nominata e composta ai sensi dell'articolo 8. In tale caso, il maestro direttore della Banda musicale della Guardia di finanza e' sostituito da un ufficiale maestro direttore di Banda musicale militare.
 
 ## Art. 16. — Impiego del personale invalido della Banda musicale
+
+1.
+                    
+                        
+                            Il personale della Banda musicale, invalido ai sensi dell'articolo 1 del decreto del Presidente della Repubblica 25 ottobre 1981, n. 738, e' impiegato in servizi d'istituto compatibili con la ridotta capacita' lavorativa. A tale fine:
+ 
+                        
+                        
+                            a)
+                            
+                                se maestro direttore o maestro vice direttore, transita nel ruolo speciale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                se esecutore o archivista, transita nel ruolo ispettori di cui al decreto legislativo 12 maggio 1995, n. 199, e successive modificazioni, ed e' iscritto nello stesso, mantenendo il grado e l'anzianita', dopo i parigrado in possesso della stessa anzianita' assoluta, anche in eccedenza alla consistenza organica del ruolo e, ove prevista, del grado. L'eventuale eccedenza di consistenza del ruolo ovvero di grado, da riassorbirsi al verificarsi delle prime vacanze utili, rende indisponibili un numero corrispondente di posti, rispettivamente, per l'accesso alla qualifica iniziale del ruolo di transito ovvero per la promozione al medesimo grado di iscrizione.
 
 Il personale di cui al comma 1 viene ammesso, prima dell'impiego, alla frequenza di un corso di aggiornamento tecnico professionale.
 

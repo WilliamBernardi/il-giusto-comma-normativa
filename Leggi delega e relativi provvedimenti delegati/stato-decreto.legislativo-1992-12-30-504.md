@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2025-07-24
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:18Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -33,6 +33,31 @@ A decorrere dall'anno 1993 e' istituita l'imposta comunale sugli immobili (I.C.I
 Presupposto dell'imposta e' il possesso di fabbricati, di aree fabbricabili e di terreni agricoli, siti nel territorio dello Stato, a qualsiasi uso destinati, ivi compresi quelli strumentali o alla cui produzione o scambio e' diretta l'attivita' dell'impresa.
 
 ## Art. 2. — Definizione di fabbricati e aree
+
+1.
+                        
+                            
+                                Ai fini dell'imposta di cui all'articolo 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per fabbricato si intende l'unita' immobiliare iscritta o che deve essere iscritta nel catasto edilizio urbano, considerandosi parte integrante del fabbricato l'area occupata dalla costruzione e quella che ne costituisce pertinenza; il fabbricato di nuova costruzione e' soggetto all'imposta a partire dalla data di ultimazione dei lavori di costruzione ovvero, se antecedente, dalla data in cui e' comunque utilizzato; (53) ((63))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    per area fabbricabile si intende l'area utilizzabile a scopo edificatorio in base agli strumenti urbanistici generali o attuativi ovvero in base alle possibilita' effettive di edificazione determi- nate secondo i criteri previsti agli effetti dell'indennita' di espropriazione per pubblica utilita'. Sono considerati, tuttavia, non fabbricabili i terreni posseduti e condotti dai soggetti indicati nel comma 1 dell'articolo 9, sui quali persiste l'utilizzazione agro-silvo-pastorale mediante l'esercizio di attivita' dirette alla coltivazione del fondo, alla silvicoltura, alla funghicoltura ed all'allevamento di animali. Il comune, su richiesta del contribuente, attesta se un'area sita nel proprio territorio e' fabbricabile in base ai criteri stabiliti dalla presente lettera; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per terreno agricolo si intende il terreno adibito all'esercizio delle attivita' indicate nell'articolo 2135 del codice civile.
 
 ---------------
                             AGGIORNAMENTO (53)
@@ -307,6 +332,73 @@ L'imposta e' determinata applicando alla base imponibile l'aliquota vigente nel 
 
 ## Art. 7. — Esenzioni
 
+1.
+                        
+                            
+                                Sono esenti dall'imposta: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli immobili posseduti dallo Stato, dalle regioni, dalle province, nonche' dai comuni, se diversi da quelli indicati nell'ultimo periodo del comma 1 dell'articolo 4, dalle comunita' montane, dai consorzi fra detti enti, dalle unita' sanitarie locali, dalle istituzioni sanitarie pubbliche autonome di cui all'articolo 41 della legge 23 dicembre 1978, n. 833, dalle camere di commercio, industria, artigianato ed agricoltura, destinati esclusivamente ai compiti istituzionali; (47) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i fabbricati classificati o classificabili nelle categorie catastali da E/1 a E/9; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    i fabbricati con destinazione ad usi culturali di cui all'articolo 5-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, e successive modificazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    i fabbricati destinati esclusivamente all'esercizio del culto, purche' compatibile con le disposizioni degli articoli 8 e 19 della Costituzione, e le loro pertinenze; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    i fabbricati di proprieta' della Santa Sede indicati negli articoli 13, 14, 15 e 16 del Trattato lateranense, sottoscritto l'11 febbraio 1929 e reso esecutivo con legge 27 maggio 1929, n. 810; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    i fabbricati appartenenti agli Stati esteri e alle organizzazioni internazionali per i quali e' prevista l'esenzione dall'imposta locale sul reddito dei fabbricati in base ad accordi internazionali resi esecutivi in Italia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    i fabbricati che, dichiarati inagibili o inabitabili, sono stati recuperati al fine di essere destinati alle attivita' assistenziali di cui alla legge 5 febbraio 1992, n 104, limitatamente al periodo in cui sono adibiti direttamente allo svolgimento delle attivita' predette; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    i terreni agricoli ricadenti in aree montane o di collina delimitate ai sensi dell'articolo 15 della legge 27 dicembre 1977, n. 984; (83)((84))
+                                    
+                                
+                            
+                            
+                                i)
+                                
+                                    gli immobili utilizzati dai soggetti di cui all'articolo 73, comma 1, lettera c), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, fatta eccezione per gli immobili posseduti da partiti politici, che restano comunque assoggettati all'imposta indipendentemente dalla destinazione d'uso dell'immobile, destinati esclusivamente allo svolgimento con modalita' non commerciali di attivita' assistenziali, previdenziali, sanitarie, di ricerca scientifica, didattiche, ricettive, culturali, ricreative e sportive, nonche' delle attivita' di cui all'articolo 16, lettera a), della legge 20 maggio 1985, n. 222.
+
 L'esenzione spetta per il periodo dell'anno durante il quale sussistono le condizioni prescritte.
 
 -------------
@@ -368,6 +460,31 @@ Le disposizioni di cui al presente articolo si applicano anche alle unita' immob
  La Corte Costituzionale, con sentenza 24 giugno - 18 luglio 2025, n. 112 (in G.U. 1ª s.s. 23/07/2025, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 8, comma 2, del decreto legislativo 30 dicembre 1992, n. 504 (Riordino della finanza degli enti territoriali, a norma dell'articolo 4 della legge 23 ottobre 1992, n. 421), come modificato dall'art. 1, comma 173, lettera b), della legge 27 dicembre 2006, n. 296, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato, (legge finanziaria 2007)», nella parte in cui stabilisce che «[p]er abitazione principale si intende quella nella quale il contribuente, che la possiede a titolo di proprieta', usufrutto o altro diritto reale, e i suoi familiari dimorano abitualmente», anziche' «[p]er abitazione principale si intende quella nella quale il contribuente, che la possiede a titolo di proprieta' usufrutto o altro diritto reale, dimora abitualmente»".
 
 ## Art. 9. — Terreni condotti direttamente
+
+1.
+                        
+                            
+                                I terreni agricoli posseduti da coltivatori diretti imprenditori agricoli che esplicano la loro attivita' a titolo principale, purche' dai medesimi condotti, sono soggetti all'imposta limitatamente alla parte di valore eccedente lire 50 milioni e con le seguenti riduzioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    del 70 per cento dell'imposta gravante sulla parte di valore eccedente i predetti 50 milioni di lire e fino a 120 milioni di lire; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    del 50 per cento di quella gravante sulla parte di valore eccedente 120 milioni di lire e fino a 200 milioni di lire; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    del 25 per cento di quella gravante sulla parte di valore eccedente 200 milioni di lire e fino a 250 milioni di lire.
 
 Agli effetti di cui al comma 1 si assume il valore complessivo dei terreni condotti dal soggetto passivo, anche se ubicati sul territorio di piu' comuni; l'importo della detrazione e quelli sui quali si applicano le riduzioni, indicati nel comma medesimo, sono ripartiti proporzionalmente ai valori dei singoli terreni e sono rapportati al periodo dell'anno durante il quale sussistono le condizioni prescritte ed alle quote di possesso. Resta fermo quanto disposto nel primo periodo del comma 1 dell'articolo 4. ((27))
 
@@ -510,6 +627,31 @@ Le disposizioni di cui ai commi 2, 3 e 4 hanno effetto per i redditi prodotti da
 
 Con effetto dal 1 gennaio 1993 e' soppressa l'imposta comunale sull'incremento di valore degli immobili. Tuttavia l'imposta continua ad essere dovuta nel caso in cui il presupposto di applicazione di essa si e' verificato anteriormente alla predetta data; con decreto del Ministro delle finanze sono stabilite le modalita' di effettuazione dei rimborsi eventualmente spettanti.
 
+7.
+                        
+                            
+                                L'imposta comunale sull'incremento di valore degli immobili continua ad essere dovuta, con le aliquote massime e l'integrale acquisizione del relativo gettito al bilancio dello Stato, anche nel caso in cui il presupposto di applicazione di essa si verifica dal 1 gennaio 1993 fino al 1 gennaio 2003 limitatamente all'incremento di valore maturato fino al 31 dicembre 1992. A tal fine: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il valore finale, da indicare nella dichiarazione, e' assunto in misura pari a quello dell'immobile alla data del 31 dicembre 1992 ovvero, in caso di utilizzazione edificatoria dell'area con fabbricato in corso di costruzione o ricostruzione alla predetta data, a quello dell'area alla data di inizio dei lavori di costruzione o ricostruzione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli scaglioni per la determinazione delle aliquote sono formati con riferimento al periodo preso a base per il calcolo dell'incremento di valore imponibile; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le spese di acquisto, di costruzione ed incrementative sono computabili solo se riferibili al periodo di cui alla lettera b).
+
 Ai fini dell'accertamento dell'imposta comunale sull'incremento di valore degli immobili dovuta ai sensi del comma 7 non si applica la disposizione dell'articolo 22 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643, e successive modificazioni.
 
 --------------
@@ -588,6 +730,31 @@ L'ammontare del tributo, riscosso in uno alla tassa per lo smaltimento dei rifiu
 
 ## Art. 23. — Attribuzioni alle regioni a statuto ordinario
 
+1.
+                        
+                            
+                                A decorrere dal 1 gennaio 1993 alle regioni a statuto ordinario, gia' titolari di una parte della tassa automobilistica, ai sensi dell'articolo 4 della legge 16 maggio 1970, n. 281, come sostituito dall'articolo 5 della legge 14 giugno 1990, n. 158 e suc- cessive modificazioni, con riferimento ai pagamenti effettuati dall'anzidetta data, sono attribuite: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'intera tassa automobilistica, disciplinata dal T.U. approvato con decreto del Presidente della Repubblica 5 febbraio 1953, n. 39 e successive modificazioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la soprattassa annuale su taluni autoveicoli azionati con motore diesel, istituita con il decreto-legge 8 ottobre 1976, n. 691, ((convertito, con modificazioni, dalla legge 30 novembre 1976, n. 786 e successive modificazioni;))
+                                    
+                                
+                            
+                            
+                                c)
+                                
+                                    la tassa speciale per i veicoli alimentati a G.P.L. o gas metano, istituita dalla legge 21 luglio 1984, n. 362 e successive modificazioni.
+
 I tributi di cui al comma 1 assumono rispettivamente la denominazione di tassa automobilistica regionale, soprattassa annuale regionale e tassa speciale regionale e si applicano ai veicoli ed agli autoscafi, soggetti nelle regioni a statuto speciale ai corrispondenti tributi erariali in esse vigenti, per effetto della loro iscrizione nei rispettivi pubblici registri delle provincie di ciascuna regione a statuto ordinario, come previsto dall'articolo 5, comma 31, del decreto-legge 30 dicembre 1982, n. 953, convertito, con modificazioni, nella legge 28 febbraio 1983 n. 53 e successive modifiche. La tassa automobilistica regionale si applica altresi' ai ciclomotori, agli autoscafi, diversi da quelli da diporto, non iscritti nei pubblici registri ed ai motori fuoribordo applicati agli stessi autoscafi, che appartengono a soggetti residenti nelle stesse regioni. Sono comprese nel suddetto tributo regionale anche le tasse fisse previste dalla legge 21 maggio 1955, n. 463 e successive modificazioni.
 
 ((Dall'ambito di applicazione del presente capo )) e' esclusa la disciplina concernente la tassa automobilistica relativa ai veicoli ed autoscafi in temporanea importazione i quali restano ad ogni effetto soggetti alle norme statali che regolano la materia.
@@ -640,6 +807,31 @@ Per l'inosservanza delle disposizioni relative ai suddetti tributi regionali si 
 
 ## Art. 28. — Finanziamento delle amministrazioni provinciali dei comuni e delle comunita' montane
 
+1.
+                        
+                            
+                                Per l'anno 1993 lo Stato concorre al finanziamento dei bilanci delle amministrazioni provinciali, dei comuni e delle comunita' montane con i seguenti fondi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fondo ordinario per la finanza locale determinato in lire 2.725.000 milioni per le province, in lire 15.486.000 milioni per i comuni e in lire 151.000 milioni per le comunita' montane; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fondo perequativo per la finanza locale determinato in lire 1.066.400 milioni per le province e in lire 6.444.600 milioni per i comuni. Il fondo perequativo e' aumentato in applicazione delle disposizioni di cui all'articolo 6, comma 7, del decreto-legge 28 novembre 1988, n. 511, convertito, con modificazioni, dalla legge 27 gennaio 1989, n. 20, attribuendo la somma riscossa dallo Stato, valutata in lire 520.000 milioni, per il 20 per cento alle province, per lire 18.000 milioni ad incremento del fondo ordinario per le comunita' montane e per la restante parte ai comuni. Le eventuali maggiori somme incassate dallo Stato verranno ripartite per il 20 per cento alle province, per il 75 per cento ai comuni e per il 5 per cento ad incremento del fondo ordinario per le comunita' montane; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fondo per lo sviluppo degli investimenti delle amministrazioni provinciali, dei comuni e delle comunita' montane pari, per l'anno 1993, ai contributi dello Stato concessi per l'ammortamento dei mutui contratti a tutto il 31 dicembre 1992, e quote dei contributi assegnati nel 1992 e negli anni precedenti ma non utilizzati, valutati in complessive lire 11.725.914 milioni. ((11))
+
 --------------
                             AGGIORNAMENTO (11)
                             
@@ -650,6 +842,24 @@ Per l'inosservanza delle disposizioni relative ai suddetti tributi regionali si 
 A valere sul fondo ordinario di cui all'articolo 28, il Ministero dell'interno e' autorizzato a corrispondere a ciascuna amministrazione provinciale, per l'anno 1993, un contributo pari a quello ordinario spettante per l'anno 1992 al lordo della riduzione operata ai sensi dell'articolo 1, comma 2, del decreto-legge 11 luglio 1992, n. 333, convertito, con modificazioni, dalla legge 8 agosto 1992, n. 359. Il contributo e' erogato in quattro rate uguali entro il primo mese di ciascun trimestre. ((4))
 
 A valere sul fondo ordinario di cui all'articolo 28, il Ministero dell'interno e' autorizzato a corrispondere a ciascun comune per l'anno 1993, un contributo pari a quello ordinario spettante per il 1992 al lordo della riduzione operata ai sensi dell'articolo 1, comma 2, del citato decreto-legge n. 333 del 1989 convertito, con modificazioni, dalla legge n. 359 del 1992. Il contributo e' erogato in quattro rate uguali entro il primo mese di ciascun trimestre. ((4))
+
+3.
+                        
+                            
+                                A valere sul fondo ordinario di cui al comma 1, il Ministero dell'interno e' autorizzato a corrispondere a ciascuna comunita' montana per l'anno 1993, un contributo distinto nelle seguenti quote: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una di lire 220 milioni, finalizzata al finanziamento dei servizi indispensabili, da erogarsi entro il primo mese dell'anno; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una, ad esaurimento del fondo, ripartita tra le comunita' montane in proporzione alla popolazione montana residente, da erogarsi entro il mese di ottobre 1993.
 
 L'erogazione della quarta rata del fondo ordinario, per le amministrazioni provinciali e per i comuni, e della quota residuale per le comunita' montane, e' subordinata alla presentazione delle certificazioni del bilancio di previsione 1993 e del conto consuntivo 1991 disposta con decreti del Ministro dell'interno, di concerto con il Ministro del tesoro.
 
@@ -670,9 +880,91 @@ Una quota del 4 per cento del fondo perequativo spettante alle amministrazioni p
 
 ## Art. 31. — Contributo perequativo per i comuni
 
+1.
+                        
+                            
+                                A valere sul fondo perequativo di lire 6.444.600 milioni di cui all'articolo 28, il Ministero dell'interno e' autorizzato a corrispondere per l'anno 1993 un contributo pari a quello perequativo spettante per il 1992 e distinto nelle seguenti quote: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una quota complessiva di lire 6.344.600 milioni per assicurare a ciascun comune un contributo pari a quello perequativo spettante per il 1992. Il contributo e' corrisposto entro il 31 maggio 1993; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    una quota complessiva di lire 100.000 milioni per l'attivazione delle procedure di allineamento alla media dei contributi e di mobilita' del personale previste dall'articolo 25 del decreto-legge 2 marzo 1989, n. 66, convertito, con modificazioni, dalla legge 24 aprile 1989, n. 144 e successive modificazioni ed integrazioni.
+
+2.
+                        
+                            
+                                Il contributo perequativo finanziato ai sensi dell'articolo 6, comma 7, del citato decreto-legge n. 511 del 1988, convertito, con modificazioni, dalla legge n. 20 del 1989, valutato in lire 398.000 milioni, e' distribuito tra i comuni, dopo che le relative somme sono state acquisite al bilancio dello Stato, per le finalita' e con i criteri di seguito specificati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ai comuni con popolazione inferiore a 5.000 abitanti in misura pari alle assegnazioni del 1989 ai sensi dell'articolo 18, comma 3, lettera a), del citato decreto-legge n. 66 del 1989 convertito, con modificazioni, dalla legge n. 144 del 1989, valutate in 72.500 milioni; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    al finanziamento dell'onere dei mutui contratti nel 1989 dai comuni con popolazione inferiore a 5.000 abitanti ai sensi dell'articolo 12, comma 1- bis, del medesimo decreto-legge di cui alla lettera a), valutato in lire 65.000 milioni; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    al finanziamento dell'onere dei mutui contratti nel 1990 dai comuni con popolazione inferiore a 5.000 abitanti ai sensi dell'articolo 2, comma 1- bis, del citato decreto-legge n. 415 del 1989, convertito, con modificazioni, dalla legge n. 38 del 1990, valutato in lire 65.000 milioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    quanto a lire 16.000 milioni ai comuni capoluogo di provincia appartenenti all'ottava classe demografica di cui all'articolo 18 del citato decreto-legge n. 66 del 1989, convertito, con modificazioni, dalla legge n. 144 del 1989, per il 75 per cento con i criteri indicati dall'articolo 8, comma 1, lettera b), del citato decreto- legge n. 415 del 1989, convertito, con modificazioni, dalla legge n. 38 del 1990 e per il 25 per cento con i criteri indicati all'articolo 8, comma 1, lettera c), del decreto-legge medesimo; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per la restante parte, valutata in lire 179.500 milioni a tutti i comuni, con i criteri indicati alla lettera d).
+
 Una quota del 4 per cento del fondo perequativo spettante ai comuni e' corrisposta nel 1993 a titolo provvisorio in attesa che l'ente abbia dimostrato di aver ottemperato alle disposizioni riguardanti la copertura minima obbligatoria dei costi dei servizi di cui all'articolo 33. In caso di mancata osservanza delle predette disposizioni l'ente e' tenuto alla restituzione delle somme relative all'anno 1993 mediante trattenuta sui fondi ordinari degli anni successivi.
 
 ## Art. 32. — Contributi per lo sviluppo degli investimenti e per il risanamento degli enti dissestati
+
+1.
+                        
+                            
+                                A valere sul fondo di cui all'articolo 28 il Ministero dell'interno e' autorizzato a corrispondere contributi per le rate di ammortamento dei mutui contratti per investimento cosi' calcolati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    alle amministrazioni provinciali, ai comuni ed alle comunita' montane per mutui contratti negli anni 1992 e precedenti, nella misura stabilita nei provvedimenti di concessione gia' adottati e da adottare ai sensi delle disposizioni vigenti per l'anno di contrazione dei mutui stessi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    alle amministrazioni provinciali, ai comuni ed alle comunita' montane, per i mutui da assumere entro l'anno 1993, entro il limite delle quote di contributi erariali assegnate ma non utilizzate per gli anni 1992 e precedenti; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    alle amministrazioni provinciali ed ai comuni che hanno deliberato lo stato di dissesto finanziario, per i mutui contratti nell'anno 1993 nella misura delle quote assegnate ma non ancora utilizzate per gli anni 1988, 1989, 1990, 1991 e 1992.
 
 Per i contributi da concedere per ammortamento mutui, valgono le disposizioni vigenti per l'anno 1992. Il termine per l'emanazione del decreto che stabilisce le modalita' di assegnazione dei contributi e' fissato al 31 ottobre 1993 e il termine per l'adempimento certificativo e' fissato al 31 marzo 1994.
 
@@ -693,6 +985,31 @@ Le sanzioni di cui all'articolo 30, comma 2 ed all'articolo 31, comma 3, che dip
 ## - TITOLO IV TRASFERIMENTI ERARIALI AGLI ENTI LOCALI Capo II DISCIPLINA A REGIME DEI TRASFERIMENTI ERARIALI
 
 ## Art. 34. — Assetto generale della contribuzione erariale
+
+1.
+                        
+                            
+                                A decorrere dall'anno 1994, lo Stato concorre al finanziamento dei bilanci delle amministrazioni provinciali e dei comuni con l'assegnazione dei seguenti fondi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fondo ordinario; (59) ((66))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    fondo consolidato; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fondo perequativo degli squilibri di fiscalita' locale.
 
 A decorrere dal 1993 lo Stato concorre al finanziamento delle opere pubbliche degli enti locali con il fondo nazionale speciale per gli investimenti.
 
@@ -748,6 +1065,31 @@ Sul fondo ordinario e' accantonata ogni anno una quota di 100.000 milioni per l'
 
 ## Art. 36. — Definizione dei contributi ordinari spettanti ai singoli enti locali
 
+1.
+                        
+                            
+                                A ciascuna amministrazione provinciale, a ciascun comune ed a ciascuna comunita' montana spettano contributi ordinari annuali, destinati al finanziamento dei servizi indispensabili ai sensi dell'articolo 54 della legge n. 142 del 1990, calcolati come segue: 
+ 
+                            
+                            
+                                a)
+                                
+                                    amministrazioni provinciali. Il contributo ordinario e' dato dalla somma dei contributi ordinari, perequativi e del contributo finanziato con i proventi dell'addizionale energetica di cui al comma 1 dell'articolo 35, attribuiti per l'anno 1993, dalla quale viene detratta annualmente e per sedici anni consecutivi, una quota del cinque per cento del complesso dei contributi ordinario e perequativo attribuito nel 1993, ed alla quale viene aggiunto il contributo ripartito con parametri obiettivi di cui all'articolo 37, utilizzando le quote detratte annualmente. La detrazione non deve comunque ledere la parte di contributi ordinari destinata al finanziamento dei servizi indispensabili per le materie di competenza statale, delegate o attribuite all'amministrazione provinciale, il cui importo massimo e' fissato nella misura del 5 per cento del complesso dei contributi ordinario e perequativo attribuito nel 1993. L'importo relativo e' comunicato, attraverso il sistema informativo telematico del Ministero dell'interno, entro il mese di settembre per il triennio successivo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    comuni. Il contributo ordinario e' dato dalla somma dei contributi ordinari, perequativi e del contributo finanziato con i proventi dell'addizionale energetica di cui al comma 2 dell'articolo 35 attribuiti per l'anno 1993 al netto del gettito dell'ICI per il 1993 con l'aliquota del 4 per mille, diminuito della perdita del gettito dell'INVIM. Dalla somma cosi' calcolata viene detratta annualmente e per sedici anni consecutivi una quota del cinque per cento del complesso dei contributi ordinario e perequativo attribuito nel 1993, ed alla stessa somma viene aggiunto il contributo ripartito con parametri obiettivi di cui all'articolo 37 utilizzando le quote detratte annualmente. La detrazione non deve comunque ledere la parte dei contributi ordinari destinati al finanziamento dei servizi indispensabili per le materie di competenza statale, delegate o attribuite al comune, il cui importo massimo e' fissato nella misura del 5 per cento del complesso dei contributi ordinario e perequativo attribuito per il 1993. L'importo relativo e' comunicato, attraverso il sistema informativo telematico del Ministero dell'interno, entro il mese di settembre per il triennio successivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    comunita' montane. Il contributo ordinario e' dato dalla somma dei contributi ordinari e di quello finanziato con il provento dell'addizionale energetica di cui al comma 1 dell'articolo 35 attribuiti nell'anno 1993. Ad essa si aggiunge l'incremento annuale delle risorse di cui al comma 4 dell'articolo 35, da assegnare prioritariamente, con i criteri previsti dall'art. 29, comma 3, lettera a) , alle nuove comunita' montane istituite dalle regioni. La somma residua e' ripartita fra tutte le comunita' montane sulla base della popolazione montana. L'importo relativo e' comunicato, attraverso il sistema informativo telematico del Ministero dell'interno, entro il mese di settembre, per il triennio successivo. (15) ((25))
+
 ---------------
                             AGGIORNAMENTO (15)
                             
@@ -762,6 +1104,96 @@ Sul fondo ordinario e' accantonata ogni anno una quota di 100.000 milioni per l'
 Le somme costituite dalla detrazione del 5 per cento dei contributi ordinari di cui alle lettere a) e b) del comma 1 dell'articolo 36 sono ripartite per le parti di rispettiva competenza fra le amministrazioni provinciali e fra i comuni che hanno ricevuto la detrazione, con la seguente procedura. Sono esclusi dalla ripartizione i comuni che avendo il gettito dell'I.C.I. al 4 per mille superiore all'importo dei contributi ordinari e perequativi hanno avuto l'attivazione della garanzia di mantenimento minimo dei trasferimenti di cui all'articolo 36.
 
 Il sistema di riparto e' attuato stabilendo, per ciascuna amministrazione provinciale e per ciascun comune, un parametro per miliardo di fondo da distribuire, il quale e' calcolato con idonee operazioni tecniche di normalizzazione sulla base delle attribuzioni teoriche costituite dalla somma dei prodotti delle unita' di determinante per i parametri monetari obiettivi relativi ai servizi indispensabili e maggiorati per le condizioni di degrado rilevate a norma del comma 3, lettera g).
+
+3.
+                        
+                            
+                                Per l'operativita' del sistema di calcolo si considerano: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le amministrazioni provinciali ripartite nelle seguenti quattro classi: 
+ amministrazioni provinciali con popolazione inferiore a 400.000 abitanti e territorio inferiore a 300.000 ettari; 
+ amministrazioni provinciali con popolazione inferiore a 400.000 abitanti e territorio superiore a 299.999 ettari; 
+ amministrazioni provinciali con popolazione superiore a 399.999 abitanti e territorio inferiore a 300.000 ettari; 
+ amministrazioni provinciali con popolazione superiore a 399.999 abitanti e territorio superiore a 299.999 ettari; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    i comuni ripartiti nella seguenti dodici classi, in cui ciascuna classe e' suddivisa in comuni interamente montani e altri, secondo i dati forniti dall'UNCEM: 
+ comuni con meno di 500 abitanti; 
+ comuni da 500 a 999 abitanti; 
+ comuni da 1.000 a 1.999 abitanti; 
+ comuni da 2.000 a 2.999 abitanti; 
+ comuni da 3.000 a 4.999 abitanti; 
+ comuni da 5.000 a 9.999 abitanti; 
+ comuni da 10.000 a 19.999 abitanti; 
+ comuni da 20.000 a 59.999 abitanti; 
+ comuni da 60.000 a 99.999 abitanti; 
+ comuni da 100.000 a 249.999 abitanti; 
+ comuni da 250.000 a 499.999 abitanti; 
+ comuni da 500.000 abitanti e oltre; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    per i servizi alle persone, i determinanti derivanti dalla popolazione residente e dalle relative classi d'eta' con ponderazione in funzione dell'usufruibilita' dei servizi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    per i servizi al territorio delle amministrazioni provinciali i determinanti relativi alla dimensione territoriale integrale, alla lunghezza delle strade provinciali, alla superficie lacustre e fluviale ed alla dimensione territoriale boschiva o forestale; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    per i servizi al territorio dei comuni i determinanti relativi alla dimensione territoriale dei centri abitati ed alla dimensione territoriale extraurbana servita ponderati, ove ne ricorra la necessita', con la densita' della popolazione o con altro elemento , in funzione delle condizioni di usufruibilita' dei servizi; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    per la definizione dei parametri monetari obiettivi relativi ai determinanti della popolazione e del territorio le spese correnti medie stabilizzate per ogni classe di ente, desumibili dai certificati di conto consuntivo ultimi disponibili; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    per le condizioni socio-economiche i determinanti relativi a dati recenti di carattere generale, che siano in grado di definire condizioni di degrado. Tali determinanti debbono essere utilizzati per maggiorare i parametri monetari obiettivi, al massimo entro il 10 per cento del loro valore; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    per servizi indispensabili quelli che rappresentano le condizioni minime di organizzazione dei servizi pubblici locali e che sono diffusi sul territorio con caratteristica di uniformita'. 
+
+                                
+                            
+                            
+                                h-bis)
+                                
+                                    per i comuni con insediamenti militari si considera un coefficiente di maggiorazione fino al 5 per cento da graduarsi in proporzione al rapporto percentuale esistente tra il numero dei militari ospitati negli insediamenti militari stessi e la popolazione del comune, secondo i dati forniti dal Ministero della difesa. A tali comuni si maggiorano i parametri monetari obiettivi, entro il 5 per cento del loro valore in proporzione al predetto rapporto. 
+
+                                
+                            
+                            
+                                h-ter)
+                                
+                                    i parametri monetari dei servizi, per i quali parte del costo e' da coprire obbligatoriamente per tutti gli enti locali, sono diminuiti della percentuale di copertura prevista dalla legge.
 
 I parametri per miliardo sono stabiliti con decreto del Ministro dell'interno sentite l'ANCI, l'UPI e l'Unione nazionale comuni, comunita' ed enti montani (UNCEM) e da pubblicare nella Gazzetta Ufficiale e sono comunicati agli enti entro il mese di settembre, per il triennio successivo, attraverso il sistema informativo telematico del Ministero dell'interno. (15) ((25))
 
@@ -824,6 +1256,27 @@ L'assegnazione dei contributi e' disposta per il biennio 1994-1995 entro il mese
 
 I destinatari dell'intervento perequativo sono gli enti per i quali le basi imponibili se disponibili, ovvero i proventi del gettito delle imposte e addizionali di cui al comma 1 sono inferiori al valore normale della classe per abitante della classe demografica di appartenenza. A tal fine, valgono le classi di cui all'articolo 37.
 
+4.
+                        
+                            
+                                Il sistema perequativo deve assegnare contributi che gradualmente consentano l'allineamento dei proventi del tributo da perequare al provento medio per abitante di ciascuna classe privilegiando, con idoneo metodo, gli enti in proporzione crescente allo scarto negativo dalla stessa media ed assegnando un coefficiente di maggiorazione alle seguenti categorie di enti, nella misura massima del 10 per cento per ogni categoria , con possibilita' di cumulo per l'appartenenza a piu' categorie entro il 20 per cento: 
+ 
+                            
+                            
+                                a)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 23 FEBBRAIO 1995, N. 41, CONVERTITO CON MODIFICAZIONI DALLA L. 22 MARZO 1995, N. 85; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA SOPPRESSA DAL D.L. 23 FEBBRAIO 1995, N. 41, CONVERTITO CON MODIFICAZIONI DALLA L. 22 MARZO 1995, N. 85; 
+ d) LETTERA SOPPRESSA DAL D.L. 23 FEBBRAIO 1995, N. 41, CONVERTITO CON MODIFICAZIONI DALLA L. 22 MARZO 1995, N. 85; 
+ e) LETTERA SOPPRESSA DAL D.L. 23 FEBBRAIO 1995, N. 41, CONVERTITO CON MODIFICAZIONI DALLA L. 22 MARZO 1995, N. 85; 
+ e-bis) LETTERA SOPPRESSA DAL D.L. 23 FEBBRAIO 1995, N. 41, CONVERTITO CON MODIFICAZIONI DALLA L. 22 MARZO 1995, N. 85.
+
 Qualora con l'assegnazione del contributo perequativo annuale l'ente raggiunga o superi la media di cui al comma 4 l'eventuale eccedenza viene ridistribuita tra gli altri enti destinatari della perequazione con i criteri generali di cui al comma 5.
 
 I comuni montani con popolazione inferiore a 5.000 abitanti sono quelli risultanti dalla piu' recente pubblicazione ufficiale dell'UNCEM.
@@ -877,6 +1330,24 @@ Con decreto del Ministro dell'interno, sentite l'ANCI, l'UPI e l'UNCEM, e da pub
  Il D.Lgs. 30 giugno 1997, n. 244 ha disposto (con l'art. 9, comma 1) che a decorrere dall'applicazione della nuova disciplina dei tributi locali di cui all'articolo 3, comma 143, della legge 23 dicembre 1996, n. 662. cessano di avere efficacia le disposizioni contenute negli articoli da 34 a 43 del decreto legislativo 30 dicembre 1992, n. 504.
 
 ## Art. 43. — Quota del fondo ordinario per gli enti dissestati
+
+1.
+                        
+                            
+                                La quota del fondo ordinario di cui al comma 6 dell'articolo 35 e' esclusivamente destinata ai comuni che hanno dichiarato lo stato di dissesto finanziario al fine di attivare le seguenti procedure previste dall'articolo 25 del decreto-legge n. 66 del 1989, convertito, con modificazioni, dalla legge n. 144 del 1989 e succes- sive modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    allineamento alla media dei contributi degli enti della classe demografica di appartenenza. A tal fine, si considerano le classi demografiche, con l'unificazione delle ultime due, indicate all'articolo 18, comma 1, lettera c) del citato decreto-legge n. 66 del 1989, convertito, con modificazioni, dalla legge n. 144 del 1989, ed i contributi ordinari destinati alla fine dell'esercizio precedente a norma dell'articolo 35, per calcolare le medie; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    rimborso del trattamento economico lordo per il personale dichiarato in esubero ed effettivamente trasferito per mobilita', dalla data della deliberazione della graduatoria a quella di effettivo trasferimento.
 
 Le quote attribuite sulla quota del fondo ordinario di cui al comma 6 dell'articolo 35 non sono assoggettate alle detrazioni di cui all'articolo 36, comma 1, lettera b). ((25))
 

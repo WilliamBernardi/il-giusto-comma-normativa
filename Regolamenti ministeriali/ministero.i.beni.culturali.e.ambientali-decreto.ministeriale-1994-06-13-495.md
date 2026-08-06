@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2011-03-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO MINISTERIALE
@@ -28,6 +28,16 @@ Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 31 m
 ## Art. 1. — Ambito di applicazione
 
 Il presente regolamento si applica ai procedimenti amministrativi che si concludono con un provvedimento espresso di competenza del Ministro per i beni culturali e ambientali. Il regolamento si applica sia ai procedimenti che conseguano obbligatoriamente ad iniziativa di parte, sia ai procedimenti promossi d'ufficio, ai sensi dell'art. 2, comma 1, della legge 7 agosto 1990, n. 241.
+
+2.
+                    
+                        
+                            I procedimenti di competenza dell'amministrazione per i beni culturali e ambientali devono concludersi con un provvedimento espresso nel termine stabilito, per ciascun procedimento, nella tabella 
+                        
+                        
+                            a)
+                            
+                                allegata, che costituisce parte integrante del presente regolamento e che contiene, altresi', l'indicazione dell'organo o ufficio competente e della fonte normativa. In caso di mancata inclusione del procedimento nelle allegate tabelle, lo stesso si concludera' nel termine previsto da altra fonte legislativa o regolamentare o, in mancanza, nel termine di trenta giorni di cui all'art. 2 della legge 7 agosto 1990, n. 241.
 
 Nella tabella b allegata al presente regolamento sono indicati i termini entro cui l'amministrazione per i beni culturali e ambientali espleta la prescritta attivita' endoprocedimentale e manifesta il proprio intento, comunque denominato, nei procedimenti di competenza di altre amministrazioni.
  AVVERTENZA:

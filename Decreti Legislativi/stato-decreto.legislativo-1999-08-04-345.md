@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2000-10-10
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:23Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -144,6 +144,132 @@ L'articolo 26 della legge 17 ottobre 1967, n. 977, e' sostituito dal seguente:
  8. Alle contravvenzioni di cui al comma 2 si applicano le disposizioni del capo II del decreto legislativo 19 dicembre 1994, n. 758.".
 
 ## Art. 15.
+
+1.
+                    
+                        
+                            Alla legge 17 ottobre 1967, n. 977, e' aggiunto il seguente allegato:
+ "Allegato I.
+I. Lavorazioni che espongono ai seguenti agenti:
+ 1. Agenti fisici:
+ 
+                        
+                        
+                            a)
+                            
+                                atmosfera a pressione superiore a quella naturale, ad esempio in contenitori sotto pressione, immersione sottomarina, fermo restando le disposizioni di cui al decreto del Presidente della Repubblica 20 marzo 1956, n. 321;
+
+                            
+                        
+                        
+                            b)
+                            
+                                rumori con esposizione superiore al valore previsto dall'art. 42, comma 1, del decreto legislativo 15 agosto 1991, n. 277.
+
+2.
+                    
+                        
+                            Agenti biologici:
+ 
+                        
+                        
+                            a)
+                            
+                                agenti biologici dei gruppi 3 e 4, ai sensi del titolo VIII del decreto legislativo n. 626 del 1994 e di quelli geneticamente modificati del gruppo II di cui ai decreti legislativi 3 marzo 1993, n. 91 e n. 92.
+
+3.
+                    
+                        
+                            Agenti chimici:
+ 
+                        
+                        
+                            a)
+                            
+                                sostanze e preparati classificati tossici (T), molto tossici (T+), corrosivi (C), esplosivi (E) o estremamente infiammabili (F+) ai sensi del decreto legislativo 3 febbraio 1997, n. 52, e successive modificazioni e integrazioni e del decreto legislativo 16 luglio 1998, n. 285;
+
+                            
+                        
+                        
+                            b)
+                            
+                                sostanze e preparati classificati nocivi (Xn) ai sensi dei decreti legislativi di cui al punto 3 a) e comportanti uno o piu' rischi descritti dalle seguenti frasi:
+ 1) pericolo di effetti irreversibili molto gravi (R39);
+ 2) possibilita' di effetti irreversibili (R40);
+ 3) puo' provocare sensibilizzazione mediante inalazione (R42);
+ 4) puo' provocare sensibilizzazione per contatto con la pelle (R43);
+ 5) puo' provocare alterazioni genetiche ereditarie (R46);
+ 6) pericolo di gravi danni per la salute in caso di esposizione prolungata (R48);
+ 7) puo' ridurre la fertilita' (R60);
+ 8) puo' danneggiare i bambini non ancora nati (R61);
+
+                            
+                        
+                        
+                            c)
+                            
+                                sostanze e preparati classificati irritanti (Xi) e comportanti uno o piu' rischi descritti dalle seguenti frasi:
+ 1) puo' provocare sensibilizzazione mediante inalazione (R42);
+ 2) puo' provocare sensibilizzazione per contatto con la pelle (R43);
+
+                            
+                        
+                        
+                            d)
+                            
+                                sostanze e preparati di cui al titolo VII del decreto legislativo n. 626 del 1994;
+
+                            
+                        
+                        
+                            e)
+                            
+                                piombo e composti;
+
+                            
+                        
+                        
+                            f)
+                            
+                                amianto.
+II. Processi e lavori:
+ 1) Processi e lavori di cui all'allegato VIII del decreto legislativo n. 626 del 1994.
+ 2) Lavori di fabbricazione e di manipolazione di dispositivi, ordigni ed oggetti diversi contenenti esplosivi, fermo restando le disposizioni di cui al decreto del Presidente della Repubblica 19 marzo 1956, n. 302.
+ 3) Lavori in serragli contenenti animali feroci o velenosi nonche' condotta e governo di tori e stalloni.
+ 4) Lavori di mattatoio.
+ 5) Lavori comportanti la manipolazione di apparecchiature di produzione, di immagazzinamento o di impiego di gas compressi, liquidi o in soluzione.
+ 6) Lavori su tini, bacini, serbatoi, damigiane o bombole contenenti agenti chimici di cui al punto I.3.
+ 7) Lavori edili di demolizione, allestimento e smontaggio delle armature esterne ed interne delle costruzioni.
+ 8) Lavori comportanti rischi elettrici da alta tensione come definita dall'art. 268 del decreto del Presidente della Repubblica 27 aprile 1955, n. 547.
+ 9) Lavori il cui ritmo e' determinato dalla macchina e che sono pagati a cottimo.
+ 10) Esercizio dei forni a temperatura superiore a 500 C come ad esempio quelli per la produzione di ghisa, ferroleghe, ferro o acciaio; operazioni di demolizione, ricostruzione e riparazione degli stessi; lavoro ai laminatoi.
+ 11) Lavorazioni nelle fonderie.
+ 12) Processi elettrolitici.
+ 13) Produzione di gomma sintetica; lavorazione della gomma naturale e sintetica.
+ 14) Produzione dei metalli ferrosi e non ferrosi e loro leghe.
+ 15) Produzione e lavorazione dello zolfo.
+ 16) Lavorazioni di escavazione, comprese le operazioni di estirpazione del materiale, di collocamento e smontaggio delle armature, di conduzione e manovra dei mezzi meccanici, di taglio dei massi.
+ 17) Lavorazioni in gallerie, cave, miniere, torbiere e industria estrattiva in genere.
+ 18) Lavorazione meccanica dei minerali e delle rocce, limitatamente alle fasi di taglio, frantumazione, polverizzazione, vagliatura a secco dei prodotti polverulenti.
+ 19) Lavorazione dei tabacchi.
+ 20) Lavori di costruzione, trasformazione, riparazione, manutenzione e demolizione delle navi, esclusi i lavori di officina eseguiti nei reparti a terra.
+ 21) Produzione di calce ventilata.
+ 22) Lavorazioni che espongono a rischio silicotigeno.
+ 23) Manovra degli apparecchi di sollevamento a trazione meccanica, ad eccezione di ascensori e montacarichi.
+ 24) Lavori in pozzi, cisterne ed ambienti assimilabili.
+ 25) Lavori nei magazzini frigoriferi.
+ 26) Lavorazione, produzione e manipolazione comportanti esposizione a prodotti farmaceutici.
+ 27) Condotta dei veicoli di trasporto e di macchine operatrici semoventi con propulsione meccanica nonche' lavori di pulizia e di servizio dei motori e degli organi di trasmissione che sono in moto.
+ 28) Operazioni di metallizzazione a spruzzo.
+ 29) Legaggio ed abbattimento degli alberi.
+ 30) Pulizia di camini e focolai negli impianti di combustione.
+ 31) Apertura, battitura, cardatura e pulitura delle fibre tessili, del crine vegetale ed animale, delle piume e dei peli.
+ 32) Produzione e lavorazione di fibre minerali e artificiali.
+ 33) Cernita e trituramento degli stracci e della carta usata.
+ 34) Lavori con impieghi di martelli pneumatici, mole ad albero flessibile e altri strumenti vibranti; uso di pistole fissachiodi.
+ 35) Produzione di polveri metalliche.
+ 36) Saldatura e taglio dei metalli con arco elettrico o con fiamma ossidrica o ossiacetilenica.
+ 37) Lavori nelle macellerie che comportano l'uso di utensili taglienti, seghe e macchine per tritare.
 
 ## Art. 16.
 

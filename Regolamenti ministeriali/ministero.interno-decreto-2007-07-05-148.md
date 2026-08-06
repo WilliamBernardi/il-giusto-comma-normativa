@@ -8,8 +8,8 @@ codice_redazionale: 007G0162
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:39Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -22,6 +22,52 @@ Entrata in vigore del provvedimento: 22/9/2007
 Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 26 aprile 2007;
 
 ## Art. 1. — Benemerenze e insegne
+
+1.
+                    
+                        
+                            Al personale del Corpo nazionale dei vigili del fuoco possono essere attribuiti i seguenti riconoscimenti, le cui caratteristiche tecniche sono riportate nell'allegato A che costituisce parte integrante e sostanziale del presente regolamento:
+ 
+                        
+                        
+                            a)
+                            
+                                medaglia al merito di servizio;
+
+                            
+                        
+                        
+                            b)
+                            
+                                diplomi di benemerenza con medaglia;
+
+                            
+                        
+                        
+                            c)
+                            
+                                croci di anzianita';
+
+                            
+                        
+                        
+                            d)
+                            
+                                diplomi di lodevole servizio;
+
+                            
+                        
+                        
+                            e)
+                            
+                                encomi;
+
+                            
+                        
+                        
+                            f)
+                            
+                                elogi.
 
 ## Art. 2. — Requisiti per la concessione della medaglia al merito di servizio
 

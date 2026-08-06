@@ -8,8 +8,8 @@ codice_redazionale: 004G0275
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:50Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -29,7 +29,120 @@ Sulla proposta del Vicepresidente del Consiglio dei Ministri, del Ministro dell'
 
 ## Art. 1. — Definizioni generali
 
+1.
+                    
+                        
+                            Nel presente regolamento, si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                «testo unico»: il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero di cui al decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni;
+
+                            
+                        
+                        
+                            b)
+                            
+                                «regolamento»: il regolamento recante norme di attuazione del predetto testo unico, emanato con decreto del Presidente della Repubblica 31 agosto 1999, n. 394, e successive modificazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                «RUPA»: la rete unitaria delle pubbliche amministrazioni di cui all'articolo 15 della legge 15 marzo 1997, n. 59, o la sua evoluzione definita come «sistema pubblico di connettivita».
+
 ## Art. 2. — Sistemi informativi
+
+1.
+                    
+                        
+                            I sistemi informativi automatizzati gia' realizzati o in fase di realizzazione presso le amministrazioni pubbliche, da utilizzare nelle attivita' previste dai procedimenti di cui al testo unico e al regolamento, sono:
+ 
+                        
+                        
+                            a)
+                            
+                                l'anagrafe annuale informatizzata per il lavoro subordinato, tenuta dal Ministero del lavoro e delle politiche sociali, ai sensi dell'articolo 21 del testo unico;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i sistemi informativi automatizzati finalizzati alla costruzione del Sistema informativo del lavoro e della borsa del lavoro, derivanti dall'accordo Stato- regioni-autonomie locali dell'11 luglio 2002, dall'articolo 1, comma 2, lettera b), n. 4), della legge 14 febbraio 2003, n. 30, e dal decreto legislativo 10 settembre 2003, n. 276;
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'archivio informatizzato della rete mondiale visti, tenuto dal Ministero degli affari esteri;
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'anagrafe tributaria, tenuta dal Ministero dell'economia e delle finanze e dalle Agenzie fiscali;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'archivio anagrafico dei lavoratori extracomunitari, tenuto dall'Istituto nazionale della previdenza sociale, ai sensi dell'articolo 41 del regolamento;
+
+                            
+                        
+                        
+                            f)
+                            
+                                il casellario giudiziale, il casellario dei carichi pendenti e l'anagrafe delle sanzioni amministrative dipendenti da reato, di cui al decreto legislativo 14 novembre 2002, n. 311, tenuti dal Ministero della giustizia;
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'archivio informatizzato dei permessi di soggiorno, tenuto dal Ministero dell'interno - Dipartimento della pubblica sicurezza;
+
+                            
+                        
+                        
+                            h)
+                            
+                                l'archivio informatizzato per l'emersione-legalizzazione di lavoro irregolare, tenuto dal Ministero dell'interno - Dipartimento per le liberta' civili e l'immigrazione, ai sensi dell'articolo 33 della legge 30 luglio 2002, n. 189, e dell'articolo 1 del decreto-legge 9 settembre 2002, n. 195, convertito, con modificazioni, dalla legge 9 ottobre 2002, n. 222;
+
+                            
+                        
+                        
+                            i)
+                            
+                                il casellario nazionale d'identita', tenuto dal Ministero dell'interno - Dipartimento della pubblica sicurezza;
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'archivio informatizzato dei richiedenti asilo, tenuto dal Ministero dell'interno - Dipartimento per le liberta' civili e l'immigrazione;
+
+                            
+                        
+                        
+                            m)
+                            
+                                l'archivio informatizzato dei rifugiati, tenuto dal Ministero dell'interno - Dipartimento per le liberta' civili e l'immigrazione;
+
+                            
+                        
+                        
+                            n)
+                            
+                                il sistema anagrafico integrato Indice nazionale delle anagrafi (INA) - Sistema di accesso e interscambio anagrafico (SAIA) del Ministero dell'interno - Dipartimento per gli affari interni e territoriali.
 
 Ai fini della razionalizzazione del trattamento e dello scambio delle informazioni relative ai procedimenti di cui al testo unico e al regolamento, sono istituiti e tenuti dal Ministero dell'interno - Dipartimento per le liberta' civili e l'immigrazione archivi automatizzati in materia di immigrazione e di asilo. A tali archivi accedono le pubbliche amministrazioni interessate, individuate con decreto del Ministro dell'interno.
 

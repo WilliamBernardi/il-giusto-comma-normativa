@@ -8,8 +8,8 @@ codice_redazionale: 079U0416
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:48:02Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -20,4 +20,25 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA
 ## Art. 1.
 
 N.
+
+416.
+                    
+                        
+                            Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Pavia 25 marzo 1978, integrato con dichiarazione 28 settembre 1978, relativo: 
+                        
+                        
+                            a)
+                            
+                                all'erezione della parrocchia di S.
+ Andrea apostolo nella chiesa denominata "SS. Crocifisso", in zona Cordami di Pavia, con il trasferimento in essa del beneficio parrocchiale di S. Andrea apostolo, in Casatico di Giussago (Pavia);
+                            
+                        
+                        
+                            b)
+                            
+                                all'incorporazione del relativo territorio nella limitrofa parrocchia della Nativita' di Maria Vergine, in Giussago.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 24 agosto 1979
+ Registro n. 15 Interno, foglio n. 386
 

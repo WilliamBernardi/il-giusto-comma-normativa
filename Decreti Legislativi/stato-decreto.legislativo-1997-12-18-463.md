@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-07-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -86,11 +86,63 @@ Nell'articolo 42, del testo unico delle disposizioni concernenti l'imposta di re
 
 ((
 
+1.
+                    
+                        
+                            Nell'articolo 1 della tariffa dell'imposta di bollo, parte prima, annessa al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, come sostituita dal decreto del Ministro delle finanze 20 agosto 1992, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 196 del 21 agosto 1992, sono apportate le seguenti modificazioni:
+ 
+                        
+                        
+                            a)
+                            
+                                dopo il comma 1 e' aggiunto il seguente: "1-bis. Atti rogati, ricevuti o autenticati da notai o da altri pubblici ufficiali, relativi a diritti sugli immobili, sottoposti a registrazione con procedure telematiche, loro copie conformi per uso registrazione ed esecuzione di formalita' ipotecarie, comprese le note di trascrizione ed iscrizione, le domande di annotazione e di voltura da essi dipendenti e l'iscrizione nel registro di cui all'articolo 2678 del codice civile: lire 320.000.
+ b) nelle note, e' aggiunta, in fine, la seguente: "1-bis.
+L'imposta e' dovuta in misura cumulativa, all'atto della richiesta di formalita', mediante versamento da eseguire con le stesse modalita' previste per il pagamento degli altri tributi dovuti per l'esecuzione delle formalita' per via telematica .
+
 ))
 
 ## Art. 3-sexies. — (( (Disposizioni di attuazione).))
 
 ((
+
+1.
+                    
+                        
+                            Con regolamento da emanare ai sensi dell'articolo 3, comma 136, della legge 23 dicembre 1996, n. 662, sono apportate le modifiche, conseguenti alla introduzione delle procedure telematiche di cui all'articolo 3-bis, ed e' previsto un unico criterio di arrotondamento degli importi dovuti, alla disciplina in materia di:
+ 
+                        
+                        
+                            a)
+                            
+                                imposta di registro, di cui al testo unico approvato con decreto del Presidente della Repubblica 26 aprile 1986, n. 131;
+
+                            
+                        
+                        
+                            b)
+                            
+                                imposte ipotecarie e catastali, di cui al testo unico approvato con decreto legislativo 31 ottobre 1990, n. 347;
+
+                            
+                        
+                        
+                            c)
+                            
+                                perfezionamento e revisione del sistema catastale di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 650;
+
+                            
+                        
+                        
+                            d)
+                            
+                                imposta comunale sull'incremento di valore degli immobili, di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 643;
+
+                            
+                        
+                        
+                            e)
+                            
+                                imposta di bollo di cui al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642.
 
 Con decreto del Ministero delle finanze, di concerto con il Ministero della giustizia, e' approvato il modello unico informatico e sono stabilite le modalita' tecniche necessarie per la trasmissione dei dati relativi alla procedura telematica di cui all'articolo 3-bis.
 

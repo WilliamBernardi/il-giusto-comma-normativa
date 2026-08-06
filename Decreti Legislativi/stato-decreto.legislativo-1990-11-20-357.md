@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2011-07-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -29,9 +29,52 @@ Sulla proposta del Ministro del tesoro, di concerto con il Ministro del lavoro e
 ## Art. 1. — Iscrizione all'INPS dei dipendenti
  degli enti creditizi esclusi o esonerati dall'AGO
 
+1.
+                    
+                        
+                            A decorrere dal periodo di paga in corso al 1 gennaio 1991 sono iscritti all'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti dei lavoratori dipendenti i seguenti soggetti:
+ 
+                        
+                        
+                            a)
+                            
+                                i lavoratori dipendenti, in servizio alla data del 31 dicembre 1990, degli enti creditizi pubblici esclusi o esonerati dall'obbligo dell'iscrizione all'assicurazione generale obbligatoria per l'invalidita', la vecchiaia ed i superstiti per effetto dell'allegato T all'art. 39 della legge 8 agosto 1895, n. 486, e della legge 20 febbraio 1958, n. 55;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i lavoratori dipendenti assunti dopo il 31 dicembre 1990 dagli enti creditizi pubblici di cui alla lettera a) e dalle societa' per azioni risultanti dalle operazioni di cui all'art. 1 della legge 30 luglio 1990, n. 218, effettuate dagli enti creditizi pubblici richiamati, componenti il gruppo creditizio di cui all'art. 5, comma 1, della legge stessa;
+
+                            
+                        
+                        
+                            c)
+                            
+                                i titolari di trattamenti pensionistici diretti o ai superstiti a carico delle forme di assicurazione obbligatoria per l'invalidita', la vecchiaia ed i superstiti esclusive o esonerative previste per i lavoratori dipendenti dagli enti creditizi pubblici di cui alla lettera a) e i titolari di posizioni assicurative per prestazioni differibili presso le forme di assicurazione obbligatoria medesime, nei casi di cessazione anticipata dal servizio senza obbligo di ricostituzione della posizione assicurativa nell'assicurazione generale obbligatoria.
+
 L'iscrizione all'assicurazione generale obbligatoria dei lavoratori dipendenti, dei titolari di trattamenti pensionistici e dei titolari di posizioni assicurative di cui al comma 1 e' effettuata, ai fini dell'assolvimento della garanzia di cui al successivo art. 7, in una gestione speciale che e' istituita con la presente disposizione presso l'Istituto nazionale della previdenza sociale con autonomia gestionale.
 
 Alla gestione speciale di cui al comma 2, sovraintende il comitato amministratore del Fondo pensioni lavoratori dipendenti integrato, con decreto del Ministero del lavoro e della previdenza sociale, da tre rappresentanti dei datori di lavoro e da sei rappresentanti dei lavoratori dipendenti, designati dalle rispettive organizzazioni sindacali piu' rappresentative al livello nazionale del settore credito.
+
+4.
+                    
+                        
+                            Il comitato di cui al comma 3 ha i seguenti compiti:
+ 
+                        
+                        
+                            a)
+                            
+                                predisporre, in conformita' ai criteri stabiliti dal consiglio di amministrazione dell'Istituto nazionale della previdenza sociale, i prospetti evidenzianti l'ammontare delle entrate e delle uscite afferenti la gestione, corredati da apposita relazione;
+
+                            
+                        
+                        
+                            b)
+                            
+                                vigilare sull'applicazione delle norme di cui agli articoli 1, 2, 3, 6 e 7 del presente decreto ed esprimere parere sulle questioni che possono sorgere nell'applicazione stessa.
 
 La decisione, in unica istanza, dei ricorsi in materia di contributi dovuti alla gestione speciale e' attribuita al comitato amministratore del Fondo pensioni lavoratori dipendenti nella composizione originaria, con applicazione delle norme sui termini di cui all'art. 47, commi 3 e 4, della legge 9 marzo 1989, n. 88.
 

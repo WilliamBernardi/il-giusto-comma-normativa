@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-11-21
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:44Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -791,6 +791,24 @@ In ragione dell'impegno profuso in contesti emergenziali dal Corpo nazionale dei
 Per il personale appartenente ai ruoli speciali antincendio boschivo (AIB) a esaurimento, l'assegno ad personam di cui all'articolo 8, comma 1, lettera a), numero 2), ultimo periodo, della legge 7 agosto 2015, n. 124 viene riassorbito, sino a concorrenza, dai miglioramenti economici di cui al presente accordo.
 
 ## Art. 6. — Disposizioni finanziarie
+
+1.
+                    
+                        
+                            Alla copertura degli oneri derivanti dall'attuazione del presente accordo, pari ad euro 2.804.471 per l'anno 2018 e a euro 1.766.613 a decorrere dall'anno 2019 si provvede: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto ad euro 1.037.858 per l'anno 2018, mediante corrispondente utilizzo delle disponibilita' in conto residui relative all'autorizzazione di spesa di cui all'articolo 15, comma 2, del decreto legislativo 29 maggio 2017, n. 97, che sono versate all'entrata del bilancio dello Stato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto ad euro 1.766.613 a decorrere dall'anno 2018, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 15, comma 2, del decreto legislativo 29 maggio 2017, n. 97.
 
 Il Ministro dell'economia e delle finanze e' autorizzato ad apportare con proprio decreto le occorrenti variazioni di bilancio.
 

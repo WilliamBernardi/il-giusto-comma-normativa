@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2022-06-15
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -962,6 +962,24 @@ Il comma 1 dell'articolo 19 del decreto del Presidente della Repubblica 31 lugli
 
 ## Art. 15. — Informazione
 
+1.
+                    
+                        
+                            L'Amministrazione informa preventivamente i COCER in ordine: 
+ 
+                        
+                        
+                            a)
+                            
+                                alle emanande disposizioni applicative che si riferiscono alle materie oggetto di concertazione ai sensi del decreto legislativo 12 maggio 1995, n. 195; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai criteri per la destinazione, l'attribuzione e modalita' di attribuzione delle risorse di cui all'articolo 5, del decreto del Presidente della Repubblica 11 settembre 2007, n. 171.
+
 I COCER formulano per iscritto pareri preliminari e proposte sulle disposizioni applicative riguardanti le materie ed i criteri di cui al comma 1, lettere a) e b), entro 20 giorni dalla data di ricezione della comunicazione.
 
 Ai fini del comma 2 i COCER possono richiedere riunioni informative preliminari anche di carattere tecnico, che hanno inizio entro 48 ore dalla data di ricezione della comunicazione e si concludono nel termine di 25 giorni, ovvero entro un termine piu' breve per motivi di urgenza.
@@ -1020,6 +1038,31 @@ I benefici di cui ai commi 1, 2 e 3 non sono fra loro cumulabili, non competono 
 Sulle procedure e sui tempi di attuazione delle stabili modifiche degli assetti organizzativi di cui all'articolo 10, comma 2, per cio' che puo' attenere agli orari di lavoro, viene data informazione preventiva ai COCER, i quali entro 15 giorni formulano pareri. I COCER possono esprimere i predetti pareri anche nell'ambito di incontri con l'Amministrazione, dei quali viene redatto verbale.
 
 ## Art. 24. — (Trattamento di fine rapporto e previdenza complementare)
+
+1.
+                    
+                        
+                            Le procedure di negoziazione e di concertazione attivate, per la prima applicazione, ai sensi del citato articolo 26, comma 20, della legge n. 448 del 1998, provvedono a definire:
+ 
+                        
+                        
+                            a)
+                            
+                                la costituzione di uno o piu' fondi-pensione complementare nazionali per il personale delle Forze Armate e delle Forze di polizia ad ordinamento civile e militare, ai sensi del decreto legislativo n. 124 del 1993, della legge n.335 del 1995, della legge n. 449 del 1997 e successive modificazioni ed integrazioni, anche verificando la possibilita' di unificarlo con analoghi fondi istituiti ai sensi delle normative richiamate per i lavoratori del pubblico impiego;
+
+                            
+                        
+                        
+                            b)
+                            
+                                la misura percentuale della quota di contribuzione a carico delle Amministrazioni e di quella dovuta dal lavoratore, nonche' la retribuzione utile alla determinazione delle quote stesse;
+
+                            
+                        
+                        
+                            c)
+                            
+                                le modalita' di trasformazione della buonuscita in trattamento di fine rapporto, le voci retributive utili per gli accantonamenti del trattamento di fine rapporto, nonche' la quota di trattamento di fine rapporto da destinare a previdenza complementare.
 
 Destinatari dei fondi pensione di cui al comma 1 e' il personale che liberamente aderisce ai fondi stessi.
 

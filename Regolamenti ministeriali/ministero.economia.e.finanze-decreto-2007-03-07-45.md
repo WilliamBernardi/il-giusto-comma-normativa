@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2007-12-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,6 +23,24 @@ Entrata in vigore del decreto: 25-4-2007
 Udito il parere del Consiglio di Stato, espresso nell'adunanza della sezione consultiva per gli atti normativi in data 21 dicembre 2006;
 
 ## Art. 1. — Ambito di applicazione
+
+1.
+                    
+                        
+                            Il presente regolamento si applica:
+ 
+                        
+                        
+                            a)
+                            
+                                ai pensionati gia' dipendenti pubblici che fruiscono di trattamento a carico delle gestioni pensionistiche dell'INPDAP;
+
+                            
+                        
+                        
+                            b)
+                            
+                                ai dipendenti o pensionati di enti e amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, iscritti ai fini pensionistici presso enti o gestioni previdenziali diverse dall'INPDAP.
 
 ## Art. 2. — Iscrizione alla gestione credito
 

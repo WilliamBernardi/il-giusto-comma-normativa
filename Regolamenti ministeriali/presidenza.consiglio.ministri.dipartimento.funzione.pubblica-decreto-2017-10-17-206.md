@@ -7,8 +7,8 @@ urn: urn:nir:presidenza.consiglio.ministri.dipartimento.funzione.pubblica:decret
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -47,6 +47,31 @@ L'obbligo di reperibilita' sussiste anche nei giorni non lavorativi e festivi.
 ## Art. 4.
 
 Esclusioni dall'obbligo di reperibilita'
+
+1.
+                    
+                        
+                            Sono esclusi dall'obbligo di rispettare le fasce di reperibilita' i dipendenti per i quali l'assenza e' riconducibile ad una delle seguenti circostanze: 
+ 
+                        
+                        
+                            a)
+                            
+                                patologie gravi che richiedono terapie salvavita; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                causa di servizio riconosciuta che abbia dato luogo all'ascrivibilita' della menomazione unica o plurima alle prime tre categorie della Tabella A allegata al decreto del Presidente della Repubblica 30 dicembre 1981, n. 834, ovvero a patologie rientranti nella Tabella E del medesimo decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                stati patologici sottesi o connessi alla situazione di invalidita' riconosciuta, pari o superiore al 67%.
 
 ## Art. 5. — Verbale di visita fiscale
 

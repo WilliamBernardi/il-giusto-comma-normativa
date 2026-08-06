@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-06-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:34Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -31,9 +31,304 @@ Il presente decreto, in attuazione della delega di cui all'articolo 5 della legg
 
 ## Art. 2. — Definizioni
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende: 
+ 
+                            
+                            
+                                a)
+                                
+                                    associazione o societa' sportiva dilettantistica: il soggetto giuridico affiliato ad una Federazione Sportiva Nazionale, ad una Disciplina Sportiva Associata o ad un Ente di Promozione Sportiva ((, anche paralimpico, e comunque iscritto nel Registro nazionale delle attivita' sportive dilettantistiche di cui al decreto legislativo 28 febbraio 2021, n. 39)) che svolge, senza scopo di lucro, attivita' sportiva, nonche' la formazione, la didattica, la preparazione e l'assistenza all'attivita' sportiva dilettantistica; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    associazioni benemerite: gli organismi sportivi attivi che operano nel campo della promozione di iniziative di rilevanza sociale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    associazioni di atlete e atleti: le associazioni fra le atlete e gli atleti praticanti discipline sportive regolamentate dalla medesima Federazione, aventi lo scopo di tutelare gli interessi collettivi degli atleti e delle atlete che vi aderiscono; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    associazioni di tecnici: le associazioni fra i tecnici di discipline sportive regolamentate dalla medesima Federazione, aventi lo scopo di tutelare gli interessi collettivi dei tecnici che vi aderiscono; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    Attivita' Fisica Adattata (AFA): programmi di esercizi fisici, la cui tipologia e la cui intensita' sono definite mediante l'integrazione professionale e organizzativa tra medici di medicina generale (MMG), pediatri di libera scelta (PLS) e medici specialisti e calibrate in ragione delle condizioni funzionali delle persone cui sono destinati, che hanno patologie croniche clinicamente controllate e stabilizzate o disabilita' fisiche e che li eseguono in gruppo sotto la supervisione di un professionista dotato di specifiche competenze, in luoghi e in strutture di natura non sanitaria, come le «palestre della salute», al fine di migliorare il livello di attivita' fisica, il benessere e la qualita' della vita e favorire la socializzazione; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    attivita' fisica o attivita' motoria: qualunque movimento esercitato dal sistema muscolo-scheletrico che si traduce in un dispendio energetico superiore a quello richiesto in condizioni di riposo; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    cavallo atleta: l'equide registrato, non destinato alla produzione alimentare, utilizzato per lo svolgimento dell'attivita' sportiva e la partecipazione alle competizioni sportive equestri; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    Comitato Italiano Paralimpico (CIP): l'ente pubblico, riconosciuto dal Comitato Paralimpico Internazionale ((che, in conformita' ai principi dell'ordinamento sportivo paralimpico internazionale, e' autorita' di disciplina, regolazione e gestione delle attivita' sportive paralimpiche afferenti tutte le tipologie di disabilita')); 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    Comitato Olimpico Internazionale: l'organizzazione internazionale non governativa senza fini di lucro alla guida del movimento olimpico, preposta alla gestione e all'organizzazione dei Giochi Olimpici; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    Comitato Olimpico Nazionale Italiano (CONI): l'ente pubblico, riconosciuto dal Comitato Olimpico Internazionale che, in conformita' alla Carta olimpica, svolge il ruolo di Comitato olimpico sul territorio nazionale; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    Comitato Paralimpico Internazionale: l'organizzazione internazionale non governativa senza fini di lucro alla guida del movimento paralimpico, preposta alla gestione e all'organizzazione dei Giochi Paralimpici; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    Dipartimento per lo sport: la struttura amministrativa della Presidenza del Consiglio dei Ministri operante nell'area funzionale dello sport; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    direttore di gara: il soggetto che, osservando i principi di terzieta', imparzialita' e indipendenza di giudizio, svolge, per conto delle competenti Federazioni Sportive Nazionali, Discipline Sportive Associate ed Enti di Promozione Sportiva, attivita' volte a garantire la regolarita' dello svolgimento delle competizioni sportive; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    direttore sportivo: il soggetto che cura l'assetto organizzativo e amministrativo di una societa' sportiva, con particolare riferimento alla gestione dei rapporti fra societa', atleti e allenatori, nonche' la conduzione di trattative con altre societa' sportive aventi ad oggetto il trasferimento di atleti, la stipulazione delle cessioni dei contratti e il tesseramento; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    direttore Tecnico: il soggetto che cura l'attivita' concernente l'individuazione degli indirizzi tecnici di una societa' sportiva, sovraintendendo alla loro attuazione e coordinando le attivita' degli allenatori a cui e' affidata la conduzione tecnica delle squadre della societa' sportiva; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    Disciplina Sportiva Associata: l'organizzazione sportiva nazionale, priva dei requisiti per il riconoscimento quale Federazione Sportiva Nazionale, che svolge attivita' sportiva sul territorio nazionale; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    Enti di Promozione Sportiva: gli organismi sportivi che operano nel campo della promozione e nell'organizzazione di attivita' motorie e sportive con finalita' ricreative e formative, anche a tutela delle minoranze linguistiche; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    esercizio fisico strutturato: programmi di attivita' fisica pianificata e ripetitiva specificamente definiti attraverso l'integrazione professionale e organizzativa tra medici di medicina generale (MMG), pediatri di libera scelta (PLS) e medici specialisti, sulla base delle condizioni cliniche dei singoli soggetti cui sono destinati, che presentano patologie o fattori di rischio per la salute e che li eseguono individualmente sotto la supervisione di un professionista munito di specifiche competenze, in luoghi e in strutture di natura non sanitaria, come le «palestre della salute», al fine di migliorare o mantenere la forma fisica, le prestazioni fisiche e lo stato di salute; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    Federazione Sportiva Internazionale: l'organizzazione internazionale non governativa senza scopi di lucro che governa uno o piu' sport a livello mondiale e che riconosce a fini sportivi le organizzazioni che governano i medesimi sport a livello nazionale; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    Federazione Sportiva Nazionale: l'organizzazione sportiva nazionale, affiliata alla Federazione sportiva internazionale di appartenenza, posta al vertice di una disciplina sportiva o a un gruppo di discipline affini; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    Federazioni Sportive Paralimpiche: l'organizzazione sportiva nazionale riconosciuta dal Comitato Italiano Paralimpico posta al vertice di una disciplina sportiva paralimpica o a un gruppo di discipline paralimpiche affini; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    Gruppi sportivi delle Forze di Polizia dello Stato e dei Vigili del Fuoco: le strutture tecnico-organizzative interne alle Forze di Polizia dello Stato e ai Vigili del Fuoco che promuovono l'esercizio dell'attivita' sportiva agonistica e non agonistica di tutto il personale in servizio, inclusi atleti con disabilita', e partecipano a competizioni nazionali e internazionali sulla base di protocolli d'intesa stipulati con il Comitato Olimpico Nazionale Italiano, per le competizioni multi sportive organizzate dal CIO, e con le Federazioni Sportive Nazionali e Discipline Sportive Associate per le altre competizioni; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    Gruppi sportivi militari della Difesa: le strutture tecnico-organizzative interne alle Forze Armate, ivi inclusa l'Arma dei Carabinieri, che promuovono l'esercizio dell'attivita' sportiva agonistica e non agonistica di tutto il personale in servizio, inclusi atleti con disabilita', e partecipano a competizioni nazionali e internazionali sulla base di protocolli d'intesa stipulati con il Comitato Olimpico Nazionale Italiano, per le competizioni multi sportive organizzate dal CIO, e con le Federazioni Sportive Nazionali e Discipline Sportive Associate per le altre competizioni; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    impianto sportivo: la struttura, all'aperto o al chiuso, preposta allo svolgimento di manifestazioni sportive, comprensiva di uno o piu' spazi di attivita' sportiva dello stesso tipo o di tipo diverso, nonche' di eventuali zone spettatori, servizi accessori e di supporto; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    lavoratore sportivo: l'atleta, l'allenatore, l'istruttore, il direttore tecnico, il direttore sportivo, il preparatore atletico e il direttore di gara ((e ogni altro tesserato)) che, senza alcuna distinzione di genere e indipendentemente dal settore professionistico o dilettantistico, esercitano l'attivita' sportiva verso un corrispettivo ((nei termini indicati dall'articolo 25)); 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    pratica sportiva per tutti: l'attivita' sportiva di base, organizzata o non organizzata, promossa dalla Repubblica in favore di tutte le fasce della popolazione al fine di consentire a ogni individuo la possibilita' di migliorare la propria condizione fisica e psichica e di raggiungere il livello di prestazione sportiva corrispondente alle proprie capacita'; 
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    palestra della salute: struttura di natura non sanitaria, sia pubblica che privata, dove sono svolti programmi di esercizio fisico strutturato e programmi di attivita' fisica adattata; 
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    Registro nazionale delle attivita' sportive dilettantistiche: il registro istituito presso il Dipartimento per lo sport al quale devono essere iscritte, per accedere a benefici e contributi pubblici di qualsiasi natura, tutte le societa' e associazioni sportive dilettantistiche che svolgono attivita' sportiva, compresa l'attivita' didattica e formativa, e che operano nell'ambito di una Federazione Sportiva Nazionale, una Disciplina Sportiva Associata, un Ente di Promozione Sportiva riconosciuti dal CONI; 
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    settore dilettantistico: il settore di una Federazione Sportiva Nazionale o Disciplina Sportiva Associata non qualificato come professionistico; 
+ ll) settore professionistico: il settore qualificato come professionistico dalla rispettiva Federazione Sportiva Nazionale o Disciplina Sportiva Associata; 
+ mm) settore sportivo giovanile: il settore organizzato da Federazioni Sportive Nazionali, da Discipline Sportive Associate o da altri organismi sportivi competenti, per finalita' tecniche, didattiche e formative, formato da giovani minori di eta', di ambo i sessi; 
+ nn) sport: qualsiasi forma di attivita' fisica fondata sul rispetto di regole che, attraverso una partecipazione organizzata o non organizzata, ha per obiettivo l'espressione o il miglioramento della condizione fisica e psichica, lo sviluppo delle relazioni sociali o l'ottenimento di risultati in competizioni di tutti i livelli; 
+ oo) sport di alto livello: l'attivita' sportiva svolta dagli atleti e dalle atlete riconosciuti di alto livello dalla Federazione Sportiva Nazionale, dalla Disciplina Sportiva Associata o dalla Lega di riferimento; 
+ pp) sport olimpico: la disciplina sportiva ammessa a partecipare ai Giochi Olimpici; 
+ qq) sport paralimpico: la disciplina sportiva ammessa a partecipare ai Giochi Paralimpici; 
+ rr) Sport e salute S.p.A.: la societa' per azioni a controllo pubblico che svolge attivita' di produzione e fornitura servizi di interesse generale a favore dello sport, secondo le direttive e gli indirizzi del Presidente del Consiglio dei ministri o dell'Autorita' politica da esso delegata in materia di sport.
+
 ## Art. 3. — Principi e obiettivi
 
 L'esercizio dell'attivita' sportiva, sia essa svolta in forma individuale o collettiva, sia in forma professionistica o dilettantistica, e' libero.
+
+2.
+                        
+                            
+                                Il presente decreto intende perseguire i seguenti obiettivi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    riconoscere il valore culturale, educativo e sociale dell'attivita' sportiva, quale strumento di miglioramento della qualita' della vita e di tutela della salute, nonche' quale mezzo di coesione territoriale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    promuovere l'attivita' motoria, l'esercizio fisico strutturato e l'attivita' fisica adattata quali strumenti idonei a facilitare l'acquisizione di stili di vita corretti e funzionali all'inclusione sociale, alla promozione della salute, nonche' al miglioramento della qualita' della vita e del benessere psico-fisico sia nelle persone sane sia nelle persone affette da patologie; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    consentire ad ogni individuo di praticare sport in un ambiente sicuro e sano; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    promuovere la pari opportunita' delle donne nelle prestazioni di lavoro sportivo, tanto nel settore professionistico, quanto in quello dilettantistico; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    riconoscere e garantire il diritto alla pratica sportiva dei minori, anche attraverso il potenziamento delle strutture e delle attivita' scolastiche; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    incentivare la pratica sportiva dei cittadini con disabilita', garantendone l'accesso alle infrastrutture sportive, quale misura volta ad assicurarne il pieno inserimento nella societa' civile; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    proteggere la salute e la sicurezza di coloro che partecipano ad attivita' sportive, in particolare modo i minori; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    introdurre una disciplina organica del rapporto di lavoro sportivo, a tutela della dignita' dei lavoratori e rispettosa della specificita' dello sport; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    valorizzare la formazione dei lavoratori sportivi, in particolare dei giovani atleti, al fine di garantire loro una crescita non solo sportiva, ma anche culturale ed educativa, nonche' una preparazione professionale che favorisca l'accesso all'attivita' lavorativa anche alla fine della carriera sportiva; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    sostenere e tutelare il volontariato sportivo; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    valorizzare la figura del laureato in scienze motorie e dei soggetti forniti di titoli equipollenti.
 
 ## Art. 4. — Competenze legislative di Stato, 
  regioni e province autonome
@@ -61,6 +356,66 @@ Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri 
  3. Gli enti sportivi dilettantistici si affiliano annualmente alle Federazioni Sportive Nazionali, alle Discipline Sportive Associate e agli Enti di Promozione Sportiva ((, anche paralimpici)). Essi possono affiliarsi contemporaneamente anche a piu' di un organismo sportivo affiliante.
 
 ## Art. 7. — Atto costitutivo e statuto
+
+1.
+                        
+                            
+                                Le societa' e le associazioni sportive dilettantistiche si costituiscono con atto scritto nel quale deve tra l'altro essere indicata la sede legale. Nello statuto devono essere espressamente previsti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la denominazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    l'oggetto sociale con specifico riferimento all'esercizio in via stabile e principale dell'organizzazione e gestione di attivita' sportive dilettantistiche, ivi comprese la formazione, la didattica, la preparazione e l'assistenza all'attivita' sportiva dilettantistica; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'attribuzione della rappresentanza legale dell'associazione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'assenza di fini di lucro ai sensi dell'articolo 8; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le norme sull'ordinamento interno ispirato a principi di democrazia e di uguaglianza dei diritti di tutti gli associati, con la previsione dell'elettivita' delle cariche sociali, fatte salve le societa' sportive che assumono la forma societaria per le quali si applicano le disposizioni del codice civile; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'obbligo di redazione di rendiconti economico-finanziari, nonche' le modalita' di approvazione degli stessi da parte degli organi statutari; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    le modalita' di scioglimento dell'associazione; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'obbligo di devoluzione ai fini sportivi del patrimonio in caso di scioglimento delle societa' e delle associazioni.
 
 Laddove gli enti che siano stati costituiti per il perseguimento delle finalita' di cui all'articolo 4 del decreto legislativo 3 luglio 2017, n 117, abbiano assunto la qualifica di enti del terzo settore, anche nella forma di impresa sociale, e siano iscritti al Registro unico del terzo settore, il requisito dell'esercizio in via principale dell'attivita' dilettantistica di cui al comma 1, lettera b), non e' richiesto;
 
@@ -173,6 +528,73 @@ La Commissione svolge, prima e durante le competizioni, attivita' di controllo e
 
 La Commissione certifica la regolarita' della gestione economica e finanziaria delle societa' sportive professionistiche, mediante pareri obbligatori che sono trasmessi alle rispettive Federazioni sportive nazionali per l'adozione dei provvedimenti di competenza concernenti l'ammissione, la partecipazione e l'esclusione dalle competizioni professionistiche, e di ogni altro provvedimento conseguente. La Commissione, ai fini dell'adozione degli atti di competenza, ferme restando le esigenze di celerita' e tempestivita', garantisce il rispetto del principio del contraddittorio, nei casi e con le modalita' previsti dal regolamento di cui al comma 7.
 
+4.
+                        
+                            
+                                Nell'esercizio delle proprie funzioni, la Commissione: 
+ 
+                            
+                            
+                                a)
+                                
+                                    ferme restando le competenze della Commissione nazionale per le societa' e la borsa (CONSOB) sulle societa' italiane emittenti valori mobiliari ammessi alla negoziazione su mercati regolamentati, verifica la correttezza e la congruita' dei documenti societari, sulla base della normativa civilistica, societaria e contabile nonche' delle prescrizioni contenute nei regolamenti federali di riferimento, e indica le misure correttive e riparatrici; nei casi piu' urgenti, indica alle relative Federazioni di competenza per le rispettive valutazioni le rettifiche da apportare, al fine di neutralizzare gli eventuali effetti economici, finanziari e patrimoniali di specifiche operazioni di natura ordinaria o straordinaria che non siano conformi alle regole stabilite da norme e regolamenti, anche sportivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    verifica la documentazione prevista dalla normativa federale ai fini del rilascio della licenza nazionale per la partecipazione alle competizioni, sulla base delle prescrizioni contenute nei regolamenti federali emanati dalle Federazioni sportive nazionali di riferimento in conformita' ai principi degli organismi sportivi internazionali competenti nelle specifiche discipline, emettendo, a tal fine, un parere sulla correttezza contabile della documentazione entro la data concordata con congruo anticipo con ciascuna delle Federazioni sportive nazionali di riferimento e, in ogni caso, con congruo anticipo rispetto all'inizio della rispettiva stagione sportiva; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    richiede in qualsiasi momento il deposito di dati e documenti contabili e societari, nonche' di ogni altro atto o documento comunque necessario per le proprie valutazioni; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    effettua, attraverso propri incaricati, verifiche e ispezioni presso le sedi delle societa'; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    richiede alle societa' sportive professionistiche e alle Federazioni sportive nazionali di riferimento chiarimenti, informazioni e documentazione, anche quanto ai soggetti, sia persone fisiche che giuridiche, che controllano direttamente o indirettamente le societa', compreso il soggetto cui sia riconducibile il controllo finale sulle stesse e sul gruppo di cui eventualmente facciano parte; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    convoca i responsabili delle Federazioni sportive nazionali e, se istituite, delle Leghe di riferimento, i componenti dell'organo amministrativo e di controllo delle societa', il revisore legale dei conti, la societa' di revisione e i dirigenti delle societa', allo scopo di acquisire informazioni ed elementi utili per le proprie valutazioni; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    fornisce pareri su questioni di propria competenza, d'ufficio o su richiesta di amministrazioni, enti interessati, leghe professionistiche o societa' sportive professionistiche, e propone alle Autorita' competenti, diverse da quella di cui alla lettera i), nonche' alle Federazioni sportive nazionali o alle Leghe, l'attivazione di indagini conoscitive, secondo le rispettive competenze e secondo le regole e i principi stabiliti nei procedimenti disciplinari sportivi; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    segnala agli organi competenti le violazioni riscontrate e trasmette la relativa documentazione; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    attiva forme di collaborazione con la Commissione nazionale per le societa' e la borsa (CONSOB), con gli organismi competenti a emanare i principi contabili e con le organizzazioni rappresentative dei soggetti incaricati del controllo legale dei conti.
+
 La Commissione presenta, entro il 30 settembre di ciascun anno, una relazione al Parlamento, per la successiva trasmissione alle Commissioni parlamentari competenti, e al Presidente del Consiglio dei ministri o all'Autorita' politica delegata in materia di sport sui risultati dell'attivita' svolta nell'anno precedente e sull'andamento degli equilibri economico-finanziari delle societa' sportive professionistiche.
 
 La Commissione, dotata di autonomia regolamentare, organizzativa, amministrativa, patrimoniale, contabile e finanziaria, opera con indipendenza di giudizio e di valutazione ed e' organo collegiale, composto da un presidente e sei componenti, nominati con decreto del Presidente del Consiglio dei ministri o dell'Autorita' politica delegata in materia di sport, di concerto con il Ministro dell'economia e delle finanze. Ne fanno parte, come componenti di diritto, il presidente dell'Istituto nazionale della previdenza sociale (INPS) e il Direttore dell'Agenzia delle entrate, che possono delegare personale di qualifica dirigenziale di livello generale o equivalente appartenente alle relative istituzioni. Il presidente e i restanti quattro componenti sono scelti tra magistrati contabili, professori universitari nelle materie economiche, giuridiche e finanziarie, avvocati del libero foro iscritti all'albo dell'ordine territorialmente competente, anche in elenchi speciali, e abilitati al patrocinio innanzi alle magistrature superiori o dottori commercialisti iscritti anche all'elenco dei revisori contabili da almeno 15 anni e con comprovata esperienza nel settore della revisione contabile societaria, e due tra essi sono individuati nell'ambito di una rosa di cinque nominativi, proposti, entro trenta giorni dalla richiesta, dalle Federazioni sportive nazionali interessate, d'intesa con le Leghe professionistiche di riferimento.
@@ -194,6 +616,24 @@ Sino alla data di insediamento dell'organo collegiale di cui al comma 6, sono fa
 
 Per l'istituzione e l'avvio della Commissione e' autorizzata la spesa di euro 1.700.000 per l'anno 2024. Ai relativi oneri si provvede mediante corrispondente versamento all'entrata del bilancio dello Stato da parte della Presidenza del Consiglio dei ministri, a valere sulle risorse affluite sul suo bilancio autonomo per effetto dell'articolo 10, comma 3, del decreto-legge 25 maggio 2021, n. 73, convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106.
 Alla compensazione dei relativi effetti finanziari, in termini di fabbisogno e di indebitamento netto, pari a euro 1.700.000 per l'anno 2024, si provvede mediante corrispondente riduzione del Fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189. Per le medesime finalita' e' autorizzata la spesa di euro 311.491 per l'anno 2025. Ai relativi oneri si provvede mediante corrispondente versamento all'entrata del bilancio dello Stato da parte della Presidenza del Consiglio dei ministri, a valere sulle risorse affluite sul suo bilancio autonomo per effetto dell'articolo 35, comma 8-decies, del presente decreto. Alla compensazione dei relativi effetti finanziari, in termini di fabbisogno e di indebitamento netto, pari a euro 311.491 per l'anno 2025, si provvede mediante corrispondente riduzione del fondo per la compensazione degli effetti finanziari non previsti a legislazione vigente, anche conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 1, comma 511, della legge 27 dicembre 2006, n. 296.
+
+11.
+                        
+                            
+                                A decorrere dall'anno 2026, la Commissione provvede all'autonoma gestione delle spese per il proprio funzionamento, mediante: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il contributo annuale della quota di euro 1.900.000 da parte delle Federazioni sportive di riferimento, ripartita in proporzione alla quota percentuale di contributi pubblici di cui all'articolo 1, comma 630, della legge 30 dicembre 2018, n. 145, ((destinati alle stesse federazioni sportive nazionali. All'esito della determinazione annuale, tale quota e' direttamente corrisposta alla Commissione dalla societa' Sport e salute S.p.A.;))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    il contributo annuale, nella misura massima complessiva di euro 1.600.000, delle societa' sportive professionistiche sottoposte alla sua vigilanza, per una soglia massima dello 0,15 per cento del fatturato di ciascuna delle societa', da calcolare sull'ultimo bilancio approvato da ciascuna delle predette societa' professionistiche.
 
 Le misure e le modalita' di contribuzione annuale previste al comma 11 sono determinate con atto della Commissione, sottoposto all'approvazione del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze. Nel termine di trenta giorni dalla ricezione dell'atto, possono essere formulati rilievi cui la Commissione si conforma e, in assenza di rilievi formulati nel termine, l'atto si intende approvato. Eventuali variazioni della misura e delle modalita' di contribuzione sono adottate ai sensi del primo periodo. ((La Commissione indipendente per la verifica dell'equilibrio economico e finanziario delle societa' sportive professionistiche puo' avvalersi del patrocinio dell'Avvocatura dello stato, ai sensi dell'articolo 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello stato e sull'ordinamento dell'avvocatura dello stato, di cui al regio decreto 30 ottobre 1933, n. 1611.))
 
@@ -298,6 +738,31 @@ Le Federazioni Sportive Nazionali, le Discipline Sportive Associate e gli Enti d
 
 Definizione del «cavallo atleta»
 
+1.
+                        
+                            
+                                Un cavallo e in generale un equide e' definito «cavallo atleta» quando ricorrano congiuntamente i seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    sia definibile «equide registrato», come risulta dal documento di identificazione previsto dal regolamento di esecuzione (UE) 2021/963 della Commissione europea, del 10 giugno 2021; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    sia dichiarato non destinato alla produzione alimentare, come come risulta dal Documento di identificazione previsto dal regolamento di esecuzione (UE) 2021/963 della Commissione europea, del 10 giugno 2021; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    sia iscritto al «repertorio cavalli atleti» presso la Federazione Italiana Sport Equestri o la Federazione Pentathlon Moderno o la Fitetrec-Ante, o un Ente di Promozione Sportiva, anche paralimpico riconosciuto per gli sport equestri, come risulta dal «Documento di Identificazione» o dal documento emesso dal sistema di tesseramento dello stesso organismo sportivo interessato, o presso il Ministero dell'Agricoltura, della sovranita' alimentare e delle foreste.
+
 ((
 
 Sono fatte salve le competenze del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste riguardo l'emissione del passaporto dell'equide (Documento di Identificazione).
@@ -385,6 +850,31 @@ Il lavoro sportivo prestato nei settori professionistici e' regolato dalle norme
 
 Nei settori professionistici, il lavoro sportivo prestato dagli atleti come attivita' principale, ovvero prevalente, e continuativa, si presume oggetto di contratto di lavoro subordinato.
 
+3.
+                        
+                            
+                                Esso costituisce, tuttavia, oggetto di contratto di lavoro autonomo quando ricorra almeno uno dei seguenti requisiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'attivita' sia svolta nell'ambito di una singola manifestazione sportiva o di piu' manifestazioni tra loro collegate in un breve periodo di tempo; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    lo sportivo non sia contrattualmente vincolato per cio' che riguarda la frequenza a sedute di preparazione o allenamento; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la prestazione che e' oggetto del contratto, pur avendo carattere continuativo, non superi otto ore settimanali oppure cinque giorni ogni mese ovvero trenta giorni ogni anno.
+
 Il rapporto di lavoro si costituisce mediante assunzione diretta e con la stipulazione di un contratto in forma scritta, a pena di nullita', tra lo sportivo e la societa' destinataria delle prestazioni sportive, secondo il contratto tipo predisposto ogni tre anni dalla Federazione Sportiva Nazionale ((o dalla Disciplina Sportiva Associata, anche paralimpici,)) e dalle organizzazioni sindacali comparativamente piu' rappresentative, sul piano nazionale, delle categorie di lavoratori sportivi interessate, conformemente all'accordo collettivo stipulato.
 
 La societa' ha l'obbligo di depositare, entro 7 giorni dalla stipulazione, il contratto presso la Federazione Sportiva Nazionale o la Disciplina Sportiva Associata ((, anche paralimpici,)) per l'approvazione. Unitamente al predetto contratto devono essere depositati tutti gli ulteriori contratti stipulati tra il lavoratore sportivo e la societa' sportiva, ivi compresi quelli che abbiano ad oggetto diritti di immagine o promo-pubblicitari relativi o comunque connessi al lavoratore sportivo. L'approvazione secondo le regole stabilite dalla Federazione sportiva nazionale o dalla Disciplina sportiva associata e' condizione di efficacia del contratto.
@@ -396,6 +886,24 @@ Nel contratto individuale deve essere prevista la clausola contenente l'obbligo 
 ## Art. 28. — (Rapporto di lavoro sportivo nell'area del dilettantismo)
 
 Il lavoro sportivo prestato nell'area del dilettantismo e' regolato dalle disposizioni contenute nel presente Titolo, salvo quanto diversamente disposto dal presente articolo.
+
+2.
+                        
+                            
+                                Nell'area del dilettantismo, il lavoro sportivo si presume oggetto di contratto di lavoro autonomo, nella forma della collaborazione coordinata e continuativa, quando ricorrono i seguenti requisiti nei confronti del medesimo committente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la durata delle prestazioni oggetto del contratto, pur avendo carattere continuativo, non supera le ventiquattro ore settimanali, escluso il tempo dedicato alla partecipazione a manifestazioni sportive; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le prestazioni oggetto del contratto risultano coordinate sotto il profilo tecnico-sportivo, in osservanza dei regolamenti delle Federazioni sportive nazionali, delle Discipline sportive associate e degli Enti di promozione sportiva, anche paralimpici.
 
 L'associazione o societa' nonche' la Federazione Sportiva Nazionale, la Disciplina Sportiva associata, l'Ente di Promozione Sportiva, l'associazione benemerita, anche paralimpici, il CONI, il CIP e la societa' Sport e salute S.p.a. destinataria delle prestazioni sportive e' tenuta a comunicare al Registro delle attivita' sportive dilettantistiche i dati necessari all'individuazione del rapporto di lavoro sportivo, di cui all'articolo 6 del decreto legislativo 28 febbraio 2021, n. 39. La comunicazione al Registro delle attivita' sportive dilettantistiche equivale a tutti gli effetti, per i rapporti di lavoro sportivo di cui al presente articolo, alle comunicazioni al centro per l'impiego di cui all'articolo 9-bis, commi 2 e 2-bis, del decreto-legge 1° ottobre 1996, n. 510, convertito, con modificazioni, dalla legge 28 novembre 1996, n. 608 e deve essere effettuata secondo i medesimi contenuti informativi e resa disponibile a Inps e Inail in tempo reale. La comunicazione medesima e' messa a disposizione del Ministro del lavoro e delle politiche sociali e degli enti cooperanti secondo la disciplina del sistema pubblico di connettivita'. Il mancato adempimento delle comunicazioni comporta le medesime sanzioni previste per le omesse comunicazioni al centro per l'impiego.
 All'irrogazione delle sanzioni provvedono gli organi di vigilanza in materia di lavoro, fisco e previdenza, che trasmettono il rapporto all'ufficio territoriale dell'ispettorato del lavoro. PERIODO SOPPRESSO DAL D.LGS. 29 AGOSTO 2023, N. 120.
@@ -453,6 +961,24 @@ Per le societa' sportive professionistiche che assumono lavoratori sportivi con 
 ## Art. 31. — Abolizione del vincolo sportivo e premio di formazione tecnica
 
 Le limitazioni alla liberta' contrattuale dell'atleta, individuate come vincolo sportivo, sono eliminate entro il 1° luglio 2023. Il predetto termine e' prorogato al ((1° luglio 2025)) per i tesseramenti che costituiscono rinnovi, senza soluzione di continuita', di precedenti tesseramenti. PERIODO SOPPRESSO DAL D.LGS. 29 AGOSTO 2023, N. 120. Decorsi i termini di cui al primo e al secondo periodo del presente comma, il vincolo sportivo si intende abolito. (10)
+
+2.
+                        
+                            
+                                Le Federazioni Sportive Nazionali e le Discipline sportive associate, anche paralimpiche, prevedono con proprio regolamento che, in caso di primo contratto di lavoro sportivo: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le societa' sportive professionistiche riconoscono un premio di formazione tecnica proporzionalmente suddiviso, secondo modalita' e parametri che tengono conto della durata e del contenuto formativo del rapporto, tra le societa' sportive dilettantistiche presso le quali l'atleta ha svolto attivita' dilettantistica ed in cui ha svolto il proprio percorso di formazione, ovvero tra le societa' sportive professionistiche presso le quali l'atleta ha svolto la propria attivita' ed in cui ha svolto il proprio percorso di formazione; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le societa' sportive dilettantistiche riconoscono un premio di formazione tecnica proporzionalmente suddiviso, secondo modalita' e parametri che tengono adeguatamente conto della durata e del contenuto formativo del rapporto, tra le societa' sportive dilettantistiche presso le quali l'atleta ha svolto la propria attivita' ed in cui ha svolto il proprio percorso di formazione.
 
 La misura del premio di cui al presente articolo e' individuata dalle singole federazioni secondo modalita' e parametri che tengano adeguatamente conto dell'eta' degli atleti, nonche' della durata e del contenuto patrimoniale del rapporto tra questi ultimi e la societa' o associazione sportiva con la quale concludono il primo contratto di lavoro sportivo. Le Federazioni sportive nazionali e le Discipline sportive associate approvano i regolamenti di cui al comma 2 entro il 31 dicembre 2023. Nel caso di mancata adozione entro il predetto termine, vi provvede l'Autorita' politica delegata in materia di sport, con proprio decreto. In ogni caso, il vincolo sportivo previsto dalla Federazione sportiva nazionale o dalla Disciplina sportiva associata che, decorso il predetto termine, non abbia provveduto all'adozione del regolamento, si intende abolito il ((1° luglio 2025)) per i tesseramenti che costituiscono rinnovi, senza soluzione di continuita', di precedenti tesseramenti, fermo restando quanto previsto al comma 1 in ordine all'abolizione del vincolo sportivo entro il 1° luglio 2023 per gli altri tesseramenti.
 
@@ -607,6 +1133,32 @@ Nello stato di previsione del Ministero dell'economia e delle finanze, e' istitu
 
 Entro sessanta giorni dalla data di entrata in vigore del presente decreto, le Federazioni Sportive Nazionali che intendono accedere al Fondo di cui al comma 1 devono deliberare, ai sensi dell'articolo 38, il passaggio al professionismo sportivo di campionati femminili che deve avvenire entro il 31 dicembre 2022.
 
+3.
+                        
+                            
+                                Le Federazioni Sportive Nazionali che hanno deliberato il passaggio al professionismo sportivo di campionati femminili ai sensi del comma 2 possono presentare la domanda di accesso al Fondo di cui al comma 1 qualora l'utilizzo dei finanziamenti richiesti sia finalizzato: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2020, per far fronte alle ricadute dell'emergenza sanitaria da Covid-19: 
+ 1) al sostegno al reddito e alla tutela medico-sanitaria delle atlete; 
+ 2) allo svolgimento di attivita' di sanificazione delle strutture sportive e di ristrutturazione degli impianti sportivi; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per gli anni 2021 e 2022: 
+ 1) alla riorganizzazione e al miglioramento delle infrastrutture sportive; 
+ 2) al reclutamento e alla formazione delle atlete; 
+ 3) alla qualifica e alla formazione dei tecnici; 
+ 4) alla promozione dello sport femminile; 
+ 5) alla sostenibilita' economica della transizione al professionismo sportivo; 
+ 6) all'allargamento delle tutele assicurative e assistenziali delle atlete.
+
 Per le domande di cui al comma 3, lettera a), almeno la meta' dei finanziamenti richiesti deve rispondere alle finalita' di cui al numero 2) della medesima lettera a). Per le domande di cui al comma 3, lettera b), almeno la meta' dei finanziamenti richiesti deve rispondere alle finalita' di cui ai numeri 2) e 6) della medesima lettera b).
 
 Con decreto del Presidente del Consiglio dei ministri o dell'Autorita' politica da esso delegata in materia di sport, da adottarsi ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro trenta giorni dalla data di entrata in vigore del presente decreto, sono definite le modalita' di accesso al Fondo di cui al comma 1, nel limite massimo delle risorse di cui al medesimo comma, che costituiscono tetto di spesa.
@@ -621,6 +1173,23 @@ Promozione della parita' di genere
 
 Le Regioni, le ((Province autonome di Trento e di Bolzano, il CONI e il CIP)), negli ambiti di rispettiva competenza, promuovono la parita' di genere a tutti i livelli e in ogni struttura, favorendo l'inserimento delle donne nei ruoli di gestione e di responsabilita' delle organizzazioni sportive e anche al proprio interno.
 
+2.
+                        
+                            
+                                
+                                    ((Il CONI e il CIP, negli ambiti di rispettiva competenza, stabiliscono)) con regolamento, da emanarsi entro sei mesi dalla data di entrata in vigore del presente decreto, i principi informatori degli statuti delle Federazioni Sportive Nazionali, delle Discipline Sportive Associate e delle Associazioni Benemerite ((, anche paralimpici)), in conformita' ai principi di cui al decreto legislativo 11 aprile 2006, n. 198, mediante l'indicazione: 
+                            
+                            
+                                a)
+                                
+                                    delle varie aree e ruoli in cui promuovere l'incremento della partecipazione femminile;
+                                
+                            
+                            
+                                b)
+                                
+                                    delle misure volte a favorire la rappresentanza delle donne nello sport. Decorso inutilmente il termine di sei mesi, il regolamento e' adottato con decreto del Presidente del Consiglio dei ministri, su proposta dell'Autorita' politica da esso delegata in materia di sport.
+
 ((Il CONI e il CIP, negli ambiti di rispettiva competenza, sono tenuti)) a vigilare sull'osservanza dei principi di cui al comma 1 da parte delle Federazioni Sportive Nazionali, delle Discipline Sportive Associate e delle Associazioni Benemerite.
 
 ## - Capo III Ulteriori disposizioni in materia di laureati in scienze motorie
@@ -630,6 +1199,83 @@ Le Regioni, le ((Province autonome di Trento e di Bolzano, il CONI e il CIP)), n
 Riconoscimento del chinesiologo di base, del chinesiologo delle attivita' motorie preventive ed adattate, del chinesiologo sportivo e del manager dello sport
 
 Al fine del corretto svolgimento delle attivita' fisico motorie e della tutela del benessere nonche' della promozione di stili di vita corretti, sono istituite le figure professionali del chinesiologo di base, del chinesiologo delle attivita' motorie preventive ed adattate, del chinesiologo sportivo e del manager dello sport.
+
+2.
+                        
+                            
+                                Per l'esercizio dell'attivita' professionale di chinesiologo di base e' necessario il possesso della laurea triennale in Scienze delle attivita' motorie e sportive (classe L-22). L'esercizio dell'attivita' professionale di chinesiologo di base ha ad oggetto:
+
+                            
+                            
+                                a)
+                                
+                                    la conduzione, gestione e valutazione di attivita' motorie individuali e di gruppo a carattere compensativo, educativo, ludico-ricreativo e sportivo finalizzate al mantenimento ed al recupero delle migliori condizioni di benessere fisico nelle varie fasce di eta' attraverso la promozione di stili di vita attivi;
+
+3.
+                        
+                            
+                                Per l'esercizio dell'attivita' professionale di chinesiologo delle attivita' motorie preventive ed adattate e' necessario il possesso della laurea magistrale in Scienze e tecniche delle attivita' motorie preventive e adattate (classe LM-67). L'esercizio dell'attivita' professionale di chinesiologo delle attivita' motorie preventive ed adattate ha per oggetto: 
+                            
+                            
+                                a)
+                                
+                                    la progettazione e l'attuazione di programmi di attivita' motoria finalizzati al raggiungimento e al mantenimento delle migliori condizioni di benessere psicofisico per soggetti in varie fasce d'eta' e in diverse condizioni fisiche;
+                                
+                            
+                            
+                                b)
+                                
+                                    l'organizzazione e la pianificazione di particolari attivita' e di stili di vita finalizzati alla prevenzione delle malattie e al miglioramento della qualita' della vita mediante l'esercizio fisico;
+                                
+                            
+                            
+                                c)
+                                
+                                    la prevenzione dei vizi posturali e il recupero funzionale post-riabilitazione finalizzato all'ottimizzazione dell'efficienza fisica;
+                                
+                            
+                            
+                                d)
+                                
+                                    la programmazione, il coordinamento e la valutazione di attivita' motorie adattate in persone diversamente abili o in individui in condizioni di salute clinicamente controllate e stabilizzate.
+
+4.
+                        
+                            
+                                Per l'esercizio dell'attivita' professionale di chinesiologo sportivo e' necessario il possesso della laurea magistrale in Scienze e Tecniche dello sport (classe LM-68). L'esercizio dell'attivita' professionale di chinesiologo sportivo ha ad oggetto: 
+                            
+                            
+                                a)
+                                
+                                    la progettazione, il coordinamento e la direzione tecnica delle attivita' di preparazione atletica in ambito agonistico, fino ai livelli di massima competizione, presso associazioni e societa' sportive, Enti di Promozione Sportiva, istituzioni e centri specializzati;
+                                
+                            
+                            
+                                b)
+                                
+                                    la preparazione fisica e tecnica personalizzata finalizzata all'agonismo individuale e di squadra.
+
+5.
+                        
+                            
+                                Per l'esercizio dell'attivita' professionale di manager dello sport e' necessario il possesso della laurea magistrale in organizzazione e gestione dei servizi per lo sport e le attivita' motorie (classe LM-47). L'esercizio dell'attivita' professionale di manager dello sport ha per oggetto: 
+                            
+                            
+                                a)
+                                
+                                    la programmazione e la gestione di impianti sportivi;
+                                
+                            
+                            
+                                b)
+                                
+                                    la conduzione e la gestione delle strutture pubbliche e private dove si svolgono attivita' motorie, anche ludico-ricreative;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'organizzazione, in qualita' di esperto e consulente, di eventi e manifestazioni sportive, anche ludico-ricreative.
 
 Con Accordo stipulato in sede di Conferenza permanente tra Stato, Regioni e province autonome di Trento e Bolzano dovranno essere stabiliti i criteri per il riconoscimento dei titoli equipollenti ai fini dell'esercizio della professione, rispettivamente, di chinesiologo di base di cui al comma 2, chinesiologo delle attivita' motorie preventive ed adattate di cui al comma 3, di chinesiologo sportivo di cui al comma 4, e di manager dello sport di cui al comma 5.
 
@@ -650,6 +1296,24 @@ I corsi ((di attivita' motoria e sportiva)) offerti all'interno di palestre, cen
 Il chinesiologo deve possedere il diploma rilasciato dall'Istituto superiore di educazione fisica (ISEF) di cui alla legge 7 febbraio 1958, n. 88, recante Provvedimenti per l'educazione fisica, o la laurea in scienze motorie di cui al decreto legislativo 8 maggio 1998, n. 178, recante Trasformazione degli Istituti superiori di educazione fisica e istituzione di facolta' e di corsi di laurea e di diploma in scienze motorie, a norma dell'articolo 17, comma 115, della legge 15 maggio 1997, n. 127, oppure titoli di studio equipollenti conseguiti all'estero e riconosciuti dallo Stato italiano.
 
 L'istruttore di specifica disciplina deve essere in possesso dei requisiti ((abilitanti)) previsti per le singole attivita' motorie e sportive dalle relative Federazioni Sportive Nazionali, dalle Discipline Sportive Associate o dagli Enti di Promozione Sportiva ((anche paralimpici)) riconosciuti dal CONI e dal CIP.
+
+4.
+                        
+                            
+                                Sono esentati dall'obbligo di cui al comma 1: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le attivita' sportive ((...)) disciplinate dalle Federazioni Sportive Nazionali, dalle Discipline Sportive Associate o dagli Enti di Promozione Sportiva ((anche paralimpici)) riconosciuti dal CONI e dal CIP; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le attivita' motorie a carattere ludico ricreativo non riferibili a discipline sportive riconosciute dal CONI e dal CIP, ((...)), nonche' le attivita' relative a discipline riferibili ad espressioni filosofiche dell'individuo che comportino attivita' motorie.
 
 In caso di violazione delle disposizioni di cui al comma 1, ai trasgressori viene applicata, da parte del comune territorialmente competente, una sanzione pecuniaria da un minimo di 1.000,00 euro a un massimo di 10.000,00 euro.
 
@@ -712,6 +1376,63 @@ Nell'ambito della Difesa e' istituito il «Gruppo Sportivo Paralimpico della Dif
 
 Il Gruppo Sportivo Paralimpico Difesa, nel limite del 5 per cento dell'organico globalmente esistente nei Gruppi Sportivi Militari del Ministero della difesa, stipula con gli atleti con disabilita' fisiche e sensoriali, risultati idonei e in posizione utile all'esito delle procedure selettive di cui al comma 4, contratti di lavoro sportivo secondo le modalita' previste dal presente decreto. All'attuazione delle disposizioni di cui al presente comma si provvede mediante riduzione di un pari numero di posizioni organiche degli atleti dei Gruppi sportivi militari e della relativa spesa, nei limiti della durata del rapporto di lavoro sportivo instaurato. Per l'Arma dei carabinieri si provvede a valere sulle facolta' assunzionali disponibili a legislazione vigente, nei limiti della durata del rapporto di lavoro sportivo instaurato.
 
+3.
+                        
+                            
+                                Con decreto del Ministro della difesa, su proposta del Capo di Stato Maggiore della Difesa, sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le discipline sportive paralimpiche di interesse istituzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero di atleti con disabilita' fisiche e sensoriali che collaborano con il Gruppo Sportivo Paralimpico della Difesa per ciascuna disciplina di cui alla lettera a); 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    le modalita' organizzative per la stipula dei contratti di lavoro sportivo e la gestione dei relativi rapporti con il GSPD;
+
+4.
+                        
+                            
+                                Il rapporto di lavoro sportivo tra gli atleti con disabilita' fisiche e sensoriali e il Gruppo Sportivo Paralimpico Difesa e' instaurato previa selezione mediante procedura pubblica per soli titoli, cui sono ammessi a partecipare gli atleti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tesserati con una Federazione Sportiva riconosciuta dal CIP e con il piu' alto livello tecnico-agonistico dallo stesso riconosciuto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in possesso dei requisiti, diversi da quelli previsti per gli atleti normodotati, stabiliti con decreto del Ministro della difesa; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in possesso di valido certificato di idoneita' all'attivita' agonistica rilasciato ai sensi della vigente normativa di settore per la specialita' per la quale partecipano alla selezione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che abbiano conseguito nella propria disciplina risultati agonistici di livello almeno nazionale, regolarmente certificati dal medesimo Comitato.
+
 All'atleta con disabilita' fisiche e sensoriali che instaura un rapporto di lavoro sportivo con il Gruppo Sportivo Paralimpico Difesa competono mensilmente, per tutta la durata della collaborazione stessa, compensi di entita' pari al trattamento economico fisso e continuativo spettante agli atleti normodotati, con esclusione di qualsiasi emolumento di natura accessoria ed eventuale, secondo la progressione economica prevista per i medesimi.
 
 Alla procedura selettiva di cui al comma 4 si applicano, in quanto compatibili, le disposizioni del decreto legislativo 15 marzo 2010, n. 66 e del decreto del Presidente della Repubblica 15 marzo 2010, n. 90.
@@ -725,6 +1446,56 @@ Tesseramento degli atleti con disabilita' fisiche e sensoriali con la «Sezione 
 Nell'ambito dei gruppi sportivi «Fiamme Gialle» e' istituita la «Sezione Paralimpica Fiamme Gialle», la quale intrattiene rapporti di lavoro sportivo con atleti con disabilita' fisiche e sensoriali tesserati con una Federazione Sportiva riconosciuta dal CIP e con il piu' alto livello tecnico-agonistico dallo stesso riconosciuto, curandone altresi' la direzione operativa e il coordinamento strategico.
 
 La «Sezione Paralimpica Fiamme Gialle» stipula con gli atleti con disabilita' fisiche e sensoriali, risultati idonei e in posizione utile all'esito delle procedure selettive di cui al comma 4, contratti di lavoro sportivo secondo le modalita' previste dal presente decreto, nel limite del 5 per cento dell'organico dei gruppi sportivi «Fiamme Gialle». All'attuazione delle disposizioni di cui al presente comma si provvede a valere sulle facolta' assunzionali disponibili a legislazione vigente, nei limiti della durata del rapporto di lavoro sportivo instaurato.
+
+3.
+                        
+                            
+                                Con determinazione del Comandante Generale della Guardia di finanza sono stabiliti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le discipline sportive paralimpiche di interesse istituzionale; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il numero di atleti con disabilita' fisiche e sensoriali che collaborano con i gruppi sportivi «Fiamme Gialle» per ciascuna disciplina di cui alla lettera a).
+
+4.
+                        
+                            
+                                Il rapporto di lavoro sportivo tra gli atleti con disabilita' fisiche e sensoriali e i gruppi sportivi «Fiamme Gialle» e' instaurato previa selezione mediante procedura pubblica per soli titoli, cui sono ammessi a partecipare gli atleti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    tesserati con una Federazione Sportiva riconosciuta dal CIP e con il piu' alto livello tecnico-agonistico dallo stesso riconosciuto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    in possesso dei requisiti di cui all'articolo 6, comma 1, del decreto legislativo 12 maggio 1995, n. 199, a eccezione di quello di cui alla lettera d) del medesimo comma e fatto salvo quanto previsto dal comma 1-bis dello stesso articolo 6 per gli atleti normodotati; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    in possesso di valido certificato di idoneita' all'attivita' agonistica rilasciato ai sensi della vigente normativa di settore per la specialita' per la quale partecipano alla selezione; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    che abbiano conseguito nella propria disciplina risultati agonistici di livello almeno nazionale, regolarmente certificati dal medesimo Comitato.
 
 Alla procedura selettiva di cui al comma 4 si applicano, in quanto compatibili, le disposizioni dell'articolo 3 del decreto del Presidente della Repubblica 18 dicembre 2002, n. 316, a eccezione di quanto ivi previsto relativamente all'accertamento dell'idoneita' psico-fisica e attitudinale, e all'articolo 28 della legge 4 novembre 2010, n. 183.
 
@@ -750,6 +1521,38 @@ All'articolo 5, comma 4, del decreto del Presidente della Repubblica 9 maggio 19
 
 ((
 
+1.
+                        
+                            
+                                Al fine di favorire la migliore conoscenza e attuazione delle disposizioni in materia di lavoro sportivo dettate dal presente decreto e di monitorare l'entrata in vigore della riforma, presso la Presidenza del Consiglio dei ministri, Dipartimento per lo sport, e' istituito, entro il 31 dicembre 2023 l'Osservatorio nazionale sul lavoro sportivo, al quale sono attribuiti i seguenti compiti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    promuovere iniziative coordinate anche con i soggetti dell'ordinamento sportivo per la migliore conoscenza e applicazione delle norme contenute nel presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    effettuare un costante monitoraggio della corretta applicazione della normativa sopra citata, acquisendo ogni utile informazione dai soggetti dell'ordinamento sportivo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    esaminare le problematiche connesse all'entrata in vigore della normativa sopra richiamata e farsi promotore di eventuali iniziative correttive o migliorative; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    pubblicare un rapporto annuale sulla situazione del lavoro sportivo in ambito nazionale.
+
 Con decreto dell'Autorita' delegata per lo sport, adottato di concerto con il Ministro del lavoro e delle politiche sociali, sono stabilite le linee operative e le attivita' strumentali all'espletamento dei compiti di cui al comma 1, nonche' l'organizzazione, le modalita' di funzionamento e la composizione dell'Osservatorio.
 
 Alle riunioni dell'Osservatorio possono essere invitati, in relazione alla trattazione di tematiche di specifico interesse, rappresentanti di soggetti pubblici e privati a vario titolo interessati alla problematica del lavoro sportivo e alla sua applicazione.
@@ -764,9 +1567,106 @@ Le disposizioni del presente decreto si applicano a decorrere dal 1° luglio 202
 
 Per i lavoratori sportivi dell'area del dilettantismo che nel periodo d'imposta 2023 percepiscono compensi di cui all'articolo 67, comma 1, lettera m), del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, nonche' compensi assoggettati ad imposta ai sensi dell'articolo 36, comma 6, del presente decreto, l'ammontare escluso dalla base imponibile ai fini fiscali per il medesimo periodo d'imposta non puo' superare l'importo complessivo di euro 15.000.
 
+2.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 17, comma 1, lettera f), le parole «indennita' percepite da sportivi professionisti al termine dell'attivita' sportiva ai sensi del settimo comma dell'articolo 4 della legge 23 marzo 1981, n. 91» sono sostituite da «indennita' percepite dai lavoratori subordinati sportivi al termine dell'attivita' sportiva ai sensi dell'articolo 26, comma 4, del decreto legislativo 28 febbraio 2021, n. 36»; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la lettera a) del comma 2 dell'articolo 53 e' sostituita dalla seguente: "a) i redditi derivanti dalle prestazioni sportive, oggetto di contratto diverso da quello di lavoro subordinato o da quello di collaborazione coordinata e continuativa, ai sensi del decreto legislativo 28 febbraio 2021, n. 36;"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 3 dell'articolo 53 e' soppresso.
+
 All'articolo 2, comma 2, lettera d), del decreto legislativo 15 giugno 2015, n. 81, le parole "dall'articolo 90 della legge n. 289/2002" sono sostituite dalle seguenti: "dal decreto legislativo 28 febbraio 2021, n. 36."
 
 ## Art. 52. — Abrogazioni
+
+1.
+                        
+                            
+                                
+                                    ((A decorrere)) dal 1° luglio 2023 sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la legge 14 giugno 1973, n. 366; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 23 marzo 1981, n. 91; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 6 del decreto legislativo 23 febbraio 2000, n. 38; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 5 OTTOBRE 2022, N. 163; 
+
+                                
+                            
+                            
+                                d-bis)
+                                
+                                    l'articolo 3 della legge 16 dicembre 1991, n. 398.
+
+2.
+                        
+                            
+                                A decorrere dall'entrata in vigore del presente decreto sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 90, commi 4, 5, 8, 17, 18, 18-bis, 19, 23, della legge 27 dicembre 2002, n. 289; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    la legge 20 gennaio 2016, n. 12; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    l'articolo 1, comma 369, ultimo periodo, della legge 27 dicembre 2017, n. 205; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 12-bis del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126.
 
 All'articolo 67, primo comma, lettera m), del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, le parole da «, e quelli erogati» a «associazioni sportive dilettantistiche» sono soppresse. ((8))
 

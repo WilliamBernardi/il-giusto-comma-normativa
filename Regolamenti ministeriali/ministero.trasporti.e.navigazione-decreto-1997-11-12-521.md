@@ -8,8 +8,8 @@ codice_redazionale: 098G0134
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:40Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -33,6 +33,24 @@ Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli
 
 Il regolamento disciplina la gestione degli aeroporti e dei sistemi aeroportuali aperti al traffico civile attualmente gestiti, anche in parte, dallo Stato o da altri soggetti in regime di precariato.
 
+2.
+                    
+                        
+                            Il regolamento ha la finalita' di definire:
+ 
+                        
+                        
+                            a)
+                            
+                                le modalita' di costituzione delle societa' di capitale per la gestione dei servizi e per la realizzazione delle infrastrutture aeroportuali, determinando in particolare, la forma giuridica, i criteri per la scelta dei soci pubblici e privati, le modalita' di collocazione dei titoli sul mercato, la riserva di nomina di amministratori e sindaci da parte dell'ente pubblico interessato, l'entita' del capitale sociale, i rapporti tra soci pubblici e privati, le forme adeguate di controllo dell'efficienza e dell'economicita' dei servizi;
+
+                            
+                        
+                        
+                            b)
+                            
+                                i criteri per l'affidamento delle concessioni delle gestioni totali aeroportuali alle societa' di capitale costituite secondo le modalita' di cui alla precedente lettera a) e i rapporti intercorrenti tra la pubblica amministrazione e i soggetti affidatari.
+
 ## Art. 2. — Natura e soci delle societa' di gestione aeroportuale
 
 Le societa' di gestione aeroportuale sono costituite esclusivamente sotto forma di societa' di capitale, secondo la disciplina del codice civile, ed in qualita' di soci possono partecipare, senza il vincolo della proprieta' maggioritaria, anche le regioni, le province, i comuni e gli enti locali nonche' le camere di commercio, industria ed artigianato interessati.
@@ -45,9 +63,108 @@ Lo schema della procedura di selezione e' trasmesso, per l'approvazione, al Mini
 
 ## Art. 3. — Capitale minimo delle societa' di gestione aeroportuale
 
+1.
+                    
+                        
+                            Il capitale sociale delle societa' di gestione aeroportuale e' determinato in base alle unita' di traffico globale calcolate su base annua, espresse in Workloadunits (WLU), dove una unita' equivale ad un passeggero o ad un quintale di merce o di posta e non puo' essere inferiore a quanto determinato nelle seguenti classi:
+ 
+                        
+                        
+                            a)
+                            
+                                fino a lire 200 milioni per aeroporti con traffico sino a 100.000 WLU/anno;
+
+                            
+                        
+                        
+                            b)
+                            
+                                lire 1.000 milioni per aeroporti con traffico sino a 300.000 WLU/anno;
+
+                            
+                        
+                        
+                            c)
+                            
+                                lire 6.000 milioni per aeroporti con traffico sino a 1.000.000 WLU/anno;
+
+                            
+                        
+                        
+                            d)
+                            
+                                lire 15.000 milioni per aeroporti con traffico sino a 2.000.000 WLU/anno;
+
+                            
+                        
+                        
+                            e)
+                            
+                                lire 25.000 milioni per aeroporti con traffico sino a 5.000.000 WLU/anno;
+
+                            
+                        
+                        
+                            f)
+                            
+                                lire 50.000 milioni per aeroporti con traffico superiore al volume annuo di cui alla lettera e).
+
 L'obbligo di adeguamento del capitale delle societa' di gestione, in relazione alle varie classi indicate nel comma precedente, si determina sulla base della media del volume di traffico accertato nell'ultimo biennio.
 
 ## Art. 4. — Atto costitutivo
+
+1.
+                    
+                        
+                            L'atto costitutivo della societa' di gestione aeroportuale indica specificatamente:
+ 
+                        
+                        
+                            a)
+                            
+                                che l'oggetto principale dell'attivita' societaria consiste nello sviluppo, progettazione, realizzazione, adeguamento, gestione, manutenzione ed uso degli impianti e delle infrastrutture per l'esercizio dell'attivita' aeroportuale, nonche' nelle attivita' connesse o collegate purche' non a carattere prevalente;
+
+                            
+                        
+                        
+                            b)
+                            
+                                che i risultati dell'esercizio delle attivita' connesse o collegate di cui alla lettera a) sono separatamente evidenziati ed illustrati, in maniera chiara e distinta, nei bilanci ed in tutti i documenti contabili;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la misura minima della partecipazione dei soci pubblici al capitale sociale non inferiore al quinto, al fine di assicurarne il diritto di chiedere la convocazione dell'assemblea;
+
+                            
+                        
+                        
+                            d)
+                            
+                                che l'ingresso di altri enti locali nella societa' avviene mediante un corrispondente aumento del capitale sociale;
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'esclusione, fino al 31 dicembre del terzo anno dalla data di costituzione della societa', di atti di cessione di quote o di azioni, costituzione di diritti reali sulle stesse ed ogni altro atto idoneo a determinare la perdita della posizione di maggioranza del socio privato, qualora esistente al momento della costituzione della societa' mista;
+
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' e le condizioni per la cessione di quote o di azioni, costituzione di diritti reali sulle stesse e ogni altro atto idoneo a determinare la perdita della posizione di maggioranza del soggetto che la detiene;
+
+                            
+                        
+                        
+                            g)
+                            
+                                la quota delle azioni da riservare, in caso di collocazione sul mercato, all'azionariato diffuso.
 
 ## Art. 5. — Rapporti societari tra enti pubblici e privati
 
@@ -65,6 +182,24 @@ L'affidamento in concessione della gestione totale aeroportuale alle societa' di
 
 Con il decreto di approvazione della domanda di affidamento di cui al precedente comma 1, viene altresi' determinato il periodo di durata della concessione che puo' superare i venti anni, nel limite massimo di quaranta, in relazione alle valutazioni formulate con riferimento ai contenuti del programma di intervento di cui al comma 1.
 
+3.
+                    
+                        
+                            L'affidamento in concessione delle gestioni totali aeroportuali alle societa' di capitale richiedenti e' subordinato alla sottoscrizione:
+ 
+                        
+                        
+                            a)
+                            
+                                della convenzione da predisporsi secondo le indicazioni contenute nel disciplinare tipo di cui al successivo articolo 17, comma 1;
+
+                            
+                        
+                        
+                            b)
+                            
+                                del contratto di programma da predisporsi secondo i contenuti di cui alla delibera CIPE 24 aprile 1996, recante linee guida per la regolazione dei servizi di pubblica utilita'.
+
 ## Art. 8. — Procedimento di affidamento concorrenziale
 
 Le gestioni non richieste nei termini con le modalita' indicate e quelle richieste e non affidate, nonche' quelle oggetto di revoca o decadenza sono affidate dal Ministero dei trasporti e della navigazione a societa' di capitale in possesso dei requisiti prescritti, con gare ad evidenza pubblica mediante procedimento di confronto concorrenziale in base alla normativa contenuta nel decreto legislativo 17 marzo 1995, n. 158.
@@ -77,7 +212,71 @@ La societa' di gestione aeroportuale puo' esercire i servizi e le attivita' di a
 
 ## Art. 10. — Criteri di gestione
 
+1.
+                    
+                        
+                            Salvo l'adempimento degli obblighi derivanti dalla normativa vigente e dalla convenzione, la societa' di gestione aeroportuale:
+ 
+                        
+                        
+                            a)
+                            
+                                gestisce l'aeroporto quale complesso di beni, attivita' e servizi organizzati destinati alle attivita' aeronautiche civili, adottando ogni opportuna iniziativa in favore delle comunita' territoriali vicine, in ragione dello sviluppo intermodale dei trasporti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                organizza e gestisce l'impresa aeroportuale garantendo l'ottimizzazione delle risorse disponibili per la produzione di attivita' e di servizi di adeguato livello qualitativo, nel rispetto dei principi di sicurezza, di efficienza, di efficacia e di economicita';
+
+                            
+                        
+                        
+                            c)
+                            
+                                eroga i servizi di competenza con continuita' e regolarita', nel rispetto del principio di imparzialita' e secondo le regole di non discriminazione dell'utenza;
+
+                            
+                        
+                        
+                            d)
+                            
+                                adotta, entro nove mesi dall'entrata in vigore del regolamento, sulla base dei principi definiti nel disciplinare tipo, la Carta dei servizi da sottoporre all'approvazione dell'Autorita' vigilante di cui all'articolo 11.
+
 ## Art. 11. — Vigilanza
+
+1.
+                    
+                        
+                            Compete al Ministro dei trasporti e della navigazione:
+ 
+                        
+                        
+                            a)
+                            
+                                vigilare sull'attivita' delle societa' affidatarie delle gestioni aeroportuali verificando che essa si svolga nel rispetto della disciplina stabilita dal regolamento, dalla convenzione e dal contratto di programma, con particolare attenzione al rispetto dei principi di sicurezza, efficienza ed efficacia, economicita', alla imparziale erogazione dei servizi, alla continuita', alla regolarita', alla integrazione modale;
+
+                            
+                        
+                        
+                            b)
+                            
+                                approvare gli aggiornamenti e le variazioni al programma di intervento e al piano degli investimenti formulate in relazione all'andamento delle attivita' aeroportuali;
+
+                            
+                        
+                        
+                            c)
+                            
+                                vigilare sulla realizzazione del programma di intervento e del piano degli investimenti, sulla scorta di una relazione annuale trasmessa dalle societa' affidatarie;
+
+                            
+                        
+                        
+                            d)
+                            
+                                verificare l'attuazione della disciplina stabilita nella Carta dei servizi.
 
 Per consentire il corretto adempimento dei compiti di vigilanza, per il rispetto dei principi di efficienza, efficacia ed economicita' di cui al comma 1, lettera a), il Ministro dei trasporti e della navigazione ed il Ministro del tesoro, nominano, rispettivamente, un sindaco in ciascuna delle societa' di gestione aeroportuale.
 

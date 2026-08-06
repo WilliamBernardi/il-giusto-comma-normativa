@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2005-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -27,6 +27,44 @@ Sulla proposta del Ministro delle finanze di concerto con il Ministro del tesoro
 ## - Capo I Modifiche e integrazioni alle disposizioni generali
 
 ## Art. 1. — Modifiche al regime IVA in tema di cessioni di beni di esercizio di impresa e di effettuazione delle operazioni
+
+1.
+                        
+                            
+                                All'articolo 2, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    la lettera b) e' sostituita dalla seguente: "b) le cessioni e i conferimenti in societa' o altri enti, compresi i consorzi e le associazioni o altre organizzazioni, che hanno per oggetto aziende o rami di azienda"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    le lettere e) ed h) sono soppresse.
+
+2.
+                        
+                            
+                                All'articolo 4 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il primo comma e' sostituito dal seguente: "Per esercizio di imprese si intende l'esercizio per professione abituale, ancorche' non esclusiva, delle attivita' commerciali o agricole di cui agli articoli 2135 e 2195 del codice civile, anche se non organizzate in forma di impresa, nonche' l'esercizio di attivita', organizzate in forma d'impresa, dirette alla prestazione di servizi che non rientrano nell'articolo 2195 del codice civile."; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nel quinto comma e' aggiunto, in fine, il seguente periodo: "Non sono considerate, inoltre, attivita' commerciali, anche in deroga al secondo comma: 
+ a) il possesso e la gestione di unita' immobiliari classificate o classificabili nella categoria catastale A e le loro pertinenze, ad esclusione delle unita' classificate o classificabili nella categoria catastale A10, di unita' da diporto, di aeromobili da turismo o di qualsiasi altro mezzo di trasporto ad uso privato, di complessi sportivi o ricreativi, compresi quelli destinati all'ormeggio, al ricovero e al servizio di unita' da diporto, da parte di societa' o enti, qualora la partecipazione ad essi consenta, gratuitamente o verso un corrispettivo inferiore al valore normale, il godimento, personale, o familiare dei beni e degli impianti stessi, ovvero quando tale godimento sia conseguito indirettamente dai soci o partecipanti, alle suddette condizioni, anche attraverso la partecipazione ad associazioni, enti o altre organizzazioni; 
+ b) il possesso, non strumentale ne' accessorio ad altre attivita' esercitate, di partecipazioni o quote sociali, di obbligazioni o titoli similari, costituenti immobilizzazioni, al fine di percepire dividendi, interessi o altri frutti, senza strutture dirette ad esercitare attivita' finanziaria, ovvero attivita' di indirizzo, di coordinamento o altri interventi nella gestione delle societa' partecipate.".
 
 All'articolo 6, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, il quinto comma e' sostituito dal seguente: "L'imposta relativa alle cessioni di beni ed alle prestazioni di servizi diviene esigibile nel momento in cui le operazioni si considerano effettuate secondo le disposizioni dei commi precedenti e l'imposta e' versata con le modalita' e nei termini stabiliti nel titolo secondo. Tuttavia per le cessioni dei prodotti farmaceutici indicati nel numero 114) della terza parte dell'allegata tabella A effettuate dai farmacisti, per le cessioni di beni e le prestazioni di servizi ai soci, associati o partecipanti, di cui al quarto comma dell'articolo 4, nonche' per quelle fatte allo Stato, agli organi dello Stato ancorche' dotati di personalita' giuridica, agli enti pubblici territoriali e ai consorzi tra essi costituiti ai sensi dell'articolo 25 della legge 8 giugno 1990, n. 142, agli istituti universitari, alle unita' sanitarie locali, agli enti ospedalieri, agli enti pubblici di ricovero e cura aventi prevalente carattere scientifico, agli enti pubblici di assistenza e beneficenza e a quelli di previdenza, l'imposta diviene esigibile all'atto del pagamento dei relativi corrispettivi, salva la facolta' di applicare le disposizioni del primo periodo. Per le cessioni di beni di cui all'articolo 21, quarto comma, secondo periodo, l'imposta diviene esigibile nel mese successivo a quello della loro effettuazione.".
 
@@ -77,6 +115,34 @@ Gli articoli 19 e 19-bis del decreto del Presidente della Repubblica 26 ottobre 
 ## - Capo II Modifiche e integrazioni agli obblighi dei contribuenti e ai regimi speciali
 
 ## Art. 4. — Modifiche agli obblighi contabili dei contribuenti
+
+1.
+                        
+                            
+                                Al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    nell'articolo 25 e' inserito, in principio, il seguente comma: "Il contribuente deve numerare in ordine progressivo le fatture e le bollette doganali relative ai beni e ai servizi acquistati o importati nell'esercizio dell'impresa, arte o professione, comprese quelle emesse a norma del terzo comma dell'articolo 17 e deve annotarle in apposito registro entro l'anno nella cui dichiarazione viene esercitato il diritto di detrazione della relativa imposta.";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    nell'articolo 27:
+ 1) il primo comma e' sostituito dal seguente: "Entro il giorno 18 di ciascun mese il contribuente deve calcolare in apposita sezione del registro di cui all'articolo 23 o del registro di cui all'articolo 24, la differenza tra l'ammontare complessivo dell'imposta divenuta esigibile nel mese precedente e quello dell'imposta per la quale il diritto alla detrazione viene esercitato nello stesso mese ai sensi dell'articolo 19.";
+ 2) il quinto comma e' abrogato;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    
+                                        ((LETTERA ABROGATA DAL D.P.R. 22 LUGLIO 1998, N. 322)).
 
 E' abrogato il comma 5 dell'articolo 6 del decreto del Presidente della Repubblica 9 dicembre 1996, n. 695.
 

@@ -8,8 +8,8 @@ codice_redazionale: 098G0382
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:59Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -96,6 +96,31 @@ Entro sette giorni dalla proclamazione dei risultati, copia del verbale delle op
 ## Art. 10.
 
 Nei Paesi presenti nella tabella di ripartizione geografica allegata alla legge, in cui non sono stati costituiti i comitati degli italiani all'estero, e che non facciano parte dei gruppi di Paesi di cui all'articolo 7, comma 5, la rappresentanza diplomatica, entro un mese dall'insediamento dei comitati nei Paesi dove questi sono costituiti, indirizza alle associazioni di cui all'articolo 14 della legge la richiesta di proporre i nominativi dei candidati al consiglio nel numero previsto dalla legge stessa. Le predette associazioni formulano la propria proposta d'accordo tra di loro entro un termine di trenta giorni da tale richiesta.
+
+2.
+                    
+                        
+                            Il capo della rappresentanza diplomatica, nei quindici giorni successivi al ricevimento della predetta proposta, provvede alla scelta definitiva dei membri chiamati a rappresentare il Paese nel consiglio, ai sensi dell'articolo 14 della legge, avvalendosi, tra gli altri, dei seguenti criteri:
+ 
+                        
+                        
+                            a)
+                            
+                                rappresentativita' sia delle associazioni che dei candidati indicati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                attivita' svolta in passato dai candidati a beneficio della collettivita' italiana;
+
+                            
+                        
+                        
+                            c)
+                            
+                                disponibilita' dei candidati ad assumere i compiti derivanti dall'essere membro del consiglio.
 
 Qualora la proposta delle associazioni non sia effettuata, la rappresentanza diplomatica, avvalendosi dei criteri sopraelencati, provvede direttamente alla scelta e alla nomina dei membri che rappresentano il Paese nel consiglio tenendo conto di quanto previsto dall'articolo 4, comma 4, della legge.
 

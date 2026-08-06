@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
 vigenza_date: 2001-05-09
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:11Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -34,7 +34,128 @@ Il presente regolamento si riferisce al periodo 1 gennaio 1988-31 dicembre 199
 
 Le parti nell'ambito dell'iniziativa per l'ottimizzazione dell'erogazione dei servizi, assumono come punto comune e fondamentale obiettivo dell'azione amministrativa il miglioramento delle relazioni con l'utenza.
 
+2.
+                    
+                        
+                            In tale quadro gli enti predisporranno, sentite le organizzazioni sindacali, appositi progetti, da realizzare nel periodo di vigenza del presente regolamento finalizzati in particolare ad assicurare condizioni di massima trasparenza e di dialogo nel rapporto con gli utenti, ivi compresa la riconoscibilita' degli addetti ai servizi, mediante interventi diretti ad assicurare, secondo la natura degli adempimenti istituzionali: 
+ 
+                        
+                        
+                            a)
+                            
+                                la semplificazione della modulistica e la riduzione, ove possibile, della documentazione a corredo delle domande di prestazione, ferma restando l'applicazione delle norme sull'autocertificazione di cui alla legge 4 gennaio 1968, n. 15, e l'ottemperanza alle istruzioni contenute nella circolare del Ministro per la funzione pubblica in data 20 dicembre 1988, pubblicata nella Gazzetta Ufficiale n. 7 del 10 gennaio 1989; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'ampliamento dell'orario di ricevimento, per garantire l'accesso anche nelle ore pomeridiane, laddove gli enti ne ravvisano la necessita', in relazione alle esigenze degli utenti; in tal caso le modalita' attuative sono definite con la contrattazione decentrata a livello locale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                collegamento tra enti e unificazione di adempimenti, che valgono ad agevolare il rapporto con i soggetti contribuenti e con gli assistiti, anche attraverso l'istituzione di sportelli polivalenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il miglioramento della logistica relativamente ai locali adibiti al ricevimento degli utenti con l'obiettivo di ridurre al minimo l'attesa ed i disagi ad essa connessi, anche abbattendo le barriere architettoniche; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                una formazione professionale del personale addetto al ricevimento degli utenti specificamente rivolta ad assicurare completezza e trasparenza delle informazioni fornite, anche con l'ausilio di adeguate apparecchiature elettroniche.
+
 ## Art. 3. — Norme di garanzia del funzionamento dei servizi pubblici essenziali - Servizi pubblici essenziali
+
+1.
+                    
+                        
+                            Ai sensi dell'art. 10 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, i servizi da considerare essenziali nel comparto degli enti pubblici non economici, nell'ambito dei quali deve garantirsi, con le modalita' di cui all'art. 4, la continuita' delle prestazioni indispensabili per assicurare il rispetto dei valori e dei diritti costituzionalmente tutelati, sono i seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                il servizio pronto soccorso infermi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il servizio pronto soccorso emotrasfusionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'attivazione degli impianti di potabilizzazione ed erogazione dell'acqua; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il funzionamento degli impianti di sollevamento e depurazione delle acque reflue; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                la sorveglianza idraulica dei fiumi, degli altri corsi d'acqua e dei bacini idrici; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i servizi degli uffici di frontiera dell'Automobile club d'Italia; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                le informazioni e le notizie per la viabilita', anche ai fini del soccorso stradale ai cittadini; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                la vigilanza antibracconaggio ed antincendi nei parchi nazionali; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                l'assistenza per la sicurezza ai minori nei collegi e nei convitti; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                l'assistenza agli ospiti non autosufficienti delle case di riposo, dei centri di rieducazione motoria e dei presidi ortopedici; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                il rinnovo dei mandati di pagamento degli 
+stipendi, delle pensioni, delle indennita' sociali e l'adeguamento delle rendite previdenziali, per il periodo di tempo strettamente necessario in base all'organizzazione delle singole amministrazioni.
 
 ## Art. 4. — Norme di garanzia del funzionamento dei servizi pubblici essenziali  Prestazioni indispensabili e contingenti di personale per il funzionamento dei servizi pubblici essenziali.
 
@@ -49,6 +170,193 @@ In conformita' agli accordi di cui ai commi 2 e 3, le amministrazioni individuan
 Gli accordi decentrati di cui ai commi 2 e 3 hanno validita' per il periodo di vigenza del presente regolamento.
 
 ## Art. 5. — Contrattazione decentrata
+
+1.
+                    
+                        
+                            La contrattazione decentrata si articola sui seguenti livelli: 
+ 
+                        
+                        
+                            a)
+                            
+                                nazionale di ente, per gruppi di enti o per enti federati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                locale per aree territorialmente delimitate comprendenti almeno una unita' organica complessa.
+
+2.
+                    
+                        
+                            Le materie oggetto di contrattazione decentrata nazionale sono le seguenti: 
+ 
+                        
+                        
+                            a)
+                            
+                                criteri in materia di rilevazione e classificazione delle posizioni di lavoro ai fini della loro collocazione nell'ambito dei profili professionali delle varie qualifiche previsti dal decreto del Presidente della Repubblica 1° marzo 1988, n. 285, nonche' in materia di aggregazioni tra piu' profili professionali di una stessa qualifica con requisiti equipollenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                proposte di istituzione di nuovi profili professionali o di aggregazione di profili appartenenti a qualifiche diverse, da definire a livello di comparto con le procedure previste, previa identificazione a tale livello di contrattazione della qualifica funzionale nella quale va collocato il profilo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                criteri per l'attribuzione delle indennita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                progetti generali per la formazione e l'aggiornamento professionale e per l'addestramento del personale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                criteri per la istituzione di rapporti di lavoro a tempo parziale ed a tempo determinato; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                definizione delle modalita' di attuazione dei controlli previsti dall'art. 9 della legge 20 maggio 1970, n. 300, per la tutela della salute e della integrita' fisica; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                criteri per l'utilizzo del fondo di incentivazione e per l'erogazione dei compensi nel rispetto delle disposizioni vigenti; 
+
+                            
+                        
+                        
+                            h)
+                            
+                                criteri per la definizione dei carichi di lavoro, degli indicatori, dei parametri e degli standard di produttivita' e delle modalita' per i relativi riscontri; 
+
+                            
+                        
+                        
+                            i)
+                            
+                                indirizzi per la realizzazione di progetti di lavoro predisposti per l'efficienza organizzativa e relativa verifica dei risultati; 
+
+                            
+                        
+                        
+                            l)
+                            
+                                individuazione delle attivita' soggette a turnazione nell'ambito di quanto previsto dall'art. 8 del decreto del Presidente della Repubblica 8 maggio 1987, n. 267, e criteri per l'attuazione della relativa disciplina; 
+
+                            
+                        
+                        
+                            m)
+                            
+                                criteri per la formazione di graduatorie degli aspiranti al trasferimento a domanda da una sede all'altra dello stesso ente o da uno ad altro ente del comparto; 
+
+                            
+                        
+                        
+                            n)
+                            
+                                criteri per i trasferimenti di ufficio per esigenze di servizio individuate dall'amministrazione; 
+
+                            
+                        
+                        
+                            o)
+                            
+                                criteri per l'attuazione delle disposizioni legislative in materia di mobilita' del personale; 
+
+                            
+                        
+                        
+                            p)
+                            
+                                criteri per l'utilizzazione delle prestazioni di lavoro straordinarie e relativa quantita'; 
+
+                            
+                        
+                        
+                            q)
+                            
+                                criteri in materia di orario di servizio e di lavoro; 
+
+                            
+                        
+                        
+                            r)
+                            
+                                acquisizione dei dati riguardanti la situazione del personale occupato e di quello occorrente in relazione ai programmi di efficienza-efficacia e a fenomeni di turn-over, nonche' in relazione a quanto previsto dall'art. 8 del decreto del Presidente della Repubblica 1 marzo 1988, n. 285, e successive integrazioni; 
+
+                            
+                        
+                        
+                            s)
+                            
+                                criteri per la realizzazione dei servizi sociali; 
+
+                            
+                        
+                        
+                            t)
+                            
+                                criteri per la costituzione dei gruppi di lavoro.
+
+3.
+                    
+                        
+                            La contrattazione decentrata a livello locale ha per oggetto le seguenti materie, oltre a quelle espressamente rinviate dagli accordi decentrati nazionali: 
+ 
+                        
+                        
+                            a)
+                            
+                                individuazione delle misure per la razionalizzazione della organizzazione del lavoro ed il miglioramento dei risultati, nell'ambito delle flessibilita' previste dalle disposizioni generali relative all'intero territorio; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                definizione dei regimi di orario di lavoro (flessibilita', articolazione, turni); determinazione dei settori che, per fronteggiare esigenze di servizio, richiedano il ricorso a prestazioni di lavoro straordinario e relative quantita' nonche' prestazioni in turni; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                applicazione in sede locale dei criteri per la determinazione degli standard di produttivita'; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                articolazione dei carichi di lavoro per singoli settori operativi in funzione degli obiettivi dei piani di lavoro; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                per gli enti con strutture regionali o interregionali la contrattazione a tale livello ha per oggetto la formulazione di proposte di addestramento del personale in servizio e criteri per la mobilita' provvisoria del personale nell'ambito territoriale di competenza, nonche' le materie di cui al comma 2 che, in sede di contrattazione a livello nazionale, si ritenga di riservare esclusivamente al livello regionale, tenuto conto dell'articolazione del decentramento funzionale degli enti.
 
 La delegazione di parte pubblica negli accordi decentrati a livello locale e' composta dal dirigente titolare dell'ufficio, salvo diversa delega del legale rappresentante dell'ente, e da una rappresentanza dei titolari di unita' organiche sottordinate.
 
@@ -74,6 +382,31 @@ Il comitato per le pari opportunita' di cui all'art. 33 del decreto del Presiden
 
 Il comitato, presieduto da un rappresentante dell'ente nominato dal presidente, e' composto da un componente designato da ognuna delle organizzazioni sindacali maggiormente rappresentative, di cui all'art. 2 del decreto del Ministro per la funzione pubblica in data 20 dicembre 1988, e da un pari numero di funzionari in rappresentana dell'ente.
 
+3.
+                    
+                        
+                            In sede di contrattazione decentrata nazionale e territoriale, anche tenendo conto delle proposte formulate dal comitato per le pari opportunita', saranno concordate le misure per favorire l'effettiva parificazione uomo-donna nelle condizioni di lavoro e di sviluppo professionale che tengano conto della posizione delle lavoratrici in seno alla famiglia, con particolare riferimento a: 
+ 
+                        
+                        
+                            a)
+                            
+                                accesso e modalita' di svolgimento dei corsi di formazione professionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                flessibilita' degli orari di lavoro in rapporto a quelli dei servizi sociali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                perseguimento di un effettivo equilibrio di posizioni funzionali a parita' di requisiti professionali, di cui si dovra' tener conto anche nell'attribuzione di incarichi o funzioni piu' qualificate, nell'ambito delle misure rivolte a superare per la generalita' dei dipendenti l'assegnazione in via permanente di mansioni estremamente parcellizzate e prive di ogni possibilita' di evoluzione professionale.
+
 Gli effetti delle iniziative assunte dalle amministrazioni a norma del comma 3 formeranno oggetto di valutazione nella relazione annuale del comitato di cui all'art. 33, comma 2, del decreto del Presidente della Repubblica 8 maggio 1987, n. 267.
 
 ## Art. 7. — Igiene e sicurezza sul lavoro
@@ -84,7 +417,39 @@ Le organizzazioni sindacali, unitamente agli enti, verificano l'applicazione del
 
 ## Art. 8. — Tutela dei dipendenti in particolari condizioni psico-fisiche
 
+1.
+                    
+                        
+                            Allo scopo di favorire la riabilitazione ed il recupero di dipendenti nei confronti dei quali sia stata attestata, da una struttura sanitaria pubblica o da strutture associative convenzionate previste dalle leggi regionali vigenti, la condizione di portatore di handicap o di soggetto ad effetti di tossicodipendenza, alcolismo cronico o grave debilitazione psico-fisica e che si impegnino a sottoporsi ad un progetto terapeutico di recupero predisposto dalle strutture medesime, sono stabilite le seguenti misure di sostegno secondo le modalita' di esecuzione del progetto: 
+ 
+                        
+                        
+                            a)
+                            
+                                concessione della aspettativa per infermita' per l'intera durata del ricovero presso strutture specializzate; per il periodo eccedente la durata massima della aspettativa con retribuzione intera compete la retribuzione ridotta alla meta'; 
 
+                            
+                        
+                        
+                            b)
+                            
+                                concessione di permessi giornalieri orari retribuiti nel limite massimo di due ore per la durata del progetto di recupero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                la riduzione dell'orario di lavoro, con l'applicazione degli istituti normativi e retributivi previsti per il rapporto a tempo parziale, limitatamente alla durata del progetto di recupero; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                utilizzazione del dipendente in mansioni della stessa qualifica diverse da quelle abituali quando tale misura sia individuata dalla struttura sanitaria pubblica come supporto della terapia in atto.
+
+((2. I dipendenti i cui parenti entro il 2' grado o, in mancanza entro il 3' grado, si trovino nelle condizioni previste dal comma 1 ed abbiano iniziato l'esecuzione del progetto di recupero, hanno titolo ad essere collocati in aspettativa per motivi di famiglia per l'intera durata del progetto medesimo. ))
 
 ((2))
 
@@ -109,6 +474,31 @@ I massimali delle polizze di cui ai commi 1, 2 e 3 non possono eccedere quelli p
 Gli importi liquidati dalle societa' assicuratrici in base alle polizze stipulate da terzi responsabili e di quelle previste dal presente articolo sono detratte dalle somme eventualmente spettanti a titolo di equo indennizzo per lo stesso evento.
 
 ## Art. 10. — Diritto allo studio
+
+1.
+                    
+                        
+                            I permessi di cui all'art. 3 del decreto del Presidente della Repubblica 23 agosto 1988, n. 395, qualora le richieste superino il 3 per cento delle unita' in servizio presso ciascun ente all'inizio dell'anno, sono concessi nel seguente ordine: 
+ 
+                        
+                        
+                            a)
+                            
+                                dipendenti che frequentino l'ultimo anno del corso di studi e, se studenti universitari o post-universitari, abbiano superato gli esami degli anni precedenti; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dipendenti che frequentino l'anno di corso che precede l'ultimo e, successivamente, quelli che, nell'ordine, frequentino gli anni ancora anteriori, escluso il primo, ferma restando per gli studenti universitari e post-universitari la condizione di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dipendenti ammessi a frequentare attivita' didattiche, che non si trovino nelle condizioni di cui alle lettere a) e b).
 
 Nell'ambito di ciascuna delle fattispecie di cui al comma 1, la precedenza e' accordata, nell'ordine, ai dipendenti che frequentino corsi di studi della scuola media inferiore, della scuola media superiore, universitari o post-universitari.
 
@@ -141,7 +531,71 @@ Per i profili professionali per i quali e' previsto l'obbligo di selezione ai se
 
 Il fondo di incentivazione di cui all'art. 12 del decreto del Presidente della Repubblica 8 maggio 1987, n. 267, resta disciplinato dalla suddetta disposizione fino al 31 dicembre 1988.
 
+2.
+                    
+                        
+                            Per le finalita' di cui all'art. 13, a decorrere dal 1 gennaio 1989 e' costituito presso ciascun ente un fondo annuo, denominato "Fondo per il miglioramento dell'efficienza degli enti", che e' alimentato: 
+ 
+                        
+                        
+                            a)
+                            
+                                da una somma pari al corrispettivo di 250 ore annue di lavoro straordinario per ciascun dipendente negli importi spettanti al 31 dicembre 1988, esclusi quelli con qualifiche dirigenziali ed i destinatari dell'art. 15, comma 1, della legge 9 marzo 1989, n. 88; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                dall'importo destinato nell'anno 1986 alla corresponsione delle maggiorazioni di stipendio per turni di servizio ed all'erogazione dell'indennita' meccanografica, maggiorato della eventuale integrazione di spesa per turni di servizio riferita all'anno 1988; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                dall'ammontare delle disponibilita' di cui all'art. 23, commi 1 e 2, del decreto del Presidente della Repubblica 8 maggio 1987, n. 267, per la corresponsione dell'indennita' di funzione e della indennita' speciale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                dalla quota del monte salari annuo relativo a ciascun ente di cui all'art. 12 del decreto del Presidente della Repubblica 8 maggio 1987, n. 267, incrementato a decorrere dal 1 gennaio 1990 di una quota pari allo 0,65 per cento dello stesso monte salari; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                dalle somme destinate nell'anno 1988 all'erogazione delle indennita' previste dall'art. 30 del decreto del Presidente della Repubblica 26 maggio 1976, n. 411, con le modifiche di cui all'art. 55, comma primo, del decreto del Presidente della Repubblica 16 ottobre 1979, n. 509, ad eccezione di quelle spettanti direttamente ai dipendenti degli enti in base a specifiche disposizioni di legge.
+
 ((
+
+3.
+                    
+                        
+                            Il fondo di cui al comma 2 e' integrato, in presenza di effetti finanziari positivi conseguenti all'intensificazione dell'attivita' svolta dagli enti, con una quota: 
+ 
+                        
+                        
+                            a)
+                            
+                                delle maggiori entrate effettivamente conseguite per effetto della realizzazione di piani predisposti dagli enti finalizzati alla lotta all'evasione contributiva ed alla realizzazione di crediti contributivi e relativi interessi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle maggiori entrate derivanti dalla eventuale istituzione od adeguamento, secondo la normativa vigente, di corrispettivi finalizzati alla erogazione di servizi piu' qualificati a favore dell'utenza; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                di economie di gestione conseguenti a riduzioni di spese di funzionamento eventualmente realizzate dagli enti, a parita' di quantita' e qualita' di servizi resi per effetto dell'ottimale utilizzazione dei fattori di produzione, con esclusione comunque delle spese per manutenzione, acquisto e rinnovo di attrezzature; tali economie, in presenza di disavanzo di amministrazione, sono utilizzabili solo a fronte di iniziative che producono la riduzione del detto disavanzo.
 
 L'aumento delle entrate e la riduzione delle spese di cui al comma 3 sono determinate ponendo a raffronto, per ciascuna delle quote previste nel medesimo comma le risultanze complessive dell'ultimo bilancio consuntivo deliberato con quelle corrispondenti dell'anno 1988, preso a riferimento per il periodo di vigenza del presente regolamento.
 
@@ -159,6 +613,45 @@ Per gli enti destinatari dell'art. 18 della legge 9 marzo 1989, n. 88, e per gli
  per il miglioramento dell'efficienza degli enti
 
 Il fondo di cui all'art. 12 e' destinato alla erogazione di compensi al personale, secondo le disposizioni del presente articolo, per la realizzazione di piani, progetti ed altre iniziative individuate con la contrattazione articolata a livello di ente, volte ad ottenerre il miglioramento dell'efficienza e dell'efficacia dei servizi istituzionali.
+
+2.
+                    
+                        
+                            In rapporto alle esigenze peculiari di ciascun ente, il fondo e' finalizzato: 
+ 
+                        
+                        
+                            a)
+                            
+                                in via prioritaria, all'erogazione di compensi incentivanti la produttivita'. La misura del compenso e' determinata, in rapporto al superamento di uno standard sperimentale di produttivita' di base ed ai diversi livelli di incremento degli stessi definiti con la contrattazione decentrata di cui all'art. 5, attivando le risorse necessarie anche in termini di formazione e mobilita' per la realizzazione di obiettivi di produzione programmati; a tal fine si terra' conto delle disposizioni dell'art. 12 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13. Per gli enti e per i settori di attivita' non regolati dagli standard, saranno definite, con la contrattazione decentrata di cui all'art. 5, le modalita' per correlare la misura del compenso ai risultati conseguiti rispetto agli obiettivi fissati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                a compensare le prestazioni di lavoro stroardinario che si rendessero necessarie per fronteggiare particolari situazioni di lavoro, connesse anche a carenze di organico, nel limite di un monte ore annuo pari a 120 ore per il numero dei dipendenti, con un limite massimo individuale pari a 250 ore annue; restano fermi i commi 6 e 7 dell'art. 9 del decreto del Presidente della Repubblica 8 maggio 1987, n. 267; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                a remunerare gravose articolazioni dell'orario di lavoro, connesse, in particolare, all'apertura pomeridiana, per le esigenze degli utenti, degli uffici e delle strutture ed al funzionamento delle attrezzature informatiche; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                all'attribuzione di indennita' per l'esercizio di compiti che comportano specifiche responsabilita', ovvero oneri, rischi o disagi particolarmente rilevanti, ivi comprese quelle di cui all'art. 23 del decreto del Presidente della Repubblica 8 maggio 1987, n. 267, nonche' alla reperibilita' collegata alla particolare natura dei servizi che richiedono interventi di urgenza; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                a corrispondere specifici compensi ai dipendenti che abbiano conseguito un particolare arricchimento professionale a seguito del superamento di appositi corsi di formazione correlati all'evoluzione del sistema organizzativo o tecnologico e che siano stati conseguentemente adibiti ai compiti propri della specializzazione acquisita.
 
 I criteri per l'attuazione, le modalita' e la periodicita' di erogazione dei compensi ed indennita' di cui al comma 2 sono definiti in sede di contrattazione decentrata a livello di ente. Resta fermo il meccanismo di corresponsione di anticipazione di cui all'art. 13 del decreto del Presidente della Repubblica 8 maggio 1987, n. 267; la somma annua complessiva e' commisurata al 20,8 per cento dell'importo di cui all'art. 12, comma 2, lettera a).
 

@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DPR
 vigenza_date: 2018-05-17
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:43Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -671,6 +671,30 @@ AGGIORNAMENTO (2)
 
 ## Art. 4. — Fondo per l'efficienza dei servizi istituzionali
 
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento civile il Fondo per l'efficienza dei servizi istituzionali, di cui all'articolo 14 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, cosi' come incrementato dall'articolo 3 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, e dall'articolo 7 del decreto del Presidente della Repubblica 5 novembre 2004, n. 301, e' ulteriormente incrementato delle seguenti risorse economiche annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2005:
+ 1) Polizia di Stato: euro 956.000,00;
+ 2) Polizia penitenziaria: euro 420.000,00;
+ 3) Corpo forestale dello Stato: euro 58.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dall'anno 2006:
+ 1) Polizia di Stato: euro 3.187.000,00;
+ 2) Polizia penitenziaria: euro 3.368.000,00;
+ 3) Corpo forestale dello Stato: euro 368.000,00.
+
 Gli importi di cui alle lettere a) e b) del comma 1 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 Quelli afferenti all'anno 2005 non hanno effetto di trascinamento nell'anno successivo.
 
@@ -1285,6 +1309,28 @@ Per gli ufficiali provenienti dai ruoli inferiori, le misure dell'assegno funzio
  Il D.P.R. 15 marzo 2018, n. 39, nel modificare l'art. 31, comma 1 del D.P.R. 16 aprile 2009, n. 51 ha conseguentemente disposto (con l'art. 33, comma 1) che "A decorrere dal 1° gennaio 2018, le misure annue dell'assegno funzionale pensionabile di cui all'articolo 31, commi 1 e 2, del decreto del Presidente della Repubblica 16 aprile 2009, n. 51, riferite al personale del ruolo Appuntati e Carabinieri/Finanzieri con 17 anni di servizio, sono incrementate di euro 10,00".
 
 ## Art. 8. — Fondo per l'efficienza dei servizi istituzionali
+
+1.
+                        
+                            
+                                Per ogni Forza di polizia ad ordinamento militare, le risorse economiche per l'efficienza dei servizi istituzionali di cui all'articolo 53 del decreto del Presidente della Repubblica 18 giugno 2002, n. 164, cosi' come incrementate dall'articolo 8 del decreto del Presidente della Repubblica 19 novembre 2003, n. 348, e dall'articolo 14 del decreto del Presidente della Repubblica 5 novembre 2004, n. 301, sono ulteriormente incrementate delle seguenti somme annue:
+ 
+                            
+                            
+                                a)
+                                
+                                    per l'anno 2005:
+ 1) Arma dei carabinieri: euro 1.090.000,00;
+ 2) Guardia di finanza: euro 356.000,00;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    a decorrere dall'anno 2006:
+ 1) Arma dei carabinieri: euro 1.900.000,00;
+ 2) Guardia di finanza: euro 774.000,00.
 
 Gli importi di cui alle lettere a) e b) del comma 1 non comprendono gli oneri contributivi e l'IRAP a carico dello Stato.
 Quelli afferenti all'anno 2005 non hanno effetto di trascinamento nell'anno successivo.

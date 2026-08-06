@@ -8,8 +8,8 @@ codice_redazionale: 098G0311
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -43,6 +43,31 @@ IL MINISTRO DELLE FINANZE
 
 L'istanza di cui al comma 8 dell'articolo 37-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e' rivolta al direttore regionale delle entrate competente per territorio ed e' spedita, a mezzo del servizio postale, in plico raccomandato con avviso di ricevimento, all'ufficio finanziario competente per l'accertamento in ragione del domicilio fiscale del contribuente.
 Tale ultimo ufficio trasmette al direttore regionale l'istanza, unitamente al proprio parere, entro trenta giorni dalla ricezione della medesima.
+
+2.
+                    
+                        
+                            L'istanza deve contenere a pena di inammissibilita':
+ 
+                        
+                        
+                            a)
+                            
+                                i dati identificati del contribuente e del suo legale rappresentante;
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'indicazione dell'eventuale domiciliatario presso il quale sono effettuate le comunicazioni;
+
+                            
+                        
+                        
+                            c)
+                            
+                                la sottoscrizione del contribuente o del suo legale rappresentante.
 
 Nell'istanza il contribuente descrive compiutamente la fattispecie concreta per la quale ritiene non applicabili le disposizioni normative che limitano deduzioni, detrazioni, crediti d'imposta o altre posizioni soggettive altrimenti ammessi dall'ordinamento tributario; ad essa va allegata copia della documentazione, con relativo elenco, rilevante ai fini della individuazione e della qualificazione della fattispecie prospettata.
 

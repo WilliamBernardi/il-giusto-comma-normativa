@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2010-07-31
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -32,6 +32,38 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del lavo
 A decorrere dal 1 gennaio 1997 per il personale iscritto al Fondo di previdenza per il personale dipendente dall'Enel e dalle aziende elettriche private la retribuzione imponibile sulla quale sono commisurati i contributi e' quella definita dall'art. 12 della legge 30 aprile 1969, n. 153, e successive integrazioni e modificazioni.
 
 Per il personale iscritto al Fondo di cui al comma 1 successivamente al 31 dicembre 1995, il contributo e' stabilito in base all'aliquota e con i criteri di ripartizione in vigore nell'assicurazione generale obbligatoria - Fondo pensioni lavoratori dipendenti.
+
+3.
+                    
+                        
+                            Le aliquote contributive dovute per il personale iscritto al Fondo di previdenza per il personale dipendente dall'Enel e dalle aziende elettriche private alla data del 31 dicembre 1995 sono fissate, fino a concorrenza dell'aliquota in vigore nell'assicurazione generale obbligatoria, con le seguenti modalita':
+ 
+                        
+                        
+                            a)
+                            
+                                dal 1 gennaio 1997 l'aliquota a carico dei datori di lavoro e' stabilita nella misura del 23,26 per cento e quella a carico dei lavoratori nella misura del 7,553 per cento;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dal 1 gennaio 1998 l'aliquota a carico dei datori di lavoro e' stabilita nella misura del 23,56 per cento; dalla medesima data l'aliquota a carico dei lavoratori e' stabilita nella misura del 7,953 per cento;
+
+                            
+                        
+                        
+                            c)
+                            
+                                dal 1 gennaio 1999 l'aliquota a carico dei datori di lavoro e' pari a quella in vigore presso l'assicurazione generale obbligatoria e quella a carico dei lavoratori e' stabilita nella misura dell'8,353 per cento;
+
+                            
+                        
+                        
+                            d)
+                            
+                                dal 1 gennaio 2000 per i lavoratori si applica l'aliquota in vigore presso l'assicurazione generale obbligatoria.
 
 Per gli iscritti al Fondo di cui al comma 1 trovano applicazione le disposizioni di cui all'art. 2, comma 18, della legge 8 agosto 1995, n. 335.
 
@@ -56,6 +88,24 @@ Fino all'attuazione della normativa in materia di lavori usuranti prevista dall'
  delle prestazioni pensionistiche
 
 Al fine della determinazione dell'ammontare della pensione, l'anzianita' contributiva massima computabile dei lavoratori di cui all'art. 2, commi 1 e 2, e' elevata a 40 anni.
+
+2.
+                    
+                        
+                            L'importo complessivo del trattamento pensionistico liquidato esclusivamente in base al metodo retributivo non puo' in ogni caso superare il piu' favorevole fra i seguenti importi:
+ 
+                        
+                        
+                            a)
+                            
+                                80 per cento della retribuzione pensionabile determinata secondo le norme in vigore nell'assicurazione generale obbligatoria per i lavoratori dipendenti;
+
+                            
+                        
+                        
+                            b)
+                            
+                                88 per cento della retribuzione pensionabile determinata ai fini del calcolo della quota di pensione di cui all'art. 1, comma 12, lettera, a), della legge 8 agosto 1995, n. 335.
 
 Restano confermate le disposizioni di cui all'art. 1, comma 3, del citato decreto legislativo n. 503 del 1992, in conseguenza dell'opzione esercitata dall'iscritto ai sensi dell'art. 6 della legge 29 dicembre 1990, n. 407.
 

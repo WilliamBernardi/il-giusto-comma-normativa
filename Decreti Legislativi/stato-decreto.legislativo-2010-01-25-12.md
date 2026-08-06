@@ -8,8 +8,8 @@ codice_redazionale: 010G0026
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:29Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -55,13 +55,123 @@ Qualora un imballaggio preconfezionato sia costituito da due o piu' imballaggi s
 
 ## Art. 6. — Modifiche
 
+1.
+                    
+                        
+                            All'articolo 15 del decreto-legge 3 luglio 1976, n. 451, convertito, con modificazioni, dalla legge 19 agosto 1976, n. 614, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                il primo comma e' sostituito dal seguente: «Il controllo sulla conformita' alle disposizioni del presente decreto delle bottiglie recipienti-misura, munite del contrassegno di cui all'articolo 9, e' effettuato presso il fabbricante o il rappresentante autorizzato o importatore. Le spese di viaggio e di soggiorno del personale incaricato del controllo sono a carico del fabbricante, del rappresentante autorizzato o dell'importatore, i quali devono altresi' fornire le bottiglie necessarie per i controlli medesimi.»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il secondo comma e' sostituito dal seguente: «Il Ministro dello sviluppo economico stabilisce con propri decreti le modalita' del controllo in conformita' al metodo di riferimento di cui all'Allegato V.».
+
 Nell'articolo 1 della legge 25 ottobre 1978, n. 690, di adeguamento dell'ordinamento interno alla direttiva 76/211/CEE le parole: «non contemplati dal decreto-legge 3 luglio 1976, n. 451, convertito, con modificazioni, nella legge 19 agosto 1976, n. 614,» sono soppresse.
 
 Nell'articolo 12 della legge 25 ottobre 1978, n. 690, dopo il quinto comma sono aggiunti, in fine, i seguenti: 
  «Chiunque produce, importa, detiene per vendere, vende o comunque immette sul mercato prodotti presentati in imballaggi preconfezionati in quantita' nominali diverse da quelle obbligatorie e' soggetto alla sanzione amministrativa da 500 euro a 1.500 euro. 
  Le sanzioni amministrative di cui ai commi precedenti sono applicate dalle Camere di commercio e i rapporti sulle violazioni sono presentati, ai sensi e per gli effetti della legge 24 novembre 1981, n. 689, e successive modificazioni, al Segretario generale della Camera di commercio, industria, artigianato e agricoltura competente per territorio. I proventi derivanti dall'applicazione di tali sanzioni sono versati all'entrata del bilancio dello Stato.».
 
+4.
+                    
+                        
+                            All'articolo 12 della legge 25 ottobre 1978, n. 690, sono apportate le seguenti modificazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                al primo comma, le parole: «da L. 100.000 a lire 1.000.000» sono sostituite dalle seguenti: «da 51,65 euro a 516,46 euro»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                al secondo comma, le parole: «da L. 200.000 a L. 500.000» sono sostituite dalle seguenti: «da 103,29 euro a 258,23 euro»; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                al terzo comma, le parole: «da L. 100.000 a L. 1.000.000» sono sostituite dalle seguenti: «da 51,65 euro a 516,46 euro»; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                al quarto comma, le parole: «da L. 100.000 a lire 1.000.000» sono sostituite dalle seguenti: «da 51,65 euro a 516,46 euro»; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                al quinto comma, le parole: «da lire 50.000 a L. 500.000» sono sostituite dalle seguenti: «da 25,82 euro a 258,23 euro».
+
 ## Art. 7. — Abrogazioni
+
+1.
+                    
+                        
+                            Fatto salvo quanto previsto dall'articolo 2, a decorrere dalla data di entrata in vigore del presente decreto sono o restano abrogati: 
+ 
+                        
+                        
+                            a)
+                            
+                                gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 16, l'Allegato I, l'Allegato II e l'Allegato III del decreto-legge 3 luglio 1976, n. 451, convertito, con modificazioni, dalla legge 19 agosto 1976, n. 614; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'articolo 13 della legge 25 ottobre 1978, n. 690; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'articolo 4, l'Allegato I, l'Allegato II e l'Allegato III del decreto del Presidente della Repubblica 26 maggio 1980, n. 391; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il decreto del Presidente della Repubblica 23 agosto 1982, n. 871, di attuazione della direttiva 80/232/CEE; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                l'Allegato I al decreto del Presidente della Repubblica 23 agosto 1982, n. 825, e successive modificazioni; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                l'articolo 2, comma 1, del decreto del Ministro per il coordinamento delle politiche comunitarie 1° marzo 1988, n. 131; 
+
+                            
+                        
+                        
+                            g)
+                            
+                                l'Allegato I al decreto legislativo 25 gennaio 1992, n. 106.
 
 Sono abrogate le disposizioni in materia di quantita' nominali dei prodotti preconfezionati contrastanti o incompatibili con il presente decreto.
 

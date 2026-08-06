@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2026-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:32Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -428,6 +428,31 @@ All'irrogazione delle sanzioni provvede l'ufficio competente in relazione al dom
 
 ## Art. 11. — Altre violazioni in materia di imposte dirette e di imposta sul valore aggiunto
 
+1.
+                        
+                            
+                                Sono punite con la sanzione amministrativa da euro 250 a euro 2.000 le seguenti violazioni: (20) (21) 
+ 
+                            
+                            
+                                a)
+                                
+                                    omissione di ogni comunicazione prescritta dalla legge tributaria anche se non richiesta dagli uffici o dalla Guardia di finanza al contribuente o a terzi nell'esercizio dei poteri di verifica ed accertamento in materia di imposte dirette e di imposta sul valore aggiunto o invio di tali comunicazioni con dati incompleti o non veritieri; (1) (3) 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    mancata restituzione dei questionari inviati al contribuente o a terzi nell'esercizio dei poteri di cui alla precedente lettera a) o loro restituzione con risposte incomplete o non veritiere; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    inottemperanza all'invito a comparire e a qualsiasi altra richiesta fatta dagli uffici o dalla Guardia di finanza nell'esercizio dei poteri loro conferiti. (23)
+
 La sanzione prevista nel comma 1 si applica, salvo che il fatto non costituisca infrazione piu' grave, per il compenso di partite effettuato in violazione alle previsioni del codice civile ovvero in caso di mancata evidenziazione nell'apposito prospetto indicato negli articoli 3 e 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600. (20) (21)
 
 Per l'omissione o l'errata trasmissione dei dati delle fatture emesse e ricevute, prevista dall'articolo 21 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, si applica la sanzione amministrativa di euro 2 per ciascuna fattura, comunque entro il limite massimo di euro 1.000 per ciascun trimestre. La sanzione e' ridotta alla meta', entro il limite massimo di euro 500, se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza stabilita ai sensi del periodo precedente, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati.
@@ -659,6 +684,66 @@ Per l'omessa presentazione del modello di versamento contenente i dati relativi 
 ## - Titolo III DISPOSIZIONI COMUNI
 
 ## Art. 16. — Abrogazione di norme
+
+1.
+                        
+                            
+                                Sono abrogati: 
+ 
+                            
+                            
+                                a)
+                                
+                                    gli articoli da 41 a 49, 58, 61, primo comma, primo periodo, limitatamente alle parole "o del separato avviso di cui al terzo comma dell'articolo 58", e secondo periodo, ((73-bis, commi quarto e quinto)), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633; ((1))
+                                    
+                                
+                            
+                            
+                                b)
+                                
+                                    gli articoli da 46 a 55 e 57, ultimo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli da 92 a 96, 97, ad eccezione del sesto comma, e 98 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 8, commi dal quarto al nono, della legge 10 maggio 1976, n. 249, aggiunti dall'articolo 1 della legge 13 marzo 1980, n. 71; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    l'articolo 2, ad eccezione dei commi settimo e ottavo, della legge 26 gennaio 1983, n. 18; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    l'articolo 5, comma 11, del decreto-legge 27 aprile 1990, n. 90, convertito, con modificazioni, dalla legge 26 giugno 1990, n. 165; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    l'articolo 54, ad eccezione del comma 8, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    l'articolo 34, commi 2 e 3 del decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85.
 
 E' altresi' abrogata ogni altra disposizione in contrasto con il presente decreto.
 

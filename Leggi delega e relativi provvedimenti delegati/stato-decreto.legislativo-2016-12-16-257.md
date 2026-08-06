@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Leggi delega e relativi provvedimenti delegati
 vigenza_date: 2021-12-26
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:41:14Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -37,10 +37,166 @@ Al fine di ridurre la dipendenza dal petrolio e attenuare l'impatto ambientale n
 ## Art. 2. — Definizioni 
 (Attuazione dell'articolo 2, paragrafo 1, della direttiva 2014/94/UE)
 
+1.
+                        
+                            
+                                Ai fini del presente decreto, si intende per: 
+ 
+                            
+                            
+                                a)
+                                
+                                    combustibili alternativi: combustibili o fonti di energia che fungono, almeno in parte, da sostituti delle fonti fossili di petrolio nella fornitura di energia per il trasporto e che possono contribuire alla sua decarbonizzazione e migliorare le prestazioni ambientali del settore trasporti. I combustibili alternativi comprendono anche: 
+ 1) elettricita'; 
+ 2) idrogeno; 
+ 3) biocarburanti, quali definiti all'articolo 2, comma 1, lettera i) del decreto legislativo 3 marzo 2011, n. 28; 
+ 4) combustibili sintetici e paraffinici; 
+ 5) gas naturale, compreso il biometano, in forma gassosa, denominato gas naturale compresso, di seguito GNC, e liquefatta, denominato gas naturale liquefatto, di seguito GNL; 
+ 6) gas di petrolio liquefatto, di seguito denominato GPL; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    veicolo elettrico: un veicolo a motore dotato di un gruppo propulsore contenente almeno una macchina elettrica non periferica come convertitore di energia con sistema di accumulo di energia ricaricabile, che puo' essere ricaricato esternamente; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    punto di ricarica: un'interfaccia in grado di caricare un veicolo elettrico alla volta o sostituire la batteria di un veicolo elettrico alla volta; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    punto di ricarica di potenza standard: un punto di ricarica, che consente il trasferimento di elettricita' a un veicolo elettrico di potenza pari o inferiore a 22 kW, esclusi i dispositivi di potenza pari o inferiore a 3,7 kW, che sono installati in abitazioni private o il cui scopo principale non e' ricaricare veicoli elettrici, e che non sono accessibili al pubblico. Il punto di ricarica di potenza standard e' dettagliato nelle seguenti tipologie: 
+ 1) lenta = pari o inferiore a 7,4 kW; 
+ 2) accelerata = superiore a 7,4 kW e pari o inferiore a 22 kW; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    punto di ricarica di potenza elevata: un punto di ricarica che consente il trasferimento di elettricita' a un veicolo elettrico di potenza superiore a 22 kW. Il punto di ricarica di potenza elevata e' dettagliato nelle seguenti tipologie: 
+ 1) veloce: superiore a 22 kW e pari o inferiore a 50 kW; 
+ 2) ultra-veloce: superiore a 50 kW; 
+ ((e-bis): dispositivo di ricarica: dispositivo in grado di erogare il servizio di ricarica mediante uno o piu' punti di ricarica, comunemente denominato "colonnina di ricarica", o, in ambito domestico, "wallbox". 
+ e-ter): infrastruttura di ricarica: insieme di strutture, opere e impianti necessari alla realizzazione di aree di sosta dotate di uno o piu' punti di ricarica per veicoli elettrici. In particolare, l'infrastruttura di ricarica e' composta da uno o piu' dispositivi di ricarica e dalle relative interconnessioni elettriche. 
+ e-quater): stazione di ricarica: area adibita al servizio di ricarica di veicoli elettrici composta dagli stalli di sosta, dalle relative infrastrutture di ricarica nonche' dagli elementi architettonici e edilizi funzionali al servizio di ricarica. Laddove realizzata su area pubblica o aperta al pubblico, garantisce un accesso non discriminatorio a tutti gli utenti; una stazione di ricarica e' connessa alla rete di distribuzione di energia elettrica tramite un punto di connessione (POD) dotato di smart meter per la misura dell'energia elettrica complessivamente prelevata, inclusa quella eventualmente utilizzata per altri usi diversi dalla ricarica, e di quella eventualmente immessa.))
+                                    
+                                
+                            
+                            
+                                f)
+                                
+                                    fornitura di elettricita' lungo le coste: la fornitura di alimentazione elettrica alle infrastrutture di ormeggio a servizio delle navi adibite alla navigazione marittima o delle navi adibite alla navigazione interna ormeggiate, effettuata attraverso un'interfaccia standardizzata con la rete elettrica o con generatore elettrico isolato alimentato a gas naturale liquefatto - GNL o idrogeno; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    punto di ricarica o di rifornimento accessibile al pubblico: un punto di ricarica o di rifornimento per la fornitura di combustibile alternativo che garantisce un accesso non discriminatorio a tutti gli utenti. L'accesso non discriminatorio puo' comprendere condizioni diverse di autenticazione, uso e pagamento. A tal fine, si considera punto di ricarica aperto al pubblico: 
+ 1) un punto di ricarica la cui area di stazionamento e' accessibile al pubblico, anche mediante autorizzazione e pagamento di un diritto di accesso; 
+ 2) un punto di ricarica collegato a un sistema di autovetture condivise e accessibile a terzi, anche a seguito del pagamento del servizio di ricarica; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    punto di ricarica non accessibile al pubblico: 
+ 1) un punto di ricarica installato in un edificio residenziale privato o in una pertinenza di un edificio residenziale privato, riservato esclusivamente ai residenti; 
+ 2) un punto di ricarica destinato esclusivamente alla ricarica di veicoli in servizio all'interno di una stessa entita', installato all'interno di una recinzione dipendente da tale entita'; 
+ 3) un punto di ricarica installato in un'officina di manutenzione o di riparazione, non accessibile al pubblico; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    punto di rifornimento: un impianto di rifornimento per la fornitura di qualsiasi combustibile alternativo, ad eccezione del gas naturale liquefatto-GNL, mediante un'installazione fissa o mobile; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    punto di rifornimento per il gas naturale liquefatto-GNL: un impianto di rifornimento per la fornitura di gas naturale liquefatto-GNL, consistente in un impianto fisso o mobile, un impianto offshore o un altro sistema.
+
 ## - Titolo II QUADRO STRATEGICO NAZIONALE Capo I Disciplina generale
 
 ## Art. 3. — Disciplina del Quadro Strategico Nazionale 
 (Attuazione dell'articolo 3, paragrafi 1, 2, 3, 5 e 6 della direttiva 2014/94/UE)
+
+1.
+                        
+                            
+                                Il Quadro Strategico Nazionale, di cui all'allegato III, per lo sviluppo del mercato dei combustibili alternativi nel settore dei trasporti e la realizzazione della relativa infrastruttura prevede i seguenti elementi: 
+ 
+                            
+                            
+                                a)
+                                
+                                    una valutazione dello stato attuale e degli sviluppi futuri del mercato dei combustibili alternativi nel settore dei trasporti, anche alla luce del loro possibile utilizzo simultaneo e combinato, e dello sviluppo dell'infrastruttura per i combustibili alternativi, considerando eventualmente la continuita' transfrontaliera; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    gli obiettivi nazionali per la realizzazione dell'infrastruttura per i combustibili alternativi, nel rispetto dei requisiti minimi di cui all'articolo 4 per la fornitura di elettricita' per il trasporto, dei requisiti di cui all'articolo 5 per la fornitura di idrogeno per il trasporto stradale, dei requisiti di cui all'articolo 6 per la fornitura di gas naturale per il trasporto e dei requisiti di cui all'articolo 7 per la fornitura di gas di petrolio liquefatto per il trasporto. Questi obiettivi nazionali possono essere riveduti sulla base di una valutazione della domanda nazionale, regionale o a livello di Unione europea, pur garantendo il rispetto dei requisiti minimi dell'infrastruttura sopra indicati, con le procedure di cui al successivo comma 3; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    la valutazione della necessita' di installare punti di rifornimento per il gas naturale liquefatto-GNL nei porti all'esterno della rete centrale della TEN-T; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    la valutazione della necessita' di installare sistemi di fornitura di elettricita' negli aeroporti per l'utilizzo da parte degli aerei in stazionamento.
+
+2.
+                        
+                            
+                                Con il presente decreto e' adottato il Quadro Strategico Nazionale, di cui all'allegato III, articolato nelle seguenti sezioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    fornitura di elettricita' per il trasporto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    fornitura di idrogeno per il trasporto stradale; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    fornitura di gas naturale per il trasporto e per altri usi; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    fornitura di gas di petrolio liquefatto - GPL per il trasporto.
 
 La sezione di cui al comma 2, lettera a) del Quadro Strategico Nazionale, di cui all'allegato III, si compone di due sottosezioni.
 La prima sottosezione e' costituita dal Piano nazionale infrastrutturale per la ricarica dei veicoli alimentati ad energia elettrica - PNire, previsto dall'articolo 17-septies, del decreto-legge 22 giugno 2012, n. 83, convertito dalla legge 7 agosto 2012, n. 134. La seconda sottosezione e' costituita dalla valutazione della necessita' di fornitura di elettricita' alle infrastrutture di ormeggio nei porti marittimi e nei porti della navigazione interna e valutazione della necessita' di installare sistemi di fornitura di elettricita' negli aeroporti per l'utilizzo da parte degli aerei in stazionamento.
@@ -50,6 +206,31 @@ La sezione di cui al comma 2, lettera c) del Quadro Strategico Nazionale, di cui
 Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dello sviluppo economico, il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro dell'economia e delle finanze, previa intesa della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e' aggiornato il Quadro Strategico Nazionale di cui all'allegato III, ovvero sue singole sezioni e sottosezioni, secondo quanto stabilito dalle disposizioni di cui agli articoli 4, 5, 6 e 7 del presente decreto, con cadenza triennale. Lo stesso e' aggiornato con la medesima procedura anche in caso di significativi sviluppi tecnologici, di mutate condizioni di mercato anche con riferimento al contesto internazionale, o di sopravvenute esigenze di ordine economico, sociale e ambientale, tenendo anche conto delle singole componenti di fornitura. L'aggiornamento del Quadro Strategico Nazionale, di cui all'allegato III, tiene conto anche degli sviluppi tecnologici relativi alla fornitura di idrogeno per il trasporto.
 
 E' fatta salva la procedura prevista dall'articolo 17-septies, del decreto-legge 22 giugno 2012, n. 83, convertito dalla legge 7 agosto 2012, n. 134 per l'approvazione dell'aggiornamento del Piano nazionale infrastrutturale per la ricarica dei veicoli alimentati ad energia elettrica - PNire - di cui alla sezione a), prima sottosezione, del Quadro Strategico Nazionale. Restano fermi gli obiettivi e le priorita' di cui al capo IV-bis del decreto-legge 22 giugno 2012, n. 83, convertito dalla legge 7 agosto 2012, n. 134, e, in particolare, l'articolo 17-bis, commi 3 e 4.
+
+7.
+                        
+                            
+                                A sostegno della realizzazione degli obiettivi del Quadro Strategico Nazionale nelle sue varie articolazioni, sono adottate le seguenti misure: 
+ 
+                            
+                            
+                                a)
+                                
+                                    per la semplificazione delle procedure amministrative, come previste nel Titolo IV; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per promuovere la diffusione dei combustibili alternativi, come previste nel Titolo V; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    che possono promuovere la realizzazione dell'infrastruttura per i combustibili alternativi nei servizi di trasporto pubblico. Con decreto del Ministro delle infrastrutture e dei trasporti, previo parere della Conferenza unificata, sono adottate le linee guida per la redazione dei piani urbani per la mobilita' sostenibile - PUMS - tenendo conto dei principi previsti nel presente decreto.
 
 Il Quadro Strategico Nazionale, di cui all'allegato III, rispetta la vigente normativa dell'Unione europea in materia di protezione dell'ambiente e del clima. Le misure di sostegno all'infrastruttura per i combustibili alternativi, di cui al Titolo V, sono applicate nel rispetto delle norme sugli aiuti di Stato contenute nel Trattato sul funzionamento dell'Unione europea.
 
@@ -104,6 +285,31 @@ Entro il 31 dicembre 2025, e' realizzato un numero adeguato di punti di rifornim
 Al fine di rifornire i punti di rifornimento di cui ai commi 1, 2 e 4 di cui al presente articolo, nell'ambito della sezione c) del Quadro Strategico Nazionale, di cui all'allegato III del presente decreto, e' previsto un sistema di distribuzione adeguato per la fornitura di GNL nel territorio nazionale, comprese le strutture di carico per i veicoli cisterna di GNL, nonche' per la dotazione di infrastrutture di rifornimento lungo la rete autostradale e negli interporti. Al fine di assicurare quanto disposto dal presente comma, possono essere previste forme di cooperazione in raggruppamento con gli Stati membri confinanti, che sono soggette agli obblighi di cui all'articolo 20 del presente decreto.
 
 Ai sensi dell'articolo 15 del decreto legislativo 8 marzo 2006, n. 139, entro dodici mesi dalla data di entrata in vigore del presente decreto, e' adottata la norma tecnica di prevenzione incendi relativa agli impianti fissi di distribuzione carburante per autotrazione, alimentati da serbatoi fissi di gas naturale liquefatto con decreto del Ministero dell'interno, di concerto con il Ministero delle infrastrutture e dei trasporti.
+
+7.
+                        
+                            
+                                Secondo le modalita' di cui all'articolo 18, entro il 31 dicembre 2020, sono realizzati ulteriori punti di rifornimento per il GNC accessibili al pubblico, al fine garantire, secondo le esigenze del mercato, la circolazione dei veicoli alimentati a GNC su tutto il territorio nazionale, in particolare nelle aree dove le infrastrutture risultano carenti, negli agglomerati urbani e suburbani, in altre zone densamente popolate, nonche' nelle reti e secondo i seguenti ambiti individuati progressivamente: 
+ 
+                            
+                            
+                                a)
+                                
+                                    aree urbane e citta' metropolitane - poli e cintura - con priorita' nelle aree urbane che ricadono nelle citta' metropolitane, in particolare nelle aree provinciali che hanno superato il limite delle concentrazioni di PM10 per almeno 2 anni su 6 negli anni dal 2009 al 2014; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    citta' metropolitane, aree periferiche e altre aree urbane non rientranti nelle citta' metropolitane, strade extraurbane e statali; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    autostrade.
 
 In conformita' al comma 7, sono designati gli agglomerati urbani e suburbani, delle altre zone densamente popolate e delle reti, che, a seconda delle esigenze del mercato, sono dotati di punti di rifornimento per il GNC.
 
@@ -257,6 +463,31 @@ Per tutti gli impianti di distribuzione di carburanti stradali gia' esistenti al
 Per tutti gli impianti di distribuzione carburanti stradali esistenti al 31 dicembre 2017, che erogano nel corso del 2017 un quantitativo di benzina e gasolio superiore a 5 milioni di litri e che si trovano nel territorio di una delle province i cui capoluoghi hanno superato il limite delle concentrazioni di PM10 per almeno 2 anni su 6 negli anni dal 2009 al 2014 di cui all'allegato IV, le regioni prevedono l'obbligo di presentare entro il 31 dicembre 2020 un progetto, al fine di dotarsi di infrastrutture di ricarica elettrica nonche' di distribuzione di GNC o GNL, da realizzare nei successivi ventiquattro mesi dalla data di presentazione del progetto.
 
 In ambito autostradale gli obblighi di cui ai commi 3 e 4 del presente articolo e al comma 1, lettera c), dell'articolo 4, sono assolti dai concessionari autostradali, i quali entro il 31 dicembre 2018 presentano al concedente un piano di diffusione dei servizi di ricarica elettrica, di GNC e GNL garantendo un numero adeguato di punti di ricarica e di rifornimento lungo la rete autostradale e la tutela del principio di neutralita' tecnologica degli impianti. I suddetti concessionari sono impegnati, in caso di affidamento a terzi del servizio di ricarica, al rispetto delle procedure competitive di cui all'articolo11, comma 5-ter, della legge 23 dicembre 1992, n. 498.
+
+6.
+                        
+                            
+                                Gli obblighi di cui ai commi 1, 3 e 4 sono compatibili con altre forme di incentivazione e si applicano, fatta salva la sussistenza di una delle seguenti impossibilita' tecniche fatte valere dai titolari degli impianti di distribuzione e verificate e certificate dall'ente che rilascia la autorizzazione all'esercizio dell'impianto di distribuzione dei carburanti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    accessi e spazi insufficienti per motivi di sicurezza ai sensi della normativa antincendio, esclusivamente per gli impianti gia' autorizzati alla data di entrata in vigore del presente decreto; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    per il GNC lunghezza delle tubazioni per l'allacciamento superiore a 1000 metri tra la rete del gas naturale e il punto di stoccaggio del GNC e pressione della rete del gas naturale inferiore a 3 bar; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    distanza dal piu' vicino deposito di approvvigionamento del GNL via terra superiore a 1000 chilometri.
 
 Al fine di promuovere l'uso di carburanti a basso impatto ambientale nel settore dei trasporti, e' consentita l'apertura di nuovi impianti di distribuzione mono prodotto, ad uso pubblico, che erogano gas naturale, compreso il biometano, sia in forma compressa - GNC, sia in forma liquida - GNL, nonche' di nuovi punti di ricarica di potenza elevata almeno veloce di cui all'articolo 2, comma 1, lettera e), numero 1.
 

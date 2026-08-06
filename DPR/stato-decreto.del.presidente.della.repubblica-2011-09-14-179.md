@@ -8,8 +8,8 @@ codice_redazionale: 011G0221
 vigente: true
 source: normattiva-opendata
 collection: DPR
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:47:47Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -41,6 +41,38 @@ L'accordo, qualora abbia come parte un minore di eta' compresa tra i sedici e i 
 
 All'atto della sottoscrizione dell'accordo, sono assegnati allo straniero sedici crediti corrispondenti al livello A1 di conoscenza della lingua italiana parlata ed al livello sufficiente di conoscenza della cultura civica e della vita civile in Italia, secondo quanto previsto ai punti 1 e 2 dell'allegato B.
 
+4.
+                    
+                        
+                            Con l'accordo, lo straniero si impegna a: 
+ 
+                        
+                        
+                            a)
+                            
+                                acquisire un livello adeguato di conoscenza della lingua italiana parlata equivalente almeno al livello A2 di cui al quadro comune europeo di riferimento per le lingue emanato dal Consiglio d'Europa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                acquisire una sufficiente conoscenza dei principi fondamentali della Costituzione della Repubblica e dell'organizzazione e funzionamento delle istituzioni pubbliche in Italia; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                acquisire una sufficiente conoscenza della vita civile in Italia, con particolare riferimento ai settori della sanita', della scuola, dei servizi sociali, del lavoro e agli obblighi fiscali; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                garantire l'adempimento dell'obbligo di istruzione da parte dei figli minori.
+
 Lo straniero dichiara, altresi', di aderire alla Carta dei valori della cittadinanza e dell'integrazione di cui al decreto del Ministro dell'interno in data 23 aprile 2007, pubblicato nella Gazzetta Ufficiale n. 137 del 15 giugno 2007, e si impegna a rispettarne i principi.
 
 Con l'accordo, lo Stato si impegna a sostenere il processo di integrazione dello straniero attraverso l'assunzione di ogni idonea iniziativa in raccordo con le regioni e gli enti locali, che anche in collaborazione con i centri per l'istruzione degli adulti, di cui all'articolo 1, comma 632, della legge 27 dicembre 2006, n. 296, possono avvalersi delle organizzazioni del terzo settore di cui al decreto del Presidente del Consiglio dei Ministri in data 30 marzo 2001, pubblicato nella Gazzetta Ufficiale n. 188 del 14 agosto 2001, e delle organizzazioni dei datori di lavoro e dei lavoratori, nell'ambito delle rispettive competenze e nei limiti delle risorse finanziarie disponibili a legislazione vigente. Nell'immediato, lo Stato assicura allo straniero la partecipazione ad una sessione di formazione civica e di informazione sulla vita in Italia secondo le modalita' di cui all'articolo 3.
@@ -48,6 +80,24 @@ Con l'accordo, lo Stato si impegna a sostenere il processo di integrazione dello
 L'accordo ha la durata di due anni prorogabile di un altro anno.
 
 Non si fa luogo alla stipula dell'accordo ai fini del rilascio del permesso di soggiorno e, se stipulato, questo si intende adempiuto, qualora lo straniero sia affetto da patologie o da disabilita' tali da limitare gravemente l'autosufficienza o da determinare gravi difficolta' di apprendimento linguistico e culturale, attestati mediante una certificazione rilasciata da una struttura sanitaria pubblica o da un medico convenzionato con il Servizio sanitario nazionale.
+
+9.
+                    
+                        
+                            Non si procede alla sottoscrizione dell'accordo per: 
+ 
+                        
+                        
+                            a)
+                            
+                                i minori non accompagnati affidati ai sensi dell'articolo 2 della legge 4 maggio 1983, n. 184, e successive modificazioni, ovvero sottoposti a tutela, per i quali l'accordo e' sostituito dal completamento del progetto di integrazione sociale e civile di cui all'articolo 32, comma 1-bis, del testo unico; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le vittime della tratta di persone, di violenza o di grave sfruttamento, per le quali l'accordo e' sostituito dal completamento del programma di assistenza ed integrazione sociale di cui all'articolo 18 del testo unico.
 
 L'accordo decade di diritto qualora il questore disponga il rifiuto del rilascio, la revoca o il diniego di rinnovo del permesso di soggiorno, per carenza originaria o sopravvenuta dei requisiti di legge. Gli estremi del provvedimento di reiezione o revoca sono inseriti, a cura della questura, nell'anagrafe nazionale di cui all'articolo 9.
 
@@ -65,11 +115,54 @@ La mancata partecipazione alla sessione di formazione civica e di informazione d
 
 L'accordo e' articolato per crediti di ammontare proporzionale ai livelli di conoscenza della lingua italiana, della cultura civica e della vita civile in Italia certificati anche a seguito della frequenza con profitto di corsi o percorsi di istruzione, di formazione professionale o tecnica superiore, di studio universitario e di integrazione linguistica e sociale ovvero del conseguimento di diplomi o titoli comunque denominati aventi valore legale di titolo di studio o professionale. I crediti riconoscibili, oltre a quelli assegnati all'atto della sottoscrizione, sono indicati nell'allegato B che costituisce parte integrante del presente regolamento.
 
+2.
+                    
+                        
+                            I crediti di cui al comma 1 subiscono decurtazioni nella misura indicata nell'allegato C, che costituisce parte integrante del presente regolamento, in connessione con: 
+ 
+                        
+                        
+                            a)
+                            
+                                la pronuncia di provvedimenti giudiziari penali di condanna anche non definitivi, compresi quelli adottati a seguito di applicazione della pena su richiesta ai sensi dell'articolo 444 del codice di procedura penale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                l'applicazione anche non definitiva di misure di sicurezza personali previste dal codice penale o da altre disposizioni di legge; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'irrogazione definitiva di sanzioni pecuniarie di importo non inferiore a 10 mila euro, in relazione a illeciti amministrativi e tributari.
+
 I crediti assegnati all'atto della sottoscrizione dell'accordo vengono confermati, all'atto della verifica dell'accordo di cui all'articolo 6, nel caso in cui sia accertato rispettivamente il livello A1 di conoscenza della lingua italiana parlata ed il livello sufficiente di conoscenza della cultura civica e della vita civile in Italia; in caso contrario si provvede alle corrispondenti decurtazioni. Resta fermo che, qualora in sede di verifica sia accertato un livello di conoscenza superiore rispetto a quello minimo previsto rispettivamente ai punti 1 e 2 dell'allegato B, si provvede al riconoscimento dei crediti, aggiuntivi rispetto a quelli attribuiti all'atto della sottoscrizione, nella misura corrispondente al livello di conoscenza effettivamente accertato.
 
 ## Art. 5. — Modalita' di assegnazione e decurtazione dei crediti
 
 I crediti di cui all'allegato B sono assegnati sulla base della documentazione prodotta dallo straniero nel periodo di durata dell'accordo. In assenza di idonea documentazione, i crediti relativi alla conoscenza della lingua italiana, della cultura civica e della vita civile in Italia possono essere assegnati a seguito di un apposito test effettuato a cura dello sportello unico anche presso i centri per l'istruzione degli adulti, di cui all'articolo 1, comma 632, della legge 27 dicembre 2006, n. 296.
+
+2.
+                    
+                        
+                            La decurtazione dei crediti nei casi previsti dall'allegato C avviene: 
+ 
+                        
+                        
+                            a)
+                            
+                                quanto ai provvedimenti giudiziari di condanna e alle misure di sicurezza personali, sulla base degli accertamenti di ufficio attivati presso il casellario giudiziale e il casellario dei carichi pendenti, ai sensi degli articoli 43 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e 39 del testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale di anagrafe delle sanzioni amministrative dipendenti da reato e dai relativi carichi pendenti, di cui al decreto del Presidente della Repubblica 14 novembre 2002, n. 313; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                quanto alle sanzioni pecuniarie connesse a illeciti amministrativi e tributari, sulla base della documentazione acquisita con le modalita' previste dal citato decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
 ## Art. 6. — Verifica dell'accordo
 
@@ -81,6 +174,31 @@ Lo svolgimento del test anche in lingua tedesca oltre che in lingua italiana, pe
 In caso di permesso di soggiorno della durata di un anno, un mese prima della scadenza, si procede alla verifica della partecipazione alla sessione di formazione civica e di informazione di cui all'articolo 3. Qualora lo sportello unico accerti la mancata partecipazione alla sessione, procede alla decurtazione di quindici crediti, con rinvio di ogni ulteriore determinazione all'esito della verifica di cui al comma 1.
 
 L'inadempimento dell'obbligo di cui all'articolo 2, comma 4, lettera d), salva la prova di essersi, comunque, adoperato per garantirne l'adempimento, determina in ogni caso la perdita integrale dei crediti assegnati all'atto della sottoscrizione e di quelli successivamente conseguiti e la risoluzione dell'accordo per inadempimento, con produzione degli effetti di cui ai commi 7 e 8.
+
+5.
+                    
+                        
+                            All'esito delle attivita' di cui al comma 1, lo sportello unico procede all'assegnazione e decurtazione dei crediti secondo i criteri indicati negli allegati B e C e con le modalita' di cui all'articolo 5. La verifica si conclude con l'attribuzione dei crediti finali e l'assunzione di una delle seguenti determinazioni: 
+ 
+                        
+                        
+                            a)
+                            
+                                qualora il numero dei crediti finali sia pari o superiore alla soglia di adempimento, fissata in trenta crediti, purche' siano stati conseguiti il livello A2 della conoscenza della lingua italiana parlata e il livello di sufficienza della conoscenza della cultura civica e della vita civile in Italia, e' decretata l'estinzione dell'accordo per adempimento con rilascio del relativo attestato; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                qualora il numero dei crediti finali sia superiore a zero e inferiore alla soglia di adempimento ovvero non siano stati conseguiti i livelli della conoscenza della lingua italiana parlata, della cultura civica e della vita civile in Italia di cui alla lettera a), e' dichiarata la proroga dell'accordo per un anno alle medesime condizioni. Della proroga e' data comunicazione allo straniero; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                qualora il numero dei crediti finali sia pari o inferiore a zero, e' decretata la risoluzione dell'accordo per inadempimento, con gli effetti di cui ai commi 7 e 8.
 
 Le decisioni di cui alle lettere a) e c) del comma 5 sono assunte dal prefetto o da un suo delegato.
 

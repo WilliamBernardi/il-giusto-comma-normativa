@@ -8,8 +8,8 @@ codice_redazionale: 000G0192
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:42Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -23,11 +23,141 @@ Udito il parere n. 45/2000 del Consiglio di Stato, espresso nell'adunanza dalla 
 
 ## Art. 1. — Definizioni
 
+1.
+                    
+                        
+                            Nel presente regolamento si intendono per:
+
+                        
+                        
+                            a)
+                            
+                                testo unico: decreto legislativo 24 febbraio 1998, n. 58 "Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52";
+                            
+                        
+                        
+                            b)
+                            
+                                decreto euro: decreto legislativo 24 giugno 1998, n. 213 "Disposizioni per l'introduzione dell'euro nell'ordinamento nazionale a norma dell'art. 1, comma 1, della legge 17 dicembre 1997, n. 433";
+                            
+                        
+                        
+                            c)
+                            
+                                Ministro: Ministro del tesoro, del bilancio e della programmazione economica;
+                            
+                        
+                        
+                            d)
+                            
+                                Ministero: Ministero del tesoro, del bilancio e della programmazione economica;
+                            
+                        
+                        
+                            e)
+                            
+                                "societa' di gestione accentrata": le societa' di gestione aventi sede legale in Italia ovvero nell'Unione europea che svolgono in via prevalente o esclusiva servizi di gestione accentrata di strumenti finanziari;
+                            
+                        
+                        
+                            f)
+                            
+                                "societa' di gestione accentrata dei titoli di Stato": la societa' di gestione accentrata individuata in base al presente regolamento;
+                            
+                        
+                        
+                            g)
+                            
+                                "capitale": l'ammontare del capitale sociale della societa' di gestione accentrata interamente versato ed esistente;
+                            
+                        
+                        
+                            h)
+                            
+                                "sistemi": i sistemi di gestione accentrata di strumenti finanziari;
+                            
+                        
+                        
+                            i)
+                            
+                                "emittente": il Ministero;
+                            
+                        
+                        
+                            j)
+                            
+                                "intermediari": i soggetti che possono essere intestatari di conti presso le societa' di gestione accentrata e tramite i quali possono essere effettuate le attivita' di trasferimento degli strumenti finanziari oggetto di gestione accentrata e di esercizio dei relativi diritti patrimoniali;
+                            
+                        
+                        
+                            k)
+                            
+                                "strumenti finanziari": gli strumenti finanziari previsti dall'articolo 1, comma 2, del testo unico;
+                            
+                        
+                        
+                            l)
+                            
+                                "titoli": ogni documento, certificato o scrittura, anche in forma dematerializzata, rappresentativo di diritti su strumenti finanziari;
+                            
+                        
+                        
+                            m)
+                            
+                                "coupon stripping": l'operazione di separazione delle componenti cedolari dal valore di rimborso del titolo.
+
 ## Art. 2. — Individuazione delle societa' di gestione accentrata
 
 La societa' di gestione accentrata dei titoli di Stato viene individuata tra quelle autorizzate ai sensi dell'articolo 80, comma 9, del testo unico oppure che svolgono, in via prevalente o esclusiva, servizi di gestione accentrata di strumenti finanziari, purche' siano assoggettabili alla normativa sulla vigilanza prevista dall'articolo 82 del testo unico.
 
 Le societa' di gestione accentrata che intendono svolgere l'attivita' di gestione accentrata dei titoli di Stato e che rispondono ai criteri di cui al comma 3 del presente articolo e ai requisiti previsti dall'articolo 80, commi 4 e 6, del testo unico, inoltrano domanda al Ministero.
+
+3.
+                    
+                        
+                            Il Ministero individua la societa' di gestione accentrata dei titoli di Stato sulla base dei seguenti criteri, che dovranno risultare dallo statuto, dal regolamento dei servizi o da idonea documentazione:
+
+                        
+                        
+                            a)
+                            
+                                grado di patrimonializzazione, che comprenda un capitale non inferiore a quindici milioni di euro;
+                            
+                        
+                        
+                            b)
+                            
+                                struttura organizzativa, con particolare riferimento alle condizioni e modalita' di svolgimento delle attivita' di gestione accentrata, alla qualita' e tipologia dei servizi offerti ed al grado di trasparenza dei sistemi;
+                            
+                        
+                        
+                            c)
+                            
+                                operativita' con altre societa' di gestione accentrata;
+                            
+                        
+                        
+                            d)
+                            
+                                svolgimento di attivita' connesse e strumentali;
+                            
+                        
+                        
+                            e)
+                            
+                                eventuali costi del servizio per l'emittente e oneri per i partecipanti al sistema, nel rispetto di quanto previsto dall'articolo 81, comma 3, del testo unico;
+                            
+                        
+                        
+                            f)
+                            
+                                intermediari ammessi al sistema;
+                            
+                        
+                        
+                            g)
+                            
+                                impegno ad osservare, nelle ipotesi di cui all'articolo 85, comma 1, del testo unico, le disposizioni previste dallo stesso articolo e dai successivi articoli 86, 87 e 88.
 
 Il Ministero comunica l'esito del procedimento aperto con la domanda di cui al comma 2, entro il termine di sessanta giorni dalla data di ricevimento di tale domanda. Il predetto termine e' sospeso ove il Ministero richieda ulteriori informazioni, e, dalla data di ricezione delle stesse, decorre un nuovo termine di trenta giorni.
 
@@ -39,11 +169,81 @@ Il Ministero e' ammesso ai sistemi e puo' aprire, presso le societa' di gestione
 
 ## Art. 4. — Rapporti tra Ministero e societa' di gestione accentrata
 
+1.
+                    
+                        
+                            Il rapporto tra Ministero e societa' di gestione accentrata dei titoli di Stato e' regolato da una convenzione che in ogni caso deve prevedere:
+
+                        
+                        
+                            a)
+                            
+                                le modalita' di verifica dei saldi dei conti di cui al successivo articolo 6;
+                            
+                        
+                        
+                            b)
+                            
+                                la durata e le modalita' di rinnovo;
+                            
+                        
+                        
+                            c)
+                            
+                                le cause, le modalita' e i termini di recesso;
+                            
+                        
+                        
+                            d)
+                            
+                                le modalita' di svolgimento degli adempimenti di cui al comma 2 del presente articolo;
+                            
+                        
+                        
+                            e)
+                            
+                                le modalita' e i termini di invio, anche alla Banca d'Italia, delle informazioni relative alle movimentazioni giornaliere delle consistenze dei titoli di Stato accentrati;
+                            
+                        
+                        
+                            f)
+                            
+                                le modalita' e i termini di invio, anche alla Banca d'Italia, delle informazioni relative ai pagamenti da effettuare per i valori in scadenza;
+                            
+                        
+                        
+                            g)
+                            
+                                le modalita' e i termini di informazione al pubblico dei valori nominali dei titoli di Stato oggetto di coupon stripping;
+                            
+                        
+                        
+                            h)
+                            
+                                le modalita' per la cancellazione dei titoli oggetto di riacquisto a valere sulle disponibilita' del Fondo per l'ammortamento dei titoli di Stato e i termini di informazione al pubblico delle suddette operazioni.
+
 A decorrere dal termine previsto dall'articolo 7, comma 4, gli adempimenti svolti dalla Banca d'Italia come gestore accentrato dei titoli di Stato sono eseguiti dalla societa' di gestione accentrata dei titoli di Stato.
 
 La Banca d'Italia continua a svolgere il servizio di tesoreria relativo ai titoli di Stato in base alla normativa vigente.
 
 ## Art. 5. — Immissione nei sistemi di titoli non dematerializzati
+
+1.
+                    
+                        
+                            Gli intermediari di cui all'articolo 30 del decreto euro continuano a ritirare i titoli al portatore e nominativi, appartenenti a prestiti vigenti, secondo quanto previsto dal decreto ministeriale 31 luglio 1998 citato nelle premesse, che venissero presentati presso i loro sportelli dai possessori per la dematerializzazione. Gli intermediari stessi provvedono:
+
+                        
+                        
+                            a)
+                            
+                                alla trasformazione dei titoli stessi in iscrizioni contabili, inoltrandone le distinte alla societa' di gestione accentrata dei titoli di Stato per l'immissione nella gestione accentrata;
+                            
+                        
+                        
+                            b)
+                            
+                                all'invio dei titoli medesimi, unitamente alle distinte, alla Banca d'Italia, che previo accertamento della legittimita', procedera' ad annullarli e ad inviarli al Ministero e a trasmettere le relative informazioni alla societa' di gestione accentrata dei titoli di Stato.
 
 A seguito delle procedure di dematerializzazione di cui al precedente comma, la societa' di gestione accentrata dei titoli di Stato invia le informazioni sulle movimentazioni effettuate nel corso della giornata al Ministero e alla Banca d'Italia che, entro il giorno lavorativo successivo, verificano che il saldo dei conti accesi presso la societa' di gestione accentrata dei titoli di Stato coincida con la quantita' emessa di ciascun titolo di Stato, tenendo eventualmente conto di acquisti sul mercato e della residua circolazione di titoli non dematerializzati.
 

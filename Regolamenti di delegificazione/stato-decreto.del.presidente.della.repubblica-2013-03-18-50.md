@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-18;50
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti di delegificazione
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:25Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -40,19 +40,189 @@ La vigilanza sull'UNUCI continua ad essere esercitata dal Ministero della difesa
 
 Finalita' dell'Associazione
 
+1.
+                    
+                        
+                            L'UNUCI ha lo scopo di concorrere alla formazione morale e professionale del personale militare di ogni ruolo e grado delle categorie in congedo, nonche' alle connesse attivita' divulgative e informative, per il loro impiego nell'ambito delle forze di completamento delle unita' militari attive. A tal fine, svolge i seguenti compiti: 
+ 
+                        
+                        
+                            a)
+                            
+                                collabora con le competenti autorita' militari, anche su base convenzionale, all'addestramento e alla preparazione fisica e sportiva del citato personale, che presta adesione al reimpiego in servizio nelle forze di completamento; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                mantiene rapporti con organizzazioni internazionali fra ufficiali in congedo per lo svolgimento di programmi addestrativi per il pronto inserimento dei riservisti nelle formazioni militari, e opera in vari contesti internazionali anche con finalita' culturali e promozionali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                promuove i valori di difesa e sicurezza della Patria, la fedelta' alle istituzioni democratiche, rafforzando i vincoli di solidarieta' fra il mondo militare e la societa' civile; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                sensibilizza l'opinione pubblica sulle questioni della difesa e della sicurezza nazionale, sul ruolo e l'importanza dei riservisti, sulla cultura della sostenibilita' ambientale e sociale; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                fornisce il proprio apporto negli interventi di difesa e protezione civile; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                realizza, nell'ambito delle proprie disponibilita', assistenza morale e materiale nei confronti degli iscritti.
+
 ## Art. 3. — Modifiche statutarie
 
 Entro centoventi giorni dalla data di entrata in vigore del presente regolamento il consiglio nazionale, su proposta del consiglio direttivo, delibera le modifiche statutarie necessarie ai sensi del decreto del Presidente della Repubblica n. 361 del 2000, nonche' quelle volte a disciplinare l'organizzazione centrale e periferica dell'UNUCI, la composizione, le competenze, le modalita' di nomina e funzionamento, la convocazione, le deliberazioni e la durata degli organi di cui all'articolo 4, comprese le modalita' di partecipazione del rappresentante del Ministero della difesa al consiglio direttivo, nonche' i poteri, le attribuzioni, i requisiti, le modalita' di accesso e la durata delle cariche associative. Sulle sopra indicate modifiche statutarie e' acquisito il preventivo parere del Ministero della difesa, sentito il Ministero dell'economia e delle finanze. Successivamente le modifiche allo statuto sono apportate con le modalita' in esso determinate.
 
+2.
+                    
+                        
+                            Lo statuto disciplina altresi': 
+ 
+                        
+                        
+                            a)
+                            
+                                le categorie di soci ulteriori rispetto a quella dei soci ordinari nonche' i diritti e gli obblighi ad esse correlati; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                i criteri informatori e le modalita' di svolgimento delle attivita' di istituto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                limiti e modalita' di concessione di eventuali rimborsi spese da erogarsi in ragione dello svolgimento di incarichi associativi e di collaborazioni su base volontaria sia a livello centrale che periferico; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                la costituzione, l'organizzazione e le modalita' di funzionamento delle sezioni; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                i compiti di direzione e controllo degli organi centrali nei confronti delle sezioni, le modalita' di versamento delle entrate alla gestione nazionale e quelle di erogazione delle somme per le esigenze delle articolazioni territoriali; 
+
+                            
+                        
+                        
+                            f)
+                            
+                                i criteri di amministrazione del patrimonio complessivo, la cui titolarita' e' attribuita agli organi centrali, salvo specifica delega per la gestione alle sezioni territorialmente competenti.
+
 Con uno o piu' atti di attuazione dello statuto, adottati secondo le modalita' e i limiti definiti dallo statuto stesso, possono essere impartite le disposizioni discendenti di natura meramente esecutiva o attuativa ovvero, se necessario, di ulteriore dettaglio.
 
 ## Art. 4. — Organizzazione centrale, periferica e soci ordinari
+
+1.
+                    
+                        
+                            Gli organismi necessari all'organizzazione centrale dell'UNUCI sono: 
+ 
+                        
+                        
+                            a)
+                            
+                                il presidente nazionale; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il consiglio nazionale; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il consiglio direttivo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                il collegio dei sindaci; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                il collegio dei probiviri.
 
 Le articolazioni territoriali dell'UNUCI sono le delegazioni e le sezioni la cui organizzazione amministrativa e gestionale e' definita dallo Statuto in attuazione dei criteri di semplificazione e secondo i principi di diritto privato.
 
 Possono essere iscritti all'Associazione in qualita' di soci ordinari, gli ufficiali in congedo dell'Esercito, della Marina, dell'Aeronautica, dell'Arma dei carabinieri, del Corpo della guardia di finanza, dei Corpi ausiliari delle Forze armate della Croce rossa italiana, del Sovrano ordine militare di Malta, i cappellani militari, nonche' gli ufficiali dei disciolti Corpi, ad ordinamento militare, della polizia di Stato, degli agenti di custodia e della giustizia militare.
 
 ## Art. 5. — Entrate
+
+1.
+                    
+                        
+                            Le risorse finanziarie in entrata dell'UNUCI sono costituite da: 
+ 
+                        
+                        
+                            a)
+                            
+                                le quote annualmente versate dai soci, il cui importo e' determinato dal Consiglio nazionale su proposta del Consiglio direttivo; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                le rendite patrimoniali; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                i corrispettivi per servizi resi; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                donazioni, liberalita' e lasciti, previa accettazione espressa e deliberata dal Consiglio direttivo; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                entrate eventuali e diverse.
 
 ## Art. 6. — Patrimonio dell'ente
 

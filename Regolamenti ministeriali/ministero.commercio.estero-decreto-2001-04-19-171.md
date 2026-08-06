@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
 vigenza_date: 2003-08-16
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:38Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -25,6 +25,31 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della sezione cons
 ## Art. 1. — Oggetto
 
 Il presente regolamento stabilisce, ai sensi dell'articolo 12 della legge 7 agosto 1990, n. 241, i criteri e le modalita' per la concessione di contributi a fronte delle iniziative, previste dalla legge 26 febbraio 1992, n. 212, di collaborazione con i Paesi individuati annualmente con delibera della V Commissione del CIPE, in base all'articolo 22, comma 2, del decreto legislativo 31 marzo 1998, n. 143, che modifica l'articolo 1, comma 1, della predetta legge n. 212.
+
+2.
+                    
+                        
+                            Ai fini del presente regolamento si intende per:
+ 
+                        
+                        
+                            a)
+                            
+                                Ministero, il ((Ministero delle attivita' produttive));
+
+                            
+                        
+                        
+                            b)
+                            
+                                legge 212, la legge 26 febbraio 1992, n. 212;
+
+                            
+                        
+                        
+                            c)
+                            
+                                Sportello: lo Sportello regionale per l'internazionalizzazione delle attivita' produttive istituito ai sensi del decreto del Presidente della Repubblica 9 febbraio 2001, n. 161.
 
 ## Art. 2. — Tipologia delle iniziative finanziabili
 
@@ -41,6 +66,31 @@ Non sono ammesse al contributo le iniziative di natura meramente commerciale, ne
 
 ## Art. 3. — Beneficiari dei contributi
 
+1.
+                    
+                        
+                            I contributi possono essere concessi a favore di:
+ 
+                        
+                        
+                            a)
+                            
+                                enti pubblici e privati;
+
+                            
+                        
+                        
+                            b)
+                            
+                                associazioni di categoria, loro confederazioni e relative aziende di servizi;
+
+                            
+                        
+                        
+                            c)
+                            
+                                consorzi e societa' consortili, cooperative, societa' e imprese, con particolare riguardo alle piccole e medie imprese.
+
 L'iniziativa deve coinvolgere un soggetto proponente italiano, promotore e affidatario dell'iniziativa, responsabile del coordinamento e della direzione della stessa, ed almeno un partner dei Paesi di cui all'articolo 1 della legge. Ad ogni iniziativa possono essere associati ulteriori partner italiani o stranieri.
 
 ## Art. 4. — Domanda di contributo
@@ -49,9 +99,111 @@ L'iniziativa deve coinvolgere un soggetto proponente italiano, promotore e affid
 
 ((La)) Domanda deve essere presentata, a pena di irricevibilita', entro il 30 aprile di ogni anno, ((, salvo quanto stabilito dall'articolo 7-bis.)). Qualora la domanda sia trasmessa per mezzo raccomandata in plico postale, fa fede la data di spedizione dell'ufficio postale accettante. (1)
 
+3.
+                    
+                        
+                            La domanda deve contenere, a pena di inammissibilita', le seguenti dichiarazioni rese ai sensi del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestanti: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione del soggetto richiedente con specificazione del legale rappresentante ovvero del titolare della ditta individuale, nonche' l'assenza di stato di fallimento e di condanne penali e di procedimenti penali a carico del legale rappresentante ovvero del titolare; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                per le piccole e medie imprese la conformita' ai requisiti richiesti dall'attuale disciplina comunitaria ((. . .)); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                che l'iniziativa non usufruisce di altri contributi previsti dalla legge n. 212, e che la stessa ha o non ha fruito, di altro contributo pubblico di organismi nazionali o internazionali, con l'indicazione dell'ammontare dell'eventuale contributo; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                l'impegno del richiedente a comunicare al Ministero, entro quindici giorni dalla comunicazione della concessione del contributo, il numero di un apposito conto corrente, sul quale verranno effettuati i pagamenti delle spese relative all'iniziativa e versato l'eventuale anticipo richiesto nonche' l'impegno a tenere contabilita' separata per la gestione dell'iniziativa.
+
 ((
 
+3-bis.
+                    
+                        
+                            Sono esclusi dalla partecipazione alla procedura di concessione del contributo i soggetti: 
+ 
+                        
+                        
+                            a)
+                            
+                                che si trovano in stato di fallimento, di liquidazione coatta, di amministrazione controllata o di concordato preventivo o nei cui riguardi sia in corso un procedimento per la dichiarazione di una di tali situazioni; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nei cui confronti e' pendente procedimento per l'applicazione di una delle misure di prevenzione di cui all'articolo 3 della legge 27 dicembre 1956, n. 1423; il divieto opera se la pendenza del procedimento riguarda il titolare o il direttore, se si tratta di impresa individuale; il socio o il direttore, se si tratta di societa' in nome collettivo o in accomandita semplice, gli amministratori muniti di poteri di rappresentanza o il direttore, se si tratta di altro tipo di societa'; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                nei cui confronti e' stata pronunciata sentenza di condanna passata in giudicato, oppure di applicazione della pena su richiesta, ai sensi dell'articolo 444 del codice di procedura penale, per reati che incidono sull'affidabilita' morale e professionale; il divieto opera se la sentenza e' stata emessa nei confronti del titolare o del direttore se si tratta di impresa individuale; del socio o del direttore, se si tratta di societa' in nome collettivo o in accomandita semplice; degli amministratori muniti di potere di rappresentanza o del direttore, se si tratta di altro tipo di societa' o di consorzio. Resta salva in ogni caso l'applicazione dell'articolo 178 del codice penale e dell'articolo 445, comma 2, del codice di procedura penale; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                che hanno violato il divieto di intestazione fiduciaria posto dall'articolo 17 della legge 19 marzo 1990, n. 55; 
+
+                            
+                        
+                        
+                            e)
+                            
+                                che abbiano commesso irregolarita', definitivamente accertate, rispetto gli obblighi relativi al pagamento delle imposte e tasse, secondo la legislazione italiana.
+
 ))
+
+4.
+                    
+                        
+                            Alla domanda devono essere allegati, a pena di inammissibilita': 
+                        
+                        
+                            a)
+                            
+                                la scheda tecnica, di cui all'articolo 12, compilata in tutte le sue parti ((. . .)), contenente gli elementi necessari alla valutazione dell'iniziativa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                la scheda di partecipazione dei partner interessati, debitamente sottoscritta; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                l'atto costitutivo e lo statuto, ove esistenti; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                ogni altra documentazione attestante i requisiti necessari ai fini dell'assegnazione dei coefficienti di priorita' di cui all'articolo 7.
 
 ((
 
@@ -93,11 +245,123 @@ Il comitato redige la graduatoria ai sensi dell'articolo 7, entro il 31 ottobre 
 
 ## Art. 7. — Graduatoria e priorita'
 
+1.
+                    
+                        
+                            La graduatoria e' redatta sulla base dei seguenti punteggi:
+ 
+                        
+                        
+                            a)
+                            
+                                qualita' dell'iniziativa, riguardante la capacita' dei soggetti coinvolti ad attuare l'iniziativa, la compatibilita' dell'iniziativa con la realta' locale, la coerenza degli obiettivi, dei risultati e delle attivita' previste, la pertinenza, la congruita' e l'opportunita' della spesa (fino a 60 punti);
+
+                            
+                        
+                        
+                            b)
+                            
+                                iniziative aventi ad oggetto interventi di assistenza tecnica e/o consulenza diretta agli organi di Governo dei Paesi beneficiari nel settore dell'economia o in quelle delle infrastrutture (( (20 punti) ));
+
+                            
+                        
+                        
+                            c)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 13 MAGGIO 2003, N. 176));
+
+                            
+                        
+                        
+                            d)
+                            
+                                iniziative per le quali e' prevista una partecipazione finanziaria da parte di soggetti pubblici ((. . .)) del Paese beneficiario pari o superiore al 10 per cento del costo globale dell'iniziativa (( (10 punti) ));
+
+                            
+                        
+                        
+                            e)
+                            
+                                iniziative proposte da soggetti senza fini di lucro, da associazioni di categoria, consorzi, societa' consortili e cooperative, ovvero da piccole e medie imprese singolarmente (( (10 punti). ))
+                                    ((Detta priorita' non e' riconosciuta a soggetti che al momento della domanda non abbiano ancora presentato la relazione finale di altri progetti finanziati per lo stesso Paese ai sensi della legge n. 212 del 1992));
+
+                            
+                        
+                        
+                            f)
+                            
+                                iniziative complementari ad altre per le quali sono stati deliberati un finanziamento o una partecipazione societaria ai sensi della legge 24 aprile 1990 n. 100 e dell'articolo 2 della legge 2 gennaio 1991, n. 19 ((e dell'articolo 7 della legge 26 febbraio 1987, n. 49))
+                                    (( (10 punti) ));
+
+                            
+                        
+                        
+                            g)
+                            
+                                iniziative complementari ad (( . . . ))
+                                    (( altra analoga iniziativa finanziata )) da istituzioni internazionali multilaterali di cui l'Italia sia parte (( (10 punti) ));
+
+                            
+                        
+                        
+                            h)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 13 MAGGIO 2003, N. 176));
+
+                            
+                        
+                        
+                            i)
+                            
+                                
+                                    ((LETTERA ABROGATA DAL DECRETO 13 MAGGIO 2003, N. 176));
+
+                            
+                        
+                        
+                            l)
+                            
+                                progetti destinati a Paesi ritenuti di priorita' strategica in base alle linee direttive sulla attivita' promozionale tra quelli individuati annualmente dal CIPE (10 punti);
+
+                            
+                        
+                        
+                            m)
+                            
+                                progetti per i quali i promotori abbiano richiesto un contributo pari ad una percentuale inferiore al 30% del costo totale (10 punti);
+
+                            
+                        
+                        
+                            n)
+                            
+                                progetti cofinanziati da amministrazioni centrali, regionali e locali per una percentuale superiore al 10% del costo totale dell'iniziativa (10 punti).
+
 Sono escluse dalla graduatoria le iniziative che, relativamente al comma 1, lettera a), abbiano riportato un punteggio inferiore a quarantadue.
 
 La valutazione di cui al comma 1, lettera a) puo' essere condizionata ad un eventuale riduzione degli importi di spesa indicati nel preventivo, qualora gli stessi non risultino congrui.
 
 Il finanziamento massimo attribuibile ad una o piu' iniziative riguardanti lo stesso Paese non puo' assorbire un importo superiore al 20 per cento della dotazione finanziaria assegnata annualmente allo stato di previsione del Ministero per le iniziative di cui alla legge.
+
+5.
+                    
+                        
+                            Al fine di garantire una distribuzione equilibrata tra i vari Paesi dei benefici previsti dalla legge, il Comitato di valutazione provvede:
+ 
+                        
+                        
+                            a)
+                            
+                                in presenza, per lo stesso Paese, di iniziative similari che si concentrino su uno stesso specifico settore, ad inserire nella graduatoria esclusivamente l'iniziativa comparativamente piu' valida e, in presenza di ex-aequo, a richiedere la preferenza alle competenti autorita' del Paese beneficiario;
+
+                            
+                        
+                        
+                            b)
+                            
+                                in presenza di piu iniziative riguardanti lo stesso Paese, ad escludere dalla graduatoria le iniziative con minore punteggio che, se finanziate, comporterebbero il superamento dell'ammontare massimo per Paese indicato al comma 4.
 
 ((
 
@@ -125,9 +389,43 @@ La tipologia delle spese ammissibili e' determinata con provvedimento del dirige
 
 ## Art. 9. — Erogazione del contributo
 
+1.
+                    
+                        
+                            La liquidazione del contributo e' effettuata su presentazione del rendiconto finale delle spese sostenute, corredato:
+
+                        
+                        
+                            a)
+                            
+                                di una dettagliata relazione illustrativa delle azioni svolte e da un quadro di riepilogo/sintesi dove risultino correlati, per ciascuna delle azioni ed operazioni descritte, la relativa spesa e l'utilizzo delle risorse;
+                            
+                        
+                        
+                            b)
+                            
+                                di una tabella riepilogativa contenente, per ogni singola voce di spesa preventiva, i costi sostenuti con l'indicazione di ogni elemento utile per l'individuazione del documento contabile.
+
 Per le iniziative il cui costo globale risulti superiore a lire 1 miliardo (euro 516.456,8), il rendiconto finale di cui al comma 1 e' corredato da una certificazione redatta da una societa' di revisione contabile iscritta nel registro dei revisori contabili del Ministero della giustizia, accompagnata dal relativo certificato di iscrizione di data non antecedente a sei mesi. ((Detta certificazione deve attestare che tutte le spese relative al progetto finanziato risultano dalle scritture e dai libri contabili come effettivamente sostenute.))
 
 Il rendiconto relativo alle spese sostenute deve essere inviato al Ministero entro quattro mesi dalla data di conclusione dell'iniziativa.
+
+4.
+                    
+                        
+                            La rendicontazione delle spese sostenute si atterra' ai seguenti criteri:
+
+                        
+                        
+                            a)
+                            
+                                la spesa deve essere documentata con fatture originali, ricevute e simili, conformi alla normativa vigente in materia fiscale, accompagnate da certificazione bancaria attestante l'avvenuto pagamento sul conto corrente unico aperto appositamente per la realizzazione dell'iniziativa. Sono peraltro consentite eventuali fotocopie purche' autenticate secondo la normativa vigente;
+                            
+                        
+                        
+                            b)
+                            
+                                in alternativa la spesa puo' essere documentata con la distinta delle fatture o altri titoli di spesa, correlati al relativo titolo di pagamento. In tal caso la distinta finale di spesa deve essere solidalmente allegata ad una dichiarazione del legale rappresentante del beneficiario del contributo, resa ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. Tutta la documentazione originale va conservata agli atti dal beneficiario per i controlli che l'amministrazione riterra' opportuno effettuare.
 
 Le spese sostenute da soggetti che partecipano all'esecuzione delle attivita' dell'iniziativa, purche' rientranti fra le voci di spesa ammesse a contributo, devono essere incluse nel rendiconto da sottoporre al Ministero, evidenziando il soggetto che ha sostenuto la spesa.
 
@@ -163,6 +461,45 @@ Ove dalle stesse indagini emerga inequivocabilmente la non veridicita' di tutta 
 ))
 
 ## Art. 12. — Modelli
+
+1.
+                    
+                        
+                            Con provvedimento del dirigente generale della direzione generale competente in materia sono approvati i modelli relativi a:
+ 
+                        
+                        
+                            a)
+                            
+                                domanda di ammissione al contributo;
+
+                            
+                        
+                        
+                            b)
+                            
+                                scheda tecnica;
+
+                            
+                        
+                        
+                            c)
+                            
+                                scheda di partecipazione dei partner all'iniziativa;
+
+                            
+                        
+                        
+                            d)
+                            
+                                garanzia da prestare ai sensi dell'articolo 9, comma 5;
+
+                            
+                        
+                        
+                            e)
+                            
+                                rendiconto.
 
 ## Art. 13. — Norme transitorie
 

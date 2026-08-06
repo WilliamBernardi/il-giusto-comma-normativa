@@ -8,8 +8,8 @@ vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
 vigenza_date: 2018-04-12
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:31Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -35,7 +35,64 @@ Il presente decreto non si applica al prodotto tutelato da un sistema di qualita
 
 ## Art. 2. — Definizioni
 
+1.
+                    
+                        
+                            Ai fini del presente decreto si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                riso greggio: il seme della pianta di riso (Oryza sativa, L.) ancora rivestito dalle glumelle denominate «lolla»; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                riso semigreggio (o integrale): il prodotto ottenuto dalla sbramatura del riso greggio con completa asportazione della lolla; il processo di sbramatura puo' dare luogo a scalfitture del pericarpo; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                riso: il prodotto ottenuto dalla lavorazione del riso greggio con completa asportazione della lolla e successiva parziale o completa asportazione del pericarpo e del germe.
+
 ## Art. 3. — Classificazione del riso e denominazioni dell'alimento
+
+1.
+                    
+                        
+                            Il riso e' classificato nei seguenti gruppi: 
+ 
+                        
+                        
+                            a)
+                            
+                                riso a grani tondi ovvero riso tondo ovvero riso Originario; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                riso a grani medi ovvero riso medio; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                riso a grani lunghi A ovvero riso lungo A; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                riso a grani lunghi B ovvero riso lungo B.
 
 Le definizioni dei gruppi di cui al comma 1 e delle caratteristiche qualitative dei grani sono riportate nell'allegato 1.
 Per il riso semigreggio (o integrale), i parametri biometrici sono da considerarsi relativi ai grani del corrispondente riso lavorato.
@@ -45,6 +102,31 @@ La denominazione dell'alimento e' costituita dal nome di uno dei gruppi indicati
 I nomi delle varieta' di riso greggio non possono essere utilizzati sulla confezione se non figurano anche nella denominazione dell'alimento.
 
 Sulla confezione e' consentito l'utilizzo di nomi di fantasia ed e' consentito indicare che il prodotto possiede particolari caratteristiche, purche' tali indicazioni non siano in contrasto con la denominazione dell'alimento e non inducano in errore il consumatore sulla natura, sulla identita', sulla qualita', sulla composizione del prodotto, ai sensi degli articoli 7 e 36 del regolamento (UE) n. 1169/2011 del 25 ottobre 2011.
+
+6.
+                    
+                        
+                            Nella denominazione dell'alimento deve figurare: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione «semilavorato» o «integrale» o «semigreggio» se la lavorazione subita e' diversa da quella indicata all'articolo 2, comma 1, lettera c); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il particolare trattamento subito; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                il colore del pericarpo, se diverso dal normale colore biancastro e se dovuto alle caratteristiche ereditarie delle varieta' di riso greggio da cui il riso e' ottenuto.
 
 La denominazione dell'alimento «miscela di risi colorati» deve essere utilizzata per il prodotto ottenuto da due o piu' varieta' di riso greggio che hanno colori diversi del pericarpo e che inoltre possono singolarmente o in combinazione appartenere a gruppi diversi, avere subito lavorazioni diverse, avere subito trattamenti diversi.
 E' vietato miscelare risi bianchi e risi parboiled se nella miscela non sono presenti anche risi colorati.
@@ -70,13 +152,75 @@ Varieta' tradizionali
 
 Sono istituite le denominazioni dell'alimento elencate nell'allegato
 
+2.
+                    
+                        
+                            
+ 2. Le denominazioni dell'alimento di cui al comma 1 sono riservate al prodotto ottenuto dalla lavorazione: 
+ 
+                        
+                        
+                            a)
+                            
+                                della omonima varieta' di riso greggio descritta nel registro di cui all'articolo 6, tenuto presso l'Ente Nazionale Risi; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                di una varieta' di riso greggio che rispetta le caratteristiche indicate nell'allegato 2, elencata e descritta nel registro di cui all'articolo 6, tenuto presso l'Ente Nazionale Risi.
+
 Per il prodotto di cui al comma 2 devono essere utilizzate esclusivamente le denominazioni dell'alimento di cui al comma 1. Per tale prodotto non possono essere utilizzate le denominazioni dell'alimento di cui all'articolo 3, comma 1.
+
+4.
+                    
+                        
+                            Nella denominazione dell'alimento di cui al comma 1 deve figurare: 
+ 
+                        
+                        
+                            a)
+                            
+                                l'indicazione «semilavorato» o «integrale» o «semigreggio»; se la lavorazione subita e' diversa da quella indicata all'articolo 2, comma 1, lettera c); 
+
+                            
+                        
+                        
+                            b)
+                            
+                                il particolare trattamento subito.
 
 L'indicazione «classico» e' consentita, unicamente in associazione alla denominazione dell'alimento, per il prodotto di cui al comma 2, lettera a), per il quale e' garantita la tracciabilita' varietale. Con decreto del Ministro delle politiche agricole alimentari e forestali, di concerto con il Ministro dello sviluppo economico, da adottarsi entro novanta giorni dalla data di entrata in vigore del presente decreto, sono stabilite le condizioni per l'utilizzo dell'indicazione «classico» di cui al primo periodo e i criteri per la verifica della tracciabilita' varietale.
 
 ## Art. 6. — Registro varietale
 
 Presso l'Ente Nazionale Risi e' istituito un registro contenente l'elenco delle varieta' del riso greggio.
+
+2.
+                    
+                        
+                            Il registro e' costituito dall'elenco: 
+ 
+                        
+                        
+                            a)
+                            
+                                delle varieta' agronomiche, il cui nome puo' accompagnare la denominazione dell'alimento, ai sensi dell'articolo 3, comma 3, e descrizione morfologica dei loro granelli; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                delle varieta' agronomiche il cui prodotto puo' utilizzare la denominazione dell'alimento di cui all'articolo 5, comma 1, con i dati relativi alle caratteristiche del granello elencate nell'allegato 2 al presente decreto; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                delle descrizioni morfologiche dei granelli delle varieta' di cui alla lettera b).
 
 In sede di prima applicazione, l'Ente Nazionale Risi adotta gli elenchi e le descrizioni come definiti ai sensi delle disposizioni vigenti alla data di adozione del provvedimento di costituzione del registro dandone comunicazione preventiva ai costruttori delle varieta' e ai responsabili della conservazione in purezza.
 

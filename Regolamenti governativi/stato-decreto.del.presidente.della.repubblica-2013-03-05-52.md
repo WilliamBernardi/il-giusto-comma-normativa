@@ -7,8 +7,8 @@ urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2013-03-05;52
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti governativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:16Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -64,6 +64,32 @@ In prima applicazione del presente regolamento, nel rispetto della programmazion
 Eventuali sezioni aggiuntive di liceo ad indirizzo sportivo possono essere istituite qualora le risorse di organico annualmente assegnate lo consentano e sempreche' cio' non determini la creazione di situazioni di esubero di personale.
 
 ## Art. 4. — Strumenti e misure operative
+
+1.
+                    
+                        
+                            Al fine di assicurare il pieno raggiungimento delle finalita' istituzionali delle sezioni ad indirizzo sportivo, e' prevista la realizzazione di accordi e collaborazioni con soggetti qualificati.
+In particolare: 
+ 
+                        
+                        
+                            a)
+                            
+                                nell'ambito del sistema delle scuole statali, i competenti Uffici scolastici regionali stipulano apposite convenzioni con i Comitati regionali del CONI e del CIP e con le province in materia di rapporti tra le istituzioni scolastiche interessate ed i soggetti associati al CONI e al CIP o da essi riconosciuti, sulla base di linee programmatiche definite di concerto tra il Ministero dell'istruzione, dell'universita' e della ricerca e il Ministro con delega allo sport e concordate con il Comitato Olimpico Nazionale Italiano (CONI) e il Comitato Italiano Paralimpico (CIP). Dalla stipula delle convenzioni non possono derivare nuovi o maggiori oneri per la finanza pubblica; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                nell'ambito del sistema delle scuole paritarie, i gestori stipulano apposite convenzioni con i Comitati regionali del Comitato Olimpico Nazionale Italiano (CONI) e del Comitato Italiano Paralimpico (CIP) in materia di rapporti tra le istituzioni scolastiche interessate ed i soggetti associati al CONI e al CIP o da essi riconosciuti. Le suddette convenzioni devono essere conformi alle eventuali convenzioni di cui alla lettera a); 
+
+                            
+                        
+                        
+                            c)
+                            
+                                le istituzioni scolastiche, statali e paritarie, nelle quali sono attivate sezioni ad indirizzo sportivo, sia singolarmente che collegate in rete, possono stipulare convenzioni con universita' statali o private, ovvero con province, comuni, citta' metropolitane, istituzioni, enti, associazioni o agenzie operanti sul territorio che intendano dare il loro apporto alla realizzazione di specifici obiettivi legati alla formazione e all'attivita' sportiva. Dalla stipula delle convenzioni non possono derivare nuovi o maggiori oneri per la finanza pubblica.
 
 ## Art. 5. — Regioni a statuto speciale e 
  province autonome di Trento e di Bolzano

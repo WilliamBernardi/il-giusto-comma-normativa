@@ -7,8 +7,8 @@ urn: urn:nir:ministero.politiche.agricole.alimentari.e.forestali:decreto:2013-02
 vigente: true
 source: normattiva-opendata
 collection: Regolamenti ministeriali
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:42:41Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO
@@ -29,6 +29,38 @@ Udito il parere del Consiglio di Stato espresso nell'adunanza della Sezione cons
 Il presente regolamento disciplina il procedimento di rilascio e rinnovo dell'autorizzazione all'esercizio di impianti di acquacoltura in mare posti ad una distanza superiore ad un chilometro dalla costa, ferme restando le funzioni di controllo in corso di attivita' di competenza delle autorita' sanitarie.
 
 ## Art. 2. — Definizioni
+
+1.
+                    
+                        
+                            Ai fini del presente regolamento si intende per: 
+ 
+                        
+                        
+                            a)
+                            
+                                impianto di acquacoltura in mare posto ad una distanza superiore ad un chilometro dalla costa: l'impianto di acquacoltura collocato in misura prevalente in relazione alla superficie interessata oltre un chilometro dalla costa; 
+
+                            
+                        
+                        
+                            b)
+                            
+                                Direzione Generale: Ministero delle politiche agricole alimentari e forestali - Direzione generale della pesca marittima e dell'acquacoltura; 
+
+                            
+                        
+                        
+                            c)
+                            
+                                Regione: Regione territorialmente competente in base al luogo ove si colloca l'impianto di acquacoltura a mare. In caso di impianti collocati su aree di confine di competenza di piu' Regioni, si considera Regione territorialmente competente quella dove l'impianto e' collocato in misura prevalente in relazione alla superficie interessata; 
+
+                            
+                        
+                        
+                            d)
+                            
+                                Compartimento marittimo: Compartimento marittimo territorialmente competente in base al luogo ove si colloca l'impianto di acquacoltura a mare. In caso di impianti collocati su aree di confine di competenza di piu' Compartimenti, si considera territorialmente competente quella dove l'impianto e' collocato in misura prevalente in relazione alla superficie interessata.
 
 ## Art. 3. — Rilascio dell'autorizzazione
 

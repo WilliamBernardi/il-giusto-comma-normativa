@@ -8,8 +8,8 @@ codice_redazionale: 003G0257
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:30Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO LEGISLATIVO
@@ -24,6 +24,25 @@ Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del 
 Sulla proposta del Ministro per le politiche comunitarie e del Ministro del lavoro e delle politiche sociali, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, della salute, delle attivita' produttive e per gli affari regionali;
 
 ## Art. 1.
+
+1.
+                    
+                        
+                            All'articolo 89, comma 2, del decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni, di seguito denominato «decreto legislativo», sono apportate le seguenti modifiche:
+ 
+                        
+                        
+                            a)
+                            
+                                alla lettera a) dopo le parole: «36, comma 8-ter,», sono inserite le seguenti: «36-bis, commi 5, 6; 36-ter; 36-quater, commi 5 e 6; 36-quinquies, comma 2,»;
+
+                            
+                        
+                        
+                            b)
+                            
+                                dopo la lettera b) e' aggiunta la seguente:
+ «b-bis) con l'arresto fino a tre mesi o con l'ammenda da euro 258 a euro 1.032 per la violazione degli articoli 36-bis, commi 1, 2, 3, 4 e 7, 36-ter, 36-quater, commi 1, 3 e 4, 36-quinquies, comma 1.».
 
 All'articolo 1, primo comma, del decreto del Presidente della Repubblica 7 gennaio 1956, n. 164, sono aggiunte, in fine, le seguenti parole: «, nonche' dalle disposizioni del decreto legislativo 19 settembre 1994, n. 626, e successive modificazioni.».
 

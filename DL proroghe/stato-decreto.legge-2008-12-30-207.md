@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: DL proroghe
 vigenza_date: 2025-01-01
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:39:27Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO-LEGGE
@@ -89,9 +89,61 @@ Le facolta' di cui all'articolo 3, comma 106, della legge 24 dicembre 2007, n. 2
 
 ((
 
+1.
+                        
+                            
+                                All'articolo 10-bis, comma 5, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, sono apportate le seguenti modificazioni:
+
+                            
+                            
+                                a)
+                                
+                                    al primo periodo, le parole: "con la partecipazione di regioni, enti locali, autonomie funzionali e loro associazioni," sono soppresse;
+                                
+                            
+                            
+                                b)
+                                
+                                    al terzo periodo, le parole: "partecipanti alla societa'" sono soppresse e le parole: "in questa" sono sostituite dalle seguenti: "nella societa'";
+                                
+                            
+                            
+                                c)
+                                
+                                    al quinto periodo, le parole: "31 dicembre 2008" sono sostituite dalle seguenti: "30 giugno 2009".
+
 ))
 
 ## Art. 7-bis. — Criteri e parametri di misurabilita' dell'azione amministrativa
+
+1.
+                        
+                            
+                                Con decreto del Presidente del Consiglio dei Ministri, da adottare entro il 31 luglio 2009, su proposta del Ministro per la pubblica amministrazione e l'innovazione di concerto con il Ministro dell'economia e delle finanze, sentite le organizzazioni sindacali maggiormente rappresentative, vengono definiti criteri e parametri di misurabilita' dei risultati dell'azione amministrativa da applicare ai fini dell'erogazione di trattamento economico accessorio al personale delle amministrazioni, di cui all'articolo 67, commi 2 e 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, sulla base dei seguenti principi:
+
+                            
+                            
+                                a)
+                                
+                                    correlazione diretta e significativa con l'impegno e la rilevanza delle prestazioni rese, ponderate sul piano qualitativo e quantitativo;
+                                
+                            
+                            
+                                b)
+                                
+                                    correlazione con i livelli di innovazione, snellimento e semplificazione dell'azione amministrativa;
+                                
+                            
+                            
+                                c)
+                                
+                                    correlazione con i carichi di lavoro dell'ufficio o sede di appartenenza da definire in base ad apposite e oggettive rilevazioni e con il miglioramento dei servizi resi;
+                                
+                            
+                            
+                                d)
+                                
+                                    dimensione individuale del contributo o apporto dato alla realizzazione degli obiettivi dell'ufficio.
 
 ((
 
@@ -151,6 +203,23 @@ dovere e della criminalita' organizzata )), nonche' requisiti
 ## Art. 12-bis. — (( Modifiche alla legge 26 luglio 1975, n. 354 ))
 
 ((
+
+1.
+                        
+                            
+                                Alla legge 26 luglio 1975, n. 354, sono apportate le seguenti modificazioni:
+
+                            
+                            
+                                a)
+                                
+                                    all'articolo 18, il primo comma e' sostituito dal seguente: "I detenuti e gli internati sono ammessi ad avere colloqui e corrispondenza con i congiunti e con altre persone, nonche' con il garante dei diritti dei detenuti, anche al fine di compiere atti giuridici";
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 67, primo comma, dopo la lettera l), e' aggiunta la seguente: "l-bis) i garanti dei diritti dei detenuti comunque denominati".
 
 ))
 
@@ -255,6 +324,43 @@ All'articolo 2, comma 2, del decreto-legge 3 agosto 2007, n. 117, convertito, co
 
 ((
 
+1-bis.
+                        
+                            
+                                Al codice della nautica da diporto, di cui al decreto legislativo 18 luglio 2005, n. 171, sono apportate le seguenti modificazioni:
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 53, dopo il comma 1, e' inserito il seguente:
+ "1-bis. Chiunque assume o ritiene il comando o la condotta o la direzione nautica di un'unita' da diporto in stato di ubriachezza o sotto l'effetto di altre sostanze inebrianti o stupefacenti, salva l'applicazione della sanzione della sospensione della patente nautica di cui all'articolo 40, comma 2, lettera a), del regolamento di cui al decreto del Ministro delle infrastrutture e dei trasporti 29 luglio 2008, n. 146, e' soggetto alla sanzione amministrativa del pagamento di una somma da 2.066 euro a 8.263 euro; la sanzione e' raddoppiata nel caso di comando o condotta di una nave da diporto";
+
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 53, comma 6, le parole: "comma 1" sono sostituite dalle seguenti: "commi 1 e 1-bis";
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 53, dopo il comma 6 e' aggiunto il seguente:
+ "6-bis. Le modalita' e gli strumenti di accertamento dello stato di ubriachezza, nonche' i limiti di tolleranza del tasso alcolemico sono determinati con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro del lavoro, della salute e delle politiche sociali";
+
+                                
+                            
+                            
+                                d)
+                                
+                                    nel titolo V, dopo l'articolo 57 e' aggiunto il seguente:
+ "Art. 57-bis (Vendita e somministrazione di bevande alcoliche.
+Inquinamento acustico). - 1. Le regioni disciplinano, con proprio provvedimento, la vendita e la somministrazione di bevande alcoliche in mare durante la stagione balneare, tenendo in maggiore considerazione le aree interessate da intenso traffico diportistico, allo scopo di prevenire la realizzazione di sinistri dovuti all'abuso di tali bevande.
+ 2. Con lo stesso provvedimento di cui al comma 1 e' disciplinato l'utilizzo di diffusori altoparlanti sui mezzi nautici durante la stagione balneare, allo scopo di contrastare il fenomeno dell'inquinamento acustico".
+
 ))
 
 ## Art. 25. — Canoni per l'utilizzo dell'infrastruttura ferroviaria nazionale
@@ -262,6 +368,28 @@ All'articolo 2, comma 2, del decreto-legge 3 agosto 2007, n. 117, convertito, co
 All'articolo 17, comma 10, del decreto legislativo 8 luglio 2003, n. 188, come da ultimo modificato dall'articolo 17 del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31, le parole: «e comunque non oltre il 31 dicembre 2008» sono sostituite dalle seguenti: «e comunque non oltre il 31 dicembre 2009».
 
 ## Art. 26. — Proroghe convenzioni Tirrenia
+
+1.
+                        
+                            
+                                PERIODO SOPPRESSO DAL D.L. 25 SETTEMBRE 2009, N.135, CONVERTITO CON MODIFICAZIONI DALLA L. 20 NOVEMBRE 2009, N. 166. PERIODO SOPPRESSO DAL D.L. 25 SETTEMBRE 2009, N.135, CONVERTITO CON MODIFICAZIONI DALLA L. 20 NOVEMBRE 2009, N. 166. Entro il 31 dicembre 2013, senza nuovi o maggiori oneri a carico della finanza pubblica, ed al fine di proseguire l'adeguamento dell'assetto organizzativo e funzionale del Corpo delle capitanerie di porto - Guardia costiera in modo da renderlo conforme alle nuove esigenze derivanti dalla completa liberalizzazione del settore del cabotaggio marittimo nonche' al mutato quadro ordinamentale e conseguire obiettivi di razionalizzazione e maggiore efficienza operativa, su proposta del Ministro delle infrastrutture e dei trasporti, con regolamento adottato ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, sentito il Ministro della difesa per quanto di competenza, si provvede: 
+                            
+                            
+                                a)
+                                
+                                    alla redazione di un testo unico delle disposizioni concernenti i compiti e le funzioni attribuiti al Corpo dalle disposizioni normative vigenti al fine di realizzare una semplificazione, razionalizzazione e snellimento delle stesse;
+                                
+                            
+                            
+                                b)
+                                
+                                    ad adeguare la struttura organizzativa centrale e periferica del Corpo al nuovo quadro istituzionale e dei rapporti per delineare un assetto rispondente ai maggiori impegni soprattutto in materia di sicurezza marittima in ambito dell'Unione europea ed internazionale nonche' per realizzare una corrispondenza con i livelli di governo regionale e, a tal fine, ripartire le funzioni di coordinamento, ispettive e di controllo, svolte da strutture regionali ed interregionali del Corpo da quelle operative di vigilanza e controllo e amministrative, attribuite alle Capitanerie di porto e agli uffici dipendenti;
+                                
+                            
+                            
+                                c)
+                                
+                                    ad adeguare l'assetto ordinativo ai vari livelli gerarchici e degli organici per accrescere l'efficacia dell'organizzazione centrale e periferica del Corpo, privilegiando la sua componente operativa, allo scopo di potenziare gli assetti diretti a garantire la sicurezza in mare e nei porti anche mediante flessibilita' organizzativa sottesa ad esigenze operative, da conseguire con atti amministrativi. (14) (16) (11a) ((23))
 
 ---------------
                             AGGIORNAMENTO (14)
@@ -288,6 +416,23 @@ Ai fini della prosecuzione dei contratti di servizio e degli accordi in essere, 
 
 ((
 
+1-bis.
+                        
+                            
+                                All'articolo 25 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, sono apportate le seguenti modificazioni:
+
+                            
+                            
+                                a)
+                                
+                                    al comma 1, secondo periodo, dopo le parole: "di concerto con il Ministro delle infrastrutture e dei trasporti," sono inserite le seguenti: "da emanare entro quarantacinque giorni dalla data di entrata in vigore della legge di conversione del presente decreto," e dopo le parole: "si provvede" sono inserite le seguenti: "all'individuazione della quota parte da destinare all'acquisto di nuovo materiale rotabile per il trasporto pubblico regionale e locale e";
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, il terzo periodo e' soppresso e l'ultimo periodo e' sostituito dal seguente: "Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro delle infrastrutture e dei trasporti, da emanare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, e' individuata la destinazione delle risorse per i diversi contratti".
+
 ))
 
 ## Art. 28. — Diritti aeroportuali
@@ -300,6 +445,86 @@ All'articolo 18, comma 1, lettera b), del decreto-legge 31 dicembre 2007, n. 248
 
 In funzione dell'andamento infortunistico del settore dell'autotrasporto, con decreto da adottare ai sensi dell'articolo 3, comma 1, del decreto legislativo 23 febbraio 2000, n. 38, i tassi di premio INAIL, per le imprese con dipendenti, sono ridotti dell'importo di 42 milioni di euro annui, a decorrere dall'anno 2009.
 Al fine di garantire il rispetto degli equilibri programmati dei saldi di finanza pubblica e' soppressa l'autorizzazione di spesa di cui all'articolo 45, comma 1, lettera b), della legge 23 dicembre 1999, n. 488. Per il solo anno 2009, a titolo sperimentale ed al fine di conseguire elementi di valutazione per gli aggiornamenti di cui all'articolo 3, comma 2, del decreto legislativo 23 febbraio 2000, n. 38, i tassi di premio sono ulteriormente ridotti nel limite massimo di 91 milioni di euro, dei quali 11 milioni destinati alle imprese artigiane del settore dell'autotrasporto di merci, a seguito del versamento all'entrata del bilancio dello Stato delle somme di cui all'articolo 2, comma 1, del decreto-legge 23 ottobre 2008, n. 162, convertito, con modificazioni, dalla legge 22 dicembre 2008, n. 201, che per il corrispondente importo restano acquisite all'entrata per la necessaria compensazione sui saldi di finanza pubblica. Con il decreto di cui al primo periodo e' altresi' stabilito, per l'anno 2009, il differimento, per il settore dell'autotrasporto, non oltre il 16 maggio, del termine del 16 febbraio per il versamento dei premi assicurativi.
+
+1-ter.
+                        
+                            
+                                All'articolo 75 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, sono apportate le seguenti modifiche: 
+ 
+                            
+                            
+                                a)
+                                
+                                    il comma 2 e' sostituito dal seguente: 
+ "2. L'accertamento di cui al comma 1 puo' riguardare singoli veicoli o gruppi di esemplari dello stesso tipo di veicolo ed ha luogo mediante visita e prova da parte dei competenti uffici delle direzioni generali territoriali del Dipartimento per i trasporti terrestri e del trasporto intermodale del Ministero delle infrastrutture e dei trasporti, con le modalita' stabilite con decreto dallo stesso Ministero. Con il medesimo decreto e' indicata la documentazione che l'interessato deve esibire a corredo della domanda di accertamento"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 3, sono inseriti i seguenti: 
+ "3-bis. Il Ministro delle infrastrutture e dei trasporti stabilisce con propri decreti norme specifiche per l'approvazione nazionale dei sistemi, componenti ed entita' tecniche, nonche' le idonee procedure per la loro installazione quali elementi di sostituzione o di integrazione di parti dei veicoli, su tipi di autovetture e motocicli nuovi o in circolazione. I sistemi, componenti ed entita' tecniche, per i quali siano stati emanati i suddetti decreti contenenti le norme specifiche per l'approvazione nazionale degli stessi, sono esentati dalla necessita' di ottenere l'eventuale nulla osta della casa costruttrice del veicolo di cui all'articolo 236, secondo comma, del regolamento di cui al decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, salvo che sia diversamente disposto nei decreti medesimi. 
+ 3-ter. Qualora le norme di cui al comma 3-bis si riferiscano a sistemi, componenti ed entita' tecniche oggetto di direttive comunitarie, ovvero di regolamenti emanati dall'Ufficio europeo per le Nazioni Unite recepite dal Ministero delle infrastrutture e dei trasporti, le prescrizioni di approvazione nazionale e di installazione sono conformi a quanto previsto dalle predette direttive o regolamenti. 
+ 3-quater. Gli accertamenti relativi all'approvazione nazionale di cui al comma 3-bis sono effettuati dai competenti uffici delle direzioni generali territoriali del Dipartimento per i trasporti terrestri e per il trasporto intermodale del Ministero delle infrastrutture e dei trasporti".
+
+1-quater.
+                        
+                            
+                                Alla legge 15 gennaio 1992, n. 21, sono apportate le seguenti modificazioni: 
+ 
+                            
+                            
+                                a)
+                                
+                                    l'articolo 3 e' sostituito dal seguente: 
+ "Art. 3 (Servizio di noleggio con conducente). - 1. Il servizio di noleggio con conducente si rivolge all'utenza specifica che avanza, presso la rimessa, apposita richiesta per una determinata prestazione a tempo e/o viaggio. 
+ 2. Lo stazionamento dei mezzi deve avvenire all'interno delle rimesse o presso i pontili di attracco. 
+ 3. La sede del vettore e la rimessa devono essere situate, esclusivamente, nel territorio del comune che ha rilasciato l'autorizzazione"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo l'articolo 5, e' inserito il seguente: 
+ "Art. 5-bis (Accesso nel territorio di altri comuni). - 1. Per il servizio di noleggio con conducente i comuni possono prevedere la regolamentazione dell'accesso nel loro territorio o, specificamente, all'interno delle aree a traffico limitato dello stesso, da parte dei titolari di autorizzazioni rilasciate da altri comuni, mediante la preventiva comunicazione contenente, con autocertificazione, l'osservanza e la titolarita' dei requisiti di operativita' della presente legge e dei dati relativi al singolo servizio per cui si inoltra la comunicazione e/o il pagamento di un importo di accesso"; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 8, il comma 3 e' sostituito dal seguente: 
+ "3. Per poter conseguire e mantenere l'autorizzazione per il servizio di noleggio con conducente e' obbligatoria la disponibilita', in base a valido titolo giuridico, di una sede, di una rimessa o di un pontile di attracco situati nel territorio del comune che ha rilasciato l'autorizzazione"; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 11, i commi 3 e 4 sono sostituiti dai seguenti: 
+ "3. Nel servizio di noleggio con conducente, esercitato a mezzo di autovetture, e' vietata la sosta in posteggio di stazionamento su suolo pubblico nei comuni ove sia esercito il servizio di taxi. In detti comuni i veicoli adibiti a servizio di noleggio con conducente possono sostare, a disposizione dell'utenza, esclusivamente all'interno della rimessa. I comuni in cui non e' esercito il servizio taxi possono autorizzare i veicoli immatricolati per il servizio di noleggio con conducente allo stazionamento su aree pubbliche destinate al servizio di taxi. Ai veicoli adibiti a servizio di noleggio con conducente e' consentito l'uso delle corsie preferenziali e delle altre facilitazioni alla circolazione previste per i taxi e gli altri servizi pubblici. 
+ 4. Le prenotazioni di trasporto per il servizio di noleggio con conducente sono effettuate presso la rimessa. L'inizio ed il termine di ogni singolo servizio di noleggio con conducente devono avvenire alla rimessa, situata nel comune che ha rilasciato l'autorizzazione, con ritorno alla stessa, mentre il prelevamento e l'arrivo a destinazione dell'utente possono avvenire anche nel territorio di altri comuni. Nel servizio di noleggio con conducente e' previsto l'obbligo di compilazione e tenuta da parte del conducente di un "foglio di servizio" completo dei seguenti dati: 
+ a) fogli vidimati e con progressione numerica; 
+ b) timbro dell'azienda e/o societa' titolare della licenza. La compilazione dovra' essere singola per ogni prestazione e prevedere l'indicazione di: 
+ 1) targa veicolo; 
+ 2) nome del conducente; 
+ 3) data, luogo e km. di partenza e arrivo; 
+ 4) orario di inizio servizio, destinazione e orario di fine servizio; 
+ 5) dati del committente. Tale documentazione dovra' essere tenuta a bordo del veicolo per un periodo di due settimane"; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    dopo l'articolo 11, e' inserito il seguente: 
+ "Art. 11-bis (Sanzioni). - 1. Fatto salvo quanto previsto dagli articoli 85 e 86 del decreto legislativo 30 aprile 1992, n. 285, e dalle rispettive leggi regionali, l'inosservanza da parte dei conducenti di taxi e degli esercenti il servizio di noleggio con conducente di quanto disposto dagli articoli 3 e 11 della presente legge e' punita: 
+ a) con un mese di sospensione dal ruolo di cui all'articolo 6 alla prima inosservanza; 
+ b) con due mesi di sospensione dal ruolo di cui all'articolo 6 alla seconda inosservanza; 
+ c) con tre mesi di sospensione dal ruolo di cui all'articolo 6 alla terza inosservanza; 
+ d) con la cancellazione dal ruolo di cui all'articolo 6 alla quarta inosservanza.". (3) (4) (7) (25) ((26))
 
 All'articolo 11, comma 5, della legge 23 dicembre 1992, n. 498, come modificato dall'articolo 2, comma 85, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286, e successive modificazioni, la lettera c) e' sostituita dalla seguente: 
 "c) provvedere, nel caso di concessionari che non sono amministrazioni aggiudicatrici, agli affidamenti a terzi di lavori nel rispetto delle disposizioni di cui agli articoli 142, comma 4, e 253, comma 25, del codice di cui al decreto legislativo 12 aprile 2006, n. 163; ".
@@ -321,6 +546,24 @@ All'articolo 5, comma 2, del regolamento di cui al decreto del Ministro delle in
 Le quote dei limiti di impegno, autorizzati dall'articolo 13, comma 1, della legge 1o agosto 2002, n. 166, e successivi rifinanziamenti, decorrenti dall'anno 2006 e non utilizzate al 31 dicembre 2008, costituiscono economie di bilancio e sono reiscritte nella competenza degli esercizi successivi a quelli terminali dei rispettivi limiti.
 
 I contributi pluriennali, autorizzati dall'articolo 1, comma 78, della legge 23 dicembre 2005, n. 266, e dall'articolo 1, comma 977, della legge 27 dicembre 2006, n. 296, decorrenti dall'anno 2007 e non utilizzati entro il 31 dicembre 2008, sono mantenuti in bilancio nel conto dei residui, per essere utilizzati nell'esercizio finanziario 2009.
+
+1-quinquiesdecies.
+                        
+                            
+                                Nelle more del procedimento volto a dare attuazione alle norme contenute nella direttiva 2007/66/CE del Parlamento europeo e del Consiglio, dell'11 dicembre 2007: 
+ 
+                            
+                            
+                                a)
+                                
+                                    all'articolo 1-ter, comma 1, del decreto-legge 23 ottobre 2008, n. 162, convertito, con modificazioni, dalla legge 22 dicembre 2008, n. 201, le parole: "30 marzo 2009" sono sostituite dalle seguenti: "30 aprile 2010"; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    LETTERA ABROGATA DAL D.LGS. 18 APRILE 2016, N. 50.
 
 -------------
                             AGGIORNAMENTO (3)
@@ -470,6 +713,41 @@ E' abrogato il comma 8 dell'articolo 1 della legge 12 luglio 2006, n. 228, di co
 
 All'articolo 4, comma 9, del decreto-legge 3 giugno 2008, n. 97, convertito, con modificazioni, dalla legge 2 agosto 2008, n. 129, le parole: "2009-2010" sono sostituite dalle seguenti: "2010-2011".
 
+2-ter.
+                        
+                            
+                                Al decreto legislativo 14 gennaio 2008, n. 21, sono apportate le seguenti modifiche:
+
+                            
+                            
+                                a)
+                                
+                                    all'articolo 4, comma 1, la parola: "105" e' sostituita dalla seguente: "100";
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 4, comma 2, le parole: "80" e: "25" sono sostituite, rispettivamente, dalle seguenti: "90" e: "10";
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 4, comma 3, nell'alinea, la parola: "25" e' sostituita dalla seguente: "10" e la lettera c) e' abrogata;
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 4, comma 4, sono aggiunti, in fine, i seguenti periodi: "Con lo stesso decreto possono essere stabilite anche ulteriori modalita' per definire l'attribuzione dei punteggi nei casi in cui non possono essere utilizzati in tutto o in parte gli elementi di cui al comma 3. Il Ministro ed i singoli atenei, per quanto di competenza, provvedono alla adeguata valorizzazione della lode ottenuta dagli studenti nella valutazione finale dell'esame di Stato";
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 5, comma 1, le parole: "scolastica statale o paritaria" sono soppresse.
+
 Al fine di garantire la massima efficacia e tempestivita' degli interventi in favore della ricerca industriale, ivi compresi quelli cofinanziati dai fondi strutturali, le convenzioni stipulate dal Ministero dell'istruzione, dell'universita' e della ricerca con gli istituti bancari per la gestione degli interventi di cui al decreto legislativo 27 luglio 1999, n. 297, possono essere prorogate fino alla stipula di nuove convenzioni a seguito dell'espletamento di una nuova procedura di gara e comunque non oltre il (( 31 dicembre 2010 )).
 
 ## - CAPO XIII BENI E ATTIVITA' CULTURALI
@@ -516,6 +794,23 @@ Resta fermo quanto previsto dall'articolo 74, comma 6, del decreto-legge 25 giug
 
 Il divieto di cui all'articolo 1, comma 132, della legge 30 dicembre 2004, n. 311, e' prorogato anche per gli anni successivi al 2008.
 
+6-bis.
+                        
+                            
+                                All'articolo 6, comma 4-ter, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, sono apportate le seguenti modificazioni: 
+
+                            
+                            
+                                a)
+                                
+                                    ovunque ricorrano, le parole: "4 milioni di euro per ciascuno degli anni dal 2012 al 2019" sono sostituite dalle seguenti: "8 milioni di euro per ciascuno degli anni dal 2012 al 2015"; 
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo le parole: "si provvede" sono inserite le seguenti: "per l'importo complessivamente corrispondente all'entita' del Fondo di cui al comma 4-bis".
+
 All'articolo 79, comma 1-sexies, lettera a), del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, al secondo periodo, le parole: "l'Agenzia delle entrate mette a disposizione del SSN" sono sostituite dalle seguenti: "entro il 15 marzo di ogni anno l'Agenzia delle entrate, il Ministero del lavoro, della salute e delle politiche sociali e l'INPS mettono a disposizione del SSN".
 
 Al fine di proseguire l'integrale utilizzo delle risorse comunitarie relative ai Programmi operativi per la scuola 2007/2013 - Obiettivo Convergenza, il Fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183, e' autorizzato ad anticipare, nei limiti delle risorse disponibili, su richiesta del Ministero dell'istruzione, dell'universita' e della ricerca, le quote dei contributi comunitari e statali previste per il biennio 2007-2008.
@@ -528,6 +823,23 @@ Le disposizioni dell'articolo 36 della legge 27 dicembre 2002, n. 289, cosi' com
 All'articolo 8, comma 1, lettera c), terzo periodo, del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dalla legge 28 febbraio 2008, n. 31, le parole: "31 dicembre 2008" sono sostituite dalle seguenti: "30 giugno 2009".
 
 All'articolo 3, comma 112, della legge 24 dicembre 2007, n. 244, le parole: "31 dicembre 2008" sono sostituite dalle seguenti: "31 dicembre 2009".
+
+10.
+                        
+                            
+                                Il potere di adozione da parte dei Ministeri degli atti applicativi delle riduzioni degli assetti organizzativi di cui all'articolo 74 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e' differito al 31 maggio 2009, ferma la facolta' per i predetti Ministeri di provvedere alla riduzione delle dotazioni organiche con decreto del Presidente del Consiglio dei Ministri, da adottare entro il medesimo termine. Conseguentemente, al fine di consentire il rispetto del termine di cui al primo periodo, semplificando il procedimento di organizzazione dei Ministeri, all'articolo 4 del decreto legislativo 30 luglio 1999, n. 300, sono apportate le seguenti modificazioni: 
+
+                            
+                            
+                                a)
+                                
+                                    al comma 4, dopo le parole: "dei relativi compiti" sono inserite le seguenti: ", nonche' la distribuzione dei predetti uffici tra le strutture di livello dirigenziale generale,"; 
+                                
+                            
+                            
+                                b)
+                                
+                                    dopo il comma 4, e' inserito il seguente: "4-bis. La disposizione di cui al comma 4 si applica anche in deroga alla eventuale distribuzione degli uffici di livello dirigenziale non generale stabilita nel regolamento di organizzazione del singolo Ministero.".
 
 Al fine di assicurare alla regione Friuli-Venezia Giulia previsioni finanziare certe per il bilancio di previsione relativo al triennio 2009-2011, le disposizioni di cui all'articolo 2, comma 5, della legge 27 dicembre 2007, n. 244, e successive modificazioni, sono prorogate per l'anno 2011 nella misura di 30 milioni di euro.
 Gli interventi in favore della minoranza slovena di cui all'articolo 16 della legge 23 febbraio 2001, n. 38, sono prorogati per l'anno 2008 e conseguentemente e' autorizzata la spesa di un milione di euro per l'anno 2008, da assegnare alla regione Friuli-Venezia Giulia.
@@ -563,6 +875,23 @@ A decorrere dal 1° febbraio 2009, nel comma 2 dell'articolo 12 del decreto-legg
 
 Le convenzioni di cui all'articolo 3, comma 1, della legge 26 novembre 1993, n. 489, inerenti alla gestione delle residue funzioni statali in materia di sostegno alle attivita' produttive, nonche' alle imprese colpite dalle eccezionali avversita' atmosferiche e dagli eventi alluvionali del novembre 1994, possono essere prorogate, per motivi di pubblico interesse, non oltre il 31 dicembre 2010 con una riduzione di almeno il 10 per cento delle relative commissioni. (10) (13)
 
+16-duodecies.
+                        
+                            
+                                All'articolo 32 della legge 27 luglio 1978, n. 392, sono apportate le seguenti modificazioni: 
+
+                            
+                            
+                                a)
+                                
+                                    al secondo comma, dopo le parole: "aumento del canone" sono inserite le seguenti: ", per i contratti stipulati per durata non superiore a quella di cui all'articolo 27,"; 
+                                
+                            
+                            
+                                b)
+                                
+                                    al terzo comma, sono aggiunte, in fine, le seguenti parole: "ed a quelli in corso al momento dell'entrata in vigore del limite di aggiornamento di cui al secondo comma del presente articolo".
+
 Al fine di consentire la conclusione entro tre mesi delle procedure afferenti la stipula di convenzioni per lo svolgimento di attivita' socialmente utili (ASU) nonche' per l'attuazione di politiche attive del lavoro finalizzate alla stabilizzazione occupazionale dei lavoratori impiegati in ASU e nelle disponibilita' dei comuni della Regione siciliana da almeno un triennio, e' autorizzata la spesa di 55 milioni di euro a decorrere dal 2009. Per gli anni 2009, 2010 e 2011, la spesa fa carico alle risorse preordinate nel bilancio dello Stato ai sensi dei decreti del Presidente del Consiglio dei Ministri 5 giugno e 1o agosto 2008, con utilizzazioni dell'autorizzazione di spesa di cui all'articolo 5, comma 4, del decreto-legge 27 maggio 2008, n. 93, convertito, con modificazioni, dalla legge 24 luglio 2008, n. 126, e successive modificazioni. Dall'anno 2012 si provvede ai sensi dell'articolo 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468, e successive modificazioni. (3)
 
 Al fine di potenziare l'efficienza e l'efficacia dell'azione dell'Amministrazione autonoma dei monopoli di Stato a tutela del gioco legale e responsabile nelle more della sua trasformazione in Agenzia fiscale, possono essere conferiti nell'ambito della medesima Amministrazione autonoma, con esclusione dal computo dell'incarico di direttore generale, fino a due incarichi di livello dirigenziale, nonche' fino a due incarichi di livello dirigenziale generale a persone di particolare e comprovata qualificazione professionale, anche in deroga ai limiti percentuali previsti dall'articolo 19, commi 5-bis e 6, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni. I predetti incarichi, da conferire su posti individuati con apposito decreto del Ministro dell'economia e delle finanze, sono da considerare aggiuntivi rispetto a quelli risultanti dalla dotazione organica dell'Amministrazione. Allo stesso fine l'Amministrazione autonoma dei monopoli di Stato e' altresi' autorizzata ad avvalersi, d'intesa con il Ministero dell'economia e delle finanze, di personale dei ruoli del predetto Ministero gia' in servizio nei soppressi Dipartimenti provinciali del tesoro, del bilancio e della programmazione economica, Ragionerie provinciali dello Stato e Direzioni provinciali dei servizi vari. Agli oneri derivanti dal presente comma, pari a 1 milione di euro a decorrere dal 2009, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2009-2011, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2009, allo scopo utilizzando l'accantonamento relativo al medesimo Ministero.
@@ -597,6 +926,23 @@ Il Ministro dell'economia e delle finanze e' autorizzato ad apportare con propri
 
 All'articolo 20 del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, il comma 3-ter e' sostituito dal seguente: 
 "3-ter. Il requisito della rappresentanza parlamentare indicato dall'articolo 153, comma 2, della legge 23 dicembre 2000, n. 388, non e' richiesto per le imprese e per le testate di quotidiani o periodici che risultano essere giornali od organi di partiti o movimenti politici, che alla data del 31 dicembre 2005 abbiano gia' maturato il diritto ai contributi di cui all'articolo 3, comma 10, della legge 7 agosto 1990, n. 250, e successive modificazioni".
+
+2.
+                        
+                            
+                                All'articolo 1 della legge 5 agosto 1981, n. 416, e successive modificazioni, sono apportate le seguenti modificazioni: 
+
+                            
+                            
+                                a)
+                                
+                                    al quarto comma, il primo periodo e' sostituito dal seguente: "Le azioni aventi diritto di voto o le quote possono essere intestate a societa' per azioni, in accomandita per azioni o a responsabilita' limitata, purche' la partecipazione di controllo di dette societa' sia intestata a persone fisiche o a societa' direttamente o indirettamente controllate da persone fisiche"; 
+                                
+                            
+                            
+                                b)
+                                
+                                    il sesto comma e' sostituito dal seguente: "Qualora la partecipazione di controllo di cui al quarto comma sia intestata a societa' fiduciarie, il requisito ivi previsto del controllo diretto o indiretto da parte di persone fisiche si intende riferito ai fiducianti, in quanto soggetti effettivamente titolari delle azioni o quote medesime. In tal caso la societa' fiduciaria e' tenuta, ai fini del presente articolo, a comunicare i nominativi dei fiducianti all'Autorita' per le garanzie nelle comunicazioni ai fini e per gli effetti dell'articolo 1, comma 6, lettera a), numero 5), della legge 31 luglio 1997, n. 249".
 
 All'articolo 44 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, sono aggiunti, in fine, i seguenti commi: 
 "1-bis. Fermi restando gli stanziamenti complessivi, che costituiscono tetto di spesa ai sensi del comma 1, le erogazioni sono destinate prioritariamente ai contributi diretti e, per le residue disponibilita', alle altre tipologie di agevolazioni, da ricondurre nel limite delle stesse disponibilita'. 
@@ -636,11 +982,122 @@ In attesa della approvazione parlamentare del disegno di legge recante delega al
 
 Il termine di cui all'articolo 2, comma 110, della legge 24 dicembre 2007, n. 244, e successive modificazioni, e' prorogato al 30 novembre 2009. All'onere derivante dall'attuazione del presente comma, valutato in 1.500.000 euro per l'anno 2009, si provvede mediante corrispondente riduzione della dotazione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
 
+7-ter.
+                        
+                            
+                                Al regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono apportate le seguenti modificazioni: 
+
+                            
+                            
+                                a)
+                                
+                                    all'articolo 2, comma 1, le parole: "31 luglio" sono sostituite dalle seguenti: "30 settembre"; 
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 2, comma 2, la parola: "settimo" e' sostituita dalla seguente: "nono"; 
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 3, comma 1, le parole: ", dell'imposta regionale sulle attivita' produttive" sono soppresse; 
+                                
+                            
+                            
+                                d)
+                                
+                                    all'articolo 3, comma 2, dopo le parole: "22 dicembre 1986, n. 917," sono inserite le seguenti: "dai soggetti tenuti alla presentazione della dichiarazione ai fini dell'imposta regionale sulle attivita' produttive," e le parole: "anche in forma unificata," sono soppresse; 
+                                
+                            
+                            
+                                e)
+                                
+                                    all'articolo 4, comma 3-bis, la parola: "marzo" e' sostituita dalla seguente: "luglio"; 
+                                
+                            
+                            
+                                f)
+                                
+                                    all'articolo 5, comma 1, la parola: "settimo" e' sostituita dalla seguente: "nono" e la parola: "sette" e' sostituita dalla seguente: "nove"; 
+                                
+                            
+                            
+                                g)
+                                
+                                    all'articolo 5, comma 4, la parola: "settimo" e' sostituita dalla seguente: "nono"; 
+                                
+                            
+                            
+                                h)
+                                
+                                    all'articolo 5-bis, comma 1, la parola: "settimo" e' sostituita dalla seguente: "nono"; 
+                                
+                            
+                            
+                                i)
+                                
+                                    all'articolo 5-bis, comma 2, la parola: "settimo" e' sostituita dalla seguente: "nono"; 
+                                
+                            
+                            
+                                l)
+                                
+                                    all'articolo 8, comma 1, le parole: "31 luglio" sono sostituite dalle seguenti: "30 settembre" e le parole: "La trasmissione della dichiarazione in via telematica e' effettuata entro il mese di novembre da parte dei soggetti indicati nel comma 11 del medesimo articolo 3." sono soppresse.
+
 Resta in ogni caso fermo il potere regolamentare di cui al comma 136 dell'articolo 3 della legge 23 dicembre 1996, n. 662.
+
+7-quinquies.
+                        
+                            
+                                Al regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164, sono apportate le seguenti modificazioni: 
+
+                            
+                            
+                                a)
+                                
+                                    agli articoli 16 e 17 la parola: "25", ovunque ricorra, e' sostituita dalla seguente: "30"; 
+                                
+                            
+                            
+                                b)
+                                
+                                    all'articolo 19, comma 1, le parole: "corrisposta nel" e le parole: "o la rata di pensione corrisposta nel" sono sostituite dalle seguenti: "di competenza del" e le parole: "allo stesso mese" sono sostituite dalle seguenti: "alle stesse retribuzioni"; 
+                                
+                            
+                            
+                                c)
+                                
+                                    all'articolo 19, comma 2, le parole: "nel mese di luglio" sono sostituite dalle seguenti: "sulla retribuzione di competenza del mese di luglio".
 
 Per l'anno 2009, i dipendenti dei CAF ovvero i professionisti abilitati nonche' i sostituti d'imposta, nell'ambito delle attivita' di assistenza fiscale di cui agli articoli 34, comma 4, e 37, comma 2, del decreto legislativo 9 luglio 1997, n. 241, possono effettuare entro il 15 luglio 2009 la trasmissione in via telematica all'Agenzia delle entrate delle dichiarazioni presentate ai sensi dell'articolo 13 del regolamento di cui al decreto del Ministro delle finanze 31 maggio 1999, n. 164. Restano comunque fermi i termini ordinari di trasmissione delle dichiarazioni nelle ipotesi di comunicazione in via telematica del risultato finale delle dichiarazioni.
 
 All'articolo 32, comma 7-bis, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, il quinto periodo e' soppresso.
+
+7-octies.
+                        
+                            
+                                All'articolo 2 del decreto-legge 16 settembre 2008, n. 143, convertito, con modificazioni, dalla legge 13 novembre 2008, n. 181, come modificato dal comma 21-ter dell'articolo 27 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, sono apportate le seguenti modificazioni: 
+
+                            
+                            
+                                a)
+                                
+                                    al comma 3-bis, sono premesse le seguenti parole: "Entro trenta giorni dalla data di entrata in vigore della presente disposizione,"; 
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 7, alinea, la parola: "annualmente" e' soppressa e le parole da: "fino a una percentuale" fino a: "da destinare" sono sostituite dalle seguenti: "le quote delle risorse intestate "Fondo unico giustizia", anche frutto di utili della loro gestione finanziaria, fino ad una percentuale non superiore al 30 per cento relativamente alle sole risorse oggetto di sequestro penale o amministrativo, disponibili per massa, in base a criteri statistici e con modalita' rotativa, da destinare mediante riassegnazione"; 
+                                
+                            
+                            
+                                c)
+                                
+                                    il comma 7-quater e' sostituito dal seguente: "7-quater. Con decreto del Ministro dell'economia e delle finanze, di concerto con i Ministri dell'interno e della giustizia, la percentuale di cui all'alinea del comma 7 puo' essere elevata fino al 50 per cento in funzione del progressivo consolidamento dei dati statistici".
 
 ((COMMA ABROGATO DAL D.LGS. 24 MARZO 2025, N. 33)).
 
@@ -728,6 +1185,31 @@ I dati personali presenti nelle banche dati costituite sulla base di elenchi tel
 
 All'articolo 161, comma 1, del decreto legislativo 30 giugno 2003, n. 196, le parole da: "tremila euro a diciottomila euro" fino alla fine del comma sono sostituite dalle seguenti: "da seimila euro a trentaseimila euro".
 
+3.
+                        
+                            
+                                L'articolo 162 del decreto legislativo 30 giugno 2003, n. 196, e' cosi' modificato:
+
+                            
+                            
+                                a)
+                                
+                                    al comma 1, le parole: "da cinquemila euro a trentamila euro" sono sostituite dalle seguenti: "da diecimila euro a sessantamila euro";
+                                
+                            
+                            
+                                b)
+                                
+                                    al comma 2, le parole: "da cinquecento euro a tremila euro" sono sostituite dalle seguenti: "da mille euro a seimila euro";
+                                
+                            
+                            
+                                c)
+                                
+                                    dopo il comma 2, sono aggiunti, in fine, i seguenti:
+ "2-bis. In caso di trattamento di dati personali effettuato in violazione delle misure indicate nell'articolo 33 o delle disposizioni indicate nell'articolo 167 e' altresi' applicata in sede amministrativa, in ogni caso, la sanzione del pagamento di una somma da ventimila euro a centoventimila euro. Nei casi di cui all'articolo 33 e' escluso il pagamento in misura ridotta.
+ 2-ter. In caso di inosservanza dei provvedimenti di prescrizione di misure necessarie o di divieto di cui, rispettivamente, all'articolo 154, comma 1, lettere c) e d), e' altresi' applicata in sede amministrativa, in ogni caso, la sanzione del pagamento di una somma da trentamila euro a centottantamila euro.".
+
 All'articolo 162-bis, comma 1, del decreto legislativo 30 giugno 2003, n. 196, le parole: ", che puo' essere aumentata" fino alla fine del comma sono soppresse.
 
 All'articolo 163, comma 1, del decreto legislativo 30 giugno 2003, n. 196, le parole: "da diecimila euro a sessantamila euro" sono sostituite dalle seguenti: "da ventimila euro a centoventimila euro" e le parole: "e con la sanzione amministrativa accessoria" fino alla fine del comma sono soppresse.
@@ -741,6 +1223,23 @@ Dopo l'articolo 164 del decreto legislativo 30 giugno 2003, n. 196, e' inserito 
 4. Le sanzioni di cui al presente Capo possono essere aumentate fino al quadruplo quando possono risultare inefficaci in ragione delle condizioni economiche del contravventore.".
 
 All'articolo 165, comma 1, del decreto legislativo 30 giugno 2003, n. 196, le parole: "161, 162 e 164" sono sostituite dalle seguenti: "del presente Capo" ed e' aggiunto, in fine, il seguente periodo: "La pubblicazione ha luogo a cura e spese del contravventore.".
+
+9.
+                        
+                            
+                                L'articolo 169 del decreto legislativo 30 giugno 2003, n. 196, e' cosi' modificato:
+
+                            
+                            
+                                a)
+                                
+                                    nel comma 1, sono soppresse le parole da: " o con l'ammenda da" fino alla fine del comma;
+                                
+                            
+                            
+                                b)
+                                
+                                    nel comma 2, le parole: "quarto del massimo dell'ammenda stabilita per la contravvenzione" sono sostituite dalle seguenti: "quarto del massimo della sanzione stabilita per la violazione amministrativa".
 
 All'articolo 62, comma 1, del decreto legislativo 6 settembre 2005, n. 206, le parole: "da euro cinquecentosedici a euro cinquemilacentosessantacinque" sono sostituite da: "da tremila euro a diciottomila euro".
 

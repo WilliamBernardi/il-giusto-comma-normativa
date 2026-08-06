@@ -9,7 +9,7 @@ vigente: true
 source: normattiva-opendata
 collection: Atti di attuazione Regolamenti UE
 zip_date: 2026-07-24
-fetched_at: 2026-08-02T09:38:54Z
+fetched_at: 2026-07-24
 ---
 
 DECRETO MINISTERIALE
@@ -61,6 +61,47 @@ Se la superficie da ritirare e' interessata dalla consociazione tra colture di s
 
 ## Art. 4. — Destinazione delle terre
 
+1.
+                    
+                        
+                            La concessione degli aiuti di cui all'art. 1 e' in ogni caso subordinata alla destinazione della superficie ai seguenti scopi:
+
+                        
+                        
+                            a)
+                            
+                                imboschimento, con particolare riguardo a specie forestali autoetone e pregiate, ai pioppeti e ad altre specie a rapido accrescimento compatibili con l'ambiente;
+                            
+                        
+                        
+                            b)
+                            
+                                utilizzazioni a scopi non agricoli incluse quelle agrituristiche e sportive ed incluse quelle che comportino costruzioni permanenti non attinenti alle attivita' aziendali;
+                            
+                        
+                        
+                            c)
+                            
+                                messa a riposo;
+                            
+                        
+                        
+                            d)
+                            
+                                messa a riposo in rotazione;
+                            
+                        
+                        
+                            e)
+                            
+                                creazione di pascoli destinati all'allevamento estensivo;
+                            
+                        
+                        
+                            f)
+                            
+                                produzione di lenticchie, ceci e vecce eventualmente anche in rotazione.
+
 La destinazione di seminativi ritirati dalla produzione a pascolo permanente estensivo puo' essere decisa anche da aziende non zootecniche che, pertanto, hanno diritto al premio di cui all'art. 5 comma 3. Sono esclusi dalla destinazione in questione i seminativi gia' utilizzati a pascolo permanente nel periodo di riferimento.
 
 Le utilizzazioni di cui alle lettere e) ed f) sono consentite fino al 30 aprile 1991, salvo diversa determinazione del Consiglio delle Comunita' europee.
@@ -103,6 +144,78 @@ L'aiuto di cui all'art. 5, comma 2 puo' essere concesso, su domanda, ai seminati
 
 I seminativi ritirati dalla produzione destinati all'imboschimento restano assoggettati ai vincoli previsti dalle vigenti norme sui boschi, per la sola durata del ciclo produttivo delle assenze impiegate.
 
+3.
+                    
+                        
+                            Sulla base delle proposte presentate dalle regioni e dalla provincia autonoma di Bolzano sono individuate, con provvedimento del Ministro, le seguenti zone preferenziali. Il Ministro, d'intesa con le predette amministrazioni, con successivo regolamento, potra' limitare la superficie delle zone preferenziali ed in particolare di quelle indicate alla lettera l):
+
+                        
+                        
+                            a)
+                            
+                                parchi e riserve naturali, nonche' i relativi territori di protezione esterna;
+                            
+                        
+                        
+                            b)
+                            
+                                territori contermini ai laghi, compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche se elevati sui laghi di cui alla legge n. 431 dell'8 agosto 1985;
+                            
+                        
+                        
+                            c)
+                            
+                                fiumi, torrenti e corsi d'acqua iscritti negli elenchi di cui al testo unico delle disposizioni di legge sulle acque ed impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775 e relative sponde o piede degli argini per una fascia di 150 metri ciascuna di cui alla legge n. 431 dell'8 agosto 1985;
+                            
+                        
+                        
+                            d)
+                            
+                                territori costieri compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche se elevati sul mare di cui alla gia' citata legge n. 431 dell'8 agosto 1985;
+                            
+                        
+                        
+                            e)
+                            
+                                zone umide incluse nell'elenco di cui al decreto del Presidente della Repubblica 13 marzo 1976, n. 448;
+                            
+                        
+                        
+                            f)
+                            
+                                aziende faunistico-venatorie e agro-venatorie;
+                            
+                        
+                        
+                            g)
+                            
+                                oasi di protezione della fauna selvatica e zone di ripopolamento e cattura, ex legge n. 968/77;
+                            
+                        
+                        
+                            h)
+                            
+                                territori a gestione sociale della caccia, ex legge n. 968/77;
+                            
+                        
+                        
+                            i)
+                            
+                                aree di salvaguardia delle risorse idriche di cui all'art. 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236;
+                            
+                        
+                        
+                            l)
+                            
+                                zone svantaggiate di cui all'art. 3, paragrafi 3 e 4, della direttiva CEE n. 75/268.
+4) Nelle aree preferenziali:
+a) l'aiuto all'imboschimento di cui all'art. 20 del regolamento CEE n. 797/85 e' concesso nella misura massima di 3.000 ECU ad ettaro, per una superficie non inferiore a due ettari e limitatamente agli impianti di specie forestali di cui all'art. 4, comma 1, lettera a).
+Tuttavia per i pioppeti l'aiuto e' concesso nella misura massima di 1.800 ECU ad ettaro;
+b) il premio di cui all'art. 20-bis del regolamento CEE n. 797/85 e' concesso nella misura massima di 50 ECU per ettaro imboschito all'anno, per una superficie non inferiore a due ettari, per un periodo non speriore a 20 anni e limitatamente agli impianti di spe- cie forestali di cui all'art. 4, comma 1, lettera a). Tuttavia per i pioppeti il premio e' concesso nella misura massima di 25 ECU ad ettaro.
+5. Gli aiuti di cui al precedente comma vengono corrisposti su domanda degli interessati corredata di un piano di imboschimento che deve indicare almeno le essenze e le tecniche di impianto prescelte.
+6. La domanda relativa agli aiuti in questione puo' essere presentata dai singoli agricoltori interessati o da consorzi forestali, consorzi di bonifica e di miglioramento fondario, comunita' montane e da altri raggruppamenti di produttori che abbiano predisposto un piano globale di imboschimento riguardante l'insieme dei seminativi degli associati ritirati dalla produzione e destinati a bosco.
+7. Quando la domanda viene presentata da un raggruppamento di produttori gli aiuti e i premi vengono corrisposti al raggruppamento per conto dei singoli agricoltori il quale puo' trattenere i costi concordati con gli associati per i servizi effettuati. In deroga alla norma di cui all'art. 3, comma 4, gli aiuti e i premi di cui agli articoli 5 e 6 sono concessi anche alle superfici non contigue inferiori a mezzo ettaro.
+
 ## Art. 7. — Corresponsabilita'
 
 1.I produttori che ritirano dalla produzione almeno il 30% dei loro seminativi sono esonerati, per un quantitativo di 20 tonnellate, dal prelievo di corresponsabilita' di cui all'art. 4 del regolamento CEE n. 2727/75, nonche' dal prelievo di corresponsabilita' supplementare di cui all'art. 4-ter, paragrafo 2 dello stesso regolamento. Le modalita' di applicazione di tale esenzione sono state determinate con decreto ministeriale n. 242 del 13 giugno 1989.
@@ -112,6 +225,22 @@ I seminativi ritirati dalla produzione destinati all'imboschimento restano assog
 Per ottenere la concessione del contributo di cui all'art. 5, il beneficiario, oltre a sottoscrivere sotto la sua responsabilita' l'impegno di cui all'art. 8 del regolamento CEE della Commissione n. 1272/88, secondo lo schema allegato al presente decreto, deve compilare una domanda di aiuto in duplice copia conforme alle indicazione dell'art. 7 dello stesso regolamento CEE ed ai modelli allegati al presente decreto, indirizzandone una al Ministero- Gabinetto del Ministro - Ufficio agroindustria e l'altra ai competenti uffici delle regioni o della provincia autonoma di Bolzano.
 
 Il Ministero, le regioni e la provincia autonoma di Bolzano determineranno la data di scadenza annuale di presentazione delle domande di aiuto, per ciascun seminativo ritirato, nell'arco di tempo compreso tra le prime semine autunnali e le ultime primaverili. Per la campagna 1989/90 le domande devono essere presentate entro e non oltre la data del 31 marzo 1990. Per le successive campagne il termine sara' stabilito con altro provvedimento ministeriale e, comunque, in data non inferiore a trenta giorni dalla pubblicazione del provvedimento stesso nella Gazzetta Ufficiale della Repubblica italiana.
+
+3.
+                    
+                        
+                            Qualora le superfici ritirate dalla produzione siano inserite nell'avvicendamento colturale dell'azienda, il beneficiario e' tenuto ad indicare le particelle che ogni anno sono messe o mantenute a riposo, presentando ai competenti uffici che hanno ricevuto inizialmente la domanda, il modello n. 3 allegato al presente decreto. Nella sezione 
+                        
+                        
+                            a)
+                            
+                                dovranno essere indicate le nuove particelle da ritirare dalla produzione; nella sezione
+                            
+                        
+                        
+                            b)
+                            
+                                le particelle messe a riposo nella campagna precedente. Il citato modello n. 3 dovra' essere prodotto nuovamente entro la stessa data di scadenza di cui al precedente comma 2. Il caso di spedizione postale o per corriere fa fede la data di spedizione della documentazione.
 
 Per ottenere la concessione degli aiuti di cui all'art. 6, comma 4, il richiedente deve presentare una domanda in duplice copia, corredata del piano di imboschimento e dei modelli nn. 6 e 6-bis, allegati al presente decreto, indirizzando una delle copie al Ministero - Gabinetto del Ministro - Ufficio agroindustria e l'altra ai competenti uffici delle regioni o della provincia autonoma di Bolzano.
 

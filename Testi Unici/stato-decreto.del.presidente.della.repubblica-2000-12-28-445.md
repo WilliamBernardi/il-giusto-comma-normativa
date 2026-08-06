@@ -9,8 +9,8 @@ vigente: true
 source: normattiva-opendata
 collection: Testi Unici
 vigenza_date: 2026-02-19
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:40:00Z
+zip_date: 2026-08-06
+fetched_at: 2026-08-06
 ---
 
 DECRETO DEL PRESIDENTE DELLA REPUBBLICA
@@ -37,6 +37,265 @@ DECRETO DEL PRESIDENTE DELLA REPUBBLICA RECANTE IL
 ## Art. 1. — Definizioni
 
 
+
+1.
+                        
+                            
+                                Ai fini del presente testo unico si intende per:
+ 
+                            
+                            
+                                a)
+                                
+                                    DOCUMENTO AMMINISTRATIVO ogni rappresentazione, comunque formata, del contenuto di atti, anche interni, delle pubbliche amministrazioni o, comunque, utilizzati ai fini dell'attivita' amministrativa. Le relative modalita' di trasmissione sono quelle indicate al capo II, sezione III, del presente testo unico;
+
+                                
+                            
+                            
+                                b)
+                                
+                                    DOCUMENTO INFORMATICO la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti;
+
+                                
+                            
+                            
+                                c)
+                                
+                                    DOCUMENTO DI RICONOSCIMENTO ogni documento munito di fotografia del titolare e rilasciato, su supporto cartaceo, magnetico o informatico, da una pubblica amministrazione italiana o di altri Stati, che consenta l'identificazione personale del titolare;
+
+                                
+                            
+                            
+                                d)
+                                
+                                    DOCUMENTO D'IDENTITA' la carta d'identita' ed ogni altro documento munito di fotografia del titolare e rilasciato, su supporto cartaceo, magnetico o informatico, da una pubblica amministrazione competente dello Stato italiano o di altri Stati, con la finalita' prevalente di dimostrare l'identita' personale del suo titolare;
+
+                                
+                            
+                            
+                                e)
+                                
+                                    DOCUMENTO D'IDENTITA' ELETTRONICO il documento analogo alla carta d'identita' elettronica rilasciato dal comune fino al compimento del quindicesimo anno di eta';
+
+                                
+                            
+                            
+                                f)
+                                
+                                    CERTIFICATO il documento rilasciato da una amministrazione pubblica avente funzione di ricognizione, riproduzione o partecipazione a terzi di stati, qualita' personali e fatti contenuti in albi, elenchi o registri pubblici o comunque accertati da soggetti titolari di funzioni pubbliche;
+
+                                
+                            
+                            
+                                g)
+                                
+                                    DICHIARAZIONE SOSTITUTIVA DI CERTIFICAZIONE il documento, sottoscritto dall'interessato, prodotto in sostituzione del certificato di cui alla lettera f);
+
+                                
+                            
+                            
+                                h)
+                                
+                                    DICHIARAZIONE SOSTITUTIVA DI ATTO DI NOTORIETA' il documento sottoscritto dall'interessato, concernente stati, qualita' personali e fatti, che siano a diretta conoscenza di questi, resa nelle forme previste dal presente testo unico;
+
+                                
+                            
+                            
+                                i)
+                                
+                                    AUTENTICAZIONE DI SOTTOSCRIZIONE, l'attestazione, da parte di un pubblico ufficiale, che la sottoscrizione e' stata apposta in sua presenza, previo accertamento dell'identita' della persona che sottoscrive;
+
+                                
+                            
+                            
+                                l)
+                                
+                                    LEGALIZZAZIONE DI FIRMA l'attestazione ufficiale della legale qualita' di chi ha apposto la propria firma sopra atti, certificati, copie ed estratti, nonche' dell'autenticita' della firma stessa;
+
+                                
+                            
+                            
+                                m)
+                                
+                                    LEGALIZZAZIONE DI FOTOGRAFIA l'attestazione, da parte di una pubblica amministrazione competente, che un'immagine fotografica corrisponde alla persona dell'interessato;
+
+                                
+                            
+                            
+                                n)
+                                
+                                    FIRMA DIGITALE e' un particolare tipo di firma elettronica qualificata basata su un sistema di chiavi asimmetriche a coppia, una pubblica e una privata, che consente al titolare tramite la chiave privata e al destinatario tramite la chiave pubblica, rispettivamente, di rendere manifesta e di verificare la provenienza e l'integrita' di un documento informatico o di un insieme di documenti informatici;
+
+                                
+                            
+                            
+                                o)
+                                
+                                    AMMINISTRAZIONI PROCEDENTI le amministrazioni e, nei rapporti con l'utenza, i gestori di pubblici servizi che ricevono le dichiarazioni sostitutive di cui alle lettere g) e h) ovvero provvedono agli accertamenti d'ufficio ai sensi dell'articolo 43;
+
+                                
+                            
+                            
+                                p)
+                                
+                                    AMMINISTRAZIONI CERTIFICANTI le amministrazioni e i gestori di pubblici servizi che detengono nei propri archivi le informazioni e i dati contenuti nelle dichiarazioni sostitutive, o richiesti direttamente dalle amministrazioni procedenti ai sensi degli articoli 43 e 71;
+
+                                
+                            
+                            
+                                q)
+                                
+                                    GESTIONE DEI DOCUMENTI l'insieme delle attivita' finalizzate alla registrazione di protocollo e alla classificazione, organizzazione, assegnazione e reperimento dei documenti amministrativi formati o acquisiti dalle amministrazioni, nell'ambito del sistema di classificazione d'archivio adottato; essa e' effettuata mediante sistemi informativi automatizzati;
+
+                                
+                            
+                            
+                                r)
+                                
+                                    SISTEMA DI GESTIONE INFORMATICA DEI DOCUMENTI l'insieme delle risorse di calcolo, degli apparati, delle reti di comunicazione e delle procedure informatiche utilizzati dalle amministrazioni per la gestione dei documenti;
+
+                                
+                            
+                            
+                                s)
+                                
+                                    SEGNATURA DI PROTOCOLLO l'apposizione o l'associazione, all'originale del documento, in forma permanente e non modificabile delle informazioni riguardanti il documento stesso;
+
+                                
+                            
+                            
+                                t)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                u)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                v)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                z)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                ff)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                gg)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                hh)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                ii)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                ll)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                mm)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                nn)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 ));
+
+                                
+                            
+                            
+                                oo)
+                                
+                                    
+                                        (( LETTERA ABROGATA DAL D.LGS. 7 MARZO 2005, N. 82 )).
 
 ## Art. 2. — (L) 
  Oggetto
@@ -412,6 +671,24 @@ I documenti trasmessi da chiunque ad una pubblica amministrazione tramite fax, o
 
 ((
 
+1.
+                        
+                            
+                                Lo sportello unico per le attivita' produttive: 
+ 
+                            
+                            
+                                a)
+                                
+                                    trasmette alle altre amministrazioni pubbliche coinvolte nel procedimento le comunicazioni e i documenti attestanti atti, fatti, qualita', stati soggettivi, nonche' gli atti di autorizzazione, licenza, concessione, permesso o nulla osta comunque denominati rilasciati dallo stesso sportello unico per le attivita' produttive o acquisiti da altre amministrazioni ovvero comunicati dall'impresa o dalle agenzie per le imprese, ivi comprese le certificazioni di qualita' o ambientali; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    invia alla camera di commercio, industria, artigianato e agricoltura territorialmente competente, ai fini del loro inserimento nel Repertorio delle notizie economiche e amministrative (REA) e al fine della raccolta e conservazione in un fascicolo informatico per ciascuna impresa, il duplicato informatico dei documenti di cui alla lettera a).
+
 Le comunicazioni tra lo sportello unico per le attivita' produttive, le amministrazioni pubbliche, le camere di commercio, industria, artigianato e agricoltura, le imprese e le agenzie per le imprese avvengono esclusivamente in modalita' telematica secondo le disposizioni vigenti.
 
 Le amministrazioni non possono richiedere ai soggetti interessati la produzione dei documenti da acquisire ai sensi del comma 1, lettera a).
@@ -446,6 +723,199 @@ Qualora l'interessato sia in possesso di un documento di identita' o di riconosc
 
 ## Art. 46. — (R) 
  Dichiarazioni sostitutive di certificazioni
+
+1.
+                        
+                            
+                                Sono comprovati con dichiarazioni, anche contestuali all'istanza, sottoscritte dall'interessato e prodotte in sostituzione delle normali certificazioni i seguenti stati, qualita' personali e fatti: 
+ 
+                            
+                            
+                                a)
+                                
+                                    data e il luogo di nascita; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    residenza; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    cittadinanza; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    godimento dei diritti civili e politici; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    stato di celibe, coniugato, vedovo o stato libero; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    stato di famiglia; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    esistenza in vita; 
+
+                                
+                            
+                            
+                                h)
+                                
+                                    nascita del figlio, decesso del coniuge, dell'ascendente o discendente; 
+
+                                
+                            
+                            
+                                i)
+                                
+                                    iscrizione in albi, in elenchi tenuti da pubbliche amministrazioni; 
+
+                                
+                            
+                            
+                                l)
+                                
+                                    appartenenza a ordini professionali; 
+
+                                
+                            
+                            
+                                m)
+                                
+                                    titolo di studio, esami sostenuti; 
+
+                                
+                            
+                            
+                                n)
+                                
+                                    qualifica professionale posseduta, titolo di specializzazione, di abilitazione, di formazione, di aggiornamento e di qualificazione tecnica; 
+
+                                
+                            
+                            
+                                o)
+                                
+                                    situazione reddituale o economica anche ai fini della concessione dei benefici di qualsiasi tipo previsti da leggi speciali; 
+
+                                
+                            
+                            
+                                p)
+                                
+                                    assolvimento di specifici obblighi contributivi con l'indicazione dell'ammontare corrisposto; 
+
+                                
+                            
+                            
+                                q)
+                                
+                                    possesso e numero del codice fiscale, della partita IVA e di qualsiasi dato presente nell'archivio dell'anagrafe tributaria; 
+
+                                
+                            
+                            
+                                r)
+                                
+                                    stato di disoccupazione; 
+
+                                
+                            
+                            
+                                s)
+                                
+                                    qualita' di pensionato e categoria di pensione; 
+
+                                
+                            
+                            
+                                t)
+                                
+                                    qualita' di studente; 
+
+                                
+                            
+                            
+                                u)
+                                
+                                    qualita' di legale rappresentante di persone fisiche o giuridiche, di tutore, di curatore e simili; 
+
+                                
+                            
+                            
+                                v)
+                                
+                                    iscrizione presso associazioni o formazioni sociali di qualsiasi tipo; 
+
+                                
+                            
+                            
+                                z)
+                                
+                                    tutte le situazioni relative all'adempimento degli obblighi militari, ivi comprese quelle attestate nel foglio matricolare dello stato di servizio; 
+
+                                
+                            
+                            
+                                aa)
+                                
+                                    di non aver riportato condanne penali e di non essere destinatario di provvedimenti che riguardano l'applicazione di misure di sicurezza e di misure di prevenzione, di decisioni civili e di provvedimenti amministrativi iscritti nel casellario giudiziale ai sensi della vigente normativa; 
+
+                                
+                            
+                            
+                                bb)
+                                
+                                    di non essere a conoscenza di essere sottoposto a procedimenti penali; 
+
+                                
+                            
+                            
+                                bb-bis)
+                                
+                                    di non essere l'ente destinatario di provvedimenti giudiziari che applicano le sanzioni amministrative di cui al decreto legislativo 8 giugno 2001, n. 231; 
+
+                                
+                            
+                            
+                                cc)
+                                
+                                    qualita' di vivenza a carico; 
+
+                                
+                            
+                            
+                                dd)
+                                
+                                    tutti i dati a diretta conoscenza dell'interessato contenuti nei registri dello stato civile; 
+
+                                
+                            
+                            
+                                ee)
+                                
+                                    di non trovarsi in stato di liquidazione o di fallimento e di non aver presentato domanda di concordato. (R) (3)((21))
 
 ---------------
                             AGGIORNAMENTO (3)
@@ -507,8 +977,90 @@ Le amministrazioni centrali dello Stato provvedono alla gestione informatica dei
 ## Art. 52. — (R)
  Il sistema di gestione informatica dei documenti
 
+1.
+                        
+                            
+                                Il sistema di gestione informatica dei documenti, in forma abbreviata "sistema" deve:
+
+                            
+                            
+                                a)
+                                
+                                    garantire la sicurezza e l'integrita' del sistema;
+                                
+                            
+                            
+                                b)
+                                
+                                    garantire la corretta e puntuale registrazione di protocollo dei documenti in entrata e in uscita;
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire informazioni sul collegamento esistente tra ciascun documento ricevuto dall'amministrazione e i documenti dalla stessa formati nell'adozione dei provvedimenti finali;
+                                
+                            
+                            
+                                d)
+                                
+                                    consentire il reperimento delle informazioni riguardanti i documenti registrati;
+                                
+                            
+                            
+                                e)
+                                
+                                    consentire, in condizioni di sicurezza, l'accesso alle informazioni del sistema da parte dei soggetti interessati, nel rispetto delle disposizioni in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
+                                
+                            
+                            
+                                f)
+                                
+                                    garantire la corretta organizzazione dei documenti nell'ambito del sistema di classificazione d'archivio adottato.
+
 ## Art. 53. — (R)
  Registrazione di protocollo
+
+1.
+                        
+                            
+                                La registrazione di protocollo per ogni documento ricevuto o spedito dalle pubbliche amministrazioni e' effettuata mediante la memorizzazione delle seguenti informazioni:
+
+                            
+                            
+                                a)
+                                
+                                    numero di protocollo del documento generato automaticamente dal sistema e registrato in forma non modificabile;
+                                
+                            
+                            
+                                b)
+                                
+                                    data di registrazione di protocollo assegnata automaticamente dal sistema e registrata in forma non modificabile;
+                                
+                            
+                            
+                                c)
+                                
+                                    mittente per i documenti ricevuti o, in alternativa, il destinatario o i destinatari per i documenti spediti, registrati in forma non modificabile;
+                                
+                            
+                            
+                                d)
+                                
+                                    oggetto del documento, registrato in forma non modificabile;
+                                
+                            
+                            
+                                e)
+                                
+                                    data e protocollo del documento ricevuto, se disponibili;
+                                
+                            
+                            
+                                f)
+                                
+                                    l'impronta del documento informatico, se trasmesso per via telematica, costituita dalla sequenza di simboli binari in grado di identificarne univocamente il contenuto, registrata in forma non modificabile.
 
 Il sistema deve consentire la produzione del registro giornaliero di protocollo, costituito dall'elenco delle informazioni inserite con l'operazione di registrazione di protocollo nell'arco di uno stesso giorno.
 
@@ -527,6 +1079,29 @@ La procedura per indicare l'annullamento riporta, secondo i casi, una dicitura o
 
 ## Art. 55. — (R)
  Segnatura di protocollo
+
+1.
+                        
+                            
+                                La segnatura di protocollo e' l'apposizione o l'associazione all'originale del documento, in forma permanente non modificabile, delle informazioni riguardanti il documento stesso. Essa consente di individuare ciascun documento in modo inequivocabile. Le informazioni minime previste sono:
+
+                            
+                            
+                                a)
+                                
+                                    il progressivo di protocollo, secondo il formato disciplinato all'articolo 57;
+                                
+                            
+                            
+                                b)
+                                
+                                    la data di protocollo;
+                                
+                            
+                            
+                                c)
+                                
+                                    l'identificazione in forma sintetica dell'amministrazione o dell'area organizzativa individuata ai sensi dell'articolo 50, comma 4.
 
 L'operazione di segnatura di protocollo va effettuata contemporaneamente all'operazione di registrazione di protocollo.
 
@@ -575,6 +1150,23 @@ Nel caso di accesso effettuato da soggetti non appartenenti alla pubblica ammini
 
 Le pubbliche amministrazioni che, mediante proprie applicazioni informatiche, accedono al sistema di gestione informatica dei documenti delle grandi aree organizzative omogenee di cui al comma 4 dell'articolo 50, adottano le modalita' di interconnessione stabilite nell'ambito delle norme e dei criteri tecnici emanati per la realizzazione della rete unitaria delle pubbliche amministrazioni.
 
+2.
+                        
+                            
+                                Le pubbliche amministrazioni che accedono ai sistemi di gestione informatica dei documenti attraverso la rete unitaria delle pubbliche amministrazioni utilizzano funzioni minime e comuni di accesso per ottenere le seguenti informazioni:
+
+                            
+                            
+                                a)
+                                
+                                    numero e data di registrazione di protocollo dei documenti, ottenuti attraverso l'indicazione alternativa o congiunta dell'oggetto, della data di spedizione, del mittente, del destinatario;
+                                
+                            
+                            
+                                b)
+                                
+                                    numero e data di registrazione di protocollo del documento ricevuto, ottenuti attraverso l'indicazione della data e del numero di protocollo attribuiti dall'amministrazione al documento spedito.
+
 Ai fini del presente articolo, le pubbliche amministrazioni provvedono autonomamente, sulla base delle indicazioni fornite dall'Autorita' per l'informatica nella pubblica amministrazione, alla determinazione dei criteri tecnici ed organizzativi per l'accesso ai documenti e alle informazioni del sistema di gestione informatica dei documenti.
 
 ## - SEZIONE TERZA TENUTA E CONSERVAZIONE DEL SISTEMA Dl GESTIONE DEI DOCUMENTI
@@ -586,6 +1178,59 @@ Ai fini del presente articolo, le pubbliche amministrazioni provvedono autonomam
 Ciascuna amministrazione istituisce un servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi in ciascuna delle grandi aree organizzative omogenee individuate ai sensi dell'articolo 50. Il servizio e' posto alle dirette dipendenze della stessa area organizzativa omogenea.
 
 Al servizio e' preposto un dirigente ovvero un funzionario, comunque in possesso di idonei requisiti professionali o di professionalita' tecnico archivistica acquisita a seguito di processi di formazione definiti secondo le procedure prescritte dalla disciplina vigente.
+
+3.
+                        
+                            
+                                Il servizio svolge i seguenti compiti:
+
+                            
+                            
+                                a)
+                                
+                                    attribuisce il livello di autorizzazione per l'accesso alle funzioni della procedura, distinguendo tra abilitazioni alla consultazione e abilitazioni all'inserimento e alla modifica delle informazioni;
+                                
+                            
+                            
+                                b)
+                                
+                                    garantisce che le operazioni di registrazione e di segnatura di protocollo si svolgano nel rispetto delle disposizioni del presente testo unico;
+                                
+                            
+                            
+                                c)
+                                
+                                    garantisce la corretta produzione e la conservazione del registro giornaliero di protocollo di cui all'articolo 53;
+                                
+                            
+                            
+                                d)
+                                
+                                    cura che le funzionalita' del sistema in caso di guasti o anomalie siano ripristinate entro ventiquattro ore dal blocco delle attivita' e, comunque, nel piu' breve tempo possibile;
+                                
+                            
+                            
+                                e)
+                                
+                                    conserva le copie di cui agli articoli 62 e 63, in luoghi sicuri differenti;
+                                
+                            
+                            
+                                f)
+                                
+                                    garantisce il buon funzionamento degli strumenti e dell'organizzazione delle attivita' di registrazione di protocollo, di gestione dei documenti e dei flussi documentali, incluse le funzionalita' di accesso di cui agli articoli 59 e 60 e le attivita' di gestione degli archivi di cui agli articoli 67, 68 e 69;
+                                
+                            
+                            
+                                g)
+                                
+                                    autorizza le operazioni di annullamento di cui all'articolo 54;
+                                
+                            
+                            
+                                h)
+                                
+                                    vigila sull'osservanza delle disposizioni del presente testo unico da parte del personale autorizzato e degli incaricati.
 
 ## Art. 62. — (R)
  Procedure di salvataggio e conservazione
@@ -628,6 +1273,35 @@ Le amministrazioni determinano autonomamente e in modo coordinato per le aree or
 ## Art. 65. — (R)
  Requisiti del sistema per la
  gestione dei flussi documentali
+
+1.
+                        
+                            
+                                Oltre a possedere i requisiti indicati all'articolo 52, il sistema per la gestione dei flussi documentali deve:
+
+                            
+                            
+                                a)
+                                
+                                    fornire informazioni sul legame esistente tra ciascun documento registrato, il fascicolo ed il singolo procedimento cui esso e' associato;
+                                
+                            
+                            
+                                b)
+                                
+                                    consentire il rapido reperimento delle informazioni riguardanti i fascicoli, il procedimento ed il relativo responsabile, nonche' la gestione delle fasi del procedimento;
+                                
+                            
+                            
+                                c)
+                                
+                                    fornire informazioni statistiche sull'attivita' dell'ufficio;
+                                
+                            
+                            
+                                d)
+                                
+                                    consentire lo scambio di informazioni con sistemi per la gestione dei flussi documentali di altre amministrazioni al fine di determinare lo stato e l'iter dei procedimenti complessi.
 
 ## Art. 66. — (R)
  Specificazione delle informazioni previste
@@ -767,6 +1441,60 @@ Le disposizioni in materia di documentazione amministrativa contenute nei capi I
 
 ## Art. 78. — (L-R) 
  Norme che rimangono in vigore
+
+1.
+                        
+                            
+                                Dalla data di entrata in vigore del presente testo unico restano comunque in vigore: 
+ 
+                            
+                            
+                                a)
+                                
+                                    le vigenti disposizioni legislative e regolamentari in materia di trasmissione delle dichiarazioni fiscali di cui al D.P.R. 22 luglio 1998, n. 322, al D.P.R. 14 ottobre 1999, n. 542, al D.P.R. 10 marzo 2000, n. 100, al decreto direttoriale 31 luglio 1998, al decreto direttoriale 29 marzo 2000, al D.M. 31 maggio 1999, n. 164, e le disposizioni di cui al decreto legislativo 31 marzo 1998, n. 109 concernenti la dichiarazione sostitutiva unica per la determinazione dell'indicatore della situazione economica equivalente dei soggetti che richiedono prestazioni sociali agevolate; 
+
+                                
+                            
+                            
+                                b)
+                                
+                                    il D.P.R. 26 ottobre 1972 n. 642 in materia di imposta di bollo; 
+
+                                
+                            
+                            
+                                c)
+                                
+                                    gli articoli 18 e 30 della legge 7 agosto 1990 n. 241; 
+
+                                
+                            
+                            
+                                d)
+                                
+                                    l'articolo 2, comma 15, secondo periodo della legge 24 dicembre 1993 n. 537; 
+
+                                
+                            
+                            
+                                e)
+                                
+                                    le disposizioni in materia di dati personali di cui alla legge 31 dicembre 1996, n. 675 e ai decreti legislativi adottati in attuazione delle leggi 31 dicembre 1996, n. 676 e 6 ottobre 1998, n. 344; 
+
+                                
+                            
+                            
+                                f)
+                                
+                                    fino alla loro sostituzione, i regolamenti ministeriali, le direttive e i decreti ministeriali a contenuto generale, nonche' le regole tecniche gia' emanate alla data di entrata in vigore del presente testo unico; 
+
+                                
+                            
+                            
+                                g)
+                                
+                                    tutte le disposizioni legislative in materia di conservazione di beni archivistici di cui al capo il del d.Lgs. 29 ottobre 1999, n. 
+490.
 
 Per le forze di polizia, restano in vigore, con riferimento agli articoli 43, comma 4, 59 e 60, le particolari disposizioni di legge e di regolamento concernenti i trattamenti di dati personali da parte delle forze dell'ordine, ai sensi dell'articolo 4 legge 31 dicembre 1996, n. 675. 
  
